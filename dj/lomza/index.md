@@ -1,14 +1,15 @@
 # Łomża
 
-Łomża is a Techno and Electronica artist with 1 upcoming club date listed on soundcheck as of Tue, 8 Sept 2026, next at Smolna, Warsaw on Thu, 10 Sept 2026.
+Łomża is a Techno and Electronica artist with 2 upcoming club dates listed on soundcheck as of Wed, 9 Sept 2026, next at Smolna, Warsaw on Thu, 10 Sept 2026.
 
-Łomża is a techno and electronica artist based in Poland, tracked on soundcheck, with 3 sets logged across Warsaw. Often billed alongside Dynamic Goose, Pancha and Trans Timmermans. Next up: Smolna, Warsaw on Thu 10 Sept.
+Łomża is a techno and electronica artist based in Poland, tracked on soundcheck, with 4 sets logged across Warsaw. Often billed alongside Dynamic Goose, Pancha and Dedenia. Next up: Smolna, Warsaw on Thu 10 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Thu, 10 Sept 2026 | Smolna | Warsaw |
+| Fri, 18 Sept 2026 | underiolo | Warsaw |
 
 ## Recently played
 
@@ -17,6 +18,6 @@
 
 ## Shares bills with
 
-Dynamic Goose, Pancha, Trans Timmermans
+Dynamic Goose, Pancha, Dedenia
 
-*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lomza/)*
+*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lomza/)*

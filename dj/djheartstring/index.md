@@ -1,6 +1,6 @@
 # DJ Heartstring
 
-DJ Heartstring is a Techno and Trance artist with 9 upcoming club dates listed on soundcheck as of Tue, 8 Sept 2026, next at Palmerstown House Estate, Dublin on Fri, 11 Sept 2026.
+DJ Heartstring is a Techno and Trance artist with 9 upcoming club dates listed on soundcheck as of Wed, 9 Sept 2026, next at Palmerstown House Estate, Dublin on Fri, 11 Sept 2026.
 
 DJ Heartstring is a techno and trance artist tracked on soundcheck, with 219 sets logged across Amsterdam, Antwerp, Austin and Barcelona and 64 more. Often billed alongside MALUGI, Partiboi69 and KETTAMA. Next up: Palmerstown House Estate, Dublin on Fri 11 Sept.
 
@@ -33,4 +33,4 @@ DJ Heartstring is a techno and trance artist tracked on soundcheck, with 219 set
 
 MALUGI, Partiboi69, KETTAMA
 
-*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djheartstring/)*
+*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djheartstring/)*

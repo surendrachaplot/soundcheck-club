@@ -1,6 +1,6 @@
 # Peverell
 
-Peverell is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Tue, 8 Sept 2026, next at Chinois Ibiza, Ibiza on Sat, 12 Sept 2026.
+Peverell is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Wed, 9 Sept 2026, next at Chinois Ibiza, Ibiza on Sat, 12 Sept 2026.
 
 Peverell is a house and disco artist tracked on soundcheck, with 4 sets logged across Ibiza and Newcastle. Often billed alongside Chus & Ceballos, Claptone and Ethan Gray. Next up: Chinois Ibiza, Ibiza on Sat 12 Sept.
 
@@ -20,4 +20,4 @@ Peverell is a house and disco artist tracked on soundcheck, with 4 sets logged a
 
 Chus & Ceballos, Claptone, Ethan Gray
 
-*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/peverell/)*
+*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/peverell/)*

@@ -1,6 +1,6 @@
 # Craig Smith
 
-Craig Smith is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Tue, 8 Sept 2026, next at Charlies Loft, Glasgow on Fri, 25 Sept 2026.
+Craig Smith is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Wed, 9 Sept 2026, next at Charlies Loft, Glasgow on Fri, 25 Sept 2026.
 
 Craig Smith is a house and disco artist based in United Kingdom, tracked on soundcheck, with 34 sets logged across Berlin, Dublin, Edinburgh and Glasgow and 6 more. Often billed alongside Natasha Kitty Katt, Neil Pierce and Ronnie Herel. Next up: Charlies Loft, Glasgow on Fri 25 Sept.
 
@@ -25,4 +25,4 @@ Craig Smith is a house and disco artist based in United Kingdom, tracked on soun
 
 Natasha Kitty Katt, Neil Pierce, Ronnie Herel
 
-*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/craigsmith/)*
+*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/craigsmith/)*

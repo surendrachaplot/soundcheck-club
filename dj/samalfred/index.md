@@ -1,8 +1,8 @@
 # Sam Alfred
 
-Sam Alfred is a House and Techno artist with 12 upcoming club dates listed on soundcheck as of Tue, 8 Sept 2026, next at TBA - Brussels, Brussels on Fri, 11 Sept 2026.
+Sam Alfred is a House and Techno artist with 13 upcoming club dates listed on soundcheck as of Wed, 9 Sept 2026, next at TBA - Brussels, Brussels on Fri, 11 Sept 2026.
 
-Sam Alfred is a house and techno artist tracked on soundcheck, with 136 sets logged across Amsterdam, Antwerp, Barcelona and Belfast and 47 more. Often billed alongside X CLUB., KETTAMA and SAIDAH. Next up: TBA - Brussels, Brussels on Fri 11 Sept.
+Sam Alfred is a house and techno artist tracked on soundcheck, with 137 sets logged across Amsterdam, Antwerp, Barcelona and Belfast and 47 more. Often billed alongside X CLUB., KETTAMA and SAIDAH. Next up: TBA - Brussels, Brussels on Fri 11 Sept.
 
 ## Upcoming shows
 
@@ -36,4 +36,4 @@ Sam Alfred is a house and techno artist tracked on soundcheck, with 136 sets log
 
 X CLUB., KETTAMA, SAIDAH
 
-*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/samalfred/)*
+*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/samalfred/)*

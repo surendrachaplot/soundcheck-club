@@ -1,6 +1,6 @@
 # Solomun
 
-Solomun is a Techno and House artist with 8 upcoming club dates listed on soundcheck as of Tue, 8 Sept 2026, next at RSO.BERLIN, Berlin on Sat, 12 Sept 2026.
+Solomun is a Techno and House artist with 8 upcoming club dates listed on soundcheck as of Wed, 9 Sept 2026, next at RSO.BERLIN, Berlin on Sat, 12 Sept 2026.
 
 Solomun is a techno and house artist tracked on soundcheck, with 186 sets logged across Amsterdam, Athens, Bali and Barcelona and 35 more. Often billed alongside Chloé Caillet, DJ Tennis and Johannes Brecht. Next up: RSO.BERLIN, Berlin on Sat 12 Sept.
 
@@ -32,4 +32,4 @@ Solomun is a techno and house artist tracked on soundcheck, with 186 sets logged
 
 Chloé Caillet, DJ Tennis, Johannes Brecht
 
-*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/solomun/)*
+*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/solomun/)*

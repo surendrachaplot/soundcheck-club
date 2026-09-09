@@ -1,6 +1,6 @@
 # Hard Club
 
-Hard Club is a music venue in Porto with 1 upcoming night listed on soundcheck as of Tue, 8 Sept 2026; the next is "SNTS , Pestdokter x PSYCHOTIK" on Sat, 19 Sept 2026.
+Hard Club is a music venue in Porto with 1 upcoming night listed on soundcheck as of Wed, 9 Sept 2026; the next is "SNTS , Pestdokter x PSYCHOTIK" on Sat, 19 Sept 2026.
 
 Hard Club is a music venue in Porto listed on soundcheck. 1 upcoming night, with line-ups including Pestdokter and SNTS. Browse upcoming dates, start times and who's playing. Praça do Infante D.Henrique, Porto, Portugal.
 
@@ -14,4 +14,4 @@ Hard Club is a music venue in Porto listed on soundcheck. 1 upcoming night, with
 
 Praça do Infante D.Henrique, Porto, Portugal, Porto
 
-*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/porto/club/hard-club/)*
+*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/porto/club/hard-club/)*

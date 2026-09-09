@@ -1,6 +1,6 @@
 # Rex Club
 
-Rex Club is a music venue in Paris with 18 upcoming nights listed on soundcheck as of Tue, 8 Sept 2026; the next is "Abstract: Red Hours: Rin La Dalle, Ch4i, stargurl, Uzi Nas b2b Sasa" on Wed, 9 Sept 2026.
+Rex Club is a music venue in Paris with 18 upcoming nights listed on soundcheck as of Wed, 9 Sept 2026; the next is "Abstract: Red Hours: Rin La Dalle, Ch4i, stargurl, Uzi Nas b2b Sasa" on Wed, 9 Sept 2026.
 
 Rex Club is a music venue in Paris listed on soundcheck. 18 upcoming nights, with line-ups including 2ManyDJs, Mariiin, Anja Sugar and Antal and 2 more. Browse upcoming dates, start times and who's playing. 5 boulevard Poissonnière; 75002; Paris; France.
 
@@ -23,4 +23,4 @@ Rex Club is a music venue in Paris listed on soundcheck. 18 upcoming nights, wit
 
 5 boulevard Poissonnière; 75002; Paris; France, Paris
 
-*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/paris/club/rex-club/)*
+*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/paris/club/rex-club/)*

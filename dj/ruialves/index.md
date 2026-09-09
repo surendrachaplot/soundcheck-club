@@ -1,6 +1,6 @@
 # Rui Alves
 
-Rui Alves is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Tue, 8 Sept 2026, next at Village Underground Lisboa, Lisbon on Fri, 11 Sept 2026.
+Rui Alves is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Wed, 9 Sept 2026, next at Village Underground Lisboa, Lisbon on Fri, 11 Sept 2026.
 
 Rui Alves is a house and techno artist based in Portugal, tracked on soundcheck, with 49 sets logged across Brussels, Ibiza, Lisbon and Porto. Often billed alongside SLIM J, Banon and Kee_ko. Next up: Village Underground Lisboa, Lisbon on Fri 11 Sept.
 
@@ -27,4 +27,4 @@ Rui Alves is a house and techno artist based in Portugal, tracked on soundcheck,
 
 SLIM J, Banon, Kee_ko
 
-*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ruialves/)*
+*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ruialves/)*

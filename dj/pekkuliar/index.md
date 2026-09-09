@@ -1,6 +1,6 @@
 # pekkuliar
 
-pekkuliar is a House and Acid artist with 2 upcoming club dates listed on soundcheck as of Tue, 8 Sept 2026, next at TBA - Backstage - Carrer Casp, 33B, Barcelona on Thu, 10 Sept 2026.
+pekkuliar is a House and Acid artist with 2 upcoming club dates listed on soundcheck as of Wed, 9 Sept 2026, next at TBA - Backstage - Carrer Casp, 33B, Barcelona on Thu, 10 Sept 2026.
 
 pekkuliar is a house and acid artist tracked on soundcheck, with 54 sets logged across Barcelona, Berlin, Lisbon and London and 1 more. Often billed alongside CMYK, Adria (ES) and Heather (ES). Next up: TBA - Backstage - Carrer Casp, 33B, Barcelona on Thu 10 Sept.
 
@@ -26,4 +26,4 @@ pekkuliar is a house and acid artist tracked on soundcheck, with 54 sets logged 
 
 CMYK, Adria (ES), Heather (ES)
 
-*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/pekkuliar/)*
+*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/pekkuliar/)*

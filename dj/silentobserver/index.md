@@ -1,6 +1,6 @@
 # Silent Observer
 
-Silent Observer is a Techno and Experimental artist with 1 upcoming club date listed on soundcheck as of Tue, 8 Sept 2026, next at Subspace, Denver on Fri, 11 Sept 2026.
+Silent Observer is a Techno and Experimental artist with 1 upcoming club date listed on soundcheck as of Wed, 9 Sept 2026, next at Subspace, Denver on Fri, 11 Sept 2026.
 
 Silent Observer is a techno and experimental artist based in United States of America, tracked on soundcheck, with 4 sets logged across Denver. Often billed alongside Atalef, Konvulsion and Daed. Next up: Subspace, Denver on Fri 11 Sept.
 
@@ -20,4 +20,4 @@ Silent Observer is a techno and experimental artist based in United States of Am
 
 Atalef, Konvulsion, Daed
 
-*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/silentobserver/)*
+*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/silentobserver/)*

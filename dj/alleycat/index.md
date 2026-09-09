@@ -1,6 +1,6 @@
 # Alley Cat
 
-Alley Cat is a Bass and Jungle artist with 2 upcoming club dates listed on soundcheck as of Tue, 8 Sept 2026, next at Four Quarters, London on Fri, 18 Sept 2026.
+Alley Cat is a Bass and Jungle artist with 2 upcoming club dates listed on soundcheck as of Wed, 9 Sept 2026, next at Four Quarters, London on Fri, 18 Sept 2026.
 
 Alley Cat is a bass and jungle artist tracked on soundcheck, with 17 sets logged across Berlin and London. Often billed alongside Haste, DJ Flight and DJ Storm. Next up: Four Quarters, London on Fri 18 Sept.
 
@@ -26,4 +26,4 @@ Alley Cat is a bass and jungle artist tracked on soundcheck, with 17 sets logged
 
 Haste, DJ Flight, DJ Storm
 
-*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/alleycat/)*
+*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/alleycat/)*

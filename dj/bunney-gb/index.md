@@ -1,6 +1,6 @@
 # Bunney
 
-Bunney is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 8 Sept 2026, next at The Cause, London on Sat, 12 Sept 2026.
+Bunney is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 9 Sept 2026, next at The Cause, London on Sat, 12 Sept 2026.
 
 Bunney is a house and techno artist based in United Kingdom, tracked on soundcheck, with 67 sets logged across Amsterdam, Brussels, Ghent and Leeds and 3 more. Often billed alongside Dockett Eddy, Gabriel Finch and Dr Banana. Next up: The Cause, London on Sat 12 Sept.
 
@@ -25,4 +25,4 @@ Bunney is a house and techno artist based in United Kingdom, tracked on soundche
 
 Dockett Eddy, Gabriel Finch, Dr Banana
 
-*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bunney-gb/)*
+*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bunney-gb/)*

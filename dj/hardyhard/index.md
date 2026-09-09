@@ -1,6 +1,6 @@
 # Hardy Hard
 
-Hardy Hard is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Tue, 8 Sept 2026, next at Der Weiße Hase, Berlin on Sat, 19 Sept 2026.
+Hardy Hard is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Wed, 9 Sept 2026, next at Der Weiße Hase, Berlin on Sat, 19 Sept 2026.
 
 Hardy Hard is a techno and tech house artist tracked on soundcheck, with 30 sets logged across Berlin. Often billed alongside Haito, Maschine and Drauf & Dran DJ Team. Next up: Der Weiße Hase, Berlin on Sat 19 Sept.
 
@@ -25,4 +25,4 @@ Hardy Hard is a techno and tech house artist tracked on soundcheck, with 30 sets
 
 Haito, Maschine, Drauf & Dran DJ Team
 
-*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/hardyhard/)*
+*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/hardyhard/)*

@@ -1,13 +1,14 @@
 # Dirtyphonics
 
-Dirtyphonics is a Drum & Bass and Bass artist with 1 upcoming club date listed on soundcheck as of Tue, 8 Sept 2026, next at Parc des Expositions Paris Nord, Paris on Fri, 30 Oct 2026.
+Dirtyphonics is a Drum & Bass and Bass artist with 2 upcoming club dates listed on soundcheck as of Wed, 9 Sept 2026, next at Spin, San Diego on Fri, 16 Oct 2026.
 
-Dirtyphonics is a drum & bass and bass artist tracked on soundcheck, with 23 sets logged across Amsterdam, Auckland, Brisbane and Brussels and 11 more. Often billed alongside Black Sun Empire, Koven and Mandragora. Next up: Parc des Expositions Paris Nord, Paris on Fri 30 Oct.
+Dirtyphonics is a drum & bass and bass artist tracked on soundcheck, with 24 sets logged across Amsterdam, Auckland, Brisbane and Brussels and 12 more. Often billed alongside Black Sun Empire, Koven and Mandragora. Next up: Spin, Sandiego on Fri 16 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 16 Oct 2026 | Spin | San Diego |
 | Fri, 30 Oct 2026 | Parc des Expositions Paris Nord | Paris |
 
 ## Recently played
@@ -25,4 +26,4 @@ Dirtyphonics is a drum & bass and bass artist tracked on soundcheck, with 23 set
 
 Black Sun Empire, Koven, Mandragora
 
-*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dirtyphonics/)*
+*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dirtyphonics/)*

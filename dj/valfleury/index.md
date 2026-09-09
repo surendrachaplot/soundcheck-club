@@ -1,6 +1,6 @@
 # Val Fleury
 
-Val Fleury is a House and Afro House artist with 2 upcoming club dates listed on soundcheck as of Tue, 8 Sept 2026, next at Dead Letter No. 9, New York City on Fri, 18 Sept 2026.
+Val Fleury is a House and Afro House artist with 2 upcoming club dates listed on soundcheck as of Wed, 9 Sept 2026, next at Dead Letter No. 9, New York City on Fri, 18 Sept 2026.
 
 Val Fleury is a house and afro house artist based in Liberia, tracked on soundcheck, with 27 sets logged across Losangeles, Mexicocity, Newyorkcity and Philadelphia. Often billed alongside Bridge (NY), HVNLEE and DJ Sylo. Next up: Dead Letter No. 9, Newyorkcity on Fri 18 Sept.
 
@@ -26,4 +26,4 @@ Val Fleury is a house and afro house artist based in Liberia, tracked on soundch
 
 Bridge (NY), HVNLEE, DJ Sylo
 
-*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/valfleury/)*
+*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/valfleury/)*

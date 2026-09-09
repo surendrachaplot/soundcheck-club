@@ -1,6 +1,6 @@
 # Kepler
 
-Kepler is a House and Tech House artist with 14 upcoming club dates listed on soundcheck as of Tue, 8 Sept 2026, next at Amnesia Ibiza, Ibiza on Thu, 10 Sept 2026.
+Kepler is a House and Tech House artist with 14 upcoming club dates listed on soundcheck as of Wed, 9 Sept 2026, next at Amnesia Ibiza, Ibiza on Thu, 10 Sept 2026.
 
 Kepler is a house and tech house artist tracked on soundcheck, with 156 sets logged across Amsterdam, Auckland, Barcelona and Berlin and 32 more. Often billed alongside Burnski, L.P. Rhythm and Reeshy. Next up: Amnesia Ibiza, Ibiza on Thu 10 Sept.
 
@@ -36,4 +36,4 @@ Kepler is a house and tech house artist tracked on soundcheck, with 156 sets log
 
 Burnski, L.P. Rhythm, Reeshy
 
-*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/Kepler/)*
+*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/Kepler/)*

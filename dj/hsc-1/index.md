@@ -1,6 +1,6 @@
 # HSC (1)
 
-HSC (1) is a Deep House and Minimal Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 8 Sept 2026, next at Blvck Water, Osaka on Wed, 9 Sept 2026.
+HSC (1) is a Deep House and Minimal Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 9 Sept 2026, next at Blvck Water, Osaka on Wed, 9 Sept 2026.
 
 HSC (1) is a deep house and minimal techno artist tracked on soundcheck, with 236 sets logged across Osaka, Seoul and Tokyo. Often billed alongside ALTF4, Cine and OSHALEY. Next up: Blvck Water, Osaka on Wed 9 Sept.
 
@@ -25,4 +25,4 @@ HSC (1) is a deep house and minimal techno artist tracked on soundcheck, with 23
 
 ALTF4, Cine, OSHALEY
 
-*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/hsc-1/)*
+*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/hsc-1/)*

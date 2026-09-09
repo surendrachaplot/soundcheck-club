@@ -1,6 +1,6 @@
 # Maus
 
-Maus is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Tue, 8 Sept 2026, next at Toekomstmuziek, Amsterdam on Sat, 17 Oct 2026.
+Maus is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Wed, 9 Sept 2026, next at Toekomstmuziek, Amsterdam on Sat, 17 Oct 2026.
 
 Maus is a house and deep house artist based in Canada, tracked on soundcheck, with 14 sets logged across Amsterdam, Athens, Frankfurt and Montreal. Often billed alongside Cristobal Urbina, Drag & Drop and Ostrich. Next up: Toekomstmuziek, Amsterdam on Sat 17 Oct.
 
@@ -25,4 +25,4 @@ Maus is a house and deep house artist based in Canada, tracked on soundcheck, wi
 
 Cristobal Urbina, Drag & Drop, Ostrich
 
-*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/maus/)*
+*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/maus/)*

@@ -1,6 +1,6 @@
 # 24Seven Records Invites: Mari.te (FREE OPEN-AIR BEACH PARTY) at Sunseabar Beach Club
 
-24Seven Records Invites: Mari.te (FREE OPEN-AIR BEACH PARTY) at Sunseabar Beach Club on Fri 11 Sept, Barcelona. 5 acts on the bill: Brieela, Diesco, Mari.te and Stefano Andriezzi and 1 more. House and Electro. Preview the line-up and save it on soundcheck.
+24Seven Records Invites: Mari.te (FREE OPEN-AIR BEACH PARTY) at Sunseabar Beach Club on Fri 11 Sept, Barcelona. 6 acts on the bill: Brieela, Diesco, Lis Sarroca and Mari.te and 2 more. House and Electro. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -12,6 +12,7 @@
 
 - Brieela
 - Diesco
+- Lis Sarroca
 - Mari.te
 - Stefano Andriezzi
 - Vince Void

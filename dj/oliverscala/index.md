@@ -1,6 +1,6 @@
 # Oliver Scala
 
-Oliver Scala is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 8 Sept 2026, next at Gaffe, London on Sun, 20 Sept 2026.
+Oliver Scala is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 9 Sept 2026, next at Gaffe, London on Sun, 20 Sept 2026.
 
 Oliver Scala is a techno and house artist tracked on soundcheck, with 21 sets logged across Berlin, London, Manchester and Tokyo and 1 more. Often billed alongside TEDESCO, Gloria Rose and Sob Story. Next up: Gaffe, London on Sun 20 Sept.
 
@@ -25,4 +25,4 @@ Oliver Scala is a techno and house artist tracked on soundcheck, with 21 sets lo
 
 TEDESCO, Gloria Rose, Sob Story
 
-*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/oliverscala/)*
+*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/oliverscala/)*

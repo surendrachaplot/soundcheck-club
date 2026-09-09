@@ -1,6 +1,6 @@
 # Dave Angel
 
-Dave Angel is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Tue, 8 Sept 2026, next at The Love Inn, Bristol on Sat, 19 Sept 2026.
+Dave Angel is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Wed, 9 Sept 2026, next at The Love Inn, Bristol on Sat, 19 Sept 2026.
 
 Dave Angel is a techno and house artist based in United Kingdom, tracked on soundcheck, with 14 sets logged across Amsterdam, Brighton, Bristol and Dublin and 5 more. Often billed alongside Alexander Koning, Remy Unger and ALNA. Next up: The Love Inn, Bristol on Sat 19 Sept.
 
@@ -26,4 +26,4 @@ Dave Angel is a techno and house artist based in United Kingdom, tracked on soun
 
 Alexander Koning, Remy Unger, ALNA
 
-*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/daveangel/)*
+*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/daveangel/)*

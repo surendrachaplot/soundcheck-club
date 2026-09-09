@@ -1,8 +1,8 @@
 # Mirko Loko
 
-Mirko Loko is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 8 Sept 2026, next at 528 Ibiza, Ibiza on Tue, 15 Sept 2026.
+Mirko Loko is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 9 Sept 2026, next at 528 Ibiza, Ibiza on Tue, 15 Sept 2026.
 
-Mirko Loko is a house and techno artist based in Switzerland, tracked on soundcheck, with 19 sets logged across Antwerp, Brussels, Detroit and Geneva and 7 more. Often billed alongside Carl Craig, Kevin Reynolds and Laurent Garnier. Next up: 528 Ibiza, Ibiza on Tue 15 Sept.
+Mirko Loko is a house and techno artist based in Switzerland, tracked on soundcheck, with 19 sets logged across Antwerp, Brussels, Detroit and Geneva and 7 more. Often billed alongside Carl Craig, Moodymann and Kevin Reynolds. Next up: 528 Ibiza, Ibiza on Tue 15 Sept.
 
 ## Upcoming shows
 
@@ -23,6 +23,6 @@ Mirko Loko is a house and techno artist based in Switzerland, tracked on soundch
 
 ## Shares bills with
 
-Carl Craig, Kevin Reynolds, Laurent Garnier
+Carl Craig, Moodymann, Kevin Reynolds
 
-*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mirkoloko/)*
+*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mirkoloko/)*

@@ -1,8 +1,8 @@
 # Paragon
 
-Paragon is a music venue in New York City with 11 upcoming nights listed on soundcheck as of Tue, 8 Sept 2026; the next is "Club Stars: dj g2g, DBBD , flotussin + PARKA ALL-STARS" on Fri, 11 Sept 2026.
+Paragon is a music venue in New York City with 13 upcoming nights listed on soundcheck as of Wed, 9 Sept 2026; the next is "Club Stars: dj g2g, DBBD , flotussin + PARKA ALL-STARS" on Fri, 11 Sept 2026.
 
-Paragon is a music venue in Newyorkcity listed on soundcheck. 11 upcoming nights, with line-ups including Anna Eberg, Annie Lew, ARCHANGEL (US) and Arielle Lana and 2 more. Browse upcoming dates, start times and who's playing. 990 Broadway Brooklyn, NY.
+Paragon is a music venue in Newyorkcity listed on soundcheck. 13 upcoming nights, with line-ups including Anna Eberg, Annie Lew, ARCHANGEL (US) and Arielle Lana and 2 more. Browse upcoming dates, start times and who's playing. 990 Broadway Brooklyn, NY.
 
 ## What's on
 
@@ -15,12 +15,12 @@ Paragon is a music venue in Newyorkcity listed on soundcheck. 11 upcoming nights
 | Sat, 19 Sept 2026 | Pressure: CEM, Leonce, Makadsi + Angelito Collective | CEM, Clit.hub, Leonce, Makadsi |
 | Fri, 25 Sept 2026 | RAGGA NYC | Josh Steers, Juliana Huxtable, Nita Aviance, Sausha, Sevyn Love |
 | Sat, 26 Sept 2026 | Club Stars: UNiiQU3, Miley Serious, Arielle Lana b2b Syd + Shyboi, DJ Goth Girl | Arielle Lana, Miley Serious, Shyboi, Syd (US), UNiiQU3 |
+| Fri, 2 Oct 2026 | The Hood Needs House: Dantiez Saunderson b2b Pinto, Kweku Saunderson, TMPR, DJ RaQuel & More | DJ RaQuel, Dantiez, Kweku Saunderson, Pinto (US) |
 | Fri, 9 Oct 2026 | Paradiso: The Carry Nation, Mike Servito, Kim Anh + Sissies of Mercy, Spyware | Kim Anh, Mike Servito, Sissies of Mercy, TEK NENA, The Carry Nation |
-| Fri, 23 Oct 2026 | Paradiso: Ultra Naté, Kilopatrah Jones, Karim Olen Ash + Saia, RATONC1T0 | Karim Olen Ash, Kilopatrah Jones, RATONC1T0, Saia, Ultra Naté |
-| Sat, 24 Oct 2026 | Diamond CLUB: Safety Trance, Manuka Honey, Caín Lima + WTCHCRFT | Caín Lima, Manuka Honey, Safety Trance, WTCHCRFT |
+| Sun, 11 Oct 2026 | CHARLIE |  |
 
 ## Address
 
 990 Broadway Brooklyn, NY, New York City
 
-*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/paragon/)*
+*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/paragon/)*

@@ -1,8 +1,8 @@
 # DJ TOOL
 
-DJ TOOL is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Tue, 8 Sept 2026, next at Den Anden Side, Copenhagen on Fri, 11 Sept 2026.
+DJ TOOL is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Wed, 9 Sept 2026, next at Den Anden Side, Copenhagen on Fri, 11 Sept 2026.
 
-DJ TOOL is a techno and house artist tracked on soundcheck, with 187 sets logged across Amsterdam, Athens, Austin and Barcelona and 49 more. Often billed alongside Yazzus, Hyperaktivist and D.Dan. Next up: Den Anden Side, Copenhagen on Fri 11 Sept.
+DJ TOOL is a techno and house artist tracked on soundcheck, with 188 sets logged across Amsterdam, Athens, Austin and Barcelona and 49 more. Often billed alongside Yazzus, Hyperaktivist and D.Dan. Next up: Den Anden Side, Copenhagen on Fri 11 Sept.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ DJ TOOL is a techno and house artist tracked on soundcheck, with 187 sets logged
 | --- | --- | --- |
 | Fri, 11 Sept 2026 | Den Anden Side | Copenhagen |
 | Sat, 19 Sept 2026 | Circolo Amelia | Milan |
+| Fri, 16 Oct 2026 | Ankali & Planeta Za | Prague |
 
 ## Recently played
 
@@ -26,4 +27,4 @@ DJ TOOL is a techno and house artist tracked on soundcheck, with 187 sets logged
 
 Yazzus, Hyperaktivist, D.Dan
 
-*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djtool/)*
+*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djtool/)*

@@ -1,6 +1,6 @@
 # Roxtone
 
-Roxtone is a House and Minimal artist with 2 upcoming club dates listed on soundcheck as of Tue, 8 Sept 2026, next at KHIDI, Tbilisi on Sat, 12 Sept 2026.
+Roxtone is a House and Minimal artist with 2 upcoming club dates listed on soundcheck as of Wed, 9 Sept 2026, next at KHIDI, Tbilisi on Sat, 12 Sept 2026.
 
 Roxtone is a house and minimal artist tracked on soundcheck, with 15 sets logged across Dusseldorf and Tbilisi. Often billed alongside Ericsson, Generali Minerali and Gio Shengelia. Next up: KHIDI, Tbilisi on Sat 12 Sept.
 
@@ -26,4 +26,4 @@ Roxtone is a house and minimal artist tracked on soundcheck, with 15 sets logged
 
 Ericsson, Generali Minerali, Gio Shengelia
 
-*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/roxtone/)*
+*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/roxtone/)*

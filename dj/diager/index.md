@@ -1,6 +1,6 @@
 # DIA (GER)
 
-DIA (GER) is a electronic artist with 1 upcoming club date listed on soundcheck as of Tue, 8 Sept 2026, next at Das Lot, Vienna on Sat, 26 Sept 2026.
+DIA (GER) is a electronic artist with 1 upcoming club date listed on soundcheck as of Wed, 9 Sept 2026, next at Das Lot, Vienna on Sat, 26 Sept 2026.
 
 DIA (GER) is an electronic artist tracked on soundcheck, with 3 sets logged across Vienna. Often billed alongside zey, Bass and Lucia Kagramanyan. Next up: Das Lot, Vienna on Sat 26 Sept.
 
@@ -19,4 +19,4 @@ DIA (GER) is an electronic artist tracked on soundcheck, with 3 sets logged acro
 
 zey, Bass, Lucia Kagramanyan
 
-*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/diager/)*
+*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/diager/)*

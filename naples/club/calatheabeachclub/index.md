@@ -1,6 +1,6 @@
 # Calatheabeachclub
 
-Calatheabeachclub is a music venue in Naples with 1 upcoming night listed on soundcheck as of Tue, 8 Sept 2026; the next is "EXTRA-ONDA • TONY ESPOSITO live in concert + Aldo Rosati, Sgambettare Social Club" on Sun, 13 Sept 2026.
+Calatheabeachclub is a music venue in Naples with 1 upcoming night listed on soundcheck as of Wed, 9 Sept 2026; the next is "EXTRA-ONDA • TONY ESPOSITO live in concert + Aldo Rosati, Sgambettare Social Club" on Sun, 13 Sept 2026.
 
 Calatheabeachclub is a music venue in Naples listed on soundcheck. 1 upcoming night, with line-ups including Aldo Rosati. Browse upcoming dates, start times and who's playing. via giuseppe saverio mercadante 81030 Castel Volturno Caserta.
 
@@ -14,4 +14,4 @@ Calatheabeachclub is a music venue in Naples listed on soundcheck. 1 upcoming ni
 
 via giuseppe saverio mercadante 81030 Castel Volturno Caserta, Naples
 
-*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/naples/club/calatheabeachclub/)*
+*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/naples/club/calatheabeachclub/)*

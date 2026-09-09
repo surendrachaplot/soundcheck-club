@@ -1,6 +1,6 @@
 # CUTE invites PASTIS & BUENRI at Lokschuppen Berlin
 
-CUTE invites PASTIS & BUENRI at Lokschuppen Berlin on Fri 11 Sept, Berlin. 18 acts on the bill: Aexhy, alemiko, bbymeister and Cobb Douglas and 14 more. Trance and Techno. Preview the line-up and save it on soundcheck.
+CUTE invites PASTIS & BUENRI at Lokschuppen Berlin on Fri 11 Sept, Berlin. 20 acts on the bill: Aexhy, alemiko, bbymeister and Cobb Douglas and 16 more. Trance and Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -22,8 +22,10 @@ CUTE invites PASTIS & BUENRI at Lokschuppen Berlin on Fri 11 Sept, Berlin. 18 ac
 - happysadgirl
 - IceLipzz
 - Limoncello
+- LØUS
 - LŸBRA
 - Makinarium
+- Megaira
 - Pastis & Buenri
 - Ryukyu
 - SACID

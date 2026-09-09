@@ -1,6 +1,6 @@
 # Booker T
 
-Booker T is a House and Funk / Soul artist with 1 upcoming club date listed on soundcheck as of Tue, 8 Sept 2026, next at Ministry Of Sound, London on Sat, 3 Oct 2026.
+Booker T is a House and Funk / Soul artist with 1 upcoming club date listed on soundcheck as of Wed, 9 Sept 2026, next at Ministry Of Sound, London on Sat, 3 Oct 2026.
 
 Booker T is a house and funk / soul artist tracked on soundcheck, with 25 sets logged across Birmingham, Bristol, Edinburgh and Liverpool and 3 more. Often billed alongside Sy Sez, Ricky Morrison and Ace Shyllon. Next up: Ministry Of Sound, London on Sat 3 Oct.
 
@@ -25,4 +25,4 @@ Booker T is a house and funk / soul artist tracked on soundcheck, with 25 sets l
 
 Sy Sez, Ricky Morrison, Ace Shyllon
 
-*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bookert/)*
+*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bookert/)*

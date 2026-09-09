@@ -1,17 +1,18 @@
 # Bolero
 
-Bolero is a music venue in Seoul with 1 upcoming night listed on soundcheck as of Tue, 8 Sept 2026; the next is "Bolero: DEADEND" on Sat, 12 Sept 2026.
+Bolero is a music venue in Seoul with 2 upcoming nights listed on soundcheck as of Wed, 9 Sept 2026; the next is "Bolero: WHO CARES? RELEASE PARTY" on Thu, 10 Sept 2026.
 
-Bolero is a music venue in Seoul listed on soundcheck. 1 upcoming night, with line-ups including ANDOW, bojvck, Conan and KINGMCK and 1 more. Browse upcoming dates, start times and who's playing. B1, 220, Itaewon-ro, Yongsan-gu, Seoul, South Korea.
+Bolero is a music venue in Seoul listed on soundcheck. 2 upcoming nights, with line-ups including ANDOW, bojvck, Conan and Keenote and 2 more. Browse upcoming dates, start times and who's playing. B1, 220, Itaewon-ro, Yongsan-gu, Seoul, South Korea.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
+| Thu, 10 Sept 2026 | Bolero: WHO CARES? RELEASE PARTY | Keenote, SKiiDA |
 | Sat, 12 Sept 2026 | Bolero: DEADEND | ANDOW, Conan, KINGMCK, TWELVEY, bojvck |
 
 ## Address
 
 B1, 220, Itaewon-ro, Yongsan-gu, Seoul, South Korea, Seoul
 
-*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/seoul/club/bolero/)*
+*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/seoul/club/bolero/)*

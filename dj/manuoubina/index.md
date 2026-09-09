@@ -1,6 +1,6 @@
 # Manu Oubiña
 
-Manu Oubiña is a House and Electro artist with 5 upcoming club dates listed on soundcheck as of Tue, 8 Sept 2026, next at Pimpernel, Munich on Fri, 11 Sept 2026.
+Manu Oubiña is a House and Electro artist with 5 upcoming club dates listed on soundcheck as of Wed, 9 Sept 2026, next at Pimpernel, Munich on Fri, 11 Sept 2026.
 
 Manu Oubiña is a house and electro artist tracked on soundcheck, with 120 sets logged across Amsterdam, Barcelona, Berlin and Buenosaires and 7 more. Often billed alongside LUKAS (4), Guile and Edu C. Next up: Pimpernel, Munich on Fri 11 Sept.
 
@@ -29,4 +29,4 @@ Manu Oubiña is a house and electro artist tracked on soundcheck, with 120 sets 
 
 LUKAS (4), Guile, Edu C
 
-*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/manuoubina/)*
+*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/manuoubina/)*

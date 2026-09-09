@@ -1,6 +1,6 @@
 # Jean Mauj
 
-Jean Mauj is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 8 Sept 2026, next at Prince Charles, Berlin on Fri, 11 Sept 2026.
+Jean Mauj is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 9 Sept 2026, next at Prince Charles, Berlin on Fri, 11 Sept 2026.
 
 Jean Mauj is a house and techno artist based in Germany, tracked on soundcheck, with 89 sets logged across Amsterdam, Athens, Berlin and Cologne and 7 more. Often billed alongside Anton Jonathan, Carluschka and Daisy Weweh. Next up: Prince Charles, Berlin on Fri 11 Sept.
 
@@ -25,4 +25,4 @@ Jean Mauj is a house and techno artist based in Germany, tracked on soundcheck, 
 
 Anton Jonathan, Carluschka, Daisy Weweh
 
-*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jeanmauj/)*
+*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jeanmauj/)*

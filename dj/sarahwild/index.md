@@ -1,6 +1,6 @@
 # Sarah Wild
 
-Sarah Wild is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 8 Sept 2026, next at Culture Box, Copenhagen on Fri, 6 Nov 2026.
+Sarah Wild is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 9 Sept 2026, next at Culture Box, Copenhagen on Fri, 6 Nov 2026.
 
 Sarah Wild is a house and techno artist tracked on soundcheck, with 101 sets logged across Amsterdam, Berlin, Cologne and Copenhagen and 11 more. Often billed alongside Kotoe, Chris Schwarzwälder and Daniel Cowel. Next up: Culture Box, Copenhagen on Fri 6 Nov.
 
@@ -25,4 +25,4 @@ Sarah Wild is a house and techno artist tracked on soundcheck, with 101 sets log
 
 Kotoe, Chris Schwarzwälder, Daniel Cowel
 
-*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sarahwild/)*
+*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sarahwild/)*

@@ -1,8 +1,8 @@
 # Duncan Thomas
 
-Duncan Thomas is a Deep House and House artist with 2 upcoming club dates listed on soundcheck as of Tue, 8 Sept 2026, next at Distrikt, Leeds on Fri, 11 Sept 2026.
+Duncan Thomas is a House and Deep House artist with 3 upcoming club dates listed on soundcheck as of Wed, 9 Sept 2026, next at Distrikt, Leeds on Fri, 11 Sept 2026.
 
-Duncan Thomas is a deep house and house artist based in United Kingdom, tracked on soundcheck, with 25 sets logged across Berlin, Edinburgh, Leeds and Lisbon and 1 more. Often billed alongside Alarico, Amy Os and Andra (DE). Next up: Distrikt, Leeds on Fri 11 Sept.
+Duncan Thomas is a house and deep house artist based in United Kingdom, tracked on soundcheck, with 26 sets logged across Amsterdam, Berlin, Edinburgh and Leeds and 2 more. Often billed alongside Blame Anthony, Butterhands and Thabo. Next up: Distrikt, Leeds on Fri 11 Sept.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Duncan Thomas is a deep house and house artist based in United Kingdom, tracked 
 | --- | --- | --- |
 | Fri, 11 Sept 2026 | Distrikt | Leeds |
 | Fri, 23 Oct 2026 | Kater | Berlin |
+| Sat, 24 Oct 2026 | TILLATEC | Amsterdam |
 
 ## Recently played
 
@@ -24,6 +25,6 @@ Duncan Thomas is a deep house and house artist based in United Kingdom, tracked 
 
 ## Shares bills with
 
-Alarico, Amy Os, Andra (DE)
+Blame Anthony, Butterhands, Thabo
 
-*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/duncanthomas/)*
+*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/duncanthomas/)*

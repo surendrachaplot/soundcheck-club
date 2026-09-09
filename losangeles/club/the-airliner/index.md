@@ -1,6 +1,6 @@
 # The Airliner
 
-The Airliner is a music venue in Los Angeles with 6 upcoming nights listed on soundcheck as of Tue, 8 Sept 2026; the next is "ONE FOR NEPAL - LA's DJ Crews Unite" on Fri, 11 Sept 2026.
+The Airliner is a music venue in Los Angeles with 6 upcoming nights listed on soundcheck as of Wed, 9 Sept 2026; the next is "ONE FOR NEPAL - LA's DJ Crews Unite" on Fri, 11 Sept 2026.
 
 The Airliner is a music venue in Losangeles listed on soundcheck. 6 upcoming nights, with line-ups including Captain Planet, Celia Hollander, Codiac and DJ Kita and 2 more. Browse upcoming dates, start times and who's playing. 2419 N Broadway, Los Angeles, CA 90036.
 
@@ -19,4 +19,4 @@ The Airliner is a music venue in Losangeles listed on soundcheck. 6 upcoming nig
 
 2419 N Broadway, Los Angeles, CA 90036, Los Angeles
 
-*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/the-airliner/)*
+*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/the-airliner/)*

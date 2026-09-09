@@ -1,6 +1,6 @@
 # Lill
 
-Lill is a Minimal and House artist with 2 upcoming club dates listed on soundcheck as of Tue, 8 Sept 2026, next at TBA - Secret location announced only to ticket holders, Ibiza on Fri, 11 Sept 2026.
+Lill is a Minimal and House artist with 2 upcoming club dates listed on soundcheck as of Wed, 9 Sept 2026, next at TBA - Secret location announced only to ticket holders, Ibiza on Fri, 11 Sept 2026.
 
 Lill is a minimal and house artist based in Estonia, tracked on soundcheck, with 11 sets logged across Ibiza, Manchester and Tallinn. Often billed alongside ALCATRAZ, ARMANA KHAN and Aiden Francis. Next up: TBA - Secret location announced only to ticket holders, Ibiza on Fri 11 Sept.
 
@@ -26,4 +26,4 @@ Lill is a minimal and house artist based in Estonia, tracked on soundcheck, with
 
 ALCATRAZ, ARMANA KHAN, Aiden Francis
 
-*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lill/)*
+*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lill/)*

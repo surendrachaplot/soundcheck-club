@@ -1,6 +1,6 @@
 # Mathys Lenne
 
-Mathys Lenne is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Tue, 8 Sept 2026, next at Ankali & Planeta Za, Prague on Fri, 18 Sept 2026.
+Mathys Lenne is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Wed, 9 Sept 2026, next at Ankali & Planeta Za, Prague on Fri, 18 Sept 2026.
 
 Mathys Lenne is a techno and house artist tracked on soundcheck, with 95 sets logged across Amsterdam, Athens, Barcelona and Belgrade and 29 more. Often billed alongside Maris Shilton, Olivia Mendez and Mara Menace. Next up: Ankali & Planeta Za, Prague on Fri 18 Sept.
 
@@ -29,4 +29,4 @@ Mathys Lenne is a techno and house artist tracked on soundcheck, with 95 sets lo
 
 Maris Shilton, Olivia Mendez, Mara Menace
 
-*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mathyslenne/)*
+*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mathyslenne/)*

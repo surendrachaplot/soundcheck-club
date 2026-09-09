@@ -1,6 +1,6 @@
 # Franky De Rey
 
-Franky De Rey is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 8 Sept 2026, next at Casa Nube Wynwood, Miami on Fri, 2 Oct 2026.
+Franky De Rey is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 9 Sept 2026, next at Casa Nube Wynwood, Miami on Fri, 2 Oct 2026.
 
 Franky De Rey is a techno and house artist based in United States of America, tracked on soundcheck, with 12 sets logged across Miami and Sanfrancisco. Often billed alongside DomnRob, Dadrev and HUNTER STEEL. Next up: Casa Nube Wynwood, Miami on Fri 2 Oct.
 
@@ -25,4 +25,4 @@ Franky De Rey is a techno and house artist based in United States of America, tr
 
 DomnRob, Dadrev, HUNTER STEEL
 
-*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/frankyderey/)*
+*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/frankyderey/)*

@@ -1,8 +1,8 @@
 # Amanda Mussi
 
-Amanda Mussi is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Tue, 8 Sept 2026, next at Else, Berlin on Sat, 12 Sept 2026.
+Amanda Mussi is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Wed, 9 Sept 2026, next at Else, Berlin on Sat, 12 Sept 2026.
 
-Amanda Mussi is a techno and house artist tracked on soundcheck, with 108 sets logged across Amsterdam, Athens, Barcelona and Berlin and 24 more. Often billed alongside Sept, Nick Moody and Rachel Noon. Next up: Else, Berlin on Sat 12 Sept.
+Amanda Mussi is a techno and house artist tracked on soundcheck, with 109 sets logged across Amsterdam, Athens, Barcelona and Berlin and 24 more. Often billed alongside Sept, Nick Moody and Rachel Noon. Next up: Else, Berlin on Sat 12 Sept.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Amanda Mussi is a techno and house artist tracked on soundcheck, with 108 sets l
 | --- | --- | --- |
 | Sat, 12 Sept 2026 | Else | Berlin |
 | Sat, 19 Sept 2026 | Lofi | Amsterdam |
+| Sat, 24 Oct 2026 | Berghain / Panorama Bar / Säule | Berlin |
 
 ## Recently played
 
@@ -26,4 +27,4 @@ Amanda Mussi is a techno and house artist tracked on soundcheck, with 108 sets l
 
 Sept, Nick Moody, Rachel Noon
 
-*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/amandamussi/)*
+*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/amandamussi/)*

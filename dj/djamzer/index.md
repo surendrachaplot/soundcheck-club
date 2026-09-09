@@ -1,6 +1,6 @@
 # Djamzer
 
-Djamzer is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Tue, 8 Sept 2026, next at Zoo, Geneva on Fri, 2 Oct 2026.
+Djamzer is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Wed, 9 Sept 2026, next at Zoo, Geneva on Fri, 2 Oct 2026.
 
 Djamzer is a techno and trance artist based in Switzerland, tracked on soundcheck, with 30 sets logged across Basel, Berlin, Dublin and Geneva and 3 more. Often billed alongside DICANIO, Pelin Vedis and Jelena. Next up: Zoo, Geneva on Fri 2 Oct.
 
@@ -25,4 +25,4 @@ Djamzer is a techno and trance artist based in Switzerland, tracked on soundchec
 
 DICANIO, Pelin Vedis, Jelena
 
-*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djamzer/)*
+*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djamzer/)*

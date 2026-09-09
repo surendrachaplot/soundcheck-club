@@ -1,6 +1,6 @@
 # Deseo BS AS
 
-Deseo BS AS is a music venue in Buenos Aires with 2 upcoming nights listed on soundcheck as of Tue, 8 Sept 2026; the next is "KLAV: Nicola Cruz" on Sat, 26 Sept 2026.
+Deseo BS AS is a music venue in Buenos Aires with 2 upcoming nights listed on soundcheck as of Wed, 9 Sept 2026; the next is "KLAV: Nicola Cruz" on Sat, 26 Sept 2026.
 
 Deseo BS AS is a music venue in Buenosaires listed on soundcheck. 2 upcoming nights, with line-ups including Bermani, Chloé Caillet, EllA and Mar Monzon and 1 more. Browse upcoming dates, start times and who's playing. Av. Chorroarín 1040, C1427CXU, Buenos Aires.
 
@@ -15,4 +15,4 @@ Deseo BS AS is a music venue in Buenosaires listed on soundcheck. 2 upcoming nig
 
 Av. Chorroarín 1040, C1427CXU, Buenos Aires, Buenos Aires
 
-*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/buenosaires/club/deseo-bs-as/)*
+*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/buenosaires/club/deseo-bs-as/)*

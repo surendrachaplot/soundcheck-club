@@ -1,14 +1,15 @@
 # JAMIIE
 
-JAMIIE is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Tue, 8 Sept 2026, next at Sunset Park Rooftop, New York City on Fri, 18 Sept 2026.
+JAMIIE is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Wed, 9 Sept 2026, next at Sunset Park Rooftop, New York City on Fri, 18 Sept 2026.
 
-JAMIIE is a house and techno artist tracked on soundcheck, with 98 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 26 more. Often billed alongside Black Coffee, Âme and Jimi Jules. Next up: Sunset Park Rooftop, Newyorkcity on Fri 18 Sept.
+JAMIIE is a house and techno artist tracked on soundcheck, with 99 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 26 more. Often billed alongside Black Coffee, Âme and Jimi Jules. Next up: Sunset Park Rooftop, Newyorkcity on Fri 18 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 18 Sept 2026 | Sunset Park Rooftop | New York City |
+| Fri, 23 Oct 2026 | Berghain / Panorama Bar / Säule | Berlin |
 | Sat, 24 Oct 2026 | NDSM Scheepsbouwloods | Amsterdam |
 
 ## Recently played
@@ -26,4 +27,4 @@ JAMIIE is a house and techno artist tracked on soundcheck, with 98 sets logged a
 
 Black Coffee, Âme, Jimi Jules
 
-*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jamiie/)*
+*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jamiie/)*

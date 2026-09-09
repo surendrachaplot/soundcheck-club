@@ -1,8 +1,8 @@
 # sin serif
 
-sin serif is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Tue, 8 Sept 2026, next at Renate, Berlin on Fri, 11 Sept 2026.
+sin serif is a Techno and Bass artist with 2 upcoming club dates listed on soundcheck as of Wed, 9 Sept 2026, next at Renate, Berlin on Fri, 11 Sept 2026.
 
-sin serif is a techno and house artist tracked on soundcheck, with 28 sets logged across Berlin. Often billed alongside KALI., dj latinchat and auto_timer. Next up: Renate, Berlin on Fri 11 Sept.
+sin serif is a techno and bass artist tracked on soundcheck, with 28 sets logged across Berlin. Often billed alongside KALI., dj latinchat and auto_timer. Next up: Renate, Berlin on Fri 11 Sept.
 
 ## Upcoming shows
 
@@ -26,4 +26,4 @@ sin serif is a techno and house artist tracked on soundcheck, with 28 sets logge
 
 KALI., dj latinchat, auto_timer
 
-*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sinserif/)*
+*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sinserif/)*

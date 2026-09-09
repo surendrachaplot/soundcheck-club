@@ -1,6 +1,6 @@
 # Anja Sugar
 
-Anja Sugar is a Electro and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 8 Sept 2026, next at Rex Club, Paris on Thu, 15 Oct 2026.
+Anja Sugar is a Electro and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 9 Sept 2026, next at Rex Club, Paris on Thu, 15 Oct 2026.
 
 Anja Sugar is an electro and techno artist tracked on soundcheck, with 18 sets logged across Berlin, Marseille and Paris. Often billed alongside Edouard!, Julie Saint Germain and 2ManyDJs. Next up: Rex Club, Paris on Thu 15 Oct.
 
@@ -25,4 +25,4 @@ Anja Sugar is an electro and techno artist tracked on soundcheck, with 18 sets l
 
 Edouard!, Julie Saint Germain, 2ManyDJs
 
-*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/anjasugar/)*
+*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/anjasugar/)*

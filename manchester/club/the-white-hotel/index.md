@@ -1,8 +1,8 @@
 # The White Hotel
 
-The White Hotel is a music venue in Manchester with 36 upcoming nights listed on soundcheck as of Tue, 8 Sept 2026; the next is "Elegia x Mega Peste: Alessandro Adriani / Conor Thomas / Faux Naif / Anna Gray" on Thu, 10 Sept 2026.
+The White Hotel is a music venue in Manchester with 38 upcoming nights listed on soundcheck as of Wed, 9 Sept 2026; the next is "Elegia x Mega Peste: Alessandro Adriani / Conor Thomas / Faux Naif / Anna Gray" on Thu, 10 Sept 2026.
 
-The White Hotel is a music venue in Manchester listed on soundcheck. 36 upcoming nights, with line-ups including ABADIR, Abena, Alessandro Adriani and Ana Roxanne and 2 more. Browse upcoming dates, start times and who's playing. Dickinson Street Salford M3 7LW, United Kingdom.
+The White Hotel is a music venue in Manchester listed on soundcheck. 38 upcoming nights, with line-ups including ABADIR, Abena, Alessandro Adriani and Ana Roxanne and 2 more. Browse upcoming dates, start times and who's playing. Dickinson Street Salford M3 7LW, United Kingdom.
 
 ## What's on
 
@@ -23,4 +23,4 @@ The White Hotel is a music venue in Manchester listed on soundcheck. 36 upcoming
 
 Dickinson Street Salford M3 7LW, United Kingdom, Manchester
 
-*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/the-white-hotel/)*
+*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/the-white-hotel/)*

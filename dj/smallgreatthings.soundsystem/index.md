@@ -1,6 +1,6 @@
 # Small Great Things. Soundsystem
 
-Small Great Things. Soundsystem is a Disco and House artist with 1 upcoming club date listed on soundcheck as of Tue, 8 Sept 2026, next at OXI, Berlin on Sat, 3 Oct 2026.
+Small Great Things. Soundsystem is a Disco and House artist with 1 upcoming club date listed on soundcheck as of Wed, 9 Sept 2026, next at OXI, Berlin on Sat, 3 Oct 2026.
 
 Small Great Things. Soundsystem is a disco and house artist based in Germany, tracked on soundcheck, with 4 sets logged across Berlin. Often billed alongside Eva Crystaltips, Luca Olivotto and Nephews. Next up: OXI, Berlin on Sat 3 Oct.
 
@@ -20,4 +20,4 @@ Small Great Things. Soundsystem is a disco and house artist based in Germany, tr
 
 Eva Crystaltips, Luca Olivotto, Nephews
 
-*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/smallgreatthings.soundsystem/)*
+*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/smallgreatthings.soundsystem/)*

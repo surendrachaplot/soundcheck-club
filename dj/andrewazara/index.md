@@ -1,6 +1,6 @@
 # Andrew Azara
 
-Andrew Azara is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Tue, 8 Sept 2026, next at Shelter Amsterdam, Amsterdam on Sat, 12 Sept 2026.
+Andrew Azara is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Wed, 9 Sept 2026, next at Shelter Amsterdam, Amsterdam on Sat, 12 Sept 2026.
 
 Andrew Azara is a house and minimal artist tracked on soundcheck, with 38 sets logged across Amsterdam, Barcelona, Dublin and Ibiza and 8 more. Often billed alongside Nick Curly, Max Haas and Kid Moss. Next up: Shelter Amsterdam, Amsterdam on Sat 12 Sept.
 
@@ -25,4 +25,4 @@ Andrew Azara is a house and minimal artist tracked on soundcheck, with 38 sets l
 
 Nick Curly, Max Haas, Kid Moss
 
-*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/andrewazara/)*
+*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/andrewazara/)*

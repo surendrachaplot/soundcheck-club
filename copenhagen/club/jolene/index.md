@@ -1,6 +1,6 @@
 # Jolene
 
-Jolene is a music venue in Copenhagen with 4 upcoming nights listed on soundcheck as of Tue, 8 Sept 2026; the next is "Some Traces of House with Mendon & DJ HNRKSN" on Thu, 10 Sept 2026.
+Jolene is a music venue in Copenhagen with 4 upcoming nights listed on soundcheck as of Wed, 9 Sept 2026; the next is "Some Traces of House with Mendon & DJ HNRKSN" on Thu, 10 Sept 2026.
 
 Jolene is a music venue in Copenhagen listed on soundcheck. 4 upcoming nights, with line-ups including A.dixen, Anders Dahl, Delta Division and Hakeem and 2 more. Browse upcoming dates, start times and who's playing. Flaesketorvet 81; Copenhagen V. 1711; Denmark.
 
@@ -17,4 +17,4 @@ Jolene is a music venue in Copenhagen listed on soundcheck. 4 upcoming nights, w
 
 Flaesketorvet 81; Copenhagen V. 1711; Denmark, Copenhagen
 
-*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/copenhagen/club/jolene/)*
+*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/copenhagen/club/jolene/)*

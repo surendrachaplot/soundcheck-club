@@ -1,6 +1,6 @@
 # Gabbs
 
-Gabbs is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Tue, 8 Sept 2026, next at Bunker, Turin on Sat, 12 Sept 2026.
+Gabbs is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Wed, 9 Sept 2026, next at Bunker, Turin on Sat, 12 Sept 2026.
 
 Gabbs is a house and techno artist tracked on soundcheck, with 181 sets logged across Amsterdam, Antwerp, Austin and Barcelona and 37 more. Often billed alongside Alexia Glensy, Christian AB and DJ Senc. Next up: Bunker, Turin on Sat 12 Sept.
 
@@ -29,4 +29,4 @@ Gabbs is a house and techno artist tracked on soundcheck, with 181 sets logged a
 
 Alexia Glensy, Christian AB, DJ Senc
 
-*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/gabbs/)*
+*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/gabbs/)*

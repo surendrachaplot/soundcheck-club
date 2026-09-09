@@ -1,14 +1,15 @@
 # Sofie K
 
-Sofie K is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Tue, 8 Sept 2026, next at Wharf Chambers, Leeds on Fri, 2 Oct 2026.
+Sofie K is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Wed, 9 Sept 2026, next at Wharf Chambers, Leeds on Fri, 2 Oct 2026.
 
-Sofie K is a house and disco artist tracked on soundcheck, with 42 sets logged across Bristol, Edinburgh, Leeds and London and 2 more. Often billed alongside Macca., Apiento and Sam PV. Next up: Wharf Chambers, Leeds on Fri 2 Oct.
+Sofie K is a house and disco artist tracked on soundcheck, with 43 sets logged across Bristol, Edinburgh, Leeds and London and 2 more. Often billed alongside Macca., Apiento and Sam PV. Next up: Wharf Chambers, Leeds on Fri 2 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 2 Oct 2026 | Wharf Chambers | Leeds |
+| Sat, 24 Oct 2026 | Night Tales Loft | London |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Sofie K is a house and disco artist tracked on soundcheck, with 42 sets logged a
 
 Macca., Apiento, Sam PV
 
-*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sofiek/)*
+*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sofiek/)*

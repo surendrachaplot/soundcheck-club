@@ -1,14 +1,15 @@
 # Yaris
 
-Yaris is a Techno and Bass artist with 1 upcoming club date listed on soundcheck as of Tue, 8 Sept 2026, next at Jasna 1, Warsaw on Sat, 12 Sept 2026.
+Yaris is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Wed, 9 Sept 2026, next at Jasna 1, Warsaw on Sat, 12 Sept 2026.
 
-Yaris is a techno and bass artist based in Poland, tracked on soundcheck, with 16 sets logged across Warsaw. Often billed alongside Zero_null, Doga and Mohji. Next up: Jasna 1, Warsaw on Sat 12 Sept.
+Yaris is a techno and house artist based in Poland, tracked on soundcheck, with 17 sets logged across Warsaw. Often billed alongside Zero_null, Mohji and Doga. Next up: Jasna 1, Warsaw on Sat 12 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 12 Sept 2026 | Jasna 1 | Warsaw |
+| Fri, 18 Sept 2026 | underiolo | Warsaw |
 
 ## Recently played
 
@@ -23,6 +24,6 @@ Yaris is a techno and bass artist based in Poland, tracked on soundcheck, with 1
 
 ## Shares bills with
 
-Zero_null, Doga, Mohji
+Zero_null, Mohji, Doga
 
-*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/yaris/)*
+*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/yaris/)*

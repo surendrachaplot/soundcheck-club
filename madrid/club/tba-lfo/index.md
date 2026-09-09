@@ -1,6 +1,6 @@
 # TBA - LFO
 
-TBA - LFO is a music venue in Madrid with 1 upcoming night listed on soundcheck as of Tue, 8 Sept 2026; the next is "Anso + ELMER DAVY + Emi Koto + Rachael + Skinner + Xorpel - ÉNFASIS" on Sat, 24 Oct 2026.
+TBA - LFO is a music venue in Madrid with 1 upcoming night listed on soundcheck as of Wed, 9 Sept 2026; the next is "Anso + ELMER DAVY + Emi Koto + Rachael + Skinner + Xorpel - ÉNFASIS" on Sat, 24 Oct 2026.
 
 TBA - LFO is a music venue in Madrid listed on soundcheck. 1 upcoming night, with line-ups including Anso, ELMER DAVY, Emi Koto and Rachael (ES) and 1 more. Browse upcoming dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ TBA - LFO is a music venue in Madrid listed on soundcheck. 1 upcoming night, wit
 | --- | --- | --- |
 | Sat, 24 Oct 2026 | Anso + ELMER DAVY + Emi Koto + Rachael + Skinner + Xorpel - ÉNFASIS | Anso, ELMER DAVY, Emi Koto, Rachael (ES), Xorpel |
 
-*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/tba-lfo/)*
+*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/tba-lfo/)*

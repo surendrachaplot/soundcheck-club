@@ -1,6 +1,6 @@
 # Facundo Mohrr
 
-Facundo Mohrr is a Deep House and House artist with 2 upcoming club dates listed on soundcheck as of Tue, 8 Sept 2026, next at TBA - Deseo Club, Villa Ortuzar, Buenos Aires on Sat, 12 Sept 2026.
+Facundo Mohrr is a Deep House and House artist with 2 upcoming club dates listed on soundcheck as of Wed, 9 Sept 2026, next at TBA - Deseo Club, Villa Ortuzar, Buenos Aires on Sat, 12 Sept 2026.
 
 Facundo Mohrr is a deep house and house artist tracked on soundcheck, with 64 sets logged across Barcelona, Berlin, Buenosaires and Denver and 13 more. Often billed alongside Lee Burridge, Tim Green and Maxi Degrassi. Next up: TBA - Deseo Club, Villa Ortuzar, Buenosaires on Sat 12 Sept.
 
@@ -26,4 +26,4 @@ Facundo Mohrr is a deep house and house artist tracked on soundcheck, with 64 se
 
 Lee Burridge, Tim Green, Maxi Degrassi
 
-*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/facundomohrr/)*
+*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/facundomohrr/)*

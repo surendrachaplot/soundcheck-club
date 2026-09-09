@@ -1,6 +1,6 @@
 # Lincoln Factory
 
-Lincoln Factory is a music venue in Detroit with 12 upcoming nights listed on soundcheck as of Tue, 8 Sept 2026; the next is "Ivy Lab: A Farewell Tour" on Fri, 11 Sept 2026.
+Lincoln Factory is a music venue in Detroit with 12 upcoming nights listed on soundcheck as of Wed, 9 Sept 2026; the next is "Ivy Lab: A Farewell Tour" on Fri, 11 Sept 2026.
 
 Lincoln Factory is a music venue in Detroit listed on soundcheck. 12 upcoming nights, with line-ups including Ahadadream, A K, Blake Baxter and Dasha Rush and 2 more. Browse upcoming dates, start times and who's playing. 1331 Holden Street, Detroit, MI 48202, USA.
 
@@ -23,4 +23,4 @@ Lincoln Factory is a music venue in Detroit listed on soundcheck. 12 upcoming ni
 
 1331 Holden Street, Detroit, MI 48202, USA, Detroit
 
-*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/detroit/club/lincoln-factory/)*
+*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/detroit/club/lincoln-factory/)*

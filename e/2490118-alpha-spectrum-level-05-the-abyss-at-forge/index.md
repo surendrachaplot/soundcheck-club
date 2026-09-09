@@ -1,6 +1,6 @@
 # ALPHA SPECTRUM: LEVEL 05 - THE ABYSS at Forge
 
-ALPHA SPECTRUM: LEVEL 05 - THE ABYSS at Forge on Fri 9 Oct, Bucharest. 2 acts on the bill: Neotroxian and Project Morpheus. Techno and Hardcore. Preview the line-up and save it on soundcheck.
+ALPHA SPECTRUM: LEVEL 05 - THE ABYSS at Forge on Fri 9 Oct, Bucharest. 3 acts on the bill: BBUBU, Neotroxian and Project Morpheus. Techno and Hardcore. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ ALPHA SPECTRUM: LEVEL 05 - THE ABYSS at Forge on Fri 9 Oct, Bucharest. 2 acts on
 
 ## Line-up
 
+- BBUBU
 - Neotroxian
 - Project Morpheus
 

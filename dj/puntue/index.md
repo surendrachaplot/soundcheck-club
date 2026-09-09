@@ -1,6 +1,6 @@
 # PunTue
 
-PunTue is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 8 Sept 2026, next at Dual, Bangkok on Sat, 12 Sept 2026.
+PunTue is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 9 Sept 2026, next at Dual, Bangkok on Sat, 12 Sept 2026.
 
 PunTue is a house and techno artist tracked on soundcheck, with 20 sets logged across Bangkok. Often billed alongside IYY (TH), Wildealer and Psynus. Next up: Dual, Bangkok on Sat 12 Sept.
 
@@ -25,4 +25,4 @@ PunTue is a house and techno artist tracked on soundcheck, with 20 sets logged a
 
 IYY (TH), Wildealer, Psynus
 
-*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/puntue/)*
+*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/puntue/)*

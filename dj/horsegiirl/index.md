@@ -1,6 +1,6 @@
 # horsegiirL
 
-horsegiirL is a Techno and House artist with 10 upcoming club dates listed on soundcheck as of Tue, 8 Sept 2026, next at Waterfront Park in San Diego, San Diego on Sat, 26 Sept 2026.
+horsegiirL is a Techno and House artist with 10 upcoming club dates listed on soundcheck as of Wed, 9 Sept 2026, next at Waterfront Park in San Diego, San Diego on Sat, 26 Sept 2026.
 
 horsegiirL is a techno and house artist based in Germany, tracked on soundcheck, with 119 sets logged across Amsterdam, Antwerp, Austin and Barcelona and 45 more. Often billed alongside DJ Gigola, MCR-T and VTSS. Next up: Waterfront Park in San Diego, Sandiego on Sat 26 Sept.
 
@@ -34,4 +34,4 @@ horsegiirL is a techno and house artist based in Germany, tracked on soundcheck,
 
 DJ Gigola, MCR-T, VTSS
 
-*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/horsegiirl/)*
+*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/horsegiirl/)*

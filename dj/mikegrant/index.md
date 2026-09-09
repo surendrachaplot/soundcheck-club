@@ -1,13 +1,14 @@
 # Mike Grant
 
-Mike Grant is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Tue, 8 Sept 2026, next at Bambi's, Toronto on Sat, 19 Sept 2026.
+Mike Grant is a House and Deep House artist with 2 upcoming club dates listed on soundcheck as of Wed, 9 Sept 2026, next at The Monkey Loft, Seattle on Sat, 12 Sept 2026.
 
-Mike Grant is a house and deep house artist based in United States of America, tracked on soundcheck, with 15 sets logged across Berlin, Buenosaires, Detroit and Malta and 4 more. Often billed alongside Eastside Jon, Andrés and DJ Godfather. Next up: Bambi's, Toronto on Sat 19 Sept.
+Mike Grant is a house and deep house artist based in United States of America, tracked on soundcheck, with 16 sets logged across Berlin, Buenosaires, Detroit and Malta and 4 more. Often billed alongside Eastside Jon, Andrés and DJ Godfather. Next up: The Monkey Loft, Seattle on Sat 12 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 12 Sept 2026 | The Monkey Loft | Seattle |
 | Sat, 19 Sept 2026 | Bambi's | Toronto |
 
 ## Recently played
@@ -25,4 +26,4 @@ Mike Grant is a house and deep house artist based in United States of America, t
 
 Eastside Jon, Andrés, DJ Godfather
 
-*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mikegrant/)*
+*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mikegrant/)*

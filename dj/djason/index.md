@@ -1,6 +1,6 @@
 # DJason
 
-DJason is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Tue, 8 Sept 2026, next at Daikanyama ORD., Tokyo on Wed, 30 Sept 2026.
+DJason is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 9 Sept 2026, next at Daikanyama ORD., Tokyo on Wed, 30 Sept 2026.
 
 DJason is a house and techno artist based in Japan, tracked on soundcheck, with 45 sets logged across Tokyo. Often billed alongside YOSHI KANOU, AiMii and Luke Hobbs. Next up: Daikanyama ORD., Tokyo on Wed 30 Sept.
 
@@ -26,4 +26,4 @@ DJason is a house and techno artist based in Japan, tracked on soundcheck, with 
 
 YOSHI KANOU, AiMii, Luke Hobbs
 
-*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djason/)*
+*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djason/)*

@@ -1,6 +1,6 @@
 # Hector Moralez
 
-Hector Moralez is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Tue, 8 Sept 2026, next at 50 HERTZ, Amsterdam on Sat, 24 Oct 2026.
+Hector Moralez is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Wed, 9 Sept 2026, next at 50 HERTZ, Amsterdam on Sat, 24 Oct 2026.
 
 Hector Moralez is a house and tech house artist based in United States of America, tracked on soundcheck, with 12 sets logged across Amsterdam, Denver, Losangeles and Manchester and 4 more. Often billed alongside J-Dub, DJ Dazy and Amália Leandro. Next up: 50 HERTZ, Amsterdam on Sat 24 Oct.
 
@@ -26,4 +26,4 @@ Hector Moralez is a house and tech house artist based in United States of Americ
 
 J-Dub, DJ Dazy, Amália Leandro
 
-*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/hectormoralez/)*
+*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/hectormoralez/)*

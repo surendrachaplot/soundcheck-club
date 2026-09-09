@@ -1,13 +1,14 @@
 # alexia.f
 
-alexia.f is a House and Deep House artist with 2 upcoming club dates listed on soundcheck as of Tue, 8 Sept 2026, next at Kremwerk-Timbre Room-Cherry Complex, Seattle on Sun, 13 Sept 2026.
+alexia.f is a House and Deep House artist with 3 upcoming club dates listed on soundcheck as of Wed, 9 Sept 2026, next at Otherworld, Seattle on Fri, 11 Sept 2026.
 
-alexia.f is a house and deep house artist tracked on soundcheck, with 44 sets logged across Losangeles and Seattle. Often billed alongside KJ3 (US), Temenon and Freddy M. Next up: Kremwerk-Timbre Room-Cherry Complex, Seattle on Sun 13 Sept.
+alexia.f is a house and deep house artist tracked on soundcheck, with 45 sets logged across Losangeles and Seattle. Often billed alongside KJ3 (US), Temenon and Freddy M. Next up: Otherworld, Seattle on Fri 11 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 11 Sept 2026 | Otherworld | Seattle |
 | Sun, 13 Sept 2026 | Kremwerk-Timbre Room-Cherry Complex | Seattle |
 | Thu, 8 Oct 2026 | Substation | Seattle |
 
@@ -26,4 +27,4 @@ alexia.f is a house and deep house artist tracked on soundcheck, with 44 sets lo
 
 KJ3 (US), Temenon, Freddy M
 
-*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/alexia.f/)*
+*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/alexia.f/)*

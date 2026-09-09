@@ -1,6 +1,6 @@
 # Vís (1)
 
-Vís (1) is a Techno and Dub artist with 1 upcoming club date listed on soundcheck as of Tue, 8 Sept 2026, next at West Harlem, Kyoto on Wed, 9 Sept 2026.
+Vís (1) is a Techno and Dub artist with 1 upcoming club date listed on soundcheck as of Wed, 9 Sept 2026, next at West Harlem, Kyoto on Wed, 9 Sept 2026.
 
 Vís (1) is a techno and dub artist tracked on soundcheck, with 126 sets logged across Kyoto, Osaka and Tokyo. Often billed alongside Ryogo, Chanaz and E.O.U. Next up: West Harlem, Kyoto on Wed 9 Sept.
 
@@ -25,4 +25,4 @@ Vís (1) is a techno and dub artist tracked on soundcheck, with 126 sets logged 
 
 Ryogo, Chanaz, E.O.U
 
-*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/vís-1/)*
+*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/vís-1/)*

@@ -1,6 +1,6 @@
 # Mitrimar
 
-Mitrimar is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 8 Sept 2026, next at TBA - East Williamsburg, New York City on Sat, 31 Oct 2026.
+Mitrimar is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 9 Sept 2026, next at TBA - East Williamsburg, New York City on Sat, 31 Oct 2026.
 
 Mitrimar is a house and techno artist tracked on soundcheck, with 8 sets logged across Newyorkcity. Often billed alongside Woreq, Armii1n and Bruno Schmidt. Next up: TBA - East Williamsburg, Newyorkcity on Sat 31 Oct.
 
@@ -24,4 +24,4 @@ Mitrimar is a house and techno artist tracked on soundcheck, with 8 sets logged 
 
 Woreq, Armii1n, Bruno Schmidt
 
-*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mitrimar/)*
+*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mitrimar/)*

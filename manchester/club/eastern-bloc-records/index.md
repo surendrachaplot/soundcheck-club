@@ -1,8 +1,8 @@
 # Eastern Bloc Records
 
-Eastern Bloc Records is a music venue in Manchester with 20 upcoming nights listed on soundcheck as of Tue, 8 Sept 2026; the next is "Open to Close" on Thu, 10 Sept 2026.
+Eastern Bloc Records is a music venue in Manchester with 21 upcoming nights listed on soundcheck as of Wed, 9 Sept 2026; the next is "Open to Close" on Thu, 10 Sept 2026.
 
-Eastern Bloc Records is a music venue in Manchester listed on soundcheck. 20 upcoming nights, with line-ups including Adrian Skiba, Andy Green, Artilect and Balrog and 2 more. Browse upcoming dates, start times and who's playing. 5a Stevenson Square, Northern Quarter, Manchester, M1 1DN.
+Eastern Bloc Records is a music venue in Manchester listed on soundcheck. 21 upcoming nights, with line-ups including Adrian Skiba, Andy Green, Artilect and Balrog and 2 more. Browse upcoming dates, start times and who's playing. 5a Stevenson Square, Northern Quarter, Manchester, M1 1DN.
 
 ## What's on
 
@@ -23,4 +23,4 @@ Eastern Bloc Records is a music venue in Manchester listed on soundcheck. 20 upc
 
 5a Stevenson Square, Northern Quarter, Manchester, M1 1DN, Manchester
 
-*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/eastern-bloc-records/)*
+*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/eastern-bloc-records/)*

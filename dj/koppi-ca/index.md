@@ -1,6 +1,6 @@
 # Koppi
 
-Koppi is a electronic artist with 1 upcoming club date listed on soundcheck as of Tue, 8 Sept 2026, next at Bar Datcha, Montreal on Fri, 25 Sept 2026.
+Koppi is a electronic artist with 1 upcoming club date listed on soundcheck as of Wed, 9 Sept 2026, next at Bar Datcha, Montreal on Fri, 25 Sept 2026.
 
 Koppi is an electronic artist based in Canada, tracked on soundcheck, with 3 sets logged across Montreal. Often billed alongside Ekitwanda, MLLE CEE and Mansa. Next up: Bar Datcha, Montreal on Fri 25 Sept.
 
@@ -19,4 +19,4 @@ Koppi is an electronic artist based in Canada, tracked on soundcheck, with 3 set
 
 Ekitwanda, MLLE CEE, Mansa
 
-*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/koppi-ca/)*
+*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/koppi-ca/)*

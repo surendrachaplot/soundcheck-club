@@ -1,6 +1,6 @@
 # Wilba
 
-Wilba is a Tech House and House artist with 4 upcoming club dates listed on soundcheck as of Tue, 8 Sept 2026, next at TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona, Barcelona on Fri, 11 Sept 2026.
+Wilba is a Tech House and House artist with 4 upcoming club dates listed on soundcheck as of Wed, 9 Sept 2026, next at TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona, Barcelona on Fri, 11 Sept 2026.
 
 Wilba is a tech house and house artist tracked on soundcheck, with 36 sets logged across Barcelona, Hamburg, Leeds and London and 4 more. Often billed alongside Jive Talk, Calla and Muster Men. Next up: TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona, Barcelona on Fri 11 Sept.
 
@@ -28,4 +28,4 @@ Wilba is a tech house and house artist tracked on soundcheck, with 36 sets logge
 
 Jive Talk, Calla, Muster Men
 
-*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/wilba/)*
+*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/wilba/)*

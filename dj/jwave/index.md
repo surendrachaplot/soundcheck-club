@@ -1,6 +1,6 @@
 # jWave
 
-jWave is a Tech House and House artist with 4 upcoming club dates listed on soundcheck as of Tue, 8 Sept 2026, next at ark (Melb), Melbourne on Sat, 12 Sept 2026.
+jWave is a Tech House and House artist with 4 upcoming club dates listed on soundcheck as of Wed, 9 Sept 2026, next at ark (Melb), Melbourne on Sat, 12 Sept 2026.
 
 jWave is a tech house and house artist tracked on soundcheck, with 50 sets logged across Aberdeen, Amsterdam, Barcelona and Birmingham and 16 more. Often billed alongside Josh Baker, Marsolo and Alexandria. Next up: ark (Melb), Melbourne on Sat 12 Sept.
 
@@ -28,4 +28,4 @@ jWave is a tech house and house artist tracked on soundcheck, with 50 sets logge
 
 Josh Baker, Marsolo, Alexandria
 
-*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jwave/)*
+*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jwave/)*

@@ -1,6 +1,6 @@
 # Javier Anxiety
 
-Javier Anxiety is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Tue, 8 Sept 2026, next at Amsterdam Central Station, Amsterdam on Sat, 24 Oct 2026.
+Javier Anxiety is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Wed, 9 Sept 2026, next at Amsterdam Central Station, Amsterdam on Sat, 24 Oct 2026.
 
 Javier Anxiety is a house and disco artist based in Argentina, tracked on soundcheck, with 73 sets logged across Amsterdam, Barcelona, Berlin and Copenhagen and 2 more. Often billed alongside Bauen, Gabs Leyton and Luca Olivotto. Next up: Amsterdam Central Station, Amsterdam on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ Javier Anxiety is a house and disco artist based in Argentina, tracked on soundc
 
 Bauen, Gabs Leyton, Luca Olivotto
 
-*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/JavierAnxiety/)*
+*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/JavierAnxiety/)*

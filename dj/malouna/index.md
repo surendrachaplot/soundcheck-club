@@ -1,6 +1,6 @@
 # Malouna
 
-Malouna is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Tue, 8 Sept 2026, next at AMT, Berlin on Sat, 12 Sept 2026.
+Malouna is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Wed, 9 Sept 2026, next at AMT, Berlin on Sat, 12 Sept 2026.
 
 Malouna is a techno and house artist based in Germany, tracked on soundcheck, with 25 sets logged across Amsterdam, Berlin, Frankfurt and Hamburg. Often billed alongside Markus Klee, Prismode and Solvane. Next up: AMT, Berlin on Sat 12 Sept.
 
@@ -29,4 +29,4 @@ Malouna is a techno and house artist based in Germany, tracked on soundcheck, wi
 
 Markus Klee, Prismode, Solvane
 
-*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/malouna/)*
+*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/malouna/)*

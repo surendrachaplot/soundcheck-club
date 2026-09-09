@@ -1,8 +1,8 @@
 # Frederik Tollund
 
-Frederik Tollund is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 8 Sept 2026, next at La Station - Gare des Mines, Paris on Sun, 13 Sept 2026.
+Frederik Tollund is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 9 Sept 2026, next at La Station - Gare des Mines, Paris on Sun, 13 Sept 2026.
 
-Frederik Tollund is a techno and house artist based in Denmark, tracked on soundcheck, with 41 sets logged across Barcelona, Berlin, Copenhagen and Leipzig and 2 more. Often billed alongside Carlo & Selma, Lucky Lube and Dgeral. Next up: La Station - Gare des Mines, Paris on Sun 13 Sept.
+Frederik Tollund is a techno and house artist based in Denmark, tracked on soundcheck, with 41 sets logged across Barcelona, Berlin, Copenhagen and Leipzig and 2 more. Often billed alongside Carlo & Selma, Lucky Lube and Selma. Next up: La Station - Gare des Mines, Paris on Sun 13 Sept.
 
 ## Upcoming shows
 
@@ -23,6 +23,6 @@ Frederik Tollund is a techno and house artist based in Denmark, tracked on sound
 
 ## Shares bills with
 
-Carlo & Selma, Lucky Lube, Dgeral
+Carlo & Selma, Lucky Lube, Selma
 
-*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/frederiktollund/)*
+*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/frederiktollund/)*

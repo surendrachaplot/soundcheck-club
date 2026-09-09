@@ -1,8 +1,8 @@
 # Nørbak
 
-Nørbak is a Techno and House artist with 9 upcoming club dates listed on soundcheck as of Tue, 8 Sept 2026, next at KHIDI, Tbilisi on Fri, 11 Sept 2026.
+Nørbak is a Techno and House artist with 10 upcoming club dates listed on soundcheck as of Wed, 9 Sept 2026, next at KHIDI, Tbilisi on Fri, 11 Sept 2026.
 
-Nørbak is a techno and house artist tracked on soundcheck, with 138 sets logged across Amsterdam, Athens, Barcelona and Basel and 39 more. Often billed alongside Temudo, Quelza and CRAVO. Next up: KHIDI, Tbilisi on Fri 11 Sept.
+Nørbak is a techno and house artist tracked on soundcheck, with 139 sets logged across Amsterdam, Athens, Barcelona and Basel and 39 more. Often billed alongside Temudo, Quelza and CRAVO. Next up: KHIDI, Tbilisi on Fri 11 Sept.
 
 ## Upcoming shows
 
@@ -17,6 +17,7 @@ Nørbak is a techno and house artist tracked on soundcheck, with 138 sets logged
 | Sat, 3 Oct 2026 | The Bassement | Madrid |
 | Fri, 16 Oct 2026 | Distillery | Leipzig |
 | Fri, 23 Oct 2026 | RADION | Amsterdam |
+| Sat, 31 Oct 2026 | Berghain / Panorama Bar / Säule | Berlin |
 
 ## Recently played
 
@@ -33,4 +34,4 @@ Nørbak is a techno and house artist tracked on soundcheck, with 138 sets logged
 
 Temudo, Quelza, CRAVO
 
-*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/norbak/)*
+*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/norbak/)*

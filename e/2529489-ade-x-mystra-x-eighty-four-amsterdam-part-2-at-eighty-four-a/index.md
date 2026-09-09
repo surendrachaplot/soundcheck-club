@@ -1,6 +1,6 @@
 # ADE x MYSTRA x EIGHTY FOUR AMSTERDAM PART 2 at Eighty-Four Amsterdam
 
-ADE x MYSTRA x EIGHTY FOUR AMSTERDAM PART 2 at Eighty-Four Amsterdam on Fri 23 Oct, Amsterdam. 7 acts on the bill: Fernweh (2), HADDI, Mark Roma and MEAKIN and 3 more. Trance and Techno. Preview the line-up and save it on soundcheck.
+ADE x MYSTRA x EIGHTY FOUR AMSTERDAM PART 2 at Eighty-Four Amsterdam on Fri 23 Oct, Amsterdam. 8 acts on the bill: Alex M.O.R.P.H., Fernweh (2), HADDI and Mark Roma and 4 more. Trance and Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ ADE x MYSTRA x EIGHTY FOUR AMSTERDAM PART 2 at Eighty-Four Amsterdam on Fri 23 O
 
 ## Line-up
 
+- Alex M.O.R.P.H.
 - Fernweh (2)
 - HADDI
 - Mark Roma

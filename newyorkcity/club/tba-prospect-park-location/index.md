@@ -1,6 +1,6 @@
 # TBA - Prospect Park Location 
 
-TBA - Prospect Park Location  is a music venue in New York City with 1 upcoming night listed on soundcheck as of Tue, 8 Sept 2026; the next is "MNTK" on Sat, 19 Sept 2026.
+TBA - Prospect Park Location  is a music venue in New York City with 1 upcoming night listed on soundcheck as of Wed, 9 Sept 2026; the next is "MNTK" on Sat, 19 Sept 2026.
 
 TBA - Prospect Park Location  is a music venue in Newyorkcity listed on soundcheck. 1 upcoming night, with line-ups including EESH. Browse upcoming dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ TBA - Prospect Park Location  is a music venue in Newyorkcity listed on soundche
 | --- | --- | --- |
 | Sat, 19 Sept 2026 | MNTK | EESH |
 
-*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/tba-prospect-park-location/)*
+*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/tba-prospect-park-location/)*

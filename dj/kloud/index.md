@@ -1,6 +1,6 @@
 # KLOUD
 
-KLOUD is a Techno and Trance artist with 14 upcoming club dates listed on soundcheck as of Tue, 8 Sept 2026, next at Newspeak, Montreal on Fri, 11 Sept 2026.
+KLOUD is a Techno and Trance artist with 14 upcoming club dates listed on soundcheck as of Wed, 9 Sept 2026, next at Newspeak, Montreal on Fri, 11 Sept 2026.
 
 KLOUD is a techno and trance artist tracked on soundcheck, with 82 sets logged across Amsterdam, Athens, Austin and Barcelona and 37 more. Often billed alongside Lola Cerise, DJ Heartstring and I Hate Models. Next up: Newspeak, Montreal on Fri 11 Sept.
 
@@ -19,7 +19,7 @@ KLOUD is a techno and trance artist tracked on soundcheck, with 82 sets logged a
 | Fri, 16 Oct 2026 | Airport Würzburg | Nürnberg |
 | Fri, 16 Oct 2026 | Edelfettwerk | Hamburg |
 | Fri, 23 Oct 2026 | DRUMSHEDS | London |
-| Sat, 24 Oct 2026 | TBA - DISTRIKT | Prague |
+| Sat, 24 Oct 2026 | Distrikt | Prague |
 
 ## Recently played
 
@@ -36,4 +36,4 @@ KLOUD is a techno and trance artist tracked on soundcheck, with 82 sets logged a
 
 Lola Cerise, DJ Heartstring, I Hate Models
 
-*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kloud/)*
+*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kloud/)*

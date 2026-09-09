@@ -1,6 +1,6 @@
 # DRIA
 
-DRIA is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Tue, 8 Sept 2026, next at Bermondsey Social Club, London on Sat, 12 Sept 2026.
+DRIA is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Wed, 9 Sept 2026, next at Bermondsey Social Club, London on Sat, 12 Sept 2026.
 
 DRIA is a tech house and house artist based in United Kingdom, tracked on soundcheck, with 30 sets logged across London. Often billed alongside Beezo, Shenin Amara and Lance Morgan. Next up: Bermondsey Social Club, London on Sat 12 Sept.
 
@@ -25,4 +25,4 @@ DRIA is a tech house and house artist based in United Kingdom, tracked on soundc
 
 Beezo, Shenin Amara, Lance Morgan
 
-*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dria/)*
+*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dria/)*

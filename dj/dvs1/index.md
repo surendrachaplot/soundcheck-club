@@ -1,8 +1,8 @@
 # DVS1
 
-DVS1 is a Techno and House artist with 19 upcoming club dates listed on soundcheck as of Tue, 8 Sept 2026, next at TBA - Brussels, Brussels on Fri, 11 Sept 2026.
+DVS1 is a Techno and House artist with 20 upcoming club dates listed on soundcheck as of Wed, 9 Sept 2026, next at TBA - Brussels, Brussels on Fri, 11 Sept 2026.
 
-DVS1 is a techno and house artist tracked on soundcheck, with 314 sets logged across Amsterdam, Antwerp, Athens and Austin and 68 more. Often billed alongside Ogazón, Jeff Mills and Helena Hauff. Next up: TBA - Brussels, Brussels on Fri 11 Sept.
+DVS1 is a techno and house artist tracked on soundcheck, with 315 sets logged across Amsterdam, Antwerp, Athens and Austin and 68 more. Often billed alongside Ogazón, Jeff Mills and Helena Hauff. Next up: TBA - Brussels, Brussels on Fri 11 Sept.
 
 ## Upcoming shows
 
@@ -15,11 +15,11 @@ DVS1 is a techno and house artist tracked on soundcheck, with 314 sets logged ac
 | Fri, 25 Sept 2026 | Lux Fragil | Lisbon |
 | Sat, 26 Sept 2026 | The Bassement | Madrid |
 | Sat, 3 Oct 2026 | fabric | London |
+| Sat, 3 Oct 2026 | Berghain / Panorama Bar / Säule | Berlin |
 | Sat, 10 Oct 2026 | TBA - Los Angeles | Los Angeles |
 | Sun, 11 Oct 2026 | TBA | Vancouver |
 | Fri, 16 Oct 2026 | Stereo | Montreal |
 | Wed, 21 Oct 2026 | TILLATEC | Amsterdam |
-| Fri, 23 Oct 2026 | CLUB RAUM | Amsterdam |
 
 ## Recently played
 
@@ -36,4 +36,4 @@ DVS1 is a techno and house artist tracked on soundcheck, with 314 sets logged ac
 
 Ogazón, Jeff Mills, Helena Hauff
 
-*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dvs1/)*
+*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dvs1/)*

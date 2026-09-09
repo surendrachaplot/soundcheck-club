@@ -1,8 +1,8 @@
 # KI/KI
 
-KI/KI is a Techno and House artist with 8 upcoming club dates listed on soundcheck as of Tue, 8 Sept 2026, next at [UNVRS], Ibiza on Thu, 10 Sept 2026.
+KI/KI is a Techno and House artist with 9 upcoming club dates listed on soundcheck as of Wed, 9 Sept 2026, next at [UNVRS], Ibiza on Thu, 10 Sept 2026.
 
-KI/KI is a techno and house artist tracked on soundcheck, with 192 sets logged across Amsterdam, Antwerp, Athens and Austin and 57 more. Often billed alongside DJ Gigola, DJ Heartstring and Héctor Oaks. Next up: [UNVRS], Ibiza on Thu 10 Sept.
+KI/KI is a techno and house artist tracked on soundcheck, with 193 sets logged across Amsterdam, Antwerp, Athens and Austin and 57 more. Often billed alongside DJ Gigola, DJ Heartstring and Héctor Oaks. Next up: [UNVRS], Ibiza on Thu 10 Sept.
 
 ## Upcoming shows
 
@@ -16,6 +16,7 @@ KI/KI is a techno and house artist tracked on soundcheck, with 192 sets logged a
 | Fri, 23 Oct 2026 | Ziggo Dome | Amsterdam |
 | Fri, 13 Nov 2026 | The Concourse Project | Austin |
 | Sat, 21 Nov 2026 | Magazine London | London |
+| Sat, 28 Nov 2026 | Gare Maritime | Brussels |
 
 ## Recently played
 
@@ -32,4 +33,4 @@ KI/KI is a techno and house artist tracked on soundcheck, with 192 sets logged a
 
 DJ Gigola, DJ Heartstring, Héctor Oaks
 
-*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ki-ki/)*
+*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ki-ki/)*

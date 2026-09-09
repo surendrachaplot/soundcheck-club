@@ -1,6 +1,6 @@
 # Zephyrs
 
-Zephyrs is a music venue in Sheffield with 2 upcoming nights listed on soundcheck as of Tue, 8 Sept 2026; the next is "Tech City Sheffield - Launch Night" on Sat, 12 Sept 2026.
+Zephyrs is a music venue in Sheffield with 2 upcoming nights listed on soundcheck as of Wed, 9 Sept 2026; the next is "Tech City Sheffield - Launch Night" on Sat, 12 Sept 2026.
 
 Zephyrs is a music venue in Sheffield listed on soundcheck. 2 upcoming nights. Browse upcoming dates, start times and who's playing. Stag Works, 84 John St, Highfield, Sheffield S2 4QU.
 
@@ -15,4 +15,4 @@ Zephyrs is a music venue in Sheffield listed on soundcheck. 2 upcoming nights. B
 
 Stag Works, 84 John St, Highfield, Sheffield S2 4QU, Sheffield
 
-*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/sheffield/club/zephyrs/)*
+*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/sheffield/club/zephyrs/)*

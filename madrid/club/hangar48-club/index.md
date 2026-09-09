@@ -1,6 +1,6 @@
 # Hangar48 Club
 
-Hangar48 Club is a music venue in Madrid with 13 upcoming nights listed on soundcheck as of Tue, 8 Sept 2026; the next is "TOTAL SOUND" on Fri, 11 Sept 2026.
+Hangar48 Club is a music venue in Madrid with 13 upcoming nights listed on soundcheck as of Wed, 9 Sept 2026; the next is "TOTAL SOUND" on Fri, 11 Sept 2026.
 
 Hangar48 Club is a music venue in Madrid listed on soundcheck. 13 upcoming nights, with line-ups including Ana Sant, Andrés Mokk, Brigado Crew and De Santis and 2 more. Browse upcoming dates, start times and who's playing. C. de Bailén, 24, 28005 Madrid.
 
@@ -23,4 +23,4 @@ Hangar48 Club is a music venue in Madrid listed on soundcheck. 13 upcoming night
 
 C. de Bailén, 24, 28005 Madrid, Madrid
 
-*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/hangar48-club/)*
+*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/hangar48-club/)*

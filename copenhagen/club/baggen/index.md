@@ -1,17 +1,18 @@
 # Baggen
 
-Baggen is a music venue in Copenhagen with 1 upcoming night listed on soundcheck as of Tue, 8 Sept 2026; the next is "Ikigai presents Elnur + lowfek" on Sat, 12 Sept 2026.
+Baggen is a music venue in Copenhagen with 2 upcoming nights listed on soundcheck as of Wed, 9 Sept 2026; the next is "Girls Gone Bass" on Thu, 10 Sept 2026.
 
-Baggen is a music venue in Copenhagen listed on soundcheck. 1 upcoming night, with line-ups including Elnur and lowfek. Browse upcoming dates, start times and who's playing. Flaesketorvet 17-19; Koedbyen; Copenhagen V. 1711; Denmark.
+Baggen is a music venue in Copenhagen listed on soundcheck. 2 upcoming nights, with line-ups including CALIFANO, Elnur, lowfek and Popsie and 2 more. Browse upcoming dates, start times and who's playing. Flaesketorvet 17-19; Koedbyen; Copenhagen V. 1711; Denmark.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
+| Thu, 10 Sept 2026 | Girls Gone Bass | CALIFANO, Popsie, SILK!, VALENTINA (2), zaymie |
 | Sat, 12 Sept 2026 | Ikigai presents Elnur + lowfek | Elnur, lowfek |
 
 ## Address
 
 Flaesketorvet 17-19; Koedbyen; Copenhagen V. 1711; Denmark, Copenhagen
 
-*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/copenhagen/club/baggen/)*
+*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/copenhagen/club/baggen/)*

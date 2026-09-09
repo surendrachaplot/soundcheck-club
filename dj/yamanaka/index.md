@@ -1,6 +1,6 @@
 # Yamanaka
 
-Yamanaka is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 8 Sept 2026, next at TBA, Seattle on Sat, 12 Sept 2026.
+Yamanaka is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 9 Sept 2026, next at TBA, Seattle on Sat, 12 Sept 2026.
 
 Yamanaka is a techno and house artist tracked on soundcheck, with 19 sets logged across Denver, Portland, Seattle and Tokyo. Often billed alongside Ana-Lucid, DJ Raine and JENN GREEN. Next up: TBA, Seattle on Sat 12 Sept.
 
@@ -25,4 +25,4 @@ Yamanaka is a techno and house artist tracked on soundcheck, with 19 sets logged
 
 Ana-Lucid, DJ Raine, JENN GREEN
 
-*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/yamanaka/)*
+*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/yamanaka/)*

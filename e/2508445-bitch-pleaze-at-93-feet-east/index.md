@@ -1,6 +1,6 @@
 # Bitch Pleaze at 93 Feet East
 
-Bitch Pleaze at 93 Feet East on Sat 12 Sept, London. 2 acts on the bill: Boy Sonic and David Elimelech. House and Disco. Preview the line-up and save it on soundcheck.
+Bitch Pleaze at 93 Feet East on Sat 12 Sept, London. 4 acts on the bill: Boy Sonic, David Elimelech, Huse (2) and Mani (3). House and Disco. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -12,5 +12,7 @@ Bitch Pleaze at 93 Feet East on Sat 12 Sept, London. 2 acts on the bill: Boy Son
 
 - Boy Sonic
 - David Elimelech
+- Huse (2)
+- Mani (3)
 
 *Source: [soundcheck](https://soundcheck.club/e/2508445-bitch-pleaze-at-93-feet-east/)*

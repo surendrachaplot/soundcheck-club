@@ -1,6 +1,6 @@
 # RSO.BERLIN
 
-RSO.BERLIN is a music venue in Berlin with 19 upcoming nights listed on soundcheck as of Tue, 8 Sept 2026; the next is "The Third Room w/ .VRIL live, Ahmet Sisman, Dasha Rush, Ehua b2b Felix Fleer" on Fri, 11 Sept 2026.
+RSO.BERLIN is a music venue in Berlin with 19 upcoming nights listed on soundcheck as of Wed, 9 Sept 2026; the next is "The Third Room w/ .VRIL live, Ahmet Sisman, Dasha Rush, Ehua b2b Felix Fleer" on Fri, 11 Sept 2026.
 
 RSO.BERLIN is a music venue in Berlin listed on soundcheck. 19 upcoming nights, with line-ups including 2HOT2PLAY, NYRA (DE), AEREA and AgainstMe and 2 more. Browse upcoming dates, start times and who's playing. Schnellerstrasse 137, 12439 Berlin.
 
@@ -23,4 +23,4 @@ RSO.BERLIN is a music venue in Berlin listed on soundcheck. 19 upcoming nights, 
 
 Schnellerstrasse 137, 12439 Berlin, Berlin
 
-*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/rso-berlin/)*
+*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/rso-berlin/)*

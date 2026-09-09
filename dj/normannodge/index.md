@@ -1,14 +1,15 @@
 # Norman Nodge
 
-Norman Nodge is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 8 Sept 2026, next at Distillery, Leipzig on Sat, 10 Oct 2026.
+Norman Nodge is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Wed, 9 Sept 2026, next at Distillery, Leipzig on Sat, 10 Oct 2026.
 
-Norman Nodge is a techno and house artist based in Germany, tracked on soundcheck, with 9 sets logged across Berlin, Leipzig, Malaga and Seoul and 3 more. Often billed alongside 3MZY, Alinka and Amanda Mussi. Next up: Distillery, Leipzig on Sat 10 Oct.
+Norman Nodge is a techno and house artist based in Germany, tracked on soundcheck, with 10 sets logged across Berlin, Leipzig, Malaga and Seoul and 3 more. Often billed alongside Amanda Mussi, Franziska Berns and 3MZY. Next up: Distillery, Leipzig on Sat 10 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 10 Oct 2026 | Distillery | Leipzig |
+| Sat, 24 Oct 2026 | Berghain / Panorama Bar / Säule | Berlin |
 
 ## Recently played
 
@@ -23,6 +24,6 @@ Norman Nodge is a techno and house artist based in Germany, tracked on soundchec
 
 ## Shares bills with
 
-3MZY, Alinka, Amanda Mussi
+Amanda Mussi, Franziska Berns, 3MZY
 
-*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/normannodge/)*
+*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/normannodge/)*

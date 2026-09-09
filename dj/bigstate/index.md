@@ -1,6 +1,6 @@
 # Bigstate
 
-Bigstate is a Tech House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 8 Sept 2026, next at Paname sur Seine, Paris on Sun, 20 Sept 2026.
+Bigstate is a Tech House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 9 Sept 2026, next at Paname sur Seine, Paris on Sun, 20 Sept 2026.
 
 Bigstate is a tech house and techno artist tracked on soundcheck, with 11 sets logged across Malta and Paris. Often billed alongside DJ Nasty Deluxe, DJ SIN and Nasty Deluxe. Next up: Paname sur Seine, Paris on Sun 20 Sept.
 
@@ -25,4 +25,4 @@ Bigstate is a tech house and techno artist tracked on soundcheck, with 11 sets l
 
 DJ Nasty Deluxe, DJ SIN, Nasty Deluxe
 
-*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bigstate/)*
+*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bigstate/)*

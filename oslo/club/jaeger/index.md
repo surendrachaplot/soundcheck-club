@@ -1,6 +1,6 @@
 # Jaeger
 
-Jaeger is a music venue in Oslo with 10 upcoming nights listed on soundcheck as of Tue, 8 Sept 2026; the next is "Frædag x Toy Tonics x Hubbas Klubb" on Fri, 11 Sept 2026.
+Jaeger is a music venue in Oslo with 10 upcoming nights listed on soundcheck as of Wed, 9 Sept 2026; the next is "Frædag x Toy Tonics x Hubbas Klubb" on Fri, 11 Sept 2026.
 
 Jaeger is a music venue in Oslo listed on soundcheck. 10 upcoming nights, with line-ups including Anders Hajem, Cody Currie, Einmusik and Elli Acula and 2 more. Browse upcoming dates, start times and who's playing. Grensen 9; 0159 Oslo; Norway,.
 
@@ -23,4 +23,4 @@ Jaeger is a music venue in Oslo listed on soundcheck. 10 upcoming nights, with l
 
 Grensen 9; 0159 Oslo; Norway,, Oslo
 
-*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/oslo/club/jaeger/)*
+*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/oslo/club/jaeger/)*

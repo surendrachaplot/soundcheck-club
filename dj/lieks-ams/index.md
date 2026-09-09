@@ -1,6 +1,6 @@
 # LIEKS
 
-LIEKS is a Techno and Industrial artist with 4 upcoming club dates listed on soundcheck as of Tue, 8 Sept 2026, next at TBA - Cacao Torino, Turin on Sun, 13 Sept 2026.
+LIEKS is a Techno and Industrial artist with 4 upcoming club dates listed on soundcheck as of Wed, 9 Sept 2026, next at TBA - Cacao Torino, Turin on Sun, 13 Sept 2026.
 
 LIEKS is a techno and industrial artist tracked on soundcheck, with 27 sets logged across Amsterdam, Antwerp, Cologne and Ghent and 8 more. Often billed alongside BLNK, TiTi and BØĘRY. Next up: TBA - Cacao Torino, Turin on Sun 13 Sept.
 
@@ -28,4 +28,4 @@ LIEKS is a techno and industrial artist tracked on soundcheck, with 27 sets logg
 
 BLNK, TiTi, BØĘRY
 
-*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lieks-ams/)*
+*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lieks-ams/)*

@@ -1,8 +1,8 @@
 # Parallel
 
-Parallel is a music venue in Amsterdam with 10 upcoming nights listed on soundcheck as of Tue, 8 Sept 2026; the next is "Effy presents: Clubgirls" on Sat, 12 Sept 2026.
+Parallel is a music venue in Amsterdam with 11 upcoming nights listed on soundcheck as of Wed, 9 Sept 2026; the next is "Effy presents: Clubgirls" on Sat, 12 Sept 2026.
 
-Parallel is a music venue in Amsterdam listed on soundcheck. 10 upcoming nights, with line-ups including Dominika Karaszewska, Effy, Julia Mira and LB aka LABAT and 2 more. Browse upcoming dates, start times and who's playing. Buiksloterweg 5C, 1031 CC Amsterdam.
+Parallel is a music venue in Amsterdam listed on soundcheck. 11 upcoming nights, with line-ups including Bambii, Dominika Karaszewska, Effy and Jarreau Vandal and 2 more. Browse upcoming dates, start times and who's playing. Buiksloterweg 5C, 1031 CC Amsterdam.
 
 ## What's on
 
@@ -15,12 +15,12 @@ Parallel is a music venue in Amsterdam listed on soundcheck. 10 upcoming nights,
 | Wed, 21 Oct 2026 | The Bausa - ADE |  |
 | Thu, 22 Oct 2026 | Eastern Margins x Natural Mind with Effie, Minna-no-Kimochi, Mechatok & Torus | Mechatok, Minna-no-Kimochi, Torus |
 | Fri, 23 Oct 2026 | Modus - ADE | LB aka LABAT, LOVEFOXY, Lucky Done Gone, OLIVIA LENSEN |
+| Fri, 23 Oct 2026 | Bambii | Bambii, Jarreau Vandal, Tsunamy |
 | Sat, 24 Oct 2026 | DESCENDANTS - ADE |  |
 | Sun, 25 Oct 2026 | Theta Session - ADE |  |
-| Fri, 30 Oct 2026 | Fi Di Gyal Dem |  |
 
 ## Address
 
 Buiksloterweg 5C, 1031 CC Amsterdam, Amsterdam
 
-*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/parallel/)*
+*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/parallel/)*

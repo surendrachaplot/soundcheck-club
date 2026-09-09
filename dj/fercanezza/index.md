@@ -1,6 +1,6 @@
 # Fer Canezza
 
-Fer Canezza is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 8 Sept 2026, next at Almar Beach Club, Barcelona on Fri, 18 Sept 2026.
+Fer Canezza is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 9 Sept 2026, next at Almar Beach Club, Barcelona on Fri, 18 Sept 2026.
 
 Fer Canezza is a house and techno artist based in Chile, tracked on soundcheck, with 6 sets logged across Barcelona. Often billed alongside Francis Dhuit, Civaro and Gabriella Ponce. Next up: Almar Beach Club, Barcelona on Fri 18 Sept.
 
@@ -22,4 +22,4 @@ Fer Canezza is a house and techno artist based in Chile, tracked on soundcheck, 
 
 Francis Dhuit, Civaro, Gabriella Ponce
 
-*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/fercanezza/)*
+*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/fercanezza/)*

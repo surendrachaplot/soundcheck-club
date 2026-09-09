@@ -1,6 +1,6 @@
 # MONĪ
 
-MONĪ is a House and Afro House artist with 1 upcoming club date listed on soundcheck as of Tue, 8 Sept 2026, next at F8 1192 Folsom, San Francisco/Oakland on Thu, 10 Sept 2026.
+MONĪ is a House and Afro House artist with 1 upcoming club date listed on soundcheck as of Wed, 9 Sept 2026, next at F8 1192 Folsom, San Francisco/Oakland on Thu, 10 Sept 2026.
 
 MONĪ is a house and afro house artist based in United States of America, tracked on soundcheck, with 13 sets logged across Sanfrancisco. Often billed alongside IZIK, ANCARCO and Vann Essa. Next up: F8 1192 Folsom, Sanfrancisco on Thu 10 Sept.
 
@@ -25,4 +25,4 @@ MONĪ is a house and afro house artist based in United States of America, tracke
 
 IZIK, ANCARCO, Vann Essa
 
-*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/moni/)*
+*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/moni/)*

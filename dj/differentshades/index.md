@@ -1,6 +1,6 @@
 # Different Shades
 
-Different Shades is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Tue, 8 Sept 2026, next at TBA - Secret Location Neukolln, Berlin on Fri, 18 Sept 2026.
+Different Shades is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Wed, 9 Sept 2026, next at TBA - Secret Location Neukolln, Berlin on Fri, 18 Sept 2026.
 
 Different Shades is a techno and trance artist tracked on soundcheck, with 28 sets logged across Amsterdam, Berlin, Copenhagen and Kualalumpur and 5 more. Often billed alongside LOIF, Andy Garvey and Kia (AU). Next up: TBA - Secret Location Neukolln, Berlin on Fri 18 Sept.
 
@@ -25,4 +25,4 @@ Different Shades is a techno and trance artist tracked on soundcheck, with 28 se
 
 LOIF, Andy Garvey, Kia (AU)
 
-*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/differentshades/)*
+*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/differentshades/)*

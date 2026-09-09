@@ -1,13 +1,14 @@
 # Da Capo
 
-Da Capo is a Afro House and Afro Tech artist with 2 upcoming club dates listed on soundcheck as of Tue, 8 Sept 2026, next at Afas Live, Amsterdam on Sat, 24 Oct 2026.
+Da Capo is a Afro House and Afro Tech artist with 3 upcoming club dates listed on soundcheck as of Wed, 9 Sept 2026, next at CÉ LA VI, Singapore on Sat, 10 Oct 2026.
 
-Da Capo is an afro house and afro tech artist tracked on soundcheck, with 53 sets logged across Amsterdam, Athens, Bali and Barcelona and 14 more. Often billed alongside Enoo Napa, Caiiro and Van Zand. Next up: Afas Live, Amsterdam on Sat 24 Oct.
+Da Capo is an afro house and afro tech artist tracked on soundcheck, with 54 sets logged across Amsterdam, Athens, Bali and Barcelona and 14 more. Often billed alongside Enoo Napa, Caiiro and Van Zand. Next up: CÉ LA VI, Singapore on Sat 10 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 10 Oct 2026 | CÉ LA VI | Singapore |
 | Sat, 24 Oct 2026 | Afas Live | Amsterdam |
 | Sat, 31 Oct 2026 | The Roundhouse | London |
 
@@ -26,4 +27,4 @@ Da Capo is an afro house and afro tech artist tracked on soundcheck, with 53 set
 
 Enoo Napa, Caiiro, Van Zand
 
-*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dacapo/)*
+*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dacapo/)*

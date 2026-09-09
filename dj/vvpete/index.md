@@ -1,14 +1,15 @@
 # Vv Pete
 
-Vv Pete is a House and Club artist with 1 upcoming club date listed on soundcheck as of Tue, 8 Sept 2026, next at Museum of Contemporary Art Australia, Sydney on Thu, 24 Sept 2026.
+Vv Pete is a House and Club artist with 2 upcoming club dates listed on soundcheck as of Wed, 9 Sept 2026, next at Museum of Contemporary Art Australia, Sydney on Thu, 24 Sept 2026.
 
-Vv Pete is a house and club artist tracked on soundcheck, with 27 sets logged across Berlin, Brussels, Glasgow and London and 4 more. Often billed alongside UTILITY, Brodinski and DJ PGZ. Next up: Museum of Contemporary Art Australia, Sydney on Thu 24 Sept.
+Vv Pete is a house and club artist tracked on soundcheck, with 28 sets logged across Berlin, Brussels, Glasgow and London and 4 more. Often billed alongside UTILITY, Brodinski and DJ PGZ. Next up: Museum of Contemporary Art Australia, Sydney on Thu 24 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Thu, 24 Sept 2026 | Museum of Contemporary Art Australia | Sydney |
+| Fri, 27 Nov 2026 | TBA - Brooman NSW | Sydney |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Vv Pete is a house and club artist tracked on soundcheck, with 27 sets logged ac
 
 UTILITY, Brodinski, DJ PGZ
 
-*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/vvpete/)*
+*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/vvpete/)*

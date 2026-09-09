@@ -1,6 +1,6 @@
 # OOFT
 
-OOFT is a Disco and Balearic artist with 4 upcoming club dates listed on soundcheck as of Tue, 8 Sept 2026, next at La Cheetah Club, Glasgow on Sun, 13 Sept 2026.
+OOFT is a Disco and Balearic artist with 4 upcoming club dates listed on soundcheck as of Wed, 9 Sept 2026, next at La Cheetah Club, Glasgow on Sun, 13 Sept 2026.
 
 OOFT is a disco and balearic artist tracked on soundcheck, with 189 sets logged across Edinburgh, Glasgow and Leeds. Often billed alongside David Barbarossa, ButhoTheWarrior and Charlotte Tuesday. Next up: La Cheetah Club, Glasgow on Sun 13 Sept.
 
@@ -28,4 +28,4 @@ OOFT is a disco and balearic artist tracked on soundcheck, with 189 sets logged 
 
 David Barbarossa, ButhoTheWarrior, Charlotte Tuesday
 
-*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ooft/)*
+*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ooft/)*

@@ -1,6 +1,6 @@
 # BrthrMidnyt
 
-BrthrMidnyt is a EBM and Electro artist with 2 upcoming club dates listed on soundcheck as of Tue, 8 Sept 2026, next at TBA, Berlin on Fri, 11 Sept 2026.
+BrthrMidnyt is a EBM and Electro artist with 2 upcoming club dates listed on soundcheck as of Wed, 9 Sept 2026, next at TBA, Berlin on Fri, 11 Sept 2026.
 
 BrthrMidnyt is an ebm and electro artist based in United States of America, tracked on soundcheck, with 9 sets logged across Berlin and Hamburg. Often billed alongside Bézier, La Carpio and cristian zanotti. Next up: TBA, Berlin on Fri 11 Sept.
 
@@ -25,4 +25,4 @@ BrthrMidnyt is an ebm and electro artist based in United States of America, trac
 
 Bézier, La Carpio, cristian zanotti
 
-*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/brthrmidnyt/)*
+*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/brthrmidnyt/)*

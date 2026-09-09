@@ -1,6 +1,6 @@
 # Viken Arman
 
-Viken Arman is a House and Deep House artist with 2 upcoming club dates listed on soundcheck as of Tue, 8 Sept 2026, next at LA-YAM Rooftop, London on Sat, 12 Sept 2026.
+Viken Arman is a House and Deep House artist with 2 upcoming club dates listed on soundcheck as of Wed, 9 Sept 2026, next at LA-YAM Rooftop, London on Sat, 12 Sept 2026.
 
 Viken Arman is a house and deep house artist tracked on soundcheck, with 93 sets logged across Amsterdam, Auckland, Bali and Berlin and 27 more. Often billed alongside Cesar Merveille, Acid Pauli and Mira. Next up: LA-YAM Rooftop, London on Sat 12 Sept.
 
@@ -26,4 +26,4 @@ Viken Arman is a house and deep house artist tracked on soundcheck, with 93 sets
 
 Cesar Merveille, Acid Pauli, Mira
 
-*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/vikenarman/)*
+*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/vikenarman/)*

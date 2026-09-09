@@ -1,6 +1,6 @@
 # Sara Landry
 
-Sara Landry is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Tue, 8 Sept 2026, next at Wamu Theatre, Seattle on Fri, 30 Oct 2026.
+Sara Landry is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Wed, 9 Sept 2026, next at Wamu Theatre, Seattle on Fri, 30 Oct 2026.
 
 Sara Landry is a techno and house artist tracked on soundcheck, with 194 sets logged across Aberdeen, Amsterdam, Antwerp and Athens and 58 more. Often billed alongside Nico Moreno, Trym and Azyr. Next up: Wamu Theatre, Seattle on Fri 30 Oct.
 
@@ -27,4 +27,4 @@ Sara Landry is a techno and house artist tracked on soundcheck, with 194 sets lo
 
 Nico Moreno, Trym, Azyr
 
-*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/saralandry/)*
+*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/saralandry/)*

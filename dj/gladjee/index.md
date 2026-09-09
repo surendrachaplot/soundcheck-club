@@ -1,6 +1,6 @@
 # GLADJEE
 
-GLADJEE is a Techno and Electronica artist with 1 upcoming club date listed on soundcheck as of Tue, 8 Sept 2026, next at Gate Milano, Milan on Fri, 13 Nov 2026.
+GLADJEE is a Techno and Electronica artist with 1 upcoming club date listed on soundcheck as of Wed, 9 Sept 2026, next at Gate Milano, Milan on Fri, 13 Nov 2026.
 
 GLADJEE is a techno and electronica artist tracked on soundcheck, with 34 sets logged across Budapest, Milan, Rome and Turin. Often billed alongside AllaDerivaLontano, Hi/Fi and Mark Wark. Next up: Gate Milano, Milan on Fri 13 Nov.
 
@@ -25,4 +25,4 @@ GLADJEE is a techno and electronica artist tracked on soundcheck, with 34 sets l
 
 AllaDerivaLontano, Hi/Fi, Mark Wark
 
-*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/gladjee/)*
+*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/gladjee/)*

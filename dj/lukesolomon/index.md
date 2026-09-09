@@ -1,6 +1,6 @@
 # Luke Solomon
 
-Luke Solomon is a House and Disco artist with 4 upcoming club dates listed on soundcheck as of Tue, 8 Sept 2026, next at Amnesia Ibiza, Ibiza on Fri, 25 Sept 2026.
+Luke Solomon is a House and Disco artist with 4 upcoming club dates listed on soundcheck as of Wed, 9 Sept 2026, next at Amnesia Ibiza, Ibiza on Fri, 25 Sept 2026.
 
 Luke Solomon is a house and disco artist tracked on soundcheck, with 73 sets logged across Amsterdam, Barcelona, Berlin and Brighton and 15 more. Often billed alongside Honey Dijon, Horse Meat Disco and The Shapeshifters. Next up: Amnesia Ibiza, Ibiza on Fri 25 Sept.
 
@@ -28,4 +28,4 @@ Luke Solomon is a house and disco artist tracked on soundcheck, with 73 sets log
 
 Honey Dijon, Horse Meat Disco, The Shapeshifters
 
-*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lukesolomon/)*
+*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lukesolomon/)*

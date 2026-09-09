@@ -1,6 +1,6 @@
 # Cowper
 
-Cowper is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Tue, 8 Sept 2026, next at The Lubber Fiend, Newcastle on Thu, 17 Sept 2026.
+Cowper is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 9 Sept 2026, next at The Lubber Fiend, Newcastle on Thu, 17 Sept 2026.
 
 Cowper is a house and techno artist based in United Kingdom, tracked on soundcheck, with 28 sets logged across Amsterdam, Berlin, Bristol and London and 3 more. Often billed alongside Lupini, Il Bosco and Kickin Pigeon. Next up: The Lubber Fiend, Newcastle on Thu 17 Sept.
 
@@ -26,4 +26,4 @@ Cowper is a house and techno artist based in United Kingdom, tracked on soundche
 
 Lupini, Il Bosco, Kickin Pigeon
 
-*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/cowper/)*
+*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/cowper/)*

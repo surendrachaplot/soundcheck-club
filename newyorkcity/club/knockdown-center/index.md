@@ -1,6 +1,6 @@
 # Knockdown Center
 
-Knockdown Center is a music venue in New York City with 20 upcoming nights listed on soundcheck as of Tue, 8 Sept 2026; the next is "UNREAL x RUSH: DAY & NIGHT" on Sat, 12 Sept 2026.
+Knockdown Center is a music venue in New York City with 20 upcoming nights listed on soundcheck as of Wed, 9 Sept 2026; the next is "UNREAL x RUSH: DAY & NIGHT" on Sat, 12 Sept 2026.
 
 Knockdown Center is a music venue in Newyorkcity listed on soundcheck. 20 upcoming nights, with line-ups including 19:26, 999999999, Afem Syko and Anastazja and 2 more. Browse upcoming dates, start times and who's playing. 52-19 Flushing Ave., Queens, NY 11378 USA.
 
@@ -23,4 +23,4 @@ Knockdown Center is a music venue in Newyorkcity listed on soundcheck. 20 upcomi
 
 52-19 Flushing Ave., Queens, NY 11378 USA, New York City
 
-*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/knockdown-center/)*
+*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/knockdown-center/)*

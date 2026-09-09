@@ -1,14 +1,15 @@
 # Jaebin
 
-Jaebin is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Tue, 8 Sept 2026, next at Flac, Seoul on Fri, 11 Sept 2026.
+Jaebin is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Wed, 9 Sept 2026, next at Flac, Seoul on Fri, 11 Sept 2026.
 
-Jaebin is a house and tech house artist tracked on soundcheck, with 15 sets logged across London and Seoul. Often billed alongside Departs, Davico and Demuk. Next up: Flac, Seoul on Fri 11 Sept.
+Jaebin is a house and tech house artist tracked on soundcheck, with 16 sets logged across London and Seoul. Often billed alongside Departs, Davico and Demuk. Next up: Flac, Seoul on Fri 11 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 11 Sept 2026 | Flac | Seoul |
+| Fri, 18 Sept 2026 | Soap Seoul. | Seoul |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Jaebin is a house and tech house artist tracked on soundcheck, with 15 sets logg
 
 Departs, Davico, Demuk
 
-*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jaebin/)*
+*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jaebin/)*

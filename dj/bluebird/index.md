@@ -1,6 +1,6 @@
 # Bluebird
 
-Bluebird is a House and R&B artist with 1 upcoming club date listed on soundcheck as of Tue, 8 Sept 2026, next at Paper, Seoul on Sat, 12 Sept 2026.
+Bluebird is a House and R&B artist with 1 upcoming club date listed on soundcheck as of Wed, 9 Sept 2026, next at Paper, Seoul on Sat, 12 Sept 2026.
 
 Bluebird is a house and r&b artist based in South Korea, tracked on soundcheck, with 7 sets logged across Seoul and Tokyo. Often billed alongside OOFY, Better and Cheshire Yums. Next up: Paper, Seoul on Sat 12 Sept.
 
@@ -23,4 +23,4 @@ Bluebird is a house and r&b artist based in South Korea, tracked on soundcheck, 
 
 OOFY, Better, Cheshire Yums
 
-*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bluebird/)*
+*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bluebird/)*

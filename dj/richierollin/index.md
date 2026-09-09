@@ -1,14 +1,15 @@
 # Richie Rollin
 
-Richie Rollin is a Trance and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 8 Sept 2026, next at elipamanoke, Leipzig on Sat, 12 Sept 2026.
+Richie Rollin is a Trance and Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 9 Sept 2026, next at elipamanoke, Leipzig on Sat, 12 Sept 2026.
 
-Richie Rollin is a trance and techno artist based in Germany, tracked on soundcheck, with 36 sets logged across Leipzig. Often billed alongside Scrappy Coco, DJ KAMMERFLIMMERN and Gigi Spears. Next up: elipamanoke, Leipzig on Sat 12 Sept.
+Richie Rollin is a trance and techno artist based in Germany, tracked on soundcheck, with 37 sets logged across Leipzig. Often billed alongside Scrappy Coco, DJ KAMMERFLIMMERN and Gigi Spears. Next up: elipamanoke, Leipzig on Sat 12 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 12 Sept 2026 | elipamanoke | Leipzig |
+| Sat, 10 Oct 2026 | Neue Welle | Leipzig |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Richie Rollin is a trance and techno artist based in Germany, tracked on soundch
 
 Scrappy Coco, DJ KAMMERFLIMMERN, Gigi Spears
 
-*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/richierollin/)*
+*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/richierollin/)*

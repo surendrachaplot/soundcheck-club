@@ -1,6 +1,6 @@
 # Malachy
 
-Malachy is a House and Garage artist with 1 upcoming club date listed on soundcheck as of Tue, 8 Sept 2026, next at Starlane Pizza Bar, London on Sat, 3 Oct 2026.
+Malachy is a House and Garage artist with 1 upcoming club date listed on soundcheck as of Wed, 9 Sept 2026, next at Starlane Pizza Bar, London on Sat, 3 Oct 2026.
 
 Malachy is a house and garage artist tracked on soundcheck, with 12 sets logged across Leeds, Liverpool, London and Manchester and 1 more. Often billed alongside Alec Falconer, Jelsen and Tino. Next up: Starlane Pizza Bar, London on Sat 3 Oct.
 
@@ -25,4 +25,4 @@ Malachy is a house and garage artist tracked on soundcheck, with 12 sets logged 
 
 Alec Falconer, Jelsen, Tino
 
-*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/malachy/)*
+*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/malachy/)*

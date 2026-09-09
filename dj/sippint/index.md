@@ -1,14 +1,16 @@
 # Sippin' T
 
-Sippin' T is a Techno and Broken Beat artist with 1 upcoming club date listed on soundcheck as of Tue, 8 Sept 2026, next at Ninety One, London on Sat, 3 Oct 2026.
+Sippin' T is a Techno and Club artist with 3 upcoming club dates listed on soundcheck as of Wed, 9 Sept 2026, next at 83 Rivington Street, London on Thu, 17 Sept 2026.
 
-Sippin' T is a techno and broken beat artist based in United Kingdom, tracked on soundcheck, with 30 sets logged across Berlin, London, Newyorkcity and Sydney. Often billed alongside TEDESCO, THEMPRESS and GIDEÖN. Next up: Ninety One, London on Sat 3 Oct.
+Sippin' T is a techno and club artist based in United Kingdom, tracked on soundcheck, with 32 sets logged across Berlin, London, Newyorkcity and Sydney. Often billed alongside TEDESCO, THEMPRESS and GIDEÖN. Next up: 83 Rivington Street, London on Thu 17 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Thu, 17 Sept 2026 | 83 Rivington Street | London |
 | Sat, 3 Oct 2026 | Ninety One | London |
+| Fri, 16 Oct 2026 | Hackney Bridge | London |
 
 ## Recently played
 
@@ -25,4 +27,4 @@ Sippin' T is a techno and broken beat artist based in United Kingdom, tracked on
 
 TEDESCO, THEMPRESS, GIDEÖN
 
-*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sippint/)*
+*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sippint/)*

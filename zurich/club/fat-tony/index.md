@@ -1,6 +1,6 @@
 # Fat Tony
 
-Fat Tony is a music venue in Zurich with 1 upcoming night listed on soundcheck as of Tue, 8 Sept 2026; the next is "Bitch Pleaze" on Sat, 19 Sept 2026.
+Fat Tony is a music venue in Zurich with 1 upcoming night listed on soundcheck as of Wed, 9 Sept 2026; the next is "Bitch Pleaze" on Sat, 19 Sept 2026.
 
 Fat Tony is a music venue in Zurich listed on soundcheck. 1 upcoming night, with line-ups including Boy Sonic and Mario Tamasi. Browse upcoming dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ Fat Tony is a music venue in Zurich listed on soundcheck. 1 upcoming night, with
 | --- | --- | --- |
 | Sat, 19 Sept 2026 | Bitch Pleaze | Boy Sonic, Mario Tamasi |
 
-*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/zurich/club/fat-tony/)*
+*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/zurich/club/fat-tony/)*

@@ -1,6 +1,6 @@
 # Etch
 
-Etch is a Drum & Bass and Jungle artist with 2 upcoming club dates listed on soundcheck as of Tue, 8 Sept 2026, next at The Black Box, Denver on Sat, 10 Oct 2026.
+Etch is a Drum & Bass and Jungle artist with 2 upcoming club dates listed on soundcheck as of Wed, 9 Sept 2026, next at The Black Box, Denver on Sat, 10 Oct 2026.
 
 Etch is a drum & bass and jungle artist tracked on soundcheck, with 33 sets logged across Berlin, Brighton, Bristol and Denver and 2 more. Often billed alongside Decibella, Abby Daze and Sumgii. Next up: The Black Box, Denver on Sat 10 Oct.
 
@@ -26,4 +26,4 @@ Etch is a drum & bass and jungle artist tracked on soundcheck, with 33 sets logg
 
 Decibella, Abby Daze, Sumgii
 
-*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/etch/)*
+*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/etch/)*

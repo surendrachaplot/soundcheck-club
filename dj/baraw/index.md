@@ -1,6 +1,6 @@
 # Bara W
 
-Bara W is a Techno and Psytrance artist with 1 upcoming club date listed on soundcheck as of Tue, 8 Sept 2026, next at Slakthuset, Stockholm on Fri, 25 Sept 2026.
+Bara W is a Techno and Psytrance artist with 1 upcoming club date listed on soundcheck as of Wed, 9 Sept 2026, next at Slakthuset, Stockholm on Fri, 25 Sept 2026.
 
 Bara W is a techno and psytrance artist tracked on soundcheck, with 10 sets logged across Stockholm. Often billed alongside Technokid, SkyVibes and Thomas Schumacher. Next up: Slakthuset, Stockholm on Fri 25 Sept.
 
@@ -25,4 +25,4 @@ Bara W is a techno and psytrance artist tracked on soundcheck, with 10 sets logg
 
 Technokid, SkyVibes, Thomas Schumacher
 
-*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/baraw/)*
+*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/baraw/)*

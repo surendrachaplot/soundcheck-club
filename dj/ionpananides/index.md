@@ -1,6 +1,6 @@
 # Ion Pananides
 
-Ion Pananides is a House and Tech House artist with 5 upcoming club dates listed on soundcheck as of Tue, 8 Sept 2026, next at Hola Club Sitges (Cala Vallcarca), Barcelona on Sun, 13 Sept 2026.
+Ion Pananides is a House and Tech House artist with 5 upcoming club dates listed on soundcheck as of Wed, 9 Sept 2026, next at Hola Club Sitges (Cala Vallcarca), Barcelona on Sun, 13 Sept 2026.
 
 Ion Pananides is a house and tech house artist based in Spain, tracked on soundcheck, with 76 sets logged across Barcelona, Ibiza, London and Madrid and 3 more. Often billed alongside Alex Pott, DJ Sandwich and IULS. Next up: Hola Club Sitges (Cala Vallcarca), Barcelona on Sun 13 Sept.
 
@@ -29,4 +29,4 @@ Ion Pananides is a house and tech house artist based in Spain, tracked on soundc
 
 Alex Pott, DJ Sandwich, IULS
 
-*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ionpananides/)*
+*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ionpananides/)*

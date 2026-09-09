@@ -1,13 +1,14 @@
 # Nine of Wands
 
-Nine of Wands is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Tue, 8 Sept 2026, next at Bastet, Philadelphia on Sat, 26 Sept 2026.
+Nine of Wands is a Techno and Electro artist with 2 upcoming club dates listed on soundcheck as of Wed, 9 Sept 2026, next at The Sound Lounge at Percy, Philadelphia on Fri, 18 Sept 2026.
 
-Nine of Wands is a techno and electro artist based in United States of America, tracked on soundcheck, with 10 sets logged across Philadelphia. Often billed alongside Vicenta, human plushie and 6LOV3. Next up: Bastet, Philadelphia on Sat 26 Sept.
+Nine of Wands is a techno and electro artist based in United States of America, tracked on soundcheck, with 11 sets logged across Philadelphia. Often billed alongside Vicenta, human plushie and 6LOV3. Next up: The Sound Lounge at Percy, Philadelphia on Fri 18 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 18 Sept 2026 | The Sound Lounge at Percy | Philadelphia |
 | Sat, 26 Sept 2026 | Bastet | Philadelphia |
 
 ## Recently played
@@ -25,4 +26,4 @@ Nine of Wands is a techno and electro artist based in United States of America, 
 
 Vicenta, human plushie, 6LOV3
 
-*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nineofwands/)*
+*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nineofwands/)*

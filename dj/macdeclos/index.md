@@ -1,6 +1,6 @@
 # Mac Declos
 
-Mac Declos is a Techno and House artist with 9 upcoming club dates listed on soundcheck as of Tue, 8 Sept 2026, next at Club Vaag, Antwerp on Fri, 11 Sept 2026.
+Mac Declos is a Techno and House artist with 9 upcoming club dates listed on soundcheck as of Wed, 9 Sept 2026, next at Club Vaag, Antwerp on Fri, 11 Sept 2026.
 
 Mac Declos is a techno and house artist tracked on soundcheck, with 186 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 48 more. Often billed alongside Anetha, Lacchesi and Blasha & Allatt. Next up: Club Vaag, Antwerp on Fri 11 Sept.
 
@@ -33,4 +33,4 @@ Mac Declos is a techno and house artist tracked on soundcheck, with 186 sets log
 
 Anetha, Lacchesi, Blasha & Allatt
 
-*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/macdeclos/)*
+*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/macdeclos/)*

@@ -1,14 +1,15 @@
 # HAAi
 
-HAAi is a Techno and House artist with 9 upcoming club dates listed on soundcheck as of Tue, 8 Sept 2026, next at 528 Ibiza, Ibiza on Sat, 19 Sept 2026.
+HAAi is a Techno and House artist with 10 upcoming club dates listed on soundcheck as of Wed, 9 Sept 2026, next at 528 Ibiza, Ibiza on Sat, 19 Sept 2026.
 
-HAAi is a techno and house artist tracked on soundcheck, with 204 sets logged across Amsterdam, Antwerp, Athens and Bali and 54 more. Often billed alongside DJ Tennis, Saoirse and Gabrielle Kwarteng. Next up: 528 Ibiza, Ibiza on Sat 19 Sept.
+HAAi is a techno and house artist tracked on soundcheck, with 205 sets logged across Amsterdam, Antwerp, Athens and Bali and 54 more. Often billed alongside DJ Tennis, Saoirse and Gabrielle Kwarteng. Next up: 528 Ibiza, Ibiza on Sat 19 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 19 Sept 2026 | 528 Ibiza | Ibiza |
+| Sat, 26 Sept 2026 | Kilomètre25 | Paris |
 | Fri, 9 Oct 2026 | Palladium | Geneva |
 | Sat, 10 Oct 2026 | Depot Mayfield | Manchester |
 | Fri, 16 Oct 2026 | Mana Wynwood | Miami |
@@ -33,4 +34,4 @@ HAAi is a techno and house artist tracked on soundcheck, with 204 sets logged ac
 
 DJ Tennis, Saoirse, Gabrielle Kwarteng
 
-*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/haai/)*
+*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/haai/)*

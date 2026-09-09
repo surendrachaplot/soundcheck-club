@@ -1,6 +1,6 @@
 # Adriatique
 
-Adriatique is a Techno and House artist with 9 upcoming club dates listed on soundcheck as of Tue, 8 Sept 2026, next at [UNVRS], Ibiza on Thu, 17 Sept 2026.
+Adriatique is a Techno and House artist with 9 upcoming club dates listed on soundcheck as of Wed, 9 Sept 2026, next at [UNVRS], Ibiza on Thu, 17 Sept 2026.
 
 Adriatique is a techno and house artist tracked on soundcheck, with 154 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 36 more. Often billed alongside Mind Against, Colyn and Âme. Next up: [UNVRS], Ibiza on Thu 17 Sept.
 
@@ -33,4 +33,4 @@ Adriatique is a techno and house artist tracked on soundcheck, with 154 sets log
 
 Mind Against, Colyn, Âme
 
-*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/adriatique/)*
+*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/adriatique/)*

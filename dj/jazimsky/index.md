@@ -1,6 +1,6 @@
 # JAZ IMSKY
 
-JAZ IMSKY is a Dubstep and Bass artist with 6 upcoming club dates listed on soundcheck as of Tue, 8 Sept 2026, next at Club Lucia, Vienna on Fri, 18 Sept 2026.
+JAZ IMSKY is a Dubstep and Bass artist with 6 upcoming club dates listed on soundcheck as of Wed, 9 Sept 2026, next at Club Lucia, Vienna on Fri, 18 Sept 2026.
 
 JAZ IMSKY is a dubstep and bass artist tracked on soundcheck, with 27 sets logged across Barcelona, Brighton, Bristol and London and 3 more. Often billed alongside SKALAH (UK), Plastician and Sir Spyro. Next up: Club Lucia, Vienna on Fri 18 Sept.
 
@@ -30,4 +30,4 @@ JAZ IMSKY is a dubstep and bass artist tracked on soundcheck, with 27 sets logge
 
 SKALAH (UK), Plastician, Sir Spyro
 
-*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jazimsky/)*
+*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jazimsky/)*

@@ -1,6 +1,6 @@
 # Labyrinth presents: Detroit Love London - Carl Craig, Octave One Live & Idriss D at FOLD
 
-Labyrinth presents: Detroit Love London - Carl Craig, Octave One Live & Idriss D at FOLD on Fri 18 Sept, London. 3 acts on the bill: Carl Craig, Idriss D and Octave One. Techno and Industrial. Preview the line-up and save it on soundcheck.
+Labyrinth presents: Detroit Love London - Carl Craig, Octave One Live & Idriss D at FOLD on Fri 18 Sept, London. 7 acts on the bill: Braga Circuit, Carl Craig, Elle Clark and Idriss D and 3 more. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,8 +10,12 @@ Labyrinth presents: Detroit Love London - Carl Craig, Octave One Live & Idriss D
 
 ## Line-up
 
+- Braga Circuit
 - Carl Craig
+- Elle Clark
 - Idriss D
 - Octave One
+- Oscar Farrell
+- Ploy
 
 *Source: [soundcheck](https://soundcheck.club/e/2498867-labyrinth-presents-detroit-love-london-carl-craig-octave-one/)*

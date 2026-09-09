@@ -1,6 +1,6 @@
 # Nyah Cami
 
-Nyah Cami is a Ghetto Tech and Club artist with 2 upcoming club dates listed on soundcheck as of Tue, 8 Sept 2026, next at Jupiter Disco, New York City on Wed, 9 Sept 2026.
+Nyah Cami is a Ghetto Tech and Club artist with 2 upcoming club dates listed on soundcheck as of Wed, 9 Sept 2026, next at Jupiter Disco, New York City on Wed, 9 Sept 2026.
 
 Nyah Cami is a ghetto tech and club artist tracked on soundcheck, with 3 sets logged across Newyorkcity. Often billed alongside Adelaide (1), CMD+JAZMINE and Christinathesaintt. Next up: Jupiter Disco, Newyorkcity on Wed 9 Sept.
 
@@ -19,4 +19,4 @@ Nyah Cami is a ghetto tech and club artist tracked on soundcheck, with 3 sets lo
 
 Adelaide (1), CMD+JAZMINE, Christinathesaintt
 
-*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nyahcami/)*
+*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nyahcami/)*

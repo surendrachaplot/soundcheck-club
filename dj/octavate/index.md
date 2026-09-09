@@ -1,6 +1,6 @@
 # octavate
 
-octavate is a Jungle and Drum & Bass artist with 1 upcoming club date listed on soundcheck as of Tue, 8 Sept 2026, next at H15 Scene & Studio, Copenhagen on Sat, 10 Oct 2026.
+octavate is a Jungle and Drum & Bass artist with 1 upcoming club date listed on soundcheck as of Wed, 9 Sept 2026, next at H15 Scene & Studio, Copenhagen on Sat, 10 Oct 2026.
 
 octavate is a jungle and drum & bass artist tracked on soundcheck, with 4 sets logged across Bristol and Copenhagen. Often billed alongside Optical, Redemptive and Audio. Next up: H15 Scene & Studio, Copenhagen on Sat 10 Oct.
 
@@ -20,4 +20,4 @@ octavate is a jungle and drum & bass artist tracked on soundcheck, with 4 sets l
 
 Optical, Redemptive, Audio
 
-*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/octavate/)*
+*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/octavate/)*

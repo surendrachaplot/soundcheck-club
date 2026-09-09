@@ -1,6 +1,6 @@
-# HYPER PYP [DJ Plead, TAYHANA, Lilly Liaz ] at Karmen Camina
+# HYPER PYP [DJ Plead • TAYHANA • Lilly Liaz] at Karmen Camina
 
-HYPER PYP [DJ Plead, TAYHANA, Lilly Liaz ] at Karmen Camina on Fri 11 Sept, Strasbourg. 2 acts on the bill: DJ Plead and TAYHANA. Reggaeton and Latin Bass. Preview the line-up and save it on soundcheck.
+HYPER PYP [DJ Plead • TAYHANA • Lilly Liaz] at Karmen Camina on Fri 11 Sept, Strasbourg. 2 acts on the bill: DJ Plead and TAYHANA. Reggaeton and Latin Bass. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

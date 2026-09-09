@@ -1,6 +1,6 @@
 # KSAL
 
-KSAL is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 8 Sept 2026, next at TBA - Powered by: Void Acoustics, Madrid on Fri, 25 Sept 2026.
+KSAL is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 9 Sept 2026, next at TBA - Powered by: Void Acoustics, Madrid on Fri, 25 Sept 2026.
 
 KSAL is a techno and house artist tracked on soundcheck, with 18 sets logged across Barcelona and Madrid. Often billed alongside ANJELIKA SAHAKIAN, Ana Sant and Miguel Rivas. Next up: TBA - Powered by: Void Acoustics, Madrid on Fri 25 Sept.
 
@@ -25,4 +25,4 @@ KSAL is a techno and house artist tracked on soundcheck, with 18 sets logged acr
 
 ANJELIKA SAHAKIAN, Ana Sant, Miguel Rivas
 
-*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ksal/)*
+*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ksal/)*

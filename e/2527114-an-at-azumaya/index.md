@@ -1,6 +1,6 @@
 # AN at Azumaya
 
-AN at Azumaya on Mon 14 Sept, Tokyo. 1 act on the bill: AME (JP). Techno. Preview the line-up and save it on soundcheck.
+AN at Azumaya on Mon 14 Sept, Tokyo. 3 acts on the bill: AME (JP), nataria and Soluna. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,5 +11,7 @@ AN at Azumaya on Mon 14 Sept, Tokyo. 1 act on the bill: AME (JP). Techno. Previe
 ## Line-up
 
 - AME (JP)
+- nataria
+- Soluna
 
 *Source: [soundcheck](https://soundcheck.club/e/2527114-an-at-azumaya/)*

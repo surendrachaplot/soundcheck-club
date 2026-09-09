@@ -1,6 +1,6 @@
 # DJ Hannita
 
-DJ Hannita is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Tue, 8 Sept 2026, next at La Gare / Le Gore, Paris on Fri, 18 Sept 2026.
+DJ Hannita is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Wed, 9 Sept 2026, next at La Gare / Le Gore, Paris on Fri, 18 Sept 2026.
 
 DJ Hannita is a techno and trance artist based in Germany, tracked on soundcheck, with 5 sets logged across Berlin and Paris. Often billed alongside 4meter, CHOREOPHILA and Djé Djé from the block. Next up: La Gare / Le Gore, Paris on Fri 18 Sept.
 
@@ -21,4 +21,4 @@ DJ Hannita is a techno and trance artist based in Germany, tracked on soundcheck
 
 4meter, CHOREOPHILA, Djé Djé from the block
 
-*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djhannita/)*
+*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djhannita/)*

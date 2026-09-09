@@ -1,6 +1,6 @@
 # Cliff Colada
 
-Cliff Colada is a House and Progressive House artist with 1 upcoming club date listed on soundcheck as of Tue, 8 Sept 2026, next at Heaps Normal Health Club, Sydney on Sat, 31 Oct 2026.
+Cliff Colada is a House and Progressive House artist with 1 upcoming club date listed on soundcheck as of Wed, 9 Sept 2026, next at Heaps Normal Health Club, Sydney on Sat, 31 Oct 2026.
 
 Cliff Colada is a house and progressive house artist based in Australia, tracked on soundcheck, with 14 sets logged across Berlin and Sydney. Often billed alongside Roxy Lotz, Shimanski and The Brahma. Next up: Heaps Normal Health Club, Sydney on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Cliff Colada is a house and progressive house artist based in Australia, tracked
 
 Roxy Lotz, Shimanski, The Brahma
 
-*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/cliffcolada/)*
+*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/cliffcolada/)*

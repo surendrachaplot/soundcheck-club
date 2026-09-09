@@ -1,6 +1,6 @@
 # kengotaki
 
-kengotaki is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Tue, 8 Sept 2026, next at Mitsuki, Tokyo on Wed, 9 Sept 2026.
+kengotaki is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Wed, 9 Sept 2026, next at Mitsuki, Tokyo on Wed, 9 Sept 2026.
 
 kengotaki is a house and techno artist based in Japan, tracked on soundcheck, with 165 sets logged across Osaka, Sydney and Tokyo. Often billed alongside r1ku, SAMO (JP) and YUVIE. Next up: Mitsuki, Tokyo on Wed 9 Sept.
 
@@ -28,4 +28,4 @@ kengotaki is a house and techno artist based in Japan, tracked on soundcheck, wi
 
 r1ku, SAMO (JP), YUVIE
 
-*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kengotaki/)*
+*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kengotaki/)*

@@ -1,6 +1,6 @@
 # PUCCI (2)
 
-PUCCI (2) is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Tue, 8 Sept 2026, next at Human Nature, Tokyo on Sat, 12 Sept 2026.
+PUCCI (2) is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Wed, 9 Sept 2026, next at Human Nature, Tokyo on Sat, 12 Sept 2026.
 
 PUCCI (2) is a techno and house artist tracked on soundcheck, with 9 sets logged across Tokyo. Often billed alongside DJ Dante, Lvca and ALLY. Next up: Human Nature, Tokyo on Sat 12 Sept.
 
@@ -25,4 +25,4 @@ PUCCI (2) is a techno and house artist tracked on soundcheck, with 9 sets logged
 
 DJ Dante, Lvca, ALLY
 
-*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/pucci-2/)*
+*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/pucci-2/)*

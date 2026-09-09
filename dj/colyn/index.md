@@ -1,6 +1,6 @@
 # Colyn
 
-Colyn is a Techno and House artist with 7 upcoming club dates listed on soundcheck as of Tue, 8 Sept 2026, next at Colorado Charlie, The Hague on Sat, 12 Sept 2026.
+Colyn is a Techno and House artist with 7 upcoming club dates listed on soundcheck as of Wed, 9 Sept 2026, next at Colorado Charlie, The Hague on Sat, 12 Sept 2026.
 
 Colyn is a techno and house artist tracked on soundcheck, with 160 sets logged across Amsterdam, Antwerp, Athens and Austin and 39 more. Often billed alongside Adriatique, Innellea and CamelPhat. Next up: Colorado Charlie, Thehague on Sat 12 Sept.
 
@@ -31,4 +31,4 @@ Colyn is a techno and house artist tracked on soundcheck, with 160 sets logged a
 
 Adriatique, Innellea, CamelPhat
 
-*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/colyn/)*
+*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/colyn/)*

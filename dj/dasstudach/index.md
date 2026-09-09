@@ -1,6 +1,6 @@
 # dasstudach
 
-dasstudach is a Techno and Trance artist with 3 upcoming club dates listed on soundcheck as of Tue, 8 Sept 2026, next at Lehmann Club, Stuttgart on Fri, 25 Sept 2026.
+dasstudach is a Techno and Trance artist with 3 upcoming club dates listed on soundcheck as of Wed, 9 Sept 2026, next at Lehmann Club, Stuttgart on Fri, 25 Sept 2026.
 
 dasstudach is a techno and trance artist tracked on soundcheck, with 122 sets logged across Amsterdam, Basel, Berlin and Bucharest and 19 more. Often billed alongside Megix, Adrian Mills and PRADA2000. Next up: Lehmann Club, Stuttgart on Fri 25 Sept.
 
@@ -27,4 +27,4 @@ dasstudach is a techno and trance artist tracked on soundcheck, with 122 sets lo
 
 Megix, Adrian Mills, PRADA2000
 
-*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dasstudach/)*
+*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dasstudach/)*

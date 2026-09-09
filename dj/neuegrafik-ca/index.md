@@ -1,6 +1,6 @@
 # Neue Grafik
 
-Neue Grafik is a Jazz and Baile Funk artist with 1 upcoming club date listed on soundcheck as of Tue, 8 Sept 2026, next at Rotterdam Centre, Rotterdam on Fri, 11 Sept 2026.
+Neue Grafik is a Jazz and Baile Funk artist with 1 upcoming club date listed on soundcheck as of Wed, 9 Sept 2026, next at Rotterdam Centre, Rotterdam on Fri, 11 Sept 2026.
 
 Neue Grafik is a jazz and baile funk artist tracked on soundcheck, with 18 sets logged across Amsterdam, Cologne, Dusseldorf and London and 3 more. Often billed alongside limi, DJ Programma and Entek. Next up: Rotterdam Centre, Rotterdam on Fri 11 Sept.
 
@@ -25,4 +25,4 @@ Neue Grafik is a jazz and baile funk artist tracked on soundcheck, with 18 sets 
 
 limi, DJ Programma, Entek
 
-*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/neuegrafik-ca/)*
+*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/neuegrafik-ca/)*

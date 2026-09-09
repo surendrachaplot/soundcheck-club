@@ -1,6 +1,6 @@
 # K-SLICE
 
-K-SLICE is a House and Funk / Soul artist with 1 upcoming club date listed on soundcheck as of Tue, 8 Sept 2026, next at Nico's Bar at Hackney Bridge, London on Sat, 12 Sept 2026.
+K-SLICE is a House and Funk / Soul artist with 1 upcoming club date listed on soundcheck as of Wed, 9 Sept 2026, next at Nico's Bar at Hackney Bridge, London on Sat, 12 Sept 2026.
 
 K-SLICE is a house and funk / soul artist tracked on soundcheck, with 19 sets logged across Lisbon and London. Often billed alongside Almass Badat, JAMESON JAMESON and Elsa Dove. Next up: Nico's Bar at Hackney Bridge, London on Sat 12 Sept.
 
@@ -25,4 +25,4 @@ K-SLICE is a house and funk / soul artist tracked on soundcheck, with 19 sets lo
 
 Almass Badat, JAMESON JAMESON, Elsa Dove
 
-*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/k-slice/)*
+*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/k-slice/)*

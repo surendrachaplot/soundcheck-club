@@ -1,6 +1,6 @@
 # relajadita
 
-relajadita is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Tue, 8 Sept 2026, next at Parc Floral De Paris, Paris on Fri, 16 Oct 2026.
+relajadita is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Wed, 9 Sept 2026, next at Parc Floral De Paris, Paris on Fri, 16 Oct 2026.
 
 relajadita is a techno and trance artist tracked on soundcheck, with 19 sets logged across Amsterdam, Barcelona, Basel and Berlin and 6 more. Often billed alongside Adrian Mills, DVAID and GIØ (1). Next up: Parc Floral De Paris, Paris on Fri 16 Oct.
 
@@ -26,4 +26,4 @@ relajadita is a techno and trance artist tracked on soundcheck, with 19 sets log
 
 Adrian Mills, DVAID, GIØ (1)
 
-*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/relajadita/)*
+*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/relajadita/)*

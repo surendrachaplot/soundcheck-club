@@ -1,8 +1,8 @@
 # Garbo (2)
 
-Garbo (2) is a House and Electro artist with 3 upcoming club dates listed on soundcheck as of Tue, 8 Sept 2026, next at Ouseburn Garden, Newcastle on Sat, 12 Sept 2026.
+Garbo (2) is a House and Progressive House artist with 4 upcoming club dates listed on soundcheck as of Wed, 9 Sept 2026, next at Ouseburn Garden, Newcastle on Sat, 12 Sept 2026.
 
-Garbo (2) is a house and electro artist based in United Kingdom, tracked on soundcheck, with 13 sets logged across Berlin, Liverpool, Manchester and Newcastle. Often billed alongside TriForm, Weston and Allius. Next up: Ouseburn Garden, Newcastle on Sat 12 Sept.
+Garbo (2) is a house and progressive house artist based in United Kingdom, tracked on soundcheck, with 14 sets logged across Berlin, Liverpool, Manchester and Newcastle. Often billed alongside Allius, TriForm and Weston. Next up: Ouseburn Garden, Newcastle on Sat 12 Sept.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Garbo (2) is a house and electro artist based in United Kingdom, tracked on soun
 | --- | --- | --- |
 | Sat, 12 Sept 2026 | Ouseburn Garden | Newcastle |
 | Sat, 3 Oct 2026 | Cobalt Studios | Newcastle |
+| Sat, 3 Oct 2026 | Honey Street Studio | Manchester |
 | Sat, 10 Oct 2026 | Prince Bishop Cruiser | Newcastle |
 
 ## Recently played
@@ -25,6 +26,6 @@ Garbo (2) is a house and electro artist based in United Kingdom, tracked on soun
 
 ## Shares bills with
 
-TriForm, Weston, Allius
+Allius, TriForm, Weston
 
-*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/garbo-2/)*
+*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/garbo-2/)*

@@ -1,6 +1,6 @@
 # Montezuma (DE)
 
-Montezuma (DE) is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 8 Sept 2026, next at Distillery, Leipzig on Sat, 19 Sept 2026.
+Montezuma (DE) is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 9 Sept 2026, next at Distillery, Leipzig on Sat, 19 Sept 2026.
 
 Montezuma (DE) is a techno and house artist based in Germany, tracked on soundcheck, with 30 sets logged across Barcelona, Berlin, Hamburg and Leipzig and 3 more. Often billed alongside Beqqi, Maschérie and MIO (ES). Next up: Distillery, Leipzig on Sat 19 Sept.
 
@@ -25,4 +25,4 @@ Montezuma (DE) is a techno and house artist based in Germany, tracked on soundch
 
 Beqqi, Maschérie, MIO (ES)
 
-*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/montezuma-de/)*
+*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/montezuma-de/)*

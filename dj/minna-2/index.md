@@ -1,8 +1,8 @@
 # MiNNA
 
-MiNNA is a House and Disco artist with 7 upcoming club dates listed on soundcheck as of Tue, 8 Sept 2026, next at Sub Club, Glasgow on Mon, 14 Sept 2026.
+MiNNA is a House and Disco artist with 8 upcoming club dates listed on soundcheck as of Wed, 9 Sept 2026, next at Sub Club, Glasgow on Mon, 14 Sept 2026.
 
-MiNNA is a house and disco artist tracked on soundcheck, with 144 sets logged across Amsterdam, Antwerp, Barcelona and Bristol and 22 more. Often billed alongside Kirollus, Dan Shake and Melvo Baptiste. Next up: Sub Club, Glasgow on Mon 14 Sept.
+MiNNA is a house and disco artist tracked on soundcheck, with 145 sets logged across Amsterdam, Antwerp, Barcelona and Bristol and 22 more. Often billed alongside Kirollus, Dan Shake and Melvo Baptiste. Next up: Sub Club, Glasgow on Mon 14 Sept.
 
 ## Upcoming shows
 
@@ -15,6 +15,7 @@ MiNNA is a house and disco artist tracked on soundcheck, with 144 sets logged ac
 | Sat, 3 Oct 2026 | Open Air Genève | Geneva |
 | Fri, 9 Oct 2026 | Hï Ibiza | Ibiza |
 | Sat, 10 Oct 2026 | Colour Factory | London |
+| Fri, 23 Oct 2026 | NX Newcastle | Newcastle |
 
 ## Recently played
 
@@ -31,4 +32,4 @@ MiNNA is a house and disco artist tracked on soundcheck, with 144 sets logged ac
 
 Kirollus, Dan Shake, Melvo Baptiste
 
-*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/minna-2/)*
+*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/minna-2/)*

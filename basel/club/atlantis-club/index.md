@@ -1,6 +1,6 @@
 # Atlantis Club
 
-Atlantis Club is a music venue in Basel with 3 upcoming nights listed on soundcheck as of Tue, 8 Sept 2026; the next is "Borovsky" on Fri, 11 Sept 2026.
+Atlantis Club is a music venue in Basel with 3 upcoming nights listed on soundcheck as of Wed, 9 Sept 2026; the next is "Borovsky" on Fri, 11 Sept 2026.
 
 Atlantis Club is a music venue in Basel listed on soundcheck. 3 upcoming nights. Browse upcoming dates, start times and who's playing. Klosterberg 13; 4051, Basel; Switzerland.
 
@@ -16,4 +16,4 @@ Atlantis Club is a music venue in Basel listed on soundcheck. 3 upcoming nights.
 
 Klosterberg 13; 4051, Basel; Switzerland, Basel
 
-*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/basel/club/atlantis-club/)*
+*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/basel/club/atlantis-club/)*

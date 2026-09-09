@@ -1,6 +1,6 @@
 # espoff
 
-espoff is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Tue, 8 Sept 2026, next at Luzztro, Warsaw on Fri, 11 Sept 2026.
+espoff is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Wed, 9 Sept 2026, next at Luzztro, Warsaw on Fri, 11 Sept 2026.
 
 espoff is a house and disco artist based in Poland, tracked on soundcheck, with 24 sets logged across Warsaw. Often billed alongside Easy Audio, bart ender and uiava. Next up: Luzztro, Warsaw on Fri 11 Sept.
 
@@ -25,4 +25,4 @@ espoff is a house and disco artist based in Poland, tracked on soundcheck, with 
 
 Easy Audio, bart ender, uiava
 
-*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/espoff/)*
+*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/espoff/)*

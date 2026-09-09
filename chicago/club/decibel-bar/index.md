@@ -1,6 +1,6 @@
 # Decibel Bar
 
-Decibel Bar is a music venue in Chicago with 1 upcoming night listed on soundcheck as of Tue, 8 Sept 2026; the next is "3000" on Fri, 11 Sept 2026.
+Decibel Bar is a music venue in Chicago with 1 upcoming night listed on soundcheck as of Wed, 9 Sept 2026; the next is "3000" on Fri, 11 Sept 2026.
 
 Decibel Bar is a music venue in Chicago listed on soundcheck. 1 upcoming night. Browse upcoming dates, start times and who's playing. 4437 N Broadway, Chicago, FL.
 
@@ -14,4 +14,4 @@ Decibel Bar is a music venue in Chicago listed on soundcheck. 1 upcoming night. 
 
 4437 N Broadway, Chicago, FL, Chicago
 
-*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/chicago/club/decibel-bar/)*
+*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/chicago/club/decibel-bar/)*

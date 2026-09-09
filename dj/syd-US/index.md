@@ -1,6 +1,6 @@
 # Syd (US)
 
-Syd (US) is a Club and Techno artist with 3 upcoming club dates listed on soundcheck as of Tue, 8 Sept 2026, next at Bossa Nova Civic Club, New York City on Fri, 11 Sept 2026.
+Syd (US) is a Club and Techno artist with 3 upcoming club dates listed on soundcheck as of Wed, 9 Sept 2026, next at Bossa Nova Civic Club, New York City on Fri, 11 Sept 2026.
 
 Syd (US) is a club and techno artist tracked on soundcheck, with 91 sets logged across Boston, Chicago, Detroit and Losangeles and 8 more. Often billed alongside NATALIA., Tromac and NoahG. Next up: Bossa Nova Civic Club, Newyorkcity on Fri 11 Sept.
 
@@ -27,4 +27,4 @@ Syd (US) is a club and techno artist tracked on soundcheck, with 91 sets logged 
 
 NATALIA., Tromac, NoahG
 
-*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/syd-US/)*
+*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/syd-US/)*

@@ -1,6 +1,6 @@
 # Melina Blanco
 
-Melina Blanco is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 8 Sept 2026, next at Sunset Destination Hostel Rooftop, Lisbon on Sat, 12 Sept 2026.
+Melina Blanco is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 9 Sept 2026, next at Sunset Destination Hostel Rooftop, Lisbon on Sat, 12 Sept 2026.
 
 Melina Blanco is a techno and house artist tracked on soundcheck, with 19 sets logged across Lisbon. Often billed alongside Van Der (PT), marum and nharo. Next up: Sunset Destination Hostel Rooftop, Lisbon on Sat 12 Sept.
 
@@ -25,4 +25,4 @@ Melina Blanco is a techno and house artist tracked on soundcheck, with 19 sets l
 
 Van Der (PT), marum, nharo
 
-*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/melinablanco/)*
+*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/melinablanco/)*

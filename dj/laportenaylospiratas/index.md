@@ -1,6 +1,6 @@
 # La Porteña y los Piratas
 
-La Porteña y los Piratas is a Latin Bass and Electro artist with 1 upcoming club date listed on soundcheck as of Tue, 8 Sept 2026, next at Parque del Centre del Poblenou, Barcelona on Sun, 13 Sept 2026.
+La Porteña y los Piratas is a Latin Bass and Electro artist with 1 upcoming club date listed on soundcheck as of Wed, 9 Sept 2026, next at Parque del Centre del Poblenou, Barcelona on Sun, 13 Sept 2026.
 
 La Porteña y los Piratas is a latin bass and electro artist tracked on soundcheck, with 10 sets logged across Barcelona. Often billed alongside La Portenya DJ. Next up: Parque del Centre del Poblenou, Barcelona on Sun 13 Sept.
 
@@ -25,4 +25,4 @@ La Porteña y los Piratas is a latin bass and electro artist tracked on soundche
 
 La Portenya DJ
 
-*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/laportenaylospiratas/)*
+*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/laportenaylospiratas/)*

@@ -1,6 +1,6 @@
 # Ninsa
 
-Ninsa is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Tue, 8 Sept 2026, next at Openluchttheater Amersfoort, Amsterdam on Fri, 18 Sept 2026.
+Ninsa is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Wed, 9 Sept 2026, next at Openluchttheater Amersfoort, Amsterdam on Fri, 18 Sept 2026.
 
 Ninsa is a techno and house artist tracked on soundcheck, with 58 sets logged across Amsterdam, Antwerp, Berlin and Cologne and 6 more. Often billed alongside Gabriel Ananda, Miss Melera and Vero (NL). Next up: Openluchttheater Amersfoort, Amsterdam on Fri 18 Sept.
 
@@ -26,4 +26,4 @@ Ninsa is a techno and house artist tracked on soundcheck, with 58 sets logged ac
 
 Gabriel Ananda, Miss Melera, Vero (NL)
 
-*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ninsa/)*
+*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ninsa/)*

@@ -1,6 +1,6 @@
 # Dombresky
 
-Dombresky is a House and Tech House artist with 6 upcoming club dates listed on soundcheck as of Tue, 8 Sept 2026, next at Elektricity, Detroit on Fri, 11 Sept 2026.
+Dombresky is a House and Tech House artist with 6 upcoming club dates listed on soundcheck as of Wed, 9 Sept 2026, next at Elektricity, Detroit on Fri, 11 Sept 2026.
 
 Dombresky is a house and tech house artist tracked on soundcheck, with 142 sets logged across Austin, Bali, Barcelona and Boston and 30 more. Often billed alongside Jaded (UK), Purple Disco Machine and Tini Gessler. Next up: Elektricity, Detroit on Fri 11 Sept.
 
@@ -30,4 +30,4 @@ Dombresky is a house and tech house artist tracked on soundcheck, with 142 sets 
 
 Jaded (UK), Purple Disco Machine, Tini Gessler
 
-*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dombresky/)*
+*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dombresky/)*

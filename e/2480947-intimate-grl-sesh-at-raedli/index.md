@@ -1,6 +1,6 @@
 # Intimate: GRL SESH at Raedli
 
-Intimate: GRL SESH at Raedli on Fri 18 Sept, Zurich. 5 acts on the bill: Gioski, KAïA (2), ShibiDorra and Viktoria Spielmann and 1 more. Techno and Electronica. Preview the line-up and save it on soundcheck.
+Intimate: GRL SESH at Raedli on Fri 18 Sept, Zurich. 6 acts on the bill: Gioski, KAïA (2), Miska (3) and ShibiDorra and 2 more. Techno and Electronica. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -12,6 +12,7 @@ Intimate: GRL SESH at Raedli on Fri 18 Sept, Zurich. 5 acts on the bill: Gioski,
 
 - Gioski
 - KAïA (2)
+- Miska (3)
 - ShibiDorra
 - Viktoria Spielmann
 - XVM (SRB)

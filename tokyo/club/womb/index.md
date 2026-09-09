@@ -1,8 +1,8 @@
 # WOMB
 
-WOMB is a music venue in Tokyo with 12 upcoming nights listed on soundcheck as of Tue, 8 Sept 2026; the next is "WTW" on Wed, 9 Sept 2026.
+WOMB is a music venue in Tokyo with 13 upcoming nights listed on soundcheck as of Wed, 9 Sept 2026; the next is "WTW" on Wed, 9 Sept 2026.
 
-WOMB is a music venue in Tokyo listed on soundcheck. 12 upcoming nights, with line-ups including 7e, Akie, ANDY DEDE and A Strange Wedding and 2 more. Browse upcoming dates, start times and who's playing. 2-16 Maruyamacho Shibuya, Tokyo 150-0044 Japan.
+WOMB is a music venue in Tokyo listed on soundcheck. 13 upcoming nights, with line-ups including 7e, Akie, ANDY DEDE and A Strange Wedding and 2 more. Browse upcoming dates, start times and who's playing. 2-16 Maruyamacho Shibuya, Tokyo 150-0044 Japan.
 
 ## What's on
 
@@ -16,11 +16,11 @@ WOMB is a music venue in Tokyo listed on soundcheck. 12 upcoming nights, with li
 | Tue, 22 Sept 2026 | YAGI BPM EXHIBITION 2026 | CYBERHACKSYSTEM, HIMAWARI, JUN INAGAWA, YUVIE, Yohji Igarashi, ecec, kengotaki, pinponpanpon |
 | Fri, 25 Sept 2026 | A.S.F | KINO (UY), Karuta, P-YAN, RYOKEI, ildec |
 | Sat, 26 Sept 2026 | INTENTION | Dani Savant, Drunken Kong, MISA, Mayuri, Shogo Ito, U:ICHI, WAKA XINXI, WATARU, Yamato |
+| Sat, 10 Oct 2026 | TIME HOLE -REALROCKDESIGN 30TH ANNIVERSARY- | Akie, CHIDA, DOTT, Kikiorix, Nicolas Lutz, Rio Kawamoto, Satoshi Otsuki, Wada Yosuke |
 | Sun, 11 Oct 2026 | SOLSTICE MUSIC PRESENTS: SPACE TRIBE TRIBUTE |  |
-| Sat, 24 Oct 2026 | CARTULIS |  |
 
 ## Address
 
 2-16 Maruyamacho Shibuya, Tokyo 150-0044 Japan, Tokyo
 
-*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/womb/)*
+*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/womb/)*

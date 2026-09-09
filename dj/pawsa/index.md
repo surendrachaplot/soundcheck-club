@@ -1,6 +1,6 @@
 # PAWSA
 
-PAWSA is a House and Tech House artist with 6 upcoming club dates listed on soundcheck as of Tue, 8 Sept 2026, next at TBA - Brussels, Brussels on Fri, 11 Sept 2026.
+PAWSA is a House and Tech House artist with 6 upcoming club dates listed on soundcheck as of Wed, 9 Sept 2026, next at TBA - Brussels, Brussels on Fri, 11 Sept 2026.
 
 PAWSA is a house and tech house artist tracked on soundcheck, with 143 sets logged across Amsterdam, Athens, Austin and Barcelona and 41 more. Often billed alongside Dennis Cruz, Silvie Loto and ANOTR. Next up: TBA - Brussels, Brussels on Fri 11 Sept.
 
@@ -30,4 +30,4 @@ PAWSA is a house and tech house artist tracked on soundcheck, with 143 sets logg
 
 Dennis Cruz, Silvie Loto, ANOTR
 
-*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/pawsa/)*
+*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/pawsa/)*

@@ -1,6 +1,6 @@
 # MssingNo, Zomby, amil raja + more at Phonox
 
-MssingNo, Zomby, amil raja + more at Phonox on Fri 11 Sept, London. 4 acts on the bill: amil raja, leahgte, MssingNo and Zomby. Preview the line-up and save it on soundcheck.
+MssingNo, Zomby, amil raja + more at Phonox on Fri 11 Sept, London. 5 acts on the bill: amil raja, leahgte, Luun and MssingNo and 1 more. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -12,6 +12,7 @@ MssingNo, Zomby, amil raja + more at Phonox on Fri 11 Sept, London. 4 acts on th
 
 - amil raja
 - leahgte
+- Luun
 - MssingNo
 - Zomby
 

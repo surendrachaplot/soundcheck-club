@@ -1,6 +1,6 @@
 # Ryme Tyme
 
-Ryme Tyme is a Drum & Bass and Jungle artist with 2 upcoming club dates listed on soundcheck as of Tue, 8 Sept 2026, next at Last Arch, London on Sat, 21 Nov 2026.
+Ryme Tyme is a Drum & Bass and Jungle artist with 2 upcoming club dates listed on soundcheck as of Wed, 9 Sept 2026, next at Last Arch, London on Sat, 21 Nov 2026.
 
 Ryme Tyme is a drum & bass and jungle artist based in United Kingdom, tracked on soundcheck, with 16 sets logged across Brighton, Leeds, London and Sheffield. Often billed alongside Double O, Optical and Ed Rush. Next up: Last Arch, London on Sat 21 Nov.
 
@@ -26,4 +26,4 @@ Ryme Tyme is a drum & bass and jungle artist based in United Kingdom, tracked on
 
 Double O, Optical, Ed Rush
 
-*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/rymetyme/)*
+*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/rymetyme/)*

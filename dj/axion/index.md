@@ -1,14 +1,15 @@
 # AXION
 
-AXION is a Techno and Minimal Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 8 Sept 2026, next at SWG3, Glasgow on Fri, 25 Sept 2026.
+AXION is a Techno and Minimal Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 9 Sept 2026, next at SWG3, Glasgow on Fri, 25 Sept 2026.
 
-AXION is a techno and minimal techno artist based in United Kingdom, tracked on soundcheck, with 13 sets logged across Glasgow and Tokyo. Often billed alongside Quail, LAZLO and SINZIN. Next up: SWG3, Glasgow on Fri 25 Sept.
+AXION is a techno and minimal techno artist based in United Kingdom, tracked on soundcheck, with 14 sets logged across Glasgow and Tokyo. Often billed alongside Quail, LAZLO and SINZIN. Next up: SWG3, Glasgow on Fri 25 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 25 Sept 2026 | SWG3 | Glasgow |
+| Fri, 30 Oct 2026 | Sub Club | Glasgow |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ AXION is a techno and minimal techno artist based in United Kingdom, tracked on 
 
 Quail, LAZLO, SINZIN
 
-*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/axion/)*
+*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/axion/)*

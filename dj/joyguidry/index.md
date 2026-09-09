@@ -1,14 +1,14 @@
 # Joy Guidry
 
-Joy Guidry is a Techno and Experimental artist with 4 upcoming club dates listed on soundcheck as of Tue, 8 Sept 2026, next at Detroit - 3 Locations / 3 Days, Detroit on Thu, 10 Sept 2026.
+Joy Guidry is a Techno and Experimental artist with 4 upcoming club dates listed on soundcheck as of Wed, 9 Sept 2026, next at TBA - Detroit - 3 Locations / 3 Days (see LINEUP), Detroit on Thu, 10 Sept 2026.
 
-Joy Guidry is a techno and experimental artist based in United States of America, tracked on soundcheck, with 13 sets logged across Berlin, Bristol, Brussels and Detroit and 4 more. Often billed alongside CCL, Juliana Huxtable and upsammy. Next up: Detroit - 3 Locations / 3 Days, Detroit on Thu 10 Sept.
+Joy Guidry is a techno and experimental artist based in United States of America, tracked on soundcheck, with 13 sets logged across Berlin, Bristol, Brussels and Detroit and 4 more. Often billed alongside CCL, Juliana Huxtable and upsammy. Next up: TBA - Detroit - 3 Locations / 3 Days (see LINEUP), Detroit on Thu 10 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Thu, 10 Sept 2026 | Detroit - 3 Locations / 3 Days | Detroit |
+| Thu, 10 Sept 2026 | TBA - Detroit - 3 Locations / 3 Days (see LINEUP) | Detroit |
 | Thu, 10 Sept 2026 | Camp Kennybrook | New York City |
 | Fri, 18 Sept 2026 | Fort Mifflin | Philadelphia |
 | Sat, 7 Nov 2026 | Various Venues, Bristol | Bristol |
@@ -28,4 +28,4 @@ Joy Guidry is a techno and experimental artist based in United States of America
 
 CCL, Juliana Huxtable, upsammy
 
-*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/joyguidry/)*
+*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/joyguidry/)*

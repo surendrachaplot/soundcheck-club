@@ -1,14 +1,15 @@
 # Nocturnerror
 
-Nocturnerror is a Experimental and Electronica artist with 1 upcoming club date listed on soundcheck as of Tue, 8 Sept 2026, next at Silent Green, Berlin on Thu, 1 Oct 2026.
+Nocturnerror is a Experimental and Electronica artist with 2 upcoming club dates listed on soundcheck as of Wed, 9 Sept 2026, next at Silent Green, Berlin on Thu, 1 Oct 2026.
 
-Nocturnerror is an experimental and electronica artist tracked on soundcheck, with 16 sets logged across Berlin, Leipzig, Milan and Munich and 3 more. Often billed alongside Nesso, Ciro Vitiello and Francesco Corvi. Next up: Silent Green, Berlin on Thu 1 Oct.
+Nocturnerror is an experimental and electronica artist tracked on soundcheck, with 17 sets logged across Berlin, Leipzig, London and Milan and 4 more. Often billed alongside Nesso, Ciro Vitiello and Francesco Corvi. Next up: Silent Green, Berlin on Thu 1 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Thu, 1 Oct 2026 | Silent Green | Berlin |
+| Thu, 8 Oct 2026 | M.O.T | London |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Nocturnerror is an experimental and electronica artist tracked on soundcheck, wi
 
 Nesso, Ciro Vitiello, Francesco Corvi
 
-*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nocturnerror/)*
+*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nocturnerror/)*

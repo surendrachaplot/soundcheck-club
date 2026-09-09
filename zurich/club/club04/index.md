@@ -1,6 +1,6 @@
 # Club04
 
-Club04 is a music venue in Zurich with 4 upcoming nights listed on soundcheck as of Tue, 8 Sept 2026; the next is "INDUSTRIAL UNDERGROUND" on Sat, 12 Sept 2026.
+Club04 is a music venue in Zurich with 4 upcoming nights listed on soundcheck as of Wed, 9 Sept 2026; the next is "INDUSTRIAL UNDERGROUND" on Sat, 12 Sept 2026.
 
 Club04 is a music venue in Zurich listed on soundcheck. 4 upcoming nights, with line-ups including David Kawka, Patrik Widmer and Tin Tin. Browse upcoming dates, start times and who's playing. Brauerstrasse 37, 8004 Zürich.
 
@@ -17,4 +17,4 @@ Club04 is a music venue in Zurich listed on soundcheck. 4 upcoming nights, with 
 
 Brauerstrasse 37, 8004 Zürich, Zurich
 
-*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/zurich/club/club04/)*
+*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/zurich/club/club04/)*

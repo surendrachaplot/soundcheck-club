@@ -1,6 +1,6 @@
 # Dave
 
-Dave is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 8 Sept 2026, next at Der Weiße Hase, Berlin on Sat, 26 Sept 2026.
+Dave is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 9 Sept 2026, next at Der Weiße Hase, Berlin on Sat, 26 Sept 2026.
 
 Dave is a techno and house artist tracked on soundcheck, with 29 sets logged across Berlin, Budapest, Kualalumpur and Leeds and 4 more. Often billed alongside Bisk, Emanuel Eisbrenner and Fabian Fischbach. Next up: Der Weiße Hase, Berlin on Sat 26 Sept.
 
@@ -25,4 +25,4 @@ Dave is a techno and house artist tracked on soundcheck, with 29 sets logged acr
 
 Bisk, Emanuel Eisbrenner, Fabian Fischbach
 
-*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dave/)*
+*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dave/)*

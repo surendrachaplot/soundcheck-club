@@ -1,6 +1,6 @@
 # Hitam
 
-Hitam is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Tue, 8 Sept 2026, next at Shunter, Rotterdam on Fri, 18 Sept 2026.
+Hitam is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Wed, 9 Sept 2026, next at Shunter, Rotterdam on Fri, 18 Sept 2026.
 
 Hitam is a techno and house artist based in Netherlands, tracked on soundcheck, with 93 sets logged across Amsterdam, Athens, Bali and Berlin and 29 more. Often billed alongside WINDFUHR, AMORAL and I-RO. Next up: Shunter, Rotterdam on Fri 18 Sept.
 
@@ -28,4 +28,4 @@ Hitam is a techno and house artist based in Netherlands, tracked on soundcheck, 
 
 WINDFUHR, AMORAL, I-RO
 
-*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/hitam/)*
+*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/hitam/)*

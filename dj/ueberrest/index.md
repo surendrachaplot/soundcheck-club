@@ -1,6 +1,6 @@
 # Ueberrest
 
-Ueberrest is a Techno and Trance artist with 10 upcoming club dates listed on soundcheck as of Tue, 8 Sept 2026, next at Zenith - Die Kulturhalle, Munich on Sat, 12 Sept 2026.
+Ueberrest is a Techno and Trance artist with 10 upcoming club dates listed on soundcheck as of Wed, 9 Sept 2026, next at Zenith - Die Kulturhalle, Munich on Sat, 12 Sept 2026.
 
 Ueberrest is a techno and trance artist tracked on soundcheck, with 89 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 36 more. Often billed alongside Kobosil, Somewhen and KUKO. Next up: Zenith - Die Kulturhalle, Munich on Sat 12 Sept.
 
@@ -34,4 +34,4 @@ Ueberrest is a techno and trance artist tracked on soundcheck, with 89 sets logg
 
 Kobosil, Somewhen, KUKO
 
-*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ueberrest/)*
+*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ueberrest/)*

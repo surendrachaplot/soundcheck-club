@@ -1,6 +1,6 @@
 # Outernet Live
 
-Outernet Live is a music venue in London with 15 upcoming nights listed on soundcheck as of Tue, 8 Sept 2026; the next is "MORTEN - London Takeover" on Sat, 19 Sept 2026.
+Outernet Live is a music venue in London with 15 upcoming nights listed on soundcheck as of Wed, 9 Sept 2026; the next is "MORTEN - London Takeover" on Sat, 19 Sept 2026.
 
 Outernet Live is a music venue in London listed on soundcheck. 15 upcoming nights, with line-ups including AliA, ALISHA, Bitter Babe and Blawan and 2 more. Browse upcoming dates, start times and who's playing. Denmark Street, London WC2H.
 
@@ -10,7 +10,7 @@ Outernet Live is a music venue in London listed on soundcheck. 15 upcoming night
 | --- | --- | --- |
 | Sat, 19 Sept 2026 | MORTEN - London Takeover |  |
 | Fri, 25 Sept 2026 | AVA London x RA25 - Blawan Live, Mala, Bitter Babe Live AV feat. Koch.a, AliA | AliA, Bitter Babe, Blawan, Mala |
-| Sat, 26 Sept 2026 | Shogun Sessions: HERE at Outernet | DRIIA, Duskee, Gardna, LSB (UK), Larnie Moles, LowQui, S.P.Y, Sabrina, Stamina MC, Sustance, Workforce |
+| Sat, 26 Sept 2026 | Shogun Sessions: HERE at Outernet | DRIIA, Duskee, GLXY, Gardna, LSB (UK), Larnie Moles, LowQui, S.P.Y, Sabrina, Stamina MC, Sustance, Technimatic, Workforce |
 | Thu, 1 Oct 2026 | DJ Seinfeld presents 'If This Is It' LIVE | DJ Seinfeld |
 | Sat, 10 Oct 2026 | Labyrinth presents: JAZZWRLD & Thukuthela Live Show |  |
 | Sat, 17 Oct 2026 | Chris Avantgarde - Outernet Live, London | Chris Avantgarde |
@@ -23,4 +23,4 @@ Outernet Live is a music venue in London listed on soundcheck. 15 upcoming night
 
 Denmark Street, London WC2H, London
 
-*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/outernet-live/)*
+*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/outernet-live/)*

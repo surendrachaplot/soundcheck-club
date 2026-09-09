@@ -1,6 +1,6 @@
 # Marijn S
 
-Marijn S is a Electro and Breakbeat artist with 1 upcoming club date listed on soundcheck as of Tue, 8 Sept 2026, next at dubble, Amsterdam on Sat, 19 Sept 2026.
+Marijn S is a Electro and Breakbeat artist with 1 upcoming club date listed on soundcheck as of Wed, 9 Sept 2026, next at dubble, Amsterdam on Sat, 19 Sept 2026.
 
 Marijn S is an electro and breakbeat artist based in Netherlands, tracked on soundcheck, with 49 sets logged across Amsterdam, Barcelona, Glasgow and London and 5 more. Often billed alongside Emilio Arias, Acidgigi and RDS. Next up: dubble, Amsterdam on Sat 19 Sept.
 
@@ -25,4 +25,4 @@ Marijn S is an electro and breakbeat artist based in Netherlands, tracked on sou
 
 Emilio Arias, Acidgigi, RDS
 
-*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/marijns/)*
+*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/marijns/)*

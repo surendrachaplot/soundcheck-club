@@ -1,14 +1,16 @@
 # Von Riu
 
-Von Riu is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Tue, 8 Sept 2026, next at Le Trabendo, Paris on Sat, 12 Sept 2026.
+Von Riu is a Techno and Trance artist with 3 upcoming club dates listed on soundcheck as of Wed, 9 Sept 2026, next at TBA - 1 hour from Paris, Paris on Fri, 11 Sept 2026.
 
-Von Riu is a techno and trance artist tracked on soundcheck, with 67 sets logged across Amsterdam, Basel, Berlin and Geneva and 11 more. Often billed alongside Maté, Amor Satyr and Jacky Jeane. Next up: Le Trabendo, Paris on Sat 12 Sept.
+Von Riu is a techno and trance artist tracked on soundcheck, with 69 sets logged across Amsterdam, Basel, Berlin and Geneva and 11 more. Often billed alongside Maté, Amor Satyr and Jacky Jeane. Next up: TBA - 1 hour from Paris, Paris on Fri 11 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 11 Sept 2026 | TBA - 1 hour from Paris | Paris |
 | Sat, 12 Sept 2026 | Le Trabendo | Paris |
+| Sat, 26 Sept 2026 | Bike Jesus | Prague |
 
 ## Recently played
 
@@ -25,4 +27,4 @@ Von Riu is a techno and trance artist tracked on soundcheck, with 67 sets logged
 
 Maté, Amor Satyr, Jacky Jeane
 
-*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/vonriu/)*
+*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/vonriu/)*

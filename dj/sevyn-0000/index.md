@@ -1,8 +1,8 @@
 # Sevyn 0000
 
-Sevyn 0000 is a Techno and Club artist with 5 upcoming club dates listed on soundcheck as of Tue, 8 Sept 2026, next at Qncc, New York City on Thu, 24 Sept 2026.
+Sevyn 0000 is a Techno and Club artist with 7 upcoming club dates listed on soundcheck as of Wed, 9 Sept 2026, next at Qncc, New York City on Thu, 24 Sept 2026.
 
-Sevyn 0000 is a techno and club artist based in United States of America, tracked on soundcheck, with 95 sets logged across Barcelona, Berlin, Chicago and Detroit and 6 more. Often billed alongside Bapari, Memphy and MCMLXXXV. Next up: Qncc, Newyorkcity on Thu 24 Sept.
+Sevyn 0000 is a techno and club artist based in United States of America, tracked on soundcheck, with 97 sets logged across Barcelona, Berlin, Chicago and Detroit and 6 more. Often billed alongside Bapari, Memphy and Lauren Flax. Next up: Qncc, Newyorkcity on Thu 24 Sept.
 
 ## Upcoming shows
 
@@ -12,6 +12,8 @@ Sevyn 0000 is a techno and club artist based in United States of America, tracke
 | Fri, 25 Sept 2026 | TBA | Los Angeles |
 | Fri, 25 Sept 2026 | Qncc | New York City |
 | Sat, 26 Sept 2026 | Qncc | New York City |
+| Sat, 26 Sept 2026 | Qncc | New York City |
+| Sun, 27 Sept 2026 | Qncc | New York City |
 | Sun, 27 Sept 2026 | Qncc | New York City |
 
 ## Recently played
@@ -27,6 +29,6 @@ Sevyn 0000 is a techno and club artist based in United States of America, tracke
 
 ## Shares bills with
 
-Bapari, Memphy, MCMLXXXV
+Bapari, Memphy, Lauren Flax
 
-*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sevyn-0000/)*
+*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sevyn-0000/)*

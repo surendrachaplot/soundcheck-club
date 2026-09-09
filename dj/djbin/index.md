@@ -1,6 +1,6 @@
 # DJ Bin
 
-DJ Bin is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 8 Sept 2026, next at Oath, Tokyo on Sat, 19 Sept 2026.
+DJ Bin is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 9 Sept 2026, next at Oath, Tokyo on Sat, 19 Sept 2026.
 
 DJ Bin is a house and techno artist tracked on soundcheck, with 22 sets logged across Tokyo. Often billed alongside Abura, Astro Boy and Celter. Next up: Oath, Tokyo on Sat 19 Sept.
 
@@ -25,4 +25,4 @@ DJ Bin is a house and techno artist tracked on soundcheck, with 22 sets logged a
 
 Abura, Astro Boy, Celter
 
-*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djbin/)*
+*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djbin/)*

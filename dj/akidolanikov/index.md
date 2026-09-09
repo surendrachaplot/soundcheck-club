@@ -1,6 +1,6 @@
 # Aki Dolanikov
 
-Aki Dolanikov is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Tue, 8 Sept 2026, next at Red Bar, Tokyo on Wed, 9 Sept 2026.
+Aki Dolanikov is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 9 Sept 2026, next at Red Bar, Tokyo on Wed, 9 Sept 2026.
 
 Aki Dolanikov is a house and techno artist tracked on soundcheck, with 71 sets logged across Tokyo. Often billed alongside arow, okadada and K8 (TYO GQOM). Next up: Red Bar, Tokyo on Wed 9 Sept.
 
@@ -26,4 +26,4 @@ Aki Dolanikov is a house and techno artist tracked on soundcheck, with 71 sets l
 
 arow, okadada, K8 (TYO GQOM)
 
-*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/akidolanikov/)*
+*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/akidolanikov/)*

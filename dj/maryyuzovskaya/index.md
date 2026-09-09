@@ -1,6 +1,6 @@
 # Mary Yuzovskaya
 
-Mary Yuzovskaya is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Tue, 8 Sept 2026, next at Berghain | Panorama Bar | Säule, Berlin on Sat, 19 Sept 2026.
+Mary Yuzovskaya is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Wed, 9 Sept 2026, next at Berghain | Panorama Bar | Säule, Berlin on Sat, 19 Sept 2026.
 
 Mary Yuzovskaya is a techno and house artist tracked on soundcheck, with 95 sets logged across Amsterdam, Athens, Bali and Barcelona and 27 more. Often billed alongside Amotik, Delano Legito and Altinbas. Next up: Berghain | Panorama Bar | Säule, Berlin on Sat 19 Sept.
 
@@ -27,4 +27,4 @@ Mary Yuzovskaya is a techno and house artist tracked on soundcheck, with 95 sets
 
 Amotik, Delano Legito, Altinbas
 
-*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/maryyuzovskaya/)*
+*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/maryyuzovskaya/)*

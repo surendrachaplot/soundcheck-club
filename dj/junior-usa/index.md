@@ -1,6 +1,6 @@
 # Juniör
 
-Juniör is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 8 Sept 2026, next at Better Tomorrow, Los Angeles on Sun, 4 Oct 2026.
+Juniör is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 9 Sept 2026, next at Better Tomorrow, Los Angeles on Sun, 4 Oct 2026.
 
 Juniör is a house and techno artist based in United States of America, tracked on soundcheck, with 3 sets logged across Losangeles. Often billed alongside John Smith, bilaliwood and Capes. Next up: Better Tomorrow, Losangeles on Sun 4 Oct.
 
@@ -19,4 +19,4 @@ Juniör is a house and techno artist based in United States of America, tracked 
 
 John Smith, bilaliwood, Capes
 
-*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/junior-usa/)*
+*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/junior-usa/)*

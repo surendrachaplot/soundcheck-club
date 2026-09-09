@@ -1,13 +1,14 @@
 # Pawlowski
 
-Pawlowski is a Techno and Trance artist with 5 upcoming club dates listed on soundcheck as of Tue, 8 Sept 2026, next at Superior Ingredients, New York City on Fri, 2 Oct 2026.
+Pawlowski is a Techno and Trance artist with 6 upcoming club dates listed on soundcheck as of Wed, 9 Sept 2026, next at Room 2 Glasgow, Glasgow on Sun, 27 Sept 2026.
 
-Pawlowski is a techno and trance artist tracked on soundcheck, with 117 sets logged across Amsterdam, Antwerp, Barcelona and Belfast and 48 more. Often billed alongside Nico Moreno, Azyr and NOVAH. Next up: Superior Ingredients, Newyorkcity on Fri 2 Oct.
+Pawlowski is a techno and trance artist tracked on soundcheck, with 118 sets logged across Amsterdam, Antwerp, Barcelona and Belfast and 48 more. Often billed alongside Nico Moreno, Azyr and NOVAH. Next up: Room 2 Glasgow, Glasgow on Sun 27 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sun, 27 Sept 2026 | Room 2 Glasgow | Glasgow |
 | Fri, 2 Oct 2026 | Superior Ingredients | New York City |
 | Sat, 3 Oct 2026 | Strand DC | Washington DC |
 | Fri, 9 Oct 2026 | TBA | Vancouver |
@@ -29,4 +30,4 @@ Pawlowski is a techno and trance artist tracked on soundcheck, with 117 sets log
 
 Nico Moreno, Azyr, NOVAH
 
-*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/pawlowski/)*
+*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/pawlowski/)*

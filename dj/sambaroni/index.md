@@ -1,6 +1,6 @@
 # Sam Baroni
 
-Sam Baroni is a House and Afro House artist with 1 upcoming club date listed on soundcheck as of Tue, 8 Sept 2026, next at Lion's Den, Miami on Fri, 11 Sept 2026.
+Sam Baroni is a House and Afro House artist with 1 upcoming club date listed on soundcheck as of Wed, 9 Sept 2026, next at Lion's Den, Miami on Fri, 11 Sept 2026.
 
 Sam Baroni is a house and afro house artist tracked on soundcheck, with 13 sets logged across Losangeles and Miami. Often billed alongside GRLFRND, Ray Molina and Annicka. Next up: Lion's Den, Miami on Fri 11 Sept.
 
@@ -25,4 +25,4 @@ Sam Baroni is a house and afro house artist tracked on soundcheck, with 13 sets 
 
 GRLFRND, Ray Molina, Annicka
 
-*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sambaroni/)*
+*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sambaroni/)*

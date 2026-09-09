@@ -1,6 +1,6 @@
 # Byrell The Great
 
-Byrell The Great is a Techno and Club artist with 1 upcoming club date listed on soundcheck as of Tue, 8 Sept 2026, next at Camp Kennybrook, New York City on Thu, 10 Sept 2026.
+Byrell The Great is a Techno and Club artist with 1 upcoming club date listed on soundcheck as of Wed, 9 Sept 2026, next at Camp Kennybrook, New York City on Thu, 10 Sept 2026.
 
 Byrell The Great is a techno and club artist based in United States of America, tracked on soundcheck, with 80 sets logged across Berlin, Chicago, Losangeles and Mexicocity and 6 more. Often billed alongside Kenni Javon, BEARCAT and Miss Parker. Next up: Camp Kennybrook, Newyorkcity on Thu 10 Sept.
 
@@ -25,4 +25,4 @@ Byrell The Great is a techno and club artist based in United States of America, 
 
 Kenni Javon, BEARCAT, Miss Parker
 
-*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/byrellthegreat/)*
+*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/byrellthegreat/)*

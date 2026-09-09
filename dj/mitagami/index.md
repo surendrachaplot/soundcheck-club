@@ -1,6 +1,6 @@
 # Mita Gami
 
-Mita Gami is a House and Techno artist with 7 upcoming club dates listed on soundcheck as of Tue, 8 Sept 2026, next at TBA - Brussels, Brussels on Fri, 11 Sept 2026.
+Mita Gami is a House and Techno artist with 7 upcoming club dates listed on soundcheck as of Wed, 9 Sept 2026, next at TBA - Brussels, Brussels on Fri, 11 Sept 2026.
 
 Mita Gami is a house and techno artist tracked on soundcheck, with 138 sets logged across Amsterdam, Athens, Barcelona and Berlin and 29 more. Often billed alongside Adam Ten, Damian Lazarus and Black Coffee. Next up: TBA - Brussels, Brussels on Fri 11 Sept.
 
@@ -31,4 +31,4 @@ Mita Gami is a house and techno artist tracked on soundcheck, with 138 sets logg
 
 Adam Ten, Damian Lazarus, Black Coffee
 
-*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mitagami/)*
+*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mitagami/)*

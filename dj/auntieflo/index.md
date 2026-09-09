@@ -1,6 +1,6 @@
 # Auntie Flo
 
-Auntie Flo is a House and Electronica artist with 2 upcoming club dates listed on soundcheck as of Tue, 8 Sept 2026, next at People's Leisure Club, Edinburgh on Fri, 18 Sept 2026.
+Auntie Flo is a House and Electronica artist with 2 upcoming club dates listed on soundcheck as of Wed, 9 Sept 2026, next at People's Leisure Club, Edinburgh on Fri, 18 Sept 2026.
 
 Auntie Flo is a house and electronica artist based in United Kingdom, tracked on soundcheck, with 29 sets logged across Barcelona, Berlin, Bristol and Dundee and 6 more. Often billed alongside Austin Ato, Hobbes and Jacksonville. Next up: People's Leisure Club, Edinburgh on Fri 18 Sept.
 
@@ -26,4 +26,4 @@ Auntie Flo is a house and electronica artist based in United Kingdom, tracked on
 
 Austin Ato, Hobbes, Jacksonville
 
-*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/auntieflo/)*
+*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/auntieflo/)*

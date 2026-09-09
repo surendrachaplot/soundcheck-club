@@ -1,6 +1,6 @@
 # Simon Eickenboom
 
-Simon Eickenboom is a Trance and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 8 Sept 2026, next at Humboldthain Club, Berlin on Fri, 23 Oct 2026.
+Simon Eickenboom is a Trance and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 9 Sept 2026, next at Humboldthain Club, Berlin on Fri, 23 Oct 2026.
 
 Simon Eickenboom is a trance and techno artist tracked on soundcheck, with 3 sets logged across Berlin. Often billed alongside OTG(1), krawallwitz and ATTA (GER). Next up: Humboldthain Club, Berlin on Fri 23 Oct.
 
@@ -19,4 +19,4 @@ Simon Eickenboom is a trance and techno artist tracked on soundcheck, with 3 set
 
 OTG(1), krawallwitz, ATTA (GER)
 
-*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/simoneickenboom/)*
+*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/simoneickenboom/)*

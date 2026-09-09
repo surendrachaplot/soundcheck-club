@@ -1,6 +1,6 @@
 # Cosmo
 
-Cosmo is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 8 Sept 2026, next at Klaproos, Amsterdam on Sun, 25 Oct 2026.
+Cosmo is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 9 Sept 2026, next at Klaproos, Amsterdam on Sun, 25 Oct 2026.
 
 Cosmo is a house and techno artist based in Italy, tracked on soundcheck, with 48 sets logged across Amsterdam, Barcelona, Bucharest and Chicago and 12 more. Often billed alongside Cosmo (NY), Jordz and Kim.Qna. Next up: Klaproos, Amsterdam on Sun 25 Oct.
 
@@ -25,4 +25,4 @@ Cosmo is a house and techno artist based in Italy, tracked on soundcheck, with 4
 
 Cosmo (NY), Jordz, Kim.Qna
 
-*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/cosmo/)*
+*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/cosmo/)*

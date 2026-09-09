@@ -1,6 +1,6 @@
 # Oktobr
 
-Oktobr is a Techno and Acid artist with 1 upcoming club date listed on soundcheck as of Tue, 8 Sept 2026, next at ÆDEN, Berlin on Thu, 1 Oct 2026.
+Oktobr is a Techno and Acid artist with 1 upcoming club date listed on soundcheck as of Wed, 9 Sept 2026, next at ÆDEN, Berlin on Thu, 1 Oct 2026.
 
 Oktobr is a techno and acid artist tracked on soundcheck, with 11 sets logged across Berlin, Copenhagen, Newyorkcity and Turin. Often billed alongside Maris Shilton, MOONCHILD (DE) and Mathys Lenne. Next up: ÆDEN, Berlin on Thu 1 Oct.
 
@@ -25,4 +25,4 @@ Oktobr is a techno and acid artist tracked on soundcheck, with 11 sets logged ac
 
 Maris Shilton, MOONCHILD (DE), Mathys Lenne
 
-*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/oktobr/)*
+*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/oktobr/)*

@@ -1,6 +1,6 @@
 # MarshmeLLo
 
-MarshmeLLo is a House and Broken Beat artist with 1 upcoming club date listed on soundcheck as of Tue, 8 Sept 2026, next at Palais, London on Sat, 26 Sept 2026.
+MarshmeLLo is a House and Broken Beat artist with 1 upcoming club date listed on soundcheck as of Wed, 9 Sept 2026, next at Palais, London on Sat, 26 Sept 2026.
 
 MarshmeLLo is a house and broken beat artist tracked on soundcheck, with 35 sets logged across Amsterdam, Copenhagen, Leeds and London. Often billed alongside Leanne Wright, Zakia and Alexander Nut. Next up: Palais, London on Sat 26 Sept.
 
@@ -25,4 +25,4 @@ MarshmeLLo is a house and broken beat artist tracked on soundcheck, with 35 sets
 
 Leanne Wright, Zakia, Alexander Nut
 
-*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/marshmello/)*
+*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/marshmello/)*

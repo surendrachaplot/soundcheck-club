@@ -1,13 +1,14 @@
 # Midnight Climax
 
-Midnight Climax is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Tue, 8 Sept 2026, next at TBA - Warschauer Pl. 18, 10245 Berlin, Berlin on Sat, 12 Sept 2026.
+Midnight Climax is a Techno and Trance artist with 3 upcoming club dates listed on soundcheck as of Wed, 9 Sept 2026, next at TBA - TRXXXTR, Berlin on Thu, 10 Sept 2026.
 
-Midnight Climax is a techno and trance artist tracked on soundcheck, with 21 sets logged across Austin, Barcelona, Berlin and Copenhagen and 5 more. Often billed alongside PAX (2), CUNT REMEMBER and Reinhaudt. Next up: TBA - Warschauer Pl. 18, 10245 Berlin, Berlin on Sat 12 Sept.
+Midnight Climax is a techno and trance artist tracked on soundcheck, with 22 sets logged across Austin, Barcelona, Berlin and Copenhagen and 5 more. Often billed alongside PAX (2), CUNT REMEMBER and Reinhaudt. Next up: TBA - TRXXXTR, Berlin on Thu 10 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Thu, 10 Sept 2026 | TBA - TRXXXTR | Berlin |
 | Sat, 12 Sept 2026 | TBA - Warschauer Pl. 18, 10245 Berlin | Berlin |
 | Sat, 21 Nov 2026 | Underground SF | San Francisco/Oakland |
 
@@ -26,4 +27,4 @@ Midnight Climax is a techno and trance artist tracked on soundcheck, with 21 set
 
 PAX (2), CUNT REMEMBER, Reinhaudt
 
-*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/midnightclimax/)*
+*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/midnightclimax/)*

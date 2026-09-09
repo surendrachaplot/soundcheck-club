@@ -1,6 +1,6 @@
 # Robert James Perkins
 
-Robert James Perkins is a Afro House and Deep House artist with 12 upcoming club dates listed on soundcheck as of Tue, 8 Sept 2026, next at RIVA Bar Munich, Munich on Thu, 10 Sept 2026.
+Robert James Perkins is a Afro House and Deep House artist with 12 upcoming club dates listed on soundcheck as of Wed, 9 Sept 2026, next at RIVA Bar Munich, Munich on Thu, 10 Sept 2026.
 
 Robert James Perkins is an afro house and deep house artist tracked on soundcheck, with 47 sets logged across Munich. Next up: RIVA Bar Munich, Munich on Thu 10 Sept.
 
@@ -32,4 +32,4 @@ Robert James Perkins is an afro house and deep house artist tracked on soundchec
 - RIVA Bar Munich, Munich — Thu, 23 Jul 2026
 - RIVA Bar Munich, Munich — Thu, 23 Jul 2026
 
-*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/robertjamesperkins/)*
+*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/robertjamesperkins/)*

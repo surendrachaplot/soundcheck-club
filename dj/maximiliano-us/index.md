@@ -1,8 +1,8 @@
 # MAXIMILIANO (US)
 
-MAXIMILIANO (US) is a House and Deep House artist with 3 upcoming club dates listed on soundcheck as of Tue, 8 Sept 2026, next at Eighteenth Street Lounge (ESL), Washington DC on Wed, 9 Sept 2026.
+MAXIMILIANO (US) is a House and Deep House artist with 5 upcoming club dates listed on soundcheck as of Wed, 9 Sept 2026, next at Eighteenth Street Lounge (ESL), Washington DC on Wed, 9 Sept 2026.
 
-MAXIMILIANO (US) is a house and deep house artist tracked on soundcheck, with 179 sets logged across Barcelona, Buenosaires, Detroit and Ibiza and 3 more. Often billed alongside Factory Reset, Mikey J and Room 12. Next up: Eighteenth Street Lounge (ESL), Washingtondc on Wed 9 Sept.
+MAXIMILIANO (US) is a house and deep house artist tracked on soundcheck, with 181 sets logged across Barcelona, Buenosaires, Detroit and Ibiza and 3 more. Often billed alongside Factory Reset, Mikey J and Room 12. Next up: Eighteenth Street Lounge (ESL), Washingtondc on Wed 9 Sept.
 
 ## Upcoming shows
 
@@ -11,6 +11,8 @@ MAXIMILIANO (US) is a house and deep house artist tracked on soundcheck, with 17
 | Wed, 9 Sept 2026 | Eighteenth Street Lounge (ESL) | Washington DC |
 | Thu, 10 Sept 2026 | Satellite Gallery | New York City |
 | Sat, 12 Sept 2026 | TBA | Washington DC |
+| Tue, 15 Sept 2026 | City Hall | Barcelona |
+| Sat, 26 Sept 2026 | Eighteenth Street Lounge (ESL) | Washington DC |
 
 ## Recently played
 
@@ -27,4 +29,4 @@ MAXIMILIANO (US) is a house and deep house artist tracked on soundcheck, with 17
 
 Factory Reset, Mikey J, Room 12
 
-*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/maximiliano-us/)*
+*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/maximiliano-us/)*

@@ -1,6 +1,6 @@
 # Quka
 
-Quka is a Hardcore and Trance artist with 2 upcoming club dates listed on soundcheck as of Tue, 8 Sept 2026, next at TBA - Powered by: Void Acoustics, Madrid on Fri, 25 Sept 2026.
+Quka is a Hardcore and Trance artist with 2 upcoming club dates listed on soundcheck as of Wed, 9 Sept 2026, next at TBA - Powered by: Void Acoustics, Madrid on Fri, 25 Sept 2026.
 
 Quka is a hardcore and trance artist tracked on soundcheck, with 24 sets logged across Brussels and Madrid. Often billed alongside Atrâm, Diego Armando and FUKCNORMAL. Next up: TBA - Powered by: Void Acoustics, Madrid on Fri 25 Sept.
 
@@ -26,4 +26,4 @@ Quka is a hardcore and trance artist tracked on soundcheck, with 24 sets logged 
 
 Atrâm, Diego Armando, FUKCNORMAL
 
-*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/quka/)*
+*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/quka/)*

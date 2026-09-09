@@ -1,6 +1,6 @@
 # MIARISUA
 
-MIARISUA is a Techno and Electro artist with 2 upcoming club dates listed on soundcheck as of Tue, 8 Sept 2026, next at Jean’s, New York City on Wed, 9 Sept 2026.
+MIARISUA is a Techno and Electro artist with 2 upcoming club dates listed on soundcheck as of Wed, 9 Sept 2026, next at Jean’s, New York City on Wed, 9 Sept 2026.
 
 MIARISUA is a techno and electro artist tracked on soundcheck, with 6 sets logged across Newyorkcity. Often billed alongside Rila, AceMo and Annie Lew. Next up: Jean’s, Newyorkcity on Wed 9 Sept.
 
@@ -22,4 +22,4 @@ MIARISUA is a techno and electro artist tracked on soundcheck, with 6 sets logge
 
 Rila, AceMo, Annie Lew
 
-*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/miarisua/)*
+*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/miarisua/)*

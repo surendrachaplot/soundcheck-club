@@ -1,6 +1,6 @@
 # Spybar
 
-Spybar is a music venue in Chicago with 13 upcoming nights listed on soundcheck as of Tue, 8 Sept 2026; the next is "ARC Decompression Weekend: Casa de Babylon" on Fri, 11 Sept 2026.
+Spybar is a music venue in Chicago with 13 upcoming nights listed on soundcheck as of Wed, 9 Sept 2026; the next is "ARC Decompression Weekend: Casa de Babylon" on Fri, 11 Sept 2026.
 
 Spybar is a music venue in Chicago listed on soundcheck. 13 upcoming nights, with line-ups including ARVI MALA, CRi, Dam Swindle and Dean Turnley and 2 more. Browse upcoming dates, start times and who's playing. 646 N Franklin St; Chicago, IL 60654; United States.
 
@@ -23,4 +23,4 @@ Spybar is a music venue in Chicago listed on soundcheck. 13 upcoming nights, wit
 
 646 N Franklin St; Chicago, IL 60654; United States, Chicago
 
-*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/chicago/club/spybar/)*
+*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/chicago/club/spybar/)*

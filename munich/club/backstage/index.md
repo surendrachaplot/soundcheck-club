@@ -1,6 +1,6 @@
 # Backstage
 
-Backstage is a music venue in Munich with 3 upcoming nights listed on soundcheck as of Tue, 8 Sept 2026; the next is "Blockhead, ProleteR, Arms and Sleepers" on Wed, 16 Sept 2026.
+Backstage is a music venue in Munich with 3 upcoming nights listed on soundcheck as of Wed, 9 Sept 2026; the next is "Blockhead, ProleteR, Arms and Sleepers" on Wed, 16 Sept 2026.
 
 Backstage is a music venue in Munich listed on soundcheck. 3 upcoming nights, with line-ups including antyo and Blockhead. Browse upcoming dates, start times and who's playing. Reitknechtstr. 6, 80639 Munich, Germany.
 
@@ -16,4 +16,4 @@ Backstage is a music venue in Munich listed on soundcheck. 3 upcoming nights, wi
 
 Reitknechtstr. 6, 80639 Munich, Germany, Munich
 
-*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/munich/club/backstage/)*
+*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/munich/club/backstage/)*

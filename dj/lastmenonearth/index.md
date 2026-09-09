@@ -1,14 +1,15 @@
 # Last Men On Earth
 
-Last Men On Earth is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Tue, 8 Sept 2026, next at EL SÓTANO, Madrid on Fri, 2 Oct 2026.
+Last Men On Earth is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Wed, 9 Sept 2026, next at EL SÓTANO, Madrid on Fri, 2 Oct 2026.
 
-Last Men On Earth is a house and tech house artist based in Argentina, tracked on soundcheck, with 24 sets logged across Barcelona, Berlin, Buenosaires and Copenhagen and 5 more. Often billed alongside Agustin Giri, Djolee and Borella. Next up: EL SÓTANO, Madrid on Fri 2 Oct.
+Last Men On Earth is a house and tech house artist based in Argentina, tracked on soundcheck, with 25 sets logged across Amsterdam, Barcelona, Berlin and Buenosaires and 6 more. Often billed alongside Agustin Giri, Djolee and Gespona. Next up: EL SÓTANO, Madrid on Fri 2 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 2 Oct 2026 | EL SÓTANO | Madrid |
+| Thu, 22 Oct 2026 | Noorderlicht Café | Amsterdam |
 
 ## Recently played
 
@@ -23,6 +24,6 @@ Last Men On Earth is a house and tech house artist based in Argentina, tracked o
 
 ## Shares bills with
 
-Agustin Giri, Djolee, Borella
+Agustin Giri, Djolee, Gespona
 
-*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lastmenonearth/)*
+*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lastmenonearth/)*

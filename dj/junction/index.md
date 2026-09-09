@@ -1,6 +1,6 @@
 # Junction
 
-Junction is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 8 Sept 2026, next at elipamanoke, Leipzig on Wed, 9 Sept 2026.
+Junction is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 9 Sept 2026, next at elipamanoke, Leipzig on Wed, 9 Sept 2026.
 
 Junction is a techno and house artist tracked on soundcheck, with 26 sets logged across Berlin and Leipzig. Often billed alongside mononom, KUdjA and TEVITAL. Next up: elipamanoke, Leipzig on Wed 9 Sept.
 
@@ -25,4 +25,4 @@ Junction is a techno and house artist tracked on soundcheck, with 26 sets logged
 
 mononom, KUdjA, TEVITAL
 
-*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/junction/)*
+*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/junction/)*

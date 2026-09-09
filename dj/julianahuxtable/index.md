@@ -1,6 +1,6 @@
 # Juliana Huxtable
 
-Juliana Huxtable is a Techno and House artist with 9 upcoming club dates listed on soundcheck as of Tue, 8 Sept 2026, next at Standard Time, Toronto on Thu, 10 Sept 2026.
+Juliana Huxtable is a Techno and House artist with 9 upcoming club dates listed on soundcheck as of Wed, 9 Sept 2026, next at Standard Time, Toronto on Thu, 10 Sept 2026.
 
 Juliana Huxtable is a techno and house artist tracked on soundcheck, with 199 sets logged across Amsterdam, Antwerp, Athens and Austin and 34 more. Often billed alongside JASSS, Shyboi and Via App. Next up: Standard Time, Toronto on Thu 10 Sept.
 
@@ -33,4 +33,4 @@ Juliana Huxtable is a techno and house artist tracked on soundcheck, with 199 se
 
 JASSS, Shyboi, Via App
 
-*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/julianahuxtable/)*
+*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/julianahuxtable/)*

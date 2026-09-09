@@ -1,6 +1,6 @@
 # Joshua (3)
 
-Joshua (3) is a Hardcore and House artist with 1 upcoming club date listed on soundcheck as of Tue, 8 Sept 2026, next at Socore Factory, Osaka on Thu, 12 Nov 2026.
+Joshua (3) is a Hardcore and House artist with 1 upcoming club date listed on soundcheck as of Wed, 9 Sept 2026, next at Socore Factory, Osaka on Thu, 12 Nov 2026.
 
 Joshua (3) is a hardcore and house artist tracked on soundcheck, with 16 sets logged across Berlin, London, Osaka and Seoul and 1 more. Often billed alongside Midnight Manoeuvres, Rhem and JDM. Next up: Socore Factory, Osaka on Thu 12 Nov.
 
@@ -25,4 +25,4 @@ Joshua (3) is a hardcore and house artist tracked on soundcheck, with 16 sets lo
 
 Midnight Manoeuvres, Rhem, JDM
 
-*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/joshua-3/)*
+*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/joshua-3/)*

@@ -1,6 +1,6 @@
 # Pistil
 
-Pistil is a music venue in Seoul with 2 upcoming nights listed on soundcheck as of Tue, 8 Sept 2026; the next is "DMGRPT presents [REALIGION]" on Fri, 18 Sept 2026.
+Pistil is a music venue in Seoul with 2 upcoming nights listed on soundcheck as of Wed, 9 Sept 2026; the next is "DMGRPT presents [REALIGION]" on Fri, 18 Sept 2026.
 
 Pistil is a music venue in Seoul listed on soundcheck. 2 upcoming nights, with line-ups including DDD (2). Browse upcoming dates, start times and who's playing. 130- 5 Itaewon-dong, Seoul, South Korea.
 
@@ -15,4 +15,4 @@ Pistil is a music venue in Seoul listed on soundcheck. 2 upcoming nights, with l
 
 130- 5 Itaewon-dong, Seoul, South Korea, Seoul
 
-*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/seoul/club/pistil/)*
+*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/seoul/club/pistil/)*

@@ -1,6 +1,6 @@
 # Laboratorio Octogon
 
-Laboratorio Octogon is a music venue in Madrid with 5 upcoming nights listed on soundcheck as of Tue, 8 Sept 2026; the next is "AMSTERDOOM Schranz Night" on Fri, 11 Sept 2026.
+Laboratorio Octogon is a music venue in Madrid with 5 upcoming nights listed on soundcheck as of Wed, 9 Sept 2026; the next is "AMSTERDOOM Schranz Night" on Fri, 11 Sept 2026.
 
 Laboratorio Octogon is a music venue in Madrid listed on soundcheck. 5 upcoming nights, with line-ups including Alviker, DAVID MENA, Driusaki and Fluss and 2 more. Browse upcoming dates, start times and who's playing. Calle Cerámica, 16, 28038 Madrid.
 
@@ -18,4 +18,4 @@ Laboratorio Octogon is a music venue in Madrid listed on soundcheck. 5 upcoming 
 
 Calle Cerámica, 16, 28038 Madrid, Madrid
 
-*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/laboratorio-octogon/)*
+*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/laboratorio-octogon/)*

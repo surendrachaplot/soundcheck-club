@@ -1,14 +1,15 @@
 # Astma
 
-Astma is a Techno and Experimental artist with 1 upcoming club date listed on soundcheck as of Tue, 8 Sept 2026, next at VENT, Tokyo on Fri, 11 Sept 2026.
+Astma is a Techno and Experimental artist with 2 upcoming club dates listed on soundcheck as of Wed, 9 Sept 2026, next at VENT, Tokyo on Fri, 11 Sept 2026.
 
-Astma is a techno and experimental artist tracked on soundcheck, with 25 sets logged across Berlin, London, Seoul and Tokyo. Often billed alongside Dihi, DJ MARIA. and HELIOT. Next up: VENT, Tokyo on Fri 11 Sept.
+Astma is a techno and experimental artist tracked on soundcheck, with 26 sets logged across Berlin, London, Seoul and Tokyo. Often billed alongside Dihi, DJ MARIA. and HELIOT. Next up: VENT, Tokyo on Fri 11 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 11 Sept 2026 | VENT | Tokyo |
+| Fri, 9 Oct 2026 | MIDNIGHT EAST | Tokyo |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Astma is a techno and experimental artist tracked on soundcheck, with 25 sets lo
 
 Dihi, DJ MARIA., HELIOT
 
-*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/astma/)*
+*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/astma/)*

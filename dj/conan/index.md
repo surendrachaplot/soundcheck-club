@@ -1,6 +1,6 @@
 # Conan
 
-Conan is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 8 Sept 2026, next at Bolero, Seoul on Sat, 12 Sept 2026.
+Conan is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 9 Sept 2026, next at Bolero, Seoul on Sat, 12 Sept 2026.
 
 Conan is a house and techno artist tracked on soundcheck, with 170 sets logged across Hongkong, Kyoto, Paris and Seoul and 1 more. Often billed alongside RTRP, Gumi and dguru. Next up: Bolero, Seoul on Sat 12 Sept.
 
@@ -25,4 +25,4 @@ Conan is a house and techno artist tracked on soundcheck, with 170 sets logged a
 
 RTRP, Gumi, dguru
 
-*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/conan/)*
+*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/conan/)*

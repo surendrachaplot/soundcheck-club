@@ -1,8 +1,8 @@
 # Ekkel
 
-Ekkel is a Trance and Techno artist with 5 upcoming club dates listed on soundcheck as of Tue, 8 Sept 2026, next at Camp Kennybrook, New York City on Thu, 10 Sept 2026.
+Ekkel is a Trance and Techno artist with 6 upcoming club dates listed on soundcheck as of Wed, 9 Sept 2026, next at Camp Kennybrook, New York City on Thu, 10 Sept 2026.
 
-Ekkel is a trance and techno artist tracked on soundcheck, with 57 sets logged across Amsterdam, Antwerp, Barcelona and Berlin and 22 more. Often billed alongside Marius Bø, Mikkel Rev and Kasper Marott. Next up: Camp Kennybrook, Newyorkcity on Thu 10 Sept.
+Ekkel is a trance and techno artist tracked on soundcheck, with 58 sets logged across Amsterdam, Antwerp, Barcelona and Berlin and 22 more. Often billed alongside Marius Bø, Mikkel Rev and Kasper Marott. Next up: Camp Kennybrook, Newyorkcity on Thu 10 Sept.
 
 ## Upcoming shows
 
@@ -12,6 +12,7 @@ Ekkel is a trance and techno artist tracked on soundcheck, with 57 sets logged a
 | Fri, 18 Sept 2026 | Signal | New York City |
 | Sun, 20 Sept 2026 | TBA - Open Air  | Los Angeles |
 | Fri, 25 Sept 2026 | LAUT | Barcelona |
+| Fri, 9 Oct 2026 | Berghain / Panorama Bar / Säule | Berlin |
 | Sat, 10 Oct 2026 | Eiger Studios | Leeds |
 
 ## Recently played
@@ -29,4 +30,4 @@ Ekkel is a trance and techno artist tracked on soundcheck, with 57 sets logged a
 
 Marius Bø, Mikkel Rev, Kasper Marott
 
-*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ekkel/)*
+*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ekkel/)*

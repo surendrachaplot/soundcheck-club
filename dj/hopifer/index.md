@@ -1,6 +1,6 @@
 # hopifer
 
-hopifer is a Pop and Club artist with 1 upcoming club date listed on soundcheck as of Tue, 8 Sept 2026, next at Upstairs at the 700, Philadelphia on Sat, 12 Sept 2026.
+hopifer is a Pop and Club artist with 1 upcoming club date listed on soundcheck as of Wed, 9 Sept 2026, next at Upstairs at the 700, Philadelphia on Sat, 12 Sept 2026.
 
 hopifer is a pop and club artist based in United States of America, tracked on soundcheck, with 40 sets logged across Philadelphia. Often billed alongside Firestone, Deluxe Ultra and Gravers Lane. Next up: Upstairs at the 700, Philadelphia on Sat 12 Sept.
 
@@ -25,4 +25,4 @@ hopifer is a pop and club artist based in United States of America, tracked on s
 
 Firestone, Deluxe Ultra, Gravers Lane
 
-*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/hopifer/)*
+*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/hopifer/)*

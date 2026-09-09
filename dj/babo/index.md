@@ -1,6 +1,6 @@
 # Babo
 
-Babo is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Tue, 8 Sept 2026, next at Bridge 48, Barcelona on Sat, 19 Sept 2026.
+Babo is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Wed, 9 Sept 2026, next at Bridge 48, Barcelona on Sat, 19 Sept 2026.
 
 Babo is a house and tech house artist based in Spain, tracked on soundcheck, with 40 sets logged across Barcelona. Often billed alongside BRU ON, Mario Chicoli and Mastro Sally. Next up: Bridge 48, Barcelona on Sat 19 Sept.
 
@@ -25,4 +25,4 @@ Babo is a house and tech house artist based in Spain, tracked on soundcheck, wit
 
 BRU ON, Mario Chicoli, Mastro Sally
 
-*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/babo/)*
+*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/babo/)*

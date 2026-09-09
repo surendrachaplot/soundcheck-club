@@ -1,6 +1,6 @@
 # Sala Apolo
 
-Sala Apolo is a music venue in Barcelona with 4 upcoming nights listed on soundcheck as of Tue, 8 Sept 2026; the next is "Apologia X Latin Arab Club: Soumeya + Angela Blackburn + La Louuve + Arrebo.lab" on Sat, 12 Sept 2026.
+Sala Apolo is a music venue in Barcelona with 4 upcoming nights listed on soundcheck as of Wed, 9 Sept 2026; the next is "Apologia X Latin Arab Club: Soumeya + Angela Blackburn + La Louuve + Arrebo.lab" on Sat, 12 Sept 2026.
 
 Sala Apolo is a music venue in Barcelona listed on soundcheck. 4 upcoming nights, with line-ups including ASHTATTZ, Digitalism, EYRA and Miramizu and 2 more. Browse upcoming dates, start times and who's playing. Carrer Nou de la Rambla, 111; 08004 Barcelona; Spain.
 
@@ -17,4 +17,4 @@ Sala Apolo is a music venue in Barcelona listed on soundcheck. 4 upcoming nights
 
 Carrer Nou de la Rambla, 111; 08004 Barcelona; Spain, Barcelona
 
-*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/sala-apolo/)*
+*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/sala-apolo/)*

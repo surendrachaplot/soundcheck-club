@@ -1,13 +1,14 @@
 # KUNPEI
 
-KUNPEI is a Techno and Bass artist with 1 upcoming club date listed on soundcheck as of Tue, 8 Sept 2026, next at or, Tokyo on Sun, 4 Oct 2026.
+KUNPEI is a Techno and Bass artist with 2 upcoming club dates listed on soundcheck as of Wed, 9 Sept 2026, next at TBA, Tokyo on Thu, 10 Sept 2026.
 
-KUNPEI is a techno and bass artist based in Japan, tracked on soundcheck, with 26 sets logged across Tokyo. Often billed alongside AMIDAdrive, LogicBeat and Rickey Shannon. Next up: or, Tokyo on Sun 4 Oct.
+KUNPEI is a techno and bass artist based in Japan, tracked on soundcheck, with 27 sets logged across Tokyo. Often billed alongside AMIDAdrive, LogicBeat and Rickey Shannon. Next up: TBA, Tokyo on Thu 10 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Thu, 10 Sept 2026 | TBA | Tokyo |
 | Sun, 4 Oct 2026 | or | Tokyo |
 
 ## Recently played
@@ -25,4 +26,4 @@ KUNPEI is a techno and bass artist based in Japan, tracked on soundcheck, with 2
 
 AMIDAdrive, LogicBeat, Rickey Shannon
 
-*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kunpei/)*
+*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kunpei/)*

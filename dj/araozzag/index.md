@@ -1,6 +1,6 @@
 # Araoz & Zag
 
-Araoz & Zag is a Minimal and Tech House artist with 1 upcoming club date listed on soundcheck as of Tue, 8 Sept 2026, next at Barco Sound House, Madrid on Fri, 18 Sept 2026.
+Araoz & Zag is a Minimal and Tech House artist with 1 upcoming club date listed on soundcheck as of Wed, 9 Sept 2026, next at Barco Sound House, Madrid on Fri, 18 Sept 2026.
 
 Araoz & Zag are a minimal and tech house duo tracked on soundcheck, with 3 sets logged across Madrid. Often billed alongside Alffie, DLOU and Dukwa. Next up: Barco Sound House, Madrid on Fri 18 Sept.
 
@@ -19,4 +19,4 @@ Araoz & Zag are a minimal and tech house duo tracked on soundcheck, with 3 sets 
 
 Alffie, DLOU, Dukwa
 
-*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/araozzag/)*
+*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/araozzag/)*

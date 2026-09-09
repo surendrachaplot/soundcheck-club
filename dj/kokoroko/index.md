@@ -1,6 +1,6 @@
 # Kokoroko
 
-Kokoroko is a Jazz and Funk / Soul artist with 2 upcoming club dates listed on soundcheck as of Tue, 8 Sept 2026, next at Carriageworks, Sydney on Sat, 3 Oct 2026.
+Kokoroko is a Jazz and Funk / Soul artist with 2 upcoming club dates listed on soundcheck as of Wed, 9 Sept 2026, next at Carriageworks, Sydney on Sat, 3 Oct 2026.
 
 Kokoroko is a jazz and funk / soul artist tracked on soundcheck, with 18 sets logged across Amsterdam, Auckland, Birmingham and Brisbane and 10 more. Often billed alongside Ezra Collective, Jamz Supernova and Setwun. Next up: Carriageworks, Sydney on Sat 3 Oct.
 
@@ -26,4 +26,4 @@ Kokoroko is a jazz and funk / soul artist tracked on soundcheck, with 18 sets lo
 
 Ezra Collective, Jamz Supernova, Setwun
 
-*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kokoroko/)*
+*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kokoroko/)*

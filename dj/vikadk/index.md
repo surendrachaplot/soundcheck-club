@@ -1,6 +1,6 @@
 # Vika (DK)
 
-Vika (DK) is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 8 Sept 2026, next at Jolene, Copenhagen on Sat, 12 Sept 2026.
+Vika (DK) is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 9 Sept 2026, next at Jolene, Copenhagen on Sat, 12 Sept 2026.
 
 Vika (DK) is a techno and house artist based in Denmark, tracked on soundcheck, with 23 sets logged across Copenhagen and Leipzig. Often billed alongside Anders Dahl, A.dixen and Alin. Next up: Jolene, Copenhagen on Sat 12 Sept.
 
@@ -25,4 +25,4 @@ Vika (DK) is a techno and house artist based in Denmark, tracked on soundcheck, 
 
 Anders Dahl, A.dixen, Alin
 
-*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/vikadk/)*
+*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/vikadk/)*

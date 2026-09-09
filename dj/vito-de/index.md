@@ -1,6 +1,6 @@
 # ViTo
 
-ViTo is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Tue, 8 Sept 2026, next at [UNVRS], Ibiza on Wed, 9 Sept 2026.
+ViTo is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Wed, 9 Sept 2026, next at [UNVRS], Ibiza on Wed, 9 Sept 2026.
 
 ViTo is a tech house and house artist tracked on soundcheck, with 14 sets logged across Barcelona, Basel, Glasgow and Ibiza and 3 more. Often billed alongside AJ Christou, Blanch and Joëlla Jackson. Next up: [UNVRS], Ibiza on Wed 9 Sept.
 
@@ -25,4 +25,4 @@ ViTo is a tech house and house artist tracked on soundcheck, with 14 sets logged
 
 AJ Christou, Blanch, Joëlla Jackson
 
-*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/vito-de/)*
+*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/vito-de/)*

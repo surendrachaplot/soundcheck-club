@@ -1,13 +1,14 @@
 # Charmaine
 
-Charmaine is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 8 Sept 2026, next at Doka, Amsterdam on Sun, 13 Sept 2026.
+Charmaine is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 9 Sept 2026, next at NAR, Utrecht on Sat, 12 Sept 2026.
 
-Charmaine is a house and techno artist tracked on soundcheck, with 63 sets logged across Amsterdam, Antwerp, Berlin and Brussels and 4 more. Often billed alongside Ays (NL), CARISTA and David Vunk. Next up: Doka, Amsterdam on Sun 13 Sept.
+Charmaine is a house and techno artist tracked on soundcheck, with 64 sets logged across Amsterdam, Antwerp, Berlin and Brussels and 4 more. Often billed alongside Ays (NL), CARISTA and David Vunk. Next up: NAR, Utrecht on Sat 12 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 12 Sept 2026 | NAR | Utrecht |
 | Sun, 13 Sept 2026 | Doka | Amsterdam |
 
 ## Recently played
@@ -25,4 +26,4 @@ Charmaine is a house and techno artist tracked on soundcheck, with 63 sets logge
 
 Ays (NL), CARISTA, David Vunk
 
-*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/charmaine/)*
+*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/charmaine/)*

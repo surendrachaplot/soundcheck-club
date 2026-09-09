@@ -1,6 +1,6 @@
 # The Roxy
 
-The Roxy is a music venue in Los Angeles with 3 upcoming nights listed on soundcheck as of Tue, 8 Sept 2026; the next is "Costa" on Fri, 25 Sept 2026.
+The Roxy is a music venue in Los Angeles with 3 upcoming nights listed on soundcheck as of Wed, 9 Sept 2026; the next is "Costa" on Fri, 25 Sept 2026.
 
 The Roxy is a music venue in Losangeles listed on soundcheck. 3 upcoming nights, with line-ups including Chico. Browse upcoming dates, start times and who's playing. 9009 W Sunset Blvd; West Hollywood, CA 90069.
 
@@ -16,4 +16,4 @@ The Roxy is a music venue in Losangeles listed on soundcheck. 3 upcoming nights,
 
 9009 W Sunset Blvd; West Hollywood, CA 90069, Los Angeles
 
-*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/the-roxy/)*
+*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/the-roxy/)*

@@ -1,6 +1,6 @@
 # Aroop Roy
 
-Aroop Roy is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Tue, 8 Sept 2026, next at The Fox and Firkin, London on Sat, 12 Sept 2026.
+Aroop Roy is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Wed, 9 Sept 2026, next at The Fox and Firkin, London on Sat, 12 Sept 2026.
 
 Aroop Roy is a house and disco artist tracked on soundcheck, with 97 sets logged across Amsterdam, Bali, Bangkok and Barcelona and 26 more. Often billed alongside Mr Scruff, Melvo Baptiste and LEV (UK). Next up: The Fox and Firkin, London on Sat 12 Sept.
 
@@ -26,4 +26,4 @@ Aroop Roy is a house and disco artist tracked on soundcheck, with 97 sets logged
 
 Mr Scruff, Melvo Baptiste, LEV (UK)
 
-*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/arooproy/)*
+*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/arooproy/)*

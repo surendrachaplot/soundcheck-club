@@ -1,8 +1,8 @@
 # Berghain | Panorama Bar | Säule
 
-Berghain | Panorama Bar | Säule is a music venue in Berlin with 13 upcoming nights listed on soundcheck as of Tue, 8 Sept 2026; the next is "Laundrette" on Fri, 11 Sept 2026.
+Berghain | Panorama Bar | Säule is a music venue in Berlin with 26 upcoming nights listed on soundcheck as of Wed, 9 Sept 2026; the next is "Laundrette" on Fri, 11 Sept 2026.
 
-Berghain | Panorama Bar | Säule is a music venue in Berlin listed on soundcheck. 13 upcoming nights, with line-ups including Aba Shanti-I, Acronym, Agata and Agata (PL) and 2 more. Browse upcoming dates, start times and who's playing. 70 Am Wriezener Bahnhof; Friedrichshain; 10243 Berlin; Germany.
+Berghain | Panorama Bar | Säule is a music venue in Berlin listed on soundcheck. 26 upcoming nights, with line-ups including Justine Perry, Aba Shanti-I, abs8lute and Acronym and 2 more. Browse upcoming dates, start times and who's playing. 70 Am Wriezener Bahnhof; Friedrichshain; 10243 Berlin; Germany.
 
 ## What's on
 
@@ -16,11 +16,11 @@ Berghain | Panorama Bar | Säule is a music venue in Berlin listed on soundcheck
 | Thu, 24 Sept 2026 | Terenor | Agata, Agata (PL), CUNT REMEMBER, Egregore, Jolly (2), Jolly (FR), Ninon |
 | Fri, 25 Sept 2026 | WSNWG LIVE | Dasha Rush, Megan Leber, Rødhåd, Speedy J, UFO95 |
 | Sat, 26 Sept 2026 | Klubnacht | Auspex, Beste Hira, Bradley Zero, Colin Benders, Fabio Monesi, Jana Falcon, Joline Scheffler, Jorkes, Make A Dance, Marcel Dettmann, Matisa, Patrick Pulsinger, Sam Irl, Tasha, Tripmastaz, UVB, nd_baumecker |
-| Tue, 13 Oct 2026 | Krallice + Rashad Becker | Rashad Becker |
-| Thu, 29 Oct 2026 | SOUND METAPHORS FESTIVAL PART 1 | ASIA (DE), Alessandro Cortini, Grand River, Jonathan Fitoussi |
+| Thu, 1 Oct 2026 | PRíNCIPE 15 YEARS | DJ Firmeza, DJ Nigga Fox |
+| Fri, 2 Oct 2026 | Hamam Nights | Eoin DJ, Kevin Aviance, Rumi de Baires, Sedef Adasï |
 
 ## Address
 
 70 Am Wriezener Bahnhof; Friedrichshain; 10243 Berlin; Germany, Berlin
 
-*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/berghain-panorama-bar-s-ule/)*
+*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/berghain-panorama-bar-s-ule/)*

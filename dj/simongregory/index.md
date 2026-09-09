@@ -1,6 +1,6 @@
 # Simon Gregory
 
-Simon Gregory is a Progressive House and Trance artist with 1 upcoming club date listed on soundcheck as of Tue, 8 Sept 2026, next at 93 Feet East, London on Sat, 5 Dec 2026.
+Simon Gregory is a Progressive House and Trance artist with 1 upcoming club date listed on soundcheck as of Wed, 9 Sept 2026, next at 93 Feet East, London on Sat, 5 Dec 2026.
 
 Simon Gregory is a progressive house and trance artist tracked on soundcheck, with 3 sets logged across London. Often billed alongside Darren Tate, nümind and C-systems. Next up: 93 Feet East, London on Sat 5 Dec.
 
@@ -19,4 +19,4 @@ Simon Gregory is a progressive house and trance artist tracked on soundcheck, wi
 
 Darren Tate, nümind, C-systems
 
-*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/simongregory/)*
+*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/simongregory/)*

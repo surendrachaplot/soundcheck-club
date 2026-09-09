@@ -1,6 +1,6 @@
 # Tiga
 
-Tiga is a Techno and House artist with 8 upcoming club dates listed on soundcheck as of Tue, 8 Sept 2026, next at Fort Mifflin, Philadelphia on Fri, 18 Sept 2026.
+Tiga is a Techno and House artist with 8 upcoming club dates listed on soundcheck as of Wed, 9 Sept 2026, next at Fort Mifflin, Philadelphia on Fri, 18 Sept 2026.
 
 Tiga is a techno and house artist tracked on soundcheck, with 117 sets logged across Amsterdam, Austin, Barcelona and Belgrade and 38 more. Often billed alongside DJ Holographic, DJ Tennis and KI/KI. Next up: Fort Mifflin, Philadelphia on Fri 18 Sept.
 
@@ -32,4 +32,4 @@ Tiga is a techno and house artist tracked on soundcheck, with 117 sets logged ac
 
 DJ Holographic, DJ Tennis, KI/KI
 
-*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tiga/)*
+*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tiga/)*

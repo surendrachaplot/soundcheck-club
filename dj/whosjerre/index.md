@@ -1,6 +1,6 @@
 # WHOSJERRE
 
-WHOSJERRE is a Trance and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 8 Sept 2026, next at Delta Gelände, Dortmund-essen on Fri, 2 Oct 2026.
+WHOSJERRE is a Trance and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 9 Sept 2026, next at Delta Gelände, Dortmund-essen on Fri, 2 Oct 2026.
 
 WHOSJERRE is a trance and techno artist tracked on soundcheck, with 4 sets logged across Berlin, Cologne, Dortmund-essen and Dusseldorf. Often billed alongside 18+, Barbad and CLAESSENS. Next up: Delta Gelände, Dortmund-essen on Fri 2 Oct.
 
@@ -20,4 +20,4 @@ WHOSJERRE is a trance and techno artist tracked on soundcheck, with 4 sets logge
 
 18+, Barbad, CLAESSENS
 
-*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/whosjerre/)*
+*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/whosjerre/)*

@@ -1,14 +1,13 @@
 # Joseph Capriati
 
-Joseph Capriati is a Techno and House artist with 13 upcoming club dates listed on soundcheck as of Tue, 8 Sept 2026, next at Amnesia Ibiza, Ibiza on Tue, 8 Sept 2026.
+Joseph Capriati is a Techno and House artist with 12 upcoming club dates listed on soundcheck as of Wed, 9 Sept 2026, next at Brooklyn Army Terminal, New York City on Sun, 13 Sept 2026.
 
-Joseph Capriati is a techno and house artist tracked on soundcheck, with 221 sets logged across Amsterdam, Athens, Austin and Bali and 43 more. Often billed alongside Jamie Jones, Indira Paganotto and Dennis Cruz. Next up: Amnesia Ibiza, Ibiza on Tue 8 Sept.
+Joseph Capriati is a techno and house artist tracked on soundcheck, with 221 sets logged across Amsterdam, Athens, Austin and Bali and 43 more. Often billed alongside Jamie Jones, Indira Paganotto and Dennis Cruz. Next up: Brooklyn Army Terminal, Newyorkcity on Sun 13 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Tue, 8 Sept 2026 | Amnesia Ibiza | Ibiza |
 | Sun, 13 Sept 2026 | Brooklyn Army Terminal | New York City |
 | Tue, 15 Sept 2026 | Amnesia Ibiza | Ibiza |
 | Fri, 18 Sept 2026 | Parc d’Atraccions del Tibidabo | Barcelona |
@@ -20,9 +19,11 @@ Joseph Capriati is a techno and house artist tracked on soundcheck, with 221 set
 | Fri, 30 Oct 2026 | Factory Town | Miami |
 | Fri, 30 Oct 2026 | NOS Event Center | Los Angeles |
 | Fri, 27 Nov 2026 | Zumana Bali | Bali |
+| Sun, 29 Nov 2026 | Savaya Bali | Bali |
 
 ## Recently played
 
+- Amnesia Ibiza, Ibiza — Tue, 8 Sept 2026
 - Amnesia Ibiza, Ibiza — Sun, 6 Sept 2026
 - Madrid Caja Mágica, Madrid — Sat, 5 Sept 2026
 - Amnesia Ibiza, Ibiza — Tue, 1 Sept 2026
@@ -30,10 +31,9 @@ Joseph Capriati is a techno and house artist tracked on soundcheck, with 221 set
 - Kiesgrube, Düsseldorf — Sun, 30 Aug 2026
 - Amnesia Ibiza, Ibiza — Tue, 25 Aug 2026
 - Santanna Mykonos, Mykonos — Fri, 21 Aug 2026
-- Amnesia Ibiza, Ibiza — Tue, 18 Aug 2026
 
 ## Shares bills with
 
 Jamie Jones, Indira Paganotto, Dennis Cruz
 
-*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/josephcapriati/)*
+*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/josephcapriati/)*

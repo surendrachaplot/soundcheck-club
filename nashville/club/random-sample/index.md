@@ -1,6 +1,6 @@
 # Random Sample
 
-Random Sample is a music venue in Nashville with 2 upcoming nights listed on soundcheck as of Tue, 8 Sept 2026; the next is "Writer's Gym Live" on Sat, 12 Sept 2026.
+Random Sample is a music venue in Nashville with 2 upcoming nights listed on soundcheck as of Wed, 9 Sept 2026; the next is "Writer's Gym Live" on Sat, 12 Sept 2026.
 
 Random Sample is a music venue in Nashville listed on soundcheck. 2 upcoming nights. Browse upcoming dates, start times and who's playing. 4904 Charlotte Ave, Nashville, TN 37209.
 
@@ -15,4 +15,4 @@ Random Sample is a music venue in Nashville listed on soundcheck. 2 upcoming nig
 
 4904 Charlotte Ave, Nashville, TN 37209, Nashville
 
-*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/nashville/club/random-sample/)*
+*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/nashville/club/random-sample/)*

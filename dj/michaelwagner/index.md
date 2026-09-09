@@ -1,6 +1,6 @@
 # Michael Wagner
 
-Michael Wagner is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Tue, 8 Sept 2026, next at SASS Music Club, Vienna on Sat, 12 Sept 2026.
+Michael Wagner is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Wed, 9 Sept 2026, next at SASS Music Club, Vienna on Sat, 12 Sept 2026.
 
 Michael Wagner is a house and tech house artist based in Austria, tracked on soundcheck, with 14 sets logged across Berlin, Hamburg, Losangeles and Manchester and 1 more. Often billed alongside Stipo, Eye F and Fabiano José. Next up: SASS Music Club, Vienna on Sat 12 Sept.
 
@@ -25,4 +25,4 @@ Michael Wagner is a house and tech house artist based in Austria, tracked on sou
 
 Stipo, Eye F, Fabiano José
 
-*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/michaelwagner/)*
+*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/michaelwagner/)*

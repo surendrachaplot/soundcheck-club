@@ -1,6 +1,6 @@
 # Big Penny Social
 
-Big Penny Social is a music venue in London with 1 upcoming night listed on soundcheck as of Tue, 8 Sept 2026; the next is "CLUBHOUSE II: Family-Friendly Rave & Dance Party" on Sat, 12 Sept 2026.
+Big Penny Social is a music venue in London with 1 upcoming night listed on soundcheck as of Wed, 9 Sept 2026; the next is "[CANCELLED] CLUBHOUSE II: Family-Friendly Rave & Dance Party" on Sat, 12 Sept 2026.
 
 Big Penny Social is a music venue in London listed on soundcheck. 1 upcoming night, with line-ups including Alien Communications, E. Alexander, Maybe Laura and NVWLS and 1 more. Browse upcoming dates, start times and who's playing. 1 Priestley Way, London, E17 6AL, United Kingdom.
 
@@ -8,10 +8,10 @@ Big Penny Social is a music venue in London listed on soundcheck. 1 upcoming nig
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 12 Sept 2026 | CLUBHOUSE II: Family-Friendly Rave & Dance Party | Alien Communications, E. Alexander, Maybe Laura, NVWLS, Secretsundaze |
+| Sat, 12 Sept 2026 | [CANCELLED] CLUBHOUSE II: Family-Friendly Rave & Dance Party | Alien Communications, E. Alexander, Maybe Laura, NVWLS, Secretsundaze |
 
 ## Address
 
 1 Priestley Way, London, E17 6AL, United Kingdom, London
 
-*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/big-penny-social/)*
+*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/big-penny-social/)*

@@ -1,6 +1,6 @@
 # Klubkneipe x House Cats at Prisma
 
-Klubkneipe x House Cats at Prisma on Sun 13 Sept, Berlin. 1 act on the bill: Kalimanda. House and Tech House. Preview the line-up and save it on soundcheck.
+Klubkneipe x House Cats at Prisma on Sun 13 Sept, Berlin. 3 acts on the bill: Kalimanda, Noxumi and Vantavision. House and Tech House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,5 +11,7 @@ Klubkneipe x House Cats at Prisma on Sun 13 Sept, Berlin. 1 act on the bill: Kal
 ## Line-up
 
 - Kalimanda
+- Noxumi
+- Vantavision
 
 *Source: [soundcheck](https://soundcheck.club/e/2524429-klubkneipe-x-house-cats-at-prisma/)*

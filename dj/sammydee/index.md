@@ -1,13 +1,14 @@
 # Sammy Dee
 
-Sammy Dee is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Tue, 8 Sept 2026, next at ZENNER, Berlin on Fri, 2 Oct 2026.
+Sammy Dee is a House and Minimal artist with 2 upcoming club dates listed on soundcheck as of Wed, 9 Sept 2026, next at Tokonoma Club, Frankfurt on Sat, 12 Sept 2026.
 
-Sammy Dee is a house and minimal artist tracked on soundcheck, with 56 sets logged across Antwerp, Auckland, Basel and Berlin and 13 more. Often billed alongside Zip, Foehn & Jerome and Margaret Dygas. Next up: ZENNER, Berlin on Fri 2 Oct.
+Sammy Dee is a house and minimal artist tracked on soundcheck, with 57 sets logged across Antwerp, Auckland, Basel and Berlin and 14 more. Often billed alongside Zip, Foehn & Jerome and Maayan Nidam. Next up: Tokonoma Club, Frankfurt on Sat 12 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 12 Sept 2026 | Tokonoma Club | Frankfurt |
 | Fri, 2 Oct 2026 | ZENNER | Berlin |
 
 ## Recently played
@@ -23,6 +24,6 @@ Sammy Dee is a house and minimal artist tracked on soundcheck, with 56 sets logg
 
 ## Shares bills with
 
-Zip, Foehn & Jerome, Margaret Dygas
+Zip, Foehn & Jerome, Maayan Nidam
 
-*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sammydee/)*
+*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sammydee/)*

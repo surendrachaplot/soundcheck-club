@@ -1,6 +1,6 @@
 # YuYu Cine Club
 
-YuYu Cine Club is a music venue in Mexico City with 6 upcoming nights listed on soundcheck as of Tue, 8 Sept 2026; the next is "Yu Yu Cine Club: Skatebård" on Fri, 11 Sept 2026.
+YuYu Cine Club is a music venue in Mexico City with 6 upcoming nights listed on soundcheck as of Wed, 9 Sept 2026; the next is "Yu Yu Cine Club: Soos, Palmi, Katana" on Fri, 11 Sept 2026.
 
 YuYu Cine Club is a music venue in Mexicocity listed on soundcheck. 6 upcoming nights, with line-ups including Botelo, Cashu, daveh00d and Haz Lof and 2 more. Browse upcoming dates, start times and who's playing. Calle Dr. Carmona y Valle 129, Doctores, Cuauhtémoc, 06720 Ciudad de Mexico, CDMX.
 
@@ -8,7 +8,7 @@ YuYu Cine Club is a music venue in Mexicocity listed on soundcheck. 6 upcoming n
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 11 Sept 2026 | Yu Yu Cine Club: Skatebård | Skatebård |
+| Fri, 11 Sept 2026 | Yu Yu Cine Club: Soos, Palmi, Katana | Palmi, Skatebård, Soos |
 | Sat, 12 Sept 2026 | Yu Yu Cine Club: XAME takeover | Botelo, Haz Lof, Sabina Palma |
 | Fri, 18 Sept 2026 | Yu Yu Cine Club: Bonbon takeover with Virginia | Virginia, daveh00d |
 | Sat, 19 Sept 2026 | Yu Yu Cine Club: PWR takeover with Jen Cardini | Jen Cardini, Mystery Affair |
@@ -19,4 +19,4 @@ YuYu Cine Club is a music venue in Mexicocity listed on soundcheck. 6 upcoming n
 
 Calle Dr. Carmona y Valle 129, Doctores, Cuauhtémoc, 06720 Ciudad de Mexico, CDMX, Mexico City
 
-*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/mexicocity/club/yuyu-cine-club/)*
+*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/mexicocity/club/yuyu-cine-club/)*

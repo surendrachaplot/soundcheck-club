@@ -1,6 +1,6 @@
 # Maria Hanlon
 
-Maria Hanlon is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Tue, 8 Sept 2026, next at Grow, London on Sat, 19 Sept 2026.
+Maria Hanlon is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Wed, 9 Sept 2026, next at Grow, London on Sat, 19 Sept 2026.
 
 Maria Hanlon is a house and disco artist tracked on soundcheck, with 45 sets logged across London and Southampton. Often billed alongside Tiffany Quinn, Jojo Jones and Mas Que Nada Brothers. Next up: Grow, London on Sat 19 Sept.
 
@@ -25,4 +25,4 @@ Maria Hanlon is a house and disco artist tracked on soundcheck, with 45 sets log
 
 Tiffany Quinn, Jojo Jones, Mas Que Nada Brothers
 
-*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mariahanlon/)*
+*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mariahanlon/)*

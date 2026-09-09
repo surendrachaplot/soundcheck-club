@@ -1,6 +1,6 @@
 # Obreja.
 
-Obreja. is a Minimal Techno and House artist with 2 upcoming club dates listed on soundcheck as of Tue, 8 Sept 2026, next at TBA, London on Sat, 12 Sept 2026.
+Obreja. is a Minimal Techno and House artist with 2 upcoming club dates listed on soundcheck as of Wed, 9 Sept 2026, next at TBA, London on Sat, 12 Sept 2026.
 
 Obreja. is a minimal techno and house artist tracked on soundcheck, with 31 sets logged across Berlin and London. Often billed alongside Vlad Ioachimescu, Stefan Andrei and Desuba. Next up: TBA, London on Sat 12 Sept.
 
@@ -26,4 +26,4 @@ Obreja. is a minimal techno and house artist tracked on soundcheck, with 31 sets
 
 Vlad Ioachimescu, Stefan Andrei, Desuba
 
-*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/obreja./)*
+*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/obreja./)*

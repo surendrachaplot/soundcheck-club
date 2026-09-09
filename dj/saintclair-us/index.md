@@ -1,6 +1,6 @@
 # Saintclair
 
-Saintclair is a Techno and Club artist with 2 upcoming club dates listed on soundcheck as of Tue, 8 Sept 2026, next at Jupiter Disco, New York City on Wed, 9 Sept 2026.
+Saintclair is a Techno and Club artist with 2 upcoming club dates listed on soundcheck as of Wed, 9 Sept 2026, next at Jupiter Disco, New York City on Wed, 9 Sept 2026.
 
 Saintclair is a techno and club artist tracked on soundcheck, with 23 sets logged across Lisbon, Newyorkcity, Philadelphia and Washingtondc. Often billed alongside PHIL TY, Adrian Hex and BLAIZE. Next up: Jupiter Disco, Newyorkcity on Wed 9 Sept.
 
@@ -26,4 +26,4 @@ Saintclair is a techno and club artist tracked on soundcheck, with 23 sets logge
 
 PHIL TY, Adrian Hex, BLAIZE
 
-*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/saintclair-us/)*
+*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/saintclair-us/)*

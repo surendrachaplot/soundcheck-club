@@ -1,6 +1,6 @@
 # Handmade
 
-Handmade is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Tue, 8 Sept 2026, next at Renate, Berlin on Fri, 11 Sept 2026.
+Handmade is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Wed, 9 Sept 2026, next at Renate, Berlin on Fri, 11 Sept 2026.
 
 Handmade is a techno and house artist based in Germany, tracked on soundcheck, with 105 sets logged across Amsterdam, Antwerp, Bangkok and Berlin and 15 more. Often billed alongside VCO, Madalba and Kingsizebed. Next up: Renate, Berlin on Fri 11 Sept.
 
@@ -26,4 +26,4 @@ Handmade is a techno and house artist based in Germany, tracked on soundcheck, w
 
 VCO, Madalba, Kingsizebed
 
-*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/handmade/)*
+*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/handmade/)*

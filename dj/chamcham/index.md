@@ -1,6 +1,6 @@
 # Chamcham
 
-Chamcham is a House and Afro House artist with 1 upcoming club date listed on soundcheck as of Tue, 8 Sept 2026, next at The Tokyo Club, Tokyo on Sat, 12 Sept 2026.
+Chamcham is a House and Afro House artist with 1 upcoming club date listed on soundcheck as of Wed, 9 Sept 2026, next at The Tokyo Club, Tokyo on Sat, 12 Sept 2026.
 
 Chamcham is a house and afro house artist tracked on soundcheck, with 41 sets logged across Tokyo. Often billed alongside Sante Visioni, COCOLY and VALENCIAGA. Next up: The Tokyo Club, Tokyo on Sat 12 Sept.
 
@@ -25,4 +25,4 @@ Chamcham is a house and afro house artist tracked on soundcheck, with 41 sets lo
 
 Sante Visioni, COCOLY, VALENCIAGA
 
-*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/chamcham/)*
+*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/chamcham/)*

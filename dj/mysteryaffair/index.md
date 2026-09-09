@@ -1,8 +1,8 @@
 # Mystery Affair
 
-Mystery Affair is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Tue, 8 Sept 2026, next at La Terrrazza, Barcelona on Thu, 10 Sept 2026.
+Mystery Affair is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Wed, 9 Sept 2026, next at La Terrrazza, Barcelona on Thu, 10 Sept 2026.
 
-Mystery Affair is a house and techno artist tracked on soundcheck, with 94 sets logged across Amsterdam, Bali, Barcelona and Berlin and 16 more. Often billed alongside Ursula Prawn, Portugal and sadgal. Next up: La Terrrazza, Barcelona on Thu 10 Sept.
+Mystery Affair is a house and techno artist tracked on soundcheck, with 95 sets logged across Amsterdam, Bali, Barcelona and Berlin and 16 more. Often billed alongside Ursula Prawn, Portugal and sadgal. Next up: La Terrrazza, Barcelona on Thu 10 Sept.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Mystery Affair is a house and techno artist tracked on soundcheck, with 94 sets 
 | --- | --- | --- |
 | Thu, 10 Sept 2026 | La Terrrazza | Barcelona |
 | Sat, 19 Sept 2026 | YuYu Cine Club | Mexico City |
+| Sat, 17 Oct 2026 | Berghain / Panorama Bar / Säule | Berlin |
 
 ## Recently played
 
@@ -26,4 +27,4 @@ Mystery Affair is a house and techno artist tracked on soundcheck, with 94 sets 
 
 Ursula Prawn, Portugal, sadgal
 
-*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mysteryaffair/)*
+*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mysteryaffair/)*

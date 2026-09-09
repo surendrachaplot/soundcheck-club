@@ -1,6 +1,6 @@
 # bbecks
 
-bbecks is a Techno and Broken Beat artist with 1 upcoming club date listed on soundcheck as of Tue, 8 Sept 2026, next at NUMBER 90 LONDON, London on Fri, 11 Sept 2026.
+bbecks is a Techno and Broken Beat artist with 1 upcoming club date listed on soundcheck as of Wed, 9 Sept 2026, next at NUMBER 90 LONDON, London on Fri, 11 Sept 2026.
 
 bbecks is a techno and broken beat artist tracked on soundcheck, with 21 sets logged across Amsterdam, Berlin, London and Milan. Often billed alongside Voicedrone, Alba Heidari and Anahita Shamsaei. Next up: NUMBER 90 LONDON, London on Fri 11 Sept.
 
@@ -25,4 +25,4 @@ bbecks is a techno and broken beat artist tracked on soundcheck, with 21 sets lo
 
 Voicedrone, Alba Heidari, Anahita Shamsaei
 
-*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bbecks/)*
+*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bbecks/)*

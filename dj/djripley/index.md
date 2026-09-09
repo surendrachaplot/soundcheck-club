@@ -1,6 +1,6 @@
 # DJ Ripley
 
-DJ Ripley is a Jungle and Bass artist with 1 upcoming club date listed on soundcheck as of Tue, 8 Sept 2026, next at M7 Club, Barcelona on Sat, 26 Sept 2026.
+DJ Ripley is a Jungle and Bass artist with 1 upcoming club date listed on soundcheck as of Wed, 9 Sept 2026, next at M7 Club, Barcelona on Sat, 26 Sept 2026.
 
 DJ Ripley is a jungle and bass artist tracked on soundcheck, with 8 sets logged across Barcelona, Boston, Newyorkcity and Philadelphia. Often billed alongside PlayPlay, AFTRMTH and Alex Viper. Next up: M7 Club, Barcelona on Sat 26 Sept.
 
@@ -24,4 +24,4 @@ DJ Ripley is a jungle and bass artist tracked on soundcheck, with 8 sets logged 
 
 PlayPlay, AFTRMTH, Alex Viper
 
-*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djripley/)*
+*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djripley/)*

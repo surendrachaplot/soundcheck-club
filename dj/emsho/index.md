@@ -1,6 +1,6 @@
 # Emsho
 
-Emsho is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Tue, 8 Sept 2026, next at public records, New York City on Fri, 11 Sept 2026.
+Emsho is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Wed, 9 Sept 2026, next at public records, New York City on Fri, 11 Sept 2026.
 
 Emsho is a house and techno artist based in United States of America, tracked on soundcheck, with 74 sets logged across Barcelona, Berlin, Mexicocity and Newyorkcity and 2 more. Often billed alongside Bella Mutino, Armii1n and CAMILLA. Next up: public records, Newyorkcity on Fri 11 Sept.
 
@@ -28,4 +28,4 @@ Emsho is a house and techno artist based in United States of America, tracked on
 
 Bella Mutino, Armii1n, CAMILLA
 
-*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/emsho/)*
+*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/emsho/)*

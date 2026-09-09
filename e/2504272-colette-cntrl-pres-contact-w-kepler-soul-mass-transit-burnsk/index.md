@@ -1,6 +1,6 @@
 # Colette + CNTRL pres Contact W/Kepler, Soul Mass Transit, Burnski, Boss Priester + more at 11 Bromley Street
 
-Colette + CNTRL pres Contact W/Kepler, Soul Mass Transit, Burnski, Boss Priester + more at 11 Bromley Street on Sat 17 Oct, Birmingham. 6 acts on the bill: Boss Priester, Burnski, Julian Anthony and Kepler and 2 more. House and Garage. Preview the line-up and save it on soundcheck.
+Colette + CNTRL pres Contact W/Kepler, Soul Mass Transit, Burnski, Boss Priester + more at 11 Bromley Street on Sat 17 Oct, Birmingham. 7 acts on the bill: Boss Priester, Burnski, Faraz (UK) and Julian Anthony and 3 more. House and Garage. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -12,6 +12,7 @@ Colette + CNTRL pres Contact W/Kepler, Soul Mass Transit, Burnski, Boss Priester
 
 - Boss Priester
 - Burnski
+- Faraz (UK)
 - Julian Anthony
 - Kepler
 - Marlie

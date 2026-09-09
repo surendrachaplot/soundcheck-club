@@ -1,6 +1,6 @@
 # Mathissns
 
-Mathissns is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Tue, 8 Sept 2026, next at Château Moderne, Brussels on Sat, 19 Sept 2026.
+Mathissns is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Wed, 9 Sept 2026, next at Château Moderne, Brussels on Sat, 19 Sept 2026.
 
 Mathissns is a techno and trance artist based in Belgium, tracked on soundcheck, with 4 sets logged across Brussels. Often billed alongside AbraHM, BOY&GIRL and John Gilliot. Next up: Château Moderne, Brussels on Sat 19 Sept.
 
@@ -20,4 +20,4 @@ Mathissns is a techno and trance artist based in Belgium, tracked on soundcheck,
 
 AbraHM, BOY&GIRL, John Gilliot
 
-*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mathissns/)*
+*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mathissns/)*

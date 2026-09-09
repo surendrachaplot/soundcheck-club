@@ -1,6 +1,6 @@
 # SNEAK'S BIRTHDAY BEATS 2026 at TBA - 2341 E Olympic Blvd Los Angeles, CA  90021
 
-SNEAK'S BIRTHDAY BEATS 2026 at TBA - 2341 E Olympic Blvd Los Angeles, CA  90021 on Sat 14 Nov, Losangeles. 19 acts on the bill: Derrick Carter, DJ Dazy, DJ Heather and Dj Kerry and 15 more. House. Preview the line-up and save it on soundcheck.
+SNEAK'S BIRTHDAY BEATS 2026 at TBA - 2341 E Olympic Blvd Los Angeles, CA  90021 on Sat 14 Nov, Losangeles. 20 acts on the bill: Derrick Carter, DJ Dazy, DJ Heather and Dj Kerry and 16 more. House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -28,6 +28,7 @@ SNEAK'S BIRTHDAY BEATS 2026 at TBA - 2341 E Olympic Blvd Los Angeles, CA  90021 
 - Masha Mar
 - Stacy Christine
 - TOM CARLE
+- Tripmastaz
 - Your Unkle Magik
 
 *Source: [soundcheck](https://soundcheck.club/e/2499458-sneak-s-birthday-beats-2026-at-tba-2341-e-olympic-blvd-los-a/)*

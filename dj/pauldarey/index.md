@@ -1,13 +1,14 @@
 # Paul Darey
 
-Paul Darey is a Deep House and Tech House artist with 1 upcoming club date listed on soundcheck as of Tue, 8 Sept 2026, next at Cova Santa, Ibiza on Sun, 13 Sept 2026.
+Paul Darey is a Deep House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Wed, 9 Sept 2026, next at Cova Santa, Ibiza on Wed, 9 Sept 2026.
 
-Paul Darey is a deep house and tech house artist tracked on soundcheck, with 7 sets logged across Barcelona, Buenosaires, Ibiza and Lisbon and 1 more. Often billed alongside Dadame, Diamaē and Dub Tiger. Next up: Cova Santa, Ibiza on Sun 13 Sept.
+Paul Darey is a deep house and tech house artist tracked on soundcheck, with 8 sets logged across Barcelona, Buenosaires, Ibiza and Lisbon and 1 more. Often billed alongside Dadame, Diamaē and Dub Tiger. Next up: Cova Santa, Ibiza on Wed 9 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Wed, 9 Sept 2026 | Cova Santa | Ibiza |
 | Sun, 13 Sept 2026 | Cova Santa | Ibiza |
 
 ## Recently played
@@ -23,4 +24,4 @@ Paul Darey is a deep house and tech house artist tracked on soundcheck, with 7 s
 
 Dadame, Diamaē, Dub Tiger
 
-*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/pauldarey/)*
+*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/pauldarey/)*

@@ -1,8 +1,8 @@
 # Saraga
 
-Saraga is a House and Tech House artist with 5 upcoming club dates listed on soundcheck as of Tue, 8 Sept 2026, next at Maya Beach Experience, Naples on Sat, 12 Sept 2026.
+Saraga is a House and Tech House artist with 7 upcoming club dates listed on soundcheck as of Wed, 9 Sept 2026, next at Maya Beach Experience, Naples on Sat, 12 Sept 2026.
 
-Saraga is a house and tech house artist tracked on soundcheck, with 72 sets logged across Amsterdam, Barcelona, Ibiza and Istanbul and 12 more. Often billed alongside Guy Gerber, Bedouin and AGELESS. Next up: Maya Beach Experience, Naples on Sat 12 Sept.
+Saraga is a house and tech house artist tracked on soundcheck, with 74 sets logged across Amsterdam, Barcelona, Ibiza and Istanbul and 13 more. Often billed alongside Guy Gerber, Bedouin and AGELESS. Next up: Maya Beach Experience, Naples on Sat 12 Sept.
 
 ## Upcoming shows
 
@@ -11,8 +11,10 @@ Saraga is a house and tech house artist tracked on soundcheck, with 72 sets logg
 | Sat, 12 Sept 2026 | Maya Beach Experience | Naples |
 | Thu, 17 Sept 2026 | Volt Club Milano | Milan |
 | Fri, 18 Sept 2026 | TBA | Lisbon |
+| Sun, 20 Sept 2026 | Brisa Open Air | Barcelona |
 | Fri, 16 Oct 2026 | Mana Wynwood | Miami |
 | Sun, 18 Oct 2026 | Floyd | Miami |
+| Fri, 6 Nov 2026 | TBA - Hotel Unique | Sao Paulo |
 
 ## Recently played
 
@@ -29,4 +31,4 @@ Saraga is a house and tech house artist tracked on soundcheck, with 72 sets logg
 
 Guy Gerber, Bedouin, AGELESS
 
-*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/saraga/)*
+*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/saraga/)*

@@ -1,6 +1,6 @@
 # Wall Ra
 
-Wall Ra is a House and Ghetto Tech artist with 4 upcoming club dates listed on soundcheck as of Tue, 8 Sept 2026, next at Humboldthain Club, Berlin on Fri, 9 Oct 2026.
+Wall Ra is a House and Ghetto Tech artist with 4 upcoming club dates listed on soundcheck as of Wed, 9 Sept 2026, next at Humboldthain Club, Berlin on Fri, 9 Oct 2026.
 
 Wall Ra is a house and ghetto tech artist based in Germany, tracked on soundcheck, with 67 sets logged across Basel, Berlin, Hamburg and Leipzig and 3 more. Often billed alongside Carl Hang, DJ Business (2) and redblunted. Next up: Humboldthain Club, Berlin on Fri 9 Oct.
 
@@ -28,4 +28,4 @@ Wall Ra is a house and ghetto tech artist based in Germany, tracked on soundchec
 
 Carl Hang, DJ Business (2), redblunted
 
-*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/wallra/)*
+*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/wallra/)*

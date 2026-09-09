@@ -1,6 +1,6 @@
 # Ben Mono
 
-Ben Mono is a Garage and House artist with 1 upcoming club date listed on soundcheck as of Tue, 8 Sept 2026, next at Paloma, Berlin on Fri, 16 Oct 2026.
+Ben Mono is a Garage and House artist with 1 upcoming club date listed on soundcheck as of Wed, 9 Sept 2026, next at Paloma, Berlin on Fri, 16 Oct 2026.
 
 Ben Mono is a garage and house artist based in Germany, tracked on soundcheck, with 24 sets logged across Amsterdam, Berlin and Stockholm. Often billed alongside TMSN, Kidnappa Koko and PJ Bridger. Next up: Paloma, Berlin on Fri 16 Oct.
 
@@ -25,4 +25,4 @@ Ben Mono is a garage and house artist based in Germany, tracked on soundcheck, w
 
 TMSN, Kidnappa Koko, PJ Bridger
 
-*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/benmono/)*
+*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/benmono/)*

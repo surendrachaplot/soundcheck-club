@@ -1,8 +1,8 @@
 # Flash
 
-Flash is a music venue in Washington DC with 20 upcoming nights listed on soundcheck as of Tue, 8 Sept 2026; the next is "Anastazja" on Fri, 11 Sept 2026.
+Flash is a music venue in Washington DC with 21 upcoming nights listed on soundcheck as of Wed, 9 Sept 2026; the next is "Anastazja" on Fri, 11 Sept 2026.
 
-Flash is a music venue in Washingtondc listed on soundcheck. 20 upcoming nights, with line-ups including Anastazja, Anetha, Apollo Dust and BASHKKA and 2 more. Browse upcoming dates, start times and who's playing. 645 Florida Ave, NW, Washington, D.C. 20001.
+Flash is a music venue in Washingtondc listed on soundcheck. 21 upcoming nights, with line-ups including Anastazja, Anetha, Apollo Dust and BASHKKA and 2 more. Browse upcoming dates, start times and who's playing. 645 Florida Ave, NW, Washington, D.C. 20001.
 
 ## What's on
 
@@ -23,4 +23,4 @@ Flash is a music venue in Washingtondc listed on soundcheck. 20 upcoming nights,
 
 645 Florida Ave, NW, Washington, D.C. 20001, Washington DC
 
-*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/washingtondc/club/flash/)*
+*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/washingtondc/club/flash/)*

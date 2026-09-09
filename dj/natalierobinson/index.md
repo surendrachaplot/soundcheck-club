@@ -1,8 +1,8 @@
 # Natalie Robinson
 
-Natalie Robinson is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Tue, 8 Sept 2026, next at Fuchs2, Prague on Sat, 19 Sept 2026.
+Natalie Robinson is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Wed, 9 Sept 2026, next at Fuchs2, Prague on Sat, 19 Sept 2026.
 
-Natalie Robinson is a house and techno artist tracked on soundcheck, with 127 sets logged across Amsterdam, Antwerp, Berlin and Brussels and 23 more. Often billed alongside Katy De Jesus, Naomi (Berlin) and Mike Starr. Next up: Fuchs2, Prague on Sat 19 Sept.
+Natalie Robinson is a house and techno artist tracked on soundcheck, with 128 sets logged across Amsterdam, Antwerp, Berlin and Brussels and 23 more. Often billed alongside Katy De Jesus, Naomi (Berlin) and Mike Starr. Next up: Fuchs2, Prague on Sat 19 Sept.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ Natalie Robinson is a house and techno artist tracked on soundcheck, with 127 se
 | Sat, 19 Sept 2026 | Fuchs2 | Prague |
 | Sat, 17 Oct 2026 | Tresor / Globus | Berlin |
 | Fri, 23 Oct 2026 | Ndsm Wharf | Amsterdam |
+| Sat, 24 Oct 2026 | TILLATEC | Amsterdam |
 
 ## Recently played
 
@@ -27,4 +28,4 @@ Natalie Robinson is a house and techno artist tracked on soundcheck, with 127 se
 
 Katy De Jesus, Naomi (Berlin), Mike Starr
 
-*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/natalierobinson/)*
+*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/natalierobinson/)*

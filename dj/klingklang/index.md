@@ -1,6 +1,6 @@
 # KLING&KLANG
 
-KLING&KLANG is a Trance and Techno artist with 6 upcoming club dates listed on soundcheck as of Tue, 8 Sept 2026, next at Lokschuppen Berlin, Berlin on Fri, 18 Sept 2026.
+KLING&KLANG is a Trance and Techno artist with 6 upcoming club dates listed on soundcheck as of Wed, 9 Sept 2026, next at Lokschuppen Berlin, Berlin on Fri, 18 Sept 2026.
 
 KLING&KLANG is a trance and techno artist tracked on soundcheck, with 160 sets logged across Amsterdam, Barcelona, Berlin and Budapest and 11 more. Often billed alongside Amøn, DJ Henk and Kø:lab. Next up: Lokschuppen Berlin, Berlin on Fri 18 Sept.
 
@@ -30,4 +30,4 @@ KLING&KLANG is a trance and techno artist tracked on soundcheck, with 160 sets l
 
 Amøn, DJ Henk, Kø:lab
 
-*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/klingklang/)*
+*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/klingklang/)*

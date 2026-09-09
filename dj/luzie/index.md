@@ -1,13 +1,14 @@
 # Luzie
 
-Luzie is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 8 Sept 2026, next at Frieda's Büxe, Zurich on Fri, 6 Nov 2026.
+Luzie is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 9 Sept 2026, next at Romantica, Stuttgart on Sat, 19 Sept 2026.
 
-Luzie is a house and techno artist based in Germany, tracked on soundcheck, with 47 sets logged across Berlin, Cologne, Dusseldorf and Frankfurt and 5 more. Often billed alongside Frau Laura, nd_baumecker and Laurine Philippe. Next up: Frieda's Büxe, Zurich on Fri 6 Nov.
+Luzie is a house and techno artist based in Germany, tracked on soundcheck, with 48 sets logged across Berlin, Cologne, Dusseldorf and Frankfurt and 5 more. Often billed alongside Frau Laura, nd_baumecker and Alexander Maier. Next up: Romantica, Stuttgart on Sat 19 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 19 Sept 2026 | Romantica | Stuttgart |
 | Fri, 6 Nov 2026 | Frieda's Büxe | Zurich |
 
 ## Recently played
@@ -23,6 +24,6 @@ Luzie is a house and techno artist based in Germany, tracked on soundcheck, with
 
 ## Shares bills with
 
-Frau Laura, nd_baumecker, Laurine Philippe
+Frau Laura, nd_baumecker, Alexander Maier
 
-*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/luzie/)*
+*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/luzie/)*

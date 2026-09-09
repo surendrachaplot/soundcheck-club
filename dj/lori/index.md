@@ -1,8 +1,8 @@
 # Lori (1)
 
-Lori (1) is a House and Disco artist with 3 upcoming club dates listed on soundcheck as of Tue, 8 Sept 2026, next at Korpuss, Riga on Fri, 11 Sept 2026.
+Lori (1) is a House and Dub artist with 3 upcoming club dates listed on soundcheck as of Wed, 9 Sept 2026, next at Korpuss, Riga on Fri, 11 Sept 2026.
 
-Lori (1) is a house and disco artist based in Australia, tracked on soundcheck, with 20 sets logged across Amsterdam, Melbourne, Riga and Sydney and 1 more. Often billed alongside Boris Coelman, Cynthia Spiering and DJ JNETT. Next up: Korpuss, Riga on Fri 11 Sept.
+Lori (1) is a house and dub artist based in Australia, tracked on soundcheck, with 20 sets logged across Amsterdam, Melbourne, Riga and Sydney and 1 more. Often billed alongside Boris Coelman, Cynthia Spiering and DJ JNETT. Next up: Korpuss, Riga on Fri 11 Sept.
 
 ## Upcoming shows
 
@@ -27,4 +27,4 @@ Lori (1) is a house and disco artist based in Australia, tracked on soundcheck, 
 
 Boris Coelman, Cynthia Spiering, DJ JNETT
 
-*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lori/)*
+*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lori/)*

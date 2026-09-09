@@ -1,8 +1,8 @@
 # CAMPA
 
-CAMPA is a Techno and Hip-Hop artist with 1 upcoming club date listed on soundcheck as of Tue, 8 Sept 2026, next at elipamanoke, Leipzig on Sat, 19 Sept 2026.
+CAMPA is a Techno and Hip-Hop artist with 1 upcoming club date listed on soundcheck as of Wed, 9 Sept 2026, next at elipamanoke, Leipzig on Sat, 19 Sept 2026.
 
-CAMPA is a techno and hip-hop artist based in Germany, tracked on soundcheck, with 8 sets logged across Leipzig and Munich. Often billed alongside Langnikel, Moto Moto and Fennek. Next up: elipamanoke, Leipzig on Sat 19 Sept.
+CAMPA is a techno and hip-hop artist based in Germany, tracked on soundcheck, with 8 sets logged across Leipzig and Munich. Often billed alongside Fennek, Langnikel and Moto Moto. Next up: elipamanoke, Leipzig on Sat 19 Sept.
 
 ## Upcoming shows
 
@@ -22,6 +22,6 @@ CAMPA is a techno and hip-hop artist based in Germany, tracked on soundcheck, wi
 
 ## Shares bills with
 
-Langnikel, Moto Moto, Fennek
+Fennek, Langnikel, Moto Moto
 
-*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/campa/)*
+*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/campa/)*

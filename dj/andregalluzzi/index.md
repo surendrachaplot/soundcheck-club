@@ -1,14 +1,15 @@
 # André Galluzzi
 
-André Galluzzi is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Tue, 8 Sept 2026, next at Waterhouse Studios, Amsterdam on Sun, 25 Oct 2026.
+André Galluzzi is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Wed, 9 Sept 2026, next at Waterhouse Studios, Amsterdam on Sun, 25 Oct 2026.
 
-André Galluzzi is a house and techno artist tracked on soundcheck, with 72 sets logged across Amsterdam, Barcelona, Berlin and Cologne and 9 more. Often billed alongside Sven Vath, Maurizio Schmitz and Dana Ruh. Next up: Waterhouse Studios, Amsterdam on Sun 25 Oct.
+André Galluzzi is a house and techno artist tracked on soundcheck, with 73 sets logged across Amsterdam, Barcelona, Berlin and Cologne and 9 more. Often billed alongside Sven Vath, Maurizio Schmitz and Dana Ruh. Next up: Waterhouse Studios, Amsterdam on Sun 25 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sun, 25 Oct 2026 | Waterhouse Studios | Amsterdam |
+| Sat, 31 Oct 2026 | Berghain / Panorama Bar / Säule | Berlin |
 | Sat, 28 Nov 2026 | TBA | Berlin |
 
 ## Recently played
@@ -26,4 +27,4 @@ André Galluzzi is a house and techno artist tracked on soundcheck, with 72 sets
 
 Sven Vath, Maurizio Schmitz, Dana Ruh
 
-*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/andregalluzzi/)*
+*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/andregalluzzi/)*

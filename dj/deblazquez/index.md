@@ -1,8 +1,8 @@
 # Deblazquez
 
-Deblazquez is a Electronica and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 8 Sept 2026, next at Discoteca Karma, Barcelona on Sun, 13 Sept 2026.
+Deblazquez is a Electronica and EBM artist with 1 upcoming club date listed on soundcheck as of Wed, 9 Sept 2026, next at Discoteca Karma, Barcelona on Sun, 13 Sept 2026.
 
-Deblazquez is an electronica and techno artist tracked on soundcheck, with 5 sets logged across Barcelona. Often billed alongside Saulo Pisa. Next up: Discoteca Karma, Barcelona on Sun 13 Sept.
+Deblazquez is an electronica and ebm artist tracked on soundcheck, with 5 sets logged across Barcelona. Often billed alongside Saulo Pisa. Next up: Discoteca Karma, Barcelona on Sun 13 Sept.
 
 ## Upcoming shows
 
@@ -21,4 +21,4 @@ Deblazquez is an electronica and techno artist tracked on soundcheck, with 5 set
 
 Saulo Pisa
 
-*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/deblazquez/)*
+*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/deblazquez/)*

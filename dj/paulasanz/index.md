@@ -1,6 +1,6 @@
 # Paula Sanz
 
-Paula Sanz is a Techno and Acid artist with 4 upcoming club dates listed on soundcheck as of Tue, 8 Sept 2026, next at La Gare / Le Gore, Paris on Thu, 10 Sept 2026.
+Paula Sanz is a Techno and Acid artist with 4 upcoming club dates listed on soundcheck as of Wed, 9 Sept 2026, next at La Gare / Le Gore, Paris on Thu, 10 Sept 2026.
 
 Paula Sanz is a techno and acid artist tracked on soundcheck, with 58 sets logged across Amsterdam, Barcelona, Berlin and Budapest and 3 more. Often billed alongside SOLE DOSI, Dolce Potente and Marthial. Next up: La Gare / Le Gore, Paris on Thu 10 Sept.
 
@@ -28,4 +28,4 @@ Paula Sanz is a techno and acid artist tracked on soundcheck, with 58 sets logge
 
 SOLE DOSI, Dolce Potente, Marthial
 
-*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/paulasanz/)*
+*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/paulasanz/)*

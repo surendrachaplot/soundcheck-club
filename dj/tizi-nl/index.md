@@ -1,14 +1,15 @@
 # TiZi (NL)
 
-TiZi (NL) is a electronic artist with 1 upcoming club date listed on soundcheck as of Tue, 8 Sept 2026, next at nachbar, Amsterdam on Thu, 10 Sept 2026.
+TiZi (NL) is a Dub and Footwork artist with 2 upcoming club dates listed on soundcheck as of Wed, 9 Sept 2026, next at nachbar, Amsterdam on Thu, 10 Sept 2026.
 
-TiZi (NL) is an electronic artist tracked on soundcheck, with 27 sets logged across Amsterdam and Rotterdam. Often billed alongside Isla Den, Kissen and Windowseeker. Next up: nachbar, Amsterdam on Thu 10 Sept.
+TiZi (NL) is a dub and footwork artist tracked on soundcheck, with 28 sets logged across Amsterdam and Rotterdam. Often billed alongside Isla Den, Kissen and Sandor Dayala. Next up: nachbar, Amsterdam on Thu 10 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Thu, 10 Sept 2026 | nachbar | Amsterdam |
+| Thu, 17 Sept 2026 | nachbar | Amsterdam |
 
 ## Recently played
 
@@ -23,6 +24,6 @@ TiZi (NL) is an electronic artist tracked on soundcheck, with 27 sets logged acr
 
 ## Shares bills with
 
-Isla Den, Kissen, Windowseeker
+Isla Den, Kissen, Sandor Dayala
 
-*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tizi-nl/)*
+*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tizi-nl/)*

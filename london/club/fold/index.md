@@ -1,6 +1,6 @@
 # FOLD
 
-FOLD is a music venue in London with 26 upcoming nights listed on soundcheck as of Tue, 8 Sept 2026; the next is "XTD - 012 - Barac" on Fri, 11 Sept 2026.
+FOLD is a music venue in London with 26 upcoming nights listed on soundcheck as of Wed, 9 Sept 2026; the next is "XTD - 012 - Barac" on Fri, 11 Sept 2026.
 
 FOLD is a music venue in London listed on soundcheck. 26 upcoming nights, with line-ups including aalice, Alicia (UK), Anabel Arroyo and Andre Zimmer and 2 more. Browse upcoming dates, start times and who's playing. Gillian House, Stephenson St, London E16 4SA, UK.
 
@@ -8,10 +8,10 @@ FOLD is a music venue in London listed on soundcheck. 26 upcoming nights, with l
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 11 Sept 2026 | XTD - 012 - Barac | Barac, Cem Ozden, Harry McCanna, Zya (1) |
+| Fri, 11 Sept 2026 | XTD - 012 - Barac | Barac, Cem Ozden, Harry McCanna, Kearun, Zya (1) |
 | Sat, 12 Sept 2026 | FOLD presents METAXY001 (EXTENDED) | ANDRØMEDA, BLANKA, Chami, Gloria Rose, Lockhart, Mona Sage, Nørbak, SALOME |
 | Sun, 13 Sept 2026 | UNFOLD CXXXI |  |
-| Fri, 18 Sept 2026 | Labyrinth presents: Detroit Love London - Carl Craig, Octave One Live & Idriss D | Carl Craig, Idriss D, Octave One |
+| Fri, 18 Sept 2026 | Labyrinth presents: Detroit Love London - Carl Craig, Octave One Live & Idriss D | Braga Circuit, Carl Craig, Elle Clark, Idriss D, Octave One, Oscar Farrell, Ploy |
 | Sat, 19 Sept 2026 | Boudica 7 Year Anniversary | ASHTREY, Berlin Bunny, Eyesdice, KTK (DE), OCTI, Samantha Togni, Sissy Cinnamon, Supergloss, Tessuto |
 | Sat, 19 Sept 2026 | Origins: Traumer - All Day Long | Traumer |
 | Fri, 25 Sept 2026 | AVA London: Optimo, Special Guest, Swoose, Holly Lester, Body Clinic and JWY | Body Clinic, Holly Lester, JWY (1), Optimo (Espacio), Swoose |
@@ -23,4 +23,4 @@ FOLD is a music venue in London listed on soundcheck. 26 upcoming nights, with l
 
 Gillian House, Stephenson St, London E16 4SA, UK, London
 
-*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/fold/)*
+*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/fold/)*

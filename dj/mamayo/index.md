@@ -1,6 +1,6 @@
 # Mamayo
 
-Mamayo is a Bass and Club artist with 1 upcoming club date listed on soundcheck as of Tue, 8 Sept 2026, next at HVEN, Tokyo on Sat, 19 Sept 2026.
+Mamayo is a Bass and Club artist with 1 upcoming club date listed on soundcheck as of Wed, 9 Sept 2026, next at HVEN, Tokyo on Sat, 19 Sept 2026.
 
 Mamayo is a bass and club artist tracked on soundcheck, with 3 sets logged across Shanghai and Tokyo. Often billed alongside 10000 (CN), Ayesha and CHERONII. Next up: HVEN, Tokyo on Sat 19 Sept.
 
@@ -19,4 +19,4 @@ Mamayo is a bass and club artist tracked on soundcheck, with 3 sets logged acros
 
 10000 (CN), Ayesha, CHERONII
 
-*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mamayo/)*
+*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mamayo/)*

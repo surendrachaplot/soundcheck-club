@@ -1,6 +1,6 @@
 # Xen Chron
 
-Xen Chron is a Techno and Bass artist with 1 upcoming club date listed on soundcheck as of Tue, 8 Sept 2026, next at TBA - Secret Boston Location, Boston on Sat, 26 Sept 2026.
+Xen Chron is a Techno and Bass artist with 1 upcoming club date listed on soundcheck as of Wed, 9 Sept 2026, next at TBA - Secret Boston Location, Boston on Sat, 26 Sept 2026.
 
 Xen Chron is a techno and bass artist tracked on soundcheck, with 7 sets logged across Boston, London, Madrid and Manchester. Often billed alongside AAKAARA, BOTHER and Bop. Next up: TBA - Secret Boston Location, Boston on Sat 26 Sept.
 
@@ -23,4 +23,4 @@ Xen Chron is a techno and bass artist tracked on soundcheck, with 7 sets logged 
 
 AAKAARA, BOTHER, Bop
 
-*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/xenchron/)*
+*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/xenchron/)*

@@ -1,6 +1,6 @@
 # vendredear
 
-vendredear is a Electro and Ambient artist with 1 upcoming club date listed on soundcheck as of Tue, 8 Sept 2026, next at La Station - Gare des Mines, Paris on Fri, 18 Sept 2026.
+vendredear is a Electro and Ambient artist with 1 upcoming club date listed on soundcheck as of Wed, 9 Sept 2026, next at La Station - Gare des Mines, Paris on Fri, 18 Sept 2026.
 
 vendredear is an electro and ambient artist tracked on soundcheck, with 35 sets logged across Amsterdam, Barcelona, Berlin and Brussels and 4 more. Often billed alongside Emma DJ, TTristana and Laura Trance. Next up: La Station - Gare des Mines, Paris on Fri 18 Sept.
 
@@ -25,4 +25,4 @@ vendredear is an electro and ambient artist tracked on soundcheck, with 35 sets 
 
 Emma DJ, TTristana, Laura Trance
 
-*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/vendredear/)*
+*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/vendredear/)*

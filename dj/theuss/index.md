@@ -1,6 +1,6 @@
 # THEUSS
 
-THEUSS is a Deep House and Progressive House artist with 1 upcoming club date listed on soundcheck as of Tue, 8 Sept 2026, next at Lux Fragil, Lisbon on Fri, 25 Sept 2026.
+THEUSS is a Deep House and Progressive House artist with 1 upcoming club date listed on soundcheck as of Wed, 9 Sept 2026, next at Lux Fragil, Lisbon on Fri, 25 Sept 2026.
 
 THEUSS is a deep house and progressive house artist based in Brazil, tracked on soundcheck, with 6 sets logged across Ibiza, Lisbon and Saopaulo. Often billed alongside Awka, CIOZ and DVS1. Next up: Lux Fragil, Lisbon on Fri 25 Sept.
 
@@ -22,4 +22,4 @@ THEUSS is a deep house and progressive house artist based in Brazil, tracked on 
 
 Awka, CIOZ, DVS1
 
-*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/theuss/)*
+*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/theuss/)*

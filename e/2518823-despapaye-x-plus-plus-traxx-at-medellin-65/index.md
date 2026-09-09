@@ -1,6 +1,6 @@
 # Despapaye x Plus Plus Traxx at Medellin 65
 
-Despapaye x Plus Plus Traxx at Medellin 65 on Sat 12 Sept, Mexicocity. 4 acts on the bill: Gallō, Louie Fresco, Sami Masmoudi and Smooth Selektor. House and Minimal. Preview the line-up and save it on soundcheck.
+Despapaye x Plus Plus Traxx at Medellin 65 on Sat 12 Sept, Mexicocity. 5 acts on the bill: Gallō, Louie Fresco, Sami Masmoudi and Smooth Selektor and 1 more. House and Minimal. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -14,5 +14,6 @@ Despapaye x Plus Plus Traxx at Medellin 65 on Sat 12 Sept, Mexicocity. 4 acts on
 - Louie Fresco
 - Sami Masmoudi
 - Smooth Selektor
+- Zoemalavida
 
 *Source: [soundcheck](https://soundcheck.club/e/2518823-despapaye-x-plus-plus-traxx-at-medellin-65/)*

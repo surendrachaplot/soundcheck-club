@@ -1,6 +1,6 @@
 # VEL (MA)
 
-VEL (MA) is a Techno and Trance artist with 4 upcoming club dates listed on soundcheck as of Tue, 8 Sept 2026, next at Place Jean Rey, Brussels on Sat, 12 Sept 2026.
+VEL (MA) is a Techno and Trance artist with 4 upcoming club dates listed on soundcheck as of Wed, 9 Sept 2026, next at Place Jean Rey, Brussels on Sat, 12 Sept 2026.
 
 VEL (MA) is a techno and trance artist tracked on soundcheck, with 143 sets logged across Amsterdam, Athens, Barcelona and Basel and 38 more. Often billed alongside Anetha, A Strange Wedding and Mac Declos. Next up: Place Jean Rey, Brussels on Sat 12 Sept.
 
@@ -28,4 +28,4 @@ VEL (MA) is a techno and trance artist tracked on soundcheck, with 143 sets logg
 
 Anetha, A Strange Wedding, Mac Declos
 
-*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/vel-ma/)*
+*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/vel-ma/)*

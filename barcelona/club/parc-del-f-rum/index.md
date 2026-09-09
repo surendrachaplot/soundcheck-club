@@ -1,6 +1,6 @@
 # Parc del Fòrum
 
-Parc del Fòrum is a music venue in Barcelona with 5 upcoming nights listed on soundcheck as of Tue, 8 Sept 2026; the next is "KINYXX Open Air Halloween [Balla Barcelona Festival]" on Fri, 30 Oct 2026.
+Parc del Fòrum is a music venue in Barcelona with 5 upcoming nights listed on soundcheck as of Wed, 9 Sept 2026; the next is "KINYXX Open Air Halloween [Balla Barcelona Festival]" on Fri, 30 Oct 2026.
 
 Parc del Fòrum is a music venue in Barcelona listed on soundcheck. 5 upcoming nights, with line-ups including 6EJOU, Claptone, Cristobal Pesce and DYEN and 2 more. Browse upcoming dates, start times and who's playing. Rambla Prim, 2-4; 08019 Barcelona; Spain.
 
@@ -18,4 +18,4 @@ Parc del Fòrum is a music venue in Barcelona listed on soundcheck. 5 upcoming n
 
 Rambla Prim, 2-4; 08019 Barcelona; Spain, Barcelona
 
-*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/parc-del-f-rum/)*
+*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/parc-del-f-rum/)*

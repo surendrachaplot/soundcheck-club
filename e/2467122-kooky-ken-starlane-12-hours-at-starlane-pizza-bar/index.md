@@ -1,6 +1,6 @@
 # Kooky Ken: Starlane (12 Hours) at Starlane Pizza Bar
 
-Kooky Ken: Starlane (12 Hours) at Starlane Pizza Bar on Fri 13 Nov, London. Preview the line-up and save it on soundcheck.
+Kooky Ken: Starlane (12 Hours) at Starlane Pizza Bar on Fri 13 Nov, London. Techno and Minimal. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

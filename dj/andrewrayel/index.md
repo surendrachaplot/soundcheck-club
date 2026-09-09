@@ -1,14 +1,15 @@
 # Andrew Rayel
 
-Andrew Rayel is a Trance and Techno artist with 2 upcoming club dates listed on soundcheck as of Tue, 8 Sept 2026, next at Epic Prague, Prague on Sat, 19 Sept 2026.
+Andrew Rayel is a Trance and Techno artist with 3 upcoming club dates listed on soundcheck as of Wed, 9 Sept 2026, next at Epic Prague, Prague on Sat, 19 Sept 2026.
 
-Andrew Rayel is a trance and techno artist based in Moldova, tracked on soundcheck, with 25 sets logged across Amsterdam, Austin, Denver and Houston and 14 more. Often billed alongside Alesso, Armin van Buuren and Bart Skils. Next up: Epic Prague, Prague on Sat 19 Sept.
+Andrew Rayel is a trance and techno artist based in Moldova, tracked on soundcheck, with 26 sets logged across Amsterdam, Austin, Denver and Houston and 15 more. Often billed alongside Alesso, Armin van Buuren and Bart Skils. Next up: Epic Prague, Prague on Sat 19 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 19 Sept 2026 | Epic Prague | Prague |
+| Sat, 3 Oct 2026 | Tunnel | Milan |
 | Fri, 23 Oct 2026 | Amsterdam Central Station | Amsterdam |
 
 ## Recently played
@@ -26,4 +27,4 @@ Andrew Rayel is a trance and techno artist based in Moldova, tracked on soundche
 
 Alesso, Armin van Buuren, Bart Skils
 
-*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/andrewrayel/)*
+*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/andrewrayel/)*

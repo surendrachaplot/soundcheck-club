@@ -1,14 +1,15 @@
 # Elaheh
 
-Elaheh is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 8 Sept 2026, next at 12 x 12, Bangkok on Fri, 11 Sept 2026.
+Elaheh is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 9 Sept 2026, next at 12 x 12, Bangkok on Fri, 11 Sept 2026.
 
-Elaheh is a house and techno artist based in Thailand, tracked on soundcheck, with 122 sets logged across Bangkok, Hongkong, London and Newyorkcity and 3 more. Often billed alongside DOTT, SaoTeknik and Sarayu. Next up: 12 x 12, Bangkok on Fri 11 Sept.
+Elaheh is a house and techno artist based in Thailand, tracked on soundcheck, with 123 sets logged across Bangkok, Hongkong, London and Newyorkcity and 3 more. Often billed alongside DOTT, SaoTeknik and Sarayu. Next up: 12 x 12, Bangkok on Fri 11 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 11 Sept 2026 | 12 x 12 | Bangkok |
+| Sat, 26 Sept 2026 | Cloud 11 Theater | Bangkok |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Elaheh is a house and techno artist based in Thailand, tracked on soundcheck, wi
 
 DOTT, SaoTeknik, Sarayu
 
-*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/elaheh/)*
+*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/elaheh/)*

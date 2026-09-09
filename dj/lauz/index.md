@@ -1,6 +1,6 @@
 # LAUZ
 
-LAUZ is a Techno and Acid artist with 2 upcoming club dates listed on soundcheck as of Tue, 8 Sept 2026, next at Club 69, Glasgow on Fri, 11 Sept 2026.
+LAUZ is a Techno and Acid artist with 2 upcoming club dates listed on soundcheck as of Wed, 9 Sept 2026, next at Club 69, Glasgow on Fri, 11 Sept 2026.
 
 LAUZ is a techno and acid artist based in United Kingdom, tracked on soundcheck, with 22 sets logged across Edinburgh, Glasgow, Ibiza and London and 2 more. Often billed alongside ASLO, JM-X and 999999999. Next up: Club 69, Glasgow on Fri 11 Sept.
 
@@ -26,4 +26,4 @@ LAUZ is a techno and acid artist based in United Kingdom, tracked on soundcheck,
 
 ASLO, JM-X, 999999999
 
-*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lauz/)*
+*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lauz/)*

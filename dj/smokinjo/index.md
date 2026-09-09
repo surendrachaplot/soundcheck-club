@@ -1,6 +1,6 @@
 # Smokin Jo
 
-Smokin Jo is a House and Disco artist with 3 upcoming club dates listed on soundcheck as of Tue, 8 Sept 2026, next at Night Tales, London on Sat, 19 Sept 2026.
+Smokin Jo is a House and Disco artist with 3 upcoming club dates listed on soundcheck as of Wed, 9 Sept 2026, next at Night Tales, London on Sat, 19 Sept 2026.
 
 Smokin Jo is a house and disco artist tracked on soundcheck, with 54 sets logged across Amsterdam, Bali, Brighton and Edinburgh and 8 more. Often billed alongside Melon Bomb, Melvo Baptiste and Eats Everything. Next up: Night Tales, London on Sat 19 Sept.
 
@@ -27,4 +27,4 @@ Smokin Jo is a house and disco artist tracked on soundcheck, with 54 sets logged
 
 Melon Bomb, Melvo Baptiste, Eats Everything
 
-*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/smokinjo/)*
+*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/smokinjo/)*

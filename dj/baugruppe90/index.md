@@ -1,6 +1,6 @@
 # BAUGRUPPE90
 
-BAUGRUPPE90 is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Tue, 8 Sept 2026, next at Fvtvr, Paris on Sat, 12 Sept 2026.
+BAUGRUPPE90 is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Wed, 9 Sept 2026, next at Fvtvr, Paris on Sat, 12 Sept 2026.
 
 BAUGRUPPE90 is a techno and house artist tracked on soundcheck, with 158 sets logged across Aberdeen, Amsterdam, Athens and Barcelona and 45 more. Often billed alongside EliaHaze, ferrari rot and Anton Jonathan. Next up: Fvtvr, Paris on Sat 12 Sept.
 
@@ -28,4 +28,4 @@ BAUGRUPPE90 is a techno and house artist tracked on soundcheck, with 158 sets lo
 
 EliaHaze, ferrari rot, Anton Jonathan
 
-*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/baugruppe90/)*
+*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/baugruppe90/)*

@@ -1,6 +1,6 @@
 # Speakerbox
 
-Speakerbox is a music venue in Bangkok with 1 upcoming night listed on soundcheck as of Tue, 8 Sept 2026; the next is "BEETZ IN THE BOX" on Sun, 13 Sept 2026.
+Speakerbox is a music venue in Bangkok with 1 upcoming night listed on soundcheck as of Wed, 9 Sept 2026; the next is "BEETZ IN THE BOX" on Sun, 13 Sept 2026.
 
 Speakerbox is a music venue in Bangkok listed on soundcheck. 1 upcoming night, with line-ups including DJ Dragon, JWP., NK Chan (2) and plazdj. Browse upcoming dates, start times and who's playing. 1000 39 40 Thong Lo, Khlong Tan Nuea,Watthana, Bangkok 10110.
 
@@ -14,4 +14,4 @@ Speakerbox is a music venue in Bangkok listed on soundcheck. 1 upcoming night, w
 
 1000 39 40 Thong Lo, Khlong Tan Nuea,Watthana, Bangkok 10110, Bangkok
 
-*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/bangkok/club/speakerbox/)*
+*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/bangkok/club/speakerbox/)*

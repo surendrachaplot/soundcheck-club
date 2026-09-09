@@ -1,6 +1,6 @@
 # Ruby Lou
 
-Ruby Lou is a House and Electronica artist with 2 upcoming club dates listed on soundcheck as of Tue, 8 Sept 2026, next at Turbo422, Melbourne on Sat, 12 Sept 2026.
+Ruby Lou is a House and Electronica artist with 2 upcoming club dates listed on soundcheck as of Wed, 9 Sept 2026, next at Turbo422, Melbourne on Sat, 12 Sept 2026.
 
 Ruby Lou is a house and electronica artist based in Australia, tracked on soundcheck, with 35 sets logged across Auckland and Melbourne. Often billed alongside Slumdog, Slim Maybe and Bubba (2). Next up: Turbo422, Melbourne on Sat 12 Sept.
 
@@ -26,4 +26,4 @@ Ruby Lou is a house and electronica artist based in Australia, tracked on soundc
 
 Slumdog, Slim Maybe, Bubba (2)
 
-*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/rubylou/)*
+*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/rubylou/)*

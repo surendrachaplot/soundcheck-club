@@ -1,6 +1,6 @@
 # Eli Verveine
 
-Eli Verveine is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 8 Sept 2026, next at Nowadays, New York City on Sat, 3 Oct 2026.
+Eli Verveine is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 9 Sept 2026, next at Nowadays, New York City on Sat, 3 Oct 2026.
 
 Eli Verveine is a house and techno artist tracked on soundcheck, with 89 sets logged across Amsterdam, Antwerp, Bali and Bangkok and 18 more. Often billed alongside Gwenan, Vera and Mind Against. Next up: Nowadays, Newyorkcity on Sat 3 Oct.
 
@@ -25,4 +25,4 @@ Eli Verveine is a house and techno artist tracked on soundcheck, with 89 sets lo
 
 Gwenan, Vera, Mind Against
 
-*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/eliverveine/)*
+*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/eliverveine/)*

@@ -1,14 +1,15 @@
 # Djilogue
 
-Djilogue is a Techno and Experimental artist with 2 upcoming club dates listed on soundcheck as of Tue, 8 Sept 2026, next at vurt., Seoul on Sat, 12 Sept 2026.
+Djilogue is a Techno and Experimental artist with 3 upcoming club dates listed on soundcheck as of Wed, 9 Sept 2026, next at vurt., Seoul on Sat, 12 Sept 2026.
 
-Djilogue is a techno and experimental artist tracked on soundcheck, with 78 sets logged across Berlin, London, Osaka and Porto and 2 more. Often billed alongside Knaif, Siot and SUZAN (2). Next up: vurt., Seoul on Sat 12 Sept.
+Djilogue is a techno and experimental artist tracked on soundcheck, with 79 sets logged across Berlin, London, Osaka and Porto and 2 more. Often billed alongside Knaif, Siot and SUZAN (2). Next up: vurt., Seoul on Sat 12 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 12 Sept 2026 | vurt. | Seoul |
+| Thu, 24 Sept 2026 | vurt. | Seoul |
 | Fri, 25 Sept 2026 | vurt. | Seoul |
 
 ## Recently played
@@ -26,4 +27,4 @@ Djilogue is a techno and experimental artist tracked on soundcheck, with 78 sets
 
 Knaif, Siot, SUZAN (2)
 
-*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djilogue/)*
+*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djilogue/)*

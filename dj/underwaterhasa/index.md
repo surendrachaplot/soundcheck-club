@@ -1,6 +1,6 @@
 # Underwaterhasa
 
-Underwaterhasa is a House and Balearic artist with 1 upcoming club date listed on soundcheck as of Tue, 8 Sept 2026, next at Bambi's, Toronto on Fri, 25 Sept 2026.
+Underwaterhasa is a House and Balearic artist with 1 upcoming club date listed on soundcheck as of Wed, 9 Sept 2026, next at Bambi's, Toronto on Fri, 25 Sept 2026.
 
 Underwaterhasa is a house and balearic artist based in South Korea, tracked on soundcheck, with 14 sets logged across Toronto. Often billed alongside Carlos Estebban, UMA DJ and BABL. Next up: Bambi's, Toronto on Fri 25 Sept.
 
@@ -25,4 +25,4 @@ Underwaterhasa is a house and balearic artist based in South Korea, tracked on s
 
 Carlos Estebban, UMA DJ, BABL
 
-*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/underwaterhasa/)*
+*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/underwaterhasa/)*

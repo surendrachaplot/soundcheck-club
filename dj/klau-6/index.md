@@ -1,6 +1,6 @@
 # KLAU (6)
 
-KLAU (6) is a Baile Funk and Electronica artist with 1 upcoming club date listed on soundcheck as of Tue, 8 Sept 2026, next at Club Malasaña, Madrid on Fri, 18 Sept 2026.
+KLAU (6) is a Baile Funk and Electronica artist with 1 upcoming club date listed on soundcheck as of Wed, 9 Sept 2026, next at Club Malasaña, Madrid on Fri, 18 Sept 2026.
 
 KLAU (6) is a baile funk and electronica artist based in Spain, tracked on soundcheck, with 7 sets logged across Madrid, Malaga and Marseille. Often billed alongside Miqui Brightside, Alvaro Cabana and Angelinanyulí. Next up: Club Malasaña, Madrid on Fri 18 Sept.
 
@@ -23,4 +23,4 @@ KLAU (6) is a baile funk and electronica artist based in Spain, tracked on sound
 
 Miqui Brightside, Alvaro Cabana, Angelinanyulí
 
-*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/klau-6/)*
+*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/klau-6/)*

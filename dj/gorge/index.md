@@ -1,6 +1,6 @@
 # Gorge
 
-Gorge is a House and Deep House artist with 2 upcoming club dates listed on soundcheck as of Tue, 8 Sept 2026, next at Sunset Beach Bali, Bali on Sun, 20 Sept 2026.
+Gorge is a House and Deep House artist with 2 upcoming club dates listed on soundcheck as of Wed, 9 Sept 2026, next at Sunset Beach Bali, Bali on Sun, 20 Sept 2026.
 
 Gorge is a house and deep house artist tracked on soundcheck, with 11 sets logged across Auckland, Bali, Barcelona and Copenhagen and 5 more. Often billed alongside Alain Hellion, heSAWyou and Antoine Baiser. Next up: Sunset Beach Bali, Bali on Sun 20 Sept.
 
@@ -26,4 +26,4 @@ Gorge is a house and deep house artist tracked on soundcheck, with 11 sets logge
 
 Alain Hellion, heSAWyou, Antoine Baiser
 
-*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/gorge/)*
+*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/gorge/)*

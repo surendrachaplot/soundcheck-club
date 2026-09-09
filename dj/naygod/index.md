@@ -1,6 +1,6 @@
 # NAYGOD
 
-NAYGOD is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 8 Sept 2026, next at Barra 90, Los Angeles on Sun, 20 Sept 2026.
+NAYGOD is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 9 Sept 2026, next at Barra 90, Los Angeles on Sun, 20 Sept 2026.
 
 NAYGOD is a house and techno artist tracked on soundcheck, with 40 sets logged across Detroit, Losangeles and Newyorkcity. Often billed alongside Miracles, Terrell Brooke and Colored Craig. Next up: Barra 90, Losangeles on Sun 20 Sept.
 
@@ -25,4 +25,4 @@ NAYGOD is a house and techno artist tracked on soundcheck, with 40 sets logged a
 
 Miracles, Terrell Brooke, Colored Craig
 
-*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/naygod/)*
+*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/naygod/)*

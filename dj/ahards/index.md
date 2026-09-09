@@ -1,6 +1,6 @@
 # AHARDS
 
-AHARDS is a Garage and House artist with 1 upcoming club date listed on soundcheck as of Tue, 8 Sept 2026, next at Bricks, London on Fri, 25 Sept 2026.
+AHARDS is a Garage and House artist with 1 upcoming club date listed on soundcheck as of Wed, 9 Sept 2026, next at Bricks, London on Fri, 25 Sept 2026.
 
 AHARDS is a garage and house artist based in United Kingdom, tracked on soundcheck, with 3 sets logged across London. Often billed alongside Knock Down Ginger and RHD (1). Next up: Bricks, London on Fri 25 Sept.
 
@@ -19,4 +19,4 @@ AHARDS is a garage and house artist based in United Kingdom, tracked on soundche
 
 Knock Down Ginger, RHD (1)
 
-*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ahards/)*
+*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ahards/)*

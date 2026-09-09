@@ -1,6 +1,6 @@
 # Fat-P
 
-Fat-P is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Tue, 8 Sept 2026, next at Port Olimpic, Barcelona on Fri, 11 Sept 2026.
+Fat-P is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Wed, 9 Sept 2026, next at Port Olimpic, Barcelona on Fri, 11 Sept 2026.
 
 Fat-P is a techno and house artist based in Argentina, tracked on soundcheck, with 26 sets logged across Barcelona. Often billed alongside SUSØ, Giuliano and Jo Kazan. Next up: Port Olimpic, Barcelona on Fri 11 Sept.
 
@@ -26,4 +26,4 @@ Fat-P is a techno and house artist based in Argentina, tracked on soundcheck, wi
 
 SUSØ, Giuliano, Jo Kazan
 
-*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/fat-p/)*
+*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/fat-p/)*

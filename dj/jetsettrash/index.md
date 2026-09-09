@@ -1,6 +1,6 @@
 # Jetset Trash
 
-Jetset Trash is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 8 Sept 2026, next at Faust, Seoul on Thu, 10 Sept 2026.
+Jetset Trash is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 9 Sept 2026, next at Faust, Seoul on Thu, 10 Sept 2026.
 
 Jetset Trash is a house and techno artist based in South Korea, tracked on soundcheck, with 89 sets logged across Seoul and Tokyo. Often billed alongside DARIMI TABLE, kyogi and JAMIEST. Next up: Faust, Seoul on Thu 10 Sept.
 
@@ -25,4 +25,4 @@ Jetset Trash is a house and techno artist based in South Korea, tracked on sound
 
 DARIMI TABLE, kyogi, JAMIEST
 
-*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jetsettrash/)*
+*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jetsettrash/)*

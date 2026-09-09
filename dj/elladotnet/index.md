@@ -1,6 +1,6 @@
 # Elladotnet
 
-Elladotnet is a Techno and Experimental artist with 1 upcoming club date listed on soundcheck as of Tue, 8 Sept 2026, next at Honey's, New York City on Fri, 18 Sept 2026.
+Elladotnet is a Techno and Experimental artist with 1 upcoming club date listed on soundcheck as of Wed, 9 Sept 2026, next at Honey's, New York City on Fri, 18 Sept 2026.
 
 Elladotnet is a techno and experimental artist based in United States of America, tracked on soundcheck, with 3 sets logged across Newyorkcity. Often billed alongside R-DNA, Aleska and Ariana Roseman. Next up: Honey's, Newyorkcity on Fri 18 Sept.
 
@@ -19,4 +19,4 @@ Elladotnet is a techno and experimental artist based in United States of America
 
 R-DNA, Aleska, Ariana Roseman
 
-*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/elladotnet/)*
+*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/elladotnet/)*

@@ -1,8 +1,8 @@
 # Cristian Varela
 
-Cristian Varela is a Techno and Tech House artist with 3 upcoming club dates listed on soundcheck as of Tue, 8 Sept 2026, next at Plaza de Toros de Toledo, Madrid on Sat, 12 Sept 2026.
+Cristian Varela is a Techno and Tech House artist with 4 upcoming club dates listed on soundcheck as of Wed, 9 Sept 2026, next at Plaza de Toros de Toledo, Madrid on Sat, 12 Sept 2026.
 
-Cristian Varela is a techno and tech house artist tracked on soundcheck, with 68 sets logged across Amsterdam, Barcelona, Belgrade and Berlin and 11 more. Often billed alongside Dj Pepo, Ramiro Lopez and Abel Ramos. Next up: Plaza de Toros de Toledo, Madrid on Sat 12 Sept.
+Cristian Varela is a techno and tech house artist tracked on soundcheck, with 69 sets logged across Amsterdam, Barcelona, Belgrade and Berlin and 11 more. Often billed alongside Dj Pepo, Ramiro Lopez and Abel Ramos. Next up: Plaza de Toros de Toledo, Madrid on Sat 12 Sept.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ Cristian Varela is a techno and tech house artist tracked on soundcheck, with 68
 | Sat, 12 Sept 2026 | Plaza de Toros de Toledo | Madrid |
 | Sat, 26 Sept 2026 | City Hall | Barcelona |
 | Sat, 17 Oct 2026 | Fabrik | Madrid |
+| Sat, 14 Nov 2026 | Barraca | Valencia |
 
 ## Recently played
 
@@ -27,4 +28,4 @@ Cristian Varela is a techno and tech house artist tracked on soundcheck, with 68
 
 Dj Pepo, Ramiro Lopez, Abel Ramos
 
-*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/cristianvarela/)*
+*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/cristianvarela/)*

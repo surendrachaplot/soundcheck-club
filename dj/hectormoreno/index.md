@@ -1,6 +1,6 @@
 # Hector Moreno
 
-Hector Moreno is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Tue, 8 Sept 2026, next at Les Caves des Vollandes, Geneva on Fri, 25 Sept 2026.
+Hector Moreno is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 9 Sept 2026, next at Les Caves des Vollandes, Geneva on Fri, 25 Sept 2026.
 
 Hector Moreno is a house and techno artist based in Switzerland, tracked on soundcheck, with 64 sets logged across Amsterdam, Bali, Berlin and Geneva and 3 more. Often billed alongside Fernando De Matos, Master M and SamC. Next up: Les Caves des Vollandes, Geneva on Fri 25 Sept.
 
@@ -26,4 +26,4 @@ Hector Moreno is a house and techno artist based in Switzerland, tracked on soun
 
 Fernando De Matos, Master M, SamC
 
-*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/hectormoreno/)*
+*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/hectormoreno/)*

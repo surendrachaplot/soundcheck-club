@@ -1,6 +1,6 @@
 # Ana Rs
 
-Ana Rs is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Tue, 8 Sept 2026, next at Upsidedown, Osaka on Sat, 12 Sept 2026.
+Ana Rs is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Wed, 9 Sept 2026, next at Upsidedown, Osaka on Sat, 12 Sept 2026.
 
 Ana Rs is a techno and house artist tracked on soundcheck, with 37 sets logged across Amsterdam, Barcelona, Belgrade and Berlin and 18 more. Often billed alongside CONCEPTUAL, Adriana Lopez and Hadone. Next up: Upsidedown, Osaka on Sat 12 Sept.
 
@@ -26,4 +26,4 @@ Ana Rs is a techno and house artist tracked on soundcheck, with 37 sets logged a
 
 CONCEPTUAL, Adriana Lopez, Hadone
 
-*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/anars/)*
+*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/anars/)*

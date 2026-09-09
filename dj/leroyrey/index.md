@@ -1,6 +1,6 @@
 # Leroy Rey
 
-Leroy Rey is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Tue, 8 Sept 2026, next at Night Tales Loft, London on Fri, 25 Sept 2026.
+Leroy Rey is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Wed, 9 Sept 2026, next at Night Tales Loft, London on Fri, 25 Sept 2026.
 
 Leroy Rey is a house and disco artist tracked on soundcheck, with 80 sets logged across Amsterdam, Antwerp, Berlin and London and 6 more. Often billed alongside Tonno Disko, Eileen (NL) and Laura Meester. Next up: Night Tales Loft, London on Fri 25 Sept.
 
@@ -25,4 +25,4 @@ Leroy Rey is a house and disco artist tracked on soundcheck, with 80 sets logged
 
 Tonno Disko, Eileen (NL), Laura Meester
 
-*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/leroyrey/)*
+*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/leroyrey/)*

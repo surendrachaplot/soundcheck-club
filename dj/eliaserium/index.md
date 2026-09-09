@@ -1,6 +1,6 @@
 # Elias Erium
 
-Elias Erium is a Progressive House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 8 Sept 2026, next at Jardins Gamelin, Montreal on Thu, 10 Sept 2026.
+Elias Erium is a Progressive House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 9 Sept 2026, next at Jardins Gamelin, Montreal on Thu, 10 Sept 2026.
 
 Elias Erium is a progressive house and techno artist tracked on soundcheck, with 11 sets logged across Montreal and Toronto. Often billed alongside 8KAYS, Adam Ten and Enamour. Next up: Jardins Gamelin, Montreal on Thu 10 Sept.
 
@@ -25,4 +25,4 @@ Elias Erium is a progressive house and techno artist tracked on soundcheck, with
 
 8KAYS, Adam Ten, Enamour
 
-*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/eliaserium/)*
+*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/eliaserium/)*

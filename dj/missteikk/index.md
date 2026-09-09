@@ -1,6 +1,6 @@
 # missteikk
 
-missteikk is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 8 Sept 2026, next at TBA - NK, Berlin on Sun, 20 Sept 2026.
+missteikk is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 9 Sept 2026, next at TBA - NK, Berlin on Sun, 20 Sept 2026.
 
 missteikk is a techno and house artist tracked on soundcheck, with 29 sets logged across Berlin, Tbilisi, Warsaw and Zurich. Often billed alongside ulises4000, GOOSINDRA and Rafush. Next up: TBA - NK, Berlin on Sun 20 Sept.
 
@@ -25,4 +25,4 @@ missteikk is a techno and house artist tracked on soundcheck, with 29 sets logge
 
 ulises4000, GOOSINDRA, Rafush
 
-*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/missteikk/)*
+*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/missteikk/)*

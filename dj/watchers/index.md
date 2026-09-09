@@ -1,6 +1,6 @@
 # Watchers
 
-Watchers is a Tech House and House artist with 3 upcoming club dates listed on soundcheck as of Tue, 8 Sept 2026, next at Gallery, London on Thu, 10 Sept 2026.
+Watchers is a Tech House and House artist with 3 upcoming club dates listed on soundcheck as of Wed, 9 Sept 2026, next at Gallery, London on Thu, 10 Sept 2026.
 
 Watchers is a tech house and house artist based in United Kingdom, tracked on soundcheck, with 25 sets logged across Amsterdam, Brighton, Bristol and Glasgow and 6 more. Often billed alongside Ellia Jaya, Julian Fijma and ALISHA. Next up: Gallery, London on Thu 10 Sept.
 
@@ -27,4 +27,4 @@ Watchers is a tech house and house artist based in United Kingdom, tracked on so
 
 Ellia Jaya, Julian Fijma, ALISHA
 
-*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/watchers/)*
+*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/watchers/)*

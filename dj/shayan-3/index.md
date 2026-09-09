@@ -1,6 +1,6 @@
 # shayan
 
-shayan is a electronic artist with 1 upcoming club date listed on soundcheck as of Tue, 8 Sept 2026, next at Paloma, Berlin on Fri, 2 Oct 2026.
+shayan is a electronic artist with 1 upcoming club date listed on soundcheck as of Wed, 9 Sept 2026, next at Paloma, Berlin on Fri, 2 Oct 2026.
 
 shayan is an electronic artist tracked on soundcheck, with 4 sets logged across Berlin. Often billed alongside adodo, Adrian Camilo and Alice (AT). Next up: Paloma, Berlin on Fri 2 Oct.
 
@@ -20,4 +20,4 @@ shayan is an electronic artist tracked on soundcheck, with 4 sets logged across 
 
 adodo, Adrian Camilo, Alice (AT)
 
-*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/shayan-3/)*
+*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/shayan-3/)*

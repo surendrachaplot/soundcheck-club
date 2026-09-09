@@ -1,6 +1,6 @@
 # HALAL 11.9 at La Nau
 
-HALAL 11.9 at La Nau on Fri 11 Sept, Barcelona. 3 acts on the bill: Marika, YoungWoman and Yungfudgy. Electronica. Preview the line-up and save it on soundcheck.
+HALAL 11.9 at La Nau on Fri 11 Sept, Barcelona. 4 acts on the bill: Marika, Restinga, YoungWoman and Yungfudgy. Electronica. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,6 +11,7 @@ HALAL 11.9 at La Nau on Fri 11 Sept, Barcelona. 3 acts on the bill: Marika, Youn
 ## Line-up
 
 - Marika
+- Restinga
 - YoungWoman
 - Yungfudgy
 

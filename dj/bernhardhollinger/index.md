@@ -1,6 +1,6 @@
 # Bernhard Hollinger
 
-Bernhard Hollinger is a Techno and New Wave artist with 1 upcoming club date listed on soundcheck as of Tue, 8 Sept 2026, next at migas, a listening bar, Berlin on Wed, 16 Sept 2026.
+Bernhard Hollinger is a Techno and New Wave artist with 1 upcoming club date listed on soundcheck as of Wed, 9 Sept 2026, next at migas, a listening bar, Berlin on Wed, 16 Sept 2026.
 
 Bernhard Hollinger is a techno and new wave artist tracked on soundcheck, with 9 sets logged across Amsterdam, Berlin, Nurnberg and Tokyo. Often billed alongside AMMNEJAH, Alexia (2) and Alicia Carrera. Next up: migas, a listening bar, Berlin on Wed 16 Sept.
 
@@ -25,4 +25,4 @@ Bernhard Hollinger is a techno and new wave artist tracked on soundcheck, with 9
 
 AMMNEJAH, Alexia (2), Alicia Carrera
 
-*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bernhardhollinger/)*
+*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bernhardhollinger/)*

@@ -1,6 +1,6 @@
 # Eye F
 
-Eye F is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Tue, 8 Sept 2026, next at SASS Music Club, Vienna on Sat, 12 Sept 2026.
+Eye F is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Wed, 9 Sept 2026, next at SASS Music Club, Vienna on Sat, 12 Sept 2026.
 
 Eye F is a tech house and house artist tracked on soundcheck, with 16 sets logged across London and Vienna. Often billed alongside Konman, Rizmo and Alice (AT). Next up: SASS Music Club, Vienna on Sat 12 Sept.
 
@@ -25,4 +25,4 @@ Eye F is a tech house and house artist tracked on soundcheck, with 16 sets logge
 
 Konman, Rizmo, Alice (AT)
 
-*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/eyef/)*
+*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/eyef/)*

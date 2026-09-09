@@ -1,6 +1,6 @@
 # Heidi Sabertooth
 
-Heidi Sabertooth is a Electro and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 8 Sept 2026, next at TBA, New York City on Wed, 16 Sept 2026.
+Heidi Sabertooth is a Electro and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 9 Sept 2026, next at TBA, New York City on Wed, 16 Sept 2026.
 
 Heidi Sabertooth is an electro and techno artist based in United States of America, tracked on soundcheck, with 20 sets logged across Newyorkcity. Often billed alongside L.Sangre, R Gamble and John Barera. Next up: TBA, Newyorkcity on Wed 16 Sept.
 
@@ -25,4 +25,4 @@ Heidi Sabertooth is an electro and techno artist based in United States of Ameri
 
 L.Sangre, R Gamble, John Barera
 
-*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/heidisabertooth/)*
+*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/heidisabertooth/)*

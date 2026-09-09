@@ -1,13 +1,14 @@
 # Idriss D
 
-Idriss D is a House and Techno artist with 6 upcoming club dates listed on soundcheck as of Tue, 8 Sept 2026, next at FOLD, London on Fri, 18 Sept 2026.
+Idriss D is a House and Techno artist with 7 upcoming club dates listed on soundcheck as of Wed, 9 Sept 2026, next at 528 Ibiza, Ibiza on Tue, 15 Sept 2026.
 
-Idriss D is a house and techno artist tracked on soundcheck, with 103 sets logged across Amsterdam, Barcelona, Berlin and Brussels and 19 more. Often billed alongside Carl Craig, Jo-Sie and Omar-S. Next up: FOLD, London on Fri 18 Sept.
+Idriss D is a house and techno artist tracked on soundcheck, with 104 sets logged across Amsterdam, Barcelona, Berlin and Brussels and 19 more. Often billed alongside Carl Craig, Jo-Sie and Omar-S. Next up: 528 Ibiza, Ibiza on Tue 15 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Tue, 15 Sept 2026 | 528 Ibiza | Ibiza |
 | Fri, 18 Sept 2026 | FOLD | London |
 | Sat, 26 Sept 2026 | REC Napoli | Naples |
 | Mon, 28 Sept 2026 | Macarena Club | Barcelona |
@@ -30,4 +31,4 @@ Idriss D is a house and techno artist tracked on soundcheck, with 103 sets logge
 
 Carl Craig, Jo-Sie, Omar-S
 
-*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/idrissd/)*
+*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/idrissd/)*

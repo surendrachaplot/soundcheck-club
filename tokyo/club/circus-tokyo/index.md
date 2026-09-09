@@ -1,6 +1,6 @@
 # Circus Tokyo
 
-Circus Tokyo is a music venue in Tokyo with 11 upcoming nights listed on soundcheck as of Tue, 8 Sept 2026; the next is "OTO 1ST ANNIVERSARY -JOKESONYOU-" on Fri, 11 Sept 2026.
+Circus Tokyo is a music venue in Tokyo with 11 upcoming nights listed on soundcheck as of Wed, 9 Sept 2026; the next is "OTO 1ST ANNIVERSARY -JOKESONYOU-" on Fri, 11 Sept 2026.
 
 Circus Tokyo is a music venue in Tokyo listed on soundcheck. 11 upcoming nights, with line-ups including Kaibshr, Ben Sims, Bou (UK) and Coretex and 2 more. Browse upcoming dates, start times and who's playing. 3-26-16 Shibuya, Shibuya-ku, Tokyo, Japan, 150-0002.
 
@@ -23,4 +23,4 @@ Circus Tokyo is a music venue in Tokyo listed on soundcheck. 11 upcoming nights,
 
 3-26-16 Shibuya, Shibuya-ku, Tokyo, Japan, 150-0002, Tokyo
 
-*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/circus-tokyo/)*
+*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/circus-tokyo/)*

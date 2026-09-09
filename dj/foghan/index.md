@@ -1,6 +1,6 @@
 # Foghan
 
-Foghan is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Tue, 8 Sept 2026, next at Shelter Amsterdam, Amsterdam on Sat, 19 Sept 2026.
+Foghan is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Wed, 9 Sept 2026, next at Shelter Amsterdam, Amsterdam on Sat, 19 Sept 2026.
 
 Foghan is a house and tech house artist based in Netherlands, tracked on soundcheck, with 21 sets logged across Amsterdam, Rotterdam and Utrecht. Often billed alongside Bastienne, Doudou MD and Elias Mazian. Next up: Shelter Amsterdam, Amsterdam on Sat 19 Sept.
 
@@ -26,4 +26,4 @@ Foghan is a house and tech house artist based in Netherlands, tracked on soundch
 
 Bastienne, Doudou MD, Elias Mazian
 
-*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/foghan/)*
+*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/foghan/)*

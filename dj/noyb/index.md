@@ -1,14 +1,15 @@
 # NOYB
 
-NOYB is a Disco and Funk / Soul artist with 1 upcoming club date listed on soundcheck as of Tue, 8 Sept 2026, next at Kings Arms E2, London on Sat, 26 Sept 2026.
+NOYB is a Disco and House artist with 2 upcoming club dates listed on soundcheck as of Wed, 9 Sept 2026, next at Kings Arms E2, London on Sat, 26 Sept 2026.
 
-NOYB is a disco and funk / soul artist based in Italy, tracked on soundcheck, with 35 sets logged across Amsterdam and London. Often billed alongside MAÏS, Benebe and anxiousaaron. Next up: Kings Arms E2, London on Sat 26 Sept.
+NOYB is a disco and house artist based in Italy, tracked on soundcheck, with 36 sets logged across Amsterdam and London. Often billed alongside MAÏS, Benebe and anxiousaaron. Next up: Kings Arms E2, London on Sat 26 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 26 Sept 2026 | Kings Arms E2 | London |
+| Fri, 27 Nov 2026 | Hoxton Cabin | London |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ NOYB is a disco and funk / soul artist based in Italy, tracked on soundcheck, wi
 
 MAÏS, Benebe, anxiousaaron
 
-*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/noyb/)*
+*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/noyb/)*

@@ -1,6 +1,6 @@
 # Otorongo
 
-Otorongo is a Downtempo and Electronica artist with 2 upcoming club dates listed on soundcheck as of Tue, 8 Sept 2026, next at The Metro Theatre, Sydney on Sat, 3 Oct 2026.
+Otorongo is a Downtempo and Electronica artist with 2 upcoming club dates listed on soundcheck as of Wed, 9 Sept 2026, next at The Metro Theatre, Sydney on Sat, 3 Oct 2026.
 
 Otorongo is a downtempo and electronica artist based in Chile, tracked on soundcheck, with 18 sets logged across Barcelona, Brisbane, Melbourne and Sydney. Often billed alongside Cuerpo Negro, Martha van Straaten and Phil Smart. Next up: The Metro Theatre, Sydney on Sat 3 Oct.
 
@@ -26,4 +26,4 @@ Otorongo is a downtempo and electronica artist based in Chile, tracked on soundc
 
 Cuerpo Negro, Martha van Straaten, Phil Smart
 
-*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/otorongo/)*
+*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/otorongo/)*

@@ -1,6 +1,6 @@
 # D. Tiffany
 
-D. Tiffany is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Tue, 8 Sept 2026, next at Camp Kennybrook, New York City on Thu, 10 Sept 2026.
+D. Tiffany is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Wed, 9 Sept 2026, next at Camp Kennybrook, New York City on Thu, 10 Sept 2026.
 
 D. Tiffany is a techno and house artist tracked on soundcheck, with 179 sets logged across Amsterdam, Athens, Austin and Bali and 48 more. Often billed alongside Roza Terenzi, Regularfantasy and Job Jobse. Next up: Camp Kennybrook, Newyorkcity on Thu 10 Sept.
 
@@ -27,4 +27,4 @@ D. Tiffany is a techno and house artist tracked on soundcheck, with 179 sets log
 
 Roza Terenzi, Regularfantasy, Job Jobse
 
-*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/d.tiffany/)*
+*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/d.tiffany/)*

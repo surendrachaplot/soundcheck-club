@@ -1,6 +1,6 @@
 # PARADOX at XOYO
 
-PARADOX at XOYO on Wed 9 Sept, London. 2 acts on the bill: Grittrip and Yuta Yamada. Tech House and Deep House. Preview the line-up and save it on soundcheck.
+PARADOX at XOYO on Wed 9 Sept, London. 3 acts on the bill: Exotico, Grittrip and Yuta Yamada. Tech House and Deep House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ PARADOX at XOYO on Wed 9 Sept, London. 2 acts on the bill: Grittrip and Yuta Yam
 
 ## Line-up
 
+- Exotico
 - Grittrip
 - Yuta Yamada
 

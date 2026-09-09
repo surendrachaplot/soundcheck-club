@@ -1,6 +1,6 @@
 # Maxcherry
 
-Maxcherry is a Garage and House artist with 1 upcoming club date listed on soundcheck as of Tue, 8 Sept 2026, next at TBA, Sydney on Sat, 19 Sept 2026.
+Maxcherry is a Garage and House artist with 1 upcoming club date listed on soundcheck as of Wed, 9 Sept 2026, next at TBA, Sydney on Sat, 19 Sept 2026.
 
 Maxcherry is a garage and house artist tracked on soundcheck, with 14 sets logged across Cologne and Sydney. Often billed alongside Deens, Clifford and Duzi. Next up: TBA, Sydney on Sat 19 Sept.
 
@@ -25,4 +25,4 @@ Maxcherry is a garage and house artist tracked on soundcheck, with 14 sets logge
 
 Deens, Clifford, Duzi
 
-*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/maxcherry/)*
+*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/maxcherry/)*

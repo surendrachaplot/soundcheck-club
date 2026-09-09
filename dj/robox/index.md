@@ -1,6 +1,6 @@
 # Robo X
 
-Robo X is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Tue, 8 Sept 2026, next at Exit Reality, Singapore on Thu, 10 Sept 2026.
+Robo X is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Wed, 9 Sept 2026, next at Exit Reality, Singapore on Thu, 10 Sept 2026.
 
 Robo X is a house and tech house artist tracked on soundcheck, with 11 sets logged across Bangkok, Hongkong, Seoul and Singapore. Often billed alongside Ginger (KR), bunnyman.dogs and Fry Up. Next up: Exit Reality, Singapore on Thu 10 Sept.
 
@@ -25,4 +25,4 @@ Robo X is a house and tech house artist tracked on soundcheck, with 11 sets logg
 
 Ginger (KR), bunnyman.dogs, Fry Up
 
-*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/robox/)*
+*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/robox/)*

@@ -1,6 +1,6 @@
 # Edward Meunier
 
-Edward Meunier is a House and Pop artist with 1 upcoming club date listed on soundcheck as of Tue, 8 Sept 2026, next at Club NYX, Amsterdam on Sat, 26 Sept 2026.
+Edward Meunier is a House and Pop artist with 1 upcoming club date listed on soundcheck as of Wed, 9 Sept 2026, next at Club NYX, Amsterdam on Sat, 26 Sept 2026.
 
 Edward Meunier is a house and pop artist based in Netherlands, tracked on soundcheck, with 3 sets logged across Amsterdam. Often billed alongside Jordy Jordos, MeRas and Babs op de beat. Next up: Club NYX, Amsterdam on Sat 26 Sept.
 
@@ -19,4 +19,4 @@ Edward Meunier is a house and pop artist based in Netherlands, tracked on soundc
 
 Jordy Jordos, MeRas, Babs op de beat
 
-*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/edwardmeunier/)*
+*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/edwardmeunier/)*

@@ -1,6 +1,6 @@
 # Dusky: Signals Tour - Liverpool at Hangar 34
 
-Dusky: Signals Tour - Liverpool at Hangar 34 on Sat 17 Oct, Liverpool. 1 act on the bill: Dusky. Progressive House and House. Preview the line-up and save it on soundcheck.
+Dusky: Signals Tour - Liverpool at Hangar 34 on Sat 17 Oct, Liverpool. 3 acts on the bill: Amy Dabbs, Dusky and Howard. Progressive House and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,8 @@ Dusky: Signals Tour - Liverpool at Hangar 34 on Sat 17 Oct, Liverpool. 1 act on 
 
 ## Line-up
 
+- Amy Dabbs
 - Dusky
+- Howard
 
 *Source: [soundcheck](https://soundcheck.club/e/2472319-dusky-signals-tour-liverpool-at-hangar-34/)*

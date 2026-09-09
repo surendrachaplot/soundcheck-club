@@ -1,8 +1,8 @@
 # Felinae
 
-Felinae is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Tue, 8 Sept 2026, next at Mia Mao, Paris on Sat, 12 Sept 2026.
+Felinae is a Techno and Trance artist with 3 upcoming club dates listed on soundcheck as of Wed, 9 Sept 2026, next at Mia Mao, Paris on Sat, 12 Sept 2026.
 
-Felinae is a techno and trance artist tracked on soundcheck, with 41 sets logged across Barcelona, Berlin, Budapest and Ibiza and 2 more. Often billed alongside Ozzwald, Rowsi and Amøn. Next up: Mia Mao, Paris on Sat 12 Sept.
+Felinae is a techno and trance artist tracked on soundcheck, with 42 sets logged across Barcelona, Berlin, Budapest and Ibiza and 2 more. Often billed alongside Ozzwald, Cobb Douglas and Rowsi. Next up: Mia Mao, Paris on Sat 12 Sept.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Felinae is a techno and trance artist tracked on soundcheck, with 41 sets logged
 | --- | --- | --- |
 | Sat, 12 Sept 2026 | Mia Mao | Paris |
 | Sat, 3 Oct 2026 | Fabrik | Madrid |
+| Sat, 21 Nov 2026 | DETROIT CLUB | Barcelona |
 
 ## Recently played
 
@@ -24,6 +25,6 @@ Felinae is a techno and trance artist tracked on soundcheck, with 41 sets logged
 
 ## Shares bills with
 
-Ozzwald, Rowsi, Amøn
+Ozzwald, Cobb Douglas, Rowsi
 
-*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/felinae/)*
+*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/felinae/)*

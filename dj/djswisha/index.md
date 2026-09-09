@@ -1,8 +1,8 @@
 # DJ SWISHA
 
-DJ SWISHA is a Techno and House artist with 11 upcoming club dates listed on soundcheck as of Tue, 8 Sept 2026, next at Middlesex, Boston on Thu, 10 Sept 2026.
+DJ SWISHA is a Techno and House artist with 12 upcoming club dates listed on soundcheck as of Wed, 9 Sept 2026, next at Middlesex, Boston on Thu, 10 Sept 2026.
 
-DJ SWISHA is a techno and house artist tracked on soundcheck, with 199 sets logged across Amsterdam, Antwerp, Auckland and Austin and 45 more. Often billed alongside Kush Jones, AceMo and MoMA Ready. Next up: Middlesex, Boston on Thu 10 Sept.
+DJ SWISHA is a techno and house artist tracked on soundcheck, with 200 sets logged across Amsterdam, Antwerp, Auckland and Austin and 45 more. Often billed alongside Kush Jones, AceMo and MoMA Ready. Next up: Middlesex, Boston on Thu 10 Sept.
 
 ## Upcoming shows
 
@@ -17,6 +17,7 @@ DJ SWISHA is a techno and house artist tracked on soundcheck, with 199 sets logg
 | Fri, 9 Oct 2026 | Ampere | Antwerp |
 | Sat, 10 Oct 2026 | KABUL à GoGo | Utrecht |
 | Fri, 16 Oct 2026 | Palais | London |
+| Thu, 22 Oct 2026 | SISSI'S Amsterdam | Amsterdam |
 | Fri, 23 Oct 2026 | Hidden | Manchester |
 | Sat, 14 Nov 2026 | Kremwerk-Timbre Room-Cherry Complex | Seattle |
 
@@ -35,4 +36,4 @@ DJ SWISHA is a techno and house artist tracked on soundcheck, with 199 sets logg
 
 Kush Jones, AceMo, MoMA Ready
 
-*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djswisha/)*
+*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djswisha/)*

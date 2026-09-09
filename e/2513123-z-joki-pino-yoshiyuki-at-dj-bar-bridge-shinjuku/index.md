@@ -1,6 +1,6 @@
 # 永z遼, JOKI, PInO & Yoshiyuki at DJ Bar Bridge Shinjuku
 
-永z遼, JOKI, PInO & Yoshiyuki at DJ Bar Bridge Shinjuku on Wed 7 Oct, Tokyo. 1 act on the bill: JOKI. House. Preview the line-up and save it on soundcheck.
+永z遼, JOKI, PInO & Yoshiyuki at DJ Bar Bridge Shinjuku on Wed 7 Oct, Tokyo. 2 acts on the bill: JOKI and 永z遼 / Ryo Nagase. House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,5 +11,6 @@
 ## Line-up
 
 - JOKI
+- 永z遼 / Ryo Nagase
 
 *Source: [soundcheck](https://soundcheck.club/e/2513123-z-joki-pino-yoshiyuki-at-dj-bar-bridge-shinjuku/)*

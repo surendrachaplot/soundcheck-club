@@ -1,6 +1,6 @@
 # Randy Deshaies
 
-Randy Deshaies is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Tue, 8 Sept 2026, next at American Legion Marsh Post #442, Boston on Sat, 3 Oct 2026.
+Randy Deshaies is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Wed, 9 Sept 2026, next at American Legion Marsh Post #442, Boston on Sat, 3 Oct 2026.
 
 Randy Deshaies is a house and disco artist tracked on soundcheck, with 7 sets logged across Boston and Seattle. Often billed alongside Doza, Michael Manahan and Pezzner. Next up: American Legion Marsh Post #442, Boston on Sat 3 Oct.
 
@@ -23,4 +23,4 @@ Randy Deshaies is a house and disco artist tracked on soundcheck, with 7 sets lo
 
 Doza, Michael Manahan, Pezzner
 
-*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/randydeshaies/)*
+*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/randydeshaies/)*

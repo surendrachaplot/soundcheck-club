@@ -1,6 +1,6 @@
 # Minjoon
 
-Minjoon is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 8 Sept 2026, next at vurt., Seoul on Fri, 18 Sept 2026.
+Minjoon is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 9 Sept 2026, next at vurt., Seoul on Fri, 18 Sept 2026.
 
 Minjoon is a techno and house artist tracked on soundcheck, with 90 sets logged across Seoul and Tokyo. Often billed alongside Nujeat, Zeemen and Kim.Qna. Next up: vurt., Seoul on Fri 18 Sept.
 
@@ -25,4 +25,4 @@ Minjoon is a techno and house artist tracked on soundcheck, with 90 sets logged 
 
 Nujeat, Zeemen, Kim.Qna
 
-*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/minjoon/)*
+*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/minjoon/)*

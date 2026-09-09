@@ -1,6 +1,6 @@
 # Avalon Cafe Bermondsey
 
-Avalon Cafe Bermondsey is a music venue in London with 6 upcoming nights listed on soundcheck as of Tue, 8 Sept 2026; the next is "Small Car NRG" on Sat, 12 Sept 2026.
+Avalon Cafe Bermondsey is a music venue in London with 6 upcoming nights listed on soundcheck as of Wed, 9 Sept 2026; the next is "Small Car NRG" on Sat, 12 Sept 2026.
 
 Avalon Cafe Bermondsey is a music venue in London listed on soundcheck. 6 upcoming nights, with line-ups including Alex Iza, Isaac Frost, Junior Buzz and Kristina May (4) and 2 more. Browse upcoming dates, start times and who's playing. Unit D, Industrial Estate, Juno Way, London SE14 5RW, United Kingdom.
 
@@ -19,4 +19,4 @@ Avalon Cafe Bermondsey is a music venue in London listed on soundcheck. 6 upcomi
 
 Unit D, Industrial Estate, Juno Way, London SE14 5RW, United Kingdom, London
 
-*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/avalon-cafe-bermondsey/)*
+*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/avalon-cafe-bermondsey/)*

@@ -1,6 +1,6 @@
 # Wata Igarashi
 
-Wata Igarashi is a Techno and House artist with 15 upcoming club dates listed on soundcheck as of Tue, 8 Sept 2026, next at THE MAGICK BAR, Rome on Sat, 12 Sept 2026.
+Wata Igarashi is a Techno and House artist with 15 upcoming club dates listed on soundcheck as of Wed, 9 Sept 2026, next at THE MAGICK BAR, Rome on Sat, 12 Sept 2026.
 
 Wata Igarashi is a techno and house artist tracked on soundcheck, with 207 sets logged across Amsterdam, Athens, Barcelona and Basel and 51 more. Often billed alongside DJ Nobu, CCL and Octo Octa. Next up: THE MAGICK BAR, Rome on Sat 12 Sept.
 
@@ -36,4 +36,4 @@ Wata Igarashi is a techno and house artist tracked on soundcheck, with 207 sets 
 
 DJ Nobu, CCL, Octo Octa
 
-*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/wataigarashi/)*
+*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/wataigarashi/)*

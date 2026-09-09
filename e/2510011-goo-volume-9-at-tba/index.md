@@ -1,6 +1,6 @@
 # Goo Volume 9 at TBA
 
-Goo Volume 9 at TBA on Sat 26 Sept, Sydney. 3 acts on the bill: Daura, miss behave and Reggie. Trance and Techno. Preview the line-up and save it on soundcheck.
+Goo Volume 9 at TBA on Sat 26 Sept, Sydney. 4 acts on the bill: Daura, Jono Xidias, miss behave and Reggie. Trance and Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,6 +11,7 @@ Goo Volume 9 at TBA on Sat 26 Sept, Sydney. 3 acts on the bill: Daura, miss beha
 ## Line-up
 
 - Daura
+- Jono Xidias
 - miss behave
 - Reggie
 

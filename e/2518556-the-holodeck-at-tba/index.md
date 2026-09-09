@@ -1,6 +1,6 @@
 # The Holodeck at TBA
 
-The Holodeck at TBA on Fri 2 Oct, Detroit. 1 act on the bill: DJ Holographic. Techno and House. Preview the line-up and save it on soundcheck.
+The Holodeck at TBA on Fri 2 Oct, Detroit. 3 acts on the bill: ASL Princess, Chachi Guerrero and DJ Holographic. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,8 @@ The Holodeck at TBA on Fri 2 Oct, Detroit. 1 act on the bill: DJ Holographic. Te
 
 ## Line-up
 
+- ASL Princess
+- Chachi Guerrero
 - DJ Holographic
 
 *Source: [soundcheck](https://soundcheck.club/e/2518556-the-holodeck-at-tba/)*

@@ -1,14 +1,15 @@
 # Faxtory
 
-Faxtory is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Tue, 8 Sept 2026, next at 宀 Club, Hong Kong on Sat, 12 Sept 2026.
+Faxtory is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Wed, 9 Sept 2026, next at 宀 Club, Hong Kong on Sat, 12 Sept 2026.
 
-Faxtory is a techno and house artist tracked on soundcheck, with 48 sets logged across Hongkong and Tokyo. Often billed alongside Scott B, Jordy Lee and Konnection. Next up: 宀 Club, Hongkong on Sat 12 Sept.
+Faxtory is a techno and house artist tracked on soundcheck, with 49 sets logged across Hongkong and Tokyo. Often billed alongside Scott B, Jordy Lee and Konnection. Next up: 宀 Club, Hongkong on Sat 12 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 12 Sept 2026 | 宀 Club | Hong Kong |
+| Fri, 2 Oct 2026 | TBA | Hong Kong |
 | Fri, 27 Nov 2026 | 宀 Club | Hong Kong |
 
 ## Recently played
@@ -26,4 +27,4 @@ Faxtory is a techno and house artist tracked on soundcheck, with 48 sets logged 
 
 Scott B, Jordy Lee, Konnection
 
-*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/faxtory/)*
+*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/faxtory/)*

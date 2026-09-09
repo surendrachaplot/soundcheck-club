@@ -1,6 +1,6 @@
 # Sasa
 
-Sasa is a Techno and Minimal Techno artist with 3 upcoming club dates listed on soundcheck as of Tue, 8 Sept 2026, next at Rex Club, Paris on Wed, 9 Sept 2026.
+Sasa is a Techno and Minimal Techno artist with 3 upcoming club dates listed on soundcheck as of Wed, 9 Sept 2026, next at Rex Club, Paris on Wed, 9 Sept 2026.
 
 Sasa is a techno and minimal techno artist based in Germany, tracked on soundcheck, with 10 sets logged across Belgrade, Berlin and Paris. Often billed alongside Sasa (FR), Andrea Ferlin and Aleexe. Next up: Rex Club, Paris on Wed 9 Sept.
 
@@ -26,4 +26,4 @@ Sasa is a techno and minimal techno artist based in Germany, tracked on soundche
 
 Sasa (FR), Andrea Ferlin, Aleexe
 
-*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sasa/)*
+*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sasa/)*

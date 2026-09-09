@@ -1,8 +1,8 @@
 # Mia Mao
 
-Mia Mao is a music venue in Paris with 14 upcoming nights listed on soundcheck as of Tue, 8 Sept 2026; the next is "Deepsea Grooves: TAKEOVER DKO RECORDS, LA RUCHE, STO & MORE" on Thu, 10 Sept 2026.
+Mia Mao is a music venue in Paris with 15 upcoming nights listed on soundcheck as of Wed, 9 Sept 2026; the next is "Deepsea Grooves: TAKEOVER DKO RECORDS, LA RUCHE, STO & MORE" on Thu, 10 Sept 2026.
 
-Mia Mao is a music venue in Paris listed on soundcheck. 14 upcoming nights, with line-ups including Adame DJ, Alba Franch, Alex Nantaya and Amine S and 2 more. Browse upcoming dates, start times and who's playing. 12a rue Ella Fitzgerald, 75019, Paris, FRANCE.
+Mia Mao is a music venue in Paris listed on soundcheck. 15 upcoming nights, with line-ups including Adame DJ, Alba Franch, Alex Nantaya and Amine S and 2 more. Browse upcoming dates, start times and who's playing. 12a rue Ella Fitzgerald, 75019, Paris, FRANCE.
 
 ## What's on
 
@@ -23,4 +23,4 @@ Mia Mao is a music venue in Paris listed on soundcheck. 14 upcoming nights, with
 
 12a rue Ella Fitzgerald, 75019, Paris, FRANCE, Paris
 
-*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/paris/club/mia-mao/)*
+*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/paris/club/mia-mao/)*

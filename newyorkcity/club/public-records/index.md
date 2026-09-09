@@ -1,6 +1,6 @@
 # public records
 
-public records is a music venue in New York City with 30 upcoming nights listed on soundcheck as of Tue, 8 Sept 2026; the next is "Luke Hess, Michelle Kay / Simone de Kunovich / Emsho" on Fri, 11 Sept 2026.
+public records is a music venue in New York City with 30 upcoming nights listed on soundcheck as of Wed, 9 Sept 2026; the next is "Luke Hess, Michelle Kay / Simone de Kunovich / Emsho" on Fri, 11 Sept 2026.
 
 public records is a music venue in Newyorkcity listed on soundcheck. 30 upcoming nights, with line-ups including MORENXXX, Paula Tape, Abby Echiverri and Afrikan Sciences and 2 more. Browse upcoming dates, start times and who's playing. 233 Butler St, Brooklyn, NY 11217, USA.
 
@@ -23,4 +23,4 @@ public records is a music venue in Newyorkcity listed on soundcheck. 30 upcoming
 
 233 Butler St, Brooklyn, NY 11217, USA, New York City
 
-*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/public-records/)*
+*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/public-records/)*

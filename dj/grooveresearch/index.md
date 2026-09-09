@@ -1,0 +1,28 @@
+# Groove Research
+
+Groove Research is a Progressive House and Electro artist with 1 upcoming club date listed on soundcheck as of Wed, 9 Sept 2026, next at Dr. Dou Social Club, Barcelona on Sat, 12 Sept 2026.
+
+Groove Research is a progressive house and electro artist tracked on soundcheck, with 40 sets logged across Barcelona and Tallinn. Often billed alongside Andrea Love, RuxXandra and Abdul Raeva. Next up: Dr. Dou Social Club, Barcelona on Sat 12 Sept.
+
+## Upcoming shows
+
+| Date | Venue | City |
+| --- | --- | --- |
+| Sat, 12 Sept 2026 | Dr. Dou Social Club | Barcelona |
+
+## Recently played
+
+- Tšungel, Tallinn — Thu, 13 Aug 2026
+- Dr. Dou Social Club, Barcelona — Sun, 18 Jan 2026
+- TBA - Verne: C/ Aribau 150, Barcelona — Sat, 11 Oct 2025
+- Dr. Dou Social Club, Barcelona — Fri, 12 Sept 2025
+- Tšungel, Tallinn — Fri, 13 Jun 2025
+- Tšungel, Tallinn — Sat, 31 May 2025
+- Bar IDA, Tallinn — Fri, 14 Mar 2025
+- Dr. Dou Social Club, Barcelona — Wed, 12 Feb 2025
+
+## Shares bills with
+
+Andrea Love, RuxXandra, Abdul Raeva
+
+*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/grooveresearch/)*

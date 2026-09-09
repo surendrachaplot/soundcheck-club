@@ -1,13 +1,14 @@
 # Matt Radovich
 
-Matt Radovich is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 8 Sept 2026, next at Music Room, Melbourne on Thu, 17 Sept 2026.
+Matt Radovich is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Wed, 9 Sept 2026, next at Glamorama, Melbourne on Sat, 12 Sept 2026.
 
-Matt Radovich is a techno and house artist tracked on soundcheck, with 78 sets logged across Melbourne. Often billed alongside Craig McWhinney, Mike Callander and Acid Safari. Next up: Music Room, Melbourne on Thu 17 Sept.
+Matt Radovich is a techno and house artist tracked on soundcheck, with 79 sets logged across Melbourne. Often billed alongside Craig McWhinney, Mike Callander and Acid Safari. Next up: Glamorama, Melbourne on Sat 12 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 12 Sept 2026 | Glamorama | Melbourne |
 | Thu, 17 Sept 2026 | Music Room | Melbourne |
 
 ## Recently played
@@ -25,4 +26,4 @@ Matt Radovich is a techno and house artist tracked on soundcheck, with 78 sets l
 
 Craig McWhinney, Mike Callander, Acid Safari
 
-*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mattradovich/)*
+*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mattradovich/)*

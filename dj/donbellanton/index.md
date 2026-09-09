@@ -1,6 +1,6 @@
 # Don Bellanton
 
-Don Bellanton is a electronic artist with 1 upcoming club date listed on soundcheck as of Tue, 8 Sept 2026, next at Cova Santa, Ibiza on Thu, 17 Sept 2026.
+Don Bellanton is a electronic artist with 1 upcoming club date listed on soundcheck as of Wed, 9 Sept 2026, next at Cova Santa, Ibiza on Thu, 17 Sept 2026.
 
 Don Bellanton is an electronic artist tracked on soundcheck, with 9 sets logged across Barcelona, Ibiza and Madrid. Often billed alongside Mar-T, AGELESS and Alvaro Medina. Next up: Cova Santa, Ibiza on Thu 17 Sept.
 
@@ -25,4 +25,4 @@ Don Bellanton is an electronic artist tracked on soundcheck, with 9 sets logged 
 
 Mar-T, AGELESS, Alvaro Medina
 
-*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/donbellanton/)*
+*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/donbellanton/)*

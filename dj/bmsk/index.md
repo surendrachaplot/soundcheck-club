@@ -1,13 +1,14 @@
 # BMSK
 
-BMSK is a Techno and Acid artist with 1 upcoming club date listed on soundcheck as of Tue, 8 Sept 2026, next at Astron Club, Athens on Fri, 9 Oct 2026.
+BMSK is a Techno and Acid artist with 2 upcoming club dates listed on soundcheck as of Wed, 9 Sept 2026, next at Astron Club, Athens on Fri, 25 Sept 2026.
 
-BMSK is a techno and acid artist based in Greece, tracked on soundcheck, with 95 sets logged across Athens and Berlin. Often billed alongside JERM, IMPVLSIV and Mr.M. Next up: Astron Club, Athens on Fri 9 Oct.
+BMSK is a techno and acid artist based in Greece, tracked on soundcheck, with 96 sets logged across Athens and Berlin. Often billed alongside JERM, IMPVLSIV and Mr.M. Next up: Astron Club, Athens on Fri 25 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 25 Sept 2026 | Astron Club | Athens |
 | Fri, 9 Oct 2026 | Astron Club | Athens |
 
 ## Recently played
@@ -25,4 +26,4 @@ BMSK is a techno and acid artist based in Greece, tracked on soundcheck, with 95
 
 JERM, IMPVLSIV, Mr.M
 
-*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bmsk/)*
+*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bmsk/)*

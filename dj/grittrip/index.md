@@ -1,6 +1,6 @@
 # Grittrip
 
-Grittrip is a Deep House and Tech House artist with 1 upcoming club date listed on soundcheck as of Tue, 8 Sept 2026, next at XOYO, London on Wed, 9 Sept 2026.
+Grittrip is a Deep House and Tech House artist with 1 upcoming club date listed on soundcheck as of Wed, 9 Sept 2026, next at XOYO, London on Wed, 9 Sept 2026.
 
 Grittrip is a deep house and tech house artist based in Italy, tracked on soundcheck, with 50 sets logged across Barcelona, Ibiza, London and Madrid and 1 more. Often billed alongside Andrea Giudice, Piticu and Yuta Yamada. Next up: XOYO, London on Wed 9 Sept.
 
@@ -25,4 +25,4 @@ Grittrip is a deep house and tech house artist based in Italy, tracked on soundc
 
 Andrea Giudice, Piticu, Yuta Yamada
 
-*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/grittrip/)*
+*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/grittrip/)*

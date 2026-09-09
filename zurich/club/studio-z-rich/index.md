@@ -1,6 +1,6 @@
 # Studio Zürich
 
-Studio Zürich is a music venue in Zurich with 3 upcoming nights listed on soundcheck as of Tue, 8 Sept 2026; the next is "Carla Durisch | LUKA STAEM (TANZEN6000)" on Sat, 12 Sept 2026.
+Studio Zürich is a music venue in Zurich with 3 upcoming nights listed on soundcheck as of Wed, 9 Sept 2026; the next is "Carla Durisch | LUKA STAEM (TANZEN6000)" on Sat, 12 Sept 2026.
 
 Studio Zürich is a music venue in Zurich listed on soundcheck. 3 upcoming nights, with line-ups including Carla Durisch, Kalabrese, Les Deux and Luka (CH). Browse upcoming dates, start times and who's playing. Geroldstrasse 15, 8005 Zürich.
 
@@ -16,4 +16,4 @@ Studio Zürich is a music venue in Zurich listed on soundcheck. 3 upcoming night
 
 Geroldstrasse 15, 8005 Zürich, Zurich
 
-*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/zurich/club/studio-z-rich/)*
+*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/zurich/club/studio-z-rich/)*

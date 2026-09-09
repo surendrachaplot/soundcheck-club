@@ -1,6 +1,6 @@
 # Kiernan Laveaux
 
-Kiernan Laveaux is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Tue, 8 Sept 2026, next at Fort Mifflin, Philadelphia on Fri, 18 Sept 2026.
+Kiernan Laveaux is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Wed, 9 Sept 2026, next at Fort Mifflin, Philadelphia on Fri, 18 Sept 2026.
 
 Kiernan Laveaux is a techno and house artist tracked on soundcheck, with 135 sets logged across Amsterdam, Barcelona, Berlin and Bristol and 23 more. Often billed alongside ADAB, CCL and Clarisa Kimskii. Next up: Fort Mifflin, Philadelphia on Fri 18 Sept.
 
@@ -29,4 +29,4 @@ Kiernan Laveaux is a techno and house artist tracked on soundcheck, with 135 set
 
 ADAB, CCL, Clarisa Kimskii
 
-*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kiernanlaveaux/)*
+*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kiernanlaveaux/)*

@@ -1,6 +1,6 @@
 # nonock
 
-nonock is a Techno and Hardcore artist with 1 upcoming club date listed on soundcheck as of Tue, 8 Sept 2026, next at M-BIA, Berlin on Fri, 18 Sept 2026.
+nonock is a Techno and Hardcore artist with 1 upcoming club date listed on soundcheck as of Wed, 9 Sept 2026, next at M-BIA, Berlin on Fri, 18 Sept 2026.
 
 nonock is a techno and hardcore artist based in Germany, tracked on soundcheck, with 4 sets logged across Berlin and Frankfurt. Often billed alongside Kennysutra, Popsen and Refl3ction. Next up: M-BIA, Berlin on Fri 18 Sept.
 
@@ -20,4 +20,4 @@ nonock is a techno and hardcore artist based in Germany, tracked on soundcheck, 
 
 Kennysutra, Popsen, Refl3ction
 
-*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nonock/)*
+*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nonock/)*

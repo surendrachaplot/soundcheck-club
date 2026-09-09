@@ -1,6 +1,6 @@
-# Netham Trax w/ Jay Carder  Sir Hiss  Residents at The Red Church
+# Netham Trax w/ Jay Carder, Sir Hiss & Residents at The Red Church
 
-Netham Trax w/ Jay Carder  Sir Hiss  Residents at The Red Church on Sat 24 Oct, Bristol. 2 acts on the bill: Jay Carder and Sir Hiss. Bass and Grime. Preview the line-up and save it on soundcheck.
+Netham Trax w/ Jay Carder, Sir Hiss & Residents at The Red Church on Sat 24 Oct, Bristol. 2 acts on the bill: Jay Carder and Sir Hiss. Bass and Grime. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

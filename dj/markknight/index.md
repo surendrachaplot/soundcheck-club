@@ -1,6 +1,6 @@
 # Mark Knight
 
-Mark Knight is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Tue, 8 Sept 2026, next at Revolver Upstairs, Melbourne on Sun, 13 Sept 2026.
+Mark Knight is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Wed, 9 Sept 2026, next at Revolver Upstairs, Melbourne on Sun, 13 Sept 2026.
 
 Mark Knight is a house and tech house artist based in United Kingdom, tracked on soundcheck, with 77 sets logged across Amsterdam, Austin, Barcelona and Chicago and 22 more. Often billed alongside Martin Ikin, Gene Farris and CASSIMM. Next up: Revolver Upstairs, Melbourne on Sun 13 Sept.
 
@@ -26,4 +26,4 @@ Mark Knight is a house and tech house artist based in United Kingdom, tracked on
 
 Martin Ikin, Gene Farris, CASSIMM
 
-*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/markknight/)*
+*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/markknight/)*

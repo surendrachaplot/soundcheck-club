@@ -1,8 +1,8 @@
 # Giammarco Orsini
 
-Giammarco Orsini is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Tue, 8 Sept 2026, next at Bunker, Turin on Sat, 12 Sept 2026.
+Giammarco Orsini is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Wed, 9 Sept 2026, next at Bunker, Turin on Sat, 12 Sept 2026.
 
-Giammarco Orsini is a house and techno artist tracked on soundcheck, with 167 sets logged across Amsterdam, Austin, Bangkok and Barcelona and 37 more. Often billed alongside PARAMIDA, Anthea and Marcolino. Next up: Bunker, Turin on Sat 12 Sept.
+Giammarco Orsini is a house and techno artist tracked on soundcheck, with 168 sets logged across Amsterdam, Austin, Bangkok and Barcelona and 37 more. Often billed alongside PARAMIDA, Anthea and Marcolino. Next up: Bunker, Turin on Sat 12 Sept.
 
 ## Upcoming shows
 
@@ -12,6 +12,7 @@ Giammarco Orsini is a house and techno artist tracked on soundcheck, with 167 se
 | Fri, 25 Sept 2026 | Platforma Wolff | Bucharest |
 | Sat, 17 Oct 2026 | Night Tales | London |
 | Fri, 23 Oct 2026 | Klaproos | Amsterdam |
+| Sat, 24 Oct 2026 | TILLATEC | Amsterdam |
 
 ## Recently played
 
@@ -28,4 +29,4 @@ Giammarco Orsini is a house and techno artist tracked on soundcheck, with 167 se
 
 PARAMIDA, Anthea, Marcolino
 
-*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/giammarcoorsini/)*
+*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/giammarcoorsini/)*

@@ -1,6 +1,6 @@
 # Danilo Filipe
 
-Danilo Filipe is a Techno and Trance artist with 4 upcoming club dates listed on soundcheck as of Tue, 8 Sept 2026, next at Bahnwärter Thiel, Munich on Fri, 18 Sept 2026.
+Danilo Filipe is a Techno and Trance artist with 4 upcoming club dates listed on soundcheck as of Wed, 9 Sept 2026, next at Bahnwärter Thiel, Munich on Fri, 18 Sept 2026.
 
 Danilo Filipe is a techno and trance artist tracked on soundcheck, with 14 sets logged across Berlin, Cologne, Lisbon and Munich. Often billed alongside Antonym, Athina and Bobaz Lobster. Next up: Bahnwärter Thiel, Munich on Fri 18 Sept.
 
@@ -28,4 +28,4 @@ Danilo Filipe is a techno and trance artist tracked on soundcheck, with 14 sets 
 
 Antonym, Athina, Bobaz Lobster
 
-*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/danilofilipe/)*
+*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/danilofilipe/)*

@@ -1,6 +1,6 @@
 # Madarae San Francisco
 
-Madarae San Francisco is a music venue in San Francisco/Oakland with 5 upcoming nights listed on soundcheck as of Tue, 8 Sept 2026; the next is "Amour Propre (Indie Dance, Melodic House & Afro House) at MadaRae" on Fri, 11 Sept 2026.
+Madarae San Francisco is a music venue in San Francisco/Oakland with 5 upcoming nights listed on soundcheck as of Wed, 9 Sept 2026; the next is "Amour Propre (Indie Dance, Melodic House & Afro House) at MadaRae" on Fri, 11 Sept 2026.
 
 Madarae San Francisco is a music venue in Sanfrancisco listed on soundcheck. 5 upcoming nights, with line-ups including Amour Propre, Black V Neck, JLittle and MAGA and 2 more. Browse upcoming dates, start times and who's playing. 46 Minna St, San Francisco, CA 94105, United States.
 
@@ -18,4 +18,4 @@ Madarae San Francisco is a music venue in Sanfrancisco listed on soundcheck. 5 u
 
 46 Minna St, San Francisco, CA 94105, United States, San Francisco/Oakland
 
-*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/madarae-san-francisco/)*
+*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/madarae-san-francisco/)*

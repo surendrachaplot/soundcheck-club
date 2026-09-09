@@ -1,13 +1,14 @@
 # Mx. Blaire
 
-Mx. Blaire is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 8 Sept 2026, next at Bajes Amsterdam, Amsterdam on Sat, 24 Oct 2026.
+Mx. Blaire is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 9 Sept 2026, next at Sans Soleil, Montreal on Thu, 10 Sept 2026.
 
-Mx. Blaire is a house and techno artist tracked on soundcheck, with 52 sets logged across Amsterdam, Berlin, Boston and Chicago and 4 more. Often billed alongside Adam Unknown, Jordan Graham and Math3ca. Next up: Bajes Amsterdam, Amsterdam on Sat 24 Oct.
+Mx. Blaire is a house and techno artist tracked on soundcheck, with 53 sets logged across Amsterdam, Berlin, Boston and Chicago and 4 more. Often billed alongside Adam Unknown, Jordan Graham and Math3ca. Next up: Sans Soleil, Montreal on Thu 10 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Thu, 10 Sept 2026 | Sans Soleil | Montreal |
 | Sat, 24 Oct 2026 | Bajes Amsterdam | Amsterdam |
 
 ## Recently played
@@ -25,4 +26,4 @@ Mx. Blaire is a house and techno artist tracked on soundcheck, with 52 sets logg
 
 Adam Unknown, Jordan Graham, Math3ca
 
-*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mxblaire/)*
+*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mxblaire/)*

@@ -1,14 +1,15 @@
 # Serrian
 
-Serrian is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 8 Sept 2026, next at Jupiter Disco, New York City on Wed, 16 Sept 2026.
+Serrian is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 9 Sept 2026, next at Jupiter Disco, New York City on Wed, 16 Sept 2026.
 
-Serrian is a house and techno artist tracked on soundcheck, with 55 sets logged across Chicago, Newyorkcity, Philadelphia and Tokyo. Often billed alongside Dio Garcia, Aria Pash and Ben Zo. Next up: Jupiter Disco, Newyorkcity on Wed 16 Sept.
+Serrian is a house and techno artist tracked on soundcheck, with 56 sets logged across Chicago, Newyorkcity, Philadelphia and Tokyo. Often billed alongside Dio Garcia, Aria Pash and Ben Zo. Next up: Jupiter Disco, Newyorkcity on Wed 16 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Wed, 16 Sept 2026 | Jupiter Disco | New York City |
+| Fri, 23 Oct 2026 | Dead Letter No. 9 | New York City |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Serrian is a house and techno artist tracked on soundcheck, with 55 sets logged 
 
 Dio Garcia, Aria Pash, Ben Zo
 
-*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/serrian/)*
+*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/serrian/)*

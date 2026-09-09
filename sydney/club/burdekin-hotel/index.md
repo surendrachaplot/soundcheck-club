@@ -1,6 +1,6 @@
 # Burdekin Hotel
 
-Burdekin Hotel is a music venue in Sydney with 3 upcoming nights listed on soundcheck as of Tue, 8 Sept 2026; the next is "Surry HQ: Burdekin Rnd 2" on Fri, 11 Sept 2026.
+Burdekin Hotel is a music venue in Sydney with 3 upcoming nights listed on soundcheck as of Wed, 9 Sept 2026; the next is "Surry HQ: Burdekin Rnd 2" on Fri, 11 Sept 2026.
 
 Burdekin Hotel is a music venue in Sydney listed on soundcheck. 3 upcoming nights. Browse upcoming dates, start times and who's playing. 2 Oxford St; Darlinghurst, NSW 2010; Australia.
 
@@ -16,4 +16,4 @@ Burdekin Hotel is a music venue in Sydney listed on soundcheck. 3 upcoming night
 
 2 Oxford St; Darlinghurst, NSW 2010; Australia, Sydney
 
-*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/sydney/club/burdekin-hotel/)*
+*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/sydney/club/burdekin-hotel/)*

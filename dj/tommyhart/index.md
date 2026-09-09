@@ -1,13 +1,14 @@
 # Tommy Hart
 
-Tommy Hart is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 8 Sept 2026, next at TBA, Denver on Sat, 19 Sept 2026.
+Tommy Hart is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 9 Sept 2026, next at Unveiled, New York City on Fri, 18 Sept 2026.
 
-Tommy Hart is a house and techno artist based in United States of America, tracked on soundcheck, with 112 sets logged across Amsterdam, Austin, Berlin and Brussels and 13 more. Often billed alongside Alby Esc, Diz Shocka and Sylvie Forêt. Next up: TBA, Denver on Sat 19 Sept.
+Tommy Hart is a house and techno artist based in United States of America, tracked on soundcheck, with 113 sets logged across Amsterdam, Austin, Berlin and Brussels and 13 more. Often billed alongside Alby Esc, Diz Shocka and Sylvie Forêt. Next up: Unveiled, Newyorkcity on Fri 18 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 18 Sept 2026 | Unveiled | New York City |
 | Sat, 19 Sept 2026 | TBA | Denver |
 
 ## Recently played
@@ -25,4 +26,4 @@ Tommy Hart is a house and techno artist based in United States of America, track
 
 Alby Esc, Diz Shocka, Sylvie Forêt
 
-*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tommyhart/)*
+*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tommyhart/)*

@@ -1,13 +1,14 @@
 # Shkedul
 
-Shkedul is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Tue, 8 Sept 2026, next at DURO, Milan on Sat, 7 Nov 2026.
+Shkedul is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Wed, 9 Sept 2026, next at TBA - SECRET PLACE, Lyon on Sat, 17 Oct 2026.
 
-Shkedul is a techno and house artist tracked on soundcheck, with 27 sets logged across Bangkok, Barcelona, Belgrade and Berlin and 13 more. Often billed alongside Enrico Vivaldi, Anthea and Ben Klock. Next up: DURO, Milan on Sat 7 Nov.
+Shkedul is a techno and house artist tracked on soundcheck, with 28 sets logged across Bangkok, Barcelona, Belgrade and Berlin and 14 more. Often billed alongside Enrico Vivaldi, Anthea and Ben Klock. Next up: TBA - SECRET PLACE, Lyon on Sat 17 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 17 Oct 2026 | TBA - SECRET PLACE | Lyon |
 | Sat, 7 Nov 2026 | DURO | Milan |
 | Sat, 7 Nov 2026 | DURO | Milan |
 
@@ -26,4 +27,4 @@ Shkedul is a techno and house artist tracked on soundcheck, with 27 sets logged 
 
 Enrico Vivaldi, Anthea, Ben Klock
 
-*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/shkedul/)*
+*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/shkedul/)*

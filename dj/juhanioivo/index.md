@@ -1,6 +1,6 @@
 # Juhani Oivo
 
-Juhani Oivo is a Dub Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 8 Sept 2026, next at Phonica Records, London on Thu, 17 Sept 2026.
+Juhani Oivo is a Dub Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 9 Sept 2026, next at Phonica Records, London on Thu, 17 Sept 2026.
 
 Juhani Oivo is a dub techno and house artist tracked on soundcheck, with 15 sets logged across Berlin, Bristol, London and Oslo and 5 more. Often billed alongside Mesak, 0dysseus and ARA-U. Next up: Phonica Records, London on Thu 17 Sept.
 
@@ -25,4 +25,4 @@ Juhani Oivo is a dub techno and house artist tracked on soundcheck, with 15 sets
 
 Mesak, 0dysseus, ARA-U
 
-*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/juhanioivo/)*
+*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/juhanioivo/)*

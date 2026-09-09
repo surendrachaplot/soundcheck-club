@@ -1,13 +1,14 @@
 # Matthias Olck
 
-Matthias Olck is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Tue, 8 Sept 2026, next at Schrotty, Cologne on Fri, 16 Oct 2026.
+Matthias Olck is a Techno and Industrial artist with 2 upcoming club dates listed on soundcheck as of Wed, 9 Sept 2026, next at Helios37, Cologne on Sat, 26 Sept 2026.
 
-Matthias Olck is a techno and industrial artist based in Germany, tracked on soundcheck, with 15 sets logged across Berlin, Cologne, Frankfurt and Stuttgart. Often billed alongside Ropemaker, Noazem and Zeltak. Next up: Schrotty, Cologne on Fri 16 Oct.
+Matthias Olck is a techno and industrial artist based in Germany, tracked on soundcheck, with 16 sets logged across Berlin, Cologne, Frankfurt and Stuttgart. Often billed alongside Ropemaker, Noazem and Zeltak. Next up: Helios37, Cologne on Sat 26 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 26 Sept 2026 | Helios37 | Cologne |
 | Fri, 16 Oct 2026 | Schrotty | Cologne |
 
 ## Recently played
@@ -25,4 +26,4 @@ Matthias Olck is a techno and industrial artist based in Germany, tracked on sou
 
 Ropemaker, Noazem, Zeltak
 
-*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/matthiasolck/)*
+*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/matthiasolck/)*

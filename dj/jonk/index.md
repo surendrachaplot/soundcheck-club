@@ -1,6 +1,6 @@
 # Jon K
 
-Jon K is a Techno and Bass artist with 2 upcoming club dates listed on soundcheck as of Tue, 8 Sept 2026, next at TBA - Markfield Road N15 - outdoors, London on Fri, 11 Sept 2026.
+Jon K is a Techno and Bass artist with 2 upcoming club dates listed on soundcheck as of Wed, 9 Sept 2026, next at TBA - Markfield Road N15 - outdoors, London on Fri, 11 Sept 2026.
 
 Jon K is a techno and bass artist tracked on soundcheck, with 81 sets logged across Amsterdam, Barcelona, Berlin and Bristol and 16 more. Often billed alongside Elle Andrews, Annabel Fraser and Conrad Pack. Next up: TBA - Markfield Road N15 - outdoors, London on Fri 11 Sept.
 
@@ -26,4 +26,4 @@ Jon K is a techno and bass artist tracked on soundcheck, with 81 sets logged acr
 
 Elle Andrews, Annabel Fraser, Conrad Pack
 
-*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jonk/)*
+*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jonk/)*

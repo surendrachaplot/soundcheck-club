@@ -1,6 +1,6 @@
 # Skinny Macho
 
-Skinny Macho is a House and Bass artist with 1 upcoming club date listed on soundcheck as of Tue, 8 Sept 2026, next at Quinta do Miratejo, Lisbon on Sat, 3 Oct 2026.
+Skinny Macho is a House and Bass artist with 1 upcoming club date listed on soundcheck as of Wed, 9 Sept 2026, next at Quinta do Miratejo, Lisbon on Sat, 3 Oct 2026.
 
 Skinny Macho is a house and bass artist tracked on soundcheck, with 4 sets logged across Lisbon, Paris and Seoul. Often billed alongside Dolce Vito, Budino and Crystallmess. Next up: Quinta do Miratejo, Lisbon on Sat 3 Oct.
 
@@ -20,4 +20,4 @@ Skinny Macho is a house and bass artist tracked on soundcheck, with 4 sets logge
 
 Dolce Vito, Budino, Crystallmess
 
-*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/skinnymacho/)*
+*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/skinnymacho/)*

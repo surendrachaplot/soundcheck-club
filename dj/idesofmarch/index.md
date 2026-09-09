@@ -1,14 +1,15 @@
 # Ides of March
 
-Ides of March is a Techno and Progressive House artist with 1 upcoming club date listed on soundcheck as of Tue, 8 Sept 2026, next at Waterhouse Studios, Amsterdam on Sat, 19 Sept 2026.
+Ides of March is a Techno and Progressive House artist with 2 upcoming club dates listed on soundcheck as of Wed, 9 Sept 2026, next at Waterhouse Studios, Amsterdam on Sat, 19 Sept 2026.
 
-Ides of March is a techno and progressive house artist tracked on soundcheck, with 12 sets logged across Amsterdam. Often billed alongside Alex Sharp, Main Identity and Hightower. Next up: Waterhouse Studios, Amsterdam on Sat 19 Sept.
+Ides of March is a techno and progressive house artist tracked on soundcheck, with 13 sets logged across Amsterdam. Often billed alongside Alex Sharp, Main Identity and Argia. Next up: Waterhouse Studios, Amsterdam on Sat 19 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 19 Sept 2026 | Waterhouse Studios | Amsterdam |
+| Fri, 23 Oct 2026 | Generator | Amsterdam |
 
 ## Recently played
 
@@ -23,6 +24,6 @@ Ides of March is a techno and progressive house artist tracked on soundcheck, wi
 
 ## Shares bills with
 
-Alex Sharp, Main Identity, Hightower
+Alex Sharp, Main Identity, Argia
 
-*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/idesofmarch/)*
+*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/idesofmarch/)*

@@ -1,6 +1,6 @@
 # 10 Jahre Wolke x Scholli Openair Closing at Lieberscholli
 
-10 Jahre Wolke x Scholli Openair Closing at Lieberscholli on Sat 12 Sept, Munich. 7 acts on the bill: Anna Lazer, Baerbel, Bernd Bugatti and DJ Nebelmaschine and 3 more. Techno and Tech House. Preview the line-up and save it on soundcheck.
+10 Jahre Wolke x Scholli Openair Closing at Lieberscholli on Sat 12 Sept, Munich. 8 acts on the bill: Anna Lazer, Baerbel, Bernd Bugatti and DJ Nebelmaschine and 4 more. Techno and Tech House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -17,5 +17,6 @@
 - Leo Schick
 - Liebe Nachbarn
 - lisa luka
+- Sabrina Hawk
 
 *Source: [soundcheck](https://soundcheck.club/e/2506540-10-jahre-wolke-x-scholli-openair-closing-at-lieberscholli/)*

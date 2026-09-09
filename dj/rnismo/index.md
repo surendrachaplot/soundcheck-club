@@ -1,6 +1,6 @@
 # RN ISMO
 
-RN ISMO is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 8 Sept 2026, next at TBA - 51 Harper Ave, Detroit on Sat, 19 Sept 2026.
+RN ISMO is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 9 Sept 2026, next at TBA - 51 Harper Ave, Detroit on Sat, 19 Sept 2026.
 
 RN ISMO is a house and techno artist tracked on soundcheck, with 13 sets logged across Detroit and Losangeles. Often billed alongside TekNoNo, Invite Only and Botez. Next up: TBA - 51 Harper Ave, Detroit on Sat 19 Sept.
 
@@ -25,4 +25,4 @@ RN ISMO is a house and techno artist tracked on soundcheck, with 13 sets logged 
 
 TekNoNo, Invite Only, Botez
 
-*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/rnismo/)*
+*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/rnismo/)*

@@ -1,8 +1,8 @@
 # INPUT High Fidelity Dance Club
 
-INPUT High Fidelity Dance Club is a music venue in Barcelona with 23 upcoming nights listed on soundcheck as of Tue, 8 Sept 2026; the next is "PRISM Hard pres Azyr" on Thu, 10 Sept 2026.
+INPUT High Fidelity Dance Club is a music venue in Barcelona with 24 upcoming nights listed on soundcheck as of Wed, 9 Sept 2026; the next is "PRISM Hard pres Azyr" on Thu, 10 Sept 2026.
 
-INPUT High Fidelity Dance Club is a music venue in Barcelona listed on soundcheck. 23 upcoming nights, with line-ups including Adiel, ART NO LOGIA, Azyr and Beste Hira and 2 more. Browse upcoming dates, start times and who's playing. Avenida de Francesc Ferrer i Guàrdia, 13-27; 08038 Barcelona; Spain.
+INPUT High Fidelity Dance Club is a music venue in Barcelona listed on soundcheck. 24 upcoming nights, with line-ups including Adiel, ART NO LOGIA, Azyr and Beste Hira and 2 more. Browse upcoming dates, start times and who's playing. Avenida de Francesc Ferrer i Guàrdia, 13-27; 08038 Barcelona; Spain.
 
 ## What's on
 
@@ -11,16 +11,16 @@ INPUT High Fidelity Dance Club is a music venue in Barcelona listed on soundchec
 | Thu, 10 Sept 2026 | PRISM Hard pres Azyr | Azyr, Giusseppi |
 | Fri, 11 Sept 2026 | INPUT pres HI-LO | HI-LO, LOZA/ANSO |
 | Sat, 12 Sept 2026 | INPUT pres Toman | Max Haas, Toman |
+| Sun, 13 Sept 2026 | OUTRO Official Afterparty |  |
 | Fri, 18 Sept 2026 | INPUT pres Adiel | Adiel, Hitch |
 | Sat, 19 Sept 2026 | INPUT pres Schrotthagen | Schrotthagen |
 | Wed, 23 Sept 2026 | ONíRICA pres Colyn | Colyn, Rivellino |
 | Fri, 25 Sept 2026 | LOAD pres Harvy Valencia | ART NO LOGIA, Harvy Valencia, Jorgesyn, VITO (UK) |
 | Sat, 26 Sept 2026 | PRISM & NOIZER pres Len Faki | Flug, Hitch, Len Faki |
 | Fri, 2 Oct 2026 | SWING pres ÜBERKIKZ & SHDW | Hades PRX, SHDW, ÜBERKIKZ |
-| Sat, 3 Oct 2026 | INPUT pres Joyhauser All Night Long | Joyhauser |
 
 ## Address
 
 Avenida de Francesc Ferrer i Guàrdia, 13-27; 08038 Barcelona; Spain, Barcelona
 
-*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/input-high-fidelity-dance-club/)*
+*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/input-high-fidelity-dance-club/)*

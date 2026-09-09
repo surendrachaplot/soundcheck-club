@@ -1,6 +1,6 @@
 # Klandestina
 
-Klandestina is a Hardcore and Neo Perreo artist with 1 upcoming club date listed on soundcheck as of Tue, 8 Sept 2026, next at Club Magno, Madrid on Thu, 22 Oct 2026.
+Klandestina is a Hardcore and Neo Perreo artist with 1 upcoming club date listed on soundcheck as of Wed, 9 Sept 2026, next at Club Magno, Madrid on Thu, 22 Oct 2026.
 
 Klandestina is a hardcore and neo perreo artist tracked on soundcheck, with 3 sets logged across Madrid and Valencia. Often billed alongside Atrâm, Diego Armando and Dybbukks. Next up: Club Magno, Madrid on Thu 22 Oct.
 
@@ -19,4 +19,4 @@ Klandestina is a hardcore and neo perreo artist tracked on soundcheck, with 3 se
 
 Atrâm, Diego Armando, Dybbukks
 
-*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/klandestina/)*
+*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/klandestina/)*

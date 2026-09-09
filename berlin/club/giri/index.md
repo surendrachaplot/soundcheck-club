@@ -1,6 +1,6 @@
 # Giri
 
-Giri is a music venue in Berlin with 14 upcoming nights listed on soundcheck as of Tue, 8 Sept 2026; the next is "Re:Frame 2026 Opening Night by CiLENS x Giri" on Thu, 10 Sept 2026.
+Giri is a music venue in Berlin with 14 upcoming nights listed on soundcheck as of Wed, 9 Sept 2026; the next is "Re:Frame 2026 Opening Night by CiLENS x Giri" on Thu, 10 Sept 2026.
 
 Giri is a music venue in Berlin listed on soundcheck. 14 upcoming nights, with line-ups including Aunty Nora, Chris Gorrie, Dimensionless Unity and Daniel Norrel and 2 more. Browse upcoming dates, start times and who's playing. Hermannstrasse 14, 12049 Berlin.
 
@@ -23,4 +23,4 @@ Giri is a music venue in Berlin listed on soundcheck. 14 upcoming nights, with l
 
 Hermannstrasse 14, 12049 Berlin, Berlin
 
-*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/giri/)*
+*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/giri/)*

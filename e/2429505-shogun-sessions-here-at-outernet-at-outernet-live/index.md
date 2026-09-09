@@ -1,6 +1,6 @@
 # Shogun Sessions: HERE at Outernet at Outernet Live
 
-Shogun Sessions: HERE at Outernet at Outernet Live on Sat 26 Sept, London. 11 acts on the bill: DRIIA, Duskee, Gardna and Larnie Moles and 7 more. Drum & Bass. Preview the line-up and save it on soundcheck.
+Shogun Sessions: HERE at Outernet at Outernet Live on Sat 26 Sept, London. 13 acts on the bill: DRIIA, Duskee, Gardna and GLXY and 9 more. Drum & Bass. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -13,6 +13,7 @@ Shogun Sessions: HERE at Outernet at Outernet Live on Sat 26 Sept, London. 11 ac
 - DRIIA
 - Duskee
 - Gardna
+- GLXY
 - Larnie Moles
 - LowQui
 - LSB (UK)
@@ -20,6 +21,7 @@ Shogun Sessions: HERE at Outernet at Outernet Live on Sat 26 Sept, London. 11 ac
 - Sabrina
 - Stamina MC
 - Sustance
+- Technimatic
 - Workforce
 
 *Source: [soundcheck](https://soundcheck.club/e/2429505-shogun-sessions-here-at-outernet-at-outernet-live/)*

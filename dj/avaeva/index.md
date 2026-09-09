@@ -1,6 +1,6 @@
 # Ava Eva
 
-Ava Eva is a House and Electro artist with 2 upcoming club dates listed on soundcheck as of Tue, 8 Sept 2026, next at De Sering, Amsterdam on Thu, 22 Oct 2026.
+Ava Eva is a House and Electro artist with 2 upcoming club dates listed on soundcheck as of Wed, 9 Sept 2026, next at De Sering, Amsterdam on Thu, 22 Oct 2026.
 
 Ava Eva is a house and electro artist based in Belgium, tracked on soundcheck, with 55 sets logged across Amsterdam, Antwerp, Brussels and Ghent. Often billed alongside Bibi Seck, John Noseda and Poppy (BE). Next up: De Sering, Amsterdam on Thu 22 Oct.
 
@@ -26,4 +26,4 @@ Ava Eva is a house and electro artist based in Belgium, tracked on soundcheck, w
 
 Bibi Seck, John Noseda, Poppy (BE)
 
-*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/avaeva/)*
+*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/avaeva/)*

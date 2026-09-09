@@ -1,6 +1,6 @@
 # Fundbureau
 
-Fundbureau is a music venue in Hamburg with 11 upcoming nights listed on soundcheck as of Tue, 8 Sept 2026; the next is "Once upon a time" on Fri, 11 Sept 2026.
+Fundbureau is a music venue in Hamburg with 11 upcoming nights listed on soundcheck as of Wed, 9 Sept 2026; the next is "Once upon a time" on Fri, 11 Sept 2026.
 
 Fundbureau is a music venue in Hamburg listed on soundcheck. 11 upcoming nights, with line-ups including 3LEEZA, Aio, Carbon and Charlie Tee and 2 more. Browse upcoming dates, start times and who's playing. Altländer Str. 1120095 Hamburg, Germany.
 
@@ -23,4 +23,4 @@ Fundbureau is a music venue in Hamburg listed on soundcheck. 11 upcoming nights,
 
 Altländer Str. 1120095 Hamburg, Germany, Hamburg
 
-*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/hamburg/club/fundbureau/)*
+*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/hamburg/club/fundbureau/)*

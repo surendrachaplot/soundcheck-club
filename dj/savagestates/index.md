@@ -1,14 +1,15 @@
 # Savage States
 
-Savage States is a Hardcore and Jungle artist with 1 upcoming club date listed on soundcheck as of Tue, 8 Sept 2026, next at Teranoma, Osaka on Sat, 12 Sept 2026.
+Savage States is a Hardcore and Jungle artist with 2 upcoming club dates listed on soundcheck as of Wed, 9 Sept 2026, next at Teranoma, Osaka on Sat, 12 Sept 2026.
 
-Savage States is a hardcore and jungle artist based in Japan, tracked on soundcheck, with 41 sets logged across Bristol, Osaka and Tokyo. Often billed alongside matres, merupo and Coretex. Next up: Teranoma, Osaka on Sat 12 Sept.
+Savage States is a hardcore and jungle artist based in Japan, tracked on soundcheck, with 42 sets logged across Bristol, Osaka and Tokyo. Often billed alongside matres, merupo and Coretex. Next up: Teranoma, Osaka on Sat 12 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 12 Sept 2026 | Teranoma | Osaka |
+| Sat, 12 Sept 2026 | Blvck Water | Osaka |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Savage States is a hardcore and jungle artist based in Japan, tracked on soundch
 
 matres, merupo, Coretex
 
-*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/savagestates/)*
+*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/savagestates/)*

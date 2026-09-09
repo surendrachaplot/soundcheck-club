@@ -1,6 +1,6 @@
 # DJ Fire
 
-DJ Fire is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 8 Sept 2026, next at Mitsuki, Tokyo on Thu, 17 Sept 2026.
+DJ Fire is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 9 Sept 2026, next at Mitsuki, Tokyo on Thu, 17 Sept 2026.
 
 DJ Fire is a techno and house artist tracked on soundcheck, with 3 sets logged across Newyorkcity and Tokyo. Often billed alongside Blazer Sound System, Deejay Energy and Motion Graphics. Next up: Mitsuki, Tokyo on Thu 17 Sept.
 
@@ -19,4 +19,4 @@ DJ Fire is a techno and house artist tracked on soundcheck, with 3 sets logged a
 
 Blazer Sound System, Deejay Energy, Motion Graphics
 
-*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djfire/)*
+*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djfire/)*

@@ -1,8 +1,8 @@
 # Helios37
 
-Helios37 is a music venue in Cologne with 6 upcoming nights listed on soundcheck as of Tue, 8 Sept 2026; the next is "Gourski & FRIENDS presents JUSTIN HAWKES & Manta" on Fri, 11 Sept 2026.
+Helios37 is a music venue in Cologne with 8 upcoming nights listed on soundcheck as of Wed, 9 Sept 2026; the next is "Gourski & FRIENDS presents JUSTIN HAWKES & Manta" on Fri, 11 Sept 2026.
 
-Helios37 is a music venue in Cologne listed on soundcheck. 6 upcoming nights, with line-ups including Bensonius, DJ Discostoff, DJ SODBRENNEN and Felix Kröcher and 2 more. Browse upcoming dates, start times and who's playing. Heliosstr. 37, 50825 Köln, Deutschland.
+Helios37 is a music venue in Cologne listed on soundcheck. 8 upcoming nights, with line-ups including Bensonius, DJ Discostoff, DJ SODBRENNEN and Felix Kröcher and 2 more. Browse upcoming dates, start times and who's playing. Heliosstr. 37, 50825 Köln, Deutschland.
 
 ## What's on
 
@@ -10,6 +10,8 @@ Helios37 is a music venue in Cologne listed on soundcheck. 6 upcoming nights, wi
 | --- | --- | --- |
 | Fri, 11 Sept 2026 | Gourski & FRIENDS presents JUSTIN HAWKES & Manta | Gourski, Manta |
 | Sat, 12 Sept 2026 | 3 Years Ascension with DJ Sodbrennen, DJ Discostoff, Jenni Zimnol, Lee-Ann at Helios | Bensonius, DJ Discostoff, DJ SODBRENNEN, Marco Eisenberg |
+| Fri, 25 Sept 2026 | sacred x BLOOM:CAST | LSG, VINYA, kichererbsenstampf |
+| Sat, 26 Sept 2026 | 10 years of Techno Allianz with Sofie Sapuna, Rian Wood & Matthias Olck | Matthias Olck, Rian Wood, Ropemaker, Sofie Sapuna |
 | Sat, 31 Oct 2026 | ELECTRONIC HALLOWEEN by Helios37 |  |
 | Sat, 7 Nov 2026 | Voicians Invites: MUZZ | Jon Void, Voicians |
 | Fri, 20 Nov 2026 | (sold out) SCHRANZ is BACK Köln with Felix Kröcher | Felix Kröcher |
@@ -19,4 +21,4 @@ Helios37 is a music venue in Cologne listed on soundcheck. 6 upcoming nights, wi
 
 Heliosstr. 37, 50825 Köln, Deutschland, Cologne
 
-*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/cologne/club/helios37/)*
+*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/cologne/club/helios37/)*

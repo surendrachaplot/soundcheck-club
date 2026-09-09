@@ -1,6 +1,6 @@
 # Lea Chuga
 
-Lea Chuga is a House and Electronica artist with 1 upcoming club date listed on soundcheck as of Tue, 8 Sept 2026, next at Klunkerkranich, Berlin on Sat, 12 Sept 2026.
+Lea Chuga is a House and Electronica artist with 1 upcoming club date listed on soundcheck as of Wed, 9 Sept 2026, next at Klunkerkranich, Berlin on Sat, 12 Sept 2026.
 
 Lea Chuga is a house and electronica artist tracked on soundcheck, with 7 sets logged across Berlin. Often billed alongside Krokant, Phauna and M4RY. Next up: Klunkerkranich, Berlin on Sat 12 Sept.
 
@@ -23,4 +23,4 @@ Lea Chuga is a house and electronica artist tracked on soundcheck, with 7 sets l
 
 Krokant, Phauna, M4RY
 
-*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/leachuga/)*
+*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/leachuga/)*

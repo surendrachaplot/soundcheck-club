@@ -1,6 +1,6 @@
 # Toraigh
 
-Toraigh is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Tue, 8 Sept 2026, next at EartH Kitchen, London on Fri, 9 Oct 2026.
+Toraigh is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Wed, 9 Sept 2026, next at EartH Kitchen, London on Fri, 9 Oct 2026.
 
 Toraigh is a techno and trance artist tracked on soundcheck, with 20 sets logged across Belfast, Brighton and London. Often billed alongside HOLY C, DJ-CK and Ross Harper. Next up: EartH Kitchen, London on Fri 9 Oct.
 
@@ -25,4 +25,4 @@ Toraigh is a techno and trance artist tracked on soundcheck, with 20 sets logged
 
 HOLY C, DJ-CK, Ross Harper
 
-*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/toraigh/)*
+*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/toraigh/)*

@@ -1,6 +1,6 @@
 # Musikbrauerei
 
-Musikbrauerei is a music venue in Berlin with 1 upcoming night listed on soundcheck as of Tue, 8 Sept 2026; the next is "Dani Flow - Euro Tour" on Thu, 15 Oct 2026.
+Musikbrauerei is a music venue in Berlin with 1 upcoming night listed on soundcheck as of Wed, 9 Sept 2026; the next is "Dani Flow - Euro Tour" on Thu, 15 Oct 2026.
 
 Musikbrauerei is a music venue in Berlin listed on soundcheck. 1 upcoming night. Browse upcoming dates, start times and who's playing. Greifswalder Str. 23A, 10405 Berlin, Germany.
 
@@ -14,4 +14,4 @@ Musikbrauerei is a music venue in Berlin listed on soundcheck. 1 upcoming night.
 
 Greifswalder Str. 23A, 10405 Berlin, Germany, Berlin
 
-*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/musikbrauerei/)*
+*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/musikbrauerei/)*

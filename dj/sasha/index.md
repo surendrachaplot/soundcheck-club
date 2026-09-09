@@ -1,6 +1,6 @@
 # Sasha
 
-Sasha is a Progressive House and Techno artist with 7 upcoming club dates listed on soundcheck as of Tue, 8 Sept 2026, next at Reelworks Denver, Denver on Fri, 11 Sept 2026.
+Sasha is a Progressive House and Techno artist with 7 upcoming club dates listed on soundcheck as of Wed, 9 Sept 2026, next at Reelworks Denver, Denver on Fri, 11 Sept 2026.
 
 Sasha is a progressive house and techno artist tracked on soundcheck, with 163 sets logged across Amsterdam, Antwerp, Athens and Bangkok and 45 more. Often billed alongside John Digweed, Franky Wah and Nick Warren. Next up: Reelworks Denver, Denver on Fri 11 Sept.
 
@@ -31,4 +31,4 @@ Sasha is a progressive house and techno artist tracked on soundcheck, with 163 s
 
 John Digweed, Franky Wah, Nick Warren
 
-*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sasha/)*
+*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sasha/)*

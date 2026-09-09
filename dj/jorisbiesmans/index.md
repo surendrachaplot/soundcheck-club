@@ -1,14 +1,15 @@
 # Biesmans
 
-Biesmans is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 8 Sept 2026, next at Culture Box, Copenhagen on Fri, 18 Sept 2026.
+Biesmans is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 9 Sept 2026, next at Culture Box, Copenhagen on Fri, 18 Sept 2026.
 
-Biesmans is a house and techno artist based in Belgium, tracked on soundcheck, with 62 sets logged across Amsterdam, Antwerp, Berlin and Brussels and 15 more. Often billed alongside Johannes Albert, Ede and eveava. Next up: Culture Box, Copenhagen on Fri 18 Sept.
+Biesmans is a house and techno artist based in Belgium, tracked on soundcheck, with 63 sets logged across Amsterdam, Antwerp, Berlin and Brussels and 15 more. Often billed alongside Johannes Albert, Ede and eveava. Next up: Culture Box, Copenhagen on Fri 18 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 18 Sept 2026 | Culture Box | Copenhagen |
+| Sat, 3 Oct 2026 | Berghain / Panorama Bar / Säule | Berlin |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Biesmans is a house and techno artist based in Belgium, tracked on soundcheck, w
 
 Johannes Albert, Ede, eveava
 
-*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jorisbiesmans/)*
+*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jorisbiesmans/)*

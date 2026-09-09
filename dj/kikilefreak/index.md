@@ -1,6 +1,6 @@
 # Kiki LeFreak
 
-Kiki LeFreak is a House and Disco artist with 4 upcoming club dates listed on soundcheck as of Tue, 8 Sept 2026, next at TBA - Bisou (350 Berkeley), Toronto on Sat, 12 Sept 2026.
+Kiki LeFreak is a House and Disco artist with 4 upcoming club dates listed on soundcheck as of Wed, 9 Sept 2026, next at TBA - Bisou (350 Berkeley), Toronto on Sat, 12 Sept 2026.
 
 Kiki LeFreak is a house and disco artist tracked on soundcheck, with 121 sets logged across Chicago, Detroit, Mexicocity and Toronto. Often billed alongside Vjollca, Iced Misto and Jodie D. Next up: TBA - Bisou (350 Berkeley), Toronto on Sat 12 Sept.
 
@@ -28,4 +28,4 @@ Kiki LeFreak is a house and disco artist tracked on soundcheck, with 121 sets lo
 
 Vjollca, Iced Misto, Jodie D
 
-*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kikilefreak/)*
+*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kikilefreak/)*

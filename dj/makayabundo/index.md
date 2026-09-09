@@ -1,6 +1,6 @@
 # MAKAYABUNDO
 
-MAKAYABUNDO is a Hip-Hop and Experimental artist with 1 upcoming club date listed on soundcheck as of Tue, 8 Sept 2026, next at YOTO, Hamburg on Sat, 12 Sept 2026.
+MAKAYABUNDO is a Hip-Hop and Experimental artist with 1 upcoming club date listed on soundcheck as of Wed, 9 Sept 2026, next at YOTO, Hamburg on Sat, 12 Sept 2026.
 
 MAKAYABUNDO is a hip-hop and experimental artist tracked on soundcheck, with 13 sets logged across Berlin, Dusseldorf and Hamburg. Often billed alongside Yallah.san, Gojas and Ancient Methods. Next up: YOTO, Hamburg on Sat 12 Sept.
 
@@ -25,4 +25,4 @@ MAKAYABUNDO is a hip-hop and experimental artist tracked on soundcheck, with 13 
 
 Yallah.san, Gojas, Ancient Methods
 
-*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/makayabundo/)*
+*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/makayabundo/)*

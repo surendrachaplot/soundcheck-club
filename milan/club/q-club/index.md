@@ -1,6 +1,6 @@
 # Q Club
 
-Q Club is a music venue in Milan with 3 upcoming nights listed on soundcheck as of Tue, 8 Sept 2026; the next is "Q LAB" on Fri, 11 Sept 2026.
+Q Club is a music venue in Milan with 3 upcoming nights listed on soundcheck as of Wed, 9 Sept 2026; the next is "Q LAB" on Fri, 11 Sept 2026.
 
 Q Club is a music venue in Milan listed on soundcheck. 3 upcoming nights, with line-ups including Camion Bazar, Carlo Mognaschi, Dario Lem and Galilea and 2 more. Browse upcoming dates, start times and who's playing. Via Padova 21, 20100 Milano (MI), Italy.
 
@@ -16,4 +16,4 @@ Q Club is a music venue in Milan listed on soundcheck. 3 upcoming nights, with l
 
 Via Padova 21, 20100 Milano (MI), Italy, Milan
 
-*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/milan/club/q-club/)*
+*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/milan/club/q-club/)*

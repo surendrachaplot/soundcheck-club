@@ -1,14 +1,16 @@
 # KaraKara
 
-KaraKara is a Jungle and Breakbeat artist with 2 upcoming club dates listed on soundcheck as of Tue, 8 Sept 2026, next at TBA, Berlin on Fri, 25 Sept 2026.
+KaraKara is a Jungle and Bass artist with 4 upcoming club dates listed on soundcheck as of Wed, 9 Sept 2026, next at Alte Feuerwache THF, Berlin on Fri, 11 Sept 2026.
 
-KaraKara is a jungle and breakbeat artist tracked on soundcheck, with 33 sets logged across Berlin, London and Toronto. Often billed alongside Pjiepox, Shifty Rogue and BrokenGear. Next up: TBA, Berlin on Fri 25 Sept.
+KaraKara is a jungle and bass artist tracked on soundcheck, with 35 sets logged across Berlin, London and Toronto. Often billed alongside Pjiepox, Shifty Rogue and BrokenGear. Next up: Alte Feuerwache THF, Berlin on Fri 11 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 11 Sept 2026 | Alte Feuerwache THF | Berlin |
 | Fri, 25 Sept 2026 | TBA | Berlin |
+| Sat, 26 Sept 2026 | YAAM Berlin | Berlin |
 | Sat, 3 Oct 2026 | Void Club | Berlin |
 
 ## Recently played
@@ -26,4 +28,4 @@ KaraKara is a jungle and breakbeat artist tracked on soundcheck, with 33 sets lo
 
 Pjiepox, Shifty Rogue, BrokenGear
 
-*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/karakara/)*
+*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/karakara/)*

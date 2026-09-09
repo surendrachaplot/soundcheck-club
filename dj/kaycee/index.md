@@ -1,0 +1,28 @@
+# Kaycee
+
+Kaycee is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 9 Sept 2026, next at The Big Romance, Dublin on Sat, 17 Oct 2026.
+
+Kaycee is a house and techno artist based in Ireland, tracked on soundcheck, with 32 sets logged across Dublin. Often billed alongside DART, Kayleigh Glynn and ShaunaDee. Next up: The Big Romance, Dublin on Sat 17 Oct.
+
+## Upcoming shows
+
+| Date | Venue | City |
+| --- | --- | --- |
+| Sat, 17 Oct 2026 | The Big Romance | Dublin |
+
+## Recently played
+
+- Wigwam, Dublin — Sat, 8 Aug 2026
+- Wigwam, Dublin — Fri, 19 Jun 2026
+- The Sound House, Dublin — Mon, 16 Mar 2026
+- The Complex, Dublin — Sat, 22 Nov 2025
+- Pawn Shop, Dublin — Fri, 19 Sept 2025
+- Opium Club, Dublin — Sat, 2 Aug 2025
+- Hynes' Bar, Dublin — Sat, 28 Jun 2025
+- Hen's Teeth, Dublin — Fri, 16 May 2025
+
+## Shares bills with
+
+DART, Kayleigh Glynn, ShaunaDee
+
+*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kaycee/)*

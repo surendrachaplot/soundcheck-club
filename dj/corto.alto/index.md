@@ -1,6 +1,6 @@
 # corto.alto
 
-corto.alto is a Jazz and Experimental artist with 3 upcoming club dates listed on soundcheck as of Tue, 8 Sept 2026, next at The Jacaranda, Liverpool on Wed, 9 Sept 2026.
+corto.alto is a Jazz and Experimental artist with 3 upcoming club dates listed on soundcheck as of Wed, 9 Sept 2026, next at The Jacaranda, Liverpool on Wed, 9 Sept 2026.
 
 corto.alto is a jazz and experimental artist tracked on soundcheck, with 20 sets logged across Berlin, Birmingham, Bristol and Brussels and 10 more. Often billed alongside Chunky, Craig Charles and Joy Guidry. Next up: The Jacaranda, Liverpool on Wed 9 Sept.
 
@@ -27,4 +27,4 @@ corto.alto is a jazz and experimental artist tracked on soundcheck, with 20 sets
 
 Chunky, Craig Charles, Joy Guidry
 
-*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/corto.alto/)*
+*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/corto.alto/)*

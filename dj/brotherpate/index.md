@@ -1,6 +1,6 @@
 # Brother Pate
 
-Brother Pate is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Tue, 8 Sept 2026, next at TBA - XuXa 6910 Shirley Avenue, Unit I, Austin on Sat, 12 Sept 2026.
+Brother Pate is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Wed, 9 Sept 2026, next at TBA - XuXa 6910 Shirley Avenue, Unit I, Austin on Sat, 12 Sept 2026.
 
 Brother Pate is a house and disco artist tracked on soundcheck, with 52 sets logged across Austin. Often billed alongside Thurman Jackson, Brett Johnson and Marcus Lott. Next up: TBA - XuXa 6910 Shirley Avenue, Unit I, Austin on Sat 12 Sept.
 
@@ -25,4 +25,4 @@ Brother Pate is a house and disco artist tracked on soundcheck, with 52 sets log
 
 Thurman Jackson, Brett Johnson, Marcus Lott
 
-*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/brotherpate/)*
+*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/brotherpate/)*

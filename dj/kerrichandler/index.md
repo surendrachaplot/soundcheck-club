@@ -1,6 +1,6 @@
 # Kerri Chandler
 
-Kerri Chandler is a House and Techno artist with 10 upcoming club dates listed on soundcheck as of Tue, 8 Sept 2026, next at Rex Club, Paris on Sun, 13 Sept 2026.
+Kerri Chandler is a House and Techno artist with 10 upcoming club dates listed on soundcheck as of Wed, 9 Sept 2026, next at Rex Club, Paris on Sun, 13 Sept 2026.
 
 Kerri Chandler is a house and techno artist tracked on soundcheck, with 159 sets logged across Amsterdam, Austin, Barcelona and Basel and 35 more. Often billed alongside Seth Troxler, Chris Stassy and DJ Deep. Next up: Rex Club, Paris on Sun 13 Sept.
 
@@ -34,4 +34,4 @@ Kerri Chandler is a house and techno artist tracked on soundcheck, with 159 sets
 
 Seth Troxler, Chris Stassy, DJ Deep
 
-*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kerrichandler/)*
+*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kerrichandler/)*

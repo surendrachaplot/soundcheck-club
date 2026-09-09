@@ -1,14 +1,15 @@
 # Berkan V8
 
-Berkan V8 is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Tue, 8 Sept 2026, next at Het Sieraad, Amsterdam on Fri, 16 Oct 2026.
+Berkan V8 is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Wed, 9 Sept 2026, next at Het Sieraad, Amsterdam on Fri, 16 Oct 2026.
 
-Berkan V8 is a house and techno artist tracked on soundcheck, with 92 sets logged across Amsterdam, Berlin, Brussels and Istanbul and 3 more. Often billed alongside Kyra Khaldi, BELLA (NL) and Doppelgang. Next up: Het Sieraad, Amsterdam on Fri 16 Oct.
+Berkan V8 is a house and techno artist tracked on soundcheck, with 93 sets logged across Amsterdam, Berlin, Brussels and Istanbul and 3 more. Often billed alongside Kyra Khaldi, BELLA (NL) and Doppelgang. Next up: Het Sieraad, Amsterdam on Fri 16 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 16 Oct 2026 | Het Sieraad | Amsterdam |
+| Sat, 24 Oct 2026 | SISSI'S Amsterdam | Amsterdam |
 | Sun, 25 Oct 2026 | Radio Radio | Amsterdam |
 
 ## Recently played
@@ -26,4 +27,4 @@ Berkan V8 is a house and techno artist tracked on soundcheck, with 92 sets logge
 
 Kyra Khaldi, BELLA (NL), Doppelgang
 
-*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/berkanv8/)*
+*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/berkanv8/)*

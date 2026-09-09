@@ -1,6 +1,6 @@
 # Era uma vez no Porto
 
-Era uma vez no Porto is a music venue in Porto with 7 upcoming nights listed on soundcheck as of Tue, 8 Sept 2026; the next is "R4W - Si Invites Lourenço" on Wed, 9 Sept 2026.
+Era uma vez no Porto is a music venue in Porto with 7 upcoming nights listed on soundcheck as of Wed, 9 Sept 2026; the next is "R4W - Si Invites Lourenço" on Wed, 9 Sept 2026.
 
 Era uma vez no Porto is a music venue in Porto listed on soundcheck. 7 upcoming nights, with line-ups including Alive, Nuno di Rosso, Pedro Tabuada and Rui Azevedo and 1 more. Browse upcoming dates, start times and who's playing. Rua da Madeira, nº 126, 4000-330 Porto, Portugal.
 
@@ -20,4 +20,4 @@ Era uma vez no Porto is a music venue in Porto listed on soundcheck. 7 upcoming 
 
 Rua da Madeira, nº 126, 4000-330 Porto, Portugal, Porto
 
-*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/porto/club/era-uma-vez-no-porto/)*
+*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/porto/club/era-uma-vez-no-porto/)*

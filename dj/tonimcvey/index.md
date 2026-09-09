@@ -1,6 +1,6 @@
 # Toni McVey
 
-Toni McVey is a Disco and Funk / Soul artist with 1 upcoming club date listed on soundcheck as of Tue, 8 Sept 2026, next at Port of Leith Distillery, Edinburgh on Sat, 12 Sept 2026.
+Toni McVey is a Disco and Funk / Soul artist with 1 upcoming club date listed on soundcheck as of Wed, 9 Sept 2026, next at Port of Leith Distillery, Edinburgh on Sat, 12 Sept 2026.
 
 Toni McVey is a disco and funk / soul artist based in United Kingdom, tracked on soundcheck, with 39 sets logged across Edinburgh and Glasgow. Often billed alongside SSID, Ann Tweak and Chris Astrojazz. Next up: Port of Leith Distillery, Edinburgh on Sat 12 Sept.
 
@@ -25,4 +25,4 @@ Toni McVey is a disco and funk / soul artist based in United Kingdom, tracked on
 
 SSID, Ann Tweak, Chris Astrojazz
 
-*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tonimcvey/)*
+*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tonimcvey/)*

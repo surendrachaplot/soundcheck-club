@@ -1,6 +1,6 @@
 # Temper. Wine Room & Lounge
 
-Temper. Wine Room & Lounge is a music venue in Singapore with 1 upcoming night listed on soundcheck as of Tue, 8 Sept 2026; the next is "GrooveTop x Temper present Taylah Elaine" on Sat, 10 Oct 2026.
+Temper. Wine Room & Lounge is a music venue in Singapore with 1 upcoming night listed on soundcheck as of Wed, 9 Sept 2026; the next is "GrooveTop x Temper present Taylah Elaine" on Sat, 10 Oct 2026.
 
 Temper. Wine Room & Lounge is a music venue in Singapore listed on soundcheck. 1 upcoming night, with line-ups including Taylah Elaine. Browse upcoming dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ Temper. Wine Room & Lounge is a music venue in Singapore listed on soundcheck. 1
 | --- | --- | --- |
 | Sat, 10 Oct 2026 | GrooveTop x Temper present Taylah Elaine | Taylah Elaine |
 
-*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/singapore/club/temper-wine-room-lounge/)*
+*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/singapore/club/temper-wine-room-lounge/)*

@@ -1,8 +1,8 @@
 # Oscar Mulero
 
-Oscar Mulero is a Techno and House artist with 9 upcoming club dates listed on soundcheck as of Tue, 8 Sept 2026, next at IFEMA, Madrid on Fri, 18 Sept 2026.
+Oscar Mulero is a Techno and House artist with 10 upcoming club dates listed on soundcheck as of Wed, 9 Sept 2026, next at IFEMA, Madrid on Fri, 18 Sept 2026.
 
-Oscar Mulero is a techno and house artist tracked on soundcheck, with 158 sets logged across Amsterdam, Athens, Barcelona and Basel and 43 more. Often billed alongside Ben Sims, Adriana Lopez and DVS1. Next up: IFEMA, Madrid on Fri 18 Sept.
+Oscar Mulero is a techno and house artist tracked on soundcheck, with 159 sets logged across Amsterdam, Athens, Barcelona and Basel and 43 more. Often billed alongside Ben Sims, Adriana Lopez and DVS1. Next up: IFEMA, Madrid on Fri 18 Sept.
 
 ## Upcoming shows
 
@@ -16,6 +16,7 @@ Oscar Mulero is a techno and house artist tracked on soundcheck, with 158 sets l
 | Sat, 24 Oct 2026 | Havenpark | Amsterdam |
 | Sat, 24 Oct 2026 | Havenpark | Amsterdam |
 | Fri, 30 Oct 2026 | Hive Club | Zurich |
+| Sat, 31 Oct 2026 | Nitsa Club | Barcelona |
 | Fri, 13 Nov 2026 | Poolen | Copenhagen |
 
 ## Recently played
@@ -33,4 +34,4 @@ Oscar Mulero is a techno and house artist tracked on soundcheck, with 158 sets l
 
 Ben Sims, Adriana Lopez, DVS1
 
-*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/oscarmulero/)*
+*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/oscarmulero/)*

@@ -1,6 +1,6 @@
 # Michael Bibi
 
-Michael Bibi is a Tech House and House artist with 7 upcoming club dates listed on soundcheck as of Tue, 8 Sept 2026, next at TBA - Secret location announced only to ticket holders, Ibiza on Fri, 11 Sept 2026.
+Michael Bibi is a Tech House and House artist with 7 upcoming club dates listed on soundcheck as of Wed, 9 Sept 2026, next at TBA - Secret location announced only to ticket holders, Ibiza on Fri, 11 Sept 2026.
 
 Michael Bibi is a tech house and house artist based in United Kingdom, tracked on soundcheck, with 53 sets logged across Amsterdam, Bali, Barcelona and Buenosaires and 20 more. Often billed alongside Dennis Cruz, PAWSA and Chris Stassy. Next up: TBA - Secret location announced only to ticket holders, Ibiza on Fri 11 Sept.
 
@@ -31,4 +31,4 @@ Michael Bibi is a tech house and house artist based in United Kingdom, tracked o
 
 Dennis Cruz, PAWSA, Chris Stassy
 
-*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/michaelbibi/)*
+*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/michaelbibi/)*

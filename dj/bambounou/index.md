@@ -1,8 +1,8 @@
 # Bambounou
 
-Bambounou is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Tue, 8 Sept 2026, next at TBA, Washington DC on Sat, 12 Sept 2026.
+Bambounou is a Techno and House artist with 7 upcoming club dates listed on soundcheck as of Wed, 9 Sept 2026, next at TBA, Washington DC on Sat, 12 Sept 2026.
 
-Bambounou is a techno and house artist tracked on soundcheck, with 166 sets logged across Amsterdam, Antwerp, Barcelona and Berlin and 48 more. Often billed alongside Sedef Adasï, Sossa and Bradley Zero. Next up: TBA, Washingtondc on Sat 12 Sept.
+Bambounou is a techno and house artist tracked on soundcheck, with 167 sets logged across Amsterdam, Antwerp, Barcelona and Berlin and 48 more. Often billed alongside Sedef Adasï, Sossa and Bradley Zero. Next up: TBA, Washingtondc on Sat 12 Sept.
 
 ## Upcoming shows
 
@@ -14,6 +14,7 @@ Bambounou is a techno and house artist tracked on soundcheck, with 166 sets logg
 | Sat, 26 Sept 2026 | Amnesia Milano | Milan |
 | Fri, 9 Oct 2026 | FOLD | London |
 | Fri, 16 Oct 2026 | Chinois Ibiza | Ibiza |
+| Sat, 24 Oct 2026 | TILLATEC | Amsterdam |
 
 ## Recently played
 
@@ -30,4 +31,4 @@ Bambounou is a techno and house artist tracked on soundcheck, with 166 sets logg
 
 Sedef Adasï, Sossa, Bradley Zero
 
-*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bambounou/)*
+*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bambounou/)*

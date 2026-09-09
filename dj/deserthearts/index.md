@@ -1,6 +1,6 @@
 # Desert Hearts
 
-Desert Hearts is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Tue, 8 Sept 2026, next at Club Vinyl, Denver on Sat, 24 Oct 2026.
+Desert Hearts is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Wed, 9 Sept 2026, next at Club Vinyl, Denver on Sat, 24 Oct 2026.
 
 Desert Hearts is a house and tech house artist based in United States of America, tracked on soundcheck, with 49 sets logged across Austin, Berlin, Boston and Denver and 7 more. Often billed alongside SCOTT K., Scott Tillett and Mikey Lion. Next up: Club Vinyl, Denver on Sat 24 Oct.
 
@@ -26,4 +26,4 @@ Desert Hearts is a house and tech house artist based in United States of America
 
 SCOTT K., Scott Tillett, Mikey Lion
 
-*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/deserthearts/)*
+*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/deserthearts/)*

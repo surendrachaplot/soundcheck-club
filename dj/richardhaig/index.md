@@ -1,6 +1,6 @@
 # Richard Haig
 
-Richard Haig is a Electronica and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 8 Sept 2026, next at TBA - West Oakland, San Francisco/Oakland on Sat, 17 Oct 2026.
+Richard Haig is a Electronica and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 9 Sept 2026, next at TBA - West Oakland, San Francisco/Oakland on Sat, 17 Oct 2026.
 
 Richard Haig is an electronica and techno artist tracked on soundcheck, with 9 sets logged across Sanfrancisco. Often billed alongside Hydroplane, Nexus-6 and Nezzy Idy. Next up: TBA - West Oakland, Sanfrancisco on Sat 17 Oct.
 
@@ -25,4 +25,4 @@ Richard Haig is an electronica and techno artist tracked on soundcheck, with 9 s
 
 Hydroplane, Nexus-6, Nezzy Idy
 
-*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/richardhaig/)*
+*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/richardhaig/)*

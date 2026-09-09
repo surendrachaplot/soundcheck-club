@@ -1,6 +1,6 @@
 # zacattacq
 
-zacattacq is a Garage and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 8 Sept 2026, next at ark (Melb), Melbourne on Sat, 12 Sept 2026.
+zacattacq is a Garage and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 9 Sept 2026, next at ark (Melb), Melbourne on Sat, 12 Sept 2026.
 
 zacattacq is a garage and techno artist tracked on soundcheck, with 10 sets logged across Australiancapitalterritory, Brisbane, Melbourne and Sydney. Often billed alongside Deens, WAXX OFF and 6 SENSE. Next up: ark (Melb), Melbourne on Sat 12 Sept.
 
@@ -25,4 +25,4 @@ zacattacq is a garage and techno artist tracked on soundcheck, with 10 sets logg
 
 Deens, WAXX OFF, 6 SENSE
 
-*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/zacattacq/)*
+*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/zacattacq/)*

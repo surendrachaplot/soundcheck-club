@@ -1,6 +1,6 @@
 # Felipe G
 
-Felipe G is a Electronica and Disco artist with 1 upcoming club date listed on soundcheck as of Tue, 8 Sept 2026, next at Club Der Polnischen Versager, Berlin on Fri, 11 Sept 2026.
+Felipe G is a Electronica and Disco artist with 1 upcoming club date listed on soundcheck as of Wed, 9 Sept 2026, next at Club Der Polnischen Versager, Berlin on Fri, 11 Sept 2026.
 
 Felipe G is an electronica and disco artist tracked on soundcheck, with 8 sets logged across Berlin. Often billed alongside Juan Ferreyra, Alison Swing and Ariel (DE). Next up: Club Der Polnischen Versager, Berlin on Fri 11 Sept.
 
@@ -24,4 +24,4 @@ Felipe G is an electronica and disco artist tracked on soundcheck, with 8 sets l
 
 Juan Ferreyra, Alison Swing, Ariel (DE)
 
-*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/felipeg/)*
+*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/felipeg/)*

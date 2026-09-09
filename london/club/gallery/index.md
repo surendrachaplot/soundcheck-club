@@ -1,8 +1,8 @@
 # Gallery
 
-Gallery is a music venue in London with 15 upcoming nights listed on soundcheck as of Tue, 8 Sept 2026; the next is "Paradox Nexus: Watchers - Thursdays at Gallery" on Thu, 10 Sept 2026.
+Gallery is a music venue in London with 19 upcoming nights listed on soundcheck as of Wed, 9 Sept 2026; the next is "Paradox Nexus: Watchers - Thursdays at Gallery" on Thu, 10 Sept 2026.
 
-Gallery is a music venue in London listed on soundcheck. 15 upcoming nights, with line-ups including FLETCH, Maqossa, AGELESS and Anna Tur and 2 more. Browse upcoming dates, start times and who's playing. 2A Kensington High Street, London, W8 4PT.
+Gallery is a music venue in London listed on soundcheck. 19 upcoming nights, with line-ups including FLETCH, Maqossa, AGELESS and Anna Tur and 2 more. Browse upcoming dates, start times and who's playing. 2A Kensington High Street, London, W8 4PT.
 
 ## What's on
 
@@ -23,4 +23,4 @@ Gallery is a music venue in London listed on soundcheck. 15 upcoming nights, wit
 
 2A Kensington High Street, London, W8 4PT, London
 
-*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/gallery/)*
+*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/gallery/)*

@@ -1,6 +1,6 @@
 # Miqui Brightside
 
-Miqui Brightside is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Tue, 8 Sept 2026, next at Club Malasaña, Madrid on Fri, 18 Sept 2026.
+Miqui Brightside is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Wed, 9 Sept 2026, next at Club Malasaña, Madrid on Fri, 18 Sept 2026.
 
 Miqui Brightside is a tech house and house artist tracked on soundcheck, with 53 sets logged across Kyoto and Madrid. Often billed alongside Aleksandir, Carla Clay and Evil Diego. Next up: Club Malasaña, Madrid on Fri 18 Sept.
 
@@ -25,4 +25,4 @@ Miqui Brightside is a tech house and house artist tracked on soundcheck, with 53
 
 Aleksandir, Carla Clay, Evil Diego
 
-*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/miquibrightside/)*
+*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/miquibrightside/)*

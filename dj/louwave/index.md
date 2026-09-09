@@ -1,8 +1,8 @@
 # Louwave
 
-Louwave is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Tue, 8 Sept 2026, next at Jasna 1, Warsaw on Fri, 18 Sept 2026.
+Louwave is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Wed, 9 Sept 2026, next at Jasna 1, Warsaw on Fri, 18 Sept 2026.
 
-Louwave is a techno and tech house artist tracked on soundcheck, with 9 sets logged across Berlin, London, Tbilisi and Toronto and 1 more. Often billed alongside Splinter (UA), Nastia and Stanislav Tolkachev. Next up: Jasna 1, Warsaw on Fri 18 Sept.
+Louwave is a techno and electro artist tracked on soundcheck, with 9 sets logged across Berlin, London, Tbilisi and Toronto and 1 more. Often billed alongside Splinter (UA), Nastia and Stanislav Tolkachev. Next up: Jasna 1, Warsaw on Fri 18 Sept.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Louwave is a techno and tech house artist tracked on soundcheck, with 9 sets log
 
 Splinter (UA), Nastia, Stanislav Tolkachev
 
-*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/louwave/)*
+*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/louwave/)*

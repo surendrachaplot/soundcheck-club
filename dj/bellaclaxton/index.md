@@ -1,6 +1,6 @@
 # Bella Claxton
 
-Bella Claxton is a Techno and House artist with 12 upcoming club dates listed on soundcheck as of Tue, 8 Sept 2026, next at TBA - Fohrstraat, 9000 Gent, België, Ghent on Sat, 26 Sept 2026.
+Bella Claxton is a Techno and House artist with 12 upcoming club dates listed on soundcheck as of Wed, 9 Sept 2026, next at TBA - Fohrstraat, 9000 Gent, België, Ghent on Sat, 26 Sept 2026.
 
 Bella Claxton is a techno and house artist tracked on soundcheck, with 120 sets logged across Amsterdam, Antwerp, Auckland and Bali and 25 more. Often billed alongside Kyle Starkey, Faster Horses and LAMMER. Next up: TBA - Fohrstraat, 9000 Gent, België, Ghent on Sat 26 Sept.
 
@@ -36,4 +36,4 @@ Bella Claxton is a techno and house artist tracked on soundcheck, with 120 sets 
 
 Kyle Starkey, Faster Horses, LAMMER
 
-*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bellaclaxton/)*
+*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bellaclaxton/)*

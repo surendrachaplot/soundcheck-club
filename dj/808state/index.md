@@ -1,6 +1,6 @@
 # 808 State
 
-808 State is a Acid and House artist with 1 upcoming club date listed on soundcheck as of Tue, 8 Sept 2026, next at Sidney & Matilda, Sheffield on Sat, 24 Oct 2026.
+808 State is a Acid and House artist with 1 upcoming club date listed on soundcheck as of Wed, 9 Sept 2026, next at Sidney & Matilda, Sheffield on Sat, 24 Oct 2026.
 
 808 State is an acid and house artist based in United Kingdom, tracked on soundcheck, with 21 sets logged across Amsterdam, Birmingham, Brighton and Bristol and 9 more. Often billed alongside Graeme Park, Jon Dasilva and Justin Robertson. Next up: Sidney & Matilda, Sheffield on Sat 24 Oct.
 
@@ -25,4 +25,4 @@
 
 Graeme Park, Jon Dasilva, Justin Robertson
 
-*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/808state/)*
+*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/808state/)*

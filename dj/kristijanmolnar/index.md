@@ -1,6 +1,6 @@
 # Kristijan Molnar
 
-Kristijan Molnar is a House and Electro artist with 1 upcoming club date listed on soundcheck as of Tue, 8 Sept 2026, next at Klub 20/44, Belgrade on Fri, 11 Sept 2026.
+Kristijan Molnar is a House and Electro artist with 1 upcoming club date listed on soundcheck as of Wed, 9 Sept 2026, next at Klub 20/44, Belgrade on Fri, 11 Sept 2026.
 
 Kristijan Molnar is a house and electro artist tracked on soundcheck, with 19 sets logged across Belgrade and Budapest. Often billed alongside Âme, Alan Dixon and Cosmic G. Next up: Klub 20/44, Belgrade on Fri 11 Sept.
 
@@ -25,4 +25,4 @@ Kristijan Molnar is a house and electro artist tracked on soundcheck, with 19 se
 
 Âme, Alan Dixon, Cosmic G
 
-*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kristijanmolnar/)*
+*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kristijanmolnar/)*

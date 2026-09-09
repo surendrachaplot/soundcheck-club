@@ -1,6 +1,6 @@
 # B72
 
-B72 is a music venue in Vienna with 2 upcoming nights listed on soundcheck as of Tue, 8 Sept 2026; the next is "BAYONNE" on Wed, 9 Sept 2026.
+B72 is a music venue in Vienna with 2 upcoming nights listed on soundcheck as of Wed, 9 Sept 2026; the next is "BAYONNE" on Wed, 9 Sept 2026.
 
 B72 is a music venue in Vienna listed on soundcheck. 2 upcoming nights. Browse upcoming dates, start times and who's playing. Hernalser Gürtel 72-73, 1080 Wien, Austria.
 
@@ -15,4 +15,4 @@ B72 is a music venue in Vienna listed on soundcheck. 2 upcoming nights. Browse u
 
 Hernalser Gürtel 72-73, 1080 Wien, Austria, Vienna
 
-*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/vienna/club/b72/)*
+*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/vienna/club/b72/)*

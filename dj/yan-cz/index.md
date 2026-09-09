@@ -1,8 +1,8 @@
 # Yan (CZ)
 
-Yan (CZ) is a Techno and Trance artist with 3 upcoming club dates listed on soundcheck as of Tue, 8 Sept 2026, next at Gare Porto, Porto on Sat, 12 Sept 2026.
+Yan (CZ) is a Techno and Trance artist with 4 upcoming club dates listed on soundcheck as of Wed, 9 Sept 2026, next at Gare Porto, Porto on Sat, 12 Sept 2026.
 
-Yan (CZ) is a techno and trance artist tracked on soundcheck, with 96 sets logged across Barcelona, Berlin, Birmingham and Bristol and 14 more. Often billed alongside Alfred Czital, Dash (CZ) and NCOL. Next up: Gare Porto, Porto on Sat 12 Sept.
+Yan (CZ) is a techno and trance artist tracked on soundcheck, with 97 sets logged across Barcelona, Berlin, Birmingham and Bristol and 14 more. Often billed alongside Alfred Czital, Dash (CZ) and NCOL. Next up: Gare Porto, Porto on Sat 12 Sept.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ Yan (CZ) is a techno and trance artist tracked on soundcheck, with 96 sets logge
 | Sat, 12 Sept 2026 | Gare Porto | Porto |
 | Fri, 2 Oct 2026 | Bike Jesus | Prague |
 | Fri, 9 Oct 2026 | Depot Mayfield | Manchester |
+| Fri, 16 Oct 2026 | Ankali & Planeta Za | Prague |
 
 ## Recently played
 
@@ -27,4 +28,4 @@ Yan (CZ) is a techno and trance artist tracked on soundcheck, with 96 sets logge
 
 Alfred Czital, Dash (CZ), NCOL
 
-*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/yan-cz/)*
+*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/yan-cz/)*

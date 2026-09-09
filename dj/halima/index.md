@@ -1,6 +1,6 @@
 # Halima
 
-Halima is a Afrobeat and Amapiano artist with 1 upcoming club date listed on soundcheck as of Tue, 8 Sept 2026, next at Silence Please, New York City on Sat, 19 Sept 2026.
+Halima is a Afrobeat and Amapiano artist with 1 upcoming club date listed on soundcheck as of Wed, 9 Sept 2026, next at Silence Please, New York City on Sat, 19 Sept 2026.
 
 Halima is an afrobeat and amapiano artist based in United States of America, tracked on soundcheck, with 5 sets logged across Bristol, London and Newyorkcity. Often billed alongside DAY/DEM, Daniro and Lexxi. Next up: Silence Please, Newyorkcity on Sat 19 Sept.
 
@@ -21,4 +21,4 @@ Halima is an afrobeat and amapiano artist based in United States of America, tra
 
 DAY/DEM, Daniro, Lexxi
 
-*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/halima/)*
+*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/halima/)*

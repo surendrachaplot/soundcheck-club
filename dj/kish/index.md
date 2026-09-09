@@ -1,6 +1,6 @@
 # kish
 
-kish is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Tue, 8 Sept 2026, next at TBA - Secret Location, Vancouver on Sat, 12 Sept 2026.
+kish is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Wed, 9 Sept 2026, next at TBA - Secret Location, Vancouver on Sat, 12 Sept 2026.
 
 kish is a techno and house artist based in India, tracked on soundcheck, with 23 sets logged across Cologne, Osaka and Vancouver. Often billed alongside Bronsön, MiiiW and POPU. Next up: TBA - Secret Location, Vancouver on Sat 12 Sept.
 
@@ -26,4 +26,4 @@ kish is a techno and house artist based in India, tracked on soundcheck, with 23
 
 Bronsön, MiiiW, POPU
 
-*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kish/)*
+*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kish/)*

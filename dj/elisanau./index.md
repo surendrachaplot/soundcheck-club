@@ -1,6 +1,6 @@
 # Elisa Nau.
 
-Elisa Nau. is a Tech House and Techno artist with 8 upcoming club dates listed on soundcheck as of Tue, 8 Sept 2026, next at Union Club, Vauxhall, London on Thu, 10 Sept 2026.
+Elisa Nau. is a Tech House and Techno artist with 8 upcoming club dates listed on soundcheck as of Wed, 9 Sept 2026, next at Union Club, Vauxhall, London on Thu, 10 Sept 2026.
 
 Elisa Nau. is a tech house and techno artist tracked on soundcheck, with 29 sets logged across Amsterdam and London. Often billed alongside Duwat?, Simone Sim and Dhez. Next up: Union Club, Vauxhall, London on Thu 10 Sept.
 
@@ -32,4 +32,4 @@ Elisa Nau. is a tech house and techno artist tracked on soundcheck, with 29 sets
 
 Duwat?, Simone Sim, Dhez
 
-*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/elisanau./)*
+*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/elisanau./)*

@@ -1,6 +1,6 @@
 # I-Robots
 
-I-Robots is a Disco and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 8 Sept 2026, next at Bunker, Turin on Sun, 18 Oct 2026.
+I-Robots is a Disco and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 9 Sept 2026, next at Bunker, Turin on Sun, 18 Oct 2026.
 
 I-Robots is a disco and techno artist tracked on soundcheck, with 10 sets logged across Turin. Often billed alongside Daniele Baldelli, Federico Gandin and Lorenzo LSP. Next up: Bunker, Turin on Sun 18 Oct.
 
@@ -25,4 +25,4 @@ I-Robots is a disco and techno artist tracked on soundcheck, with 10 sets logged
 
 Daniele Baldelli, Federico Gandin, Lorenzo LSP
 
-*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/i-robots/)*
+*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/i-robots/)*

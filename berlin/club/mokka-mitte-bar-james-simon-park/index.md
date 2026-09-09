@@ -1,6 +1,6 @@
 # Mokka Mitte Bar / James Simon Park
 
-Mokka Mitte Bar / James Simon Park is a music venue in Berlin with 2 upcoming nights listed on soundcheck as of Tue, 8 Sept 2026; the next is "IRREGULARS 002" on Fri, 11 Sept 2026.
+Mokka Mitte Bar / James Simon Park is a music venue in Berlin with 2 upcoming nights listed on soundcheck as of Wed, 9 Sept 2026; the next is "IRREGULARS 002" on Fri, 11 Sept 2026.
 
 Mokka Mitte Bar / James Simon Park is a music venue in Berlin listed on soundcheck. 2 upcoming nights, with line-ups including DJ himself, E.lias, high.ko and Karim Alkhayat and 1 more. Browse upcoming dates, start times and who's playing. Stadtbahnbogen 159/160, 10178 Berlin-Mitte, im James Simon Park.
 
@@ -15,4 +15,4 @@ Mokka Mitte Bar / James Simon Park is a music venue in Berlin listed on soundche
 
 Stadtbahnbogen 159/160, 10178 Berlin-Mitte, im James Simon Park, Berlin
 
-*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/mokka-mitte-bar-james-simon-park/)*
+*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/mokka-mitte-bar-james-simon-park/)*

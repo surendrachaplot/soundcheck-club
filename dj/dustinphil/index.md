@@ -1,6 +1,6 @@
 # Dustin Phil
 
-Dustin Phil is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Tue, 8 Sept 2026, next at The Rocket Club, Milan on Thu, 10 Sept 2026.
+Dustin Phil is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Wed, 9 Sept 2026, next at The Rocket Club, Milan on Thu, 10 Sept 2026.
 
 Dustin Phil is a house and tech house artist tracked on soundcheck, with 24 sets logged across London, Milan and Munich. Often billed alongside Sound Shapes, Massi Rocket and julës jay. Next up: The Rocket Club, Milan on Thu 10 Sept.
 
@@ -25,4 +25,4 @@ Dustin Phil is a house and tech house artist tracked on soundcheck, with 24 sets
 
 Sound Shapes, Massi Rocket, julës jay
 
-*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dustinphil/)*
+*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dustinphil/)*

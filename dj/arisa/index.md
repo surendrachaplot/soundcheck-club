@@ -1,6 +1,6 @@
 # ARISA
 
-ARISA is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Tue, 8 Sept 2026, next at TBA - Location Link in Bio on Instagram @recollectunderground, Los Angeles on Thu, 10 Sept 2026.
+ARISA is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Wed, 9 Sept 2026, next at TBA - Location Link in Bio on Instagram @recollectunderground, Los Angeles on Thu, 10 Sept 2026.
 
 ARISA is a house and techno artist based in Japan, tracked on soundcheck, with 23 sets logged across Losangeles, Rome and Tokyo. Often billed alongside SIGNAL (JP), Gewnky and cosmolady. Next up: TBA - Location Link in Bio on Instagram @recollectunderground, Losangeles on Thu 10 Sept.
 
@@ -28,4 +28,4 @@ ARISA is a house and techno artist based in Japan, tracked on soundcheck, with 2
 
 SIGNAL (JP), Gewnky, cosmolady
 
-*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/arisa/)*
+*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/arisa/)*

@@ -1,8 +1,8 @@
 # Kanine
 
-Kanine is a Drum & Bass and House artist with 7 upcoming club dates listed on soundcheck as of Tue, 8 Sept 2026, next at Eatons Hill Hotel and Function Centre, Brisbane on Sat, 26 Sept 2026.
+Kanine is a Drum & Bass and House artist with 8 upcoming club dates listed on soundcheck as of Wed, 9 Sept 2026, next at Eatons Hill Hotel and Function Centre, Brisbane on Sat, 26 Sept 2026.
 
-Kanine is a drum & bass and house artist tracked on soundcheck, with 92 sets logged across Amsterdam, Auckland, Birmingham and Brighton and 38 more. Often billed alongside Mozey, Bou (UK) and Disrupta. Next up: Eatons Hill Hotel and Function Centre, Brisbane on Sat 26 Sept.
+Kanine is a drum & bass and house artist tracked on soundcheck, with 93 sets logged across Amsterdam, Auckland, Birmingham and Brighton and 38 more. Often billed alongside Mozey, Bou (UK) and Disrupta. Next up: Eatons Hill Hotel and Function Centre, Brisbane on Sat 26 Sept.
 
 ## Upcoming shows
 
@@ -15,6 +15,7 @@ Kanine is a drum & bass and house artist tracked on soundcheck, with 92 sets log
 | Sat, 7 Nov 2026 | DRUMSHEDS | London |
 | Sat, 14 Nov 2026 | Melkweg | Amsterdam |
 | Fri, 27 Nov 2026 | A38 | Budapest |
+| Sat, 28 Nov 2026 | Roxy | Prague |
 
 ## Recently played
 
@@ -31,4 +32,4 @@ Kanine is a drum & bass and house artist tracked on soundcheck, with 92 sets log
 
 Mozey, Bou (UK), Disrupta
 
-*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kanine/)*
+*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kanine/)*

@@ -1,6 +1,6 @@
 # EIJU
 
-EIJU is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 8 Sept 2026, next at 浅草金虎, Tokyo on Sun, 13 Sept 2026.
+EIJU is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 9 Sept 2026, next at 浅草金虎, Tokyo on Sun, 13 Sept 2026.
 
 EIJU is a techno and house artist based in Japan, tracked on soundcheck, with 11 sets logged across Tokyo. Often billed alongside mieux (JP), Mieux and BEPPU. Next up: 浅草金虎, Tokyo on Sun 13 Sept.
 
@@ -25,4 +25,4 @@ EIJU is a techno and house artist based in Japan, tracked on soundcheck, with 11
 
 mieux (JP), Mieux, BEPPU
 
-*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/eiju/)*
+*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/eiju/)*

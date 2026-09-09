@@ -1,6 +1,6 @@
 # AOKI takamasa
 
-AOKI takamasa is a Techno and Minimal artist with 4 upcoming club dates listed on soundcheck as of Tue, 8 Sept 2026, next at Kaze-no-Hiroba Plaza, Osaka on Thu, 17 Sept 2026.
+AOKI takamasa is a Techno and Minimal artist with 4 upcoming club dates listed on soundcheck as of Wed, 9 Sept 2026, next at Kaze-no-Hiroba Plaza, Osaka on Thu, 17 Sept 2026.
 
 AOKI takamasa is a techno and minimal artist tracked on soundcheck, with 112 sets logged across Bali, Berlin, Bucharest and Kyoto and 3 more. Often billed alongside Kohei, Loe (JP) and Endurance. Next up: Kaze-no-Hiroba Plaza, Osaka on Thu 17 Sept.
 
@@ -28,4 +28,4 @@ AOKI takamasa is a techno and minimal artist tracked on soundcheck, with 112 set
 
 Kohei, Loe (JP), Endurance
 
-*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/aokitakamasa/)*
+*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/aokitakamasa/)*

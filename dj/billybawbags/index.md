@@ -1,6 +1,6 @@
 # billybawbags
 
-billybawbags is a Jungle and Drum & Bass artist with 1 upcoming club date listed on soundcheck as of Tue, 8 Sept 2026, next at Sneaky Pete's, Edinburgh on Thu, 24 Sept 2026.
+billybawbags is a Jungle and Drum & Bass artist with 1 upcoming club date listed on soundcheck as of Wed, 9 Sept 2026, next at Sneaky Pete's, Edinburgh on Thu, 24 Sept 2026.
 
 billybawbags is a jungle and drum & bass artist based in United Kingdom, tracked on soundcheck, with 12 sets logged across Edinburgh. Often billed alongside Gilbo, Texyo and Georj. Next up: Sneaky Pete's, Edinburgh on Thu 24 Sept.
 
@@ -25,4 +25,4 @@ billybawbags is a jungle and drum & bass artist based in United Kingdom, tracked
 
 Gilbo, Texyo, Georj
 
-*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/billybawbags/)*
+*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/billybawbags/)*

@@ -1,14 +1,15 @@
 # Jay Tripwire
 
-Jay Tripwire is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Tue, 8 Sept 2026, next at TBA, San Francisco/Oakland on Fri, 30 Oct 2026.
+Jay Tripwire is a House and Minimal artist with 2 upcoming club dates listed on soundcheck as of Wed, 9 Sept 2026, next at TBA, San Francisco/Oakland on Fri, 30 Oct 2026.
 
-Jay Tripwire is a house and minimal artist based in Canada, tracked on soundcheck, with 87 sets logged across Amsterdam, Auckland, Austin and Barcelona and 30 more. Often billed alongside Tyler Stadius, Maher Daniel and Danyelino. Next up: TBA, Sanfrancisco on Fri 30 Oct.
+Jay Tripwire is a house and minimal artist based in Canada, tracked on soundcheck, with 88 sets logged across Amsterdam, Auckland, Austin and Barcelona and 30 more. Often billed alongside Tyler Stadius, Maher Daniel and Danyelino. Next up: TBA, Sanfrancisco on Fri 30 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 30 Oct 2026 | TBA | San Francisco/Oakland |
+| Fri, 27 Nov 2026 | Eastern Bloc Records | Manchester |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Jay Tripwire is a house and minimal artist based in Canada, tracked on soundchec
 
 Tyler Stadius, Maher Daniel, Danyelino
 
-*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jaytripwire/)*
+*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jaytripwire/)*

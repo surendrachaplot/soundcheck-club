@@ -1,6 +1,6 @@
 # Chalo
 
-Chalo is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 8 Sept 2026, next at Dual, Bangkok on Fri, 11 Sept 2026.
+Chalo is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 9 Sept 2026, next at Dual, Bangkok on Fri, 11 Sept 2026.
 
 Chalo is a techno and house artist tracked on soundcheck, with 28 sets logged across Bangkok, Seoul and Singapore. Often billed alongside Vell, Elaheh and Kova O' Sarin. Next up: Dual, Bangkok on Fri 11 Sept.
 
@@ -25,4 +25,4 @@ Chalo is a techno and house artist tracked on soundcheck, with 28 sets logged ac
 
 Vell, Elaheh, Kova O' Sarin
 
-*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/chalo/)*
+*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/chalo/)*

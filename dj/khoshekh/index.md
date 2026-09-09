@@ -1,6 +1,6 @@
 # Khoshekh
 
-Khoshekh is a Progressive House and Deep House artist with 1 upcoming club date listed on soundcheck as of Tue, 8 Sept 2026, next at Basing House, London on Fri, 11 Sept 2026.
+Khoshekh is a Progressive House and Deep House artist with 1 upcoming club date listed on soundcheck as of Wed, 9 Sept 2026, next at Basing House, London on Fri, 11 Sept 2026.
 
 Khoshekh is a progressive house and deep house artist tracked on soundcheck, with 7 sets logged across London. Often billed alongside Simon Shehata, AALEX and Alythia Kwan. Next up: Basing House, London on Fri 11 Sept.
 
@@ -23,4 +23,4 @@ Khoshekh is a progressive house and deep house artist tracked on soundcheck, wit
 
 Simon Shehata, AALEX, Alythia Kwan
 
-*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/khoshekh/)*
+*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/khoshekh/)*

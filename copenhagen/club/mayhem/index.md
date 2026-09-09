@@ -1,6 +1,6 @@
 # Mayhem
 
-Mayhem is a music venue in Copenhagen with 2 upcoming nights listed on soundcheck as of Tue, 8 Sept 2026; the next is "12 Years of Janushoved" on Fri, 18 Sept 2026.
+Mayhem is a music venue in Copenhagen with 2 upcoming nights listed on soundcheck as of Wed, 9 Sept 2026; the next is "12 Years of Janushoved" on Fri, 18 Sept 2026.
 
 Mayhem is a music venue in Copenhagen listed on soundcheck. 2 upcoming nights, with line-ups including Hasfeldt, jjjacob and Markus Sollid. Browse upcoming dates, start times and who's playing. Ragnhildgade 1; 2100 Copenhagen.
 
@@ -15,4 +15,4 @@ Mayhem is a music venue in Copenhagen listed on soundcheck. 2 upcoming nights, w
 
 Ragnhildgade 1; 2100 Copenhagen, Copenhagen
 
-*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/copenhagen/club/mayhem/)*
+*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/copenhagen/club/mayhem/)*

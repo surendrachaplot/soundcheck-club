@@ -1,6 +1,6 @@
 # Saigon Prince Hotel
 
-Saigon Prince Hotel is a Club and House artist with 1 upcoming club date listed on soundcheck as of Tue, 8 Sept 2026, next at The Jama, Toronto on Sat, 19 Sept 2026.
+Saigon Prince Hotel is a Club and House artist with 1 upcoming club date listed on soundcheck as of Wed, 9 Sept 2026, next at The Jama, Toronto on Sat, 19 Sept 2026.
 
 Saigon Prince Hotel is a club and house artist based in Canada, tracked on soundcheck, with 5 sets logged across Toronto. Often billed alongside Ester Shiner, dj miss and moii-chan. Next up: The Jama, Toronto on Sat 19 Sept.
 
@@ -21,4 +21,4 @@ Saigon Prince Hotel is a club and house artist based in Canada, tracked on sound
 
 Ester Shiner, dj miss, moii-chan
 
-*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/saigonprincehotel/)*
+*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/saigonprincehotel/)*

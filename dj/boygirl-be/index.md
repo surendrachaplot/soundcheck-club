@@ -1,6 +1,6 @@
 # BOY&GIRL
 
-BOY&GIRL is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Tue, 8 Sept 2026, next at Château Moderne, Brussels on Sat, 19 Sept 2026.
+BOY&GIRL is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Wed, 9 Sept 2026, next at Château Moderne, Brussels on Sat, 19 Sept 2026.
 
 BOY&GIRL is a techno and trance artist based in Belgium, tracked on soundcheck, with 3 sets logged across Antwerp and Brussels. Often billed alongside Dj Schnake, Holiness and Jacidorex. Next up: Château Moderne, Brussels on Sat 19 Sept.
 
@@ -19,4 +19,4 @@ BOY&GIRL is a techno and trance artist based in Belgium, tracked on soundcheck, 
 
 Dj Schnake, Holiness, Jacidorex
 
-*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/boygirl-be/)*
+*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/boygirl-be/)*

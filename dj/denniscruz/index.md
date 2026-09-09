@@ -1,6 +1,6 @@
 # Dennis Cruz
 
-Dennis Cruz is a Tech House and House artist with 10 upcoming club dates listed on soundcheck as of Tue, 8 Sept 2026, next at TBA - Löwenpalais Berlin Grunewald   Koenigsallee 30 - 32, 14193 Berlin, Berlin on Fri, 11 Sept 2026.
+Dennis Cruz is a Tech House and House artist with 10 upcoming club dates listed on soundcheck as of Wed, 9 Sept 2026, next at TBA - Löwenpalais Berlin Grunewald   Koenigsallee 30 - 32, 14193 Berlin, Berlin on Fri, 11 Sept 2026.
 
 Dennis Cruz is a tech house and house artist tracked on soundcheck, with 180 sets logged across Amsterdam, Athens, Barcelona and Basel and 38 more. Often billed alongside PAWSA, Marco Carola and ANOTR. Next up: TBA - Löwenpalais Berlin Grunewald   Koenigsallee 30 - 32, 14193 Berlin, Berlin on Fri 11 Sept.
 
@@ -34,4 +34,4 @@ Dennis Cruz is a tech house and house artist tracked on soundcheck, with 180 set
 
 PAWSA, Marco Carola, ANOTR
 
-*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/denniscruz/)*
+*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/denniscruz/)*

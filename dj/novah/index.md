@@ -1,6 +1,6 @@
 # NOVAH
 
-NOVAH is a Techno and Trance artist with 12 upcoming club dates listed on soundcheck as of Tue, 8 Sept 2026, next at Mondo Open Air, Madrid on Sat, 12 Sept 2026.
+NOVAH is a Techno and Trance artist with 12 upcoming club dates listed on soundcheck as of Wed, 9 Sept 2026, next at Mondo Open Air, Madrid on Sat, 12 Sept 2026.
 
 NOVAH is a techno and trance artist tracked on soundcheck, with 170 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 46 more. Often billed alongside Cloudy, Nico Moreno and Onlynumbers. Next up: Mondo Open Air, Madrid on Sat 12 Sept.
 
@@ -36,4 +36,4 @@ NOVAH is a techno and trance artist tracked on soundcheck, with 170 sets logged 
 
 Cloudy, Nico Moreno, Onlynumbers
 
-*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/novah/)*
+*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/novah/)*

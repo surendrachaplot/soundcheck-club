@@ -1,6 +1,6 @@
 # The Sound House
 
-The Sound House is a music venue in Dublin with 10 upcoming nights listed on soundcheck as of Tue, 8 Sept 2026; the next is "KRONIK006 - B2B ALL NIGHT LONG" on Fri, 11 Sept 2026.
+The Sound House is a music venue in Dublin with 10 upcoming nights listed on soundcheck as of Wed, 9 Sept 2026; the next is "KRONIK006 - B2B ALL NIGHT LONG" on Fri, 11 Sept 2026.
 
 The Sound House is a music venue in Dublin listed on soundcheck. 10 upcoming nights, with line-ups including Bronwyn., Girls of the Internet, JWY (1) and Sean Johnston and 2 more. Browse upcoming dates, start times and who's playing. 28 Eden Quay, Dublin, Ireland..
 
@@ -23,4 +23,4 @@ The Sound House is a music venue in Dublin listed on soundcheck. 10 upcoming nig
 
 28 Eden Quay, Dublin, Ireland., Dublin
 
-*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dublin/club/the-sound-house/)*
+*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dublin/club/the-sound-house/)*

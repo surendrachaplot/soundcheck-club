@@ -1,6 +1,6 @@
 # Grand Café Heineken Hoek
 
-Grand Café Heineken Hoek is a music venue in Amsterdam with 10 upcoming nights listed on soundcheck as of Tue, 8 Sept 2026; the next is "Heineken Hoek Club - Corner Fridays Disco & House" on Fri, 11 Sept 2026.
+Grand Café Heineken Hoek is a music venue in Amsterdam with 10 upcoming nights listed on soundcheck as of Wed, 9 Sept 2026; the next is "Heineken Hoek Club - Corner Fridays Disco & House" on Fri, 11 Sept 2026.
 
 Grand Café Heineken Hoek is a music venue in Amsterdam listed on soundcheck. 10 upcoming nights, with line-ups including Angelo Ferreri, Becking, Black Legend and Charlie Brown and 2 more. Browse upcoming dates, start times and who's playing. Kleine Gartmanplantsoen 1, 1017 Amsterdam, Netherlands.
 
@@ -23,4 +23,4 @@ Grand Café Heineken Hoek is a music venue in Amsterdam listed on soundcheck. 10
 
 Kleine Gartmanplantsoen 1, 1017 Amsterdam, Netherlands, Amsterdam
 
-*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/grand-caf-heineken-hoek/)*
+*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/grand-caf-heineken-hoek/)*

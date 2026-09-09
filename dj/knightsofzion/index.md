@@ -1,6 +1,6 @@
 # Knights of Zion
 
-Knights of Zion is a House and Club artist with 1 upcoming club date listed on soundcheck as of Tue, 8 Sept 2026, next at Barra 90, Los Angeles on Sun, 20 Sept 2026.
+Knights of Zion is a House and Club artist with 1 upcoming club date listed on soundcheck as of Wed, 9 Sept 2026, next at Barra 90, Los Angeles on Sun, 20 Sept 2026.
 
 Knights of Zion is a house and club artist tracked on soundcheck, with 3 sets logged across Losangeles. Often billed alongside NAYGOD, Shaun Ross and Terrell Brooke. Next up: Barra 90, Losangeles on Sun 20 Sept.
 
@@ -19,4 +19,4 @@ Knights of Zion is a house and club artist tracked on soundcheck, with 3 sets lo
 
 NAYGOD, Shaun Ross, Terrell Brooke
 
-*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/knightsofzion/)*
+*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/knightsofzion/)*

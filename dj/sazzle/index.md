@@ -1,6 +1,6 @@
 # Sazzle
 
-Sazzle is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Tue, 8 Sept 2026, next at Distillery N17, London on Fri, 9 Oct 2026.
+Sazzle is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Wed, 9 Sept 2026, next at Distillery N17, London on Fri, 9 Oct 2026.
 
 Sazzle is a techno and house artist tracked on soundcheck, with 27 sets logged across Belfast, London and Newcastle. Often billed alongside Elianne, TEDESCO and AKU (3). Next up: Distillery N17, London on Fri 9 Oct.
 
@@ -26,4 +26,4 @@ Sazzle is a techno and house artist tracked on soundcheck, with 27 sets logged a
 
 Elianne, TEDESCO, AKU (3)
 
-*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sazzle/)*
+*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sazzle/)*

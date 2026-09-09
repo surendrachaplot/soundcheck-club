@@ -1,6 +1,6 @@
 # Langnikel
 
-Langnikel is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 8 Sept 2026, next at elipamanoke, Leipzig on Sat, 19 Sept 2026.
+Langnikel is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 9 Sept 2026, next at elipamanoke, Leipzig on Sat, 19 Sept 2026.
 
 Langnikel is a techno and house artist tracked on soundcheck, with 12 sets logged across Leipzig. Often billed alongside Fennek, Moto Moto and CAMPA. Next up: elipamanoke, Leipzig on Sat 19 Sept.
 
@@ -25,4 +25,4 @@ Langnikel is a techno and house artist tracked on soundcheck, with 12 sets logge
 
 Fennek, Moto Moto, CAMPA
 
-*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/langnikel/)*
+*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/langnikel/)*

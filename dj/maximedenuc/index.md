@@ -1,6 +1,6 @@
 # Maxime Denuc
 
-Maxime Denuc is a Experimental and Ambient artist with 1 upcoming club date listed on soundcheck as of Tue, 8 Sept 2026, next at Kölner Philharmonie, Cologne on Wed, 23 Sept 2026.
+Maxime Denuc is a Experimental and Ambient artist with 1 upcoming club date listed on soundcheck as of Wed, 9 Sept 2026, next at Kölner Philharmonie, Cologne on Wed, 23 Sept 2026.
 
 Maxime Denuc is an experimental and ambient artist tracked on soundcheck, with 6 sets logged across Berlin, Brussels, Cologne and London. Often billed alongside Mika Oki, Actress and AliA. Next up: Kölner Philharmonie, Cologne on Wed 23 Sept.
 
@@ -22,4 +22,4 @@ Maxime Denuc is an experimental and ambient artist tracked on soundcheck, with 6
 
 Mika Oki, Actress, AliA
 
-*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/maximedenuc/)*
+*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/maximedenuc/)*

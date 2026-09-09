@@ -1,14 +1,13 @@
 # Tripolism
 
-Tripolism is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Tue, 8 Sept 2026, next at Scorpios, Mykonos on Tue, 8 Sept 2026.
+Tripolism is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Wed, 9 Sept 2026, next at Valby Parken, Copenhagen on Fri, 11 Sept 2026.
 
-Tripolism is a house and techno artist tracked on soundcheck, with 75 sets logged across Amsterdam, Athens, Barcelona and Berlin and 26 more. Often billed alongside Bedouin, WhoMadeWho and Franky Wah. Next up: Scorpios, Mykonos on Tue 8 Sept.
+Tripolism is a house and techno artist tracked on soundcheck, with 75 sets logged across Amsterdam, Athens, Barcelona and Berlin and 26 more. Often billed alongside Bedouin, WhoMadeWho and Franky Wah. Next up: Valby Parken, Copenhagen on Fri 11 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Tue, 8 Sept 2026 | Scorpios | Mykonos |
 | Fri, 11 Sept 2026 | Valby Parken | Copenhagen |
 | Fri, 18 Sept 2026 | TBA - Aeródromo Vilar de Luz - LPVL, 4425 Folgosa, Portugal | Porto |
 | Fri, 2 Oct 2026 | Wollman Rink | New York City |
@@ -16,6 +15,7 @@ Tripolism is a house and techno artist tracked on soundcheck, with 75 sets logge
 
 ## Recently played
 
+- Scorpios, Mykonos — Tue, 8 Sept 2026
 - Amok Club, Mallorca — Mon, 31 Aug 2026
 - Hï Ibiza, Ibiza — Mon, 17 Aug 2026
 - SAGE, Berlin — Sat, 15 Aug 2026
@@ -23,10 +23,9 @@ Tripolism is a house and techno artist tracked on soundcheck, with 75 sets logge
 - Boston Manor Park, London — Sun, 26 Jul 2026
 - Chinois Ibiza, Ibiza — Sun, 19 Jul 2026
 - Club Space Miami, Miami — Sat, 11 Jul 2026
-- Airport Düsseldorf, Düsseldorf — Sat, 4 Jul 2026
 
 ## Shares bills with
 
 Bedouin, WhoMadeWho, Franky Wah
 
-*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tripolism/)*
+*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tripolism/)*

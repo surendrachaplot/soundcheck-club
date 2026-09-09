@@ -1,6 +1,6 @@
 # Silvi Knallt
 
-Silvi Knallt is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Tue, 8 Sept 2026, next at Bahnwärter Thiel, Munich on Fri, 11 Sept 2026.
+Silvi Knallt is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Wed, 9 Sept 2026, next at Bahnwärter Thiel, Munich on Fri, 11 Sept 2026.
 
 Silvi Knallt is a techno and trance artist tracked on soundcheck, with 37 sets logged across Berlin, Hamburg, Leipzig and Munich. Often billed alongside Emel White, Blank Vision and Sabura. Next up: Bahnwärter Thiel, Munich on Fri 11 Sept.
 
@@ -25,4 +25,4 @@ Silvi Knallt is a techno and trance artist tracked on soundcheck, with 37 sets l
 
 Emel White, Blank Vision, Sabura
 
-*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/silviknallt/)*
+*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/silviknallt/)*

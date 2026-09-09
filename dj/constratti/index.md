@@ -1,14 +1,15 @@
 # Constratti
 
-Constratti is a Minimal and House artist with 1 upcoming club date listed on soundcheck as of Tue, 8 Sept 2026, next at BRET, Amsterdam on Fri, 11 Sept 2026.
+Constratti is a Minimal and House artist with 2 upcoming club dates listed on soundcheck as of Wed, 9 Sept 2026, next at BRET, Amsterdam on Fri, 11 Sept 2026.
 
-Constratti is a minimal and house artist tracked on soundcheck, with 24 sets logged across Amsterdam, Barcelona, Berlin and Bucharest and 6 more. Often billed alongside Techu, Mihai Pol and BILA. Next up: BRET, Amsterdam on Fri 11 Sept.
+Constratti is a minimal and house artist tracked on soundcheck, with 25 sets logged across Amsterdam, Barcelona, Berlin and Bucharest and 6 more. Often billed alongside Techu, Mihai Pol and BILA. Next up: BRET, Amsterdam on Fri 11 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 11 Sept 2026 | BRET | Amsterdam |
+| Sat, 10 Oct 2026 | Last Arch | London |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Constratti is a minimal and house artist tracked on soundcheck, with 24 sets log
 
 Techu, Mihai Pol, BILA
 
-*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/constratti/)*
+*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/constratti/)*

@@ -1,20 +1,22 @@
 # Kadinsky Cafe
 
-Kadinsky Cafe is a music venue in Amsterdam with 4 upcoming nights listed on soundcheck as of Tue, 8 Sept 2026; the next is "KADINSKY invites West Station" on Sat, 12 Sept 2026.
+Kadinsky Cafe is a music venue in Amsterdam with 6 upcoming nights listed on soundcheck as of Wed, 9 Sept 2026; the next is "KADINSKY invites West Station" on Sat, 12 Sept 2026.
 
-Kadinsky Cafe is a music venue in Amsterdam listed on soundcheck. 4 upcoming nights, with line-ups including Albano Bastonero, Around Us, Bass van Duijn and Callecat and 2 more. Browse upcoming dates, start times and who's playing. Zoutsteeg 9-11 1012 LX Amsterdam.
+Kadinsky Cafe is a music venue in Amsterdam listed on soundcheck. 6 upcoming nights, with line-ups including Albano Bastonero, Around Us, Bass van Duijn and BODAI and 2 more. Browse upcoming dates, start times and who's playing. Zoutsteeg 9-11 1012 LX Amsterdam.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
 | Sat, 12 Sept 2026 | KADINSKY invites West Station | Gian Grassi, JUAN BELDARREIN, PABLON |
+| Sat, 19 Sept 2026 | Kadinsky Invites MOKUM SOUNDS |  |
 | Sat, 3 Oct 2026 | Dive Deep: Melodic Sessions Vol.I |  |
 | Wed, 21 Oct 2026 | Purrfection X LuchiSveta Label Showcase | Forty Cats, SisterSweet, Zehv |
 | Thu, 22 Oct 2026 | Around Us & Callecat Invites | Albano Bastonero, Around Us, Bass van Duijn, Callecat, Gustin, NOIYSE PROJECT, Nicholas Van Orton, Pablo Pegar, Rauschhaus |
+| Sat, 24 Oct 2026 | MANUAL Family Get Together 2026 | BODAI, Camiel Villa, DJ Zombi, MC PPholl, NOIYSE PROJECT, Paul Hazendonk, Qbical, QuiQui, ROARK |
 
 ## Address
 
 Zoutsteeg 9-11 1012 LX Amsterdam, Amsterdam
 
-*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/kadinsky-cafe/)*
+*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/kadinsky-cafe/)*

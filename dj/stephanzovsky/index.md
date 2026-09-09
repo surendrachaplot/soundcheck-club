@@ -1,6 +1,6 @@
 # Stephan Zovsky
 
-Stephan Zovsky is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 8 Sept 2026, next at Jonny Knüppel, Berlin on Sat, 12 Sept 2026.
+Stephan Zovsky is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 9 Sept 2026, next at Jonny Knüppel, Berlin on Sat, 12 Sept 2026.
 
 Stephan Zovsky is a techno and house artist tracked on soundcheck, with 20 sets logged across Amsterdam, Berlin, Copenhagen and Hamburg and 1 more. Often billed alongside LEENI, Mollono.Bass and Danilo Kupfernagel. Next up: Jonny Knüppel, Berlin on Sat 12 Sept.
 
@@ -25,4 +25,4 @@ Stephan Zovsky is a techno and house artist tracked on soundcheck, with 20 sets 
 
 LEENI, Mollono.Bass, Danilo Kupfernagel
 
-*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/stephanzovsky/)*
+*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/stephanzovsky/)*

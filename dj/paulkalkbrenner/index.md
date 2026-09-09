@@ -1,14 +1,15 @@
 # Paul Kalkbrenner
 
-Paul Kalkbrenner is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Tue, 8 Sept 2026, next at Theater Amsterdam, Amsterdam on Thu, 22 Oct 2026.
+Paul Kalkbrenner is a Techno and Electro artist with 2 upcoming club dates listed on soundcheck as of Wed, 9 Sept 2026, next at Theater Amsterdam, Amsterdam on Thu, 22 Oct 2026.
 
-Paul Kalkbrenner is a techno and electro artist tracked on soundcheck, with 60 sets logged across Amsterdam, Barcelona, Berlin and Brussels and 23 more. Often billed alongside Chelina Manuhutu, Jeff Mills and Adiel. Next up: Theater Amsterdam, Amsterdam on Thu 22 Oct.
+Paul Kalkbrenner is a techno and electro artist tracked on soundcheck, with 61 sets logged across Amsterdam, Barcelona, Berlin and Brussels and 23 more. Often billed alongside Chelina Manuhutu, Jeff Mills and Miss Monique. Next up: Theater Amsterdam, Amsterdam on Thu 22 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Thu, 22 Oct 2026 | Theater Amsterdam | Amsterdam |
+| Sat, 5 Dec 2026 | DRUMSHEDS | London |
 
 ## Recently played
 
@@ -23,6 +24,6 @@ Paul Kalkbrenner is a techno and electro artist tracked on soundcheck, with 60 s
 
 ## Shares bills with
 
-Chelina Manuhutu, Jeff Mills, Adiel
+Chelina Manuhutu, Jeff Mills, Miss Monique
 
-*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/paulkalkbrenner/)*
+*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/paulkalkbrenner/)*

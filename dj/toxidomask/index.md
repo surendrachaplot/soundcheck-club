@@ -1,13 +1,14 @@
 # Toxido Mask
 
-Toxido Mask is a Techno and Ambient artist with 1 upcoming club date listed on soundcheck as of Tue, 8 Sept 2026, next at Tresor / Globus, Berlin on Fri, 25 Sept 2026.
+Toxido Mask is a Techno and Ambient artist with 2 upcoming club dates listed on soundcheck as of Wed, 9 Sept 2026, next at Ikii, Berlin on Sat, 12 Sept 2026.
 
-Toxido Mask is a techno and ambient artist tracked on soundcheck, with 53 sets logged across Bangkok, Barcelona, Berlin and London and 3 more. Often billed alongside MAEDON, Ario and CONCEPTUAL. Next up: Tresor / Globus, Berlin on Fri 25 Sept.
+Toxido Mask is a techno and ambient artist tracked on soundcheck, with 54 sets logged across Bangkok, Barcelona, Berlin and London and 3 more. Often billed alongside MAEDON, Ario and CONCEPTUAL. Next up: Ikii, Berlin on Sat 12 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 12 Sept 2026 | Ikii | Berlin |
 | Fri, 25 Sept 2026 | Tresor / Globus | Berlin |
 
 ## Recently played
@@ -25,4 +26,4 @@ Toxido Mask is a techno and ambient artist tracked on soundcheck, with 53 sets l
 
 MAEDON, Ario, CONCEPTUAL
 
-*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/toxidomask/)*
+*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/toxidomask/)*

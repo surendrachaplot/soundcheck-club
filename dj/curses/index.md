@@ -1,6 +1,6 @@
 # Curses
 
-Curses is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Tue, 8 Sept 2026, next at Faust, Seoul on Thu, 10 Sept 2026.
+Curses is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Wed, 9 Sept 2026, next at Faust, Seoul on Thu, 10 Sept 2026.
 
 Curses is a techno and house artist tracked on soundcheck, with 174 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 55 more. Often billed alongside Rakans, The Lady Machine and Cormac. Next up: Faust, Seoul on Thu 10 Sept.
 
@@ -30,4 +30,4 @@ Curses is a techno and house artist tracked on soundcheck, with 174 sets logged 
 
 Rakans, The Lady Machine, Cormac
 
-*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/curses/)*
+*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/curses/)*

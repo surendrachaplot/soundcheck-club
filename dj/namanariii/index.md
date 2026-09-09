@@ -1,6 +1,6 @@
 # namanariii
 
-namanariii is a Techno and Breakbeat artist with 2 upcoming club dates listed on soundcheck as of Tue, 8 Sept 2026, next at ESC, Montreal on Sat, 12 Sept 2026.
+namanariii is a Techno and Breakbeat artist with 2 upcoming club dates listed on soundcheck as of Wed, 9 Sept 2026, next at ESC, Montreal on Sat, 12 Sept 2026.
 
 namanariii is a techno and breakbeat artist based in Lebanon, tracked on soundcheck, with 26 sets logged across Montreal and Prague. Often billed alongside BUYMEFLOVVERS, jiimi and ucanquit. Next up: ESC, Montreal on Sat 12 Sept.
 
@@ -26,4 +26,4 @@ namanariii is a techno and breakbeat artist based in Lebanon, tracked on soundch
 
 BUYMEFLOVVERS, jiimi, ucanquit
 
-*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/namanariii/)*
+*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/namanariii/)*

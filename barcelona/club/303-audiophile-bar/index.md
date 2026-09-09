@@ -1,6 +1,6 @@
 # 303 Audiophile Bar
 
-303 Audiophile Bar is a music venue in Barcelona with 23 upcoming nights listed on soundcheck as of Tue, 8 Sept 2026; the next is "DSS! x Love Lunatics at 303" on Thu, 10 Sept 2026.
+303 Audiophile Bar is a music venue in Barcelona with 23 upcoming nights listed on soundcheck as of Wed, 9 Sept 2026; the next is "DSS! x Love Lunatics at 303" on Thu, 10 Sept 2026.
 
 303 Audiophile Bar is a music venue in Barcelona listed on soundcheck. 23 upcoming nights, with line-ups including 100 faces, _Gabo, Adria (ES) and Alex Garcia (2) and 2 more. Browse upcoming dates, start times and who's playing. C/ de Casp, 33B, L'Eixample, 08010 Barcelona.
 
@@ -13,8 +13,8 @@
 | Sat, 12 Sept 2026 | Just Modular at 303 | ICKX, Selten, Waveratio 618 |
 | Thu, 17 Sept 2026 | Recordeep pres. Flo Masse at 303 | CMYK, Flo Massé, Noiro |
 | Fri, 18 Sept 2026 | Warping Time at 303 | 100 faces, DJ Gamba, Rafatel, Valeriana |
-| Sat, 19 Sept 2026 | Cupula Records at 303 | Adria (ES), Liana, Pacome |
-| Wed, 23 Sept 2026 | Grabe at 303 | Angel Mellado, Lisandro Mustapic |
+| Sat, 19 Sept 2026 | Cupula Records pres. Pacome & Liana at 303 | Adria (ES), Liana, Pacome |
+| Wed, 23 Sept 2026 | Grabe at 303 | Angel Mellado, Lisandro Mustapic, giac. |
 | Thu, 24 Sept 2026 | 303 pres. Liza / Brizas / Merlina | Brizas, Liza, Merlina P |
 | Fri, 25 Sept 2026 | Subliminal State x El Bassline pres. Marlie at 303 | Galu Bla, Marlie |
 | Sat, 26 Sept 2026 | Less Is More with Bassi at 303  | Guedes, Kid Moss |
@@ -23,4 +23,4 @@
 
 C/ de Casp, 33B, L'Eixample, 08010 Barcelona, Barcelona
 
-*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/303-audiophile-bar/)*
+*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/303-audiophile-bar/)*

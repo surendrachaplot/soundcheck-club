@@ -1,6 +1,6 @@
 # Boston Cyberarts
 
-Boston Cyberarts is a music venue in Boston with 1 upcoming night listed on soundcheck as of Tue, 8 Sept 2026; the next is "stoic da poet's Internet Search Party" on Sat, 26 Sept 2026.
+Boston Cyberarts is a music venue in Boston with 1 upcoming night listed on soundcheck as of Wed, 9 Sept 2026; the next is "stoic da poet's Internet Search Party" on Sat, 26 Sept 2026.
 
 Boston Cyberarts is a music venue in Boston listed on soundcheck. 1 upcoming night. Browse upcoming dates, start times and who's playing. 141 Green St, Boston, MA 02130, USA.
 
@@ -14,4 +14,4 @@ Boston Cyberarts is a music venue in Boston listed on soundcheck. 1 upcoming nig
 
 141 Green St, Boston, MA 02130, USA, Boston
 
-*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/boston/club/boston-cyberarts/)*
+*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/boston/club/boston-cyberarts/)*

@@ -1,8 +1,8 @@
 # Verraco
 
-Verraco is a Techno and Bass artist with 7 upcoming club dates listed on soundcheck as of Tue, 8 Sept 2026, next at Camp Kennybrook, New York City on Thu, 10 Sept 2026.
+Verraco is a Techno and Bass artist with 8 upcoming club dates listed on soundcheck as of Wed, 9 Sept 2026, next at Camp Kennybrook, New York City on Thu, 10 Sept 2026.
 
-Verraco is a techno and bass artist tracked on soundcheck, with 129 sets logged across Amsterdam, Athens, Barcelona and Berlin and 40 more. Often billed alongside Bitter Babe, CCL and Batu. Next up: Camp Kennybrook, Newyorkcity on Thu 10 Sept.
+Verraco is a techno and bass artist tracked on soundcheck, with 130 sets logged across Amsterdam, Athens, Barcelona and Berlin and 40 more. Often billed alongside Bitter Babe, CCL and Batu. Next up: Camp Kennybrook, Newyorkcity on Thu 10 Sept.
 
 ## Upcoming shows
 
@@ -14,6 +14,7 @@ Verraco is a techno and bass artist tracked on soundcheck, with 129 sets logged 
 | Fri, 2 Oct 2026 | TBA | Los Angeles |
 | Fri, 23 Oct 2026 | Bajes Amsterdam | Amsterdam |
 | Fri, 30 Oct 2026 | Hive Club | Zurich |
+| Sat, 31 Oct 2026 | Berghain / Panorama Bar / Säule | Berlin |
 | Fri, 6 Nov 2026 | Marble Bar | Detroit |
 
 ## Recently played
@@ -31,4 +32,4 @@ Verraco is a techno and bass artist tracked on soundcheck, with 129 sets logged 
 
 Bitter Babe, CCL, Batu
 
-*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/verraco/)*
+*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/verraco/)*

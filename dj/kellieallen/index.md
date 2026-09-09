@@ -1,6 +1,6 @@
 # Kellie Allen
 
-Kellie Allen is a House and Tech House artist with 6 upcoming club dates listed on soundcheck as of Tue, 8 Sept 2026, next at Chinois Ibiza, Ibiza on Thu, 10 Sept 2026.
+Kellie Allen is a House and Tech House artist with 6 upcoming club dates listed on soundcheck as of Wed, 9 Sept 2026, next at Chinois Ibiza, Ibiza on Thu, 10 Sept 2026.
 
 Kellie Allen is a house and tech house artist tracked on soundcheck, with 120 sets logged across Amsterdam, Antwerp, Bali and Barcelona and 21 more. Often billed alongside Prunk, Dennis Quin and M-High. Next up: Chinois Ibiza, Ibiza on Thu 10 Sept.
 
@@ -30,4 +30,4 @@ Kellie Allen is a house and tech house artist tracked on soundcheck, with 120 se
 
 Prunk, Dennis Quin, M-High
 
-*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kellieallen/)*
+*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kellieallen/)*

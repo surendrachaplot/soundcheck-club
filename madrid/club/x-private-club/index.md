@@ -1,6 +1,6 @@
 # X Private Club
 
-X Private Club is a music venue in Madrid with 2 upcoming nights listed on soundcheck as of Tue, 8 Sept 2026; the next is "ONE NIGHT · Deeper's Club 18 sep 26" on Fri, 18 Sept 2026.
+X Private Club is a music venue in Madrid with 2 upcoming nights listed on soundcheck as of Wed, 9 Sept 2026; the next is "ONE NIGHT · Deeper's Club 18 sep 26" on Fri, 18 Sept 2026.
 
 X Private Club is a music venue in Madrid listed on soundcheck. 2 upcoming nights, with line-ups including ALEX FÖX, Mario Mendoza and Vico Deep. Browse upcoming dates, start times and who's playing. Madrid.
 
@@ -15,4 +15,4 @@ X Private Club is a music venue in Madrid listed on soundcheck. 2 upcoming night
 
 Madrid, Madrid
 
-*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/x-private-club/)*
+*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/x-private-club/)*

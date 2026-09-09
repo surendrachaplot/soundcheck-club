@@ -1,14 +1,15 @@
 # x3butterfly
 
-x3butterfly is a Techno and House artist with 7 upcoming club dates listed on soundcheck as of Tue, 8 Sept 2026, next at Fort Mifflin, Philadelphia on Fri, 18 Sept 2026.
+x3butterfly is a Techno and House artist with 8 upcoming club dates listed on soundcheck as of Wed, 9 Sept 2026, next at Fort Mifflin, Philadelphia on Fri, 18 Sept 2026.
 
-x3butterfly is a techno and house artist based in United States of America, tracked on soundcheck, with 193 sets logged across Amsterdam, Bangkok, Berlin and Boston and 29 more. Often billed alongside Sterling Juan Diaz, Concrete Husband and Akua. Next up: Fort Mifflin, Philadelphia on Fri 18 Sept.
+x3butterfly is a techno and house artist based in United States of America, tracked on soundcheck, with 194 sets logged across Amsterdam, Bangkok, Berlin and Boston and 29 more. Often billed alongside Sterling Juan Diaz, Concrete Husband and Akua. Next up: Fort Mifflin, Philadelphia on Fri 18 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 18 Sept 2026 | Fort Mifflin | Philadelphia |
+| Fri, 18 Sept 2026 | Unveiled | New York City |
 | Fri, 2 Oct 2026 | Nowadays | New York City |
 | Sat, 10 Oct 2026 | TBA - Private Location | Vancouver |
 | Fri, 16 Oct 2026 | Mana Wynwood | Miami |
@@ -31,4 +32,4 @@ x3butterfly is a techno and house artist based in United States of America, trac
 
 Sterling Juan Diaz, Concrete Husband, Akua
 
-*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/x3butterfly/)*
+*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/x3butterfly/)*

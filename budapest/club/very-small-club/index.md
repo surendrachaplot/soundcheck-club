@@ -1,6 +1,6 @@
 # Very Small Club
 
-Very Small Club is a music venue in Budapest with 4 upcoming nights listed on soundcheck as of Tue, 8 Sept 2026; the next is "Martinou / MILKYMAN at VSC" on Thu, 10 Sept 2026.
+Very Small Club is a music venue in Budapest with 4 upcoming nights listed on soundcheck as of Wed, 9 Sept 2026; the next is "Martinou / MILKYMAN at VSC" on Thu, 10 Sept 2026.
 
 Very Small Club is a music venue in Budapest listed on soundcheck. 4 upcoming nights, with line-ups including Jin Synth, Martinou, Na Nich and Oliver SCH and 2 more. Browse upcoming dates, start times and who's playing. Dohány u. 28, 1074.
 
@@ -17,4 +17,4 @@ Very Small Club is a music venue in Budapest listed on soundcheck. 4 upcoming ni
 
 Dohány u. 28, 1074, Budapest
 
-*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/budapest/club/very-small-club/)*
+*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/budapest/club/very-small-club/)*

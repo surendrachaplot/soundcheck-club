@@ -1,6 +1,6 @@
 # LoHi
 
-LoHi is a music venue in New York City with 2 upcoming nights listed on soundcheck as of Tue, 8 Sept 2026; the next is "Midnight Stereo presents:  Stacey Pullen B2B Joeski" on Sat, 12 Sept 2026.
+LoHi is a music venue in New York City with 2 upcoming nights listed on soundcheck as of Wed, 9 Sept 2026; the next is "Midnight Stereo presents:  Stacey Pullen B2B Joeski" on Sat, 12 Sept 2026.
 
 LoHi is a music venue in Newyorkcity listed on soundcheck. 2 upcoming nights, with line-ups including Danny Krivit, Jason Falen, Joeski and sicoli and 1 more. Browse upcoming dates, start times and who's playing. 314 Scholes St, Brooklyn, NY 11206.
 
@@ -15,4 +15,4 @@ LoHi is a music venue in Newyorkcity listed on soundcheck. 2 upcoming nights, wi
 
 314 Scholes St, Brooklyn, NY 11206, New York City
 
-*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/lohi/)*
+*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/lohi/)*

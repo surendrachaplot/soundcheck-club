@@ -1,6 +1,6 @@
 # angelina
 
-angelina is a Jazz and Hip-Hop artist with 1 upcoming club date listed on soundcheck as of Tue, 8 Sept 2026, next at One Eighty One, London on Fri, 25 Sept 2026.
+angelina is a Jazz and Hip-Hop artist with 1 upcoming club date listed on soundcheck as of Wed, 9 Sept 2026, next at One Eighty One, London on Fri, 25 Sept 2026.
 
 angelina is a jazz and hip-hop artist tracked on soundcheck, with 3 sets logged across London and Marseille. Often billed alongside Doul and raw materials. Next up: One Eighty One, London on Fri 25 Sept.
 
@@ -19,4 +19,4 @@ angelina is a jazz and hip-hop artist tracked on soundcheck, with 3 sets logged 
 
 Doul, raw materials
 
-*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/angelina/)*
+*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/angelina/)*

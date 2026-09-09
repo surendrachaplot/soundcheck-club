@@ -1,8 +1,8 @@
 # Colour Factory
 
-Colour Factory is a music venue in London with 25 upcoming nights listed on soundcheck as of Tue, 8 Sept 2026; the next is "Ruggz & Friends w/ Nancy June, Pent1 & Coza" on Fri, 11 Sept 2026.
+Colour Factory is a music venue in London with 26 upcoming nights listed on soundcheck as of Wed, 9 Sept 2026; the next is "Ruggz & Friends w/ Nancy June, Pent1 & Coza" on Fri, 11 Sept 2026.
 
-Colour Factory is a music venue in London listed on soundcheck. 25 upcoming nights, with line-ups including AANO, Aeroplane, Alexander Robotnick and Alex Metric and 2 more. Browse upcoming dates, start times and who's playing. 8 Queen's Yard, London E9 5EN.
+Colour Factory is a music venue in London listed on soundcheck. 26 upcoming nights, with line-ups including AANO, Aeroplane, Alexander Robotnick and Alex Metric and 2 more. Browse upcoming dates, start times and who's playing. 8 Queen's Yard, London E9 5EN.
 
 ## What's on
 
@@ -23,4 +23,4 @@ Colour Factory is a music venue in London listed on soundcheck. 25 upcoming nigh
 
 8 Queen's Yard, London E9 5EN, London
 
-*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/colour-factory/)*
+*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/colour-factory/)*

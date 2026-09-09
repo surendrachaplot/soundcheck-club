@@ -1,14 +1,13 @@
 # Rhythm
 
-Rhythm is a music venue in Toronto with 9 upcoming nights listed on soundcheck as of Tue, 8 Sept 2026; the next is "Long Play: Sufjan Stevens" on Tue, 8 Sept 2026.
+Rhythm is a music venue in Toronto with 8 upcoming nights listed on soundcheck as of Wed, 9 Sept 2026; the next is "Rhythm Workshop Series: Ableton Workshop" on Wed, 9 Sept 2026.
 
-Rhythm is a music venue in Toronto listed on soundcheck. 9 upcoming nights, with line-ups including Alexis Cabrera, Amália Leandro, Andre Zimmer and anise and 2 more. Browse upcoming dates, start times and who's playing. 141 Bathurst Street, Toronto, Ontario, M5V 2R2, CANADA.
+Rhythm is a music venue in Toronto listed on soundcheck. 8 upcoming nights, with line-ups including Alexis Cabrera, Amália Leandro, Andre Zimmer and anise and 2 more. Browse upcoming dates, start times and who's playing. 141 Bathurst Street, Toronto, Ontario, M5V 2R2, CANADA.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Tue, 8 Sept 2026 | Long Play: Sufjan Stevens |  |
 | Wed, 9 Sept 2026 | Rhythm Workshop Series: Ableton Workshop | Jeremy P. Caulfield |
 | Sat, 12 Sept 2026 | Ghost Sessions Vol. II | Amália Leandro, Chiara, House of Lords |
 | Fri, 18 Sept 2026 | UNDRGRND x OONO: Sepehr [Live] | Negin, Sepehr, anise |
@@ -22,4 +21,4 @@ Rhythm is a music venue in Toronto listed on soundcheck. 9 upcoming nights, with
 
 141 Bathurst Street, Toronto, Ontario, M5V 2R2, CANADA, Toronto
 
-*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/rhythm/)*
+*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/rhythm/)*

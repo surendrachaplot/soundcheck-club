@@ -1,6 +1,6 @@
 # Kamekawa
 
-Kamekawa is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Tue, 8 Sept 2026, next at Aoyama Tunnel, Tokyo on Wed, 9 Sept 2026.
+Kamekawa is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Wed, 9 Sept 2026, next at Aoyama Tunnel, Tokyo on Wed, 9 Sept 2026.
 
 Kamekawa is a techno and house artist based in Japan, tracked on soundcheck, with 97 sets logged across Tokyo. Often billed alongside SIGNAL (JP), DJ NECO and AHREUM. Next up: Aoyama Tunnel, Tokyo on Wed 9 Sept.
 
@@ -26,4 +26,4 @@ Kamekawa is a techno and house artist based in Japan, tracked on soundcheck, wit
 
 SIGNAL (JP), DJ NECO, AHREUM
 
-*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kamekawa/)*
+*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kamekawa/)*

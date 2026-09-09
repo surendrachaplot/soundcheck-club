@@ -1,8 +1,8 @@
 # Erol Alkan
 
-Erol Alkan is a House and Techno artist with 6 upcoming club dates listed on soundcheck as of Tue, 8 Sept 2026, next at The Cause, London on Sat, 12 Sept 2026.
+Erol Alkan is a House and Techno artist with 7 upcoming club dates listed on soundcheck as of Wed, 9 Sept 2026, next at The Cause, London on Sat, 12 Sept 2026.
 
-Erol Alkan is a house and techno artist tracked on soundcheck, with 132 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 37 more. Often billed alongside 2ManyDJs, CC:DISCO! and DJ Paulette. Next up: The Cause, London on Sat 12 Sept.
+Erol Alkan is a house and techno artist tracked on soundcheck, with 133 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 37 more. Often billed alongside 2ManyDJs, CC:DISCO! and DJ Paulette. Next up: The Cause, London on Sat 12 Sept.
 
 ## Upcoming shows
 
@@ -14,6 +14,7 @@ Erol Alkan is a house and techno artist tracked on soundcheck, with 132 sets log
 | Fri, 25 Sept 2026 | Hï Ibiza | Ibiza |
 | Sat, 26 Sept 2026 | Depot Mayfield | Manchester |
 | Sat, 10 Oct 2026 | DRUMSHEDS | London |
+| Sat, 17 Oct 2026 | Hope House | Leeds |
 
 ## Recently played
 
@@ -30,4 +31,4 @@ Erol Alkan is a house and techno artist tracked on soundcheck, with 132 sets log
 
 2ManyDJs, CC:DISCO!, DJ Paulette
 
-*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/erolalkan/)*
+*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/erolalkan/)*

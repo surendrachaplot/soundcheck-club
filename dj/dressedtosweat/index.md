@@ -1,6 +1,6 @@
 # Dressed To Sweat
 
-Dressed To Sweat is a Techno and Minimal artist with 1 upcoming club date listed on soundcheck as of Tue, 8 Sept 2026, next at After Dark, Bristol on Fri, 2 Oct 2026.
+Dressed To Sweat is a Techno and Minimal artist with 1 upcoming club date listed on soundcheck as of Wed, 9 Sept 2026, next at After Dark, Bristol on Fri, 2 Oct 2026.
 
 Dressed To Sweat is a techno and minimal artist tracked on soundcheck, with 5 sets logged across Bristol and Cardiff. Often billed alongside Hayliegh, STYLI and ABSOLUTE.. Next up: After Dark, Bristol on Fri 2 Oct.
 
@@ -21,4 +21,4 @@ Dressed To Sweat is a techno and minimal artist tracked on soundcheck, with 5 se
 
 Hayliegh, STYLI, ABSOLUTE.
 
-*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dressedtosweat/)*
+*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dressedtosweat/)*

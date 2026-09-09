@@ -1,6 +1,6 @@
 # Laolu
 
-Laolu is a Afro House and House artist with 3 upcoming club dates listed on soundcheck as of Tue, 8 Sept 2026, next at Zumana Bali, Bali on Wed, 9 Sept 2026.
+Laolu is a Afro House and House artist with 3 upcoming club dates listed on soundcheck as of Wed, 9 Sept 2026, next at Zumana Bali, Bali on Wed, 9 Sept 2026.
 
 Laolu is an afro house and house artist tracked on soundcheck, with 92 sets logged across Amsterdam, Athens, Bali and Barcelona and 24 more. Often billed alongside La Forêt, Ankhoï and Rimbu (CH). Next up: Zumana Bali, Bali on Wed 9 Sept.
 
@@ -27,4 +27,4 @@ Laolu is an afro house and house artist tracked on soundcheck, with 92 sets logg
 
 La Forêt, Ankhoï, Rimbu (CH)
 
-*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/laolu/)*
+*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/laolu/)*

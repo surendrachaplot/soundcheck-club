@@ -1,8 +1,8 @@
 # Halcyon
 
-Halcyon is a music venue in San Francisco/Oakland with 16 upcoming nights listed on soundcheck as of Tue, 8 Sept 2026; the next is "BYORN" on Fri, 11 Sept 2026.
+Halcyon is a music venue in San Francisco/Oakland with 18 upcoming nights listed on soundcheck as of Wed, 9 Sept 2026; the next is "BYORN" on Fri, 11 Sept 2026.
 
-Halcyon is a music venue in Sanfrancisco listed on soundcheck. 16 upcoming nights, with line-ups including Anyasa, Charles D (US), Chus & Ceballos and DXNBY and 2 more. Browse upcoming dates, start times and who's playing. 314 11th St, San Francisco, California, 94103.
+Halcyon is a music venue in Sanfrancisco listed on soundcheck. 18 upcoming nights, with line-ups including Anyasa, Charles D (US), Chus & Ceballos and DXNBY and 2 more. Browse upcoming dates, start times and who's playing. 314 11th St, San Francisco, California, 94103.
 
 ## What's on
 
@@ -23,4 +23,4 @@ Halcyon is a music venue in Sanfrancisco listed on soundcheck. 16 upcoming night
 
 314 11th St, San Francisco, California, 94103, San Francisco/Oakland
 
-*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/halcyon/)*
+*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/halcyon/)*

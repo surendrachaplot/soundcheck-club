@@ -1,6 +1,6 @@
 # Kat_Es
 
-Kat_Es is a House and Disco artist with 3 upcoming club dates listed on soundcheck as of Tue, 8 Sept 2026, next at Bulbul Berlin, Berlin on Sat, 19 Sept 2026.
+Kat_Es is a House and Disco artist with 3 upcoming club dates listed on soundcheck as of Wed, 9 Sept 2026, next at Bulbul Berlin, Berlin on Sat, 19 Sept 2026.
 
 Kat_Es is a house and disco artist based in Poland, tracked on soundcheck, with 45 sets logged across Berlin and Leipzig. Often billed alongside La Terrasse, Eva Crystaltips and Lobo (DE). Next up: Bulbul Berlin, Berlin on Sat 19 Sept.
 
@@ -27,4 +27,4 @@ Kat_Es is a house and disco artist based in Poland, tracked on soundcheck, with 
 
 La Terrasse, Eva Crystaltips, Lobo (DE)
 
-*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kat_es/)*
+*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kat_es/)*

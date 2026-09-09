@@ -1,6 +1,6 @@
 # DJ Possum
 
-DJ Possum is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Tue, 8 Sept 2026, next at Camp Kennybrook, New York City on Thu, 10 Sept 2026.
+DJ Possum is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Wed, 9 Sept 2026, next at Camp Kennybrook, New York City on Thu, 10 Sept 2026.
 
 DJ Possum is a house and techno artist tracked on soundcheck, with 86 sets logged across Amsterdam, Berlin, Copenhagen and London and 5 more. Often billed alongside Myles Mac, Bex and Terri (2). Next up: Camp Kennybrook, Newyorkcity on Thu 10 Sept.
 
@@ -27,4 +27,4 @@ DJ Possum is a house and techno artist tracked on soundcheck, with 86 sets logge
 
 Myles Mac, Bex, Terri (2)
 
-*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djpossum/)*
+*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djpossum/)*

@@ -1,13 +1,14 @@
 # CALIFANO
 
-CALIFANO is a Garage and Drum & Bass artist with 1 upcoming club date listed on soundcheck as of Tue, 8 Sept 2026, next at Culture Box, Copenhagen on Fri, 25 Sept 2026.
+CALIFANO is a Garage and Drum & Bass artist with 2 upcoming club dates listed on soundcheck as of Wed, 9 Sept 2026, next at Baggen, Copenhagen on Thu, 10 Sept 2026.
 
-CALIFANO is a garage and drum & bass artist based in Denmark, tracked on soundcheck, with 21 sets logged across Copenhagen. Often billed alongside Dwonji, ASTA MARI and Arsom. Next up: Culture Box, Copenhagen on Fri 25 Sept.
+CALIFANO is a garage and drum & bass artist based in Denmark, tracked on soundcheck, with 22 sets logged across Copenhagen. Often billed alongside Dwonji, ASTA MARI and Arsom. Next up: Baggen, Copenhagen on Thu 10 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Thu, 10 Sept 2026 | Baggen | Copenhagen |
 | Fri, 25 Sept 2026 | Culture Box | Copenhagen |
 
 ## Recently played
@@ -25,4 +26,4 @@ CALIFANO is a garage and drum & bass artist based in Denmark, tracked on soundch
 
 Dwonji, ASTA MARI, Arsom
 
-*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/califano/)*
+*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/califano/)*

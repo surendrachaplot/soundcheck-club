@@ -1,8 +1,8 @@
 # Obskur
 
-Obskur is a House and Tech House artist with 10 upcoming club dates listed on soundcheck as of Tue, 8 Sept 2026, next at [UNVRS], Ibiza on Wed, 9 Sept 2026.
+Obskur is a House and Tech House artist with 11 upcoming club dates listed on soundcheck as of Wed, 9 Sept 2026, next at [UNVRS], Ibiza on Wed, 9 Sept 2026.
 
-Obskur is a house and tech house artist tracked on soundcheck, with 153 sets logged across Aberdeen, Amsterdam, Austin and Barcelona and 37 more. Often billed alongside East End Dubs, Max Dean and ALISHA. Next up: [UNVRS], Ibiza on Wed 9 Sept.
+Obskur is a house and tech house artist tracked on soundcheck, with 154 sets logged across Aberdeen, Amsterdam, Austin and Barcelona and 37 more. Often billed alongside East End Dubs, Max Dean and ALISHA. Next up: [UNVRS], Ibiza on Wed 9 Sept.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Obskur is a house and tech house artist tracked on soundcheck, with 153 sets log
 | --- | --- | --- |
 | Wed, 9 Sept 2026 | [UNVRS] | Ibiza |
 | Fri, 18 Sept 2026 | Openluchttheater Amersfoort | Amsterdam |
+| Sun, 20 Sept 2026 | Brisa Open Air | Barcelona |
 | Tue, 22 Sept 2026 | Amnesia Ibiza | Ibiza |
 | Sat, 26 Sept 2026 | Blackstone Street Warehouse | Liverpool |
 | Sun, 27 Sept 2026 | Amnesia Ibiza | Ibiza |
@@ -34,4 +35,4 @@ Obskur is a house and tech house artist tracked on soundcheck, with 153 sets log
 
 East End Dubs, Max Dean, ALISHA
 
-*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/obskur/)*
+*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/obskur/)*

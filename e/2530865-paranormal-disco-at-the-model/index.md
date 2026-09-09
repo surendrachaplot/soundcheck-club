@@ -1,6 +1,6 @@
 # Paranormal Disco at The Model
 
-Paranormal Disco at The Model on Sat 31 Oct, Nottingham. House and Disco. Preview the line-up and save it on soundcheck.
+Paranormal Disco at The Model on Sat 31 Oct, Nottingham. Tech House and Italo Disco. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

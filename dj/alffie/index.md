@@ -1,6 +1,6 @@
 # Alffie
 
-Alffie is a Minimal and House artist with 1 upcoming club date listed on soundcheck as of Tue, 8 Sept 2026, next at Barco Sound House, Madrid on Fri, 18 Sept 2026.
+Alffie is a Minimal and House artist with 1 upcoming club date listed on soundcheck as of Wed, 9 Sept 2026, next at Barco Sound House, Madrid on Fri, 18 Sept 2026.
 
 Alffie is a minimal and house artist tracked on soundcheck, with 15 sets logged across Leeds, Madrid, Newyorkcity and Stockholm. Often billed alongside Hessa, Auphoria and Choukroun. Next up: Barco Sound House, Madrid on Fri 18 Sept.
 
@@ -25,4 +25,4 @@ Alffie is a minimal and house artist tracked on soundcheck, with 15 sets logged 
 
 Hessa, Auphoria, Choukroun
 
-*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/alffie/)*
+*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/alffie/)*

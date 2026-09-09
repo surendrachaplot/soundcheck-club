@@ -1,6 +1,6 @@
 # IDEMI
 
-IDEMI is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Tue, 8 Sept 2026, next at GASHOUDER, Amsterdam on Wed, 21 Oct 2026.
+IDEMI is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Wed, 9 Sept 2026, next at GASHOUDER, Amsterdam on Wed, 21 Oct 2026.
 
 IDEMI is a house and techno artist tracked on soundcheck, with 21 sets logged across Aberdeen, Amsterdam, Austin and Brisbane and 13 more. Often billed alongside Marsolo, Chris Stassy and DJ Gigola. Next up: GASHOUDER, Amsterdam on Wed 21 Oct.
 
@@ -27,4 +27,4 @@ IDEMI is a house and techno artist tracked on soundcheck, with 21 sets logged ac
 
 Marsolo, Chris Stassy, DJ Gigola
 
-*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/idemi/)*
+*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/idemi/)*

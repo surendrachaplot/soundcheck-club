@@ -1,6 +1,6 @@
 # Jyoty at New Century Locker
 
-Jyoty at New Century Locker on Sat 5 Dec, Manchester. 1 act on the bill: Jyoty. Garage and Baile Funk. Preview the line-up and save it on soundcheck.
+Jyoty at New Century Locker on Sat 5 Dec, Manchester. 1 act on the bill: Jyoty. Baile Funk and Garage. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

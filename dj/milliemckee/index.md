@@ -1,8 +1,8 @@
 # Millie McKee
 
-Millie McKee is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Tue, 8 Sept 2026, next at Phono Lake, Amsterdam on Sat, 12 Sept 2026.
+Millie McKee is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Wed, 9 Sept 2026, next at Phono Lake, Amsterdam on Sat, 12 Sept 2026.
 
-Millie McKee is a house and techno artist tracked on soundcheck, with 66 sets logged across Amsterdam, Barcelona, Berlin and Bristol and 11 more. Often billed alongside Kyle Toole, DAR DISKU and Joi La Frique. Next up: Phono Lake, Amsterdam on Sat 12 Sept.
+Millie McKee is a house and techno artist tracked on soundcheck, with 67 sets logged across Amsterdam, Barcelona, Berlin and Bristol and 11 more. Often billed alongside Kyle Toole, DAR DISKU and Joi La Frique. Next up: Phono Lake, Amsterdam on Sat 12 Sept.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ Millie McKee is a house and techno artist tracked on soundcheck, with 66 sets lo
 | Sat, 12 Sept 2026 | Phono Lake | Amsterdam |
 | Fri, 18 Sept 2026 | Starlane Pizza Bar | London |
 | Fri, 16 Oct 2026 | ZENNER | Berlin |
+| Sat, 17 Oct 2026 | Cobalt Studios | Newcastle |
 
 ## Recently played
 
@@ -27,4 +28,4 @@ Millie McKee is a house and techno artist tracked on soundcheck, with 66 sets lo
 
 Kyle Toole, DAR DISKU, Joi La Frique
 
-*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/milliemckee/)*
+*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/milliemckee/)*

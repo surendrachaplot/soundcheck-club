@@ -1,6 +1,6 @@
 # Amba
 
-Amba is a House and Deep House artist with 3 upcoming club dates listed on soundcheck as of Tue, 8 Sept 2026, next at TBA - The Yellow Sub Bar , Liverpool on Sat, 26 Sept 2026.
+Amba is a House and Deep House artist with 3 upcoming club dates listed on soundcheck as of Wed, 9 Sept 2026, next at TBA - The Yellow Sub Bar , Liverpool on Sat, 26 Sept 2026.
 
 Amba is a house and deep house artist based in United States of America, tracked on soundcheck, with 40 sets logged across Liverpool, London, Newyorkcity and Sheffield. Often billed alongside Armii1n, Jeny Michelle and Camila Wolf. Next up: TBA - The Yellow Sub Bar , Liverpool on Sat 26 Sept.
 
@@ -27,4 +27,4 @@ Amba is a house and deep house artist based in United States of America, tracked
 
 Armii1n, Jeny Michelle, Camila Wolf
 
-*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/amba/)*
+*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/amba/)*

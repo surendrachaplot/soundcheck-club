@@ -1,6 +1,6 @@
 # Restricted
 
-Restricted is a Techno and Hardcore artist with 7 upcoming club dates listed on soundcheck as of Tue, 8 Sept 2026, next at Royale, Boston on Sat, 17 Oct 2026.
+Restricted is a Techno and Hardcore artist with 7 upcoming club dates listed on soundcheck as of Wed, 9 Sept 2026, next at Royale, Boston on Sat, 17 Oct 2026.
 
 Restricted is a techno and hardcore artist tracked on soundcheck, with 72 sets logged across Amsterdam, Antwerp, Athens and Austin and 41 more. Often billed alongside Azyr, JAZZY (2) and Vieze Asbak. Next up: Royale, Boston on Sat 17 Oct.
 
@@ -31,4 +31,4 @@ Restricted is a techno and hardcore artist tracked on soundcheck, with 72 sets l
 
 Azyr, JAZZY (2), Vieze Asbak
 
-*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/restricted/)*
+*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/restricted/)*

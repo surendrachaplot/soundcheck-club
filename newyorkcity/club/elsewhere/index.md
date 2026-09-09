@@ -1,8 +1,8 @@
 # Elsewhere
 
-Elsewhere is a music venue in New York City with 31 upcoming nights listed on soundcheck as of Tue, 8 Sept 2026; the next is "Satin Jackets, YSHESO" on Fri, 11 Sept 2026.
+Elsewhere is a music venue in New York City with 32 upcoming nights listed on soundcheck as of Wed, 9 Sept 2026; the next is "Satin Jackets, YSHESO" on Fri, 11 Sept 2026.
 
-Elsewhere is a music venue in Newyorkcity listed on soundcheck. 31 upcoming nights, with line-ups including 6 SENSE, 999ADJ, Aanandi and AEREA and 2 more. Browse upcoming dates, start times and who's playing. 599 Johnson Ave, Brooklyn, NY 11237 USA.
+Elsewhere is a music venue in Newyorkcity listed on soundcheck. 32 upcoming nights, with line-ups including 6 SENSE, 999ADJ, Aanandi and AEREA and 2 more. Browse upcoming dates, start times and who's playing. 599 Johnson Ave, Brooklyn, NY 11237 USA.
 
 ## What's on
 
@@ -23,4 +23,4 @@ Elsewhere is a music venue in Newyorkcity listed on soundcheck. 31 upcoming nigh
 
 599 Johnson Ave, Brooklyn, NY 11237 USA, New York City
 
-*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/elsewhere/)*
+*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/elsewhere/)*

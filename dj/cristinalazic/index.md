@@ -1,13 +1,14 @@
 # Cristina Lazic
 
-Cristina Lazic is a House and Tech House artist with 4 upcoming club dates listed on soundcheck as of Tue, 8 Sept 2026, next at Document, Bristol on Fri, 25 Sept 2026.
+Cristina Lazic is a House and Tech House artist with 5 upcoming club dates listed on soundcheck as of Wed, 9 Sept 2026, next at TBA - Balagan, Rome on Fri, 18 Sept 2026.
 
-Cristina Lazic is a house and tech house artist tracked on soundcheck, with 79 sets logged across Amsterdam, Athens, Barcelona and Belgrade and 19 more. Often billed alongside East End Dubs, Hot Since 82 and Black Coffee. Next up: Document, Bristol on Fri 25 Sept.
+Cristina Lazic is a house and tech house artist tracked on soundcheck, with 80 sets logged across Amsterdam, Athens, Barcelona and Belgrade and 19 more. Often billed alongside East End Dubs, Hot Since 82 and Black Coffee. Next up: TBA - Balagan, Rome on Fri 18 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 18 Sept 2026 | TBA - Balagan | Rome |
 | Fri, 25 Sept 2026 | Document | Bristol |
 | Sat, 24 Oct 2026 | Yellow House | Amsterdam |
 | Sun, 25 Oct 2026 | BRET | Amsterdam |
@@ -28,4 +29,4 @@ Cristina Lazic is a house and tech house artist tracked on soundcheck, with 79 s
 
 East End Dubs, Hot Since 82, Black Coffee
 
-*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/cristinalazic/)*
+*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/cristinalazic/)*

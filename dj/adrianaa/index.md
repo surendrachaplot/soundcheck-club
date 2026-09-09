@@ -1,6 +1,6 @@
 # Adriana A
 
-Adriana A is a Pop and Club artist with 1 upcoming club date listed on soundcheck as of Tue, 8 Sept 2026, next at Club Oasis, San Francisco/Oakland on Fri, 18 Sept 2026.
+Adriana A is a Pop and Club artist with 1 upcoming club date listed on soundcheck as of Wed, 9 Sept 2026, next at Club Oasis, San Francisco/Oakland on Fri, 18 Sept 2026.
 
 Adriana A is a pop and club artist tracked on soundcheck, with 23 sets logged across Berlin and Sanfrancisco. Often billed alongside Jupiter Gatling, KEN (DE) and DJ PayPaul. Next up: Club Oasis, Sanfrancisco on Fri 18 Sept.
 
@@ -25,4 +25,4 @@ Adriana A is a pop and club artist tracked on soundcheck, with 23 sets logged ac
 
 Jupiter Gatling, KEN (DE), DJ PayPaul
 
-*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/adrianaa/)*
+*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/adrianaa/)*

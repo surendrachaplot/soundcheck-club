@@ -1,6 +1,6 @@
 # Hybrid Minds
 
-Hybrid Minds is a Drum & Bass and Bass artist with 3 upcoming club dates listed on soundcheck as of Tue, 8 Sept 2026, next at Glen Helen Regional Park, Los Angeles on Sat, 19 Sept 2026.
+Hybrid Minds is a Drum & Bass and Bass artist with 3 upcoming club dates listed on soundcheck as of Wed, 9 Sept 2026, next at Glen Helen Regional Park, Los Angeles on Sat, 19 Sept 2026.
 
 Hybrid Minds is a drum & bass and bass artist tracked on soundcheck, with 110 sets logged across Amsterdam, Auckland, Austin and Birmingham and 31 more. Often billed alongside K Motionz, Tempza and Andy C. Next up: Glen Helen Regional Park, Losangeles on Sat 19 Sept.
 
@@ -27,4 +27,4 @@ Hybrid Minds is a drum & bass and bass artist tracked on soundcheck, with 110 se
 
 K Motionz, Tempza, Andy C
 
-*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/hybridminds/)*
+*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/hybridminds/)*

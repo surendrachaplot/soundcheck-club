@@ -1,6 +1,6 @@
 # Substencia
 
-Substencia is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Tue, 8 Sept 2026, next at Le Zeralda, Paris on Sat, 12 Sept 2026.
+Substencia is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Wed, 9 Sept 2026, next at Le Zeralda, Paris on Sat, 12 Sept 2026.
 
 Substencia is a techno and industrial artist based in France, tracked on soundcheck, with 26 sets logged across Barcelona, Berlin, Brussels and Paris. Often billed alongside Damien Barthet (2), Aeter and Eve Schwarz. Next up: Le Zeralda, Paris on Sat 12 Sept.
 
@@ -25,4 +25,4 @@ Substencia is a techno and industrial artist based in France, tracked on soundch
 
 Damien Barthet (2), Aeter, Eve Schwarz
 
-*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/substencia/)*
+*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/substencia/)*

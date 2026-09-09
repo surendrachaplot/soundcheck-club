@@ -1,6 +1,6 @@
 # I.D.A
 
-I.D.A is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Tue, 8 Sept 2026, next at Odonien, Cologne on Wed, 9 Sept 2026.
+I.D.A is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Wed, 9 Sept 2026, next at Odonien, Cologne on Wed, 9 Sept 2026.
 
 I.D.A is a techno and trance artist based in Germany, tracked on soundcheck, with 12 sets logged across Cologne and Dusseldorf. Often billed alongside Ropemaker, MAURO and HOTBOI2300. Next up: Odonien, Cologne on Wed 9 Sept.
 
@@ -25,4 +25,4 @@ I.D.A is a techno and trance artist based in Germany, tracked on soundcheck, wit
 
 Ropemaker, MAURO, HOTBOI2300
 
-*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/i.d.a/)*
+*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/i.d.a/)*

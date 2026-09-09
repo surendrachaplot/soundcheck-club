@@ -1,6 +1,6 @@
 # Max Raponi
 
-Max Raponi is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Tue, 8 Sept 2026, next at TBA - The Random Club, Rome on Wed, 23 Sept 2026.
+Max Raponi is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Wed, 9 Sept 2026, next at TBA - The Random Club, Rome on Wed, 23 Sept 2026.
 
 Max Raponi is a techno and industrial artist tracked on soundcheck, with 14 sets logged across Berlin, Naples and Rome. Often billed alongside ROBBSS, Lady Maru and SVARIO. Next up: TBA - The Random Club, Rome on Wed 23 Sept.
 
@@ -25,4 +25,4 @@ Max Raponi is a techno and industrial artist tracked on soundcheck, with 14 sets
 
 ROBBSS, Lady Maru, SVARIO
 
-*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/maxraponi/)*
+*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/maxraponi/)*

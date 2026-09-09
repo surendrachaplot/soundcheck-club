@@ -1,14 +1,13 @@
 # Der Weiße Hase
 
-Der Weiße Hase is a music venue in Berlin with 19 upcoming nights listed on soundcheck as of Tue, 8 Sept 2026; the next is "Smash & HART ◢◤ Tuesday Rave & Open Air Garden [free entry until midnight*]" on Tue, 8 Sept 2026.
+Der Weiße Hase is a music venue in Berlin with 18 upcoming nights listed on soundcheck as of Wed, 9 Sept 2026; the next is "Straff / Thursday Techno / free Entry until midnight" on Thu, 10 Sept 2026.
 
-Der Weiße Hase is a music venue in Berlin listed on soundcheck. 19 upcoming nights, with line-ups including Ari Denaro, August Kind, bbymeister and Bisk and 2 more. Browse upcoming dates, start times and who's playing. Revaler Str 99, 10245 Berlin.
+Der Weiße Hase is a music venue in Berlin listed on soundcheck. 18 upcoming nights, with line-ups including Ari Denaro, August Kind, bbymeister and Bisk and 2 more. Browse upcoming dates, start times and who's playing. Revaler Str 99, 10245 Berlin.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Tue, 8 Sept 2026 | Smash & HART ◢◤ Tuesday Rave & Open Air Garden [free entry until midnight*] | Cat Vermillion, Daniel Boon, Johnny Allwess |
 | Thu, 10 Sept 2026 | Straff / Thursday Techno / free Entry until midnight | DAV3, Wiebe Roose |
 | Fri, 11 Sept 2026 | Trance Rebellion | DJ Schieferkiefer, Daora, Emma (8), Fabian Fischbach, MØABEAT |
 | Sat, 12 Sept 2026 | Die Lust am Feiern |  |
@@ -18,9 +17,10 @@ Der Weiße Hase is a music venue in Berlin listed on soundcheck. 19 upcoming nig
 | Sat, 19 Sept 2026 | r:nøcturn | Bisk, Don Tom, Hardy Hard, JayKosy, Marvel Gold, NIKO INCRAVALLE, Paal12, Sam Meier, rndr |
 | Tue, 22 Sept 2026 | Smash & HART ◢◤ Tuesday Rave & Open Air Garden [free entry until midnight*] | TechNovaBader |
 | Thu, 24 Sept 2026 | STRAFF / Thursday Techno | Ari Denaro, Epicx |
+| Fri, 25 Sept 2026 | Techno Ihr Hasen | Johnny Allwess, Morris Fitch, Wiebe Roose, ZÖ (1), eliXenia |
 
 ## Address
 
 Revaler Str 99, 10245 Berlin, Berlin
 
-*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/der-wei-e-hase/)*
+*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/der-wei-e-hase/)*

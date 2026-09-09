@@ -1,6 +1,6 @@
 # Village Underground Lisboa
 
-Village Underground Lisboa is a music venue in Lisbon with 4 upcoming nights listed on soundcheck as of Tue, 8 Sept 2026; the next is "BUNGEE × MICRONOVA DAY&NIGHT + OPEN-AIR CREATIVE MARKET" on Fri, 11 Sept 2026.
+Village Underground Lisboa is a music venue in Lisbon with 4 upcoming nights listed on soundcheck as of Wed, 9 Sept 2026; the next is "BUNGEE × MICRONOVA DAY&NIGHT + OPEN-AIR CREATIVE MARKET" on Fri, 11 Sept 2026.
 
 Village Underground Lisboa is a music venue in Lisbon listed on soundcheck. 4 upcoming nights, with line-ups including Bilal, Bryto, Echonomist and Francisca Urbano and 2 more. Browse upcoming dates, start times and who's playing. Avenida da India 52, 1300-299 Lisboa.
 
@@ -17,4 +17,4 @@ Village Underground Lisboa is a music venue in Lisbon listed on soundcheck. 4 up
 
 Avenida da India 52, 1300-299 Lisboa, Lisbon
 
-*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/lisbon/club/village-underground-lisboa/)*
+*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/lisbon/club/village-underground-lisboa/)*

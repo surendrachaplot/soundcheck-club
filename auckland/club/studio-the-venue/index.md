@@ -1,6 +1,6 @@
 # Studio the Venue
 
-Studio the Venue is a music venue in Auckland with 2 upcoming nights listed on soundcheck as of Tue, 8 Sept 2026; the next is "London Hard House Reunion" on Sat, 12 Sept 2026.
+Studio the Venue is a music venue in Auckland with 2 upcoming nights listed on soundcheck as of Wed, 9 Sept 2026; the next is "London Hard House Reunion" on Sat, 12 Sept 2026.
 
 Studio the Venue is a music venue in Auckland listed on soundcheck. 2 upcoming nights, with line-ups including Danny Byrd, Hoax (UK) and Unglued. Browse upcoming dates, start times and who's playing. 340 Karangahape Road Auckland 1010 New Zealand.
 
@@ -15,4 +15,4 @@ Studio the Venue is a music venue in Auckland listed on soundcheck. 2 upcoming n
 
 340 Karangahape Road Auckland 1010 New Zealand, Auckland
 
-*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/auckland/club/studio-the-venue/)*
+*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/auckland/club/studio-the-venue/)*

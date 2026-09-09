@@ -1,6 +1,6 @@
 # Alterra
 
-Alterra is a House and Minimal Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 8 Sept 2026, next at Zemin Art Gallery, Berlin on Sat, 12 Sept 2026.
+Alterra is a House and Minimal Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 9 Sept 2026, next at Zemin Art Gallery, Berlin on Sat, 12 Sept 2026.
 
 Alterra is a house and minimal techno artist tracked on soundcheck, with 21 sets logged across Berlin. Often billed alongside Blachord, Jean J. and Papa Hase. Next up: Zemin Art Gallery, Berlin on Sat 12 Sept.
 
@@ -25,4 +25,4 @@ Alterra is a house and minimal techno artist tracked on soundcheck, with 21 sets
 
 Blachord, Jean J., Papa Hase
 
-*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/alterra/)*
+*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/alterra/)*

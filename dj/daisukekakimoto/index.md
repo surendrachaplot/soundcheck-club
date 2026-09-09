@@ -1,8 +1,8 @@
 # Daisuke Kakimoto
 
-Daisuke Kakimoto is a House and Disco artist with 3 upcoming club dates listed on soundcheck as of Tue, 8 Sept 2026, next at Compufunk Records, Osaka on Sun, 13 Sept 2026.
+Daisuke Kakimoto is a House and Disco artist with 4 upcoming club dates listed on soundcheck as of Wed, 9 Sept 2026, next at Compufunk Records, Osaka on Sun, 13 Sept 2026.
 
-Daisuke Kakimoto is a house and disco artist based in Japan, tracked on soundcheck, with 30 sets logged across Osaka. Often billed alongside Norio, Mori Ra and 5ive. Next up: Compufunk Records, Osaka on Sun 13 Sept.
+Daisuke Kakimoto is a house and disco artist based in Japan, tracked on soundcheck, with 31 sets logged across Osaka. Often billed alongside Norio, Mori Ra and Roy Comanchero. Next up: Compufunk Records, Osaka on Sun 13 Sept.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Daisuke Kakimoto is a house and disco artist based in Japan, tracked on soundche
 | --- | --- | --- |
 | Sun, 13 Sept 2026 | Compufunk Records | Osaka |
 | Sat, 19 Sept 2026 | flo Soakin | Osaka |
+| Tue, 22 Sept 2026 | Compufunk Records | Osaka |
 | Fri, 25 Sept 2026 | Tamutamucafe | Osaka |
 
 ## Recently played
@@ -25,6 +26,6 @@ Daisuke Kakimoto is a house and disco artist based in Japan, tracked on soundche
 
 ## Shares bills with
 
-Norio, Mori Ra, 5ive
+Norio, Mori Ra, Roy Comanchero
 
-*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/daisukekakimoto/)*
+*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/daisukekakimoto/)*

@@ -1,6 +1,6 @@
 # tibslc
 
-tibslc is a Ambient and Experimental artist with 1 upcoming club date listed on soundcheck as of Tue, 8 Sept 2026, next at Klosterruine Berlin, Berlin on Fri, 11 Sept 2026.
+tibslc is a Ambient and Experimental artist with 1 upcoming club date listed on soundcheck as of Wed, 9 Sept 2026, next at Klosterruine Berlin, Berlin on Fri, 11 Sept 2026.
 
 tibslc is an ambient and experimental artist based in Germany, tracked on soundcheck, with 18 sets logged across Basel, Berlin, Brussels and Glasgow and 5 more. Often billed alongside 131bpm, ADAM MUNNINGS and AGY3NA. Next up: Klosterruine Berlin, Berlin on Fri 11 Sept.
 
@@ -25,4 +25,4 @@ tibslc is an ambient and experimental artist based in Germany, tracked on soundc
 
 131bpm, ADAM MUNNINGS, AGY3NA
 
-*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tibslc/)*
+*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tibslc/)*

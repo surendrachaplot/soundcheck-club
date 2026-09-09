@@ -1,8 +1,8 @@
 # Compufunk Records
 
-Compufunk Records is a music venue in Osaka with 3 upcoming nights listed on soundcheck as of Tue, 8 Sept 2026; the next is "OUR WEEKEND SERVICE" on Sun, 13 Sept 2026.
+Compufunk Records is a music venue in Osaka with 4 upcoming nights listed on soundcheck as of Wed, 9 Sept 2026; the next is "OUR WEEKEND SERVICE" on Sun, 13 Sept 2026.
 
-Compufunk Records is a music venue in Osaka listed on soundcheck. 3 upcoming nights, with line-ups including Andy Vaz, Daisuke Kakimoto, DJ Compufunk and Mad Fusion and 2 more. Browse upcoming dates, start times and who's playing. 1-29 Kitahama Higashi, Chuou-ku, Osaka, 540-0031 Japan.
+Compufunk Records is a music venue in Osaka listed on soundcheck. 4 upcoming nights, with line-ups including Andy Vaz, Daisuke Kakimoto, DJ Compufunk and Mad Fusion and 2 more. Browse upcoming dates, start times and who's playing. 1-29 Kitahama Higashi, Chuou-ku, Osaka, 540-0031 Japan.
 
 ## What's on
 
@@ -10,10 +10,11 @@ Compufunk Records is a music venue in Osaka listed on soundcheck. 3 upcoming nig
 | --- | --- | --- |
 | Sun, 13 Sept 2026 | OUR WEEKEND SERVICE | Daisuke Kakimoto, Mad Fusion |
 | Sat, 19 Sept 2026 | Yore Night | Andy Vaz, DJ Compufunk |
+| Tue, 22 Sept 2026 | Sundance 2026 | Daisuke Kakimoto, Norio |
 | Sat, 10 Oct 2026 | Equalize with Stefan Goldmann (Macro, from Berlin) - Das Berghain in Osaka! - | Ryoma Sasaki, Stefan Goldmann |
 
 ## Address
 
 1-29 Kitahama Higashi, Chuou-ku, Osaka, 540-0031 Japan, Osaka
 
-*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/osaka/club/compufunk-records/)*
+*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/osaka/club/compufunk-records/)*

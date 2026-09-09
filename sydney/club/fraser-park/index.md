@@ -1,6 +1,6 @@
 # Fraser Park
 
-Fraser Park is a music venue in Sydney with 1 upcoming night listed on soundcheck as of Tue, 8 Sept 2026; the next is "Carhartt WIP presents: Keys To The City" on Sat, 7 Nov 2026.
+Fraser Park is a music venue in Sydney with 1 upcoming night listed on soundcheck as of Wed, 9 Sept 2026; the next is "Carhartt WIP presents: Keys To The City" on Sat, 7 Nov 2026.
 
 Fraser Park is a music venue in Sydney listed on soundcheck. 1 upcoming night. Browse upcoming dates, start times and who's playing. 100 Marrickville Road, Marrickville.
 
@@ -14,4 +14,4 @@ Fraser Park is a music venue in Sydney listed on soundcheck. 1 upcoming night. B
 
 100 Marrickville Road, Marrickville, Sydney
 
-*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/sydney/club/fraser-park/)*
+*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/sydney/club/fraser-park/)*

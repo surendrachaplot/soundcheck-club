@@ -1,14 +1,14 @@
 # Onde Anda
 
-Onde Anda is a Funk / Soul and Latin Bass artist with 1 upcoming club date listed on soundcheck as of Tue, 8 Sept 2026, next at Bunker Club, London on Fri, 25 Sept 2026.
+Onde Anda is a Funk / Soul and Latin Bass artist with 1 upcoming club date listed on soundcheck as of Wed, 9 Sept 2026, next at Bunker Club, London on Sat, 26 Sept 2026.
 
-Onde Anda is a funk / soul and latin bass artist tracked on soundcheck, with 31 sets logged across London. Often billed alongside Spraytan, Tare (2) and betterpetra. Next up: Bunker Club, London on Fri 25 Sept.
+Onde Anda is a funk / soul and latin bass artist tracked on soundcheck, with 31 sets logged across London. Often billed alongside Spraytan, Tare (2) and betterpetra. Next up: Bunker Club, London on Sat 26 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 25 Sept 2026 | Bunker Club | London |
+| Sat, 26 Sept 2026 | Bunker Club | London |
 
 ## Recently played
 
@@ -25,4 +25,4 @@ Onde Anda is a funk / soul and latin bass artist tracked on soundcheck, with 31 
 
 Spraytan, Tare (2), betterpetra
 
-*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ondeanda/)*
+*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ondeanda/)*

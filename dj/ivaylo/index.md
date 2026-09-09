@@ -1,6 +1,6 @@
 # Ivaylo
 
-Ivaylo is a House and Electro artist with 1 upcoming club date listed on soundcheck as of Tue, 8 Sept 2026, next at Jaeger, Oslo on Fri, 23 Oct 2026.
+Ivaylo is a House and Electro artist with 1 upcoming club date listed on soundcheck as of Wed, 9 Sept 2026, next at Jaeger, Oslo on Fri, 23 Oct 2026.
 
 Ivaylo is a house and electro artist tracked on soundcheck, with 18 sets logged across London and Oslo. Often billed alongside G-HA, Olanskii and Ost & Kjex. Next up: Jaeger, Oslo on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ Ivaylo is a house and electro artist tracked on soundcheck, with 18 sets logged 
 
 G-HA, Olanskii, Ost & Kjex
 
-*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ivaylo/)*
+*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ivaylo/)*

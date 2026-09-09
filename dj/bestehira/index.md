@@ -1,6 +1,6 @@
 # Beste Hira
 
-Beste Hira is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Tue, 8 Sept 2026, next at TBA - Los Angeles, Los Angeles on Sat, 12 Sept 2026.
+Beste Hira is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Wed, 9 Sept 2026, next at TBA - Los Angeles, Los Angeles on Sat, 12 Sept 2026.
 
 Beste Hira is a techno and house artist tracked on soundcheck, with 177 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 35 more. Often billed alongside Rødhåd, Freddy K and Lobster (NL). Next up: TBA - Los Angeles, Losangeles on Sat 12 Sept.
 
@@ -30,4 +30,4 @@ Beste Hira is a techno and house artist tracked on soundcheck, with 177 sets log
 
 Rødhåd, Freddy K, Lobster (NL)
 
-*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bestehira/)*
+*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bestehira/)*

@@ -1,6 +1,6 @@
 # DÅwN
 
-DÅwN is a electronic artist with 1 upcoming club date listed on soundcheck as of Tue, 8 Sept 2026, next at Tempio del Futuro Perduto, Milan on Fri, 9 Oct 2026.
+DÅwN is a electronic artist with 1 upcoming club date listed on soundcheck as of Wed, 9 Sept 2026, next at Tempio del Futuro Perduto, Milan on Fri, 9 Oct 2026.
 
 DÅwN is an electronic artist tracked on soundcheck, with 20 sets logged across Milan. Often billed alongside Zenyee, Bubbling and BDG (1). Next up: Tempio del Futuro Perduto, Milan on Fri 9 Oct.
 
@@ -25,4 +25,4 @@ DÅwN is an electronic artist tracked on soundcheck, with 20 sets logged across 
 
 Zenyee, Bubbling, BDG (1)
 
-*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dawn/)*
+*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dawn/)*

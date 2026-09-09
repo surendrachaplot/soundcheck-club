@@ -1,6 +1,6 @@
 # Marcus Lott
 
-Marcus Lott is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 8 Sept 2026, next at TBA - XuXa 6910 Shirley Avenue, Unit I, Austin on Sat, 12 Sept 2026.
+Marcus Lott is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 9 Sept 2026, next at TBA - XuXa 6910 Shirley Avenue, Unit I, Austin on Sat, 12 Sept 2026.
 
 Marcus Lott is a house and techno artist tracked on soundcheck, with 32 sets logged across Austin, Detroit, Houston and Miami. Often billed alongside Brett Johnson, Daniel Allen and Bonnie Stoneman. Next up: TBA - XuXa 6910 Shirley Avenue, Unit I, Austin on Sat 12 Sept.
 
@@ -25,4 +25,4 @@ Marcus Lott is a house and techno artist tracked on soundcheck, with 32 sets log
 
 Brett Johnson, Daniel Allen, Bonnie Stoneman
 
-*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/marcuslott/)*
+*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/marcuslott/)*

@@ -1,6 +1,6 @@
 # Momo Trosman
 
-Momo Trosman is a House and Tech House artist with 6 upcoming club dates listed on soundcheck as of Tue, 8 Sept 2026, next at Floyd, Miami on Fri, 18 Sept 2026.
+Momo Trosman is a House and Tech House artist with 6 upcoming club dates listed on soundcheck as of Wed, 9 Sept 2026, next at Floyd, Miami on Fri, 18 Sept 2026.
 
 Momo Trosman is a house and tech house artist tracked on soundcheck, with 100 sets logged across Amsterdam, Austin, Barcelona and Berlin and 23 more. Often billed alongside Franco Cinelli, Felipe Valenzuela and tINI. Next up: Floyd, Miami on Fri 18 Sept.
 
@@ -30,4 +30,4 @@ Momo Trosman is a house and tech house artist tracked on soundcheck, with 100 se
 
 Franco Cinelli, Felipe Valenzuela, tINI
 
-*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/momotrosman/)*
+*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/momotrosman/)*

@@ -1,6 +1,6 @@
 # Junkyard Openair Closing at Junkyard Dortmund
 
-Junkyard Openair Closing at Junkyard Dortmund on Sat 12 Sept, Dortmund-essen. 1 act on the bill: Robin Tasi. Techno. Preview the line-up and save it on soundcheck.
+Junkyard Openair Closing at Junkyard Dortmund on Sat 12 Sept, Dortmund-essen. 3 acts on the bill: celodic, Krackk and Robin Tasi. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,8 @@ Junkyard Openair Closing at Junkyard Dortmund on Sat 12 Sept, Dortmund-essen. 1 
 
 ## Line-up
 
+- celodic
+- Krackk
 - Robin Tasi
 
 *Source: [soundcheck](https://soundcheck.club/e/2511977-junkyard-openair-closing-at-junkyard-dortmund/)*

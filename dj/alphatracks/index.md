@@ -1,6 +1,6 @@
 # Alpha Tracks
 
-Alpha Tracks is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Tue, 8 Sept 2026, next at TBA - Multiple Venues, Vienna on Fri, 4 Sept 2026.
+Alpha Tracks is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Wed, 9 Sept 2026, next at TBA - Multiple Venues, Vienna on Fri, 4 Sept 2026.
 
 Alpha Tracks is a techno and trance artist tracked on soundcheck, with 93 sets logged across Amsterdam, Athens, Bangkok and Basel and 29 more. Often billed alongside DINA, Blue Hour and Oprofessionell. Next up: TBA - Multiple Venues, Vienna on Fri 4 Sept.
 
@@ -25,4 +25,4 @@ Alpha Tracks is a techno and trance artist tracked on soundcheck, with 93 sets l
 
 DINA, Blue Hour, Oprofessionell
 
-*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/alphatracks/)*
+*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/alphatracks/)*

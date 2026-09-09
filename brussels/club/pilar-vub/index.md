@@ -1,14 +1,15 @@
 # Pilar - VUB
 
-Pilar - VUB is a music venue in Brussels with 6 upcoming nights listed on soundcheck as of Tue, 8 Sept 2026; the next is "Chris Ryan Williams + Lukas De Clerck" on Thu, 17 Sept 2026.
+Pilar - VUB is a music venue in Brussels with 7 upcoming nights listed on soundcheck as of Wed, 9 Sept 2026; the next is "Chris Ryan Williams + Lukas De Clerck" on Thu, 17 Sept 2026.
 
-Pilar - VUB is a music venue in Brussels listed on soundcheck. 6 upcoming nights, with line-ups including Alex Zhang Hungtai and LEYA. Browse upcoming dates, start times and who's playing. Boulevard de la Plaine 2, 1050 Ixelles, Belgium.
+Pilar - VUB is a music venue in Brussels listed on soundcheck. 7 upcoming nights, with line-ups including Alex Zhang Hungtai, DONIA, Jo FLM and Kamoun and 2 more. Browse upcoming dates, start times and who's playing. Boulevard de la Plaine 2, 1050 Ixelles, Belgium.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
 | Thu, 17 Sept 2026 | Chris Ryan Williams + Lukas De Clerck |  |
+| Thu, 24 Sept 2026 | Pilar Opening Blockparty | DONIA, Jo FLM, Kamoun, Toff Youth |
 | Tue, 29 Sept 2026 | LEYA | LEYA |
 | Thu, 1 Oct 2026 | Alex Zhang Hungtai + Katya Shirshkova + Catharina Evens | Alex Zhang Hungtai |
 | Tue, 27 Oct 2026 | Bitchin Bajas |  |
@@ -19,4 +20,4 @@ Pilar - VUB is a music venue in Brussels listed on soundcheck. 6 upcoming nights
 
 Boulevard de la Plaine 2, 1050 Ixelles, Belgium, Brussels
 
-*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/brussels/club/pilar-vub/)*
+*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/brussels/club/pilar-vub/)*

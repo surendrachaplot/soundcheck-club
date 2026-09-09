@@ -1,6 +1,6 @@
 # Leider9 x Progressive Leipzig at elipamanoke
 
-Leider9 x Progressive Leipzig at elipamanoke on Sat 19 Sept, Leipzig. 6 acts on the bill: CAMPA, Emeveka, GIANNA and Langnikel and 2 more. Techno. Preview the line-up and save it on soundcheck.
+Leider9 x Progressive Leipzig at elipamanoke on Sat 19 Sept, Leipzig. 7 acts on the bill: CAMPA, Emeveka, Fennek and GIANNA and 3 more. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -12,6 +12,7 @@ Leider9 x Progressive Leipzig at elipamanoke on Sat 19 Sept, Leipzig. 6 acts on 
 
 - CAMPA
 - Emeveka
+- Fennek
 - GIANNA
 - Langnikel
 - MILA DUCH

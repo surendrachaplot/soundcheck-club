@@ -1,6 +1,6 @@
 # TBA - Warehouse
 
-TBA - Warehouse is a music venue in Paris with 6 upcoming nights listed on soundcheck as of Tue, 8 Sept 2026; the next is "DJ Ruby & Mayro Progressive Warehouse (Toronto)" on Sat, 12 Sept 2026.
+TBA - Warehouse is a music venue in Paris with 6 upcoming nights listed on soundcheck as of Wed, 9 Sept 2026; the next is "DJ Ruby & Mayro Progressive Warehouse (Toronto)" on Sat, 12 Sept 2026.
 
 TBA - Warehouse is a music venue in Paris listed on soundcheck. 6 upcoming nights, with line-ups including AEREA, ARJ (IR), beta_phase and Blachord and 2 more. Browse upcoming dates, start times and who's playing.
 
@@ -15,4 +15,4 @@ TBA - Warehouse is a music venue in Paris listed on soundcheck. 6 upcoming night
 | Sat, 21 Nov 2026 | TAKEOVER 6IX presents AEREA / THE MUFFIN MAN | AEREA, The Muffin Man |
 | Fri, 4 Dec 2026 | TAKEOVER 6IX presents Serafina [EXTENDED SET] | Serafina |
 
-*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/paris/club/tba-warehouse/)*
+*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/paris/club/tba-warehouse/)*

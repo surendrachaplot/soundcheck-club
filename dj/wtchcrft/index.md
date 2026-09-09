@@ -1,6 +1,6 @@
 # WTCHCRFT
 
-WTCHCRFT is a Techno and Club artist with 2 upcoming club dates listed on soundcheck as of Tue, 8 Sept 2026, next at Rubulad, New York City on Fri, 18 Sept 2026.
+WTCHCRFT is a Techno and Club artist with 2 upcoming club dates listed on soundcheck as of Wed, 9 Sept 2026, next at Rubulad, New York City on Fri, 18 Sept 2026.
 
 WTCHCRFT is a techno and club artist tracked on soundcheck, with 153 sets logged across Austin, Berlin, Boston and Chicago and 15 more. Often billed alongside KYRUH, RITCHRD and estoc. Next up: Rubulad, Newyorkcity on Fri 18 Sept.
 
@@ -26,4 +26,4 @@ WTCHCRFT is a techno and club artist tracked on soundcheck, with 153 sets logged
 
 KYRUH, RITCHRD, estoc
 
-*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/wtchcrft/)*
+*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/wtchcrft/)*

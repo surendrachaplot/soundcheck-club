@@ -1,6 +1,6 @@
 # Ministry of Rave Prague at Fortuna Hall
 
-Ministry of Rave Prague at Fortuna Hall on Sat 5 Dec, Prague. 8 acts on the bill: Golpe, KLOFAMA, Nico Moreno and NOVAH and 4 more. Techno. Preview the line-up and save it on soundcheck.
+Ministry of Rave Prague at Fortuna Hall on Sat 5 Dec, Prague. 9 acts on the bill: ALT8, Golpe, KLOFAMA and Nico Moreno and 5 more. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ Ministry of Rave Prague at Fortuna Hall on Sat 5 Dec, Prague. 8 acts on the bill
 
 ## Line-up
 
+- ALT8
 - Golpe
 - KLOFAMA
 - Nico Moreno

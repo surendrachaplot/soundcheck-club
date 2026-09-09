@@ -1,6 +1,6 @@
 # Disco Disco x Paillettes Pompettes at Virage
 
-Disco Disco x Paillettes Pompettes at Virage on Thu 10 Sept, Paris. 3 acts on the bill: Bande de Filles, Dusty Fingers and Tonno Disko. House and Disco. Preview the line-up and save it on soundcheck.
+Disco Disco x Paillettes Pompettes at Virage on Thu 10 Sept, Paris. 4 acts on the bill: Bande de Filles, Dusty Fingers, Fleur De Mur and Tonno Disko. House and Disco. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -12,6 +12,7 @@ Disco Disco x Paillettes Pompettes at Virage on Thu 10 Sept, Paris. 3 acts on th
 
 - Bande de Filles
 - Dusty Fingers
+- Fleur De Mur
 - Tonno Disko
 
 *Source: [soundcheck](https://soundcheck.club/e/2519552-disco-disco-x-paillettes-pompettes-at-virage/)*

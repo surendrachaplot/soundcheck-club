@@ -1,6 +1,6 @@
 # Daya Dadlani
 
-Daya Dadlani is a House and Electronica artist with 1 upcoming club date listed on soundcheck as of Tue, 8 Sept 2026, next at Sala El Sol, Madrid on Fri, 11 Sept 2026.
+Daya Dadlani is a House and Electronica artist with 1 upcoming club date listed on soundcheck as of Wed, 9 Sept 2026, next at Sala El Sol, Madrid on Fri, 11 Sept 2026.
 
 Daya Dadlani is a house and electronica artist based in Spain, tracked on soundcheck, with 5 sets logged across Madrid. Often billed alongside David Carro, Fortuno and Iker Lobo. Next up: Sala El Sol, Madrid on Fri 11 Sept.
 
@@ -21,4 +21,4 @@ Daya Dadlani is a house and electronica artist based in Spain, tracked on soundc
 
 David Carro, Fortuno, Iker Lobo
 
-*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dayadadlani/)*
+*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dayadadlani/)*

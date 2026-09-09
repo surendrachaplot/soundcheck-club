@@ -1,6 +1,6 @@
 # Midline
 
-Midline is a music venue in Miami with 10 upcoming nights listed on soundcheck as of Tue, 8 Sept 2026; the next is "Six Sex MIAMI" on Fri, 18 Sept 2026.
+Midline is a music venue in Miami with 10 upcoming nights listed on soundcheck as of Wed, 9 Sept 2026; the next is "Six Sex MIAMI" on Fri, 18 Sept 2026.
 
 Midline is a music venue in Miami listed on soundcheck. 10 upcoming nights, with line-ups including DJ Habibeats, Mose and Six Sex. Browse upcoming dates, start times and who's playing.
 
@@ -19,4 +19,4 @@ Midline is a music venue in Miami listed on soundcheck. 10 upcoming nights, with
 | Wed, 25 Nov 2026 | INNA MIAMI |  |
 | Sat, 28 Nov 2026 | WonkyWilla MIAMI |  |
 
-*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/miami/club/midline/)*
+*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/miami/club/midline/)*

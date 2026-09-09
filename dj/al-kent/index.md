@@ -1,6 +1,6 @@
 # Al Kent
 
-Al Kent is a Disco and House artist with 1 upcoming club date listed on soundcheck as of Tue, 8 Sept 2026, next at Charlies Loft, Glasgow on Fri, 25 Sept 2026.
+Al Kent is a Disco and House artist with 1 upcoming club date listed on soundcheck as of Wed, 9 Sept 2026, next at Charlies Loft, Glasgow on Fri, 25 Sept 2026.
 
 Al Kent is a disco and house artist tracked on soundcheck, with 25 sets logged across Barcelona, Glasgow, London and Miami and 2 more. Often billed alongside Craig Smith, David Barbarossa and Dimitri From Paris. Next up: Charlies Loft, Glasgow on Fri 25 Sept.
 
@@ -25,4 +25,4 @@ Al Kent is a disco and house artist tracked on soundcheck, with 25 sets logged a
 
 Craig Smith, David Barbarossa, Dimitri From Paris
 
-*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/al-kent/)*
+*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/al-kent/)*

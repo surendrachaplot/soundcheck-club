@@ -1,6 +1,6 @@
 # Lexx (BE)
 
-Lexx (BE) is a House and Electro artist with 1 upcoming club date listed on soundcheck as of Tue, 8 Sept 2026, next at TBA - Brussels, Brussels on Fri, 11 Sept 2026.
+Lexx (BE) is a House and Electro artist with 1 upcoming club date listed on soundcheck as of Wed, 9 Sept 2026, next at TBA - Brussels, Brussels on Fri, 11 Sept 2026.
 
 Lexx (BE) is a house and electro artist tracked on soundcheck, with 21 sets logged across Antwerp, Brussels and Dusseldorf. Often billed alongside Jonathan Kaspar, AJNA and Nico Morano. Next up: TBA - Brussels, Brussels on Fri 11 Sept.
 
@@ -25,4 +25,4 @@ Lexx (BE) is a house and electro artist tracked on soundcheck, with 21 sets logg
 
 Jonathan Kaspar, AJNA, Nico Morano
 
-*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lexxbe/)*
+*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lexxbe/)*

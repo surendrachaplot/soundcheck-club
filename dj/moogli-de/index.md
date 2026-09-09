@@ -1,8 +1,8 @@
 # MOOGLI (DE)
 
-MOOGLI (DE) is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 8 Sept 2026, next at SAGE, Berlin on Sat, 12 Sept 2026.
+MOOGLI (DE) is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 9 Sept 2026, next at SAGE, Berlin on Sat, 12 Sept 2026.
 
-MOOGLI (DE) is a house and techno artist based in Germany, tracked on soundcheck, with 29 sets logged across Amsterdam, Berlin and Zurich. Often billed alongside Mona Pirzad, Foolik and Pauli Pocket. Next up: SAGE, Berlin on Sat 12 Sept.
+MOOGLI (DE) is a house and techno artist based in Germany, tracked on soundcheck, with 29 sets logged across Amsterdam, Berlin and Zurich. Often billed alongside Mona Pirzad, Deep Ghosh and Foolik. Next up: SAGE, Berlin on Sat 12 Sept.
 
 ## Upcoming shows
 
@@ -23,6 +23,6 @@ MOOGLI (DE) is a house and techno artist based in Germany, tracked on soundcheck
 
 ## Shares bills with
 
-Mona Pirzad, Foolik, Pauli Pocket
+Mona Pirzad, Deep Ghosh, Foolik
 
-*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/moogli-de/)*
+*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/moogli-de/)*

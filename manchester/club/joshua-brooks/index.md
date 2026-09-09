@@ -1,6 +1,6 @@
 # Joshua Brooks
 
-Joshua Brooks is a music venue in Manchester with 12 upcoming nights listed on soundcheck as of Tue, 8 Sept 2026; the next is "Sam Divine [Extended Set] - Joshua Brooks Remastered" on Fri, 11 Sept 2026.
+Joshua Brooks is a music venue in Manchester with 12 upcoming nights listed on soundcheck as of Wed, 9 Sept 2026; the next is "Sam Divine [Extended Set] - Joshua Brooks Remastered" on Fri, 11 Sept 2026.
 
 Joshua Brooks is a music venue in Manchester listed on soundcheck. 12 upcoming nights, with line-ups including AYDN, Badger (UK), CEEKAY and Cristoph and 2 more. Browse upcoming dates, start times and who's playing. 106 Princess Street; Manchester; M1 6NG, United Kingdom.
 
@@ -23,4 +23,4 @@ Joshua Brooks is a music venue in Manchester listed on soundcheck. 12 upcoming n
 
 106 Princess Street; Manchester; M1 6NG, United Kingdom, Manchester
 
-*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/joshua-brooks/)*
+*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/joshua-brooks/)*

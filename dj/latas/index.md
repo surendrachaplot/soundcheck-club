@@ -1,6 +1,6 @@
 # Latas
 
-Latas is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Tue, 8 Sept 2026, next at MAD Radio NYC, New York City on Fri, 11 Sept 2026.
+Latas is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Wed, 9 Sept 2026, next at MAD Radio NYC, New York City on Fri, 11 Sept 2026.
 
 Latas is a house and deep house artist based in United States of America, tracked on soundcheck, with 21 sets logged across Newyorkcity. Often billed alongside Akin Paksoy, Jack Mulqueen and Adham Gaama. Next up: MAD Radio NYC, Newyorkcity on Fri 11 Sept.
 
@@ -25,4 +25,4 @@ Latas is a house and deep house artist based in United States of America, tracke
 
 Akin Paksoy, Jack Mulqueen, Adham Gaama
 
-*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/latas/)*
+*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/latas/)*

@@ -1,8 +1,8 @@
 # Haus der Visionäre
 
-Haus der Visionäre is a music venue in Berlin with 5 upcoming nights listed on soundcheck as of Tue, 8 Sept 2026; the next is "Soft Power Festival" on Fri, 11 Sept 2026.
+Haus der Visionäre is a music venue in Berlin with 5 upcoming nights listed on soundcheck as of Wed, 9 Sept 2026; the next is "Soft Power Festival" on Fri, 11 Sept 2026.
 
-Haus der Visionäre is a music venue in Berlin listed on soundcheck. 5 upcoming nights, with line-ups including Alejandro Mosso, Alexia (2), Amir Alexander and Anahita Sadighi and 2 more. Browse upcoming dates, start times and who's playing. Eichenstr. 4a, 12435 Berlin.
+Haus der Visionäre is a music venue in Berlin listed on soundcheck. 5 upcoming nights, with line-ups including Alejandro Mosso, Alexia (2), Al Wootton and Amir Alexander and 2 more. Browse upcoming dates, start times and who's playing. Eichenstr. 4a, 12435 Berlin.
 
 ## What's on
 
@@ -12,10 +12,10 @@ Haus der Visionäre is a music venue in Berlin listed on soundcheck. 5 upcoming 
 | Sat, 26 Sept 2026 | Giegling Berlin |  |
 | Sat, 26 Sept 2026 | giegling in berlin | Deadbeat, Dragana, Edward, Flo Massé, Jan Jelinek, Jeanette Trèsbien, Just1, Kalabrese, Konstantin, Leafar Legov, Map.ache, Mimi (4), O.BEE, Portable, Serenne, Tau Car, Tikiman, Tomas Station |
 | Thu, 1 Oct 2026 | SKINDEEP |  |
-| Sun, 4 Oct 2026 | Spell pres. Moin | Moin |
+| Sun, 4 Oct 2026 | Spell pres. Moin | Al Wootton, Moin, Vaahzer, Velv.93, Vlada |
 
 ## Address
 
 Eichenstr. 4a, 12435 Berlin, Berlin
 
-*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/haus-der-vision-re/)*
+*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/haus-der-vision-re/)*

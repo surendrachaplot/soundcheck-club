@@ -1,6 +1,6 @@
 # Dogenzaka Church
 
-Dogenzaka Church is a music venue in Tokyo with 7 upcoming nights listed on soundcheck as of Tue, 8 Sept 2026; the next is "CANDELA OF MUSIC" on Tue, 8 Sept 2026.
+Dogenzaka Church is a music venue in Tokyo with 7 upcoming nights listed on soundcheck as of Wed, 9 Sept 2026; the next is "道玄坂教会二人会" on Wed, 9 Sept 2026.
 
 Dogenzaka Church is a music venue in Tokyo listed on soundcheck. 7 upcoming nights, with line-ups including A K, DJ MIYU, EIJI and Hironobu Jyounai and 2 more. Browse upcoming dates, start times and who's playing. Japan, 〒150-0043 Tokyo, Shibuya City, Dogenzaka, 2 Chome−16−5, Central Kyoritsu Building, 1階.
 
@@ -8,7 +8,7 @@ Dogenzaka Church is a music venue in Tokyo listed on soundcheck. 7 upcoming nigh
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Tue, 8 Sept 2026 | CANDELA OF MUSIC |  |
+| Wed, 9 Sept 2026 | 道玄坂教会二人会 |  |
 | Thu, 10 Sept 2026 | ROAD TO ADE CHURCH | A K, ROKI |
 | Sat, 12 Sept 2026 | マンゴー教会 |  |
 | Sun, 13 Sept 2026 | Dogenzaka Exotic VooDoo Lounge | Okehazama |
@@ -20,4 +20,4 @@ Dogenzaka Church is a music venue in Tokyo listed on soundcheck. 7 upcoming nigh
 
 Japan, 〒150-0043 Tokyo, Shibuya City, Dogenzaka, 2 Chome−16−5, Central Kyoritsu Building, 1階, Tokyo
 
-*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/dogenzaka-church/)*
+*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/dogenzaka-church/)*

@@ -1,6 +1,6 @@
 # Frankov
 
-Frankov is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Tue, 8 Sept 2026, next at Golden Gate, Berlin on Thu, 10 Sept 2026.
+Frankov is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Wed, 9 Sept 2026, next at Golden Gate, Berlin on Thu, 10 Sept 2026.
 
 Frankov is a house and tech house artist based in Mexico, tracked on soundcheck, with 25 sets logged across Barcelona, Berlin, Copenhagen and Mexicocity and 2 more. Often billed alongside Albin Brezlan, Dana Melissa and ESH. Next up: Golden Gate, Berlin on Thu 10 Sept.
 
@@ -25,4 +25,4 @@ Frankov is a house and tech house artist based in Mexico, tracked on soundcheck,
 
 Albin Brezlan, Dana Melissa, ESH
 
-*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/frankov/)*
+*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/frankov/)*

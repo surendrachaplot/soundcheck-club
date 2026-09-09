@@ -1,6 +1,6 @@
 # ODD pres Paracek at OST
 
-ODD pres Paracek at OST on Fri 23 Oct, Berlin. 6 acts on the bill: Charleen Herzig, Danilo Filipe, Levt and Lisek and 2 more. Techno. Preview the line-up and save it on soundcheck.
+ODD pres Paracek at OST on Fri 23 Oct, Berlin. 8 acts on the bill: BNZN, Charleen Herzig, Danilo Filipe and Levt and 4 more. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,10 +10,12 @@ ODD pres Paracek at OST on Fri 23 Oct, Berlin. 6 acts on the bill: Charleen Herz
 
 ## Line-up
 
+- BNZN
 - Charleen Herzig
 - Danilo Filipe
 - Levt
 - Lisek
+- Melanchromie
 - NIKKI030
 - Paraçek
 

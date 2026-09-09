@@ -1,6 +1,6 @@
 # DUC (NL)
 
-DUC (NL) is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 8 Sept 2026, next at Borisov Amsterdam, Amsterdam on Thu, 10 Sept 2026.
+DUC (NL) is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 9 Sept 2026, next at Borisov Amsterdam, Amsterdam on Thu, 10 Sept 2026.
 
 DUC (NL) is a techno and house artist based in Netherlands, tracked on soundcheck, with 5 sets logged across Amsterdam. Often billed alongside Dani (1), Dark Circles (NL) and GroovEmilia. Next up: Borisov Amsterdam, Amsterdam on Thu 10 Sept.
 
@@ -21,4 +21,4 @@ DUC (NL) is a techno and house artist based in Netherlands, tracked on soundchec
 
 Dani (1), Dark Circles (NL), GroovEmilia
 
-*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/duc-1/)*
+*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/duc-1/)*

@@ -1,6 +1,6 @@
 # Calabasa
 
-Calabasa is a House and Minimal artist with 2 upcoming club dates listed on soundcheck as of Tue, 8 Sept 2026, next at Sophie Festival, Malaga on Sat, 19 Sept 2026.
+Calabasa is a House and Minimal artist with 2 upcoming club dates listed on soundcheck as of Wed, 9 Sept 2026, next at Sophie Festival, Malaga on Sat, 19 Sept 2026.
 
 Calabasa is a house and minimal artist tracked on soundcheck, with 50 sets logged across Antwerp, Barcelona, Berlin and Ibiza and 8 more. Often billed alongside Foie Gras, MARYO and Cap. Next up: Sophie Festival, Malaga on Sat 19 Sept.
 
@@ -26,4 +26,4 @@ Calabasa is a house and minimal artist tracked on soundcheck, with 50 sets logge
 
 Foie Gras, MARYO, Cap
 
-*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/calabasa/)*
+*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/calabasa/)*

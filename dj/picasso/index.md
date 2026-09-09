@@ -1,6 +1,6 @@
 # Picasso
 
-Picasso is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Tue, 8 Sept 2026, next at TBA -  Kummelholmen, Stockholm on Sat, 10 Oct 2026.
+Picasso is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Wed, 9 Sept 2026, next at TBA -  Kummelholmen, Stockholm on Sat, 10 Oct 2026.
 
 Picasso is a house and minimal artist tracked on soundcheck, with 37 sets logged across Amsterdam, Berlin, Brussels and Ghent and 8 more. Often billed alongside Bowyer, Duowe and Kian OK. Next up: TBA -  Kummelholmen, Stockholm on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ Picasso is a house and minimal artist tracked on soundcheck, with 37 sets logged
 
 Bowyer, Duowe, Kian OK
 
-*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/picasso/)*
+*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/picasso/)*

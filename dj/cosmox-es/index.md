@@ -1,14 +1,15 @@
 # Cosmo X
 
-Cosmo X is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 8 Sept 2026, next at Almar Beach Club, Barcelona on Sat, 19 Sept 2026.
+Cosmo X is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Wed, 9 Sept 2026, next at Almar Beach Club, Barcelona on Sat, 19 Sept 2026.
 
-Cosmo X is a house and techno artist based in Italy, tracked on soundcheck, with 14 sets logged across Antwerp and Barcelona. Often billed alongside Elwei, Mila Morr and Popsky. Next up: Almar Beach Club, Barcelona on Sat 19 Sept.
+Cosmo X is a techno and house artist based in Italy, tracked on soundcheck, with 15 sets logged across Antwerp and Barcelona. Often billed alongside Elwei, Mila Morr and Jesooria. Next up: Almar Beach Club, Barcelona on Sat 19 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 19 Sept 2026 | Almar Beach Club | Barcelona |
+| Fri, 25 Sept 2026 | TBA - secret location | Barcelona |
 
 ## Recently played
 
@@ -23,6 +24,6 @@ Cosmo X is a house and techno artist based in Italy, tracked on soundcheck, with
 
 ## Shares bills with
 
-Elwei, Mila Morr, Popsky
+Elwei, Mila Morr, Jesooria
 
-*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/cosmox-es/)*
+*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/cosmox-es/)*

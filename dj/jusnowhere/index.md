@@ -1,6 +1,6 @@
 # Jus Nowhere
 
-Jus Nowhere is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 8 Sept 2026, next at Flash, Washington DC on Fri, 18 Sept 2026.
+Jus Nowhere is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 9 Sept 2026, next at Flash, Washington DC on Fri, 18 Sept 2026.
 
 Jus Nowhere is a house and techno artist tracked on soundcheck, with 62 sets logged across Berlin, Detroit, Mexicocity and Newyorkcity and 1 more. Often billed alongside KayLaSoul, enz.O and Edo. Next up: Flash, Washingtondc on Fri 18 Sept.
 
@@ -25,4 +25,4 @@ Jus Nowhere is a house and techno artist tracked on soundcheck, with 62 sets log
 
 KayLaSoul, enz.O, Edo
 
-*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jusnowhere/)*
+*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jusnowhere/)*

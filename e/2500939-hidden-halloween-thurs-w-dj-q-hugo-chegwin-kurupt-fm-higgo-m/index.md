@@ -1,6 +1,6 @@
 # Hidden Halloween Thurs w/ DJ Q, Hugo Chegwin (Kurupt Fm), Higgo + more at Hidden
 
-Hidden Halloween Thurs w/ DJ Q, Hugo Chegwin (Kurupt Fm), Higgo + more on Thu 29 Oct, Manchester. 5 acts on the bill: DJ Q, ESC (5), Fold and Higgo and 1 more. Bass and Garage. Preview the line-up and save it on soundcheck.
+Hidden Halloween Thurs w/ DJ Q, Hugo Chegwin (Kurupt Fm), Higgo + more on Thu 29 Oct, Manchester. 6 acts on the bill: DJ Q, ESC (5), Fold and Higgo and 2 more. Bass and Garage. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -14,6 +14,7 @@ Hidden Halloween Thurs w/ DJ Q, Hugo Chegwin (Kurupt Fm), Higgo + more on Thu 29
 - ESC (5)
 - Fold
 - Higgo
+- SHADEV
 - Warpfit
 
 *Source: [soundcheck](https://soundcheck.club/e/2500939-hidden-halloween-thurs-w-dj-q-hugo-chegwin-kurupt-fm-higgo-m/)*

@@ -1,6 +1,6 @@
 # 93 Feet East
 
-93 Feet East is a music venue in London with 14 upcoming nights listed on soundcheck as of Tue, 8 Sept 2026; the next is "SUBSTRATE 001" on Fri, 11 Sept 2026.
+93 Feet East is a music venue in London with 14 upcoming nights listed on soundcheck as of Wed, 9 Sept 2026; the next is "SUBSTRATE 001" on Fri, 11 Sept 2026.
 
 93 Feet East is a music venue in London listed on soundcheck. 14 upcoming nights, with line-ups including KT, A J B, Boy Sonic and Braxton and 2 more. Browse upcoming dates, start times and who's playing. The Old Truman Brewery, 150 Brick Lane; Shoreditch; London E1 6RU; United Kingdom.
 
@@ -9,7 +9,7 @@
 | Date | Night | Line-up |
 | --- | --- | --- |
 | Fri, 11 Sept 2026 | SUBSTRATE 001 | A J B |
-| Sat, 12 Sept 2026 | Bitch Pleaze | Boy Sonic, David Elimelech |
+| Sat, 12 Sept 2026 | Bitch Pleaze | Boy Sonic, David Elimelech, Huse (2), Mani (3) |
 | Sun, 13 Sept 2026 | NATIVES: Summer Closing Day Party with Vitoto, General C'Mamane, Hypaphonik & FATSO98 | CRUZ CTRL (3), General C'mamane, Golden Lady, INTUIT, Nésa Thea, OneThabs, Tadi.wav |
 | Sat, 19 Sept 2026 | Deep into Soul | Neil Pierce, Quentin Harris, Sy Sez |
 | Fri, 25 Sept 2026 | Chevry Showcase: HearThug, Jhobei, KT, Vitess | HearThug, Jhobei, KT, Vitess |
@@ -23,4 +23,4 @@
 
 The Old Truman Brewery, 150 Brick Lane; Shoreditch; London E1 6RU; United Kingdom, London
 
-*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/93-feet-east/)*
+*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/93-feet-east/)*

@@ -1,8 +1,8 @@
 # Jono Xidias
 
-Jono Xidias is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Tue, 8 Sept 2026, next at TBA, Sydney on Sat, 12 Sept 2026.
+Jono Xidias is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Wed, 9 Sept 2026, next at TBA, Sydney on Sat, 12 Sept 2026.
 
-Jono Xidias is a house and techno artist tracked on soundcheck, with 32 sets logged across Amsterdam, Bangkok, Berlin and Dublin and 4 more. Often billed alongside Bichue, Mehmet Alpdogan and Accent'. Next up: TBA, Sydney on Sat 12 Sept.
+Jono Xidias is a house and techno artist tracked on soundcheck, with 33 sets logged across Amsterdam, Bangkok, Berlin and Dublin and 4 more. Often billed alongside Bichue, Mehmet Alpdogan and Accent'. Next up: TBA, Sydney on Sat 12 Sept.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Jono Xidias is a house and techno artist tracked on soundcheck, with 32 sets log
 | --- | --- | --- |
 | Sat, 12 Sept 2026 | TBA | Sydney |
 | Sat, 12 Sept 2026 | TBA | Sydney |
+| Sat, 26 Sept 2026 | TBA | Sydney |
 
 ## Recently played
 
@@ -26,4 +27,4 @@ Jono Xidias is a house and techno artist tracked on soundcheck, with 32 sets log
 
 Bichue, Mehmet Alpdogan, Accent'
 
-*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jonoxidias/)*
+*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jonoxidias/)*

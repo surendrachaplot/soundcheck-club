@@ -1,6 +1,6 @@
 # Stephan Bodzin
 
-Stephan Bodzin is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Tue, 8 Sept 2026, next at Amnesia Ibiza, Ibiza on Wed, 9 Sept 2026.
+Stephan Bodzin is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Wed, 9 Sept 2026, next at Amnesia Ibiza, Ibiza on Wed, 9 Sept 2026.
 
 Stephan Bodzin is a techno and house artist tracked on soundcheck, with 108 sets logged across Amsterdam, Athens, Austin and Bali and 39 more. Often billed alongside Luna Semara, Mind Against and Agents Of Time. Next up: Amnesia Ibiza, Ibiza on Wed 9 Sept.
 
@@ -29,4 +29,4 @@ Stephan Bodzin is a techno and house artist tracked on soundcheck, with 108 sets
 
 Luna Semara, Mind Against, Agents Of Time
 
-*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/stephanbodzin/)*
+*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/stephanbodzin/)*

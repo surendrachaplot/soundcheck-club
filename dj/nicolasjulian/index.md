@@ -1,6 +1,6 @@
 # Nicolas Julian
 
-Nicolas Julian is a Techno and Trance artist with 4 upcoming club dates listed on soundcheck as of Tue, 8 Sept 2026, next at Garage Klub, Antwerp on Fri, 18 Sept 2026.
+Nicolas Julian is a Techno and Trance artist with 4 upcoming club dates listed on soundcheck as of Wed, 9 Sept 2026, next at Garage Klub, Antwerp on Fri, 18 Sept 2026.
 
 Nicolas Julian is a techno and trance artist tracked on soundcheck, with 96 sets logged across Amsterdam, Antwerp, Athens and Austin and 36 more. Often billed alongside NOTMYTYPE (2), IGDA and A.N.I.. Next up: Garage Klub, Antwerp on Fri 18 Sept.
 
@@ -28,4 +28,4 @@ Nicolas Julian is a techno and trance artist tracked on soundcheck, with 96 sets
 
 NOTMYTYPE (2), IGDA, A.N.I.
 
-*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nicolasjulian/)*
+*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nicolasjulian/)*

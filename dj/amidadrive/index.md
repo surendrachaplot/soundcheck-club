@@ -1,13 +1,14 @@
 # AMIDAdrive
 
-AMIDAdrive is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Tue, 8 Sept 2026, next at clubasia, Tokyo on Thu, 24 Sept 2026.
+AMIDAdrive is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Wed, 9 Sept 2026, next at TBA, Tokyo on Thu, 10 Sept 2026.
 
-AMIDAdrive is a techno and house artist based in Japan, tracked on soundcheck, with 42 sets logged across Tokyo. Often billed alongside uuu7, Kengo Yuasa and KUNPEI. Next up: clubasia, Tokyo on Thu 24 Sept.
+AMIDAdrive is a techno and house artist based in Japan, tracked on soundcheck, with 43 sets logged across Tokyo. Often billed alongside uuu7, KUNPEI and Kengo Yuasa. Next up: TBA, Tokyo on Thu 10 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Thu, 10 Sept 2026 | TBA | Tokyo |
 | Thu, 24 Sept 2026 | clubasia | Tokyo |
 | Sun, 4 Oct 2026 | or | Tokyo |
 
@@ -24,6 +25,6 @@ AMIDAdrive is a techno and house artist based in Japan, tracked on soundcheck, w
 
 ## Shares bills with
 
-uuu7, Kengo Yuasa, KUNPEI
+uuu7, KUNPEI, Kengo Yuasa
 
-*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/amidadrive/)*
+*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/amidadrive/)*

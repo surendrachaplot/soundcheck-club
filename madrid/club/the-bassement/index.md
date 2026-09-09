@@ -1,8 +1,8 @@
 # The Bassement
 
-The Bassement is a music venue in Madrid with 13 upcoming nights listed on soundcheck as of Tue, 8 Sept 2026; the next is "BASSMNT CLUB presents Loco Dice - MADRID RACE WEEK" on Fri, 11 Sept 2026.
+The Bassement is a music venue in Madrid with 14 upcoming nights listed on soundcheck as of Wed, 9 Sept 2026; the next is "BASSMNT CLUB presents Loco Dice - MADRID RACE WEEK" on Fri, 11 Sept 2026.
 
-The Bassement is a music venue in Madrid listed on soundcheck. 13 upcoming nights, with line-ups including Ben Sims, DJ AMAZING, DVS1 and Feral and 2 more. Browse upcoming dates, start times and who's playing. C. de Galileo, 2628015 Madrid.
+The Bassement is a music venue in Madrid listed on soundcheck. 14 upcoming nights, with line-ups including Ben Sims, DJ AMAZING, DVS1 and DXPE (ES) and 2 more. Browse upcoming dates, start times and who's playing. C. de Galileo, 2628015 Madrid.
 
 ## What's on
 
@@ -15,12 +15,12 @@ The Bassement is a music venue in Madrid listed on soundcheck. 13 upcoming night
 | Sat, 19 Sept 2026 | BASSMNT CLUB presents SVEN VÄTH - V ANNIVERSARY I | Sven Vath |
 | Thu, 24 Sept 2026 | Sintetic Club: The Opening | Legiøn, Sora Éke |
 | Sat, 26 Sept 2026 | Laster Club presents DVS1 invites | DVS1, Lindsey Herbert, Metapattern |
+| Thu, 1 Oct 2026 | NITRO: DXPE B2B GNS + Tasuik + PÜCH B2B JRG + MVPDJ | DXPE (ES), GNS (1), JRG, MVPDJ, PÜCH, Tasuik |
 | Sat, 3 Oct 2026 | LASTER presents DÉCIMA by Nørbak with Surgeon | Nørbak, Surgeon |
 | Sat, 3 Oct 2026 | Hop on The Top MADRID - Hip Hop / R&B / Funk / Soul - The Bassement Club | DJ AMAZING |
-| Fri, 9 Oct 2026 | Laster Club presents INTERNATIONAL RESIDENTS NIGHT with The Lady Machine & Setaoc Mass | Setaoc Mass, The Lady Machine |
 
 ## Address
 
 C. de Galileo, 2628015 Madrid, Madrid
 
-*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/the-bassement/)*
+*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/the-bassement/)*

@@ -1,6 +1,6 @@
 # Gabriele Del Prete
 
-Gabriele Del Prete is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Tue, 8 Sept 2026, next at Teatro Bellini, Naples on Fri, 25 Sept 2026.
+Gabriele Del Prete is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Wed, 9 Sept 2026, next at Teatro Bellini, Naples on Fri, 25 Sept 2026.
 
 Gabriele Del Prete is a house and tech house artist tracked on soundcheck, with 19 sets logged across Barcelona and Naples. Often billed alongside Mario Bianco, Enrico Maria and Gabriele Russo. Next up: Teatro Bellini, Naples on Fri 25 Sept.
 
@@ -25,4 +25,4 @@ Gabriele Del Prete is a house and tech house artist tracked on soundcheck, with 
 
 Mario Bianco, Enrico Maria, Gabriele Russo
 
-*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/gabrieledelprete/)*
+*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/gabrieledelprete/)*

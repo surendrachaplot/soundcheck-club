@@ -1,6 +1,6 @@
 # Terrence Parker
 
-Terrence Parker is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Tue, 8 Sept 2026, next at La Java, Paris on Sat, 19 Sept 2026.
+Terrence Parker is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 9 Sept 2026, next at La Java, Paris on Sat, 19 Sept 2026.
 
 Terrence Parker is a house and techno artist based in United States of America, tracked on soundcheck, with 62 sets logged across Bali, Barcelona, Chicago and Denver and 14 more. Often billed alongside DJ Spen, DJ MoReese and Eddie Fowlkes. Next up: La Java, Paris on Sat 19 Sept.
 
@@ -26,4 +26,4 @@ Terrence Parker is a house and techno artist based in United States of America, 
 
 DJ Spen, DJ MoReese, Eddie Fowlkes
 
-*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/terrenceparker/)*
+*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/terrenceparker/)*

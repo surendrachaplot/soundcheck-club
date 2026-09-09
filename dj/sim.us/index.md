@@ -1,6 +1,6 @@
 # S.I.M
 
-S.I.M is a Techno and Garage artist with 2 upcoming club dates listed on soundcheck as of Tue, 8 Sept 2026, next at Public Works, San Francisco/Oakland on Fri, 11 Sept 2026.
+S.I.M is a Techno and Garage artist with 2 upcoming club dates listed on soundcheck as of Wed, 9 Sept 2026, next at Public Works, San Francisco/Oakland on Fri, 11 Sept 2026.
 
 S.I.M is a techno and garage artist based in United States of America, tracked on soundcheck, with 10 sets logged across Losangeles, Sandiego and Sanfrancisco. Often billed alongside cstr, 6 SENSE and Brick (US). Next up: Public Works, Sanfrancisco on Fri 11 Sept.
 
@@ -26,4 +26,4 @@ S.I.M is a techno and garage artist based in United States of America, tracked o
 
 cstr, 6 SENSE, Brick (US)
 
-*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sim.us/)*
+*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sim.us/)*

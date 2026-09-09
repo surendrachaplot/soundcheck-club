@@ -1,6 +1,6 @@
 # JAM XVIII (XXL Édition) at La Rotonde Stalingrad
 
-JAM XVIII (XXL Édition) at La Rotonde Stalingrad on Fri 11 Sept, Paris. 4 acts on the bill: Bulie Jordeaux, Delskiz, Elvira (1) and Jacky Jeane. Experimental and Electronica. Preview the line-up and save it on soundcheck.
+JAM XVIII (XXL Édition) at La Rotonde Stalingrad on Fri 11 Sept, Paris. 5 acts on the bill: Bulie Jordeaux, Delskiz, Elvira (1) and Jacky Jeane and 1 more. Experimental and Electronica. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -14,5 +14,6 @@ JAM XVIII (XXL Édition) at La Rotonde Stalingrad on Fri 11 Sept, Paris. 4 acts 
 - Delskiz
 - Elvira (1)
 - Jacky Jeane
+- Lou
 
 *Source: [soundcheck](https://soundcheck.club/e/2517393-jam-xviii-xxl-dition-at-la-rotonde-stalingrad/)*

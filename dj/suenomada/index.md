@@ -1,6 +1,6 @@
 # Suenomada
 
-Suenomada is a Techno and Bass artist with 1 upcoming club date listed on soundcheck as of Tue, 8 Sept 2026, next at Les Ateliers du Dahu, Nantes on Fri, 25 Sept 2026.
+Suenomada is a Techno and Bass artist with 1 upcoming club date listed on soundcheck as of Wed, 9 Sept 2026, next at Les Ateliers du Dahu, Nantes on Fri, 25 Sept 2026.
 
 Suenomada is a techno and bass artist based in France, tracked on soundcheck, with 5 sets logged across Nantes and Paris. Often billed alongside Arnaud Is Dancing, Bitter Babe and Cannonbar. Next up: Les Ateliers du Dahu, Nantes on Fri 25 Sept.
 
@@ -21,4 +21,4 @@ Suenomada is a techno and bass artist based in France, tracked on soundcheck, wi
 
 Arnaud Is Dancing, Bitter Babe, Cannonbar
 
-*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/suenomada/)*
+*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/suenomada/)*

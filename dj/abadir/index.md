@@ -1,14 +1,15 @@
 # ABADIR
 
-ABADIR is a Experimental and Club artist with 2 upcoming club dates listed on soundcheck as of Tue, 8 Sept 2026, next at The White Hotel, Manchester on Fri, 25 Sept 2026.
+ABADIR is a Experimental and Club artist with 3 upcoming club dates listed on soundcheck as of Wed, 9 Sept 2026, next at The White Hotel, Manchester on Fri, 25 Sept 2026.
 
-ABADIR is an experimental and club artist based in Egypt, tracked on soundcheck, with 61 sets logged across Amsterdam, Belgrade, Berlin and Bristol and 18 more. Often billed alongside Sara Persico, Assyouti and Zoë Mc Pherson. Next up: The White Hotel, Manchester on Fri 25 Sept.
+ABADIR is an experimental and club artist based in Egypt, tracked on soundcheck, with 62 sets logged across Amsterdam, Belgrade, Berlin and Bristol and 19 more. Often billed alongside Sara Persico, Assyouti and Zoë Mc Pherson. Next up: The White Hotel, Manchester on Fri 25 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 25 Sept 2026 | The White Hotel | Manchester |
+| Sat, 26 Sept 2026 | Mono | Rotterdam |
 | Fri, 2 Oct 2026 | TBA -  VARIOUS | Berlin |
 
 ## Recently played
@@ -26,4 +27,4 @@ ABADIR is an experimental and club artist based in Egypt, tracked on soundcheck,
 
 Sara Persico, Assyouti, Zoë Mc Pherson
 
-*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/abadir/)*
+*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/abadir/)*

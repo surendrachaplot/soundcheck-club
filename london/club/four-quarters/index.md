@@ -1,6 +1,6 @@
 # Four Quarters
 
-Four Quarters is a music venue in London with 6 upcoming nights listed on soundcheck as of Tue, 8 Sept 2026; the next is "sWARM signals 09: House. Techno. Beyond" on Fri, 11 Sept 2026.
+Four Quarters is a music venue in London with 6 upcoming nights listed on soundcheck as of Wed, 9 Sept 2026; the next is "sWARM signals 09: House. Techno. Beyond" on Fri, 11 Sept 2026.
 
 Four Quarters is a music venue in London listed on soundcheck. 6 upcoming nights, with line-ups including Alfie Fraser, Alley Cat, Calm Stiege and Cozen (2) and 2 more. Browse upcoming dates, start times and who's playing. 187 Rye Lane, Peckham, SE15 4TP.
 
@@ -19,4 +19,4 @@ Four Quarters is a music venue in London listed on soundcheck. 6 upcoming nights
 
 187 Rye Lane, Peckham, SE15 4TP, London
 
-*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/four-quarters/)*
+*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/four-quarters/)*

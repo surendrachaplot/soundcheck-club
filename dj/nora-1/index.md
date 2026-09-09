@@ -1,6 +1,6 @@
 # NORA (BR)
 
-NORA (BR) is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 8 Sept 2026, next at Silbergold, Frankfurt on Sat, 12 Sept 2026.
+NORA (BR) is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 9 Sept 2026, next at Silbergold, Frankfurt on Sat, 12 Sept 2026.
 
 NORA (BR) is a house and techno artist tracked on soundcheck, with 38 sets logged across Amsterdam, Berlin, Brussels and Frankfurt and 6 more. Often billed alongside IDLIBRA, Alada and BADSISTA. Next up: Silbergold, Frankfurt on Sat 12 Sept.
 
@@ -25,4 +25,4 @@ NORA (BR) is a house and techno artist tracked on soundcheck, with 38 sets logge
 
 IDLIBRA, Alada, BADSISTA
 
-*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nora-1/)*
+*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nora-1/)*

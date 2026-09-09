@@ -1,6 +1,6 @@
 # LA-YAM Rooftop
 
-LA-YAM Rooftop is a music venue in London with 1 upcoming night listed on soundcheck as of Tue, 8 Sept 2026; the next is "Blanche on the Roof with VIZARE Live (Viken Arman + Cesar Merveille) - Season Closing" on Sat, 12 Sept 2026.
+LA-YAM Rooftop is a music venue in London with 1 upcoming night listed on soundcheck as of Wed, 9 Sept 2026; the next is "Blanche on the Roof with VIZARE Live (Viken Arman + Cesar Merveille) - Season Closing" on Sat, 12 Sept 2026.
 
 LA-YAM Rooftop is a music venue in London listed on soundcheck. 1 upcoming night, with line-ups including Cesar Merveille, Sonus, Viken Arman and VIZARE Live. Browse upcoming dates, start times and who's playing. Kingsbourne House, 229-231 High Holborn.
 
@@ -14,4 +14,4 @@ LA-YAM Rooftop is a music venue in London listed on soundcheck. 1 upcoming night
 
 Kingsbourne House, 229-231 High Holborn, London
 
-*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/la-yam-rooftop/)*
+*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/la-yam-rooftop/)*

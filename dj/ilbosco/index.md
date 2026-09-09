@@ -1,6 +1,6 @@
 # Il Bosco
 
-Il Bosco is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Tue, 8 Sept 2026, next at The White Hotel, Manchester on Sat, 31 Oct 2026.
+Il Bosco is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Wed, 9 Sept 2026, next at The White Hotel, Manchester on Sat, 31 Oct 2026.
 
 Il Bosco is a house and disco artist based in United Kingdom, tracked on soundcheck, with 43 sets logged across Berlin, Bristol, Hamburg and Ibiza and 3 more. Often billed alongside Pharaoh Brunson, Kickin Pigeon and DJ Absolutely Shit. Next up: The White Hotel, Manchester on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Il Bosco is a house and disco artist based in United Kingdom, tracked on soundch
 
 Pharaoh Brunson, Kickin Pigeon, DJ Absolutely Shit
 
-*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ilbosco/)*
+*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ilbosco/)*

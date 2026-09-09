@@ -1,6 +1,6 @@
 # Trash
 
-Trash is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 8 Sept 2026, next at Jonny Knüppel, Berlin on Sat, 12 Sept 2026.
+Trash is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 9 Sept 2026, next at Jonny Knüppel, Berlin on Sat, 12 Sept 2026.
 
 Trash is a house and techno artist based in Ukraine, tracked on soundcheck, with 5 sets logged across Berlin, Cologne and Vienna. Often billed alongside AGNY, AVANT and Alchemiah. Next up: Jonny Knüppel, Berlin on Sat 12 Sept.
 
@@ -21,4 +21,4 @@ Trash is a house and techno artist based in Ukraine, tracked on soundcheck, with
 
 AGNY, AVANT, Alchemiah
 
-*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/trash/)*
+*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/trash/)*

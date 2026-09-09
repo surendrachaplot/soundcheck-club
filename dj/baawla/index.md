@@ -1,13 +1,14 @@
 # BAAWLA
 
-BAAWLA is a Garage and Club artist with 1 upcoming club date listed on soundcheck as of Tue, 8 Sept 2026, next at Cakeshop, Seoul on Fri, 25 Sept 2026.
+BAAWLA is a Garage and Club artist with 2 upcoming club dates listed on soundcheck as of Wed, 9 Sept 2026, next at Soap Seoul., Seoul on Fri, 18 Sept 2026.
 
-BAAWLA is a garage and club artist tracked on soundcheck, with 36 sets logged across Bangkok, Bristol, Hongkong and London and 1 more. Often billed alongside rom (6), AEIDA and Coziest. Next up: Cakeshop, Seoul on Fri 25 Sept.
+BAAWLA is a garage and club artist tracked on soundcheck, with 37 sets logged across Bangkok, Bristol, Hongkong and London and 1 more. Often billed alongside rom (6), AEIDA and Coziest. Next up: Soap Seoul., Seoul on Fri 18 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 18 Sept 2026 | Soap Seoul. | Seoul |
 | Fri, 25 Sept 2026 | Cakeshop | Seoul |
 
 ## Recently played
@@ -25,4 +26,4 @@ BAAWLA is a garage and club artist tracked on soundcheck, with 36 sets logged ac
 
 rom (6), AEIDA, Coziest
 
-*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/baawla/)*
+*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/baawla/)*

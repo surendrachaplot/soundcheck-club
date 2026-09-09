@@ -1,8 +1,8 @@
 # Cecilio
 
-Cecilio is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Tue, 8 Sept 2026, next at Macadam, Nantes on Fri, 18 Sept 2026.
+Cecilio is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Wed, 9 Sept 2026, next at Macadam, Nantes on Fri, 18 Sept 2026.
 
-Cecilio is a house and techno artist tracked on soundcheck, with 107 sets logged across Amsterdam, Barcelona, Berlin and Bucharest and 25 more. Often billed alongside Laurine, S.Moreira and Jorge Escribano. Next up: Macadam, Nantes on Fri 18 Sept.
+Cecilio is a house and techno artist tracked on soundcheck, with 108 sets logged across Amsterdam, Barcelona, Berlin and Bucharest and 25 more. Often billed alongside Laurine, S.Moreira and Jorge Escribano. Next up: Macadam, Nantes on Fri 18 Sept.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Cecilio is a house and techno artist tracked on soundcheck, with 107 sets logged
 | --- | --- | --- |
 | Fri, 18 Sept 2026 | Macadam | Nantes |
 | Sat, 10 Oct 2026 | TBA - Miami | Miami |
+| Thu, 22 Oct 2026 | Signal | New York City |
 | Sat, 7 Nov 2026 | Hoppetosse | Berlin |
 
 ## Recently played
@@ -27,4 +28,4 @@ Cecilio is a house and techno artist tracked on soundcheck, with 107 sets logged
 
 Laurine, S.Moreira, Jorge Escribano
 
-*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/cecilio/)*
+*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/cecilio/)*

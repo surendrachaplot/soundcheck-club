@@ -1,6 +1,6 @@
 # Frankey & Sandrino
 
-Frankey & Sandrino is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Tue, 8 Sept 2026, next at Odonien, Cologne on Fri, 11 Sept 2026.
+Frankey & Sandrino is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Wed, 9 Sept 2026, next at Odonien, Cologne on Fri, 11 Sept 2026.
 
 Frankey & Sandrino are a techno and house duo based in Germany, tracked on soundcheck, with 72 sets logged across Amsterdam, Athens, Barcelona and Berlin and 31 more. Often billed alongside Musumeci, Arutani and Britta Arnold. Next up: Odonien, Cologne on Fri 11 Sept.
 
@@ -27,4 +27,4 @@ Frankey & Sandrino are a techno and house duo based in Germany, tracked on sound
 
 Musumeci, Arutani, Britta Arnold
 
-*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/frankeyandsandrino/)*
+*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/frankeyandsandrino/)*

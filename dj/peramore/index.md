@@ -1,6 +1,6 @@
 # PERAMORE
 
-PERAMORE is a Electronica and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 8 Sept 2026, next at TBA - Cacao Torino, Turin on Sun, 13 Sept 2026.
+PERAMORE is a Electronica and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 9 Sept 2026, next at TBA - Cacao Torino, Turin on Sun, 13 Sept 2026.
 
 PERAMORE is an electronica and techno artist based in Netherlands, tracked on soundcheck, with 3 sets logged across Turin. Often billed alongside Lorenzo Donato, Whatsthepro and ARIHA. Next up: TBA - Cacao Torino, Turin on Sun 13 Sept.
 
@@ -19,4 +19,4 @@ PERAMORE is an electronica and techno artist based in Netherlands, tracked on so
 
 Lorenzo Donato, Whatsthepro, ARIHA
 
-*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/peramore/)*
+*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/peramore/)*

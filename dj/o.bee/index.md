@@ -1,6 +1,6 @@
 # O.BEE
 
-O.BEE is a House and Techno artist with 6 upcoming club dates listed on soundcheck as of Tue, 8 Sept 2026, next at Nowadays, New York City on Sat, 12 Sept 2026.
+O.BEE is a House and Techno artist with 6 upcoming club dates listed on soundcheck as of Wed, 9 Sept 2026, next at Nowadays, New York City on Sat, 12 Sept 2026.
 
 O.BEE is a house and techno artist tracked on soundcheck, with 211 sets logged across Amsterdam, Barcelona, Berlin and Bucharest and 29 more. Often billed alongside Tomas Station, Jonny Rock and Konstantin. Next up: Nowadays, Newyorkcity on Sat 12 Sept.
 
@@ -30,4 +30,4 @@ O.BEE is a house and techno artist tracked on soundcheck, with 211 sets logged a
 
 Tomas Station, Jonny Rock, Konstantin
 
-*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/o.bee/)*
+*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/o.bee/)*

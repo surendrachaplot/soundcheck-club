@@ -1,6 +1,6 @@
 # Ache
 
-Ache is a music venue in Buenos Aires with 1 upcoming night listed on soundcheck as of Tue, 8 Sept 2026; the next is "LIQUIDME Drum and Bass session" on Sat, 12 Sept 2026.
+Ache is a music venue in Buenos Aires with 1 upcoming night listed on soundcheck as of Wed, 9 Sept 2026; the next is "LIQUIDME Drum and Bass session" on Sat, 12 Sept 2026.
 
 Ache is a music venue in Buenosaires listed on soundcheck. 1 upcoming night. Browse upcoming dates, start times and who's playing. Av. Pres. Figueroa Alcorta 2170, C1425CKN Cdad. Autónoma de Buenos Aires.
 
@@ -14,4 +14,4 @@ Ache is a music venue in Buenosaires listed on soundcheck. 1 upcoming night. Bro
 
 Av. Pres. Figueroa Alcorta 2170, C1425CKN Cdad. Autónoma de Buenos Aires, Buenos Aires
 
-*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/buenosaires/club/ache/)*
+*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/buenosaires/club/ache/)*

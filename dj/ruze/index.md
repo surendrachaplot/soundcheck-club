@@ -1,8 +1,8 @@
 # RUZE
 
-RUZE is a House and Tech House artist with 11 upcoming club dates listed on soundcheck as of Tue, 8 Sept 2026, next at Hï Ibiza, Ibiza on Wed, 16 Sept 2026.
+RUZE is a House and Tech House artist with 12 upcoming club dates listed on soundcheck as of Wed, 9 Sept 2026, next at Hï Ibiza, Ibiza on Wed, 16 Sept 2026.
 
-RUZE is a house and tech house artist tracked on soundcheck, with 120 sets logged across Amsterdam, Austin, Bali and Barcelona and 27 more. Often billed alongside Prunk, Kellie Allen and Robbie Doherty. Next up: Hï Ibiza, Ibiza on Wed 16 Sept.
+RUZE is a house and tech house artist tracked on soundcheck, with 121 sets logged across Amsterdam, Austin, Bali and Barcelona and 27 more. Often billed alongside Prunk, Kellie Allen and Robbie Doherty. Next up: Hï Ibiza, Ibiza on Wed 16 Sept.
 
 ## Upcoming shows
 
@@ -19,6 +19,7 @@ RUZE is a house and tech house artist tracked on soundcheck, with 120 sets logge
 | Sat, 31 Oct 2026 | Chelmsford City Racecourse | London |
 | Sat, 31 Oct 2026 | The Nest | Nottingham |
 | Sat, 7 Nov 2026 | Mint XL | Leeds |
+| Sat, 14 Nov 2026 | Thuishaven | Amsterdam |
 
 ## Recently played
 
@@ -35,4 +36,4 @@ RUZE is a house and tech house artist tracked on soundcheck, with 120 sets logge
 
 Prunk, Kellie Allen, Robbie Doherty
 
-*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ruze/)*
+*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ruze/)*

@@ -1,6 +1,6 @@
 # has
 
-has is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Tue, 8 Sept 2026, next at FS., Tokyo on Sat, 26 Sept 2026.
+has is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Wed, 9 Sept 2026, next at FS., Tokyo on Sat, 26 Sept 2026.
 
 has is a house and disco artist based in Japan, tracked on soundcheck, with 31 sets logged across Melbourne and Tokyo. Often billed alongside judgeman, QPLO and FELINE (JP). Next up: FS., Tokyo on Sat 26 Sept.
 
@@ -25,4 +25,4 @@ has is a house and disco artist based in Japan, tracked on soundcheck, with 31 s
 
 judgeman, QPLO, FELINE (JP)
 
-*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/has/)*
+*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/has/)*

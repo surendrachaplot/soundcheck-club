@@ -1,6 +1,6 @@
 # Govan Jones
 
-Govan Jones is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Tue, 8 Sept 2026, next at TBA - 51 Harper Ave, Detroit on Sat, 19 Sept 2026.
+Govan Jones is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Wed, 9 Sept 2026, next at TBA - 51 Harper Ave, Detroit on Sat, 19 Sept 2026.
 
 Govan Jones is a house and tech house artist tracked on soundcheck, with 13 sets logged across Detroit. Often billed alongside DUBYAH, Drop Catch and K-LALA. Next up: TBA - 51 Harper Ave, Detroit on Sat 19 Sept.
 
@@ -25,4 +25,4 @@ Govan Jones is a house and tech house artist tracked on soundcheck, with 13 sets
 
 DUBYAH, Drop Catch, K-LALA
 
-*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/govanjones/)*
+*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/govanjones/)*

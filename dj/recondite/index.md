@@ -1,8 +1,8 @@
 # Recondite
 
-Recondite is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Tue, 8 Sept 2026, next at Bikini Beach, Cologne on Sun, 20 Sept 2026.
+Recondite is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Wed, 9 Sept 2026, next at Bikini Beach, Cologne on Sun, 20 Sept 2026.
 
-Recondite is a techno and house artist tracked on soundcheck, with 104 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 36 more. Often billed alongside Tale Of Us, Anyma and Dyzen. Next up: Bikini Beach, Cologne on Sun 20 Sept.
+Recondite is a techno and house artist tracked on soundcheck, with 105 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 37 more. Often billed alongside Tale Of Us, Anyma and Dyzen. Next up: Bikini Beach, Cologne on Sun 20 Sept.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Recondite is a techno and house artist tracked on soundcheck, with 104 sets logg
 | --- | --- | --- |
 | Sun, 20 Sept 2026 | Bikini Beach | Cologne |
 | Sat, 26 Sept 2026 | Ciudad Del Rock | Madrid |
+| Sat, 17 Oct 2026 | Nordstern | Basel |
 
 ## Recently played
 
@@ -26,4 +27,4 @@ Recondite is a techno and house artist tracked on soundcheck, with 104 sets logg
 
 Tale Of Us, Anyma, Dyzen
 
-*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/recondite/)*
+*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/recondite/)*

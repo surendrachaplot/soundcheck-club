@@ -1,6 +1,6 @@
 # The Rose
 
-The Rose is a music venue in New York City with 6 upcoming nights listed on soundcheck as of Tue, 8 Sept 2026; the next is "PVD Fashion Show Pure Velvet Disorder Paint Jam inspired" on Sun, 13 Sept 2026.
+The Rose is a music venue in New York City with 6 upcoming nights listed on soundcheck as of Wed, 9 Sept 2026; the next is "PVD Fashion Show Pure Velvet Disorder Paint Jam inspired" on Sun, 13 Sept 2026.
 
 The Rose is a music venue in Newyorkcity listed on soundcheck. 6 upcoming nights, with line-ups including Gino Santos and Oui Lv. Browse upcoming dates, start times and who's playing. 160 W 25th St, New York, NY 10001.
 
@@ -19,4 +19,4 @@ The Rose is a music venue in Newyorkcity listed on soundcheck. 6 upcoming nights
 
 160 W 25th St, New York, NY 10001, New York City
 
-*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/the-rose/)*
+*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/the-rose/)*

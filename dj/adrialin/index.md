@@ -1,6 +1,6 @@
 # adrialin
 
-adrialin is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 8 Sept 2026, next at FLUCC, Vienna on Sat, 12 Sept 2026.
+adrialin is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 9 Sept 2026, next at FLUCC, Vienna on Sat, 12 Sept 2026.
 
 adrialin is a techno and house artist based in Austria, tracked on soundcheck, with 31 sets logged across Vienna. Often billed alongside KRETA, DANBERG and Relinquo. Next up: FLUCC, Vienna on Sat 12 Sept.
 
@@ -25,4 +25,4 @@ adrialin is a techno and house artist based in Austria, tracked on soundcheck, w
 
 KRETA, DANBERG, Relinquo
 
-*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/adrialin/)*
+*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/adrialin/)*

@@ -1,6 +1,6 @@
 # TIMANTI
 
-TIMANTI is a Afro House and Techno artist with 2 upcoming club dates listed on soundcheck as of Tue, 8 Sept 2026, next at FOLD, London on Sat, 26 Sept 2026.
+TIMANTI is a Afro House and Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 9 Sept 2026, next at FOLD, London on Sat, 26 Sept 2026.
 
 TIMANTI is an afro house and techno artist based in United Kingdom, tracked on soundcheck, with 35 sets logged across Amsterdam, Glasgow and London. Often billed alongside Rebecca Gough, Andhim and Michelle Manetti. Next up: FOLD, London on Sat 26 Sept.
 
@@ -26,4 +26,4 @@ TIMANTI is an afro house and techno artist based in United Kingdom, tracked on s
 
 Rebecca Gough, Andhim, Michelle Manetti
 
-*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/timanti/)*
+*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/timanti/)*

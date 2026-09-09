@@ -1,6 +1,6 @@
 # NOGE
 
-NOGE is a Bass and Drum & Bass artist with 1 upcoming club date listed on soundcheck as of Tue, 8 Sept 2026, next at Unité.22, Marseille on Sat, 19 Sept 2026.
+NOGE is a Bass and Drum & Bass artist with 1 upcoming club date listed on soundcheck as of Wed, 9 Sept 2026, next at Unité.22, Marseille on Sat, 19 Sept 2026.
 
 NOGE is a bass and drum & bass artist based in France, tracked on soundcheck, with 29 sets logged across Edinburgh, Marseille and Paris. Often billed alongside WAWRZY, Pata Negra Loves U and Pata Negra. Next up: Unité.22, Marseille on Sat 19 Sept.
 
@@ -25,4 +25,4 @@ NOGE is a bass and drum & bass artist based in France, tracked on soundcheck, wi
 
 WAWRZY, Pata Negra Loves U, Pata Negra
 
-*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/noge/)*
+*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/noge/)*

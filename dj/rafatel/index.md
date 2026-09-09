@@ -1,13 +1,14 @@
 # Rafatel
 
-Rafatel is a House and Deep House artist with 3 upcoming club dates listed on soundcheck as of Tue, 8 Sept 2026, next at Goldener Reiter, Munich on Fri, 11 Sept 2026.
+Rafatel is a House and Deep House artist with 4 upcoming club dates listed on soundcheck as of Wed, 9 Sept 2026, next at Golden Gate, Berlin on Thu, 10 Sept 2026.
 
-Rafatel is a house and deep house artist tracked on soundcheck, with 98 sets logged across Barcelona, Buenosaires, Hamburg and London and 4 more. Often billed alongside papa jazz, Valeriana and Dehesa. Next up: Goldener Reiter, Munich on Fri 11 Sept.
+Rafatel is a house and deep house artist tracked on soundcheck, with 99 sets logged across Barcelona, Berlin, Buenosaires and Hamburg and 5 more. Often billed alongside papa jazz, Valeriana and Dehesa. Next up: Golden Gate, Berlin on Thu 10 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Thu, 10 Sept 2026 | Golden Gate | Berlin |
 | Fri, 11 Sept 2026 | Goldener Reiter | Munich |
 | Fri, 18 Sept 2026 | 303 Audiophile Bar | Barcelona |
 | Sun, 20 Sept 2026 | Palais | London |
@@ -27,4 +28,4 @@ Rafatel is a house and deep house artist tracked on soundcheck, with 98 sets log
 
 papa jazz, Valeriana, Dehesa
 
-*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/rafatel/)*
+*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/rafatel/)*

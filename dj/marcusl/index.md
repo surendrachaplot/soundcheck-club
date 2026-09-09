@@ -1,6 +1,6 @@
 # Marcus L
 
-Marcus L is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 8 Sept 2026, next at Secret Venue in Minatoku-Nishiazabu, Tokyo on Fri, 25 Sept 2026.
+Marcus L is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 9 Sept 2026, next at Secret Venue in Minatoku-Nishiazabu, Tokyo on Fri, 25 Sept 2026.
 
 Marcus L is a techno and house artist tracked on soundcheck, with 157 sets logged across Amsterdam, Bangkok, Berlin and Cologne and 13 more. Often billed alongside Suman, Stann Lumo and Mars Parck. Next up: Secret Venue in Minatoku-Nishiazabu, Tokyo on Fri 25 Sept.
 
@@ -25,4 +25,4 @@ Marcus L is a techno and house artist tracked on soundcheck, with 157 sets logge
 
 Suman, Stann Lumo, Mars Parck
 
-*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/marcusl/)*
+*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/marcusl/)*

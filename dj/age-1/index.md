@@ -1,6 +1,6 @@
 # age (1)
 
-age (1) is a Techno and Ambient artist with 1 upcoming club date listed on soundcheck as of Tue, 8 Sept 2026, next at Enter Shibuya, Tokyo on Fri, 2 Oct 2026.
+age (1) is a Techno and Ambient artist with 1 upcoming club date listed on soundcheck as of Wed, 9 Sept 2026, next at Enter Shibuya, Tokyo on Fri, 2 Oct 2026.
 
 age (1) is a techno and ambient artist based in Japan, tracked on soundcheck, with 10 sets logged across Seoul and Tokyo. Often billed alongside UG (1), lostbaggage and 5harpy. Next up: Enter Shibuya, Tokyo on Fri 2 Oct.
 
@@ -25,4 +25,4 @@ age (1) is a techno and ambient artist based in Japan, tracked on soundcheck, wi
 
 UG (1), lostbaggage, 5harpy
 
-*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/age-1/)*
+*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/age-1/)*

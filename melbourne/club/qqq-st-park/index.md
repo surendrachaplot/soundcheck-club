@@ -1,6 +1,6 @@
 # QQQ ST. Park
 
-QQQ ST. Park is a music venue in Melbourne with 7 upcoming nights listed on soundcheck as of Tue, 8 Sept 2026; the next is "SWRVE X6" on Fri, 11 Sept 2026.
+QQQ ST. Park is a music venue in Melbourne with 7 upcoming nights listed on soundcheck as of Wed, 9 Sept 2026; the next is "SWRVE X6" on Fri, 11 Sept 2026.
 
 QQQ ST. Park is a music venue in Melbourne listed on soundcheck. 7 upcoming nights, with line-ups including anna(n), Charms, Tamen and Tommy Craig and 1 more. Browse upcoming dates, start times and who's playing. 2 Peel St, Collingwood VIC 3066.
 
@@ -20,4 +20,4 @@ QQQ ST. Park is a music venue in Melbourne listed on soundcheck. 7 upcoming nigh
 
 2 Peel St, Collingwood VIC 3066, Melbourne
 
-*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/qqq-st-park/)*
+*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/qqq-st-park/)*

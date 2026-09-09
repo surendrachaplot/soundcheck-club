@@ -1,6 +1,6 @@
 # LADYMONIX
 
-LADYMONIX is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Tue, 8 Sept 2026, next at The Beaumont Studios, Vancouver on Sat, 19 Sept 2026.
+LADYMONIX is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Wed, 9 Sept 2026, next at The Beaumont Studios, Vancouver on Sat, 19 Sept 2026.
 
 LADYMONIX is a house and techno artist tracked on soundcheck, with 153 sets logged across Berlin, Boston, Chicago and Detroit and 17 more. Often billed alongside Rimarkable, Waajeed and Stacey Hotwaxx Hale. Next up: The Beaumont Studios, Vancouver on Sat 19 Sept.
 
@@ -28,4 +28,4 @@ LADYMONIX is a house and techno artist tracked on soundcheck, with 153 sets logg
 
 Rimarkable, Waajeed, Stacey Hotwaxx Hale
 
-*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ladymonix/)*
+*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ladymonix/)*

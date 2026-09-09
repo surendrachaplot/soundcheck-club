@@ -1,6 +1,6 @@
 # TTX (GER)
 
-TTX (GER) is a House and Bass artist with 1 upcoming club date listed on soundcheck as of Tue, 8 Sept 2026, next at Lilli Escher, Hamburg on Sat, 26 Sept 2026.
+TTX (GER) is a House and Bass artist with 1 upcoming club date listed on soundcheck as of Wed, 9 Sept 2026, next at Lilli Escher, Hamburg on Sat, 26 Sept 2026.
 
 TTX (GER) is a house and bass artist based in Germany, tracked on soundcheck, with 26 sets logged across Hamburg. Often billed alongside Tana (2), DJ Babyblade and DJ Hochzeit. Next up: Lilli Escher, Hamburg on Sat 26 Sept.
 
@@ -25,4 +25,4 @@ TTX (GER) is a house and bass artist based in Germany, tracked on soundcheck, wi
 
 Tana (2), DJ Babyblade, DJ Hochzeit
 
-*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ttxger/)*
+*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ttxger/)*

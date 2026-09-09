@@ -1,6 +1,6 @@
 # Paul Robson
 
-Paul Robson is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 8 Sept 2026, next at TBA - Cambridge Location, Boston on Fri, 11 Sept 2026.
+Paul Robson is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 9 Sept 2026, next at TBA - Cambridge Location, Boston on Fri, 11 Sept 2026.
 
 Paul Robson is a house and techno artist based in United States of America, tracked on soundcheck, with 11 sets logged across Boston. Often billed alongside Divu, 1R.fm and FRANZIV. Next up: TBA - Cambridge Location, Boston on Fri 11 Sept.
 
@@ -25,4 +25,4 @@ Paul Robson is a house and techno artist based in United States of America, trac
 
 Divu, 1R.fm, FRANZIV
 
-*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/paulrobson/)*
+*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/paulrobson/)*

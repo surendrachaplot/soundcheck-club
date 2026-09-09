@@ -1,6 +1,6 @@
 # Volkoder
 
-Volkoder is a House and Tech House artist with 4 upcoming club dates listed on soundcheck as of Tue, 8 Sept 2026, next at Hï Ibiza, Ibiza on Thu, 17 Sept 2026.
+Volkoder is a House and Tech House artist with 4 upcoming club dates listed on soundcheck as of Wed, 9 Sept 2026, next at Hï Ibiza, Ibiza on Thu, 17 Sept 2026.
 
 Volkoder is a house and tech house artist tracked on soundcheck, with 17 sets logged across Amsterdam, Austin, Budapest and Buenosaires and 6 more. Often billed alongside CamelPhat, Max Styler and Miss Monique. Next up: Hï Ibiza, Ibiza on Thu 17 Sept.
 
@@ -28,4 +28,4 @@ Volkoder is a house and tech house artist tracked on soundcheck, with 17 sets lo
 
 CamelPhat, Max Styler, Miss Monique
 
-*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/volkoder-br/)*
+*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/volkoder-br/)*

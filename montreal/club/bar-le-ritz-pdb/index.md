@@ -1,6 +1,6 @@
 # Bar Le Ritz PDB
 
-Bar Le Ritz PDB is a music venue in Montreal with 4 upcoming nights listed on soundcheck as of Tue, 8 Sept 2026; the next is "Cor64 - GoldenEye 007 N64 - Trame sonore live - Montreal" on Sat, 12 Sept 2026.
+Bar Le Ritz PDB is a music venue in Montreal with 4 upcoming nights listed on soundcheck as of Wed, 9 Sept 2026; the next is "Cor64 - GoldenEye 007 N64 - Trame sonore live - Montreal" on Sat, 12 Sept 2026.
 
 Bar Le Ritz PDB is a music venue in Montreal listed on soundcheck. 4 upcoming nights, with line-ups including DJ_Dave, Dublon and Flleur. Browse upcoming dates, start times and who's playing. 179 Rue Jean-Talon-Ouest, Montréal H2R 2X2.
 
@@ -17,4 +17,4 @@ Bar Le Ritz PDB is a music venue in Montreal listed on soundcheck. 4 upcoming ni
 
 179 Rue Jean-Talon-Ouest, Montréal H2R 2X2, Montreal
 
-*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/montreal/club/bar-le-ritz-pdb/)*
+*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/montreal/club/bar-le-ritz-pdb/)*

@@ -1,6 +1,6 @@
 # The Ego (DJ)
 
-The Ego (DJ) is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Tue, 8 Sept 2026, next at Sala El Sol, Madrid on Fri, 11 Sept 2026.
+The Ego (DJ) is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Wed, 9 Sept 2026, next at Sala El Sol, Madrid on Fri, 11 Sept 2026.
 
 The Ego (DJ) is a house and tech house artist tracked on soundcheck, with 7 sets logged across Berlin and Madrid. Often billed alongside Mraj Nite, Lucian ODP and BRINGAS. Next up: Sala El Sol, Madrid on Fri 11 Sept.
 
@@ -23,4 +23,4 @@ The Ego (DJ) is a house and tech house artist tracked on soundcheck, with 7 sets
 
 Mraj Nite, Lucian ODP, BRINGAS
 
-*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/theegodj/)*
+*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/theegodj/)*

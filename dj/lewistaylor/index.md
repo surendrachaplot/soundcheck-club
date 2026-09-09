@@ -1,20 +1,21 @@
 # Lewis Taylor
 
-Lewis Taylor is a House and Tech House artist with 4 upcoming club dates listed on soundcheck as of Tue, 8 Sept 2026, next at Cova Santa, Ibiza on Tue, 8 Sept 2026.
+Lewis Taylor is a House and Tech House artist with 4 upcoming club dates listed on soundcheck as of Wed, 9 Sept 2026, next at Depot Mayfield, Manchester on Sat, 10 Oct 2026.
 
-Lewis Taylor is a house and tech house artist tracked on soundcheck, with 43 sets logged across Aberdeen, Amsterdam, Brighton and Bristol and 13 more. Often billed alongside Harry Robson, Gaskin and Anil Aras. Next up: Cova Santa, Ibiza on Tue 8 Sept.
+Lewis Taylor is a house and tech house artist tracked on soundcheck, with 44 sets logged across Aberdeen, Amsterdam, Brighton and Bristol and 13 more. Often billed alongside Harry Robson, Gaskin and Tommy Phillips. Next up: Depot Mayfield, Manchester on Sat 10 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Tue, 8 Sept 2026 | Cova Santa | Ibiza |
 | Sat, 10 Oct 2026 | Depot Mayfield | Manchester |
 | Sat, 31 Oct 2026 | Oran Mor | Glasgow |
+| Sat, 14 Nov 2026 | Thuishaven | Amsterdam |
 | Fri, 27 Nov 2026 | Lardner Park | Melbourne |
 
 ## Recently played
 
+- Cova Santa, Ibiza — Tue, 8 Sept 2026
 - Distrikt, Leeds — Sat, 22 Aug 2026
 - Thuishaven, Amsterdam — Sun, 16 Aug 2026
 - Index, Dublin — Sat, 8 Aug 2026
@@ -22,10 +23,9 @@ Lewis Taylor is a house and tech house artist tracked on soundcheck, with 43 set
 - Steelyard Kelham, Sheffield — Sat, 1 Aug 2026
 - Mint Warehouse, Leeds — Sat, 20 Jun 2026
 - Amnesia Ibiza, Ibiza — Tue, 16 Jun 2026
-- The Cause, London — Sat, 23 May 2026
 
 ## Shares bills with
 
-Harry Robson, Gaskin, Anil Aras
+Harry Robson, Gaskin, Tommy Phillips
 
-*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lewistaylor/)*
+*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lewistaylor/)*

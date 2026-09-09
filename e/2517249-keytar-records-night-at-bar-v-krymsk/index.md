@@ -1,6 +1,6 @@
 # Keytar Records Night at Bar v Krymský
 
-Keytar Records Night at Bar v Krymský on Thu 17 Sept, Prague. House and Italo Disco. Preview the line-up and save it on soundcheck.
+Keytar Records Night at Bar v Krymský on Thu 17 Sept, Prague. House and UK Funky. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

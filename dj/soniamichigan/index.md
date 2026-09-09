@@ -1,6 +1,6 @@
 # Sonia Michigan
 
-Sonia Michigan is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Tue, 8 Sept 2026, next at Glazart, Paris on Sat, 12 Sept 2026.
+Sonia Michigan is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Wed, 9 Sept 2026, next at Glazart, Paris on Sat, 12 Sept 2026.
 
 Sonia Michigan is a techno and trance artist tracked on soundcheck, with 23 sets logged across Berlin, Marseille, Nantes and Paris and 1 more. Often billed alongside SEND HER, Asaya and Hayashi. Next up: Glazart, Paris on Sat 12 Sept.
 
@@ -25,4 +25,4 @@ Sonia Michigan is a techno and trance artist tracked on soundcheck, with 23 sets
 
 SEND HER, Asaya, Hayashi
 
-*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/soniamichigan/)*
+*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/soniamichigan/)*

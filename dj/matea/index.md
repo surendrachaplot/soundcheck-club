@@ -1,13 +1,14 @@
 # MATEA
 
-MATEA is a Techno and Psytrance artist with 2 upcoming club dates listed on soundcheck as of Tue, 8 Sept 2026, next at AUX Club, Athens on Fri, 25 Sept 2026.
+MATEA is a Techno and Acid artist with 3 upcoming club dates listed on soundcheck as of Wed, 9 Sept 2026, next at B side Athens, Athens on Sun, 13 Sept 2026.
 
-MATEA is a techno and psytrance artist based in Greece, tracked on soundcheck, with 23 sets logged across Athens and London. Often billed alongside Imperium, Deherian and Mariø. Next up: AUX Club, Athens on Fri 25 Sept.
+MATEA is a techno and acid artist based in Greece, tracked on soundcheck, with 24 sets logged across Athens and London. Often billed alongside Imperium, Deherian and Alisa Murphy. Next up: B side Athens, Athens on Sun 13 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sun, 13 Sept 2026 | B side Athens | Athens |
 | Fri, 25 Sept 2026 | AUX Club | Athens |
 | Sat, 3 Oct 2026 | AUX Club | Athens |
 
@@ -24,6 +25,6 @@ MATEA is a techno and psytrance artist based in Greece, tracked on soundcheck, w
 
 ## Shares bills with
 
-Imperium, Deherian, Mariø
+Imperium, Deherian, Alisa Murphy
 
-*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/matea/)*
+*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/matea/)*

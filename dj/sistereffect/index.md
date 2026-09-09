@@ -1,13 +1,14 @@
 # Sister Effect
 
-Sister Effect is a Techno and Electronica artist with 2 upcoming club dates listed on soundcheck as of Tue, 8 Sept 2026, next at Autosilo Richard, Milan on Sat, 19 Sept 2026.
+Sister Effect is a Techno and Electronica artist with 3 upcoming club dates listed on soundcheck as of Wed, 9 Sept 2026, next at THE MAGICK BAR, Rome on Fri, 11 Sept 2026.
 
-Sister Effect is a techno and electronica artist tracked on soundcheck, with 44 sets logged across Belgrade, Berlin, Bristol and Lisbon and 4 more. Often billed alongside Brillante, Katatonic Silentio and Amanita. Next up: Autosilo Richard, Milan on Sat 19 Sept.
+Sister Effect is a techno and electronica artist tracked on soundcheck, with 45 sets logged across Belgrade, Berlin, Bristol and Lisbon and 4 more. Often billed alongside Brillante, Katatonic Silentio and Amanita. Next up: THE MAGICK BAR, Rome on Fri 11 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 11 Sept 2026 | THE MAGICK BAR | Rome |
 | Sat, 19 Sept 2026 | Autosilo Richard | Milan |
 | Fri, 9 Oct 2026 | OXI | Berlin |
 
@@ -26,4 +27,4 @@ Sister Effect is a techno and electronica artist tracked on soundcheck, with 44 
 
 Brillante, Katatonic Silentio, Amanita
 
-*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sistereffect/)*
+*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sistereffect/)*

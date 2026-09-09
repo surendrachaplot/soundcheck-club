@@ -1,14 +1,15 @@
 # Pole Position
 
-Pole Position is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Tue, 8 Sept 2026, next at Hï Ibiza, Ibiza on Sun, 20 Sept 2026.
+Pole Position is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Wed, 9 Sept 2026, next at Hï Ibiza, Ibiza on Sun, 20 Sept 2026.
 
-Pole Position is a house and techno artist tracked on soundcheck, with 57 sets logged across Amsterdam, Barcelona, Buenosaires and Ibiza and 6 more. Often billed alongside Isa Rojas, Adriatique and Carl Cox. Next up: Hï Ibiza, Ibiza on Sun 20 Sept.
+Pole Position is a house and techno artist tracked on soundcheck, with 58 sets logged across Amsterdam, Barcelona, Buenosaires and Ibiza and 6 more. Often billed alongside Isa Rojas, Adriatique and Carl Cox. Next up: Hï Ibiza, Ibiza on Sun 20 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sun, 20 Sept 2026 | Hï Ibiza | Ibiza |
+| Sat, 26 Sept 2026 | BORIS CLUB | Barcelona |
 | Thu, 15 Oct 2026 | Akasha Las Dalias Club - Ibiza | Ibiza |
 
 ## Recently played
@@ -26,4 +27,4 @@ Pole Position is a house and techno artist tracked on soundcheck, with 57 sets l
 
 Isa Rojas, Adriatique, Carl Cox
 
-*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/poleposition/)*
+*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/poleposition/)*

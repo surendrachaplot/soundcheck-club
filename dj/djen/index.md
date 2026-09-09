@@ -1,6 +1,6 @@
 # Djen
 
-Djen is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Tue, 8 Sept 2026, next at EL SÓTANO, Madrid on Fri, 18 Sept 2026.
+Djen is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Wed, 9 Sept 2026, next at EL SÓTANO, Madrid on Fri, 18 Sept 2026.
 
 Djen is a techno and house artist based in Spain, tracked on soundcheck, with 45 sets logged across Lisbon, Madrid and Miami. Often billed alongside Reitze, Tucu (Tucu) and Guidomik. Next up: EL SÓTANO, Madrid on Fri 18 Sept.
 
@@ -26,4 +26,4 @@ Djen is a techno and house artist based in Spain, tracked on soundcheck, with 45
 
 Reitze, Tucu (Tucu), Guidomik
 
-*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djen/)*
+*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djen/)*

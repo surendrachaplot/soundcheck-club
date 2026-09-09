@@ -1,6 +1,6 @@
 # Domenic Cappello
 
-Domenic Cappello is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Tue, 8 Sept 2026, next at Sub Club, Glasgow on Sat, 12 Sept 2026.
+Domenic Cappello is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Wed, 9 Sept 2026, next at Sub Club, Glasgow on Sat, 12 Sept 2026.
 
 Domenic Cappello is a house and techno artist based in United Kingdom, tracked on soundcheck, with 85 sets logged across Dundee, Edinburgh, Glasgow and London and 1 more. Often billed alongside Alien Communications, DJ Harri and Stevie Cox. Next up: Sub Club, Glasgow on Sat 12 Sept.
 
@@ -27,4 +27,4 @@ Domenic Cappello is a house and techno artist based in United Kingdom, tracked o
 
 Alien Communications, DJ Harri, Stevie Cox
 
-*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/domeniccappello/)*
+*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/domeniccappello/)*

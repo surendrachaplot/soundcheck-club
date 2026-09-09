@@ -1,8 +1,8 @@
 # Kilomètre25
 
-Kilomètre25 is a music venue in Paris with 11 upcoming nights listed on soundcheck as of Tue, 8 Sept 2026; the next is "Pygments: Airod, Angèle Cressin, Acidpach, YENKOV, Terminal Trax" on Fri, 11 Sept 2026.
+Kilomètre25 is a music venue in Paris with 12 upcoming nights listed on soundcheck as of Wed, 9 Sept 2026; the next is "Pygments: Airod, Angèle Cressin, Acidpach, YENKOV, Terminal Trax" on Fri, 11 Sept 2026.
 
-Kilomètre25 is a music venue in Paris listed on soundcheck. 11 upcoming nights, with line-ups including NYRA (DE), Airod, ANDATA and Angie (FR) and 2 more. Browse upcoming dates, start times and who's playing. 8 Boulevard MacDonald 75019 Paris.
+Kilomètre25 is a music venue in Paris listed on soundcheck. 12 upcoming nights, with line-ups including NYRA (DE), Airod, ANDATA and Angie (FR) and 2 more. Browse upcoming dates, start times and who's playing. 8 Boulevard MacDonald 75019 Paris.
 
 ## What's on
 
@@ -13,14 +13,14 @@ Kilomètre25 is a music venue in Paris listed on soundcheck. 11 upcoming nights,
 | Fri, 18 Sept 2026 | 2Much: Linds, ANDATA, Emilja | ANDATA, Linds, Orbi, Shoshanaaaaaaa, Stinny Stone |
 | Sat, 19 Sept 2026 | Organïk : IGDA, JO3Y3T, KIRSTY, VIDO & More | IGDA, KIRSTY, PEAKSOU, VIDO (2), VIDO (DE) |
 | Fri, 25 Sept 2026 | ACCIDENT THEORY: Young Marco, Bambounou, Axel Blanc | Axel Blanc, Bambounou, VANROOSE, Young Marco |
+| Sat, 26 Sept 2026 | TIMIT: HAAi, Josh Caffé, Clarisa Kimskii, TEDESCO | Clarisa Kimskii, HAAi, Josh Caffé, TEDESCO |
 | Sat, 3 Oct 2026 | 23:59: EARGASM GOD, DBBD, Paralich, AREA ØNE | AREA ØNE, DBBD, EARGASM GOD, Paralich |
 | Sat, 3 Oct 2026 | 23:59 - AREA ØNE, EARGASM GOD, DBBD, Paralich, DJ RATZ, BORDER SISTERS | AREA ØNE, DBBD, EARGASM GOD, Paralich |
 | Fri, 9 Oct 2026 | ØXYL: BYORN, TESTPRESS, NYRA, SIKOTI, MEYEM & MORE | MEYEM, Mando, NYRA (DE), SIKOTI, t e s t p r e s s |
 | Sat, 10 Oct 2026 | Deepsea Grooves: Chez Damier, Mézigue, Vitaline | Chez Damier, Mézigue, R1D1, Vitaline |
-| Sat, 17 Oct 2026 | MIND: ASLØ, DAISY, FJUSHA, TOM CARROLL, NYCO, DJ RATZ | ASLO, Avenir (2), DAISY, FJUSHA, NYCO (NL) |
 
 ## Address
 
 8 Boulevard MacDonald 75019 Paris, Paris
 
-*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/paris/club/kilom-tre25/)*
+*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/paris/club/kilom-tre25/)*

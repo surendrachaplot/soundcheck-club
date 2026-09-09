@@ -1,6 +1,6 @@
 # ark (Melb)
 
-ark (Melb) is a music venue in Melbourne with 1 upcoming night listed on soundcheck as of Tue, 8 Sept 2026; the next is "ark // Aidan Rudd - DJ Ali - jWave [UK] - zacattacq" on Sat, 12 Sept 2026.
+ark (Melb) is a music venue in Melbourne with 1 upcoming night listed on soundcheck as of Wed, 9 Sept 2026; the next is "ark // Aidan Rudd - DJ Ali - jWave [UK] - zacattacq" on Sat, 12 Sept 2026.
 
 ark (Melb) is a music venue in Melbourne listed on soundcheck. 1 upcoming night, with line-ups including Aidan Rudd, Bby Cass, DJ ALI (AU) and dozie (uk) and 2 more. Browse upcoming dates, start times and who's playing. 2 Geddes Lane, Melbourne, VIC.
 
@@ -14,4 +14,4 @@ ark (Melb) is a music venue in Melbourne listed on soundcheck. 1 upcoming night,
 
 2 Geddes Lane, Melbourne, VIC, Melbourne
 
-*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/ark-melb/)*
+*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/ark-melb/)*

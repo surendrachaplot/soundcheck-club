@@ -1,6 +1,6 @@
 # YSK/TEITEI/Natsu/Shinsuke Goto at Mitsuki
 
-YSK/TEITEI/Natsu/Shinsuke Goto at Mitsuki on Sat 12 Sept, Tokyo. 2 acts on the bill: Shinsuke Goto and YSK.. Techno and House. Preview the line-up and save it on soundcheck.
+YSK/TEITEI/Natsu/Shinsuke Goto at Mitsuki on Sat 12 Sept, Tokyo. 3 acts on the bill: Shinsuke Goto, TEI TEI and YSK.. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,6 +11,7 @@ YSK/TEITEI/Natsu/Shinsuke Goto at Mitsuki on Sat 12 Sept, Tokyo. 2 acts on the b
 ## Line-up
 
 - Shinsuke Goto
+- TEI TEI
 - YSK.
 
 *Source: [soundcheck](https://soundcheck.club/e/2530963-ysk-teitei-natsu-shinsuke-goto-at-mitsuki/)*

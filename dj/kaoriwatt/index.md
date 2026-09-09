@@ -1,14 +1,15 @@
 # Kaori Watt
 
-Kaori Watt is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Tue, 8 Sept 2026, next at R Lounge, Tokyo on Fri, 18 Sept 2026.
+Kaori Watt is a Techno and Industrial artist with 2 upcoming club dates listed on soundcheck as of Wed, 9 Sept 2026, next at R Lounge, Tokyo on Fri, 18 Sept 2026.
 
-Kaori Watt is a techno and industrial artist based in Japan, tracked on soundcheck, with 46 sets logged across Tokyo. Often billed alongside marimari, Akiko Iwahara and BEPPU. Next up: R Lounge, Tokyo on Fri 18 Sept.
+Kaori Watt is a techno and industrial artist based in Japan, tracked on soundcheck, with 47 sets logged across Tokyo. Often billed alongside marimari, Akiko Iwahara and BEPPU. Next up: R Lounge, Tokyo on Fri 18 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 18 Sept 2026 | R Lounge | Tokyo |
+| Sat, 10 Oct 2026 | Z Maruyama | Tokyo |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Kaori Watt is a techno and industrial artist based in Japan, tracked on soundche
 
 marimari, Akiko Iwahara, BEPPU
 
-*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kaoriwatt/)*
+*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kaoriwatt/)*

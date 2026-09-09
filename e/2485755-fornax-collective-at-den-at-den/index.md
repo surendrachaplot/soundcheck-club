@@ -1,6 +1,6 @@
 # Fornax Collective at ÆDEN at ÆDEN
 
-Fornax Collective at ÆDEN on Thu 24 Sept, Berlin. 6 acts on the bill: BLØEM, Cosmic, E2NMN and Kashpitzky and 2 more. Techno. Preview the line-up and save it on soundcheck.
+Fornax Collective at ÆDEN on Thu 24 Sept, Berlin. 6 acts on the bill: BLØEM, Cosmic, E2NMN and Kashpitzky and 2 more. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Jasmine Li (NY)
 
-Jasmine Li (NY) is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 8 Sept 2026, next at Dead Letter No. 9, New York City on Thu, 17 Sept 2026.
+Jasmine Li (NY) is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 9 Sept 2026, next at Dead Letter No. 9, New York City on Thu, 17 Sept 2026.
 
 Jasmine Li (NY) is a house and techno artist based in United States of America, tracked on soundcheck, with 16 sets logged across Newyorkcity and Singapore. Often billed alongside Jasmine Li, Loyboy and Mawkus. Next up: Dead Letter No. 9, Newyorkcity on Thu 17 Sept.
 
@@ -25,4 +25,4 @@ Jasmine Li (NY) is a house and techno artist based in United States of America, 
 
 Jasmine Li, Loyboy, Mawkus
 
-*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jasny/)*
+*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jasny/)*

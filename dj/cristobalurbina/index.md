@@ -1,6 +1,6 @@
 # Cristobal Urbina
 
-Cristobal Urbina is a House and Progressive House artist with 1 upcoming club date listed on soundcheck as of Tue, 8 Sept 2026, next at ESC, Montreal on Fri, 18 Sept 2026.
+Cristobal Urbina is a House and Progressive House artist with 1 upcoming club date listed on soundcheck as of Wed, 9 Sept 2026, next at ESC, Montreal on Fri, 18 Sept 2026.
 
 Cristobal Urbina is a house and progressive house artist based in Canada, tracked on soundcheck, with 11 sets logged across Montreal and Vancouver. Often billed alongside Trevor Kiernander, Billy Dalessandro and Maus. Next up: ESC, Montreal on Fri 18 Sept.
 
@@ -25,4 +25,4 @@ Cristobal Urbina is a house and progressive house artist based in Canada, tracke
 
 Trevor Kiernander, Billy Dalessandro, Maus
 
-*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/cristobalurbina/)*
+*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/cristobalurbina/)*

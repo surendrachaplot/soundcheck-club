@@ -1,6 +1,6 @@
 # Bjarki
 
-Bjarki is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Tue, 8 Sept 2026, next at Exit Reality, Singapore on Sat, 19 Sept 2026.
+Bjarki is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Wed, 9 Sept 2026, next at Exit Reality, Singapore on Sat, 19 Sept 2026.
 
 Bjarki is a techno and electro artist based in Iceland, tracked on soundcheck, with 44 sets logged across Amsterdam, Antwerp, Berlin and Boston and 16 more. Often billed alongside Disguised, Tweeman and Adriana Lopez. Next up: Exit Reality, Singapore on Sat 19 Sept.
 
@@ -25,4 +25,4 @@ Bjarki is a techno and electro artist based in Iceland, tracked on soundcheck, w
 
 Disguised, Tweeman, Adriana Lopez
 
-*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bjarki/)*
+*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bjarki/)*

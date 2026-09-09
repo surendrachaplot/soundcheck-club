@@ -1,6 +1,6 @@
 # harder danny
 
-harder danny is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Tue, 8 Sept 2026, next at TBA, Warsaw on Fri, 18 Sept 2026.
+harder danny is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Wed, 9 Sept 2026, next at TBA, Warsaw on Fri, 18 Sept 2026.
 
 harder danny is a techno and trance artist tracked on soundcheck, with 16 sets logged across Warsaw. Often billed alongside AZDRA, party poison and 2FEL. Next up: TBA, Warsaw on Fri 18 Sept.
 
@@ -25,4 +25,4 @@ harder danny is a techno and trance artist tracked on soundcheck, with 16 sets l
 
 AZDRA, party poison, 2FEL
 
-*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/harderdanny/)*
+*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/harderdanny/)*

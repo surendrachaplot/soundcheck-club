@@ -1,6 +1,6 @@
 # EL SÓTANO
 
-EL SÓTANO is a music venue in Madrid with 16 upcoming nights listed on soundcheck as of Tue, 8 Sept 2026; the next is "THE PLATFORM PRODUCTIONS X LEWRI: Restinga, Blackwa, Oumoukala, Mojé, Ajoke" on Thu, 10 Sept 2026.
+EL SÓTANO is a music venue in Madrid with 16 upcoming nights listed on soundcheck as of Wed, 9 Sept 2026; the next is "THE PLATFORM PRODUCTIONS X LEWRI: Restinga, Blackwa, Oumoukala, Mojé, Ajoke" on Thu, 10 Sept 2026.
 
 EL SÓTANO is a music venue in Madrid listed on soundcheck. 16 upcoming nights, with line-ups including Alvaro Cabana, Arok Shiva, Brisa Then and Centurion One and 2 more. Browse upcoming dates, start times and who's playing. Calle de las Maldonadas, 6, 28005 Madrid, España.
 
@@ -23,4 +23,4 @@ EL SÓTANO is a music venue in Madrid listed on soundcheck. 16 upcoming nights, 
 
 Calle de las Maldonadas, 6, 28005 Madrid, España, Madrid
 
-*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/el-s-tano/)*
+*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/el-s-tano/)*

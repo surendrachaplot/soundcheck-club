@@ -1,6 +1,6 @@
 # Keanu Raves
 
-Keanu Raves is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 8 Sept 2026, next at Mena Berlin, Berlin on Sat, 19 Sept 2026.
+Keanu Raves is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 9 Sept 2026, next at Mena Berlin, Berlin on Sat, 19 Sept 2026.
 
 Keanu Raves is a techno and house artist tracked on soundcheck, with 3 sets logged across Berlin and Leipzig. Often billed alongside 314A, :MUMM and Bugazza Boy. Next up: Mena Berlin, Berlin on Sat 19 Sept.
 
@@ -19,4 +19,4 @@ Keanu Raves is a techno and house artist tracked on soundcheck, with 3 sets logg
 
 314A, :MUMM, Bugazza Boy
 
-*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/keanuraves/)*
+*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/keanuraves/)*

@@ -1,6 +1,6 @@
 # VERKNIPT ADE Special Sunday at Afas Live
 
-VERKNIPT ADE Special Sunday at Afas Live on Sun 25 Oct, Amsterdam. 9 acts on the bill: Alycia Bezgo, BØĘRY, IOSIO and KLOFAMA and 5 more. Preview the line-up and save it on soundcheck.
+VERKNIPT ADE Special Sunday at Afas Live on Sun 25 Oct, Amsterdam. 11 acts on the bill: Alycia Bezgo, BØĘRY, IOSIO and Jeno and 7 more. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -13,10 +13,12 @@ VERKNIPT ADE Special Sunday at Afas Live on Sun 25 Oct, Amsterdam. 9 acts on the
 - Alycia Bezgo
 - BØĘRY
 - IOSIO
+- Jeno
 - KLOFAMA
 - Raxeller
 - Samuel Moriero (2)
 - SLVL
+- Tess (MU)
 - TiTi
 - Winson
 

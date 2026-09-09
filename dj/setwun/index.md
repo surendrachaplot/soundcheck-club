@@ -1,13 +1,14 @@
 # Setwun
 
-Setwun is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 8 Sept 2026, next at Club 77, Sydney on Fri, 18 Sept 2026.
+Setwun is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 9 Sept 2026, next at Angel Music Bar, Melbourne on Fri, 11 Sept 2026.
 
-Setwun is a house and techno artist tracked on soundcheck, with 50 sets logged across Brisbane, London, Melbourne and Sheffield and 1 more. Often billed alongside Ciara, Deepa and Command D (1). Next up: Club 77, Sydney on Fri 18 Sept.
+Setwun is a house and techno artist tracked on soundcheck, with 51 sets logged across Brisbane, London, Melbourne and Sheffield and 1 more. Often billed alongside Ciara, Deepa and Command D (1). Next up: Angel Music Bar, Melbourne on Fri 11 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 11 Sept 2026 | Angel Music Bar | Melbourne |
 | Fri, 18 Sept 2026 | Club 77 | Sydney |
 
 ## Recently played
@@ -25,4 +26,4 @@ Setwun is a house and techno artist tracked on soundcheck, with 50 sets logged a
 
 Ciara, Deepa, Command D (1)
 
-*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/setwun/)*
+*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/setwun/)*

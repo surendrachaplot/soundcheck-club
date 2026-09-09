@@ -1,6 +1,6 @@
 # KALI (FR)
 
-KALI (FR) is a Techno and Acid artist with 1 upcoming club date listed on soundcheck as of Tue, 8 Sept 2026, next at ÆDEN, Berlin on Thu, 1 Oct 2026.
+KALI (FR) is a Techno and Acid artist with 1 upcoming club date listed on soundcheck as of Wed, 9 Sept 2026, next at ÆDEN, Berlin on Thu, 1 Oct 2026.
 
 KALI (FR) is a techno and acid artist tracked on soundcheck, with 5 sets logged across Berlin and Prague. Often billed alongside D.E.S Fr, -OA- and A.Litique. Next up: ÆDEN, Berlin on Thu 1 Oct.
 
@@ -21,4 +21,4 @@ KALI (FR) is a techno and acid artist tracked on soundcheck, with 5 sets logged 
 
 D.E.S Fr, -OA-, A.Litique
 
-*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kalifr/)*
+*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kalifr/)*

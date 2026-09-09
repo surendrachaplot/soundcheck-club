@@ -1,6 +1,6 @@
 # Hootananny Brixton
 
-Hootananny Brixton is a music venue in London with 3 upcoming nights listed on soundcheck as of Tue, 8 Sept 2026; the next is "Dreamville Rapper: Lute" on Sat, 26 Sept 2026.
+Hootananny Brixton is a music venue in London with 3 upcoming nights listed on soundcheck as of Wed, 9 Sept 2026; the next is "Dreamville Rapper: Lute" on Sat, 26 Sept 2026.
 
 Hootananny Brixton is a music venue in London listed on soundcheck. 3 upcoming nights. Browse upcoming dates, start times and who's playing. 95 Effra Road, Brixton, London, SW2 1DF.
 
@@ -16,4 +16,4 @@ Hootananny Brixton is a music venue in London listed on soundcheck. 3 upcoming n
 
 95 Effra Road, Brixton, London, SW2 1DF, London
 
-*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/hootananny-brixton/)*
+*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/hootananny-brixton/)*

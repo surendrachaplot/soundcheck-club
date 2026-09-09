@@ -1,6 +1,6 @@
 # HOLY C
 
-HOLY C is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Tue, 8 Sept 2026, next at Algha's Plantroom, London on Sat, 19 Sept 2026.
+HOLY C is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Wed, 9 Sept 2026, next at Algha's Plantroom, London on Sat, 19 Sept 2026.
 
 HOLY C is a techno and trance artist tracked on soundcheck, with 21 sets logged across Bristol and London. Often billed alongside Toraigh, ASHTREY and Karlie Marx. Next up: Algha's Plantroom, London on Sat 19 Sept.
 
@@ -26,4 +26,4 @@ HOLY C is a techno and trance artist tracked on soundcheck, with 21 sets logged 
 
 Toraigh, ASHTREY, Karlie Marx
 
-*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/holyc/)*
+*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/holyc/)*

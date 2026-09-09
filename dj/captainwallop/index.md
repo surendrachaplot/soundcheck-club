@@ -1,8 +1,8 @@
 # Captain Wallop
 
-Captain Wallop is a Garage and House artist with 7 upcoming club dates listed on soundcheck as of Tue, 8 Sept 2026, next at The Loft, Manchester on Thu, 24 Sept 2026.
+Captain Wallop is a Garage and House artist with 8 upcoming club dates listed on soundcheck as of Wed, 9 Sept 2026, next at The Loft, Manchester on Thu, 24 Sept 2026.
 
-Captain Wallop is a garage and house artist tracked on soundcheck, with 46 sets logged across Amsterdam, Barcelona, Birmingham and Brighton and 11 more. Often billed alongside RTK Tarantino, Soul Mass Transit System and Alec Falconer. Next up: The Loft, Manchester on Thu 24 Sept.
+Captain Wallop is a garage and house artist tracked on soundcheck, with 47 sets logged across Amsterdam, Barcelona, Birmingham and Brighton and 11 more. Often billed alongside RTK Tarantino, Soul Mass Transit System and Alec Falconer. Next up: The Loft, Manchester on Thu 24 Sept.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ Captain Wallop is a garage and house artist tracked on soundcheck, with 46 sets 
 | Thu, 24 Sept 2026 | The Loft | Manchester |
 | Sat, 26 Sept 2026 | Kapsule | Liverpool |
 | Sat, 26 Sept 2026 | Ouseburn Garden | Newcastle |
+| Fri, 2 Oct 2026 | The Brickworks | Nottingham |
 | Sat, 3 Oct 2026 | Mint Warehouse | Leeds |
 | Sat, 31 Oct 2026 | Quarters | Brighton |
 | Sat, 28 Nov 2026 | NOWHERE | Manchester |
@@ -31,4 +32,4 @@ Captain Wallop is a garage and house artist tracked on soundcheck, with 46 sets 
 
 RTK Tarantino, Soul Mass Transit System, Alec Falconer
 
-*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/captainwallop/)*
+*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/captainwallop/)*

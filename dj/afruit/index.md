@@ -1,6 +1,6 @@
 # A.Fruit
 
-A.Fruit is a Dubstep and Bass artist with 1 upcoming club date listed on soundcheck as of Tue, 8 Sept 2026, next at Macadam, Nantes on Fri, 25 Sept 2026.
+A.Fruit is a Dubstep and Bass artist with 1 upcoming club date listed on soundcheck as of Wed, 9 Sept 2026, next at Macadam, Nantes on Fri, 25 Sept 2026.
 
 A.Fruit is a dubstep and bass artist tracked on soundcheck, with 24 sets logged across Barcelona, Berlin, Bristol and Copenhagen and 6 more. Often billed alongside dj dolares, DUKU and Kercha. Next up: Macadam, Nantes on Fri 25 Sept.
 
@@ -25,4 +25,4 @@ A.Fruit is a dubstep and bass artist tracked on soundcheck, with 24 sets logged 
 
 dj dolares, DUKU, Kercha
 
-*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/afruit/)*
+*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/afruit/)*

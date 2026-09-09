@@ -1,6 +1,6 @@
 # MEERA (UK)
 
-MEERA (UK) is a Afro House and House artist with 4 upcoming club dates listed on soundcheck as of Tue, 8 Sept 2026, next at Dockland, Munster on Sat, 12 Sept 2026.
+MEERA (UK) is a Afro House and House artist with 4 upcoming club dates listed on soundcheck as of Wed, 9 Sept 2026, next at Dockland, Munster on Sat, 12 Sept 2026.
 
 MEERA (UK) is an afro house and house artist based in United Kingdom, tracked on soundcheck, with 28 sets logged across Amsterdam, London and Munster. Often billed alongside Picep, Simon Alfred and Bradley Skeng. Next up: Dockland, Munster on Sat 12 Sept.
 
@@ -28,4 +28,4 @@ MEERA (UK) is an afro house and house artist based in United Kingdom, tracked on
 
 Picep, Simon Alfred, Bradley Skeng
 
-*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/meerauk/)*
+*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/meerauk/)*

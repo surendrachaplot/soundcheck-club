@@ -1,6 +1,6 @@
 # DJ Nate
 
-DJ Nate is a Dancehall and Amapiano artist with 1 upcoming club date listed on soundcheck as of Tue, 8 Sept 2026, next at DRUMSHEDS, London on Sat, 21 Nov 2026.
+DJ Nate is a Dancehall and Amapiano artist with 1 upcoming club date listed on soundcheck as of Wed, 9 Sept 2026, next at DRUMSHEDS, London on Sat, 21 Nov 2026.
 
 DJ Nate is a dancehall and amapiano artist based in United States of America, tracked on soundcheck, with 12 sets logged across Liverpool and London. Often billed alongside Pioneer, Supa D and Rampage Sound. Next up: DRUMSHEDS, London on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ DJ Nate is a dancehall and amapiano artist based in United States of America, tr
 
 Pioneer, Supa D, Rampage Sound
 
-*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djnate/)*
+*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djnate/)*

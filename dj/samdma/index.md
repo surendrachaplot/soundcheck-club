@@ -1,6 +1,6 @@
 # SAMDMA
 
-SAMDMA is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Tue, 8 Sept 2026, next at FLUCC, Vienna on Fri, 2 Oct 2026.
+SAMDMA is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Wed, 9 Sept 2026, next at FLUCC, Vienna on Fri, 2 Oct 2026.
 
 SAMDMA is a techno and trance artist based in Austria, tracked on soundcheck, with 17 sets logged across Amsterdam and Vienna. Often billed alongside Carl Haze, DANBERG and Ele Luz. Next up: FLUCC, Vienna on Fri 2 Oct.
 
@@ -26,4 +26,4 @@ SAMDMA is a techno and trance artist based in Austria, tracked on soundcheck, wi
 
 Carl Haze, DANBERG, Ele Luz
 
-*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/samdma/)*
+*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/samdma/)*

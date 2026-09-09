@@ -1,6 +1,6 @@
 # Shanixx
 
-Shanixx is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Tue, 8 Sept 2026, next at Warehouse, Nantes on Fri, 30 Oct 2026.
+Shanixx is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Wed, 9 Sept 2026, next at Warehouse, Nantes on Fri, 30 Oct 2026.
 
 Shanixx is a techno and trance artist based in France, tracked on soundcheck, with 32 sets logged across Berlin, Brussels, Geneva and Lisbon and 5 more. Often billed alongside Stinny Stone, ELOISA and YOVA. Next up: Warehouse, Nantes on Fri 30 Oct.
 
@@ -26,4 +26,4 @@ Shanixx is a techno and trance artist based in France, tracked on soundcheck, wi
 
 Stinny Stone, ELOISA, YOVA
 
-*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/shanixx/)*
+*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/shanixx/)*

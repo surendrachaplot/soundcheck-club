@@ -1,8 +1,8 @@
 # Yamamori Tengu
 
-Yamamori Tengu is a music venue in Dublin with 24 upcoming nights listed on soundcheck as of Tue, 8 Sept 2026; the next is "Tengu Jazz: Michael Buckley presents The Great Quintets of Jazz with Ryan Quigley - First Show" on Thu, 10 Sept 2026.
+Yamamori Tengu is a music venue in Dublin with 25 upcoming nights listed on soundcheck as of Wed, 9 Sept 2026; the next is "Tengu Jazz: Michael Buckley presents The Great Quintets of Jazz with Ryan Quigley - First Show" on Thu, 10 Sept 2026.
 
-Yamamori Tengu is a music venue in Dublin listed on soundcheck. 24 upcoming nights, with line-ups including A For Alpha, Ambit, angel tabris and Benson and 2 more. Browse upcoming dates, start times and who's playing. 37 Strand Street Great, North City, Dublin 1, Ireland.
+Yamamori Tengu is a music venue in Dublin listed on soundcheck. 25 upcoming nights, with line-ups including A For Alpha, Ambit, angel tabris and Benson and 2 more. Browse upcoming dates, start times and who's playing. 37 Strand Street Great, North City, Dublin 1, Ireland.
 
 ## What's on
 
@@ -23,4 +23,4 @@ Yamamori Tengu is a music venue in Dublin listed on soundcheck. 24 upcoming nigh
 
 37 Strand Street Great, North City, Dublin 1, Ireland, Dublin
 
-*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dublin/club/yamamori-tengu/)*
+*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dublin/club/yamamori-tengu/)*

@@ -1,6 +1,6 @@
 # Pete Howl
 
-Pete Howl is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Tue, 8 Sept 2026, next at Decadance, Ghent on Sat, 19 Sept 2026.
+Pete Howl is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Wed, 9 Sept 2026, next at Decadance, Ghent on Sat, 19 Sept 2026.
 
 Pete Howl is a techno and trance artist based in Belgium, tracked on soundcheck, with 19 sets logged across Ghent. Often billed alongside Skeletor Yogi, Felix Porte and BILLY. Next up: Decadance, Ghent on Sat 19 Sept.
 
@@ -25,4 +25,4 @@ Pete Howl is a techno and trance artist based in Belgium, tracked on soundcheck,
 
 Skeletor Yogi, Felix Porte, BILLY
 
-*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/petehowl/)*
+*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/petehowl/)*

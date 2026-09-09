@@ -1,6 +1,6 @@
 # Joni DJ
 
-Joni DJ is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Tue, 8 Sept 2026, next at Camp Kennybrook, New York City on Thu, 10 Sept 2026.
+Joni DJ is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Wed, 9 Sept 2026, next at Camp Kennybrook, New York City on Thu, 10 Sept 2026.
 
 Joni DJ is a house and techno artist tracked on soundcheck, with 19 sets logged across Barcelona, Berlin, Newyorkcity and Paris and 4 more. Often billed alongside Denzel, DJ Healthy and Amelia Holt. Next up: Camp Kennybrook, Newyorkcity on Thu 10 Sept.
 
@@ -27,4 +27,4 @@ Joni DJ is a house and techno artist tracked on soundcheck, with 19 sets logged 
 
 Denzel, DJ Healthy, Amelia Holt
 
-*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jonidj/)*
+*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jonidj/)*

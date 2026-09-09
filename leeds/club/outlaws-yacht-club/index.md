@@ -1,6 +1,6 @@
 # Outlaws Yacht Club
 
-Outlaws Yacht Club is a music venue in Leeds with 4 upcoming nights listed on soundcheck as of Tue, 8 Sept 2026; the next is "Modern Fairytale with Andy Whittaker " on Sat, 12 Sept 2026.
+Outlaws Yacht Club is a music venue in Leeds with 4 upcoming nights listed on soundcheck as of Wed, 9 Sept 2026; the next is "Modern Fairytale with Andy Whittaker " on Sat, 12 Sept 2026.
 
 Outlaws Yacht Club is a music venue in Leeds listed on soundcheck. 4 upcoming nights, with line-ups including Ben Daddy, Laura Not, Shauna and Simon Scott. Browse upcoming dates, start times and who's playing. 38 New York St, Leeds, West Yorkshire, LS2 7DY, United Kingdom.
 
@@ -17,4 +17,4 @@ Outlaws Yacht Club is a music venue in Leeds listed on soundcheck. 4 upcoming ni
 
 38 New York St, Leeds, West Yorkshire, LS2 7DY, United Kingdom, Leeds
 
-*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/leeds/club/outlaws-yacht-club/)*
+*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/leeds/club/outlaws-yacht-club/)*

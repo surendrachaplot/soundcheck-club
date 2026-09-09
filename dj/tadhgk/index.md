@@ -1,8 +1,8 @@
 # Tadhg K
 
-Tadhg K is a Electro and Club artist with 4 upcoming club dates listed on soundcheck as of Tue, 8 Sept 2026, next at The Racket Space, Dublin on Sun, 20 Sept 2026.
+Tadhg K is a Electro and Club artist with 5 upcoming club dates listed on soundcheck as of Wed, 9 Sept 2026, next at The Racket Space, Dublin on Sun, 20 Sept 2026.
 
-Tadhg K is an electro and club artist based in Ireland, tracked on soundcheck, with 41 sets logged across Berlin, Dublin, Edinburgh and Glasgow and 1 more. Often billed alongside Bull Horris, Alba (2) and E The Artist. Next up: The Racket Space, Dublin on Sun 20 Sept.
+Tadhg K is an electro and club artist based in Ireland, tracked on soundcheck, with 42 sets logged across Berlin, Dublin, Edinburgh and Glasgow and 1 more. Often billed alongside Bull Horris, Alba (2) and E The Artist. Next up: The Racket Space, Dublin on Sun 20 Sept.
 
 ## Upcoming shows
 
@@ -12,6 +12,7 @@ Tadhg K is an electro and club artist based in Ireland, tracked on soundcheck, w
 | Sun, 27 Sept 2026 | The Racket Space | Dublin |
 | Sun, 4 Oct 2026 | The Racket Space | Dublin |
 | Sun, 11 Oct 2026 | The Racket Space | Dublin |
+| Sat, 17 Oct 2026 | The Big Romance | Dublin |
 
 ## Recently played
 
@@ -28,4 +29,4 @@ Tadhg K is an electro and club artist based in Ireland, tracked on soundcheck, w
 
 Bull Horris, Alba (2), E The Artist
 
-*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tadhgk/)*
+*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tadhgk/)*

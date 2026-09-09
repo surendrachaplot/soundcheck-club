@@ -1,8 +1,8 @@
 # NOIYSE PROJECT
 
-NOIYSE PROJECT is a Progressive House and Techno artist with 5 upcoming club dates listed on soundcheck as of Tue, 8 Sept 2026, next at Chasers Nightclub, Melbourne on Fri, 11 Sept 2026.
+NOIYSE PROJECT is a Progressive House and Techno artist with 6 upcoming club dates listed on soundcheck as of Wed, 9 Sept 2026, next at Chasers Nightclub, Melbourne on Fri, 11 Sept 2026.
 
-NOIYSE PROJECT is a progressive house and techno artist based in Sri Lanka, tracked on soundcheck, with 28 sets logged across Amsterdam, Auckland, Bali and Barcelona and 10 more. Often billed alongside Aaiste, Baliology and DJ Ruby. Next up: Chasers Nightclub, Melbourne on Fri 11 Sept.
+NOIYSE PROJECT is a progressive house and techno artist based in Sri Lanka, tracked on soundcheck, with 29 sets logged across Amsterdam, Auckland, Bali and Barcelona and 10 more. Often billed alongside Aaiste, Baliology and DJ Ruby. Next up: Chasers Nightclub, Melbourne on Fri 11 Sept.
 
 ## Upcoming shows
 
@@ -13,6 +13,7 @@ NOIYSE PROJECT is a progressive house and techno artist based in Sri Lanka, trac
 | Thu, 22 Oct 2026 | Kadinsky Cafe | Amsterdam |
 | Fri, 23 Oct 2026 | Veronica Schip | Amsterdam |
 | Sat, 24 Oct 2026 | Akhnaton | Amsterdam |
+| Sat, 24 Oct 2026 | Kadinsky Cafe | Amsterdam |
 
 ## Recently played
 
@@ -29,4 +30,4 @@ NOIYSE PROJECT is a progressive house and techno artist based in Sri Lanka, trac
 
 Aaiste, Baliology, DJ Ruby
 
-*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/noiyseproject/)*
+*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/noiyseproject/)*

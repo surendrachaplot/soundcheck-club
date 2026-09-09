@@ -1,8 +1,8 @@
 # Dantiez
 
-Dantiez is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Tue, 8 Sept 2026, next at Elektricity, Detroit on Fri, 11 Sept 2026.
+Dantiez is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Wed, 9 Sept 2026, next at Elektricity, Detroit on Fri, 11 Sept 2026.
 
-Dantiez is a house and techno artist based in United States of America, tracked on soundcheck, with 47 sets logged across Detroit, Losangeles, Miami and Montreal and 1 more. Often billed alongside Damarii Saunderson, JMT (2) and Kevin Saunderson. Next up: Elektricity, Detroit on Fri 11 Sept.
+Dantiez is a house and techno artist based in United States of America, tracked on soundcheck, with 48 sets logged across Detroit, Losangeles, Miami and Montreal and 1 more. Often billed alongside Damarii Saunderson, JMT (2) and Kevin Saunderson. Next up: Elektricity, Detroit on Fri 11 Sept.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Dantiez is a house and techno artist based in United States of America, tracked 
 | --- | --- | --- |
 | Fri, 11 Sept 2026 | Elektricity | Detroit |
 | Fri, 11 Sept 2026 | Elektricity | Detroit |
+| Fri, 2 Oct 2026 | Paragon | New York City |
 
 ## Recently played
 
@@ -26,4 +27,4 @@ Dantiez is a house and techno artist based in United States of America, tracked 
 
 Damarii Saunderson, JMT (2), Kevin Saunderson
 
-*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dantiez/)*
+*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dantiez/)*

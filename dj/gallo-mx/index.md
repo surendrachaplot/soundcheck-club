@@ -1,6 +1,6 @@
 # Gallō
 
-Gallō is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Tue, 8 Sept 2026, next at Medellin 65, Mexico City on Sat, 12 Sept 2026.
+Gallō is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Wed, 9 Sept 2026, next at Medellin 65, Mexico City on Sat, 12 Sept 2026.
 
 Gallō is a house and minimal artist based in Mexico, tracked on soundcheck, with 35 sets logged across Mexicocity. Often billed alongside Shisho, chldrns and Bastard Love. Next up: Medellin 65, Mexicocity on Sat 12 Sept.
 
@@ -25,4 +25,4 @@ Gallō is a house and minimal artist based in Mexico, tracked on soundcheck, wit
 
 Shisho, chldrns, Bastard Love
 
-*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/gallo-mx/)*
+*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/gallo-mx/)*

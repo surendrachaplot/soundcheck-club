@@ -1,13 +1,13 @@
 # Balmins Beach Sitges
 
-Balmins Beach Sitges is a music venue in Barcelona with 1 upcoming night listed on soundcheck as of Tue, 8 Sept 2026; the next is "Mark J - Birthday Tea Dance" on Sat, 12 Sept 2026.
+Balmins Beach Sitges is a music venue in Barcelona with 1 upcoming night listed on soundcheck as of Wed, 9 Sept 2026; the next is "Mark J - Birthday Tea Dance" on Sat, 12 Sept 2026.
 
-Balmins Beach Sitges is a music venue in Barcelona listed on soundcheck. 1 upcoming night. Browse upcoming dates, start times and who's playing.
+Balmins Beach Sitges is a music venue in Barcelona listed on soundcheck. 1 upcoming night, with line-ups including Mark J. Browse upcoming dates, start times and who's playing.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 12 Sept 2026 | Mark J - Birthday Tea Dance |  |
+| Sat, 12 Sept 2026 | Mark J - Birthday Tea Dance | Mark J |
 
-*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/balmins-beach-sitges/)*
+*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/balmins-beach-sitges/)*

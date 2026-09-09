@@ -1,6 +1,6 @@
 # Tamada
 
-Tamada is a House and Electronica artist with 1 upcoming club date listed on soundcheck as of Tue, 8 Sept 2026, next at La Station - Gare des Mines, Paris on Sat, 3 Oct 2026.
+Tamada is a House and Electronica artist with 1 upcoming club date listed on soundcheck as of Wed, 9 Sept 2026, next at La Station - Gare des Mines, Paris on Sat, 3 Oct 2026.
 
 Tamada is a house and electronica artist tracked on soundcheck, with 18 sets logged across Berlin, Newyorkcity, Paris and Tallinn and 1 more. Often billed alongside Ash Scholem, Kraumur and Levi Love Disco. Next up: La Station - Gare des Mines, Paris on Sat 3 Oct.
 
@@ -25,4 +25,4 @@ Tamada is a house and electronica artist tracked on soundcheck, with 18 sets log
 
 Ash Scholem, Kraumur, Levi Love Disco
 
-*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tamada/)*
+*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tamada/)*

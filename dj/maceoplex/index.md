@@ -1,14 +1,13 @@
 # Maceo Plex
 
-Maceo Plex is a Techno and House artist with 7 upcoming club dates listed on soundcheck as of Tue, 8 Sept 2026, next at Amnesia Ibiza, Ibiza on Tue, 8 Sept 2026.
+Maceo Plex is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Wed, 9 Sept 2026, next at IFEMA, Madrid on Fri, 18 Sept 2026.
 
-Maceo Plex is a techno and house artist tracked on soundcheck, with 182 sets logged across Amsterdam, Athens, Austin and Barcelona and 47 more. Often billed alongside Seth Troxler, Adam Beyer and DJ Tennis. Next up: Amnesia Ibiza, Ibiza on Tue 8 Sept.
+Maceo Plex is a techno and house artist tracked on soundcheck, with 182 sets logged across Amsterdam, Athens, Austin and Barcelona and 47 more. Often billed alongside Seth Troxler, Adam Beyer and DJ Tennis. Next up: IFEMA, Madrid on Fri 18 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Tue, 8 Sept 2026 | Amnesia Ibiza | Ibiza |
 | Fri, 18 Sept 2026 | IFEMA | Madrid |
 | Fri, 18 Sept 2026 | IFEMA | Madrid |
 | Sat, 26 Sept 2026 | Ushuaïa Ibiza | Ibiza |
@@ -18,6 +17,7 @@ Maceo Plex is a techno and house artist tracked on soundcheck, with 182 sets log
 
 ## Recently played
 
+- Amnesia Ibiza, Ibiza — Tue, 8 Sept 2026
 - [UNVRS], Ibiza — Thu, 27 Aug 2026
 - TBA - Straße des 17. Juni, Berlin — Sat, 15 Aug 2026
 - Ritter Butzke, Berlin — Sat, 15 Aug 2026
@@ -25,10 +25,9 @@ Maceo Plex is a techno and house artist tracked on soundcheck, with 182 sets log
 - Amnesia Ibiza, Ibiza — Wed, 5 Aug 2026
 - TBA - Hollywood Park adjacent to SoFi Stadium, Los Angeles — Sat, 1 Aug 2026
 - TBA - Mission Four (Ace*Mission Studios) 550 S Mission Rd, Los Angeles, CA 90033, Los Angeles — Thu, 30 Jul 2026
-- [UNVRS], Ibiza — Sun, 19 Jul 2026
 
 ## Shares bills with
 
 Seth Troxler, Adam Beyer, DJ Tennis
 
-*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/maceoplex/)*
+*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/maceoplex/)*

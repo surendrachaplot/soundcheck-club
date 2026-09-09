@@ -1,6 +1,6 @@
 # Submassive x Give Me A Break at Haus73
 
-Submassive x Give Me A Break at Haus73 on Fri 11 Sept, Hamburg. 6 acts on the bill: Ivaldo Gino, Lang Jan (2), PUSS1 BABA and Sarah Q and 2 more. Breakbeat and Jungle. Preview the line-up and save it on soundcheck.
+Submassive x Give Me A Break at Haus73 on Fri 11 Sept, Hamburg. 7 acts on the bill: Ivaldo Gino, Lang Jan (2), PUSS1 BABA and Ring41 and 3 more. Breakbeat and Jungle. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -13,6 +13,7 @@ Submassive x Give Me A Break at Haus73 on Fri 11 Sept, Hamburg. 6 acts on the bi
 - Ivaldo Gino
 - Lang Jan (2)
 - PUSS1 BABA
+- Ring41
 - Sarah Q
 - Suzi Mystique
 - Usus

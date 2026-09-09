@@ -1,6 +1,6 @@
 # The Jago
 
-The Jago is a music venue in London with 4 upcoming nights listed on soundcheck as of Tue, 8 Sept 2026; the next is "Sweetnighter: Back To School with Frankie Francis & SweetNightJoe" on Sat, 12 Sept 2026.
+The Jago is a music venue in London with 4 upcoming nights listed on soundcheck as of Wed, 9 Sept 2026; the next is "Sweetnighter: Back To School with Frankie Francis & SweetNightJoe" on Sat, 12 Sept 2026.
 
 The Jago is a music venue in London listed on soundcheck. 4 upcoming nights, with line-ups including Joseph Russell, Kozber and Racso Renniks. Browse upcoming dates, start times and who's playing. 440 Kingsland Road, E8 4AA London, United Kingdom.
 
@@ -17,4 +17,4 @@ The Jago is a music venue in London listed on soundcheck. 4 upcoming nights, wit
 
 440 Kingsland Road, E8 4AA London, United Kingdom, London
 
-*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/the-jago/)*
+*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/the-jago/)*

@@ -1,14 +1,15 @@
 # Pancha
 
-Pancha is a Techno and Electronica artist with 1 upcoming club date listed on soundcheck as of Tue, 8 Sept 2026, next at Smolna, Warsaw on Thu, 10 Sept 2026.
+Pancha is a Techno and Electronica artist with 2 upcoming club dates listed on soundcheck as of Wed, 9 Sept 2026, next at Smolna, Warsaw on Thu, 10 Sept 2026.
 
-Pancha is a techno and electronica artist based in Poland, tracked on soundcheck, with 2 sets logged across Warsaw. Often billed alongside Łomża, Dynamic Goose and Trans Timmermans. Next up: Smolna, Warsaw on Thu 10 Sept.
+Pancha is a techno and electronica artist based in Poland, tracked on soundcheck, with 3 sets logged across Warsaw. Often billed alongside Łomża, Dynamic Goose and Dedenia. Next up: Smolna, Warsaw on Thu 10 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Thu, 10 Sept 2026 | Smolna | Warsaw |
+| Fri, 18 Sept 2026 | underiolo | Warsaw |
 
 ## Recently played
 
@@ -16,6 +17,6 @@ Pancha is a techno and electronica artist based in Poland, tracked on soundcheck
 
 ## Shares bills with
 
-Łomża, Dynamic Goose, Trans Timmermans
+Łomża, Dynamic Goose, Dedenia
 
-*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/pancha/)*
+*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/pancha/)*

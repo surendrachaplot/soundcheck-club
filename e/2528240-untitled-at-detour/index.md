@@ -1,6 +1,6 @@
 # Untitled at DeTour
 
-Untitled at DeTour on Fri 11 Sept, Tokyo. 4 acts on the bill: AME (JP), Natasha (VE), PARSA (2) and sawanese. Techno. Preview the line-up and save it on soundcheck.
+Untitled at DeTour on Fri 11 Sept, Tokyo. 5 acts on the bill: AME (JP), nataria, Natasha (VE) and PARSA (2) and 1 more. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,6 +11,7 @@ Untitled at DeTour on Fri 11 Sept, Tokyo. 4 acts on the bill: AME (JP), Natasha 
 ## Line-up
 
 - AME (JP)
+- nataria
 - Natasha (VE)
 - PARSA (2)
 - sawanese

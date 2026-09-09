@@ -1,6 +1,6 @@
 # Nooriyah
 
-Nooriyah is a House and Club artist with 4 upcoming club dates listed on soundcheck as of Tue, 8 Sept 2026, next at Chop Shop & 1st Ward, Chicago on Sat, 12 Sept 2026.
+Nooriyah is a House and Club artist with 4 upcoming club dates listed on soundcheck as of Wed, 9 Sept 2026, next at Chop Shop & 1st Ward, Chicago on Sat, 12 Sept 2026.
 
 Nooriyah is a house and club artist based in United Kingdom, tracked on soundcheck, with 59 sets logged across Amsterdam, Barcelona, Berlin and Birmingham and 28 more. Often billed alongside NIKS, Jyoty and Soichi Terada. Next up: Chop Shop & 1st Ward, Chicago on Sat 12 Sept.
 
@@ -28,4 +28,4 @@ Nooriyah is a house and club artist based in United Kingdom, tracked on soundche
 
 NIKS, Jyoty, Soichi Terada
 
-*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nooriyah/)*
+*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nooriyah/)*

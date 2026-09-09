@@ -1,6 +1,6 @@
 # Jeremy Giros
 
-Jeremy Giros is a House and Afro House artist with 2 upcoming club dates listed on soundcheck as of Tue, 8 Sept 2026, next at H0L0, New York City on Sat, 12 Sept 2026.
+Jeremy Giros is a House and Afro House artist with 2 upcoming club dates listed on soundcheck as of Wed, 9 Sept 2026, next at H0L0, New York City on Sat, 12 Sept 2026.
 
 Jeremy Giros is a house and afro house artist tracked on soundcheck, with 68 sets logged across Chicago, Houston, Montreal and Newyorkcity and 2 more. Often billed alongside Bendito, Veecio and Ali Coleman. Next up: H0L0, Newyorkcity on Sat 12 Sept.
 
@@ -26,4 +26,4 @@ Jeremy Giros is a house and afro house artist tracked on soundcheck, with 68 set
 
 Bendito, Veecio, Ali Coleman
 
-*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jeremygiros/)*
+*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jeremygiros/)*

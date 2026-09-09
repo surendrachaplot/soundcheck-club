@@ -1,6 +1,6 @@
 # Pata Negra Loves U
 
-Pata Negra Loves U is a Bass and Club artist with 1 upcoming club date listed on soundcheck as of Tue, 8 Sept 2026, next at Petit CAB, Marseille on Fri, 11 Sept 2026.
+Pata Negra Loves U is a Bass and Club artist with 1 upcoming club date listed on soundcheck as of Wed, 9 Sept 2026, next at Petit CAB, Marseille on Fri, 11 Sept 2026.
 
 Pata Negra Loves U is a bass and club artist tracked on soundcheck, with 9 sets logged across Marseille. Often billed alongside NOGE, WAWRZY and Call Super. Next up: Petit CAB, Marseille on Fri 11 Sept.
 
@@ -25,4 +25,4 @@ Pata Negra Loves U is a bass and club artist tracked on soundcheck, with 9 sets 
 
 NOGE, WAWRZY, Call Super
 
-*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/patanegralovesu/)*
+*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/patanegralovesu/)*

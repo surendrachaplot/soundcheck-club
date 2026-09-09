@@ -1,14 +1,15 @@
 # bellxsxs
 
-bellxsxs is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 8 Sept 2026, next at Collingwood Basement, Melbourne on Sat, 26 Sept 2026.
+bellxsxs is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 9 Sept 2026, next at Collingwood Basement, Melbourne on Sat, 26 Sept 2026.
 
-bellxsxs is a house and techno artist based in Australia, tracked on soundcheck, with 47 sets logged across Melbourne. Often billed alongside Boogs, Jordan Corey and Ben Silver. Next up: Collingwood Basement, Melbourne on Sat 26 Sept.
+bellxsxs is a house and techno artist based in Australia, tracked on soundcheck, with 48 sets logged across Melbourne. Often billed alongside Boogs, Ben Silver and Jordan Corey. Next up: Collingwood Basement, Melbourne on Sat 26 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 26 Sept 2026 | Collingwood Basement | Melbourne |
+| Sun, 11 Oct 2026 | Revolver Upstairs | Melbourne |
 
 ## Recently played
 
@@ -23,6 +24,6 @@ bellxsxs is a house and techno artist based in Australia, tracked on soundcheck,
 
 ## Shares bills with
 
-Boogs, Jordan Corey, Ben Silver
+Boogs, Ben Silver, Jordan Corey
 
-*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bellxsxs/)*
+*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bellxsxs/)*

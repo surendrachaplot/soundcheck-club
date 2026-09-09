@@ -1,6 +1,6 @@
 # Julo
 
-Julo is a House and Experimental artist with 1 upcoming club date listed on soundcheck as of Tue, 8 Sept 2026, next at Smolna, Warsaw on Wed, 9 Sept 2026.
+Julo is a House and Experimental artist with 1 upcoming club date listed on soundcheck as of Wed, 9 Sept 2026, next at Smolna, Warsaw on Wed, 9 Sept 2026.
 
 Julo is a house and experimental artist tracked on soundcheck, with 9 sets logged across Ibiza, Paris, Vienna and Warsaw. Often billed alongside SEMREH, Gune 909 and AntZ (2). Next up: Smolna, Warsaw on Wed 9 Sept.
 
@@ -25,4 +25,4 @@ Julo is a house and experimental artist tracked on soundcheck, with 9 sets logge
 
 SEMREH, Gune 909, AntZ (2)
 
-*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/julo/)*
+*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/julo/)*

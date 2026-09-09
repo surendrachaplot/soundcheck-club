@@ -1,6 +1,6 @@
 # The3RD
 
-The3RD is a Techno and Industrial artist with 5 upcoming club dates listed on soundcheck as of Tue, 8 Sept 2026, next at Culture Cafe, Bangkok on Fri, 18 Sept 2026.
+The3RD is a Techno and Industrial artist with 5 upcoming club dates listed on soundcheck as of Wed, 9 Sept 2026, next at Culture Cafe, Bangkok on Fri, 18 Sept 2026.
 
 The3RD is a techno and industrial artist tracked on soundcheck, with 152 sets logged across Bangkok. Often billed alongside Gunya, Damon Rider and REIKS. Next up: Culture Cafe, Bangkok on Fri 18 Sept.
 
@@ -29,4 +29,4 @@ The3RD is a techno and industrial artist tracked on soundcheck, with 152 sets lo
 
 Gunya, Damon Rider, REIKS
 
-*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/the3rd/)*
+*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/the3rd/)*

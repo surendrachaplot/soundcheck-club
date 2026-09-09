@@ -1,6 +1,6 @@
 # Adam Pits
 
-Adam Pits is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Tue, 8 Sept 2026, next at Bal Chavaux, Paris on Fri, 9 Oct 2026.
+Adam Pits is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Wed, 9 Sept 2026, next at Bal Chavaux, Paris on Fri, 9 Oct 2026.
 
 Adam Pits is a techno and house artist tracked on soundcheck, with 94 sets logged across Amsterdam, Athens, Belfast and Berlin and 29 more. Often billed alongside Lisene, Space Cadets and FROND. Next up: Bal Chavaux, Paris on Fri 9 Oct.
 
@@ -26,4 +26,4 @@ Adam Pits is a techno and house artist tracked on soundcheck, with 94 sets logge
 
 Lisene, Space Cadets, FROND
 
-*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/adampits/)*
+*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/adampits/)*

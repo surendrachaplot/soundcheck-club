@@ -1,6 +1,6 @@
 # Fantasm
 
-Fantasm is a Techno and Hardcore artist with 8 upcoming club dates listed on soundcheck as of Tue, 8 Sept 2026, next at Level 1 @ Cannonball Arts, Seattle on Fri, 11 Sept 2026.
+Fantasm is a Techno and Hardcore artist with 8 upcoming club dates listed on soundcheck as of Wed, 9 Sept 2026, next at Level 1 @ Cannonball Arts, Seattle on Fri, 11 Sept 2026.
 
 Fantasm is a techno and hardcore artist tracked on soundcheck, with 78 sets logged across Amsterdam, Antwerp, Barcelona and Belfast and 38 more. Often billed alongside KLOFAMA, NOVAH and Holy Priest. Next up: Level 1 @ Cannonball Arts, Seattle on Fri 11 Sept.
 
@@ -32,4 +32,4 @@ Fantasm is a techno and hardcore artist tracked on soundcheck, with 78 sets logg
 
 KLOFAMA, NOVAH, Holy Priest
 
-*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/fantasm/)*
+*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/fantasm/)*

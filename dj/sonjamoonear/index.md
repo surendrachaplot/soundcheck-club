@@ -1,6 +1,6 @@
 # Sonja Moonear
 
-Sonja Moonear is a House and Techno artist with 8 upcoming club dates listed on soundcheck as of Tue, 8 Sept 2026, next at The Cause, London on Sat, 12 Sept 2026.
+Sonja Moonear is a House and Techno artist with 8 upcoming club dates listed on soundcheck as of Wed, 9 Sept 2026, next at The Cause, London on Sat, 12 Sept 2026.
 
 Sonja Moonear is a house and techno artist tracked on soundcheck, with 190 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 53 more. Often billed alongside Raresh, Ricardo Villalobos and Tomas Station. Next up: The Cause, London on Sat 12 Sept.
 
@@ -32,4 +32,4 @@ Sonja Moonear is a house and techno artist tracked on soundcheck, with 190 sets 
 
 Raresh, Ricardo Villalobos, Tomas Station
 
-*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sonjamoonear/)*
+*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sonjamoonear/)*

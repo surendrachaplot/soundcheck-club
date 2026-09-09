@@ -1,6 +1,6 @@
 # Martinou
 
-Martinou is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Tue, 8 Sept 2026, next at Very Small Club, Budapest on Thu, 10 Sept 2026.
+Martinou is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Wed, 9 Sept 2026, next at Very Small Club, Budapest on Thu, 10 Sept 2026.
 
 Martinou is a techno and house artist based in Sweden, tracked on soundcheck, with 33 sets logged across Amsterdam, Basel, Berlin and Brussels and 8 more. Often billed alongside Hame (1), Ben Kaczor and Hafa. Next up: Very Small Club, Budapest on Thu 10 Sept.
 
@@ -27,4 +27,4 @@ Martinou is a techno and house artist based in Sweden, tracked on soundcheck, wi
 
 Hame (1), Ben Kaczor, Hafa
 
-*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/martinou/)*
+*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/martinou/)*

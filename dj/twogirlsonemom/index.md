@@ -1,6 +1,6 @@
 # two girls one mom
 
-two girls one mom is a Techno and Trance artist with 7 upcoming club dates listed on soundcheck as of Tue, 8 Sept 2026, next at Mia Mao, Paris on Thu, 24 Sept 2026.
+two girls one mom is a Techno and Trance artist with 7 upcoming club dates listed on soundcheck as of Wed, 9 Sept 2026, next at Mia Mao, Paris on Thu, 24 Sept 2026.
 
 two girls one mom is a techno and trance artist tracked on soundcheck, with 89 sets logged across Barcelona, Berlin, Frankfurt and Hamburg and 6 more. Often billed alongside bbymeister, August Kind and Deltapeak. Next up: Mia Mao, Paris on Thu 24 Sept.
 
@@ -31,4 +31,4 @@ two girls one mom is a techno and trance artist tracked on soundcheck, with 89 s
 
 bbymeister, August Kind, Deltapeak
 
-*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/twogirlsonemom/)*
+*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/twogirlsonemom/)*

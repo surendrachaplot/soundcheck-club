@@ -1,6 +1,6 @@
 # Mondo Open Air
 
-Mondo Open Air is a music venue in Madrid with 7 upcoming nights listed on soundcheck as of Tue, 8 Sept 2026; the next is "Mondo OPEN AIR #07: NOVAH / Faster Horses / Gerardo Niva / Alba Franch" on Sat, 12 Sept 2026.
+Mondo Open Air is a music venue in Madrid with 7 upcoming nights listed on soundcheck as of Wed, 9 Sept 2026; the next is "Mondo OPEN AIR #07: NOVAH / Faster Horses / Gerardo Niva / Alba Franch" on Sat, 12 Sept 2026.
 
 Mondo Open Air is a music venue in Madrid listed on soundcheck. 7 upcoming nights, with line-ups including Alba Franch, Andres Campo, Bad Boombox and Benwal and 2 more. Browse upcoming dates, start times and who's playing. Av. San Martín de Valdeiglesias, 22, 28922 Alcorcón, Madrid.
 
@@ -20,4 +20,4 @@ Mondo Open Air is a music venue in Madrid listed on soundcheck. 7 upcoming night
 
 Av. San Martín de Valdeiglesias, 22, 28922 Alcorcón, Madrid, Madrid
 
-*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/mondo-open-air/)*
+*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/mondo-open-air/)*

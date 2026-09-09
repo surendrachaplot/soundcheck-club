@@ -1,6 +1,6 @@
 # LIA
 
-LIA is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 8 Sept 2026, next at RSO.BERLIN, Berlin on Sat, 12 Sept 2026.
+LIA is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 9 Sept 2026, next at RSO.BERLIN, Berlin on Sat, 12 Sept 2026.
 
 LIA is a house and techno artist based in Germany, tracked on soundcheck, with 54 sets logged across Belfast, Berlin, Cologne and Dublin and 9 more. Often billed alongside Cindy G, Badanka and Brahmski. Next up: RSO.BERLIN, Berlin on Sat 12 Sept.
 
@@ -25,4 +25,4 @@ LIA is a house and techno artist based in Germany, tracked on soundcheck, with 5
 
 Cindy G, Badanka, Brahmski
 
-*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lia/)*
+*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lia/)*

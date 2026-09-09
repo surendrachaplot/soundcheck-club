@@ -1,6 +1,6 @@
 # Townes
 
-Townes is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 8 Sept 2026, next at Romantica, Stuttgart on Fri, 11 Sept 2026.
+Townes is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 9 Sept 2026, next at Romantica, Stuttgart on Fri, 11 Sept 2026.
 
 Townes is a techno and house artist based in Germany, tracked on soundcheck, with 45 sets logged across Amsterdam, Berlin, Detroit and Dublin and 5 more. Often billed alongside SHDW, Salty DJ and Jannis Maxim. Next up: Romantica, Stuttgart on Fri 11 Sept.
 
@@ -25,4 +25,4 @@ Townes is a techno and house artist based in Germany, tracked on soundcheck, wit
 
 SHDW, Salty DJ, Jannis Maxim
 
-*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/townes/)*
+*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/townes/)*

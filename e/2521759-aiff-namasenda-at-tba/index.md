@@ -1,6 +1,6 @@
 # Aiff - Namasenda at TBA
 
-Aiff - Namasenda at TBA on Sat 3 Oct, Mexicocity. 3 acts on the bill: Isla Den, Lu2k and Namasenda. Pop and Club. Preview the line-up and save it on soundcheck.
+Aiff - Namasenda at TBA on Sat 3 Oct, Mexicocity. 6 acts on the bill: cowntrydog, fka phaedra, ICE BATH and Isla Den and 2 more. Pop and Club. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,9 @@ Aiff - Namasenda at TBA on Sat 3 Oct, Mexicocity. 3 acts on the bill: Isla Den, 
 
 ## Line-up
 
+- cowntrydog
+- fka phaedra
+- ICE BATH
 - Isla Den
 - Lu2k
 - Namasenda

@@ -1,6 +1,6 @@
 # senoritajuicy
 
-senoritajuicy is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Tue, 8 Sept 2026, next at Jupiter Disco, New York City on Wed, 9 Sept 2026.
+senoritajuicy is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Wed, 9 Sept 2026, next at Jupiter Disco, New York City on Wed, 9 Sept 2026.
 
 senoritajuicy is a techno and house artist based in United States of America, tracked on soundcheck, with 21 sets logged across Newyorkcity. Often billed alongside CMD+JAZMINE, Nymphostar and Crush Club. Next up: Jupiter Disco, Newyorkcity on Wed 9 Sept.
 
@@ -26,4 +26,4 @@ senoritajuicy is a techno and house artist based in United States of America, tr
 
 CMD+JAZMINE, Nymphostar, Crush Club
 
-*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/senoritajuicy/)*
+*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/senoritajuicy/)*

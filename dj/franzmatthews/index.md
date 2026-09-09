@@ -1,6 +1,6 @@
 # Franz Matthews
 
-Franz Matthews is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Tue, 8 Sept 2026, next at Jonny Knüppel, Berlin on Sat, 12 Sept 2026.
+Franz Matthews is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 9 Sept 2026, next at Jonny Knüppel, Berlin on Sat, 12 Sept 2026.
 
 Franz Matthews is a house and techno artist based in France, tracked on soundcheck, with 30 sets logged across Amsterdam, Barcelona, Berlin and Istanbul and 2 more. Often billed alongside Bonnie Spacey, ONNI and SEIUN. Next up: Jonny Knüppel, Berlin on Sat 12 Sept.
 
@@ -26,4 +26,4 @@ Franz Matthews is a house and techno artist based in France, tracked on soundche
 
 Bonnie Spacey, ONNI, SEIUN
 
-*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/franzmatthews/)*
+*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/franzmatthews/)*

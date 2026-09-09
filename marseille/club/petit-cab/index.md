@@ -1,6 +1,6 @@
 # Petit CAB
 
-Petit CAB is a music venue in Marseille with 14 upcoming nights listed on soundcheck as of Tue, 8 Sept 2026; the next is "Call Super + Eau Vive + Pata Negra @ Petit Cab" on Fri, 11 Sept 2026.
+Petit CAB is a music venue in Marseille with 14 upcoming nights listed on soundcheck as of Wed, 9 Sept 2026; the next is "Call Super + Eau Vive + Pata Negra @ Petit Cab" on Fri, 11 Sept 2026.
 
 Petit CAB is a music venue in Marseille listed on soundcheck. 14 upcoming nights, with line-ups including Abstraxion, Boris, Call Super and Feroui and 2 more. Browse upcoming dates, start times and who's playing. 41 rue Jobin, 13003 MARSEILLE.
 
@@ -23,4 +23,4 @@ Petit CAB is a music venue in Marseille listed on soundcheck. 14 upcoming nights
 
 41 rue Jobin, 13003 MARSEILLE, Marseille
 
-*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/marseille/club/petit-cab/)*
+*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/marseille/club/petit-cab/)*

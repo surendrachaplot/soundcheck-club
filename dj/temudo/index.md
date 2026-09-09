@@ -1,6 +1,6 @@
 # Temudo
 
-Temudo is a Techno and Dub Techno artist with 5 upcoming club dates listed on soundcheck as of Tue, 8 Sept 2026, next at Barragem da Queimadela, Porto on Thu, 10 Sept 2026.
+Temudo is a Techno and Dub Techno artist with 5 upcoming club dates listed on soundcheck as of Wed, 9 Sept 2026, next at Barragem da Queimadela, Porto on Thu, 10 Sept 2026.
 
 Temudo is a techno and dub techno artist tracked on soundcheck, with 134 sets logged across Amsterdam, Athens, Barcelona and Berlin and 40 more. Often billed alongside VIL (PT), CRAVO and Nørbak. Next up: Barragem da Queimadela, Porto on Thu 10 Sept.
 
@@ -29,4 +29,4 @@ Temudo is a techno and dub techno artist tracked on soundcheck, with 134 sets lo
 
 VIL (PT), CRAVO, Nørbak
 
-*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/temudo/)*
+*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/temudo/)*

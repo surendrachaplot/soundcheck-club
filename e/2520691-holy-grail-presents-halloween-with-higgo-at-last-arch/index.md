@@ -1,6 +1,6 @@
-# Holy Grail presents: Halloween with Higgo at Last Arch
+# Holy Grail Presents: Halloween with Higgo at Last Arch
 
-Holy Grail presents: Halloween with Higgo at Last Arch on Sat 31 Oct, London. 2 acts on the bill: Higgo and THIRZA. House and Garage. Preview the line-up and save it on soundcheck.
+Holy Grail Presents: Halloween with Higgo at Last Arch on Sat 31 Oct, London. 2 acts on the bill: Higgo and THIRZA. House and Garage. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

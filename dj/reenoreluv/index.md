@@ -1,6 +1,6 @@
 # Reeno Reluv
 
-Reeno Reluv is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Tue, 8 Sept 2026, next at TBA, Vienna on Sat, 12 Sept 2026.
+Reeno Reluv is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Wed, 9 Sept 2026, next at TBA, Vienna on Sat, 12 Sept 2026.
 
 Reeno Reluv is a house and disco artist tracked on soundcheck, with 24 sets logged across Berlin and Vienna. Often billed alongside JP Bechamel, Altroy Jerome and Rumi de Baires. Next up: TBA, Vienna on Sat 12 Sept.
 
@@ -25,4 +25,4 @@ Reeno Reluv is a house and disco artist tracked on soundcheck, with 24 sets logg
 
 JP Bechamel, Altroy Jerome, Rumi de Baires
 
-*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/reenoreluv/)*
+*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/reenoreluv/)*

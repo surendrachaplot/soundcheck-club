@@ -1,6 +1,6 @@
 # Mengzy
 
-Mengzy is a Drum & Bass and Techno artist with 2 upcoming club dates listed on soundcheck as of Tue, 8 Sept 2026, next at The Edge Seoul, Seoul on Sat, 12 Sept 2026.
+Mengzy is a Drum & Bass and Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 9 Sept 2026, next at The Edge Seoul, Seoul on Sat, 12 Sept 2026.
 
 Mengzy is a drum & bass and techno artist tracked on soundcheck, with 38 sets logged across Amsterdam, Hongkong, London and Seoul and 1 more. Often billed alongside Magnetic Soul, JFÜNG and MLCH. Next up: The Edge Seoul, Seoul on Sat 12 Sept.
 
@@ -26,4 +26,4 @@ Mengzy is a drum & bass and techno artist tracked on soundcheck, with 38 sets lo
 
 Magnetic Soul, JFÜNG, MLCH
 
-*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mengzy/)*
+*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mengzy/)*

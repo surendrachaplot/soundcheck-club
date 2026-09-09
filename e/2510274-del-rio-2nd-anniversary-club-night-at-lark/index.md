@@ -1,6 +1,6 @@
 # Delírio 2nd Anniversary - Club Night at Lark
 
-Delírio 2nd Anniversary - Club Night at Lark on Sat 3 Oct, Berlin. 5 acts on the bill: dj latinchat, KALI., NEGRACONDA and sin serif and 1 more. Club. Preview the line-up and save it on soundcheck.
+Delírio 2nd Anniversary - Club Night at Lark on Sat 3 Oct, Berlin. 6 acts on the bill: dj latinchat, KALI., Miss Jay (RO) and NEGRACONDA and 2 more. Bass and Club. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -12,6 +12,7 @@ Delírio 2nd Anniversary - Club Night at Lark on Sat 3 Oct, Berlin. 5 acts on th
 
 - dj latinchat
 - KALI.
+- Miss Jay (RO)
 - NEGRACONDA
 - sin serif
 - Wahsabi

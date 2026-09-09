@@ -1,6 +1,6 @@
 # Gabriola
 
-Gabriola is a Deep House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 8 Sept 2026, next at Hertz, Seoul on Fri, 11 Sept 2026.
+Gabriola is a Deep House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 9 Sept 2026, next at Hertz, Seoul on Fri, 11 Sept 2026.
 
 Gabriola is a deep house and techno artist tracked on soundcheck, with 9 sets logged across Berlin, Copenhagen, London and Madrid and 4 more. Often billed alongside S.O.N.S, A Strange Wedding and Bambi (FR). Next up: Hertz, Seoul on Fri 11 Sept.
 
@@ -25,4 +25,4 @@ Gabriola is a deep house and techno artist tracked on soundcheck, with 9 sets lo
 
 S.O.N.S, A Strange Wedding, Bambi (FR)
 
-*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/gabriola/)*
+*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/gabriola/)*

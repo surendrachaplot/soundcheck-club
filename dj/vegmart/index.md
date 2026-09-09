@@ -1,6 +1,6 @@
 # VEGMART
 
-VEGMART is a Progressive House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 8 Sept 2026, next at Hookah Lounge, Mexico City on Wed, 9 Sept 2026.
+VEGMART is a Progressive House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 9 Sept 2026, next at Hookah Lounge, Mexico City on Wed, 9 Sept 2026.
 
 VEGMART is a progressive house and techno artist tracked on soundcheck, with 20 sets logged across Mexicocity. Often billed alongside Boom Merchant, iluna and Balance. Next up: Hookah Lounge, Mexicocity on Wed 9 Sept.
 
@@ -25,4 +25,4 @@ VEGMART is a progressive house and techno artist tracked on soundcheck, with 20 
 
 Boom Merchant, iluna, Balance
 
-*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/vegmart/)*
+*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/vegmart/)*

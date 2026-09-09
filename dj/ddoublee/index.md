@@ -1,6 +1,6 @@
 # D Double E
 
-D Double E is a Drum & Bass and Garage artist with 1 upcoming club date listed on soundcheck as of Tue, 8 Sept 2026, next at DRUMSHEDS, London on Sat, 17 Oct 2026.
+D Double E is a Drum & Bass and Garage artist with 1 upcoming club date listed on soundcheck as of Wed, 9 Sept 2026, next at DRUMSHEDS, London on Sat, 17 Oct 2026.
 
 D Double E is a drum & bass and garage artist tracked on soundcheck, with 32 sets logged across Brighton, Bristol, Cardiff and Dublin and 8 more. Often billed alongside Sir Spyro, Flava D and P Money. Next up: DRUMSHEDS, London on Sat 17 Oct.
 
@@ -25,4 +25,4 @@ D Double E is a drum & bass and garage artist tracked on soundcheck, with 32 set
 
 Sir Spyro, Flava D, P Money
 
-*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ddoublee/)*
+*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ddoublee/)*

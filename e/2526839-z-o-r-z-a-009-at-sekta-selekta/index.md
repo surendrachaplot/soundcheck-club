@@ -1,6 +1,6 @@
 # ----- Z O R Z A 009 ---- at Sekta Selekta
 
------ Z O R Z A 009 ---- at Sekta Selekta on Fri 11 Sept, Krakow. 2 acts on the bill: Chino and Kondrat. Electro and Minimal. Preview the line-up and save it on soundcheck.
+----- Z O R Z A 009 ---- at Sekta Selekta on Fri 11 Sept, Krakow. 3 acts on the bill: Chino, JESS.mp5 and Kondrat. Electro and Minimal. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,6 +11,7 @@
 ## Line-up
 
 - Chino
+- JESS.mp5
 - Kondrat
 
 *Source: [soundcheck](https://soundcheck.club/e/2526839-z-o-r-z-a-009-at-sekta-selekta/)*

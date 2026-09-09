@@ -1,6 +1,6 @@
 # Aplex
 
-Aplex is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Tue, 8 Sept 2026, next at TBA - Location Link in Bio on Instagram @recollectunderground, Los Angeles on Fri, 25 Sept 2026.
+Aplex is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Wed, 9 Sept 2026, next at TBA - Location Link in Bio on Instagram @recollectunderground, Los Angeles on Fri, 25 Sept 2026.
 
 Aplex is a house and tech house artist based in United States of America, tracked on soundcheck, with 10 sets logged across Losangeles. Often billed alongside Lavenge, Max Rush and BLANC MAMBA. Next up: TBA - Location Link in Bio on Instagram @recollectunderground, Losangeles on Fri 25 Sept.
 
@@ -25,4 +25,4 @@ Aplex is a house and tech house artist based in United States of America, tracke
 
 Lavenge, Max Rush, BLANC MAMBA
 
-*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/aplex/)*
+*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/aplex/)*

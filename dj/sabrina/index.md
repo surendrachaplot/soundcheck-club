@@ -1,6 +1,6 @@
 # Sabrina
 
-Sabrina is a Drum & Bass and Electronica artist with 2 upcoming club dates listed on soundcheck as of Tue, 8 Sept 2026, next at Outernet Live, London on Sat, 26 Sept 2026.
+Sabrina is a Drum & Bass and Electronica artist with 2 upcoming club dates listed on soundcheck as of Wed, 9 Sept 2026, next at Outernet Live, London on Sat, 26 Sept 2026.
 
 Sabrina is a drum & bass and electronica artist tracked on soundcheck, with 32 sets logged across Bali, Barcelona, Berlin and Bristol and 9 more. Often billed alongside Iñigo Vontier, SP:MC and Monrroe. Next up: Outernet Live, London on Sat 26 Sept.
 
@@ -26,4 +26,4 @@ Sabrina is a drum & bass and electronica artist tracked on soundcheck, with 32 s
 
 Iñigo Vontier, SP:MC, Monrroe
 
-*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sabrina/)*
+*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sabrina/)*

@@ -1,13 +1,14 @@
 # Stephen William
 
-Stephen William is a Tech House and House artist with 2 upcoming club dates listed on soundcheck as of Tue, 8 Sept 2026, next at Madam, Amsterdam on Fri, 16 Oct 2026.
+Stephen William is a House and Tech House artist with 3 upcoming club dates listed on soundcheck as of Wed, 9 Sept 2026, next at Panama, Amsterdam on Fri, 25 Sept 2026.
 
-Stephen William is a tech house and house artist tracked on soundcheck, with 18 sets logged across Amsterdam. Often billed alongside andela, Nitefield and ADEZ. Next up: Madam, Amsterdam on Fri 16 Oct.
+Stephen William is a house and tech house artist tracked on soundcheck, with 19 sets logged across Amsterdam. Often billed alongside andela, Nitefield and ADEZ. Next up: Panama, Amsterdam on Fri 25 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 25 Sept 2026 | Panama | Amsterdam |
 | Fri, 16 Oct 2026 | Madam | Amsterdam |
 | Sat, 24 Oct 2026 | Db55 | Amsterdam |
 
@@ -26,4 +27,4 @@ Stephen William is a tech house and house artist tracked on soundcheck, with 18 
 
 andela, Nitefield, ADEZ
 
-*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/stephenwilliam/)*
+*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/stephenwilliam/)*

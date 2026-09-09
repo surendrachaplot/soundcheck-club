@@ -1,6 +1,6 @@
 # The Gardens of Babylon: The Return to Berlin at SAGE
 
-The Gardens of Babylon: The Return to Berlin at SAGE on Sat 12 Sept, Berlin. 9 acts on the bill: Hedda Stenberg, Henrik Schwarz, JANE RYSE and Marvin Jam and 5 more. Preview the line-up and save it on soundcheck.
+The Gardens of Babylon: The Return to Berlin at SAGE on Sat 12 Sept, Berlin. 10 acts on the bill: Deep Ghosh, Hedda Stenberg, Henrik Schwarz and JANE RYSE and 6 more. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ The Gardens of Babylon: The Return to Berlin at SAGE on Sat 12 Sept, Berlin. 9 a
 
 ## Line-up
 
+- Deep Ghosh
 - Hedda Stenberg
 - Henrik Schwarz
 - JANE RYSE

@@ -1,8 +1,8 @@
 # Ali (4)
 
-Ali (4) is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 8 Sept 2026, next at Renate, Berlin on Fri, 11 Sept 2026.
+Ali (4) is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 9 Sept 2026, next at Renate, Berlin on Fri, 11 Sept 2026.
 
-Ali (4) is a house and techno artist based in United Kingdom, tracked on soundcheck, with 16 sets logged across Berlin, Detroit, London and Losangeles and 4 more. Often billed alongside Stev3NN, Sunny (DE) and AGILY. Next up: Renate, Berlin on Fri 11 Sept.
+Ali (4) is a house and techno artist based in United Kingdom, tracked on soundcheck, with 16 sets logged across Berlin, Detroit, London and Losangeles and 4 more. Often billed alongside Stev3NN, Sunny (DE) and AAMIROO. Next up: Renate, Berlin on Fri 11 Sept.
 
 ## Upcoming shows
 
@@ -23,6 +23,6 @@ Ali (4) is a house and techno artist based in United Kingdom, tracked on soundch
 
 ## Shares bills with
 
-Stev3NN, Sunny (DE), AGILY
+Stev3NN, Sunny (DE), AAMIROO
 
-*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ali-4/)*
+*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ali-4/)*

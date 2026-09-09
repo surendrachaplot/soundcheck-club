@@ -1,14 +1,16 @@
 # JØASE
 
-JØASE is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Tue, 8 Sept 2026, next at Yellow House, Amsterdam on Fri, 11 Sept 2026.
+JØASE is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Wed, 9 Sept 2026, next at Yellow House, Amsterdam on Fri, 11 Sept 2026.
 
-JØASE is a house and techno artist based in Netherlands, tracked on soundcheck, with 30 sets logged across Amsterdam, Rotterdam and Thehague. Often billed alongside Kirilski, Sanne Dammers and Ian Storm. Next up: Yellow House, Amsterdam on Fri 11 Sept.
+JØASE is a house and techno artist based in Netherlands, tracked on soundcheck, with 32 sets logged across Amsterdam, Rotterdam and Thehague. Often billed alongside Kirilski, Sanne Dammers and Heritage Listed. Next up: Yellow House, Amsterdam on Fri 11 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 11 Sept 2026 | Yellow House | Amsterdam |
+| Sat, 12 Sept 2026 | Sportpark Riekerhaven | Amsterdam |
+| Fri, 25 Sept 2026 | Panama | Amsterdam |
 | Sun, 25 Oct 2026 | Panama | Amsterdam |
 
 ## Recently played
@@ -24,6 +26,6 @@ JØASE is a house and techno artist based in Netherlands, tracked on soundcheck,
 
 ## Shares bills with
 
-Kirilski, Sanne Dammers, Ian Storm
+Kirilski, Sanne Dammers, Heritage Listed
 
-*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/joase/)*
+*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/joase/)*

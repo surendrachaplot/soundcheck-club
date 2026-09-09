@@ -1,6 +1,6 @@
 # Elena Colombi
 
-Elena Colombi is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Tue, 8 Sept 2026, next at The Lubber Fiend, Newcastle on Thu, 17 Sept 2026.
+Elena Colombi is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Wed, 9 Sept 2026, next at The Lubber Fiend, Newcastle on Thu, 17 Sept 2026.
 
 Elena Colombi is a techno and house artist tracked on soundcheck, with 141 sets logged across Amsterdam, Athens, Barcelona and Belgrade and 44 more. Often billed alongside Lena Willikens, Amelia Holt and Sepehr. Next up: The Lubber Fiend, Newcastle on Thu 17 Sept.
 
@@ -27,4 +27,4 @@ Elena Colombi is a techno and house artist tracked on soundcheck, with 141 sets 
 
 Lena Willikens, Amelia Holt, Sepehr
 
-*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/elenacolombi/)*
+*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/elenacolombi/)*

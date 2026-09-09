@@ -1,8 +1,8 @@
 # Room 2 Glasgow
 
-Room 2 Glasgow is a music venue in Glasgow with 13 upcoming nights listed on soundcheck as of Tue, 8 Sept 2026; the next is "ABRUPT presents LESSSS + more" on Fri, 11 Sept 2026.
+Room 2 Glasgow is a music venue in Glasgow with 14 upcoming nights listed on soundcheck as of Wed, 9 Sept 2026; the next is "ABRUPT presents LESSSS + more" on Fri, 11 Sept 2026.
 
-Room 2 Glasgow is a music venue in Glasgow listed on soundcheck. 13 upcoming nights, with line-ups including Girls of the Internet, Jalo, KIRSTY and LESSSS and 2 more. Browse upcoming dates, start times and who's playing. 69 Nelson Mandela Pl, Glasgow G2 1QY, United Kingdom.
+Room 2 Glasgow is a music venue in Glasgow listed on soundcheck. 14 upcoming nights, with line-ups including Girls of the Internet, Jalo, KIRSTY and LESSSS and 2 more. Browse upcoming dates, start times and who's playing. 69 Nelson Mandela Pl, Glasgow G2 1QY, United Kingdom.
 
 ## What's on
 
@@ -13,14 +13,14 @@ Room 2 Glasgow is a music venue in Glasgow listed on soundcheck. 13 upcoming nig
 | Fri, 18 Sept 2026 | NØXX Presents: INFLICTION x REDHOT | MXWLL |
 | Sat, 19 Sept 2026 | Kitchen Gaff Presents: Mortis, Swanny + Support | TYZM |
 | Sun, 27 Sept 2026 | DISFUNCTION x BOUNCE: Pawlowski | Pawlowski (UK) |
+| Sun, 27 Sept 2026 | Disfunction X Bounce: Pawlowski | Pawlowski |
 | Sat, 3 Oct 2026 | Unbound x Obscura presents: Redbatun & Luwck |  |
 | Sat, 10 Oct 2026 | Havox x Demolition Pres: Anoluxx & Dros b2b Nøvar |  |
 | Fri, 23 Oct 2026 | ABRUPT presents NEEK + more | Neek |
 | Sat, 24 Oct 2026 | Teletech Glasgow: KIRSTY [All Night Long] | KIRSTY |
-| Sat, 24 Oct 2026 | Girls of the Internet (Live) | Girls of the Internet |
 
 ## Address
 
 69 Nelson Mandela Pl, Glasgow G2 1QY, United Kingdom, Glasgow
 
-*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/room-2-glasgow/)*
+*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/room-2-glasgow/)*

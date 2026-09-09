@@ -1,6 +1,6 @@
 # Peacey
 
-Peacey is a Disco and House artist with 1 upcoming club date listed on soundcheck as of Tue, 8 Sept 2026, next at Port of Leith Distillery, Edinburgh on Sat, 12 Sept 2026.
+Peacey is a Disco and House artist with 1 upcoming club date listed on soundcheck as of Wed, 9 Sept 2026, next at Port of Leith Distillery, Edinburgh on Sat, 12 Sept 2026.
 
 Peacey is a disco and house artist tracked on soundcheck, with 3 sets logged across Edinburgh. Often billed alongside Bear Winder, David Elders and Gareth Sommerville. Next up: Port of Leith Distillery, Edinburgh on Sat 12 Sept.
 
@@ -19,4 +19,4 @@ Peacey is a disco and house artist tracked on soundcheck, with 3 sets logged acr
 
 Bear Winder, David Elders, Gareth Sommerville
 
-*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/peacey/)*
+*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/peacey/)*

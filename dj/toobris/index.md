@@ -1,6 +1,6 @@
 # Toobris
 
-Toobris is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Tue, 8 Sept 2026, next at Hidden, Manchester on Sat, 12 Sept 2026.
+Toobris is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Wed, 9 Sept 2026, next at Hidden, Manchester on Sat, 12 Sept 2026.
 
 Toobris is a techno and house artist tracked on soundcheck, with 55 sets logged across Amsterdam, Athens, Barcelona and Berlin and 20 more. Often billed alongside Freddy K, Alarico and Ignez. Next up: Hidden, Manchester on Sat 12 Sept.
 
@@ -30,4 +30,4 @@ Toobris is a techno and house artist tracked on soundcheck, with 55 sets logged 
 
 Freddy K, Alarico, Ignez
 
-*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/toobris/)*
+*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/toobris/)*

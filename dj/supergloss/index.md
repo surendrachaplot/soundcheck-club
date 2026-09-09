@@ -1,6 +1,6 @@
 # Supergloss
 
-Supergloss is a Techno and Trance artist with 13 upcoming club dates listed on soundcheck as of Tue, 8 Sept 2026, next at Avalon Hollywood, Los Angeles on Sat, 12 Sept 2026.
+Supergloss is a Techno and Trance artist with 13 upcoming club dates listed on soundcheck as of Wed, 9 Sept 2026, next at Avalon Hollywood, Los Angeles on Sat, 12 Sept 2026.
 
 Supergloss is a techno and trance artist tracked on soundcheck, with 208 sets logged across Amsterdam, Antwerp, Athens and Austin and 54 more. Often billed alongside Funk Tribu, Omon Breaker and MALUGI. Next up: Avalon Hollywood, Losangeles on Sat 12 Sept.
 
@@ -36,4 +36,4 @@ Supergloss is a techno and trance artist tracked on soundcheck, with 208 sets lo
 
 Funk Tribu, Omon Breaker, MALUGI
 
-*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/supergloss/)*
+*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/supergloss/)*

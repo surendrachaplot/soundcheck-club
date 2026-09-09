@@ -1,6 +1,6 @@
 # ALEXANDER M
 
-ALEXANDER M is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 8 Sept 2026, next at 528 Ibiza, Ibiza on Sun, 27 Sept 2026.
+ALEXANDER M is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 9 Sept 2026, next at 528 Ibiza, Ibiza on Sun, 27 Sept 2026.
 
 ALEXANDER M is a techno and house artist tracked on soundcheck, with 133 sets logged across Barcelona, Ibiza, London and Manchester and 7 more. Often billed alongside Louis Shannon, EIGHT and GReY (1). Next up: 528 Ibiza, Ibiza on Sun 27 Sept.
 
@@ -25,4 +25,4 @@ ALEXANDER M is a techno and house artist tracked on soundcheck, with 133 sets lo
 
 Louis Shannon, EIGHT, GReY (1)
 
-*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/alexanderm/)*
+*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/alexanderm/)*

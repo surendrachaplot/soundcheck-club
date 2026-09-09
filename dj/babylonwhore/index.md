@@ -1,6 +1,6 @@
 # Babylon Whore
 
-Babylon Whore is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Tue, 8 Sept 2026, next at Sala El Sol, Madrid on Wed, 9 Sept 2026.
+Babylon Whore is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Wed, 9 Sept 2026, next at Sala El Sol, Madrid on Wed, 9 Sept 2026.
 
 Babylon Whore is a techno and trance artist based in Spain, tracked on soundcheck, with 51 sets logged across Barcelona, Madrid and Valencia. Often billed alongside Gôtinga, Sister Gotinga and CHEFFF. Next up: Sala El Sol, Madrid on Wed 9 Sept.
 
@@ -25,4 +25,4 @@ Babylon Whore is a techno and trance artist based in Spain, tracked on soundchec
 
 Gôtinga, Sister Gotinga, CHEFFF
 
-*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/babylonwhore/)*
+*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/babylonwhore/)*

@@ -1,6 +1,6 @@
 # TBA - Los Angeles
 
-TBA - Los Angeles is a music venue in Los Angeles with 15 upcoming nights listed on soundcheck as of Tue, 8 Sept 2026; the next is "WORK presents: D.Dan [All Night Long]" on Fri, 11 Sept 2026.
+TBA - Los Angeles is a music venue in Los Angeles with 15 upcoming nights listed on soundcheck as of Wed, 9 Sept 2026; the next is "WORK presents: D.Dan [All Night Long]" on Fri, 11 Sept 2026.
 
 TBA - Los Angeles is a music venue in Losangeles listed on soundcheck. 15 upcoming nights, with line-ups including Adrian Reyes, Anastasia Giovani, Bart Skils and Beste Hira and 2 more. Browse upcoming dates, start times and who's playing.
 
@@ -19,4 +19,4 @@ TBA - Los Angeles is a music venue in Losangeles listed on soundcheck. 15 upcomi
 | Sat, 10 Oct 2026 | WORK presents: DVS1 [4 Hour Set], Mary Yuzovskaya, & Pleasures | DVS1, Mary Yuzovskaya, PLEASURES (US) |
 | Fri, 16 Oct 2026 | Emanate - Twisted Tour (Open To Close) | Emanate |
 
-*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/tba-los-angeles/)*
+*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/tba-los-angeles/)*

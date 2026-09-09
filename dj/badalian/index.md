@@ -1,14 +1,15 @@
 # Badalian
 
-Badalian is a Techno and Electro artist with 2 upcoming club dates listed on soundcheck as of Tue, 8 Sept 2026, next at Sekta Selekta, Krakow on Thu, 10 Sept 2026.
+Badalian is a Techno and Electro artist with 3 upcoming club dates listed on soundcheck as of Wed, 9 Sept 2026, next at Sekta Selekta, Krakow on Thu, 10 Sept 2026.
 
-Badalian is a techno and electro artist based in Poland, tracked on soundcheck, with 130 sets logged across Berlin, Krakow, Prague and Tbilisi and 1 more. Often billed alongside Kondrat, Meke and Nadezh No. Next up: Sekta Selekta, Krakow on Thu 10 Sept.
+Badalian is a techno and electro artist based in Poland, tracked on soundcheck, with 131 sets logged across Berlin, Krakow, Prague and Tbilisi and 1 more. Often billed alongside Kondrat, Meke and Nadezh No. Next up: Sekta Selekta, Krakow on Thu 10 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Thu, 10 Sept 2026 | Sekta Selekta | Krakow |
+| Sat, 12 Sept 2026 | B-SIDE | Warsaw |
 | Fri, 2 Oct 2026 | Wesola Immersive | Krakow |
 
 ## Recently played
@@ -26,4 +27,4 @@ Badalian is a techno and electro artist based in Poland, tracked on soundcheck, 
 
 Kondrat, Meke, Nadezh No
 
-*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/badalian/)*
+*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/badalian/)*

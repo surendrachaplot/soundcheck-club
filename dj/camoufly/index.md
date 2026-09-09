@@ -1,8 +1,8 @@
 # camoufly
 
-camoufly is a House and Garage artist with 6 upcoming club dates listed on soundcheck as of Tue, 8 Sept 2026, next at Night We Met, Nashville on Sat, 19 Sept 2026.
+camoufly is a House and Garage artist with 7 upcoming club dates listed on soundcheck as of Wed, 9 Sept 2026, next at Night We Met, Nashville on Sat, 19 Sept 2026.
 
-camoufly is a house and garage artist based in Italy, tracked on soundcheck, with 55 sets logged across Amsterdam, Auckland, Barcelona and Berlin and 24 more. Often billed alongside Oppidan, ATRIP and Arthi. Next up: Night We Met, Nashville on Sat 19 Sept.
+camoufly is a house and garage artist based in Italy, tracked on soundcheck, with 56 sets logged across Amsterdam, Auckland, Barcelona and Berlin and 24 more. Often billed alongside Oppidan, ATRIP and Arthi. Next up: Night We Met, Nashville on Sat 19 Sept.
 
 ## Upcoming shows
 
@@ -14,6 +14,7 @@ camoufly is a house and garage artist based in Italy, tracked on soundcheck, wit
 | Fri, 23 Oct 2026 | Basement (Amsterdam) | Amsterdam |
 | Sat, 24 Oct 2026 | Levenslang Amsterdam | Amsterdam |
 | Fri, 30 Oct 2026 | Factory Town | Miami |
+| Fri, 27 Nov 2026 | Colour Factory | London |
 
 ## Recently played
 
@@ -30,4 +31,4 @@ camoufly is a house and garage artist based in Italy, tracked on soundcheck, wit
 
 Oppidan, ATRIP, Arthi
 
-*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/camoufly/)*
+*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/camoufly/)*

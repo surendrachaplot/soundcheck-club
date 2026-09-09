@@ -1,6 +1,6 @@
 # DJ Sarah
 
-DJ Sarah is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 8 Sept 2026, next at Solace, Melbourne on Thu, 24 Sept 2026.
+DJ Sarah is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 9 Sept 2026, next at Solace, Melbourne on Thu, 24 Sept 2026.
 
 DJ Sarah is a house and techno artist tracked on soundcheck, with 15 sets logged across Berlin, Melbourne and Sydney. Often billed alongside Acid Safari, Georgia Bird and JOVE. Next up: Solace, Melbourne on Thu 24 Sept.
 
@@ -25,4 +25,4 @@ DJ Sarah is a house and techno artist tracked on soundcheck, with 15 sets logged
 
 Acid Safari, Georgia Bird, JOVE
 
-*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djsarah/)*
+*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djsarah/)*

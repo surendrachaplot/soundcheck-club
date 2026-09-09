@@ -1,6 +1,6 @@
 # Fréquence Paris
 
-Fréquence Paris is a music venue in Paris with 1 upcoming night listed on soundcheck as of Tue, 8 Sept 2026; the next is "25 Years of Cafe 1001 On Tour - Frequence, Paris" on Fri, 4 Dec 2026.
+Fréquence Paris is a music venue in Paris with 1 upcoming night listed on soundcheck as of Wed, 9 Sept 2026; the next is "25 Years of Cafe 1001 On Tour - Frequence, Paris" on Fri, 4 Dec 2026.
 
 Fréquence Paris is a music venue in Paris listed on soundcheck. 1 upcoming night, with line-ups including ell.iot. Browse upcoming dates, start times and who's playing. 20 rue Keller 75011 Paris.
 
@@ -14,4 +14,4 @@ Fréquence Paris is a music venue in Paris listed on soundcheck. 1 upcoming nigh
 
 20 rue Keller 75011 Paris, Paris
 
-*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/paris/club/fr-quence-paris/)*
+*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/paris/club/fr-quence-paris/)*

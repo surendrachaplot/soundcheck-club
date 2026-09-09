@@ -1,6 +1,6 @@
 # ESVEAE
 
-ESVEAE is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 8 Sept 2026, next at Œlgarten, Berlin on Sun, 13 Sept 2026.
+ESVEAE is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 9 Sept 2026, next at Œlgarten, Berlin on Sun, 13 Sept 2026.
 
 ESVEAE is a techno and house artist based in Germany, tracked on soundcheck, with 32 sets logged across Amsterdam, Berlin, Munich and Tbilisi and 1 more. Often billed alongside Barmus, Erta Ale and Human Trax. Next up: Œlgarten, Berlin on Sun 13 Sept.
 
@@ -25,4 +25,4 @@ ESVEAE is a techno and house artist based in Germany, tracked on soundcheck, wit
 
 Barmus, Erta Ale, Human Trax
 
-*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/esveae/)*
+*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/esveae/)*

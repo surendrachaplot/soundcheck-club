@@ -1,8 +1,8 @@
 # The Fox and Firkin
 
-The Fox and Firkin is a music venue in London with 18 upcoming nights listed on soundcheck as of Tue, 8 Sept 2026; the next is "Club Glow Takeover: Yas Reven, Henry Greenleaf, LMajor b2b.Mani Festo, Mak & Pasteman, " on Fri, 11 Sept 2026.
+The Fox and Firkin is a music venue in London with 21 upcoming nights listed on soundcheck as of Wed, 9 Sept 2026; the next is "Club Glow Takeover: Yas Reven, Henry Greenleaf, LMajor b2b.Mani Festo, Mak & Pasteman, " on Fri, 11 Sept 2026.
 
-The Fox and Firkin is a music venue in London listed on soundcheck. 18 upcoming nights, with line-ups including Aroop Roy, Breaka, Case (2) and Charlie Bones and 2 more. Browse upcoming dates, start times and who's playing. 316 Lewisham High Street London SE136JZ.
+The Fox and Firkin is a music venue in London listed on soundcheck. 21 upcoming nights, with line-ups including Aroop Roy, Breaka, Case (2) and Charlie Bones and 2 more. Browse upcoming dates, start times and who's playing. 316 Lewisham High Street London SE136JZ.
 
 ## What's on
 
@@ -23,4 +23,4 @@ The Fox and Firkin is a music venue in London listed on soundcheck. 18 upcoming 
 
 316 Lewisham High Street London SE136JZ, London
 
-*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/the-fox-and-firkin/)*
+*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/the-fox-and-firkin/)*

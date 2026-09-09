@@ -1,6 +1,6 @@
 # Marie Mackerschreck
 
-Marie Mackerschreck is a Downtempo and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 8 Sept 2026, next at Südpol, Hamburg on Fri, 18 Sept 2026.
+Marie Mackerschreck is a Downtempo and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 9 Sept 2026, next at Südpol, Hamburg on Fri, 18 Sept 2026.
 
 Marie Mackerschreck is a downtempo and techno artist based in Germany, tracked on soundcheck, with 4 sets logged across Hamburg and Nurnberg. Often billed alongside 50PHIE, ARWEN and Aii PS. Next up: Südpol, Hamburg on Fri 18 Sept.
 
@@ -20,4 +20,4 @@ Marie Mackerschreck is a downtempo and techno artist based in Germany, tracked o
 
 50PHIE, ARWEN, Aii PS
 
-*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mariemackerschreck/)*
+*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mariemackerschreck/)*

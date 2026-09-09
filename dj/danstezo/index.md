@@ -1,6 +1,6 @@
 # Dan Stezo
 
-Dan Stezo is a Drum & Bass and Jungle artist with 1 upcoming club date listed on soundcheck as of Tue, 8 Sept 2026, next at RASA, Singapore on Sat, 3 Oct 2026.
+Dan Stezo is a Drum & Bass and Jungle artist with 1 upcoming club date listed on soundcheck as of Wed, 9 Sept 2026, next at RASA, Singapore on Sat, 3 Oct 2026.
 
 Dan Stezo is a drum & bass and jungle artist tracked on soundcheck, with 18 sets logged across Hongkong, London, Shenzhen and Singapore and 1 more. Often billed alongside Magnetic Soul, Goldie and Immuno. Next up: RASA, Singapore on Sat 3 Oct.
 
@@ -25,4 +25,4 @@ Dan Stezo is a drum & bass and jungle artist tracked on soundcheck, with 18 sets
 
 Magnetic Soul, Goldie, Immuno
 
-*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/danstezo/)*
+*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/danstezo/)*

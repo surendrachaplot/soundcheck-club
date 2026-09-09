@@ -1,14 +1,15 @@
 # Djolee
 
-Djolee is a Progressive House and House artist with 1 upcoming club date listed on soundcheck as of Tue, 8 Sept 2026, next at Sunseabar Beach Club, Barcelona on Thu, 10 Sept 2026.
+Djolee is a Progressive House and House artist with 2 upcoming club dates listed on soundcheck as of Wed, 9 Sept 2026, next at Sunseabar Beach Club, Barcelona on Thu, 10 Sept 2026.
 
-Djolee is a progressive house and house artist tracked on soundcheck, with 65 sets logged across Amsterdam, Barcelona, Berlin and Copenhagen and 4 more. Often billed alongside Amadori, Gespona and Martin Cozar. Next up: Sunseabar Beach Club, Barcelona on Thu 10 Sept.
+Djolee is a progressive house and house artist tracked on soundcheck, with 66 sets logged across Amsterdam, Barcelona, Berlin and Copenhagen and 4 more. Often billed alongside Amadori, Gespona and Martin Cozar. Next up: Sunseabar Beach Club, Barcelona on Thu 10 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Thu, 10 Sept 2026 | Sunseabar Beach Club | Barcelona |
+| Thu, 22 Oct 2026 | Noorderlicht Café | Amsterdam |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Djolee is a progressive house and house artist tracked on soundcheck, with 65 se
 
 Amadori, Gespona, Martin Cozar
 
-*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djolee/)*
+*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djolee/)*

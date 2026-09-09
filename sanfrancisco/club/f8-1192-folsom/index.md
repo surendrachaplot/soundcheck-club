@@ -1,14 +1,13 @@
 # F8 1192 Folsom
 
-F8 1192 Folsom is a music venue in San Francisco/Oakland with 18 upcoming nights listed on soundcheck as of Tue, 8 Sept 2026; the next is "INTERZONE - Darkwave Tuesdays - Guest DJs Spells & Demonia" on Tue, 8 Sept 2026.
+F8 1192 Folsom is a music venue in San Francisco/Oakland with 17 upcoming nights listed on soundcheck as of Wed, 9 Sept 2026; the next is "Run it Back September Edition" on Wed, 9 Sept 2026.
 
-F8 1192 Folsom is a music venue in Sanfrancisco listed on soundcheck. 18 upcoming nights, with line-ups including Amino, ANCARCO, bastiengoat and Bored Lord and 2 more. Browse upcoming dates, start times and who's playing. 1192 Folsom St, San Francisco, CA 94103.
+F8 1192 Folsom is a music venue in Sanfrancisco listed on soundcheck. 17 upcoming nights, with line-ups including Amino, ANCARCO, bastiengoat and Bored Lord and 2 more. Browse upcoming dates, start times and who's playing. 1192 Folsom St, San Francisco, CA 94103.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Tue, 8 Sept 2026 | INTERZONE - Darkwave Tuesdays - Guest DJs Spells & Demonia | Hex Embrace |
 | Wed, 9 Sept 2026 | Run it Back September Edition | DJ Parrot |
 | Thu, 10 Sept 2026 | Teego presents Afro Thursdays | ANCARCO, MONĪ |
 | Fri, 11 Sept 2026 | MOMENTUM PRESENTS: 2SIINZ | Byrd, SNAQ |
@@ -18,9 +17,10 @@ F8 1192 Folsom is a music venue in Sanfrancisco listed on soundcheck. 18 upcomin
 | Sat, 19 Sept 2026 | Generaiderz X LOTEK: HARDCORE! LEXXY JAX, FORTIFIED STRUCTURES, KIMMYKAT | Dope On Plastic, FortifiedStructures, Lexxy Jax, Queermom, Soeneido, Technopagan |
 | Tue, 22 Sept 2026 | INTERZONE - Cyber Night - DJs KAJE, Hopelesss & Byter | Byter, Hopelesss, KAJE |
 | Wed, 23 Sept 2026 | Strut SF and F8 present Tara Brooks | Tara Brooks |
+| Tue, 29 Sept 2026 | INTERZONE - Darkwave Tuesdays w/Resident DJs Hex Embrace and Rafael Fierro | Hex Embrace |
 
 ## Address
 
 1192 Folsom St, San Francisco, CA 94103, San Francisco/Oakland
 
-*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/f8-1192-folsom/)*
+*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/f8-1192-folsom/)*

@@ -1,6 +1,6 @@
 # funkin donut
 
-funkin donut is a Afrobeat and Disco artist with 1 upcoming club date listed on soundcheck as of Tue, 8 Sept 2026, next at Honey's, New York City on Fri, 11 Sept 2026.
+funkin donut is a Afrobeat and Disco artist with 1 upcoming club date listed on soundcheck as of Wed, 9 Sept 2026, next at Honey's, New York City on Fri, 11 Sept 2026.
 
 funkin donut is an afrobeat and disco artist tracked on soundcheck, with 11 sets logged across Newyorkcity. Often billed alongside vikmatic, ራሄል (Rachel) and Arjun Shah. Next up: Honey's, Newyorkcity on Fri 11 Sept.
 
@@ -25,4 +25,4 @@ funkin donut is an afrobeat and disco artist tracked on soundcheck, with 11 sets
 
 vikmatic, ራሄል (Rachel), Arjun Shah
 
-*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/funkindonut/)*
+*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/funkindonut/)*

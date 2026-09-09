@@ -1,6 +1,6 @@
 # Nils Ohrmann
 
-Nils Ohrmann is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 8 Sept 2026, next at Tausend, Berlin on Sat, 12 Sept 2026.
+Nils Ohrmann is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 9 Sept 2026, next at Tausend, Berlin on Sat, 12 Sept 2026.
 
 Nils Ohrmann is a house and techno artist based in Germany, tracked on soundcheck, with 89 sets logged across Berlin and Hamburg. Often billed alongside Edgar Peng, Sqim and Dompe. Next up: Tausend, Berlin on Sat 12 Sept.
 
@@ -25,4 +25,4 @@ Nils Ohrmann is a house and techno artist based in Germany, tracked on soundchec
 
 Edgar Peng, Sqim, Dompe
 
-*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nilsohrmann/)*
+*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nilsohrmann/)*

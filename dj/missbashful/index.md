@@ -1,6 +1,6 @@
 # Miss Bashful
 
-Miss Bashful is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Tue, 8 Sept 2026, next at Depot Mayfield, Manchester on Sat, 26 Sept 2026.
+Miss Bashful is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Wed, 9 Sept 2026, next at Depot Mayfield, Manchester on Sat, 26 Sept 2026.
 
 Miss Bashful is a techno and house artist tracked on soundcheck, with 97 sets logged across Amsterdam, Antwerp, Barcelona and Berlin and 35 more. Often billed alongside DBBD, Miss Bashful x DBBD and MCR-T. Next up: Depot Mayfield, Manchester on Sat 26 Sept.
 
@@ -28,4 +28,4 @@ Miss Bashful is a techno and house artist tracked on soundcheck, with 97 sets lo
 
 DBBD, Miss Bashful x DBBD, MCR-T
 
-*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/missbashful/)*
+*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/missbashful/)*

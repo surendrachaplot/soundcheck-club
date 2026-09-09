@@ -1,6 +1,6 @@
 # Modo Alto
 
-Modo Alto is a electronic artist with 1 upcoming club date listed on soundcheck as of Tue, 8 Sept 2026, next at Salon des Amateurs, Düsseldorf on Sat, 19 Sept 2026.
+Modo Alto is a electronic artist with 1 upcoming club date listed on soundcheck as of Wed, 9 Sept 2026, next at Salon des Amateurs, Düsseldorf on Sat, 19 Sept 2026.
 
 Modo Alto is an electronic artist tracked on soundcheck, with 3 sets logged across Dusseldorf and Frankfurt. Often billed alongside Martin Heimann, Aprill and Olivia. Next up: Salon des Amateurs, Dusseldorf on Sat 19 Sept.
 
@@ -19,4 +19,4 @@ Modo Alto is an electronic artist tracked on soundcheck, with 3 sets logged acro
 
 Martin Heimann, Aprill, Olivia
 
-*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/modoalto/)*
+*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/modoalto/)*

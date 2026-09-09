@@ -1,6 +1,6 @@
 # Genys
 
-Genys is a Electronica and Jazz artist with 1 upcoming club date listed on soundcheck as of Tue, 8 Sept 2026, next at Panke, Berlin on Sun, 13 Sept 2026.
+Genys is a Electronica and Jazz artist with 1 upcoming club date listed on soundcheck as of Wed, 9 Sept 2026, next at Panke, Berlin on Sun, 13 Sept 2026.
 
 Genys is an electronica and jazz artist tracked on soundcheck, with 3 sets logged across Berlin. Often billed alongside DJ mndwzrd, Debmaster and Dj Quien. Next up: Panke, Berlin on Sun 13 Sept.
 
@@ -19,4 +19,4 @@ Genys is an electronica and jazz artist tracked on soundcheck, with 3 sets logge
 
 DJ mndwzrd, Debmaster, Dj Quien
 
-*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/genys/)*
+*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/genys/)*

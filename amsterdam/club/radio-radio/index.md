@@ -1,6 +1,6 @@
 # Radio Radio
 
-Radio Radio is a music venue in Amsterdam with 9 upcoming nights listed on soundcheck as of Tue, 8 Sept 2026; the next is "Radio Radio 8Y Anniversary" on Fri, 11 Sept 2026.
+Radio Radio is a music venue in Amsterdam with 9 upcoming nights listed on soundcheck as of Wed, 9 Sept 2026; the next is "Radio Radio 8Y Anniversary" on Fri, 11 Sept 2026.
 
 Radio Radio is a music venue in Amsterdam listed on soundcheck. 9 upcoming nights, with line-ups including Aldonna, Bennet (DE), Benny Rodrigues and Berkan V8 and 2 more. Browse upcoming dates, start times and who's playing. Pazzanistraat 3.
 
@@ -22,4 +22,4 @@ Radio Radio is a music venue in Amsterdam listed on soundcheck. 9 upcoming night
 
 Pazzanistraat 3, Amsterdam
 
-*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/radio-radio/)*
+*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/radio-radio/)*

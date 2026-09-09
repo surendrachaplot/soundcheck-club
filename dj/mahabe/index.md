@@ -1,6 +1,6 @@
 # Mahabe
 
-Mahabe is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Tue, 8 Sept 2026, next at Openluchttheater Amersfoort, Amsterdam on Fri, 18 Sept 2026.
+Mahabe is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 9 Sept 2026, next at Openluchttheater Amersfoort, Amsterdam on Fri, 18 Sept 2026.
 
 Mahabe is a house and techno artist tracked on soundcheck, with 32 sets logged across Amsterdam, Rotterdam and Utrecht. Often billed alongside Bastienne, TAFKAMP and Mauro Moreno. Next up: Openluchttheater Amersfoort, Amsterdam on Fri 18 Sept.
 
@@ -26,4 +26,4 @@ Mahabe is a house and techno artist tracked on soundcheck, with 32 sets logged a
 
 Bastienne, TAFKAMP, Mauro Moreno
 
-*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mahabe/)*
+*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mahabe/)*

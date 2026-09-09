@@ -1,6 +1,6 @@
 # Amal
 
-Amal is a Club and House artist with 1 upcoming club date listed on soundcheck as of Tue, 8 Sept 2026, next at Elsewhere, New York City on Sat, 19 Sept 2026.
+Amal is a Club and House artist with 1 upcoming club date listed on soundcheck as of Wed, 9 Sept 2026, next at Elsewhere, New York City on Sat, 19 Sept 2026.
 
 Amal is a club and house artist based in United States of America, tracked on soundcheck, with 61 sets logged across Amsterdam, Austin, Berlin and Chicago and 9 more. Often billed alongside Nativesun, Black Rave Culture and Amal (US). Next up: Elsewhere, Newyorkcity on Sat 19 Sept.
 
@@ -25,4 +25,4 @@ Amal is a club and house artist based in United States of America, tracked on so
 
 Nativesun, Black Rave Culture, Amal (US)
 
-*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/amal/)*
+*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/amal/)*

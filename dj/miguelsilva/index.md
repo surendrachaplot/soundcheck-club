@@ -1,14 +1,15 @@
 # Miguel Silva
 
-Miguel Silva is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 8 Sept 2026, next at Almar Beach Club, Barcelona on Fri, 11 Sept 2026.
+Miguel Silva is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Wed, 9 Sept 2026, next at Almar Beach Club, Barcelona on Fri, 11 Sept 2026.
 
-Miguel Silva is a techno and house artist based in Chile, tracked on soundcheck, with 116 sets logged across Barcelona, Berlin, Bucharest and Ibiza and 4 more. Often billed alongside Elwei, Popsky and Djoan. Next up: Almar Beach Club, Barcelona on Fri 11 Sept.
+Miguel Silva is a techno and house artist based in Chile, tracked on soundcheck, with 117 sets logged across Barcelona, Berlin, Bucharest and Ibiza and 4 more. Often billed alongside Elwei, Popsky and Djoan. Next up: Almar Beach Club, Barcelona on Fri 11 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 11 Sept 2026 | Almar Beach Club | Barcelona |
+| Thu, 24 Sept 2026 | City Hall | Barcelona |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Miguel Silva is a techno and house artist based in Chile, tracked on soundcheck,
 
 Elwei, Popsky, Djoan
 
-*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/miguelsilva/)*
+*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/miguelsilva/)*

@@ -1,6 +1,6 @@
 # Rubén Baiz
 
-Rubén Baiz is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 8 Sept 2026, next at Fortune of War, Brighton on Sat, 12 Sept 2026.
+Rubén Baiz is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 9 Sept 2026, next at Fortune of War, Brighton on Sat, 12 Sept 2026.
 
 Rubén Baiz is a house and techno artist tracked on soundcheck, with 14 sets logged across Brighton, Ibiza and London. Often billed alongside Oliver Molina, Berna and ALISHA. Next up: Fortune of War, Brighton on Sat 12 Sept.
 
@@ -25,4 +25,4 @@ Rubén Baiz is a house and techno artist tracked on soundcheck, with 14 sets log
 
 Oliver Molina, Berna, ALISHA
 
-*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/rubenbaiz/)*
+*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/rubenbaiz/)*

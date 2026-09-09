@@ -1,6 +1,6 @@
 # N-Ground
 
-N-Ground is a House and Electronica artist with 1 upcoming club date listed on soundcheck as of Tue, 8 Sept 2026, next at Two Tribes CAMPFIRE, London on Sat, 12 Sept 2026.
+N-Ground is a House and Electronica artist with 1 upcoming club date listed on soundcheck as of Wed, 9 Sept 2026, next at Two Tribes CAMPFIRE, London on Sat, 12 Sept 2026.
 
 N-Ground is a house and electronica artist tracked on soundcheck, with 6 sets logged across London. Often billed alongside Rez Alberto Rettore, AALEX and AVANTIME. Next up: Two Tribes CAMPFIRE, London on Sat 12 Sept.
 
@@ -22,4 +22,4 @@ N-Ground is a house and electronica artist tracked on soundcheck, with 6 sets lo
 
 Rez Alberto Rettore, AALEX, AVANTIME
 
-*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/n-ground/)*
+*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/n-ground/)*

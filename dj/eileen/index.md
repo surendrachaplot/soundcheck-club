@@ -1,14 +1,15 @@
 # Eileen
 
-Eileen is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 8 Sept 2026, next at Openluchttheater Amersfoort, Amsterdam on Fri, 18 Sept 2026.
+Eileen is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 9 Sept 2026, next at Openluchttheater Amersfoort, Amsterdam on Fri, 18 Sept 2026.
 
-Eileen is a house and techno artist based in Germany, tracked on soundcheck, with 14 sets logged across Amsterdam, Cologne and Frankfurt. Often billed alongside ALISHA, AUHAM and Admo. Next up: Openluchttheater Amersfoort, Amsterdam on Fri 18 Sept.
+Eileen is a house and techno artist based in Germany, tracked on soundcheck, with 15 sets logged across Amsterdam, Cologne and Frankfurt. Often billed alongside Benny2, ALISHA and AUHAM. Next up: Openluchttheater Amersfoort, Amsterdam on Fri 18 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 18 Sept 2026 | Openluchttheater Amersfoort | Amsterdam |
+| Thu, 22 Oct 2026 | SISSI'S Amsterdam | Amsterdam |
 
 ## Recently played
 
@@ -23,6 +24,6 @@ Eileen is a house and techno artist based in Germany, tracked on soundcheck, wit
 
 ## Shares bills with
 
-ALISHA, AUHAM, Admo
+Benny2, ALISHA, AUHAM
 
-*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/eileen/)*
+*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/eileen/)*

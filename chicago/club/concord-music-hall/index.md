@@ -1,6 +1,6 @@
 # Concord Music Hall
 
-Concord Music Hall is a music venue in Chicago with 14 upcoming nights listed on soundcheck as of Tue, 8 Sept 2026; the next is "VIRTUAL RIOT x BLANKE" on Fri, 25 Sept 2026.
+Concord Music Hall is a music venue in Chicago with 14 upcoming nights listed on soundcheck as of Wed, 9 Sept 2026; the next is "VIRTUAL RIOT x BLANKE" on Fri, 25 Sept 2026.
 
 Concord Music Hall is a music venue in Chicago listed on soundcheck. 14 upcoming nights, with line-ups including Baby J (2), ØTTA and Truth. Browse upcoming dates, start times and who's playing. 2047 N Milwaukee Ave,  Chicago, IL 60647.
 
@@ -23,4 +23,4 @@ Concord Music Hall is a music venue in Chicago listed on soundcheck. 14 upcoming
 
 2047 N Milwaukee Ave,  Chicago, IL 60647, Chicago
 
-*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/chicago/club/concord-music-hall/)*
+*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/chicago/club/concord-music-hall/)*

@@ -1,6 +1,6 @@
 # Gioski
 
-Gioski is a Techno and Acid artist with 1 upcoming club date listed on soundcheck as of Tue, 8 Sept 2026, next at Raedli, Zurich on Fri, 18 Sept 2026.
+Gioski is a Techno and Acid artist with 1 upcoming club date listed on soundcheck as of Wed, 9 Sept 2026, next at Raedli, Zurich on Fri, 18 Sept 2026.
 
 Gioski is a techno and acid artist tracked on soundcheck, with 61 sets logged across Basel, Berlin, Geneva and Zurich. Often billed alongside Pooja B, Alex Nantaya and Frankie Flowerz. Next up: Raedli, Zurich on Fri 18 Sept.
 
@@ -25,4 +25,4 @@ Gioski is a techno and acid artist tracked on soundcheck, with 61 sets logged ac
 
 Pooja B, Alex Nantaya, Frankie Flowerz
 
-*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/gioski/)*
+*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/gioski/)*

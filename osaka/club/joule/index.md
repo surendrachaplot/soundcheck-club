@@ -1,8 +1,8 @@
 # Joule
 
-Joule is a music venue in Osaka with 4 upcoming nights listed on soundcheck as of Tue, 8 Sept 2026; the next is "MIDWEEK GROOVE -TECHNO NIGHT EVERY WEDNESDAY-" on Wed, 9 Sept 2026.
+Joule is a music venue in Osaka with 5 upcoming nights listed on soundcheck as of Wed, 9 Sept 2026; the next is "MIDWEEK GROOVE -TECHNO NIGHT EVERY WEDNESDAY-" on Wed, 9 Sept 2026.
 
-Joule is a music venue in Osaka listed on soundcheck. 4 upcoming nights, with line-ups including ALESSA(JP), Drunken Kong, MARIHO and Nao Nomura and 2 more. Browse upcoming dates, start times and who's playing. 2-11-7 Nishi-Shinsaibashi, Chuo-Ku, Osaka-shi, 542-0086 Japan.
+Joule is a music venue in Osaka listed on soundcheck. 5 upcoming nights, with line-ups including ALESSA(JP), Drunken Kong, MARIHO and Nao Nomura and 2 more. Browse upcoming dates, start times and who's playing. 2-11-7 Nishi-Shinsaibashi, Chuo-Ku, Osaka-shi, 542-0086 Japan.
 
 ## What's on
 
@@ -11,10 +11,11 @@ Joule is a music venue in Osaka listed on soundcheck. 4 upcoming nights, with li
 | Wed, 9 Sept 2026 | MIDWEEK GROOVE -TECHNO NIGHT EVERY WEDNESDAY- | ALESSA(JP), O-MAN |
 | Fri, 11 Sept 2026 | Awesome 4th Party |  |
 | Sat, 12 Sept 2026 | INTENTION OSAKA | Drunken Kong, MARIHO, NOBUYA (2), Nao Nomura, O-MAN, RICHKID, Satoshi Tanaka, YOKO aka LAiR, yu-more |
+| Fri, 18 Sept 2026 | AvA 1st Anniversary |  |
 | Sat, 19 Sept 2026 | GOODLIFE feat. Rebekah | O-MAN, Rebekah |
 
 ## Address
 
 2-11-7 Nishi-Shinsaibashi, Chuo-Ku, Osaka-shi, 542-0086 Japan, Osaka
 
-*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/osaka/club/joule/)*
+*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/osaka/club/joule/)*

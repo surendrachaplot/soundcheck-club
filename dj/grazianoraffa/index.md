@@ -1,14 +1,15 @@
 # Graziano Raffa
 
-Graziano Raffa is a Progressive House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 8 Sept 2026, next at Veronica Schip, Amsterdam on Thu, 22 Oct 2026.
+Graziano Raffa is a Progressive House and Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 9 Sept 2026, next at Veronica Schip, Amsterdam on Thu, 22 Oct 2026.
 
-Graziano Raffa is a progressive house and techno artist tracked on soundcheck, with 27 sets logged across Amsterdam, Barcelona, Brisbane and Buenosaires and 6 more. Often billed alongside Hernan Cattaneo, Danny Howells and Simply City. Next up: Veronica Schip, Amsterdam on Thu 22 Oct.
+Graziano Raffa is a progressive house and techno artist tracked on soundcheck, with 28 sets logged across Amsterdam, Barcelona, Brisbane and Buenosaires and 6 more. Often billed alongside Hernan Cattaneo, Danny Howells and Simply City. Next up: Veronica Schip, Amsterdam on Thu 22 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Thu, 22 Oct 2026 | Veronica Schip | Amsterdam |
+| Sat, 24 Oct 2026 | Bikini Club | Barcelona |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Graziano Raffa is a progressive house and techno artist tracked on soundcheck, w
 
 Hernan Cattaneo, Danny Howells, Simply City
 
-*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/grazianoraffa/)*
+*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/grazianoraffa/)*

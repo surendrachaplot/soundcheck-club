@@ -1,6 +1,6 @@
 # 403 (DE)
 
-403 (DE) is a Tech House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 8 Sept 2026, next at TBA - telegram @klangsubstanz, Berlin on Sat, 10 Oct 2026.
+403 (DE) is a Tech House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 9 Sept 2026, next at TBA - telegram @klangsubstanz, Berlin on Sat, 10 Oct 2026.
 
 403 (DE) is a tech house and techno artist tracked on soundcheck, with 3 sets logged across Berlin. Often billed alongside DJ Paradox, AHAB and ATIKIN. Next up: TBA - telegram @klangsubstanz, Berlin on Sat 10 Oct.
 
@@ -19,4 +19,4 @@
 
 DJ Paradox, AHAB, ATIKIN
 
-*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/403de/)*
+*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/403de/)*
