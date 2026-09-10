@@ -1,6 +1,6 @@
-# Chris Stassy presents USS (Manchester) at Aviva Studios
+# CHRIS STASSY presents USS (Manchester) at Aviva Studios
 
-Chris Stassy presents USS (Manchester) at Aviva Studios on Sat 10 Oct, Manchester. Preview the line-up and save it on soundcheck.
+CHRIS STASSY presents USS (Manchester) at Aviva Studios on Sat 10 Oct, Manchester. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

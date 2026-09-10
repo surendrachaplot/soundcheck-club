@@ -1,15 +1,13 @@
 # Motel Campo
 
-Motel Campo is a music venue in Geneva with 4 upcoming nights listed on soundcheck as of Wed, 9 Sept 2026; the next is "Motel ✰ Wamheda, DJAGACIDA, P Nasty & Kay Rubenz" on Wed, 9 Sept 2026.
+Motel Campo is a music venue in Geneva with 2 upcoming nights listed on soundcheck as of Thu, 10 Sept 2026; the next is "Motel ✰ ORFIGYAL" on Sat, 12 Sept 2026.
 
-Motel Campo is a music venue in Geneva listed on soundcheck. 4 upcoming nights, with line-ups including Deetron, Hirma and ORFIGYAL. Browse upcoming dates, start times and who's playing. Route des Jeunes 13; Carouge, 1227, Geneva, Switzerland.
+Motel Campo is a music venue in Geneva listed on soundcheck. 2 upcoming nights, with line-ups including Deetron, Hirma and ORFIGYAL. Browse upcoming dates, start times and who's playing. Route des Jeunes 13; Carouge, 1227, Geneva, Switzerland.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Wed, 9 Sept 2026 | Motel ✰ Wamheda, DJAGACIDA, P Nasty & Kay Rubenz |  |
-| Wed, 9 Sept 2026 | Motel ✰ Wamheda, P Nasty, DJAGACIDA & Kay Rubenz |  |
 | Sat, 12 Sept 2026 | Motel ✰ ORFIGYAL | Hirma, ORFIGYAL |
 | Sat, 19 Sept 2026 | Motel ✰ Deetron | Deetron |
 
@@ -17,4 +15,4 @@ Motel Campo is a music venue in Geneva listed on soundcheck. 4 upcoming nights, 
 
 Route des Jeunes 13; Carouge, 1227, Geneva, Switzerland, Geneva
 
-*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/geneva/club/motel-campo/)*
+*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/geneva/club/motel-campo/)*

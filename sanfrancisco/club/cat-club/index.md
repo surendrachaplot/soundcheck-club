@@ -1,6 +1,6 @@
 # Cat Club
 
-Cat Club is a music venue in San Francisco/Oakland with 7 upcoming nights listed on soundcheck as of Wed, 9 Sept 2026; the next is "1984" on Thu, 10 Sept 2026.
+Cat Club is a music venue in San Francisco/Oakland with 7 upcoming nights listed on soundcheck as of Thu, 10 Sept 2026; the next is "1984" on Thu, 10 Sept 2026.
 
 Cat Club is a music venue in Sanfrancisco listed on soundcheck. 7 upcoming nights. Browse upcoming dates, start times and who's playing. 1190 Folsom St, San Francisco, CA 94103, United States.
 
@@ -20,4 +20,4 @@ Cat Club is a music venue in Sanfrancisco listed on soundcheck. 7 upcoming night
 
 1190 Folsom St, San Francisco, CA 94103, United States, San Francisco/Oakland
 
-*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/cat-club/)*
+*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/cat-club/)*

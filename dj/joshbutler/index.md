@@ -1,6 +1,6 @@
 # Josh Butler
 
-Josh Butler is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Wed, 9 Sept 2026, next at Freeze HiFi, Liverpool on Thu, 17 Sept 2026.
+Josh Butler is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Thu, 10 Sept 2026, next at Freeze HiFi, Liverpool on Thu, 17 Sept 2026.
 
 Josh Butler is a house and tech house artist tracked on soundcheck, with 76 sets logged across Amsterdam, Auckland, Austin and Boston and 28 more. Often billed alongside Huxley, Alexis Raphael and Archie Hamilton. Next up: Freeze HiFi, Liverpool on Thu 17 Sept.
 
@@ -25,4 +25,4 @@ Josh Butler is a house and tech house artist tracked on soundcheck, with 76 sets
 
 Huxley, Alexis Raphael, Archie Hamilton
 
-*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/joshbutler/)*
+*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/joshbutler/)*

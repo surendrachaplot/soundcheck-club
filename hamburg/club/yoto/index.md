@@ -1,6 +1,6 @@
 # YOTO
 
-YOTO is a music venue in Hamburg with 1 upcoming night listed on soundcheck as of Wed, 9 Sept 2026; the next is "YOTO x DARI HATI with COZY SOUNDSYSTEM" on Sat, 12 Sept 2026.
+YOTO is a music venue in Hamburg with 1 upcoming night listed on soundcheck as of Thu, 10 Sept 2026; the next is "YOTO x DARI HATI with COZY SOUNDSYSTEM" on Sat, 12 Sept 2026.
 
 YOTO is a music venue in Hamburg listed on soundcheck. 1 upcoming night, with line-ups including MAKAYABUNDO, NEAF, WARNO and Wutangglaam. Browse upcoming dates, start times and who's playing. Basement, Schulterblatt 73, 20357 Hamburg, Germany.
 
@@ -14,4 +14,4 @@ YOTO is a music venue in Hamburg listed on soundcheck. 1 upcoming night, with li
 
 Basement, Schulterblatt 73, 20357 Hamburg, Germany, Hamburg
 
-*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/hamburg/club/yoto/)*
+*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/hamburg/club/yoto/)*

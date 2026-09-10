@@ -1,8 +1,8 @@
 # Passion DEEZ
 
-Passion DEEZ is a House and Garage artist with 3 upcoming club dates listed on soundcheck as of Wed, 9 Sept 2026, next at Skatecafe, Amsterdam on Fri, 18 Sept 2026.
+Passion DEEZ is a House and Garage artist with 4 upcoming club dates listed on soundcheck as of Thu, 10 Sept 2026, next at Skatecafe, Amsterdam on Fri, 18 Sept 2026.
 
-Passion DEEZ is a house and garage artist tracked on soundcheck, with 94 sets logged across Amsterdam, Rotterdam, Thehague and Utrecht. Often billed alongside Deez, Cinnaman and Dengdeng. Next up: Skatecafe, Amsterdam on Fri 18 Sept.
+Passion DEEZ is a house and garage artist tracked on soundcheck, with 95 sets logged across Amsterdam, Rotterdam, Thehague and Utrecht. Often billed alongside Deez, Cinnaman and Dengdeng. Next up: Skatecafe, Amsterdam on Fri 18 Sept.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ Passion DEEZ is a house and garage artist tracked on soundcheck, with 94 sets lo
 | Fri, 18 Sept 2026 | Skatecafe | Amsterdam |
 | Thu, 24 Sept 2026 | nachbar | Amsterdam |
 | Fri, 23 Oct 2026 | Ndsm Wharf | Amsterdam |
+| Sat, 24 Oct 2026 | Skatecafe | Amsterdam |
 
 ## Recently played
 
@@ -27,4 +28,4 @@ Passion DEEZ is a house and garage artist tracked on soundcheck, with 94 sets lo
 
 Deez, Cinnaman, Dengdeng
 
-*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/passiondeez/)*
+*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/passiondeez/)*

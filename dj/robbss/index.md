@@ -1,6 +1,6 @@
 # ROBBSS
 
-ROBBSS is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Wed, 9 Sept 2026, next at Cieloterra, Rome on Sat, 12 Sept 2026.
+ROBBSS is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Thu, 10 Sept 2026, next at Cieloterra, Rome on Sat, 12 Sept 2026.
 
 ROBBSS is a techno and trance artist tracked on soundcheck, with 17 sets logged across Rome. Often billed alongside Max Raponi, GIANO (2) and SP3RISH. Next up: Cieloterra, Rome on Sat 12 Sept.
 
@@ -26,4 +26,4 @@ ROBBSS is a techno and trance artist tracked on soundcheck, with 17 sets logged 
 
 Max Raponi, GIANO (2), SP3RISH
 
-*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/robbss/)*
+*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/robbss/)*

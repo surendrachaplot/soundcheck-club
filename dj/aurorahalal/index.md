@@ -1,6 +1,6 @@
 # Aurora Halal
 
-Aurora Halal is a Techno and House artist with 11 upcoming club dates listed on soundcheck as of Wed, 9 Sept 2026, next at Camp Kennybrook, New York City on Thu, 10 Sept 2026.
+Aurora Halal is a Techno and House artist with 11 upcoming club dates listed on soundcheck as of Thu, 10 Sept 2026, next at Camp Kennybrook, New York City on Thu, 10 Sept 2026.
 
 Aurora Halal is a techno and house artist tracked on soundcheck, with 222 sets logged across Amsterdam, Athens, Austin and Barcelona and 51 more. Often billed alongside Priori, Nick León and Polygonia. Next up: Camp Kennybrook, Newyorkcity on Thu 10 Sept.
 
@@ -35,4 +35,4 @@ Aurora Halal is a techno and house artist tracked on soundcheck, with 222 sets l
 
 Priori, Nick León, Polygonia
 
-*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/aurorahalal/)*
+*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/aurorahalal/)*

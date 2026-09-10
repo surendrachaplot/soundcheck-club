@@ -1,13 +1,14 @@
 # Loïc
 
-Loïc is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 9 Sept 2026, next at TBA - Parque de la Ciudad, CABA, Buenos Aires on Sat, 14 Nov 2026.
+Loïc is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 10 Sept 2026, next at BARdzo bardzo, Warsaw on Fri, 11 Sept 2026.
 
-Loïc is a house and techno artist tracked on soundcheck, with 33 sets logged across Barcelona, Berlin, Buenosaires and Madrid and 2 more. Often billed alongside Pato Mallet, Signo and Dobao. Next up: TBA - Parque de la Ciudad, CABA, Buenosaires on Sat 14 Nov.
+Loïc is a house and techno artist tracked on soundcheck, with 34 sets logged across Barcelona, Berlin, Buenosaires and Madrid and 3 more. Often billed alongside Pato Mallet, Signo and Dobao. Next up: BARdzo bardzo, Warsaw on Fri 11 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 11 Sept 2026 | BARdzo bardzo | Warsaw |
 | Sat, 14 Nov 2026 | TBA - Parque de la Ciudad, CABA | Buenos Aires |
 
 ## Recently played
@@ -25,4 +26,4 @@ Loïc is a house and techno artist tracked on soundcheck, with 33 sets logged ac
 
 Pato Mallet, Signo, Dobao
 
-*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/loic/)*
+*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/loic/)*

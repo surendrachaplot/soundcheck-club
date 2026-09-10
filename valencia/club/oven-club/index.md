@@ -1,14 +1,13 @@
 # Oven Club
 
-Oven Club is a music venue in Valencia with 14 upcoming nights listed on soundcheck as of Wed, 9 Sept 2026; the next is "Soumz b2b Souleast" on Wed, 9 Sept 2026.
+Oven Club is a music venue in Valencia with 13 upcoming nights listed on soundcheck as of Thu, 10 Sept 2026; the next is "Oracle Culture: KAI LEWIS + JO$S + A13X" on Thu, 10 Sept 2026.
 
-Oven Club is a music venue in Valencia listed on soundcheck. 14 upcoming nights, with line-ups including BAR (DE), BEQA, blan.trrs and Blanch and 2 more. Browse upcoming dates, start times and who's playing. Gran Vía Germanías 31 Valencia.
+Oven Club is a music venue in Valencia listed on soundcheck. 13 upcoming nights, with line-ups including BAR (DE), BEQA, blan.trrs and Blanch and 2 more. Browse upcoming dates, start times and who's playing. Gran Vía Germanías 31 Valencia.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Wed, 9 Sept 2026 | Soumz b2b Souleast |  |
 | Thu, 10 Sept 2026 | Oracle Culture: KAI LEWIS + JO$S + A13X |  |
 | Fri, 11 Sept 2026 | Total: Liquid Earth + Cam + Paola / Bar: Rafa Molina & Valery Velvet | BAR (DE), CAMMMMM, Liquid Earth, Paola (1) |
 | Sat, 12 Sept 2026 | Blanch + Varis + Donky / Bar: Dj Grip & Dystorizon | BAR (DE), Blanch, Dystorizon, Varis |
@@ -18,9 +17,10 @@ Oven Club is a music venue in Valencia listed on soundcheck. 14 upcoming nights,
 | Sat, 19 Sept 2026 | Nekoza Records invites: DJ Senc | DJ Senc, Tommaso Pizzelli |
 | Sat, 19 Sept 2026 | Nekoza Records invites: DJ Senc + Tommaso Pizzelli / Bar: Delabasa & Sr. Sam (Roof, showcase) | DJ Senc, Tommaso Pizzelli |
 | Wed, 23 Sept 2026 | Soumz b2b Will Mellor | Will Mellor |
+| Thu, 24 Sept 2026 | ERA: Cross + Mirna Kalout | Cross |
 
 ## Address
 
 Gran Vía Germanías 31 Valencia, Valencia
 
-*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/valencia/club/oven-club/)*
+*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/valencia/club/oven-club/)*

@@ -1,13 +1,14 @@
 # &friends
 
-&friends is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 9 Sept 2026, next at Shrine Auditorium and Expo Hall, Los Angeles on Fri, 23 Oct 2026.
+&friends is a House and Afro House artist with 2 upcoming club dates listed on soundcheck as of Thu, 10 Sept 2026, next at Jungle Island, Miami on Sat, 12 Sept 2026.
 
-&friends is a house and techno artist tracked on soundcheck, with 3 sets logged across Barcelona, London and Losangeles. Often billed alongside Channel Tres, Goom Gum and HARI. Next up: Shrine Auditorium and Expo Hall, Losangeles on Fri 23 Oct.
+&friends is a house and afro house artist tracked on soundcheck, with 4 sets logged across Barcelona, London, Losangeles and Miami. Often billed alongside Apache, Channel Tres and Goom Gum. Next up: Jungle Island, Miami on Sat 12 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 12 Sept 2026 | Jungle Island | Miami |
 | Fri, 23 Oct 2026 | Shrine Auditorium and Expo Hall | Los Angeles |
 
 ## Recently played
@@ -17,6 +18,6 @@
 
 ## Shares bills with
 
-Channel Tres, Goom Gum, HARI
+Apache, Channel Tres, Goom Gum
 
-*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/andfriends/)*
+*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/andfriends/)*

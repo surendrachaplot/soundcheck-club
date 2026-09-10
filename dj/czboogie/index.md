@@ -1,14 +1,14 @@
 # Czboogie
 
-Czboogie is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Wed, 9 Sept 2026, next at Podlasie Club, Chicago on Thu, 24 Sept 2026.
+Czboogie is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Thu, 10 Sept 2026, next at Podlasie Club, Chicago on Fri, 25 Sept 2026.
 
-Czboogie is a house and deep house artist tracked on soundcheck, with 61 sets logged across Chicago, Detroit and London. Often billed alongside Gant-Man, John Simmons and Gregboi. Next up: Podlasie Club, Chicago on Thu 24 Sept.
+Czboogie is a house and deep house artist tracked on soundcheck, with 61 sets logged across Chicago, Detroit and London. Often billed alongside Gant-Man, John Simmons and Gregboi. Next up: Podlasie Club, Chicago on Fri 25 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Thu, 24 Sept 2026 | Podlasie Club | Chicago |
+| Fri, 25 Sept 2026 | Podlasie Club | Chicago |
 
 ## Recently played
 
@@ -25,4 +25,4 @@ Czboogie is a house and deep house artist tracked on soundcheck, with 61 sets lo
 
 Gant-Man, John Simmons, Gregboi
 
-*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/czboogie/)*
+*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/czboogie/)*

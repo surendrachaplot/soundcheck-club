@@ -1,18 +1,18 @@
 # VALENTINA (2)
 
-VALENTINA (2) is a Techno and Reggaeton artist with 2 upcoming club dates listed on soundcheck as of Wed, 9 Sept 2026, next at City Hall, Barcelona on Wed, 9 Sept 2026.
+VALENTINA (2) is a Techno and Reggaeton artist with 1 upcoming club date listed on soundcheck as of Thu, 10 Sept 2026, next at Baggen, Copenhagen on Thu, 10 Sept 2026.
 
-VALENTINA (2) is a techno and reggaeton artist tracked on soundcheck, with 8 sets logged across Barcelona, Copenhagen and Vancouver. Often billed alongside Brendocha, BINKY and Bclip. Next up: City Hall, Barcelona on Wed 9 Sept.
+VALENTINA (2) is a techno and reggaeton artist tracked on soundcheck, with 8 sets logged across Barcelona, Copenhagen and Vancouver. Often billed alongside Brendocha, BINKY and Bclip. Next up: Baggen, Copenhagen on Thu 10 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Wed, 9 Sept 2026 | City Hall | Barcelona |
 | Thu, 10 Sept 2026 | Baggen | Copenhagen |
 
 ## Recently played
 
+- City Hall, Barcelona — Wed, 9 Sept 2026
 - TBA - East Van, Vancouver — Fri, 1 May 2026
 - The Beaumont Studios, Vancouver — Sat, 21 Mar 2026
 - TBA - location will be shared via email, Vancouver — Fri, 14 Nov 2025
@@ -24,4 +24,4 @@ VALENTINA (2) is a techno and reggaeton artist tracked on soundcheck, with 8 set
 
 Brendocha, BINKY, Bclip
 
-*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/valentina-2/)*
+*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/valentina-2/)*

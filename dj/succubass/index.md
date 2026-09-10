@@ -1,6 +1,6 @@
 # Succubass
 
-Succubass is a Techno and Bass artist with 1 upcoming club date listed on soundcheck as of Wed, 9 Sept 2026, next at TBA - Out ‘n’ About Treesort, Portland on Thu, 24 Sept 2026.
+Succubass is a Techno and Bass artist with 1 upcoming club date listed on soundcheck as of Thu, 10 Sept 2026, next at TBA - Out ‘n’ About Treesort, Portland on Thu, 24 Sept 2026.
 
 Succubass is a techno and bass artist tracked on soundcheck, with 89 sets logged across Berlin, Chicago, Detroit and London and 8 more. Often billed alongside DJ DEADNAME, Sharlese and DJ Eft. Next up: TBA - Out ‘n’ About Treesort, Portland on Thu 24 Sept.
 
@@ -25,4 +25,4 @@ Succubass is a techno and bass artist tracked on soundcheck, with 89 sets logged
 
 DJ DEADNAME, Sharlese, DJ Eft
 
-*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/succubass/)*
+*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/succubass/)*

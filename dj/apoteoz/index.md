@@ -1,6 +1,6 @@
 # Apoteoz
 
-Apoteoz is a Minimal and Tech House artist with 1 upcoming club date listed on soundcheck as of Wed, 9 Sept 2026, next at Nido Marseille, Marseille on Sat, 12 Sept 2026.
+Apoteoz is a Minimal and Tech House artist with 1 upcoming club date listed on soundcheck as of Thu, 10 Sept 2026, next at Nido Marseille, Marseille on Sat, 12 Sept 2026.
 
 Apoteoz is a minimal and tech house artist tracked on soundcheck, with 11 sets logged across Bucharest, Geneva, Lisbon and Marseille and 2 more. Often billed alongside Flavio (CH), 2HOT2PLAY and ALINA (3). Next up: Nido Marseille, Marseille on Sat 12 Sept.
 
@@ -25,4 +25,4 @@ Apoteoz is a minimal and tech house artist tracked on soundcheck, with 11 sets l
 
 Flavio (CH), 2HOT2PLAY, ALINA (3)
 
-*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/apoteoz/)*
+*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/apoteoz/)*

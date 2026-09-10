@@ -1,10 +1,10 @@
 # l13 after basislager at Kauz
 
-l13 after basislager at Kauz on Sun 13 Sept, Zurich. 1 act on the bill: Smuda. House. Preview the line-up and save it on soundcheck.
+l13 after basislager at Kauz on Sat 12 Sept, Zurich. 1 act on the bill: Smuda. House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
-| Date | Sun, 13 Sept 2026 |
+| Date | Sat, 12 Sept 2026 |
 | Venue | Kauz |
 | City | Zurich |
 

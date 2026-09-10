@@ -1,6 +1,6 @@
 # Ollie Red
 
-Ollie Red is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Wed, 9 Sept 2026, next at Anchor Rock Club, Philadelphia on Thu, 10 Sept 2026.
+Ollie Red is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Thu, 10 Sept 2026, next at Anchor Rock Club, Philadelphia on Thu, 10 Sept 2026.
 
 Ollie Red is a house and tech house artist tracked on soundcheck, with 8 sets logged across Miami, Newyorkcity, Philadelphia and Sandiego. Often billed alongside Darius Syrossian, George Smeddles and Paul Najera. Next up: Anchor Rock Club, Philadelphia on Thu 10 Sept.
 
@@ -24,4 +24,4 @@ Ollie Red is a house and tech house artist tracked on soundcheck, with 8 sets lo
 
 Darius Syrossian, George Smeddles, Paul Najera
 
-*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/olliered/)*
+*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/olliered/)*

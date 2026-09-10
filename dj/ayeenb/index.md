@@ -1,6 +1,6 @@
 # AYEENB
 
-AYEENB is a Progressive House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 9 Sept 2026, next at Blue Room, Montreal on Fri, 25 Sept 2026.
+AYEENB is a Progressive House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 10 Sept 2026, next at Blue Room, Montreal on Fri, 25 Sept 2026.
 
 AYEENB is a progressive house and techno artist based in Canada, tracked on soundcheck, with 6 sets logged across Montreal. Often billed alongside Kolophane, Rebel Of Sleep and Underthebed. Next up: Blue Room, Montreal on Fri 25 Sept.
 
@@ -22,4 +22,4 @@ AYEENB is a progressive house and techno artist based in Canada, tracked on soun
 
 Kolophane, Rebel Of Sleep, Underthebed
 
-*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ayeenb/)*
+*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ayeenb/)*

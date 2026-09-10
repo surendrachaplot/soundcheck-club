@@ -1,6 +1,6 @@
 # Ciao Ciao
 
-Ciao Ciao is a House and Electronica artist with 2 upcoming club dates listed on soundcheck as of Wed, 9 Sept 2026, next at Celeste, Vienna on Sat, 12 Sept 2026.
+Ciao Ciao is a House and Electronica artist with 2 upcoming club dates listed on soundcheck as of Thu, 10 Sept 2026, next at Celeste, Vienna on Sat, 12 Sept 2026.
 
 Ciao Ciao is a house and electronica artist tracked on soundcheck, with 8 sets logged across Munich and Vienna. Often billed alongside Gawdesque, Scherfe and tanjuesch. Next up: Celeste, Vienna on Sat 12 Sept.
 
@@ -24,4 +24,4 @@ Ciao Ciao is a house and electronica artist tracked on soundcheck, with 8 sets l
 
 Gawdesque, Scherfe, tanjuesch
 
-*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ciaociao/)*
+*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ciaociao/)*

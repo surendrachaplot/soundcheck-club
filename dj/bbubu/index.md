@@ -1,6 +1,6 @@
 # BBUBU
 
-BBUBU is a Techno and Hardcore artist with 1 upcoming club date listed on soundcheck as of Wed, 9 Sept 2026, next at Forge, Bucharest on Fri, 9 Oct 2026.
+BBUBU is a Techno and Hardcore artist with 1 upcoming club date listed on soundcheck as of Thu, 10 Sept 2026, next at Forge, Bucharest on Fri, 9 Oct 2026.
 
 BBUBU is a techno and hardcore artist based in Romania, tracked on soundcheck, with 16 sets logged across Bucharest and Newyorkcity. Often billed alongside OKTAI, Clast and NTHR. Next up: Forge, Bucharest on Fri 9 Oct.
 
@@ -25,4 +25,4 @@ BBUBU is a techno and hardcore artist based in Romania, tracked on soundcheck, w
 
 OKTAI, Clast, NTHR
 
-*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bbubu/)*
+*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bbubu/)*

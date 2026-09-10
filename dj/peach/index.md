@@ -1,8 +1,8 @@
 # Peach
 
-Peach is a House and Techno artist with 10 upcoming club dates listed on soundcheck as of Wed, 9 Sept 2026, next at Amnesia Ibiza, Ibiza on Thu, 10 Sept 2026.
+Peach is a House and Techno artist with 11 upcoming club dates listed on soundcheck as of Thu, 10 Sept 2026, next at Amnesia Ibiza, Ibiza on Thu, 10 Sept 2026.
 
-Peach is a house and techno artist tracked on soundcheck, with 210 sets logged across Amsterdam, Antwerp, Bali and Bangkok and 53 more. Often billed alongside Shanti Celeste, Gabrielle Kwarteng and Saoirse. Next up: Amnesia Ibiza, Ibiza on Thu 10 Sept.
+Peach is a house and techno artist tracked on soundcheck, with 211 sets logged across Amsterdam, Antwerp, Bali and Bangkok and 53 more. Often billed alongside Shanti Celeste, Gabrielle Kwarteng and Saoirse. Next up: Amnesia Ibiza, Ibiza on Thu 10 Sept.
 
 ## Upcoming shows
 
@@ -18,6 +18,7 @@ Peach is a house and techno artist tracked on soundcheck, with 210 sets logged a
 | Sat, 17 Oct 2026 | Nowadays | New York City |
 | Thu, 22 Oct 2026 | Pllek | Amsterdam |
 | Fri, 23 Oct 2026 | Klaproos | Amsterdam |
+| Fri, 6 Nov 2026 | Cobalt Studios | Newcastle |
 
 ## Recently played
 
@@ -34,4 +35,4 @@ Peach is a house and techno artist tracked on soundcheck, with 210 sets logged a
 
 Shanti Celeste, Gabrielle Kwarteng, Saoirse
 
-*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/peach/)*
+*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/peach/)*

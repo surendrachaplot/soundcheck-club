@@ -1,6 +1,6 @@
 # R1TON
 
-R1TON is a Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 9 Sept 2026, next at Hangar48 Club, Madrid on Fri, 11 Sept 2026.
+R1TON is a Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 10 Sept 2026, next at Hangar48 Club, Madrid on Fri, 11 Sept 2026.
 
 R1TON is a techno artist tracked on soundcheck, with 11 sets logged across Madrid. Often billed alongside Súper Pä, KRSDJ and Syback. Next up: Hangar48 Club, Madrid on Fri 11 Sept.
 
@@ -26,4 +26,4 @@ R1TON is a techno artist tracked on soundcheck, with 11 sets logged across Madri
 
 Súper Pä, KRSDJ, Syback
 
-*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/r1ton/)*
+*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/r1ton/)*

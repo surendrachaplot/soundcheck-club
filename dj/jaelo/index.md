@@ -1,6 +1,6 @@
 # Jaelo
 
-Jaelo is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Wed, 9 Sept 2026, next at Lokschuppen Berlin, Berlin on Sun, 13 Sept 2026.
+Jaelo is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Thu, 10 Sept 2026, next at Lokschuppen Berlin, Berlin on Sun, 13 Sept 2026.
 
 Jaelo is a techno and trance artist based in Germany, tracked on soundcheck, with 10 sets logged across Berlin and Cologne. Often billed alongside HNX (030), HiHat and Annie O. Next up: Lokschuppen Berlin, Berlin on Sun 13 Sept.
 
@@ -25,4 +25,4 @@ Jaelo is a techno and trance artist based in Germany, tracked on soundcheck, wit
 
 HNX (030), HiHat, Annie O
 
-*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jaelo/)*
+*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jaelo/)*

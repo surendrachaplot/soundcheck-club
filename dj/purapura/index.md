@@ -1,14 +1,15 @@
 # Pura Pura
 
-Pura Pura is a Bass and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 9 Sept 2026, next at TRANSMISSION DC, Washington DC on Fri, 25 Sept 2026.
+Pura Pura is a Bass and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 10 Sept 2026, next at TRANSMISSION DC, Washington DC on Fri, 25 Sept 2026.
 
-Pura Pura is a bass and techno artist tracked on soundcheck, with 35 sets logged across Brussels, Ghent, Lyon and Marseille and 4 more. Often billed alongside Hyas, Miley Serious and carin kelly. Next up: TRANSMISSION DC, Washingtondc on Fri 25 Sept.
+Pura Pura is a bass and techno artist tracked on soundcheck, with 36 sets logged across Brussels, Ghent, Lyon and Marseille and 4 more. Often billed alongside Hyas, Miley Serious and carin kelly. Next up: TRANSMISSION DC, Washingtondc on Fri 25 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 25 Sept 2026 | TRANSMISSION DC | Washington DC |
+| Sun, 4 Oct 2026 | Bossa Nova Civic Club | New York City |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Pura Pura is a bass and techno artist tracked on soundcheck, with 35 sets logged
 
 Hyas, Miley Serious, carin kelly
 
-*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/purapura/)*
+*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/purapura/)*

@@ -1,6 +1,6 @@
 # Marley Reid
 
-Marley Reid is a House and Disco artist with 3 upcoming club dates listed on soundcheck as of Wed, 9 Sept 2026, next at The Jazz Cafe, London on Sat, 12 Sept 2026.
+Marley Reid is a House and Disco artist with 3 upcoming club dates listed on soundcheck as of Thu, 10 Sept 2026, next at The Jazz Cafe, London on Sat, 12 Sept 2026.
 
 Marley Reid is a house and disco artist tracked on soundcheck, with 61 sets logged across Berlin, Brighton, London and Manchester. Often billed alongside Danandout, Levi Love and Bustin' Loose. Next up: The Jazz Cafe, London on Sat 12 Sept.
 
@@ -27,4 +27,4 @@ Marley Reid is a house and disco artist tracked on soundcheck, with 61 sets logg
 
 Danandout, Levi Love, Bustin' Loose
 
-*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/marleyreid/)*
+*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/marleyreid/)*

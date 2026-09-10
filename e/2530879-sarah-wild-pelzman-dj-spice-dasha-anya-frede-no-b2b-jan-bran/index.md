@@ -1,6 +1,6 @@
 # Sarah Wild / Pelzman / DJ Spice / Dasha / Anya / Frede [NO] B2B Jan Brandi at Culture Box
 
-Sarah Wild / Pelzman / DJ Spice / Dasha / Anya / Frede [NO] B2B Jan Brandi at Culture Box on Fri 6 Nov, Copenhagen. 5 acts on the bill: DASHA (UK), DJ Spice, Frede (NO) and Pelzman and 1 more. Techno and House. Preview the line-up and save it on soundcheck.
+Sarah Wild / Pelzman / DJ Spice / Dasha / Anya / Frede [NO] B2B Jan Brandi at Culture Box on Fri 6 Nov, Copenhagen. 6 acts on the bill: Anya (UK), DASHA (UK), DJ Spice and Frede (NO) and 2 more. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ Sarah Wild / Pelzman / DJ Spice / Dasha / Anya / Frede [NO] B2B Jan Brandi at Cu
 
 ## Line-up
 
+- Anya (UK)
 - DASHA (UK)
 - DJ Spice
 - Frede (NO)

@@ -1,6 +1,6 @@
 # Quest (IT)
 
-Quest (IT) is a House and Techno artist with 8 upcoming club dates listed on soundcheck as of Wed, 9 Sept 2026, next at H0L0, New York City on Thu, 10 Sept 2026.
+Quest (IT) is a House and Techno artist with 8 upcoming club dates listed on soundcheck as of Thu, 10 Sept 2026, next at H0L0, New York City on Thu, 10 Sept 2026.
 
 Quest (IT) is a house and techno artist tracked on soundcheck, with 171 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 48 more. Often billed alongside Christian AB, Francesco Del Garda and Adiel. Next up: H0L0, Newyorkcity on Thu 10 Sept.
 
@@ -32,4 +32,4 @@ Quest (IT) is a house and techno artist tracked on soundcheck, with 171 sets log
 
 Christian AB, Francesco Del Garda, Adiel
 
-*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/questit/)*
+*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/questit/)*

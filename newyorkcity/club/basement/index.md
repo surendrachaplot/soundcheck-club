@@ -1,6 +1,6 @@
 # BASEMENT
 
-BASEMENT is a music venue in New York City with 6 upcoming nights listed on soundcheck as of Wed, 9 Sept 2026; the next is "Ogazón / Sol Ortega / Lauren Flax / BASHKKA / PARAMIDA / Fundido" on Fri, 11 Sept 2026.
+BASEMENT is a music venue in New York City with 6 upcoming nights listed on soundcheck as of Thu, 10 Sept 2026; the next is "Ogazón / Sol Ortega / Lauren Flax / BASHKKA / PARAMIDA / Fundido" on Fri, 11 Sept 2026.
 
 BASEMENT is a music venue in Newyorkcity listed on soundcheck. 6 upcoming nights, with line-ups including Alinka, Anabel Arroyo, BASHKKA and Boris and 2 more. Browse upcoming dates, start times and who's playing. 52-19 Flushing Ave., Maspeth, NY 11378 USA.
 
@@ -19,4 +19,4 @@ BASEMENT is a music venue in Newyorkcity listed on soundcheck. 6 upcoming nights
 
 52-19 Flushing Ave., Maspeth, NY 11378 USA, New York City
 
-*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/basement/)*
+*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/basement/)*

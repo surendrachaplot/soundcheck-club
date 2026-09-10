@@ -1,6 +1,6 @@
 # Kolter (All Day Long) - London at The Cause
 
-Kolter (All Day Long) - London at The Cause on Sat 26 Sept, London. 1 act on the bill: Kolter. House and Tech House. Preview the line-up and save it on soundcheck.
+Kolter (All Day Long) - London at The Cause on Sat 26 Sept, London. 11 acts on the bill: Cinthie, COZi, Dale Hart and Eileen (NL) and 7 more. House and Tech House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,16 @@ Kolter (All Day Long) - London at The Cause on Sat 26 Sept, London. 1 act on the
 
 ## Line-up
 
+- Cinthie
+- COZi
+- Dale Hart
+- Eileen (NL)
+- Janeret
 - Kolter
+- Kyra Khaldi
+- Leo Pol
+- Thalo Santana
+- Tiago Walter
+- Yuta Yamada
 
 *Source: [soundcheck](https://soundcheck.club/e/2464940-kolter-all-day-long-london-at-the-cause/)*

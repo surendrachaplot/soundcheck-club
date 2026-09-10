@@ -1,6 +1,6 @@
 # Cervo
 
-Cervo is a Afrobeat and Balearic artist with 2 upcoming club dates listed on soundcheck as of Wed, 9 Sept 2026, next at Red Bull Pub - Stockport, Manchester on Sat, 10 Oct 2026.
+Cervo is a Afrobeat and Balearic artist with 2 upcoming club dates listed on soundcheck as of Thu, 10 Sept 2026, next at Red Bull Pub - Stockport, Manchester on Sat, 10 Oct 2026.
 
 Cervo is an afrobeat and balearic artist tracked on soundcheck, with 7 sets logged across London and Manchester. Often billed alongside Banana Hill, Contours and Auntie Flo. Next up: Red Bull Pub - Stockport, Manchester on Sat 10 Oct.
 
@@ -23,4 +23,4 @@ Cervo is an afrobeat and balearic artist tracked on soundcheck, with 7 sets logg
 
 Banana Hill, Contours, Auntie Flo
 
-*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/cervo/)*
+*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/cervo/)*

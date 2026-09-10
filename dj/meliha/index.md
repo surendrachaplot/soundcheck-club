@@ -1,6 +1,6 @@
 # Meliha
 
-Meliha is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 9 Sept 2026, next at TBA - Mantra Rooftop Bar & Lounge, Kuala Lumpur on Sat, 3 Oct 2026.
+Meliha is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 10 Sept 2026, next at TBA - Mantra Rooftop Bar & Lounge, Kuala Lumpur on Sat, 3 Oct 2026.
 
 Meliha is a techno and house artist based in Malaysia, tracked on soundcheck, with 107 sets logged across Bali, Bangkok, Kualalumpur and Singapore. Often billed alongside Obadius, Biscuit (MY) and OtherKind. Next up: TBA - Mantra Rooftop Bar & Lounge, Kualalumpur on Sat 3 Oct.
 
@@ -25,4 +25,4 @@ Meliha is a techno and house artist based in Malaysia, tracked on soundcheck, wi
 
 Obadius, Biscuit (MY), OtherKind
 
-*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/meliha/)*
+*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/meliha/)*

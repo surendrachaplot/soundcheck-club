@@ -1,14 +1,14 @@
 # Iration Steppas
 
-Iration Steppas is a Dub and Drum & Bass artist with 3 upcoming club dates listed on soundcheck as of Wed, 9 Sept 2026, next at Bermondsey Triangle, London on Sat, 26 Sept 2026.
+Iration Steppas is a Dub and Drum & Bass artist with 3 upcoming club dates listed on soundcheck as of Thu, 10 Sept 2026, next at M.O.T, London on Sat, 26 Sept 2026.
 
-Iration Steppas is a dub and drum & bass artist based in United Kingdom, tracked on soundcheck, with 84 sets logged across Amsterdam, Antwerp, Athens and Austin and 22 more. Often billed alongside O.B.F, Simon Scott and Breakfake. Next up: Bermondsey Triangle, London on Sat 26 Sept.
+Iration Steppas is a dub and drum & bass artist based in United Kingdom, tracked on soundcheck, with 84 sets logged across Amsterdam, Antwerp, Athens and Austin and 22 more. Often billed alongside O.B.F, Breakfake and Simon Scott. Next up: M.O.T, London on Sat 26 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 26 Sept 2026 | Bermondsey Triangle | London |
+| Sat, 26 Sept 2026 | M.O.T | London |
 | Sat, 3 Oct 2026 | Beaver Works | Leeds |
 | Fri, 9 Oct 2026 | The Golden Lion | Manchester |
 
@@ -25,6 +25,6 @@ Iration Steppas is a dub and drum & bass artist based in United Kingdom, tracked
 
 ## Shares bills with
 
-O.B.F, Simon Scott, Breakfake
+O.B.F, Breakfake, Simon Scott
 
-*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/irationsteppas/)*
+*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/irationsteppas/)*

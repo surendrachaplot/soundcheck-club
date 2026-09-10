@@ -1,6 +1,6 @@
 # JDJ (1)
 
-JDJ (1) is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Wed, 9 Sept 2026, next at Why Not, Edinburgh on Thu, 10 Sept 2026.
+JDJ (1) is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Thu, 10 Sept 2026, next at Why Not, Edinburgh on Thu, 10 Sept 2026.
 
 JDJ (1) is a house and tech house artist based in United Kingdom, tracked on soundcheck, with 10 sets logged across Edinburgh and Glasgow. Often billed alongside DJ PLANE-SPOTTER, A-TØN and Dance No Evil. Next up: Why Not, Edinburgh on Thu 10 Sept.
 
@@ -26,4 +26,4 @@ JDJ (1) is a house and tech house artist based in United Kingdom, tracked on sou
 
 DJ PLANE-SPOTTER, A-TØN, Dance No Evil
 
-*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jdj-1/)*
+*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jdj-1/)*

@@ -1,6 +1,6 @@
 # Danny Wabbit
 
-Danny Wabbit is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Wed, 9 Sept 2026, next at AUX Club, Athens on Fri, 18 Sept 2026.
+Danny Wabbit is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Thu, 10 Sept 2026, next at AUX Club, Athens on Fri, 18 Sept 2026.
 
 Danny Wabbit is a techno and trance artist tracked on soundcheck, with 57 sets logged across Amsterdam, Athens, Belgrade and Berlin and 19 more. Often billed alongside The Chronics, Bours? and Lacchesi. Next up: AUX Club, Athens on Fri 18 Sept.
 
@@ -26,4 +26,4 @@ Danny Wabbit is a techno and trance artist tracked on soundcheck, with 57 sets l
 
 The Chronics, Bours?, Lacchesi
 
-*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dannywabbit/)*
+*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dannywabbit/)*

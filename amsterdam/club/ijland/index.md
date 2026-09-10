@@ -1,6 +1,6 @@
 # Ijland
 
-Ijland is a music venue in Amsterdam with 7 upcoming nights listed on soundcheck as of Wed, 9 Sept 2026; the next is "Olivier Weiter b2b Miss Melera" on Sat, 12 Sept 2026.
+Ijland is a music venue in Amsterdam with 7 upcoming nights listed on soundcheck as of Thu, 10 Sept 2026; the next is "Olivier Weiter b2b Miss Melera" on Sat, 12 Sept 2026.
 
 Ijland is a music venue in Amsterdam listed on soundcheck. 7 upcoming nights, with line-ups including Kepler, Benny Rodrigues, Billy Mason and Brian S. and 2 more. Browse upcoming dates, start times and who's playing. Tt. Vasumweg 171, 1033 SG Amsterdam.
 
@@ -14,10 +14,10 @@ Ijland is a music venue in Amsterdam listed on soundcheck. 7 upcoming nights, wi
 | Thu, 22 Oct 2026 | Guy J - all night long | Guy J |
 | Thu, 22 Oct 2026 | Crucast X HIGH TEA ADE |  |
 | Fri, 23 Oct 2026 | PIV ADE - Ijland | Benny Rodrigues, Caleb Jackson, Kepler, Kim April, Klaudie, Midas Field, Prunk, Retrouve, bullet tooth |
-| Sat, 24 Oct 2026 | Happy Feelings ADE - Ijland | Camille Doe, DJANGO (NL), Gabriel Muñoz, Girls Don't Sync, Itz3bby |
+| Sat, 24 Oct 2026 | Happy Feelings ADE - Ijland | Camille Doe, DJANGO (NL), Gabriel Muñoz, Girls Don't Sync, Itz3bby, KIM SWIM, Lucky Done Gone, Mike Momburg, Moody Mehran, SWIM (AU) |
 
 ## Address
 
 Tt. Vasumweg 171, 1033 SG Amsterdam, Amsterdam
 
-*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/ijland/)*
+*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/ijland/)*

@@ -1,8 +1,8 @@
 # Hidde van Wee
 
-Hidde van Wee is a House and Tech House artist with 10 upcoming club dates listed on soundcheck as of Wed, 9 Sept 2026, next at Studio 338, London on Sat, 12 Sept 2026.
+Hidde van Wee is a House and Tech House artist with 11 upcoming club dates listed on soundcheck as of Thu, 10 Sept 2026, next at Studio 338, London on Sat, 12 Sept 2026.
 
-Hidde van Wee is a house and tech house artist tracked on soundcheck, with 69 sets logged across Amsterdam, Barcelona, Bristol and Dublin and 12 more. Often billed alongside Boss Priester, Sidney Charles and Benny Rodrigues. Next up: Studio 338, London on Sat 12 Sept.
+Hidde van Wee is a house and tech house artist tracked on soundcheck, with 70 sets logged across Amsterdam, Barcelona, Bristol and Dublin and 12 more. Often billed alongside Boss Priester, Sidney Charles and Benny Rodrigues. Next up: Studio 338, London on Sat 12 Sept.
 
 ## Upcoming shows
 
@@ -17,6 +17,7 @@ Hidde van Wee is a house and tech house artist tracked on soundcheck, with 69 se
 | Fri, 23 Oct 2026 | Mediahaven - Minervahaven | Amsterdam |
 | Sat, 24 Oct 2026 | Pllek | Amsterdam |
 | Fri, 30 Oct 2026 | The Warehouse | Leeds |
+| Sun, 1 Nov 2026 | The Cause | London |
 | Sat, 14 Nov 2026 | Thuishaven | Amsterdam |
 
 ## Recently played
@@ -34,4 +35,4 @@ Hidde van Wee is a house and tech house artist tracked on soundcheck, with 69 se
 
 Boss Priester, Sidney Charles, Benny Rodrigues
 
-*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/hiddevanwee/)*
+*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/hiddevanwee/)*

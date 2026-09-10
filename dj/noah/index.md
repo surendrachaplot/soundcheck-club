@@ -1,6 +1,6 @@
 # No/ah
 
-No/ah is a Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 9 Sept 2026, next at UNDERCITY, Seoul on Fri, 11 Sept 2026.
+No/ah is a Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 10 Sept 2026, next at UNDERCITY, Seoul on Fri, 11 Sept 2026.
 
 No/ah is a techno artist based in South Korea, tracked on soundcheck, with 16 sets logged across Seoul. Often billed alongside KIMNA, Gosha and Vorus. Next up: UNDERCITY, Seoul on Fri 11 Sept.
 
@@ -26,4 +26,4 @@ No/ah is a techno artist based in South Korea, tracked on soundcheck, with 16 se
 
 KIMNA, Gosha, Vorus
 
-*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/noah/)*
+*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/noah/)*

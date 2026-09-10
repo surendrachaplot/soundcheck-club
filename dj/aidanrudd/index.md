@@ -1,6 +1,6 @@
 # Aidan Rudd
 
-Aidan Rudd is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Wed, 9 Sept 2026, next at ark (Melb), Melbourne on Sat, 12 Sept 2026.
+Aidan Rudd is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Thu, 10 Sept 2026, next at ark (Melb), Melbourne on Sat, 12 Sept 2026.
 
 Aidan Rudd is a techno and trance artist based in Australia, tracked on soundcheck, with 12 sets logged across Auckland, Brisbane, Melbourne and Sydney. Often billed alongside Alison Belle, b_man (AU) and April Kerry. Next up: ark (Melb), Melbourne on Sat 12 Sept.
 
@@ -25,4 +25,4 @@ Aidan Rudd is a techno and trance artist based in Australia, tracked on soundche
 
 Alison Belle, b_man (AU), April Kerry
 
-*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/aidanrudd/)*
+*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/aidanrudd/)*

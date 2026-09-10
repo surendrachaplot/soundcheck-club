@@ -1,14 +1,15 @@
 # Garrison XR
 
-Garrison XR is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 9 Sept 2026, next at TBA - MJ’s North End Ice Cream Parlor, Detroit on Fri, 11 Sept 2026.
+Garrison XR is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 10 Sept 2026, next at TBA - MJ’s North End Ice Cream Parlor, Detroit on Fri, 11 Sept 2026.
 
-Garrison XR is a techno and house artist based in United States of America, tracked on soundcheck, with 201 sets logged across Detroit, Newyorkcity and Sandiego. Often billed alongside Ashton Swinton, LATEX GIRL and Amino. Next up: TBA - MJ’s North End Ice Cream Parlor, Detroit on Fri 11 Sept.
+Garrison XR is a techno and house artist based in United States of America, tracked on soundcheck, with 202 sets logged across Detroit, Newyorkcity and Sandiego. Often billed alongside Ashton Swinton, LATEX GIRL and Amino. Next up: TBA - MJ’s North End Ice Cream Parlor, Detroit on Fri 11 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 11 Sept 2026 | TBA - MJ’s North End Ice Cream Parlor | Detroit |
+| Sat, 26 Sept 2026 | Menjo's | Detroit |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Garrison XR is a techno and house artist based in United States of America, trac
 
 Ashton Swinton, LATEX GIRL, Amino
 
-*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/garrisonxr/)*
+*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/garrisonxr/)*

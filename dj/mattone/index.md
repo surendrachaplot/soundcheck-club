@@ -1,6 +1,6 @@
 # Mattone
 
-Mattone is a Techno and Electro artist with 3 upcoming club dates listed on soundcheck as of Wed, 9 Sept 2026, next at Bar Part Time, San Francisco/Oakland on Thu, 10 Sept 2026.
+Mattone is a Techno and Electro artist with 3 upcoming club dates listed on soundcheck as of Thu, 10 Sept 2026, next at Bar Part Time, San Francisco/Oakland on Thu, 10 Sept 2026.
 
 Mattone is a techno and electro artist tracked on soundcheck, with 40 sets logged across Berlin, Istanbul and Sanfrancisco. Often billed alongside FEVZEE, Gabrielle (DE) and MEEMA. Next up: Bar Part Time, Sanfrancisco on Thu 10 Sept.
 
@@ -27,4 +27,4 @@ Mattone is a techno and electro artist tracked on soundcheck, with 40 sets logge
 
 FEVZEE, Gabrielle (DE), MEEMA
 
-*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mattone/)*
+*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mattone/)*

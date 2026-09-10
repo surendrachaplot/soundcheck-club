@@ -1,6 +1,6 @@
 # Alexandra
 
-Alexandra is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 9 Sept 2026, next at Şahika, Istanbul on Sat, 7 Nov 2026.
+Alexandra is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 10 Sept 2026, next at Şahika, Istanbul on Sat, 7 Nov 2026.
 
 Alexandra is a house and techno artist tracked on soundcheck, with 34 sets logged across Amsterdam, Berlin, Brussels and Bucharest and 7 more. Often billed alongside DJ Slim Fit, The Apricots and Pîrvu. Next up: Şahika, Istanbul on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ Alexandra is a house and techno artist tracked on soundcheck, with 34 sets logge
 
 DJ Slim Fit, The Apricots, Pîrvu
 
-*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/alexandra/)*
+*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/alexandra/)*

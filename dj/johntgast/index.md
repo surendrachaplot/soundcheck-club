@@ -1,6 +1,6 @@
 # John T. Gast
 
-John T. Gast is a Experimental and Dub artist with 3 upcoming club dates listed on soundcheck as of Wed, 9 Sept 2026, next at Galeria Zé Dos Bois, Lisbon on Sat, 19 Sept 2026.
+John T. Gast is a Experimental and Dub artist with 3 upcoming club dates listed on soundcheck as of Thu, 10 Sept 2026, next at Galeria Zé Dos Bois, Lisbon on Sat, 19 Sept 2026.
 
 John T. Gast is an experimental and dub artist tracked on soundcheck, with 66 sets logged across Amsterdam, Barcelona, Berlin and Bristol and 22 more. Often billed alongside Devon Rexi, i-sha and Carrier. Next up: Galeria Zé Dos Bois, Lisbon on Sat 19 Sept.
 
@@ -9,7 +9,7 @@ John T. Gast is an experimental and dub artist tracked on soundcheck, with 66 se
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 19 Sept 2026 | Galeria Zé Dos Bois | Lisbon |
-| Sat, 26 Sept 2026 | Bermondsey Triangle | London |
+| Sat, 26 Sept 2026 | M.O.T | London |
 | Tue, 6 Oct 2026 | OCZKI | Warsaw |
 
 ## Recently played
@@ -27,4 +27,4 @@ John T. Gast is an experimental and dub artist tracked on soundcheck, with 66 se
 
 Devon Rexi, i-sha, Carrier
 
-*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/johntgast/)*
+*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/johntgast/)*

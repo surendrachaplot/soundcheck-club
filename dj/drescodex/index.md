@@ -1,6 +1,6 @@
 # Dres Codex
 
-Dres Codex is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Wed, 9 Sept 2026, next at E1, London on Sat, 7 Nov 2026.
+Dres Codex is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Thu, 10 Sept 2026, next at E1, London on Sat, 7 Nov 2026.
 
 Dres Codex is a techno and industrial artist based in United Kingdom, tracked on soundcheck, with 29 sets logged across Birmingham, Brighton, Cardiff and London and 2 more. Often billed alongside KASTILO, Lau.tastic and Baptist (UK). Next up: E1, London on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ Dres Codex is a techno and industrial artist based in United Kingdom, tracked on
 
 KASTILO, Lau.tastic, Baptist (UK)
 
-*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/drescodex/)*
+*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/drescodex/)*

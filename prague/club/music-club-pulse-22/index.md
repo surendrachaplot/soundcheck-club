@@ -1,6 +1,6 @@
 # Music Club Pulse 22
 
-Music Club Pulse 22 is a music venue in Prague with 2 upcoming nights listed on soundcheck as of Wed, 9 Sept 2026; the next is "Trance Family with Marc van Linden" on Sat, 12 Sept 2026.
+Music Club Pulse 22 is a music venue in Prague with 2 upcoming nights listed on soundcheck as of Thu, 10 Sept 2026; the next is "Trance Family with Marc van Linden" on Sat, 12 Sept 2026.
 
 Music Club Pulse 22 is a music venue in Prague listed on soundcheck. 2 upcoming nights, with line-ups including Ewelina Koll, Icarian PB1, Marc van Linden and Orkus. Browse upcoming dates, start times and who's playing. Jilská 22, 110 00 Staré Město, Czechia.
 
@@ -15,4 +15,4 @@ Music Club Pulse 22 is a music venue in Prague listed on soundcheck. 2 upcoming 
 
 Jilská 22, 110 00 Staré Město, Czechia, Prague
 
-*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/prague/club/music-club-pulse-22/)*
+*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/prague/club/music-club-pulse-22/)*

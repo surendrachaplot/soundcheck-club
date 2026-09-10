@@ -1,14 +1,15 @@
 # 5ive
 
-5ive is a House and Deep House artist with 2 upcoming club dates listed on soundcheck as of Wed, 9 Sept 2026, next at Nowadays, New York City on Fri, 18 Sept 2026.
+5ive is a House and Deep House artist with 3 upcoming club dates listed on soundcheck as of Thu, 10 Sept 2026, next at Nowadays, New York City on Fri, 18 Sept 2026.
 
-5ive is a house and deep house artist tracked on soundcheck, with 21 sets logged across Bristol, Denver, London and Newyorkcity and 4 more. Often billed alongside Powder, CHIDA and KOOLMFL. Next up: Nowadays, Newyorkcity on Fri 18 Sept.
+5ive is a house and deep house artist tracked on soundcheck, with 22 sets logged across Bristol, Denver, London and Newyorkcity and 4 more. Often billed alongside Powder, CHIDA and KOOLMFL. Next up: Nowadays, Newyorkcity on Fri 18 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 18 Sept 2026 | Nowadays | New York City |
+| Sat, 10 Oct 2026 | Noon + Cafe | Osaka |
 | Sat, 24 Oct 2026 | VENT | Tokyo |
 
 ## Recently played
@@ -26,4 +27,4 @@
 
 Powder, CHIDA, KOOLMFL
 
-*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/5ive/)*
+*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/5ive/)*

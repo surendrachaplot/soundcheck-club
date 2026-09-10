@@ -1,6 +1,6 @@
 # Ellen Trenn
 
-Ellen Trenn is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Wed, 9 Sept 2026, next at RSO.BERLIN, Berlin on Sat, 19 Sept 2026.
+Ellen Trenn is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 10 Sept 2026, next at RSO.BERLIN, Berlin on Sat, 19 Sept 2026.
 
 Ellen Trenn is a techno and house artist based in Germany, tracked on soundcheck, with 30 sets logged across Amsterdam, Antwerp, Berlin and Cologne and 8 more. Often billed alongside Flour, BLONDEX and DJ SeXex. Next up: RSO.BERLIN, Berlin on Sat 19 Sept.
 
@@ -26,4 +26,4 @@ Ellen Trenn is a techno and house artist based in Germany, tracked on soundcheck
 
 Flour, BLONDEX, DJ SeXex
 
-*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ellentrenn/)*
+*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ellentrenn/)*

@@ -1,14 +1,16 @@
 # GCOD
 
-GCOD is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Wed, 9 Sept 2026, next at EXIL, Zurich on Fri, 18 Sept 2026.
+GCOD is a Techno and Trance artist with 3 upcoming club dates listed on soundcheck as of Thu, 10 Sept 2026, next at Frieda's Büxe, Zurich on Sat, 12 Sept 2026.
 
-GCOD is a techno and trance artist tracked on soundcheck, with 35 sets logged across Basel, Berlin, Tokyo and Zurich. Often billed alongside kso12, MARCISM and Megix. Next up: EXIL, Zurich on Fri 18 Sept.
+GCOD is a techno and trance artist tracked on soundcheck, with 37 sets logged across Basel, Berlin, Tokyo and Zurich. Often billed alongside MARCISM, kso12 and KYLIE. Next up: Frieda's Büxe, Zurich on Sat 12 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 12 Sept 2026 | Frieda's Büxe | Zurich |
 | Fri, 18 Sept 2026 | EXIL | Zurich |
+| Sat, 19 Sept 2026 | MÄX | Zurich |
 
 ## Recently played
 
@@ -23,6 +25,6 @@ GCOD is a techno and trance artist tracked on soundcheck, with 35 sets logged ac
 
 ## Shares bills with
 
-kso12, MARCISM, Megix
+MARCISM, kso12, KYLIE
 
-*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/gcod/)*
+*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/gcod/)*

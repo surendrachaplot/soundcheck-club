@@ -1,6 +1,6 @@
 # Lucky Lube
 
-Lucky Lube is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 9 Sept 2026, next at La Station - Gare des Mines, Paris on Sun, 13 Sept 2026.
+Lucky Lube is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 10 Sept 2026, next at La Station - Gare des Mines, Paris on Sun, 13 Sept 2026.
 
 Lucky Lube is a house and techno artist based in Denmark, tracked on soundcheck, with 89 sets logged across Berlin, Brussels, Copenhagen and Dublin and 9 more. Often billed alongside Frederik Tollund, Baltza and Harrison Heat. Next up: La Station - Gare des Mines, Paris on Sun 13 Sept.
 
@@ -25,4 +25,4 @@ Lucky Lube is a house and techno artist based in Denmark, tracked on soundcheck,
 
 Frederik Tollund, Baltza, Harrison Heat
 
-*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/luckylube/)*
+*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/luckylube/)*

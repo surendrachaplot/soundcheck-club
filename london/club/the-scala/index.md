@@ -1,15 +1,17 @@
 # The Scala
 
-The Scala is a music venue in London with 7 upcoming nights listed on soundcheck as of Wed, 9 Sept 2026; the next is "THE FRESHERS FRAT PARTY - £3 Tickets £3 Drinks at Scala" on Wed, 16 Sept 2026.
+The Scala is a music venue in London with 9 upcoming nights listed on soundcheck as of Thu, 10 Sept 2026; the next is "THE FRESHERS FRAT PARTY - £3 Tickets £3 Drinks at Scala" on Wed, 16 Sept 2026.
 
-The Scala is a music venue in London listed on soundcheck. 7 upcoming nights, with line-ups including J. Aria, Liam Parsons and Perdiem. Browse upcoming dates, start times and who's playing. 275 Pentonville Road; King´s Cross; London N1 9NL; United Kingdom.
+The Scala is a music venue in London listed on soundcheck. 9 upcoming nights, with line-ups including J. Aria, Liam Parsons and Perdiem. Browse upcoming dates, start times and who's playing. 275 Pentonville Road; King´s Cross; London N1 9NL; United Kingdom.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
 | Wed, 16 Sept 2026 | THE FRESHERS FRAT PARTY - £3 Tickets £3 Drinks at Scala |  |
+| Wed, 16 Sept 2026 | THE FRESHERS FRAT PARTY at SCALA |  |
 | Sat, 19 Sept 2026 | Back To The 90's & 00's: Throwback Session |  |
+| Sat, 19 Sept 2026 | Back To The 90's & 00's - London's ORIGINAL Throwback Session |  |
 | Sun, 20 Sept 2026 | The Freshers Moving In House Party |  |
 | Fri, 25 Sept 2026 | Rush Queer Party London | J. Aria, Liam Parsons, Perdiem |
 | Sat, 26 Sept 2026 | DRAKE NIGHT at SCALA! LONDON FRESHERS WEEK 2026 |  |
@@ -20,4 +22,4 @@ The Scala is a music venue in London listed on soundcheck. 7 upcoming nights, wi
 
 275 Pentonville Road; King´s Cross; London N1 9NL; United Kingdom, London
 
-*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/the-scala/)*
+*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/the-scala/)*

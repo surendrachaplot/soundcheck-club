@@ -1,6 +1,6 @@
 # Dj Andi
 
-Dj Andi is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Wed, 9 Sept 2026, next at TBA - New Secret Location - 5 min Walk from S Buckower Chaussee , Berlin on Sat, 12 Sept 2026.
+Dj Andi is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 10 Sept 2026, next at TBA - New Secret Location - 5 min Walk from S Buckower Chaussee , Berlin on Sat, 12 Sept 2026.
 
 Dj Andi is a techno and house artist tracked on soundcheck, with 19 sets logged across Berlin, Bucharest, Cologne and Saopaulo. Often billed alongside Ravejezuz, Thielking and GM1 (IT). Next up: TBA - New Secret Location - 5 min Walk from S Buckower Chaussee , Berlin on Sat 12 Sept.
 
@@ -26,4 +26,4 @@ Dj Andi is a techno and house artist tracked on soundcheck, with 19 sets logged 
 
 Ravejezuz, Thielking, GM1 (IT)
 
-*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djandi-de/)*
+*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djandi-de/)*

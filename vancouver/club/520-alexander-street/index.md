@@ -1,6 +1,6 @@
 # 520 Alexander Street
 
-520 Alexander Street is a music venue in Vancouver with 2 upcoming nights listed on soundcheck as of Wed, 9 Sept 2026; the next is "CANTA Y NO LLORES" on Sat, 12 Sept 2026.
+520 Alexander Street is a music venue in Vancouver with 2 upcoming nights listed on soundcheck as of Thu, 10 Sept 2026; the next is "CANTA Y NO LLORES" on Sat, 12 Sept 2026.
 
 520 Alexander Street is a music venue in Vancouver listed on soundcheck. 2 upcoming nights. Browse upcoming dates, start times and who's playing. 520 Alexander Street.
 
@@ -15,4 +15,4 @@
 
 520 Alexander Street, Vancouver
 
-*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/vancouver/club/520-alexander-street/)*
+*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/vancouver/club/520-alexander-street/)*

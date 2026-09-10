@@ -1,6 +1,6 @@
 # Lou
 
-Lou is a Techno and Experimental artist with 2 upcoming club dates listed on soundcheck as of Wed, 9 Sept 2026, next at La Rotonde Stalingrad, Paris on Fri, 11 Sept 2026.
+Lou is a Techno and Experimental artist with 2 upcoming club dates listed on soundcheck as of Thu, 10 Sept 2026, next at La Rotonde Stalingrad, Paris on Fri, 11 Sept 2026.
 
 Lou is a techno and experimental artist based in France, tracked on soundcheck, with 5 sets logged across Paris. Often billed alongside Amarou, Jacky Jeane and Aurèle. Next up: La Rotonde Stalingrad, Paris on Fri 11 Sept.
 
@@ -21,4 +21,4 @@ Lou is a techno and experimental artist based in France, tracked on soundcheck, 
 
 Amarou, Jacky Jeane, Aurèle
 
-*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lou_dj/)*
+*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lou_dj/)*

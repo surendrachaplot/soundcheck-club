@@ -1,8 +1,8 @@
 # Johannes Schuster
 
-Johannes Schuster is a Techno and Trance artist with 13 upcoming club dates listed on soundcheck as of Wed, 9 Sept 2026, next at Knockdown Center, New York City on Sat, 12 Sept 2026.
+Johannes Schuster is a Techno and Trance artist with 14 upcoming club dates listed on soundcheck as of Thu, 10 Sept 2026, next at Knockdown Center, New York City on Sat, 12 Sept 2026.
 
-Johannes Schuster is a techno and trance artist tracked on soundcheck, with 196 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 43 more. Often billed alongside KUKO, Cloudy and Neon Graveyard. Next up: Knockdown Center, Newyorkcity on Sat 12 Sept.
+Johannes Schuster is a techno and trance artist tracked on soundcheck, with 197 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 43 more. Often billed alongside KUKO, Cloudy and Neon Graveyard. Next up: Knockdown Center, Newyorkcity on Sat 12 Sept.
 
 ## Upcoming shows
 
@@ -36,4 +36,4 @@ Johannes Schuster is a techno and trance artist tracked on soundcheck, with 196 
 
 KUKO, Cloudy, Neon Graveyard
 
-*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/johannesschuster/)*
+*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/johannesschuster/)*

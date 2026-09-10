@@ -1,6 +1,6 @@
 # Danyelino
 
-Danyelino is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Wed, 9 Sept 2026, next at Pacha Ibiza, Ibiza on Fri, 11 Sept 2026.
+Danyelino is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Thu, 10 Sept 2026, next at Pacha Ibiza, Ibiza on Fri, 11 Sept 2026.
 
 Danyelino is a house and tech house artist tracked on soundcheck, with 200 sets logged across Barcelona, Ibiza and Miami. Often billed alongside Ms. Mada, Bakke and Thunderpony. Next up: Pacha Ibiza, Ibiza on Fri 11 Sept.
 
@@ -26,4 +26,4 @@ Danyelino is a house and tech house artist tracked on soundcheck, with 200 sets 
 
 Ms. Mada, Bakke, Thunderpony
 
-*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/danyelino/)*
+*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/danyelino/)*

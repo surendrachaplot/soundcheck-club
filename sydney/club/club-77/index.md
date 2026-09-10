@@ -1,8 +1,8 @@
 # Club 77
 
-Club 77 is a music venue in Sydney with 14 upcoming nights listed on soundcheck as of Wed, 9 Sept 2026; the next is "The Avalanches" on Thu, 10 Sept 2026.
+Club 77 is a music venue in Sydney with 16 upcoming nights listed on soundcheck as of Thu, 10 Sept 2026; the next is "The Avalanches" on Thu, 10 Sept 2026.
 
-Club 77 is a music venue in Sydney listed on soundcheck. 14 upcoming nights, with line-ups including The Avalanches, Ciara, Daniel Lupica and Deepchild and 2 more. Browse upcoming dates, start times and who's playing. 77 William St, Darlinghurst NSW 2010.
+Club 77 is a music venue in Sydney listed on soundcheck. 16 upcoming nights, with line-ups including Alex Diwa, The Avalanches, Ciara and Daniel Lupica and 2 more. Browse upcoming dates, start times and who's playing. 77 William St, Darlinghurst NSW 2010.
 
 ## What's on
 
@@ -23,4 +23,4 @@ Club 77 is a music venue in Sydney listed on soundcheck. 14 upcoming nights, wit
 
 77 William St, Darlinghurst NSW 2010, Sydney
 
-*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/sydney/club/club-77/)*
+*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/sydney/club/club-77/)*

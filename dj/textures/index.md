@@ -1,6 +1,6 @@
 # Textures
 
-Textures is a Electronica and Noise artist with 1 upcoming club date listed on soundcheck as of Wed, 9 Sept 2026, next at Bsmt 254, Toronto on Fri, 4 Dec 2026.
+Textures is a Electronica and Noise artist with 1 upcoming club date listed on soundcheck as of Thu, 10 Sept 2026, next at Bsmt 254, Toronto on Fri, 4 Dec 2026.
 
 Textures is an electronica and noise artist based in United Kingdom, tracked on soundcheck, with 5 sets logged across Hongkong, London and Toronto. Often billed alongside Animal Party (1), Babies R Stupid and DIGITAL. Next up: Bsmt 254, Toronto on Fri 4 Dec.
 
@@ -21,4 +21,4 @@ Textures is an electronica and noise artist based in United Kingdom, tracked on 
 
 Animal Party (1), Babies R Stupid, DIGITAL
 
-*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/textures/)*
+*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/textures/)*

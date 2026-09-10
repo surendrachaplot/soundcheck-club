@@ -1,6 +1,6 @@
 # Sho Komatsu
 
-Sho Komatsu is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 9 Sept 2026, next at M.O.T, London on Sun, 13 Sept 2026.
+Sho Komatsu is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 10 Sept 2026, next at M.O.T, London on Sun, 13 Sept 2026.
 
 Sho Komatsu is a house and techno artist based in Japan, tracked on soundcheck, with 17 sets logged across London and Tokyo. Often billed alongside Rentaro, Keisuke Wada and Ozwick. Next up: M.O.T, London on Sun 13 Sept.
 
@@ -26,4 +26,4 @@ Sho Komatsu is a house and techno artist based in Japan, tracked on soundcheck, 
 
 Rentaro, Keisuke Wada, Ozwick
 
-*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/shokomatsu/)*
+*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/shokomatsu/)*

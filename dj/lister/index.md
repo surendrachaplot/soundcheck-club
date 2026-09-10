@@ -1,6 +1,6 @@
 # Lister
 
-Lister is a House and Minimal artist with 2 upcoming club dates listed on soundcheck as of Wed, 9 Sept 2026, next at TBA - Il Mercato Centrale, Melbourne on Sat, 19 Sept 2026.
+Lister is a House and Minimal artist with 2 upcoming club dates listed on soundcheck as of Thu, 10 Sept 2026, next at TBA - Il Mercato Centrale, Melbourne on Sat, 19 Sept 2026.
 
 Lister is a house and minimal artist based in United Kingdom, tracked on soundcheck, with 8 sets logged across Edinburgh, Leeds, Melbourne and Newcastle. Often billed alongside Sedds, Nooney and DJ Bz. Next up: TBA - Il Mercato Centrale, Melbourne on Sat 19 Sept.
 
@@ -24,4 +24,4 @@ Lister is a house and minimal artist based in United Kingdom, tracked on soundch
 
 Sedds, Nooney, DJ Bz
 
-*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lister/)*
+*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lister/)*

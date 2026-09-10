@@ -1,6 +1,6 @@
 # Konsument
 
-Konsument is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Wed, 9 Sept 2026, next at TBA - Secret location Neukölln, Berlin on Fri, 18 Sept 2026.
+Konsument is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Thu, 10 Sept 2026, next at TBA - Secret location Neukölln, Berlin on Fri, 18 Sept 2026.
 
 Konsument is a techno and trance artist based in Germany, tracked on soundcheck, with 10 sets logged across Berlin. Often billed alongside DJ Spaßgetränk, DJ ŌVËRDRĪVÊ and NIKØ. Next up: TBA - Secret location Neukölln, Berlin on Fri 18 Sept.
 
@@ -25,4 +25,4 @@ Konsument is a techno and trance artist based in Germany, tracked on soundcheck,
 
 DJ Spaßgetränk, DJ ŌVËRDRĪVÊ, NIKØ
 
-*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/konsument/)*
+*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/konsument/)*

@@ -1,13 +1,14 @@
 # Ameera
 
-Ameera is a House and Funk / Soul artist with 1 upcoming club date listed on soundcheck as of Wed, 9 Sept 2026, next at Spread Art Collective, Detroit on Sun, 20 Sept 2026.
+Ameera is a House and Funk / Soul artist with 2 upcoming club dates listed on soundcheck as of Thu, 10 Sept 2026, next at Traverse City Whiskey Co. Outpost, Detroit on Fri, 11 Sept 2026.
 
-Ameera is a house and funk / soul artist tracked on soundcheck, with 60 sets logged across Chicago, Detroit and Newyorkcity. Often billed alongside Billy Winters, Kindle and Meftah. Next up: Spread Art Collective, Detroit on Sun 20 Sept.
+Ameera is a house and funk / soul artist tracked on soundcheck, with 61 sets logged across Chicago, Detroit and Newyorkcity. Often billed alongside Billy Winters, Kindle and Meftah. Next up: Traverse City Whiskey Co. Outpost, Detroit on Fri 11 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 11 Sept 2026 | Traverse City Whiskey Co. Outpost | Detroit |
 | Sun, 20 Sept 2026 | Spread Art Collective | Detroit |
 
 ## Recently played
@@ -25,4 +26,4 @@ Ameera is a house and funk / soul artist tracked on soundcheck, with 60 sets log
 
 Billy Winters, Kindle, Meftah
 
-*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ameera/)*
+*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ameera/)*

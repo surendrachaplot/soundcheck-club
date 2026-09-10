@@ -1,6 +1,6 @@
 # Blame Anthony
 
-Blame Anthony is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 9 Sept 2026, next at RSO.BERLIN, Berlin on Sat, 12 Sept 2026.
+Blame Anthony is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 10 Sept 2026, next at RSO.BERLIN, Berlin on Sat, 12 Sept 2026.
 
 Blame Anthony is a house and techno artist tracked on soundcheck, with 12 sets logged across Amsterdam, Barcelona, Berlin and London. Often billed alongside Thabo, Butterhands and Thalo Santana. Next up: RSO.BERLIN, Berlin on Sat 12 Sept.
 
@@ -26,4 +26,4 @@ Blame Anthony is a house and techno artist tracked on soundcheck, with 12 sets l
 
 Thabo, Butterhands, Thalo Santana
 
-*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/blameanthony/)*
+*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/blameanthony/)*

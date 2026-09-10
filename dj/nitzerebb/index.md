@@ -1,13 +1,14 @@
 # Nitzer Ebb
 
-Nitzer Ebb is a Industrial and New Wave artist with 2 upcoming club dates listed on soundcheck as of Wed, 9 Sept 2026, next at Elysium, Austin on Sat, 12 Sept 2026.
+Nitzer Ebb is a Industrial and New Wave artist with 3 upcoming club dates listed on soundcheck as of Thu, 10 Sept 2026, next at Scout Bar, Houston on Fri, 11 Sept 2026.
 
-Nitzer Ebb is an industrial and new wave artist tracked on soundcheck, with 16 sets logged across Austin, Berlin, Chicago and Detroit and 6 more. Often billed alongside Front 242, Depeche Mode and ECHO. Next up: Elysium, Austin on Sat 12 Sept.
+Nitzer Ebb is an industrial and new wave artist tracked on soundcheck, with 17 sets logged across Austin, Berlin, Chicago and Detroit and 6 more. Often billed alongside Front 242, Depeche Mode and ECHO. Next up: Scout Bar, Houston on Fri 11 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 11 Sept 2026 | Scout Bar | Houston |
 | Sat, 12 Sept 2026 | Elysium | Austin |
 | Sat, 19 Sept 2026 | The Ground at Club Space | Miami |
 
@@ -26,4 +27,4 @@ Nitzer Ebb is an industrial and new wave artist tracked on soundcheck, with 16 s
 
 Front 242, Depeche Mode, ECHO
 
-*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nitzerebb/)*
+*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nitzerebb/)*

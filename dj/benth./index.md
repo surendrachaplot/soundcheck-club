@@ -1,14 +1,14 @@
 # Benth.
 
-Benth. is a Techno and Dub Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 9 Sept 2026, next at TBA - FREQUENZA 79, Naples on Sat, 12 Sept 2026.
+Benth. is a Techno and Dub Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 10 Sept 2026, next at TBA, Naples on Sat, 12 Sept 2026.
 
-Benth. is a techno and dub techno artist based in Italy, tracked on soundcheck, with 5 sets logged across Naples. Often billed alongside Krashnoize, Angelo Pomposo and BTWN NTWRX. Next up: TBA - FREQUENZA 79, Naples on Sat 12 Sept.
+Benth. is a techno and dub techno artist based in Italy, tracked on soundcheck, with 5 sets logged across Naples. Often billed alongside Krashnoize, Angelo Pomposo and BTWN NTWRX. Next up: TBA, Naples on Sat 12 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 12 Sept 2026 | TBA - FREQUENZA 79 | Naples |
+| Sat, 12 Sept 2026 | TBA | Naples |
 
 ## Recently played
 
@@ -21,4 +21,4 @@ Benth. is a techno and dub techno artist based in Italy, tracked on soundcheck, 
 
 Krashnoize, Angelo Pomposo, BTWN NTWRX
 
-*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/benth./)*
+*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/benth./)*

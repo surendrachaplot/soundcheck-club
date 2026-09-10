@@ -1,6 +1,6 @@
 # BOPINTROUBLE
 
-BOPINTROUBLE is a Electronica and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 9 Sept 2026, next at Piazza Degli Affari, Milan on Fri, 11 Sept 2026.
+BOPINTROUBLE is a Electronica and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 10 Sept 2026, next at Piazza Degli Affari, Milan on Fri, 11 Sept 2026.
 
 BOPINTROUBLE is an electronica and techno artist based in Italy, tracked on soundcheck, with 14 sets logged across Milan. Often billed alongside Cristian Comes, Youssef Giga and 000vda. Next up: Piazza Degli Affari, Milan on Fri 11 Sept.
 
@@ -25,4 +25,4 @@ BOPINTROUBLE is an electronica and techno artist based in Italy, tracked on soun
 
 Cristian Comes, Youssef Giga, 000vda
 
-*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bopintrouble/)*
+*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bopintrouble/)*

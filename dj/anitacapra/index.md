@@ -1,6 +1,6 @@
 # Anita Capra
 
-Anita Capra is a Tech House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 9 Sept 2026, next at Garage 442, Barcelona on Thu, 10 Sept 2026.
+Anita Capra is a Tech House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 10 Sept 2026, next at Garage 442, Barcelona on Thu, 10 Sept 2026.
 
 Anita Capra is a tech house and techno artist tracked on soundcheck, with 7 sets logged across Barcelona. Often billed alongside Keyblow, Arturo Rivera and BARTAN. Next up: Garage 442, Barcelona on Thu 10 Sept.
 
@@ -23,4 +23,4 @@ Anita Capra is a tech house and techno artist tracked on soundcheck, with 7 sets
 
 Keyblow, Arturo Rivera, BARTAN
 
-*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/anitacapra/)*
+*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/anitacapra/)*

@@ -1,6 +1,6 @@
 # The Ghost
 
-The Ghost is a House and Tech House artist with 6 upcoming club dates listed on soundcheck as of Wed, 9 Sept 2026, next at Backsteinboot, Berlin on Fri, 11 Sept 2026.
+The Ghost is a House and Tech House artist with 6 upcoming club dates listed on soundcheck as of Thu, 10 Sept 2026, next at Backsteinboot, Berlin on Fri, 11 Sept 2026.
 
 The Ghost is a house and tech house artist tracked on soundcheck, with 177 sets logged across Amsterdam, Barcelona, Berlin and Brighton and 38 more. Often billed alongside Gene On Earth, Coast 2 Coast and Dr Banana. Next up: Backsteinboot, Berlin on Fri 11 Sept.
 
@@ -30,4 +30,4 @@ The Ghost is a house and tech house artist tracked on soundcheck, with 177 sets 
 
 Gene On Earth, Coast 2 Coast, Dr Banana
 
-*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/theghost/)*
+*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/theghost/)*

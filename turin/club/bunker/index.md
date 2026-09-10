@@ -1,6 +1,6 @@
 # Bunker
 
-Bunker is a music venue in Turin with 7 upcoming nights listed on soundcheck as of Wed, 9 Sept 2026; the next is "OUTLOUD" on Sat, 12 Sept 2026.
+Bunker is a music venue in Turin with 7 upcoming nights listed on soundcheck as of Thu, 10 Sept 2026; the next is "OUTLOUD" on Sat, 12 Sept 2026.
 
 Bunker is a music venue in Turin listed on soundcheck. 7 upcoming nights, with line-ups including Alex Dima, Alexia Glensy, ANNĒ and Bakked and 2 more. Browse upcoming dates, start times and who's playing. Via Niccolò Paganini, 0/200, 10154 Torino TO, Italy.
 
@@ -20,4 +20,4 @@ Bunker is a music venue in Turin listed on soundcheck. 7 upcoming nights, with l
 
 Via Niccolò Paganini, 0/200, 10154 Torino TO, Italy, Turin
 
-*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/turin/club/bunker/)*
+*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/turin/club/bunker/)*

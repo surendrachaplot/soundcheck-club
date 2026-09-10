@@ -1,6 +1,6 @@
 # Jono Ma
 
-Jono Ma is a Electronica and House artist with 2 upcoming club dates listed on soundcheck as of Wed, 9 Sept 2026, next at Club 77, Sydney on Thu, 10 Sept 2026.
+Jono Ma is a Electronica and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 10 Sept 2026, next at Club 77, Sydney on Thu, 10 Sept 2026.
 
 Jono Ma is an electronica and house artist tracked on soundcheck, with 8 sets logged across London, Melbourne and Sydney. Often billed alongside Dreems, Floating Points and Reenie. Next up: Club 77, Sydney on Thu 10 Sept.
 
@@ -24,4 +24,4 @@ Jono Ma is an electronica and house artist tracked on soundcheck, with 8 sets lo
 
 Dreems, Floating Points, Reenie
 
-*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jonoma/)*
+*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jonoma/)*

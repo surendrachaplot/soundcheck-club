@@ -1,6 +1,6 @@
 # Marc Romboy
 
-Marc Romboy is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Wed, 9 Sept 2026, next at Odonien, Cologne on Fri, 25 Sept 2026.
+Marc Romboy is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Thu, 10 Sept 2026, next at Odonien, Cologne on Fri, 25 Sept 2026.
 
 Marc Romboy is a techno and tech house artist based in Germany, tracked on soundcheck, with 25 sets logged across Amsterdam, Antwerp, Barcelona and Berlin and 8 more. Often billed alongside Robert Babicz, Frank Sonic and AMSL. Next up: Odonien, Cologne on Fri 25 Sept.
 
@@ -25,4 +25,4 @@ Marc Romboy is a techno and tech house artist based in Germany, tracked on sound
 
 Robert Babicz, Frank Sonic, AMSL
 
-*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/marcromboy/)*
+*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/marcromboy/)*

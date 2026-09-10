@@ -1,8 +1,8 @@
 # Roadrunner
 
-Roadrunner is a music venue in Boston with 7 upcoming nights listed on soundcheck as of Wed, 9 Sept 2026; the next is "ISOxo in Boston" on Fri, 11 Sept 2026.
+Roadrunner is a music venue in Boston with 8 upcoming nights listed on soundcheck as of Thu, 10 Sept 2026; the next is "ISOxo in Boston" on Fri, 11 Sept 2026.
 
-Roadrunner is a music venue in Boston listed on soundcheck. 7 upcoming nights, with line-ups including DJ_Dave, horsegiirL, nimino and The Prodigy and 2 more. Browse upcoming dates, start times and who's playing. 89 Guest St. Boston, MA 02135.
+Roadrunner is a music venue in Boston listed on soundcheck. 8 upcoming nights, with line-ups including DJ_Dave, horsegiirL, nimino and The Prodigy and 2 more. Browse upcoming dates, start times and who's playing. 89 Guest St. Boston, MA 02135.
 
 ## What's on
 
@@ -15,9 +15,10 @@ Roadrunner is a music venue in Boston listed on soundcheck. 7 upcoming nights, w
 | Sat, 31 Oct 2026 | horsegiirL in Boston | DJ_Dave, horsegiirL |
 | Fri, 6 Nov 2026 | nimino in Boston | nimino |
 | Fri, 20 Nov 2026 | Sara Landry in Boston | Sara Landry |
+| Sat, 5 Dec 2026 | ALLEYCVT in Boston |  |
 
 ## Address
 
 89 Guest St. Boston, MA 02135, Boston
 
-*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/boston/club/roadrunner/)*
+*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/boston/club/roadrunner/)*

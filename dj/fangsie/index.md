@@ -1,6 +1,6 @@
 # fangsie
 
-fangsie is a Techno and Hardcore artist with 2 upcoming club dates listed on soundcheck as of Wed, 9 Sept 2026, next at Le Red Room, Montreal on Thu, 10 Sept 2026.
+fangsie is a Techno and Hardcore artist with 2 upcoming club dates listed on soundcheck as of Thu, 10 Sept 2026, next at Le Red Room, Montreal on Thu, 10 Sept 2026.
 
 fangsie is a techno and hardcore artist based in Canada, tracked on soundcheck, with 21 sets logged across Montreal and Newyorkcity. Often billed alongside the bald girl, Mowie (2) and sineila. Next up: Le Red Room, Montreal on Thu 10 Sept.
 
@@ -26,4 +26,4 @@ fangsie is a techno and hardcore artist based in Canada, tracked on soundcheck, 
 
 the bald girl, Mowie (2), sineila
 
-*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/fangsie/)*
+*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/fangsie/)*

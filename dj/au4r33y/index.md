@@ -1,6 +1,6 @@
 # au4r33y
 
-au4r33y is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 9 Sept 2026, next at TBA - 2 Hours from Sydney, Sydney on Fri, 4 Dec 2026.
+au4r33y is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 10 Sept 2026, next at TBA - 2 Hours from Sydney, Sydney on Fri, 4 Dec 2026.
 
 au4r33y is a techno and house artist tracked on soundcheck, with 66 sets logged across Bangkok, Berlin, Hongkong and Melbourne and 4 more. Often billed alongside Kato, Paramat and Kyuchan. Next up: TBA - 2 Hours from Sydney, Sydney on Fri 4 Dec.
 
@@ -25,4 +25,4 @@ au4r33y is a techno and house artist tracked on soundcheck, with 66 sets logged 
 
 Kato, Paramat, Kyuchan
 
-*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/au4r33y/)*
+*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/au4r33y/)*

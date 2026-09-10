@@ -1,6 +1,6 @@
 # Gui Boratto
 
-Gui Boratto is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Wed, 9 Sept 2026, next at D-EDGE, Sao Paulo on Sat, 19 Sept 2026.
+Gui Boratto is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Thu, 10 Sept 2026, next at D-EDGE, Sao Paulo on Sat, 19 Sept 2026.
 
 Gui Boratto is a house and tech house artist tracked on soundcheck, with 50 sets logged across Amsterdam, Bali, Barcelona and Basel and 15 more. Often billed alongside Coppola, Adnan Sharif and Gabriel Brasil. Next up: D-EDGE, Saopaulo on Sat 19 Sept.
 
@@ -26,4 +26,4 @@ Gui Boratto is a house and tech house artist tracked on soundcheck, with 50 sets
 
 Coppola, Adnan Sharif, Gabriel Brasil
 
-*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/guiboratto/)*
+*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/guiboratto/)*

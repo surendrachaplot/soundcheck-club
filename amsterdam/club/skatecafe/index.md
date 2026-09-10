@@ -1,8 +1,8 @@
 # Skatecafe
 
-Skatecafe is a music venue in Amsterdam with 21 upcoming nights listed on soundcheck as of Wed, 9 Sept 2026; the next is "SPINNING ANGELS" on Fri, 11 Sept 2026.
+Skatecafe is a music venue in Amsterdam with 22 upcoming nights listed on soundcheck as of Thu, 10 Sept 2026; the next is "SPINNING ANGELS" on Fri, 11 Sept 2026.
 
-Skatecafe is a music venue in Amsterdam listed on soundcheck. 21 upcoming nights, with line-ups including A For Alpha, Bibtiana, Blasha & Allatt and Call Super and 2 more. Browse upcoming dates, start times and who's playing. Gedempt Hamerkanaal 42.
+Skatecafe is a music venue in Amsterdam listed on soundcheck. 22 upcoming nights, with line-ups including A For Alpha, amara, Amz and Anèl and 2 more. Browse upcoming dates, start times and who's playing. Gedempt Hamerkanaal 42.
 
 ## What's on
 
@@ -23,4 +23,4 @@ Skatecafe is a music venue in Amsterdam listed on soundcheck. 21 upcoming nights
 
 Gedempt Hamerkanaal 42, Amsterdam
 
-*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/skatecafe/)*
+*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/skatecafe/)*

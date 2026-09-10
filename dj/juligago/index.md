@@ -1,6 +1,6 @@
 # Juli Gago
 
-Juli Gago is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Wed, 9 Sept 2026, next at Kater, Berlin on Sat, 24 Oct 2026.
+Juli Gago is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Thu, 10 Sept 2026, next at Kater, Berlin on Sat, 24 Oct 2026.
 
 Juli Gago is a house and tech house artist based in Argentina, tracked on soundcheck, with 14 sets logged across Berlin, Melbourne and Sydney. Often billed alongside Clemente (DE), Flor Coto and Juan Ferreyra. Next up: Kater, Berlin on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ Juli Gago is a house and tech house artist based in Argentina, tracked on soundc
 
 Clemente (DE), Flor Coto, Juan Ferreyra
 
-*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/juligago/)*
+*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/juligago/)*

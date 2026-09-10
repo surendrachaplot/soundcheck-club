@@ -1,8 +1,8 @@
 # Grimwig
 
-Grimwig is a Experimental and Electronica artist with 2 upcoming club dates listed on soundcheck as of Wed, 9 Sept 2026, next at KGR(n), Tokyo on Fri, 2 Oct 2026.
+Grimwig is a Experimental and Electronica artist with 4 upcoming club dates listed on soundcheck as of Thu, 10 Sept 2026, next at KGR(n), Tokyo on Fri, 2 Oct 2026.
 
-Grimwig is an experimental and electronica artist based in Canada, tracked on soundcheck, with 12 sets logged across Berlin, Brussels, Kyoto and London and 4 more. Often billed alongside Laurine Frost, Big Hands and Max Loderbauer. Next up: KGR(n), Tokyo on Fri 2 Oct.
+Grimwig is an experimental and electronica artist based in Canada, tracked on soundcheck, with 14 sets logged across Berlin, Brussels, Kyoto and London and 4 more. Often billed alongside Laurine Frost, Big Hands and Max Loderbauer. Next up: KGR(n), Tokyo on Fri 2 Oct.
 
 ## Upcoming shows
 
@@ -10,6 +10,8 @@ Grimwig is an experimental and electronica artist based in Canada, tracked on so
 | --- | --- | --- |
 | Fri, 2 Oct 2026 | KGR(n) | Tokyo |
 | Sat, 3 Oct 2026 | Forestlimit | Tokyo |
+| Fri, 9 Oct 2026 | Area_osaka | Osaka |
+| Sun, 11 Oct 2026 | Bonobo | Tokyo |
 
 ## Recently played
 
@@ -26,4 +28,4 @@ Grimwig is an experimental and electronica artist based in Canada, tracked on so
 
 Laurine Frost, Big Hands, Max Loderbauer
 
-*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/grimwig/)*
+*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/grimwig/)*

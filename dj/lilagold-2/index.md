@@ -1,6 +1,6 @@
 # Lila Gold (2)
 
-Lila Gold (2) is a Trance and Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 9 Sept 2026, next at Opera Club, Vienna on Sat, 12 Sept 2026.
+Lila Gold (2) is a Trance and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 10 Sept 2026, next at Opera Club, Vienna on Sat, 12 Sept 2026.
 
 Lila Gold (2) is a trance and techno artist based in Austria, tracked on soundcheck, with 12 sets logged across Vienna. Often billed alongside Aleta, ASCHENBRENNER and Der Werther. Next up: Opera Club, Vienna on Sat 12 Sept.
 
@@ -26,4 +26,4 @@ Lila Gold (2) is a trance and techno artist based in Austria, tracked on soundch
 
 Aleta, ASCHENBRENNER, Der Werther
 
-*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lilagold-2/)*
+*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lilagold-2/)*

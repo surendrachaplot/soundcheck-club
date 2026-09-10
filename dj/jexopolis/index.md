@@ -1,6 +1,6 @@
 # Jex Opolis
 
-Jex Opolis is a House and Progressive House artist with 2 upcoming club dates listed on soundcheck as of Wed, 9 Sept 2026, next at Brooklyn Roots Collective, New York City on Fri, 2 Oct 2026.
+Jex Opolis is a House and Progressive House artist with 2 upcoming club dates listed on soundcheck as of Thu, 10 Sept 2026, next at Brooklyn Roots Collective, New York City on Fri, 2 Oct 2026.
 
 Jex Opolis is a house and progressive house artist tracked on soundcheck, with 46 sets logged across Brussels, Buenosaires, Chicago and Hamburg and 20 more. Often billed alongside Bell Towers, Jeremy Castillo and Adi Toohey. Next up: Brooklyn Roots Collective, Newyorkcity on Fri 2 Oct.
 
@@ -26,4 +26,4 @@ Jex Opolis is a house and progressive house artist tracked on soundcheck, with 4
 
 Bell Towers, Jeremy Castillo, Adi Toohey
 
-*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jexopolis/)*
+*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jexopolis/)*

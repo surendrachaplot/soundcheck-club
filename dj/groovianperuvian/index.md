@@ -1,6 +1,6 @@
 # groovian peruvian
 
-groovian peruvian is a Tech House artist with 1 upcoming club date listed on soundcheck as of Wed, 9 Sept 2026, next at Bar Oriente, Mexico City on Thu, 10 Sept 2026.
+groovian peruvian is a Tech House artist with 1 upcoming club date listed on soundcheck as of Thu, 10 Sept 2026, next at Bar Oriente, Mexico City on Thu, 10 Sept 2026.
 
 groovian peruvian is a tech house artist based in Peru, tracked on soundcheck, with 15 sets logged across Amsterdam, Berlin, Frankfurt and Mexicocity and 1 more. Often billed alongside mafiii, DJ SEXSTASY and Katopodis. Next up: Bar Oriente, Mexicocity on Thu 10 Sept.
 
@@ -25,4 +25,4 @@ groovian peruvian is a tech house artist based in Peru, tracked on soundcheck, w
 
 mafiii, DJ SEXSTASY, Katopodis
 
-*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/groovianperuvian/)*
+*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/groovianperuvian/)*

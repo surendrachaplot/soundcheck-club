@@ -1,8 +1,8 @@
 # Dillinja
 
-Dillinja is a Drum & Bass and Jungle artist with 7 upcoming club dates listed on soundcheck as of Wed, 9 Sept 2026, next at Sawmills, Bristol on Sat, 12 Sept 2026.
+Dillinja is a Drum & Bass and Jungle artist with 8 upcoming club dates listed on soundcheck as of Thu, 10 Sept 2026, next at Sawmills, Bristol on Sat, 12 Sept 2026.
 
-Dillinja is a drum & bass and jungle artist tracked on soundcheck, with 115 sets logged across Amsterdam, Antwerp, Auckland and Berlin and 27 more. Often billed alongside IC3, Bryan Gee and MC GQ. Next up: Sawmills, Bristol on Sat 12 Sept.
+Dillinja is a drum & bass and jungle artist tracked on soundcheck, with 116 sets logged across Amsterdam, Antwerp, Auckland and Berlin and 28 more. Often billed alongside IC3, Bryan Gee and MC GQ. Next up: Sawmills, Bristol on Sat 12 Sept.
 
 ## Upcoming shows
 
@@ -13,6 +13,7 @@ Dillinja is a drum & bass and jungle artist tracked on soundcheck, with 115 sets
 | Sat, 3 Oct 2026 | NOWHERE | Manchester |
 | Fri, 23 Oct 2026 | Sidney & Matilda | Sheffield |
 | Fri, 20 Nov 2026 | TBA - The Other Side (Friday) - Warehouse Elementenstraat (Saturday) | Amsterdam |
+| Sat, 21 Nov 2026 | TBA - Brussels | Brussels |
 | Sat, 21 Nov 2026 | Warehouse Elementenstraat | Amsterdam |
 | Fri, 4 Dec 2026 | The Prospect Building | Bristol |
 
@@ -31,4 +32,4 @@ Dillinja is a drum & bass and jungle artist tracked on soundcheck, with 115 sets
 
 IC3, Bryan Gee, MC GQ
 
-*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dillinja/)*
+*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dillinja/)*

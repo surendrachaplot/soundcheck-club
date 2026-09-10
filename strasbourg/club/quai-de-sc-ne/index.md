@@ -1,6 +1,6 @@
 # Quai de Scène
 
-Quai de Scène is a music venue in Strasbourg with 1 upcoming night listed on soundcheck as of Wed, 9 Sept 2026; the next is "It's Ariana Bitch Party Strasbourg avec Moon" on Sat, 26 Sept 2026.
+Quai de Scène is a music venue in Strasbourg with 1 upcoming night listed on soundcheck as of Thu, 10 Sept 2026; the next is "It's Ariana Bitch Party Strasbourg avec Moon" on Sat, 26 Sept 2026.
 
 Quai de Scène is a music venue in Strasbourg listed on soundcheck. 1 upcoming night. Browse upcoming dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ Quai de Scène is a music venue in Strasbourg listed on soundcheck. 1 upcoming n
 | --- | --- | --- |
 | Sat, 26 Sept 2026 | It's Ariana Bitch Party Strasbourg avec Moon |  |
 
-*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/strasbourg/club/quai-de-sc-ne/)*
+*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/strasbourg/club/quai-de-sc-ne/)*

@@ -1,6 +1,6 @@
 # yimo yivil
 
-yimo yivil is a Experimental and Club artist with 1 upcoming club date listed on soundcheck as of Wed, 9 Sept 2026, next at TBA - Warschauer Pl. 18, 10245 Berlin, Berlin on Sat, 12 Sept 2026.
+yimo yivil is a Experimental and Club artist with 1 upcoming club date listed on soundcheck as of Thu, 10 Sept 2026, next at TBA - Warschauer Pl. 18, 10245 Berlin, Berlin on Sat, 12 Sept 2026.
 
 yimo yivil is an experimental and club artist based in China, tracked on soundcheck, with 19 sets logged across Berlin and Copenhagen. Often billed alongside shasti, kjjabber and Kloxii Li. Next up: TBA - Warschauer Pl. 18, 10245 Berlin, Berlin on Sat 12 Sept.
 
@@ -25,4 +25,4 @@ yimo yivil is an experimental and club artist based in China, tracked on soundch
 
 shasti, kjjabber, Kloxii Li
 
-*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/yimoyivil/)*
+*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/yimoyivil/)*

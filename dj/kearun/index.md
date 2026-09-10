@@ -1,6 +1,6 @@
 # Kearun
 
-Kearun is a Minimal and House artist with 1 upcoming club date listed on soundcheck as of Wed, 9 Sept 2026, next at FOLD, London on Fri, 11 Sept 2026.
+Kearun is a Minimal and House artist with 1 upcoming club date listed on soundcheck as of Thu, 10 Sept 2026, next at FOLD, London on Fri, 11 Sept 2026.
 
 Kearun is a minimal and house artist tracked on soundcheck, with 30 sets logged across Berlin, Bucharest, Leeds and London and 1 more. Often billed alongside Holly Why, Luca and Sol and Damian Nova. Next up: FOLD, London on Fri 11 Sept.
 
@@ -25,4 +25,4 @@ Kearun is a minimal and house artist tracked on soundcheck, with 30 sets logged 
 
 Holly Why, Luca and Sol, Damian Nova
 
-*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kearun/)*
+*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kearun/)*

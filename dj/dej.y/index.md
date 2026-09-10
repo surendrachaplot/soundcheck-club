@@ -1,14 +1,15 @@
 # dej.y
 
-dej.y is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 9 Sept 2026, next at TV Lounge, Detroit on Fri, 11 Sept 2026.
+dej.y is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 10 Sept 2026, next at TV Lounge, Detroit on Fri, 11 Sept 2026.
 
-dej.y is a house and techno artist tracked on soundcheck, with 71 sets logged across Detroit, Montreal, Nashville and Newyorkcity. Often billed alongside Kindle, Aboudi Issa and Jesse Cory. Next up: TV Lounge, Detroit on Fri 11 Sept.
+dej.y is a house and techno artist tracked on soundcheck, with 72 sets logged across Detroit, Montreal, Nashville and Newyorkcity. Often billed alongside Kindle, Stacey Hotwaxx Hale and Aboudi Issa. Next up: TV Lounge, Detroit on Fri 11 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 11 Sept 2026 | TV Lounge | Detroit |
+| Sun, 4 Oct 2026 | TV Lounge | Detroit |
 
 ## Recently played
 
@@ -23,6 +24,6 @@ dej.y is a house and techno artist tracked on soundcheck, with 71 sets logged ac
 
 ## Shares bills with
 
-Kindle, Aboudi Issa, Jesse Cory
+Kindle, Stacey Hotwaxx Hale, Aboudi Issa
 
-*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dej.y/)*
+*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dej.y/)*

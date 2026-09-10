@@ -1,6 +1,6 @@
 # Scottieboy
 
-Scottieboy is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Wed, 9 Sept 2026, next at Bramble, Edinburgh on Fri, 11 Sept 2026.
+Scottieboy is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Thu, 10 Sept 2026, next at Bramble, Edinburgh on Fri, 11 Sept 2026.
 
 Scottieboy is a house and disco artist based in United Kingdom, tracked on soundcheck, with 30 sets logged across Edinburgh. Often billed alongside Peaky Blindrunk. Next up: Bramble, Edinburgh on Fri 11 Sept.
 
@@ -25,4 +25,4 @@ Scottieboy is a house and disco artist based in United Kingdom, tracked on sound
 
 Peaky Blindrunk
 
-*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/scottieboy/)*
+*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/scottieboy/)*

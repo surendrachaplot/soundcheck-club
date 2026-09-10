@@ -1,6 +1,6 @@
 # Society Clubhouse
 
-Society Clubhouse is a music venue in Toronto with 2 upcoming nights listed on soundcheck as of Wed, 9 Sept 2026; the next is "Lucid Resident Night" on Thu, 10 Sept 2026.
+Society Clubhouse is a music venue in Toronto with 2 upcoming nights listed on soundcheck as of Thu, 10 Sept 2026; the next is "Lucid Resident Night" on Thu, 10 Sept 2026.
 
 Society Clubhouse is a music venue in Toronto listed on soundcheck. 2 upcoming nights, with line-ups including Hemlock (CA), Siren, Siren (4) and Utopos. Browse upcoming dates, start times and who's playing. 967 College St, Toronto, ON M6H 1A6.
 
@@ -15,4 +15,4 @@ Society Clubhouse is a music venue in Toronto listed on soundcheck. 2 upcoming n
 
 967 College St, Toronto, ON M6H 1A6, Toronto
 
-*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/society-clubhouse/)*
+*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/society-clubhouse/)*

@@ -1,6 +1,6 @@
 # Kraftwerket
 
-Kraftwerket is a music venue in Copenhagen with 2 upcoming nights listed on soundcheck as of Wed, 9 Sept 2026; the next is "RUN THE RAVE: spin-off [episode 5]" on Thu, 10 Sept 2026.
+Kraftwerket is a music venue in Copenhagen with 2 upcoming nights listed on soundcheck as of Thu, 10 Sept 2026; the next is "RUN THE RAVE: spin-off [episode 5]" on Thu, 10 Sept 2026.
 
 Kraftwerket is a music venue in Copenhagen listed on soundcheck. 2 upcoming nights, with line-ups including Dj Algorythm, Dwonji, HDN (DK) and Helle (DK) and 2 more. Browse upcoming dates, start times and who's playing. Valgårdsvej 2, 2500 Valby, København, Denmark.
 
@@ -15,4 +15,4 @@ Kraftwerket is a music venue in Copenhagen listed on soundcheck. 2 upcoming nigh
 
 Valgårdsvej 2, 2500 Valby, København, Denmark, Copenhagen
 
-*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/copenhagen/club/kraftwerket/)*
+*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/copenhagen/club/kraftwerket/)*

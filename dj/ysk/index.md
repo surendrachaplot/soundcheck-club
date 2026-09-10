@@ -1,6 +1,6 @@
 # YSK.
 
-YSK. is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 9 Sept 2026, next at Mitsuki, Tokyo on Sat, 12 Sept 2026.
+YSK. is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 10 Sept 2026, next at Mitsuki, Tokyo on Sat, 12 Sept 2026.
 
 YSK. is a techno and house artist based in Japan, tracked on soundcheck, with 28 sets logged across Berlin, Hongkong, Melbourne and Osaka and 6 more. Often billed alongside OCCA, fleika and Olevv. Next up: Mitsuki, Tokyo on Sat 12 Sept.
 
@@ -25,4 +25,4 @@ YSK. is a techno and house artist based in Japan, tracked on soundcheck, with 28
 
 OCCA, fleika, Olevv
 
-*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ysk/)*
+*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ysk/)*

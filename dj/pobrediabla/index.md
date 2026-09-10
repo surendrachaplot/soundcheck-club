@@ -1,6 +1,6 @@
 # pobrediabla
 
-pobrediabla is a Electronica and Experimental artist with 1 upcoming club date listed on soundcheck as of Wed, 9 Sept 2026, next at Cine Athenée, Athens on Sat, 26 Sept 2026.
+pobrediabla is a Electronica and Experimental artist with 1 upcoming club date listed on soundcheck as of Thu, 10 Sept 2026, next at Cine Athenée, Athens on Sat, 26 Sept 2026.
 
 pobrediabla is an electronica and experimental artist tracked on soundcheck, with 11 sets logged across Athens, Berlin and London. Often billed alongside Fake City Quiet Pills, LIL RISK and PAULAH. Next up: Cine Athenée, Athens on Sat 26 Sept.
 
@@ -25,4 +25,4 @@ pobrediabla is an electronica and experimental artist tracked on soundcheck, wit
 
 Fake City Quiet Pills, LIL RISK, PAULAH
 
-*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/pobrediabla/)*
+*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/pobrediabla/)*

@@ -1,8 +1,8 @@
 # Miss Parker
 
-Miss Parker is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Wed, 9 Sept 2026, next at Camp Kennybrook, New York City on Thu, 10 Sept 2026.
+Miss Parker is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Thu, 10 Sept 2026, next at Camp Kennybrook, New York City on Thu, 10 Sept 2026.
 
-Miss Parker is a techno and house artist tracked on soundcheck, with 127 sets logged across Berlin, Boston, Chicago and Hamburg and 6 more. Often billed alongside Devoye, DJ Thank You and Princess Peggie. Next up: Camp Kennybrook, Newyorkcity on Thu 10 Sept.
+Miss Parker is a techno and house artist tracked on soundcheck, with 128 sets logged across Berlin, Boston, Chicago and Hamburg and 6 more. Often billed alongside Devoye, DJ Thank You and Princess Peggie. Next up: Camp Kennybrook, Newyorkcity on Thu 10 Sept.
 
 ## Upcoming shows
 
@@ -12,6 +12,7 @@ Miss Parker is a techno and house artist tracked on soundcheck, with 127 sets lo
 | Fri, 18 Sept 2026 | Bossa Nova Civic Club | New York City |
 | Sat, 19 Sept 2026 | Elsewhere | New York City |
 | Fri, 25 Sept 2026 | The San Francisco Mint | San Francisco/Oakland |
+| Sat, 3 Oct 2026 | TBA - Warehouse Location | Philadelphia |
 | Thu, 15 Oct 2026 | Nowadays | New York City |
 
 ## Recently played
@@ -29,4 +30,4 @@ Miss Parker is a techno and house artist tracked on soundcheck, with 127 sets lo
 
 Devoye, DJ Thank You, Princess Peggie
 
-*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/missparker/)*
+*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/missparker/)*

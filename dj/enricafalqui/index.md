@@ -1,6 +1,6 @@
 # Enrica Falqui
 
-Enrica Falqui is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Wed, 9 Sept 2026, next at La Rotonde Stalingrad, Paris on Sat, 12 Sept 2026.
+Enrica Falqui is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Thu, 10 Sept 2026, next at La Rotonde Stalingrad, Paris on Sat, 12 Sept 2026.
 
 Enrica Falqui is a techno and house artist tracked on soundcheck, with 115 sets logged across Amsterdam, Antwerp, Athens and Bali and 33 more. Often billed alongside Dea (6), ERIS and Alexia Glensy. Next up: La Rotonde Stalingrad, Paris on Sat 12 Sept.
 
@@ -27,4 +27,4 @@ Enrica Falqui is a techno and house artist tracked on soundcheck, with 115 sets 
 
 Dea (6), ERIS, Alexia Glensy
 
-*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/enricafalqui/)*
+*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/enricafalqui/)*

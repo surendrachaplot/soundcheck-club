@@ -1,6 +1,6 @@
 # Northern Lights Lounge
 
-Northern Lights Lounge is a music venue in Detroit with 6 upcoming nights listed on soundcheck as of Wed, 9 Sept 2026; the next is "ELIXIR THURS • DR. Disko Dust aka John Ryan • MIRA • FRINGESHIP • No Cover" on Thu, 10 Sept 2026.
+Northern Lights Lounge is a music venue in Detroit with 6 upcoming nights listed on soundcheck as of Thu, 10 Sept 2026; the next is "ELIXIR THURS • DR. Disko Dust aka John Ryan • MIRA • FRINGESHIP • No Cover" on Thu, 10 Sept 2026.
 
 Northern Lights Lounge is a music venue in Detroit listed on soundcheck. 6 upcoming nights, with line-ups including The AM/AMX, Brent Shay, DJ Assault and DJ Candor and 2 more. Browse upcoming dates, start times and who's playing. 660 W. Baltimore Street; Detroit, MI 48202; United States.
 
@@ -8,7 +8,7 @@ Northern Lights Lounge is a music venue in Detroit listed on soundcheck. 6 upcom
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Thu, 10 Sept 2026 | ELIXIR THURS • DR. Disko Dust aka John Ryan • MIRA • FRINGESHIP • No Cover | DR. Disko Dust |
+| Thu, 10 Sept 2026 | ELIXIR THURS • DR. Disko Dust aka John Ryan • MIRA • FRINGESHIP • No Cover | DR. Disko Dust, mira (5) |
 | Fri, 11 Sept 2026 | Anatomy presents: Marcel Fengler (IMF, Berghain), AMX, Henry Brooks, DJ Sphinx, Redax & More | DJ SPHiNX, Henry Brooks, Konrad James, Lady Witch, Marcel Fengler, Redax, The AM/AMX |
 | Sat, 12 Sept 2026 | LAÍRE NIGHT X | Brent Shay, DJ Candor, DJ I.V., DJ IV, Dru Ruiz, Gregboi, Hudson, Hudson (3), Jah Knee, James Connor, LAÍRE, Mira, Mr. Twista, Tormented, X(S)INA, madeera, moregasm |
 | Sat, 19 Sept 2026 | Alternative School presents: BOUNCE THAT with DJ Assault | DJ Assault, DJ Psycho, Ember LaFiamma, Fullbodydurag, jamea., we1sman |
@@ -19,4 +19,4 @@ Northern Lights Lounge is a music venue in Detroit listed on soundcheck. 6 upcom
 
 660 W. Baltimore Street; Detroit, MI 48202; United States, Detroit
 
-*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/detroit/club/northern-lights-lounge/)*
+*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/detroit/club/northern-lights-lounge/)*

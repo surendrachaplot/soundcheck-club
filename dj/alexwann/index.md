@@ -1,6 +1,6 @@
 # Alex Wann
 
-Alex Wann is a Afro House and House artist with 9 upcoming club dates listed on soundcheck as of Wed, 9 Sept 2026, next at Shelter Amsterdam, Amsterdam on Fri, 11 Sept 2026.
+Alex Wann is a Afro House and House artist with 9 upcoming club dates listed on soundcheck as of Thu, 10 Sept 2026, next at Shelter Amsterdam, Amsterdam on Fri, 11 Sept 2026.
 
 Alex Wann is an afro house and house artist tracked on soundcheck, with 143 sets logged across Amsterdam, Antwerp, Athens and Bali and 41 more. Often billed alongside Notre Dame, Andrea Oliva and Francis Mercier. Next up: Shelter Amsterdam, Amsterdam on Fri 11 Sept.
 
@@ -14,7 +14,7 @@ Alex Wann is an afro house and house artist tracked on soundcheck, with 143 sets
 | Sun, 4 Oct 2026 | Savaya Bali | Bali |
 | Sat, 10 Oct 2026 | The Ivy | Sydney |
 | Sun, 11 Oct 2026 | Revolver Upstairs | Melbourne |
-| Fri, 23 Oct 2026 | TBA | Amsterdam |
+| Fri, 23 Oct 2026 | The Loft Amsterdam | Amsterdam |
 | Sat, 24 Oct 2026 | NDSM Scheepsbouwloods | Amsterdam |
 | Sat, 28 Nov 2026 | Waagnatie Expo & Events | Antwerp |
 
@@ -33,4 +33,4 @@ Alex Wann is an afro house and house artist tracked on soundcheck, with 143 sets
 
 Notre Dame, Andrea Oliva, Francis Mercier
 
-*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/alexwann/)*
+*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/alexwann/)*

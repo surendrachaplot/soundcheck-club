@@ -1,14 +1,15 @@
 # Dangerous Rose
 
-Dangerous Rose is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 9 Sept 2026, next at Club Rawhide, New York City on Sat, 12 Sept 2026.
+Dangerous Rose is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 10 Sept 2026, next at Club Rawhide, New York City on Sat, 12 Sept 2026.
 
-Dangerous Rose is a techno and house artist based in United States of America, tracked on soundcheck, with 34 sets logged across Amsterdam, Ibiza, Losangeles and Newyorkcity. Often billed alongside Makadsi, FASHION (US) and Memphy. Next up: Club Rawhide, Newyorkcity on Sat 12 Sept.
+Dangerous Rose is a techno and house artist based in United States of America, tracked on soundcheck, with 35 sets logged across Amsterdam, Ibiza, Losangeles and Miami and 1 more. Often billed alongside Makadsi, FASHION (US) and Memphy. Next up: Club Rawhide, Newyorkcity on Sat 12 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 12 Sept 2026 | Club Rawhide | New York City |
+| Fri, 18 Sept 2026 | The Ground at Club Space | Miami |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Dangerous Rose is a techno and house artist based in United States of America, t
 
 Makadsi, FASHION (US), Memphy
 
-*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dangerousrose/)*
+*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dangerousrose/)*

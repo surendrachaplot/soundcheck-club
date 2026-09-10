@@ -1,8 +1,8 @@
 # Podlasie Club
 
-Podlasie Club is a music venue in Chicago with 13 upcoming nights listed on soundcheck as of Wed, 9 Sept 2026; the next is "SPYCE" on Thu, 10 Sept 2026.
+Podlasie Club is a music venue in Chicago with 14 upcoming nights listed on soundcheck as of Thu, 10 Sept 2026; the next is "SPYCE" on Thu, 10 Sept 2026.
 
-Podlasie Club is a music venue in Chicago listed on soundcheck. 13 upcoming nights, with line-ups including Beau Wanzer, Brendan Lemkin, Casper McFadden and Champagne Mirrors and 2 more. Browse upcoming dates, start times and who's playing. 2918 N Central Park Ave, Avondale, Chicago, IL, 60618.
+Podlasie Club is a music venue in Chicago listed on soundcheck. 14 upcoming nights, with line-ups including Beau Wanzer, Brendan Lemkin, Casper McFadden and Champagne Mirrors and 2 more. Browse upcoming dates, start times and who's playing. 2918 N Central Park Ave, Avondale, Chicago, IL, 60618.
 
 ## What's on
 
@@ -17,10 +17,10 @@ Podlasie Club is a music venue in Chicago listed on soundcheck. 13 upcoming nigh
 | Thu, 17 Sept 2026 | 33 GIRI | Nolia, Pen Pals |
 | Fri, 18 Sept 2026 | DAYBREAK | Casper McFadden, DJ Paypal, Loqum |
 | Sat, 19 Sept 2026 | Mouse in a Flower | Fergus Jones, My Flower, k.oz |
-| Thu, 24 Sept 2026 | STRICTLY 90's | Czboogie, Gant-Man, John Simmons |
+| Thu, 24 Sept 2026 | MOTIONSICK PRESENTS: TRANSPORT | KIMBÄ |
 
 ## Address
 
 2918 N Central Park Ave, Avondale, Chicago, IL, 60618, Chicago
 
-*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/chicago/club/podlasie-club/)*
+*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/chicago/club/podlasie-club/)*

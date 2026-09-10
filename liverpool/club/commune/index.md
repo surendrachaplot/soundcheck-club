@@ -1,6 +1,6 @@
 # Commune
 
-Commune is a music venue in Liverpool with 7 upcoming nights listed on soundcheck as of Wed, 9 Sept 2026; the next is "Emotion Wave: Roy + Lo Five // B.A.G.S // Jez Thelwell" on Thu, 10 Sept 2026.
+Commune is a music venue in Liverpool with 7 upcoming nights listed on soundcheck as of Thu, 10 Sept 2026; the next is "Emotion Wave: Roy + Lo Five // B.A.G.S // Jez Thelwell" on Thu, 10 Sept 2026.
 
 Commune is a music venue in Liverpool listed on soundcheck. 7 upcoming nights, with line-ups including Jez Thelwell, Lo Five, Love Machine and Madelaine Jemine and 1 more. Browse upcoming dates, start times and who's playing. Constance St, Liverpool L3 8HB.
 
@@ -20,4 +20,4 @@ Commune is a music venue in Liverpool listed on soundcheck. 7 upcoming nights, w
 
 Constance St, Liverpool L3 8HB, Liverpool
 
-*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/liverpool/club/commune/)*
+*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/liverpool/club/commune/)*

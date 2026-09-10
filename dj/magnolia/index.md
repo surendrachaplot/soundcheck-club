@@ -1,14 +1,15 @@
 # Magnolia
 
-Magnolia is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Wed, 9 Sept 2026, next at Sacré, Paris on Sat, 12 Sept 2026.
+Magnolia is a House and Disco artist with 3 upcoming club dates listed on soundcheck as of Thu, 10 Sept 2026, next at Sacré, Paris on Sat, 12 Sept 2026.
 
-Magnolia is a house and disco artist based in Switzerland, tracked on soundcheck, with 23 sets logged across Amsterdam, Bristol, Chicago and London and 5 more. Often billed alongside Bustin' Loose, Caio Cenci and Crystal Touch. Next up: Sacré, Paris on Sat 12 Sept.
+Magnolia is a house and disco artist based in Switzerland, tracked on soundcheck, with 24 sets logged across Amsterdam, Bristol, Chicago and London and 5 more. Often billed alongside Bustin' Loose, Caio Cenci and Crystal Touch. Next up: Sacré, Paris on Sat 12 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 12 Sept 2026 | Sacré | Paris |
+| Fri, 16 Oct 2026 | Sacré | Paris |
 | Sat, 31 Oct 2026 | DRUMSHEDS | London |
 
 ## Recently played
@@ -26,4 +27,4 @@ Magnolia is a house and disco artist based in Switzerland, tracked on soundcheck
 
 Bustin' Loose, Caio Cenci, Crystal Touch
 
-*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/magnolia/)*
+*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/magnolia/)*

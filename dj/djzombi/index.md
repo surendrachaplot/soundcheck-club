@@ -1,8 +1,8 @@
 # DJ Zombi
 
-DJ Zombi is a Progressive House and House artist with 2 upcoming club dates listed on soundcheck as of Wed, 9 Sept 2026, next at Kaap Amsterdam, Amsterdam on Thu, 22 Oct 2026.
+DJ Zombi is a Progressive House and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 10 Sept 2026, next at Kaap Amsterdam, Amsterdam on Thu, 22 Oct 2026.
 
-DJ Zombi is a progressive house and house artist based in Israel, tracked on soundcheck, with 7 sets logged across Amsterdam and Ibiza. Often billed alongside MC PPholl, Paul Hazendonk and Around Us. Next up: Kaap Amsterdam, Amsterdam on Thu 22 Oct.
+DJ Zombi is a progressive house and house artist based in Israel, tracked on soundcheck, with 7 sets logged across Amsterdam and Ibiza. Often billed alongside Around Us, MC PPholl and Paul Hazendonk. Next up: Kaap Amsterdam, Amsterdam on Thu 22 Oct.
 
 ## Upcoming shows
 
@@ -21,6 +21,6 @@ DJ Zombi is a progressive house and house artist based in Israel, tracked on sou
 
 ## Shares bills with
 
-MC PPholl, Paul Hazendonk, Around Us
+Around Us, MC PPholl, Paul Hazendonk
 
-*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djzombi/)*
+*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djzombi/)*

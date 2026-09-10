@@ -1,6 +1,6 @@
 # Mobile Output at Domino Park
 
-Mobile Output at Domino Park on Sat 19 Sept, Newyorkcity. 3 acts on the bill: Eddie Tyler, Rob Mancino and Val Fleury. House and Afro House. Preview the line-up and save it on soundcheck.
+Mobile Output at Domino Park on Sat 19 Sept, Newyorkcity. 4 acts on the bill: Eddie Tyler, Nash, Rob Mancino and Val Fleury. House and Afro House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,6 +11,7 @@ Mobile Output at Domino Park on Sat 19 Sept, Newyorkcity. 3 acts on the bill: Ed
 ## Line-up
 
 - Eddie Tyler
+- Nash
 - Rob Mancino
 - Val Fleury
 

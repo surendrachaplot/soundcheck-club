@@ -1,6 +1,6 @@
 # Dirty Channels
 
-Dirty Channels is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Wed, 9 Sept 2026, next at Club Malasaña, Madrid on Sat, 12 Sept 2026.
+Dirty Channels is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Thu, 10 Sept 2026, next at Club Malasaña, Madrid on Sat, 12 Sept 2026.
 
 Dirty Channels is a house and disco artist based in Italy, tracked on soundcheck, with 98 sets logged across Amsterdam, Barcelona, Geneva and Hamburg and 13 more. Often billed alongside Eternal Love, DJLMP and Bugsy. Next up: Club Malasaña, Madrid on Sat 12 Sept.
 
@@ -26,4 +26,4 @@ Dirty Channels is a house and disco artist based in Italy, tracked on soundcheck
 
 Eternal Love, DJLMP, Bugsy
 
-*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dirtychannels/)*
+*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dirtychannels/)*

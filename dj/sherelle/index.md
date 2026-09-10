@@ -1,6 +1,6 @@
 # SHERELLE
 
-SHERELLE is a Jungle and Techno artist with 12 upcoming club dates listed on soundcheck as of Wed, 9 Sept 2026, next at The Carpet Shop, London on Thu, 10 Sept 2026.
+SHERELLE is a Jungle and Techno artist with 12 upcoming club dates listed on soundcheck as of Thu, 10 Sept 2026, next at The Carpet Shop, London on Thu, 10 Sept 2026.
 
 SHERELLE is a jungle and techno artist tracked on soundcheck, with 181 sets logged across Aberdeen, Amsterdam, Antwerp and Auckland and 52 more. Often billed alongside I. JORDAN, Special Request and Job Jobse. Next up: The Carpet Shop, London on Thu 10 Sept.
 
@@ -36,4 +36,4 @@ SHERELLE is a jungle and techno artist tracked on soundcheck, with 181 sets logg
 
 I. JORDAN, Special Request, Job Jobse
 
-*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sherelle/)*
+*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sherelle/)*

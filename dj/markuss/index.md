@@ -1,6 +1,6 @@
 # Markuss
 
-Markuss is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Wed, 9 Sept 2026, next at Neon Grotto, Austin on Thu, 10 Sept 2026.
+Markuss is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Thu, 10 Sept 2026, next at Neon Grotto, Austin on Thu, 10 Sept 2026.
 
 Markuss is a house and deep house artist based in Spain, tracked on soundcheck, with 44 sets logged across Austin, Barcelona and Montreal. Often billed alongside CHRIS RAZZ, a$ia and Basement Scene. Next up: Neon Grotto, Austin on Thu 10 Sept.
 
@@ -25,4 +25,4 @@ Markuss is a house and deep house artist based in Spain, tracked on soundcheck, 
 
 CHRIS RAZZ, a$ia, Basement Scene
 
-*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/markuss/)*
+*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/markuss/)*

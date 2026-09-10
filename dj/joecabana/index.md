@@ -1,14 +1,15 @@
 # Joe Cabana
 
-Joe Cabana is a Electronica and Pop artist with 1 upcoming club date listed on soundcheck as of Wed, 9 Sept 2026, next at Motor Oil Cocktail Garage, Barcelona on Thu, 10 Sept 2026.
+Joe Cabana is a Electronica and Disco artist with 2 upcoming club dates listed on soundcheck as of Thu, 10 Sept 2026, next at Motor Oil Cocktail Garage, Barcelona on Thu, 10 Sept 2026.
 
-Joe Cabana is an electronica and pop artist tracked on soundcheck, with 51 sets logged across Barcelona. Often billed alongside Legoteque, Deejay Kosmos and Jambo. Next up: Motor Oil Cocktail Garage, Barcelona on Thu 10 Sept.
+Joe Cabana is an electronica and disco artist tracked on soundcheck, with 52 sets logged across Barcelona. Often billed alongside Legoteque, Deejay Kosmos and Jambo. Next up: Motor Oil Cocktail Garage, Barcelona on Thu 10 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Thu, 10 Sept 2026 | Motor Oil Cocktail Garage | Barcelona |
+| Mon, 14 Sept 2026 | Motor Oil Cocktail Garage | Barcelona |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Joe Cabana is an electronica and pop artist tracked on soundcheck, with 51 sets 
 
 Legoteque, Deejay Kosmos, Jambo
 
-*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/joecabana/)*
+*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/joecabana/)*

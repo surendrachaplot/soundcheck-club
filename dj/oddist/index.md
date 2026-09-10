@@ -1,6 +1,6 @@
 # oddist
 
-oddist is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 9 Sept 2026, next at Platforma Wolff, Bucharest on Thu, 10 Sept 2026.
+oddist is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 10 Sept 2026, next at Platforma Wolff, Bucharest on Thu, 10 Sept 2026.
 
 oddist is a techno and house artist tracked on soundcheck, with 28 sets logged across Berlin and Bucharest. Often billed alongside Miss I, Barbu and Clovis. Next up: Platforma Wolff, Bucharest on Thu 10 Sept.
 
@@ -25,4 +25,4 @@ oddist is a techno and house artist tracked on soundcheck, with 28 sets logged a
 
 Miss I, Barbu, Clovis
 
-*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/oddist/)*
+*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/oddist/)*

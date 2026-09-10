@@ -1,6 +1,6 @@
 # DJ Cash in Hand
 
-DJ Cash in Hand is a House and Acid artist with 1 upcoming club date listed on soundcheck as of Wed, 9 Sept 2026, next at Hoxton Cabin, London on Fri, 11 Sept 2026.
+DJ Cash in Hand is a House and Acid artist with 1 upcoming club date listed on soundcheck as of Thu, 10 Sept 2026, next at Hoxton Cabin, London on Fri, 11 Sept 2026.
 
 DJ Cash in Hand is a house and acid artist tracked on soundcheck, with 19 sets logged across London and Nottingham. Often billed alongside Benebe, Adela and Cristian Sirica. Next up: Hoxton Cabin, London on Fri 11 Sept.
 
@@ -25,4 +25,4 @@ DJ Cash in Hand is a house and acid artist tracked on soundcheck, with 19 sets l
 
 Benebe, Adela, Cristian Sirica
 
-*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djcashinhand/)*
+*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djcashinhand/)*

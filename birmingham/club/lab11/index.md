@@ -1,6 +1,6 @@
 # Lab11
 
-Lab11 is a music venue in Birmingham with 1 upcoming night listed on soundcheck as of Wed, 9 Sept 2026; the next is "WYLD: Birmingham" on Sat, 14 Nov 2026.
+Lab11 is a music venue in Birmingham with 1 upcoming night listed on soundcheck as of Thu, 10 Sept 2026; the next is "WYLD: Birmingham" on Sat, 14 Nov 2026.
 
 Lab11 is a music venue in Birmingham listed on soundcheck. 1 upcoming night. Browse upcoming dates, start times and who's playing. Trent St; Birmingham, B5 5NL, United Kingdom.
 
@@ -14,4 +14,4 @@ Lab11 is a music venue in Birmingham listed on soundcheck. 1 upcoming night. Bro
 
 Trent St; Birmingham, B5 5NL, United Kingdom, Birmingham
 
-*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/birmingham/club/lab11/)*
+*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/birmingham/club/lab11/)*

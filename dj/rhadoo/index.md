@@ -1,6 +1,6 @@
 # Rhadoo
 
-Rhadoo is a Minimal and House artist with 4 upcoming club dates listed on soundcheck as of Wed, 9 Sept 2026, next at Camp Kennybrook, New York City on Thu, 10 Sept 2026.
+Rhadoo is a Minimal and House artist with 4 upcoming club dates listed on soundcheck as of Thu, 10 Sept 2026, next at Camp Kennybrook, New York City on Thu, 10 Sept 2026.
 
 Rhadoo is a minimal and house artist tracked on soundcheck, with 177 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 32 more. Often billed alongside Petre Inspirescu, Raresh and RPR Soundsystem. Next up: Camp Kennybrook, Newyorkcity on Thu 10 Sept.
 
@@ -28,4 +28,4 @@ Rhadoo is a minimal and house artist tracked on soundcheck, with 177 sets logged
 
 Petre Inspirescu, Raresh, RPR Soundsystem
 
-*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/rhadoo/)*
+*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/rhadoo/)*

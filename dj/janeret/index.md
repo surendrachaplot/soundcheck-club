@@ -1,8 +1,8 @@
 # Janeret
 
-Janeret is a House and Minimal artist with 4 upcoming club dates listed on soundcheck as of Wed, 9 Sept 2026, next at Le Trabendo, Paris on Fri, 11 Sept 2026.
+Janeret is a House and Minimal artist with 5 upcoming club dates listed on soundcheck as of Thu, 10 Sept 2026, next at Le Trabendo, Paris on Fri, 11 Sept 2026.
 
-Janeret is a house and minimal artist tracked on soundcheck, with 130 sets logged across Amsterdam, Athens, Bali and Barcelona and 41 more. Often billed alongside Traumer, Alex (ES) and Miroloja. Next up: Le Trabendo, Paris on Fri 11 Sept.
+Janeret is a house and minimal artist tracked on soundcheck, with 131 sets logged across Amsterdam, Athens, Bali and Barcelona and 41 more. Often billed alongside Traumer, Alex (ES) and Miroloja. Next up: Le Trabendo, Paris on Fri 11 Sept.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ Janeret is a house and minimal artist tracked on soundcheck, with 130 sets logge
 | Fri, 11 Sept 2026 | Le Trabendo | Paris |
 | Sat, 12 Sept 2026 | Shelter Amsterdam | Amsterdam |
 | Sat, 19 Sept 2026 | block. | Dublin |
+| Sat, 26 Sept 2026 | The Cause | London |
 | Sun, 25 Oct 2026 | THE OTHER SIDE | Amsterdam |
 
 ## Recently played
@@ -28,4 +29,4 @@ Janeret is a house and minimal artist tracked on soundcheck, with 130 sets logge
 
 Traumer, Alex (ES), Miroloja
 
-*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/janeret/)*
+*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/janeret/)*

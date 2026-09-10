@@ -1,6 +1,6 @@
 # Maxinne
 
-Maxinne is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Wed, 9 Sept 2026, next at 528 Ibiza, Ibiza on Sat, 12 Sept 2026.
+Maxinne is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Thu, 10 Sept 2026, next at 528 Ibiza, Ibiza on Sat, 12 Sept 2026.
 
 Maxinne is a house and tech house artist based in United Kingdom, tracked on soundcheck, with 35 sets logged across Austin, Chicago, Frankfurt and Ibiza and 11 more. Often billed alongside Amine Edge & DANCE, Barroness and Bluey. Next up: 528 Ibiza, Ibiza on Sat 12 Sept.
 
@@ -26,4 +26,4 @@ Maxinne is a house and tech house artist based in United Kingdom, tracked on sou
 
 Amine Edge & DANCE, Barroness, Bluey
 
-*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/maxinne/)*
+*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/maxinne/)*

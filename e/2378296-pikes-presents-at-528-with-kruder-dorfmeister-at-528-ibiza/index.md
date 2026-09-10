@@ -1,6 +1,6 @@
 # PIKES PRESENTS AT 528 WITH KRUDER & DORFMEISTER at 528 Ibiza
 
-PIKES PRESENTS AT 528 WITH KRUDER & DORFMEISTER at 528 Ibiza on Sat 12 Sept, Ibiza. 6 acts on the bill: Defex, Funk D'Void, George FitzGerald and Kruder & Dorfmeister and 2 more. House. Preview the line-up and save it on soundcheck.
+PIKES PRESENTS AT 528 WITH KRUDER & DORFMEISTER at 528 Ibiza on Sat 12 Sept, Ibiza. 7 acts on the bill: Defex, Forest (PL), Funk D'Void and George FitzGerald and 3 more. House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,6 +11,7 @@ PIKES PRESENTS AT 528 WITH KRUDER & DORFMEISTER at 528 Ibiza on Sat 12 Sept, Ibi
 ## Line-up
 
 - Defex
+- Forest (PL)
 - Funk D'Void
 - George FitzGerald
 - Kruder & Dorfmeister

@@ -1,6 +1,6 @@
 # The Red Room
 
-The Red Room is a music venue in Vancouver with 4 upcoming nights listed on soundcheck as of Wed, 9 Sept 2026; the next is "SUBculture Saturdays: Feed Me" on Sat, 12 Sept 2026.
+The Red Room is a music venue in Vancouver with 4 upcoming nights listed on soundcheck as of Thu, 10 Sept 2026; the next is "SUBculture Saturdays: Feed Me" on Sat, 12 Sept 2026.
 
 The Red Room is a music venue in Vancouver listed on soundcheck. 4 upcoming nights, with line-ups including Alix Perez, Enei, Feed Me and Kasra and 2 more. Browse upcoming dates, start times and who's playing. 398 Richards St; Vancouver, BC V6B 4Y2; Canada.
 
@@ -17,4 +17,4 @@ The Red Room is a music venue in Vancouver listed on soundcheck. 4 upcoming nigh
 
 398 Richards St; Vancouver, BC V6B 4Y2; Canada, Vancouver
 
-*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/vancouver/club/the-red-room/)*
+*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/vancouver/club/the-red-room/)*

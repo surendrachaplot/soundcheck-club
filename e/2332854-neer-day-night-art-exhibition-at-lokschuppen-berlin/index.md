@@ -1,6 +1,6 @@
 # NEER Day & Night + Art Exhibition at Lokschuppen Berlin
 
-NEER Day & Night + Art Exhibition at Lokschuppen Berlin on Sat 19 Sept, Berlin. 9 acts on the bill: BAUTZ, BUTZ, Hekato and Josiane and 5 more. Techno and House. Preview the line-up and save it on soundcheck.
+NEER Day & Night + Art Exhibition at Lokschuppen Berlin on Sat 19 Sept, Berlin. 10 acts on the bill: BAUTZ, BUTZ, Hekato and Josiane and 6 more. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -17,6 +17,7 @@ NEER Day & Night + Art Exhibition at Lokschuppen Berlin on Sat 19 Sept, Berlin. 
 - Jynki
 - KIKE Friday
 - krawallwitz
+- Oskar Knickelbein
 - Philena
 - Smoothie Operator
 

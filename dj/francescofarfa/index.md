@@ -1,6 +1,6 @@
 # Francesco Farfa
 
-Francesco Farfa is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Wed, 9 Sept 2026, next at Hoppetosse, Berlin on Fri, 25 Sept 2026.
+Francesco Farfa is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Thu, 10 Sept 2026, next at Hoppetosse, Berlin on Fri, 25 Sept 2026.
 
 Francesco Farfa is a house and techno artist tracked on soundcheck, with 88 sets logged across Amsterdam, Bali, Barcelona and Belgrade and 24 more. Often billed alongside Janina, Alex Picone and Ale Carniel. Next up: Hoppetosse, Berlin on Fri 25 Sept.
 
@@ -27,4 +27,4 @@ Francesco Farfa is a house and techno artist tracked on soundcheck, with 88 sets
 
 Janina, Alex Picone, Ale Carniel
 
-*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/francescofarfa/)*
+*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/francescofarfa/)*

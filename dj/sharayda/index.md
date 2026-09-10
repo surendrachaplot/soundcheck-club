@@ -1,6 +1,6 @@
 # Sharayda
 
-Sharayda is a House and Bass artist with 2 upcoming club dates listed on soundcheck as of Wed, 9 Sept 2026, next at Ōdiobā, Manchester on Fri, 25 Sept 2026.
+Sharayda is a House and Bass artist with 2 upcoming club dates listed on soundcheck as of Thu, 10 Sept 2026, next at Ōdiobā, Manchester on Fri, 25 Sept 2026.
 
 Sharayda is a house and bass artist tracked on soundcheck, with 16 sets logged across Manchester. Often billed alongside krioso, Javan and BANSHII. Next up: Ōdiobā, Manchester on Fri 25 Sept.
 
@@ -26,4 +26,4 @@ Sharayda is a house and bass artist tracked on soundcheck, with 16 sets logged a
 
 krioso, Javan, BANSHII
 
-*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sharayda/)*
+*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sharayda/)*

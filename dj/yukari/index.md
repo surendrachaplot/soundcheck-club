@@ -1,8 +1,8 @@
 # Yukari
 
-Yukari is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Wed, 9 Sept 2026, next at Distillery N17, London on Fri, 25 Sept 2026.
+Yukari is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Thu, 10 Sept 2026, next at Distillery N17, London on Fri, 25 Sept 2026.
 
-Yukari is a techno and house artist based in Japan, tracked on soundcheck, with 31 sets logged across Berlin, London, Madrid and Tokyo and 1 more. Often billed alongside Kazuki Takahashi, Tina Technotic and Emilion Dollar Baby. Next up: Distillery N17, London on Fri 25 Sept.
+Yukari is a techno and house artist based in Japan, tracked on soundcheck, with 32 sets logged across Berlin, London, Madrid and Tokyo and 1 more. Often billed alongside Kazuki Takahashi, Tina Technotic and Emilion Dollar Baby. Next up: Distillery N17, London on Fri 25 Sept.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Yukari is a techno and house artist based in Japan, tracked on soundcheck, with 
 | --- | --- | --- |
 | Fri, 25 Sept 2026 | Distillery N17 | London |
 | Thu, 1 Oct 2026 | Teatro Eslava | Madrid |
+| Sat, 24 Oct 2026 | Colours Hoxton | London |
 
 ## Recently played
 
@@ -26,4 +27,4 @@ Yukari is a techno and house artist based in Japan, tracked on soundcheck, with 
 
 Kazuki Takahashi, Tina Technotic, Emilion Dollar Baby
 
-*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/yukari/)*
+*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/yukari/)*

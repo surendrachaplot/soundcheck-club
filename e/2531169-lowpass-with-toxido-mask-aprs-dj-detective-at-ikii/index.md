@@ -1,10 +1,10 @@
 # lowpass with Toxido Mask, APRS, DJ Detective at Ikii
 
-lowpass with Toxido Mask, APRS, DJ Detective at Ikii on Sat 12 Sept, Berlin. 3 acts on the bill: APRS, DJ Detective and Toxido Mask. Ambient. Preview the line-up and save it on soundcheck.
+lowpass with Toxido Mask, APRS, DJ Detective at Ikii on Tue 6 Oct, Berlin. 3 acts on the bill: APRS, DJ Detective and Toxido Mask. Ambient. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
-| Date | Sat, 12 Sept 2026 |
+| Date | Tue, 6 Oct 2026 |
 | Venue | Ikii |
 | City | Berlin |
 

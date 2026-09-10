@@ -1,6 +1,6 @@
 # GENNARO
 
-GENNARO is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Wed, 9 Sept 2026, next at Vera Cocina & بار, Washington DC on Thu, 10 Sept 2026.
+GENNARO is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Thu, 10 Sept 2026, next at Vera Cocina & بار, Washington DC on Thu, 10 Sept 2026.
 
 GENNARO is a house and tech house artist based in Italy, tracked on soundcheck, with 18 sets logged across Amsterdam, Chicago, Cologne and Ibiza and 6 more. Often billed alongside ANOTR, Cristian Volpe and Ludo Erre. Next up: Vera Cocina & بار, Washingtondc on Thu 10 Sept.
 
@@ -26,4 +26,4 @@ GENNARO is a house and tech house artist based in Italy, tracked on soundcheck, 
 
 ANOTR, Cristian Volpe, Ludo Erre
 
-*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/gennaro/)*
+*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/gennaro/)*

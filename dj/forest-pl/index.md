@@ -1,13 +1,15 @@
 # Forest (PL)
 
-Forest (PL) is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 9 Sept 2026, next at 528 Ibiza, Ibiza on Tue, 22 Sept 2026.
+Forest (PL) is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Thu, 10 Sept 2026, next at 528 Ibiza, Ibiza on Sat, 12 Sept 2026.
 
-Forest (PL) is a house and techno artist based in Azerbaijan, tracked on soundcheck, with 52 sets logged across Bangkok, Dublin, Ibiza and Krakow and 3 more. Often billed alongside MRV (1), tylmanovski and 1 AM (1). Next up: 528 Ibiza, Ibiza on Tue 22 Sept.
+Forest (PL) is a house and techno artist based in Azerbaijan, tracked on soundcheck, with 54 sets logged across Bangkok, Dublin, Ibiza and Krakow and 3 more. Often billed alongside MRV (1), tylmanovski and 1 AM (1). Next up: 528 Ibiza, Ibiza on Sat 12 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 12 Sept 2026 | 528 Ibiza | Ibiza |
+| Tue, 15 Sept 2026 | 528 Ibiza | Ibiza |
 | Tue, 22 Sept 2026 | 528 Ibiza | Ibiza |
 | Fri, 27 Nov 2026 | STK 47 WAREHOUSE | Krakow |
 
@@ -26,4 +28,4 @@ Forest (PL) is a house and techno artist based in Azerbaijan, tracked on soundch
 
 MRV (1), tylmanovski, 1 AM (1)
 
-*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/forest-pl/)*
+*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/forest-pl/)*

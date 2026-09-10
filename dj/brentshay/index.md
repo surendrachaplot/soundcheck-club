@@ -1,8 +1,8 @@
 # Brent Shay
 
-Brent Shay is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Wed, 9 Sept 2026, next at Northern Lights Lounge, Detroit on Sat, 12 Sept 2026.
+Brent Shay is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Thu, 10 Sept 2026, next at Northern Lights Lounge, Detroit on Sat, 12 Sept 2026.
 
-Brent Shay is a techno and house artist tracked on soundcheck, with 92 sets logged across Detroit, London, Newyorkcity and Paris and 2 more. Often billed alongside Dj Disc, Pitchblnd and Nikkie Nocturnal. Next up: Northern Lights Lounge, Detroit on Sat 12 Sept.
+Brent Shay is a techno and house artist tracked on soundcheck, with 93 sets logged across Detroit, London, Newyorkcity and Paris and 2 more. Often billed alongside Dj Disc, Pitchblnd and Nikkie Nocturnal. Next up: Northern Lights Lounge, Detroit on Sat 12 Sept.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Brent Shay is a techno and house artist tracked on soundcheck, with 92 sets logg
 | --- | --- | --- |
 | Sat, 12 Sept 2026 | Northern Lights Lounge | Detroit |
 | Sat, 12 Sept 2026 | TBA | Washington DC |
+| Mon, 14 Sept 2026 | Eaton Workshop | Washington DC |
 
 ## Recently played
 
@@ -26,4 +27,4 @@ Brent Shay is a techno and house artist tracked on soundcheck, with 92 sets logg
 
 Dj Disc, Pitchblnd, Nikkie Nocturnal
 
-*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/brentshay/)*
+*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/brentshay/)*

@@ -1,13 +1,14 @@
 # Ayantula
 
-Ayantula is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Wed, 9 Sept 2026, next at or, Tokyo on Sat, 26 Sept 2026.
+Ayantula is a House and Tech House artist with 3 upcoming club dates listed on soundcheck as of Thu, 10 Sept 2026, next at WOMB, Tokyo on Wed, 23 Sept 2026.
 
-Ayantula is a house and tech house artist based in Japan, tracked on soundcheck, with 22 sets logged across Tokyo. Often billed alongside Yamariki, PUNK N MATRIX and ANZU. Next up: or, Tokyo on Sat 26 Sept.
+Ayantula is a house and tech house artist based in Japan, tracked on soundcheck, with 23 sets logged across Tokyo. Often billed alongside Yamariki, PUNK N MATRIX and ANZU. Next up: WOMB, Tokyo on Wed 23 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Wed, 23 Sept 2026 | WOMB | Tokyo |
 | Sat, 26 Sept 2026 | or | Tokyo |
 | Sun, 18 Oct 2026 | or | Tokyo |
 
@@ -26,4 +27,4 @@ Ayantula is a house and tech house artist based in Japan, tracked on soundcheck,
 
 Yamariki, PUNK N MATRIX, ANZU
 
-*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ayantula/)*
+*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ayantula/)*

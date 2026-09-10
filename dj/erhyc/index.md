@@ -1,6 +1,6 @@
 # Erhyc
 
-Erhyc is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Wed, 9 Sept 2026, next at Palais, Munich on Fri, 2 Oct 2026.
+Erhyc is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Thu, 10 Sept 2026, next at Palais, Munich on Fri, 2 Oct 2026.
 
 Erhyc is a techno and tech house artist tracked on soundcheck, with 65 sets logged across Munich, Nurnberg and Vienna. Often billed alongside B 4ME, ANXA and Julie Fleischer. Next up: Palais, Munich on Fri 2 Oct.
 
@@ -25,4 +25,4 @@ Erhyc is a techno and tech house artist tracked on soundcheck, with 65 sets logg
 
 B 4ME, ANXA, Julie Fleischer
 
-*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/erhyc/)*
+*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/erhyc/)*

@@ -1,6 +1,6 @@
 # Certain Club x Hypersoft with DJ TEETH & E.Talking at Cadavra
 
-Certain Club x Hypersoft with DJ TEETH & E.Talking at Cadavra on Sat 12 Sept, Madrid. 4 acts on the bill: Certain People, DJ TEETH, E-Talking and Emi Koto. Electronica. Preview the line-up and save it on soundcheck.
+Certain Club x Hypersoft with DJ TEETH & E.Talking at Cadavra on Sat 12 Sept, Madrid. 5 acts on the bill: Arque, Certain People, DJ TEETH and E-Talking and 1 more. Electronica. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ Certain Club x Hypersoft with DJ TEETH & E.Talking at Cadavra on Sat 12 Sept, Ma
 
 ## Line-up
 
+- Arque
 - Certain People
 - DJ TEETH
 - E-Talking

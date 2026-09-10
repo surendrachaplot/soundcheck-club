@@ -1,6 +1,6 @@
 # DJ Vibe
 
-DJ Vibe is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Wed, 9 Sept 2026, next at TBA - Aeródromo Vilar de Luz - LPVL, 4425 Folgosa, Portugal, Porto on Fri, 18 Sept 2026.
+DJ Vibe is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Thu, 10 Sept 2026, next at TBA - Aeródromo Vilar de Luz - LPVL, 4425 Folgosa, Portugal, Porto on Fri, 18 Sept 2026.
 
 DJ Vibe is a house and tech house artist tracked on soundcheck, with 40 sets logged across Lisbon, Montreal, Newyorkcity and Porto and 1 more. Often billed alongside Rui Vargas, Kaesar and Ze Salvador. Next up: TBA - Aeródromo Vilar de Luz - LPVL, 4425 Folgosa, Portugal, Porto on Fri 18 Sept.
 
@@ -25,4 +25,4 @@ DJ Vibe is a house and tech house artist tracked on soundcheck, with 40 sets log
 
 Rui Vargas, Kaesar, Ze Salvador
 
-*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djvibe/)*
+*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djvibe/)*

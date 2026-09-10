@@ -1,6 +1,6 @@
 # Kramladen
 
-Kramladen is a music venue in Vienna with 4 upcoming nights listed on soundcheck as of Wed, 9 Sept 2026; the next is "Progressive Madness" on Sat, 12 Sept 2026.
+Kramladen is a music venue in Vienna with 4 upcoming nights listed on soundcheck as of Thu, 10 Sept 2026; the next is "Progressive Madness" on Sat, 12 Sept 2026.
 
 Kramladen is a music venue in Vienna listed on soundcheck. 4 upcoming nights, with line-ups including Fede Frostl, Hetum, Huebl and Roton. Browse upcoming dates, start times and who's playing. U-Bahnbogen 39-40, Lerchenfeldergürtel, 1080 Wien.
 
@@ -17,4 +17,4 @@ Kramladen is a music venue in Vienna listed on soundcheck. 4 upcoming nights, wi
 
 U-Bahnbogen 39-40, Lerchenfeldergürtel, 1080 Wien, Vienna
 
-*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/vienna/club/kramladen/)*
+*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/vienna/club/kramladen/)*

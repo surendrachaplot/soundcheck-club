@@ -1,6 +1,6 @@
 # ISBEL
 
-ISBEL is a Minimal and House artist with 1 upcoming club date listed on soundcheck as of Wed, 9 Sept 2026, next at Tipic., Ibiza on Sat, 12 Sept 2026.
+ISBEL is a Minimal and House artist with 1 upcoming club date listed on soundcheck as of Thu, 10 Sept 2026, next at Tipic., Ibiza on Sat, 12 Sept 2026.
 
 ISBEL is a minimal and house artist tracked on soundcheck, with 47 sets logged across Barcelona, Ibiza and Madrid. Often billed alongside Cesar Vinzent, Luigi Rossi and Eclud. Next up: Tipic., Ibiza on Sat 12 Sept.
 
@@ -25,4 +25,4 @@ ISBEL is a minimal and house artist tracked on soundcheck, with 47 sets logged a
 
 Cesar Vinzent, Luigi Rossi, Eclud
 
-*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/isbel/)*
+*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/isbel/)*

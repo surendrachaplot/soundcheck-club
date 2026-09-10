@@ -1,6 +1,6 @@
 # Manolaco
 
-Manolaco is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 9 Sept 2026, next at Flying Horses, Athens on Sun, 13 Sept 2026.
+Manolaco is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 10 Sept 2026, next at Flying Horses, Athens on Sun, 13 Sept 2026.
 
 Manolaco is a techno and house artist tracked on soundcheck, with 76 sets logged across Athens, Bucharest, London and Milan and 1 more. Often billed alongside Mikee (Athens), Ilario Alicante and Viton. Next up: Flying Horses, Athens on Sun 13 Sept.
 
@@ -25,4 +25,4 @@ Manolaco is a techno and house artist tracked on soundcheck, with 76 sets logged
 
 Mikee (Athens), Ilario Alicante, Viton
 
-*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/manolaco/)*
+*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/manolaco/)*

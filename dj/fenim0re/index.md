@@ -1,6 +1,6 @@
 # FENIM0RE
 
-FENIM0RE is a Techno and Trance artist with 7 upcoming club dates listed on soundcheck as of Wed, 9 Sept 2026, next at TILLATEC, Amsterdam on Sat, 12 Sept 2026.
+FENIM0RE is a Techno and Trance artist with 7 upcoming club dates listed on soundcheck as of Thu, 10 Sept 2026, next at TILLATEC, Amsterdam on Sat, 12 Sept 2026.
 
 FENIM0RE is a techno and trance artist tracked on soundcheck, with 50 sets logged across Amsterdam, Antwerp, Athens and Berlin and 21 more. Often billed alongside future.666, ÜBERKIKZ and Pōnky. Next up: TILLATEC, Amsterdam on Sat 12 Sept.
 
@@ -31,4 +31,4 @@ FENIM0RE is a techno and trance artist tracked on soundcheck, with 50 sets logge
 
 future.666, ÜBERKIKZ, Pōnky
 
-*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/fenim0re/)*
+*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/fenim0re/)*

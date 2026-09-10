@@ -1,6 +1,6 @@
 # Will A
 
-Will A is a Acid and House artist with 1 upcoming club date listed on soundcheck as of Wed, 9 Sept 2026, next at Eastern Bloc Records, Manchester on Sat, 26 Sept 2026.
+Will A is a Acid and House artist with 1 upcoming club date listed on soundcheck as of Thu, 10 Sept 2026, next at Eastern Bloc Records, Manchester on Sat, 26 Sept 2026.
 
 Will A is an acid and house artist based in United Kingdom, tracked on soundcheck, with 29 sets logged across Bangkok, Barcelona, Cardiff and Liverpool and 2 more. Often billed alongside Means&3rd, CHISE and TERU. Next up: Eastern Bloc Records, Manchester on Sat 26 Sept.
 
@@ -25,4 +25,4 @@ Will A is an acid and house artist based in United Kingdom, tracked on soundchec
 
 Means&3rd, CHISE, TERU
 
-*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/willa/)*
+*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/willa/)*

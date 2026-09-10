@@ -1,6 +1,6 @@
 # TK
 
-TK is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 9 Sept 2026, next at 南港三角公園, Osaka on Sat, 3 Oct 2026.
+TK is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 10 Sept 2026, next at 南港三角公園, Osaka on Sat, 3 Oct 2026.
 
 TK is a house and techno artist tracked on soundcheck, with 21 sets logged across Amsterdam, Dublin, Istanbul and London and 6 more. Often billed alongside Galen, Sean Murray and Solar. Next up: 南港三角公園, Osaka on Sat 3 Oct.
 
@@ -25,4 +25,4 @@ TK is a house and techno artist tracked on soundcheck, with 21 sets logged acros
 
 Galen, Sean Murray, Solar
 
-*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tk/)*
+*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tk/)*

@@ -1,14 +1,15 @@
 # Joe Nice
 
-Joe Nice is a Dubstep and Bass artist with 1 upcoming club date listed on soundcheck as of Wed, 9 Sept 2026, next at St Anne's Parish Hall, Toronto on Sat, 12 Sept 2026.
+Joe Nice is a Dubstep and Bass artist with 2 upcoming club dates listed on soundcheck as of Thu, 10 Sept 2026, next at St Anne's Parish Hall, Toronto on Sat, 12 Sept 2026.
 
-Joe Nice is a dubstep and bass artist tracked on soundcheck, with 20 sets logged across Berlin, Bristol, Hongkong and Houston and 11 more. Often billed alongside Mala, Breakfake and Daniel Power. Next up: St Anne's Parish Hall, Toronto on Sat 12 Sept.
+Joe Nice is a dubstep and bass artist tracked on soundcheck, with 21 sets logged across Berlin, Bristol, Hongkong and Houston and 11 more. Often billed alongside Mala, Breakfake and Daniel Power. Next up: St Anne's Parish Hall, Toronto on Sat 12 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 12 Sept 2026 | St Anne's Parish Hall | Toronto |
+| Sat, 10 Oct 2026 | TBA | San Francisco/Oakland |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Joe Nice is a dubstep and bass artist tracked on soundcheck, with 20 sets logged
 
 Mala, Breakfake, Daniel Power
 
-*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/joenice/)*
+*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/joenice/)*

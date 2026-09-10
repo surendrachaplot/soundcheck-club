@@ -1,6 +1,6 @@
 # Charlies Loft
 
-Charlies Loft is a music venue in Glasgow with 4 upcoming nights listed on soundcheck as of Wed, 9 Sept 2026; the next is "Soul Journey Weekender" on Fri, 25 Sept 2026.
+Charlies Loft is a music venue in Glasgow with 4 upcoming nights listed on soundcheck as of Thu, 10 Sept 2026; the next is "Soul Journey Weekender" on Fri, 25 Sept 2026.
 
 Charlies Loft is a music venue in Glasgow listed on soundcheck. 4 upcoming nights, with line-ups including Al Kent, Aroop Roy, Auntie Flo and Bill Brewster and 2 more. Browse upcoming dates, start times and who's playing. 14 Stewart St, Milngavie, Glasgow G62 6BY.
 
@@ -17,4 +17,4 @@ Charlies Loft is a music venue in Glasgow listed on soundcheck. 4 upcoming night
 
 14 Stewart St, Milngavie, Glasgow G62 6BY, Glasgow
 
-*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/charlies-loft/)*
+*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/charlies-loft/)*

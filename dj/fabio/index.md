@@ -1,6 +1,6 @@
 # Fabio
 
-Fabio is a Drum & Bass and Jungle artist with 4 upcoming club dates listed on soundcheck as of Wed, 9 Sept 2026, next at Various Venues, London on Thu, 24 Sept 2026.
+Fabio is a Drum & Bass and Jungle artist with 4 upcoming club dates listed on soundcheck as of Thu, 10 Sept 2026, next at Various Venues, London on Thu, 24 Sept 2026.
 
 Fabio is a drum & bass and jungle artist tracked on soundcheck, with 105 sets logged across Bali, Barcelona, Berlin and Birmingham and 14 more. Often billed alongside Grooverider, Mantra and Lenzman. Next up: Various Venues, London on Thu 24 Sept.
 
@@ -28,4 +28,4 @@ Fabio is a drum & bass and jungle artist tracked on soundcheck, with 105 sets lo
 
 Grooverider, Mantra, Lenzman
 
-*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/fabio/)*
+*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/fabio/)*

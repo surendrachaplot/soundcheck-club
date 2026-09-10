@@ -1,6 +1,6 @@
 # DJ Firmeza
 
-DJ Firmeza is a Experimental and Techno artist with 3 upcoming club dates listed on soundcheck as of Wed, 9 Sept 2026, next at Berghain | Panorama Bar | Säule, Berlin on Thu, 1 Oct 2026.
+DJ Firmeza is a Experimental and Techno artist with 3 upcoming club dates listed on soundcheck as of Thu, 10 Sept 2026, next at Berghain | Panorama Bar | Säule, Berlin on Thu, 1 Oct 2026.
 
 DJ Firmeza is an experimental and techno artist based in Portugal, tracked on soundcheck, with 43 sets logged across Amsterdam, Berlin, Bristol and Brussels and 13 more. Often billed alongside Dj Danifox, DJ Nigga Fox and Nídia. Next up: Berghain | Panorama Bar | Säule, Berlin on Thu 1 Oct.
 
@@ -27,4 +27,4 @@ DJ Firmeza is an experimental and techno artist based in Portugal, tracked on so
 
 Dj Danifox, DJ Nigga Fox, Nídia
 
-*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djfirmeza/)*
+*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djfirmeza/)*

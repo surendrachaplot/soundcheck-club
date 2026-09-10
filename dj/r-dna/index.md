@@ -1,6 +1,6 @@
 # R-DNA
 
-R-DNA is a Techno and Baile Funk artist with 1 upcoming club date listed on soundcheck as of Wed, 9 Sept 2026, next at Bogart House, New York City on Sat, 12 Sept 2026.
+R-DNA is a Techno and Baile Funk artist with 1 upcoming club date listed on soundcheck as of Thu, 10 Sept 2026, next at Bogart House, New York City on Sat, 12 Sept 2026.
 
 R-DNA is a techno and baile funk artist based in Ukraine, tracked on soundcheck, with 27 sets logged across Newyorkcity. Often billed alongside masha latte, 1ol1v1a and SEDENTARY. Next up: Bogart House, Newyorkcity on Sat 12 Sept.
 
@@ -25,4 +25,4 @@ R-DNA is a techno and baile funk artist based in Ukraine, tracked on soundcheck,
 
 masha latte, 1ol1v1a, SEDENTARY
 
-*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/r-dna/)*
+*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/r-dna/)*

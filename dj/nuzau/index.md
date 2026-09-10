@@ -1,6 +1,6 @@
 # Nu Zau
 
-Nu Zau is a Minimal and House artist with 2 upcoming club dates listed on soundcheck as of Wed, 9 Sept 2026, next at Signal, New York City on Thu, 10 Sept 2026.
+Nu Zau is a Minimal and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 10 Sept 2026, next at Signal, New York City on Thu, 10 Sept 2026.
 
 Nu Zau is a minimal and house artist tracked on soundcheck, with 87 sets logged across Amsterdam, Antwerp, Barcelona and Basel and 24 more. Often billed alongside Sepp, Arapu and Sublee. Next up: Signal, Newyorkcity on Thu 10 Sept.
 
@@ -26,4 +26,4 @@ Nu Zau is a minimal and house artist tracked on soundcheck, with 87 sets logged 
 
 Sepp, Arapu, Sublee
 
-*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nuzau/)*
+*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nuzau/)*

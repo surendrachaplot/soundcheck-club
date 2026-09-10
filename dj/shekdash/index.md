@@ -1,8 +1,8 @@
 # shekdash
 
-shekdash is a Techno and Club artist with 2 upcoming club dates listed on soundcheck as of Wed, 9 Sept 2026, next at Lee's Palace, Toronto on Fri, 18 Sept 2026.
+shekdash is a Techno and Club artist with 3 upcoming club dates listed on soundcheck as of Thu, 10 Sept 2026, next at Lee's Palace, Toronto on Fri, 18 Sept 2026.
 
-shekdash is a techno and club artist based in United States of America, tracked on soundcheck, with 84 sets logged across Boston, Chicago, Denver and Detroit and 12 more. Often billed alongside Tromac, DJ SWISHA and Daniro. Next up: Lee's Palace, Toronto on Fri 18 Sept.
+shekdash is a techno and club artist based in United States of America, tracked on soundcheck, with 85 sets logged across Boston, Chicago, Denver and Detroit and 13 more. Often billed alongside Tromac, DJ SWISHA and Daniro. Next up: Lee's Palace, Toronto on Fri 18 Sept.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ shekdash is a techno and club artist based in United States of America, tracked 
 | --- | --- | --- |
 | Fri, 18 Sept 2026 | Lee's Palace | Toronto |
 | Sat, 19 Sept 2026 | TV Lounge | Detroit |
+| Sat, 3 Oct 2026 | Bastet | Philadelphia |
 
 ## Recently played
 
@@ -26,4 +27,4 @@ shekdash is a techno and club artist based in United States of America, tracked 
 
 Tromac, DJ SWISHA, Daniro
 
-*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/shekdash/)*
+*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/shekdash/)*

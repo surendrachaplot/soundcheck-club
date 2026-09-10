@@ -1,6 +1,6 @@
 # LO-LOW
 
-LO-LOW is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Wed, 9 Sept 2026, next at Planet Wax, London on Sat, 19 Sept 2026.
+LO-LOW is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Thu, 10 Sept 2026, next at Planet Wax, London on Sat, 19 Sept 2026.
 
 LO-LOW is a techno and house artist tracked on soundcheck, with 85 sets logged across Amsterdam, Berlin, London and Manchester and 2 more. Often billed alongside Samantha Togni, David Ramsay and Someone Sunny. Next up: Planet Wax, London on Sat 19 Sept.
 
@@ -27,4 +27,4 @@ LO-LOW is a techno and house artist tracked on soundcheck, with 85 sets logged a
 
 Samantha Togni, David Ramsay, Someone Sunny
 
-*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lo-low/)*
+*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lo-low/)*

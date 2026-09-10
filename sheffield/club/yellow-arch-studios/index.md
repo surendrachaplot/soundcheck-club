@@ -1,6 +1,6 @@
 # Yellow Arch Studios
 
-Yellow Arch Studios is a music venue in Sheffield with 4 upcoming nights listed on soundcheck as of Wed, 9 Sept 2026; the next is "Planet Zogg 26th Birthday" on Fri, 11 Sept 2026.
+Yellow Arch Studios is a music venue in Sheffield with 4 upcoming nights listed on soundcheck as of Thu, 10 Sept 2026; the next is "Planet Zogg 26th Birthday" on Fri, 11 Sept 2026.
 
 Yellow Arch Studios is a music venue in Sheffield listed on soundcheck. 4 upcoming nights, with line-ups including Grace Sands, Liquid Ross, Make A Dance and Steely. Browse upcoming dates, start times and who's playing. 30-36 Burton Rd, Sheffield, South Yorkshire, S3 8BX.
 
@@ -17,4 +17,4 @@ Yellow Arch Studios is a music venue in Sheffield listed on soundcheck. 4 upcomi
 
 30-36 Burton Rd, Sheffield, South Yorkshire, S3 8BX, Sheffield
 
-*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/sheffield/club/yellow-arch-studios/)*
+*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/sheffield/club/yellow-arch-studios/)*

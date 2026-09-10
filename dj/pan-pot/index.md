@@ -1,8 +1,8 @@
 # Pan-Pot
 
-Pan-Pot is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Wed, 9 Sept 2026, next at Bolivar Beach Bar, Athens on Sat, 12 Sept 2026.
+Pan-Pot is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Thu, 10 Sept 2026, next at Bolivar Beach Bar, Athens on Sat, 12 Sept 2026.
 
-Pan-Pot is a techno and house artist tracked on soundcheck, with 173 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 53 more. Often billed alongside Anfisa Letyago, Enrico Sangiuliano and Adam Beyer. Next up: Bolivar Beach Bar, Athens on Sat 12 Sept.
+Pan-Pot is a techno and house artist tracked on soundcheck, with 174 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 53 more. Often billed alongside Adam Beyer, Anfisa Letyago and Enrico Sangiuliano. Next up: Bolivar Beach Bar, Athens on Sat 12 Sept.
 
 ## Upcoming shows
 
@@ -12,6 +12,7 @@ Pan-Pot is a techno and house artist tracked on soundcheck, with 173 sets logged
 | Thu, 17 Sept 2026 | Noto Philadelphia | Philadelphia |
 | Sat, 19 Sept 2026 | 821 Runnymede Rd | Toronto |
 | Sun, 4 Oct 2026 | Hï Ibiza | Ibiza |
+| Fri, 16 Oct 2026 | Hangar Luke Beograd | Belgrade |
 | Sat, 24 Oct 2026 | Het Sieraad | Amsterdam |
 
 ## Recently played
@@ -27,6 +28,6 @@ Pan-Pot is a techno and house artist tracked on soundcheck, with 173 sets logged
 
 ## Shares bills with
 
-Anfisa Letyago, Enrico Sangiuliano, Adam Beyer
+Adam Beyer, Anfisa Letyago, Enrico Sangiuliano
 
-*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/pan-pot/)*
+*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/pan-pot/)*

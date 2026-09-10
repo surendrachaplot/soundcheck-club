@@ -1,6 +1,6 @@
 # ISMOS presents: ABSTRACT at TBA - 51 Harper Ave
 
-ISMOS presents: ABSTRACT at TBA - 51 Harper Ave on Sat 19 Sept, Detroit. 2 acts on the bill: Govan Jones and RN ISMO. Tech House and Minimal. Preview the line-up and save it on soundcheck.
+ISMOS presents: ABSTRACT at TBA - 51 Harper Ave on Sat 19 Sept, Detroit. 3 acts on the bill: Andy Arcade, Govan Jones and RN ISMO. Tech House and Minimal. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ ISMOS presents: ABSTRACT at TBA - 51 Harper Ave on Sat 19 Sept, Detroit. 2 acts 
 
 ## Line-up
 
+- Andy Arcade
 - Govan Jones
 - RN ISMO
 

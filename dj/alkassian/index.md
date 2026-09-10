@@ -1,8 +1,8 @@
 # Alex Kassian
 
-Alex Kassian is a House and Techno artist with 9 upcoming club dates listed on soundcheck as of Wed, 9 Sept 2026, next at The Cause, London on Sat, 12 Sept 2026.
+Alex Kassian is a House and Techno artist with 10 upcoming club dates listed on soundcheck as of Thu, 10 Sept 2026, next at The Cause, London on Sat, 12 Sept 2026.
 
-Alex Kassian is a house and techno artist tracked on soundcheck, with 177 sets logged across Amsterdam, Antwerp, Athens and Bali and 53 more. Often billed alongside PARAMIDA, Job Jobse and Running Hot. Next up: The Cause, London on Sat 12 Sept.
+Alex Kassian is a house and techno artist tracked on soundcheck, with 178 sets logged across Amsterdam, Antwerp, Athens and Bali and 53 more. Often billed alongside PARAMIDA, Job Jobse and Running Hot. Next up: The Cause, London on Sat 12 Sept.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ Alex Kassian is a house and techno artist tracked on soundcheck, with 177 sets l
 | Sat, 12 Sept 2026 | The Cause | London |
 | Sun, 13 Sept 2026 | Macadam | Nantes |
 | Sat, 19 Sept 2026 | Fridas Pier | Stuttgart |
+| Thu, 24 Sept 2026 | HHV.de Store | Berlin |
 | Sat, 26 Sept 2026 | Usquare | Brussels |
 | Fri, 9 Oct 2026 | Palais | London |
 | Sat, 17 Oct 2026 | Salon Iksv | Istanbul |
@@ -33,4 +34,4 @@ Alex Kassian is a house and techno artist tracked on soundcheck, with 177 sets l
 
 PARAMIDA, Job Jobse, Running Hot
 
-*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/alkassian/)*
+*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/alkassian/)*

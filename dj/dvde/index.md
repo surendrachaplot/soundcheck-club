@@ -1,13 +1,14 @@
 # DVDE
 
-DVDE is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 9 Sept 2026, next at BAR Inc, Osaka on Fri, 9 Oct 2026.
+DVDE is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 10 Sept 2026, next at Elsewhere, Bangkok on Sat, 12 Sept 2026.
 
-DVDE is a house and techno artist based in France, tracked on soundcheck, with 106 sets logged across Amsterdam, Bangkok, Barcelona and Berlin and 15 more. Often billed alongside Maison Blanche, CL Beats and Cinthie. Next up: BAR Inc, Osaka on Fri 9 Oct.
+DVDE is a house and techno artist based in France, tracked on soundcheck, with 107 sets logged across Amsterdam, Bangkok, Barcelona and Berlin and 15 more. Often billed alongside Maison Blanche, CL Beats and Cinthie. Next up: Elsewhere, Bangkok on Sat 12 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 12 Sept 2026 | Elsewhere | Bangkok |
 | Fri, 9 Oct 2026 | BAR Inc | Osaka |
 
 ## Recently played
@@ -25,4 +26,4 @@ DVDE is a house and techno artist based in France, tracked on soundcheck, with 1
 
 Maison Blanche, CL Beats, Cinthie
 
-*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dvde/)*
+*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dvde/)*

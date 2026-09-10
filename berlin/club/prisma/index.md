@@ -1,6 +1,6 @@
 # Prisma
 
-Prisma is a music venue in Berlin with 10 upcoming nights listed on soundcheck as of Wed, 9 Sept 2026; the next is "Sssmile Afterhour" on Thu, 10 Sept 2026.
+Prisma is a music venue in Berlin with 10 upcoming nights listed on soundcheck as of Thu, 10 Sept 2026; the next is "Sssmile Afterhour" on Thu, 10 Sept 2026.
 
 Prisma is a music venue in Berlin listed on soundcheck. 10 upcoming nights, with line-ups including Alex Iso, Ayham, Carl Conrad and Crimson Lake and 2 more. Browse upcoming dates, start times and who's playing. Brückenstraße 1, 10179 Berlin.
 
@@ -23,4 +23,4 @@ Prisma is a music venue in Berlin listed on soundcheck. 10 upcoming nights, with
 
 Brückenstraße 1, 10179 Berlin, Berlin
 
-*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/prisma/)*
+*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/prisma/)*

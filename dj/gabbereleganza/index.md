@@ -1,8 +1,8 @@
 # Gabber Eleganza
 
-Gabber Eleganza is a Techno and Hardcore artist with 3 upcoming club dates listed on soundcheck as of Wed, 9 Sept 2026, next at Fort Mifflin, Philadelphia on Fri, 18 Sept 2026.
+Gabber Eleganza is a Techno and Hardcore artist with 4 upcoming club dates listed on soundcheck as of Thu, 10 Sept 2026, next at Fort Mifflin, Philadelphia on Fri, 18 Sept 2026.
 
-Gabber Eleganza is a techno and hardcore artist tracked on soundcheck, with 99 sets logged across Amsterdam, Antwerp, Barcelona and Berlin and 32 more. Often billed alongside Anetha, DJ Gigola and 999999999. Next up: Fort Mifflin, Philadelphia on Fri 18 Sept.
+Gabber Eleganza is a techno and hardcore artist tracked on soundcheck, with 100 sets logged across Amsterdam, Antwerp, Barcelona and Berlin and 32 more. Often billed alongside Anetha, DJ Gigola and 999999999. Next up: Fort Mifflin, Philadelphia on Fri 18 Sept.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ Gabber Eleganza is a techno and hardcore artist tracked on soundcheck, with 99 s
 | Fri, 18 Sept 2026 | Fort Mifflin | Philadelphia |
 | Sat, 31 Oct 2026 | The Cause | London |
 | Sat, 14 Nov 2026 | Q35 WAREHOUSE | Turin |
+| Sat, 21 Nov 2026 | TBA - Brussels | Brussels |
 
 ## Recently played
 
@@ -27,4 +28,4 @@ Gabber Eleganza is a techno and hardcore artist tracked on soundcheck, with 99 s
 
 Anetha, DJ Gigola, 999999999
 
-*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/gabbereleganza/)*
+*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/gabbereleganza/)*

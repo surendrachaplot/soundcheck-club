@@ -1,8 +1,8 @@
 # Isaac Carter
 
-Isaac Carter is a House and Tech House artist with 6 upcoming club dates listed on soundcheck as of Wed, 9 Sept 2026, next at Cova Santa, Ibiza on Tue, 15 Sept 2026.
+Isaac Carter is a House and Tech House artist with 8 upcoming club dates listed on soundcheck as of Thu, 10 Sept 2026, next at Cova Santa, Ibiza on Tue, 15 Sept 2026.
 
-Isaac Carter is a house and tech house artist tracked on soundcheck, with 90 sets logged across Amsterdam, Bali, Berlin and Brisbane and 23 more. Often billed alongside Laidlaw, Ella Knight and Enzo Siragusa. Next up: Cova Santa, Ibiza on Tue 15 Sept.
+Isaac Carter is a house and tech house artist tracked on soundcheck, with 92 sets logged across Amsterdam, Bali, Berlin and Brisbane and 23 more. Often billed alongside Laidlaw, Ella Knight and Enzo Siragusa. Next up: Cova Santa, Ibiza on Tue 15 Sept.
 
 ## Upcoming shows
 
@@ -10,10 +10,12 @@ Isaac Carter is a house and tech house artist tracked on soundcheck, with 90 set
 | --- | --- | --- |
 | Tue, 15 Sept 2026 | Cova Santa | Ibiza |
 | Fri, 18 Sept 2026 | UNO MALTA | Malta |
+| Sat, 19 Sept 2026 | Club Guesthouse | Bucharest |
 | Mon, 28 Sept 2026 | DC-10 | Ibiza |
 | Wed, 21 Oct 2026 | A'DAM Toren | Amsterdam |
 | Thu, 22 Oct 2026 | Madam | Amsterdam |
 | Sun, 25 Oct 2026 | NDSM Scheepsbouwloods | Amsterdam |
+| Thu, 29 Oct 2026 | The Loft | Manchester |
 
 ## Recently played
 
@@ -30,4 +32,4 @@ Isaac Carter is a house and tech house artist tracked on soundcheck, with 90 set
 
 Laidlaw, Ella Knight, Enzo Siragusa
 
-*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/isaaccarter/)*
+*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/isaaccarter/)*

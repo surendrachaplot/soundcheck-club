@@ -1,6 +1,6 @@
 # Pisco Bar
 
-Pisco Bar is a music venue in Kuala Lumpur with 3 upcoming nights listed on soundcheck as of Wed, 9 Sept 2026; the next is "INNERVOICE 2ND ANNIVERSARY" on Fri, 11 Sept 2026.
+Pisco Bar is a music venue in Kuala Lumpur with 3 upcoming nights listed on soundcheck as of Thu, 10 Sept 2026; the next is "INNERVOICE 2ND ANNIVERSARY" on Fri, 11 Sept 2026.
 
 Pisco Bar is a music venue in Kualalumpur listed on soundcheck. 3 upcoming nights, with line-ups including Biscuit (MY), Ecilo, IMRAN RASUL and MADROSE and 2 more. Browse upcoming dates, start times and who's playing. 29 Jalan Mesui, Changkat.
 
@@ -16,4 +16,4 @@ Pisco Bar is a music venue in Kualalumpur listed on soundcheck. 3 upcoming night
 
 29 Jalan Mesui, Changkat, Kuala Lumpur
 
-*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/kualalumpur/club/pisco-bar/)*
+*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/kualalumpur/club/pisco-bar/)*

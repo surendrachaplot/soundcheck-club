@@ -1,6 +1,6 @@
 # sleeptwitch
 
-sleeptwitch is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 9 Sept 2026, next at Renate, Berlin on Sat, 26 Sept 2026.
+sleeptwitch is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 10 Sept 2026, next at Renate, Berlin on Sat, 26 Sept 2026.
 
 sleeptwitch is a techno and house artist based in Germany, tracked on soundcheck, with 43 sets logged across Berlin, Cologne and Vienna. Often billed alongside Keex, BBYG and DJ CHICHI. Next up: Renate, Berlin on Sat 26 Sept.
 
@@ -25,4 +25,4 @@ sleeptwitch is a techno and house artist based in Germany, tracked on soundcheck
 
 Keex, BBYG, DJ CHICHI
 
-*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sleeptwitch/)*
+*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sleeptwitch/)*

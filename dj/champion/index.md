@@ -1,6 +1,6 @@
 # Champion
 
-Champion is a Garage and Bass artist with 6 upcoming club dates listed on soundcheck as of Wed, 9 Sept 2026, next at PRST, Vienna on Sat, 12 Sept 2026.
+Champion is a Garage and Bass artist with 6 upcoming club dates listed on soundcheck as of Thu, 10 Sept 2026, next at PRST, Vienna on Sat, 12 Sept 2026.
 
 Champion is a garage and bass artist tracked on soundcheck, with 51 sets logged across Amsterdam, Antwerp, Barcelona and Brighton and 17 more. Often billed alongside Oppidan, Bakey and MPH (1). Next up: PRST, Vienna on Sat 12 Sept.
 
@@ -30,4 +30,4 @@ Champion is a garage and bass artist tracked on soundcheck, with 51 sets logged 
 
 Oppidan, Bakey, MPH (1)
 
-*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/champion/)*
+*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/champion/)*

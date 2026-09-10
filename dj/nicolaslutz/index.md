@@ -1,6 +1,6 @@
 # Nicolas Lutz
 
-Nicolas Lutz is a Techno and House artist with 8 upcoming club dates listed on soundcheck as of Wed, 9 Sept 2026, next at Bunker, Turin on Sat, 12 Sept 2026.
+Nicolas Lutz is a Techno and House artist with 8 upcoming club dates listed on soundcheck as of Thu, 10 Sept 2026, next at Bunker, Turin on Sat, 12 Sept 2026.
 
 Nicolas Lutz is a techno and house artist tracked on soundcheck, with 163 sets logged across Amsterdam, Barcelona, Belgrade and Berlin and 38 more. Often billed alongside Binh, DJ Masda and Craig Richards. Next up: Bunker, Turin on Sat 12 Sept.
 
@@ -32,4 +32,4 @@ Nicolas Lutz is a techno and house artist tracked on soundcheck, with 163 sets l
 
 Binh, DJ Masda, Craig Richards
 
-*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nicolaslutz/)*
+*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nicolaslutz/)*

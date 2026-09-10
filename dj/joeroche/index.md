@@ -1,6 +1,6 @@
 # Joe Roche
 
-Joe Roche is a House and Tech House artist with 3 upcoming club dates listed on soundcheck as of Wed, 9 Sept 2026, next at Mollies, Manchester on Fri, 11 Sept 2026.
+Joe Roche is a House and Tech House artist with 3 upcoming club dates listed on soundcheck as of Thu, 10 Sept 2026, next at Mollies, Manchester on Fri, 11 Sept 2026.
 
 Joe Roche is a house and tech house artist based in United Kingdom, tracked on soundcheck, with 43 sets logged across Ibiza, Leeds, Liverpool and London and 1 more. Often billed alongside Sharples, Rhod Parry and Balrog. Next up: Mollies, Manchester on Fri 11 Sept.
 
@@ -27,4 +27,4 @@ Joe Roche is a house and tech house artist based in United Kingdom, tracked on s
 
 Sharples, Rhod Parry, Balrog
 
-*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/joeroche/)*
+*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/joeroche/)*

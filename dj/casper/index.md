@@ -1,8 +1,8 @@
 # Casper
 
-Casper is a Techno and Electronica artist with 2 upcoming club dates listed on soundcheck as of Wed, 9 Sept 2026, next at De Studio, Antwerp on Fri, 11 Sept 2026.
+Casper is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Thu, 10 Sept 2026, next at De Studio, Antwerp on Fri, 11 Sept 2026.
 
-Casper is a techno and electronica artist tracked on soundcheck, with 33 sets logged across Amsterdam, Antwerp, Bangkok and Berlin and 5 more. Often billed alongside Shoplifter, Mankiyan and freq444. Next up: De Studio, Antwerp on Fri 11 Sept.
+Casper is a techno and house artist tracked on soundcheck, with 34 sets logged across Amsterdam, Antwerp, Bangkok and Berlin and 5 more. Often billed alongside Shoplifter, Lefto Early Bird and Mankiyan. Next up: De Studio, Antwerp on Fri 11 Sept.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Casper is a techno and electronica artist tracked on soundcheck, with 33 sets lo
 | --- | --- | --- |
 | Fri, 11 Sept 2026 | De Studio | Antwerp |
 | Sat, 12 Sept 2026 | UMI | Brussels |
+| Sat, 21 Nov 2026 | TBA - Brussels | Brussels |
 
 ## Recently played
 
@@ -24,6 +25,6 @@ Casper is a techno and electronica artist tracked on soundcheck, with 33 sets lo
 
 ## Shares bills with
 
-Shoplifter, Mankiyan, freq444
+Shoplifter, Lefto Early Bird, Mankiyan
 
-*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/casper/)*
+*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/casper/)*

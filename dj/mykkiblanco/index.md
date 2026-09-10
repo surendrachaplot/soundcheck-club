@@ -1,6 +1,6 @@
 # Mykki Blanco
 
-Mykki Blanco is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Wed, 9 Sept 2026, next at ALICE, Copenhagen on Wed, 14 Oct 2026.
+Mykki Blanco is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Thu, 10 Sept 2026, next at ALICE, Copenhagen on Wed, 14 Oct 2026.
 
 Mykki Blanco is a house and techno artist based in United States of America, tracked on soundcheck, with 30 sets logged across Basel, Berlin, Bristol and Brussels and 14 more. Often billed alongside COBRAH, Olof Dreijer and 2ManyDJs. Next up: ALICE, Copenhagen on Wed 14 Oct.
 
@@ -10,7 +10,7 @@ Mykki Blanco is a house and techno artist based in United States of America, tra
 | --- | --- | --- |
 | Wed, 14 Oct 2026 | ALICE | Copenhagen |
 | Wed, 28 Oct 2026 | Beursschouwburg | Brussels |
-| Wed, 4 Nov 2026 | Belgrave Music Hall | Leeds |
+| Wed, 4 Nov 2026 | Headrow House | Leeds |
 | Sat, 7 Nov 2026 | Various Venues, Bristol | Bristol |
 
 ## Recently played
@@ -28,4 +28,4 @@ Mykki Blanco is a house and techno artist based in United States of America, tra
 
 COBRAH, Olof Dreijer, 2ManyDJs
 
-*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mykkiblanco/)*
+*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mykkiblanco/)*

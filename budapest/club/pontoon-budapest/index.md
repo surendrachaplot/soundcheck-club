@@ -1,6 +1,6 @@
 # Pontoon Budapest
 
-Pontoon Budapest is a music venue in Budapest with 3 upcoming nights listed on soundcheck as of Wed, 9 Sept 2026; the next is "Pontoon x Dirty Cash x Kreativ Kontrol presents: Prosumer" on Thu, 10 Sept 2026.
+Pontoon Budapest is a music venue in Budapest with 3 upcoming nights listed on soundcheck as of Thu, 10 Sept 2026; the next is "Pontoon x Dirty Cash x Kreativ Kontrol presents: Prosumer" on Thu, 10 Sept 2026.
 
 Pontoon Budapest is a music venue in Budapest listed on soundcheck. 3 upcoming nights, with line-ups including Fedora, Gnork, Klayman and Max Sinclair and 2 more. Browse upcoming dates, start times and who's playing. id. Antall József rakpart 1., Budapest, Hungary, 1051.
 
@@ -16,4 +16,4 @@ Pontoon Budapest is a music venue in Budapest listed on soundcheck. 3 upcoming n
 
 id. Antall József rakpart 1., Budapest, Hungary, 1051, Budapest
 
-*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/budapest/club/pontoon-budapest/)*
+*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/budapest/club/pontoon-budapest/)*

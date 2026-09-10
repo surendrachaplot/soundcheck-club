@@ -1,6 +1,6 @@
 # D-EDGE
 
-D-EDGE is a music venue in Sao Paulo with 12 upcoming nights listed on soundcheck as of Wed, 9 Sept 2026; the next is "MOVING D-EDGE SP pres.: IANNI. SHELDON. SYNTHEMESC" on Thu, 10 Sept 2026.
+D-EDGE is a music venue in Sao Paulo with 12 upcoming nights listed on soundcheck as of Thu, 10 Sept 2026; the next is "MOVING D-EDGE SP pres.: IANNI. SHELDON. SYNTHEMESC" on Thu, 10 Sept 2026.
 
 D-EDGE is a music venue in Saopaulo listed on soundcheck. 12 upcoming nights, with line-ups including Acid Asian, Adnan Sharif, BALDACCI and BAPP and 2 more. Browse upcoming dates, start times and who's playing. Av. Auro Soares de Moura Andrade, 141. 01155-040 São Paulo , Brazil.
 
@@ -23,4 +23,4 @@ D-EDGE is a music venue in Saopaulo listed on soundcheck. 12 upcoming nights, wi
 
 Av. Auro Soares de Moura Andrade, 141. 01155-040 São Paulo , Brazil, Sao Paulo
 
-*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/saopaulo/club/d-edge/)*
+*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/saopaulo/club/d-edge/)*

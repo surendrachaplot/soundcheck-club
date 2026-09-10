@@ -1,8 +1,8 @@
 # Stanislawa
 
-Stanislawa is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Wed, 9 Sept 2026, next at TBA - Brussels, Brussels on Fri, 11 Sept 2026.
+Stanislawa is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Thu, 10 Sept 2026, next at TBA - Brussels, Brussels on Fri, 11 Sept 2026.
 
-Stanislawa is a techno and house artist tracked on soundcheck, with 87 sets logged across Amsterdam, Antwerp, Berlin and Brussels and 6 more. Often billed alongside Vera Moro, EMILIJA and Helena Lauwaert. Next up: TBA - Brussels, Brussels on Fri 11 Sept.
+Stanislawa is a techno and house artist tracked on soundcheck, with 88 sets logged across Amsterdam, Antwerp, Berlin and Brussels and 6 more. Often billed alongside Vera Moro, EMILIJA and Helena Lauwaert. Next up: TBA - Brussels, Brussels on Fri 11 Sept.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Stanislawa is a techno and house artist tracked on soundcheck, with 87 sets logg
 | --- | --- | --- |
 | Fri, 11 Sept 2026 | TBA - Brussels | Brussels |
 | Sat, 19 Sept 2026 | La Prairie du Canal | Paris |
+| Sat, 14 Nov 2026 | TRAUM | Antwerp |
 
 ## Recently played
 
@@ -26,4 +27,4 @@ Stanislawa is a techno and house artist tracked on soundcheck, with 87 sets logg
 
 Vera Moro, EMILIJA, Helena Lauwaert
 
-*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/stanislawa/)*
+*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/stanislawa/)*

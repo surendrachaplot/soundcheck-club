@@ -1,6 +1,6 @@
 # Romantica
 
-Romantica is a music venue in Stuttgart with 8 upcoming nights listed on soundcheck as of Wed, 9 Sept 2026; the next is "KATZENGOLD am DONNERSTAG Presse. RAPHAS B-DAY mit Tamara Wirth & Raphael Dincsoy" on Thu, 10 Sept 2026.
+Romantica is a music venue in Stuttgart with 8 upcoming nights listed on soundcheck as of Thu, 10 Sept 2026; the next is "KATZENGOLD am DONNERSTAG Presse. RAPHAS B-DAY mit Tamara Wirth & Raphael Dincsoy" on Thu, 10 Sept 2026.
 
 Romantica is a music venue in Stuttgart listed on soundcheck. 8 upcoming nights, with line-ups including Alexander Maier, chaos.disco.club, Danny Salas and ELSA (DE) and 2 more. Browse upcoming dates, start times and who's playing. Hauptstatter Str. 40, Stuttgart.
 
@@ -21,4 +21,4 @@ Romantica is a music venue in Stuttgart listed on soundcheck. 8 upcoming nights,
 
 Hauptstatter Str. 40, Stuttgart, Stuttgart
 
-*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/stuttgart/club/romantica/)*
+*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/stuttgart/club/romantica/)*

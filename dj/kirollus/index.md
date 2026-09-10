@@ -1,8 +1,8 @@
 # Kirollus
 
-Kirollus is a House and Disco artist with 6 upcoming club dates listed on soundcheck as of Wed, 9 Sept 2026, next at Openluchttheater Amersfoort, Amsterdam on Fri, 18 Sept 2026.
+Kirollus is a House and Disco artist with 7 upcoming club dates listed on soundcheck as of Thu, 10 Sept 2026, next at Openluchttheater Amersfoort, Amsterdam on Fri, 18 Sept 2026.
 
-Kirollus is a house and disco artist tracked on soundcheck, with 142 sets logged across Amsterdam, Antwerp, Athens and Auckland and 35 more. Often billed alongside MiNNA, Tonno Disko and Dan Shake. Next up: Openluchttheater Amersfoort, Amsterdam on Fri 18 Sept.
+Kirollus is a house and disco artist tracked on soundcheck, with 143 sets logged across Amsterdam, Antwerp, Athens and Auckland and 35 more. Often billed alongside MiNNA, Tonno Disko and Dan Shake. Next up: Openluchttheater Amersfoort, Amsterdam on Fri 18 Sept.
 
 ## Upcoming shows
 
@@ -13,6 +13,7 @@ Kirollus is a house and disco artist tracked on soundcheck, with 142 sets logged
 | Thu, 1 Oct 2026 | TBA - Various Venues | Malta |
 | Thu, 1 Oct 2026 | UNO MALTA | Malta |
 | Fri, 23 Oct 2026 | NX Newcastle | Newcastle |
+| Sat, 21 Nov 2026 | TBA - Brussels | Brussels |
 | Fri, 27 Nov 2026 | Lula Club | Madrid |
 
 ## Recently played
@@ -30,4 +31,4 @@ Kirollus is a house and disco artist tracked on soundcheck, with 142 sets logged
 
 MiNNA, Tonno Disko, Dan Shake
 
-*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kirollus/)*
+*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kirollus/)*

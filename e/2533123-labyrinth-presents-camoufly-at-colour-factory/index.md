@@ -1,0 +1,15 @@
+# Labyrinth presents: camoufly at Colour Factory
+
+Labyrinth presents: camoufly at Colour Factory on Fri 27 Nov, London. 1 act on the bill: camoufly. Garage and Tech House. Preview the line-up and save it on soundcheck.
+
+| Field | Value |
+| --- | --- |
+| Date | Fri, 27 Nov 2026 |
+| Venue | Colour Factory |
+| City | London |
+
+## Line-up
+
+- camoufly
+
+*Source: [soundcheck](https://soundcheck.club/e/2533123-labyrinth-presents-camoufly-at-colour-factory/)*

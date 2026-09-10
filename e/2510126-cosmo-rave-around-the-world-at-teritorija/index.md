@@ -1,6 +1,6 @@
 # COSMO RAVE: AROUND THE WORLD at Teritorija
 
-COSMO RAVE: AROUND THE WORLD at Teritorija on Fri 9 Oct, Riga. Preview the line-up and save it on soundcheck.
+COSMO RAVE: AROUND THE WORLD at Teritorija on Fri 9 Oct, Riga. Electro and Afro Tech. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

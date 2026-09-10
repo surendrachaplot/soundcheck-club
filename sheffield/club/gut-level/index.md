@@ -1,6 +1,6 @@
 # Gut Level
 
-Gut Level is a music venue in Sheffield with 10 upcoming nights listed on soundcheck as of Wed, 9 Sept 2026; the next is "TAKIN'LIBERTIES TL0015 with HVL" on Fri, 11 Sept 2026.
+Gut Level is a music venue in Sheffield with 10 upcoming nights listed on soundcheck as of Thu, 10 Sept 2026; the next is "TAKIN'LIBERTIES TL0015 with HVL" on Fri, 11 Sept 2026.
 
 Gut Level is a music venue in Sheffield listed on soundcheck. 10 upcoming nights, with line-ups including Buggery Grips, Chris Jackson, Danielle and FM Arlo and 2 more. Browse upcoming dates, start times and who's playing. 32-34 Chapel Walk, Sheffield, S1 2PD.
 
@@ -23,4 +23,4 @@ Gut Level is a music venue in Sheffield listed on soundcheck. 10 upcoming nights
 
 32-34 Chapel Walk, Sheffield, S1 2PD, Sheffield
 
-*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/sheffield/club/gut-level/)*
+*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/sheffield/club/gut-level/)*

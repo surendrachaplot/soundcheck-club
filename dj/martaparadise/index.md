@@ -1,6 +1,6 @@
 # Marta Paradise
 
-Marta Paradise is a Italo Disco and Electronica artist with 2 upcoming club dates listed on soundcheck as of Wed, 9 Sept 2026, next at Spazio Cavea, Rome on Sun, 27 Sept 2026.
+Marta Paradise is a Italo Disco and Electronica artist with 2 upcoming club dates listed on soundcheck as of Thu, 10 Sept 2026, next at Spazio Cavea, Rome on Sun, 27 Sept 2026.
 
 Marta Paradise is an italo disco and electronica artist tracked on soundcheck, with 7 sets logged across Berlin, Madrid and Rome. Often billed alongside Bordello Soundsystem, Franz Scala and Giulia Gutterer. Next up: Spazio Cavea, Rome on Sun 27 Sept.
 
@@ -23,4 +23,4 @@ Marta Paradise is an italo disco and electronica artist tracked on soundcheck, w
 
 Bordello Soundsystem, Franz Scala, Giulia Gutterer
 
-*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/martaparadise/)*
+*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/martaparadise/)*

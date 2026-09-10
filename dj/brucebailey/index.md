@@ -1,14 +1,16 @@
 # Bruce Bailey
 
-Bruce Bailey is a House and Deep House artist with 2 upcoming club dates listed on soundcheck as of Wed, 9 Sept 2026, next at TV Lounge, Detroit on Fri, 25 Sept 2026.
+Bruce Bailey is a House and Deep House artist with 4 upcoming club dates listed on soundcheck as of Thu, 10 Sept 2026, next at Third Street Bar, Detroit on Sun, 13 Sept 2026.
 
-Bruce Bailey is a house and deep house artist based in United States of America, tracked on soundcheck, with 63 sets logged across Chicago, Detroit, Houston and Miami. Often billed alongside sillygirlcarmen, Eddie Fowlkes and Rick Wilhite. Next up: TV Lounge, Detroit on Fri 25 Sept.
+Bruce Bailey is a house and deep house artist based in United States of America, tracked on soundcheck, with 65 sets logged across Chicago, Detroit, Houston and Miami. Often billed alongside sillygirlcarmen, Rick Wilhite and Eddie Fowlkes. Next up: Third Street Bar, Detroit on Sun 13 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sun, 13 Sept 2026 | Third Street Bar | Detroit |
 | Fri, 25 Sept 2026 | TV Lounge | Detroit |
+| Sun, 4 Oct 2026 | TV Lounge | Detroit |
 | Fri, 30 Oct 2026 | TV Lounge | Detroit |
 
 ## Recently played
@@ -24,6 +26,6 @@ Bruce Bailey is a house and deep house artist based in United States of America,
 
 ## Shares bills with
 
-sillygirlcarmen, Eddie Fowlkes, Rick Wilhite
+sillygirlcarmen, Rick Wilhite, Eddie Fowlkes
 
-*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/brucebailey/)*
+*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/brucebailey/)*

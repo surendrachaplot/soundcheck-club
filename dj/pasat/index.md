@@ -1,6 +1,6 @@
 # Pasat
 
-Pasat is a House and UK Funky artist with 1 upcoming club date listed on soundcheck as of Wed, 9 Sept 2026, next at Phantom Bar Berlin, Berlin on Sat, 12 Sept 2026.
+Pasat is a House and UK Funky artist with 1 upcoming club date listed on soundcheck as of Thu, 10 Sept 2026, next at Phantom Bar Berlin, Berlin on Sat, 12 Sept 2026.
 
 Pasat is a house and uk funky artist tracked on soundcheck, with 6 sets logged across Berlin and Hamburg. Often billed alongside Alas (2), DJ Babyblade and BBlove. Next up: Phantom Bar Berlin, Berlin on Sat 12 Sept.
 
@@ -22,4 +22,4 @@ Pasat is a house and uk funky artist tracked on soundcheck, with 6 sets logged a
 
 Alas (2), DJ Babyblade, BBlove
 
-*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/pasat/)*
+*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/pasat/)*

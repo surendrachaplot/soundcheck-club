@@ -1,6 +1,6 @@
 # Crobar - Buenos Aires
 
-Crobar - Buenos Aires is a music venue in Buenos Aires with 6 upcoming nights listed on soundcheck as of Wed, 9 Sept 2026; the next is "Crobar & Elements Pres.: Adam Sellouk" on Fri, 11 Sept 2026.
+Crobar - Buenos Aires is a music venue in Buenos Aires with 6 upcoming nights listed on soundcheck as of Thu, 10 Sept 2026; the next is "Crobar & Elements Pres.: Adam Sellouk" on Fri, 11 Sept 2026.
 
 Crobar - Buenos Aires is a music venue in Buenosaires listed on soundcheck. 6 upcoming nights, with line-ups including Adam Sellouk, Agustin Giri, Ana Hagen and John Cosani and 2 more. Browse upcoming dates, start times and who's playing. Marcelo Freyre S/N, Paseo de la Infanta; Palermo; Buenos Aires; Argentina.
 
@@ -19,4 +19,4 @@ Crobar - Buenos Aires is a music venue in Buenosaires listed on soundcheck. 6 up
 
 Marcelo Freyre S/N, Paseo de la Infanta; Palermo; Buenos Aires; Argentina, Buenos Aires
 
-*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/buenosaires/club/crobar-buenos-aires/)*
+*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/buenosaires/club/crobar-buenos-aires/)*

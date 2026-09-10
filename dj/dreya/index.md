@@ -1,14 +1,15 @@
 # DREYA
 
-DREYA is a House and Afrobeat artist with 1 upcoming club date listed on soundcheck as of Wed, 9 Sept 2026, next at Hï Ibiza, Ibiza on Wed, 16 Sept 2026.
+DREYA is a House and Industrial artist with 2 upcoming club dates listed on soundcheck as of Thu, 10 Sept 2026, next at Hï Ibiza, Ibiza on Wed, 16 Sept 2026.
 
-DREYA is a house and afrobeat artist based in Austria, tracked on soundcheck, with 30 sets logged across Berlin, Geneva, Ibiza and Miami and 5 more. Often billed alongside TEZIBEL, DJ Deadlift and Felix Rupprecht. Next up: Hï Ibiza, Ibiza on Wed 16 Sept.
+DREYA is a house and industrial artist based in Austria, tracked on soundcheck, with 31 sets logged across Berlin, Geneva, Ibiza and Miami and 5 more. Often billed alongside TEZIBEL, DJ Deadlift and Felix Rupprecht. Next up: Hï Ibiza, Ibiza on Wed 16 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Wed, 16 Sept 2026 | Hï Ibiza | Ibiza |
+| Sat, 31 Oct 2026 | Forestlimit | Tokyo |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ DREYA is a house and afrobeat artist based in Austria, tracked on soundcheck, wi
 
 TEZIBEL, DJ Deadlift, Felix Rupprecht
 
-*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dreya/)*
+*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dreya/)*

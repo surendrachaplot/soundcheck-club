@@ -1,6 +1,6 @@
 # Bike Jesus
 
-Bike Jesus is a music venue in Prague with 8 upcoming nights listed on soundcheck as of Wed, 9 Sept 2026; the next is "Bike Jesus EDUCATED STAGE AUDIRE - SPECIAL LIMITED EDITION" on Thu, 10 Sept 2026.
+Bike Jesus is a music venue in Prague with 8 upcoming nights listed on soundcheck as of Thu, 10 Sept 2026; the next is "Bike Jesus EDUCATED STAGE AUDIRE - SPECIAL LIMITED EDITION" on Thu, 10 Sept 2026.
 
 Bike Jesus is a music venue in Prague listed on soundcheck. 8 upcoming nights, with line-ups including 3TB (1), aláya, AVHD and CEREAL and 2 more. Browse upcoming dates, start times and who's playing. ostrov Štvanice 1125, 170 00 Praha 7-Holešovice, Czechia.
 
@@ -21,4 +21,4 @@ Bike Jesus is a music venue in Prague listed on soundcheck. 8 upcoming nights, w
 
 ostrov Štvanice 1125, 170 00 Praha 7-Holešovice, Czechia, Prague
 
-*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/prague/club/bike-jesus/)*
+*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/prague/club/bike-jesus/)*

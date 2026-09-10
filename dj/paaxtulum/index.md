@@ -1,6 +1,6 @@
 # PAAX Tulum
 
-PAAX Tulum is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Wed, 9 Sept 2026, next at Scorpios, Mykonos on Thu, 17 Sept 2026.
+PAAX Tulum is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Thu, 10 Sept 2026, next at Scorpios, Mykonos on Thu, 17 Sept 2026.
 
 PAAX Tulum is a house and deep house artist based in Mexico, tracked on soundcheck, with 11 sets logged across Barcelona, Buenosaires, Ibiza and London and 2 more. Often billed alongside Noncitizens, Amadori and Bab Klover. Next up: Scorpios, Mykonos on Thu 17 Sept.
 
@@ -25,4 +25,4 @@ PAAX Tulum is a house and deep house artist based in Mexico, tracked on soundche
 
 Noncitizens, Amadori, Bab Klover
 
-*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/paaxtulum/)*
+*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/paaxtulum/)*

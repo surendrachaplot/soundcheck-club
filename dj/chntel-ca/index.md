@@ -1,6 +1,6 @@
 # CHNTEL.
 
-CHNTEL. is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Wed, 9 Sept 2026, next at The Wych, Toronto on Thu, 17 Sept 2026.
+CHNTEL. is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Thu, 10 Sept 2026, next at The Wych, Toronto on Thu, 17 Sept 2026.
 
 CHNTEL. is a house and tech house artist based in Canada, tracked on soundcheck, with 20 sets logged across Toronto. Often billed alongside Annamite, Dark Matter (3) and In Depth Subject. Next up: The Wych, Toronto on Thu 17 Sept.
 
@@ -25,4 +25,4 @@ CHNTEL. is a house and tech house artist based in Canada, tracked on soundcheck,
 
 Annamite, Dark Matter (3), In Depth Subject
 
-*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/chntel-ca/)*
+*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/chntel-ca/)*

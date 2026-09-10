@@ -1,6 +1,6 @@
 # DJ Bax
 
-DJ Bax is a Techno and Trance artist with 7 upcoming club dates listed on soundcheck as of Wed, 9 Sept 2026, next at Péniche Loupika, Lyon on Sat, 5 Sept 2026.
+DJ Bax is a Techno and Trance artist with 7 upcoming club dates listed on soundcheck as of Thu, 10 Sept 2026, next at Péniche Loupika, Lyon on Sat, 5 Sept 2026.
 
 DJ Bax is a techno and trance artist tracked on soundcheck, with 19 sets logged across Auckland, Berlin, Brisbane and Edinburgh and 8 more. Often billed alongside Stinny Stone, 2FEL and 4000 Hz. Next up: Péniche Loupika, Lyon on Sat 5 Sept.
 
@@ -31,4 +31,4 @@ DJ Bax is a techno and trance artist tracked on soundcheck, with 19 sets logged 
 
 Stinny Stone, 2FEL, 4000 Hz
 
-*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djbax/)*
+*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djbax/)*

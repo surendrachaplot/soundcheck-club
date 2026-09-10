@@ -1,6 +1,6 @@
 # The Evelyn Hotel
 
-The Evelyn Hotel is a music venue in Melbourne with 3 upcoming nights listed on soundcheck as of Wed, 9 Sept 2026; the next is "Crown Ruler + Tribe Soundsystem pres. Timmy Regisford (NYC / The Shelter)" on Fri, 11 Sept 2026.
+The Evelyn Hotel is a music venue in Melbourne with 3 upcoming nights listed on soundcheck as of Thu, 10 Sept 2026; the next is "Crown Ruler + Tribe Soundsystem pres. Timmy Regisford (NYC / The Shelter)" on Fri, 11 Sept 2026.
 
 The Evelyn Hotel is a music venue in Melbourne listed on soundcheck. 3 upcoming nights, with line-ups including DJ JNETT, Kuzco, Mike Gurrieri and Silentjay and 2 more. Browse upcoming dates, start times and who's playing. 351 Brunswick St; Fitzroy, VIC 3065; Australia.
 
@@ -16,4 +16,4 @@ The Evelyn Hotel is a music venue in Melbourne listed on soundcheck. 3 upcoming 
 
 351 Brunswick St; Fitzroy, VIC 3065; Australia, Melbourne
 
-*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/the-evelyn-hotel/)*
+*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/the-evelyn-hotel/)*

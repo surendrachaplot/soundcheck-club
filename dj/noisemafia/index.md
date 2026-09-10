@@ -1,8 +1,8 @@
 # Noise Mafia
 
-Noise Mafia is a Techno and Trance artist with 6 upcoming club dates listed on soundcheck as of Wed, 9 Sept 2026, next at Else, Berlin on Fri, 11 Sept 2026.
+Noise Mafia is a Techno and Trance artist with 7 upcoming club dates listed on soundcheck as of Thu, 10 Sept 2026, next at Else, Berlin on Fri, 11 Sept 2026.
 
-Noise Mafia is a techno and trance artist tracked on soundcheck, with 62 sets logged across Amsterdam, Barcelona, Basel and Belfast and 26 more. Often billed alongside Afem Syko, PETERBLUE and Adrian Mills. Next up: Else, Berlin on Fri 11 Sept.
+Noise Mafia is a techno and trance artist tracked on soundcheck, with 63 sets logged across Amsterdam, Barcelona, Basel and Belfast and 26 more. Often billed alongside Afem Syko, PETERBLUE and Adrian Mills. Next up: Else, Berlin on Fri 11 Sept.
 
 ## Upcoming shows
 
@@ -14,6 +14,7 @@ Noise Mafia is a techno and trance artist tracked on soundcheck, with 62 sets lo
 | Thu, 22 Oct 2026 | Melkweg | Amsterdam |
 | Sat, 31 Oct 2026 | Lokschuppen Berlin | Berlin |
 | Sat, 21 Nov 2026 | Amp | Munster |
+| Sat, 5 Dec 2026 | Zenith - Die Kulturhalle | Munich |
 
 ## Recently played
 
@@ -30,4 +31,4 @@ Noise Mafia is a techno and trance artist tracked on soundcheck, with 62 sets lo
 
 Afem Syko, PETERBLUE, Adrian Mills
 
-*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/noisemafia/)*
+*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/noisemafia/)*

@@ -1,6 +1,6 @@
 # Annyrock
 
-Annyrock is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 9 Sept 2026, next at Kauz, Zurich on Fri, 2 Oct 2026.
+Annyrock is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 10 Sept 2026, next at Kauz, Zurich on Fri, 2 Oct 2026.
 
 Annyrock is a house and techno artist based in Ukraine, tracked on soundcheck, with 74 sets logged across Amsterdam, Barcelona, Berlin and Copenhagen and 11 more. Often billed alongside E.LINA, slin and Ancut. Next up: Kauz, Zurich on Fri 2 Oct.
 
@@ -25,4 +25,4 @@ Annyrock is a house and techno artist based in Ukraine, tracked on soundcheck, w
 
 E.LINA, slin, Ancut
 
-*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/annyrock/)*
+*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/annyrock/)*

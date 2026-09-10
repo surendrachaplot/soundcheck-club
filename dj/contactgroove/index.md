@@ -1,6 +1,6 @@
 # contact groove
 
-contact groove is a Techno and Drum & Bass artist with 1 upcoming club date listed on soundcheck as of Wed, 9 Sept 2026, next at Eastern Bloc Records, Manchester on Thu, 24 Sept 2026.
+contact groove is a Techno and Drum & Bass artist with 1 upcoming club date listed on soundcheck as of Thu, 10 Sept 2026, next at Eastern Bloc Records, Manchester on Thu, 24 Sept 2026.
 
 contact groove is a techno and drum & bass artist based in United Kingdom, tracked on soundcheck, with 7 sets logged across Manchester. Often billed alongside Ego-Free Sequences, Contours and Deselecta. Next up: Eastern Bloc Records, Manchester on Thu 24 Sept.
 
@@ -23,4 +23,4 @@ contact groove is a techno and drum & bass artist based in United Kingdom, track
 
 Ego-Free Sequences, Contours, Deselecta
 
-*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/contactgroove/)*
+*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/contactgroove/)*

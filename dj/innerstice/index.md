@@ -1,6 +1,6 @@
 # Innerstice
 
-Innerstice is a Techno and Deep House artist with 4 upcoming club dates listed on soundcheck as of Wed, 9 Sept 2026, next at Club Cheek, London on Sun, 13 Sept 2026.
+Innerstice is a Techno and Deep House artist with 4 upcoming club dates listed on soundcheck as of Thu, 10 Sept 2026, next at Club Cheek, London on Sun, 13 Sept 2026.
 
 Innerstice is a techno and deep house artist tracked on soundcheck, with 47 sets logged across London, Madrid and Rome. Often billed alongside Carina Lawrence, Adela and ZIYING. Next up: Club Cheek, London on Sun 13 Sept.
 
@@ -28,4 +28,4 @@ Innerstice is a techno and deep house artist tracked on soundcheck, with 47 sets
 
 Carina Lawrence, Adela, ZIYING
 
-*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/innerstice/)*
+*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/innerstice/)*

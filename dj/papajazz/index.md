@@ -1,6 +1,6 @@
 # papa jazz
 
-papa jazz is a House and Deep House artist with 3 upcoming club dates listed on soundcheck as of Wed, 9 Sept 2026, next at Golden Gate, Berlin on Thu, 10 Sept 2026.
+papa jazz is a House and Deep House artist with 3 upcoming club dates listed on soundcheck as of Thu, 10 Sept 2026, next at Golden Gate, Berlin on Thu, 10 Sept 2026.
 
 papa jazz is a house and deep house artist based in Canada, tracked on soundcheck, with 97 sets logged across Berlin, London, Mexicocity and Munich and 1 more. Often billed alongside Rafatel, Barreto and Valeriana. Next up: Golden Gate, Berlin on Thu 10 Sept.
 
@@ -27,4 +27,4 @@ papa jazz is a house and deep house artist based in Canada, tracked on soundchec
 
 Rafatel, Barreto, Valeriana
 
-*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/papajazz/)*
+*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/papajazz/)*

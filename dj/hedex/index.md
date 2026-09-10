@@ -1,6 +1,6 @@
 # Hedex
 
-Hedex is a Drum & Bass and Bass artist with 3 upcoming club dates listed on soundcheck as of Wed, 9 Sept 2026, next at Glen Helen Regional Park, Los Angeles on Sat, 19 Sept 2026.
+Hedex is a Drum & Bass and Bass artist with 3 upcoming club dates listed on soundcheck as of Thu, 10 Sept 2026, next at Glen Helen Regional Park, Los Angeles on Sat, 19 Sept 2026.
 
 Hedex is a drum & bass and bass artist tracked on soundcheck, with 73 sets logged across Auckland, Austin, Brighton and Brisbane and 29 more. Often billed alongside BassLayerz, Eksman and Turno. Next up: Glen Helen Regional Park, Losangeles on Sat 19 Sept.
 
@@ -27,4 +27,4 @@ Hedex is a drum & bass and bass artist tracked on soundcheck, with 73 sets logge
 
 BassLayerz, Eksman, Turno
 
-*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/hedex/)*
+*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/hedex/)*

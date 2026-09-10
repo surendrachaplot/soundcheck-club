@@ -1,6 +1,6 @@
 # BeNi
 
-BeNi is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 9 Sept 2026, next at Club Daphnia, Osaka on Tue, 3 Nov 2026.
+BeNi is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 10 Sept 2026, next at Club Daphnia, Osaka on Tue, 3 Nov 2026.
 
 BeNi is a house and techno artist tracked on soundcheck, with 5 sets logged across Munich, Osaka, Paris and Tokyo. Often billed alongside FLUONITE, Lowkey and MIHEMI. Next up: Club Daphnia, Osaka on Tue 3 Nov.
 
@@ -21,4 +21,4 @@ BeNi is a house and techno artist tracked on soundcheck, with 5 sets logged acro
 
 FLUONITE, Lowkey, MIHEMI
 
-*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/beni/)*
+*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/beni/)*

@@ -1,6 +1,6 @@
 # Adrian Salcedo
 
-Adrian Salcedo is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Wed, 9 Sept 2026, next at KB3, Copenhagen on Fri, 16 Oct 2026.
+Adrian Salcedo is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Thu, 10 Sept 2026, next at KB3, Copenhagen on Fri, 16 Oct 2026.
 
 Adrian Salcedo is a tech house and house artist based in Denmark, tracked on soundcheck, with 26 sets logged across Copenhagen and Toronto. Often billed alongside RUDEE NIK, Alley Kay and Greg Gow. Next up: KB3, Copenhagen on Fri 16 Oct.
 
@@ -25,4 +25,4 @@ Adrian Salcedo is a tech house and house artist based in Denmark, tracked on sou
 
 RUDEE NIK, Alley Kay, Greg Gow
 
-*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/adriansalcedo/)*
+*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/adriansalcedo/)*

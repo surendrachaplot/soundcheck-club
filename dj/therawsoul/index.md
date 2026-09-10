@@ -1,6 +1,6 @@
 # The Rawsoul
 
-The Rawsoul is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 9 Sept 2026, next at Sans Soleil, Montreal on Sun, 13 Sept 2026.
+The Rawsoul is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 10 Sept 2026, next at Sans Soleil, Montreal on Sun, 13 Sept 2026.
 
 The Rawsoul is a house and techno artist tracked on soundcheck, with 13 sets logged across Montreal and Zurich. Often billed alongside Moka, Paolo Askia and Sexnobe. Next up: Sans Soleil, Montreal on Sun 13 Sept.
 
@@ -25,4 +25,4 @@ The Rawsoul is a house and techno artist tracked on soundcheck, with 13 sets log
 
 Moka, Paolo Askia, Sexnobe
 
-*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/therawsoul/)*
+*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/therawsoul/)*

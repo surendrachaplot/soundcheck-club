@@ -1,6 +1,6 @@
 # SILK!
 
-SILK! is a Bass and House artist with 1 upcoming club date listed on soundcheck as of Wed, 9 Sept 2026, next at Baggen, Copenhagen on Thu, 10 Sept 2026.
+SILK! is a Bass and House artist with 1 upcoming club date listed on soundcheck as of Thu, 10 Sept 2026, next at Baggen, Copenhagen on Thu, 10 Sept 2026.
 
 SILK! is a bass and house artist tracked on soundcheck, with 5 sets logged across Copenhagen. Often billed alongside Valentina(DK), CALIFANO and DJ Sandy P. Next up: Baggen, Copenhagen on Thu 10 Sept.
 
@@ -21,4 +21,4 @@ SILK! is a bass and house artist tracked on soundcheck, with 5 sets logged acros
 
 Valentina(DK), CALIFANO, DJ Sandy P
 
-*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/silk!/)*
+*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/silk!/)*

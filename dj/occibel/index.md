@@ -1,13 +1,14 @@
 # Occibel
 
-Occibel is a House and Electro artist with 1 upcoming club date listed on soundcheck as of Wed, 9 Sept 2026, next at Fvtvr, Paris on Fri, 9 Oct 2026.
+Occibel is a House and Electro artist with 2 upcoming club dates listed on soundcheck as of Thu, 10 Sept 2026, next at Vittoria Wharf Studio, London on Sat, 12 Sept 2026.
 
-Occibel is a house and electro artist tracked on soundcheck, with 65 sets logged across Amsterdam, Athens, Barcelona and Bristol and 15 more. Often billed alongside Vitess, HearThug and IAMBP. Next up: Fvtvr, Paris on Fri 9 Oct.
+Occibel is a house and electro artist tracked on soundcheck, with 66 sets logged across Amsterdam, Athens, Barcelona and Bristol and 15 more. Often billed alongside Vitess, HearThug and IAMBP. Next up: Vittoria Wharf Studio, London on Sat 12 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 12 Sept 2026 | Vittoria Wharf Studio | London |
 | Fri, 9 Oct 2026 | Fvtvr | Paris |
 
 ## Recently played
@@ -25,4 +26,4 @@ Occibel is a house and electro artist tracked on soundcheck, with 65 sets logged
 
 Vitess, HearThug, IAMBP
 
-*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/occibel/)*
+*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/occibel/)*

@@ -1,8 +1,8 @@
 # Jane Fitz
 
-Jane Fitz is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Wed, 9 Sept 2026, next at essaim, Paris on Sun, 27 Sept 2026.
+Jane Fitz is a Techno and House artist with 7 upcoming club dates listed on soundcheck as of Thu, 10 Sept 2026, next at essaim, Paris on Sun, 27 Sept 2026.
 
-Jane Fitz is a techno and house artist tracked on soundcheck, with 169 sets logged across Amsterdam, Antwerp, Barcelona and Basel and 31 more. Often billed alongside Marco Shuttle, Francesco Del Garda and DJ Nobu. Next up: essaim, Paris on Sun 27 Sept.
+Jane Fitz is a techno and house artist tracked on soundcheck, with 171 sets logged across Amsterdam, Antwerp, Barcelona and Basel and 31 more. Often billed alongside Marco Shuttle, Francesco Del Garda and DJ Nobu. Next up: essaim, Paris on Sun 27 Sept.
 
 ## Upcoming shows
 
@@ -13,6 +13,8 @@ Jane Fitz is a techno and house artist tracked on soundcheck, with 169 sets logg
 | Sat, 17 Oct 2026 | fabric | London |
 | Sun, 25 Oct 2026 | TBA | Amsterdam |
 | Fri, 30 Oct 2026 | Berghain / Panorama Bar / Säule | Berlin |
+| Sat, 21 Nov 2026 | TBA | London |
+| Fri, 4 Dec 2026 | 宀 Club | Hong Kong |
 
 ## Recently played
 
@@ -29,4 +31,4 @@ Jane Fitz is a techno and house artist tracked on soundcheck, with 169 sets logg
 
 Marco Shuttle, Francesco Del Garda, DJ Nobu
 
-*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/janefitz/)*
+*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/janefitz/)*

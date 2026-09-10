@@ -1,6 +1,6 @@
 # Luke Una
 
-Luke Una is a House and Disco artist with 8 upcoming club dates listed on soundcheck as of Wed, 9 Sept 2026, next at Carriageworks, Sydney on Sat, 3 Oct 2026.
+Luke Una is a House and Disco artist with 8 upcoming club dates listed on soundcheck as of Thu, 10 Sept 2026, next at Carriageworks, Sydney on Sat, 3 Oct 2026.
 
 Luke Una is a house and disco artist tracked on soundcheck, with 142 sets logged across Amsterdam, Antwerp, Athens and Bali and 33 more. Often billed alongside Joey T, Simon Morell and Aroop Roy. Next up: Carriageworks, Sydney on Sat 3 Oct.
 
@@ -32,4 +32,4 @@ Luke Una is a house and disco artist tracked on soundcheck, with 142 sets logged
 
 Joey T, Simon Morell, Aroop Roy
 
-*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lukeuna/)*
+*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lukeuna/)*

@@ -1,6 +1,6 @@
 # Subculture w/ Domenic Cappello + McCart at Sub Club
 
-Subculture w/ Domenic Cappello + McCart at Sub Club on Sat 12 Sept, Glasgow. 2 acts on the bill: Domenic Cappello and McCart. Preview the line-up and save it on soundcheck.
+Subculture w/ Domenic Cappello + McCart at Sub Club on Sat 12 Sept, Glasgow. 2 acts on the bill: Domenic Cappello and McCart. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

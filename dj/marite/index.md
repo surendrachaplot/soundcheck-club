@@ -1,8 +1,8 @@
 # Mari.te
 
-Mari.te is a House and Techno artist with 7 upcoming club dates listed on soundcheck as of Wed, 9 Sept 2026, next at Sunseabar Beach Club, Barcelona on Fri, 11 Sept 2026.
+Mari.te is a House and Techno artist with 8 upcoming club dates listed on soundcheck as of Thu, 10 Sept 2026, next at Sunseabar Beach Club, Barcelona on Fri, 11 Sept 2026.
 
-Mari.te is a house and techno artist tracked on soundcheck, with 159 sets logged across Amsterdam, Austin, Barcelona and Berlin and 36 more. Often billed alongside Lis Sarroca, Liquid Earth and Penelope (2). Next up: Sunseabar Beach Club, Barcelona on Fri 11 Sept.
+Mari.te is a house and techno artist tracked on soundcheck, with 160 sets logged across Amsterdam, Austin, Barcelona and Berlin and 36 more. Often billed alongside Lis Sarroca, Liquid Earth and Penelope (2). Next up: Sunseabar Beach Club, Barcelona on Fri 11 Sept.
 
 ## Upcoming shows
 
@@ -13,6 +13,7 @@ Mari.te is a house and techno artist tracked on soundcheck, with 159 sets logged
 | Fri, 25 Sept 2026 | Jolene Downtown Miami | Miami |
 | Sat, 26 Sept 2026 | H0L0 | New York City |
 | Fri, 2 Oct 2026 | La Terrrazza | Barcelona |
+| Thu, 22 Oct 2026 | TBA - Secret Location (Amsterdam) | Amsterdam |
 | Sat, 24 Oct 2026 | Klaproos | Amsterdam |
 | Fri, 27 Nov 2026 | Sala Villanos | Madrid |
 
@@ -31,4 +32,4 @@ Mari.te is a house and techno artist tracked on soundcheck, with 159 sets logged
 
 Lis Sarroca, Liquid Earth, Penelope (2)
 
-*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/marite/)*
+*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/marite/)*

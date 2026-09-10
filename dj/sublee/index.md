@@ -1,13 +1,14 @@
 # Sublee
 
-Sublee is a Minimal and House artist with 2 upcoming club dates listed on soundcheck as of Wed, 9 Sept 2026, next at 528 Ibiza, Ibiza on Wed, 23 Sept 2026.
+Sublee is a Minimal and House artist with 3 upcoming club dates listed on soundcheck as of Thu, 10 Sept 2026, next at Club Guesthouse, Bucharest on Sat, 19 Sept 2026.
 
-Sublee is a minimal and house artist based in Romania, tracked on soundcheck, with 65 sets logged across Amsterdam, Barcelona, Berlin and Birmingham and 21 more. Often billed alongside Arapu, Cristi Cons and CEZAR. Next up: 528 Ibiza, Ibiza on Wed 23 Sept.
+Sublee is a minimal and house artist based in Romania, tracked on soundcheck, with 66 sets logged across Amsterdam, Barcelona, Berlin and Birmingham and 21 more. Often billed alongside Arapu, Cristi Cons and CEZAR. Next up: Club Guesthouse, Bucharest on Sat 19 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 19 Sept 2026 | Club Guesthouse | Bucharest |
 | Wed, 23 Sept 2026 | 528 Ibiza | Ibiza |
 | Fri, 6 Nov 2026 | Zoom Club | Frankfurt |
 
@@ -26,4 +27,4 @@ Sublee is a minimal and house artist based in Romania, tracked on soundcheck, wi
 
 Arapu, Cristi Cons, CEZAR
 
-*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sublee/)*
+*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sublee/)*

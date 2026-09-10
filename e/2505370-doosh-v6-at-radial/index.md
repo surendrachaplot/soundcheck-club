@@ -1,6 +1,6 @@
 # DOOSH V6 at radial
 
-DOOSH V6 at radial on Sat 10 Oct, London. 2 acts on the bill: D.G. and FIDDI. Trance and Acid. Preview the line-up and save it on soundcheck.
+DOOSH V6 at radial on Sat 10 Oct, London. 2 acts on the bill: D.G. and FIDDI. House and Acid. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

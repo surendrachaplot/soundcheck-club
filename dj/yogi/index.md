@@ -1,6 +1,6 @@
 # Yogi
 
-Yogi is a House and Club artist with 1 upcoming club date listed on soundcheck as of Wed, 9 Sept 2026, next at Copper Boot, Toronto on Sun, 13 Sept 2026.
+Yogi is a House and Club artist with 1 upcoming club date listed on soundcheck as of Thu, 10 Sept 2026, next at Copper Boot, Toronto on Sun, 13 Sept 2026.
 
 Yogi is a house and club artist tracked on soundcheck, with 150 sets logged across Amsterdam, Chicago, Lisbon and Newyorkcity and 1 more. Often billed alongside Iced Misto, Jason Palma and Dino and Terry. Next up: Copper Boot, Toronto on Sun 13 Sept.
 
@@ -25,4 +25,4 @@ Yogi is a house and club artist tracked on soundcheck, with 150 sets logged acro
 
 Iced Misto, Jason Palma, Dino and Terry
 
-*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/yogi/)*
+*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/yogi/)*

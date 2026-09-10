@@ -1,14 +1,15 @@
 # Extra Meesh
 
-Extra Meesh is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Wed, 9 Sept 2026, next at Dead Letter No. 9, New York City on Fri, 25 Sept 2026.
+Extra Meesh is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Thu, 10 Sept 2026, next at Dead Letter No. 9, New York City on Fri, 25 Sept 2026.
 
-Extra Meesh is a house and disco artist based in United States of America, tracked on soundcheck, with 41 sets logged across Newyorkcity. Often billed alongside diedforthis, Seedy J and Fundido. Next up: Dead Letter No. 9, Newyorkcity on Fri 25 Sept.
+Extra Meesh is a house and disco artist based in United States of America, tracked on soundcheck, with 42 sets logged across Newyorkcity. Often billed alongside diedforthis, Seedy J and Fundido. Next up: Dead Letter No. 9, Newyorkcity on Fri 25 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 25 Sept 2026 | Dead Letter No. 9 | New York City |
+| Thu, 19 Nov 2026 | Good Room | New York City |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Extra Meesh is a house and disco artist based in United States of America, track
 
 diedforthis, Seedy J, Fundido
 
-*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/extrameesh/)*
+*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/extrameesh/)*

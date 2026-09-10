@@ -1,20 +1,21 @@
 # Massimiliano Pagliara
 
-Massimiliano Pagliara is a House and Techno artist with 7 upcoming club dates listed on soundcheck as of Wed, 9 Sept 2026, next at TBA - Open Air: Downtown Los Angeles, Los Angeles on Fri, 11 Sept 2026.
+Massimiliano Pagliara is a House and Techno artist with 8 upcoming club dates listed on soundcheck as of Thu, 10 Sept 2026, next at TBA - Downtown Los Angeles, Los Angeles on Fri, 11 Sept 2026.
 
-Massimiliano Pagliara is a house and techno artist tracked on soundcheck, with 237 sets logged across Amsterdam, Antwerp, Athens and Austin and 61 more. Often billed alongside Jorkes, Boris and Luigi Di Venere. Next up: TBA - Open Air: Downtown Los Angeles, Losangeles on Fri 11 Sept.
+Massimiliano Pagliara is a house and techno artist tracked on soundcheck, with 238 sets logged across Amsterdam, Antwerp, Athens and Austin and 61 more. Often billed alongside Jorkes, Boris and Luigi Di Venere. Next up: TBA - Downtown Los Angeles, Losangeles on Fri 11 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 11 Sept 2026 | TBA - Open Air: Downtown Los Angeles | Los Angeles |
-| Sat, 12 Sept 2026 | TBA | Portland |
+| Fri, 11 Sept 2026 | TBA - Downtown Los Angeles | Los Angeles |
+| Sat, 12 Sept 2026 | TBA - 525 SE Pine st | Portland |
 | Thu, 17 Sept 2026 | Jolene Downtown Miami | Miami |
 | Sat, 19 Sept 2026 | BASEMENT | New York City |
 | Sat, 26 Sept 2026 | KALT | Strasbourg |
 | Sat, 3 Oct 2026 | Société des arts technologiques | Montreal |
 | Fri, 16 Oct 2026 | New Century Locker | Manchester |
+| Sat, 14 Nov 2026 | TRAUM | Antwerp |
 
 ## Recently played
 
@@ -31,4 +32,4 @@ Massimiliano Pagliara is a house and techno artist tracked on soundcheck, with 2
 
 Jorkes, Boris, Luigi Di Venere
 
-*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/massimilianopagliara/)*
+*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/massimilianopagliara/)*

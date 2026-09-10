@@ -1,6 +1,6 @@
 # La Java
 
-La Java is a music venue in Paris with 10 upcoming nights listed on soundcheck as of Wed, 9 Sept 2026; the next is "Pastel, Baka G, Mely & More: Groovy Celebration" on Fri, 11 Sept 2026.
+La Java is a music venue in Paris with 10 upcoming nights listed on soundcheck as of Thu, 10 Sept 2026; the next is "Pastel, Baka G, Mely & More: Groovy Celebration" on Fri, 11 Sept 2026.
 
 La Java is a music venue in Paris listed on soundcheck. 10 upcoming nights, with line-ups including Aleqs Notal, ARPL, Baka G and C.LYYA and 2 more. Browse upcoming dates, start times and who's playing. 105 rue du faubourg du Temple; 75010; Paris; France.
 
@@ -23,4 +23,4 @@ La Java is a music venue in Paris listed on soundcheck. 10 upcoming nights, with
 
 105 rue du faubourg du Temple; 75010; Paris; France, Paris
 
-*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/paris/club/la-java/)*
+*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/paris/club/la-java/)*

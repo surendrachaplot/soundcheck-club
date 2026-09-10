@@ -1,6 +1,6 @@
 # Fidelity Studio
 
-Fidelity Studio is a music venue in Dublin with 10 upcoming nights listed on soundcheck as of Wed, 9 Sept 2026; the next is "Cian Ó Cíobháin’s Disco Dána" on Fri, 11 Sept 2026.
+Fidelity Studio is a music venue in Dublin with 10 upcoming nights listed on soundcheck as of Thu, 10 Sept 2026; the next is "Cian Ó Cíobháin’s Disco Dána" on Fri, 11 Sept 2026.
 
 Fidelity Studio is a music venue in Dublin listed on soundcheck. 10 upcoming nights, with line-ups including Bridge (NY), Cian Ó Cíobháin, Cinthie and Horse Meat Disco and 2 more. Browse upcoming dates, start times and who's playing. 79 Queen Street, Smithfield, Dublin 7, D07 DW3R.
 
@@ -23,4 +23,4 @@ Fidelity Studio is a music venue in Dublin listed on soundcheck. 10 upcoming nig
 
 79 Queen Street, Smithfield, Dublin 7, D07 DW3R, Dublin
 
-*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dublin/club/fidelity-studio/)*
+*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dublin/club/fidelity-studio/)*

@@ -1,6 +1,6 @@
 # TOKKI at Paloma
 
-TOKKI at Paloma on Sun 13 Sept, Berlin. 1 act on the bill: DJ TELL. Techno and Tech House. Preview the line-up and save it on soundcheck.
+TOKKI at Paloma on Sun 13 Sept, Berlin. 2 acts on the bill: DJ TELL and Why Be. Techno and Tech House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,5 +11,6 @@ TOKKI at Paloma on Sun 13 Sept, Berlin. 1 act on the bill: DJ TELL. Techno and T
 ## Line-up
 
 - DJ TELL
+- Why Be
 
 *Source: [soundcheck](https://soundcheck.club/e/2520569-tokki-at-paloma/)*

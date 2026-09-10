@@ -1,6 +1,6 @@
 # PJ: Phlippin Jeronimo at Avalon Cafe Bermondsey
 
-PJ: Phlippin Jeronimo at Avalon Cafe Bermondsey on Thu 17 Sept, London. 2 acts on the bill: Junior Buzz and Rhi Spect. Hardcore and Acid. Preview the line-up and save it on soundcheck.
+PJ: Phlippin Jeronimo at Avalon Cafe Bermondsey on Thu 17 Sept, London. 2 acts on the bill: Junior Buzz and Rhi Spect. Acid and Hardcore. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

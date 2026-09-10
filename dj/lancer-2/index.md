@@ -1,14 +1,15 @@
 # Lancer (2)
 
-Lancer (2) is a Disco and Italo Disco artist with 2 upcoming club dates listed on soundcheck as of Wed, 9 Sept 2026, next at Club Der Polnischen Versager, Berlin on Fri, 11 Sept 2026.
+Lancer (2) is a Disco and Italo Disco artist with 3 upcoming club dates listed on soundcheck as of Thu, 10 Sept 2026, next at Club Der Polnischen Versager, Berlin on Fri, 11 Sept 2026.
 
-Lancer (2) is a disco and italo disco artist based in Chile, tracked on soundcheck, with 33 sets logged across Berlin. Often billed alongside Robot Girl, Audio Vacanze and Marko König. Next up: Club Der Polnischen Versager, Berlin on Fri 11 Sept.
+Lancer (2) is a disco and italo disco artist based in Chile, tracked on soundcheck, with 34 sets logged across Berlin. Often billed alongside Robot Girl, Audio Vacanze and Marko König. Next up: Club Der Polnischen Versager, Berlin on Fri 11 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 11 Sept 2026 | Club Der Polnischen Versager | Berlin |
+| Sat, 12 Sept 2026 | August Fengler | Berlin |
 | Fri, 18 Sept 2026 | Ring Bar | Berlin |
 
 ## Recently played
@@ -26,4 +27,4 @@ Lancer (2) is a disco and italo disco artist based in Chile, tracked on soundche
 
 Robot Girl, Audio Vacanze, Marko König
 
-*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lancer-2/)*
+*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lancer-2/)*

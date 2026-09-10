@@ -1,6 +1,6 @@
 # Heavy Sick Zero
 
-Heavy Sick Zero is a music venue in Tokyo with 7 upcoming nights listed on soundcheck as of Wed, 9 Sept 2026; the next is "Coleslaw vol.15" on Fri, 11 Sept 2026.
+Heavy Sick Zero is a music venue in Tokyo with 7 upcoming nights listed on soundcheck as of Thu, 10 Sept 2026; the next is "Coleslaw vol.15" on Fri, 11 Sept 2026.
 
 Heavy Sick Zero is a music venue in Tokyo listed on soundcheck. 7 upcoming nights, with line-ups including BASiRiNO, Element (3), Hinode and HOBOBRAZIL and 2 more. Browse upcoming dates, start times and who's playing. 5-41-8, Nakano-ku Nakano, Tokyo.
 
@@ -20,4 +20,4 @@ Heavy Sick Zero is a music venue in Tokyo listed on soundcheck. 7 upcoming night
 
 5-41-8, Nakano-ku Nakano, Tokyo, Tokyo
 
-*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/heavy-sick-zero/)*
+*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/heavy-sick-zero/)*

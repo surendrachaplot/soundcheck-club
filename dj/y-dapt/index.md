@@ -1,6 +1,6 @@
 # Y-DAPT
 
-Y-DAPT is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Wed, 9 Sept 2026, next at Department 184, Milan on Sun, 13 Sept 2026.
+Y-DAPT is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Thu, 10 Sept 2026, next at Department 184, Milan on Sun, 13 Sept 2026.
 
 Y-DAPT is a tech house and house artist tracked on soundcheck, with 63 sets logged across Amsterdam, Barcelona, Losangeles and Milan. Often billed alongside MAGNVM!, Gumbelly and STYLOPHONIC. Next up: Department 184, Milan on Sun 13 Sept.
 
@@ -25,4 +25,4 @@ Y-DAPT is a tech house and house artist tracked on soundcheck, with 63 sets logg
 
 MAGNVM!, Gumbelly, STYLOPHONIC
 
-*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/y-dapt/)*
+*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/y-dapt/)*

@@ -1,6 +1,6 @@
 # Chinois Ibiza
 
-Chinois Ibiza is a music venue in Ibiza with 27 upcoming nights listed on soundcheck as of Wed, 9 Sept 2026; the next is "Defected: Bradley Zero b2b Carl Craig, Ceri, Kellie Allen, Melé, Prunk b2b Caleb Jackson" on Thu, 10 Sept 2026.
+Chinois Ibiza is a music venue in Ibiza with 27 upcoming nights listed on soundcheck as of Thu, 10 Sept 2026; the next is "Defected: Bradley Zero b2b Carl Craig, Ceri, Kellie Allen, Melé, Prunk b2b Caleb Jackson" on Thu, 10 Sept 2026.
 
 Chinois Ibiza is a music venue in Ibiza listed on soundcheck. 27 upcoming nights, with line-ups including 2lovers, Alan Dixon, Andrea Oliva and Antdot and 2 more. Browse upcoming dates, start times and who's playing. Passeig Joan Carles I, 17, 07800 Eivissa, Illes Balears, Spain.
 
@@ -23,4 +23,4 @@ Chinois Ibiza is a music venue in Ibiza listed on soundcheck. 27 upcoming nights
 
 Passeig Joan Carles I, 17, 07800 Eivissa, Illes Balears, Spain, Ibiza
 
-*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/ibiza/club/chinois-ibiza/)*
+*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/ibiza/club/chinois-ibiza/)*

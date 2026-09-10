@@ -1,6 +1,6 @@
 # DJ GOGA
 
-DJ GOGA is a Techno and Experimental artist with 1 upcoming club date listed on soundcheck as of Wed, 9 Sept 2026, next at MR.DUCK, Mexico City on Sat, 12 Sept 2026.
+DJ GOGA is a Techno and Experimental artist with 1 upcoming club date listed on soundcheck as of Thu, 10 Sept 2026, next at MR.DUCK, Mexico City on Sat, 12 Sept 2026.
 
 DJ GOGA is a techno and experimental artist tracked on soundcheck, with 7 sets logged across Bangkok, Mexicocity, Shenzhen and Tokyo. Often billed alongside Emex, Evita Manji and Ezya. Next up: MR.DUCK, Mexicocity on Sat 12 Sept.
 
@@ -23,4 +23,4 @@ DJ GOGA is a techno and experimental artist tracked on soundcheck, with 7 sets l
 
 Emex, Evita Manji, Ezya
 
-*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djgoga/)*
+*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djgoga/)*

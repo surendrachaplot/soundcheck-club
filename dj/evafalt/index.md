@@ -1,6 +1,6 @@
 # Eva Falt
 
-Eva Falt is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Wed, 9 Sept 2026, next at Bar v Krymský, Prague on Fri, 11 Sept 2026.
+Eva Falt is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 10 Sept 2026, next at Bar v Krymský, Prague on Fri, 11 Sept 2026.
 
 Eva Falt is a techno and house artist tracked on soundcheck, with 51 sets logged across Berlin, Prague, Tokyo and Warsaw. Often billed alongside Axis Alpha, DJ Slater and ka.za. Next up: Bar v Krymský, Prague on Fri 11 Sept.
 
@@ -26,4 +26,4 @@ Eva Falt is a techno and house artist tracked on soundcheck, with 51 sets logged
 
 Axis Alpha, DJ Slater, ka.za
 
-*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/evafalt/)*
+*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/evafalt/)*

@@ -1,6 +1,6 @@
 # A38
 
-A38 is a music venue in Budapest with 11 upcoming nights listed on soundcheck as of Wed, 9 Sept 2026; the next is "Fine Selection #221 w/House On Fire" on Thu, 10 Sept 2026.
+A38 is a music venue in Budapest with 11 upcoming nights listed on soundcheck as of Thu, 10 Sept 2026; the next is "Fine Selection #221 w/House On Fire" on Thu, 10 Sept 2026.
 
 A38 is a music venue in Budapest listed on soundcheck. 11 upcoming nights, with line-ups including Bladerunner, Derek (2), Electric Boutique and Kanine and 2 more. Browse upcoming dates, start times and who's playing. Petőfi Bridge; 1114 Budapest; Budai alsó rakpart.
 
@@ -23,4 +23,4 @@ A38 is a music venue in Budapest listed on soundcheck. 11 upcoming nights, with 
 
 Petőfi Bridge; 1114 Budapest; Budai alsó rakpart, Budapest
 
-*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/budapest/club/a38/)*
+*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/budapest/club/a38/)*

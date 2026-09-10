@@ -1,6 +1,6 @@
 # The Lido
 
-The Lido is a music venue in Vancouver with 1 upcoming night listed on soundcheck as of Wed, 9 Sept 2026; the next is "BlackBox: September" on Sat, 12 Sept 2026.
+The Lido is a music venue in Vancouver with 1 upcoming night listed on soundcheck as of Thu, 10 Sept 2026; the next is "BlackBox: September" on Sat, 12 Sept 2026.
 
 The Lido is a music venue in Vancouver listed on soundcheck. 1 upcoming night. Browse upcoming dates, start times and who's playing. 518 East Broadway, Vancouver.
 
@@ -14,4 +14,4 @@ The Lido is a music venue in Vancouver listed on soundcheck. 1 upcoming night. B
 
 518 East Broadway, Vancouver, Vancouver
 
-*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/vancouver/club/the-lido/)*
+*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/vancouver/club/the-lido/)*

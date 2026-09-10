@@ -1,6 +1,6 @@
 # Broccoli Effect
 
-Broccoli Effect is a House and Bass artist with 1 upcoming club date listed on soundcheck as of Wed, 9 Sept 2026, next at TBA, Sydney on Sat, 12 Sept 2026.
+Broccoli Effect is a House and Bass artist with 1 upcoming club date listed on soundcheck as of Thu, 10 Sept 2026, next at TBA, Sydney on Sat, 12 Sept 2026.
 
 Broccoli Effect is a house and bass artist tracked on soundcheck, with 12 sets logged across Sydney. Often billed alongside Ari Kiko, Fanaa and Andrew Wowk. Next up: TBA, Sydney on Sat 12 Sept.
 
@@ -25,4 +25,4 @@ Broccoli Effect is a house and bass artist tracked on soundcheck, with 12 sets l
 
 Ari Kiko, Fanaa, Andrew Wowk
 
-*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/broccolieffect/)*
+*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/broccolieffect/)*

@@ -1,8 +1,8 @@
 # Standard Time
 
-Standard Time is a music venue in Toronto with 11 upcoming nights listed on soundcheck as of Wed, 9 Sept 2026; the next is "Art Metropole Afterparty with Juliana Huxtable and 999ADJ" on Thu, 10 Sept 2026.
+Standard Time is a music venue in Toronto with 12 upcoming nights listed on soundcheck as of Thu, 10 Sept 2026; the next is "Art Metropole Afterparty with Juliana Huxtable and 999ADJ" on Thu, 10 Sept 2026.
 
-Standard Time is a music venue in Toronto listed on soundcheck. 11 upcoming nights, with line-ups including 999ADJ, CCL, Ciel and Dusky and 2 more. Browse upcoming dates, start times and who's playing. 165 Geary Ave Toronto, ON M6H 2B8, Canada.
+Standard Time is a music venue in Toronto listed on soundcheck. 12 upcoming nights, with line-ups including 999ADJ, CCL, Ciel and Dusky and 2 more. Browse upcoming dates, start times and who's playing. 165 Geary Ave Toronto, ON M6H 2B8, Canada.
 
 ## What's on
 
@@ -15,12 +15,12 @@ Standard Time is a music venue in Toronto listed on soundcheck. 11 upcoming nigh
 | Thu, 1 Oct 2026 | MYRNE (3 Hour Set) at Standard Time | MYRNE |
 | Sun, 4 Oct 2026 | Ciel invites: CCL | CCL, Ciel |
 | Sun, 11 Oct 2026 | Dusky (Extended Set) at Standard Time | Dusky |
+| Fri, 16 Oct 2026 | Odd Soul featuring Keys N Krates and Guests TBA | Keys N Krates |
 | Sat, 17 Oct 2026 | Shed presented by Cure x Standard Time | Oray, Shed |
 | Thu, 5 Nov 2026 | Teal (Live), Prince Nifty and DJ Snack Time presented by Not Dead Yet and Standard Time | Teal |
-| Fri, 13 Nov 2026 | yaego música electronica en vivo Tour | yaego |
 
 ## Address
 
 165 Geary Ave Toronto, ON M6H 2B8, Canada, Toronto
 
-*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/standard-time/)*
+*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/standard-time/)*

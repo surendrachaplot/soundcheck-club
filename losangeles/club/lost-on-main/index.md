@@ -1,6 +1,6 @@
 # Lost On Main
 
-Lost On Main is a music venue in Los Angeles with 1 upcoming night listed on soundcheck as of Wed, 9 Sept 2026; the next is "NotLö & Friends" on Sat, 12 Sept 2026.
+Lost On Main is a music venue in Los Angeles with 1 upcoming night listed on soundcheck as of Thu, 10 Sept 2026; the next is "NotLö & Friends" on Sat, 12 Sept 2026.
 
 Lost On Main is a music venue in Losangeles listed on soundcheck. 1 upcoming night, with line-ups including Solfire. Browse upcoming dates, start times and who's playing. 319 Main St, Chico, CA 95928.
 
@@ -14,4 +14,4 @@ Lost On Main is a music venue in Losangeles listed on soundcheck. 1 upcoming nig
 
 319 Main St, Chico, CA 95928, Los Angeles
 
-*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/lost-on-main/)*
+*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/lost-on-main/)*

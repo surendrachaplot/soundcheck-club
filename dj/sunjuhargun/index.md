@@ -1,6 +1,6 @@
 # Sunju Hargun
 
-Sunju Hargun is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Wed, 9 Sept 2026, next at Horn, Bangkok on Fri, 11 Sept 2026.
+Sunju Hargun is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Thu, 10 Sept 2026, next at Horn, Bangkok on Fri, 11 Sept 2026.
 
 Sunju Hargun is a techno and house artist tracked on soundcheck, with 92 sets logged across Amsterdam, Bali, Bangkok and Barcelona and 24 more. Often billed alongside Kia (AU), Woody92 and KPODKPOD. Next up: Horn, Bangkok on Fri 11 Sept.
 
@@ -29,4 +29,4 @@ Sunju Hargun is a techno and house artist tracked on soundcheck, with 92 sets lo
 
 Kia (AU), Woody92, KPODKPOD
 
-*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sunjuhargun/)*
+*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sunjuhargun/)*

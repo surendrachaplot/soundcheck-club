@@ -1,6 +1,6 @@
 # TRYPTAJ
 
-TRYPTAJ is a Trance and Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 9 Sept 2026, next at Thomas Read Pub, Hamburg on Sat, 12 Sept 2026.
+TRYPTAJ is a Trance and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 10 Sept 2026, next at Thomas Read Pub, Hamburg on Sat, 12 Sept 2026.
 
 TRYPTAJ is a trance and techno artist tracked on soundcheck, with 18 sets logged across Berlin and Hamburg. Often billed alongside Frank Rayo, Staszko and TZO (1). Next up: Thomas Read Pub, Hamburg on Sat 12 Sept.
 
@@ -26,4 +26,4 @@ TRYPTAJ is a trance and techno artist tracked on soundcheck, with 18 sets logged
 
 Frank Rayo, Staszko, TZO (1)
 
-*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tryptaj/)*
+*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tryptaj/)*

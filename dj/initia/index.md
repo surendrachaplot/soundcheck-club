@@ -1,6 +1,6 @@
 # Initia
 
-Initia is a Drum & Bass and Jungle artist with 2 upcoming club dates listed on soundcheck as of Wed, 9 Sept 2026, next at OT301, Amsterdam on Fri, 18 Sept 2026.
+Initia is a Drum & Bass and Jungle artist with 2 upcoming club dates listed on soundcheck as of Thu, 10 Sept 2026, next at OT301, Amsterdam on Fri, 18 Sept 2026.
 
 Initia is a drum & bass and jungle artist based in Germany, tracked on soundcheck, with 4 sets logged across Amsterdam and Berlin. Often billed alongside Anton Quasi, Aynaet and Azur. Next up: OT301, Amsterdam on Fri 18 Sept.
 
@@ -20,4 +20,4 @@ Initia is a drum & bass and jungle artist based in Germany, tracked on soundchec
 
 Anton Quasi, Aynaet, Azur
 
-*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/initia/)*
+*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/initia/)*

@@ -1,6 +1,6 @@
 # JUNiQUE
 
-JUNiQUE is a Trance and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 9 Sept 2026, next at Insomnia, Berlin on Sat, 17 Oct 2026.
+JUNiQUE is a Trance and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 10 Sept 2026, next at Insomnia, Berlin on Sat, 17 Oct 2026.
 
 JUNiQUE is a trance and techno artist based in Germany, tracked on soundcheck, with 11 sets logged across Berlin and Leipzig. Often billed alongside humae, ESCALEA and B-TUR (2). Next up: Insomnia, Berlin on Sat 17 Oct.
 
@@ -25,4 +25,4 @@ JUNiQUE is a trance and techno artist based in Germany, tracked on soundcheck, w
 
 humae, ESCALEA, B-TUR (2)
 
-*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/junique/)*
+*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/junique/)*

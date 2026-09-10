@@ -1,6 +1,6 @@
 # Apophis Club
 
-Apophis Club is a music venue in Milan with 2 upcoming nights listed on soundcheck as of Wed, 9 Sept 2026; the next is "X Season: Opening Weekend" on Fri, 2 Oct 2026.
+Apophis Club is a music venue in Milan with 2 upcoming nights listed on soundcheck as of Thu, 10 Sept 2026; the next is "X Season: Opening Weekend" on Fri, 2 Oct 2026.
 
 Apophis Club is a music venue in Milan listed on soundcheck. 2 upcoming nights. Browse upcoming dates, start times and who's playing. Via Carlo Giuseppe Merlo 3 (844.36 km) 20122 Milan, Italy.
 
@@ -9,10 +9,10 @@ Apophis Club is a music venue in Milan listed on soundcheck. 2 upcoming nights. 
 | Date | Night | Line-up |
 | --- | --- | --- |
 | Fri, 2 Oct 2026 | X Season: Opening Weekend |  |
-| Sat, 3 Oct 2026 | Season X: Opening Weekend |  |
+| Sat, 3 Oct 2026 | Season X: Riccardo Prosperi |  |
 
 ## Address
 
 Via Carlo Giuseppe Merlo 3 (844.36 km) 20122 Milan, Italy, Milan
 
-*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/milan/club/apophis-club/)*
+*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/milan/club/apophis-club/)*

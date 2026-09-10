@@ -1,0 +1,28 @@
+# anna G
+
+anna G is a House and Drum & Bass artist with 1 upcoming club date listed on soundcheck as of Thu, 10 Sept 2026, next at Gestrandet An Der Jannowitzbrücke, Berlin on Fri, 18 Sept 2026.
+
+anna G is a house and drum & bass artist tracked on soundcheck, with 23 sets logged across Berlin. Often billed alongside Monsai, Lobo (DE) and Lola Brennt. Next up: Gestrandet An Der Jannowitzbrücke, Berlin on Fri 18 Sept.
+
+## Upcoming shows
+
+| Date | Venue | City |
+| --- | --- | --- |
+| Fri, 18 Sept 2026 | Gestrandet An Der Jannowitzbrücke | Berlin |
+
+## Recently played
+
+- RAW Gelände, Berlin — Sat, 29 Aug 2026
+- Bohnengold, Berlin — Fri, 14 Aug 2026
+- Crack Bellmer, Berlin — Thu, 30 Jul 2026
+- Klunkerkranich, Berlin — Sat, 18 Jul 2026
+- Klunkerkranich, Berlin — Thu, 18 Jun 2026
+- Klunkerkranich, Berlin — Sat, 2 May 2026
+- Marmorbar, Berlin — Sat, 25 Apr 2026
+- Minimal Bar, Berlin — Sat, 28 Feb 2026
+
+## Shares bills with
+
+Monsai, Lobo (DE), Lola Brennt
+
+*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/annag/)*

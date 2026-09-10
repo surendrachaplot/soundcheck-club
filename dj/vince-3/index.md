@@ -1,6 +1,6 @@
 # vince
 
-vince is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Wed, 9 Sept 2026, next at Audio Club, Geneva on Fri, 18 Sept 2026.
+vince is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Thu, 10 Sept 2026, next at Audio Club, Geneva on Fri, 18 Sept 2026.
 
 vince is a techno and house artist based in Germany, tracked on soundcheck, with 89 sets logged across Amsterdam, Berlin, Dortmund-essen and Frankfurt and 9 more. Often billed alongside Muallem, BASHKKA and Felix Rupprecht. Next up: Audio Club, Geneva on Fri 18 Sept.
 
@@ -27,4 +27,4 @@ vince is a techno and house artist based in Germany, tracked on soundcheck, with
 
 Muallem, BASHKKA, Felix Rupprecht
 
-*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/vince-3/)*
+*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/vince-3/)*

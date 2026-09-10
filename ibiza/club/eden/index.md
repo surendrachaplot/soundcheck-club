@@ -1,15 +1,13 @@
 # Eden
 
-Eden is a music venue in Ibiza with 15 upcoming nights listed on soundcheck as of Wed, 9 Sept 2026; the next is "GARAGE NATION WEEK 5" on Wed, 9 Sept 2026.
+Eden is a music venue in Ibiza with 13 upcoming nights listed on soundcheck as of Thu, 10 Sept 2026; the next is "MARKUS SCHULZ - WEEK 3" on Thu, 10 Sept 2026.
 
-Eden is a music venue in Ibiza listed on soundcheck. 15 upcoming nights, with line-ups including Alberto Costa, Angelo Ferreri, Fantasm and Gianni Di Bernardo and 2 more. Browse upcoming dates, start times and who's playing. Carrer Salvador Espriu,  07820 San Antonio, Ibiza, Spain.
+Eden is a music venue in Ibiza listed on soundcheck. 13 upcoming nights, with line-ups including Fantasm, Gianni Di Bernardo, KARAH and Markus Schulz and 2 more. Browse upcoming dates, start times and who's playing. Carrer Salvador Espriu,  07820 San Antonio, Ibiza, Spain.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Wed, 9 Sept 2026 | GARAGE NATION WEEK 5 |  |
-| Wed, 9 Sept 2026 | AFTER IMAGE - ROOM 2 | Alberto Costa, Angelo Ferreri, NRoxanne |
 | Thu, 10 Sept 2026 | MARKUS SCHULZ - WEEK 3 | Markus Schulz |
 | Fri, 11 Sept 2026 | SECRET SESSIONS 5 |  |
 | Sat, 12 Sept 2026 | Stack City | Multunes |
@@ -18,9 +16,11 @@ Eden is a music venue in Ibiza listed on soundcheck. 15 upcoming nights, with li
 | Tue, 15 Sept 2026 | GALACTICA | KARAH |
 | Wed, 16 Sept 2026 | GARAGE NATION WEEK 6 |  |
 | Thu, 17 Sept 2026 | MARKUS SCHULZ - WEEK 4 | Markus Schulz |
+| Wed, 23 Sept 2026 | GARAGE NATION Closing Party |  |
+| Fri, 25 Sept 2026 | MARKUS SCHULZ Closing Party | Markus Schulz |
 
 ## Address
 
 Carrer Salvador Espriu,  07820 San Antonio, Ibiza, Spain, Ibiza
 
-*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/ibiza/club/eden/)*
+*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/ibiza/club/eden/)*

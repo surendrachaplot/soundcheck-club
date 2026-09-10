@@ -1,6 +1,6 @@
 # JRG
 
-JRG is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Wed, 9 Sept 2026, next at The Bassement, Madrid on Thu, 1 Oct 2026.
+JRG is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Thu, 10 Sept 2026, next at The Bassement, Madrid on Thu, 1 Oct 2026.
 
 JRG is a techno and industrial artist based in Spain, tracked on soundcheck, with 71 sets logged across Barcelona, Berlin, Cologne and Madrid and 1 more. Often billed alongside Møstroh, Tasuik and Pulpix. Next up: The Bassement, Madrid on Thu 1 Oct.
 
@@ -25,4 +25,4 @@ JRG is a techno and industrial artist based in Spain, tracked on soundcheck, wit
 
 Møstroh, Tasuik, Pulpix
 
-*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jrg-1/)*
+*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jrg-1/)*

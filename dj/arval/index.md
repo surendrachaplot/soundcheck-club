@@ -1,6 +1,6 @@
 # Arval
 
-Arval is a Minimal and Electronica artist with 2 upcoming club dates listed on soundcheck as of Wed, 9 Sept 2026, next at Carmo Rooftop, Lisbon on Sun, 13 Sept 2026.
+Arval is a Minimal and Electronica artist with 2 upcoming club dates listed on soundcheck as of Thu, 10 Sept 2026, next at Carmo Rooftop, Lisbon on Sun, 13 Sept 2026.
 
 Arval is a minimal and electronica artist tracked on soundcheck, with 32 sets logged across Amsterdam, Barcelona, Berlin and Ibiza and 2 more. Often billed alongside Moruki, Memed Awad and John Hobbs. Next up: Carmo Rooftop, Lisbon on Sun 13 Sept.
 
@@ -26,4 +26,4 @@ Arval is a minimal and electronica artist tracked on soundcheck, with 32 sets lo
 
 Moruki, Memed Awad, John Hobbs
 
-*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/arval/)*
+*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/arval/)*

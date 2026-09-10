@@ -1,8 +1,8 @@
 # El Rio
 
-El Rio is a music venue in San Francisco/Oakland with 4 upcoming nights listed on soundcheck as of Wed, 9 Sept 2026; the next is "Mostly Cloudy: QUEENIE + mymy" on Fri, 11 Sept 2026.
+El Rio is a music venue in San Francisco/Oakland with 5 upcoming nights listed on soundcheck as of Thu, 10 Sept 2026; the next is "Mostly Cloudy: QUEENIE + mymy" on Fri, 11 Sept 2026.
 
-El Rio is a music venue in Sanfrancisco listed on soundcheck. 4 upcoming nights, with line-ups including DJ Ari B, GHOST MILK, Jasmine Infiniti and Lonald J. Bandz and 2 more. Browse upcoming dates, start times and who's playing. 3158 Mission St, San Francisco, CA 94110, USA.
+El Rio is a music venue in Sanfrancisco listed on soundcheck. 5 upcoming nights, with line-ups including DJ Ari B, GHOST MILK, Jasmine Infiniti and Lonald J. Bandz and 2 more. Browse upcoming dates, start times and who's playing. 3158 Mission St, San Francisco, CA 94110, USA.
 
 ## What's on
 
@@ -10,6 +10,7 @@ El Rio is a music venue in Sanfrancisco listed on soundcheck. 4 upcoming nights,
 | --- | --- | --- |
 | Fri, 11 Sept 2026 | Mostly Cloudy: QUEENIE + mymy | QUEENIE (US), mymy |
 | Thu, 24 Sept 2026 | Thots Not Cops | DJ Ari B, GHOST MILK |
+| Fri, 25 Sept 2026 | Queer & All presents: *Pier 80 Party People Precursor* |  |
 | Wed, 14 Oct 2026 | Age of Sin | Jasmine Infiniti, Lonald J. Bandz |
 | Sat, 31 Oct 2026 | FINAL GIRLS: T4T HALLOWEEN |  |
 
@@ -17,4 +18,4 @@ El Rio is a music venue in Sanfrancisco listed on soundcheck. 4 upcoming nights,
 
 3158 Mission St, San Francisco, CA 94110, USA, San Francisco/Oakland
 
-*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/el-rio/)*
+*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/el-rio/)*

@@ -1,6 +1,6 @@
 # Tina Disco
 
-Tina Disco is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Wed, 9 Sept 2026, next at Sala Upload Barcelona, Barcelona on Fri, 18 Sept 2026.
+Tina Disco is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Thu, 10 Sept 2026, next at Sala Upload Barcelona, Barcelona on Fri, 18 Sept 2026.
 
 Tina Disco is a house and disco artist tracked on soundcheck, with 77 sets logged across Barcelona, Melbourne, Seoul and Sydney and 1 more. Often billed alongside Zalina, Hannah D and Baby G. Next up: Sala Upload Barcelona, Barcelona on Fri 18 Sept.
 
@@ -25,4 +25,4 @@ Tina Disco is a house and disco artist tracked on soundcheck, with 77 sets logge
 
 Zalina, Hannah D, Baby G
 
-*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tinadisco/)*
+*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tinadisco/)*

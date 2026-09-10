@@ -1,6 +1,6 @@
 # Harriet Jaxxon
 
-Harriet Jaxxon is a Drum & Bass and Jungle artist with 3 upcoming club dates listed on soundcheck as of Wed, 9 Sept 2026, next at The Lower Third, London on Sat, 3 Oct 2026.
+Harriet Jaxxon is a Drum & Bass and Jungle artist with 3 upcoming club dates listed on soundcheck as of Thu, 10 Sept 2026, next at The Lower Third, London on Sat, 3 Oct 2026.
 
 Harriet Jaxxon is a drum & bass and jungle artist tracked on soundcheck, with 62 sets logged across Auckland, Berlin, Boston and Brighton and 22 more. Often billed alongside Mozey, Voltage and Inja. Next up: The Lower Third, London on Sat 3 Oct.
 
@@ -27,4 +27,4 @@ Harriet Jaxxon is a drum & bass and jungle artist tracked on soundcheck, with 62
 
 Mozey, Voltage, Inja
 
-*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/harrietjaxxon/)*
+*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/harrietjaxxon/)*

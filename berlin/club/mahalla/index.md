@@ -1,6 +1,6 @@
 # MaHalla
 
-MaHalla is a music venue in Berlin with 1 upcoming night listed on soundcheck as of Wed, 9 Sept 2026; the next is "Sam Gendel & Sam Wilkes Live" on Sat, 28 Nov 2026.
+MaHalla is a music venue in Berlin with 1 upcoming night listed on soundcheck as of Thu, 10 Sept 2026; the next is "Sam Gendel & Sam Wilkes Live" on Sat, 28 Nov 2026.
 
 MaHalla is a music venue in Berlin listed on soundcheck. 1 upcoming night. Browse upcoming dates, start times and who's playing. Wilhelminenhofstraße 76, 12459, Berlin.
 
@@ -14,4 +14,4 @@ MaHalla is a music venue in Berlin listed on soundcheck. 1 upcoming night. Brows
 
 Wilhelminenhofstraße 76, 12459, Berlin, Berlin
 
-*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/mahalla/)*
+*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/mahalla/)*

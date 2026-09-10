@@ -1,6 +1,6 @@
 # Luciio
 
-Luciio is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 9 Sept 2026, next at Roof Terrace BK, New York City on Thu, 10 Sept 2026.
+Luciio is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 10 Sept 2026, next at Roof Terrace BK, New York City on Thu, 10 Sept 2026.
 
 Luciio is a house and techno artist based in United States of America, tracked on soundcheck, with 7 sets logged across Newyorkcity. Often billed alongside Daniel Dutts, Felix Lücke and La Vega. Next up: Roof Terrace BK, Newyorkcity on Thu 10 Sept.
 
@@ -23,4 +23,4 @@ Luciio is a house and techno artist based in United States of America, tracked o
 
 Daniel Dutts, Felix Lücke, La Vega
 
-*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/luciio/)*
+*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/luciio/)*

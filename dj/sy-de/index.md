@@ -1,6 +1,6 @@
 # SY (DE)
 
-SY (DE) is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 9 Sept 2026, next at Golden Gate, Berlin on Thu, 17 Sept 2026.
+SY (DE) is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 10 Sept 2026, next at Golden Gate, Berlin on Thu, 17 Sept 2026.
 
 SY (DE) is a house and techno artist tracked on soundcheck, with 33 sets logged across Berlin, Lisbon, Manchester and Paris and 2 more. Often billed alongside Pedro Tabuada, Sparkling Water Dreams and Alessia Ceruti. Next up: Golden Gate, Berlin on Thu 17 Sept.
 
@@ -25,4 +25,4 @@ SY (DE) is a house and techno artist tracked on soundcheck, with 33 sets logged 
 
 Pedro Tabuada, Sparkling Water Dreams, Alessia Ceruti
 
-*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sy-de/)*
+*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sy-de/)*

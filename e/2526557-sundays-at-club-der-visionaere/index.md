@@ -1,6 +1,6 @@
 # Sundays:: at Club der Visionaere
 
-Sundays:: at Club der Visionaere on Sun 13 Sept, Berlin. 2 acts on the bill: David Delgado and Masa Saji. Preview the line-up and save it on soundcheck.
+Sundays:: at Club der Visionaere on Sun 13 Sept, Berlin. 4 acts on the bill: Alex Kraemer, David Delgado, Masa Saji and Stipé. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,7 +10,9 @@ Sundays:: at Club der Visionaere on Sun 13 Sept, Berlin. 2 acts on the bill: Dav
 
 ## Line-up
 
+- Alex Kraemer
 - David Delgado
 - Masa Saji
+- Stipé
 
 *Source: [soundcheck](https://soundcheck.club/e/2526557-sundays-at-club-der-visionaere/)*

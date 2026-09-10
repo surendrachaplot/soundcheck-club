@@ -1,8 +1,8 @@
 # Bulbul Berlin
 
-Bulbul Berlin is a music venue in Berlin with 13 upcoming nights listed on soundcheck as of Wed, 9 Sept 2026; the next is "FRESH FACES (FREE ENTRY): Mirya, Moni von Pisani, Gerardo Moncada, Nicki Spumante" on Thu, 10 Sept 2026.
+Bulbul Berlin is a music venue in Berlin with 13 upcoming nights listed on soundcheck as of Thu, 10 Sept 2026; the next is "FRESH FACES (FREE ENTRY): Mirya, Moni von Pisani, Gerardo Moncada, Nicki Spumante" on Thu, 10 Sept 2026.
 
-Bulbul Berlin is a music venue in Berlin listed on soundcheck. 13 upcoming nights, with line-ups including Aggy, Almost Famous, Betas and Better Call Paul and 2 more. Browse upcoming dates, start times and who's playing. Skalitzer str. 114, 10999 Berlin, Germany.
+Bulbul Berlin is a music venue in Berlin listed on soundcheck. 13 upcoming nights, with line-ups including Aggy, Almost Famous, Barée Masse and Betas and 2 more. Browse upcoming dates, start times and who's playing. Skalitzer str. 114, 10999 Berlin, Germany.
 
 ## What's on
 
@@ -14,8 +14,8 @@ Bulbul Berlin is a music venue in Berlin listed on soundcheck. 13 upcoming night
 | Thu, 17 Sept 2026 | House of Others (Vol.12): Betas, Mer Esnal | Betas, Mer Esnal |
 | Fri, 18 Sept 2026 | Reboot Record Label: Szew, Rina Katen, Mati Espina, Juan Neira | Juan Neira, Mati Espina, Rina Katen, Szew |
 | Sat, 19 Sept 2026 | N'Sekt Vielleicht: Bruder Jakob, Wallat Wallat, Kat_Es | Bruder Jakob, Kat_Es, Wallat Wallat |
-| Thu, 24 Sept 2026 | mita records showcase: Flor Coto, materia hache, Manu Barcelo | Flor Coto, Manu Barcelo, materia hache |
-| Fri, 25 Sept 2026 | NIGHT SHIFT: Barre Massé (Marie), Umami Sound, GueHu, rabiatch | Umami Sound, rabiatch |
+| Thu, 24 Sept 2026 | mita records showcase: Flor Coto b2b PILAR MOLINERO, materia hache, Manu Barcelo | Flor Coto, Manu Barcelo, PILAR MOLINERO, materia hache |
+| Fri, 25 Sept 2026 | NIGHT SHIFT: Barée Masse (Marie), Umami Sound, GueHu, rabiatch | Barée Masse, Umami Sound, rabiatch |
 | Sat, 26 Sept 2026 | 7 YEARS OF BULBUL: Marc Brauner, Almost Famous, Nikklaas b2b Better Call Paul, Monoise, Morisia | Almost Famous, Better Call Paul, Marc Brauner, Morisia, Nikklaas |
 | Sat, 3 Oct 2026 | TAG DER CLUBKULTUR 2026 - FRESH FACES (FREE ENTRY) | LA BITCHENCIO |
 
@@ -23,4 +23,4 @@ Bulbul Berlin is a music venue in Berlin listed on soundcheck. 13 upcoming night
 
 Skalitzer str. 114, 10999 Berlin, Germany, Berlin
 
-*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/bulbul-berlin/)*
+*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/bulbul-berlin/)*

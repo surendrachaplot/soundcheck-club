@@ -1,8 +1,8 @@
 # Jorkes
 
-Jorkes is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 9 Sept 2026, next at Berghain | Panorama Bar | Säule, Berlin on Sat, 26 Sept 2026.
+Jorkes is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Thu, 10 Sept 2026, next at Berghain | Panorama Bar | Säule, Berlin on Sat, 26 Sept 2026.
 
-Jorkes is a house and techno artist tracked on soundcheck, with 138 sets logged across Amsterdam, Athens, Berlin and Bucharest and 9 more. Often billed alongside TiZiAN (DE), Massimiliano Pagliara and Rumi de Baires. Next up: Berghain | Panorama Bar | Säule, Berlin on Sat 26 Sept.
+Jorkes is a house and techno artist tracked on soundcheck, with 139 sets logged across Amsterdam, Athens, Berlin and Brussels and 10 more. Often billed alongside TiZiAN (DE), Massimiliano Pagliara and Rumi de Baires. Next up: Berghain | Panorama Bar | Säule, Berlin on Sat 26 Sept.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Jorkes is a house and techno artist tracked on soundcheck, with 138 sets logged 
 | --- | --- | --- |
 | Sat, 26 Sept 2026 | Berghain / Panorama Bar / Säule | Berlin |
 | Sat, 26 Sept 2026 | Romantica | Stuttgart |
+| Sat, 21 Nov 2026 | TBA - Brussels | Brussels |
 
 ## Recently played
 
@@ -26,4 +27,4 @@ Jorkes is a house and techno artist tracked on soundcheck, with 138 sets logged 
 
 TiZiAN (DE), Massimiliano Pagliara, Rumi de Baires
 
-*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jorkes/)*
+*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jorkes/)*

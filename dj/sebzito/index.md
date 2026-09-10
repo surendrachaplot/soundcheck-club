@@ -1,6 +1,6 @@
 # Seb Zito
 
-Seb Zito is a House and Tech House artist with 3 upcoming club dates listed on soundcheck as of Wed, 9 Sept 2026, next at UNO MALTA, Malta on Fri, 18 Sept 2026.
+Seb Zito is a House and Tech House artist with 3 upcoming club dates listed on soundcheck as of Thu, 10 Sept 2026, next at UNO MALTA, Malta on Fri, 18 Sept 2026.
 
 Seb Zito is a house and tech house artist tracked on soundcheck, with 125 sets logged across Amsterdam, Bali, Barcelona and Belgrade and 27 more. Often billed alongside Rossko, ACA (YU) and East End Dubs. Next up: UNO MALTA, Malta on Fri 18 Sept.
 
@@ -27,4 +27,4 @@ Seb Zito is a house and tech house artist tracked on soundcheck, with 125 sets l
 
 Rossko, ACA (YU), East End Dubs
 
-*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sebzito/)*
+*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sebzito/)*

@@ -1,6 +1,6 @@
 # Bouki
 
-Bouki is a Garage and Bass artist with 1 upcoming club date listed on soundcheck as of Wed, 9 Sept 2026, next at The Grifter Brewing Co., Sydney on Fri, 25 Sept 2026.
+Bouki is a Garage and Bass artist with 1 upcoming club date listed on soundcheck as of Thu, 10 Sept 2026, next at The Grifter Brewing Co., Sydney on Fri, 25 Sept 2026.
 
 Bouki is a garage and bass artist tracked on soundcheck, with 60 sets logged across Brisbane, Lyon, Melbourne and Strasbourg and 1 more. Often billed alongside Obeido, Bella Bella and Mimi J. Next up: The Grifter Brewing Co., Sydney on Fri 25 Sept.
 
@@ -25,4 +25,4 @@ Bouki is a garage and bass artist tracked on soundcheck, with 60 sets logged acr
 
 Obeido, Bella Bella, Mimi J
 
-*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bouki/)*
+*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bouki/)*

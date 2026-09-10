@@ -1,6 +1,6 @@
 # Deena Abdelwahed
 
-Deena Abdelwahed is a Experimental and Electronica artist with 1 upcoming club date listed on soundcheck as of Wed, 9 Sept 2026, next at Mono, Rotterdam on Sat, 26 Sept 2026.
+Deena Abdelwahed is a Experimental and Electronica artist with 1 upcoming club date listed on soundcheck as of Thu, 10 Sept 2026, next at Mono, Rotterdam on Sat, 26 Sept 2026.
 
 Deena Abdelwahed is an experimental and electronica artist based in Tunisia, tracked on soundcheck, with 61 sets logged across Amsterdam, Athens, Barcelona and Berlin and 16 more. Often billed alongside GLITTER55, Ale Hop and Flore. Next up: Mono, Rotterdam on Sat 26 Sept.
 
@@ -25,4 +25,4 @@ Deena Abdelwahed is an experimental and electronica artist based in Tunisia, tra
 
 GLITTER55, Ale Hop, Flore
 
-*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/deenaabdelwahed/)*
+*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/deenaabdelwahed/)*

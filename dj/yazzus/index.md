@@ -1,6 +1,6 @@
 # Yazzus
 
-Yazzus is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Wed, 9 Sept 2026, next at Low Profile Studios, London on Sat, 26 Sept 2026.
+Yazzus is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Thu, 10 Sept 2026, next at Low Profile Studios, London on Sat, 26 Sept 2026.
 
 Yazzus is a techno and house artist tracked on soundcheck, with 168 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 41 more. Often billed alongside DJ TOOL, Hyperaktivist and D.Dan. Next up: Low Profile Studios, London on Sat 26 Sept.
 
@@ -27,4 +27,4 @@ Yazzus is a techno and house artist tracked on soundcheck, with 168 sets logged 
 
 DJ TOOL, Hyperaktivist, D.Dan
 
-*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/yazzus/)*
+*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/yazzus/)*

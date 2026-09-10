@@ -1,6 +1,6 @@
 # Savaya Bali
 
-Savaya Bali is a music venue in Bali with 28 upcoming nights listed on soundcheck as of Wed, 9 Sept 2026; the next is "Marten Lou" on Sat, 12 Sept 2026.
+Savaya Bali is a music venue in Bali with 28 upcoming nights listed on soundcheck as of Thu, 10 Sept 2026; the next is "Marten Lou" on Sat, 12 Sept 2026.
 
 Savaya Bali is a music venue in Bali listed on soundcheck. 28 upcoming nights, with line-ups including Alex Wann, AMÉMÉ, Betical and Colyn and 2 more. Browse upcoming dates, start times and who's playing. Jl. Belimbing Sari, Banjar Tambiyak, Pecatu, Uluwatu, Kabupaten Badung, Bali 80364, Indonesia.
 
@@ -23,4 +23,4 @@ Savaya Bali is a music venue in Bali listed on soundcheck. 28 upcoming nights, w
 
 Jl. Belimbing Sari, Banjar Tambiyak, Pecatu, Uluwatu, Kabupaten Badung, Bali 80364, Indonesia, Bali
 
-*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/bali/club/savaya-bali/)*
+*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/bali/club/savaya-bali/)*

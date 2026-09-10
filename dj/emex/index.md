@@ -1,6 +1,6 @@
 # Emex
 
-Emex is a Techno and EBM artist with 3 upcoming club dates listed on soundcheck as of Wed, 9 Sept 2026, next at MR.DUCK, Mexico City on Sat, 12 Sept 2026.
+Emex is a Techno and EBM artist with 3 upcoming club dates listed on soundcheck as of Thu, 10 Sept 2026, next at MR.DUCK, Mexico City on Sat, 12 Sept 2026.
 
 Emex is a techno and ebm artist based in Greece, tracked on soundcheck, with 63 sets logged across Athens, Berlin, London and Mexicocity. Often billed alongside George Apergis, Talantösis and BMSK. Next up: MR.DUCK, Mexicocity on Sat 12 Sept.
 
@@ -27,4 +27,4 @@ Emex is a techno and ebm artist based in Greece, tracked on soundcheck, with 63 
 
 George Apergis, Talantösis, BMSK
 
-*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/emex/)*
+*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/emex/)*

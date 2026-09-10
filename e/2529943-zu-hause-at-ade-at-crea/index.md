@@ -1,6 +1,6 @@
 # ZU HAUSE at ADE at CREA
 
-ZU HAUSE at ADE at CREA on Thu 22 Oct, Amsterdam. 6 acts on the bill: Jana Vitiligo, Judoc, Mum & Dad (BE) and Munay and 2 more. House. Preview the line-up and save it on soundcheck.
+ZU HAUSE at ADE at CREA on Thu 22 Oct, Amsterdam. 7 acts on the bill: aksendo, Jana Vitiligo, Judoc and Mum & Dad (BE) and 3 more. House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ ZU HAUSE at ADE at CREA on Thu 22 Oct, Amsterdam. 6 acts on the bill: Jana Vitil
 
 ## Line-up
 
+- aksendo
 - Jana Vitiligo
 - Judoc
 - Mum & Dad (BE)

@@ -1,14 +1,15 @@
 # ono.sendai.runner
 
-ono.sendai.runner is a Techno and IDM artist with 1 upcoming club date listed on soundcheck as of Wed, 9 Sept 2026, next at Low Profile Studios, London on Fri, 9 Oct 2026.
+ono.sendai.runner is a Techno and IDM artist with 2 upcoming club dates listed on soundcheck as of Thu, 10 Sept 2026, next at Low Profile Studios, London on Fri, 9 Oct 2026.
 
-ono.sendai.runner is a techno and idm artist tracked on soundcheck, with 12 sets logged across London. Often billed alongside Jade Seatle, LVRA and Sam PV. Next up: Low Profile Studios, London on Fri 9 Oct.
+ono.sendai.runner is a techno and idm artist tracked on soundcheck, with 13 sets logged across London. Often billed alongside Sam PV, Toby (UK) and Jade Seatle. Next up: Low Profile Studios, London on Fri 9 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 9 Oct 2026 | Low Profile Studios | London |
+| Sat, 31 Oct 2026 | NUMBER 90 LONDON | London |
 
 ## Recently played
 
@@ -23,6 +24,6 @@ ono.sendai.runner is a techno and idm artist tracked on soundcheck, with 12 sets
 
 ## Shares bills with
 
-Jade Seatle, LVRA, Sam PV
+Sam PV, Toby (UK), Jade Seatle
 
-*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ono.sendai.runner/)*
+*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ono.sendai.runner/)*

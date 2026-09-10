@@ -1,14 +1,15 @@
 # Falcao
 
-Falcao is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 9 Sept 2026, next at Turbina, Budapest on Sat, 10 Oct 2026.
+Falcao is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 10 Sept 2026, next at Turbina, Budapest on Sat, 10 Oct 2026.
 
-Falcao is a house and techno artist based in Hungary, tracked on soundcheck, with 86 sets logged across Amsterdam, Berlin, Budapest and Ibiza. Often billed alongside Tolo, Daniel Moritz and Maron. Next up: Turbina, Budapest on Sat 10 Oct.
+Falcao is a house and techno artist based in Hungary, tracked on soundcheck, with 87 sets logged across Amsterdam, Berlin, Budapest and Ibiza. Often billed alongside Tolo, Daniel Moritz and Maron. Next up: Turbina, Budapest on Sat 10 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 10 Oct 2026 | Turbina | Budapest |
+| Sat, 21 Nov 2026 | Palazzo Permanens | Budapest |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Falcao is a house and techno artist based in Hungary, tracked on soundcheck, wit
 
 Tolo, Daniel Moritz, Maron
 
-*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/falcao/)*
+*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/falcao/)*

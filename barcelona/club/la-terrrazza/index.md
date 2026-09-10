@@ -1,15 +1,15 @@
 # La Terrrazza
 
-La Terrrazza is a music venue in Barcelona with 27 upcoming nights listed on soundcheck as of Wed, 9 Sept 2026; the next is "SUMMER HEROES Closing: Open Air with Mystery Affair" on Thu, 10 Sept 2026.
+La Terrrazza is a music venue in Barcelona with 29 upcoming nights listed on soundcheck as of Thu, 10 Sept 2026; the next is "SUMMER HEROES Closing: Open Air with Mystery Affair" on Thu, 10 Sept 2026.
 
-La Terrrazza is a music venue in Barcelona listed on soundcheck. 27 upcoming nights, with line-ups including 909 RACING TEAM, ANYA (2), Breezy S and Cesar Martino and 2 more. Browse upcoming dates, start times and who's playing. Avinguda Francesc Ferrer i Guardia, 13, 08038.
+La Terrrazza is a music venue in Barcelona listed on soundcheck. 29 upcoming nights, with line-ups including 909 RACING TEAM, Alvaro Medina, ANYA (2) and Baldman and 2 more. Browse upcoming dates, start times and who's playing. Avinguda Francesc Ferrer i Guardia, 13, 08038.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
 | Thu, 10 Sept 2026 | SUMMER HEROES Closing: Open Air with Mystery Affair | Cesar Martino, Daniel Aguilar (2), Mystery Affair, MøønkiZa |
-| Fri, 11 Sept 2026 | Hop on The Top (8th Anniversary) - Hip Hop Throwback 90'-00' at La Terrrazza | DJ AMAZING |
+| Fri, 11 Sept 2026 | [Last 200 tickets] Hop on The Top (8th Anniversary) - Hip Hop Throwback 90'-00'  | DJ AMAZING |
 | Fri, 11 Sept 2026 | Club Inferno x LOVEFOXY | GIRLS ON DECKS, LOVEFOXY |
 | Sat, 12 Sept 2026 | Retro Future Disco Club | Breezy S, COEO |
 | Thu, 17 Sept 2026 | Soundset Sessions with ROZIE | ANYA (2), CLANDESTINE (2), Rozie, WOLTERS |
@@ -23,4 +23,4 @@ La Terrrazza is a music venue in Barcelona listed on soundcheck. 27 upcoming nig
 
 Avinguda Francesc Ferrer i Guardia, 13, 08038, Barcelona
 
-*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/la-terrrazza/)*
+*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/la-terrrazza/)*

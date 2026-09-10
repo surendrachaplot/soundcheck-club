@@ -1,6 +1,6 @@
 # ØC
 
-ØC is a Techno and Hardcore artist with 1 upcoming club date listed on soundcheck as of Wed, 9 Sept 2026, next at The Bakery, Liverpool on Sat, 24 Oct 2026.
+ØC is a Techno and Hardcore artist with 1 upcoming club date listed on soundcheck as of Thu, 10 Sept 2026, next at The Bakery, Liverpool on Sat, 24 Oct 2026.
 
 ØC is a techno and hardcore artist based in United Kingdom, tracked on soundcheck, with 13 sets logged across Brighton, Glasgow, Liverpool and London and 1 more. Often billed alongside Baptist (UK), HIGHVØLTAGE and Jason Cluff. Next up: The Bakery, Liverpool on Sat 24 Oct.
 
@@ -25,4 +25,4 @@
 
 Baptist (UK), HIGHVØLTAGE, Jason Cluff
 
-*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/oc-2/)*
+*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/oc-2/)*

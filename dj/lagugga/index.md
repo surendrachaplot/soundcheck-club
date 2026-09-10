@@ -1,6 +1,6 @@
 # La Gugga
 
-La Gugga is a House and Deep House artist with 2 upcoming club dates listed on soundcheck as of Wed, 9 Sept 2026, next at Myra Ostraria, Lisbon on Fri, 11 Sept 2026.
+La Gugga is a House and Deep House artist with 2 upcoming club dates listed on soundcheck as of Thu, 10 Sept 2026, next at Myra Ostraria, Lisbon on Fri, 11 Sept 2026.
 
 La Gugga is a house and deep house artist tracked on soundcheck, with 64 sets logged across Barcelona, Berlin, Leeds and Lisbon and 3 more. Often billed alongside Maxime dB, O'Hana and Aline Umber. Next up: Myra Ostraria, Lisbon on Fri 11 Sept.
 
@@ -26,4 +26,4 @@ La Gugga is a house and deep house artist tracked on soundcheck, with 64 sets lo
 
 Maxime dB, O'Hana, Aline Umber
 
-*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lagugga/)*
+*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lagugga/)*

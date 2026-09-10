@@ -1,6 +1,6 @@
 # TILLATEC
 
-TILLATEC is a music venue in Amsterdam with 15 upcoming nights listed on soundcheck as of Wed, 9 Sept 2026; the next is "TILLATECS TILLADECKS" on Fri, 11 Sept 2026.
+TILLATEC is a music venue in Amsterdam with 15 upcoming nights listed on soundcheck as of Thu, 10 Sept 2026; the next is "TILLATECS TILLADECKS" on Fri, 11 Sept 2026.
 
 TILLATEC is a music venue in Amsterdam listed on soundcheck. 15 upcoming nights, with line-ups including Justine Perry, Amphia, Andrés Soria and Andy Garvey and 2 more. Browse upcoming dates, start times and who's playing. Doctor Jan van Breemenstraat 1; 1056 AB Amsterdam.
 
@@ -23,4 +23,4 @@ TILLATEC is a music venue in Amsterdam listed on soundcheck. 15 upcoming nights,
 
 Doctor Jan van Breemenstraat 1; 1056 AB Amsterdam, Amsterdam
 
-*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/tillatec/)*
+*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/tillatec/)*

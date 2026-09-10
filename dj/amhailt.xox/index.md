@@ -1,6 +1,6 @@
 # amhailt.xox
 
-amhailt.xox is a Hardcore and Drum & Bass artist with 1 upcoming club date listed on soundcheck as of Wed, 9 Sept 2026, next at The Mash House, Edinburgh on Sat, 19 Sept 2026.
+amhailt.xox is a Hardcore and Drum & Bass artist with 1 upcoming club date listed on soundcheck as of Thu, 10 Sept 2026, next at The Mash House, Edinburgh on Sat, 19 Sept 2026.
 
 amhailt.xox is a hardcore and drum & bass artist based in Ireland, tracked on soundcheck, with 62 sets logged across Dundee, Edinburgh, Glasgow and Seoul. Often billed alongside CELTIC TERROR SQUAD, Sea Urchin and TWOCANNDANN. Next up: The Mash House, Edinburgh on Sat 19 Sept.
 
@@ -25,4 +25,4 @@ amhailt.xox is a hardcore and drum & bass artist based in Ireland, tracked on so
 
 CELTIC TERROR SQUAD, Sea Urchin, TWOCANNDANN
 
-*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/amhailt.xox/)*
+*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/amhailt.xox/)*

@@ -1,6 +1,6 @@
 # ASIA (DE)
 
-ASIA (DE) is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Wed, 9 Sept 2026, next at TBA - Secret Location near Jannowitzbrücke, Berlin on Thu, 17 Sept 2026.
+ASIA (DE) is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Thu, 10 Sept 2026, next at TBA - Secret Location near Jannowitzbrücke, Berlin on Thu, 17 Sept 2026.
 
 ASIA (DE) is a house and techno artist tracked on soundcheck, with 39 sets logged across Amsterdam, Barcelona, Berlin and Bucharest and 6 more. Often billed alongside DJ Koolt, Neik and Jorge Escribano. Next up: TBA - Secret Location near Jannowitzbrücke, Berlin on Thu 17 Sept.
 
@@ -27,4 +27,4 @@ ASIA (DE) is a house and techno artist tracked on soundcheck, with 39 sets logge
 
 DJ Koolt, Neik, Jorge Escribano
 
-*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/asia-de/)*
+*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/asia-de/)*

@@ -1,13 +1,14 @@
 # TSVI
 
-TSVI is a Techno and Bass artist with 3 upcoming club dates listed on soundcheck as of Wed, 9 Sept 2026, next at Club Malasaña, Madrid on Fri, 18 Sept 2026.
+TSVI is a Techno and Bass artist with 4 upcoming club dates listed on soundcheck as of Thu, 10 Sept 2026, next at Club Malasaña, Madrid on Fri, 18 Sept 2026.
 
-TSVI is a techno and bass artist based in United Kingdom, tracked on soundcheck, with 101 sets logged across Amsterdam, Athens, Barcelona and Basel and 34 more. Often billed alongside Anunaku, Ehua and Identified Patient. Next up: Club Malasaña, Madrid on Fri 18 Sept.
+TSVI is a techno and bass artist based in United Kingdom, tracked on soundcheck, with 102 sets logged across Amsterdam, Athens, Barcelona and Basel and 34 more. Often billed alongside Anunaku, Ehua and Identified Patient. Next up: Club Malasaña, Madrid on Fri 18 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 18 Sept 2026 | Club Malasaña | Madrid |
 | Fri, 18 Sept 2026 | Club Malasaña | Madrid |
 | Sat, 19 Sept 2026 | Ormside Projects | London |
 | Fri, 30 Oct 2026 | Paragon | New York City |
@@ -27,4 +28,4 @@ TSVI is a techno and bass artist based in United Kingdom, tracked on soundcheck,
 
 Anunaku, Ehua, Identified Patient
 
-*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tsvi/)*
+*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tsvi/)*

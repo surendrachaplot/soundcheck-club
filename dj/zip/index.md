@@ -1,6 +1,6 @@
 # Zip
 
-Zip is a Minimal and House artist with 3 upcoming club dates listed on soundcheck as of Wed, 9 Sept 2026, next at Tokonoma Club, Frankfurt on Sat, 12 Sept 2026.
+Zip is a Minimal and House artist with 3 upcoming club dates listed on soundcheck as of Thu, 10 Sept 2026, next at Tokonoma Club, Frankfurt on Sat, 12 Sept 2026.
 
 Zip is a minimal and house artist tracked on soundcheck, with 69 sets logged across Amsterdam, Barcelona, Basel and Berlin and 16 more. Often billed alongside Sammy Dee, Ricardo Villalobos and Margaret Dygas. Next up: Tokonoma Club, Frankfurt on Sat 12 Sept.
 
@@ -27,4 +27,4 @@ Zip is a minimal and house artist tracked on soundcheck, with 69 sets logged acr
 
 Sammy Dee, Ricardo Villalobos, Margaret Dygas
 
-*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/zip/)*
+*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/zip/)*

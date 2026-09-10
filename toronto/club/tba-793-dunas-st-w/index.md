@@ -1,6 +1,6 @@
 # TBA - 793 Dunas St W
 
-TBA - 793 Dunas St W is a music venue in Toronto with 1 upcoming night listed on soundcheck as of Wed, 9 Sept 2026; the next is "OCR+BOKETTO TRX0002" on Sat, 26 Sept 2026.
+TBA - 793 Dunas St W is a music venue in Toronto with 1 upcoming night listed on soundcheck as of Thu, 10 Sept 2026; the next is "OCR+BOKETTO TRX0002" on Sat, 26 Sept 2026.
 
 TBA - 793 Dunas St W is a music venue in Toronto listed on soundcheck. 1 upcoming night, with line-ups including Ali RQ and prayinsecret. Browse upcoming dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ TBA - 793 Dunas St W is a music venue in Toronto listed on soundcheck. 1 upcomin
 | --- | --- | --- |
 | Sat, 26 Sept 2026 | OCR+BOKETTO TRX0002 | Ali RQ, prayinsecret |
 
-*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/tba-793-dunas-st-w/)*
+*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/tba-793-dunas-st-w/)*

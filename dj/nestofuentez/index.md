@@ -1,6 +1,6 @@
 # Nesto Fuentez
 
-Nesto Fuentez is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 9 Sept 2026, next at F8 1192 Folsom, San Francisco/Oakland on Wed, 16 Sept 2026.
+Nesto Fuentez is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 10 Sept 2026, next at F8 1192 Folsom, San Francisco/Oakland on Wed, 16 Sept 2026.
 
 Nesto Fuentez is a house and techno artist tracked on soundcheck, with 12 sets logged across Sanfrancisco. Often billed alongside Mario Dubbz, DJ Garth and Jamie Swing. Next up: F8 1192 Folsom, Sanfrancisco on Wed 16 Sept.
 
@@ -25,4 +25,4 @@ Nesto Fuentez is a house and techno artist tracked on soundcheck, with 12 sets l
 
 Mario Dubbz, DJ Garth, Jamie Swing
 
-*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nestofuentez/)*
+*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nestofuentez/)*

@@ -1,8 +1,8 @@
 # Virginia
 
-Virginia is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Wed, 9 Sept 2026, next at Artheater, Cologne on Fri, 11 Sept 2026.
+Virginia is a House and Techno artist with 6 upcoming club dates listed on soundcheck as of Thu, 10 Sept 2026, next at Artheater, Cologne on Fri, 11 Sept 2026.
 
-Virginia is a house and techno artist tracked on soundcheck, with 249 sets logged across Amsterdam, Athens, Bali and Barcelona and 60 more. Often billed alongside AMEX (UK), APP and Alaska (2). Next up: Artheater, Cologne on Fri 11 Sept.
+Virginia is a house and techno artist tracked on soundcheck, with 250 sets logged across Amsterdam, Athens, Bali and Barcelona and 60 more. Often billed alongside AMEX (UK), APP and Alaska (2). Next up: Artheater, Cologne on Fri 11 Sept.
 
 ## Upcoming shows
 
@@ -13,6 +13,7 @@ Virginia is a house and techno artist tracked on soundcheck, with 249 sets logge
 | Fri, 18 Sept 2026 | YuYu Cine Club | Mexico City |
 | Sun, 20 Sept 2026 | TBA | Montreal |
 | Sat, 26 Sept 2026 | essaim | Paris |
+| Sat, 21 Nov 2026 | TBA - Brussels | Brussels |
 
 ## Recently played
 
@@ -29,4 +30,4 @@ Virginia is a house and techno artist tracked on soundcheck, with 249 sets logge
 
 AMEX (UK), APP, Alaska (2)
 
-*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/virginia/)*
+*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/virginia/)*

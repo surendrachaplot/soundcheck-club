@@ -1,13 +1,14 @@
 # So-Fi
 
-So-Fi is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 9 Sept 2026, next at Macadam, Nantes on Sat, 24 Oct 2026.
+So-Fi is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Thu, 10 Sept 2026, next at Pas Berlin, Berlin on Sat, 17 Oct 2026.
 
-So-Fi is a house and techno artist tracked on soundcheck, with 96 sets logged across Amsterdam, Antwerp, Barcelona and Berlin and 21 more. Often billed alongside Matthias (1), Ancut and Carl H. Next up: Macadam, Nantes on Sat 24 Oct.
+So-Fi is a house and techno artist tracked on soundcheck, with 97 sets logged across Amsterdam, Antwerp, Barcelona and Berlin and 21 more. Often billed alongside Matthias (1), Ancut and Carl H. Next up: Pas Berlin, Berlin on Sat 17 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 17 Oct 2026 | Pas Berlin | Berlin |
 | Sat, 24 Oct 2026 | Macadam | Nantes |
 | Fri, 30 Oct 2026 | Signal | New York City |
 
@@ -26,4 +27,4 @@ So-Fi is a house and techno artist tracked on soundcheck, with 96 sets logged ac
 
 Matthias (1), Ancut, Carl H
 
-*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/so-fi/)*
+*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/so-fi/)*

@@ -1,13 +1,14 @@
 # Gazzi
 
-Gazzi is a House and Electronica artist with 1 upcoming club date listed on soundcheck as of Wed, 9 Sept 2026, next at Club Malasaña, Madrid on Fri, 25 Sept 2026.
+Gazzi is a House and Electronica artist with 2 upcoming club dates listed on soundcheck as of Thu, 10 Sept 2026, next at El Internacional, Madrid on Fri, 11 Sept 2026.
 
-Gazzi is a house and electronica artist tracked on soundcheck, with 76 sets logged across Barcelona, Copenhagen, Lyon and Madrid and 3 more. Often billed alongside Dalila (ES), Nahoomie and Underworld. Next up: Club Malasaña, Madrid on Fri 25 Sept.
+Gazzi is a house and electronica artist tracked on soundcheck, with 77 sets logged across Barcelona, Copenhagen, Lyon and Madrid and 3 more. Often billed alongside Dalila (ES), Nahoomie and Underworld. Next up: El Internacional, Madrid on Fri 11 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 11 Sept 2026 | El Internacional | Madrid |
 | Fri, 25 Sept 2026 | Club Malasaña | Madrid |
 
 ## Recently played
@@ -25,4 +26,4 @@ Gazzi is a house and electronica artist tracked on soundcheck, with 76 sets logg
 
 Dalila (ES), Nahoomie, Underworld
 
-*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/gazzi/)*
+*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/gazzi/)*

@@ -1,14 +1,16 @@
 # Axel Boman
 
-Axel Boman is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 9 Sept 2026, next at Studio Club Malaga, Malaga on Sat, 17 Oct 2026.
+Axel Boman is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Thu, 10 Sept 2026, next at Bar Franca, Los Angeles on Wed, 16 Sept 2026.
 
-Axel Boman is a house and techno artist tracked on soundcheck, with 143 sets logged across Amsterdam, Athens, Austin and Bali and 46 more. Often billed alongside Kornél Kovács, Pedrodollar and Octo Octa. Next up: Studio Club Malaga, Malaga on Sat 17 Oct.
+Axel Boman is a house and techno artist tracked on soundcheck, with 145 sets logged across Amsterdam, Athens, Austin and Bali and 46 more. Often billed alongside Kornél Kovács, Pedrodollar and Octo Octa. Next up: Bar Franca, Losangeles on Wed 16 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Wed, 16 Sept 2026 | Bar Franca | Los Angeles |
 | Sat, 17 Oct 2026 | Studio Club Malaga | Malaga |
+| Fri, 6 Nov 2026 | Palais | London |
 | Sat, 7 Nov 2026 | Sala Villanos | Madrid |
 
 ## Recently played
@@ -26,4 +28,4 @@ Axel Boman is a house and techno artist tracked on soundcheck, with 143 sets log
 
 Kornél Kovács, Pedrodollar, Octo Octa
 
-*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/axelboman/)*
+*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/axelboman/)*

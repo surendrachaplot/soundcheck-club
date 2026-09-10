@@ -1,6 +1,6 @@
 # Monk Club
 
-Monk Club is a music venue in Rome with 1 upcoming night listed on soundcheck as of Wed, 9 Sept 2026; the next is "Back to School with La Roboterie" on Sat, 12 Sept 2026.
+Monk Club is a music venue in Rome with 1 upcoming night listed on soundcheck as of Thu, 10 Sept 2026; the next is "Back to School with La Roboterie" on Sat, 12 Sept 2026.
 
 Monk Club is a music venue in Rome listed on soundcheck. 1 upcoming night. Browse upcoming dates, start times and who's playing. via Giuseppe Mirri 35, 00100, Roma.
 
@@ -14,4 +14,4 @@ Monk Club is a music venue in Rome listed on soundcheck. 1 upcoming night. Brows
 
 via Giuseppe Mirri 35, 00100, Roma, Rome
 
-*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/rome/club/monk-club/)*
+*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/rome/club/monk-club/)*

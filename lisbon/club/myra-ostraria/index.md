@@ -1,6 +1,6 @@
 # Myra Ostraria
 
-Myra Ostraria is a music venue in Lisbon with 3 upcoming nights listed on soundcheck as of Wed, 9 Sept 2026; the next is "Mar à Mesa" on Thu, 10 Sept 2026.
+Myra Ostraria is a music venue in Lisbon with 3 upcoming nights listed on soundcheck as of Thu, 10 Sept 2026; the next is "Mar à Mesa" on Thu, 10 Sept 2026.
 
 Myra Ostraria is a music venue in Lisbon listed on soundcheck. 3 upcoming nights, with line-ups including Andion, DJ Rino, Garrett David and La Gugga and 2 more. Browse upcoming dates, start times and who's playing. R. da Praia, 2825-391, Costa de Caparica, Almada, Portugal.
 
@@ -16,4 +16,4 @@ Myra Ostraria is a music venue in Lisbon listed on soundcheck. 3 upcoming nights
 
 R. da Praia, 2825-391, Costa de Caparica, Almada, Portugal, Lisbon
 
-*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/lisbon/club/myra-ostraria/)*
+*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/lisbon/club/myra-ostraria/)*

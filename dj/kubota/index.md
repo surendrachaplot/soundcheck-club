@@ -1,8 +1,8 @@
 # KUBOTA
 
-KUBOTA is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 9 Sept 2026, next at Numm, Tokyo on Fri, 11 Sept 2026.
+KUBOTA is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Thu, 10 Sept 2026, next at Numm, Tokyo on Fri, 11 Sept 2026.
 
-KUBOTA is a house and techno artist tracked on soundcheck, with 96 sets logged across Tokyo. Often billed alongside SIGNAL (JP), HARUTO and YASUHARU MOTOMIYA. Next up: Numm, Tokyo on Fri 11 Sept.
+KUBOTA is a house and techno artist tracked on soundcheck, with 98 sets logged across Tokyo. Often billed alongside SIGNAL (JP), YASUHARU MOTOMIYA and HARUTO. Next up: Numm, Tokyo on Fri 11 Sept.
 
 ## Upcoming shows
 
@@ -10,6 +10,8 @@ KUBOTA is a house and techno artist tracked on soundcheck, with 96 sets logged a
 | --- | --- | --- |
 | Fri, 11 Sept 2026 | Numm | Tokyo |
 | Sun, 27 Sept 2026 | Aoyama Hachi | Tokyo |
+| Fri, 16 Oct 2026 | MIDNIGHT EAST | Tokyo |
+| Sun, 18 Oct 2026 | Aoyama Hachi | Tokyo |
 
 ## Recently played
 
@@ -24,6 +26,6 @@ KUBOTA is a house and techno artist tracked on soundcheck, with 96 sets logged a
 
 ## Shares bills with
 
-SIGNAL (JP), HARUTO, YASUHARU MOTOMIYA
+SIGNAL (JP), YASUHARU MOTOMIYA, HARUTO
 
-*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kubota/)*
+*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kubota/)*

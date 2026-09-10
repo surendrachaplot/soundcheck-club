@@ -1,6 +1,6 @@
 # Discoteca Karma
 
-Discoteca Karma is a music venue in Barcelona with 2 upcoming nights listed on soundcheck as of Wed, 9 Sept 2026; the next is "Vanguard Nights: Opening party at Karma Disco" on Sun, 13 Sept 2026.
+Discoteca Karma is a music venue in Barcelona with 2 upcoming nights listed on soundcheck as of Thu, 10 Sept 2026; the next is "Vanguard Nights: Opening party at Karma Disco" on Sun, 13 Sept 2026.
 
 Discoteca Karma is a music venue in Barcelona listed on soundcheck. 2 upcoming nights, with line-ups including Ale Scocco, Deblazquez, Juannce and Saulo Pisa. Browse upcoming dates, start times and who's playing. Plaça Reial, 10, 08002 Barcelona.
 
@@ -15,4 +15,4 @@ Discoteca Karma is a music venue in Barcelona listed on soundcheck. 2 upcoming n
 
 Plaça Reial, 10, 08002 Barcelona, Barcelona
 
-*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/discoteca-karma/)*
+*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/discoteca-karma/)*

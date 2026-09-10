@@ -1,6 +1,6 @@
 # gART.n
 
-gART.n is a music venue in Berlin with 6 upcoming nights listed on soundcheck as of Wed, 9 Sept 2026; the next is "Flowers by HOVR" on Sat, 12 Sept 2026.
+gART.n is a music venue in Berlin with 6 upcoming nights listed on soundcheck as of Thu, 10 Sept 2026; the next is "Flowers by HOVR" on Sat, 12 Sept 2026.
 
 gART.n is a music venue in Berlin listed on soundcheck. 6 upcoming nights, with line-ups including 7heads, Bonfante, CIOZ and Corpino and 2 more. Browse upcoming dates, start times and who's playing. Blockdammweg 1, 10317 Berlin.
 
@@ -19,4 +19,4 @@ gART.n is a music venue in Berlin listed on soundcheck. 6 upcoming nights, with 
 
 Blockdammweg 1, 10317 Berlin, Berlin
 
-*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/gart-n/)*
+*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/gart-n/)*

@@ -1,6 +1,6 @@
 # Smooth Selektor
 
-Smooth Selektor is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Wed, 9 Sept 2026, next at Medellin 65, Mexico City on Sat, 12 Sept 2026.
+Smooth Selektor is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Thu, 10 Sept 2026, next at Medellin 65, Mexico City on Sat, 12 Sept 2026.
 
 Smooth Selektor is a house and deep house artist tracked on soundcheck, with 6 sets logged across Mexicocity. Often billed alongside Roan Prado, Ana Armada and Astro. Next up: Medellin 65, Mexicocity on Sat 12 Sept.
 
@@ -22,4 +22,4 @@ Smooth Selektor is a house and deep house artist tracked on soundcheck, with 6 s
 
 Roan Prado, Ana Armada, Astro
 
-*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/smoothselektor/)*
+*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/smoothselektor/)*

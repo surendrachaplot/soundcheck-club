@@ -1,6 +1,6 @@
-# NT's Loft: babyschön Residency W/ Budino at Night Tales Loft
+# NT's Loft: babyschön Residency w/ Budino at Night Tales Loft
 
-NT's Loft: babyschön Residency W/ Budino at Night Tales Loft on Sat 7 Nov, London. 2 acts on the bill: babyschön and Budino. Preview the line-up and save it on soundcheck.
+NT's Loft: babyschön Residency w/ Budino at Night Tales Loft on Sat 7 Nov, London. 2 acts on the bill: babyschön and Budino. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

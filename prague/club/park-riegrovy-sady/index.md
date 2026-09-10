@@ -1,6 +1,6 @@
 # Park Riegrovy Sady
 
-Park Riegrovy Sady is a music venue in Prague with 1 upcoming night listed on soundcheck as of Wed, 9 Sept 2026; the next is "Just InCase 𓏵 Riegrovy Sady ══ ₊ ⊹Free Entry.𖥔 ݁ ˖" on Sat, 19 Sept 2026.
+Park Riegrovy Sady is a music venue in Prague with 1 upcoming night listed on soundcheck as of Thu, 10 Sept 2026; the next is "Just InCase 𓏵 Riegrovy Sady ══ ₊ ⊹Free Entry.𖥔 ݁ ˖" on Sat, 19 Sept 2026.
 
 Park Riegrovy Sady is a music venue in Prague listed on soundcheck. 1 upcoming night, with line-ups including Blackloud, KAWA and Topal. Browse upcoming dates, start times and who's playing. Riegrovy sady 28, Prague, Czechia, 12000.
 
@@ -14,4 +14,4 @@ Park Riegrovy Sady is a music venue in Prague listed on soundcheck. 1 upcoming n
 
 Riegrovy sady 28, Prague, Czechia, 12000, Prague
 
-*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/prague/club/park-riegrovy-sady/)*
+*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/prague/club/park-riegrovy-sady/)*

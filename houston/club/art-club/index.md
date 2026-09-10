@@ -1,6 +1,6 @@
 # Art Club
 
-Art Club is a music venue in Houston with 12 upcoming nights listed on soundcheck as of Wed, 9 Sept 2026; the next is "Art Club pres. Daria Kolosova" on Fri, 11 Sept 2026.
+Art Club is a music venue in Houston with 12 upcoming nights listed on soundcheck as of Thu, 10 Sept 2026; the next is "Art Club pres. Daria Kolosova" on Fri, 11 Sept 2026.
 
 Art Club is a music venue in Houston listed on soundcheck. 12 upcoming nights, with line-ups including Ben UFO, Broken Hill, Daria Kolosova and Dean Turnley and 2 more. Browse upcoming dates, start times and who's playing. 401 Franklin St, Houston, TX 77201, USA.
 
@@ -23,4 +23,4 @@ Art Club is a music venue in Houston listed on soundcheck. 12 upcoming nights, w
 
 401 Franklin St, Houston, TX 77201, USA, Houston
 
-*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/houston/club/art-club/)*
+*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/houston/club/art-club/)*

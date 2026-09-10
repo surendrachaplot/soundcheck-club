@@ -1,14 +1,13 @@
 # Amnesia Ibiza
 
-Amnesia Ibiza is a music venue in Ibiza with 28 upcoming nights listed on soundcheck as of Wed, 9 Sept 2026; the next is "Resistance Ibiza" on Wed, 9 Sept 2026.
+Amnesia Ibiza is a music venue in Ibiza with 27 upcoming nights listed on soundcheck as of Thu, 10 Sept 2026; the next is "You&Me" on Thu, 10 Sept 2026.
 
-Amnesia Ibiza is a music venue in Ibiza listed on soundcheck. 28 upcoming nights, with line-ups including Artbat, Kepler, Adam Beyer and Adiel and 2 more. Browse upcoming dates, start times and who's playing. Ctra. Ibiza a San Antonio, Km 5, 07816 San Rafael, Ibiza.
+Amnesia Ibiza is a music venue in Ibiza listed on soundcheck. 27 upcoming nights, with line-ups including Kepler, Adam Beyer, Adiel and Adrian Mills and 2 more. Browse upcoming dates, start times and who's playing. Ctra. Ibiza a San Antonio, Km 5, 07816 San Rafael, Ibiza.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Wed, 9 Sept 2026 | Resistance Ibiza | Adam Beyer, Artbat, Massano, Olympe, Stephan Bodzin |
 | Thu, 10 Sept 2026 | You&Me | Jamie Fielding, Job de Jong, Josh Baker, Kepler, Peach, Shanti Celeste |
 | Fri, 11 Sept 2026 | Glitterbox | Barbara Tucker, Breakbot, Dimitri From Paris, Eats Everything, Irfane, Jamie Love, Krystal Klear, LEV (UK), Sam Karlson |
 | Sat, 12 Sept 2026 | People From Ibiza | CAAL, DJ Oliver, Les Schmitz, Mar-T |
@@ -18,9 +17,10 @@ Amnesia Ibiza is a music venue in Ibiza listed on soundcheck. 28 upcoming nights
 | Tue, 15 Sept 2026 | Joseph Capriati presents Metamorfosi | Adiel, Alarico, Joseph Capriati, Nuke, PARAMIDA, Richie Hawtin, Toman, Vanee, Yanamaste |
 | Wed, 16 Sept 2026 | Resistance Ibiza Closing Party | Adam Beyer, Brina Knauss, Eric Prydz, Estella Boersma, I Hate Models, Juliet Fox, Mind Against, Nicole Moudaber, Stëh |
 | Thu, 17 Sept 2026 | You&Me | Interplanetary Criminal, Josh Baker, L.P. Rhythm, LILI, Sosa |
+| Fri, 18 Sept 2026 | Glitterbox | Armand Van Helden, Dan Shake, Floorplan, Melvo Baptiste, Mousse T., Natasha Diggs, Riva Starr, Spiller |
 
 ## Address
 
 Ctra. Ibiza a San Antonio, Km 5, 07816 San Rafael, Ibiza, Ibiza
 
-*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/ibiza/club/amnesia-ibiza/)*
+*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/ibiza/club/amnesia-ibiza/)*

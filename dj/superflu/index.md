@@ -1,14 +1,15 @@
 # Super Flu
 
-Super Flu is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Wed, 9 Sept 2026, next at Cova Santa, Ibiza on Fri, 2 Oct 2026.
+Super Flu is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Thu, 10 Sept 2026, next at Cova Santa, Ibiza on Fri, 2 Oct 2026.
 
-Super Flu is a techno and house artist tracked on soundcheck, with 112 sets logged across Amsterdam, Barcelona, Basel and Berlin and 33 more. Often billed alongside Prismode, Solvane and Markus Klee. Next up: Cova Santa, Ibiza on Fri 2 Oct.
+Super Flu is a techno and house artist tracked on soundcheck, with 113 sets logged across Amsterdam, Barcelona, Basel and Berlin and 33 more. Often billed alongside Prismode, Solvane and Markus Klee. Next up: Cova Santa, Ibiza on Fri 2 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 2 Oct 2026 | Cova Santa | Ibiza |
+| Sat, 10 Oct 2026 | Ritter Butzke | Berlin |
 | Sat, 17 Oct 2026 | Fridas Pier | Stuttgart |
 | Fri, 23 Oct 2026 | Supperclub Cruise | Amsterdam |
 | Sat, 24 Oct 2026 | Tanzhaus West | Frankfurt |
@@ -29,4 +30,4 @@ Super Flu is a techno and house artist tracked on soundcheck, with 112 sets logg
 
 Prismode, Solvane, Markus Klee
 
-*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/superflu/)*
+*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/superflu/)*

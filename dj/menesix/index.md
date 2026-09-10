@@ -1,6 +1,6 @@
 # MENESIX
 
-MENESIX is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Wed, 9 Sept 2026, next at Kralingse Bos, Rotterdam on Sat, 12 Sept 2026.
+MENESIX is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Thu, 10 Sept 2026, next at Kralingse Bos, Rotterdam on Sat, 12 Sept 2026.
 
 MENESIX is a house and tech house artist based in Netherlands, tracked on soundcheck, with 57 sets logged across Amsterdam, Ibiza, Rotterdam and Thehague and 1 more. Often billed alongside Benny Rodrigues, Karim Soliman and Rayzir. Next up: Kralingse Bos, Rotterdam on Sat 12 Sept.
 
@@ -26,4 +26,4 @@ MENESIX is a house and tech house artist based in Netherlands, tracked on soundc
 
 Benny Rodrigues, Karim Soliman, Rayzir
 
-*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/menesix/)*
+*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/menesix/)*

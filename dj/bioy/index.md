@@ -1,6 +1,6 @@
 # BIØY
 
-BIØY is a Techno and Progressive House artist with 2 upcoming club dates listed on soundcheck as of Wed, 9 Sept 2026, next at Port Olimpic, Barcelona on Fri, 11 Sept 2026.
+BIØY is a Techno and Progressive House artist with 2 upcoming club dates listed on soundcheck as of Thu, 10 Sept 2026, next at Port Olimpic, Barcelona on Fri, 11 Sept 2026.
 
 BIØY is a techno and progressive house artist based in Argentina, tracked on soundcheck, with 13 sets logged across Barcelona, Buenosaires and Rome. Often billed alongside Adam Sellouk, Alex Rush and Fat-P. Next up: Port Olimpic, Barcelona on Fri 11 Sept.
 
@@ -26,4 +26,4 @@ BIØY is a techno and progressive house artist based in Argentina, tracked on so
 
 Adam Sellouk, Alex Rush, Fat-P
 
-*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bioy/)*
+*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bioy/)*

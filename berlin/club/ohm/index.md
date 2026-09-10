@@ -1,8 +1,8 @@
 # OHM
 
-OHM is a music venue in Berlin with 24 upcoming nights listed on soundcheck as of Wed, 9 Sept 2026; the next is "System Revival with Haruka, Patrick Russell, Mayss" on Thu, 10 Sept 2026.
+OHM is a music venue in Berlin with 25 upcoming nights listed on soundcheck as of Thu, 10 Sept 2026; the next is "System Revival with Haruka, Patrick Russell, Mayss" on Thu, 10 Sept 2026.
 
-OHM is a music venue in Berlin listed on soundcheck. 24 upcoming nights, with line-ups including Aaronovsky, Afidissima, Alexy and Anja Schneider and 2 more. Browse upcoming dates, start times and who's playing. Köpenicker Str. 70, 10179 Berlin, Germany.
+OHM is a music venue in Berlin listed on soundcheck. 25 upcoming nights, with line-ups including Aaronovsky, Afidissima, Alexy and Anja Schneider and 2 more. Browse upcoming dates, start times and who's playing. Köpenicker Str. 70, 10179 Berlin, Germany.
 
 ## What's on
 
@@ -23,4 +23,4 @@ OHM is a music venue in Berlin listed on soundcheck. 24 upcoming nights, with li
 
 Köpenicker Str. 70, 10179 Berlin, Germany, Berlin
 
-*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/ohm/)*
+*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/ohm/)*

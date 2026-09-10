@@ -1,14 +1,15 @@
 # Luke Hovey
 
-Luke Hovey is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Wed, 9 Sept 2026, next at Fvtvr, Paris on Sat, 12 Sept 2026.
+Luke Hovey is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Thu, 10 Sept 2026, next at Fvtvr, Paris on Sat, 12 Sept 2026.
 
-Luke Hovey is a techno and trance artist tracked on soundcheck, with 36 sets logged across Amsterdam, Berlin, Hobart and Melbourne and 3 more. Often billed alongside Black Dave, franck and Emma Moon. Next up: Fvtvr, Paris on Sat 12 Sept.
+Luke Hovey is a techno and trance artist tracked on soundcheck, with 37 sets logged across Amsterdam, Berlin, Hobart and Melbourne and 3 more. Often billed alongside Black Dave, franck and Emma Moon. Next up: Fvtvr, Paris on Sat 12 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 12 Sept 2026 | Fvtvr | Paris |
+| Fri, 9 Oct 2026 | M7 Warehouse | Melbourne |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Luke Hovey is a techno and trance artist tracked on soundcheck, with 36 sets log
 
 Black Dave, franck, Emma Moon
 
-*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lukehovey/)*
+*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lukehovey/)*

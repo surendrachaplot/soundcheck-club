@@ -1,6 +1,6 @@
 # Gavino Paglianti
 
-Gavino Paglianti is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Wed, 9 Sept 2026, next at Generator, Amsterdam on Fri, 23 Oct 2026.
+Gavino Paglianti is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Thu, 10 Sept 2026, next at Generator, Amsterdam on Fri, 23 Oct 2026.
 
 Gavino Paglianti is a house and disco artist based in Netherlands, tracked on soundcheck, with 9 sets logged across Amsterdam. Often billed alongside Braketrack, Charles Mingles and Hossle Audio. Next up: Generator, Amsterdam on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ Gavino Paglianti is a house and disco artist based in Netherlands, tracked on so
 
 Braketrack, Charles Mingles, Hossle Audio
 
-*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/gavinopaglianti/)*
+*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/gavinopaglianti/)*

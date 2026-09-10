@@ -1,6 +1,6 @@
 # 11 Years Selected at RSO.BERLIN
 
-11 Years Selected at RSO.BERLIN on Sat 19 Sept, Berlin. 14 acts on the bill: CAIVA, Carmen Electro, Ellen Trenn and EMILIJA and 10 more. Preview the line-up and save it on soundcheck.
+11 Years Selected at RSO.BERLIN on Sat 19 Sept, Berlin. 15 acts on the bill: CAIVA, Carmen Electro, Ellen Trenn and EMILIJA and 11 more. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -20,6 +20,7 @@
 - fumi (DE)
 - Iman Janes
 - Luxi Villar
+- MCR-T
 - Part Time Killer
 - Trancemaster Krause
 - ÜBERKIKZ

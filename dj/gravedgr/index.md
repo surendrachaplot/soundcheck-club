@@ -1,6 +1,6 @@
 # GRAVEDGR
 
-GRAVEDGR is a Techno and Hardcore artist with 2 upcoming club dates listed on soundcheck as of Wed, 9 Sept 2026, next at Plage Privée Parc de Miribel, Lyon on Sat, 10 Oct 2026.
+GRAVEDGR is a Techno and Hardcore artist with 2 upcoming club dates listed on soundcheck as of Thu, 10 Sept 2026, next at Plage Privée Parc de Miribel, Lyon on Sat, 10 Oct 2026.
 
 GRAVEDGR is a techno and hardcore artist tracked on soundcheck, with 52 sets logged across Amsterdam, Barcelona, Berlin and Cologne and 25 more. Often billed alongside CARV, NOVAH and Basswell. Next up: Plage Privée Parc de Miribel, Lyon on Sat 10 Oct.
 
@@ -26,4 +26,4 @@ GRAVEDGR is a techno and hardcore artist tracked on soundcheck, with 52 sets log
 
 CARV, NOVAH, Basswell
 
-*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/gravedgr/)*
+*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/gravedgr/)*

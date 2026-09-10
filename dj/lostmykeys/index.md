@@ -1,6 +1,6 @@
 # Lost my Keys
 
-Lost my Keys is a Techno and Acid artist with 1 upcoming club date listed on soundcheck as of Wed, 9 Sept 2026, next at D-EDGE, Sao Paulo on Thu, 17 Sept 2026.
+Lost my Keys is a Techno and Acid artist with 1 upcoming club date listed on soundcheck as of Thu, 10 Sept 2026, next at D-EDGE, Sao Paulo on Thu, 17 Sept 2026.
 
 Lost my Keys is a techno and acid artist tracked on soundcheck, with 14 sets logged across Saopaulo. Often billed alongside Vallas Martins, Acid Asian and Flip Devonian. Next up: D-EDGE, Saopaulo on Thu 17 Sept.
 
@@ -25,4 +25,4 @@ Lost my Keys is a techno and acid artist tracked on soundcheck, with 14 sets log
 
 Vallas Martins, Acid Asian, Flip Devonian
 
-*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lostmykeys/)*
+*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lostmykeys/)*

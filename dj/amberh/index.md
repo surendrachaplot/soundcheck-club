@@ -1,14 +1,15 @@
 # Amber H
 
-Amber H is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 9 Sept 2026, next at Thugshop Warehouse, Singapore on Sat, 12 Sept 2026.
+Amber H is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 10 Sept 2026, next at Thugshop Warehouse, Singapore on Sat, 12 Sept 2026.
 
-Amber H is a techno and house artist tracked on soundcheck, with 27 sets logged across Kualalumpur and Singapore. Often billed alongside Emma SS, EJ and Kevin Sy. Next up: Thugshop Warehouse, Singapore on Sat 12 Sept.
+Amber H is a techno and house artist tracked on soundcheck, with 28 sets logged across Kualalumpur and Singapore. Often billed alongside Emma SS, EJ and Kevin Sy. Next up: Thugshop Warehouse, Singapore on Sat 12 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 12 Sept 2026 | Thugshop Warehouse | Singapore |
+| Sat, 19 Sept 2026 | Thugshop Warehouse | Singapore |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Amber H is a techno and house artist tracked on soundcheck, with 27 sets logged 
 
 Emma SS, EJ, Kevin Sy
 
-*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/amberh/)*
+*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/amberh/)*

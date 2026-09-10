@@ -1,14 +1,13 @@
 # Twist Bar
 
-Twist Bar is a music venue in Prague with 10 upcoming nights listed on soundcheck as of Wed, 9 Sept 2026; the next is "DJ Rova" on Wed, 9 Sept 2026.
+Twist Bar is a music venue in Prague with 9 upcoming nights listed on soundcheck as of Thu, 10 Sept 2026; the next is "Simulation 1998 (US)" on Thu, 10 Sept 2026.
 
-Twist Bar is a music venue in Prague listed on soundcheck. 10 upcoming nights, with line-ups including annna (2), Atlaskin, Cosmodan and Ella Pavel and 2 more. Browse upcoming dates, start times and who's playing.
+Twist Bar is a music venue in Prague listed on soundcheck. 9 upcoming nights, with line-ups including annna (2), Atlaskin, Cosmodan and Ella Pavel and 2 more. Browse upcoming dates, start times and who's playing.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Wed, 9 Sept 2026 | DJ Rova |  |
 | Thu, 10 Sept 2026 | Simulation 1998 (US) |  |
 | Fri, 11 Sept 2026 | Ella Pavel, annna | Ella Pavel, annna (2) |
 | Sat, 12 Sept 2026 | yyshuu (JP) | yyshuu |
@@ -19,4 +18,4 @@ Twist Bar is a music venue in Prague listed on soundcheck. 10 upcoming nights, w
 | Fri, 25 Sept 2026 | VNNUK, Atlaskin | Atlaskin, VNNUK |
 | Sat, 26 Sept 2026 | x.m., Takē | Takē |
 
-*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/prague/club/twist-bar/)*
+*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/prague/club/twist-bar/)*

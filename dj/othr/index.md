@@ -1,6 +1,6 @@
 # OTHR
 
-OTHR is a Techno and EBM artist with 1 upcoming club date listed on soundcheck as of Wed, 9 Sept 2026, next at Loco Park, Tbilisi on Fri, 2 Oct 2026.
+OTHR is a Techno and EBM artist with 1 upcoming club date listed on soundcheck as of Thu, 10 Sept 2026, next at Loco Park, Tbilisi on Fri, 2 Oct 2026.
 
 OTHR is a techno and ebm artist tracked on soundcheck, with 65 sets logged across Barcelona, Berlin, Madrid and Paris and 2 more. Often billed alongside Ancient Methods, Vulkanski and Knaughty. Next up: Loco Park, Tbilisi on Fri 2 Oct.
 
@@ -25,4 +25,4 @@ OTHR is a techno and ebm artist tracked on soundcheck, with 65 sets logged acros
 
 Ancient Methods, Vulkanski, Knaughty
 
-*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/othr/)*
+*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/othr/)*

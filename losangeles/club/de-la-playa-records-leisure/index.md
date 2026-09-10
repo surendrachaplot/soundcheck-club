@@ -1,6 +1,6 @@
 # De La Playa Records & Leisure
 
-De La Playa Records & Leisure is a music venue in Los Angeles with 2 upcoming nights listed on soundcheck as of Wed, 9 Sept 2026; the next is "★ RARE CANDY ★ BAE BAE + Calycosa + NAASHA + Isaiah Harwood + Lastword + Bobbyy" on Sat, 26 Sept 2026.
+De La Playa Records & Leisure is a music venue in Los Angeles with 2 upcoming nights listed on soundcheck as of Thu, 10 Sept 2026; the next is "★ RARE CANDY ★ BAE BAE + Calycosa + NAASHA + Isaiah Harwood + Lastword + Bobbyy" on Sat, 26 Sept 2026.
 
 De La Playa Records & Leisure is a music venue in Losangeles listed on soundcheck. 2 upcoming nights, with line-ups including BAE BAE, Bobbyy and Lastword. Browse upcoming dates, start times and who's playing. 110 S Ave 56, Los Angeles, California 90042.
 
@@ -15,4 +15,4 @@ De La Playa Records & Leisure is a music venue in Losangeles listed on soundchec
 
 110 S Ave 56, Los Angeles, California 90042, Los Angeles
 
-*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/de-la-playa-records-leisure/)*
+*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/de-la-playa-records-leisure/)*

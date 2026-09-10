@@ -1,14 +1,15 @@
 # Gay Felony
 
-Gay Felony is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 9 Sept 2026, next at The Sound Lounge at Percy, Philadelphia on Thu, 10 Sept 2026.
+Gay Felony is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Thu, 10 Sept 2026, next at The Sound Lounge at Percy, Philadelphia on Thu, 10 Sept 2026.
 
-Gay Felony is a house and techno artist based in United States of America, tracked on soundcheck, with 71 sets logged across Chicago, Detroit, Losangeles and Philadelphia and 1 more. Often billed alongside Jen Ferrer, Adam O (1) and Danny Goliger. Next up: The Sound Lounge at Percy, Philadelphia on Thu 10 Sept.
+Gay Felony is a house and techno artist based in United States of America, tracked on soundcheck, with 72 sets logged across Chicago, Detroit, Losangeles and Philadelphia and 1 more. Often billed alongside Jen Ferrer, Adam O (1) and Danny Goliger. Next up: The Sound Lounge at Percy, Philadelphia on Thu 10 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Thu, 10 Sept 2026 | The Sound Lounge at Percy | Philadelphia |
+| Fri, 11 Sept 2026 | Bastet | Philadelphia |
 | Fri, 25 Sept 2026 | Los Globos | Los Angeles |
 
 ## Recently played
@@ -26,4 +27,4 @@ Gay Felony is a house and techno artist based in United States of America, track
 
 Jen Ferrer, Adam O (1), Danny Goliger
 
-*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/gayfelony/)*
+*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/gayfelony/)*

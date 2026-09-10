@@ -1,0 +1,17 @@
+# Dalston Superstore
+
+Dalston Superstore is a music venue in London with 1 upcoming night listed on soundcheck as of Thu, 10 Sept 2026; the next is "LUCKY DIP - QUEER HOUSE AND GARAGE" on Thu, 24 Sept 2026.
+
+Dalston Superstore is a music venue in London listed on soundcheck. 1 upcoming night, with line-ups including DJ Split, Nick Clev and Sam Beach. Browse upcoming dates, start times and who's playing. 117 Kingsland High St; Dalston; London E8 2PB; United Kingdom.
+
+## What's on
+
+| Date | Night | Line-up |
+| --- | --- | --- |
+| Thu, 24 Sept 2026 | LUCKY DIP - QUEER HOUSE AND GARAGE | DJ Split, Nick Clev, Sam Beach |
+
+## Address
+
+117 Kingsland High St; Dalston; London E8 2PB; United Kingdom, London
+
+*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/dalston-superstore/)*

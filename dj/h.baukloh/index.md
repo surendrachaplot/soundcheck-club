@@ -1,6 +1,6 @@
 # H.Baukloh
 
-H.Baukloh is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 9 Sept 2026, next at Plano B, Porto on Sat, 12 Sept 2026.
+H.Baukloh is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 10 Sept 2026, next at Plano B, Porto on Sat, 12 Sept 2026.
 
 H.Baukloh is a techno and house artist based in Paraguay, tracked on soundcheck, with 14 sets logged across Lisbon, Porto and Valencia. Often billed alongside Let (3), Alfalfa (2) and Gilberto. Next up: Plano B, Porto on Sat 12 Sept.
 
@@ -25,4 +25,4 @@ H.Baukloh is a techno and house artist based in Paraguay, tracked on soundcheck,
 
 Let (3), Alfalfa (2), Gilberto
 
-*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/h.baukloh/)*
+*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/h.baukloh/)*

@@ -1,8 +1,8 @@
 # Rotational
 
-Rotational is a Bass and Dub artist with 3 upcoming club dates listed on soundcheck as of Wed, 9 Sept 2026, next at Rotterdam Centre, Rotterdam on Fri, 11 Sept 2026.
+Rotational is a Bass and Dub artist with 4 upcoming club dates listed on soundcheck as of Thu, 10 Sept 2026, next at Rotterdam Centre, Rotterdam on Fri, 11 Sept 2026.
 
-Rotational is a bass and dub artist tracked on soundcheck, with 19 sets logged across Amsterdam, Berlin, Bristol and Dublin and 5 more. Often billed alongside Tash LC, AAMIROO and Aalia Iraki. Next up: Rotterdam Centre, Rotterdam on Fri 11 Sept.
+Rotational is a bass and dub artist tracked on soundcheck, with 20 sets logged across Amsterdam, Berlin, Bristol and Dublin and 5 more. Often billed alongside Tash LC, AAMIROO and Aalia Iraki. Next up: Rotterdam Centre, Rotterdam on Fri 11 Sept.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Rotational is a bass and dub artist tracked on soundcheck, with 19 sets logged a
 | --- | --- | --- |
 | Fri, 11 Sept 2026 | Rotterdam Centre | Rotterdam |
 | Sun, 20 Sept 2026 | Garage Noord | Amsterdam |
+| Sat, 24 Oct 2026 | Skatecafe | Amsterdam |
 | Fri, 30 Oct 2026 | TBA | Lisbon |
 
 ## Recently played
@@ -27,4 +28,4 @@ Rotational is a bass and dub artist tracked on soundcheck, with 19 sets logged a
 
 Tash LC, AAMIROO, Aalia Iraki
 
-*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/rotational/)*
+*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/rotational/)*

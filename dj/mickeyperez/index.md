@@ -1,14 +1,14 @@
 # Mickey Perez
 
-Mickey Perez is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Wed, 9 Sept 2026, next at Governors Island, New York City on Sat, 17 Oct 2026.
+Mickey Perez is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Thu, 10 Sept 2026, next at Six Coasts by Smorgasburg, New York City on Sat, 17 Oct 2026.
 
-Mickey Perez is a house and disco artist based in United States of America, tracked on soundcheck, with 103 sets logged across Detroit, Mexicocity, Miami and Montreal and 3 more. Often billed alongside Toribio, Deon Jamar and Guthrie. Next up: Governors Island, Newyorkcity on Sat 17 Oct.
+Mickey Perez is a house and disco artist based in United States of America, tracked on soundcheck, with 103 sets logged across Detroit, Mexicocity, Miami and Montreal and 3 more. Often billed alongside Toribio, Deon Jamar and Guthrie. Next up: Six Coasts by Smorgasburg, Newyorkcity on Sat 17 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 17 Oct 2026 | Governors Island | New York City |
+| Sat, 17 Oct 2026 | Six Coasts by Smorgasburg | New York City |
 
 ## Recently played
 
@@ -25,4 +25,4 @@ Mickey Perez is a house and disco artist based in United States of America, trac
 
 Toribio, Deon Jamar, Guthrie
 
-*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mickeyperez/)*
+*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mickeyperez/)*

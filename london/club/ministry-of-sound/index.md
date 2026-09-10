@@ -1,6 +1,6 @@
 # Ministry Of Sound
 
-Ministry Of Sound is a music venue in London with 27 upcoming nights listed on soundcheck as of Wed, 9 Sept 2026; the next is "BLINK: DJEFF, BREYTH, HVMZA + MORE" on Fri, 11 Sept 2026.
+Ministry Of Sound is a music venue in London with 27 upcoming nights listed on soundcheck as of Thu, 10 Sept 2026; the next is "BLINK: DJEFF, BREYTH, HVMZA + MORE" on Fri, 11 Sept 2026.
 
 Ministry Of Sound is a music venue in London listed on soundcheck. 27 upcoming nights, with line-ups including Alastair Lane, Alex Mills, AMO and Amtrac and 2 more. Browse upcoming dates, start times and who's playing. 103 Gaunt St, London SE1 6DP.
 
@@ -23,4 +23,4 @@ Ministry Of Sound is a music venue in London listed on soundcheck. 27 upcoming n
 
 103 Gaunt St, London SE1 6DP, London
 
-*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/ministry-of-sound/)*
+*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/ministry-of-sound/)*

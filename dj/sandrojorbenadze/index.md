@@ -1,6 +1,6 @@
 # Sandro Jorbenadze
 
-Sandro Jorbenadze is a House and Trance artist with 1 upcoming club date listed on soundcheck as of Wed, 9 Sept 2026, next at Loco Park, Tbilisi on Fri, 2 Oct 2026.
+Sandro Jorbenadze is a House and Trance artist with 1 upcoming club date listed on soundcheck as of Thu, 10 Sept 2026, next at Loco Park, Tbilisi on Fri, 2 Oct 2026.
 
 Sandro Jorbenadze is a house and trance artist based in Ukraine, tracked on soundcheck, with 35 sets logged across Barcelona and Tbilisi. Often billed alongside Vakho, Zurkin and Bero. Next up: Loco Park, Tbilisi on Fri 2 Oct.
 
@@ -25,4 +25,4 @@ Sandro Jorbenadze is a house and trance artist based in Ukraine, tracked on soun
 
 Vakho, Zurkin, Bero
 
-*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sandrojorbenadze/)*
+*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sandrojorbenadze/)*

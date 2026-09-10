@@ -1,6 +1,6 @@
 # Kimmingi
 
-Kimmingi is a House and Electro artist with 2 upcoming club dates listed on soundcheck as of Wed, 9 Sept 2026, next at Stoked&stoned, Seoul on Mon, 7 Sept 2026.
+Kimmingi is a House and Electro artist with 2 upcoming club dates listed on soundcheck as of Thu, 10 Sept 2026, next at Stoked&stoned, Seoul on Mon, 7 Sept 2026.
 
 Kimmingi is a house and electro artist based in South Korea, tracked on soundcheck, with 112 sets logged across Seoul. Often billed alongside JNS, Nitecaps and Mihak. Next up: Stoked&stoned, Seoul on Mon 7 Sept.
 
@@ -26,4 +26,4 @@ Kimmingi is a house and electro artist based in South Korea, tracked on soundche
 
 JNS, Nitecaps, Mihak
 
-*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kimmingi/)*
+*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kimmingi/)*

@@ -1,6 +1,6 @@
 # James Poole
 
-James Poole is a Minimal and House artist with 2 upcoming club dates listed on soundcheck as of Wed, 9 Sept 2026, next at 528 Ibiza, Ibiza on Fri, 2 Oct 2026.
+James Poole is a Minimal and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 10 Sept 2026, next at 528 Ibiza, Ibiza on Fri, 2 Oct 2026.
 
 James Poole is a minimal and house artist based in United Kingdom, tracked on soundcheck, with 3 sets logged across Ibiza, Manchester and Sheffield. Often billed alongside Ryan Nicholls, Archie Hamilton and Ben Murphy. Next up: 528 Ibiza, Ibiza on Fri 2 Oct.
 
@@ -19,4 +19,4 @@ James Poole is a minimal and house artist based in United Kingdom, tracked on so
 
 Ryan Nicholls, Archie Hamilton, Ben Murphy
 
-*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jamespoole/)*
+*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jamespoole/)*

@@ -1,8 +1,8 @@
 # Avo (ES)
 
-Avo (ES) is a Electronica and House artist with 3 upcoming club dates listed on soundcheck as of Wed, 9 Sept 2026, next at TBA - Secret Location (Madrid), Madrid on Sat, 12 Sept 2026.
+Avo (ES) is a House and Electronica artist with 4 upcoming club dates listed on soundcheck as of Thu, 10 Sept 2026, next at TBA - Secret Location (Madrid), Madrid on Sat, 12 Sept 2026.
 
-Avo (ES) is an electronica and house artist tracked on soundcheck, with 68 sets logged across Barcelona, Berlin, Chicago and London and 5 more. Often billed alongside Cesc (ES), DANIL0 and Jorge Escribano. Next up: TBA - Secret Location (Madrid), Madrid on Sat 12 Sept.
+Avo (ES) is a house and electronica artist tracked on soundcheck, with 69 sets logged across Barcelona, Berlin, Chicago and London and 6 more. Often billed alongside Cesc (ES), DANIL0 and Jorge Escribano. Next up: TBA - Secret Location (Madrid), Madrid on Sat 12 Sept.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Avo (ES) is an electronica and house artist tracked on soundcheck, with 68 sets 
 | --- | --- | --- |
 | Sat, 12 Sept 2026 | TBA - Secret Location (Madrid) | Madrid |
 | Fri, 25 Sept 2026 | Cadavra | Madrid |
+| Fri, 25 Sept 2026 | feedbk | New York City |
 | Fri, 2 Oct 2026 | LFO.exp | Madrid |
 
 ## Recently played
@@ -27,4 +28,4 @@ Avo (ES) is an electronica and house artist tracked on soundcheck, with 68 sets 
 
 Cesc (ES), DANIL0, Jorge Escribano
 
-*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/avo-es/)*
+*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/avo-es/)*

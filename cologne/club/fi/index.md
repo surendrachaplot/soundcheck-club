@@ -1,8 +1,8 @@
 # fi
 
-fi is a music venue in Cologne with 7 upcoming nights listed on soundcheck as of Wed, 9 Sept 2026; the next is "fi Garten x Langer Tag x Karotte & Komm raven & Myzel" on Sat, 12 Sept 2026.
+fi is a music venue in Cologne with 8 upcoming nights listed on soundcheck as of Thu, 10 Sept 2026; the next is "fi Garten x Langer Tag x Karotte & Komm raven & Myzel" on Sat, 12 Sept 2026.
 
-fi is a music venue in Cologne listed on soundcheck. 7 upcoming nights, with line-ups including Ada, alleira, Arninho and Chlär and 2 more. Browse upcoming dates, start times and who's playing. Widdersdorfer Straße 246, 50825 Köln, Deutschland.
+fi is a music venue in Cologne listed on soundcheck. 8 upcoming nights, with line-ups including 909 RACING TEAM, Ada, alleira and Arninho and 2 more. Browse upcoming dates, start times and who's playing. Widdersdorfer Straße 246, 50825 Köln, Deutschland.
 
 ## What's on
 
@@ -13,6 +13,7 @@ fi is a music venue in Cologne listed on soundcheck. 7 upcoming nights, with lin
 | Sat, 26 Sept 2026 | fi x u.r. trax & Phonovision & Flinta*Tunes | Arninho, HiHat, alleira, u.r.trax |
 | Fri, 2 Oct 2026 | Aura with Chlär | Chlär |
 | Sat, 3 Oct 2026 | fi x Patrick Mason & Loveselectors | DJ ASS TITS, Juni, Patrick Mason, Rafiki, zinho |
+| Fri, 9 Oct 2026 | fi x LAMMER & Wetdreams & SoundSound | 909 RACING TEAM, Carl Bergé, LAMMER, Lizzle, Mismatch Cologne, Vagabund, alleira |
 | Sat, 17 Oct 2026 | fi x Kollektiv Turmstrasse & Jonathan Kaspar & friendly Connections | Jonathan Kaspar, Kollektiv Turmstrasse |
 | Fri, 4 Dec 2026 | Aura with SHDW all night long | SHDW |
 
@@ -20,4 +21,4 @@ fi is a music venue in Cologne listed on soundcheck. 7 upcoming nights, with lin
 
 Widdersdorfer Straße 246, 50825 Köln, Deutschland, Cologne
 
-*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/cologne/club/fi/)*
+*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/cologne/club/fi/)*

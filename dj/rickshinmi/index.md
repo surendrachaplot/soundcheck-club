@@ -1,6 +1,6 @@
 # Rickshinmi
 
-Rickshinmi is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 9 Sept 2026, next at TBA -    Kodamanomori Camp Ground, Nagano, Tokyo on Fri, 11 Sept 2026.
+Rickshinmi is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 10 Sept 2026, next at TBA -    Kodamanomori Camp Ground, Nagano, Tokyo on Fri, 11 Sept 2026.
 
 Rickshinmi is a techno and house artist tracked on soundcheck, with 59 sets logged across Seoul and Tokyo. Often billed alongside EMILIO (3), EVE (1) and savezearth. Next up: TBA -    Kodamanomori Camp Ground, Nagano, Tokyo on Fri 11 Sept.
 
@@ -25,4 +25,4 @@ Rickshinmi is a techno and house artist tracked on soundcheck, with 59 sets logg
 
 EMILIO (3), EVE (1), savezearth
 
-*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/rickshinmi/)*
+*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/rickshinmi/)*

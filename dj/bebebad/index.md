@@ -1,6 +1,6 @@
 # bebe bad
 
-bebe bad is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 9 Sept 2026, next at SISSI'S Amsterdam, Amsterdam on Sat, 24 Oct 2026.
+bebe bad is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 10 Sept 2026, next at SISSI'S Amsterdam, Amsterdam on Sat, 24 Oct 2026.
 
 bebe bad is a house and techno artist based in Netherlands, tracked on soundcheck, with 50 sets logged across Amsterdam, Rotterdam and Utrecht. Often billed alongside Doppelgang, BELLA (NL) and SAIDAH. Next up: SISSI'S Amsterdam, Amsterdam on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ bebe bad is a house and techno artist based in Netherlands, tracked on soundchec
 
 Doppelgang, BELLA (NL), SAIDAH
 
-*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bebebad/)*
+*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bebebad/)*

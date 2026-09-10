@@ -1,6 +1,6 @@
 # La Paloma
 
-La Paloma is a music venue in Barcelona with 7 upcoming nights listed on soundcheck as of Wed, 9 Sept 2026; the next is "La Paloma presents: DJ-Kicks with TEED + Fred P + Nicole.Aiff" on Fri, 11 Sept 2026.
+La Paloma is a music venue in Barcelona with 7 upcoming nights listed on soundcheck as of Thu, 10 Sept 2026; the next is "La Paloma presents: DJ-Kicks with TEED + Fred P + Nicole.Aiff" on Fri, 11 Sept 2026.
 
 La Paloma is a music venue in Barcelona listed on soundcheck. 7 upcoming nights, with line-ups including acidheaven, Acidnena, Ale Hope and ALOT and 2 more. Browse upcoming dates, start times and who's playing. Calle Tigre 27, 08001 Barcelona.
 
@@ -20,4 +20,4 @@ La Paloma is a music venue in Barcelona listed on soundcheck. 7 upcoming nights,
 
 Calle Tigre 27, 08001 Barcelona, Barcelona
 
-*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/la-paloma/)*
+*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/la-paloma/)*

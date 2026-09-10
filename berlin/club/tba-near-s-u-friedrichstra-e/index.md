@@ -1,6 +1,6 @@
 # TBA - Near S+U Friedrichstraße
 
-TBA - Near S+U Friedrichstraße is a music venue in Berlin with 1 upcoming night listed on soundcheck as of Wed, 9 Sept 2026; the next is "TBA - xXETEXx meets FeelNature" on Sat, 10 Oct 2026.
+TBA - Near S+U Friedrichstraße is a music venue in Berlin with 1 upcoming night listed on soundcheck as of Thu, 10 Sept 2026; the next is "TBA - xXETEXx meets FeelNature" on Sat, 10 Oct 2026.
 
 TBA - Near S+U Friedrichstraße is a music venue in Berlin listed on soundcheck. 1 upcoming night. Browse upcoming dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ TBA - Near S+U Friedrichstraße is a music venue in Berlin listed on soundcheck.
 | --- | --- | --- |
 | Sat, 10 Oct 2026 | TBA - xXETEXx meets FeelNature |  |
 
-*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/tba-near-s-u-friedrichstra-e/)*
+*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/tba-near-s-u-friedrichstra-e/)*

@@ -1,14 +1,16 @@
 # Mtvare
 
-Mtvare is a Trance and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 9 Sept 2026, next at Meteor Studio, Tbilisi on Fri, 11 Sept 2026.
+Mtvare is a Trance and Techno artist with 3 upcoming club dates listed on soundcheck as of Thu, 10 Sept 2026, next at Meteor Studio, Tbilisi on Fri, 11 Sept 2026.
 
-Mtvare is a trance and techno artist tracked on soundcheck, with 77 sets logged across Berlin, Budapest, Lisbon and Madrid and 1 more. Often billed alongside Trotsky, Sevda and Gio Shengelia. Next up: Meteor Studio, Tbilisi on Fri 11 Sept.
+Mtvare is a trance and techno artist tracked on soundcheck, with 79 sets logged across Berlin, Budapest, Lisbon and Madrid and 1 more. Often billed alongside Trotsky, Gio Shengelia and Sevda. Next up: Meteor Studio, Tbilisi on Fri 11 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 11 Sept 2026 | Meteor Studio | Tbilisi |
+| Fri, 25 Sept 2026 | KHIDI | Tbilisi |
+| Fri, 2 Oct 2026 | Bassiani | Tbilisi |
 
 ## Recently played
 
@@ -23,6 +25,6 @@ Mtvare is a trance and techno artist tracked on soundcheck, with 77 sets logged 
 
 ## Shares bills with
 
-Trotsky, Sevda, Gio Shengelia
+Trotsky, Gio Shengelia, Sevda
 
-*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mtvare/)*
+*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mtvare/)*

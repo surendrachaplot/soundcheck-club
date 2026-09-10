@@ -1,6 +1,6 @@
 # Xana
 
-Xana is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 9 Sept 2026, next at Jolene Downtown Miami, Miami on Thu, 10 Sept 2026.
+Xana is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 10 Sept 2026, next at Jolene Downtown Miami, Miami on Thu, 10 Sept 2026.
 
 Xana is a techno and house artist based in Malaysia, tracked on soundcheck, with 14 sets logged across Kualalumpur, Miami and Tokyo. Often billed alongside 1-800-Lolita, SATURNSARii and Mai iachetti. Next up: Jolene Downtown Miami, Miami on Thu 10 Sept.
 
@@ -25,4 +25,4 @@ Xana is a techno and house artist based in Malaysia, tracked on soundcheck, with
 
 1-800-Lolita, SATURNSARii, Mai iachetti
 
-*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/xana/)*
+*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/xana/)*

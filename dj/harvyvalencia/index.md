@@ -1,13 +1,14 @@
 # Harvy Valencia
 
-Harvy Valencia is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Wed, 9 Sept 2026, next at INPUT High Fidelity Dance Club, Barcelona on Fri, 25 Sept 2026.
+Harvy Valencia is a Tech House and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 10 Sept 2026, next at Fitz Mallorca, Mallorca on Fri, 18 Sept 2026.
 
-Harvy Valencia is a tech house and house artist tracked on soundcheck, with 48 sets logged across Amsterdam, Austin, Barcelona and Chicago and 9 more. Often billed alongside Mason Collective, Miluhska and Ms. Mada. Next up: INPUT High Fidelity Dance Club, Barcelona on Fri 25 Sept.
+Harvy Valencia is a tech house and house artist tracked on soundcheck, with 49 sets logged across Amsterdam, Austin, Barcelona and Chicago and 9 more. Often billed alongside Mason Collective, Miluhska and Ms. Mada. Next up: Fitz Mallorca, Mallorca on Fri 18 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 18 Sept 2026 | Fitz Mallorca | Mallorca |
 | Fri, 25 Sept 2026 | INPUT High Fidelity Dance Club | Barcelona |
 
 ## Recently played
@@ -25,4 +26,4 @@ Harvy Valencia is a tech house and house artist tracked on soundcheck, with 48 s
 
 Mason Collective, Miluhska, Ms. Mada
 
-*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/harvyvalencia/)*
+*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/harvyvalencia/)*

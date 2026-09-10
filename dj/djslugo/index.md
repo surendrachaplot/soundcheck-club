@@ -1,14 +1,15 @@
 # DJ Slugo
 
-DJ Slugo is a Ghetto Tech and House artist with 2 upcoming club dates listed on soundcheck as of Wed, 9 Sept 2026, next at White Owl Social Club, Portland on Sun, 13 Sept 2026.
+DJ Slugo is a Ghetto Tech and House artist with 3 upcoming club dates listed on soundcheck as of Thu, 10 Sept 2026, next at White Owl Social Club, Portland on Sun, 13 Sept 2026.
 
-DJ Slugo is a ghetto tech and house artist tracked on soundcheck, with 69 sets logged across Amsterdam, Boston, Chicago and Detroit and 11 more. Often billed alongside Traxman, DJ Clent and DJ Godfather. Next up: White Owl Social Club, Portland on Sun 13 Sept.
+DJ Slugo is a ghetto tech and house artist tracked on soundcheck, with 70 sets logged across Amsterdam, Boston, Chicago and Detroit and 11 more. Often billed alongside Traxman, DJ Clent and DJ Godfather. Next up: White Owl Social Club, Portland on Sun 13 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sun, 13 Sept 2026 | White Owl Social Club | Portland |
+| Sat, 3 Oct 2026 | Paragon | New York City |
 | Fri, 16 Oct 2026 | NUMBER 90 LONDON | London |
 
 ## Recently played
@@ -26,4 +27,4 @@ DJ Slugo is a ghetto tech and house artist tracked on soundcheck, with 69 sets l
 
 Traxman, DJ Clent, DJ Godfather
 
-*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djslugo/)*
+*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djslugo/)*

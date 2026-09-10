@@ -1,13 +1,13 @@
 # TBA - 16915 Darnestown Road, Boyds, Maryland 20841
 
-TBA - 16915 Darnestown Road, Boyds, Maryland 20841 is a music venue in Washington DC with 1 upcoming night listed on soundcheck as of Wed, 9 Sept 2026; the next is "FORMA FESTIVAL 2026" on Sat, 17 Oct 2026.
+TBA - 16915 Darnestown Road, Boyds, Maryland 20841 is a music venue in Washington DC with 1 upcoming night listed on soundcheck as of Thu, 10 Sept 2026; the next is "FORMA FESTIVAL 2026" on Sat, 17 Oct 2026.
 
-TBA - 16915 Darnestown Road, Boyds, Maryland 20841 is a music venue in Washingtondc listed on soundcheck. 1 upcoming night, with line-ups including Adrian Hex, Chris Lock, Dustin Zahn and Ether Pleaser and 2 more. Browse upcoming dates, start times and who's playing.
+TBA - 16915 Darnestown Road, Boyds, Maryland 20841 is a music venue in Washingtondc listed on soundcheck. 1 upcoming night, with line-ups including Adrian Hex, Chris Lock, Constructible and Dustin Zahn and 2 more. Browse upcoming dates, start times and who's playing.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 17 Oct 2026 | FORMA FESTIVAL 2026 | Adrian Hex, Chris Lock, Dustin Zahn, Ether Pleaser, JADE CAO, Lady Starlight, Lindsey Herbert, Luke Hess, Marteka Fair, N3urodegenerate, Ron Jackson, STE-VÍ, TonalTheory, Vitalik, jay york, renai, secret handshake |
+| Sat, 17 Oct 2026 | FORMA FESTIVAL 2026 | Adrian Hex, Chris Lock, Constructible, Dustin Zahn, Ether Pleaser, JADE CAO, Jorge Sanders, Lady Starlight, Lindsey Herbert, Luke Hess, Marie Ann Hedonia, Marteka Fair, Matthew Cha, N3urodegenerate, Ri Caragol, Ron Jackson, STE-VÍ, STUKES, San Huan, TonalTheory, Vitalik, jay york, renai, secret handshake |
 
-*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/washingtondc/club/tba-16915-darnestown-road-boyds-maryland-20841/)*
+*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/washingtondc/club/tba-16915-darnestown-road-boyds-maryland-20841/)*

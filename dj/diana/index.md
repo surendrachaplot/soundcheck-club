@@ -1,13 +1,14 @@
 # DIANA
 
-DIANA is a House and Electronica artist with 1 upcoming club date listed on soundcheck as of Wed, 9 Sept 2026, next at TBA - Balagan, Rome on Fri, 18 Sept 2026.
+DIANA is a House and Deep House artist with 2 upcoming club dates listed on soundcheck as of Thu, 10 Sept 2026, next at The Chemist, Boston on Fri, 11 Sept 2026.
 
-DIANA is a house and electronica artist based in Italy, tracked on soundcheck, with 32 sets logged across Barcelona, Berlin, Boston and Milan and 2 more. Often billed alongside Lorenzo Dada, Leo Benassi and MANZI!. Next up: TBA - Balagan, Rome on Fri 18 Sept.
+DIANA is a house and deep house artist based in Italy, tracked on soundcheck, with 33 sets logged across Barcelona, Berlin, Boston and Milan and 2 more. Often billed alongside Lorenzo Dada, Leo Benassi and MANZI!. Next up: The Chemist, Boston on Fri 11 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 11 Sept 2026 | The Chemist | Boston |
 | Fri, 18 Sept 2026 | TBA - Balagan | Rome |
 
 ## Recently played
@@ -25,4 +26,4 @@ DIANA is a house and electronica artist based in Italy, tracked on soundcheck, w
 
 Lorenzo Dada, Leo Benassi, MANZI!
 
-*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/diana/)*
+*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/diana/)*

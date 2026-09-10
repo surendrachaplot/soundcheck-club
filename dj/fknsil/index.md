@@ -1,6 +1,6 @@
 # FKNSIL
 
-FKNSIL is a Techno and Hardcore artist with 1 upcoming club date listed on soundcheck as of Wed, 9 Sept 2026, next at Puma Käfig Berlin, Berlin on Fri, 11 Sept 2026.
+FKNSIL is a Techno and Hardcore artist with 1 upcoming club date listed on soundcheck as of Thu, 10 Sept 2026, next at Puma Käfig Berlin, Berlin on Fri, 11 Sept 2026.
 
 FKNSIL is a techno and hardcore artist based in Germany, tracked on soundcheck, with 8 sets logged across Berlin. Often billed alongside RuBi., mølly (on molly) and SALCHIKILLER. Next up: Puma Käfig Berlin, Berlin on Fri 11 Sept.
 
@@ -24,4 +24,4 @@ FKNSIL is a techno and hardcore artist based in Germany, tracked on soundcheck, 
 
 RuBi., mølly (on molly), SALCHIKILLER
 
-*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/fknsil/)*
+*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/fknsil/)*

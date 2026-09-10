@@ -1,6 +1,6 @@
 # NYXEA
 
-NYXEA is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Wed, 9 Sept 2026, next at Puma Käfig Berlin, Berlin on Fri, 2 Oct 2026.
+NYXEA is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Thu, 10 Sept 2026, next at Puma Käfig Berlin, Berlin on Fri, 2 Oct 2026.
 
 NYXEA is a techno and trance artist based in Germany, tracked on soundcheck, with 12 sets logged across Berlin. Often billed alongside RHYTMOX, Texo and CARGO (DE). Next up: Puma Käfig Berlin, Berlin on Fri 2 Oct.
 
@@ -26,4 +26,4 @@ NYXEA is a techno and trance artist based in Germany, tracked on soundcheck, wit
 
 RHYTMOX, Texo, CARGO (DE)
 
-*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nyxea/)*
+*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nyxea/)*

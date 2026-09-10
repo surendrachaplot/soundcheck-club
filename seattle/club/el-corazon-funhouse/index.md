@@ -1,6 +1,6 @@
 # El Corazon/Funhouse
 
-El Corazon/Funhouse is a music venue in Seattle with 1 upcoming night listed on soundcheck as of Wed, 9 Sept 2026; the next is "Kommunity Nights" on Fri, 2 Oct 2026.
+El Corazon/Funhouse is a music venue in Seattle with 1 upcoming night listed on soundcheck as of Thu, 10 Sept 2026; the next is "Kommunity Nights" on Fri, 2 Oct 2026.
 
 El Corazon/Funhouse is a music venue in Seattle listed on soundcheck. 1 upcoming night. Browse upcoming dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ El Corazon/Funhouse is a music venue in Seattle listed on soundcheck. 1 upcoming
 | --- | --- | --- |
 | Fri, 2 Oct 2026 | Kommunity Nights |  |
 
-*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/seattle/club/el-corazon-funhouse/)*
+*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/seattle/club/el-corazon-funhouse/)*

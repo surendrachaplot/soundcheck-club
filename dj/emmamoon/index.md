@@ -1,14 +1,15 @@
 # Emma Moon
 
-Emma Moon is a Techno and Trance artist with 3 upcoming club dates listed on soundcheck as of Wed, 9 Sept 2026, next at TBA - Fohrstraat, 9000 Gent, België, Ghent on Sat, 26 Sept 2026.
+Emma Moon is a Techno and Trance artist with 4 upcoming club dates listed on soundcheck as of Thu, 10 Sept 2026, next at TBA - Fohrstraat, 9000 Gent, België, Ghent on Sat, 26 Sept 2026.
 
-Emma Moon is a techno and trance artist tracked on soundcheck, with 52 sets logged across Amsterdam, Ghent, Leipzig and Melbourne and 2 more. Often billed alongside Garfie, Pleasant Michelle and 2HOT2PLAY. Next up: TBA - Fohrstraat, 9000 Gent, België, Ghent on Sat 26 Sept.
+Emma Moon is a techno and trance artist tracked on soundcheck, with 53 sets logged across Amsterdam, Berlin, Ghent and Leipzig and 3 more. Often billed alongside Garfie, Pleasant Michelle and 2HOT2PLAY. Next up: TBA - Fohrstraat, 9000 Gent, België, Ghent on Sat 26 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 26 Sept 2026 | TBA - Fohrstraat, 9000 Gent, België | Ghent |
+| Sat, 10 Oct 2026 | Humboldthain Club | Berlin |
 | Sat, 17 Oct 2026 | Pica (Port Melbourne Industrial Centre for the Arts) | Melbourne |
 | Sat, 17 Oct 2026 | The Ivy | Sydney |
 
@@ -27,4 +28,4 @@ Emma Moon is a techno and trance artist tracked on soundcheck, with 52 sets logg
 
 Garfie, Pleasant Michelle, 2HOT2PLAY
 
-*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/emmamoon/)*
+*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/emmamoon/)*

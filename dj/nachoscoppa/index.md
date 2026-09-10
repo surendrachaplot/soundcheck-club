@@ -1,6 +1,6 @@
 # nachoscoppa
 
-nachoscoppa is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Wed, 9 Sept 2026, next at TBA - Palacio de la Reconquista, Microcentro, Buenos Aires on Fri, 25 Sept 2026.
+nachoscoppa is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Thu, 10 Sept 2026, next at TBA - Palacio de la Reconquista, Microcentro, Buenos Aires on Fri, 25 Sept 2026.
 
 nachoscoppa is a tech house and house artist tracked on soundcheck, with 18 sets logged across Amsterdam, Barcelona, Buenosaires and Ibiza and 3 more. Often billed alongside Cuartero, Easttown and Jay de Lys. Next up: TBA - Palacio de la Reconquista, Microcentro, Buenosaires on Fri 25 Sept.
 
@@ -25,4 +25,4 @@ nachoscoppa is a tech house and house artist tracked on soundcheck, with 18 sets
 
 Cuartero, Easttown, Jay de Lys
 
-*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nachoscoppa/)*
+*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nachoscoppa/)*

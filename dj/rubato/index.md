@@ -1,6 +1,6 @@
 # Rubato
 
-Rubato is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 9 Sept 2026, next at Casa Corona Seoul, Seoul on Thu, 10 Sept 2026.
+Rubato is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 10 Sept 2026, next at Casa Corona Seoul, Seoul on Thu, 10 Sept 2026.
 
 Rubato is a house and techno artist based in South Korea, tracked on soundcheck, with 18 sets logged across Seoul. Often billed alongside Kataploks, Bagagee Viphex13 and Jamjari. Next up: Casa Corona Seoul, Seoul on Thu 10 Sept.
 
@@ -26,4 +26,4 @@ Rubato is a house and techno artist based in South Korea, tracked on soundcheck,
 
 Kataploks, Bagagee Viphex13, Jamjari
 
-*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/rubato/)*
+*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/rubato/)*

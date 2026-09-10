@@ -1,6 +1,6 @@
 # Joris Delacroix
 
-Joris Delacroix is a Techno and Tech House artist with 2 upcoming club dates listed on soundcheck as of Wed, 9 Sept 2026, next at Fuse, Brussels on Sat, 19 Sept 2026.
+Joris Delacroix is a Techno and Tech House artist with 2 upcoming club dates listed on soundcheck as of Thu, 10 Sept 2026, next at Fuse, Brussels on Sat, 19 Sept 2026.
 
 Joris Delacroix is a techno and tech house artist based in France, tracked on soundcheck, with 41 sets logged across Amsterdam, Berlin, Brussels and Geneva and 11 more. Often billed alongside Joachim Pastor, Teho and Acid Arab. Next up: Fuse, Brussels on Sat 19 Sept.
 
@@ -26,4 +26,4 @@ Joris Delacroix is a techno and tech house artist based in France, tracked on so
 
 Joachim Pastor, Teho, Acid Arab
 
-*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jorisdelacroix/)*
+*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jorisdelacroix/)*

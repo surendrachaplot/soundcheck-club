@@ -1,14 +1,15 @@
 # Baron
 
-Baron is a House and Afro House artist with 1 upcoming club date listed on soundcheck as of Wed, 9 Sept 2026, next at Chinois Ibiza, Ibiza on Sun, 13 Sept 2026.
+Baron is a House and Afro House artist with 2 upcoming club dates listed on soundcheck as of Thu, 10 Sept 2026, next at Chinois Ibiza, Ibiza on Sun, 13 Sept 2026.
 
-Baron is a house and afro house artist based in France, tracked on soundcheck, with 5 sets logged across Berlin, Ibiza, London and Mykonos and 1 more. Often billed alongside Dorian Craft, Asch Pintura and Bedouin. Next up: Chinois Ibiza, Ibiza on Sun 13 Sept.
+Baron is a house and afro house artist based in France, tracked on soundcheck, with 6 sets logged across Amsterdam, Berlin, Ibiza and London and 2 more. Often billed alongside Dorian Craft, Bedouin and Asch Pintura. Next up: Chinois Ibiza, Ibiza on Sun 13 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sun, 13 Sept 2026 | Chinois Ibiza | Ibiza |
+| Sun, 25 Oct 2026 | Crane Hotel Faralda | Amsterdam |
 
 ## Recently played
 
@@ -19,6 +20,6 @@ Baron is a house and afro house artist based in France, tracked on soundcheck, w
 
 ## Shares bills with
 
-Dorian Craft, Asch Pintura, Bedouin
+Dorian Craft, Bedouin, Asch Pintura
 
-*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/baron-fr/)*
+*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/baron-fr/)*

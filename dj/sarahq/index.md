@@ -1,6 +1,6 @@
 # Sarah Q
 
-Sarah Q is a Bass and Garage artist with 2 upcoming club dates listed on soundcheck as of Wed, 9 Sept 2026, next at Haus73, Hamburg on Fri, 11 Sept 2026.
+Sarah Q is a Bass and Garage artist with 2 upcoming club dates listed on soundcheck as of Thu, 10 Sept 2026, next at Haus73, Hamburg on Fri, 11 Sept 2026.
 
 Sarah Q is a bass and garage artist based in Germany, tracked on soundcheck, with 40 sets logged across Hamburg. Often billed alongside Usus, Freddy Kuno and Selsela. Next up: Haus73, Hamburg on Fri 11 Sept.
 
@@ -26,4 +26,4 @@ Sarah Q is a bass and garage artist based in Germany, tracked on soundcheck, wit
 
 Usus, Freddy Kuno, Selsela
 
-*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sarahq/)*
+*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sarahq/)*

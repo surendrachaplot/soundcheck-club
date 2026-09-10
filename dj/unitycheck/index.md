@@ -1,6 +1,6 @@
 # UNITYCHECK
 
-UNITYCHECK is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Wed, 9 Sept 2026, next at Elysian Park, Los Angeles on Sun, 13 Sept 2026.
+UNITYCHECK is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Thu, 10 Sept 2026, next at Elysian Park, Los Angeles on Sun, 13 Sept 2026.
 
 UNITYCHECK is a house and deep house artist based in United States of America, tracked on soundcheck, with 13 sets logged across Losangeles. Often billed alongside Mr. Fowler, Mr Anderson and Jarren. Next up: Elysian Park, Losangeles on Sun 13 Sept.
 
@@ -25,4 +25,4 @@ UNITYCHECK is a house and deep house artist based in United States of America, t
 
 Mr. Fowler, Mr Anderson, Jarren
 
-*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/unitycheck/)*
+*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/unitycheck/)*

@@ -1,6 +1,6 @@
 # Afshin
 
-Afshin is a House and Disco artist with 3 upcoming club dates listed on soundcheck as of Wed, 9 Sept 2026, next at Djoon, Paris on Sat, 12 Sept 2026.
+Afshin is a House and Disco artist with 3 upcoming club dates listed on soundcheck as of Thu, 10 Sept 2026, next at Djoon, Paris on Sat, 12 Sept 2026.
 
 Afshin is a house and disco artist based in France, tracked on soundcheck, with 67 sets logged across Amsterdam, Barcelona, Berlin and Lisbon and 5 more. Often billed alongside Greg Gauthier, Kapela and Karlainthemix. Next up: Djoon, Paris on Sat 12 Sept.
 
@@ -27,4 +27,4 @@ Afshin is a house and disco artist based in France, tracked on soundcheck, with 
 
 Greg Gauthier, Kapela, Karlainthemix
 
-*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/afshin/)*
+*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/afshin/)*

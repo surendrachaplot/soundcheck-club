@@ -1,6 +1,6 @@
 # Kømplex Lisbon
 
-Kømplex Lisbon is a music venue in Lisbon with 1 upcoming night listed on soundcheck as of Wed, 9 Sept 2026; the next is "Monsters League with Anoluxx [USA]" on Fri, 11 Sept 2026.
+Kømplex Lisbon is a music venue in Lisbon with 1 upcoming night listed on soundcheck as of Thu, 10 Sept 2026; the next is "Monsters League with Anoluxx [USA]" on Fri, 11 Sept 2026.
 
 Kømplex Lisbon is a music venue in Lisbon listed on soundcheck. 1 upcoming night, with line-ups including Pharah and Trik (2). Browse upcoming dates, start times and who's playing. Praceta Domingos Rodrigues Nr5 2685-327 Lisbon.
 
@@ -14,4 +14,4 @@ Kømplex Lisbon is a music venue in Lisbon listed on soundcheck. 1 upcoming nigh
 
 Praceta Domingos Rodrigues Nr5 2685-327 Lisbon, Lisbon
 
-*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/lisbon/club/k-mplex-lisbon/)*
+*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/lisbon/club/k-mplex-lisbon/)*

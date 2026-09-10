@@ -1,14 +1,14 @@
 # Anna Wall
 
-Anna Wall is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Wed, 9 Sept 2026, next at TBA, London on Sat, 12 Sept 2026.
+Anna Wall is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Thu, 10 Sept 2026, next at Cellar, London on Sat, 12 Sept 2026.
 
-Anna Wall is a house and techno artist tracked on soundcheck, with 113 sets logged across Amsterdam, Antwerp, Barcelona and Belgrade and 23 more. Often billed alongside Craig Richards, Harry McCanna and Bobby.. Next up: TBA, London on Sat 12 Sept.
+Anna Wall is a house and techno artist tracked on soundcheck, with 113 sets logged across Amsterdam, Antwerp, Barcelona and Belgrade and 23 more. Often billed alongside Craig Richards, Harry McCanna and Bobby.. Next up: Cellar, London on Sat 12 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 12 Sept 2026 | TBA | London |
+| Sat, 12 Sept 2026 | Cellar | London |
 | Sat, 17 Oct 2026 | fabric | London |
 | Sat, 7 Nov 2026 | Cadavra | Madrid |
 
@@ -27,4 +27,4 @@ Anna Wall is a house and techno artist tracked on soundcheck, with 113 sets logg
 
 Craig Richards, Harry McCanna, Bobby.
 
-*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/annawall/)*
+*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/annawall/)*

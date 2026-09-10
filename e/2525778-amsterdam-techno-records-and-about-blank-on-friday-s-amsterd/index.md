@@ -1,6 +1,6 @@
 # Amsterdam Techno Records and ://about blank on Friday's [Amsterdam and Berlin] at ://about blank
 
-Amsterdam Techno Records and ://about blank on Friday's [Amsterdam and Berlin] on Fri 2 Oct, Berlin. 7 acts on the bill: BRT.C, cee_ohh, gãl (SI) and Jasmin Giovanazzi and 3 more. Techno. Preview the line-up and save it on soundcheck.
+Amsterdam Techno Records and ://about blank on Friday's [Amsterdam and Berlin] on Fri 2 Oct, Berlin. 8 acts on the bill: Alexis Alien, BRT.C, cee_ohh and gãl (SI) and 4 more. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ Amsterdam Techno Records and ://about blank on Friday's [Amsterdam and Berlin] o
 
 ## Line-up
 
+- Alexis Alien
 - BRT.C
 - cee_ohh
 - gãl (SI)

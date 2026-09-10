@@ -1,6 +1,6 @@
 # soraya (DE)
 
-soraya (DE) is a Bass and Club artist with 1 upcoming club date listed on soundcheck as of Wed, 9 Sept 2026, next at Alte Feuerwache THF, Berlin on Fri, 11 Sept 2026.
+soraya (DE) is a Bass and Club artist with 1 upcoming club date listed on soundcheck as of Thu, 10 Sept 2026, next at Alte Feuerwache THF, Berlin on Fri, 11 Sept 2026.
 
 soraya (DE) is a bass and club artist tracked on soundcheck, with 31 sets logged across Berlin, Brussels and Copenhagen. Often billed alongside Dmitra, Mama Yha Yha and REBE. Next up: Alte Feuerwache THF, Berlin on Fri 11 Sept.
 
@@ -25,4 +25,4 @@ soraya (DE) is a bass and club artist tracked on soundcheck, with 31 sets logged
 
 Dmitra, Mama Yha Yha, REBE
 
-*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sorayade/)*
+*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sorayade/)*

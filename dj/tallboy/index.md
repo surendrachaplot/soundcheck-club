@@ -1,6 +1,6 @@
 # Tallboy
 
-Tallboy is a Jungle and Bass artist with 2 upcoming club dates listed on soundcheck as of Wed, 9 Sept 2026, next at M.O.T, London on Fri, 9 Oct 2026.
+Tallboy is a Jungle and Bass artist with 2 upcoming club dates listed on soundcheck as of Thu, 10 Sept 2026, next at M.O.T, London on Fri, 9 Oct 2026.
 
 Tallboy is a jungle and bass artist tracked on soundcheck, with 26 sets logged across Cologne, Leeds, London and Manchester. Often billed alongside A.N.T, Marky V and MIDRIB. Next up: M.O.T, London on Fri 9 Oct.
 
@@ -26,4 +26,4 @@ Tallboy is a jungle and bass artist tracked on soundcheck, with 26 sets logged a
 
 A.N.T, Marky V, MIDRIB
 
-*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tallboy/)*
+*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tallboy/)*

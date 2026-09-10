@@ -1,14 +1,15 @@
 # Waldo
 
-Waldo is a Bass and Dubstep artist with 2 upcoming club dates listed on soundcheck as of Wed, 9 Sept 2026, next at Tempio del Futuro Perduto, Milan on Sat, 12 Sept 2026.
+Waldo is a Bass and Dubstep artist with 3 upcoming club dates listed on soundcheck as of Thu, 10 Sept 2026, next at Tempio del Futuro Perduto, Milan on Sat, 12 Sept 2026.
 
-Waldo is a bass and dubstep artist based in Italy, tracked on soundcheck, with 63 sets logged across Auckland, Berlin, Geneva and Milan. Often billed alongside Dolce Potente, Industrial Romantico and DRUM THE SYSTEM live. Next up: Tempio del Futuro Perduto, Milan on Sat 12 Sept.
+Waldo is a bass and dubstep artist based in Italy, tracked on soundcheck, with 64 sets logged across Amsterdam, Auckland, Berlin and Geneva and 1 more. Often billed alongside Dolce Potente, Industrial Romantico and Tania Kim. Next up: Tempio del Futuro Perduto, Milan on Sat 12 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 12 Sept 2026 | Tempio del Futuro Perduto | Milan |
+| Sat, 24 Oct 2026 | OT301 | Amsterdam |
 | Sat, 7 Nov 2026 | Tempio del Futuro Perduto | Milan |
 
 ## Recently played
@@ -24,6 +25,6 @@ Waldo is a bass and dubstep artist based in Italy, tracked on soundcheck, with 6
 
 ## Shares bills with
 
-Dolce Potente, Industrial Romantico, DRUM THE SYSTEM live
+Dolce Potente, Industrial Romantico, Tania Kim
 
-*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/waldo/)*
+*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/waldo/)*

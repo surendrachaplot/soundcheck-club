@@ -1,6 +1,6 @@
 # DJ Gregory
 
-DJ Gregory is a House and Afro House artist with 1 upcoming club date listed on soundcheck as of Wed, 9 Sept 2026, next at The Bongo Club, Edinburgh on Sat, 7 Nov 2026.
+DJ Gregory is a House and Afro House artist with 1 upcoming club date listed on soundcheck as of Thu, 10 Sept 2026, next at The Bongo Club, Edinburgh on Sat, 7 Nov 2026.
 
 DJ Gregory is a house and afro house artist tracked on soundcheck, with 23 sets logged across Amsterdam, Birmingham, Edinburgh and Geneva and 7 more. Often billed alongside Bob Sinclar, Laurent Garnier and Marina Trench. Next up: The Bongo Club, Edinburgh on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ DJ Gregory is a house and afro house artist tracked on soundcheck, with 23 sets 
 
 Bob Sinclar, Laurent Garnier, Marina Trench
 
-*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djgregory/)*
+*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djgregory/)*

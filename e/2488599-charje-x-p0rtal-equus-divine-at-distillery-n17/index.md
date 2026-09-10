@@ -1,6 +1,6 @@
 # CHARJE X P0RTAL: EQUUS DIVINE at Distillery N17
 
-CHARJE X P0RTAL: EQUUS DIVINE at Distillery N17 on Fri 11 Sept, London. 2 acts on the bill: Sid The Science Bitch and Stinny Stone. Techno and Electronica. Preview the line-up and save it on soundcheck.
+CHARJE X P0RTAL: EQUUS DIVINE at Distillery N17 on Fri 11 Sept, London. 3 acts on the bill: FKA Tits, Sid The Science Bitch and Stinny Stone. Techno and Electronica. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ CHARJE X P0RTAL: EQUUS DIVINE at Distillery N17 on Fri 11 Sept, London. 2 acts o
 
 ## Line-up
 
+- FKA Tits
 - Sid The Science Bitch
 - Stinny Stone
 

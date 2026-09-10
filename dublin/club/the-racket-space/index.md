@@ -1,8 +1,8 @@
 # The Racket Space
 
-The Racket Space is a music venue in Dublin with 13 upcoming nights listed on soundcheck as of Wed, 9 Sept 2026; the next is "MYTH X IMMERSIV3 PRESENTS — REIGN 001" on Fri, 11 Sept 2026.
+The Racket Space is a music venue in Dublin with 13 upcoming nights listed on soundcheck as of Thu, 10 Sept 2026; the next is "MYTH X IMMERSIV3 PRESENTS — REIGN 001" on Fri, 11 Sept 2026.
 
-The Racket Space is a music venue in Dublin listed on soundcheck. 13 upcoming nights, with line-ups including Cailín, camoufly, IsGwan and LPM (1) and 2 more. Browse upcoming dates, start times and who's playing. Cross Guns Bridge, Drumcondra, Dublin 9, D09 XW44.
+The Racket Space is a music venue in Dublin listed on soundcheck. 13 upcoming nights, with line-ups including Blimp, Cailín, camoufly and Dan J. Wilcox and 2 more. Browse upcoming dates, start times and who's playing. Cross Guns Bridge, Drumcondra, Dublin 9, D09 XW44.
 
 ## What's on
 
@@ -11,7 +11,7 @@ The Racket Space is a music venue in Dublin listed on soundcheck. 13 upcoming ni
 | Fri, 11 Sept 2026 | MYTH X IMMERSIV3 PRESENTS — REIGN 001 |  |
 | Sat, 12 Sept 2026 | Ritmic presents: D.N.A, Glockex & Soraiwa |  |
 | Thu, 17 Sept 2026 | Secret Cells Vol 1 |  |
-| Sun, 20 Sept 2026 | Mystify Creative Playground & Vinyl and Learn Workshop Season 2 | Tadhg K, Tr One |
+| Sun, 20 Sept 2026 | Mystify Creative Playground & Vinyl and Learn Workshop Season 2 (Day1/4) | Blimp, Dan J. Wilcox, Sémaé, Tadhg K, Tr One |
 | Fri, 25 Sept 2026 | DOT. presents MADVILLA | MADVILLA |
 | Sun, 27 Sept 2026 | Mystify Vinyl Learn and Perform Season 2 (Day 2/4) | Tadhg K, Tr One |
 | Sat, 3 Oct 2026 | Racket Space presents: IsGwan | IsGwan |
@@ -23,4 +23,4 @@ The Racket Space is a music venue in Dublin listed on soundcheck. 13 upcoming ni
 
 Cross Guns Bridge, Drumcondra, Dublin 9, D09 XW44, Dublin
 
-*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dublin/club/the-racket-space/)*
+*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dublin/club/the-racket-space/)*

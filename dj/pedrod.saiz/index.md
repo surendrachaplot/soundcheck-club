@@ -1,6 +1,6 @@
 # Pedro D. Saiz
 
-Pedro D. Saiz is a Electronica and Experimental artist with 1 upcoming club date listed on soundcheck as of Wed, 9 Sept 2026, next at Sala Siroco, Madrid on Thu, 10 Sept 2026.
+Pedro D. Saiz is a Electronica and Experimental artist with 1 upcoming club date listed on soundcheck as of Thu, 10 Sept 2026, next at Sala Siroco, Madrid on Thu, 10 Sept 2026.
 
 Pedro D. Saiz is an electronica and experimental artist based in Spain, tracked on soundcheck, with 20 sets logged across Barcelona, Madrid, Osaka and Seoul and 1 more. Often billed alongside Dichas, Bianca Lexis and 3rill. Next up: Sala Siroco, Madrid on Thu 10 Sept.
 
@@ -25,4 +25,4 @@ Pedro D. Saiz is an electronica and experimental artist based in Spain, tracked 
 
 Dichas, Bianca Lexis, 3rill
 
-*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/pedrod.saiz/)*
+*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/pedrod.saiz/)*

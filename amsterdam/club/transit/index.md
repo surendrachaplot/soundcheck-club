@@ -1,6 +1,6 @@
 # Transit
 
-Transit is a music venue in Amsterdam with 4 upcoming nights listed on soundcheck as of Wed, 9 Sept 2026; the next is "Jungle" on Fri, 25 Sept 2026.
+Transit is a music venue in Amsterdam with 4 upcoming nights listed on soundcheck as of Thu, 10 Sept 2026; the next is "Jungle" on Fri, 25 Sept 2026.
 
 Transit is a music venue in Amsterdam listed on soundcheck. 4 upcoming nights, with line-ups including Black Loops, Fouk, Hudson’s Choice and Jimpster and 2 more. Browse upcoming dates, start times and who's playing. Aambeeldstraat 38, 1021 KB Amsterdam.
 
@@ -17,4 +17,4 @@ Transit is a music venue in Amsterdam listed on soundcheck. 4 upcoming nights, w
 
 Aambeeldstraat 38, 1021 KB Amsterdam, Amsterdam
 
-*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/transit/)*
+*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/transit/)*

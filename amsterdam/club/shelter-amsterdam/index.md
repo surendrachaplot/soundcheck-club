@@ -1,8 +1,8 @@
 # Shelter Amsterdam
 
-Shelter Amsterdam is a music venue in Amsterdam with 19 upcoming nights listed on soundcheck as of Wed, 9 Sept 2026; the next is "Alex Wann, Benja b2b Franc Fala, Cincity" on Fri, 11 Sept 2026.
+Shelter Amsterdam is a music venue in Amsterdam with 21 upcoming nights listed on soundcheck as of Thu, 10 Sept 2026; the next is "Alex Wann, Benja b2b Franc Fala, Cincity" on Fri, 11 Sept 2026.
 
-Shelter Amsterdam is a music venue in Amsterdam listed on soundcheck. 19 upcoming nights, with line-ups including 36framez, A For Alpha, Ajuma and Alex Wann and 2 more. Browse upcoming dates, start times and who's playing. Overhoeksplein 3, 1031KS, Amsterdam.
+Shelter Amsterdam is a music venue in Amsterdam listed on soundcheck. 21 upcoming nights, with line-ups including 36framez, A For Alpha, Ajuma and Alex Wann and 2 more. Browse upcoming dates, start times and who's playing. Overhoeksplein 3, 1031KS, Amsterdam.
 
 ## What's on
 
@@ -17,10 +17,10 @@ Shelter Amsterdam is a music venue in Amsterdam listed on soundcheck. 19 upcomin
 | Sat, 3 Oct 2026 | Apontow Akyi, Joey Daniel, Rooléh | Joey Daniel, Rooléh |
 | Fri, 9 Oct 2026 | Doppelgang Birthday Session | 36framez, Bennet, Bennet (DE), Budino, Doppelgang, Sandrien |
 | Sat, 10 Oct 2026 | Entasia b2b Freddi, Moody Mehran b2b OLIVIA LENSEN | Entasia, Freddi, Gate 9, Moody Mehran, OLIVIA LENSEN, Saul |
-| Fri, 16 Oct 2026 | Crits Agency W/ nik-ey b2b Ammé, Sun Sol b2b Luis Rips | Ammé, Capra (2), DORA, ETERNAL JOE, GLEM, Khun, Luis Ripa, Mees Mattern, Renceau, nik-ey |
+| Fri, 16 Oct 2026 | Crits Agency W/ nik-ey b2b Ammé, Sun Sol b2b Luis Ripa | Ammé, Capra (2), DORA, ETERNAL JOE, GLEM, Khun, Luis Ripa, Mees Mattern, Renceau, nik-ey |
 
 ## Address
 
 Overhoeksplein 3, 1031KS, Amsterdam, Amsterdam
 
-*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/shelter-amsterdam/)*
+*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/shelter-amsterdam/)*

@@ -1,6 +1,6 @@
 # Super Fourchette
 
-Super Fourchette is a music venue in Brussels with 2 upcoming nights listed on soundcheck as of Wed, 9 Sept 2026; the next is "Fête de rentrée de Super Concert !" on Sat, 19 Sept 2026.
+Super Fourchette is a music venue in Brussels with 2 upcoming nights listed on soundcheck as of Thu, 10 Sept 2026; the next is "Fête de rentrée de Super Concert !" on Sat, 19 Sept 2026.
 
 Super Fourchette is a music venue in Brussels listed on soundcheck. 2 upcoming nights. Browse upcoming dates, start times and who's playing. Rue des Hirondelles 3, 1000 Bruxelles.
 
@@ -15,4 +15,4 @@ Super Fourchette is a music venue in Brussels listed on soundcheck. 2 upcoming n
 
 Rue des Hirondelles 3, 1000 Bruxelles, Brussels
 
-*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/brussels/club/super-fourchette/)*
+*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/brussels/club/super-fourchette/)*

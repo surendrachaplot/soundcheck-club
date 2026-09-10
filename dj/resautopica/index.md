@@ -1,6 +1,6 @@
 # RESA UTOPICA
 
-RESA UTOPICA is a Techno and Trance artist with 6 upcoming club dates listed on soundcheck as of Wed, 9 Sept 2026, next at CIRCOLO BOTULINO, Milan on Fri, 11 Sept 2026.
+RESA UTOPICA is a Techno and Trance artist with 6 upcoming club dates listed on soundcheck as of Thu, 10 Sept 2026, next at CIRCOLO BOTULINO, Milan on Fri, 11 Sept 2026.
 
 RESA UTOPICA is a techno and trance artist tracked on soundcheck, with 41 sets logged across Berlin, Ghent, Milan and Naples and 2 more. Often billed alongside DOCTOR MÜCKE, Jesooria and ELNA. Next up: CIRCOLO BOTULINO, Milan on Fri 11 Sept.
 
@@ -30,4 +30,4 @@ RESA UTOPICA is a techno and trance artist tracked on soundcheck, with 41 sets l
 
 DOCTOR MÜCKE, Jesooria, ELNA
 
-*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/resautopica/)*
+*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/resautopica/)*

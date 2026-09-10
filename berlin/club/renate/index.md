@@ -1,6 +1,6 @@
 # Renate
 
-Renate is a music venue in Berlin with 11 upcoming nights listed on soundcheck as of Wed, 9 Sept 2026; the next is "Renate Klubnacht + Open Air (Free Entry) with Solace Space" on Thu, 10 Sept 2026.
+Renate is a music venue in Berlin with 11 upcoming nights listed on soundcheck as of Thu, 10 Sept 2026; the next is "Renate Klubnacht + Open Air (Free Entry) with Solace Space" on Thu, 10 Sept 2026.
 
 Renate is a music venue in Berlin listed on soundcheck. 11 upcoming nights, with line-ups including 80HDJ, AAMIROO, ābnamā and Adam Cooke and 2 more. Browse upcoming dates, start times and who's playing. Alt Stralau 70; Friedrichshain; 10245 Berlin; Germany.
 
@@ -23,4 +23,4 @@ Renate is a music venue in Berlin listed on soundcheck. 11 upcoming nights, with
 
 Alt Stralau 70; Friedrichshain; 10245 Berlin; Germany, Berlin
 
-*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/renate/)*
+*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/renate/)*

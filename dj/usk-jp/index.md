@@ -1,14 +1,15 @@
 # Usk°
 
-Usk° is a Techno and Bass artist with 1 upcoming club date listed on soundcheck as of Wed, 9 Sept 2026, next at VENT, Tokyo on Sat, 19 Sept 2026.
+Usk° is a Techno and Bass artist with 2 upcoming club dates listed on soundcheck as of Thu, 10 Sept 2026, next at VENT, Tokyo on Sat, 19 Sept 2026.
 
-Usk° is a techno and bass artist based in Japan, tracked on soundcheck, with 40 sets logged across Tokyo. Often billed alongside manato, Yuoto Saito and SAITO. Next up: VENT, Tokyo on Sat 19 Sept.
+Usk° is a techno and bass artist based in Japan, tracked on soundcheck, with 41 sets logged across Tokyo. Often billed alongside manato, Yuoto Saito and SAITO. Next up: VENT, Tokyo on Sat 19 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 19 Sept 2026 | VENT | Tokyo |
+| Fri, 25 Sept 2026 | Saloon | Tokyo |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Usk° is a techno and bass artist based in Japan, tracked on soundcheck, with 40
 
 manato, Yuoto Saito, SAITO
 
-*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/usk-jp/)*
+*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/usk-jp/)*

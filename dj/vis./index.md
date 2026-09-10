@@ -1,6 +1,6 @@
 # Vis.
 
-Vis. is a Electro and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 9 Sept 2026, next at Malaga Sin City, Milan on Sat, 19 Sept 2026.
+Vis. is a Electro and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 10 Sept 2026, next at Malaga Sin City, Milan on Sat, 19 Sept 2026.
 
 Vis. is an electro and techno artist based in Italy, tracked on soundcheck, with 5 sets logged across Milan. Often billed alongside Buza, Virgo (3) and Audio Alchemy. Next up: Malaga Sin City, Milan on Sat 19 Sept.
 
@@ -21,4 +21,4 @@ Vis. is an electro and techno artist based in Italy, tracked on soundcheck, with
 
 Buza, Virgo (3), Audio Alchemy
 
-*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/vis./)*
+*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/vis./)*

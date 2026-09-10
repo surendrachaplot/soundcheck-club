@@ -1,6 +1,6 @@
 # Yasmine (UK)
 
-Yasmine (UK) is a Breakbeat and Jungle artist with 2 upcoming club dates listed on soundcheck as of Wed, 9 Sept 2026, next at Planet Wax, London on Sun, 13 Sept 2026.
+Yasmine (UK) is a Breakbeat and Jungle artist with 2 upcoming club dates listed on soundcheck as of Thu, 10 Sept 2026, next at Planet Wax, London on Sun, 13 Sept 2026.
 
 Yasmine (UK) is a breakbeat and jungle artist based in United Kingdom, tracked on soundcheck, with 74 sets logged across Brighton, Bristol, London and Manchester and 3 more. Often billed alongside Abby Daze, Uncle G and FROND. Next up: Planet Wax, London on Sun 13 Sept.
 
@@ -26,4 +26,4 @@ Yasmine (UK) is a breakbeat and jungle artist based in United Kingdom, tracked o
 
 Abby Daze, Uncle G, FROND
 
-*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/yasmine/)*
+*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/yasmine/)*

@@ -1,19 +1,19 @@
 # Max Shen
 
-Max Shen is a Techno and Club artist with 3 upcoming club dates listed on soundcheck as of Wed, 9 Sept 2026, next at AMT, Berlin on Wed, 9 Sept 2026.
+Max Shen is a Techno and Club artist with 2 upcoming club dates listed on soundcheck as of Thu, 10 Sept 2026, next at KitKatClub, Berlin on Fri, 11 Sept 2026.
 
-Max Shen is a techno and club artist based in China, tracked on soundcheck, with 10 sets logged across Athens, Berlin, Milan and Seoul and 2 more. Often billed alongside Mar/us, Nymed and 3.14. Next up: AMT, Berlin on Wed 9 Sept.
+Max Shen is a techno and club artist based in China, tracked on soundcheck, with 10 sets logged across Athens, Berlin, Milan and Seoul and 2 more. Often billed alongside Mar/us, Nymed and 3.14. Next up: KitKatClub, Berlin on Fri 11 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Wed, 9 Sept 2026 | AMT | Berlin |
 | Fri, 11 Sept 2026 | KitKatClub | Berlin |
 | Fri, 18 Sept 2026 | Tempio del Futuro Perduto | Milan |
 
 ## Recently played
 
+- AMT, Berlin — Wed, 9 Sept 2026
 - POTENT, Shanghai — Fri, 1 May 2026
 - OIL Club, Shenzhen — Sat, 1 Nov 2025
 - Faust, Seoul — Fri, 18 Jul 2025
@@ -26,4 +26,4 @@ Max Shen is a techno and club artist based in China, tracked on soundcheck, with
 
 Mar/us, Nymed, 3.14
 
-*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/maxshen/)*
+*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/maxshen/)*

@@ -1,6 +1,6 @@
 # Moondog Cafe
 
-Moondog Cafe is a music venue in Detroit with 4 upcoming nights listed on soundcheck as of Wed, 9 Sept 2026; the next is "SEARCH PARTY / Bileebob / JOHN FM" on Fri, 11 Sept 2026.
+Moondog Cafe is a music venue in Detroit with 4 upcoming nights listed on soundcheck as of Thu, 10 Sept 2026; the next is "SEARCH PARTY / Bileebob / JOHN FM" on Fri, 11 Sept 2026.
 
 Moondog Cafe is a music venue in Detroit listed on soundcheck. 4 upcoming nights, with line-ups including Bileebob, Detroit Bureau of Sound, John F.M. and Max Watts. Browse upcoming dates, start times and who's playing. 8045 Linwood St #2, Detroit, MI 48206.
 
@@ -17,4 +17,4 @@ Moondog Cafe is a music venue in Detroit listed on soundcheck. 4 upcoming nights
 
 8045 Linwood St #2, Detroit, MI 48206, Detroit
 
-*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/detroit/club/moondog-cafe/)*
+*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/detroit/club/moondog-cafe/)*

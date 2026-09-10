@@ -1,6 +1,6 @@
 # Naoki Fujii
 
-Naoki Fujii is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Wed, 9 Sept 2026, next at Enter Shibuya, Tokyo on Thu, 10 Sept 2026.
+Naoki Fujii is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 10 Sept 2026, next at Enter Shibuya, Tokyo on Thu, 10 Sept 2026.
 
 Naoki Fujii is a techno and house artist tracked on soundcheck, with 28 sets logged across Tokyo. Often billed alongside RINALUCKY, NAOKI and YUKIMASA. Next up: Enter Shibuya, Tokyo on Thu 10 Sept.
 
@@ -26,4 +26,4 @@ Naoki Fujii is a techno and house artist tracked on soundcheck, with 28 sets log
 
 RINALUCKY, NAOKI, YUKIMASA
 
-*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/naokifujii/)*
+*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/naokifujii/)*

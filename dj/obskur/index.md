@@ -1,14 +1,13 @@
 # Obskur
 
-Obskur is a House and Tech House artist with 11 upcoming club dates listed on soundcheck as of Wed, 9 Sept 2026, next at [UNVRS], Ibiza on Wed, 9 Sept 2026.
+Obskur is a House and Tech House artist with 10 upcoming club dates listed on soundcheck as of Thu, 10 Sept 2026, next at Openluchttheater Amersfoort, Amsterdam on Fri, 18 Sept 2026.
 
-Obskur is a house and tech house artist tracked on soundcheck, with 154 sets logged across Aberdeen, Amsterdam, Austin and Barcelona and 37 more. Often billed alongside East End Dubs, Max Dean and ALISHA. Next up: [UNVRS], Ibiza on Wed 9 Sept.
+Obskur is a house and tech house artist tracked on soundcheck, with 154 sets logged across Aberdeen, Amsterdam, Austin and Barcelona and 37 more. Often billed alongside East End Dubs, Max Dean and ALISHA. Next up: Openluchttheater Amersfoort, Amsterdam on Fri 18 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Wed, 9 Sept 2026 | [UNVRS] | Ibiza |
 | Fri, 18 Sept 2026 | Openluchttheater Amersfoort | Amsterdam |
 | Sun, 20 Sept 2026 | Brisa Open Air | Barcelona |
 | Tue, 22 Sept 2026 | Amnesia Ibiza | Ibiza |
@@ -22,6 +21,7 @@ Obskur is a house and tech house artist tracked on soundcheck, with 154 sets log
 
 ## Recently played
 
+- [UNVRS], Ibiza — Wed, 9 Sept 2026
 - Kelvedon Hall, London — Sat, 29 Aug 2026
 - Van Nelle Fabriek, Rotterdam — Sat, 29 Aug 2026
 - Pacha Ibiza, Ibiza — Fri, 28 Aug 2026
@@ -29,10 +29,9 @@ Obskur is a house and tech house artist tracked on soundcheck, with 154 sets log
 - Burgess Park, London — Sun, 9 Aug 2026
 - Hï Ibiza, Ibiza — Tue, 4 Aug 2026
 - Binks Yard, Nottingham — Sat, 1 Aug 2026
-- Steelyard Kelham, Sheffield — Sat, 1 Aug 2026
 
 ## Shares bills with
 
 East End Dubs, Max Dean, ALISHA
 
-*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/obskur/)*
+*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/obskur/)*

@@ -1,14 +1,15 @@
 # LondonGround
 
-LondonGround is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Wed, 9 Sept 2026, next at Jardins de Joan Brossa, Barcelona on Sun, 13 Sept 2026.
+LondonGround is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Thu, 10 Sept 2026, next at Jardins de Joan Brossa, Barcelona on Sun, 13 Sept 2026.
 
-LondonGround is a house and tech house artist tracked on soundcheck, with 37 sets logged across Amsterdam, Barcelona, Buenosaires and Ibiza and 2 more. Often billed alongside De La Swing, Easttown and BizZa. Next up: Jardins de Joan Brossa, Barcelona on Sun 13 Sept.
+LondonGround is a house and tech house artist tracked on soundcheck, with 38 sets logged across Amsterdam, Barcelona, Buenosaires and Ibiza and 2 more. Often billed alongside De La Swing, Easttown and BizZa. Next up: Jardins de Joan Brossa, Barcelona on Sun 13 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sun, 13 Sept 2026 | Jardins de Joan Brossa | Barcelona |
+| Fri, 2 Oct 2026 | BORIS CLUB | Barcelona |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ LondonGround is a house and tech house artist tracked on soundcheck, with 37 set
 
 De La Swing, Easttown, BizZa
 
-*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/londonground/)*
+*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/londonground/)*

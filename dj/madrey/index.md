@@ -1,8 +1,8 @@
 # Mad Rey
 
-Mad Rey is a House and Electro artist with 2 upcoming club dates listed on soundcheck as of Wed, 9 Sept 2026, next at Karmen Camina, Strasbourg on Sat, 19 Sept 2026.
+Mad Rey is a House and Electro artist with 3 upcoming club dates listed on soundcheck as of Thu, 10 Sept 2026, next at Karmen Camina, Strasbourg on Sat, 19 Sept 2026.
 
-Mad Rey is a house and electro artist tracked on soundcheck, with 57 sets logged across Berlin, Geneva, Lisbon and London and 3 more. Often billed alongside Mézigue, GGGG and Flabaire. Next up: Karmen Camina, Strasbourg on Sat 19 Sept.
+Mad Rey is a house and electro artist tracked on soundcheck, with 58 sets logged across Amsterdam, Berlin, Geneva and Lisbon and 4 more. Often billed alongside Mézigue, GGGG and Flabaire. Next up: Karmen Camina, Strasbourg on Sat 19 Sept.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Mad Rey is a house and electro artist tracked on soundcheck, with 57 sets logged
 | --- | --- | --- |
 | Sat, 19 Sept 2026 | Karmen Camina | Strasbourg |
 | Sat, 26 Sept 2026 | Lux Fragil | Lisbon |
+| Wed, 21 Oct 2026 | Radio Radio | Amsterdam |
 
 ## Recently played
 
@@ -26,4 +27,4 @@ Mad Rey is a house and electro artist tracked on soundcheck, with 57 sets logged
 
 Mézigue, GGGG, Flabaire
 
-*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/madrey/)*
+*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/madrey/)*

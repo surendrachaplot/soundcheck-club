@@ -1,6 +1,6 @@
 # DJ Nox
 
-DJ Nox is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 9 Sept 2026, next at P4 na Praia, Porto on Sun, 13 Sept 2026.
+DJ Nox is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 10 Sept 2026, next at P4 na Praia, Porto on Sun, 13 Sept 2026.
 
 DJ Nox is a techno and house artist based in Portugal, tracked on soundcheck, with 80 sets logged across Amsterdam, Geneva, Lisbon and Porto. Often billed alongside Syper, Analodjica and Gilvaia. Next up: P4 na Praia, Porto on Sun 13 Sept.
 
@@ -25,4 +25,4 @@ DJ Nox is a techno and house artist based in Portugal, tracked on soundcheck, wi
 
 Syper, Analodjica, Gilvaia
 
-*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djnox/)*
+*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djnox/)*

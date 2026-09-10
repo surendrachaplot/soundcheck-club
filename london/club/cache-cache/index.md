@@ -1,6 +1,6 @@
 # Cache Cache
 
-Cache Cache is a music venue in London with 1 upcoming night listed on soundcheck as of Wed, 9 Sept 2026; the next is "Magaziine LIVE London" on Wed, 16 Sept 2026.
+Cache Cache is a music venue in London with 1 upcoming night listed on soundcheck as of Thu, 10 Sept 2026; the next is "Magaziine LIVE London" on Wed, 16 Sept 2026.
 
 Cache Cache is a music venue in London listed on soundcheck. 1 upcoming night, with line-ups including Magaziine. Browse upcoming dates, start times and who's playing. 5 Covent Garden Piazza London, WC2E 8RA.
 
@@ -14,4 +14,4 @@ Cache Cache is a music venue in London listed on soundcheck. 1 upcoming night, w
 
 5 Covent Garden Piazza London, WC2E 8RA, London
 
-*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/cache-cache/)*
+*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/cache-cache/)*

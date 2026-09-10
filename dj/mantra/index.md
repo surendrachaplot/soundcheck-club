@@ -1,16 +1,18 @@
 # Mantra
 
-Mantra is a Jungle and Drum & Bass artist with 5 upcoming club dates listed on soundcheck as of Wed, 9 Sept 2026, next at The Old Blue Last, London on Sat, 19 Sept 2026.
+Mantra is a Jungle and Drum & Bass artist with 7 upcoming club dates listed on soundcheck as of Thu, 10 Sept 2026, next at The Old Blue Last, London on Sat, 19 Sept 2026.
 
-Mantra is a jungle and drum & bass artist tracked on soundcheck, with 149 sets logged across Amsterdam, Barcelona, Berlin and Brighton and 29 more. Often billed alongside Double O, Blackeye MC and Tim Reaper. Next up: The Old Blue Last, London on Sat 19 Sept.
+Mantra is a jungle and drum & bass artist tracked on soundcheck, with 151 sets logged across Amsterdam, Barcelona, Berlin and Brighton and 30 more. Often billed alongside Double O, Blackeye MC and Tim Reaper. Next up: The Old Blue Last, London on Sat 19 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 19 Sept 2026 | The Old Blue Last | London |
+| Fri, 25 Sept 2026 | Social Room | Hong Kong |
 | Sat, 3 Oct 2026 | Beaver Works | Leeds |
 | Sat, 10 Oct 2026 | Open Ground | Wuppertal |
+| Fri, 16 Oct 2026 | fabric | London |
 | Sat, 31 Oct 2026 | TAC (Tottenham Arts Collective) | London |
 | Fri, 4 Dec 2026 | FORGE | Sheffield |
 
@@ -29,4 +31,4 @@ Mantra is a jungle and drum & bass artist tracked on soundcheck, with 149 sets l
 
 Double O, Blackeye MC, Tim Reaper
 
-*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mantra/)*
+*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mantra/)*

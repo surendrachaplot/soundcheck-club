@@ -1,6 +1,6 @@
 # Prisma at Numm
 
-Prisma at Numm on Sun 13 Sept, Tokyo. 2 acts on the bill: Dazzle Drums and MINAMI. Preview the line-up and save it on soundcheck.
+Prisma at Numm on Sun 13 Sept, Tokyo. 2 acts on the bill: Dazzle Drums and MINAMI. House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

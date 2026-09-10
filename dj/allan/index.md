@@ -1,6 +1,6 @@
 # Allan
 
-Allan is a Reggaeton and Latin Bass artist with 1 upcoming club date listed on soundcheck as of Wed, 9 Sept 2026, next at Jonny Knüppel, Berlin on Fri, 18 Sept 2026.
+Allan is a Reggaeton and Latin Bass artist with 1 upcoming club date listed on soundcheck as of Thu, 10 Sept 2026, next at Jonny Knüppel, Berlin on Fri, 18 Sept 2026.
 
 Allan is a reggaeton and latin bass artist tracked on soundcheck, with 4 sets logged across Berlin, Newyorkcity and Thehague. Often billed alongside PM, B. Clarke and Bito. Next up: Jonny Knüppel, Berlin on Fri 18 Sept.
 
@@ -20,4 +20,4 @@ Allan is a reggaeton and latin bass artist tracked on soundcheck, with 4 sets lo
 
 PM, B. Clarke, Bito
 
-*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/allan/)*
+*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/allan/)*

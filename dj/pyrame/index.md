@@ -1,6 +1,6 @@
 # Pyrame
 
-Pyrame is a House and Electro artist with 4 upcoming club dates listed on soundcheck as of Wed, 9 Sept 2026, next at Le Chapiteau - Marseille, Marseille on Fri, 11 Sept 2026.
+Pyrame is a House and Electro artist with 4 upcoming club dates listed on soundcheck as of Thu, 10 Sept 2026, next at Le Chapiteau - Marseille, Marseille on Fri, 11 Sept 2026.
 
 Pyrame is a house and electro artist tracked on soundcheck, with 57 sets logged across Barcelona, Berlin and Marseille. Often billed alongside Acid Washed, Bardamu and Justin Rivera. Next up: Le Chapiteau - Marseille, Marseille on Fri 11 Sept.
 
@@ -28,4 +28,4 @@ Pyrame is a house and electro artist tracked on soundcheck, with 57 sets logged 
 
 Acid Washed, Bardamu, Justin Rivera
 
-*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/pyrame/)*
+*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/pyrame/)*

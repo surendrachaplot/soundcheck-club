@@ -1,6 +1,6 @@
 # Matriark
 
-Matriark is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Wed, 9 Sept 2026, next at Turbina, Budapest on Sat, 3 Oct 2026.
+Matriark is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Thu, 10 Sept 2026, next at Turbina, Budapest on Sat, 3 Oct 2026.
 
 Matriark is a techno and trance artist based in Norway, tracked on soundcheck, with 136 sets logged across Amsterdam, Barcelona, Basel and Berlin and 20 more. Often billed alongside DJ IBON, ibon and Britney Speed. Next up: Turbina, Budapest on Sat 3 Oct.
 
@@ -25,4 +25,4 @@ Matriark is a techno and trance artist based in Norway, tracked on soundcheck, w
 
 DJ IBON, ibon, Britney Speed
 
-*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/matriark/)*
+*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/matriark/)*

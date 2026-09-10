@@ -1,6 +1,6 @@
 # Mietze Conte
 
-Mietze Conte is a House and Experimental artist with 16 upcoming club dates listed on soundcheck as of Wed, 9 Sept 2026, next at Lago Algo, Mexico City on Fri, 11 Sept 2026.
+Mietze Conte is a House and Experimental artist with 16 upcoming club dates listed on soundcheck as of Thu, 10 Sept 2026, next at Lago Algo, Mexico City on Fri, 11 Sept 2026.
 
 Mietze Conte is a house and experimental artist tracked on soundcheck, with 60 sets logged across Amsterdam, Barcelona, Berlin and Brisbane and 21 more. Often billed alongside 1tbsp, DJ Gigola and Skin On Skin. Next up: Lago Algo, Mexicocity on Fri 11 Sept.
 
@@ -36,4 +36,4 @@ Mietze Conte is a house and experimental artist tracked on soundcheck, with 60 s
 
 1tbsp, DJ Gigola, Skin On Skin
 
-*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mietzeconte/)*
+*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mietzeconte/)*

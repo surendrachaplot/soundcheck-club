@@ -1,13 +1,14 @@
 # HotLap
 
-HotLap is a Afro House and House artist with 1 upcoming club date listed on soundcheck as of Wed, 9 Sept 2026, next at Waagnatie Expo & Events, Antwerp on Sat, 28 Nov 2026.
+HotLap is a Afro House and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 10 Sept 2026, next at TBA - Istanbul ( KARAKOY,BEYOGLU / Yacht Party ), Istanbul on Sun, 20 Sept 2026.
 
-HotLap is an afro house and house artist based in United States of America, tracked on soundcheck, with 11 sets logged across Amsterdam, Antwerp, Barcelona and Copenhagen and 5 more. Often billed alongside Cima, ADAPT (DK) and Alex Wann. Next up: Waagnatie Expo & Events, Antwerp on Sat 28 Nov.
+HotLap is an afro house and house artist based in United States of America, tracked on soundcheck, with 12 sets logged across Amsterdam, Antwerp, Barcelona and Copenhagen and 6 more. Often billed alongside Cima, ADAPT (DK) and ARKADYAN. Next up: TBA - Istanbul ( KARAKOY,BEYOGLU / Yacht Party ), Istanbul on Sun 20 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sun, 20 Sept 2026 | TBA - Istanbul ( KARAKOY,BEYOGLU / Yacht Party ) | Istanbul |
 | Sat, 28 Nov 2026 | Waagnatie Expo & Events | Antwerp |
 
 ## Recently played
@@ -23,6 +24,6 @@ HotLap is an afro house and house artist based in United States of America, trac
 
 ## Shares bills with
 
-Cima, ADAPT (DK), Alex Wann
+Cima, ADAPT (DK), ARKADYAN
 
-*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/hotlap/)*
+*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/hotlap/)*

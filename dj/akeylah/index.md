@@ -1,6 +1,6 @@
 # AKEYLAH
 
-AKEYLAH is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Wed, 9 Sept 2026, next at Pica (Port Melbourne Industrial Centre for the Arts), Melbourne on Sat, 17 Oct 2026.
+AKEYLAH is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Thu, 10 Sept 2026, next at Pica (Port Melbourne Industrial Centre for the Arts), Melbourne on Sat, 17 Oct 2026.
 
 AKEYLAH is a techno and house artist tracked on soundcheck, with 48 sets logged across Melbourne and Sydney. Often billed alongside 3LOAR, Brent Honey and OnlyWithYou. Next up: Pica (Port Melbourne Industrial Centre for the Arts), Melbourne on Sat 17 Oct.
 
@@ -27,4 +27,4 @@ AKEYLAH is a techno and house artist tracked on soundcheck, with 48 sets logged 
 
 3LOAR, Brent Honey, OnlyWithYou
 
-*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/akeylah/)*
+*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/akeylah/)*

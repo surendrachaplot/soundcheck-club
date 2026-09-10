@@ -1,6 +1,6 @@
 # Philou CxC
 
-Philou CxC is a Club and Dembow artist with 1 upcoming club date listed on soundcheck as of Wed, 9 Sept 2026, next at Bal Chavaux, Paris on Sat, 26 Sept 2026.
+Philou CxC is a Club and Dembow artist with 1 upcoming club date listed on soundcheck as of Thu, 10 Sept 2026, next at Bal Chavaux, Paris on Sat, 26 Sept 2026.
 
 Philou CxC is a club and dembow artist tracked on soundcheck, with 19 sets logged across Mexicocity and Paris. Often billed alongside Scarlett (ohgodscarlett), BJF and Næja. Next up: Bal Chavaux, Paris on Sat 26 Sept.
 
@@ -25,4 +25,4 @@ Philou CxC is a club and dembow artist tracked on soundcheck, with 19 sets logge
 
 Scarlett (ohgodscarlett), BJF, Næja
 
-*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/philoucxc/)*
+*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/philoucxc/)*

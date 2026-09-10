@@ -1,13 +1,14 @@
 # FENDI-K
 
-FENDI-K is a Jungle and Garage artist with 1 upcoming club date listed on soundcheck as of Wed, 9 Sept 2026, next at M.O.T, London on Fri, 9 Oct 2026.
+FENDI-K is a Jungle and Drum & Bass artist with 2 upcoming club dates listed on soundcheck as of Thu, 10 Sept 2026, next at Dalston Den, London on Fri, 2 Oct 2026.
 
-FENDI-K is a jungle and garage artist based in United Kingdom, tracked on soundcheck, with 22 sets logged across Brighton, Hamburg and London. Often billed alongside OS:MAN, VXRGO and Silva Snipa. Next up: M.O.T, London on Fri 9 Oct.
+FENDI-K is a jungle and drum & bass artist based in United Kingdom, tracked on soundcheck, with 23 sets logged across Brighton, Hamburg and London. Often billed alongside OS:MAN, VXRGO and Silva Snipa. Next up: Dalston Den, London on Fri 2 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 2 Oct 2026 | Dalston Den | London |
 | Fri, 9 Oct 2026 | M.O.T | London |
 
 ## Recently played
@@ -25,4 +26,4 @@ FENDI-K is a jungle and garage artist based in United Kingdom, tracked on soundc
 
 OS:MAN, VXRGO, Silva Snipa
 
-*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/fendi-k/)*
+*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/fendi-k/)*

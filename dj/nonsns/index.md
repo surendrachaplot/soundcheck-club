@@ -1,6 +1,6 @@
 # Nonsns
 
-Nonsns is a Bass and Drum & Bass artist with 1 upcoming club date listed on soundcheck as of Wed, 9 Sept 2026, next at TBA, Sydney on Sat, 19 Sept 2026.
+Nonsns is a Bass and Drum & Bass artist with 1 upcoming club date listed on soundcheck as of Thu, 10 Sept 2026, next at TBA, Sydney on Sat, 19 Sept 2026.
 
 Nonsns is a bass and drum & bass artist tracked on soundcheck, with 5 sets logged across Sydney. Often billed alongside Adarah, Andy Garvey and Autogenesis. Next up: TBA, Sydney on Sat 19 Sept.
 
@@ -21,4 +21,4 @@ Nonsns is a bass and drum & bass artist tracked on soundcheck, with 5 sets logge
 
 Adarah, Andy Garvey, Autogenesis
 
-*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nonsns/)*
+*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nonsns/)*

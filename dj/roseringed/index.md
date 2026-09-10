@@ -1,6 +1,6 @@
 # Rose Ringed
 
-Rose Ringed is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Wed, 9 Sept 2026, next at Openluchttheater Amersfoort, Amsterdam on Fri, 18 Sept 2026.
+Rose Ringed is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 10 Sept 2026, next at Openluchttheater Amersfoort, Amsterdam on Fri, 18 Sept 2026.
 
 Rose Ringed is a techno and house artist based in Netherlands, tracked on soundcheck, with 59 sets logged across Amsterdam, Antwerp, Barcelona and Brussels and 7 more. Often billed alongside Nicky Elisabeth, Mees Salomé and Miss Melera. Next up: Openluchttheater Amersfoort, Amsterdam on Fri 18 Sept.
 
@@ -26,4 +26,4 @@ Rose Ringed is a techno and house artist based in Netherlands, tracked on soundc
 
 Nicky Elisabeth, Mees Salomé, Miss Melera
 
-*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/roseringed/)*
+*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/roseringed/)*

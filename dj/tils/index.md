@@ -1,6 +1,6 @@
 # Tils
 
-Tils is a Techno and Ambient artist with 2 upcoming club dates listed on soundcheck as of Wed, 9 Sept 2026, next at Gewölbe, Cologne on Fri, 25 Sept 2026.
+Tils is a Techno and Ambient artist with 2 upcoming club dates listed on soundcheck as of Thu, 10 Sept 2026, next at Gewölbe, Cologne on Fri, 25 Sept 2026.
 
 Tils is a techno and ambient artist based in Germany, tracked on soundcheck, with 17 sets logged across Berlin, Cologne and Tbilisi. Often billed alongside 11:68PM, Candy Jones and 41ISSA. Next up: Gewölbe, Cologne on Fri 25 Sept.
 
@@ -26,4 +26,4 @@ Tils is a techno and ambient artist based in Germany, tracked on soundcheck, wit
 
 11:68PM, Candy Jones, 41ISSA
 
-*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tils/)*
+*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tils/)*

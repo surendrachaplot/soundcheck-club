@@ -1,14 +1,13 @@
 # [UNVRS]
 
-[UNVRS] is a music venue in Ibiza with 30 upcoming nights listed on soundcheck as of Wed, 9 Sept 2026; the next is "Jamie Jones Paradise" on Wed, 9 Sept 2026.
+[UNVRS] is a music venue in Ibiza with 29 upcoming nights listed on soundcheck as of Thu, 10 Sept 2026; the next is "FISHER - CLOSING PARTY" on Thu, 10 Sept 2026.
 
-[UNVRS] is a music venue in Ibiza listed on soundcheck. 30 upcoming nights, with line-ups including Adriatique, Agents Of Time, Alan Fitzpatrick and AMÉMÉ and 2 more. Browse upcoming dates, start times and who's playing. Urbanización San Rafael, s/n, 07816 Sant Antoni de Portmany, Balearic Islands.
+[UNVRS] is a music venue in Ibiza listed on soundcheck. 29 upcoming nights, with line-ups including Adriatique, Agents Of Time, Alan Fitzpatrick and AMÉMÉ and 2 more. Browse upcoming dates, start times and who's playing. Urbanización San Rafael, s/n, 07816 Sant Antoni de Portmany, Balearic Islands.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Wed, 9 Sept 2026 | Jamie Jones Paradise | FIRZA, FLORENTIA, Jamie Jones, Jordan Peak, Murphy's Law, Nicole Moudaber, Obskur, Rich NXT, Rossi, Sosa, ViTo, wAFF |
 | Thu, 10 Sept 2026 | FISHER - CLOSING PARTY | ATRIP, FISHER, KI/KI |
 | Fri, 11 Sept 2026 | David Guetta presents Galactic Circus | David Guetta, Marlon Hoffstadt |
 | Sat, 12 Sept 2026 | elrow Ibiza | ATT, Ilario Alicante, Joris Voorn, Tini Gessler |
@@ -18,9 +17,10 @@
 | Wed, 16 Sept 2026 | Jamie Jones Paradise | Archie Hamilton, Bontan, Jamie Jones, Locky, Luca Saporito (Audiofly), Luke Dean_, Olive F, Prospa, Rafael, Sidney Charles |
 | Thu, 17 Sept 2026 | Adriatique presents X | Adriatique |
 | Fri, 18 Sept 2026 | David Guetta presents Galactic Circus | David Guetta, Rivo |
+| Sat, 19 Sept 2026 | elrow Ibiza | Bora Uzer, De La Swing, Joëlla Jackson, Wade |
 
 ## Address
 
 Urbanización San Rafael, s/n, 07816 Sant Antoni de Portmany, Balearic Islands, Ibiza
 
-*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/ibiza/club/unvrs/)*
+*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/ibiza/club/unvrs/)*

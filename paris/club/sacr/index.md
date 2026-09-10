@@ -1,8 +1,8 @@
 # Sacré
 
-Sacré is a music venue in Paris with 11 upcoming nights listed on soundcheck as of Wed, 9 Sept 2026; the next is "Sacré présente: Justin Jay & OLYN TWO" on Fri, 11 Sept 2026.
+Sacré is a music venue in Paris with 15 upcoming nights listed on soundcheck as of Thu, 10 Sept 2026; the next is "Sacré présente: Justin Jay & OLYN TWO" on Fri, 11 Sept 2026.
 
-Sacré is a music venue in Paris listed on soundcheck. 11 upcoming nights, with line-ups including Bag Raiders, Basile de Suresnes, Bridge (NY) and Contrecoeur and 2 more. Browse upcoming dates, start times and who's playing. 142 rue montmartre 75002 Paris.
+Sacré is a music venue in Paris listed on soundcheck. 15 upcoming nights, with line-ups including Bag Raiders, Basile de Suresnes, Bridge (NY) and Bubs and 2 more. Browse upcoming dates, start times and who's playing. 142 rue montmartre 75002 Paris.
 
 ## What's on
 
@@ -17,10 +17,10 @@ Sacré is a music venue in Paris listed on soundcheck. 11 upcoming nights, with 
 | Fri, 2 Oct 2026 | Sacré présente: Italo Deviance & Funky Express | Italo Deviance |
 | Sat, 3 Oct 2026 | Sacré présente: Bag Raiders & Dessins Nuls Animés | Bag Raiders |
 | Fri, 9 Oct 2026 | Sacré présente: 49th & the Main + Contrecoeur | Contrecoeur |
-| Fri, 6 Nov 2026 | Dusky présent Signals Tour | Dusky |
+| Sat, 10 Oct 2026 | Sacré présente: Tommy Villiers & Romeo Luisa | Tommy Villiers |
 
 ## Address
 
 142 rue montmartre 75002 Paris, Paris
 
-*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/paris/club/sacr/)*
+*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/paris/club/sacr/)*

@@ -1,6 +1,6 @@
 # cy.matic
 
-cy.matic is a Techno and IDM artist with 1 upcoming club date listed on soundcheck as of Wed, 9 Sept 2026, next at KW Studios, Vancouver on Sat, 19 Sept 2026.
+cy.matic is a Techno and IDM artist with 1 upcoming club date listed on soundcheck as of Thu, 10 Sept 2026, next at KW Studios, Vancouver on Sat, 19 Sept 2026.
 
 cy.matic is a techno and idm artist tracked on soundcheck, with 11 sets logged across Vancouver. Often billed alongside cy.matic (visuals), DJ Hockey and Vasho. Next up: KW Studios, Vancouver on Sat 19 Sept.
 
@@ -25,4 +25,4 @@ cy.matic is a techno and idm artist tracked on soundcheck, with 11 sets logged a
 
 cy.matic (visuals), DJ Hockey, Vasho
 
-*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/cy.matic/)*
+*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/cy.matic/)*

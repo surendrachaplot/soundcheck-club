@@ -1,6 +1,6 @@
 # One Eighty One
 
-One Eighty One is a music venue in London with 2 upcoming nights listed on soundcheck as of Wed, 9 Sept 2026; the next is "In Limbo #002" on Sun, 20 Sept 2026.
+One Eighty One is a music venue in London with 2 upcoming nights listed on soundcheck as of Thu, 10 Sept 2026; the next is "In Limbo #002" on Sun, 20 Sept 2026.
 
 One Eighty One is a music venue in London listed on soundcheck. 2 upcoming nights, with line-ups including angelina. Browse upcoming dates, start times and who's playing. 181 Holloway Road, London N7 8LX.
 
@@ -15,4 +15,4 @@ One Eighty One is a music venue in London listed on soundcheck. 2 upcoming night
 
 181 Holloway Road, London N7 8LX, London
 
-*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/one-eighty-one/)*
+*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/one-eighty-one/)*

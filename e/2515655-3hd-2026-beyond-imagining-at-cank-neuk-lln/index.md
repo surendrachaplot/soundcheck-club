@@ -1,6 +1,6 @@
 # 3hd 2026: Beyond Imagining at Cank Neukölln
 
-3hd 2026: Beyond Imagining at Cank Neukölln on Sat 31 Oct, Berlin. 3 acts on the bill: exmantera, Safety Trance and Suutoo. Experimental. Preview the line-up and save it on soundcheck.
+3hd 2026: Beyond Imagining at Cank Neukölln on Sat 31 Oct, Berlin. 4 acts on the bill: 2K88, exmantera, Safety Trance and Suutoo. Experimental. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@
 
 ## Line-up
 
+- 2K88
 - exmantera
 - Safety Trance
 - Suutoo

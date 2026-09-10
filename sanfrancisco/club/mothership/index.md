@@ -1,6 +1,6 @@
 # Mothership
 
-Mothership is a music venue in San Francisco/Oakland with 3 upcoming nights listed on soundcheck as of Wed, 9 Sept 2026; the next is "Barrio Bounce" on Fri, 11 Sept 2026.
+Mothership is a music venue in San Francisco/Oakland with 3 upcoming nights listed on soundcheck as of Thu, 10 Sept 2026; the next is "Barrio Bounce" on Fri, 11 Sept 2026.
 
 Mothership is a music venue in Sanfrancisco listed on soundcheck. 3 upcoming nights. Browse upcoming dates, start times and who's playing. 3152 Mission Street San Francisco, CA 94110.
 
@@ -16,4 +16,4 @@ Mothership is a music venue in Sanfrancisco listed on soundcheck. 3 upcoming nig
 
 3152 Mission Street San Francisco, CA 94110, San Francisco/Oakland
 
-*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/mothership/)*
+*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/mothership/)*

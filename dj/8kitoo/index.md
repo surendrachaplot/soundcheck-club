@@ -1,6 +1,6 @@
 # 8Kitoo
 
-8Kitoo is a Techno and Broken Beat artist with 1 upcoming club date listed on soundcheck as of Wed, 9 Sept 2026, next at TBA - Parc de l'Alhambra (Hospitalet), Barcelona on Sat, 3 Oct 2026.
+8Kitoo is a Techno and Broken Beat artist with 1 upcoming club date listed on soundcheck as of Thu, 10 Sept 2026, next at TBA - Parc de l'Alhambra (Hospitalet), Barcelona on Sat, 3 Oct 2026.
 
 8Kitoo is a techno and broken beat artist based in Spain, tracked on soundcheck, with 31 sets logged across Barcelona, Berlin, Madrid and Valencia. Often billed alongside Chico Blanco, acidheaven and JOVENDELAPERLA. Next up: TBA - Parc de l'Alhambra (Hospitalet), Barcelona on Sat 3 Oct.
 
@@ -25,4 +25,4 @@
 
 Chico Blanco, acidheaven, JOVENDELAPERLA
 
-*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/8kitoo/)*
+*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/8kitoo/)*

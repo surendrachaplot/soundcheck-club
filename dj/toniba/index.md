@@ -1,6 +1,6 @@
 # TONI BA
 
-TONI BA is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Wed, 9 Sept 2026, next at Tresor / Globus, Berlin on Sat, 24 Oct 2026.
+TONI BA is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Thu, 10 Sept 2026, next at Tresor / Globus, Berlin on Sat, 24 Oct 2026.
 
 TONI BA is a techno and trance artist based in Germany, tracked on soundcheck, with 90 sets logged across Antwerp, Barcelona, Berlin and Cologne and 16 more. Often billed alongside DJ Hyperdrive, Ariel (DE) and slin. Next up: Tresor / Globus, Berlin on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ TONI BA is a techno and trance artist based in Germany, tracked on soundcheck, w
 
 DJ Hyperdrive, Ariel (DE), slin
 
-*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/toniba/)*
+*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/toniba/)*

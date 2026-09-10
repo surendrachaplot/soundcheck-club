@@ -1,6 +1,6 @@
 # Mtkvarze
 
-Mtkvarze is a music venue in Tbilisi with 2 upcoming nights listed on soundcheck as of Wed, 9 Sept 2026; the next is "Dirac • Generali Minerali (Live) • DJ Delorean (Live) • iotham • Ika • Whino B2B Tascamboy" on Fri, 11 Sept 2026.
+Mtkvarze is a music venue in Tbilisi with 2 upcoming nights listed on soundcheck as of Thu, 10 Sept 2026; the next is "Dirac • Generali Minerali (Live) • DJ Delorean (Live) • iotham • Ika • Whino B2B Tascamboy" on Fri, 11 Sept 2026.
 
 Mtkvarze is a music venue in Tbilisi listed on soundcheck. 2 upcoming nights, with line-ups including Dirac, DJ Delorean, Generali Minerali and Ika (GE) and 2 more. Browse upcoming dates, start times and who's playing. Left riverbank of Mtkvari (Kura) river, Agladze str.2.
 
@@ -15,4 +15,4 @@ Mtkvarze is a music venue in Tbilisi listed on soundcheck. 2 upcoming nights, wi
 
 Left riverbank of Mtkvari (Kura) river, Agladze str.2, Tbilisi
 
-*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/tbilisi/club/mtkvarze/)*
+*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/tbilisi/club/mtkvarze/)*

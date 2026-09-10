@@ -1,8 +1,8 @@
 # Dorian Craft
 
-Dorian Craft is a Afro House and House artist with 2 upcoming club dates listed on soundcheck as of Wed, 9 Sept 2026, next at Chinois Ibiza, Ibiza on Sun, 13 Sept 2026.
+Dorian Craft is a House and Afro House artist with 3 upcoming club dates listed on soundcheck as of Thu, 10 Sept 2026, next at Chinois Ibiza, Ibiza on Sun, 13 Sept 2026.
 
-Dorian Craft is an afro house and house artist based in France, tracked on soundcheck, with 41 sets logged across Bali, Barcelona, Brussels and Ibiza and 9 more. Often billed alongside Baron, Bedouin and Belben. Next up: Chinois Ibiza, Ibiza on Sun 13 Sept.
+Dorian Craft is a house and afro house artist based in France, tracked on soundcheck, with 42 sets logged across Amsterdam, Bali, Barcelona and Brussels and 10 more. Often billed alongside Baron, Bedouin and Belben. Next up: Chinois Ibiza, Ibiza on Sun 13 Sept.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Dorian Craft is an afro house and house artist based in France, tracked on sound
 | --- | --- | --- |
 | Sun, 13 Sept 2026 | Chinois Ibiza | Ibiza |
 | Sat, 3 Oct 2026 | Hï Ibiza | Ibiza |
+| Sun, 25 Oct 2026 | Crane Hotel Faralda | Amsterdam |
 
 ## Recently played
 
@@ -26,4 +27,4 @@ Dorian Craft is an afro house and house artist based in France, tracked on sound
 
 Baron, Bedouin, Belben
 
-*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/doriancraft/)*
+*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/doriancraft/)*

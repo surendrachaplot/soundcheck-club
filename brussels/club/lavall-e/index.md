@@ -1,6 +1,6 @@
 # Lavallée
 
-Lavallée is a music venue in Brussels with 1 upcoming night listed on soundcheck as of Wed, 9 Sept 2026; the next is "In.out.sider Festival #5" on Fri, 9 Oct 2026.
+Lavallée is a music venue in Brussels with 1 upcoming night listed on soundcheck as of Thu, 10 Sept 2026; the next is "In.out.sider Festival #5" on Fri, 9 Oct 2026.
 
 Lavallée is a music venue in Brussels listed on soundcheck. 1 upcoming night, with line-ups including Caillou (DE) and Oonagh Haines. Browse upcoming dates, start times and who's playing. 39 rue Adolphe Lavallée, 1080 Molenbeek-Saint-Jean.
 
@@ -14,4 +14,4 @@ Lavallée is a music venue in Brussels listed on soundcheck. 1 upcoming night, w
 
 39 rue Adolphe Lavallée, 1080 Molenbeek-Saint-Jean, Brussels
 
-*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/brussels/club/lavall-e/)*
+*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/brussels/club/lavall-e/)*

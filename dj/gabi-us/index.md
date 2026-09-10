@@ -1,6 +1,6 @@
 # Gabi
 
-Gabi is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 9 Sept 2026, next at Paragon, New York City on Fri, 11 Sept 2026.
+Gabi is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 10 Sept 2026, next at Paragon, New York City on Fri, 11 Sept 2026.
 
 Gabi is a techno and house artist based in United States of America, tracked on soundcheck, with 12 sets logged across Berlin, Detroit, London and Miami and 2 more. Often billed alongside Blood Orange, Ciel and DJ Voices. Next up: Paragon, Newyorkcity on Fri 11 Sept.
 
@@ -25,4 +25,4 @@ Gabi is a techno and house artist based in United States of America, tracked on 
 
 Blood Orange, Ciel, DJ Voices
 
-*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/gabi-us/)*
+*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/gabi-us/)*

@@ -1,6 +1,6 @@
 # Sam Divine
 
-Sam Divine is a House and Tech House artist with 13 upcoming club dates listed on soundcheck as of Wed, 9 Sept 2026, next at Joshua Brooks, Manchester on Fri, 11 Sept 2026.
+Sam Divine is a House and Tech House artist with 13 upcoming club dates listed on soundcheck as of Thu, 10 Sept 2026, next at Joshua Brooks, Manchester on Fri, 11 Sept 2026.
 
 Sam Divine is a house and tech house artist tracked on soundcheck, with 172 sets logged across Amsterdam, Auckland, Bali and Barcelona and 38 more. Often billed alongside Low Steppa, Arielle Free and Rio Tashan. Next up: Joshua Brooks, Manchester on Fri 11 Sept.
 
@@ -36,4 +36,4 @@ Sam Divine is a house and tech house artist tracked on soundcheck, with 172 sets
 
 Low Steppa, Arielle Free, Rio Tashan
 
-*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/missdivine/)*
+*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/missdivine/)*

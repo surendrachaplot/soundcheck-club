@@ -1,6 +1,6 @@
 # HI-LO
 
-HI-LO is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Wed, 9 Sept 2026, next at Hï Ibiza, Ibiza on Thu, 10 Sept 2026.
+HI-LO is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Thu, 10 Sept 2026, next at Hï Ibiza, Ibiza on Thu, 10 Sept 2026.
 
 HI-LO is a techno and house artist based in Netherlands, tracked on soundcheck, with 64 sets logged across Amsterdam, Austin, Barcelona and Basel and 25 more. Often billed alongside Eli Brown, Benny Rodrigues and Space 92. Next up: Hï Ibiza, Ibiza on Thu 10 Sept.
 
@@ -30,4 +30,4 @@ HI-LO is a techno and house artist based in Netherlands, tracked on soundcheck, 
 
 Eli Brown, Benny Rodrigues, Space 92
 
-*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/hi-lo/)*
+*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/hi-lo/)*

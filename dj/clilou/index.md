@@ -1,6 +1,6 @@
 # CLILOU
 
-CLILOU is a Club and Bass artist with 1 upcoming club date listed on soundcheck as of Wed, 9 Sept 2026, next at Romantso, Athens on Fri, 11 Sept 2026.
+CLILOU is a Club and Bass artist with 1 upcoming club date listed on soundcheck as of Thu, 10 Sept 2026, next at Romantso, Athens on Fri, 11 Sept 2026.
 
 CLILOU is a club and bass artist tracked on soundcheck, with 4 sets logged across Athens. Often billed alongside JIAN3E, kvadosh and Astral Bandit. Next up: Romantso, Athens on Fri 11 Sept.
 
@@ -20,4 +20,4 @@ CLILOU is a club and bass artist tracked on soundcheck, with 4 sets logged acros
 
 JIAN3E, kvadosh, Astral Bandit
 
-*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/clilou/)*
+*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/clilou/)*

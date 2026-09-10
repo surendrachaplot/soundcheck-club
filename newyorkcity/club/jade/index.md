@@ -1,6 +1,6 @@
 # Jade
 
-Jade is a music venue in New York City with 3 upcoming nights listed on soundcheck as of Wed, 9 Sept 2026; the next is "Body Damage - Inaugural Event featuring: Shiza, HopeStatus, 371, Ivan Bronson, and Milkcrate" on Fri, 18 Sept 2026.
+Jade is a music venue in New York City with 3 upcoming nights listed on soundcheck as of Thu, 10 Sept 2026; the next is "Body Damage - Inaugural Event featuring: Shiza, HopeStatus, 371, Ivan Bronson, and Milkcrate" on Fri, 18 Sept 2026.
 
 Jade is a music venue in Newyorkcity listed on soundcheck. 3 upcoming nights, with line-ups including ALI IRL, boy_c0ded, boy problem and Cassi-DJ and 2 more. Browse upcoming dates, start times and who's playing. 4 Stuyvesant Ave, Brooklyn, NY 11221, USA.
 
@@ -16,4 +16,4 @@ Jade is a music venue in Newyorkcity listed on soundcheck. 3 upcoming nights, wi
 
 4 Stuyvesant Ave, Brooklyn, NY 11221, USA, New York City
 
-*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/jade/)*
+*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/jade/)*

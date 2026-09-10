@@ -1,6 +1,6 @@
 # Alan Fitzpatrick
 
-Alan Fitzpatrick is a Techno and House artist with 9 upcoming club dates listed on soundcheck as of Wed, 9 Sept 2026, next at Phonox, London on Sat, 12 Sept 2026.
+Alan Fitzpatrick is a Techno and House artist with 9 upcoming club dates listed on soundcheck as of Thu, 10 Sept 2026, next at Phonox, London on Sat, 12 Sept 2026.
 
 Alan Fitzpatrick is a techno and house artist tracked on soundcheck, with 111 sets logged across Amsterdam, Barcelona, Belfast and Belgrade and 33 more. Often billed alongside Jamie Jones, Marco Faraone and Ben Hemsley. Next up: Phonox, London on Sat 12 Sept.
 
@@ -33,4 +33,4 @@ Alan Fitzpatrick is a techno and house artist tracked on soundcheck, with 111 se
 
 Jamie Jones, Marco Faraone, Ben Hemsley
 
-*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/alanfitzpatrick/)*
+*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/alanfitzpatrick/)*

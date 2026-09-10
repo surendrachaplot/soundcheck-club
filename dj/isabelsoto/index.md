@@ -1,8 +1,8 @@
 # Isabel Soto
 
-Isabel Soto is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Wed, 9 Sept 2026, next at Gianca - Murazzi, Turin on Fri, 11 Sept 2026.
+Isabel Soto is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Thu, 10 Sept 2026, next at Gianca - Murazzi, Turin on Fri, 11 Sept 2026.
 
-Isabel Soto is a techno and house artist tracked on soundcheck, with 95 sets logged across Amsterdam, Athens, Barcelona and Basel and 28 more. Often billed alongside Claudio PRC, Mike Larry and Fadi Mohem. Next up: Gianca - Murazzi, Turin on Fri 11 Sept.
+Isabel Soto is a techno and house artist tracked on soundcheck, with 96 sets logged across Amsterdam, Athens, Barcelona and Basel and 28 more. Often billed alongside Claudio PRC, Mike Larry and Fadi Mohem. Next up: Gianca - Murazzi, Turin on Fri 11 Sept.
 
 ## Upcoming shows
 
@@ -12,6 +12,7 @@ Isabel Soto is a techno and house artist tracked on soundcheck, with 95 sets log
 | Fri, 18 Sept 2026 | Fvtvr | Paris |
 | Fri, 23 Oct 2026 | Levenslang Amsterdam | Amsterdam |
 | Fri, 23 Oct 2026 | De Thomaskerk | Amsterdam |
+| Sat, 7 Nov 2026 | Stage and Radio | Manchester |
 
 ## Recently played
 
@@ -28,4 +29,4 @@ Isabel Soto is a techno and house artist tracked on soundcheck, with 95 sets log
 
 Claudio PRC, Mike Larry, Fadi Mohem
 
-*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/isabelsoto/)*
+*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/isabelsoto/)*

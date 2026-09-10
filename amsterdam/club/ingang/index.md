@@ -1,6 +1,6 @@
 # Ingang
 
-Ingang is a music venue in Amsterdam with 1 upcoming night listed on soundcheck as of Wed, 9 Sept 2026; the next is "One Eye Witness - ADE Friday" on Fri, 23 Oct 2026.
+Ingang is a music venue in Amsterdam with 1 upcoming night listed on soundcheck as of Thu, 10 Sept 2026; the next is "One Eye Witness - ADE Friday" on Fri, 23 Oct 2026.
 
 Ingang is a music venue in Amsterdam listed on soundcheck. 1 upcoming night. Browse upcoming dates, start times and who's playing. Gedempt Hamerkanaal 86, Amsterdam, The Netherlands.
 
@@ -14,4 +14,4 @@ Ingang is a music venue in Amsterdam listed on soundcheck. 1 upcoming night. Bro
 
 Gedempt Hamerkanaal 86, Amsterdam, The Netherlands, Amsterdam
 
-*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/ingang/)*
+*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/ingang/)*

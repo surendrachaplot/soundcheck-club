@@ -1,6 +1,6 @@
 # Small Car NRG at Avalon Cafe Bermondsey
 
-Small Car NRG at Avalon Cafe Bermondsey on Sat 12 Sept, London. 2 acts on the bill: Memory Palace and Small Car NRG. Techno and Club. Preview the line-up and save it on soundcheck.
+Small Car NRG at Avalon Cafe Bermondsey on Sat 12 Sept, London. 3 acts on the bill: Jacuzzi General, Memory Palace and Small Car NRG. Techno and Club. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ Small Car NRG at Avalon Cafe Bermondsey on Sat 12 Sept, London. 2 acts on the bi
 
 ## Line-up
 
+- Jacuzzi General
 - Memory Palace
 - Small Car NRG
 

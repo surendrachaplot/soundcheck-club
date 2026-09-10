@@ -1,6 +1,6 @@
-# Phat 909: S3PPA (NL), SkA (UK), Adrian Salcedo, Harrison Heat, DRABER666, Galatius B2B Kalinka at KB3
+# Phat 909: S3PPA (NL), SkA (UK), Adrian Salcedo, Harrison Heat, DRABER666, GALATIUS B2B KALINKA at KB3
 
-Phat 909: S3PPA (NL), SkA (UK), Adrian Salcedo, Harrison Heat, DRABER666, Galatius B2B Kalinka at KB3 on Fri 16 Oct, Copenhagen. 4 acts on the bill: Adrian Salcedo, DRABER666, Harrison Heat and S3PPA. House and Electronica. Preview the line-up and save it on soundcheck.
+Phat 909: S3PPA (NL), SkA (UK), Adrian Salcedo, Harrison Heat, DRABER666, GALATIUS B2B KALINKA at KB3 on Fri 16 Oct, Copenhagen. 4 acts on the bill: Adrian Salcedo, DRABER666, Harrison Heat and S3PPA. House and Electronica. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

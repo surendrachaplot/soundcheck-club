@@ -1,6 +1,6 @@
 # Hidden Grooves X Mandostan at Barco Sound House
 
-Hidden Grooves X Mandostan at Barco Sound House on Thu 10 Sept, Madrid. 2 acts on the bill: Dante and Spyrow. House. Preview the line-up and save it on soundcheck.
+Hidden Grooves X Mandostan at Barco Sound House on Thu 10 Sept, Madrid. 3 acts on the bill: Dante, Dante (H501) and Spyrow. House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,6 +11,7 @@ Hidden Grooves X Mandostan at Barco Sound House on Thu 10 Sept, Madrid. 2 acts o
 ## Line-up
 
 - Dante
+- Dante (H501)
 - Spyrow
 
 *Source: [soundcheck](https://soundcheck.club/e/2528887-hidden-grooves-x-mandostan-at-barco-sound-house/)*

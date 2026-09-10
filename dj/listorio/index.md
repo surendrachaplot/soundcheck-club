@@ -1,6 +1,6 @@
 # LISTORIO
 
-LISTORIO is a Techno and Trance artist with 3 upcoming club dates listed on soundcheck as of Wed, 9 Sept 2026, next at OIL Club, Shenzhen on Thu, 17 Sept 2026.
+LISTORIO is a Techno and Trance artist with 3 upcoming club dates listed on soundcheck as of Thu, 10 Sept 2026, next at OIL Club, Shenzhen on Thu, 17 Sept 2026.
 
 LISTORIO is a techno and trance artist based in Germany, tracked on soundcheck, with 17 sets logged across Berlin, Cologne, Hamburg and Shenzhen. Often billed alongside Blame the Booker, IGDA and Katy Rough. Next up: OIL Club, Shenzhen on Thu 17 Sept.
 
@@ -27,4 +27,4 @@ LISTORIO is a techno and trance artist based in Germany, tracked on soundcheck, 
 
 Blame the Booker, IGDA, Katy Rough
 
-*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/listorio/)*
+*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/listorio/)*

@@ -1,6 +1,6 @@
 # Melon Bomb
 
-Melon Bomb is a House and Techno artist with 7 upcoming club dates listed on soundcheck as of Wed, 9 Sept 2026, next at TBA -  Select Fm London, Los Angeles on Fri, 11 Sept 2026.
+Melon Bomb is a House and Techno artist with 7 upcoming club dates listed on soundcheck as of Thu, 10 Sept 2026, next at TBA -  Select Fm London, Los Angeles on Fri, 11 Sept 2026.
 
 Melon Bomb is a house and techno artist tracked on soundcheck, with 74 sets logged across Berlin, Dublin, Glasgow and Ibiza and 10 more. Often billed alongside Carl Cox, Sophie Lloyd and Melvo Baptiste. Next up: TBA -  Select Fm London, Losangeles on Fri 11 Sept.
 
@@ -31,4 +31,4 @@ Melon Bomb is a house and techno artist tracked on soundcheck, with 74 sets logg
 
 Carl Cox, Sophie Lloyd, Melvo Baptiste
 
-*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/melonbomb/)*
+*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/melonbomb/)*

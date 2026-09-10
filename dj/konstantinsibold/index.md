@@ -1,6 +1,6 @@
 # Konstantin Sibold
 
-Konstantin Sibold is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Wed, 9 Sept 2026, next at Grand Bizarre, Toronto on Sat, 19 Sept 2026.
+Konstantin Sibold is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Thu, 10 Sept 2026, next at Grand Bizarre, Toronto on Sat, 19 Sept 2026.
 
 Konstantin Sibold is a techno and house artist tracked on soundcheck, with 102 sets logged across Amsterdam, Antwerp, Athens and Austin and 36 more. Often billed alongside Kevin de Vries, 8KAYS and Stephan Bodzin. Next up: Grand Bizarre, Toronto on Sat 19 Sept.
 
@@ -28,4 +28,4 @@ Konstantin Sibold is a techno and house artist tracked on soundcheck, with 102 s
 
 Kevin de Vries, 8KAYS, Stephan Bodzin
 
-*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/konstantinsibold/)*
+*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/konstantinsibold/)*

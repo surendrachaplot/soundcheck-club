@@ -1,17 +1,17 @@
 # Folklore
 
-Folklore is a music venue in London with 1 upcoming night listed on soundcheck as of Wed, 9 Sept 2026; the next is "The DownTempo Temple" on Sat, 17 Oct 2026.
+Folklore is a music venue in London with 1 upcoming night listed on soundcheck as of Thu, 10 Sept 2026; the next is "The DownTempo Temple" on Sat, 17 Oct 2026.
 
-Folklore is a music venue in London listed on soundcheck. 1 upcoming night, with line-ups including AALEX, Altayef, Apsara (UK) and Marco (UK) and 2 more. Browse upcoming dates, start times and who's playing. 186 Hackney Rd, London, E2 7QL.
+Folklore is a music venue in London listed on soundcheck. 1 upcoming night, with line-ups including AALEX, Altayef, Apsara (UK) and Irene S and 2 more. Browse upcoming dates, start times and who's playing. 186 Hackney Rd, London, E2 7QL.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 17 Oct 2026 | The DownTempo Temple | AALEX, Altayef, Apsara (UK), Marco (UK), Parra Vie, Sokolyann |
+| Sat, 17 Oct 2026 | The DownTempo Temple | AALEX, Altayef, Apsara (UK), Irene S, Marco (UK), Parra Vie, Sokolyann |
 
 ## Address
 
 186 Hackney Rd, London, E2 7QL, London
 
-*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/folklore/)*
+*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/folklore/)*

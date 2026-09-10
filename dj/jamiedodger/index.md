@@ -1,14 +1,14 @@
 # Jamie Dodger
 
-Jamie Dodger is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 9 Sept 2026, next at TBA, London on Sat, 12 Sept 2026.
+Jamie Dodger is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 10 Sept 2026, next at Cellar, London on Sat, 12 Sept 2026.
 
-Jamie Dodger is a house and techno artist based in United Kingdom, tracked on soundcheck, with 7 sets logged across London. Often billed alongside Samuel Connor, Peter Glasspool and Bapti. Next up: TBA, London on Sat 12 Sept.
+Jamie Dodger is a house and techno artist based in United Kingdom, tracked on soundcheck, with 7 sets logged across London. Often billed alongside Samuel Connor, Peter Glasspool and Bapti. Next up: Cellar, London on Sat 12 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 12 Sept 2026 | TBA | London |
+| Sat, 12 Sept 2026 | Cellar | London |
 
 ## Recently played
 
@@ -23,4 +23,4 @@ Jamie Dodger is a house and techno artist based in United Kingdom, tracked on so
 
 Samuel Connor, Peter Glasspool, Bapti
 
-*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jamiedodger/)*
+*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jamiedodger/)*

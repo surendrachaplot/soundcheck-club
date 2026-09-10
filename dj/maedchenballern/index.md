@@ -1,6 +1,6 @@
 # maedchenballern
 
-maedchenballern is a Trance and Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 9 Sept 2026, next at ROSA, Berlin on Sat, 19 Sept 2026.
+maedchenballern is a Trance and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 10 Sept 2026, next at ROSA, Berlin on Sat, 19 Sept 2026.
 
 maedchenballern is a trance and techno artist tracked on soundcheck, with 19 sets logged across Berlin, Hamburg, Leipzig and Zurich. Often billed alongside Erebos, MARRE and Bélavie. Next up: ROSA, Berlin on Sat 19 Sept.
 
@@ -26,4 +26,4 @@ maedchenballern is a trance and techno artist tracked on soundcheck, with 19 set
 
 Erebos, MARRE, Bélavie
 
-*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/maedchenballern/)*
+*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/maedchenballern/)*

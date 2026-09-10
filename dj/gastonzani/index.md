@@ -1,6 +1,6 @@
 # Gaston Zani
 
-Gaston Zani is a Techno and Industrial artist with 3 upcoming club dates listed on soundcheck as of Wed, 9 Sept 2026, next at TBA - TERMINAL SABADELL, Barcelona on Thu, 10 Sept 2026.
+Gaston Zani is a Techno and Industrial artist with 3 upcoming club dates listed on soundcheck as of Thu, 10 Sept 2026, next at TBA - TERMINAL SABADELL, Barcelona on Thu, 10 Sept 2026.
 
 Gaston Zani is a techno and industrial artist based in Spain, tracked on soundcheck, with 35 sets logged across Barcelona, Berlin, Ibiza and Lisbon and 4 more. Often billed alongside Parsa Jafari, GNRØ and CESAR ALMENA. Next up: TBA - TERMINAL SABADELL, Barcelona on Thu 10 Sept.
 
@@ -27,4 +27,4 @@ Gaston Zani is a techno and industrial artist based in Spain, tracked on soundch
 
 Parsa Jafari, GNRØ, CESAR ALMENA
 
-*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/gastonzani/)*
+*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/gastonzani/)*

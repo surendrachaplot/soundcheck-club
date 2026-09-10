@@ -1,6 +1,6 @@
 # UNDERCITY
 
-UNDERCITY is a music venue in Seoul with 4 upcoming nights listed on soundcheck as of Wed, 9 Sept 2026; the next is "UNDERCITY presents Ma Haiping" on Fri, 11 Sept 2026.
+UNDERCITY is a music venue in Seoul with 4 upcoming nights listed on soundcheck as of Thu, 10 Sept 2026; the next is "UNDERCITY presents Ma Haiping" on Fri, 11 Sept 2026.
 
 UNDERCITY is a music venue in Seoul listed on soundcheck. 4 upcoming nights, with line-ups including A6IIR, Bagagee Viphex13, Estella Boersma and Gina Demarchi and 2 more. Browse upcoming dates, start times and who's playing. Basement, 61 Seongsui-ro 22-gil, Seongdong-gu, Seoul.
 
@@ -17,4 +17,4 @@ UNDERCITY is a music venue in Seoul listed on soundcheck. 4 upcoming nights, wit
 
 Basement, 61 Seongsui-ro 22-gil, Seongdong-gu, Seoul, Seoul
 
-*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/seoul/club/undercity/)*
+*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/seoul/club/undercity/)*

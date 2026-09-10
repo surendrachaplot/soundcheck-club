@@ -1,6 +1,6 @@
 # ELIXIR THURS • DR. Disko Dust aka John Ryan • MIRA • FRINGESHIP • No Cover at Northern Lights Lounge
 
-ELIXIR THURS • DR. Disko Dust aka John Ryan • MIRA • FRINGESHIP • No Cover at Northern Lights Lounge on Thu 10 Sept, Detroit. 1 act on the bill: DR. Disko Dust. Techno and Disco. Preview the line-up and save it on soundcheck.
+ELIXIR THURS • DR. Disko Dust aka John Ryan • MIRA • FRINGESHIP • No Cover at Northern Lights Lounge on Thu 10 Sept, Detroit. 2 acts on the bill: DR. Disko Dust and mira (5). Techno and Disco. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,5 +11,6 @@ ELIXIR THURS • DR. Disko Dust aka John Ryan • MIRA • FRINGESHIP • No Cov
 ## Line-up
 
 - DR. Disko Dust
+- mira (5)
 
 *Source: [soundcheck](https://soundcheck.club/e/2531341-elixir-thurs-dr-disko-dust-aka-john-ryan-mira-fringeship-no/)*

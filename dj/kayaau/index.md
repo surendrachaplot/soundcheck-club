@@ -1,6 +1,6 @@
 # KAYA (AU)
 
-KAYA (AU) is a Techno and Acid artist with 2 upcoming club dates listed on soundcheck as of Wed, 9 Sept 2026, next at Cult Nightclub, Sydney on Fri, 18 Sept 2026.
+KAYA (AU) is a Techno and Acid artist with 2 upcoming club dates listed on soundcheck as of Thu, 10 Sept 2026, next at Cult Nightclub, Sydney on Fri, 18 Sept 2026.
 
 KAYA (AU) is a techno and acid artist based in Australia, tracked on soundcheck, with 14 sets logged across Brisbane, Melbourne, Newyorkcity and Sydney. Often billed alongside mara (AU), Nik Kastel and Alex Farell. Next up: Cult Nightclub, Sydney on Fri 18 Sept.
 
@@ -26,4 +26,4 @@ KAYA (AU) is a techno and acid artist based in Australia, tracked on soundcheck,
 
 mara (AU), Nik Kastel, Alex Farell
 
-*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kayaau/)*
+*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kayaau/)*

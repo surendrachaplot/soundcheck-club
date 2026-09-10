@@ -1,6 +1,6 @@
 # Dani Sonder
 
-Dani Sonder is a House and Electronica artist with 2 upcoming club dates listed on soundcheck as of Wed, 9 Sept 2026, next at Paradise Palms, Edinburgh on Sat, 12 Sept 2026.
+Dani Sonder is a House and Electronica artist with 2 upcoming club dates listed on soundcheck as of Thu, 10 Sept 2026, next at Paradise Palms, Edinburgh on Sat, 12 Sept 2026.
 
 Dani Sonder is a house and electronica artist tracked on soundcheck, with 8 sets logged across Edinburgh. Often billed alongside George T, Jedda and Accident Machine. Next up: Paradise Palms, Edinburgh on Sat 12 Sept.
 
@@ -24,4 +24,4 @@ Dani Sonder is a house and electronica artist tracked on soundcheck, with 8 sets
 
 George T, Jedda, Accident Machine
 
-*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/danisonder/)*
+*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/danisonder/)*

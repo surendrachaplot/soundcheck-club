@@ -1,6 +1,6 @@
 # FFAN
 
-FFAN is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 9 Sept 2026, next at Nyapi, Seoul on Sat, 12 Sept 2026.
+FFAN is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 10 Sept 2026, next at Nyapi, Seoul on Sat, 12 Sept 2026.
 
 FFAN is a house and techno artist based in South Korea, tracked on soundcheck, with 215 sets logged across Amsterdam, Bali, Berlin and Hongkong and 8 more. Often billed alongside Juncheol, Kyper and YAMARCHY. Next up: Nyapi, Seoul on Sat 12 Sept.
 
@@ -25,4 +25,4 @@ FFAN is a house and techno artist based in South Korea, tracked on soundcheck, w
 
 Juncheol, Kyper, YAMARCHY
 
-*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ffan/)*
+*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ffan/)*

@@ -1,6 +1,6 @@
 # Jay Fase
 
-Jay Fase is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Wed, 9 Sept 2026, next at Audio Club, Geneva on Sat, 12 Sept 2026.
+Jay Fase is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Thu, 10 Sept 2026, next at Audio Club, Geneva on Sat, 12 Sept 2026.
 
 Jay Fase is a house and tech house artist based in Switzerland, tracked on soundcheck, with 11 sets logged across Geneva, Ibiza, Madrid and Malaga and 1 more. Often billed alongside Animal Trainer, Kintar and Kyle Linco. Next up: Audio Club, Geneva on Sat 12 Sept.
 
@@ -25,4 +25,4 @@ Jay Fase is a house and tech house artist based in Switzerland, tracked on sound
 
 Animal Trainer, Kintar, Kyle Linco
 
-*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jayfase/)*
+*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jayfase/)*

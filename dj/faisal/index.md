@@ -1,14 +1,15 @@
 # Faisal
 
-Faisal is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Wed, 9 Sept 2026, next at Ndsm Wharf, Amsterdam on Fri, 23 Oct 2026.
+Faisal is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Thu, 10 Sept 2026, next at Ndsm Wharf, Amsterdam on Fri, 23 Oct 2026.
 
-Faisal is a house and disco artist based in Belgium, tracked on soundcheck, with 29 sets logged across Amsterdam, Antwerp, Barcelona and Berlin and 4 more. Often billed alongside Bibi Seck, Yosef (ES) and BAVR. Next up: Ndsm Wharf, Amsterdam on Fri 23 Oct.
+Faisal is a house and disco artist based in Belgium, tracked on soundcheck, with 30 sets logged across Amsterdam, Antwerp, Barcelona and Berlin and 4 more. Often billed alongside Bibi Seck, BAVR and Yosef (ES). Next up: Ndsm Wharf, Amsterdam on Fri 23 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 23 Oct 2026 | Ndsm Wharf | Amsterdam |
+| Sat, 21 Nov 2026 | TBA - Brussels | Brussels |
 
 ## Recently played
 
@@ -23,6 +24,6 @@ Faisal is a house and disco artist based in Belgium, tracked on soundcheck, with
 
 ## Shares bills with
 
-Bibi Seck, Yosef (ES), BAVR
+Bibi Seck, BAVR, Yosef (ES)
 
-*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/faisal/)*
+*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/faisal/)*

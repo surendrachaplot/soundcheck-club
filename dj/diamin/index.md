@@ -1,6 +1,6 @@
 # Diamin
 
-Diamin is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Wed, 9 Sept 2026, next at Sameheads, Berlin on Fri, 25 Sept 2026.
+Diamin is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 10 Sept 2026, next at Sameheads, Berlin on Fri, 25 Sept 2026.
 
 Diamin is a techno and house artist tracked on soundcheck, with 105 sets logged across Amsterdam, Barcelona, Belgrade and Berlin and 24 more. Often billed alongside Jane Fitz, Adi (CO) and Alicia Carrera. Next up: Sameheads, Berlin on Fri 25 Sept.
 
@@ -26,4 +26,4 @@ Diamin is a techno and house artist tracked on soundcheck, with 105 sets logged 
 
 Jane Fitz, Adi (CO), Alicia Carrera
 
-*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/diamin/)*
+*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/diamin/)*

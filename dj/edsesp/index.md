@@ -1,6 +1,6 @@
 # EDS (ESP)
 
-EDS (ESP) is a Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 9 Sept 2026, next at M7 Club, Barcelona on Sat, 19 Sept 2026.
+EDS (ESP) is a Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 10 Sept 2026, next at M7 Club, Barcelona on Sat, 19 Sept 2026.
 
 EDS (ESP) is a techno artist tracked on soundcheck, with 7 sets logged across Barcelona. Often billed alongside JMarga (2), KBTO (2) and Koalaz. Next up: M7 Club, Barcelona on Sat 19 Sept.
 
@@ -23,4 +23,4 @@ EDS (ESP) is a techno artist tracked on soundcheck, with 7 sets logged across Ba
 
 JMarga (2), KBTO (2), Koalaz
 
-*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/edsesp/)*
+*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/edsesp/)*

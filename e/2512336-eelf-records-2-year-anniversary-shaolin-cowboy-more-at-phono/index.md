@@ -1,6 +1,6 @@
 # EELF RECORDS - 2 YEAR ANNIVERSARY: Shaolin Cowboy + MORE at Phonox
 
-EELF RECORDS - 2 YEAR ANNIVERSARY: Shaolin Cowboy + MORE at Phonox on Sat 14 Nov, London. 3 acts on the bill: Paluma Sound, Shaolin Cowboy and surfbored. (2). Preview the line-up and save it on soundcheck.
+EELF RECORDS - 2 YEAR ANNIVERSARY: Shaolin Cowboy + MORE at Phonox on Sat 14 Nov, London. 4 acts on the bill: Esther, Paluma Sound, Shaolin Cowboy and surfbored. (2). Electronica. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ EELF RECORDS - 2 YEAR ANNIVERSARY: Shaolin Cowboy + MORE at Phonox on Sat 14 Nov
 
 ## Line-up
 
+- Esther
 - Paluma Sound
 - Shaolin Cowboy
 - surfbored. (2)

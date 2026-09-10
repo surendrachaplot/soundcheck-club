@@ -1,14 +1,13 @@
 # Jamie Jones
 
-Jamie Jones is a House and Tech House artist with 13 upcoming club dates listed on soundcheck as of Wed, 9 Sept 2026, next at [UNVRS], Ibiza on Wed, 9 Sept 2026.
+Jamie Jones is a House and Tech House artist with 12 upcoming club dates listed on soundcheck as of Thu, 10 Sept 2026, next at Green Room NYC, New York City on Sat, 12 Sept 2026.
 
-Jamie Jones is a house and tech house artist tracked on soundcheck, with 211 sets logged across Amsterdam, Austin, Bali and Barcelona and 31 more. Often billed alongside Joseph Capriati, Manda Moor and ALISHA. Next up: [UNVRS], Ibiza on Wed 9 Sept.
+Jamie Jones is a house and tech house artist tracked on soundcheck, with 211 sets logged across Amsterdam, Austin, Bali and Barcelona and 31 more. Often billed alongside Joseph Capriati, Manda Moor and ALISHA. Next up: Green Room NYC, Newyorkcity on Sat 12 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Wed, 9 Sept 2026 | [UNVRS] | Ibiza |
 | Sat, 12 Sept 2026 | Green Room NYC | New York City |
 | Wed, 16 Sept 2026 | [UNVRS] | Ibiza |
 | Fri, 18 Sept 2026 | Pacha Ibiza | Ibiza |
@@ -20,9 +19,11 @@ Jamie Jones is a house and tech house artist tracked on soundcheck, with 211 set
 | Fri, 9 Oct 2026 | Pacha New York | New York City |
 | Fri, 23 Oct 2026 | Mediahaven - Minervahaven | Amsterdam |
 | Fri, 30 Oct 2026 | Factory Town | Miami |
+| Fri, 30 Oct 2026 | NOS Event Center | Los Angeles |
 
 ## Recently played
 
+- [UNVRS], Ibiza — Wed, 9 Sept 2026
 - [UNVRS], Ibiza — Wed, 2 Sept 2026
 - Kelvedon Hall, London — Sat, 29 Aug 2026
 - [UNVRS], Ibiza — Wed, 26 Aug 2026
@@ -30,10 +31,9 @@ Jamie Jones is a house and tech house artist tracked on soundcheck, with 211 set
 - [UNVRS], Ibiza — Wed, 12 Aug 2026
 - Sloterpark, Amsterdam — Sat, 8 Aug 2026
 - Parc del Fòrum, Barcelona — Fri, 7 Aug 2026
-- [UNVRS], Ibiza — Wed, 5 Aug 2026
 
 ## Shares bills with
 
 Joseph Capriati, Manda Moor, ALISHA
 
-*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jamiejones/)*
+*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jamiejones/)*

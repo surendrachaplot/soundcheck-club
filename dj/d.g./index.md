@@ -1,8 +1,8 @@
 # D.G.
 
-D.G. is a Acid and House artist with 1 upcoming club date listed on soundcheck as of Wed, 9 Sept 2026, next at radial, London on Sat, 10 Oct 2026.
+D.G. is a House and Acid artist with 1 upcoming club date listed on soundcheck as of Thu, 10 Sept 2026, next at radial, London on Sat, 10 Oct 2026.
 
-D.G. is an acid and house artist tracked on soundcheck, with 4 sets logged across London and Mexicocity. Often billed alongside FIDDI, Dwight Evan and FLAK. Next up: radial, London on Sat 10 Oct.
+D.G. is a house and acid artist tracked on soundcheck, with 4 sets logged across London and Mexicocity. Often billed alongside FIDDI, Dwight Evan and FLAK. Next up: radial, London on Sat 10 Oct.
 
 ## Upcoming shows
 
@@ -20,4 +20,4 @@ D.G. is an acid and house artist tracked on soundcheck, with 4 sets logged acros
 
 FIDDI, Dwight Evan, FLAK
 
-*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/d.g./)*
+*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/d.g./)*

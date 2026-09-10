@@ -1,6 +1,6 @@
 # Fortuno
 
-Fortuno is a House artist with 1 upcoming club date listed on soundcheck as of Wed, 9 Sept 2026, next at Sala El Sol, Madrid on Fri, 11 Sept 2026.
+Fortuno is a House artist with 1 upcoming club date listed on soundcheck as of Thu, 10 Sept 2026, next at Sala El Sol, Madrid on Fri, 11 Sept 2026.
 
 Fortuno is a house artist tracked on soundcheck, with 47 sets logged across Madrid. Often billed alongside AMANN, COLLISION and CAMET. Next up: Sala El Sol, Madrid on Fri 11 Sept.
 
@@ -25,4 +25,4 @@ Fortuno is a house artist tracked on soundcheck, with 47 sets logged across Madr
 
 AMANN, COLLISION, CAMET
 
-*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/fortuno-2/)*
+*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/fortuno-2/)*

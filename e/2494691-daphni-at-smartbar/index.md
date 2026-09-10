@@ -1,6 +1,6 @@
 # Daphni at smartbar
 
-Daphni at smartbar on Sat 19 Sept, Chicago. 1 act on the bill: Daphni. House and Electronica. Preview the line-up and save it on soundcheck.
+Daphni at smartbar on Sat 19 Sept, Chicago. 2 acts on the bill: Daphni and Phillip Stone. House and Electronica. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,5 +11,6 @@ Daphni at smartbar on Sat 19 Sept, Chicago. 1 act on the bill: Daphni. House and
 ## Line-up
 
 - Daphni
+- Phillip Stone
 
 *Source: [soundcheck](https://soundcheck.club/e/2494691-daphni-at-smartbar/)*

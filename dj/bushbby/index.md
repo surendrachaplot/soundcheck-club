@@ -1,6 +1,6 @@
 # Bushbby
 
-Bushbby is a Reggaeton and Latin Bass artist with 2 upcoming club dates listed on soundcheck as of Wed, 9 Sept 2026, next at Colour Factory, London on Thu, 17 Sept 2026.
+Bushbby is a Reggaeton and Latin Bass artist with 2 upcoming club dates listed on soundcheck as of Thu, 10 Sept 2026, next at Colour Factory, London on Thu, 17 Sept 2026.
 
 Bushbby is a reggaeton and latin bass artist tracked on soundcheck, with 99 sets logged across Barcelona, Bristol, Brussels and Geneva and 8 more. Often billed alongside Papaoul, Arthi and CXLI. Next up: Colour Factory, London on Thu 17 Sept.
 
@@ -26,4 +26,4 @@ Bushbby is a reggaeton and latin bass artist tracked on soundcheck, with 99 sets
 
 Papaoul, Arthi, CXLI
 
-*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bushbby/)*
+*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bushbby/)*

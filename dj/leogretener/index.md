@@ -1,6 +1,6 @@
 # Leo Gretener
 
-Leo Gretener is a Electronica and Tech House artist with 2 upcoming club dates listed on soundcheck as of Wed, 9 Sept 2026, next at Canal 54, Geneva on Sat, 12 Sept 2026.
+Leo Gretener is a Electronica and Tech House artist with 2 upcoming club dates listed on soundcheck as of Thu, 10 Sept 2026, next at Canal 54, Geneva on Sat, 12 Sept 2026.
 
 Leo Gretener is an electronica and tech house artist based in Switzerland, tracked on soundcheck, with 26 sets logged across Geneva, Manchester and Zurich. Often billed alongside Princess P, Kalabrese and Ethimm. Next up: Canal 54, Geneva on Sat 12 Sept.
 
@@ -26,4 +26,4 @@ Leo Gretener is an electronica and tech house artist based in Switzerland, track
 
 Princess P, Kalabrese, Ethimm
 
-*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/leogretener/)*
+*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/leogretener/)*

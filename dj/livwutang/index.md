@@ -1,6 +1,6 @@
 # livwutang
 
-livwutang is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Wed, 9 Sept 2026, next at Camp Kennybrook, New York City on Thu, 10 Sept 2026.
+livwutang is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Thu, 10 Sept 2026, next at Camp Kennybrook, New York City on Thu, 10 Sept 2026.
 
 livwutang is a techno and house artist tracked on soundcheck, with 187 sets logged across Amsterdam, Barcelona, Berlin and Bristol and 39 more. Often billed alongside Kia (AU), Nick León and Richard Akingbehin. Next up: Camp Kennybrook, Newyorkcity on Thu 10 Sept.
 
@@ -30,4 +30,4 @@ livwutang is a techno and house artist tracked on soundcheck, with 187 sets logg
 
 Kia (AU), Nick León, Richard Akingbehin
 
-*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/livwutang/)*
+*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/livwutang/)*

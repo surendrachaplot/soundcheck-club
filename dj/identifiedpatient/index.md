@@ -1,8 +1,8 @@
 # Identified Patient
 
-Identified Patient is a Techno and Electro artist with 5 upcoming club dates listed on soundcheck as of Wed, 9 Sept 2026, next at Signal, New York City on Fri, 11 Sept 2026.
+Identified Patient is a Techno and Electro artist with 6 upcoming club dates listed on soundcheck as of Thu, 10 Sept 2026, next at Signal, New York City on Fri, 11 Sept 2026.
 
-Identified Patient is a techno and electro artist tracked on soundcheck, with 159 sets logged across Amsterdam, Antwerp, Athens and Bangkok and 43 more. Often billed alongside Patient (MT), mad miran and DjRUM. Next up: Signal, Newyorkcity on Fri 11 Sept.
+Identified Patient is a techno and electro artist tracked on soundcheck, with 160 sets logged across Amsterdam, Antwerp, Athens and Bangkok and 43 more. Often billed alongside Patient (MT), mad miran and DjRUM. Next up: Signal, Newyorkcity on Fri 11 Sept.
 
 ## Upcoming shows
 
@@ -13,6 +13,7 @@ Identified Patient is a techno and electro artist tracked on soundcheck, with 15
 | Fri, 18 Sept 2026 | Fort Mifflin | Philadelphia |
 | Sat, 19 Sept 2026 | TBA | Detroit |
 | Fri, 23 Oct 2026 | Het Rijk van de Keizer | Amsterdam |
+| Sat, 24 Oct 2026 | Radio Radio | Amsterdam |
 
 ## Recently played
 
@@ -29,4 +30,4 @@ Identified Patient is a techno and electro artist tracked on soundcheck, with 15
 
 Patient (MT), mad miran, DjRUM
 
-*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/identifiedpatient/)*
+*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/identifiedpatient/)*

@@ -1,6 +1,6 @@
 # S.O.N.S
 
-S.O.N.S is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Wed, 9 Sept 2026, next at Hertz, Seoul on Fri, 11 Sept 2026.
+S.O.N.S is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Thu, 10 Sept 2026, next at Hertz, Seoul on Fri, 11 Sept 2026.
 
 S.O.N.S is a techno and house artist tracked on soundcheck, with 85 sets logged across Amsterdam, Barcelona, Berlin and Bristol and 22 more. Often billed alongside Yeonjun, GNMR and Minkyu. Next up: Hertz, Seoul on Fri 11 Sept.
 
@@ -28,4 +28,4 @@ S.O.N.S is a techno and house artist tracked on soundcheck, with 85 sets logged 
 
 Yeonjun, GNMR, Minkyu
 
-*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sons/)*
+*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sons/)*

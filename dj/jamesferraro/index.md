@@ -1,14 +1,15 @@
 # James Ferraro
 
-James Ferraro is a Ambient and Experimental artist with 1 upcoming club date listed on soundcheck as of Wed, 9 Sept 2026, next at TBA - Multiple Historic Venues - Manhattan & Brooklyn, New York City on Fri, 25 Sept 2026.
+James Ferraro is a Experimental and Ambient artist with 2 upcoming club dates listed on soundcheck as of Thu, 10 Sept 2026, next at TBA - Multiple Historic Venues - Manhattan & Brooklyn, New York City on Fri, 25 Sept 2026.
 
-James Ferraro is an ambient and experimental artist tracked on soundcheck, with 8 sets logged across Athens, Berlin, Cologne and London and 2 more. Often billed alongside ALECCHINA, Angel Rocket and Carl Stone. Next up: TBA - Multiple Historic Venues - Manhattan & Brooklyn, Newyorkcity on Fri 25 Sept.
+James Ferraro is an experimental and ambient artist tracked on soundcheck, with 9 sets logged across Athens, Berlin, Cologne and London and 2 more. Often billed alongside james K, ALECCHINA and Angel Rocket. Next up: TBA - Multiple Historic Venues - Manhattan & Brooklyn, Newyorkcity on Fri 25 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 25 Sept 2026 | TBA - Multiple Historic Venues - Manhattan & Brooklyn | New York City |
+| Fri, 25 Sept 2026 | Co-Cathedral of St. Joseph | New York City |
 
 ## Recently played
 
@@ -22,6 +23,6 @@ James Ferraro is an ambient and experimental artist tracked on soundcheck, with 
 
 ## Shares bills with
 
-ALECCHINA, Angel Rocket, Carl Stone
+james K, ALECCHINA, Angel Rocket
 
-*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jamesferraro/)*
+*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jamesferraro/)*

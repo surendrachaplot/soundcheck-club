@@ -1,6 +1,6 @@
 # AFTER 2049 presents: Claptone & Crusy at Marina Bay Sands
 
-AFTER 2049 presents: Claptone & Crusy at Marina Bay Sands on Fri 9 Oct, Singapore. 6 acts on the bill: ANONM, Claptone, Crusy and Leon and 2 more. Deep House and Afro House. Preview the line-up and save it on soundcheck.
+AFTER 2049 presents: Claptone & Crusy at Marina Bay Sands on Fri 9 Oct, Singapore. 6 acts on the bill: ANONM, Claptone, Crusy and Leon and 2 more. Tech House and Afro House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

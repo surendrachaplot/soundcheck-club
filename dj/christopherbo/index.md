@@ -1,6 +1,6 @@
 # Christopher Bo
 
-Christopher Bo is a Noise and Industrial artist with 1 upcoming club date listed on soundcheck as of Wed, 9 Sept 2026, next at TBA - TRXXXTR, Berlin on Thu, 10 Sept 2026.
+Christopher Bo is a Noise and Industrial artist with 1 upcoming club date listed on soundcheck as of Thu, 10 Sept 2026, next at TBA - TRXXXTR, Berlin on Thu, 10 Sept 2026.
 
 Christopher Bo is a noise and industrial artist tracked on soundcheck, with 5 sets logged across Berlin. Often billed alongside Adelina, Alys and Bejenec. Next up: TBA - TRXXXTR, Berlin on Thu 10 Sept.
 
@@ -21,4 +21,4 @@ Christopher Bo is a noise and industrial artist tracked on soundcheck, with 5 se
 
 Adelina, Alys, Bejenec
 
-*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/christopherbo/)*
+*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/christopherbo/)*

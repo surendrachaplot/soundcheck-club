@@ -1,8 +1,8 @@
 # Radio Radio
 
-Radio Radio is a music venue in Amsterdam with 9 upcoming nights listed on soundcheck as of Wed, 9 Sept 2026; the next is "Radio Radio 8Y Anniversary" on Fri, 11 Sept 2026.
+Radio Radio is a music venue in Amsterdam with 14 upcoming nights listed on soundcheck as of Thu, 10 Sept 2026; the next is "Radio Radio 8Y Anniversary" on Fri, 11 Sept 2026.
 
-Radio Radio is a music venue in Amsterdam listed on soundcheck. 9 upcoming nights, with line-ups including Aldonna, Bennet (DE), Benny Rodrigues and Berkan V8 and 2 more. Browse upcoming dates, start times and who's playing. Pazzanistraat 3.
+Radio Radio is a music venue in Amsterdam listed on soundcheck. 14 upcoming nights, with line-ups including Aldonna, Bambii, Bennet (DE) and Benny Rodrigues and 2 more. Browse upcoming dates, start times and who's playing. Pazzanistraat 3.
 
 ## What's on
 
@@ -15,11 +15,12 @@ Radio Radio is a music venue in Amsterdam listed on soundcheck. 9 upcoming night
 | Sat, 19 Sept 2026 | Dimitri • jannah | Dimitri K, jannah |
 | Fri, 25 Sept 2026 | M-High • Shanne | M-High, Shanne |
 | Sat, 26 Sept 2026 | John Tejada • Monty DJ | John Tejada, Monty DJ |
+| Wed, 21 Oct 2026 | Because x REX: Bambii, Greg, Logic1000, Miley Serious, Busy P, Chloé, Tatyana Jane,Mad Rey | Bambii, Busy P, Chloé, Greg (2), Logic1000, Mad Rey, Miley Serious, Tatyana Jane |
+| Thu, 22 Oct 2026 | ADE: Semi Delicious with Demi Riquísimo • Kamma • Retromigration b2b Lulah Francs | Demi Riquisimo, Kamma, Lulah Francs, Retromigration |
 | Fri, 23 Oct 2026 | ADE: Baskets x Salomon with Benny Rodrigues • Laura Meester • Merel Helderman | Benny Rodrigues, Laura Meester, Merel Helderman |
-| Sun, 25 Oct 2026 | amore x radio radio / ADE night closing (12h) | Bennet (DE), Berkan V8, Doran, Jasmín, Karina Schneider, Victor (DE) |
 
 ## Address
 
 Pazzanistraat 3, Amsterdam
 
-*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/radio-radio/)*
+*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/radio-radio/)*

@@ -1,6 +1,6 @@
 # Sally C
 
-Sally C is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Wed, 9 Sept 2026, next at Berghain | Panorama Bar | Säule, Berlin on Fri, 11 Sept 2026.
+Sally C is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Thu, 10 Sept 2026, next at Berghain | Panorama Bar | Säule, Berlin on Fri, 11 Sept 2026.
 
 Sally C is a house and techno artist tracked on soundcheck, with 263 sets logged across Amsterdam, Antwerp, Auckland and Austin and 63 more. Often billed alongside Spray, DJ BORING and Eliza Rose. Next up: Berghain | Panorama Bar | Säule, Berlin on Fri 11 Sept.
 
@@ -28,4 +28,4 @@ Sally C is a house and techno artist tracked on soundcheck, with 263 sets logged
 
 Spray, DJ BORING, Eliza Rose
 
-*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sallyc/)*
+*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sallyc/)*

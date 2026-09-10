@@ -1,6 +1,6 @@
 # Cadavra
 
-Cadavra is a music venue in Madrid with 26 upcoming nights listed on soundcheck as of Wed, 9 Sept 2026; the next is "SERNA & Safia at Anfang" on Thu, 10 Sept 2026.
+Cadavra is a music venue in Madrid with 26 upcoming nights listed on soundcheck as of Thu, 10 Sept 2026; the next is "SERNA & Safia at Anfang" on Thu, 10 Sept 2026.
 
 Cadavra is a music venue in Madrid listed on soundcheck. 26 upcoming nights, with line-ups including 2garlics, Alvaro Cabana, Amaliah and Anika Kunst and 2 more. Browse upcoming dates, start times and who's playing. C. del Caballero de Gracia, 10, Centro, 28013 Madrid, Spain.
 
@@ -10,7 +10,7 @@ Cadavra is a music venue in Madrid listed on soundcheck. 26 upcoming nights, wit
 | --- | --- | --- |
 | Thu, 10 Sept 2026 | SERNA & Safia at Anfang | SERNA, Safia (2) |
 | Fri, 11 Sept 2026 | TROOPERS x CHECKPOINT | Lisandro Mustapic, MARYO, Sampol |
-| Sat, 12 Sept 2026 | Certain Club x Hypersoft with DJ TEETH & E.Talking | Certain People, DJ TEETH, E-Talking, Emi Koto |
+| Sat, 12 Sept 2026 | Certain Club x Hypersoft with DJ TEETH & E.Talking | Arque, Certain People, DJ TEETH, E-Talking, Emi Koto |
 | Thu, 17 Sept 2026 | Mario Blur, Jakka & Noot Noot at Anfang Fam Day | Jakka, Mario Blur, Noot Noot, Safia (2) |
 | Fri, 18 Sept 2026 | CDVR with HearThug | Cortazar, HearThug, Nurias, Orson Sinaka |
 | Sat, 19 Sept 2026 | HORS-SOL with Amaliah | Amaliah, HORS-SOL, Jolly (FR), Lastvuska, Maryu, cris sinaka |
@@ -23,4 +23,4 @@ Cadavra is a music venue in Madrid listed on soundcheck. 26 upcoming nights, wit
 
 C. del Caballero de Gracia, 10, Centro, 28013 Madrid, Spain, Madrid
 
-*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/cadavra/)*
+*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/cadavra/)*

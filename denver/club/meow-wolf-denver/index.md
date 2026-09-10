@@ -1,14 +1,16 @@
 # Meow Wolf Denver
 
-Meow Wolf Denver is a music venue in Denver with 3 upcoming nights listed on soundcheck as of Wed, 9 Sept 2026; the next is "Danceportation: PlayHaus - A Queer Psychedelic Haunted Haus" on Fri, 23 Oct 2026.
+Meow Wolf Denver is a music venue in Denver with 5 upcoming nights listed on soundcheck as of Thu, 10 Sept 2026; the next is "Danceportation: PlayHaus - A Queer Psychedelic Haunted Haus" on Fri, 23 Oct 2026.
 
-Meow Wolf Denver is a music venue in Denver listed on soundcheck. 3 upcoming nights, with line-ups including Bag Raiders and Cut Copy. Browse upcoming dates, start times and who's playing. 1338 1st St, Denver, CO 80204.
+Meow Wolf Denver is a music venue in Denver listed on soundcheck. 5 upcoming nights, with line-ups including Bag Raiders, Cut Copy, LSDXOXO and Matt Suave and 2 more. Browse upcoming dates, start times and who's playing. 1338 1st St, Denver, CO 80204.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
 | Fri, 23 Oct 2026 | Danceportation: PlayHaus - A Queer Psychedelic Haunted Haus |  |
+| Fri, 23 Oct 2026 | Danceportation: PlayHaus - A Queer Psychedelic Haunted Haus Party | Matt Suave, The Knocks |
+| Sat, 24 Oct 2026 | Danceportation: PlayHaus - A Queer Psychedelic Haunted Haus Party | LSDXOXO, Mz Worthy |
 | Sat, 7 Nov 2026 | Cut Copy (DJ Set) | Cut Copy |
 | Fri, 20 Nov 2026 | Bag Raiders | Bag Raiders |
 
@@ -16,4 +18,4 @@ Meow Wolf Denver is a music venue in Denver listed on soundcheck. 3 upcoming nig
 
 1338 1st St, Denver, CO 80204, Denver
 
-*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/denver/club/meow-wolf-denver/)*
+*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/denver/club/meow-wolf-denver/)*

@@ -1,6 +1,6 @@
 # Rohaan
 
-Rohaan is a Drum & Bass and Bass artist with 4 upcoming club dates listed on soundcheck as of Wed, 9 Sept 2026, next at Lincoln Factory, Detroit on Fri, 11 Sept 2026.
+Rohaan is a Drum & Bass and Bass artist with 4 upcoming club dates listed on soundcheck as of Thu, 10 Sept 2026, next at Lincoln Factory, Detroit on Fri, 11 Sept 2026.
 
 Rohaan is a drum & bass and bass artist based in United Kingdom, tracked on soundcheck, with 28 sets logged across Auckland, Brighton, Brisbane and Bristol and 16 more. Often billed alongside Buunshin, Ivy Lab and D Double E. Next up: Lincoln Factory, Detroit on Fri 11 Sept.
 
@@ -28,4 +28,4 @@ Rohaan is a drum & bass and bass artist based in United Kingdom, tracked on soun
 
 Buunshin, Ivy Lab, D Double E
 
-*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/rohaan/)*
+*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/rohaan/)*

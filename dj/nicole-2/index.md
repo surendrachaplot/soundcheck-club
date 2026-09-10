@@ -1,6 +1,6 @@
 # Nicole.
 
-Nicole. is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Wed, 9 Sept 2026, next at Marmorbar, Berlin on Fri, 18 Sept 2026.
+Nicole. is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 10 Sept 2026, next at Marmorbar, Berlin on Fri, 18 Sept 2026.
 
 Nicole. is a techno and house artist tracked on soundcheck, with 51 sets logged across Berlin, Bucharest, Copenhagen and Hamburg and 5 more. Often billed alongside DJ Troy, Bekuchi and NX (1). Next up: Marmorbar, Berlin on Fri 18 Sept.
 
@@ -26,4 +26,4 @@ Nicole. is a techno and house artist tracked on soundcheck, with 51 sets logged 
 
 DJ Troy, Bekuchi, NX (1)
 
-*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nicole-2/)*
+*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nicole-2/)*

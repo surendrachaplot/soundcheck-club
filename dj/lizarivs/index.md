@@ -1,14 +1,15 @@
 # Liza Rivs
 
-Liza Rivs is a Techno and Experimental artist with 1 upcoming club date listed on soundcheck as of Wed, 9 Sept 2026, next at RSO.BERLIN, Berlin on Fri, 18 Sept 2026.
+Liza Rivs is a Techno and Experimental artist with 2 upcoming club dates listed on soundcheck as of Thu, 10 Sept 2026, next at RSO.BERLIN, Berlin on Fri, 18 Sept 2026.
 
-Liza Rivs is a techno and experimental artist tracked on soundcheck, with 60 sets logged across Berlin, London, Losangeles and Lyon and 8 more. Often billed alongside Boyd Schidt, Puritan and Vulkanski. Next up: RSO.BERLIN, Berlin on Fri 18 Sept.
+Liza Rivs is a techno and experimental artist tracked on soundcheck, with 61 sets logged across Berlin, London, Losangeles and Lyon and 8 more. Often billed alongside Boyd Schidt, Frequency Shifter and Puritan. Next up: RSO.BERLIN, Berlin on Fri 18 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 18 Sept 2026 | RSO.BERLIN | Berlin |
+| Fri, 25 Sept 2026 | KHIDI | Tbilisi |
 
 ## Recently played
 
@@ -23,6 +24,6 @@ Liza Rivs is a techno and experimental artist tracked on soundcheck, with 60 set
 
 ## Shares bills with
 
-Boyd Schidt, Puritan, Vulkanski
+Boyd Schidt, Frequency Shifter, Puritan
 
-*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lizarivs/)*
+*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lizarivs/)*

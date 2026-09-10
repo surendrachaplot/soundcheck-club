@@ -1,6 +1,6 @@
 # BERHTA
 
-BERHTA is a music venue in Washington DC with 23 upcoming nights listed on soundcheck as of Wed, 9 Sept 2026; the next is "Walker & Royce, Vnssa, Luke Andy" on Fri, 11 Sept 2026.
+BERHTA is a music venue in Washington DC with 23 upcoming nights listed on soundcheck as of Thu, 10 Sept 2026; the next is "Walker & Royce, Vnssa, Luke Andy" on Fri, 11 Sept 2026.
 
 BERHTA is a music venue in Washingtondc listed on soundcheck. 23 upcoming nights, with line-ups including 100 gecs, Anfisa Letyago, Cassian and Chus & Ceballos and 2 more. Browse upcoming dates, start times and who's playing. 1237 W Place NE, Washington, D.C., 20018.
 
@@ -23,4 +23,4 @@ BERHTA is a music venue in Washingtondc listed on soundcheck. 23 upcoming nights
 
 1237 W Place NE, Washington, D.C., 20018, Washington DC
 
-*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/washingtondc/club/berhta/)*
+*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/washingtondc/club/berhta/)*

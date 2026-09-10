@@ -1,6 +1,6 @@
 # Lady Dammage
 
-Lady Dammage is a Hardcore and Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 9 Sept 2026, next at Titan Xyphos Complex, Lyon on Fri, 25 Sept 2026.
+Lady Dammage is a Hardcore and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 10 Sept 2026, next at Titan Xyphos Complex, Lyon on Fri, 25 Sept 2026.
 
 Lady Dammage is a hardcore and techno artist based in Spain, tracked on soundcheck, with 15 sets logged across Barcelona, Cologne, Frankfurt and Glasgow and 4 more. Often billed alongside Art of Fighters, Dimitri K and Hysteria. Next up: Titan Xyphos Complex, Lyon on Fri 25 Sept.
 
@@ -26,4 +26,4 @@ Lady Dammage is a hardcore and techno artist based in Spain, tracked on soundche
 
 Art of Fighters, Dimitri K, Hysteria
 
-*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ladydammage/)*
+*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ladydammage/)*

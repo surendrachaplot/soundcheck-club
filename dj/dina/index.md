@@ -1,6 +1,6 @@
 # DINA
 
-DINA is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Wed, 9 Sept 2026, next at De Thomaskerk, Amsterdam on Fri, 23 Oct 2026.
+DINA is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Thu, 10 Sept 2026, next at De Thomaskerk, Amsterdam on Fri, 23 Oct 2026.
 
 DINA is a techno and trance artist tracked on soundcheck, with 130 sets logged across Amsterdam, Barcelona, Basel and Belgrade and 35 more. Often billed alongside Alpha Tracks, Philipp Drube and Jeans (NL). Next up: De Thomaskerk, Amsterdam on Fri 23 Oct.
 
@@ -26,4 +26,4 @@ DINA is a techno and trance artist tracked on soundcheck, with 130 sets logged a
 
 Alpha Tracks, Philipp Drube, Jeans (NL)
 
-*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dina/)*
+*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dina/)*

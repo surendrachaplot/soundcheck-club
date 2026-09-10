@@ -1,6 +1,6 @@
 # ETEREA
 
-ETEREA is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Wed, 9 Sept 2026, next at Cova Santa, Ibiza on Thu, 17 Sept 2026.
+ETEREA is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Thu, 10 Sept 2026, next at Cova Santa, Ibiza on Thu, 17 Sept 2026.
 
 ETEREA is a house and deep house artist based in Spain, tracked on soundcheck, with 10 sets logged across Ibiza, London and Madrid. Often billed alongside Alvaro Medina, Bob Tosh and CAAL. Next up: Cova Santa, Ibiza on Thu 17 Sept.
 
@@ -25,4 +25,4 @@ ETEREA is a house and deep house artist based in Spain, tracked on soundcheck, w
 
 Alvaro Medina, Bob Tosh, CAAL
 
-*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/eterea/)*
+*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/eterea/)*

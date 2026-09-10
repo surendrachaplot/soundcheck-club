@@ -1,8 +1,8 @@
 # Malive
 
-Malive is a House and Tech House artist with 5 upcoming club dates listed on soundcheck as of Wed, 9 Sept 2026, next at Savaya Bali, Bali on Sat, 19 Sept 2026.
+Malive is a House and Tech House artist with 6 upcoming club dates listed on soundcheck as of Thu, 10 Sept 2026, next at Savaya Bali, Bali on Sat, 19 Sept 2026.
 
-Malive is a house and tech house artist tracked on soundcheck, with 32 sets logged across Amsterdam, Athens, Bali and Barcelona and 15 more. Often billed alongside Betical, Jonas Blue and Korolova. Next up: Savaya Bali, Bali on Sat 19 Sept.
+Malive is a house and tech house artist tracked on soundcheck, with 33 sets logged across Amsterdam, Athens, Bali and Barcelona and 15 more. Often billed alongside Betical, Jonas Blue and Korolova. Next up: Savaya Bali, Bali on Sat 19 Sept.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Malive is a house and tech house artist tracked on soundcheck, with 32 sets logg
 | --- | --- | --- |
 | Sat, 19 Sept 2026 | Savaya Bali | Bali |
 | Wed, 30 Sept 2026 | Hï Ibiza | Ibiza |
+| Sat, 3 Oct 2026 | Jungle Island | Miami |
 | Fri, 9 Oct 2026 | Madarae San Francisco | San Francisco/Oakland |
 | Sat, 24 Oct 2026 | THE OTHER SIDE | Amsterdam |
 | Fri, 30 Oct 2026 | Lula Club | Madrid |
@@ -29,4 +30,4 @@ Malive is a house and tech house artist tracked on soundcheck, with 32 sets logg
 
 Betical, Jonas Blue, Korolova
 
-*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/malive/)*
+*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/malive/)*

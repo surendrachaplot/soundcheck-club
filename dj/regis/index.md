@@ -1,6 +1,6 @@
 # Regis
 
-Regis is a Techno and Drum & Bass artist with 5 upcoming club dates listed on soundcheck as of Wed, 9 Sept 2026, next at Church of the Holy Trinity, Toronto on Sat, 12 Sept 2026.
+Regis is a Techno and Drum & Bass artist with 5 upcoming club dates listed on soundcheck as of Thu, 10 Sept 2026, next at Church of the Holy Trinity, Toronto on Sat, 12 Sept 2026.
 
 Regis is a techno and drum & bass artist tracked on soundcheck, with 106 sets logged across Amsterdam, Athens, Barcelona and Berlin and 27 more. Often billed alongside Sandwell District, Function and Samuel Kerridge. Next up: Church of the Holy Trinity, Toronto on Sat 12 Sept.
 
@@ -29,4 +29,4 @@ Regis is a techno and drum & bass artist tracked on soundcheck, with 106 sets lo
 
 Sandwell District, Function, Samuel Kerridge
 
-*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/regis/)*
+*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/regis/)*

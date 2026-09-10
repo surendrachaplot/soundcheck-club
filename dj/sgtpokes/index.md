@@ -1,14 +1,15 @@
 # SGT Pokes
 
-SGT Pokes is a Dubstep and Bass artist with 1 upcoming club date listed on soundcheck as of Wed, 9 Sept 2026, next at Beaver Works, Leeds on Sat, 3 Oct 2026.
+SGT Pokes is a Dubstep and Bass artist with 2 upcoming club dates listed on soundcheck as of Thu, 10 Sept 2026, next at Beaver Works, Leeds on Sat, 3 Oct 2026.
 
-SGT Pokes is a dubstep and bass artist tracked on soundcheck, with 97 sets logged across Antwerp, Barcelona, Berlin and Brighton and 10 more. Often billed alongside DUKU, Mala and Dub Athlete. Next up: Beaver Works, Leeds on Sat 3 Oct.
+SGT Pokes is a dubstep and bass artist tracked on soundcheck, with 98 sets logged across Antwerp, Barcelona, Berlin and Brighton and 10 more. Often billed alongside DUKU, Mala and Dub Athlete. Next up: Beaver Works, Leeds on Sat 3 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 3 Oct 2026 | Beaver Works | Leeds |
+| Sat, 17 Oct 2026 | The Prospect Building | Bristol |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ SGT Pokes is a dubstep and bass artist tracked on soundcheck, with 97 sets logge
 
 DUKU, Mala, Dub Athlete
 
-*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sgtpokes/)*
+*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sgtpokes/)*

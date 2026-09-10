@@ -1,6 +1,6 @@
 # Chris Luno
 
-Chris Luno is a House and Deep House artist with 4 upcoming club dates listed on soundcheck as of Wed, 9 Sept 2026, next at Loo Loo, Mexico City on Thu, 17 Sept 2026.
+Chris Luno is a House and Deep House artist with 4 upcoming club dates listed on soundcheck as of Thu, 10 Sept 2026, next at Loo Loo, Mexico City on Thu, 17 Sept 2026.
 
 Chris Luno is a house and deep house artist tracked on soundcheck, with 76 sets logged across Amsterdam, Bali, Basel and Berlin and 35 more. Often billed alongside dj poolboi, sunflwr and Aliska. Next up: Loo Loo, Mexicocity on Thu 17 Sept.
 
@@ -28,4 +28,4 @@ Chris Luno is a house and deep house artist tracked on soundcheck, with 76 sets 
 
 dj poolboi, sunflwr, Aliska
 
-*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/chrisluno/)*
+*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/chrisluno/)*

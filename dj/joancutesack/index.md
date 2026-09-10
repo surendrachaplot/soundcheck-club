@@ -1,6 +1,6 @@
 # Joan Cute Sack
 
-Joan Cute Sack is a Techno and Baile Funk artist with 2 upcoming club dates listed on soundcheck as of Wed, 9 Sept 2026, next at Ferry, Rotterdam on Sat, 12 Sept 2026.
+Joan Cute Sack is a Techno and Baile Funk artist with 2 upcoming club dates listed on soundcheck as of Thu, 10 Sept 2026, next at Ferry, Rotterdam on Sat, 12 Sept 2026.
 
 Joan Cute Sack is a techno and baile funk artist based in Australia, tracked on soundcheck, with 7 sets logged across Amsterdam and Rotterdam. Often billed alongside Kaikaina, ADHDJ (2) and Beks. Next up: Ferry, Rotterdam on Sat 12 Sept.
 
@@ -23,4 +23,4 @@ Joan Cute Sack is a techno and baile funk artist based in Australia, tracked on 
 
 Kaikaina, ADHDJ (2), Beks
 
-*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/joancutesack/)*
+*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/joancutesack/)*

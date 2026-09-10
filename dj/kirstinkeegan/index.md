@@ -1,6 +1,6 @@
 # Kirstin Keegan
 
-Kirstin Keegan is a House artist with 1 upcoming club date listed on soundcheck as of Wed, 9 Sept 2026, next at Pygmalion, Dublin on Fri, 11 Sept 2026.
+Kirstin Keegan is a House artist with 1 upcoming club date listed on soundcheck as of Thu, 10 Sept 2026, next at Pygmalion, Dublin on Fri, 11 Sept 2026.
 
 Kirstin Keegan is a house artist tracked on soundcheck, with 15 sets logged across Dublin. Often billed alongside Romanetto, DJ PIERR and Dave Kerr. Next up: Pygmalion, Dublin on Fri 11 Sept.
 
@@ -25,4 +25,4 @@ Kirstin Keegan is a house artist tracked on soundcheck, with 15 sets logged acro
 
 Romanetto, DJ PIERR, Dave Kerr
 
-*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kirstinkeegan/)*
+*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kirstinkeegan/)*

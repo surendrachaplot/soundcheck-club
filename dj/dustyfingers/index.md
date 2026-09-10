@@ -1,6 +1,6 @@
 # Dusty Fingers
 
-Dusty Fingers is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Wed, 9 Sept 2026, next at Virage, Paris on Thu, 10 Sept 2026.
+Dusty Fingers is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Thu, 10 Sept 2026, next at Virage, Paris on Thu, 10 Sept 2026.
 
 Dusty Fingers is a house and disco artist tracked on soundcheck, with 23 sets logged across Milan and Paris. Often billed alongside Fleur De Mur, Groove Boys Project and Lyss. Next up: Virage, Paris on Thu 10 Sept.
 
@@ -25,4 +25,4 @@ Dusty Fingers is a house and disco artist tracked on soundcheck, with 23 sets lo
 
 Fleur De Mur, Groove Boys Project, Lyss
 
-*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dustyfingers/)*
+*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dustyfingers/)*

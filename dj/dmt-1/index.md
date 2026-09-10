@@ -1,6 +1,6 @@
 # Dmt (1)
 
-Dmt (1) is a Techno and Ambient artist with 1 upcoming club date listed on soundcheck as of Wed, 9 Sept 2026, next at ZUBAR, Tokyo on Tue, 22 Sept 2026.
+Dmt (1) is a Techno and Ambient artist with 1 upcoming club date listed on soundcheck as of Thu, 10 Sept 2026, next at ZUBAR, Tokyo on Tue, 22 Sept 2026.
 
 Dmt (1) is a techno and ambient artist based in Germany, tracked on soundcheck, with 4 sets logged across Munich, Thehague and Tokyo. Often billed alongside Baz Reznik, Chaosy and Drvg Cvltvre. Next up: ZUBAR, Tokyo on Tue 22 Sept.
 
@@ -20,4 +20,4 @@ Dmt (1) is a techno and ambient artist based in Germany, tracked on soundcheck, 
 
 Baz Reznik, Chaosy, Drvg Cvltvre
 
-*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dmt-1/)*
+*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dmt-1/)*

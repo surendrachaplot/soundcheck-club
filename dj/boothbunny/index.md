@@ -1,6 +1,6 @@
 # BOOTHBUNNY
 
-BOOTHBUNNY is a Trance and Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 9 Sept 2026, next at Mikropol, Berlin on Sat, 3 Oct 2026.
+BOOTHBUNNY is a Trance and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 10 Sept 2026, next at Mikropol, Berlin on Sat, 3 Oct 2026.
 
 BOOTHBUNNY is a trance and techno artist based in Germany, tracked on soundcheck, with 7 sets logged across Amsterdam, Berlin and Hamburg. Often billed alongside BIJI ON DECKS, Buday and Bélavie. Next up: Mikropol, Berlin on Sat 3 Oct.
 
@@ -23,4 +23,4 @@ BOOTHBUNNY is a trance and techno artist based in Germany, tracked on soundcheck
 
 BIJI ON DECKS, Buday, Bélavie
 
-*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/boothbunny/)*
+*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/boothbunny/)*

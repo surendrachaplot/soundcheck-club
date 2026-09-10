@@ -1,6 +1,6 @@
 # Debbie Sings
 
-Debbie Sings is a Pop and Experimental artist with 2 upcoming club dates listed on soundcheck as of Wed, 9 Sept 2026, next at Cecil AM, Copenhagen on Fri, 27 Nov 2026.
+Debbie Sings is a Pop and Experimental artist with 2 upcoming club dates listed on soundcheck as of Thu, 10 Sept 2026, next at Cecil AM, Copenhagen on Fri, 27 Nov 2026.
 
 Debbie Sings is a pop and experimental artist tracked on soundcheck, with 22 sets logged across Berlin and Copenhagen. Often billed alongside Deb Foam, Zoumer and Britney Speed. Next up: Cecil AM, Copenhagen on Fri 27 Nov.
 
@@ -26,4 +26,4 @@ Debbie Sings is a pop and experimental artist tracked on soundcheck, with 22 set
 
 Deb Foam, Zoumer, Britney Speed
 
-*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/debbiesings/)*
+*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/debbiesings/)*

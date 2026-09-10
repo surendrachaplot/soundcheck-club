@@ -1,6 +1,6 @@
 # Adam Collins
 
-Adam Collins is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 9 Sept 2026, next at Basement (Amsterdam), Amsterdam on Thu, 22 Oct 2026.
+Adam Collins is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 10 Sept 2026, next at Basement (Amsterdam), Amsterdam on Thu, 22 Oct 2026.
 
 Adam Collins is a house and techno artist based in United States of America, tracked on soundcheck, with 41 sets logged across Amsterdam, Berlin, Ibiza and London and 11 more. Often billed alongside AMO, Corrina and Grant Dell. Next up: Basement (Amsterdam), Amsterdam on Thu 22 Oct.
 
@@ -25,4 +25,4 @@ Adam Collins is a house and techno artist based in United States of America, tra
 
 AMO, Corrina, Grant Dell
 
-*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/adamcollins/)*
+*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/adamcollins/)*

@@ -1,6 +1,6 @@
 # Rebecca Vasmant
 
-Rebecca Vasmant is a House and Jazz artist with 1 upcoming club date listed on soundcheck as of Wed, 9 Sept 2026, next at Charlies Loft, Glasgow on Fri, 25 Sept 2026.
+Rebecca Vasmant is a House and Jazz artist with 1 upcoming club date listed on soundcheck as of Thu, 10 Sept 2026, next at Charlies Loft, Glasgow on Fri, 25 Sept 2026.
 
 Rebecca Vasmant is a house and jazz artist tracked on soundcheck, with 56 sets logged across Amsterdam, Berlin, Bristol and Edinburgh and 9 more. Often billed alongside Athlete Whippet, ButhoTheWarrior and Coco Maria. Next up: Charlies Loft, Glasgow on Fri 25 Sept.
 
@@ -25,4 +25,4 @@ Rebecca Vasmant is a house and jazz artist tracked on soundcheck, with 56 sets l
 
 Athlete Whippet, ButhoTheWarrior, Coco Maria
 
-*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/rebeccavasmant/)*
+*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/rebeccavasmant/)*

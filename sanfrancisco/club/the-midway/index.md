@@ -1,6 +1,6 @@
 # The Midway
 
-The Midway is a music venue in San Francisco/Oakland with 7 upcoming nights listed on soundcheck as of Wed, 9 Sept 2026; the next is "Polaris presents: Estiva 'Solyra' EP Tour" on Sat, 19 Sept 2026.
+The Midway is a music venue in San Francisco/Oakland with 7 upcoming nights listed on soundcheck as of Thu, 10 Sept 2026; the next is "Polaris presents: Estiva 'Solyra' EP Tour" on Sat, 19 Sept 2026.
 
 The Midway is a music venue in Sanfrancisco listed on soundcheck. 7 upcoming nights, with line-ups including chungtech, Estiva, Franky Boissy and horsegiirL and 2 more. Browse upcoming dates, start times and who's playing. 900 Marin Street, San Francisco, CA 94124.
 
@@ -20,4 +20,4 @@ The Midway is a music venue in Sanfrancisco listed on soundcheck. 7 upcoming nig
 
 900 Marin Street, San Francisco, CA 94124, San Francisco/Oakland
 
-*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/the-midway/)*
+*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/the-midway/)*

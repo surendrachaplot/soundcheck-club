@@ -1,8 +1,8 @@
 # Akua
 
-Akua is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Wed, 9 Sept 2026, next at Barn Radio, Portland on Fri, 11 Sept 2026.
+Akua is a Techno and House artist with 7 upcoming club dates listed on soundcheck as of Thu, 10 Sept 2026, next at Barn Radio, Portland on Fri, 11 Sept 2026.
 
-Akua is a techno and house artist tracked on soundcheck, with 201 sets logged across Amsterdam, Antwerp, Athens and Austin and 49 more. Often billed alongside 1morning, DJ Stingray 313 and Dr. Rubinstein. Next up: Barn Radio, Portland on Fri 11 Sept.
+Akua is a techno and house artist tracked on soundcheck, with 202 sets logged across Amsterdam, Antwerp, Athens and Austin and 50 more. Often billed alongside 1morning, DJ Stingray 313 and Dr. Rubinstein. Next up: Barn Radio, Portland on Fri 11 Sept.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Akua is a techno and house artist tracked on soundcheck, with 201 sets logged ac
 | --- | --- | --- |
 | Fri, 11 Sept 2026 | Barn Radio | Portland |
 | Fri, 18 Sept 2026 | Refuge | New York City |
+| Fri, 25 Sept 2026 | KHIDI | Tbilisi |
 | Sat, 26 Sept 2026 | Tresor.West | Dortmund-essen |
 | Sun, 18 Oct 2026 | Fitzroy | Berlin |
 | Sun, 25 Oct 2026 | Garage Noord | Amsterdam |
@@ -30,4 +31,4 @@ Akua is a techno and house artist tracked on soundcheck, with 201 sets logged ac
 
 1morning, DJ Stingray 313, Dr. Rubinstein
 
-*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/akua/)*
+*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/akua/)*

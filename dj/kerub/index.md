@@ -1,6 +1,6 @@
 # KERUB
 
-KERUB is a House and Experimental artist with 2 upcoming club dates listed on soundcheck as of Wed, 9 Sept 2026, next at Buddies in Bad Times, Toronto on Fri, 11 Sept 2026.
+KERUB is a House and Experimental artist with 2 upcoming club dates listed on soundcheck as of Thu, 10 Sept 2026, next at Buddies in Bad Times, Toronto on Fri, 11 Sept 2026.
 
 KERUB is a house and experimental artist based in Canada, tracked on soundcheck, with 18 sets logged across Toronto and Vancouver. Often billed alongside moodyjooly, Hycastle and DJ RATA. Next up: Buddies in Bad Times, Toronto on Fri 11 Sept.
 
@@ -26,4 +26,4 @@ KERUB is a house and experimental artist based in Canada, tracked on soundcheck,
 
 moodyjooly, Hycastle, DJ RATA
 
-*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kerub/)*
+*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kerub/)*

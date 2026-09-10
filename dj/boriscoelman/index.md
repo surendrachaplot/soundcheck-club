@@ -1,8 +1,8 @@
 # Boris Coelman
 
-Boris Coelman is a House and Disco artist with 4 upcoming club dates listed on soundcheck as of Wed, 9 Sept 2026, next at Colorado Charlie, The Hague on Fri, 18 Sept 2026.
+Boris Coelman is a House and Disco artist with 5 upcoming club dates listed on soundcheck as of Thu, 10 Sept 2026, next at Colorado Charlie, The Hague on Fri, 18 Sept 2026.
 
-Boris Coelman is a house and disco artist tracked on soundcheck, with 93 sets logged across Amsterdam, Brussels, Rotterdam and Thehague and 2 more. Often billed alongside TINS, Trippy Tins and KALLE (NL). Next up: Colorado Charlie, Thehague on Fri 18 Sept.
+Boris Coelman is a house and disco artist tracked on soundcheck, with 94 sets logged across Amsterdam, Brussels, Rotterdam and Thehague and 2 more. Often billed alongside TINS, Trippy Tins and KALLE (NL). Next up: Colorado Charlie, Thehague on Fri 18 Sept.
 
 ## Upcoming shows
 
@@ -12,6 +12,7 @@ Boris Coelman is a house and disco artist tracked on soundcheck, with 93 sets lo
 | Sat, 3 Oct 2026 | SISSI'S Amsterdam | Amsterdam |
 | Thu, 22 Oct 2026 | SISSI'S Amsterdam | Amsterdam |
 | Fri, 23 Oct 2026 | RAWFACTORY | Amsterdam |
+| Fri, 30 Oct 2026 | Shelter Amsterdam | Amsterdam |
 
 ## Recently played
 
@@ -28,4 +29,4 @@ Boris Coelman is a house and disco artist tracked on soundcheck, with 93 sets lo
 
 TINS, Trippy Tins, KALLE (NL)
 
-*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/boriscoelman/)*
+*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/boriscoelman/)*

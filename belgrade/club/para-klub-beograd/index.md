@@ -1,6 +1,6 @@
 # Para Klub Beograd
 
-Para Klub Beograd is a music venue in Belgrade with 3 upcoming nights listed on soundcheck as of Wed, 9 Sept 2026; the next is "MAGLA - 16 Hour Party - with ORBE & others" on Sun, 13 Sept 2026.
+Para Klub Beograd is a music venue in Belgrade with 3 upcoming nights listed on soundcheck as of Thu, 10 Sept 2026; the next is "MAGLA - 16 Hour Party - with ORBE & others" on Sun, 13 Sept 2026.
 
 Para Klub Beograd is a music venue in Belgrade listed on soundcheck. 3 upcoming nights, with line-ups including .rigid, Čevut, Dimi Angelis and Filip Xavi and 2 more. Browse upcoming dates, start times and who's playing. Cetinjska 15.
 
@@ -16,4 +16,4 @@ Para Klub Beograd is a music venue in Belgrade listed on soundcheck. 3 upcoming 
 
 Cetinjska 15, Belgrade
 
-*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/belgrade/club/para-klub-beograd/)*
+*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/belgrade/club/para-klub-beograd/)*

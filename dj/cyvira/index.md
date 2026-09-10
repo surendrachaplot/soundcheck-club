@@ -1,14 +1,15 @@
 # cyvira
 
-cyvira is a Bass and Hip-Hop artist with 1 upcoming club date listed on soundcheck as of Wed, 9 Sept 2026, next at Hexagon Brussels, Brussels on Fri, 25 Sept 2026.
+cyvira is a Bass and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 10 Sept 2026, next at Hexagon Brussels, Brussels on Fri, 25 Sept 2026.
 
-cyvira is a bass and hip-hop artist based in Belgium, tracked on soundcheck, with 15 sets logged across Antwerp, Brussels, Cologne and Ghent. Often billed alongside gaiko, O'SIMMIE and Otis (BE). Next up: Hexagon Brussels, Brussels on Fri 25 Sept.
+cyvira is a bass and house artist based in Belgium, tracked on soundcheck, with 16 sets logged across Antwerp, Brussels, Cologne and Ghent. Often billed alongside gaiko, O'SIMMIE and DTM Funk. Next up: Hexagon Brussels, Brussels on Fri 25 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 25 Sept 2026 | Hexagon Brussels | Brussels |
+| Sat, 21 Nov 2026 | TBA - Brussels | Brussels |
 
 ## Recently played
 
@@ -23,6 +24,6 @@ cyvira is a bass and hip-hop artist based in Belgium, tracked on soundcheck, wit
 
 ## Shares bills with
 
-gaiko, O'SIMMIE, Otis (BE)
+gaiko, O'SIMMIE, DTM Funk
 
-*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/cyvira/)*
+*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/cyvira/)*

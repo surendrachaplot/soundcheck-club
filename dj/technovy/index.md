@@ -1,6 +1,6 @@
 # TECHNOVY
 
-TECHNOVY is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Wed, 9 Sept 2026, next at TBA, Warsaw on Fri, 18 Sept 2026.
+TECHNOVY is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Thu, 10 Sept 2026, next at TBA, Warsaw on Fri, 18 Sept 2026.
 
 TECHNOVY is a techno and trance artist based in Poland, tracked on soundcheck, with 6 sets logged across Krakow and Warsaw. Often billed alongside A.C., Adam Obrębski and Casper Weiss. Next up: TBA, Warsaw on Fri 18 Sept.
 
@@ -22,4 +22,4 @@ TECHNOVY is a techno and trance artist based in Poland, tracked on soundcheck, w
 
 A.C., Adam Obrębski, Casper Weiss
 
-*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/technovy/)*
+*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/technovy/)*

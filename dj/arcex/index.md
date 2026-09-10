@@ -1,8 +1,8 @@
 # ArceX
 
-ArceX is a Techno and Hardcore artist with 2 upcoming club dates listed on soundcheck as of Wed, 9 Sept 2026, next at TBA - TERMINAL SABADELL, Barcelona on Thu, 10 Sept 2026.
+ArceX is a Techno and Hardcore artist with 3 upcoming club dates listed on soundcheck as of Thu, 10 Sept 2026, next at TBA - TERMINAL SABADELL, Barcelona on Thu, 10 Sept 2026.
 
-ArceX is a techno and hardcore artist based in Spain, tracked on soundcheck, with 28 sets logged across Barcelona, Madrid and Manchester. Often billed alongside Adviro, Koalaz and Noise Mafia. Next up: TBA - TERMINAL SABADELL, Barcelona on Thu 10 Sept.
+ArceX is a techno and hardcore artist based in Spain, tracked on soundcheck, with 29 sets logged across Barcelona, Madrid and Manchester. Often billed alongside Adviro, Koalaz and Noise Mafia. Next up: TBA - TERMINAL SABADELL, Barcelona on Thu 10 Sept.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ ArceX is a techno and hardcore artist based in Spain, tracked on soundcheck, wit
 | --- | --- | --- |
 | Thu, 10 Sept 2026 | TBA - TERMINAL SABADELL | Barcelona |
 | Sat, 12 Sept 2026 | Fabrik | Madrid |
+| Sat, 26 Sept 2026 | M7 Club | Barcelona |
 
 ## Recently played
 
@@ -26,4 +27,4 @@ ArceX is a techno and hardcore artist based in Spain, tracked on soundcheck, wit
 
 Adviro, Koalaz, Noise Mafia
 
-*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/arcex/)*
+*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/arcex/)*

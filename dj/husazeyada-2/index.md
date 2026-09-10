@@ -1,6 +1,6 @@
 # Husa & Zeyada
 
-Husa & Zeyada is a Progressive House and Deep House artist with 1 upcoming club date listed on soundcheck as of Wed, 9 Sept 2026, next at Valerie Toronto, Toronto on Fri, 11 Sept 2026.
+Husa & Zeyada is a Progressive House and Deep House artist with 1 upcoming club date listed on soundcheck as of Thu, 10 Sept 2026, next at Valerie Toronto, Toronto on Fri, 11 Sept 2026.
 
 Husa & Zeyada are a progressive house and deep house duo tracked on soundcheck, with 7 sets logged across Ibiza, London, Mexicocity and Montreal and 1 more. Often billed alongside Mustafa Ismaeel, Dexter Crowe and Kimonos. Next up: Valerie Toronto, Toronto on Fri 11 Sept.
 
@@ -23,4 +23,4 @@ Husa & Zeyada are a progressive house and deep house duo tracked on soundcheck, 
 
 Mustafa Ismaeel, Dexter Crowe, Kimonos
 
-*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/husazeyada-2/)*
+*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/husazeyada-2/)*

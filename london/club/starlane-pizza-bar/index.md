@@ -1,8 +1,8 @@
 # Starlane Pizza Bar
 
-Starlane Pizza Bar is a music venue in London with 23 upcoming nights listed on soundcheck as of Wed, 9 Sept 2026; the next is "XTD - 012 - After Party" on Sat, 12 Sept 2026.
+Starlane Pizza Bar is a music venue in London with 24 upcoming nights listed on soundcheck as of Thu, 10 Sept 2026; the next is "XTD - 012 - After Party" on Sat, 12 Sept 2026.
 
-Starlane Pizza Bar is a music venue in London listed on soundcheck. 23 upcoming nights, with line-ups including 3 Minds, ADAN (2), Aerofunk and Alfie and 2 more. Browse upcoming dates, start times and who's playing. 12 Cody Road, E16 4SR London, United Kingdom.
+Starlane Pizza Bar is a music venue in London listed on soundcheck. 24 upcoming nights, with line-ups including 3 Minds, ADAN (2), Aerofunk and Alfie and 2 more. Browse upcoming dates, start times and who's playing. 12 Cody Road, E16 4SR London, United Kingdom.
 
 ## What's on
 
@@ -23,4 +23,4 @@ Starlane Pizza Bar is a music venue in London listed on soundcheck. 23 upcoming 
 
 12 Cody Road, E16 4SR London, United Kingdom, London
 
-*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/starlane-pizza-bar/)*
+*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/starlane-pizza-bar/)*

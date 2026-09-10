@@ -1,6 +1,6 @@
 # Beursschouwburg
 
-Beursschouwburg is a music venue in Brussels with 11 upcoming nights listed on soundcheck as of Wed, 9 Sept 2026; the next is "Bubbling Night w/ Tsunamy + prvne + Laryssa Kim & NMSS" on Fri, 18 Sept 2026.
+Beursschouwburg is a music venue in Brussels with 11 upcoming nights listed on soundcheck as of Thu, 10 Sept 2026; the next is "Bubbling Night w/ Tsunamy + prvne + Laryssa Kim & NMSS" on Fri, 18 Sept 2026.
 
 Beursschouwburg is a music venue in Brussels listed on soundcheck. 11 upcoming nights, with line-ups including Carmilla Sioux, Cinna Peyghamy, DJ Bisou and Dj LovePills and 2 more. Browse upcoming dates, start times and who's playing. Auguste Ortsstraat 20-28; 1000 Brussel; Belgium.
 
@@ -23,4 +23,4 @@ Beursschouwburg is a music venue in Brussels listed on soundcheck. 11 upcoming n
 
 Auguste Ortsstraat 20-28; 1000 Brussel; Belgium, Brussels
 
-*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/brussels/club/beursschouwburg/)*
+*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/brussels/club/beursschouwburg/)*

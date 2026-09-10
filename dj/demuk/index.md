@@ -1,6 +1,6 @@
 # Demuk
 
-Demuk is a Tech House and House artist with 2 upcoming club dates listed on soundcheck as of Wed, 9 Sept 2026, next at Flac, Seoul on Fri, 11 Sept 2026.
+Demuk is a Tech House and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 10 Sept 2026, next at Flac, Seoul on Fri, 11 Sept 2026.
 
 Demuk is a tech house and house artist based in South Korea, tracked on soundcheck, with 45 sets logged across Bangkok and Seoul. Often billed alongside Davico, Departs and Sudowoo. Next up: Flac, Seoul on Fri 11 Sept.
 
@@ -26,4 +26,4 @@ Demuk is a tech house and house artist based in South Korea, tracked on soundche
 
 Davico, Departs, Sudowoo
 
-*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/demuk/)*
+*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/demuk/)*

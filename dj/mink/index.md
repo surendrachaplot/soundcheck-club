@@ -1,6 +1,6 @@
 # mink
 
-mink is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 9 Sept 2026, next at BRET, Amsterdam on Fri, 11 Sept 2026.
+mink is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 10 Sept 2026, next at BRET, Amsterdam on Fri, 11 Sept 2026.
 
 mink is a house and techno artist based in United States of America, tracked on soundcheck, with 61 sets logged across Amsterdam, Barcelona, Bristol and Bucharest and 5 more. Often billed alongside Sossa, Pablo Romero and Seth Troxler. Next up: BRET, Amsterdam on Fri 11 Sept.
 
@@ -25,4 +25,4 @@ mink is a house and techno artist based in United States of America, tracked on 
 
 Sossa, Pablo Romero, Seth Troxler
 
-*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mink/)*
+*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mink/)*

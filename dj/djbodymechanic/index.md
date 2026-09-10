@@ -1,6 +1,6 @@
 # Body Mechanic
 
-Body Mechanic is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 9 Sept 2026, next at TBA, Detroit on Fri, 18 Sept 2026.
+Body Mechanic is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 10 Sept 2026, next at TBA, Detroit on Fri, 18 Sept 2026.
 
 Body Mechanic is a techno and house artist tracked on soundcheck, with 15 sets logged across Detroit. Often billed alongside Suburban Knight, Human Robot and Dj Disc. Next up: TBA, Detroit on Fri 18 Sept.
 
@@ -25,4 +25,4 @@ Body Mechanic is a techno and house artist tracked on soundcheck, with 15 sets l
 
 Suburban Knight, Human Robot, Dj Disc
 
-*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djbodymechanic/)*
+*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djbodymechanic/)*

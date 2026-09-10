@@ -1,6 +1,6 @@
 # MoBlack
 
-MoBlack is a Afro House and House artist with 2 upcoming club dates listed on soundcheck as of Wed, 9 Sept 2026, next at Bazart, Montreal on Fri, 11 Sept 2026.
+MoBlack is a Afro House and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 10 Sept 2026, next at Bazart, Montreal on Fri, 11 Sept 2026.
 
 MoBlack is an afro house and house artist tracked on soundcheck, with 89 sets logged across Amsterdam, Antwerp, Athens and Austin and 37 more. Often billed alongside Francis Mercier, Nitefreak and FALYN. Next up: Bazart, Montreal on Fri 11 Sept.
 
@@ -26,4 +26,4 @@ MoBlack is an afro house and house artist tracked on soundcheck, with 89 sets lo
 
 Francis Mercier, Nitefreak, FALYN
 
-*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/moblack/)*
+*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/moblack/)*

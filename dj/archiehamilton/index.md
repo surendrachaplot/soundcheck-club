@@ -1,8 +1,8 @@
 # Archie Hamilton
 
-Archie Hamilton is a House and Tech House artist with 10 upcoming club dates listed on soundcheck as of Wed, 9 Sept 2026, next at Tunnel, Milan on Fri, 11 Sept 2026.
+Archie Hamilton is a House and Tech House artist with 11 upcoming club dates listed on soundcheck as of Thu, 10 Sept 2026, next at Tunnel, Milan on Fri, 11 Sept 2026.
 
-Archie Hamilton is a house and tech house artist tracked on soundcheck, with 207 sets logged across Amsterdam, Athens, Barcelona and Basel and 44 more. Often billed alongside Jamie Jones, East End Dubs and Prunk. Next up: Tunnel, Milan on Fri 11 Sept.
+Archie Hamilton is a house and tech house artist tracked on soundcheck, with 208 sets logged across Amsterdam, Athens, Barcelona and Basel and 44 more. Often billed alongside Jamie Jones, East End Dubs and Prunk. Next up: Tunnel, Milan on Fri 11 Sept.
 
 ## Upcoming shows
 
@@ -17,6 +17,7 @@ Archie Hamilton is a house and tech house artist tracked on soundcheck, with 207
 | Fri, 23 Oct 2026 | Mediahaven - Minervahaven | Amsterdam |
 | Sat, 24 Oct 2026 | Thuishaven | Amsterdam |
 | Sat, 31 Oct 2026 | SWG3 | Glasgow |
+| Sun, 1 Nov 2026 | The Cause | London |
 | Fri, 20 Nov 2026 | Depot Mayfield | Manchester |
 
 ## Recently played
@@ -34,4 +35,4 @@ Archie Hamilton is a house and tech house artist tracked on soundcheck, with 207
 
 Jamie Jones, East End Dubs, Prunk
 
-*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/archiehamilton/)*
+*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/archiehamilton/)*

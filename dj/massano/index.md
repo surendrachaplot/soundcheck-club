@@ -1,14 +1,14 @@
 # Massano
 
-Massano is a Techno and House artist with 10 upcoming club dates listed on soundcheck as of Wed, 9 Sept 2026, next at Amnesia Ibiza, Ibiza on Wed, 9 Sept 2026.
+Massano is a Techno and House artist with 10 upcoming club dates listed on soundcheck as of Thu, 10 Sept 2026, next at Bolivar Beach Bar, Athens on Fri, 11 Sept 2026.
 
-Massano is a techno and house artist tracked on soundcheck, with 160 sets logged across Amsterdam, Athens, Austin and Bali and 48 more. Often billed alongside Adam Beyer, CamelPhat and Chris Avantgarde. Next up: Amnesia Ibiza, Ibiza on Wed 9 Sept.
+Massano is a techno and house artist tracked on soundcheck, with 161 sets logged across Amsterdam, Athens, Austin and Bali and 48 more. Often billed alongside Adam Beyer, CamelPhat and Chris Avantgarde. Next up: Bolivar Beach Bar, Athens on Fri 11 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Wed, 9 Sept 2026 | Amnesia Ibiza | Ibiza |
+| Fri, 11 Sept 2026 | Bolivar Beach Bar | Athens |
 | Sat, 12 Sept 2026 | Lofi | Amsterdam |
 | Thu, 17 Sept 2026 | Cova Santa | Ibiza |
 | Fri, 25 Sept 2026 | Factory Town | Miami |
@@ -21,6 +21,7 @@ Massano is a techno and house artist tracked on soundcheck, with 160 sets logged
 
 ## Recently played
 
+- Amnesia Ibiza, Ibiza — Wed, 9 Sept 2026
 - [UNVRS], Ibiza — Mon, 31 Aug 2026
 - Else, Berlin — Sat, 29 Aug 2026
 - Hamburg Cruise Center Altona, Hamburg — Fri, 28 Aug 2026
@@ -28,10 +29,9 @@ Massano is a techno and house artist tracked on soundcheck, with 160 sets logged
 - Parc del Fòrum, Barcelona — Fri, 7 Aug 2026
 - Amnesia Ibiza, Ibiza — Wed, 22 Jul 2026
 - Silverworks Island, London — Sun, 12 Jul 2026
-- Cova Santa, Ibiza — Sat, 11 Jul 2026
 
 ## Shares bills with
 
 Adam Beyer, CamelPhat, Chris Avantgarde
 
-*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/massano/)*
+*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/massano/)*

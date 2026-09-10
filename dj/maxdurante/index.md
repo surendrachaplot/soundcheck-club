@@ -1,14 +1,15 @@
 # MAX DURANTE
 
-MAX DURANTE is a Techno and Industrial artist with 2 upcoming club dates listed on soundcheck as of Wed, 9 Sept 2026, next at Triangle, Osaka on Sat, 3 Oct 2026.
+MAX DURANTE is a Techno and Industrial artist with 3 upcoming club dates listed on soundcheck as of Thu, 10 Sept 2026, next at Triangle, Osaka on Sat, 3 Oct 2026.
 
-MAX DURANTE is a techno and industrial artist tracked on soundcheck, with 41 sets logged across Amsterdam, Bangkok, Berlin and Brussels and 11 more. Often billed alongside Yu Kawabata, Dave Clarke and Stephanie Sykes. Next up: Triangle, Osaka on Sat 3 Oct.
+MAX DURANTE is a techno and industrial artist tracked on soundcheck, with 42 sets logged across Amsterdam, Bangkok, Berlin and Brussels and 11 more. Often billed alongside Yu Kawabata, Dave Clarke and Stephanie Sykes. Next up: Triangle, Osaka on Sat 3 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 3 Oct 2026 | Triangle | Osaka |
+| Sat, 24 Oct 2026 | OIL Club | Shenzhen |
 | Fri, 6 Nov 2026 | OT301 | Amsterdam |
 
 ## Recently played
@@ -26,4 +27,4 @@ MAX DURANTE is a techno and industrial artist tracked on soundcheck, with 41 set
 
 Yu Kawabata, Dave Clarke, Stephanie Sykes
 
-*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/maxdurante/)*
+*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/maxdurante/)*

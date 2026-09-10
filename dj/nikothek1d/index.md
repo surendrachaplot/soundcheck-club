@@ -1,6 +1,6 @@
 # NIKO THE K1D
 
-NIKO THE K1D is a Trance and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 9 Sept 2026, next at Lehmann Club, Stuttgart on Fri, 25 Sept 2026.
+NIKO THE K1D is a Trance and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 10 Sept 2026, next at Lehmann Club, Stuttgart on Fri, 25 Sept 2026.
 
 NIKO THE K1D is a trance and techno artist based in Germany, tracked on soundcheck, with 25 sets logged across Stuttgart. Often billed alongside DJ FEELTOOMUCH, Raphael Dincsoy and SHOKI287. Next up: Lehmann Club, Stuttgart on Fri 25 Sept.
 
@@ -25,4 +25,4 @@ NIKO THE K1D is a trance and techno artist based in Germany, tracked on soundche
 
 DJ FEELTOOMUCH, Raphael Dincsoy, SHOKI287
 
-*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nikothek1d/)*
+*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nikothek1d/)*

@@ -1,6 +1,6 @@
 # FKJ
 
-FKJ is a House and Experimental artist with 3 upcoming club dates listed on soundcheck as of Wed, 9 Sept 2026, next at Silence Please, New York City on Thu, 10 Sept 2026.
+FKJ is a House and Experimental artist with 3 upcoming club dates listed on soundcheck as of Thu, 10 Sept 2026, next at Silence Please, New York City on Thu, 10 Sept 2026.
 
 FKJ is a house and experimental artist based in France, tracked on soundcheck, with 12 sets logged across Barcelona, Berlin, Copenhagen and Hongkong and 5 more. Often billed alongside Hot Chip, ANOTR and Alexandre Laeddis. Next up: Silence Please, Newyorkcity on Thu 10 Sept.
 
@@ -27,4 +27,4 @@ FKJ is a house and experimental artist based in France, tracked on soundcheck, w
 
 Hot Chip, ANOTR, Alexandre Laeddis
 
-*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/fkj/)*
+*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/fkj/)*

@@ -1,6 +1,6 @@
 # 0dysseus
 
-0dysseus is a Deep House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 9 Sept 2026, next at Crack Bellmer, Berlin on Thu, 10 Sept 2026.
+0dysseus is a Deep House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 10 Sept 2026, next at Crack Bellmer, Berlin on Thu, 10 Sept 2026.
 
 0dysseus is a deep house and techno artist based in Greece, tracked on soundcheck, with 16 sets logged across Berlin. Often billed alongside DJ Treibsand, Benjamin Freeney and danger soundsystem. Next up: Crack Bellmer, Berlin on Thu 10 Sept.
 
@@ -25,4 +25,4 @@
 
 DJ Treibsand, Benjamin Freeney, danger soundsystem
 
-*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/0dysseus/)*
+*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/0dysseus/)*

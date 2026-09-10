@@ -1,6 +1,6 @@
 # Theatre National
 
-Theatre National is a music venue in Brussels with 2 upcoming nights listed on soundcheck as of Wed, 9 Sept 2026; the next is "LA FLAMBOYANCE" on Fri, 9 Oct 2026.
+Theatre National is a music venue in Brussels with 2 upcoming nights listed on soundcheck as of Thu, 10 Sept 2026; the next is "LA FLAMBOYANCE" on Fri, 9 Oct 2026.
 
 Theatre National is a music venue in Brussels listed on soundcheck. 2 upcoming nights, with line-ups including ascendant vierge. Browse upcoming dates, start times and who's playing. Bd Emile Jacqmainlaan 111-115, 1000 Brussels.
 
@@ -15,4 +15,4 @@ Theatre National is a music venue in Brussels listed on soundcheck. 2 upcoming n
 
 Bd Emile Jacqmainlaan 111-115, 1000 Brussels, Brussels
 
-*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/brussels/club/theatre-national/)*
+*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/brussels/club/theatre-national/)*

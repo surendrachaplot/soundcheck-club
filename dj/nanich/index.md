@@ -1,6 +1,6 @@
 # Na Nich
 
-Na Nich is a Techno and Electronica artist with 1 upcoming club date listed on soundcheck as of Wed, 9 Sept 2026, next at Very Small Club, Budapest on Fri, 18 Sept 2026.
+Na Nich is a Techno and Electronica artist with 1 upcoming club date listed on soundcheck as of Thu, 10 Sept 2026, next at Very Small Club, Budapest on Fri, 18 Sept 2026.
 
 Na Nich is a techno and electronica artist tracked on soundcheck, with 26 sets logged across Amsterdam, Barcelona, Berlin and Budapest and 3 more. Often billed alongside Vera Logdanidi, Dork and Justine Perry. Next up: Very Small Club, Budapest on Fri 18 Sept.
 
@@ -25,4 +25,4 @@ Na Nich is a techno and electronica artist tracked on soundcheck, with 26 sets l
 
 Vera Logdanidi, Dork, Justine Perry
 
-*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nanich/)*
+*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nanich/)*

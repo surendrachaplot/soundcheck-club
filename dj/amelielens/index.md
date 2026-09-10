@@ -1,6 +1,6 @@
 # Amelie Lens
 
-Amelie Lens is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Wed, 9 Sept 2026, next at Reelworks Denver, Denver on Sat, 19 Sept 2026.
+Amelie Lens is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Thu, 10 Sept 2026, next at Reelworks Denver, Denver on Sat, 19 Sept 2026.
 
 Amelie Lens is a techno and house artist tracked on soundcheck, with 142 sets logged across Amsterdam, Antwerp, Athens and Austin and 55 more. Often billed alongside Farrago, Milo Spykers and Adiel. Next up: Reelworks Denver, Denver on Sat 19 Sept.
 
@@ -28,4 +28,4 @@ Amelie Lens is a techno and house artist tracked on soundcheck, with 142 sets lo
 
 Farrago, Milo Spykers, Adiel
 
-*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/amelielens/)*
+*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/amelielens/)*

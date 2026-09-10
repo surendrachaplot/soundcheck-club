@@ -1,14 +1,15 @@
 # GOME
 
-GOME is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Wed, 9 Sept 2026, next at RSO.BERLIN, Berlin on Sat, 12 Sept 2026.
+GOME is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Thu, 10 Sept 2026, next at RSO.BERLIN, Berlin on Sat, 12 Sept 2026.
 
-GOME is a house and disco artist tracked on soundcheck, with 85 sets logged across Amsterdam, Barcelona, Berlin and Buenosaires and 14 more. Often billed alongside LOVEFOXY, Cinthie and Jean Mauj. Next up: RSO.BERLIN, Berlin on Sat 12 Sept.
+GOME is a house and disco artist tracked on soundcheck, with 86 sets logged across Amsterdam, Barcelona, Berlin and Buenosaires and 14 more. Often billed alongside LOVEFOXY, Cinthie and Jean Mauj. Next up: RSO.BERLIN, Berlin on Sat 12 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 12 Sept 2026 | RSO.BERLIN | Berlin |
+| Fri, 16 Oct 2026 | Sacré | Paris |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ GOME is a house and disco artist tracked on soundcheck, with 85 sets logged acro
 
 LOVEFOXY, Cinthie, Jean Mauj
 
-*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/gome/)*
+*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/gome/)*

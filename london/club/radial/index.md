@@ -1,6 +1,6 @@
 # radial
 
-radial is a music venue in London with 17 upcoming nights listed on soundcheck as of Wed, 9 Sept 2026; the next is "grounded w. Delay Grounds *LIVE* x residents - Markfield Road Festival" on Fri, 11 Sept 2026.
+radial is a music venue in London with 17 upcoming nights listed on soundcheck as of Thu, 10 Sept 2026; the next is "grounded w. Delay Grounds *LIVE* x residents - Markfield Road Festival" on Fri, 11 Sept 2026.
 
 radial is a music venue in London listed on soundcheck. 17 upcoming nights, with line-ups including Seyer (UK), Aaron Burr (2), Adam Curtain and Alex Sourbis and 2 more. Browse upcoming dates, start times and who's playing. 39b Markfield Rd, N154QA, London, United Kingdom.
 
@@ -16,11 +16,11 @@ radial is a music venue in London listed on soundcheck. 17 upcoming nights, with
 | Sat, 19 Sept 2026 | IMPULSE CONTROL: STRANGE THERAPY SHOWCASE | New Flesh (2), Toni S, ex.sses |
 | Fri, 25 Sept 2026 | Katia Curie, Daisy Moon b2b Adam Curtain - Trouble Maker | Adam Curtain, Daisy Moon, Katia Curie |
 | Sun, 27 Sept 2026 | [FREE ENTRY] Refractions Release Party - Mera Bhai, Darama, Avs, Lutsu, Noni-Mouse, AR Taal | Darama, Lutsu, Mera Bhai, Noni-Mouse |
-| Fri, 2 Oct 2026 | Soft Domination 004: 1st Birthday | LO-LOW, Sub Basics, Witch Trials |
+| Fri, 2 Oct 2026 | Soft Domination 004: 1st Birthday | Ivicore, LO-LOW, Sub Basics, Witch Trials |
 | Fri, 9 Oct 2026 | Lu:k UK debut + more TBA (Loose Lips) |  |
 
 ## Address
 
 39b Markfield Rd, N154QA, London, United Kingdom, London
 
-*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/radial/)*
+*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/radial/)*

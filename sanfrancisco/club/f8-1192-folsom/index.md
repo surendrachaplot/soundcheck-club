@@ -1,6 +1,6 @@
 # F8 1192 Folsom
 
-F8 1192 Folsom is a music venue in San Francisco/Oakland with 17 upcoming nights listed on soundcheck as of Wed, 9 Sept 2026; the next is "Run it Back September Edition" on Wed, 9 Sept 2026.
+F8 1192 Folsom is a music venue in San Francisco/Oakland with 17 upcoming nights listed on soundcheck as of Thu, 10 Sept 2026; the next is "Teego presents Afro Thursdays" on Thu, 10 Sept 2026.
 
 F8 1192 Folsom is a music venue in Sanfrancisco listed on soundcheck. 17 upcoming nights, with line-ups including Amino, ANCARCO, bastiengoat and Bored Lord and 2 more. Browse upcoming dates, start times and who's playing. 1192 Folsom St, San Francisco, CA 94103.
 
@@ -8,8 +8,8 @@ F8 1192 Folsom is a music venue in Sanfrancisco listed on soundcheck. 17 upcomin
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Wed, 9 Sept 2026 | Run it Back September Edition | DJ Parrot |
 | Thu, 10 Sept 2026 | Teego presents Afro Thursdays | ANCARCO, MONĪ |
+| Thu, 10 Sept 2026 | Fuse presents Back Room Magic | ChunkieBeatz, Jehnee |
 | Fri, 11 Sept 2026 | MOMENTUM PRESENTS: 2SIINZ | Byrd, SNAQ |
 | Tue, 15 Sept 2026 | INTERZONE - Darkwave Tuesdays - Guest DJ ERINYES | Byter, ERINYES, Hex Embrace |
 | Wed, 16 Sept 2026 | Strut SF and F8 present Jamie 3:26 | Ivan Ruiz, Jamie 3:26, Nesto Fuentez |
@@ -23,4 +23,4 @@ F8 1192 Folsom is a music venue in Sanfrancisco listed on soundcheck. 17 upcomin
 
 1192 Folsom St, San Francisco, CA 94103, San Francisco/Oakland
 
-*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/f8-1192-folsom/)*
+*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/f8-1192-folsom/)*

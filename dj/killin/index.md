@@ -1,6 +1,6 @@
 # KILLIN
 
-KILLIN is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 9 Sept 2026, next at 南港三角公園, Osaka on Sat, 3 Oct 2026.
+KILLIN is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 10 Sept 2026, next at 南港三角公園, Osaka on Sat, 3 Oct 2026.
 
 KILLIN is a techno and house artist based in Japan, tracked on soundcheck, with 13 sets logged across Osaka and Tokyo. Often billed alongside CARTOON, Daitto and ERIMIYA. Next up: 南港三角公園, Osaka on Sat 3 Oct.
 
@@ -25,4 +25,4 @@ KILLIN is a techno and house artist based in Japan, tracked on soundcheck, with 
 
 CARTOON, Daitto, ERIMIYA
 
-*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/killin/)*
+*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/killin/)*

@@ -1,6 +1,6 @@
 # Snooz
 
-Snooz is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 9 Sept 2026, next at Sportpark Riekerhaven, Amsterdam on Sat, 12 Sept 2026.
+Snooz is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 10 Sept 2026, next at Sportpark Riekerhaven, Amsterdam on Sat, 12 Sept 2026.
 
 Snooz is a house and techno artist tracked on soundcheck, with 41 sets logged across Amsterdam, London, Miami and Rotterdam. Often billed alongside Kirilski, Pura Pachanga and FR3ADY. Next up: Sportpark Riekerhaven, Amsterdam on Sat 12 Sept.
 
@@ -25,4 +25,4 @@ Snooz is a house and techno artist tracked on soundcheck, with 41 sets logged ac
 
 Kirilski, Pura Pachanga, FR3ADY
 
-*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/snooz/)*
+*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/snooz/)*

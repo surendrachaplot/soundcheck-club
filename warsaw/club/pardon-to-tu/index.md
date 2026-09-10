@@ -1,6 +1,6 @@
 # Pardon, To Tu
 
-Pardon, To Tu is a music venue in Warsaw with 3 upcoming nights listed on soundcheck as of Wed, 9 Sept 2026; the next is "The Necks (AUS) at Avant Art Festival 2026 WARSZAWA" on Wed, 16 Sept 2026.
+Pardon, To Tu is a music venue in Warsaw with 3 upcoming nights listed on soundcheck as of Thu, 10 Sept 2026; the next is "The Necks (AUS) at Avant Art Festival 2026 WARSZAWA" on Wed, 16 Sept 2026.
 
 Pardon, To Tu is a music venue in Warsaw listed on soundcheck. 3 upcoming nights. Browse upcoming dates, start times and who's playing. Plac Grzybowski 12/16, 00-104 Warszawa, Poland.
 
@@ -16,4 +16,4 @@ Pardon, To Tu is a music venue in Warsaw listed on soundcheck. 3 upcoming nights
 
 Plac Grzybowski 12/16, 00-104 Warszawa, Poland, Warsaw
 
-*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/warsaw/club/pardon-to-tu/)*
+*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/warsaw/club/pardon-to-tu/)*

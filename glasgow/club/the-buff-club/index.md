@@ -1,6 +1,6 @@
 # The Buff Club
 
-The Buff Club is a music venue in Glasgow with 4 upcoming nights listed on soundcheck as of Wed, 9 Sept 2026; the next is "✧ GROOVE SERVICE ✧ FREE ENTRY ✧" on Fri, 11 Sept 2026.
+The Buff Club is a music venue in Glasgow with 4 upcoming nights listed on soundcheck as of Thu, 10 Sept 2026; the next is "✧ GROOVE SERVICE ✧ FREE ENTRY ✧" on Fri, 11 Sept 2026.
 
 The Buff Club is a music venue in Glasgow listed on soundcheck. 4 upcoming nights, with line-ups including Brody James, Daniel Hive, djsmuz and Shaka Loves You and 1 more. Browse upcoming dates, start times and who's playing. 142 Bath Lane; Glasgow, G2 4SQ; Scotland.
 
@@ -17,4 +17,4 @@ The Buff Club is a music venue in Glasgow listed on soundcheck. 4 upcoming night
 
 142 Bath Lane; Glasgow, G2 4SQ; Scotland, Glasgow
 
-*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/the-buff-club/)*
+*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/the-buff-club/)*

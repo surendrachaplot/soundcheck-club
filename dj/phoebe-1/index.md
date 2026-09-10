@@ -1,13 +1,14 @@
 # Phoebe (1)
 
-Phoebe (1) is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 9 Sept 2026, next at Galeria Zé Dos Bois, Lisbon on Fri, 25 Sept 2026.
+Phoebe (1) is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 10 Sept 2026, next at Ministerium Club, Lisbon on Fri, 18 Sept 2026.
 
-Phoebe (1) is a house and techno artist based in Portugal, tracked on soundcheck, with 62 sets logged across Bangkok, Berlin, Edinburgh and Hongkong and 7 more. Often billed alongside BLEID, marum and Violet (PT). Next up: Galeria Zé Dos Bois, Lisbon on Fri 25 Sept.
+Phoebe (1) is a house and techno artist based in Portugal, tracked on soundcheck, with 63 sets logged across Bangkok, Berlin, Edinburgh and Hongkong and 7 more. Often billed alongside BLEID, marum and Violet (PT). Next up: Ministerium Club, Lisbon on Fri 18 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 18 Sept 2026 | Ministerium Club | Lisbon |
 | Fri, 25 Sept 2026 | Galeria Zé Dos Bois | Lisbon |
 
 ## Recently played
@@ -25,4 +26,4 @@ Phoebe (1) is a house and techno artist based in Portugal, tracked on soundcheck
 
 BLEID, marum, Violet (PT)
 
-*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/phoebe-1/)*
+*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/phoebe-1/)*

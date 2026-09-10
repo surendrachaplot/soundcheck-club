@@ -1,6 +1,6 @@
 # ABI (FR)
 
-ABI (FR) is a House and Electro artist with 2 upcoming club dates listed on soundcheck as of Wed, 9 Sept 2026, next at Auber Garden, Paris on Sat, 26 Sept 2026.
+ABI (FR) is a House and Electro artist with 2 upcoming club dates listed on soundcheck as of Thu, 10 Sept 2026, next at Auber Garden, Paris on Sat, 26 Sept 2026.
 
 ABI (FR) is a house and electro artist tracked on soundcheck, with 38 sets logged across Amsterdam, Barcelona, Berlin and Brussels and 5 more. Often billed alongside Automatic Writing, Charlotte (FR) and LAMALICE. Next up: Auber Garden, Paris on Sat 26 Sept.
 
@@ -26,4 +26,4 @@ ABI (FR) is a house and electro artist tracked on soundcheck, with 38 sets logge
 
 Automatic Writing, Charlotte (FR), LAMALICE
 
-*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/abi-fr/)*
+*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/abi-fr/)*

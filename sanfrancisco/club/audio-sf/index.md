@@ -1,8 +1,8 @@
 # Audio SF
 
-Audio SF is a music venue in San Francisco/Oakland with 14 upcoming nights listed on soundcheck as of Wed, 9 Sept 2026; the next is "Ezequiel Arias" on Fri, 11 Sept 2026.
+Audio SF is a music venue in San Francisco/Oakland with 18 upcoming nights listed on soundcheck as of Thu, 10 Sept 2026; the next is "Ezequiel Arias" on Fri, 11 Sept 2026.
 
-Audio SF is a music venue in Sanfrancisco listed on soundcheck. 14 upcoming nights, with line-ups including Azzecca, Baauer, Madota and Rinzen. Browse upcoming dates, start times and who's playing. 316 11th St; San Francisco CA 94103; United States.
+Audio SF is a music venue in Sanfrancisco listed on soundcheck. 18 upcoming nights, with line-ups including Azzecca, Baauer, Madota and Rinzen. Browse upcoming dates, start times and who's playing. 316 11th St; San Francisco CA 94103; United States.
 
 ## What's on
 
@@ -23,4 +23,4 @@ Audio SF is a music venue in Sanfrancisco listed on soundcheck. 14 upcoming nigh
 
 316 11th St; San Francisco CA 94103; United States, San Francisco/Oakland
 
-*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/audio-sf/)*
+*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/audio-sf/)*

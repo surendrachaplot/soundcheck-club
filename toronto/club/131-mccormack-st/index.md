@@ -1,6 +1,6 @@
 # 131 Mccormack St
 
-131 Mccormack St is a music venue in Toronto with 4 upcoming nights listed on soundcheck as of Wed, 9 Sept 2026; the next is "UNREAL NA TOUR: TORONTO" on Fri, 11 Sept 2026.
+131 Mccormack St is a music venue in Toronto with 4 upcoming nights listed on soundcheck as of Thu, 10 Sept 2026; the next is "UNREAL NA TOUR: TORONTO" on Fri, 11 Sept 2026.
 
 131 Mccormack St is a music venue in Toronto listed on soundcheck. 4 upcoming nights, with line-ups including AADJA, Ahadadream, Alley Kay and Bambii and 2 more. Browse upcoming dates, start times and who's playing. 131 McCormack St, York, ON M6N 1X8.
 
@@ -17,4 +17,4 @@
 
 131 McCormack St, York, ON M6N 1X8, Toronto
 
-*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/131-mccormack-st/)*
+*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/131-mccormack-st/)*

@@ -1,6 +1,6 @@
 # FABRICLIVE 27th BIRTHDAY - Girls Don't Sync, Osmosis Jones, Special Guest, Smokey Bubblin' B at fabric
 
-FABRICLIVE 27th BIRTHDAY - Girls Don't Sync, Osmosis Jones, Special Guest, Smokey Bubblin' B at fabric on Fri 16 Oct, London. 9 acts on the bill: fae (UK), Girls Don't Sync, HALFPINT and Klose One and 5 more. Preview the line-up and save it on soundcheck.
+FABRICLIVE 27th BIRTHDAY - Girls Don't Sync, Osmosis Jones, Special Guest, Smokey Bubblin' B at fabric on Fri 16 Oct, London. 11 acts on the bill: Beatrice M., fae (UK), Girls Don't Sync and HALFPINT and 7 more. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,10 +10,12 @@ FABRICLIVE 27th BIRTHDAY - Girls Don't Sync, Osmosis Jones, Special Guest, Smoke
 
 ## Line-up
 
+- Beatrice M.
 - fae (UK)
 - Girls Don't Sync
 - HALFPINT
 - Klose One
+- Mantra
 - Oneman
 - Osmosis Jones
 - Smokey Bubblin' B

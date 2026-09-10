@@ -1,13 +1,14 @@
 # Black Loops
 
-Black Loops is a House and Deep House artist with 3 upcoming club dates listed on soundcheck as of Wed, 9 Sept 2026, next at The Yard, Manchester on Sat, 10 Oct 2026.
+Black Loops is a House and Deep House artist with 4 upcoming club dates listed on soundcheck as of Thu, 10 Sept 2026, next at BARDO, Milan on Sat, 12 Sept 2026.
 
-Black Loops is a house and deep house artist tracked on soundcheck, with 148 sets logged across Amsterdam, Auckland, Bali and Bangkok and 42 more. Often billed alongside Harrison BDP, Carlo and Turkish. Next up: The Yard, Manchester on Sat 10 Oct.
+Black Loops is a house and deep house artist tracked on soundcheck, with 149 sets logged across Amsterdam, Auckland, Bali and Bangkok and 42 more. Often billed alongside Harrison BDP, Carlo and Turkish. Next up: BARDO, Milan on Sat 12 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 12 Sept 2026 | BARDO | Milan |
 | Sat, 10 Oct 2026 | The Yard | Manchester |
 | Thu, 22 Oct 2026 | Transit | Amsterdam |
 | Sat, 24 Oct 2026 | TILLATEC | Amsterdam |
@@ -27,4 +28,4 @@ Black Loops is a house and deep house artist tracked on soundcheck, with 148 set
 
 Harrison BDP, Carlo, Turkish
 
-*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/blackloops/)*
+*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/blackloops/)*

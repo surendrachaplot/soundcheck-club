@@ -1,6 +1,6 @@
 # Boysinblush
 
-Boysinblush is a Experimental and Electro artist with 1 upcoming club date listed on soundcheck as of Wed, 9 Sept 2026, next at Le Bain, New York City on Sat, 12 Sept 2026.
+Boysinblush is a Experimental and Electro artist with 1 upcoming club date listed on soundcheck as of Thu, 10 Sept 2026, next at Le Bain, New York City on Sat, 12 Sept 2026.
 
 Boysinblush is an experimental and electro artist tracked on soundcheck, with 12 sets logged across Montreal, Newyorkcity, Philadelphia and Toronto. Often billed alongside Heartcoregirl, Sebastian Ruslan and Tuchscreen. Next up: Le Bain, Newyorkcity on Sat 12 Sept.
 
@@ -25,4 +25,4 @@ Boysinblush is an experimental and electro artist tracked on soundcheck, with 12
 
 Heartcoregirl, Sebastian Ruslan, Tuchscreen
 
-*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/boysinblush/)*
+*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/boysinblush/)*

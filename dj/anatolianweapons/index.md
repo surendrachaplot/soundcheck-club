@@ -1,6 +1,6 @@
 # Anatolian Weapons
 
-Anatolian Weapons is a Acid and Experimental artist with 1 upcoming club date listed on soundcheck as of Wed, 9 Sept 2026, next at Patision65, Athens on Sat, 31 Oct 2026.
+Anatolian Weapons is a Acid and Experimental artist with 1 upcoming club date listed on soundcheck as of Thu, 10 Sept 2026, next at Patision65, Athens on Sat, 31 Oct 2026.
 
 Anatolian Weapons is an acid and experimental artist based in Greece, tracked on soundcheck, with 23 sets logged across Athens, Barcelona, Berlin and Cardiff and 3 more. Often billed alongside Bekha Mujiri, Kuunde and Martin Noise. Next up: Patision65, Athens on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Anatolian Weapons is an acid and experimental artist based in Greece, tracked on
 
 Bekha Mujiri, Kuunde, Martin Noise
 
-*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/anatolianweapons/)*
+*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/anatolianweapons/)*

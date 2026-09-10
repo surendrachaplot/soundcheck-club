@@ -1,8 +1,8 @@
 # alleira
 
-alleira is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Wed, 9 Sept 2026, next at TBA - JOSEF-LAMMERTING-ALLEE 17-19, 50933 KÖLN, Cologne on Sat, 12 Sept 2026.
+alleira is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Thu, 10 Sept 2026, next at TBA - JOSEF-LAMMERTING-ALLEE 17-19, 50933 KÖLN, Cologne on Sat, 12 Sept 2026.
 
-alleira is a techno and trance artist based in Germany, tracked on soundcheck, with 28 sets logged across Cologne and Munich. Often billed alongside HiHat, Arninho and DJ ASS TITS. Next up: TBA - JOSEF-LAMMERTING-ALLEE 17-19, 50933 KÖLN, Cologne on Sat 12 Sept.
+alleira is a techno and house artist based in Germany, tracked on soundcheck, with 29 sets logged across Cologne and Munich. Often billed alongside HiHat, Arninho and DJ ASS TITS. Next up: TBA - JOSEF-LAMMERTING-ALLEE 17-19, 50933 KÖLN, Cologne on Sat 12 Sept.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ alleira is a techno and trance artist based in Germany, tracked on soundcheck, w
 | --- | --- | --- |
 | Sat, 12 Sept 2026 | TBA - JOSEF-LAMMERTING-ALLEE 17-19, 50933 KÖLN | Cologne |
 | Sat, 26 Sept 2026 | fi | Cologne |
+| Fri, 9 Oct 2026 | fi | Cologne |
 
 ## Recently played
 
@@ -26,4 +27,4 @@ alleira is a techno and trance artist based in Germany, tracked on soundcheck, w
 
 HiHat, Arninho, DJ ASS TITS
 
-*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/alleira/)*
+*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/alleira/)*

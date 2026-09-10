@@ -1,13 +1,14 @@
 # Sam Beach
 
-Sam Beach is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Wed, 9 Sept 2026, next at The Glove That Fits, London on Fri, 25 Sept 2026.
+Sam Beach is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Thu, 10 Sept 2026, next at Dalston Superstore, London on Thu, 24 Sept 2026.
 
-Sam Beach is a house and tech house artist tracked on soundcheck, with 44 sets logged across Ibiza and London. Often billed alongside Nick Clev, Harry Dale and JAYDAA. Next up: The Glove That Fits, London on Fri 25 Sept.
+Sam Beach is a house and tech house artist tracked on soundcheck, with 45 sets logged across Ibiza and London. Often billed alongside Nick Clev, Harry Dale and JAYDAA. Next up: Dalston Superstore, London on Thu 24 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Thu, 24 Sept 2026 | Dalston Superstore | London |
 | Fri, 25 Sept 2026 | The Glove That Fits | London |
 
 ## Recently played
@@ -25,4 +26,4 @@ Sam Beach is a house and tech house artist tracked on soundcheck, with 44 sets l
 
 Nick Clev, Harry Dale, JAYDAA
 
-*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sambeach/)*
+*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sambeach/)*

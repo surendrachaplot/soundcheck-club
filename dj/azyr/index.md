@@ -1,8 +1,8 @@
 # Azyr
 
-Azyr is a Techno and House artist with 13 upcoming club dates listed on soundcheck as of Wed, 9 Sept 2026, next at INPUT High Fidelity Dance Club, Barcelona on Thu, 10 Sept 2026.
+Azyr is a Techno and House artist with 14 upcoming club dates listed on soundcheck as of Thu, 10 Sept 2026, next at INPUT High Fidelity Dance Club, Barcelona on Thu, 10 Sept 2026.
 
-Azyr is a techno and house artist tracked on soundcheck, with 227 sets logged across Amsterdam, Antwerp, Athens and Austin and 61 more. Often billed alongside LESSSS, blk. and Charlie Sparks. Next up: INPUT High Fidelity Dance Club, Barcelona on Thu 10 Sept.
+Azyr is a techno and house artist tracked on soundcheck, with 228 sets logged across Amsterdam, Antwerp, Athens and Austin and 61 more. Often billed alongside LESSSS, blk. and Charlie Sparks. Next up: INPUT High Fidelity Dance Club, Barcelona on Thu 10 Sept.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Azyr is a techno and house artist tracked on soundcheck, with 227 sets logged ac
 | --- | --- | --- |
 | Thu, 10 Sept 2026 | INPUT High Fidelity Dance Club | Barcelona |
 | Fri, 11 Sept 2026 | Palmerstown House Estate | Dublin |
+| Fri, 11 Sept 2026 | Universe Athens | Athens |
 | Sun, 27 Sept 2026 | TBA | Los Angeles |
 | Fri, 2 Oct 2026 | TBA - Kai Tak Cruise Terminal Waiting Hall A | Hong Kong |
 | Sat, 3 Oct 2026 | TBA - XOX Arena | Kuala Lumpur |
@@ -19,7 +20,6 @@ Azyr is a techno and house artist tracked on soundcheck, with 227 sets logged ac
 | Fri, 23 Oct 2026 | Sainte-Catherine Hall | Montreal |
 | Fri, 30 Oct 2026 | NOS Event Center | Los Angeles |
 | Fri, 30 Oct 2026 | Wamu Theatre | Seattle |
-| Sat, 21 Nov 2026 | The Garage | Madrid |
 
 ## Recently played
 
@@ -36,4 +36,4 @@ Azyr is a techno and house artist tracked on soundcheck, with 227 sets logged ac
 
 LESSSS, blk., Charlie Sparks
 
-*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/azyr/)*
+*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/azyr/)*

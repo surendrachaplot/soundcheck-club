@@ -1,6 +1,6 @@
 # Vani Vachi
 
-Vani Vachi is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 9 Sept 2026, next at Den Anden Side, Copenhagen on Sat, 12 Sept 2026.
+Vani Vachi is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 10 Sept 2026, next at Den Anden Side, Copenhagen on Sat, 12 Sept 2026.
 
 Vani Vachi is a techno and house artist tracked on soundcheck, with 71 sets logged across Amsterdam, Antwerp, Athens and Berlin and 12 more. Often billed alongside Tweeman, Ruslan Mays and Nastya Muravyova. Next up: Den Anden Side, Copenhagen on Sat 12 Sept.
 
@@ -25,4 +25,4 @@ Vani Vachi is a techno and house artist tracked on soundcheck, with 71 sets logg
 
 Tweeman, Ruslan Mays, Nastya Muravyova
 
-*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/vanivachi/)*
+*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/vanivachi/)*

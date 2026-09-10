@@ -1,8 +1,8 @@
 # Spray
 
-Spray is a Techno and House artist with 7 upcoming club dates listed on soundcheck as of Wed, 9 Sept 2026, next at Fort Mifflin, Philadelphia on Fri, 18 Sept 2026.
+Spray is a Techno and House artist with 8 upcoming club dates listed on soundcheck as of Thu, 10 Sept 2026, next at Fort Mifflin, Philadelphia on Fri, 18 Sept 2026.
 
-Spray is a techno and house artist tracked on soundcheck, with 199 sets logged across Amsterdam, Antwerp, Austin and Barcelona and 55 more. Often billed alongside Sally C, Job Jobse and Spriitzz. Next up: Fort Mifflin, Philadelphia on Fri 18 Sept.
+Spray is a techno and house artist tracked on soundcheck, with 200 sets logged across Amsterdam, Antwerp, Austin and Barcelona and 55 more. Often billed alongside Sally C, Job Jobse and Spriitzz. Next up: Fort Mifflin, Philadelphia on Fri 18 Sept.
 
 ## Upcoming shows
 
@@ -14,6 +14,7 @@ Spray is a techno and house artist tracked on soundcheck, with 199 sets logged a
 | Sat, 26 Sept 2026 | Substance Skatepark | New York City |
 | Sun, 27 Sept 2026 | Floyd | Miami |
 | Sat, 10 Oct 2026 | Palladium | Geneva |
+| Sat, 24 Oct 2026 | Klaproos | Amsterdam |
 | Fri, 30 Oct 2026 | EartH | London |
 
 ## Recently played
@@ -31,4 +32,4 @@ Spray is a techno and house artist tracked on soundcheck, with 199 sets logged a
 
 Sally C, Job Jobse, Spriitzz
 
-*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/spray/)*
+*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/spray/)*

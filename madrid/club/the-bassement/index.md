@@ -1,6 +1,6 @@
 # The Bassement
 
-The Bassement is a music venue in Madrid with 14 upcoming nights listed on soundcheck as of Wed, 9 Sept 2026; the next is "BASSMNT CLUB presents Loco Dice - MADRID RACE WEEK" on Fri, 11 Sept 2026.
+The Bassement is a music venue in Madrid with 14 upcoming nights listed on soundcheck as of Thu, 10 Sept 2026; the next is "BASSMNT CLUB presents Loco Dice - MADRID RACE WEEK" on Fri, 11 Sept 2026.
 
 The Bassement is a music venue in Madrid listed on soundcheck. 14 upcoming nights, with line-ups including Ben Sims, DJ AMAZING, DVS1 and DXPE (ES) and 2 more. Browse upcoming dates, start times and who's playing. C. de Galileo, 2628015 Madrid.
 
@@ -23,4 +23,4 @@ The Bassement is a music venue in Madrid listed on soundcheck. 14 upcoming night
 
 C. de Galileo, 2628015 Madrid, Madrid
 
-*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/the-bassement/)*
+*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/the-bassement/)*

@@ -1,6 +1,6 @@
 # flik
 
-flik is a House and Garage artist with 1 upcoming club date listed on soundcheck as of Wed, 9 Sept 2026, next at Oxford Art Factory, Sydney on Fri, 30 Oct 2026.
+flik is a House and Garage artist with 1 upcoming club date listed on soundcheck as of Thu, 10 Sept 2026, next at Oxford Art Factory, Sydney on Fri, 30 Oct 2026.
 
 flik is a house and garage artist based in Australia, tracked on soundcheck, with 4 sets logged across Sydney. Often billed alongside BOLT, Dam Swindle and Keavsz. Next up: Oxford Art Factory, Sydney on Fri 30 Oct.
 
@@ -20,4 +20,4 @@ flik is a house and garage artist based in Australia, tracked on soundcheck, wit
 
 BOLT, Dam Swindle, Keavsz
 
-*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/flik/)*
+*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/flik/)*

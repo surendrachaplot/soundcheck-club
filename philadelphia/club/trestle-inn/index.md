@@ -1,6 +1,6 @@
 # Trestle Inn
 
-Trestle Inn is a music venue in Philadelphia with 10 upcoming nights listed on soundcheck as of Wed, 9 Sept 2026; the next is "SEPTEMBER - A Happy Hour Disco Dance Party" on Fri, 11 Sept 2026.
+Trestle Inn is a music venue in Philadelphia with 10 upcoming nights listed on soundcheck as of Thu, 10 Sept 2026; the next is "SEPTEMBER - A Happy Hour Disco Dance Party" on Fri, 11 Sept 2026.
 
 Trestle Inn is a music venue in Philadelphia listed on soundcheck. 10 upcoming nights, with line-ups including Particle Ray. Browse upcoming dates, start times and who's playing. 339 N. 11th St; Philadelphia; PA 19107.
 
@@ -23,4 +23,4 @@ Trestle Inn is a music venue in Philadelphia listed on soundcheck. 10 upcoming n
 
 339 N. 11th St; Philadelphia; PA 19107, Philadelphia
 
-*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/philadelphia/club/trestle-inn/)*
+*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/philadelphia/club/trestle-inn/)*

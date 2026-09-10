@@ -1,6 +1,6 @@
 # Tikiman
 
-Tikiman is a Dub and House artist with 2 upcoming club dates listed on soundcheck as of Wed, 9 Sept 2026, next at Karmen Camina, Strasbourg on Fri, 18 Sept 2026.
+Tikiman is a Dub and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 10 Sept 2026, next at Karmen Camina, Strasbourg on Fri, 18 Sept 2026.
 
 Tikiman is a dub and house artist based in Dominica, tracked on soundcheck, with 51 sets logged across Amsterdam, Barcelona, Berlin and Bristol and 15 more. Often billed alongside Richard Akingbehin, Azu Tiwaline and Deadbeat. Next up: Karmen Camina, Strasbourg on Fri 18 Sept.
 
@@ -26,4 +26,4 @@ Tikiman is a dub and house artist based in Dominica, tracked on soundcheck, with
 
 Richard Akingbehin, Azu Tiwaline, Deadbeat
 
-*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tikiman/)*
+*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tikiman/)*

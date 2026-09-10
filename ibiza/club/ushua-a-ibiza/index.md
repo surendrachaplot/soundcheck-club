@@ -1,14 +1,13 @@
 # Ushuaïa Ibiza
 
-Ushuaïa Ibiza is a music venue in Ibiza with 23 upcoming nights listed on soundcheck as of Wed, 9 Sept 2026; the next is "Tomorrowland and Dimitri Vegas & Like Mike" on Wed, 9 Sept 2026.
+Ushuaïa Ibiza is a music venue in Ibiza with 22 upcoming nights listed on soundcheck as of Thu, 10 Sept 2026; the next is "Martin Garrix" on Thu, 10 Sept 2026.
 
-Ushuaïa Ibiza is a music venue in Ibiza listed on soundcheck. 23 upcoming nights, with line-ups including Afrojack, Andrea Oliva, Antares and Bassjackers and 2 more. Browse upcoming dates, start times and who's playing. Playa d'en Bossa 10, Sat Jordi de Ses Salines, 07817 Ibiza, Spain.
+Ushuaïa Ibiza is a music venue in Ibiza listed on soundcheck. 22 upcoming nights, with line-ups including Afrojack, Andrea Oliva, Antares and Bastian Bux and 2 more. Browse upcoming dates, start times and who's playing. Playa d'en Bossa 10, Sat Jordi de Ses Salines, 07817 Ibiza, Spain.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Wed, 9 Sept 2026 | Tomorrowland and Dimitri Vegas & Like Mike | Bassjackers |
 | Thu, 10 Sept 2026 | Martin Garrix | Justin Mylo, Martin Garrix, R3hab |
 | Fri, 11 Sept 2026 | Calvin Harris & MK | Calvin Harris, Marc Kinchen, OFFAIAH |
 | Sat, 12 Sept 2026 | ANTS | Andrea Oliva, Chelina Manuhutu, Joëlla Jackson, SYREETA |
@@ -18,9 +17,10 @@ Ushuaïa Ibiza is a music venue in Ibiza listed on soundcheck. 23 upcoming night
 | Thu, 17 Sept 2026 | Martin Garrix | Low Steppa, Martin Garrix, The Magician |
 | Fri, 18 Sept 2026 | Calvin Harris & MK | Calvin Harris, Eats Everything, Marc Kinchen |
 | Sat, 19 Sept 2026 | ANTS | Bastian Bux, Ilario Alicante, Manda Moor, Paco Osuna, Sirus Hood |
+| Sun, 20 Sept 2026 | HUGEL presents Make The Girls Dance |  |
 
 ## Address
 
 Playa d'en Bossa 10, Sat Jordi de Ses Salines, 07817 Ibiza, Spain, Ibiza
 
-*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/ibiza/club/ushua-a-ibiza/)*
+*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/ibiza/club/ushua-a-ibiza/)*

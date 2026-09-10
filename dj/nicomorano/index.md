@@ -1,6 +1,6 @@
 # Nico Morano
 
-Nico Morano is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Wed, 9 Sept 2026, next at TBA - Brussels, Brussels on Fri, 11 Sept 2026.
+Nico Morano is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Thu, 10 Sept 2026, next at TBA - Brussels, Brussels on Fri, 11 Sept 2026.
 
 Nico Morano is a techno and house artist based in Belgium, tracked on soundcheck, with 71 sets logged across Amsterdam, Antwerp, Barcelona and Berlin and 20 more. Often billed alongside EMJIE, Bibi Seck and NTO. Next up: TBA - Brussels, Brussels on Fri 11 Sept.
 
@@ -28,4 +28,4 @@ Nico Morano is a techno and house artist based in Belgium, tracked on soundcheck
 
 EMJIE, Bibi Seck, NTO
 
-*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nicomorano/)*
+*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nicomorano/)*

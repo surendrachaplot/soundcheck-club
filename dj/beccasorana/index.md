@@ -1,6 +1,6 @@
 # BECCA SORANA
 
-BECCA SORANA is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Wed, 9 Sept 2026, next at TOC Hostel, Barcelona on Fri, 18 Sept 2026.
+BECCA SORANA is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Thu, 10 Sept 2026, next at TOC Hostel, Barcelona on Fri, 18 Sept 2026.
 
 BECCA SORANA is a techno and trance artist based in Brazil, tracked on soundcheck, with 29 sets logged across Barcelona, Berlin and Milan. Often billed alongside ATMEN, Alex Pott and Ambarcita. Next up: TOC Hostel, Barcelona on Fri 18 Sept.
 
@@ -25,4 +25,4 @@ BECCA SORANA is a techno and trance artist based in Brazil, tracked on soundchec
 
 ATMEN, Alex Pott, Ambarcita
 
-*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/beccasorana/)*
+*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/beccasorana/)*

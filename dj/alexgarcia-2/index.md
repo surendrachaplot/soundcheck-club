@@ -1,6 +1,6 @@
 # Alex Garcia (2)
 
-Alex Garcia (2) is a House and Electro artist with 1 upcoming club date listed on soundcheck as of Wed, 9 Sept 2026, next at 303 Audiophile Bar, Barcelona on Sat, 24 Oct 2026.
+Alex Garcia (2) is a House and Electro artist with 1 upcoming club date listed on soundcheck as of Thu, 10 Sept 2026, next at 303 Audiophile Bar, Barcelona on Sat, 24 Oct 2026.
 
 Alex Garcia (2) is a house and electro artist tracked on soundcheck, with 43 sets logged across Barcelona. Often billed alongside Vince Void, Adria (ES) and Pau Rosés. Next up: 303 Audiophile Bar, Barcelona on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ Alex Garcia (2) is a house and electro artist tracked on soundcheck, with 43 set
 
 Vince Void, Adria (ES), Pau Rosés
 
-*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/alexgarcia-2/)*
+*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/alexgarcia-2/)*

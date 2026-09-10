@@ -1,14 +1,15 @@
 # Sophie Forrest
 
-Sophie Forrest is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 9 Sept 2026, next at Revolver Upstairs, Melbourne on Fri, 25 Sept 2026.
+Sophie Forrest is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 10 Sept 2026, next at Revolver Upstairs, Melbourne on Fri, 25 Sept 2026.
 
-Sophie Forrest is a techno and house artist based in Australia, tracked on soundcheck, with 46 sets logged across Melbourne and Sydney. Often billed alongside Mike Callander, 3rd Orbit and Jo Christy. Next up: Revolver Upstairs, Melbourne on Fri 25 Sept.
+Sophie Forrest is a techno and house artist based in Australia, tracked on soundcheck, with 47 sets logged across Melbourne and Sydney. Often billed alongside Mike Callander, 3rd Orbit and Jo Christy. Next up: Revolver Upstairs, Melbourne on Fri 25 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 25 Sept 2026 | Revolver Upstairs | Melbourne |
+| Fri, 9 Oct 2026 | Club 77 | Sydney |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Sophie Forrest is a techno and house artist based in Australia, tracked on sound
 
 Mike Callander, 3rd Orbit, Jo Christy
 
-*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sophieforrest/)*
+*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sophieforrest/)*

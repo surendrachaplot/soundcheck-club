@@ -1,6 +1,6 @@
 # Gaspar SP
 
-Gaspar SP is a music venue in Sao Paulo with 1 upcoming night listed on soundcheck as of Wed, 9 Sept 2026; the next is "Showcase House no Jardim" on Sat, 14 Nov 2026.
+Gaspar SP is a music venue in Sao Paulo with 1 upcoming night listed on soundcheck as of Thu, 10 Sept 2026; the next is "Showcase House no Jardim" on Sat, 14 Nov 2026.
 
 Gaspar SP is a music venue in Saopaulo listed on soundcheck. 1 upcoming night, with line-ups including Gustavo Bezzi. Browse upcoming dates, start times and who's playing. Pç Dom José Gaspar, 42 - RepúblicaSão Paulo - SP, 01047-010.
 
@@ -14,4 +14,4 @@ Gaspar SP is a music venue in Saopaulo listed on soundcheck. 1 upcoming night, w
 
 Pç Dom José Gaspar, 42 - RepúblicaSão Paulo - SP, 01047-010, Sao Paulo
 
-*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/saopaulo/club/gaspar-sp/)*
+*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/saopaulo/club/gaspar-sp/)*

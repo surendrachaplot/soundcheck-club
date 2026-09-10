@@ -1,8 +1,8 @@
 # Ele Luz
 
-Ele Luz is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Wed, 9 Sept 2026, next at Jonny Knüppel, Berlin on Sat, 12 Sept 2026.
+Ele Luz is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Thu, 10 Sept 2026, next at Jonny Knüppel, Berlin on Sat, 12 Sept 2026.
 
-Ele Luz is a techno and house artist tracked on soundcheck, with 121 sets logged across Berlin, Cologne, Copenhagen and Frankfurt and 7 more. Often billed alongside Horst Haller, Leon Licht and Maurice Mino. Next up: Jonny Knüppel, Berlin on Sat 12 Sept.
+Ele Luz is a techno and house artist tracked on soundcheck, with 122 sets logged across Berlin, Cologne, Copenhagen and Frankfurt and 7 more. Often billed alongside Horst Haller, Leon Licht and Maurice Mino. Next up: Jonny Knüppel, Berlin on Sat 12 Sept.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Ele Luz is a techno and house artist tracked on soundcheck, with 121 sets logged
 | --- | --- | --- |
 | Sat, 12 Sept 2026 | Jonny Knüppel | Berlin |
 | Fri, 2 Oct 2026 | FLUCC | Vienna |
+| Sat, 10 Oct 2026 | Ritter Butzke | Berlin |
 
 ## Recently played
 
@@ -26,4 +27,4 @@ Ele Luz is a techno and house artist tracked on soundcheck, with 121 sets logged
 
 Horst Haller, Leon Licht, Maurice Mino
 
-*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/eleluz/)*
+*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/eleluz/)*

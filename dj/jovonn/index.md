@@ -1,13 +1,14 @@
 # Jovonn
 
-Jovonn is a House and Deep House artist with 2 upcoming club dates listed on soundcheck as of Wed, 9 Sept 2026, next at Phono Lake, Amsterdam on Sat, 12 Sept 2026.
+Jovonn is a House and Deep House artist with 3 upcoming club dates listed on soundcheck as of Thu, 10 Sept 2026, next at Phono Lake, Amsterdam on Sat, 12 Sept 2026.
 
-Jovonn is a house and deep house artist tracked on soundcheck, with 49 sets logged across Amsterdam, Berlin, Brussels and Chicago and 13 more. Often billed alongside Chez Damier, Garrett David and Omer Mil. Next up: Phono Lake, Amsterdam on Sat 12 Sept.
+Jovonn is a house and deep house artist tracked on soundcheck, with 50 sets logged across Amsterdam, Berlin, Brussels and Chicago and 13 more. Often billed alongside Chez Damier, Garrett David and Omer Mil. Next up: Phono Lake, Amsterdam on Sat 12 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 12 Sept 2026 | Phono Lake | Amsterdam |
 | Sat, 12 Sept 2026 | Phono Lake | Amsterdam |
 | Fri, 25 Sept 2026 | Salon Daomé | Montreal |
 
@@ -26,4 +27,4 @@ Jovonn is a house and deep house artist tracked on soundcheck, with 49 sets logg
 
 Chez Damier, Garrett David, Omer Mil
 
-*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jovonn/)*
+*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jovonn/)*

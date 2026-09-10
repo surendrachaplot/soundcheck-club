@@ -1,6 +1,6 @@
 # DJ Dazy
 
-DJ Dazy is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Wed, 9 Sept 2026, next at TBA - 2341 E Olympic Blvd Los Angeles, CA  90021, Los Angeles on Sat, 14 Nov 2026.
+DJ Dazy is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Thu, 10 Sept 2026, next at TBA - 2341 E Olympic Blvd Los Angeles, CA  90021, Los Angeles on Sat, 14 Nov 2026.
 
 DJ Dazy is a house and deep house artist based in United States of America, tracked on soundcheck, with 14 sets logged across Losangeles, Portland and Sandiego. Often billed alongside DJ Colette, Ben Annand and DJ Heather. Next up: TBA - 2341 E Olympic Blvd Los Angeles, CA  90021, Losangeles on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ DJ Dazy is a house and deep house artist based in United States of America, trac
 
 DJ Colette, Ben Annand, DJ Heather
 
-*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djdazy/)*
+*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djdazy/)*

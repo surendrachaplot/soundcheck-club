@@ -1,6 +1,6 @@
 # Switch Back Smith
 
-Switch Back Smith is a Hardcore and Jungle artist with 1 upcoming club date listed on soundcheck as of Wed, 9 Sept 2026, next at Low Profile Studios, London on Fri, 30 Oct 2026.
+Switch Back Smith is a Hardcore and Jungle artist with 1 upcoming club date listed on soundcheck as of Thu, 10 Sept 2026, next at Low Profile Studios, London on Fri, 30 Oct 2026.
 
 Switch Back Smith is a hardcore and jungle artist tracked on soundcheck, with 9 sets logged across London. Often billed alongside Demetzy, Warlock and Ac1d Vicious. Next up: Low Profile Studios, London on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ Switch Back Smith is a hardcore and jungle artist tracked on soundcheck, with 9 
 
 Demetzy, Warlock, Ac1d Vicious
 
-*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/switchbacksmith/)*
+*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/switchbacksmith/)*

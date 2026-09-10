@@ -1,6 +1,6 @@
 # emilylol
 
-emilylol is a Trance and Hardcore artist with 1 upcoming club date listed on soundcheck as of Wed, 9 Sept 2026, next at Z-Bau, Nürnberg on Fri, 18 Sept 2026.
+emilylol is a Trance and Hardcore artist with 1 upcoming club date listed on soundcheck as of Thu, 10 Sept 2026, next at Z-Bau, Nürnberg on Fri, 18 Sept 2026.
 
 emilylol is a trance and hardcore artist tracked on soundcheck, with 10 sets logged across Berlin, Nurnberg and Vienna. Often billed alongside DJ Luvhuntah, DJ SHADY MF and CHAYA. Next up: Z-Bau, Nurnberg on Fri 18 Sept.
 
@@ -25,4 +25,4 @@ emilylol is a trance and hardcore artist tracked on soundcheck, with 10 sets log
 
 DJ Luvhuntah, DJ SHADY MF, CHAYA
 
-*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/emilylol/)*
+*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/emilylol/)*

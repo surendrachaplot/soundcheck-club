@@ -1,8 +1,8 @@
 # Regal
 
-Regal is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Wed, 9 Sept 2026, next at Les Enfants Brillants, Barcelona on Thu, 10 Sept 2026.
+Regal is a Techno and House artist with 7 upcoming club dates listed on soundcheck as of Thu, 10 Sept 2026, next at Les Enfants Brillants, Barcelona on Thu, 10 Sept 2026.
 
-Regal is a techno and house artist tracked on soundcheck, with 132 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 42 more. Often billed alongside Amelie Lens, Nuke and Daria Kolosova. Next up: Les Enfants Brillants, Barcelona on Thu 10 Sept.
+Regal is a techno and house artist tracked on soundcheck, with 133 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 42 more. Often billed alongside Amelie Lens, Nuke and Daria Kolosova. Next up: Les Enfants Brillants, Barcelona on Thu 10 Sept.
 
 ## Upcoming shows
 
@@ -13,6 +13,7 @@ Regal is a techno and house artist tracked on soundcheck, with 132 sets logged a
 | Fri, 18 Sept 2026 | IFEMA | Madrid |
 | Fri, 18 Sept 2026 | IFEMA | Madrid |
 | Sat, 26 Sept 2026 | Grand Park | Los Angeles |
+| Sat, 24 Oct 2026 | Basement (Amsterdam) | Amsterdam |
 | Sat, 31 Oct 2026 | KALT | Strasbourg |
 
 ## Recently played
@@ -30,4 +31,4 @@ Regal is a techno and house artist tracked on soundcheck, with 132 sets logged a
 
 Amelie Lens, Nuke, Daria Kolosova
 
-*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/regal/)*
+*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/regal/)*

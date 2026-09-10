@@ -1,6 +1,6 @@
 # KRUELTY
 
-KRUELTY is a Techno and Hardcore artist with 4 upcoming club dates listed on soundcheck as of Wed, 9 Sept 2026, next at The Telegraph Building, Belfast on Sat, 10 Oct 2026.
+KRUELTY is a Techno and Hardcore artist with 4 upcoming club dates listed on soundcheck as of Thu, 10 Sept 2026, next at The Telegraph Building, Belfast on Sat, 10 Oct 2026.
 
 KRUELTY is a techno and hardcore artist based in Netherlands, tracked on soundcheck, with 74 sets logged across Amsterdam, Antwerp, Barcelona and Belfast and 28 more. Often billed alongside KLOFAMA, KARAH and SLVL. Next up: The Telegraph Building, Belfast on Sat 10 Oct.
 
@@ -28,4 +28,4 @@ KRUELTY is a techno and hardcore artist based in Netherlands, tracked on soundch
 
 KLOFAMA, KARAH, SLVL
 
-*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kruelty/)*
+*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kruelty/)*

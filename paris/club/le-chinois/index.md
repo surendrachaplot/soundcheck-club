@@ -1,6 +1,6 @@
 # Le Chinois
 
-Le Chinois is a music venue in Paris with 3 upcoming nights listed on soundcheck as of Wed, 9 Sept 2026; the next is "Placid Records W/ Le Chinois" on Fri, 11 Sept 2026.
+Le Chinois is a music venue in Paris with 3 upcoming nights listed on soundcheck as of Thu, 10 Sept 2026; the next is "Placid Records W/ Le Chinois" on Fri, 11 Sept 2026.
 
 Le Chinois is a music venue in Paris listed on soundcheck. 3 upcoming nights, with line-ups including Venetia. Browse upcoming dates, start times and who's playing. 6 place du Marché, Montreuil.
 
@@ -16,4 +16,4 @@ Le Chinois is a music venue in Paris listed on soundcheck. 3 upcoming nights, wi
 
 6 place du Marché, Montreuil, Paris
 
-*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/paris/club/le-chinois/)*
+*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/paris/club/le-chinois/)*

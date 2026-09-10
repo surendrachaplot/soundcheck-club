@@ -1,6 +1,6 @@
 # L.zwo
 
-L.zwo is a Techno and Trance artist with 5 upcoming club dates listed on soundcheck as of Wed, 9 Sept 2026, next at Gateway Gardens Ocean Club, Frankfurt on Fri, 11 Sept 2026.
+L.zwo is a Techno and Trance artist with 5 upcoming club dates listed on soundcheck as of Thu, 10 Sept 2026, next at Gateway Gardens Ocean Club, Frankfurt on Fri, 11 Sept 2026.
 
 L.zwo is a techno and trance artist based in Germany, tracked on soundcheck, with 92 sets logged across Amsterdam, Antwerp, Barcelona and Basel and 16 more. Often billed alongside OCIN, Antonym and 2HOT2PLAY. Next up: Gateway Gardens Ocean Club, Frankfurt on Fri 11 Sept.
 
@@ -29,4 +29,4 @@ L.zwo is a techno and trance artist based in Germany, tracked on soundcheck, wit
 
 OCIN, Antonym, 2HOT2PLAY
 
-*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/l.zwo/)*
+*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/l.zwo/)*

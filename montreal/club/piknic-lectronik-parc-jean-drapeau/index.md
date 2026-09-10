@@ -1,6 +1,6 @@
 # Piknic Électronik / Parc Jean Drapeau
 
-Piknic Électronik / Parc Jean Drapeau is a music venue in Montreal with 12 upcoming nights listed on soundcheck as of Wed, 9 Sept 2026; the next is "Piknic Électronik MTL #16: Dean Turnley, Julian Fijma / Roche Musique: Didi Han, Cezaire" on Sun, 13 Sept 2026.
+Piknic Électronik / Parc Jean Drapeau is a music venue in Montreal with 12 upcoming nights listed on soundcheck as of Thu, 10 Sept 2026; the next is "Piknic Électronik MTL #16: Dean Turnley, Julian Fijma / Roche Musique: Didi Han, Cezaire" on Sun, 13 Sept 2026.
 
 Piknic Électronik / Parc Jean Drapeau is a music venue in Montreal listed on soundcheck. 12 upcoming nights, with line-ups including AMÉMÉ, Asha, Baby Bimbo and Beltran and 2 more. Browse upcoming dates, start times and who's playing. Jardin le Petit Prince, Montréal, QC H3C 4G8.
 
@@ -23,4 +23,4 @@ Piknic Électronik / Parc Jean Drapeau is a music venue in Montreal listed on so
 
 Jardin le Petit Prince, Montréal, QC H3C 4G8, Montreal
 
-*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/montreal/club/piknic-lectronik-parc-jean-drapeau/)*
+*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/montreal/club/piknic-lectronik-parc-jean-drapeau/)*

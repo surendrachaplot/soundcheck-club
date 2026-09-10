@@ -1,6 +1,6 @@
 # Laurence Kapinga
 
-Laurence Kapinga is a Techno and Bass artist with 1 upcoming club date listed on soundcheck as of Wed, 9 Sept 2026, next at TBA - Daylight, Dublin on Sat, 26 Sept 2026.
+Laurence Kapinga is a Techno and Bass artist with 1 upcoming club date listed on soundcheck as of Thu, 10 Sept 2026, next at TBA - Daylight, Dublin on Sat, 26 Sept 2026.
 
 Laurence Kapinga is a techno and bass artist tracked on soundcheck, with 9 sets logged across Dublin. Often billed alongside Lúnasa, Murchadh and Actress. Next up: TBA - Daylight, Dublin on Sat 26 Sept.
 
@@ -25,4 +25,4 @@ Laurence Kapinga is a techno and bass artist tracked on soundcheck, with 9 sets 
 
 Lúnasa, Murchadh, Actress
 
-*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/laurencekapinga/)*
+*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/laurencekapinga/)*

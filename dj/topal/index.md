@@ -1,6 +1,6 @@
 # Topal
 
-Topal is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Wed, 9 Sept 2026, next at Park Riegrovy Sady, Prague on Sat, 19 Sept 2026.
+Topal is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Thu, 10 Sept 2026, next at Park Riegrovy Sady, Prague on Sat, 19 Sept 2026.
 
 Topal is a tech house and house artist tracked on soundcheck, with 5 sets logged across Prague. Often billed alongside Blackloud, KAWA and Durgen. Next up: Park Riegrovy Sady, Prague on Sat 19 Sept.
 
@@ -21,4 +21,4 @@ Topal is a tech house and house artist tracked on soundcheck, with 5 sets logged
 
 Blackloud, KAWA, Durgen
 
-*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/topal/)*
+*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/topal/)*

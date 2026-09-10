@@ -1,6 +1,6 @@
 # Tide Nightclub
 
-Tide Nightclub is a music venue in Brighton with 2 upcoming nights listed on soundcheck as of Wed, 9 Sept 2026; the next is "Underground Distrikt: Odela Sound" on Sat, 12 Sept 2026.
+Tide Nightclub is a music venue in Brighton with 2 upcoming nights listed on soundcheck as of Thu, 10 Sept 2026; the next is "Underground Distrikt: Odela Sound" on Sat, 12 Sept 2026.
 
 Tide Nightclub is a music venue in Brighton listed on soundcheck. 2 upcoming nights. Browse upcoming dates, start times and who's playing. 211 Kings Road Arches, Brighton, BN1 1NB.
 
@@ -15,4 +15,4 @@ Tide Nightclub is a music venue in Brighton listed on soundcheck. 2 upcoming nig
 
 211 Kings Road Arches, Brighton, BN1 1NB, Brighton
 
-*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/brighton/club/tide-nightclub/)*
+*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/brighton/club/tide-nightclub/)*

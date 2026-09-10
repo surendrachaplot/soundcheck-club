@@ -1,14 +1,15 @@
 # Tania Kim
 
-Tania Kim is a Techno and Club artist with 2 upcoming club dates listed on soundcheck as of Wed, 9 Sept 2026, next at Tempio del Futuro Perduto, Milan on Sat, 12 Sept 2026.
+Tania Kim is a Techno and Club artist with 3 upcoming club dates listed on soundcheck as of Thu, 10 Sept 2026, next at Tempio del Futuro Perduto, Milan on Sat, 12 Sept 2026.
 
-Tania Kim is a techno and club artist tracked on soundcheck, with 21 sets logged across Milan and Rome. Often billed alongside Waldo, DRUM THE SYSTEM live and Atmosphreal. Next up: Tempio del Futuro Perduto, Milan on Sat 12 Sept.
+Tania Kim is a techno and club artist tracked on soundcheck, with 22 sets logged across Amsterdam, Milan and Rome. Often billed alongside Waldo, DRUM THE SYSTEM live and Atmosphreal. Next up: Tempio del Futuro Perduto, Milan on Sat 12 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 12 Sept 2026 | Tempio del Futuro Perduto | Milan |
+| Sat, 24 Oct 2026 | OT301 | Amsterdam |
 | Sat, 21 Nov 2026 | Tempio del Futuro Perduto | Milan |
 
 ## Recently played
@@ -26,4 +27,4 @@ Tania Kim is a techno and club artist tracked on soundcheck, with 21 sets logged
 
 Waldo, DRUM THE SYSTEM live, Atmosphreal
 
-*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/taniakim/)*
+*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/taniakim/)*

@@ -1,6 +1,6 @@
 # Nikos
 
-Nikos is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 9 Sept 2026, next at Berghain | Panorama Bar | Säule, Berlin on Thu, 22 Oct 2026.
+Nikos is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 10 Sept 2026, next at Berghain | Panorama Bar | Säule, Berlin on Thu, 22 Oct 2026.
 
 Nikos is a techno and house artist tracked on soundcheck, with 13 sets logged across Amsterdam, Berlin, Munich and Rotterdam. Often billed alongside kimmah, Faustin (NL) and Hewan Aman. Next up: Berghain | Panorama Bar | Säule, Berlin on Thu 22 Oct.
 
@@ -25,4 +25,4 @@ Nikos is a techno and house artist tracked on soundcheck, with 13 sets logged ac
 
 kimmah, Faustin (NL), Hewan Aman
 
-*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nikos/)*
+*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nikos/)*

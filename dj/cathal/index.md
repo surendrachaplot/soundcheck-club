@@ -1,8 +1,8 @@
 # Cathal
 
-Cathal is a Bass and House artist with 3 upcoming club dates listed on soundcheck as of Wed, 9 Sept 2026, next at Renate, Berlin on Thu, 10 Sept 2026.
+Cathal is a House and Garage artist with 4 upcoming club dates listed on soundcheck as of Thu, 10 Sept 2026, next at Renate, Berlin on Thu, 10 Sept 2026.
 
-Cathal is a bass and house artist tracked on soundcheck, with 12 sets logged across Berlin, Bristol and London. Often billed alongside Horne, Asa Tate and Cashper. Next up: Renate, Berlin on Thu 10 Sept.
+Cathal is a house and garage artist tracked on soundcheck, with 13 sets logged across Berlin, Bristol and London. Often billed alongside Horne, Luun and Asa Tate. Next up: Renate, Berlin on Thu 10 Sept.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ Cathal is a bass and house artist tracked on soundcheck, with 12 sets logged acr
 | Thu, 10 Sept 2026 | Renate | Berlin |
 | Thu, 10 Sept 2026 | Renate | Berlin |
 | Sat, 12 Sept 2026 | radial | London |
+| Fri, 30 Oct 2026 | Cu | London |
 
 ## Recently played
 
@@ -25,6 +26,6 @@ Cathal is a bass and house artist tracked on soundcheck, with 12 sets logged acr
 
 ## Shares bills with
 
-Horne, Asa Tate, Cashper
+Horne, Luun, Asa Tate
 
-*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/cathal/)*
+*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/cathal/)*

@@ -1,6 +1,6 @@
 # E-Talking
 
-E-Talking is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 9 Sept 2026, next at Cadavra, Madrid on Sat, 12 Sept 2026.
+E-Talking is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 10 Sept 2026, next at Cadavra, Madrid on Sat, 12 Sept 2026.
 
 E-Talking is a house and techno artist based in France, tracked on soundcheck, with 39 sets logged across Amsterdam, Barcelona, Berlin and London and 3 more. Often billed alongside DJ TEETH, TPR (DE) and Alicia Carrera. Next up: Cadavra, Madrid on Sat 12 Sept.
 
@@ -26,4 +26,4 @@ E-Talking is a house and techno artist based in France, tracked on soundcheck, w
 
 DJ TEETH, TPR (DE), Alicia Carrera
 
-*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/e-talking/)*
+*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/e-talking/)*

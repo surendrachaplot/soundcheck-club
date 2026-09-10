@@ -1,6 +1,6 @@
 # Rumi de Baires
 
-Rumi de Baires is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 9 Sept 2026, next at Berghain | Panorama Bar | Säule, Berlin on Fri, 2 Oct 2026.
+Rumi de Baires is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 10 Sept 2026, next at Berghain | Panorama Bar | Säule, Berlin on Fri, 2 Oct 2026.
 
 Rumi de Baires is a house and techno artist tracked on soundcheck, with 96 sets logged across Amsterdam, Antwerp, Athens and Berlin and 11 more. Often billed alongside Jorkes, JP Bechamel and Altroy. Next up: Berghain | Panorama Bar | Säule, Berlin on Fri 2 Oct.
 
@@ -25,4 +25,4 @@ Rumi de Baires is a house and techno artist tracked on soundcheck, with 96 sets 
 
 Jorkes, JP Bechamel, Altroy
 
-*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/rumidebaires/)*
+*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/rumidebaires/)*

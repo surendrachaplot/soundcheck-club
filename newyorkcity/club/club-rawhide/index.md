@@ -1,6 +1,6 @@
 # Club Rawhide
 
-Club Rawhide is a music venue in New York City with 4 upcoming nights listed on soundcheck as of Wed, 9 Sept 2026; the next is "CODED Thursdays with DJ Shiver, Boomer Banks" on Thu, 10 Sept 2026.
+Club Rawhide is a music venue in New York City with 4 upcoming nights listed on soundcheck as of Thu, 10 Sept 2026; the next is "CODED Thursdays with DJ Shiver, Boomer Banks" on Thu, 10 Sept 2026.
 
 Club Rawhide is a music venue in Newyorkcity listed on soundcheck. 4 upcoming nights, with line-ups including ALEXIS DE LA ROSA, Boomer Banks, Dangerous Rose and DJ Shiver (2) and 2 more. Browse upcoming dates, start times and who's playing. 250 W 26TH ST.
 
@@ -17,4 +17,4 @@ Club Rawhide is a music venue in Newyorkcity listed on soundcheck. 4 upcoming ni
 
 250 W 26TH ST, New York City
 
-*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/club-rawhide/)*
+*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/club-rawhide/)*

@@ -1,6 +1,6 @@
 # ONYX x WHALIEN pres. KURAI LABEL w / Marie Vaunt, Niotech, ANDATA at OST
 
-ONYX x WHALIEN pres. KURAI LABEL w / Marie Vaunt, Niotech, ANDATA at OST on Sat 12 Sept, Berlin. 7 acts on the bill: ANDATA, Domovnika, KARISH and Marie Vaunt and 3 more. Trance. Preview the line-up and save it on soundcheck.
+ONYX x WHALIEN pres. KURAI LABEL w / Marie Vaunt, Niotech, ANDATA at OST on Sat 12 Sept, Berlin. 8 acts on the bill: ANDATA, ARGOT, Domovnika and KARISH and 4 more. Trance. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,6 +11,7 @@ ONYX x WHALIEN pres. KURAI LABEL w / Marie Vaunt, Niotech, ANDATA at OST on Sat 
 ## Line-up
 
 - ANDATA
+- ARGOT
 - Domovnika
 - KARISH
 - Marie Vaunt

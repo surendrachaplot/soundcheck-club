@@ -1,6 +1,6 @@
 # Resume Valencia
 
-Resume Valencia is a music venue in Valencia with 10 upcoming nights listed on soundcheck as of Wed, 9 Sept 2026; the next is "LM, FRAN,CIS" on Fri, 11 Sept 2026.
+Resume Valencia is a music venue in Valencia with 10 upcoming nights listed on soundcheck as of Thu, 10 Sept 2026; the next is "LM, FRAN,CIS" on Fri, 11 Sept 2026.
 
 Resume Valencia is a music venue in Valencia listed on soundcheck. 10 upcoming nights, with line-ups including blan.trrs, Cristian Sarde, Fran.cis and IKAKO and 2 more. Browse upcoming dates, start times and who's playing. Carrer del Mestre Josep Serrano, 8, L'Eixample, 46005 València, Valencia.
 
@@ -23,4 +23,4 @@ Resume Valencia is a music venue in Valencia listed on soundcheck. 10 upcoming n
 
 Carrer del Mestre Josep Serrano, 8, L'Eixample, 46005 València, Valencia, Valencia
 
-*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/valencia/club/resume-valencia/)*
+*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/valencia/club/resume-valencia/)*

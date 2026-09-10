@@ -1,6 +1,6 @@
 # Kowalski
 
-Kowalski is a music venue in Stuttgart with 8 upcoming nights listed on soundcheck as of Wed, 9 Sept 2026; the next is "HERZ & SEELE w./ Hidden Empire, Milla Lou, Femcat" on Fri, 11 Sept 2026.
+Kowalski is a music venue in Stuttgart with 8 upcoming nights listed on soundcheck as of Thu, 10 Sept 2026; the next is "HERZ & SEELE w./ Hidden Empire, Milla Lou, Femcat" on Fri, 11 Sept 2026.
 
 Kowalski is a music venue in Stuttgart listed on soundcheck. 8 upcoming nights, with line-ups including Chamelio 3000, Jochen Pash and Shubostar. Browse upcoming dates, start times and who's playing. Kriegsbergstr. 28, 70174 Stuttgart, Germany.
 
@@ -21,4 +21,4 @@ Kowalski is a music venue in Stuttgart listed on soundcheck. 8 upcoming nights, 
 
 Kriegsbergstr. 28, 70174 Stuttgart, Germany, Stuttgart
 
-*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/stuttgart/club/kowalski/)*
+*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/stuttgart/club/kowalski/)*

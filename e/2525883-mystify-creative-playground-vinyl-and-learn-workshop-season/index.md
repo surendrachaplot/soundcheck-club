@@ -1,6 +1,6 @@
-# Mystify Creative Playground & Vinyl and Learn Workshop Season 2 at The Racket Space
+# Mystify Creative Playground & Vinyl and Learn Workshop Season 2 (Day1/4) at The Racket Space
 
-Mystify Creative Playground & Vinyl and Learn Workshop Season 2 at The Racket Space on Sun 20 Sept, Dublin. 2 acts on the bill: Tadhg K and Tr One. Electro. Preview the line-up and save it on soundcheck.
+Mystify Creative Playground & Vinyl and Learn Workshop Season 2 (Day1/4) at The Racket Space on Sun 20 Sept, Dublin. 5 acts on the bill: Blimp, Dan J. Wilcox, Sémaé and Tadhg K and 1 more. Electro. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,9 @@ Mystify Creative Playground & Vinyl and Learn Workshop Season 2 at The Racket Sp
 
 ## Line-up
 
+- Blimp
+- Dan J. Wilcox
+- Sémaé
 - Tadhg K
 - Tr One
 

@@ -1,6 +1,6 @@
 # Opul
 
-Opul is a Deep House and Balearic artist with 1 upcoming club date listed on soundcheck as of Wed, 9 Sept 2026, next at TBA - Wellington Studios, Manchester on Sat, 19 Sept 2026.
+Opul is a Deep House and Balearic artist with 1 upcoming club date listed on soundcheck as of Thu, 10 Sept 2026, next at TBA - Wellington Studios, Manchester on Sat, 19 Sept 2026.
 
 Opul is a deep house and balearic artist tracked on soundcheck, with 12 sets logged across Amsterdam, Dublin, Liverpool and London and 2 more. Often billed alongside Etienne Groh, Nikol and Allius. Next up: TBA - Wellington Studios, Manchester on Sat 19 Sept.
 
@@ -25,4 +25,4 @@ Opul is a deep house and balearic artist tracked on soundcheck, with 12 sets log
 
 Etienne Groh, Nikol, Allius
 
-*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/opul/)*
+*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/opul/)*

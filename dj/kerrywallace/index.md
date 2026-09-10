@@ -1,6 +1,6 @@
 # Kerry Wallace
 
-Kerry Wallace is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Wed, 9 Sept 2026, next at Carousel Bar & Ballroom, Sydney on Sat, 26 Sept 2026.
+Kerry Wallace is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Thu, 10 Sept 2026, next at Carousel Bar & Ballroom, Sydney on Sat, 26 Sept 2026.
 
 Kerry Wallace is a tech house and house artist based in Australia, tracked on soundcheck, with 91 sets logged across Amsterdam, Auckland, Austin and Bali and 16 more. Often billed alongside Voigtmann, Dan Baartz and Cassette. Next up: Carousel Bar & Ballroom, Sydney on Sat 26 Sept.
 
@@ -25,4 +25,4 @@ Kerry Wallace is a tech house and house artist based in Australia, tracked on so
 
 Voigtmann, Dan Baartz, Cassette
 
-*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kerrywallace/)*
+*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kerrywallace/)*

@@ -1,6 +1,6 @@
 # Z-Bau
 
-Z-Bau is a music venue in Nürnberg with 3 upcoming nights listed on soundcheck as of Wed, 9 Sept 2026; the next is "Nbg808" on Fri, 18 Sept 2026.
+Z-Bau is a music venue in Nürnberg with 3 upcoming nights listed on soundcheck as of Thu, 10 Sept 2026; the next is "Nbg808" on Fri, 18 Sept 2026.
 
 Z-Bau is a music venue in Nurnberg listed on soundcheck. 3 upcoming nights, with line-ups including DJ Geheimagent, Dominique Lamee, emilylol and Gustav Ørgano and 2 more. Browse upcoming dates, start times and who's playing. Frankenstr.200.
 
@@ -16,4 +16,4 @@ Z-Bau is a music venue in Nurnberg listed on soundcheck. 3 upcoming nights, with
 
 Frankenstr.200, Nürnberg
 
-*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/nurnberg/club/z-bau/)*
+*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/nurnberg/club/z-bau/)*

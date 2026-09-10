@@ -1,8 +1,8 @@
 # BUTZ
 
-BUTZ is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Wed, 9 Sept 2026, next at Lokschuppen Berlin, Berlin on Sat, 19 Sept 2026.
+BUTZ is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Thu, 10 Sept 2026, next at Lokschuppen Berlin, Berlin on Sat, 19 Sept 2026.
 
-BUTZ is a techno and house artist based in Germany, tracked on soundcheck, with 30 sets logged across Berlin and Paris. Often billed alongside Moritz Biebl, Dj handbag and Smoothie Operator. Next up: Lokschuppen Berlin, Berlin on Sat 19 Sept.
+BUTZ is a techno and house artist based in Germany, tracked on soundcheck, with 31 sets logged across Berlin, London and Paris. Often billed alongside Moritz Biebl, Dj handbag and ENNIO. Next up: Lokschuppen Berlin, Berlin on Sat 19 Sept.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ BUTZ is a techno and house artist based in Germany, tracked on soundcheck, with 
 | Sat, 19 Sept 2026 | Lokschuppen Berlin | Berlin |
 | Sat, 26 Sept 2026 | Crack Bellmer | Berlin |
 | Fri, 9 Oct 2026 | KREUZWERK | Berlin |
+| Sat, 10 Oct 2026 | fabric | London |
 
 ## Recently played
 
@@ -25,6 +26,6 @@ BUTZ is a techno and house artist based in Germany, tracked on soundcheck, with 
 
 ## Shares bills with
 
-Moritz Biebl, Dj handbag, Smoothie Operator
+Moritz Biebl, Dj handbag, ENNIO
 
-*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/butz/)*
+*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/butz/)*

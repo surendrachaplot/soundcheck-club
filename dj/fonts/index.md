@@ -1,6 +1,6 @@
 # Fonts
 
-Fonts is a Drum & Bass and Bass artist with 1 upcoming club date listed on soundcheck as of Wed, 9 Sept 2026, next at Notting Hill Arts Club, London on Fri, 25 Sept 2026.
+Fonts is a Drum & Bass and Bass artist with 1 upcoming club date listed on soundcheck as of Thu, 10 Sept 2026, next at Notting Hill Arts Club, London on Fri, 25 Sept 2026.
 
 Fonts is a drum & bass and bass artist based in United Kingdom, tracked on soundcheck, with 24 sets logged across London and Tokyo. Often billed alongside A to C, Azumai and SAKO. Next up: Notting Hill Arts Club, London on Fri 25 Sept.
 
@@ -25,4 +25,4 @@ Fonts is a drum & bass and bass artist based in United Kingdom, tracked on sound
 
 A to C, Azumai, SAKO
 
-*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/fonts/)*
+*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/fonts/)*

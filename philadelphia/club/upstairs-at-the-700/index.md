@@ -1,6 +1,6 @@
 # Upstairs at the 700
 
-Upstairs at the 700 is a music venue in Philadelphia with 6 upcoming nights listed on soundcheck as of Wed, 9 Sept 2026; the next is "bug [virgo birthday party] bop" on Sat, 12 Sept 2026.
+Upstairs at the 700 is a music venue in Philadelphia with 6 upcoming nights listed on soundcheck as of Thu, 10 Sept 2026; the next is "bug [virgo birthday party] bop" on Sat, 12 Sept 2026.
 
 Upstairs at the 700 is a music venue in Philadelphia listed on soundcheck. 6 upcoming nights, with line-ups including El-D (USA), Headnod, hopifer and Mike Textbeak and 1 more. Browse upcoming dates, start times and who's playing. 700 N 2nd St, Philadelphia, PA 19123, United States.
 
@@ -19,4 +19,4 @@ Upstairs at the 700 is a music venue in Philadelphia listed on soundcheck. 6 upc
 
 700 N 2nd St, Philadelphia, PA 19123, United States, Philadelphia
 
-*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/philadelphia/club/upstairs-at-the-700/)*
+*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/philadelphia/club/upstairs-at-the-700/)*

@@ -1,6 +1,6 @@
 # Dubfire
 
-Dubfire is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Wed, 9 Sept 2026, next at Evergreen Brick Works, Toronto on Sun, 27 Sept 2026.
+Dubfire is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Thu, 10 Sept 2026, next at Evergreen Brick Works, Toronto on Sun, 27 Sept 2026.
 
 Dubfire is a techno and house artist tracked on soundcheck, with 150 sets logged across Amsterdam, Athens, Austin and Bangkok and 47 more. Often billed alongside Joseph Capriati, Cristoph and Deep Dish. Next up: Evergreen Brick Works, Toronto on Sun 27 Sept.
 
@@ -28,4 +28,4 @@ Dubfire is a techno and house artist tracked on soundcheck, with 150 sets logged
 
 Joseph Capriati, Cristoph, Deep Dish
 
-*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dubfire/)*
+*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dubfire/)*

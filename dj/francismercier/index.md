@@ -1,6 +1,6 @@
 # Francis Mercier
 
-Francis Mercier is a Afro House and House artist with 8 upcoming club dates listed on soundcheck as of Wed, 9 Sept 2026, next at Lula Club, Madrid on Sun, 13 Sept 2026.
+Francis Mercier is a Afro House and House artist with 8 upcoming club dates listed on soundcheck as of Thu, 10 Sept 2026, next at Lula Club, Madrid on Sun, 13 Sept 2026.
 
 Francis Mercier is an afro house and house artist tracked on soundcheck, with 168 sets logged across Amsterdam, Antwerp, Athens and Austin and 41 more. Often billed alongside Andrea Oliva, Nadrums and ARYMÉ. Next up: Lula Club, Madrid on Sun 13 Sept.
 
@@ -32,4 +32,4 @@ Francis Mercier is an afro house and house artist tracked on soundcheck, with 16
 
 Andrea Oliva, Nadrums, ARYMÉ
 
-*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/francismercier/)*
+*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/francismercier/)*

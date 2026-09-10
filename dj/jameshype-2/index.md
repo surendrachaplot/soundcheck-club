@@ -1,15 +1,15 @@
 # James Hype (UK)
 
-James Hype (UK) is a House and Tech House artist with 9 upcoming club dates listed on soundcheck as of Wed, 9 Sept 2026, next at Hï Ibiza, Ibiza on Wed, 9 Sept 2026.
+James Hype (UK) is a House and Tech House artist with 9 upcoming club dates listed on soundcheck as of Thu, 10 Sept 2026, next at O der Klub, Vienna on Fri, 11 Sept 2026.
 
-James Hype (UK) is a house and tech house artist tracked on soundcheck, with 176 sets logged across Amsterdam, Antwerp, Athens and Austin and 40 more. Often billed alongside Meduza, David Guetta and Hannah Laing. Next up: Hï Ibiza, Ibiza on Wed 9 Sept.
+James Hype (UK) is a house and tech house artist tracked on soundcheck, with 177 sets logged across Amsterdam, Antwerp, Athens and Austin and 41 more. Often billed alongside Meduza, David Guetta and Hannah Laing. Next up: O der Klub, Vienna on Fri 11 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Wed, 9 Sept 2026 | Hï Ibiza | Ibiza |
 | Fri, 11 Sept 2026 | O der Klub | Vienna |
+| Sat, 12 Sept 2026 | Klub Progresja | Warsaw |
 | Wed, 16 Sept 2026 | Hï Ibiza | Ibiza |
 | Sat, 19 Sept 2026 | Glen Helen Regional Park | Los Angeles |
 | Wed, 23 Sept 2026 | Hï Ibiza | Ibiza |
@@ -20,6 +20,7 @@ James Hype (UK) is a house and tech house artist tracked on soundcheck, with 176
 
 ## Recently played
 
+- Hï Ibiza, Ibiza — Wed, 9 Sept 2026
 - Hï Ibiza, Ibiza — Wed, 2 Sept 2026
 - Fitz Mallorca, Mallorca — Fri, 28 Aug 2026
 - Hï Ibiza, Ibiza — Wed, 26 Aug 2026
@@ -27,10 +28,9 @@ James Hype (UK) is a house and tech house artist tracked on soundcheck, with 176
 - Cavo Paradiso, Mykonos — Mon, 17 Aug 2026
 - Magazine Open–Air, London — Fri, 14 Aug 2026
 - Hï Ibiza, Ibiza — Wed, 12 Aug 2026
-- Ku Barcelona, Barcelona — Sun, 9 Aug 2026
 
 ## Shares bills with
 
 Meduza, David Guetta, Hannah Laing
 
-*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jameshype-2/)*
+*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jameshype-2/)*

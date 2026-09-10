@@ -1,13 +1,14 @@
 # MALAS
 
-MALAS is a House and Deep House artist with 2 upcoming club dates listed on soundcheck as of Wed, 9 Sept 2026, next at TBA, Los Angeles on Sat, 19 Sept 2026.
+MALAS is a House and Deep House artist with 3 upcoming club dates listed on soundcheck as of Thu, 10 Sept 2026, next at Jungle Island, Miami on Sat, 12 Sept 2026.
 
-MALAS is a house and deep house artist tracked on soundcheck, with 15 sets logged across London, Losangeles, Miami and Newyorkcity and 3 more. Often billed alongside Glauco Di Mambro, Mandrake and Marques Wyatt. Next up: TBA, Losangeles on Sat 19 Sept.
+MALAS is a house and deep house artist tracked on soundcheck, with 16 sets logged across London, Losangeles, Miami and Newyorkcity and 3 more. Often billed alongside Glauco Di Mambro, Mandrake and Marques Wyatt. Next up: Jungle Island, Miami on Sat 12 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 12 Sept 2026 | Jungle Island | Miami |
 | Sat, 19 Sept 2026 | TBA | Los Angeles |
 | Sat, 10 Oct 2026 | The Midway | San Francisco/Oakland |
 
@@ -26,4 +27,4 @@ MALAS is a house and deep house artist tracked on soundcheck, with 15 sets logge
 
 Glauco Di Mambro, Mandrake, Marques Wyatt
 
-*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/malas/)*
+*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/malas/)*

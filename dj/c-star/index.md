@@ -1,13 +1,14 @@
 # C-Star
 
-C-Star is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Wed, 9 Sept 2026, next at The Spot, Vancouver on Sat, 26 Sept 2026.
+C-Star is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Thu, 10 Sept 2026, next at TBA - Secret Location, Vancouver on Fri, 25 Sept 2026.
 
-C-Star is a techno and house artist tracked on soundcheck, with 81 sets logged across Toronto and Vancouver. Often billed alongside Behrad Tehrani, DK PAU and Fizch. Next up: The Spot, Vancouver on Sat 26 Sept.
+C-Star is a techno and house artist tracked on soundcheck, with 82 sets logged across Toronto and Vancouver. Often billed alongside DK PAU, Behrad Tehrani and Fizch. Next up: TBA - Secret Location, Vancouver on Fri 25 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 25 Sept 2026 | TBA - Secret Location | Vancouver |
 | Sat, 26 Sept 2026 | The Spot | Vancouver |
 | Fri, 9 Oct 2026 | TBA | Vancouver |
 
@@ -24,6 +25,6 @@ C-Star is a techno and house artist tracked on soundcheck, with 81 sets logged a
 
 ## Shares bills with
 
-Behrad Tehrani, DK PAU, Fizch
+DK PAU, Behrad Tehrani, Fizch
 
-*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/c-star/)*
+*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/c-star/)*

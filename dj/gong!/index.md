@@ -1,13 +1,14 @@
 # GONG!
 
-GONG! is a Bass and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 9 Sept 2026, next at Tai Tong Organic Ecopark, Hong Kong on Sat, 14 Nov 2026.
+GONG! is a Bass and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 10 Sept 2026, next at Social Room, Hong Kong on Fri, 25 Sept 2026.
 
-GONG! is a bass and techno artist tracked on soundcheck, with 19 sets logged across Hongkong. Often billed alongside Joesnotdead, 1908 and HØRǍÇÍÒ. Next up: Tai Tong Organic Ecopark, Hongkong on Sat 14 Nov.
+GONG! is a bass and techno artist tracked on soundcheck, with 20 sets logged across Hongkong. Often billed alongside Joesnotdead, 1908 and HØRǍÇÍÒ. Next up: Social Room, Hongkong on Fri 25 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 25 Sept 2026 | Social Room | Hong Kong |
 | Sat, 14 Nov 2026 | Tai Tong Organic Ecopark | Hong Kong |
 
 ## Recently played
@@ -25,4 +26,4 @@ GONG! is a bass and techno artist tracked on soundcheck, with 19 sets logged acr
 
 Joesnotdead, 1908, HØRǍÇÍÒ
 
-*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/gong!/)*
+*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/gong!/)*

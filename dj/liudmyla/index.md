@@ -1,13 +1,14 @@
 # Liudmyla
 
-Liudmyla is a Italo Disco and Tech House artist with 1 upcoming club date listed on soundcheck as of Wed, 9 Sept 2026, next at Palais, Munich on Fri, 2 Oct 2026.
+Liudmyla is a Italo Disco and Tech House artist with 2 upcoming club dates listed on soundcheck as of Thu, 10 Sept 2026, next at Unter Deck, Munich on Sat, 12 Sept 2026.
 
-Liudmyla is an italo disco and tech house artist tracked on soundcheck, with 5 sets logged across Munich. Often billed alongside DJ FM & DJ FREUND, Safahs and Bless The Speakers. Next up: Palais, Munich on Fri 2 Oct.
+Liudmyla is an italo disco and tech house artist tracked on soundcheck, with 6 sets logged across Munich. Often billed alongside DJ FM & DJ FREUND, Safahs and Bless The Speakers. Next up: Unter Deck, Munich on Sat 12 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 12 Sept 2026 | Unter Deck | Munich |
 | Fri, 2 Oct 2026 | Palais | Munich |
 
 ## Recently played
@@ -21,4 +22,4 @@ Liudmyla is an italo disco and tech house artist tracked on soundcheck, with 5 s
 
 DJ FM & DJ FREUND, Safahs, Bless The Speakers
 
-*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/liudmyla/)*
+*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/liudmyla/)*

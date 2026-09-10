@@ -1,6 +1,6 @@
 # Neil Diablo
 
-Neil Diablo is a Disco and House artist with 1 upcoming club date listed on soundcheck as of Wed, 9 Sept 2026, next at The White Hotel, Manchester on Sat, 31 Oct 2026.
+Neil Diablo is a Disco and House artist with 1 upcoming club date listed on soundcheck as of Thu, 10 Sept 2026, next at The White Hotel, Manchester on Sat, 31 Oct 2026.
 
 Neil Diablo is a disco and house artist based in United Kingdom, tracked on soundcheck, with 17 sets logged across Ibiza, Leeds, Liverpool and London and 1 more. Often billed alongside Il Bosco, James Holroyd and Crazy P. Next up: The White Hotel, Manchester on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Neil Diablo is a disco and house artist based in United Kingdom, tracked on soun
 
 Il Bosco, James Holroyd, Crazy P
 
-*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/neildiablo/)*
+*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/neildiablo/)*

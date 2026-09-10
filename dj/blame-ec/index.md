@@ -1,14 +1,15 @@
 # Blame (EC)
 
-Blame (EC) is a House and Electro artist with 1 upcoming club date listed on soundcheck as of Wed, 9 Sept 2026, next at Savage Labs, Miami on Thu, 10 Sept 2026.
+Blame (EC) is a House and Electro artist with 2 upcoming club dates listed on soundcheck as of Thu, 10 Sept 2026, next at Savage Labs, Miami on Thu, 10 Sept 2026.
 
-Blame (EC) is a house and electro artist based in Ecuador, tracked on soundcheck, with 11 sets logged across Miami. Often billed alongside Retronika, Jacob (UK) and San Dee. Next up: Savage Labs, Miami on Thu 10 Sept.
+Blame (EC) is a house and electro artist based in Ecuador, tracked on soundcheck, with 12 sets logged across Miami. Often billed alongside Retronika, Jacob (UK) and San Dee. Next up: Savage Labs, Miami on Thu 10 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Thu, 10 Sept 2026 | Savage Labs | Miami |
+| Fri, 30 Oct 2026 | Paraiso Estereo | Miami |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Blame (EC) is a house and electro artist based in Ecuador, tracked on soundcheck
 
 Retronika, Jacob (UK), San Dee
 
-*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/blame-ec/)*
+*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/blame-ec/)*

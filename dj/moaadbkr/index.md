@@ -1,8 +1,8 @@
 # Moaad BKR
 
-Moaad BKR is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 9 Sept 2026, next at TBA - Secret Location (Madrid), Madrid on Sat, 12 Sept 2026.
+Moaad BKR is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Thu, 10 Sept 2026, next at TBA - Secret Location (Madrid), Madrid on Sat, 12 Sept 2026.
 
-Moaad BKR is a house and techno artist tracked on soundcheck, with 64 sets logged across Barcelona, Berlin, Boston and Leeds and 10 more. Often billed alongside CPR Annie, Metizo and Daura. Next up: TBA - Secret Location (Madrid), Madrid on Sat 12 Sept.
+Moaad BKR is a house and techno artist tracked on soundcheck, with 65 sets logged across Barcelona, Berlin, Boston and Leeds and 10 more. Often billed alongside CPR Annie, Metizo and Daura. Next up: TBA - Secret Location (Madrid), Madrid on Sat 12 Sept.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Moaad BKR is a house and techno artist tracked on soundcheck, with 64 sets logge
 | --- | --- | --- |
 | Sat, 12 Sept 2026 | TBA - Secret Location (Madrid) | Madrid |
 | Fri, 18 Sept 2026 | Starlane Pizza Bar | London |
+| Fri, 25 Sept 2026 | feedbk | New York City |
 
 ## Recently played
 
@@ -26,4 +27,4 @@ Moaad BKR is a house and techno artist tracked on soundcheck, with 64 sets logge
 
 CPR Annie, Metizo, Daura
 
-*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/moaadbkr/)*
+*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/moaadbkr/)*

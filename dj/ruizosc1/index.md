@@ -1,14 +1,14 @@
 # RUIZ OSC1
 
-RUIZ OSC1 is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Wed, 9 Sept 2026, next at TBA - Secret Warehouse, Paris on Sat, 12 Sept 2026.
+RUIZ OSC1 is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Thu, 10 Sept 2026, next at Le Kilowatt, Paris on Sat, 12 Sept 2026.
 
-RUIZ OSC1 is a techno and house artist tracked on soundcheck, with 141 sets logged across Amsterdam, Athens, Barcelona and Belgrade and 39 more. Often billed alongside Carmen Electro, Tarkno and slin. Next up: TBA - Secret Warehouse, Paris on Sat 12 Sept.
+RUIZ OSC1 is a techno and house artist tracked on soundcheck, with 141 sets logged across Amsterdam, Athens, Barcelona and Belgrade and 39 more. Often billed alongside Carmen Electro, Tarkno and slin. Next up: Le Kilowatt, Paris on Sat 12 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 12 Sept 2026 | TBA - Secret Warehouse | Paris |
+| Sat, 12 Sept 2026 | Le Kilowatt | Paris |
 | Fri, 18 Sept 2026 | OIL Club | Shenzhen |
 | Sat, 19 Sept 2026 | UNDERCITY | Seoul |
 
@@ -27,4 +27,4 @@ RUIZ OSC1 is a techno and house artist tracked on soundcheck, with 141 sets logg
 
 Carmen Electro, Tarkno, slin
 
-*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ruizosc1/)*
+*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ruizosc1/)*

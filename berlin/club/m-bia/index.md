@@ -1,6 +1,6 @@
 # M-BIA
 
-M-BIA is a music venue in Berlin with 15 upcoming nights listed on soundcheck as of Wed, 9 Sept 2026; the next is "Bleib deinen Linientreu vs. Mega 90er Rave" on Fri, 11 Sept 2026.
+M-BIA is a music venue in Berlin with 15 upcoming nights listed on soundcheck as of Thu, 10 Sept 2026; the next is "Bleib deinen Linientreu vs. Mega 90er Rave" on Fri, 11 Sept 2026.
 
 M-BIA is a music venue in Berlin listed on soundcheck. 15 upcoming nights, with line-ups including Deadly Guns, DJ Jordan, Holy Priest and K3VKO and 2 more. Browse upcoming dates, start times and who's playing. Dircksenstr. 123, 10178 Berlin.
 
@@ -23,4 +23,4 @@ M-BIA is a music venue in Berlin listed on soundcheck. 15 upcoming nights, with 
 
 Dircksenstr. 123, 10178 Berlin, Berlin
 
-*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/m-bia/)*
+*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/m-bia/)*

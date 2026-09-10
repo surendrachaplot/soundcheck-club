@@ -1,6 +1,6 @@
 # MAD Milano
 
-MAD Milano is a music venue in Milan with 1 upcoming night listed on soundcheck as of Wed, 9 Sept 2026; the next is "RAW//AFTR" on Sat, 26 Sept 2026.
+MAD Milano is a music venue in Milan with 1 upcoming night listed on soundcheck as of Thu, 10 Sept 2026; the next is "RAW//AFTR" on Sat, 26 Sept 2026.
 
 MAD Milano is a music venue in Milan listed on soundcheck. 1 upcoming night, with line-ups including Münich, RIBLX and Simone Zino. Browse upcoming dates, start times and who's playing. C.so Lodi, 100, 20139 Milano MI, Italy.
 
@@ -14,4 +14,4 @@ MAD Milano is a music venue in Milan listed on soundcheck. 1 upcoming night, wit
 
 C.so Lodi, 100, 20139 Milano MI, Italy, Milan
 
-*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/milan/club/mad-milano/)*
+*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/milan/club/mad-milano/)*

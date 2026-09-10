@@ -1,6 +1,6 @@
 # Monile
 
-Monile is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Wed, 9 Sept 2026, next at Green Room NYC, New York City on Fri, 11 Sept 2026.
+Monile is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Thu, 10 Sept 2026, next at Green Room NYC, New York City on Fri, 11 Sept 2026.
 
 Monile is a house and techno artist based in Morocco, tracked on soundcheck, with 114 sets logged across Amsterdam, Barcelona, Berlin and Boston and 21 more. Often billed alongside Jonny Rock, Lamache and Miroloja. Next up: Green Room NYC, Newyorkcity on Fri 11 Sept.
 
@@ -28,4 +28,4 @@ Monile is a house and techno artist based in Morocco, tracked on soundcheck, wit
 
 Jonny Rock, Lamache, Miroloja
 
-*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/monile/)*
+*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/monile/)*

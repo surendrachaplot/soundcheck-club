@@ -1,14 +1,15 @@
 # ANN-LUX
 
-ANN-LUX is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Wed, 9 Sept 2026, next at Gateway Gardens Ocean Club, Frankfurt on Fri, 11 Sept 2026.
+ANN-LUX is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Thu, 10 Sept 2026, next at Gateway Gardens Ocean Club, Frankfurt on Fri, 11 Sept 2026.
 
-ANN-LUX is a techno and trance artist based in Germany, tracked on soundcheck, with 10 sets logged across Frankfurt and Stuttgart. Often billed alongside The Belgian Stallion, DeGuzman and Kacy. Next up: Gateway Gardens Ocean Club, Frankfurt on Fri 11 Sept.
+ANN-LUX is a techno and trance artist based in Germany, tracked on soundcheck, with 11 sets logged across Frankfurt and Stuttgart. Often billed alongside The Belgian Stallion, Kacy and DeGuzman. Next up: Gateway Gardens Ocean Club, Frankfurt on Fri 11 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 11 Sept 2026 | Gateway Gardens Ocean Club | Frankfurt |
+| Sat, 17 Oct 2026 | Schlachthof Wiesbaden | Frankfurt |
 
 ## Recently played
 
@@ -23,6 +24,6 @@ ANN-LUX is a techno and trance artist based in Germany, tracked on soundcheck, w
 
 ## Shares bills with
 
-The Belgian Stallion, DeGuzman, Kacy
+The Belgian Stallion, Kacy, DeGuzman
 
-*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ann-lux/)*
+*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ann-lux/)*

@@ -1,8 +1,8 @@
 # TRAUM
 
-TRAUM is a music venue in Antwerp with 11 upcoming nights listed on soundcheck as of Wed, 9 Sept 2026; the next is "Season Opening: Marco Bailey, CJ Bolland, Phemia" on Sat, 19 Sept 2026.
+TRAUM is a music venue in Antwerp with 12 upcoming nights listed on soundcheck as of Thu, 10 Sept 2026; the next is "Season Opening: Marco Bailey, CJ Bolland, Phemia" on Sat, 19 Sept 2026.
 
-TRAUM is a music venue in Antwerp listed on soundcheck. 11 upcoming nights, with line-ups including Arter, Bevan, bullet tooth and Cameo Blush and 2 more. Browse upcoming dates, start times and who's playing.
+TRAUM is a music venue in Antwerp listed on soundcheck. 12 upcoming nights, with line-ups including Arter, Bevan, bullet tooth and Cameo Blush and 2 more. Browse upcoming dates, start times and who's playing.
 
 ## What's on
 
@@ -19,4 +19,4 @@ TRAUM is a music venue in Antwerp listed on soundcheck. 11 upcoming nights, with
 | Sat, 17 Oct 2026 | ENFNTS TERRIBLES Issue 03 - Fais Le Beau, Kasra V, NIKS b2b Nizar Sarakbi, su:zy b2b ttyfal | Fais Le Beau, Kasra V, NIKS, Nizar Sarakbi, su:zy, ttyfal |
 | Fri, 23 Oct 2026 | Traum Nacht: Paranoid London, BoenkBoenk, DIC3, Ako | Paranoid London |
 
-*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/antwerp/club/traum/)*
+*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/antwerp/club/traum/)*

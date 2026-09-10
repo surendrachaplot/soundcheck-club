@@ -1,6 +1,6 @@
 # JAWAR (3)
 
-JAWAR (3) is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Wed, 9 Sept 2026, next at Dead Letter No. 9, New York City on Fri, 2 Oct 2026.
+JAWAR (3) is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Thu, 10 Sept 2026, next at Dead Letter No. 9, New York City on Fri, 2 Oct 2026.
 
 JAWAR (3) is a house and deep house artist tracked on soundcheck, with 29 sets logged across Mexicocity, Miami and Newyorkcity. Often billed alongside papa jazz, Barreto and Irena Stanisic. Next up: Dead Letter No. 9, Newyorkcity on Fri 2 Oct.
 
@@ -25,4 +25,4 @@ JAWAR (3) is a house and deep house artist tracked on soundcheck, with 29 sets l
 
 papa jazz, Barreto, Irena Stanisic
 
-*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jawar-3/)*
+*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jawar-3/)*

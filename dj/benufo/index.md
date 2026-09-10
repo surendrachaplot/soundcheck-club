@@ -1,6 +1,6 @@
 # Ben UFO
 
-Ben UFO is a Techno and House artist with 15 upcoming club dates listed on soundcheck as of Wed, 9 Sept 2026, next at TBA, Toronto on Fri, 11 Sept 2026.
+Ben UFO is a Techno and House artist with 15 upcoming club dates listed on soundcheck as of Thu, 10 Sept 2026, next at TBA, Toronto on Fri, 11 Sept 2026.
 
 Ben UFO is a techno and house artist tracked on soundcheck, with 234 sets logged across Amsterdam, Athens, Auckland and Austin and 58 more. Often billed alongside Helena Hauff, Ogazón and Pangaea. Next up: TBA, Toronto on Fri 11 Sept.
 
@@ -19,7 +19,7 @@ Ben UFO is a techno and house artist tracked on soundcheck, with 234 sets logged
 | Sun, 4 Oct 2026 | Cockatoo Island | Sydney |
 | Fri, 9 Oct 2026 | TBA - Downtown Los Angeles | Los Angeles |
 | Fri, 16 Oct 2026 | Berghain / Panorama Bar / Säule | Berlin |
-| Sat, 24 Oct 2026 | The Roundhouse | London |
+| Fri, 23 Oct 2026 | The Roundhouse | London |
 
 ## Recently played
 
@@ -36,4 +36,4 @@ Ben UFO is a techno and house artist tracked on soundcheck, with 234 sets logged
 
 Helena Hauff, Ogazón, Pangaea
 
-*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/benufo/)*
+*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/benufo/)*

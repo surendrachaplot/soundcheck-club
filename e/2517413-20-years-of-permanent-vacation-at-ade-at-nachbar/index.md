@@ -1,6 +1,6 @@
 # 20 Years of Permanent Vacation at ADE at nachbar
 
-20 Years of Permanent Vacation at ADE at nachbar on Sun 25 Oct, Amsterdam. Acid and Balearic. Preview the line-up and save it on soundcheck.
+20 Years of Permanent Vacation at ADE at nachbar on Sun 25 Oct, Amsterdam. House and Acid. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

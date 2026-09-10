@@ -1,6 +1,6 @@
 # DJ Plead
 
-DJ Plead is a Techno and Bass artist with 10 upcoming club dates listed on soundcheck as of Wed, 9 Sept 2026, next at Karmen Camina, Strasbourg on Fri, 11 Sept 2026.
+DJ Plead is a Techno and Bass artist with 10 upcoming club dates listed on soundcheck as of Thu, 10 Sept 2026, next at Karmen Camina, Strasbourg on Fri, 11 Sept 2026.
 
 DJ Plead is a techno and bass artist tracked on soundcheck, with 130 sets logged across Amsterdam, Barcelona, Basel and Berlin and 33 more. Often billed alongside rRoxymore, Azu Tiwaline and livwutang. Next up: Karmen Camina, Strasbourg on Fri 11 Sept.
 
@@ -11,7 +11,7 @@ DJ Plead is a techno and bass artist tracked on soundcheck, with 130 sets logged
 | Fri, 11 Sept 2026 | Karmen Camina | Strasbourg |
 | Sat, 12 Sept 2026 | EXIT Glasgow | Glasgow |
 | Fri, 18 Sept 2026 | OHM | Berlin |
-| Sat, 26 Sept 2026 | Bermondsey Triangle | London |
+| Sat, 26 Sept 2026 | M.O.T | London |
 | Thu, 1 Oct 2026 | Good Room | New York City |
 | Sat, 3 Oct 2026 | TBA | Mexico City |
 | Thu, 8 Oct 2026 | Hotel Forum | Krakow |
@@ -34,4 +34,4 @@ DJ Plead is a techno and bass artist tracked on soundcheck, with 130 sets logged
 
 rRoxymore, Azu Tiwaline, livwutang
 
-*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djplead/)*
+*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djplead/)*

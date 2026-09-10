@@ -1,17 +1,18 @@
 # 不眠遊戯ライオン - Music Bar Lion
 
-不眠遊戯ライオン - Music Bar Lion is a music venue in Tokyo with 1 upcoming night listed on soundcheck as of Wed, 9 Sept 2026; the next is "BASHMENT TOKYO / バッシュメント トーキョー" on Sat, 10 Oct 2026.
+不眠遊戯ライオン - Music Bar Lion is a music venue in Tokyo with 2 upcoming nights listed on soundcheck as of Thu, 10 Sept 2026; the next is "K POP HOURS" on Sat, 12 Sept 2026.
 
-不眠遊戯ライオン - Music Bar Lion is a music venue in Tokyo listed on soundcheck. 1 upcoming night. Browse upcoming dates, start times and who's playing. GEMSJingu-mae7F, 6-19-17Jingu-mae, Shibuya-ku, Tokyo.
+不眠遊戯ライオン - Music Bar Lion is a music venue in Tokyo listed on soundcheck. 2 upcoming nights. Browse upcoming dates, start times and who's playing. GEMSJingu-mae7F, 6-19-17Jingu-mae, Shibuya-ku, Tokyo.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
+| Sat, 12 Sept 2026 | K POP HOURS |  |
 | Sat, 10 Oct 2026 | BASHMENT TOKYO / バッシュメント トーキョー |  |
 
 ## Address
 
 GEMSJingu-mae7F, 6-19-17Jingu-mae, Shibuya-ku, Tokyo, Tokyo
 
-*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/music-bar-lion/)*
+*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/music-bar-lion/)*

@@ -1,6 +1,6 @@
 # Mohji
 
-Mohji is a Techno and Bass artist with 2 upcoming club dates listed on soundcheck as of Wed, 9 Sept 2026, next at Jasna 1, Warsaw on Sat, 12 Sept 2026.
+Mohji is a Techno and Bass artist with 2 upcoming club dates listed on soundcheck as of Thu, 10 Sept 2026, next at Jasna 1, Warsaw on Sat, 12 Sept 2026.
 
 Mohji is a techno and bass artist based in Poland, tracked on soundcheck, with 20 sets logged across Warsaw. Often billed alongside Yaris, Zero_null and Doga. Next up: Jasna 1, Warsaw on Sat 12 Sept.
 
@@ -26,4 +26,4 @@ Mohji is a techno and bass artist based in Poland, tracked on soundcheck, with 2
 
 Yaris, Zero_null, Doga
 
-*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mohji/)*
+*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mohji/)*

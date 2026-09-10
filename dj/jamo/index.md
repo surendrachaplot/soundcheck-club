@@ -1,6 +1,6 @@
 # JÄMO
 
-JÄMO is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 9 Sept 2026, next at Ritter Butzke, Berlin on Fri, 11 Sept 2026.
+JÄMO is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 10 Sept 2026, next at Ritter Butzke, Berlin on Fri, 11 Sept 2026.
 
 JÄMO is a house and techno artist tracked on soundcheck, with 33 sets logged across Amsterdam, Barcelona, Berlin and Hamburg and 7 more. Often billed alongside Kumi, Caleb Jay and 3LOAR. Next up: Ritter Butzke, Berlin on Fri 11 Sept.
 
@@ -25,4 +25,4 @@ JÄMO is a house and techno artist tracked on soundcheck, with 33 sets logged ac
 
 Kumi, Caleb Jay, 3LOAR
 
-*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jamo/)*
+*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jamo/)*

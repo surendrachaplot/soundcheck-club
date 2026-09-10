@@ -1,14 +1,15 @@
 # Spiñorita
 
-Spiñorita is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Wed, 9 Sept 2026, next at Elysian Park, Los Angeles on Sun, 13 Sept 2026.
+Spiñorita is a House and Disco artist with 3 upcoming club dates listed on soundcheck as of Thu, 10 Sept 2026, next at Elysian Park, Los Angeles on Sun, 13 Sept 2026.
 
-Spiñorita is a house and disco artist based in United States of America, tracked on soundcheck, with 56 sets logged across Chicago, Detroit, Losangeles and Mexicocity and 3 more. Often billed alongside BAE BAE, Daddy Kev and Big Happy. Next up: Elysian Park, Losangeles on Sun 13 Sept.
+Spiñorita is a house and disco artist based in United States of America, tracked on soundcheck, with 57 sets logged across Chicago, Detroit, Losangeles and Mexicocity and 3 more. Often billed alongside BAE BAE, Daddy Kev and SEEPS. Next up: Elysian Park, Losangeles on Sun 13 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sun, 13 Sept 2026 | Elysian Park | Los Angeles |
+| Fri, 25 Sept 2026 | The Airliner | Los Angeles |
 | Fri, 23 Oct 2026 | Underground SF | San Francisco/Oakland |
 
 ## Recently played
@@ -24,6 +25,6 @@ Spiñorita is a house and disco artist based in United States of America, tracke
 
 ## Shares bills with
 
-BAE BAE, Daddy Kev, Big Happy
+BAE BAE, Daddy Kev, SEEPS
 
-*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/spinorita/)*
+*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/spinorita/)*

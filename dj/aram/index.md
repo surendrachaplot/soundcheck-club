@@ -1,6 +1,6 @@
 # Aram
 
-Aram is a Deep House and Trance artist with 1 upcoming club date listed on soundcheck as of Wed, 9 Sept 2026, next at The Bernard Shaw, Dublin on Sat, 19 Sept 2026.
+Aram is a Deep House and Trance artist with 1 upcoming club date listed on soundcheck as of Thu, 10 Sept 2026, next at The Bernard Shaw, Dublin on Sat, 19 Sept 2026.
 
 Aram is a deep house and trance artist tracked on soundcheck, with 18 sets logged across Dublin, Mexicocity, Montreal and Seoul and 2 more. Often billed alongside Guthrie, Soos and THe LYONZ. Next up: The Bernard Shaw, Dublin on Sat 19 Sept.
 
@@ -25,4 +25,4 @@ Aram is a deep house and trance artist tracked on soundcheck, with 18 sets logge
 
 Guthrie, Soos, THe LYONZ
 
-*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/aram/)*
+*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/aram/)*

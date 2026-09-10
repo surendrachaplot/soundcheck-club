@@ -1,6 +1,6 @@
 # formula303
 
-formula303 is a Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 9 Sept 2026, next at Baalsaal, Hamburg on Fri, 25 Sept 2026.
+formula303 is a Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 10 Sept 2026, next at Baalsaal, Hamburg on Fri, 25 Sept 2026.
 
 formula303 is a techno artist based in Germany, tracked on soundcheck, with 19 sets logged across Berlin and Hamburg. Often billed alongside DJ Hellfire, Jesse (DE) and rodmor. Next up: Baalsaal, Hamburg on Fri 25 Sept.
 
@@ -25,4 +25,4 @@ formula303 is a techno artist based in Germany, tracked on soundcheck, with 19 s
 
 DJ Hellfire, Jesse (DE), rodmor
 
-*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/formula303/)*
+*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/formula303/)*

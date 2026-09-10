@@ -1,6 +1,6 @@
 # Ophidian
 
-Ophidian is a Hardcore and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 9 Sept 2026, next at Space Nightclub, Sydney on Wed, 11 Nov 2026.
+Ophidian is a Hardcore and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 10 Sept 2026, next at Space Nightclub, Sydney on Wed, 11 Nov 2026.
 
 Ophidian is a hardcore and techno artist based in Netherlands, tracked on soundcheck, with 27 sets logged across Amsterdam, Antwerp, Barcelona and Berlin and 10 more. Often billed alongside Drokz, Anime and Korsakoff. Next up: Space Nightclub, Sydney on Wed 11 Nov.
 
@@ -25,4 +25,4 @@ Ophidian is a hardcore and techno artist based in Netherlands, tracked on soundc
 
 Drokz, Anime, Korsakoff
 
-*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ophidian/)*
+*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ophidian/)*

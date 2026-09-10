@@ -1,16 +1,18 @@
 # DJ Rino
 
-DJ Rino is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Wed, 9 Sept 2026, next at Myra Ostraria, Lisbon on Sat, 3 Oct 2026.
+DJ Rino is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Thu, 10 Sept 2026, next at Myra Ostraria, Lisbon on Sat, 3 Oct 2026.
 
-DJ Rino is a techno and house artist tracked on soundcheck, with 99 sets logged across Amsterdam, Antwerp, Barcelona and Berlin and 18 more. Often billed alongside Walrus, Dana Kuehr and Kuba'97. Next up: Myra Ostraria, Lisbon on Sat 3 Oct.
+DJ Rino is a techno and house artist tracked on soundcheck, with 101 sets logged across Amsterdam, Antwerp, Barcelona and Berlin and 18 more. Often billed alongside Walrus, Dana Kuehr and Kuba'97. Next up: Myra Ostraria, Lisbon on Sat 3 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 3 Oct 2026 | Myra Ostraria | Lisbon |
+| Sat, 17 Oct 2026 | TBA - 75013 | Paris |
 | Fri, 23 Oct 2026 | Pllek | Amsterdam |
 | Sun, 25 Oct 2026 | Garage Noord | Amsterdam |
+| Sat, 21 Nov 2026 | TBA - Brussels | Brussels |
 
 ## Recently played
 
@@ -27,4 +29,4 @@ DJ Rino is a techno and house artist tracked on soundcheck, with 99 sets logged 
 
 Walrus, Dana Kuehr, Kuba'97
 
-*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djrino/)*
+*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djrino/)*

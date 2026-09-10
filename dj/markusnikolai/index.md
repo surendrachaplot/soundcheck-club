@@ -1,6 +1,6 @@
 # Markus Nikolai
 
-Markus Nikolai is a House and Minimal Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 9 Sept 2026, next at Tokonoma Club, Frankfurt on Sat, 12 Sept 2026.
+Markus Nikolai is a House and Minimal Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 10 Sept 2026, next at Tokonoma Club, Frankfurt on Sat, 12 Sept 2026.
 
 Markus Nikolai is a house and minimal techno artist based in Germany, tracked on soundcheck, with 11 sets logged across Barcelona, Basel, Berlin and Frankfurt and 5 more. Often billed alongside Caruan, Sammy Dee and Maxime dB. Next up: Tokonoma Club, Frankfurt on Sat 12 Sept.
 
@@ -25,4 +25,4 @@ Markus Nikolai is a house and minimal techno artist based in Germany, tracked on
 
 Caruan, Sammy Dee, Maxime dB
 
-*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/markusnikolai/)*
+*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/markusnikolai/)*

@@ -1,8 +1,8 @@
 # Ryoichi Kurokawa
 
-Ryoichi Kurokawa is a Experimental and Electronica artist with 2 upcoming club dates listed on soundcheck as of Wed, 9 Sept 2026, next at TivoliVredenburg, Utrecht on Thu, 5 Nov 2026.
+Ryoichi Kurokawa is a Experimental and Electronica artist with 3 upcoming club dates listed on soundcheck as of Thu, 10 Sept 2026, next at TivoliVredenburg, Utrecht on Thu, 5 Nov 2026.
 
-Ryoichi Kurokawa is an experimental and electronica artist tracked on soundcheck, with 7 sets logged across Barcelona, Mexicocity, Seoul and Tbilisi and 1 more. Often billed alongside Ali M. Demirel, Kazuya Nagaya and Maurice Jones. Next up: TivoliVredenburg, Utrecht on Thu 5 Nov.
+Ryoichi Kurokawa is an experimental and electronica artist tracked on soundcheck, with 8 sets logged across Barcelona, Mexicocity, Seoul and Tbilisi and 2 more. Often billed alongside Ali M. Demirel, Daito Manabe and Grand River. Next up: TivoliVredenburg, Utrecht on Thu 5 Nov.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Ryoichi Kurokawa is an experimental and electronica artist tracked on soundcheck
 | --- | --- | --- |
 | Thu, 5 Nov 2026 | TivoliVredenburg | Utrecht |
 | Fri, 6 Nov 2026 | Fira Barcelona | Barcelona |
+| Fri, 20 Nov 2026 | MoN Takanawa: The Museum of Narratives | Tokyo |
 
 ## Recently played
 
@@ -21,6 +22,6 @@ Ryoichi Kurokawa is an experimental and electronica artist tracked on soundcheck
 
 ## Shares bills with
 
-Ali M. Demirel, Kazuya Nagaya, Maurice Jones
+Ali M. Demirel, Daito Manabe, Grand River
 
-*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ryoichikurokawa/)*
+*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ryoichikurokawa/)*

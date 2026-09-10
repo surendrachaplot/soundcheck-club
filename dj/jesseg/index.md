@@ -1,8 +1,8 @@
 # Jesse G
 
-Jesse G is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Wed, 9 Sept 2026, next at TBA, Toronto on Fri, 11 Sept 2026.
+Jesse G is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Thu, 10 Sept 2026, next at TBA, Toronto on Fri, 11 Sept 2026.
 
-Jesse G is a techno and house artist tracked on soundcheck, with 102 sets logged across Amsterdam, Bangkok, Berlin and Brussels and 16 more. Often billed alongside Blasha & Allatt, Jasmín and Katy De Jesus. Next up: TBA, Toronto on Fri 11 Sept.
+Jesse G is a techno and house artist tracked on soundcheck, with 103 sets logged across Amsterdam, Bangkok, Berlin and Brussels and 16 more. Often billed alongside Blasha & Allatt, Jasmín and Katy De Jesus. Next up: TBA, Toronto on Fri 11 Sept.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Jesse G is a techno and house artist tracked on soundcheck, with 102 sets logged
 | --- | --- | --- |
 | Fri, 11 Sept 2026 | TBA | Toronto |
 | Fri, 2 Oct 2026 | Kater | Berlin |
+| Sat, 24 Oct 2026 | Radio Radio | Amsterdam |
 
 ## Recently played
 
@@ -26,4 +27,4 @@ Jesse G is a techno and house artist tracked on soundcheck, with 102 sets logged
 
 Blasha & Allatt, Jasmín, Katy De Jesus
 
-*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jesseg/)*
+*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jesseg/)*

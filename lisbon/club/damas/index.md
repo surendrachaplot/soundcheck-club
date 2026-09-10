@@ -1,6 +1,6 @@
 # Damas
 
-Damas is a music venue in Lisbon with 2 upcoming nights listed on soundcheck as of Wed, 9 Sept 2026; the next is "Amuleto Apotropaico + Karen Ng" on Thu, 10 Sept 2026.
+Damas is a music venue in Lisbon with 2 upcoming nights listed on soundcheck as of Thu, 10 Sept 2026; the next is "Amuleto Apotropaico + Karen Ng" on Thu, 10 Sept 2026.
 
 Damas is a music venue in Lisbon listed on soundcheck. 2 upcoming nights. Browse upcoming dates, start times and who's playing. Rua da Voz do Operário, 60 Lisbon, Portugal.
 
@@ -15,4 +15,4 @@ Damas is a music venue in Lisbon listed on soundcheck. 2 upcoming nights. Browse
 
 Rua da Voz do Operário, 60 Lisbon, Portugal, Lisbon
 
-*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/lisbon/club/damas/)*
+*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/lisbon/club/damas/)*

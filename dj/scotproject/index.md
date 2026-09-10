@@ -1,6 +1,6 @@
 # Scot Project
 
-Scot Project is a Trance and Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 9 Sept 2026, next at SWG3, Glasgow on Fri, 4 Dec 2026.
+Scot Project is a Trance and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 10 Sept 2026, next at SWG3, Glasgow on Fri, 4 Dec 2026.
 
 Scot Project is a trance and techno artist tracked on soundcheck, with 25 sets logged across Amsterdam, Berlin, Birmingham and Dublin and 10 more. Often billed alongside Giuseppe Ottaviani, Mauro Picotto and Aly & Fila. Next up: SWG3, Glasgow on Fri 4 Dec.
 
@@ -26,4 +26,4 @@ Scot Project is a trance and techno artist tracked on soundcheck, with 25 sets l
 
 Giuseppe Ottaviani, Mauro Picotto, Aly & Fila
 
-*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/scotproject/)*
+*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/scotproject/)*

@@ -1,13 +1,14 @@
 # IMEN
 
-IMEN is a House and Electro artist with 1 upcoming club date listed on soundcheck as of Wed, 9 Sept 2026, next at Madam, Amsterdam on Fri, 30 Oct 2026.
+IMEN is a House and Afro House artist with 2 upcoming club dates listed on soundcheck as of Thu, 10 Sept 2026, next at TBA - Istanbul ( KARAKOY,BEYOGLU / Yacht Party ), Istanbul on Sun, 20 Sept 2026.
 
-IMEN is a house and electro artist based in Iran, tracked on soundcheck, with 15 sets logged across Amsterdam, Bali, Cologne and Frankfurt and 3 more. Often billed alongside ATMEN, Affani and Audera. Next up: Madam, Amsterdam on Fri 30 Oct.
+IMEN is a house and afro house artist based in Iran, tracked on soundcheck, with 16 sets logged across Amsterdam, Bali, Cologne and Frankfurt and 3 more. Often billed alongside ATMEN, Affani and Audera. Next up: TBA - Istanbul ( KARAKOY,BEYOGLU / Yacht Party ), Istanbul on Sun 20 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sun, 20 Sept 2026 | TBA - Istanbul ( KARAKOY,BEYOGLU / Yacht Party ) | Istanbul |
 | Fri, 30 Oct 2026 | Madam | Amsterdam |
 
 ## Recently played
@@ -25,4 +26,4 @@ IMEN is a house and electro artist based in Iran, tracked on soundcheck, with 15
 
 ATMEN, Affani, Audera
 
-*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/imen/)*
+*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/imen/)*

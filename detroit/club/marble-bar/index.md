@@ -1,15 +1,17 @@
 # Marble Bar
 
-Marble Bar is a music venue in Detroit with 6 upcoming nights listed on soundcheck as of Wed, 9 Sept 2026; the next is "Dally in the Alley: Official Afters! (Tickets Here)" on Sat, 12 Sept 2026.
+Marble Bar is a music venue in Detroit with 8 upcoming nights listed on soundcheck as of Thu, 10 Sept 2026; the next is "Hot Dog Unit" on Thu, 10 Sept 2026.
 
-Marble Bar is a music venue in Detroit listed on soundcheck. 6 upcoming nights, with line-ups including CAM GIRL, Craze, DJ Candor and Father Dukes and 2 more. Browse upcoming dates, start times and who's playing. 1501 Holden St, Detroit, MI 48208, USA.
+Marble Bar is a music venue in Detroit listed on soundcheck. 8 upcoming nights, with line-ups including CAM GIRL, Craze, DJ Candor and Father Dukes and 2 more. Browse upcoming dates, start times and who's playing. 1501 Holden St, Detroit, MI 48208, USA.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
+| Thu, 10 Sept 2026 | Hot Dog Unit |  |
 | Sat, 12 Sept 2026 | Dally in the Alley: Official Afters! (Tickets Here) |  |
 | Fri, 18 Sept 2026 | thrg pres. CAM GIRL, Spray, Father Dukes, Candor, SYD, & Nico | CAM GIRL, DJ Candor, Father Dukes, Spray, Syd (2), nico dj |
+| Fri, 25 Sept 2026 | 12 Hour Party |  |
 | Sat, 3 Oct 2026 | Marble Bar 11 Year Anniversary |  |
 | Thu, 8 Oct 2026 | The Occasional Thursday Party with London Elektricity | London Elektricity, Pat Osiris, Roque Ybarra, XVEVESX |
 | Thu, 29 Oct 2026 | The Occasional Thursday Party with DJ Craze + Friends | Craze, Sinistarr, Sinister Dosage |
@@ -19,4 +21,4 @@ Marble Bar is a music venue in Detroit listed on soundcheck. 6 upcoming nights, 
 
 1501 Holden St, Detroit, MI 48208, USA, Detroit
 
-*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/detroit/club/marble-bar/)*
+*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/detroit/club/marble-bar/)*

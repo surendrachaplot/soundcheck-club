@@ -1,14 +1,15 @@
 # Cortez (2)
 
-Cortez (2) is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 9 Sept 2026, next at EXIL, Zurich on Fri, 18 Sept 2026.
+Cortez (2) is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 10 Sept 2026, next at EXIL, Zurich on Fri, 18 Sept 2026.
 
-Cortez (2) is a techno and house artist based in Switzerland, tracked on soundcheck, with 20 sets logged across Berlin and Zurich. Often billed alongside Galopp, Dekerim and Jacom (Adroit). Next up: EXIL, Zurich on Fri 18 Sept.
+Cortez (2) is a techno and house artist based in Switzerland, tracked on soundcheck, with 21 sets logged across Berlin and Zurich. Often billed alongside Galopp, Dekerim and Jacom (Adroit). Next up: EXIL, Zurich on Fri 18 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 18 Sept 2026 | EXIL | Zurich |
+| Sat, 19 Sept 2026 | MÄX | Zurich |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Cortez (2) is a techno and house artist based in Switzerland, tracked on soundch
 
 Galopp, Dekerim, Jacom (Adroit)
 
-*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/cortez-2/)*
+*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/cortez-2/)*

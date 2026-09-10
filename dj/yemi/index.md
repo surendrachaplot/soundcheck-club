@@ -1,6 +1,6 @@
 # Yemi
 
-Yemi is a Garage and House artist with 2 upcoming club dates listed on soundcheck as of Wed, 9 Sept 2026, next at La Gare / Le Gore, Paris on Thu, 17 Sept 2026.
+Yemi is a Garage and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 10 Sept 2026, next at La Gare / Le Gore, Paris on Thu, 17 Sept 2026.
 
 Yemi is a garage and house artist tracked on soundcheck, with 25 sets logged across Amsterdam, Berlin, Leeds and Manchester and 2 more. Often billed alongside maniac&me, DJ Randall and Elli.on. Next up: La Gare / Le Gore, Paris on Thu 17 Sept.
 
@@ -26,4 +26,4 @@ Yemi is a garage and house artist tracked on soundcheck, with 25 sets logged acr
 
 maniac&me, DJ Randall, Elli.on
 
-*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/yemi/)*
+*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/yemi/)*

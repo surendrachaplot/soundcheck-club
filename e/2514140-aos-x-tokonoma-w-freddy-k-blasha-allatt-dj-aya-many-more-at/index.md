@@ -1,6 +1,6 @@
 # AOS X TOKONOMA W/ Freddy K, Blasha & Allatt, DJ AYA & MANY MORE at Tokonoma Club
 
-AOS X TOKONOMA W/ Freddy K, Blasha & Allatt, DJ AYA & MANY MORE at Tokonoma Club on Fri 16 Oct, Frankfurt. 6 acts on the bill: Blasha & Allatt, DJ AYA, Freddy K and Janis Zielinski and 2 more. Techno and House. Preview the line-up and save it on soundcheck.
+AOS X TOKONOMA W/ Freddy K, Blasha & Allatt, DJ AYA & MANY MORE at Tokonoma Club on Fri 16 Oct, Frankfurt. 10 acts on the bill: Blasha & Allatt, Cosmic Cherry, DJ AYA and EliaHaze and 6 more. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,10 +11,14 @@ AOS X TOKONOMA W/ Freddy K, Blasha & Allatt, DJ AYA & MANY MORE at Tokonoma Club
 ## Line-up
 
 - Blasha & Allatt
+- Cosmic Cherry
 - DJ AYA
+- EliaHaze
 - Freddy K
+- guuc20459
 - Janis Zielinski
 - Speckman
 - Talia Dorr
+- ZSZS
 
 *Source: [soundcheck](https://soundcheck.club/e/2514140-aos-x-tokonoma-w-freddy-k-blasha-allatt-dj-aya-many-more-at/)*

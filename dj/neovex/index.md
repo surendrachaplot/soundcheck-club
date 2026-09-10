@@ -1,6 +1,6 @@
 # Neovex
 
-Neovex is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Wed, 9 Sept 2026, next at DNA Club, Munich on Sat, 26 Sept 2026.
+Neovex is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Thu, 10 Sept 2026, next at DNA Club, Munich on Sat, 26 Sept 2026.
 
 Neovex is a techno and industrial artist tracked on soundcheck, with 32 sets logged across Berlin, Munich and Vienna. Often billed alongside David Strasser, Palliativ and MXST. Next up: DNA Club, Munich on Sat 26 Sept.
 
@@ -25,4 +25,4 @@ Neovex is a techno and industrial artist tracked on soundcheck, with 32 sets log
 
 David Strasser, Palliativ, MXST
 
-*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/neovex/)*
+*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/neovex/)*

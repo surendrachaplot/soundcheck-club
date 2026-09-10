@@ -1,14 +1,13 @@
 # Planet Wax
 
-Planet Wax is a music venue in London with 31 upcoming nights listed on soundcheck as of Wed, 9 Sept 2026; the next is "OPEN DECKS" on Wed, 9 Sept 2026.
+Planet Wax is a music venue in London with 30 upcoming nights listed on soundcheck as of Thu, 10 Sept 2026; the next is "GABRIEL DEDJI & LIZMNK // What I'm After Remix EP release party" on Thu, 10 Sept 2026.
 
-Planet Wax is a music venue in London listed on soundcheck. 31 upcoming nights, with line-ups including Andy Foundations, andz, Ani Klang and ARKNGL and 2 more. Browse upcoming dates, start times and who's playing. 318 NEW CROSS ROAD LONDON SE14 6AF.
+Planet Wax is a music venue in London listed on soundcheck. 30 upcoming nights, with line-ups including Andy Foundations, andz, Ani Klang and ARKNGL and 2 more. Browse upcoming dates, start times and who's playing. 318 NEW CROSS ROAD LONDON SE14 6AF.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Wed, 9 Sept 2026 | OPEN DECKS |  |
 | Thu, 10 Sept 2026 | GABRIEL DEDJI & LIZMNK // What I'm After Remix EP release party | ARKNGL, Muddyoush, VXRGO |
 | Fri, 11 Sept 2026 | Das Booty: THE SHOWCASE | Ani Klang, Rhi Spect, Rory K, Shadesy, Tom Place |
 | Fri, 11 Sept 2026 | HAPPY HOUR | Controlled Weirdness, Dexta, Uncle G |
@@ -18,9 +17,10 @@ Planet Wax is a music venue in London listed on soundcheck. 31 upcoming nights, 
 | Sun, 13 Sept 2026 | SUNDAY SERVICE | Troppo Daffy, Uncle G, Yasmine (UK) |
 | Wed, 16 Sept 2026 | OPEN DECKS |  |
 | Thu, 17 Sept 2026 | LIQUID ROOTS x INTERSTELLA AUDIO | Cellar (2), K2T (1), Slencho, Telomic |
+| Fri, 18 Sept 2026 | TONE DROPOUT x WNCL | LMajor, West Norwood Cassette Library |
 
 ## Address
 
 318 NEW CROSS ROAD LONDON SE14 6AF, London
 
-*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/planet-wax/)*
+*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/planet-wax/)*

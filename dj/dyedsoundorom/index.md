@@ -1,6 +1,6 @@
 # Dyed Soundorom
 
-Dyed Soundorom is a House and Tech House artist with 9 upcoming club dates listed on soundcheck as of Wed, 9 Sept 2026, next at The Loft, Manchester on Fri, 11 Sept 2026.
+Dyed Soundorom is a House and Tech House artist with 9 upcoming club dates listed on soundcheck as of Thu, 10 Sept 2026, next at The Loft, Manchester on Fri, 11 Sept 2026.
 
 Dyed Soundorom is a house and tech house artist tracked on soundcheck, with 223 sets logged across Amsterdam, Antwerp, Athens and Auckland and 53 more. Often billed alongside Shonky, Apollonia and Gene On Earth. Next up: The Loft, Manchester on Fri 11 Sept.
 
@@ -33,4 +33,4 @@ Dyed Soundorom is a house and tech house artist tracked on soundcheck, with 223 
 
 Shonky, Apollonia, Gene On Earth
 
-*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dyedsoundorom/)*
+*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dyedsoundorom/)*

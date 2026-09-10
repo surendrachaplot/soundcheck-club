@@ -1,6 +1,6 @@
 # Frankie Flowerz
 
-Frankie Flowerz is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Wed, 9 Sept 2026, next at Zur Insel, Frankfurt on Sat, 12 Sept 2026.
+Frankie Flowerz is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Thu, 10 Sept 2026, next at Zur Insel, Frankfurt on Sat, 12 Sept 2026.
 
 Frankie Flowerz is a techno and house artist tracked on soundcheck, with 205 sets logged across Barcelona, Berlin, Frankfurt and Madrid and 2 more. Often billed alongside Diego Montiel, Norman Weber and Diana May. Next up: Zur Insel, Frankfurt on Sat 12 Sept.
 
@@ -29,4 +29,4 @@ Frankie Flowerz is a techno and house artist tracked on soundcheck, with 205 set
 
 Diego Montiel, Norman Weber, Diana May
 
-*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/frankieflowerz/)*
+*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/frankieflowerz/)*

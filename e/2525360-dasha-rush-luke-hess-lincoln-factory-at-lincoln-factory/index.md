@@ -1,6 +1,6 @@
 # Dasha Rush - Luke Hess - Lincoln Factory at Lincoln Factory
 
-Dasha Rush - Luke Hess - Lincoln Factory on Sat 14 Nov, Detroit. 2 acts on the bill: Dasha Rush and Luke Hess. Techno and Dub Techno. Preview the line-up and save it on soundcheck.
+Dasha Rush - Luke Hess - Lincoln Factory on Sat 14 Nov, Detroit. 3 acts on the bill: Dasha Rush, Luke Hess and Project 313. Techno and Dub Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -12,5 +12,6 @@ Dasha Rush - Luke Hess - Lincoln Factory on Sat 14 Nov, Detroit. 2 acts on the b
 
 - Dasha Rush
 - Luke Hess
+- Project 313
 
 *Source: [soundcheck](https://soundcheck.club/e/2525360-dasha-rush-luke-hess-lincoln-factory-at-lincoln-factory/)*

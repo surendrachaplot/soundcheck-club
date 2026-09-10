@@ -1,6 +1,6 @@
 # CeeJay
 
-CeeJay is a Techno and Hardcore artist with 1 upcoming club date listed on soundcheck as of Wed, 9 Sept 2026, next at Club Vaag, Antwerp on Sat, 26 Sept 2026.
+CeeJay is a Techno and Hardcore artist with 1 upcoming club date listed on soundcheck as of Thu, 10 Sept 2026, next at Club Vaag, Antwerp on Sat, 26 Sept 2026.
 
 CeeJay is a techno and hardcore artist based in United Kingdom, tracked on soundcheck, with 23 sets logged across Antwerp, Budapest, Dublin and Lisbon and 8 more. Often billed alongside Detective Kelly, FUMI and Vieze Asbak. Next up: Club Vaag, Antwerp on Sat 26 Sept.
 
@@ -25,4 +25,4 @@ CeeJay is a techno and hardcore artist based in United Kingdom, tracked on sound
 
 Detective Kelly, FUMI, Vieze Asbak
 
-*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ceejay/)*
+*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ceejay/)*

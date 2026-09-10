@@ -1,8 +1,8 @@
 # kotakunisaki
 
-kotakunisaki is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Wed, 9 Sept 2026, next at Forestlimit, Tokyo on Sun, 20 Sept 2026.
+kotakunisaki is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Thu, 10 Sept 2026, next at Forestlimit, Tokyo on Sun, 20 Sept 2026.
 
-kotakunisaki is a techno and house artist based in Japan, tracked on soundcheck, with 43 sets logged across Kyoto, Osaka and Tokyo. Often billed alongside ast midori, Ryogo and ntank. Next up: Forestlimit, Tokyo on Sun 20 Sept.
+kotakunisaki is a techno and house artist based in Japan, tracked on soundcheck, with 44 sets logged across Kyoto, Osaka and Tokyo. Often billed alongside ast midori, Ryogo and ntank. Next up: Forestlimit, Tokyo on Sun 20 Sept.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ kotakunisaki is a techno and house artist based in Japan, tracked on soundcheck,
 | --- | --- | --- |
 | Sun, 20 Sept 2026 | Forestlimit | Tokyo |
 | Sun, 20 Sept 2026 | Forestlimit | Tokyo |
+| Sat, 3 Oct 2026 | West Harlem | Kyoto |
 
 ## Recently played
 
@@ -26,4 +27,4 @@ kotakunisaki is a techno and house artist based in Japan, tracked on soundcheck,
 
 ast midori, Ryogo, ntank
 
-*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kotakunisaki/)*
+*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kotakunisaki/)*

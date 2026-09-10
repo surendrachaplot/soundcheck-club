@@ -1,6 +1,6 @@
 # Keisuke Wada
 
-Keisuke Wada is a Club and House artist with 1 upcoming club date listed on soundcheck as of Wed, 9 Sept 2026, next at M.O.T, London on Sun, 13 Sept 2026.
+Keisuke Wada is a Club and House artist with 1 upcoming club date listed on soundcheck as of Thu, 10 Sept 2026, next at M.O.T, London on Sun, 13 Sept 2026.
 
 Keisuke Wada is a club and house artist based in United Kingdom, tracked on soundcheck, with 13 sets logged across London and Tokyo. Often billed alongside Rentaro, Sho Komatsu and Ozwick. Next up: M.O.T, London on Sun 13 Sept.
 
@@ -25,4 +25,4 @@ Keisuke Wada is a club and house artist based in United Kingdom, tracked on soun
 
 Rentaro, Sho Komatsu, Ozwick
 
-*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/keisukewada/)*
+*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/keisukewada/)*

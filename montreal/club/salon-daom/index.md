@@ -1,8 +1,8 @@
 # Salon Daomé
 
-Salon Daomé is a music venue in Montreal with 9 upcoming nights listed on soundcheck as of Wed, 9 Sept 2026; the next is "Salon D'Illusion - Epilogue" on Thu, 10 Sept 2026.
+Salon Daomé is a music venue in Montreal with 10 upcoming nights listed on soundcheck as of Thu, 10 Sept 2026; the next is "Salon D'Illusion - Epilogue" on Thu, 10 Sept 2026.
 
-Salon Daomé is a music venue in Montreal listed on soundcheck. 9 upcoming nights, with line-ups including Bryan Wolf Ear, Flytz, Jares and Jovonn and 2 more. Browse upcoming dates, start times and who's playing. 4465 St Laurent Blvd, Montreal, Quebec H2W 1Z8.
+Salon Daomé is a music venue in Montreal listed on soundcheck. 10 upcoming nights, with line-ups including Bryan Wolf Ear, Flytz, Jares and Jovonn and 2 more. Browse upcoming dates, start times and who's playing. 4465 St Laurent Blvd, Montreal, Quebec H2W 1Z8.
 
 ## What's on
 
@@ -17,9 +17,10 @@ Salon Daomé is a music venue in Montreal listed on soundcheck. 9 upcoming night
 | Thu, 24 Sept 2026 | Under Pulse |  |
 | Fri, 25 Sept 2026 | Jovonn, Queenie | Jovonn, Queenie |
 | Sat, 26 Sept 2026 | Jares, Just Sky | Jares |
+| Fri, 16 Oct 2026 | Stacy Kidd + Mandiz & Max Hebert | Mandiz, Max Hebert, Stacy Kidd |
 
 ## Address
 
 4465 St Laurent Blvd, Montreal, Quebec H2W 1Z8, Montreal
 
-*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/montreal/club/salon-daom/)*
+*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/montreal/club/salon-daom/)*

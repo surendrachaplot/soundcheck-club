@@ -1,6 +1,6 @@
 # KURIOS(JP)
 
-KURIOS(JP) is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Wed, 9 Sept 2026, next at The MED Terrace, Tokyo on Sun, 13 Sept 2026.
+KURIOS(JP) is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Thu, 10 Sept 2026, next at The MED Terrace, Tokyo on Sun, 13 Sept 2026.
 
 KURIOS(JP) is a house and tech house artist based in Japan, tracked on soundcheck, with 5 sets logged across Tokyo. Often billed alongside Keigo (JP), Onacity and AY (10). Next up: The MED Terrace, Tokyo on Sun 13 Sept.
 
@@ -21,4 +21,4 @@ KURIOS(JP) is a house and tech house artist based in Japan, tracked on soundchec
 
 Keigo (JP), Onacity, AY (10)
 
-*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kuriosjp/)*
+*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kuriosjp/)*

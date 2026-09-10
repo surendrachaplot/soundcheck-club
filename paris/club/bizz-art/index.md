@@ -1,6 +1,6 @@
 # Bizz'Art
 
-Bizz'Art is a music venue in Paris with 1 upcoming night listed on soundcheck as of Wed, 9 Sept 2026; the next is "Club Tropicalia : Urban Tropical vibes Party Latino, Afro, Caribbean, Brazil" on Fri, 11 Sept 2026.
+Bizz'Art is a music venue in Paris with 1 upcoming night listed on soundcheck as of Thu, 10 Sept 2026; the next is "Club Tropicalia : Urban Tropical vibes Party Latino, Afro, Caribbean, Brazil" on Fri, 11 Sept 2026.
 
 Bizz'Art is a music venue in Paris listed on soundcheck. 1 upcoming night. Browse upcoming dates, start times and who's playing. 167 Quai de Valmy; 75010; Paris; France.
 
@@ -14,4 +14,4 @@ Bizz'Art is a music venue in Paris listed on soundcheck. 1 upcoming night. Brows
 
 167 Quai de Valmy; 75010; Paris; France, Paris
 
-*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/paris/club/bizz-art/)*
+*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/paris/club/bizz-art/)*

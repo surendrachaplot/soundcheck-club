@@ -1,6 +1,6 @@
 # Charles D (US)
 
-Charles D (US) is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Wed, 9 Sept 2026, next at Halcyon, San Francisco/Oakland on Fri, 25 Sept 2026.
+Charles D (US) is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Thu, 10 Sept 2026, next at Halcyon, San Francisco/Oakland on Fri, 25 Sept 2026.
 
 Charles D (US) is a techno and tech house artist based in Italy, tracked on soundcheck, with 38 sets logged across Boston, Chicago, Denver and Detroit and 12 more. Often billed alongside Adam Beyer, Eli Brown and Chris Avantgarde. Next up: Halcyon, Sanfrancisco on Fri 25 Sept.
 
@@ -25,4 +25,4 @@ Charles D (US) is a techno and tech house artist based in Italy, tracked on soun
 
 Adam Beyer, Eli Brown, Chris Avantgarde
 
-*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/charlesd-us/)*
+*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/charlesd-us/)*

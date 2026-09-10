@@ -1,6 +1,6 @@
 # TBA - La Fayette
 
-TBA - La Fayette is a music venue in Mexico City with 1 upcoming night listed on soundcheck as of Wed, 9 Sept 2026; the next is "ANIVERSARIO GOYA TALLER X ZEZZIONS: Dj Mir, Belikosa, Dj Luigi, bby blue, sin nubes " on Sat, 26 Sept 2026.
+TBA - La Fayette is a music venue in Mexico City with 1 upcoming night listed on soundcheck as of Thu, 10 Sept 2026; the next is "ANIVERSARIO GOYA TALLER X ZEZZIONS: Dj Mir, Belikosa, Dj Luigi, bby blue, sin nubes " on Sat, 26 Sept 2026.
 
 TBA - La Fayette is a music venue in Mexicocity listed on soundcheck. 1 upcoming night, with line-ups including Dj Luigi. Browse upcoming dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ TBA - La Fayette is a music venue in Mexicocity listed on soundcheck. 1 upcoming
 | --- | --- | --- |
 | Sat, 26 Sept 2026 | ANIVERSARIO GOYA TALLER X ZEZZIONS: Dj Mir, Belikosa, Dj Luigi, bby blue, sin nubes  | Dj Luigi |
 
-*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/mexicocity/club/tba-la-fayette/)*
+*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/mexicocity/club/tba-la-fayette/)*

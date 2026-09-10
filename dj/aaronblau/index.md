@@ -1,6 +1,6 @@
 # Aaron Blau
 
-Aaron Blau is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 9 Sept 2026, next at KREUZWERK, Berlin on Sat, 12 Sept 2026.
+Aaron Blau is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 10 Sept 2026, next at KREUZWERK, Berlin on Sat, 12 Sept 2026.
 
 Aaron Blau is a house and techno artist based in Germany, tracked on soundcheck, with 56 sets logged across Berlin, Copenhagen, Leipzig and Milan and 2 more. Often billed alongside puppy, Kingsizebed and DJ AYA. Next up: KREUZWERK, Berlin on Sat 12 Sept.
 
@@ -25,4 +25,4 @@ Aaron Blau is a house and techno artist based in Germany, tracked on soundcheck,
 
 puppy, Kingsizebed, DJ AYA
 
-*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/aaronblau/)*
+*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/aaronblau/)*

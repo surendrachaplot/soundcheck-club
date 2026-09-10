@@ -1,6 +1,6 @@
 # ANXHELA
 
-ANXHELA is a Techno and Trance artist with 7 upcoming club dates listed on soundcheck as of Wed, 9 Sept 2026, next at Oxford Art Factory, Sydney on Sat, 19 Sept 2026.
+ANXHELA is a Techno and Trance artist with 7 upcoming club dates listed on soundcheck as of Thu, 10 Sept 2026, next at Oxford Art Factory, Sydney on Sat, 19 Sept 2026.
 
 ANXHELA is a techno and trance artist tracked on soundcheck, with 121 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 44 more. Often billed alongside KØZLØV, Alignment and DIØN. Next up: Oxford Art Factory, Sydney on Sat 19 Sept.
 
@@ -31,4 +31,4 @@ ANXHELA is a techno and trance artist tracked on soundcheck, with 121 sets logge
 
 KØZLØV, Alignment, DIØN
 
-*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/anxhela/)*
+*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/anxhela/)*

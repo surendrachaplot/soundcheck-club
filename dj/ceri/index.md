@@ -1,6 +1,6 @@
 # Ceri
 
-Ceri is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Wed, 9 Sept 2026, next at Chinois Ibiza, Ibiza on Thu, 10 Sept 2026.
+Ceri is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Thu, 10 Sept 2026, next at Chinois Ibiza, Ibiza on Thu, 10 Sept 2026.
 
 Ceri is a house and techno artist based in United Kingdom, tracked on soundcheck, with 44 sets logged across Amsterdam, Austin, Berlin and Bristol and 10 more. Often billed alongside Kerri Chandler, DJ Deep and Adiel. Next up: Chinois Ibiza, Ibiza on Thu 10 Sept.
 
@@ -28,4 +28,4 @@ Ceri is a house and techno artist based in United Kingdom, tracked on soundcheck
 
 Kerri Chandler, DJ Deep, Adiel
 
-*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ceri/)*
+*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ceri/)*

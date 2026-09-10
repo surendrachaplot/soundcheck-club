@@ -1,6 +1,6 @@
 # Feel .MA
 
-Feel .MA is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 9 Sept 2026, next at OST, Berlin on Fri, 11 Sept 2026.
+Feel .MA is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 10 Sept 2026, next at OST, Berlin on Fri, 11 Sept 2026.
 
 Feel .MA is a house and techno artist based in Italy, tracked on soundcheck, with 51 sets logged across Berlin. Often billed alongside Jaycap, Ben Manson and Yannick Weineck. Next up: OST, Berlin on Fri 11 Sept.
 
@@ -25,4 +25,4 @@ Feel .MA is a house and techno artist based in Italy, tracked on soundcheck, wit
 
 Jaycap, Ben Manson, Yannick Weineck
 
-*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/feelma/)*
+*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/feelma/)*

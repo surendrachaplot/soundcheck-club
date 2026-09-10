@@ -1,6 +1,6 @@
 # Fakhar
 
-Fakhar is a Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 9 Sept 2026, next at DNA. CLUB, Berlin on Fri, 2 Oct 2026.
+Fakhar is a Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 10 Sept 2026, next at DNA. CLUB, Berlin on Fri, 2 Oct 2026.
 
 Fakhar is a techno artist tracked on soundcheck, with 8 sets logged across Berlin. Often billed alongside INTERNAL FORCES, Jalal K. and Carølinø. Next up: DNA. CLUB, Berlin on Fri 2 Oct.
 
@@ -24,4 +24,4 @@ Fakhar is a techno artist tracked on soundcheck, with 8 sets logged across Berli
 
 INTERNAL FORCES, Jalal K., Carølinø
 
-*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/fakhar/)*
+*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/fakhar/)*

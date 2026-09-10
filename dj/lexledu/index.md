@@ -1,14 +1,15 @@
 # LEX LEDU
 
-LEX LEDU is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Wed, 9 Sept 2026, next at Waterhouse Studios, Amsterdam on Thu, 10 Sept 2026.
+LEX LEDU is a Techno and Industrial artist with 2 upcoming club dates listed on soundcheck as of Thu, 10 Sept 2026, next at Waterhouse Studios, Amsterdam on Thu, 10 Sept 2026.
 
-LEX LEDU is a techno and tech house artist based in Netherlands, tracked on soundcheck, with 15 sets logged across Amsterdam, Berlin, Cologne and London and 4 more. Often billed alongside BVNNII, Dres Codex and KASTILO. Next up: Waterhouse Studios, Amsterdam on Thu 10 Sept.
+LEX LEDU is a techno and industrial artist based in Netherlands, tracked on soundcheck, with 16 sets logged across Amsterdam, Berlin, Cologne and London and 4 more. Often billed alongside BVNNII, Dres Codex and KASTILO. Next up: Waterhouse Studios, Amsterdam on Thu 10 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Thu, 10 Sept 2026 | Waterhouse Studios | Amsterdam |
+| Tue, 15 Sept 2026 | John Doe | Amsterdam |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ LEX LEDU is a techno and tech house artist based in Netherlands, tracked on soun
 
 BVNNII, Dres Codex, KASTILO
 
-*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lexledu/)*
+*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lexledu/)*

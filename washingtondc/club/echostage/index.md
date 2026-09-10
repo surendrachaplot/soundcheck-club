@@ -1,6 +1,6 @@
 # Echostage
 
-Echostage is a music venue in Washington DC with 17 upcoming nights listed on soundcheck as of Wed, 9 Sept 2026; the next is "Bad Boombox, BIIANCO, David Löhlein, Mischluft [360°]" on Fri, 11 Sept 2026.
+Echostage is a music venue in Washington DC with 17 upcoming nights listed on soundcheck as of Thu, 10 Sept 2026; the next is "Bad Boombox, BIIANCO, David Löhlein, Mischluft [360°]" on Fri, 11 Sept 2026.
 
 Echostage is a music venue in Washingtondc listed on soundcheck. 17 upcoming nights, with line-ups including 10cust, Afrojack, Bad Boombox and BENNETT and 2 more. Browse upcoming dates, start times and who's playing. 2135 Queens Chapel Road NE, Washington, DC 20018.
 
@@ -23,4 +23,4 @@ Echostage is a music venue in Washingtondc listed on soundcheck. 17 upcoming nig
 
 2135 Queens Chapel Road NE, Washington, DC 20018, Washington DC
 
-*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/washingtondc/club/echostage/)*
+*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/washingtondc/club/echostage/)*

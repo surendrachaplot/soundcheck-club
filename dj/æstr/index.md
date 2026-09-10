@@ -1,6 +1,6 @@
 # ÆSTR
 
-ÆSTR is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Wed, 9 Sept 2026, next at Mia Mao, Paris on Fri, 9 Oct 2026.
+ÆSTR is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Thu, 10 Sept 2026, next at Mia Mao, Paris on Fri, 9 Oct 2026.
 
 ÆSTR is a techno and electro artist tracked on soundcheck, with 5 sets logged across Amsterdam, Lyon, Paris and Strasbourg. Often billed alongside Alpha Sect, Aphøtic and Entrp. Next up: Mia Mao, Paris on Fri 9 Oct.
 
@@ -21,4 +21,4 @@
 
 Alpha Sect, Aphøtic, Entrp
 
-*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/æstr/)*
+*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/æstr/)*

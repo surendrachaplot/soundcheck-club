@@ -1,6 +1,6 @@
 # Suplex Round 3: The Bermondsey Body Slam at M.O.T
 
-Suplex Round 3: The Bermondsey Body Slam at M.O.T on Fri 6 Nov, London. 3 acts on the bill: Compliments, DJ Trebuchet and Minor Science. Bass and Club. Preview the line-up and save it on soundcheck.
+Suplex Round 3: The Bermondsey Body Slam at M.O.T on Fri 6 Nov, London. 4 acts on the bill: Compliments, Daksh, DJ Trebuchet and Minor Science. Bass and Club. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,6 +11,7 @@ Suplex Round 3: The Bermondsey Body Slam at M.O.T on Fri 6 Nov, London. 3 acts o
 ## Line-up
 
 - Compliments
+- Daksh
 - DJ Trebuchet
 - Minor Science
 

@@ -1,6 +1,6 @@
 # dj s1s0
 
-dj s1s0 is a Drum & Bass and Hardcore artist with 3 upcoming club dates listed on soundcheck as of Wed, 9 Sept 2026, next at Dunia, Istanbul on Fri, 11 Sept 2026.
+dj s1s0 is a Drum & Bass and Hardcore artist with 3 upcoming club dates listed on soundcheck as of Thu, 10 Sept 2026, next at Dunia, Istanbul on Fri, 11 Sept 2026.
 
 dj s1s0 is a drum & bass and hardcore artist based in Turkey, tracked on soundcheck, with 13 sets logged across Istanbul. Often billed alongside ALİN, BERENALP and RUK (2). Next up: Dunia, Istanbul on Fri 11 Sept.
 
@@ -27,4 +27,4 @@ dj s1s0 is a drum & bass and hardcore artist based in Turkey, tracked on soundch
 
 ALİN, BERENALP, RUK (2)
 
-*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djs1s0/)*
+*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djs1s0/)*

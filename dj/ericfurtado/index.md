@@ -1,6 +1,6 @@
 # Eric Furtado
 
-Eric Furtado is a House and Minimal Techno artist with 3 upcoming club dates listed on soundcheck as of Wed, 9 Sept 2026, next at Bar Badassery, Lisbon on Sat, 12 Sept 2026.
+Eric Furtado is a House and Minimal Techno artist with 3 upcoming club dates listed on soundcheck as of Thu, 10 Sept 2026, next at Bar Badassery, Lisbon on Sat, 12 Sept 2026.
 
 Eric Furtado is a house and minimal techno artist tracked on soundcheck, with 16 sets logged across Lisbon. Often billed alongside Markov (cult), Kristina (2) and Alive. Next up: Bar Badassery, Lisbon on Sat 12 Sept.
 
@@ -27,4 +27,4 @@ Eric Furtado is a house and minimal techno artist tracked on soundcheck, with 16
 
 Markov (cult), Kristina (2), Alive
 
-*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ericfurtado/)*
+*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ericfurtado/)*

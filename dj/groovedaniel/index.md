@@ -1,6 +1,6 @@
 # Groove Daniel
 
-Groove Daniel is a Techno and Acid artist with 1 upcoming club date listed on soundcheck as of Wed, 9 Sept 2026, next at Jonny Knüppel, Berlin on Fri, 18 Sept 2026.
+Groove Daniel is a Techno and Acid artist with 1 upcoming club date listed on soundcheck as of Thu, 10 Sept 2026, next at Jonny Knüppel, Berlin on Fri, 18 Sept 2026.
 
 Groove Daniel is a techno and acid artist tracked on soundcheck, with 25 sets logged across Amsterdam, Berlin, Milan and Prague and 1 more. Often billed alongside Konik Polny, Midirama and V (NYC). Next up: Jonny Knüppel, Berlin on Fri 18 Sept.
 
@@ -25,4 +25,4 @@ Groove Daniel is a techno and acid artist tracked on soundcheck, with 25 sets lo
 
 Konik Polny, Midirama, V (NYC)
 
-*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/groovedaniel/)*
+*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/groovedaniel/)*

@@ -1,6 +1,6 @@
 # Winson Ngoh
 
-Winson Ngoh is a Techno and Industrial artist with 10 upcoming club dates listed on soundcheck as of Wed, 9 Sept 2026, next at 131 Mccormack St, Toronto on Fri, 11 Sept 2026.
+Winson Ngoh is a Techno and Industrial artist with 10 upcoming club dates listed on soundcheck as of Thu, 10 Sept 2026, next at 131 Mccormack St, Toronto on Fri, 11 Sept 2026.
 
 Winson Ngoh is a techno and industrial artist tracked on soundcheck, with 33 sets logged across Amsterdam, Antwerp, Barcelona and Belfast and 21 more. Often billed alongside KUKO, Fantasm and Winson. Next up: 131 Mccormack St, Toronto on Fri 11 Sept.
 
@@ -34,4 +34,4 @@ Winson Ngoh is a techno and industrial artist tracked on soundcheck, with 33 set
 
 KUKO, Fantasm, Winson
 
-*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/winsonngoh/)*
+*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/winsonngoh/)*

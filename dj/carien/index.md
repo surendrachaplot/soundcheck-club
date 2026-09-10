@@ -1,6 +1,6 @@
 # Carien
 
-Carien is a Dub and Dubstep artist with 1 upcoming club date listed on soundcheck as of Wed, 9 Sept 2026, next at Club Makossa, London on Sat, 19 Sept 2026.
+Carien is a Dub and Dubstep artist with 1 upcoming club date listed on soundcheck as of Thu, 10 Sept 2026, next at Club Makossa, London on Sat, 19 Sept 2026.
 
 Carien is a dub and dubstep artist based in United Kingdom, tracked on soundcheck, with 4 sets logged across London. Often billed alongside Sophia Nicole, skruba and Betty Bender. Next up: Club Makossa, London on Sat 19 Sept.
 
@@ -20,4 +20,4 @@ Carien is a dub and dubstep artist based in United Kingdom, tracked on soundchec
 
 Sophia Nicole, skruba, Betty Bender
 
-*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/carien/)*
+*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/carien/)*

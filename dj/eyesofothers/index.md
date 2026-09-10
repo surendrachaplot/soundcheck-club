@@ -1,6 +1,6 @@
 # Eyes of Others
 
-Eyes of Others is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Wed, 9 Sept 2026, next at People's Leisure Club, Edinburgh on Sat, 3 Oct 2026.
+Eyes of Others is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Thu, 10 Sept 2026, next at People's Leisure Club, Edinburgh on Sat, 3 Oct 2026.
 
 Eyes of Others is a house and disco artist tracked on soundcheck, with 4 sets logged across Aberdeen and Edinburgh. Often billed alongside Alien Communications, Capricorn One and Chrissy G (2). Next up: People's Leisure Club, Edinburgh on Sat 3 Oct.
 
@@ -20,4 +20,4 @@ Eyes of Others is a house and disco artist tracked on soundcheck, with 4 sets lo
 
 Alien Communications, Capricorn One, Chrissy G (2)
 
-*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/eyesofothers/)*
+*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/eyesofothers/)*

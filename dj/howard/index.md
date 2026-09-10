@@ -1,6 +1,6 @@
 # Howard
 
-Howard is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 9 Sept 2026, next at Bridge 48, Barcelona on Fri, 25 Sept 2026.
+Howard is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 10 Sept 2026, next at Bridge 48, Barcelona on Fri, 25 Sept 2026.
 
 Howard is a house and techno artist tracked on soundcheck, with 27 sets logged across Barcelona, Liverpool, Manchester and Tokyo. Often billed alongside Endote, SIGNAL (JP) and BayCantSpin. Next up: Bridge 48, Barcelona on Fri 25 Sept.
 
@@ -26,4 +26,4 @@ Howard is a house and techno artist tracked on soundcheck, with 27 sets logged a
 
 Endote, SIGNAL (JP), BayCantSpin
 
-*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/howard/)*
+*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/howard/)*

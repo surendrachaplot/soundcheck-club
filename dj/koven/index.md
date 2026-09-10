@@ -1,6 +1,6 @@
 # Koven
 
-Koven is a Drum & Bass and Bass artist with 4 upcoming club dates listed on soundcheck as of Wed, 9 Sept 2026, next at Lakota, Bristol on Sat, 19 Sept 2026.
+Koven is a Drum & Bass and Bass artist with 4 upcoming club dates listed on soundcheck as of Thu, 10 Sept 2026, next at Lakota, Bristol on Sat, 19 Sept 2026.
 
 Koven is a drum & bass and bass artist tracked on soundcheck, with 52 sets logged across Amsterdam, Antwerp, Auckland and Brisbane and 22 more. Often billed alongside Hybrid Minds, Camo & Krooked and Circadian. Next up: Lakota, Bristol on Sat 19 Sept.
 
@@ -28,4 +28,4 @@ Koven is a drum & bass and bass artist tracked on soundcheck, with 52 sets logge
 
 Hybrid Minds, Camo & Krooked, Circadian
 
-*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/koven/)*
+*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/koven/)*

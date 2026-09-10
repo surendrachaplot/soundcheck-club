@@ -1,6 +1,6 @@
 # Meat Raffle
 
-Meat Raffle is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Wed, 9 Sept 2026, next at Trough X Sydney, Sydney on Sat, 12 Sept 2026.
+Meat Raffle is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 10 Sept 2026, next at Trough X Sydney, Sydney on Sat, 12 Sept 2026.
 
 Meat Raffle is a techno and house artist tracked on soundcheck, with 14 sets logged across Melbourne, Newyorkcity and Sydney. Often billed alongside ATARANGI, Dan Azzo and D. Tyrone. Next up: Trough X Sydney, Sydney on Sat 12 Sept.
 
@@ -26,4 +26,4 @@ Meat Raffle is a techno and house artist tracked on soundcheck, with 14 sets log
 
 ATARANGI, Dan Azzo, D. Tyrone
 
-*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/meatraffle/)*
+*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/meatraffle/)*

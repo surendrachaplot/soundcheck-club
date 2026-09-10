@@ -1,6 +1,6 @@
 # Chingyi
 
-Chingyi is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Wed, 9 Sept 2026, next at Volnost, Seoul on Sat, 19 Sept 2026.
+Chingyi is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 10 Sept 2026, next at Volnost, Seoul on Sat, 19 Sept 2026.
 
 Chingyi is a techno and house artist tracked on soundcheck, with 30 sets logged across Hongkong, Lisbon, Seoul and Shanghai. Often billed alongside ADRIANNA.C, AngeliKa and Faxtory. Next up: Volnost, Seoul on Sat 19 Sept.
 
@@ -26,4 +26,4 @@ Chingyi is a techno and house artist tracked on soundcheck, with 30 sets logged 
 
 ADRIANNA.C, AngeliKa, Faxtory
 
-*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/chingyi/)*
+*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/chingyi/)*

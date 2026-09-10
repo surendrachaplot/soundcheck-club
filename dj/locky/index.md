@@ -1,6 +1,6 @@
 # Locky
 
-Locky is a House and Tech House artist with 13 upcoming club dates listed on soundcheck as of Wed, 9 Sept 2026, next at Floyd, Miami on Fri, 11 Sept 2026.
+Locky is a House and Tech House artist with 13 upcoming club dates listed on soundcheck as of Thu, 10 Sept 2026, next at Floyd, Miami on Fri, 11 Sept 2026.
 
 Locky is a house and tech house artist tracked on soundcheck, with 143 sets logged across Amsterdam, Barcelona, Belgrade and Birmingham and 26 more. Often billed alongside Mad.Again (2), Liam Palmer and Luke Dean_. Next up: Floyd, Miami on Fri 11 Sept.
 
@@ -36,4 +36,4 @@ Locky is a house and tech house artist tracked on soundcheck, with 143 sets logg
 
 Mad.Again (2), Liam Palmer, Luke Dean_
 
-*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/locky/)*
+*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/locky/)*

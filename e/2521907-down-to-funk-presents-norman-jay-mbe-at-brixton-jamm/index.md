@@ -1,6 +1,6 @@
 # DOWN TO FUNK PRESENTS: Norman Jay MBE at Brixton Jamm
 
-DOWN TO FUNK PRESENTS: Norman Jay MBE at Brixton Jamm on Sat 26 Sept, London. 1 act on the bill: Norman Jay. House and Disco. Preview the line-up and save it on soundcheck.
+DOWN TO FUNK PRESENTS: Norman Jay MBE at Brixton Jamm on Sat 26 Sept, London. 2 acts on the bill: Norman Jay and Tooke. House and Disco. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,5 +11,6 @@ DOWN TO FUNK PRESENTS: Norman Jay MBE at Brixton Jamm on Sat 26 Sept, London. 1 
 ## Line-up
 
 - Norman Jay
+- Tooke
 
 *Source: [soundcheck](https://soundcheck.club/e/2521907-down-to-funk-presents-norman-jay-mbe-at-brixton-jamm/)*

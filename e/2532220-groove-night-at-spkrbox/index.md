@@ -1,10 +1,10 @@
 # Groove Night at Spkrbox
 
-Groove Night at Spkrbox on Wed 9 Sept, Detroit. 1 act on the bill: Darryl G. Techno and House. Preview the line-up and save it on soundcheck.
+Groove Night at Spkrbox on Thu 10 Sept, Detroit. 1 act on the bill: Darryl G. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
-| Date | Wed, 9 Sept 2026 |
+| Date | Thu, 10 Sept 2026 |
 | Venue | Spkrbox |
 | City | Detroit |
 

@@ -1,6 +1,6 @@
 # Dulce (US)
 
-Dulce (US) is a electronic artist with 1 upcoming club date listed on soundcheck as of Wed, 9 Sept 2026, next at Berghain | Panorama Bar | Säule, Berlin on Fri, 16 Oct 2026.
+Dulce (US) is a electronic artist with 1 upcoming club date listed on soundcheck as of Thu, 10 Sept 2026, next at Berghain | Panorama Bar | Säule, Berlin on Fri, 16 Oct 2026.
 
 Dulce (US) is an electronic artist tracked on soundcheck, with 7 sets logged across Barcelona, Berlin and Madrid. Often billed alongside Ben UFO, MALENA and Nathalie Seres. Next up: Berghain | Panorama Bar | Säule, Berlin on Fri 16 Oct.
 
@@ -23,4 +23,4 @@ Dulce (US) is an electronic artist tracked on soundcheck, with 7 sets logged acr
 
 Ben UFO, MALENA, Nathalie Seres
 
-*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dulce-us/)*
+*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dulce-us/)*

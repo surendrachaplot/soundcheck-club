@@ -1,6 +1,6 @@
 # Hyunji-A
 
-Hyunji-A is a Progressive House and Deep House artist with 3 upcoming club dates listed on soundcheck as of Wed, 9 Sept 2026, next at Pasaje America, Mexico City on Sat, 26 Sept 2026.
+Hyunji-A is a Progressive House and Deep House artist with 3 upcoming club dates listed on soundcheck as of Thu, 10 Sept 2026, next at Pasaje America, Mexico City on Sat, 26 Sept 2026.
 
 Hyunji-A is a progressive house and deep house artist based in South Korea, tracked on soundcheck, with 33 sets logged across Amsterdam, Berlin, Malta and Mexicocity and 2 more. Often billed alongside Tantum, Guy J and Max Hendricks. Next up: Pasaje America, Mexicocity on Sat 26 Sept.
 
@@ -27,4 +27,4 @@ Hyunji-A is a progressive house and deep house artist based in South Korea, trac
 
 Tantum, Guy J, Max Hendricks
 
-*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/hyunji-a/)*
+*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/hyunji-a/)*

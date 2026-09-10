@@ -1,6 +1,6 @@
 # Melt Underground
 
-Melt Underground is a music venue in Buenos Aires with 2 upcoming nights listed on soundcheck as of Wed, 9 Sept 2026; the next is "DISCO MAGNETICA presenta Franz Scala, May Mclaren, Dr. Oso" on Fri, 11 Sept 2026.
+Melt Underground is a music venue in Buenos Aires with 2 upcoming nights listed on soundcheck as of Thu, 10 Sept 2026; the next is "DISCO MAGNETICA presenta Franz Scala, May Mclaren, Dr. Oso" on Fri, 11 Sept 2026.
 
 Melt Underground is a music venue in Buenosaires listed on soundcheck. 2 upcoming nights, with line-ups including Dr. Oso, Franz Scala, May Mc Laren and Seph. Browse upcoming dates, start times and who's playing. Laprida 1423, C1425 Cdad. Autónoma de Buenos Aires.
 
@@ -15,4 +15,4 @@ Melt Underground is a music venue in Buenosaires listed on soundcheck. 2 upcomin
 
 Laprida 1423, C1425 Cdad. Autónoma de Buenos Aires, Buenos Aires
 
-*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/buenosaires/club/melt-underground/)*
+*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/buenosaires/club/melt-underground/)*

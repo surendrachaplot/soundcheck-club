@@ -1,6 +1,6 @@
 # kneesplint
 
-kneesplint is a Club and Hardcore artist with 2 upcoming club dates listed on soundcheck as of Wed, 9 Sept 2026, next at Cafeteria, Toronto on Fri, 11 Sept 2026.
+kneesplint is a Club and Hardcore artist with 2 upcoming club dates listed on soundcheck as of Thu, 10 Sept 2026, next at Cafeteria, Toronto on Fri, 11 Sept 2026.
 
 kneesplint is a club and hardcore artist based in Canada, tracked on soundcheck, with 3 sets logged across Montreal and Toronto. Often billed alongside Ard1n, OGQT and the bald girl. Next up: Cafeteria, Toronto on Fri 11 Sept.
 
@@ -19,4 +19,4 @@ kneesplint is a club and hardcore artist based in Canada, tracked on soundcheck,
 
 Ard1n, OGQT, the bald girl
 
-*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kneesplint/)*
+*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kneesplint/)*

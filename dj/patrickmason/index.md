@@ -1,6 +1,6 @@
 # Patrick Mason
 
-Patrick Mason is a Techno and House artist with 14 upcoming club dates listed on soundcheck as of Wed, 9 Sept 2026, next at Nitsa Club, Barcelona on Sat, 12 Sept 2026.
+Patrick Mason is a Techno and House artist with 14 upcoming club dates listed on soundcheck as of Thu, 10 Sept 2026, next at Nitsa Club, Barcelona on Sat, 12 Sept 2026.
 
 Patrick Mason is a techno and house artist tracked on soundcheck, with 271 sets logged across Amsterdam, Antwerp, Athens and Austin and 73 more. Often billed alongside Héctor Oaks, 999999999 and I Hate Models. Next up: Nitsa Club, Barcelona on Sat 12 Sept.
 
@@ -36,4 +36,4 @@ Patrick Mason is a techno and house artist tracked on soundcheck, with 271 sets 
 
 Héctor Oaks, 999999999, I Hate Models
 
-*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/patrickmason/)*
+*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/patrickmason/)*

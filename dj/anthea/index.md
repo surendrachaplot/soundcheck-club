@@ -1,6 +1,6 @@
 # Anthea
 
-Anthea is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Wed, 9 Sept 2026, next at UNO MALTA, Malta on Thu, 17 Sept 2026.
+Anthea is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Thu, 10 Sept 2026, next at UNO MALTA, Malta on Thu, 17 Sept 2026.
 
 Anthea is a house and techno artist tracked on soundcheck, with 170 sets logged across Amsterdam, Athens, Austin and Barcelona and 39 more. Often billed alongside tINI, Oshana and Astral Travel. Next up: UNO MALTA, Malta on Thu 17 Sept.
 
@@ -27,4 +27,4 @@ Anthea is a house and techno artist tracked on soundcheck, with 170 sets logged 
 
 tINI, Oshana, Astral Travel
 
-*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/anthea/)*
+*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/anthea/)*

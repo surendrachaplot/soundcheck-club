@@ -1,6 +1,6 @@
 # Toman
 
-Toman is a House and Tech House artist with 5 upcoming club dates listed on soundcheck as of Wed, 9 Sept 2026, next at INPUT High Fidelity Dance Club, Barcelona on Sat, 12 Sept 2026.
+Toman is a House and Tech House artist with 5 upcoming club dates listed on soundcheck as of Thu, 10 Sept 2026, next at INPUT High Fidelity Dance Club, Barcelona on Sat, 12 Sept 2026.
 
 Toman is a house and tech house artist tracked on soundcheck, with 158 sets logged across Amsterdam, Barcelona, Basel and Belgrade and 37 more. Often billed alongside ANOTR, Ben Sterling and Chris Stassy. Next up: INPUT High Fidelity Dance Club, Barcelona on Sat 12 Sept.
 
@@ -29,4 +29,4 @@ Toman is a house and tech house artist tracked on soundcheck, with 158 sets logg
 
 ANOTR, Ben Sterling, Chris Stassy
 
-*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/toman/)*
+*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/toman/)*

@@ -1,14 +1,13 @@
 # Nia Archives
 
-Nia Archives is a Jungle and Drum & Bass artist with 8 upcoming club dates listed on soundcheck as of Wed, 9 Sept 2026, next at Yogibo Meta Valley, Osaka on Wed, 9 Sept 2026.
+Nia Archives is a Jungle and Drum & Bass artist with 7 upcoming club dates listed on soundcheck as of Thu, 10 Sept 2026, next at Zepp Shinjuku, Tokyo on Thu, 10 Sept 2026.
 
-Nia Archives is a jungle and drum & bass artist tracked on soundcheck, with 100 sets logged across Amsterdam, Auckland, Bangkok and Barcelona and 32 more. Often billed alongside Overmono, SHERELLE and Jyoty. Next up: Yogibo Meta Valley, Osaka on Wed 9 Sept.
+Nia Archives is a jungle and drum & bass artist tracked on soundcheck, with 100 sets logged across Amsterdam, Auckland, Bangkok and Barcelona and 32 more. Often billed alongside Overmono, SHERELLE and Jyoty. Next up: Zepp Shinjuku, Tokyo on Thu 10 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Wed, 9 Sept 2026 | Yogibo Meta Valley | Osaka |
 | Thu, 10 Sept 2026 | Zepp Shinjuku | Tokyo |
 | Sat, 12 Sept 2026 | Unit | Tokyo |
 | Sat, 12 Sept 2026 | Saloon | Tokyo |
@@ -19,6 +18,7 @@ Nia Archives is a jungle and drum & bass artist tracked on soundcheck, with 100 
 
 ## Recently played
 
+- Yogibo Meta Valley, Osaka — Wed, 9 Sept 2026
 - TBA, Miami — Sat, 5 Sept 2026
 - Union Park, Chicago — Fri, 4 Sept 2026
 - FS., Tokyo — Fri, 28 Aug 2026
@@ -26,10 +26,9 @@ Nia Archives is a jungle and drum & bass artist tracked on soundcheck, with 100 
 - Quarters, Brighton — Thu, 23 Jul 2026
 - NX Newcastle, Newcastle — Thu, 16 Jul 2026
 - Piknic Électronik / Parc Jean Drapeau, Montreal — Sun, 5 Jul 2026
-- Holland Park, Vancouver — Fri, 3 Jul 2026
 
 ## Shares bills with
 
 Overmono, SHERELLE, Jyoty
 
-*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/niaarchives/)*
+*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/niaarchives/)*

@@ -1,6 +1,6 @@
 # Liam Oliver
 
-Liam Oliver is a House and Italo Disco artist with 1 upcoming club date listed on soundcheck as of Wed, 9 Sept 2026, next at Liquidate, Manchester on Fri, 11 Sept 2026.
+Liam Oliver is a House and Italo Disco artist with 1 upcoming club date listed on soundcheck as of Thu, 10 Sept 2026, next at Liquidate, Manchester on Fri, 11 Sept 2026.
 
 Liam Oliver is a house and italo disco artist based in United Kingdom, tracked on soundcheck, with 16 sets logged across Manchester. Often billed alongside Tom2trax, James Greenwood and Aiden Francis. Next up: Liquidate, Manchester on Fri 11 Sept.
 
@@ -25,4 +25,4 @@ Liam Oliver is a house and italo disco artist based in United Kingdom, tracked o
 
 Tom2trax, James Greenwood, Aiden Francis
 
-*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/liamoliver/)*
+*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/liamoliver/)*

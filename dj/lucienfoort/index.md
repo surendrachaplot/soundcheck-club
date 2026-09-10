@@ -1,6 +1,6 @@
 # Lucien Foort
 
-Lucien Foort is a House and Acid artist with 2 upcoming club dates listed on soundcheck as of Wed, 9 Sept 2026, next at Paal69, Amsterdam on Sat, 26 Sept 2026.
+Lucien Foort is a House and Acid artist with 2 upcoming club dates listed on soundcheck as of Thu, 10 Sept 2026, next at Paal69, Amsterdam on Sat, 26 Sept 2026.
 
 Lucien Foort is a house and acid artist based in Netherlands, tracked on soundcheck, with 43 sets logged across Amsterdam, Ibiza, Rotterdam and Utrecht. Often billed alongside Alexander Koning, Erick E and ROOG. Next up: Paal69, Amsterdam on Sat 26 Sept.
 
@@ -26,4 +26,4 @@ Lucien Foort is a house and acid artist based in Netherlands, tracked on soundch
 
 Alexander Koning, Erick E, ROOG
 
-*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lucienfoort/)*
+*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lucienfoort/)*

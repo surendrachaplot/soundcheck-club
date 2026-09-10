@@ -1,6 +1,6 @@
 # Brunch Electronik Madrid 12.09 - &ME presents Smiley at Madrid Caja Mágica
 
-Brunch Electronik Madrid 12.09 - &ME presents Smiley at Madrid Caja Mágica on Sat 12 Sept, Madrid. 1 act on the bill: &ME. Preview the line-up and save it on soundcheck.
+Brunch Electronik Madrid 12.09 - &ME presents Smiley at Madrid Caja Mágica on Sat 12 Sept, Madrid. 3 acts on the bill: &ME, Lola Bozzano and Vanee. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,5 +11,7 @@ Brunch Electronik Madrid 12.09 - &ME presents Smiley at Madrid Caja Mágica on S
 ## Line-up
 
 - &ME
+- Lola Bozzano
+- Vanee
 
 *Source: [soundcheck](https://soundcheck.club/e/2489544-brunch-electronik-madrid-12-09-me-presents-smiley-at-madrid/)*

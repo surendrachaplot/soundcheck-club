@@ -1,6 +1,6 @@
 # Fållan
 
-Fållan is a music venue in Stockholm with 2 upcoming nights listed on soundcheck as of Wed, 9 Sept 2026; the next is "CHAMOS" on Sat, 19 Sept 2026.
+Fållan is a music venue in Stockholm with 2 upcoming nights listed on soundcheck as of Thu, 10 Sept 2026; the next is "CHAMOS" on Sat, 19 Sept 2026.
 
 Fållan is a music venue in Stockholm listed on soundcheck. 2 upcoming nights, with line-ups including CHAMOS, Coflo, D Soulstream and Mad Mats and 1 more. Browse upcoming dates, start times and who's playing. Fållan 10, 12161, Stockholm.
 
@@ -15,4 +15,4 @@ Fållan is a music venue in Stockholm listed on soundcheck. 2 upcoming nights, w
 
 Fållan 10, 12161, Stockholm, Stockholm
 
-*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/stockholm/club/f-llan/)*
+*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/stockholm/club/f-llan/)*

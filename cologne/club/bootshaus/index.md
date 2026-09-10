@@ -1,6 +1,6 @@
 # Bootshaus
 
-Bootshaus is a music venue in Cologne with 15 upcoming nights listed on soundcheck as of Wed, 9 Sept 2026; the next is "Blacklist & Inurfase pres. ZAAGSTEP by Dr Donk" on Fri, 11 Sept 2026.
+Bootshaus is a music venue in Cologne with 15 upcoming nights listed on soundcheck as of Thu, 10 Sept 2026; the next is "Blacklist & Inurfase pres. ZAAGSTEP by Dr Donk" on Fri, 11 Sept 2026.
 
 Bootshaus is a music venue in Cologne listed on soundcheck. 15 upcoming nights, with line-ups including 2HOT2PLAY, 333CXT, ADEMES and Afem Syko and 2 more. Browse upcoming dates, start times and who's playing. Auenweg 173; 51063 Cologne; Germany.
 
@@ -23,4 +23,4 @@ Bootshaus is a music venue in Cologne listed on soundcheck. 15 upcoming nights, 
 
 Auenweg 173; 51063 Cologne; Germany, Cologne
 
-*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/cologne/club/bootshaus/)*
+*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/cologne/club/bootshaus/)*

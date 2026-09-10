@@ -1,21 +1,22 @@
 # Rich NXT
 
-Rich NXT is a House and Tech House artist with 5 upcoming club dates listed on soundcheck as of Wed, 9 Sept 2026, next at [UNVRS], Ibiza on Wed, 9 Sept 2026.
+Rich NXT is a House and Tech House artist with 5 upcoming club dates listed on soundcheck as of Thu, 10 Sept 2026, next at UNO MALTA, Malta on Fri, 18 Sept 2026.
 
-Rich NXT is a house and tech house artist tracked on soundcheck, with 106 sets logged across Amsterdam, Bali, Bangkok and Barcelona and 28 more. Often billed alongside Enzo Siragusa, Rossi and Laidlaw. Next up: [UNVRS], Ibiza on Wed 9 Sept.
+Rich NXT is a house and tech house artist tracked on soundcheck, with 107 sets logged across Amsterdam, Bali, Bangkok and Barcelona and 28 more. Often billed alongside Enzo Siragusa, Rossi and Laidlaw. Next up: UNO MALTA, Malta on Fri 18 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Wed, 9 Sept 2026 | [UNVRS] | Ibiza |
 | Fri, 18 Sept 2026 | UNO MALTA | Malta |
 | Tue, 22 Sept 2026 | Cova Santa | Ibiza |
 | Fri, 25 Sept 2026 | Mint XL | Leeds |
 | Fri, 2 Oct 2026 | Green Room NYC | New York City |
+| Sun, 1 Nov 2026 | The Cause | London |
 
 ## Recently played
 
+- [UNVRS], Ibiza — Wed, 9 Sept 2026
 - Thuishaven, Amsterdam — Sun, 6 Sept 2026
 - 528 Ibiza, Ibiza — Sun, 9 Aug 2026
 - XOYO, London — Sat, 1 Aug 2026
@@ -23,10 +24,9 @@ Rich NXT is a house and tech house artist tracked on soundcheck, with 106 sets l
 - Shelter Amsterdam, Amsterdam — Sat, 27 Jun 2026
 - Ku Barcelona, Barcelona — Tue, 16 Jun 2026
 - ex Base, Naples — Sun, 14 Jun 2026
-- Newsam Green Farm, Leeds — Sat, 2 May 2026
 
 ## Shares bills with
 
 Enzo Siragusa, Rossi, Laidlaw
 
-*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/richnxt/)*
+*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/richnxt/)*

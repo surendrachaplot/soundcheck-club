@@ -1,6 +1,6 @@
 # Konnection
 
-Konnection is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Wed, 9 Sept 2026, next at 宀 Club, Hong Kong on Sat, 12 Sept 2026.
+Konnection is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 10 Sept 2026, next at 宀 Club, Hong Kong on Sat, 12 Sept 2026.
 
 Konnection is a techno and house artist based in China, tracked on soundcheck, with 41 sets logged across Hongkong, Shenzhen and Tokyo. Often billed alongside Dan-neo, Faxtory and Finsent C. Next up: 宀 Club, Hongkong on Sat 12 Sept.
 
@@ -26,4 +26,4 @@ Konnection is a techno and house artist based in China, tracked on soundcheck, w
 
 Dan-neo, Faxtory, Finsent C
 
-*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/konnection/)*
+*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/konnection/)*

@@ -1,8 +1,8 @@
 # TBA
 
-TBA is a music venue in London with 294 upcoming nights listed on soundcheck as of Wed, 9 Sept 2026; the next is "RNB MANIA - Ibiza's R&B Pool Party at BamBuKu" on Thu, 10 Sept 2026.
+TBA is a music venue in London with 302 upcoming nights listed on soundcheck as of Thu, 10 Sept 2026; the next is "RNB MANIA - Ibiza's R&B Pool Party at BamBuKu" on Thu, 10 Sept 2026.
 
-TBA is a music venue in London listed on soundcheck. 294 upcoming nights, with line-ups including 1-800 GIRLS, 1morning, 320 (1) and 3 Minds and 2 more. Browse upcoming dates, start times and who's playing.
+TBA is a music venue in London listed on soundcheck. 302 upcoming nights, with line-ups including 1-800 GIRLS, 1morning, 30000AD and 320 (1) and 2 more. Browse upcoming dates, start times and who's playing.
 
 ## What's on
 
@@ -19,4 +19,4 @@ TBA is a music venue in London listed on soundcheck. 294 upcoming nights, with l
 | Fri, 11 Sept 2026 | Breakaway Philadelphia 2026 — Buy Tickets in Link |  |
 | Fri, 11 Sept 2026 | Yacht Week Greece 2026 - Promo Code 'RAVEFAM' |  |
 
-*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/tba/)*
+*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/tba/)*

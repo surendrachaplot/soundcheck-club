@@ -1,6 +1,6 @@
 # DJ Frank
 
-DJ Frank is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 9 Sept 2026, next at Amp, Munster on Sat, 12 Sept 2026.
+DJ Frank is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 10 Sept 2026, next at Amp, Munster on Sat, 12 Sept 2026.
 
 DJ Frank is a house and techno artist tracked on soundcheck, with 58 sets logged across Amsterdam, Berlin, Cologne and Hamburg and 6 more. Often billed alongside Narciss, paaradoxx and Maruhni. Next up: Amp, Munster on Sat 12 Sept.
 
@@ -25,4 +25,4 @@ DJ Frank is a house and techno artist tracked on soundcheck, with 58 sets logged
 
 Narciss, paaradoxx, Maruhni
 
-*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djfrank/)*
+*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djfrank/)*

@@ -1,6 +1,6 @@
 # Zehv
 
-Zehv is a Progressive House and House artist with 1 upcoming club date listed on soundcheck as of Wed, 9 Sept 2026, next at Kadinsky Cafe, Amsterdam on Wed, 21 Oct 2026.
+Zehv is a Progressive House and House artist with 1 upcoming club date listed on soundcheck as of Thu, 10 Sept 2026, next at Kadinsky Cafe, Amsterdam on Wed, 21 Oct 2026.
 
 Zehv is a progressive house and house artist based in United States of America, tracked on soundcheck, with 24 sets logged across Amsterdam, Chicago, Newyorkcity and Philadelphia and 1 more. Often billed alongside Emanate, Miles Alexander and Staysis. Next up: Kadinsky Cafe, Amsterdam on Wed 21 Oct.
 
@@ -25,4 +25,4 @@ Zehv is a progressive house and house artist based in United States of America, 
 
 Emanate, Miles Alexander, Staysis
 
-*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/zehv/)*
+*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/zehv/)*

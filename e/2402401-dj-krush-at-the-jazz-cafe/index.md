@@ -1,6 +1,6 @@
 # DJ Krush at The Jazz Cafe
 
-DJ Krush at The Jazz Cafe on Tue 6 Oct, London. 1 act on the bill: DJ Krush. Breakbeat and Hip-Hop. Preview the line-up and save it on soundcheck.
+DJ Krush at The Jazz Cafe on Tue 6 Oct, London. 2 acts on the bill: DJ Krush and Goth-Trad. Breakbeat and Hip-Hop. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,5 +11,6 @@ DJ Krush at The Jazz Cafe on Tue 6 Oct, London. 1 act on the bill: DJ Krush. Bre
 ## Line-up
 
 - DJ Krush
+- Goth-Trad
 
 *Source: [soundcheck](https://soundcheck.club/e/2402401-dj-krush-at-the-jazz-cafe/)*

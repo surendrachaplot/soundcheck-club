@@ -1,13 +1,14 @@
 # Katatonic Silentio
 
-Katatonic Silentio is a Techno and Bass artist with 2 upcoming club dates listed on soundcheck as of Wed, 9 Sept 2026, next at Magasins Généraux, Paris on Fri, 20 Nov 2026.
+Katatonic Silentio is a Techno and Bass artist with 3 upcoming club dates listed on soundcheck as of Thu, 10 Sept 2026, next at LAUT, Barcelona on Fri, 23 Oct 2026.
 
-Katatonic Silentio is a techno and bass artist tracked on soundcheck, with 81 sets logged across Amsterdam, Barcelona, Berlin and Bristol and 18 more. Often billed alongside Stenny, Skee Mask and Odd Shy Guy. Next up: Magasins Généraux, Paris on Fri 20 Nov.
+Katatonic Silentio is a techno and bass artist tracked on soundcheck, with 82 sets logged across Amsterdam, Barcelona, Berlin and Bristol and 18 more. Often billed alongside Stenny, Skee Mask and Odd Shy Guy. Next up: LAUT, Barcelona on Fri 23 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 23 Oct 2026 | LAUT | Barcelona |
 | Fri, 20 Nov 2026 | Magasins Généraux | Paris |
 | Sat, 21 Nov 2026 | Magasins Généraux | Paris |
 
@@ -26,4 +27,4 @@ Katatonic Silentio is a techno and bass artist tracked on soundcheck, with 81 se
 
 Stenny, Skee Mask, Odd Shy Guy
 
-*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/katatonicsilentio-it/)*
+*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/katatonicsilentio-it/)*

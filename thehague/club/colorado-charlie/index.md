@@ -1,6 +1,6 @@
 # Colorado Charlie
 
-Colorado Charlie is a music venue in The Hague with 6 upcoming nights listed on soundcheck as of Wed, 9 Sept 2026; the next is "Colorado Charlie with Colyn (3hrs), Nicky Elisabeth" on Sat, 12 Sept 2026.
+Colorado Charlie is a music venue in The Hague with 6 upcoming nights listed on soundcheck as of Thu, 10 Sept 2026; the next is "Colorado Charlie with Colyn (3hrs), Nicky Elisabeth" on Sat, 12 Sept 2026.
 
 Colorado Charlie is a music venue in Thehague listed on soundcheck. 6 upcoming nights, with line-ups including Ammé, Boris Coelman, Colyn and Daughter In Law and 2 more. Browse upcoming dates, start times and who's playing. Zwarte Pad 64, Scheveningen, Zuid Holland, Netherlands.
 
@@ -19,4 +19,4 @@ Colorado Charlie is a music venue in Thehague listed on soundcheck. 6 upcoming n
 
 Zwarte Pad 64, Scheveningen, Zuid Holland, Netherlands, The Hague
 
-*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/thehague/club/colorado-charlie/)*
+*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/thehague/club/colorado-charlie/)*

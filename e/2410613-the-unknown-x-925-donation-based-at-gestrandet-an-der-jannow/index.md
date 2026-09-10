@@ -1,6 +1,6 @@
 # THE UNKNOWN x 925  🄾🄿🄴🄽 🄰🄸🅁  (donation-based) at Gestrandet An Der Jannowitzbrücke
 
-THE UNKNOWN x 925  🄾🄿🄴🄽 🄰🄸🅁  (donation-based) at Gestrandet An Der Jannowitzbrücke on Fri 18 Sept, Berlin. 6 acts on the bill: Aimé You, MagDita, Monsai and Nikklaas and 2 more. House. Preview the line-up and save it on soundcheck.
+THE UNKNOWN x 925  🄾🄿🄴🄽 🄰🄸🅁  (donation-based) at Gestrandet An Der Jannowitzbrücke on Fri 18 Sept, Berlin. 7 acts on the bill: Aimé You, anna G, MagDita and Monsai and 3 more. House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,6 +11,7 @@ THE UNKNOWN x 925  🄾🄿🄴🄽 🄰🄸🅁  (donation-based) at Gestrandet
 ## Line-up
 
 - Aimé You
+- anna G
 - MagDita
 - Monsai
 - Nikklaas

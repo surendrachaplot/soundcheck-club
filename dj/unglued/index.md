@@ -1,6 +1,6 @@
 # Unglued
 
-Unglued is a Drum & Bass and Jungle artist with 2 upcoming club dates listed on soundcheck as of Wed, 9 Sept 2026, next at Watsons EQ, Sydney on Sat, 3 Oct 2026.
+Unglued is a Drum & Bass and Jungle artist with 2 upcoming club dates listed on soundcheck as of Thu, 10 Sept 2026, next at Watsons EQ, Sydney on Sat, 3 Oct 2026.
 
 Unglued is a drum & bass and jungle artist based in United Kingdom, tracked on soundcheck, with 51 sets logged across Amsterdam, Auckland, Berlin and Boston and 20 more. Often billed alongside Degs, Whiney and Metrik. Next up: Watsons EQ, Sydney on Sat 3 Oct.
 
@@ -26,4 +26,4 @@ Unglued is a drum & bass and jungle artist based in United Kingdom, tracked on s
 
 Degs, Whiney, Metrik
 
-*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/unglued/)*
+*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/unglued/)*

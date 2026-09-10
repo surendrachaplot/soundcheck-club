@@ -1,13 +1,14 @@
 # Bipolia
 
-Bipolia is a Electronica and Experimental artist with 1 upcoming club date listed on soundcheck as of Wed, 9 Sept 2026, next at Cine Athenée, Athens on Sat, 26 Sept 2026.
+Bipolia is a Electronica and Experimental artist with 2 upcoming club dates listed on soundcheck as of Thu, 10 Sept 2026, next at Latraac, Athens on Sun, 13 Sept 2026.
 
-Bipolia is an electronica and experimental artist based in Greece, tracked on soundcheck, with 5 sets logged across Athens. Often billed alongside Alexandra Niaka, Cherry Distress and Miss Trouli. Next up: Cine Athenée, Athens on Sat 26 Sept.
+Bipolia is an electronica and experimental artist based in Greece, tracked on soundcheck, with 6 sets logged across Athens. Often billed alongside Alexandra Niaka, Cherry Distress and Miss Trouli. Next up: Latraac, Athens on Sun 13 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sun, 13 Sept 2026 | Latraac | Athens |
 | Sat, 26 Sept 2026 | Cine Athenée | Athens |
 
 ## Recently played
@@ -21,4 +22,4 @@ Bipolia is an electronica and experimental artist based in Greece, tracked on so
 
 Alexandra Niaka, Cherry Distress, Miss Trouli
 
-*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bipolia/)*
+*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bipolia/)*

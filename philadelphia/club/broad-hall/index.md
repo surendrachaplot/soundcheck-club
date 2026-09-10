@@ -1,6 +1,6 @@
 # broad hall.
 
-broad hall. is a music venue in Philadelphia with 3 upcoming nights listed on soundcheck as of Wed, 9 Sept 2026; the next is "Porkroll PHL" on Sat, 12 Sept 2026.
+broad hall. is a music venue in Philadelphia with 3 upcoming nights listed on soundcheck as of Thu, 10 Sept 2026; the next is "Porkroll PHL" on Sat, 12 Sept 2026.
 
 broad hall. is a music venue in Philadelphia listed on soundcheck. 3 upcoming nights, with line-ups including America Loves Me, Derrick Carter, DJ Dawson and JEWELSSEA and 2 more. Browse upcoming dates, start times and who's playing. 699 N. Broad Street, Philadelphia, PA 19123 USA.
 
@@ -16,4 +16,4 @@ broad hall. is a music venue in Philadelphia listed on soundcheck. 3 upcoming ni
 
 699 N. Broad Street, Philadelphia, PA 19123 USA, Philadelphia
 
-*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/philadelphia/club/broad-hall/)*
+*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/philadelphia/club/broad-hall/)*

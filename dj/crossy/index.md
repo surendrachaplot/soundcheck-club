@@ -1,6 +1,6 @@
 # Crossy
 
-Crossy is a Drum & Bass and Jungle artist with 8 upcoming club dates listed on soundcheck as of Wed, 9 Sept 2026, next at Lab 11, Birmingham on Fri, 18 Sept 2026.
+Crossy is a Drum & Bass and Jungle artist with 8 upcoming club dates listed on soundcheck as of Thu, 10 Sept 2026, next at Lab 11, Birmingham on Fri, 18 Sept 2026.
 
 Crossy is a drum & bass and jungle artist tracked on soundcheck, with 62 sets logged across Amsterdam, Auckland, Birmingham and Brighton and 14 more. Often billed alongside Carasel, Kelvin 373 and Trafic MC. Next up: Lab 11, Birmingham on Fri 18 Sept.
 
@@ -32,4 +32,4 @@ Crossy is a drum & bass and jungle artist tracked on soundcheck, with 62 sets lo
 
 Carasel, Kelvin 373, Trafic MC
 
-*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/crossy/)*
+*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/crossy/)*

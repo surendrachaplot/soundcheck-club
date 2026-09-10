@@ -1,6 +1,6 @@
 # John Schüller
 
-John Schüller is a electronic artist with 2 upcoming club dates listed on soundcheck as of Wed, 9 Sept 2026, next at Macarena Club, Barcelona on Thu, 10 Sept 2026.
+John Schüller is a electronic artist with 2 upcoming club dates listed on soundcheck as of Thu, 10 Sept 2026, next at Macarena Club, Barcelona on Thu, 10 Sept 2026.
 
 John Schüller is an electronic artist based in Venezuela, tracked on soundcheck, with 28 sets logged across Barcelona. Often billed alongside MENTA, Alex Cahe and LM. Next up: Macarena Club, Barcelona on Thu 10 Sept.
 
@@ -26,4 +26,4 @@ John Schüller is an electronic artist based in Venezuela, tracked on soundcheck
 
 MENTA, Alex Cahe, LM
 
-*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/johnschuller/)*
+*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/johnschuller/)*

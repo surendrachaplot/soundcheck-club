@@ -1,6 +1,6 @@
 # TBA - 7 rue St-Just, 93100 Montreuil
 
-TBA - 7 rue St-Just, 93100 Montreuil is a music venue in Paris with 1 upcoming night listed on soundcheck as of Wed, 9 Sept 2026; the next is "Bazar Câblé Aux Murs À Pêches" on Sat, 26 Sept 2026.
+TBA - 7 rue St-Just, 93100 Montreuil is a music venue in Paris with 1 upcoming night listed on soundcheck as of Thu, 10 Sept 2026; the next is "Bazar Câblé Aux Murs À Pêches" on Sat, 26 Sept 2026.
 
 TBA - 7 rue St-Just, 93100 Montreuil is a music venue in Paris listed on soundcheck. 1 upcoming night. Browse upcoming dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ TBA - 7 rue St-Just, 93100 Montreuil is a music venue in Paris listed on soundch
 | --- | --- | --- |
 | Sat, 26 Sept 2026 | Bazar Câblé Aux Murs À Pêches |  |
 
-*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/paris/club/tba-7-rue-st-just-93100-montreuil/)*
+*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/paris/club/tba-7-rue-st-just-93100-montreuil/)*

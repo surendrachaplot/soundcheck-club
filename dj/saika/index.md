@@ -1,8 +1,8 @@
 # SAIKA
 
-SAIKA is a Techno and Hardcore artist with 5 upcoming club dates listed on soundcheck as of Wed, 9 Sept 2026, next at OST, Berlin on Fri, 9 Oct 2026.
+SAIKA is a Techno and Hardcore artist with 6 upcoming club dates listed on soundcheck as of Thu, 10 Sept 2026, next at OST, Berlin on Fri, 9 Oct 2026.
 
-SAIKA is a techno and hardcore artist based in Germany, tracked on soundcheck, with 18 sets logged across Basel, Berlin, Hamburg and Munich and 4 more. Often billed alongside ANDATA, DJ Cringey and Charleen Herzig. Next up: OST, Berlin on Fri 9 Oct.
+SAIKA is a techno and hardcore artist based in Germany, tracked on soundcheck, with 19 sets logged across Basel, Berlin, Hamburg and Munich and 4 more. Often billed alongside ANDATA, DJ Cringey and Johannes Schuster. Next up: OST, Berlin on Fri 9 Oct.
 
 ## Upcoming shows
 
@@ -13,6 +13,7 @@ SAIKA is a techno and hardcore artist based in Germany, tracked on soundcheck, w
 | Fri, 16 Oct 2026 | Edelfettwerk | Hamburg |
 | Sat, 17 Oct 2026 | E-Werk Kulturzentrum | Nürnberg |
 | Sat, 28 Nov 2026 | MUENZE | Berlin |
+| Sat, 5 Dec 2026 | Zenith - Die Kulturhalle | Munich |
 
 ## Recently played
 
@@ -27,6 +28,6 @@ SAIKA is a techno and hardcore artist based in Germany, tracked on soundcheck, w
 
 ## Shares bills with
 
-ANDATA, DJ Cringey, Charleen Herzig
+ANDATA, DJ Cringey, Johannes Schuster
 
-*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/saika/)*
+*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/saika/)*

@@ -1,8 +1,8 @@
 # LILI
 
-LILI is a Tech House and House artist with 3 upcoming club dates listed on soundcheck as of Wed, 9 Sept 2026, next at Haus der Visionäre, Berlin on Fri, 11 Sept 2026.
+LILI is a Tech House and House artist with 4 upcoming club dates listed on soundcheck as of Thu, 10 Sept 2026, next at Haus der Visionäre, Berlin on Fri, 11 Sept 2026.
 
-LILI is a tech house and house artist tracked on soundcheck, with 26 sets logged across Berlin, Ibiza, Leeds and London and 2 more. Often billed alongside Lewis Carroll, Tommy Gold and ADMNTi. Next up: Haus der Visionäre, Berlin on Fri 11 Sept.
+LILI is a tech house and house artist tracked on soundcheck, with 27 sets logged across Berlin, Ibiza, Leeds and London and 3 more. Often billed alongside Lewis Carroll, Tommy Gold and ADMNTi. Next up: Haus der Visionäre, Berlin on Fri 11 Sept.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ LILI is a tech house and house artist tracked on soundcheck, with 26 sets logged
 | --- | --- | --- |
 | Fri, 11 Sept 2026 | Haus der Visionäre | Berlin |
 | Thu, 17 Sept 2026 | Amnesia Ibiza | Ibiza |
+| Thu, 29 Oct 2026 | The Loft | Manchester |
 | Sat, 31 Oct 2026 | NX Newcastle | Newcastle |
 
 ## Recently played
@@ -27,4 +28,4 @@ LILI is a tech house and house artist tracked on soundcheck, with 26 sets logged
 
 Lewis Carroll, Tommy Gold, ADMNTi
 
-*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lili/)*
+*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lili/)*

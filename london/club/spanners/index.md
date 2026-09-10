@@ -1,6 +1,6 @@
 # Spanners
 
-Spanners is a music venue in London with 3 upcoming nights listed on soundcheck as of Wed, 9 Sept 2026; the next is "People Drift with RRRKRTA" on Fri, 18 Sept 2026.
+Spanners is a music venue in London with 3 upcoming nights listed on soundcheck as of Thu, 10 Sept 2026; the next is "People Drift with RRRKRTA" on Fri, 18 Sept 2026.
 
 Spanners is a music venue in London listed on soundcheck. 3 upcoming nights, with line-ups including Bitzer Maloney, Jim Janco, Joe Hart and RRRKRTA and 2 more. Browse upcoming dates, start times and who's playing. SPANNERS, arch 504, Loughborough Junction, SW9 7EX.
 
@@ -16,4 +16,4 @@ Spanners is a music venue in London listed on soundcheck. 3 upcoming nights, wit
 
 SPANNERS, arch 504, Loughborough Junction, SW9 7EX, London
 
-*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/spanners/)*
+*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/spanners/)*

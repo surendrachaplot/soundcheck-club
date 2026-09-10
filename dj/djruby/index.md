@@ -1,6 +1,6 @@
 # DJ Ruby
 
-DJ Ruby is a Progressive House and House artist with 6 upcoming club dates listed on soundcheck as of Wed, 9 Sept 2026, next at TBA - Warehouse, Toronto on Sat, 12 Sept 2026.
+DJ Ruby is a Progressive House and House artist with 6 upcoming club dates listed on soundcheck as of Thu, 10 Sept 2026, next at TBA - Warehouse, Toronto on Sat, 12 Sept 2026.
 
 DJ Ruby is a progressive house and house artist tracked on soundcheck, with 64 sets logged across Amsterdam, Barcelona, Belgrade and Budapest and 17 more. Often billed alongside Daniel Blade, Abdy and Ruben Karapetyan. Next up: TBA - Warehouse, Toronto on Sat 12 Sept.
 
@@ -30,4 +30,4 @@ DJ Ruby is a progressive house and house artist tracked on soundcheck, with 64 s
 
 Daniel Blade, Abdy, Ruben Karapetyan
 
-*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djruby/)*
+*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djruby/)*

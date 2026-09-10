@@ -1,6 +1,6 @@
 # Holysss
 
-Holysss is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Wed, 9 Sept 2026, next at MODULE, Copenhagen on Thu, 10 Sept 2026.
+Holysss is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Thu, 10 Sept 2026, next at MODULE, Copenhagen on Thu, 10 Sept 2026.
 
 Holysss is a techno and trance artist based in Ukraine, tracked on soundcheck, with 16 sets logged across Copenhagen. Often billed alongside DJ Macid, DJ Void and Karl August. Next up: MODULE, Copenhagen on Thu 10 Sept.
 
@@ -25,4 +25,4 @@ Holysss is a techno and trance artist based in Ukraine, tracked on soundcheck, w
 
 DJ Macid, DJ Void, Karl August
 
-*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/holysss/)*
+*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/holysss/)*

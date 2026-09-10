@@ -1,6 +1,6 @@
 # NK Chan (2)
 
-NK Chan (2) is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 9 Sept 2026, next at 12 x 12, Bangkok on Sat, 12 Sept 2026.
+NK Chan (2) is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 10 Sept 2026, next at 12 x 12, Bangkok on Sat, 12 Sept 2026.
 
 NK Chan (2) is a house and techno artist based in Japan, tracked on soundcheck, with 29 sets logged across Bangkok and Tokyo. Often billed alongside Brent Burns, Jayja and Pam Anantr. Next up: 12 x 12, Bangkok on Sat 12 Sept.
 
@@ -26,4 +26,4 @@ NK Chan (2) is a house and techno artist based in Japan, tracked on soundcheck, 
 
 Brent Burns, Jayja, Pam Anantr
 
-*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nkchan-2/)*
+*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nkchan-2/)*

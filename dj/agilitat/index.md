@@ -1,6 +1,6 @@
 # AGILITÄT
 
-AGILITÄT is a Bass artist with 1 upcoming club date listed on soundcheck as of Wed, 9 Sept 2026, next at Panke, Berlin on Thu, 24 Sept 2026.
+AGILITÄT is a Bass artist with 1 upcoming club date listed on soundcheck as of Thu, 10 Sept 2026, next at Panke, Berlin on Thu, 24 Sept 2026.
 
 AGILITÄT is a bass artist tracked on soundcheck, with 6 sets logged across Berlin. Often billed alongside Gabriel Gifford, Glaucoma and AXT. Next up: Panke, Berlin on Thu 24 Sept.
 
@@ -22,4 +22,4 @@ AGILITÄT is a bass artist tracked on soundcheck, with 6 sets logged across Berl
 
 Gabriel Gifford, Glaucoma, AXT
 
-*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/agilitat/)*
+*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/agilitat/)*

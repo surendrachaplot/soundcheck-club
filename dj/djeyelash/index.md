@@ -1,6 +1,6 @@
 # DJ EYELASH
 
-DJ EYELASH is a House and Bass artist with 2 upcoming club dates listed on soundcheck as of Wed, 9 Sept 2026, next at ZEROTOKYO, Tokyo on Thu, 10 Sept 2026.
+DJ EYELASH is a House and Bass artist with 2 upcoming club dates listed on soundcheck as of Thu, 10 Sept 2026, next at ZEROTOKYO, Tokyo on Thu, 10 Sept 2026.
 
 DJ EYELASH is a house and bass artist based in Japan, tracked on soundcheck, with 21 sets logged across Tokyo. Often billed alongside TAT2K, DJ POIPOI and MUNÉO. Next up: ZEROTOKYO, Tokyo on Thu 10 Sept.
 
@@ -26,4 +26,4 @@ DJ EYELASH is a house and bass artist based in Japan, tracked on soundcheck, wit
 
 TAT2K, DJ POIPOI, MUNÉO
 
-*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djeyelash/)*
+*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djeyelash/)*

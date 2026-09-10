@@ -1,6 +1,6 @@
 # Daiki Fukami
 
-Daiki Fukami is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Wed, 9 Sept 2026, next at TBA - new club at Centrale Markthal, Amsterdam on Sat, 19 Sept 2026.
+Daiki Fukami is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Thu, 10 Sept 2026, next at TBA - new club at Centrale Markthal, Amsterdam on Sat, 19 Sept 2026.
 
 Daiki Fukami is a house and disco artist tracked on soundcheck, with 8 sets logged across Amsterdam, Tokyo and Utrecht. Often billed alongside Jiminal (2), Meniac and Monkey Timers. Next up: TBA - new club at Centrale Markthal, Amsterdam on Sat 19 Sept.
 
@@ -24,4 +24,4 @@ Daiki Fukami is a house and disco artist tracked on soundcheck, with 8 sets logg
 
 Jiminal (2), Meniac, Monkey Timers
 
-*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/daikifukami/)*
+*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/daikifukami/)*

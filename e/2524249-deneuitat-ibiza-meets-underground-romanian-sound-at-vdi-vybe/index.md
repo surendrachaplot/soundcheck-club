@@ -1,10 +1,10 @@
 # DENEUITAT | Ibiza meets Underground Romanian Sound at VDI | Vybe Department Ibiza
 
-DENEUITAT | Ibiza meets Underground Romanian Sound at VDI | Vybe Department Ibiza on Sun 13 Sept, Ibiza. 1 act on the bill: Oliviu. Minimal and Minimal Techno. Preview the line-up and save it on soundcheck.
+DENEUITAT | Ibiza meets Underground Romanian Sound at VDI | Vybe Department Ibiza on Sat 12 Sept, Ibiza. 1 act on the bill: Oliviu. Minimal and Minimal Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
-| Date | Sun, 13 Sept 2026 |
+| Date | Sat, 12 Sept 2026 |
 | Venue | VDI / Vybe Department Ibiza |
 | City | Ibiza |
 

@@ -1,6 +1,6 @@
 # Angie (CY)
 
-Angie (CY) is a Techno and Industrial artist with 2 upcoming club dates listed on soundcheck as of Wed, 9 Sept 2026, next at Grande Bounty, Athens on Sun, 13 Sept 2026.
+Angie (CY) is a Techno and Industrial artist with 2 upcoming club dates listed on soundcheck as of Thu, 10 Sept 2026, next at Grande Bounty, Athens on Sun, 13 Sept 2026.
 
 Angie (CY) is a techno and industrial artist tracked on soundcheck, with 5 sets logged across Athens, Berlin, Madrid and Sydney. Often billed alongside Ben Dust, Bleach and Calima. Next up: Grande Bounty, Athens on Sun 13 Sept.
 
@@ -21,4 +21,4 @@ Angie (CY) is a techno and industrial artist tracked on soundcheck, with 5 sets 
 
 Ben Dust, Bleach, Calima
 
-*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/angie-cy/)*
+*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/angie-cy/)*

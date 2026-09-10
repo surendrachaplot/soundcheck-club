@@ -1,6 +1,6 @@
 # Jerome Hill
 
-Jerome Hill is a Techno and Acid artist with 5 upcoming club dates listed on soundcheck as of Wed, 9 Sept 2026, next at M.O.T, London on Sat, 12 Sept 2026.
+Jerome Hill is a Techno and Acid artist with 5 upcoming club dates listed on soundcheck as of Thu, 10 Sept 2026, next at M.O.T, London on Sat, 12 Sept 2026.
 
 Jerome Hill is a techno and acid artist tracked on soundcheck, with 122 sets logged across Bangkok, Barcelona, Belfast and Berlin and 25 more. Often billed alongside Louise Plus One, Hughesee and Equinox (UK). Next up: M.O.T, London on Sat 12 Sept.
 
@@ -9,7 +9,7 @@ Jerome Hill is a techno and acid artist tracked on soundcheck, with 122 sets log
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 12 Sept 2026 | M.O.T | London |
-| Sat, 26 Sept 2026 | Bermondsey Triangle | London |
+| Sat, 26 Sept 2026 | M.O.T | London |
 | Sat, 3 Oct 2026 | M.O.T | London |
 | Sat, 24 Oct 2026 | Distillery | Leipzig |
 | Fri, 30 Oct 2026 | Lost Horizon | Bristol |
@@ -29,4 +29,4 @@ Jerome Hill is a techno and acid artist tracked on soundcheck, with 122 sets log
 
 Louise Plus One, Hughesee, Equinox (UK)
 
-*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jeromehill/)*
+*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jeromehill/)*

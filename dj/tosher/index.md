@@ -1,13 +1,14 @@
 # Tosher
 
-Tosher is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 9 Sept 2026, next at Argyle Arcade (Buchanan Street Entrance), Glasgow on Sat, 19 Sept 2026.
+Tosher is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 10 Sept 2026, next at La Cheetah Club, Glasgow on Tue, 15 Sept 2026.
 
-Tosher is a techno and house artist based in United Kingdom, tracked on soundcheck, with 8 sets logged across Dundee, Edinburgh and Glasgow. Often billed alongside Brody James, Big Miz and Macka. Next up: Argyle Arcade (Buchanan Street Entrance), Glasgow on Sat 19 Sept.
+Tosher is a house and techno artist based in United Kingdom, tracked on soundcheck, with 9 sets logged across Dundee, Edinburgh and Glasgow. Often billed alongside Brody James, Big Miz and Macka. Next up: La Cheetah Club, Glasgow on Tue 15 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Tue, 15 Sept 2026 | La Cheetah Club | Glasgow |
 | Sat, 19 Sept 2026 | Argyle Arcade (Buchanan Street Entrance) | Glasgow |
 
 ## Recently played
@@ -24,4 +25,4 @@ Tosher is a techno and house artist based in United Kingdom, tracked on soundche
 
 Brody James, Big Miz, Macka
 
-*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tosher/)*
+*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tosher/)*

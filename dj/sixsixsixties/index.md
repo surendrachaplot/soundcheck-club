@@ -1,14 +1,15 @@
 # Sixsixsixties
 
-Sixsixsixties is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 9 Sept 2026, next at UMI, Brussels on Sat, 19 Sept 2026.
+Sixsixsixties is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 10 Sept 2026, next at UMI, Brussels on Sat, 19 Sept 2026.
 
-Sixsixsixties is a house and techno artist based in Belgium, tracked on soundcheck, with 51 sets logged across Amsterdam, Antwerp, Berlin and Brussels and 5 more. Often billed alongside Fais Le Beau, Dana Kuehr and Paulo Sea. Next up: UMI, Brussels on Sat 19 Sept.
+Sixsixsixties is a house and techno artist based in Belgium, tracked on soundcheck, with 52 sets logged across Amsterdam, Antwerp, Berlin and Brussels and 5 more. Often billed alongside Fais Le Beau, Dana Kuehr and Paulo Sea. Next up: UMI, Brussels on Sat 19 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 19 Sept 2026 | UMI | Brussels |
+| Sat, 21 Nov 2026 | TBA - Brussels | Brussels |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Sixsixsixties is a house and techno artist based in Belgium, tracked on soundche
 
 Fais Le Beau, Dana Kuehr, Paulo Sea
 
-*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sixsixsixties/)*
+*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sixsixsixties/)*

@@ -1,6 +1,6 @@
 # Circadian
 
-Circadian is a Drum & Bass and Jungle artist with 6 upcoming club dates listed on soundcheck as of Wed, 9 Sept 2026, next at The Bongo Club, Edinburgh on Thu, 10 Sept 2026.
+Circadian is a Drum & Bass and Jungle artist with 6 upcoming club dates listed on soundcheck as of Thu, 10 Sept 2026, next at The Bongo Club, Edinburgh on Thu, 10 Sept 2026.
 
 Circadian is a drum & bass and jungle artist based in United Kingdom, tracked on soundcheck, with 41 sets logged across Adelaide, Amsterdam, Auckland and Brighton and 26 more. Often billed alongside K Motionz, Koven and Skantia. Next up: The Bongo Club, Edinburgh on Thu 10 Sept.
 
@@ -30,4 +30,4 @@ Circadian is a drum & bass and jungle artist based in United Kingdom, tracked on
 
 K Motionz, Koven, Skantia
 
-*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/circadian/)*
+*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/circadian/)*

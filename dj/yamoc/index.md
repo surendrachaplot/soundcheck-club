@@ -1,6 +1,6 @@
 # Yamoc
 
-Yamoc is a House and Progressive House artist with 1 upcoming club date listed on soundcheck as of Wed, 9 Sept 2026, next at Mtkvarze, Tbilisi on Sat, 12 Sept 2026.
+Yamoc is a House and Progressive House artist with 1 upcoming club date listed on soundcheck as of Thu, 10 Sept 2026, next at Mtkvarze, Tbilisi on Sat, 12 Sept 2026.
 
 Yamoc is a house and progressive house artist tracked on soundcheck, with 42 sets logged across Tbilisi. Often billed alongside Seqta, Tobako Tween and Toko k. Next up: Mtkvarze, Tbilisi on Sat 12 Sept.
 
@@ -25,4 +25,4 @@ Yamoc is a house and progressive house artist tracked on soundcheck, with 42 set
 
 Seqta, Tobako Tween, Toko k
 
-*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/yamoc/)*
+*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/yamoc/)*

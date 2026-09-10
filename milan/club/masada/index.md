@@ -1,8 +1,8 @@
 # Masada
 
-Masada is a music venue in Milan with 6 upcoming nights listed on soundcheck as of Wed, 9 Sept 2026; the next is "Wata Igarashi, J.Somoza // Acquario (Masada)" on Sat, 12 Sept 2026.
+Masada is a music venue in Milan with 7 upcoming nights listed on soundcheck as of Thu, 10 Sept 2026; the next is "Wata Igarashi, J.Somoza // Acquario (Masada)" on Sat, 12 Sept 2026.
 
-Masada is a music venue in Milan listed on soundcheck. 6 upcoming nights, with line-ups including Amotik, ATEQ, Chami and DVS1 and 2 more. Browse upcoming dates, start times and who's playing. Viale Carlo Espinasse, 41, 20156 Milan, Italy.
+Masada is a music venue in Milan listed on soundcheck. 7 upcoming nights, with line-ups including Amotik, ATEQ, Chami and Desyn and 2 more. Browse upcoming dates, start times and who's playing. Viale Carlo Espinasse, 41, 20156 Milan, Italy.
 
 ## What's on
 
@@ -13,10 +13,11 @@ Masada is a music venue in Milan listed on soundcheck. 6 upcoming nights, with l
 | Sat, 19 Sept 2026 | Closer Season Start Masada /// Amotik - Chami - Ikaar - Yamila | Amotik, Chami, Ikaar, Yamila |
 | Sun, 27 Sept 2026 | Pennyroyal > Masada > Dyed Soundorom | Dyed Soundorom, THE LUMENS |
 | Sat, 3 Oct 2026 | Konduku, Glannzmann, Nia+Mnl Oneiro // Acquario (Masada) | Konduku, Mnl Oneiro |
+| Sat, 10 Oct 2026 | Neon_Masada with Desyn // Jos | Desyn, Jos, Uabos, frieda (IT) |
 | Sat, 7 Nov 2026 | DVS1 House set // Acquario (Masada) | ATEQ, DVS1 |
 
 ## Address
 
 Viale Carlo Espinasse, 41, 20156 Milan, Italy, Milan
 
-*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/milan/club/masada/)*
+*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/milan/club/masada/)*

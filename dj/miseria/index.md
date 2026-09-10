@@ -1,6 +1,6 @@
 # MISERIA
 
-MISERIA is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Wed, 9 Sept 2026, next at Department 184, Milan on Fri, 25 Sept 2026.
+MISERIA is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Thu, 10 Sept 2026, next at Department 184, Milan on Fri, 25 Sept 2026.
 
 MISERIA is a techno and house artist based in Italy, tracked on soundcheck, with 19 sets logged across Milan. Often billed alongside Vittorio Di Mango, RIBLX and Diamantha. Next up: Department 184, Milan on Fri 25 Sept.
 
@@ -28,4 +28,4 @@ MISERIA is a techno and house artist based in Italy, tracked on soundcheck, with
 
 Vittorio Di Mango, RIBLX, Diamantha
 
-*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/miseria/)*
+*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/miseria/)*

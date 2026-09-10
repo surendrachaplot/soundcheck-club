@@ -1,8 +1,8 @@
 # Avalon Emerson
 
-Avalon Emerson is a Techno and House artist with 9 upcoming club dates listed on soundcheck as of Wed, 9 Sept 2026, next at Fort Mifflin, Philadelphia on Fri, 18 Sept 2026.
+Avalon Emerson is a Techno and House artist with 11 upcoming club dates listed on soundcheck as of Thu, 10 Sept 2026, next at Fort Mifflin, Philadelphia on Fri, 18 Sept 2026.
 
-Avalon Emerson is a techno and house artist tracked on soundcheck, with 177 sets logged across Amsterdam, Antwerp, Athens and Austin and 47 more. Often billed alongside Sedef Adasï, BASHKKA and Roi Perez. Next up: Fort Mifflin, Philadelphia on Fri 18 Sept.
+Avalon Emerson is a techno and house artist tracked on soundcheck, with 179 sets logged across Amsterdam, Antwerp, Athens and Austin and 47 more. Often billed alongside Sedef Adasï, BASHKKA and Roi Perez. Next up: Fort Mifflin, Philadelphia on Fri 18 Sept.
 
 ## Upcoming shows
 
@@ -13,10 +13,12 @@ Avalon Emerson is a techno and house artist tracked on soundcheck, with 177 sets
 | Sat, 3 Oct 2026 | Sidney Myer Music Bowl | Melbourne |
 | Sun, 4 Oct 2026 | Cockatoo Island | Sydney |
 | Fri, 23 Oct 2026 | Bajes Amsterdam | Amsterdam |
+| Sat, 24 Oct 2026 | Sub Club | Glasgow |
 | Fri, 30 Oct 2026 | The Great Northern | San Francisco/Oakland |
 | Fri, 30 Oct 2026 | NOS Event Center | Los Angeles |
 | Sat, 31 Oct 2026 | TBA - Downtown Los Angeles | Los Angeles |
 | Thu, 5 Nov 2026 | Music Hall of Williamsburg | New York City |
+| Sat, 21 Nov 2026 | TBA - Brussels | Brussels |
 
 ## Recently played
 
@@ -33,4 +35,4 @@ Avalon Emerson is a techno and house artist tracked on soundcheck, with 177 sets
 
 Sedef Adasï, BASHKKA, Roi Perez
 
-*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/avalonemerson/)*
+*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/avalonemerson/)*

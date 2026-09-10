@@ -1,6 +1,6 @@
 # TBA - ZUG / Podium 41
 
-TBA - ZUG / Podium 41 is a music venue in Zurich with 1 upcoming night listed on soundcheck as of Wed, 9 Sept 2026; the next is "Zuger PortS vol. 4 . DayDance" on Sat, 26 Sept 2026.
+TBA - ZUG / Podium 41 is a music venue in Zurich with 1 upcoming night listed on soundcheck as of Thu, 10 Sept 2026; the next is "Zuger PortS vol. 4 . DayDance / Free Entry " on Sat, 26 Sept 2026.
 
 TBA - ZUG / Podium 41 is a music venue in Zurich listed on soundcheck. 1 upcoming night. Browse upcoming dates, start times and who's playing.
 
@@ -8,6 +8,6 @@ TBA - ZUG / Podium 41 is a music venue in Zurich listed on soundcheck. 1 upcomin
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 26 Sept 2026 | Zuger PortS vol. 4 . DayDance |  |
+| Sat, 26 Sept 2026 | Zuger PortS vol. 4 . DayDance / Free Entry  |  |
 
-*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/zurich/club/tba-zug-podium-41/)*
+*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/zurich/club/tba-zug-podium-41/)*

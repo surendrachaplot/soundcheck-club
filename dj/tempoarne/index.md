@@ -1,14 +1,14 @@
 # Tempoarne
 
-Tempoarne is a Garage and Drum & Bass artist with 1 upcoming club date listed on soundcheck as of Wed, 9 Sept 2026, next at TBA - TITANIC est 1982, Vienna on Fri, 11 Sept 2026.
+Tempoarne is a Garage and Drum & Bass artist with 1 upcoming club date listed on soundcheck as of Thu, 10 Sept 2026, next at Club Titanic, Vienna on Fri, 11 Sept 2026.
 
-Tempoarne is a garage and drum & bass artist tracked on soundcheck, with 37 sets logged across Copenhagen and Vienna. Often billed alongside DJ Nap, Aston and louie32. Next up: TBA - TITANIC est 1982, Vienna on Fri 11 Sept.
+Tempoarne is a garage and drum & bass artist tracked on soundcheck, with 37 sets logged across Copenhagen and Vienna. Often billed alongside DJ Nap, Aston and louie32. Next up: Club Titanic, Vienna on Fri 11 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 11 Sept 2026 | TBA - TITANIC est 1982 | Vienna |
+| Fri, 11 Sept 2026 | Club Titanic | Vienna |
 
 ## Recently played
 
@@ -25,4 +25,4 @@ Tempoarne is a garage and drum & bass artist tracked on soundcheck, with 37 sets
 
 DJ Nap, Aston, louie32
 
-*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tempoarne/)*
+*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tempoarne/)*

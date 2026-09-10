@@ -1,14 +1,15 @@
 # DJ Westfa
 
-DJ Westfa is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 9 Sept 2026, next at export, Rotterdam on Sat, 12 Sept 2026.
+DJ Westfa is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 10 Sept 2026, next at export, Rotterdam on Sat, 12 Sept 2026.
 
-DJ Westfa is a house and techno artist based in Germany, tracked on soundcheck, with 69 sets logged across Amsterdam, Berlin, Leipzig and Lisbon and 3 more. Often billed alongside Wendel Sield, JAXX TMS and Garnett. Next up: export, Rotterdam on Sat 12 Sept.
+DJ Westfa is a house and techno artist based in Germany, tracked on soundcheck, with 70 sets logged across Amsterdam, Berlin, Leipzig and Lisbon and 3 more. Often billed alongside Wendel Sield, JAXX TMS and Garnett. Next up: export, Rotterdam on Sat 12 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 12 Sept 2026 | export | Rotterdam |
+| Fri, 16 Oct 2026 | Marmorbar | Berlin |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ DJ Westfa is a house and techno artist based in Germany, tracked on soundcheck, 
 
 Wendel Sield, JAXX TMS, Garnett
 
-*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djwestfa/)*
+*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djwestfa/)*

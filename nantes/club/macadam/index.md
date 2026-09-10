@@ -1,6 +1,6 @@
 # Macadam
 
-Macadam is a music venue in Nantes with 14 upcoming nights listed on soundcheck as of Wed, 9 Sept 2026; the next is "Macadam x Collectif 360 • Alura ~ Johan" on Thu, 10 Sept 2026.
+Macadam is a music venue in Nantes with 14 upcoming nights listed on soundcheck as of Thu, 10 Sept 2026; the next is "Macadam x Collectif 360 • Alura ~ Johan" on Thu, 10 Sept 2026.
 
 Macadam is a music venue in Nantes listed on soundcheck. 14 upcoming nights, with line-ups including A.Fruit, Alex Kassian, BAULSI and Belaria and 2 more. Browse upcoming dates, start times and who's playing. 17 rue Jules Launey 44100 Nantes.
 
@@ -23,4 +23,4 @@ Macadam is a music venue in Nantes listed on soundcheck. 14 upcoming nights, wit
 
 17 rue Jules Launey 44100 Nantes, Nantes
 
-*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/nantes/club/macadam/)*
+*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/nantes/club/macadam/)*

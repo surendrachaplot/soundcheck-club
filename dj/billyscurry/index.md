@@ -1,13 +1,14 @@
 # Billy Scurry
 
-Billy Scurry is a electronic artist with 1 upcoming club date listed on soundcheck as of Wed, 9 Sept 2026, next at Hang Dai Chinese, Dublin on Sat, 3 Oct 2026.
+Billy Scurry is a electronic artist with 2 upcoming club dates listed on soundcheck as of Thu, 10 Sept 2026, next at Commercial Rowing Club Dublin, Dublin on Sat, 12 Sept 2026.
 
-Billy Scurry is an electronic artist based in Ireland, tracked on soundcheck, with 3 sets logged across Dublin. Often billed alongside Arveene, Justin Strauss and Mike Simonetti. Next up: Hang Dai Chinese, Dublin on Sat 3 Oct.
+Billy Scurry is an electronic artist based in Ireland, tracked on soundcheck, with 4 sets logged across Dublin. Often billed alongside Arveene, Alba (2) and Donal Dineen. Next up: Commercial Rowing Club Dublin, Dublin on Sat 12 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 12 Sept 2026 | Commercial Rowing Club Dublin | Dublin |
 | Sat, 3 Oct 2026 | Hang Dai Chinese | Dublin |
 
 ## Recently played
@@ -17,6 +18,6 @@ Billy Scurry is an electronic artist based in Ireland, tracked on soundcheck, wi
 
 ## Shares bills with
 
-Arveene, Justin Strauss, Mike Simonetti
+Arveene, Alba (2), Donal Dineen
 
-*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/billyscurry/)*
+*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/billyscurry/)*

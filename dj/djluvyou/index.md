@@ -1,6 +1,6 @@
 # DJ Luv You
 
-DJ Luv You is a House and Progressive House artist with 4 upcoming club dates listed on soundcheck as of Wed, 9 Sept 2026, next at Tender, Melbourne on Thu, 17 Sept 2026.
+DJ Luv You is a House and Progressive House artist with 4 upcoming club dates listed on soundcheck as of Thu, 10 Sept 2026, next at Tender, Melbourne on Thu, 17 Sept 2026.
 
 DJ Luv You is a house and progressive house artist tracked on soundcheck, with 89 sets logged across Amsterdam, Antwerp, Auckland and Berlin and 13 more. Often billed alongside Hannah D, Tina Disco and Baby G. Next up: Tender, Melbourne on Thu 17 Sept.
 
@@ -28,4 +28,4 @@ DJ Luv You is a house and progressive house artist tracked on soundcheck, with 8
 
 Hannah D, Tina Disco, Baby G
 
-*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djluvyou/)*
+*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djluvyou/)*

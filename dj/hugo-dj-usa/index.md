@@ -1,0 +1,28 @@
+# Hugo (US)
+
+Hugo (US) is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 10 Sept 2026, next at feedbk, New York City on Fri, 18 Sept 2026.
+
+Hugo (US) is a house and techno artist tracked on soundcheck, with 22 sets logged across Boston, Losangeles, Newyorkcity and Washingtondc. Often billed alongside Taiga, Burchan Acar and Rama NYC. Next up: feedbk, Newyorkcity on Fri 18 Sept.
+
+## Upcoming shows
+
+| Date | Venue | City |
+| --- | --- | --- |
+| Fri, 18 Sept 2026 | feedbk | New York City |
+
+## Recently played
+
+- Satellite Gallery, New York City — Mon, 7 Sept 2026
+- Roof Terrace BK, New York City — Sun, 23 Aug 2026
+- Apollo Studio, New York City — Fri, 14 Aug 2026
+- Mansions, New York City — Sat, 11 Jul 2026
+- Apollo Studio, New York City — Sat, 20 Jun 2026
+- Mansions, New York City — Sat, 16 May 2026
+- MAD Radio NYC, New York City — Thu, 23 Apr 2026
+- Apollo Studio, New York City — Sat, 7 Mar 2026
+
+## Shares bills with
+
+Taiga, Burchan Acar, Rama NYC
+
+*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/hugo-dj-usa/)*

@@ -1,6 +1,6 @@
 # Buggery Grips
 
-Buggery Grips is a Bass and Garage artist with 1 upcoming club date listed on soundcheck as of Wed, 9 Sept 2026, next at Gut Level, Sheffield on Sat, 26 Sept 2026.
+Buggery Grips is a Bass and Garage artist with 1 upcoming club date listed on soundcheck as of Thu, 10 Sept 2026, next at Gut Level, Sheffield on Sat, 26 Sept 2026.
 
 Buggery Grips is a bass and garage artist tracked on soundcheck, with 44 sets logged across Berlin, Bristol, London and Manchester and 1 more. Often billed alongside Samantha, Brown Excellence and DJ Stingray 313. Next up: Gut Level, Sheffield on Sat 26 Sept.
 
@@ -25,4 +25,4 @@ Buggery Grips is a bass and garage artist tracked on soundcheck, with 44 sets lo
 
 Samantha, Brown Excellence, DJ Stingray 313
 
-*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/buggerygrips/)*
+*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/buggerygrips/)*

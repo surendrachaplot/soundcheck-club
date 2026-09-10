@@ -1,6 +1,6 @@
 # Beate Invites /// BSTHP 8 Jahre at Beate Uwe
 
-Beate Invites /// BSTHP 8 Jahre at Beate Uwe on Sat 19 Sept, Berlin. 3 acts on the bill: ganz oder gar nicht, hörmi and justUS. Preview the line-up and save it on soundcheck.
+Beate Invites /// BSTHP 8 Jahre at Beate Uwe on Sat 19 Sept, Berlin. 4 acts on the bill: ganz oder gar nicht, hörmi, justUS and Wi5dom. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -13,5 +13,6 @@ Beate Invites /// BSTHP 8 Jahre at Beate Uwe on Sat 19 Sept, Berlin. 3 acts on t
 - ganz oder gar nicht
 - hörmi
 - justUS
+- Wi5dom
 
 *Source: [soundcheck](https://soundcheck.club/e/2517980-beate-invites-bsthp-8-jahre-at-beate-uwe/)*

@@ -1,6 +1,6 @@
 # Ex Macello
 
-Ex Macello is a music venue in Milan with 4 upcoming nights listed on soundcheck as of Wed, 9 Sept 2026; the next is "Le Cannibale Ex Macello - L'ultima festa" on Fri, 11 Sept 2026.
+Ex Macello is a music venue in Milan with 4 upcoming nights listed on soundcheck as of Thu, 10 Sept 2026; the next is "Le Cannibale Ex Macello - L'ultima festa" on Fri, 11 Sept 2026.
 
 Ex Macello is a music venue in Milan listed on soundcheck. 4 upcoming nights, with line-ups including Andrewww, Clover, Creamy and Futuro Tropicale and 2 more. Browse upcoming dates, start times and who's playing. Viale Molise, 62, 20137 Milano MI.
 
@@ -17,4 +17,4 @@ Ex Macello is a music venue in Milan listed on soundcheck. 4 upcoming nights, wi
 
 Viale Molise, 62, 20137 Milano MI, Milan
 
-*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/milan/club/ex-macello/)*
+*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/milan/club/ex-macello/)*

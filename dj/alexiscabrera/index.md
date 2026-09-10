@@ -1,6 +1,6 @@
 # Alexis Cabrera
 
-Alexis Cabrera is a Minimal and Minimal Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 9 Sept 2026, next at Rhythm, Toronto on Sat, 26 Sept 2026.
+Alexis Cabrera is a Minimal and Minimal Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 10 Sept 2026, next at Rhythm, Toronto on Sat, 26 Sept 2026.
 
 Alexis Cabrera is a minimal and minimal techno artist based in Argentina, tracked on soundcheck, with 31 sets logged across Barcelona, Berlin, Brussels and Bucharest and 8 more. Often billed alongside Ignacio Morales, Dubfire and Jonny Rock. Next up: Rhythm, Toronto on Sat 26 Sept.
 
@@ -25,4 +25,4 @@ Alexis Cabrera is a minimal and minimal techno artist based in Argentina, tracke
 
 Ignacio Morales, Dubfire, Jonny Rock
 
-*Updated Wed, 9 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/alexiscabrera/)*
+*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/alexiscabrera/)*
