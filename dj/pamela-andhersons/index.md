@@ -1,6 +1,6 @@
 # Pamela_ and her sons
 
-Pamela_ and her sons is a Experimental and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 10 Sept 2026, next at TBA, Philadelphia on Fri, 11 Sept 2026.
+Pamela_ and her sons is a Experimental and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 11 Sept 2026, next at TBA, Philadelphia on Fri, 11 Sept 2026.
 
 Pamela_ and her sons are an experimental and techno duo based in United States of America, tracked on soundcheck, with 12 sets logged across Chicago, Newyorkcity, Philadelphia and Washingtondc. Often billed alongside 30000AD, Kiernan Laveaux and MIRA MIRA. Next up: TBA, Philadelphia on Fri 11 Sept.
 
@@ -25,4 +25,4 @@ Pamela_ and her sons are an experimental and techno duo based in United States o
 
 30000AD, Kiernan Laveaux, MIRA MIRA
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/pamela-andhersons/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/pamela-andhersons/)*

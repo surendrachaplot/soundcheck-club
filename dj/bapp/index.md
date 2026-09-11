@@ -1,6 +1,6 @@
 # BAPP
 
-BAPP is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Thu, 10 Sept 2026, next at D-EDGE, Sao Paulo on Fri, 11 Sept 2026.
+BAPP is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Fri, 11 Sept 2026, next at D-EDGE, Sao Paulo on Fri, 11 Sept 2026.
 
 BAPP is a tech house and house artist tracked on soundcheck, with 10 sets logged across Saopaulo. Often billed alongside Adnan Sharif, Spuri and Cesare vs Disorder. Next up: D-EDGE, Saopaulo on Fri 11 Sept.
 
@@ -25,4 +25,4 @@ BAPP is a tech house and house artist tracked on soundcheck, with 10 sets logged
 
 Adnan Sharif, Spuri, Cesare vs Disorder
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bapp/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bapp/)*

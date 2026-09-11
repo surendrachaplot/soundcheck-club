@@ -1,8 +1,8 @@
 # Kilomètre25
 
-Kilomètre25 is a music venue in Paris with 12 upcoming nights listed on soundcheck as of Thu, 10 Sept 2026; the next is "Pygments: Airod, Angèle Cressin, Acidpach, YENKOV, Terminal Trax" on Fri, 11 Sept 2026.
+Kilomètre25 is a music venue in Paris with 13 upcoming nights listed on soundcheck as of Fri, 11 Sept 2026; the next is "Pygments: Airod, Angèle Cressin, Acidpach, YENKOV, Terminal Trax" on Fri, 11 Sept 2026.
 
-Kilomètre25 is a music venue in Paris listed on soundcheck. 12 upcoming nights, with line-ups including NYRA (DE), Airod, ANDATA and Angie (FR) and 2 more. Browse upcoming dates, start times and who's playing. 8 Boulevard MacDonald 75019 Paris.
+Kilomètre25 is a music venue in Paris listed on soundcheck. 13 upcoming nights, with line-ups including NYRA (DE), Airod, ANDATA and Angie (FR) and 2 more. Browse upcoming dates, start times and who's playing. 8 Boulevard MacDonald 75019 Paris.
 
 ## What's on
 
@@ -23,4 +23,4 @@ Kilomètre25 is a music venue in Paris listed on soundcheck. 12 upcoming nights,
 
 8 Boulevard MacDonald 75019 Paris, Paris
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/paris/club/kilom-tre25/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/paris/club/kilom-tre25/)*

@@ -1,6 +1,6 @@
 # Andromedik
 
-Andromedik is a Drum & Bass and Bass artist with 3 upcoming club dates listed on soundcheck as of Thu, 10 Sept 2026, next at 1015 Folsom, San Francisco/Oakland on Fri, 11 Sept 2026.
+Andromedik is a Drum & Bass and Bass artist with 3 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at 1015 Folsom, San Francisco/Oakland on Fri, 11 Sept 2026.
 
 Andromedik is a drum & bass and bass artist tracked on soundcheck, with 21 sets logged across Amsterdam, Antwerp, Brisbane and Brussels and 11 more. Often billed alongside Jacidorex, Ava Eva and BAVR. Next up: 1015 Folsom, Sanfrancisco on Fri 11 Sept.
 
@@ -27,4 +27,4 @@ Andromedik is a drum & bass and bass artist tracked on soundcheck, with 21 sets 
 
 Jacidorex, Ava Eva, BAVR
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/andromedik/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/andromedik/)*

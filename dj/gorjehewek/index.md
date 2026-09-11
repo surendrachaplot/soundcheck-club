@@ -1,13 +1,14 @@
 # Gorje Hewek
 
-Gorje Hewek is a Deep House and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 10 Sept 2026, next at TBA - Private Location, San Diego on Sun, 13 Sept 2026.
+Gorje Hewek is a Deep House and House artist with 3 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at Refuge, New York City on Fri, 11 Sept 2026.
 
-Gorje Hewek is a deep house and house artist tracked on soundcheck, with 45 sets logged across Berlin, Bucharest, Budapest and Buenosaires and 15 more. Often billed alongside Lee Burridge, Igor Marijuan and Jonathan Rosa. Next up: TBA - Private Location, Sandiego on Sun 13 Sept.
+Gorje Hewek is a deep house and house artist tracked on soundcheck, with 46 sets logged across Berlin, Bucharest, Budapest and Buenosaires and 15 more. Often billed alongside Lee Burridge, Igor Marijuan and Jonathan Rosa. Next up: Refuge, Newyorkcity on Fri 11 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 11 Sept 2026 | Refuge | New York City |
 | Sun, 13 Sept 2026 | TBA - Private Location | San Diego |
 | Sun, 13 Sept 2026 | TBA - Private Location | San Diego |
 
@@ -26,4 +27,4 @@ Gorje Hewek is a deep house and house artist tracked on soundcheck, with 45 sets
 
 Lee Burridge, Igor Marijuan, Jonathan Rosa
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/gorjehewek/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/gorjehewek/)*

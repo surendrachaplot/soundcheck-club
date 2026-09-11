@@ -1,6 +1,6 @@
 # Mieko Suzuki
 
-Mieko Suzuki is a Experimental and Techno artist with 3 upcoming club dates listed on soundcheck as of Thu, 10 Sept 2026, next at Import Export, Munich on Fri, 11 Sept 2026.
+Mieko Suzuki is a Experimental and Techno artist with 3 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at Import Export, Munich on Fri, 11 Sept 2026.
 
 Mieko Suzuki is an experimental and techno artist based in Germany, tracked on soundcheck, with 54 sets logged across Barcelona, Berlin, Glasgow and Istanbul and 3 more. Often billed alongside Electric Indigo, Ale Hop and CONTAGIOUS. Next up: Import Export, Munich on Fri 11 Sept.
 
@@ -27,4 +27,4 @@ Mieko Suzuki is an experimental and techno artist based in Germany, tracked on s
 
 Electric Indigo, Ale Hop, CONTAGIOUS
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/miekosuzuki/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/miekosuzuki/)*

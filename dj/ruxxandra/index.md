@@ -1,6 +1,6 @@
 # RuxXandra
 
-RuxXandra is a Afro House and Deep House artist with 1 upcoming club date listed on soundcheck as of Thu, 10 Sept 2026, next at Azul Rooftop Barceloneta, Barcelona on Fri, 11 Sept 2026.
+RuxXandra is a Afro House and Deep House artist with 1 upcoming club date listed on soundcheck as of Fri, 11 Sept 2026, next at Azul Rooftop Barceloneta, Barcelona on Fri, 11 Sept 2026.
 
 RuxXandra is an afro house and deep house artist tracked on soundcheck, with 39 sets logged across Barcelona. Often billed alongside Cabana, Andrea Love and Alice Youngling. Next up: Azul Rooftop Barceloneta, Barcelona on Fri 11 Sept.
 
@@ -25,4 +25,4 @@ RuxXandra is an afro house and deep house artist tracked on soundcheck, with 39 
 
 Cabana, Andrea Love, Alice Youngling
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ruxxandra/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ruxxandra/)*

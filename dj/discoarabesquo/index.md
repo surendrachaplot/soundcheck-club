@@ -1,6 +1,6 @@
 # Disco Arabesquo
 
-Disco Arabesquo is a Disco and Club artist with 1 upcoming club date listed on soundcheck as of Thu, 10 Sept 2026, next at Moezeum, Rotterdam on Fri, 25 Sept 2026.
+Disco Arabesquo is a Disco and Club artist with 1 upcoming club date listed on soundcheck as of Fri, 11 Sept 2026, next at Moezeum, Rotterdam on Fri, 25 Sept 2026.
 
 Disco Arabesquo is a disco and club artist based in Netherlands, tracked on soundcheck, with 11 sets logged across Amsterdam, Barcelona, Dublin and Rotterdam. Often billed alongside Moving Still, Arabian Panther and Cascou. Next up: Moezeum, Rotterdam on Fri 25 Sept.
 
@@ -25,4 +25,4 @@ Disco Arabesquo is a disco and club artist based in Netherlands, tracked on soun
 
 Moving Still, Arabian Panther, Cascou
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/discoarabesquo/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/discoarabesquo/)*

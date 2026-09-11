@@ -1,6 +1,6 @@
 # Alex Farell
 
-Alex Farell is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Thu, 10 Sept 2026, next at Electric Brixton, London on Sat, 21 Nov 2026.
+Alex Farell is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at Electric Brixton, London on Sat, 21 Nov 2026.
 
 Alex Farell is a techno and trance artist tracked on soundcheck, with 118 sets logged across Aberdeen, Amsterdam, Barcelona and Belfast and 36 more. Often billed alongside SIKOTI, Azyr and Leaha. Next up: Electric Brixton, London on Sat 21 Nov.
 
@@ -26,4 +26,4 @@ Alex Farell is a techno and trance artist tracked on soundcheck, with 118 sets l
 
 SIKOTI, Azyr, Leaha
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/alexfarell/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/alexfarell/)*

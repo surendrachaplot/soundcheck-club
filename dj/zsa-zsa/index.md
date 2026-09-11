@@ -1,6 +1,6 @@
 # Zsa-Zsa
 
-Zsa-Zsa is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Thu, 10 Sept 2026, next at Goldener Reiter, Munich on Sat, 12 Sept 2026.
+Zsa-Zsa is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at Goldener Reiter, Munich on Sat, 12 Sept 2026.
 
 Zsa-Zsa is a house and disco artist tracked on soundcheck, with 46 sets logged across Amsterdam, Berlin, Frankfurt and Lisbon and 2 more. Often billed alongside julës jay, Kapote and Pauly. Next up: Goldener Reiter, Munich on Sat 12 Sept.
 
@@ -26,4 +26,4 @@ Zsa-Zsa is a house and disco artist tracked on soundcheck, with 46 sets logged a
 
 julës jay, Kapote, Pauly
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/zsa-zsa/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/zsa-zsa/)*

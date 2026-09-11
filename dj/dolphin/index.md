@@ -1,6 +1,6 @@
 # DOLPHIN
 
-DOLPHIN is a Hardcore and Breakcore artist with 1 upcoming club date listed on soundcheck as of Thu, 10 Sept 2026, next at Teranoma, Osaka on Sat, 12 Sept 2026.
+DOLPHIN is a Hardcore and Breakcore artist with 1 upcoming club date listed on soundcheck as of Fri, 11 Sept 2026, next at Teranoma, Osaka on Sat, 12 Sept 2026.
 
 DOLPHIN is a hardcore and breakcore artist based in United Kingdom, tracked on soundcheck, with 11 sets logged across Amsterdam, Bristol, Glasgow and London and 4 more. Often billed alongside Thrasher, Charlie B and DJ SS. Next up: Teranoma, Osaka on Sat 12 Sept.
 
@@ -25,4 +25,4 @@ DOLPHIN is a hardcore and breakcore artist based in United Kingdom, tracked on s
 
 Thrasher, Charlie B, DJ SS
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dolphin/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dolphin/)*

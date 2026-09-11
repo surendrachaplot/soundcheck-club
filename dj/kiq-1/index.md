@@ -1,6 +1,6 @@
 # KIQ (1)
 
-KIQ (1) is a Deep House and Electronica artist with 1 upcoming club date listed on soundcheck as of Thu, 10 Sept 2026, next at Galeria Marzia, Barcelona on Sat, 12 Sept 2026.
+KIQ (1) is a Deep House and Electronica artist with 1 upcoming club date listed on soundcheck as of Fri, 11 Sept 2026, next at Galeria Marzia, Barcelona on Sat, 12 Sept 2026.
 
 KIQ (1) is a deep house and electronica artist tracked on soundcheck, with 14 sets logged across Barcelona. Often billed alongside delta syn, Civaro and AJ Reyes. Next up: Galeria Marzia, Barcelona on Sat 12 Sept.
 
@@ -25,4 +25,4 @@ KIQ (1) is a deep house and electronica artist tracked on soundcheck, with 14 se
 
 delta syn, Civaro, AJ Reyes
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kiq-1/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kiq-1/)*

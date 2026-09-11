@@ -1,6 +1,6 @@
 # C.LYYA
 
-C.LYYA is a House and Electro artist with 1 upcoming club date listed on soundcheck as of Thu, 10 Sept 2026, next at La Java, Paris on Fri, 25 Sept 2026.
+C.LYYA is a House and Electro artist with 1 upcoming club date listed on soundcheck as of Fri, 11 Sept 2026, next at La Java, Paris on Fri, 25 Sept 2026.
 
 C.LYYA is a house and electro artist based in France, tracked on soundcheck, with 19 sets logged across Paris. Often billed alongside Flabaire, GGGG and Mad Rey. Next up: La Java, Paris on Fri 25 Sept.
 
@@ -25,4 +25,4 @@ C.LYYA is a house and electro artist based in France, tracked on soundcheck, wit
 
 Flabaire, GGGG, Mad Rey
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/c.lyya/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/c.lyya/)*

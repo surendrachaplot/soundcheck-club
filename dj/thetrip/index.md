@@ -1,6 +1,6 @@
 # The Trip
 
-The Trip is a House and Techno artist with 6 upcoming club dates listed on soundcheck as of Thu, 10 Sept 2026, next at The Cause, London on Sat, 12 Sept 2026.
+The Trip is a House and Techno artist with 6 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at The Cause, London on Sat, 12 Sept 2026.
 
 The Trip is a house and techno artist tracked on soundcheck, with 84 sets logged across Amsterdam, Antwerp, Barcelona and Berlin and 21 more. Often billed alongside Phill de Janeiro, Sam Alfred and Benji King. Next up: The Cause, London on Sat 12 Sept.
 
@@ -30,4 +30,4 @@ The Trip is a house and techno artist tracked on soundcheck, with 84 sets logged
 
 Phill de Janeiro, Sam Alfred, Benji King
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/thetrip/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/thetrip/)*

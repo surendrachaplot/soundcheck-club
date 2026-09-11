@@ -1,6 +1,6 @@
 # Calvin Murta
 
-Calvin Murta is a electronic artist with 1 upcoming club date listed on soundcheck as of Thu, 10 Sept 2026, next at Cobalt Studios, Newcastle on Sat, 26 Sept 2026.
+Calvin Murta is a electronic artist with 1 upcoming club date listed on soundcheck as of Fri, 11 Sept 2026, next at Cobalt Studios, Newcastle on Sat, 26 Sept 2026.
 
 Calvin Murta is an electronic artist tracked on soundcheck, with 10 sets logged across Newcastle. Often billed alongside BATESY, Ben Caldwell and Diz Jockey. Next up: Cobalt Studios, Newcastle on Sat 26 Sept.
 
@@ -25,4 +25,4 @@ Calvin Murta is an electronic artist tracked on soundcheck, with 10 sets logged 
 
 BATESY, Ben Caldwell, Diz Jockey
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/calvinmurta/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/calvinmurta/)*

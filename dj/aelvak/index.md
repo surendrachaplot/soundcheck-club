@@ -1,6 +1,6 @@
 # AELVA K
 
-AELVA K is a Techno and Tech House artist with 2 upcoming club dates listed on soundcheck as of Thu, 10 Sept 2026, next at Die Rakete, Nürnberg on Fri, 18 Sept 2026.
+AELVA K is a Techno and Tech House artist with 2 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at Die Rakete, Nürnberg on Fri, 18 Sept 2026.
 
 AELVA K is a techno and tech house artist based in Sweden, tracked on soundcheck, with 40 sets logged across Amsterdam, Barcelona, Berlin and Copenhagen and 4 more. Often billed alongside Aja Gulris, Fynutzu and Amudima. Next up: Die Rakete, Nurnberg on Fri 18 Sept.
 
@@ -26,4 +26,4 @@ AELVA K is a techno and tech house artist based in Sweden, tracked on soundcheck
 
 Aja Gulris, Fynutzu, Amudima
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/aelvak/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/aelvak/)*

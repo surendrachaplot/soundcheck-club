@@ -1,6 +1,6 @@
 # SENDA FATAL
 
-SENDA FATAL is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Thu, 10 Sept 2026, next at Heave Festival, Madrid on Fri, 25 Sept 2026.
+SENDA FATAL is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Fri, 11 Sept 2026, next at Heave Festival, Madrid on Fri, 25 Sept 2026.
 
 SENDA FATAL is a techno and tech house artist based in Spain, tracked on soundcheck, with 6 sets logged across Madrid. Often billed alongside Nachine, Axis Mundi and BOUNCE BRIGADE. Next up: Heave Festival, Madrid on Fri 25 Sept.
 
@@ -22,4 +22,4 @@ SENDA FATAL is a techno and tech house artist based in Spain, tracked on soundch
 
 Nachine, Axis Mundi, BOUNCE BRIGADE
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sendafatal/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sendafatal/)*

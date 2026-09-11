@@ -1,6 +1,6 @@
 # SOTA
 
-SOTA is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Thu, 10 Sept 2026, next at Bourke Street Courtyard, Melbourne on Sat, 12 Sept 2026.
+SOTA is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at Bourke Street Courtyard, Melbourne on Sat, 12 Sept 2026.
 
 SOTA is a house and techno artist tracked on soundcheck, with 119 sets logged across Antwerp, Auckland, Brisbane and Kyoto and 10 more. Often billed alongside Sota Shimada, EUREKA and Hayato. Next up: Bourke Street Courtyard, Melbourne on Sat 12 Sept.
 
@@ -29,4 +29,4 @@ SOTA is a house and techno artist tracked on soundcheck, with 119 sets logged ac
 
 Sota Shimada, EUREKA, Hayato
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sota/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sota/)*

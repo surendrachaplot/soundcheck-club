@@ -1,6 +1,6 @@
 # Pas Berlin
 
-Pas Berlin is a music venue in Berlin with 1 upcoming night listed on soundcheck as of Thu, 10 Sept 2026; the next is "Atalaya" on Sat, 17 Oct 2026.
+Pas Berlin is a music venue in Berlin with 1 upcoming night listed on soundcheck as of Fri, 11 Sept 2026; the next is "Atalaya" on Sat, 17 Oct 2026.
 
 Pas Berlin is a music venue in Berlin listed on soundcheck. 1 upcoming night, with line-ups including Ika (GE), So-Fi and Usherenko. Browse upcoming dates, start times and who's playing. First Floor, Hinterhof Aufgang II, Kaiserin-Augusta-Allee 101, 10553 Berlin, Germany.
 
@@ -14,4 +14,4 @@ Pas Berlin is a music venue in Berlin listed on soundcheck. 1 upcoming night, wi
 
 First Floor, Hinterhof Aufgang II, Kaiserin-Augusta-Allee 101, 10553 Berlin, Germany, Berlin
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/pas-berlin/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/pas-berlin/)*

@@ -1,6 +1,6 @@
 # FUKHED
 
-FUKHED is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Thu, 10 Sept 2026, next at Second Story Studios, Melbourne on Fri, 25 Sept 2026.
+FUKHED is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at Second Story Studios, Melbourne on Fri, 25 Sept 2026.
 
 FUKHED is a techno and house artist tracked on soundcheck, with 58 sets logged across Amsterdam, Bangkok, Berlin and Brisbane and 9 more. Often billed alongside SPFDJ, cera and dameeeela. Next up: Second Story Studios, Melbourne on Fri 25 Sept.
 
@@ -27,4 +27,4 @@ FUKHED is a techno and house artist tracked on soundcheck, with 58 sets logged a
 
 SPFDJ, cera, dameeeela
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/fukhed/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/fukhed/)*

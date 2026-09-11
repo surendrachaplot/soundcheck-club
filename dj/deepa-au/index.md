@@ -1,8 +1,8 @@
 # Deepa
 
-Deepa is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 10 Sept 2026, next at Jumbi, London on Sat, 12 Sept 2026.
+Deepa is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at Jumbi, London on Sat, 12 Sept 2026.
 
-Deepa is a house and techno artist based in Australia, tracked on soundcheck, with 116 sets logged across Berlin, Brisbane, London and Melbourne and 1 more. Often billed alongside Ciara, Rakish and Baschoe. Next up: Jumbi, London on Sat 12 Sept.
+Deepa is a house and techno artist based in Australia, tracked on soundcheck, with 117 sets logged across Berlin, Brisbane, London and Melbourne and 1 more. Often billed alongside Ciara, Rakish and Baschoe. Next up: Jumbi, London on Sat 12 Sept.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Deepa is a house and techno artist based in Australia, tracked on soundcheck, wi
 | --- | --- | --- |
 | Sat, 12 Sept 2026 | Jumbi | London |
 | Sat, 19 Sept 2026 | KREUZWERK | Berlin |
+| Sat, 7 Nov 2026 | Fraser Park | Sydney |
 
 ## Recently played
 
@@ -26,4 +27,4 @@ Deepa is a house and techno artist based in Australia, tracked on soundcheck, wi
 
 Ciara, Rakish, Baschoe
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/deepa-au/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/deepa-au/)*

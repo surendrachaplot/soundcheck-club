@@ -1,8 +1,8 @@
 # Timmy Regisford
 
-Timmy Regisford is a House and Deep House artist with 3 upcoming club dates listed on soundcheck as of Thu, 10 Sept 2026, next at The Evelyn Hotel, Melbourne on Fri, 11 Sept 2026.
+Timmy Regisford is a House and Deep House artist with 4 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at The Evelyn Hotel, Melbourne on Fri, 11 Sept 2026.
 
-Timmy Regisford is a house and deep house artist tracked on soundcheck, with 60 sets logged across Athens, Auckland, Chicago and Detroit and 9 more. Often billed alongside Mark Francis, merlin bobb and Akylla. Next up: The Evelyn Hotel, Melbourne on Fri 11 Sept.
+Timmy Regisford is a house and deep house artist tracked on soundcheck, with 61 sets logged across Athens, Auckland, Chicago and Detroit and 9 more. Often billed alongside Mark Francis, merlin bobb and Akylla. Next up: The Evelyn Hotel, Melbourne on Fri 11 Sept.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ Timmy Regisford is a house and deep house artist tracked on soundcheck, with 60 
 | Fri, 11 Sept 2026 | The Evelyn Hotel | Melbourne |
 | Sat, 12 Sept 2026 | Ticcle | Hobart |
 | Sat, 19 Sept 2026 | The Mothership | Auckland |
+| Sun, 27 Sept 2026 | public records | New York City |
 
 ## Recently played
 
@@ -27,4 +28,4 @@ Timmy Regisford is a house and deep house artist tracked on soundcheck, with 60 
 
 Mark Francis, merlin bobb, Akylla
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/timmyregisford/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/timmyregisford/)*

@@ -1,6 +1,6 @@
 # Club Malasaña
 
-Club Malasaña is a music venue in Madrid with 9 upcoming nights listed on soundcheck as of Thu, 10 Sept 2026; the next is "Roots con AGELESS y Martín Balladares" on Fri, 11 Sept 2026.
+Club Malasaña is a music venue in Madrid with 9 upcoming nights listed on soundcheck as of Fri, 11 Sept 2026; the next is "Roots con AGELESS y Martín Balladares" on Fri, 11 Sept 2026.
 
 Club Malasaña is a music venue in Madrid listed on soundcheck. 9 upcoming nights, with line-ups including 1Night Only, AGELESS, David Cabrera and Dirty Channels and 2 more. Browse upcoming dates, start times and who's playing. Calle de San Vicente Ferrer, 23, 28004 Madrid, Spain.
 
@@ -22,4 +22,4 @@ Club Malasaña is a music venue in Madrid listed on soundcheck. 9 upcoming night
 
 Calle de San Vicente Ferrer, 23, 28004 Madrid, Spain, Madrid
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/club-malasa-a/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/club-malasa-a/)*

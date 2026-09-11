@@ -1,6 +1,6 @@
 # 30000AD
 
-30000AD is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 10 Sept 2026, next at TBA, Philadelphia on Fri, 11 Sept 2026.
+30000AD is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 11 Sept 2026, next at TBA, Philadelphia on Fri, 11 Sept 2026.
 
 30000AD is a techno and house artist based in United States of America, tracked on soundcheck, with 18 sets logged across Chicago, Newyorkcity and Philadelphia. Often billed alongside Pamela_ and her sons, Kiernan Laveaux and Rage.inald. Next up: TBA, Philadelphia on Fri 11 Sept.
 
@@ -25,4 +25,4 @@
 
 Pamela_ and her sons, Kiernan Laveaux, Rage.inald
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/30000ad/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/30000ad/)*

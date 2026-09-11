@@ -1,6 +1,6 @@
 # DJ MIYU
 
-DJ MIYU is a Drum & Bass and Bass artist with 2 upcoming club dates listed on soundcheck as of Thu, 10 Sept 2026, next at Dogenzaka Church, Tokyo on Sat, 19 Sept 2026.
+DJ MIYU is a Drum & Bass and Bass artist with 2 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at Dogenzaka Church, Tokyo on Sat, 19 Sept 2026.
 
 DJ MIYU is a drum & bass and bass artist tracked on soundcheck, with 27 sets logged across Melbourne and Tokyo. Often billed alongside ReFuCafé, SN_Yeah and yuitty. Next up: Dogenzaka Church, Tokyo on Sat 19 Sept.
 
@@ -26,4 +26,4 @@ DJ MIYU is a drum & bass and bass artist tracked on soundcheck, with 27 sets log
 
 ReFuCafé, SN_Yeah, yuitty
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djmiyu/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djmiyu/)*

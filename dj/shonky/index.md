@@ -1,8 +1,8 @@
 # Shonky
 
-Shonky is a House and Tech House artist with 9 upcoming club dates listed on soundcheck as of Thu, 10 Sept 2026, next at Ouseburn Garden, Newcastle on Fri, 11 Sept 2026.
+Shonky is a House and Tech House artist with 10 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at Ouseburn Garden, Newcastle on Fri, 11 Sept 2026.
 
-Shonky is a house and tech house artist tracked on soundcheck, with 223 sets logged across Amsterdam, Antwerp, Athens and Austin and 57 more. Often billed alongside Dyed Soundorom, Dan Ghenacia and Apollonia. Next up: Ouseburn Garden, Newcastle on Fri 11 Sept.
+Shonky is a house and tech house artist tracked on soundcheck, with 224 sets logged across Amsterdam, Antwerp, Athens and Austin and 57 more. Often billed alongside Dyed Soundorom, Dan Ghenacia and Apollonia. Next up: Ouseburn Garden, Newcastle on Fri 11 Sept.
 
 ## Upcoming shows
 
@@ -15,6 +15,7 @@ Shonky is a house and tech house artist tracked on soundcheck, with 223 sets log
 | Fri, 9 Oct 2026 | DURO | Milan |
 | Fri, 9 Oct 2026 | DURO | Milan |
 | Sat, 10 Oct 2026 | FOLD | London |
+| Fri, 23 Oct 2026 | Blast Galaxy | Amsterdam |
 | Sat, 7 Nov 2026 | fabric | London |
 | Fri, 27 Nov 2026 | INPUT High Fidelity Dance Club | Barcelona |
 
@@ -33,4 +34,4 @@ Shonky is a house and tech house artist tracked on soundcheck, with 223 sets log
 
 Dyed Soundorom, Dan Ghenacia, Apollonia
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/shonky/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/shonky/)*

@@ -1,6 +1,6 @@
 # Gostoso
 
-Gostoso is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 10 Sept 2026, next at Paname sur Seine, Paris on Sun, 20 Sept 2026.
+Gostoso is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 11 Sept 2026, next at Paname sur Seine, Paris on Sun, 20 Sept 2026.
 
 Gostoso is a techno and house artist tracked on soundcheck, with 32 sets logged across Amsterdam, Lisbon, Madrid and Paris and 2 more. Often billed alongside DJ Gostoso, a51d_with_f and PunkFunkLove. Next up: Paname sur Seine, Paris on Sun 20 Sept.
 
@@ -25,4 +25,4 @@ Gostoso is a techno and house artist tracked on soundcheck, with 32 sets logged 
 
 DJ Gostoso, a51d_with_f, PunkFunkLove
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/gostoso/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/gostoso/)*

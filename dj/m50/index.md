@@ -1,8 +1,8 @@
 # m50
 
-m50 is a Acid and Ambient artist with 10 upcoming club dates listed on soundcheck as of Thu, 10 Sept 2026, next at TBA, Chicago on Fri, 11 Sept 2026.
+m50 is a Acid and Ambient artist with 18 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at TBA, Chicago on Fri, 11 Sept 2026.
 
-m50 is an acid and ambient artist tracked on soundcheck, with 416 sets logged across Berlin, Chicago, Cologne and Dusseldorf and 4 more. Often billed alongside DJ Lgcc, Conoley Ospovat and r.ss. Next up: TBA, Chicago on Fri 11 Sept.
+m50 is an acid and ambient artist tracked on soundcheck, with 424 sets logged across Berlin, Chicago, Cologne and Dusseldorf and 4 more. Often billed alongside DJ Lgcc, Conoley Ospovat and r.ss. Next up: TBA, Chicago on Fri 11 Sept.
 
 ## Upcoming shows
 
@@ -18,6 +18,8 @@ m50 is an acid and ambient artist tracked on soundcheck, with 416 sets logged ac
 | Sun, 4 Oct 2026 | TBA | Chicago |
 | Fri, 9 Oct 2026 | TBA | Chicago |
 | Sun, 11 Oct 2026 | TBA | Chicago |
+| Fri, 16 Oct 2026 | TBA | Chicago |
+| Sun, 18 Oct 2026 | TBA | Chicago |
 
 ## Recently played
 
@@ -34,4 +36,4 @@ m50 is an acid and ambient artist tracked on soundcheck, with 416 sets logged ac
 
 DJ Lgcc, Conoley Ospovat, r.ss
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/m50/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/m50/)*

@@ -1,14 +1,14 @@
 # coldchainlogistics
 
-coldchainlogistics is a Bass and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 10 Sept 2026, next at TBA - outdoors, Montreal on Fri, 18 Sept 2026.
+coldchainlogistics is a Bass and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 11 Sept 2026, next at TBA - outdoors, Montreal on Sat, 19 Sept 2026.
 
-coldchainlogistics is a bass and techno artist tracked on soundcheck, with 18 sets logged across Montreal and Toronto. Often billed alongside Wencat, Kiju and Goblin Can Dance. Next up: TBA - outdoors, Montreal on Fri 18 Sept.
+coldchainlogistics is a bass and techno artist tracked on soundcheck, with 18 sets logged across Montreal and Toronto. Often billed alongside Wencat, Kiju and Goblin Can Dance. Next up: TBA - outdoors, Montreal on Sat 19 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 18 Sept 2026 | TBA - outdoors | Montreal |
+| Sat, 19 Sept 2026 | TBA - outdoors | Montreal |
 
 ## Recently played
 
@@ -25,4 +25,4 @@ coldchainlogistics is a bass and techno artist tracked on soundcheck, with 18 se
 
 Wencat, Kiju, Goblin Can Dance
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/coldchainlogistics/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/coldchainlogistics/)*

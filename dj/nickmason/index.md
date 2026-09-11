@@ -1,6 +1,6 @@
 # Nick Mason
 
-Nick Mason is a Progressive House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 10 Sept 2026, next at TBA - Passion Cat Catamaran Ibiza - San Antonio, Ibiza on Sat, 19 Sept 2026.
+Nick Mason is a Progressive House and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at TBA - Passion Cat Catamaran Ibiza - San Antonio, Ibiza on Sat, 19 Sept 2026.
 
 Nick Mason is a progressive house and techno artist based in Greece, tracked on soundcheck, with 8 sets logged across Amsterdam, Antwerp, Athens and Ibiza. Often billed alongside SurfingDJs, Major K and Jana Vitiligo. Next up: TBA - Passion Cat Catamaran Ibiza - San Antonio, Ibiza on Sat 19 Sept.
 
@@ -24,4 +24,4 @@ Nick Mason is a progressive house and techno artist based in Greece, tracked on 
 
 SurfingDJs, Major K, Jana Vitiligo
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nickmason/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nickmason/)*

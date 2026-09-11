@@ -1,6 +1,6 @@
 # SEKTOR69
 
-SEKTOR69 is a Techno and Trance artist with 8 upcoming club dates listed on soundcheck as of Thu, 10 Sept 2026, next at Das Werk, Vienna on Fri, 11 Sept 2026.
+SEKTOR69 is a Techno and Trance artist with 8 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at Das Werk, Vienna on Fri, 11 Sept 2026.
 
 SEKTOR69 is a techno and trance artist based in Germany, tracked on soundcheck, with 59 sets logged across Berlin, Cologne, Hamburg and Vienna. Often billed alongside Kø:lab, Anuuk and Cara Elizabeth. Next up: Das Werk, Vienna on Fri 11 Sept.
 
@@ -32,4 +32,4 @@ SEKTOR69 is a techno and trance artist based in Germany, tracked on soundcheck, 
 
 Kø:lab, Anuuk, Cara Elizabeth
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sektor69/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sektor69/)*

@@ -1,6 +1,6 @@
 # Adria (ES)
 
-Adria (ES) is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Thu, 10 Sept 2026, next at feedbk, New York City on Sat, 12 Sept 2026.
+Adria (ES) is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at feedbk, New York City on Sat, 12 Sept 2026.
 
 Adria (ES) is a house and techno artist tracked on soundcheck, with 136 sets logged across Barcelona, Bucharest, Ibiza and Lisbon and 3 more. Often billed alongside Pau Rosés, Vince Void and Alex Garcia (2). Next up: feedbk, Newyorkcity on Sat 12 Sept.
 
@@ -27,4 +27,4 @@ Adria (ES) is a house and techno artist tracked on soundcheck, with 136 sets log
 
 Pau Rosés, Vince Void, Alex Garcia (2)
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/adria-es/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/adria-es/)*

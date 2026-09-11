@@ -1,6 +1,6 @@
 # Sofozor
 
-Sofozor is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 10 Sept 2026, next at UTOPIA / DYSTOPIA, Tokyo on Sat, 24 Oct 2026.
+Sofozor is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 11 Sept 2026, next at UTOPIA / DYSTOPIA, Tokyo on Sat, 24 Oct 2026.
 
 Sofozor is a house and techno artist based in Japan, tracked on soundcheck, with 29 sets logged across Tokyo. Often billed alongside SIGNAL (JP), Cheshire Yums and Kotatsu. Next up: UTOPIA / DYSTOPIA, Tokyo on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ Sofozor is a house and techno artist based in Japan, tracked on soundcheck, with
 
 SIGNAL (JP), Cheshire Yums, Kotatsu
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sofozor/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sofozor/)*

@@ -1,6 +1,6 @@
 # Ultrathem
 
-Ultrathem is a Techno and Acid artist with 2 upcoming club dates listed on soundcheck as of Thu, 10 Sept 2026, next at The Ground at Club Space, Miami on Fri, 18 Sept 2026.
+Ultrathem is a Techno and Acid artist with 2 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at The Ground at Club Space, Miami on Fri, 18 Sept 2026.
 
 Ultrathem is a techno and acid artist tracked on soundcheck, with 102 sets logged across Austin, Berlin, Boston and Chicago and 8 more. Often billed alongside Winter Wrong, Robyn Sin Love and SDRV. Next up: The Ground at Club Space, Miami on Fri 18 Sept.
 
@@ -26,4 +26,4 @@ Ultrathem is a techno and acid artist tracked on soundcheck, with 102 sets logge
 
 Winter Wrong, Robyn Sin Love, SDRV
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ultrathem/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ultrathem/)*

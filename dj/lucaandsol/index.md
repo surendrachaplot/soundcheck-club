@@ -1,14 +1,14 @@
 # Luca and Sol
 
-Luca and Sol is a House and Minimal Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 10 Sept 2026, next at TBA - On the day of the event, London on Sat, 26 Sept 2026.
+Luca and Sol is a House and Minimal Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 11 Sept 2026, next at TBA - The Goose, London on Sat, 26 Sept 2026.
 
-Luca and Sol are a house and minimal techno duo tracked on soundcheck, with 38 sets logged across Ibiza, Leeds, London and Manchester. Often billed alongside IGGY, A.Wild and Kearun. Next up: TBA - On the day of the event, London on Sat 26 Sept.
+Luca and Sol are a house and minimal techno duo tracked on soundcheck, with 38 sets logged across Ibiza, Leeds, London and Manchester. Often billed alongside IGGY, A.Wild and Kearun. Next up: TBA - The Goose, London on Sat 26 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 26 Sept 2026 | TBA - On the day of the event | London |
+| Sat, 26 Sept 2026 | TBA - The Goose | London |
 
 ## Recently played
 
@@ -25,4 +25,4 @@ Luca and Sol are a house and minimal techno duo tracked on soundcheck, with 38 s
 
 IGGY, A.Wild, Kearun
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lucaandsol/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lucaandsol/)*

@@ -1,14 +1,13 @@
 # D-EDGE
 
-D-EDGE is a music venue in Sao Paulo with 12 upcoming nights listed on soundcheck as of Thu, 10 Sept 2026; the next is "MOVING D-EDGE SP pres.: IANNI. SHELDON. SYNTHEMESC" on Thu, 10 Sept 2026.
+D-EDGE is a music venue in Sao Paulo with 11 upcoming nights listed on soundcheck as of Fri, 11 Sept 2026; the next is "FREAK CHIC D-EDGE SP pres.: P1: Miguel Bastida (ES). BAPP. Drunky Daniels" on Fri, 11 Sept 2026.
 
-D-EDGE is a music venue in Saopaulo listed on soundcheck. 12 upcoming nights, with line-ups including Acid Asian, Adnan Sharif, BALDACCI and BAPP and 2 more. Browse upcoming dates, start times and who's playing. Av. Auro Soares de Moura Andrade, 141. 01155-040 São Paulo , Brazil.
+D-EDGE is a music venue in Saopaulo listed on soundcheck. 11 upcoming nights, with line-ups including Acid Asian, Adnan Sharif, BALDACCI and BAPP and 2 more. Browse upcoming dates, start times and who's playing. Av. Auro Soares de Moura Andrade, 141. 01155-040 São Paulo , Brazil.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Thu, 10 Sept 2026 | MOVING D-EDGE SP pres.: IANNI. SHELDON. SYNTHEMESC |  |
 | Fri, 11 Sept 2026 | FREAK CHIC D-EDGE SP pres.: P1: Miguel Bastida (ES). BAPP. Drunky Daniels | BAPP, Drunky Daniels, Miguel Bastida |
 | Sat, 12 Sept 2026 | NAVE D-EDGE SP pres.: P1: ADRIA b2b MALU.CAROLA b2b CAROL FAVERO. TAROBA / P2: BARJA (LONG SET) |  |
 | Sun, 13 Sept 2026 | SUPERAFTER D-EDGE SP pres.: P2: DUE. Transvegana // LOUNGE: GAS | Transvegana |
@@ -18,9 +17,10 @@ D-EDGE is a music venue in Saopaulo listed on soundcheck. 12 upcoming nights, wi
 | Sun, 20 Sept 2026 | SUPERAFTER D-EDGE SP pres.: P2: DESSANTI. JOTA // LOUNGE: Gabi Fischer b2b MILKY | DESSANTI, Gabi Fischer |
 | Thu, 24 Sept 2026 | MOVING D-EDGE SP pres.: P2: BLEMMES. JOVIQUE. MERIVA |  |
 | Fri, 25 Sept 2026 | FREAK CHIC D-EDGE SP pres.: P1: Cour T. Pete Tong (UK). SARAH STENZEL | Cour T., Pete Tong |
+| Sat, 26 Sept 2026 | NAVE D-EDGE SP pres.: P1: Acid Asian. Bervon. HNGT. MOONPHAZES // P2: ANA CAOLI. BIOMA DJS.  | Acid Asian, Bervon, Gromma, HNGT, Ingrid |
 
 ## Address
 
 Av. Auro Soares de Moura Andrade, 141. 01155-040 São Paulo , Brazil, Sao Paulo
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/saopaulo/club/d-edge/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/saopaulo/club/d-edge/)*

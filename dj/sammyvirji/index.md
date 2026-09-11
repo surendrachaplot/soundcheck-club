@@ -1,6 +1,6 @@
 # Sammy Virji
 
-Sammy Virji is a Garage and House artist with 5 upcoming club dates listed on soundcheck as of Thu, 10 Sept 2026, next at Palmerstown House Estate, Dublin on Fri, 11 Sept 2026.
+Sammy Virji is a Garage and House artist with 5 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at Palmerstown House Estate, Dublin on Fri, 11 Sept 2026.
 
 Sammy Virji is a garage and house artist tracked on soundcheck, with 125 sets logged across Amsterdam, Antwerp, Austin and Barcelona and 40 more. Often billed alongside Oppidan, Interplanetary Criminal and salute. Next up: Palmerstown House Estate, Dublin on Fri 11 Sept.
 
@@ -29,4 +29,4 @@ Sammy Virji is a garage and house artist tracked on soundcheck, with 125 sets lo
 
 Oppidan, Interplanetary Criminal, salute
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sammyvirji/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sammyvirji/)*

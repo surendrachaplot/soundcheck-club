@@ -1,18 +1,21 @@
 # Chris Liebing
 
-Chris Liebing is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Thu, 10 Sept 2026, next at Refuge, New York City on Fri, 18 Sept 2026.
+Chris Liebing is a Techno and House artist with 8 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at Refuge, New York City on Fri, 18 Sept 2026.
 
-Chris Liebing is a techno and house artist tracked on soundcheck, with 180 sets logged across Amsterdam, Antwerp, Athens and Austin and 53 more. Often billed alongside Speedy J, Daria Kolosova and FJAAK. Next up: Refuge, Newyorkcity on Fri 18 Sept.
+Chris Liebing is a techno and house artist tracked on soundcheck, with 183 sets logged across Amsterdam, Antwerp, Athens and Austin and 53 more. Often billed alongside Speedy J, Daria Kolosova and FJAAK. Next up: Refuge, Newyorkcity on Fri 18 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 18 Sept 2026 | Refuge | New York City |
+| Thu, 1 Oct 2026 | Les Enfants Brillants | Barcelona |
 | Sun, 11 Oct 2026 | Fabrik | Madrid |
 | Sat, 17 Oct 2026 | RSO.BERLIN | Berlin |
 | Sat, 24 Oct 2026 | Mediahaven - Minervahaven | Amsterdam |
+| Sat, 7 Nov 2026 | TBA | Vancouver |
 | Fri, 13 Nov 2026 | The Concourse Project | Austin |
+| Sat, 21 Nov 2026 | Martiniplaza | Amsterdam |
 
 ## Recently played
 
@@ -29,4 +32,4 @@ Chris Liebing is a techno and house artist tracked on soundcheck, with 180 sets 
 
 Speedy J, Daria Kolosova, FJAAK
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/chrisliebing/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/chrisliebing/)*

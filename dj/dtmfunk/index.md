@@ -1,6 +1,6 @@
 # DTM Funk
 
-DTM Funk is a House and Funk / Soul artist with 2 upcoming club dates listed on soundcheck as of Thu, 10 Sept 2026, next at Phono Lake, Amsterdam on Sat, 12 Sept 2026.
+DTM Funk is a House and Funk / Soul artist with 2 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at Phono Lake, Amsterdam on Sat, 12 Sept 2026.
 
 DTM Funk is a house and funk / soul artist tracked on soundcheck, with 85 sets logged across Amsterdam, Antwerp, Bali and Berlin and 11 more. Often billed alongside AliA, Errol and Lefto Early Bird. Next up: Phono Lake, Amsterdam on Sat 12 Sept.
 
@@ -26,4 +26,4 @@ DTM Funk is a house and funk / soul artist tracked on soundcheck, with 85 sets l
 
 AliA, Errol, Lefto Early Bird
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dtmfunk/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dtmfunk/)*

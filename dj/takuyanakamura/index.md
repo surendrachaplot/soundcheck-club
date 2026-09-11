@@ -1,8 +1,8 @@
 # Takuya Nakamura
 
-Takuya Nakamura is a Jungle and Jazz artist with 14 upcoming club dates listed on soundcheck as of Thu, 10 Sept 2026, next at 29th Street Ballroom, Austin on Sat, 12 Sept 2026.
+Takuya Nakamura is a Jungle and Jazz artist with 18 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at 29th Street Ballroom, Austin on Sat, 12 Sept 2026.
 
-Takuya Nakamura is a jungle and jazz artist tracked on soundcheck, with 108 sets logged across Amsterdam, Austin, Bangkok and Barcelona and 40 more. Often billed alongside rmzi, Aanandi and Doc Scott. Next up: 29th Street Ballroom, Austin on Sat 12 Sept.
+Takuya Nakamura is a jungle and jazz artist tracked on soundcheck, with 112 sets logged across Amsterdam, Austin, Bangkok and Barcelona and 40 more. Often billed alongside rmzi, Aanandi and Doc Scott. Next up: 29th Street Ballroom, Austin on Sat 12 Sept.
 
 ## Upcoming shows
 
@@ -36,4 +36,4 @@ Takuya Nakamura is a jungle and jazz artist tracked on soundcheck, with 108 sets
 
 rmzi, Aanandi, Doc Scott
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/takuyanakamura/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/takuyanakamura/)*

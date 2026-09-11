@@ -1,6 +1,6 @@
 # Jake Fitz
 
-Jake Fitz is a Electronica and House artist with 4 upcoming club dates listed on soundcheck as of Thu, 10 Sept 2026, next at Pygmalion, Dublin on Fri, 25 Sept 2026.
+Jake Fitz is a Electronica and House artist with 4 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at Pygmalion, Dublin on Fri, 25 Sept 2026.
 
 Jake Fitz is an electronica and house artist based in Ireland, tracked on soundcheck, with 7 sets logged across Belfast and Dublin. Often billed alongside ALISHA, DIEBYVEG and Enzo Siragusa. Next up: Pygmalion, Dublin on Fri 25 Sept.
 
@@ -23,4 +23,4 @@ Jake Fitz is an electronica and house artist based in Ireland, tracked on soundc
 
 ALISHA, DIEBYVEG, Enzo Siragusa
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jakefitz/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jakefitz/)*

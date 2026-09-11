@@ -1,6 +1,6 @@
 # ki:ke
 
-ki:ke is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 10 Sept 2026, next at Urban Spree, Berlin on Fri, 11 Sept 2026.
+ki:ke is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 11 Sept 2026, next at Urban Spree, Berlin on Fri, 11 Sept 2026.
 
 ki:ke is a house and techno artist based in Spain, tracked on soundcheck, with 54 sets logged across Barcelona, Berlin, Ibiza and London. Often billed alongside GRETA (2), Demofather and Sergi (ES). Next up: Urban Spree, Berlin on Fri 11 Sept.
 
@@ -25,4 +25,4 @@ ki:ke is a house and techno artist based in Spain, tracked on soundcheck, with 5
 
 GRETA (2), Demofather, Sergi (ES)
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kike/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kike/)*

@@ -1,8 +1,8 @@
 # Avsluta
 
-Avsluta is a Ambient and Techno artist with 3 upcoming club dates listed on soundcheck as of Thu, 10 Sept 2026, next at TBA - Casa Androna, Barcelona on Sun, 20 Sept 2026.
+Avsluta is a Techno and Ambient artist with 5 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at TBA - Casa Androna, Barcelona on Sun, 20 Sept 2026.
 
-Avsluta is an ambient and techno artist tracked on soundcheck, with 60 sets logged across Amsterdam, Barcelona, Berlin and Brussels and 7 more. Often billed alongside Alicia (UK), Christian Duka and Luther Vine. Next up: TBA - Casa Androna, Barcelona on Sun 20 Sept.
+Avsluta is a techno and ambient artist tracked on soundcheck, with 62 sets logged across Amsterdam, Barcelona, Berlin and Brussels and 7 more. Often billed alongside Alicia (UK), Christian Duka and Luther Vine. Next up: TBA - Casa Androna, Barcelona on Sun 20 Sept.
 
 ## Upcoming shows
 
@@ -10,7 +10,9 @@ Avsluta is an ambient and techno artist tracked on soundcheck, with 60 sets logg
 | --- | --- | --- |
 | Sun, 20 Sept 2026 | TBA - Casa Androna | Barcelona |
 | Fri, 25 Sept 2026 | Om Being | London |
+| Thu, 22 Oct 2026 | Ingang | Amsterdam |
 | Fri, 23 Oct 2026 | De Thomaskerk | Amsterdam |
+| Sat, 7 Nov 2026 | FOLD | London |
 
 ## Recently played
 
@@ -27,4 +29,4 @@ Avsluta is an ambient and techno artist tracked on soundcheck, with 60 sets logg
 
 Alicia (UK), Christian Duka, Luther Vine
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/avsluta/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/avsluta/)*

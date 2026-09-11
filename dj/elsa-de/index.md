@@ -1,6 +1,6 @@
 # ELSA (DE)
 
-ELSA (DE) is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 10 Sept 2026, next at Sunny High, Stuttgart on Sat, 12 Sept 2026.
+ELSA (DE) is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at Sunny High, Stuttgart on Sat, 12 Sept 2026.
 
 ELSA (DE) is a techno and house artist based in Germany, tracked on soundcheck, with 7 sets logged across Berlin, Frankfurt and Stuttgart. Often billed alongside BA’AL, Connor Wall and Cynthia Matisse. Next up: Sunny High, Stuttgart on Sat 12 Sept.
 
@@ -23,4 +23,4 @@ ELSA (DE) is a techno and house artist based in Germany, tracked on soundcheck, 
 
 BA’AL, Connor Wall, Cynthia Matisse
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/elsa-de/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/elsa-de/)*

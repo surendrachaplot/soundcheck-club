@@ -1,6 +1,6 @@
 # TBA - Pç. Luis Camões (B. Alto) 1200-243 Lisbon, Portugal
 
-TBA - Pç. Luis Camões (B. Alto) 1200-243 Lisbon, Portugal is a music venue in Lisbon with 2 upcoming nights listed on soundcheck as of Thu, 10 Sept 2026; the next is "No Cap, Best Night in Lisbon — Pub Crawl & VIP Club Entry" on Fri, 11 Sept 2026.
+TBA - Pç. Luis Camões (B. Alto) 1200-243 Lisbon, Portugal is a music venue in Lisbon with 2 upcoming nights listed on soundcheck as of Fri, 11 Sept 2026; the next is "No Cap, Best Night in Lisbon — Pub Crawl & VIP Club Entry" on Fri, 11 Sept 2026.
 
 TBA - Pç. Luis Camões (B. Alto) 1200-243 Lisbon, Portugal is a music venue in Lisbon listed on soundcheck. 2 upcoming nights. Browse upcoming dates, start times and who's playing.
 
@@ -11,4 +11,4 @@ TBA - Pç. Luis Camões (B. Alto) 1200-243 Lisbon, Portugal is a music venue in 
 | Fri, 11 Sept 2026 | No Cap, Best Night in Lisbon — Pub Crawl & VIP Club Entry |  |
 | Sat, 31 Oct 2026 | Halloween Haunts: Lisbon Pub Crawl Experience |  |
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/lisbon/club/tba-p-luis-cam-es-b-alto-1200-243-lisbon-portugal/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/lisbon/club/tba-p-luis-cam-es-b-alto-1200-243-lisbon-portugal/)*

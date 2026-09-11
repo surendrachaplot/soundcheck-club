@@ -1,6 +1,6 @@
 # Rumours Only x Lotus Labs ADE Showcase at Oliva
 
-Rumours Only x Lotus Labs ADE Showcase at Oliva on Thu 22 Oct, Amsterdam. 9 acts on the bill: AATMA, Ae:ther, Bullzeye and Darius Syrossian and 5 more. Progressive House and Tech House. Preview the line-up and save it on soundcheck.
+Rumours Only x Lotus Labs ADE Showcase at Oliva on Thu 22 Oct, Amsterdam. 10 acts on the bill: AATMA, Ae:ther, ANSWER (IN) and Bullzeye and 6 more. Progressive House and Tech House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -12,6 +12,7 @@ Rumours Only x Lotus Labs ADE Showcase at Oliva on Thu 22 Oct, Amsterdam. 9 acts
 
 - AATMA
 - Ae:ther
+- ANSWER (IN)
 - Bullzeye
 - Darius Syrossian
 - Iglesias

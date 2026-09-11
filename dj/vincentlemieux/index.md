@@ -1,6 +1,6 @@
 # Vincent Lemieux
 
-Vincent Lemieux is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 10 Sept 2026, next at Sans Soleil, Montreal on Fri, 11 Sept 2026.
+Vincent Lemieux is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at Sans Soleil, Montreal on Fri, 11 Sept 2026.
 
 Vincent Lemieux is a house and techno artist tracked on soundcheck, with 53 sets logged across Berlin, Boston, Detroit and Istanbul and 9 more. Often billed alongside Flabbergast, Guillaume & The Coutu Dumonts and Ohm Hourani. Next up: Sans Soleil, Montreal on Fri 11 Sept.
 
@@ -26,4 +26,4 @@ Vincent Lemieux is a house and techno artist tracked on soundcheck, with 53 sets
 
 Flabbergast, Guillaume & The Coutu Dumonts, Ohm Hourani
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/vincentlemieux/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/vincentlemieux/)*

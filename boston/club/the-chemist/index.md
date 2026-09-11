@@ -1,6 +1,6 @@
 # The Chemist
 
-The Chemist is a music venue in Boston with 4 upcoming nights listed on soundcheck as of Thu, 10 Sept 2026; the next is "Boston Wax Club Pop Up" on Fri, 11 Sept 2026.
+The Chemist is a music venue in Boston with 4 upcoming nights listed on soundcheck as of Fri, 11 Sept 2026; the next is "Boston Wax Club Pop Up" on Fri, 11 Sept 2026.
 
 The Chemist is a music venue in Boston listed on soundcheck. 4 upcoming nights, with line-ups including Anthony Pappa, Brian Gravel, Chelita and DIANA and 2 more. Browse upcoming dates, start times and who's playing. 109 High St, Boston, MA, 02110.
 
@@ -17,4 +17,4 @@ The Chemist is a music venue in Boston listed on soundcheck. 4 upcoming nights, 
 
 109 High St, Boston, MA, 02110, Boston
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/boston/club/the-chemist/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/boston/club/the-chemist/)*

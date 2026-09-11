@@ -1,6 +1,6 @@
 # Kem Kem
 
-Kem Kem is a House and Afro House artist with 1 upcoming club date listed on soundcheck as of Thu, 10 Sept 2026, next at 83 Rivington Street, London on Thu, 17 Sept 2026.
+Kem Kem is a House and Afro House artist with 1 upcoming club date listed on soundcheck as of Fri, 11 Sept 2026, next at 83 Rivington Street, London on Thu, 17 Sept 2026.
 
 Kem Kem is a house and afro house artist tracked on soundcheck, with 11 sets logged across London, Newyorkcity and Toronto. Often billed alongside Bok Bok, James Massiah and Sonic Griot. Next up: 83 Rivington Street, London on Thu 17 Sept.
 
@@ -25,4 +25,4 @@ Kem Kem is a house and afro house artist tracked on soundcheck, with 11 sets log
 
 Bok Bok, James Massiah, Sonic Griot
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kemkem/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kemkem/)*

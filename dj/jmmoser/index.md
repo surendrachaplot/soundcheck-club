@@ -1,6 +1,6 @@
 # JM Moser
 
-JM Moser is a Techno and Club artist with 2 upcoming club dates listed on soundcheck as of Thu, 10 Sept 2026, next at Renate, Berlin on Fri, 11 Sept 2026.
+JM Moser is a Techno and Club artist with 2 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at Renate, Berlin on Fri, 11 Sept 2026.
 
 JM Moser is a techno and club artist tracked on soundcheck, with 13 sets logged across Berlin, London and Newyorkcity. Often billed alongside DJ Fart in the Club, Bell Towers and David Fogarty. Next up: Renate, Berlin on Fri 11 Sept.
 
@@ -26,4 +26,4 @@ JM Moser is a techno and club artist tracked on soundcheck, with 13 sets logged 
 
 DJ Fart in the Club, Bell Towers, David Fogarty
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jmmoser/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jmmoser/)*

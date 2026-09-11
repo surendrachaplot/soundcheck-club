@@ -1,6 +1,6 @@
 # Crate Brewery
 
-Crate Brewery is a music venue in London with 4 upcoming nights listed on soundcheck as of Thu, 10 Sept 2026; the next is "Canal Works - Free Day Party" on Sat, 12 Sept 2026.
+Crate Brewery is a music venue in London with 4 upcoming nights listed on soundcheck as of Fri, 11 Sept 2026; the next is "Canal Works - Free Day Party" on Sat, 12 Sept 2026.
 
 Crate Brewery is a music venue in London listed on soundcheck. 4 upcoming nights, with line-ups including Bella Claxton, calan, Checketts and Grace Sands and 2 more. Browse upcoming dates, start times and who's playing. Unit 7; Queens Yard; Hackney Wick; London E9 5EN.
 
@@ -17,4 +17,4 @@ Crate Brewery is a music venue in London listed on soundcheck. 4 upcoming nights
 
 Unit 7; Queens Yard; Hackney Wick; London E9 5EN, London
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/crate-brewery/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/crate-brewery/)*

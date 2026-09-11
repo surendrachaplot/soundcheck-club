@@ -1,6 +1,6 @@
 # Rrose
 
-Rrose is a Techno and Experimental artist with 9 upcoming club dates listed on soundcheck as of Thu, 10 Sept 2026, next at TBA -    Kodamanomori Camp Ground, Nagano, Tokyo on Fri, 11 Sept 2026.
+Rrose is a Techno and Experimental artist with 9 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at TBA -    Kodamanomori Camp Ground, Nagano, Tokyo on Fri, 11 Sept 2026.
 
 Rrose is a techno and experimental artist tracked on soundcheck, with 139 sets logged across Amsterdam, Athens, Barcelona and Basel and 44 more. Often billed alongside DJ Nobu, Wata Igarashi and Polygonia. Next up: TBA -    Kodamanomori Camp Ground, Nagano, Tokyo on Fri 11 Sept.
 
@@ -9,12 +9,12 @@ Rrose is a techno and experimental artist tracked on soundcheck, with 139 sets l
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 11 Sept 2026 | TBA -    Kodamanomori Camp Ground, Nagano | Tokyo |
-| Sat, 12 Sept 2026 | Razzmatazz | Barcelona |
 | Fri, 25 Sept 2026 | TBA - Los Angeles | Los Angeles |
 | Fri, 25 Sept 2026 | TBA - Los Angeles | Los Angeles |
 | Wed, 30 Sept 2026 | Konzerthaus Berlin | Berlin |
 | Sat, 3 Oct 2026 | TBA - Brooklyn | New York City |
 | Sat, 10 Oct 2026 | SMUT Athens | Athens |
+| Sun, 11 Oct 2026 | Razzmatazz | Barcelona |
 | Thu, 22 Oct 2026 | Levenslang Amsterdam | Amsterdam |
 | Sat, 24 Oct 2026 | RADION | Amsterdam |
 
@@ -33,4 +33,4 @@ Rrose is a techno and experimental artist tracked on soundcheck, with 139 sets l
 
 DJ Nobu, Wata Igarashi, Polygonia
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/rrose/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/rrose/)*

@@ -1,6 +1,6 @@
 # dozie (uk)
 
-dozie (uk) is a House and Electronica artist with 4 upcoming club dates listed on soundcheck as of Thu, 10 Sept 2026, next at ark (Melb), Melbourne on Sat, 12 Sept 2026.
+dozie (uk) is a House and Electronica artist with 4 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at ark (Melb), Melbourne on Sat, 12 Sept 2026.
 
 dozie (uk) is a house and electronica artist based in United Kingdom, tracked on soundcheck, with 25 sets logged across Melbourne. Often billed alongside Slumdog, Love, Jess and DJ Optimism. Next up: ark (Melb), Melbourne on Sat 12 Sept.
 
@@ -28,4 +28,4 @@ dozie (uk) is a house and electronica artist based in United Kingdom, tracked on
 
 Slumdog, Love, Jess, DJ Optimism
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dozieuk/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dozieuk/)*

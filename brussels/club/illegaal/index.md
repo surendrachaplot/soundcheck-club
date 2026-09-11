@@ -1,8 +1,8 @@
 # Illegaal
 
-Illegaal is a music venue in Brussels with 9 upcoming nights listed on soundcheck as of Thu, 10 Sept 2026; the next is "Illegaal FEESTJE" on Sat, 12 Sept 2026.
+Illegaal is a music venue in Brussels with 10 upcoming nights listed on soundcheck as of Fri, 11 Sept 2026; the next is "Illegaal FEESTJE" on Sat, 12 Sept 2026.
 
-Illegaal is a music venue in Brussels listed on soundcheck. 9 upcoming nights, with line-ups including ATARAXY, bemira, Bo Meng and FatherFlow (hybrid live) and 2 more. Browse upcoming dates, start times and who's playing. Rue Bollinckx 300, 1190 Forest.
+Illegaal is a music venue in Brussels listed on soundcheck. 10 upcoming nights, with line-ups including ATARAXY, bemira, Bo Meng and FatherFlow (hybrid live) and 2 more. Browse upcoming dates, start times and who's playing. Rue Bollinckx 300, 1190 Forest.
 
 ## What's on
 
@@ -14,6 +14,7 @@ Illegaal is a music venue in Brussels listed on soundcheck. 9 upcoming nights, w
 | Sun, 20 Sept 2026 | Groove Lab // DAY PARTY |  |
 | Fri, 25 Sept 2026 | GROOVE  LAB  //  TAKE OVER | ATARAXY, FatherFlow (hybrid live), Holiness, Hysope, bemira |
 | Sat, 26 Sept 2026 | Zieke Crapule Show 3 |  |
+| Sat, 3 Oct 2026 | ✮⋆ GIMIC Radio - 2Y BIRTHDAY ⭒⋆⍣ | Godero, Kathleen C, Malo Z, Melissa Juice, TORI ANN, ttyfal |
 | Fri, 16 Oct 2026 | EELF Presents - Brussels: Target Demographic, Shaolin Cowboy, Kleinefrigo + more TBA | Kleinefrigo, Shaolin Cowboy, Target Demographic |
 | Sat, 17 Oct 2026 | Pointzero Rec Invite HypoGeo - Subway Shamans | HypoGeo |
 | Sat, 24 Oct 2026 | CREVETTE RECORDS - 10 YEAR ANNIVERSARY - DAYTIME GATHERING | Kuba'97, Leef, Malo Z |
@@ -22,4 +23,4 @@ Illegaal is a music venue in Brussels listed on soundcheck. 9 upcoming nights, w
 
 Rue Bollinckx 300, 1190 Forest, Brussels
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/brussels/club/illegaal/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/brussels/club/illegaal/)*

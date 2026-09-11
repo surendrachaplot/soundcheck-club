@@ -1,8 +1,8 @@
 # APP
 
-APP is a electronic artist with 4 upcoming club dates listed on soundcheck as of Thu, 10 Sept 2026, next at A Capela, Lisbon on Sat, 12 Sept 2026.
+APP is a electronic artist with 8 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at A Capela, Lisbon on Sat, 12 Sept 2026.
 
-APP is an electronic artist based in United Kingdom, tracked on soundcheck, with 127 sets logged across Amsterdam, Bali, Barcelona and Berlin and 43 more. Often billed alongside Debit, AMEX (UK) and Alaska (2). Next up: A Capela, Lisbon on Sat 12 Sept.
+APP is an electronic artist based in United Kingdom, tracked on soundcheck, with 131 sets logged across Amsterdam, Bali, Barcelona and Berlin and 44 more. Often billed alongside Debit, AMEX (UK) and Alaska (2). Next up: A Capela, Lisbon on Sat 12 Sept.
 
 ## Upcoming shows
 
@@ -12,6 +12,10 @@ APP is an electronic artist based in United Kingdom, tracked on soundcheck, with
 | Sat, 12 Sept 2026 | 516 S Anderson Street | Los Angeles |
 | Sat, 12 Sept 2026 | F Lounge | Bali |
 | Sat, 12 Sept 2026 | St J Cyber Cafe | Los Angeles |
+| Sat, 12 Sept 2026 | 1500m2 | Warsaw |
+| Sat, 12 Sept 2026 | 714 | Philadelphia |
+| Sat, 12 Sept 2026 | 10 Critics | Detroit |
+| Sat, 12 Sept 2026 | 11 Carlaw Ave. | Toronto |
 
 ## Recently played
 
@@ -28,4 +32,4 @@ APP is an electronic artist based in United Kingdom, tracked on soundcheck, with
 
 Debit, AMEX (UK), Alaska (2)
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/app/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/app/)*

@@ -1,6 +1,6 @@
 # Club Daphnia
 
-Club Daphnia is a music venue in Osaka with 8 upcoming nights listed on soundcheck as of Thu, 10 Sept 2026; the next is "SPARKLE! -Japanese Disko & City Pop Experience-" on Fri, 11 Sept 2026.
+Club Daphnia is a music venue in Osaka with 8 upcoming nights listed on soundcheck as of Fri, 11 Sept 2026; the next is "SPARKLE! -Japanese Disko & City Pop Experience-" on Fri, 11 Sept 2026.
 
 Club Daphnia is a music venue in Osaka listed on soundcheck. 8 upcoming nights, with line-ups including DJ :-), Aspara, ast midori and BeNi and 2 more. Browse upcoming dates, start times and who's playing. 5-5-1, Kitakagaya, Osaka Shi Suminoe Ku, Osaka Fu, 559-0011, Japan.
 
@@ -21,4 +21,4 @@ Club Daphnia is a music venue in Osaka listed on soundcheck. 8 upcoming nights, 
 
 5-5-1, Kitakagaya, Osaka Shi Suminoe Ku, Osaka Fu, 559-0011, Japan, Osaka
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/osaka/club/club-daphnia/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/osaka/club/club-daphnia/)*

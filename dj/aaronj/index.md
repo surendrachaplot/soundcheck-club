@@ -1,13 +1,14 @@
 # Aaron J
 
-Aaron J is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 10 Sept 2026, next at Magasins Généraux, Paris on Fri, 20 Nov 2026.
+Aaron J is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at FOLD, London on Sat, 7 Nov 2026.
 
-Aaron J is a techno and house artist based in United States of America, tracked on soundcheck, with 58 sets logged across Amsterdam, Antwerp, Barcelona and Berlin and 19 more. Often billed alongside Lychee, Clarisa Kimskii and GiGi FM. Next up: Magasins Généraux, Paris on Fri 20 Nov.
+Aaron J is a techno and house artist based in United States of America, tracked on soundcheck, with 59 sets logged across Amsterdam, Antwerp, Barcelona and Berlin and 19 more. Often billed alongside Lychee, Clarisa Kimskii and GiGi FM. Next up: FOLD, London on Sat 7 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 7 Nov 2026 | FOLD | London |
 | Fri, 20 Nov 2026 | Magasins Généraux | Paris |
 | Sat, 21 Nov 2026 | Magasins Généraux | Paris |
 
@@ -26,4 +27,4 @@ Aaron J is a techno and house artist based in United States of America, tracked 
 
 Lychee, Clarisa Kimskii, GiGi FM
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/aaronj/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/aaronj/)*

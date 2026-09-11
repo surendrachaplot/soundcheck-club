@@ -1,6 +1,6 @@
 # berlinClub
 
-berlinClub is a music venue in Madrid with 6 upcoming nights listed on soundcheck as of Thu, 10 Sept 2026; the next is "99 Percent Nice · Jorge Padilla B2B Rodrigue Darbon + Martini Raw B2B Le Nomad" on Fri, 11 Sept 2026.
+berlinClub is a music venue in Madrid with 6 upcoming nights listed on soundcheck as of Fri, 11 Sept 2026; the next is "99 Percent Nice · Jorge Padilla B2B Rodrigue Darbon + Martini Raw B2B Le Nomad" on Fri, 11 Sept 2026.
 
 berlinClub is a music venue in Madrid listed on soundcheck. 6 upcoming nights, with line-ups including Breezy S, Cabin Luv Affair, El cuerpo del Disco and Gaspar Antuña and 2 more. Browse upcoming dates, start times and who's playing. Costanilla de los Ángeles, 20, 28013 Madrid.
 
@@ -12,11 +12,11 @@ berlinClub is a music venue in Madrid listed on soundcheck. 6 upcoming nights, w
 | Sat, 12 Sept 2026 | Blend · Mauro Noguero + Marcos Boricua (Birthday) + Nacho Larache | Marcos Boricua |
 | Fri, 18 Sept 2026 | Le Gap · Papaia Club + Le Nomad | Gaspar Antuña, Le Nomad |
 | Sat, 19 Sept 2026 | El cuerpo del Disco · Eloi + Cabin Luv Affair | Cabin Luv Affair, El cuerpo del Disco |
-| Fri, 25 Sept 2026 | Gilda Club · Breezy S + Yahaira | Breezy S, Yahaira |
+| Fri, 25 Sept 2026 | Gilda Club · Breezy S + Yahaira + Jay Luna | Breezy S, Jay Luna, Yahaira |
 | Sat, 26 Sept 2026 | Ralph Lawson + Javisenz + Nacho Larache | Ralph Lawson |
 
 ## Address
 
 Costanilla de los Ángeles, 20, 28013 Madrid, Madrid
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/berlinclub/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/berlinclub/)*

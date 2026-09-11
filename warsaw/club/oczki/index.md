@@ -1,6 +1,6 @@
 # OCZKI
 
-OCZKI is a music venue in Warsaw with 7 upcoming nights listed on soundcheck as of Thu, 10 Sept 2026; the next is "DUALISM PRES. TH;EN" on Sat, 12 Sept 2026.
+OCZKI is a music venue in Warsaw with 7 upcoming nights listed on soundcheck as of Fri, 11 Sept 2026; the next is "DUALISM PRES. TH;EN" on Sat, 12 Sept 2026.
 
 OCZKI is a music venue in Warsaw listed on soundcheck. 7 upcoming nights, with line-ups including AFTEROSSI, Arude, BOBAIO and Bronka and 2 more. Browse upcoming dates, start times and who's playing. Wojciecha Oczki 1A, 02-007 Warszawa.
 
@@ -20,4 +20,4 @@ OCZKI is a music venue in Warsaw listed on soundcheck. 7 upcoming nights, with l
 
 Wojciecha Oczki 1A, 02-007 Warszawa, Warsaw
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/warsaw/club/oczki/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/warsaw/club/oczki/)*

@@ -1,6 +1,6 @@
 # Godski
 
-Godski is a Trance and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 10 Sept 2026, next at MODULE, Copenhagen on Fri, 18 Sept 2026.
+Godski is a Trance and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 11 Sept 2026, next at MODULE, Copenhagen on Fri, 18 Sept 2026.
 
 Godski is a trance and techno artist tracked on soundcheck, with 5 sets logged across Copenhagen. Often billed alongside ASTA MARI, DJ Dopamina and DJ Void (3). Next up: MODULE, Copenhagen on Fri 18 Sept.
 
@@ -21,4 +21,4 @@ Godski is a trance and techno artist tracked on soundcheck, with 5 sets logged a
 
 ASTA MARI, DJ Dopamina, DJ Void (3)
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/godski/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/godski/)*

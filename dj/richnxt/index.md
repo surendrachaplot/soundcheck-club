@@ -1,6 +1,6 @@
 # Rich NXT
 
-Rich NXT is a House and Tech House artist with 5 upcoming club dates listed on soundcheck as of Thu, 10 Sept 2026, next at UNO MALTA, Malta on Fri, 18 Sept 2026.
+Rich NXT is a House and Tech House artist with 5 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at UNO MALTA, Malta on Fri, 18 Sept 2026.
 
 Rich NXT is a house and tech house artist tracked on soundcheck, with 107 sets logged across Amsterdam, Bali, Bangkok and Barcelona and 28 more. Often billed alongside Enzo Siragusa, Rossi and Laidlaw. Next up: UNO MALTA, Malta on Fri 18 Sept.
 
@@ -29,4 +29,4 @@ Rich NXT is a house and tech house artist tracked on soundcheck, with 107 sets l
 
 Enzo Siragusa, Rossi, Laidlaw
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/richnxt/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/richnxt/)*

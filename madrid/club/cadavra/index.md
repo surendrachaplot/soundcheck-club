@@ -1,14 +1,13 @@
 # Cadavra
 
-Cadavra is a music venue in Madrid with 26 upcoming nights listed on soundcheck as of Thu, 10 Sept 2026; the next is "SERNA & Safia at Anfang" on Thu, 10 Sept 2026.
+Cadavra is a music venue in Madrid with 25 upcoming nights listed on soundcheck as of Fri, 11 Sept 2026; the next is "TROOPERS x CHECKPOINT" on Fri, 11 Sept 2026.
 
-Cadavra is a music venue in Madrid listed on soundcheck. 26 upcoming nights, with line-ups including 2garlics, Alvaro Cabana, Amaliah and Anika Kunst and 2 more. Browse upcoming dates, start times and who's playing. C. del Caballero de Gracia, 10, Centro, 28013 Madrid, Spain.
+Cadavra is a music venue in Madrid listed on soundcheck. 25 upcoming nights, with line-ups including 2garlics, Alvaro Cabana, Amaliah and Anika Kunst and 2 more. Browse upcoming dates, start times and who's playing. C. del Caballero de Gracia, 10, Centro, 28013 Madrid, Spain.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Thu, 10 Sept 2026 | SERNA & Safia at Anfang | SERNA, Safia (2) |
 | Fri, 11 Sept 2026 | TROOPERS x CHECKPOINT | Lisandro Mustapic, MARYO, Sampol |
 | Sat, 12 Sept 2026 | Certain Club x Hypersoft with DJ TEETH & E.Talking | Arque, Certain People, DJ TEETH, E-Talking, Emi Koto |
 | Thu, 17 Sept 2026 | Mario Blur, Jakka & Noot Noot at Anfang Fam Day | Jakka, Mario Blur, Noot Noot, Safia (2) |
@@ -18,9 +17,10 @@ Cadavra is a music venue in Madrid listed on soundcheck. 26 upcoming nights, wit
 | Fri, 25 Sept 2026 | Sigh.CLUB with Reptant (live) + Free Zing | 2garlics, Avo (ES), Cesc (ES), Free Zing, Papol, Rams, Reptant |
 | Sat, 26 Sept 2026 | CDVR with Katia Curie b2b NIZAR SARAKBI | BOTHER, Katia Curie, Luska, Margott (ES), Nizar Sarakbi, TWO EX, frankydrama |
 | Thu, 1 Oct 2026 | Pariah at Anfang | Pariah |
+| Fri, 2 Oct 2026 | CDVR with Tornado Wallace | Alvaro Cabana, Le Nomad, Tornado Wallace |
 
 ## Address
 
 C. del Caballero de Gracia, 10, Centro, 28013 Madrid, Spain, Madrid
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/cadavra/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/cadavra/)*

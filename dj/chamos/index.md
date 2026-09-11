@@ -1,6 +1,6 @@
 # CHAMOS
 
-CHAMOS is a Club and House artist with 6 upcoming club dates listed on soundcheck as of Thu, 10 Sept 2026, next at Rotterdam Centre, Rotterdam on Fri, 11 Sept 2026.
+CHAMOS is a Club and House artist with 6 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at Rotterdam Centre, Rotterdam on Fri, 11 Sept 2026.
 
 CHAMOS is a club and house artist based in Netherlands, tracked on soundcheck, with 29 sets logged across Amsterdam, Bali, Barcelona and Berlin and 16 more. Often billed alongside Anish Kumar, Arthi and Bardia Ghobadi. Next up: Rotterdam Centre, Rotterdam on Fri 11 Sept.
 
@@ -30,4 +30,4 @@ CHAMOS is a club and house artist based in Netherlands, tracked on soundcheck, w
 
 Anish Kumar, Arthi, Bardia Ghobadi
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/chamos/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/chamos/)*

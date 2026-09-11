@@ -1,6 +1,6 @@
 # kieniewicz
 
-kieniewicz is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 10 Sept 2026, next at TBA, Warsaw on Fri, 18 Sept 2026.
+kieniewicz is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 11 Sept 2026, next at TBA, Warsaw on Fri, 18 Sept 2026.
 
 kieniewicz is a techno and house artist tracked on soundcheck, with 7 sets logged across Warsaw. Often billed alongside Medzz, Blamcior and Benwal. Next up: TBA, Warsaw on Fri 18 Sept.
 
@@ -23,4 +23,4 @@ kieniewicz is a techno and house artist tracked on soundcheck, with 7 sets logge
 
 Medzz, Blamcior, Benwal
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kieniewicz/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kieniewicz/)*

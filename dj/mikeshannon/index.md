@@ -1,6 +1,6 @@
 # Mike Shannon
 
-Mike Shannon is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 10 Sept 2026, next at ESC, Montreal on Fri, 18 Sept 2026.
+Mike Shannon is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at ESC, Montreal on Fri, 18 Sept 2026.
 
 Mike Shannon is a house and techno artist based in Canada, tracked on soundcheck, with 62 sets logged across Amsterdam, Auckland, Berlin and Buenosaires and 14 more. Often billed alongside DeWalta, Stipé and Deadbeat. Next up: ESC, Montreal on Fri 18 Sept.
 
@@ -26,4 +26,4 @@ Mike Shannon is a house and techno artist based in Canada, tracked on soundcheck
 
 DeWalta, Stipé, Deadbeat
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mikeshannon/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mikeshannon/)*

@@ -1,6 +1,6 @@
 # In Trance 95
 
-In Trance 95 is a electronic artist with 1 upcoming club date listed on soundcheck as of Thu, 10 Sept 2026, next at Plyfa, Athens on Fri, 18 Sept 2026.
+In Trance 95 is a electronic artist with 1 upcoming club date listed on soundcheck as of Fri, 11 Sept 2026, next at Plyfa, Athens on Fri, 18 Sept 2026.
 
 In Trance 95 is an electronic artist tracked on soundcheck, with 8 sets logged across Athens, Berlin and Vienna. Often billed alongside Alex Machairas, Evita Manji and Fruit Gillette. Next up: Plyfa, Athens on Fri 18 Sept.
 
@@ -24,4 +24,4 @@ In Trance 95 is an electronic artist tracked on soundcheck, with 8 sets logged a
 
 Alex Machairas, Evita Manji, Fruit Gillette
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/intrance95/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/intrance95/)*

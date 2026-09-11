@@ -1,6 +1,6 @@
 # Giulia Tess
 
-Giulia Tess is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 10 Sept 2026, next at Hï Ibiza, Ibiza on Fri, 25 Sept 2026.
+Giulia Tess is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at Hï Ibiza, Ibiza on Fri, 25 Sept 2026.
 
 Giulia Tess is a house and techno artist based in Italy, tracked on soundcheck, with 51 sets logged across Amsterdam, Bristol, Ibiza and Leeds and 7 more. Often billed alongside Ell Murphy, Lawrence Hart and mixtress. Next up: Hï Ibiza, Ibiza on Fri 25 Sept.
 
@@ -26,4 +26,4 @@ Giulia Tess is a house and techno artist based in Italy, tracked on soundcheck, 
 
 Ell Murphy, Lawrence Hart, mixtress
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/giuliatess/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/giuliatess/)*

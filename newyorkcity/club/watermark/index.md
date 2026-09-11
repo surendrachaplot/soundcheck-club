@@ -1,14 +1,13 @@
 # Watermark
 
-Watermark is a music venue in New York City with 10 upcoming nights listed on soundcheck as of Thu, 10 Sept 2026; the next is "Mexico Independence Latin & Reggaeton Party" on Thu, 10 Sept 2026.
+Watermark is a music venue in New York City with 9 upcoming nights listed on soundcheck as of Fri, 11 Sept 2026; the next is "Mexico Independence Latin & Reggaeton Party" on Fri, 11 Sept 2026.
 
-Watermark is a music venue in Newyorkcity listed on soundcheck. 10 upcoming nights. Browse upcoming dates, start times and who's playing. 78 South St., New York, NY 10002, USA.
+Watermark is a music venue in Newyorkcity listed on soundcheck. 9 upcoming nights. Browse upcoming dates, start times and who's playing. 78 South St., New York, NY 10002, USA.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Thu, 10 Sept 2026 | Mexico Independence Latin & Reggaeton Party |  |
 | Fri, 11 Sept 2026 | Mexico Independence Latin & Reggaeton Party |  |
 | Fri, 11 Sept 2026 | Cumbia v Reggaeton Classics - Mexican Indepenence Latin Party |  |
 | Sat, 12 Sept 2026 | Mexico Independence Latin & Reggaeton Party |  |
@@ -23,4 +22,4 @@ Watermark is a music venue in Newyorkcity listed on soundcheck. 10 upcoming nigh
 
 78 South St., New York, NY 10002, USA, New York City
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/watermark/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/watermark/)*

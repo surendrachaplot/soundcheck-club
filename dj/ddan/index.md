@@ -1,14 +1,13 @@
 # D.Dan
 
-D.Dan is a Techno and House artist with 11 upcoming club dates listed on soundcheck as of Thu, 10 Sept 2026, next at 1015 Folsom, San Francisco/Oakland on Thu, 10 Sept 2026.
+D.Dan is a Techno and House artist with 10 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at TBA - Los Angeles, Los Angeles on Fri, 11 Sept 2026.
 
-D.Dan is a techno and house artist tracked on soundcheck, with 197 sets logged across Amsterdam, Athens, Austin and Barcelona and 59 more. Often billed alongside DJ TOOL, Hyperaktivist and Yazzus. Next up: 1015 Folsom, Sanfrancisco on Thu 10 Sept.
+D.Dan is a techno and house artist tracked on soundcheck, with 197 sets logged across Amsterdam, Athens, Austin and Barcelona and 59 more. Often billed alongside DJ TOOL, Hyperaktivist and Yazzus. Next up: TBA - Los Angeles, Losangeles on Fri 11 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Thu, 10 Sept 2026 | 1015 Folsom | San Francisco/Oakland |
 | Fri, 11 Sept 2026 | TBA - Los Angeles | Los Angeles |
 | Sat, 19 Sept 2026 | BASEMENT | New York City |
 | Sun, 20 Sept 2026 | TBA | Montreal |
@@ -22,6 +21,7 @@ D.Dan is a techno and house artist tracked on soundcheck, with 197 sets logged a
 
 ## Recently played
 
+- 1015 Folsom, San Francisco/Oakland — Thu, 10 Sept 2026
 - INPUT High Fidelity Dance Club, Barcelona — Fri, 4 Sept 2026
 - Karmakoma, Belgrade — Fri, 28 Aug 2026
 - RSO.BERLIN, Berlin — Sat, 22 Aug 2026
@@ -29,10 +29,9 @@ D.Dan is a techno and house artist tracked on soundcheck, with 197 sets logged a
 - Parc des Etangs/Vijverspark, Brussels — Fri, 14 Aug 2026
 - CLUB RAUM, Amsterdam — Fri, 31 Jul 2026
 - Motel Campo, Geneva — Sat, 25 Jul 2026
-- Ferropolis, Leipzig — Fri, 17 Jul 2026
 
 ## Shares bills with
 
 DJ TOOL, Hyperaktivist, Yazzus
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ddan/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ddan/)*

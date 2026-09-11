@@ -1,6 +1,6 @@
 # Honey Street Studio
 
-Honey Street Studio is a music venue in Manchester with 14 upcoming nights listed on soundcheck as of Thu, 10 Sept 2026; the next is "Outside Looking In #007" on Sat, 12 Sept 2026.
+Honey Street Studio is a music venue in Manchester with 14 upcoming nights listed on soundcheck as of Fri, 11 Sept 2026; the next is "Outside Looking In #007" on Sat, 12 Sept 2026.
 
 Honey Street Studio is a music venue in Manchester listed on soundcheck. 14 upcoming nights, with line-ups including Abby Harris, Abena, Allius and Amelia Leigh and 2 more. Browse upcoming dates, start times and who's playing. Honey St, Cheetham Hill, Manchester M8 8RG.
 
@@ -23,4 +23,4 @@ Honey Street Studio is a music venue in Manchester listed on soundcheck. 14 upco
 
 Honey St, Cheetham Hill, Manchester M8 8RG, Manchester
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/honey-street-studio/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/honey-street-studio/)*

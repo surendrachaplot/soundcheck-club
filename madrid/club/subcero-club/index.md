@@ -1,6 +1,6 @@
 # Subcero Club
 
-Subcero Club is a music venue in Madrid with 8 upcoming nights listed on soundcheck as of Thu, 10 Sept 2026; the next is "SUBCERO CLUB" on Fri, 11 Sept 2026.
+Subcero Club is a music venue in Madrid with 8 upcoming nights listed on soundcheck as of Fri, 11 Sept 2026; the next is "SUBCERO CLUB" on Fri, 11 Sept 2026.
 
 Subcero Club is a music venue in Madrid listed on soundcheck. 8 upcoming nights, with line-ups including Adrian Mart, Alvaro Cabana, Foie Gras and Jorge Padilla and 2 more. Browse upcoming dates, start times and who's playing. Calle Ayala, 27, Madrid, Spain.
 
@@ -21,4 +21,4 @@ Subcero Club is a music venue in Madrid listed on soundcheck. 8 upcoming nights,
 
 Calle Ayala, 27, Madrid, Spain, Madrid
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/subcero-club/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/subcero-club/)*

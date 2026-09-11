@@ -1,6 +1,6 @@
 # androosh
 
-androosh is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Thu, 10 Sept 2026, next at 528 Ibiza, Ibiza on Tue, 15 Sept 2026.
+androosh is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Fri, 11 Sept 2026, next at 528 Ibiza, Ibiza on Tue, 15 Sept 2026.
 
 androosh is a house and disco artist tracked on soundcheck, with 51 sets logged across Antwerp, Barcelona, Berlin and Geneva and 5 more. Often billed alongside Mona Lee, iamkimkong and DVDE. Next up: 528 Ibiza, Ibiza on Tue 15 Sept.
 
@@ -25,4 +25,4 @@ androosh is a house and disco artist tracked on soundcheck, with 51 sets logged 
 
 Mona Lee, iamkimkong, DVDE
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/androosh/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/androosh/)*

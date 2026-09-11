@@ -1,6 +1,6 @@
 # L4NC3
 
-L4NC3 is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Thu, 10 Sept 2026, next at Das Werk, Vienna on Fri, 18 Sept 2026.
+L4NC3 is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Fri, 11 Sept 2026, next at Das Werk, Vienna on Fri, 18 Sept 2026.
 
 L4NC3 is a techno and trance artist based in Austria, tracked on soundcheck, with 31 sets logged across Vienna. Often billed alongside DJ Böhm, Dan.P and presso. Next up: Das Werk, Vienna on Fri 18 Sept.
 
@@ -25,4 +25,4 @@ L4NC3 is a techno and trance artist based in Austria, tracked on soundcheck, wit
 
 DJ Böhm, Dan.P, presso
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/l4nc3/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/l4nc3/)*

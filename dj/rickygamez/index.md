@@ -1,6 +1,6 @@
 # Ricky Gamez
 
-Ricky Gamez is a Disco and Funk / Soul artist with 1 upcoming club date listed on soundcheck as of Thu, 10 Sept 2026, next at TBA - Outdoors Garden (30 Mins From Bcn), Barcelona on Sat, 10 Oct 2026.
+Ricky Gamez is a Disco and Funk / Soul artist with 1 upcoming club date listed on soundcheck as of Fri, 11 Sept 2026, next at TBA - Outdoors Garden (30 Mins From Bcn), Barcelona on Sat, 10 Oct 2026.
 
 Ricky Gamez is a disco and funk / soul artist based in United States of America, tracked on soundcheck, with 21 sets logged across Barcelona. Often billed alongside Alejandro Asencio, Marc Gimeno and Victor Kiswell. Next up: TBA - Outdoors Garden (30 Mins From Bcn), Barcelona on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ Ricky Gamez is a disco and funk / soul artist based in United States of America,
 
 Alejandro Asencio, Marc Gimeno, Victor Kiswell
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/rickygamez/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/rickygamez/)*

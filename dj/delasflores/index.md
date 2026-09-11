@@ -1,6 +1,6 @@
 # DELASFLORES
 
-DELASFLORES is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 10 Sept 2026, next at TBA, Madrid on Sat, 10 Oct 2026.
+DELASFLORES is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 11 Sept 2026, next at TBA, Madrid on Sat, 10 Oct 2026.
 
 DELASFLORES is a techno and house artist based in Spain, tracked on soundcheck, with 45 sets logged across Barcelona, Berlin, Brighton and Frankfurt and 9 more. Often billed alongside B.Love, Fantastic Man and Felon5. Next up: TBA, Madrid on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ DELASFLORES is a techno and house artist based in Spain, tracked on soundcheck, 
 
 B.Love, Fantastic Man, Felon5
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/delasflores/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/delasflores/)*

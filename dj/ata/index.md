@@ -1,14 +1,15 @@
 # Ata
 
-Ata is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 10 Sept 2026, next at VENT, Tokyo on Fri, 16 Oct 2026.
+Ata is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at VENT, Tokyo on Fri, 16 Oct 2026.
 
-Ata is a house and techno artist tracked on soundcheck, with 63 sets logged across Athens, Bali, Barcelona and Berlin and 19 more. Often billed alongside Ricardo Villalobos, Osman Emre and Chris Schwarzwälder. Next up: VENT, Tokyo on Fri 16 Oct.
+Ata is a house and techno artist tracked on soundcheck, with 64 sets logged across Athens, Bali, Barcelona and Berlin and 19 more. Often billed alongside Ricardo Villalobos, Osman Emre and Chris Schwarzwälder. Next up: VENT, Tokyo on Fri 16 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 16 Oct 2026 | VENT | Tokyo |
+| Fri, 30 Oct 2026 | Kater | Berlin |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Ata is a house and techno artist tracked on soundcheck, with 63 sets logged acro
 
 Ricardo Villalobos, Osman Emre, Chris Schwarzwälder
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ata/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ata/)*

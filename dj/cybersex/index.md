@@ -1,6 +1,6 @@
 # Cybersex
 
-Cybersex is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 10 Sept 2026, next at OST, Berlin on Sat, 26 Sept 2026.
+Cybersex is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 11 Sept 2026, next at OST, Berlin on Sat, 26 Sept 2026.
 
 Cybersex is a techno and house artist tracked on soundcheck, with 102 sets logged across Amsterdam, Barcelona, Berlin and Cologne and 13 more. Often billed alongside TEKNA, Azyr and Blasha & Allatt. Next up: OST, Berlin on Sat 26 Sept.
 
@@ -25,4 +25,4 @@ Cybersex is a techno and house artist tracked on soundcheck, with 102 sets logge
 
 TEKNA, Azyr, Blasha & Allatt
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/cybersex/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/cybersex/)*

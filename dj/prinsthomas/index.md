@@ -1,6 +1,6 @@
 # Prins Thomas
 
-Prins Thomas is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Thu, 10 Sept 2026, next at Blå, Oslo on Sat, 19 Sept 2026.
+Prins Thomas is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Fri, 11 Sept 2026, next at Blå, Oslo on Sat, 19 Sept 2026.
 
 Prins Thomas is a house and disco artist based in Norway, tracked on soundcheck, with 67 sets logged across Amsterdam, Athens, Bali and Barcelona and 20 more. Often billed alongside G-HA, Olanskii and Skatebård. Next up: Blå, Oslo on Sat 19 Sept.
 
@@ -25,4 +25,4 @@ Prins Thomas is a house and disco artist based in Norway, tracked on soundcheck,
 
 G-HA, Olanskii, Skatebård
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/prinsthomas/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/prinsthomas/)*

@@ -1,6 +1,6 @@
 # Jonny Knüppel
 
-Jonny Knüppel is a music venue in Berlin with 6 upcoming nights listed on soundcheck as of Thu, 10 Sept 2026; the next is "MIT DIR im Knüppel - Ein Festivalabsch(l)uss" on Fri, 11 Sept 2026.
+Jonny Knüppel is a music venue in Berlin with 6 upcoming nights listed on soundcheck as of Fri, 11 Sept 2026; the next is "MIT DIR im Knüppel - Ein Festivalabsch(l)uss" on Fri, 11 Sept 2026.
 
 Jonny Knüppel is a music venue in Berlin listed on soundcheck. 6 upcoming nights, with line-ups including Allan, B. Clarke, BARTi and Bonnie Spacey and 2 more. Browse upcoming dates, start times and who's playing. Lilli-Henoch-Straße 10, 10405 Berlin.
 
@@ -19,4 +19,4 @@ Jonny Knüppel is a music venue in Berlin listed on soundcheck. 6 upcoming night
 
 Lilli-Henoch-Straße 10, 10405 Berlin, Berlin
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/jonny-kn-ppel/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/jonny-kn-ppel/)*

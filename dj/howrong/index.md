@@ -1,6 +1,6 @@
 # howrøng
 
-howrøng is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 10 Sept 2026, next at Exit Reality, Singapore on Fri, 11 Sept 2026.
+howrøng is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at Exit Reality, Singapore on Fri, 11 Sept 2026.
 
 howrøng is a techno and house artist tracked on soundcheck, with 32 sets logged across Kualalumpur, Melbourne and Singapore. Often billed alongside Cloudy Ku, BBANDIT and GODKORINE. Next up: Exit Reality, Singapore on Fri 11 Sept.
 
@@ -26,4 +26,4 @@ howrøng is a techno and house artist tracked on soundcheck, with 32 sets logged
 
 Cloudy Ku, BBANDIT, GODKORINE
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/howrong/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/howrong/)*

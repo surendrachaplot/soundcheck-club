@@ -1,6 +1,6 @@
 # Nika Son
 
-Nika Son is a Experimental and Club artist with 1 upcoming club date listed on soundcheck as of Thu, 10 Sept 2026, next at La Perle, Brussels on Fri, 11 Sept 2026.
+Nika Son is a Experimental and Club artist with 1 upcoming club date listed on soundcheck as of Fri, 11 Sept 2026, next at La Perle, Brussels on Fri, 11 Sept 2026.
 
 Nika Son is an experimental and club artist tracked on soundcheck, with 28 sets logged across Athens, Berlin, Brussels and Glasgow and 2 more. Often billed alongside Nina, RVDS and Festnacht. Next up: La Perle, Brussels on Fri 11 Sept.
 
@@ -25,4 +25,4 @@ Nika Son is an experimental and club artist tracked on soundcheck, with 28 sets 
 
 Nina, RVDS, Festnacht
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nikason/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nikason/)*

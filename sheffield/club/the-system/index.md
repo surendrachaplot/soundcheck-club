@@ -1,8 +1,8 @@
 # The System
 
-The System is a music venue in Sheffield with 11 upcoming nights listed on soundcheck as of Thu, 10 Sept 2026; the next is "Sleazy Peelers (01) - Soft Launch" on Fri, 11 Sept 2026.
+The System is a music venue in Sheffield with 12 upcoming nights listed on soundcheck as of Fri, 11 Sept 2026; the next is "Sleazy Peelers (01) - Soft Launch" on Fri, 11 Sept 2026.
 
-The System is a music venue in Sheffield listed on soundcheck. 11 upcoming nights, with line-ups including Ashley Holmes, Babs (3), Joi La Frique and Kacper Pieta and 2 more. Browse upcoming dates, start times and who's playing.
+The System is a music venue in Sheffield listed on soundcheck. 12 upcoming nights, with line-ups including Ashley Holmes, Babs (3), Joi La Frique and JustElliot and 2 more. Browse upcoming dates, start times and who's playing.
 
 ## What's on
 
@@ -19,4 +19,4 @@ The System is a music venue in Sheffield listed on soundcheck. 11 upcoming night
 | Thu, 22 Oct 2026 | Sound Service Station: Cambodian Music with KomKom |  |
 | Sat, 24 Oct 2026 | Absolute Body Control: Red Rack'em All Night Long | Red Rack'em |
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/sheffield/club/the-system/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/sheffield/club/the-system/)*

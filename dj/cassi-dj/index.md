@@ -1,6 +1,6 @@
 # Cassi-DJ
 
-Cassi-DJ is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 10 Sept 2026, next at Jade, New York City on Thu, 24 Sept 2026.
+Cassi-DJ is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 11 Sept 2026, next at Jade, New York City on Thu, 24 Sept 2026.
 
 Cassi-DJ is a house and techno artist based in United States of America, tracked on soundcheck, with 28 sets logged across Newyorkcity. Often billed alongside Puppy Online, boy problem and porygon k. Next up: Jade, Newyorkcity on Thu 24 Sept.
 
@@ -25,4 +25,4 @@ Cassi-DJ is a house and techno artist based in United States of America, tracked
 
 Puppy Online, boy problem, porygon k
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/cassi-dj/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/cassi-dj/)*

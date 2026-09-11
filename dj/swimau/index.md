@@ -1,6 +1,6 @@
 # SWIM (AU)
 
-SWIM (AU) is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Thu, 10 Sept 2026, next at Else, Berlin on Sat, 19 Sept 2026.
+SWIM (AU) is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at Else, Berlin on Sat, 19 Sept 2026.
 
 SWIM (AU) is a house and techno artist based in Australia, tracked on soundcheck, with 52 sets logged across Amsterdam, Belfast, Berlin and Brighton and 19 more. Often billed alongside CRUSH3d, DJ Heartstring and Bella Claxton. Next up: Else, Berlin on Sat 19 Sept.
 
@@ -29,4 +29,4 @@ SWIM (AU) is a house and techno artist based in Australia, tracked on soundcheck
 
 CRUSH3d, DJ Heartstring, Bella Claxton
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/swimau/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/swimau/)*

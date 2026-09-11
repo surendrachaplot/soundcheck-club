@@ -1,6 +1,6 @@
 # Ketzal
 
-Ketzal is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Thu, 10 Sept 2026, next at Jungle Island, Miami on Sat, 3 Oct 2026.
+Ketzal is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Fri, 11 Sept 2026, next at Jungle Island, Miami on Sat, 3 Oct 2026.
 
 Ketzal is a house and deep house artist tracked on soundcheck, with 17 sets logged across Barcelona, Miami and Mykonos. Often billed alongside Kike Roldan, Jessy Nimni and Patrick M. Next up: Jungle Island, Miami on Sat 3 Oct.
 
@@ -25,4 +25,4 @@ Ketzal is a house and deep house artist tracked on soundcheck, with 17 sets logg
 
 Kike Roldan, Jessy Nimni, Patrick M
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ketzal/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ketzal/)*

@@ -1,13 +1,14 @@
 # Minq
 
-Minq is a House and Pop artist with 1 upcoming club date listed on soundcheck as of Thu, 10 Sept 2026, next at AMT, Berlin on Fri, 18 Sept 2026.
+Minq is a House and Pop artist with 2 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at TBA - https://t.me/boochieberlin, Berlin on Sun, 13 Sept 2026.
 
-Minq is a house and pop artist tracked on soundcheck, with 14 sets logged across Berlin. Often billed alongside ADAM MUNNINGS, DJ Petite and Dirty Daddy Don. Next up: AMT, Berlin on Fri 18 Sept.
+Minq is a house and pop artist tracked on soundcheck, with 15 sets logged across Berlin. Often billed alongside ADAM MUNNINGS, DJ Petite and Dirty Daddy Don. Next up: TBA - https://t.me/boochieberlin, Berlin on Sun 13 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sun, 13 Sept 2026 | TBA - https://t.me/boochieberlin | Berlin |
 | Fri, 18 Sept 2026 | AMT | Berlin |
 
 ## Recently played
@@ -25,4 +26,4 @@ Minq is a house and pop artist tracked on soundcheck, with 14 sets logged across
 
 ADAM MUNNINGS, DJ Petite, Dirty Daddy Don
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/minq/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/minq/)*

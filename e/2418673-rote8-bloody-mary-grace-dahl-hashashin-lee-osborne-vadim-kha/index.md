@@ -1,6 +1,6 @@
 # ROTE8: Bloody Mary / Grace Dahl / Hashashin / Lee Osborne / Vadim Khan at Motorista Studio
 
-ROTE8: Bloody Mary / Grace Dahl / Hashashin / Lee Osborne / Vadim Khan at Motorista Studio on Sat 12 Sept, Toronto. 5 acts on the bill: Bloody Mary, Grace Dahl, Hashashin and Lee Osborne and 1 more. Techno and House. Preview the line-up and save it on soundcheck.
+ROTE8: Bloody Mary / Grace Dahl / Hashashin / Lee Osborne / Vadim Khan at Motorista Studio on Sat 12 Sept, Toronto. 5 acts on the bill: Bloody Mary, Grace Dahl, Hashashin and Lee Osborne and 1 more. Techno and Electronica. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,14 +1,15 @@
 # Shinyoung
 
-Shinyoung is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 10 Sept 2026, next at vurt., Seoul on Fri, 11 Sept 2026.
+Shinyoung is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at vurt., Seoul on Fri, 11 Sept 2026.
 
-Shinyoung is a house and techno artist based in South Korea, tracked on soundcheck, with 106 sets logged across Seoul and Tokyo. Often billed alongside Youknowsong, JAEHAN (2) and SEOD. Next up: vurt., Seoul on Fri 11 Sept.
+Shinyoung is a house and techno artist based in South Korea, tracked on soundcheck, with 107 sets logged across Seoul and Tokyo. Often billed alongside SEOD, Youknowsong and JAEHAN (2). Next up: vurt., Seoul on Fri 11 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 11 Sept 2026 | vurt. | Seoul |
+| Wed, 23 Sept 2026 | Hertz | Seoul |
 
 ## Recently played
 
@@ -23,6 +24,6 @@ Shinyoung is a house and techno artist based in South Korea, tracked on soundche
 
 ## Shares bills with
 
-Youknowsong, JAEHAN (2), SEOD
+SEOD, Youknowsong, JAEHAN (2)
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/shinyoung/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/shinyoung/)*

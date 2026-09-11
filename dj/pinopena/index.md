@@ -1,6 +1,6 @@
 # Pino Peña
 
-Pino Peña is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 10 Sept 2026, next at TBA - Warschauer Pl. 18, 10245 Berlin, Berlin on Sat, 12 Sept 2026.
+Pino Peña is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 11 Sept 2026, next at TBA - Warschauer Pl. 18, 10245 Berlin, Berlin on Sat, 12 Sept 2026.
 
 Pino Peña is a techno and house artist based in Germany, tracked on soundcheck, with 45 sets logged across Berlin, Dusseldorf, Glasgow and Mexicocity and 4 more. Often billed alongside Digabuna, Egotot and wallflower_. Next up: TBA - Warschauer Pl. 18, 10245 Berlin, Berlin on Sat 12 Sept.
 
@@ -25,4 +25,4 @@ Pino Peña is a techno and house artist based in Germany, tracked on soundcheck,
 
 Digabuna, Egotot, wallflower_
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/pinopena/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/pinopena/)*

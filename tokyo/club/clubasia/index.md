@@ -1,6 +1,6 @@
 # clubasia
 
-clubasia is a music venue in Tokyo with 10 upcoming nights listed on soundcheck as of Thu, 10 Sept 2026; the next is "club asia THURSDAY" on Thu, 10 Sept 2026.
+clubasia is a music venue in Tokyo with 10 upcoming nights listed on soundcheck as of Fri, 11 Sept 2026; the next is "EXODUS vol. 250" on Wed, 16 Sept 2026.
 
 clubasia is a music venue in Tokyo listed on soundcheck. 10 upcoming nights, with line-ups including AMIDAdrive, Bass, Bonnie and Coretex and 2 more. Browse upcoming dates, start times and who's playing. 1-8 Maruyamacho, Shibuya-ku, Tokyo, 150-0044 Japan.
 
@@ -8,10 +8,10 @@ clubasia is a music venue in Tokyo listed on soundcheck. 10 upcoming nights, wit
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Thu, 10 Sept 2026 | club asia THURSDAY | hara (2) |
 | Wed, 16 Sept 2026 | EXODUS vol. 250 | FUJI TRILL, Hirosson, KANT, misa nakamura |
 | Thu, 17 Sept 2026 | club asia THURSDAY - ryuu ALL NIGHT LONG - | ryuu (2) |
 | Sun, 20 Sept 2026 | VITA 11th Anniversary -A New Chapter- | Karsten Sollors |
+| Mon, 21 Sept 2026 | Doc Martin *ALL NIGHT LONG 『THE HOUSE TOKYO』 | Doc Martin |
 | Wed, 23 Sept 2026 | EXODUS vol. 251 | Coretex, FUJI TRILL, Jellyf!sh, KANT, misa nakamura |
 | Thu, 24 Sept 2026 | club asia THURSDAY | AMIDAdrive, YELLOWUHURU, savezearth |
 | Wed, 30 Sept 2026 | EXODUS vol. 252 | FUJI TRILL, Jellyf!sh, KANT, kyuuu |
@@ -23,4 +23,4 @@ clubasia is a music venue in Tokyo listed on soundcheck. 10 upcoming nights, wit
 
 1-8 Maruyamacho, Shibuya-ku, Tokyo, 150-0044 Japan, Tokyo
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/clubasia/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/clubasia/)*

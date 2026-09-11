@@ -1,6 +1,6 @@
 # ELEETE
 
-ELEETE is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 10 Sept 2026, next at Insomnia, Berlin on Sat, 26 Sept 2026.
+ELEETE is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 11 Sept 2026, next at Insomnia, Berlin on Sat, 26 Sept 2026.
 
 ELEETE is a techno and house artist based in Germany, tracked on soundcheck, with 22 sets logged across Berlin. Often billed alongside KEN (DE), DJ PayPaul and Tim Hagemann. Next up: Insomnia, Berlin on Sat 26 Sept.
 
@@ -25,4 +25,4 @@ ELEETE is a techno and house artist based in Germany, tracked on soundcheck, wit
 
 KEN (DE), DJ PayPaul, Tim Hagemann
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/eleete/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/eleete/)*

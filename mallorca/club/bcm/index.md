@@ -1,14 +1,13 @@
 # BCM
 
-BCM is a music venue in Mallorca with 7 upcoming nights listed on soundcheck as of Thu, 10 Sept 2026; the next is "Mr. Belt & Wezol" on Thu, 10 Sept 2026.
+BCM is a music venue in Mallorca with 6 upcoming nights listed on soundcheck as of Fri, 11 Sept 2026; the next is "SAYF" on Fri, 11 Sept 2026.
 
-BCM is a music venue in Mallorca listed on soundcheck. 7 upcoming nights, with line-ups including ARODES, Dombresky, Juany Bravo and Mr. Belt & Wezol and 1 more. Browse upcoming dates, start times and who's playing. BCM Complex Avda, S'Olivera s/n Magalluf, Calvia, 07182 Palma de Mallorca, Spain.
+BCM is a music venue in Mallorca listed on soundcheck. 6 upcoming nights, with line-ups including ARODES, Dombresky, Juany Bravo and Roger Sanchez. Browse upcoming dates, start times and who's playing. BCM Complex Avda, S'Olivera s/n Magalluf, Calvia, 07182 Palma de Mallorca, Spain.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Thu, 10 Sept 2026 | Mr. Belt & Wezol | Mr. Belt & Wezol |
 | Fri, 11 Sept 2026 | SAYF |  |
 | Sat, 12 Sept 2026 | Roger Sanchez | Roger Sanchez |
 | Fri, 18 Sept 2026 | GARABATTO |  |
@@ -20,4 +19,4 @@ BCM is a music venue in Mallorca listed on soundcheck. 7 upcoming nights, with l
 
 BCM Complex Avda, S'Olivera s/n Magalluf, Calvia, 07182 Palma de Mallorca, Spain, Mallorca
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/mallorca/club/bcm/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/mallorca/club/bcm/)*

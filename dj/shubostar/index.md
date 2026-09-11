@@ -1,6 +1,6 @@
 # Shubostar
 
-Shubostar is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Thu, 10 Sept 2026, next at Palazzo Delle Esposizioni, Rome on Thu, 17 Sept 2026.
+Shubostar is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at Palazzo Delle Esposizioni, Rome on Thu, 17 Sept 2026.
 
 Shubostar is a house and techno artist tracked on soundcheck, with 108 sets logged across Amsterdam, Austin, Barcelona and Berlin and 34 more. Often billed alongside Mano Le Tough, Peter Invasion and Roman Flügel. Next up: Palazzo Delle Esposizioni, Rome on Thu 17 Sept.
 
@@ -27,4 +27,4 @@ Shubostar is a house and techno artist tracked on soundcheck, with 108 sets logg
 
 Mano Le Tough, Peter Invasion, Roman Flügel
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/shubostar/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/shubostar/)*

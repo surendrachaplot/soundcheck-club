@@ -1,6 +1,6 @@
 # Mo (24)
 
-Mo (24) is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 10 Sept 2026, next at Dual, Bangkok on Sat, 12 Sept 2026.
+Mo (24) is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 11 Sept 2026, next at Dual, Bangkok on Sat, 12 Sept 2026.
 
 Mo (24) is a techno and house artist based in United Kingdom, tracked on soundcheck, with 10 sets logged across Bali, Bangkok, Barcelona and Brighton and 2 more. Often billed alongside Payu, AUDIO DUNE and BRAVA. Next up: Dual, Bangkok on Sat 12 Sept.
 
@@ -25,4 +25,4 @@ Mo (24) is a techno and house artist based in United Kingdom, tracked on soundch
 
 Payu, AUDIO DUNE, BRAVA
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mo-24/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mo-24/)*

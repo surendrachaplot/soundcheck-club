@@ -1,8 +1,8 @@
 # BASIS
 
-BASIS is a music venue in Utrecht with 18 upcoming nights listed on soundcheck as of Thu, 10 Sept 2026; the next is "BASIS x Hardline/ Alarico pres. Kenji Hina/ DJ Cosworth b2b Oldboy/ Hannah Hannah" on Fri, 11 Sept 2026.
+BASIS is a music venue in Utrecht with 19 upcoming nights listed on soundcheck as of Fri, 11 Sept 2026; the next is "BASIS x Hardline/ Alarico pres. Kenji Hina/ DJ Cosworth b2b Oldboy/ Hannah Hannah" on Fri, 11 Sept 2026.
 
-BASIS is a music venue in Utrecht listed on soundcheck. 18 upcoming nights, with line-ups including 36framez, Alarico, Aphøtic and AREA ØNE and 2 more. Browse upcoming dates, start times and who's playing. Oudegracht aan de Werf 97 3511 AL Utrecht, Netherlands.
+BASIS is a music venue in Utrecht listed on soundcheck. 19 upcoming nights, with line-ups including 36framez, Alarico, Aphøtic and AREA ØNE and 2 more. Browse upcoming dates, start times and who's playing. Oudegracht aan de Werf 97 3511 AL Utrecht, Netherlands.
 
 ## What's on
 
@@ -23,4 +23,4 @@ BASIS is a music venue in Utrecht listed on soundcheck. 18 upcoming nights, with
 
 Oudegracht aan de Werf 97 3511 AL Utrecht, Netherlands, Utrecht
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/utrecht/club/basis/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/utrecht/club/basis/)*

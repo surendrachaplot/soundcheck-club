@@ -1,6 +1,6 @@
 # Alba (2)
 
-Alba (2) is a Club and Electronica artist with 2 upcoming club dates listed on soundcheck as of Thu, 10 Sept 2026, next at Commercial Rowing Club Dublin, Dublin on Sat, 12 Sept 2026.
+Alba (2) is a Club and Electronica artist with 2 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at Commercial Rowing Club Dublin, Dublin on Sat, 12 Sept 2026.
 
 Alba (2) is a club and electronica artist tracked on soundcheck, with 21 sets logged across Berlin, Copenhagen, Cork and Dublin and 3 more. Often billed alongside Tadhg K, Síofra and Cathy Flynn. Next up: Commercial Rowing Club Dublin, Dublin on Sat 12 Sept.
 
@@ -26,4 +26,4 @@ Alba (2) is a club and electronica artist tracked on soundcheck, with 21 sets lo
 
 Tadhg K, Síofra, Cathy Flynn
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/alba-2/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/alba-2/)*

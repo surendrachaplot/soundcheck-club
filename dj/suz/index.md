@@ -1,18 +1,18 @@
 # Suz
 
-Suz is a Techno and Electronica artist with 2 upcoming club dates listed on soundcheck as of Thu, 10 Sept 2026, next at Jolene Downtown Miami, Miami on Thu, 10 Sept 2026.
+Suz is a Techno and Electronica artist with 1 upcoming club date listed on soundcheck as of Fri, 11 Sept 2026, next at Mana Wynwood, Miami on Fri, 16 Oct 2026.
 
-Suz is a techno and electronica artist tracked on soundcheck, with 6 sets logged across Miami and Seattle. Often billed alongside SATURNSARii, 1-800-Lolita and Ale Acosta. Next up: Jolene Downtown Miami, Miami on Thu 10 Sept.
+Suz is a techno and electronica artist tracked on soundcheck, with 6 sets logged across Miami and Seattle. Often billed alongside SATURNSARii, 1-800-Lolita and Ale Acosta. Next up: Mana Wynwood, Miami on Fri 16 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Thu, 10 Sept 2026 | Jolene Downtown Miami | Miami |
 | Fri, 16 Oct 2026 | Mana Wynwood | Miami |
 
 ## Recently played
 
+- Jolene Downtown Miami, Miami — Thu, 10 Sept 2026
 - Factory Town, Miami — Sat, 18 Apr 2026
 - The Ground at Club Space, Miami — Fri, 31 Oct 2025
 - The Monkey Loft, Seattle — Thu, 13 Jul 2023
@@ -22,4 +22,4 @@ Suz is a techno and electronica artist tracked on soundcheck, with 6 sets logged
 
 SATURNSARii, 1-800-Lolita, Ale Acosta
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/suz/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/suz/)*

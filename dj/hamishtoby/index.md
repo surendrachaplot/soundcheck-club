@@ -1,6 +1,6 @@
 # Hamish & Toby
 
-Hamish & Toby is a House and Tech House artist with 6 upcoming club dates listed on soundcheck as of Thu, 10 Sept 2026, next at UNO MALTA, Malta on Thu, 17 Sept 2026.
+Hamish & Toby is a House and Tech House artist with 6 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at UNO MALTA, Malta on Thu, 17 Sept 2026.
 
 Hamish & Toby are a house and tech house duo tracked on soundcheck, with 135 sets logged across Amsterdam, Barcelona, Berlin and Bristol and 31 more. Often billed alongside Dr Banana, The Ghost and Truly Madly. Next up: UNO MALTA, Malta on Thu 17 Sept.
 
@@ -30,4 +30,4 @@ Hamish & Toby are a house and tech house duo tracked on soundcheck, with 135 set
 
 Dr Banana, The Ghost, Truly Madly
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/hamishtoby/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/hamishtoby/)*

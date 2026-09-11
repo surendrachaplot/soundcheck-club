@@ -1,6 +1,6 @@
 # Georgia Bar
 
-Georgia Bar is a music venue in Berlin with 1 upcoming night listed on soundcheck as of Thu, 10 Sept 2026; the next is "72 HOURS – ART WEEK EDITION" on Sat, 12 Sept 2026.
+Georgia Bar is a music venue in Berlin with 1 upcoming night listed on soundcheck as of Fri, 11 Sept 2026; the next is "72 HOURS – ART WEEK EDITION" on Sat, 12 Sept 2026.
 
 Georgia Bar is a music venue in Berlin listed on soundcheck. 1 upcoming night, with line-ups including Chris Di Perri and INAN BATMAN. Browse upcoming dates, start times and who's playing. Georgenstraße 194, 10117 Berlin, Germany.
 
@@ -14,4 +14,4 @@ Georgia Bar is a music venue in Berlin listed on soundcheck. 1 upcoming night, w
 
 Georgenstraße 194, 10117 Berlin, Germany, Berlin
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/georgia-bar/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/georgia-bar/)*

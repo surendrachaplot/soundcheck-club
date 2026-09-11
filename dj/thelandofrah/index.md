@@ -1,6 +1,6 @@
 # The Land of Rah
 
-The Land of Rah is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Thu, 10 Sept 2026, next at TBA, Sydney on Sat, 24 Oct 2026.
+The Land of Rah is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at TBA, Sydney on Sat, 24 Oct 2026.
 
 The Land of Rah is a techno and trance artist tracked on soundcheck, with 7 sets logged across Sydney. Often billed alongside E-File, fuchsia and CHEAHDX. Next up: TBA, Sydney on Sat 24 Oct.
 
@@ -23,4 +23,4 @@ The Land of Rah is a techno and trance artist tracked on soundcheck, with 7 sets
 
 E-File, fuchsia, CHEAHDX
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/thelandofrah/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/thelandofrah/)*

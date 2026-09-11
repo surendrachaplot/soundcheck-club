@@ -1,13 +1,14 @@
 # Dan Fresco
 
-Dan Fresco is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Thu, 10 Sept 2026, next at TBA - @PARCO INDUSTRIA ALFAROMEO, Milan on Sat, 26 Sept 2026.
+Dan Fresco is a House and Tech House artist with 3 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at fabric, London on Fri, 11 Sept 2026.
 
-Dan Fresco is a house and tech house artist tracked on soundcheck, with 33 sets logged across Amsterdam, Barcelona, Birmingham and Brighton and 6 more. Often billed alongside FINKY, Ryan Resso and Stef Davidse. Next up: TBA - @PARCO INDUSTRIA ALFAROMEO, Milan on Sat 26 Sept.
+Dan Fresco is a house and tech house artist tracked on soundcheck, with 34 sets logged across Amsterdam, Barcelona, Birmingham and Brighton and 6 more. Often billed alongside FINKY, Ryan Resso and Stef Davidse. Next up: fabric, London on Fri 11 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 11 Sept 2026 | fabric | London |
 | Sat, 26 Sept 2026 | TBA - @PARCO INDUSTRIA ALFAROMEO | Milan |
 | Fri, 2 Oct 2026 | World Headquarters | Newcastle |
 
@@ -26,4 +27,4 @@ Dan Fresco is a house and tech house artist tracked on soundcheck, with 33 sets 
 
 FINKY, Ryan Resso, Stef Davidse
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/danfresco/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/danfresco/)*

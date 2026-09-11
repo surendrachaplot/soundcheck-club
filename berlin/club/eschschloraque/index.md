@@ -1,14 +1,13 @@
 # Eschschloraque
 
-Eschschloraque is a music venue in Berlin with 9 upcoming nights listed on soundcheck as of Thu, 10 Sept 2026; the next is "The Great Bordedom" on Thu, 10 Sept 2026.
+Eschschloraque is a music venue in Berlin with 8 upcoming nights listed on soundcheck as of Fri, 11 Sept 2026; the next is "Soffy O & Eva Be" on Fri, 11 Sept 2026.
 
-Eschschloraque is a music venue in Berlin listed on soundcheck. 9 upcoming nights, with line-ups including Eva Be, MissVergnügen and Paulina Panik. Browse upcoming dates, start times and who's playing. Rosenthaler Str. 39, 10178 Berlin, Germany.
+Eschschloraque is a music venue in Berlin listed on soundcheck. 8 upcoming nights, with line-ups including Eva Be, MissVergnügen and Paulina Panik. Browse upcoming dates, start times and who's playing. Rosenthaler Str. 39, 10178 Berlin, Germany.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Thu, 10 Sept 2026 | The Great Bordedom |  |
 | Fri, 11 Sept 2026 | Soffy O & Eva Be | Eva Be |
 | Sat, 12 Sept 2026 | Dj Zhao |  |
 | Wed, 16 Sept 2026 | Strange Songs for Strange People | MissVergnügen |
@@ -22,4 +21,4 @@ Eschschloraque is a music venue in Berlin listed on soundcheck. 9 upcoming night
 
 Rosenthaler Str. 39, 10178 Berlin, Germany, Berlin
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/eschschloraque/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/eschschloraque/)*

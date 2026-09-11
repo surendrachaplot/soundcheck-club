@@ -1,14 +1,13 @@
 # Jolene Downtown Miami
 
-Jolene Downtown Miami is a music venue in Miami with 10 upcoming nights listed on soundcheck as of Thu, 10 Sept 2026; the next is "XL COUNTY: Constantine" on Thu, 10 Sept 2026.
+Jolene Downtown Miami is a music venue in Miami with 10 upcoming nights listed on soundcheck as of Fri, 11 Sept 2026; the next is "Nu Zau & Charlotte" on Fri, 11 Sept 2026.
 
-Jolene Downtown Miami is a music venue in Miami listed on soundcheck. 10 upcoming nights, with line-ups including 1-800-Lolita, Milo Ziro, Charlotte (FR) and Constantine (US) and 2 more. Browse upcoming dates, start times and who's playing. 200 E Flagler Street Miami, FL 33131.
+Jolene Downtown Miami is a music venue in Miami listed on soundcheck. 10 upcoming nights, with line-ups including Milo Ziro, Charlotte (FR), Danyelino and DIFFER and 2 more. Browse upcoming dates, start times and who's playing. 200 E Flagler Street Miami, FL 33131.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Thu, 10 Sept 2026 | XL COUNTY: Constantine | 1-800-Lolita, Constantine (US), SATURNSARii, Suz, Xana |
 | Fri, 11 Sept 2026 | Nu Zau & Charlotte | Charlotte (FR), Jason Rault, Nu Zau |
 | Sat, 12 Sept 2026 | PARAMIDA | Milo Ziro, PARAMIDA |
 | Thu, 17 Sept 2026 | John Tejada, Massimiliano, | John Tejada, Massimiliano Pagliara, Sister System, Terence Tabeau |
@@ -18,9 +17,10 @@ Jolene Downtown Miami is a music venue in Miami listed on soundcheck. 10 upcomin
 | Sat, 26 Sept 2026 | Nick Warren | Nick Warren, SIEGEL (2) |
 | Sat, 3 Oct 2026 | Wata Igarashi | Jonny From Space, Julia Saturno, Wata Igarashi |
 | Thu, 15 Oct 2026 | III Points Satellite: Shanti Celeste b2b Peach | Gio Elia, Peach, Shanti Celeste, Sister System |
+| Fri, 16 Oct 2026 | OMRI | Danyelino, Mai iachetti, OMRI. |
 
 ## Address
 
 200 E Flagler Street Miami, FL 33131, Miami
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/miami/club/jolene-downtown-miami/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/miami/club/jolene-downtown-miami/)*

@@ -1,6 +1,6 @@
 # Greg Downey
 
-Greg Downey is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Thu, 10 Sept 2026, next at control, Bucharest on Sat, 21 Nov 2026.
+Greg Downey is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at control, Bucharest on Sat, 21 Nov 2026.
 
 Greg Downey is a techno and trance artist based in United Kingdom, tracked on soundcheck, with 6 sets logged across Berlin, Bucharest, Losangeles and Manchester and 1 more. Often billed alongside DJ 34, John Askew and Simon Patterson. Next up: control, Bucharest on Sat 21 Nov.
 
@@ -22,4 +22,4 @@ Greg Downey is a techno and trance artist based in United Kingdom, tracked on so
 
 DJ 34, John Askew, Simon Patterson
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/gregdowney/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/gregdowney/)*

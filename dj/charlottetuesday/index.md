@@ -1,6 +1,6 @@
 # Charlotte Tuesday
 
-Charlotte Tuesday is a Disco and House artist with 1 upcoming club date listed on soundcheck as of Thu, 10 Sept 2026, next at Charlies Loft, Glasgow on Fri, 25 Sept 2026.
+Charlotte Tuesday is a Disco and House artist with 1 upcoming club date listed on soundcheck as of Fri, 11 Sept 2026, next at Charlies Loft, Glasgow on Fri, 25 Sept 2026.
 
 Charlotte Tuesday is a disco and house artist based in United Kingdom, tracked on soundcheck, with 30 sets logged across Aberdeen, Edinburgh, Glasgow and Porto. Often billed alongside David Barbarossa, Dean Munch and OOFT. Next up: Charlies Loft, Glasgow on Fri 25 Sept.
 
@@ -25,4 +25,4 @@ Charlotte Tuesday is a disco and house artist based in United Kingdom, tracked o
 
 David Barbarossa, Dean Munch, OOFT
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/charlottetuesday/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/charlottetuesday/)*

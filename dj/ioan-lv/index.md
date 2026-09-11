@@ -1,14 +1,14 @@
 # iOAN (LV)
 
-iOAN (LV) is a Minimal and House artist with 3 upcoming club dates listed on soundcheck as of Thu, 10 Sept 2026, next at TBA - Backstage - Carrer Casp, 33B, Barcelona on Fri, 11 Sept 2026.
+iOAN (LV) is a Minimal and House artist with 3 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at TBA - Backstage Bar, Barcelona on Fri, 11 Sept 2026.
 
-iOAN (LV) is a minimal and house artist based in Latvia, tracked on soundcheck, with 24 sets logged across Bali, Barcelona, Berlin and Budapest and 2 more. Often billed alongside D I N, DEEP DISTRICT and Adroit. Next up: TBA - Backstage - Carrer Casp, 33B, Barcelona on Fri 11 Sept.
+iOAN (LV) is a minimal and house artist based in Latvia, tracked on soundcheck, with 24 sets logged across Bali, Barcelona, Berlin and Budapest and 2 more. Often billed alongside D I N, DEEP DISTRICT and Adroit. Next up: TBA - Backstage Bar, Barcelona on Fri 11 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 11 Sept 2026 | TBA - Backstage - Carrer Casp, 33B | Barcelona |
+| Fri, 11 Sept 2026 | TBA - Backstage Bar | Barcelona |
 | Sun, 13 Sept 2026 | Sigma | Ibiza |
 | Fri, 2 Oct 2026 | B2 Rīga | Riga |
 
@@ -27,4 +27,4 @@ iOAN (LV) is a minimal and house artist based in Latvia, tracked on soundcheck, 
 
 D I N, DEEP DISTRICT, Adroit
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ioan-lv/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ioan-lv/)*

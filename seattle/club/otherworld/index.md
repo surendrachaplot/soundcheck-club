@@ -1,6 +1,6 @@
 # Otherworld
 
-Otherworld is a music venue in Seattle with 1 upcoming night listed on soundcheck as of Thu, 10 Sept 2026; the next is "Simmer: Two Year Anniversary" on Fri, 11 Sept 2026.
+Otherworld is a music venue in Seattle with 1 upcoming night listed on soundcheck as of Fri, 11 Sept 2026; the next is "Simmer: Two Year Anniversary" on Fri, 11 Sept 2026.
 
 Otherworld is a music venue in Seattle listed on soundcheck. 1 upcoming night, with line-ups including alexia.f and KJ3 (US). Browse upcoming dates, start times and who's playing. 1406 E Pike St, Seattle, WA 98122.
 
@@ -14,4 +14,4 @@ Otherworld is a music venue in Seattle listed on soundcheck. 1 upcoming night, w
 
 1406 E Pike St, Seattle, WA 98122, Seattle
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/seattle/club/otherworld/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/seattle/club/otherworld/)*

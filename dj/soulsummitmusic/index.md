@@ -1,8 +1,8 @@
 # Soul Summit Music
 
-Soul Summit Music is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Thu, 10 Sept 2026, next at Fort Mifflin, Philadelphia on Fri, 18 Sept 2026.
+Soul Summit Music is a House and Disco artist with 3 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at Fort Mifflin, Philadelphia on Fri, 18 Sept 2026.
 
-Soul Summit Music is a house and disco artist based in United States of America, tracked on soundcheck, with 70 sets logged across Newyorkcity, Paris and Philadelphia. Often billed alongside JADALAREIGN, Omer Mil and Timmy Regisford. Next up: Fort Mifflin, Philadelphia on Fri 18 Sept.
+Soul Summit Music is a house and disco artist based in United States of America, tracked on soundcheck, with 71 sets logged across Newyorkcity, Paris and Philadelphia. Often billed alongside JADALAREIGN, Omer Mil and Timmy Regisford. Next up: Fort Mifflin, Philadelphia on Fri 18 Sept.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Soul Summit Music is a house and disco artist based in United States of America,
 | --- | --- | --- |
 | Fri, 18 Sept 2026 | Fort Mifflin | Philadelphia |
 | Fri, 2 Oct 2026 | Brooklyn Roots Collective | New York City |
+| Sun, 18 Oct 2026 | public records | New York City |
 
 ## Recently played
 
@@ -26,4 +27,4 @@ Soul Summit Music is a house and disco artist based in United States of America,
 
 JADALAREIGN, Omer Mil, Timmy Regisford
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/soulsummitmusic/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/soulsummitmusic/)*

@@ -1,6 +1,6 @@
 # Gabor Matty
 
-Gabor Matty is a Garage and Club artist with 3 upcoming club dates listed on soundcheck as of Thu, 10 Sept 2026, next at La Cheetah Club, Glasgow on Sun, 13 Sept 2026.
+Gabor Matty is a Garage and Club artist with 3 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at La Cheetah Club, Glasgow on Sun, 13 Sept 2026.
 
 Gabor Matty is a garage and club artist based in United Kingdom, tracked on soundcheck, with 31 sets logged across Edinburgh and Glasgow. Often billed alongside David Barbarossa, Hu-Sane and ButhoTheWarrior. Next up: La Cheetah Club, Glasgow on Sun 13 Sept.
 
@@ -27,4 +27,4 @@ Gabor Matty is a garage and club artist based in United Kingdom, tracked on soun
 
 David Barbarossa, Hu-Sane, ButhoTheWarrior
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/gabormatty/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/gabormatty/)*

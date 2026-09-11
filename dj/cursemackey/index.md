@@ -1,6 +1,6 @@
 # Curse Mackey
 
-Curse Mackey is a Industrial and EBM artist with 2 upcoming club dates listed on soundcheck as of Thu, 10 Sept 2026, next at Scout Bar, Houston on Fri, 11 Sept 2026.
+Curse Mackey is a Industrial and EBM artist with 2 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at Scout Bar, Houston on Fri, 11 Sept 2026.
 
 Curse Mackey is an industrial and ebm artist based in United States of America, tracked on soundcheck, with 6 sets logged across Austin, Detroit and Houston. Often billed alongside Nitzer Ebb, Ponyboy and The Hunger. Next up: Scout Bar, Houston on Fri 11 Sept.
 
@@ -22,4 +22,4 @@ Curse Mackey is an industrial and ebm artist based in United States of America, 
 
 Nitzer Ebb, Ponyboy, The Hunger
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/cursemackey/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/cursemackey/)*

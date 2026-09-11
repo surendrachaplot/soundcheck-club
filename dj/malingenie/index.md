@@ -1,6 +1,6 @@
 # Malin Genie
 
-Malin Genie is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 10 Sept 2026, next at Yamamori Tengu, Dublin on Sat, 10 Oct 2026.
+Malin Genie is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 11 Sept 2026, next at Yamamori Tengu, Dublin on Sat, 10 Oct 2026.
 
 Malin Genie is a techno and house artist based in Netherlands, tracked on soundcheck, with 11 sets logged across Amsterdam, Dublin, Milan and Paris and 1 more. Often billed alongside Chris Stassy, Hannecart and Michel de Hey. Next up: Yamamori Tengu, Dublin on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ Malin Genie is a techno and house artist based in Netherlands, tracked on soundc
 
 Chris Stassy, Hannecart, Michel de Hey
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/malingenie/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/malingenie/)*

@@ -1,6 +1,6 @@
 # Climax-Institutes
 
-Climax-Institutes is a music venue in Stuttgart with 8 upcoming nights listed on soundcheck as of Thu, 10 Sept 2026; the next is "DANSE AVEC MOI w/Philipp Werner, Mary, Chamelio3000" on Sat, 12 Sept 2026.
+Climax-Institutes is a music venue in Stuttgart with 8 upcoming nights listed on soundcheck as of Fri, 11 Sept 2026; the next is "DANSE AVEC MOI w/Philipp Werner, Mary, Chamelio3000" on Sat, 12 Sept 2026.
 
 Climax-Institutes is a music venue in Stuttgart listed on soundcheck. 8 upcoming nights, with line-ups including Adi Dassler, Chamelio 3000, Denno Matini and Philipp Werner and 2 more. Browse upcoming dates, start times and who's playing. Calwer Str. 25, 70173 Stuttgart.
 
@@ -21,4 +21,4 @@ Climax-Institutes is a music venue in Stuttgart listed on soundcheck. 8 upcoming
 
 Calwer Str. 25, 70173 Stuttgart, Stuttgart
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/stuttgart/club/climax-institutes/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/stuttgart/club/climax-institutes/)*

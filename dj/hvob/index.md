@@ -1,6 +1,6 @@
 # HVOB
 
-HVOB is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 10 Sept 2026, next at Docks, Hamburg on Thu, 17 Sept 2026.
+HVOB is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at Docks, Hamburg on Thu, 17 Sept 2026.
 
 HVOB is a house and techno artist tracked on soundcheck, with 57 sets logged across Amsterdam, Barcelona, Basel and Berlin and 26 more. Often billed alongside Eris Drew, Paul Kalkbrenner and ANOTR. Next up: Docks, Hamburg on Thu 17 Sept.
 
@@ -26,4 +26,4 @@ HVOB is a house and techno artist tracked on soundcheck, with 57 sets logged acr
 
 Eris Drew, Paul Kalkbrenner, ANOTR
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/hvob/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/hvob/)*

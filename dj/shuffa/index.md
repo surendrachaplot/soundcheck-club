@@ -1,6 +1,6 @@
 # SHUFFA
 
-SHUFFA is a Garage and House artist with 7 upcoming club dates listed on soundcheck as of Thu, 10 Sept 2026, next at Hidden, Manchester on Thu, 17 Sept 2026.
+SHUFFA is a Garage and House artist with 7 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at Hidden, Manchester on Thu, 17 Sept 2026.
 
 SHUFFA is a garage and house artist based in United Kingdom, tracked on soundcheck, with 48 sets logged across Amsterdam, Auckland, Australiancapitalterritory and Belfast and 14 more. Often billed alongside Diffrent, Rich Reason and T-Man (UK). Next up: Hidden, Manchester on Thu 17 Sept.
 
@@ -31,4 +31,4 @@ SHUFFA is a garage and house artist based in United Kingdom, tracked on soundche
 
 Diffrent, Rich Reason, T-Man (UK)
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/shuffa/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/shuffa/)*

@@ -1,6 +1,6 @@
 # Cher Semain
 
-Cher Semain is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Thu, 10 Sept 2026, next at Kralingse Bos, Rotterdam on Sat, 12 Sept 2026.
+Cher Semain is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Fri, 11 Sept 2026, next at Kralingse Bos, Rotterdam on Sat, 12 Sept 2026.
 
 Cher Semain is a house and tech house artist tracked on soundcheck, with 21 sets logged across Amsterdam, Ibiza, Rotterdam and Thehague and 1 more. Often billed alongside Benny Rodrigues, Philou Louzolo and Michel de Hey. Next up: Kralingse Bos, Rotterdam on Sat 12 Sept.
 
@@ -25,4 +25,4 @@ Cher Semain is a house and tech house artist tracked on soundcheck, with 21 sets
 
 Benny Rodrigues, Philou Louzolo, Michel de Hey
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/chersemain/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/chersemain/)*

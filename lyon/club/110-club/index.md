@@ -1,6 +1,6 @@
 # 110.Club
 
-110.Club is a music venue in Lyon with 1 upcoming night listed on soundcheck as of Thu, 10 Sept 2026; the next is "12/09/26" on Sat, 12 Sept 2026.
+110.Club is a music venue in Lyon with 1 upcoming night listed on soundcheck as of Fri, 11 Sept 2026; the next is "12/09/26" on Sat, 12 Sept 2026.
 
 110.Club is a music venue in Lyon listed on soundcheck. 1 upcoming night. Browse upcoming dates, start times and who's playing.
 
@@ -10,4 +10,4 @@
 | --- | --- | --- |
 | Sat, 12 Sept 2026 | 12/09/26 |  |
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/lyon/club/110-club/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/lyon/club/110-club/)*

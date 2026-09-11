@@ -1,6 +1,6 @@
 # Joe Rosh
 
-Joe Rosh is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 10 Sept 2026, next at THE MAGICK BAR, Rome on Thu, 17 Sept 2026.
+Joe Rosh is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 11 Sept 2026, next at THE MAGICK BAR, Rome on Thu, 17 Sept 2026.
 
 Joe Rosh is a techno and house artist tracked on soundcheck, with 33 sets logged across Berlin, London, Milan and Naples and 1 more. Often billed alongside Kodacci, San Nicola and Mehmet Alpdogan. Next up: THE MAGICK BAR, Rome on Thu 17 Sept.
 
@@ -25,4 +25,4 @@ Joe Rosh is a techno and house artist tracked on soundcheck, with 33 sets logged
 
 Kodacci, San Nicola, Mehmet Alpdogan
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/joerosh/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/joerosh/)*

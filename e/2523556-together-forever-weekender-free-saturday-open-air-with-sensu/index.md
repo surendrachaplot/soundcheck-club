@@ -1,6 +1,6 @@
 # TOGETHER FOREVER: Weekender + FREE Saturday Open Air with SENSUS & Fäncy at Kater
 
-TOGETHER FOREVER: Weekender + FREE Saturday Open Air with SENSUS & Fäncy at Kater on Fri 2 Oct, Berlin. 21 acts on the bill: Anna Almani, Augusto Taito, Carl Bergé and DJ Buona Sara and 17 more. Techno and House. Preview the line-up and save it on soundcheck.
+TOGETHER FOREVER: Weekender + FREE Saturday Open Air with SENSUS & Fäncy at Kater on Fri 2 Oct, Berlin. 22 acts on the bill: Anna Almani, Augusto Taito, Carl Bergé and DJ Buona Sara and 18 more. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -14,6 +14,7 @@ TOGETHER FOREVER: Weekender + FREE Saturday Open Air with SENSUS & Fäncy at Kat
 - Augusto Taito
 - Carl Bergé
 - DJ Buona Sara
+- DJ Fett Burger
 - DJ Fucks Himself
 - DJ SPORTSCHUH
 - Esther Silex

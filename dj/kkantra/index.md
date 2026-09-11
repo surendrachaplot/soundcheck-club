@@ -1,6 +1,6 @@
 # Kkantra
 
-Kkantra is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 10 Sept 2026, next at Stage and Radio, Manchester on Sat, 7 Nov 2026.
+Kkantra is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 11 Sept 2026, next at Stage and Radio, Manchester on Sat, 7 Nov 2026.
 
 Kkantra is a techno and house artist based in United Kingdom, tracked on soundcheck, with 10 sets logged across Manchester and Singapore. Often billed alongside Egui, Deventi and Loftik. Next up: Stage and Radio, Manchester on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ Kkantra is a techno and house artist based in United Kingdom, tracked on soundch
 
 Egui, Deventi, Loftik
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kkantra/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kkantra/)*

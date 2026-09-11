@@ -1,6 +1,6 @@
 # Pablo Say
 
-Pablo Say is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Thu, 10 Sept 2026, next at Abun Dance, Bangkok on Fri, 11 Sept 2026.
+Pablo Say is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Fri, 11 Sept 2026, next at Abun Dance, Bangkok on Fri, 11 Sept 2026.
 
 Pablo Say is a techno and tech house artist tracked on soundcheck, with 35 sets logged across Amsterdam, Bangkok, Barcelona and Cologne and 9 more. Often billed alongside Spartaque, Adam Beyer and Cristian Varela. Next up: Abun Dance, Bangkok on Fri 11 Sept.
 
@@ -25,4 +25,4 @@ Pablo Say is a techno and tech house artist tracked on soundcheck, with 35 sets 
 
 Spartaque, Adam Beyer, Cristian Varela
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/pablosay/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/pablosay/)*

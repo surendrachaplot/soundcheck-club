@@ -1,6 +1,6 @@
 # Happy 19th Birthday Renate 7 Floors, 66 Hours w/ Angel D'lite, Stenny, Mary Lake, Daniel Avery at Renate
 
-Happy 19th Birthday Renate 7 Floors, 66 Hours w/ Angel D'lite, Stenny, Mary Lake, Daniel Avery on Fri 11 Sept, Berlin. 71 acts on the bill: AAMIROO, ābnamā, Adam Cooke and AGILY and 67 more. Techno and House. Preview the line-up and save it on soundcheck.
+Happy 19th Birthday Renate 7 Floors, 66 Hours w/ Angel D'lite, Stenny, Mary Lake, Daniel Avery on Fri 11 Sept, Berlin. 72 acts on the bill: AAMIROO, ābnamā, Adam Cooke and AGILY and 68 more. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -76,6 +76,7 @@ Happy 19th Birthday Renate 7 Floors, 66 Hours w/ Angel D'lite, Stenny, Mary Lake
 - Tam Tam
 - TamTam
 - Tangela
+- tee.tee
 - Triqi
 - Tzena
 - UrbnMowgli

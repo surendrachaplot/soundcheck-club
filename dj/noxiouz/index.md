@@ -1,8 +1,8 @@
 # Noxiouz
 
-Noxiouz is a Hardcore and Industrial artist with 2 upcoming club dates listed on soundcheck as of Thu, 10 Sept 2026, next at P36 Terminal 1 Busparkplatz  / Sonic-Warrior Festival Tours Abfahrt, Frankfurt on Sat, 19 Sept 2026.
+Noxiouz is a Hardcore and Techno artist with 3 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at P36 Terminal 1 Busparkplatz  / Sonic-Warrior Festival Tours Abfahrt, Frankfurt on Sat, 19 Sept 2026.
 
-Noxiouz is a hardcore and industrial artist based in Netherlands, tracked on soundcheck, with 13 sets logged across Amsterdam, Cologne, Frankfurt and Glasgow and 2 more. Often billed alongside Lekkerfaces, Satirized and The Dark Horror. Next up: P36 Terminal 1 Busparkplatz  / Sonic-Warrior Festival Tours Abfahrt, Frankfurt on Sat 19 Sept.
+Noxiouz is a hardcore and techno artist based in Netherlands, tracked on soundcheck, with 14 sets logged across Amsterdam, Cologne, Frankfurt and Glasgow and 3 more. Often billed alongside Lekkerfaces, Satirized and The Dark Horror. Next up: P36 Terminal 1 Busparkplatz  / Sonic-Warrior Festival Tours Abfahrt, Frankfurt on Sat 19 Sept.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Noxiouz is a hardcore and industrial artist based in Netherlands, tracked on sou
 | --- | --- | --- |
 | Sat, 19 Sept 2026 | P36 Terminal 1 Busparkplatz  / Sonic-Warrior Festival Tours Abfahrt | Frankfurt |
 | Sat, 24 Oct 2026 | Fabrik | Madrid |
+| Sat, 31 Oct 2026 | Kesselhaus | Munich |
 
 ## Recently played
 
@@ -26,4 +27,4 @@ Noxiouz is a hardcore and industrial artist based in Netherlands, tracked on sou
 
 Lekkerfaces, Satirized, The Dark Horror
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/noxiouz/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/noxiouz/)*

@@ -1,6 +1,6 @@
 # SILO
 
-SILO is a music venue in New York City with 32 upcoming nights listed on soundcheck as of Thu, 10 Sept 2026; the next is "VIM! X OVMBR present: OVMBRSOUNDS 01" on Thu, 10 Sept 2026.
+SILO is a music venue in New York City with 32 upcoming nights listed on soundcheck as of Fri, 11 Sept 2026; the next is "Caspa" on Fri, 11 Sept 2026.
 
 SILO is a music venue in Newyorkcity listed on soundcheck. 32 upcoming nights, with line-ups including Amiti, Anyasa, Baauer and Bag Raiders and 2 more. Browse upcoming dates, start times and who's playing. 90 Scott Ave, East Williamsburg, Brooklyn.
 
@@ -8,9 +8,9 @@ SILO is a music venue in Newyorkcity listed on soundcheck. 32 upcoming nights, w
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Thu, 10 Sept 2026 | VIM! X OVMBR present: OVMBRSOUNDS 01 | Dede |
 | Fri, 11 Sept 2026 | Caspa | Casey Club, Caspa |
 | Sat, 12 Sept 2026 | DESCENDANTS: An Afrohouse Experience | Donis, Kitty Amor, Meedy, pizzi |
+| Sat, 12 Sept 2026 | The Warm Up: Dance Workshop [All Levels] |  |
 | Mon, 14 Sept 2026 | Open Decks with STEEN and SilkyBlack | STEEN |
 | Tue, 15 Sept 2026 | Open Decks with STEEN & Rhythm Cartel | STEEN |
 | Wed, 16 Sept 2026 | Tiffany Day presents: Bassfluff Afterparty |  |
@@ -23,4 +23,4 @@ SILO is a music venue in Newyorkcity listed on soundcheck. 32 upcoming nights, w
 
 90 Scott Ave, East Williamsburg, Brooklyn, New York City
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/silo/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/silo/)*

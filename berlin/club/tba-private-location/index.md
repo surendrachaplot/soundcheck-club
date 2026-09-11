@@ -1,6 +1,6 @@
 # TBA - Private Location
 
-TBA - Private Location is a music venue in Berlin with 6 upcoming nights listed on soundcheck as of Thu, 10 Sept 2026; the next is "DOLLY presents... Carmen (LIVE) with DJ Hockey & LVT" on Sat, 12 Sept 2026.
+TBA - Private Location is a music venue in Berlin with 6 upcoming nights listed on soundcheck as of Fri, 11 Sept 2026; the next is "DOLLY presents... Carmen (LIVE) with DJ Hockey & LVT" on Sat, 12 Sept 2026.
 
 TBA - Private Location is a music venue in Berlin listed on soundcheck. 6 upcoming nights, with line-ups including Brendocha, Carmen (5), Coffintexts and DJ Hockey and 2 more. Browse upcoming dates, start times and who's playing.
 
@@ -15,4 +15,4 @@ TBA - Private Location is a music venue in Berlin listed on soundcheck. 6 upcomi
 | Sat, 10 Oct 2026 | DOLLY presents... x3butterfly (NYC) with Mood Change & INNEZZ b2b SUBDIDI | INNEZZ, Mood Change, SUBDIDI, x3butterfly |
 | Sat, 14 Nov 2026 | DOLLY presents... Coffintexts (Tratratrax, omnidisc, Clasico) with Brendocha & 3C-MD | Brendocha, Coffintexts |
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/tba-private-location/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/tba-private-location/)*

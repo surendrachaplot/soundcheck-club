@@ -1,6 +1,6 @@
 # Revolver Canggu
 
-Revolver Canggu is a music venue in Bali with 1 upcoming night listed on soundcheck as of Thu, 10 Sept 2026; the next is "The Saturday Rev Up! Revolver x SAY LESS" on Sat, 12 Sept 2026.
+Revolver Canggu is a music venue in Bali with 1 upcoming night listed on soundcheck as of Fri, 11 Sept 2026; the next is "The Saturday Rev Up! Revolver x SAY LESS" on Sat, 12 Sept 2026.
 
 Revolver Canggu is a music venue in Bali listed on soundcheck. 1 upcoming night. Browse upcoming dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ Revolver Canggu is a music venue in Bali listed on soundcheck. 1 upcoming night.
 | --- | --- | --- |
 | Sat, 12 Sept 2026 | The Saturday Rev Up! Revolver x SAY LESS |  |
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/bali/club/revolver-canggu/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/bali/club/revolver-canggu/)*

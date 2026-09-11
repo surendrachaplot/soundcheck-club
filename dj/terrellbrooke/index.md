@@ -1,6 +1,6 @@
 # Terrell Brooke
 
-Terrell Brooke is a House and Club artist with 1 upcoming club date listed on soundcheck as of Thu, 10 Sept 2026, next at Barra 90, Los Angeles on Sun, 20 Sept 2026.
+Terrell Brooke is a House and Club artist with 1 upcoming club date listed on soundcheck as of Fri, 11 Sept 2026, next at Barra 90, Los Angeles on Sun, 20 Sept 2026.
 
 Terrell Brooke is a house and club artist based in United States of America, tracked on soundcheck, with 53 sets logged across Detroit, Losangeles and Newyorkcity. Often billed alongside BODII, NEPTUNEWAVEY and baby.com. Next up: Barra 90, Losangeles on Sun 20 Sept.
 
@@ -25,4 +25,4 @@ Terrell Brooke is a house and club artist based in United States of America, tra
 
 BODII, NEPTUNEWAVEY, baby.com
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/terrellbrooke/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/terrellbrooke/)*

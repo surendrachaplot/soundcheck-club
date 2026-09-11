@@ -1,8 +1,8 @@
 # Polygonia
 
-Polygonia is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Thu, 10 Sept 2026, next at Levenslang Amsterdam, Amsterdam on Thu, 22 Oct 2026.
+Polygonia is a Techno and House artist with 7 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at Levenslang Amsterdam, Amsterdam on Thu, 22 Oct 2026.
 
-Polygonia is a techno and house artist tracked on soundcheck, with 225 sets logged across Amsterdam, Athens, Bali and Barcelona and 58 more. Often billed alongside GiGi FM, BASHKKA and Efdemin. Next up: Levenslang Amsterdam, Amsterdam on Thu 22 Oct.
+Polygonia is a techno and house artist tracked on soundcheck, with 227 sets logged across Amsterdam, Athens, Bali and Barcelona and 58 more. Often billed alongside GiGi FM, BASHKKA and Efdemin. Next up: Levenslang Amsterdam, Amsterdam on Thu 22 Oct.
 
 ## Upcoming shows
 
@@ -13,6 +13,8 @@ Polygonia is a techno and house artist tracked on soundcheck, with 225 sets logg
 | Sat, 31 Oct 2026 | SMUT Athens | Athens |
 | Thu, 5 Nov 2026 | ZENNER | Berlin |
 | Fri, 6 Nov 2026 | The White Hotel | Manchester |
+| Sat, 7 Nov 2026 | FOLD | London |
+| Fri, 13 Nov 2026 | Les Enfants Brillants | Barcelona |
 
 ## Recently played
 
@@ -29,4 +31,4 @@ Polygonia is a techno and house artist tracked on soundcheck, with 225 sets logg
 
 GiGi FM, BASHKKA, Efdemin
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/polygonia/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/polygonia/)*

@@ -1,6 +1,6 @@
 # Stormmm
 
-Stormmm is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 10 Sept 2026, next at FLUCC, Vienna on Sat, 12 Sept 2026.
+Stormmm is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 11 Sept 2026, next at FLUCC, Vienna on Sat, 12 Sept 2026.
 
 Stormmm is a techno and house artist tracked on soundcheck, with 8 sets logged across Belgrade and Vienna. Often billed alongside BrüneX, Nuvo Départ and pallifaty. Next up: FLUCC, Vienna on Sat 12 Sept.
 
@@ -24,4 +24,4 @@ Stormmm is a techno and house artist tracked on soundcheck, with 8 sets logged a
 
 BrüneX, Nuvo Départ, pallifaty
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/stormmm/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/stormmm/)*

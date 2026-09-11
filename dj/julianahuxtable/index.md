@@ -1,14 +1,13 @@
 # Juliana Huxtable
 
-Juliana Huxtable is a Techno and House artist with 9 upcoming club dates listed on soundcheck as of Thu, 10 Sept 2026, next at Standard Time, Toronto on Thu, 10 Sept 2026.
+Juliana Huxtable is a Techno and House artist with 8 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at Allan Gardens Conservatory, Toronto on Sat, 19 Sept 2026.
 
-Juliana Huxtable is a techno and house artist tracked on soundcheck, with 199 sets logged across Amsterdam, Antwerp, Athens and Austin and 34 more. Often billed alongside JASSS, Shyboi and Via App. Next up: Standard Time, Toronto on Thu 10 Sept.
+Juliana Huxtable is a techno and house artist tracked on soundcheck, with 199 sets logged across Amsterdam, Antwerp, Athens and Austin and 34 more. Often billed alongside JASSS, Shyboi and Via App. Next up: Allan Gardens Conservatory, Toronto on Sat 19 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Thu, 10 Sept 2026 | Standard Time | Toronto |
 | Sat, 19 Sept 2026 | Allan Gardens Conservatory | Toronto |
 | Fri, 25 Sept 2026 | TBA - Multiple Historic Venues - Manhattan & Brooklyn | New York City |
 | Fri, 25 Sept 2026 | Paragon | New York City |
@@ -20,6 +19,7 @@ Juliana Huxtable is a techno and house artist tracked on soundcheck, with 199 se
 
 ## Recently played
 
+- Standard Time, Toronto — Thu, 10 Sept 2026
 - Nowadays, New York City — Sat, 5 Sept 2026
 - Paragon, New York City — Sat, 22 Aug 2026
 - Stereo, Glasgow — Fri, 14 Aug 2026
@@ -27,10 +27,9 @@ Juliana Huxtable is a techno and house artist tracked on soundcheck, with 199 se
 - CLUB RAUM, Amsterdam — Fri, 7 Aug 2026
 - Lux Fragil, Lisbon — Thu, 6 Aug 2026
 - Else, Berlin — Sat, 25 Jul 2026
-- OHM, Berlin — Thu, 23 Jul 2026
 
 ## Shares bills with
 
 JASSS, Shyboi, Via App
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/julianahuxtable/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/julianahuxtable/)*

@@ -1,6 +1,6 @@
 # Oskar Knickelbein
 
-Oskar Knickelbein is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 10 Sept 2026, next at Lokschuppen Berlin, Berlin on Sat, 19 Sept 2026.
+Oskar Knickelbein is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 11 Sept 2026, next at Lokschuppen Berlin, Berlin on Sat, 19 Sept 2026.
 
 Oskar Knickelbein is a techno and house artist tracked on soundcheck, with 34 sets logged across Berlin. Often billed alongside Jin-Su, Bekkler and J-131. Next up: Lokschuppen Berlin, Berlin on Sat 19 Sept.
 
@@ -25,4 +25,4 @@ Oskar Knickelbein is a techno and house artist tracked on soundcheck, with 34 se
 
 Jin-Su, Bekkler, J-131
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/oskarknickelbein/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/oskarknickelbein/)*

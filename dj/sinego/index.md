@@ -1,8 +1,8 @@
 # Sinego
 
-Sinego is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 10 Sept 2026, next at TBA - Brussels, Brussels on Fri, 11 Sept 2026.
+Sinego is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at TBA - Brussels, Brussels on Fri, 11 Sept 2026.
 
-Sinego is a house and techno artist based in Colombia, tracked on soundcheck, with 18 sets logged across Brussels, Ibiza, Losangeles and Miami and 7 more. Often billed alongside Fiona Kraft, Jimi Jules and Mita Gami. Next up: TBA - Brussels, Brussels on Fri 11 Sept.
+Sinego is a house and techno artist based in Colombia, tracked on soundcheck, with 19 sets logged across Amsterdam, Brussels, Ibiza and Losangeles and 8 more. Often billed alongside Fiona Kraft, Jimi Jules and Xinobi. Next up: TBA - Brussels, Brussels on Fri 11 Sept.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Sinego is a house and techno artist based in Colombia, tracked on soundcheck, wi
 | --- | --- | --- |
 | Fri, 11 Sept 2026 | TBA - Brussels | Brussels |
 | Fri, 18 Sept 2026 | TBA - Aeródromo Vilar de Luz - LPVL, 4425 Folgosa, Portugal | Porto |
+| Sat, 24 Oct 2026 | WestWeelde | Amsterdam |
 
 ## Recently played
 
@@ -24,6 +25,6 @@ Sinego is a house and techno artist based in Colombia, tracked on soundcheck, wi
 
 ## Shares bills with
 
-Fiona Kraft, Jimi Jules, Mita Gami
+Fiona Kraft, Jimi Jules, Xinobi
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sinego/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sinego/)*

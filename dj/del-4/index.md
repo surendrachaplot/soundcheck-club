@@ -1,6 +1,6 @@
 # Del (4)
 
-Del (4) is a Techno and Club artist with 3 upcoming club dates listed on soundcheck as of Thu, 10 Sept 2026, next at C'mon Everybody, New York City on Sat, 19 Sept 2026.
+Del (4) is a Techno and Club artist with 3 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at C'mon Everybody, New York City on Sat, 19 Sept 2026.
 
 Del (4) is a techno and club artist based in United States of America, tracked on soundcheck, with 50 sets logged across Bristol, Miami, Newyorkcity and Philadelphia and 1 more. Often billed alongside Mnemonics, FINISHHER and SNAQ. Next up: C'mon Everybody, Newyorkcity on Sat 19 Sept.
 
@@ -27,4 +27,4 @@ Del (4) is a techno and club artist based in United States of America, tracked o
 
 Mnemonics, FINISHHER, SNAQ
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/del-4/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/del-4/)*

@@ -1,6 +1,6 @@
 # Casa Montjuïc
 
-Casa Montjuïc is a music venue in Barcelona with 4 upcoming nights listed on soundcheck as of Thu, 10 Sept 2026; the next is "Visible Cloaks" on Sat, 12 Sept 2026.
+Casa Montjuïc is a music venue in Barcelona with 4 upcoming nights listed on soundcheck as of Fri, 11 Sept 2026; the next is "Visible Cloaks" on Sat, 12 Sept 2026.
 
 Casa Montjuïc is a music venue in Barcelona listed on soundcheck. 4 upcoming nights, with line-ups including Lemna. Browse upcoming dates, start times and who's playing. Vila i Vilà 65, 08004, Barcelona.
 
@@ -17,4 +17,4 @@ Casa Montjuïc is a music venue in Barcelona listed on soundcheck. 4 upcoming ni
 
 Vila i Vilà 65, 08004, Barcelona, Barcelona
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/casa-montju-c/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/casa-montju-c/)*

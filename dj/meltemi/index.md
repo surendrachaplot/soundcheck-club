@@ -1,6 +1,6 @@
 # meltemi
 
-meltemi is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 10 Sept 2026, next at Schodki Bar, Warsaw on Sat, 12 Sept 2026.
+meltemi is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 11 Sept 2026, next at Schodki Bar, Warsaw on Sat, 12 Sept 2026.
 
 meltemi is a techno and house artist tracked on soundcheck, with 5 sets logged across Warsaw. Often billed alongside muravvsk, yungusb and Nightfall. Next up: Schodki Bar, Warsaw on Sat 12 Sept.
 
@@ -21,4 +21,4 @@ meltemi is a techno and house artist tracked on soundcheck, with 5 sets logged a
 
 muravvsk, yungusb, Nightfall
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/meltemi/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/meltemi/)*

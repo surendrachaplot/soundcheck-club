@@ -1,10 +1,10 @@
 # SUMMER AIN'T OVER powered by PERREA at The Haggerston
 
-SUMMER AIN'T OVER powered by PERREA at The Haggerston on Thu 17 Sept, London. Dancehall and Reggaeton. Preview the line-up and save it on soundcheck.
+SUMMER AIN'T OVER powered by PERREA at The Haggerston on Sat 26 Sept, London. Dancehall and Reggaeton. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
-| Date | Thu, 17 Sept 2026 |
+| Date | Sat, 26 Sept 2026 |
 | Venue | The Haggerston |
 | City | London |
 

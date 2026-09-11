@@ -1,6 +1,6 @@
 # Innershades
 
-Innershades is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 10 Sept 2026, next at Fuse, Brussels on Sat, 10 Oct 2026.
+Innershades is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 11 Sept 2026, next at Fuse, Brussels on Sat, 10 Oct 2026.
 
 Innershades is a techno and house artist tracked on soundcheck, with 62 sets logged across Amsterdam, Barcelona, Berlin and Bristol and 13 more. Often billed alongside DC Salas, Border One and Marie-Julie. Next up: Fuse, Brussels on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ Innershades is a techno and house artist tracked on soundcheck, with 62 sets log
 
 DC Salas, Border One, Marie-Julie
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/innershades/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/innershades/)*

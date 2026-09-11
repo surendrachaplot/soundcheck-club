@@ -1,6 +1,6 @@
 # Messiahwaits
 
-Messiahwaits is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Thu, 10 Sept 2026, next at Shelter, Seoul on Fri, 11 Sept 2026.
+Messiahwaits is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Fri, 11 Sept 2026, next at Shelter, Seoul on Fri, 11 Sept 2026.
 
 Messiahwaits is a techno and industrial artist tracked on soundcheck, with 86 sets logged across Amsterdam, Bangkok, Basel and Berlin and 17 more. Often billed alongside NO1ELSE, FENGX2 and Acierate. Next up: Shelter, Seoul on Fri 11 Sept.
 
@@ -25,4 +25,4 @@ Messiahwaits is a techno and industrial artist tracked on soundcheck, with 86 se
 
 NO1ELSE, FENGX2, Acierate
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/messiahwaits/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/messiahwaits/)*

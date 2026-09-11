@@ -1,14 +1,13 @@
 # Fünk
 
-Fünk is a music venue in Mexico City with 10 upcoming nights listed on soundcheck as of Thu, 10 Sept 2026; the next is "Girls All Around x Fünk" on Thu, 10 Sept 2026.
+Fünk is a music venue in Mexico City with 9 upcoming nights listed on soundcheck as of Fri, 11 Sept 2026; the next is "Trommel: Fantastic Man + Yamour + Bastard Love" on Fri, 11 Sept 2026.
 
-Fünk is a music venue in Mexicocity listed on soundcheck. 10 upcoming nights, with line-ups including Alexa Rosas, Ana Armada, Baby Mango and Bastard Love and 2 more. Browse upcoming dates, start times and who's playing. Av. Insurgentes Sur 377, Hipódromo, Cuauhtémoc, 06100 Ciudad de México, CDMX, Mexico.
+Fünk is a music venue in Mexicocity listed on soundcheck. 9 upcoming nights, with line-ups including Baby Mango, Bastard Love, Blu:sh and Cabizbajo and 2 more. Browse upcoming dates, start times and who's playing. Av. Insurgentes Sur 377, Hipódromo, Cuauhtémoc, 06100 Ciudad de México, CDMX, Mexico.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Thu, 10 Sept 2026 | Girls All Around x Fünk | Alexa Rosas, Ana Armada, LeFaux |
 | Fri, 11 Sept 2026 | Trommel: Fantastic Man + Yamour + Bastard Love | Bastard Love, Fantastic Man, Yamour |
 | Sat, 12 Sept 2026 | Himma x Fünk |  |
 | Thu, 17 Sept 2026 | Rat Back Crew x Fünk | SAUANI |
@@ -23,4 +22,4 @@ Fünk is a music venue in Mexicocity listed on soundcheck. 10 upcoming nights, w
 
 Av. Insurgentes Sur 377, Hipódromo, Cuauhtémoc, 06100 Ciudad de México, CDMX, Mexico, Mexico City
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/mexicocity/club/f-nk/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/mexicocity/club/f-nk/)*

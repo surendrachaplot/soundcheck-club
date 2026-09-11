@@ -1,6 +1,6 @@
 # Rádio Unie 2: Canino FM + Infame + Labe + Shella at Ankali & Planeta Za
 
-Rádio Unie 2: Canino FM + Infame + Labe + Shella at Ankali & Planeta Za on Sat 19 Sept, Prague. 4 acts on the bill: Just Claudia, mata rubia, patricccio and Pépe. Preview the line-up and save it on soundcheck.
+Rádio Unie 2: Canino FM + Infame + Labe + Shella at Ankali & Planeta Za on Sat 19 Sept, Prague. 5 acts on the bill: holé baby, Just Claudia, mata rubia and patricccio and 1 more. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ Rádio Unie 2: Canino FM + Infame + Labe + Shella at Ankali & Planeta Za on Sat 
 
 ## Line-up
 
+- holé baby
 - Just Claudia
 - mata rubia
 - patricccio

@@ -1,6 +1,6 @@
 # DJ LOSER
 
-DJ LOSER is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Thu, 10 Sept 2026, next at 314 Scholes, New York City on Sat, 26 Sept 2026.
+DJ LOSER is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Fri, 11 Sept 2026, next at 314 Scholes, New York City on Sat, 26 Sept 2026.
 
 DJ LOSER is a techno and trance artist tracked on soundcheck, with 32 sets logged across Athens, Barcelona, Belgrade and Berlin and 11 more. Often billed alongside Nkisi, xato and 0111001101110100. Next up: 314 Scholes, Newyorkcity on Sat 26 Sept.
 
@@ -25,4 +25,4 @@ DJ LOSER is a techno and trance artist tracked on soundcheck, with 32 sets logge
 
 Nkisi, xato, 0111001101110100
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djloser/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djloser/)*

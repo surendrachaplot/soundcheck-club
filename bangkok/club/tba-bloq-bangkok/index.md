@@ -1,6 +1,6 @@
 # TBA - BLOQ Bangkok
 
-TBA - BLOQ Bangkok is a music venue in Bangkok with 1 upcoming night listed on soundcheck as of Thu, 10 Sept 2026; the next is "Irie Tingz PRESENTS: GENERAL LEVY AT BLOQ BANGKOK" on Fri, 2 Oct 2026.
+TBA - BLOQ Bangkok is a music venue in Bangkok with 1 upcoming night listed on soundcheck as of Fri, 11 Sept 2026; the next is "Irie Tingz PRESENTS: GENERAL LEVY AT BLOQ BANGKOK" on Fri, 2 Oct 2026.
 
 TBA - BLOQ Bangkok is a music venue in Bangkok listed on soundcheck. 1 upcoming night. Browse upcoming dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ TBA - BLOQ Bangkok is a music venue in Bangkok listed on soundcheck. 1 upcoming 
 | --- | --- | --- |
 | Fri, 2 Oct 2026 | Irie Tingz PRESENTS: GENERAL LEVY AT BLOQ BANGKOK |  |
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/bangkok/club/tba-bloq-bangkok/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/bangkok/club/tba-bloq-bangkok/)*

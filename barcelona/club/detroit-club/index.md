@@ -1,6 +1,6 @@
 # DETROIT CLUB
 
-DETROIT CLUB is a music venue in Barcelona with 11 upcoming nights listed on soundcheck as of Thu, 10 Sept 2026; the next is "Resonance" on Sat, 12 Sept 2026.
+DETROIT CLUB is a music venue in Barcelona with 11 upcoming nights listed on soundcheck as of Fri, 11 Sept 2026; the next is "Resonance" on Sat, 12 Sept 2026.
 
 DETROIT CLUB is a music venue in Barcelona listed on soundcheck. 11 upcoming nights, with line-ups including CARGO (DE), Casanøva, Cobb Douglas and DiscoDaisy and 2 more. Browse upcoming dates, start times and who's playing. Passatge Can Polític, 13, b, 08907 Hospitalet de Llobregat, Barcelona.
 
@@ -14,7 +14,7 @@ DETROIT CLUB is a music venue in Barcelona listed on soundcheck. 11 upcoming nig
 | Sat, 19 Sept 2026 | EKLIPSE pres. Toobris | TBA, Toobris |
 | Sat, 26 Sept 2026 | HardNoises x Trocadero.GO$PEL, PENCIL, REGGIO  | REGGIO, VØLNA |
 | Sun, 27 Sept 2026 | Hard noises x Trocadero | INH3LL, SARA KRIN |
-| Fri, 2 Oct 2026 | VOLTAGE x DETROIT l HardTechno |  |
+| Fri, 2 Oct 2026 | VOLTAGE x DETROIT l HardTechno | ERØXX, Kingsmo |
 | Sat, 3 Oct 2026 | TechnoZulo pres. HARD RITUAL |  |
 | Sat, 24 Oct 2026 | ÉLITE EVENTS PRESENTS: MAMBA | Casanøva, JOANNA DARK |
 | Sat, 31 Oct 2026 | HALLOWEEN x VOLTAGE l HardTechno |  |
@@ -23,4 +23,4 @@ DETROIT CLUB is a music venue in Barcelona listed on soundcheck. 11 upcoming nig
 
 Passatge Can Polític, 13, b, 08907 Hospitalet de Llobregat, Barcelona, Barcelona
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/detroit-club/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/detroit-club/)*

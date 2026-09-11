@@ -1,6 +1,6 @@
 # Alphonsine Koh
 
-Alphonsine Koh is a Techno and Experimental artist with 2 upcoming club dates listed on soundcheck as of Thu, 10 Sept 2026, next at TBA - Warschauer Pl. 18, 10245 Berlin, Berlin on Sat, 12 Sept 2026.
+Alphonsine Koh is a Techno and Experimental artist with 2 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at TBA - Warschauer Pl. 18, 10245 Berlin, Berlin on Sat, 12 Sept 2026.
 
 Alphonsine Koh is a techno and experimental artist tracked on soundcheck, with 8 sets logged across Berlin and Vienna. Often billed alongside KALI., Lü (Luis Küffner) and Mithril. Next up: TBA - Warschauer Pl. 18, 10245 Berlin, Berlin on Sat 12 Sept.
 
@@ -24,4 +24,4 @@ Alphonsine Koh is a techno and experimental artist tracked on soundcheck, with 8
 
 KALI., Lü (Luis Küffner), Mithril
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/alphonsinekoh/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/alphonsinekoh/)*

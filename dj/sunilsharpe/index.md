@@ -1,6 +1,6 @@
 # Sunil Sharpe
 
-Sunil Sharpe is a Techno and Electro artist with 2 upcoming club dates listed on soundcheck as of Thu, 10 Sept 2026, next at CLUB RAUM, Amsterdam on Sat, 26 Sept 2026.
+Sunil Sharpe is a Techno and Electro artist with 2 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at CLUB RAUM, Amsterdam on Sat, 26 Sept 2026.
 
 Sunil Sharpe is a techno and electro artist based in Ireland, tracked on soundcheck, with 96 sets logged across Amsterdam, Athens, Barcelona and Belfast and 29 more. Often billed alongside Kerrie, Newa and IMOGEN. Next up: CLUB RAUM, Amsterdam on Sat 26 Sept.
 
@@ -26,4 +26,4 @@ Sunil Sharpe is a techno and electro artist based in Ireland, tracked on soundch
 
 Kerrie, Newa, IMOGEN
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sunilsharpe/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sunilsharpe/)*

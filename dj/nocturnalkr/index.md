@@ -1,13 +1,15 @@
 # Nocturnal (KR)
 
-Nocturnal (KR) is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 10 Sept 2026, next at Faust, Seoul on Wed, 23 Sept 2026.
+Nocturnal (KR) is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at Faust, Seoul on Fri, 18 Sept 2026.
 
-Nocturnal (KR) is a house and techno artist tracked on soundcheck, with 104 sets logged across Osaka, Prague, Seoul and Singapore and 1 more. Often billed alongside Minish, Ginger (KR) and Mars Parck. Next up: Faust, Seoul on Wed 23 Sept.
+Nocturnal (KR) is a house and techno artist tracked on soundcheck, with 106 sets logged across Osaka, Prague, Seoul and Singapore and 1 more. Often billed alongside Minish, Ginger (KR) and Mars Parck. Next up: Faust, Seoul on Fri 18 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 18 Sept 2026 | Faust | Seoul |
+| Sat, 19 Sept 2026 | Faust | Seoul |
 | Wed, 23 Sept 2026 | Faust | Seoul |
 | Sat, 26 Sept 2026 | Faust | Seoul |
 
@@ -26,4 +28,4 @@ Nocturnal (KR) is a house and techno artist tracked on soundcheck, with 104 sets
 
 Minish, Ginger (KR), Mars Parck
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nocturnalkr/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nocturnalkr/)*

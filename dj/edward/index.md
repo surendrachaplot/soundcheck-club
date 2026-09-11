@@ -1,6 +1,6 @@
 # Edward
 
-Edward is a House and Minimal artist with 7 upcoming club dates listed on soundcheck as of Thu, 10 Sept 2026, next at Nido Marseille, Marseille on Sat, 19 Sept 2026.
+Edward is a House and Minimal artist with 7 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at Nido Marseille, Marseille on Sat, 19 Sept 2026.
 
 Edward is a house and minimal artist tracked on soundcheck, with 133 sets logged across Amsterdam, Antwerp, Barcelona and Basel and 28 more. Often billed alongside Konstantin, Leafar Legov and Yamour. Next up: Nido Marseille, Marseille on Sat 19 Sept.
 
@@ -31,4 +31,4 @@ Edward is a house and minimal artist tracked on soundcheck, with 133 sets logged
 
 Konstantin, Leafar Legov, Yamour
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/edward/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/edward/)*

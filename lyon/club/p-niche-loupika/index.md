@@ -1,6 +1,6 @@
 # Péniche Loupika
 
-Péniche Loupika is a music venue in Lyon with 2 upcoming nights listed on soundcheck as of Thu, 10 Sept 2026; the next is "The DARE night invite DJ Bax (NZ)" on Sat, 5 Sept 2026.
+Péniche Loupika is a music venue in Lyon with 2 upcoming nights listed on soundcheck as of Fri, 11 Sept 2026; the next is "The DARE night invite DJ Bax (NZ)" on Sat, 5 Sept 2026.
 
 Péniche Loupika is a music venue in Lyon listed on soundcheck. 2 upcoming nights, with line-ups including Arista and DJ Bax. Browse upcoming dates, start times and who's playing. 47 Quai Rambaud, 69002 Lyon, France.
 
@@ -15,4 +15,4 @@ Péniche Loupika is a music venue in Lyon listed on soundcheck. 2 upcoming night
 
 47 Quai Rambaud, 69002 Lyon, France, Lyon
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/lyon/club/p-niche-loupika/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/lyon/club/p-niche-loupika/)*

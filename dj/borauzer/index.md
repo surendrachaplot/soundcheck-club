@@ -1,8 +1,8 @@
 # Bora Uzer
 
-Bora Uzer is a House and Electronica artist with 4 upcoming club dates listed on soundcheck as of Thu, 10 Sept 2026, next at TBA - Aeródromo Vilar de Luz - LPVL, 4425 Folgosa, Portugal, Porto on Fri, 18 Sept 2026.
+Bora Uzer is a House and Electronica artist with 5 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at TBA - Aeródromo Vilar de Luz - LPVL, 4425 Folgosa, Portugal, Porto on Fri, 18 Sept 2026.
 
-Bora Uzer is a house and electronica artist tracked on soundcheck, with 112 sets logged across Austin, Bali, Barcelona and Buenosaires and 16 more. Often billed alongside Valentin Huedo, Julia Sandstorm and Kiddy Smile. Next up: TBA - Aeródromo Vilar de Luz - LPVL, 4425 Folgosa, Portugal, Porto on Fri 18 Sept.
+Bora Uzer is a house and electronica artist tracked on soundcheck, with 113 sets logged across Amsterdam, Austin, Bali and Barcelona and 17 more. Often billed alongside Julia Sandstorm, Valentin Huedo and Kiddy Smile. Next up: TBA - Aeródromo Vilar de Luz - LPVL, 4425 Folgosa, Portugal, Porto on Fri 18 Sept.
 
 ## Upcoming shows
 
@@ -12,6 +12,7 @@ Bora Uzer is a house and electronica artist tracked on soundcheck, with 112 sets
 | Sat, 19 Sept 2026 | [UNVRS] | Ibiza |
 | Sun, 20 Sept 2026 | Ku Barcelona | Barcelona |
 | Fri, 25 Sept 2026 | Cova Santa | Ibiza |
+| Sat, 24 Oct 2026 | WestWeelde | Amsterdam |
 
 ## Recently played
 
@@ -26,6 +27,6 @@ Bora Uzer is a house and electronica artist tracked on soundcheck, with 112 sets
 
 ## Shares bills with
 
-Valentin Huedo, Julia Sandstorm, Kiddy Smile
+Julia Sandstorm, Valentin Huedo, Kiddy Smile
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/borauzer/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/borauzer/)*

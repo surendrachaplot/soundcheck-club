@@ -1,6 +1,6 @@
 # ROHiNA
 
-ROHiNA is a Bass and Amapiano artist with 3 upcoming club dates listed on soundcheck as of Thu, 10 Sept 2026, next at The Haggerston, London on Fri, 11 Sept 2026.
+ROHiNA is a Bass and Amapiano artist with 3 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at The Haggerston, London on Fri, 11 Sept 2026.
 
 ROHiNA is a bass and amapiano artist tracked on soundcheck, with 8 sets logged across London. Often billed alongside Olive Juice, Sippin' T and ThatGirlDee. Next up: The Haggerston, London on Fri 11 Sept.
 
@@ -24,4 +24,4 @@ ROHiNA is a bass and amapiano artist tracked on soundcheck, with 8 sets logged a
 
 Olive Juice, Sippin' T, ThatGirlDee
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/rohina/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/rohina/)*

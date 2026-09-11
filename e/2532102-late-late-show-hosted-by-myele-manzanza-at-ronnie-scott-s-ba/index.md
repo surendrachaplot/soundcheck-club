@@ -1,6 +1,6 @@
 # Late Late Show hosted by Myele Manzanza at Ronnie Scott's Bar
 
-Late Late Show hosted by Myele Manzanza at Ronnie Scott's Bar on Thu 24 Sept, London. Broken Beat and Jazz. Preview the line-up and save it on soundcheck.
+Late Late Show hosted by Myele Manzanza at Ronnie Scott's Bar on Thu 24 Sept, London. Jazz and Broken Beat. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

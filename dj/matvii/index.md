@@ -1,6 +1,6 @@
 # matvii
 
-matvii is a Electronica and House artist with 1 upcoming club date listed on soundcheck as of Thu, 10 Sept 2026, next at Collect LX Factory, Lisbon on Thu, 24 Sept 2026.
+matvii is a Electronica and House artist with 1 upcoming club date listed on soundcheck as of Fri, 11 Sept 2026, next at Collect LX Factory, Lisbon on Thu, 24 Sept 2026.
 
 matvii is an electronica and house artist tracked on soundcheck, with 7 sets logged across Lisbon. Often billed alongside 420@ôa, Bejenec and Bob Valentinov. Next up: Collect LX Factory, Lisbon on Thu 24 Sept.
 
@@ -23,4 +23,4 @@ matvii is an electronica and house artist tracked on soundcheck, with 7 sets log
 
 420@ôa, Bejenec, Bob Valentinov
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/matvii/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/matvii/)*

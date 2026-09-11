@@ -1,6 +1,6 @@
 # Dengue Dengue Dengue
 
-Dengue Dengue Dengue is a Bass and Techno artist with 3 upcoming club dates listed on soundcheck as of Thu, 10 Sept 2026, next at ÆDEN, Berlin on Fri, 25 Sept 2026.
+Dengue Dengue Dengue is a Bass and Techno artist with 3 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at ÆDEN, Berlin on Fri, 25 Sept 2026.
 
 Dengue Dengue Dengue is a bass and techno artist based in Germany, tracked on soundcheck, with 52 sets logged across Amsterdam, Barcelona, Berlin and Brussels and 14 more. Often billed alongside Basy Tropikalne, Florentino and Phran. Next up: ÆDEN, Berlin on Fri 25 Sept.
 
@@ -27,4 +27,4 @@ Dengue Dengue Dengue is a bass and techno artist based in Germany, tracked on so
 
 Basy Tropikalne, Florentino, Phran
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/denguedenguedengue/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/denguedenguedengue/)*

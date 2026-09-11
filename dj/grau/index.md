@@ -1,6 +1,6 @@
 # Grau
 
-Grau is a Tech House artist with 1 upcoming club date listed on soundcheck as of Thu, 10 Sept 2026, next at Sala ART, Madrid on Sat, 24 Oct 2026.
+Grau is a Tech House artist with 1 upcoming club date listed on soundcheck as of Fri, 11 Sept 2026, next at Sala ART, Madrid on Sat, 24 Oct 2026.
 
 Grau is a tech house artist tracked on soundcheck, with 12 sets logged across Berlin and Madrid. Often billed alongside Héctor Pericet, Julio Machicado and Rude. Next up: Sala ART, Madrid on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ Grau is a tech house artist tracked on soundcheck, with 12 sets logged across Be
 
 Héctor Pericet, Julio Machicado, Rude
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/grau/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/grau/)*

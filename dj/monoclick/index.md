@@ -1,6 +1,6 @@
 # Monoclick
 
-Monoclick is a House and Minimal artist with 2 upcoming club dates listed on soundcheck as of Thu, 10 Sept 2026, next at Hedge Coffee, San Francisco/Oakland on Sat, 12 Sept 2026.
+Monoclick is a House and Minimal artist with 2 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at Hedge Coffee, San Francisco/Oakland on Sat, 12 Sept 2026.
 
 Monoclick is a house and minimal artist based in Hungary, tracked on soundcheck, with 85 sets logged across Budapest, Losangeles, Sandiego and Sanfrancisco. Often billed alongside Electric Boutique, Krane and James Houdini. Next up: Hedge Coffee, Sanfrancisco on Sat 12 Sept.
 
@@ -26,4 +26,4 @@ Monoclick is a house and minimal artist based in Hungary, tracked on soundcheck,
 
 Electric Boutique, Krane, James Houdini
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/monoclick/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/monoclick/)*

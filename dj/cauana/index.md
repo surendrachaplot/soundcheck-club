@@ -1,14 +1,15 @@
 # Cauana
 
-Cauana is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Thu, 10 Sept 2026, next at Vago, Lisbon on Fri, 11 Sept 2026.
+Cauana is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at Vago, Lisbon on Fri, 11 Sept 2026.
 
-Cauana is a house and disco artist based in Brazil, tracked on soundcheck, with 22 sets logged across Amsterdam, Berlin, Lisbon and Lyon and 3 more. Often billed alongside Gop Tun DJs, impropper and Antal. Next up: Vago, Lisbon on Fri 11 Sept.
+Cauana is a house and disco artist based in Brazil, tracked on soundcheck, with 23 sets logged across Amsterdam, Berlin, Lisbon and Lyon and 3 more. Often billed alongside Gop Tun DJs, impropper and Antal. Next up: Vago, Lisbon on Fri 11 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 11 Sept 2026 | Vago | Lisbon |
+| Sat, 12 Sept 2026 | Rūmu | Lisbon |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Cauana is a house and disco artist based in Brazil, tracked on soundcheck, with 
 
 Gop Tun DJs, impropper, Antal
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/cauana/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/cauana/)*

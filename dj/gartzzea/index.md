@@ -1,6 +1,6 @@
 # Gartzzea
 
-Gartzzea is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 10 Sept 2026, next at D-EDGE, Sao Paulo on Fri, 18 Sept 2026.
+Gartzzea is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 11 Sept 2026, next at D-EDGE, Sao Paulo on Fri, 18 Sept 2026.
 
 Gartzzea is a house and techno artist based in Brazil, tracked on soundcheck, with 37 sets logged across Barcelona, London, Manchester and Saopaulo. Often billed alongside Andre Salata, Andre Torquato and DJ Magal. Next up: D-EDGE, Saopaulo on Fri 18 Sept.
 
@@ -25,4 +25,4 @@ Gartzzea is a house and techno artist based in Brazil, tracked on soundcheck, wi
 
 Andre Salata, Andre Torquato, DJ Magal
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/gartzzea/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/gartzzea/)*

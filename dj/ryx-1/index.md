@@ -1,6 +1,6 @@
 # RYX (1)
 
-RYX (1) is a Techno and Trance artist with 5 upcoming club dates listed on soundcheck as of Thu, 10 Sept 2026, next at Mobilat Club, Stuttgart on Sat, 12 Sept 2026.
+RYX (1) is a Techno and Trance artist with 5 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at Mobilat Club, Stuttgart on Sat, 12 Sept 2026.
 
 RYX (1) is a techno and trance artist based in Germany, tracked on soundcheck, with 21 sets logged across Berlin, Bucharest, Cologne and Ibiza and 5 more. Often billed alongside CÖLN, Badlokk and BBUBU. Next up: Mobilat Club, Stuttgart on Sat 12 Sept.
 
@@ -29,4 +29,4 @@ RYX (1) is a techno and trance artist based in Germany, tracked on soundcheck, w
 
 CÖLN, Badlokk, BBUBU
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ryx-1/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ryx-1/)*

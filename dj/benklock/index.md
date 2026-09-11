@@ -1,6 +1,6 @@
 # Ben Klock
 
-Ben Klock is a Techno and House artist with 10 upcoming club dates listed on soundcheck as of Thu, 10 Sept 2026, next at Anfiteatro de Pedra, Lisbon on Sat, 12 Sept 2026.
+Ben Klock is a Techno and House artist with 10 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at Anfiteatro de Pedra, Lisbon on Sat, 12 Sept 2026.
 
 Ben Klock is a techno and house artist tracked on soundcheck, with 251 sets logged across Amsterdam, Athens, Bangkok and Barcelona and 55 more. Often billed alongside Marcel Dettmann, Fadi Mohem and Rødhåd. Next up: Anfiteatro de Pedra, Lisbon on Sat 12 Sept.
 
@@ -34,4 +34,4 @@ Ben Klock is a techno and house artist tracked on soundcheck, with 251 sets logg
 
 Marcel Dettmann, Fadi Mohem, Rødhåd
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/benklock/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/benklock/)*

@@ -1,8 +1,8 @@
 # Lekkerfaces
 
-Lekkerfaces is a Hardcore and Gabber artist with 4 upcoming club dates listed on soundcheck as of Thu, 10 Sept 2026, next at Bootshaus, Cologne on Fri, 11 Sept 2026.
+Lekkerfaces is a Hardcore and Techno artist with 5 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at Bootshaus, Cologne on Fri, 11 Sept 2026.
 
-Lekkerfaces is a hardcore and gabber artist based in Italy, tracked on soundcheck, with 18 sets logged across Antwerp, Cologne, Frankfurt and Glasgow and 4 more. Often billed alongside Pinotello, The Dark Horror and Noxiouz. Next up: Bootshaus, Cologne on Fri 11 Sept.
+Lekkerfaces is a hardcore and techno artist based in Italy, tracked on soundcheck, with 19 sets logged across Antwerp, Cologne, Frankfurt and Glasgow and 5 more. Often billed alongside Pinotello, The Dark Horror and Noxiouz. Next up: Bootshaus, Cologne on Fri 11 Sept.
 
 ## Upcoming shows
 
@@ -12,6 +12,7 @@ Lekkerfaces is a hardcore and gabber artist based in Italy, tracked on soundchec
 | Sat, 19 Sept 2026 | P36 Terminal 1 Busparkplatz  / Sonic-Warrior Festival Tours Abfahrt | Frankfurt |
 | Fri, 23 Oct 2026 | Docks | Hamburg |
 | Fri, 13 Nov 2026 | Hangar 34 | Liverpool |
+| Fri, 4 Dec 2026 | Zenith - Die Kulturhalle | Munich |
 
 ## Recently played
 
@@ -28,4 +29,4 @@ Lekkerfaces is a hardcore and gabber artist based in Italy, tracked on soundchec
 
 Pinotello, The Dark Horror, Noxiouz
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lekkerfaces/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lekkerfaces/)*

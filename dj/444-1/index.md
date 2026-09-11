@@ -1,19 +1,19 @@
 # 444 (1)
 
-444 (1) is a Club and House artist with 3 upcoming club dates listed on soundcheck as of Thu, 10 Sept 2026, next at Mood Ring, New York City on Thu, 10 Sept 2026.
+444 (1) is a Club and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at Webster Hall, New York City on Sat, 17 Oct 2026.
 
-444 (1) is a club and house artist based in United States of America, tracked on soundcheck, with 25 sets logged across Mexicocity, Montreal and Newyorkcity. Often billed alongside BEYBLADE SHAWTY, LeCamille and Ushka. Next up: Mood Ring, Newyorkcity on Thu 10 Sept.
+444 (1) is a club and house artist based in United States of America, tracked on soundcheck, with 25 sets logged across Mexicocity, Montreal and Newyorkcity. Often billed alongside BEYBLADE SHAWTY, LeCamille and Ushka. Next up: Webster Hall, Newyorkcity on Sat 17 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Thu, 10 Sept 2026 | Mood Ring | New York City |
 | Sat, 17 Oct 2026 | Webster Hall | New York City |
 | Sat, 17 Oct 2026 | Webster Hall | New York City |
 
 ## Recently played
 
+- Mood Ring, New York City — Thu, 10 Sept 2026
 - Elsewhere, New York City — Sat, 15 Aug 2026
 - Elsewhere, New York City — Sat, 25 Jul 2026
 - Elsewhere, New York City — Sun, 7 Jun 2026
@@ -21,10 +21,9 @@
 - Elsewhere, New York City — Sat, 14 Feb 2026
 - Mood Ring, New York City — Sat, 3 Jan 2026
 - public records, New York City — Sun, 30 Nov 2025
-- Elsewhere, New York City — Fri, 10 Oct 2025
 
 ## Shares bills with
 
 BEYBLADE SHAWTY, LeCamille, Ushka
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/444-1/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/444-1/)*

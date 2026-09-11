@@ -1,6 +1,6 @@
 # AMT
 
-AMT is a music venue in Berlin with 11 upcoming nights listed on soundcheck as of Thu, 10 Sept 2026; the next is "CLASH" on Fri, 11 Sept 2026.
+AMT is a music venue in Berlin with 11 upcoming nights listed on soundcheck as of Fri, 11 Sept 2026; the next is "CLASH" on Fri, 11 Sept 2026.
 
 AMT is a music venue in Berlin listed on soundcheck. 11 upcoming nights, with line-ups including _minted, ALAN JOE, Alyne and Amor Ante and 2 more. Browse upcoming dates, start times and who's playing.
 
@@ -16,7 +16,7 @@ AMT is a music venue in Berlin listed on soundcheck. 11 upcoming nights, with li
 | Fri, 16 Oct 2026 | CLASH |  |
 | Fri, 16 Oct 2026 | CLASH |  |
 | Sat, 24 Oct 2026 | Brace Brace im Bunker (2 Floors) | DJesse, Isoskeles, Johænsson, Multifun, OXOPOHA, _minted, gem.ini |
-| Fri, 6 Nov 2026 | AИDƎRS @ AMT CLUB with Saytek - Live - , Somaphon , Kalimanda a. XXX | Kalimanda, Rene Oldenburg, Saytek, Somaphon |
+| Fri, 6 Nov 2026 | AИDƎRS @ AMT CLUB with Saytek - Live - , Somaphon , Kalimanda (S+) | Kalimanda, Rene Oldenburg, Saytek, Somaphon |
 | Sat, 7 Nov 2026 | deep method | GEST (UK), Kenzura, Mc Jamie White, PRTCL, Sammy B - deviate, yungfya |
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/amt/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/amt/)*

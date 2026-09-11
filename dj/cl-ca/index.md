@@ -1,6 +1,6 @@
 # Ciel
 
-Ciel is a Techno and House artist with 7 upcoming club dates listed on soundcheck as of Thu, 10 Sept 2026, next at Blå, Oslo on Thu, 10 Sept 2026.
+Ciel is a Techno and House artist with 7 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at Blå, Oslo on Thu, 10 Sept 2026.
 
 Ciel is a techno and house artist based in Canada, tracked on soundcheck, with 211 sets logged across Amsterdam, Antwerp, Austin and Bangkok and 49 more. Often billed alongside Milch (1), CCL and Venus in Foil. Next up: Blå, Oslo on Thu 10 Sept.
 
@@ -18,6 +18,7 @@ Ciel is a techno and house artist based in Canada, tracked on soundcheck, with 2
 
 ## Recently played
 
+- Blå, Oslo — Thu, 10 Sept 2026
 - Central 1926, Sao Paulo — Sat, 5 Sept 2026
 - Southwark Park, London — Sat, 29 Aug 2026
 - TBA - Southwark Park, London — Sat, 29 Aug 2026
@@ -25,10 +26,9 @@ Ciel is a techno and house artist based in Canada, tracked on soundcheck, with 2
 - Smoke & Mirrors, Chicago — Sat, 15 Aug 2026
 - TBA - Bat Country, Portland — Fri, 7 Aug 2026
 - Cafeteria, Toronto — Fri, 31 Jul 2026
-- public records, New York City — Sat, 25 Jul 2026
 
 ## Shares bills with
 
 Milch (1), CCL, Venus in Foil
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/cl-ca/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/cl-ca/)*

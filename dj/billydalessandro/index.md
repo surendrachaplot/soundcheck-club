@@ -1,6 +1,6 @@
 # Billy Dalessandro
 
-Billy Dalessandro is a House and Ambient artist with 1 upcoming club date listed on soundcheck as of Thu, 10 Sept 2026, next at ESC, Montreal on Fri, 18 Sept 2026.
+Billy Dalessandro is a House and Ambient artist with 1 upcoming club date listed on soundcheck as of Fri, 11 Sept 2026, next at ESC, Montreal on Fri, 18 Sept 2026.
 
 Billy Dalessandro is a house and ambient artist tracked on soundcheck, with 5 sets logged across Montreal and Toronto. Often billed alongside Trevor Kiernander, Cristobal Urbina and Mike Shannon. Next up: ESC, Montreal on Fri 18 Sept.
 
@@ -21,4 +21,4 @@ Billy Dalessandro is a house and ambient artist tracked on soundcheck, with 5 se
 
 Trevor Kiernander, Cristobal Urbina, Mike Shannon
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/billydalessandro/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/billydalessandro/)*

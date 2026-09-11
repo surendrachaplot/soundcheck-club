@@ -1,6 +1,6 @@
 # Adrian Mart
 
-Adrian Mart is a Club and House artist with 1 upcoming club date listed on soundcheck as of Thu, 10 Sept 2026, next at Subcero Club, Madrid on Thu, 24 Sept 2026.
+Adrian Mart is a Club and House artist with 1 upcoming club date listed on soundcheck as of Fri, 11 Sept 2026, next at Subcero Club, Madrid on Thu, 24 Sept 2026.
 
 Adrian Mart is a club and house artist based in Spain, tracked on soundcheck, with 12 sets logged across Madrid. Often billed alongside Danjers, Alexis mayer and BLANKET. Next up: Subcero Club, Madrid on Thu 24 Sept.
 
@@ -25,4 +25,4 @@ Adrian Mart is a club and house artist based in Spain, tracked on soundcheck, wi
 
 Danjers, Alexis mayer, BLANKET
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/adrianmart/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/adrianmart/)*

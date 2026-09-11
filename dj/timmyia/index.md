@@ -1,6 +1,6 @@
 # Timmyia
 
-Timmyia is a Experimental and Club artist with 1 upcoming club date listed on soundcheck as of Thu, 10 Sept 2026, next at Cafe Månefiskeren, Copenhagen on Fri, 18 Sept 2026.
+Timmyia is a Experimental and Club artist with 1 upcoming club date listed on soundcheck as of Fri, 11 Sept 2026, next at Cafe Månefiskeren, Copenhagen on Fri, 18 Sept 2026.
 
 Timmyia is an experimental and club artist based in Denmark, tracked on soundcheck, with 16 sets logged across Berlin and Copenhagen. Often billed alongside Heddah, Frederik Valentin and Lyra Valenza. Next up: Cafe Månefiskeren, Copenhagen on Fri 18 Sept.
 
@@ -25,4 +25,4 @@ Timmyia is an experimental and club artist based in Denmark, tracked on soundche
 
 Heddah, Frederik Valentin, Lyra Valenza
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/timmyia/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/timmyia/)*

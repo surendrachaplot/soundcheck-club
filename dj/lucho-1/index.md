@@ -1,6 +1,6 @@
 # Lucho (1)
 
-Lucho (1) is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Thu, 10 Sept 2026, next at feedbk, New York City on Sun, 13 Sept 2026.
+Lucho (1) is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Fri, 11 Sept 2026, next at feedbk, New York City on Sun, 13 Sept 2026.
 
 Lucho (1) is a house and deep house artist tracked on soundcheck, with 14 sets logged across Newyorkcity, Philadelphia and Washingtondc. Often billed alongside Taiga, Nema Hän and Chuwee. Next up: feedbk, Newyorkcity on Sun 13 Sept.
 
@@ -25,4 +25,4 @@ Lucho (1) is a house and deep house artist tracked on soundcheck, with 14 sets l
 
 Taiga, Nema Hän, Chuwee
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lucho-1/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lucho-1/)*

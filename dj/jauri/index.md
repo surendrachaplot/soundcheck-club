@@ -1,6 +1,6 @@
 # Jauri
 
-Jauri is a Techno and Electro artist with 2 upcoming club dates listed on soundcheck as of Thu, 10 Sept 2026, next at Arzenal, Budapest on Fri, 11 Sept 2026.
+Jauri is a Techno and Electro artist with 2 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at Arzenal, Budapest on Fri, 11 Sept 2026.
 
 Jauri is a techno and electro artist tracked on soundcheck, with 10 sets logged across Budapest, Prague and Strasbourg. Often billed alongside Technokool, Paralich and Sikztah. Next up: Arzenal, Budapest on Fri 11 Sept.
 
@@ -26,4 +26,4 @@ Jauri is a techno and electro artist tracked on soundcheck, with 10 sets logged 
 
 Technokool, Paralich, Sikztah
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jauri/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jauri/)*

@@ -1,6 +1,6 @@
 # Freight Brixton
 
-Freight Brixton is a music venue in London with 9 upcoming nights listed on soundcheck as of Thu, 10 Sept 2026; the next is "ABSOLUTE BOWIE TRIBUE BAND" on Sat, 12 Sept 2026.
+Freight Brixton is a music venue in London with 9 upcoming nights listed on soundcheck as of Fri, 11 Sept 2026; the next is "ABSOLUTE BOWIE TRIBUE BAND" on Sat, 12 Sept 2026.
 
 Freight Brixton is a music venue in London listed on soundcheck. 9 upcoming nights, with line-ups including CHÉ WAX, Craig Charles, ELSA (UK) and Marvin Humes and 1 more. Browse upcoming dates, start times and who's playing. 33 Brixton Station Road, SW9 8PB.
 
@@ -9,7 +9,7 @@ Freight Brixton is a music venue in London listed on soundcheck. 9 upcoming nigh
 | Date | Night | Line-up |
 | --- | --- | --- |
 | Sat, 12 Sept 2026 | ABSOLUTE BOWIE TRIBUE BAND |  |
-| Sat, 19 Sept 2026 | Craig Charles Rooftop Takeover | Craig Charles |
+| Sat, 19 Sept 2026 | Craig Charles Funk N Soul Rooftop Takeover | Craig Charles |
 | Thu, 24 Sept 2026 | Ashley Henry - Freight Brixton presents: Soul of the South |  |
 | Sat, 3 Oct 2026 | The Big RnB Quiz | Nana B |
 | Thu, 15 Oct 2026 | Freight Brixton PRESENTS SOUL OF THE SOUTH: ELSA | ELSA (UK) |
@@ -22,4 +22,4 @@ Freight Brixton is a music venue in London listed on soundcheck. 9 upcoming nigh
 
 33 Brixton Station Road, SW9 8PB, London
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/freight-brixton/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/freight-brixton/)*

@@ -1,6 +1,6 @@
 # Acid Mama
 
-Acid Mama is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 10 Sept 2026, next at Dead Letter No. 9, New York City on Sat, 24 Oct 2026.
+Acid Mama is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 11 Sept 2026, next at Dead Letter No. 9, New York City on Sat, 24 Oct 2026.
 
 Acid Mama is a house and techno artist tracked on soundcheck, with 10 sets logged across Newyorkcity. Often billed alongside Ben Zo, Nick Boyd and Omer Mil. Next up: Dead Letter No. 9, Newyorkcity on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ Acid Mama is a house and techno artist tracked on soundcheck, with 10 sets logge
 
 Ben Zo, Nick Boyd, Omer Mil
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/acidmama/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/acidmama/)*

@@ -1,6 +1,6 @@
 # Lis Sarroca
 
-Lis Sarroca is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Thu, 10 Sept 2026, next at Sunseabar Beach Club, Barcelona on Fri, 11 Sept 2026.
+Lis Sarroca is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at Sunseabar Beach Club, Barcelona on Fri, 11 Sept 2026.
 
 Lis Sarroca is a house and techno artist tracked on soundcheck, with 98 sets logged across Barcelona, Berlin, Brussels and Buenosaires and 19 more. Often billed alongside Mari.te, Vince Void and Mejia. Next up: Sunseabar Beach Club, Barcelona on Fri 11 Sept.
 
@@ -29,4 +29,4 @@ Lis Sarroca is a house and techno artist tracked on soundcheck, with 98 sets log
 
 Mari.te, Vince Void, Mejia
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lissarroca/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lissarroca/)*

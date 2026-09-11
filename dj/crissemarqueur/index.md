@@ -1,6 +1,6 @@
 # CrisseMarqueur
 
-CrisseMarqueur is a Techno and Electro artist with 3 upcoming club dates listed on soundcheck as of Thu, 10 Sept 2026, next at Blue Room, Montreal on Fri, 11 Sept 2026.
+CrisseMarqueur is a Techno and Electro artist with 3 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at Blue Room, Montreal on Fri, 11 Sept 2026.
 
 CrisseMarqueur is a techno and electro artist tracked on soundcheck, with 69 sets logged across Montreal and Toronto. Often billed alongside Pretty Privilege, Syana and Jade(MTL). Next up: Blue Room, Montreal on Fri 11 Sept.
 
@@ -27,4 +27,4 @@ CrisseMarqueur is a techno and electro artist tracked on soundcheck, with 69 set
 
 Pretty Privilege, Syana, Jade(MTL)
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/crissemarqueur/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/crissemarqueur/)*

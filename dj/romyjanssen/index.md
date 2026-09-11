@@ -1,13 +1,14 @@
 # Romy Janssen
 
-Romy Janssen is a House and Afro House artist with 1 upcoming club date listed on soundcheck as of Thu, 10 Sept 2026, next at Waagnatie Expo & Events, Antwerp on Sat, 28 Nov 2026.
+Romy Janssen is a House and Afro House artist with 2 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at Thuishaven, Amsterdam on Sat, 19 Sept 2026.
 
-Romy Janssen is a house and afro house artist based in Netherlands, tracked on soundcheck, with 36 sets logged across Amsterdam, Antwerp, Barcelona and Brussels and 7 more. Often billed alongside Rancido, Romy and Van Zand. Next up: Waagnatie Expo & Events, Antwerp on Sat 28 Nov.
+Romy Janssen is a house and afro house artist based in Netherlands, tracked on soundcheck, with 37 sets logged across Amsterdam, Antwerp, Barcelona and Brussels and 7 more. Often billed alongside Rancido, Philou Louzolo and Romy. Next up: Thuishaven, Amsterdam on Sat 19 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 19 Sept 2026 | Thuishaven | Amsterdam |
 | Sat, 28 Nov 2026 | Waagnatie Expo & Events | Antwerp |
 
 ## Recently played
@@ -23,6 +24,6 @@ Romy Janssen is a house and afro house artist based in Netherlands, tracked on s
 
 ## Shares bills with
 
-Rancido, Romy, Van Zand
+Rancido, Philou Louzolo, Romy
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/romyjanssen/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/romyjanssen/)*

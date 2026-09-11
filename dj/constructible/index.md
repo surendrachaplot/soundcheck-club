@@ -1,13 +1,14 @@
 # Constructible
 
-Constructible is a Techno and Club artist with 1 upcoming club date listed on soundcheck as of Thu, 10 Sept 2026, next at TBA - 16915 Darnestown Road, Boyds, Maryland 20841, Washington DC on Sat, 17 Oct 2026.
+Constructible is a Techno and Ambient artist with 2 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at Bossa Nova Civic Club, New York City on Wed, 23 Sept 2026.
 
-Constructible is a techno and club artist based in United States of America, tracked on soundcheck, with 9 sets logged across Newyorkcity and Washingtondc. Often billed alongside boy_c0ded, crnk.dgtl and Adrian Hex. Next up: TBA - 16915 Darnestown Road, Boyds, Maryland 20841, Washingtondc on Sat 17 Oct.
+Constructible is a techno and ambient artist based in United States of America, tracked on soundcheck, with 10 sets logged across Newyorkcity and Washingtondc. Often billed alongside boy_c0ded, crnk.dgtl and Adrian Hex. Next up: Bossa Nova Civic Club, Newyorkcity on Wed 23 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Wed, 23 Sept 2026 | Bossa Nova Civic Club | New York City |
 | Sat, 17 Oct 2026 | TBA - 16915 Darnestown Road, Boyds, Maryland 20841 | Washington DC |
 
 ## Recently played
@@ -25,4 +26,4 @@ Constructible is a techno and club artist based in United States of America, tra
 
 boy_c0ded, crnk.dgtl, Adrian Hex
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/constructible/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/constructible/)*

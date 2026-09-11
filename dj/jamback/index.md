@@ -1,6 +1,6 @@
 # Jamback
 
-Jamback is a House and Tech House artist with 12 upcoming club dates listed on soundcheck as of Thu, 10 Sept 2026, next at Laagravense Plas, Utrecht on Sat, 12 Sept 2026.
+Jamback is a House and Tech House artist with 12 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at Laagravense Plas, Utrecht on Sat, 12 Sept 2026.
 
 Jamback is a house and tech house artist tracked on soundcheck, with 182 sets logged across Amsterdam, Antwerp, Austin and Barcelona and 37 more. Often billed alongside East End Dubs, Marsolo and ALISHA. Next up: Laagravense Plas, Utrecht on Sat 12 Sept.
 
@@ -36,4 +36,4 @@ Jamback is a house and tech house artist tracked on soundcheck, with 182 sets lo
 
 East End Dubs, Marsolo, ALISHA
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jamback/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jamback/)*

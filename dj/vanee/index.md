@@ -1,6 +1,6 @@
 # Vanee
 
-Vanee is a Tech House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 10 Sept 2026, next at Madrid Caja Mágica, Madrid on Sat, 12 Sept 2026.
+Vanee is a Tech House and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at Madrid Caja Mágica, Madrid on Sat, 12 Sept 2026.
 
 Vanee is a tech house and techno artist tracked on soundcheck, with 25 sets logged across Barcelona, Frankfurt, Ibiza and London and 2 more. Often billed alongside Joseph Capriati, Mason Collective and AJ Christou. Next up: Madrid Caja Mágica, Madrid on Sat 12 Sept.
 
@@ -26,4 +26,4 @@ Vanee is a tech house and techno artist tracked on soundcheck, with 25 sets logg
 
 Joseph Capriati, Mason Collective, AJ Christou
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/vanee/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/vanee/)*

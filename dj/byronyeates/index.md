@@ -1,6 +1,6 @@
 # Byron Yeates
 
-Byron Yeates is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 10 Sept 2026, next at Camp Kennybrook, New York City on Thu, 10 Sept 2026.
+Byron Yeates is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at Camp Kennybrook, New York City on Thu, 10 Sept 2026.
 
 Byron Yeates is a house and techno artist tracked on soundcheck, with 188 sets logged across Amsterdam, Athens, Bali and Barcelona and 45 more. Often billed alongside THC, DHC and Angel D'lite. Next up: Camp Kennybrook, Newyorkcity on Thu 10 Sept.
 
@@ -13,6 +13,7 @@ Byron Yeates is a house and techno artist tracked on soundcheck, with 188 sets l
 
 ## Recently played
 
+- Camp Kennybrook, New York City — Thu, 10 Sept 2026
 - Else, Berlin — Sun, 6 Sept 2026
 - FOLD, London — Fri, 4 Sept 2026
 - Southwark Park, London — Sun, 30 Aug 2026
@@ -20,10 +21,9 @@ Byron Yeates is a house and techno artist tracked on soundcheck, with 188 sets l
 - TBA - Schwing und Stampf Festival, Zurich — Thu, 27 Aug 2026
 - RSO.BERLIN, Berlin — Sat, 22 Aug 2026
 - TBA, Copenhagen — Sun, 16 Aug 2026
-- DC-10, Ibiza — Mon, 10 Aug 2026
 
 ## Shares bills with
 
 THC, DHC, Angel D'lite
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/byronyeates/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/byronyeates/)*

@@ -1,20 +1,20 @@
 # Paula Sanz
 
-Paula Sanz is a Techno and Acid artist with 4 upcoming club dates listed on soundcheck as of Thu, 10 Sept 2026, next at La Gare / Le Gore, Paris on Thu, 10 Sept 2026.
+Paula Sanz is a Techno and Acid artist with 3 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at Toldi Klub, Budapest on Sat, 10 Oct 2026.
 
-Paula Sanz is a techno and acid artist tracked on soundcheck, with 58 sets logged across Amsterdam, Barcelona, Berlin and Budapest and 3 more. Often billed alongside SOLE DOSI, Dolce Potente and Marthial. Next up: La Gare / Le Gore, Paris on Thu 10 Sept.
+Paula Sanz is a techno and acid artist tracked on soundcheck, with 58 sets logged across Amsterdam, Barcelona, Berlin and Budapest and 3 more. Often billed alongside SOLE DOSI, Dolce Potente and Marthial. Next up: Toldi Klub, Budapest on Sat 10 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Thu, 10 Sept 2026 | La Gare / Le Gore | Paris |
 | Sat, 10 Oct 2026 | Toldi Klub | Budapest |
 | Sat, 10 Oct 2026 | Toldi Klub | Budapest |
 | Fri, 23 Oct 2026 | The Bulldog Palace | Amsterdam |
 
 ## Recently played
 
+- La Gare / Le Gore, Paris — Thu, 10 Sept 2026
 - Mia Mao, Paris — Thu, 28 May 2026
 - Arca, Milan — Sun, 17 May 2026
 - NAMA - Nuovo Anfiteatro Martesana, Milan — Fri, 17 Apr 2026
@@ -22,10 +22,9 @@ Paula Sanz is a techno and acid artist tracked on soundcheck, with 58 sets logge
 - NAMA - Nuovo Anfiteatro Martesana, Milan — Fri, 20 Mar 2026
 - DKR Milano, Milan — Sun, 8 Mar 2026
 - Tempio del Futuro Perduto, Milan — Sat, 7 Feb 2026
-- NAMA - Nuovo Anfiteatro Martesana, Milan — Fri, 6 Feb 2026
 
 ## Shares bills with
 
 SOLE DOSI, Dolce Potente, Marthial
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/paulasanz/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/paulasanz/)*

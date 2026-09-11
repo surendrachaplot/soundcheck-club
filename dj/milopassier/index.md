@@ -1,6 +1,6 @@
 # Milo Passier
 
-Milo Passier is a House and Tech House artist with 4 upcoming club dates listed on soundcheck as of Thu, 10 Sept 2026, next at Sportpark Riekerhaven, Amsterdam on Sat, 12 Sept 2026.
+Milo Passier is a House and Tech House artist with 4 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at Sportpark Riekerhaven, Amsterdam on Sat, 12 Sept 2026.
 
 Milo Passier is a house and tech house artist based in Netherlands, tracked on soundcheck, with 22 sets logged across Amsterdam, Barcelona, Lisbon and Rotterdam and 1 more. Often billed alongside Kirilski, Lasse Top and Pura Pachanga. Next up: Sportpark Riekerhaven, Amsterdam on Sat 12 Sept.
 
@@ -28,4 +28,4 @@ Milo Passier is a house and tech house artist based in Netherlands, tracked on s
 
 Kirilski, Lasse Top, Pura Pachanga
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/milopassier/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/milopassier/)*

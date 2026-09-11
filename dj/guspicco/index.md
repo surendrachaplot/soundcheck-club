@@ -1,6 +1,6 @@
 # GUS PICCO
 
-GUS PICCO is a Afro House and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 10 Sept 2026, next at Port Olimpic, Barcelona on Fri, 11 Sept 2026.
+GUS PICCO is a Afro House and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at Port Olimpic, Barcelona on Fri, 11 Sept 2026.
 
 GUS PICCO is an afro house and house artist tracked on soundcheck, with 14 sets logged across Barcelona. Often billed alongside Santi Gonzalez, Agoostina and DC81. Next up: Port Olimpic, Barcelona on Fri 11 Sept.
 
@@ -26,4 +26,4 @@ GUS PICCO is an afro house and house artist tracked on soundcheck, with 14 sets 
 
 Santi Gonzalez, Agoostina, DC81
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/guspicco/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/guspicco/)*

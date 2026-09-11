@@ -1,6 +1,6 @@
 # Madame Claude
 
-Madame Claude is a music venue in Berlin with 6 upcoming nights listed on soundcheck as of Thu, 10 Sept 2026; the next is "343 Labs Live Electronic Showcase" on Fri, 11 Sept 2026.
+Madame Claude is a music venue in Berlin with 6 upcoming nights listed on soundcheck as of Fri, 11 Sept 2026; the next is "343 Labs Live Electronic Showcase" on Fri, 11 Sept 2026.
 
 Madame Claude is a music venue in Berlin listed on soundcheck. 6 upcoming nights, with line-ups including Matthew Ryals, M Love and Slak. Browse upcoming dates, start times and who's playing. Lübbener Str. 19, 10997 Berlin, Germany.
 
@@ -19,4 +19,4 @@ Madame Claude is a music venue in Berlin listed on soundcheck. 6 upcoming nights
 
 Lübbener Str. 19, 10997 Berlin, Germany, Berlin
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/madame-claude/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/madame-claude/)*

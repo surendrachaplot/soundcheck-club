@@ -1,6 +1,6 @@
 # Amtrac
 
-Amtrac is a House and Deep House artist with 6 upcoming club dates listed on soundcheck as of Thu, 10 Sept 2026, next at Music Box, San Diego on Sat, 12 Sept 2026.
+Amtrac is a House and Deep House artist with 6 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at Music Box, San Diego on Sat, 12 Sept 2026.
 
 Amtrac is a house and deep house artist tracked on soundcheck, with 68 sets logged across Austin, Chicago, Denver and Detroit and 18 more. Often billed alongside Totally Enormous Extinct Dinosaurs, Tourist and CRi. Next up: Music Box, Sandiego on Sat 12 Sept.
 
@@ -30,4 +30,4 @@ Amtrac is a house and deep house artist tracked on soundcheck, with 68 sets logg
 
 Totally Enormous Extinct Dinosaurs, Tourist, CRi
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/amtrac/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/amtrac/)*

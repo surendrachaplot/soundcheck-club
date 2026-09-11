@@ -1,15 +1,15 @@
 # Cross Club
 
-Cross Club is a music venue in Prague with 22 upcoming nights listed on soundcheck as of Thu, 10 Sept 2026; the next is "DNB NIGHT" on Thu, 10 Sept 2026.
+Cross Club is a music venue in Prague with 22 upcoming nights listed on soundcheck as of Fri, 11 Sept 2026; the next is "THALASSOPHOBIA: SAVE OUR SOULS" on Fri, 11 Sept 2026.
 
-Cross Club is a music venue in Prague listed on soundcheck. 22 upcoming nights, with line-ups including Akira, AMAR DURGA, Amygdala and Neonlight and 2 more. Browse upcoming dates, start times and who's playing. Plynární 1096/23, Praha 7, Czech Republic.
+Cross Club is a music venue in Prague listed on soundcheck. 22 upcoming nights, with line-ups including Akira, AMAR DURGA, Amygdala and Holly North and 2 more. Browse upcoming dates, start times and who's playing. Plynární 1096/23, Praha 7, Czech Republic.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Thu, 10 Sept 2026 | DNB NIGHT |  |
 | Fri, 11 Sept 2026 | THALASSOPHOBIA: SAVE OUR SOULS |  |
+| Fri, 11 Sept 2026 | Holly North Live & x.m & Onur & Daben | Holly North |
 | Sat, 12 Sept 2026 | HARD RAVE |  |
 | Sun, 13 Sept 2026 | UPTONE with KATE STEPHENSON & SUNDEJ SE SUNDAY |  |
 | Mon, 14 Sept 2026 | LOS TEKKENOS 23:00 |  |
@@ -23,4 +23,4 @@ Cross Club is a music venue in Prague listed on soundcheck. 22 upcoming nights, 
 
 Plynární 1096/23, Praha 7, Czech Republic, Prague
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/prague/club/cross-club/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/prague/club/cross-club/)*

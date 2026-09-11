@@ -1,6 +1,6 @@
 # Fuse Records: One Last Open Air (Free Entry till 5 pm) at Village Underground Lisboa
 
-Fuse Records: One Last Open Air (Free Entry till 5 pm) at Village Underground Lisboa on Sat 26 Sept, Lisbon. 1 act on the bill: Echonomist. Techno and House. Preview the line-up and save it on soundcheck.
+Fuse Records: One Last Open Air (Free Entry till 5 pm) at Village Underground Lisboa on Sat 26 Sept, Lisbon. 3 acts on the bill: DJ Nox, Echonomist and Syper. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,8 @@ Fuse Records: One Last Open Air (Free Entry till 5 pm) at Village Underground Li
 
 ## Line-up
 
+- DJ Nox
 - Echonomist
+- Syper
 
 *Source: [soundcheck](https://soundcheck.club/e/2531042-fuse-records-one-last-open-air-free-entry-till-5-pm-at-villa/)*

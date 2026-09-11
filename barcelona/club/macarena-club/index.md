@@ -1,14 +1,13 @@
 # Macarena Club
 
-Macarena Club is a music venue in Barcelona with 21 upcoming nights listed on soundcheck as of Thu, 10 Sept 2026; the next is "25º Anniversary presents Hassler aka Coyu" on Thu, 10 Sept 2026.
+Macarena Club is a music venue in Barcelona with 20 upcoming nights listed on soundcheck as of Fri, 11 Sept 2026; the next is "CrazySonic Night" on Fri, 11 Sept 2026.
 
-Macarena Club is a music venue in Barcelona listed on soundcheck. 21 upcoming nights, with line-ups including Jo-Sie, Amadori, Belu Rodriguez and Carlos Lamar and 2 more. Browse upcoming dates, start times and who's playing. Carrer Nou de Sant Francesc, 5; 08002 Barcelona; Spain.
+Macarena Club is a music venue in Barcelona listed on soundcheck. 20 upcoming nights, with line-ups including Jo-Sie, Belu Rodriguez, Carlos Lamar and Cipy and 2 more. Browse upcoming dates, start times and who's playing. Carrer Nou de Sant Francesc, 5; 08002 Barcelona; Spain.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Thu, 10 Sept 2026 | 25º Anniversary presents Hassler aka Coyu | Amadori, Coyu, John Schüller |
 | Fri, 11 Sept 2026 | CrazySonic Night | Crazy Sonic |
 | Sat, 12 Sept 2026 | Kosmic | Cipy, Ivan Pugliares, YOKER |
 | Sun, 13 Sept 2026 | Move Your Body | Civic Grief, Mila Morr |
@@ -18,9 +17,10 @@ Macarena Club is a music venue in Barcelona listed on soundcheck. 21 upcoming ni
 | Thu, 17 Sept 2026 | 25º Aniversario |  |
 | Fri, 18 Sept 2026 | Dance, Shake, Swing | Konnin, LM |
 | Sat, 19 Sept 2026 | TimeTunnel Night | Carlos Lamar |
+| Sun, 20 Sept 2026 | Move Your Body | Santacreu |
 
 ## Address
 
 Carrer Nou de Sant Francesc, 5; 08002 Barcelona; Spain, Barcelona
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/macarena-club/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/macarena-club/)*

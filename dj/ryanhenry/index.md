@@ -1,6 +1,6 @@
 # Ryan Henry
 
-Ryan Henry is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 10 Sept 2026, next at Azul Rooftop Barceloneta, Barcelona on Fri, 11 Sept 2026.
+Ryan Henry is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at Azul Rooftop Barceloneta, Barcelona on Fri, 11 Sept 2026.
 
 Ryan Henry is a techno and house artist tracked on soundcheck, with 11 sets logged across Barcelona, Berlin and London. Often billed alongside Eleonora Cairati, ERRANT and Grivola. Next up: Azul Rooftop Barceloneta, Barcelona on Fri 11 Sept.
 
@@ -26,4 +26,4 @@ Ryan Henry is a techno and house artist tracked on soundcheck, with 11 sets logg
 
 Eleonora Cairati, ERRANT, Grivola
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ryanhenry/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ryanhenry/)*

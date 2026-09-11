@@ -1,13 +1,14 @@
 # Simon Caldwell
 
-Simon Caldwell is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 10 Sept 2026, next at Liberty Hall, Sydney on Sun, 29 Nov 2026.
+Simon Caldwell is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at Fraser Park, Sydney on Sat, 7 Nov 2026.
 
-Simon Caldwell is a house and techno artist based in Australia, tracked on soundcheck, with 80 sets logged across Berlin, Brisbane, Hamburg and Melbourne and 1 more. Often billed alongside Kato, Ken Cloud and Deepa. Next up: Liberty Hall, Sydney on Sun 29 Nov.
+Simon Caldwell is a house and techno artist based in Australia, tracked on soundcheck, with 81 sets logged across Berlin, Brisbane, Hamburg and Melbourne and 1 more. Often billed alongside Kato, Deepa and Ken Cloud. Next up: Fraser Park, Sydney on Sat 7 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 7 Nov 2026 | Fraser Park | Sydney |
 | Sun, 29 Nov 2026 | Liberty Hall | Sydney |
 
 ## Recently played
@@ -23,6 +24,6 @@ Simon Caldwell is a house and techno artist based in Australia, tracked on sound
 
 ## Shares bills with
 
-Kato, Ken Cloud, Deepa
+Kato, Deepa, Ken Cloud
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/simoncaldwell/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/simoncaldwell/)*

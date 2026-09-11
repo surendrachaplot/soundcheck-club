@@ -1,6 +1,6 @@
 # DENNETT (360° SET) at Concord Music Hall
 
-DENNETT (360° SET) at Concord Music Hall on Fri 2 Oct, Chicago. Bass. Preview the line-up and save it on soundcheck.
+DENNETT (360° SET) at Concord Music Hall on Fri 2 Oct, Chicago. Bass and Dubstep. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

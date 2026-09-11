@@ -1,6 +1,6 @@
 # DMS1N3RGY
 
-DMS1N3RGY is a Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 10 Sept 2026, next at John Doe, Amsterdam on Sat, 3 Oct 2026.
+DMS1N3RGY is a Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at John Doe, Amsterdam on Sat, 3 Oct 2026.
 
 DMS1N3RGY is a techno artist based in Netherlands, tracked on soundcheck, with 32 sets logged across Amsterdam and Berlin. Often billed alongside Popsen, Robin Hastings and Tyotya Lida. Next up: John Doe, Amsterdam on Sat 3 Oct.
 
@@ -26,4 +26,4 @@ DMS1N3RGY is a techno artist based in Netherlands, tracked on soundcheck, with 3
 
 Popsen, Robin Hastings, Tyotya Lida
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dms1n3rgy/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dms1n3rgy/)*

@@ -1,6 +1,6 @@
-# Stroom & Éditions Appærent: Ciro Vitiello, Richard, Orchestroll, Racine, and Special Guests at White Wall Studio
+# Stroom & Éditions Appærent: Ciro Vitiello, Richard, Orchestroll, Racine, Ebb at White Wall Studio
 
-Stroom & Éditions Appærent: Ciro Vitiello, Richard, Orchestroll, Racine, and Special Guests at White Wall Studio on Sun 13 Sept, Montreal. Preview the line-up and save it on soundcheck.
+Stroom & Éditions Appærent: Ciro Vitiello, Richard, Orchestroll, Racine, Ebb at White Wall Studio on Sun 13 Sept, Montreal. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

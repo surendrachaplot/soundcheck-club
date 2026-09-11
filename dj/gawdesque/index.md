@@ -1,6 +1,6 @@
 # Gawdesque
 
-Gawdesque is a Club and Breakbeat artist with 2 upcoming club dates listed on soundcheck as of Thu, 10 Sept 2026, next at Celeste, Vienna on Sat, 12 Sept 2026.
+Gawdesque is a Club and Breakbeat artist with 2 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at Celeste, Vienna on Sat, 12 Sept 2026.
 
 Gawdesque is a club and breakbeat artist tracked on soundcheck, with 26 sets logged across Vienna. Often billed alongside DJ Lucy Bakanal, zey and মm.. Next up: Celeste, Vienna on Sat 12 Sept.
 
@@ -26,4 +26,4 @@ Gawdesque is a club and breakbeat artist tracked on soundcheck, with 26 sets log
 
 DJ Lucy Bakanal, zey, মm.
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/gawdesque/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/gawdesque/)*

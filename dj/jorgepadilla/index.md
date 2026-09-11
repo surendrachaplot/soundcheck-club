@@ -1,6 +1,6 @@
 # Jorge Padilla
 
-Jorge Padilla is a Electronica and House artist with 3 upcoming club dates listed on soundcheck as of Thu, 10 Sept 2026, next at berlinClub, Madrid on Fri, 11 Sept 2026.
+Jorge Padilla is a Electronica and House artist with 3 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at berlinClub, Madrid on Fri, 11 Sept 2026.
 
 Jorge Padilla is an electronica and house artist tracked on soundcheck, with 14 sets logged across Madrid. Often billed alongside Abdulla A., Avo (ES) and CINCOCEROSEIS. Next up: berlinClub, Madrid on Fri 11 Sept.
 
@@ -27,4 +27,4 @@ Jorge Padilla is an electronica and house artist tracked on soundcheck, with 14 
 
 Abdulla A., Avo (ES), CINCOCEROSEIS
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jorgepadilla/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jorgepadilla/)*

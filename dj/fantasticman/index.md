@@ -1,8 +1,8 @@
 # Fantastic Man
 
-Fantastic Man is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Thu, 10 Sept 2026, next at Fünk, Mexico City on Fri, 11 Sept 2026.
+Fantastic Man is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at Fünk, Mexico City on Fri, 11 Sept 2026.
 
-Fantastic Man is a house and techno artist tracked on soundcheck, with 128 sets logged across Amsterdam, Bali, Bangkok and Barcelona and 41 more. Often billed alongside Tornado Wallace, Alex Kassian and Andy Hart. Next up: Fünk, Mexicocity on Fri 11 Sept.
+Fantastic Man is a house and techno artist tracked on soundcheck, with 129 sets logged across Amsterdam, Bali, Bangkok and Barcelona and 41 more. Often billed alongside Tornado Wallace, Alex Kassian and Andy Hart. Next up: Fünk, Mexicocity on Fri 11 Sept.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ Fantastic Man is a house and techno artist tracked on soundcheck, with 128 sets 
 | Fri, 11 Sept 2026 | Fünk | Mexico City |
 | Fri, 18 Sept 2026 | Radio Radio | Amsterdam |
 | Sat, 26 Sept 2026 | La Java | Paris |
+| Fri, 2 Oct 2026 | The DBA | Manchester |
 | Sat, 24 Oct 2026 | Café Soleil Amsterdam | Amsterdam |
 
 ## Recently played
@@ -28,4 +29,4 @@ Fantastic Man is a house and techno artist tracked on soundcheck, with 128 sets 
 
 Tornado Wallace, Alex Kassian, Andy Hart
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/fantasticman/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/fantasticman/)*

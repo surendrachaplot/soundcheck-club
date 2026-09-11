@@ -1,6 +1,6 @@
 # People's Leisure Club
 
-People's Leisure Club is a music venue in Edinburgh with 18 upcoming nights listed on soundcheck as of Thu, 10 Sept 2026; the next is "La Beat Soul Club" on Fri, 11 Sept 2026.
+People's Leisure Club is a music venue in Edinburgh with 18 upcoming nights listed on soundcheck as of Fri, 11 Sept 2026; the next is "La Beat Soul Club" on Fri, 11 Sept 2026.
 
 People's Leisure Club is a music venue in Edinburgh listed on soundcheck. 18 upcoming nights, with line-ups including damside, Accident Machine, ACHIRĀ and Astro and 2 more. Browse upcoming dates, start times and who's playing. 45 Lothian Street, Edinburgh, EH1 1HB.
 
@@ -23,4 +23,4 @@ People's Leisure Club is a music venue in Edinburgh listed on soundcheck. 18 upc
 
 45 Lothian Street, Edinburgh, EH1 1HB, Edinburgh
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/edinburgh/club/people-s-leisure-club/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/edinburgh/club/people-s-leisure-club/)*

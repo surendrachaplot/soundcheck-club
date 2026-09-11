@@ -1,8 +1,8 @@
 # Fejká
 
-Fejká is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 10 Sept 2026, next at TBA - SARAB - Bali Lane, Singapore on Fri, 11 Sept 2026.
+Fejká is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at TBA - SARAB - Bali Lane, Singapore on Fri, 11 Sept 2026.
 
-Fejká is a house and techno artist tracked on soundcheck, with 57 sets logged across Amsterdam, Berlin, Budapest and Cologne and 21 more. Often billed alongside Estiva, ALLKNIGHT and Kalipo. Next up: TBA - SARAB - Bali Lane, Singapore on Fri 11 Sept.
+Fejká is a house and techno artist tracked on soundcheck, with 58 sets logged across Amsterdam, Berlin, Budapest and Cologne and 21 more. Often billed alongside Estiva, ALLKNIGHT and Kalipo. Next up: TBA - SARAB - Bali Lane, Singapore on Fri 11 Sept.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Fejká is a house and techno artist tracked on soundcheck, with 57 sets logged a
 | --- | --- | --- |
 | Fri, 11 Sept 2026 | TBA - SARAB - Bali Lane | Singapore |
 | Thu, 22 Oct 2026 | Toekomstmuziek | Amsterdam |
+| Sat, 21 Nov 2026 | Blique by Nobis Rooftop | Stockholm |
 
 ## Recently played
 
@@ -26,4 +27,4 @@ Fejká is a house and techno artist tracked on soundcheck, with 57 sets logged a
 
 Estiva, ALLKNIGHT, Kalipo
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/fejka/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/fejka/)*

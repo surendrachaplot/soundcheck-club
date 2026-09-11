@@ -1,6 +1,6 @@
 # Praymond
 
-Praymond is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Thu, 10 Sept 2026, next at Groove Bar, Prague on Fri, 11 Sept 2026.
+Praymond is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Fri, 11 Sept 2026, next at Groove Bar, Prague on Fri, 11 Sept 2026.
 
 Praymond is a house and minimal artist tracked on soundcheck, with 9 sets logged across Chicago, London, Paris and Prague. Often billed alongside Max Jacobson, Ben Vedren and Diome. Next up: Groove Bar, Prague on Fri 11 Sept.
 
@@ -25,4 +25,4 @@ Praymond is a house and minimal artist tracked on soundcheck, with 9 sets logged
 
 Max Jacobson, Ben Vedren, Diome
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/praymond/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/praymond/)*

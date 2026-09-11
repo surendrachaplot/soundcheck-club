@@ -1,6 +1,6 @@
 # Gromma
 
-Gromma is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 10 Sept 2026, next at D-EDGE, Sao Paulo on Sat, 26 Sept 2026.
+Gromma is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 11 Sept 2026, next at D-EDGE, Sao Paulo on Sat, 26 Sept 2026.
 
 Gromma is a house and techno artist tracked on soundcheck, with 26 sets logged across Berlin, Buenosaires, Dublin and Ibiza and 5 more. Often billed alongside Adnan Sharif, Anderson Noise and Cruz (PT). Next up: D-EDGE, Saopaulo on Sat 26 Sept.
 
@@ -25,4 +25,4 @@ Gromma is a house and techno artist tracked on soundcheck, with 26 sets logged a
 
 Adnan Sharif, Anderson Noise, Cruz (PT)
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/gromma/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/gromma/)*

@@ -1,6 +1,6 @@
 # Sonic Serendipity w/ Hugo Esquinca at Au Café de Paris
 
-Sonic Serendipity w/ Hugo Esquinca at Au Café de Paris on Fri 11 Sept, Paris. Experimental and Acid. Preview the line-up and save it on soundcheck.
+Sonic Serendipity w/ Hugo Esquinca at Au Café de Paris on Fri 11 Sept, Paris. Acid and Experimental. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

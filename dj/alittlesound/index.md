@@ -1,6 +1,6 @@
 # A Little Sound
 
-A Little Sound is a Drum & Bass and House artist with 4 upcoming club dates listed on soundcheck as of Thu, 10 Sept 2026, next at Coda, Toronto on Fri, 9 Oct 2026.
+A Little Sound is a Drum & Bass and House artist with 4 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at Coda, Toronto on Fri, 9 Oct 2026.
 
 A Little Sound is a drum & bass and house artist based in United Kingdom, tracked on soundcheck, with 51 sets logged across Amsterdam, Auckland, Birmingham and Brighton and 22 more. Often billed alongside Wilkinson, Bou (UK) and Delta Heavy. Next up: Coda, Toronto on Fri 9 Oct.
 
@@ -28,4 +28,4 @@ A Little Sound is a drum & bass and house artist based in United Kingdom, tracke
 
 Wilkinson, Bou (UK), Delta Heavy
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/alittlesound/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/alittlesound/)*

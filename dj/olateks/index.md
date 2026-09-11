@@ -1,6 +1,6 @@
 # Ola Teks
 
-Ola Teks is a Techno and Acid artist with 2 upcoming club dates listed on soundcheck as of Thu, 10 Sept 2026, next at Tunelowa, Warsaw on Sun, 13 Sept 2026.
+Ola Teks is a Techno and Acid artist with 2 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at Tunelowa, Warsaw on Sun, 13 Sept 2026.
 
 Ola Teks is a techno and acid artist based in Poland, tracked on soundcheck, with 89 sets logged across Berlin, Ibiza, Krakow and Warsaw. Often billed alongside Cyryl, Kovvalsky and MKO (PL). Next up: Tunelowa, Warsaw on Sun 13 Sept.
 
@@ -26,4 +26,4 @@ Ola Teks is a techno and acid artist based in Poland, tracked on soundcheck, wit
 
 Cyryl, Kovvalsky, MKO (PL)
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/olateks/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/olateks/)*

@@ -1,6 +1,6 @@
 # Pau Rosés
 
-Pau Rosés is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 10 Sept 2026, next at feedbk, New York City on Sat, 12 Sept 2026.
+Pau Rosés is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at feedbk, New York City on Sat, 12 Sept 2026.
 
 Pau Rosés is a house and techno artist tracked on soundcheck, with 138 sets logged across Barcelona, Ibiza, London and Madrid and 2 more. Often billed alongside Adria (ES), Swann and Vince Void. Next up: feedbk, Newyorkcity on Sat 12 Sept.
 
@@ -26,4 +26,4 @@ Pau Rosés is a house and techno artist tracked on soundcheck, with 138 sets log
 
 Adria (ES), Swann, Vince Void
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/pauroses/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/pauroses/)*

@@ -1,6 +1,6 @@
 # Halis
 
-Halis is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 10 Sept 2026, next at TBA - SARAB - Bali Lane, Singapore on Fri, 11 Sept 2026.
+Halis is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at TBA - SARAB - Bali Lane, Singapore on Fri, 11 Sept 2026.
 
 Halis is a techno and house artist tracked on soundcheck, with 42 sets logged across Singapore. Often billed alongside Andre Marc, 3MZY and Pengsoo. Next up: TBA - SARAB - Bali Lane, Singapore on Fri 11 Sept.
 
@@ -26,4 +26,4 @@ Halis is a techno and house artist tracked on soundcheck, with 42 sets logged ac
 
 Andre Marc, 3MZY, Pengsoo
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/halis/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/halis/)*

@@ -1,8 +1,8 @@
 # Sibil (1)
 
-Sibil (1) is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 10 Sept 2026, next at The Loft, Manchester on Fri, 11 Sept 2026.
+Sibil (1) is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at The Loft, Manchester on Fri, 11 Sept 2026.
 
-Sibil (1) is a house and techno artist based in France, tracked on soundcheck, with 123 sets logged across Amsterdam, Barcelona, Berlin and Boston and 30 more. Often billed alongside Mayell, Tau Car and O.BEE. Next up: The Loft, Manchester on Fri 11 Sept.
+Sibil (1) is a house and techno artist based in France, tracked on soundcheck, with 124 sets logged across Amsterdam, Barcelona, Berlin and Boston and 30 more. Often billed alongside Mayell, Tau Car and O.BEE. Next up: The Loft, Manchester on Fri 11 Sept.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Sibil (1) is a house and techno artist based in France, tracked on soundcheck, w
 | --- | --- | --- |
 | Fri, 11 Sept 2026 | The Loft | Manchester |
 | Sat, 19 Sept 2026 | Auber Garden | Paris |
+| Fri, 23 Oct 2026 | Blast Galaxy | Amsterdam |
 
 ## Recently played
 
@@ -26,4 +27,4 @@ Sibil (1) is a house and techno artist based in France, tracked on soundcheck, w
 
 Mayell, Tau Car, O.BEE
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sibil-1/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sibil-1/)*

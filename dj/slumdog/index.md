@@ -1,6 +1,6 @@
 # Slumdog
 
-Slumdog is a House and Electronica artist with 2 upcoming club dates listed on soundcheck as of Thu, 10 Sept 2026, next at ark (Melb), Melbourne on Sat, 12 Sept 2026.
+Slumdog is a House and Electronica artist with 2 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at ark (Melb), Melbourne on Sat, 12 Sept 2026.
 
 Slumdog is a house and electronica artist based in Australia, tracked on soundcheck, with 58 sets logged across Melbourne. Often billed alongside Joey Coco, dozie (uk) and Jo Christy. Next up: ark (Melb), Melbourne on Sat 12 Sept.
 
@@ -26,4 +26,4 @@ Slumdog is a house and electronica artist based in Australia, tracked on soundch
 
 Joey Coco, dozie (uk), Jo Christy
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/slumdog/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/slumdog/)*

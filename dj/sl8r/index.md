@@ -1,6 +1,6 @@
 # SL8R
 
-SL8R is a Drum & Bass and Jungle artist with 2 upcoming club dates listed on soundcheck as of Thu, 10 Sept 2026, next at Sawmills, Bristol on Sat, 12 Sept 2026.
+SL8R is a Drum & Bass and Jungle artist with 2 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at Sawmills, Bristol on Sat, 12 Sept 2026.
 
 SL8R is a drum & bass and jungle artist tracked on soundcheck, with 51 sets logged across Birmingham, Boston, Brighton and Bristol and 11 more. Often billed alongside Bryan Gee, Rich Reason and Metrodome. Next up: Sawmills, Bristol on Sat 12 Sept.
 
@@ -26,4 +26,4 @@ SL8R is a drum & bass and jungle artist tracked on soundcheck, with 51 sets logg
 
 Bryan Gee, Rich Reason, Metrodome
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sl8r/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sl8r/)*

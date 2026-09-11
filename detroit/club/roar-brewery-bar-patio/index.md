@@ -1,6 +1,6 @@
 # Roar Brewery Bar & Patio
 
-Roar Brewery Bar & Patio is a music venue in Detroit with 1 upcoming night listed on soundcheck as of Thu, 10 Sept 2026; the next is "SHAKE DOWN" on Fri, 18 Sept 2026.
+Roar Brewery Bar & Patio is a music venue in Detroit with 1 upcoming night listed on soundcheck as of Fri, 11 Sept 2026; the next is "SHAKE DOWN" on Fri, 18 Sept 2026.
 
 Roar Brewery Bar & Patio is a music venue in Detroit listed on soundcheck. 1 upcoming night, with line-ups including JMT (2) and Mykel Andre. Browse upcoming dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ Roar Brewery Bar & Patio is a music venue in Detroit listed on soundcheck. 1 upc
 | --- | --- | --- |
 | Fri, 18 Sept 2026 | SHAKE DOWN | JMT (2), Mykel Andre |
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/detroit/club/roar-brewery-bar-patio/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/detroit/club/roar-brewery-bar-patio/)*

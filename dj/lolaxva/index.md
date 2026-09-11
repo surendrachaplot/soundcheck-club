@@ -1,6 +1,6 @@
 # LOLAXVA
 
-LOLAXVA is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 10 Sept 2026, next at The Chemist, Boston on Fri, 11 Sept 2026.
+LOLAXVA is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at The Chemist, Boston on Fri, 11 Sept 2026.
 
 LOLAXVA is a techno and house artist based in United States of America, tracked on soundcheck, with 17 sets logged across Boston and Newyorkcity. Often billed alongside Selector X, Chelita and Chris Clement. Next up: The Chemist, Boston on Fri 11 Sept.
 
@@ -26,4 +26,4 @@ LOLAXVA is a techno and house artist based in United States of America, tracked 
 
 Selector X, Chelita, Chris Clement
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lolaxva/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lolaxva/)*

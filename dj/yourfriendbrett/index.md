@@ -1,6 +1,6 @@
 # Your Friend Brett
 
-Your Friend Brett is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Thu, 10 Sept 2026, next at American Legion Marsh Post #442, Boston on Sat, 19 Sept 2026.
+Your Friend Brett is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Fri, 11 Sept 2026, next at American Legion Marsh Post #442, Boston on Sat, 19 Sept 2026.
 
 Your Friend Brett is a house and disco artist tracked on soundcheck, with 11 sets logged across Boston and Detroit. Often billed alongside Adam Gibbons, AleBCostantino and Alex Slater. Next up: American Legion Marsh Post #442, Boston on Sat 19 Sept.
 
@@ -25,4 +25,4 @@ Your Friend Brett is a house and disco artist tracked on soundcheck, with 11 set
 
 Adam Gibbons, AleBCostantino, Alex Slater
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/yourfriendbrett/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/yourfriendbrett/)*

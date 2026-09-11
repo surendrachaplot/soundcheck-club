@@ -1,6 +1,6 @@
 # DJ Morita
 
-DJ Morita is a Techno and Minimal Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 10 Sept 2026, next at Area_osaka, Osaka on Fri, 18 Sept 2026.
+DJ Morita is a Techno and Minimal Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at Area_osaka, Osaka on Fri, 18 Sept 2026.
 
 DJ Morita is a techno and minimal techno artist tracked on soundcheck, with 34 sets logged across Osaka and Tokyo. Often billed alongside Endurance, Ario and Erik Luebs. Next up: Area_osaka, Osaka on Fri 18 Sept.
 
@@ -26,4 +26,4 @@ DJ Morita is a techno and minimal techno artist tracked on soundcheck, with 34 s
 
 Endurance, Ario, Erik Luebs
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djmorita/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djmorita/)*

@@ -1,6 +1,6 @@
 # Peter Bruno
 
-Peter Bruno is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 10 Sept 2026, next at Human Nature, Tokyo on Sat, 12 Sept 2026.
+Peter Bruno is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at Human Nature, Tokyo on Sat, 12 Sept 2026.
 
 Peter Bruno is a techno and house artist based in France, tracked on soundcheck, with 4 sets logged across Tokyo. Often billed alongside frndj, Anapol and Lvca. Next up: Human Nature, Tokyo on Sat 12 Sept.
 
@@ -20,4 +20,4 @@ Peter Bruno is a techno and house artist based in France, tracked on soundcheck,
 
 frndj, Anapol, Lvca
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/peterbruno/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/peterbruno/)*

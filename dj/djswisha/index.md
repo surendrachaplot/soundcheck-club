@@ -1,14 +1,13 @@
 # DJ SWISHA
 
-DJ SWISHA is a Techno and House artist with 12 upcoming club dates listed on soundcheck as of Thu, 10 Sept 2026, next at Middlesex, Boston on Thu, 10 Sept 2026.
+DJ SWISHA is a Techno and House artist with 11 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at Trans-Pecos, New York City on Sat, 12 Sept 2026.
 
-DJ SWISHA is a techno and house artist tracked on soundcheck, with 200 sets logged across Amsterdam, Antwerp, Auckland and Austin and 45 more. Often billed alongside Kush Jones, AceMo and MoMA Ready. Next up: Middlesex, Boston on Thu 10 Sept.
+DJ SWISHA is a techno and house artist tracked on soundcheck, with 200 sets logged across Amsterdam, Antwerp, Auckland and Austin and 45 more. Often billed alongside Kush Jones, AceMo and MoMA Ready. Next up: Trans-Pecos, Newyorkcity on Sat 12 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Thu, 10 Sept 2026 | Middlesex | Boston |
 | Sat, 12 Sept 2026 | Trans-Pecos | New York City |
 | Fri, 18 Sept 2026 | Fort Mifflin | Philadelphia |
 | Fri, 25 Sept 2026 | 131 Mccormack St | Toronto |
@@ -23,6 +22,7 @@ DJ SWISHA is a techno and house artist tracked on soundcheck, with 200 sets logg
 
 ## Recently played
 
+- Middlesex, Boston — Thu, 10 Sept 2026
 - Knockdown Center, New York City — Sun, 30 Aug 2026
 - TBA, Los Angeles — Fri, 21 Aug 2026
 - Moongate Lounge, San Francisco/Oakland — Thu, 20 Aug 2026
@@ -30,10 +30,9 @@ DJ SWISHA is a techno and house artist tracked on soundcheck, with 200 sets logg
 - Paragon, New York City — Sat, 8 Aug 2026
 - Art Club, Houston — Sat, 1 Aug 2026
 - TBA - Downtown, Los Angeles — Thu, 30 Jul 2026
-- TBA - 3464 pickett st, san diego, ca 92110, San Diego — Fri, 24 Jul 2026
 
 ## Shares bills with
 
 Kush Jones, AceMo, MoMA Ready
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djswisha/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djswisha/)*

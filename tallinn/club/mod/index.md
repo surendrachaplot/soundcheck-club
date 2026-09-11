@@ -1,6 +1,6 @@
 # MOD
 
-MOD is a music venue in Tallinn with 1 upcoming night listed on soundcheck as of Thu, 10 Sept 2026; the next is "MOD CLUB: DJ Aleksi b2b QSLAP all night long" on Sat, 12 Sept 2026.
+MOD is a music venue in Tallinn with 1 upcoming night listed on soundcheck as of Fri, 11 Sept 2026; the next is "MOD CLUB: DJ Aleksi b2b QSLAP all night long" on Sat, 12 Sept 2026.
 
 MOD is a music venue in Tallinn listed on soundcheck. 1 upcoming night, with line-ups including DJ Aleksi and QSLAP. Browse upcoming dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ MOD is a music venue in Tallinn listed on soundcheck. 1 upcoming night, with lin
 | --- | --- | --- |
 | Sat, 12 Sept 2026 | MOD CLUB: DJ Aleksi b2b QSLAP all night long | DJ Aleksi, QSLAP |
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/tallinn/club/mod/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/tallinn/club/mod/)*

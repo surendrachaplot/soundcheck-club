@@ -1,6 +1,6 @@
 # K3RZC
 
-K3RZC is a Electro and Breakbeat artist with 1 upcoming club date listed on soundcheck as of Thu, 10 Sept 2026, next at Mesteren & Lærlingen, Copenhagen on Sat, 10 Oct 2026.
+K3RZC is a Electro and Breakbeat artist with 1 upcoming club date listed on soundcheck as of Fri, 11 Sept 2026, next at Mesteren & Lærlingen, Copenhagen on Sat, 10 Oct 2026.
 
 K3RZC is an electro and breakbeat artist tracked on soundcheck, with 10 sets logged across Copenhagen, Krakow and Warsaw. Often billed alongside Buchan, Contakt (PL) and DiV4. Next up: Mesteren & Lærlingen, Copenhagen on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ K3RZC is an electro and breakbeat artist tracked on soundcheck, with 10 sets log
 
 Buchan, Contakt (PL), DiV4
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/k3rzc/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/k3rzc/)*

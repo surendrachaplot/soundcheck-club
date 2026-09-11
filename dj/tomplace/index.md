@@ -1,6 +1,6 @@
 # Tom Place
 
-Tom Place is a Techno and Electro artist with 3 upcoming club dates listed on soundcheck as of Thu, 10 Sept 2026, next at Planet Wax, London on Fri, 11 Sept 2026.
+Tom Place is a Techno and Electro artist with 3 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at Planet Wax, London on Fri, 11 Sept 2026.
 
 Tom Place is a techno and electro artist tracked on soundcheck, with 6 sets logged across London and Melbourne. Often billed alongside LO-LOW, Ani Klang and CICELY. Next up: Planet Wax, London on Fri 11 Sept.
 
@@ -22,4 +22,4 @@ Tom Place is a techno and electro artist tracked on soundcheck, with 6 sets logg
 
 LO-LOW, Ani Klang, CICELY
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tomplace/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tomplace/)*

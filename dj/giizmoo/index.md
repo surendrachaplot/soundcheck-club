@@ -1,6 +1,6 @@
 # Giizmoo
 
-Giizmoo is a Techno and Minimal Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 10 Sept 2026, next at Jungle Bar, Brussels on Sat, 26 Sept 2026.
+Giizmoo is a Techno and Minimal Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 11 Sept 2026, next at Jungle Bar, Brussels on Sat, 26 Sept 2026.
 
 Giizmoo is a techno and minimal techno artist tracked on soundcheck, with 9 sets logged across Berlin and Brussels. Often billed alongside Billy Boy, ATARAXY and Amalie. Next up: Jungle Bar, Brussels on Sat 26 Sept.
 
@@ -25,4 +25,4 @@ Giizmoo is a techno and minimal techno artist tracked on soundcheck, with 9 sets
 
 Billy Boy, ATARAXY, Amalie
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/giizmoo/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/giizmoo/)*

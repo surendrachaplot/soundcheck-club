@@ -1,14 +1,15 @@
 # Douvelle19
 
-Douvelle19 is a House and Garage artist with 2 upcoming club dates listed on soundcheck as of Thu, 10 Sept 2026, next at E1, London on Sat, 12 Sept 2026.
+Douvelle19 is a House and Garage artist with 3 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at E1, London on Sat, 12 Sept 2026.
 
-Douvelle19 is a house and garage artist tracked on soundcheck, with 27 sets logged across Amsterdam, Brighton, Bristol and Cardiff and 4 more. Often billed alongside Cesco, Diffrent and Rich Reason. Next up: E1, London on Sat 12 Sept.
+Douvelle19 is a house and garage artist tracked on soundcheck, with 28 sets logged across Amsterdam, Brighton, Bristol and Cardiff and 5 more. Often billed alongside Cesco, Diffrent and Rich Reason. Next up: E1, London on Sat 12 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 12 Sept 2026 | E1 | London |
+| Fri, 16 Oct 2026 | The Cut | Newcastle |
 | Wed, 21 Oct 2026 | Club Up | Amsterdam |
 
 ## Recently played
@@ -26,4 +27,4 @@ Douvelle19 is a house and garage artist tracked on soundcheck, with 27 sets logg
 
 Cesco, Diffrent, Rich Reason
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/douvelle19/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/douvelle19/)*

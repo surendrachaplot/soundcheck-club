@@ -1,6 +1,6 @@
 # Monuas
 
-Monuas is a electronic artist with 1 upcoming club date listed on soundcheck as of Thu, 10 Sept 2026, next at TBA - Secret Location, Rome on Sun, 27 Sept 2026.
+Monuas is a electronic artist with 1 upcoming club date listed on soundcheck as of Fri, 11 Sept 2026, next at TBA - Secret Location, Rome on Sun, 27 Sept 2026.
 
 Monuas is an electronic artist based in Italy, tracked on soundcheck, with 9 sets logged across Rome. Often billed alongside Collarbone, bee.Z and marianne (4). Next up: TBA - Secret Location, Rome on Sun 27 Sept.
 
@@ -25,4 +25,4 @@ Monuas is an electronic artist based in Italy, tracked on soundcheck, with 9 set
 
 Collarbone, bee.Z, marianne (4)
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/monuas/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/monuas/)*

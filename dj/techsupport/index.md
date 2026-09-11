@@ -1,6 +1,6 @@
 # Tech Support
 
-Tech Support is a House and Electro artist with 1 upcoming club date listed on soundcheck as of Thu, 10 Sept 2026, next at Club 69, Glasgow on Fri, 18 Sept 2026.
+Tech Support is a House and Electro artist with 1 upcoming club date listed on soundcheck as of Fri, 11 Sept 2026, next at Club 69, Glasgow on Fri, 18 Sept 2026.
 
 Tech Support is a house and electro artist tracked on soundcheck, with 21 sets logged across Belfast, Berlin, Brighton and Dublin and 3 more. Often billed alongside Meg Paine, Zaltsman and Asa Tate. Next up: Club 69, Glasgow on Fri 18 Sept.
 
@@ -25,4 +25,4 @@ Tech Support is a house and electro artist tracked on soundcheck, with 21 sets l
 
 Meg Paine, Zaltsman, Asa Tate
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/techsupport/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/techsupport/)*

@@ -1,6 +1,6 @@
 # Somme Farris
 
-Somme Farris is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 10 Sept 2026, next at OXI, Berlin on Sun, 27 Sept 2026.
+Somme Farris is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 11 Sept 2026, next at OXI, Berlin on Sun, 27 Sept 2026.
 
 Somme Farris is a techno and house artist tracked on soundcheck, with 33 sets logged across Berlin, Brighton, London and Paris. Often billed alongside ANAHITA, Anahita Shamsaei and Andy Farley. Next up: OXI, Berlin on Sun 27 Sept.
 
@@ -25,4 +25,4 @@ Somme Farris is a techno and house artist tracked on soundcheck, with 33 sets lo
 
 ANAHITA, Anahita Shamsaei, Andy Farley
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sommefarris/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sommefarris/)*

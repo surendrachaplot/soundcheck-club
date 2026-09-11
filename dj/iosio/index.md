@@ -1,8 +1,8 @@
 # IOSIO
 
-IOSIO is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Thu, 10 Sept 2026, next at Kralingse Bos, Rotterdam on Sat, 12 Sept 2026.
+IOSIO is a Techno and House artist with 7 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at Kralingse Bos, Rotterdam on Sat, 12 Sept 2026.
 
-IOSIO is a techno and house artist tracked on soundcheck, with 32 sets logged across Amsterdam, Antwerp, Berlin and London and 6 more. Often billed alongside Cynthia Spiering, davyboi and BØĘRY. Next up: Kralingse Bos, Rotterdam on Sat 12 Sept.
+IOSIO is a techno and house artist tracked on soundcheck, with 33 sets logged across Amsterdam, Antwerp, Berlin and London and 6 more. Often billed alongside Cynthia Spiering, davyboi and BØĘRY. Next up: Kralingse Bos, Rotterdam on Sat 12 Sept.
 
 ## Upcoming shows
 
@@ -14,6 +14,7 @@ IOSIO is a techno and house artist tracked on soundcheck, with 32 sets logged ac
 | Sun, 25 Oct 2026 | Afas Live | Amsterdam |
 | Sat, 31 Oct 2026 | Maassilo | Rotterdam |
 | Sat, 14 Nov 2026 | Turbinenhalle | Oberhausen |
+| Sat, 21 Nov 2026 | Martiniplaza | Amsterdam |
 
 ## Recently played
 
@@ -30,4 +31,4 @@ IOSIO is a techno and house artist tracked on soundcheck, with 32 sets logged ac
 
 Cynthia Spiering, davyboi, BØĘRY
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/iosio/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/iosio/)*

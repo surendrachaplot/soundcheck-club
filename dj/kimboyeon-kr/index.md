@@ -1,13 +1,14 @@
 # Kim Bo Yeon
 
-Kim Bo Yeon is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 10 Sept 2026, next at Faust, Seoul on Sat, 26 Sept 2026.
+Kim Bo Yeon is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at Faust, Seoul on Fri, 18 Sept 2026.
 
-Kim Bo Yeon is a techno and house artist tracked on soundcheck, with 102 sets logged across Seoul. Often billed alongside Stann Lumo, Suman and DAMIE (KR). Next up: Faust, Seoul on Sat 26 Sept.
+Kim Bo Yeon is a techno and house artist tracked on soundcheck, with 103 sets logged across Seoul. Often billed alongside Stann Lumo, Suman and DAMIE (KR). Next up: Faust, Seoul on Fri 18 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 18 Sept 2026 | Faust | Seoul |
 | Sat, 26 Sept 2026 | Faust | Seoul |
 
 ## Recently played
@@ -25,4 +26,4 @@ Kim Bo Yeon is a techno and house artist tracked on soundcheck, with 102 sets lo
 
 Stann Lumo, Suman, DAMIE (KR)
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kimboyeon-kr/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kimboyeon-kr/)*

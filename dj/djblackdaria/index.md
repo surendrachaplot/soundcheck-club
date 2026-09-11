@@ -1,6 +1,6 @@
 # Black Daria
 
-Black Daria is a Hip-Hop and Club artist with 1 upcoming club date listed on soundcheck as of Thu, 10 Sept 2026, next at TBA - Mimi´s Disco - Reforma 333 8th Floor, Mexico City on Fri, 18 Sept 2026.
+Black Daria is a Hip-Hop and Club artist with 1 upcoming club date listed on soundcheck as of Fri, 11 Sept 2026, next at TBA - Mimi´s Disco - Reforma 333 8th Floor, Mexico City on Fri, 18 Sept 2026.
 
 Black Daria is a hip-hop and club artist tracked on soundcheck, with 93 sets logged across Austin, Chicago, London and Mexicocity and 5 more. Often billed alongside Katarra, Dj Dizam and SAMIA. Next up: TBA - Mimi´s Disco - Reforma 333 8th Floor, Mexicocity on Fri 18 Sept.
 
@@ -25,4 +25,4 @@ Black Daria is a hip-hop and club artist tracked on soundcheck, with 93 sets log
 
 Katarra, Dj Dizam, SAMIA
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djblackdaria/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djblackdaria/)*

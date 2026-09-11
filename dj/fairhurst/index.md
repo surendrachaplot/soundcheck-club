@@ -1,6 +1,6 @@
 # Fairhurst
 
-Fairhurst is a Disco and House artist with 1 upcoming club date listed on soundcheck as of Thu, 10 Sept 2026, next at TBA - The Kabin, Kazimier Garden, Liverpool on Fri, 2 Oct 2026.
+Fairhurst is a Disco and House artist with 1 upcoming club date listed on soundcheck as of Fri, 11 Sept 2026, next at TBA - The Kabin, Kazimier Garden, Liverpool on Fri, 2 Oct 2026.
 
 Fairhurst is a disco and house artist tracked on soundcheck, with 27 sets logged across Liverpool and Manchester. Often billed alongside Mark Hanson, Dance for Plants and Guevarism. Next up: TBA - The Kabin, Kazimier Garden, Liverpool on Fri 2 Oct.
 
@@ -25,4 +25,4 @@ Fairhurst is a disco and house artist tracked on soundcheck, with 27 sets logged
 
 Mark Hanson, Dance for Plants, Guevarism
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/fairhurst/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/fairhurst/)*

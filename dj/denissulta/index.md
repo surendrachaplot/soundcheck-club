@@ -1,8 +1,8 @@
 # Denis Sulta
 
-Denis Sulta is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Thu, 10 Sept 2026, next at Hola Club Sitges (Cala Vallcarca), Barcelona on Sat, 12 Sept 2026.
+Denis Sulta is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at Hola Club Sitges (Cala Vallcarca), Barcelona on Sat, 12 Sept 2026.
 
-Denis Sulta is a house and techno artist tracked on soundcheck, with 142 sets logged across Amsterdam, Antwerp, Bali and Barcelona and 49 more. Often billed alongside Ben Hemsley, Sarah Story and Chris Stassy. Next up: Hola Club Sitges (Cala Vallcarca), Barcelona on Sat 12 Sept.
+Denis Sulta is a house and techno artist tracked on soundcheck, with 144 sets logged across Amsterdam, Antwerp, Bali and Barcelona and 49 more. Often billed alongside Ben Hemsley, Sarah Story and Chris Stassy. Next up: Hola Club Sitges (Cala Vallcarca), Barcelona on Sat 12 Sept.
 
 ## Upcoming shows
 
@@ -11,6 +11,8 @@ Denis Sulta is a house and techno artist tracked on soundcheck, with 142 sets lo
 | Sat, 12 Sept 2026 | Hola Club Sitges (Cala Vallcarca) | Barcelona |
 | Mon, 21 Sept 2026 | Amnesia Ibiza | Ibiza |
 | Fri, 2 Oct 2026 | Amnesia Ibiza | Ibiza |
+| Fri, 4 Dec 2026 | Phonox | London |
+| Fri, 4 Dec 2026 | Phonox | London |
 
 ## Recently played
 
@@ -27,4 +29,4 @@ Denis Sulta is a house and techno artist tracked on soundcheck, with 142 sets lo
 
 Ben Hemsley, Sarah Story, Chris Stassy
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/denissulta/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/denissulta/)*

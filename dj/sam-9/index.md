@@ -1,6 +1,6 @@
 # SAM (9)
 
-SAM (9) is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 10 Sept 2026, next at FOUND, Berlin on Fri, 25 Sept 2026.
+SAM (9) is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 11 Sept 2026, next at FOUND, Berlin on Fri, 25 Sept 2026.
 
 SAM (9) is a house and techno artist based in Germany, tracked on soundcheck, with 66 sets logged across Berlin, Brussels, Cologne and Leipzig and 7 more. Often billed alongside OLIV, jewelry and Marie Montexier. Next up: FOUND, Berlin on Fri 25 Sept.
 
@@ -25,4 +25,4 @@ SAM (9) is a house and techno artist based in Germany, tracked on soundcheck, wi
 
 OLIV, jewelry, Marie Montexier
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sam-9/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sam-9/)*

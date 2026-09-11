@@ -1,6 +1,6 @@
 # Whitesquare
 
-Whitesquare is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Thu, 10 Sept 2026, next at Palazzo Delle Esposizioni, Rome on Thu, 17 Sept 2026.
+Whitesquare is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at Palazzo Delle Esposizioni, Rome on Thu, 17 Sept 2026.
 
 Whitesquare is a house and techno artist based in Italy, tracked on soundcheck, with 44 sets logged across Barcelona, Berlin, Cologne and Ibiza and 14 more. Often billed alongside Moscoman, Mr. Tron and SATURNSARii. Next up: Palazzo Delle Esposizioni, Rome on Thu 17 Sept.
 
@@ -28,4 +28,4 @@ Whitesquare is a house and techno artist based in Italy, tracked on soundcheck, 
 
 Moscoman, Mr. Tron, SATURNSARii
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/whitesquare/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/whitesquare/)*

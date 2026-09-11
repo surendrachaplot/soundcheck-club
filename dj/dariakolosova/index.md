@@ -1,6 +1,6 @@
 # Daria Kolosova
 
-Daria Kolosova is a Techno and House artist with 8 upcoming club dates listed on soundcheck as of Thu, 10 Sept 2026, next at Art Club, Houston on Fri, 11 Sept 2026.
+Daria Kolosova is a Techno and House artist with 8 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at Art Club, Houston on Fri, 11 Sept 2026.
 
 Daria Kolosova is a techno and house artist tracked on soundcheck, with 277 sets logged across Amsterdam, Antwerp, Athens and Austin and 65 more. Often billed alongside DAX J, KlangKuenstler and Patrick Mason. Next up: Art Club, Houston on Fri 11 Sept.
 
@@ -32,4 +32,4 @@ Daria Kolosova is a techno and house artist tracked on soundcheck, with 277 sets
 
 DAX J, KlangKuenstler, Patrick Mason
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dariakolosova/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dariakolosova/)*

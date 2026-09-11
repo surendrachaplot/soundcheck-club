@@ -1,6 +1,6 @@
 # Charlotte Lion
 
-Charlotte Lion is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Thu, 10 Sept 2026, next at KitKatClub, Berlin on Wed, 23 Sept 2026.
+Charlotte Lion is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at KitKatClub, Berlin on Wed, 23 Sept 2026.
 
 Charlotte Lion is a techno and trance artist based in Germany, tracked on soundcheck, with 18 sets logged across Berlin, Hamburg, Ibiza and Leipzig. Often billed alongside maniaclina, Stuckeyrella and KETA PERRY. Next up: KitKatClub, Berlin on Wed 23 Sept.
 
@@ -26,4 +26,4 @@ Charlotte Lion is a techno and trance artist based in Germany, tracked on soundc
 
 maniaclina, Stuckeyrella, KETA PERRY
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/charlottelion/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/charlottelion/)*

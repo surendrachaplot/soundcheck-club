@@ -1,6 +1,6 @@
 # Roy (PT)
 
-Roy (PT) is a House and Hip-Hop artist with 1 upcoming club date listed on soundcheck as of Thu, 10 Sept 2026, next at Village Underground Lisboa, Lisbon on Sun, 13 Sept 2026.
+Roy (PT) is a House and Hip-Hop artist with 1 upcoming club date listed on soundcheck as of Fri, 11 Sept 2026, next at Village Underground Lisboa, Lisbon on Sun, 13 Sept 2026.
 
 Roy (PT) is a house and hip-hop artist tracked on soundcheck, with 37 sets logged across Lisbon and Tokyo. Often billed alongside MAO, Shin and Tomo. Next up: Village Underground Lisboa, Lisbon on Sun 13 Sept.
 
@@ -25,4 +25,4 @@ Roy (PT) is a house and hip-hop artist tracked on soundcheck, with 37 sets logge
 
 MAO, Shin, Tomo
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/roy-pt/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/roy-pt/)*

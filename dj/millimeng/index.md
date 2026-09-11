@@ -1,6 +1,6 @@
 # Milli Meng
 
-Milli Meng is a Techno and Club artist with 2 upcoming club dates listed on soundcheck as of Thu, 10 Sept 2026, next at 888 Garage, San Francisco/Oakland on Sun, 13 Sept 2026.
+Milli Meng is a Techno and Club artist with 2 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at 888 Garage, San Francisco/Oakland on Sun, 13 Sept 2026.
 
 Milli Meng is a techno and club artist based in United States of America, tracked on soundcheck, with 19 sets logged across Sanfrancisco. Often billed alongside Kaytree, YANNI and BAD JUUJU. Next up: 888 Garage, Sanfrancisco on Sun 13 Sept.
 
@@ -26,4 +26,4 @@ Milli Meng is a techno and club artist based in United States of America, tracke
 
 Kaytree, YANNI, BAD JUUJU
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/millimeng/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/millimeng/)*

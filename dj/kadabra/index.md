@@ -1,6 +1,6 @@
 # Kadabra
 
-Kadabra is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Thu, 10 Sept 2026, next at Neon Grotto, Austin on Thu, 17 Sept 2026.
+Kadabra is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Fri, 11 Sept 2026, next at Neon Grotto, Austin on Thu, 17 Sept 2026.
 
 Kadabra is a house and deep house artist based in United States of America, tracked on soundcheck, with 7 sets logged across Austin. Often billed alongside Knos, Rambo and Brett Johnson. Next up: Neon Grotto, Austin on Thu 17 Sept.
 
@@ -23,4 +23,4 @@ Kadabra is a house and deep house artist based in United States of America, trac
 
 Knos, Rambo, Brett Johnson
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kadabra/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kadabra/)*

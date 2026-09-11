@@ -1,6 +1,6 @@
 # Clouds
 
-Clouds is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Thu, 10 Sept 2026, next at XOYO, London on Sat, 26 Sept 2026.
+Clouds is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at XOYO, London on Sat, 26 Sept 2026.
 
 Clouds is a techno and house artist tracked on soundcheck, with 91 sets logged across Aberdeen, Amsterdam, Basel and Belfast and 27 more. Often billed alongside Tommy Holohan, Bella Claxton and DART. Next up: XOYO, London on Sat 26 Sept.
 
@@ -28,4 +28,4 @@ Clouds is a techno and house artist tracked on soundcheck, with 91 sets logged a
 
 Tommy Holohan, Bella Claxton, DART
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/clouds/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/clouds/)*

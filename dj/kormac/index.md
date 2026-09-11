@@ -1,6 +1,6 @@
 # KORMAC
 
-KORMAC is a electronic artist with 2 upcoming club dates listed on soundcheck as of Thu, 10 Sept 2026, next at Vicar Street, Dublin on Sun, 25 Oct 2026.
+KORMAC is a electronic artist with 2 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at Vicar Street, Dublin on Sun, 25 Oct 2026.
 
 KORMAC is an electronic artist based in Ireland, tracked on soundcheck, with 2 sets logged across Dublin. Often billed alongside 2ManyDJs. Next up: Vicar Street, Dublin on Sun 25 Oct.
 
@@ -15,4 +15,4 @@ KORMAC is an electronic artist based in Ireland, tracked on soundcheck, with 2 s
 
 2ManyDJs
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kormac/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kormac/)*

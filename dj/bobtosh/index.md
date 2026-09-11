@@ -1,6 +1,6 @@
 # Bob Tosh
 
-Bob Tosh is a Techno and Electronica artist with 2 upcoming club dates listed on soundcheck as of Thu, 10 Sept 2026, next at Cova Santa, Ibiza on Thu, 17 Sept 2026.
+Bob Tosh is a Techno and Electronica artist with 2 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at Cova Santa, Ibiza on Thu, 17 Sept 2026.
 
 Bob Tosh is a techno and electronica artist based in Argentina, tracked on soundcheck, with 31 sets logged across Amsterdam, Barcelona, Buenosaires and Copenhagen and 1 more. Often billed alongside 6RAJ, Ark Nomads and Dist. Next up: Cova Santa, Ibiza on Thu 17 Sept.
 
@@ -26,4 +26,4 @@ Bob Tosh is a techno and electronica artist based in Argentina, tracked on sound
 
 6RAJ, Ark Nomads, Dist
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bobtosh/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bobtosh/)*

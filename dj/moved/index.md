@@ -1,8 +1,8 @@
 # Move D
 
-Move D is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 10 Sept 2026, next at Momem - Museum of Modern Electronic Music, Frankfurt on Sat, 19 Sept 2026.
+Move D is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at Momem - Museum of Modern Electronic Music, Frankfurt on Sat, 19 Sept 2026.
 
-Move D is a house and techno artist tracked on soundcheck, with 145 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 40 more. Often billed alongside Robert Drewek, Discrete Circuit and Prosumer. Next up: Momem - Museum of Modern Electronic Music, Frankfurt on Sat 19 Sept.
+Move D is a house and techno artist tracked on soundcheck, with 146 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 40 more. Often billed alongside Robert Drewek, Discrete Circuit and Prosumer. Next up: Momem - Museum of Modern Electronic Music, Frankfurt on Sat 19 Sept.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Move D is a house and techno artist tracked on soundcheck, with 145 sets logged 
 | --- | --- | --- |
 | Sat, 19 Sept 2026 | Momem - Museum of Modern Electronic Music | Frankfurt |
 | Sat, 26 Sept 2026 | Night Tales | London |
+| Sat, 7 Nov 2026 | Fraser Park | Sydney |
 
 ## Recently played
 
@@ -26,4 +27,4 @@ Move D is a house and techno artist tracked on soundcheck, with 145 sets logged 
 
 Robert Drewek, Discrete Circuit, Prosumer
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/moved/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/moved/)*

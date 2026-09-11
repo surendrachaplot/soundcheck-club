@@ -1,6 +1,6 @@
 # Konstantin
 
-Konstantin is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Thu, 10 Sept 2026, next at Haus der Visionäre, Berlin on Sat, 26 Sept 2026.
+Konstantin is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at Haus der Visionäre, Berlin on Sat, 26 Sept 2026.
 
 Konstantin is a house and techno artist tracked on soundcheck, with 168 sets logged across Amsterdam, Antwerp, Bali and Barcelona and 32 more. Often billed alongside Leafar Legov, Map.ache and Edward. Next up: Haus der Visionäre, Berlin on Sat 26 Sept.
 
@@ -29,4 +29,4 @@ Konstantin is a house and techno artist tracked on soundcheck, with 168 sets log
 
 Leafar Legov, Map.ache, Edward
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/konstantin/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/konstantin/)*

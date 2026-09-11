@@ -1,6 +1,6 @@
 # Gateshead Quayside
 
-Gateshead Quayside is a music venue in Newcastle with 1 upcoming night listed on soundcheck as of Thu, 10 Sept 2026; the next is "Side Quest Festival" on Sat, 26 Sept 2026.
+Gateshead Quayside is a music venue in Newcastle with 1 upcoming night listed on soundcheck as of Fri, 11 Sept 2026; the next is "Side Quest Festival" on Sat, 26 Sept 2026.
 
 Gateshead Quayside is a music venue in Newcastle listed on soundcheck. 1 upcoming night, with line-ups including Amen Sage, Becky Woodcock, CICELY and DJ BootyShake and 2 more. Browse upcoming dates, start times and who's playing. Hillgate, Gateshead, NE8 2FD.
 
@@ -14,4 +14,4 @@ Gateshead Quayside is a music venue in Newcastle listed on soundcheck. 1 upcomin
 
 Hillgate, Gateshead, NE8 2FD, Newcastle
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/newcastle/club/gateshead-quayside/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/newcastle/club/gateshead-quayside/)*

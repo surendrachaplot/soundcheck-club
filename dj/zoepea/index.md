@@ -1,6 +1,6 @@
 # Zoe Pea
 
-Zoe Pea is a Downtempo and Experimental artist with 2 upcoming club dates listed on soundcheck as of Thu, 10 Sept 2026, next at EXIT Glasgow, Glasgow on Fri, 11 Sept 2026.
+Zoe Pea is a Downtempo and Experimental artist with 2 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at EXIT Glasgow, Glasgow on Fri, 11 Sept 2026.
 
 Zoe Pea is a downtempo and experimental artist tracked on soundcheck, with 20 sets logged across Bristol, Glasgow, Leeds and London and 3 more. Often billed alongside Rat Section, babyschön and floor length skirts. Next up: EXIT Glasgow, Glasgow on Fri 11 Sept.
 
@@ -26,4 +26,4 @@ Zoe Pea is a downtempo and experimental artist tracked on soundcheck, with 20 se
 
 Rat Section, babyschön, floor length skirts
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/zoepea/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/zoepea/)*

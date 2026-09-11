@@ -1,13 +1,14 @@
 # Collé
 
-Collé is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 10 Sept 2026, next at Crane Hotel Faralda, Amsterdam on Sun, 25 Oct 2026.
+Collé is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at WestWeelde, Amsterdam on Sat, 24 Oct 2026.
 
-Collé is a house and techno artist based in Netherlands, tracked on soundcheck, with 46 sets logged across Amsterdam, Bali, Barcelona and Brussels and 10 more. Often billed alongside Hedda Stenberg, Mees Salomé and Bedouin. Next up: Crane Hotel Faralda, Amsterdam on Sun 25 Oct.
+Collé is a house and techno artist based in Netherlands, tracked on soundcheck, with 47 sets logged across Amsterdam, Bali, Barcelona and Brussels and 10 more. Often billed alongside Hedda Stenberg, Mees Salomé and Bedouin. Next up: WestWeelde, Amsterdam on Sat 24 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 24 Oct 2026 | WestWeelde | Amsterdam |
 | Sun, 25 Oct 2026 | Crane Hotel Faralda | Amsterdam |
 
 ## Recently played
@@ -25,4 +26,4 @@ Collé is a house and techno artist based in Netherlands, tracked on soundcheck,
 
 Hedda Stenberg, Mees Salomé, Bedouin
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/colle/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/colle/)*

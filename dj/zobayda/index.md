@@ -1,6 +1,6 @@
 # ZOBAYDA
 
-ZOBAYDA is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 10 Sept 2026, next at Panke, Berlin on Sat, 19 Sept 2026.
+ZOBAYDA is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at Panke, Berlin on Sat, 19 Sept 2026.
 
 ZOBAYDA is a techno and house artist tracked on soundcheck, with 47 sets logged across Amsterdam, Berlin, Brussels and Leipzig and 3 more. Often billed alongside YoungWoman, DIORA and Slimfit. Next up: Panke, Berlin on Sat 19 Sept.
 
@@ -26,4 +26,4 @@ ZOBAYDA is a techno and house artist tracked on soundcheck, with 47 sets logged 
 
 YoungWoman, DIORA, Slimfit
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/zobayda/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/zobayda/)*

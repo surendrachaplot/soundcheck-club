@@ -1,6 +1,6 @@
 # Deep Ghosh
 
-Deep Ghosh is a Deep House and Tech House artist with 1 upcoming club date listed on soundcheck as of Thu, 10 Sept 2026, next at SAGE, Berlin on Sat, 12 Sept 2026.
+Deep Ghosh is a Deep House and Tech House artist with 1 upcoming club date listed on soundcheck as of Fri, 11 Sept 2026, next at SAGE, Berlin on Sat, 12 Sept 2026.
 
 Deep Ghosh is a deep house and tech house artist tracked on soundcheck, with 20 sets logged across Amsterdam, Berlin and Melbourne. Often billed alongside Joep Mencke, MOOGLI (DE) and Andhim. Next up: SAGE, Berlin on Sat 12 Sept.
 
@@ -25,4 +25,4 @@ Deep Ghosh is a deep house and tech house artist tracked on soundcheck, with 20 
 
 Joep Mencke, MOOGLI (DE), Andhim
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/deepghosh/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/deepghosh/)*

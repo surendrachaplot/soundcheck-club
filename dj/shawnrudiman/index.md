@@ -1,6 +1,6 @@
 # Shawn Rudiman
 
-Shawn Rudiman is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 10 Sept 2026, next at feedbk, New York City on Fri, 11 Sept 2026.
+Shawn Rudiman is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 11 Sept 2026, next at feedbk, New York City on Fri, 11 Sept 2026.
 
 Shawn Rudiman is a techno and house artist tracked on soundcheck, with 13 sets logged across Detroit, Newyorkcity and Portland. Often billed alongside DJ Seoul, T.Linder and DJ I.V.. Next up: feedbk, Newyorkcity on Fri 11 Sept.
 
@@ -25,4 +25,4 @@ Shawn Rudiman is a techno and house artist tracked on soundcheck, with 13 sets l
 
 DJ Seoul, T.Linder, DJ I.V.
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/shawnrudiman/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/shawnrudiman/)*

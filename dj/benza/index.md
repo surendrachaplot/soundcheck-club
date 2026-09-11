@@ -1,13 +1,14 @@
 # BENZA
 
-BENZA is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 10 Sept 2026, next at Specka, Madrid on Fri, 18 Sept 2026.
+BENZA is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at Lowkey Seoul, Seoul on Fri, 11 Sept 2026.
 
-BENZA is a techno and house artist tracked on soundcheck, with 64 sets logged across Amsterdam, Belgrade, Berlin and Dublin and 16 more. Often billed alongside Vilchezz, JKS and NDSTPS. Next up: Specka, Madrid on Fri 18 Sept.
+BENZA is a techno and house artist tracked on soundcheck, with 65 sets logged across Amsterdam, Belgrade, Berlin and Dublin and 16 more. Often billed alongside Vilchezz, JKS and NDSTPS. Next up: Lowkey Seoul, Seoul on Fri 11 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 11 Sept 2026 | Lowkey Seoul | Seoul |
 | Fri, 18 Sept 2026 | Specka | Madrid |
 | Fri, 13 Nov 2026 | Astoria | Turin |
 
@@ -26,4 +27,4 @@ BENZA is a techno and house artist tracked on soundcheck, with 64 sets logged ac
 
 Vilchezz, JKS, NDSTPS
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/benza/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/benza/)*

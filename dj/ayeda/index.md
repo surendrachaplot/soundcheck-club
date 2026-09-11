@@ -1,6 +1,6 @@
 # AYEDA
 
-AYEDA is a Electronica and Club artist with 1 upcoming club date listed on soundcheck as of Thu, 10 Sept 2026, next at Mono, Rotterdam on Sat, 26 Sept 2026.
+AYEDA is a Electronica and Club artist with 1 upcoming club date listed on soundcheck as of Fri, 11 Sept 2026, next at Mono, Rotterdam on Sat, 26 Sept 2026.
 
 AYEDA is an electronica and club artist based in Netherlands, tracked on soundcheck, with 8 sets logged across Amsterdam and Rotterdam. Often billed alongside Lena Rigel, A Guy Called Gerald and ABADIR. Next up: Mono, Rotterdam on Sat 26 Sept.
 
@@ -24,4 +24,4 @@ AYEDA is an electronica and club artist based in Netherlands, tracked on soundch
 
 Lena Rigel, A Guy Called Gerald, ABADIR
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ayeda/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ayeda/)*

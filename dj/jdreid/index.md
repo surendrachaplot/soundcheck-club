@@ -1,6 +1,6 @@
 # JD. REID
 
-JD. REID is a Club and Bass artist with 4 upcoming club dates listed on soundcheck as of Thu, 10 Sept 2026, next at Yamamori Tengu, Dublin on Fri, 11 Sept 2026.
+JD. REID is a Club and Bass artist with 4 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at Yamamori Tengu, Dublin on Fri, 11 Sept 2026.
 
 JD. REID is a club and bass artist based in United Kingdom, tracked on soundcheck, with 27 sets logged across Dublin, London and Manchester. Often billed alongside Bok Bok, Halogenix and Call Super. Next up: Yamamori Tengu, Dublin on Fri 11 Sept.
 
@@ -28,4 +28,4 @@ JD. REID is a club and bass artist based in United Kingdom, tracked on soundchec
 
 Bok Bok, Halogenix, Call Super
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jdreid/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jdreid/)*

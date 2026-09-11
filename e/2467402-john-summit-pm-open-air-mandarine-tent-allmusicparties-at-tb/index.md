@@ -1,6 +1,6 @@
 # John Summit - PM Open Air, Mandarine Tent | ALLMusicParties at TBA - Mandarine Tent, Punta Carrasco
 
-John Summit - PM Open Air, Mandarine Tent | ALLMusicParties at TBA - Mandarine Tent, Punta Carrasco on Sat 12 Sept, Buenosaires. 1 act on the bill: John Summit. Tech House and Pop. Preview the line-up and save it on soundcheck.
+John Summit - PM Open Air, Mandarine Tent | ALLMusicParties at TBA - Mandarine Tent, Punta Carrasco on Sat 12 Sept, Buenosaires. 2 acts on the bill: John Summit and LP Giobbi. Tech House and Pop. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,5 +11,6 @@ John Summit - PM Open Air, Mandarine Tent | ALLMusicParties at TBA - Mandarine T
 ## Line-up
 
 - John Summit
+- LP Giobbi
 
 *Source: [soundcheck](https://soundcheck.club/e/2467402-john-summit-pm-open-air-mandarine-tent-allmusicparties-at-tb/)*

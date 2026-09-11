@@ -1,6 +1,6 @@
 # The Fan Club at Sala Siroco
 
-The Fan Club at Sala Siroco on Sun 13 Sept, Madrid. 1 act on the bill: ADRI.G. Electro and Deep House. Preview the line-up and save it on soundcheck.
+The Fan Club at Sala Siroco on Sun 13 Sept, Madrid. 2 acts on the bill: ADRI.G and Themine. Electro and Deep House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,5 +11,6 @@ The Fan Club at Sala Siroco on Sun 13 Sept, Madrid. 1 act on the bill: ADRI.G. E
 ## Line-up
 
 - ADRI.G
+- Themine
 
 *Source: [soundcheck](https://soundcheck.club/e/2519084-the-fan-club-at-sala-siroco/)*

@@ -1,6 +1,6 @@
 # Dissenter Space
 
-Dissenter Space is a music venue in Edinburgh with 1 upcoming night listed on soundcheck as of Thu, 10 Sept 2026; the next is "On Land" on Sat, 10 Oct 2026.
+Dissenter Space is a music venue in Edinburgh with 1 upcoming night listed on soundcheck as of Fri, 11 Sept 2026; the next is "On Land" on Sat, 10 Oct 2026.
 
 Dissenter Space is a music venue in Edinburgh listed on soundcheck. 1 upcoming night, with line-ups including Joshua Sabin. Browse upcoming dates, start times and who's playing. 94 Ocean Dr, Leith, Edinburgh, EH6 6JH.
 
@@ -14,4 +14,4 @@ Dissenter Space is a music venue in Edinburgh listed on soundcheck. 1 upcoming n
 
 94 Ocean Dr, Leith, Edinburgh, EH6 6JH, Edinburgh
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/edinburgh/club/dissenter-space/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/edinburgh/club/dissenter-space/)*

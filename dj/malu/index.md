@@ -1,6 +1,6 @@
 # Malu
 
-Malu is a Techno and Deep House artist with 1 upcoming club date listed on soundcheck as of Thu, 10 Sept 2026, next at Panke, Berlin on Fri, 13 Nov 2026.
+Malu is a Techno and Deep House artist with 1 upcoming club date listed on soundcheck as of Fri, 11 Sept 2026, next at Panke, Berlin on Fri, 13 Nov 2026.
 
 Malu is a techno and deep house artist tracked on soundcheck, with 8 sets logged across Berlin, Munster and Saopaulo. Often billed alongside Malu, &more and Abdullah Miniawy. Next up: Panke, Berlin on Fri 13 Nov.
 
@@ -24,4 +24,4 @@ Malu is a techno and deep house artist tracked on soundcheck, with 8 sets logged
 
 Malu, &more, Abdullah Miniawy
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/malu/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/malu/)*

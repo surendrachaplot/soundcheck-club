@@ -1,14 +1,15 @@
 # jayjayGR
 
-jayjayGR is a House and Deep House artist with 2 upcoming club dates listed on soundcheck as of Thu, 10 Sept 2026, next at Don't be a Dick, Athens on Sat, 12 Sept 2026.
+jayjayGR is a House and Deep House artist with 3 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at Don't be a Dick, Athens on Sat, 12 Sept 2026.
 
-jayjayGR is a house and deep house artist based in Greece, tracked on soundcheck, with 35 sets logged across Athens. Often billed alongside Stratos (2), Reign Of Time and SUNEATER.. Next up: Don't be a Dick, Athens on Sat 12 Sept.
+jayjayGR is a house and deep house artist based in Greece, tracked on soundcheck, with 36 sets logged across Athens. Often billed alongside Stratos (2), Reign Of Time and MAN WITH THE SPEAKER. Next up: Don't be a Dick, Athens on Sat 12 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 12 Sept 2026 | Don't be a Dick | Athens |
+| Sat, 12 Sept 2026 | Skull Bar | Athens |
 | Sun, 25 Oct 2026 | Athens Conservatoire - Ωδείον Αθηνών | Athens |
 
 ## Recently played
@@ -24,6 +25,6 @@ jayjayGR is a house and deep house artist based in Greece, tracked on soundcheck
 
 ## Shares bills with
 
-Stratos (2), Reign Of Time, SUNEATER.
+Stratos (2), Reign Of Time, MAN WITH THE SPEAKER
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jayjaygr/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jayjaygr/)*

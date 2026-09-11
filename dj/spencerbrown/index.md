@@ -1,8 +1,8 @@
 # Spencer Brown
 
-Spencer Brown is a Progressive House and House artist with 4 upcoming club dates listed on soundcheck as of Thu, 10 Sept 2026, next at Flash, Washington DC on Sat, 12 Sept 2026.
+Spencer Brown is a Progressive House and House artist with 5 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at Flash, Washington DC on Sat, 12 Sept 2026.
 
-Spencer Brown is a progressive house and house artist tracked on soundcheck, with 85 sets logged across Austin, Berlin, Boston and Brighton and 25 more. Often billed alongside Qrion, John Digweed and Late Night Shri. Next up: Flash, Washingtondc on Sat 12 Sept.
+Spencer Brown is a progressive house and house artist tracked on soundcheck, with 86 sets logged across Austin, Berlin, Boston and Brighton and 25 more. Often billed alongside Qrion, John Digweed and Jody Wisternoff. Next up: Flash, Washingtondc on Sat 12 Sept.
 
 ## Upcoming shows
 
@@ -12,6 +12,7 @@ Spencer Brown is a progressive house and house artist tracked on soundcheck, wit
 | Sat, 26 Sept 2026 | Reelworks Denver | Denver |
 | Fri, 30 Oct 2026 | Foro Basement | Mexico City |
 | Fri, 30 Oct 2026 | TBA | Mexico City |
+| Fri, 30 Oct 2026 | Foro Basement | Mexico City |
 
 ## Recently played
 
@@ -26,6 +27,6 @@ Spencer Brown is a progressive house and house artist tracked on soundcheck, wit
 
 ## Shares bills with
 
-Qrion, John Digweed, Late Night Shri
+Qrion, John Digweed, Jody Wisternoff
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/spencerbrown/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/spencerbrown/)*

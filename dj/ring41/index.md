@@ -1,6 +1,6 @@
 # Ring41
 
-Ring41 is a House and Breakbeat artist with 1 upcoming club date listed on soundcheck as of Thu, 10 Sept 2026, next at Haus73, Hamburg on Fri, 11 Sept 2026.
+Ring41 is a House and Breakbeat artist with 1 upcoming club date listed on soundcheck as of Fri, 11 Sept 2026, next at Haus73, Hamburg on Fri, 11 Sept 2026.
 
 Ring41 is a house and breakbeat artist tracked on soundcheck, with 25 sets logged across Hamburg. Often billed alongside Ivaldo Gino, L.A.tifa and Suzi Mystique. Next up: Haus73, Hamburg on Fri 11 Sept.
 
@@ -25,4 +25,4 @@ Ring41 is a house and breakbeat artist tracked on soundcheck, with 25 sets logge
 
 Ivaldo Gino, L.A.tifa, Suzi Mystique
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ring41/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ring41/)*

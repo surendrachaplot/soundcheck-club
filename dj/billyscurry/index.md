@@ -1,6 +1,6 @@
 # Billy Scurry
 
-Billy Scurry is a electronic artist with 2 upcoming club dates listed on soundcheck as of Thu, 10 Sept 2026, next at Commercial Rowing Club Dublin, Dublin on Sat, 12 Sept 2026.
+Billy Scurry is a electronic artist with 2 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at Commercial Rowing Club Dublin, Dublin on Sat, 12 Sept 2026.
 
 Billy Scurry is an electronic artist based in Ireland, tracked on soundcheck, with 4 sets logged across Dublin. Often billed alongside Arveene, Alba (2) and Donal Dineen. Next up: Commercial Rowing Club Dublin, Dublin on Sat 12 Sept.
 
@@ -20,4 +20,4 @@ Billy Scurry is an electronic artist based in Ireland, tracked on soundcheck, wi
 
 Arveene, Alba (2), Donal Dineen
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/billyscurry/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/billyscurry/)*

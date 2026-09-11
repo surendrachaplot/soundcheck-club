@@ -1,6 +1,6 @@
 # Rozalina
 
-Rozalina is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Thu, 10 Sept 2026, next at Toldi Klub, Budapest on Sat, 17 Oct 2026.
+Rozalina is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Fri, 11 Sept 2026, next at Toldi Klub, Budapest on Sat, 17 Oct 2026.
 
 Rozalina is a techno and trance artist tracked on soundcheck, with 82 sets logged across Berlin, Budapest and Leipzig. Often billed alongside Gingershot, CRB and Meduzah. Next up: Toldi Klub, Budapest on Sat 17 Oct.
 
@@ -25,4 +25,4 @@ Rozalina is a techno and trance artist tracked on soundcheck, with 82 sets logge
 
 Gingershot, CRB, Meduzah
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/rozalina/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/rozalina/)*

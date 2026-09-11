@@ -1,13 +1,14 @@
 # KURLZ
 
-KURLZ is a House and Garage artist with 1 upcoming club date listed on soundcheck as of Thu, 10 Sept 2026, next at Piccadilly Central, Manchester on Fri, 25 Sept 2026.
+KURLZ is a House and Garage artist with 2 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at Dahlia Stereo, Manchester on Sat, 12 Sept 2026.
 
-KURLZ is a house and garage artist based in United Kingdom, tracked on soundcheck, with 27 sets logged across Liverpool and Manchester. Often billed alongside Alex Moore, Kuriboh and sebastieN. Next up: Piccadilly Central, Manchester on Fri 25 Sept.
+KURLZ is a house and garage artist based in United Kingdom, tracked on soundcheck, with 28 sets logged across Liverpool and Manchester. Often billed alongside Alex Moore, Kuriboh and sebastieN. Next up: Dahlia Stereo, Manchester on Sat 12 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 12 Sept 2026 | Dahlia Stereo | Manchester |
 | Fri, 25 Sept 2026 | Piccadilly Central | Manchester |
 
 ## Recently played
@@ -25,4 +26,4 @@ KURLZ is a house and garage artist based in United Kingdom, tracked on soundchec
 
 Alex Moore, Kuriboh, sebastieN
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kurlz/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kurlz/)*

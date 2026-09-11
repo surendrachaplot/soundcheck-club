@@ -1,6 +1,6 @@
 # Kuya Neil
 
-Kuya Neil is a Club and Experimental artist with 1 upcoming club date listed on soundcheck as of Thu, 10 Sept 2026, next at Miscellania, Melbourne on Fri, 18 Sept 2026.
+Kuya Neil is a Club and Experimental artist with 1 upcoming club date listed on soundcheck as of Fri, 11 Sept 2026, next at Miscellania, Melbourne on Fri, 18 Sept 2026.
 
 Kuya Neil is a club and experimental artist tracked on soundcheck, with 20 sets logged across London, Melbourne and Sydney. Often billed alongside Teether, Rydeen (AU) and sovblkpssy. Next up: Miscellania, Melbourne on Fri 18 Sept.
 
@@ -25,4 +25,4 @@ Kuya Neil is a club and experimental artist tracked on soundcheck, with 20 sets 
 
 Teether, Rydeen (AU), sovblkpssy
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kuyaneil/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kuyaneil/)*

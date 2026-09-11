@@ -1,6 +1,6 @@
 # Neek
 
-Neek is a Techno and Dubstep artist with 4 upcoming club dates listed on soundcheck as of Thu, 10 Sept 2026, next at Colour Factory, London on Sat, 26 Sept 2026.
+Neek is a Techno and Dubstep artist with 4 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at Colour Factory, London on Sat, 26 Sept 2026.
 
 Neek is a techno and dubstep artist based in United Kingdom, tracked on soundcheck, with 66 sets logged across Amsterdam, Athens, Barcelona and Basel and 29 more. Often billed alongside Kahn, Medis and SGT Pokes. Next up: Colour Factory, London on Sat 26 Sept.
 
@@ -28,4 +28,4 @@ Neek is a techno and dubstep artist based in United Kingdom, tracked on soundche
 
 Kahn, Medis, SGT Pokes
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/neek/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/neek/)*

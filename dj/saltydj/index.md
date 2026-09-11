@@ -1,6 +1,6 @@
 # Salty DJ
 
-Salty DJ is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Thu, 10 Sept 2026, next at Boat - MS Rhein, Berlin on Sun, 13 Sept 2026.
+Salty DJ is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Fri, 11 Sept 2026, next at Boat - MS Rhein, Berlin on Sun, 13 Sept 2026.
 
 Salty DJ is a techno and trance artist tracked on soundcheck, with 53 sets logged across Berlin, Cologne, Copenhagen and Detroit and 14 more. Often billed alongside Townes, DJ Floppy Disk and MATRIX3K. Next up: Boat - MS Rhein, Berlin on Sun 13 Sept.
 
@@ -25,4 +25,4 @@ Salty DJ is a techno and trance artist tracked on soundcheck, with 53 sets logge
 
 Townes, DJ Floppy Disk, MATRIX3K
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/saltydj/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/saltydj/)*

@@ -1,6 +1,6 @@
 # Newspeak
 
-Newspeak is a music venue in Montreal with 14 upcoming nights listed on soundcheck as of Thu, 10 Sept 2026; the next is "KLOUD - Montréal" on Fri, 11 Sept 2026.
+Newspeak is a music venue in Montreal with 14 upcoming nights listed on soundcheck as of Fri, 11 Sept 2026; the next is "KLOUD - Montréal" on Fri, 11 Sept 2026.
 
 Newspeak is a music venue in Montreal listed on soundcheck. 14 upcoming nights, with line-ups including Ali RQ, Baauer, Claireyy and Cult Member and 2 more. Browse upcoming dates, start times and who's playing. 1403 Rue Sainte-Elisabeth, Montréal, QC H2X 3C5.
 
@@ -23,4 +23,4 @@ Newspeak is a music venue in Montreal listed on soundcheck. 14 upcoming nights, 
 
 1403 Rue Sainte-Elisabeth, Montréal, QC H2X 3C5, Montreal
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/montreal/club/newspeak/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/montreal/club/newspeak/)*

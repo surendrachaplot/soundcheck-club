@@ -1,6 +1,6 @@
 # Victoria Volkova
 
-Victoria Volkova is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 10 Sept 2026, next at Versalles 64, Mexico City on Tue, 15 Sept 2026.
+Victoria Volkova is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 11 Sept 2026, next at Versalles 64, Mexico City on Tue, 15 Sept 2026.
 
 Victoria Volkova is a house and techno artist based in Mexico, tracked on soundcheck, with 28 sets logged across Mexicocity. Often billed alongside Mystery Affair, Bruja Prieta and Kodemul. Next up: Versalles 64, Mexicocity on Tue 15 Sept.
 
@@ -25,4 +25,4 @@ Victoria Volkova is a house and techno artist based in Mexico, tracked on soundc
 
 Mystery Affair, Bruja Prieta, Kodemul
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/victoriavolkova/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/victoriavolkova/)*

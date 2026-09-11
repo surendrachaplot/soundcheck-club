@@ -1,14 +1,15 @@
 # oulcan
 
-oulcan is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Thu, 10 Sept 2026, next at Gestrandet An Der Jannowitzbrücke, Berlin on Fri, 18 Sept 2026.
+oulcan is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at Gestrandet An Der Jannowitzbrücke, Berlin on Fri, 18 Sept 2026.
 
-oulcan is a house and tech house artist tracked on soundcheck, with 34 sets logged across Berlin, Hamburg, Leipzig and Milan. Often billed alongside Tom Pavicich, Mati Amoretti and Vlamassi. Next up: Gestrandet An Der Jannowitzbrücke, Berlin on Fri 18 Sept.
+oulcan is a house and techno artist tracked on soundcheck, with 35 sets logged across Berlin, Hamburg, Leipzig and Milan. Often billed alongside Tom Pavicich, Mati Amoretti and Vlamassi. Next up: Gestrandet An Der Jannowitzbrücke, Berlin on Fri 18 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 18 Sept 2026 | Gestrandet An Der Jannowitzbrücke | Berlin |
+| Sun, 20 Sept 2026 | OXI | Berlin |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ oulcan is a house and tech house artist tracked on soundcheck, with 34 sets logg
 
 Tom Pavicich, Mati Amoretti, Vlamassi
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/oulcan/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/oulcan/)*

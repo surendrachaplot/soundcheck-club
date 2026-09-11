@@ -1,6 +1,6 @@
 # Dupplo
 
-Dupplo is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Thu, 10 Sept 2026, next at Ferro Bar, Porto on Fri, 11 Sept 2026.
+Dupplo is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Fri, 11 Sept 2026, next at Ferro Bar, Porto on Fri, 11 Sept 2026.
 
 Dupplo is a house and disco artist based in Portugal, tracked on soundcheck, with 17 sets logged across Lisbon and Porto. Often billed alongside 2jack4u, AlFaer and Armanda. Next up: Ferro Bar, Porto on Fri 11 Sept.
 
@@ -25,4 +25,4 @@ Dupplo is a house and disco artist based in Portugal, tracked on soundcheck, wit
 
 2jack4u, AlFaer, Armanda
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dupplo/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dupplo/)*

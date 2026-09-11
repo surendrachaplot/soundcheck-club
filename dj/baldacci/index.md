@@ -1,6 +1,6 @@
 # BALDACCI
 
-BALDACCI is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 10 Sept 2026, next at D-EDGE, Sao Paulo on Sat, 19 Sept 2026.
+BALDACCI is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 11 Sept 2026, next at D-EDGE, Sao Paulo on Sat, 19 Sept 2026.
 
 BALDACCI is a house and techno artist tracked on soundcheck, with 11 sets logged across Saopaulo. Often billed alongside Bauhouse, Reizko and ZXNX. Next up: D-EDGE, Saopaulo on Sat 19 Sept.
 
@@ -25,4 +25,4 @@ BALDACCI is a house and techno artist tracked on soundcheck, with 11 sets logged
 
 Bauhouse, Reizko, ZXNX
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/baldacci/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/baldacci/)*

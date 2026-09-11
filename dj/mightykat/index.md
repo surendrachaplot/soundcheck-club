@@ -1,6 +1,6 @@
 # MightyKat
 
-MightyKat is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Thu, 10 Sept 2026, next at ESC, Montreal on Fri, 18 Sept 2026.
+MightyKat is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Fri, 11 Sept 2026, next at ESC, Montreal on Fri, 18 Sept 2026.
 
 MightyKat is a house and disco artist based in Canada, tracked on soundcheck, with 22 sets logged across Berlin, Montreal and Toronto. Often billed alongside Luc Raymond, Soundshaper and Ohm Hourani. Next up: ESC, Montreal on Fri 18 Sept.
 
@@ -25,4 +25,4 @@ MightyKat is a house and disco artist based in Canada, tracked on soundcheck, wi
 
 Luc Raymond, Soundshaper, Ohm Hourani
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mightykat/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mightykat/)*

@@ -1,6 +1,6 @@
 # Hypnotic Carousel: Lola Haro, Cosmic JD, Chafic, Mary, dorraa & brainmoonsun (live) at TBA
 
-Hypnotic Carousel: Lola Haro, Cosmic JD, Chafic, Mary, dorraa & brainmoonsun (live) at TBA on Sat 19 Sept, Toronto. 6 acts on the bill: brainmoonsun, Chafic, Cosmic JD and dorraa and 2 more. Progressive House and Minimal Techno. Preview the line-up and save it on soundcheck.
+Hypnotic Carousel: Lola Haro, Cosmic JD, Chafic, Mary, dorraa & brainmoonsun (live) at TBA on Sat 19 Sept, Toronto. 6 acts on the bill: brainmoonsun, Chafic, Cosmic JD and dorraa and 2 more. Techno and Electro. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
-# Hot Chip (dj set) with DJ D.Dee at Celebrities Night Club
+# Hot Chip (DJ set) with DJ D.Dee at Celebrities Night Club
 
-Hot Chip (dj set) with DJ D.Dee at Celebrities Night Club on Fri 25 Sept, Vancouver. 2 acts on the bill: DJ D.Dee and Hot Chip. House and Disco. Preview the line-up and save it on soundcheck.
+Hot Chip (DJ set) with DJ D.Dee at Celebrities Night Club on Fri 25 Sept, Vancouver. 2 acts on the bill: DJ D.Dee and Hot Chip. House and Disco. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

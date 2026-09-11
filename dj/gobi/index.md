@@ -1,6 +1,6 @@
 # GOBI
 
-GOBI is a Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 10 Sept 2026, next at vurt., Seoul on Sat, 26 Sept 2026.
+GOBI is a Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 11 Sept 2026, next at vurt., Seoul on Sat, 26 Sept 2026.
 
 GOBI is a techno artist based in South Korea, tracked on soundcheck, with 13 sets logged across Seoul. Often billed alongside SUNA, Inger and SJK (1). Next up: vurt., Seoul on Sat 26 Sept.
 
@@ -25,4 +25,4 @@ GOBI is a techno artist based in South Korea, tracked on soundcheck, with 13 set
 
 SUNA, Inger, SJK (1)
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/gobi/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/gobi/)*

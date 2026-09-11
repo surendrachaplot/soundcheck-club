@@ -1,6 +1,6 @@
 # La Perle
 
-La Perle is a music venue in Brussels with 1 upcoming night listed on soundcheck as of Thu, 10 Sept 2026; the next is "FUTURA RESISTELLAGE" on Fri, 11 Sept 2026.
+La Perle is a music venue in Brussels with 1 upcoming night listed on soundcheck as of Fri, 11 Sept 2026; the next is "FUTURA RESISTELLAGE" on Fri, 11 Sept 2026.
 
 La Perle is a music venue in Brussels listed on soundcheck. 1 upcoming night, with line-ups including Hiele, Nika Son and Shorlax. Browse upcoming dates, start times and who's playing. Rue Leopold 133, 1020 Bruxelles.
 
@@ -14,4 +14,4 @@ La Perle is a music venue in Brussels listed on soundcheck. 1 upcoming night, wi
 
 Rue Leopold 133, 1020 Bruxelles, Brussels
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/brussels/club/la-perle/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/brussels/club/la-perle/)*

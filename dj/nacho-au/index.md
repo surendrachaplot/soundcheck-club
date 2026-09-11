@@ -1,6 +1,6 @@
 # Nachö
 
-Nachö is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Thu, 10 Sept 2026, next at Miscellania, Melbourne on Sat, 26 Sept 2026.
+Nachö is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Fri, 11 Sept 2026, next at Miscellania, Melbourne on Sat, 26 Sept 2026.
 
 Nachö is a house and deep house artist based in Chile, tracked on soundcheck, with 12 sets logged across Melbourne and Sydney. Often billed alongside DJ JNETT, Tong 桐 and Amber Ferraro. Next up: Miscellania, Melbourne on Sat 26 Sept.
 
@@ -25,4 +25,4 @@ Nachö is a house and deep house artist based in Chile, tracked on soundcheck, w
 
 DJ JNETT, Tong 桐, Amber Ferraro
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nacho-au/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nacho-au/)*

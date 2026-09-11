@@ -1,6 +1,6 @@
 # Audiojack
 
-Audiojack is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Thu, 10 Sept 2026, next at Sable Miami, Miami on Sat, 19 Sept 2026.
+Audiojack is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Fri, 11 Sept 2026, next at Sable Miami, Miami on Sat, 19 Sept 2026.
 
 Audiojack is a house and tech house artist based in United Kingdom, tracked on soundcheck, with 23 sets logged across Auckland, Barcelona, Berlin and Denver and 10 more. Often billed alongside Black Coffee, DJ Tennis and Damian Lazarus. Next up: Sable Miami, Miami on Sat 19 Sept.
 
@@ -25,4 +25,4 @@ Audiojack is a house and tech house artist based in United Kingdom, tracked on s
 
 Black Coffee, DJ Tennis, Damian Lazarus
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/audiojack/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/audiojack/)*

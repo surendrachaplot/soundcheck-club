@@ -1,14 +1,15 @@
 # Leo Janeiro
 
-Leo Janeiro is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 10 Sept 2026, next at TBA - XuXa 6910 Shirley Avenue, Unit I, Austin on Sat, 12 Sept 2026.
+Leo Janeiro is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at TBA - XuXa 6910 Shirley Avenue, Unit I, Austin on Sat, 12 Sept 2026.
 
-Leo Janeiro is a house and techno artist based in Brazil, tracked on soundcheck, with 24 sets logged across Austin, Barcelona, Berlin and Lisbon and 2 more. Often billed alongside Leo J, From House to Disco and The Checkup. Next up: TBA - XuXa 6910 Shirley Avenue, Unit I, Austin on Sat 12 Sept.
+Leo Janeiro is a house and techno artist based in Brazil, tracked on soundcheck, with 25 sets logged across Austin, Barcelona, Berlin and Lisbon and 2 more. Often billed alongside Leo J, From House to Disco and Bernardo Campos. Next up: TBA - XuXa 6910 Shirley Avenue, Unit I, Austin on Sat 12 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 12 Sept 2026 | TBA - XuXa 6910 Shirley Avenue, Unit I | Austin |
+| Sat, 12 Sept 2026 | Casinha cc | Sao Paulo |
 
 ## Recently played
 
@@ -23,6 +24,6 @@ Leo Janeiro is a house and techno artist based in Brazil, tracked on soundcheck,
 
 ## Shares bills with
 
-Leo J, From House to Disco, The Checkup
+Leo J, From House to Disco, Bernardo Campos
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/leojaneiro/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/leojaneiro/)*

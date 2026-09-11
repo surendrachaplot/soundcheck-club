@@ -1,6 +1,6 @@
 # VANI
 
-VANI is a House and Afrobeats artist with 1 upcoming club date listed on soundcheck as of Thu, 10 Sept 2026, next at The Moroccan Lounge, Los Angeles on Sat, 12 Sept 2026.
+VANI is a House and Afrobeats artist with 1 upcoming club date listed on soundcheck as of Fri, 11 Sept 2026, next at The Moroccan Lounge, Los Angeles on Sat, 12 Sept 2026.
 
 VANI is a house and afrobeats artist tracked on soundcheck, with 10 sets logged across Losangeles, Newyorkcity and Sanfrancisco. Often billed alongside Bianca Maieli, MTooray and ARINI. Next up: The Moroccan Lounge, Losangeles on Sat 12 Sept.
 
@@ -25,4 +25,4 @@ VANI is a house and afrobeats artist tracked on soundcheck, with 10 sets logged 
 
 Bianca Maieli, MTooray, ARINI
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/vani/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/vani/)*

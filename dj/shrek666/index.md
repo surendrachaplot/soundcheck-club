@@ -1,6 +1,6 @@
 # Shrek666
 
-Shrek666 is a Techno and Hardcore artist with 1 upcoming club date listed on soundcheck as of Thu, 10 Sept 2026, next at The DBA, Manchester on Thu, 15 Oct 2026.
+Shrek666 is a Techno and Hardcore artist with 1 upcoming club date listed on soundcheck as of Fri, 11 Sept 2026, next at The DBA, Manchester on Thu, 15 Oct 2026.
 
 Shrek666 is a techno and hardcore artist based in United Kingdom, tracked on soundcheck, with 21 sets logged across Glasgow, London and Manchester. Often billed alongside Babyjaii, Miss Cabbage and Aderayo. Next up: The DBA, Manchester on Thu 15 Oct.
 
@@ -25,4 +25,4 @@ Shrek666 is a techno and hardcore artist based in United Kingdom, tracked on sou
 
 Babyjaii, Miss Cabbage, Aderayo
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/shrek666/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/shrek666/)*

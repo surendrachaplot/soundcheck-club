@@ -1,6 +1,6 @@
 # Nothus
 
-Nothus is a Techno and Electronica artist with 1 upcoming club date listed on soundcheck as of Thu, 10 Sept 2026, next at NAMA - Nuovo Anfiteatro Martesana, Milan on Fri, 25 Sept 2026.
+Nothus is a Techno and Electronica artist with 1 upcoming club date listed on soundcheck as of Fri, 11 Sept 2026, next at NAMA - Nuovo Anfiteatro Martesana, Milan on Fri, 25 Sept 2026.
 
 Nothus is a techno and electronica artist tracked on soundcheck, with 10 sets logged across Berlin, London, Milan and Prague and 2 more. Often billed alongside DNN, Ormeye and Aeery. Next up: NAMA - Nuovo Anfiteatro Martesana, Milan on Fri 25 Sept.
 
@@ -25,4 +25,4 @@ Nothus is a techno and electronica artist tracked on soundcheck, with 10 sets lo
 
 DNN, Ormeye, Aeery
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nothus/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nothus/)*

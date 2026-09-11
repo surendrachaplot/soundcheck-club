@@ -1,6 +1,6 @@
 # ELIHU
 
-ELIHU is a Progressive House and Afro Tech artist with 1 upcoming club date listed on soundcheck as of Thu, 10 Sept 2026, next at Parco ex Area Pozzi, Milan on Sat, 19 Sept 2026.
+ELIHU is a Progressive House and Afro Tech artist with 1 upcoming club date listed on soundcheck as of Fri, 11 Sept 2026, next at Parco ex Area Pozzi, Milan on Sat, 19 Sept 2026.
 
 ELIHU is a progressive house and afro tech artist tracked on soundcheck, with 8 sets logged across Milan and Naples. Often billed alongside MIND the GAP and da Believer. Next up: Parco ex Area Pozzi, Milan on Sat 19 Sept.
 
@@ -24,4 +24,4 @@ ELIHU is a progressive house and afro tech artist tracked on soundcheck, with 8 
 
 MIND the GAP, da Believer
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/elihu/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/elihu/)*

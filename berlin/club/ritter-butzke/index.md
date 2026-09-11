@@ -1,6 +1,6 @@
 # Ritter Butzke
 
-Ritter Butzke is a music venue in Berlin with 27 upcoming nights listed on soundcheck as of Thu, 10 Sept 2026; the next is "Unison with Nonchalance, DJ Sonnenbrand, JÄMO, Bambi-S, Oliviero" on Fri, 11 Sept 2026.
+Ritter Butzke is a music venue in Berlin with 27 upcoming nights listed on soundcheck as of Fri, 11 Sept 2026; the next is "Unison with Nonchalance, DJ Sonnenbrand, JÄMO, Bambi-S, Oliviero" on Fri, 11 Sept 2026.
 
 Ritter Butzke is a music venue in Berlin listed on soundcheck. 27 upcoming nights, with line-ups including Aimé You, Aio, Alan Fitzpatrick and Alex Stein and 2 more. Browse upcoming dates, start times and who's playing. Ritterstrasse 26; Kreuzberg; 10969 Berlin; Germany.
 
@@ -23,4 +23,4 @@ Ritter Butzke is a music venue in Berlin listed on soundcheck. 27 upcoming night
 
 Ritterstrasse 26; Kreuzberg; 10969 Berlin; Germany, Berlin
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/ritter-butzke/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/ritter-butzke/)*

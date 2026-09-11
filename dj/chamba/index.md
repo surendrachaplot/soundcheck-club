@@ -1,6 +1,6 @@
 # Chamba
 
-Chamba is a Drum & Bass and Jungle artist with 1 upcoming club date listed on soundcheck as of Thu, 10 Sept 2026, next at The Jam Jar, Bristol on Sat, 10 Oct 2026.
+Chamba is a Drum & Bass and Jungle artist with 1 upcoming club date listed on soundcheck as of Fri, 11 Sept 2026, next at The Jam Jar, Bristol on Sat, 10 Oct 2026.
 
 Chamba is a drum & bass and jungle artist based in United Kingdom, tracked on soundcheck, with 23 sets logged across Bristol, London and Prague. Often billed alongside Nathan Worm, Deselecta and Fearful. Next up: The Jam Jar, Bristol on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ Chamba is a drum & bass and jungle artist based in United Kingdom, tracked on so
 
 Nathan Worm, Deselecta, Fearful
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/chamba/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/chamba/)*

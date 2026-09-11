@@ -1,6 +1,6 @@
 # Modlar
 
-Modlar is a Techno and Electro artist with 2 upcoming club dates listed on soundcheck as of Thu, 10 Sept 2026, next at Bar A Bar, London on Fri, 18 Sept 2026.
+Modlar is a Techno and Electro artist with 2 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at Bar A Bar, London on Fri, 18 Sept 2026.
 
 Modlar is a techno and electro artist tracked on soundcheck, with 28 sets logged across London. Often billed alongside DELARA, CITYTRONIX and nohexcode. Next up: Bar A Bar, London on Fri 18 Sept.
 
@@ -26,4 +26,4 @@ Modlar is a techno and electro artist tracked on soundcheck, with 28 sets logged
 
 DELARA, CITYTRONIX, nohexcode
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/modlar/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/modlar/)*

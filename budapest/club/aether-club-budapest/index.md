@@ -1,6 +1,6 @@
 # Aether Club Budapest
 
-Aether Club Budapest is a music venue in Budapest with 4 upcoming nights listed on soundcheck as of Thu, 10 Sept 2026; the next is "TAEC - AGA2L, D-Kelly, Atomik, Balazs_" on Fri, 11 Sept 2026.
+Aether Club Budapest is a music venue in Budapest with 4 upcoming nights listed on soundcheck as of Fri, 11 Sept 2026; the next is "TAEC - AGA2L, D-Kelly, Atomik, Balazs_" on Fri, 11 Sept 2026.
 
 Aether Club Budapest is a music venue in Budapest listed on soundcheck. 4 upcoming nights, with line-ups including 3en, 96zen, AGA2L and Antique (HU) and 2 more. Browse upcoming dates, start times and who's playing. Király street 13, Budapest, 1075, Hungary.
 
@@ -17,4 +17,4 @@ Aether Club Budapest is a music venue in Budapest listed on soundcheck. 4 upcomi
 
 Király street 13, Budapest, 1075, Hungary, Budapest
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/budapest/club/aether-club-budapest/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/budapest/club/aether-club-budapest/)*

@@ -1,6 +1,6 @@
 # DJ-SUN
 
-DJ-SUN is a Club and House artist with 1 upcoming club date listed on soundcheck as of Thu, 10 Sept 2026, next at Bossa Nova Civic Club, New York City on Fri, 23 Oct 2026.
+DJ-SUN is a Club and House artist with 1 upcoming club date listed on soundcheck as of Fri, 11 Sept 2026, next at Bossa Nova Civic Club, New York City on Fri, 23 Oct 2026.
 
 DJ-SUN is a club and house artist tracked on soundcheck, with 37 sets logged across Losangeles, Newyorkcity, Philadelphia and Washingtondc. Often billed alongside Tromac, flotussin and JEWELSSEA. Next up: Bossa Nova Civic Club, Newyorkcity on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ DJ-SUN is a club and house artist tracked on soundcheck, with 37 sets logged acr
 
 Tromac, flotussin, JEWELSSEA
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dj-sun/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dj-sun/)*

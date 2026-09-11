@@ -1,6 +1,6 @@
 # Vixen
 
-Vixen is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Thu, 10 Sept 2026, next at Hangaren, Copenhagen on Sat, 24 Oct 2026.
+Vixen is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Fri, 11 Sept 2026, next at Hangaren, Copenhagen on Sat, 24 Oct 2026.
 
 Vixen is a techno and trance artist based in Bulgaria, tracked on soundcheck, with 50 sets logged across Berlin, Cologne, Copenhagen and Hamburg and 6 more. Often billed alongside Schacke, Sugar and Britney Speed. Next up: Hangaren, Copenhagen on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ Vixen is a techno and trance artist based in Bulgaria, tracked on soundcheck, wi
 
 Schacke, Sugar, Britney Speed
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/vixen/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/vixen/)*

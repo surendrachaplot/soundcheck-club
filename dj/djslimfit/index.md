@@ -1,6 +1,6 @@
 # DJ Slim Fit
 
-DJ Slim Fit is a House and Breakbeat artist with 1 upcoming club date listed on soundcheck as of Thu, 10 Sept 2026, next at Şahika, Istanbul on Sat, 7 Nov 2026.
+DJ Slim Fit is a House and Breakbeat artist with 1 upcoming club date listed on soundcheck as of Fri, 11 Sept 2026, next at Şahika, Istanbul on Sat, 7 Nov 2026.
 
 DJ Slim Fit is a house and breakbeat artist tracked on soundcheck, with 14 sets logged across Amsterdam, Berlin, Bucharest and Istanbul and 1 more. Often billed alongside Alexandra, The Apricots and Enchanted Rhythms. Next up: Şahika, Istanbul on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ DJ Slim Fit is a house and breakbeat artist tracked on soundcheck, with 14 sets 
 
 Alexandra, The Apricots, Enchanted Rhythms
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djslimfit/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djslimfit/)*

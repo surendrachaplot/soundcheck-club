@@ -1,6 +1,6 @@
 # Ricardo Villalobos
 
-Ricardo Villalobos is a Techno and House artist with 10 upcoming club dates listed on soundcheck as of Thu, 10 Sept 2026, next at Supermarket, Zurich on Fri, 11 Sept 2026.
+Ricardo Villalobos is a Techno and House artist with 10 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at Supermarket, Zurich on Fri, 11 Sept 2026.
 
 Ricardo Villalobos is a techno and house artist tracked on soundcheck, with 121 sets logged across Amsterdam, Antwerp, Barcelona and Berlin and 27 more. Often billed alongside Raresh, O.BEE and Tomas Station. Next up: Supermarket, Zurich on Fri 11 Sept.
 
@@ -34,4 +34,4 @@ Ricardo Villalobos is a techno and house artist tracked on soundcheck, with 121 
 
 Raresh, O.BEE, Tomas Station
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ricardovillalobos/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ricardovillalobos/)*

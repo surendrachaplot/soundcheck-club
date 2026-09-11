@@ -1,6 +1,6 @@
 # Mareena
 
-Mareena is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Thu, 10 Sept 2026, next at Barragem da Queimadela, Porto on Thu, 10 Sept 2026.
+Mareena is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at Barragem da Queimadela, Porto on Thu, 10 Sept 2026.
 
 Mareena is a techno and house artist based in Germany, tracked on soundcheck, with 107 sets logged across Amsterdam, Athens, Barcelona and Basel and 29 more. Often billed alongside Kerrie, JakoJako and Steve Bicknell. Next up: Barragem da Queimadela, Porto on Thu 10 Sept.
 
@@ -14,6 +14,7 @@ Mareena is a techno and house artist based in Germany, tracked on soundcheck, wi
 
 ## Recently played
 
+- Barragem da Queimadela, Porto — Thu, 10 Sept 2026
 - SMUT Athens, Athens — Sat, 5 Sept 2026
 - Berghain | Panorama Bar | Säule, Berlin — Sat, 5 Sept 2026
 - Berghain | Panorama Bar | Säule, Berlin — Sat, 1 Aug 2026
@@ -21,10 +22,9 @@ Mareena is a techno and house artist based in Germany, tracked on soundcheck, wi
 - TBA - Follow @BerlinFloraFestival & @Ousiasound to know exact locations, Berlin — Sat, 18 Jul 2026
 - Tresor / Globus, Berlin — Fri, 3 Jul 2026
 - Bassiani, Tbilisi — Fri, 26 Jun 2026
-- Else, Berlin — Sat, 6 Jun 2026
 
 ## Shares bills with
 
 Kerrie, JakoJako, Steve Bicknell
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mareena_sonderbar/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mareena_sonderbar/)*

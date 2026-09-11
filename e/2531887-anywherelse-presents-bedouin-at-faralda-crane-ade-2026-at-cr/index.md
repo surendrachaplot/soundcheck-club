@@ -1,6 +1,6 @@
 # Anywherelse presents: Bedouin at Faralda Crane — ADE 2026 at Crane Hotel Faralda
 
-Anywherelse presents: Bedouin at Faralda Crane — ADE 2026 at Crane Hotel Faralda on Sun 25 Oct, Amsterdam. 5 acts on the bill: Baron, Bedouin, Collé and Dorian Craft and 1 more. House and Tech House. Preview the line-up and save it on soundcheck.
+Anywherelse presents: Bedouin at Faralda Crane — ADE 2026 at Crane Hotel Faralda on Sun 25 Oct, Amsterdam. 6 acts on the bill: Baron, Bedouin, Birds of Mind and Collé and 2 more. House and Tech House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -12,6 +12,7 @@ Anywherelse presents: Bedouin at Faralda Crane — ADE 2026 at Crane Hotel Faral
 
 - Baron
 - Bedouin
+- Birds of Mind
 - Collé
 - Dorian Craft
 - Rockin Moroccin

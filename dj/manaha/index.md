@@ -1,6 +1,6 @@
 # Manaha
 
-Manaha is a House and Electronica artist with 2 upcoming club dates listed on soundcheck as of Thu, 10 Sept 2026, next at Z Maruyama, Tokyo on Fri, 11 Sept 2026.
+Manaha is a House and Electronica artist with 2 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at Z Maruyama, Tokyo on Fri, 11 Sept 2026.
 
 Manaha is a house and electronica artist based in Japan, tracked on soundcheck, with 5 sets logged across Tokyo. Often billed alongside An toi, Curses and DSKE. Next up: Z Maruyama, Tokyo on Fri 11 Sept.
 
@@ -21,4 +21,4 @@ Manaha is a house and electronica artist based in Japan, tracked on soundcheck, 
 
 An toi, Curses, DSKE
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/manaha/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/manaha/)*

@@ -1,6 +1,6 @@
 # Dawn Ever
 
-Dawn Ever is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 10 Sept 2026, next at MIDNIGHT EAST, Tokyo on Fri, 9 Oct 2026.
+Dawn Ever is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 11 Sept 2026, next at MIDNIGHT EAST, Tokyo on Fri, 9 Oct 2026.
 
 Dawn Ever is a techno and house artist tracked on soundcheck, with 5 sets logged across Tokyo. Often billed alongside AERAE, Astma and Atsushi Maeda. Next up: MIDNIGHT EAST, Tokyo on Fri 9 Oct.
 
@@ -21,4 +21,4 @@ Dawn Ever is a techno and house artist tracked on soundcheck, with 5 sets logged
 
 AERAE, Astma, Atsushi Maeda
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dawnever/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dawnever/)*

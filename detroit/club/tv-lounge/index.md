@@ -1,6 +1,6 @@
 # TV Lounge
 
-TV Lounge is a music venue in Detroit with 8 upcoming nights listed on soundcheck as of Thu, 10 Sept 2026; the next is "Jamie 3:26 drops in on Detroit" on Fri, 11 Sept 2026.
+TV Lounge is a music venue in Detroit with 8 upcoming nights listed on soundcheck as of Fri, 11 Sept 2026; the next is "Jamie 3:26 drops in on Detroit" on Fri, 11 Sept 2026.
 
 TV Lounge is a music venue in Detroit listed on soundcheck. 8 upcoming nights, with line-ups including AK (US), Al Ester, angela baskets and Ashton Swinton and 2 more. Browse upcoming dates, start times and who's playing. 2548 Grand River Avenue; Detroit, MI; United States.
 
@@ -21,4 +21,4 @@ TV Lounge is a music venue in Detroit listed on soundcheck. 8 upcoming nights, w
 
 2548 Grand River Avenue; Detroit, MI; United States, Detroit
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/detroit/club/tv-lounge/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/detroit/club/tv-lounge/)*

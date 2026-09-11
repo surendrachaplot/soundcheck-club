@@ -1,6 +1,6 @@
 # Gretchen
 
-Gretchen is a music venue in Berlin with 48 upcoming nights listed on soundcheck as of Thu, 10 Sept 2026; the next is "G SESSIONS - 360 ° (Live) Show feat. MOSES YOOFEE TRIO, ISHA & SEDRIC PERRY" on Thu, 10 Sept 2026.
+Gretchen is a music venue in Berlin with 48 upcoming nights listed on soundcheck as of Fri, 11 Sept 2026; the next is "BALKANBEATS - Robert Soko DJ-Set" on Sat, 12 Sept 2026.
 
 Gretchen is a music venue in Berlin listed on soundcheck. 48 upcoming nights, with line-ups including Acid Arab, Alley Cat, alllone and Allynx and 2 more. Browse upcoming dates, start times and who's playing. Obentrautstr.19-21; 10963 Kreuzberg; Berlin; Germany.
 
@@ -8,7 +8,6 @@ Gretchen is a music venue in Berlin listed on soundcheck. 48 upcoming nights, wi
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Thu, 10 Sept 2026 | G SESSIONS - 360 ° (Live) Show feat. MOSES YOOFEE TRIO, ISHA & SEDRIC PERRY |  |
 | Sat, 12 Sept 2026 | BALKANBEATS - Robert Soko DJ-Set |  |
 | Sat, 19 Sept 2026 | DOV'È LIANA *live |  |
 | Sat, 19 Sept 2026 | Recycle: LSB & DRS present Space Age | DRS, Hawt Coco, Jimi Handtrix, LSB, Ladybird, Mc Jamie White, Tommy Lexxus, Workforce |
@@ -18,9 +17,10 @@ Gretchen is a music venue in Berlin listed on soundcheck. 48 upcoming nights, wi
 | Thu, 1 Oct 2026 | 15 Years Gretchen: NATALIA DOCO *live |  |
 | Sat, 3 Oct 2026 | 15 Years Gretchen: Romare + Wayne Snow *live | Romare, Wayne Snow |
 | Sun, 4 Oct 2026 | 15 Years Gretchen: SILVAN STRAUSS & SO SORRY - 360 ° Live Show |  |
+| Mon, 5 Oct 2026 | 15 Years Gretchen:  RYMDEN *live |  |
 
 ## Address
 
 Obentrautstr.19-21; 10963 Kreuzberg; Berlin; Germany, Berlin
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/gretchen/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/gretchen/)*

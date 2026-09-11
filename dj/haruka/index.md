@@ -1,20 +1,20 @@
 # Haruka
 
-Haruka is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Thu, 10 Sept 2026, next at OHM, Berlin on Thu, 10 Sept 2026.
+Haruka is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at Signal, New York City on Fri, 11 Sept 2026.
 
-Haruka is a techno and house artist tracked on soundcheck, with 130 sets logged across Amsterdam, Athens, Bali and Barcelona and 31 more. Often billed alongside DJ MARIA., HVL and Patrick Russell. Next up: OHM, Berlin on Thu 10 Sept.
+Haruka is a techno and house artist tracked on soundcheck, with 130 sets logged across Amsterdam, Athens, Bali and Barcelona and 31 more. Often billed alongside DJ MARIA., HVL and Patrick Russell. Next up: Signal, Newyorkcity on Fri 11 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Thu, 10 Sept 2026 | OHM | Berlin |
 | Fri, 11 Sept 2026 | Signal | New York City |
 | Fri, 18 Sept 2026 | TBA - San Francisco | San Francisco/Oakland |
 | Fri, 9 Oct 2026 | Bassiani | Tbilisi |
 
 ## Recently played
 
+- OHM, Berlin — Thu, 10 Sept 2026
 - FOLD, London — Sat, 5 Sept 2026
 - Circus Osaka, Osaka — Sat, 22 Aug 2026
 - VENT, Tokyo — Fri, 21 Aug 2026
@@ -22,10 +22,9 @@ Haruka is a techno and house artist tracked on soundcheck, with 130 sets logged 
 - RADION, Amsterdam — Sat, 4 Jul 2026
 - TBA - DTLA, Los Angeles — Sat, 30 May 2026
 - Two More Years, London — Sat, 30 May 2026
-- BASEMENT, New York City — Fri, 29 May 2026
 
 ## Shares bills with
 
 DJ MARIA., HVL, Patrick Russell
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/haruka/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/haruka/)*

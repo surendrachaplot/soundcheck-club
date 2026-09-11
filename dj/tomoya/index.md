@@ -1,6 +1,6 @@
 # Tomoya
 
-Tomoya is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Thu, 10 Sept 2026, next at Casa Corona Seoul, Seoul on Fri, 11 Sept 2026.
+Tomoya is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at Casa Corona Seoul, Seoul on Fri, 11 Sept 2026.
 
 Tomoya is a techno and house artist based in Japan, tracked on soundcheck, with 40 sets logged across London, Seoul and Tokyo. Often billed alongside Celter, Jacob Husley and AKIRAM EN. Next up: Casa Corona Seoul, Seoul on Fri 11 Sept.
 
@@ -27,4 +27,4 @@ Tomoya is a techno and house artist based in Japan, tracked on soundcheck, with 
 
 Celter, Jacob Husley, AKIRAM EN
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tomoya/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tomoya/)*

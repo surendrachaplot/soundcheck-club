@@ -1,6 +1,6 @@
 # DJ :-)
 
-DJ :-) is a Footwork and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 10 Sept 2026, next at Triangle, Osaka on Tue, 22 Sept 2026.
+DJ :-) is a Footwork and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at Triangle, Osaka on Tue, 22 Sept 2026.
 
 DJ :-) is a footwork and techno artist based in Netherlands, tracked on soundcheck, with 2 sets logged across Osaka. Often billed alongside Casper (FIN), Danjo and Ivo (1). Next up: Triangle, Osaka on Tue 22 Sept.
 
@@ -15,4 +15,4 @@ DJ :-) is a footwork and techno artist based in Netherlands, tracked on soundche
 
 Casper (FIN), Danjo, Ivo (1)
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/35luna35/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/35luna35/)*

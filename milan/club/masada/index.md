@@ -1,6 +1,6 @@
 # Masada
 
-Masada is a music venue in Milan with 7 upcoming nights listed on soundcheck as of Thu, 10 Sept 2026; the next is "Wata Igarashi, J.Somoza // Acquario (Masada)" on Sat, 12 Sept 2026.
+Masada is a music venue in Milan with 7 upcoming nights listed on soundcheck as of Fri, 11 Sept 2026; the next is "Wata Igarashi, J.Somoza // Acquario (Masada)" on Sat, 12 Sept 2026.
 
 Masada is a music venue in Milan listed on soundcheck. 7 upcoming nights, with line-ups including Amotik, ATEQ, Chami and Desyn and 2 more. Browse upcoming dates, start times and who's playing. Viale Carlo Espinasse, 41, 20156 Milan, Italy.
 
@@ -20,4 +20,4 @@ Masada is a music venue in Milan listed on soundcheck. 7 upcoming nights, with l
 
 Viale Carlo Espinasse, 41, 20156 Milan, Italy, Milan
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/milan/club/masada/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/milan/club/masada/)*

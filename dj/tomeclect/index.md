@@ -1,6 +1,6 @@
 # Tom Eclect
 
-Tom Eclect is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Thu, 10 Sept 2026, next at The Vic Bar, Melbourne on Sat, 19 Sept 2026.
+Tom Eclect is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Fri, 11 Sept 2026, next at The Vic Bar, Melbourne on Sat, 19 Sept 2026.
 
 Tom Eclect is a house and deep house artist tracked on soundcheck, with 10 sets logged across Melbourne. Often billed alongside Julius Myles, Afrodisiac and Akane (1). Next up: The Vic Bar, Melbourne on Sat 19 Sept.
 
@@ -25,4 +25,4 @@ Tom Eclect is a house and deep house artist tracked on soundcheck, with 10 sets 
 
 Julius Myles, Afrodisiac, Akane (1)
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tomeclect/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tomeclect/)*

@@ -1,6 +1,6 @@
 # BbartokK
 
-BbartokK is a Techno and Experimental artist with 1 upcoming club date listed on soundcheck as of Thu, 10 Sept 2026, next at Old Towne Pub, Los Angeles on Sun, 20 Sept 2026.
+BbartokK is a Techno and Experimental artist with 1 upcoming club date listed on soundcheck as of Fri, 11 Sept 2026, next at Old Towne Pub, Los Angeles on Sun, 20 Sept 2026.
 
 BbartokK is a techno and experimental artist tracked on soundcheck, with 5 sets logged across Losangeles. Often billed alongside seachael, HansiLa and Humongous Frog. Next up: Old Towne Pub, Losangeles on Sun 20 Sept.
 
@@ -21,4 +21,4 @@ BbartokK is a techno and experimental artist tracked on soundcheck, with 5 sets 
 
 seachael, HansiLa, Humongous Frog
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bbartokk/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bbartokk/)*

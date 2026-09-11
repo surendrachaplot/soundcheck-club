@@ -1,6 +1,6 @@
 # Zuri
 
-Zuri is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Thu, 10 Sept 2026, next at Platt Fields Market Garden, Manchester on Sat, 12 Sept 2026.
+Zuri is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at Platt Fields Market Garden, Manchester on Sat, 12 Sept 2026.
 
 Zuri is a techno and house artist based in Spain, tracked on soundcheck, with 74 sets logged across Amsterdam, Hongkong, London and Manchester and 2 more. Often billed alongside Aletha, Korzi and Atiké. Next up: Platt Fields Market Garden, Manchester on Sat 12 Sept.
 
@@ -29,4 +29,4 @@ Zuri is a techno and house artist based in Spain, tracked on soundcheck, with 74
 
 Aletha, Korzi, Atiké
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/zuri/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/zuri/)*

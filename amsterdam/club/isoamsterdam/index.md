@@ -1,6 +1,6 @@
 # ISOamsterdam
 
-ISOamsterdam is a music venue in Amsterdam with 3 upcoming nights listed on soundcheck as of Thu, 10 Sept 2026; the next is "Epiphany Records X Folder FM" on Sat, 12 Sept 2026.
+ISOamsterdam is a music venue in Amsterdam with 3 upcoming nights listed on soundcheck as of Fri, 11 Sept 2026; the next is "Epiphany Records X Folder FM" on Sat, 12 Sept 2026.
 
 ISOamsterdam is a music venue in Amsterdam listed on soundcheck. 3 upcoming nights, with line-ups including Bear Bones, Lay Low, Comrade Winston, Marijn S and Serena and 2 more. Browse upcoming dates, start times and who's playing. Isolatorweg 17.
 
@@ -16,4 +16,4 @@ ISOamsterdam is a music venue in Amsterdam listed on soundcheck. 3 upcoming nigh
 
 Isolatorweg 17, Amsterdam
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/isoamsterdam/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/isoamsterdam/)*

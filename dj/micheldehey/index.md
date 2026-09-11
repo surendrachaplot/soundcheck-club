@@ -1,8 +1,8 @@
 # Michel de Hey
 
-Michel de Hey is a House and Tech House artist with 9 upcoming club dates listed on soundcheck as of Thu, 10 Sept 2026, next at Kralingse Bos, Rotterdam on Sat, 12 Sept 2026.
+Michel de Hey is a House and Tech House artist with 10 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at Kralingse Bos, Rotterdam on Sat, 12 Sept 2026.
 
-Michel de Hey is a house and tech house artist tracked on soundcheck, with 133 sets logged across Amsterdam, Ibiza, Malta and Rotterdam and 3 more. Often billed alongside Benny Rodrigues, Prunk and Job de Jong. Next up: Kralingse Bos, Rotterdam on Sat 12 Sept.
+Michel de Hey is a house and tech house artist tracked on soundcheck, with 134 sets logged across Amsterdam, Ibiza, Malta and Rotterdam and 3 more. Often billed alongside Benny Rodrigues, Prunk and AAT (NL). Next up: Kralingse Bos, Rotterdam on Sat 12 Sept.
 
 ## Upcoming shows
 
@@ -17,6 +17,7 @@ Michel de Hey is a house and tech house artist tracked on soundcheck, with 133 s
 | Sat, 24 Oct 2026 | Thuishaven | Amsterdam |
 | Sat, 24 Oct 2026 | Thuishaven | Amsterdam |
 | Sat, 31 Oct 2026 | Maassilo | Rotterdam |
+| Sat, 21 Nov 2026 | Martiniplaza | Amsterdam |
 
 ## Recently played
 
@@ -31,6 +32,6 @@ Michel de Hey is a house and tech house artist tracked on soundcheck, with 133 s
 
 ## Shares bills with
 
-Benny Rodrigues, Prunk, Job de Jong
+Benny Rodrigues, Prunk, AAT (NL)
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/micheldehey/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/micheldehey/)*

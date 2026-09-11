@@ -1,6 +1,6 @@
-# Infected Drum & Bass x Drumbule Hamburg with Brazed, Fu, Sagrivox, Ed Shepherd, Upzet at Void Hall
+# Infected Drum & Bass x Drumbule Hamburg with Brazed, Fu, Sagrivox, Ed Shepherd at Void Hall
 
-Infected Drum & Bass x Drumbule Hamburg with Brazed, Fu, Sagrivox, Ed Shepherd, Upzet at Void Hall on Fri 11 Sept, Berlin. 4 acts on the bill: Cine, Ed Shepherd, Sagrivox and Upzet. Drum & Bass. Preview the line-up and save it on soundcheck.
+Infected Drum & Bass x Drumbule Hamburg with Brazed, Fu, Sagrivox, Ed Shepherd at Void Hall on Fri 11 Sept, Berlin. 4 acts on the bill: Cine, Ed Shepherd, Sagrivox and Upzet. Drum & Bass. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

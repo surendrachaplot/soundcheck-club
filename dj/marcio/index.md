@@ -1,6 +1,6 @@
 # marcio
 
-marcio is a Bass artist with 1 upcoming club date listed on soundcheck as of Thu, 10 Sept 2026, next at Panke, Berlin on Thu, 24 Sept 2026.
+marcio is a Bass artist with 1 upcoming club date listed on soundcheck as of Fri, 11 Sept 2026, next at Panke, Berlin on Thu, 24 Sept 2026.
 
 marcio is a bass artist tracked on soundcheck, with 5 sets logged across Berlin. Often billed alongside Viktor Kampf, AGILITÄT and Achilles. Next up: Panke, Berlin on Thu 24 Sept.
 
@@ -21,4 +21,4 @@ marcio is a bass artist tracked on soundcheck, with 5 sets logged across Berlin.
 
 Viktor Kampf, AGILITÄT, Achilles
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/marcio/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/marcio/)*

@@ -1,6 +1,6 @@
 # Holon._
 
-Holon._ is a House and Club artist with 1 upcoming club date listed on soundcheck as of Thu, 10 Sept 2026, next at Grub Records, Sheffield on Fri, 11 Sept 2026.
+Holon._ is a House and Club artist with 1 upcoming club date listed on soundcheck as of Fri, 11 Sept 2026, next at Grub Records, Sheffield on Fri, 11 Sept 2026.
 
 Holon._ is a house and club artist tracked on soundcheck, with 8 sets logged across Sheffield. Often billed alongside Sam J, mdj (0815) and sleepsang. Next up: Grub Records, Sheffield on Fri 11 Sept.
 
@@ -24,4 +24,4 @@ Holon._ is a house and club artist tracked on soundcheck, with 8 sets logged acr
 
 Sam J, mdj (0815), sleepsang
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/holon._/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/holon._/)*

@@ -1,6 +1,6 @@
 # Chaosmos
 
-Chaosmos is a Acid and Electro artist with 2 upcoming club dates listed on soundcheck as of Thu, 10 Sept 2026, next at Ferro Bar, Porto on Fri, 11 Sept 2026.
+Chaosmos is a Acid and Electro artist with 2 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at Ferro Bar, Porto on Fri, 11 Sept 2026.
 
 Chaosmos is an acid and electro artist tracked on soundcheck, with 9 sets logged across Berlin, Istanbul, Lisbon and Porto. Often billed alongside DJ Regret, Mister Teaser and Ay Lak. Next up: Ferro Bar, Porto on Fri 11 Sept.
 
@@ -25,4 +25,4 @@ Chaosmos is an acid and electro artist tracked on soundcheck, with 9 sets logged
 
 DJ Regret, Mister Teaser, Ay Lak
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/chaosmos/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/chaosmos/)*

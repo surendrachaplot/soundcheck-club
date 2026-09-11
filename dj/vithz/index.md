@@ -1,8 +1,8 @@
 # Vithz
 
-Vithz is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 10 Sept 2026, next at Circulo De Bellas Artes, Madrid on Fri, 11 Sept 2026.
+Vithz is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at Circulo De Bellas Artes, Madrid on Fri, 11 Sept 2026.
 
-Vithz is a house and techno artist tracked on soundcheck, with 112 sets logged across Amsterdam, Bali, Barcelona and Belgrade and 19 more. Often billed alongside Kenia, Black Loops and Gian-Paul. Next up: Circulo De Bellas Artes, Madrid on Fri 11 Sept.
+Vithz is a house and techno artist tracked on soundcheck, with 113 sets logged across Amsterdam, Bali, Barcelona and Belgrade and 19 more. Often billed alongside Kenia, Black Loops and Gian-Paul. Next up: Circulo De Bellas Artes, Madrid on Fri 11 Sept.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Vithz is a house and techno artist tracked on soundcheck, with 112 sets logged a
 | --- | --- | --- |
 | Fri, 11 Sept 2026 | Circulo De Bellas Artes | Madrid |
 | Fri, 18 Sept 2026 | Circolo Magnolia | Milan |
+| Sat, 19 Sept 2026 | Forte Antenne | Rome |
 
 ## Recently played
 
@@ -26,4 +27,4 @@ Vithz is a house and techno artist tracked on soundcheck, with 112 sets logged a
 
 Kenia, Black Loops, Gian-Paul
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/vithz/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/vithz/)*

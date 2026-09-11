@@ -1,13 +1,14 @@
 # Carl Bergé
 
-Carl Bergé is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Thu, 10 Sept 2026, next at Schiffsanlegestelle Uber Arena, Berlin on Sat, 19 Sept 2026.
+Carl Bergé is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at ://about blank, Berlin on Fri, 18 Sept 2026.
 
-Carl Bergé is a house and techno artist tracked on soundcheck, with 74 sets logged across Amsterdam, Barcelona, Berlin and Cologne and 7 more. Often billed alongside Talia Dorr, Pauly and BERF. Next up: Schiffsanlegestelle Uber Arena, Berlin on Sat 19 Sept.
+Carl Bergé is a house and techno artist tracked on soundcheck, with 75 sets logged across Amsterdam, Barcelona, Berlin and Cologne and 7 more. Often billed alongside Talia Dorr, Pauly and BERF. Next up: ://about blank, Berlin on Fri 18 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 18 Sept 2026 | ://about blank | Berlin |
 | Sat, 19 Sept 2026 | Schiffsanlegestelle Uber Arena | Berlin |
 | Fri, 2 Oct 2026 | Kater | Berlin |
 | Fri, 9 Oct 2026 | fi | Cologne |
@@ -28,4 +29,4 @@ Carl Bergé is a house and techno artist tracked on soundcheck, with 74 sets log
 
 Talia Dorr, Pauly, BERF
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/carlberge/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/carlberge/)*

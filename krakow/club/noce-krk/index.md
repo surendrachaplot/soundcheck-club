@@ -1,14 +1,13 @@
 # Noce KRK
 
-Noce KRK is a music venue in Krakow with 8 upcoming nights listed on soundcheck as of Thu, 10 Sept 2026; the next is "INSTYTUT DZWIEKU x DYPLOMY - FREE ENTRY" on Thu, 10 Sept 2026.
+Noce KRK is a music venue in Krakow with 7 upcoming nights listed on soundcheck as of Fri, 11 Sept 2026; the next is "Wave Zebra X Noce KRK" on Fri, 11 Sept 2026.
 
-Noce KRK is a music venue in Krakow listed on soundcheck. 8 upcoming nights, with line-ups including Abrew, Adriana Lopez, Azer and Dimitri Cooman and 2 more. Browse upcoming dates, start times and who's playing. Dajwór 14/16, 31-052 Kraków.
+Noce KRK is a music venue in Krakow listed on soundcheck. 7 upcoming nights, with line-ups including Abrew, Adriana Lopez, Azer and Dimitri Cooman and 2 more. Browse upcoming dates, start times and who's playing. Dajwór 14/16, 31-052 Kraków.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Thu, 10 Sept 2026 | INSTYTUT DZWIEKU x DYPLOMY - FREE ENTRY |  |
 | Fri, 11 Sept 2026 | Wave Zebra X Noce KRK | Azer, RAJZ |
 | Sat, 12 Sept 2026 | HYPNØ x nachtwerk | Grymek, PyjamaMama |
 | Sat, 26 Sept 2026 | TECHNOSESSIONS 04: Dimitri Cooman (BE), Abrew | Abrew, Dimitri Cooman, MRV (1), RAJZ |
@@ -21,4 +20,4 @@ Noce KRK is a music venue in Krakow listed on soundcheck. 8 upcoming nights, wit
 
 Dajwór 14/16, 31-052 Kraków, Krakow
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/krakow/club/noce-krk/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/krakow/club/noce-krk/)*

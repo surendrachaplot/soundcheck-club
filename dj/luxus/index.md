@@ -1,6 +1,6 @@
 # luxus
 
-luxus is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 10 Sept 2026, next at Club Lucia, Vienna on Sat, 12 Sept 2026.
+luxus is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 11 Sept 2026, next at Club Lucia, Vienna on Sat, 12 Sept 2026.
 
 luxus is a house and techno artist based in Germany, tracked on soundcheck, with 34 sets logged across Berlin, Dublin, Munich and Vienna. Often billed alongside sianza, Blond Felice and DJ Aquaplaning. Next up: Club Lucia, Vienna on Sat 12 Sept.
 
@@ -25,4 +25,4 @@ luxus is a house and techno artist based in Germany, tracked on soundcheck, with
 
 sianza, Blond Felice, DJ Aquaplaning
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/luxus/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/luxus/)*

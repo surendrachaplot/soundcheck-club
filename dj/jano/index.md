@@ -1,6 +1,6 @@
 # Jano
 
-Jano is a Techno and Afro House artist with 1 upcoming club date listed on soundcheck as of Thu, 10 Sept 2026, next at Plażówka Saska, Warsaw on Fri, 11 Sept 2026.
+Jano is a Techno and Afro House artist with 1 upcoming club date listed on soundcheck as of Fri, 11 Sept 2026, next at Plażówka Saska, Warsaw on Fri, 11 Sept 2026.
 
 Jano is a techno and afro house artist based in United Kingdom, tracked on soundcheck, with 14 sets logged across Brussels, Manchester, Paris and Sanfrancisco and 2 more. Often billed alongside HIDRA, IZIK and MOSTASH. Next up: Plażówka Saska, Warsaw on Fri 11 Sept.
 
@@ -25,4 +25,4 @@ Jano is a techno and afro house artist based in United Kingdom, tracked on sound
 
 HIDRA, IZIK, MOSTASH
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jano/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jano/)*

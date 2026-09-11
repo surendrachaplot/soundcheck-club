@@ -1,6 +1,6 @@
 # Ground Floor
 
-Ground Floor is a music venue in Philadelphia with 3 upcoming nights listed on soundcheck as of Thu, 10 Sept 2026; the next is "IMANU presented by Hostile City x Lekker Selection x Tempted Music Group" on Sat, 12 Sept 2026.
+Ground Floor is a music venue in Philadelphia with 3 upcoming nights listed on soundcheck as of Fri, 11 Sept 2026; the next is "IMANU presented by Hostile City x Lekker Selection x Tempted Music Group" on Sat, 12 Sept 2026.
 
 Ground Floor is a music venue in Philadelphia listed on soundcheck. 3 upcoming nights, with line-ups including Dj Caution, DJ Sega, IANN (US) and Imanu and 2 more. Browse upcoming dates, start times and who's playing. 901 N Delaware Ave, Philadelphia, PA 19123.
 
@@ -16,4 +16,4 @@ Ground Floor is a music venue in Philadelphia listed on soundcheck. 3 upcoming n
 
 901 N Delaware Ave, Philadelphia, PA 19123, Philadelphia
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/philadelphia/club/ground-floor/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/philadelphia/club/ground-floor/)*

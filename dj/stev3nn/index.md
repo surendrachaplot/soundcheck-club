@@ -1,6 +1,6 @@
 # Stev3NN
 
-Stev3NN is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Thu, 10 Sept 2026, next at The MED Terrace, Tokyo on Sun, 13 Sept 2026.
+Stev3NN is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Fri, 11 Sept 2026, next at The MED Terrace, Tokyo on Sun, 13 Sept 2026.
 
 Stev3NN is a house and tech house artist based in Japan, tracked on soundcheck, with 19 sets logged across Tokyo. Often billed alongside CLESENT, Neri and GooPer. Next up: The MED Terrace, Tokyo on Sun 13 Sept.
 
@@ -25,4 +25,4 @@ Stev3NN is a house and tech house artist based in Japan, tracked on soundcheck, 
 
 CLESENT, Neri, GooPer
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/stev3nn/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/stev3nn/)*

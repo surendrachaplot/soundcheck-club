@@ -1,6 +1,6 @@
 # Bossy Doll Bina
 
-Bossy Doll Bina is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 10 Sept 2026, next at The Door Club, Berlin on Fri, 18 Sept 2026.
+Bossy Doll Bina is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at The Door Club, Berlin on Fri, 18 Sept 2026.
 
 Bossy Doll Bina is a house and techno artist based in Germany, tracked on soundcheck, with 31 sets logged across Barcelona, Berlin, Lisbon and Marseille and 1 more. Often billed alongside SALIMATA, Bombata and David Dorad. Next up: The Door Club, Berlin on Fri 18 Sept.
 
@@ -26,4 +26,4 @@ Bossy Doll Bina is a house and techno artist based in Germany, tracked on soundc
 
 SALIMATA, Bombata, David Dorad
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bossydollbina/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bossydollbina/)*

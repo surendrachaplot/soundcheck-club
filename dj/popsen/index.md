@@ -1,6 +1,6 @@
 # Popsen
 
-Popsen is a Techno and Trance artist with 4 upcoming club dates listed on soundcheck as of Thu, 10 Sept 2026, next at Void Club, Berlin on Fri, 11 Sept 2026.
+Popsen is a Techno and Trance artist with 4 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at Void Club, Berlin on Fri, 11 Sept 2026.
 
 Popsen is a techno and trance artist based in Germany, tracked on soundcheck, with 68 sets logged across Amsterdam and Berlin. Often billed alongside DaSoMaZo, Kopflos and MØABEAT. Next up: Void Club, Berlin on Fri 11 Sept.
 
@@ -28,4 +28,4 @@ Popsen is a techno and trance artist based in Germany, tracked on soundcheck, wi
 
 DaSoMaZo, Kopflos, MØABEAT
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/popsen/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/popsen/)*

@@ -1,8 +1,8 @@
 # Maemm
 
-Maemm is a Techno and Trance artist with 4 upcoming club dates listed on soundcheck as of Thu, 10 Sept 2026, next at La Cité Fertile, Paris on Sat, 12 Sept 2026.
+Maemm is a Techno and Trance artist with 5 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at La Cité Fertile, Paris on Sat, 12 Sept 2026.
 
-Maemm is a techno and trance artist tracked on soundcheck, with 90 sets logged across Berlin, Edinburgh, Lisbon and Lyon and 6 more. Often billed alongside Aérienne, GiGi FM and Atomic moog. Next up: La Cité Fertile, Paris on Sat 12 Sept.
+Maemm is a techno and trance artist tracked on soundcheck, with 91 sets logged across Berlin, Edinburgh, Lisbon and Lyon and 6 more. Often billed alongside Aérienne, GiGi FM and Atomic moog. Next up: La Cité Fertile, Paris on Sat 12 Sept.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Maemm is a techno and trance artist tracked on soundcheck, with 90 sets logged a
 | --- | --- | --- |
 | Sat, 12 Sept 2026 | La Cité Fertile | Paris |
 | Sat, 19 Sept 2026 | Daikanyama ORD. | Tokyo |
+| Wed, 30 Sept 2026 | WOMB | Tokyo |
 | Fri, 20 Nov 2026 | Magasins Généraux | Paris |
 | Sat, 21 Nov 2026 | Magasins Généraux | Paris |
 
@@ -28,4 +29,4 @@ Maemm is a techno and trance artist tracked on soundcheck, with 90 sets logged a
 
 Aérienne, GiGi FM, Atomic moog
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/maemm/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/maemm/)*

@@ -1,6 +1,6 @@
 # Martyon
 
-Martyon is a Techno and Progressive House artist with 1 upcoming club date listed on soundcheck as of Thu, 10 Sept 2026, next at Espai Salvadiscos, Barcelona on Sat, 26 Sept 2026.
+Martyon is a Techno and Progressive House artist with 1 upcoming club date listed on soundcheck as of Fri, 11 Sept 2026, next at Espai Salvadiscos, Barcelona on Sat, 26 Sept 2026.
 
 Martyon is a techno and progressive house artist tracked on soundcheck, with 5 sets logged across Barcelona. Often billed alongside AlConti. Next up: Espai Salvadiscos, Barcelona on Sat 26 Sept.
 
@@ -21,4 +21,4 @@ Martyon is a techno and progressive house artist tracked on soundcheck, with 5 s
 
 AlConti
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/martyon/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/martyon/)*

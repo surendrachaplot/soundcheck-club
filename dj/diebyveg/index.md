@@ -1,8 +1,8 @@
 # DIEBYVEG
 
-DIEBYVEG is a House and Garage artist with 3 upcoming club dates listed on soundcheck as of Thu, 10 Sept 2026, next at Pygmalion, Dublin on Fri, 18 Sept 2026.
+DIEBYVEG is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at Pygmalion, Dublin on Fri, 18 Sept 2026.
 
-DIEBYVEG is a house and garage artist tracked on soundcheck, with 44 sets logged across Belfast, Dublin and London. Often billed alongside Puzzy Wrangler, Surferboy and High Fidelity. Next up: Pygmalion, Dublin on Fri 18 Sept.
+DIEBYVEG is a house and techno artist tracked on soundcheck, with 45 sets logged across Belfast, Dublin and London. Often billed alongside Puzzy Wrangler, Surferboy and High Fidelity. Next up: Pygmalion, Dublin on Fri 18 Sept.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ DIEBYVEG is a house and garage artist tracked on soundcheck, with 44 sets logged
 | --- | --- | --- |
 | Fri, 18 Sept 2026 | Pygmalion | Dublin |
 | Fri, 18 Sept 2026 | Pygmalion | Dublin |
+| Sat, 19 Sept 2026 | Wigwam | Dublin |
 | Fri, 25 Sept 2026 | Yamamori Tengu | Dublin |
 
 ## Recently played
@@ -27,4 +28,4 @@ DIEBYVEG is a house and garage artist tracked on soundcheck, with 44 sets logged
 
 Puzzy Wrangler, Surferboy, High Fidelity
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/diebyveg/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/diebyveg/)*

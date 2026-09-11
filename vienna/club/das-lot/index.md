@@ -1,6 +1,6 @@
 # Das Lot
 
-Das Lot is a music venue in Vienna with 1 upcoming night listed on soundcheck as of Thu, 10 Sept 2026; the next is "TECHNOLOT x FAVORITE FALL feat. Raqsouna" on Sat, 26 Sept 2026.
+Das Lot is a music venue in Vienna with 1 upcoming night listed on soundcheck as of Fri, 11 Sept 2026; the next is "TECHNOLOT x FAVORITE FALL feat. Raqsouna" on Sat, 26 Sept 2026.
 
 Das Lot is a music venue in Vienna listed on soundcheck. 1 upcoming night, with line-ups including Bass and DIA (GER). Browse upcoming dates, start times and who's playing. Absberggasse 31, 1100 Wien, Austria.
 
@@ -14,4 +14,4 @@ Das Lot is a music venue in Vienna listed on soundcheck. 1 upcoming night, with 
 
 Absberggasse 31, 1100 Wien, Austria, Vienna
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/vienna/club/das-lot/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/vienna/club/das-lot/)*

@@ -1,6 +1,6 @@
 # bad pal lili
 
-bad pal lili is a Pop and Amapiano artist with 1 upcoming club date listed on soundcheck as of Thu, 10 Sept 2026, next at The Haggerston, London on Fri, 11 Sept 2026.
+bad pal lili is a Pop and Amapiano artist with 1 upcoming club date listed on soundcheck as of Fri, 11 Sept 2026, next at The Haggerston, London on Fri, 11 Sept 2026.
 
 bad pal lili is a pop and amapiano artist based in United Kingdom, tracked on soundcheck, with 11 sets logged across London. Often billed alongside Michelle Manetti, ThatGirlDee and A Y L A. Next up: The Haggerston, London on Fri 11 Sept.
 
@@ -25,4 +25,4 @@ bad pal lili is a pop and amapiano artist based in United Kingdom, tracked on so
 
 Michelle Manetti, ThatGirlDee, A Y L A
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/badpallili/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/badpallili/)*

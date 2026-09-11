@@ -1,14 +1,13 @@
 # LM
 
-LM is a House and Electro artist with 5 upcoming club dates listed on soundcheck as of Thu, 10 Sept 2026, next at 303 Audiophile Bar, Barcelona on Thu, 10 Sept 2026.
+LM is a House and Electro artist with 4 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at Resume Valencia, Valencia on Fri, 11 Sept 2026.
 
-LM is a house and electro artist tracked on soundcheck, with 142 sets logged across Bangkok, Barcelona, Berlin and Brussels and 4 more. Often billed alongside Brieela, ildec and Baffa. Next up: 303 Audiophile Bar, Barcelona on Thu 10 Sept.
+LM is a house and electro artist tracked on soundcheck, with 142 sets logged across Bangkok, Barcelona, Berlin and Brussels and 4 more. Often billed alongside Brieela, ildec and Baffa. Next up: Resume Valencia, Valencia on Fri 11 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Thu, 10 Sept 2026 | 303 Audiophile Bar | Barcelona |
 | Fri, 11 Sept 2026 | Resume Valencia | Valencia |
 | Fri, 18 Sept 2026 | Macarena Club | Barcelona |
 | Sat, 3 Oct 2026 | La Textil Collective | Barcelona |
@@ -16,6 +15,7 @@ LM is a house and electro artist tracked on soundcheck, with 142 sets logged acr
 
 ## Recently played
 
+- 303 Audiophile Bar, Barcelona — Thu, 10 Sept 2026
 - Sunseabar Beach Club, Barcelona — Fri, 4 Sept 2026
 - TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona, Barcelona — Thu, 3 Sept 2026
 - HOTEL PULITZER BARCELONA, Barcelona — Sun, 19 Jul 2026
@@ -23,10 +23,9 @@ LM is a house and electro artist tracked on soundcheck, with 142 sets logged acr
 - La Textil Collective, Barcelona — Fri, 19 Jun 2026
 - TBA - Fonik Café @ Carrer de Tamarit, 104, Eixample, 08015 Barcelona, Barcelona — Thu, 18 Jun 2026
 - Garage 442, Barcelona — Sat, 13 Jun 2026
-- 303 Audiophile Bar, Barcelona — Thu, 7 May 2026
 
 ## Shares bills with
 
 Brieela, ildec, Baffa
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lm/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lm/)*

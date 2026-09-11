@@ -1,8 +1,8 @@
 # Onlynumbers
 
-Onlynumbers is a Techno and Hardcore artist with 9 upcoming club dates listed on soundcheck as of Thu, 10 Sept 2026, next at Universe Athens, Athens on Fri, 11 Sept 2026.
+Onlynumbers is a Techno and Hardcore artist with 11 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at Universe Athens, Athens on Fri, 11 Sept 2026.
 
-Onlynumbers is a techno and hardcore artist tracked on soundcheck, with 76 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 43 more. Often billed alongside NOVAH, Basswell and KLOFAMA. Next up: Universe Athens, Athens on Fri 11 Sept.
+Onlynumbers is a techno and hardcore artist tracked on soundcheck, with 78 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 43 more. Often billed alongside NOVAH, Basswell and Holy Priest. Next up: Universe Athens, Athens on Fri 11 Sept.
 
 ## Upcoming shows
 
@@ -13,7 +13,9 @@ Onlynumbers is a techno and hardcore artist tracked on soundcheck, with 76 sets 
 | Sat, 19 Sept 2026 | Arzenal | Budapest |
 | Fri, 2 Oct 2026 | Index | Dublin |
 | Thu, 8 Oct 2026 | Amnesia Ibiza | Ibiza |
+| Thu, 22 Oct 2026 | Hemkade 48 | Amsterdam |
 | Fri, 23 Oct 2026 | DRUMSHEDS | London |
+| Sat, 21 Nov 2026 | Martiniplaza | Amsterdam |
 | Sat, 28 Nov 2026 | Depot Mayfield | Manchester |
 | Sat, 5 Dec 2026 | Fortuna Hall | Prague |
 | Sat, 5 Dec 2026 | Zenith - Die Kulturhalle | Munich |
@@ -31,6 +33,6 @@ Onlynumbers is a techno and hardcore artist tracked on soundcheck, with 76 sets 
 
 ## Shares bills with
 
-NOVAH, Basswell, KLOFAMA
+NOVAH, Basswell, Holy Priest
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/onlynumbers/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/onlynumbers/)*

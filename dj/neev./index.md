@@ -1,6 +1,6 @@
 # Neev.
 
-Neev. is a Electro and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 10 Sept 2026, next at Avalon Cafe Bermondsey, London on Sat, 24 Oct 2026.
+Neev. is a Electro and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at Avalon Cafe Bermondsey, London on Sat, 24 Oct 2026.
 
 Neev. is an electro and techno artist tracked on soundcheck, with 6 sets logged across London and Manchester. Often billed alongside ATST, FROND and Holba. Next up: Avalon Cafe Bermondsey, London on Sat 24 Oct.
 
@@ -22,4 +22,4 @@ Neev. is an electro and techno artist tracked on soundcheck, with 6 sets logged 
 
 ATST, FROND, Holba
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/neev./)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/neev./)*

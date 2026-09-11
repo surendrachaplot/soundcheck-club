@@ -1,6 +1,6 @@
 # INDRA TRAFERRI
 
-INDRA TRAFERRI is a House and Minimal artist with 4 upcoming club dates listed on soundcheck as of Thu, 10 Sept 2026, next at Sunseabar Beach Club, Barcelona on Sat, 12 Sept 2026.
+INDRA TRAFERRI is a House and Minimal artist with 4 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at Sunseabar Beach Club, Barcelona on Sat, 12 Sept 2026.
 
 INDRA TRAFERRI is a house and minimal artist based in Argentina, tracked on soundcheck, with 53 sets logged across Barcelona. Often billed alongside Galu Bla, Mat Spiaggi and Vennegur. Next up: Sunseabar Beach Club, Barcelona on Sat 12 Sept.
 
@@ -28,4 +28,4 @@ INDRA TRAFERRI is a house and minimal artist based in Argentina, tracked on soun
 
 Galu Bla, Mat Spiaggi, Vennegur
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/indra-ar/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/indra-ar/)*

@@ -1,6 +1,6 @@
 # DJ TADA
 
-DJ TADA is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 10 Sept 2026, next at Dual, Bangkok on Sat, 12 Sept 2026.
+DJ TADA is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at Dual, Bangkok on Sat, 12 Sept 2026.
 
 DJ TADA is a techno and house artist based in Thailand, tracked on soundcheck, with 31 sets logged across Bangkok. Often billed alongside Tada, Jirus (MELA) and Gaspray. Next up: Dual, Bangkok on Sat 12 Sept.
 
@@ -26,4 +26,4 @@ DJ TADA is a techno and house artist based in Thailand, tracked on soundcheck, w
 
 Tada, Jirus (MELA), Gaspray
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djtada/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djtada/)*

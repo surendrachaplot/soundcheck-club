@@ -1,6 +1,6 @@
 # Crab
 
-Crab is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 10 Sept 2026, next at Stoked&stoned, Seoul on Mon, 7 Sept 2026.
+Crab is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at Stoked&stoned, Seoul on Mon, 7 Sept 2026.
 
 Crab is a house and techno artist based in South Korea, tracked on soundcheck, with 50 sets logged across Seoul. Often billed alongside Cozyhoon, Gyusco and Kim.Qna. Next up: Stoked&stoned, Seoul on Mon 7 Sept.
 
@@ -26,4 +26,4 @@ Crab is a house and techno artist based in South Korea, tracked on soundcheck, w
 
 Cozyhoon, Gyusco, Kim.Qna
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/crab/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/crab/)*

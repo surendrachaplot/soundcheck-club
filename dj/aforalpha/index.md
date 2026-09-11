@@ -1,6 +1,6 @@
 # A For Alpha
 
-A For Alpha is a House and Garage artist with 12 upcoming club dates listed on soundcheck as of Thu, 10 Sept 2026, next at Laagravense Plas, Utrecht on Sat, 12 Sept 2026.
+A For Alpha is a House and Garage artist with 12 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at Laagravense Plas, Utrecht on Sat, 12 Sept 2026.
 
 A For Alpha is a house and garage artist tracked on soundcheck, with 123 sets logged across Amsterdam, Barcelona, Berlin and Birmingham and 16 more. Often billed alongside Papa Nugs, Dr Dubplate and Ellie Stokes. Next up: Laagravense Plas, Utrecht on Sat 12 Sept.
 
@@ -36,4 +36,4 @@ A For Alpha is a house and garage artist tracked on soundcheck, with 123 sets lo
 
 Papa Nugs, Dr Dubplate, Ellie Stokes
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/aforalpha/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/aforalpha/)*

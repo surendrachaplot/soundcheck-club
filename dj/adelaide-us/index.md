@@ -1,6 +1,6 @@
 # Adelaide (1)
 
-Adelaide (1) is a Afrobeat and Amapiano artist with 2 upcoming club dates listed on soundcheck as of Thu, 10 Sept 2026, next at Descent, Boston on Fri, 11 Sept 2026.
+Adelaide (1) is a Afrobeat and Amapiano artist with 2 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at Descent, Boston on Fri, 11 Sept 2026.
 
 Adelaide (1) is an afrobeat and amapiano artist based in United States of America, tracked on soundcheck, with 2 sets logged across Boston and Newyorkcity. Often billed alongside Christinathesaintt, Nyah Cami and kuntress. Next up: Descent, Boston on Fri 11 Sept.
 
@@ -15,4 +15,4 @@ Adelaide (1) is an afrobeat and amapiano artist based in United States of Americ
 
 Christinathesaintt, Nyah Cami, kuntress
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/adelaide-us/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/adelaide-us/)*

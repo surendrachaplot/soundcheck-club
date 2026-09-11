@@ -1,6 +1,6 @@
 # Meta Chrom
 
-Meta Chrom is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Thu, 10 Sept 2026, next at elipamanoke, Leipzig on Sat, 26 Sept 2026.
+Meta Chrom is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at elipamanoke, Leipzig on Sat, 26 Sept 2026.
 
 Meta Chrom is a techno and trance artist based in Germany, tracked on soundcheck, with 11 sets logged across Berlin and Leipzig. Often billed alongside HØLLE (2), CARGO (DE) and DJ TIPSTER. Next up: elipamanoke, Leipzig on Sat 26 Sept.
 
@@ -26,4 +26,4 @@ Meta Chrom is a techno and trance artist based in Germany, tracked on soundcheck
 
 HØLLE (2), CARGO (DE), DJ TIPSTER
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/metachrom/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/metachrom/)*

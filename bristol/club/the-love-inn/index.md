@@ -1,6 +1,6 @@
 # The Love Inn
 
-The Love Inn is a music venue in Bristol with 7 upcoming nights listed on soundcheck as of Thu, 10 Sept 2026; the next is "Sam Bower Residency #01 with Emilio Balman + Starts@2" on Thu, 10 Sept 2026.
+The Love Inn is a music venue in Bristol with 7 upcoming nights listed on soundcheck as of Fri, 11 Sept 2026; the next is "Sam Bower Residency #01 with Emilio Balman + Starts@2" on Thu, 10 Sept 2026.
 
 The Love Inn is a music venue in Bristol listed on soundcheck. 7 upcoming nights, with line-ups including A For Alpha, Andy Martin, AVA (3) and Azumei and 2 more. Browse upcoming dates, start times and who's playing. 84 Stokes Croft, Stokes Croft, Bristol, BS1 3QY, United Kingdom.
 
@@ -20,4 +20,4 @@ The Love Inn is a music venue in Bristol listed on soundcheck. 7 upcoming nights
 
 84 Stokes Croft, Stokes Croft, Bristol, BS1 3QY, United Kingdom, Bristol
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/bristol/club/the-love-inn/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/bristol/club/the-love-inn/)*

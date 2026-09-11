@@ -1,6 +1,6 @@
 # VIVI909
 
-VIVI909 is a Techno and Trance artist with 5 upcoming club dates listed on soundcheck as of Thu, 10 Sept 2026, next at elipamanoke, Leipzig on Sat, 12 Sept 2026.
+VIVI909 is a Techno and Trance artist with 5 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at elipamanoke, Leipzig on Sat, 12 Sept 2026.
 
 VIVI909 is a techno and trance artist tracked on soundcheck, with 16 sets logged across Berlin, Cologne, Frankfurt and Hamburg and 2 more. Often billed alongside CAIVA, Mila Black and e.leptic. Next up: elipamanoke, Leipzig on Sat 12 Sept.
 
@@ -29,4 +29,4 @@ VIVI909 is a techno and trance artist tracked on soundcheck, with 16 sets logged
 
 CAIVA, Mila Black, e.leptic
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/vivi909/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/vivi909/)*

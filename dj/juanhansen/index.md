@@ -1,6 +1,6 @@
 # Juan Hansen
 
-Juan Hansen is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 10 Sept 2026, next at TBA - Chacra El Descanso, La Plata, Buenos Aires on Sat, 31 Oct 2026.
+Juan Hansen is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 11 Sept 2026, next at TBA - Chacra El Descanso, La Plata, Buenos Aires on Sat, 31 Oct 2026.
 
 Juan Hansen is a techno and house artist tracked on soundcheck, with 34 sets logged across Amsterdam, Barcelona, Berlin and Buenosaires and 9 more. Often billed alongside Innellea, Amadori and Nick Varon. Next up: TBA - Chacra El Descanso, La Plata, Buenosaires on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Juan Hansen is a techno and house artist tracked on soundcheck, with 34 sets log
 
 Innellea, Amadori, Nick Varon
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/juanhansen/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/juanhansen/)*

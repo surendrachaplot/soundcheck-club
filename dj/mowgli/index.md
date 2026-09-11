@@ -1,6 +1,6 @@
 # Mowgli
 
-Mowgli is a House and Jungle artist with 1 upcoming club date listed on soundcheck as of Thu, 10 Sept 2026, next at Riviera Beach Club, Melbourne on Sun, 6 Dec 2026.
+Mowgli is a House and Jungle artist with 1 upcoming club date listed on soundcheck as of Fri, 11 Sept 2026, next at Riviera Beach Club, Melbourne on Sun, 6 Dec 2026.
 
 Mowgli is a house and jungle artist tracked on soundcheck, with 11 sets logged across Bristol, London, Manchester and Melbourne and 2 more. Often billed alongside Jordy G, Ami (UK) and Benny L. Next up: Riviera Beach Club, Melbourne on Sun 6 Dec.
 
@@ -25,4 +25,4 @@ Mowgli is a house and jungle artist tracked on soundcheck, with 11 sets logged a
 
 Jordy G, Ami (UK), Benny L
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mowgli/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mowgli/)*

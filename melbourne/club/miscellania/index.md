@@ -1,6 +1,6 @@
 # Miscellania
 
-Miscellania is a music venue in Melbourne with 9 upcoming nights listed on soundcheck as of Thu, 10 Sept 2026; the next is "Misc pres. Kia (all night long)" on Fri, 11 Sept 2026.
+Miscellania is a music venue in Melbourne with 9 upcoming nights listed on soundcheck as of Fri, 11 Sept 2026; the next is "Misc pres. Kia (all night long)" on Fri, 11 Sept 2026.
 
 Miscellania is a music venue in Melbourne listed on soundcheck. 9 upcoming nights, with line-ups including ATARANGI, Elli Altenberger, GLOW (KR) and Karani and 2 more. Browse upcoming dates, start times and who's playing. 2/401 Swanston St, Melbourne VIC 3004.
 
@@ -22,4 +22,4 @@ Miscellania is a music venue in Melbourne listed on soundcheck. 9 upcoming night
 
 2/401 Swanston St, Melbourne VIC 3004, Melbourne
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/miscellania/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/miscellania/)*

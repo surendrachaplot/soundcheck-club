@@ -1,6 +1,6 @@
 # blissy e
 
-blissy e is a House and Broken Beat artist with 2 upcoming club dates listed on soundcheck as of Thu, 10 Sept 2026, next at Jumbi, London on Fri, 25 Sept 2026.
+blissy e is a House and Broken Beat artist with 2 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at Jumbi, London on Fri, 25 Sept 2026.
 
 blissy e is a house and broken beat artist based in United Kingdom, tracked on soundcheck, with 44 sets logged across London. Often billed alongside GENIETUNES, Mr. Redley and Selassie TBC. Next up: Jumbi, London on Fri 25 Sept.
 
@@ -26,4 +26,4 @@ blissy e is a house and broken beat artist based in United Kingdom, tracked on s
 
 GENIETUNES, Mr. Redley, Selassie TBC
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/blissye/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/blissye/)*

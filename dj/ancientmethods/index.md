@@ -1,6 +1,6 @@
 # Ancient Methods
 
-Ancient Methods is a Techno and Industrial artist with 2 upcoming club dates listed on soundcheck as of Thu, 10 Sept 2026, next at RSO.BERLIN, Berlin on Fri, 18 Sept 2026.
+Ancient Methods is a Techno and Industrial artist with 2 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at RSO.BERLIN, Berlin on Fri, 18 Sept 2026.
 
 Ancient Methods is a techno and industrial artist tracked on soundcheck, with 112 sets logged across Amsterdam, Athens, Barcelona and Berlin and 32 more. Often billed alongside OTHR, 00rt and Phase Fatale. Next up: RSO.BERLIN, Berlin on Fri 18 Sept.
 
@@ -26,4 +26,4 @@ Ancient Methods is a techno and industrial artist tracked on soundcheck, with 11
 
 OTHR, 00rt, Phase Fatale
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ancientmethods/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ancientmethods/)*

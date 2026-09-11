@@ -1,14 +1,15 @@
 # Niki Sadeki
 
-Niki Sadeki is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Thu, 10 Sept 2026, next at Do Not Sit On The Furniture, Miami on Sat, 26 Sept 2026.
+Niki Sadeki is a House and Deep House artist with 2 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at Do Not Sit On The Furniture, Miami on Sat, 26 Sept 2026.
 
-Niki Sadeki is a house and deep house artist tracked on soundcheck, with 67 sets logged across Amsterdam, Berlin, Chicago and Copenhagen and 16 more. Often billed alongside Britta Arnold, Chris Schwarzwälder and ELIF. Next up: Do Not Sit On The Furniture, Miami on Sat 26 Sept.
+Niki Sadeki is a house and deep house artist tracked on soundcheck, with 68 sets logged across Amsterdam, Berlin, Chicago and Copenhagen and 16 more. Often billed alongside Britta Arnold, Chris Schwarzwälder and ELIF. Next up: Do Not Sit On The Furniture, Miami on Sat 26 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 26 Sept 2026 | Do Not Sit On The Furniture | Miami |
+| Sat, 24 Oct 2026 | WestWeelde | Amsterdam |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Niki Sadeki is a house and deep house artist tracked on soundcheck, with 67 sets
 
 Britta Arnold, Chris Schwarzwälder, ELIF
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nikisadeki-ca/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nikisadeki-ca/)*

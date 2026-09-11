@@ -1,6 +1,6 @@
 # Violetta
 
-Violetta is a music venue in Tokyo with 1 upcoming night listed on soundcheck as of Thu, 10 Sept 2026; the next is "PHONORAMA MEETS SKRD" on Sat, 26 Sept 2026.
+Violetta is a music venue in Tokyo with 1 upcoming night listed on soundcheck as of Fri, 11 Sept 2026; the next is "PHONORAMA MEETS SKRD" on Fri, 25 Sept 2026.
 
 Violetta is a music venue in Tokyo listed on soundcheck. 1 upcoming night. Browse upcoming dates, start times and who's playing. B1F 3-1-9 Shibuya, Shibuya-ku, 150-0002 Tokyo.
 
@@ -8,10 +8,10 @@ Violetta is a music venue in Tokyo listed on soundcheck. 1 upcoming night. Brows
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 26 Sept 2026 | PHONORAMA MEETS SKRD |  |
+| Fri, 25 Sept 2026 | PHONORAMA MEETS SKRD |  |
 
 ## Address
 
 B1F 3-1-9 Shibuya, Shibuya-ku, 150-0002 Tokyo, Tokyo
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/violetta/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/violetta/)*

@@ -1,8 +1,8 @@
 # Mars89
 
-Mars89 is a Techno and Bass artist with 2 upcoming club dates listed on soundcheck as of Thu, 10 Sept 2026, next at VENT, Tokyo on Sat, 19 Sept 2026.
+Mars89 is a Techno and Bass artist with 3 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at VENT, Tokyo on Sat, 19 Sept 2026.
 
-Mars89 is a techno and bass artist tracked on soundcheck, with 111 sets logged across Berlin, Kyoto, London and Osaka and 5 more. Often billed alongside ykah, the2$ and MAYUDEPTH. Next up: VENT, Tokyo on Sat 19 Sept.
+Mars89 is a techno and bass artist tracked on soundcheck, with 112 sets logged across Berlin, Kyoto, London and Osaka and 5 more. Often billed alongside ykah, the2$ and MAYUDEPTH. Next up: VENT, Tokyo on Sat 19 Sept.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Mars89 is a techno and bass artist tracked on soundcheck, with 111 sets logged a
 | --- | --- | --- |
 | Sat, 19 Sept 2026 | VENT | Tokyo |
 | Sat, 26 Sept 2026 | Mitsuki | Tokyo |
+| Sat, 3 Oct 2026 | Traffic | Tokyo |
 
 ## Recently played
 
@@ -26,4 +27,4 @@ Mars89 is a techno and bass artist tracked on soundcheck, with 111 sets logged a
 
 ykah, the2$, MAYUDEPTH
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mars89/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mars89/)*

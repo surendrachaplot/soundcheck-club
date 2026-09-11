@@ -1,6 +1,6 @@
 # X Private Club
 
-X Private Club is a music venue in Madrid with 3 upcoming nights listed on soundcheck as of Thu, 10 Sept 2026; the next is "NOIZZE W/ HERRERA, NICO FLEITAS & MORE - FREE ENTRY" on Fri, 11 Sept 2026.
+X Private Club is a music venue in Madrid with 3 upcoming nights listed on soundcheck as of Fri, 11 Sept 2026; the next is "NOIZZE W/ HERRERA, NICO FLEITAS & MORE - FREE ENTRY" on Fri, 11 Sept 2026.
 
 X Private Club is a music venue in Madrid listed on soundcheck. 3 upcoming nights, with line-ups including ALEX FÖX, Herrera (ES), Mario Mendoza and Vico Deep. Browse upcoming dates, start times and who's playing. Madrid.
 
@@ -16,4 +16,4 @@ X Private Club is a music venue in Madrid listed on soundcheck. 3 upcoming night
 
 Madrid, Madrid
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/x-private-club/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/x-private-club/)*

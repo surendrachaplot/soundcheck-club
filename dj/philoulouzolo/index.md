@@ -1,14 +1,15 @@
 # Philou Louzolo
 
-Philou Louzolo is a House and Afro House artist with 3 upcoming club dates listed on soundcheck as of Thu, 10 Sept 2026, next at Kralingse Bos, Rotterdam on Sat, 12 Sept 2026.
+Philou Louzolo is a House and Afro House artist with 4 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at Kralingse Bos, Rotterdam on Sat, 12 Sept 2026.
 
-Philou Louzolo is a house and afro house artist tracked on soundcheck, with 114 sets logged across Amsterdam, Berlin, Ibiza and London and 5 more. Often billed alongside Cincity, Benny Rodrigues and Michel de Hey. Next up: Kralingse Bos, Rotterdam on Sat 12 Sept.
+Philou Louzolo is a house and afro house artist tracked on soundcheck, with 115 sets logged across Amsterdam, Berlin, Ibiza and London and 5 more. Often billed alongside Cincity, Benny Rodrigues and Michel de Hey. Next up: Kralingse Bos, Rotterdam on Sat 12 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 12 Sept 2026 | Kralingse Bos | Rotterdam |
+| Sat, 19 Sept 2026 | Thuishaven | Amsterdam |
 | Sat, 24 Oct 2026 | Thuishaven | Amsterdam |
 | Sat, 24 Oct 2026 | NDSM Scheepsbouwloods | Amsterdam |
 
@@ -27,4 +28,4 @@ Philou Louzolo is a house and afro house artist tracked on soundcheck, with 114 
 
 Cincity, Benny Rodrigues, Michel de Hey
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/philoulouzolo/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/philoulouzolo/)*

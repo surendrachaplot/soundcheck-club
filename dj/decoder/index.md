@@ -1,14 +1,13 @@
 # Decoder
 
-Decoder is a Techno and Minimal Techno artist with 8 upcoming club dates listed on soundcheck as of Thu, 10 Sept 2026, next at Process PDX, Portland on Thu, 10 Sept 2026.
+Decoder is a Techno and House artist with 7 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at TBA - 4211 Todd Ln Suite A, Austin on Sat, 12 Sept 2026.
 
-Decoder is a techno and minimal techno artist tracked on soundcheck, with 89 sets logged across Amsterdam, Athens, Austin and Barcelona and 32 more. Often billed alongside jay york, Barbosa and Lindsey Herbert. Next up: Process PDX, Portland on Thu 10 Sept.
+Decoder is a techno and house artist tracked on soundcheck, with 89 sets logged across Amsterdam, Athens, Austin and Barcelona and 32 more. Often billed alongside jay york, Barbosa and Lindsey Herbert. Next up: TBA - 4211 Todd Ln Suite A, Austin on Sat 12 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Thu, 10 Sept 2026 | Process PDX | Portland |
 | Sat, 12 Sept 2026 | TBA - 4211 Todd Ln Suite A | Austin |
 | Fri, 25 Sept 2026 | The Villa | Oslo |
 | Fri, 9 Oct 2026 | The Island | Bristol |
@@ -19,6 +18,7 @@ Decoder is a techno and minimal techno artist tracked on soundcheck, with 89 set
 
 ## Recently played
 
+- Process PDX, Portland — Thu, 10 Sept 2026
 - La Station - Gare des Mines, Paris — Fri, 21 Aug 2026
 - Lofi, Amsterdam — Sat, 15 Aug 2026
 - Ikii, Berlin — Tue, 4 Aug 2026
@@ -26,10 +26,9 @@ Decoder is a techno and minimal techno artist tracked on soundcheck, with 89 set
 - Ankali & Planeta Za, Prague — Fri, 24 Jul 2026
 - RSO.BERLIN, Berlin — Sat, 18 Jul 2026
 - BLITZ, Munich — Fri, 10 Jul 2026
-- TBA - OAKYARD GROUNDS - 2h north of Berlin., Berlin — Fri, 3 Jul 2026
 
 ## Shares bills with
 
 jay york, Barbosa, Lindsey Herbert
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/decoder/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/decoder/)*

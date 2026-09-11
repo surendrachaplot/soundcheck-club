@@ -1,6 +1,6 @@
 # Obelisk030
 
-Obelisk030 is a Techno and Trance artist with 3 upcoming club dates listed on soundcheck as of Thu, 10 Sept 2026, next at DNA. CLUB, Berlin on Sat, 19 Sept 2026.
+Obelisk030 is a Techno and Trance artist with 3 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at DNA. CLUB, Berlin on Sat, 19 Sept 2026.
 
 Obelisk030 is a techno and trance artist based in Germany, tracked on soundcheck, with 12 sets logged across Berlin. Often billed alongside Callado, mølly (on molly) and SALCHIKILLER. Next up: DNA. CLUB, Berlin on Sat 19 Sept.
 
@@ -27,4 +27,4 @@ Obelisk030 is a techno and trance artist based in Germany, tracked on soundcheck
 
 Callado, mølly (on molly), SALCHIKILLER
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/obelisk030/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/obelisk030/)*

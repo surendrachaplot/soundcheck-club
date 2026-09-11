@@ -1,13 +1,15 @@
 # ALKARLINE
 
-ALKARLINE is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 10 Sept 2026, next at Crack Bellmer, Berlin on Thu, 1 Oct 2026.
+ALKARLINE is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at ://about blank, Berlin on Fri, 18 Sept 2026.
 
-ALKARLINE is a house and techno artist tracked on soundcheck, with 41 sets logged across Berlin and Hamburg. Often billed alongside Momo Femi, BBetriebswirt and Revolucien. Next up: Crack Bellmer, Berlin on Thu 1 Oct.
+ALKARLINE is a house and techno artist tracked on soundcheck, with 43 sets logged across Berlin and Hamburg. Often billed alongside Momo Femi, BBetriebswirt and Revolucien. Next up: ://about blank, Berlin on Fri 18 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 18 Sept 2026 | ://about blank | Berlin |
+| Fri, 25 Sept 2026 | Marmorbar | Berlin |
 | Thu, 1 Oct 2026 | Crack Bellmer | Berlin |
 
 ## Recently played
@@ -25,4 +27,4 @@ ALKARLINE is a house and techno artist tracked on soundcheck, with 41 sets logge
 
 Momo Femi, BBetriebswirt, Revolucien
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djalkarline/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djalkarline/)*

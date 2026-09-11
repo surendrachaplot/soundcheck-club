@@ -1,14 +1,17 @@
 # Mr. V
 
-Mr. V is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Thu, 10 Sept 2026, next at The House, New York City on Fri, 18 Sept 2026.
+Mr. V is a House and Deep House artist with 4 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at Cardiff Lounge, San Francisco/Oakland on Fri, 11 Sept 2026.
 
-Mr. V is a house and deep house artist based in United States of America, tracked on soundcheck, with 155 sets logged across Amsterdam, Detroit, Ibiza and Liverpool and 6 more. Often billed alongside David Harness, Franky Boissy and Hector Romero. Next up: The House, Newyorkcity on Fri 18 Sept.
+Mr. V is a house and deep house artist based in United States of America, tracked on soundcheck, with 158 sets logged across Amsterdam, Detroit, Ibiza and Liverpool and 6 more. Often billed alongside Julius Papp, David Harness and Franky Boissy. Next up: Cardiff Lounge, Sanfrancisco on Fri 11 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 11 Sept 2026 | Cardiff Lounge | San Francisco/Oakland |
+| Sat, 12 Sept 2026 | The Battery SF | San Francisco/Oakland |
 | Fri, 18 Sept 2026 | The House | New York City |
+| Fri, 25 Sept 2026 | Cardiff Lounge | San Francisco/Oakland |
 
 ## Recently played
 
@@ -23,6 +26,6 @@ Mr. V is a house and deep house artist based in United States of America, tracke
 
 ## Shares bills with
 
-David Harness, Franky Boissy, Hector Romero
+Julius Papp, David Harness, Franky Boissy
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mr.v/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mr.v/)*

@@ -1,6 +1,6 @@
 # I Say Mikey
 
-I Say Mikey is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Thu, 10 Sept 2026, next at Pod Gigantami, Warsaw on Fri, 11 Sept 2026.
+I Say Mikey is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Fri, 11 Sept 2026, next at Pod Gigantami, Warsaw on Fri, 11 Sept 2026.
 
 I Say Mikey is a house and disco artist tracked on soundcheck, with 19 sets logged across Warsaw. Often billed alongside Mushin, Kuvau and Mr. Lex. Next up: Pod Gigantami, Warsaw on Fri 11 Sept.
 
@@ -25,4 +25,4 @@ I Say Mikey is a house and disco artist tracked on soundcheck, with 19 sets logg
 
 Mushin, Kuvau, Mr. Lex
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/isaymikey/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/isaymikey/)*

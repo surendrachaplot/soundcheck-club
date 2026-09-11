@@ -1,6 +1,6 @@
 # Emissive
 
-Emissive is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 10 Sept 2026, next at Allan Gardens Conservatory, Toronto on Fri, 25 Sept 2026.
+Emissive is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 11 Sept 2026, next at Allan Gardens Conservatory, Toronto on Fri, 25 Sept 2026.
 
 Emissive is a techno and house artist tracked on soundcheck, with 47 sets logged across Montreal, Newyorkcity, Toronto and Vancouver. Often billed alongside sanjeet, DJ D.Dee and Ester Shiner. Next up: Allan Gardens Conservatory, Toronto on Fri 25 Sept.
 
@@ -25,4 +25,4 @@ Emissive is a techno and house artist tracked on soundcheck, with 47 sets logged
 
 sanjeet, DJ D.Dee, Ester Shiner
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/emissive/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/emissive/)*

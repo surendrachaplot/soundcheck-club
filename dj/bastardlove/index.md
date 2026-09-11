@@ -1,14 +1,15 @@
 # Bastard Love
 
-Bastard Love is a House and Electro artist with 1 upcoming club date listed on soundcheck as of Thu, 10 Sept 2026, next at Fünk, Mexico City on Fri, 11 Sept 2026.
+Bastard Love is a House and Electro artist with 2 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at Fünk, Mexico City on Fri, 11 Sept 2026.
 
-Bastard Love is a house and electro artist based in Mexico, tracked on soundcheck, with 73 sets logged across Barcelona, Berlin, Lisbon and London and 3 more. Often billed alongside Mejia, Ossios and Oliverio Segura. Next up: Fünk, Mexicocity on Fri 11 Sept.
+Bastard Love is a house and electro artist based in Mexico, tracked on soundcheck, with 74 sets logged across Barcelona, Berlin, Lisbon and London and 3 more. Often billed alongside Mejia, Ossios and Oliverio Segura. Next up: Fünk, Mexicocity on Fri 11 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 11 Sept 2026 | Fünk | Mexico City |
+| Sat, 3 Oct 2026 | TBA | Mexico City |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Bastard Love is a house and electro artist based in Mexico, tracked on soundchec
 
 Mejia, Ossios, Oliverio Segura
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bastardlove/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bastardlove/)*

@@ -1,13 +1,14 @@
 # Malo Z
 
-Malo Z is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Thu, 10 Sept 2026, next at Trix, Antwerp on Sat, 10 Oct 2026.
+Malo Z is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at Illegaal, Brussels on Sat, 3 Oct 2026.
 
-Malo Z is a house and techno artist based in Belgium, tracked on soundcheck, with 34 sets logged across Antwerp, Athens, Brussels and Ghent. Often billed alongside DJ Rino, Fais Le Beau and Violently Happy. Next up: Trix, Antwerp on Sat 10 Oct.
+Malo Z is a house and techno artist based in Belgium, tracked on soundcheck, with 35 sets logged across Antwerp, Athens, Brussels and Ghent. Often billed alongside DJ Rino, Fais Le Beau and Violently Happy. Next up: Illegaal, Brussels on Sat 3 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 3 Oct 2026 | Illegaal | Brussels |
 | Sat, 10 Oct 2026 | Trix | Antwerp |
 | Sat, 24 Oct 2026 | Illegaal | Brussels |
 | Sat, 21 Nov 2026 | TBA - Brussels | Brussels |
@@ -27,4 +28,4 @@ Malo Z is a house and techno artist based in Belgium, tracked on soundcheck, wit
 
 DJ Rino, Fais Le Beau, Violently Happy
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/maloz/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/maloz/)*

@@ -1,6 +1,6 @@
 # Dachboden at 25h Hotel
 
-Dachboden at 25h Hotel is a music venue in Vienna with 1 upcoming night listed on soundcheck as of Thu, 10 Sept 2026; the next is "BOHO BEATS Rooftop Dayparty - Afro & Melodic House" on Sun, 20 Sept 2026.
+Dachboden at 25h Hotel is a music venue in Vienna with 1 upcoming night listed on soundcheck as of Fri, 11 Sept 2026; the next is "BOHO BEATS Rooftop Dayparty - Afro & Melodic House" on Sun, 20 Sept 2026.
 
 Dachboden at 25h Hotel is a music venue in Vienna listed on soundcheck. 1 upcoming night, with line-ups including Chiara Valentina. Browse upcoming dates, start times and who's playing. Lerchenfelder Strasse 1-3, 1070 Wien.
 
@@ -14,4 +14,4 @@ Dachboden at 25h Hotel is a music venue in Vienna listed on soundcheck. 1 upcomi
 
 Lerchenfelder Strasse 1-3, 1070 Wien, Vienna
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/vienna/club/dachboden-at-25h-hotel/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/vienna/club/dachboden-at-25h-hotel/)*

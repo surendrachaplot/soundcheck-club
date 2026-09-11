@@ -1,8 +1,8 @@
 # LAUT
 
-LAUT is a music venue in Barcelona with 9 upcoming nights listed on soundcheck as of Thu, 10 Sept 2026; the next is "La Ind0 + Martí Cros" on Fri, 11 Sept 2026.
+LAUT is a music venue in Barcelona with 11 upcoming nights listed on soundcheck as of Fri, 11 Sept 2026; the next is "La Ind0 + Martí Cros" on Fri, 11 Sept 2026.
 
-LAUT is a music venue in Barcelona listed on soundcheck. 9 upcoming nights, with line-ups including Aleja Sanchez, Binomi, Deepbass and Ekkel and 2 more. Browse upcoming dates, start times and who's playing. Carrer de Vila i Vilà, 63, 08004 Barcelona, Spain.
+LAUT is a music venue in Barcelona listed on soundcheck. 11 upcoming nights, with line-ups including Aleja Sanchez, Binomi, Deepbass and Ekkel and 2 more. Browse upcoming dates, start times and who's playing. Carrer de Vila i Vilà, 63, 08004 Barcelona, Spain.
 
 ## What's on
 
@@ -15,6 +15,7 @@ LAUT is a music venue in Barcelona listed on soundcheck. 9 upcoming nights, with
 | Sat, 19 Sept 2026 | Sonhan + Lucient | Lucient, Sonhan |
 | Fri, 25 Sept 2026 | Ekkel + Jhort | Ekkel, Jhort |
 | Sat, 26 Sept 2026 | Vardae (All night long) | Vardae |
+| Tue, 29 Sept 2026 | JUXTA Run x AURA: Where Fitness Meets Club Culture |  |
 | Sun, 11 Oct 2026 | Club Aura # 3 w/ Garçon, Momasé b2b Phosky, Javi.apart (Live), Corsair y Marta LOFI (Live AV) | Garçon, Josh Hoppen, Momasé, Phosky |
 | Fri, 23 Oct 2026 | HOC 05: Katatonic Silentio & Binomi | Binomi, Katatonic Silentio |
 
@@ -22,4 +23,4 @@ LAUT is a music venue in Barcelona listed on soundcheck. 9 upcoming nights, with
 
 Carrer de Vila i Vilà, 63, 08004 Barcelona, Spain, Barcelona
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/laut/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/laut/)*

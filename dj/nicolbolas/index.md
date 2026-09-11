@@ -1,6 +1,6 @@
 # Nicol Bolas
 
-Nicol Bolas is a Club and Reggaeton artist with 1 upcoming club date listed on soundcheck as of Thu, 10 Sept 2026, next at Romantso, Athens on Fri, 11 Sept 2026.
+Nicol Bolas is a Club and Reggaeton artist with 1 upcoming club date listed on soundcheck as of Fri, 11 Sept 2026, next at Romantso, Athens on Fri, 11 Sept 2026.
 
 Nicol Bolas is a club and reggaeton artist tracked on soundcheck, with 18 sets logged across Athens and Brussels. Often billed alongside DJ P€gga$u$, Miss Trouli and BoraBora. Next up: Romantso, Athens on Fri 11 Sept.
 
@@ -25,4 +25,4 @@ Nicol Bolas is a club and reggaeton artist tracked on soundcheck, with 18 sets l
 
 DJ P€gga$u$, Miss Trouli, BoraBora
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nicolbolas/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nicolbolas/)*

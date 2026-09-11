@@ -1,10 +1,10 @@
 # REDEMPTION presents Laurence Guy at The Liquid Room Warehouse
 
-REDEMPTION presents Laurence Guy at The Liquid Room Warehouse on Thu 8 Oct, Edinburgh. 1 act on the bill: Laurence Guy. House and Tech House. Preview the line-up and save it on soundcheck.
+REDEMPTION presents Laurence Guy at The Liquid Room Warehouse on Mon 5 Oct, Edinburgh. 1 act on the bill: Laurence Guy. House and Tech House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
-| Date | Thu, 8 Oct 2026 |
+| Date | Mon, 5 Oct 2026 |
 | Venue | The Liquid Room Warehouse |
 | City | Edinburgh |
 

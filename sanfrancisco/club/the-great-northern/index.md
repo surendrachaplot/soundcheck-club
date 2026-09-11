@@ -1,6 +1,6 @@
 # The Great Northern
 
-The Great Northern is a music venue in San Francisco/Oakland with 14 upcoming nights listed on soundcheck as of Thu, 10 Sept 2026; the next is "Mioli Music presents: Kausmic - Post Playa Party" on Sat, 12 Sept 2026.
+The Great Northern is a music venue in San Francisco/Oakland with 14 upcoming nights listed on soundcheck as of Fri, 11 Sept 2026; the next is "Mioli Music presents: Kausmic - Post Playa Party" on Sat, 12 Sept 2026.
 
 The Great Northern is a music venue in Sanfrancisco listed on soundcheck. 14 upcoming nights, with line-ups including Avalon Emerson, BEYA, Camillionaire and Dirac (US) and 2 more. Browse upcoming dates, start times and who's playing. 119 Utah St, San Francisco, CA 94103.
 
@@ -23,4 +23,4 @@ The Great Northern is a music venue in Sanfrancisco listed on soundcheck. 14 upc
 
 119 Utah St, San Francisco, CA 94103, San Francisco/Oakland
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/the-great-northern/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/the-great-northern/)*

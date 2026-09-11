@@ -1,6 +1,6 @@
 # 999999999
 
-999999999 is a Techno and House artist with 12 upcoming club dates listed on soundcheck as of Thu, 10 Sept 2026, next at TBA - Brussels, Brussels on Fri, 11 Sept 2026.
+999999999 is a Techno and House artist with 12 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at TBA - Brussels, Brussels on Fri, 11 Sept 2026.
 
 999999999 is a techno and house artist tracked on soundcheck, with 282 sets logged across Aberdeen, Amsterdam, Antwerp and Athens and 74 more. Often billed alongside I Hate Models, Charlie Sparks and Nico Moreno. Next up: TBA - Brussels, Brussels on Fri 11 Sept.
 
@@ -36,4 +36,4 @@
 
 I Hate Models, Charlie Sparks, Nico Moreno
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/999999999/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/999999999/)*

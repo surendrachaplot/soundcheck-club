@@ -1,14 +1,13 @@
 # Mia Mao
 
-Mia Mao is a music venue in Paris with 15 upcoming nights listed on soundcheck as of Thu, 10 Sept 2026; the next is "Deepsea Grooves: TAKEOVER DKO RECORDS, LA RUCHE, STO & MORE" on Thu, 10 Sept 2026.
+Mia Mao is a music venue in Paris with 14 upcoming nights listed on soundcheck as of Fri, 11 Sept 2026; the next is "THUNDER : A.N.I., ANIME, A5KM, XINA MORA & MORE" on Fri, 11 Sept 2026.
 
-Mia Mao is a music venue in Paris listed on soundcheck. 15 upcoming nights, with line-ups including Adame DJ, Alba Franch, Alex Nantaya and Amine S and 2 more. Browse upcoming dates, start times and who's playing. 12a rue Ella Fitzgerald, 75019, Paris, FRANCE.
+Mia Mao is a music venue in Paris listed on soundcheck. 14 upcoming nights, with line-ups including Adame DJ, Alba Franch, Alex Nantaya and Amygdala and 2 more. Browse upcoming dates, start times and who's playing. 12a rue Ella Fitzgerald, 75019, Paris, FRANCE.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Thu, 10 Sept 2026 | Deepsea Grooves: TAKEOVER DKO RECORDS, LA RUCHE, STO & MORE | Amine S, Seabra, Segoz |
 | Fri, 11 Sept 2026 | THUNDER : A.N.I., ANIME, A5KM, XINA MORA & MORE | A.N.I., BOTICKA, SaltySis, Yoshiko |
 | Sat, 12 Sept 2026 | TAPE: Felinae, Amygdala, FC Kabagar, INSO.ENCE, KLÖSS &  | Amygdala, Annie, FC Kabagar, Felinae, KLÖSS |
 | Thu, 17 Sept 2026 | Orka: MOSMOZ, Wanton, SKOLLARIS & PAULINE D7 | Wanton |
@@ -18,9 +17,10 @@ Mia Mao is a music venue in Paris listed on soundcheck. 15 upcoming nights, with
 | Fri, 25 Sept 2026 | ANUBIS: Paul Seul, RUFFNECK, NAMARA, FLUCC & MORE | FLUCC, NAMARA, Paul Seul |
 | Sat, 26 Sept 2026 | Orka x Sakral : KX CHR, Popof, Alex Nantaya, Night Owl, RATZ | Alex Nantaya, KX CHR, Night Owl, Popof |
 | Fri, 2 Oct 2026 | Pisica: Alba Franch, franck, Antonym B2b George Radsport &… | Alba Franch, Antonym, FØSS, HANÀ, Westfall, franck |
+| Sat, 3 Oct 2026 | Ohlala presents UKF Paris |  |
 
 ## Address
 
 12a rue Ella Fitzgerald, 75019, Paris, FRANCE, Paris
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/paris/club/mia-mao/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/paris/club/mia-mao/)*

@@ -1,14 +1,15 @@
 # myu:sa
 
-myu:sa is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Thu, 10 Sept 2026, next at Garage Klub, Antwerp on Fri, 18 Sept 2026.
+myu:sa is a Techno and Trance artist with 3 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at Garage Klub, Antwerp on Fri, 18 Sept 2026.
 
-myu:sa is a techno and trance artist based in Belgium, tracked on soundcheck, with 73 sets logged across Amsterdam, Antwerp, Barcelona and Basel and 15 more. Often billed alongside Lolalita, waltur and Lena De Roose. Next up: Garage Klub, Antwerp on Fri 18 Sept.
+myu:sa is a techno and trance artist based in Belgium, tracked on soundcheck, with 74 sets logged across Amsterdam, Antwerp, Barcelona and Basel and 15 more. Often billed alongside Lolalita, waltur and Lena De Roose. Next up: Garage Klub, Antwerp on Fri 18 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 18 Sept 2026 | Garage Klub | Antwerp |
+| Thu, 22 Oct 2026 | Hemkade 48 | Amsterdam |
 | Sat, 21 Nov 2026 | TBA - Brussels | Brussels |
 
 ## Recently played
@@ -26,4 +27,4 @@ myu:sa is a techno and trance artist based in Belgium, tracked on soundcheck, wi
 
 Lolalita, waltur, Lena De Roose
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/myusa/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/myusa/)*

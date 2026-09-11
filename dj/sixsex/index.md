@@ -1,8 +1,8 @@
 # Six Sex
 
-Six Sex is a Techno and Reggaeton artist with 3 upcoming club dates listed on soundcheck as of Thu, 10 Sept 2026, next at Music Box, San Diego on Sat, 12 Sept 2026.
+Six Sex is a Techno and Reggaeton artist with 4 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at Music Box, San Diego on Sat, 12 Sept 2026.
 
-Six Sex is a techno and reggaeton artist tracked on soundcheck, with 48 sets logged across Amsterdam, Barcelona, Berlin and Brussels and 21 more. Often billed alongside MCR-T, Blawan and DJ Gigola. Next up: Music Box, Sandiego on Sat 12 Sept.
+Six Sex is a techno and reggaeton artist tracked on soundcheck, with 49 sets logged across Amsterdam, Barcelona, Berlin and Brussels and 21 more. Often billed alongside MCR-T, Blawan and DJ Gigola. Next up: Music Box, Sandiego on Sat 12 Sept.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Six Sex is a techno and reggaeton artist tracked on soundcheck, with 48 sets log
 | --- | --- | --- |
 | Sat, 12 Sept 2026 | Music Box | San Diego |
 | Fri, 18 Sept 2026 | Midline | Miami |
+| Tue, 22 Sept 2026 | Fonda Theatre | Los Angeles |
 | Sat, 26 Sept 2026 | TBA - Pier 80 | San Francisco/Oakland |
 
 ## Recently played
@@ -27,4 +28,4 @@ Six Sex is a techno and reggaeton artist tracked on soundcheck, with 48 sets log
 
 MCR-T, Blawan, DJ Gigola
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sixsex/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sixsex/)*

@@ -1,6 +1,6 @@
 # La Poissonnerie
 
-La Poissonnerie is a music venue in Brussels with 1 upcoming night listed on soundcheck as of Thu, 10 Sept 2026; the next is "Fête du Progrès" on Sun, 20 Sept 2026.
+La Poissonnerie is a music venue in Brussels with 1 upcoming night listed on soundcheck as of Fri, 11 Sept 2026; the next is "Fête du Progrès" on Sun, 20 Sept 2026.
 
 La Poissonnerie is a music venue in Brussels listed on soundcheck. 1 upcoming night. Browse upcoming dates, start times and who's playing. Rue du Progres / Vooruitgangsstraat 214, Schaerbeek, Belgium, 1030.
 
@@ -14,4 +14,4 @@ La Poissonnerie is a music venue in Brussels listed on soundcheck. 1 upcoming ni
 
 Rue du Progres / Vooruitgangsstraat 214, Schaerbeek, Belgium, 1030, Brussels
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/brussels/club/la-poissonnerie/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/brussels/club/la-poissonnerie/)*

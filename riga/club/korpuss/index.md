@@ -1,6 +1,6 @@
 # Korpuss
 
-Korpuss is a music venue in Riga with 3 upcoming nights listed on soundcheck as of Thu, 10 Sept 2026; the next is "TECHNO — Korpuss Gallery Series #005" on Fri, 11 Sept 2026.
+Korpuss is a music venue in Riga with 3 upcoming nights listed on soundcheck as of Fri, 11 Sept 2026; the next is "TECHNO — Korpuss Gallery Series #005" on Fri, 11 Sept 2026.
 
 Korpuss is a music venue in Riga listed on soundcheck. 3 upcoming nights, with line-ups including deembvss, DEP (LV), DRAGONCAT and Et Cetera and 2 more. Browse upcoming dates, start times and who's playing. Viskaļu iela 36.
 
@@ -16,4 +16,4 @@ Korpuss is a music venue in Riga listed on soundcheck. 3 upcoming nights, with l
 
 Viskaļu iela 36, Riga
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/riga/club/korpuss/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/riga/club/korpuss/)*

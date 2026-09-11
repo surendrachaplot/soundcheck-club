@@ -1,6 +1,6 @@
 # HLZ (2)
 
-HLZ (2) is a Drum & Bass and Jungle artist with 2 upcoming club dates listed on soundcheck as of Thu, 10 Sept 2026, next at The View From The Shard, London on Sat, 12 Sept 2026.
+HLZ (2) is a Drum & Bass and Jungle artist with 2 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at The View From The Shard, London on Sat, 12 Sept 2026.
 
 HLZ (2) is a drum & bass and jungle artist tracked on soundcheck, with 6 sets logged across Boston, Brighton, Chicago and London and 1 more. Often billed alongside DJ Trace, Andy Stroble and Blackeye MC. Next up: The View From The Shard, London on Sat 12 Sept.
 
@@ -22,4 +22,4 @@ HLZ (2) is a drum & bass and jungle artist tracked on soundcheck, with 6 sets lo
 
 DJ Trace, Andy Stroble, Blackeye MC
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/hlz-2/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/hlz-2/)*

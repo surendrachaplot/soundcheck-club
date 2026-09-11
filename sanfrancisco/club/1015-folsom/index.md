@@ -1,14 +1,13 @@
 # 1015 Folsom
 
-1015 Folsom is a music venue in San Francisco/Oakland with 14 upcoming nights listed on soundcheck as of Thu, 10 Sept 2026; the next is "THROTTLE: D.Dan" on Thu, 10 Sept 2026.
+1015 Folsom is a music venue in San Francisco/Oakland with 14 upcoming nights listed on soundcheck as of Fri, 11 Sept 2026; the next is "Pendulum" on Fri, 11 Sept 2026.
 
-1015 Folsom is a music venue in Sanfrancisco listed on soundcheck. 14 upcoming nights, with line-ups including 2ManyDJs, Andromedik, Black Plastica and Cruz de Cal and 2 more. Browse upcoming dates, start times and who's playing. 1015 Folsom Street; San Francisco, CA 94103; United States.
+1015 Folsom is a music venue in Sanfrancisco listed on soundcheck. 14 upcoming nights, with line-ups including 2ManyDJs, Andromedik, DJ Stingray 313 and edapollo and 2 more. Browse upcoming dates, start times and who's playing. 1015 Folsom Street; San Francisco, CA 94103; United States.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Thu, 10 Sept 2026 | THROTTLE: D.Dan | Black Plastica, Cruz de Cal, D.Dan, Tatiana Vaughan (2), soundswhile |
 | Fri, 11 Sept 2026 | Pendulum | Andromedik, Pendulum |
 | Fri, 18 Sept 2026 | Mild Minds (DJ Set) | edapollo |
 | Thu, 24 Sept 2026 | TUFF SF: Folsom Street Kick Off |  |
@@ -18,9 +17,10 @@
 | Thu, 15 Oct 2026 | 1015 Day with Oppidan | Oppidan |
 | Fri, 16 Oct 2026 | NOMADZ X DARNA | YASMINA |
 | Thu, 22 Oct 2026 | X CLUB | X CLUB. |
+| Fri, 23 Oct 2026 | CID x Maesic |  |
 
 ## Address
 
 1015 Folsom Street; San Francisco, CA 94103; United States, San Francisco/Oakland
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/1015-folsom/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/1015-folsom/)*

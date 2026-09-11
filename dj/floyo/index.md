@@ -1,6 +1,6 @@
 # Floyo
 
-Floyo is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Thu, 10 Sept 2026, next at Arca Bar @ Art'otel Amsterdam, Amsterdam on Sat, 24 Oct 2026.
+Floyo is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Fri, 11 Sept 2026, next at Arca Bar @ Art'otel Amsterdam, Amsterdam on Sat, 24 Oct 2026.
 
 Floyo is a tech house and house artist tracked on soundcheck, with 10 sets logged across Amsterdam, London and Zurich. Often billed alongside Jo Cruz, Kyle Linco and Dom James U.K. Next up: Arca Bar @ Art'otel Amsterdam, Amsterdam on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ Floyo is a tech house and house artist tracked on soundcheck, with 10 sets logge
 
 Jo Cruz, Kyle Linco, Dom James U.K
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/floyo/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/floyo/)*

@@ -1,6 +1,6 @@
 # YXXN
 
-YXXN is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 10 Sept 2026, next at Cakeshop, Seoul on Sat, 19 Sept 2026.
+YXXN is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 11 Sept 2026, next at Cakeshop, Seoul on Sat, 19 Sept 2026.
 
 YXXN is a techno and house artist tracked on soundcheck, with 27 sets logged across Seoul. Often billed alongside M2XL, Ligrye and Beat Tekniks. Next up: Cakeshop, Seoul on Sat 19 Sept.
 
@@ -25,4 +25,4 @@ YXXN is a techno and house artist tracked on soundcheck, with 27 sets logged acr
 
 M2XL, Ligrye, Beat Tekniks
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/yxxn/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/yxxn/)*

@@ -1,6 +1,6 @@
 # DJ DEADNAME
 
-DJ DEADNAME is a Bass and Techno artist with 3 upcoming club dates listed on soundcheck as of Thu, 10 Sept 2026, next at Camp Kennybrook, New York City on Thu, 10 Sept 2026.
+DJ DEADNAME is a Bass and Techno artist with 3 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at Camp Kennybrook, New York City on Thu, 10 Sept 2026.
 
 DJ DEADNAME is a bass and techno artist tracked on soundcheck, with 99 sets logged across Boston, Chicago, Losangeles and Montreal and 4 more. Often billed alongside Eva Loveless, Male Merge and Surgery. Next up: Camp Kennybrook, Newyorkcity on Thu 10 Sept.
 
@@ -14,6 +14,7 @@ DJ DEADNAME is a bass and techno artist tracked on soundcheck, with 99 sets logg
 
 ## Recently played
 
+- Camp Kennybrook, New York City — Thu, 10 Sept 2026
 - Market Hotel, New York City — Sun, 30 Aug 2026
 - Market Hotel, New York City — Sun, 30 Aug 2026
 - Bossa Nova Civic Club, New York City — Thu, 27 Aug 2026
@@ -21,10 +22,9 @@ DJ DEADNAME is a bass and techno artist tracked on soundcheck, with 99 sets logg
 - Club Rawhide, New York City — Fri, 24 Jul 2026
 - Elsewhere, New York City — Fri, 17 Jul 2026
 - public records, New York City — Sat, 27 Jun 2026
-- Bossa Nova Civic Club, New York City — Thu, 25 Jun 2026
 
 ## Shares bills with
 
 Eva Loveless, Male Merge, Surgery
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djdeadname/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djdeadname/)*

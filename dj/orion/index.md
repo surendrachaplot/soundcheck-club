@@ -1,6 +1,6 @@
 # Orion
 
-Orion is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 10 Sept 2026, next at KREUZWERK, Berlin on Fri, 25 Sept 2026.
+Orion is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at KREUZWERK, Berlin on Fri, 25 Sept 2026.
 
 Orion is a techno and house artist tracked on soundcheck, with 26 sets logged across Barcelona, Berlin, Bristol and Brussels and 7 more. Often billed alongside Kiar Oscuro, DJ Jordan and Double J. Next up: KREUZWERK, Berlin on Fri 25 Sept.
 
@@ -26,4 +26,4 @@ Orion is a techno and house artist tracked on soundcheck, with 26 sets logged ac
 
 Kiar Oscuro, DJ Jordan, Double J
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/orion/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/orion/)*

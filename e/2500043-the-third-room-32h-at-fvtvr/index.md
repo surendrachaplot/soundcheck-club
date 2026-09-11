@@ -1,6 +1,6 @@
 # The Third Room: 32H at Fvtvr
 
-The Third Room: 32H at Fvtvr on Fri 18 Sept, Paris. 15 acts on the bill: .VRIL, abs8lute, Ahmet Sisman and Call Super and 11 more. Techno and House. Preview the line-up and save it on soundcheck.
+The Third Room: 32H at Fvtvr on Fri 18 Sept, Paris. 16 acts on the bill: .VRIL, abs8lute, Ahmet Sisman and Call Super and 12 more. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -14,6 +14,7 @@ The Third Room: 32H at Fvtvr on Fri 18 Sept, Paris. 15 acts on the bill: .VRIL, 
 - abs8lute
 - Ahmet Sisman
 - Call Super
+- Chami
 - Christian AB
 - Fadi Mohem
 - Felix Fleer

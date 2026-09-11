@@ -1,14 +1,13 @@
 # The White Hotel
 
-The White Hotel is a music venue in Manchester with 39 upcoming nights listed on soundcheck as of Thu, 10 Sept 2026; the next is "Elegia x Mega Peste: Alessandro Adriani / Conor Thomas / Faux Naif / Anna Gray" on Thu, 10 Sept 2026.
+The White Hotel is a music venue in Manchester with 38 upcoming nights listed on soundcheck as of Fri, 11 Sept 2026; the next is "Bakk Heia 10th Bday (Part 2) w/Jorg Kuning (Live), Schuttle, Bitzer & Herc" on Fri, 11 Sept 2026.
 
-The White Hotel is a music venue in Manchester listed on soundcheck. 39 upcoming nights, with line-ups including Fastlove, ABADIR, Abena and Alessandro Adriani and 2 more. Browse upcoming dates, start times and who's playing. Dickinson Street Salford M3 7LW, United Kingdom.
+The White Hotel is a music venue in Manchester listed on soundcheck. 38 upcoming nights, with line-ups including Fastlove, ABADIR, Abena and Ana Roxanne and 2 more. Browse upcoming dates, start times and who's playing. Dickinson Street Salford M3 7LW, United Kingdom.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Thu, 10 Sept 2026 | Elegia x Mega Peste: Alessandro Adriani / Conor Thomas / Faux Naif / Anna Gray | Alessandro Adriani, Anna Gray, Conor Thomas, Faux Naif |
 | Fri, 11 Sept 2026 | Bakk Heia 10th Bday (Part 2) w/Jorg Kuning (Live), Schuttle, Bitzer & Herc | Bitzer Maloney, Jorg Kuning, Schuttle |
 | Sat, 12 Sept 2026 | Main Phase / Darwin / Zuri | Darwin, Main Phase, Zuri |
 | Thu, 17 Sept 2026 | JK Flesh | JK Flesh |
@@ -18,9 +17,10 @@ The White Hotel is a music venue in Manchester listed on soundcheck. 39 upcoming
 | Wed, 23 Sept 2026 | SELN presents Celebrating New Industrial: Years of Denial, Imminent [live], Esmé, Conrad + Gonz | Conrad Pack, DJ Gonz, Esmé, Years of Denial |
 | Fri, 25 Sept 2026 | KOMAoto: jackzebra | Kekeneko, Kop-Z, Unit YoRHa, roop |
 | Fri, 25 Sept 2026 | SVBKVLT: Slikback (live) / Ziur / ABADIR (live) / Mun Sing / Hyph11E / Swimful | ABADIR, Hyph11E, Mun Sing, Slikback, Swimful, Ziúr |
+| Sat, 26 Sept 2026 | Arpo 14: Call Super {14 ~ hours} | Call Super |
 
 ## Address
 
 Dickinson Street Salford M3 7LW, United Kingdom, Manchester
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/the-white-hotel/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/the-white-hotel/)*

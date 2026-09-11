@@ -1,6 +1,6 @@
 # Kobashi Mitsuki
 
-Kobashi Mitsuki is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 10 Sept 2026, next at Mitsuki, Tokyo on Mon, 14 Sept 2026.
+Kobashi Mitsuki is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at Mitsuki, Tokyo on Mon, 14 Sept 2026.
 
 Kobashi Mitsuki is a house and techno artist based in Japan, tracked on soundcheck, with 82 sets logged across Osaka and Tokyo. Often billed alongside Terax, niwa and lostbaggage. Next up: Mitsuki, Tokyo on Mon 14 Sept.
 
@@ -26,4 +26,4 @@ Kobashi Mitsuki is a house and techno artist based in Japan, tracked on soundche
 
 Terax, niwa, lostbaggage
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kobashimitsuki/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kobashimitsuki/)*

@@ -1,6 +1,6 @@
 # Carlo Bonanza
 
-Carlo Bonanza is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 10 Sept 2026, next at Jonny Knüppel, Berlin on Sat, 12 Sept 2026.
+Carlo Bonanza is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 11 Sept 2026, next at Jonny Knüppel, Berlin on Sat, 12 Sept 2026.
 
 Carlo Bonanza is a techno and house artist based in Germany, tracked on soundcheck, with 41 sets logged across Barcelona, Berlin, Cologne and Hamburg and 2 more. Often billed alongside lisa luka, Ciao 3lla and bīsu. Next up: Jonny Knüppel, Berlin on Sat 12 Sept.
 
@@ -25,4 +25,4 @@ Carlo Bonanza is a techno and house artist based in Germany, tracked on soundche
 
 lisa luka, Ciao 3lla, bīsu
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/carlobonanza/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/carlobonanza/)*

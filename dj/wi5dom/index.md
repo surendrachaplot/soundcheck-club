@@ -1,6 +1,6 @@
 # Wi5dom
 
-Wi5dom is a Progressive House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 10 Sept 2026, next at Beate Uwe, Berlin on Sat, 19 Sept 2026.
+Wi5dom is a Progressive House and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at Beate Uwe, Berlin on Sat, 19 Sept 2026.
 
 Wi5dom is a progressive house and techno artist tracked on soundcheck, with 22 sets logged across Berlin and Birmingham. Often billed alongside Bäggy, MARIE.MOON and Kriszpy. Next up: Beate Uwe, Berlin on Sat 19 Sept.
 
@@ -26,4 +26,4 @@ Wi5dom is a progressive house and techno artist tracked on soundcheck, with 22 s
 
 Bäggy, MARIE.MOON, Kriszpy
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/wi5dom/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/wi5dom/)*

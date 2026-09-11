@@ -1,6 +1,6 @@
 # Logan D
 
-Logan D is a Drum & Bass and Jungle artist with 4 upcoming club dates listed on soundcheck as of Thu, 10 Sept 2026, next at The Clock Factory, Bristol on Sat, 3 Oct 2026.
+Logan D is a Drum & Bass and Jungle artist with 4 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at The Clock Factory, Bristol on Sat, 3 Oct 2026.
 
 Logan D is a drum & bass and jungle artist tracked on soundcheck, with 46 sets logged across Amsterdam, Antwerp, Auckland and Bangkok and 8 more. Often billed alongside Eksman, Harry Shotta and Majistrate. Next up: The Clock Factory, Bristol on Sat 3 Oct.
 
@@ -28,4 +28,4 @@ Logan D is a drum & bass and jungle artist tracked on soundcheck, with 46 sets l
 
 Eksman, Harry Shotta, Majistrate
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/logand/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/logand/)*

@@ -1,14 +1,13 @@
 # Green Room NYC
 
-Green Room NYC is a music venue in New York City with 11 upcoming nights listed on soundcheck as of Thu, 10 Sept 2026; the next is "Golden Record NYC present Kiyoshi Invites" on Thu, 10 Sept 2026.
+Green Room NYC is a music venue in New York City with 10 upcoming nights listed on soundcheck as of Fri, 11 Sept 2026; the next is "Golden Record NYC x Vin.yl x WEBEO present Kai Alce, Ryan Crosson, Monile" on Fri, 11 Sept 2026.
 
-Green Room NYC is a music venue in Newyorkcity listed on soundcheck. 11 upcoming nights, with line-ups including ABEILLE, Andrés Dyer, Armii1n and Auphoria and 2 more. Browse upcoming dates, start times and who's playing. 195 Morgan Ave, Brooklyn, NY 11237.
+Green Room NYC is a music venue in Newyorkcity listed on soundcheck. 10 upcoming nights, with line-ups including ABEILLE, Andrés Dyer, Armii1n and Auphoria and 2 more. Browse upcoming dates, start times and who's playing. 195 Morgan Ave, Brooklyn, NY 11237.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Thu, 10 Sept 2026 | Golden Record NYC present Kiyoshi Invites | Kiyoshi |
 | Fri, 11 Sept 2026 | Golden Record NYC x Vin.yl x WEBEO present Kai Alce, Ryan Crosson, Monile | Borbón, CAÑITA, Diegoo, Kai Alce, Mario Polanco, Monile, Omer Mil, Ryan Crosson |
 | Sat, 12 Sept 2026 | Golden Record NYC x trommel present PLO Man, Dan Andrei | Andrés Dyer, Dan Andrei, Dana Ruh, Emsho, Jamie Jones, MaNu (UK), PLO Man |
 | Sun, 13 Sept 2026 | Love from the Sun: Deon Jamar, Specter, JADALAREIGN | Deon Jamar, JADALAREIGN, Specter |
@@ -18,9 +17,10 @@ Green Room NYC is a music venue in Newyorkcity listed on soundcheck. 11 upcoming
 | Sat, 26 Sept 2026 | Golden Record NYC presents Magda, Maara, Bruno Schmidt | Armii1n, Bruno Schmidt, Kiyoshi, Maara, Magda, Mike Servito, Morgan, Scotia |
 | Fri, 2 Oct 2026 | Golden Record NYC presents Josh Caffé (LIVE), Carlos Souffront, Mike Servito, S4M23 | Carlos Souffront, Josh Caffé, Mike Servito, S4M23 |
 | Fri, 2 Oct 2026 | People You May Know: Rich NXT | Auphoria, Jeny Michelle, MANE (IN), RICCI (US), Rich NXT, sanatswrld |
+| Fri, 9 Oct 2026 | Golden Record NYC present Colleen 'Cosmo' Murphy All Night Long / Que Sakamoto in the Alley | Colleen 'Cosmo' Murphy, Que Sakamoto |
 
 ## Address
 
 195 Morgan Ave, Brooklyn, NY 11237, New York City
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/green-room-nyc/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/green-room-nyc/)*

@@ -1,6 +1,6 @@
 # Strada
 
-Strada is a Dub and Drum & Bass artist with 1 upcoming club date listed on soundcheck as of Thu, 10 Sept 2026, next at THE MAGICK BAR, Rome on Fri, 11 Sept 2026.
+Strada is a Dub and Drum & Bass artist with 1 upcoming club date listed on soundcheck as of Fri, 11 Sept 2026, next at THE MAGICK BAR, Rome on Fri, 11 Sept 2026.
 
 Strada is a dub and drum & bass artist based in Italy, tracked on soundcheck, with 7 sets logged across Naples and Rome. Often billed alongside A-Tweed, Aitch (2) and Bluemarina. Next up: THE MAGICK BAR, Rome on Fri 11 Sept.
 
@@ -23,4 +23,4 @@ Strada is a dub and drum & bass artist based in Italy, tracked on soundcheck, wi
 
 A-Tweed, Aitch (2), Bluemarina
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/strada/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/strada/)*

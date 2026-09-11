@@ -1,6 +1,6 @@
 # Almar Beach Club
 
-Almar Beach Club is a music venue in Barcelona with 7 upcoming nights listed on soundcheck as of Thu, 10 Sept 2026; the next is "FREE BEACH PARTY _ ANK 6 YEARS ANNIVERSARY" on Fri, 11 Sept 2026.
+Almar Beach Club is a music venue in Barcelona with 7 upcoming nights listed on soundcheck as of Fri, 11 Sept 2026; the next is "FREE BEACH PARTY _ ANK 6 YEARS ANNIVERSARY" on Fri, 11 Sept 2026.
 
 Almar Beach Club is a music venue in Barcelona listed on soundcheck. 7 upcoming nights, with line-ups including Alessio Panasiti, Basement Scene, Breezy S and CAZOU and 2 more. Browse upcoming dates, start times and who's playing. Carrer de Dolores Ibarruri Pasionaria, 08930 Sant Adrià de Besòs, Barcelona.
 
@@ -20,4 +20,4 @@ Almar Beach Club is a music venue in Barcelona listed on soundcheck. 7 upcoming 
 
 Carrer de Dolores Ibarruri Pasionaria, 08930 Sant Adrià de Besòs, Barcelona, Barcelona
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/almar-beach-club/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/almar-beach-club/)*

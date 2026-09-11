@@ -1,6 +1,6 @@
 # Florentino
 
-Florentino is a Reggaeton and Latin Bass artist with 3 upcoming club dates listed on soundcheck as of Thu, 10 Sept 2026, next at Colour Factory, London on Thu, 17 Sept 2026.
+Florentino is a Reggaeton and Latin Bass artist with 3 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at Colour Factory, London on Thu, 17 Sept 2026.
 
 Florentino is a reggaeton and latin bass artist tracked on soundcheck, with 79 sets logged across Amsterdam, Barcelona, Belgrade and Berlin and 21 more. Often billed alongside Manuka Honey, Safety Trance and Bitter Babe. Next up: Colour Factory, London on Thu 17 Sept.
 
@@ -27,4 +27,4 @@ Florentino is a reggaeton and latin bass artist tracked on soundcheck, with 79 s
 
 Manuka Honey, Safety Trance, Bitter Babe
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/florentino/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/florentino/)*

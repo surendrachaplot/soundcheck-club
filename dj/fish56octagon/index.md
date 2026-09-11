@@ -1,6 +1,6 @@
 # Fish56Octagon
 
-Fish56Octagon is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Thu, 10 Sept 2026, next at Rowans Tenpin Bowl, London on Thu, 17 Sept 2026.
+Fish56Octagon is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at Rowans Tenpin Bowl, London on Thu, 17 Sept 2026.
 
 Fish56Octagon is a house and techno artist tracked on soundcheck, with 62 sets logged across Amsterdam, Birmingham, Brighton and Bristol and 24 more. Often billed alongside Ben Hemsley, 4am Kru and Ghoulish. Next up: Rowans Tenpin Bowl, London on Thu 17 Sept.
 
@@ -29,4 +29,4 @@ Fish56Octagon is a house and techno artist tracked on soundcheck, with 62 sets l
 
 Ben Hemsley, 4am Kru, Ghoulish
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/fish56octagon/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/fish56octagon/)*

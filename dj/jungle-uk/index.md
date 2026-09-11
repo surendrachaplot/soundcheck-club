@@ -1,8 +1,8 @@
 # Jungle (UK)
 
-Jungle (UK) is a Drum & Bass and Jungle artist with 2 upcoming club dates listed on soundcheck as of Thu, 10 Sept 2026, next at LDN East, London on Sat, 26 Sept 2026.
+Jungle (UK) is a Drum & Bass and Jungle artist with 3 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at LDN East, London on Sat, 26 Sept 2026.
 
-Jungle (UK) is a drum & bass and jungle artist tracked on soundcheck, with 79 sets logged across Amsterdam, Bali, Barcelona and Belfast and 36 more. Often billed alongside Bass, Bassline and Carlita. Next up: LDN East, London on Sat 26 Sept.
+Jungle (UK) is a drum & bass and jungle artist tracked on soundcheck, with 80 sets logged across Amsterdam, Bali, Barcelona and Belfast and 36 more. Often billed alongside Bass, Bassline and Carlita. Next up: LDN East, London on Sat 26 Sept.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Jungle (UK) is a drum & bass and jungle artist tracked on soundcheck, with 79 se
 | --- | --- | --- |
 | Sat, 26 Sept 2026 | LDN East | London |
 | Fri, 30 Oct 2026 | Accor Arena | Paris |
+| Sat, 31 Oct 2026 | Brussels Gate | Brussels |
 
 ## Recently played
 
@@ -26,4 +27,4 @@ Jungle (UK) is a drum & bass and jungle artist tracked on soundcheck, with 79 se
 
 Bass, Bassline, Carlita
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jungle-uk/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jungle-uk/)*

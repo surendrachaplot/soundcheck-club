@@ -1,6 +1,6 @@
 # Slot
 
-Slot is a music venue in Hamburg with 2 upcoming nights listed on soundcheck as of Thu, 10 Sept 2026; the next is "TOSAM Soliparty" on Fri, 11 Sept 2026.
+Slot is a music venue in Hamburg with 2 upcoming nights listed on soundcheck as of Fri, 11 Sept 2026; the next is "TOSAM Soliparty" on Fri, 11 Sept 2026.
 
 Slot is a music venue in Hamburg listed on soundcheck. 2 upcoming nights, with line-ups including ASSISTANT DJ, Breaka, GOOSINDRA and Nassstya. Browse upcoming dates, start times and who's playing. Zeiseweg 9 / Bodenstedtstraße , 22765 Hamburg, Germany.
 
@@ -15,4 +15,4 @@ Slot is a music venue in Hamburg listed on soundcheck. 2 upcoming nights, with l
 
 Zeiseweg 9 / Bodenstedtstraße , 22765 Hamburg, Germany, Hamburg
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/hamburg/club/slot/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/hamburg/club/slot/)*

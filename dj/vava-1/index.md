@@ -1,6 +1,6 @@
 # Vava (1)
 
-Vava (1) is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 10 Sept 2026, next at Textilgyár, Budapest on Fri, 11 Sept 2026.
+Vava (1) is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 11 Sept 2026, next at Textilgyár, Budapest on Fri, 11 Sept 2026.
 
 Vava (1) is a techno and house artist based in Hungary, tracked on soundcheck, with 9 sets logged across Budapest. Often billed alongside Disandat, Kiuz and Pizza Amore. Next up: Textilgyár, Budapest on Fri 11 Sept.
 
@@ -25,4 +25,4 @@ Vava (1) is a techno and house artist based in Hungary, tracked on soundcheck, w
 
 Disandat, Kiuz, Pizza Amore
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/vava-1/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/vava-1/)*

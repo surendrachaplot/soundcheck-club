@@ -1,6 +1,6 @@
 # Darone Sassounian
 
-Darone Sassounian is a House and Disco artist with 3 upcoming club dates listed on soundcheck as of Thu, 10 Sept 2026, next at MCA Alfortville, Paris on Fri, 18 Sept 2026.
+Darone Sassounian is a House and Disco artist with 3 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at MCA Alfortville, Paris on Fri, 18 Sept 2026.
 
 Darone Sassounian is a house and disco artist based in United States of America, tracked on soundcheck, with 62 sets logged across Athens, Losangeles, Montreal and Newyorkcity and 3 more. Often billed alongside Lara Sarkissian, Mike Gushansky and Dave Aju. Next up: MCA Alfortville, Paris on Fri 18 Sept.
 
@@ -27,4 +27,4 @@ Darone Sassounian is a house and disco artist based in United States of America,
 
 Lara Sarkissian, Mike Gushansky, Dave Aju
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/daronesassounian/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/daronesassounian/)*

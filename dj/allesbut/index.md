@@ -1,6 +1,6 @@
 # allesbut
 
-allesbut is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 10 Sept 2026, next at Rauch Haus Squat, Berlin on Sat, 12 Sept 2026.
+allesbut is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 11 Sept 2026, next at Rauch Haus Squat, Berlin on Sat, 12 Sept 2026.
 
 allesbut is a house and techno artist based in Germany, tracked on soundcheck, with 5 sets logged across Berlin. Often billed alongside Belanze, DJ Börek and DJ BONEY S. Next up: Rauch Haus Squat, Berlin on Sat 12 Sept.
 
@@ -21,4 +21,4 @@ allesbut is a house and techno artist based in Germany, tracked on soundcheck, w
 
 Belanze, DJ Börek, DJ BONEY S
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/allesbut/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/allesbut/)*

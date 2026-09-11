@@ -1,6 +1,6 @@
 # Marla Kether
 
-Marla Kether is a House and Jazz artist with 3 upcoming club dates listed on soundcheck as of Thu, 10 Sept 2026, next at Two Tribes CAMPFIRE, London on Fri, 11 Sept 2026.
+Marla Kether is a House and Jazz artist with 3 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at Two Tribes CAMPFIRE, London on Fri, 11 Sept 2026.
 
 Marla Kether is a house and jazz artist tracked on soundcheck, with 37 sets logged across Bristol, Cardiff, Lisbon and London. Often billed alongside Cable!, Jamie Joy and Baitman. Next up: Two Tribes CAMPFIRE, London on Fri 11 Sept.
 
@@ -27,4 +27,4 @@ Marla Kether is a house and jazz artist tracked on soundcheck, with 37 sets logg
 
 Cable!, Jamie Joy, Baitman
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/marlakether/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/marlakether/)*

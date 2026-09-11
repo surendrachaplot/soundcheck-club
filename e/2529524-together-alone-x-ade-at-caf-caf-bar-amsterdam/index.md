@@ -1,6 +1,6 @@
 # Together Alone x ADE at Café Café Bar Amsterdam
 
-Together Alone x ADE at Café Café Bar Amsterdam on Fri 23 Oct, Amsterdam. 6 acts on the bill: ANXHELA, ECZODIA, KØZLØV and LESSSS and 2 more. Techno and Acid. Preview the line-up and save it on soundcheck.
+Together Alone x ADE at Café Café Bar Amsterdam on Fri 23 Oct, Amsterdam. 8 acts on the bill: 25EMEHEURE, ANXHELA, ECZODIA and KAAI and 4 more. Techno and Acid. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,8 +10,10 @@ Together Alone x ADE at Café Café Bar Amsterdam on Fri 23 Oct, Amsterdam. 6 ac
 
 ## Line-up
 
+- 25EMEHEURE
 - ANXHELA
 - ECZODIA
+- KAAI
 - KØZLØV
 - LESSSS
 - NORO$T

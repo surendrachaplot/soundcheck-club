@@ -1,6 +1,6 @@
 # Anthony Linell
 
-Anthony Linell is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Thu, 10 Sept 2026, next at Tresor / Globus, Berlin on Fri, 11 Sept 2026.
+Anthony Linell is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at Tresor / Globus, Berlin on Fri, 11 Sept 2026.
 
 Anthony Linell is a techno and house artist based in Sweden, tracked on soundcheck, with 95 sets logged across Amsterdam, Athens, Barcelona and Belgrade and 21 more. Often billed alongside Evigt Mörker, Jin Mustafa and Neel. Next up: Tresor / Globus, Berlin on Fri 11 Sept.
 
@@ -9,9 +9,9 @@ Anthony Linell is a techno and house artist based in Sweden, tracked on soundche
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 11 Sept 2026 | Tresor / Globus | Berlin |
-| Sat, 12 Sept 2026 | Razzmatazz | Barcelona |
 | Sat, 19 Sept 2026 | vurt. | Seoul |
 | Sat, 10 Oct 2026 | TBA -  Kummelholmen | Stockholm |
+| Sun, 11 Oct 2026 | Razzmatazz | Barcelona |
 | Thu, 15 Oct 2026 | Berghain / Panorama Bar / Säule | Berlin |
 
 ## Recently played
@@ -29,4 +29,4 @@ Anthony Linell is a techno and house artist based in Sweden, tracked on soundche
 
 Evigt Mörker, Jin Mustafa, Neel
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/anthonylinell/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/anthonylinell/)*

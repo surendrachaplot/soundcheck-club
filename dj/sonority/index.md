@@ -1,6 +1,6 @@
 # Sonority
 
-Sonority is a House and IDM artist with 1 upcoming club date listed on soundcheck as of Thu, 10 Sept 2026, next at MoN Takanawa: The Museum of Narratives, Tokyo on Fri, 20 Nov 2026.
+Sonority is a House and IDM artist with 1 upcoming club date listed on soundcheck as of Fri, 11 Sept 2026, next at MoN Takanawa: The Museum of Narratives, Tokyo on Fri, 20 Nov 2026.
 
 Sonority is a house and idm artist based in Czech Republic, tracked on soundcheck, with 6 sets logged across Prague and Tokyo. Often billed alongside Alberto Tolo, Ansea and BORKA FM. Next up: MoN Takanawa: The Museum of Narratives, Tokyo on Fri 20 Nov.
 
@@ -22,4 +22,4 @@ Sonority is a house and idm artist based in Czech Republic, tracked on soundchec
 
 Alberto Tolo, Ansea, BORKA FM
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sonority/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sonority/)*

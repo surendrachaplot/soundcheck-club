@@ -1,6 +1,6 @@
 # Yago Quera
 
-Yago Quera is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 10 Sept 2026, next at feedbk, New York City on Sun, 13 Sept 2026.
+Yago Quera is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 11 Sept 2026, next at feedbk, New York City on Sun, 13 Sept 2026.
 
 Yago Quera is a house and techno artist based in Spain, tracked on soundcheck, with 8 sets logged across Barcelona and Newyorkcity. Often billed alongside Adria (ES), Pau Rosés and Chuwee. Next up: feedbk, Newyorkcity on Sun 13 Sept.
 
@@ -24,4 +24,4 @@ Yago Quera is a house and techno artist based in Spain, tracked on soundcheck, w
 
 Adria (ES), Pau Rosés, Chuwee
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/yagoquera/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/yagoquera/)*

@@ -1,6 +1,6 @@
 # Camy Huot
 
-Camy Huot is a EBM and Post-Punk artist with 2 upcoming club dates listed on soundcheck as of Thu, 10 Sept 2026, next at Cinetol, Amsterdam on Sat, 26 Sept 2026.
+Camy Huot is a EBM and Post-Punk artist with 2 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at Cinetol, Amsterdam on Sat, 26 Sept 2026.
 
 Camy Huot is an ebm and post-punk artist based in Netherlands, tracked on soundcheck, with 21 sets logged across Amsterdam, Antwerp, Frankfurt and Hamburg and 4 more. Often billed alongside Parrish Smith, Curses and 2+2=5. Next up: Cinetol, Amsterdam on Sat 26 Sept.
 
@@ -26,4 +26,4 @@ Camy Huot is an ebm and post-punk artist based in Netherlands, tracked on soundc
 
 Parrish Smith, Curses, 2+2=5
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/camyhuot/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/camyhuot/)*

@@ -1,6 +1,6 @@
 # TBA - DTLA
 
-TBA - DTLA is a music venue in Los Angeles with 15 upcoming nights listed on soundcheck as of Thu, 10 Sept 2026; the next is "PULP: EVOLUTION (RAVE + ART GALLERY)" on Fri, 11 Sept 2026.
+TBA - DTLA is a music venue in Los Angeles with 15 upcoming nights listed on soundcheck as of Fri, 11 Sept 2026; the next is "PULP: EVOLUTION (RAVE + ART GALLERY)" on Fri, 11 Sept 2026.
 
 TBA - DTLA is a music venue in Losangeles listed on soundcheck. 15 upcoming nights, with line-ups including 6 SENSE, agraybé, Anenon and Barbara Boeing and 2 more. Browse upcoming dates, start times and who's playing.
 
@@ -19,4 +19,4 @@ TBA - DTLA is a music venue in Losangeles listed on soundcheck. 15 upcoming nigh
 | Sun, 27 Sept 2026 | Wellness Check presents: Pavel Milyakov (live), Anenon (live), agraybé | Anenon, Buttechno, agraybé |
 | Fri, 2 Oct 2026 | Toy Tonics Jam - Los Angeles | Barbara Boeing, Cody Currie, Xica Soul |
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/tba-dtla/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/tba-dtla/)*

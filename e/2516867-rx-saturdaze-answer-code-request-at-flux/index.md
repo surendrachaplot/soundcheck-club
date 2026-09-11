@@ -1,6 +1,6 @@
 # RX Saturdaze: Answer Code Request at Flux
 
-RX Saturdaze: Answer Code Request at Flux on Sat 26 Sept, Istanbul. 1 act on the bill: Answer Code Request. Techno. Preview the line-up and save it on soundcheck.
+RX Saturdaze: Answer Code Request at Flux on Sat 26 Sept, Istanbul. 3 acts on the bill: Answer Code Request, Belin and Ece Özel. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,5 +11,7 @@ RX Saturdaze: Answer Code Request at Flux on Sat 26 Sept, Istanbul. 1 act on the
 ## Line-up
 
 - Answer Code Request
+- Belin
+- Ece Özel
 
 *Source: [soundcheck](https://soundcheck.club/e/2516867-rx-saturdaze-answer-code-request-at-flux/)*

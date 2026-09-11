@@ -1,6 +1,6 @@
 # Fabian Laute
 
-Fabian Laute is a Psytrance and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 10 Sept 2026, next at White Space Lab, Tokyo on Fri, 9 Oct 2026.
+Fabian Laute is a Psytrance and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 11 Sept 2026, next at White Space Lab, Tokyo on Fri, 9 Oct 2026.
 
 Fabian Laute is a psytrance and techno artist tracked on soundcheck, with 5 sets logged across Berlin, Cologne, Hamburg and Tokyo. Often billed alongside A.B.U., ALLY and Aksamit. Next up: White Space Lab, Tokyo on Fri 9 Oct.
 
@@ -21,4 +21,4 @@ Fabian Laute is a psytrance and techno artist tracked on soundcheck, with 5 sets
 
 A.B.U., ALLY, Aksamit
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/fabianlaute/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/fabianlaute/)*

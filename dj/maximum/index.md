@@ -1,6 +1,6 @@
 # MAXImum
 
-MAXImum is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Thu, 10 Sept 2026, next at E1, London on Sat, 17 Oct 2026.
+MAXImum is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at E1, London on Sat, 17 Oct 2026.
 
 MAXImum is a techno and trance artist based in Greece, tracked on soundcheck, with 14 sets logged across Athens, Dublin, Ibiza and London and 2 more. Often billed alongside Djammin, Mother Menace and The Menendez Brothers. Next up: E1, London on Sat 17 Oct.
 
@@ -9,7 +9,7 @@ MAXImum is a techno and trance artist based in Greece, tracked on soundcheck, wi
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 17 Oct 2026 | E1 | London |
-| Sat, 7 Nov 2026 | Oddity Club | Athens |
+| Sat, 7 Nov 2026 | TBA | Athens |
 
 ## Recently played
 
@@ -26,4 +26,4 @@ MAXImum is a techno and trance artist based in Greece, tracked on soundcheck, wi
 
 Djammin, Mother Menace, The Menendez Brothers
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/maximum/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/maximum/)*

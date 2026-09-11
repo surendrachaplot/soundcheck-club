@@ -1,6 +1,6 @@
 # Martyn Bootyspoon
 
-Martyn Bootyspoon is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 10 Sept 2026, next at Piknic Électronik / Parc Jean Drapeau, Montreal on Sun, 27 Sept 2026.
+Martyn Bootyspoon is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at Piknic Électronik / Parc Jean Drapeau, Montreal on Sun, 27 Sept 2026.
 
 Martyn Bootyspoon is a techno and house artist tracked on soundcheck, with 104 sets logged across Austin, Berlin, Chicago and Denver and 19 more. Often billed alongside Goddollars, Jacques Greene and Finn. Next up: Piknic Électronik / Parc Jean Drapeau, Montreal on Sun 27 Sept.
 
@@ -26,4 +26,4 @@ Martyn Bootyspoon is a techno and house artist tracked on soundcheck, with 104 s
 
 Goddollars, Jacques Greene, Finn
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/martynbootyspoon/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/martynbootyspoon/)*

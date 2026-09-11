@@ -1,6 +1,6 @@
 # AAMIROO
 
-AAMIROO is a House and Trance artist with 1 upcoming club date listed on soundcheck as of Thu, 10 Sept 2026, next at Renate, Berlin on Fri, 11 Sept 2026.
+AAMIROO is a House and Trance artist with 1 upcoming club date listed on soundcheck as of Fri, 11 Sept 2026, next at Renate, Berlin on Fri, 11 Sept 2026.
 
 AAMIROO is a house and trance artist based in Iran, tracked on soundcheck, with 23 sets logged across Berlin, Cologne and London. Often billed alongside Aalia Iraki, Adam Cooke and Bloomfield. Next up: Renate, Berlin on Fri 11 Sept.
 
@@ -25,4 +25,4 @@ AAMIROO is a house and trance artist based in Iran, tracked on soundcheck, with 
 
 Aalia Iraki, Adam Cooke, Bloomfield
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/aamiroo/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/aamiroo/)*

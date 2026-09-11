@@ -1,13 +1,14 @@
 # Julie Marghilano
 
-Julie Marghilano is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 10 Sept 2026, next at Signal, New York City on Fri, 30 Oct 2026.
+Julie Marghilano is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at ://about blank, Berlin on Fri, 18 Sept 2026.
 
-Julie Marghilano is a house and techno artist based in Germany, tracked on soundcheck, with 64 sets logged across Amsterdam, Bangkok, Berlin and Brussels and 10 more. Often billed alongside Corrina, Alexkid and J. Richards. Next up: Signal, Newyorkcity on Fri 30 Oct.
+Julie Marghilano is a house and techno artist based in Germany, tracked on soundcheck, with 65 sets logged across Amsterdam, Bangkok, Berlin and Brussels and 10 more. Often billed alongside Corrina, Alexkid and J. Richards. Next up: ://about blank, Berlin on Fri 18 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 18 Sept 2026 | ://about blank | Berlin |
 | Fri, 30 Oct 2026 | Signal | New York City |
 
 ## Recently played
@@ -25,4 +26,4 @@ Julie Marghilano is a house and techno artist based in Germany, tracked on sound
 
 Corrina, Alexkid, J. Richards
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/juliemarghilano/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/juliemarghilano/)*

@@ -1,6 +1,6 @@
 # Volumens Closing Party: DJ Marcelle (3 hour set) , Saint Abdullah & Eomac (live) more tba at 16 Toneladas
 
-Volumens Closing Party: DJ Marcelle (3 hour set) , Saint Abdullah & Eomac (live) more tba at 16 Toneladas on Sat 17 Oct, Valencia. 2 acts on the bill: DJ Marcelle and Eomac. Experimental and Dub Techno. Preview the line-up and save it on soundcheck.
+Volumens Closing Party: DJ Marcelle (3 hour set) , Saint Abdullah & Eomac (live) more tba at 16 Toneladas on Sat 17 Oct, Valencia. 2 acts on the bill: DJ Marcelle and Eomac. Experimental and Electronica. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

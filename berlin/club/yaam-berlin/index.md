@@ -1,6 +1,6 @@
 # YAAM Berlin
 
-YAAM Berlin is a music venue in Berlin with 3 upcoming nights listed on soundcheck as of Thu, 10 Sept 2026; the next is "Flora Sonora One Year Anniversary" on Sat, 19 Sept 2026.
+YAAM Berlin is a music venue in Berlin with 3 upcoming nights listed on soundcheck as of Fri, 11 Sept 2026; the next is "Flora Sonora One Year Anniversary" on Sat, 19 Sept 2026.
 
 YAAM Berlin is a music venue in Berlin listed on soundcheck. 3 upcoming nights, with line-ups including alllone, DJ BuneKaoJR, DJ Chromz and Dj Quien and 2 more. Browse upcoming dates, start times and who's playing. An der Schillingbrücke 3, 10243 Berlin, Germany.
 
@@ -16,4 +16,4 @@ YAAM Berlin is a music venue in Berlin listed on soundcheck. 3 upcoming nights, 
 
 An der Schillingbrücke 3, 10243 Berlin, Germany, Berlin
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/yaam-berlin/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/yaam-berlin/)*

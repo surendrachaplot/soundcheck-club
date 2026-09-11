@@ -1,6 +1,6 @@
 # ELIF
 
-ELIF is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Thu, 10 Sept 2026, next at Openluchttheater Amersfoort, Amsterdam on Fri, 18 Sept 2026.
+ELIF is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at Openluchttheater Amersfoort, Amsterdam on Fri, 18 Sept 2026.
 
 ELIF is a house and techno artist tracked on soundcheck, with 140 sets logged across Amsterdam, Bali, Barcelona and Basel and 32 more. Often billed alongside Mira, Britta Arnold and Chris Schwarzwälder. Next up: Openluchttheater Amersfoort, Amsterdam on Fri 18 Sept.
 
@@ -28,4 +28,4 @@ ELIF is a house and techno artist tracked on soundcheck, with 140 sets logged ac
 
 Mira, Britta Arnold, Chris Schwarzwälder
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/elif/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/elif/)*

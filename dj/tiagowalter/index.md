@@ -1,6 +1,6 @@
 # Tiago Walter
 
-Tiago Walter is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 10 Sept 2026, next at The Cause, London on Sat, 26 Sept 2026.
+Tiago Walter is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 11 Sept 2026, next at The Cause, London on Sat, 26 Sept 2026.
 
 Tiago Walter is a house and techno artist based in Germany, tracked on soundcheck, with 29 sets logged across Amsterdam, Barcelona, Berlin and Brussels and 6 more. Often billed alongside Jannis Brinkmann, Phil Evans and Markus Sommer. Next up: The Cause, London on Sat 26 Sept.
 
@@ -25,4 +25,4 @@ Tiago Walter is a house and techno artist based in Germany, tracked on soundchec
 
 Jannis Brinkmann, Phil Evans, Markus Sommer
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tiagowalter/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tiagowalter/)*

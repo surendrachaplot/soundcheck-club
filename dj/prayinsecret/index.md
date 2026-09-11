@@ -1,6 +1,6 @@
 # prayinsecret
 
-prayinsecret is a Electro and Electronica artist with 1 upcoming club date listed on soundcheck as of Thu, 10 Sept 2026, next at TBA - 793 Dunas St W, Toronto on Sat, 26 Sept 2026.
+prayinsecret is a Electro and Electronica artist with 1 upcoming club date listed on soundcheck as of Fri, 11 Sept 2026, next at TBA - 793 Dunas St W, Toronto on Sat, 26 Sept 2026.
 
 prayinsecret is an electro and electronica artist based in Canada, tracked on soundcheck, with 20 sets logged across Montreal and Toronto. Often billed alongside sopretty, Boysinblush and 1-800 NATZ. Next up: TBA - 793 Dunas St W, Toronto on Sat 26 Sept.
 
@@ -25,4 +25,4 @@ prayinsecret is an electro and electronica artist based in Canada, tracked on so
 
 sopretty, Boysinblush, 1-800 NATZ
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/prayinsecret/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/prayinsecret/)*

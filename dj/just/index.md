@@ -1,6 +1,6 @@
 # Jus’T
 
-Jus’T is a House and Pop artist with 1 upcoming club date listed on soundcheck as of Thu, 10 Sept 2026, next at Cuckoo Prestwich, Manchester on Sat, 5 Dec 2026.
+Jus’T is a House and Pop artist with 1 upcoming club date listed on soundcheck as of Fri, 11 Sept 2026, next at Cuckoo Prestwich, Manchester on Sat, 5 Dec 2026.
 
 Jus’T is a house and pop artist based in United Kingdom, tracked on soundcheck, with 6 sets logged across Manchester. Often billed alongside Aiden Francis, Egg On Toast and Michael Upson. Next up: Cuckoo Prestwich, Manchester on Sat 5 Dec.
 
@@ -22,4 +22,4 @@ Jus’T is a house and pop artist based in United Kingdom, tracked on soundcheck
 
 Aiden Francis, Egg On Toast, Michael Upson
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/just/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/just/)*

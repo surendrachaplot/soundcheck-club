@@ -1,6 +1,6 @@
 # Tris (UK)
 
-Tris (UK) is a Progressive House and Deep House artist with 1 upcoming club date listed on soundcheck as of Thu, 10 Sept 2026, next at Two Tribes CAMPFIRE, London on Fri, 25 Sept 2026.
+Tris (UK) is a Progressive House and Deep House artist with 1 upcoming club date listed on soundcheck as of Fri, 11 Sept 2026, next at Two Tribes CAMPFIRE, London on Fri, 25 Sept 2026.
 
 Tris (UK) is a progressive house and deep house artist tracked on soundcheck, with 47 sets logged across Berlin, Birmingham, London and Malta and 2 more. Often billed alongside GYS (TT), Nour (UK) and Naws. Next up: Two Tribes CAMPFIRE, London on Fri 25 Sept.
 
@@ -25,4 +25,4 @@ Tris (UK) is a progressive house and deep house artist tracked on soundcheck, wi
 
 GYS (TT), Nour (UK), Naws
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/trisuk/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/trisuk/)*

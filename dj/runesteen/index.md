@@ -1,6 +1,6 @@
 # Rune Steen
 
-Rune Steen is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Thu, 10 Sept 2026, next at Promenaden Eck, Berlin on Fri, 11 Sept 2026.
+Rune Steen is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at Promenaden Eck, Berlin on Fri, 11 Sept 2026.
 
 Rune Steen is a house and disco artist tracked on soundcheck, with 20 sets logged across Berlin. Often billed alongside Lobo (DE), 7ommes and ADAM REC.. Next up: Promenaden Eck, Berlin on Fri 11 Sept.
 
@@ -26,4 +26,4 @@ Rune Steen is a house and disco artist tracked on soundcheck, with 20 sets logge
 
 Lobo (DE), 7ommes, ADAM REC.
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/runesteen/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/runesteen/)*

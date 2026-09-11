@@ -1,14 +1,14 @@
 # Cassette
 
-Cassette is a House and Deep House artist with 2 upcoming club dates listed on soundcheck as of Thu, 10 Sept 2026, next at The Cellar, Sydney on Sat, 12 Sept 2026.
+Cassette is a House and Deep House artist with 2 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at Spice Cellar, Sydney on Sat, 12 Sept 2026.
 
-Cassette is a house and deep house artist based in Australia, tracked on soundcheck, with 62 sets logged across Auckland, Bali, Brisbane and Melbourne and 1 more. Often billed alongside Danni B, Ben Nott and Elijah Something. Next up: The Cellar, Sydney on Sat 12 Sept.
+Cassette is a house and deep house artist based in Australia, tracked on soundcheck, with 62 sets logged across Auckland, Bali, Brisbane and Melbourne and 1 more. Often billed alongside Danni B, Ben Nott and Elijah Something. Next up: Spice Cellar, Sydney on Sat 12 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 12 Sept 2026 | The Cellar | Sydney |
+| Sat, 12 Sept 2026 | Spice Cellar | Sydney |
 | Sat, 3 Oct 2026 | TBA - 2.5 Hours from Sydney | Sydney |
 
 ## Recently played
@@ -26,4 +26,4 @@ Cassette is a house and deep house artist based in Australia, tracked on soundch
 
 Danni B, Ben Nott, Elijah Something
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/cassette/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/cassette/)*

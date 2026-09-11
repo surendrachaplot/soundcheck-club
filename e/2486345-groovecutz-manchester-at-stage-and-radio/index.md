@@ -1,6 +1,6 @@
 # GROOVECUTZ: Manchester at Stage and Radio
 
-GROOVECUTZ: Manchester at Stage and Radio on Sat 17 Oct, Manchester. 4 acts on the bill: AJ Jonesy, CHAMBERS (UK), Fentonffp and GRIGGY. House and Garage. Preview the line-up and save it on soundcheck.
+GROOVECUTZ: Manchester at Stage and Radio on Sat 17 Oct, Manchester. 5 acts on the bill: AJ Jonesy, CHAMBERS (UK), Fentonffp and GRIGGY and 1 more. House and Garage. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -14,5 +14,6 @@ GROOVECUTZ: Manchester at Stage and Radio on Sat 17 Oct, Manchester. 4 acts on t
 - CHAMBERS (UK)
 - Fentonffp
 - GRIGGY
+- KRIS B (UK)
 
 *Source: [soundcheck](https://soundcheck.club/e/2486345-groovecutz-manchester-at-stage-and-radio/)*

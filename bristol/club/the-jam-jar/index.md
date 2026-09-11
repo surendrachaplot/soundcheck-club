@@ -1,6 +1,6 @@
 # The Jam Jar
 
-The Jam Jar is a music venue in Bristol with 4 upcoming nights listed on soundcheck as of Thu, 10 Sept 2026; the next is "Terrain: 'Bangers Without Borders' feat. Kom Kom" on Sat, 26 Sept 2026.
+The Jam Jar is a music venue in Bristol with 4 upcoming nights listed on soundcheck as of Fri, 11 Sept 2026; the next is "Terrain: 'Bangers Without Borders' feat. Kom Kom" on Sat, 26 Sept 2026.
 
 The Jam Jar is a music venue in Bristol listed on soundcheck. 4 upcoming nights, with line-ups including 2 Bad Mice, Abby Daze, Chamba and Charlie Stoic and 2 more. Browse upcoming dates, start times and who's playing. Little Ann St, Bristol BS2 9EB, United Kingdom.
 
@@ -17,4 +17,4 @@ The Jam Jar is a music venue in Bristol listed on soundcheck. 4 upcoming nights,
 
 Little Ann St, Bristol BS2 9EB, United Kingdom, Bristol
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/bristol/club/the-jam-jar/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/bristol/club/the-jam-jar/)*

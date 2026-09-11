@@ -1,6 +1,6 @@
 # Parco ex Area Pozzi
 
-Parco ex Area Pozzi is a music venue in Milan with 1 upcoming night listed on soundcheck as of Thu, 10 Sept 2026; the next is "HAMSA Open Air Ritual" on Sat, 19 Sept 2026.
+Parco ex Area Pozzi is a music venue in Milan with 1 upcoming night listed on soundcheck as of Fri, 11 Sept 2026; the next is "HAMSA Open Air Ritual" on Sat, 19 Sept 2026.
 
 Parco ex Area Pozzi is a music venue in Milan listed on soundcheck. 1 upcoming night, with line-ups including ELIHU. Browse upcoming dates, start times and who's playing. 20094 Corsico, Metropolitan City of Milan, Italy.
 
@@ -14,4 +14,4 @@ Parco ex Area Pozzi is a music venue in Milan listed on soundcheck. 1 upcoming n
 
 20094 Corsico, Metropolitan City of Milan, Italy, Milan
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/milan/club/parco-ex-area-pozzi/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/milan/club/parco-ex-area-pozzi/)*

@@ -1,6 +1,6 @@
 # Freddi
 
-Freddi is a House and Techno artist with 7 upcoming club dates listed on soundcheck as of Thu, 10 Sept 2026, next at Laagravense Plas, Utrecht on Sat, 12 Sept 2026.
+Freddi is a House and Techno artist with 7 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at Laagravense Plas, Utrecht on Sat, 12 Sept 2026.
 
 Freddi is a house and techno artist based in Netherlands, tracked on soundcheck, with 45 sets logged across Amsterdam, Antwerp, Madrid and Rotterdam and 2 more. Often billed alongside OLIVIA LENSEN, Gerardo Niva and Kara Okay. Next up: Laagravense Plas, Utrecht on Sat 12 Sept.
 
@@ -31,4 +31,4 @@ Freddi is a house and techno artist based in Netherlands, tracked on soundcheck,
 
 OLIVIA LENSEN, Gerardo Niva, Kara Okay
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/freddi/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/freddi/)*

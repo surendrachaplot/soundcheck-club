@@ -1,6 +1,6 @@
 # Myles Mac
 
-Myles Mac is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Thu, 10 Sept 2026, next at Camp Kennybrook, New York City on Thu, 10 Sept 2026.
+Myles Mac is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at Camp Kennybrook, New York City on Thu, 10 Sept 2026.
 
 Myles Mac is a house and techno artist tracked on soundcheck, with 80 sets logged across Berlin, Copenhagen, London and Losangeles and 5 more. Often billed alongside DJ Possum, Andy Hart and Bex. Next up: Camp Kennybrook, Newyorkcity on Thu 10 Sept.
 
@@ -14,6 +14,7 @@ Myles Mac is a house and techno artist tracked on soundcheck, with 80 sets logge
 
 ## Recently played
 
+- Camp Kennybrook, New York City — Thu, 10 Sept 2026
 - Nowadays, New York City — Sun, 6 Sept 2026
 - The Glove That Fits, London — Sat, 29 Aug 2026
 - Tresor / Globus, Berlin — Sat, 8 Aug 2026
@@ -21,10 +22,9 @@ Myles Mac is a house and techno artist tracked on soundcheck, with 80 sets logge
 - Coil, Melbourne — Fri, 24 Jul 2026
 - Solace, Melbourne — Sat, 18 Jul 2026
 - The Night Cat, Melbourne — Fri, 26 Jun 2026
-- Solace, Melbourne — Sat, 20 Jun 2026
 
 ## Shares bills with
 
 DJ Possum, Andy Hart, Bex
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mylesmac/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mylesmac/)*

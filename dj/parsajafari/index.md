@@ -1,6 +1,6 @@
 # Parsa Jafari
 
-Parsa Jafari is a Techno and Industrial artist with 2 upcoming club dates listed on soundcheck as of Thu, 10 Sept 2026, next at Eden, Ibiza on Tue, 15 Sept 2026.
+Parsa Jafari is a Techno and Industrial artist with 2 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at Eden, Ibiza on Tue, 15 Sept 2026.
 
 Parsa Jafari is a techno and industrial artist tracked on soundcheck, with 56 sets logged across Barcelona, Ibiza, Lisbon and London and 1 more. Often billed alongside Nuke, CESAR ALMENA and Raul Ortiz. Next up: Eden, Ibiza on Tue 15 Sept.
 
@@ -26,4 +26,4 @@ Parsa Jafari is a techno and industrial artist tracked on soundcheck, with 56 se
 
 Nuke, CESAR ALMENA, Raul Ortiz
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/parsajafari/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/parsajafari/)*

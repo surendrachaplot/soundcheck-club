@@ -1,6 +1,6 @@
 # Blockhead
 
-Blockhead is a Hip-Hop and Downtempo artist with 4 upcoming club dates listed on soundcheck as of Thu, 10 Sept 2026, next at Backstage, Munich on Wed, 16 Sept 2026.
+Blockhead is a Hip-Hop and Downtempo artist with 4 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at Backstage, Munich on Wed, 16 Sept 2026.
 
 Blockhead is a hip-hop and downtempo artist tracked on soundcheck, with 13 sets logged across Amsterdam, Austin, Berlin and Hamburg and 7 more. Often billed alongside Eliot Lipp, Teebs and Break Science. Next up: Backstage, Munich on Wed 16 Sept.
 
@@ -28,4 +28,4 @@ Blockhead is a hip-hop and downtempo artist tracked on soundcheck, with 13 sets 
 
 Eliot Lipp, Teebs, Break Science
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/blockhead/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/blockhead/)*

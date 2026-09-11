@@ -1,6 +1,6 @@
 # Nicole da Silva
 
-Nicole da Silva is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 10 Sept 2026, next at Dockland, Munster on Sat, 12 Sept 2026.
+Nicole da Silva is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 11 Sept 2026, next at Dockland, Munster on Sat, 12 Sept 2026.
 
 Nicole da Silva is a house and techno artist based in Germany, tracked on soundcheck, with 25 sets logged across Berlin, Cologne, Dusseldorf and Ibiza and 4 more. Often billed alongside Mcfly, BRIGITTE BELLING and Caiiro. Next up: Dockland, Munster on Sat 12 Sept.
 
@@ -25,4 +25,4 @@ Nicole da Silva is a house and techno artist based in Germany, tracked on soundc
 
 Mcfly, BRIGITTE BELLING, Caiiro
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nicoledasilva/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nicoledasilva/)*

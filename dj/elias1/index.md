@@ -1,6 +1,6 @@
 # Elias
 
-Elias is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 10 Sept 2026, next at Favorit Bar, Munich on Sat, 12 Sept 2026.
+Elias is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 11 Sept 2026, next at Favorit Bar, Munich on Sat, 12 Sept 2026.
 
 Elias is a house and techno artist based in Germany, tracked on soundcheck, with 16 sets logged across Frankfurt, Hamburg, Leipzig and Lisbon and 5 more. Often billed alongside Kim.Qna, Kona and 600-cell. Next up: Favorit Bar, Munich on Sat 12 Sept.
 
@@ -25,4 +25,4 @@ Elias is a house and techno artist based in Germany, tracked on soundcheck, with
 
 Kim.Qna, Kona, 600-cell
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/elias1/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/elias1/)*

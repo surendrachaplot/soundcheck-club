@@ -1,6 +1,6 @@
 # Carlswerk Victoria
 
-Carlswerk Victoria is a music venue in Cologne with 3 upcoming nights listed on soundcheck as of Thu, 10 Sept 2026; the next is "Parra for Cuva" on Thu, 1 Oct 2026.
+Carlswerk Victoria is a music venue in Cologne with 3 upcoming nights listed on soundcheck as of Fri, 11 Sept 2026; the next is "Parra for Cuva" on Thu, 1 Oct 2026.
 
 Carlswerk Victoria is a music venue in Cologne listed on soundcheck. 3 upcoming nights, with line-ups including Mischluft, Paraçek and Parra for Cuva. Browse upcoming dates, start times and who's playing. Schanzenstr. 6-20, Gebäude 3.12 Cologne, Germany, 51063.
 
@@ -16,4 +16,4 @@ Carlswerk Victoria is a music venue in Cologne listed on soundcheck. 3 upcoming 
 
 Schanzenstr. 6-20, Gebäude 3.12 Cologne, Germany, 51063, Cologne
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/cologne/club/carlswerk-victoria/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/cologne/club/carlswerk-victoria/)*

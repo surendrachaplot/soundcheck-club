@@ -1,6 +1,6 @@
 # Marco Faraone
 
-Marco Faraone is a Techno and Tech House artist with 5 upcoming club dates listed on soundcheck as of Thu, 10 Sept 2026, next at Audio Club, Geneva on Fri, 11 Sept 2026.
+Marco Faraone is a Techno and Tech House artist with 5 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at Audio Club, Geneva on Fri, 11 Sept 2026.
 
 Marco Faraone is a techno and tech house artist tracked on soundcheck, with 136 sets logged across Amsterdam, Antwerp, Austin and Barcelona and 32 more. Often billed alongside Mar-T, Luca Donzelli and CAAL. Next up: Audio Club, Geneva on Fri 11 Sept.
 
@@ -29,4 +29,4 @@ Marco Faraone is a techno and tech house artist tracked on soundcheck, with 136 
 
 Mar-T, Luca Donzelli, CAAL
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/marcofaraone/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/marcofaraone/)*

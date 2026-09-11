@@ -1,8 +1,8 @@
 # Ysanne
 
-Ysanne is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 10 Sept 2026, next at The Cause, London on Sat, 12 Sept 2026.
+Ysanne is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 11 Sept 2026, next at The Cause, London on Sat, 12 Sept 2026.
 
-Ysanne is a house and techno artist tracked on soundcheck, with 51 sets logged across Brighton, Glasgow, Liverpool and London and 1 more. Often billed alongside Michelle Manetti, Jaye Ward and Ellie Stokes. Next up: The Cause, London on Sat 12 Sept.
+Ysanne is a house and techno artist tracked on soundcheck, with 51 sets logged across Brighton, Glasgow, Liverpool and London and 1 more. Often billed alongside Michelle Manetti, Jaye Ward and Kmya. Next up: The Cause, London on Sat 12 Sept.
 
 ## Upcoming shows
 
@@ -23,6 +23,6 @@ Ysanne is a house and techno artist tracked on soundcheck, with 51 sets logged a
 
 ## Shares bills with
 
-Michelle Manetti, Jaye Ward, Ellie Stokes
+Michelle Manetti, Jaye Ward, Kmya
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ysanne/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ysanne/)*

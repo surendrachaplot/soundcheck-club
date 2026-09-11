@@ -1,6 +1,6 @@
 # fka phaedra
 
-fka phaedra is a Latin Bass and Club artist with 1 upcoming club date listed on soundcheck as of Thu, 10 Sept 2026, next at TBA, Mexico City on Sat, 3 Oct 2026.
+fka phaedra is a Latin Bass and Club artist with 1 upcoming club date listed on soundcheck as of Fri, 11 Sept 2026, next at TBA, Mexico City on Sat, 3 Oct 2026.
 
 fka phaedra is a latin bass and club artist tracked on soundcheck, with 65 sets logged across Amsterdam, Barcelona, Geneva and Ghent and 3 more. Often billed alongside Mensik, Lyo XS and Jamira Estrada. Next up: TBA, Mexicocity on Sat 3 Oct.
 
@@ -25,4 +25,4 @@ fka phaedra is a latin bass and club artist tracked on soundcheck, with 65 sets 
 
 Mensik, Lyo XS, Jamira Estrada
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/fkaphaedra/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/fkaphaedra/)*

@@ -1,6 +1,6 @@
 # Tifra
 
-Tifra is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 10 Sept 2026, next at Openluchttheater Amersfoort, Amsterdam on Fri, 18 Sept 2026.
+Tifra is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 11 Sept 2026, next at Openluchttheater Amersfoort, Amsterdam on Fri, 18 Sept 2026.
 
 Tifra is a house and techno artist tracked on soundcheck, with 22 sets logged across Amsterdam, Lisbon, Paris and Utrecht. Often billed alongside Benny Rodrigues, Boris Coelman and Kyra Khaldi. Next up: Openluchttheater Amersfoort, Amsterdam on Fri 18 Sept.
 
@@ -25,4 +25,4 @@ Tifra is a house and techno artist tracked on soundcheck, with 22 sets logged ac
 
 Benny Rodrigues, Boris Coelman, Kyra Khaldi
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tifra/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tifra/)*

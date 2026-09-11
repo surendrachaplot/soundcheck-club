@@ -1,14 +1,13 @@
 # The Sound Lounge at Percy
 
-The Sound Lounge at Percy is a music venue in Philadelphia with 10 upcoming nights listed on soundcheck as of Thu, 10 Sept 2026; the next is "Spatial Awareness - Gay Felony" on Thu, 10 Sept 2026.
+The Sound Lounge at Percy is a music venue in Philadelphia with 9 upcoming nights listed on soundcheck as of Fri, 11 Sept 2026; the next is "Haruomi Hosono - Yours Sincerely: Listening Session" on Fri, 11 Sept 2026.
 
-The Sound Lounge at Percy is a music venue in Philadelphia listed on soundcheck. 10 upcoming nights, with line-ups including Doll.Redacted, Gay Felony, Haruomi Hosono and Mario Cotto and 2 more. Browse upcoming dates, start times and who's playing. 1700 N Front Street, Philadelphia, PA. 19122.
+The Sound Lounge at Percy is a music venue in Philadelphia listed on soundcheck. 9 upcoming nights, with line-ups including Doll.Redacted, Haruomi Hosono, Mario Cotto and Nine of Wands and 1 more. Browse upcoming dates, start times and who's playing. 1700 N Front Street, Philadelphia, PA. 19122.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Thu, 10 Sept 2026 | Spatial Awareness - Gay Felony | Gay Felony |
 | Fri, 11 Sept 2026 | Haruomi Hosono - Yours Sincerely: Listening Session | Haruomi Hosono |
 | Fri, 11 Sept 2026 | Take A Trip with Mario Cotto | Mario Cotto |
 | Sat, 12 Sept 2026 | FUNKADELIC – MAGGOT BRAIN: CORKY'S COFFEE LISTENING SESSION |  |
@@ -23,4 +22,4 @@ The Sound Lounge at Percy is a music venue in Philadelphia listed on soundcheck.
 
 1700 N Front Street, Philadelphia, PA. 19122, Philadelphia
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/philadelphia/club/the-sound-lounge-at-percy/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/philadelphia/club/the-sound-lounge-at-percy/)*

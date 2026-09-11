@@ -1,14 +1,15 @@
 # [ares]
 
-[ares] is a Deep House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 10 Sept 2026, next at Noorderlicht Café, Amsterdam on Sat, 26 Sept 2026.
+[ares] is a Deep House and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at Noorderlicht Café, Amsterdam on Sat, 26 Sept 2026.
 
-[ares] is a deep house and techno artist based in Netherlands, tracked on soundcheck, with 9 sets logged across Amsterdam and Ibiza. Often billed alongside Mitch Oliver, Alma Linda and Arabella Memdouh. Next up: Noorderlicht Café, Amsterdam on Sat 26 Sept.
+[ares] is a deep house and techno artist based in Netherlands, tracked on soundcheck, with 10 sets logged across Amsterdam and Ibiza. Often billed alongside Mitch Oliver, Alma Linda and Anthony Middleton. Next up: Noorderlicht Café, Amsterdam on Sat 26 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 26 Sept 2026 | Noorderlicht Café | Amsterdam |
+| Fri, 2 Oct 2026 | Het Sieraad | Amsterdam |
 
 ## Recently played
 
@@ -23,6 +24,6 @@
 
 ## Shares bills with
 
-Mitch Oliver, Alma Linda, Arabella Memdouh
+Mitch Oliver, Alma Linda, Anthony Middleton
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ar_es/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ar_es/)*

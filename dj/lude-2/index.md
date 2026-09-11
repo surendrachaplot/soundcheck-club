@@ -1,18 +1,18 @@
 # Lude (2)
 
-Lude (2) is a Techno and Electro artist with 2 upcoming club dates listed on soundcheck as of Thu, 10 Sept 2026, next at Karmen Camina, Strasbourg on Thu, 10 Sept 2026.
+Lude (2) is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Fri, 11 Sept 2026, next at KALT, Strasbourg on Fri, 18 Sept 2026.
 
-Lude (2) is a techno and electro artist based in France, tracked on soundcheck, with 13 sets logged across Strasbourg. Often billed alongside Justine Maze, Zhar and Wolves (1). Next up: Karmen Camina, Strasbourg on Thu 10 Sept.
+Lude (2) is a techno and electro artist based in France, tracked on soundcheck, with 13 sets logged across Strasbourg. Often billed alongside Justine Maze, Zhar and Wolves (1). Next up: KALT, Strasbourg on Fri 18 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Thu, 10 Sept 2026 | Karmen Camina | Strasbourg |
 | Fri, 18 Sept 2026 | KALT | Strasbourg |
 
 ## Recently played
 
+- Karmen Camina, Strasbourg — Thu, 10 Sept 2026
 - Manufacture des Tabacs - Strasbourg, Strasbourg — Fri, 4 Sept 2026
 - Manufacture des Tabacs - Strasbourg, Strasbourg — Thu, 3 Sept 2026
 - Karmen Camina, Strasbourg — Fri, 26 Jun 2026
@@ -20,10 +20,9 @@ Lude (2) is a techno and electro artist based in France, tracked on soundcheck, 
 - TBA - Face au Parlement Européen, Strasbourg — Wed, 31 Dec 2025
 - Karmen Camina, Strasbourg — Fri, 14 Nov 2025
 - Phare Citadelle, Strasbourg — Fri, 22 Aug 2025
-- La Péniche Mécanique, Strasbourg — Sat, 19 Jul 2025
 
 ## Shares bills with
 
 Justine Maze, Zhar, Wolves (1)
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lude-2/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lude-2/)*

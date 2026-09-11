@@ -1,6 +1,6 @@
 # Giuliano
 
-Giuliano is a House and Afro House artist with 2 upcoming club dates listed on soundcheck as of Thu, 10 Sept 2026, next at Port Olimpic, Barcelona on Fri, 11 Sept 2026.
+Giuliano is a House and Afro House artist with 2 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at Port Olimpic, Barcelona on Fri, 11 Sept 2026.
 
 Giuliano is a house and afro house artist based in Argentina, tracked on soundcheck, with 8 sets logged across Barcelona and Buenosaires. Often billed alongside Fat-P, SUSØ and Alex Rush. Next up: Port Olimpic, Barcelona on Fri 11 Sept.
 
@@ -24,4 +24,4 @@ Giuliano is a house and afro house artist based in Argentina, tracked on soundch
 
 Fat-P, SUSØ, Alex Rush
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/giuliano/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/giuliano/)*

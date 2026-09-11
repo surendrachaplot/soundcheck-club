@@ -1,14 +1,13 @@
 # Sina Bathaie
 
-Sina Bathaie is a Downtempo and Deep House artist with 8 upcoming club dates listed on soundcheck as of Thu, 10 Sept 2026, next at Luz De Gas, Barcelona on Thu, 10 Sept 2026.
+Sina Bathaie is a Downtempo and Deep House artist with 7 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at Largo Venue, Rome on Sun, 13 Sept 2026.
 
-Sina Bathaie is a downtempo and deep house artist tracked on soundcheck, with 92 sets logged across Amsterdam, Athens, Auckland and Austin and 41 more. Often billed alongside DJ Joeski, Facundo Mohrr and Kora (CA). Next up: Luz De Gas, Barcelona on Thu 10 Sept.
+Sina Bathaie is a downtempo and deep house artist tracked on soundcheck, with 92 sets logged across Amsterdam, Athens, Auckland and Austin and 41 more. Often billed alongside DJ Joeski, Facundo Mohrr and Kora (CA). Next up: Largo Venue, Rome on Sun 13 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Thu, 10 Sept 2026 | Luz De Gas | Barcelona |
 | Sun, 13 Sept 2026 | Largo Venue | Rome |
 | Tue, 15 Sept 2026 | Temple Athens | Athens |
 | Fri, 18 Sept 2026 | IF Performance Hall Beşiktaş | Istanbul |
@@ -19,6 +18,7 @@ Sina Bathaie is a downtempo and deep house artist tracked on soundcheck, with 92
 
 ## Recently played
 
+- Luz De Gas, Barcelona — Thu, 10 Sept 2026
 - Sala Independance Club, Madrid — Tue, 8 Sept 2026
 - LAV - Lisboa ao Vivo, Lisbon — Fri, 4 Sept 2026
 - KC Grad, Belgrade — Thu, 23 Jul 2026
@@ -26,10 +26,9 @@ Sina Bathaie is a downtempo and deep house artist tracked on soundcheck, with 92
 - Meetfactory, Prague — Wed, 15 Jul 2026
 - NIEBO, Warsaw — Sun, 12 Jul 2026
 - Södra Teatern, Kägelbanan, Stockholm — Fri, 10 Jul 2026
-- Sentralen, Oslo — Wed, 8 Jul 2026
 
 ## Shares bills with
 
 DJ Joeski, Facundo Mohrr, Kora (CA)
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sinabathaie/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sinabathaie/)*

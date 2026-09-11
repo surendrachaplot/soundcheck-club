@@ -1,6 +1,6 @@
 # Broken Robot
 
-Broken Robot is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 10 Sept 2026, next at Sacre Coeur Prague, Prague on Sat, 24 Oct 2026.
+Broken Robot is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 11 Sept 2026, next at Sacre Coeur Prague, Prague on Sat, 24 Oct 2026.
 
 Broken Robot is a techno and house artist tracked on soundcheck, with 21 sets logged across Amsterdam and Prague. Often billed alongside Jaqullin, 2NDRA and Fatty M. Next up: Sacre Coeur Prague, Prague on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ Broken Robot is a techno and house artist tracked on soundcheck, with 21 sets lo
 
 Jaqullin, 2NDRA, Fatty M
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/brokenrobot/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/brokenrobot/)*

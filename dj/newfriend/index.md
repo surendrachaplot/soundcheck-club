@@ -1,14 +1,14 @@
 # newfriend
 
-newfriend is a Bass and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 10 Sept 2026, next at TBA - outdoors, Montreal on Fri, 18 Sept 2026.
+newfriend is a Bass and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 11 Sept 2026, next at TBA - outdoors, Montreal on Sat, 19 Sept 2026.
 
-newfriend is a bass and techno artist based in Canada, tracked on soundcheck, with 11 sets logged across Montreal. Often billed alongside Wencat, Boomy and CrisseMarqueur. Next up: TBA - outdoors, Montreal on Fri 18 Sept.
+newfriend is a bass and techno artist based in Canada, tracked on soundcheck, with 11 sets logged across Montreal. Often billed alongside Wencat, Boomy and CrisseMarqueur. Next up: TBA - outdoors, Montreal on Sat 19 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 18 Sept 2026 | TBA - outdoors | Montreal |
+| Sat, 19 Sept 2026 | TBA - outdoors | Montreal |
 
 ## Recently played
 
@@ -25,4 +25,4 @@ newfriend is a bass and techno artist based in Canada, tracked on soundcheck, wi
 
 Wencat, Boomy, CrisseMarqueur
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/newfriend/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/newfriend/)*

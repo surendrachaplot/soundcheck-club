@@ -1,6 +1,6 @@
 # Bluesquare
 
-Bluesquare is a music venue in Milan with 4 upcoming nights listed on soundcheck as of Thu, 10 Sept 2026; the next is "Hi-Fi Weekends with FUNKY EXPRESS *Free Entry*" on Fri, 11 Sept 2026.
+Bluesquare is a music venue in Milan with 4 upcoming nights listed on soundcheck as of Fri, 11 Sept 2026; the next is "Hi-Fi Weekends with FUNKY EXPRESS *Free Entry*" on Fri, 11 Sept 2026.
 
 Bluesquare is a music venue in Milan listed on soundcheck. 4 upcoming nights, with line-ups including Fred Simon. Browse upcoming dates, start times and who's playing. Via Tortona 33, 20144.
 
@@ -17,4 +17,4 @@ Bluesquare is a music venue in Milan listed on soundcheck. 4 upcoming nights, wi
 
 Via Tortona 33, 20144, Milan
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/milan/club/bluesquare/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/milan/club/bluesquare/)*

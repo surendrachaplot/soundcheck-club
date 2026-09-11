@@ -1,6 +1,6 @@
 # Othervision
 
-Othervision is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Thu, 10 Sept 2026, next at Sisyphos, Berlin on Sat, 12 Sept 2026.
+Othervision is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Fri, 11 Sept 2026, next at Sisyphos, Berlin on Sat, 12 Sept 2026.
 
 Othervision is a house and minimal artist tracked on soundcheck, with 27 sets logged across Berlin, Prague and Seoul. Often billed alongside JUNG(KR), vinpress and Gyusco. Next up: Sisyphos, Berlin on Sat 12 Sept.
 
@@ -25,4 +25,4 @@ Othervision is a house and minimal artist tracked on soundcheck, with 27 sets lo
 
 JUNG(KR), vinpress, Gyusco
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/othervision/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/othervision/)*

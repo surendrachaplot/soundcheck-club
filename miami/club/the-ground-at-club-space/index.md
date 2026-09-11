@@ -1,6 +1,6 @@
 # The Ground at Club Space
 
-The Ground at Club Space is a music venue in Miami with 12 upcoming nights listed on soundcheck as of Thu, 10 Sept 2026; the next is "House Hats: RSquared + VITO (UK)" on Fri, 11 Sept 2026.
+The Ground at Club Space is a music venue in Miami with 12 upcoming nights listed on soundcheck as of Fri, 11 Sept 2026; the next is "House Hats: RSquared + VITO (UK)" on Fri, 11 Sept 2026.
 
 The Ground at Club Space is a music venue in Miami listed on soundcheck. 12 upcoming nights, with line-ups including 1tbsp, Actress, Andy Stott and Bok Bok and 2 more. Browse upcoming dates, start times and who's playing. 34 NE 11 Street, Miami, FL 33132, USA.
 
@@ -10,7 +10,7 @@ The Ground at Club Space is a music venue in Miami listed on soundcheck. 12 upco
 | --- | --- | --- |
 | Fri, 11 Sept 2026 | House Hats: RSquared + VITO (UK) | RSquared, VITO (UK) |
 | Sat, 12 Sept 2026 | Ritmo Celestial | Marte (US), v1fro |
-| Fri, 18 Sept 2026 | OTHERWORLD x HEDON | Dangerous Rose, Mila Gama, Pauli Cakes, Robyn Sin Love, Ultrathem |
+| Fri, 18 Sept 2026 | OTHERWORLD x HEDON: FLINTA.FM | Dangerous Rose, Mila Gama, Pauli Cakes, Robyn Sin Love, Ultrathem |
 | Sat, 19 Sept 2026 | Nitzer Ebb | Nitzer Ebb, Sepehr, Souls Departed |
 | Fri, 25 Sept 2026 | Autonomy: SHERELLE, Bok Bok, & Introspekt | Bok Bok, Introspekt, Marie Qrie, SHERELLE, Xilla |
 | Fri, 2 Oct 2026 | Andy Stott + Carrier | Andy Stott, Carrier, Uchi |
@@ -23,4 +23,4 @@ The Ground at Club Space is a music venue in Miami listed on soundcheck. 12 upco
 
 34 NE 11 Street, Miami, FL 33132, USA, Miami
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/miami/club/the-ground-at-club-space/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/miami/club/the-ground-at-club-space/)*

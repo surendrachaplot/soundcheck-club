@@ -1,8 +1,8 @@
 # Octave One
 
-Octave One is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Thu, 10 Sept 2026, next at Auditorium Parco della Musica, Rome on Sat, 12 Sept 2026.
+Octave One is a Techno and House artist with 7 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at Auditorium Parco della Musica, Rome on Sat, 12 Sept 2026.
 
-Octave One is a techno and house artist tracked on soundcheck, with 94 sets logged across Amsterdam, Barcelona, Belgrade and Berlin and 33 more. Often billed alongside Carl Craig, Charlotte de Witte and FJAAK. Next up: Auditorium Parco della Musica, Rome on Sat 12 Sept.
+Octave One is a techno and house artist tracked on soundcheck, with 95 sets logged across Amsterdam, Barcelona, Belgrade and Berlin and 33 more. Often billed alongside Carl Craig, Moodymann and Charlotte de Witte. Next up: Auditorium Parco della Musica, Rome on Sat 12 Sept.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ Octave One is a techno and house artist tracked on soundcheck, with 94 sets logg
 | Sat, 12 Sept 2026 | Auditorium Parco della Musica | Rome |
 | Sat, 12 Sept 2026 | Studio Club Malaga | Malaga |
 | Fri, 18 Sept 2026 | FOLD | London |
+| Sat, 3 Oct 2026 | Plaza Monumental de Barcelona | Barcelona |
 | Fri, 9 Oct 2026 | Jaeger | Oslo |
 | Sun, 11 Oct 2026 | Fabrik | Madrid |
 | Fri, 23 Oct 2026 | Q-Factory | Amsterdam |
@@ -28,6 +29,6 @@ Octave One is a techno and house artist tracked on soundcheck, with 94 sets logg
 
 ## Shares bills with
 
-Carl Craig, Charlotte de Witte, FJAAK
+Carl Craig, Moodymann, Charlotte de Witte
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/octaveone/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/octaveone/)*

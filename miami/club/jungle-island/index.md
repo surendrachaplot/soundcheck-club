@@ -1,6 +1,6 @@
 # Jungle Island
 
-Jungle Island is a music venue in Miami with 2 upcoming nights listed on soundcheck as of Thu, 10 Sept 2026; the next is "Soundtuary X RASA present &Friends, Apache & Malas" on Sat, 12 Sept 2026.
+Jungle Island is a music venue in Miami with 2 upcoming nights listed on soundcheck as of Fri, 11 Sept 2026; the next is "Soundtuary X RASA present &Friends, Apache & Malas" on Sat, 12 Sept 2026.
 
 Jungle Island is a music venue in Miami listed on soundcheck. 2 upcoming nights, with line-ups including AMÉMÉ, &friends, Apache and Ketzal and 2 more. Browse upcoming dates, start times and who's playing. 1111 Parrot Jungle Trail, Miami, FL 33132.
 
@@ -15,4 +15,4 @@ Jungle Island is a music venue in Miami listed on soundcheck. 2 upcoming nights,
 
 1111 Parrot Jungle Trail, Miami, FL 33132, Miami
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/miami/club/jungle-island/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/miami/club/jungle-island/)*

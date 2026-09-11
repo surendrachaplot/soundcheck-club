@@ -1,6 +1,6 @@
 # Marco Aurelio
 
-Marco Aurelio is a Techno and Electronica artist with 2 upcoming club dates listed on soundcheck as of Thu, 10 Sept 2026, next at Almar Beach Club, Barcelona on Fri, 18 Sept 2026.
+Marco Aurelio is a Techno and Electronica artist with 2 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at Almar Beach Club, Barcelona on Fri, 18 Sept 2026.
 
 Marco Aurelio is a techno and electronica artist tracked on soundcheck, with 5 sets logged across Amsterdam and Barcelona. Often billed alongside Civaro, Miguel Silva and TO LE. Next up: Almar Beach Club, Barcelona on Fri 18 Sept.
 
@@ -21,4 +21,4 @@ Marco Aurelio is a techno and electronica artist tracked on soundcheck, with 5 s
 
 Civaro, Miguel Silva, TO LE
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/marcoaurelio/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/marcoaurelio/)*

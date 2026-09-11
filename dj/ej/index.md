@@ -1,6 +1,6 @@
 # EJ
 
-EJ is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 10 Sept 2026, next at Thugshop Warehouse, Singapore on Sat, 19 Sept 2026.
+EJ is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 11 Sept 2026, next at Thugshop Warehouse, Singapore on Sat, 19 Sept 2026.
 
 EJ is a house and techno artist tracked on soundcheck, with 61 sets logged across Bali, Denver, Kualalumpur and Leeds and 2 more. Often billed alongside VAIBS, Amber H and sho&tell. Next up: Thugshop Warehouse, Singapore on Sat 19 Sept.
 
@@ -25,4 +25,4 @@ EJ is a house and techno artist tracked on soundcheck, with 61 sets logged acros
 
 VAIBS, Amber H, sho&tell
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ej/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ej/)*

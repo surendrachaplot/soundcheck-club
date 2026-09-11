@@ -1,6 +1,6 @@
 # FYI Robyn
 
-FYI Robyn is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 10 Sept 2026, next at Sauna Social Club, London on Fri, 18 Sept 2026.
+FYI Robyn is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at Sauna Social Club, London on Fri, 18 Sept 2026.
 
 FYI Robyn is a house and techno artist tracked on soundcheck, with 32 sets logged across Berlin, Birmingham, London and Paris. Often billed alongside Kincaid, Alicia (UK) and Jay Carder. Next up: Sauna Social Club, London on Fri 18 Sept.
 
@@ -26,4 +26,4 @@ FYI Robyn is a house and techno artist tracked on soundcheck, with 32 sets logge
 
 Kincaid, Alicia (UK), Jay Carder
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/fyirobyn/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/fyirobyn/)*

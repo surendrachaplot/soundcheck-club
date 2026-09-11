@@ -1,8 +1,8 @@
 # Paquita Gordon
 
-Paquita Gordon is a House and Techno artist with 6 upcoming club dates listed on soundcheck as of Thu, 10 Sept 2026, next at Sala Villanos, Madrid on Fri, 25 Sept 2026.
+Paquita Gordon is a House and Techno artist with 8 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at Sala Villanos, Madrid on Fri, 25 Sept 2026.
 
-Paquita Gordon is a house and techno artist tracked on soundcheck, with 131 sets logged across Amsterdam, Antwerp, Barcelona and Berlin and 23 more. Often billed alongside BASHKKA, Francesco Del Garda and Marco Shuttle. Next up: Sala Villanos, Madrid on Fri 25 Sept.
+Paquita Gordon is a house and techno artist tracked on soundcheck, with 133 sets logged across Amsterdam, Antwerp, Barcelona and Berlin and 23 more. Often billed alongside BASHKKA, Francesco Del Garda and Marco Shuttle. Next up: Sala Villanos, Madrid on Fri 25 Sept.
 
 ## Upcoming shows
 
@@ -14,6 +14,8 @@ Paquita Gordon is a house and techno artist tracked on soundcheck, with 131 sets
 | Fri, 23 Oct 2026 | Lofi | Amsterdam |
 | Fri, 23 Oct 2026 | Lofi | Amsterdam |
 | Fri, 30 Oct 2026 | 1520 | Manchester |
+| Sat, 7 Nov 2026 | FOLD | London |
+| Sat, 21 Nov 2026 | Les Enfants Brillants | Barcelona |
 
 ## Recently played
 
@@ -30,4 +32,4 @@ Paquita Gordon is a house and techno artist tracked on soundcheck, with 131 sets
 
 BASHKKA, Francesco Del Garda, Marco Shuttle
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/paquitagordon/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/paquitagordon/)*

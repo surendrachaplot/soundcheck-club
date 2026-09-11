@@ -1,14 +1,15 @@
 # Charch
 
-Charch is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 10 Sept 2026, next at Bassiani, Tbilisi on Sat, 12 Sept 2026.
+Charch is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at Bassiani, Tbilisi on Sat, 12 Sept 2026.
 
-Charch is a house and techno artist tracked on soundcheck, with 31 sets logged across Berlin, Budapest, Riga and Tallinn and 1 more. Often billed alongside Tanel Mütt, Micaela Saraceno and Arto. Next up: Bassiani, Tbilisi on Sat 12 Sept.
+Charch is a house and techno artist tracked on soundcheck, with 32 sets logged across Berlin, Budapest, Riga and Tallinn and 1 more. Often billed alongside Tanel Mütt, Micaela Saraceno and Arto. Next up: Bassiani, Tbilisi on Sat 12 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 12 Sept 2026 | Bassiani | Tbilisi |
+| Fri, 18 Sept 2026 | Hall | Tallinn |
 | Sat, 19 Sept 2026 | Tšungel | Tallinn |
 
 ## Recently played
@@ -26,4 +27,4 @@ Charch is a house and techno artist tracked on soundcheck, with 31 sets logged a
 
 Tanel Mütt, Micaela Saraceno, Arto
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/charch/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/charch/)*

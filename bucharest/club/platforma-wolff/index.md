@@ -1,14 +1,13 @@
 # Platforma Wolff
 
-Platforma Wolff is a music venue in Bucharest with 8 upcoming nights listed on soundcheck as of Thu, 10 Sept 2026; the next is "PW x Caleidoscop • Suciu, oddist" on Thu, 10 Sept 2026.
+Platforma Wolff is a music venue in Bucharest with 7 upcoming nights listed on soundcheck as of Fri, 11 Sept 2026; the next is "PW • JUAAN, Mianda, Syntelman" on Fri, 11 Sept 2026.
 
-Platforma Wolff is a music venue in Bucharest listed on soundcheck. 8 upcoming nights, with line-ups including Andrei Ciubuc, Cristi Cons, Dana Ruh and DJ Fett Burger and 2 more. Browse upcoming dates, start times and who's playing. 1, Doctor Constantin Istrati Street, Sector 4, 040542, Bucharest.
+Platforma Wolff is a music venue in Bucharest listed on soundcheck. 7 upcoming nights, with line-ups including Andrei Ciubuc, Cristi Cons, Dana Ruh and DJ Fett Burger and 2 more. Browse upcoming dates, start times and who's playing. 1, Doctor Constantin Istrati Street, Sector 4, 040542, Bucharest.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Thu, 10 Sept 2026 | PW x Caleidoscop • Suciu, oddist | Suciu, oddist |
 | Fri, 11 Sept 2026 | PW • JUAAN, Mianda, Syntelman | JUAAN, Mianda, Syntelman |
 | Sat, 12 Sept 2026 | PW • SIT - Cristi Cons & Vlad Caia (all night long) | Cristi Cons, SIT Amphia, Vlad Caia |
 | Sun, 13 Sept 2026 | PW x Crave • Crawler, Koler, Temar + Talk / Exhibition 'Exposed: Stills from a Nightout' | Temar |
@@ -21,4 +20,4 @@ Platforma Wolff is a music venue in Bucharest listed on soundcheck. 8 upcoming n
 
 1, Doctor Constantin Istrati Street, Sector 4, 040542, Bucharest, Bucharest
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/bucharest/club/platforma-wolff/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/bucharest/club/platforma-wolff/)*

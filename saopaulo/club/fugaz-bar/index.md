@@ -1,14 +1,13 @@
 # Fugaz Bar
 
-Fugaz Bar is a music venue in Sao Paulo with 12 upcoming nights listed on soundcheck as of Thu, 10 Sept 2026; the next is "Fugaz recebe Soul Diggin" on Thu, 10 Sept 2026.
+Fugaz Bar is a music venue in Sao Paulo with 11 upcoming nights listed on soundcheck as of Fri, 11 Sept 2026; the next is "Fugaz recebe Chiara Rodello" on Fri, 11 Sept 2026.
 
-Fugaz Bar is a music venue in Saopaulo listed on soundcheck. 12 upcoming nights. Browse upcoming dates, start times and who's playing. Rua Cardeal Arcoverde, 1479.
+Fugaz Bar is a music venue in Saopaulo listed on soundcheck. 11 upcoming nights. Browse upcoming dates, start times and who's playing. Rua Cardeal Arcoverde, 1479.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Thu, 10 Sept 2026 | Fugaz recebe Soul Diggin |  |
 | Fri, 11 Sept 2026 | Fugaz recebe Chiara Rodello |  |
 | Sat, 12 Sept 2026 | Fugaz recebe Horaz Martin |  |
 | Wed, 16 Sept 2026 | Fugaz recebe Dandy |  |
@@ -18,9 +17,10 @@ Fugaz Bar is a music venue in Saopaulo listed on soundcheck. 12 upcoming nights.
 | Wed, 23 Sept 2026 | Fugaz recebe Leo Machert |  |
 | Thu, 24 Sept 2026 | Fugaz recebe Bernardo Pinheiro |  |
 | Fri, 25 Sept 2026 | Fugaz recebe DJ Deschw |  |
+| Sat, 26 Sept 2026 | Fugaz recebe Cabanka |  |
 
 ## Address
 
 Rua Cardeal Arcoverde, 1479, Sao Paulo
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/saopaulo/club/fugaz-bar/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/saopaulo/club/fugaz-bar/)*

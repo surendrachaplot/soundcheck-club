@@ -1,6 +1,6 @@
 # teiaaa
 
-teiaaa is a Experimental and Club artist with 1 upcoming club date listed on soundcheck as of Thu, 10 Sept 2026, next at TBA - NK, Berlin on Sun, 20 Sept 2026.
+teiaaa is a Experimental and Club artist with 1 upcoming club date listed on soundcheck as of Fri, 11 Sept 2026, next at TBA - NK, Berlin on Sun, 20 Sept 2026.
 
 teiaaa is an experimental and club artist tracked on soundcheck, with 7 sets logged across Berlin and Lisbon. Often billed alongside missteikk, ulises4000 and Alada. Next up: TBA - NK, Berlin on Sun 20 Sept.
 
@@ -23,4 +23,4 @@ teiaaa is an experimental and club artist tracked on soundcheck, with 7 sets log
 
 missteikk, ulises4000, Alada
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/teiaaa/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/teiaaa/)*

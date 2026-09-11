@@ -1,6 +1,6 @@
 # Nicholas Groente & Fruit
 
-Nicholas Groente & Fruit is a music venue in Amsterdam with 3 upcoming nights listed on soundcheck as of Thu, 10 Sept 2026; the next is "ADE Network Hub by Beskar Bookings, Decks & Stories and Loud Ladies" on Wed, 21 Oct 2026.
+Nicholas Groente & Fruit is a music venue in Amsterdam with 3 upcoming nights listed on soundcheck as of Fri, 11 Sept 2026; the next is "ADE Network Hub by Beskar Bookings, Decks & Stories and Loud Ladies" on Wed, 21 Oct 2026.
 
 Nicholas Groente & Fruit is a music venue in Amsterdam listed on soundcheck. 3 upcoming nights, with line-ups including aksendo, AMARE, Doreen Van Steen and FATIA and 2 more. Browse upcoming dates, start times and who's playing. Sint Nicolaasstraat 19, 1012 NJ Amsterdam.
 
@@ -16,4 +16,4 @@ Nicholas Groente & Fruit is a music venue in Amsterdam listed on soundcheck. 3 u
 
 Sint Nicolaasstraat 19, 1012 NJ Amsterdam, Amsterdam
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/nicholas-groente-fruit/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/nicholas-groente-fruit/)*

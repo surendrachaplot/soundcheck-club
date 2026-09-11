@@ -1,6 +1,6 @@
 # BlackDanielWhite
 
-BlackDanielWhite is a R&B and Hip-Hop artist with 1 upcoming club date listed on soundcheck as of Thu, 10 Sept 2026, next at SOBs, New York City on Thu, 10 Sept 2026.
+BlackDanielWhite is a R&B and Hip-Hop artist with 1 upcoming club date listed on soundcheck as of Fri, 11 Sept 2026, next at SOBs, New York City on Thu, 10 Sept 2026.
 
 BlackDanielWhite is a r&b and hip-hop artist based in United States of America, tracked on soundcheck, with 7 sets logged across Newyorkcity. Often billed alongside DJ Fat Frog, Fefe and Mondai. Next up: SOBs, Newyorkcity on Thu 10 Sept.
 
@@ -12,6 +12,7 @@ BlackDanielWhite is a r&b and hip-hop artist based in United States of America, 
 
 ## Recently played
 
+- SOBs, New York City — Thu, 10 Sept 2026
 - SOBs, New York City — Fri, 24 Jul 2026
 - The Sultan Room, New York City — Sat, 19 Jul 2025
 - The Sultan Room, New York City — Sat, 19 Apr 2025
@@ -23,4 +24,4 @@ BlackDanielWhite is a r&b and hip-hop artist based in United States of America, 
 
 DJ Fat Frog, Fefe, Mondai
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/blackdanielwhite/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/blackdanielwhite/)*

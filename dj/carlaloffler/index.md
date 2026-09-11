@@ -1,6 +1,6 @@
 # Carla Löffler
 
-Carla Löffler is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 10 Sept 2026, next at Schlachthof Wiesbaden, Frankfurt on Sat, 12 Sept 2026.
+Carla Löffler is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 11 Sept 2026, next at Schlachthof Wiesbaden, Frankfurt on Sat, 12 Sept 2026.
 
 Carla Löffler is a house and techno artist based in Germany, tracked on soundcheck, with 15 sets logged across Barcelona and Frankfurt. Often billed alongside Reezar, A.Fruit and AEMN. Next up: Schlachthof Wiesbaden, Frankfurt on Sat 12 Sept.
 
@@ -25,4 +25,4 @@ Carla Löffler is a house and techno artist based in Germany, tracked on soundch
 
 Reezar, A.Fruit, AEMN
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/carlaloffler/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/carlaloffler/)*

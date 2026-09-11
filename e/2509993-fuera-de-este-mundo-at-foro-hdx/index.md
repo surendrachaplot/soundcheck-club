@@ -1,10 +1,10 @@
 # FUERA DE ESTE MUNDO at Foro HDX
 
-FUERA DE ESTE MUNDO at Foro HDX on Fri 25 Sept, Mexicocity. 3 acts on the bill: GRAViiTY, PRANAYAMA and YisusOnAcid. Techno and Acid. Preview the line-up and save it on soundcheck.
+FUERA DE ESTE MUNDO at Foro HDX on Sat 26 Sept, Mexicocity. 3 acts on the bill: GRAViiTY, PRANAYAMA and YisusOnAcid. Techno and Acid. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
-| Date | Fri, 25 Sept 2026 |
+| Date | Sat, 26 Sept 2026 |
 | Venue | Foro HDX |
 | City | Mexico City |
 

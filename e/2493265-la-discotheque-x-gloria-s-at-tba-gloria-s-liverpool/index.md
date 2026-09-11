@@ -1,6 +1,6 @@
 # La Discotheque x Gloria's at TBA - Gloria's Liverpool
 
-La Discotheque x Gloria's at TBA - Gloria's Liverpool on Sat 26 Sept, Liverpool. 3 acts on the bill: DJ Paulette, Eats Everything and Jimmy Allen. House and Disco. Preview the line-up and save it on soundcheck.
+La Discotheque x Gloria's at TBA - Gloria's Liverpool on Sat 26 Sept, Liverpool. 4 acts on the bill: DJ Paulette, Eats Everything, Elicia Evelyn and Jimmy Allen. House and Disco. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -12,6 +12,7 @@ La Discotheque x Gloria's at TBA - Gloria's Liverpool on Sat 26 Sept, Liverpool.
 
 - DJ Paulette
 - Eats Everything
+- Elicia Evelyn
 - Jimmy Allen
 
 *Source: [soundcheck](https://soundcheck.club/e/2493265-la-discotheque-x-gloria-s-at-tba-gloria-s-liverpool/)*

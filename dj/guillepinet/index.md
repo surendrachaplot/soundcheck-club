@@ -1,6 +1,6 @@
 # Guille Pinet
 
-Guille Pinet is a House and Minimal Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 10 Sept 2026, next at Almar Beach Club, Barcelona on Sun, 13 Sept 2026.
+Guille Pinet is a House and Minimal Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at Almar Beach Club, Barcelona on Sun, 13 Sept 2026.
 
 Guille Pinet is a house and minimal techno artist tracked on soundcheck, with 34 sets logged across Barcelona and Berlin. Often billed alongside Misla, Elwei and MarioF. Next up: Almar Beach Club, Barcelona on Sun 13 Sept.
 
@@ -26,4 +26,4 @@ Guille Pinet is a house and minimal techno artist tracked on soundcheck, with 34
 
 Misla, Elwei, MarioF
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/guillepinet/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/guillepinet/)*

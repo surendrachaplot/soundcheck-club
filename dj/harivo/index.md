@@ -1,13 +1,14 @@
 # Harivo
 
-Harivo is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Thu, 10 Sept 2026, next at Faust, Seoul on Fri, 25 Sept 2026.
+Harivo is a House and Deep House artist with 2 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at Faust, Seoul on Sat, 19 Sept 2026.
 
-Harivo is a house and deep house artist tracked on soundcheck, with 38 sets logged across Seoul and Tokyo. Often billed alongside Bluebird (2), Mars Parck and Stann Lumo. Next up: Faust, Seoul on Fri 25 Sept.
+Harivo is a house and deep house artist tracked on soundcheck, with 39 sets logged across Seoul and Tokyo. Often billed alongside Mars Parck, Stann Lumo and Bluebird (2). Next up: Faust, Seoul on Sat 19 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 19 Sept 2026 | Faust | Seoul |
 | Fri, 25 Sept 2026 | Faust | Seoul |
 
 ## Recently played
@@ -23,6 +24,6 @@ Harivo is a house and deep house artist tracked on soundcheck, with 38 sets logg
 
 ## Shares bills with
 
-Bluebird (2), Mars Parck, Stann Lumo
+Mars Parck, Stann Lumo, Bluebird (2)
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/harivo/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/harivo/)*

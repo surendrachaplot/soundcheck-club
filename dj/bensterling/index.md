@@ -1,6 +1,6 @@
 # Ben Sterling
 
-Ben Sterling is a Tech House and House artist with 10 upcoming club dates listed on soundcheck as of Thu, 10 Sept 2026, next at TBA - Secret location announced only to ticket holders, Ibiza on Fri, 11 Sept 2026.
+Ben Sterling is a Tech House and House artist with 10 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at TBA - Secret location announced only to ticket holders, Ibiza on Fri, 11 Sept 2026.
 
 Ben Sterling is a tech house and house artist tracked on soundcheck, with 187 sets logged across Amsterdam, Austin, Barcelona and Belgrade and 39 more. Often billed alongside Marco Carola, Max Dean and Ms. Mada. Next up: TBA - Secret location announced only to ticket holders, Ibiza on Fri 11 Sept.
 
@@ -34,4 +34,4 @@ Ben Sterling is a tech house and house artist tracked on soundcheck, with 187 se
 
 Marco Carola, Max Dean, Ms. Mada
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bensterling/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bensterling/)*

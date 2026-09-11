@@ -1,6 +1,6 @@
 # FREE OPEN AIR BEACH PARTY: Lost invites Posay at Sunseabar Beach Club
 
-FREE OPEN AIR BEACH PARTY: Lost invites Posay at Sunseabar Beach Club on Sun 20 Sept, Barcelona. 3 acts on the bill: André Butano, Jean Pierre and Karla Amaro. Techno and House. Preview the line-up and save it on soundcheck.
+FREE OPEN AIR BEACH PARTY: Lost invites Posay at Sunseabar Beach Club on Sun 20 Sept, Barcelona. 5 acts on the bill: André Butano, ATMEN, Cesar Martino and Jean Pierre and 1 more. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,6 +11,8 @@ FREE OPEN AIR BEACH PARTY: Lost invites Posay at Sunseabar Beach Club on Sun 20 
 ## Line-up
 
 - André Butano
+- ATMEN
+- Cesar Martino
 - Jean Pierre
 - Karla Amaro
 

@@ -1,14 +1,13 @@
 # Prunk
 
-Prunk is a House and Tech House artist with 18 upcoming club dates listed on soundcheck as of Thu, 10 Sept 2026, next at Chinois Ibiza, Ibiza on Thu, 10 Sept 2026.
+Prunk is a House and Tech House artist with 17 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at Kralingse Bos, Rotterdam on Sat, 12 Sept 2026.
 
-Prunk is a house and tech house artist tracked on soundcheck, with 302 sets logged across Amsterdam, Antwerp, Austin and Bali and 41 more. Often billed alongside Kellie Allen, M-High and Robbie Doherty. Next up: Chinois Ibiza, Ibiza on Thu 10 Sept.
+Prunk is a house and tech house artist tracked on soundcheck, with 302 sets logged across Amsterdam, Antwerp, Austin and Bali and 41 more. Often billed alongside Kellie Allen, M-High and Robbie Doherty. Next up: Kralingse Bos, Rotterdam on Sat 12 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Thu, 10 Sept 2026 | Chinois Ibiza | Ibiza |
 | Sat, 12 Sept 2026 | Kralingse Bos | Rotterdam |
 | Sat, 12 Sept 2026 | Gaswrx Birmingham | London |
 | Fri, 18 Sept 2026 | Openluchttheater Amersfoort | Amsterdam |
@@ -20,9 +19,11 @@ Prunk is a house and tech house artist tracked on soundcheck, with 302 sets logg
 | Thu, 1 Oct 2026 | UNO MALTA | Malta |
 | Tue, 6 Oct 2026 | Cova Santa | Ibiza |
 | Sat, 10 Oct 2026 | Ushuaïa Ibiza | Ibiza |
+| Fri, 23 Oct 2026 | Mediahaven - Minervahaven | Amsterdam |
 
 ## Recently played
 
+- Chinois Ibiza, Ibiza — Thu, 10 Sept 2026
 - Cova Santa, Ibiza — Tue, 8 Sept 2026
 - Los Angeles State Historic Park, Los Angeles — Sun, 6 Sept 2026
 - Los Angeles State Historic Park, Los Angeles — Sun, 6 Sept 2026
@@ -30,10 +31,9 @@ Prunk is a house and tech house artist tracked on soundcheck, with 302 sets logg
 - Refuge, New York City — Fri, 4 Sept 2026
 - Cova Santa, Ibiza — Tue, 1 Sept 2026
 - Colorado Charlie, The Hague — Fri, 28 Aug 2026
-- Hï Ibiza, Ibiza — Wed, 26 Aug 2026
 
 ## Shares bills with
 
 Kellie Allen, M-High, Robbie Doherty
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/prunk/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/prunk/)*

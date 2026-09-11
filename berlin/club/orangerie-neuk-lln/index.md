@@ -1,14 +1,13 @@
 # Orangerie Neukölln
 
-Orangerie Neukölln is a music venue in Berlin with 8 upcoming nights listed on soundcheck as of Thu, 10 Sept 2026; the next is "Naked Grapes with Luce Bassa" on Thu, 10 Sept 2026.
+Orangerie Neukölln is a music venue in Berlin with 7 upcoming nights listed on soundcheck as of Fri, 11 Sept 2026; the next is "Sound Canteen with Saint September" on Fri, 11 Sept 2026.
 
-Orangerie Neukölln is a music venue in Berlin listed on soundcheck. 8 upcoming nights, with line-ups including Bijon, Gzardin and Saint September. Browse upcoming dates, start times and who's playing. Schierker Str. 8, 12051 Berlin, Germany.
+Orangerie Neukölln is a music venue in Berlin listed on soundcheck. 7 upcoming nights, with line-ups including Bijon, Gzardin and Saint September. Browse upcoming dates, start times and who's playing. Schierker Str. 8, 12051 Berlin, Germany.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Thu, 10 Sept 2026 | Naked Grapes with Luce Bassa |  |
 | Fri, 11 Sept 2026 | Sound Canteen with Saint September | Saint September |
 | Sat, 12 Sept 2026 | Sound Canteen with MYKI |  |
 | Fri, 18 Sept 2026 | Sound Canteen with Bijon | Bijon |
@@ -21,4 +20,4 @@ Orangerie Neukölln is a music venue in Berlin listed on soundcheck. 8 upcoming 
 
 Schierker Str. 8, 12051 Berlin, Germany, Berlin
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/orangerie-neuk-lln/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/orangerie-neuk-lln/)*

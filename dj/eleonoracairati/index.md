@@ -1,6 +1,6 @@
 # Eleonora Cairati
 
-Eleonora Cairati is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 10 Sept 2026, next at Azul Rooftop Barceloneta, Barcelona on Fri, 11 Sept 2026.
+Eleonora Cairati is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at Azul Rooftop Barceloneta, Barcelona on Fri, 11 Sept 2026.
 
 Eleonora Cairati is a techno and house artist tracked on soundcheck, with 14 sets logged across Barcelona, Berlin and London. Often billed alongside Ryan Henry, Thomas Galbardi and Areeb Abbasi. Next up: Azul Rooftop Barceloneta, Barcelona on Fri 11 Sept.
 
@@ -26,4 +26,4 @@ Eleonora Cairati is a techno and house artist tracked on soundcheck, with 14 set
 
 Ryan Henry, Thomas Galbardi, Areeb Abbasi
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/eleonoracairati/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/eleonoracairati/)*

@@ -1,14 +1,15 @@
 # Flex on Trax
 
-Flex on Trax is a Trance and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 10 Sept 2026, next at TBA - SECRET WAREHOUSE, Cologne on Sat, 12 Sept 2026.
+Flex on Trax is a Trance and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at TBA - SECRET WAREHOUSE, Cologne on Sat, 12 Sept 2026.
 
-Flex on Trax is a trance and techno artist based in Germany, tracked on soundcheck, with 13 sets logged across Berlin and Cologne. Often billed alongside Rosilicious, B!B! and Bouncy Bitch. Next up: TBA - SECRET WAREHOUSE, Cologne on Sat 12 Sept.
+Flex on Trax is a trance and techno artist based in Germany, tracked on soundcheck, with 14 sets logged across Berlin and Cologne. Often billed alongside DJ SODBRENNEN, Rosilicious and B!B!. Next up: TBA - SECRET WAREHOUSE, Cologne on Sat 12 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 12 Sept 2026 | TBA - SECRET WAREHOUSE | Cologne |
+| Sat, 19 Sept 2026 | Südbrücke Open Air | Cologne |
 
 ## Recently played
 
@@ -23,6 +24,6 @@ Flex on Trax is a trance and techno artist based in Germany, tracked on soundche
 
 ## Shares bills with
 
-Rosilicious, B!B!, Bouncy Bitch
+DJ SODBRENNEN, Rosilicious, B!B!
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/flexontrax/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/flexontrax/)*

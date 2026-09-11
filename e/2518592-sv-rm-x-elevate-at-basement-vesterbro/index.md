@@ -1,6 +1,6 @@
 # SVÆRM x ELEVATE at Basement Vesterbro
 
-SVÆRM x ELEVATE at Basement Vesterbro on Fri 25 Sept, Copenhagen. 3 acts on the bill: AMITTET, Lixin and MNSTR. Bass and Dubstep. Preview the line-up and save it on soundcheck.
+SVÆRM x ELEVATE at Basement Vesterbro on Fri 25 Sept, Copenhagen. 3 acts on the bill: AMITTET, Lixin and MNSTR. Electro and Dubstep. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

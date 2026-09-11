@@ -1,6 +1,6 @@
 # Jezza & Jod
 
-Jezza & Jod is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Thu, 10 Sept 2026, next at XOYO, London on Sat, 26 Sept 2026.
+Jezza & Jod is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at XOYO, London on Sat, 26 Sept 2026.
 
 Jezza & Jod are a techno and house duo tracked on soundcheck, with 56 sets logged across Aberdeen, Amsterdam, Belfast and Budapest and 11 more. Often billed alongside blk., Black Traffic and Jason Cluff. Next up: XOYO, London on Sat 26 Sept.
 
@@ -27,4 +27,4 @@ Jezza & Jod are a techno and house duo tracked on soundcheck, with 56 sets logge
 
 blk., Black Traffic, Jason Cluff
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jezzajod/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jezzajod/)*

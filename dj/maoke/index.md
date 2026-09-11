@@ -1,6 +1,6 @@
 # Māokē
 
-Māokē is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Thu, 10 Sept 2026, next at Le Son de la Terre, Paris on Fri, 11 Sept 2026.
+Māokē is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Fri, 11 Sept 2026, next at Le Son de la Terre, Paris on Fri, 11 Sept 2026.
 
 Māokē is a house and disco artist based in France, tracked on soundcheck, with 9 sets logged across Paris. Often billed alongside KAZAM, Victor Tomasi and Yann Polewka. Next up: Le Son de la Terre, Paris on Fri 11 Sept.
 
@@ -25,4 +25,4 @@ Māokē is a house and disco artist based in France, tracked on soundcheck, with
 
 KAZAM, Victor Tomasi, Yann Polewka
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/maoke/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/maoke/)*

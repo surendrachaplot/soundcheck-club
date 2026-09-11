@@ -1,6 +1,6 @@
 # saskia laval
 
-saskia laval is a Techno and Hardcore artist with 1 upcoming club date listed on soundcheck as of Thu, 10 Sept 2026, next at John Doe, Amsterdam on Wed, 30 Sept 2026.
+saskia laval is a Techno and Hardcore artist with 1 upcoming club date listed on soundcheck as of Fri, 11 Sept 2026, next at John Doe, Amsterdam on Wed, 30 Sept 2026.
 
 saskia laval is a techno and hardcore artist based in Netherlands, tracked on soundcheck, with 9 sets logged across Amsterdam and Thehague. Often billed alongside Gaya Carmeli, Alex Sharp and CØPTER. Next up: John Doe, Amsterdam on Wed 30 Sept.
 
@@ -25,4 +25,4 @@ saskia laval is a techno and hardcore artist based in Netherlands, tracked on so
 
 Gaya Carmeli, Alex Sharp, CØPTER
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/saskialaval/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/saskialaval/)*

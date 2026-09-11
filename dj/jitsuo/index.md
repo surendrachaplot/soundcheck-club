@@ -1,6 +1,6 @@
 # Jitsuo
 
-Jitsuo is a Electronica and House artist with 1 upcoming club date listed on soundcheck as of Thu, 10 Sept 2026, next at Biás Vilerm, Mexico City on Tue, 15 Sept 2026.
+Jitsuo is a Electronica and House artist with 1 upcoming club date listed on soundcheck as of Fri, 11 Sept 2026, next at Biás Vilerm, Mexico City on Tue, 15 Sept 2026.
 
 Jitsuo is an electronica and house artist tracked on soundcheck, with 9 sets logged across Mexicocity. Often billed alongside Numbervlad, Alacrán del Amor and Andró Garrigós. Next up: Biás Vilerm, Mexicocity on Tue 15 Sept.
 
@@ -25,4 +25,4 @@ Jitsuo is an electronica and house artist tracked on soundcheck, with 9 sets log
 
 Numbervlad, Alacrán del Amor, Andró Garrigós
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jitsuo/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jitsuo/)*

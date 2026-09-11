@@ -1,6 +1,6 @@
 # LOVEFOXY
 
-LOVEFOXY is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Thu, 10 Sept 2026, next at La Terrrazza, Barcelona on Fri, 11 Sept 2026.
+LOVEFOXY is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at La Terrrazza, Barcelona on Fri, 11 Sept 2026.
 
 LOVEFOXY is a house and techno artist tracked on soundcheck, with 163 sets logged across Aberdeen, Amsterdam, Barcelona and Basel and 42 more. Often billed alongside DJ Heartstring, Elli Acula and BELLA (NL). Next up: La Terrrazza, Barcelona on Fri 11 Sept.
 
@@ -28,4 +28,4 @@ LOVEFOXY is a house and techno artist tracked on soundcheck, with 163 sets logge
 
 DJ Heartstring, Elli Acula, BELLA (NL)
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lovefoxy/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lovefoxy/)*

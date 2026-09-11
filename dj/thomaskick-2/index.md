@@ -1,6 +1,6 @@
 # Thomas Kick (2)
 
-Thomas Kick (2) is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 10 Sept 2026, next at TBA - Secret Location (Madrid), Madrid on Sat, 12 Sept 2026.
+Thomas Kick (2) is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at TBA - Secret Location (Madrid), Madrid on Sat, 12 Sept 2026.
 
 Thomas Kick (2) is a house and techno artist based in Spain, tracked on soundcheck, with 35 sets logged across Barcelona, London, Madrid and Milan. Often billed alongside Adria (ES), Pau Rosés and Perro Jimbo. Next up: TBA - Secret Location (Madrid), Madrid on Sat 12 Sept.
 
@@ -26,4 +26,4 @@ Thomas Kick (2) is a house and techno artist based in Spain, tracked on soundche
 
 Adria (ES), Pau Rosés, Perro Jimbo
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/thomaskick-2/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/thomaskick-2/)*

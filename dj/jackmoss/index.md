@@ -1,14 +1,14 @@
 # Jack Moss
 
-Jack Moss is a Techno and Acid artist with 1 upcoming club date listed on soundcheck as of Thu, 10 Sept 2026, next at OverDraught, Manchester on Fri, 2 Oct 2026.
+Jack Moss is a Techno and Acid artist with 1 upcoming club date listed on soundcheck as of Fri, 11 Sept 2026, next at Liquidate, Manchester on Fri, 2 Oct 2026.
 
-Jack Moss is a techno and acid artist based in United Kingdom, tracked on soundcheck, with 10 sets logged across London and Manchester. Often billed alongside Alex Gaskill, CJ Art and Daniel Lesden. Next up: OverDraught, Manchester on Fri 2 Oct.
+Jack Moss is a techno and acid artist based in United Kingdom, tracked on soundcheck, with 10 sets logged across London and Manchester. Often billed alongside Alex Gaskill, CJ Art and Daniel Lesden. Next up: Liquidate, Manchester on Fri 2 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 2 Oct 2026 | OverDraught | Manchester |
+| Fri, 2 Oct 2026 | Liquidate | Manchester |
 
 ## Recently played
 
@@ -25,4 +25,4 @@ Jack Moss is a techno and acid artist based in United Kingdom, tracked on soundc
 
 Alex Gaskill, CJ Art, Daniel Lesden
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jackmoss/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jackmoss/)*

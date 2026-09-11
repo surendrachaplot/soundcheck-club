@@ -1,6 +1,6 @@
 # Above & Beyond presents Anjunabeats Warehouse at The Prospect Building
 
-Above & Beyond presents Anjunabeats Warehouse at The Prospect Building on Fri 30 Oct, Bristol. 1 act on the bill: Above & Beyond. Trance and Deep House. Preview the line-up and save it on soundcheck.
+Above & Beyond presents Anjunabeats Warehouse at The Prospect Building on Fri 30 Oct, Bristol. 4 acts on the bill: Above & Beyond, Marsh, Mat Zo and Sanaz. Trance and Deep House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,5 +11,8 @@ Above & Beyond presents Anjunabeats Warehouse at The Prospect Building on Fri 30
 ## Line-up
 
 - Above & Beyond
+- Marsh
+- Mat Zo
+- Sanaz
 
 *Source: [soundcheck](https://soundcheck.club/e/2494191-above-beyond-presents-anjunabeats-warehouse-at-the-prospect/)*

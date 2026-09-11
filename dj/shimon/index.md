@@ -1,13 +1,14 @@
 # Shimon
 
-Shimon is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 10 Sept 2026, next at Studio 338, London on Sat, 26 Sept 2026.
+Shimon is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at UTOPIA / DYSTOPIA, Tokyo on Sun, 20 Sept 2026.
 
-Shimon is a house and techno artist tracked on soundcheck, with 39 sets logged across Amsterdam, Berlin, Geneva and Hamburg and 6 more. Often billed alongside Farry, Edouard! and Benny L. Next up: Studio 338, London on Sat 26 Sept.
+Shimon is a house and techno artist tracked on soundcheck, with 40 sets logged across Amsterdam, Berlin, Geneva and Hamburg and 6 more. Often billed alongside Farry, Edouard! and Benny L. Next up: UTOPIA / DYSTOPIA, Tokyo on Sun 20 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sun, 20 Sept 2026 | UTOPIA / DYSTOPIA | Tokyo |
 | Sat, 26 Sept 2026 | Studio 338 | London |
 
 ## Recently played
@@ -25,4 +26,4 @@ Shimon is a house and techno artist tracked on soundcheck, with 39 sets logged a
 
 Farry, Edouard!, Benny L
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/shimon/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/shimon/)*

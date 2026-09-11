@@ -1,6 +1,6 @@
 # Hayliegh
 
-Hayliegh is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Thu, 10 Sept 2026, next at After Dark, Bristol on Fri, 2 Oct 2026.
+Hayliegh is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Fri, 11 Sept 2026, next at After Dark, Bristol on Fri, 2 Oct 2026.
 
 Hayliegh is a house and minimal artist tracked on soundcheck, with 8 sets logged across Bristol. Often billed alongside SUFI, Dressed To Sweat and Thrilogy. Next up: After Dark, Bristol on Fri 2 Oct.
 
@@ -24,4 +24,4 @@ Hayliegh is a house and minimal artist tracked on soundcheck, with 8 sets logged
 
 SUFI, Dressed To Sweat, Thrilogy
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/hayliegh/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/hayliegh/)*

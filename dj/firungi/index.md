@@ -1,14 +1,16 @@
 # Firungi
 
-Firungi is a Afro House and House artist with 1 upcoming club date listed on soundcheck as of Thu, 10 Sept 2026, next at SILO, New York City on Sat, 26 Sept 2026.
+Firungi is a Afro House and House artist with 3 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at SILO, New York City on Sat, 26 Sept 2026.
 
-Firungi is an afro house and house artist tracked on soundcheck, with 25 sets logged across Newyorkcity, Seattle and Washingtondc. Often billed alongside Anyasa, Harji and AQ. Next up: SILO, Newyorkcity on Sat 26 Sept.
+Firungi is an afro house and house artist tracked on soundcheck, with 27 sets logged across Amsterdam, Newyorkcity, Seattle and Toronto and 1 more. Often billed alongside Anyasa, Harji and ANSWER (IN). Next up: SILO, Newyorkcity on Sat 26 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 26 Sept 2026 | SILO | New York City |
+| Fri, 16 Oct 2026 | 1444 Dupont | Toronto |
+| Fri, 23 Oct 2026 | Papaverweg 46 | Amsterdam |
 
 ## Recently played
 
@@ -23,6 +25,6 @@ Firungi is an afro house and house artist tracked on soundcheck, with 25 sets lo
 
 ## Shares bills with
 
-Anyasa, Harji, AQ
+Anyasa, Harji, ANSWER (IN)
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/firungi/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/firungi/)*

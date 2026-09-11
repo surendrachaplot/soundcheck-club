@@ -1,6 +1,6 @@
 # DJ P€gga$u$
 
-DJ P€gga$u$ is a Club and Bass artist with 1 upcoming club date listed on soundcheck as of Thu, 10 Sept 2026, next at Romantso, Athens on Fri, 11 Sept 2026.
+DJ P€gga$u$ is a Club and Bass artist with 1 upcoming club date listed on soundcheck as of Fri, 11 Sept 2026, next at Romantso, Athens on Fri, 11 Sept 2026.
 
 DJ P€gga$u$ is a club and bass artist based in Greece, tracked on soundcheck, with 6 sets logged across Athens. Often billed alongside Nicol Bolas, pink.wav and Apu Nanu. Next up: Romantso, Athens on Fri 11 Sept.
 
@@ -22,4 +22,4 @@ DJ P€gga$u$ is a club and bass artist based in Greece, tracked on soundcheck, 
 
 Nicol Bolas, pink.wav, Apu Nanu
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djpeggassus/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djpeggassus/)*

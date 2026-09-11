@@ -1,6 +1,6 @@
 # Tiffy Vera
 
-Tiffy Vera is a House and Tech House artist with 4 upcoming club dates listed on soundcheck as of Thu, 10 Sept 2026, next at Floyd, Miami on Sat, 12 Sept 2026.
+Tiffy Vera is a House and Tech House artist with 4 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at Floyd, Miami on Sat, 12 Sept 2026.
 
 Tiffy Vera is a house and tech house artist tracked on soundcheck, with 49 sets logged across Losangeles, Melbourne, Miami and Newyorkcity and 4 more. Often billed alongside Nii Tei, Malone and Marten Lou. Next up: Floyd, Miami on Sat 12 Sept.
 
@@ -28,4 +28,4 @@ Tiffy Vera is a house and tech house artist tracked on soundcheck, with 49 sets 
 
 Nii Tei, Malone, Marten Lou
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tiffyvera/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tiffyvera/)*

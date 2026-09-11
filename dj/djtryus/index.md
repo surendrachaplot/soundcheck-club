@@ -1,6 +1,6 @@
 # DJ Try (US)
 
-DJ Try (US) is a Trance and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 10 Sept 2026, next at The Dolphin, Philadelphia on Sat, 26 Sept 2026.
+DJ Try (US) is a Trance and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at The Dolphin, Philadelphia on Sat, 26 Sept 2026.
 
 DJ Try (US) is a trance and techno artist based in United States of America, tracked on soundcheck, with 10 sets logged across Barcelona, Berlin, Ibiza and London and 5 more. Often billed alongside CITYSPROBLEM, moistbreezy and Princess Elf Bar. Next up: The Dolphin, Philadelphia on Sat 26 Sept.
 
@@ -26,4 +26,4 @@ DJ Try (US) is a trance and techno artist based in United States of America, tra
 
 CITYSPROBLEM, moistbreezy, Princess Elf Bar
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djtryus/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djtryus/)*

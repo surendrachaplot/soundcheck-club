@@ -1,10 +1,10 @@
 # Sonica: Luka Liluashvili at The Listening House | Pollok House
 
-Sonica: Luka Liluashvili at The Listening House | Pollok House on Sun 4 Oct, Glasgow. Ambient and Experimental. Preview the line-up and save it on soundcheck.
+Sonica: Luka Liluashvili at The Listening House | Pollok House on Sat 3 Oct, Glasgow. Ambient and Experimental. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
-| Date | Sun, 4 Oct 2026 |
+| Date | Sat, 3 Oct 2026 |
 | Venue | The Listening House / Pollok House |
 | City | Glasgow |
 

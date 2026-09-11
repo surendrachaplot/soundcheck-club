@@ -1,14 +1,13 @@
 # Chinois Ibiza
 
-Chinois Ibiza is a music venue in Ibiza with 27 upcoming nights listed on soundcheck as of Thu, 10 Sept 2026; the next is "Defected: Bradley Zero b2b Carl Craig, Ceri, Kellie Allen, Melé, Prunk b2b Caleb Jackson" on Thu, 10 Sept 2026.
+Chinois Ibiza is a music venue in Ibiza with 26 upcoming nights listed on soundcheck as of Fri, 11 Sept 2026; the next is "Major League Djz presents: Mahmut Orhan, Alan Dixon, Niiomi" on Fri, 11 Sept 2026.
 
-Chinois Ibiza is a music venue in Ibiza listed on soundcheck. 27 upcoming nights, with line-ups including 2lovers, Alan Dixon, Andrea Oliva and Antdot and 2 more. Browse upcoming dates, start times and who's playing. Passeig Joan Carles I, 17, 07800 Eivissa, Illes Balears, Spain.
+Chinois Ibiza is a music venue in Ibiza listed on soundcheck. 26 upcoming nights, with line-ups including 2lovers, Alan Dixon, Andrea Oliva and Antdot and 2 more. Browse upcoming dates, start times and who's playing. Passeig Joan Carles I, 17, 07800 Eivissa, Illes Balears, Spain.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Thu, 10 Sept 2026 | Defected: Bradley Zero b2b Carl Craig, Ceri, Kellie Allen, Melé, Prunk b2b Caleb Jackson | Bradley Zero, Caleb Jackson, Carl Craig, Ceri, Kellie Allen, Melé, Prunk |
 | Fri, 11 Sept 2026 | Major League Djz presents: Mahmut Orhan, Alan Dixon, Niiomi | Alan Dixon, Mahmut Orhan, Major League Djz, Niiomi |
 | Sat, 12 Sept 2026 | The Masquerade: Claptone, Hannah Wants B2B Paul Woolford, Chus & Ceballos, Peverell | Chus & Ceballos, Claptone, Hannah Wants, Paul Woolford, Peverell |
 | Sun, 13 Sept 2026 | Bedouin presents SAGA | Baron, Bedouin, Dorian Craft, Jan Blomqvist |
@@ -18,9 +17,10 @@ Chinois Ibiza is a music venue in Ibiza listed on soundcheck. 27 upcoming nights
 | Fri, 18 Sept 2026 | Major League Djz presents: DJEFF B2B Fiona Kraft, Jonathan Kaspar, SAMA | DJEFF, Fiona Kraft, Jonathan Kaspar, Major League Djz, SAMA (NL) |
 | Sat, 19 Sept 2026 | The Masquerade: Claptone, Pete Tong, Alexander Som, Artche | Artche, Claptone, Pete Tong |
 | Sun, 20 Sept 2026 | Bedouin presents SAGA | Bedouin |
+| Mon, 21 Sept 2026 | La Troya: Hannah Wants, Jodie Harsh, Oscar Colorado, RAMPINI | Hannah Wants, Jodie Harsh, Oscar Colorado |
 
 ## Address
 
 Passeig Joan Carles I, 17, 07800 Eivissa, Illes Balears, Spain, Ibiza
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/ibiza/club/chinois-ibiza/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/ibiza/club/chinois-ibiza/)*

@@ -1,6 +1,6 @@
 # Nik Kastel
 
-Nik Kastel is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Thu, 10 Sept 2026, next at Cult Nightclub, Sydney on Fri, 18 Sept 2026.
+Nik Kastel is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at Cult Nightclub, Sydney on Fri, 18 Sept 2026.
 
 Nik Kastel is a techno and trance artist based in Australia, tracked on soundcheck, with 24 sets logged across Brisbane, Melbourne, Paris and Shenzhen and 1 more. Often billed alongside Alex Farell, Andrea Guadalupi and Etwas. Next up: Cult Nightclub, Sydney on Fri 18 Sept.
 
@@ -26,4 +26,4 @@ Nik Kastel is a techno and trance artist based in Australia, tracked on soundche
 
 Alex Farell, Andrea Guadalupi, Etwas
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nikkastel/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nikkastel/)*

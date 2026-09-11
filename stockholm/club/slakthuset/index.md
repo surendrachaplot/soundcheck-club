@@ -1,6 +1,6 @@
 # Slakthuset
 
-Slakthuset is a music venue in Stockholm with 5 upcoming nights listed on soundcheck as of Thu, 10 Sept 2026; the next is "Klubb Euphoria - Floor 1: Trance / Floor 2: Eurodance" on Fri, 11 Sept 2026.
+Slakthuset is a music venue in Stockholm with 5 upcoming nights listed on soundcheck as of Fri, 11 Sept 2026; the next is "Klubb Euphoria - Floor 1: Trance / Floor 2: Eurodance" on Fri, 11 Sept 2026.
 
 Slakthuset is a music venue in Stockholm listed on soundcheck. 5 upcoming nights, with line-ups including Andemon, Anna Reusch, Anneli and Bara W and 2 more. Browse upcoming dates, start times and who's playing. Slakthusgatan 6, 121 62 Johanneshov, Sweden.
 
@@ -18,4 +18,4 @@ Slakthuset is a music venue in Stockholm listed on soundcheck. 5 upcoming nights
 
 Slakthusgatan 6, 121 62 Johanneshov, Sweden, Stockholm
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/stockholm/club/slakthuset/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/stockholm/club/slakthuset/)*

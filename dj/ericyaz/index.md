@@ -1,6 +1,6 @@
 # Eric Yaz
 
-Eric Yaz is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 10 Sept 2026, next at Flash, Washington DC on Sat, 10 Oct 2026.
+Eric Yaz is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 11 Sept 2026, next at Flash, Washington DC on Sat, 10 Oct 2026.
 
 Eric Yaz is a techno and house artist tracked on soundcheck, with 63 sets logged across Detroit, Miami, Newyorkcity and Sandiego and 1 more. Often billed alongside SPCL.K, Xav (US) and Stagira. Next up: Flash, Washingtondc on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ Eric Yaz is a techno and house artist tracked on soundcheck, with 63 sets logged
 
 SPCL.K, Xav (US), Stagira
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ericyaz/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ericyaz/)*

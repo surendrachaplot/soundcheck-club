@@ -1,6 +1,6 @@
 # Desbike
 
-Desbike is a electronic artist with 1 upcoming club date listed on soundcheck as of Thu, 10 Sept 2026, next at Salon Badin, Montreal on Fri, 25 Sept 2026.
+Desbike is a electronic artist with 1 upcoming club date listed on soundcheck as of Fri, 11 Sept 2026, next at Salon Badin, Montreal on Fri, 25 Sept 2026.
 
 Desbike is an electronic artist based in Canada, tracked on soundcheck, with 9 sets logged across Montreal. Next up: Salon Badin, Montreal on Fri 25 Sept.
 
@@ -21,4 +21,4 @@ Desbike is an electronic artist based in Canada, tracked on soundcheck, with 9 s
 - Salon Badin, Montreal — Fri, 5 Sept 2025
 - Salon Badin, Montreal — Sat, 16 Aug 2025
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/desbike/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/desbike/)*

@@ -1,6 +1,6 @@
 # Jeremy P. Caulfield
 
-Jeremy P. Caulfield is a Techno and Drum & Bass artist with 2 upcoming club dates listed on soundcheck as of Thu, 10 Sept 2026, next at Rhythm, Toronto on Wed, 16 Sept 2026.
+Jeremy P. Caulfield is a Techno and Drum & Bass artist with 2 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at Rhythm, Toronto on Wed, 16 Sept 2026.
 
 Jeremy P. Caulfield is a techno and drum & bass artist tracked on soundcheck, with 8 sets logged across Toronto. Often billed alongside Ian Guthrie, Lee Osborne and Ciel. Next up: Rhythm, Toronto on Wed 16 Sept.
 
@@ -24,4 +24,4 @@ Jeremy P. Caulfield is a techno and drum & bass artist tracked on soundcheck, wi
 
 Ian Guthrie, Lee Osborne, Ciel
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jeremypcaulfield/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jeremypcaulfield/)*

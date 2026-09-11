@@ -1,6 +1,6 @@
 # Freud's
 
-Freud's is a music venue in London with 1 upcoming night listed on soundcheck as of Thu, 10 Sept 2026; the next is "DISTRESSD" on Thu, 17 Sept 2026.
+Freud's is a music venue in London with 1 upcoming night listed on soundcheck as of Fri, 11 Sept 2026; the next is "DISTRESSD" on Thu, 17 Sept 2026.
 
 Freud's is a music venue in London listed on soundcheck. 1 upcoming night, with line-ups including Grandmixxer. Browse upcoming dates, start times and who's playing. 198 Shaftesbury Avenue , London, WC2H 8JL, United Kingdom.
 
@@ -14,4 +14,4 @@ Freud's is a music venue in London listed on soundcheck. 1 upcoming night, with 
 
 198 Shaftesbury Avenue , London, WC2H 8JL, United Kingdom, London
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/freud-s/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/freud-s/)*

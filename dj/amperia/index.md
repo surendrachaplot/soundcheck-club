@@ -1,14 +1,14 @@
 # Amperia
 
-Amperia is a Techno and Progressive House artist with 1 upcoming club date listed on soundcheck as of Thu, 10 Sept 2026, next at TBA, Berlin on Sat, 12 Sept 2026.
+Amperia is a Techno and Progressive House artist with 1 upcoming club date listed on soundcheck as of Fri, 11 Sept 2026, next at TBA - Berlin-Neukölln, Berlin on Sat, 12 Sept 2026.
 
-Amperia is a techno and progressive house artist tracked on soundcheck, with 48 sets logged across Berlin, Frankfurt, Hamburg and Leipzig and 2 more. Often billed alongside 2FARO, KH38 and Mashyno. Next up: TBA, Berlin on Sat 12 Sept.
+Amperia is a techno and progressive house artist tracked on soundcheck, with 48 sets logged across Berlin, Frankfurt, Hamburg and Leipzig and 2 more. Often billed alongside 2FARO, KH38 and Mashyno. Next up: TBA - Berlin-Neukölln, Berlin on Sat 12 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 12 Sept 2026 | TBA | Berlin |
+| Sat, 12 Sept 2026 | TBA - Berlin-Neukölln | Berlin |
 
 ## Recently played
 
@@ -25,4 +25,4 @@ Amperia is a techno and progressive house artist tracked on soundcheck, with 48 
 
 2FARO, KH38, Mashyno
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/amperia/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/amperia/)*

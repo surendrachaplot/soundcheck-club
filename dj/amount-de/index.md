@@ -1,8 +1,8 @@
 # Amount (DE)
 
-Amount (DE) is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Thu, 10 Sept 2026, next at 516 S Anderson Street, Los Angeles on Sat, 12 Sept 2026.
+Amount (DE) is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at 516 S Anderson Street, Los Angeles on Sat, 12 Sept 2026.
 
-Amount (DE) is a techno and house artist tracked on soundcheck, with 11 sets logged across Bali, Berlin, Leipzig and Losangeles and 2 more. Often billed alongside Debit, James Carter and Method. Next up: 516 S Anderson Street, Losangeles on Sat 12 Sept.
+Amount (DE) is a techno and house artist tracked on soundcheck, with 13 sets logged across Bali, Berlin, Detroit and Leipzig and 4 more. Often billed alongside Debit, Method and APP. Next up: 516 S Anderson Street, Losangeles on Sat 12 Sept.
 
 ## Upcoming shows
 
@@ -12,6 +12,8 @@ Amount (DE) is a techno and house artist tracked on soundcheck, with 11 sets log
 | Sat, 12 Sept 2026 | F Lounge | Bali |
 | Sat, 12 Sept 2026 | St J Cyber Cafe | Los Angeles |
 | Sat, 12 Sept 2026 | Under the K Bridge | New York City |
+| Sat, 12 Sept 2026 | 1500m2 | Warsaw |
+| Sat, 12 Sept 2026 | 10 Critics | Detroit |
 
 ## Recently played
 
@@ -25,6 +27,6 @@ Amount (DE) is a techno and house artist tracked on soundcheck, with 11 sets log
 
 ## Shares bills with
 
-Debit, James Carter, Method
+Debit, Method, APP
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/amount-de/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/amount-de/)*

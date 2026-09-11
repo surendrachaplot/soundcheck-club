@@ -1,6 +1,6 @@
 # Alvaro Medina
 
-Alvaro Medina is a House and Minimal artist with 3 upcoming club dates listed on soundcheck as of Thu, 10 Sept 2026, next at Sunseabar Beach Club, Barcelona on Sun, 27 Sept 2026.
+Alvaro Medina is a House and Minimal artist with 3 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at Sunseabar Beach Club, Barcelona on Sun, 27 Sept 2026.
 
 Alvaro Medina is a house and minimal artist based in Spain, tracked on soundcheck, with 83 sets logged across Amsterdam, Barcelona, Berlin and Bucharest and 9 more. Often billed alongside MARYO, Federico Molinari and Nekes. Next up: Sunseabar Beach Club, Barcelona on Sun 27 Sept.
 
@@ -27,4 +27,4 @@ Alvaro Medina is a house and minimal artist based in Spain, tracked on soundchec
 
 MARYO, Federico Molinari, Nekes
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/alvaromedina/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/alvaromedina/)*

@@ -1,6 +1,6 @@
 # S.D.H.Q. presents: Sonic Dimensions #1 at Distillery
 
-S.D.H.Q. presents: Sonic Dimensions #1 at Distillery on Fri 25 Sept, Leipzig. 2 acts on the bill: Kalitos and OutWithJane. Drum & Bass and Electro. Preview the line-up and save it on soundcheck.
+S.D.H.Q. presents: Sonic Dimensions #1 at Distillery on Fri 25 Sept, Leipzig. 2 acts on the bill: Kalitos and OutWithJane. Tech House and Electro. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

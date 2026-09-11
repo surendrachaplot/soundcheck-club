@@ -1,6 +1,6 @@
 # Esther
 
-Esther is a Club and House artist with 1 upcoming club date listed on soundcheck as of Thu, 10 Sept 2026, next at Phonox, London on Sat, 14 Nov 2026.
+Esther is a Club and House artist with 1 upcoming club date listed on soundcheck as of Fri, 11 Sept 2026, next at Phonox, London on Sat, 14 Nov 2026.
 
 Esther is a club and house artist based in Germany, tracked on soundcheck, with 15 sets logged across Bangkok, Berlin, Cardiff and London and 6 more. Often billed alongside A Strange Wedding, ABI (FR) and Almevan. Next up: Phonox, London on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ Esther is a club and house artist based in Germany, tracked on soundcheck, with 
 
 A Strange Wedding, ABI (FR), Almevan
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/esther-de/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/esther-de/)*

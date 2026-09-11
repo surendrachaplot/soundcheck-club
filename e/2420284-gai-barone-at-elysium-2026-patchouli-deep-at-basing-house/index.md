@@ -1,6 +1,6 @@
 # Gai Barone at ELYSIUM 2026 - Patchouli Deep at Basing House
 
-Gai Barone at ELYSIUM 2026 - Patchouli Deep at Basing House on Fri 11 Sept, London. 20 acts on the bill: AALEX, Adela, Alythia Kwan and Arterapsy and 16 more. Progressive House and Deep House. Preview the line-up and save it on soundcheck.
+Gai Barone at ELYSIUM 2026 - Patchouli Deep at Basing House on Fri 11 Sept, London. 21 acts on the bill: AALEX, Adela, Alythia Kwan and Arterapsy and 17 more. Progressive House and Deep House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -16,6 +16,7 @@ Gai Barone at ELYSIUM 2026 - Patchouli Deep at Basing House on Fri 11 Sept, Lond
 - Arterapsy
 - Brands
 - Clara Vox
+- David Craig
 - Flying Fat
 - Gai Barone
 - Harry Wilson

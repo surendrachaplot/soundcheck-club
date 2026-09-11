@@ -1,14 +1,13 @@
 # Minimal Bar
 
-Minimal Bar is a music venue in Berlin with 85 upcoming nights listed on soundcheck as of Thu, 10 Sept 2026; the next is "electronic.thursday mit halfaneagle" on Thu, 10 Sept 2026.
+Minimal Bar is a music venue in Berlin with 86 upcoming nights listed on soundcheck as of Fri, 11 Sept 2026; the next is "friends.zone mit Fritz Funke & Freunde" on Fri, 11 Sept 2026.
 
-Minimal Bar is a music venue in Berlin listed on soundcheck. 85 upcoming nights, with line-ups including Andi de Luxe, Beshy, Beta Basti and Bin Okin and 2 more. Browse upcoming dates, start times and who's playing. Rigaer Strasse 31; Friedrichshain; 10247 Berlin; Germany.
+Minimal Bar is a music venue in Berlin listed on soundcheck. 86 upcoming nights, with line-ups including Andi de Luxe, Beshy, Beta Basti and Bin Okin and 2 more. Browse upcoming dates, start times and who's playing. Rigaer Strasse 31; Friedrichshain; 10247 Berlin; Germany.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Thu, 10 Sept 2026 | electronic.thursday mit halfaneagle |  |
 | Fri, 11 Sept 2026 | friends.zone mit Fritz Funke & Freunde | Fritz Funke |
 | Sat, 12 Sept 2026 | DAZA, Guiddo & MiiSCHA | DAZA, Guiddo, MiiSCHA |
 | Sun, 13 Sept 2026 | lazy.sunday mit Robot Girl | Robot Girl |
@@ -18,9 +17,10 @@ Minimal Bar is a music venue in Berlin listed on soundcheck. 85 upcoming nights,
 | Thu, 17 Sept 2026 | electronic.thursday mit Man-L & freunde | Man-L |
 | Fri, 18 Sept 2026 | luca.and.friends. mit Luca ( Minimal Bar) & Freunde |  |
 | Sat, 19 Sept 2026 | friends.zone mit Jørnemann & Freunde | Jørnemann |
+| Sun, 20 Sept 2026 | lazy.sunday mit CEEE & Freunde | CEEE |
 
 ## Address
 
 Rigaer Strasse 31; Friedrichshain; 10247 Berlin; Germany, Berlin
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/minimal-bar/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/minimal-bar/)*

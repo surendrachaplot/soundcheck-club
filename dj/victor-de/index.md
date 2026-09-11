@@ -1,8 +1,8 @@
 # Victor (DE)
 
-Victor (DE) is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Thu, 10 Sept 2026, next at Café Schöne Aussichten (CSA), Hamburg on Sat, 19 Sept 2026.
+Victor (DE) is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at Café Schöne Aussichten (CSA), Hamburg on Sat, 19 Sept 2026.
 
-Victor (DE) is a techno and house artist based in Germany, tracked on soundcheck, with 85 sets logged across Amsterdam, Barcelona, Berlin and Brussels and 10 more. Often billed alongside Fadi Mohem, Yamour and Ogazón. Next up: Café Schöne Aussichten (CSA), Hamburg on Sat 19 Sept.
+Victor (DE) is a techno and house artist based in Germany, tracked on soundcheck, with 86 sets logged across Amsterdam, Barcelona, Berlin and Brussels and 11 more. Often billed alongside Fadi Mohem, Yamour and Ogazón. Next up: Café Schöne Aussichten (CSA), Hamburg on Sat 19 Sept.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Victor (DE) is a techno and house artist based in Germany, tracked on soundcheck
 | --- | --- | --- |
 | Sat, 19 Sept 2026 | Café Schöne Aussichten (CSA) | Hamburg |
 | Fri, 25 Sept 2026 | Bassiani | Tbilisi |
+| Fri, 2 Oct 2026 | Lasociaciøn | Madrid |
 | Sat, 17 Oct 2026 | Berghain / Panorama Bar / Säule | Berlin |
 | Sun, 25 Oct 2026 | Radio Radio | Amsterdam |
 
@@ -28,4 +29,4 @@ Victor (DE) is a techno and house artist based in Germany, tracked on soundcheck
 
 Fadi Mohem, Yamour, Ogazón
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/victor-de/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/victor-de/)*

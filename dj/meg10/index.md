@@ -1,20 +1,20 @@
 # Meg10
 
-Meg10 is a Techno and Club artist with 4 upcoming club dates listed on soundcheck as of Thu, 10 Sept 2026, next at Coco Boule, Berlin on Thu, 10 Sept 2026.
+Meg10 is a Techno and Club artist with 3 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at Colour Factory, London on Fri, 25 Sept 2026.
 
-Meg10 is a techno and club artist tracked on soundcheck, with 140 sets logged across Amsterdam, Bangkok, Barcelona and Basel and 29 more. Often billed alongside Hanaby, DJ AYA and MCR-T. Next up: Coco Boule, Berlin on Thu 10 Sept.
+Meg10 is a techno and club artist tracked on soundcheck, with 140 sets logged across Amsterdam, Bangkok, Barcelona and Basel and 29 more. Often billed alongside Hanaby, DJ AYA and MCR-T. Next up: Colour Factory, London on Fri 25 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Thu, 10 Sept 2026 | Coco Boule | Berlin |
 | Fri, 25 Sept 2026 | Colour Factory | London |
 | Sat, 26 Sept 2026 | Depot Mayfield | Manchester |
 | Sat, 3 Oct 2026 | Moon Club | Lisbon |
 
 ## Recently played
 
+- Coco Boule, Berlin — Thu, 10 Sept 2026
 - Else, Berlin — Sat, 5 Sept 2026
 - RSO.BERLIN, Berlin — Sat, 8 Aug 2026
 - Kampnagel, Hamburg — Sat, 8 Aug 2026
@@ -22,10 +22,9 @@ Meg10 is a techno and club artist tracked on soundcheck, with 140 sets logged ac
 - OXI, Berlin — Sat, 13 Jun 2026
 - TBA -  LFO, Madrid — Fri, 12 Jun 2026
 - Colour Factory, London — Fri, 5 Jun 2026
-- Rote Sonne, Munich — Wed, 3 Jun 2026
 
 ## Shares bills with
 
 Hanaby, DJ AYA, MCR-T
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/meg10/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/meg10/)*

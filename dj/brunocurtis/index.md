@@ -1,6 +1,6 @@
 # Bruno Curtis
 
-Bruno Curtis is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 10 Sept 2026, next at Ministerium Club, Lisbon on Fri, 11 Sept 2026.
+Bruno Curtis is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at Ministerium Club, Lisbon on Fri, 11 Sept 2026.
 
 Bruno Curtis is a house and techno artist tracked on soundcheck, with 13 sets logged across Lisbon. Often billed alongside Kee_ko, Jorge Caiado and Kaesar. Next up: Ministerium Club, Lisbon on Fri 11 Sept.
 
@@ -26,4 +26,4 @@ Bruno Curtis is a house and techno artist tracked on soundcheck, with 13 sets lo
 
 Kee_ko, Jorge Caiado, Kaesar
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/brunocurtis/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/brunocurtis/)*

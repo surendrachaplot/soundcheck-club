@@ -1,6 +1,6 @@
 # Alexandra Marr
 
-Alexandra Marr is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Thu, 10 Sept 2026, next at Funkhaus, Vienna on Fri, 11 Sept 2026.
+Alexandra Marr is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Fri, 11 Sept 2026, next at Funkhaus, Vienna on Fri, 11 Sept 2026.
 
 Alexandra Marr is a house and disco artist tracked on soundcheck, with 14 sets logged across Madrid, Prague and Vienna. Often billed alongside JP Bechamel, Flying Horstman and Jonatore. Next up: Funkhaus, Vienna on Fri 11 Sept.
 
@@ -25,4 +25,4 @@ Alexandra Marr is a house and disco artist tracked on soundcheck, with 14 sets l
 
 JP Bechamel, Flying Horstman, Jonatore
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/alexandramarr/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/alexandramarr/)*

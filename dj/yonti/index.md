@@ -1,8 +1,8 @@
 # Yonti
 
-Yonti is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Thu, 10 Sept 2026, next at Horn, Bangkok on Fri, 25 Sept 2026.
+Yonti is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at Horn, Bangkok on Fri, 25 Sept 2026.
 
-Yonti is a techno and house artist based in Germany, tracked on soundcheck, with 77 sets logged across Amsterdam, Athens, Bangkok and Barcelona and 28 more. Often billed alongside Roi Perez, Blasha & Allatt and Rachel Noon. Next up: Horn, Bangkok on Fri 25 Sept.
+Yonti is a techno and house artist based in Germany, tracked on soundcheck, with 78 sets logged across Amsterdam, Athens, Bangkok and Barcelona and 28 more. Often billed alongside Roi Perez, Blasha & Allatt and Fadi Mohem. Next up: Horn, Bangkok on Fri 25 Sept.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ Yonti is a techno and house artist based in Germany, tracked on soundcheck, with
 | Fri, 25 Sept 2026 | Horn | Bangkok |
 | Wed, 7 Oct 2026 | Mitsuki | Tokyo |
 | Sat, 10 Oct 2026 | Tresor / Globus | Berlin |
+| Fri, 30 Oct 2026 | TBA - Brooklyn | New York City |
 | Sat, 31 Oct 2026 | Ex Fabrica de Harina Anden Tacuba | Mexico City |
 
 ## Recently played
@@ -26,6 +27,6 @@ Yonti is a techno and house artist based in Germany, tracked on soundcheck, with
 
 ## Shares bills with
 
-Roi Perez, Blasha & Allatt, Rachel Noon
+Roi Perez, Blasha & Allatt, Fadi Mohem
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/yonti/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/yonti/)*

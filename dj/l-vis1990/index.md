@@ -1,6 +1,6 @@
 # L-Vis 1990
 
-L-Vis 1990 is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 10 Sept 2026, next at The Old Blue Last, London on Sat, 19 Sept 2026.
+L-Vis 1990 is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 11 Sept 2026, next at The Old Blue Last, London on Sat, 19 Sept 2026.
 
 L-Vis 1990 is a house and techno artist based in United Kingdom, tracked on soundcheck, with 57 sets logged across Amsterdam, Barcelona, Belfast and Berlin and 13 more. Often billed alongside MJK, Meg Ward and Serenda. Next up: The Old Blue Last, London on Sat 19 Sept.
 
@@ -25,4 +25,4 @@ L-Vis 1990 is a house and techno artist based in United Kingdom, tracked on soun
 
 MJK, Meg Ward, Serenda
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/l-vis1990/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/l-vis1990/)*

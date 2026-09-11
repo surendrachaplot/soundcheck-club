@@ -1,6 +1,6 @@
 # BODIPA
 
-BODIPA is a Afrobeats and Afro House artist with 1 upcoming club date listed on soundcheck as of Thu, 10 Sept 2026, next at The Golden Lion, Manchester on Fri, 18 Sept 2026.
+BODIPA is a Afrobeats and Afro House artist with 1 upcoming club date listed on soundcheck as of Fri, 11 Sept 2026, next at The Golden Lion, Manchester on Fri, 18 Sept 2026.
 
 BODIPA is an afrobeats and afro house artist tracked on soundcheck, with 7 sets logged across Manchester. Often billed alongside Levi Love, Stallone (UK) and Cosmik. Next up: The Golden Lion, Manchester on Fri 18 Sept.
 
@@ -23,4 +23,4 @@ BODIPA is an afrobeats and afro house artist tracked on soundcheck, with 7 sets 
 
 Levi Love, Stallone (UK), Cosmik
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bodipa/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bodipa/)*

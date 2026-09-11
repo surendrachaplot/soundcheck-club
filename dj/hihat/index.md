@@ -1,14 +1,15 @@
 # HiHat
 
-HiHat is a Techno and Trance artist with 6 upcoming club dates listed on soundcheck as of Thu, 10 Sept 2026, next at TBA - JOSEF-LAMMERTING-ALLEE 17-19, 50933 KÖLN, Cologne on Sat, 12 Sept 2026.
+HiHat is a Techno and Trance artist with 7 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at TBA - JOSEF-LAMMERTING-ALLEE 17-19, 50933 KÖLN, Cologne on Sat, 12 Sept 2026.
 
-HiHat is a techno and trance artist tracked on soundcheck, with 122 sets logged across Amsterdam, Berlin, Cologne and Dusseldorf and 4 more. Often billed alongside DJ Palga, DJ Fucks Himself and Arno. Next up: TBA - JOSEF-LAMMERTING-ALLEE 17-19, 50933 KÖLN, Cologne on Sat 12 Sept.
+HiHat is a techno and trance artist tracked on soundcheck, with 123 sets logged across Amsterdam, Berlin, Cologne and Dusseldorf and 4 more. Often billed alongside DJ Palga, DJ Fucks Himself and Arno. Next up: TBA - JOSEF-LAMMERTING-ALLEE 17-19, 50933 KÖLN, Cologne on Sat 12 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 12 Sept 2026 | TBA - JOSEF-LAMMERTING-ALLEE 17-19, 50933 KÖLN | Cologne |
+| Sat, 19 Sept 2026 | TBA - secret location | Stuttgart |
 | Fri, 25 Sept 2026 | Artheater | Cologne |
 | Sat, 26 Sept 2026 | fi | Cologne |
 | Sat, 26 Sept 2026 | ://about blank | Berlin |
@@ -30,4 +31,4 @@ HiHat is a techno and trance artist tracked on soundcheck, with 122 sets logged 
 
 DJ Palga, DJ Fucks Himself, Arno
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/hihat/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/hihat/)*

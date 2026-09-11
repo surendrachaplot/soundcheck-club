@@ -1,6 +1,6 @@
 # Dylan Schwartz
 
-Dylan Schwartz is a House and Garage artist with 1 upcoming club date listed on soundcheck as of Thu, 10 Sept 2026, next at Paraiso Estereo, Miami on Fri, 30 Oct 2026.
+Dylan Schwartz is a House and Garage artist with 1 upcoming club date listed on soundcheck as of Fri, 11 Sept 2026, next at Paraiso Estereo, Miami on Fri, 30 Oct 2026.
 
 Dylan Schwartz is a house and garage artist based in United States of America, tracked on soundcheck, with 5 sets logged across London, Losangeles, Miami and Sanfrancisco. Often billed alongside DJ Perception, Highkin' and Louiv. Next up: Paraiso Estereo, Miami on Fri 30 Oct.
 
@@ -21,4 +21,4 @@ Dylan Schwartz is a house and garage artist based in United States of America, t
 
 DJ Perception, Highkin', Louiv
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dylanschwartz/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dylanschwartz/)*

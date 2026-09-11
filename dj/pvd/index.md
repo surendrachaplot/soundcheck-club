@@ -1,6 +1,6 @@
 # Paul Van Dyk
 
-Paul Van Dyk is a Trance and Progressive House artist with 5 upcoming club dates listed on soundcheck as of Thu, 10 Sept 2026, next at LAB theCLUB, Madrid on Fri, 11 Sept 2026.
+Paul Van Dyk is a Trance and Progressive House artist with 5 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at LAB theCLUB, Madrid on Fri, 11 Sept 2026.
 
 Paul Van Dyk is a trance and progressive house artist tracked on soundcheck, with 157 sets logged across Amsterdam, Athens, Auckland and Austin and 48 more. Often billed alongside Aly & Fila, John '00' Fleming and Ciaran McAuley. Next up: LAB theCLUB, Madrid on Fri 11 Sept.
 
@@ -29,4 +29,4 @@ Paul Van Dyk is a trance and progressive house artist tracked on soundcheck, wit
 
 Aly & Fila, John '00' Fleming, Ciaran McAuley
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/pvd/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/pvd/)*

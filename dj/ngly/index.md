@@ -1,6 +1,6 @@
 # Ngly
 
-Ngly is a Electro and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 10 Sept 2026, next at Mitsuki, Tokyo on Thu, 17 Sept 2026.
+Ngly is a Electro and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at Mitsuki, Tokyo on Thu, 17 Sept 2026.
 
 Ngly is an electro and techno artist based in Germany, tracked on soundcheck, with 11 sets logged across Athens, Bali, Belgrade and Berlin and 3 more. Often billed alongside Burago, ALF CHAMPION and Aire. Next up: Mitsuki, Tokyo on Thu 17 Sept.
 
@@ -26,4 +26,4 @@ Ngly is an electro and techno artist based in Germany, tracked on soundcheck, wi
 
 Burago, ALF CHAMPION, Aire
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ngly/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ngly/)*

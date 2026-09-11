@@ -1,6 +1,6 @@
 # Plyfa
 
-Plyfa is a music venue in Athens with 2 upcoming nights listed on soundcheck as of Thu, 10 Sept 2026; the next is "Αγοραφοβικό Φεστιβάλ 2026 - Μέρα 1" on Fri, 18 Sept 2026.
+Plyfa is a music venue in Athens with 2 upcoming nights listed on soundcheck as of Fri, 11 Sept 2026; the next is "Αγοραφοβικό Φεστιβάλ 2026 - Μέρα 1" on Fri, 18 Sept 2026.
 
 Plyfa is a music venue in Athens listed on soundcheck. 2 upcoming nights, with line-ups including Dolly Vara, Evita Manji, Fruit Gillette and In Trance 95 and 2 more. Browse upcoming dates, start times and who's playing. Koritsas 39, Athina 104 47, Greece.
 
@@ -15,4 +15,4 @@ Plyfa is a music venue in Athens listed on soundcheck. 2 upcoming nights, with l
 
 Koritsas 39, Athina 104 47, Greece, Athens
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/athens/club/plyfa/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/athens/club/plyfa/)*

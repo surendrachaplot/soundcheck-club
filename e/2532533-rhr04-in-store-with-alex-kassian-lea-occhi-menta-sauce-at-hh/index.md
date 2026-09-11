@@ -1,6 +1,6 @@
-# RHR04 In-store with Alex Kassian, Lea Occhi, Menta Sauce at HHV.de Store
+# RHR04 In-store with Alex Kassian, Lea Occhi, Menta Sauce at HHV.de Store
 
-RHR04 In-store with Alex Kassian, Lea Occhi, Menta Sauce at HHV.de Store on Thu 24 Sept, Berlin. 3 acts on the bill: Alex Kassian, Lea Occhi and Menta Sauce. House and Deep House. Preview the line-up and save it on soundcheck.
+RHR04 In-store with Alex Kassian, Lea Occhi, Menta Sauce at HHV.de Store on Thu 24 Sept, Berlin. 3 acts on the bill: Alex Kassian, Lea Occhi and Menta Sauce. House and Deep House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # TBA - Gwangju, Hanam warehouse
 
-TBA - Gwangju, Hanam warehouse is a music venue in Seoul with 1 upcoming night listed on soundcheck as of Thu, 10 Sept 2026; the next is "Secret Rave 7: Further" on Fri, 18 Sept 2026.
+TBA - Gwangju, Hanam warehouse is a music venue in Seoul with 1 upcoming night listed on soundcheck as of Fri, 11 Sept 2026; the next is "Secret Rave 7: Further" on Fri, 18 Sept 2026.
 
 TBA - Gwangju, Hanam warehouse is a music venue in Seoul listed on soundcheck. 1 upcoming night. Browse upcoming dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ TBA - Gwangju, Hanam warehouse is a music venue in Seoul listed on soundcheck. 1
 | --- | --- | --- |
 | Fri, 18 Sept 2026 | Secret Rave 7: Further |  |
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/seoul/club/tba-gwangju-hanam-warehouse/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/seoul/club/tba-gwangju-hanam-warehouse/)*

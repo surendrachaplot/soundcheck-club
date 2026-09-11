@@ -1,6 +1,6 @@
 # HARDWeRK VI: HARDCORE WILL [ ..NEVeR] WeRK at Rebellion
 
-HARDWeRK VI: HARDCORE WILL [ ..NEVeR] WeRK at Rebellion on Fri 2 Oct, Manchester. 5 acts on the bill: Arkyn, Big Dope P, CRAIC DAVID and skywalka and 1 more. Footwork and Jungle. Preview the line-up and save it on soundcheck.
+HARDWeRK VI: HARDCORE WILL [ ..NEVeR] WeRK at Rebellion on Fri 2 Oct, Manchester. 7 acts on the bill: 2CUTE2CUE, Arkyn, Big Dope P and CRAIC DAVID and 3 more. Footwork and Jungle. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,9 +10,11 @@ HARDWeRK VI: HARDCORE WILL [ ..NEVeR] WeRK at Rebellion on Fri 2 Oct, Manchester
 
 ## Line-up
 
+- 2CUTE2CUE
 - Arkyn
 - Big Dope P
 - CRAIC DAVID
+- MALVADØNA
 - skywalka
 - sohotsospicy
 

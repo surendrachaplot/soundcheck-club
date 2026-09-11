@@ -1,6 +1,6 @@
 # kgee
 
-kgee is a Psytrance and Trance artist with 1 upcoming club date listed on soundcheck as of Thu, 10 Sept 2026, next at DeTour, Tokyo on Mon, 21 Sept 2026.
+kgee is a Psytrance and Trance artist with 1 upcoming club date listed on soundcheck as of Fri, 11 Sept 2026, next at DeTour, Tokyo on Mon, 21 Sept 2026.
 
 kgee is a psytrance and trance artist based in United Kingdom, tracked on soundcheck, with 15 sets logged across Barcelona and Tokyo. Often billed alongside BEPPU, CATRONICA and FUMOFFU. Next up: DeTour, Tokyo on Mon 21 Sept.
 
@@ -25,4 +25,4 @@ kgee is a psytrance and trance artist based in United Kingdom, tracked on soundc
 
 BEPPU, CATRONICA, FUMOFFU
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kgee/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kgee/)*

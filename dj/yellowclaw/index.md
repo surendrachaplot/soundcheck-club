@@ -1,6 +1,6 @@
 # Yellow Claw
 
-Yellow Claw is a Bass and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 10 Sept 2026, next at Noto Houston, Houston on Fri, 11 Sept 2026.
+Yellow Claw is a Bass and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at Noto Houston, Houston on Fri, 11 Sept 2026.
 
 Yellow Claw is a bass and house artist tracked on soundcheck, with 17 sets logged across Berlin, Boston, Chicago and Houston and 7 more. Often billed alongside Luude, NATSUMI and REXY DEXY. Next up: Noto Houston, Houston on Fri 11 Sept.
 
@@ -26,4 +26,4 @@ Yellow Claw is a bass and house artist tracked on soundcheck, with 17 sets logge
 
 Luude, NATSUMI, REXY DEXY
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/yellowclaw/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/yellowclaw/)*

@@ -1,6 +1,6 @@
 # The Tempest Inn
 
-The Tempest Inn is a music venue in Brighton with 2 upcoming nights listed on soundcheck as of Thu, 10 Sept 2026; the next is "Hand In Hand" on Sat, 12 Sept 2026.
+The Tempest Inn is a music venue in Brighton with 2 upcoming nights listed on soundcheck as of Fri, 11 Sept 2026; the next is "Hand In Hand" on Sat, 12 Sept 2026.
 
 The Tempest Inn is a music venue in Brighton listed on soundcheck. 2 upcoming nights, with line-ups including Edo.1. Browse upcoming dates, start times and who's playing. 159-161 Kings Road Arches, Brighton BN1 1NB.
 
@@ -15,4 +15,4 @@ The Tempest Inn is a music venue in Brighton listed on soundcheck. 2 upcoming ni
 
 159-161 Kings Road Arches, Brighton BN1 1NB, Brighton
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/brighton/club/the-tempest-inn/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/brighton/club/the-tempest-inn/)*

@@ -1,6 +1,6 @@
 # Mike Gurrieri
 
-Mike Gurrieri is a House and Jazz artist with 2 upcoming club dates listed on soundcheck as of Thu, 10 Sept 2026, next at Whitehart Bar, Melbourne on Fri, 11 Sept 2026.
+Mike Gurrieri is a House and Jazz artist with 2 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at Whitehart Bar, Melbourne on Fri, 11 Sept 2026.
 
 Mike Gurrieri is a house and jazz artist based in Australia, tracked on soundcheck, with 41 sets logged across Melbourne. Often billed alongside Zepherin Saint, Kuzco and Zjoso. Next up: Whitehart Bar, Melbourne on Fri 11 Sept.
 
@@ -26,4 +26,4 @@ Mike Gurrieri is a house and jazz artist based in Australia, tracked on soundche
 
 Zepherin Saint, Kuzco, Zjoso
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mikegurrieri/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mikegurrieri/)*

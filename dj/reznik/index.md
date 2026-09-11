@@ -1,6 +1,6 @@
 # Reznik
 
-Reznik is a House and Afro House artist with 5 upcoming club dates listed on soundcheck as of Thu, 10 Sept 2026, next at Dockland, Munster on Sat, 12 Sept 2026.
+Reznik is a House and Afro House artist with 5 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at Dockland, Munster on Sat, 12 Sept 2026.
 
 Reznik is a house and afro house artist tracked on soundcheck, with 47 sets logged across Amsterdam, Antwerp, Barcelona and Basel and 19 more. Often billed alongside Samm (BE), Argia and Avangart Tabldot. Next up: Dockland, Munster on Sat 12 Sept.
 
@@ -29,4 +29,4 @@ Reznik is a house and afro house artist tracked on soundcheck, with 47 sets logg
 
 Samm (BE), Argia, Avangart Tabldot
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/reznik/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/reznik/)*

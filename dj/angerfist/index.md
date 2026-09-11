@@ -1,8 +1,8 @@
 # Angerfist
 
-Angerfist is a Techno and Hardcore artist with 6 upcoming club dates listed on soundcheck as of Thu, 10 Sept 2026, next at P36 Terminal 1 Busparkplatz  / Sonic-Warrior Festival Tours Abfahrt, Frankfurt on Sat, 19 Sept 2026.
+Angerfist is a Techno and Hardcore artist with 8 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at P36 Terminal 1 Busparkplatz  / Sonic-Warrior Festival Tours Abfahrt, Frankfurt on Sat, 19 Sept 2026.
 
-Angerfist is a techno and hardcore artist tracked on soundcheck, with 66 sets logged across Amsterdam, Antwerp, Barcelona and Berlin and 25 more. Often billed alongside Partyraiser, Alignment and Mad Dog. Next up: P36 Terminal 1 Busparkplatz  / Sonic-Warrior Festival Tours Abfahrt, Frankfurt on Sat 19 Sept.
+Angerfist is a techno and hardcore artist tracked on soundcheck, with 68 sets logged across Amsterdam, Antwerp, Barcelona and Berlin and 27 more. Often billed alongside Mad Dog, Partyraiser and Alignment. Next up: P36 Terminal 1 Busparkplatz  / Sonic-Warrior Festival Tours Abfahrt, Frankfurt on Sat 19 Sept.
 
 ## Upcoming shows
 
@@ -13,7 +13,9 @@ Angerfist is a techno and hardcore artist tracked on soundcheck, with 66 sets lo
 | Sat, 3 Oct 2026 | Westfalenhallen | Dortmund-essen |
 | Sat, 3 Oct 2026 | P36 Terminal 1 Busparkplatz  / Sonic-Warrior Festival Tours Abfahrt | Frankfurt |
 | Fri, 9 Oct 2026 | Sala Urbana | Mexico City |
+| Fri, 23 Oct 2026 | LAV - Lisboa ao Vivo | Lisbon |
 | Fri, 30 Oct 2026 | Parc des Expositions Paris Nord | Paris |
+| Fri, 4 Dec 2026 | Zenith - Die Kulturhalle | Munich |
 
 ## Recently played
 
@@ -28,6 +30,6 @@ Angerfist is a techno and hardcore artist tracked on soundcheck, with 66 sets lo
 
 ## Shares bills with
 
-Partyraiser, Alignment, Mad Dog
+Mad Dog, Partyraiser, Alignment
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/angerfist/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/angerfist/)*

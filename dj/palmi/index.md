@@ -1,6 +1,6 @@
 # Palmi
 
-Palmi is a House and Electronica artist with 1 upcoming club date listed on soundcheck as of Thu, 10 Sept 2026, next at YuYu Cine Club, Mexico City on Fri, 11 Sept 2026.
+Palmi is a House and Electronica artist with 1 upcoming club date listed on soundcheck as of Fri, 11 Sept 2026, next at YuYu Cine Club, Mexico City on Fri, 11 Sept 2026.
 
 Palmi is a house and electronica artist tracked on soundcheck, with 26 sets logged across Mexicocity, Paris and Vienna. Often billed alongside papa jazz, Soos and MNTY. Next up: YuYu Cine Club, Mexicocity on Fri 11 Sept.
 
@@ -25,4 +25,4 @@ Palmi is a house and electronica artist tracked on soundcheck, with 26 sets logg
 
 papa jazz, Soos, MNTY
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/palmi/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/palmi/)*

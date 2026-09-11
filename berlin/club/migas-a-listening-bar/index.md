@@ -1,14 +1,13 @@
 # migas, a listening bar
 
-migas, a listening bar is a music venue in Berlin with 9 upcoming nights listed on soundcheck as of Thu, 10 Sept 2026; the next is "Kat.lysa plays at migas" on Thu, 10 Sept 2026.
+migas, a listening bar is a music venue in Berlin with 8 upcoming nights listed on soundcheck as of Fri, 11 Sept 2026; the next is "Clément Demonsant plays at migas" on Fri, 11 Sept 2026.
 
-migas, a listening bar is a music venue in Berlin listed on soundcheck. 9 upcoming nights, with line-ups including Kat.lysa, Bernhard Hollinger, David August and DJ NOB and 1 more. Browse upcoming dates, start times and who's playing. Lindower Straße 19 13347 Berlin.
+migas, a listening bar is a music venue in Berlin listed on soundcheck. 8 upcoming nights, with line-ups including Bernhard Hollinger, David August, DJ NOB and Pleasure. Browse upcoming dates, start times and who's playing. Lindower Straße 19 13347 Berlin.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Thu, 10 Sept 2026 | Kat.lysa plays at migas | Kat.lysa |
 | Fri, 11 Sept 2026 | Clément Demonsant plays at migas |  |
 | Sat, 12 Sept 2026 | drozd plays at migas |  |
 | Wed, 16 Sept 2026 | Bernhard Hollinger plays at migas | Bernhard Hollinger |
@@ -22,4 +21,4 @@ migas, a listening bar is a music venue in Berlin listed on soundcheck. 9 upcomi
 
 Lindower Straße 19 13347 Berlin, Berlin
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/migas-a-listening-bar/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/migas-a-listening-bar/)*

@@ -1,6 +1,6 @@
 # Crime Act
 
-Crime Act is a Techno and Breakbeat artist with 1 upcoming club date listed on soundcheck as of Thu, 10 Sept 2026, next at Roxy, Prague on Fri, 11 Sept 2026.
+Crime Act is a Techno and Breakbeat artist with 1 upcoming club date listed on soundcheck as of Fri, 11 Sept 2026, next at Roxy, Prague on Fri, 11 Sept 2026.
 
 Crime Act is a techno and breakbeat artist tracked on soundcheck, with 8 sets logged across Prague. Often billed alongside 2NDRA, Golpe and KOBOV. Next up: Roxy, Prague on Fri 11 Sept.
 
@@ -24,4 +24,4 @@ Crime Act is a techno and breakbeat artist tracked on soundcheck, with 8 sets lo
 
 2NDRA, Golpe, KOBOV
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/crimeact/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/crimeact/)*

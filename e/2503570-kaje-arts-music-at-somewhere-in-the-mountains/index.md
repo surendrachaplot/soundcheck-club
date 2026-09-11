@@ -1,6 +1,6 @@
 # KAJE Arts & Music at Somewhere in the Mountains.
 
-KAJE Arts & Music at Somewhere in the Mountains. on Fri 25 Sept, Bali. 5 acts on the bill: Bagvs, Jonathan Kusuma, Ridwan and Sunju Hargun and 1 more. Techno and House. Preview the line-up and save it on soundcheck.
+KAJE Arts & Music at Somewhere in the Mountains. on Fri 25 Sept, Bali. 7 acts on the bill: Bagvs, DJ MARIA., Jonathan Kusuma and Mr. Ho and 3 more. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,7 +11,9 @@ KAJE Arts & Music at Somewhere in the Mountains. on Fri 25 Sept, Bali. 5 acts on
 ## Line-up
 
 - Bagvs
+- DJ MARIA.
 - Jonathan Kusuma
+- Mr. Ho
 - Ridwan
 - Sunju Hargun
 - Zoot

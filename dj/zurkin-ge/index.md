@@ -1,6 +1,6 @@
 # Zurkin
 
-Zurkin is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Thu, 10 Sept 2026, next at Signal, New York City on Fri, 18 Sept 2026.
+Zurkin is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at Signal, New York City on Fri, 18 Sept 2026.
 
 Zurkin is a house and techno artist tracked on soundcheck, with 112 sets logged across Barcelona, Berlin, London and Melbourne and 8 more. Often billed alongside Zitto, Gio Shengelia and Vakho. Next up: Signal, Newyorkcity on Fri 18 Sept.
 
@@ -27,4 +27,4 @@ Zurkin is a house and techno artist tracked on soundcheck, with 112 sets logged 
 
 Zitto, Gio Shengelia, Vakho
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/zurkin-ge/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/zurkin-ge/)*

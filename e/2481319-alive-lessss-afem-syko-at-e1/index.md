@@ -1,6 +1,6 @@
 # ALIVE: LESSSS, & Afem Syko at E1
 
-ALIVE: LESSSS, & Afem Syko at E1 on Fri 9 Oct, London. 7 acts on the bill: 2HOT2PLAY, Afem Syko, ASHTREY and AVCI and 3 more. Techno. Preview the line-up and save it on soundcheck.
+ALIVE: LESSSS, & Afem Syko at E1 on Fri 9 Oct, London. 8 acts on the bill: 2HOT2PLAY, Afem Syko, ASHTREY and AVCI and 4 more. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -16,6 +16,7 @@ ALIVE: LESSSS, & Afem Syko at E1 on Fri 9 Oct, London. 7 acts on the bill: 2HOT2
 - AVCI
 - Becky Stroke
 - HU
+- HU (IT)
 - LESSSS
 
 *Source: [soundcheck](https://soundcheck.club/e/2481319-alive-lessss-afem-syko-at-e1/)*

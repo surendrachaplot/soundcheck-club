@@ -1,6 +1,6 @@
 # Silva Bumpa
 
-Silva Bumpa is a Garage and House artist with 13 upcoming club dates listed on soundcheck as of Thu, 10 Sept 2026, next at SILO, New York City on Fri, 25 Sept 2026.
+Silva Bumpa is a Garage and House artist with 13 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at SILO, New York City on Fri, 25 Sept 2026.
 
 Silva Bumpa is a garage and house artist tracked on soundcheck, with 208 sets logged across Aberdeen, Amsterdam, Antwerp and Austin and 49 more. Often billed alongside Soul Mass Transit System, Main Phase and Prozak (IRL). Next up: SILO, Newyorkcity on Fri 25 Sept.
 
@@ -36,4 +36,4 @@ Silva Bumpa is a garage and house artist tracked on soundcheck, with 208 sets lo
 
 Soul Mass Transit System, Main Phase, Prozak (IRL)
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/silvabumpa/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/silvabumpa/)*

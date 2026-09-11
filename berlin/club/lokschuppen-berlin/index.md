@@ -1,6 +1,6 @@
 # Lokschuppen Berlin
 
-Lokschuppen Berlin is a music venue in Berlin with 62 upcoming nights listed on soundcheck as of Thu, 10 Sept 2026; the next is "Chantal's House of Shame" on Thu, 10 Sept 2026.
+Lokschuppen Berlin is a music venue in Berlin with 62 upcoming nights listed on soundcheck as of Fri, 11 Sept 2026; the next is "CUTE invites PASTIS & BUENRI" on Fri, 11 Sept 2026.
 
 Lokschuppen Berlin is a music venue in Berlin listed on soundcheck. 62 upcoming nights, with line-ups including 1luu, 4NOUK, 5euroGoldi and Ryukyu and 2 more. Browse upcoming dates, start times and who's playing. Warschauer Brücke, Revaler Straße 99 Zugang über, 10245 Berlin, Germany.
 
@@ -8,7 +8,6 @@ Lokschuppen Berlin is a music venue in Berlin listed on soundcheck. 62 upcoming 
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Thu, 10 Sept 2026 | Chantal's House of Shame |  |
 | Fri, 11 Sept 2026 | CUTE invites PASTIS & BUENRI | Aexhy, Cobb Douglas, DJ Henk, Der Schaffner, Florelle, H369, IceLipzz, Limoncello, LØUS, LŸBRA, Makinarium, Megaira, Pastis & Buenri, Ryukyu, SACID, Sonny Smiles, alemiko, bbymeister, cravings320, happysadgirl |
 | Sat, 12 Sept 2026 | 2Much at Lokschuppen: DJ YARAK, Orbi, t e s t p r e s s | Blayde, DETOXX, DJ YARAK, Die Klar, Eva Charley, JUICY (DE), Kichta, Linds, Lisek, Millie Forsberg, Orbi, Sacha Harland, Shake Daddy, XIMA, t e s t p r e s s |
 | Sun, 13 Sept 2026 | wieder: BOILER ROOM SETUP + MARKETPLACE | EGE363, Jacob Grosse, Jaelo |
@@ -18,9 +17,10 @@ Lokschuppen Berlin is a music venue in Berlin listed on soundcheck. 62 upcoming 
 | Thu, 17 Sept 2026 | Chantal's House of Shame |  |
 | Fri, 18 Sept 2026 | F90 SUMMER CLOSING with zwilling. / HANÀ / DJ Tallboy / Kamäleon / KLING&KLANG / Amøn & more | Amøn, Bruno Brero, DJ Sonnenbrand, DJ Tallboy, DJ Unholy, Glen West, HANÀ, KLING&KLANG, Kamäleon, Morelia, Nettta, TWOFACEDKIMMY, zwilling. |
 | Sat, 19 Sept 2026 | NEER Day & Night + Art Exhibition | BAUTZ, BUTZ, Hekato, Josiane, Jynki, KIKE Friday, Oskar Knickelbein, Philena, Smoothie Operator, krawallwitz |
+| Sun, 20 Sept 2026 | wieder: No Gravity x Eternity Showcase | Callado, Obelisk030, SALCHIKILLER, mølly (on molly) |
 
 ## Address
 
 Warschauer Brücke, Revaler Straße 99 Zugang über, 10245 Berlin, Germany, Berlin
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/lokschuppen-berlin/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/lokschuppen-berlin/)*

@@ -1,6 +1,6 @@
 # Nunonunonuno
 
-Nunonunonuno is a House and Balearic artist with 2 upcoming club dates listed on soundcheck as of Thu, 10 Sept 2026, next at Kings Arms E2, London on Sat, 26 Sept 2026.
+Nunonunonuno is a House and Balearic artist with 2 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at Kings Arms E2, London on Sat, 26 Sept 2026.
 
 Nunonunonuno is a house and balearic artist based in Portugal, tracked on soundcheck, with 9 sets logged across London. Often billed alongside Calypso High, Cristian Sirica and NOYB. Next up: Kings Arms E2, London on Sat 26 Sept.
 
@@ -25,4 +25,4 @@ Nunonunonuno is a house and balearic artist based in Portugal, tracked on soundc
 
 Calypso High, Cristian Sirica, NOYB
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nunonunonuno/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nunonunonuno/)*

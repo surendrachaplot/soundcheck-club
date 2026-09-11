@@ -1,6 +1,6 @@
 # UNOS
 
-UNOS is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Thu, 10 Sept 2026, next at TBA - Brussels, Brussels on Sat, 21 Nov 2026.
+UNOS is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Fri, 11 Sept 2026, next at TBA - Brussels, Brussels on Sat, 21 Nov 2026.
 
 UNOS is a house and disco artist tracked on soundcheck, with 59 sets logged across Amsterdam, Antwerp, Brussels and Cologne and 2 more. Often billed alongside Fais Le Beau, She The DJ and Zouzibabe. Next up: TBA - Brussels, Brussels on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ UNOS is a house and disco artist tracked on soundcheck, with 59 sets logged acro
 
 Fais Le Beau, She The DJ, Zouzibabe
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/unos/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/unos/)*

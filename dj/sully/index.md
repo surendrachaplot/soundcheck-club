@@ -1,8 +1,8 @@
 # Sully
 
-Sully is a Jungle and Drum & Bass artist with 4 upcoming club dates listed on soundcheck as of Thu, 10 Sept 2026, next at The Cause, London on Sat, 12 Sept 2026.
+Sully is a Jungle and Drum & Bass artist with 5 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at The Cause, London on Sat, 12 Sept 2026.
 
-Sully is a jungle and drum & bass artist tracked on soundcheck, with 143 sets logged across Amsterdam, Antwerp, Auckland and Barcelona and 41 more. Often billed alongside Tim Reaper, Dwarde and Coco Bryce. Next up: The Cause, London on Sat 12 Sept.
+Sully is a jungle and drum & bass artist tracked on soundcheck, with 144 sets logged across Amsterdam, Antwerp, Auckland and Barcelona and 41 more. Often billed alongside Tim Reaper, Dwarde and Coco Bryce. Next up: The Cause, London on Sat 12 Sept.
 
 ## Upcoming shows
 
@@ -12,6 +12,7 @@ Sully is a jungle and drum & bass artist tracked on soundcheck, with 143 sets lo
 | Sat, 10 Oct 2026 | TRAUM | Antwerp |
 | Fri, 23 Oct 2026 | fabric | London |
 | Fri, 30 Oct 2026 | Hidden | Manchester |
+| Fri, 13 Nov 2026 | Beaver Works | Leeds |
 
 ## Recently played
 
@@ -28,4 +29,4 @@ Sully is a jungle and drum & bass artist tracked on soundcheck, with 143 sets lo
 
 Tim Reaper, Dwarde, Coco Bryce
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sully/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sully/)*

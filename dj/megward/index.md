@@ -1,6 +1,6 @@
 # Meg Ward
 
-Meg Ward is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Thu, 10 Sept 2026, next at The Glove That Fits, London on Fri, 11 Sept 2026.
+Meg Ward is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at The Glove That Fits, London on Fri, 11 Sept 2026.
 
 Meg Ward is a house and techno artist tracked on soundcheck, with 54 sets logged across Bristol, Edinburgh, Ibiza and Leeds and 4 more. Often billed alongside Harry Gay, Junior Simba and Bklava. Next up: The Glove That Fits, London on Fri 11 Sept.
 
@@ -27,4 +27,4 @@ Meg Ward is a house and techno artist tracked on soundcheck, with 54 sets logged
 
 Harry Gay, Junior Simba, Bklava
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/megward/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/megward/)*

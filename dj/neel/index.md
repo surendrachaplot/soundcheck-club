@@ -1,8 +1,8 @@
 # Neel
 
-Neel is a Techno and Ambient artist with 6 upcoming club dates listed on soundcheck as of Thu, 10 Sept 2026, next at THE MAGICK BAR, Rome on Sat, 12 Sept 2026.
+Neel is a Techno and Ambient artist with 8 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at THE MAGICK BAR, Rome on Sat, 12 Sept 2026.
 
-Neel is a techno and ambient artist tracked on soundcheck, with 98 sets logged across Amsterdam, Athens, Bali and Barcelona and 28 more. Often billed alongside Anthony Linell, Donato Dozzy and Kudeki. Next up: THE MAGICK BAR, Rome on Sat 12 Sept.
+Neel is a techno and ambient artist tracked on soundcheck, with 100 sets logged across Amsterdam, Athens, Bali and Barcelona and 28 more. Often billed alongside Anthony Linell, Donato Dozzy and Kudeki. Next up: THE MAGICK BAR, Rome on Sat 12 Sept.
 
 ## Upcoming shows
 
@@ -11,8 +11,10 @@ Neel is a techno and ambient artist tracked on soundcheck, with 98 sets logged a
 | Sat, 12 Sept 2026 | THE MAGICK BAR | Rome |
 | Sat, 12 Sept 2026 | THE MAGICK BAR | Rome |
 | Fri, 25 Sept 2026 | Tresor / Globus | Berlin |
+| Fri, 9 Oct 2026 | Bunker | Turin |
 | Thu, 22 Oct 2026 | CLUB RAUM | Amsterdam |
 | Fri, 30 Oct 2026 | Tangent Gallery | Detroit |
+| Fri, 30 Oct 2026 | public records | New York City |
 | Sat, 31 Oct 2026 | Tangent Gallery | Detroit |
 
 ## Recently played
@@ -30,4 +32,4 @@ Neel is a techno and ambient artist tracked on soundcheck, with 98 sets logged a
 
 Anthony Linell, Donato Dozzy, Kudeki
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/neel/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/neel/)*

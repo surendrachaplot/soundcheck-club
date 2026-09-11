@@ -1,14 +1,14 @@
 # Auseeb
 
-Auseeb is a Tech House artist with 1 upcoming club date listed on soundcheck as of Thu, 10 Sept 2026, next at Jungla London, London on Fri, 18 Sept 2026.
+Auseeb is a Tech House artist with 1 upcoming club date listed on soundcheck as of Fri, 11 Sept 2026, next at Jungla London, London on Fri, 9 Oct 2026.
 
-Auseeb is a tech house artist tracked on soundcheck, with 5 sets logged across London. Often billed alongside Areeb Abbasi, Kate Moss and Selch. Next up: Jungla London, London on Fri 18 Sept.
+Auseeb is a tech house artist tracked on soundcheck, with 5 sets logged across London. Often billed alongside Areeb Abbasi, Kate Moss and Selch. Next up: Jungla London, London on Fri 9 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 18 Sept 2026 | Jungla London | London |
+| Fri, 9 Oct 2026 | Jungla London | London |
 
 ## Recently played
 
@@ -21,4 +21,4 @@ Auseeb is a tech house artist tracked on soundcheck, with 5 sets logged across L
 
 Areeb Abbasi, Kate Moss, Selch
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/auseeb/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/auseeb/)*

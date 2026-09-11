@@ -1,6 +1,6 @@
 # Madam by Night invites: Sooze at Madam
 
-Madam by Night invites: Sooze on Sat 3 Oct, Amsterdam. 4 acts on the bill: BIG-T, Midas Field, TA AM and Yoffi. House. Preview the line-up and save it on soundcheck.
+Madam by Night invites: Sooze on Sat 3 Oct, Amsterdam. 5 acts on the bill: BIG-T, BIG-T (NL), Midas Field and TA AM and 1 more. House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,6 +11,7 @@ Madam by Night invites: Sooze on Sat 3 Oct, Amsterdam. 4 acts on the bill: BIG-T
 ## Line-up
 
 - BIG-T
+- BIG-T (NL)
 - Midas Field
 - TA AM
 - Yoffi

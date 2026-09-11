@@ -1,14 +1,15 @@
 # rriddim
 
-rriddim is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 10 Sept 2026, next at SISSI'S Amsterdam, Amsterdam on Sat, 12 Sept 2026.
+rriddim is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at SISSI'S Amsterdam, Amsterdam on Sat, 12 Sept 2026.
 
-rriddim is a house and techno artist based in Netherlands, tracked on soundcheck, with 10 sets logged across Amsterdam. Often billed alongside Hey Bony, Tsunamy and BARROSKINI. Next up: SISSI'S Amsterdam, Amsterdam on Sat 12 Sept.
+rriddim is a house and techno artist based in Netherlands, tracked on soundcheck, with 11 sets logged across Amsterdam. Often billed alongside Hey Bony, Tsunamy and B Current. Next up: SISSI'S Amsterdam, Amsterdam on Sat 12 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 12 Sept 2026 | SISSI'S Amsterdam | Amsterdam |
+| Sat, 26 Sept 2026 | murmur | Amsterdam |
 
 ## Recently played
 
@@ -23,6 +24,6 @@ rriddim is a house and techno artist based in Netherlands, tracked on soundcheck
 
 ## Shares bills with
 
-Hey Bony, Tsunamy, BARROSKINI
+Hey Bony, Tsunamy, B Current
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/rriddim/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/rriddim/)*

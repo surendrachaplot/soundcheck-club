@@ -1,6 +1,6 @@
 # Miguel Bastida
 
-Miguel Bastida is a Tech House and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 10 Sept 2026, next at D-EDGE, Sao Paulo on Fri, 11 Sept 2026.
+Miguel Bastida is a Tech House and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at D-EDGE, Sao Paulo on Fri, 11 Sept 2026.
 
 Miguel Bastida is a tech house and house artist based in Spain, tracked on soundcheck, with 25 sets logged across Barcelona, Buenosaires, Ibiza and Lisbon and 5 more. Often billed alongside Wade, Daniel Aguilar (2) and FISHER. Next up: D-EDGE, Saopaulo on Fri 11 Sept.
 
@@ -26,4 +26,4 @@ Miguel Bastida is a tech house and house artist based in Spain, tracked on sound
 
 Wade, Daniel Aguilar (2), FISHER
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/miguelbastida/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/miguelbastida/)*

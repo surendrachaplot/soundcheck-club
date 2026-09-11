@@ -1,6 +1,6 @@
 # L.F.T.
 
-L.F.T. is a Techno and Electro artist with 6 upcoming club dates listed on soundcheck as of Thu, 10 Sept 2026, next at Mia Mao, Paris on Sat, 19 Sept 2026.
+L.F.T. is a Techno and Electro artist with 6 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at Mia Mao, Paris on Sat, 19 Sept 2026.
 
 L.F.T. is a techno and electro artist tracked on soundcheck, with 112 sets logged across Amsterdam, Athens, Barcelona and Berlin and 32 more. Often billed alongside Festnacht, DJ MELL G and Afra. Next up: Mia Mao, Paris on Sat 19 Sept.
 
@@ -30,4 +30,4 @@ L.F.T. is a techno and electro artist tracked on soundcheck, with 112 sets logge
 
 Festnacht, DJ MELL G, Afra
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lft/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lft/)*

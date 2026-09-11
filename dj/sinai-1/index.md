@@ -1,6 +1,6 @@
 # Sinai (1)
 
-Sinai (1) is a Electronica and Tech House artist with 1 upcoming club date listed on soundcheck as of Thu, 10 Sept 2026, next at Malaga Sin City, Milan on Sat, 12 Sept 2026.
+Sinai (1) is a Electronica and Tech House artist with 1 upcoming club date listed on soundcheck as of Fri, 11 Sept 2026, next at Malaga Sin City, Milan on Sat, 12 Sept 2026.
 
 Sinai (1) is an electronica and tech house artist tracked on soundcheck, with 41 sets logged across Barcelona, Berlin, Bristol and Milan and 1 more. Often billed alongside Alis, Anton Iofus and David Bes. Next up: Malaga Sin City, Milan on Sat 12 Sept.
 
@@ -25,4 +25,4 @@ Sinai (1) is an electronica and tech house artist tracked on soundcheck, with 41
 
 Alis, Anton Iofus, David Bes
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sinai-1/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sinai-1/)*

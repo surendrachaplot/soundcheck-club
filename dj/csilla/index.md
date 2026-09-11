@@ -1,14 +1,15 @@
 # CSILLA
 
-CSILLA is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 10 Sept 2026, next at Tresor / Globus, Berlin on Mon, 14 Sept 2026.
+CSILLA is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at Tresor / Globus, Berlin on Mon, 14 Sept 2026.
 
-CSILLA is a techno and house artist based in United States of America, tracked on soundcheck, with 81 sets logged across Berlin, Boston, Detroit and Houston and 6 more. Often billed alongside KXAH, SSG_ and jay york. Next up: Tresor / Globus, Berlin on Mon 14 Sept.
+CSILLA is a techno and house artist based in United States of America, tracked on soundcheck, with 82 sets logged across Berlin, Boston, Detroit and Houston and 6 more. Often billed alongside KXAH, SSG_ and jay york. Next up: Tresor / Globus, Berlin on Mon 14 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Mon, 14 Sept 2026 | Tresor / Globus | Berlin |
+| Sat, 3 Oct 2026 | TBA - Warehouse Location  | Boston |
 | Fri, 9 Oct 2026 | TBA | Washington DC |
 
 ## Recently played
@@ -26,4 +27,4 @@ CSILLA is a techno and house artist based in United States of America, tracked o
 
 KXAH, SSG_, jay york
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/csilla/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/csilla/)*

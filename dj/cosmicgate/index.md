@@ -1,8 +1,8 @@
 # Cosmic Gate
 
-Cosmic Gate is a Trance and Progressive House artist with 7 upcoming club dates listed on soundcheck as of Thu, 10 Sept 2026, next at Wolkezwei, Leipzig on Sun, 13 Sept 2026.
+Cosmic Gate is a Trance and Progressive House artist with 8 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at Wolkezwei, Leipzig on Sun, 13 Sept 2026.
 
-Cosmic Gate is a trance and progressive house artist tracked on soundcheck, with 62 sets logged across Amsterdam, Auckland, Austin and Belfast and 26 more. Often billed alongside Luccio, Armin van Buuren and Ferry Corsten. Next up: Wolkezwei, Leipzig on Sun 13 Sept.
+Cosmic Gate is a trance and progressive house artist tracked on soundcheck, with 63 sets logged across Amsterdam, Auckland, Austin and Belfast and 26 more. Often billed alongside Luccio, Ferry Corsten and Armin van Buuren. Next up: Wolkezwei, Leipzig on Sun 13 Sept.
 
 ## Upcoming shows
 
@@ -12,6 +12,7 @@ Cosmic Gate is a trance and progressive house artist tracked on soundcheck, with
 | Sat, 19 Sept 2026 | Binks Yard | Nottingham |
 | Sat, 26 Sept 2026 | Academy LA | Los Angeles |
 | Sat, 17 Oct 2026 | Bootshaus | Cologne |
+| Fri, 23 Oct 2026 | Escape | Amsterdam |
 | Sun, 8 Nov 2026 | Superior Ingredients | New York City |
 | Sat, 14 Nov 2026 | DRUMSHEDS | London |
 | Sat, 28 Nov 2026 | Ritter Butzke | Berlin |
@@ -29,6 +30,6 @@ Cosmic Gate is a trance and progressive house artist tracked on soundcheck, with
 
 ## Shares bills with
 
-Luccio, Armin van Buuren, Ferry Corsten
+Luccio, Ferry Corsten, Armin van Buuren
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/cosmicgate/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/cosmicgate/)*

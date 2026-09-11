@@ -1,14 +1,15 @@
 # AKWA
 
-AKWA is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Thu, 10 Sept 2026, next at Next Door Records Two, London on Fri, 11 Sept 2026.
+AKWA is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at Next Door Records Two, London on Fri, 11 Sept 2026.
 
-AKWA is a house and disco artist tracked on soundcheck, with 42 sets logged across Berlin, London, Montreal and Newyorkcity and 1 more. Often billed alongside TESFAY, Andre Zimmer and Jacob de Hooge. Next up: Next Door Records Two, London on Fri 11 Sept.
+AKWA is a house and disco artist tracked on soundcheck, with 43 sets logged across Berlin, London, Montreal and Newyorkcity and 1 more. Often billed alongside TESFAY, Andre Zimmer and Jacob de Hooge. Next up: Next Door Records Two, London on Fri 11 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 11 Sept 2026 | Next Door Records Two | London |
+| Fri, 18 Sept 2026 | The BBE Store | London |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ AKWA is a house and disco artist tracked on soundcheck, with 42 sets logged acro
 
 TESFAY, Andre Zimmer, Jacob de Hooge
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/akwa/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/akwa/)*

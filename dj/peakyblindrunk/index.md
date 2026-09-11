@@ -1,6 +1,6 @@
 # Peaky Blindrunk
 
-Peaky Blindrunk is a Disco and Pop artist with 1 upcoming club date listed on soundcheck as of Thu, 10 Sept 2026, next at Bramble, Edinburgh on Sat, 12 Sept 2026.
+Peaky Blindrunk is a Disco and Pop artist with 1 upcoming club date listed on soundcheck as of Fri, 11 Sept 2026, next at Bramble, Edinburgh on Sat, 12 Sept 2026.
 
 Peaky Blindrunk is a disco and pop artist based in United Kingdom, tracked on soundcheck, with 46 sets logged across Edinburgh. Often billed alongside Nick from Sneaks and Scottieboy. Next up: Bramble, Edinburgh on Sat 12 Sept.
 
@@ -25,4 +25,4 @@ Peaky Blindrunk is a disco and pop artist based in United Kingdom, tracked on so
 
 Nick from Sneaks, Scottieboy
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/peakyblindrunk/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/peakyblindrunk/)*

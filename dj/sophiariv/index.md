@@ -1,14 +1,14 @@
 # Sophia Riv
 
-Sophia Riv is a Techno and Electro artist with 2 upcoming club dates listed on soundcheck as of Thu, 10 Sept 2026, next at TBA - Secret Location, New York City on Sat, 12 Sept 2026.
+Sophia Riv is a Techno and Electro artist with 2 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at Amma Cafe, New York City on Sat, 12 Sept 2026.
 
-Sophia Riv is a techno and electro artist based in United States of America, tracked on soundcheck, with 17 sets logged across Newyorkcity. Often billed alongside y2aura, Castillonaire and NIJEII. Next up: TBA - Secret Location, Newyorkcity on Sat 12 Sept.
+Sophia Riv is a techno and electro artist based in United States of America, tracked on soundcheck, with 17 sets logged across Newyorkcity. Often billed alongside y2aura, Castillonaire and NIJEII. Next up: Amma Cafe, Newyorkcity on Sat 12 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 12 Sept 2026 | TBA - Secret Location | New York City |
+| Sat, 12 Sept 2026 | Amma Cafe | New York City |
 | Mon, 21 Sept 2026 | Bossa Nova Civic Club | New York City |
 
 ## Recently played
@@ -26,4 +26,4 @@ Sophia Riv is a techno and electro artist based in United States of America, tra
 
 y2aura, Castillonaire, NIJEII
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sophiariv/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sophiariv/)*

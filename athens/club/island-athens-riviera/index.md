@@ -1,6 +1,6 @@
 # Island Athens Riviera
 
-Island Athens Riviera is a music venue in Athens with 1 upcoming night listed on soundcheck as of Thu, 10 Sept 2026; the next is "Nick Jojo + Fotinos" on Sun, 13 Sept 2026.
+Island Athens Riviera is a music venue in Athens with 1 upcoming night listed on soundcheck as of Fri, 11 Sept 2026; the next is "Nick Jojo + Fotinos" on Sun, 13 Sept 2026.
 
 Island Athens Riviera is a music venue in Athens listed on soundcheck. 1 upcoming night, with line-ups including Fotinos and Nick Jojo (2). Browse upcoming dates, start times and who's playing. Leoforos Poseidonos, 16672 Várkiza, Attiki, Greece.
 
@@ -14,4 +14,4 @@ Island Athens Riviera is a music venue in Athens listed on soundcheck. 1 upcomin
 
 Leoforos Poseidonos, 16672 Várkiza, Attiki, Greece, Athens
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/athens/club/island-athens-riviera/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/athens/club/island-athens-riviera/)*

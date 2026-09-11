@@ -1,8 +1,8 @@
 # Mezza
 
-Mezza is a Drum & Bass and Techno artist with 11 upcoming club dates listed on soundcheck as of Thu, 10 Sept 2026, next at KALT, Strasbourg on Sat, 12 Sept 2026.
+Mezza is a Techno and Jungle artist with 11 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at KALT, Strasbourg on Sat, 12 Sept 2026.
 
-Mezza is a drum & bass and techno artist based in United Kingdom, tracked on soundcheck, with 19 sets logged across London, Malta and Strasbourg. Often billed alongside Chill (FR), Dima Roas and STU (FR). Next up: KALT, Strasbourg on Sat 12 Sept.
+Mezza is a techno and jungle artist based in United Kingdom, tracked on soundcheck, with 19 sets logged across London, Malta and Strasbourg. Often billed alongside Chill (FR), Dima Roas and STU (FR). Next up: KALT, Strasbourg on Sat 12 Sept.
 
 ## Upcoming shows
 
@@ -35,4 +35,4 @@ Mezza is a drum & bass and techno artist based in United Kingdom, tracked on sou
 
 Chill (FR), Dima Roas, STU (FR)
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mezza/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mezza/)*

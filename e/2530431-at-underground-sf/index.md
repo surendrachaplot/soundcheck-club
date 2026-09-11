@@ -1,6 +1,6 @@
-# 𝑭𝑰𝑿𝑬𝑫 𝑮𝑳𝑶𝑺 𝙃𝘼𝙇𝙇𝙊𝙒𝙀𝙀𝙉 at Underground SF
+# 𝑭𝑰𝑿𝑬𝑫 𝑮𝑳𝑶𝑺𝑺 𝑯𝑨𝑳𝑳𝑶𝑾𝑬𝑬𝑵 at Underground SF
 
-𝑭𝑰𝑿𝑬𝑫 𝑮𝑳𝑶𝑺 𝙃𝘼𝙇𝙇𝙊𝙒𝙀𝙀𝙉 at Underground SF on Fri 30 Oct, Sanfrancisco. Electro and Electronica. Preview the line-up and save it on soundcheck.
+𝑭𝑰𝑿𝑬𝑫 𝑮𝑳𝑶𝑺𝑺 𝑯𝑨𝑳𝑳𝑶𝑾𝑬𝑬𝑵 at Underground SF on Fri 30 Oct, Sanfrancisco. Electro and Electronica. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

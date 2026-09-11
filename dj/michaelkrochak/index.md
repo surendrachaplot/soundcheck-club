@@ -1,6 +1,6 @@
 # Michael Krochak
 
-Michael Krochak is a Techno and Dub Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 10 Sept 2026, next at TBA - west end , Toronto on Fri, 2 Oct 2026.
+Michael Krochak is a Techno and Dub Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 11 Sept 2026, next at TBA - west end , Toronto on Fri, 2 Oct 2026.
 
 Michael Krochak is a techno and dub techno artist based in Canada, tracked on soundcheck, with 6 sets logged across Toronto. Often billed alongside Amrkv, BRALLE and Blasha & Allatt. Next up: TBA - west end , Toronto on Fri 2 Oct.
 
@@ -22,4 +22,4 @@ Michael Krochak is a techno and dub techno artist based in Canada, tracked on so
 
 Amrkv, BRALLE, Blasha & Allatt
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/michaelkrochak/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/michaelkrochak/)*

@@ -1,6 +1,6 @@
 # Braver
 
-Braver is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 10 Sept 2026, next at Byhaven, Copenhagen on Sun, 13 Sept 2026.
+Braver is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 11 Sept 2026, next at Byhaven, Copenhagen on Sun, 13 Sept 2026.
 
 Braver is a techno and house artist based in Argentina, tracked on soundcheck, with 11 sets logged across Copenhagen. Often billed alongside NILU, SCHAARUP and Phonique. Next up: Byhaven, Copenhagen on Sun 13 Sept.
 
@@ -25,4 +25,4 @@ Braver is a techno and house artist based in Argentina, tracked on soundcheck, w
 
 NILU, SCHAARUP, Phonique
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/braver/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/braver/)*

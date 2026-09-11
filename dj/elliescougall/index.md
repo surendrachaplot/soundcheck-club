@@ -1,6 +1,6 @@
 # Ellie Scougall
 
-Ellie Scougall is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Thu, 10 Sept 2026, next at World Headquarters, Newcastle on Fri, 25 Sept 2026.
+Ellie Scougall is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at World Headquarters, Newcastle on Fri, 25 Sept 2026.
 
 Ellie Scougall is a house and tech house artist based in United Kingdom, tracked on soundcheck, with 14 sets logged across Ibiza, London and Newcastle. Often billed alongside Mas Que Nada Brothers, Hywel Gregory and Elliot Schooling. Next up: World Headquarters, Newcastle on Fri 25 Sept.
 
@@ -26,4 +26,4 @@ Ellie Scougall is a house and tech house artist based in United Kingdom, tracked
 
 Mas Que Nada Brothers, Hywel Gregory, Elliot Schooling
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/elliescougall/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/elliescougall/)*

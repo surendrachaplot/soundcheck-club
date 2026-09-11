@@ -1,6 +1,6 @@
 # Duck Trash
 
-Duck Trash is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 10 Sept 2026, next at Menjo's, Detroit on Sat, 26 Sept 2026.
+Duck Trash is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 11 Sept 2026, next at Menjo's, Detroit on Sat, 26 Sept 2026.
 
 Duck Trash is a techno and house artist tracked on soundcheck, with 118 sets logged across Chicago, Detroit and Newyorkcity. Often billed alongside Amino, Garrison XR and Disc Jockey George. Next up: Menjo's, Detroit on Sat 26 Sept.
 
@@ -25,4 +25,4 @@ Duck Trash is a techno and house artist tracked on soundcheck, with 118 sets log
 
 Amino, Garrison XR, Disc Jockey George
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ducktrash/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ducktrash/)*

@@ -1,8 +1,8 @@
 # LB aka LABAT
 
-LB aka LABAT is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Thu, 10 Sept 2026, next at Base Aérienne 217, Paris on Fri, 11 Sept 2026.
+LB aka LABAT is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at Base Aérienne 217, Paris on Fri, 11 Sept 2026.
 
-LB aka LABAT is a techno and house artist tracked on soundcheck, with 202 sets logged across Aberdeen, Amsterdam, Antwerp and Barcelona and 57 more. Often billed alongside DJ Gigola, Juicy Romance and Special Request. Next up: Base Aérienne 217, Paris on Fri 11 Sept.
+LB aka LABAT is a techno and house artist tracked on soundcheck, with 203 sets logged across Aberdeen, Amsterdam, Antwerp and Barcelona and 57 more. Often billed alongside DJ Gigola, Juicy Romance and Special Request. Next up: Base Aérienne 217, Paris on Fri 11 Sept.
 
 ## Upcoming shows
 
@@ -12,6 +12,7 @@ LB aka LABAT is a techno and house artist tracked on soundcheck, with 202 sets l
 | Sat, 19 Sept 2026 | Nitsa Club | Barcelona |
 | Fri, 23 Oct 2026 | Ndsm Wharf | Amsterdam |
 | Fri, 23 Oct 2026 | Parallel | Amsterdam |
+| Fri, 23 Oct 2026 | Chicago Social Club | Amsterdam |
 | Sat, 31 Oct 2026 | DRUMSHEDS | London |
 
 ## Recently played
@@ -29,4 +30,4 @@ LB aka LABAT is a techno and house artist tracked on soundcheck, with 202 sets l
 
 DJ Gigola, Juicy Romance, Special Request
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lbakalabat/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lbakalabat/)*

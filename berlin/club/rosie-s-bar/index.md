@@ -1,6 +1,6 @@
 # Rosie's Bar
 
-Rosie's Bar is a music venue in Berlin with 1 upcoming night listed on soundcheck as of Thu, 10 Sept 2026; the next is "NTT Records X Rosie's Bar presents: Nico Noir & LOUIS" on Sat, 12 Sept 2026.
+Rosie's Bar is a music venue in Berlin with 1 upcoming night listed on soundcheck as of Fri, 11 Sept 2026; the next is "NTT Records X Rosie's Bar presents: Nico Noir & LOUIS" on Sat, 12 Sept 2026.
 
 Rosie's Bar is a music venue in Berlin listed on soundcheck. 1 upcoming night, with line-ups including Nico Noir. Browse upcoming dates, start times and who's playing. Weinbergsweg 1a, Rosenthaler Platz, 10119 Berlin.
 
@@ -14,4 +14,4 @@ Rosie's Bar is a music venue in Berlin listed on soundcheck. 1 upcoming night, w
 
 Weinbergsweg 1a, Rosenthaler Platz, 10119 Berlin, Berlin
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/rosie-s-bar/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/rosie-s-bar/)*

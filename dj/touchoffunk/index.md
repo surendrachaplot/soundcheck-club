@@ -1,6 +1,6 @@
 # Touch Of Funk
 
-Touch Of Funk is a Disco and House artist with 3 upcoming club dates listed on soundcheck as of Thu, 10 Sept 2026, next at Un.Titled Studio, Manchester on Sat, 12 Sept 2026.
+Touch Of Funk is a Disco and House artist with 3 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at Un.Titled Studio, Manchester on Sat, 12 Sept 2026.
 
 Touch Of Funk is a disco and house artist based in United Kingdom, tracked on soundcheck, with 4 sets logged across London and Manchester. Often billed alongside Beechy, Cj Cooper and Don't F**k with Disco. Next up: Un.Titled Studio, Manchester on Sat 12 Sept.
 
@@ -20,4 +20,4 @@ Touch Of Funk is a disco and house artist based in United Kingdom, tracked on so
 
 Beechy, Cj Cooper, Don't F**k with Disco
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/touchoffunk/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/touchoffunk/)*

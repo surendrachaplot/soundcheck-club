@@ -1,6 +1,6 @@
 # Ian Asher at Big Night Live
 
-Ian Asher at Big Night Live on Sat 12 Sept, Boston. 1 act on the bill: Ian Asher. Preview the line-up and save it on soundcheck.
+Ian Asher at Big Night Live on Sat 12 Sept, Boston. 1 act on the bill: Ian Asher. House and Tech House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,13 +1,15 @@
 # The Ivy
 
-The Ivy is a music venue in Sydney with 8 upcoming nights listed on soundcheck as of Thu, 10 Sept 2026; the next is "Club Heartbeat feat. JXL" on Sat, 19 Sept 2026.
+The Ivy is a music venue in Sydney with 10 upcoming nights listed on soundcheck as of Fri, 11 Sept 2026; the next is "CLUB HEARTBEAT — September 12" on Sat, 12 Sept 2026.
 
-The Ivy is a music venue in Sydney listed on soundcheck. 8 upcoming nights, with line-ups including AEREA, AKEYLAH, Alex Wann and Azyr and 2 more. Browse upcoming dates, start times and who's playing. 320-330 George St; Sydney, NSW 2000; Australia.
+The Ivy is a music venue in Sydney listed on soundcheck. 10 upcoming nights, with line-ups including AEREA, AKEYLAH, Alex Wann and Azyr and 2 more. Browse upcoming dates, start times and who's playing. 320-330 George St; Sydney, NSW 2000; Australia.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
+| Sat, 12 Sept 2026 | CLUB HEARTBEAT — September 12 |  |
+| Sat, 12 Sept 2026 | CLUB HEARTBEAT — September 26 |  |
 | Sat, 19 Sept 2026 | Club Heartbeat feat. JXL |  |
 | Sat, 26 Sept 2026 | 240KM/H F2F Sydney: Serafina All Day Long | Serafina |
 | Sun, 4 Oct 2026 | Lost Sundays Block Party — October 4 [Long Weekend] | Bryson Hill, Casual P, Couch Mechanic, Elijah Something, Human Movement, Jacqui Cunningham, Lilian, Little Fritter, Mina Tonic, Mincy, Papa Nugs, Tjade |
@@ -21,4 +23,4 @@ The Ivy is a music venue in Sydney listed on soundcheck. 8 upcoming nights, with
 
 320-330 George St; Sydney, NSW 2000; Australia, Sydney
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/sydney/club/the-ivy/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/sydney/club/the-ivy/)*

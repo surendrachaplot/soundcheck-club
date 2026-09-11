@@ -1,6 +1,6 @@
-# 5 years of Kommune 12 hours of music - 2nd stop late night at TBA - Secret Location
+# 5 years of Kommune 12 hours of music - 2nd stop: late night at TBA - Secret Location
 
-5 years of Kommune 12 hours of music - 2nd stop late night at TBA - Secret Location on Sat 26 Sept, Madrid. 2 acts on the bill: Jawad_o and WO KEM. House. Preview the line-up and save it on soundcheck.
+5 years of Kommune 12 hours of music - 2nd stop: late night at TBA - Secret Location on Sat 26 Sept, Madrid. 2 acts on the bill: Jawad_o and WO KEM. House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

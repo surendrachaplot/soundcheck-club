@@ -1,6 +1,6 @@
 # Zebbie's Garden
 
-Zebbie's Garden is a music venue in Washington DC with 2 upcoming nights listed on soundcheck as of Thu, 10 Sept 2026; the next is "DC NIGHTMARE ON M ST PART I BAR CRAWL 10/24" on Sat, 24 Oct 2026.
+Zebbie's Garden is a music venue in Washington DC with 2 upcoming nights listed on soundcheck as of Fri, 11 Sept 2026; the next is "DC NIGHTMARE ON M ST PART I BAR CRAWL 10/24" on Sat, 24 Oct 2026.
 
 Zebbie's Garden is a music venue in Washingtondc listed on soundcheck. 2 upcoming nights. Browse upcoming dates, start times and who's playing. 1223 Connecticut Ave NW, Washington, DC 20036.
 
@@ -15,4 +15,4 @@ Zebbie's Garden is a music venue in Washingtondc listed on soundcheck. 2 upcomin
 
 1223 Connecticut Ave NW, Washington, DC 20036, Washington DC
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/washingtondc/club/zebbie-s-garden/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/washingtondc/club/zebbie-s-garden/)*

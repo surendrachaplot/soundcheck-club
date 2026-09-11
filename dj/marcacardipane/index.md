@@ -1,8 +1,8 @@
 # Marc Acardipane
 
-Marc Acardipane is a Hardcore and Techno artist with 3 upcoming club dates listed on soundcheck as of Thu, 10 Sept 2026, next at Westfalenhallen, Dortmund-essen on Sat, 3 Oct 2026.
+Marc Acardipane is a Hardcore and Techno artist with 4 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at Westfalenhallen, Dortmund-essen on Sat, 3 Oct 2026.
 
-Marc Acardipane is a hardcore and techno artist based in Germany, tracked on soundcheck, with 27 sets logged across Amsterdam, Antwerp, Berlin and Brussels and 10 more. Often billed alongside Act of Rage, Panic and Paul Elstak. Next up: Westfalenhallen, Dortmund-essen on Sat 3 Oct.
+Marc Acardipane is a hardcore and techno artist based in Germany, tracked on soundcheck, with 28 sets logged across Amsterdam, Antwerp, Berlin and Brussels and 11 more. Often billed alongside Paul Elstak, Act of Rage and Mad Dog. Next up: Westfalenhallen, Dortmund-essen on Sat 3 Oct.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ Marc Acardipane is a hardcore and techno artist based in Germany, tracked on sou
 | Sat, 3 Oct 2026 | Westfalenhallen | Dortmund-essen |
 | Sat, 3 Oct 2026 | P36 Terminal 1 Busparkplatz  / Sonic-Warrior Festival Tours Abfahrt | Frankfurt |
 | Fri, 9 Oct 2026 | Mia Mao | Paris |
+| Fri, 4 Dec 2026 | Zenith - Die Kulturhalle | Munich |
 
 ## Recently played
 
@@ -25,6 +26,6 @@ Marc Acardipane is a hardcore and techno artist based in Germany, tracked on sou
 
 ## Shares bills with
 
-Act of Rage, Panic, Paul Elstak
+Paul Elstak, Act of Rage, Mad Dog
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/marcacardipane/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/marcacardipane/)*

@@ -1,6 +1,6 @@
 # Danny Salas
 
-Danny Salas is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Thu, 10 Sept 2026, next at Romantica, Stuttgart on Fri, 11 Sept 2026.
+Danny Salas is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Fri, 11 Sept 2026, next at Romantica, Stuttgart on Fri, 11 Sept 2026.
 
 Danny Salas is a house and minimal artist tracked on soundcheck, with 32 sets logged across Cologne and Stuttgart. Often billed alongside KITI ARSA, Felix Pfanner and Marco Bastone. Next up: Romantica, Stuttgart on Fri 11 Sept.
 
@@ -25,4 +25,4 @@ Danny Salas is a house and minimal artist tracked on soundcheck, with 32 sets lo
 
 KITI ARSA, Felix Pfanner, Marco Bastone
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dannysalas/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dannysalas/)*

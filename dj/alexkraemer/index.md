@@ -1,6 +1,6 @@
 # Alex Kraemer
 
-Alex Kraemer is a electronic artist with 1 upcoming club date listed on soundcheck as of Thu, 10 Sept 2026, next at Club der Visionaere, Berlin on Sun, 13 Sept 2026.
+Alex Kraemer is a electronic artist with 1 upcoming club date listed on soundcheck as of Fri, 11 Sept 2026, next at Club der Visionaere, Berlin on Sun, 13 Sept 2026.
 
 Alex Kraemer is an electronic artist based in Germany, tracked on soundcheck, with 22 sets logged across Berlin. Often billed alongside Stipé, Andy Kolwes and Katsuya Sano. Next up: Club der Visionaere, Berlin on Sun 13 Sept.
 
@@ -25,4 +25,4 @@ Alex Kraemer is an electronic artist based in Germany, tracked on soundcheck, wi
 
 Stipé, Andy Kolwes, Katsuya Sano
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/alexkraemer/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/alexkraemer/)*

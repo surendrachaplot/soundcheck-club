@@ -1,6 +1,6 @@
 # 7833 Soundlab
 
-7833 Soundlab is a music venue in Barcelona with 2 upcoming nights listed on soundcheck as of Thu, 10 Sept 2026; the next is "EL ENCUENTRO Hosted by ELEMENTAL" on Sat, 12 Sept 2026.
+7833 Soundlab is a music venue in Barcelona with 2 upcoming nights listed on soundcheck as of Fri, 11 Sept 2026; the next is "EL ENCUENTRO Hosted by ELEMENTAL" on Sat, 12 Sept 2026.
 
 7833 Soundlab is a music venue in Barcelona listed on soundcheck. 2 upcoming nights. Browse upcoming dates, start times and who's playing. Carrer Ferlandina 29, Barcelona, 08001, Espanya.
 
@@ -15,4 +15,4 @@
 
 Carrer Ferlandina 29, Barcelona, 08001, Espanya, Barcelona
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/7833-soundlab/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/7833-soundlab/)*

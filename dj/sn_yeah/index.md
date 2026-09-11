@@ -1,14 +1,15 @@
 # SN_Yeah
 
-SN_Yeah is a Drum & Bass and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 10 Sept 2026, next at UTOPIA / DYSTOPIA, Tokyo on Sat, 12 Sept 2026.
+SN_Yeah is a Drum & Bass and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at UTOPIA / DYSTOPIA, Tokyo on Sat, 12 Sept 2026.
 
-SN_Yeah is a drum & bass and techno artist tracked on soundcheck, with 135 sets logged across Tokyo. Often billed alongside ReFuCafé, omeme_gangimari and Barbie. Next up: UTOPIA / DYSTOPIA, Tokyo on Sat 12 Sept.
+SN_Yeah is a drum & bass and techno artist tracked on soundcheck, with 136 sets logged across Tokyo. Often billed alongside ReFuCafé, omeme_gangimari and DJ AKi. Next up: UTOPIA / DYSTOPIA, Tokyo on Sat 12 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 12 Sept 2026 | UTOPIA / DYSTOPIA | Tokyo |
+| Wed, 16 Sept 2026 | WOMB | Tokyo |
 
 ## Recently played
 
@@ -23,6 +24,6 @@ SN_Yeah is a drum & bass and techno artist tracked on soundcheck, with 135 sets 
 
 ## Shares bills with
 
-ReFuCafé, omeme_gangimari, Barbie
+ReFuCafé, omeme_gangimari, DJ AKi
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sn_yeah/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sn_yeah/)*

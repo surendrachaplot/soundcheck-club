@@ -1,6 +1,6 @@
 # Solace
 
-Solace is a music venue in Melbourne with 13 upcoming nights listed on soundcheck as of Thu, 10 Sept 2026; the next is "Solace Radio W/ Ollis, Mullen, Luke CVR" on Thu, 10 Sept 2026.
+Solace is a music venue in Melbourne with 13 upcoming nights listed on soundcheck as of Fri, 11 Sept 2026; the next is "WAT Artists X Solace Winter Residency" on Fri, 11 Sept 2026.
 
 Solace is a music venue in Melbourne listed on soundcheck. 13 upcoming nights, with line-ups including András, anna(n), Charlotte Rooney and DITA (ID) and 2 more. Browse upcoming dates, start times and who's playing. 21-25 Croft Alley, Melbourne, 3000.
 
@@ -8,7 +8,6 @@ Solace is a music venue in Melbourne listed on soundcheck. 13 upcoming nights, w
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Thu, 10 Sept 2026 | Solace Radio W/ Ollis, Mullen, Luke CVR | Luke CVR |
 | Fri, 11 Sept 2026 | WAT Artists X Solace Winter Residency | András, DITA (ID) |
 | Sat, 12 Sept 2026 | Solace Invites Charlie, Don Chich B2B DJ Relax, JD, Makoyana, Wei Kai | Charlotte Rooney, Don Chich, JD (4), Makoyana |
 | Wed, 16 Sept 2026 | Free. Live. Music // JAG pres. The Artist in Question |  |
@@ -18,9 +17,10 @@ Solace is a music venue in Melbourne listed on soundcheck. 13 upcoming nights, w
 | Thu, 24 Sept 2026 | Pins 'N Needles pres. DJ Sarah, Simon TK, Myles Mac & DJ Possum + more | DJ Possum, DJ Sarah, Myles Mac, Simon TK, Yowies |
 | Thu, 24 Sept 2026 | Solace Radio x Pins 'N Needle W/ Asha Ada Myles Mac & DJ Possum | DJ Possum, Myles Mac |
 | Wed, 30 Sept 2026 | Free. Live. Music // Girls Night In |  |
+| Wed, 7 Oct 2026 | Free. Live. Music // Jazz Upstairs |  |
 
 ## Address
 
 21-25 Croft Alley, Melbourne, 3000, Melbourne
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/solace/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/solace/)*

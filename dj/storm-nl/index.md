@@ -1,6 +1,6 @@
 # STORM
 
-STORM is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 10 Sept 2026, next at Openluchttheater Amersfoort, Amsterdam on Fri, 18 Sept 2026.
+STORM is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 11 Sept 2026, next at Openluchttheater Amersfoort, Amsterdam on Fri, 18 Sept 2026.
 
 STORM is a house and techno artist tracked on soundcheck, with 20 sets logged across Amsterdam, Berlin, Brussels and Manchester and 5 more. Often billed alongside Aba Shanti-I, Alex Zhang Hungtai and Arooj Aftab. Next up: Openluchttheater Amersfoort, Amsterdam on Fri 18 Sept.
 
@@ -25,4 +25,4 @@ STORM is a house and techno artist tracked on soundcheck, with 20 sets logged ac
 
 Aba Shanti-I, Alex Zhang Hungtai, Arooj Aftab
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/storm-nl/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/storm-nl/)*

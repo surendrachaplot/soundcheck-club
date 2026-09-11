@@ -1,14 +1,13 @@
 # Shanti Celeste
 
-Shanti Celeste is a House and Techno artist with 12 upcoming club dates listed on soundcheck as of Thu, 10 Sept 2026, next at Amnesia Ibiza, Ibiza on Thu, 10 Sept 2026.
+Shanti Celeste is a House and Techno artist with 11 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at UNO MALTA, Malta on Fri, 18 Sept 2026.
 
-Shanti Celeste is a house and techno artist tracked on soundcheck, with 214 sets logged across Amsterdam, Antwerp, Bali and Barcelona and 54 more. Often billed alongside Peach, Saoirse and Ogazón. Next up: Amnesia Ibiza, Ibiza on Thu 10 Sept.
+Shanti Celeste is a house and techno artist tracked on soundcheck, with 214 sets logged across Amsterdam, Antwerp, Bali and Barcelona and 54 more. Often billed alongside Peach, Saoirse and Ogazón. Next up: UNO MALTA, Malta on Fri 18 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Thu, 10 Sept 2026 | Amnesia Ibiza | Ibiza |
 | Fri, 18 Sept 2026 | UNO MALTA | Malta |
 | Sat, 26 Sept 2026 | Depot Mayfield | Manchester |
 | Fri, 2 Oct 2026 | Kapsule | Liverpool |
@@ -23,6 +22,7 @@ Shanti Celeste is a house and techno artist tracked on soundcheck, with 214 sets
 
 ## Recently played
 
+- Amnesia Ibiza, Ibiza — Thu, 10 Sept 2026
 - Uto-Staffel, Zurich — Sat, 5 Sept 2026
 - Southwark Park, London — Sun, 30 Aug 2026
 - Kelvedon Hall, London — Sat, 29 Aug 2026
@@ -30,10 +30,9 @@ Shanti Celeste is a house and techno artist tracked on soundcheck, with 214 sets
 - Amsterdamse Bos, Amsterdam — Sat, 1 Aug 2026
 - Amsterdamse Bos, Amsterdam — Wed, 29 Jul 2026
 - 528 Ibiza, Ibiza — Tue, 28 Jul 2026
-- TBA, Glasgow — Fri, 24 Jul 2026
 
 ## Shares bills with
 
 Peach, Saoirse, Ogazón
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/shanticeleste/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/shanticeleste/)*

@@ -1,6 +1,6 @@
 # Area_osaka
 
-Area_osaka is a music venue in Osaka with 9 upcoming nights listed on soundcheck as of Thu, 10 Sept 2026; the next is "DEN-EN curation@Area_osaka" on Fri, 11 Sept 2026.
+Area_osaka is a music venue in Osaka with 9 upcoming nights listed on soundcheck as of Fri, 11 Sept 2026; the next is "DEN-EN curation@Area_osaka" on Fri, 11 Sept 2026.
 
 Area_osaka is a music venue in Osaka listed on soundcheck. 9 upcoming nights, with line-ups including ALUCA, DJ KAZUMA, DJ Morita and EICHIMEN and 2 more. Browse upcoming dates, start times and who's playing. 3F Nakanishi Building, 1-8-16 Nishi-Shinsaibashi, Chuo-ku, Osaka-shi, Osaka 542-0086.
 
@@ -22,4 +22,4 @@ Area_osaka is a music venue in Osaka listed on soundcheck. 9 upcoming nights, wi
 
 3F Nakanishi Building, 1-8-16 Nishi-Shinsaibashi, Chuo-ku, Osaka-shi, Osaka 542-0086, Osaka
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/osaka/club/area-osaka/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/osaka/club/area-osaka/)*

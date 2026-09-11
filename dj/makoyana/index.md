@@ -1,6 +1,6 @@
 # Makoyana
 
-Makoyana is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Thu, 10 Sept 2026, next at Solace, Melbourne on Sat, 12 Sept 2026.
+Makoyana is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Fri, 11 Sept 2026, next at Solace, Melbourne on Sat, 12 Sept 2026.
 
 Makoyana is a house and tech house artist based in Australia, tracked on soundcheck, with 18 sets logged across Melbourne. Often billed alongside DJ Possum, ADMINISTRATOR and Amphi. Next up: Solace, Melbourne on Sat 12 Sept.
 
@@ -25,4 +25,4 @@ Makoyana is a house and tech house artist based in Australia, tracked on soundch
 
 DJ Possum, ADMINISTRATOR, Amphi
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/makoyana/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/makoyana/)*

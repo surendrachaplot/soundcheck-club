@@ -1,6 +1,6 @@
 # Cooc
 
-Cooc is a music venue in London with 1 upcoming night listed on soundcheck as of Thu, 10 Sept 2026; the next is "ÜLIVE" on Sat, 26 Sept 2026.
+Cooc is a music venue in London with 1 upcoming night listed on soundcheck as of Fri, 11 Sept 2026; the next is "ÜLIVE" on Sat, 26 Sept 2026.
 
 Cooc is a music venue in London listed on soundcheck. 1 upcoming night. Browse upcoming dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ Cooc is a music venue in London listed on soundcheck. 1 upcoming night. Browse u
 | --- | --- | --- |
 | Sat, 26 Sept 2026 | ÜLIVE |  |
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/cooc/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/cooc/)*

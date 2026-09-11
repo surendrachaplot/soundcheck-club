@@ -1,6 +1,6 @@
 # HEDDA
 
-HEDDA is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 10 Sept 2026, next at Village Underground Barcelona, Barcelona on Sat, 19 Sept 2026.
+HEDDA is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at Village Underground Barcelona, Barcelona on Sat, 19 Sept 2026.
 
 HEDDA is a techno and house artist tracked on soundcheck, with 87 sets logged across Barcelona, Berlin, Brussels and Buenosaires and 12 more. Often billed alongside faceblindbabe, lil ja and Young Lychee. Next up: Village Underground Barcelona, Barcelona on Sat 19 Sept.
 
@@ -26,4 +26,4 @@ HEDDA is a techno and house artist tracked on soundcheck, with 87 sets logged ac
 
 faceblindbabe, lil ja, Young Lychee
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/hedda/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/hedda/)*

@@ -1,6 +1,6 @@
 # The Underbank
 
-The Underbank is a music venue in Manchester with 9 upcoming nights listed on soundcheck as of Thu, 10 Sept 2026; the next is "Underbank: Ste Macca" on Fri, 11 Sept 2026.
+The Underbank is a music venue in Manchester with 9 upcoming nights listed on soundcheck as of Fri, 11 Sept 2026; the next is "Underbank: Ste Macca" on Fri, 11 Sept 2026.
 
 The Underbank is a music venue in Manchester listed on soundcheck. 9 upcoming nights, with line-ups including Joey T, Mix-Stress and Rhod Parry. Browse upcoming dates, start times and who's playing. 27 Great Underbank, Stockport, SK1 1LN.
 
@@ -22,4 +22,4 @@ The Underbank is a music venue in Manchester listed on soundcheck. 9 upcoming ni
 
 27 Great Underbank, Stockport, SK1 1LN, Manchester
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/the-underbank/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/the-underbank/)*

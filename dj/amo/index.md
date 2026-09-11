@@ -1,6 +1,6 @@
 # AMO
 
-AMO is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Thu, 10 Sept 2026, next at Ministry Of Sound, London on Sat, 19 Sept 2026.
+AMO is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Fri, 11 Sept 2026, next at Ministry Of Sound, London on Sat, 19 Sept 2026.
 
 AMO is a house and minimal artist based in United States of America, tracked on soundcheck, with 39 sets logged across Berlin, Ibiza, Leipzig and London and 6 more. Often billed alongside Chad Andrew, Adam Collins and Philipp Johann Thimm. Next up: Ministry Of Sound, London on Sat 19 Sept.
 
@@ -25,4 +25,4 @@ AMO is a house and minimal artist based in United States of America, tracked on 
 
 Chad Andrew, Adam Collins, Philipp Johann Thimm
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/amo/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/amo/)*

@@ -1,6 +1,6 @@
 # blk.
 
-blk. is a Techno and Trance artist with 5 upcoming club dates listed on soundcheck as of Thu, 10 Sept 2026, next at Palmerstown House Estate, Dublin on Fri, 11 Sept 2026.
+blk. is a Techno and Trance artist with 5 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at Palmerstown House Estate, Dublin on Fri, 11 Sept 2026.
 
 blk. is a techno and trance artist tracked on soundcheck, with 140 sets logged across Aberdeen, Amsterdam, Antwerp and Barcelona and 39 more. Often billed alongside Azyr, Black Traffic and Charlie Sparks. Next up: Palmerstown House Estate, Dublin on Fri 11 Sept.
 
@@ -29,4 +29,4 @@ blk. is a techno and trance artist tracked on soundcheck, with 140 sets logged a
 
 Azyr, Black Traffic, Charlie Sparks
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/blk./)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/blk./)*

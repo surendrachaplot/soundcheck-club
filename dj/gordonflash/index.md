@@ -1,6 +1,6 @@
 # Gordon Flash
 
-Gordon Flash is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 10 Sept 2026, next at The Rooftop at Gianpula Village, Malta on Sun, 27 Sept 2026.
+Gordon Flash is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 11 Sept 2026, next at The Rooftop at Gianpula Village, Malta on Sun, 27 Sept 2026.
 
 Gordon Flash is a techno and house artist based in Malta, tracked on soundcheck, with 49 sets logged across Amsterdam, Berlin, Malta and Milan. Often billed alongside Patient (MT), Manthrax and Budg. Next up: The Rooftop at Gianpula Village, Malta on Sun 27 Sept.
 
@@ -25,4 +25,4 @@ Gordon Flash is a techno and house artist based in Malta, tracked on soundcheck,
 
 Patient (MT), Manthrax, Budg
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/gordonflash/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/gordonflash/)*

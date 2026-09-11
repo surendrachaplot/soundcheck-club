@@ -1,6 +1,6 @@
 # Cieloterra
 
-Cieloterra is a music venue in Rome with 1 upcoming night listed on soundcheck as of Thu, 10 Sept 2026; the next is "Tek-hole pres RESA UTOPICA" on Sat, 12 Sept 2026.
+Cieloterra is a music venue in Rome with 1 upcoming night listed on soundcheck as of Fri, 11 Sept 2026; the next is "Tek-hole pres RESA UTOPICA" on Sat, 12 Sept 2026.
 
 Cieloterra is a music venue in Rome listed on soundcheck. 1 upcoming night, with line-ups including RESA UTOPICA and ROBBSS. Browse upcoming dates, start times and who's playing. Via Di Portonaccio 23/B - 00159 Roma (RM), Italy.
 
@@ -14,4 +14,4 @@ Cieloterra is a music venue in Rome listed on soundcheck. 1 upcoming night, with
 
 Via Di Portonaccio 23/B - 00159 Roma (RM), Italy, Rome
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/rome/club/cieloterra/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/rome/club/cieloterra/)*

@@ -1,6 +1,6 @@
 # KYLIE
 
-KYLIE is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Thu, 10 Sept 2026, next at EXIL, Zurich on Fri, 18 Sept 2026.
+KYLIE is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at EXIL, Zurich on Fri, 18 Sept 2026.
 
 KYLIE is a techno and trance artist based in Switzerland, tracked on soundcheck, with 37 sets logged across Basel, Geneva, Stuttgart and Zurich. Often billed alongside MARCISM, kso12 and GCOD. Next up: EXIL, Zurich on Fri 18 Sept.
 
@@ -26,4 +26,4 @@ KYLIE is a techno and trance artist based in Switzerland, tracked on soundcheck,
 
 MARCISM, kso12, GCOD
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kylie/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kylie/)*

@@ -1,6 +1,6 @@
 # Cosmic JD
 
-Cosmic JD is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 10 Sept 2026, next at 5A, Lisbon on Fri, 11 Sept 2026.
+Cosmic JD is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at 5A, Lisbon on Fri, 11 Sept 2026.
 
 Cosmic JD is a techno and house artist tracked on soundcheck, with 85 sets logged across Bangkok, Barcelona, Berlin and Dublin and 13 more. Often billed alongside Alex Picone, DJ Zenta and Desyn. Next up: 5A, Lisbon on Fri 11 Sept.
 
@@ -26,4 +26,4 @@ Cosmic JD is a techno and house artist tracked on soundcheck, with 85 sets logge
 
 Alex Picone, DJ Zenta, Desyn
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/cosmicjd/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/cosmicjd/)*

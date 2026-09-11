@@ -1,6 +1,6 @@
 # Julian Fijma
 
-Julian Fijma is a House and Tech House artist with 7 upcoming club dates listed on soundcheck as of Thu, 10 Sept 2026, next at Coda, Toronto on Fri, 11 Sept 2026.
+Julian Fijma is a House and Tech House artist with 7 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at Coda, Toronto on Fri, 11 Sept 2026.
 
 Julian Fijma is a house and tech house artist tracked on soundcheck, with 108 sets logged across Aberdeen, Amsterdam, Barcelona and Belfast and 30 more. Often billed alongside East End Dubs, ALISHA and Jamback. Next up: Coda, Toronto on Fri 11 Sept.
 
@@ -31,4 +31,4 @@ Julian Fijma is a house and tech house artist tracked on soundcheck, with 108 se
 
 East End Dubs, ALISHA, Jamback
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/julianfijma/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/julianfijma/)*

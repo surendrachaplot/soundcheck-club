@@ -1,6 +1,6 @@
 # Maya B
 
-Maya B is a Techno and Electronica artist with 1 upcoming club date listed on soundcheck as of Thu, 10 Sept 2026, next at TBA - ENTITY powered by VOID ACOUSTCS, Madrid on Fri, 30 Oct 2026.
+Maya B is a Techno and Electronica artist with 1 upcoming club date listed on soundcheck as of Fri, 11 Sept 2026, next at TBA - ENTITY powered by VOID ACOUSTCS, Madrid on Fri, 30 Oct 2026.
 
 Maya B is a techno and electronica artist tracked on soundcheck, with 38 sets logged across Barcelona, Berlin, Lisbon and Madrid and 1 more. Often billed alongside Berenice, Baldman and DISTORT (ES). Next up: TBA - ENTITY powered by VOID ACOUSTCS, Madrid on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ Maya B is a techno and electronica artist tracked on soundcheck, with 38 sets lo
 
 Berenice, Baldman, DISTORT (ES)
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mayab/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mayab/)*

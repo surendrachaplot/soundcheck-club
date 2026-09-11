@@ -1,6 +1,6 @@
 # Anika Kunst
 
-Anika Kunst is a Techno and Acid artist with 4 upcoming club dates listed on soundcheck as of Thu, 10 Sept 2026, next at Barragem da Queimadela, Porto on Thu, 10 Sept 2026.
+Anika Kunst is a Techno and Acid artist with 4 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at Barragem da Queimadela, Porto on Thu, 10 Sept 2026.
 
 Anika Kunst is a techno and acid artist tracked on soundcheck, with 129 sets logged across Amsterdam, Barcelona, Berlin and Boston and 21 more. Often billed alongside Stojche, Ben Sims and Montero. Next up: Barragem da Queimadela, Porto on Thu 10 Sept.
 
@@ -15,6 +15,7 @@ Anika Kunst is a techno and acid artist tracked on soundcheck, with 129 sets log
 
 ## Recently played
 
+- Barragem da Queimadela, Porto — Thu, 10 Sept 2026
 - Razzmatazz, Barcelona — Sat, 29 Aug 2026
 - Berghain | Panorama Bar | Säule, Berlin — Sat, 1 Aug 2026
 - VENT, Tokyo — Fri, 26 Jun 2026
@@ -22,10 +23,9 @@ Anika Kunst is a techno and acid artist tracked on soundcheck, with 129 sets log
 - Le Chapiteau - Marseille, Marseille — Fri, 19 Jun 2026
 - TBA - Los Angeles (Warehouse), Los Angeles — Sat, 13 Jun 2026
 - public records, New York City — Fri, 12 Jun 2026
-- RADION, Amsterdam — Sat, 30 May 2026
 
 ## Shares bills with
 
 Stojche, Ben Sims, Montero
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/anikakunst/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/anikakunst/)*

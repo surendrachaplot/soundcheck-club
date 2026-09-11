@@ -1,6 +1,6 @@
 # Locklead
 
-Locklead is a House and Tech House artist with 12 upcoming club dates listed on soundcheck as of Thu, 10 Sept 2026, next at BRET, Amsterdam on Sun, 13 Sept 2026.
+Locklead is a House and Tech House artist with 12 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at BRET, Amsterdam on Sun, 13 Sept 2026.
 
 Locklead is a house and tech house artist tracked on soundcheck, with 191 sets logged across Amsterdam, Antwerp, Auckland and Barcelona and 39 more. Often billed alongside Marsolo, Chris Stassy and East End Dubs. Next up: BRET, Amsterdam on Sun 13 Sept.
 
@@ -36,4 +36,4 @@ Locklead is a house and tech house artist tracked on soundcheck, with 191 sets l
 
 Marsolo, Chris Stassy, East End Dubs
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/locklead/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/locklead/)*

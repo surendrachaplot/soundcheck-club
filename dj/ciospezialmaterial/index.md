@@ -1,6 +1,6 @@
 # Cio (Spezialmaterial)
 
-Cio (Spezialmaterial) is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Thu, 10 Sept 2026, next at The Golden Lion, Manchester on Fri, 13 Nov 2026.
+Cio (Spezialmaterial) is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Fri, 11 Sept 2026, next at The Golden Lion, Manchester on Fri, 13 Nov 2026.
 
 Cio (Spezialmaterial) is a techno and electro artist based in Switzerland, tracked on soundcheck, with 5 sets logged across Manchester and Zurich. Often billed alongside Kalabrese, Princess P and Leo Gretener. Next up: The Golden Lion, Manchester on Fri 13 Nov.
 
@@ -21,4 +21,4 @@ Cio (Spezialmaterial) is a techno and electro artist based in Switzerland, track
 
 Kalabrese, Princess P, Leo Gretener
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ciospezialmaterial/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ciospezialmaterial/)*

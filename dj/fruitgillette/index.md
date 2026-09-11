@@ -1,6 +1,6 @@
 # Fruit Gillette
 
-Fruit Gillette is a Club and Experimental artist with 1 upcoming club date listed on soundcheck as of Thu, 10 Sept 2026, next at Plyfa, Athens on Fri, 18 Sept 2026.
+Fruit Gillette is a Club and Experimental artist with 1 upcoming club date listed on soundcheck as of Fri, 11 Sept 2026, next at Plyfa, Athens on Fri, 18 Sept 2026.
 
 Fruit Gillette is a club and experimental artist based in Greece, tracked on soundcheck, with 7 sets logged across Athens and Berlin. Often billed alongside 555ivas, Ara XD and Carnival Queen. Next up: Plyfa, Athens on Fri 18 Sept.
 
@@ -23,4 +23,4 @@ Fruit Gillette is a club and experimental artist based in Greece, tracked on sou
 
 555ivas, Ara XD, Carnival Queen
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/fruitgillette/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/fruitgillette/)*

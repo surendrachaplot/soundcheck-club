@@ -1,6 +1,6 @@
 # MALICIEL
 
-MALICIEL is a Techno and Club artist with 2 upcoming club dates listed on soundcheck as of Thu, 10 Sept 2026, next at The Cafe, San Francisco/Oakland on Thu, 17 Sept 2026.
+MALICIEL is a Techno and Club artist with 2 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at The Cafe, San Francisco/Oakland on Thu, 17 Sept 2026.
 
 MALICIEL is a techno and club artist based in Brazil, tracked on soundcheck, with 11 sets logged across Sanfrancisco. Often billed alongside ANDYLAND, QUEENIE (US) and arktoi. Next up: The Cafe, Sanfrancisco on Thu 17 Sept.
 
@@ -26,4 +26,4 @@ MALICIEL is a techno and club artist based in Brazil, tracked on soundcheck, wit
 
 ANDYLAND, QUEENIE (US), arktoi
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/maliciel/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/maliciel/)*

@@ -1,6 +1,6 @@
 # GTH (FR)
 
-GTH (FR) is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Thu, 10 Sept 2026, next at Village Underground Lisboa, Lisbon on Sun, 13 Sept 2026.
+GTH (FR) is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Fri, 11 Sept 2026, next at Village Underground Lisboa, Lisbon on Sun, 13 Sept 2026.
 
 GTH (FR) is a techno and trance artist tracked on soundcheck, with 16 sets logged across Lisbon and Porto. Often billed alongside GADDAM, MAYAFAYA and NOQIA. Next up: Village Underground Lisboa, Lisbon on Sun 13 Sept.
 
@@ -25,4 +25,4 @@ GTH (FR) is a techno and trance artist tracked on soundcheck, with 16 sets logge
 
 GADDAM, MAYAFAYA, NOQIA
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/gthfr/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/gthfr/)*

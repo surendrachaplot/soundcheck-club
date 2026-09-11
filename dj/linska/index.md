@@ -1,6 +1,6 @@
 # Linska
 
-Linska is a House and Techno artist with 8 upcoming club dates listed on soundcheck as of Thu, 10 Sept 2026, next at EQ San Diego, San Diego on Fri, 11 Sept 2026.
+Linska is a House and Techno artist with 8 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at EQ San Diego, San Diego on Fri, 11 Sept 2026.
 
 Linska is a house and techno artist based in United Kingdom, tracked on soundcheck, with 44 sets logged across Amsterdam, Austin, Boston and Chicago and 16 more. Often billed alongside Gorgon City, Eli Brown and Adam Beyer. Next up: EQ San Diego, Sandiego on Fri 11 Sept.
 
@@ -32,4 +32,4 @@ Linska is a house and techno artist based in United Kingdom, tracked on soundche
 
 Gorgon City, Eli Brown, Adam Beyer
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/linska/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/linska/)*

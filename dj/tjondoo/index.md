@@ -1,6 +1,6 @@
 # Tjondoo
 
-Tjondoo is a Afro House and Afro Tech artist with 1 upcoming club date listed on soundcheck as of Thu, 10 Sept 2026, next at Waagnatie Expo & Events, Antwerp on Sat, 28 Nov 2026.
+Tjondoo is a Afro House and Afro Tech artist with 1 upcoming club date listed on soundcheck as of Fri, 11 Sept 2026, next at Waagnatie Expo & Events, Antwerp on Sat, 28 Nov 2026.
 
 Tjondoo is an afro house and afro tech artist based in Belgium, tracked on soundcheck, with 6 sets logged across Antwerp, Brussels, Ibiza and Rotterdam. Often billed alongside Andrea Oliva, Bun Xapa and Van Zand. Next up: Waagnatie Expo & Events, Antwerp on Sat 28 Nov.
 
@@ -22,4 +22,4 @@ Tjondoo is an afro house and afro tech artist based in Belgium, tracked on sound
 
 Andrea Oliva, Bun Xapa, Van Zand
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tjondoo/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tjondoo/)*

@@ -1,6 +1,6 @@
 # Panke
 
-Panke is a music venue in Berlin with 14 upcoming nights listed on soundcheck as of Thu, 10 Sept 2026; the next is "TOULCAKE" on Fri, 11 Sept 2026.
+Panke is a music venue in Berlin with 14 upcoming nights listed on soundcheck as of Fri, 11 Sept 2026; the next is "TOULCAKE" on Fri, 11 Sept 2026.
 
 Panke is a music venue in Berlin listed on soundcheck. 14 upcoming nights, with line-ups including AGILITÄT, Alex Wilcox, BBBBBBB and Catnapp and 2 more. Browse upcoming dates, start times and who's playing. Gerichtstraße 23, 13347 Berlin.
 
@@ -23,4 +23,4 @@ Panke is a music venue in Berlin listed on soundcheck. 14 upcoming nights, with 
 
 Gerichtstraße 23, 13347 Berlin, Berlin
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/panke/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/panke/)*

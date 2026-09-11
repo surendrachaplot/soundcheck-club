@@ -1,14 +1,13 @@
 # R Lounge
 
-R Lounge is a music venue in Tokyo with 11 upcoming nights listed on soundcheck as of Thu, 10 Sept 2026; the next is "on" on Thu, 10 Sept 2026.
+R Lounge is a music venue in Tokyo with 10 upcoming nights listed on soundcheck as of Fri, 11 Sept 2026; the next is "Attempt" on Fri, 11 Sept 2026.
 
-R Lounge is a music venue in Tokyo listed on soundcheck. 11 upcoming nights, with line-ups including akii, Andrew (TREKKIE TRAX), Carpainter and DJ Shimamura and 2 more. Browse upcoming dates, start times and who's playing. Tosen Udagawa Bld. 6F/7F, 4-7, Udagawa, Shibuya, Tokyo, 150-0042, JPN.
+R Lounge is a music venue in Tokyo listed on soundcheck. 10 upcoming nights, with line-ups including akii, Andrew (TREKKIE TRAX), Carpainter and DJ Shimamura and 2 more. Browse upcoming dates, start times and who's playing. Tosen Udagawa Bld. 6F/7F, 4-7, Udagawa, Shibuya, Tokyo, 150-0042, JPN.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Thu, 10 Sept 2026 | on |  |
 | Fri, 11 Sept 2026 | Attempt | Kotatsu, Krankent, SIGNAL (JP) |
 | Sat, 12 Sept 2026 | TREKKIE TRAX presents nextdimensional | Andrew (TREKKIE TRAX), Carpainter, E.O.U, Fetus, Nakamura Minami, Seimei, akii, nextdimensional |
 | Fri, 18 Sept 2026 | FEEDER feat. Ken Ishii | Kaori Watt, Ken Ishii, Nobuharu Morimoto |
@@ -18,9 +17,10 @@ R Lounge is a music venue in Tokyo listed on soundcheck. 11 upcoming nights, wit
 | Sun, 11 Oct 2026 | DefDistortion #121 -THE LEGENDS COME HOME- | Relect |
 | Sun, 11 Oct 2026 | UNCHARTED TIME | Mayuri, Shintarø Kanie, junkie babe |
 | Sat, 24 Oct 2026 | PSY LIFE | PONTA |
+| Sun, 25 Oct 2026 | UMB 2026 東京予選 |  |
 
 ## Address
 
 Tosen Udagawa Bld. 6F/7F, 4-7, Udagawa, Shibuya, Tokyo, 150-0042, JPN, Tokyo
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/r-lounge/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/r-lounge/)*

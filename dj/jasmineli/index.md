@@ -1,6 +1,6 @@
 # Jasmine Li
 
-Jasmine Li is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Thu, 10 Sept 2026, next at Dead Letter No. 9, New York City on Thu, 17 Sept 2026.
+Jasmine Li is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Fri, 11 Sept 2026, next at Dead Letter No. 9, New York City on Thu, 17 Sept 2026.
 
 Jasmine Li is a house and disco artist tracked on soundcheck, with 5 sets logged across Newyorkcity and Valencia. Often billed alongside Jasmine Li (NY), AG (NYC) and AUJA. Next up: Dead Letter No. 9, Newyorkcity on Thu 17 Sept.
 
@@ -21,4 +21,4 @@ Jasmine Li is a house and disco artist tracked on soundcheck, with 5 sets logged
 
 Jasmine Li (NY), AG (NYC), AUJA
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jasmineli/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jasmineli/)*

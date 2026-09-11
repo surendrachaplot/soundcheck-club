@@ -1,6 +1,6 @@
 # The Model
 
-The Model is a music venue in Nottingham with 15 upcoming nights listed on soundcheck as of Thu, 10 Sept 2026; the next is "A Sound Place For Sound" on Fri, 11 Sept 2026.
+The Model is a music venue in Nottingham with 15 upcoming nights listed on soundcheck as of Fri, 11 Sept 2026; the next is "A Sound Place For Sound" on Fri, 11 Sept 2026.
 
 The Model is a music venue in Nottingham listed on soundcheck. 15 upcoming nights, with line-ups including babyschön, Brad Bradley, Burly Chassis and CHEZA LUCINA and 2 more. Browse upcoming dates, start times and who's playing. 23 Goose Gate, Nottingham, NG1 3FE.
 
@@ -10,7 +10,7 @@ The Model is a music venue in Nottingham listed on soundcheck. 15 upcoming night
 | --- | --- | --- |
 | Fri, 11 Sept 2026 | A Sound Place For Sound |  |
 | Sat, 12 Sept 2026 | ROOM.3 with babyschön, Kay Fabe + Gail | Kay Fabe, babyschön |
-| Wed, 16 Sept 2026 | CHOPPED #1 |  |
+| Wed, 16 Sept 2026 | CHOPPED #1 | dj come |
 | Fri, 18 Sept 2026 | Kylie Wears Berghaus (Nottingham Debut) | Kylie Wears Berghaus |
 | Sat, 19 Sept 2026 | Oktoberfest + afterparty with BIBLIOTECH |  |
 | Fri, 25 Sept 2026 | Duty Free #5 |  |
@@ -23,4 +23,4 @@ The Model is a music venue in Nottingham listed on soundcheck. 15 upcoming night
 
 23 Goose Gate, Nottingham, NG1 3FE, Nottingham
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/nottingham/club/the-model/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/nottingham/club/the-model/)*

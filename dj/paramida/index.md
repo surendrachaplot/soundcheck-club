@@ -1,6 +1,6 @@
 # PARAMIDA
 
-PARAMIDA is a House and Techno artist with 12 upcoming club dates listed on soundcheck as of Thu, 10 Sept 2026, next at BASEMENT, New York City on Fri, 11 Sept 2026.
+PARAMIDA is a House and Techno artist with 12 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at BASEMENT, New York City on Fri, 11 Sept 2026.
 
 PARAMIDA is a house and techno artist tracked on soundcheck, with 252 sets logged across Amsterdam, Antwerp, Athens and Bali and 47 more. Often billed alongside Alex Kassian, Ryan Elliott and tINI. Next up: BASEMENT, Newyorkcity on Fri 11 Sept.
 
@@ -36,4 +36,4 @@ PARAMIDA is a house and techno artist tracked on soundcheck, with 252 sets logge
 
 Alex Kassian, Ryan Elliott, tINI
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/paramida/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/paramida/)*

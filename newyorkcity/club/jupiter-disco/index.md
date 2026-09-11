@@ -1,14 +1,13 @@
 # Jupiter Disco
 
-Jupiter Disco is a music venue in New York City with 16 upcoming nights listed on soundcheck as of Thu, 10 Sept 2026; the next is "Late Night Snack: DJ Etiquette, DJ Stiif, Jamie" on Thu, 10 Sept 2026.
+Jupiter Disco is a music venue in New York City with 15 upcoming nights listed on soundcheck as of Fri, 11 Sept 2026; the next is "Limitless: Tromac + IDKRYAN" on Fri, 11 Sept 2026.
 
-Jupiter Disco is a music venue in Newyorkcity listed on soundcheck. 16 upcoming nights, with line-ups including ALI IRL, Brutal Twink, Caire and chicas over rice and 2 more. Browse upcoming dates, start times and who's playing. 1237 Flushing Avenue, Brooklyn, NY 11237, USA.
+Jupiter Disco is a music venue in Newyorkcity listed on soundcheck. 15 upcoming nights, with line-ups including ALI IRL, Brutal Twink, Caire and chicas over rice and 2 more. Browse upcoming dates, start times and who's playing. 1237 Flushing Avenue, Brooklyn, NY 11237, USA.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Thu, 10 Sept 2026 | Late Night Snack: DJ Etiquette, DJ Stiif, Jamie | DJ Etiquette, DJ Stiif |
 | Fri, 11 Sept 2026 | Limitless: Tromac + IDKRYAN | IDKRYAN, Tromac |
 | Sun, 13 Sept 2026 | Summerhaus Sunday Church Edition: DJ cega, Niyx, EMZ!, DJ Yammi, silkshirt | EMZ!, Niyx, silkshirt |
 | Wed, 16 Sept 2026 | Breakfast Club: Serrian, Dio Garcia, varunisme | Dio Garcia, Serrian |
@@ -18,9 +17,10 @@ Jupiter Disco is a music venue in Newyorkcity listed on soundcheck. 16 upcoming 
 | Sat, 19 Sept 2026 | Music Is The Ki: Sevyn + VARSHA, Colored Craig, FOR FUTURE'S SAKE | Colored Craig, For Future's Sake, Sevyn, VARSHA |
 | Sun, 20 Sept 2026 | Gigi Rio b2b KEiKO | Gigi Rio, KEiKO |
 | Wed, 23 Sept 2026 | Potluck: dj 5spice, satandoll, DJ Fat Frog, PSYCHOMOB, LILLA, chicas over rice | DJ Fat Frog, LILLA, chicas over rice, dj 5spice, satandoll |
+| Thu, 24 Sept 2026 | Roses: Clay Cornelius, Leon George, Reyer, Sibley | Reyer |
 
 ## Address
 
 1237 Flushing Avenue, Brooklyn, NY 11237, USA, New York City
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/jupiter-disco/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/jupiter-disco/)*

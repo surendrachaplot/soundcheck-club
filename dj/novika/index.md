@@ -1,6 +1,6 @@
 # Novika
 
-Novika is a Electro and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 10 Sept 2026, next at Pod Gigantami, Warsaw on Fri, 11 Sept 2026.
+Novika is a Electro and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 11 Sept 2026, next at Pod Gigantami, Warsaw on Fri, 11 Sept 2026.
 
 Novika is an electro and techno artist tracked on soundcheck, with 10 sets logged across Warsaw. Often billed alongside Mr. Lex, ELI (PL) and Aksamit. Next up: Pod Gigantami, Warsaw on Fri 11 Sept.
 
@@ -25,4 +25,4 @@ Novika is an electro and techno artist tracked on soundcheck, with 10 sets logge
 
 Mr. Lex, ELI (PL), Aksamit
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/novika/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/novika/)*

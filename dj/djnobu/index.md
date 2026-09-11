@@ -1,6 +1,6 @@
 # DJ Nobu
 
-DJ Nobu is a Techno and House artist with 12 upcoming club dates listed on soundcheck as of Thu, 10 Sept 2026, next at Camp Kennybrook, New York City on Thu, 10 Sept 2026.
+DJ Nobu is a Techno and House artist with 12 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at Camp Kennybrook, New York City on Thu, 10 Sept 2026.
 
 DJ Nobu is a techno and house artist tracked on soundcheck, with 228 sets logged across Amsterdam, Athens, Austin and Bali and 57 more. Often billed alongside Gabrielle Kwarteng, Wata Igarashi and DVS1. Next up: Camp Kennybrook, Newyorkcity on Thu 10 Sept.
 
@@ -23,6 +23,7 @@ DJ Nobu is a techno and house artist tracked on soundcheck, with 228 sets logged
 
 ## Recently played
 
+- Camp Kennybrook, New York City — Thu, 10 Sept 2026
 - Motel Campo, Geneva — Sat, 5 Sept 2026
 - Phonox, London — Sat, 29 Aug 2026
 - Phonox, London — Sat, 29 Aug 2026
@@ -30,10 +31,9 @@ DJ Nobu is a techno and house artist tracked on soundcheck, with 228 sets logged
 - Lincoln Factory, Detroit — Sat, 22 Aug 2026
 - Société des arts technologiques, Montreal — Fri, 21 Aug 2026
 - Berghain | Panorama Bar | Säule, Berlin — Sat, 15 Aug 2026
-- Parc des Etangs/Vijverspark, Brussels — Fri, 14 Aug 2026
 
 ## Shares bills with
 
 Gabrielle Kwarteng, Wata Igarashi, DVS1
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djnobu/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djnobu/)*

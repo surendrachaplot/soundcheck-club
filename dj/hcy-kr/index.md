@@ -1,6 +1,6 @@
 # hcy.
 
-hcy. is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Thu, 10 Sept 2026, next at vurt., Seoul on Fri, 18 Sept 2026.
+hcy. is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Fri, 11 Sept 2026, next at vurt., Seoul on Fri, 18 Sept 2026.
 
 hcy. is a techno and electro artist based in South Korea, tracked on soundcheck, with 59 sets logged across Seoul. Often billed alongside Sunghoon, Ve Bogel and Xanexx. Next up: vurt., Seoul on Fri 18 Sept.
 
@@ -25,4 +25,4 @@ hcy. is a techno and electro artist based in South Korea, tracked on soundcheck,
 
 Sunghoon, Ve Bogel, Xanexx
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/hcy-kr/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/hcy-kr/)*

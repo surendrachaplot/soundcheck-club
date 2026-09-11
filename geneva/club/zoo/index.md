@@ -1,6 +1,6 @@
 # Zoo
 
-Zoo is a music venue in Geneva with 8 upcoming nights listed on soundcheck as of Thu, 10 Sept 2026; the next is "STROBE CULTURE WEEKENDER • presented by Laster & Tech Couture" on Fri, 11 Sept 2026.
+Zoo is a music venue in Geneva with 8 upcoming nights listed on soundcheck as of Fri, 11 Sept 2026; the next is "STROBE CULTURE WEEKENDER • presented by Laster & Tech Couture" on Fri, 11 Sept 2026.
 
 Zoo is a music venue in Geneva listed on soundcheck. 8 upcoming nights, with line-ups including Adiel, Alex Nantaya, Anabel Arroyo and Bailey Ibbs and 2 more. Browse upcoming dates, start times and who's playing. Place des Volontaires 4; 1204, Genève; Switzerland.
 
@@ -21,4 +21,4 @@ Zoo is a music venue in Geneva listed on soundcheck. 8 upcoming nights, with lin
 
 Place des Volontaires 4; 1204, Genève; Switzerland, Geneva
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/geneva/club/zoo/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/geneva/club/zoo/)*

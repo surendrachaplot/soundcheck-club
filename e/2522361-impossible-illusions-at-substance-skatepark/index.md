@@ -1,6 +1,6 @@
 # Impossible Illusions at Substance Skatepark
 
-Impossible Illusions at Substance Skatepark on Sat 7 Nov, Newyorkcity. 1 act on the bill: KC (NYC). House and Bass. Preview the line-up and save it on soundcheck.
+Impossible Illusions at Substance Skatepark on Sat 7 Nov, Newyorkcity. 2 acts on the bill: Craic Feen and KC (NYC). House and Bass. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ Impossible Illusions at Substance Skatepark on Sat 7 Nov, Newyorkcity. 1 act on 
 
 ## Line-up
 
+- Craic Feen
 - KC (NYC)
 
 *Source: [soundcheck](https://soundcheck.club/e/2522361-impossible-illusions-at-substance-skatepark/)*

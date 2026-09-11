@@ -1,6 +1,6 @@
 # Maceo Plex
 
-Maceo Plex is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Thu, 10 Sept 2026, next at IFEMA, Madrid on Fri, 18 Sept 2026.
+Maceo Plex is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at IFEMA, Madrid on Fri, 18 Sept 2026.
 
 Maceo Plex is a techno and house artist tracked on soundcheck, with 182 sets logged across Amsterdam, Athens, Austin and Barcelona and 47 more. Often billed alongside Seth Troxler, Adam Beyer and DJ Tennis. Next up: IFEMA, Madrid on Fri 18 Sept.
 
@@ -30,4 +30,4 @@ Maceo Plex is a techno and house artist tracked on soundcheck, with 182 sets log
 
 Seth Troxler, Adam Beyer, DJ Tennis
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/maceoplex/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/maceoplex/)*

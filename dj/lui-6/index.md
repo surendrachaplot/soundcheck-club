@@ -1,6 +1,6 @@
 # Lui (6)
 
-Lui (6) is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 10 Sept 2026, next at VENT, Tokyo on Fri, 16 Oct 2026.
+Lui (6) is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 11 Sept 2026, next at VENT, Tokyo on Fri, 16 Oct 2026.
 
 Lui (6) is a house and techno artist based in Japan, tracked on soundcheck, with 13 sets logged across Tokyo. Often billed alongside Kasumisty, Samo and AMANE. Next up: VENT, Tokyo on Fri 16 Oct.
 
@@ -25,4 +25,4 @@ Lui (6) is a house and techno artist based in Japan, tracked on soundcheck, with
 
 Kasumisty, Samo, AMANE
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lui-6/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lui-6/)*

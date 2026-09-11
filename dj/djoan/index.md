@@ -1,8 +1,8 @@
 # Djoan
 
-Djoan is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Thu, 10 Sept 2026, next at Almar Beach Club, Barcelona on Fri, 11 Sept 2026.
+Djoan is a House and Tech House artist with 3 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at Almar Beach Club, Barcelona on Fri, 11 Sept 2026.
 
-Djoan is a house and tech house artist based in Chile, tracked on soundcheck, with 32 sets logged across Barcelona, Berlin and Mexicocity. Often billed alongside Miguel Silva, Breezy S and Elwei. Next up: Almar Beach Club, Barcelona on Fri 11 Sept.
+Djoan is a house and tech house artist based in Chile, tracked on soundcheck, with 33 sets logged across Barcelona, Berlin and Mexicocity. Often billed alongside Miguel Silva, Breezy S and Elwei. Next up: Almar Beach Club, Barcelona on Fri 11 Sept.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Djoan is a house and tech house artist based in Chile, tracked on soundcheck, wi
 | --- | --- | --- |
 | Fri, 11 Sept 2026 | Almar Beach Club | Barcelona |
 | Sun, 13 Sept 2026 | Almar Beach Club | Barcelona |
+| Sun, 20 Sept 2026 | Azul Rooftop Barceloneta | Barcelona |
 
 ## Recently played
 
@@ -26,4 +27,4 @@ Djoan is a house and tech house artist based in Chile, tracked on soundcheck, wi
 
 Miguel Silva, Breezy S, Elwei
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djoan/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djoan/)*

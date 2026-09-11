@@ -1,6 +1,6 @@
 # Shorlax
 
-Shorlax is a Club and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 10 Sept 2026, next at La Perle, Brussels on Fri, 11 Sept 2026.
+Shorlax is a Club and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 11 Sept 2026, next at La Perle, Brussels on Fri, 11 Sept 2026.
 
 Shorlax is a club and techno artist tracked on soundcheck, with 9 sets logged across Brussels, Paris, Tallinn and Tbilisi. Often billed alongside Sarah Wanita, Al Wootton and Amdience. Next up: La Perle, Brussels on Fri 11 Sept.
 
@@ -25,4 +25,4 @@ Shorlax is a club and techno artist tracked on soundcheck, with 9 sets logged ac
 
 Sarah Wanita, Al Wootton, Amdience
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/shorlax/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/shorlax/)*

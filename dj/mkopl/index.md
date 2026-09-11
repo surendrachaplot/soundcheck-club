@@ -1,6 +1,6 @@
 # MKO (PL)
 
-MKO (PL) is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 10 Sept 2026, next at Tunelowa, Warsaw on Sun, 13 Sept 2026.
+MKO (PL) is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at Tunelowa, Warsaw on Sun, 13 Sept 2026.
 
 MKO (PL) is a techno and house artist tracked on soundcheck, with 78 sets logged across Berlin, Krakow, Manchester and Prague and 3 more. Often billed alongside PAWEL (PL), Kovvalsky and Ola Teks. Next up: Tunelowa, Warsaw on Sun 13 Sept.
 
@@ -26,4 +26,4 @@ MKO (PL) is a techno and house artist tracked on soundcheck, with 78 sets logged
 
 PAWEL (PL), Kovvalsky, Ola Teks
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mkopl/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mkopl/)*

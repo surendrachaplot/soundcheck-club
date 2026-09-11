@@ -1,6 +1,6 @@
 # Saku Sahara
 
-Saku Sahara is a Techno and Bass artist with 1 upcoming club date listed on soundcheck as of Thu, 10 Sept 2026, next at Groom, Lyon on Thu, 24 Sept 2026.
+Saku Sahara is a Techno and Bass artist with 1 upcoming club date listed on soundcheck as of Fri, 11 Sept 2026, next at Groom, Lyon on Thu, 24 Sept 2026.
 
 Saku Sahara is a techno and bass artist based in France, tracked on soundcheck, with 33 sets logged across Brussels, Geneva, Lyon and Marseille and 1 more. Often billed alongside LB aka LABAT, Laze and Racing Nokia. Next up: Groom, Lyon on Thu 24 Sept.
 
@@ -25,4 +25,4 @@ Saku Sahara is a techno and bass artist based in France, tracked on soundcheck, 
 
 LB aka LABAT, Laze, Racing Nokia
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sakusahara/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sakusahara/)*

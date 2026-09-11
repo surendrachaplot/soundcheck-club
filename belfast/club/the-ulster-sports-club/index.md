@@ -1,8 +1,8 @@
 # The Ulster Sports Club
 
-The Ulster Sports Club is a music venue in Belfast with 8 upcoming nights listed on soundcheck as of Thu, 10 Sept 2026; the next is "SHINE -- Lorcan Kelly [ALL NIGHT LONG]" on Fri, 11 Sept 2026.
+The Ulster Sports Club is a music venue in Belfast with 9 upcoming nights listed on soundcheck as of Fri, 11 Sept 2026; the next is "SHINE -- Lorcan Kelly [ALL NIGHT LONG]" on Fri, 11 Sept 2026.
 
-The Ulster Sports Club is a music venue in Belfast listed on soundcheck. 8 upcoming nights, with line-ups including Bella Festa, Bonzai Bonner, Conor Schmtz and Dusky and 2 more. Browse upcoming dates, start times and who's playing. The Ulster Sports Club 98 High St, Belfast BT1 2BE, Northern Ireland, United Kingdom.
+The Ulster Sports Club is a music venue in Belfast listed on soundcheck. 9 upcoming nights, with line-ups including Bella Festa, Bonzai Bonner, Conor Schmtz and Dusky and 2 more. Browse upcoming dates, start times and who's playing. The Ulster Sports Club 98 High St, Belfast BT1 2BE, Northern Ireland, United Kingdom.
 
 ## What's on
 
@@ -15,10 +15,11 @@ The Ulster Sports Club is a music venue in Belfast listed on soundcheck. 8 upcom
 | Fri, 18 Sept 2026 | Mince'd // Culture Night |  |
 | Sat, 19 Sept 2026 | SHINE -- Heidi | Conor Schmtz, Heidi |
 | Fri, 25 Sept 2026 | Freq Society presents Conleth Forde, Lisa Forbes, and Balcony Sunrise |  |
+| Sat, 10 Oct 2026 | LEATHERETTE |  |
 | Fri, 4 Dec 2026 | SHINE -- Dusky | Dusky |
 
 ## Address
 
 The Ulster Sports Club 98 High St, Belfast BT1 2BE, Northern Ireland, United Kingdom, Belfast
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/belfast/club/the-ulster-sports-club/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/belfast/club/the-ulster-sports-club/)*

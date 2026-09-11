@@ -1,6 +1,6 @@
 # The Nu Po
 
-The Nu Po is a Techno and Hardcore artist with 1 upcoming club date listed on soundcheck as of Thu, 10 Sept 2026, next at TBA - VANCOUVER, Vancouver on Fri, 18 Sept 2026.
+The Nu Po is a Techno and Hardcore artist with 1 upcoming club date listed on soundcheck as of Fri, 11 Sept 2026, next at TBA - VANCOUVER, Vancouver on Fri, 18 Sept 2026.
 
 The Nu Po is a techno and hardcore artist based in Canada, tracked on soundcheck, with 9 sets logged across Vancouver. Often billed alongside NIMAHA, GOTH-TROPIC and SVØRM. Next up: TBA - VANCOUVER, Vancouver on Fri 18 Sept.
 
@@ -25,4 +25,4 @@ The Nu Po is a techno and hardcore artist based in Canada, tracked on soundcheck
 
 NIMAHA, GOTH-TROPIC, SVØRM
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/thenewpo/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/thenewpo/)*

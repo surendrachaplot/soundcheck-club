@@ -1,6 +1,6 @@
 # KIMKILLA
 
-KIMKILLA is a Techno and Club artist with 2 upcoming club dates listed on soundcheck as of Thu, 10 Sept 2026, next at Jupiter Disco, New York City on Sun, 27 Sept 2026.
+KIMKILLA is a Techno and Club artist with 2 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at Jupiter Disco, New York City on Sun, 27 Sept 2026.
 
 KIMKILLA is a techno and club artist based in United States of America, tracked on soundcheck, with 32 sets logged across Chicago and Newyorkcity. Often billed alongside Indigo Heaven, Nymph (NY) and AG (1). Next up: Jupiter Disco, Newyorkcity on Sun 27 Sept.
 
@@ -26,4 +26,4 @@ KIMKILLA is a techno and club artist based in United States of America, tracked 
 
 Indigo Heaven, Nymph (NY), AG (1)
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kimkilla/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kimkilla/)*

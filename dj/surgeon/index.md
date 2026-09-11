@@ -1,6 +1,6 @@
 # Surgeon
 
-Surgeon is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Thu, 10 Sept 2026, next at Tresor / Globus, Berlin on Sat, 12 Sept 2026.
+Surgeon is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at Tresor / Globus, Berlin on Sat, 12 Sept 2026.
 
 Surgeon is a techno and house artist tracked on soundcheck, with 125 sets logged across Amsterdam, Athens, Barcelona and Berlin and 36 more. Often billed alongside Speedy J, DJ Pete and Eris Drew. Next up: Tresor / Globus, Berlin on Sat 12 Sept.
 
@@ -28,4 +28,4 @@ Surgeon is a techno and house artist tracked on soundcheck, with 125 sets logged
 
 Speedy J, DJ Pete, Eris Drew
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/surgeon/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/surgeon/)*

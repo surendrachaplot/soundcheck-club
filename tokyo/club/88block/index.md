@@ -1,6 +1,6 @@
 # 88block
 
-88block is a music venue in Tokyo with 8 upcoming nights listed on soundcheck as of Thu, 10 Sept 2026; the next is "ODRS" on Fri, 11 Sept 2026.
+88block is a music venue in Tokyo with 8 upcoming nights listed on soundcheck as of Fri, 11 Sept 2026; the next is "ODRS" on Fri, 11 Sept 2026.
 
 88block is a music venue in Tokyo listed on soundcheck. 8 upcoming nights, with line-ups including Diceman, DJ B2B, Iori and Sakuma and 1 more. Browse upcoming dates, start times and who's playing. B1F, 2-14-7, Takadanobaba,Shinjuku-ku,Tokyo 169-0075.
 
@@ -21,4 +21,4 @@
 
 B1F, 2-14-7, Takadanobaba,Shinjuku-ku,Tokyo 169-0075, Tokyo
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/88block/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/88block/)*

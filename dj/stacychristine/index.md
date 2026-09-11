@@ -1,18 +1,18 @@
 # Stacy Christine
 
-Stacy Christine is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Thu, 10 Sept 2026, next at General Lee's Cocktail House, Los Angeles on Thu, 10 Sept 2026.
+Stacy Christine is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Fri, 11 Sept 2026, next at TBA - 2341 E Olympic Blvd Los Angeles, CA  90021, Los Angeles on Sat, 14 Nov 2026.
 
-Stacy Christine is a house and disco artist tracked on soundcheck, with 121 sets logged across Barcelona, Detroit, London and Losangeles and 4 more. Often billed alongside Bears In Space, Perfect Lovers and Heidi Lawden. Next up: General Lee's Cocktail House, Losangeles on Thu 10 Sept.
+Stacy Christine is a house and disco artist tracked on soundcheck, with 121 sets logged across Barcelona, Detroit, London and Losangeles and 4 more. Often billed alongside Bears In Space, Perfect Lovers and Heidi Lawden. Next up: TBA - 2341 E Olympic Blvd Los Angeles, CA  90021, Losangeles on Sat 14 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Thu, 10 Sept 2026 | General Lee's Cocktail House | Los Angeles |
 | Sat, 14 Nov 2026 | TBA - 2341 E Olympic Blvd Los Angeles, CA  90021 | Los Angeles |
 
 ## Recently played
 
+- General Lee's Cocktail House, Los Angeles — Thu, 10 Sept 2026
 - Akbar, Los Angeles — Sun, 6 Sept 2026
 - TBA - Downtown Los Angeles, Los Angeles — Sat, 5 Sept 2026
 - Club Tee Gee, Los Angeles — Thu, 3 Sept 2026
@@ -20,10 +20,9 @@ Stacy Christine is a house and disco artist tracked on soundcheck, with 121 sets
 - The Bridge, Los Angeles — Sat, 18 Jul 2026
 - TBA - Rave DEN, Los Angeles — Sat, 27 Jun 2026
 - Akbar, Los Angeles — Sun, 14 Jun 2026
-- Palihotel Hollywood, Los Angeles — Sun, 7 Jun 2026
 
 ## Shares bills with
 
 Bears In Space, Perfect Lovers, Heidi Lawden
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/stacychristine/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/stacychristine/)*

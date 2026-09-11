@@ -1,6 +1,6 @@
 # FUJI TRILL
 
-FUJI TRILL is a Hip-Hop and Bass artist with 4 upcoming club dates listed on soundcheck as of Thu, 10 Sept 2026, next at clubasia, Tokyo on Wed, 16 Sept 2026.
+FUJI TRILL is a Hip-Hop and Bass artist with 4 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at clubasia, Tokyo on Wed, 16 Sept 2026.
 
 FUJI TRILL is a hip-hop and bass artist tracked on soundcheck, with 119 sets logged across Kyoto, Osaka and Tokyo. Often billed alongside misa nakamura, LienNaigel and DJ HOKUTO. Next up: clubasia, Tokyo on Wed 16 Sept.
 
@@ -28,4 +28,4 @@ FUJI TRILL is a hip-hop and bass artist tracked on soundcheck, with 119 sets log
 
 misa nakamura, LienNaigel, DJ HOKUTO
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/fujitrill/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/fujitrill/)*

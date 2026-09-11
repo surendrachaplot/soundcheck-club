@@ -1,6 +1,6 @@
 # S-candalo
 
-S-candalo is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 10 Sept 2026, next at Camp Kennybrook, New York City on Thu, 10 Sept 2026.
+S-candalo is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 11 Sept 2026, next at Camp Kennybrook, New York City on Thu, 10 Sept 2026.
 
 S-candalo is a house and techno artist tracked on soundcheck, with 68 sets logged across Amsterdam, Antwerp, Barcelona and Berlin and 21 more. Often billed alongside THC, DHC and Byron Yeates. Next up: Camp Kennybrook, Newyorkcity on Thu 10 Sept.
 
@@ -12,6 +12,7 @@ S-candalo is a house and techno artist tracked on soundcheck, with 68 sets logge
 
 ## Recently played
 
+- Camp Kennybrook, New York City — Thu, 10 Sept 2026
 - RSO.BERLIN, Berlin — Sat, 22 Aug 2026
 - Trädgården, Stockholm — Fri, 14 Aug 2026
 - Paradiso, Amsterdam — Sat, 8 Aug 2026
@@ -19,10 +20,9 @@ S-candalo is a house and techno artist tracked on soundcheck, with 68 sets logge
 - Ferropolis, Leipzig — Fri, 17 Jul 2026
 - NDSM Docklands, Amsterdam — Sun, 14 Jun 2026
 - FOLD, London — Sun, 31 May 2026
-- Backsteinboot, Berlin — Sat, 11 Apr 2026
 
 ## Shares bills with
 
 THC, DHC, Byron Yeates
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/s-candalo/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/s-candalo/)*

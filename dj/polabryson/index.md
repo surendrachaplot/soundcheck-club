@@ -1,8 +1,8 @@
 # Pola & Bryson
 
-Pola & Bryson is a Drum & Bass and Jungle artist with 6 upcoming club dates listed on soundcheck as of Thu, 10 Sept 2026, next at Oxford Art Factory, Sydney on Sat, 12 Sept 2026.
+Pola & Bryson is a Drum & Bass and Bass artist with 6 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at Oxford Art Factory, Sydney on Sat, 12 Sept 2026.
 
-Pola & Bryson are a drum & bass and jungle duo tracked on soundcheck, with 68 sets logged across Auckland, Barcelona, Berlin and Brighton and 32 more. Often billed alongside Emily Makis, Camo & Krooked and Hybrid Minds. Next up: Oxford Art Factory, Sydney on Sat 12 Sept.
+Pola & Bryson are a drum & bass and bass duo tracked on soundcheck, with 68 sets logged across Auckland, Barcelona, Berlin and Brighton and 32 more. Often billed alongside Emily Makis, Camo & Krooked and Hybrid Minds. Next up: Oxford Art Factory, Sydney on Sat 12 Sept.
 
 ## Upcoming shows
 
@@ -30,4 +30,4 @@ Pola & Bryson are a drum & bass and jungle duo tracked on soundcheck, with 68 se
 
 Emily Makis, Camo & Krooked, Hybrid Minds
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/polabryson/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/polabryson/)*

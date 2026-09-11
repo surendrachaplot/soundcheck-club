@@ -1,6 +1,6 @@
 # Lupini
 
-Lupini is a House and Electronica artist with 3 upcoming club dates listed on soundcheck as of Thu, 10 Sept 2026, next at The White Hotel, Manchester on Sun, 11 Oct 2026.
+Lupini is a House and Electronica artist with 3 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at The White Hotel, Manchester on Sun, 11 Oct 2026.
 
 Lupini is a house and electronica artist tracked on soundcheck, with 57 sets logged across Berlin, Bristol, Copenhagen and Dublin and 7 more. Often billed alongside Cowper, Annabel Fraser and Chez de Milo. Next up: The White Hotel, Manchester on Sun 11 Oct.
 
@@ -27,4 +27,4 @@ Lupini is a house and electronica artist tracked on soundcheck, with 57 sets log
 
 Cowper, Annabel Fraser, Chez de Milo
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lupini/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lupini/)*

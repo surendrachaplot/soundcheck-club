@@ -1,8 +1,8 @@
 # Grace Sands
 
-Grace Sands is a House and Deep House artist with 8 upcoming club dates listed on soundcheck as of Thu, 10 Sept 2026, next at Hoxton Cabin, London on Fri, 11 Sept 2026.
+Grace Sands is a House and Deep House artist with 9 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at Hoxton Cabin, London on Fri, 11 Sept 2026.
 
-Grace Sands is a house and deep house artist tracked on soundcheck, with 143 sets logged across Amsterdam, Barcelona, Berlin and Brighton and 22 more. Often billed alongside Roi Perez, Hannah Holland and Josh Caffé. Next up: Hoxton Cabin, London on Fri 11 Sept.
+Grace Sands is a house and deep house artist tracked on soundcheck, with 144 sets logged across Amsterdam, Barcelona, Berlin and Brighton and 22 more. Often billed alongside Roi Perez, Hannah Holland and Josh Caffé. Next up: Hoxton Cabin, London on Fri 11 Sept.
 
 ## Upcoming shows
 
@@ -14,6 +14,7 @@ Grace Sands is a house and deep house artist tracked on soundcheck, with 143 set
 | Fri, 2 Oct 2026 | Yellow Arch Studios | Sheffield |
 | Sat, 3 Oct 2026 | The White Hotel | Manchester |
 | Sun, 11 Oct 2026 | smartbar | Chicago |
+| Sat, 17 Oct 2026 | public records | New York City |
 | Sat, 31 Oct 2026 | Unit 58 | London |
 | Sat, 31 Oct 2026 | NUMBER 90 LONDON | London |
 
@@ -32,4 +33,4 @@ Grace Sands is a house and deep house artist tracked on soundcheck, with 143 set
 
 Roi Perez, Hannah Holland, Josh Caffé
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/gracesands/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/gracesands/)*

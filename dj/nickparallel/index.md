@@ -1,6 +1,6 @@
 # Nick Parallel
 
-Nick Parallel is a Deep House and Garage artist with 2 upcoming club dates listed on soundcheck as of Thu, 10 Sept 2026, next at Tola, London on Fri, 11 Sept 2026.
+Nick Parallel is a Deep House and Garage artist with 2 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at Tola, London on Fri, 11 Sept 2026.
 
 Nick Parallel is a deep house and garage artist tracked on soundcheck, with 3 sets logged across London. Often billed alongside dan.e.l.a, Desert Sound Colony and Yesca. Next up: Tola, London on Fri 11 Sept.
 
@@ -19,4 +19,4 @@ Nick Parallel is a deep house and garage artist tracked on soundcheck, with 3 se
 
 dan.e.l.a, Desert Sound Colony, Yesca
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nickparallel/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nickparallel/)*

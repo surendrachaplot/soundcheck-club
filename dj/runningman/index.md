@@ -1,6 +1,6 @@
 # Runningman
 
-Runningman is a House and Garage artist with 1 upcoming club date listed on soundcheck as of Thu, 10 Sept 2026, next at Skatecafe, Amsterdam on Fri, 18 Sept 2026.
+Runningman is a House and Garage artist with 1 upcoming club date listed on soundcheck as of Fri, 11 Sept 2026, next at Skatecafe, Amsterdam on Fri, 18 Sept 2026.
 
 Runningman is a house and garage artist tracked on soundcheck, with 20 sets logged across Amsterdam and Osaka. Often billed alongside Jan Koster, Passion DEEZ and Boris Coelman. Next up: Skatecafe, Amsterdam on Fri 18 Sept.
 
@@ -25,4 +25,4 @@ Runningman is a house and garage artist tracked on soundcheck, with 20 sets logg
 
 Jan Koster, Passion DEEZ, Boris Coelman
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/runningman/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/runningman/)*

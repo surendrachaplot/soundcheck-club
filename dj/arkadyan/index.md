@@ -1,6 +1,6 @@
 # ARKADYAN
 
-ARKADYAN is a Electronica and Afro House artist with 1 upcoming club date listed on soundcheck as of Thu, 10 Sept 2026, next at TBA - Istanbul ( KARAKOY,BEYOGLU / Yacht Party ), Istanbul on Sun, 20 Sept 2026.
+ARKADYAN is a Electronica and Afro House artist with 1 upcoming club date listed on soundcheck as of Fri, 11 Sept 2026, next at TBA - Istanbul ( KARAKOY,BEYOGLU / Yacht Party ), Istanbul on Sun, 20 Sept 2026.
 
 ARKADYAN is an electronica and afro house artist tracked on soundcheck, with 26 sets logged across Bali, Buenosaires, Geneva and Ibiza and 3 more. Often billed alongside MËSTIZA, Pablo Fierro and Pomboklap. Next up: TBA - Istanbul ( KARAKOY,BEYOGLU / Yacht Party ), Istanbul on Sun 20 Sept.
 
@@ -25,4 +25,4 @@ ARKADYAN is an electronica and afro house artist tracked on soundcheck, with 26 
 
 MËSTIZA, Pablo Fierro, Pomboklap
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/arkadyan/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/arkadyan/)*

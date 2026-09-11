@@ -1,6 +1,6 @@
 # PIP3DR3AM
 
-PIP3DR3AM is a Techno and Hardcore artist with 2 upcoming club dates listed on soundcheck as of Thu, 10 Sept 2026, next at Bottom Lounge, Chicago on Mon, 7 Sept 2026.
+PIP3DR3AM is a Techno and Hardcore artist with 2 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at Bottom Lounge, Chicago on Mon, 7 Sept 2026.
 
 PIP3DR3AM is a techno and hardcore artist based in United States of America, tracked on soundcheck, with 29 sets logged across Chicago. Often billed alongside AMAYAH, hhunter and Elarm. Next up: Bottom Lounge, Chicago on Mon 7 Sept.
 
@@ -26,4 +26,4 @@ PIP3DR3AM is a techno and hardcore artist based in United States of America, tra
 
 AMAYAH, hhunter, Elarm
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/pip3dr3am/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/pip3dr3am/)*

@@ -1,6 +1,6 @@
 # Filly Brook
 
-Filly Brook is a music venue in London with 2 upcoming nights listed on soundcheck as of Thu, 10 Sept 2026; the next is "Leyton Arts Club Launch Party" on Fri, 25 Sept 2026.
+Filly Brook is a music venue in London with 2 upcoming nights listed on soundcheck as of Fri, 11 Sept 2026; the next is "Leyton Arts Club Launch Party" on Fri, 25 Sept 2026.
 
 Filly Brook is a music venue in London listed on soundcheck. 2 upcoming nights, with line-ups including Idjut Boys. Browse upcoming dates, start times and who's playing. 392 Grove Green Road, London, E11 4AP, United Kingdom.
 
@@ -9,10 +9,10 @@ Filly Brook is a music venue in London listed on soundcheck. 2 upcoming nights, 
 | Date | Night | Line-up |
 | --- | --- | --- |
 | Fri, 25 Sept 2026 | Leyton Arts Club Launch Party |  |
-| Sun, 18 Oct 2026 | Bite The Day with Idjut Boys | Idjut Boys |
+| Sun, 1 Nov 2026 | Bite The Day with Idjut Boys | Idjut Boys |
 
 ## Address
 
 392 Grove Green Road, London, E11 4AP, United Kingdom, London
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/filly-brook/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/filly-brook/)*

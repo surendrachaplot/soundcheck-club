@@ -1,6 +1,6 @@
 # Firestone
 
-Firestone is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 10 Sept 2026, next at The Dolphin, Philadelphia on Fri, 11 Sept 2026.
+Firestone is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at The Dolphin, Philadelphia on Fri, 11 Sept 2026.
 
 Firestone is a house and techno artist based in United States of America, tracked on soundcheck, with 64 sets logged across Newyorkcity and Philadelphia. Often billed alongside hopifer, Riva + Bianca and Doll Redacted. Next up: The Dolphin, Philadelphia on Fri 11 Sept.
 
@@ -26,4 +26,4 @@ Firestone is a house and techno artist based in United States of America, tracke
 
 hopifer, Riva + Bianca, Doll Redacted
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/firestone/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/firestone/)*

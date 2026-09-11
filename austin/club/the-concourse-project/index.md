@@ -1,13 +1,14 @@
 # The Concourse Project
 
-The Concourse Project is a music venue in Austin with 29 upcoming nights listed on soundcheck as of Thu, 10 Sept 2026; the next is "LSR/CITY X by Gareth Emery" on Sat, 12 Sept 2026.
+The Concourse Project is a music venue in Austin with 30 upcoming nights listed on soundcheck as of Fri, 11 Sept 2026; the next is "Zeds Dead (Official Afterparty)" on Fri, 11 Sept 2026.
 
-The Concourse Project is a music venue in Austin listed on soundcheck. 29 upcoming nights, with line-ups including 1tbsp, Above & Beyond, Adam Port and Adam Sellouk and 2 more. Browse upcoming dates, start times and who's playing. 8509 Burleson Rd, Building 1, Austin, TX 78719, USA.
+The Concourse Project is a music venue in Austin listed on soundcheck. 30 upcoming nights, with line-ups including 1tbsp, Above & Beyond, Adam Port and Adam Sellouk and 2 more. Browse upcoming dates, start times and who's playing. 8509 Burleson Rd, Building 1, Austin, TX 78719, USA.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
+| Fri, 11 Sept 2026 | Zeds Dead (Official Afterparty) | Zeds Dead |
 | Sat, 12 Sept 2026 | LSR/CITY X by Gareth Emery | Gareth Emery |
 | Sat, 12 Sept 2026 | Natte Visstick (The Hangar) |  |
 | Wed, 16 Sept 2026 | ISOxo pres: Hardcore Diva (Night 1) at The Concourse Project |  |
@@ -17,10 +18,9 @@ The Concourse Project is a music venue in Austin listed on soundcheck. 29 upcomi
 | Fri, 25 Sept 2026 | Rescheduled to 9/25: Deorro pres Botas Y Rave (Outdoors) | Deorro |
 | Fri, 25 Sept 2026 | Ben Sterling (Open to Close) | Ben Sterling |
 | Sat, 26 Sept 2026 | Eli Brown (Outdoors) | Eli Brown, Kasia, Kasia (OFC), Marie Vaunt |
-| Thu, 1 Oct 2026 | Official 2026 ACL Fest Nights: The Chainsmokers | The Chainsmokers |
 
 ## Address
 
 8509 Burleson Rd, Building 1, Austin, TX 78719, USA, Austin
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/austin/club/the-concourse-project/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/austin/club/the-concourse-project/)*

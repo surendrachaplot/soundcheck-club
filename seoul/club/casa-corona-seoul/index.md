@@ -1,14 +1,13 @@
 # Casa Corona Seoul
 
-Casa Corona Seoul is a music venue in Seoul with 3 upcoming nights listed on soundcheck as of Thu, 10 Sept 2026; the next is "WAX CLUB" on Thu, 10 Sept 2026.
+Casa Corona Seoul is a music venue in Seoul with 2 upcoming nights listed on soundcheck as of Fri, 11 Sept 2026; the next is "HOUSETRIBE at Casa Corona" on Fri, 11 Sept 2026.
 
-Casa Corona Seoul is a music venue in Seoul listed on soundcheck. 3 upcoming nights, with line-ups including Better, Pingpong (KR), Rubato and Tomoya and 1 more. Browse upcoming dates, start times and who's playing. 7, Bogwang-ro 60-gil, Yongsan-gu, Seoul, Korea 04406.
+Casa Corona Seoul is a music venue in Seoul listed on soundcheck. 2 upcoming nights, with line-ups including Better, Pingpong (KR), Tomoya and Yamariki. Browse upcoming dates, start times and who's playing. 7, Bogwang-ro 60-gil, Yongsan-gu, Seoul, Korea 04406.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Thu, 10 Sept 2026 | WAX CLUB | Rubato |
 | Fri, 11 Sept 2026 | HOUSETRIBE at Casa Corona | Better, Pingpong (KR), Tomoya, Yamariki |
 | Sat, 12 Sept 2026 | Sol CASA | Better, Pingpong (KR) |
 
@@ -16,4 +15,4 @@ Casa Corona Seoul is a music venue in Seoul listed on soundcheck. 3 upcoming nig
 
 7, Bogwang-ro 60-gil, Yongsan-gu, Seoul, Korea 04406, Seoul
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/seoul/club/casa-corona-seoul/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/seoul/club/casa-corona-seoul/)*

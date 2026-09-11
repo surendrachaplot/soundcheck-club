@@ -1,6 +1,6 @@
 # Cabana
 
-Cabana is a Progressive House and Electro artist with 1 upcoming club date listed on soundcheck as of Thu, 10 Sept 2026, next at Azul Rooftop Barceloneta, Barcelona on Fri, 11 Sept 2026.
+Cabana is a Progressive House and Electro artist with 1 upcoming club date listed on soundcheck as of Fri, 11 Sept 2026, next at Azul Rooftop Barceloneta, Barcelona on Fri, 11 Sept 2026.
 
 Cabana is a progressive house and electro artist tracked on soundcheck, with 53 sets logged across Barcelona and Prague. Often billed alongside Andrea Love, RuxXandra and Alice Youngling. Next up: Azul Rooftop Barceloneta, Barcelona on Fri 11 Sept.
 
@@ -25,4 +25,4 @@ Cabana is a progressive house and electro artist tracked on soundcheck, with 53 
 
 Andrea Love, RuxXandra, Alice Youngling
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/cabana/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/cabana/)*

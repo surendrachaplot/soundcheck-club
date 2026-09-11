@@ -1,6 +1,6 @@
 # The Classic Grand
 
-The Classic Grand is a music venue in Glasgow with 17 upcoming nights listed on soundcheck as of Thu, 10 Sept 2026; the next is "KHAOTIC presents: SO JUICE, 5VRGN B2B NGL & MORE" on Fri, 11 Sept 2026.
+The Classic Grand is a music venue in Glasgow with 17 upcoming nights listed on soundcheck as of Fri, 11 Sept 2026; the next is "KHAOTIC presents: SO JUICE, 5VRGN B2B NGL & MORE" on Fri, 11 Sept 2026.
 
 The Classic Grand is a music venue in Glasgow listed on soundcheck. 17 upcoming nights, with line-ups including Act of Rage, Carbon Based Lifeforms, Charlie B and Dougal and 2 more. Browse upcoming dates, start times and who's playing. 18 Jamaica Street; Glasgow, G1 4QD; Scotland.
 
@@ -23,4 +23,4 @@ The Classic Grand is a music venue in Glasgow listed on soundcheck. 17 upcoming 
 
 18 Jamaica Street; Glasgow, G1 4QD; Scotland, Glasgow
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/the-classic-grand/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/the-classic-grand/)*

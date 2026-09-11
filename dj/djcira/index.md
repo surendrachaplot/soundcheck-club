@@ -1,6 +1,6 @@
 # DJ Cira
 
-DJ Cira is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Thu, 10 Sept 2026, next at The Great Northern, San Francisco/Oakland on Fri, 18 Sept 2026.
+DJ Cira is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Fri, 11 Sept 2026, next at The Great Northern, San Francisco/Oakland on Fri, 18 Sept 2026.
 
 DJ Cira is a house and disco artist based in United States of America, tracked on soundcheck, with 50 sets logged across Sanfrancisco. Often billed alongside DJ M3, DJ PlayStation and Duserock. Next up: The Great Northern, Sanfrancisco on Fri 18 Sept.
 
@@ -25,4 +25,4 @@ DJ Cira is a house and disco artist based in United States of America, tracked o
 
 DJ M3, DJ PlayStation, Duserock
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djcira/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djcira/)*

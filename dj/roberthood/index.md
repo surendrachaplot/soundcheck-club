@@ -1,14 +1,15 @@
 # Robert Hood
 
-Robert Hood is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 10 Sept 2026, next at E1, London on Sat, 19 Sept 2026.
+Robert Hood is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at E1, London on Sat, 19 Sept 2026.
 
-Robert Hood is a techno and house artist tracked on soundcheck, with 76 sets logged across Amsterdam, Athens, Austin and Barcelona and 29 more. Often billed alongside Chlär, Lyric Hood and Floorplan. Next up: E1, London on Sat 19 Sept.
+Robert Hood is a techno and house artist tracked on soundcheck, with 77 sets logged across Amsterdam, Athens, Austin and Barcelona and 29 more. Often billed alongside Chlär, Lyric Hood and Floorplan. Next up: E1, London on Sat 19 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 19 Sept 2026 | E1 | London |
+| Fri, 30 Oct 2026 | TBA - Brooklyn | New York City |
 | Sun, 22 Nov 2026 | Under Club | Buenos Aires |
 
 ## Recently played
@@ -26,4 +27,4 @@ Robert Hood is a techno and house artist tracked on soundcheck, with 76 sets log
 
 Chlär, Lyric Hood, Floorplan
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/roberthood/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/roberthood/)*

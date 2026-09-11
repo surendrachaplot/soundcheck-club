@@ -1,6 +1,6 @@
 # BUYMEFLOVVERS
 
-BUYMEFLOVVERS is a Techno and Industrial artist with 2 upcoming club dates listed on soundcheck as of Thu, 10 Sept 2026, next at ESC, Montreal on Sat, 12 Sept 2026.
+BUYMEFLOVVERS is a Techno and Industrial artist with 2 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at ESC, Montreal on Sat, 12 Sept 2026.
 
 BUYMEFLOVVERS is a techno and industrial artist based in Canada, tracked on soundcheck, with 32 sets logged across Montreal and Toronto. Often billed alongside ucanquit, D.Blavatsky and Karscher. Next up: ESC, Montreal on Sat 12 Sept.
 
@@ -26,4 +26,4 @@ BUYMEFLOVVERS is a techno and industrial artist based in Canada, tracked on soun
 
 ucanquit, D.Blavatsky, Karscher
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/buymeflovvers/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/buymeflovvers/)*

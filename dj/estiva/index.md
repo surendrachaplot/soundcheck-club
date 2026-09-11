@@ -1,8 +1,8 @@
 # Estiva
 
-Estiva is a Progressive House and Trance artist with 4 upcoming club dates listed on soundcheck as of Thu, 10 Sept 2026, next at The Midway, San Francisco/Oakland on Sat, 19 Sept 2026.
+Estiva is a Progressive House and Trance artist with 5 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at The Midway, San Francisco/Oakland on Sat, 19 Sept 2026.
 
-Estiva is a progressive house and trance artist tracked on soundcheck, with 37 sets logged across Amsterdam, Auckland, Chicago and Cologne and 11 more. Often billed alongside mölly, ALLKNIGHT and Farius. Next up: The Midway, Sanfrancisco on Sat 19 Sept.
+Estiva is a progressive house and trance artist tracked on soundcheck, with 38 sets logged across Amsterdam, Auckland, Chicago and Cologne and 11 more. Often billed alongside mölly, ALLKNIGHT and Farius. Next up: The Midway, Sanfrancisco on Sat 19 Sept.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ Estiva is a progressive house and trance artist tracked on soundcheck, with 37 s
 | Sat, 19 Sept 2026 | The Midway | San Francisco/Oakland |
 | Sat, 10 Oct 2026 | E1 | London |
 | Thu, 22 Oct 2026 | Toekomstmuziek | Amsterdam |
+| Fri, 23 Oct 2026 | Escape | Amsterdam |
 | Sat, 14 Nov 2026 | Melkweg | Amsterdam |
 
 ## Recently played
@@ -28,4 +29,4 @@ Estiva is a progressive house and trance artist tracked on soundcheck, with 37 s
 
 mölly, ALLKNIGHT, Farius
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/estiva/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/estiva/)*

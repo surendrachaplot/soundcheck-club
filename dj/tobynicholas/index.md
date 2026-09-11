@@ -1,6 +1,6 @@
 # Toby (UK)
 
-Toby (UK) is a House and Electro artist with 1 upcoming club date listed on soundcheck as of Thu, 10 Sept 2026, next at NUMBER 90 LONDON, London on Sat, 31 Oct 2026.
+Toby (UK) is a House and Electro artist with 1 upcoming club date listed on soundcheck as of Fri, 11 Sept 2026, next at NUMBER 90 LONDON, London on Sat, 31 Oct 2026.
 
 Toby (UK) is a house and electro artist based in United Kingdom, tracked on soundcheck, with 14 sets logged across London, Manchester, Mexicocity and Paris and 1 more. Often billed alongside Hamish Cole, Seb Odyssey and ono.sendai.runner. Next up: NUMBER 90 LONDON, London on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Toby (UK) is a house and electro artist based in United Kingdom, tracked on soun
 
 Hamish Cole, Seb Odyssey, ono.sendai.runner
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tobynicholas/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tobynicholas/)*

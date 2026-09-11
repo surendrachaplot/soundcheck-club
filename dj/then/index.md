@@ -1,6 +1,6 @@
 # TH;EN
 
-TH;EN is a Techno and Progressive House artist with 4 upcoming club dates listed on soundcheck as of Thu, 10 Sept 2026, next at OCZKI, Warsaw on Sat, 12 Sept 2026.
+TH;EN is a Techno and Progressive House artist with 4 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at OCZKI, Warsaw on Sat, 12 Sept 2026.
 
 TH;EN is a techno and progressive house artist tracked on soundcheck, with 34 sets logged across Amsterdam, Athens, Berlin and Budapest and 13 more. Often billed alongside Diode Eins, Alchemiah and AVANT. Next up: OCZKI, Warsaw on Sat 12 Sept.
 
@@ -28,4 +28,4 @@ TH;EN is a techno and progressive house artist tracked on soundcheck, with 34 se
 
 Diode Eins, Alchemiah, AVANT
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/then/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/then/)*

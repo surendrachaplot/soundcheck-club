@@ -1,13 +1,14 @@
 # DJ Nah Care
 
-DJ Nah Care is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 10 Sept 2026, next at Den Anden Side, Copenhagen on Fri, 23 Oct 2026.
+DJ Nah Care is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at Den Anden Side, Copenhagen on Fri, 18 Sept 2026.
 
-DJ Nah Care is a techno and house artist tracked on soundcheck, with 77 sets logged across Amsterdam, Barcelona, Berlin and Copenhagen and 7 more. Often billed alongside Ezy, Entree and Peachlyfe. Next up: Den Anden Side, Copenhagen on Fri 23 Oct.
+DJ Nah Care is a techno and house artist tracked on soundcheck, with 78 sets logged across Amsterdam, Barcelona, Berlin and Copenhagen and 7 more. Often billed alongside Ezy, Entree and Peachlyfe. Next up: Den Anden Side, Copenhagen on Fri 18 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 18 Sept 2026 | Den Anden Side | Copenhagen |
 | Fri, 23 Oct 2026 | Den Anden Side | Copenhagen |
 
 ## Recently played
@@ -25,4 +26,4 @@ DJ Nah Care is a techno and house artist tracked on soundcheck, with 77 sets log
 
 Ezy, Entree, Peachlyfe
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djnahcare/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djnahcare/)*

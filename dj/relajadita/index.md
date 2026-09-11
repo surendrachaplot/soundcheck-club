@@ -1,14 +1,15 @@
 # relajadita
 
-relajadita is a Techno and Trance artist with 3 upcoming club dates listed on soundcheck as of Thu, 10 Sept 2026, next at Son Fusteret, Mallorca on Sat, 19 Sept 2026.
+relajadita is a Techno and Trance artist with 4 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at Son Fusteret, Mallorca on Sat, 19 Sept 2026.
 
-relajadita is a techno and trance artist tracked on soundcheck, with 20 sets logged across Amsterdam, Barcelona, Basel and Berlin and 7 more. Often billed alongside Adrian Mills, DVAID and GIØ (1). Next up: Son Fusteret, Mallorca on Sat 19 Sept.
+relajadita is a techno and trance artist tracked on soundcheck, with 21 sets logged across Amsterdam, Barcelona, Basel and Berlin and 8 more. Often billed alongside Adrian Mills, DVAID and GIØ (1). Next up: Son Fusteret, Mallorca on Sat 19 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 19 Sept 2026 | Son Fusteret | Mallorca |
+| Sat, 3 Oct 2026 | Barraca | Valencia |
 | Fri, 16 Oct 2026 | Parc Floral De Paris | Paris |
 | Thu, 22 Oct 2026 | Melkweg | Amsterdam |
 
@@ -27,4 +28,4 @@ relajadita is a techno and trance artist tracked on soundcheck, with 20 sets log
 
 Adrian Mills, DVAID, GIØ (1)
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/relajadita/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/relajadita/)*

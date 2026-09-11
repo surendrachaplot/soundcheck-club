@@ -1,14 +1,15 @@
 # Radioactive Man
 
-Radioactive Man is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Thu, 10 Sept 2026, next at Moon Club, Bristol on Fri, 11 Sept 2026.
+Radioactive Man is a Techno and Electro artist with 2 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at Moon Club, Bristol on Fri, 11 Sept 2026.
 
-Radioactive Man is a techno and electro artist tracked on soundcheck, with 83 sets logged across Amsterdam, Barcelona, Belfast and Berlin and 19 more. Often billed alongside Unai Trotti, Craig Richards and Alien Communications. Next up: Moon Club, Bristol on Fri 11 Sept.
+Radioactive Man is a techno and electro artist tracked on soundcheck, with 84 sets logged across Amsterdam, Barcelona, Belfast and Berlin and 19 more. Often billed alongside Unai Trotti, Craig Richards and Alien Communications. Next up: Moon Club, Bristol on Fri 11 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 11 Sept 2026 | Moon Club | Bristol |
+| Sat, 14 Nov 2026 | Les Enfants Brillants | Barcelona |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Radioactive Man is a techno and electro artist tracked on soundcheck, with 83 se
 
 Unai Trotti, Craig Richards, Alien Communications
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/radioactiveman/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/radioactiveman/)*

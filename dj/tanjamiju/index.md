@@ -1,13 +1,14 @@
 # TANJA MIJU
 
-TANJA MIJU is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Thu, 10 Sept 2026, next at E-Werk Kulturzentrum, Nürnberg on Sat, 17 Oct 2026.
+TANJA MIJU is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at MÄX, Zurich on Fri, 25 Sept 2026.
 
-TANJA MIJU is a techno and trance artist tracked on soundcheck, with 68 sets logged across Berlin, Budapest, Cologne and Dusseldorf and 15 more. Often billed alongside Johannes Schuster, Neon Graveyard and Trancestrudel. Next up: E-Werk Kulturzentrum, Nurnberg on Sat 17 Oct.
+TANJA MIJU is a techno and trance artist tracked on soundcheck, with 69 sets logged across Berlin, Budapest, Cologne and Dusseldorf and 15 more. Often billed alongside Johannes Schuster, Neon Graveyard and Trancestrudel. Next up: MÄX, Zurich on Fri 25 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 25 Sept 2026 | MÄX | Zurich |
 | Sat, 17 Oct 2026 | E-Werk Kulturzentrum | Nürnberg |
 
 ## Recently played
@@ -25,4 +26,4 @@ TANJA MIJU is a techno and trance artist tracked on soundcheck, with 68 sets log
 
 Johannes Schuster, Neon Graveyard, Trancestrudel
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tanjamiju/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tanjamiju/)*

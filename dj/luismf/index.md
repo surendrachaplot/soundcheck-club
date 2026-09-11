@@ -1,6 +1,6 @@
 # Luis MF
 
-Luis MF is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 10 Sept 2026, next at Plaza de Toros de Toledo, Madrid on Sat, 12 Sept 2026.
+Luis MF is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 11 Sept 2026, next at Plaza de Toros de Toledo, Madrid on Sat, 12 Sept 2026.
 
 Luis MF is a techno and house artist tracked on soundcheck, with 8 sets logged across Madrid. Often billed alongside Yoikol, System Efe and Luismi Delpino. Next up: Plaza de Toros de Toledo, Madrid on Sat 12 Sept.
 
@@ -24,4 +24,4 @@ Luis MF is a techno and house artist tracked on soundcheck, with 8 sets logged a
 
 Yoikol, System Efe, Luismi Delpino
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/luismf/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/luismf/)*

@@ -1,14 +1,15 @@
 # Coolrnch
 
-Coolrnch is a Disco and House artist with 1 upcoming club date listed on soundcheck as of Thu, 10 Sept 2026, next at Modeci, Seoul on Sun, 13 Sept 2026.
+Coolrnch is a Disco and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at Modeci, Seoul on Sun, 13 Sept 2026.
 
-Coolrnch is a disco and house artist based in South Korea, tracked on soundcheck, with 90 sets logged across Berlin, Seoul and Tokyo. Often billed alongside Cozyhoon, Inés and Jaezae. Next up: Modeci, Seoul on Sun 13 Sept.
+Coolrnch is a disco and house artist based in South Korea, tracked on soundcheck, with 91 sets logged across Berlin, Seoul and Tokyo. Often billed alongside Cozyhoon, Inés and Jaezae. Next up: Modeci, Seoul on Sun 13 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sun, 13 Sept 2026 | Modeci | Seoul |
+| Fri, 18 Sept 2026 | Quest | Seoul |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Coolrnch is a disco and house artist based in South Korea, tracked on soundcheck
 
 Cozyhoon, Inés, Jaezae
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/coolrnch/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/coolrnch/)*

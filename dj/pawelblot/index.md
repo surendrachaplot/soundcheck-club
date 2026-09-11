@@ -1,6 +1,6 @@
 # Pawel Blot
 
-Pawel Blot is a Italo Disco and Acid artist with 1 upcoming club date listed on soundcheck as of Thu, 10 Sept 2026, next at B-SIDE, Warsaw on Sat, 10 Oct 2026.
+Pawel Blot is a Italo Disco and Acid artist with 1 upcoming club date listed on soundcheck as of Fri, 11 Sept 2026, next at B-SIDE, Warsaw on Sat, 10 Oct 2026.
 
 Pawel Blot is an italo disco and acid artist based in Poland, tracked on soundcheck, with 29 sets logged across Barcelona, Berlin, Krakow and Thehague and 1 more. Often billed alongside Pitti Schmitti, Internal Operator and Marsman. Next up: B-SIDE, Warsaw on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ Pawel Blot is an italo disco and acid artist based in Poland, tracked on soundch
 
 Pitti Schmitti, Internal Operator, Marsman
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/pawelblot/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/pawelblot/)*

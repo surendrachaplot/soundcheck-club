@@ -1,6 +1,6 @@
 # AANO
 
-AANO is a Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 10 Sept 2026, next at Colour Factory, London on Sat, 12 Sept 2026.
+AANO is a Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at Colour Factory, London on Sat, 12 Sept 2026.
 
 AANO is a techno artist tracked on soundcheck, with 12 sets logged across London. Often billed alongside Himboy, Numero 6 and Varanasi. Next up: Colour Factory, London on Sat 12 Sept.
 
@@ -26,4 +26,4 @@ AANO is a techno artist tracked on soundcheck, with 12 sets logged across London
 
 Himboy, Numero 6, Varanasi
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/aano/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/aano/)*

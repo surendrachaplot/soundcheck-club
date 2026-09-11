@@ -1,8 +1,8 @@
 # LSB
 
-LSB is a Drum & Bass and Jungle artist with 4 upcoming club dates listed on soundcheck as of Thu, 10 Sept 2026, next at Gretchen, Berlin on Sat, 19 Sept 2026.
+LSB is a Drum & Bass and Jungle artist with 5 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at Gretchen, Berlin on Sat, 19 Sept 2026.
 
-LSB is a drum & bass and jungle artist based in United Kingdom, tracked on soundcheck, with 61 sets logged across Amsterdam, Antwerp, Auckland and Berlin and 24 more. Often billed alongside DRS, MC Fox and Workforce. Next up: Gretchen, Berlin on Sat 19 Sept.
+LSB is a drum & bass and jungle artist based in United Kingdom, tracked on soundcheck, with 62 sets logged across Amsterdam, Antwerp, Auckland and Berlin and 24 more. Often billed alongside DRS, MC Fox and Workforce. Next up: Gretchen, Berlin on Sat 19 Sept.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ LSB is a drum & bass and jungle artist based in United Kingdom, tracked on sound
 | Sat, 19 Sept 2026 | Gretchen | Berlin |
 | Fri, 9 Oct 2026 | Depot Mayfield | Manchester |
 | Sat, 10 Oct 2026 | Ampere | Antwerp |
+| Sat, 17 Oct 2026 | Sound Machine | Toronto |
 | Sat, 24 Oct 2026 | Phonox | London |
 
 ## Recently played
@@ -28,4 +29,4 @@ LSB is a drum & bass and jungle artist based in United Kingdom, tracked on sound
 
 DRS, MC Fox, Workforce
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lsb/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lsb/)*

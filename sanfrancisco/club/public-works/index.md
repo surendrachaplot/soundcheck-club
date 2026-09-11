@@ -1,6 +1,6 @@
 # Public Works
 
-Public Works is a music venue in San Francisco/Oakland with 17 upcoming nights listed on soundcheck as of Thu, 10 Sept 2026; the next is "Fatima Hajji presented by Public Works" on Fri, 11 Sept 2026.
+Public Works is a music venue in San Francisco/Oakland with 17 upcoming nights listed on soundcheck as of Fri, 11 Sept 2026; the next is "Fatima Hajji presented by Public Works" on Fri, 11 Sept 2026.
 
 Public Works is a music venue in Sanfrancisco listed on soundcheck. 17 upcoming nights, with line-ups including ALMAS, Âme, Ben UFO and Bonita Baby and 2 more. Browse upcoming dates, start times and who's playing. 161 Erie Street, San Francisco, CA 94103, United States.
 
@@ -23,4 +23,4 @@ Public Works is a music venue in Sanfrancisco listed on soundcheck. 17 upcoming 
 
 161 Erie Street, San Francisco, CA 94103, United States, San Francisco/Oakland
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/public-works/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/public-works/)*

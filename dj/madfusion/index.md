@@ -1,6 +1,6 @@
 # Mad Fusion
 
-Mad Fusion is a Techno and Trance artist with 5 upcoming club dates listed on soundcheck as of Thu, 10 Sept 2026, next at Compufunk Records, Osaka on Sun, 13 Sept 2026.
+Mad Fusion is a Techno and Trance artist with 5 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at Compufunk Records, Osaka on Sun, 13 Sept 2026.
 
 Mad Fusion is a techno and trance artist based in Switzerland, tracked on soundcheck, with 6 sets logged across Osaka and Zurich. Often billed alongside Cortez (2), Daisuke Kakimoto and GCOD. Next up: Compufunk Records, Osaka on Sun 13 Sept.
 
@@ -22,4 +22,4 @@ Mad Fusion is a techno and trance artist based in Switzerland, tracked on soundc
 
 Cortez (2), Daisuke Kakimoto, GCOD
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/madfusion/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/madfusion/)*

@@ -1,6 +1,6 @@
 # Power Dance Club 24hours at KREUZWERK
 
-Power Dance Club 24hours at KREUZWERK on Sat 12 Sept, Berlin. 14 acts on the bill: Aaron Blau, Carly Zeng, CEM and Chris Cruse and 10 more. Techno and House. Preview the line-up and save it on soundcheck.
+Power Dance Club 24hours at KREUZWERK on Sat 12 Sept, Berlin. 15 acts on the bill: Aaron Blau, Carly Zeng, CEM and Chris Cruse and 11 more. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -14,6 +14,7 @@ Power Dance Club 24hours at KREUZWERK on Sat 12 Sept, Berlin. 14 acts on the bil
 - Carly Zeng
 - CEM
 - Chris Cruse
+- Cormac
 - Cromby
 - Dirty Daddy Don
 - ISAbella

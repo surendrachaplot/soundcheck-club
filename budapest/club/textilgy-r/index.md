@@ -1,6 +1,6 @@
 # Textilgyár
 
-Textilgyár is a music venue in Budapest with 1 upcoming night listed on soundcheck as of Thu, 10 Sept 2026; the next is "Obroni with Friends - Vava, Warped DJ & Joone" on Fri, 11 Sept 2026.
+Textilgyár is a music venue in Budapest with 1 upcoming night listed on soundcheck as of Fri, 11 Sept 2026; the next is "Obroni with Friends - Vava, Warped DJ & Joone" on Fri, 11 Sept 2026.
 
 Textilgyár is a music venue in Budapest listed on soundcheck. 1 upcoming night, with line-ups including Joone, Obroni, Revithis and Vava (1). Browse upcoming dates, start times and who's playing. Budapest, Fényes Adolf u. 23, 1036.
 
@@ -14,4 +14,4 @@ Textilgyár is a music venue in Budapest listed on soundcheck. 1 upcoming night,
 
 Budapest, Fényes Adolf u. 23, 1036, Budapest
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/budapest/club/textilgy-r/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/budapest/club/textilgy-r/)*

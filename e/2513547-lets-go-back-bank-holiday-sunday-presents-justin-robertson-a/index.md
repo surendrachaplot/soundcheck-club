@@ -1,6 +1,6 @@
 # Lets Go Back Bank Holiday Sunday presents: Justin Robertson at The Berkeley Suite
 
-Lets Go Back Bank Holiday Sunday presents: Justin Robertson at The Berkeley Suite on Sun 27 Sept, Glasgow. 1 act on the bill: Justin Robertson. Post-Punk and Electronica. Preview the line-up and save it on soundcheck.
+Lets Go Back Bank Holiday Sunday presents: Justin Robertson at The Berkeley Suite on Sun 27 Sept, Glasgow. 1 act on the bill: Justin Robertson. House and Electronica. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

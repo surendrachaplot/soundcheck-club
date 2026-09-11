@@ -1,6 +1,6 @@
 # GONG!
 
-GONG! is a Bass and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 10 Sept 2026, next at Social Room, Hong Kong on Fri, 25 Sept 2026.
+GONG! is a Bass and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at Social Room, Hong Kong on Fri, 25 Sept 2026.
 
 GONG! is a bass and techno artist tracked on soundcheck, with 20 sets logged across Hongkong. Often billed alongside Joesnotdead, 1908 and HØRǍÇÍÒ. Next up: Social Room, Hongkong on Fri 25 Sept.
 
@@ -26,4 +26,4 @@ GONG! is a bass and techno artist tracked on soundcheck, with 20 sets logged acr
 
 Joesnotdead, 1908, HØRǍÇÍÒ
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/gong!/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/gong!/)*

@@ -1,6 +1,6 @@
 # Bambooz
 
-Bambooz is a music venue in Rotterdam with 1 upcoming night listed on soundcheck as of Thu, 10 Sept 2026; the next is "Adam & Eve - Rotterdam x Bambooz" on Sat, 10 Oct 2026.
+Bambooz is a music venue in Rotterdam with 1 upcoming night listed on soundcheck as of Fri, 11 Sept 2026; the next is "Adam & Eve - Rotterdam x Bambooz" on Sat, 10 Oct 2026.
 
 Bambooz is a music venue in Rotterdam listed on soundcheck. 1 upcoming night. Browse upcoming dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ Bambooz is a music venue in Rotterdam listed on soundcheck. 1 upcoming night. Br
 | --- | --- | --- |
 | Sat, 10 Oct 2026 | Adam & Eve - Rotterdam x Bambooz |  |
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/rotterdam/club/bambooz/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/rotterdam/club/bambooz/)*

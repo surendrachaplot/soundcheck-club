@@ -1,6 +1,6 @@
 # Commodore Ballroom
 
-Commodore Ballroom is a music venue in Vancouver with 2 upcoming nights listed on soundcheck as of Thu, 10 Sept 2026; the next is "Hiero Day 2026" on Sat, 12 Sept 2026.
+Commodore Ballroom is a music venue in Vancouver with 2 upcoming nights listed on soundcheck as of Fri, 11 Sept 2026; the next is "Hiero Day 2026" on Sat, 12 Sept 2026.
 
 Commodore Ballroom is a music venue in Vancouver listed on soundcheck. 2 upcoming nights, with line-ups including Ninajirachi. Browse upcoming dates, start times and who's playing. 868 Granville St; Vancouver, BC V6B 2C9; Canada.
 
@@ -15,4 +15,4 @@ Commodore Ballroom is a music venue in Vancouver listed on soundcheck. 2 upcomin
 
 868 Granville St; Vancouver, BC V6B 2C9; Canada, Vancouver
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/vancouver/club/commodore-ballroom/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/vancouver/club/commodore-ballroom/)*

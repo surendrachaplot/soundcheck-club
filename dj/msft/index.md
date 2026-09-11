@@ -1,8 +1,8 @@
 # msft
 
-msft is a Garage and Bass artist with 2 upcoming club dates listed on soundcheck as of Thu, 10 Sept 2026, next at Piazza Degli Affari, Milan on Fri, 11 Sept 2026.
+msft is a Garage and Bass artist with 3 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at Piazza Degli Affari, Milan on Fri, 11 Sept 2026.
 
-msft is a garage and bass artist based in Italy, tracked on soundcheck, with 16 sets logged across Brighton, Budapest, London and Milan and 1 more. Often billed alongside Mareeo, baeker and BOPINTROUBLE. Next up: Piazza Degli Affari, Milan on Fri 11 Sept.
+msft is a garage and bass artist based in Italy, tracked on soundcheck, with 17 sets logged across Brighton, Budapest, London and Milan and 2 more. Often billed alongside Mareeo, baeker and BOPINTROUBLE. Next up: Piazza Degli Affari, Milan on Fri 11 Sept.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ msft is a garage and bass artist based in Italy, tracked on soundcheck, with 16 
 | --- | --- | --- |
 | Fri, 11 Sept 2026 | Piazza Degli Affari | Milan |
 | Fri, 11 Sept 2026 | Piazza Degli Affari | Milan |
+| Sat, 10 Oct 2026 | Circus Tokyo | Tokyo |
 
 ## Recently played
 
@@ -26,4 +27,4 @@ msft is a garage and bass artist based in Italy, tracked on soundcheck, with 16 
 
 Mareeo, baeker, BOPINTROUBLE
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/msft/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/msft/)*

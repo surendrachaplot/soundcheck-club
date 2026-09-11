@@ -1,6 +1,6 @@
 # oror
 
-oror is a Electro and House artist with 3 upcoming club dates listed on soundcheck as of Thu, 10 Sept 2026, next at Nouveau Parc des Berges, Lyon on Sat, 12 Sept 2026.
+oror is a Electro and House artist with 3 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at Nouveau Parc des Berges, Lyon on Sat, 12 Sept 2026.
 
 oror is an electro and house artist tracked on soundcheck, with 34 sets logged across Geneva, Lyon, Marseille and Paris. Often billed alongside Mohammed Vicente, Lumbago and Subsism. Next up: Nouveau Parc des Berges, Lyon on Sat 12 Sept.
 
@@ -27,4 +27,4 @@ oror is an electro and house artist tracked on soundcheck, with 34 sets logged a
 
 Mohammed Vicente, Lumbago, Subsism
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/oror/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/oror/)*

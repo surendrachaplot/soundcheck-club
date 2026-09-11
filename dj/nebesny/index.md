@@ -1,8 +1,8 @@
 # NEBESNY
 
-NEBESNY is a Breakbeat and Industrial artist with 1 upcoming club date listed on soundcheck as of Thu, 10 Sept 2026, next at Dual, Bangkok on Sat, 19 Sept 2026.
+NEBESNY is a Techno and Breakbeat artist with 1 upcoming club date listed on soundcheck as of Fri, 11 Sept 2026, next at Dual, Bangkok on Sat, 19 Sept 2026.
 
-NEBESNY is a breakbeat and industrial artist based in Russia, tracked on soundcheck, with 6 sets logged across Bangkok. Often billed alongside Jorgium, NØSYNC and POKOLENIE MIKROZAYMOV. Next up: Dual, Bangkok on Sat 19 Sept.
+NEBESNY is a techno and breakbeat artist based in Russia, tracked on soundcheck, with 7 sets logged across Bangkok. Often billed alongside REIKS, GLCK and Jorgium. Next up: Dual, Bangkok on Sat 19 Sept.
 
 ## Upcoming shows
 
@@ -12,6 +12,7 @@ NEBESNY is a breakbeat and industrial artist based in Russia, tracked on soundch
 
 ## Recently played
 
+- Avve, Bangkok — Thu, 10 Sept 2026
 - Avve, Bangkok — Sat, 15 Aug 2026
 - Avve, Bangkok — Sat, 18 Jul 2026
 - Avve, Bangkok — Fri, 20 Mar 2026
@@ -20,6 +21,6 @@ NEBESNY is a breakbeat and industrial artist based in Russia, tracked on soundch
 
 ## Shares bills with
 
-Jorgium, NØSYNC, POKOLENIE MIKROZAYMOV
+REIKS, GLCK, Jorgium
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nebesny/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nebesny/)*

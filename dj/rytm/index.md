@@ -1,6 +1,6 @@
 # Rytm
 
-Rytm is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Thu, 10 Sept 2026, next at Astoria, Turin on Fri, 11 Sept 2026.
+Rytm is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at Astoria, Turin on Fri, 11 Sept 2026.
 
 Rytm is a techno and house artist based in Italy, tracked on soundcheck, with 24 sets logged across Newyorkcity and Turin. Often billed alongside Aberra, Mike Esse and THEGOD01. Next up: Astoria, Turin on Fri 11 Sept.
 
@@ -29,4 +29,4 @@ Rytm is a techno and house artist based in Italy, tracked on soundcheck, with 24
 
 Aberra, Mike Esse, THEGOD01
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/rytm/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/rytm/)*

@@ -1,6 +1,6 @@
 # Pau Guilera
 
-Pau Guilera is a Tech House and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 10 Sept 2026, next at Seaseaclub Barcelona, Barcelona on Fri, 11 Sept 2026.
+Pau Guilera is a Tech House and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at Seaseaclub Barcelona, Barcelona on Fri, 11 Sept 2026.
 
 Pau Guilera is a tech house and house artist tracked on soundcheck, with 119 sets logged across Barcelona, Ibiza and Utrecht. Often billed alongside Jones May, BizZa and Vidaloca. Next up: Seaseaclub Barcelona, Barcelona on Fri 11 Sept.
 
@@ -26,4 +26,4 @@ Pau Guilera is a tech house and house artist tracked on soundcheck, with 119 set
 
 Jones May, BizZa, Vidaloca
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/pauguilera/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/pauguilera/)*

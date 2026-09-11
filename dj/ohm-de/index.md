@@ -1,6 +1,6 @@
 # O/H/M
 
-O/H/M is a House and Trance artist with 1 upcoming club date listed on soundcheck as of Thu, 10 Sept 2026, next at The Bulldog Palace, Amsterdam on Sat, 24 Oct 2026.
+O/H/M is a House and Trance artist with 1 upcoming club date listed on soundcheck as of Fri, 11 Sept 2026, next at The Bulldog Palace, Amsterdam on Sat, 24 Oct 2026.
 
 O/H/M is a house and trance artist based in Germany, tracked on soundcheck, with 11 sets logged across Amsterdam, Berlin, Frankfurt and Munich. Often billed alongside Gizmo, Human Rias and Jan Minnerup. Next up: The Bulldog Palace, Amsterdam on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ O/H/M is a house and trance artist based in Germany, tracked on soundcheck, with
 
 Gizmo, Human Rias, Jan Minnerup
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ohm-de/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ohm-de/)*

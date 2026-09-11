@@ -1,14 +1,13 @@
 # Gabriela
 
-Gabriela is a music venue in New York City with 11 upcoming nights listed on soundcheck as of Thu, 10 Sept 2026; the next is "ROMANCE w Eli Escobar" on Thu, 10 Sept 2026.
+Gabriela is a music venue in New York City with 10 upcoming nights listed on soundcheck as of Fri, 11 Sept 2026; the next is "Andi // ALL NIGHT LONG" on Fri, 11 Sept 2026.
 
-Gabriela is a music venue in Newyorkcity listed on soundcheck. 11 upcoming nights, with line-ups including Arvin T, Andi, Eli Escobar and Jubilee and 2 more. Browse upcoming dates, start times and who's playing. 90 Wythe Ave, Brooklyn, NY 11249.
+Gabriela is a music venue in Newyorkcity listed on soundcheck. 10 upcoming nights, with line-ups including Arvin T, Andi, Eli Escobar and Jubilee and 2 more. Browse upcoming dates, start times and who's playing. 90 Wythe Ave, Brooklyn, NY 11249.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Thu, 10 Sept 2026 | ROMANCE w Eli Escobar | Eli Escobar |
 | Fri, 11 Sept 2026 | Andi // ALL NIGHT LONG | Andi |
 | Sat, 12 Sept 2026 | Planet B // ALL NIGHT LONG | Planet B |
 | Sun, 13 Sept 2026 | TIKI AFTERS w Arvin T | Arvin T |
@@ -18,9 +17,10 @@ Gabriela is a music venue in Newyorkcity listed on soundcheck. 11 upcoming night
 | Thu, 24 Sept 2026 | ROMANCE w Andi + Eli Escobar | Andi, Eli Escobar |
 | Fri, 25 Sept 2026 | CHERRY POP w Nadine & Rider | Rider |
 | Sat, 26 Sept 2026 | Stiff Dance // ALL NIGHT LONG | Stiffdance |
+| Sun, 27 Sept 2026 | TIKI AFTERS w Jubilee | Jubilee |
 
 ## Address
 
 90 Wythe Ave, Brooklyn, NY 11249, New York City
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/gabriela/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/gabriela/)*

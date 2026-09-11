@@ -1,18 +1,19 @@
 # YUKIMASA
 
-YUKIMASA is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 10 Sept 2026, next at Enter Shibuya, Tokyo on Thu, 10 Sept 2026.
+YUKIMASA is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at Daikanyama ORD., Tokyo on Sat, 19 Sept 2026.
 
-YUKIMASA is a techno and house artist tracked on soundcheck, with 64 sets logged across Barcelona, Berlin, Budapest and Osaka and 4 more. Often billed alongside DANA NADA, Yoshitaka Shirakura and DJ Yazi. Next up: Enter Shibuya, Tokyo on Thu 10 Sept.
+YUKIMASA is a techno and house artist tracked on soundcheck, with 65 sets logged across Barcelona, Berlin, Budapest and Osaka and 4 more. Often billed alongside DANA NADA, Yoshitaka Shirakura and DJ Yazi. Next up: Daikanyama ORD., Tokyo on Sat 19 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Thu, 10 Sept 2026 | Enter Shibuya | Tokyo |
 | Sat, 19 Sept 2026 | Daikanyama ORD. | Tokyo |
+| Wed, 7 Oct 2026 | Enter Shibuya | Tokyo |
 
 ## Recently played
 
+- Enter Shibuya, Tokyo — Thu, 10 Sept 2026
 - Mitsuki, Tokyo — Tue, 4 Aug 2026
 - WOMB, Tokyo — Fri, 31 Jul 2026
 - Ruby Room, Tokyo — Fri, 10 Jul 2026
@@ -20,10 +21,9 @@ YUKIMASA is a techno and house artist tracked on soundcheck, with 64 sets logged
 - Enter Shibuya, Tokyo — Fri, 26 Jun 2026
 - Atno, Budapest — Sat, 13 Jun 2026
 - LAUT, Barcelona — Sat, 6 Jun 2026
-- Cross Club, Prague — Fri, 5 Jun 2026
 
 ## Shares bills with
 
 DANA NADA, Yoshitaka Shirakura, DJ Yazi
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/yukimasa/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/yukimasa/)*

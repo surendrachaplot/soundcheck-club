@@ -1,14 +1,13 @@
 # O Beach
 
-O Beach is a music venue in Ibiza with 31 upcoming nights listed on soundcheck as of Thu, 10 Sept 2026; the next is "O BEACH MUSIC" on Thu, 10 Sept 2026.
+O Beach is a music venue in Ibiza with 30 upcoming nights listed on soundcheck as of Fri, 11 Sept 2026; the next is "POOL PARTY" on Fri, 11 Sept 2026.
 
-O Beach is a music venue in Ibiza listed on soundcheck. 31 upcoming nights. Browse upcoming dates, start times and who's playing. Carrer des Molí, 12-14, 07820 Ibiza, Illes Balears, España.
+O Beach is a music venue in Ibiza listed on soundcheck. 30 upcoming nights. Browse upcoming dates, start times and who's playing. Carrer des Molí, 12-14, 07820 Ibiza, Illes Balears, España.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Thu, 10 Sept 2026 | O BEACH MUSIC |  |
 | Fri, 11 Sept 2026 | POOL PARTY |  |
 | Fri, 11 Sept 2026 | POOL PARTY |  |
 | Sat, 12 Sept 2026 | SOUL HEAVEN |  |
@@ -18,9 +17,10 @@ O Beach is a music venue in Ibiza listed on soundcheck. 31 upcoming nights. Brow
 | Wed, 16 Sept 2026 | HOUSE IN PARADISE |  |
 | Thu, 17 Sept 2026 | O BEACH MUSIC |  |
 | Fri, 18 Sept 2026 | POOL PARTY |  |
+| Sat, 19 Sept 2026 | SOUL HEAVEN |  |
 
 ## Address
 
 Carrer des Molí, 12-14, 07820 Ibiza, Illes Balears, España, Ibiza
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/ibiza/club/o-beach/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/ibiza/club/o-beach/)*

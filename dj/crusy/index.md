@@ -1,6 +1,6 @@
 # Crusy
 
-Crusy is a House and Tech House artist with 3 upcoming club dates listed on soundcheck as of Thu, 10 Sept 2026, next at LAB theCLUB, Madrid on Sat, 3 Oct 2026.
+Crusy is a House and Tech House artist with 3 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at LAB theCLUB, Madrid on Sat, 3 Oct 2026.
 
 Crusy is a house and tech house artist based in Spain, tracked on soundcheck, with 35 sets logged across Boston, Chicago, Detroit and Ibiza and 12 more. Often billed alongside Tony Romera, Claptone and AAfrAA. Next up: LAB theCLUB, Madrid on Sat 3 Oct.
 
@@ -27,4 +27,4 @@ Crusy is a house and tech house artist based in Spain, tracked on soundcheck, wi
 
 Tony Romera, Claptone, AAfrAA
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/crusy/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/crusy/)*

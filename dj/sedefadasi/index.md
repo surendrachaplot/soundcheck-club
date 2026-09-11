@@ -1,6 +1,6 @@
 # Sedef Adasï
 
-Sedef Adasï is a Techno and House artist with 13 upcoming club dates listed on soundcheck as of Thu, 10 Sept 2026, next at NDSM Docklands, Amsterdam on Sun, 13 Sept 2026.
+Sedef Adasï is a Techno and House artist with 13 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at NDSM Docklands, Amsterdam on Sun, 13 Sept 2026.
 
 Sedef Adasï is a techno and house artist tracked on soundcheck, with 279 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 56 more. Often billed alongside BASHKKA, Gabrielle Kwarteng and Job Jobse. Next up: NDSM Docklands, Amsterdam on Sun 13 Sept.
 
@@ -36,4 +36,4 @@ Sedef Adasï is a techno and house artist tracked on soundcheck, with 279 sets l
 
 BASHKKA, Gabrielle Kwarteng, Job Jobse
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sedefadasi/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sedefadasi/)*

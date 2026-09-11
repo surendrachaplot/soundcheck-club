@@ -1,6 +1,6 @@
 # Rolbac
 
-Rolbac is a House and Minimal Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 10 Sept 2026, next at Savaya Bali, Bali on Sat, 19 Sept 2026.
+Rolbac is a House and Minimal Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at Savaya Bali, Bali on Sat, 19 Sept 2026.
 
 Rolbac is a house and minimal techno artist based in Lebanon, tracked on soundcheck, with 10 sets logged across Amsterdam, Bali, Ibiza and Istanbul and 3 more. Often billed alongside Jade, Marino Canal and Rafael Cerato. Next up: Savaya Bali, Bali on Sat 19 Sept.
 
@@ -26,4 +26,4 @@ Rolbac is a house and minimal techno artist based in Lebanon, tracked on soundch
 
 Jade, Marino Canal, Rafael Cerato
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/rolbac/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/rolbac/)*

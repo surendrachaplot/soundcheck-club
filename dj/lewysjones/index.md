@@ -1,6 +1,6 @@
 # Lewys Jones
 
-Lewys Jones is a Tech House and Drum & Bass artist with 1 upcoming club date listed on soundcheck as of Thu, 10 Sept 2026, next at Ministry Of Sound, London on Sat, 19 Sept 2026.
+Lewys Jones is a Tech House and Drum & Bass artist with 1 upcoming club date listed on soundcheck as of Fri, 11 Sept 2026, next at Ministry Of Sound, London on Sat, 19 Sept 2026.
 
 Lewys Jones is a tech house and drum & bass artist tracked on soundcheck, with 6 sets logged across London. Often billed alongside BLILI, Mas Que Nada Brothers and AMO. Next up: Ministry Of Sound, London on Sat 19 Sept.
 
@@ -22,4 +22,4 @@ Lewys Jones is a tech house and drum & bass artist tracked on soundcheck, with 6
 
 BLILI, Mas Que Nada Brothers, AMO
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lewysjones/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lewysjones/)*

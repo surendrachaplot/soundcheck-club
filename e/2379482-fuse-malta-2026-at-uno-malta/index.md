@@ -1,6 +1,6 @@
 # FUSE ➔ Malta 2026 at UNO MALTA
 
-FUSE ➔ Malta 2026 at UNO MALTA on Fri 18 Sept, Malta. 65 acts on the bill: ADMNTi, Alec Falconer, Annie Errez and Anthea and 61 more. House and Minimal. Preview the line-up and save it on soundcheck.
+FUSE ➔ Malta 2026 at UNO MALTA on Fri 18 Sept, Malta. 66 acts on the bill: Across Boundaries, ADMNTi, Alec Falconer and Annie Errez and 62 more. House and Minimal. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ FUSE ➔ Malta 2026 at UNO MALTA on Fri 18 Sept, Malta. 65 acts on the bill: ADM
 
 ## Line-up
 
+- Across Boundaries
 - ADMNTi
 - Alec Falconer
 - Annie Errez

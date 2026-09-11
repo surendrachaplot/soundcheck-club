@@ -1,6 +1,6 @@
 # The American
 
-The American is a music venue in Vancouver with 2 upcoming nights listed on soundcheck as of Thu, 10 Sept 2026; the next is "Hejira’s Brew at the American" on Sun, 13 Sept 2026.
+The American is a music venue in Vancouver with 2 upcoming nights listed on soundcheck as of Fri, 11 Sept 2026; the next is "Hejira’s Brew at the American" on Sun, 13 Sept 2026.
 
 The American is a music venue in Vancouver listed on soundcheck. 2 upcoming nights. Browse upcoming dates, start times and who's playing. 926 Main St, Vancouver, BC V6A 2W1.
 
@@ -15,4 +15,4 @@ The American is a music venue in Vancouver listed on soundcheck. 2 upcoming nigh
 
 926 Main St, Vancouver, BC V6A 2W1, Vancouver
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/vancouver/club/the-american/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/vancouver/club/the-american/)*

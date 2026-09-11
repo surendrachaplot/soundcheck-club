@@ -1,6 +1,6 @@
 # Jay See
 
-Jay See is a Jungle and Drum & Bass artist with 1 upcoming club date listed on soundcheck as of Thu, 10 Sept 2026, next at MR.DUCK, Mexico City on Sat, 12 Sept 2026.
+Jay See is a Jungle and Drum & Bass artist with 1 upcoming club date listed on soundcheck as of Fri, 11 Sept 2026, next at MR.DUCK, Mexico City on Sat, 12 Sept 2026.
 
 Jay See is a jungle and drum & bass artist tracked on soundcheck, with 9 sets logged across Mexicocity and Sydney. Often billed alongside Kate Savage, Adarah and Floga. Next up: MR.DUCK, Mexicocity on Sat 12 Sept.
 
@@ -25,4 +25,4 @@ Jay See is a jungle and drum & bass artist tracked on soundcheck, with 9 sets lo
 
 Kate Savage, Adarah, Floga
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jaysee/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jaysee/)*

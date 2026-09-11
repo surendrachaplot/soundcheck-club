@@ -1,14 +1,13 @@
 # Smerz
 
-Smerz is a Pop and Electronica artist with 5 upcoming club dates listed on soundcheck as of Thu, 10 Sept 2026, next at Radio/East, Austin on Thu, 10 Sept 2026.
+Smerz is a Pop and Electronica artist with 4 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at The Howard Theatre, Washington DC on Thu, 17 Sept 2026.
 
-Smerz is a pop and electronica artist based in Norway, tracked on soundcheck, with 43 sets logged across Austin, Berlin, Brisbane and Bristol and 25 more. Often billed alongside Valentina Magaletti, YHWH Nailgun and DjRUM. Next up: Radio/East, Austin on Thu 10 Sept.
+Smerz is a pop and electronica artist based in Norway, tracked on soundcheck, with 43 sets logged across Austin, Berlin, Brisbane and Bristol and 25 more. Often billed alongside Valentina Magaletti, YHWH Nailgun and DjRUM. Next up: The Howard Theatre, Washingtondc on Thu 17 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Thu, 10 Sept 2026 | Radio/East | Austin |
 | Thu, 17 Sept 2026 | The Howard Theatre | Washington DC |
 | Fri, 18 Sept 2026 | Fort Mifflin | Philadelphia |
 | Thu, 15 Oct 2026 | The Barbican Centre | London |
@@ -16,6 +15,7 @@ Smerz is a pop and electronica artist based in Norway, tracked on soundcheck, wi
 
 ## Recently played
 
+- Radio/East, Austin — Thu, 10 Sept 2026
 - Fonda Theatre, Los Angeles — Sun, 6 Sept 2026
 - Southwark Park, London — Sat, 29 Aug 2026
 - TBA - Southwark Park, London — Sat, 29 Aug 2026
@@ -23,10 +23,9 @@ Smerz is a pop and electronica artist based in Norway, tracked on soundcheck, wi
 - Botanique, Brussels — Sun, 31 May 2026
 - Great American Music Hall, San Francisco/Oakland — Tue, 19 May 2026
 - The Rickshaw Theatre, Vancouver — Mon, 18 May 2026
-- Le Lieu Unique / Nantes, Nantes — Sat, 11 Apr 2026
 
 ## Shares bills with
 
 Valentina Magaletti, YHWH Nailgun, DjRUM
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/smerz/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/smerz/)*

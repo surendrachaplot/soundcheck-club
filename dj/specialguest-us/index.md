@@ -1,6 +1,6 @@
 # Special Guest (US)
 
-Special Guest (US) is a House and Techno artist with 9 upcoming club dates listed on soundcheck as of Thu, 10 Sept 2026, next at CHICO, Mexico City on Fri, 11 Sept 2026.
+Special Guest (US) is a House and Techno artist with 9 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at CHICO, Mexico City on Fri, 11 Sept 2026.
 
 Special Guest (US) is a house and techno artist tracked on soundcheck, with 152 sets logged across Amsterdam, Antwerp, Athens and Auckland and 38 more. Often billed alongside DJ S (UK), Carasel and SP:MC. Next up: CHICO, Mexicocity on Fri 11 Sept.
 
@@ -33,4 +33,4 @@ Special Guest (US) is a house and techno artist tracked on soundcheck, with 152 
 
 DJ S (UK), Carasel, SP:MC
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/specialguest-us/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/specialguest-us/)*

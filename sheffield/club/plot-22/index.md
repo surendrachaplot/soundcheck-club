@@ -1,6 +1,6 @@
 # Plot 22
 
-Plot 22 is a music venue in Sheffield with 4 upcoming nights listed on soundcheck as of Thu, 10 Sept 2026; the next is "Amen Audio presents Daylight Disorder" on Sat, 12 Sept 2026.
+Plot 22 is a music venue in Sheffield with 4 upcoming nights listed on soundcheck as of Fri, 11 Sept 2026; the next is "Amen Audio presents Daylight Disorder" on Sat, 12 Sept 2026.
 
 Plot 22 is a music venue in Sheffield listed on soundcheck. 4 upcoming nights, with line-ups including alterum, Earl Grey (2), FKA Hardcore and ik0nixx and 2 more. Browse upcoming dates, start times and who's playing. 20-22 Exchange St, Sheffield City Centre, Sheffield, S2 5TS.
 
@@ -17,4 +17,4 @@ Plot 22 is a music venue in Sheffield listed on soundcheck. 4 upcoming nights, w
 
 20-22 Exchange St, Sheffield City Centre, Sheffield, S2 5TS, Sheffield
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/sheffield/club/plot-22/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/sheffield/club/plot-22/)*

@@ -1,6 +1,6 @@
 # GNS (1)
 
-GNS (1) is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Thu, 10 Sept 2026, next at The Bassement, Madrid on Thu, 1 Oct 2026.
+GNS (1) is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Fri, 11 Sept 2026, next at The Bassement, Madrid on Thu, 1 Oct 2026.
 
 GNS (1) is a techno and trance artist tracked on soundcheck, with 6 sets logged across Berlin and Madrid. Often billed alongside Cobb Douglas, DJ Primitivo and PÜCH. Next up: The Bassement, Madrid on Thu 1 Oct.
 
@@ -22,4 +22,4 @@ GNS (1) is a techno and trance artist tracked on soundcheck, with 6 sets logged 
 
 Cobb Douglas, DJ Primitivo, PÜCH
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/gns-1/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/gns-1/)*

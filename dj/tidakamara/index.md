@@ -1,13 +1,14 @@
 # Tida Kamara
 
-Tida Kamara is a Dancehall and House artist with 1 upcoming club date listed on soundcheck as of Thu, 10 Sept 2026, next at Skatecafe, Amsterdam on Sat, 24 Oct 2026.
+Tida Kamara is a Dancehall and Bass artist with 2 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at Skatecafe, Amsterdam on Fri, 9 Oct 2026.
 
-Tida Kamara is a dancehall and house artist tracked on soundcheck, with 56 sets logged across Amsterdam, Antwerp, Berlin and Birmingham and 4 more. Often billed alongside BELLA (NL), Kurashi Soundsystem and TINS. Next up: Skatecafe, Amsterdam on Sat 24 Oct.
+Tida Kamara is a dancehall and bass artist tracked on soundcheck, with 57 sets logged across Amsterdam, Antwerp, Berlin and Birmingham and 4 more. Often billed alongside BELLA (NL), TINS and Kurashi Soundsystem. Next up: Skatecafe, Amsterdam on Fri 9 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 9 Oct 2026 | Skatecafe | Amsterdam |
 | Sat, 24 Oct 2026 | Skatecafe | Amsterdam |
 
 ## Recently played
@@ -23,6 +24,6 @@ Tida Kamara is a dancehall and house artist tracked on soundcheck, with 56 sets 
 
 ## Shares bills with
 
-BELLA (NL), Kurashi Soundsystem, TINS
+BELLA (NL), TINS, Kurashi Soundsystem
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tidakamara/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tidakamara/)*

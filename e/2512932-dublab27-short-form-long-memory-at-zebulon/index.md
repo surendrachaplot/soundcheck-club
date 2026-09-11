@@ -1,6 +1,6 @@
 # DUBLAB27: Short Form / Long Memory at Zebulon
 
-DUBLAB27: Short Form / Long Memory at Zebulon on Sat 26 Sept, Losangeles. 5 acts on the bill: Ashley Younniä, Chloëdees, Daedelus and Ella Warren and 1 more. Hip-Hop and Deep House. Preview the line-up and save it on soundcheck.
+DUBLAB27: Short Form / Long Memory at Zebulon on Sat 26 Sept, Losangeles. 6 acts on the bill: Aaron Paar, Ashley Younniä, Chloëdees and Daedelus and 2 more. Hip-Hop and Deep House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ DUBLAB27: Short Form / Long Memory at Zebulon on Sat 26 Sept, Losangeles. 5 acts
 
 ## Line-up
 
+- Aaron Paar
 - Ashley Younniä
 - Chloëdees
 - Daedelus

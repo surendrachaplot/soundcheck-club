@@ -1,6 +1,6 @@
 # Nick V
 
-Nick V is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Thu, 10 Sept 2026, next at La Bellevilloise, Paris on Sat, 26 Sept 2026.
+Nick V is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Fri, 11 Sept 2026, next at La Bellevilloise, Paris on Sat, 26 Sept 2026.
 
 Nick V is a house and disco artist tracked on soundcheck, with 81 sets logged across Berlin, Geneva, Liverpool and Lyon and 3 more. Often billed alongside DJ André, Odd Sweet and Crowd Control. Next up: La Bellevilloise, Paris on Sat 26 Sept.
 
@@ -25,4 +25,4 @@ Nick V is a house and disco artist tracked on soundcheck, with 81 sets logged ac
 
 DJ André, Odd Sweet, Crowd Control
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nickv/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nickv/)*

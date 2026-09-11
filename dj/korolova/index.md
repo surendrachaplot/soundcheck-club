@@ -1,6 +1,6 @@
 # Korolova
 
-Korolova is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Thu, 10 Sept 2026, next at Tapada da Ajuda, Lisbon on Sun, 13 Sept 2026.
+Korolova is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at Tapada da Ajuda, Lisbon on Sun, 13 Sept 2026.
 
 Korolova is a techno and house artist tracked on soundcheck, with 126 sets logged across Amsterdam, Antwerp, Athens and Austin and 39 more. Often billed alongside Adam Beyer, Artbat and Franky Wah. Next up: Tapada da Ajuda, Lisbon on Sun 13 Sept.
 
@@ -29,4 +29,4 @@ Korolova is a techno and house artist tracked on soundcheck, with 126 sets logge
 
 Adam Beyer, Artbat, Franky Wah
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/korolova/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/korolova/)*

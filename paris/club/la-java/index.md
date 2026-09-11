@@ -1,8 +1,8 @@
 # La Java
 
-La Java is a music venue in Paris with 10 upcoming nights listed on soundcheck as of Thu, 10 Sept 2026; the next is "Pastel, Baka G, Mely & More: Groovy Celebration" on Fri, 11 Sept 2026.
+La Java is a music venue in Paris with 13 upcoming nights listed on soundcheck as of Fri, 11 Sept 2026; the next is "Pastel, Baka G, Mely & More: Groovy Celebration" on Fri, 11 Sept 2026.
 
-La Java is a music venue in Paris listed on soundcheck. 10 upcoming nights, with line-ups including Aleqs Notal, ARPL, Baka G and C.LYYA and 2 more. Browse upcoming dates, start times and who's playing. 105 rue du faubourg du Temple; 75010; Paris; France.
+La Java is a music venue in Paris listed on soundcheck. 13 upcoming nights, with line-ups including Aleqs Notal, ARPL, Baka G and C.LYYA and 2 more. Browse upcoming dates, start times and who's playing. 105 rue du faubourg du Temple; 75010; Paris; France.
 
 ## What's on
 
@@ -17,10 +17,10 @@ La Java is a music venue in Paris listed on soundcheck. 10 upcoming nights, with
 | Thu, 24 Sept 2026 | Baraque Party: Galgish, Poupi & Dj Ilan |  |
 | Fri, 25 Sept 2026 | Canapé Bleu: D Stone, Aleqs Notal, C.LYYA | Aleqs Notal, C.LYYA, D Stone |
 | Sat, 26 Sept 2026 | Fantastic Man, Hitomi, Track Advisor & Crisp: Your Calling | Fantastic Man, Track Advisor |
-| Sat, 24 Oct 2026 | Mood II Swing, Elsa Bernini, Seabra & More: De La Groove | Chinau, Elsa Bernini, Knuckle G, Mood II Swing, Seabra |
+| Fri, 9 Oct 2026 | Pokeyz, Spaece, Grökalin Dtg, Corivibor & More: Offset |  |
 
 ## Address
 
 105 rue du faubourg du Temple; 75010; Paris; France, Paris
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/paris/club/la-java/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/paris/club/la-java/)*

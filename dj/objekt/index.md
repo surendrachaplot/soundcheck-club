@@ -1,8 +1,8 @@
 # Objekt
 
-Objekt is a Techno and Bass artist with 11 upcoming club dates listed on soundcheck as of Thu, 10 Sept 2026, next at Karmakoma, Belgrade on Fri, 11 Sept 2026.
+Objekt is a Techno and Bass artist with 12 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at Karmakoma, Belgrade on Fri, 11 Sept 2026.
 
-Objekt is a techno and bass artist tracked on soundcheck, with 176 sets logged across Amsterdam, Antwerp, Auckland and Austin and 55 more. Often billed alongside CCL, DjRUM and Call Super. Next up: Karmakoma, Belgrade on Fri 11 Sept.
+Objekt is a techno and bass artist tracked on soundcheck, with 177 sets logged across Amsterdam, Antwerp, Auckland and Austin and 55 more. Often billed alongside CCL, DjRUM and Call Super. Next up: Karmakoma, Belgrade on Fri 11 Sept.
 
 ## Upcoming shows
 
@@ -12,6 +12,7 @@ Objekt is a techno and bass artist tracked on soundcheck, with 176 sets logged a
 | Sat, 12 Sept 2026 | The Cause | London |
 | Fri, 18 Sept 2026 | The Villa | Oslo |
 | Sat, 19 Sept 2026 | Top Floor | Newcastle |
+| Sat, 26 Sept 2026 | St. Bartholomew's Church | New York City |
 | Fri, 2 Oct 2026 | The Loom | San Francisco/Oakland |
 | Fri, 2 Oct 2026 | Signal | New York City |
 | Fri, 9 Oct 2026 | smartbar | Chicago |
@@ -35,4 +36,4 @@ Objekt is a techno and bass artist tracked on soundcheck, with 176 sets logged a
 
 CCL, DjRUM, Call Super
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/objekt/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/objekt/)*

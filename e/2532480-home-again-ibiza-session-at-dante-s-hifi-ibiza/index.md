@@ -1,6 +1,6 @@
 # Home Again - Ibiza Session at Dante's Hifi Ibiza
 
-Home Again - Ibiza Session at Dante's Hifi Ibiza on Wed 23 Sept, Ibiza. 2 acts on the bill: Camilo Miranda and Thabo. House. Preview the line-up and save it on soundcheck.
+Home Again - Ibiza Session at Dante's Hifi Ibiza on Wed 23 Sept, Ibiza. 3 acts on the bill: Blame Anthony, Camilo Miranda and Thabo. House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ Home Again - Ibiza Session at Dante's Hifi Ibiza on Wed 23 Sept, Ibiza. 2 acts o
 
 ## Line-up
 
+- Blame Anthony
 - Camilo Miranda
 - Thabo
 

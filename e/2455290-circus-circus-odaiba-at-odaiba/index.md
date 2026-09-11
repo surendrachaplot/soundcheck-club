@@ -1,6 +1,6 @@
 # CIRCUS × CIRCUS Odaiba at Odaiba
 
-CIRCUS × CIRCUS Odaiba on Wed 23 Sept, Tokyo. 1 act on the bill: Peterparker69. Hip-Hop. Preview the line-up and save it on soundcheck.
+CIRCUS × CIRCUS Odaiba on Wed 23 Sept, Tokyo. 2 acts on the bill: Aoto and Peterparker69. Hip-Hop. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ CIRCUS × CIRCUS Odaiba on Wed 23 Sept, Tokyo. 1 act on the bill: Peterparker69.
 
 ## Line-up
 
+- Aoto
 - Peterparker69
 
 *Source: [soundcheck](https://soundcheck.club/e/2455290-circus-circus-odaiba-at-odaiba/)*

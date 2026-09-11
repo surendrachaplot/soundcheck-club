@@ -1,6 +1,6 @@
 # JD (4)
 
-JD (4) is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 10 Sept 2026, next at Solace, Melbourne on Sat, 12 Sept 2026.
+JD (4) is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 11 Sept 2026, next at Solace, Melbourne on Sat, 12 Sept 2026.
 
 JD (4) is a house and techno artist based in Australia, tracked on soundcheck, with 10 sets logged across Melbourne. Often billed alongside Charlotte Rooney, Rev Lon and sbas. Next up: Solace, Melbourne on Sat 12 Sept.
 
@@ -25,4 +25,4 @@ JD (4) is a house and techno artist based in Australia, tracked on soundcheck, w
 
 Charlotte Rooney, Rev Lon, sbas
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jd-4/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jd-4/)*

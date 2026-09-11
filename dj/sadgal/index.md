@@ -1,14 +1,15 @@
 # sadgal
 
-sadgal is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 10 Sept 2026, next at Brutal Mx, Mexico City on Fri, 11 Sept 2026.
+sadgal is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at Brutal Mx, Mexico City on Fri, 11 Sept 2026.
 
-sadgal is a techno and house artist based in Mexico, tracked on soundcheck, with 108 sets logged across Barcelona, Madrid and Mexicocity. Often billed alongside Celice Monnette, Dj Fucci and Enya Botello. Next up: Brutal Mx, Mexicocity on Fri 11 Sept.
+sadgal is a techno and house artist based in Mexico, tracked on soundcheck, with 109 sets logged across Barcelona, Madrid and Mexicocity. Often billed alongside Celice Monnette, Dj Fucci and Enya Botello. Next up: Brutal Mx, Mexicocity on Fri 11 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 11 Sept 2026 | Brutal Mx | Mexico City |
+| Sat, 12 Sept 2026 | Versalles 64 | Mexico City |
 | Tue, 15 Sept 2026 | TBA | Mexico City |
 
 ## Recently played
@@ -26,4 +27,4 @@ sadgal is a techno and house artist based in Mexico, tracked on soundcheck, with
 
 Celice Monnette, Dj Fucci, Enya Botello
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sadgal/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sadgal/)*

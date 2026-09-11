@@ -1,6 +1,6 @@
 # BENNETT
 
-BENNETT is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Thu, 10 Sept 2026, next at Echostage, Washington DC on Sat, 26 Sept 2026.
+BENNETT is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at Echostage, Washington DC on Sat, 26 Sept 2026.
 
 BENNETT is a techno and trance artist tracked on soundcheck, with 23 sets logged across Berlin, Cologne, Losangeles and Mexicocity and 4 more. Often billed alongside WAN.1, DJ Jordan and I Hate Models. Next up: Echostage, Washingtondc on Sat 26 Sept.
 
@@ -26,4 +26,4 @@ BENNETT is a techno and trance artist tracked on soundcheck, with 23 sets logged
 
 WAN.1, DJ Jordan, I Hate Models
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bennett/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bennett/)*

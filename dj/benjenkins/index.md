@@ -1,6 +1,6 @@
 # Ben Jenkins
 
-Ben Jenkins is a Acid and House artist with 1 upcoming club date listed on soundcheck as of Thu, 10 Sept 2026, next at Jimmy Valentine's Lonely Hearts Club, Washington DC on Fri, 11 Sept 2026.
+Ben Jenkins is a Acid and House artist with 1 upcoming club date listed on soundcheck as of Fri, 11 Sept 2026, next at Jimmy Valentine's Lonely Hearts Club, Washington DC on Fri, 11 Sept 2026.
 
 Ben Jenkins is an acid and house artist based in United States of America, tracked on soundcheck, with 6 sets logged across Washingtondc. Often billed alongside Associate, Jackson Lee and Graham Hatke. Next up: Jimmy Valentine's Lonely Hearts Club, Washingtondc on Fri 11 Sept.
 
@@ -22,4 +22,4 @@ Ben Jenkins is an acid and house artist based in United States of America, track
 
 Associate, Jackson Lee, Graham Hatke
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/benjenkins/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/benjenkins/)*

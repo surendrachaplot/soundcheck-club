@@ -1,6 +1,6 @@
 # Nico Noir
 
-Nico Noir is a House and Minimal artist with 4 upcoming club dates listed on soundcheck as of Thu, 10 Sept 2026, next at Rosie's Bar, Berlin on Sat, 12 Sept 2026.
+Nico Noir is a House and Minimal artist with 4 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at Rosie's Bar, Berlin on Sat, 12 Sept 2026.
 
 Nico Noir is a house and minimal artist based in Argentina, tracked on soundcheck, with 20 sets logged across Berlin and Newyorkcity. Often billed alongside Yochanan, Alex Raouf and Amy Jor. Next up: Rosie's Bar, Berlin on Sat 12 Sept.
 
@@ -28,4 +28,4 @@ Nico Noir is a house and minimal artist based in Argentina, tracked on soundchec
 
 Yochanan, Alex Raouf, Amy Jor
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/niconoir/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/niconoir/)*

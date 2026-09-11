@@ -1,6 +1,6 @@
 # HugoXL
 
-HugoXL is a House and Funk / Soul artist with 2 upcoming club dates listed on soundcheck as of Thu, 10 Sept 2026, next at Humboldthain Club, Berlin on Fri, 9 Oct 2026.
+HugoXL is a House and Funk / Soul artist with 2 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at Humboldthain Club, Berlin on Fri, 9 Oct 2026.
 
 HugoXL is a house and funk / soul artist based in Germany, tracked on soundcheck, with 6 sets logged across Berlin. Often billed alongside DJ Business (2), Wall Ra and Aimé You. Next up: Humboldthain Club, Berlin on Fri 9 Oct.
 
@@ -22,4 +22,4 @@ HugoXL is a house and funk / soul artist based in Germany, tracked on soundcheck
 
 DJ Business (2), Wall Ra, Aimé You
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/hugoxl/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/hugoxl/)*

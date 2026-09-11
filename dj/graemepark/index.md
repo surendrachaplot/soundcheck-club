@@ -1,6 +1,6 @@
 # Graeme Park
 
-Graeme Park is a House and Club artist with 2 upcoming club dates listed on soundcheck as of Thu, 10 Sept 2026, next at Amnesia Ibiza, Ibiza on Sat, 19 Sept 2026.
+Graeme Park is a House and Club artist with 2 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at Amnesia Ibiza, Ibiza on Sat, 19 Sept 2026.
 
 Graeme Park is a house and club artist based in United Kingdom, tracked on soundcheck, with 42 sets logged across Aberdeen, Bristol, Dublin and Edinburgh and 9 more. Often billed alongside DJ Paulette, Greg Wilson and Todd Terry. Next up: Amnesia Ibiza, Ibiza on Sat 19 Sept.
 
@@ -26,4 +26,4 @@ Graeme Park is a house and club artist based in United Kingdom, tracked on sound
 
 DJ Paulette, Greg Wilson, Todd Terry
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/graemepark/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/graemepark/)*

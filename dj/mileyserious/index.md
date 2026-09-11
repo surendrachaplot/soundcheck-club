@@ -1,6 +1,6 @@
 # Miley Serious
 
-Miley Serious is a Techno and House artist with 8 upcoming club dates listed on soundcheck as of Thu, 10 Sept 2026, next at Hare & Hounds, Birmingham on Sat, 12 Sept 2026.
+Miley Serious is a Techno and House artist with 8 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at Hare & Hounds, Birmingham on Sat, 12 Sept 2026.
 
 Miley Serious is a techno and house artist tracked on soundcheck, with 169 sets logged across Amsterdam, Antwerp, Austin and Barcelona and 52 more. Often billed alongside Lu2k, Dr Dubplate and Shampain. Next up: Hare & Hounds, Birmingham on Sat 12 Sept.
 
@@ -32,4 +32,4 @@ Miley Serious is a techno and house artist tracked on soundcheck, with 169 sets 
 
 Lu2k, Dr Dubplate, Shampain
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mileyserious/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mileyserious/)*

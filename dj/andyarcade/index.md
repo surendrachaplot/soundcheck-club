@@ -1,6 +1,6 @@
 # Andy Arcade
 
-Andy Arcade is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Thu, 10 Sept 2026, next at TBA - 51 Harper Ave, Detroit on Sat, 19 Sept 2026.
+Andy Arcade is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Fri, 11 Sept 2026, next at TBA - 51 Harper Ave, Detroit on Sat, 19 Sept 2026.
 
 Andy Arcade is a house and minimal artist based in United States of America, tracked on soundcheck, with 8 sets logged across Detroit. Often billed alongside LeNoir, Botez and Britty. Next up: TBA - 51 Harper Ave, Detroit on Sat 19 Sept.
 
@@ -24,4 +24,4 @@ Andy Arcade is a house and minimal artist based in United States of America, tra
 
 LeNoir, Botez, Britty
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/andyarcade/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/andyarcade/)*

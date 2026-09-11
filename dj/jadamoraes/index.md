@@ -1,6 +1,6 @@
 # JADA MORAES
 
-JADA MORAES is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 10 Sept 2026, next at Phantom Bar Berlin, Berlin on Sat, 12 Sept 2026.
+JADA MORAES is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at Phantom Bar Berlin, Berlin on Sat, 12 Sept 2026.
 
 JADA MORAES is a house and techno artist tracked on soundcheck, with 188 sets logged across Amsterdam, Barcelona, Berlin and Cologne and 12 more. Often billed alongside DJ Soulscape, SKiiDA and ANDOW. Next up: Phantom Bar Berlin, Berlin on Sat 12 Sept.
 
@@ -26,4 +26,4 @@ JADA MORAES is a house and techno artist tracked on soundcheck, with 188 sets lo
 
 DJ Soulscape, SKiiDA, ANDOW
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jadamoraes/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jadamoraes/)*

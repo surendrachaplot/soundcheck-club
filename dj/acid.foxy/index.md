@@ -1,6 +1,6 @@
 # Acid.Foxy
 
-Acid.Foxy is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 10 Sept 2026, next at TBA - VIP Späti, Neukölln, Berlin on Sat, 12 Sept 2026.
+Acid.Foxy is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 11 Sept 2026, next at TBA - VIP Späti, Neukölln, Berlin on Sat, 12 Sept 2026.
 
 Acid.Foxy is a house and techno artist tracked on soundcheck, with 8 sets logged across Berlin. Often billed alongside Anna Schreit, Dj OmarO and Kataya. Next up: TBA - VIP Späti, Neukölln, Berlin on Sat 12 Sept.
 
@@ -24,4 +24,4 @@ Acid.Foxy is a house and techno artist tracked on soundcheck, with 8 sets logged
 
 Anna Schreit, Dj OmarO, Kataya
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/acid.foxy/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/acid.foxy/)*

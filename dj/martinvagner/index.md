@@ -1,6 +1,6 @@
 # Martin Vágner
 
-Martin Vágner is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Thu, 10 Sept 2026, next at Groove Bar, Prague on Sat, 12 Sept 2026.
+Martin Vágner is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Fri, 11 Sept 2026, next at Groove Bar, Prague on Sat, 12 Sept 2026.
 
 Martin Vágner is a house and deep house artist based in Czech Republic, tracked on soundcheck, with 20 sets logged across Prague. Often billed alongside Chep, Mike.H and Pavel Aeling. Next up: Groove Bar, Prague on Sat 12 Sept.
 
@@ -25,4 +25,4 @@ Martin Vágner is a house and deep house artist based in Czech Republic, tracked
 
 Chep, Mike.H, Pavel Aeling
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/martinvagner/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/martinvagner/)*

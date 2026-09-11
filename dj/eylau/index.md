@@ -1,6 +1,6 @@
 # eylau
 
-eylau is a Latin Bass and Hard Drum artist with 1 upcoming club date listed on soundcheck as of Thu, 10 Sept 2026, next at K-Bar Powiśle, Warsaw on Fri, 23 Oct 2026.
+eylau is a Latin Bass and Hard Drum artist with 1 upcoming club date listed on soundcheck as of Fri, 11 Sept 2026, next at K-Bar Powiśle, Warsaw on Fri, 23 Oct 2026.
 
 eylau is a latin bass and hard drum artist based in Poland, tracked on soundcheck, with 33 sets logged across Krakow and Warsaw. Often billed alongside KarateKnur, Fourth World Music and Cosaco. Next up: K-Bar Powiśle, Warsaw on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ eylau is a latin bass and hard drum artist based in Poland, tracked on soundchec
 
 KarateKnur, Fourth World Music, Cosaco
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/eylau/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/eylau/)*

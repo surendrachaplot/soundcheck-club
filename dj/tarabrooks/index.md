@@ -1,6 +1,6 @@
 # Tara Brooks
 
-Tara Brooks is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 10 Sept 2026, next at F8 1192 Folsom, San Francisco/Oakland on Wed, 23 Sept 2026.
+Tara Brooks is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at F8 1192 Folsom, San Francisco/Oakland on Wed, 23 Sept 2026.
 
 Tara Brooks is a house and techno artist tracked on soundcheck, with 56 sets logged across Amsterdam, Bali, Berlin and Boston and 12 more. Often billed alongside Doc Martin, Anthony Mansfield and Cassy. Next up: F8 1192 Folsom, Sanfrancisco on Wed 23 Sept.
 
@@ -26,4 +26,4 @@ Tara Brooks is a house and techno artist tracked on soundcheck, with 56 sets log
 
 Doc Martin, Anthony Mansfield, Cassy
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tarabrooks/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tarabrooks/)*

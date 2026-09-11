@@ -1,6 +1,6 @@
 # Jacuzzi General
 
-Jacuzzi General is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Thu, 10 Sept 2026, next at Avalon Cafe Bermondsey, London on Sat, 12 Sept 2026.
+Jacuzzi General is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Fri, 11 Sept 2026, next at Avalon Cafe Bermondsey, London on Sat, 12 Sept 2026.
 
 Jacuzzi General is a house and disco artist tracked on soundcheck, with 106 sets logged across Berlin, Edinburgh and London. Often billed alongside Ann Tweak, Fierro Grande and Lara Sinclair. Next up: Avalon Cafe Bermondsey, London on Sat 12 Sept.
 
@@ -25,4 +25,4 @@ Jacuzzi General is a house and disco artist tracked on soundcheck, with 106 sets
 
 Ann Tweak, Fierro Grande, Lara Sinclair
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jacuzzigeneral/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jacuzzigeneral/)*

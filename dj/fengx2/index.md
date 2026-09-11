@@ -1,6 +1,6 @@
 # FENGX2
 
-FENGX2 is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Thu, 10 Sept 2026, next at Shelter, Seoul on Fri, 11 Sept 2026.
+FENGX2 is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at Shelter, Seoul on Fri, 11 Sept 2026.
 
 FENGX2 is a techno and house artist based in Japan, tracked on soundcheck, with 217 sets logged across Hongkong, Osaka, Seoul and Tokyo. Often billed alongside ZAGUN, _goodbyeforever_ and YUVIE. Next up: Shelter, Seoul on Fri 11 Sept.
 
@@ -29,4 +29,4 @@ FENGX2 is a techno and house artist based in Japan, tracked on soundcheck, with 
 
 ZAGUN, _goodbyeforever_, YUVIE
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/fengx2/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/fengx2/)*

@@ -1,6 +1,6 @@
 # Stefan Meser
 
-Stefan Meser is a House and Tech House artist with 3 upcoming club dates listed on soundcheck as of Thu, 10 Sept 2026, next at Yellow House, Amsterdam on Sat, 12 Sept 2026.
+Stefan Meser is a House and Tech House artist with 3 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at Yellow House, Amsterdam on Sat, 12 Sept 2026.
 
 Stefan Meser is a house and tech house artist tracked on soundcheck, with 20 sets logged across Amsterdam, Dusseldorf, Rotterdam and Thehague and 1 more. Often billed alongside Karim Soliman, SANTØS and Ammé. Next up: Yellow House, Amsterdam on Sat 12 Sept.
 
@@ -27,4 +27,4 @@ Stefan Meser is a house and tech house artist tracked on soundcheck, with 20 set
 
 Karim Soliman, SANTØS, Ammé
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/stefanmeser/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/stefanmeser/)*

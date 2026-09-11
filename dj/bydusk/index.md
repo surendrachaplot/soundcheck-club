@@ -1,6 +1,6 @@
 # By Dusk
 
-By Dusk is a Deep House and Progressive House artist with 1 upcoming club date listed on soundcheck as of Thu, 10 Sept 2026, next at HQI, London on Fri, 30 Oct 2026.
+By Dusk is a Deep House and Progressive House artist with 1 upcoming club date listed on soundcheck as of Fri, 11 Sept 2026, next at HQI, London on Fri, 30 Oct 2026.
 
 By Dusk is a deep house and progressive house artist tracked on soundcheck, with 21 sets logged across London. Often billed alongside Underground Tribe, Dj Clark Gabble and Fernweh (2). Next up: HQI, London on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ By Dusk is a deep house and progressive house artist tracked on soundcheck, with
 
 Underground Tribe, Dj Clark Gabble, Fernweh (2)
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bydusk/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bydusk/)*

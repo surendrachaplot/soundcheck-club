@@ -1,6 +1,6 @@
 # deembvss
 
-deembvss is a Drum & Bass and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 10 Sept 2026, next at Korpuss, Riga on Fri, 18 Sept 2026.
+deembvss is a Drum & Bass and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 11 Sept 2026, next at Korpuss, Riga on Fri, 18 Sept 2026.
 
 deembvss is a drum & bass and techno artist tracked on soundcheck, with 8 sets logged across Riga. Often billed alongside DRAGONCAT, ARRISHA and Juman. Next up: Korpuss, Riga on Fri 18 Sept.
 
@@ -24,4 +24,4 @@ deembvss is a drum & bass and techno artist tracked on soundcheck, with 8 sets l
 
 DRAGONCAT, ARRISHA, Juman
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/deembvss/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/deembvss/)*

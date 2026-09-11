@@ -1,6 +1,6 @@
 # Story Toronto
 
-Story Toronto is a music venue in Toronto with 6 upcoming nights listed on soundcheck as of Thu, 10 Sept 2026; the next is "KAS:ST TORONTO" on Fri, 11 Sept 2026.
+Story Toronto is a music venue in Toronto with 6 upcoming nights listed on soundcheck as of Fri, 11 Sept 2026; the next is "KAS:ST TORONTO" on Fri, 11 Sept 2026.
 
 Story Toronto is a music venue in Toronto listed on soundcheck. 6 upcoming nights, with line-ups including Andrew McDonnell, Anyasa, EKIN (2) and KAS:ST and 2 more. Browse upcoming dates, start times and who's playing. 214 Adelaide St W, Toronto, ON M5H 1W7, Canada.
 
@@ -19,4 +19,4 @@ Story Toronto is a music venue in Toronto listed on soundcheck. 6 upcoming night
 
 214 Adelaide St W, Toronto, ON M5H 1W7, Canada, Toronto
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/story-toronto/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/story-toronto/)*

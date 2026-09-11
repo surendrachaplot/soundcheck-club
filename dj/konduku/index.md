@@ -1,8 +1,8 @@
 # Konduku
 
-Konduku is a Techno and House artist with 12 upcoming club dates listed on soundcheck as of Thu, 10 Sept 2026, next at Camp Kennybrook, New York City on Thu, 10 Sept 2026.
+Konduku is a Techno and House artist with 13 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at Camp Kennybrook, New York City on Thu, 10 Sept 2026.
 
-Konduku is a techno and house artist tracked on soundcheck, with 171 sets logged across Amsterdam, Antwerp, Athens and Bangkok and 38 more. Often billed alongside DJ Nobu, Kia (AU) and Woody92. Next up: Camp Kennybrook, Newyorkcity on Thu 10 Sept.
+Konduku is a techno and house artist tracked on soundcheck, with 172 sets logged across Amsterdam, Antwerp, Athens and Bangkok and 38 more. Often billed alongside DJ Nobu, Kia (AU) and Woody92. Next up: Camp Kennybrook, Newyorkcity on Thu 10 Sept.
 
 ## Upcoming shows
 
@@ -23,6 +23,7 @@ Konduku is a techno and house artist tracked on soundcheck, with 171 sets logged
 
 ## Recently played
 
+- Camp Kennybrook, New York City — Thu, 10 Sept 2026
 - Berghain | Panorama Bar | Säule, Berlin — Fri, 4 Sept 2026
 - Amsterdamse Bos, Amsterdam — Sun, 2 Aug 2026
 - Concept Haus, Manchester — Fri, 31 Jul 2026
@@ -30,10 +31,9 @@ Konduku is a techno and house artist tracked on soundcheck, with 171 sets logged
 - Backsteinboot, Berlin — Sat, 11 Jul 2026
 - arkaoda Berlin, Berlin — Thu, 9 Jul 2026
 - arkaoda Berlin, Berlin — Thu, 9 Jul 2026
-- Parco Dora, Turin — Fri, 3 Jul 2026
 
 ## Shares bills with
 
 DJ Nobu, Kia (AU), Woody92
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/konduku/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/konduku/)*

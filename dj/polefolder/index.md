@@ -1,6 +1,6 @@
 # Pole Folder
 
-Pole Folder is a Progressive House and Deep House artist with 1 upcoming club date listed on soundcheck as of Thu, 10 Sept 2026, next at Akhnaton, Amsterdam on Sat, 24 Oct 2026.
+Pole Folder is a Progressive House and Deep House artist with 1 upcoming club date listed on soundcheck as of Fri, 11 Sept 2026, next at Akhnaton, Amsterdam on Sat, 24 Oct 2026.
 
 Pole Folder is a progressive house and deep house artist tracked on soundcheck, with 14 sets logged across Amsterdam, Antwerp, Buenosaires and Glasgow and 2 more. Often billed alongside Hernan Cattaneo, Akira and Alain Pauwels. Next up: Akhnaton, Amsterdam on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ Pole Folder is a progressive house and deep house artist tracked on soundcheck, 
 
 Hernan Cattaneo, Akira, Alain Pauwels
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/polefolder/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/polefolder/)*

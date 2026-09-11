@@ -1,14 +1,13 @@
 # Salon Badin
 
-Salon Badin is a music venue in Montreal with 9 upcoming nights listed on soundcheck as of Thu, 10 Sept 2026; the next is "Salon Badin: Phono" on Thu, 10 Sept 2026.
+Salon Badin is a music venue in Montreal with 8 upcoming nights listed on soundcheck as of Fri, 11 Sept 2026; the next is "Salon Badin: Buddha Blaze" on Fri, 11 Sept 2026.
 
-Salon Badin is a music venue in Montreal listed on soundcheck. 9 upcoming nights, with line-ups including Buddha Blaze, Cidoine, Desbike and Dusty FingerZ and 2 more. Browse upcoming dates, start times and who's playing. 2613 Notre-Dame St W, Montreal, Quebec H3J 1N9.
+Salon Badin is a music venue in Montreal listed on soundcheck. 8 upcoming nights, with line-ups including Buddha Blaze, Cidoine, Desbike and Dusty FingerZ and 2 more. Browse upcoming dates, start times and who's playing. 2613 Notre-Dame St W, Montreal, Quebec H3J 1N9.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Thu, 10 Sept 2026 | Salon Badin: Phono | Phono (CA) |
 | Fri, 11 Sept 2026 | Salon Badin: Buddha Blaze | Buddha Blaze |
 | Sat, 12 Sept 2026 | Salon Badin: Grandhuit | GrandHuit |
 | Thu, 17 Sept 2026 | Salon Badin: Cidoine | Cidoine |
@@ -22,4 +21,4 @@ Salon Badin is a music venue in Montreal listed on soundcheck. 9 upcoming nights
 
 2613 Notre-Dame St W, Montreal, Quebec H3J 1N9, Montreal
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/montreal/club/salon-badin/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/montreal/club/salon-badin/)*

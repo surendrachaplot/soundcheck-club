@@ -1,19 +1,19 @@
 # Kana Hishiya
 
-Kana Hishiya is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Thu, 10 Sept 2026, next at TBA - Location Link in Bio on Instagram @recollectunderground, Los Angeles on Thu, 10 Sept 2026.
+Kana Hishiya is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at Apotheke, Los Angeles on Fri, 11 Sept 2026.
 
-Kana Hishiya is a house and techno artist based in Japan, tracked on soundcheck, with 55 sets logged across Detroit, Losangeles, Newyorkcity and Sandiego and 2 more. Often billed alongside Artur (US), H.U.D.L and Krane. Next up: TBA - Location Link in Bio on Instagram @recollectunderground, Losangeles on Thu 10 Sept.
+Kana Hishiya is a house and techno artist based in Japan, tracked on soundcheck, with 55 sets logged across Detroit, Losangeles, Newyorkcity and Sandiego and 2 more. Often billed alongside Artur (US), H.U.D.L and Krane. Next up: Apotheke, Losangeles on Fri 11 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Thu, 10 Sept 2026 | TBA - Location Link in Bio on Instagram @recollectunderground | Los Angeles |
 | Fri, 11 Sept 2026 | Apotheke | Los Angeles |
 | Fri, 30 Oct 2026 | NOS Event Center | Los Angeles |
 
 ## Recently played
 
+- TBA - Location Link in Bio on Instagram @recollectunderground, Los Angeles — Thu, 10 Sept 2026
 - Better Tomorrow, Los Angeles — Thu, 30 Jul 2026
 - TBA, Los Angeles — Sat, 18 Jul 2026
 - Bar Franca, Los Angeles — Fri, 17 Jul 2026
@@ -21,10 +21,9 @@ Kana Hishiya is a house and techno artist based in Japan, tracked on soundcheck,
 - Spot Lite Detroit, Detroit — Mon, 25 May 2026
 - Mansions, New York City — Sat, 23 May 2026
 - TBA - Location Link in Bio on Instagram @recollectafters, Los Angeles — Thu, 26 Mar 2026
-- 1720, Los Angeles — Sat, 14 Mar 2026
 
 ## Shares bills with
 
 Artur (US), H.U.D.L, Krane
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kanahishiya/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kanahishiya/)*

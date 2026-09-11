@@ -1,6 +1,6 @@
 # MC Tiny
 
-MC Tiny is a Hardcore artist with 1 upcoming club date listed on soundcheck as of Thu, 10 Sept 2026, next at The Classic Grand, Glasgow on Fri, 4 Dec 2026.
+MC Tiny is a Hardcore artist with 1 upcoming club date listed on soundcheck as of Fri, 11 Sept 2026, next at The Classic Grand, Glasgow on Fri, 4 Dec 2026.
 
 MC Tiny is a hardcore artist tracked on soundcheck, with 6 sets logged across Glasgow. Often billed alongside Oakzy B, MC Tazo and AISHA. Next up: The Classic Grand, Glasgow on Fri 4 Dec.
 
@@ -22,4 +22,4 @@ MC Tiny is a hardcore artist tracked on soundcheck, with 6 sets logged across Gl
 
 Oakzy B, MC Tazo, AISHA
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mctiny/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mctiny/)*

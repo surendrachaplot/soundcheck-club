@@ -1,8 +1,8 @@
 # Cabaret Sauvage
 
-Cabaret Sauvage is a music venue in Paris with 6 upcoming nights listed on soundcheck as of Thu, 10 Sept 2026; the next is "¡LA MEUTE 10 ANS — PART #3 // CLOSING" on Sat, 12 Sept 2026.
+Cabaret Sauvage is a music venue in Paris with 7 upcoming nights listed on soundcheck as of Fri, 11 Sept 2026; the next is "¡LA MEUTE 10 ANS — PART #3 // CLOSING" on Sat, 12 Sept 2026.
 
-Cabaret Sauvage is a music venue in Paris listed on soundcheck. 6 upcoming nights, with line-ups including ARKID, Art of Tones, BAB MUSIQUE and Boston Bun and 2 more. Browse upcoming dates, start times and who's playing. 211 Avenue Jean Jaurès; 75019; Paris; France.
+Cabaret Sauvage is a music venue in Paris listed on soundcheck. 7 upcoming nights, with line-ups including ARKID, Art of Tones, BAB MUSIQUE and Boston Bun and 2 more. Browse upcoming dates, start times and who's playing. 211 Avenue Jean Jaurès; 75019; Paris; France.
 
 ## What's on
 
@@ -13,10 +13,11 @@ Cabaret Sauvage is a music venue in Paris listed on soundcheck. 6 upcoming night
 | Sat, 26 Sept 2026 | Cabaret Perché : La Cour Des Miracles | ARKID, Darwin, RIGO, Sepehr |
 | Fri, 2 Oct 2026 | Planète House: Boston Bun, Selena Faider, Melé [Booth 360°] | Boston Bun, Melé, Selena Faider |
 | Fri, 9 Oct 2026 | ¡La fessée Sauvage #4 with Henrik Schwarz (Extended Live 2h) | Henrik Schwarz |
+| Sat, 10 Oct 2026 | Ritmo Fatale: Kendal, Maï-Linh, Miguel De Bois | Kendal, Maï-Linh, Miguel De Bois |
 | Fri, 23 Oct 2026 | MARATHON!: Eliza Rose, Jeremy Underground, Mayou Picchu, Cabaret Contemporain, Pierrinski | Eliza Rose, Jeremy Underground, Pierrinski |
 
 ## Address
 
 211 Avenue Jean Jaurès; 75019; Paris; France, Paris
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/paris/club/cabaret-sauvage/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/paris/club/cabaret-sauvage/)*

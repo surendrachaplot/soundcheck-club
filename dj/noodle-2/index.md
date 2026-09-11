@@ -1,6 +1,6 @@
 # noodle
 
-noodle is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Thu, 10 Sept 2026, next at TBA - Secret Location, Edinburgh, Edinburgh on Sat, 19 Sept 2026.
+noodle is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at TBA - Secret Location, Edinburgh, Edinburgh on Sat, 19 Sept 2026.
 
 noodle is a house and techno artist tracked on soundcheck, with 62 sets logged across Dundee, Edinburgh, Glasgow and Ibiza and 2 more. Often billed alongside Iris Pertegaz, Domenic Cappello and Telfort. Next up: TBA - Secret Location, Edinburgh, Edinburgh on Sat 19 Sept.
 
@@ -27,4 +27,4 @@ noodle is a house and techno artist tracked on soundcheck, with 62 sets logged a
 
 Iris Pertegaz, Domenic Cappello, Telfort
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/noodle-2/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/noodle-2/)*

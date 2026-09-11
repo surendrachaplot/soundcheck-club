@@ -1,6 +1,6 @@
 # Spook Club
 
-Spook Club is a music venue in Valencia with 18 upcoming nights listed on soundcheck as of Thu, 10 Sept 2026; the next is "Toxic Machinery + Krl Mx + invitados" on Sat, 12 Sept 2026.
+Spook Club is a music venue in Valencia with 18 upcoming nights listed on soundcheck as of Fri, 11 Sept 2026; the next is "Toxic Machinery + Krl Mx + invitados" on Sat, 12 Sept 2026.
 
 Spook Club is a music venue in Valencia listed on soundcheck. 18 upcoming nights, with line-ups including Angelinanyulí, Alex (ES), alvar. and A.N.I. and 2 more. Browse upcoming dates, start times and who's playing. Pinedo Valencia.
 
@@ -23,4 +23,4 @@ Spook Club is a music venue in Valencia listed on soundcheck. 18 upcoming nights
 
 Pinedo Valencia, Valencia
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/valencia/club/spook-club/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/valencia/club/spook-club/)*

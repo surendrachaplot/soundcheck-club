@@ -1,8 +1,8 @@
 # Last Nubian
 
-Last Nubian is a Broken Beat and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 10 Sept 2026, next at Eastway Baths, London on Sat, 19 Sept 2026.
+Last Nubian is a Broken Beat and House artist with 3 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at Eastway Baths, London on Sat, 19 Sept 2026.
 
-Last Nubian is a broken beat and house artist tracked on soundcheck, with 26 sets logged across Berlin, Bristol and London. Often billed alongside Flat White Chris, Saige Sounds and Alexander Nut. Next up: Eastway Baths, London on Sat 19 Sept.
+Last Nubian is a broken beat and house artist tracked on soundcheck, with 27 sets logged across Berlin, Bristol and London. Often billed alongside Flat White Chris, Kojay and Saige Sounds. Next up: Eastway Baths, London on Sat 19 Sept.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Last Nubian is a broken beat and house artist tracked on soundcheck, with 26 set
 | --- | --- | --- |
 | Sat, 19 Sept 2026 | Eastway Baths | London |
 | Fri, 25 Sept 2026 | Total Refreshment Centre | London |
+| Fri, 2 Oct 2026 | Grow | London |
 
 ## Recently played
 
@@ -24,6 +25,6 @@ Last Nubian is a broken beat and house artist tracked on soundcheck, with 26 set
 
 ## Shares bills with
 
-Flat White Chris, Saige Sounds, Alexander Nut
+Flat White Chris, Kojay, Saige Sounds
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lastnubian/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lastnubian/)*

@@ -1,6 +1,6 @@
 # Olive Juice
 
-Olive Juice is a Bass and Baile Funk artist with 3 upcoming club dates listed on soundcheck as of Thu, 10 Sept 2026, next at The Haggerston, London on Fri, 11 Sept 2026.
+Olive Juice is a Bass and Baile Funk artist with 3 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at The Haggerston, London on Fri, 11 Sept 2026.
 
 Olive Juice is a bass and baile funk artist tracked on soundcheck, with 13 sets logged across London. Often billed alongside ROHiNA, limi and Kafn. Next up: The Haggerston, London on Fri 11 Sept.
 
@@ -27,4 +27,4 @@ Olive Juice is a bass and baile funk artist tracked on soundcheck, with 13 sets 
 
 ROHiNA, limi, Kafn
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/olivejuice/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/olivejuice/)*

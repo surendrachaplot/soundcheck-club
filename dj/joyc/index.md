@@ -1,6 +1,6 @@
 # Joyc
 
-Joyc is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 10 Sept 2026, next at Meteor Studio, Tbilisi on Fri, 11 Sept 2026.
+Joyc is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 11 Sept 2026, next at Meteor Studio, Tbilisi on Fri, 11 Sept 2026.
 
 Joyc is a techno and house artist tracked on soundcheck, with 24 sets logged across Liverpool and Tbilisi. Often billed alongside Memotech, Seqta and Elene. Next up: Meteor Studio, Tbilisi on Fri 11 Sept.
 
@@ -25,4 +25,4 @@ Joyc is a techno and house artist tracked on soundcheck, with 24 sets logged acr
 
 Memotech, Seqta, Elene
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/joyc/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/joyc/)*

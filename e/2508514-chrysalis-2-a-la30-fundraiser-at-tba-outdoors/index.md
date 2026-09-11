@@ -1,10 +1,10 @@
 # Chrysalis 2 - A La30 Fundraiser at TBA - outdoors
 
-Chrysalis 2 - A La30 Fundraiser at TBA - outdoors on Fri 18 Sept, Montreal. 6 acts on the bill: coldchainlogistics, Kiju, Kiviv and newfriend and 2 more. House and Bass. Preview the line-up and save it on soundcheck.
+Chrysalis 2 - A La30 Fundraiser at TBA - outdoors on Sat 19 Sept, Montreal. 6 acts on the bill: coldchainlogistics, Kiju, Kiviv and newfriend and 2 more. House and Bass. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
-| Date | Fri, 18 Sept 2026 |
+| Date | Sat, 19 Sept 2026 |
 | Venue | TBA - outdoors |
 | City | Montreal |
 

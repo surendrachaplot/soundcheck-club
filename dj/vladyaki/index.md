@@ -1,6 +1,6 @@
 # Vlad Yaki
 
-Vlad Yaki is a Techno and Progressive House artist with 2 upcoming club dates listed on soundcheck as of Thu, 10 Sept 2026, next at Klunkerkranich, Berlin on Wed, 16 Sept 2026.
+Vlad Yaki is a Techno and Progressive House artist with 2 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at Klunkerkranich, Berlin on Wed, 16 Sept 2026.
 
 Vlad Yaki is a techno and progressive house artist based in Ukraine, tracked on soundcheck, with 84 sets logged across Berlin, Hamburg and Prague. Often billed alongside Bøgen, Lirity and Pascale Voltaire. Next up: Klunkerkranich, Berlin on Wed 16 Sept.
 
@@ -26,4 +26,4 @@ Vlad Yaki is a techno and progressive house artist based in Ukraine, tracked on 
 
 Bøgen, Lirity, Pascale Voltaire
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/vladyaki/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/vladyaki/)*

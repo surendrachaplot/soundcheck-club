@@ -1,6 +1,6 @@
 # Tipic.
 
-Tipic. is a music venue in Ibiza with 1 upcoming night listed on soundcheck as of Thu, 10 Sept 2026; the next is "Unknown goes to Formentera" on Sat, 12 Sept 2026.
+Tipic. is a music venue in Ibiza with 1 upcoming night listed on soundcheck as of Fri, 11 Sept 2026; the next is "Unknown goes to Formentera" on Sat, 12 Sept 2026.
 
 Tipic. is a music venue in Ibiza listed on soundcheck. 1 upcoming night, with line-ups including Carlos Vila, ISBEL, JNJS and Pol K. Browse upcoming dates, start times and who's playing. Avenida Miramar 164; Es Pujols; Formentera 07871; Ibiza: Spain.
 
@@ -14,4 +14,4 @@ Tipic. is a music venue in Ibiza listed on soundcheck. 1 upcoming night, with li
 
 Avenida Miramar 164; Es Pujols; Formentera 07871; Ibiza: Spain, Ibiza
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/ibiza/club/tipic/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/ibiza/club/tipic/)*

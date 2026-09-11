@@ -1,13 +1,14 @@
 # MANGUMAMI
 
-MANGUMAMI is a Club and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 10 Sept 2026, next at TRANSMISSION DC, Washington DC on Fri, 2 Oct 2026.
+MANGUMAMI is a Club and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at Walnut Bar & Grill, New York City on Fri, 11 Sept 2026.
 
-MANGUMAMI is a club and techno artist based in United States of America, tracked on soundcheck, with 23 sets logged across Boston, Miami, Newyorkcity and Philadelphia and 2 more. Often billed alongside EL SUCIO, CMD+JAZMINE and ellen.j. Next up: TRANSMISSION DC, Washingtondc on Fri 2 Oct.
+MANGUMAMI is a club and techno artist based in United States of America, tracked on soundcheck, with 24 sets logged across Boston, Miami, Newyorkcity and Philadelphia and 2 more. Often billed alongside EL SUCIO, CMD+JAZMINE and ellen.j. Next up: Walnut Bar & Grill, Newyorkcity on Fri 11 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 11 Sept 2026 | Walnut Bar & Grill | New York City |
 | Fri, 2 Oct 2026 | TRANSMISSION DC | Washington DC |
 
 ## Recently played
@@ -25,4 +26,4 @@ MANGUMAMI is a club and techno artist based in United States of America, tracked
 
 EL SUCIO, CMD+JAZMINE, ellen.j
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mangumami/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mangumami/)*

@@ -1,6 +1,6 @@
 # Edo.1
 
-Edo.1 is a Minimal and House artist with 1 upcoming club date listed on soundcheck as of Thu, 10 Sept 2026, next at The Tempest Inn, Brighton on Sat, 12 Sept 2026.
+Edo.1 is a Minimal and House artist with 1 upcoming club date listed on soundcheck as of Fri, 11 Sept 2026, next at The Tempest Inn, Brighton on Sat, 12 Sept 2026.
 
 Edo.1 is a minimal and house artist tracked on soundcheck, with 18 sets logged across Brighton, London and Paris. Often billed alongside Retrospect, Adam Chapman and Karis.. Next up: The Tempest Inn, Brighton on Sat 12 Sept.
 
@@ -25,4 +25,4 @@ Edo.1 is a minimal and house artist tracked on soundcheck, with 18 sets logged a
 
 Retrospect, Adam Chapman, Karis.
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/edo.1/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/edo.1/)*

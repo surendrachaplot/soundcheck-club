@@ -1,6 +1,6 @@
 # Oscar Days
 
-Oscar Days is a Techno and Bass artist with 1 upcoming club date listed on soundcheck as of Thu, 10 Sept 2026, next at 宀 Club, Hong Kong on Fri, 9 Oct 2026.
+Oscar Days is a Techno and Bass artist with 1 upcoming club date listed on soundcheck as of Fri, 11 Sept 2026, next at 宀 Club, Hong Kong on Fri, 9 Oct 2026.
 
 Oscar Days is a techno and bass artist tracked on soundcheck, with 12 sets logged across Hongkong and Shenzhen. Often billed alongside TUESDAY, adam. and 1908. Next up: 宀 Club, Hongkong on Fri 9 Oct.
 
@@ -25,4 +25,4 @@ Oscar Days is a techno and bass artist tracked on soundcheck, with 12 sets logge
 
 TUESDAY, adam., 1908
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/oscardays/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/oscardays/)*

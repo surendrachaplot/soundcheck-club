@@ -1,6 +1,6 @@
 # Murvin Jay
 
-Murvin Jay is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 10 Sept 2026, next at Buda BXL, Brussels on Sat, 26 Sept 2026.
+Murvin Jay is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 11 Sept 2026, next at Buda BXL, Brussels on Sat, 26 Sept 2026.
 
 Murvin Jay is a techno and house artist tracked on soundcheck, with 13 sets logged across Brussels. Often billed alongside Mr Brown, AMARE and Acid Lily. Next up: Buda BXL, Brussels on Sat 26 Sept.
 
@@ -25,4 +25,4 @@ Murvin Jay is a techno and house artist tracked on soundcheck, with 13 sets logg
 
 Mr Brown, AMARE, Acid Lily
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/murvinjay/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/murvinjay/)*

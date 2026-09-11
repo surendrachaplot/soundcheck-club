@@ -1,14 +1,16 @@
 # XENEA LUMRA
 
-XENEA LUMRA is a Techno and Hardcore artist with 1 upcoming club date listed on soundcheck as of Thu, 10 Sept 2026, next at Husitská 22, Prague on Fri, 11 Sept 2026.
+XENEA LUMRA is a Techno and Hardcore artist with 3 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at Husitská 22, Prague on Fri, 11 Sept 2026.
 
-XENEA LUMRA is a techno and hardcore artist based in Czech Republic, tracked on soundcheck, with 12 sets logged across Prague. Often billed alongside Katrixia, SAVBEA and 2NDRA. Next up: Husitská 22, Prague on Fri 11 Sept.
+XENEA LUMRA is a techno and hardcore artist based in Czech Republic, tracked on soundcheck, with 14 sets logged across Prague. Often billed alongside Katrixia, Big Lil and SAVBEA. Next up: Husitská 22, Prague on Fri 11 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 11 Sept 2026 | Husitská 22 | Prague |
+| Fri, 9 Oct 2026 | Bike Jesus | Prague |
+| Sat, 31 Oct 2026 | Bike Jesus | Prague |
 
 ## Recently played
 
@@ -23,6 +25,6 @@ XENEA LUMRA is a techno and hardcore artist based in Czech Republic, tracked on 
 
 ## Shares bills with
 
-Katrixia, SAVBEA, 2NDRA
+Katrixia, Big Lil, SAVBEA
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/xenealumra/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/xenealumra/)*

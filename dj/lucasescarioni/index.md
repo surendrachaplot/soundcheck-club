@@ -1,6 +1,6 @@
 # Lucas Escarioni
 
-Lucas Escarioni is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Thu, 10 Sept 2026, next at TBA - Roca Bruja , Buenos Aires on Sat, 12 Sept 2026.
+Lucas Escarioni is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Fri, 11 Sept 2026, next at TBA - Roca Bruja , Buenos Aires on Sat, 12 Sept 2026.
 
 Lucas Escarioni is a house and tech house artist tracked on soundcheck, with 12 sets logged across Buenosaires and London. Often billed alongside Ludmila Di Pasquale, AGUSTIN BARBEI and Agustin Clark. Next up: TBA - Roca Bruja , Buenosaires on Sat 12 Sept.
 
@@ -25,4 +25,4 @@ Lucas Escarioni is a house and tech house artist tracked on soundcheck, with 12 
 
 Ludmila Di Pasquale, AGUSTIN BARBEI, Agustin Clark
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lucasescarioni/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lucasescarioni/)*

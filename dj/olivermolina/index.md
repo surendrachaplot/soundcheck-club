@@ -1,6 +1,6 @@
 # Oliver Molina
 
-Oliver Molina is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 10 Sept 2026, next at Fortune of War, Brighton on Sat, 12 Sept 2026.
+Oliver Molina is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 11 Sept 2026, next at Fortune of War, Brighton on Sat, 12 Sept 2026.
 
 Oliver Molina is a house and techno artist tracked on soundcheck, with 21 sets logged across Brighton and London. Often billed alongside Rubén Baiz, Leo Christopher and Obester. Next up: Fortune of War, Brighton on Sat 12 Sept.
 
@@ -25,4 +25,4 @@ Oliver Molina is a house and techno artist tracked on soundcheck, with 21 sets l
 
 Rubén Baiz, Leo Christopher, Obester
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/olivermolina/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/olivermolina/)*

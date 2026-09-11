@@ -1,6 +1,6 @@
 # Bushman (UK)
 
-Bushman (UK) is a House and Afro House artist with 1 upcoming club date listed on soundcheck as of Thu, 10 Sept 2026, next at Two Tribes CAMPFIRE, London on Fri, 25 Sept 2026.
+Bushman (UK) is a House and Afro House artist with 1 upcoming club date listed on soundcheck as of Fri, 11 Sept 2026, next at Two Tribes CAMPFIRE, London on Fri, 25 Sept 2026.
 
 Bushman (UK) is a house and afro house artist tracked on soundcheck, with 26 sets logged across Austin, Glasgow, London and Manchester and 1 more. Often billed alongside MYDIR, Trekkah and Mixed Message Music. Next up: Two Tribes CAMPFIRE, London on Fri 25 Sept.
 
@@ -25,4 +25,4 @@ Bushman (UK) is a house and afro house artist tracked on soundcheck, with 26 set
 
 MYDIR, Trekkah, Mixed Message Music
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bushmandj/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bushmandj/)*

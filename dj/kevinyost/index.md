@@ -1,6 +1,6 @@
 # Kevin Yost
 
-Kevin Yost is a Deep House and Club artist with 1 upcoming club date listed on soundcheck as of Thu, 10 Sept 2026, next at Arch 14, London on Sat, 7 Nov 2026.
+Kevin Yost is a Deep House and Club artist with 1 upcoming club date listed on soundcheck as of Fri, 11 Sept 2026, next at Arch 14, London on Sat, 7 Nov 2026.
 
 Kevin Yost is a deep house and club artist tracked on soundcheck, with 5 sets logged across Athens, Berlin and London. Often billed alongside Bengoa, Alienata and Altinbas. Next up: Arch 14, London on Sat 7 Nov.
 
@@ -21,4 +21,4 @@ Kevin Yost is a deep house and club artist tracked on soundcheck, with 5 sets lo
 
 Bengoa, Alienata, Altinbas
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kevinyost/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kevinyost/)*

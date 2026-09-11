@@ -1,6 +1,6 @@
 # OBSCURA x STAY TOXIC [FREE ENTRY*] at ÆDEN
 
-OBSCURA x STAY TOXIC [FREE ENTRY*] at ÆDEN on Sat 26 Sept, Berlin. 4 acts on the bill: Lisek, Lokier, Pijus and Reita D Russo. Techno and House. Preview the line-up and save it on soundcheck.
+OBSCURA x STAY TOXIC [FREE ENTRY*] at ÆDEN on Sat 26 Sept, Berlin. 5 acts on the bill: Dj OmarO, Lisek, Lokier and Pijus and 1 more. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ OBSCURA x STAY TOXIC [FREE ENTRY*] at ÆDEN on Sat 26 Sept, Berlin. 4 acts on th
 
 ## Line-up
 
+- Dj OmarO
 - Lisek
 - Lokier
 - Pijus

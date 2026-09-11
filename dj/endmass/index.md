@@ -1,6 +1,6 @@
 # endmass
 
-endmass is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 10 Sept 2026, next at Menjo's, Detroit on Sat, 26 Sept 2026.
+endmass is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 11 Sept 2026, next at Menjo's, Detroit on Sat, 26 Sept 2026.
 
 endmass is a techno and house artist based in United States of America, tracked on soundcheck, with 10 sets logged across Detroit. Often billed alongside AIDEL, Amino and Garrison XR. Next up: Menjo's, Detroit on Sat 26 Sept.
 
@@ -25,4 +25,4 @@ endmass is a techno and house artist based in United States of America, tracked 
 
 AIDEL, Amino, Garrison XR
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/endmass/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/endmass/)*

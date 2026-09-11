@@ -1,13 +1,14 @@
 # SAUANI
 
-SAUANI is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Thu, 10 Sept 2026, next at Fünk, Mexico City on Thu, 17 Sept 2026.
+SAUANI is a House and Deep House artist with 2 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at Sunday Sunday, Mexico City on Sun, 13 Sept 2026.
 
-SAUANI is a house and deep house artist tracked on soundcheck, with 39 sets logged across Barcelona, Mexicocity, Munich and Paris. Often billed alongside papa jazz, EM2K and JAWAR (3). Next up: Fünk, Mexicocity on Thu 17 Sept.
+SAUANI is a house and deep house artist tracked on soundcheck, with 40 sets logged across Barcelona, Mexicocity, Munich and Paris. Often billed alongside papa jazz, EM2K and JAWAR (3). Next up: Sunday Sunday, Mexicocity on Sun 13 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sun, 13 Sept 2026 | Sunday Sunday | Mexico City |
 | Thu, 17 Sept 2026 | Fünk | Mexico City |
 
 ## Recently played
@@ -25,4 +26,4 @@ SAUANI is a house and deep house artist tracked on soundcheck, with 39 sets logg
 
 papa jazz, EM2K, JAWAR (3)
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sauani/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sauani/)*

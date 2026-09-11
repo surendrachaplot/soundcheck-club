@@ -1,6 +1,6 @@
 # Shintarø Kanie
 
-Shintarø Kanie is a Techno and Industrial artist with 2 upcoming club dates listed on soundcheck as of Thu, 10 Sept 2026, next at VENT, Tokyo on Fri, 25 Sept 2026.
+Shintarø Kanie is a Techno and Industrial artist with 2 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at VENT, Tokyo on Fri, 25 Sept 2026.
 
 Shintarø Kanie is a techno and industrial artist based in Japan, tracked on soundcheck, with 29 sets logged across Kyoto, Osaka, Seoul and Tokyo. Often billed alongside Kanie, B.A.R.K and c0ca. Next up: VENT, Tokyo on Fri 25 Sept.
 
@@ -26,4 +26,4 @@ Shintarø Kanie is a techno and industrial artist based in Japan, tracked on sou
 
 Kanie, B.A.R.K, c0ca
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/shintarokanie/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/shintarokanie/)*

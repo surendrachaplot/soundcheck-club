@@ -1,6 +1,6 @@
 # Nooriyah
 
-Nooriyah is a House and Club artist with 5 upcoming club dates listed on soundcheck as of Thu, 10 Sept 2026, next at Annabel's Music Hall, Toronto on Fri, 11 Sept 2026.
+Nooriyah is a House and Club artist with 5 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at Annabel's Music Hall, Toronto on Fri, 11 Sept 2026.
 
 Nooriyah is a house and club artist based in United Kingdom, tracked on soundcheck, with 60 sets logged across Amsterdam, Barcelona, Berlin and Birmingham and 29 more. Often billed alongside NIKS, Jyoty and Soichi Terada. Next up: Annabel's Music Hall, Toronto on Fri 11 Sept.
 
@@ -29,4 +29,4 @@ Nooriyah is a house and club artist based in United Kingdom, tracked on soundche
 
 NIKS, Jyoty, Soichi Terada
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nooriyah/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nooriyah/)*

@@ -1,6 +1,6 @@
 # atom
 
-atom is a Techno and Breakbeat artist with 1 upcoming club date listed on soundcheck as of Thu, 10 Sept 2026, next at Le Chapiteau - Marseille, Marseille on Fri, 11 Sept 2026.
+atom is a Techno and Breakbeat artist with 1 upcoming club date listed on soundcheck as of Fri, 11 Sept 2026, next at Le Chapiteau - Marseille, Marseille on Fri, 11 Sept 2026.
 
 atom is a techno and breakbeat artist tracked on soundcheck, with 8 sets logged across Berlin, Denver, Marseille and Prague and 1 more. Often billed alongside 0megavybe, Adrian Ernst and BELLADONNA. Next up: Le Chapiteau - Marseille, Marseille on Fri 11 Sept.
 
@@ -24,4 +24,4 @@ atom is a techno and breakbeat artist tracked on soundcheck, with 8 sets logged 
 
 0megavybe, Adrian Ernst, BELLADONNA
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/atom/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/atom/)*

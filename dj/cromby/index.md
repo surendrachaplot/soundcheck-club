@@ -1,8 +1,8 @@
 # Cromby
 
-Cromby is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Thu, 10 Sept 2026, next at KREUZWERK, Berlin on Sat, 12 Sept 2026.
+Cromby is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at KREUZWERK, Berlin on Sat, 12 Sept 2026.
 
-Cromby is a house and techno artist tracked on soundcheck, with 134 sets logged across Amsterdam, Bali, Bangkok and Barcelona and 39 more. Often billed alongside Sally C, Spray and DJ Gigola. Next up: KREUZWERK, Berlin on Sat 12 Sept.
+Cromby is a house and techno artist tracked on soundcheck, with 135 sets logged across Amsterdam, Bali, Bangkok and Barcelona and 39 more. Often billed alongside Sally C, Spray and DJ Gigola. Next up: KREUZWERK, Berlin on Sat 12 Sept.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Cromby is a house and techno artist tracked on soundcheck, with 134 sets logged 
 | --- | --- | --- |
 | Sat, 12 Sept 2026 | KREUZWERK | Berlin |
 | Sat, 26 Sept 2026 | Kauz | Zurich |
+| Sun, 18 Oct 2026 | Macadam | Nantes |
 | Sat, 24 Oct 2026 | Thuishaven | Amsterdam |
 
 ## Recently played
@@ -27,4 +28,4 @@ Cromby is a house and techno artist tracked on soundcheck, with 134 sets logged 
 
 Sally C, Spray, DJ Gigola
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/cromby/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/cromby/)*

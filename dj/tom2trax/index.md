@@ -1,14 +1,15 @@
 # Tom2trax
 
-Tom2trax is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Thu, 10 Sept 2026, next at Liquidate, Manchester on Fri, 11 Sept 2026.
+Tom2trax is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at Liquidate, Manchester on Fri, 11 Sept 2026.
 
-Tom2trax is a house and disco artist based in United Kingdom, tracked on soundcheck, with 28 sets logged across Liverpool and Manchester. Often billed alongside Liam Oliver, James Greenwood and Kickin Pigeon. Next up: Liquidate, Manchester on Fri 11 Sept.
+Tom2trax is a house and disco artist based in United Kingdom, tracked on soundcheck, with 29 sets logged across Liverpool and Manchester. Often billed alongside Liam Oliver, James Greenwood and Kickin Pigeon. Next up: Liquidate, Manchester on Fri 11 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 11 Sept 2026 | Liquidate | Manchester |
+| Fri, 23 Oct 2026 | Eastern Bloc Records | Manchester |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Tom2trax is a house and disco artist based in United Kingdom, tracked on soundch
 
 Liam Oliver, James Greenwood, Kickin Pigeon
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tom2trax/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tom2trax/)*

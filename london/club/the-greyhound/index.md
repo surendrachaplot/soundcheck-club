@@ -1,14 +1,13 @@
 # The Greyhound
 
-The Greyhound is a music venue in London with 18 upcoming nights listed on soundcheck as of Thu, 10 Sept 2026; the next is "BRICKS N' MORTAR: GLOBAL CLUB, UK FUNKY, UK BASS, JUNGLE + MORE" on Thu, 10 Sept 2026.
+The Greyhound is a music venue in London with 17 upcoming nights listed on soundcheck as of Fri, 11 Sept 2026; the next is "Malice" on Fri, 11 Sept 2026.
 
-The Greyhound is a music venue in London listed on soundcheck. 18 upcoming nights, with line-ups including AJA, Albi & Kego, Alex Wilcox and Bobby Mac and 2 more. Browse upcoming dates, start times and who's playing. 109 Peckham High St, London SE15 5SE.
+The Greyhound is a music venue in London listed on soundcheck. 17 upcoming nights, with line-ups including Albi & Kego, Alex Wilcox, Bobby Mac and datSIM and 2 more. Browse upcoming dates, start times and who's playing. 109 Peckham High St, London SE15 5SE.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Thu, 10 Sept 2026 | BRICKS N' MORTAR: GLOBAL CLUB, UK FUNKY, UK BASS, JUNGLE + MORE | AJA |
 | Fri, 11 Sept 2026 | Malice |  |
 | Fri, 11 Sept 2026 | StandUP / The Greyhound London | Albi & Kego, G Belmonte, Oren (IT), Yuma (UK) |
 | Sat, 12 Sept 2026 | RELISH | Jackmack, Jamie Unknown, Joycey (2), Lex Hearth, Theon Bower |
@@ -18,9 +17,10 @@ The Greyhound is a music venue in London listed on soundcheck. 18 upcoming night
 | Fri, 25 Sept 2026 | Ohm Syndikaat (Upstairs Bar) |  |
 | Sat, 26 Sept 2026 | Gazebo (Day Party) | Gazebo DJs, datSIM |
 | Sat, 26 Sept 2026 | After Hours x NRG CRU: 160 & Beyond III |  |
+| Fri, 9 Oct 2026 | SLVA: The Greyhound | Bobby Mac, lorcan_ |
 
 ## Address
 
 109 Peckham High St, London SE15 5SE, London
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/the-greyhound/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/the-greyhound/)*

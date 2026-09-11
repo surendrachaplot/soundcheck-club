@@ -1,0 +1,28 @@
+# ERØXX
+
+ERØXX is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Fri, 11 Sept 2026, next at DETROIT CLUB, Barcelona on Fri, 2 Oct 2026.
+
+ERØXX is a techno and industrial artist tracked on soundcheck, with 27 sets logged across Barcelona and Malta. Often billed alongside Øxiyd, Luca Maier and MVGRI. Next up: DETROIT CLUB, Barcelona on Fri 2 Oct.
+
+## Upcoming shows
+
+| Date | Venue | City |
+| --- | --- | --- |
+| Fri, 2 Oct 2026 | DETROIT CLUB | Barcelona |
+
+## Recently played
+
+- DETROIT CLUB, Barcelona — Sat, 5 Sept 2026
+- Tigullio, Malta — Thu, 13 Aug 2026
+- DETROIT CLUB, Barcelona — Sat, 11 Jul 2026
+- DETROIT CLUB, Barcelona — Fri, 12 Jun 2026
+- DETROIT CLUB, Barcelona — Fri, 15 May 2026
+- DETROIT CLUB, Barcelona — Fri, 10 Apr 2026
+- City Hall, Barcelona — Sat, 28 Mar 2026
+- DETROIT CLUB, Barcelona — Fri, 27 Mar 2026
+
+## Shares bills with
+
+Øxiyd, Luca Maier, MVGRI
+
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/eroxx/)*

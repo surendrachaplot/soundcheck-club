@@ -1,6 +1,6 @@
 # AFTEROSSI
 
-AFTEROSSI is a Techno and Progressive House artist with 1 upcoming club date listed on soundcheck as of Thu, 10 Sept 2026, next at OCZKI, Warsaw on Sat, 12 Sept 2026.
+AFTEROSSI is a Techno and Progressive House artist with 1 upcoming club date listed on soundcheck as of Fri, 11 Sept 2026, next at OCZKI, Warsaw on Sat, 12 Sept 2026.
 
 AFTEROSSI is a techno and progressive house artist tracked on soundcheck, with 14 sets logged across Warsaw. Often billed alongside Angelo Mike, Konca and Kuvau. Next up: OCZKI, Warsaw on Sat 12 Sept.
 
@@ -25,4 +25,4 @@ AFTEROSSI is a techno and progressive house artist tracked on soundcheck, with 1
 
 Angelo Mike, Konca, Kuvau
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/afterossi/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/afterossi/)*

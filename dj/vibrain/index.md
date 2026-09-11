@@ -1,6 +1,6 @@
 # Vibrain
 
-Vibrain is a Techno and Club artist with 1 upcoming club date listed on soundcheck as of Thu, 10 Sept 2026, next at Drugstore Beograd, Belgrade on Fri, 11 Sept 2026.
+Vibrain is a Techno and Club artist with 1 upcoming club date listed on soundcheck as of Fri, 11 Sept 2026, next at Drugstore Beograd, Belgrade on Fri, 11 Sept 2026.
 
 Vibrain is a techno and club artist tracked on soundcheck, with 10 sets logged across Belgrade, Budapest and Malta. Often billed alongside Essio, aleksssa and Cevi. Next up: Drugstore Beograd, Belgrade on Fri 11 Sept.
 
@@ -25,4 +25,4 @@ Vibrain is a techno and club artist tracked on soundcheck, with 10 sets logged a
 
 Essio, aleksssa, Cevi
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/vibrain/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/vibrain/)*

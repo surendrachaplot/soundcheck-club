@@ -1,6 +1,6 @@
 # Chlär
 
-Chlär is a Techno and House artist with 11 upcoming club dates listed on soundcheck as of Thu, 10 Sept 2026, next at Le Kilowatt, Paris on Sat, 12 Sept 2026.
+Chlär is a Techno and House artist with 11 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at Le Kilowatt, Paris on Sat, 12 Sept 2026.
 
 Chlär is a techno and house artist tracked on soundcheck, with 251 sets logged across Aberdeen, Amsterdam, Antwerp and Athens and 56 more. Often billed alongside Alarico, Funk Assault and Freddy K. Next up: Le Kilowatt, Paris on Sat 12 Sept.
 
@@ -35,4 +35,4 @@ Chlär is a techno and house artist tracked on soundcheck, with 251 sets logged 
 
 Alarico, Funk Assault, Freddy K
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/chlar/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/chlar/)*

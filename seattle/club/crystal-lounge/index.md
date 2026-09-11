@@ -1,6 +1,6 @@
 # Crystal Lounge
 
-Crystal Lounge is a music venue in Seattle with 5 upcoming nights listed on soundcheck as of Thu, 10 Sept 2026; the next is "9/11 Belltown Art Walk Ft. Jade Lehman - DJ's Emily Song, Tek Jones, Miss Min. D" on Fri, 11 Sept 2026.
+Crystal Lounge is a music venue in Seattle with 5 upcoming nights listed on soundcheck as of Fri, 11 Sept 2026; the next is "9/11 Belltown Art Walk Ft. Jade Lehman - DJ's Emily Song, Tek Jones, Miss Min. D" on Fri, 11 Sept 2026.
 
 Crystal Lounge is a music venue in Seattle listed on soundcheck. 5 upcoming nights, with line-ups including Christine Michelle, Julie Herrera and Leira. Browse upcoming dates, start times and who's playing. 2008 1st Ave.
 
@@ -18,4 +18,4 @@ Crystal Lounge is a music venue in Seattle listed on soundcheck. 5 upcoming nigh
 
 2008 1st Ave, Seattle
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/seattle/club/crystal-lounge/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/seattle/club/crystal-lounge/)*

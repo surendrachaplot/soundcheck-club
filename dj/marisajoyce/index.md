@@ -1,6 +1,6 @@
 # Marisa Joyce
 
-Marisa Joyce is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 10 Sept 2026, next at Frieda's Büxe, Zurich on Sat, 12 Sept 2026.
+Marisa Joyce is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at Frieda's Büxe, Zurich on Sat, 12 Sept 2026.
 
 Marisa Joyce is a techno and house artist based in Switzerland, tracked on soundcheck, with 14 sets logged across Basel and Zurich. Often billed alongside MARCISM, GCOD and Galopp. Next up: Frieda's Büxe, Zurich on Sat 12 Sept.
 
@@ -26,4 +26,4 @@ Marisa Joyce is a techno and house artist based in Switzerland, tracked on sound
 
 MARCISM, GCOD, Galopp
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/marisajoyce/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/marisajoyce/)*

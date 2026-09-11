@@ -1,8 +1,8 @@
 # Jetti
 
-Jetti is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 10 Sept 2026, next at CLUB RAUM, Amsterdam on Fri, 11 Sept 2026.
+Jetti is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at CLUB RAUM, Amsterdam on Fri, 11 Sept 2026.
 
-Jetti is a techno and house artist tracked on soundcheck, with 56 sets logged across Amsterdam, Berlin, Cologne and Rotterdam and 2 more. Often billed alongside Post, Jeans (NL) and David Vunk. Next up: CLUB RAUM, Amsterdam on Fri 11 Sept.
+Jetti is a techno and house artist tracked on soundcheck, with 57 sets logged across Amsterdam, Berlin, Cologne and Rotterdam and 2 more. Often billed alongside Post, Jeans (NL) and David Vunk. Next up: CLUB RAUM, Amsterdam on Fri 11 Sept.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Jetti is a techno and house artist tracked on soundcheck, with 56 sets logged ac
 | --- | --- | --- |
 | Fri, 11 Sept 2026 | CLUB RAUM | Amsterdam |
 | Sat, 12 Sept 2026 | Phono Lake | Amsterdam |
+| Fri, 23 Oct 2026 | Skatecafe | Amsterdam |
 
 ## Recently played
 
@@ -26,4 +27,4 @@ Jetti is a techno and house artist tracked on soundcheck, with 56 sets logged ac
 
 Post, Jeans (NL), David Vunk
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jetti/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jetti/)*

@@ -1,6 +1,6 @@
 # Haus73
 
-Haus73 is a music venue in Hamburg with 9 upcoming nights listed on soundcheck as of Thu, 10 Sept 2026; the next is "SPLIT: SUBMASSIVE x GIVE ME A BREAK" on Fri, 11 Sept 2026.
+Haus73 is a music venue in Hamburg with 9 upcoming nights listed on soundcheck as of Fri, 11 Sept 2026; the next is "SPLIT: SUBMASSIVE x GIVE ME A BREAK" on Fri, 11 Sept 2026.
 
 Haus73 is a music venue in Hamburg listed on soundcheck. 9 upcoming nights, with line-ups including ACID B4RBIE, aitch, eira haul and G-Lamour and 2 more. Browse upcoming dates, start times and who's playing. Schulterblatt 73, 20357 Hamburg, Germany.
 
@@ -22,4 +22,4 @@ Haus73 is a music venue in Hamburg listed on soundcheck. 9 upcoming nights, with
 
 Schulterblatt 73, 20357 Hamburg, Germany, Hamburg
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/hamburg/club/haus73/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/hamburg/club/haus73/)*

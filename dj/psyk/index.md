@@ -1,6 +1,6 @@
 # Psyk
 
-Psyk is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Thu, 10 Sept 2026, next at Fvtvr, Paris on Fri, 18 Sept 2026.
+Psyk is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at Fvtvr, Paris on Fri, 18 Sept 2026.
 
 Psyk is a techno and house artist based in Spain, tracked on soundcheck, with 105 sets logged across Amsterdam, Athens, Barcelona and Berlin and 33 more. Often billed alongside ORBE, Luigi Tozzi and Laura BCR. Next up: Fvtvr, Paris on Fri 18 Sept.
 
@@ -30,4 +30,4 @@ Psyk is a techno and house artist based in Spain, tracked on soundcheck, with 10
 
 ORBE, Luigi Tozzi, Laura BCR
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/psyk/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/psyk/)*

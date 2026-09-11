@@ -1,6 +1,6 @@
 # Florian Hecker
 
-Florian Hecker is a Experimental artist with 2 upcoming club dates listed on soundcheck as of Thu, 10 Sept 2026, next at Haus der Kunst, Munich on Fri, 11 Sept 2026.
+Florian Hecker is a Experimental artist with 2 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at Haus der Kunst, Munich on Fri, 11 Sept 2026.
 
 Florian Hecker is an experimental artist tracked on soundcheck, with 3 sets logged across Munich. Often billed alongside Rashad Becker. Next up: Haus der Kunst, Munich on Fri 11 Sept.
 
@@ -19,4 +19,4 @@ Florian Hecker is an experimental artist tracked on soundcheck, with 3 sets logg
 
 Rashad Becker
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/florianhecker/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/florianhecker/)*

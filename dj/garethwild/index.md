@@ -1,6 +1,6 @@
 # Gareth Wild
 
-Gareth Wild is a Techno and Acid artist with 1 upcoming club date listed on soundcheck as of Thu, 10 Sept 2026, next at La Cité Fertile, Paris on Sat, 12 Sept 2026.
+Gareth Wild is a Techno and Acid artist with 1 upcoming club date listed on soundcheck as of Fri, 11 Sept 2026, next at La Cité Fertile, Paris on Sat, 12 Sept 2026.
 
 Gareth Wild is a techno and acid artist tracked on soundcheck, with 23 sets logged across Barcelona, Berlin, Glasgow and Leeds and 5 more. Often billed alongside Kessie, Alba Heidari and James Newmarch. Next up: La Cité Fertile, Paris on Sat 12 Sept.
 
@@ -25,4 +25,4 @@ Gareth Wild is a techno and acid artist tracked on soundcheck, with 23 sets logg
 
 Kessie, Alba Heidari, James Newmarch
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/garethwild/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/garethwild/)*

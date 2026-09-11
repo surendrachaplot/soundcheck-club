@@ -1,6 +1,6 @@
 # Young Clubber
 
-Young Clubber is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 10 Sept 2026, next at Ephigenia, Sao Paulo on Fri, 11 Sept 2026.
+Young Clubber is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 11 Sept 2026, next at Ephigenia, Sao Paulo on Fri, 11 Sept 2026.
 
 Young Clubber is a house and techno artist based in Brazil, tracked on soundcheck, with 15 sets logged across Barcelona and Saopaulo. Often billed alongside Suelen Mesmo, Cesrv and ERAM (BR). Next up: Ephigenia, Saopaulo on Fri 11 Sept.
 
@@ -25,4 +25,4 @@ Young Clubber is a house and techno artist based in Brazil, tracked on soundchec
 
 Suelen Mesmo, Cesrv, ERAM (BR)
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/youngclubber/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/youngclubber/)*

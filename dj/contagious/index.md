@@ -1,6 +1,6 @@
 # CONTAGIOUS
 
-CONTAGIOUS is a Experimental artist with 1 upcoming club date listed on soundcheck as of Thu, 10 Sept 2026, next at Import Export, Munich on Fri, 11 Sept 2026.
+CONTAGIOUS is a Experimental artist with 1 upcoming club date listed on soundcheck as of Fri, 11 Sept 2026, next at Import Export, Munich on Fri, 11 Sept 2026.
 
 CONTAGIOUS is an experimental artist based in Germany, tracked on soundcheck, with 5 sets logged across Berlin and Munich. Often billed alongside Mieko Suzuki and Rabih Beaini. Next up: Import Export, Munich on Fri 11 Sept.
 
@@ -21,4 +21,4 @@ CONTAGIOUS is an experimental artist based in Germany, tracked on soundcheck, wi
 
 Mieko Suzuki, Rabih Beaini
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/contagious/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/contagious/)*

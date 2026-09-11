@@ -1,6 +1,6 @@
 # CAIVA
 
-CAIVA is a Techno and Trance artist with 4 upcoming club dates listed on soundcheck as of Thu, 10 Sept 2026, next at RSO.BERLIN, Berlin on Sat, 19 Sept 2026.
+CAIVA is a Techno and Trance artist with 4 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at RSO.BERLIN, Berlin on Sat, 19 Sept 2026.
 
 CAIVA is a techno and trance artist tracked on soundcheck, with 160 sets logged across Amsterdam, Barcelona, Basel and Berlin and 36 more. Often billed alongside Frederic., Part Time Killer and Lacchesi. Next up: RSO.BERLIN, Berlin on Sat 19 Sept.
 
@@ -28,4 +28,4 @@ CAIVA is a techno and trance artist tracked on soundcheck, with 160 sets logged 
 
 Frederic., Part Time Killer, Lacchesi
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/caiva/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/caiva/)*

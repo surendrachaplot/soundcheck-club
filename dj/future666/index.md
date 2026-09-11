@@ -1,6 +1,6 @@
 # future.666
 
-future.666 is a Techno and Trance artist with 11 upcoming club dates listed on soundcheck as of Thu, 10 Sept 2026, next at TBA - Brussels, Brussels on Fri, 11 Sept 2026.
+future.666 is a Techno and Trance artist with 11 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at TBA - Brussels, Brussels on Fri, 11 Sept 2026.
 
 future.666 is a techno and trance artist tracked on soundcheck, with 225 sets logged across Amsterdam, Athens, Barcelona and Basel and 55 more. Often billed alongside DJ Hyperdrive, ÜBERKIKZ and Adrian Mills. Next up: TBA - Brussels, Brussels on Fri 11 Sept.
 
@@ -35,4 +35,4 @@ future.666 is a techno and trance artist tracked on soundcheck, with 225 sets lo
 
 DJ Hyperdrive, ÜBERKIKZ, Adrian Mills
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/future666/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/future666/)*

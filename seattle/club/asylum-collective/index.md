@@ -1,6 +1,6 @@
 # Asylum Collective
 
-Asylum Collective is a music venue in Seattle with 2 upcoming nights listed on soundcheck as of Thu, 10 Sept 2026; the next is "SEASONAL DEPRESSION LAUNCH PARTY - darkwave dance" on Fri, 11 Sept 2026.
+Asylum Collective is a music venue in Seattle with 2 upcoming nights listed on soundcheck as of Fri, 11 Sept 2026; the next is "SEASONAL DEPRESSION LAUNCH PARTY - darkwave dance" on Fri, 11 Sept 2026.
 
 Asylum Collective is a music venue in Seattle listed on soundcheck. 2 upcoming nights. Browse upcoming dates, start times and who's playing. 108 S Jackson St, Ste B, Seattle, WA 98104.
 
@@ -15,4 +15,4 @@ Asylum Collective is a music venue in Seattle listed on soundcheck. 2 upcoming n
 
 108 S Jackson St, Ste B, Seattle, WA 98104, Seattle
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/seattle/club/asylum-collective/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/seattle/club/asylum-collective/)*

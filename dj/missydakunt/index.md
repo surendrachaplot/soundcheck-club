@@ -1,6 +1,6 @@
 # Missy Da Kunt
 
-Missy Da Kunt is a House and Ballroom artist with 1 upcoming club date listed on soundcheck as of Thu, 10 Sept 2026, next at Pamela Club, Paris on Fri, 11 Sept 2026.
+Missy Da Kunt is a House and Ballroom artist with 1 upcoming club date listed on soundcheck as of Fri, 11 Sept 2026, next at Pamela Club, Paris on Fri, 11 Sept 2026.
 
 Missy Da Kunt is a house and ballroom artist tracked on soundcheck, with 19 sets logged across Brussels, Paris, Porto and Sydney. Often billed alongside Broodoo Ramses, Slim Soledad and BAE BAE. Next up: Pamela Club, Paris on Fri 11 Sept.
 
@@ -25,4 +25,4 @@ Missy Da Kunt is a house and ballroom artist tracked on soundcheck, with 19 sets
 
 Broodoo Ramses, Slim Soledad, BAE BAE
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/missydakunt/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/missydakunt/)*

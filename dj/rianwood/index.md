@@ -1,6 +1,6 @@
 # Rian Wood
 
-Rian Wood is a Techno and Industrial artist with 2 upcoming club dates listed on soundcheck as of Thu, 10 Sept 2026, next at TBA - Cacao Torino, Turin on Sun, 13 Sept 2026.
+Rian Wood is a Techno and Industrial artist with 2 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at TBA - Cacao Torino, Turin on Sun, 13 Sept 2026.
 
 Rian Wood is a techno and industrial artist based in Italy, tracked on soundcheck, with 69 sets logged across Barcelona, Berlin, Brussels and Chicago and 23 more. Often billed alongside 999999999, cassandrah and Rispoli Benito. Next up: TBA - Cacao Torino, Turin on Sun 13 Sept.
 
@@ -26,4 +26,4 @@ Rian Wood is a techno and industrial artist based in Italy, tracked on soundchec
 
 999999999, cassandrah, Rispoli Benito
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/rianwood/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/rianwood/)*

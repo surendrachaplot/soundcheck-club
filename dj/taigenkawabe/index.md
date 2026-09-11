@@ -1,6 +1,6 @@
 # Taigen Kawabe
 
-Taigen Kawabe is a Experimental and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 10 Sept 2026, next at West Harlem, Kyoto on Sat, 3 Oct 2026.
+Taigen Kawabe is a Experimental and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 11 Sept 2026, next at West Harlem, Kyoto on Sat, 3 Oct 2026.
 
 Taigen Kawabe is an experimental and techno artist tracked on soundcheck, with 42 sets logged across Kyoto, London, Osaka and Tokyo. Often billed alongside Foodman, HSC (1) and Ozwick. Next up: West Harlem, Kyoto on Sat 3 Oct.
 
@@ -25,4 +25,4 @@ Taigen Kawabe is an experimental and techno artist tracked on soundcheck, with 4
 
 Foodman, HSC (1), Ozwick
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/taigenkawabe/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/taigenkawabe/)*

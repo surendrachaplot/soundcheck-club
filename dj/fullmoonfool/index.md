@@ -1,6 +1,6 @@
 # Full Moon Fool
 
-Full Moon Fool is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Thu, 10 Sept 2026, next at Bastet, Philadelphia on Fri, 11 Sept 2026.
+Full Moon Fool is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Fri, 11 Sept 2026, next at Bastet, Philadelphia on Fri, 11 Sept 2026.
 
 Full Moon Fool is a house and disco artist tracked on soundcheck, with 18 sets logged across Philadelphia. Often billed alongside G I N A, Mario Cotto and Zillas on Acid. Next up: Bastet, Philadelphia on Fri 11 Sept.
 
@@ -25,4 +25,4 @@ Full Moon Fool is a house and disco artist tracked on soundcheck, with 18 sets l
 
 G I N A, Mario Cotto, Zillas on Acid
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/fullmoonfool/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/fullmoonfool/)*

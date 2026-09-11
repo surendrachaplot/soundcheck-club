@@ -1,15 +1,15 @@
 # Kiju
 
-Kiju is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 10 Sept 2026, next at TBA - outdoors, Montreal on Fri, 18 Sept 2026.
+Kiju is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at Sala Rossa, La, Montreal on Fri, 18 Sept 2026.
 
-Kiju is a techno and house artist tracked on soundcheck, with 64 sets logged across Montreal, Newyorkcity and Toronto. Often billed alongside coldchainlogistics, Sako (2) and Evita. Next up: TBA - outdoors, Montreal on Fri 18 Sept.
+Kiju is a techno and house artist tracked on soundcheck, with 64 sets logged across Montreal, Newyorkcity and Toronto. Often billed alongside coldchainlogistics, Sako (2) and Evita. Next up: Sala Rossa, La, Montreal on Fri 18 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 18 Sept 2026 | TBA - outdoors | Montreal |
 | Fri, 18 Sept 2026 | Sala Rossa, La | Montreal |
+| Sat, 19 Sept 2026 | TBA - outdoors | Montreal |
 
 ## Recently played
 
@@ -26,4 +26,4 @@ Kiju is a techno and house artist tracked on soundcheck, with 64 sets logged acr
 
 coldchainlogistics, Sako (2), Evita
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kiju/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kiju/)*

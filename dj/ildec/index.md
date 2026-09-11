@@ -1,13 +1,14 @@
 # ildec
 
-ildec is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 10 Sept 2026, next at WOMB, Tokyo on Fri, 25 Sept 2026.
+ildec is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at Hertz, Seoul on Sat, 19 Sept 2026.
 
-ildec is a house and techno artist tracked on soundcheck, with 90 sets logged across Barcelona, Berlin, Brussels and Cologne and 11 more. Often billed alongside Javier Carballo, LM and Alex (ES). Next up: WOMB, Tokyo on Fri 25 Sept.
+ildec is a house and techno artist tracked on soundcheck, with 91 sets logged across Barcelona, Berlin, Brussels and Cologne and 11 more. Often billed alongside Javier Carballo, LM and Alex (ES). Next up: Hertz, Seoul on Sat 19 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 19 Sept 2026 | Hertz | Seoul |
 | Fri, 25 Sept 2026 | WOMB | Tokyo |
 | Sat, 10 Oct 2026 | Cadavra | Madrid |
 
@@ -26,4 +27,4 @@ ildec is a house and techno artist tracked on soundcheck, with 90 sets logged ac
 
 Javier Carballo, LM, Alex (ES)
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ildec/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ildec/)*

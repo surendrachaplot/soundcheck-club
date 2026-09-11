@@ -1,6 +1,6 @@
 # Alarico
 
-Alarico is a Techno and House artist with 16 upcoming club dates listed on soundcheck as of Thu, 10 Sept 2026, next at BASIS, Utrecht on Fri, 11 Sept 2026.
+Alarico is a Techno and House artist with 16 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at BASIS, Utrecht on Fri, 11 Sept 2026.
 
 Alarico is a techno and house artist tracked on soundcheck, with 267 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 69 more. Often billed alongside Chlär, Funk Assault and Yanamaste. Next up: BASIS, Utrecht on Fri 11 Sept.
 
@@ -36,4 +36,4 @@ Alarico is a techno and house artist tracked on soundcheck, with 267 sets logged
 
 Chlär, Funk Assault, Yanamaste
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/alarico/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/alarico/)*

@@ -1,8 +1,8 @@
 # HIDRA
 
-HIDRA is a House and Afro House artist with 2 upcoming club dates listed on soundcheck as of Thu, 10 Sept 2026, next at The Great Northern, San Francisco/Oakland on Sat, 12 Sept 2026.
+HIDRA is a House and Afro House artist with 3 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at The Great Northern, San Francisco/Oakland on Sat, 12 Sept 2026.
 
-HIDRA is a house and afro house artist based in Italy, tracked on soundcheck, with 101 sets logged across Buenosaires and Sanfrancisco. Often billed alongside Emanate, Jeff Straw and DJ M3. Next up: The Great Northern, Sanfrancisco on Sat 12 Sept.
+HIDRA is a house and afro house artist based in Italy, tracked on soundcheck, with 102 sets logged across Buenosaires and Sanfrancisco. Often billed alongside Emanate, Jeff Straw and DJ M3. Next up: The Great Northern, Sanfrancisco on Sat 12 Sept.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ HIDRA is a house and afro house artist based in Italy, tracked on soundcheck, wi
 | --- | --- | --- |
 | Sat, 12 Sept 2026 | The Great Northern | San Francisco/Oakland |
 | Sat, 12 Sept 2026 | The Great Northern | San Francisco/Oakland |
+| Thu, 1 Oct 2026 | Mothership | San Francisco/Oakland |
 
 ## Recently played
 
@@ -26,4 +27,4 @@ HIDRA is a house and afro house artist based in Italy, tracked on soundcheck, wi
 
 Emanate, Jeff Straw, DJ M3
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/hidra/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/hidra/)*

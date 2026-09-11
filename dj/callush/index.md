@@ -1,6 +1,6 @@
 # CALLUSH
 
-CALLUSH is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Thu, 10 Sept 2026, next at Lehmann Club, Stuttgart on Sat, 26 Sept 2026.
+CALLUSH is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at Lehmann Club, Stuttgart on Sat, 26 Sept 2026.
 
 CALLUSH is a techno and house artist tracked on soundcheck, with 116 sets logged across Amsterdam, Antwerp, Barcelona and Basel and 41 more. Often billed alongside DYEN, NOVAH and Afem Syko. Next up: Lehmann Club, Stuttgart on Sat 26 Sept.
 
@@ -27,4 +27,4 @@ CALLUSH is a techno and house artist tracked on soundcheck, with 116 sets logged
 
 DYEN, NOVAH, Afem Syko
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/callush/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/callush/)*

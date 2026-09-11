@@ -1,6 +1,6 @@
 # Baka G
 
-Baka G is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Thu, 10 Sept 2026, next at La Java, Paris on Fri, 11 Sept 2026.
+Baka G is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at La Java, Paris on Fri, 11 Sept 2026.
 
 Baka G is a house and disco artist based in Belgium, tracked on soundcheck, with 49 sets logged across Amsterdam, Antwerp, Basel and Berlin and 8 more. Often billed alongside Crowd Control, Maggy Smiss and Cinthie. Next up: La Java, Paris on Fri 11 Sept.
 
@@ -26,4 +26,4 @@ Baka G is a house and disco artist based in Belgium, tracked on soundcheck, with
 
 Crowd Control, Maggy Smiss, Cinthie
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bakag/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bakag/)*

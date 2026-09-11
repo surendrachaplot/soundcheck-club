@@ -1,8 +1,8 @@
 # HOVR
 
-HOVR is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Thu, 10 Sept 2026, next at gART.n, Berlin on Sat, 12 Sept 2026.
+HOVR is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at gART.n, Berlin on Sat, 12 Sept 2026.
 
-HOVR is a techno and house artist tracked on soundcheck, with 65 sets logged across Amsterdam, Auckland, Bali and Barcelona and 16 more. Often billed alongside Oliver Koletzki, Frida Darko and Hidden Empire. Next up: gART.n, Berlin on Sat 12 Sept.
+HOVR is a techno and house artist tracked on soundcheck, with 66 sets logged across Amsterdam, Auckland, Bali and Barcelona and 16 more. Often billed alongside Oliver Koletzki, Frida Darko and Hidden Empire. Next up: gART.n, Berlin on Sat 12 Sept.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ HOVR is a techno and house artist tracked on soundcheck, with 65 sets logged acr
 | Sat, 12 Sept 2026 | gART.n | Berlin |
 | Sat, 17 Oct 2026 | Signal | New York City |
 | Sat, 24 Oct 2026 | THE OTHER SIDE | Amsterdam |
+| Sat, 24 Oct 2026 | WestWeelde | Amsterdam |
 
 ## Recently played
 
@@ -27,4 +28,4 @@ HOVR is a techno and house artist tracked on soundcheck, with 65 sets logged acr
 
 Oliver Koletzki, Frida Darko, Hidden Empire
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/hovr/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/hovr/)*

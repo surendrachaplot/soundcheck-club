@@ -1,14 +1,13 @@
 # XOYO
 
-XOYO is a music venue in London with 24 upcoming nights listed on soundcheck as of Thu, 10 Sept 2026; the next is "Cherry - Disco, House & Electronic" on Thu, 10 Sept 2026.
+XOYO is a music venue in London with 26 upcoming nights listed on soundcheck as of Fri, 11 Sept 2026; the next is "Zigzag: Lauren Lo Sung, Caleb Laurenson b2b Danny P, Jackyboom & MUNNI" on Sat, 12 Sept 2026.
 
-XOYO is a music venue in London listed on soundcheck. 24 upcoming nights, with line-ups including Alex Culross, Alex P, AR (UK) and Beezo and 2 more. Browse upcoming dates, start times and who's playing. 32-37 Cowper Street; Shoreditch; London EC2A 4AP; United Kingdom.
+XOYO is a music venue in London listed on soundcheck. 26 upcoming nights, with line-ups including Alex Culross, Alex P, AR (UK) and Beezo and 2 more. Browse upcoming dates, start times and who's playing. 32-37 Cowper Street; Shoreditch; London EC2A 4AP; United Kingdom.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Thu, 10 Sept 2026 | Cherry - Disco, House & Electronic | BTAY |
 | Sat, 12 Sept 2026 | Zigzag: Lauren Lo Sung, Caleb Laurenson b2b Danny P, Jackyboom & MUNNI | Jackyboom, Lauren Lo Sung, MUNNI |
 | Sat, 12 Sept 2026 | Siesta - Summer Closing Party | AR (UK), Beezo, DJ Majesty, Jerome Six, N Fostell, Shenin Amara, Supa D |
 | Mon, 14 Sept 2026 | MOTION Every Monday |  |
@@ -18,9 +17,10 @@ XOYO is a music venue in London listed on soundcheck. 24 upcoming nights, with l
 | Wed, 23 Sept 2026 | PARADOX |  |
 | Sat, 26 Sept 2026 | Clouds, Jezza & Jod, Tasha MP4 + Special Guest | Clouds, Jezza & Jod |
 | Mon, 28 Sept 2026 | MOTION Every Monday |  |
+| Wed, 30 Sept 2026 | PARADOX |  |
 
 ## Address
 
 32-37 Cowper Street; Shoreditch; London EC2A 4AP; United Kingdom, London
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/xoyo/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/xoyo/)*

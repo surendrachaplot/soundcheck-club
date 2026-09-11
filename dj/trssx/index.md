@@ -1,6 +1,6 @@
 # TRSSX
 
-TRSSX is a Techno and Experimental artist with 3 upcoming club dates listed on soundcheck as of Thu, 10 Sept 2026, next at Howard Assembly Room, Leeds on Fri, 11 Sept 2026.
+TRSSX is a Techno and Experimental artist with 3 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at Howard Assembly Room, Leeds on Fri, 11 Sept 2026.
 
 TRSSX is a techno and experimental artist based in Poland, tracked on soundcheck, with 49 sets logged across Athens, Dusseldorf, Edinburgh and Glasgow and 3 more. Often billed alongside Brandon Lee Vear, JayJay and Alliyah Enyo. Next up: Howard Assembly Room, Leeds on Fri 11 Sept.
 
@@ -27,4 +27,4 @@ TRSSX is a techno and experimental artist based in Poland, tracked on soundcheck
 
 Brandon Lee Vear, JayJay, Alliyah Enyo
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/trssx/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/trssx/)*

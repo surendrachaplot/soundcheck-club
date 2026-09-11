@@ -1,6 +1,6 @@
 # The Tokyo Club
 
-The Tokyo Club is a music venue in Tokyo with 1 upcoming night listed on soundcheck as of Thu, 10 Sept 2026; the next is "BOUND" on Sat, 12 Sept 2026.
+The Tokyo Club is a music venue in Tokyo with 1 upcoming night listed on soundcheck as of Fri, 11 Sept 2026; the next is "BOUND" on Sat, 12 Sept 2026.
 
 The Tokyo Club is a music venue in Tokyo listed on soundcheck. 1 upcoming night, with line-ups including Chamcham and mitokon. Browse upcoming dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ The Tokyo Club is a music venue in Tokyo listed on soundcheck. 1 upcoming night,
 | --- | --- | --- |
 | Sat, 12 Sept 2026 | BOUND | Chamcham, mitokon |
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/the-tokyo-club/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/the-tokyo-club/)*

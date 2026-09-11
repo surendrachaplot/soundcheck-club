@@ -1,8 +1,8 @@
 # Future Yard
 
-Future Yard is a music venue in Liverpool with 23 upcoming nights listed on soundcheck as of Thu, 10 Sept 2026; the next is "Future Yard presents Smoove & Turrell" on Fri, 18 Sept 2026.
+Future Yard is a music venue in Liverpool with 22 upcoming nights listed on soundcheck as of Fri, 11 Sept 2026; the next is "Future Yard presents Smoove & Turrell" on Fri, 18 Sept 2026.
 
-Future Yard is a music venue in Liverpool listed on soundcheck. 23 upcoming nights, with line-ups including African Head Charge, Bodega, corto.alto and DJ Andy Smith and 2 more. Browse upcoming dates, start times and who's playing. 75 Argyle Street, Birkenhead, Merseyside, CH41 6AB.
+Future Yard is a music venue in Liverpool listed on soundcheck. 22 upcoming nights, with line-ups including African Head Charge, Bodega, corto.alto and DJ Andy Smith and 2 more. Browse upcoming dates, start times and who's playing. 75 Argyle Street, Birkenhead, Merseyside, CH41 6AB.
 
 ## What's on
 
@@ -16,11 +16,11 @@ Future Yard is a music venue in Liverpool listed on soundcheck. 23 upcoming nigh
 | Sat, 10 Oct 2026 | Future Yard presents Ibibio Sound Machine |  |
 | Wed, 21 Oct 2026 | Future Yard presents Uche Yara |  |
 | Fri, 23 Oct 2026 | Future Yard presents Annie-Claude Deschênes |  |
-| Sat, 24 Oct 2026 | Grandmaster Flash - '4 Elements Tour' | Grandmaster Flash |
 | Sun, 25 Oct 2026 | Future Yard presents Squid | Squid |
+| Thu, 29 Oct 2026 | Future Yard presents Saigon Soul Revival |  |
 
 ## Address
 
 75 Argyle Street, Birkenhead, Merseyside, CH41 6AB, Liverpool
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/liverpool/club/future-yard/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/liverpool/club/future-yard/)*

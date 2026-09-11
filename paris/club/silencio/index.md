@@ -1,6 +1,6 @@
 # Silencio
 
-Silencio is a music venue in Paris with 3 upcoming nights listed on soundcheck as of Thu, 10 Sept 2026; the next is "Carl Craig" on Fri, 11 Sept 2026.
+Silencio is a music venue in Paris with 3 upcoming nights listed on soundcheck as of Fri, 11 Sept 2026; the next is "Carl Craig" on Fri, 11 Sept 2026.
 
 Silencio is a music venue in Paris listed on soundcheck. 3 upcoming nights, with line-ups including Carl Craig and RYX (1). Browse upcoming dates, start times and who's playing. 142 rue Montmartre Paris.
 
@@ -16,4 +16,4 @@ Silencio is a music venue in Paris listed on soundcheck. 3 upcoming nights, with
 
 142 rue Montmartre Paris, Paris
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/paris/club/silencio/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/paris/club/silencio/)*

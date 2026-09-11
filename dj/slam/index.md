@@ -1,6 +1,6 @@
 # Slam
 
-Slam is a Techno and Dub Techno artist with 6 upcoming club dates listed on soundcheck as of Thu, 10 Sept 2026, next at Sub Club, Glasgow on Fri, 11 Sept 2026.
+Slam is a Techno and Dub Techno artist with 6 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at Sub Club, Glasgow on Fri, 11 Sept 2026.
 
 Slam is a techno and dub techno artist tracked on soundcheck, with 137 sets logged across Aberdeen, Barcelona, Belfast and Berlin and 30 more. Often billed alongside KAAI, Kairogen and Nightwave. Next up: Sub Club, Glasgow on Fri 11 Sept.
 
@@ -30,4 +30,4 @@ Slam is a techno and dub techno artist tracked on soundcheck, with 137 sets logg
 
 KAAI, Kairogen, Nightwave
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/slam/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/slam/)*

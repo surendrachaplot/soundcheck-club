@@ -1,8 +1,8 @@
 # Method
 
-Method is a Drum & Bass and Bass artist with 5 upcoming club dates listed on soundcheck as of Thu, 10 Sept 2026, next at Thuishaven, Amsterdam on Sat, 12 Sept 2026.
+Method is a Drum & Bass and Bass artist with 7 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at Thuishaven, Amsterdam on Sat, 12 Sept 2026.
 
-Method is a drum & bass and bass artist tracked on soundcheck, with 10 sets logged across Amsterdam, Antwerp, Bali and Barcelona and 3 more. Often billed alongside Amount (DE), Debit and James Carter. Next up: Thuishaven, Amsterdam on Sat 12 Sept.
+Method is a drum & bass and bass artist tracked on soundcheck, with 12 sets logged across Amsterdam, Antwerp, Bali and Barcelona and 5 more. Often billed alongside Amount (DE), Debit and APP. Next up: Thuishaven, Amsterdam on Sat 12 Sept.
 
 ## Upcoming shows
 
@@ -13,6 +13,8 @@ Method is a drum & bass and bass artist tracked on soundcheck, with 10 sets logg
 | Sat, 12 Sept 2026 | F Lounge | Bali |
 | Sat, 12 Sept 2026 | St J Cyber Cafe | Los Angeles |
 | Sat, 12 Sept 2026 | Under the K Bridge | New York City |
+| Sat, 12 Sept 2026 | 1500m2 | Warsaw |
+| Sat, 12 Sept 2026 | 10 Critics | Detroit |
 
 ## Recently played
 
@@ -24,6 +26,6 @@ Method is a drum & bass and bass artist tracked on soundcheck, with 10 sets logg
 
 ## Shares bills with
 
-Amount (DE), Debit, James Carter
+Amount (DE), Debit, APP
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/method/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/method/)*

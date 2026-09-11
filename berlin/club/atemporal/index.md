@@ -1,13 +1,14 @@
 # Atemporal
 
-Atemporal is a music venue in Berlin with 5 upcoming nights listed on soundcheck as of Thu, 10 Sept 2026; the next is "Issued Nights Vol. 9: Berlin" on Wed, 16 Sept 2026.
+Atemporal is a music venue in Berlin with 6 upcoming nights listed on soundcheck as of Fri, 11 Sept 2026; the next is "GAKKO live performance as part of IN PARALLEL / Currents Design Festival Berlin" on Sat, 12 Sept 2026.
 
-Atemporal is a music venue in Berlin listed on soundcheck. 5 upcoming nights, with line-ups including oscargvz. Browse upcoming dates, start times and who's playing. Boxhagener Str. 96 1st floor left, 10245 Berlin.
+Atemporal is a music venue in Berlin listed on soundcheck. 6 upcoming nights, with line-ups including GAKKO and oscargvz. Browse upcoming dates, start times and who's playing. Boxhagener Str. 96 1st floor left, 10245 Berlin.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
+| Sat, 12 Sept 2026 | GAKKO live performance as part of IN PARALLEL / Currents Design Festival Berlin | GAKKO |
 | Wed, 16 Sept 2026 | Issued Nights Vol. 9: Berlin |  |
 | Sat, 19 Sept 2026 | Atemporal presents: Signal Deluxe & oscargvz | oscargvz |
 | Mon, 21 Sept 2026 | Environments for Dreaming, Sound & Rest |  |
@@ -18,4 +19,4 @@ Atemporal is a music venue in Berlin listed on soundcheck. 5 upcoming nights, wi
 
 Boxhagener Str. 96 1st floor left, 10245 Berlin, Berlin
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/atemporal/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/atemporal/)*

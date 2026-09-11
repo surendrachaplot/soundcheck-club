@@ -1,6 +1,6 @@
 # DJ Magal
 
-DJ Magal is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 10 Sept 2026, next at Ephigenia, Sao Paulo on Fri, 11 Sept 2026.
+DJ Magal is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 11 Sept 2026, next at Ephigenia, Sao Paulo on Fri, 11 Sept 2026.
 
 DJ Magal is a house and techno artist based in Brazil, tracked on soundcheck, with 22 sets logged across Saopaulo. Often billed alongside Vermelho, Andre Salata and Brune. Next up: Ephigenia, Saopaulo on Fri 11 Sept.
 
@@ -25,4 +25,4 @@ DJ Magal is a house and techno artist based in Brazil, tracked on soundcheck, wi
 
 Vermelho, Andre Salata, Brune
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djmagal/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djmagal/)*

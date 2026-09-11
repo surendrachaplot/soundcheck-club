@@ -1,6 +1,6 @@
 # Will Renuart
 
-Will Renuart is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Thu, 10 Sept 2026, next at Mana Wynwood, Miami on Fri, 16 Oct 2026.
+Will Renuart is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at Mana Wynwood, Miami on Fri, 16 Oct 2026.
 
 Will Renuart is a house and techno artist based in United States of America, tracked on soundcheck, with 25 sets logged across Austin, Berlin, Detroit and Miami and 3 more. Often billed alongside Terence Tabeau, Danny Daze and Inbal. Next up: Mana Wynwood, Miami on Fri 16 Oct.
 
@@ -27,4 +27,4 @@ Will Renuart is a house and techno artist based in United States of America, tra
 
 Terence Tabeau, Danny Daze, Inbal
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/willrenuart/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/willrenuart/)*

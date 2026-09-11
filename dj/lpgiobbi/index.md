@@ -1,13 +1,14 @@
 # LP Giobbi
 
-LP Giobbi is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Thu, 10 Sept 2026, next at Wollman Rink, New York City on Fri, 2 Oct 2026.
+LP Giobbi is a House and Tech House artist with 3 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at TBA - Mandarine Tent, Punta Carrasco, Buenos Aires on Sat, 12 Sept 2026.
 
-LP Giobbi is a house and tech house artist tracked on soundcheck, with 163 sets logged across Amsterdam, Athens, Auckland and Austin and 42 more. Often billed alongside DJ Tennis, AMÉMÉ and Purple Disco Machine. Next up: Wollman Rink, Newyorkcity on Fri 2 Oct.
+LP Giobbi is a house and tech house artist tracked on soundcheck, with 164 sets logged across Amsterdam, Athens, Auckland and Austin and 43 more. Often billed alongside DJ Tennis, AMÉMÉ and Purple Disco Machine. Next up: TBA - Mandarine Tent, Punta Carrasco, Buenosaires on Sat 12 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 12 Sept 2026 | TBA - Mandarine Tent, Punta Carrasco | Buenos Aires |
 | Fri, 2 Oct 2026 | Wollman Rink | New York City |
 | Sat, 3 Oct 2026 | Santa Monica Pier | Los Angeles |
 
@@ -26,4 +27,4 @@ LP Giobbi is a house and tech house artist tracked on soundcheck, with 163 sets 
 
 DJ Tennis, AMÉMÉ, Purple Disco Machine
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lpgiobbi/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lpgiobbi/)*

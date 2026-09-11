@@ -1,6 +1,6 @@
 # Jason Kendig
 
-Jason Kendig is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Thu, 10 Sept 2026, next at Underground SF, San Francisco/Oakland on Fri, 11 Sept 2026.
+Jason Kendig is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at Underground SF, San Francisco/Oakland on Fri, 11 Sept 2026.
 
 Jason Kendig is a techno and house artist based in United States of America, tracked on soundcheck, with 77 sets logged across Bali, Berlin, Chicago and Detroit and 12 more. Often billed alongside Kilopatrah Jones, Auspex and Cosmo (NY). Next up: Underground SF, Sanfrancisco on Fri 11 Sept.
 
@@ -27,4 +27,4 @@ Jason Kendig is a techno and house artist based in United States of America, tra
 
 Kilopatrah Jones, Auspex, Cosmo (NY)
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jasonkendig/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jasonkendig/)*

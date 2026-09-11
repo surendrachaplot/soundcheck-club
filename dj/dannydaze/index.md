@@ -1,6 +1,6 @@
 # Danny Daze
 
-Danny Daze is a House and Techno artist with 7 upcoming club dates listed on soundcheck as of Thu, 10 Sept 2026, next at Phono Lake, Amsterdam on Sat, 12 Sept 2026.
+Danny Daze is a House and Techno artist with 7 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at Phono Lake, Amsterdam on Sat, 12 Sept 2026.
 
 Danny Daze is a house and techno artist tracked on soundcheck, with 160 sets logged across Amsterdam, Austin, Barcelona and Berlin and 27 more. Often billed alongside Will Renuart, Jonny From Space and Nick León. Next up: Phono Lake, Amsterdam on Sat 12 Sept.
 
@@ -31,4 +31,4 @@ Danny Daze is a house and techno artist tracked on soundcheck, with 160 sets log
 
 Will Renuart, Jonny From Space, Nick León
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dannydaze/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dannydaze/)*

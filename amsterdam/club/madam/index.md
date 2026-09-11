@@ -1,6 +1,6 @@
 # Madam
 
-Madam is a music venue in Amsterdam with 21 upcoming nights listed on soundcheck as of Thu, 10 Sept 2026; the next is "Madam by Night invites: Dirk Schot b2b Alan Luna b2b Mike van Duuren" on Fri, 11 Sept 2026.
+Madam is a music venue in Amsterdam with 21 upcoming nights listed on soundcheck as of Fri, 11 Sept 2026; the next is "Madam by Night invites: Dirk Schot b2b Alan Luna b2b Mike van Duuren" on Fri, 11 Sept 2026.
 
 Madam is a music venue in Amsterdam listed on soundcheck. 21 upcoming nights, with line-ups including Aline Rocha, andela, Artslaves and BIG-T and 2 more. Browse upcoming dates, start times and who's playing. Overhoeksplein 3, 1031 KS Amsterdam, Netherlands.
 
@@ -15,7 +15,7 @@ Madam is a music venue in Amsterdam listed on soundcheck. 21 upcoming nights, wi
 | Fri, 25 Sept 2026 | Madam by Night invites: Sander Groet, Isa Roos, KARKÂDÉ | Isa Roos, KARKÂDÉ |
 | Sat, 26 Sept 2026 | Madam by Night invites: Guerrilla | Nitefield |
 | Fri, 2 Oct 2026 | Madam by Night invites: LABELS. presents: Unnamed & Unknown | Gino Da Koda, Sanne Dammers |
-| Sat, 3 Oct 2026 | Madam by Night invites: Sooze | BIG-T, Midas Field, TA AM, Yoffi |
+| Sat, 3 Oct 2026 | Madam by Night invites: Sooze | BIG-T, BIG-T (NL), Midas Field, TA AM, Yoffi |
 | Fri, 9 Oct 2026 | Madam by Night invites: RED 87 b2b Project 89 (all night) | Project89 |
 | Sat, 10 Oct 2026 | Madam by Night invites: LevyM & Nomis | LevyM, Nomis |
 
@@ -23,4 +23,4 @@ Madam is a music venue in Amsterdam listed on soundcheck. 21 upcoming nights, wi
 
 Overhoeksplein 3, 1031 KS Amsterdam, Netherlands, Amsterdam
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/madam/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/madam/)*

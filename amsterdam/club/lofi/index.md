@@ -1,8 +1,8 @@
 # Lofi
 
-Lofi is a music venue in Amsterdam with 16 upcoming nights listed on soundcheck as of Thu, 10 Sept 2026; the next is "Massano - All Night Long" on Sat, 12 Sept 2026.
+Lofi is a music venue in Amsterdam with 18 upcoming nights listed on soundcheck as of Fri, 11 Sept 2026; the next is "Massano - All Night Long" on Sat, 12 Sept 2026.
 
-Lofi is a music venue in Amsterdam listed on soundcheck. 16 upcoming nights, with line-ups including Agents Of Time, Aldonna, Amanda Mussi and AMORAL and 2 more. Browse upcoming dates, start times and who's playing. Basisweg 63, Amsterdam 1043AN, Netherlands.
+Lofi is a music venue in Amsterdam listed on soundcheck. 18 upcoming nights, with line-ups including Agents Of Time, Aldonna, Amanda Mussi and AMORAL and 2 more. Browse upcoming dates, start times and who's playing. Basisweg 63, Amsterdam 1043AN, Netherlands.
 
 ## What's on
 
@@ -17,10 +17,10 @@ Lofi is a music venue in Amsterdam listed on soundcheck. 16 upcoming nights, wit
 | Fri, 9 Oct 2026 | Lofi by D Stone | D Stone, ESTRELLA, La La, Tsepo |
 | Sat, 10 Oct 2026 | Cincity [all night long] | Cincity |
 | Sat, 10 Oct 2026 | Pre-ADE market |  |
-| Wed, 21 Oct 2026 | ADE - Patrick Mason pres MASONICS | DJ Rush, Laure Croft, Patrick Mason, Shinedoe, Yasmin Regisford |
+| Sat, 10 Oct 2026 | Pre-ADE market |  |
 
 ## Address
 
 Basisweg 63, Amsterdam 1043AN, Netherlands, Amsterdam
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/lofi/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/lofi/)*

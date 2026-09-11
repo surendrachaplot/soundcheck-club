@@ -1,6 +1,6 @@
 # issagirl
 
-issagirl is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Thu, 10 Sept 2026, next at Akhnaton, Amsterdam on Fri, 11 Sept 2026.
+issagirl is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Fri, 11 Sept 2026, next at Akhnaton, Amsterdam on Fri, 11 Sept 2026.
 
 issagirl is a techno and electro artist based in Netherlands, tracked on soundcheck, with 7 sets logged across Amsterdam, London and Stockholm. Often billed alongside Eylon, Jo-Lean and YOJIBERI. Next up: Akhnaton, Amsterdam on Fri 11 Sept.
 
@@ -23,4 +23,4 @@ issagirl is a techno and electro artist based in Netherlands, tracked on soundch
 
 Eylon, Jo-Lean, YOJIBERI
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/issagirl/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/issagirl/)*

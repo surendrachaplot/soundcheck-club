@@ -1,6 +1,6 @@
 # DRAKK
 
-DRAKK is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Thu, 10 Sept 2026, next at MODULE, Copenhagen on Fri, 25 Sept 2026.
+DRAKK is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Fri, 11 Sept 2026, next at MODULE, Copenhagen on Fri, 25 Sept 2026.
 
 DRAKK is a techno and industrial artist based in United States of America, tracked on soundcheck, with 29 sets logged across Barcelona, Brussels, Budapest and Copenhagen and 15 more. Often billed alongside EMILIANA, Kardinal Bertram and LeStrange. Next up: MODULE, Copenhagen on Fri 25 Sept.
 
@@ -25,4 +25,4 @@ DRAKK is a techno and industrial artist based in United States of America, track
 
 EMILIANA, Kardinal Bertram, LeStrange
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/drakk/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/drakk/)*

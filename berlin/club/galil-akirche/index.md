@@ -1,6 +1,6 @@
 # Galiläakirche
 
-Galiläakirche is a music venue in Berlin with 1 upcoming night listed on soundcheck as of Thu, 10 Sept 2026; the next is "30 Jahre_Klangwart_concert & recordrelease (Klangwart / Reuber / Del Grande)" on Fri, 11 Sept 2026.
+Galiläakirche is a music venue in Berlin with 1 upcoming night listed on soundcheck as of Fri, 11 Sept 2026; the next is "30 Jahre_Klangwart_concert & recordrelease (Klangwart / Reuber / Del Grande)" on Fri, 11 Sept 2026.
 
 Galiläakirche is a music venue in Berlin listed on soundcheck. 1 upcoming night. Browse upcoming dates, start times and who's playing. Rigaer Str. 9-10, Friedrichshain, Berlin.
 
@@ -14,4 +14,4 @@ Galiläakirche is a music venue in Berlin listed on soundcheck. 1 upcoming night
 
 Rigaer Str. 9-10, Friedrichshain, Berlin, Berlin
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/galil-akirche/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/galil-akirche/)*

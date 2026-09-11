@@ -1,6 +1,6 @@
 # Nido Marseille
 
-Nido Marseille is a music venue in Marseille with 6 upcoming nights listed on soundcheck as of Thu, 10 Sept 2026; the next is "Nido - label night - Increvable Records with Caswel Vera & Loquace" on Fri, 11 Sept 2026.
+Nido Marseille is a music venue in Marseille with 6 upcoming nights listed on soundcheck as of Fri, 11 Sept 2026; the next is "Nido - label night - Increvable Records with Caswel Vera & Loquace" on Fri, 11 Sept 2026.
 
 Nido Marseille is a music venue in Marseille listed on soundcheck. 6 upcoming nights, with line-ups including Apoteoz, Caswell Vera, Edward and Loquace and 2 more. Browse upcoming dates, start times and who's playing. 20 boulevard fifi turin.
 
@@ -19,4 +19,4 @@ Nido Marseille is a music venue in Marseille listed on soundcheck. 6 upcoming ni
 
 20 boulevard fifi turin, Marseille
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/marseille/club/nido-marseille/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/marseille/club/nido-marseille/)*

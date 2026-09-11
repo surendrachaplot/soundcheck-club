@@ -1,8 +1,8 @@
 # Ivory
 
-Ivory is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 10 Sept 2026, next at Suma Han, Istanbul on Fri, 18 Sept 2026.
+Ivory is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at Suma Han, Istanbul on Fri, 18 Sept 2026.
 
-Ivory is a techno and house artist tracked on soundcheck, with 130 sets logged across Amsterdam, Barcelona, Belgrade and Berlin and 32 more. Often billed alongside Nandu, Aera and Jimi Jules. Next up: Suma Han, Istanbul on Fri 18 Sept.
+Ivory is a techno and house artist tracked on soundcheck, with 131 sets logged across Amsterdam, Barcelona, Belgrade and Berlin and 32 more. Often billed alongside Nandu, Aera and Jimi Jules. Next up: Suma Han, Istanbul on Fri 18 Sept.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Ivory is a techno and house artist tracked on soundcheck, with 130 sets logged a
 | --- | --- | --- |
 | Fri, 18 Sept 2026 | Suma Han | Istanbul |
 | Sat, 10 Oct 2026 | Het Sieraad | Amsterdam |
+| Thu, 22 Oct 2026 | Crane Hotel Faralda | Amsterdam |
 
 ## Recently played
 
@@ -26,4 +27,4 @@ Ivory is a techno and house artist tracked on soundcheck, with 130 sets logged a
 
 Nandu, Aera, Jimi Jules
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ivory/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ivory/)*

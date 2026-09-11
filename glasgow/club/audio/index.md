@@ -1,14 +1,15 @@
 # Audio
 
-Audio is a music venue in Glasgow with 5 upcoming nights listed on soundcheck as of Thu, 10 Sept 2026; the next is "Pharmacy prescribes DJ BAX " on Fri, 18 Sept 2026.
+Audio is a music venue in Glasgow with 6 upcoming nights listed on soundcheck as of Fri, 11 Sept 2026; the next is "Pharmacy prescribes DJ BAX " on Fri, 18 Sept 2026.
 
-Audio is a music venue in Glasgow listed on soundcheck. 5 upcoming nights, with line-ups including Benny Page, DJ Bax, DJ Hybrid and TWOCANNDANN. Browse upcoming dates, start times and who's playing. 14 Midland Street, G1 4PP.
+Audio is a music venue in Glasgow listed on soundcheck. 6 upcoming nights, with line-ups including Benny Page, DJ Bax, DJ Hybrid and TWOCANNDANN. Browse upcoming dates, start times and who's playing. 14 Midland Street, G1 4PP.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
 | Fri, 18 Sept 2026 | Pharmacy prescribes DJ BAX  | DJ Bax, TWOCANNDANN |
+| Sat, 3 Oct 2026 | VELA // 03 |  |
 | Fri, 23 Oct 2026 | Jungle Testaments: Benny Page & DJ Hybrid | Benny Page, DJ Hybrid |
 | Sat, 24 Oct 2026 | Phetkore Vol.2: Nightmare Before Halloween |  |
 | Fri, 13 Nov 2026 | Euphoric Events Presents: ØRBENYX & JOSSA |  |
@@ -18,4 +19,4 @@ Audio is a music venue in Glasgow listed on soundcheck. 5 upcoming nights, with 
 
 14 Midland Street, G1 4PP, Glasgow
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/audio/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/audio/)*

@@ -1,8 +1,8 @@
 # Very J
 
-Very J is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Thu, 10 Sept 2026, next at Dead Letter No. 9, New York City on Fri, 18 Sept 2026.
+Very J is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at Dead Letter No. 9, New York City on Fri, 18 Sept 2026.
 
-Very J is a house and techno artist tracked on soundcheck, with 128 sets logged across Boston, Detroit, London and Losangeles and 2 more. Often billed alongside For Future's Sake, John Raffaele and Devoye. Next up: Dead Letter No. 9, Newyorkcity on Fri 18 Sept.
+Very J is a house and techno artist tracked on soundcheck, with 129 sets logged across Boston, Detroit, London and Losangeles and 2 more. Often billed alongside For Future's Sake, John Raffaele and Devoye. Next up: Dead Letter No. 9, Newyorkcity on Fri 18 Sept.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ Very J is a house and techno artist tracked on soundcheck, with 128 sets logged 
 | Fri, 18 Sept 2026 | Dead Letter No. 9 | New York City |
 | Sun, 27 Sept 2026 | Bossa Nova Civic Club | New York City |
 | Thu, 1 Oct 2026 | ErF Studios | New York City |
+| Fri, 16 Oct 2026 | public records | New York City |
 
 ## Recently played
 
@@ -27,4 +28,4 @@ Very J is a house and techno artist tracked on soundcheck, with 128 sets logged 
 
 For Future's Sake, John Raffaele, Devoye
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/veryj/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/veryj/)*

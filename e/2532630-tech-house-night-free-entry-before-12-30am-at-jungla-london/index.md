@@ -1,10 +1,10 @@
 # Tech House Night // Free entry before 12:30am at Jungla London
 
-Tech House Night // Free entry before 12:30am at Jungla London on Fri 18 Sept, London. 3 acts on the bill: Areeb Abbasi, Auseeb and Moonz. Tech House. Preview the line-up and save it on soundcheck.
+Tech House Night // Free entry before 12:30am at Jungla London on Fri 9 Oct, London. 3 acts on the bill: Areeb Abbasi, Auseeb and Moonz. Tech House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
-| Date | Fri, 18 Sept 2026 |
+| Date | Fri, 9 Oct 2026 |
 | Venue | Jungla London |
 | City | London |
 

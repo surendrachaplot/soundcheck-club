@@ -1,14 +1,17 @@
 # Lauravioli
 
-Lauravioli is a Bass and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 10 Sept 2026, next at TRAUM, Antwerp on Fri, 25 Sept 2026.
+Lauravioli is a Bass and House artist with 5 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at Funke, Ghent on Sat, 12 Sept 2026.
 
-Lauravioli is a bass and house artist based in Belgium, tracked on soundcheck, with 6 sets logged across Antwerp and Brussels. Often billed alongside Adi, Alix Perez and Amelia Holt. Next up: TRAUM, Antwerp on Fri 25 Sept.
+Lauravioli is a bass and house artist based in Belgium, tracked on soundcheck, with 9 sets logged across Antwerp, Brussels and Ghent. Often billed alongside Kōma, Adi and Alix Perez. Next up: Funke, Ghent on Sat 12 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 12 Sept 2026 | Funke | Ghent |
+| Sun, 20 Sept 2026 | Circle Park | Brussels |
 | Fri, 25 Sept 2026 | TRAUM | Antwerp |
+| Sat, 31 Oct 2026 | Brussels Gate | Brussels |
 | Sat, 21 Nov 2026 | TBA - Brussels | Brussels |
 
 ## Recently played
@@ -20,6 +23,6 @@ Lauravioli is a bass and house artist based in Belgium, tracked on soundcheck, w
 
 ## Shares bills with
 
-Adi, Alix Perez, Amelia Holt
+Kōma, Adi, Alix Perez
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lauravioli/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lauravioli/)*

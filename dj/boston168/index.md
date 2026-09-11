@@ -1,6 +1,6 @@
 # Boston 168
 
-Boston 168 is a Techno and Acid artist with 2 upcoming club dates listed on soundcheck as of Thu, 10 Sept 2026, next at RSO.BERLIN, Berlin on Fri, 18 Sept 2026.
+Boston 168 is a Techno and Acid artist with 2 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at RSO.BERLIN, Berlin on Fri, 18 Sept 2026.
 
 Boston 168 is a techno and acid artist tracked on soundcheck, with 65 sets logged across Antwerp, Athens, Barcelona and Belgrade and 23 more. Often billed alongside Ellen Allien, Shaleen and Regal. Next up: RSO.BERLIN, Berlin on Fri 18 Sept.
 
@@ -26,4 +26,4 @@ Boston 168 is a techno and acid artist tracked on soundcheck, with 65 sets logge
 
 Ellen Allien, Shaleen, Regal
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/boston168/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/boston168/)*

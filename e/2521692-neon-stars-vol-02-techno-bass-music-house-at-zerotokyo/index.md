@@ -1,6 +1,6 @@
 # NEON STARS Vol.02 - TECHNO / BASS MUSIC / HOUSE - at ZEROTOKYO
 
-NEON STARS Vol.02 - TECHNO / BASS MUSIC / HOUSE - at ZEROTOKYO on Fri 25 Sept, Tokyo. 4 acts on the bill: DJYOUTH, MoEPiKA, Rickey Shannon and SPRAYBOX. Techno and Bass. Preview the line-up and save it on soundcheck.
+NEON STARS Vol.02 - TECHNO / BASS MUSIC / HOUSE - at ZEROTOKYO on Fri 25 Sept, Tokyo. 11 acts on the bill: ATAMI, CRAZYHYUGA, DJYOUTH and HATSUYUKI and 7 more. Techno and Bass. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,9 +10,16 @@ NEON STARS Vol.02 - TECHNO / BASS MUSIC / HOUSE - at ZEROTOKYO on Fri 25 Sept, T
 
 ## Line-up
 
+- ATAMI
+- CRAZYHYUGA
 - DJYOUTH
+- HATSUYUKI
+- Maya
 - MoEPiKA
+- NAKiD
 - Rickey Shannon
+- RIKK
+- SAKO
 - SPRAYBOX
 
 *Source: [soundcheck](https://soundcheck.club/e/2521692-neon-stars-vol-02-techno-bass-music-house-at-zerotokyo/)*

@@ -1,6 +1,6 @@
-# ••• analoque 6th anniversary at Legal
+# analoque 6th anniversary••• at Legal
 
-••• analoque 6th anniversary at Legal on Sat 12 Sept, Munich. 3 acts on the bill: Audio Werner, Buzé and Roberg. House and Minimal. Preview the line-up and save it on soundcheck.
+analoque 6th anniversary••• at Legal on Sat 12 Sept, Munich. 3 acts on the bill: Audio Werner, Buzé and Roberg. House and Minimal. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

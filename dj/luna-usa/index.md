@@ -1,6 +1,6 @@
 # LUN★
 
-LUN★ is a Techno and Club artist with 1 upcoming club date listed on soundcheck as of Thu, 10 Sept 2026, next at Paragon, New York City on Fri, 18 Sept 2026.
+LUN★ is a Techno and Club artist with 1 upcoming club date listed on soundcheck as of Fri, 11 Sept 2026, next at Paragon, New York City on Fri, 18 Sept 2026.
 
 LUN★ is a techno and club artist based in United States of America, tracked on soundcheck, with 12 sets logged across Newyorkcity. Often billed alongside Xana 101, ARCHANGEL (US) and Robyn DaBank. Next up: Paragon, Newyorkcity on Fri 18 Sept.
 
@@ -25,4 +25,4 @@ LUN★ is a techno and club artist based in United States of America, tracked on
 
 Xana 101, ARCHANGEL (US), Robyn DaBank
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/luna-usa/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/luna-usa/)*

@@ -1,6 +1,6 @@
 # Sable Miami
 
-Sable Miami is a music venue in Miami with 5 upcoming nights listed on soundcheck as of Thu, 10 Sept 2026; the next is "Sorley (US Debut) + Luna Mar" on Fri, 11 Sept 2026.
+Sable Miami is a music venue in Miami with 5 upcoming nights listed on soundcheck as of Fri, 11 Sept 2026; the next is "Sorley (US Debut) + Luna Mar" on Fri, 11 Sept 2026.
 
 Sable Miami is a music venue in Miami listed on soundcheck. 5 upcoming nights, with line-ups including Audiojack and Bassel Darwish. Browse upcoming dates, start times and who's playing. 2219 NW 2nd Ave, Miami, FL 33127.
 
@@ -18,4 +18,4 @@ Sable Miami is a music venue in Miami listed on soundcheck. 5 upcoming nights, w
 
 2219 NW 2nd Ave, Miami, FL 33127, Miami
 
-*Updated Thu, 10 Sept 2026 · source: [soundcheck](https://soundcheck.club/miami/club/sable-miami/)*
+*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/miami/club/sable-miami/)*
