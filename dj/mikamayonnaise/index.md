@@ -1,6 +1,6 @@
 # Mikamayonnaise
 
-Mikamayonnaise is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 11 Sept 2026, next at TBA - Brussels, Brussels on Sat, 21 Nov 2026.
+Mikamayonnaise is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 12 Sept 2026, next at TBA - Brussels, Brussels on Sat, 21 Nov 2026.
 
 Mikamayonnaise is a techno and house artist tracked on soundcheck, with 9 sets logged across Brussels. Often billed alongside KŌMA (3), Adi and Alex Lesage. Next up: TBA - Brussels, Brussels on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ Mikamayonnaise is a techno and house artist tracked on soundcheck, with 9 sets l
 
 KŌMA (3), Adi, Alex Lesage
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mikamayonnaise/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mikamayonnaise/)*

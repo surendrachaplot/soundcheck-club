@@ -1,6 +1,6 @@
 # Tadeo
 
-Tadeo is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Fri, 11 Sept 2026, next at public records, New York City on Fri, 2 Oct 2026.
+Tadeo is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Sat, 12 Sept 2026, next at public records, New York City on Fri, 2 Oct 2026.
 
 Tadeo is a techno and tech house artist tracked on soundcheck, with 15 sets logged across Barcelona, Ibiza, Madrid and Newyorkcity and 1 more. Often billed alongside ADRI.G, Unkle Fon and Irazu. Next up: public records, Newyorkcity on Fri 2 Oct.
 
@@ -25,4 +25,4 @@ Tadeo is a techno and tech house artist tracked on soundcheck, with 15 sets logg
 
 ADRI.G, Unkle Fon, Irazu
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tadeo/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tadeo/)*

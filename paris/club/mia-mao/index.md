@@ -1,6 +1,6 @@
 # Mia Mao
 
-Mia Mao is a music venue in Paris with 14 upcoming nights listed on soundcheck as of Fri, 11 Sept 2026; the next is "THUNDER : A.N.I., ANIME, A5KM, XINA MORA & MORE" on Fri, 11 Sept 2026.
+Mia Mao is a music venue in Paris with 14 upcoming nights listed on soundcheck as of Sat, 12 Sept 2026; the next is "THUNDER : A.N.I., ANIME, A5KM, XINA MORA & MORE" on Fri, 11 Sept 2026.
 
 Mia Mao is a music venue in Paris listed on soundcheck. 14 upcoming nights, with line-ups including Adame DJ, Alba Franch, Alex Nantaya and Amygdala and 2 more. Browse upcoming dates, start times and who's playing. 12a rue Ella Fitzgerald, 75019, Paris, FRANCE.
 
@@ -23,4 +23,4 @@ Mia Mao is a music venue in Paris listed on soundcheck. 14 upcoming nights, with
 
 12a rue Ella Fitzgerald, 75019, Paris, FRANCE, Paris
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/paris/club/mia-mao/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/paris/club/mia-mao/)*

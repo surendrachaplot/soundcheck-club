@@ -1,6 +1,6 @@
 # Thomas Stieler
 
-Thomas Stieler is a House and Minimal artist with 7 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at Distillery, Leipzig on Sat, 12 Sept 2026.
+Thomas Stieler is a House and Minimal artist with 7 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Distillery, Leipzig on Sat, 12 Sept 2026.
 
 Thomas Stieler is a house and minimal artist tracked on soundcheck, with 230 sets logged across Amsterdam, Berlin, Budapest and Cologne and 6 more. Often billed alongside Submod, Elli Altenberger and Phil2. Next up: Distillery, Leipzig on Sat 12 Sept.
 
@@ -31,4 +31,4 @@ Thomas Stieler is a house and minimal artist tracked on soundcheck, with 230 set
 
 Submod, Elli Altenberger, Phil2
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/thomasstieler/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/thomasstieler/)*

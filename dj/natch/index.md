@@ -1,14 +1,15 @@
 # Natch
 
-Natch is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Fri, 11 Sept 2026, next at Hive Club, Zurich on Fri, 18 Sept 2026.
+Natch is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Hive Club, Zurich on Fri, 18 Sept 2026.
 
-Natch is a techno and electro artist based in Spain, tracked on soundcheck, with 44 sets logged across Berlin, Madrid and Zurich. Often billed alongside Ruben Coslada, ACID FLORA and David Puron. Next up: Hive Club, Zurich on Fri 18 Sept.
+Natch is a techno and house artist based in Spain, tracked on soundcheck, with 45 sets logged across Berlin, Madrid and Zurich. Often billed alongside Ruben Coslada, ACID FLORA and Animal Trainer. Next up: Hive Club, Zurich on Fri 18 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 18 Sept 2026 | Hive Club | Zurich |
+| Sat, 26 Sept 2026 | Hive Club | Zurich |
 
 ## Recently played
 
@@ -23,6 +24,6 @@ Natch is a techno and electro artist based in Spain, tracked on soundcheck, with
 
 ## Shares bills with
 
-Ruben Coslada, ACID FLORA, David Puron
+Ruben Coslada, ACID FLORA, Animal Trainer
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/natch/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/natch/)*

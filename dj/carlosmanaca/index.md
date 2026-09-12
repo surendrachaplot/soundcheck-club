@@ -1,8 +1,8 @@
 # Carlos Manaça
 
-Carlos Manaça is a Tech House and Techno artist with 3 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at Praia de Esmoriz Beach, Porto on Sat, 12 Sept 2026.
+Carlos Manaça is a Tech House and Techno artist with 4 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Praia de Esmoriz Beach, Porto on Sat, 12 Sept 2026.
 
-Carlos Manaça is a tech house and techno artist based in Portugal, tracked on soundcheck, with 26 sets logged across Lisbon, Porto and Toronto. Often billed alongside Dub Tiger, Dexx and Sandro Martins. Next up: Praia de Esmoriz Beach, Porto on Sat 12 Sept.
+Carlos Manaça is a tech house and techno artist based in Portugal, tracked on soundcheck, with 27 sets logged across Lisbon, Porto and Toronto. Often billed alongside Dub Tiger, Dexx and Sandro Martins. Next up: Praia de Esmoriz Beach, Porto on Sat 12 Sept.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ Carlos Manaça is a tech house and techno artist based in Portugal, tracked on s
 | Sat, 12 Sept 2026 | Praia de Esmoriz Beach | Porto |
 | Sat, 26 Sept 2026 | Wiggle Room | Toronto |
 | Sat, 26 Sept 2026 | Wiggle Room | Toronto |
+| Sat, 26 Sept 2026 | Funk'shuai | Toronto |
 
 ## Recently played
 
@@ -27,4 +28,4 @@ Carlos Manaça is a tech house and techno artist based in Portugal, tracked on s
 
 Dub Tiger, Dexx, Sandro Martins
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/carlosmanaca/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/carlosmanaca/)*

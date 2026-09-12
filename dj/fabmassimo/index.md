@@ -1,6 +1,6 @@
 # Fab Massimo
 
-Fab Massimo is a Techno and Tech House artist with 4 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at Odonien, Cologne on Sat, 19 Sept 2026.
+Fab Massimo is a Techno and Tech House artist with 4 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Odonien, Cologne on Sat, 19 Sept 2026.
 
 Fab Massimo is a techno and tech house artist based in Germany, tracked on soundcheck, with 86 sets logged across Amsterdam, Barcelona, Berlin and Budapest and 10 more. Often billed alongside Bombata, Techmo and Katzengold. Next up: Odonien, Cologne on Sat 19 Sept.
 
@@ -28,4 +28,4 @@ Fab Massimo is a techno and tech house artist based in Germany, tracked on sound
 
 Bombata, Techmo, Katzengold
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/fabmassimo/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/fabmassimo/)*

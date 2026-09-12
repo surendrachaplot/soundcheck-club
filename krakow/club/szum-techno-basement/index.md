@@ -1,6 +1,6 @@
 # Szum Techno Basement
 
-Szum Techno Basement is a music venue in Krakow with 1 upcoming night listed on soundcheck as of Fri, 11 Sept 2026; the next is "Szum at Techno Basement 12 Sept" on Sat, 12 Sept 2026.
+Szum Techno Basement is a music venue in Krakow with 1 upcoming night listed on soundcheck as of Sat, 12 Sept 2026; the next is "Szum at Techno Basement 12 Sept" on Sat, 12 Sept 2026.
 
 Szum Techno Basement is a music venue in Krakow listed on soundcheck. 1 upcoming night. Browse upcoming dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ Szum Techno Basement is a music venue in Krakow listed on soundcheck. 1 upcoming
 | --- | --- | --- |
 | Sat, 12 Sept 2026 | Szum at Techno Basement 12 Sept |  |
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/krakow/club/szum-techno-basement/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/krakow/club/szum-techno-basement/)*

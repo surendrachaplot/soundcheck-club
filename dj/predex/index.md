@@ -1,6 +1,6 @@
 # Predex
 
-Predex is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 11 Sept 2026, next at Onder Hans, Amsterdam on Thu, 22 Oct 2026.
+Predex is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 12 Sept 2026, next at Onder Hans, Amsterdam on Thu, 22 Oct 2026.
 
 Predex is a techno and house artist based in Germany, tracked on soundcheck, with 19 sets logged across Amsterdam, Barcelona, Berlin and Istanbul. Often billed alongside ELIF, Adron_ and Manu Strasse. Next up: Onder Hans, Amsterdam on Thu 22 Oct.
 
@@ -25,4 +25,4 @@ Predex is a techno and house artist based in Germany, tracked on soundcheck, wit
 
 ELIF, Adron_, Manu Strasse
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/predex/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/predex/)*

@@ -1,6 +1,6 @@
 # Alles Andere
 
-Alles Andere is a Electronica and House artist with 1 upcoming club date listed on soundcheck as of Fri, 11 Sept 2026, next at Xolo, Munich on Sun, 13 Sept 2026.
+Alles Andere is a Electronica and House artist with 1 upcoming club date listed on soundcheck as of Sat, 12 Sept 2026, next at Xolo, Munich on Sun, 13 Sept 2026.
 
 Alles Andere is an electronica and house artist based in Italy, tracked on soundcheck, with 20 sets logged across Berlin, Frankfurt, Munich and Naples. Often billed alongside Lavandonia, Alessio Barletta and Olli Rubber. Next up: Xolo, Munich on Sun 13 Sept.
 
@@ -25,4 +25,4 @@ Alles Andere is an electronica and house artist based in Italy, tracked on sound
 
 Lavandonia, Alessio Barletta, Olli Rubber
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/allesandere/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/allesandere/)*

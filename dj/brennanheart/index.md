@@ -1,6 +1,6 @@
 # Brennan Heart
 
-Brennan Heart is a Hardcore and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 11 Sept 2026, next at Bootshaus, Cologne on Sat, 5 Dec 2026.
+Brennan Heart is a Hardcore and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 12 Sept 2026, next at Bootshaus, Cologne on Sat, 5 Dec 2026.
 
 Brennan Heart is a hardcore and techno artist based in Netherlands, tracked on soundcheck, with 20 sets logged across Amsterdam, Cologne, Dusseldorf and Frankfurt and 8 more. Often billed alongside Coone, Paul Elstak and Dimitri K. Next up: Bootshaus, Cologne on Sat 5 Dec.
 
@@ -25,4 +25,4 @@ Brennan Heart is a hardcore and techno artist based in Netherlands, tracked on s
 
 Coone, Paul Elstak, Dimitri K
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/brennanheart/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/brennanheart/)*

@@ -1,6 +1,6 @@
 # Wrng Pattern
 
-Wrng Pattern is a House and Minimal Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 11 Sept 2026, next at Department 184, Milan on Sat, 12 Sept 2026.
+Wrng Pattern is a House and Minimal Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 12 Sept 2026, next at Department 184, Milan on Sat, 12 Sept 2026.
 
 Wrng Pattern is a house and minimal techno artist tracked on soundcheck, with 22 sets logged across Barcelona and Milan. Often billed alongside David Etienne, Ezart and Daniele Umore. Next up: Department 184, Milan on Sat 12 Sept.
 
@@ -25,4 +25,4 @@ Wrng Pattern is a house and minimal techno artist tracked on soundcheck, with 22
 
 David Etienne, Ezart, Daniele Umore
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/wrngpattern/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/wrngpattern/)*

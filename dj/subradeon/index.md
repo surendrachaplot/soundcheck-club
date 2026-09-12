@@ -1,13 +1,14 @@
 # Subradeon
 
-Subradeon is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 11 Sept 2026, next at Kater, Berlin on Fri, 2 Oct 2026.
+Subradeon is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Tempio del Futuro Perduto, Milan on Thu, 1 Oct 2026.
 
-Subradeon is a techno and house artist based in Italy, tracked on soundcheck, with 32 sets logged across Barcelona, Berlin, London and Madrid and 3 more. Often billed alongside Alan Fitzpatrick, Anja Schneider and Esther Silex. Next up: Kater, Berlin on Fri 2 Oct.
+Subradeon is a techno and house artist based in Italy, tracked on soundcheck, with 33 sets logged across Barcelona, Berlin, London and Madrid and 3 more. Often billed alongside Alan Fitzpatrick, Anja Schneider and Esther Silex. Next up: Tempio del Futuro Perduto, Milan on Thu 1 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Thu, 1 Oct 2026 | Tempio del Futuro Perduto | Milan |
 | Fri, 2 Oct 2026 | Kater | Berlin |
 
 ## Recently played
@@ -25,4 +26,4 @@ Subradeon is a techno and house artist based in Italy, tracked on soundcheck, wi
 
 Alan Fitzpatrick, Anja Schneider, Esther Silex
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/subradeon/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/subradeon/)*

@@ -1,6 +1,6 @@
 # Drumskull
 
-Drumskull is a Bass and Breakbeat artist with 1 upcoming club date listed on soundcheck as of Fri, 11 Sept 2026, next at Four Quarters, London on Thu, 29 Oct 2026.
+Drumskull is a Bass and Breakbeat artist with 1 upcoming club date listed on soundcheck as of Sat, 12 Sept 2026, next at Four Quarters, London on Thu, 29 Oct 2026.
 
 Drumskull is a bass and breakbeat artist tracked on soundcheck, with 27 sets logged across Bristol and London. Often billed alongside Pressa, Warlock and Cosmic Bob. Next up: Four Quarters, London on Thu 29 Oct.
 
@@ -25,4 +25,4 @@ Drumskull is a bass and breakbeat artist tracked on soundcheck, with 27 sets log
 
 Pressa, Warlock, Cosmic Bob
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/drumskull/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/drumskull/)*

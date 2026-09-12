@@ -1,6 +1,6 @@
 # BLEID
 
-BLEID is a Techno and Drone artist with 1 upcoming club date listed on soundcheck as of Fri, 11 Sept 2026, next at Ministerium Club, Lisbon on Fri, 18 Sept 2026.
+BLEID is a Techno and Drone artist with 1 upcoming club date listed on soundcheck as of Sat, 12 Sept 2026, next at Ministerium Club, Lisbon on Fri, 18 Sept 2026.
 
 BLEID is a techno and drone artist tracked on soundcheck, with 42 sets logged across Berlin, Leipzig, Lisbon and Munich and 2 more. Often billed alongside marum, Violet (PT) and Phoebe (1). Next up: Ministerium Club, Lisbon on Fri 18 Sept.
 
@@ -25,4 +25,4 @@ BLEID is a techno and drone artist tracked on soundcheck, with 42 sets logged ac
 
 marum, Violet (PT), Phoebe (1)
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bleid/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bleid/)*

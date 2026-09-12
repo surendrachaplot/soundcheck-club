@@ -1,8 +1,8 @@
 # Denham Audio
 
-Denham Audio is a Breakbeat and Garage artist with 4 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at Village Studios, Vancouver on Fri, 18 Sept 2026.
+Denham Audio is a Breakbeat and Garage artist with 5 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Village Studios, Vancouver on Fri, 18 Sept 2026.
 
-Denham Audio is a breakbeat and garage artist tracked on soundcheck, with 148 sets logged across Amsterdam, Antwerp, Auckland and Barcelona and 40 more. Often billed alongside Mani Festo, Rebekah Abdeen and Borai. Next up: Village Studios, Vancouver on Fri 18 Sept.
+Denham Audio is a breakbeat and garage artist tracked on soundcheck, with 149 sets logged across Amsterdam, Antwerp, Auckland and Barcelona and 40 more. Often billed alongside Mani Festo, Rebekah Abdeen and Borai. Next up: Village Studios, Vancouver on Fri 18 Sept.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Denham Audio is a breakbeat and garage artist tracked on soundcheck, with 148 se
 | --- | --- | --- |
 | Fri, 18 Sept 2026 | Village Studios | Vancouver |
 | Sat, 19 Sept 2026 | Village Studios | Vancouver |
+| Sat, 26 Sept 2026 | Good Room | New York City |
 | Fri, 16 Oct 2026 | Electric Studios | Sheffield |
 | Sat, 7 Nov 2026 | DRUMSHEDS | London |
 
@@ -28,4 +29,4 @@ Denham Audio is a breakbeat and garage artist tracked on soundcheck, with 148 se
 
 Mani Festo, Rebekah Abdeen, Borai
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/denhamaudio-uk/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/denhamaudio-uk/)*

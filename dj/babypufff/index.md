@@ -1,6 +1,6 @@
 # Babypufff
 
-Babypufff is a Bass and Club artist with 1 upcoming club date listed on soundcheck as of Fri, 11 Sept 2026, next at TRANSMISSION DC, Washington DC on Fri, 18 Sept 2026.
+Babypufff is a Bass and Club artist with 1 upcoming club date listed on soundcheck as of Sat, 12 Sept 2026, next at TRANSMISSION DC, Washington DC on Fri, 18 Sept 2026.
 
 Babypufff is a bass and club artist based in United States of America, tracked on soundcheck, with 24 sets logged across Newyorkcity and Washingtondc. Often billed alongside kabir., Black Grealish and Djoser. Next up: TRANSMISSION DC, Washingtondc on Fri 18 Sept.
 
@@ -25,4 +25,4 @@ Babypufff is a bass and club artist based in United States of America, tracked o
 
 kabir., Black Grealish, Djoser
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/babypufff/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/babypufff/)*

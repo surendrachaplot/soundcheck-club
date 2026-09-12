@@ -1,14 +1,15 @@
 # NAKiD
 
-NAKiD is a Bass and Drum & Bass artist with 1 upcoming club date listed on soundcheck as of Fri, 11 Sept 2026, next at ZEROTOKYO, Tokyo on Fri, 25 Sept 2026.
+NAKiD is a Bass and Dubstep artist with 2 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at ZEROTOKYO, Tokyo on Fri, 25 Sept 2026.
 
-NAKiD is a bass and drum & bass artist based in Japan, tracked on soundcheck, with 19 sets logged across Tokyo. Often billed alongside ATAMI, DJYOUTH and MOOTOE. Next up: ZEROTOKYO, Tokyo on Fri 25 Sept.
+NAKiD is a bass and dubstep artist based in Japan, tracked on soundcheck, with 20 sets logged across Tokyo. Often billed alongside ATAMI, DJYOUTH and MOOTOE. Next up: ZEROTOKYO, Tokyo on Fri 25 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 25 Sept 2026 | ZEROTOKYO | Tokyo |
+| Fri, 2 Oct 2026 | ZEROTOKYO | Tokyo |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ NAKiD is a bass and drum & bass artist based in Japan, tracked on soundcheck, wi
 
 ATAMI, DJYOUTH, MOOTOE
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nakid/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nakid/)*

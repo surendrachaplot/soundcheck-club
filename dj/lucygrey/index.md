@@ -1,6 +1,6 @@
 # Lucy Grey
 
-Lucy Grey is a Techno and Experimental artist with 1 upcoming club date listed on soundcheck as of Fri, 11 Sept 2026, next at Kazimier Garden, Liverpool on Fri, 25 Sept 2026.
+Lucy Grey is a Techno and Experimental artist with 1 upcoming club date listed on soundcheck as of Sat, 12 Sept 2026, next at Kazimier Garden, Liverpool on Fri, 25 Sept 2026.
 
 Lucy Grey is a techno and experimental artist tracked on soundcheck, with 12 sets logged across Liverpool, London and Manchester. Often billed alongside All Trades, Cersy and Sound of Drowning. Next up: Kazimier Garden, Liverpool on Fri 25 Sept.
 
@@ -25,4 +25,4 @@ Lucy Grey is a techno and experimental artist tracked on soundcheck, with 12 set
 
 All Trades, Cersy, Sound of Drowning
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lucygrey/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lucygrey/)*

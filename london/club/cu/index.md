@@ -1,6 +1,6 @@
 # Cu
 
-Cu is a music venue in London with 11 upcoming nights listed on soundcheck as of Fri, 11 Sept 2026; the next is "End of an era" on Fri, 11 Sept 2026.
+Cu is a music venue in London with 11 upcoming nights listed on soundcheck as of Sat, 12 Sept 2026; the next is "End of an era" on Fri, 11 Sept 2026.
 
 Cu is a music venue in London listed on soundcheck. 11 upcoming nights, with line-ups including babybear (2), BIG REG, Blackdown and Cardinal Sin and 2 more. Browse upcoming dates, start times and who's playing. 574, 576 Kingsland Rd, London E8 4AP, United Kingdom.
 
@@ -23,4 +23,4 @@ Cu is a music venue in London listed on soundcheck. 11 upcoming nights, with lin
 
 574, 576 Kingsland Rd, London E8 4AP, United Kingdom, London
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/cu/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/cu/)*

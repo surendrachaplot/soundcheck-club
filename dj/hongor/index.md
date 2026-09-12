@@ -1,6 +1,6 @@
 # Hongor
 
-Hongor is a Experimental and Ambient artist with 1 upcoming club date listed on soundcheck as of Fri, 11 Sept 2026, next at Tempio del Futuro Perduto, Milan on Fri, 30 Oct 2026.
+Hongor is a Experimental and Ambient artist with 1 upcoming club date listed on soundcheck as of Sat, 12 Sept 2026, next at Tempio del Futuro Perduto, Milan on Fri, 30 Oct 2026.
 
 Hongor is an experimental and ambient artist based in Germany, tracked on soundcheck, with 8 sets logged across Berlin and Milan. Often billed alongside MIAN, Sam Eyvaz and Zenyee. Next up: Tempio del Futuro Perduto, Milan on Fri 30 Oct.
 
@@ -24,4 +24,4 @@ Hongor is an experimental and ambient artist based in Germany, tracked on soundc
 
 MIAN, Sam Eyvaz, Zenyee
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/hongor/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/hongor/)*

@@ -1,6 +1,6 @@
 # In Verruf
 
-In Verruf is a Techno and Trance artist with 6 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at Openluchttheater Amersfoort, Amsterdam on Fri, 18 Sept 2026.
+In Verruf is a Techno and Trance artist with 6 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Openluchttheater Amersfoort, Amsterdam on Fri, 18 Sept 2026.
 
 In Verruf is a techno and trance artist tracked on soundcheck, with 137 sets logged across Amsterdam, Barcelona, Basel and Belgrade and 37 more. Often billed alongside Kobosil, Somewhen and Afem Syko. Next up: Openluchttheater Amersfoort, Amsterdam on Fri 18 Sept.
 
@@ -30,4 +30,4 @@ In Verruf is a techno and trance artist tracked on soundcheck, with 137 sets log
 
 Kobosil, Somewhen, Afem Syko
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/inverruf/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/inverruf/)*

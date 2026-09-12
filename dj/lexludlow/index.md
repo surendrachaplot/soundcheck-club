@@ -1,6 +1,6 @@
 # Lex Ludlow
 
-Lex Ludlow is a House and Electronica artist with 1 upcoming club date listed on soundcheck as of Fri, 11 Sept 2026, next at Gazebo, Stockholm on Sat, 10 Oct 2026.
+Lex Ludlow is a House and Electronica artist with 1 upcoming club date listed on soundcheck as of Sat, 12 Sept 2026, next at Gazebo, Stockholm on Sat, 10 Oct 2026.
 
 Lex Ludlow is a house and electronica artist based in Sweden, tracked on soundcheck, with 6 sets logged across Berlin, Copenhagen and Stockholm. Often billed alongside Jesper Aubin, Kaldera and Dole & Kom. Next up: Gazebo, Stockholm on Sat 10 Oct.
 
@@ -22,4 +22,4 @@ Lex Ludlow is a house and electronica artist based in Sweden, tracked on soundch
 
 Jesper Aubin, Kaldera, Dole & Kom
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lexludlow/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lexludlow/)*

@@ -1,6 +1,6 @@
 # Mnemonics
 
-Mnemonics is a Techno and Club artist with 1 upcoming club date listed on soundcheck as of Fri, 11 Sept 2026, next at TBA - email histrionixxsf@gmail.com day of event, San Francisco/Oakland on Sun, 27 Sept 2026.
+Mnemonics is a Techno and Club artist with 1 upcoming club date listed on soundcheck as of Sat, 12 Sept 2026, next at TBA - email histrionixxsf@gmail.com day of event, San Francisco/Oakland on Sun, 27 Sept 2026.
 
 Mnemonics is a techno and club artist based in United States of America, tracked on soundcheck, with 37 sets logged across Sanfrancisco. Often billed alongside Del (4), FINISHHER and Beverly Chills. Next up: TBA - email histrionixxsf@gmail.com day of event, Sanfrancisco on Sun 27 Sept.
 
@@ -25,4 +25,4 @@ Mnemonics is a techno and club artist based in United States of America, tracked
 
 Del (4), FINISHHER, Beverly Chills
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mnemonics/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mnemonics/)*

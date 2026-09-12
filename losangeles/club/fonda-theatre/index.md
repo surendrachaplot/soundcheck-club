@@ -1,6 +1,6 @@
 # Fonda Theatre
 
-Fonda Theatre is a music venue in Los Angeles with 10 upcoming nights listed on soundcheck as of Fri, 11 Sept 2026; the next is "Nia Archives (Live)" on Sat, 12 Sept 2026.
+Fonda Theatre is a music venue in Los Angeles with 10 upcoming nights listed on soundcheck as of Sat, 12 Sept 2026; the next is "Nia Archives (Live)" on Sat, 12 Sept 2026.
 
 Fonda Theatre is a music venue in Losangeles listed on soundcheck. 10 upcoming nights, with line-ups including DJ MANDY, Nia Archives, oskar med k and Six Sex and 2 more. Browse upcoming dates, start times and who's playing. 6126 Hollywood Blvd, Hollywood, CA 90028.
 
@@ -23,4 +23,4 @@ Fonda Theatre is a music venue in Losangeles listed on soundcheck. 10 upcoming n
 
 6126 Hollywood Blvd, Hollywood, CA 90028, Los Angeles
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/fonda-theatre/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/fonda-theatre/)*

@@ -1,6 +1,6 @@
 # Marley Sherman
 
-Marley Sherman is a House and Deep House artist with 2 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at TBA - SPICE CELLAR SYDNEY CITY, Sydney on Sat, 19 Sept 2026.
+Marley Sherman is a House and Deep House artist with 2 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at TBA - SPICE CELLAR SYDNEY CITY, Sydney on Sat, 19 Sept 2026.
 
 Marley Sherman is a house and deep house artist tracked on soundcheck, with 31 sets logged across Sydney. Often billed alongside Ben Nott, Kato and Kerry Wallace. Next up: TBA - SPICE CELLAR SYDNEY CITY, Sydney on Sat 19 Sept.
 
@@ -26,4 +26,4 @@ Marley Sherman is a house and deep house artist tracked on soundcheck, with 31 s
 
 Ben Nott, Kato, Kerry Wallace
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/marleysherman/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/marleysherman/)*

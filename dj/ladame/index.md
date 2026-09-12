@@ -1,6 +1,6 @@
 # La Dame
 
-La Dame is a Bass and Club artist with 2 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at Brasserie de la Mule, Brussels on Fri, 18 Sept 2026.
+La Dame is a Bass and Club artist with 2 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Brasserie de la Mule, Brussels on Fri, 18 Sept 2026.
 
 La Dame is a bass and club artist tracked on soundcheck, with 34 sets logged across Berlin, Brussels, Lisbon and Lyon and 3 more. Often billed alongside CHUBBZ, DJ Autumn and Le Motel. Next up: Brasserie de la Mule, Brussels on Fri 18 Sept.
 
@@ -26,4 +26,4 @@ La Dame is a bass and club artist tracked on soundcheck, with 34 sets logged acr
 
 CHUBBZ, DJ Autumn, Le Motel
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ladame/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ladame/)*

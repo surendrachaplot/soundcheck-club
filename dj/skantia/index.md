@@ -1,6 +1,6 @@
 # Skantia
 
-Skantia is a Drum & Bass and Bass artist with 4 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at Bourke Street Courtyard, Melbourne on Sat, 12 Sept 2026.
+Skantia is a Drum & Bass and Bass artist with 4 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Bourke Street Courtyard, Melbourne on Sat, 12 Sept 2026.
 
 Skantia is a drum & bass and bass artist tracked on soundcheck, with 55 sets logged across Amsterdam, Auckland, Birmingham and Brighton and 21 more. Often billed alongside Simula, Disrupta and K Motionz. Next up: Bourke Street Courtyard, Melbourne on Sat 12 Sept.
 
@@ -28,4 +28,4 @@ Skantia is a drum & bass and bass artist tracked on soundcheck, with 55 sets log
 
 Simula, Disrupta, K Motionz
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/skantia/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/skantia/)*

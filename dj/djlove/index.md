@@ -1,15 +1,15 @@
 # DJ Love
 
-DJ Love is a Club and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at Starlane Pizza Bar, London on Sat, 12 Sept 2026.
+DJ Love is a Club and House artist with 2 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Exhibition London, London on Sat, 26 Sept 2026.
 
-DJ Love is a club and house artist based in United States of America, tracked on soundcheck, with 21 sets logged across Amsterdam, Barcelona, Berlin and Hongkong and 6 more. Often billed alongside Emerald, Aletha and BLUMITSU. Next up: Starlane Pizza Bar, London on Sat 12 Sept.
+DJ Love is a club and house artist based in United States of America, tracked on soundcheck, with 21 sets logged across Amsterdam, Barcelona, Berlin and Hongkong and 6 more. Often billed alongside Emerald, Aletha and BLUMITSU. Next up: Exhibition London, London on Sat 26 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 12 Sept 2026 | Starlane Pizza Bar | London |
 | Sat, 26 Sept 2026 | Exhibition London | London |
+| Sat, 10 Oct 2026 | Starlane Pizza Bar | London |
 
 ## Recently played
 
@@ -26,4 +26,4 @@ DJ Love is a club and house artist based in United States of America, tracked on
 
 Emerald, Aletha, BLUMITSU
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djlove/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djlove/)*

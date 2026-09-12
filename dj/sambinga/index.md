@@ -1,6 +1,6 @@
 # Sam Binga
 
-Sam Binga is a Bass and Garage artist with 3 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at The Regency Ballroom, San Francisco/Oakland on Sat, 3 Oct 2026.
+Sam Binga is a Bass and Garage artist with 3 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at The Regency Ballroom, San Francisco/Oakland on Sat, 3 Oct 2026.
 
 Sam Binga is a bass and garage artist tracked on soundcheck, with 86 sets logged across Auckland, Austin, Birmingham and Boston and 34 more. Often billed alongside Bianca Oblivion, Addison Groove and Amy Kisnorbo. Next up: The Regency Ballroom, Sanfrancisco on Sat 3 Oct.
 
@@ -27,4 +27,4 @@ Sam Binga is a bass and garage artist tracked on soundcheck, with 86 sets logged
 
 Bianca Oblivion, Addison Groove, Amy Kisnorbo
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sambinga/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sambinga/)*

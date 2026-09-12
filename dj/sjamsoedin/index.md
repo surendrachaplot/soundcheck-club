@@ -1,6 +1,6 @@
 # Sjamsoedin
 
-Sjamsoedin is a Bass and Garage artist with 1 upcoming club date listed on soundcheck as of Fri, 11 Sept 2026, next at Skatecafe, Amsterdam on Fri, 18 Sept 2026.
+Sjamsoedin is a Bass and Garage artist with 1 upcoming club date listed on soundcheck as of Sat, 12 Sept 2026, next at Skatecafe, Amsterdam on Fri, 18 Sept 2026.
 
 Sjamsoedin is a bass and garage artist tracked on soundcheck, with 7 sets logged across Amsterdam, Ghent and Thehague. Often billed alongside CLTX, Cinnaman and Cosmox. Next up: Skatecafe, Amsterdam on Fri 18 Sept.
 
@@ -23,4 +23,4 @@ Sjamsoedin is a bass and garage artist tracked on soundcheck, with 7 sets logged
 
 CLTX, Cinnaman, Cosmox
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sjamsoedin/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sjamsoedin/)*

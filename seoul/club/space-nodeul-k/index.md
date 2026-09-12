@@ -1,6 +1,6 @@
 # Space Nodeul K
 
-Space Nodeul K is a music venue in Seoul with 1 upcoming night listed on soundcheck as of Fri, 11 Sept 2026; the next is "HUME 001: OFFSITE" on Sun, 4 Oct 2026.
+Space Nodeul K is a music venue in Seoul with 1 upcoming night listed on soundcheck as of Sat, 12 Sept 2026; the next is "HUME 001: OFFSITE" on Sun, 4 Oct 2026.
 
 Space Nodeul K is a music venue in Seoul listed on soundcheck. 1 upcoming night, with line-ups including Antwork, Daura, KONA (2) and Minkyu and 2 more. Browse upcoming dates, start times and who's playing. 11 Hyunchung-ro, Dongjak-gu, Seoul, Korea (postcode: 06904).
 
@@ -14,4 +14,4 @@ Space Nodeul K is a music venue in Seoul listed on soundcheck. 1 upcoming night,
 
 11 Hyunchung-ro, Dongjak-gu, Seoul, Korea (postcode: 06904), Seoul
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/seoul/club/space-nodeul-k/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/seoul/club/space-nodeul-k/)*

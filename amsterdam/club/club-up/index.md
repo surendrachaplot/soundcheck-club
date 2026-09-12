@@ -1,6 +1,6 @@
 # Club Up
 
-Club Up is a music venue in Amsterdam with 11 upcoming nights listed on soundcheck as of Fri, 11 Sept 2026; the next is "COLLIDE" on Fri, 11 Sept 2026.
+Club Up is a music venue in Amsterdam with 11 upcoming nights listed on soundcheck as of Sat, 12 Sept 2026; the next is "COLLIDE" on Fri, 11 Sept 2026.
 
 Club Up is a music venue in Amsterdam listed on soundcheck. 11 upcoming nights, with line-ups including Becking, Boyos Soundsystem, Chunky and Danny Snowden and 2 more. Browse upcoming dates, start times and who's playing. Korte Leidsedwarsstraat 26-1; 1017  Binnenstad; Amsterdam; Netherlands.
 
@@ -23,4 +23,4 @@ Club Up is a music venue in Amsterdam listed on soundcheck. 11 upcoming nights, 
 
 Korte Leidsedwarsstraat 26-1; 1017  Binnenstad; Amsterdam; Netherlands, Amsterdam
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/club-up/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/club-up/)*

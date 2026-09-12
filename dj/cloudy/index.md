@@ -1,6 +1,6 @@
 # Cloudy
 
-Cloudy is a Techno and Trance artist with 8 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at TBA - Brussels, Brussels on Fri, 11 Sept 2026.
+Cloudy is a Techno and Trance artist with 8 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at TBA - Brussels, Brussels on Fri, 11 Sept 2026.
 
 Cloudy is a techno and trance artist tracked on soundcheck, with 216 sets logged across Aberdeen, Amsterdam, Antwerp and Athens and 55 more. Often billed alongside Adrian Mills, KUKO and Johannes Schuster. Next up: TBA - Brussels, Brussels on Fri 11 Sept.
 
@@ -19,6 +19,7 @@ Cloudy is a techno and trance artist tracked on soundcheck, with 216 sets logged
 
 ## Recently played
 
+- TBA - Brussels, Brussels — Fri, 11 Sept 2026
 - Piknic Électronik / Parc Jean Drapeau, Montreal — Mon, 7 Sept 2026
 - TBA, Toronto — Sun, 6 Sept 2026
 - Industry City, New York City — Sat, 5 Sept 2026
@@ -26,10 +27,9 @@ Cloudy is a techno and trance artist tracked on soundcheck, with 216 sets logged
 - Echostage, Washington DC — Fri, 4 Sept 2026
 - Echostage, Washington DC — Fri, 4 Sept 2026
 - Dürener Badesee, Cologne — Fri, 28 Aug 2026
-- Dürener Badesee, Cologne — Fri, 28 Aug 2026
 
 ## Shares bills with
 
 Adrian Mills, KUKO, Johannes Schuster
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/cloudy/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/cloudy/)*

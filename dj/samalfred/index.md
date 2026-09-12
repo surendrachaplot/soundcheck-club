@@ -1,8 +1,8 @@
 # Sam Alfred
 
-Sam Alfred is a House and Techno artist with 13 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at TBA - Brussels, Brussels on Fri, 11 Sept 2026.
+Sam Alfred is a House and Techno artist with 14 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at TBA - Brussels, Brussels on Fri, 11 Sept 2026.
 
-Sam Alfred is a house and techno artist tracked on soundcheck, with 137 sets logged across Amsterdam, Antwerp, Barcelona and Belfast and 47 more. Often billed alongside X CLUB., KETTAMA and SAIDAH. Next up: TBA - Brussels, Brussels on Fri 11 Sept.
+Sam Alfred is a house and techno artist tracked on soundcheck, with 138 sets logged across Amsterdam, Antwerp, Barcelona and Belfast and 47 more. Often billed alongside X CLUB., KETTAMA and SAIDAH. Next up: TBA - Brussels, Brussels on Fri 11 Sept.
 
 ## Upcoming shows
 
@@ -15,14 +15,15 @@ Sam Alfred is a house and techno artist tracked on soundcheck, with 137 sets log
 | Fri, 2 Oct 2026 | Magic Stick | Detroit |
 | Fri, 9 Oct 2026 | Substation | Seattle |
 | Fri, 16 Oct 2026 | Mana Wynwood | Miami |
+| Thu, 22 Oct 2026 | Shelter Amsterdam | Amsterdam |
 | Fri, 23 Oct 2026 | Ndsm Wharf | Amsterdam |
 | Fri, 23 Oct 2026 | Het Rijk van de Keizer | Amsterdam |
 | Sat, 24 Oct 2026 | GASHOUDER | Amsterdam |
 | Fri, 6 Nov 2026 | Depot Mayfield | Manchester |
-| Wed, 11 Nov 2026 | TBA | Ghent |
 
 ## Recently played
 
+- TBA - Brussels, Brussels — Fri, 11 Sept 2026
 - Union Park, Chicago — Fri, 4 Sept 2026
 - Electric Studios, Sheffield — Fri, 4 Sept 2026
 - Tuinen van West, Amsterdam — Sat, 29 Aug 2026
@@ -30,10 +31,9 @@ Sam Alfred is a house and techno artist tracked on soundcheck, with 137 sets log
 - Hangaren, Copenhagen — Thu, 30 Jul 2026
 - Le Sucre, Lyon — Sun, 26 Jul 2026
 - OLT Rivierenhof, Antwerp — Sat, 18 Jul 2026
-- Shelter Amsterdam, Amsterdam — Fri, 3 Jul 2026
 
 ## Shares bills with
 
 X CLUB., KETTAMA, SAIDAH
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/samalfred/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/samalfred/)*

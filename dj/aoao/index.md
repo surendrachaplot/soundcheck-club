@@ -1,6 +1,6 @@
 # AOAO
 
-AOAO is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Fri, 11 Sept 2026, next at LoHi, New York City on Sat, 12 Sept 2026.
+AOAO is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Sat, 12 Sept 2026, next at LoHi, New York City on Sat, 12 Sept 2026.
 
 AOAO is a house and minimal artist based in United States of America, tracked on soundcheck, with 10 sets logged across Newyorkcity. Often billed alongside Raw Phonics, Armii1n and Auphoria. Next up: LoHi, Newyorkcity on Sat 12 Sept.
 
@@ -25,4 +25,4 @@ AOAO is a house and minimal artist based in United States of America, tracked on
 
 Raw Phonics, Armii1n, Auphoria
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/aoao/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/aoao/)*

@@ -1,6 +1,6 @@
 # Andeel
 
-Andeel is a Psytrance and Downtempo artist with 1 upcoming club date listed on soundcheck as of Fri, 11 Sept 2026, next at Sensorium, Berlin on Sat, 26 Sept 2026.
+Andeel is a Psytrance and Downtempo artist with 1 upcoming club date listed on soundcheck as of Sat, 12 Sept 2026, next at Sensorium, Berlin on Sat, 26 Sept 2026.
 
 Andeel is a psytrance and downtempo artist based in Germany, tracked on soundcheck, with 27 sets logged across Berlin. Often billed alongside Abdallah and I, Lara Elfara and Noor Sanchez. Next up: Sensorium, Berlin on Sat 26 Sept.
 
@@ -25,4 +25,4 @@ Andeel is a psytrance and downtempo artist based in Germany, tracked on soundche
 
 Abdallah and I, Lara Elfara, Noor Sanchez
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/andeel/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/andeel/)*

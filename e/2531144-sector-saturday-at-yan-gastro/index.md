@@ -1,6 +1,6 @@
 # Sector Saturday at Yan Gastro
 
-Sector Saturday at Yan Gastro on Sat 12 Sept, Istanbul. 1 act on the bill: Utku Dalmaz. House. Preview the line-up and save it on soundcheck.
+Sector Saturday at Yan Gastro on Sat 12 Sept, Istanbul. 3 acts on the bill: Idol, Rei (1) and Utku Dalmaz. House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,8 @@ Sector Saturday at Yan Gastro on Sat 12 Sept, Istanbul. 1 act on the bill: Utku 
 
 ## Line-up
 
+- Idol
+- Rei (1)
 - Utku Dalmaz
 
 *Source: [soundcheck](https://soundcheck.club/e/2531144-sector-saturday-at-yan-gastro/)*

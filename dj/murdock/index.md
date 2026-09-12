@@ -1,6 +1,6 @@
 # Murdock
 
-Murdock is a Drum & Bass and Bass artist with 2 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at Ministry Of Sound, London on Fri, 16 Oct 2026.
+Murdock is a Drum & Bass and Bass artist with 2 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Ministry Of Sound, London on Fri, 16 Oct 2026.
 
 Murdock is a drum & bass and bass artist based in United Kingdom, tracked on soundcheck, with 23 sets logged across Amsterdam, Antwerp, Austin and Bristol and 8 more. Often billed alongside Andromedik, Enaly and Sigma. Next up: Ministry Of Sound, London on Fri 16 Oct.
 
@@ -26,4 +26,4 @@ Murdock is a drum & bass and bass artist based in United Kingdom, tracked on sou
 
 Andromedik, Enaly, Sigma
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/murdock/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/murdock/)*

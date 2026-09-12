@@ -1,8 +1,8 @@
 # KARINSMATIC
 
-KARINSMATIC is a Progressive House and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at Onder Hans, Amsterdam on Fri, 23 Oct 2026.
+KARINSMATIC is a Progressive House and Techno artist with 3 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Onder Hans, Amsterdam on Fri, 23 Oct 2026.
 
-KARINSMATIC is a progressive house and techno artist based in Estonia, tracked on soundcheck, with 23 sets logged across Amsterdam and Tallinn. Often billed alongside Ken Dark, Unknown Horizon and Merimell. Next up: Onder Hans, Amsterdam on Fri 23 Oct.
+KARINSMATIC is a progressive house and techno artist based in Estonia, tracked on soundcheck, with 24 sets logged across Amsterdam and Tallinn. Often billed alongside Ken Dark, Unknown Horizon and Amethy. Next up: Onder Hans, Amsterdam on Fri 23 Oct.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ KARINSMATIC is a progressive house and techno artist based in Estonia, tracked o
 | --- | --- | --- |
 | Fri, 23 Oct 2026 | Onder Hans | Amsterdam |
 | Sun, 25 Oct 2026 | Veronica Schip | Amsterdam |
+| Sun, 25 Oct 2026 | Oliva | Amsterdam |
 
 ## Recently played
 
@@ -24,6 +25,6 @@ KARINSMATIC is a progressive house and techno artist based in Estonia, tracked o
 
 ## Shares bills with
 
-Ken Dark, Unknown Horizon, Merimell
+Ken Dark, Unknown Horizon, Amethy
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/karinsmatic/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/karinsmatic/)*

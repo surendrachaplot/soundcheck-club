@@ -1,8 +1,8 @@
 # Dr Banana
 
-Dr Banana is a House and Garage artist with 11 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at PRST, Vienna on Fri, 11 Sept 2026.
+Dr Banana is a House and Garage artist with 12 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at PRST, Vienna on Fri, 11 Sept 2026.
 
-Dr Banana is a house and garage artist tracked on soundcheck, with 249 sets logged across Amsterdam, Barcelona, Belfast and Berlin and 39 more. Often billed alongside Laidlaw, Melody RA+RE and Enzo Siragusa. Next up: PRST, Vienna on Fri 11 Sept.
+Dr Banana is a house and garage artist tracked on soundcheck, with 250 sets logged across Amsterdam, Barcelona, Belfast and Berlin and 39 more. Often billed alongside Laidlaw, Melody RA+RE and Enzo Siragusa. Next up: PRST, Vienna on Fri 11 Sept.
 
 ## Upcoming shows
 
@@ -19,9 +19,11 @@ Dr Banana is a house and garage artist tracked on soundcheck, with 249 sets logg
 | Sat, 31 Oct 2026 | NX Newcastle | Newcastle |
 | Sat, 31 Oct 2026 | TESTBED | Leeds |
 | Sat, 31 Oct 2026 | NOWHERE | Manchester |
+| Fri, 11 Dec 2026 | Fidelity Studio | Dublin |
 
 ## Recently played
 
+- PRST, Vienna — Fri, 11 Sept 2026
 - PROGRESS, Manchester — Sun, 30 Aug 2026
 - The Loft, Manchester — Sun, 30 Aug 2026
 - The Loft, Manchester — Sun, 30 Aug 2026
@@ -29,10 +31,9 @@ Dr Banana is a house and garage artist tracked on soundcheck, with 249 sets logg
 - Rumore Nightclub Capri, Naples — Sat, 22 Aug 2026
 - 528 Ibiza, Ibiza — Sun, 16 Aug 2026
 - Les Enfants Brillants, Barcelona — Fri, 14 Aug 2026
-- Sukkerbiten, Oslo — Sat, 8 Aug 2026
 
 ## Shares bills with
 
 Laidlaw, Melody RA+RE, Enzo Siragusa
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/drbanana/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/drbanana/)*

@@ -1,6 +1,6 @@
 # Zarling
 
-Zarling is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at Paloma, Berlin on Sat, 19 Sept 2026.
+Zarling is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Paloma, Berlin on Sat, 19 Sept 2026.
 
 Zarling is a house and tech house artist based in Germany, tracked on soundcheck, with 12 sets logged across Berlin. Often billed alongside degen, Dreimal T and schönfeld. Next up: Paloma, Berlin on Sat 19 Sept.
 
@@ -26,4 +26,4 @@ Zarling is a house and tech house artist based in Germany, tracked on soundcheck
 
 degen, Dreimal T, schönfeld
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/zarling/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/zarling/)*

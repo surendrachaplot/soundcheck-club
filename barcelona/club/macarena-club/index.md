@@ -1,6 +1,6 @@
 # Macarena Club
 
-Macarena Club is a music venue in Barcelona with 20 upcoming nights listed on soundcheck as of Fri, 11 Sept 2026; the next is "CrazySonic Night" on Fri, 11 Sept 2026.
+Macarena Club is a music venue in Barcelona with 20 upcoming nights listed on soundcheck as of Sat, 12 Sept 2026; the next is "CrazySonic Night" on Fri, 11 Sept 2026.
 
 Macarena Club is a music venue in Barcelona listed on soundcheck. 20 upcoming nights, with line-ups including Jo-Sie, Belu Rodriguez, Carlos Lamar and Cipy and 2 more. Browse upcoming dates, start times and who's playing. Carrer Nou de Sant Francesc, 5; 08002 Barcelona; Spain.
 
@@ -23,4 +23,4 @@ Macarena Club is a music venue in Barcelona listed on soundcheck. 20 upcoming ni
 
 Carrer Nou de Sant Francesc, 5; 08002 Barcelona; Spain, Barcelona
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/macarena-club/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/macarena-club/)*

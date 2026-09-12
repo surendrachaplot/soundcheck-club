@@ -1,6 +1,6 @@
 # Colleen 'Cosmo' Murphy
 
-Colleen 'Cosmo' Murphy is a Disco and House artist with 6 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at Tresor / Globus, Berlin on Sat, 12 Sept 2026.
+Colleen 'Cosmo' Murphy is a Disco and House artist with 6 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Tresor / Globus, Berlin on Sat, 12 Sept 2026.
 
 Colleen 'Cosmo' Murphy is a disco and house artist tracked on soundcheck, with 82 sets logged across Amsterdam, Athens, Barcelona and Belfast and 26 more. Often billed alongside Horse Meat Disco, Love Injection and Nightmares on Wax. Next up: Tresor / Globus, Berlin on Sat 12 Sept.
 
@@ -30,4 +30,4 @@ Colleen 'Cosmo' Murphy is a disco and house artist tracked on soundcheck, with 8
 
 Horse Meat Disco, Love Injection, Nightmares on Wax
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/colleencosmomurphy/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/colleencosmomurphy/)*

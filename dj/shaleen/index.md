@@ -1,6 +1,6 @@
 # Shaleen
 
-Shaleen is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at RADION, Amsterdam on Fri, 18 Sept 2026.
+Shaleen is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at RADION, Amsterdam on Fri, 18 Sept 2026.
 
 Shaleen is a techno and house artist tracked on soundcheck, with 123 sets logged across Amsterdam, Athens, Barcelona and Belgrade and 18 more. Often billed alongside Ellen Allien, JANEIN and DJ Europarking. Next up: RADION, Amsterdam on Fri 18 Sept.
 
@@ -28,4 +28,4 @@ Shaleen is a techno and house artist tracked on soundcheck, with 123 sets logged
 
 Ellen Allien, JANEIN, DJ Europarking
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/shaleen/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/shaleen/)*

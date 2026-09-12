@@ -1,8 +1,8 @@
 # Script (GE)
 
-Script (GE) is a Techno and Tech House artist with 4 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at Loo Loo, Mexico City on Sat, 19 Sept 2026.
+Script (GE) is a Techno and Tech House artist with 4 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Loo Loo, Mexico City on Sat, 19 Sept 2026.
 
-Script (GE) is a techno and tech house artist based in Georgia, tracked on soundcheck, with 38 sets logged across Amsterdam, Austin, Buenosaires and Ibiza and 6 more. Often billed alongside Uväll, Dual Pistols and gwän. Next up: Loo Loo, Mexicocity on Sat 19 Sept.
+Script (GE) is a techno and tech house artist based in Georgia, tracked on soundcheck, with 38 sets logged across Amsterdam, Austin, Buenosaires and Ibiza and 6 more. Often billed alongside Uväll, gwän and Dual Pistols. Next up: Loo Loo, Mexicocity on Sat 19 Sept.
 
 ## Upcoming shows
 
@@ -26,6 +26,6 @@ Script (GE) is a techno and tech house artist based in Georgia, tracked on sound
 
 ## Shares bills with
 
-Uväll, Dual Pistols, gwän
+Uväll, gwän, Dual Pistols
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/script-ge/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/script-ge/)*

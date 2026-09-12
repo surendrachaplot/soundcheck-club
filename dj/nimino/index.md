@@ -1,6 +1,6 @@
 # nimino
 
-nimino is a House and Electronica artist with 6 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at TBA - Pier 80, San Francisco/Oakland on Sat, 26 Sept 2026.
+nimino is a House and Electronica artist with 6 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at TBA - Pier 80, San Francisco/Oakland on Sat, 26 Sept 2026.
 
 nimino is a house and electronica artist tracked on soundcheck, with 48 sets logged across Amsterdam, Barcelona, Berlin and Boston and 20 more. Often billed alongside Lane 8, Elderbrook and Honey Dijon. Next up: TBA - Pier 80, Sanfrancisco on Sat 26 Sept.
 
@@ -30,4 +30,4 @@ nimino is a house and electronica artist tracked on soundcheck, with 48 sets log
 
 Lane 8, Elderbrook, Honey Dijon
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nimino/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nimino/)*

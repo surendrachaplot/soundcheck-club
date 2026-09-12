@@ -1,6 +1,6 @@
 # Lloydski
 
-Lloydski is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Fri, 11 Sept 2026, next at Bossa Nova Civic Club, New York City on Thu, 1 Oct 2026.
+Lloydski is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Sat, 12 Sept 2026, next at Bossa Nova Civic Club, New York City on Thu, 1 Oct 2026.
 
 Lloydski is a house and disco artist tracked on soundcheck, with 70 sets logged across Berlin, Lisbon, London and Losangeles and 8 more. Often billed alongside Eli Escobar, Lauren Murada and Planet B. Next up: Bossa Nova Civic Club, Newyorkcity on Thu 1 Oct.
 
@@ -25,4 +25,4 @@ Lloydski is a house and disco artist tracked on soundcheck, with 70 sets logged 
 
 Eli Escobar, Lauren Murada, Planet B
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lloydski/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lloydski/)*

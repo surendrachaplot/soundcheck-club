@@ -1,6 +1,6 @@
 # Kesselhaus & Maschinenhaus Kulturbrauerei Berlin
 
-Kesselhaus & Maschinenhaus Kulturbrauerei Berlin is a music venue in Berlin with 2 upcoming nights listed on soundcheck as of Fri, 11 Sept 2026; the next is "GrooveJet Berlin 003 - Maschinenhouse" on Sat, 26 Sept 2026.
+Kesselhaus & Maschinenhaus Kulturbrauerei Berlin is a music venue in Berlin with 2 upcoming nights listed on soundcheck as of Sat, 12 Sept 2026; the next is "GrooveJet Berlin 003 - Maschinenhouse" on Sat, 26 Sept 2026.
 
 Kesselhaus & Maschinenhaus Kulturbrauerei Berlin is a music venue in Berlin listed on soundcheck. 2 upcoming nights, with line-ups including B. Clarke, Cleo Grooves, NeZoomie and Pat. Browse upcoming dates, start times and who's playing. Schönhauser Allee 36 · 10435 Berlin.
 
@@ -15,4 +15,4 @@ Kesselhaus & Maschinenhaus Kulturbrauerei Berlin is a music venue in Berlin list
 
 Schönhauser Allee 36 · 10435 Berlin, Berlin
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/kesselhaus-maschinenhaus-kulturbrauerei-berlin/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/kesselhaus-maschinenhaus-kulturbrauerei-berlin/)*

@@ -1,6 +1,6 @@
 # Sarahsson
 
-Sarahsson is a Experimental and Club artist with 1 upcoming club date listed on soundcheck as of Fri, 11 Sept 2026, next at Cosies, Bristol on Fri, 11 Sept 2026.
+Sarahsson is a Experimental and Club artist with 1 upcoming club date listed on soundcheck as of Sat, 12 Sept 2026, next at Cosies, Bristol on Fri, 11 Sept 2026.
 
 Sarahsson is an experimental and club artist tracked on soundcheck, with 22 sets logged across Barcelona, Berlin, Bristol and Brussels and 11 more. Often billed alongside Bitter Babe, Buttechno and Ellen Arkbro. Next up: Cosies, Bristol on Fri 11 Sept.
 
@@ -12,6 +12,7 @@ Sarahsson is an experimental and club artist tracked on soundcheck, with 22 sets
 
 ## Recently played
 
+- Cosies, Bristol — Fri, 11 Sept 2026
 - Ormside Projects, London — Sat, 9 May 2026
 - Cafe OTO, London — Tue, 2 Sept 2025
 - Strange Brew, Bristol — Fri, 28 Feb 2025
@@ -19,10 +20,9 @@ Sarahsson is an experimental and club artist tracked on soundcheck, with 22 sets
 - TBA - Church of All Saints, Bristol — Wed, 6 Nov 2024
 - Cloak, Bristol — Sat, 31 Aug 2024
 - Off Topic, Turin — Fri, 22 Mar 2024
-- Lafayette Anticipations, Paris — Fri, 19 Jan 2024
 
 ## Shares bills with
 
 Bitter Babe, Buttechno, Ellen Arkbro
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sarahsson/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sarahsson/)*

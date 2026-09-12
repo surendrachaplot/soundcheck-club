@@ -1,6 +1,6 @@
 # Motel Campo
 
-Motel Campo is a music venue in Geneva with 2 upcoming nights listed on soundcheck as of Fri, 11 Sept 2026; the next is "Motel ✰ ORFIGYAL" on Sat, 12 Sept 2026.
+Motel Campo is a music venue in Geneva with 2 upcoming nights listed on soundcheck as of Sat, 12 Sept 2026; the next is "Motel ✰ ORFIGYAL" on Sat, 12 Sept 2026.
 
 Motel Campo is a music venue in Geneva listed on soundcheck. 2 upcoming nights, with line-ups including Deetron, Hirma and ORFIGYAL. Browse upcoming dates, start times and who's playing. Route des Jeunes 13; Carouge, 1227, Geneva, Switzerland.
 
@@ -15,4 +15,4 @@ Motel Campo is a music venue in Geneva listed on soundcheck. 2 upcoming nights, 
 
 Route des Jeunes 13; Carouge, 1227, Geneva, Switzerland, Geneva
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/geneva/club/motel-campo/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/geneva/club/motel-campo/)*

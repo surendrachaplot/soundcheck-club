@@ -1,6 +1,6 @@
 # MarcelDune
 
-MarcelDune is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at fabric, London on Fri, 18 Sept 2026.
+MarcelDune is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at fabric, London on Fri, 18 Sept 2026.
 
 MarcelDune is a techno and house artist tracked on soundcheck, with 64 sets logged across Amsterdam, Athens, Berlin and Brighton and 11 more. Often billed alongside Amphia, RayRay and ASHTREY. Next up: fabric, London on Fri 18 Sept.
 
@@ -27,4 +27,4 @@ MarcelDune is a techno and house artist tracked on soundcheck, with 64 sets logg
 
 Amphia, RayRay, ASHTREY
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/marceldune/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/marceldune/)*

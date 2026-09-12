@@ -1,14 +1,13 @@
 # Ivy Lab
 
-Ivy Lab is a Bass and Drum & Bass artist with 10 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at Lincoln Factory, Detroit on Fri, 11 Sept 2026.
+Ivy Lab is a Bass and Drum & Bass artist with 9 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Ogden Theatre, Denver on Fri, 25 Sept 2026.
 
-Ivy Lab is a bass and drum & bass artist tracked on soundcheck, with 82 sets logged across Antwerp, Auckland, Austin and Berlin and 28 more. Often billed alongside Kasra, Lake Hills and Jubilee. Next up: Lincoln Factory, Detroit on Fri 11 Sept.
+Ivy Lab is a bass and drum & bass artist tracked on soundcheck, with 82 sets logged across Antwerp, Auckland, Austin and Berlin and 28 more. Often billed alongside Kasra, Lake Hills and Jubilee. Next up: Ogden Theatre, Denver on Fri 25 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 11 Sept 2026 | Lincoln Factory | Detroit |
 | Fri, 25 Sept 2026 | Ogden Theatre | Denver |
 | Sat, 26 Sept 2026 | Substation | Seattle |
 | Thu, 8 Oct 2026 | Smoke & Mirrors | Chicago |
@@ -21,6 +20,7 @@ Ivy Lab is a bass and drum & bass artist tracked on soundcheck, with 82 sets log
 
 ## Recently played
 
+- Lincoln Factory, Detroit — Fri, 11 Sept 2026
 - UNO MALTA, Malta — Thu, 3 Sept 2026
 - Cooks Valley Campground, San Francisco/Oakland — Fri, 17 Jul 2026
 - Club Cheek, London — Fri, 12 Jun 2026
@@ -28,10 +28,9 @@ Ivy Lab is a bass and drum & bass artist tracked on soundcheck, with 82 sets log
 - Warehouse on Watts, Philadelphia — Sat, 28 Mar 2026
 - The Ground at Club Space, Miami — Fri, 6 Mar 2026
 - The Ground at Club Space, Miami — Fri, 6 Mar 2026
-- The Bellwether, Los Angeles — Fri, 6 Feb 2026
 
 ## Shares bills with
 
 Kasra, Lake Hills, Jubilee
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ivylab/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ivylab/)*

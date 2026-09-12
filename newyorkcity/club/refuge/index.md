@@ -1,6 +1,6 @@
 # Refuge
 
-Refuge is a music venue in New York City with 15 upcoming nights listed on soundcheck as of Fri, 11 Sept 2026; the next is "Refuge Friday: Gorje Hewek + Volen Sentir + Lauren Ritter" on Fri, 11 Sept 2026.
+Refuge is a music venue in New York City with 15 upcoming nights listed on soundcheck as of Sat, 12 Sept 2026; the next is "Refuge Friday: Gorje Hewek + Volen Sentir + Lauren Ritter" on Fri, 11 Sept 2026.
 
 Refuge is a music venue in Newyorkcity listed on soundcheck. 15 upcoming nights, with line-ups including Ahadadream, Akua, A-Trak and Black Asteroid and 2 more. Browse upcoming dates, start times and who's playing. 366 Ten Eyck St, Brooklyn, NY 11206.
 
@@ -23,4 +23,4 @@ Refuge is a music venue in Newyorkcity listed on soundcheck. 15 upcoming nights,
 
 366 Ten Eyck St, Brooklyn, NY 11206, New York City
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/refuge/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/refuge/)*

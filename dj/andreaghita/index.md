@@ -1,6 +1,6 @@
 # Andrea Ghita
 
-Andrea Ghita is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 11 Sept 2026, next at TBA - Cass Corridor, Detroit on Sat, 12 Sept 2026.
+Andrea Ghita is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 12 Sept 2026, next at TBA - Cass Corridor, Detroit on Sat, 12 Sept 2026.
 
 Andrea Ghita is a house and techno artist based in United States of America, tracked on soundcheck, with 89 sets logged across Chicago and Detroit. Often billed alongside Jorissen, Aboudi Issa and Loren. Next up: TBA - Cass Corridor, Detroit on Sat 12 Sept.
 
@@ -25,4 +25,4 @@ Andrea Ghita is a house and techno artist based in United States of America, tra
 
 Jorissen, Aboudi Issa, Loren
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/andreaghita/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/andreaghita/)*

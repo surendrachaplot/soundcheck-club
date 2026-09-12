@@ -1,6 +1,6 @@
 # Audio Club
 
-Audio Club is a music venue in Geneva with 5 upcoming nights listed on soundcheck as of Fri, 11 Sept 2026; the next is "Marco Faraone · Dachshund · TAM.K" on Fri, 11 Sept 2026.
+Audio Club is a music venue in Geneva with 5 upcoming nights listed on soundcheck as of Sat, 12 Sept 2026; the next is "Marco Faraone · Dachshund · TAM.K" on Fri, 11 Sept 2026.
 
 Audio Club is a music venue in Geneva listed on soundcheck. 5 upcoming nights, with line-ups including Animal Trainer, Auguste Safar, Beard2Beard and Birds of Mind and 2 more. Browse upcoming dates, start times and who's playing. Boissonnas 20,  1227 Les Acacias - Genève.
 
@@ -18,4 +18,4 @@ Audio Club is a music venue in Geneva listed on soundcheck. 5 upcoming nights, w
 
 Boissonnas 20,  1227 Les Acacias - Genève, Geneva
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/geneva/club/audio-club/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/geneva/club/audio-club/)*

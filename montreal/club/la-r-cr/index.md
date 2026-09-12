@@ -1,6 +1,6 @@
 # La Récré
 
-La Récré is a music venue in Montreal with 3 upcoming nights listed on soundcheck as of Fri, 11 Sept 2026; the next is "Destination 160 vol II: Traxman" on Fri, 11 Sept 2026.
+La Récré is a music venue in Montreal with 3 upcoming nights listed on soundcheck as of Sat, 12 Sept 2026; the next is "Destination 160 vol II: Traxman" on Fri, 11 Sept 2026.
 
 La Récré is a music venue in Montreal listed on soundcheck. 3 upcoming nights, with line-ups including GHOST TEMPO, Groceries, Neo Edo and SIM (CA) and 2 more. Browse upcoming dates, start times and who's playing. 5860 Av. De Lorimier, Montréal, QC H2G 2N9.
 
@@ -16,4 +16,4 @@ La Récré is a music venue in Montreal listed on soundcheck. 3 upcoming nights,
 
 5860 Av. De Lorimier, Montréal, QC H2G 2N9, Montreal
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/montreal/club/la-r-cr/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/montreal/club/la-r-cr/)*

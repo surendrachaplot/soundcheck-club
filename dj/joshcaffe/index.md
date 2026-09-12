@@ -1,6 +1,6 @@
 # Josh Caffé
 
-Josh Caffé is a House and Techno artist with 7 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at Lux Fragil, Lisbon on Sat, 19 Sept 2026.
+Josh Caffé is a House and Techno artist with 7 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Lux Fragil, Lisbon on Sat, 19 Sept 2026.
 
 Josh Caffé is a house and techno artist tracked on soundcheck, with 151 sets logged across Amsterdam, Antwerp, Bali and Bangkok and 38 more. Often billed alongside Hannah Holland, NIKS and BASHKKA. Next up: Lux Fragil, Lisbon on Sat 19 Sept.
 
@@ -31,4 +31,4 @@ Josh Caffé is a house and techno artist tracked on soundcheck, with 151 sets lo
 
 Hannah Holland, NIKS, BASHKKA
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/joshcaffe/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/joshcaffe/)*

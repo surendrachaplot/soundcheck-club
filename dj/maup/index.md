@@ -1,6 +1,6 @@
 # Mau P
 
-Mau P is a House and Tech House artist with 10 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at Brooklyn Army Terminal, New York City on Sat, 12 Sept 2026.
+Mau P is a House and Tech House artist with 10 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Brooklyn Army Terminal, New York City on Sat, 12 Sept 2026.
 
 Mau P is a house and tech house artist tracked on soundcheck, with 155 sets logged across Amsterdam, Austin, Barcelona and Bristol and 36 more. Often billed alongside Joseph Capriati, DJ Tennis and Dom Dolla. Next up: Brooklyn Army Terminal, Newyorkcity on Sat 12 Sept.
 
@@ -34,4 +34,4 @@ Mau P is a house and tech house artist tracked on soundcheck, with 155 sets logg
 
 Joseph Capriati, DJ Tennis, Dom Dolla
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/maup/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/maup/)*

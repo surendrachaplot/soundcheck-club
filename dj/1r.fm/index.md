@@ -1,6 +1,6 @@
 # 1R.fm
 
-1R.fm is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 11 Sept 2026, next at TBA - Cambridge Location, Boston on Fri, 11 Sept 2026.
+1R.fm is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 12 Sept 2026, next at TBA - Cambridge Location, Boston on Fri, 11 Sept 2026.
 
 1R.fm is a house and techno artist tracked on soundcheck, with 8 sets logged across Boston. Often billed alongside DJ Bookworm, AleBCostantino and FRANZIV. Next up: TBA - Cambridge Location, Boston on Fri 11 Sept.
 
@@ -12,6 +12,7 @@
 
 ## Recently played
 
+- TBA - Cambridge Location, Boston — Fri, 11 Sept 2026
 - The Lower Level, Boston — Sat, 29 Aug 2026
 - TBA, Boston — Fri, 26 Jun 2026
 - TBA - Cambridge Location, Boston — Sat, 30 May 2026
@@ -24,4 +25,4 @@
 
 DJ Bookworm, AleBCostantino, FRANZIV
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/1r.fm/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/1r.fm/)*

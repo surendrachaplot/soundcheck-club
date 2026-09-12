@@ -1,6 +1,6 @@
 # Bar Oriente
 
-Bar Oriente is a music venue in Mexico City with 9 upcoming nights listed on soundcheck as of Fri, 11 Sept 2026; the next is "Rodion (Live), Thomass Jackson, TRIZTAN" on Fri, 11 Sept 2026.
+Bar Oriente is a music venue in Mexico City with 9 upcoming nights listed on soundcheck as of Sat, 12 Sept 2026; the next is "Rodion (Live), Thomass Jackson, TRIZTAN" on Fri, 11 Sept 2026.
 
 Bar Oriente is a music venue in Mexicocity listed on soundcheck. 9 upcoming nights, with line-ups including AEREA, Borgetti, c3rpa and Chema Diaz and 2 more. Browse upcoming dates, start times and who's playing. Calle de Durango 181, Roma Nte., 06700 Ciudad de MÃ©xico, CDMX.
 
@@ -22,4 +22,4 @@ Bar Oriente is a music venue in Mexicocity listed on soundcheck. 9 upcoming nigh
 
 Calle de Durango 181, Roma Nte., 06700 Ciudad de MÃ©xico, CDMX, Mexico City
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/mexicocity/club/bar-oriente/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/mexicocity/club/bar-oriente/)*

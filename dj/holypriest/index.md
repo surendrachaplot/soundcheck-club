@@ -1,6 +1,6 @@
 # Holy Priest
 
-Holy Priest is a Techno and Hardcore artist with 8 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at Circuit de Barcelona - Catalunya, Barcelona on Fri, 11 Sept 2026.
+Holy Priest is a Techno and Hardcore artist with 8 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Circuit de Barcelona - Catalunya, Barcelona on Fri, 11 Sept 2026.
 
 Holy Priest is a techno and hardcore artist tracked on soundcheck, with 125 sets logged across Amsterdam, Antwerp, Austin and Barcelona and 45 more. Often billed alongside elMefti, Fantasm and JAZZY (2). Next up: Circuit de Barcelona - Catalunya, Barcelona on Fri 11 Sept.
 
@@ -19,6 +19,7 @@ Holy Priest is a techno and hardcore artist tracked on soundcheck, with 125 sets
 
 ## Recently played
 
+- Circuit de Barcelona - Catalunya, Barcelona — Fri, 11 Sept 2026
 - UNO MALTA, Malta — Thu, 13 Aug 2026
 - Eden, Ibiza — Tue, 4 Aug 2026
 - Donauinsel, Vienna — Sat, 1 Aug 2026
@@ -26,10 +27,9 @@ Holy Priest is a techno and hardcore artist tracked on soundcheck, with 125 sets
 - Ormeau Park, Belfast — Sat, 20 Jun 2026
 - Olympia Reitanlage Riem, Munich — Sat, 13 Jun 2026
 - New Tekstil, Belgrade — Fri, 12 Jun 2026
-- Deutsche Bank Park, Frankfurt — Fri, 5 Jun 2026
 
 ## Shares bills with
 
 elMefti, Fantasm, JAZZY (2)
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/holypriest/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/holypriest/)*

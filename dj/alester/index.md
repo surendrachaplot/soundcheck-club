@@ -1,6 +1,6 @@
 # Al Ester
 
-Al Ester is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 11 Sept 2026, next at TV Lounge, Detroit on Sun, 4 Oct 2026.
+Al Ester is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 12 Sept 2026, next at TV Lounge, Detroit on Sun, 4 Oct 2026.
 
 Al Ester is a house and techno artist based in United States of America, tracked on soundcheck, with 63 sets logged across Detroit and Newyorkcity. Often billed alongside Stevano, Jesse Cory and John Collins (US). Next up: TV Lounge, Detroit on Sun 4 Oct.
 
@@ -25,4 +25,4 @@ Al Ester is a house and techno artist based in United States of America, tracked
 
 Stevano, Jesse Cory, John Collins (US)
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/alester/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/alester/)*

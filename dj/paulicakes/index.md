@@ -1,6 +1,6 @@
 # Pauli Cakes
 
-Pauli Cakes is a Techno and Club artist with 1 upcoming club date listed on soundcheck as of Fri, 11 Sept 2026, next at The Ground at Club Space, Miami on Fri, 18 Sept 2026.
+Pauli Cakes is a Techno and Club artist with 1 upcoming club date listed on soundcheck as of Sat, 12 Sept 2026, next at The Ground at Club Space, Miami on Fri, 18 Sept 2026.
 
 Pauli Cakes is a techno and club artist based in United States of America, tracked on soundcheck, with 79 sets logged across Berlin, Chicago, Leeds and Lisbon and 8 more. Often billed alongside Total XTC, Mossy Mugler and Xana 101. Next up: The Ground at Club Space, Miami on Fri 18 Sept.
 
@@ -25,4 +25,4 @@ Pauli Cakes is a techno and club artist based in United States of America, track
 
 Total XTC, Mossy Mugler, Xana 101
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/paulicakes/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/paulicakes/)*

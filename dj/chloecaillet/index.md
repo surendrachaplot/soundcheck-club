@@ -1,6 +1,6 @@
 # Chloé Caillet
 
-Chloé Caillet is a House and Techno artist with 12 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at Palmerstown House Estate, Dublin on Fri, 11 Sept 2026.
+Chloé Caillet is a House and Techno artist with 12 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Palmerstown House Estate, Dublin on Fri, 11 Sept 2026.
 
 Chloé Caillet is a house and techno artist tracked on soundcheck, with 237 sets logged across Amsterdam, Athens, Barcelona and Belfast and 48 more. Often billed alongside Seth Troxler, DJ Tennis and Mochakk. Next up: Palmerstown House Estate, Dublin on Fri 11 Sept.
 
@@ -23,6 +23,7 @@ Chloé Caillet is a house and techno artist tracked on soundcheck, with 237 sets
 
 ## Recently played
 
+- Palmerstown House Estate, Dublin — Fri, 11 Sept 2026
 - DC-10, Ibiza — Mon, 7 Sept 2026
 - Van Nelle Fabriek, Rotterdam — Sat, 29 Aug 2026
 - Van Nelle Fabriek, Rotterdam — Sat, 29 Aug 2026
@@ -30,10 +31,9 @@ Chloé Caillet is a house and techno artist tracked on soundcheck, with 237 sets
 - DC-10, Ibiza — Mon, 3 Aug 2026
 - Trädgården, Stockholm — Sat, 1 Aug 2026
 - TBA - Paradies Garten Festival - Schloß Prugg 2, 2460 Gemeinde Bruck an der Leitha, Vienna — Fri, 31 Jul 2026
-- DC-10, Ibiza — Mon, 20 Jul 2026
 
 ## Shares bills with
 
 Seth Troxler, DJ Tennis, Mochakk
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/chloecaillet/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/chloecaillet/)*

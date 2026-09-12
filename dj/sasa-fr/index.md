@@ -1,6 +1,6 @@
 # Sasa (FR)
 
-Sasa (FR) is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at TBA - Noctis, 87 Rue de Strasbourg, 93200 Saint-Denis, France, Paris on Sat, 12 Sept 2026.
+Sasa (FR) is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at TBA - Noctis, 87 Rue de Strasbourg, 93200 Saint-Denis, France, Paris on Sat, 12 Sept 2026.
 
 Sasa (FR) is a techno and trance artist based in France, tracked on soundcheck, with 3 sets logged across Berlin and Paris. Often billed alongside Sasa, Anna Hoeber and Bambii. Next up: TBA - Noctis, 87 Rue de Strasbourg, 93200 Saint-Denis, France, Paris on Sat 12 Sept.
 
@@ -19,4 +19,4 @@ Sasa (FR) is a techno and trance artist based in France, tracked on soundcheck, 
 
 Sasa, Anna Hoeber, Bambii
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sasa-fr/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sasa-fr/)*

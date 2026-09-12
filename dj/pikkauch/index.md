@@ -1,6 +1,6 @@
 # pikkauch
 
-pikkauch is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 11 Sept 2026, next at Hall, Tallinn on Fri, 18 Sept 2026.
+pikkauch is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 12 Sept 2026, next at Hall, Tallinn on Fri, 18 Sept 2026.
 
 pikkauch is a techno and house artist tracked on soundcheck, with 19 sets logged across Berlin, Tallinn and Warsaw. Often billed alongside Artur Lääts, Micaela Saraceno and Tanel Mütt. Next up: Hall, Tallinn on Fri 18 Sept.
 
@@ -25,4 +25,4 @@ pikkauch is a techno and house artist tracked on soundcheck, with 19 sets logged
 
 Artur Lääts, Micaela Saraceno, Tanel Mütt
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/pikkauch/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/pikkauch/)*

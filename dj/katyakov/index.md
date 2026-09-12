@@ -1,6 +1,6 @@
 # Katya Kóv
 
-Katya Kóv is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 11 Sept 2026, next at control, Bucharest on Fri, 18 Sept 2026.
+Katya Kóv is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 12 Sept 2026, next at control, Bucharest on Fri, 18 Sept 2026.
 
 Katya Kóv is a house and techno artist tracked on soundcheck, with 14 sets logged across Berlin, Bucharest, Riga and Sydney. Often billed alongside Ksenia Kamikaza, Vio PRG and Ady Toledano. Next up: control, Bucharest on Fri 18 Sept.
 
@@ -25,4 +25,4 @@ Katya Kóv is a house and techno artist tracked on soundcheck, with 14 sets logg
 
 Ksenia Kamikaza, Vio PRG, Ady Toledano
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/katyakov/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/katyakov/)*

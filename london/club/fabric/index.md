@@ -1,6 +1,6 @@
 # fabric
 
-fabric is a music venue in London with 27 upcoming nights listed on soundcheck as of Fri, 11 Sept 2026; the next is "Heavy House Society: Sidney Charles, Burnski B2B Prozak, Danny Snowden, Kim April + more" on Fri, 11 Sept 2026.
+fabric is a music venue in London with 27 upcoming nights listed on soundcheck as of Sat, 12 Sept 2026; the next is "Heavy House Society: Sidney Charles, Burnski B2B Prozak, Danny Snowden, Kim April + more" on Fri, 11 Sept 2026.
 
 fabric is a music venue in London listed on soundcheck. 27 upcoming nights, with line-ups including AANO, Aaron Hibell, A For Alpha and Alfie and 2 more. Browse upcoming dates, start times and who's playing. 77a Charterhouse St; Clerkenwell; London EC1M 6HJ; United Kingdom.
 
@@ -23,4 +23,4 @@ fabric is a music venue in London listed on soundcheck. 27 upcoming nights, with
 
 77a Charterhouse St; Clerkenwell; London EC1M 6HJ; United Kingdom, London
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/fabric/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/fabric/)*

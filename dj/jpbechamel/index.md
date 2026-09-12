@@ -1,6 +1,6 @@
 # JP Bechamel
 
-JP Bechamel is a House and Funk / Soul artist with 1 upcoming club date listed on soundcheck as of Fri, 11 Sept 2026, next at Funkhaus, Vienna on Fri, 11 Sept 2026.
+JP Bechamel is a House and Funk / Soul artist with 1 upcoming club date listed on soundcheck as of Sat, 12 Sept 2026, next at Funkhaus, Vienna on Fri, 11 Sept 2026.
 
 JP Bechamel is a house and funk / soul artist tracked on soundcheck, with 45 sets logged across Berlin and Vienna. Often billed alongside Rumi de Baires, Flo Real and Altroy. Next up: Funkhaus, Vienna on Fri 11 Sept.
 
@@ -12,6 +12,7 @@ JP Bechamel is a house and funk / soul artist tracked on soundcheck, with 45 set
 
 ## Recently played
 
+- Funkhaus, Vienna — Fri, 11 Sept 2026
 - FLUCC, Vienna — Sat, 22 Aug 2026
 - PRST, Vienna — Fri, 29 May 2026
 - FLUCC, Vienna — Sat, 9 May 2026
@@ -19,10 +20,9 @@ JP Bechamel is a house and funk / soul artist tracked on soundcheck, with 45 set
 - PRST, Vienna — Sat, 2 May 2026
 - Apartment Acht, Vienna — Fri, 27 Mar 2026
 - FLUCC, Vienna — Fri, 13 Mar 2026
-- FLUCC, Vienna — Sat, 8 Nov 2025
 
 ## Shares bills with
 
 Rumi de Baires, Flo Real, Altroy
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jpbechamel/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jpbechamel/)*

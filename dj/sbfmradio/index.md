@@ -1,6 +1,6 @@
 # sbfmRADIO
 
-sbfmRADIO is a Grime and Garage artist with 1 upcoming club date listed on soundcheck as of Fri, 11 Sept 2026, next at Four Quarters, London on Thu, 1 Oct 2026.
+sbfmRADIO is a Grime and Garage artist with 1 upcoming club date listed on soundcheck as of Sat, 12 Sept 2026, next at Four Quarters, London on Thu, 1 Oct 2026.
 
 sbfmRADIO is a grime and garage artist based in Canada, tracked on soundcheck, with 8 sets logged across Leeds and London. Often billed alongside Badly Drawn Banana, Steeziskey and FunkPunk. Next up: Four Quarters, London on Thu 1 Oct.
 
@@ -24,4 +24,4 @@ sbfmRADIO is a grime and garage artist based in Canada, tracked on soundcheck, w
 
 Badly Drawn Banana, Steeziskey, FunkPunk
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sbfmradio/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sbfmradio/)*

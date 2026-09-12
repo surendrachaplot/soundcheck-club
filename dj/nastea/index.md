@@ -1,6 +1,6 @@
 # NAS TEA
 
-NAS TEA is a Techno and Club artist with 1 upcoming club date listed on soundcheck as of Fri, 11 Sept 2026, next at KREUZWERK, Berlin on Fri, 16 Oct 2026.
+NAS TEA is a Techno and Club artist with 1 upcoming club date listed on soundcheck as of Sat, 12 Sept 2026, next at KREUZWERK, Berlin on Fri, 16 Oct 2026.
 
 NAS TEA is a techno and club artist tracked on soundcheck, with 49 sets logged across Berlin, Cologne, Copenhagen and Hamburg and 1 more. Often billed alongside Nico Adomako, EuroEyez and Kissen. Next up: KREUZWERK, Berlin on Fri 16 Oct.
 
@@ -25,4 +25,4 @@ NAS TEA is a techno and club artist tracked on soundcheck, with 49 sets logged a
 
 Nico Adomako, EuroEyez, Kissen
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nastea/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nastea/)*

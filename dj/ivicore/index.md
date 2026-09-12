@@ -1,6 +1,6 @@
 # Ivicore
 
-Ivicore is a Techno and Latin Bass artist with 1 upcoming club date listed on soundcheck as of Fri, 11 Sept 2026, next at radial, London on Fri, 2 Oct 2026.
+Ivicore is a Techno and Latin Bass artist with 1 upcoming club date listed on soundcheck as of Sat, 12 Sept 2026, next at radial, London on Fri, 2 Oct 2026.
 
 Ivicore is a techno and latin bass artist tracked on soundcheck, with 54 sets logged across Barcelona, Berlin, Bristol and Leeds and 3 more. Often billed alongside TEDESCO, JONE OF ARX and CHEZA LUCINA. Next up: radial, London on Fri 2 Oct.
 
@@ -25,4 +25,4 @@ Ivicore is a techno and latin bass artist tracked on soundcheck, with 54 sets lo
 
 TEDESCO, JONE OF ARX, CHEZA LUCINA
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ivicore/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ivicore/)*

@@ -1,6 +1,6 @@
 # Chris Stassy
 
-Chris Stassy is a House and Techno artist with 15 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at Palmerstown House Estate, Dublin on Fri, 11 Sept 2026.
+Chris Stassy is a House and Techno artist with 14 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Palmerstown House Estate, Dublin on Fri, 11 Sept 2026.
 
 Chris Stassy is a house and techno artist tracked on soundcheck, with 280 sets logged across Amsterdam, Antwerp, Austin and Barcelona and 60 more. Often billed alongside Jamie Jones, Joseph Capriati and Marco Carola. Next up: Palmerstown House Estate, Dublin on Fri 11 Sept.
 
@@ -10,7 +10,6 @@ Chris Stassy is a house and techno artist tracked on soundcheck, with 280 sets l
 | --- | --- | --- |
 | Fri, 11 Sept 2026 | Palmerstown House Estate | Dublin |
 | Fri, 11 Sept 2026 | Pacha Ibiza | Ibiza |
-| Fri, 11 Sept 2026 | District X | Prague |
 | Sat, 12 Sept 2026 | RSO.BERLIN | Berlin |
 | Fri, 25 Sept 2026 | Fabrique | Milan |
 | Sun, 27 Sept 2026 | Ex Base Nato | Naples |
@@ -20,20 +19,21 @@ Chris Stassy is a house and techno artist tracked on soundcheck, with 280 sets l
 | Sat, 24 Oct 2026 | Taets Art & Event Park | Amsterdam |
 | Thu, 29 Oct 2026 | The Concourse Project | Austin |
 | Sat, 31 Oct 2026 | Gallagher Square | San Diego |
+| Fri, 13 Nov 2026 | Antwerp Expo | Antwerp |
 
 ## Recently played
 
+- Palmerstown House Estate, Dublin — Fri, 11 Sept 2026
+- Pacha Ibiza, Ibiza — Fri, 11 Sept 2026
+- District X, Prague — Fri, 11 Sept 2026
 - Echostage, Washington DC — Sat, 5 Sept 2026
 - Union Park, Chicago — Fri, 4 Sept 2026
 - Radius, Chicago — Fri, 4 Sept 2026
 - Van Nelle Fabriek, Rotterdam — Sat, 29 Aug 2026
 - DC-10, Ibiza — Mon, 24 Aug 2026
-- Amnesia Ibiza, Ibiza — Sun, 16 Aug 2026
-- Gianpula Village, Malta — Wed, 12 Aug 2026
-- SWG3, Glasgow — Sat, 8 Aug 2026
 
 ## Shares bills with
 
 Jamie Jones, Joseph Capriati, Marco Carola
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/chrisstussy/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/chrisstussy/)*

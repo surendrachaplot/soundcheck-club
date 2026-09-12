@@ -1,6 +1,6 @@
 # HAMY
 
-HAMY is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at Chausseestrasse 131, Berlin on Sat, 19 Sept 2026.
+HAMY is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Chausseestrasse 131, Berlin on Sat, 19 Sept 2026.
 
 HAMY is a techno and house artist tracked on soundcheck, with 51 sets logged across Amsterdam, Bangkok, Barcelona and Berlin and 6 more. Often billed alongside ENNIO, Faerber and N.R.M. Next up: Chausseestrasse 131, Berlin on Sat 19 Sept.
 
@@ -26,4 +26,4 @@ HAMY is a techno and house artist tracked on soundcheck, with 51 sets logged acr
 
 ENNIO, Faerber, N.R.M
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/hamy/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/hamy/)*

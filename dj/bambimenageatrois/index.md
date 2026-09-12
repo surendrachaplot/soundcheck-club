@@ -1,6 +1,6 @@
 # Bambi (Menage a Trois)
 
-Bambi (Menage a Trois) is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 11 Sept 2026, next at UMI, Brussels on Sat, 12 Sept 2026.
+Bambi (Menage a Trois) is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 12 Sept 2026, next at UMI, Brussels on Sat, 12 Sept 2026.
 
 Bambi (Menage a Trois) is a house and techno artist based in Spain, tracked on soundcheck, with 32 sets logged across Bangkok, Barcelona, Berlin and Brussels and 6 more. Often billed alongside WESTKLANG, DJ B2B and Speedo. Next up: UMI, Brussels on Sat 12 Sept.
 
@@ -25,4 +25,4 @@ Bambi (Menage a Trois) is a house and techno artist based in Spain, tracked on s
 
 WESTKLANG, DJ B2B, Speedo
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bambimenageatrois/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bambimenageatrois/)*

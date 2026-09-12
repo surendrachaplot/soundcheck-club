@@ -1,6 +1,6 @@
 # Marika
 
-Marika is a Electronica and Trance artist with 1 upcoming club date listed on soundcheck as of Fri, 11 Sept 2026, next at La Nau, Barcelona on Fri, 11 Sept 2026.
+Marika is a Electronica and Trance artist with 1 upcoming club date listed on soundcheck as of Sat, 12 Sept 2026, next at La Nau, Barcelona on Fri, 11 Sept 2026.
 
 Marika is an electronica and trance artist based in Romania, tracked on soundcheck, with 7 sets logged across Barcelona, Naples, Stockholm and Tokyo and 1 more. Often billed alongside Attila, DJ Dying and Kon (FR). Next up: La Nau, Barcelona on Fri 11 Sept.
 
@@ -12,6 +12,7 @@ Marika is an electronica and trance artist based in Romania, tracked on soundche
 
 ## Recently played
 
+- La Nau, Barcelona — Fri, 11 Sept 2026
 - Timebar, Stockholm — Wed, 20 Aug 2025
 - OCZKI, Warsaw — Sat, 22 Feb 2025
 - TBA - Stay In The Room, Naples — Sat, 11 Jan 2025
@@ -23,4 +24,4 @@ Marika is an electronica and trance artist based in Romania, tracked on soundche
 
 Attila, DJ Dying, Kon (FR)
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/marika/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/marika/)*

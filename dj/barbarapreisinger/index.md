@@ -1,6 +1,6 @@
 # Barbara Preisinger
 
-Barbara Preisinger is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at Berghain | Panorama Bar | Säule, Berlin on Sat, 3 Oct 2026.
+Barbara Preisinger is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Berghain | Panorama Bar | Säule, Berlin on Sat, 3 Oct 2026.
 
 Barbara Preisinger is a house and techno artist tracked on soundcheck, with 63 sets logged across Amsterdam, Bangkok, Barcelona and Berlin and 12 more. Often billed alongside Foehn & Jerome, Alexander Skancke and Zip. Next up: Berghain | Panorama Bar | Säule, Berlin on Sat 3 Oct.
 
@@ -26,4 +26,4 @@ Barbara Preisinger is a house and techno artist tracked on soundcheck, with 63 s
 
 Foehn & Jerome, Alexander Skancke, Zip
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/barbarapreisinger/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/barbarapreisinger/)*

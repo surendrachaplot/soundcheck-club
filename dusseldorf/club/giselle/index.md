@@ -1,6 +1,6 @@
 # Giselle
 
-Giselle is a music venue in Düsseldorf with 8 upcoming nights listed on soundcheck as of Fri, 11 Sept 2026; the next is "Adewale, Grinsta & Lingy" on Fri, 11 Sept 2026.
+Giselle is a music venue in Düsseldorf with 8 upcoming nights listed on soundcheck as of Sat, 12 Sept 2026; the next is "Adewale, Grinsta & Lingy" on Fri, 11 Sept 2026.
 
 Giselle is a music venue in Dusseldorf listed on soundcheck. 8 upcoming nights, with line-ups including Chet Rubbs, Chris Gerber, David Elimelech and DJ Flatbeat and 2 more. Browse upcoming dates, start times and who's playing. 147 Oststrasse 40210.
 
@@ -21,4 +21,4 @@ Giselle is a music venue in Dusseldorf listed on soundcheck. 8 upcoming nights, 
 
 147 Oststrasse 40210, Düsseldorf
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dusseldorf/club/giselle/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dusseldorf/club/giselle/)*

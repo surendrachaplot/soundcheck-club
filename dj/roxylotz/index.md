@@ -1,6 +1,6 @@
 # Roxy Lotz
 
-Roxy Lotz is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Fri, 11 Sept 2026, next at Heaps Normal Health Club, Sydney on Sat, 31 Oct 2026.
+Roxy Lotz is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Sat, 12 Sept 2026, next at Heaps Normal Health Club, Sydney on Sat, 31 Oct 2026.
 
 Roxy Lotz is a house and disco artist based in Australia, tracked on soundcheck, with 20 sets logged across Sydney. Often billed alongside Mina Tonic, SIILA and Waxlily. Next up: Heaps Normal Health Club, Sydney on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Roxy Lotz is a house and disco artist based in Australia, tracked on soundcheck,
 
 Mina Tonic, SIILA, Waxlily
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/roxylotz/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/roxylotz/)*

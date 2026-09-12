@@ -1,6 +1,6 @@
 # Sina Bathaie
 
-Sina Bathaie is a Downtempo and Deep House artist with 7 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at Largo Venue, Rome on Sun, 13 Sept 2026.
+Sina Bathaie is a Downtempo and Deep House artist with 7 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Largo Venue, Rome on Sun, 13 Sept 2026.
 
 Sina Bathaie is a downtempo and deep house artist tracked on soundcheck, with 92 sets logged across Amsterdam, Athens, Auckland and Austin and 41 more. Often billed alongside DJ Joeski, Facundo Mohrr and Kora (CA). Next up: Largo Venue, Rome on Sun 13 Sept.
 
@@ -31,4 +31,4 @@ Sina Bathaie is a downtempo and deep house artist tracked on soundcheck, with 92
 
 DJ Joeski, Facundo Mohrr, Kora (CA)
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sinabathaie/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sinabathaie/)*

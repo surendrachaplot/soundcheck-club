@@ -1,6 +1,6 @@
 # MAURO
 
-MAURO is a Techno and Trance artist with 3 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at Gasteig, Munich on Sat, 12 Sept 2026.
+MAURO is a Techno and Trance artist with 3 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Gasteig, Munich on Sat, 12 Sept 2026.
 
 MAURO is a techno and trance artist based in Germany, tracked on soundcheck, with 27 sets logged across Amsterdam, Berlin, Brussels and Cologne and 3 more. Often billed alongside Th.is Fake, OXOPOHA and LSG. Next up: Gasteig, Munich on Sat 12 Sept.
 
@@ -27,4 +27,4 @@ MAURO is a techno and trance artist based in Germany, tracked on soundcheck, wit
 
 Th.is Fake, OXOPOHA, LSG
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mauro/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mauro/)*

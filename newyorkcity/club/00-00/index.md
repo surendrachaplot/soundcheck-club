@@ -1,6 +1,6 @@
 # 00:00
 
-00:00 is a music venue in New York City with 1 upcoming night listed on soundcheck as of Fri, 11 Sept 2026; the next is "Thursdays are Casual" on Thu, 17 Sept 2026.
+00:00 is a music venue in New York City with 1 upcoming night listed on soundcheck as of Sat, 12 Sept 2026; the next is "Thursdays are Casual" on Thu, 17 Sept 2026.
 
 00:00 is a music venue in Newyorkcity listed on soundcheck. 1 upcoming night, with line-ups including MP LOVE, Sol System, Supes Base and Vesi. Browse upcoming dates, start times and who's playing. 21-38 44th Rd, Long Island City, NY 11101，USA.
 
@@ -14,4 +14,4 @@
 
 21-38 44th Rd, Long Island City, NY 11101，USA, New York City
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/00-00/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/00-00/)*

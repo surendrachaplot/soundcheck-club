@@ -1,6 +1,6 @@
 # AFAR
 
-AFAR is a Electronica and Club artist with 1 upcoming club date listed on soundcheck as of Fri, 11 Sept 2026, next at Cinetol, Amsterdam on Wed, 30 Sept 2026.
+AFAR is a Electronica and Club artist with 1 upcoming club date listed on soundcheck as of Sat, 12 Sept 2026, next at Cinetol, Amsterdam on Wed, 30 Sept 2026.
 
 AFAR is an electronica and club artist tracked on soundcheck, with 22 sets logged across Amsterdam, Basel, Berlin and Cologne and 6 more. Often billed alongside Arutani, ELIF and Gina Sabatini. Next up: Cinetol, Amsterdam on Wed 30 Sept.
 
@@ -25,4 +25,4 @@ AFAR is an electronica and club artist tracked on soundcheck, with 22 sets logge
 
 Arutani, ELIF, Gina Sabatini
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/afar/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/afar/)*

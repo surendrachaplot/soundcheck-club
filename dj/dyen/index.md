@@ -1,6 +1,6 @@
 # DYEN
 
-DYEN is a Techno and House artist with 7 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at Garage Klub, Antwerp on Fri, 18 Sept 2026.
+DYEN is a Techno and House artist with 7 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Garage Klub, Antwerp on Fri, 18 Sept 2026.
 
 DYEN is a techno and house artist tracked on soundcheck, with 198 sets logged across Amsterdam, Antwerp, Barcelona and Basel and 53 more. Often billed alongside Shlømo, Nico Moreno and I Hate Models. Next up: Garage Klub, Antwerp on Fri 18 Sept.
 
@@ -31,4 +31,4 @@ DYEN is a techno and house artist tracked on soundcheck, with 198 sets logged ac
 
 Shlømo, Nico Moreno, I Hate Models
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dyen/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dyen/)*

@@ -1,6 +1,6 @@
 # Garage 442
 
-Garage 442 is a music venue in Barcelona with 4 upcoming nights listed on soundcheck as of Fri, 11 Sept 2026; the next is "UNDA" on Fri, 11 Sept 2026.
+Garage 442 is a music venue in Barcelona with 4 upcoming nights listed on soundcheck as of Sat, 12 Sept 2026; the next is "UNDA" on Fri, 11 Sept 2026.
 
 Garage 442 is a music venue in Barcelona listed on soundcheck. 4 upcoming nights, with line-ups including Greg T, Leon James, MKT (DE) and Satta B. Browse upcoming dates, start times and who's playing. Avinguda Diagonal, 442, 08037 Barcelona.
 
@@ -17,4 +17,4 @@ Garage 442 is a music venue in Barcelona listed on soundcheck. 4 upcoming nights
 
 Avinguda Diagonal, 442, 08037 Barcelona, Barcelona
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/garage-442/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/garage-442/)*

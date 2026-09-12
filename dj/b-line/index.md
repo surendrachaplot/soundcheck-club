@@ -1,6 +1,6 @@
 # b-line
 
-b-line is a Drum & Bass and Jungle artist with 2 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at TBA - The Other Side (Friday) - Warehouse Elementenstraat (Saturday), Amsterdam on Fri, 20 Nov 2026.
+b-line is a Drum & Bass and Jungle artist with 2 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at TBA - The Other Side (Friday) - Warehouse Elementenstraat (Saturday), Amsterdam on Fri, 20 Nov 2026.
 
 b-line is a drum & bass and jungle artist tracked on soundcheck, with 12 sets logged across Amsterdam, Birmingham, Leeds and London and 1 more. Often billed alongside Logan D, Grima & Azza and Harry Shotta. Next up: TBA - The Other Side (Friday) - Warehouse Elementenstraat (Saturday), Amsterdam on Fri 20 Nov.
 
@@ -26,4 +26,4 @@ b-line is a drum & bass and jungle artist tracked on soundcheck, with 12 sets lo
 
 Logan D, Grima & Azza, Harry Shotta
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/b-line/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/b-line/)*

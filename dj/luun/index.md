@@ -1,6 +1,6 @@
 # Luun
 
-Luun is a House and Garage artist with 2 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at Phonox, London on Fri, 11 Sept 2026.
+Luun is a House and Garage artist with 2 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Phonox, London on Fri, 11 Sept 2026.
 
 Luun is a house and garage artist based in United Kingdom, tracked on soundcheck, with 9 sets logged across London and Rotterdam. Often billed alongside Horne, Cathal and ALISHA. Next up: Phonox, London on Fri 11 Sept.
 
@@ -13,6 +13,7 @@ Luun is a house and garage artist based in United Kingdom, tracked on soundcheck
 
 ## Recently played
 
+- Phonox, London — Fri, 11 Sept 2026
 - Toffler, Rotterdam — Sat, 1 Aug 2026
 - Toffler, Rotterdam — Fri, 13 Feb 2026
 - Cu, London — Sat, 31 Jan 2026
@@ -25,4 +26,4 @@ Luun is a house and garage artist based in United Kingdom, tracked on soundcheck
 
 Horne, Cathal, ALISHA
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/luun/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/luun/)*

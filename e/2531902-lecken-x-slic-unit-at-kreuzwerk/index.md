@@ -1,6 +1,6 @@
-# LECKEN X Slic Unit at KREUZWERK
+# LECKEN X SLIC Unit at KREUZWERK
 
-LECKEN X Slic Unit at KREUZWERK on Fri 16 Oct, Berlin. 9 acts on the bill: Amowia, Chinyere, NAS TEA and Nissa Carrington and 5 more. Techno. Preview the line-up and save it on soundcheck.
+LECKEN X SLIC Unit at KREUZWERK on Fri 16 Oct, Berlin. 9 acts on the bill: Amowia, Chinyere, NAS TEA and Nissa Carrington and 5 more. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

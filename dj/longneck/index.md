@@ -1,6 +1,6 @@
 # Longneck
 
-Longneck is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at Plantation, Paris on Sat, 26 Sept 2026.
+Longneck is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Plantation, Paris on Sat, 26 Sept 2026.
 
 Longneck is a house and techno artist based in France, tracked on soundcheck, with 40 sets logged across Brussels, Lyon, Paris and Vienna. Often billed alongside Housecall, Prost! and Ams (FR). Next up: Plantation, Paris on Sat 26 Sept.
 
@@ -26,4 +26,4 @@ Longneck is a house and techno artist based in France, tracked on soundcheck, wi
 
 Housecall, Prost!, Ams (FR)
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/longneck/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/longneck/)*

@@ -1,6 +1,6 @@
 # RIKHTER
 
-RIKHTER is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Fri, 11 Sept 2026, next at Distillery, Leipzig on Fri, 16 Oct 2026.
+RIKHTER is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Sat, 12 Sept 2026, next at Distillery, Leipzig on Fri, 16 Oct 2026.
 
 RIKHTER is a techno and trance artist tracked on soundcheck, with 149 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 42 more. Often billed alongside Somewhen, Kobosil and In Verruf. Next up: Distillery, Leipzig on Fri 16 Oct.
 
@@ -25,4 +25,4 @@ RIKHTER is a techno and trance artist tracked on soundcheck, with 149 sets logge
 
 Somewhen, Kobosil, In Verruf
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/rikhter/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/rikhter/)*

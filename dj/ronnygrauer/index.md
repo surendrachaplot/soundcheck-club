@@ -1,14 +1,15 @@
 # Ronny Grauer
 
-Ronny Grauer is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Fri, 11 Sept 2026, next at Supermarket, Zurich on Sat, 12 Sept 2026.
+Ronny Grauer is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Supermarket, Zurich on Sat, 12 Sept 2026.
 
-Ronny Grauer is a house and tech house artist tracked on soundcheck, with 50 sets logged across Zurich. Often billed alongside Dejan, :DARREN and Anthik. Next up: Supermarket, Zurich on Sat 12 Sept.
+Ronny Grauer is a house and techno artist tracked on soundcheck, with 51 sets logged across Zurich. Often billed alongside Dejan, Anthik and :DARREN. Next up: Supermarket, Zurich on Sat 12 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 12 Sept 2026 | Supermarket | Zurich |
+| Sat, 3 Oct 2026 | Hive Club | Zurich |
 
 ## Recently played
 
@@ -23,6 +24,6 @@ Ronny Grauer is a house and tech house artist tracked on soundcheck, with 50 set
 
 ## Shares bills with
 
-Dejan, :DARREN, Anthik
+Dejan, Anthik, :DARREN
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ronnygrauer/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ronnygrauer/)*

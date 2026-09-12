@@ -1,6 +1,6 @@
 # Djoon
 
-Djoon is a music venue in Paris with 7 upcoming nights listed on soundcheck as of Fri, 11 Sept 2026; the next is "Chinau invite Jade Edwards" on Fri, 11 Sept 2026.
+Djoon is a music venue in Paris with 7 upcoming nights listed on soundcheck as of Sat, 12 Sept 2026; the next is "Chinau invite Jade Edwards" on Fri, 11 Sept 2026.
 
 Djoon is a music venue in Paris listed on soundcheck. 7 upcoming nights, with line-ups including Afshin, Carole Fe, Chaos In The CBD and Chinau and 2 more. Browse upcoming dates, start times and who's playing. 22 boulevard Vincent Auriol; 75013; Paris; France.
 
@@ -20,4 +20,4 @@ Djoon is a music venue in Paris listed on soundcheck. 7 upcoming nights, with li
 
 22 boulevard Vincent Auriol; 75013; Paris; France, Paris
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/paris/club/djoon/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/paris/club/djoon/)*

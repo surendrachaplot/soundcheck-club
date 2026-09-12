@@ -1,6 +1,6 @@
 # madikoptah
 
-madikoptah is a Bass and Breakbeat artist with 1 upcoming club date listed on soundcheck as of Fri, 11 Sept 2026, next at K-Bar Powiśle, Warsaw on Fri, 23 Oct 2026.
+madikoptah is a Bass and Breakbeat artist with 1 upcoming club date listed on soundcheck as of Sat, 12 Sept 2026, next at K-Bar Powiśle, Warsaw on Fri, 23 Oct 2026.
 
 madikoptah is a bass and breakbeat artist based in Poland, tracked on soundcheck, with 47 sets logged across Warsaw. Often billed alongside PLAL, faron and gummi. Next up: K-Bar Powiśle, Warsaw on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ madikoptah is a bass and breakbeat artist based in Poland, tracked on soundcheck
 
 PLAL, faron, gummi
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/madikoptah/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/madikoptah/)*

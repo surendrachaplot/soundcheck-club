@@ -1,6 +1,6 @@
 # Phyles
 
-Phyles is a Trance and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 11 Sept 2026, next at Kømplex Lisbon, Lisbon on Sat, 12 Sept 2026.
+Phyles is a Trance and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 12 Sept 2026, next at Kømplex Lisbon, Lisbon on Sat, 12 Sept 2026.
 
 Phyles is a trance and techno artist tracked on soundcheck, with 13 sets logged across Lisbon. Often billed alongside GADDAM, GTH (FR) and ALT8. Next up: Kømplex Lisbon, Lisbon on Sat 12 Sept.
 
@@ -25,4 +25,4 @@ Phyles is a trance and techno artist tracked on soundcheck, with 13 sets logged 
 
 GADDAM, GTH (FR), ALT8
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/phyles/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/phyles/)*

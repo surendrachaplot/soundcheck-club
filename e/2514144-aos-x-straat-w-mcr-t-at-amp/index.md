@@ -1,6 +1,6 @@
 # AOS X STRAAT W/ MCR-T at Amp
 
-AOS X STRAAT W/ MCR-T at Amp on Sat 24 Oct, Munster. 3 acts on the bill: EliaHaze, MCR-T and Talia Dorr. Techno and House. Preview the line-up and save it on soundcheck.
+AOS X STRAAT W/ MCR-T at Amp on Sat 24 Oct, Munster. 4 acts on the bill: charli/e, EliaHaze, MCR-T and Talia Dorr. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ AOS X STRAAT W/ MCR-T at Amp on Sat 24 Oct, Munster. 3 acts on the bill: EliaHaz
 
 ## Line-up
 
+- charli/e
 - EliaHaze
 - MCR-T
 - Talia Dorr

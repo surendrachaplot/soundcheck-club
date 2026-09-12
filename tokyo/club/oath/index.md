@@ -1,6 +1,6 @@
 # Oath
 
-Oath is a music venue in Tokyo with 5 upcoming nights listed on soundcheck as of Fri, 11 Sept 2026; the next is "Play Of Color Invites - cartax, Soeji -" on Fri, 11 Sept 2026.
+Oath is a music venue in Tokyo with 5 upcoming nights listed on soundcheck as of Sat, 12 Sept 2026; the next is "Play Of Color Invites - cartax, Soeji -" on Fri, 11 Sept 2026.
 
 Oath is a music venue in Tokyo listed on soundcheck. 5 upcoming nights, with line-ups including 7e, akii, Amps and Andre McLeod and 2 more. Browse upcoming dates, start times and who's playing. 1-6-5-B1F Dogenzaka, Shibuya-ku, Tokyo, 150-0043 Japan.
 
@@ -18,4 +18,4 @@ Oath is a music venue in Tokyo listed on soundcheck. 5 upcoming nights, with lin
 
 1-6-5-B1F Dogenzaka, Shibuya-ku, Tokyo, 150-0043 Japan, Tokyo
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/oath/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/oath/)*

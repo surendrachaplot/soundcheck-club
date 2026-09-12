@@ -1,6 +1,6 @@
 # Reita D Russo
 
-Reita D Russo is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 11 Sept 2026, next at ÆDEN, Berlin on Sat, 26 Sept 2026.
+Reita D Russo is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 12 Sept 2026, next at ÆDEN, Berlin on Sat, 26 Sept 2026.
 
 Reita D Russo is a techno and house artist based in Japan, tracked on soundcheck, with 35 sets logged across Berlin, Geneva and London. Often billed alongside ALIASLOH, CatMint and Marintsi. Next up: ÆDEN, Berlin on Sat 26 Sept.
 
@@ -25,4 +25,4 @@ Reita D Russo is a techno and house artist based in Japan, tracked on soundcheck
 
 ALIASLOH, CatMint, Marintsi
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/reitadrusso/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/reitadrusso/)*

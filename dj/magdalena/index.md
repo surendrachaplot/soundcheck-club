@@ -1,6 +1,6 @@
 # Magdalena
 
-Magdalena is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 11 Sept 2026, next at TBA - AMK Club, Almagro, Buenos Aires on Sat, 12 Sept 2026.
+Magdalena is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 12 Sept 2026, next at TBA - AMK Club, Almagro, Buenos Aires on Sat, 12 Sept 2026.
 
 Magdalena is a techno and house artist based in Colombia, tracked on soundcheck, with 23 sets logged across Austin, Barcelona, Buenosaires and Cologne and 11 more. Often billed alongside Annicka, Brina Knauss and ELIF. Next up: TBA - AMK Club, Almagro, Buenosaires on Sat 12 Sept.
 
@@ -25,4 +25,4 @@ Magdalena is a techno and house artist based in Colombia, tracked on soundcheck,
 
 Annicka, Brina Knauss, ELIF
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/magdalena/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/magdalena/)*

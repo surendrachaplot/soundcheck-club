@@ -1,6 +1,6 @@
 # PHYNYKS
 
-PHYNYKS is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at Aria Complex, Malta on Sat, 19 Sept 2026.
+PHYNYKS is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Aria Complex, Malta on Sat, 19 Sept 2026.
 
 PHYNYKS is a techno and trance artist based in Malta, tracked on soundcheck, with 35 sets logged across Berlin, Malta and Prague. Often billed alongside Eaub, INVERTED (MT) and Kaneo. Next up: Aria Complex, Malta on Sat 19 Sept.
 
@@ -26,4 +26,4 @@ PHYNYKS is a techno and trance artist based in Malta, tracked on soundcheck, wit
 
 Eaub, INVERTED (MT), Kaneo
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/phynyks/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/phynyks/)*

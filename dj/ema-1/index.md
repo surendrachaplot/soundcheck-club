@@ -1,8 +1,8 @@
 # EMA (1)
 
-EMA (1) is a Bass and Techno artist with 5 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at Palmerstown House Estate, Dublin on Fri, 11 Sept 2026.
+EMA (1) is a Bass and Techno artist with 5 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Palmerstown House Estate, Dublin on Fri, 11 Sept 2026.
 
-EMA (1) is a bass and techno artist tracked on soundcheck, with 112 sets logged across Amsterdam, Barcelona, Belfast and Berlin and 27 more. Often billed alongside Darwin, Beatrice M. and SGT Pokes. Next up: Palmerstown House Estate, Dublin on Fri 11 Sept.
+EMA (1) is a bass and techno artist tracked on soundcheck, with 112 sets logged across Amsterdam, Barcelona, Belfast and Berlin and 27 more. Often billed alongside Darwin, SGT Pokes and Beatrice M.. Next up: Palmerstown House Estate, Dublin on Fri 11 Sept.
 
 ## Upcoming shows
 
@@ -16,6 +16,7 @@ EMA (1) is a bass and techno artist tracked on soundcheck, with 112 sets logged 
 
 ## Recently played
 
+- Palmerstown House Estate, Dublin — Fri, 11 Sept 2026
 - Otto Wagner Areal, Vienna — Fri, 5 Jun 2026
 - TBA - Toledo, Madrid — Fri, 29 May 2026
 - Sherkin Island, Cork — Thu, 28 May 2026
@@ -23,10 +24,9 @@ EMA (1) is a bass and techno artist tracked on soundcheck, with 112 sets logged 
 - West Indian Centre, Leeds — Sun, 3 May 2026
 - TBA - Daylight, Dublin — Fri, 1 May 2026
 - Bal Chavaux, Paris — Sat, 25 Apr 2026
-- KOKO, London — Fri, 24 Apr 2026
 
 ## Shares bills with
 
-Darwin, Beatrice M., SGT Pokes
+Darwin, SGT Pokes, Beatrice M.
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ema-1/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ema-1/)*

@@ -1,6 +1,6 @@
 # DJ Holographic
 
-DJ Holographic is a House and Techno artist with 10 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at Palais, London on Fri, 11 Sept 2026.
+DJ Holographic is a House and Techno artist with 10 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Palais, London on Fri, 11 Sept 2026.
 
 DJ Holographic is a house and techno artist tracked on soundcheck, with 208 sets logged across Amsterdam, Antwerp, Athens and Austin and 45 more. Often billed alongside Carl Craig, DJ Minx and Âme. Next up: Palais, London on Fri 11 Sept.
 
@@ -21,6 +21,7 @@ DJ Holographic is a house and techno artist tracked on soundcheck, with 208 sets
 
 ## Recently played
 
+- Palais, London — Fri, 11 Sept 2026
 - The Midway, San Francisco/Oakland — Sat, 5 Sept 2026
 - The Midway, San Francisco/Oakland — Sat, 5 Sept 2026
 - Under the K Bridge, New York City — Sat, 29 Aug 2026
@@ -28,10 +29,9 @@ DJ Holographic is a house and techno artist tracked on soundcheck, with 208 sets
 - Berghain | Panorama Bar | Säule, Berlin — Sat, 25 Jul 2026
 - Amnesia Ibiza, Ibiza — Fri, 24 Jul 2026
 - TBA - Shipyards North Vancouver, Vancouver — Sat, 18 Jul 2026
-- Bossa Nova Civic Club, New York City — Sun, 28 Jun 2026
 
 ## Shares bills with
 
 Carl Craig, DJ Minx, Âme
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djholographic/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djholographic/)*

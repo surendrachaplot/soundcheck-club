@@ -1,6 +1,6 @@
 # Titonton Duvanté
 
-Titonton Duvanté is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 11 Sept 2026, next at public records, New York City on Sat, 3 Oct 2026.
+Titonton Duvanté is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 12 Sept 2026, next at public records, New York City on Sat, 3 Oct 2026.
 
 Titonton Duvanté is a house and techno artist based in United States of America, tracked on soundcheck, with 31 sets logged across Austin, Bangkok, Berlin and Boston and 10 more. Often billed alongside Mike Servito, Bryan Kasenic and DJ Stingray 313. Next up: public records, Newyorkcity on Sat 3 Oct.
 
@@ -25,4 +25,4 @@ Titonton Duvanté is a house and techno artist based in United States of America
 
 Mike Servito, Bryan Kasenic, DJ Stingray 313
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/titontonduvante/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/titontonduvante/)*

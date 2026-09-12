@@ -1,6 +1,6 @@
 # LOKA (US)
 
-LOKA (US) is a Techno and Club artist with 2 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at TBA, New York City on Fri, 25 Sept 2026.
+LOKA (US) is a Techno and Club artist with 2 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at TBA, New York City on Fri, 25 Sept 2026.
 
 LOKA (US) is a techno and club artist based in United States of America, tracked on soundcheck, with 85 sets logged across Berlin, Boston, Chicago and London and 6 more. Often billed alongside MORENXXX, Sevyn Love and Shyboi. Next up: TBA, Newyorkcity on Fri 25 Sept.
 
@@ -26,4 +26,4 @@ LOKA (US) is a techno and club artist based in United States of America, tracked
 
 MORENXXX, Sevyn Love, Shyboi
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/loka-us/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/loka-us/)*

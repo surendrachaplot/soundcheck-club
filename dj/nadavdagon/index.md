@@ -1,6 +1,6 @@
 # Nadav Dagon
 
-Nadav Dagon is a House and Downtempo artist with 1 upcoming club date listed on soundcheck as of Fri, 11 Sept 2026, next at Thuishaven, Amsterdam on Sat, 19 Sept 2026.
+Nadav Dagon is a House and Downtempo artist with 1 upcoming club date listed on soundcheck as of Sat, 12 Sept 2026, next at Thuishaven, Amsterdam on Sat, 19 Sept 2026.
 
 Nadav Dagon is a house and downtempo artist tracked on soundcheck, with 8 sets logged across Amsterdam, Berlin, Ibiza and Istanbul and 1 more. Often billed alongside Beard2Beard, Benja and Camilo Franco. Next up: Thuishaven, Amsterdam on Sat 19 Sept.
 
@@ -24,4 +24,4 @@ Nadav Dagon is a house and downtempo artist tracked on soundcheck, with 8 sets l
 
 Beard2Beard, Benja, Camilo Franco
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nadavdagon/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nadavdagon/)*

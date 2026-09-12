@@ -1,6 +1,6 @@
 # uuu7
 
-uuu7 is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at Enter Shibuya, Tokyo on Thu, 24 Sept 2026.
+uuu7 is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Enter Shibuya, Tokyo on Thu, 24 Sept 2026.
 
 uuu7 is a techno and house artist based in Japan, tracked on soundcheck, with 125 sets logged across Tokyo. Often billed alongside SIGNAL (JP), Drinkss and EMILIO (3). Next up: Enter Shibuya, Tokyo on Thu 24 Sept.
 
@@ -26,4 +26,4 @@ uuu7 is a techno and house artist based in Japan, tracked on soundcheck, with 12
 
 SIGNAL (JP), Drinkss, EMILIO (3)
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/uuu7/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/uuu7/)*

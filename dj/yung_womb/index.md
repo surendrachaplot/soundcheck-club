@@ -1,6 +1,6 @@
 # yung_womb
 
-yung_womb is a Bass and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at Golden Pudel Club, Hamburg on Sat, 19 Sept 2026.
+yung_womb is a Bass and House artist with 2 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Golden Pudel Club, Hamburg on Sat, 19 Sept 2026.
 
 yung_womb is a bass and house artist tracked on soundcheck, with 76 sets logged across Berlin, Cologne, Hamburg and Leipzig and 3 more. Often billed alongside Nissa Carrington, SLIC Unit and Slimgirl fat. Next up: Golden Pudel Club, Hamburg on Sat 19 Sept.
 
@@ -26,4 +26,4 @@ yung_womb is a bass and house artist tracked on soundcheck, with 76 sets logged 
 
 Nissa Carrington, SLIC Unit, Slimgirl fat
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/yung_womb/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/yung_womb/)*

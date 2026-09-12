@@ -1,6 +1,6 @@
 # Hannecart
 
-Hannecart is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at Radio Radio, Amsterdam on Fri, 11 Sept 2026.
+Hannecart is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Radio Radio, Amsterdam on Fri, 11 Sept 2026.
 
 Hannecart is a house and techno artist based in Dominican Republic, tracked on soundcheck, with 96 sets logged across Amsterdam, Athens, Berlin and Brussels and 5 more. Often billed alongside Reiss, Emvae and Kyra Khaldi. Next up: Radio Radio, Amsterdam on Fri 11 Sept.
 
@@ -16,6 +16,7 @@ Hannecart is a house and techno artist based in Dominican Republic, tracked on s
 
 ## Recently played
 
+- Radio Radio, Amsterdam — Fri, 11 Sept 2026
 - BRET, Amsterdam — Fri, 4 Sept 2026
 - BRET, Amsterdam — Sat, 1 Aug 2026
 - Shelter Amsterdam, Amsterdam — Sat, 25 Jul 2026
@@ -23,10 +24,9 @@ Hannecart is a house and techno artist based in Dominican Republic, tracked on s
 - Het Salon, Amsterdam — Fri, 24 Jul 2026
 - Sportpark Riekerhaven, Amsterdam — Sat, 18 Jul 2026
 - Radio Radio, Amsterdam — Fri, 10 Jul 2026
-- Bar Dancing Multipla, Amsterdam — Fri, 26 Jun 2026
 
 ## Shares bills with
 
 Reiss, Emvae, Kyra Khaldi
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/hannecart/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/hannecart/)*

@@ -1,6 +1,6 @@
 # Jonny N Travis
 
-Jonny N Travis is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Fri, 11 Sept 2026, next at Bunker, Turin on Sun, 27 Sept 2026.
+Jonny N Travis is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Sat, 12 Sept 2026, next at Bunker, Turin on Sun, 27 Sept 2026.
 
 Jonny N Travis is a house and minimal artist tracked on soundcheck, with 40 sets logged across Amsterdam, Athens, Barcelona and Berlin and 4 more. Often billed alongside Francesco Lupica, Nuno Carneiro and KARBO. Next up: Bunker, Turin on Sun 27 Sept.
 
@@ -25,4 +25,4 @@ Jonny N Travis is a house and minimal artist tracked on soundcheck, with 40 sets
 
 Francesco Lupica, Nuno Carneiro, KARBO
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jonnyntravis/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jonnyntravis/)*

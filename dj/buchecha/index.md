@@ -1,6 +1,6 @@
 # Buchecha
 
-Buchecha is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Fri, 11 Sept 2026, next at Pavilhão Carlos Lopes, Lisbon on Fri, 2 Oct 2026.
+Buchecha is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Sat, 12 Sept 2026, next at Pavilhão Carlos Lopes, Lisbon on Fri, 2 Oct 2026.
 
 Buchecha is a techno and industrial artist based in Brazil, tracked on soundcheck, with 18 sets logged across Barcelona, Cologne, Lisbon and Madrid and 1 more. Often billed alongside Alex TB, BUFAINE and Barbers. Next up: Pavilhão Carlos Lopes, Lisbon on Fri 2 Oct.
 
@@ -25,4 +25,4 @@ Buchecha is a techno and industrial artist based in Brazil, tracked on soundchec
 
 Alex TB, BUFAINE, Barbers
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/buchecha/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/buchecha/)*

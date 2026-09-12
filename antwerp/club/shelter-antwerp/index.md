@@ -1,6 +1,6 @@
 # Shelter Antwerp
 
-Shelter Antwerp is a music venue in Antwerp with 2 upcoming nights listed on soundcheck as of Fri, 11 Sept 2026; the next is "shelter invites nieuw hollands spoor & curl records" on Sun, 13 Sept 2026.
+Shelter Antwerp is a music venue in Antwerp with 2 upcoming nights listed on soundcheck as of Sat, 12 Sept 2026; the next is "shelter invites nieuw hollands spoor & curl records" on Sun, 13 Sept 2026.
 
 Shelter Antwerp is a music venue in Antwerp listed on soundcheck. 2 upcoming nights, with line-ups including Mike Ekim. Browse upcoming dates, start times and who's playing. Oude Koornmarkt 42, 2000 Antwerpen, Belgium.
 
@@ -15,4 +15,4 @@ Shelter Antwerp is a music venue in Antwerp listed on soundcheck. 2 upcoming nig
 
 Oude Koornmarkt 42, 2000 Antwerpen, Belgium, Antwerp
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/antwerp/club/shelter-antwerp/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/antwerp/club/shelter-antwerp/)*

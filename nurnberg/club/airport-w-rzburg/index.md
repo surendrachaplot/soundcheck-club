@@ -1,8 +1,8 @@
 # Airport Würzburg
 
-Airport Würzburg is a music venue in Nürnberg with 8 upcoming nights listed on soundcheck as of Fri, 11 Sept 2026; the next is "Airport pres. SANTØS - Special B2B All Night Long" on Sat, 19 Sept 2026.
+Airport Würzburg is a music venue in Nürnberg with 9 upcoming nights listed on soundcheck as of Sat, 12 Sept 2026; the next is "Airport pres. SANTØS - Special B2B All Night Long" on Sat, 19 Sept 2026.
 
-Airport Würzburg is a music venue in Nurnberg listed on soundcheck. 8 upcoming nights, with line-ups including Anuuk, BØĘRY, Cassa Cristano and Cassie Raptor and 2 more. Browse upcoming dates, start times and who's playing. Gattingerstr. 17; 97076 Würzburg; Germany.
+Airport Würzburg is a music venue in Nurnberg listed on soundcheck. 9 upcoming nights, with line-ups including Anuuk, BØĘRY, Cassa Cristano and Cassie Raptor and 2 more. Browse upcoming dates, start times and who's playing. Gattingerstr. 17; 97076 Würzburg; Germany.
 
 ## What's on
 
@@ -16,9 +16,10 @@ Airport Würzburg is a music venue in Nurnberg listed on soundcheck. 8 upcoming 
 | Fri, 16 Oct 2026 | TELETECH X AIRPORT | DJ maddog, GLASSBASS, KIRSTY, KLOUD, Kander, Karamustan, KimberlaID, Lola Cerise, Lolalita, Ornella, TASSERY, Yoshiko, dasstudach |
 | Fri, 30 Oct 2026 | Airport pres. TERMINAL SCHRANZ | Mantraa, Noise Not War, O.B.I. (DE), Obscure Shape, Timm Schirmer |
 | Fri, 20 Nov 2026 | Hyper Dreams x Airport x H33 | Anuuk, Cassa Cristano, Cassie Raptor, Dominique Lamee, DonChoppa, EARGASM GOD, FAROUT, HNAS, Kalte Liebe, LILLIVEE, Mantraa, Neo.official, Tham |
+| Fri, 11 Dec 2026 | AIRPORT X 808 STUDIOS | OGUZ |
 
 ## Address
 
 Gattingerstr. 17; 97076 Würzburg; Germany, Nürnberg
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/nurnberg/club/airport-w-rzburg/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/nurnberg/club/airport-w-rzburg/)*

@@ -1,6 +1,6 @@
 # Auerbach
 
-Auerbach is a Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 11 Sept 2026, next at Turbina, Budapest on Fri, 18 Sept 2026.
+Auerbach is a Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 12 Sept 2026, next at Turbina, Budapest on Fri, 18 Sept 2026.
 
 Auerbach is a techno artist tracked on soundcheck, with 27 sets logged across Budapest. Often billed alongside Meduzah, szoliver and Kiqo. Next up: Turbina, Budapest on Fri 18 Sept.
 
@@ -25,4 +25,4 @@ Auerbach is a techno artist tracked on soundcheck, with 27 sets logged across Bu
 
 Meduzah, szoliver, Kiqo
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/auerbach/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/auerbach/)*

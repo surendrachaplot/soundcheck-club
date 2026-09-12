@@ -1,6 +1,6 @@
 # Igor (1)
 
-Igor (1) is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Fri, 11 Sept 2026, next at Openluchttheater Amersfoort, Amsterdam on Fri, 18 Sept 2026.
+Igor (1) is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Sat, 12 Sept 2026, next at Openluchttheater Amersfoort, Amsterdam on Fri, 18 Sept 2026.
 
 Igor (1) is a techno and trance artist tracked on soundcheck, with 9 sets logged across Amsterdam, Berlin, Ibiza and Leipzig and 3 more. Often billed alongside CARGO (DE), CARGO x IGOR and DJ SeXex. Next up: Openluchttheater Amersfoort, Amsterdam on Fri 18 Sept.
 
@@ -25,4 +25,4 @@ Igor (1) is a techno and trance artist tracked on soundcheck, with 9 sets logged
 
 CARGO (DE), CARGO x IGOR, DJ SeXex
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/igor-1/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/igor-1/)*

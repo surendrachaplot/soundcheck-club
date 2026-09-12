@@ -1,6 +1,6 @@
 # T.I.M.E.F.A.L.L at TBA
 
-T.I.M.E.F.A.L.L at TBA on Sat 28 Nov, Berlin. 7 acts on the bill: André Galluzzi, Andreas Henneberg, DJ Hell and JOANNA COELHO and 3 more. Techno and Hardcore. Preview the line-up and save it on soundcheck.
+T.I.M.E.F.A.L.L at TBA on Sat 28 Nov, Berlin. 8 acts on the bill: André Galluzzi, Andreas Henneberg, DJ Hell and Jil Tanner and 4 more. Techno and Hardcore. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -13,6 +13,7 @@ T.I.M.E.F.A.L.L at TBA on Sat 28 Nov, Berlin. 7 acts on the bill: André Galluzz
 - André Galluzzi
 - Andreas Henneberg
 - DJ Hell
+- Jil Tanner
 - JOANNA COELHO
 - TBA
 - Teenage Mutants

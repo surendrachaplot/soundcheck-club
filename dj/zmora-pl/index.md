@@ -1,6 +1,6 @@
 # ZMØRA
 
-ZMØRA is a Techno and Experimental artist with 1 upcoming club date listed on soundcheck as of Fri, 11 Sept 2026, next at TBA - secret location, Krakow on Sat, 12 Sept 2026.
+ZMØRA is a Techno and Experimental artist with 1 upcoming club date listed on soundcheck as of Sat, 12 Sept 2026, next at TBA - secret location, Krakow on Sat, 12 Sept 2026.
 
 ZMØRA is a techno and experimental artist based in Poland, tracked on soundcheck, with 11 sets logged across Krakow and Vienna. Often billed alongside A.C., Firefly and AregV. Next up: TBA - secret location, Krakow on Sat 12 Sept.
 
@@ -25,4 +25,4 @@ ZMØRA is a techno and experimental artist based in Poland, tracked on soundchec
 
 A.C., Firefly, AregV
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/zmora-pl/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/zmora-pl/)*

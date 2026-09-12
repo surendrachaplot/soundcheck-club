@@ -1,6 +1,6 @@
 # Il Brutto Auckland
 
-Il Brutto Auckland is a music venue in Auckland with 2 upcoming nights listed on soundcheck as of Fri, 11 Sept 2026; the next is "Scene Council Presents: Choonage" on Sat, 12 Sept 2026.
+Il Brutto Auckland is a music venue in Auckland with 2 upcoming nights listed on soundcheck as of Sat, 12 Sept 2026; the next is "Scene Council Presents: Choonage" on Sat, 12 Sept 2026.
 
 Il Brutto Auckland is a music venue in Auckland listed on soundcheck. 2 upcoming nights, with line-ups including EMMYJ, ONARSÉ and Takydon. Browse upcoming dates, start times and who's playing. 27 Vitoria Street East, Auckland, 1010, New Zealand.
 
@@ -15,4 +15,4 @@ Il Brutto Auckland is a music venue in Auckland listed on soundcheck. 2 upcoming
 
 27 Vitoria Street East, Auckland, 1010, New Zealand, Auckland
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/auckland/club/il-brutto-auckland/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/auckland/club/il-brutto-auckland/)*

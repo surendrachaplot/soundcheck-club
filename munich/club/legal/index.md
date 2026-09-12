@@ -1,6 +1,6 @@
 # Legal
 
-Legal is a music venue in Munich with 4 upcoming nights listed on soundcheck as of Fri, 11 Sept 2026; the next is "Legal KLUBNACHT w./ Kuduxxti, Almedina, Lou Velvet, Nico & DJ Floppy Disk" on Fri, 11 Sept 2026.
+Legal is a music venue in Munich with 4 upcoming nights listed on soundcheck as of Sat, 12 Sept 2026; the next is "Legal KLUBNACHT w./ Kuduxxti, Almedina, Lou Velvet, Nico & DJ Floppy Disk" on Fri, 11 Sept 2026.
 
 Legal is a music venue in Munich listed on soundcheck. 4 upcoming nights, with line-ups including Almedina (2), Audio Werner, Buzé and DJ Floppy Disk and 2 more. Browse upcoming dates, start times and who's playing. Sendlinger Tor, Thalkirchener Strasse 2, 80337 Munchen.
 
@@ -17,4 +17,4 @@ Legal is a music venue in Munich listed on soundcheck. 4 upcoming nights, with l
 
 Sendlinger Tor, Thalkirchener Strasse 2, 80337 Munchen, Munich
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/munich/club/legal/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/munich/club/legal/)*

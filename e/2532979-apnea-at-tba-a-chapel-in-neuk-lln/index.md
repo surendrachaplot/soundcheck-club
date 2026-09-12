@@ -1,6 +1,6 @@
 # apnea at TBA - a chapel in neukölln
 
-apnea at TBA - a chapel in neukölln on Sun 4 Oct, Berlin. 3 acts on the bill: annna (2), Hitomi (DE) and Udda. Ambient and Downtempo. Preview the line-up and save it on soundcheck.
+apnea at TBA - a chapel in neukölln on Sun 4 Oct, Berlin. 3 acts on the bill: annna (2), Hitomi (DE) and Udda. Ambient. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Paoler
 
-Paoler is a Techno and Experimental artist with 1 upcoming club date listed on soundcheck as of Fri, 11 Sept 2026, next at Jonny Knüppel, Berlin on Sun, 13 Sept 2026.
+Paoler is a Techno and Experimental artist with 1 upcoming club date listed on soundcheck as of Sat, 12 Sept 2026, next at Jonny Knüppel, Berlin on Sun, 13 Sept 2026.
 
 Paoler is a techno and experimental artist based in Germany, tracked on soundcheck, with 19 sets logged across Berlin and Munich. Often billed alongside Al_Massimo, Funken and Overthink 71. Next up: Jonny Knüppel, Berlin on Sun 13 Sept.
 
@@ -25,4 +25,4 @@ Paoler is a techno and experimental artist based in Germany, tracked on soundche
 
 Al_Massimo, Funken, Overthink 71
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/paoler/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/paoler/)*

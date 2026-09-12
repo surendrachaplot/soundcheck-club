@@ -1,6 +1,6 @@
 # mredrollo
 
-mredrollo is a House and Progressive House artist with 1 upcoming club date listed on soundcheck as of Fri, 11 Sept 2026, next at Smelteverket, Oslo on Fri, 11 Sept 2026.
+mredrollo is a House and Progressive House artist with 1 upcoming club date listed on soundcheck as of Sat, 12 Sept 2026, next at Smelteverket, Oslo on Fri, 11 Sept 2026.
 
 mredrollo is a house and progressive house artist based in Australia, tracked on soundcheck, with 6 sets logged across Auckland, Bangkok, Hongkong and Oslo and 1 more. Often billed alongside Alexez (MX), M.O.S. and Mia Kober. Next up: Smelteverket, Oslo on Fri 11 Sept.
 
@@ -12,6 +12,7 @@ mredrollo is a house and progressive house artist based in Australia, tracked on
 
 ## Recently played
 
+- Smelteverket, Oslo — Fri, 11 Sept 2026
 - Casa Dao, Hong Kong — Sat, 25 Jul 2026
 - Sing Sing Theater, Bangkok — Wed, 22 Jul 2026
 - Parkedup, Auckland — Sun, 23 Nov 2025
@@ -22,4 +23,4 @@ mredrollo is a house and progressive house artist based in Australia, tracked on
 
 Alexez (MX), M.O.S., Mia Kober
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mredrollo/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mredrollo/)*

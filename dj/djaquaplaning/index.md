@@ -1,6 +1,6 @@
 # DJ Aquaplaning
 
-DJ Aquaplaning is a House and Breakbeat artist with 1 upcoming club date listed on soundcheck as of Fri, 11 Sept 2026, next at ZIRKA, Munich on Sat, 26 Sept 2026.
+DJ Aquaplaning is a House and Breakbeat artist with 1 upcoming club date listed on soundcheck as of Sat, 12 Sept 2026, next at ZIRKA, Munich on Sat, 26 Sept 2026.
 
 DJ Aquaplaning is a house and breakbeat artist tracked on soundcheck, with 20 sets logged across Leipzig and Munich. Often billed alongside Blond Felice, luxus and Clarity. Next up: ZIRKA, Munich on Sat 26 Sept.
 
@@ -25,4 +25,4 @@ DJ Aquaplaning is a house and breakbeat artist tracked on soundcheck, with 20 se
 
 Blond Felice, luxus, Clarity
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djaquaplaning/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djaquaplaning/)*

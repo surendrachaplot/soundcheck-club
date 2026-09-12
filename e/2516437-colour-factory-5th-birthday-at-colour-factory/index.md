@@ -1,6 +1,6 @@
 # Colour Factory 5th Birthday at Colour Factory
 
-Colour Factory 5th Birthday on Sat 26 Sept, London. 15 acts on the bill: Basmati (1), Bushbby, Dj Fucci and FAUZIA and 11 more. Preview the line-up and save it on soundcheck.
+Colour Factory 5th Birthday on Sat 26 Sept, London. 16 acts on the bill: Basmati (1), Bushbby, Dj Fucci and FAUZIA and 12 more. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -19,6 +19,7 @@ Colour Factory 5th Birthday on Sat 26 Sept, London. 15 acts on the bill: Basmati
 - Izzi
 - JONE OF ARX
 - Kahn
+- Kodemul
 - Neek
 - Poundshop
 - Reenie

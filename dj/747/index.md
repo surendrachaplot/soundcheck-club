@@ -1,6 +1,6 @@
 # 747
 
-747 is a Techno and Experimental artist with 1 upcoming club date listed on soundcheck as of Fri, 11 Sept 2026, next at TBA, Toronto on Fri, 11 Sept 2026.
+747 is a Techno and Experimental artist with 1 upcoming club date listed on soundcheck as of Sat, 12 Sept 2026, next at TBA, Toronto on Fri, 11 Sept 2026.
 
 747 is a techno and experimental artist tracked on soundcheck, with 7 sets logged across Berlin and Toronto. Often billed alongside Emily Nicoll, Measure Divide and #BSKD. Next up: TBA, Toronto on Fri 11 Sept.
 
@@ -12,6 +12,7 @@
 
 ## Recently played
 
+- TBA, Toronto — Fri, 11 Sept 2026
 - ://about blank, Berlin — Sat, 14 Mar 2026
 - Rhythm, Toronto — Fri, 13 Feb 2026
 - Mooi Space, Toronto — Sat, 4 Oct 2025
@@ -23,4 +24,4 @@
 
 Emily Nicoll, Measure Divide, #BSKD
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/747/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/747/)*

@@ -1,6 +1,6 @@
 # CLTX
 
-CLTX is a Techno and Trance artist with 4 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at Gate Milano, Milan on Fri, 11 Sept 2026.
+CLTX is a Techno and Trance artist with 4 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Gate Milano, Milan on Fri, 11 Sept 2026.
 
 CLTX is a techno and trance artist tracked on soundcheck, with 169 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 49 more. Often billed alongside DYEN, Alignment and Charlie Sparks. Next up: Gate Milano, Milan on Fri 11 Sept.
 
@@ -15,6 +15,7 @@ CLTX is a techno and trance artist tracked on soundcheck, with 169 sets logged a
 
 ## Recently played
 
+- Gate Milano, Milan — Fri, 11 Sept 2026
 - Mia Mao, Paris — Sat, 5 Sept 2026
 - TBA - Brooklyn, New York City — Sat, 29 Aug 2026
 - Kraftwerk, Zurich — Sat, 8 Aug 2026
@@ -22,10 +23,9 @@ CLTX is a techno and trance artist tracked on soundcheck, with 169 sets logged a
 - TBA - secret location, Barcelona — Fri, 31 Jul 2026
 - Fabrik, Madrid — Sat, 11 Jul 2026
 - Aria Complex, Malta — Mon, 29 Jun 2026
-- Vélodrome National de Saint-Quentin-en-Yvelines, Paris — Sat, 20 Jun 2026
 
 ## Shares bills with
 
 DYEN, Alignment, Charlie Sparks
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/cltx/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/cltx/)*

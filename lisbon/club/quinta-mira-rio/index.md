@@ -1,6 +1,6 @@
 # Quinta Mira Rio
 
-Quinta Mira Rio is a music venue in Lisbon with 3 upcoming nights listed on soundcheck as of Fri, 11 Sept 2026; the next is "Disturb & Kømplex Outdoor" on Sat, 12 Sept 2026.
+Quinta Mira Rio is a music venue in Lisbon with 3 upcoming nights listed on soundcheck as of Sat, 12 Sept 2026; the next is "Disturb & Kømplex Outdoor" on Sat, 12 Sept 2026.
 
 Quinta Mira Rio is a music venue in Lisbon listed on soundcheck. 3 upcoming nights, with line-ups including ANYA JAVYBZ, ANÍBAL, GI.O and Ketarina and 2 more. Browse upcoming dates, start times and who's playing. R. do Joinal 2825, Caparica.
 
@@ -16,4 +16,4 @@ Quinta Mira Rio is a music venue in Lisbon listed on soundcheck. 3 upcoming nigh
 
 R. do Joinal 2825, Caparica, Lisbon
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/lisbon/club/quinta-mira-rio/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/lisbon/club/quinta-mira-rio/)*

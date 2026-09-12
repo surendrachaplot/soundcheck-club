@@ -1,6 +1,6 @@
 # Mere Notilde
 
-Mere Notilde is a Experimental and House artist with 1 upcoming club date listed on soundcheck as of Fri, 11 Sept 2026, next at The Chemist, Boston on Wed, 16 Sept 2026.
+Mere Notilde is a Experimental and House artist with 1 upcoming club date listed on soundcheck as of Sat, 12 Sept 2026, next at The Chemist, Boston on Wed, 16 Sept 2026.
 
 Mere Notilde is an experimental and house artist based in United States of America, tracked on soundcheck, with 7 sets logged across Boston and Toronto. Often billed alongside destracshn, BRATATTACK and Chelita. Next up: The Chemist, Boston on Wed 16 Sept.
 
@@ -23,4 +23,4 @@ Mere Notilde is an experimental and house artist based in United States of Ameri
 
 destracshn, BRATATTACK, Chelita
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/merenotilde/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/merenotilde/)*

@@ -1,6 +1,6 @@
 # Optimo (Espacio)
 
-Optimo (Espacio) is a House and Techno artist with 9 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at Fort Mifflin, Philadelphia on Fri, 18 Sept 2026.
+Optimo (Espacio) is a House and Techno artist with 9 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Fort Mifflin, Philadelphia on Fri, 18 Sept 2026.
 
 Optimo (Espacio) is a house and techno artist tracked on soundcheck, with 189 sets logged across Aberdeen, Amsterdam, Antwerp and Athens and 44 more. Often billed alongside Daniel Avery, HAAi and Batu. Next up: Fort Mifflin, Philadelphia on Fri 18 Sept.
 
@@ -33,4 +33,4 @@ Optimo (Espacio) is a house and techno artist tracked on soundcheck, with 189 se
 
 Daniel Avery, HAAi, Batu
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/optimo/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/optimo/)*

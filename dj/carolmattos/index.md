@@ -1,6 +1,6 @@
 # Carol Mattos
 
-Carol Mattos is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 11 Sept 2026, next at Barraco SP /CO, Sao Paulo on Sat, 12 Sept 2026.
+Carol Mattos is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 12 Sept 2026, next at Barraco SP /CO, Sao Paulo on Sat, 12 Sept 2026.
 
 Carol Mattos is a techno and house artist tracked on soundcheck, with 12 sets logged across Barcelona, Berlin, Milan and Paris and 1 more. Often billed alongside DJ DUE, Melanie Havens and A Strange Wedding. Next up: Barraco SP /CO, Saopaulo on Sat 12 Sept.
 
@@ -25,4 +25,4 @@ Carol Mattos is a techno and house artist tracked on soundcheck, with 12 sets lo
 
 DJ DUE, Melanie Havens, A Strange Wedding
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/carolmattos/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/carolmattos/)*

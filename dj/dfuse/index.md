@@ -1,6 +1,6 @@
 # DFUSE
 
-DFUSE is a Dubstep and Jungle artist with 1 upcoming club date listed on soundcheck as of Fri, 11 Sept 2026, next at Four Quarters, London on Thu, 29 Oct 2026.
+DFUSE is a Dubstep and Jungle artist with 1 upcoming club date listed on soundcheck as of Sat, 12 Sept 2026, next at Four Quarters, London on Thu, 29 Oct 2026.
 
 DFUSE is a dubstep and jungle artist based in United Kingdom, tracked on soundcheck, with 26 sets logged across Bristol and London. Often billed alongside Dylan The Idylist, Braindead and N-Type. Next up: Four Quarters, London on Thu 29 Oct.
 
@@ -25,4 +25,4 @@ DFUSE is a dubstep and jungle artist based in United Kingdom, tracked on soundch
 
 Dylan The Idylist, Braindead, N-Type
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dfuse/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dfuse/)*

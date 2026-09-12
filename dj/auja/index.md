@@ -1,6 +1,6 @@
 # AUJA
 
-AUJA is a Progressive House and Afro House artist with 1 upcoming club date listed on soundcheck as of Fri, 11 Sept 2026, next at Café Galerie, Lyon on Fri, 11 Sept 2026.
+AUJA is a Progressive House and Afro House artist with 1 upcoming club date listed on soundcheck as of Sat, 12 Sept 2026, next at Café Galerie, Lyon on Fri, 11 Sept 2026.
 
 AUJA is a progressive house and afro house artist tracked on soundcheck, with 7 sets logged across Lyon and Valencia. Often billed alongside Dark Light(Es), VONDA7 and Jasmine Li. Next up: Café Galerie, Lyon on Fri 11 Sept.
 
@@ -12,6 +12,7 @@ AUJA is a progressive house and afro house artist tracked on soundcheck, with 7 
 
 ## Recently played
 
+- Café Galerie, Lyon — Fri, 11 Sept 2026
 - La Fábrica de Hielo, Valencia — Fri, 20 Sept 2024
 - La Cité des Halles, Lyon — Wed, 13 Mar 2024
 - Livestation DIY, Lyon — Sat, 9 Mar 2024
@@ -23,4 +24,4 @@ AUJA is a progressive house and afro house artist tracked on soundcheck, with 7 
 
 Dark Light(Es), VONDA7, Jasmine Li
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/auja/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/auja/)*

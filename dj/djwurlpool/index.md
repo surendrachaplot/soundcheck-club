@@ -1,6 +1,6 @@
 # DJ Würlpool
 
-DJ Würlpool is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Fri, 11 Sept 2026, next at elipamanoke, Leipzig on Sat, 26 Sept 2026.
+DJ Würlpool is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Sat, 12 Sept 2026, next at elipamanoke, Leipzig on Sat, 26 Sept 2026.
 
 DJ Würlpool is a techno and trance artist based in Germany, tracked on soundcheck, with 20 sets logged across Berlin and Leipzig. Often billed alongside DJ SeXex, CARGO (DE) and Felix Schwarzenberger. Next up: elipamanoke, Leipzig on Sat 26 Sept.
 
@@ -25,4 +25,4 @@ DJ Würlpool is a techno and trance artist based in Germany, tracked on soundche
 
 DJ SeXex, CARGO (DE), Felix Schwarzenberger
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djwurlpool/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djwurlpool/)*

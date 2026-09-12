@@ -1,6 +1,6 @@
 # Toxic
 
-Toxic is a Tech House and Hip-Hop artist with 1 upcoming club date listed on soundcheck as of Fri, 11 Sept 2026, next at UTOPIA / DYSTOPIA, Tokyo on Sun, 20 Sept 2026.
+Toxic is a Tech House and Hip-Hop artist with 1 upcoming club date listed on soundcheck as of Sat, 12 Sept 2026, next at UTOPIA / DYSTOPIA, Tokyo on Sun, 20 Sept 2026.
 
 Toxic is a tech house and hip-hop artist based in Germany, tracked on soundcheck, with 8 sets logged across Amsterdam, Barcelona, Buenosaires and Madrid and 1 more. Often billed alongside CHAAC, Dj Pepo and ICS [RO]. Next up: UTOPIA / DYSTOPIA, Tokyo on Sun 20 Sept.
 
@@ -24,4 +24,4 @@ Toxic is a tech house and hip-hop artist based in Germany, tracked on soundcheck
 
 CHAAC, Dj Pepo, ICS [RO]
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/toxic/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/toxic/)*

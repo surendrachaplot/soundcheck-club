@@ -1,6 +1,6 @@
 # Charlie P
 
-Charlie P is a Dub and Bass artist with 2 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at The Art School, Glasgow on Thu, 17 Sept 2026.
+Charlie P is a Dub and Bass artist with 2 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at The Art School, Glasgow on Thu, 17 Sept 2026.
 
 Charlie P is a dub and bass artist based in United Kingdom, tracked on soundcheck, with 10 sets logged across Chicago, Geneva, Glasgow and Leeds and 3 more. Often billed alongside O.B.F, Iration Steppas and Prince Fatty. Next up: The Art School, Glasgow on Thu 17 Sept.
 
@@ -26,4 +26,4 @@ Charlie P is a dub and bass artist based in United Kingdom, tracked on soundchec
 
 O.B.F, Iration Steppas, Prince Fatty
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/charliep/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/charliep/)*

@@ -1,6 +1,6 @@
 # Common Tribe
 
-Common Tribe is a Techno and Breakbeat artist with 2 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at Revolver Upstairs, Melbourne on Wed, 23 Sept 2026.
+Common Tribe is a Techno and Breakbeat artist with 2 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Revolver Upstairs, Melbourne on Wed, 23 Sept 2026.
 
 Common Tribe is a techno and breakbeat artist based in Australia, tracked on soundcheck, with 8 sets logged across Melbourne. Often billed alongside Lost Memories, 3LOAR and ALIEN-A. Next up: Revolver Upstairs, Melbourne on Wed 23 Sept.
 
@@ -24,4 +24,4 @@ Common Tribe is a techno and breakbeat artist based in Australia, tracked on sou
 
 Lost Memories, 3LOAR, ALIEN-A
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/commontribe/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/commontribe/)*

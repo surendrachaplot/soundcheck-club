@@ -1,6 +1,6 @@
 # Anna Reusch
 
-Anna Reusch is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at Slakthuset, Stockholm on Sat, 12 Sept 2026.
+Anna Reusch is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Slakthuset, Stockholm on Sat, 12 Sept 2026.
 
 Anna Reusch is a techno and house artist tracked on soundcheck, with 86 sets logged across Amsterdam, Barcelona, Berlin and Cologne and 23 more. Often billed alongside Thomas Schumacher, A.D.H.S. and Bjørnson. Next up: Slakthuset, Stockholm on Sat 12 Sept.
 
@@ -30,4 +30,4 @@ Anna Reusch is a techno and house artist tracked on soundcheck, with 86 sets log
 
 Thomas Schumacher, A.D.H.S., Bjørnson
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/annareusch/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/annareusch/)*

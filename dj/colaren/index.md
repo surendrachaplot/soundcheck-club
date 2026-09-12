@@ -1,6 +1,6 @@
 # COLA REN
 
-COLA REN is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 11 Sept 2026, next at WWW, Tokyo on Fri, 25 Sept 2026.
+COLA REN is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 12 Sept 2026, next at WWW, Tokyo on Fri, 25 Sept 2026.
 
 COLA REN is a techno and house artist tracked on soundcheck, with 18 sets logged across Berlin, Kyoto, Munich and Osaka and 3 more. Often billed alongside Jascer, NTsKi and Actress. Next up: WWW, Tokyo on Fri 25 Sept.
 
@@ -25,4 +25,4 @@ COLA REN is a techno and house artist tracked on soundcheck, with 18 sets logged
 
 Jascer, NTsKi, Actress
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/colaren/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/colaren/)*

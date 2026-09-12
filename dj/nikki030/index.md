@@ -1,6 +1,6 @@
 # NIKKI030
 
-NIKKI030 is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Fri, 11 Sept 2026, next at OST, Berlin on Fri, 23 Oct 2026.
+NIKKI030 is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Sat, 12 Sept 2026, next at OST, Berlin on Fri, 23 Oct 2026.
 
 NIKKI030 is a techno and trance artist based in Germany, tracked on soundcheck, with 7 sets logged across Berlin, Cologne and Vienna. Often billed alongside Anuuk, DonChoppa and Charleen Herzig. Next up: OST, Berlin on Fri 23 Oct.
 
@@ -23,4 +23,4 @@ NIKKI030 is a techno and trance artist based in Germany, tracked on soundcheck, 
 
 Anuuk, DonChoppa, Charleen Herzig
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nikki030/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nikki030/)*

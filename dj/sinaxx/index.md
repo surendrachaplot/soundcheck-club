@@ -1,6 +1,6 @@
 # Sina XX
 
-Sina XX is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at Badaboum, Paris on Fri, 11 Sept 2026.
+Sina XX is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Badaboum, Paris on Fri, 11 Sept 2026.
 
 Sina XX is a techno and house artist based in France, tracked on soundcheck, with 78 sets logged across Amsterdam, Barcelona, Berlin and Brussels and 20 more. Often billed alongside Nesa Azadikhah, Egna and A.mo. Next up: Badaboum, Paris on Fri 11 Sept.
 
@@ -14,6 +14,7 @@ Sina XX is a techno and house artist based in France, tracked on soundcheck, wit
 
 ## Recently played
 
+- Badaboum, Paris — Fri, 11 Sept 2026
 - Unité.22, Marseille — Sat, 29 Aug 2026
 - La Station - Gare des Mines, Paris — Sat, 15 Aug 2026
 - Macadam, Nantes — Sat, 1 Aug 2026
@@ -21,10 +22,9 @@ Sina XX is a techno and house artist based in France, tracked on soundcheck, wit
 - Circus Tokyo, Tokyo — Fri, 10 Jul 2026
 - Silbergold, Frankfurt — Sat, 4 Jul 2026
 - TBA, Amsterdam — Fri, 19 Jun 2026
-- Cannons, Detroit — Fri, 19 Jun 2026
 
 ## Shares bills with
 
 Nesa Azadikhah, Egna, A.mo
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sinaxx/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sinaxx/)*

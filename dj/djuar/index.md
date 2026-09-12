@@ -1,6 +1,6 @@
 # Djuar
 
-Djuar is a Bass and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at radial, London on Fri, 11 Sept 2026.
+Djuar is a Bass and Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at radial, London on Fri, 11 Sept 2026.
 
 Djuar is a bass and techno artist based in Ireland, tracked on soundcheck, with 9 sets logged across London. Often billed alongside Delay Grounds, carmen (7) and Paul McManamon. Next up: radial, London on Fri 11 Sept.
 
@@ -13,6 +13,7 @@ Djuar is a bass and techno artist based in Ireland, tracked on soundcheck, with 
 
 ## Recently played
 
+- radial, London — Fri, 11 Sept 2026
 - M.O.T, London — Sat, 1 Aug 2026
 - The Greyhound, London — Sat, 29 Nov 2025
 - Unit 3, London — Sat, 13 Sept 2025
@@ -25,4 +26,4 @@ Djuar is a bass and techno artist based in Ireland, tracked on soundcheck, with 
 
 Delay Grounds, carmen (7), Paul McManamon
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djuar/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djuar/)*

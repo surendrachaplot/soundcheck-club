@@ -1,6 +1,6 @@
 # Hedda Stenberg
 
-Hedda Stenberg is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at SAGE, Berlin on Sat, 12 Sept 2026.
+Hedda Stenberg is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at SAGE, Berlin on Sat, 12 Sept 2026.
 
 Hedda Stenberg is a house and techno artist based in Sweden, tracked on soundcheck, with 57 sets logged across Amsterdam, Barcelona, Berlin and Copenhagen and 3 more. Often billed alongside Collé, Mees Salomé and VNTM. Next up: SAGE, Berlin on Sat 12 Sept.
 
@@ -28,4 +28,4 @@ Hedda Stenberg is a house and techno artist based in Sweden, tracked on soundche
 
 Collé, Mees Salomé, VNTM
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/heddastenberg/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/heddastenberg/)*

@@ -1,6 +1,6 @@
 # SENSORIAL: SCENE THREE [Listening Session + Live Performance + Club night] at Hackney Bridge
 
-SENSORIAL: SCENE THREE [Listening Session + Live Performance + Club night] at Hackney Bridge on Fri 16 Oct, London. 5 acts on the bill: Kontronatura, Maldita Vaina, Olive Juice and ROHiNA and 1 more. Bass and Dancehall. Preview the line-up and save it on soundcheck.
+SENSORIAL: SCENE THREE [Listening Session + Live Performance + Club night] at Hackney Bridge on Fri 16 Oct, London. 5 acts on the bill: Kontronatura, Maldita Vaina, Olive Juice and ROHiNA and 1 more. Bass and Dembow. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

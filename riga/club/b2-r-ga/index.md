@@ -1,8 +1,8 @@
 # B2 Rīga
 
-B2 Rīga is a music venue in Riga with 7 upcoming nights listed on soundcheck as of Fri, 11 Sept 2026; the next is "PIXEL VOL 2" on Sat, 12 Sept 2026.
+B2 Rīga is a music venue in Riga with 8 upcoming nights listed on soundcheck as of Sat, 12 Sept 2026; the next is "PIXEL VOL 2" on Sat, 12 Sept 2026.
 
-B2 Rīga is a music venue in Riga listed on soundcheck. 7 upcoming nights, with line-ups including Aistelele, ANASI, DEEP DISTRICT and Diego Krause and 2 more. Browse upcoming dates, start times and who's playing. Bruņinieku iela 2, Rīga.
+B2 Rīga is a music venue in Riga listed on soundcheck. 8 upcoming nights, with line-ups including Aistelele, ANASI, DEEP DISTRICT and Diego Krause and 2 more. Browse upcoming dates, start times and who's playing. Bruņinieku iela 2, Rīga.
 
 ## What's on
 
@@ -11,6 +11,7 @@ B2 Rīga is a music venue in Riga listed on soundcheck. 7 upcoming nights, with 
 | Sat, 12 Sept 2026 | PIXEL VOL 2 | Hele, RAF [ LT ], Sorsa |
 | Fri, 18 Sept 2026 | HOIST 005 | Aistelele, Mikass |
 | Sat, 19 Sept 2026 | Keepeesch 010: B2 with Girls | ANASI, LETRIX, harmo:nika |
+| Thu, 24 Sept 2026 | Bourzma MIC special editon: DONT BE DUMJŠ ASAP AFTERPARTY |  |
 | Fri, 25 Sept 2026 | I Do Believe | Mario Moretti, Raivo |
 | Fri, 2 Oct 2026 | Night Shift 3 - Mihai Popoviciu [RO] | D I N, DEEP DISTRICT, Mihai Popoviciu, iOAN (LV) |
 | Fri, 16 Oct 2026 | FILTER 6YR W Diego Krause [DE] | Diego Krause, KIRHA, PUPA, Will Sonic |
@@ -20,4 +21,4 @@ B2 Rīga is a music venue in Riga listed on soundcheck. 7 upcoming nights, with 
 
 Bruņinieku iela 2, Rīga, Riga
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/riga/club/b2-r-ga/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/riga/club/b2-r-ga/)*

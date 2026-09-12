@@ -1,6 +1,6 @@
 # H369
 
-H369 is a Trance and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 11 Sept 2026, next at Lokschuppen Berlin, Berlin on Fri, 11 Sept 2026.
+H369 is a Trance and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 12 Sept 2026, next at Lokschuppen Berlin, Berlin on Fri, 11 Sept 2026.
 
 H369 is a trance and techno artist tracked on soundcheck, with 29 sets logged across Berlin, Cologne, Leipzig and Madrid and 1 more. Often billed alongside SACID, Aexhy and Alina Viktoria. Next up: Lokschuppen Berlin, Berlin on Fri 11 Sept.
 
@@ -12,6 +12,7 @@ H369 is a trance and techno artist tracked on soundcheck, with 29 sets logged ac
 
 ## Recently played
 
+- Lokschuppen Berlin, Berlin — Fri, 11 Sept 2026
 - ://about blank, Berlin — Fri, 5 Jun 2026
 - RSO.BERLIN, Berlin — Fri, 19 Sept 2025
 - Lokschuppen Berlin, Berlin — Tue, 9 Sept 2025
@@ -19,10 +20,9 @@ H369 is a trance and techno artist tracked on soundcheck, with 29 sets logged ac
 - Lokschuppen Berlin, Berlin — Tue, 31 Dec 2024
 - ://about blank, Berlin — Sat, 23 Nov 2024
 - OXI, Berlin — Sat, 16 Nov 2024
-- ://about blank, Berlin — Sat, 31 Aug 2024
 
 ## Shares bills with
 
 SACID, Aexhy, Alina Viktoria
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/h369/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/h369/)*

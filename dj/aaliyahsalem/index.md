@@ -1,6 +1,6 @@
 # Aaliyah Salem
 
-Aaliyah Salem is a Techno and Bass artist with 1 upcoming club date listed on soundcheck as of Fri, 11 Sept 2026, next at 24 Moons, Melbourne on Fri, 18 Sept 2026.
+Aaliyah Salem is a Techno and Bass artist with 1 upcoming club date listed on soundcheck as of Sat, 12 Sept 2026, next at 24 Moons, Melbourne on Fri, 18 Sept 2026.
 
 Aaliyah Salem is a techno and bass artist based in Australia, tracked on soundcheck, with 30 sets logged across Melbourne. Often billed alongside DJ CASPER (2), ATARANGI and Girl Tool. Next up: 24 Moons, Melbourne on Fri 18 Sept.
 
@@ -25,4 +25,4 @@ Aaliyah Salem is a techno and bass artist based in Australia, tracked on soundch
 
 DJ CASPER (2), ATARANGI, Girl Tool
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/aaliyahsalem/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/aaliyahsalem/)*

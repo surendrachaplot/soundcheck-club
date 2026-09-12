@@ -1,14 +1,16 @@
 # Animal Trainer
 
-Animal Trainer is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at Audio Club, Geneva on Sat, 12 Sept 2026.
+Animal Trainer is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Audio Club, Geneva on Sat, 12 Sept 2026.
 
-Animal Trainer is a house and techno artist tracked on soundcheck, with 72 sets logged across Amsterdam, Athens, Bali and Bangkok and 18 more. Often billed alongside ACID FLORA, Anthik and Dejan. Next up: Audio Club, Geneva on Sat 12 Sept.
+Animal Trainer is a house and techno artist tracked on soundcheck, with 74 sets logged across Amsterdam, Athens, Bali and Bangkok and 18 more. Often billed alongside ACID FLORA, Anthik and Kellerkind. Next up: Audio Club, Geneva on Sat 12 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 12 Sept 2026 | Audio Club | Geneva |
+| Sat, 26 Sept 2026 | Hive Club | Zurich |
+| Sat, 3 Oct 2026 | Hive Club | Zurich |
 | Sat, 24 Oct 2026 | WestWeelde | Amsterdam |
 
 ## Recently played
@@ -24,6 +26,6 @@ Animal Trainer is a house and techno artist tracked on soundcheck, with 72 sets 
 
 ## Shares bills with
 
-ACID FLORA, Anthik, Dejan
+ACID FLORA, Anthik, Kellerkind
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/animaltrainer/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/animaltrainer/)*

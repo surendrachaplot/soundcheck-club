@@ -1,6 +1,6 @@
 # Ines Cartas
 
-Ines Cartas is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at Club der Visionaere, Berlin on Tue, 15 Sept 2026.
+Ines Cartas is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Club der Visionaere, Berlin on Tue, 15 Sept 2026.
 
 Ines Cartas is a house and techno artist based in Mexico, tracked on soundcheck, with 47 sets logged across Barcelona, Berlin, Lisbon and Mexicocity and 2 more. Often billed alongside SENERGI, Bastard Love and Fabbs on. Next up: Club der Visionaere, Berlin on Tue 15 Sept.
 
@@ -27,4 +27,4 @@ Ines Cartas is a house and techno artist based in Mexico, tracked on soundcheck,
 
 SENERGI, Bastard Love, Fabbs on
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/inescartas/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/inescartas/)*

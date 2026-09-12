@@ -1,6 +1,6 @@
 # Vlad Starque
 
-Vlad Starque is a House and Progressive House artist with 1 upcoming club date listed on soundcheck as of Fri, 11 Sept 2026, next at Nicholas Groente & Fruit, Amsterdam on Thu, 22 Oct 2026.
+Vlad Starque is a House and Progressive House artist with 1 upcoming club date listed on soundcheck as of Sat, 12 Sept 2026, next at Nicholas Groente & Fruit, Amsterdam on Thu, 22 Oct 2026.
 
 Vlad Starque is a house and progressive house artist based in Lithuania, tracked on soundcheck, with 9 sets logged across Amsterdam, Budapest and Riga. Often billed alongside Kapusta, Rexton and ANESI. Next up: Nicholas Groente & Fruit, Amsterdam on Thu 22 Oct.
 
@@ -25,4 +25,4 @@ Vlad Starque is a house and progressive house artist based in Lithuania, tracked
 
 Kapusta, Rexton, ANESI
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/vladstarque/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/vladstarque/)*

@@ -1,6 +1,6 @@
 # Gianmarco Limenta
 
-Gianmarco Limenta is a House and Electronica artist with 1 upcoming club date listed on soundcheck as of Fri, 11 Sept 2026, next at Sidecar, Barcelona on Sun, 13 Sept 2026.
+Gianmarco Limenta is a House and Electronica artist with 1 upcoming club date listed on soundcheck as of Sat, 12 Sept 2026, next at Sidecar, Barcelona on Sun, 13 Sept 2026.
 
 Gianmarco Limenta is a house and electronica artist tracked on soundcheck, with 29 sets logged across Barcelona. Often billed alongside Nesi, Luca Pernice and Victor Hugo. Next up: Sidecar, Barcelona on Sun 13 Sept.
 
@@ -25,4 +25,4 @@ Gianmarco Limenta is a house and electronica artist tracked on soundcheck, with 
 
 Nesi, Luca Pernice, Victor Hugo
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/gianmarcolimenta/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/gianmarcolimenta/)*

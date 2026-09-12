@@ -1,6 +1,6 @@
 # Swig
 
-Swig is a music venue in Chicago with 2 upcoming nights listed on soundcheck as of Fri, 11 Sept 2026; the next is "Goods Thursdays: Dirty Dish" on Thu, 17 Sept 2026.
+Swig is a music venue in Chicago with 2 upcoming nights listed on soundcheck as of Sat, 12 Sept 2026; the next is "Goods Thursdays: Dirty Dish" on Thu, 17 Sept 2026.
 
 Swig is a music venue in Chicago listed on soundcheck. 2 upcoming nights, with line-ups including Amy Unland, Duke Shin, Josh Tong and Lesprite and 2 more. Browse upcoming dates, start times and who's playing. 1469 n milwaukee chicago, il.
 
@@ -15,4 +15,4 @@ Swig is a music venue in Chicago listed on soundcheck. 2 upcoming nights, with l
 
 1469 n milwaukee chicago, il, Chicago
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/chicago/club/swig/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/chicago/club/swig/)*

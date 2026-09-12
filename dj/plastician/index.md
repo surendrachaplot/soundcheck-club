@@ -1,6 +1,6 @@
 # Plastician
 
-Plastician is a Dubstep and Bass artist with 6 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at The Clock Factory, Bristol on Fri, 25 Sept 2026.
+Plastician is a Dubstep and Bass artist with 6 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at The Clock Factory, Bristol on Fri, 25 Sept 2026.
 
 Plastician is a dubstep and bass artist tracked on soundcheck, with 73 sets logged across Auckland, Birmingham, Bristol and Chicago and 15 more. Often billed alongside Skream, Just Jane and Oneman. Next up: The Clock Factory, Bristol on Fri 25 Sept.
 
@@ -30,4 +30,4 @@ Plastician is a dubstep and bass artist tracked on soundcheck, with 73 sets logg
 
 Skream, Just Jane, Oneman
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/plastician/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/plastician/)*

@@ -1,6 +1,6 @@
 # Alignment
 
-Alignment is a Techno and House artist with 7 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at Laagravense Plas, Utrecht on Sat, 12 Sept 2026.
+Alignment is a Techno and House artist with 7 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Laagravense Plas, Utrecht on Sat, 12 Sept 2026.
 
 Alignment is a techno and house artist tracked on soundcheck, with 217 sets logged across Amsterdam, Antwerp, Athens and Austin and 62 more. Often billed alongside Shlømo, Basswell and DYEN. Next up: Laagravense Plas, Utrecht on Sat 12 Sept.
 
@@ -31,4 +31,4 @@ Alignment is a techno and house artist tracked on soundcheck, with 217 sets logg
 
 Shlømo, Basswell, DYEN
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/alignment/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/alignment/)*

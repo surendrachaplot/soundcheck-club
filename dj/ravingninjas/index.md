@@ -1,6 +1,6 @@
 # Raving Ninjas
 
-Raving Ninjas is a Techno and Industrial artist with 2 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at L'after Club, Geneva on Fri, 11 Sept 2026.
+Raving Ninjas is a Techno and Industrial artist with 2 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at L'after Club, Geneva on Fri, 11 Sept 2026.
 
 Raving Ninjas is a techno and industrial artist based in Switzerland, tracked on soundcheck, with 5 sets logged across Geneva. Often billed alongside VØX., WITHIN (NL) and Sad Paco. Next up: L'after Club, Geneva on Fri 11 Sept.
 
@@ -13,6 +13,7 @@ Raving Ninjas is a techno and industrial artist based in Switzerland, tracked on
 
 ## Recently played
 
+- L'after Club, Geneva — Fri, 11 Sept 2026
 - L'after Club, Geneva — Fri, 3 Jul 2026
 - TBA - Shadow Night Bar, Rue de Rive 22, 1260 Nyon, Geneva — Sat, 20 Jun 2026
 - L'after Club, Geneva — Fri, 6 Mar 2026
@@ -21,4 +22,4 @@ Raving Ninjas is a techno and industrial artist based in Switzerland, tracked on
 
 VØX., WITHIN (NL), Sad Paco
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ravingninjas/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ravingninjas/)*

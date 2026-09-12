@@ -1,6 +1,6 @@
 # Flo Scheuer
 
-Flo Scheuer is a Tech House and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at Legal, Munich on Fri, 18 Sept 2026.
+Flo Scheuer is a Tech House and House artist with 2 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Legal, Munich on Fri, 18 Sept 2026.
 
 Flo Scheuer is a tech house and house artist based in Germany, tracked on soundcheck, with 2 sets logged across Munich. Often billed alongside 600-cell, Apua and Blond Felice. Next up: Legal, Munich on Fri 18 Sept.
 
@@ -15,4 +15,4 @@ Flo Scheuer is a tech house and house artist based in Germany, tracked on soundc
 
 600-cell, Apua, Blond Felice
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/floscheuer/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/floscheuer/)*

@@ -1,6 +1,6 @@
 # Chinastraat
 
-Chinastraat is a music venue in Ghent with 6 upcoming nights listed on soundcheck as of Fri, 11 Sept 2026; the next is "Insomnia Fracture with So Juice" on Fri, 18 Sept 2026.
+Chinastraat is a music venue in Ghent with 6 upcoming nights listed on soundcheck as of Sat, 12 Sept 2026; the next is "Insomnia Fracture with So Juice" on Fri, 18 Sept 2026.
 
 Chinastraat is a music venue in Ghent listed on soundcheck. 6 upcoming nights, with line-ups including BIIANCO, droomwolkje, Gouzz and Jalo and 2 more. Browse upcoming dates, start times and who's playing. Chinastraat 1, 9000 Ghent.
 
@@ -19,4 +19,4 @@ Chinastraat is a music venue in Ghent listed on soundcheck. 6 upcoming nights, w
 
 Chinastraat 1, 9000 Ghent, Ghent
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/ghent/club/chinastraat/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/ghent/club/chinastraat/)*

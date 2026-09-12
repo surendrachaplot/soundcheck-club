@@ -1,6 +1,6 @@
 # Jo Christy
 
-Jo Christy is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at TBA - Tanswell's Hotel, 50 Ford St, Beechworth VIC 3747, Melbourne on Fri, 11 Sept 2026.
+Jo Christy is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at TBA - Tanswell's Hotel, 50 Ford St, Beechworth VIC 3747, Melbourne on Fri, 11 Sept 2026.
 
 Jo Christy is a house and techno artist tracked on soundcheck, with 40 sets logged across Melbourne and Sydney. Often billed alongside Jesse DM, Simonetti and Slumdog. Next up: TBA - Tanswell's Hotel, 50 Ford St, Beechworth VIC 3747, Melbourne on Fri 11 Sept.
 
@@ -13,6 +13,7 @@ Jo Christy is a house and techno artist tracked on soundcheck, with 40 sets logg
 
 ## Recently played
 
+- TBA - Tanswell's Hotel, 50 Ford St, Beechworth VIC 3747, Melbourne — Fri, 11 Sept 2026
 - Collingwood Basement, Melbourne — Sat, 11 Jul 2026
 - TBA - Bell City Takeaway - Sub Club - 79 Lygon St Brunswick, Melbourne — Fri, 19 Jun 2026
 - Milneys, Melbourne — Sat, 30 May 2026
@@ -20,10 +21,9 @@ Jo Christy is a house and techno artist tracked on soundcheck, with 40 sets logg
 - Glamorama, Melbourne — Sat, 30 May 2026
 - Glamorama, Melbourne — Sat, 4 Apr 2026
 - Club 77, Sydney — Sun, 1 Mar 2026
-- Collingwood Children's Farm, Melbourne — Wed, 31 Dec 2025
 
 ## Shares bills with
 
 Jesse DM, Simonetti, Slumdog
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jochristy/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jochristy/)*

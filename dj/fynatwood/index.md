@@ -1,6 +1,6 @@
 # fyn atwood
 
-fyn atwood is a House and Electronica artist with 1 upcoming club date listed on soundcheck as of Fri, 11 Sept 2026, next at Xolo, Munich on Sun, 13 Sept 2026.
+fyn atwood is a House and Electronica artist with 1 upcoming club date listed on soundcheck as of Sat, 12 Sept 2026, next at Xolo, Munich on Sun, 13 Sept 2026.
 
 fyn atwood is a house and electronica artist tracked on soundcheck, with 10 sets logged across Munich. Often billed alongside Alles Andere, Andrea Bertoli and Daisuki. Next up: Xolo, Munich on Sun 13 Sept.
 
@@ -25,4 +25,4 @@ fyn atwood is a house and electronica artist tracked on soundcheck, with 10 sets
 
 Alles Andere, Andrea Bertoli, Daisuki
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/fynatwood/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/fynatwood/)*

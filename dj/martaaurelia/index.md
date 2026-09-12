@@ -1,6 +1,6 @@
 # Marta Aurelia
 
-Marta Aurelia is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at Südpol, Hamburg on Fri, 18 Sept 2026.
+Marta Aurelia is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Südpol, Hamburg on Fri, 18 Sept 2026.
 
 Marta Aurelia is a house and tech house artist tracked on soundcheck, with 25 sets logged across Berlin and Hamburg. Often billed alongside Surreal (DE), Le.Fu and Marco Baskind. Next up: Südpol, Hamburg on Fri 18 Sept.
 
@@ -26,4 +26,4 @@ Marta Aurelia is a house and tech house artist tracked on soundcheck, with 25 se
 
 Surreal (DE), Le.Fu, Marco Baskind
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/martaaurelia/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/martaaurelia/)*

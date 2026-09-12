@@ -1,6 +1,6 @@
 # DJ Wada
 
-DJ Wada is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 11 Sept 2026, next at Azumaya, Tokyo on Thu, 17 Sept 2026.
+DJ Wada is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 12 Sept 2026, next at Azumaya, Tokyo on Thu, 17 Sept 2026.
 
 DJ Wada is a techno and house artist based in Japan, tracked on soundcheck, with 98 sets logged across Tokyo. Often billed alongside DAIY, NABE and Yos.. Next up: Azumaya, Tokyo on Thu 17 Sept.
 
@@ -25,4 +25,4 @@ DJ Wada is a techno and house artist based in Japan, tracked on soundcheck, with
 
 DAIY, NABE, Yos.
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djwada/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djwada/)*

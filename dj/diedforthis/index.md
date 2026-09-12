@@ -1,6 +1,6 @@
 # diedforthis
 
-diedforthis is a House and Funk / Soul artist with 1 upcoming club date listed on soundcheck as of Fri, 11 Sept 2026, next at TBA - Win Son Bakery East Village, New York City on Fri, 18 Sept 2026.
+diedforthis is a House and Funk / Soul artist with 1 upcoming club date listed on soundcheck as of Sat, 12 Sept 2026, next at TBA - Win Son Bakery East Village, New York City on Fri, 18 Sept 2026.
 
 diedforthis is a house and funk / soul artist tracked on soundcheck, with 33 sets logged across Detroit and Newyorkcity. Often billed alongside Dj Ellie, Extra Meesh and ATTHEMOMENT. Next up: TBA - Win Son Bakery East Village, Newyorkcity on Fri 18 Sept.
 
@@ -25,4 +25,4 @@ diedforthis is a house and funk / soul artist tracked on soundcheck, with 33 set
 
 Dj Ellie, Extra Meesh, ATTHEMOMENT
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/diedforthis/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/diedforthis/)*

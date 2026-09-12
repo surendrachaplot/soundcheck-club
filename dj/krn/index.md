@@ -1,6 +1,6 @@
 # KRN
 
-KRN is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Fri, 11 Sept 2026, next at feedbk, New York City on Sat, 19 Sept 2026.
+KRN is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Sat, 12 Sept 2026, next at feedbk, New York City on Sat, 19 Sept 2026.
 
 KRN is a house and tech house artist based in United Kingdom, tracked on soundcheck, with 54 sets logged across Amsterdam, Barcelona, Berlin and Birmingham and 15 more. Often billed alongside The Ghost, Sugar Free and DJ Pipe. Next up: feedbk, Newyorkcity on Sat 19 Sept.
 
@@ -25,4 +25,4 @@ KRN is a house and tech house artist based in United Kingdom, tracked on soundch
 
 The Ghost, Sugar Free, DJ Pipe
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/krn/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/krn/)*

@@ -1,6 +1,6 @@
 # Manning Bar
 
-Manning Bar is a music venue in Sydney with 3 upcoming nights listed on soundcheck as of Fri, 11 Sept 2026; the next is "Petit Biscuit" on Fri, 25 Sept 2026.
+Manning Bar is a music venue in Sydney with 3 upcoming nights listed on soundcheck as of Sat, 12 Sept 2026; the next is "Petit Biscuit" on Fri, 25 Sept 2026.
 
 Manning Bar is a music venue in Sydney listed on soundcheck. 3 upcoming nights, with line-ups including ANNĒ, bacteria grl, IKKIMEL and Mija and 2 more. Browse upcoming dates, start times and who's playing. Manning Rd; University of Sydney, NSW 2006; Australia.
 
@@ -16,4 +16,4 @@ Manning Bar is a music venue in Sydney listed on soundcheck. 3 upcoming nights, 
 
 Manning Rd; University of Sydney, NSW 2006; Australia, Sydney
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/sydney/club/manning-bar/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/sydney/club/manning-bar/)*

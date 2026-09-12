@@ -1,6 +1,6 @@
 # REIKS
 
-REIKS is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Fri, 11 Sept 2026, next at Dual, Bangkok on Sat, 19 Sept 2026.
+REIKS is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Sat, 12 Sept 2026, next at Dual, Bangkok on Sat, 19 Sept 2026.
 
 REIKS is a techno and industrial artist tracked on soundcheck, with 51 sets logged across Bangkok and Tokyo. Often billed alongside The3RD, POKOLENIE MIKROZAYMOV and InRemission. Next up: Dual, Bangkok on Sat 19 Sept.
 
@@ -25,4 +25,4 @@ REIKS is a techno and industrial artist tracked on soundcheck, with 51 sets logg
 
 The3RD, POKOLENIE MIKROZAYMOV, InRemission
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/reiks/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/reiks/)*

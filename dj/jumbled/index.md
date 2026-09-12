@@ -1,6 +1,6 @@
 # Jumbled
 
-Jumbled is a Techno and Garage artist with 1 upcoming club date listed on soundcheck as of Fri, 11 Sept 2026, next at The Yard, Manchester on Sat, 31 Oct 2026.
+Jumbled is a Techno and Garage artist with 1 upcoming club date listed on soundcheck as of Sat, 12 Sept 2026, next at The Yard, Manchester on Sat, 31 Oct 2026.
 
 Jumbled is a techno and garage artist based in United Kingdom, tracked on soundcheck, with 24 sets logged across Manchester. Often billed alongside krioso, gr00vy.cat and Incupa97. Next up: The Yard, Manchester on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Jumbled is a techno and garage artist based in United Kingdom, tracked on soundc
 
 krioso, gr00vy.cat, Incupa97
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jumbled/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jumbled/)*

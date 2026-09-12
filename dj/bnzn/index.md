@@ -1,6 +1,6 @@
 # BNZN
 
-BNZN is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at Uebel & Gefährlich, Hamburg on Fri, 9 Oct 2026.
+BNZN is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Uebel & Gefährlich, Hamburg on Fri, 9 Oct 2026.
 
 BNZN is a techno and trance artist tracked on soundcheck, with 101 sets logged across Berlin, Cologne and Hamburg. Often billed alongside Elon Bass, Carluschka and DJ SPORTSCHUH. Next up: Uebel & Gefährlich, Hamburg on Fri 9 Oct.
 
@@ -26,4 +26,4 @@ BNZN is a techno and trance artist tracked on soundcheck, with 101 sets logged a
 
 Elon Bass, Carluschka, DJ SPORTSCHUH
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bnzn/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bnzn/)*

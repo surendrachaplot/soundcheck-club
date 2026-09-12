@@ -1,6 +1,6 @@
 # harmo:nika
 
-harmo:nika is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 11 Sept 2026, next at B2 Rīga, Riga on Sat, 19 Sept 2026.
+harmo:nika is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 12 Sept 2026, next at B2 Rīga, Riga on Sat, 19 Sept 2026.
 
 harmo:nika is a house and techno artist based in Latvia, tracked on soundcheck, with 6 sets logged across Riga. Often billed alongside Adam Blake, Kapusta and LETRIX. Next up: B2 Rīga, Riga on Sat 19 Sept.
 
@@ -22,4 +22,4 @@ harmo:nika is a house and techno artist based in Latvia, tracked on soundcheck, 
 
 Adam Blake, Kapusta, LETRIX
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/harmonika/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/harmonika/)*

@@ -1,6 +1,6 @@
 # Juan40
 
-Juan40 is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 11 Sept 2026, next at TBA - XuXa - 6910 Shirley Ave, Austin on Fri, 18 Sept 2026.
+Juan40 is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 12 Sept 2026, next at TBA - XuXa - 6910 Shirley Ave, Austin on Fri, 18 Sept 2026.
 
 Juan40 is a techno and house artist based in United States of America, tracked on soundcheck, with 37 sets logged across Austin and Tokyo. Often billed alongside DJ BAD APPLE, Ryan McClure and Brett Johnson. Next up: TBA - XuXa - 6910 Shirley Ave, Austin on Fri 18 Sept.
 
@@ -25,4 +25,4 @@ Juan40 is a techno and house artist based in United States of America, tracked o
 
 DJ BAD APPLE, Ryan McClure, Brett Johnson
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/juan40-us/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/juan40-us/)*

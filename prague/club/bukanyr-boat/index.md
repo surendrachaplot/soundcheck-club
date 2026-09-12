@@ -1,6 +1,6 @@
 # Bukanyr Boat
 
-Bukanyr Boat is a music venue in Prague with 6 upcoming nights listed on soundcheck as of Fri, 11 Sept 2026; the next is "Spank - djs Ondrej K, Identic, Zissou" on Fri, 11 Sept 2026.
+Bukanyr Boat is a music venue in Prague with 6 upcoming nights listed on soundcheck as of Sat, 12 Sept 2026; the next is "Spank - djs Ondrej K, Identic, Zissou" on Fri, 11 Sept 2026.
 
 Bukanyr Boat is a music venue in Prague listed on soundcheck. 6 upcoming nights, with line-ups including abecko, Caren Callas, Cubik and Da Moon and 2 more. Browse upcoming dates, start times and who's playing. Nábřeží Ludvíka Svobody 1, 110 00 Prague, Czech Republic.
 
@@ -19,4 +19,4 @@ Bukanyr Boat is a music venue in Prague listed on soundcheck. 6 upcoming nights,
 
 Nábřeží Ludvíka Svobody 1, 110 00 Prague, Czech Republic, Prague
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/prague/club/bukanyr-boat/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/prague/club/bukanyr-boat/)*

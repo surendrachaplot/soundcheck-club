@@ -1,6 +1,6 @@
 # Kaufmann
 
-Kaufmann is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at Revolver Upstairs, Melbourne on Sun, 4 Oct 2026.
+Kaufmann is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Revolver Upstairs, Melbourne on Sun, 4 Oct 2026.
 
 Kaufmann is a techno and house artist tracked on soundcheck, with 141 sets logged across Amsterdam, Barcelona, Basel and Berlin and 20 more. Often billed alongside Leon Licht, Memo. and ADAMN. Next up: Revolver Upstairs, Melbourne on Sun 4 Oct.
 
@@ -28,4 +28,4 @@ Kaufmann is a techno and house artist tracked on soundcheck, with 141 sets logge
 
 Leon Licht, Memo., ADAMN
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kaufmann/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kaufmann/)*

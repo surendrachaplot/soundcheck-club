@@ -1,6 +1,6 @@
 # skn(sakana)
 
-skn(sakana) is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Fri, 11 Sept 2026, next at Urbanguild, Kyoto on Sun, 20 Sept 2026.
+skn(sakana) is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Sat, 12 Sept 2026, next at Urbanguild, Kyoto on Sun, 20 Sept 2026.
 
 skn(sakana) is a house and disco artist based in Japan, tracked on soundcheck, with 20 sets logged across Kyoto, Osaka and Tokyo. Often billed alongside Aiconga, Mercy. and Motel Paraiso. Next up: Urbanguild, Kyoto on Sun 20 Sept.
 
@@ -25,4 +25,4 @@ skn(sakana) is a house and disco artist based in Japan, tracked on soundcheck, w
 
 Aiconga, Mercy., Motel Paraiso
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sknsakana/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sknsakana/)*

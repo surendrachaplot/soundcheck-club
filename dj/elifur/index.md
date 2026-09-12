@@ -1,6 +1,6 @@
 # Eli & Fur
 
-Eli & Fur is a House and Techno artist with 7 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at ZeyZey, Miami on Sat, 19 Sept 2026.
+Eli & Fur is a House and Techno artist with 7 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at ZeyZey, Miami on Sat, 19 Sept 2026.
 
 Eli & Fur are a house and techno duo based in United Kingdom, tracked on soundcheck, with 115 sets logged across Amsterdam, Athens, Austin and Barcelona and 32 more. Often billed alongside Jody Wisternoff, CRi and Marsh. Next up: ZeyZey, Miami on Sat 19 Sept.
 
@@ -31,4 +31,4 @@ Eli & Fur are a house and techno duo based in United Kingdom, tracked on soundch
 
 Jody Wisternoff, CRi, Marsh
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/elifur/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/elifur/)*

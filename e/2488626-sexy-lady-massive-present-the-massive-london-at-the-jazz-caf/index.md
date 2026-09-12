@@ -1,6 +1,6 @@
 # Sexy Lady Massive present The Massive (London) at The Jazz Cafe
 
-Sexy Lady Massive present The Massive (London) at The Jazz Cafe on Fri 25 Sept, London. 3 acts on the bill: ASIAN BRAT, Betsy Mae and Sexy Lady Massive. Bass and Garage. Preview the line-up and save it on soundcheck.
+Sexy Lady Massive present The Massive (London) at The Jazz Cafe on Fri 25 Sept, London. 6 acts on the bill: Aloka, ASIAN BRAT, Betsy Mae and DJ Flight and 2 more. Bass and Garage. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,8 +10,11 @@ Sexy Lady Massive present The Massive (London) at The Jazz Cafe on Fri 25 Sept, 
 
 ## Line-up
 
+- Aloka
 - ASIAN BRAT
 - Betsy Mae
+- DJ Flight
+- Lady Passion
 - Sexy Lady Massive
 
 *Source: [soundcheck](https://soundcheck.club/e/2488626-sexy-lady-massive-present-the-massive-london-at-the-jazz-caf/)*

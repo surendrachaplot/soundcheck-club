@@ -1,6 +1,6 @@
 # BASE Milano
 
-BASE Milano is a music venue in Milan with 2 upcoming nights listed on soundcheck as of Fri, 11 Sept 2026; the next is "Paranoia Festival - Night DAY 2" on Sat, 12 Sept 2026.
+BASE Milano is a music venue in Milan with 2 upcoming nights listed on soundcheck as of Sat, 12 Sept 2026; the next is "Paranoia Festival - Night DAY 2" on Sat, 12 Sept 2026.
 
 BASE Milano is a music venue in Milan listed on soundcheck. 2 upcoming nights, with line-ups including Monica Witty and NZIRIA. Browse upcoming dates, start times and who's playing. via Bergognone, 34 20144 Milan, Italy.
 
@@ -15,4 +15,4 @@ BASE Milano is a music venue in Milan listed on soundcheck. 2 upcoming nights, w
 
 via Bergognone, 34 20144 Milan, Italy, Milan
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/milan/club/base-milano/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/milan/club/base-milano/)*

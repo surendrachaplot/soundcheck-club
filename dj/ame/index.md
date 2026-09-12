@@ -1,6 +1,6 @@
 # Âme
 
-Âme is a Techno and House artist with 14 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at Budapest Park, Budapest on Fri, 11 Sept 2026.
+Âme is a Techno and House artist with 14 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Budapest Park, Budapest on Fri, 11 Sept 2026.
 
 Âme is a techno and house artist tracked on soundcheck, with 354 sets logged across Amsterdam, Antwerp, Athens and Bali and 59 more. Often billed alongside Trikk, Jimi Jules and Dixon. Next up: Budapest Park, Budapest on Fri 11 Sept.
 
@@ -23,6 +23,7 @@
 
 ## Recently played
 
+- Budapest Park, Budapest — Fri, 11 Sept 2026
 - Scorpios, Mykonos — Thu, 10 Sept 2026
 - Airport Düsseldorf, Düsseldorf — Sun, 6 Sept 2026
 - Studio Zürich, Zurich — Sat, 5 Sept 2026
@@ -30,10 +31,9 @@
 - Hangaren, Copenhagen — Fri, 4 Sept 2026
 - Berghain | Panorama Bar | Säule, Berlin — Sat, 29 Aug 2026
 - Bolivar Beach Bar, Athens — Thu, 27 Aug 2026
-- DC-10, Ibiza — Mon, 24 Aug 2026
 
 ## Shares bills with
 
 Trikk, Jimi Jules, Dixon
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ame/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ame/)*

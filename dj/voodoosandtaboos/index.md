@@ -1,14 +1,15 @@
 # Voodoos and Taboos
 
-Voodoos and Taboos is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at Fvtvr, Paris on Fri, 9 Oct 2026.
+Voodoos and Taboos is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Fvtvr, Paris on Fri, 9 Oct 2026.
 
-Voodoos and Taboos are a house and techno duo tracked on soundcheck, with 44 sets logged across Barcelona, Berlin, Brussels and Bucharest and 14 more. Often billed alongside Alyhas, Luce Clandestina and Sick Seek. Next up: Fvtvr, Paris on Fri 9 Oct.
+Voodoos and Taboos are a house and techno duo tracked on soundcheck, with 45 sets logged across Barcelona, Berlin, Brussels and Bucharest and 14 more. Often billed alongside Alyhas, Luce Clandestina and Sick Seek. Next up: Fvtvr, Paris on Fri 9 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 9 Oct 2026 | Fvtvr | Paris |
+| Sat, 10 Oct 2026 | Seaseaclub Barcelona | Barcelona |
 | Sat, 10 Oct 2026 | Seaseaclub Barcelona | Barcelona |
 
 ## Recently played
@@ -26,4 +27,4 @@ Voodoos and Taboos are a house and techno duo tracked on soundcheck, with 44 set
 
 Alyhas, Luce Clandestina, Sick Seek
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/voodoosandtaboos/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/voodoosandtaboos/)*

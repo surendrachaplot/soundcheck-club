@@ -1,6 +1,6 @@
 # Itti
 
-Itti is a Drum & Bass and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 11 Sept 2026, next at Super Dommune, Tokyo on Tue, 22 Sept 2026.
+Itti is a Drum & Bass and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 12 Sept 2026, next at Super Dommune, Tokyo on Tue, 22 Sept 2026.
 
 Itti is a drum & bass and techno artist tracked on soundcheck, with 23 sets logged across Berlin, Buenosaires, Osaka and Tokyo. Often billed alongside Haioka, CITY1 and Koki. Next up: Super Dommune, Tokyo on Tue 22 Sept.
 
@@ -25,4 +25,4 @@ Itti is a drum & bass and techno artist tracked on soundcheck, with 23 sets logg
 
 Haioka, CITY1, Koki
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/itti-jp/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/itti-jp/)*

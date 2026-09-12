@@ -1,6 +1,6 @@
 # Metrik
 
-Metrik is a Drum & Bass and Bass artist with 7 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at MÄX, Zurich on Sat, 12 Sept 2026.
+Metrik is a Drum & Bass and Bass artist with 7 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at MÄX, Zurich on Sat, 12 Sept 2026.
 
 Metrik is a drum & bass and bass artist tracked on soundcheck, with 55 sets logged across Amsterdam, Auckland, Birmingham and Brighton and 19 more. Often billed alongside Camo & Krooked, Degs and P Money. Next up: MÄX, Zurich on Sat 12 Sept.
 
@@ -31,4 +31,4 @@ Metrik is a drum & bass and bass artist tracked on soundcheck, with 55 sets logg
 
 Camo & Krooked, Degs, P Money
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/metrik/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/metrik/)*

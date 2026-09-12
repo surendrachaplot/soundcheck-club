@@ -1,6 +1,6 @@
 # Orik
 
-Orik is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Fri, 11 Sept 2026, next at Paloma, Berlin on Sun, 6 Dec 2026.
+Orik is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Sat, 12 Sept 2026, next at Paloma, Berlin on Sun, 6 Dec 2026.
 
 Orik is a house and disco artist based in Germany, tracked on soundcheck, with 26 sets logged across Berlin and London. Often billed alongside Dj handbag, Marvel Gold and Mømentum. Next up: Paloma, Berlin on Sun 6 Dec.
 
@@ -25,4 +25,4 @@ Orik is a house and disco artist based in Germany, tracked on soundcheck, with 2
 
 Dj handbag, Marvel Gold, Mømentum
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/orik/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/orik/)*

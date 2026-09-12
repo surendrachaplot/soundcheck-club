@@ -1,6 +1,6 @@
 # Wiggle Room
 
-Wiggle Room is a music venue in Toronto with 12 upcoming nights listed on soundcheck as of Fri, 11 Sept 2026; the next is "Spacedisco Records: Hatiras + Seamus Haji (UK)" on Fri, 11 Sept 2026.
+Wiggle Room is a music venue in Toronto with 12 upcoming nights listed on soundcheck as of Sat, 12 Sept 2026; the next is "Spacedisco Records: Hatiras + Seamus Haji (UK)" on Fri, 11 Sept 2026.
 
 Wiggle Room is a music venue in Toronto listed on soundcheck. 12 upcoming nights, with line-ups including Addy, Barroness, BOZA and Carlos Manaça and 2 more. Browse upcoming dates, start times and who's playing. 772 Dundas St W, Toronto, ON M6J 1V1, Canada.
 
@@ -23,4 +23,4 @@ Wiggle Room is a music venue in Toronto listed on soundcheck. 12 upcoming nights
 
 772 Dundas St W, Toronto, ON M6J 1V1, Canada, Toronto
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/wiggle-room/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/wiggle-room/)*

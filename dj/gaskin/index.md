@@ -1,6 +1,6 @@
 # Gaskin
 
-Gaskin is a House and Tech House artist with 14 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at Palmerstown House Estate, Dublin on Fri, 11 Sept 2026.
+Gaskin is a House and Tech House artist with 14 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Palmerstown House Estate, Dublin on Fri, 11 Sept 2026.
 
 Gaskin is a house and tech house artist tracked on soundcheck, with 184 sets logged across Aberdeen, Amsterdam, Antwerp and Austin and 34 more. Often billed alongside Ellia Jaya, L.P. Rhythm and Ellam. Next up: Palmerstown House Estate, Dublin on Fri 11 Sept.
 
@@ -23,6 +23,7 @@ Gaskin is a house and tech house artist tracked on soundcheck, with 184 sets log
 
 ## Recently played
 
+- Palmerstown House Estate, Dublin — Fri, 11 Sept 2026
 - Los Angeles State Historic Park, Los Angeles — Sun, 6 Sept 2026
 - Los Angeles State Historic Park, Los Angeles — Sun, 6 Sept 2026
 - Avalon Hollywood, Los Angeles — Sun, 6 Sept 2026
@@ -30,10 +31,9 @@ Gaskin is a house and tech house artist tracked on soundcheck, with 184 sets log
 - Amnesia Ibiza, Ibiza — Sun, 30 Aug 2026
 - Thuishaven, Amsterdam — Sun, 16 Aug 2026
 - Ushuaïa Ibiza, Ibiza — Sat, 15 Aug 2026
-- Tiger Yard, Cardiff — Sat, 1 Aug 2026
 
 ## Shares bills with
 
 Ellia Jaya, L.P. Rhythm, Ellam
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/gaskin/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/gaskin/)*

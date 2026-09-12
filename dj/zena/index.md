@@ -1,6 +1,6 @@
 # ZENA
 
-ZENA is a Techno and Hardcore artist with 2 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at The Halley Space, London on Wed, 16 Sept 2026.
+ZENA is a Techno and Hardcore artist with 2 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at The Halley Space, London on Wed, 16 Sept 2026.
 
 ZENA is a techno and hardcore artist tracked on soundcheck, with 14 sets logged across Amsterdam, Berlin, Cologne and Frankfurt and 4 more. Often billed alongside Rivako, OLIV and 2fox. Next up: The Halley Space, London on Wed 16 Sept.
 
@@ -26,4 +26,4 @@ ZENA is a techno and hardcore artist tracked on soundcheck, with 14 sets logged 
 
 Rivako, OLIV, 2fox
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/zena/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/zena/)*

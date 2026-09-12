@@ -1,6 +1,6 @@
 # LIL RISK
 
-LIL RISK is a Club and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at TBA - Warschauer Pl. 18, 10245 Berlin, Berlin on Sat, 12 Sept 2026.
+LIL RISK is a Club and Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at TBA - Warschauer Pl. 18, 10245 Berlin, Berlin on Sat, 12 Sept 2026.
 
 LIL RISK is a club and techno artist based in United States of America, tracked on soundcheck, with 27 sets logged across Berlin, Hongkong, Leipzig and Losangeles. Often billed alongside Amowia, Bungalovv and Hyperaktivist. Next up: TBA - Warschauer Pl. 18, 10245 Berlin, Berlin on Sat 12 Sept.
 
@@ -26,4 +26,4 @@ LIL RISK is a club and techno artist based in United States of America, tracked 
 
 Amowia, Bungalovv, Hyperaktivist
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lilrisk/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lilrisk/)*

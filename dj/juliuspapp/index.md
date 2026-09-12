@@ -1,6 +1,6 @@
 # Julius Papp
 
-Julius Papp is a Disco and House artist with 3 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at The Battery SF, San Francisco/Oakland on Sat, 12 Sept 2026.
+Julius Papp is a Disco and House artist with 3 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at The Battery SF, San Francisco/Oakland on Sat, 12 Sept 2026.
 
 Julius Papp is a disco and house artist tracked on soundcheck, with 22 sets logged across Sanfrancisco. Often billed alongside Franky Boissy, Miguel Migs and Duserock. Next up: The Battery SF, Sanfrancisco on Sat 12 Sept.
 
@@ -27,4 +27,4 @@ Julius Papp is a disco and house artist tracked on soundcheck, with 22 sets logg
 
 Franky Boissy, Miguel Migs, Duserock
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/juliuspapp/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/juliuspapp/)*

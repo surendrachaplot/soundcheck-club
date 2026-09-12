@@ -1,6 +1,6 @@
 # Robin Tasi
 
-Robin Tasi is a Techno and Trance artist with 3 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at Junkyard Dortmund, Dortmund-essen on Sat, 12 Sept 2026.
+Robin Tasi is a Techno and Trance artist with 3 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Junkyard Dortmund, Dortmund-essen on Sat, 12 Sept 2026.
 
 Robin Tasi is a techno and trance artist based in Germany, tracked on soundcheck, with 48 sets logged across Amsterdam, Berlin, Budapest and Cologne and 9 more. Often billed alongside Krackk, Justin Tinderdate and ALIS.. Next up: Junkyard Dortmund, Dortmund-essen on Sat 12 Sept.
 
@@ -27,4 +27,4 @@ Robin Tasi is a techno and trance artist based in Germany, tracked on soundcheck
 
 Krackk, Justin Tinderdate, ALIS.
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/robintasi/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/robintasi/)*

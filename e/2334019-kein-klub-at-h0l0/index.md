@@ -1,6 +1,6 @@
 # KEIN KLUB at H0L0
 
-KEIN KLUB at H0L0 on Sat 17 Oct, Newyorkcity. 3 acts on the bill: Amelia Holt, Intergalactic Gary and Soundstream. Techno and EBM. Preview the line-up and save it on soundcheck.
+KEIN KLUB at H0L0 on Sat 17 Oct, Newyorkcity. 4 acts on the bill: Amelia Holt, Intergalactic Gary, Mike Servito and Soundstream. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -12,6 +12,7 @@ KEIN KLUB at H0L0 on Sat 17 Oct, Newyorkcity. 3 acts on the bill: Amelia Holt, I
 
 - Amelia Holt
 - Intergalactic Gary
+- Mike Servito
 - Soundstream
 
 *Source: [soundcheck](https://soundcheck.club/e/2334019-kein-klub-at-h0l0/)*

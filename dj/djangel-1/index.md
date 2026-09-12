@@ -1,6 +1,6 @@
 # DJ Angel (1)
 
-DJ Angel (1) is a Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 11 Sept 2026, next at Rex Club, Paris on Wed, 14 Oct 2026.
+DJ Angel (1) is a Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 12 Sept 2026, next at Rex Club, Paris on Wed, 14 Oct 2026.
 
 DJ Angel (1) is a techno artist tracked on soundcheck, with 19 sets logged across Berlin and Paris. Often billed alongside Charlotte Newman, Ekonopolis and Ketarina. Next up: Rex Club, Paris on Wed 14 Oct.
 
@@ -25,4 +25,4 @@ DJ Angel (1) is a techno artist tracked on soundcheck, with 19 sets logged acros
 
 Charlotte Newman, Ekonopolis, Ketarina
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djangel-1/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djangel-1/)*

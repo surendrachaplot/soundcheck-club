@@ -1,6 +1,6 @@
 # u z z v
 
-u z z v is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Fri, 11 Sept 2026, next at Flac, Seoul on Sat, 12 Sept 2026.
+u z z v is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Sat, 12 Sept 2026, next at Flac, Seoul on Sat, 12 Sept 2026.
 
 u z z v is a house and tech house artist based in Spain, tracked on soundcheck, with 7 sets logged across London, Miami, Newyorkcity and Seoul and 2 more. Often billed alongside Adam Braiman, Ray Mono and Adam Robbo. Next up: Flac, Seoul on Sat 12 Sept.
 
@@ -23,4 +23,4 @@ u z z v is a house and tech house artist based in Spain, tracked on soundcheck, 
 
 Adam Braiman, Ray Mono, Adam Robbo
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/uzzv/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/uzzv/)*

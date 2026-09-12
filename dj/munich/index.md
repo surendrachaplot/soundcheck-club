@@ -1,6 +1,6 @@
 # Münich
 
-Münich is a Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at Parco Argelati, Milan on Sun, 13 Sept 2026.
+Münich is a Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Parco Argelati, Milan on Sun, 13 Sept 2026.
 
 Münich is a techno artist based in Italy, tracked on soundcheck, with 17 sets logged across Milan. Often billed alongside Diamantha, M.Vertigo and MISERIA. Next up: Parco Argelati, Milan on Sun 13 Sept.
 
@@ -26,4 +26,4 @@ Münich is a techno artist based in Italy, tracked on soundcheck, with 17 sets l
 
 Diamantha, M.Vertigo, MISERIA
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/munich/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/munich/)*

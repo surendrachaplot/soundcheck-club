@@ -1,6 +1,6 @@
 # pam (unofficial)
 
-pam (unofficial) is a Club and Electro artist with 1 upcoming club date listed on soundcheck as of Fri, 11 Sept 2026, next at Bar IDA, Tallinn on Fri, 18 Sept 2026.
+pam (unofficial) is a Club and Electro artist with 1 upcoming club date listed on soundcheck as of Sat, 12 Sept 2026, next at Bar IDA, Tallinn on Fri, 18 Sept 2026.
 
 pam (unofficial) is a club and electro artist based in France, tracked on soundcheck, with 18 sets logged across Berlin, Brussels, Mexicocity and Paris and 1 more. Often billed alongside Clara!, VINESSETT and Yuri Umemoto. Next up: Bar IDA, Tallinn on Fri 18 Sept.
 
@@ -25,4 +25,4 @@ pam (unofficial) is a club and electro artist based in France, tracked on soundc
 
 Clara!, VINESSETT, Yuri Umemoto
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/pam-fr/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/pam-fr/)*

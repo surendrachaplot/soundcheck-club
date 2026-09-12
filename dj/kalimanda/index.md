@@ -1,6 +1,6 @@
 # Kalimanda
 
-Kalimanda is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at Prisma, Berlin on Sun, 13 Sept 2026.
+Kalimanda is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Prisma, Berlin on Sun, 13 Sept 2026.
 
 Kalimanda is a techno and house artist based in Germany, tracked on soundcheck, with 23 sets logged across Berlin. Often billed alongside Emilion Dollar Baby, Domovnika and Fo Ewa. Next up: Prisma, Berlin on Sun 13 Sept.
 
@@ -26,4 +26,4 @@ Kalimanda is a techno and house artist based in Germany, tracked on soundcheck, 
 
 Emilion Dollar Baby, Domovnika, Fo Ewa
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kalimanda/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kalimanda/)*

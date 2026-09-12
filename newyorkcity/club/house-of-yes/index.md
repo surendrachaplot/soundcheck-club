@@ -1,6 +1,6 @@
 # House of Yes
 
-House of Yes is a music venue in New York City with 15 upcoming nights listed on soundcheck as of Fri, 11 Sept 2026; the next is "VIRGO RISING: Jasmine Infiniti, cry$cross, Bodegaparty" on Fri, 11 Sept 2026.
+House of Yes is a music venue in New York City with 15 upcoming nights listed on soundcheck as of Sat, 12 Sept 2026; the next is "VIRGO RISING: Jasmine Infiniti, cry$cross, Bodegaparty" on Fri, 11 Sept 2026.
 
 House of Yes is a music venue in Newyorkcity listed on soundcheck. 15 upcoming nights, with line-ups including Alistair, Aluna, Bella Mutino and Bodegaparty and 2 more. Browse upcoming dates, start times and who's playing. 2 Wyckoff Avenue; Brooklyn, NY 11237; USA.
 
@@ -10,7 +10,7 @@ House of Yes is a music venue in Newyorkcity listed on soundcheck. 15 upcoming n
 | --- | --- | --- |
 | Fri, 11 Sept 2026 | VIRGO RISING: Jasmine Infiniti, cry$cross, Bodegaparty | Bodegaparty, Jasmine Infiniti, cry$cross |
 | Sat, 12 Sept 2026 | Space Cats: Doc Martin, Radio Slave, Yushh | Doc Martin, Radio Slave, Yushh |
-| Sat, 19 Sept 2026 | Sonic Ceremony: Echonomist & OVEOUS | Echonomist, OVEOUS |
+| Sat, 19 Sept 2026 | Sonic Ceremony: Echonomist, OVEOUS, Chaske + Yonti | Echonomist, OVEOUS, Yonti |
 | Fri, 25 Sept 2026 | Midnight Groove: Kellie Allen, Madota & More | Kellie Allen, Madota, OBA+FLIP |
 | Sat, 26 Sept 2026 | Endless Summer: Felix Cartal, Alastair Lane, Makez | Alistair, Felix Cartal, Jeny Michelle, Laila Amira, Makèz |
 | Fri, 2 Oct 2026 | House of Grooves: Eli Escobar All Night + Sissies of Mercy | Eli Escobar, Sissies of Mercy |
@@ -23,4 +23,4 @@ House of Yes is a music venue in Newyorkcity listed on soundcheck. 15 upcoming n
 
 2 Wyckoff Avenue; Brooklyn, NY 11237; USA, New York City
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/house-of-yes/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/house-of-yes/)*

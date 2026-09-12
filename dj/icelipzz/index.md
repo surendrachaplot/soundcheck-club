@@ -1,6 +1,6 @@
 # IceLipzz
 
-IceLipzz is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at Lokschuppen Berlin, Berlin on Fri, 11 Sept 2026.
+IceLipzz is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Lokschuppen Berlin, Berlin on Fri, 11 Sept 2026.
 
 IceLipzz is a techno and trance artist based in Germany, tracked on soundcheck, with 16 sets logged across Berlin, Hamburg, Manchester and Munich and 2 more. Often billed alongside LØUS, FLUCC and Osiris (2). Next up: Lokschuppen Berlin, Berlin on Fri 11 Sept.
 
@@ -13,6 +13,7 @@ IceLipzz is a techno and trance artist based in Germany, tracked on soundcheck, 
 
 ## Recently played
 
+- Lokschuppen Berlin, Berlin — Fri, 11 Sept 2026
 - Lehmann Club, Stuttgart — Fri, 14 Aug 2026
 - OXI, Berlin — Sat, 8 Aug 2026
 - ://about blank, Berlin — Fri, 5 Jun 2026
@@ -20,10 +21,9 @@ IceLipzz is a techno and trance artist based in Germany, tracked on soundcheck, 
 - OXI, Berlin — Fri, 8 May 2026
 - Lokschuppen Berlin, Berlin — Sat, 4 Apr 2026
 - OXI, Berlin — Sat, 28 Feb 2026
-- DNA Club, Munich — Sat, 7 Feb 2026
 
 ## Shares bills with
 
 LØUS, FLUCC, Osiris (2)
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/icelipzz/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/icelipzz/)*

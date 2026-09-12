@@ -1,6 +1,6 @@
 # Tom Trago
 
-Tom Trago is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at La Brisa, Bali on Sat, 19 Sept 2026.
+Tom Trago is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at La Brisa, Bali on Sat, 19 Sept 2026.
 
 Tom Trago is a house and techno artist tracked on soundcheck, with 130 sets logged across Amsterdam, Auckland, Bali and Barcelona and 21 more. Often billed alongside BELLA (NL), David Vunk and Carlos Valdes. Next up: La Brisa, Bali on Sat 19 Sept.
 
@@ -27,4 +27,4 @@ Tom Trago is a house and techno artist tracked on soundcheck, with 130 sets logg
 
 BELLA (NL), David Vunk, Carlos Valdes
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tomtrago/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tomtrago/)*

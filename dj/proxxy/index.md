@@ -1,13 +1,14 @@
 # Proxxy
 
-Proxxy is a Drum & Bass and Tech House artist with 1 upcoming club date listed on soundcheck as of Fri, 11 Sept 2026, next at Flash, Washington DC on Sat, 5 Dec 2026.
+Proxxy is a Drum & Bass and Funk / Soul artist with 2 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Flash, Washington DC on Fri, 25 Sept 2026.
 
-Proxxy is a drum & bass and tech house artist based in United States of America, tracked on soundcheck, with 7 sets logged across Washingtondc. Often billed alongside Casey West, DJ Lantern and Deekline. Next up: Flash, Washingtondc on Sat 5 Dec.
+Proxxy is a drum & bass and funk / soul artist based in United States of America, tracked on soundcheck, with 8 sets logged across Washingtondc. Often billed alongside Essential Freaks, Julez (2) and Casey West. Next up: Flash, Washingtondc on Fri 25 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 25 Sept 2026 | Flash | Washington DC |
 | Sat, 5 Dec 2026 | Flash | Washington DC |
 
 ## Recently played
@@ -21,6 +22,6 @@ Proxxy is a drum & bass and tech house artist based in United States of America,
 
 ## Shares bills with
 
-Casey West, DJ Lantern, Deekline
+Essential Freaks, Julez (2), Casey West
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/proxxy/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/proxxy/)*

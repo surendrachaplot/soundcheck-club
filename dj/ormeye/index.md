@@ -1,6 +1,6 @@
 # Ormeye
 
-Ormeye is a Techno and Electronica artist with 1 upcoming club date listed on soundcheck as of Fri, 11 Sept 2026, next at NAMA - Nuovo Anfiteatro Martesana, Milan on Fri, 25 Sept 2026.
+Ormeye is a Techno and Electronica artist with 1 upcoming club date listed on soundcheck as of Sat, 12 Sept 2026, next at NAMA - Nuovo Anfiteatro Martesana, Milan on Fri, 25 Sept 2026.
 
 Ormeye is a techno and electronica artist tracked on soundcheck, with 53 sets logged across Milan, Naples and Turin. Often billed alongside DNN, NOVZE and Emiliano Comollo. Next up: NAMA - Nuovo Anfiteatro Martesana, Milan on Fri 25 Sept.
 
@@ -25,4 +25,4 @@ Ormeye is a techno and electronica artist tracked on soundcheck, with 53 sets lo
 
 DNN, NOVZE, Emiliano Comollo
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ormeye/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ormeye/)*

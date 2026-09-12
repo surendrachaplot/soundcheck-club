@@ -1,6 +1,6 @@
 # Jose Noventa
 
-Jose Noventa is a House and Downtempo artist with 1 upcoming club date listed on soundcheck as of Fri, 11 Sept 2026, next at Thuishaven, Amsterdam on Sat, 19 Sept 2026.
+Jose Noventa is a House and Downtempo artist with 1 upcoming club date listed on soundcheck as of Sat, 12 Sept 2026, next at Thuishaven, Amsterdam on Sat, 19 Sept 2026.
 
 Jose Noventa is a house and downtempo artist tracked on soundcheck, with 18 sets logged across Amsterdam, Antwerp, Ghent and Ibiza and 5 more. Often billed alongside WLC (BE), Lathouwers and Tiago Oudman. Next up: Thuishaven, Amsterdam on Sat 19 Sept.
 
@@ -25,4 +25,4 @@ Jose Noventa is a house and downtempo artist tracked on soundcheck, with 18 sets
 
 WLC (BE), Lathouwers, Tiago Oudman
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/josenoventa/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/josenoventa/)*

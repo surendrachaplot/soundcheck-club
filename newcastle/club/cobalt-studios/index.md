@@ -1,14 +1,14 @@
 # Cobalt Studios
 
-Cobalt Studios is a music venue in Newcastle with 19 upcoming nights listed on soundcheck as of Fri, 11 Sept 2026; the next is "Bonanza Festival Showcase: Adi X Benny — All Night Long (Age 20+)" on Fri, 25 Sept 2026.
+Cobalt Studios is a music venue in Newcastle with 20 upcoming nights listed on soundcheck as of Sat, 12 Sept 2026; the next is "Bonanza Festival Showcase: Adi X Benny — All Night Long " on Fri, 25 Sept 2026.
 
-Cobalt Studios is a music venue in Newcastle listed on soundcheck. 19 upcoming nights, with line-ups including Adi (CO), Benny (El Rio Hostel), Bobby. and Calvin Murta and 2 more. Browse upcoming dates, start times and who's playing. 10 - 16  Boyd St. Newcastle Upon Tyne, NE2 1AP, United Kingdom.
+Cobalt Studios is a music venue in Newcastle listed on soundcheck. 20 upcoming nights, with line-ups including Adi (CO), Benny (El Rio Hostel), Bobby. and Calvin Murta and 2 more. Browse upcoming dates, start times and who's playing. 10 - 16  Boyd St. Newcastle Upon Tyne, NE2 1AP, United Kingdom.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 25 Sept 2026 | Bonanza Festival Showcase: Adi X Benny — All Night Long (Age 20+) | Adi (CO), Benny (El Rio Hostel) |
+| Fri, 25 Sept 2026 | Bonanza Festival Showcase: Adi X Benny — All Night Long  | Adi (CO), Benny (El Rio Hostel) |
 | Sat, 26 Sept 2026 | Mathew Jonson (Live) + Cousin Dan | Mathew Jonson |
 | Sat, 26 Sept 2026 | 'Some Like It Early' presents: Nonna Fab (Live) + Calvin Murta | Calvin Murta, Nonna Fab |
 | Fri, 2 Oct 2026 | Bobby. — All Night Long (Age 21+) | Bobby. |
@@ -17,10 +17,10 @@ Cobalt Studios is a music venue in Newcastle listed on soundcheck. 19 upcoming n
 | Fri, 16 Oct 2026 | tINI - All Night Long | tINI |
 | Sat, 17 Oct 2026 | 'Some Like It Early' presents: Colleen 'Cosmo' Murphy | Colleen 'Cosmo' Murphy |
 | Sat, 17 Oct 2026 | L.A.D's presents: Millie McKee (live) + Marion Hawkes | Marion Hawkes, Millie McKee |
-| Sat, 24 Oct 2026 | Melina Serser + PIP | Melina Serser, PIP. |
+| Fri, 23 Oct 2026 | SPOTTY DOG INVITES KENSA |  |
 
 ## Address
 
 10 - 16  Boyd St. Newcastle Upon Tyne, NE2 1AP, United Kingdom, Newcastle
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/newcastle/club/cobalt-studios/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/newcastle/club/cobalt-studios/)*

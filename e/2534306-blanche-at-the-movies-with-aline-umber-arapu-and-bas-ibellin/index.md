@@ -1,6 +1,6 @@
-# Blanche at the movies with Aline Umber, Arapu and Bas Ibellini at Plaza Camden
+# Blanche at the Movies with Aline Umber, Arapu and Bas Ibellini at Plaza Camden
 
-Blanche at the movies with Aline Umber, Arapu and Bas Ibellini at Plaza Camden on Sat 10 Oct, London. 4 acts on the bill: Aline Umber, Arapu, Bas Ibellini and Nirvan. House and Minimal. Preview the line-up and save it on soundcheck.
+Blanche at the Movies with Aline Umber, Arapu and Bas Ibellini at Plaza Camden on Sat 10 Oct, London. 4 acts on the bill: Aline Umber, Arapu, Bas Ibellini and Nirvan. House and Minimal. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

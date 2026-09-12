@@ -1,6 +1,6 @@
 # DAVIDE (2)
 
-DAVIDE (2) is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 11 Sept 2026, next at TBA - SECRET WAREHOUSE, Cologne on Sat, 12 Sept 2026.
+DAVIDE (2) is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 12 Sept 2026, next at TBA - SECRET WAREHOUSE, Cologne on Sat, 12 Sept 2026.
 
 DAVIDE (2) is a techno and house artist based in Germany, tracked on soundcheck, with 12 sets logged across Cologne, Hamburg and London. Often billed alongside Dellosen, Timeless Moments and Daniel Dreier. Next up: TBA - SECRET WAREHOUSE, Cologne on Sat 12 Sept.
 
@@ -25,4 +25,4 @@ DAVIDE (2) is a techno and house artist based in Germany, tracked on soundcheck,
 
 Dellosen, Timeless Moments, Daniel Dreier
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/davide-2/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/davide-2/)*

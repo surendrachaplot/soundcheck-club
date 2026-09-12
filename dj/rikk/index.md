@@ -1,6 +1,6 @@
 # RIKK
 
-RIKK is a Drum & Bass and Bass artist with 1 upcoming club date listed on soundcheck as of Fri, 11 Sept 2026, next at ZEROTOKYO, Tokyo on Fri, 25 Sept 2026.
+RIKK is a Drum & Bass and Bass artist with 1 upcoming club date listed on soundcheck as of Sat, 12 Sept 2026, next at ZEROTOKYO, Tokyo on Fri, 25 Sept 2026.
 
 RIKK is a drum & bass and bass artist tracked on soundcheck, with 9 sets logged across Tallinn and Tokyo. Often billed alongside SAKO, CRAZYHYUGA and ATAMI. Next up: ZEROTOKYO, Tokyo on Fri 25 Sept.
 
@@ -25,4 +25,4 @@ RIKK is a drum & bass and bass artist tracked on soundcheck, with 9 sets logged 
 
 SAKO, CRAZYHYUGA, ATAMI
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/rikk/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/rikk/)*

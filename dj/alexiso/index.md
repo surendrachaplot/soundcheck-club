@@ -1,6 +1,6 @@
 # Alex Iso
 
-Alex Iso is a House and IDM artist with 1 upcoming club date listed on soundcheck as of Fri, 11 Sept 2026, next at Prisma, Berlin on Fri, 11 Sept 2026.
+Alex Iso is a House and IDM artist with 1 upcoming club date listed on soundcheck as of Sat, 12 Sept 2026, next at Prisma, Berlin on Fri, 11 Sept 2026.
 
 Alex Iso is a house and idm artist tracked on soundcheck, with 7 sets logged across Berlin. Often billed alongside Axxi Oma, Crimson Lake and DJ Kodah. Next up: Prisma, Berlin on Fri 11 Sept.
 
@@ -12,6 +12,7 @@ Alex Iso is a house and idm artist tracked on soundcheck, with 7 sets logged acr
 
 ## Recently played
 
+- Prisma, Berlin — Fri, 11 Sept 2026
 - Prisma, Berlin — Sun, 5 Apr 2026
 - Prisma, Berlin — Fri, 16 Jan 2026
 - Madame Claude, Berlin — Fri, 31 Oct 2025
@@ -23,4 +24,4 @@ Alex Iso is a house and idm artist tracked on soundcheck, with 7 sets logged acr
 
 Axxi Oma, Crimson Lake, DJ Kodah
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/alexiso/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/alexiso/)*

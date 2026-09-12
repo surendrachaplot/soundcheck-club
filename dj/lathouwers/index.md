@@ -1,6 +1,6 @@
 # Lathouwers
 
-Lathouwers is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Fri, 11 Sept 2026, next at Buda BXL, Brussels on Sat, 26 Sept 2026.
+Lathouwers is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Sat, 12 Sept 2026, next at Buda BXL, Brussels on Sat, 26 Sept 2026.
 
 Lathouwers is a house and disco artist based in Belgium, tracked on soundcheck, with 20 sets logged across Amsterdam, Antwerp, Berlin and Brussels and 3 more. Often billed alongside WLC (BE), FBR (be) and Boatman. Next up: Buda BXL, Brussels on Sat 26 Sept.
 
@@ -25,4 +25,4 @@ Lathouwers is a house and disco artist based in Belgium, tracked on soundcheck, 
 
 WLC (BE), FBR (be), Boatman
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lathouwers/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lathouwers/)*

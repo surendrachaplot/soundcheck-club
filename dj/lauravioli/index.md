@@ -1,6 +1,6 @@
 # Lauravioli
 
-Lauravioli is a Bass and House artist with 5 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at Funke, Ghent on Sat, 12 Sept 2026.
+Lauravioli is a Bass and House artist with 5 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Funke, Ghent on Sat, 12 Sept 2026.
 
 Lauravioli is a bass and house artist based in Belgium, tracked on soundcheck, with 9 sets logged across Antwerp, Brussels and Ghent. Often billed alongside Kōma, Adi and Alix Perez. Next up: Funke, Ghent on Sat 12 Sept.
 
@@ -25,4 +25,4 @@ Lauravioli is a bass and house artist based in Belgium, tracked on soundcheck, w
 
 Kōma, Adi, Alix Perez
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lauravioli/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lauravioli/)*

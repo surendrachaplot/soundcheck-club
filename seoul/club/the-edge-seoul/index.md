@@ -1,6 +1,6 @@
 # The Edge Seoul
 
-The Edge Seoul is a music venue in Seoul with 3 upcoming nights listed on soundcheck as of Fri, 11 Sept 2026; the next is "The Edge" on Fri, 11 Sept 2026.
+The Edge Seoul is a music venue in Seoul with 3 upcoming nights listed on soundcheck as of Sat, 12 Sept 2026; the next is "The Edge" on Fri, 11 Sept 2026.
 
 The Edge Seoul is a music venue in Seoul listed on soundcheck. 3 upcoming nights, with line-ups including aso (1), DJ FU (2), Go Dam and Haney Lee and 2 more. Browse upcoming dates, start times and who's playing. 334-8 Euljiro 3(sam)-ga, Jung-gu, Seoul, South Korea.
 
@@ -16,4 +16,4 @@ The Edge Seoul is a music venue in Seoul listed on soundcheck. 3 upcoming nights
 
 334-8 Euljiro 3(sam)-ga, Jung-gu, Seoul, South Korea, Seoul
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/seoul/club/the-edge-seoul/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/seoul/club/the-edge-seoul/)*

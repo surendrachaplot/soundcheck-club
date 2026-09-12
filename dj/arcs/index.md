@@ -1,13 +1,14 @@
 # ARCS
 
-ARCS is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Fri, 11 Sept 2026, next at Elektricity, Detroit on Fri, 2 Oct 2026.
+ARCS is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Exodus Rooftop, Detroit on Sat, 26 Sept 2026.
 
-ARCS is a house and tech house artist based in United States of America, tracked on soundcheck, with 18 sets logged across Detroit. Often billed alongside NAYT, Chase Carter and DYNODA. Next up: Elektricity, Detroit on Fri 2 Oct.
+ARCS is a house and tech house artist based in United States of America, tracked on soundcheck, with 19 sets logged across Detroit. Often billed alongside NAYT, Chase Carter and DYNODA. Next up: Exodus Rooftop, Detroit on Sat 26 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 26 Sept 2026 | Exodus Rooftop | Detroit |
 | Fri, 2 Oct 2026 | Elektricity | Detroit |
 
 ## Recently played
@@ -25,4 +26,4 @@ ARCS is a house and tech house artist based in United States of America, tracked
 
 NAYT, Chase Carter, DYNODA
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/arcs/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/arcs/)*

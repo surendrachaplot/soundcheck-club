@@ -1,6 +1,6 @@
 # Point Ephémère
 
-Point Ephémère is a music venue in Paris with 5 upcoming nights listed on soundcheck as of Fri, 11 Sept 2026; the next is "ULTRA SUAVE 3RD ANNIVERSARY " on Fri, 11 Sept 2026.
+Point Ephémère is a music venue in Paris with 5 upcoming nights listed on soundcheck as of Sat, 12 Sept 2026; the next is "ULTRA SUAVE 3RD ANNIVERSARY " on Fri, 11 Sept 2026.
 
 Point Ephémère is a music venue in Paris listed on soundcheck. 5 upcoming nights, with line-ups including Andy4000, Butch2Bitch, Carré and Cleo (AU) and 2 more. Browse upcoming dates, start times and who's playing. 200 quai de Valmy; 75010; Paris; France.
 
@@ -18,4 +18,4 @@ Point Ephémère is a music venue in Paris listed on soundcheck. 5 upcoming nigh
 
 200 quai de Valmy; 75010; Paris; France, Paris
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/paris/club/point-eph-m-re/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/paris/club/point-eph-m-re/)*

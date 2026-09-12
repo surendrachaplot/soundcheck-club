@@ -1,6 +1,6 @@
 # Workforce
 
-Workforce is a Drum & Bass and Jungle artist with 4 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at Gretchen, Berlin on Sat, 19 Sept 2026.
+Workforce is a Drum & Bass and Jungle artist with 4 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Gretchen, Berlin on Sat, 19 Sept 2026.
 
 Workforce is a drum & bass and jungle artist tracked on soundcheck, with 43 sets logged across Berlin, Birmingham, Brighton and Bristol and 11 more. Often billed alongside SP:MC, LSB and Halogenix. Next up: Gretchen, Berlin on Sat 19 Sept.
 
@@ -28,4 +28,4 @@ Workforce is a drum & bass and jungle artist tracked on soundcheck, with 43 sets
 
 SP:MC, LSB, Halogenix
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/workforce/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/workforce/)*

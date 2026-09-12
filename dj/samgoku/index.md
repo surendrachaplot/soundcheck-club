@@ -1,6 +1,6 @@
 # Sam Goku
 
-Sam Goku is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at Bossa Nova Civic Club, New York City on Wed, 16 Sept 2026.
+Sam Goku is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Bossa Nova Civic Club, New York City on Wed, 16 Sept 2026.
 
 Sam Goku is a house and techno artist tracked on soundcheck, with 66 sets logged across Amsterdam, Berlin, Brussels and Budapest and 12 more. Often billed alongside Rosa Red, Benjamin Fröhlich and Glaskin. Next up: Bossa Nova Civic Club, Newyorkcity on Wed 16 Sept.
 
@@ -26,4 +26,4 @@ Sam Goku is a house and techno artist tracked on soundcheck, with 66 sets logged
 
 Rosa Red, Benjamin Fröhlich, Glaskin
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/samgoku/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/samgoku/)*

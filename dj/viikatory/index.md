@@ -1,6 +1,6 @@
 # Viikatory
 
-Viikatory is a Techno and Electro artist with 4 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at Badaboum, Paris on Sat, 12 Sept 2026.
+Viikatory is a Techno and Electro artist with 4 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Badaboum, Paris on Sat, 12 Sept 2026.
 
 Viikatory is a techno and electro artist tracked on soundcheck, with 97 sets logged across Amsterdam, Athens, Barcelona and Basel and 22 more. Often billed alongside Verde, Salut 80 and DJ MELL G. Next up: Badaboum, Paris on Sat 12 Sept.
 
@@ -28,4 +28,4 @@ Viikatory is a techno and electro artist tracked on soundcheck, with 97 sets log
 
 Verde, Salut 80, DJ MELL G
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/viikatory/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/viikatory/)*

@@ -1,6 +1,6 @@
 # TBA - Qi Bar
 
-TBA - Qi Bar is a music venue in Kuala Lumpur with 1 upcoming night listed on soundcheck as of Fri, 11 Sept 2026; the next is "even if. pres Le Studio - Qi Bar KL" on Sat, 12 Sept 2026.
+TBA - Qi Bar is a music venue in Kuala Lumpur with 1 upcoming night listed on soundcheck as of Sat, 12 Sept 2026; the next is "even if. pres Le Studio - Qi Bar KL" on Sat, 12 Sept 2026.
 
 TBA - Qi Bar is a music venue in Kualalumpur listed on soundcheck. 1 upcoming night, with line-ups including JO (MY), JonnyVicious and Odd (MY). Browse upcoming dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ TBA - Qi Bar is a music venue in Kualalumpur listed on soundcheck. 1 upcoming ni
 | --- | --- | --- |
 | Sat, 12 Sept 2026 | even if. pres Le Studio - Qi Bar KL | JO (MY), JonnyVicious, Odd (MY) |
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/kualalumpur/club/tba-qi-bar/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/kualalumpur/club/tba-qi-bar/)*

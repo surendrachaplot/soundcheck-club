@@ -1,6 +1,6 @@
 # Comf
 
-Comf is a Bass and Ambient artist with 1 upcoming club date listed on soundcheck as of Fri, 11 Sept 2026, next at Alte Feuerwache THF, Berlin on Fri, 11 Sept 2026.
+Comf is a Bass and Ambient artist with 1 upcoming club date listed on soundcheck as of Sat, 12 Sept 2026, next at Alte Feuerwache THF, Berlin on Fri, 11 Sept 2026.
 
 Comf is a bass and ambient artist based in Germany, tracked on soundcheck, with 6 sets logged across Berlin and Prague. Often billed alongside Genoe, CHILDISH BAMBINO and Formella. Next up: Alte Feuerwache THF, Berlin on Fri 11 Sept.
 
@@ -12,6 +12,7 @@ Comf is a bass and ambient artist based in Germany, tracked on soundcheck, with 
 
 ## Recently played
 
+- Alte Feuerwache THF, Berlin — Fri, 11 Sept 2026
 - OXI, Berlin — Thu, 10 Sept 2026
 - Malzfabrik, Berlin — Sat, 5 Sept 2026
 - TBA - Secret Location near Jannowitzbrücke, Berlin — Fri, 7 Aug 2026
@@ -22,4 +23,4 @@ Comf is a bass and ambient artist based in Germany, tracked on soundcheck, with 
 
 Genoe, CHILDISH BAMBINO, Formella
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/comf/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/comf/)*

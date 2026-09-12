@@ -1,6 +1,6 @@
 # eijin
 
-eijin is a Techno and Electronica artist with 2 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at Forestlimit, Tokyo on Thu, 24 Sept 2026.
+eijin is a Techno and Electronica artist with 2 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Forestlimit, Tokyo on Thu, 24 Sept 2026.
 
 eijin is a techno and electronica artist based in Japan, tracked on soundcheck, with 54 sets logged across Kyoto, Osaka and Tokyo. Often billed alongside E.O.U, ast midori and Whatman. Next up: Forestlimit, Tokyo on Thu 24 Sept.
 
@@ -26,4 +26,4 @@ eijin is a techno and electronica artist based in Japan, tracked on soundcheck, 
 
 E.O.U, ast midori, Whatman
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/eijin/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/eijin/)*

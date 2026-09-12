@@ -1,6 +1,6 @@
 # Shanda
 
-Shanda is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 11 Sept 2026, next at Phantom Bar Berlin, Berlin on Sat, 26 Sept 2026.
+Shanda is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 12 Sept 2026, next at Phantom Bar Berlin, Berlin on Sat, 26 Sept 2026.
 
 Shanda is a techno and house artist tracked on soundcheck, with 85 sets logged across Barcelona, Berlin, Dusseldorf and Hamburg and 8 more. Often billed alongside AngeliKa, Taste of Blue and .JKM. Next up: Phantom Bar Berlin, Berlin on Sat 26 Sept.
 
@@ -25,4 +25,4 @@ Shanda is a techno and house artist tracked on soundcheck, with 85 sets logged a
 
 AngeliKa, Taste of Blue, .JKM
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/shanda/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/shanda/)*

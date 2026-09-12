@@ -1,6 +1,6 @@
 # Chriz Javey
 
-Chriz Javey is a House and Club artist with 1 upcoming club date listed on soundcheck as of Fri, 11 Sept 2026, next at The Ballroom Bowl - John St, Toronto on Sun, 13 Sept 2026.
+Chriz Javey is a House and Club artist with 1 upcoming club date listed on soundcheck as of Sat, 12 Sept 2026, next at The Ballroom Bowl - John St, Toronto on Sun, 13 Sept 2026.
 
 Chriz Javey is a house and club artist based in United States of America, tracked on soundcheck, with 12 sets logged across Newyorkcity, Toronto and Washingtondc. Often billed alongside Darling Cool, Tim Fields and 2theT. Next up: The Ballroom Bowl - John St, Toronto on Sun 13 Sept.
 
@@ -25,4 +25,4 @@ Chriz Javey is a house and club artist based in United States of America, tracke
 
 Darling Cool, Tim Fields, 2theT
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/chrizjavey/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/chrizjavey/)*

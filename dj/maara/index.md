@@ -1,6 +1,6 @@
 # Maara
 
-Maara is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at Cabaret Sauvage, Paris on Sat, 12 Sept 2026.
+Maara is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Cabaret Sauvage, Paris on Sat, 12 Sept 2026.
 
 Maara is a techno and house artist tracked on soundcheck, with 155 sets logged across Amsterdam, Antwerp, Athens and Bangkok and 48 more. Often billed alongside Angel D'lite, Roza Terenzi and D. Tiffany. Next up: Cabaret Sauvage, Paris on Sat 12 Sept.
 
@@ -27,4 +27,4 @@ Maara is a techno and house artist tracked on soundcheck, with 155 sets logged a
 
 Angel D'lite, Roza Terenzi, D. Tiffany
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/maara/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/maara/)*

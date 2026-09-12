@@ -1,6 +1,6 @@
 # Groove Armada
 
-Groove Armada is a House and Disco artist with 7 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at DRUMSHEDS, London on Sat, 19 Sept 2026.
+Groove Armada is a House and Disco artist with 7 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at DRUMSHEDS, London on Sat, 19 Sept 2026.
 
 Groove Armada is a house and disco artist tracked on soundcheck, with 84 sets logged across Antwerp, Athens, Auckland and Belfast and 20 more. Often billed alongside The Shapeshifters, Natasha Diggs and Eats Everything. Next up: DRUMSHEDS, London on Sat 19 Sept.
 
@@ -31,4 +31,4 @@ Groove Armada is a house and disco artist tracked on soundcheck, with 84 sets lo
 
 The Shapeshifters, Natasha Diggs, Eats Everything
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/groovearmada/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/groovearmada/)*

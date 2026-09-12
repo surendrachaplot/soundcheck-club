@@ -1,6 +1,6 @@
 # Nick Clev
 
-Nick Clev is a House and Garage artist with 2 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at Dalston Superstore, London on Thu, 24 Sept 2026.
+Nick Clev is a House and Garage artist with 2 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Dalston Superstore, London on Thu, 24 Sept 2026.
 
 Nick Clev is a house and garage artist tracked on soundcheck, with 42 sets logged across London. Often billed alongside Sam Beach, Michelle Manetti and ASHTREY. Next up: Dalston Superstore, London on Thu 24 Sept.
 
@@ -26,4 +26,4 @@ Nick Clev is a house and garage artist tracked on soundcheck, with 42 sets logge
 
 Sam Beach, Michelle Manetti, ASHTREY
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nickclev/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nickclev/)*

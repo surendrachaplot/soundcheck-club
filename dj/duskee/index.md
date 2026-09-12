@@ -1,6 +1,6 @@
 # Duskee
 
-Duskee is a Drum & Bass and Jungle artist with 3 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at Outernet Live, London on Sat, 26 Sept 2026.
+Duskee is a Drum & Bass and Jungle artist with 3 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Outernet Live, London on Sat, 26 Sept 2026.
 
 Duskee is a drum & bass and jungle artist based in United Kingdom, tracked on soundcheck, with 45 sets logged across Amsterdam, Antwerp, Auckland and Bali and 17 more. Often billed alongside Monrroe, GLXY and Emily Makis. Next up: Outernet Live, London on Sat 26 Sept.
 
@@ -27,4 +27,4 @@ Duskee is a drum & bass and jungle artist based in United Kingdom, tracked on so
 
 Monrroe, GLXY, Emily Makis
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/duskee/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/duskee/)*

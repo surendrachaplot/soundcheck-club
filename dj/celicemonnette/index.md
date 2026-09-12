@@ -1,13 +1,14 @@
 # Celice Monnette
 
-Celice Monnette is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 11 Sept 2026, next at TBA, Mexico City on Tue, 15 Sept 2026.
+Celice Monnette is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Abrazarnos, Mexico City on Thu, 10 Sept 2026.
 
-Celice Monnette is a house and techno artist tracked on soundcheck, with 127 sets logged across Losangeles, Madrid, Mexicocity and Newyorkcity and 1 more. Often billed alongside sadgal, Enya Botello and Portugal. Next up: TBA, Mexicocity on Tue 15 Sept.
+Celice Monnette is a house and techno artist tracked on soundcheck, with 127 sets logged across Losangeles, Madrid, Mexicocity and Newyorkcity and 1 more. Often billed alongside sadgal, Enya Botello and Portugal. Next up: Abrazarnos, Mexicocity on Thu 10 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Thu, 10 Sept 2026 | Abrazarnos | Mexico City |
 | Tue, 15 Sept 2026 | TBA | Mexico City |
 
 ## Recently played
@@ -25,4 +26,4 @@ Celice Monnette is a house and techno artist tracked on soundcheck, with 127 set
 
 sadgal, Enya Botello, Portugal
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/celicemonnette/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/celicemonnette/)*

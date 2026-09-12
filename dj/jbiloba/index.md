@@ -1,6 +1,6 @@
 # j biloba
 
-j biloba is a electronic artist with 1 upcoming club date listed on soundcheck as of Fri, 11 Sept 2026, next at Patision65, Athens on Sat, 12 Sept 2026.
+j biloba is a electronic artist with 1 upcoming club date listed on soundcheck as of Sat, 12 Sept 2026, next at Patision65, Athens on Sat, 12 Sept 2026.
 
 j biloba is an electronic artist tracked on soundcheck, with 13 sets logged across Athens. Often billed alongside Andreas Palmer, SRJ (1) and A. Square. Next up: Patision65, Athens on Sat 12 Sept.
 
@@ -25,4 +25,4 @@ j biloba is an electronic artist tracked on soundcheck, with 13 sets logged acro
 
 Andreas Palmer, SRJ (1), A. Square
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jbiloba/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jbiloba/)*

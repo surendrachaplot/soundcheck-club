@@ -1,6 +1,6 @@
 # Guy Williams
 
-Guy Williams is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at renae, Manchester on Fri, 11 Sept 2026.
+Guy Williams is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at renae, Manchester on Fri, 11 Sept 2026.
 
 Guy Williams is a house and disco artist tracked on soundcheck, with 67 sets logged across Barcelona, Ibiza, London and Manchester and 2 more. Often billed alongside Jo Mills, S/A/M and DJ Paulette. Next up: renae, Manchester on Fri 11 Sept.
 
@@ -13,6 +13,7 @@ Guy Williams is a house and disco artist tracked on soundcheck, with 67 sets log
 
 ## Recently played
 
+- renae, Manchester — Fri, 11 Sept 2026
 - 77, London — Fri, 4 Sept 2026
 - 528 Ibiza, Ibiza — Sat, 15 Aug 2026
 - 528 Ibiza, Ibiza — Thu, 23 Jul 2026
@@ -20,10 +21,9 @@ Guy Williams is a house and disco artist tracked on soundcheck, with 67 sets log
 - 93 Feet East, London — Sat, 11 Jul 2026
 - Chinois Ibiza, Ibiza — Sat, 13 Jun 2026
 - The Loft, Manchester — Fri, 5 Jun 2026
-- The Golden Lion, Manchester — Fri, 29 May 2026
 
 ## Shares bills with
 
 Jo Mills, S/A/M, DJ Paulette
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/guywilliams/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/guywilliams/)*

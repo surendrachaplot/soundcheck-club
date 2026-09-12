@@ -1,6 +1,6 @@
 # Above & Beyond
 
-Above & Beyond is a Trance and Techno artist with 7 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at SWG3, Glasgow on Fri, 16 Oct 2026.
+Above & Beyond is a Trance and Techno artist with 7 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at SWG3, Glasgow on Fri, 16 Oct 2026.
 
 Above & Beyond are a trance and techno duo based in United Kingdom, tracked on soundcheck, with 45 sets logged across Amsterdam, Austin, Bali and Belfast and 19 more. Often billed alongside Billy Gillies, Deadmau5 and Maddix. Next up: SWG3, Glasgow on Fri 16 Oct.
 
@@ -31,4 +31,4 @@ Above & Beyond are a trance and techno duo based in United Kingdom, tracked on s
 
 Billy Gillies, Deadmau5, Maddix
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/above-beyond/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/above-beyond/)*

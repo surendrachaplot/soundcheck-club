@@ -1,6 +1,6 @@
 # Anocheceres - presents CHERRY, ENTROPIA, LaDeWitte & GVTI at TBA - Barcelona Centro
 
-Anocheceres - presents CHERRY, ENTROPIA, LaDeWitte & GVTI at TBA - Barcelona Centro on Fri 11 Sept, Barcelona. 1 act on the bill: Dj Cherry. Electro and Acid. Preview the line-up and save it on soundcheck.
+Anocheceres - presents CHERRY, ENTROPIA, LaDeWitte & GVTI at TBA - Barcelona Centro on Fri 11 Sept, Barcelona. 1 act on the bill: Dj Cherry. Acid and Electro. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

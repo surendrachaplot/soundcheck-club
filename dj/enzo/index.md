@@ -1,6 +1,6 @@
 # Enzo
 
-Enzo is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Fri, 11 Sept 2026, next at Les Enfants Brillants, Barcelona on Wed, 23 Sept 2026.
+Enzo is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Sat, 12 Sept 2026, next at Les Enfants Brillants, Barcelona on Wed, 23 Sept 2026.
 
 Enzo is a techno and tech house artist tracked on soundcheck, with 17 sets logged across Barcelona, Losangeles, Madrid and Newyorkcity and 4 more. Often billed alongside Icarian PB1, Orkus and COTA. Next up: Les Enfants Brillants, Barcelona on Wed 23 Sept.
 
@@ -25,4 +25,4 @@ Enzo is a techno and tech house artist tracked on soundcheck, with 17 sets logge
 
 Icarian PB1, Orkus, COTA
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/enzo/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/enzo/)*

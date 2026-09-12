@@ -1,6 +1,6 @@
 # Valenthin
 
-Valenthin is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at Turbina, Budapest on Sat, 3 Oct 2026.
+Valenthin is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Turbina, Budapest on Sat, 3 Oct 2026.
 
 Valenthin is a techno and trance artist based in Hungary, tracked on soundcheck, with 69 sets logged across Berlin, Budapest, Rotterdam and Vienna. Often billed alongside Paralich, THIRD 2HIFT and schraeder. Next up: Turbina, Budapest on Sat 3 Oct.
 
@@ -26,4 +26,4 @@ Valenthin is a techno and trance artist based in Hungary, tracked on soundcheck,
 
 Paralich, THIRD 2HIFT, schraeder
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/valenthin/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/valenthin/)*

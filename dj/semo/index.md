@@ -1,6 +1,6 @@
 # Semo
 
-Semo is a House and Club artist with 1 upcoming club date listed on soundcheck as of Fri, 11 Sept 2026, next at Stoked&stoned, Seoul on Mon, 7 Sept 2026.
+Semo is a House and Club artist with 1 upcoming club date listed on soundcheck as of Sat, 12 Sept 2026, next at Stoked&stoned, Seoul on Mon, 7 Sept 2026.
 
 Semo is a house and club artist based in South Korea, tracked on soundcheck, with 39 sets logged across Seoul. Often billed alongside Gyusco, KIKOH and Youngseok. Next up: Stoked&stoned, Seoul on Mon 7 Sept.
 
@@ -25,4 +25,4 @@ Semo is a house and club artist based in South Korea, tracked on soundcheck, wit
 
 Gyusco, KIKOH, Youngseok
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/semo/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/semo/)*

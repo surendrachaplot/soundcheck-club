@@ -1,6 +1,6 @@
 # Cvni
 
-Cvni is a House and Electro artist with 1 upcoming club date listed on soundcheck as of Fri, 11 Sept 2026, next at Pracht, Frankfurt on Sat, 12 Sept 2026.
+Cvni is a House and Electro artist with 1 upcoming club date listed on soundcheck as of Sat, 12 Sept 2026, next at Pracht, Frankfurt on Sat, 12 Sept 2026.
 
 Cvni is a house and electro artist tracked on soundcheck, with 12 sets logged across Frankfurt. Often billed alongside Sami Hugo, Abraham (GER) and Andhim. Next up: Pracht, Frankfurt on Sat 12 Sept.
 
@@ -25,4 +25,4 @@ Cvni is a house and electro artist tracked on soundcheck, with 12 sets logged ac
 
 Sami Hugo, Abraham (GER), Andhim
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/cvni/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/cvni/)*

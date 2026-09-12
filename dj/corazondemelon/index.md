@@ -1,6 +1,6 @@
 # Corazón De Melon
 
-Corazón De Melon is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Fri, 11 Sept 2026, next at Bogart House, New York City on Fri, 18 Sept 2026.
+Corazón De Melon is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Sat, 12 Sept 2026, next at Bogart House, New York City on Fri, 18 Sept 2026.
 
 Corazón De Melon is a house and disco artist based in United States of America, tracked on soundcheck, with 20 sets logged across Newyorkcity. Often billed alongside Atilla Ural, Bea Trinidad and Deo'jorge. Next up: Bogart House, Newyorkcity on Fri 18 Sept.
 
@@ -25,4 +25,4 @@ Corazón De Melon is a house and disco artist based in United States of America,
 
 Atilla Ural, Bea Trinidad, Deo'jorge
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/corazondemelon/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/corazondemelon/)*

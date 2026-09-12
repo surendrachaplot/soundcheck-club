@@ -1,6 +1,6 @@
 # Redemptive
 
-Redemptive is a Drum & Bass and Garage artist with 2 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at 516 S Anderson Street, Los Angeles on Sat, 12 Sept 2026.
+Redemptive is a Drum & Bass and Garage artist with 2 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at 516 S Anderson Street, Los Angeles on Sat, 12 Sept 2026.
 
 Redemptive is a drum & bass and garage artist based in Denmark, tracked on soundcheck, with 7 sets logged across Copenhagen and Losangeles. Often billed alongside DBADJO, Dwonji and SPNR. Next up: 516 S Anderson Street, Losangeles on Sat 12 Sept.
 
@@ -23,4 +23,4 @@ Redemptive is a drum & bass and garage artist based in Denmark, tracked on sound
 
 DBADJO, Dwonji, SPNR
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/redemptive/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/redemptive/)*

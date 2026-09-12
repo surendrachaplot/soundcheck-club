@@ -1,6 +1,6 @@
 # The General
 
-The General is a Deep House and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at Elektricity, Detroit on Sat, 12 Sept 2026.
+The General is a Deep House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Elektricity, Detroit on Sat, 12 Sept 2026.
 
 The General is a deep house and techno artist based in Ireland, tracked on soundcheck, with 8 sets logged across Detroit and Sanfrancisco. Often billed alongside Yaz, Bobby Lyte and Kohbain. Next up: Elektricity, Detroit on Sat 12 Sept.
 
@@ -24,4 +24,4 @@ The General is a deep house and techno artist based in Ireland, tracked on sound
 
 Yaz, Bobby Lyte, Kohbain
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/thegeneral/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/thegeneral/)*

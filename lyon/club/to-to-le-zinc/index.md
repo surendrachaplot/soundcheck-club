@@ -1,14 +1,13 @@
 # Toï Toï, Le Zinc
 
-Toï Toï, Le Zinc is a music venue in Lyon with 8 upcoming nights listed on soundcheck as of Fri, 11 Sept 2026; the next is "Tonada, bullerengue afro-colombien" on Fri, 11 Sept 2026.
+Toï Toï, Le Zinc is a music venue in Lyon with 7 upcoming nights listed on soundcheck as of Sat, 12 Sept 2026; the next is "ALTERNATIV R.A.P#1" on Sat, 12 Sept 2026.
 
-Toï Toï, Le Zinc is a music venue in Lyon listed on soundcheck. 8 upcoming nights. Browse upcoming dates, start times and who's playing. 17 - 19, rue Marcel Dutartre 69 100 Villeurbanne.
+Toï Toï, Le Zinc is a music venue in Lyon listed on soundcheck. 7 upcoming nights. Browse upcoming dates, start times and who's playing. 17 - 19, rue Marcel Dutartre 69 100 Villeurbanne.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 11 Sept 2026 | Tonada, bullerengue afro-colombien |  |
 | Sat, 12 Sept 2026 | ALTERNATIV R.A.P#1 |  |
 | Sat, 19 Sept 2026 | Zermatt - EP Release Show |  |
 | Fri, 25 Sept 2026 | Pinkasol release party  |  |
@@ -21,4 +20,4 @@ Toï Toï, Le Zinc is a music venue in Lyon listed on soundcheck. 8 upcoming nig
 
 17 - 19, rue Marcel Dutartre 69 100 Villeurbanne, Lyon
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/lyon/club/to-to-le-zinc/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/lyon/club/to-to-le-zinc/)*

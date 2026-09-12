@@ -1,6 +1,6 @@
 # Hazel Marimba
 
-Hazel Marimba is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 11 Sept 2026, next at 77, London on Fri, 25 Sept 2026.
+Hazel Marimba is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 12 Sept 2026, next at 77, London on Fri, 25 Sept 2026.
 
 Hazel Marimba is a techno and house artist tracked on soundcheck, with 10 sets logged across Bristol, London and Paris. Often billed alongside BIIANCO, Big Kani and Carly Wilford. Next up: 77, London on Fri 25 Sept.
 
@@ -25,4 +25,4 @@ Hazel Marimba is a techno and house artist tracked on soundcheck, with 10 sets l
 
 BIIANCO, Big Kani, Carly Wilford
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/hazelmarimba/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/hazelmarimba/)*

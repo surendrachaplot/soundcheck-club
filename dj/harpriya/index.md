@@ -1,6 +1,6 @@
 # harpriya
 
-harpriya is a Garage and Bass artist with 1 upcoming club date listed on soundcheck as of Fri, 11 Sept 2026, next at Sneaky Pete's, Edinburgh on Wed, 14 Oct 2026.
+harpriya is a Garage and Bass artist with 1 upcoming club date listed on soundcheck as of Sat, 12 Sept 2026, next at Sneaky Pete's, Edinburgh on Wed, 14 Oct 2026.
 
 harpriya is a garage and bass artist based in United Kingdom, tracked on soundcheck, with 79 sets logged across Berlin, Bristol, Edinburgh and Leeds and 3 more. Often billed alongside Buckley (UK), REA (UK) and Buckley. Next up: Sneaky Pete's, Edinburgh on Wed 14 Oct.
 
@@ -25,4 +25,4 @@ harpriya is a garage and bass artist based in United Kingdom, tracked on soundch
 
 Buckley (UK), REA (UK), Buckley
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/harpriya/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/harpriya/)*

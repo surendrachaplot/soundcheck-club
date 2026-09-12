@@ -1,6 +1,6 @@
 # Takashit
 
-Takashit is a Funk / Soul and Hip-Hop artist with 1 upcoming club date listed on soundcheck as of Fri, 11 Sept 2026, next at 32016, Tokyo on Sat, 19 Sept 2026.
+Takashit is a Funk / Soul and Hip-Hop artist with 1 upcoming club date listed on soundcheck as of Sat, 12 Sept 2026, next at 32016, Tokyo on Sat, 19 Sept 2026.
 
 Takashit is a funk / soul and hip-hop artist based in Japan, tracked on soundcheck, with 11 sets logged across Tokyo. Often billed alongside Risa, Special Guest DJ and Ali (4). Next up: 32016, Tokyo on Sat 19 Sept.
 
@@ -25,4 +25,4 @@ Takashit is a funk / soul and hip-hop artist based in Japan, tracked on soundche
 
 Risa, Special Guest DJ, Ali (4)
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/takashit/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/takashit/)*

@@ -1,13 +1,14 @@
 # TEDESCO
 
-TEDESCO is a Techno and Club artist with 3 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at Colour Factory, London on Sat, 26 Sept 2026.
+TEDESCO is a Techno and Club artist with 4 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Phantom Bar Berlin, Berlin on Sat, 19 Sept 2026.
 
-TEDESCO is a techno and club artist tracked on soundcheck, with 123 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 12 more. Often billed alongside JONE OF ARX, Ivicore and Twang. Next up: Colour Factory, London on Sat 26 Sept.
+TEDESCO is a techno and club artist tracked on soundcheck, with 124 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 12 more. Often billed alongside JONE OF ARX, Ivicore and Twang. Next up: Phantom Bar Berlin, Berlin on Sat 19 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 19 Sept 2026 | Phantom Bar Berlin | Berlin |
 | Sat, 26 Sept 2026 | Colour Factory | London |
 | Sat, 26 Sept 2026 | Kilomètre25 | Paris |
 | Sat, 24 Oct 2026 | DRUMSHEDS | London |
@@ -27,4 +28,4 @@ TEDESCO is a techno and club artist tracked on soundcheck, with 123 sets logged 
 
 JONE OF ARX, Ivicore, Twang
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tedesco/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tedesco/)*

@@ -1,6 +1,6 @@
 # 909 RACING TEAM
 
-909 RACING TEAM is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at La Terrrazza, Barcelona on Fri, 18 Sept 2026.
+909 RACING TEAM is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at La Terrrazza, Barcelona on Fri, 18 Sept 2026.
 
 909 RACING TEAM is a house and techno artist based in Germany, tracked on soundcheck, with 15 sets logged across Amsterdam, Barcelona, Berlin and Cologne and 3 more. Often billed alongside Domenik Deckert, Mike Momburg and Vagabund. Next up: La Terrrazza, Barcelona on Fri 18 Sept.
 
@@ -26,4 +26,4 @@
 
 Domenik Deckert, Mike Momburg, Vagabund
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/909racingteam/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/909racingteam/)*

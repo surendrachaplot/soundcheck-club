@@ -1,6 +1,6 @@
 # DOVnROBS
 
-DOVnROBS is a Tech House and Afro House artist with 1 upcoming club date listed on soundcheck as of Fri, 11 Sept 2026, next at Gallery, London on Fri, 16 Oct 2026.
+DOVnROBS is a Tech House and Afro House artist with 1 upcoming club date listed on soundcheck as of Sat, 12 Sept 2026, next at Gallery, London on Fri, 16 Oct 2026.
 
 DOVnROBS is a tech house and afro house artist tracked on soundcheck, with 19 sets logged across Amsterdam, Barcelona and London. Often billed alongside Chambord, Edann and Malive. Next up: Gallery, London on Fri 16 Oct.
 
@@ -25,4 +25,4 @@ DOVnROBS is a tech house and afro house artist tracked on soundcheck, with 19 se
 
 Chambord, Edann, Malive
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dovnrobs/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dovnrobs/)*

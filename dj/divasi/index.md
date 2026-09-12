@@ -1,6 +1,6 @@
 # Divasi
 
-Divasi is a Techno and Tech House artist with 2 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at Toffler, Rotterdam on Sat, 7 Nov 2026.
+Divasi is a Techno and Tech House artist with 2 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Toffler, Rotterdam on Sat, 7 Nov 2026.
 
 Divasi is a techno and tech house artist tracked on soundcheck, with 13 sets logged across Amsterdam, Ghent, Rotterdam and Utrecht. Often billed alongside SANTØS, Ben Techy and IOSIO. Next up: Toffler, Rotterdam on Sat 7 Nov.
 
@@ -26,4 +26,4 @@ Divasi is a techno and tech house artist tracked on soundcheck, with 13 sets log
 
 SANTØS, Ben Techy, IOSIO
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/divasi/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/divasi/)*

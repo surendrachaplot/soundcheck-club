@@ -1,6 +1,6 @@
 # UMI
 
-UMI is a music venue in Brussels with 7 upcoming nights listed on soundcheck as of Fri, 11 Sept 2026; the next is "BLUR x Kiosk Radio x Refuge Worldwide" on Fri, 11 Sept 2026.
+UMI is a music venue in Brussels with 7 upcoming nights listed on soundcheck as of Sat, 12 Sept 2026; the next is "BLUR x Kiosk Radio x Refuge Worldwide" on Fri, 11 Sept 2026.
 
 UMI is a music venue in Brussels listed on soundcheck. 7 upcoming nights, with line-ups including Adi, Adi (CO), Bambi (Menage a Trois) and Bapow and 2 more. Browse upcoming dates, start times and who's playing. Rue du Marché aux Fromages 10, 1000 Bruxelles.
 
@@ -20,4 +20,4 @@ UMI is a music venue in Brussels listed on soundcheck. 7 upcoming nights, with l
 
 Rue du Marché aux Fromages 10, 1000 Bruxelles, Brussels
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/brussels/club/umi/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/brussels/club/umi/)*

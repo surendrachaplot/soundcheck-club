@@ -1,6 +1,6 @@
 # AEMN
 
-AEMN is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 11 Sept 2026, next at Schlachthof Wiesbaden, Frankfurt on Sat, 12 Sept 2026.
+AEMN is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 12 Sept 2026, next at Schlachthof Wiesbaden, Frankfurt on Sat, 12 Sept 2026.
 
 AEMN is a techno and house artist based in Germany, tracked on soundcheck, with 11 sets logged across Berlin, Dusseldorf, Frankfurt and Stuttgart. Often billed alongside AKONI, FENIM0RE and ÜBERKIKZ. Next up: Schlachthof Wiesbaden, Frankfurt on Sat 12 Sept.
 
@@ -25,4 +25,4 @@ AEMN is a techno and house artist based in Germany, tracked on soundcheck, with 
 
 AKONI, FENIM0RE, ÜBERKIKZ
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/aemn/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/aemn/)*

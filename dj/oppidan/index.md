@@ -1,6 +1,6 @@
 # Oppidan
 
-Oppidan is a Garage and House artist with 10 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at Palmerstown House Estate, Dublin on Fri, 11 Sept 2026.
+Oppidan is a Garage and House artist with 10 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Palmerstown House Estate, Dublin on Fri, 11 Sept 2026.
 
 Oppidan is a garage and house artist tracked on soundcheck, with 145 sets logged across Amsterdam, Antwerp, Austin and Barcelona and 45 more. Often billed alongside MPH (1), Sammy Virji and Notion. Next up: Palmerstown House Estate, Dublin on Fri 11 Sept.
 
@@ -21,6 +21,7 @@ Oppidan is a garage and house artist tracked on soundcheck, with 145 sets logged
 
 ## Recently played
 
+- Palmerstown House Estate, Dublin — Fri, 11 Sept 2026
 - Finsbury Park, London — Fri, 7 Aug 2026
 - TBA - Hollywood Park adjacent to SoFi Stadium, Los Angeles — Sat, 1 Aug 2026
 - Art Club, Houston — Fri, 31 Jul 2026
@@ -28,10 +29,9 @@ Oppidan is a garage and house artist tracked on soundcheck, with 145 sets logged
 - Holland Park, Vancouver — Fri, 3 Jul 2026
 - Holland Park, Vancouver — Thu, 2 Jul 2026
 - Bsmnt, Boston — Fri, 26 Jun 2026
-- La Terrrazza, Barcelona — Tue, 23 Jun 2026
 
 ## Shares bills with
 
 MPH (1), Sammy Virji, Notion
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/oppidan/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/oppidan/)*

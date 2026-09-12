@@ -1,6 +1,6 @@
 # Mucaro
 
-Mucaro is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 11 Sept 2026, next at VENT, Tokyo on Sat, 31 Oct 2026.
+Mucaro is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 12 Sept 2026, next at VENT, Tokyo on Sat, 31 Oct 2026.
 
 Mucaro is a techno and house artist tracked on soundcheck, with 26 sets logged across Tokyo. Often billed alongside RYOHEI, Monna Lisa and Dani Savant. Next up: VENT, Tokyo on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Mucaro is a techno and house artist tracked on soundcheck, with 26 sets logged a
 
 RYOHEI, Monna Lisa, Dani Savant
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mucaro/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mucaro/)*

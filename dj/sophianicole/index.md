@@ -1,6 +1,6 @@
 # Sophia Nicole
 
-Sophia Nicole is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Fri, 11 Sept 2026, next at Tola, London on Sat, 31 Oct 2026.
+Sophia Nicole is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Sat, 12 Sept 2026, next at Tola, London on Sat, 31 Oct 2026.
 
 Sophia Nicole is a techno and tech house artist tracked on soundcheck, with 34 sets logged across London. Often billed alongside LeNil, 22Cheeky and House of Allegro. Next up: Tola, London on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Sophia Nicole is a techno and tech house artist tracked on soundcheck, with 34 s
 
 LeNil, 22Cheeky, House of Allegro
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sophianicole/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sophianicole/)*

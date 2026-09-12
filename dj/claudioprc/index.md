@@ -1,6 +1,6 @@
 # Claudio PRC
 
-Claudio PRC is a Techno and Ambient artist with 10 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at Jasna 1, Warsaw on Fri, 11 Sept 2026.
+Claudio PRC is a Techno and Ambient artist with 10 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Jasna 1, Warsaw on Fri, 11 Sept 2026.
 
 Claudio PRC is a techno and ambient artist based in Italy, tracked on soundcheck, with 156 sets logged across Amsterdam, Athens, Bali and Barcelona and 40 more. Often billed alongside Isabel Soto, Luigi Tozzi and Adriana Lopez. Next up: Jasna 1, Warsaw on Fri 11 Sept.
 
@@ -21,6 +21,7 @@ Claudio PRC is a techno and ambient artist based in Italy, tracked on soundcheck
 
 ## Recently played
 
+- Jasna 1, Warsaw — Fri, 11 Sept 2026
 - Europa Boat, Budapest — Sat, 5 Sept 2026
 - Trädgården, Stockholm — Fri, 4 Sept 2026
 - De Fik Garden, Amsterdam — Sun, 30 Aug 2026
@@ -28,10 +29,9 @@ Claudio PRC is a techno and ambient artist based in Italy, tracked on soundcheck
 - Berghain | Panorama Bar | Säule, Berlin — Sat, 8 Aug 2026
 - public records, New York City — Fri, 24 Jul 2026
 - The Bassement, Madrid — Sat, 4 Jul 2026
-- LA Rítmica Club, Valencia — Fri, 3 Jul 2026
 
 ## Shares bills with
 
 Isabel Soto, Luigi Tozzi, Adriana Lopez
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/claudioprc/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/claudioprc/)*

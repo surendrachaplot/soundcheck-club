@@ -1,14 +1,15 @@
 # lisa luka
 
-lisa luka is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 11 Sept 2026, next at Lieberscholli, Munich on Sat, 12 Sept 2026.
+lisa luka is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Lieberscholli, Munich on Sat, 12 Sept 2026.
 
-lisa luka is a techno and house artist based in Germany, tracked on soundcheck, with 71 sets logged across Amsterdam, Berlin, Cologne and Copenhagen and 6 more. Often billed alongside Carlo Bonanza, Ciao 3lla and Horst Haller. Next up: Lieberscholli, Munich on Sat 12 Sept.
+lisa luka is a techno and house artist based in Germany, tracked on soundcheck, with 72 sets logged across Amsterdam, Berlin, Cologne and Copenhagen and 6 more. Often billed alongside Ciao 3lla, Carlo Bonanza and Horst Haller. Next up: Lieberscholli, Munich on Sat 12 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 12 Sept 2026 | Lieberscholli | Munich |
+| Fri, 16 Oct 2026 | Renate | Berlin |
 
 ## Recently played
 
@@ -23,6 +24,6 @@ lisa luka is a techno and house artist based in Germany, tracked on soundcheck, 
 
 ## Shares bills with
 
-Carlo Bonanza, Ciao 3lla, Horst Haller
+Ciao 3lla, Carlo Bonanza, Horst Haller
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lisa-luka/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lisa-luka/)*

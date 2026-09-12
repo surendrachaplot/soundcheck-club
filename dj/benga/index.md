@@ -1,8 +1,8 @@
 # Benga
 
-Benga is a Dubstep and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at Auditorium Parco della Musica, Rome on Sat, 12 Sept 2026.
+Benga is a Dubstep and Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Auditorium Parco della Musica, Rome on Sat, 12 Sept 2026.
 
-Benga is a dubstep and techno artist tracked on soundcheck, with 26 sets logged across Amsterdam, Brisbane, Bristol and Brussels and 11 more. Often billed alongside Skream, Special Request and Bakey. Next up: Auditorium Parco della Musica, Rome on Sat 12 Sept.
+Benga is a dubstep and techno artist tracked on soundcheck, with 26 sets logged across Amsterdam, Brisbane, Bristol and Brussels and 11 more. Often billed alongside Skream, SGT Pokes and Special Request. Next up: Auditorium Parco della Musica, Rome on Sat 12 Sept.
 
 ## Upcoming shows
 
@@ -24,6 +24,6 @@ Benga is a dubstep and techno artist tracked on soundcheck, with 26 sets logged 
 
 ## Shares bills with
 
-Skream, Special Request, Bakey
+Skream, SGT Pokes, Special Request
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/benga/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/benga/)*

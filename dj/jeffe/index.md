@@ -1,6 +1,6 @@
 # JEFFE
 
-JEFFE is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Fri, 11 Sept 2026, next at The Industrique, Melbourne on Sat, 24 Oct 2026.
+JEFFE is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Sat, 12 Sept 2026, next at The Industrique, Melbourne on Sat, 24 Oct 2026.
 
 JEFFE is a techno and trance artist tracked on soundcheck, with 6 sets logged across Melbourne. Often billed alongside Kaldero, MAIYHAUS and xspencer. Next up: The Industrique, Melbourne on Sat 24 Oct.
 
@@ -22,4 +22,4 @@ JEFFE is a techno and trance artist tracked on soundcheck, with 6 sets logged ac
 
 Kaldero, MAIYHAUS, xspencer
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jeffe/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jeffe/)*

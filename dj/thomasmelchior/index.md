@@ -1,6 +1,6 @@
 # Thomas Melchior
 
-Thomas Melchior is a House and Minimal artist with 4 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at La Cité Fertile, Paris on Sat, 19 Sept 2026.
+Thomas Melchior is a House and Minimal artist with 4 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at La Cité Fertile, Paris on Sat, 19 Sept 2026.
 
 Thomas Melchior is a house and minimal artist based in Germany, tracked on soundcheck, with 81 sets logged across Amsterdam, Bali, Bangkok and Barcelona and 21 more. Often billed alongside Edward, Lawrence and Konstantin. Next up: La Cité Fertile, Paris on Sat 19 Sept.
 
@@ -28,4 +28,4 @@ Thomas Melchior is a house and minimal artist based in Germany, tracked on sound
 
 Edward, Lawrence, Konstantin
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/thomasmelchior/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/thomasmelchior/)*

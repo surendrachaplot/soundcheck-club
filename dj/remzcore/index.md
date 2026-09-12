@@ -1,6 +1,6 @@
 # Remzcore
 
-Remzcore is a Hardcore and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 11 Sept 2026, next at M-BIA, Berlin on Fri, 18 Sept 2026.
+Remzcore is a Hardcore and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 12 Sept 2026, next at M-BIA, Berlin on Fri, 18 Sept 2026.
 
 Remzcore is a hardcore and techno artist based in France, tracked on soundcheck, with 18 sets logged across Barcelona, Berlin, Brussels and Cologne and 7 more. Often billed alongside Dimitri K, Angerfist and Russian Village Boys. Next up: M-BIA, Berlin on Fri 18 Sept.
 
@@ -25,4 +25,4 @@ Remzcore is a hardcore and techno artist based in France, tracked on soundcheck,
 
 Dimitri K, Angerfist, Russian Village Boys
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/remzcore/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/remzcore/)*

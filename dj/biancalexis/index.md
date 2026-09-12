@@ -1,6 +1,6 @@
 # Bianca Lexis
 
-Bianca Lexis is a House and Electronica artist with 2 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at Fort Mifflin, Philadelphia on Fri, 18 Sept 2026.
+Bianca Lexis is a House and Electronica artist with 2 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Fort Mifflin, Philadelphia on Fri, 18 Sept 2026.
 
 Bianca Lexis is a house and electronica artist tracked on soundcheck, with 55 sets logged across London, Losangeles, Madrid and Melbourne and 7 more. Often billed alongside Juan Izguerra, Goddollars and 1tbsp. Next up: Fort Mifflin, Philadelphia on Fri 18 Sept.
 
@@ -26,4 +26,4 @@ Bianca Lexis is a house and electronica artist tracked on soundcheck, with 55 se
 
 Juan Izguerra, Goddollars, 1tbsp
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/biancalexis/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/biancalexis/)*

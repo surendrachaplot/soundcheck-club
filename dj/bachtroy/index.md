@@ -1,6 +1,6 @@
 # Bachtroy
 
-Bachtroy is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 11 Sept 2026, next at Danger Danger, New York City on Fri, 11 Sept 2026.
+Bachtroy is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 12 Sept 2026, next at Danger Danger, New York City on Fri, 11 Sept 2026.
 
 Bachtroy is a house and techno artist tracked on soundcheck, with 6 sets logged across Newyorkcity. Often billed alongside Devoye, Barbara and Crystal Waters. Next up: Danger Danger, Newyorkcity on Fri 11 Sept.
 
@@ -12,6 +12,7 @@ Bachtroy is a house and techno artist tracked on soundcheck, with 6 sets logged 
 
 ## Recently played
 
+- Danger Danger, New York City — Fri, 11 Sept 2026
 - Xanadu, New York City — Wed, 31 Dec 2025
 - Mansions, New York City — Sun, 18 May 2025
 - Jupiter Disco, New York City — Wed, 23 Oct 2024
@@ -22,4 +23,4 @@ Bachtroy is a house and techno artist tracked on soundcheck, with 6 sets logged 
 
 Devoye, Barbara, Crystal Waters
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bachtroy/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bachtroy/)*

@@ -1,6 +1,6 @@
 # Khiah Lou
 
-Khiah Lou is a Dancehall and Amapiano artist with 1 upcoming club date listed on soundcheck as of Fri, 11 Sept 2026, next at TBA - St Stephens Street, Bristol on Sat, 12 Sept 2026.
+Khiah Lou is a Dancehall and Amapiano artist with 1 upcoming club date listed on soundcheck as of Sat, 12 Sept 2026, next at TBA - St Stephens Street, Bristol on Sat, 12 Sept 2026.
 
 Khiah Lou is a dancehall and amapiano artist tracked on soundcheck, with 12 sets logged across Bristol. Often billed alongside Chiedza, K Stylz and Anything But Becky. Next up: TBA - St Stephens Street, Bristol on Sat 12 Sept.
 
@@ -25,4 +25,4 @@ Khiah Lou is a dancehall and amapiano artist tracked on soundcheck, with 12 sets
 
 Chiedza, K Stylz, Anything But Becky
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/khiahlou/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/khiahlou/)*

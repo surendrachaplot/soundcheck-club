@@ -1,6 +1,6 @@
 # Jessy Lanza
 
-Jessy Lanza is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at TBA - Multiple Historic Venues - Manhattan & Brooklyn, New York City on Fri, 25 Sept 2026.
+Jessy Lanza is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at TBA - Multiple Historic Venues - Manhattan & Brooklyn, New York City on Fri, 25 Sept 2026.
 
 Jessy Lanza is a techno and house artist based in Canada, tracked on soundcheck, with 33 sets logged across Amsterdam, Athens, Austin and Barcelona and 14 more. Often billed alongside Kode9, nonsuit and Beverly Chills. Next up: TBA - Multiple Historic Venues - Manhattan & Brooklyn, Newyorkcity on Fri 25 Sept.
 
@@ -26,4 +26,4 @@ Jessy Lanza is a techno and house artist based in Canada, tracked on soundcheck,
 
 Kode9, nonsuit, Beverly Chills
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jessylanza/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jessylanza/)*

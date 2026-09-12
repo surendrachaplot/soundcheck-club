@@ -1,6 +1,6 @@
 # Attu
 
-Attu is a Bass and Club artist with 4 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at The Red Rattler, Sydney on Sat, 12 Sept 2026.
+Attu is a Bass and Club artist with 4 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at The Red Rattler, Sydney on Sat, 12 Sept 2026.
 
 Attu is a bass and club artist based in Australia, tracked on soundcheck, with 20 sets logged across Melbourne and Sydney. Often billed alongside ATARANGI, Ciara and Izata. Next up: The Red Rattler, Sydney on Sat 12 Sept.
 
@@ -28,4 +28,4 @@ Attu is a bass and club artist based in Australia, tracked on soundcheck, with 2
 
 ATARANGI, Ciara, Izata
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/attu/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/attu/)*

@@ -1,6 +1,6 @@
 # Art of Fighters
 
-Art of Fighters is a Hardcore and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at Hemkade 48, Amsterdam on Sat, 31 Oct 2026.
+Art of Fighters is a Hardcore and Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Hemkade 48, Amsterdam on Sat, 31 Oct 2026.
 
 Art of Fighters is a hardcore and techno artist based in Italy, tracked on soundcheck, with 21 sets logged across Amsterdam, Barcelona, Frankfurt and Geneva and 8 more. Often billed alongside Korsakoff, Tommyknocker and Endymion. Next up: Hemkade 48, Amsterdam on Sat 31 Oct.
 
@@ -26,4 +26,4 @@ Art of Fighters is a hardcore and techno artist based in Italy, tracked on sound
 
 Korsakoff, Tommyknocker, Endymion
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/artoffighters/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/artoffighters/)*

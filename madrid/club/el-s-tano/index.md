@@ -1,8 +1,8 @@
 # EL SÓTANO
 
-EL SÓTANO is a music venue in Madrid with 15 upcoming nights listed on soundcheck as of Fri, 11 Sept 2026; the next is "PHARMAZY: Ribé, Yeiks, Javier Klash, Dyans, Lebo" on Fri, 11 Sept 2026.
+EL SÓTANO is a music venue in Madrid with 19 upcoming nights listed on soundcheck as of Sat, 12 Sept 2026; the next is "PHARMAZY: Ribé, Yeiks, Javier Klash, Dyans, Lebo" on Fri, 11 Sept 2026.
 
-EL SÓTANO is a music venue in Madrid listed on soundcheck. 15 upcoming nights, with line-ups including Alvaro Cabana, Arok Shiva, Brisa Then and Centurion One and 2 more. Browse upcoming dates, start times and who's playing. Calle de las Maldonadas, 6, 28005 Madrid, España.
+EL SÓTANO is a music venue in Madrid listed on soundcheck. 19 upcoming nights, with line-ups including Alvaro Cabana, Arok Shiva, Brisa Then and Centurion One and 2 more. Browse upcoming dates, start times and who's playing. Calle de las Maldonadas, 6, 28005 Madrid, España.
 
 ## What's on
 
@@ -23,4 +23,4 @@ EL SÓTANO is a music venue in Madrid listed on soundcheck. 15 upcoming nights, 
 
 Calle de las Maldonadas, 6, 28005 Madrid, España, Madrid
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/el-s-tano/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/el-s-tano/)*

@@ -1,6 +1,6 @@
 # Azaleh
 
-Azaleh is a Bass and Jungle artist with 1 upcoming club date listed on soundcheck as of Fri, 11 Sept 2026, next at Bricks, London on Thu, 15 Oct 2026.
+Azaleh is a Bass and Jungle artist with 1 upcoming club date listed on soundcheck as of Sat, 12 Sept 2026, next at Bricks, London on Thu, 15 Oct 2026.
 
 Azaleh is a bass and jungle artist tracked on soundcheck, with 6 sets logged across Amsterdam, Leipzig, London and Zurich. Often billed alongside Faro Alip, RARRI and Collé. Next up: Bricks, London on Thu 15 Oct.
 
@@ -22,4 +22,4 @@ Azaleh is a bass and jungle artist tracked on soundcheck, with 6 sets logged acr
 
 Faro Alip, RARRI, Collé
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/azaleh/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/azaleh/)*

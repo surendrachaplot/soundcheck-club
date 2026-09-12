@@ -1,6 +1,6 @@
 # Karani
 
-Karani is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at Miscellania, Melbourne on Fri, 18 Sept 2026.
+Karani is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Miscellania, Melbourne on Fri, 18 Sept 2026.
 
 Karani is a house and techno artist tracked on soundcheck, with 24 sets logged across Berlin, Leipzig, London and Melbourne and 2 more. Often billed alongside Caesarr, Byron Yeates and DJ Nah Care. Next up: Miscellania, Melbourne on Fri 18 Sept.
 
@@ -26,4 +26,4 @@ Karani is a house and techno artist tracked on soundcheck, with 24 sets logged a
 
 Caesarr, Byron Yeates, DJ Nah Care
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/karani/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/karani/)*

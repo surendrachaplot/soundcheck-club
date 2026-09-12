@@ -1,6 +1,6 @@
 # TATAKI
 
-TATAKI is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Fri, 11 Sept 2026, next at Schlachthof Wiesbaden, Frankfurt on Sat, 17 Oct 2026.
+TATAKI is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Sat, 12 Sept 2026, next at Schlachthof Wiesbaden, Frankfurt on Sat, 17 Oct 2026.
 
 TATAKI is a techno and trance artist based in Germany, tracked on soundcheck, with 15 sets logged across Frankfurt. Often billed alongside Jaden Brown, Ryukyu and DeGuzman. Next up: Schlachthof Wiesbaden, Frankfurt on Sat 17 Oct.
 
@@ -25,4 +25,4 @@ TATAKI is a techno and trance artist based in Germany, tracked on soundcheck, wi
 
 Jaden Brown, Ryukyu, DeGuzman
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tataki/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tataki/)*

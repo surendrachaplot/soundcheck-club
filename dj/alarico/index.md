@@ -1,8 +1,8 @@
 # Alarico
 
-Alarico is a Techno and House artist with 16 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at BASIS, Utrecht on Fri, 11 Sept 2026.
+Alarico is a Techno and House artist with 17 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at BASIS, Utrecht on Fri, 11 Sept 2026.
 
-Alarico is a techno and house artist tracked on soundcheck, with 267 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 69 more. Often billed alongside Chlär, Funk Assault and Yanamaste. Next up: BASIS, Utrecht on Fri 11 Sept.
+Alarico is a techno and house artist tracked on soundcheck, with 268 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 69 more. Often billed alongside Chlär, Funk Assault and Yanamaste. Next up: BASIS, Utrecht on Fri 11 Sept.
 
 ## Upcoming shows
 
@@ -17,12 +17,13 @@ Alarico is a techno and house artist tracked on soundcheck, with 267 sets logged
 | Tue, 22 Sept 2026 | Amnesia Ibiza | Ibiza |
 | Fri, 25 Sept 2026 | Den Anden Side | Copenhagen |
 | Sat, 26 Sept 2026 | Tapada da Ajuda | Lisbon |
+| Fri, 9 Oct 2026 | Sub Club | Glasgow |
 | Sat, 10 Oct 2026 | KALT | Strasbourg |
 | Thu, 22 Oct 2026 | Flint Space | Amsterdam |
-| Sat, 24 Oct 2026 | Bajes Amsterdam | Amsterdam |
 
 ## Recently played
 
+- BASIS, Utrecht — Fri, 11 Sept 2026
 - Amnesia Ibiza, Ibiza — Sun, 6 Sept 2026
 - Gate Milano, Milan — Sat, 5 Sept 2026
 - Junkyard Dortmund, Dortmund-essen — Sat, 5 Sept 2026
@@ -30,10 +31,9 @@ Alarico is a techno and house artist tracked on soundcheck, with 267 sets logged
 - RSO.BERLIN, Berlin — Sat, 29 Aug 2026
 - Amnesia Ibiza, Ibiza — Tue, 25 Aug 2026
 - FOLD, London — Sun, 23 Aug 2026
-- Amnesia Ibiza, Ibiza — Tue, 18 Aug 2026
 
 ## Shares bills with
 
 Chlär, Funk Assault, Yanamaste
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/alarico/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/alarico/)*

@@ -1,6 +1,6 @@
 # Giegling in LA (The Halloween Special) at TBA - Downtown Los Angeles
 
-Giegling in LA (The Halloween Special) at TBA - Downtown Los Angeles on Sat 31 Oct, Losangeles. Techno and Deep House. Preview the line-up and save it on soundcheck.
+Giegling in LA (The Halloween Special) at TBA - Downtown Los Angeles on Sat 31 Oct, Losangeles. Techno and Electronica. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

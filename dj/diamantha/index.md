@@ -1,6 +1,6 @@
 # Diamantha
 
-Diamantha is a Techno and Tech House artist with 4 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at Parco Argelati, Milan on Sun, 13 Sept 2026.
+Diamantha is a Techno and Tech House artist with 4 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Parco Argelati, Milan on Sun, 13 Sept 2026.
 
 Diamantha is a techno and tech house artist based in Italy, tracked on soundcheck, with 22 sets logged across Milan. Often billed alongside Münich, HIBA.KNTK and MISERIA. Next up: Parco Argelati, Milan on Sun 13 Sept.
 
@@ -28,4 +28,4 @@ Diamantha is a techno and tech house artist based in Italy, tracked on soundchec
 
 Münich, HIBA.KNTK, MISERIA
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/diamantha/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/diamantha/)*

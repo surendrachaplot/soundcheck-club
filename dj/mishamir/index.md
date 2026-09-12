@@ -1,6 +1,6 @@
 # Misha Mir
 
-Misha Mir is a House and Deep House artist with 2 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at Firn, Seattle on Thu, 17 Sept 2026.
+Misha Mir is a House and Deep House artist with 2 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Firn, Seattle on Thu, 17 Sept 2026.
 
 Misha Mir is a house and deep house artist based in United States of America, tracked on soundcheck, with 11 sets logged across Seattle. Often billed alongside Jono (2), Interwave Surfer and Chance Sands. Next up: Firn, Seattle on Thu 17 Sept.
 
@@ -26,4 +26,4 @@ Misha Mir is a house and deep house artist based in United States of America, tr
 
 Jono (2), Interwave Surfer, Chance Sands
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mishamir/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mishamir/)*

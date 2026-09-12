@@ -1,6 +1,6 @@
 # Blanca Brusci
 
-Blanca Brusci is a Bass and Breakbeat artist with 1 upcoming club date listed on soundcheck as of Fri, 11 Sept 2026, next at Askip, Nantes on Thu, 17 Sept 2026.
+Blanca Brusci is a Bass and Breakbeat artist with 1 upcoming club date listed on soundcheck as of Sat, 12 Sept 2026, next at Askip, Nantes on Thu, 17 Sept 2026.
 
 Blanca Brusci is a bass and breakbeat artist tracked on soundcheck, with 11 sets logged across Leipzig, Lyon, Nantes and Paris. Often billed alongside Cracki Soundsystem, Danilo Plessow and Mamie's. Next up: Askip, Nantes on Thu 17 Sept.
 
@@ -25,4 +25,4 @@ Blanca Brusci is a bass and breakbeat artist tracked on soundcheck, with 11 sets
 
 Cracki Soundsystem, Danilo Plessow, Mamie's
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/blancabrusci/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/blancabrusci/)*

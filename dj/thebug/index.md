@@ -1,6 +1,6 @@
 # The Bug
 
-The Bug is a Dub and Bass artist with 2 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at TivoliVredenburg, Utrecht on Thu, 5 Nov 2026.
+The Bug is a Dub and Bass artist with 2 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at TivoliVredenburg, Utrecht on Thu, 5 Nov 2026.
 
 The Bug is a dub and bass artist tracked on soundcheck, with 48 sets logged across Amsterdam, Barcelona, Berlin and Bristol and 16 more. Often billed alongside Flowdan, Warrior Queen and CCL. Next up: TivoliVredenburg, Utrecht on Thu 5 Nov.
 
@@ -26,4 +26,4 @@ The Bug is a dub and bass artist tracked on soundcheck, with 48 sets logged acro
 
 Flowdan, Warrior Queen, CCL
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/thebug/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/thebug/)*

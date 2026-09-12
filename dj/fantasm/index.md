@@ -1,14 +1,13 @@
 # Fantasm
 
-Fantasm is a Techno and Hardcore artist with 8 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at Level 1 @ Cannonball Arts, Seattle on Fri, 11 Sept 2026.
+Fantasm is a Techno and Hardcore artist with 7 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Eden, Ibiza on Tue, 15 Sept 2026.
 
-Fantasm is a techno and hardcore artist tracked on soundcheck, with 78 sets logged across Amsterdam, Antwerp, Barcelona and Belfast and 38 more. Often billed alongside KLOFAMA, NOVAH and Holy Priest. Next up: Level 1 @ Cannonball Arts, Seattle on Fri 11 Sept.
+Fantasm is a techno and hardcore artist tracked on soundcheck, with 78 sets logged across Amsterdam, Antwerp, Barcelona and Belfast and 38 more. Often billed alongside KLOFAMA, NOVAH and Holy Priest. Next up: Eden, Ibiza on Tue 15 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 11 Sept 2026 | Level 1 @ Cannonball Arts | Seattle |
 | Tue, 15 Sept 2026 | Eden | Ibiza |
 | Fri, 25 Sept 2026 | IFEMA | Madrid |
 | Sat, 26 Sept 2026 | The Telegraph Building | Belfast |
@@ -19,6 +18,7 @@ Fantasm is a techno and hardcore artist tracked on soundcheck, with 78 sets logg
 
 ## Recently played
 
+- Level 1 @ Cannonball Arts, Seattle — Fri, 11 Sept 2026
 - Palace of Fine Arts, San Francisco/Oakland — Sun, 6 Sept 2026
 - Palace of Fine Arts, San Francisco/Oakland — Sun, 6 Sept 2026
 - TBA - Wasteland Festival, Cologne — Sat, 5 Sept 2026
@@ -26,10 +26,9 @@ Fantasm is a techno and hardcore artist tracked on soundcheck, with 78 sets logg
 - Ahoy Rotterdam, Rotterdam — Sat, 29 Aug 2026
 - Dürener Badesee, Cologne — Fri, 28 Aug 2026
 - UNO MALTA, Malta — Fri, 7 Aug 2026
-- Donauinsel, Vienna — Sat, 1 Aug 2026
 
 ## Shares bills with
 
 KLOFAMA, NOVAH, Holy Priest
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/fantasm/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/fantasm/)*

@@ -1,6 +1,6 @@
 # Koboyo
 
-Koboyo is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at Cabaret  Aléatoire, Marseille on Fri, 25 Sept 2026.
+Koboyo is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Cabaret  Aléatoire, Marseille on Fri, 25 Sept 2026.
 
 Koboyo is a techno and trance artist tracked on soundcheck, with 96 sets logged across Amsterdam, Antwerp, Barcelona and Belgrade and 21 more. Often billed alongside Amelie Lens, Ahl Iver and KUSS. Next up: Cabaret  Aléatoire, Marseille on Fri 25 Sept.
 
@@ -26,4 +26,4 @@ Koboyo is a techno and trance artist tracked on soundcheck, with 96 sets logged 
 
 Amelie Lens, Ahl Iver, KUSS
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/koboyo/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/koboyo/)*

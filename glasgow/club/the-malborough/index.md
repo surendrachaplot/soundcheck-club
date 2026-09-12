@@ -1,6 +1,6 @@
 # The Malborough
 
-The Malborough is a music venue in Glasgow with 1 upcoming night listed on soundcheck as of Fri, 11 Sept 2026; the next is "Latin Soundsystem Muzik - DUENDE & Pasos Prohibidos (Mexico)" on Fri, 11 Sept 2026.
+The Malborough is a music venue in Glasgow with 1 upcoming night listed on soundcheck as of Sat, 12 Sept 2026; the next is "Latin Soundsystem Muzik - DUENDE & Pasos Prohibidos (Mexico)" on Fri, 11 Sept 2026.
 
 The Malborough is a music venue in Glasgow listed on soundcheck. 1 upcoming night. Browse upcoming dates, start times and who's playing. 26 Langside Ave, Shawlands, Glasgow   G41 2QS.
 
@@ -14,4 +14,4 @@ The Malborough is a music venue in Glasgow listed on soundcheck. 1 upcoming nigh
 
 26 Langside Ave, Shawlands, Glasgow   G41 2QS, Glasgow
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/the-malborough/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/the-malborough/)*

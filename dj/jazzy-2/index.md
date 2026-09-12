@@ -1,8 +1,8 @@
 # JAZZY (2)
 
-JAZZY (2) is a Techno and House artist with 8 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at OST, Berlin on Sat, 19 Sept 2026.
+JAZZY (2) is a Techno and House artist with 9 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at OST, Berlin on Sat, 19 Sept 2026.
 
-JAZZY (2) is a techno and house artist tracked on soundcheck, with 88 sets logged across Amsterdam, Antwerp, Austin and Barcelona and 33 more. Often billed alongside Holy Priest, Sonny Fodera and Azyr. Next up: OST, Berlin on Sat 19 Sept.
+JAZZY (2) is a techno and house artist tracked on soundcheck, with 89 sets logged across Amsterdam, Antwerp, Austin and Barcelona and 33 more. Often billed alongside Holy Priest, Sonny Fodera and Azyr. Next up: OST, Berlin on Sat 19 Sept.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ JAZZY (2) is a techno and house artist tracked on soundcheck, with 88 sets logge
 | --- | --- | --- |
 | Sat, 19 Sept 2026 | OST | Berlin |
 | Mon, 28 Sept 2026 | Pacha Ibiza | Ibiza |
+| Sat, 3 Oct 2026 | T7 Paris | Paris |
 | Sat, 17 Oct 2026 | Schlachthof Wiesbaden | Frankfurt |
 | Fri, 23 Oct 2026 | Nxt Museum | Amsterdam |
 | Fri, 30 Oct 2026 | Travis County Exposition Center | Austin |
@@ -32,4 +33,4 @@ JAZZY (2) is a techno and house artist tracked on soundcheck, with 88 sets logge
 
 Holy Priest, Sonny Fodera, Azyr
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jazzy-2/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jazzy-2/)*

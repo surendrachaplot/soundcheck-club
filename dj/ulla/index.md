@@ -1,14 +1,13 @@
 # Ulla
 
-Ulla is a Experimental and Ambient artist with 4 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at TBA - Multiple Venues, Vienna on Fri, 4 Sept 2026.
+Ulla is a Experimental and Ambient artist with 3 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Strange Brew, Bristol on Fri, 2 Oct 2026.
 
-Ulla is an experimental and ambient artist based in United States of America, tracked on soundcheck, with 45 sets logged across Amsterdam, Athens, Barcelona and Berlin and 16 more. Often billed alongside Perila, Lawrence and Map.ache. Next up: TBA - Multiple Venues, Vienna on Fri 4 Sept.
+Ulla is an experimental and ambient artist based in United States of America, tracked on soundcheck, with 45 sets logged across Amsterdam, Athens, Barcelona and Berlin and 16 more. Often billed alongside Perila, Lawrence and Map.ache. Next up: Strange Brew, Bristol on Fri 2 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 4 Sept 2026 | TBA - Multiple Venues | Vienna |
 | Fri, 2 Oct 2026 | Strange Brew | Bristol |
 | Fri, 16 Oct 2026 | ZENNER | Berlin |
 | Thu, 29 Oct 2026 | Silent Green | Berlin |
@@ -28,4 +27,4 @@ Ulla is an experimental and ambient artist based in United States of America, tr
 
 Perila, Lawrence, Map.ache
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ulla/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ulla/)*

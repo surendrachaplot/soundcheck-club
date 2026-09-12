@@ -1,6 +1,6 @@
 # Saskia
 
-Saskia is a Techno and Experimental artist with 2 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at Cosies, Bristol on Fri, 11 Sept 2026.
+Saskia is a Techno and Experimental artist with 2 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Cosies, Bristol on Fri, 11 Sept 2026.
 
 Saskia is a techno and experimental artist based in Japan, tracked on soundcheck, with 9 sets logged across Bristol and London. Often billed alongside Jurango, Batu and Mackenzie (UK). Next up: Cosies, Bristol on Fri 11 Sept.
 
@@ -13,6 +13,7 @@ Saskia is a techno and experimental artist based in Japan, tracked on soundcheck
 
 ## Recently played
 
+- Cosies, Bristol — Fri, 11 Sept 2026
 - Strange Brew, Bristol — Sat, 1 Aug 2026
 - Spanners, London — Sat, 23 May 2026
 - Various Venues, Bristol, Bristol — Sat, 11 Apr 2026
@@ -25,4 +26,4 @@ Saskia is a techno and experimental artist based in Japan, tracked on soundcheck
 
 Jurango, Batu, Mackenzie (UK)
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/saskia/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/saskia/)*

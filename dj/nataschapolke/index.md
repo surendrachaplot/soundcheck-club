@@ -1,6 +1,6 @@
 # Natascha Polké
 
-Natascha Polké is a House and Electro artist with 4 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at TBA - Brussels, Brussels on Fri, 11 Sept 2026.
+Natascha Polké is a House and Electro artist with 4 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at TBA - Brussels, Brussels on Fri, 11 Sept 2026.
 
 Natascha Polké is a house and electro artist tracked on soundcheck, with 53 sets logged across Amsterdam, Athens, Basel and Berlin and 25 more. Often billed alongside Parra for Cuva, NTO and Nora En Pure. Next up: TBA - Brussels, Brussels on Fri 11 Sept.
 
@@ -15,6 +15,7 @@ Natascha Polké is a house and electro artist tracked on soundcheck, with 53 set
 
 ## Recently played
 
+- TBA - Brussels, Brussels — Fri, 11 Sept 2026
 - Scorpios, Mykonos — Fri, 28 Aug 2026
 - TBA - Bucht der Träumer, Frankfurt — Sat, 15 Aug 2026
 - Sziget Events Hall, Budapest — Thu, 13 Aug 2026
@@ -22,10 +23,9 @@ Natascha Polké is a house and electro artist tracked on soundcheck, with 53 set
 - TBA - Fly Me Sun & Stars, Berlin — Fri, 17 Jul 2026
 - 45hertz, Hamburg — Sat, 4 Jul 2026
 - Flugplatz 1, 17248, LÄRZ, Berlin — Fri, 26 Jun 2026
-- TBA, Mallorca — Sat, 13 Jun 2026
 
 ## Shares bills with
 
 Parra for Cuva, NTO, Nora En Pure
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nataschapolke/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nataschapolke/)*

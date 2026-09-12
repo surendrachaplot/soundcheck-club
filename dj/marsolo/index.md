@@ -1,8 +1,8 @@
 # Marsolo
 
-Marsolo is a House and Tech House artist with 16 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at UNO MALTA, Malta on Fri, 18 Sept 2026.
+Marsolo is a House and Tech House artist with 17 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at UNO MALTA, Malta on Fri, 18 Sept 2026.
 
-Marsolo is a house and tech house artist tracked on soundcheck, with 160 sets logged across Amsterdam, Antwerp, Auckland and Barcelona and 36 more. Often billed alongside Jamback, Josh Baker and L.P. Rhythm. Next up: UNO MALTA, Malta on Fri 18 Sept.
+Marsolo is a house and tech house artist tracked on soundcheck, with 161 sets logged across Amsterdam, Antwerp, Auckland and Barcelona and 36 more. Often billed alongside Jamback, Josh Baker and L.P. Rhythm. Next up: UNO MALTA, Malta on Fri 18 Sept.
 
 ## Upcoming shows
 
@@ -36,4 +36,4 @@ Marsolo is a house and tech house artist tracked on soundcheck, with 160 sets lo
 
 Jamback, Josh Baker, L.P. Rhythm
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/marsolo/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/marsolo/)*

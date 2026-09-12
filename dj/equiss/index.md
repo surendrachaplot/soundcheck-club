@@ -1,13 +1,14 @@
 # EQUISS
 
-EQUISS is a Club and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 11 Sept 2026, next at TRANSMISSION DC, Washington DC on Fri, 25 Sept 2026.
+EQUISS is a Club and Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at TBA, New York City on Sat, 19 Sept 2026.
 
-EQUISS is a club and techno artist tracked on soundcheck, with 75 sets logged across Amsterdam, Austin, Barcelona and Berlin and 17 more. Often billed alongside OSSX, ELISE (US) and Bok Bok. Next up: TRANSMISSION DC, Washingtondc on Fri 25 Sept.
+EQUISS is a club and techno artist tracked on soundcheck, with 76 sets logged across Amsterdam, Austin, Barcelona and Berlin and 17 more. Often billed alongside OSSX, ELISE (US) and Bok Bok. Next up: TBA, Newyorkcity on Sat 19 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 19 Sept 2026 | TBA | New York City |
 | Fri, 25 Sept 2026 | TRANSMISSION DC | Washington DC |
 
 ## Recently played
@@ -25,4 +26,4 @@ EQUISS is a club and techno artist tracked on soundcheck, with 75 sets logged ac
 
 OSSX, ELISE (US), Bok Bok
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/equiss/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/equiss/)*

@@ -1,6 +1,6 @@
 # Tunelowa
 
-Tunelowa is a music venue in Warsaw with 3 upcoming nights listed on soundcheck as of Fri, 11 Sept 2026; the next is "Splot Słoneczny // Summer State of Mind" on Sun, 13 Sept 2026.
+Tunelowa is a music venue in Warsaw with 3 upcoming nights listed on soundcheck as of Sat, 12 Sept 2026; the next is "Splot Słoneczny // Summer State of Mind" on Sun, 13 Sept 2026.
 
 Tunelowa is a music venue in Warsaw listed on soundcheck. 3 upcoming nights, with line-ups including 2K88, Arca, Blackhaine and Halina World and 2 more. Browse upcoming dates, start times and who's playing. Tunelowa 2A, 01-221 Warsaw, Poland.
 
@@ -16,4 +16,4 @@ Tunelowa is a music venue in Warsaw listed on soundcheck. 3 upcoming nights, wit
 
 Tunelowa 2A, 01-221 Warsaw, Poland, Warsaw
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/warsaw/club/tunelowa/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/warsaw/club/tunelowa/)*

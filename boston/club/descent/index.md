@@ -1,14 +1,13 @@
 # Descent
 
-Descent is a music venue in Boston with 9 upcoming nights listed on soundcheck as of Fri, 11 Sept 2026; the next is "Riddim House & Friends" on Fri, 11 Sept 2026.
+Descent is a music venue in Boston with 8 upcoming nights listed on soundcheck as of Sat, 12 Sept 2026; the next is "Riddim House & Friends" on Fri, 11 Sept 2026.
 
-Descent is a music venue in Boston listed on soundcheck. 9 upcoming nights, with line-ups including Adelaide (1), Alejandro Franco, Archie Hamilton and D.Dan and 2 more. Browse upcoming dates, start times and who's playing. 33 Dunster St, Camridge MA,02138.
+Descent is a music venue in Boston listed on soundcheck. 8 upcoming nights, with line-ups including Alejandro Franco, Archie Hamilton, D.Dan and DVS1 and 2 more. Browse upcoming dates, start times and who's playing. 33 Dunster St, Camridge MA,02138.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 11 Sept 2026 | Riddim House & Friends | Adelaide (1) |
 | Fri, 11 Sept 2026 | Riddim House & Friends |  |
 | Sat, 12 Sept 2026 | PROVINCE 44 presents Locky | Locky |
 | Sat, 12 Sept 2026 | PROVINCE 44 presents Locky | Locky |
@@ -22,4 +21,4 @@ Descent is a music venue in Boston listed on soundcheck. 9 upcoming nights, with
 
 33 Dunster St, Camridge MA,02138, Boston
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/boston/club/descent/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/boston/club/descent/)*

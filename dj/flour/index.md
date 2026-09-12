@@ -1,6 +1,6 @@
 # Flour
 
-Flour is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at The Wall Club, Naples on Sat, 12 Sept 2026.
+Flour is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at The Wall Club, Naples on Sat, 12 Sept 2026.
 
 Flour is a techno and trance artist based in Italy, tracked on soundcheck, with 19 sets logged across Amsterdam, Antwerp, Berlin and London and 3 more. Often billed alongside Rispoli Benito, Ellen Trenn and BLONDEX. Next up: The Wall Club, Naples on Sat 12 Sept.
 
@@ -26,4 +26,4 @@ Flour is a techno and trance artist based in Italy, tracked on soundcheck, with 
 
 Rispoli Benito, Ellen Trenn, BLONDEX
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/flour/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/flour/)*

@@ -1,6 +1,6 @@
 # YSY
 
-YSY is a music venue in Berlin with 1 upcoming night listed on soundcheck as of Fri, 11 Sept 2026; the next is "SWIRL with Riin and Tempestfeather" on Sat, 12 Sept 2026.
+YSY is a music venue in Berlin with 1 upcoming night listed on soundcheck as of Sat, 12 Sept 2026; the next is "SWIRL with Riin and Tempestfeather" on Sat, 12 Sept 2026.
 
 YSY is a music venue in Berlin listed on soundcheck. 1 upcoming night, with line-ups including Tempestfeather. Browse upcoming dates, start times and who's playing. Frankfurter Allee 23.
 
@@ -14,4 +14,4 @@ YSY is a music venue in Berlin listed on soundcheck. 1 upcoming night, with line
 
 Frankfurter Allee 23, Berlin
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/ysy/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/ysy/)*

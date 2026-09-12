@@ -1,6 +1,6 @@
 # Erika
 
-Erika is a Techno and Acid artist with 6 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at H0L0, New York City on Fri, 11 Sept 2026.
+Erika is a Techno and Acid artist with 6 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at H0L0, New York City on Fri, 11 Sept 2026.
 
 Erika is a techno and acid artist tracked on soundcheck, with 111 sets logged across Amsterdam, Berlin, Bristol and Brussels and 18 more. Often billed alongside BMG, Mike Servito and Derek Plaslaiko. Next up: H0L0, Newyorkcity on Fri 11 Sept.
 
@@ -17,6 +17,7 @@ Erika is a techno and acid artist tracked on soundcheck, with 111 sets logged ac
 
 ## Recently played
 
+- H0L0, New York City — Fri, 11 Sept 2026
 - export, Rotterdam — Fri, 28 Aug 2026
 - Marble Bar, Detroit — Sat, 1 Aug 2026
 - Tresor / Globus, Berlin — Sat, 25 Jul 2026
@@ -24,10 +25,9 @@ Erika is a techno and acid artist tracked on soundcheck, with 111 sets logged ac
 - Tresor / Globus, Berlin — Sat, 20 Jun 2026
 - Signal, New York City — Sat, 13 Jun 2026
 - Tangent Gallery, Detroit — Mon, 25 May 2026
-- Tangent Gallery, Detroit — Sun, 24 May 2026
 
 ## Shares bills with
 
 BMG, Mike Servito, Derek Plaslaiko
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/erika/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/erika/)*

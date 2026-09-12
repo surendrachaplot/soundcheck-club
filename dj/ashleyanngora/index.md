@@ -1,6 +1,6 @@
 # Ashley Anngora
 
-Ashley Anngora is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 11 Sept 2026, next at The Roxy, Los Angeles on Sat, 12 Sept 2026.
+Ashley Anngora is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 12 Sept 2026, next at The Roxy, Los Angeles on Sat, 12 Sept 2026.
 
 Ashley Anngora is a techno and house artist tracked on soundcheck, with 10 sets logged across Hamburg, Losangeles, Newyorkcity and Sanfrancisco and 1 more. Often billed alongside Artsychoke, David Gomez and Jacob Grosse. Next up: The Roxy, Losangeles on Sat 12 Sept.
 
@@ -25,4 +25,4 @@ Ashley Anngora is a techno and house artist tracked on soundcheck, with 10 sets 
 
 Artsychoke, David Gomez, Jacob Grosse
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ashleyanngora/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ashleyanngora/)*

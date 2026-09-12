@@ -1,6 +1,6 @@
 # 3 Minds
 
-3 Minds is a House and Tech House artist with 4 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona, Barcelona on Fri, 11 Sept 2026.
+3 Minds is a House and Tech House artist with 4 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona, Barcelona on Fri, 11 Sept 2026.
 
 3 Minds is a house and tech house artist based in United Kingdom, tracked on soundcheck, with 46 sets logged across Barcelona, Ibiza, Leeds and London and 3 more. Often billed alongside Terry Francis, Eddie Richards and Silverlining. Next up: TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona, Barcelona on Fri 11 Sept.
 
@@ -15,6 +15,7 @@
 
 ## Recently played
 
+- TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona, Barcelona — Fri, 11 Sept 2026
 - The Fox and Firkin, London — Sat, 1 Aug 2026
 - The Greyhound, London — Sat, 20 Jun 2026
 - Last Arch, London — Sat, 30 May 2026
@@ -22,10 +23,9 @@
 - Various Venues, London — Sat, 16 May 2026
 - Arch 535, London — Sun, 3 May 2026
 - TBA - Palace Vinyl - Brixton, London — Sun, 5 Apr 2026
-- TBA, London — Sat, 14 Mar 2026
 
 ## Shares bills with
 
 Terry Francis, Eddie Richards, Silverlining
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/3minds/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/3minds/)*

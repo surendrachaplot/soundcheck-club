@@ -1,14 +1,16 @@
 # Rick Wilhite
 
-Rick Wilhite is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 11 Sept 2026, next at Third Street Bar, Detroit on Sun, 13 Sept 2026.
+Rick Wilhite is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Third Street Bar, Detroit on Sun, 13 Sept 2026.
 
-Rick Wilhite is a house and techno artist based in United States of America, tracked on soundcheck, with 58 sets logged across Amsterdam, Chicago, Detroit and Melbourne and 3 more. Often billed alongside Delano Smith, Bruce Bailey and Jesse Cory. Next up: Third Street Bar, Detroit on Sun 13 Sept.
+Rick Wilhite is a house and techno artist based in United States of America, tracked on soundcheck, with 60 sets logged across Amsterdam, Chicago, Detroit and Melbourne and 4 more. Often billed alongside Delano Smith, Bruce Bailey and Jesse Cory. Next up: Third Street Bar, Detroit on Sun 13 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sun, 13 Sept 2026 | Third Street Bar | Detroit |
+| Fri, 25 Sept 2026 | Flash | Washington DC |
+| Sat, 24 Oct 2026 | Standard Time | Toronto |
 
 ## Recently played
 
@@ -25,4 +27,4 @@ Rick Wilhite is a house and techno artist based in United States of America, tra
 
 Delano Smith, Bruce Bailey, Jesse Cory
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/rickwilhite/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/rickwilhite/)*

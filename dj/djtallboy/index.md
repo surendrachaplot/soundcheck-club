@@ -1,6 +1,6 @@
 # DJ Tallboy
 
-DJ Tallboy is a Trance and Techno artist with 3 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at Lokschuppen Berlin, Berlin on Fri, 18 Sept 2026.
+DJ Tallboy is a Trance and Techno artist with 3 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Lokschuppen Berlin, Berlin on Fri, 18 Sept 2026.
 
 DJ Tallboy is a trance and techno artist tracked on soundcheck, with 61 sets logged across Berlin, Cologne, Hamburg and Leipzig and 8 more. Often billed alongside DJ Discostoff, Rosilicious and 4NOUK. Next up: Lokschuppen Berlin, Berlin on Fri 18 Sept.
 
@@ -27,4 +27,4 @@ DJ Tallboy is a trance and techno artist tracked on soundcheck, with 61 sets log
 
 DJ Discostoff, Rosilicious, 4NOUK
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djtallboy/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djtallboy/)*

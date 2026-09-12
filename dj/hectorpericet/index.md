@@ -1,6 +1,6 @@
 # Héctor Pericet
 
-Héctor Pericet is a Tech House and Minimal artist with 1 upcoming club date listed on soundcheck as of Fri, 11 Sept 2026, next at Sala ART, Madrid on Sat, 24 Oct 2026.
+Héctor Pericet is a Tech House and Minimal artist with 1 upcoming club date listed on soundcheck as of Sat, 12 Sept 2026, next at Sala ART, Madrid on Sat, 24 Oct 2026.
 
 Héctor Pericet is a tech house and minimal artist tracked on soundcheck, with 20 sets logged across Madrid. Often billed alongside Julio Machicado, Grau and Kily Ruiz. Next up: Sala ART, Madrid on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ Héctor Pericet is a tech house and minimal artist tracked on soundcheck, with 2
 
 Julio Machicado, Grau, Kily Ruiz
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/hectorpericet/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/hectorpericet/)*

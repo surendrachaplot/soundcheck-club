@@ -1,6 +1,6 @@
 # Frny
 
-Frny is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Fri, 11 Sept 2026, next at Paraiso Estereo, Miami on Fri, 30 Oct 2026.
+Frny is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Sat, 12 Sept 2026, next at Paraiso Estereo, Miami on Fri, 30 Oct 2026.
 
 Frny is a house and tech house artist tracked on soundcheck, with 33 sets logged across Miami and Newyorkcity. Often billed alongside Taj, John Patrick and Emma (7). Next up: Paraiso Estereo, Miami on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ Frny is a house and tech house artist tracked on soundcheck, with 33 sets logged
 
 Taj, John Patrick, Emma (7)
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/frny/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/frny/)*

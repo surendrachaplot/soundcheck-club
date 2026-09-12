@@ -1,6 +1,6 @@
 # Nori
 
-Nori is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at Publichouse-Ageya, Tokyo on Fri, 11 Sept 2026.
+Nori is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Publichouse-Ageya, Tokyo on Fri, 11 Sept 2026.
 
 Nori is a house and techno artist based in Japan, tracked on soundcheck, with 32 sets logged across Amsterdam, Berlin, Madrid and Paris and 2 more. Often billed alongside Da Yama, A Taut Line and DJ Bin. Next up: Publichouse-Ageya, Tokyo on Fri 11 Sept.
 
@@ -15,6 +15,7 @@ Nori is a house and techno artist based in Japan, tracked on soundcheck, with 32
 
 ## Recently played
 
+- Publichouse-Ageya, Tokyo — Fri, 11 Sept 2026
 - Débris, Tokyo — Thu, 3 Sept 2026
 - Suns Shimokitazawa, Tokyo — Sun, 30 Aug 2026
 - Enter Shibuya, Tokyo — Mon, 24 Aug 2026
@@ -22,10 +23,9 @@ Nori is a house and techno artist based in Japan, tracked on soundcheck, with 32
 - Publichouse-Ageya, Tokyo — Sat, 1 Aug 2026
 - Circus Tokyo, Tokyo — Sat, 18 Jul 2026
 - Café Katoen, Amsterdam — Thu, 9 Jul 2026
-- TBA - 14 rue des filles du calvaire, Paris, Paris — Sun, 21 Jun 2026
 
 ## Shares bills with
 
 Da Yama, A Taut Line, DJ Bin
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nori/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nori/)*

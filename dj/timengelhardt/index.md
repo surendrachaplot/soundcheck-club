@@ -1,6 +1,6 @@
 # Tim Engelhardt
 
-Tim Engelhardt is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 11 Sept 2026, next at Crane Hotel Faralda, Amsterdam on Thu, 22 Oct 2026.
+Tim Engelhardt is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 12 Sept 2026, next at Crane Hotel Faralda, Amsterdam on Thu, 22 Oct 2026.
 
 Tim Engelhardt is a house and techno artist tracked on soundcheck, with 65 sets logged across Amsterdam, Athens, Bali and Barcelona and 28 more. Often billed alongside MAGA, Sean Doron and Emanuel Satie. Next up: Crane Hotel Faralda, Amsterdam on Thu 22 Oct.
 
@@ -25,4 +25,4 @@ Tim Engelhardt is a house and techno artist tracked on soundcheck, with 65 sets 
 
 MAGA, Sean Doron, Emanuel Satie
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/timengelhardt/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/timengelhardt/)*

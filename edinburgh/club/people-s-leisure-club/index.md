@@ -1,8 +1,8 @@
 # People's Leisure Club
 
-People's Leisure Club is a music venue in Edinburgh with 18 upcoming nights listed on soundcheck as of Fri, 11 Sept 2026; the next is "La Beat Soul Club" on Fri, 11 Sept 2026.
+People's Leisure Club is a music venue in Edinburgh with 20 upcoming nights listed on soundcheck as of Sat, 12 Sept 2026; the next is "La Beat Soul Club" on Fri, 11 Sept 2026.
 
-People's Leisure Club is a music venue in Edinburgh listed on soundcheck. 18 upcoming nights, with line-ups including damside, Accident Machine, ACHIRĀ and Astro and 2 more. Browse upcoming dates, start times and who's playing. 45 Lothian Street, Edinburgh, EH1 1HB.
+People's Leisure Club is a music venue in Edinburgh listed on soundcheck. 20 upcoming nights, with line-ups including damside, Accident Machine, ACHIRĀ and Astro and 2 more. Browse upcoming dates, start times and who's playing. 45 Lothian Street, Edinburgh, EH1 1HB.
 
 ## What's on
 
@@ -14,13 +14,13 @@ People's Leisure Club is a music venue in Edinburgh listed on soundcheck. 18 upc
 | Thu, 17 Sept 2026 | ELEMENTS: SURPRISE | BORLEY |
 | Fri, 18 Sept 2026 | Microsteria with Auntie Flo & more… | Auntie Flo |
 | Sat, 19 Sept 2026 | LIKE THIS #028 | Main Ingredient, Marti-Time! |
+| Sat, 19 Sept 2026 | Spectrum Presents: Billy Daniel Bunter | Billy Daniel Bunter |
 | Sat, 26 Sept 2026 | Deep Excursions (Daytime): Marcellus Pittman - 4hr Set | Marcellus Pittman, Stephen Rodgers |
 | Wed, 30 Sept 2026 | dirty feeling |  |
 | Thu, 1 Oct 2026 | Not Waiting | Accident Machine, DMG Music |
-| Fri, 2 Oct 2026 | neurosignal: damside, noodle + Telfort | Telfort, damside, noodle |
 
 ## Address
 
 45 Lothian Street, Edinburgh, EH1 1HB, Edinburgh
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/edinburgh/club/people-s-leisure-club/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/edinburgh/club/people-s-leisure-club/)*

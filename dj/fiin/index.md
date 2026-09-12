@@ -1,6 +1,6 @@
 # Fiin
 
-Fiin is a House and Deep House artist with 2 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at Lion's Den, Miami on Sun, 13 Sept 2026.
+Fiin is a House and Deep House artist with 2 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Lion's Den, Miami on Sun, 13 Sept 2026.
 
 Fiin is a house and deep house artist tracked on soundcheck, with 15 sets logged across Miami. Often billed alongside Max Stern, Nii Tei and ALEJO (US). Next up: Lion's Den, Miami on Sun 13 Sept.
 
@@ -26,4 +26,4 @@ Fiin is a house and deep house artist tracked on soundcheck, with 15 sets logged
 
 Max Stern, Nii Tei, ALEJO (US)
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/fiin/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/fiin/)*

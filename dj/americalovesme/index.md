@@ -1,14 +1,15 @@
 # America Loves Me
 
-America Loves Me is a Techno and Club artist with 1 upcoming club date listed on soundcheck as of Fri, 11 Sept 2026, next at broad hall., Philadelphia on Sat, 26 Sept 2026.
+America Loves Me is a Techno and Club artist with 2 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at broad hall., Philadelphia on Sat, 26 Sept 2026.
 
-America Loves Me is a techno and club artist tracked on soundcheck, with 37 sets logged across Newyorkcity, Philadelphia and Washingtondc. Often billed alongside Angel Jelly, JEWELSSEA and miipmiip. Next up: broad hall., Philadelphia on Sat 26 Sept.
+America Loves Me is a techno and club artist tracked on soundcheck, with 38 sets logged across Newyorkcity, Philadelphia and Washingtondc. Often billed alongside Angel Jelly, JEWELSSEA and miipmiip. Next up: broad hall., Philadelphia on Sat 26 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 26 Sept 2026 | broad hall. | Philadelphia |
+| Sat, 3 Oct 2026 | TBA | Philadelphia |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ America Loves Me is a techno and club artist tracked on soundcheck, with 37 sets
 
 Angel Jelly, JEWELSSEA, miipmiip
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/americalovesme/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/americalovesme/)*

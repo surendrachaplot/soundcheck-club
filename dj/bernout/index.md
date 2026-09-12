@@ -1,6 +1,6 @@
 # BERNOUT
 
-BERNOUT is a House and Electro artist with 1 upcoming club date listed on soundcheck as of Fri, 11 Sept 2026, next at Azul Rooftop Barceloneta, Barcelona on Sun, 20 Sept 2026.
+BERNOUT is a House and Electro artist with 1 upcoming club date listed on soundcheck as of Sat, 12 Sept 2026, next at Azul Rooftop Barceloneta, Barcelona on Sun, 20 Sept 2026.
 
 BERNOUT is a house and electro artist based in Spain, tracked on soundcheck, with 7 sets logged across Barcelona. Often billed alongside Dimarziio, Crisalide and Djoan. Next up: Azul Rooftop Barceloneta, Barcelona on Sun 20 Sept.
 
@@ -23,4 +23,4 @@ BERNOUT is a house and electro artist based in Spain, tracked on soundcheck, wit
 
 Dimarziio, Crisalide, Djoan
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bernout/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bernout/)*

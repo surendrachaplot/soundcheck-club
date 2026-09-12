@@ -1,6 +1,6 @@
 # Anabel Arroyo
 
-Anabel Arroyo is a Techno and Trance artist with 6 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at Zoo, Geneva on Fri, 11 Sept 2026.
+Anabel Arroyo is a Techno and Trance artist with 6 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Zoo, Geneva on Fri, 11 Sept 2026.
 
 Anabel Arroyo is a techno and trance artist based in Spain, tracked on soundcheck, with 108 sets logged across Amsterdam, Athens, Barcelona and Berlin and 22 more. Often billed alongside James Newmarch, Voicedrone and Blasha & Allatt. Next up: Zoo, Geneva on Fri 11 Sept.
 
@@ -17,6 +17,7 @@ Anabel Arroyo is a techno and trance artist based in Spain, tracked on soundchec
 
 ## Recently played
 
+- Zoo, Geneva — Fri, 11 Sept 2026
 - FOLD, London — Sat, 5 Sept 2026
 - Tresor / Globus, Berlin — Sat, 29 Aug 2026
 - Sigma, Ibiza — Fri, 31 Jul 2026
@@ -24,10 +25,9 @@ Anabel Arroyo is a techno and trance artist based in Spain, tracked on soundchec
 - TBA -  LFO, Madrid — Fri, 5 Jun 2026
 - Knockdown Center, New York City — Thu, 14 May 2026
 - TBA - Powered by Void Acoustics, Madrid — Fri, 8 May 2026
-- FOLD, London — Sat, 2 May 2026
 
 ## Shares bills with
 
 James Newmarch, Voicedrone, Blasha & Allatt
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/anabelarroyo/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/anabelarroyo/)*

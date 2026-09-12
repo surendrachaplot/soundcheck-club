@@ -1,6 +1,6 @@
 # TBA - Unknown Open air
 
-TBA - Unknown Open air is a music venue in Paris with 1 upcoming night listed on soundcheck as of Fri, 11 Sept 2026; the next is "Pisitrance Open Air W/ Athzira, Faders, Talamasca & More" on Sat, 26 Sept 2026.
+TBA - Unknown Open air is a music venue in Paris with 1 upcoming night listed on soundcheck as of Sat, 12 Sept 2026; the next is "Pisitrance Open Air W/ Athzira, Faders, Talamasca & More" on Sat, 26 Sept 2026.
 
 TBA - Unknown Open air is a music venue in Paris listed on soundcheck. 1 upcoming night. Browse upcoming dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ TBA - Unknown Open air is a music venue in Paris listed on soundcheck. 1 upcomin
 | --- | --- | --- |
 | Sat, 26 Sept 2026 | Pisitrance Open Air W/ Athzira, Faders, Talamasca & More |  |
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/paris/club/tba-unknown-open-air/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/paris/club/tba-unknown-open-air/)*

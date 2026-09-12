@@ -1,6 +1,6 @@
 # --- mr ---
 
---- mr --- is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 11 Sept 2026, next at Bonobo, Tokyo on Sat, 12 Sept 2026.
+--- mr --- is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 12 Sept 2026, next at Bonobo, Tokyo on Sat, 12 Sept 2026.
 
 --- mr --- is a techno and house artist based in Japan, tracked on soundcheck, with 106 sets logged across Kyoto and Tokyo. Often billed alongside tom2, TIKE and Zeqoo. Next up: Bonobo, Tokyo on Sat 12 Sept.
 
@@ -25,4 +25,4 @@
 
 tom2, TIKE, Zeqoo
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/---mr---/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/---mr---/)*

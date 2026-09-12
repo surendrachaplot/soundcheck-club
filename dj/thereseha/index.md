@@ -1,6 +1,6 @@
 # Thérèse Ha
 
-Thérèse Ha is a R&B and Club artist with 1 upcoming club date listed on soundcheck as of Fri, 11 Sept 2026, next at Askip, Nantes on Thu, 17 Sept 2026.
+Thérèse Ha is a R&B and Club artist with 1 upcoming club date listed on soundcheck as of Sat, 12 Sept 2026, next at Askip, Nantes on Thu, 17 Sept 2026.
 
 Thérèse Ha is a r&b and club artist tracked on soundcheck, with 27 sets logged across Barcelona, Geneva, Madrid and Nantes. Often billed alongside ONA (SP), Ale Hope and Marta Mer. Next up: Askip, Nantes on Thu 17 Sept.
 
@@ -25,4 +25,4 @@ Thérèse Ha is a r&b and club artist tracked on soundcheck, with 27 sets logged
 
 ONA (SP), Ale Hope, Marta Mer
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/thereseha/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/thereseha/)*

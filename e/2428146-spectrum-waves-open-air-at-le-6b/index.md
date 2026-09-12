@@ -1,6 +1,6 @@
 # Spectrum Waves: OPEN AIR at Le 6b
 
-Spectrum Waves: OPEN AIR at Le 6b on Sat 12 Sept, Paris. Club. Preview the line-up and save it on soundcheck.
+Spectrum Waves: OPEN AIR at Le 6b on Sat 12 Sept, Paris. House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Da Vid
 
-Da Vid is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Fri, 11 Sept 2026, next at Tantra Bar Ibiza, Ibiza on Tue, 15 Sept 2026.
+Da Vid is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Sat, 12 Sept 2026, next at Tantra Bar Ibiza, Ibiza on Tue, 15 Sept 2026.
 
 Da Vid is a house and tech house artist tracked on soundcheck, with 24 sets logged across Amsterdam, Frankfurt, Ibiza and London and 7 more. Often billed alongside Marco Carola, Franky Rizardo and Ale De Tuglie. Next up: Tantra Bar Ibiza, Ibiza on Tue 15 Sept.
 
@@ -25,4 +25,4 @@ Da Vid is a house and tech house artist tracked on soundcheck, with 24 sets logg
 
 Marco Carola, Franky Rizardo, Ale De Tuglie
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/david-it/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/david-it/)*

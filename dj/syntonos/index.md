@@ -1,6 +1,6 @@
 # Syntonos
 
-Syntonos is a Tech House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 11 Sept 2026, next at Onder Hans, Amsterdam on Fri, 23 Oct 2026.
+Syntonos is a Tech House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 12 Sept 2026, next at Onder Hans, Amsterdam on Fri, 23 Oct 2026.
 
 Syntonos is a tech house and techno artist based in Ukraine, tracked on soundcheck, with 22 sets logged across Amsterdam, Barcelona, Berlin and Paris. Often billed alongside Volmaan, YANNIK (CH) and SACK (AR). Next up: Onder Hans, Amsterdam on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ Syntonos is a tech house and techno artist based in Ukraine, tracked on soundche
 
 Volmaan, YANNIK (CH), SACK (AR)
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/syntonos/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/syntonos/)*

@@ -1,6 +1,6 @@
 # Riku Takahashi
 
-Riku Takahashi is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 11 Sept 2026, next at Aoyama Hachi, Tokyo on Tue, 22 Sept 2026.
+Riku Takahashi is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 12 Sept 2026, next at Aoyama Hachi, Tokyo on Tue, 22 Sept 2026.
 
 Riku Takahashi is a techno and house artist tracked on soundcheck, with 6 sets logged across Tokyo. Often billed alongside Rikuto Shibazaki, shimosoma and Rikuto. Next up: Aoyama Hachi, Tokyo on Tue 22 Sept.
 
@@ -22,4 +22,4 @@ Riku Takahashi is a techno and house artist tracked on soundcheck, with 6 sets l
 
 Rikuto Shibazaki, shimosoma, Rikuto
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/rikutakahashi/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/rikutakahashi/)*

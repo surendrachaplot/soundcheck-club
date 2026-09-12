@@ -1,6 +1,6 @@
 # Shuta
 
-Shuta is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 11 Sept 2026, next at UTOPIA / DYSTOPIA, Tokyo on Sun, 20 Sept 2026.
+Shuta is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 12 Sept 2026, next at UTOPIA / DYSTOPIA, Tokyo on Sun, 20 Sept 2026.
 
 Shuta is a house and techno artist based in Japan, tracked on soundcheck, with 18 sets logged across Tokyo. Often billed alongside omeme_gangimari, 35DH-1 and COSMOGANG. Next up: UTOPIA / DYSTOPIA, Tokyo on Sun 20 Sept.
 
@@ -25,4 +25,4 @@ Shuta is a house and techno artist based in Japan, tracked on soundcheck, with 1
 
 omeme_gangimari, 35DH-1, COSMOGANG
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/shuta/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/shuta/)*

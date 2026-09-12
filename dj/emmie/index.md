@@ -1,6 +1,6 @@
 # EMMIE
 
-EMMIE is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 11 Sept 2026, next at Yamamori Tengu, Dublin on Sat, 10 Oct 2026.
+EMMIE is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 12 Sept 2026, next at Yamamori Tengu, Dublin on Sat, 10 Oct 2026.
 
 EMMIE is a techno and house artist based in Ireland, tracked on soundcheck, with 47 sets logged across Belfast, Berlin, Cork and Dublin and 3 more. Often billed alongside Tr One, Ayolxi and Offtrack. Next up: Yamamori Tengu, Dublin on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ EMMIE is a techno and house artist based in Ireland, tracked on soundcheck, with
 
 Tr One, Ayolxi, Offtrack
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/emmie/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/emmie/)*

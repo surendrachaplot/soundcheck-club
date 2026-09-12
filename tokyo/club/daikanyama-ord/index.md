@@ -1,6 +1,6 @@
 # Daikanyama ORD.
 
-Daikanyama ORD. is a music venue in Tokyo with 4 upcoming nights listed on soundcheck as of Fri, 11 Sept 2026; the next is "RESONANCE" on Sun, 13 Sept 2026.
+Daikanyama ORD. is a music venue in Tokyo with 4 upcoming nights listed on soundcheck as of Sat, 12 Sept 2026; the next is "RESONANCE" on Sun, 13 Sept 2026.
 
 Daikanyama ORD. is a music venue in Tokyo listed on soundcheck. 4 upcoming nights, with line-ups including DJason, DJ Sodeyama, Hackmarkt and HiRO (Hush Recordz Ltd.) and 2 more. Browse upcoming dates, start times and who's playing. za HOUSE 2F 1-34-17 ebisu-nishi shibuyaku tokyo.
 
@@ -17,4 +17,4 @@ Daikanyama ORD. is a music venue in Tokyo listed on soundcheck. 4 upcoming night
 
 za HOUSE 2F 1-34-17 ebisu-nishi shibuyaku tokyo, Tokyo
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/daikanyama-ord/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/daikanyama-ord/)*

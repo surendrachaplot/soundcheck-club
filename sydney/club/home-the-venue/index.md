@@ -1,6 +1,6 @@
 # Home The Venue
 
-Home The Venue is a music venue in Sydney with 2 upcoming nights listed on soundcheck as of Fri, 11 Sept 2026; the next is "ZURI feat. Nora En Pure (SWE)" on Fri, 18 Sept 2026.
+Home The Venue is a music venue in Sydney with 2 upcoming nights listed on soundcheck as of Sat, 12 Sept 2026; the next is "ZURI feat. Nora En Pure (SWE)" on Fri, 18 Sept 2026.
 
 Home The Venue is a music venue in Sydney listed on soundcheck. 2 upcoming nights, with line-ups including Dungeon Meat, Georgia Girl, Maison Ware and Nora En Pure and 2 more. Browse upcoming dates, start times and who's playing. 101 Wheat Rd; Darling Harbour, NSW 2000; Australia.
 
@@ -15,4 +15,4 @@ Home The Venue is a music venue in Sydney listed on soundcheck. 2 upcoming night
 
 101 Wheat Rd; Darling Harbour, NSW 2000; Australia, Sydney
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/sydney/club/home-the-venue/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/sydney/club/home-the-venue/)*

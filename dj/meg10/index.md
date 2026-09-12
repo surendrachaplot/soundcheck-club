@@ -1,6 +1,6 @@
 # Meg10
 
-Meg10 is a Techno and Club artist with 3 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at Colour Factory, London on Fri, 25 Sept 2026.
+Meg10 is a Techno and Club artist with 3 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Colour Factory, London on Fri, 25 Sept 2026.
 
 Meg10 is a techno and club artist tracked on soundcheck, with 140 sets logged across Amsterdam, Bangkok, Barcelona and Basel and 29 more. Often billed alongside Hanaby, DJ AYA and MCR-T. Next up: Colour Factory, London on Fri 25 Sept.
 
@@ -27,4 +27,4 @@ Meg10 is a techno and club artist tracked on soundcheck, with 140 sets logged ac
 
 Hanaby, DJ AYA, MCR-T
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/meg10/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/meg10/)*

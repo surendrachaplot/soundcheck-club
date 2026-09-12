@@ -1,14 +1,15 @@
 # CHLO (UK)
 
-CHLO (UK) is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Fri, 11 Sept 2026, next at Ministry Of Sound, London on Sat, 12 Sept 2026.
+CHLO (UK) is a Tech House and Deep House artist with 2 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Ministry Of Sound, London on Sat, 12 Sept 2026.
 
-CHLO (UK) is a tech house and house artist tracked on soundcheck, with 5 sets logged across London. Often billed alongside Brian Smith, DRIA and JAYDAA. Next up: Ministry Of Sound, London on Sat 12 Sept.
+CHLO (UK) is a tech house and deep house artist tracked on soundcheck, with 6 sets logged across London. Often billed alongside Brian Smith, DRIA and JAYDAA. Next up: Ministry Of Sound, London on Sat 12 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 12 Sept 2026 | Ministry Of Sound | London |
+| Wed, 16 Sept 2026 | XOYO | London |
 
 ## Recently played
 
@@ -21,4 +22,4 @@ CHLO (UK) is a tech house and house artist tracked on soundcheck, with 5 sets lo
 
 Brian Smith, DRIA, JAYDAA
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/chlo-uk/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/chlo-uk/)*

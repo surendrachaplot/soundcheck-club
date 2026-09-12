@@ -1,6 +1,6 @@
 # Lieke TR
 
-Lieke TR is a Bass and Electro artist with 1 upcoming club date listed on soundcheck as of Fri, 11 Sept 2026, next at Skatecafe, Amsterdam on Fri, 18 Sept 2026.
+Lieke TR is a Bass and Electro artist with 1 upcoming club date listed on soundcheck as of Sat, 12 Sept 2026, next at Skatecafe, Amsterdam on Fri, 18 Sept 2026.
 
 Lieke TR is a bass and electro artist tracked on soundcheck, with 37 sets logged across Amsterdam, Rotterdam, Thehague and Utrecht. Often billed alongside Jorn Liefdeshuis, askmelater and Akemiö Grey. Next up: Skatecafe, Amsterdam on Fri 18 Sept.
 
@@ -25,4 +25,4 @@ Lieke TR is a bass and electro artist tracked on soundcheck, with 37 sets logged
 
 Jorn Liefdeshuis, askmelater, Akemiö Grey
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/leiketr/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/leiketr/)*

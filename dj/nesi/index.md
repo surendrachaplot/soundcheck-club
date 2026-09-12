@@ -1,6 +1,6 @@
 # Nesi
 
-Nesi is a House and Tech House artist with 5 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at MH5 Rooftop, Munich on Sat, 12 Sept 2026.
+Nesi is a House and Tech House artist with 5 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at MH5 Rooftop, Munich on Sat, 12 Sept 2026.
 
 Nesi is a house and tech house artist tracked on soundcheck, with 235 sets logged across Barcelona, Berlin, Madrid and Munich and 1 more. Often billed alongside Piem, Alice Youngling and Alex Silva. Next up: MH5 Rooftop, Munich on Sat 12 Sept.
 
@@ -29,4 +29,4 @@ Nesi is a house and tech house artist tracked on soundcheck, with 235 sets logge
 
 Piem, Alice Youngling, Alex Silva
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nesi/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nesi/)*

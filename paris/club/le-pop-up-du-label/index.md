@@ -1,6 +1,6 @@
 # Le Pop-Up du Label
 
-Le Pop-Up du Label is a music venue in Paris with 4 upcoming nights listed on soundcheck as of Fri, 11 Sept 2026; the next is "ADAH DYLAN + THUNDER BAE + ANIMAL 404" on Sat, 12 Sept 2026.
+Le Pop-Up du Label is a music venue in Paris with 4 upcoming nights listed on soundcheck as of Sat, 12 Sept 2026; the next is "ADAH DYLAN + THUNDER BAE + ANIMAL 404" on Sat, 12 Sept 2026.
 
 Le Pop-Up du Label is a music venue in Paris listed on soundcheck. 4 upcoming nights, with line-ups including Hybu, Janus Rasmussen, Kalopsia and Komodo and 2 more. Browse upcoming dates, start times and who's playing. 14 rue Abel, 75012 - PARIS.
 
@@ -17,4 +17,4 @@ Le Pop-Up du Label is a music venue in Paris listed on soundcheck. 4 upcoming ni
 
 14 rue Abel, 75012 - PARIS, Paris
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/paris/club/le-pop-up-du-label/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/paris/club/le-pop-up-du-label/)*

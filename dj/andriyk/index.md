@@ -1,6 +1,6 @@
 # Andriy K.
 
-Andriy K. is a Ambient and Experimental artist with 2 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at Saltyacid Space, Berlin on Sat, 19 Sept 2026.
+Andriy K. is a Ambient and Experimental artist with 2 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Saltyacid Space, Berlin on Sat, 19 Sept 2026.
 
 Andriy K. is an ambient and experimental artist based in Ukraine, tracked on soundcheck, with 79 sets logged across Amsterdam, Basel, Berlin and Krakow and 10 more. Often billed alongside AXT, endléa and BLUME. Next up: Saltyacid Space, Berlin on Sat 19 Sept.
 
@@ -26,4 +26,4 @@ Andriy K. is an ambient and experimental artist based in Ukraine, tracked on sou
 
 AXT, endléa, BLUME
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/andriyk/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/andriyk/)*

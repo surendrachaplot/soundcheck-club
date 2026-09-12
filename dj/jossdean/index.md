@@ -1,6 +1,6 @@
 # Joss Dean
 
-Joss Dean is a House and Tech House artist with 12 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at 528 Ibiza, Ibiza on Sun, 13 Sept 2026.
+Joss Dean is a House and Tech House artist with 12 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at 528 Ibiza, Ibiza on Sun, 13 Sept 2026.
 
 Joss Dean is a house and tech house artist tracked on soundcheck, with 87 sets logged across Aberdeen, Amsterdam, Antwerp and Austin and 28 more. Often billed alongside Tommy Phillips, Max Dean and Ozzie Guven. Next up: 528 Ibiza, Ibiza on Sun 13 Sept.
 
@@ -36,4 +36,4 @@ Joss Dean is a house and tech house artist tracked on soundcheck, with 87 sets l
 
 Tommy Phillips, Max Dean, Ozzie Guven
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jossdean/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jossdean/)*

@@ -1,6 +1,6 @@
 # The Club (Málaga)
 
-The Club (Málaga) is a music venue in Malaga with 6 upcoming nights listed on soundcheck as of Fri, 11 Sept 2026; the next is "BAILE EUROPA: Neeiv · YPWR · CARO" on Fri, 11 Sept 2026.
+The Club (Málaga) is a music venue in Malaga with 6 upcoming nights listed on soundcheck as of Sat, 12 Sept 2026; the next is "BAILE EUROPA: Neeiv · YPWR · CARO" on Fri, 11 Sept 2026.
 
 The Club (Málaga) is a music venue in Malaga listed on soundcheck. 6 upcoming nights, with line-ups including Neeiv, SOSANDLOW and Timo Otten. Browse upcoming dates, start times and who's playing. Plaza San Francisco 8 29008 Malaga España.
 
@@ -19,4 +19,4 @@ The Club (Málaga) is a music venue in Malaga listed on soundcheck. 6 upcoming n
 
 Plaza San Francisco 8 29008 Malaga España, Malaga
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/malaga/club/the-club-m-laga/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/malaga/club/the-club-m-laga/)*

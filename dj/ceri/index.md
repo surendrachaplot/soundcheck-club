@@ -1,6 +1,6 @@
 # Ceri
 
-Ceri is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at Duke Of Tokyo, Amsterdam on Thu, 22 Oct 2026.
+Ceri is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Duke Of Tokyo, Amsterdam on Thu, 22 Oct 2026.
 
 Ceri is a house and techno artist based in United Kingdom, tracked on soundcheck, with 44 sets logged across Amsterdam, Austin, Berlin and Bristol and 10 more. Often billed alongside Kerri Chandler, DJ Deep and Adiel. Next up: Duke Of Tokyo, Amsterdam on Thu 22 Oct.
 
@@ -27,4 +27,4 @@ Ceri is a house and techno artist based in United Kingdom, tracked on soundcheck
 
 Kerri Chandler, DJ Deep, Adiel
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ceri/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ceri/)*

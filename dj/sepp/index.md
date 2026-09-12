@@ -1,6 +1,6 @@
 # Sepp
 
-Sepp is a Minimal and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at BRET, Amsterdam on Fri, 11 Sept 2026.
+Sepp is a Minimal and House artist with 2 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at BRET, Amsterdam on Fri, 11 Sept 2026.
 
 Sepp is a minimal and house artist tracked on soundcheck, with 108 sets logged across Amsterdam, Antwerp, Auckland and Barcelona and 29 more. Often billed alongside Nu Zau, Alci and Arapu. Next up: BRET, Amsterdam on Fri 11 Sept.
 
@@ -13,6 +13,7 @@ Sepp is a minimal and house artist tracked on soundcheck, with 108 sets logged a
 
 ## Recently played
 
+- BRET, Amsterdam — Fri, 11 Sept 2026
 - Jolene Downtown Miami, Miami — Fri, 28 Aug 2026
 - TBA, Los Angeles — Fri, 21 Aug 2026
 - TBA - Denver, Denver — Sat, 15 Aug 2026
@@ -20,10 +21,9 @@ Sepp is a minimal and house artist tracked on soundcheck, with 108 sets logged a
 - Kassa Boat, Budapest — Sat, 1 Aug 2026
 - Expirat Halele Carol, Bucharest — Sat, 25 Jul 2026
 - THE OTHER SIDE, Amsterdam — Sat, 18 Jul 2026
-- Bikini Club, Barcelona — Fri, 19 Jun 2026
 
 ## Shares bills with
 
 Nu Zau, Alci, Arapu
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sepp/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sepp/)*

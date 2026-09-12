@@ -1,6 +1,6 @@
 # Nicolle Velcro
 
-Nicolle Velcro is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at Lux Fragil, Lisbon on Fri, 11 Sept 2026.
+Nicolle Velcro is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Lux Fragil, Lisbon on Fri, 11 Sept 2026.
 
 Nicolle Velcro is a house and techno artist based in Brazil, tracked on soundcheck, with 30 sets logged across Lisbon. Often billed alongside Adam Purnell, Kemetic and AZM (1). Next up: Lux Fragil, Lisbon on Fri 11 Sept.
 
@@ -13,6 +13,7 @@ Nicolle Velcro is a house and techno artist based in Brazil, tracked on soundche
 
 ## Recently played
 
+- Lux Fragil, Lisbon — Fri, 11 Sept 2026
 - Cavo Rooftop, Lisbon — Sun, 6 Sept 2026
 - Village Underground Lisboa, Lisbon — Fri, 24 Jul 2026
 - Lux Fragil, Lisbon — Fri, 24 Jul 2026
@@ -20,10 +21,9 @@ Nicolle Velcro is a house and techno artist based in Brazil, tracked on soundche
 - Those Who Dance, Lisbon — Sun, 12 Jul 2026
 - Ministerium Club, Lisbon — Sat, 27 Jun 2026
 - Village Underground Lisboa, Lisbon — Fri, 26 Jun 2026
-- Casa Capitão, Lisbon — Fri, 29 May 2026
 
 ## Shares bills with
 
 Adam Purnell, Kemetic, AZM (1)
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nicollevelcro/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nicollevelcro/)*

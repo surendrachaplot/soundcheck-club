@@ -1,6 +1,6 @@
 # Etapp Kyle
 
-Etapp Kyle is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 11 Sept 2026, next at Macadam, Nantes on Sun, 18 Oct 2026.
+Etapp Kyle is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 12 Sept 2026, next at Macadam, Nantes on Sun, 18 Oct 2026.
 
 Etapp Kyle is a techno and house artist tracked on soundcheck, with 75 sets logged across Amsterdam, Auckland, Barcelona and Berlin and 31 more. Often billed alongside Daria Kolosova, Barker and Phase Fatale. Next up: Macadam, Nantes on Sun 18 Oct.
 
@@ -25,4 +25,4 @@ Etapp Kyle is a techno and house artist tracked on soundcheck, with 75 sets logg
 
 Daria Kolosova, Barker, Phase Fatale
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/etappkyle/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/etappkyle/)*

@@ -1,8 +1,8 @@
 # Wildish
 
-Wildish is a House and Tech House artist with 4 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at Colorado Charlie, The Hague on Sun, 13 Sept 2026.
+Wildish is a House and Tech House artist with 5 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Colorado Charlie, The Hague on Sun, 13 Sept 2026.
 
-Wildish is a house and tech house artist tracked on soundcheck, with 6 sets logged across Amsterdam, Cardiff, Leeds and London and 1 more. Often billed alongside Ellia Jaya, BTAY and Gaskin. Next up: Colorado Charlie, Thehague on Sun 13 Sept.
+Wildish is a house and tech house artist tracked on soundcheck, with 7 sets logged across Amsterdam, Cardiff, Leeds and London and 2 more. Often billed alongside Ellia Jaya, BTAY and Gaskin. Next up: Colorado Charlie, Thehague on Sun 13 Sept.
 
 ## Upcoming shows
 
@@ -12,6 +12,7 @@ Wildish is a house and tech house artist tracked on soundcheck, with 6 sets logg
 | Fri, 18 Sept 2026 | The Warehouse | Leeds |
 | Fri, 18 Sept 2026 | The Warehouse | Leeds |
 | Sat, 19 Sept 2026 | XOYO | London |
+| Fri, 13 Nov 2026 | NX Newcastle | Newcastle |
 
 ## Recently played
 
@@ -22,4 +23,4 @@ Wildish is a house and tech house artist tracked on soundcheck, with 6 sets logg
 
 Ellia Jaya, BTAY, Gaskin
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/wildish/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/wildish/)*

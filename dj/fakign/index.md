@@ -1,6 +1,6 @@
 # FAKIGN
 
-FAKIGN is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 11 Sept 2026, next at Hall, Tallinn on Fri, 18 Sept 2026.
+FAKIGN is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 12 Sept 2026, next at Hall, Tallinn on Fri, 18 Sept 2026.
 
 FAKIGN is a techno and house artist based in Estonia, tracked on soundcheck, with 7 sets logged across Berlin and Tallinn. Often billed alongside Labrighli, Valdagger and Charch. Next up: Hall, Tallinn on Fri 18 Sept.
 
@@ -23,4 +23,4 @@ FAKIGN is a techno and house artist based in Estonia, tracked on soundcheck, wit
 
 Labrighli, Valdagger, Charch
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/fakign/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/fakign/)*

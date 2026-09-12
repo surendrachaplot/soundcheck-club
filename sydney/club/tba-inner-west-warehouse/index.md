@@ -1,13 +1,13 @@
 # TBA - Inner West Warehouse
 
-TBA - Inner West Warehouse is a music venue in Sydney with 1 upcoming night listed on soundcheck as of Fri, 11 Sept 2026; the next is "DyK2k GiRL rAvE <3" on Fri, 25 Sept 2026.
+TBA - Inner West Warehouse is a music venue in Sydney with 1 upcoming night listed on soundcheck as of Sat, 12 Sept 2026; the next is "DyK2k GiRL rAvE <3" on Fri, 25 Sept 2026.
 
-TBA - Inner West Warehouse is a music venue in Sydney listed on soundcheck. 1 upcoming night, with line-ups including Crescendoll (AU). Browse upcoming dates, start times and who's playing.
+TBA - Inner West Warehouse is a music venue in Sydney listed on soundcheck. 1 upcoming night, with line-ups including Crescendoll (AU) and epoca_lipstick. Browse upcoming dates, start times and who's playing.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 25 Sept 2026 | DyK2k GiRL rAvE <3 | Crescendoll (AU) |
+| Fri, 25 Sept 2026 | DyK2k GiRL rAvE <3 | Crescendoll (AU), epoca_lipstick |
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/sydney/club/tba-inner-west-warehouse/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/sydney/club/tba-inner-west-warehouse/)*

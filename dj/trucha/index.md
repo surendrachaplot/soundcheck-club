@@ -1,6 +1,6 @@
 # Trucha
 
-Trucha is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at Sneaky Pete's, Edinburgh on Tue, 15 Sept 2026.
+Trucha is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Sneaky Pete's, Edinburgh on Tue, 15 Sept 2026.
 
 Trucha is a house and disco artist based in United Kingdom, tracked on soundcheck, with 27 sets logged across Austin and Edinburgh. Often billed alongside A Pavlo, Maya Hacker and Ben Kok (2). Next up: Sneaky Pete's, Edinburgh on Tue 15 Sept.
 
@@ -26,4 +26,4 @@ Trucha is a house and disco artist based in United Kingdom, tracked on soundchec
 
 A Pavlo, Maya Hacker, Ben Kok (2)
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/trucha/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/trucha/)*

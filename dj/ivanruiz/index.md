@@ -1,6 +1,6 @@
 # Ivan Ruiz
 
-Ivan Ruiz is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 11 Sept 2026, next at F8 1192 Folsom, San Francisco/Oakland on Wed, 16 Sept 2026.
+Ivan Ruiz is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 12 Sept 2026, next at F8 1192 Folsom, San Francisco/Oakland on Wed, 16 Sept 2026.
 
 Ivan Ruiz is a house and techno artist tracked on soundcheck, with 9 sets logged across Sanfrancisco. Often billed alongside Heather Besos, Homero Espinosa and Mark Farina. Next up: F8 1192 Folsom, Sanfrancisco on Wed 16 Sept.
 
@@ -25,4 +25,4 @@ Ivan Ruiz is a house and techno artist tracked on soundcheck, with 9 sets logged
 
 Heather Besos, Homero Espinosa, Mark Farina
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ivanruiz/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ivanruiz/)*

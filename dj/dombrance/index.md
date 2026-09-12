@@ -1,6 +1,6 @@
 # Dombrance
 
-Dombrance is a Disco and Electronica artist with 3 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at Kater, Berlin on Fri, 11 Sept 2026.
+Dombrance is a Disco and Electronica artist with 3 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Kater, Berlin on Fri, 11 Sept 2026.
 
 Dombrance is a disco and electronica artist tracked on soundcheck, with 39 sets logged across Barcelona, Berlin, Brighton and Bucharest and 10 more. Often billed alongside Discolypso Crew, Isaac Ferry and Freudenthal. Next up: Kater, Berlin on Fri 11 Sept.
 
@@ -14,6 +14,7 @@ Dombrance is a disco and electronica artist tracked on soundcheck, with 39 sets 
 
 ## Recently played
 
+- Kater, Berlin — Fri, 11 Sept 2026
 - Praia Irmão, Lisbon — Fri, 17 Jul 2026
 - Jean’s, New York City — Thu, 25 Jun 2026
 - Frontón Bucareli, Mexico City — Fri, 12 Jun 2026
@@ -21,10 +22,9 @@ Dombrance is a disco and electronica artist tracked on soundcheck, with 39 sets 
 - Virage, Paris — Sat, 27 Sept 2025
 - TBA - KABAROUF, Marseille — Thu, 17 Jul 2025
 - KOKO, London — Sat, 24 May 2025
-- WaterBear Venue, Brighton — Sat, 3 May 2025
 
 ## Shares bills with
 
 Discolypso Crew, Isaac Ferry, Freudenthal
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dombrance/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dombrance/)*

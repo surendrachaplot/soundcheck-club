@@ -1,6 +1,6 @@
 # Trainscendence
 
-Trainscendence is a music venue in Melbourne with 3 upcoming nights listed on soundcheck as of Fri, 11 Sept 2026; the next is "A GYMjot Project: Off Mic" on Wed, 16 Sept 2026.
+Trainscendence is a music venue in Melbourne with 3 upcoming nights listed on soundcheck as of Sat, 12 Sept 2026; the next is "A GYMjot Project: Off Mic" on Wed, 16 Sept 2026.
 
 Trainscendence is a music venue in Melbourne listed on soundcheck. 3 upcoming nights, with line-ups including CHARBINKS and MzRizk. Browse upcoming dates, start times and who's playing. Entrance via Rear Laneway, Unit 6/48 Easey St, off Budd St, Collingwood VIC 3066.
 
@@ -16,4 +16,4 @@ Trainscendence is a music venue in Melbourne listed on soundcheck. 3 upcoming ni
 
 Entrance via Rear Laneway, Unit 6/48 Easey St, off Budd St, Collingwood VIC 3066, Melbourne
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/trainscendence/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/trainscendence/)*

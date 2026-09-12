@@ -1,6 +1,6 @@
 # Kanem
 
-Kanem is a House and Deep House artist with 2 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at The Fox and Firkin, London on Sat, 12 Sept 2026.
+Kanem is a House and Deep House artist with 2 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at The Fox and Firkin, London on Sat, 12 Sept 2026.
 
 Kanem is a house and deep house artist tracked on soundcheck, with 16 sets logged across London. Often billed alongside Kojay, P-Lucas and Midnight Runner. Next up: The Fox and Firkin, London on Sat 12 Sept.
 
@@ -26,4 +26,4 @@ Kanem is a house and deep house artist tracked on soundcheck, with 16 sets logge
 
 Kojay, P-Lucas, Midnight Runner
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kanem/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kanem/)*

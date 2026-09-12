@@ -1,6 +1,6 @@
 # Lampé
 
-Lampé is a Techno and Minimal artist with 1 upcoming club date listed on soundcheck as of Fri, 11 Sept 2026, next at Culture Box, Copenhagen on Sat, 7 Nov 2026.
+Lampé is a Techno and Minimal artist with 1 upcoming club date listed on soundcheck as of Sat, 12 Sept 2026, next at Culture Box, Copenhagen on Sat, 7 Nov 2026.
 
 Lampé is a techno and minimal artist based in Germany, tracked on soundcheck, with 44 sets logged across Berlin, Cologne, Copenhagen and Frankfurt and 7 more. Often billed alongside Konfusia, Joseph Disco and Naicet. Next up: Culture Box, Copenhagen on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ Lampé is a techno and minimal artist based in Germany, tracked on soundcheck, w
 
 Konfusia, Joseph Disco, Naicet
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lampe/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lampe/)*

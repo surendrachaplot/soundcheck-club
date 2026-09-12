@@ -1,6 +1,6 @@
 # Hania Rani
 
-Hania Rani is a Experimental and Classical artist with 1 upcoming club date listed on soundcheck as of Fri, 11 Sept 2026, next at MoN Takanawa: The Museum of Narratives, Tokyo on Fri, 20 Nov 2026.
+Hania Rani is a Experimental and Classical artist with 1 upcoming club date listed on soundcheck as of Sat, 12 Sept 2026, next at MoN Takanawa: The Museum of Narratives, Tokyo on Fri, 20 Nov 2026.
 
 Hania Rani is an experimental and classical artist tracked on soundcheck, with 14 sets logged across Austin, Berlin, Istanbul and London and 7 more. Often billed alongside 2K88, Arooj Aftab and Hashtag Ensemble. Next up: MoN Takanawa: The Museum of Narratives, Tokyo on Fri 20 Nov.
 
@@ -25,4 +25,4 @@ Hania Rani is an experimental and classical artist tracked on soundcheck, with 1
 
 2K88, Arooj Aftab, Hashtag Ensemble
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/haniarani/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/haniarani/)*

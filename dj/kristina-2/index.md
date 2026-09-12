@@ -1,6 +1,6 @@
 # Kristina (2)
 
-Kristina (2) is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 11 Sept 2026, next at Ministerium Club, Lisbon on Sat, 19 Sept 2026.
+Kristina (2) is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 12 Sept 2026, next at Ministerium Club, Lisbon on Sat, 19 Sept 2026.
 
 Kristina (2) is a techno and house artist tracked on soundcheck, with 17 sets logged across Lisbon and Porto. Often billed alongside Jorge Caiado, Pedro Goya and Bernardo Vaz. Next up: Ministerium Club, Lisbon on Sat 19 Sept.
 
@@ -25,4 +25,4 @@ Kristina (2) is a techno and house artist tracked on soundcheck, with 17 sets lo
 
 Jorge Caiado, Pedro Goya, Bernardo Vaz
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kristina-2/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kristina-2/)*

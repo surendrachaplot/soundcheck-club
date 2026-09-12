@@ -1,6 +1,6 @@
 # Nikki Carvell
 
-Nikki Carvell is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Fri, 11 Sept 2026, next at Ministry Of Sound, London on Sat, 19 Sept 2026.
+Nikki Carvell is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Sat, 12 Sept 2026, next at Ministry Of Sound, London on Sat, 19 Sept 2026.
 
 Nikki Carvell is a house and disco artist tracked on soundcheck, with 12 sets logged across Brisbane, Ibiza, London and Sydney. Often billed alongside Callyy, Jerry Drew and AMO. Next up: Ministry Of Sound, London on Sat 19 Sept.
 
@@ -25,4 +25,4 @@ Nikki Carvell is a house and disco artist tracked on soundcheck, with 12 sets lo
 
 Callyy, Jerry Drew, AMO
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nikkicarvell/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nikkicarvell/)*

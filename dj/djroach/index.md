@@ -1,14 +1,15 @@
 # DJ Roach
 
-DJ Roach is a Techno and Electro artist with 2 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at TBA - Cass Corridor, Detroit on Sat, 12 Sept 2026.
+DJ Roach is a Techno and Electro artist with 3 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at TBA - Cass Corridor, Detroit on Sat, 12 Sept 2026.
 
-DJ Roach is a techno and electro artist tracked on soundcheck, with 38 sets logged across Amsterdam, Boston, Detroit and Toronto and 1 more. Often billed alongside DJ Godfather, Detroit Techno Militia 2x4 and Drivetrain. Next up: TBA - Cass Corridor, Detroit on Sat 12 Sept.
+DJ Roach is a techno and electro artist tracked on soundcheck, with 39 sets logged across Amsterdam, Boston, Detroit and Toronto and 1 more. Often billed alongside DJ Godfather, Detroit Techno Militia 2x4 and Drivetrain. Next up: TBA - Cass Corridor, Detroit on Sat 12 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 12 Sept 2026 | TBA - Cass Corridor | Detroit |
+| Wed, 21 Oct 2026 | Noorderlicht Café | Amsterdam |
 | Thu, 22 Oct 2026 | Killacutz | Amsterdam |
 
 ## Recently played
@@ -26,4 +27,4 @@ DJ Roach is a techno and electro artist tracked on soundcheck, with 38 sets logg
 
 DJ Godfather, Detroit Techno Militia 2x4, Drivetrain
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djroach/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djroach/)*

@@ -1,6 +1,6 @@
 # Soli City
 
-Soli City is a New Wave and Ambient artist with 2 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at Loppen Christiania, Copenhagen on Fri, 25 Sept 2026.
+Soli City is a New Wave and Ambient artist with 2 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Loppen Christiania, Copenhagen on Fri, 25 Sept 2026.
 
 Soli City is a new wave and ambient artist based in Denmark, tracked on soundcheck, with 18 sets logged across Berlin, Brussels, Copenhagen and Osaka and 2 more. Often billed alongside Croatian Amor, Ryong and oqbqbo. Next up: Loppen Christiania, Copenhagen on Fri 25 Sept.
 
@@ -26,4 +26,4 @@ Soli City is a new wave and ambient artist based in Denmark, tracked on soundche
 
 Croatian Amor, Ryong, oqbqbo
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/solicity/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/solicity/)*

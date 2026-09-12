@@ -1,6 +1,6 @@
 # Gezender
 
-Gezender is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 11 Sept 2026, next at Home Club, Sao Paulo on Sun, 13 Sept 2026.
+Gezender is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 12 Sept 2026, next at Home Club, Sao Paulo on Sun, 13 Sept 2026.
 
 Gezender is a house and techno artist based in Brazil, tracked on soundcheck, with 57 sets logged across Amsterdam, Berlin, Buenosaires and Lisbon and 5 more. Often billed alongside NAIR, Paulete Lindacelva and Cherolainne. Next up: Home Club, Saopaulo on Sun 13 Sept.
 
@@ -25,4 +25,4 @@ Gezender is a house and techno artist based in Brazil, tracked on soundcheck, wi
 
 NAIR, Paulete Lindacelva, Cherolainne
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/gezender/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/gezender/)*

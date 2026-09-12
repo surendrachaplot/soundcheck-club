@@ -1,14 +1,14 @@
 # Kevin Sy
 
-Kevin Sy is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 11 Sept 2026, next at Tuff Club, Singapore on Sat, 12 Sept 2026.
+Kevin Sy is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 12 Sept 2026, next at Exit Reality, Singapore on Sat, 12 Sept 2026.
 
-Kevin Sy is a house and techno artist tracked on soundcheck, with 42 sets logged across Singapore and Tokyo. Often billed alongside sho&tell, VAIBS and Emma SS. Next up: Tuff Club, Singapore on Sat 12 Sept.
+Kevin Sy is a house and techno artist tracked on soundcheck, with 42 sets logged across Singapore and Tokyo. Often billed alongside sho&tell, VAIBS and Emma SS. Next up: Exit Reality, Singapore on Sat 12 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 12 Sept 2026 | Tuff Club | Singapore |
+| Sat, 12 Sept 2026 | Exit Reality | Singapore |
 
 ## Recently played
 
@@ -25,4 +25,4 @@ Kevin Sy is a house and techno artist tracked on soundcheck, with 42 sets logged
 
 sho&tell, VAIBS, Emma SS
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kevinsy/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kevinsy/)*

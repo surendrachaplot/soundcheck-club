@@ -1,8 +1,8 @@
 # Room 2 Glasgow
 
-Room 2 Glasgow is a music venue in Glasgow with 15 upcoming nights listed on soundcheck as of Fri, 11 Sept 2026; the next is "ABRUPT presents LESSSS + more" on Fri, 11 Sept 2026.
+Room 2 Glasgow is a music venue in Glasgow with 16 upcoming nights listed on soundcheck as of Sat, 12 Sept 2026; the next is "ABRUPT presents LESSSS + more" on Fri, 11 Sept 2026.
 
-Room 2 Glasgow is a music venue in Glasgow listed on soundcheck. 15 upcoming nights, with line-ups including Girls of the Internet, Jalo, KIRSTY and LESSSS and 2 more. Browse upcoming dates, start times and who's playing. 69 Nelson Mandela Pl, Glasgow G2 1QY, United Kingdom.
+Room 2 Glasgow is a music venue in Glasgow listed on soundcheck. 16 upcoming nights, with line-ups including Girls of the Internet, Jalo, KIRSTY and LESSSS and 2 more. Browse upcoming dates, start times and who's playing. 69 Nelson Mandela Pl, Glasgow G2 1QY, United Kingdom.
 
 ## What's on
 
@@ -10,6 +10,7 @@ Room 2 Glasgow is a music venue in Glasgow listed on soundcheck. 15 upcoming nig
 | --- | --- | --- |
 | Fri, 11 Sept 2026 | ABRUPT presents LESSSS + more | LESSSS |
 | Sat, 12 Sept 2026 | LOVEHATE x OBSCURA B2B ALL NIGHT LONG |  |
+| Sat, 12 Sept 2026 | Azumaya -Thursday- | suimin |
 | Fri, 18 Sept 2026 | NØXX Presents: INFLICTION x REDHOT | MXWLL |
 | Sat, 19 Sept 2026 | Kitchen Gaff Presents: Mortis, Swanny + Support | TYZM |
 | Sun, 27 Sept 2026 | DISFUNCTION x BOUNCE: Pawlowski | Pawlowski (UK) |
@@ -17,10 +18,9 @@ Room 2 Glasgow is a music venue in Glasgow listed on soundcheck. 15 upcoming nig
 | Sat, 3 Oct 2026 | Unbound x Obscura presents: Redbatun & Luwck |  |
 | Sat, 10 Oct 2026 | Havox x Demolition Pres: Anoluxx & Dros b2b Nøvar |  |
 | Fri, 23 Oct 2026 | ABRUPT presents NEEK + more | Neek |
-| Sat, 24 Oct 2026 | Teletech Glasgow: KIRSTY [All Night Long] | KIRSTY |
 
 ## Address
 
 69 Nelson Mandela Pl, Glasgow G2 1QY, United Kingdom, Glasgow
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/room-2-glasgow/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/room-2-glasgow/)*

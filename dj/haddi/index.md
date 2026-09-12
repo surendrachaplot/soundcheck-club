@@ -1,6 +1,6 @@
 # HADDI
 
-HADDI is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at The Miller, London on Fri, 25 Sept 2026.
+HADDI is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at The Miller, London on Fri, 25 Sept 2026.
 
 HADDI is a techno and house artist tracked on soundcheck, with 4 sets logged across Amsterdam and London. Often billed alongside Alex M.O.R.P.H., AzilA and Bertie. Next up: The Miller, London on Fri 25 Sept.
 
@@ -20,4 +20,4 @@ HADDI is a techno and house artist tracked on soundcheck, with 4 sets logged acr
 
 Alex M.O.R.P.H., AzilA, Bertie
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/haddi/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/haddi/)*

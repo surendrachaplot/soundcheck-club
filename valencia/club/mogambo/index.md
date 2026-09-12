@@ -1,6 +1,6 @@
 # Mogambo
 
-Mogambo is a music venue in Valencia with 1 upcoming night listed on soundcheck as of Fri, 11 Sept 2026; the next is "SAT + GORDO" on Fri, 11 Sept 2026.
+Mogambo is a music venue in Valencia with 1 upcoming night listed on soundcheck as of Sat, 12 Sept 2026; the next is "SAT + GORDO" on Fri, 11 Sept 2026.
 
 Mogambo is a music venue in Valencia listed on soundcheck. 1 upcoming night. Browse upcoming dates, start times and who's playing. Calle de La Sangre 9, 46002 Valencia, Spain.
 
@@ -14,4 +14,4 @@ Mogambo is a music venue in Valencia listed on soundcheck. 1 upcoming night. Bro
 
 Calle de La Sangre 9, 46002 Valencia, Spain, Valencia
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/valencia/club/mogambo/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/valencia/club/mogambo/)*

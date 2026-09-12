@@ -1,6 +1,6 @@
 # MFCC Arena
 
-MFCC Arena is a music venue in Malta with 1 upcoming night listed on soundcheck as of Fri, 11 Sept 2026; the next is "DALMA Festival 2026" on Fri, 4 Dec 2026.
+MFCC Arena is a music venue in Malta with 1 upcoming night listed on soundcheck as of Sat, 12 Sept 2026; the next is "DALMA Festival 2026" on Fri, 4 Dec 2026.
 
 MFCC Arena is a music venue in Malta listed on soundcheck. 1 upcoming night, with line-ups including Adrian Mills, Anetha, Chlär and chouhal and 2 more. Browse upcoming dates, start times and who's playing. Ta Qali, Limits of Rabat, Malta.
 
@@ -14,4 +14,4 @@ MFCC Arena is a music venue in Malta listed on soundcheck. 1 upcoming night, wit
 
 Ta Qali, Limits of Rabat, Malta, Malta
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/malta/club/mfcc-arena/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/malta/club/mfcc-arena/)*

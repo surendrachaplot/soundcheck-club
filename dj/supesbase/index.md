@@ -1,6 +1,6 @@
 # Supes Base
 
-Supes Base is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at Hart Bar, New York City on Sat, 12 Sept 2026.
+Supes Base is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Hart Bar, New York City on Sat, 12 Sept 2026.
 
 Supes Base is a house and disco artist tracked on soundcheck, with 19 sets logged across Chicago, Newyorkcity, Portland and Tokyo. Often billed alongside la Monz, Harp la Monz and Heavy Halo. Next up: Hart Bar, Newyorkcity on Sat 12 Sept.
 
@@ -26,4 +26,4 @@ Supes Base is a house and disco artist tracked on soundcheck, with 19 sets logge
 
 la Monz, Harp la Monz, Heavy Halo
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/supesbase/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/supesbase/)*

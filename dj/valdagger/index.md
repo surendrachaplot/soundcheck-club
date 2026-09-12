@@ -1,6 +1,6 @@
 # Valdagger
 
-Valdagger is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Fri, 11 Sept 2026, next at Hall, Tallinn on Fri, 18 Sept 2026.
+Valdagger is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Sat, 12 Sept 2026, next at Hall, Tallinn on Fri, 18 Sept 2026.
 
 Valdagger is a techno and trance artist tracked on soundcheck, with 11 sets logged across Berlin, Krakow, Paris and Riga and 2 more. Often billed alongside Labrighli, FAKIGN and Lene Ma Rue. Next up: Hall, Tallinn on Fri 18 Sept.
 
@@ -25,4 +25,4 @@ Valdagger is a techno and trance artist tracked on soundcheck, with 11 sets logg
 
 Labrighli, FAKIGN, Lene Ma Rue
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/valdagger/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/valdagger/)*

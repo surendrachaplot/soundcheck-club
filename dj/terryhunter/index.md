@@ -1,6 +1,6 @@
 # Terry Hunter
 
-Terry Hunter is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Fri, 11 Sept 2026, next at Port of Leith Distillery, Edinburgh on Sat, 12 Sept 2026.
+Terry Hunter is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Sat, 12 Sept 2026, next at Port of Leith Distillery, Edinburgh on Sat, 12 Sept 2026.
 
 Terry Hunter is a house and deep house artist tracked on soundcheck, with 96 sets logged across Amsterdam, Barcelona, Chicago and Detroit and 10 more. Often billed alongside Mike Dunn, Wayne Williams and Adorio. Next up: Port of Leith Distillery, Edinburgh on Sat 12 Sept.
 
@@ -25,4 +25,4 @@ Terry Hunter is a house and deep house artist tracked on soundcheck, with 96 set
 
 Mike Dunn, Wayne Williams, Adorio
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/terryhunter/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/terryhunter/)*

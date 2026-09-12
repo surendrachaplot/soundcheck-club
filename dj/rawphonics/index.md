@@ -1,6 +1,6 @@
 # Raw Phonics
 
-Raw Phonics is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Fri, 11 Sept 2026, next at LoHi, New York City on Sat, 12 Sept 2026.
+Raw Phonics is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Sat, 12 Sept 2026, next at LoHi, New York City on Sat, 12 Sept 2026.
 
 Raw Phonics is a house and minimal artist based in United States of America, tracked on soundcheck, with 45 sets logged across Newyorkcity and Philadelphia. Often billed alongside Armii1n, Auphoria and Antiics. Next up: LoHi, Newyorkcity on Sat 12 Sept.
 
@@ -25,4 +25,4 @@ Raw Phonics is a house and minimal artist based in United States of America, tra
 
 Armii1n, Auphoria, Antiics
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/rawphonics/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/rawphonics/)*

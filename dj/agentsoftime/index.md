@@ -1,6 +1,6 @@
 # Agents Of Time
 
-Agents Of Time is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at TBA - Brussels, Brussels on Fri, 11 Sept 2026.
+Agents Of Time is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at TBA - Brussels, Brussels on Fri, 11 Sept 2026.
 
 Agents Of Time is a techno and house artist tracked on soundcheck, with 122 sets logged across Amsterdam, Athens, Austin and Bali and 37 more. Often billed alongside Stephan Bodzin, Henri Bergmann and Artbat. Next up: TBA - Brussels, Brussels on Fri 11 Sept.
 
@@ -17,6 +17,7 @@ Agents Of Time is a techno and house artist tracked on soundcheck, with 122 sets
 
 ## Recently played
 
+- TBA - Brussels, Brussels — Fri, 11 Sept 2026
 - Strijkviertel, Utrecht — Sat, 5 Sept 2026
 - TBA - Mandarine Tent, Punta Carrasco, Buenos Aires — Sat, 22 Aug 2026
 - Avalon Hollywood, Los Angeles — Fri, 3 Jul 2026
@@ -24,10 +25,9 @@ Agents Of Time is a techno and house artist tracked on soundcheck, with 122 sets
 - Phoenix Concert Theatre, Toronto — Sat, 16 May 2026
 - Galopprennbahn, Munich — Sat, 9 May 2026
 - Ushuaïa Ibiza, Ibiza — Wed, 6 May 2026
-- Óbuda Bay, Budapest — Sat, 18 Apr 2026
 
 ## Shares bills with
 
 Stephan Bodzin, Henri Bergmann, Artbat
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/agentsoftime/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/agentsoftime/)*

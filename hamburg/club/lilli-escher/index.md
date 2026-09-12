@@ -1,14 +1,13 @@
 # Lilli Escher
 
-Lilli Escher is a music venue in Hamburg with 12 upcoming nights listed on soundcheck as of Fri, 11 Sept 2026; the next is "Murphy" on Fri, 11 Sept 2026.
+Lilli Escher is a music venue in Hamburg with 11 upcoming nights listed on soundcheck as of Sat, 12 Sept 2026; the next is "Lesbihonest" on Sat, 12 Sept 2026.
 
-Lilli Escher is a music venue in Hamburg listed on soundcheck. 12 upcoming nights, with line-ups including Fovian, Ilja Franz, Ludwig Mausberg and MANU OWUSU and 2 more. Browse upcoming dates, start times and who's playing. Max-Brauer-Allee 279, 22769 Hamburg, Germany.
+Lilli Escher is a music venue in Hamburg listed on soundcheck. 11 upcoming nights, with line-ups including Fovian, Ilja Franz, Ludwig Mausberg and MANU OWUSU and 2 more. Browse upcoming dates, start times and who's playing. Max-Brauer-Allee 279, 22769 Hamburg, Germany.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 11 Sept 2026 | Murphy | Murphy |
 | Sat, 12 Sept 2026 | Lesbihonest |  |
 | Tue, 15 Sept 2026 | Noah James | NOAH JAMES |
 | Wed, 16 Sept 2026 | Señor Rita |  |
@@ -18,9 +17,10 @@ Lilli Escher is a music venue in Hamburg listed on soundcheck. 12 upcoming night
 | Tue, 22 Sept 2026 | SIduationship |  |
 | Wed, 23 Sept 2026 | Ludwig Mausberg | Ludwig Mausberg |
 | Thu, 24 Sept 2026 | Marla Tsunami & manu Owusu | MANU OWUSU |
+| Fri, 25 Sept 2026 | Softmotiv |  |
 
 ## Address
 
 Max-Brauer-Allee 279, 22769 Hamburg, Germany, Hamburg
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/hamburg/club/lilli-escher/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/hamburg/club/lilli-escher/)*

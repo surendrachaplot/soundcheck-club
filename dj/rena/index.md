@@ -1,6 +1,6 @@
 # Rena
 
-Rena is a Techno and Hip-Hop artist with 1 upcoming club date listed on soundcheck as of Fri, 11 Sept 2026, next at Yodo Groove (Yodobashi Ikebukuro), Tokyo on Sat, 19 Sept 2026.
+Rena is a Techno and Hip-Hop artist with 1 upcoming club date listed on soundcheck as of Sat, 12 Sept 2026, next at Yodo Groove (Yodobashi Ikebukuro), Tokyo on Sat, 19 Sept 2026.
 
 Rena is a techno and hip-hop artist tracked on soundcheck, with 10 sets logged across Athens, Newyorkcity and Tokyo. Often billed alongside IMPVLSIV, BACCHE and LUCID.. Next up: Yodo Groove (Yodobashi Ikebukuro), Tokyo on Sat 19 Sept.
 
@@ -25,4 +25,4 @@ Rena is a techno and hip-hop artist tracked on soundcheck, with 10 sets logged a
 
 IMPVLSIV, BACCHE, LUCID.
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/rena/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/rena/)*

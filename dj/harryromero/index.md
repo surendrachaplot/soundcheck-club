@@ -1,8 +1,8 @@
 # Harry Romero
 
-Harry Romero is a House and Tech House artist with 5 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at Chinois Ibiza, Ibiza on Thu, 17 Sept 2026.
+Harry Romero is a House and Tech House artist with 6 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Chinois Ibiza, Ibiza on Thu, 17 Sept 2026.
 
-Harry Romero is a house and tech house artist based in United States of America, tracked on soundcheck, with 45 sets logged across Amsterdam, Austin, Barcelona and Berlin and 15 more. Often billed alongside Nic Fanciulli, Danny Howard and Darius Syrossian. Next up: Chinois Ibiza, Ibiza on Thu 17 Sept.
+Harry Romero is a house and tech house artist based in United States of America, tracked on soundcheck, with 46 sets logged across Amsterdam, Austin, Barcelona and Berlin and 15 more. Often billed alongside Nic Fanciulli, Danny Howard and Darius Syrossian. Next up: Chinois Ibiza, Ibiza on Thu 17 Sept.
 
 ## Upcoming shows
 
@@ -13,6 +13,7 @@ Harry Romero is a house and tech house artist based in United States of America,
 | Mon, 28 Sept 2026 | Chinois Ibiza | Ibiza |
 | Thu, 1 Oct 2026 | TBA - Various Venues | Malta |
 | Thu, 1 Oct 2026 | UNO MALTA | Malta |
+| Sat, 17 Oct 2026 | The Comfort Zone | Toronto |
 
 ## Recently played
 
@@ -29,4 +30,4 @@ Harry Romero is a house and tech house artist based in United States of America,
 
 Nic Fanciulli, Danny Howard, Darius Syrossian
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/harryromero/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/harryromero/)*

@@ -1,14 +1,15 @@
 # Mike Skinner
 
-Mike Skinner is a Garage and Bass artist with 1 upcoming club date listed on soundcheck as of Fri, 11 Sept 2026, next at The Prospect Building, Bristol on Sat, 17 Oct 2026.
+Mike Skinner is a Bass and Garage artist with 2 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at The Prospect Building, Bristol on Sat, 17 Oct 2026.
 
-Mike Skinner is a garage and bass artist tracked on soundcheck, with 17 sets logged across Berlin, Bristol, Dublin and Leeds and 2 more. Often billed alongside Jaguar, Eats Everything and Eliza Rose. Next up: The Prospect Building, Bristol on Sat 17 Oct.
+Mike Skinner is a bass and garage artist tracked on soundcheck, with 18 sets logged across Berlin, Bristol, Dublin and Leeds and 2 more. Often billed alongside Flava D, Jaguar and SGT Pokes. Next up: The Prospect Building, Bristol on Sat 17 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 17 Oct 2026 | The Prospect Building | Bristol |
+| Sat, 17 Oct 2026 | DRUMSHEDS | London |
 
 ## Recently played
 
@@ -23,6 +24,6 @@ Mike Skinner is a garage and bass artist tracked on soundcheck, with 17 sets log
 
 ## Shares bills with
 
-Jaguar, Eats Everything, Eliza Rose
+Flava D, Jaguar, SGT Pokes
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mikeskinner/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mikeskinner/)*

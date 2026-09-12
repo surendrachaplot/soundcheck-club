@@ -1,14 +1,15 @@
 # Mimmo Errico
 
-Mimmo Errico is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at Tantra Bar Ibiza, Ibiza on Sun, 13 Sept 2026.
+Mimmo Errico is a House and Tech House artist with 3 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Tantra Bar Ibiza, Ibiza on Sun, 13 Sept 2026.
 
-Mimmo Errico is a house and tech house artist tracked on soundcheck, with 42 sets logged across Barcelona, Ibiza, Losangeles and Rome and 1 more. Often billed alongside Viktor Martini, Frank Master and Dexter. Next up: Tantra Bar Ibiza, Ibiza on Sun 13 Sept.
+Mimmo Errico is a house and tech house artist tracked on soundcheck, with 43 sets logged across Barcelona, Ibiza, Losangeles and Rome and 1 more. Often billed alongside Viktor Martini, Frank Master and Dexter. Next up: Tantra Bar Ibiza, Ibiza on Sun 13 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sun, 13 Sept 2026 | Tantra Bar Ibiza | Ibiza |
+| Thu, 17 Sept 2026 | TBA - DERIENZO  | Rome |
 | Fri, 18 Sept 2026 | Lux Club | Barcelona |
 
 ## Recently played
@@ -26,4 +27,4 @@ Mimmo Errico is a house and tech house artist tracked on soundcheck, with 42 set
 
 Viktor Martini, Frank Master, Dexter
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mimmoerrico/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mimmoerrico/)*

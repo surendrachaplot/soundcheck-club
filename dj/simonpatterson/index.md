@@ -1,6 +1,6 @@
 # Simon Patterson
 
-Simon Patterson is a Trance and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at The Queen Mary, Los Angeles on Fri, 20 Nov 2026.
+Simon Patterson is a Trance and Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at The Queen Mary, Los Angeles on Fri, 20 Nov 2026.
 
 Simon Patterson is a trance and techno artist tracked on soundcheck, with 17 sets logged across London, Losangeles, Manchester and Montreal and 5 more. Often billed alongside John Askew, Mauro Picotto and Solarstone. Next up: The Queen Mary, Losangeles on Fri 20 Nov.
 
@@ -26,4 +26,4 @@ Simon Patterson is a trance and techno artist tracked on soundcheck, with 17 set
 
 John Askew, Mauro Picotto, Solarstone
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/simonpatterson/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/simonpatterson/)*

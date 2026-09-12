@@ -1,6 +1,6 @@
 # Bassel Darwish
 
-Bassel Darwish is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Fri, 11 Sept 2026, next at Sable Miami, Miami on Sat, 19 Sept 2026.
+Bassel Darwish is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Sat, 12 Sept 2026, next at Sable Miami, Miami on Sat, 19 Sept 2026.
 
 Bassel Darwish is a tech house and house artist based in Spain, tracked on soundcheck, with 40 sets logged across Amsterdam, Athens, Bali and Barcelona and 14 more. Often billed alongside Dennis Cruz, KinAhau and Vidaloca. Next up: Sable Miami, Miami on Sat 19 Sept.
 
@@ -25,4 +25,4 @@ Bassel Darwish is a tech house and house artist based in Spain, tracked on sound
 
 Dennis Cruz, KinAhau, Vidaloca
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/basseldarwish/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/basseldarwish/)*

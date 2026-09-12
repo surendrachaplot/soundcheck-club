@@ -1,20 +1,20 @@
 # Adam Port
 
-Adam Port is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at Valby Parken, Copenhagen on Fri, 11 Sept 2026.
+Adam Port is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Under Liljeholmsbron, Marievik, Stockholm on Sat, 12 Sept 2026.
 
-Adam Port is a house and techno artist based in Germany, tracked on soundcheck, with 70 sets logged across Amsterdam, Antwerp, Athens and Austin and 26 more. Often billed alongside &ME, Rampa and Sossa. Next up: Valby Parken, Copenhagen on Fri 11 Sept.
+Adam Port is a house and techno artist based in Germany, tracked on soundcheck, with 70 sets logged across Amsterdam, Antwerp, Athens and Austin and 26 more. Often billed alongside &ME, Rampa and Sossa. Next up: Under Liljeholmsbron, Marievik, Stockholm on Sat 12 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 11 Sept 2026 | Valby Parken | Copenhagen |
 | Sat, 12 Sept 2026 | Under Liljeholmsbron, Marievik | Stockholm |
 | Fri, 16 Oct 2026 | Mana Wynwood | Miami |
 | Fri, 16 Oct 2026 | The Concourse Project | Austin |
 
 ## Recently played
 
+- Valby Parken, Copenhagen — Fri, 11 Sept 2026
 - Finsbury Park, London — Sun, 9 Aug 2026
 - Marina Sur, Valencia — Sun, 19 Jul 2026
 - TBA - Albisgütli, Zurich — Sat, 11 Jul 2026
@@ -22,10 +22,9 @@ Adam Port is a house and techno artist based in Germany, tracked on soundcheck, 
 - Instytut Energetyki, Warsaw — Sat, 27 Jun 2026
 - DC-10, Ibiza — Mon, 1 Jun 2026
 - TBA - MTATSMINDA PARK, Tbilisi — Sat, 9 May 2026
-- The Loft Amsterdam, Amsterdam — Sat, 25 Apr 2026
 
 ## Shares bills with
 
 &ME, Rampa, Sossa
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/adamport/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/adamport/)*

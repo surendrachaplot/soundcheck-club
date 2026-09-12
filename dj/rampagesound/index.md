@@ -1,6 +1,6 @@
 # Rampage Sound
 
-Rampage Sound is a Dancehall and Afrobeat artist with 1 upcoming club date listed on soundcheck as of Fri, 11 Sept 2026, next at DRUMSHEDS, London on Sat, 21 Nov 2026.
+Rampage Sound is a Dancehall and Afrobeat artist with 1 upcoming club date listed on soundcheck as of Sat, 12 Sept 2026, next at DRUMSHEDS, London on Sat, 21 Nov 2026.
 
 Rampage Sound is a dancehall and afrobeat artist based in United Kingdom, tracked on soundcheck, with 44 sets logged across London. Often billed alongside Supa D, Pioneer and DJ Nate. Next up: DRUMSHEDS, London on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ Rampage Sound is a dancehall and afrobeat artist based in United Kingdom, tracke
 
 Supa D, Pioneer, DJ Nate
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/rampagesound/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/rampagesound/)*

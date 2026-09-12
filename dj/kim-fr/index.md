@@ -1,6 +1,6 @@
 # Kim (FR)
 
-Kim (FR) is a Psytrance and Drum & Bass artist with 1 upcoming club date listed on soundcheck as of Fri, 11 Sept 2026, next at Urban Spree, Berlin on Fri, 18 Sept 2026.
+Kim (FR) is a Psytrance and Drum & Bass artist with 1 upcoming club date listed on soundcheck as of Sat, 12 Sept 2026, next at Urban Spree, Berlin on Fri, 18 Sept 2026.
 
 Kim (FR) is a psytrance and drum & bass artist tracked on soundcheck, with 19 sets logged across Berlin, Marseille, Paris and Saopaulo and 2 more. Often billed alongside SAKO, ANTOM and Altemica. Next up: Urban Spree, Berlin on Fri 18 Sept.
 
@@ -25,4 +25,4 @@ Kim (FR) is a psytrance and drum & bass artist tracked on soundcheck, with 19 se
 
 SAKO, ANTOM, Altemica
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kim-fr/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kim-fr/)*

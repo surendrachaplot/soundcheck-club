@@ -1,6 +1,6 @@
 # STAINS
 
-STAINS is a Tech House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 11 Sept 2026, next at Jolene, Copenhagen on Sat, 12 Sept 2026.
+STAINS is a Tech House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 12 Sept 2026, next at Jolene, Copenhagen on Sat, 12 Sept 2026.
 
 STAINS is a tech house and techno artist tracked on soundcheck, with 7 sets logged across Copenhagen. Often billed alongside A.dixen, Anders Dahl and Maria (DK). Next up: Jolene, Copenhagen on Sat 12 Sept.
 
@@ -23,4 +23,4 @@ STAINS is a tech house and techno artist tracked on soundcheck, with 7 sets logg
 
 A.dixen, Anders Dahl, Maria (DK)
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/stains/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/stains/)*

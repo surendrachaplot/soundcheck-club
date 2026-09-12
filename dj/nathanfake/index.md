@@ -1,17 +1,17 @@
 # Nathan Fake
 
-Nathan Fake is a Techno and Electro artist with 4 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at Petit CAB, Marseille on Fri, 9 Oct 2026.
+Nathan Fake is a Techno and Electro artist with 4 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at ZENNER, Berlin on Sat, 24 Oct 2026.
 
-Nathan Fake is a techno and electro artist based in United Kingdom, tracked on soundcheck, with 22 sets logged across Barcelona, Berlin, Bristol and Glasgow and 6 more. Often billed alongside Gold Panda, Alex Wilcox and Cinthie. Next up: Petit CAB, Marseille on Fri 9 Oct.
+Nathan Fake is a techno and electro artist based in United Kingdom, tracked on soundcheck, with 22 sets logged across Barcelona, Berlin, Bristol and Glasgow and 6 more. Often billed alongside Gold Panda, Alex Wilcox and Cinthie. Next up: ZENNER, Berlin on Sat 24 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 9 Oct 2026 | Petit CAB | Marseille |
 | Sat, 24 Oct 2026 | ZENNER | Berlin |
 | Thu, 29 Oct 2026 | The White Hotel | Manchester |
 | Sat, 7 Nov 2026 | Various Venues, Bristol | Bristol |
+| Fri, 11 Dec 2026 | Petit CAB | Marseille |
 
 ## Recently played
 
@@ -28,4 +28,4 @@ Nathan Fake is a techno and electro artist based in United Kingdom, tracked on s
 
 Gold Panda, Alex Wilcox, Cinthie
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nathanfake/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nathanfake/)*

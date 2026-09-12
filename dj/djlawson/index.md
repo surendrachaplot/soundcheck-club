@@ -1,6 +1,6 @@
 # DJ Lawson
 
-DJ Lawson is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 11 Sept 2026, next at WWW, Tokyo on Fri, 25 Sept 2026.
+DJ Lawson is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 12 Sept 2026, next at WWW, Tokyo on Fri, 25 Sept 2026.
 
 DJ Lawson is a house and techno artist tracked on soundcheck, with 10 sets logged across Osaka and Tokyo. Often billed alongside African Acid is the Future, DJ Dante and E.O.U. Next up: WWW, Tokyo on Fri 25 Sept.
 
@@ -25,4 +25,4 @@ DJ Lawson is a house and techno artist tracked on soundcheck, with 10 sets logge
 
 African Acid is the Future, DJ Dante, E.O.U
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djlawson/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djlawson/)*

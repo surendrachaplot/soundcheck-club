@@ -1,6 +1,6 @@
 # Club 77
 
-Club 77 is a music venue in Sydney with 16 upcoming nights listed on soundcheck as of Fri, 11 Sept 2026; the next is "Fridays at 77 x Love Message: Kate Doherty, Milkpaste" on Fri, 11 Sept 2026.
+Club 77 is a music venue in Sydney with 16 upcoming nights listed on soundcheck as of Sat, 12 Sept 2026; the next is "Fridays at 77 x Love Message: Kate Doherty, Milkpaste" on Fri, 11 Sept 2026.
 
 Club 77 is a music venue in Sydney listed on soundcheck. 16 upcoming nights, with line-ups including Alex Diwa, Attu, Ciara and Daniel Lupica and 2 more. Browse upcoming dates, start times and who's playing. 77 William St, Darlinghurst NSW 2010.
 
@@ -23,4 +23,4 @@ Club 77 is a music venue in Sydney listed on soundcheck. 16 upcoming nights, wit
 
 77 William St, Darlinghurst NSW 2010, Sydney
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/sydney/club/club-77/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/sydney/club/club-77/)*

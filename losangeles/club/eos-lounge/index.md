@@ -1,6 +1,6 @@
 # EOS Lounge
 
-EOS Lounge is a music venue in Los Angeles with 1 upcoming night listed on soundcheck as of Fri, 11 Sept 2026; the next is "Ragie Ban" on Fri, 18 Sept 2026.
+EOS Lounge is a music venue in Los Angeles with 1 upcoming night listed on soundcheck as of Sat, 12 Sept 2026; the next is "Ragie Ban" on Fri, 18 Sept 2026.
 
 EOS Lounge is a music venue in Losangeles listed on soundcheck. 1 upcoming night. Browse upcoming dates, start times and who's playing. 500 Anacapa St, Santa Barbara, CA 93101.
 
@@ -14,4 +14,4 @@ EOS Lounge is a music venue in Losangeles listed on soundcheck. 1 upcoming night
 
 500 Anacapa St, Santa Barbara, CA 93101, Los Angeles
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/eos-lounge/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/eos-lounge/)*

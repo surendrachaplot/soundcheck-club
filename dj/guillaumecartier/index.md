@@ -1,6 +1,6 @@
 # Guillaume Cartier
 
-Guillaume Cartier is a Disco and Minimal artist with 1 upcoming club date listed on soundcheck as of Fri, 11 Sept 2026, next at Starlane Pizza Bar, London on Sun, 13 Sept 2026.
+Guillaume Cartier is a Disco and Minimal artist with 1 upcoming club date listed on soundcheck as of Sat, 12 Sept 2026, next at Starlane Pizza Bar, London on Sun, 13 Sept 2026.
 
 Guillaume Cartier is a disco and minimal artist based in United Kingdom, tracked on soundcheck, with 32 sets logged across Barcelona and London. Often billed alongside James Took, Dylan Pasqua and Davide Del Vecchio. Next up: Starlane Pizza Bar, London on Sun 13 Sept.
 
@@ -25,4 +25,4 @@ Guillaume Cartier is a disco and minimal artist based in United Kingdom, tracked
 
 James Took, Dylan Pasqua, Davide Del Vecchio
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/guillaumecartier/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/guillaumecartier/)*

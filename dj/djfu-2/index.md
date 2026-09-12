@@ -1,6 +1,6 @@
 # DJ FU (2)
 
-DJ FU (2) is a Bass and Jungle artist with 2 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at The Edge Seoul, Seoul on Sat, 12 Sept 2026.
+DJ FU (2) is a Bass and Jungle artist with 2 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at The Edge Seoul, Seoul on Sat, 12 Sept 2026.
 
 DJ FU (2) is a bass and jungle artist tracked on soundcheck, with 10 sets logged across Hongkong and Seoul. Often billed alongside Mengzy, ILLI (HK) and Immuno. Next up: The Edge Seoul, Seoul on Sat 12 Sept.
 
@@ -26,4 +26,4 @@ DJ FU (2) is a bass and jungle artist tracked on soundcheck, with 10 sets logged
 
 Mengzy, ILLI (HK), Immuno
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djfu-2/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djfu-2/)*

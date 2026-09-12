@@ -1,6 +1,6 @@
 # Fabrique im Gängeviertel
 
-Fabrique im Gängeviertel is a music venue in Hamburg with 4 upcoming nights listed on soundcheck as of Fri, 11 Sept 2026; the next is "female:pressure (official)" on Fri, 11 Sept 2026.
+Fabrique im Gängeviertel is a music venue in Hamburg with 4 upcoming nights listed on soundcheck as of Sat, 12 Sept 2026; the next is "female:pressure (official)" on Fri, 11 Sept 2026.
 
 Fabrique im Gängeviertel is a music venue in Hamburg listed on soundcheck. 4 upcoming nights, with line-ups including Adrian Bortolotto, Coco (2), Cornyjava and eshot (DE) and 2 more. Browse upcoming dates, start times and who's playing. Valentinskamp 34A, 20355 Hamburg, Germany.
 
@@ -17,4 +17,4 @@ Fabrique im Gängeviertel is a music venue in Hamburg listed on soundcheck. 4 up
 
 Valentinskamp 34A, 20355 Hamburg, Germany, Hamburg
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/hamburg/club/fabrique-im-g-ngeviertel/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/hamburg/club/fabrique-im-g-ngeviertel/)*

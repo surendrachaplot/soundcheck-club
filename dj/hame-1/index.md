@@ -1,6 +1,6 @@
 # Hame (1)
 
-Hame (1) is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at Haus der Visionäre, Berlin on Fri, 11 Sept 2026.
+Hame (1) is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Haus der Visionäre, Berlin on Fri, 11 Sept 2026.
 
 Hame (1) is a house and techno artist tracked on soundcheck, with 33 sets logged across Amsterdam, Antwerp, Berlin and Brussels and 3 more. Often billed alongside Hafa, Lola Haro and Martinou. Next up: Haus der Visionäre, Berlin on Fri 11 Sept.
 
@@ -13,6 +13,7 @@ Hame (1) is a house and techno artist tracked on soundcheck, with 33 sets logged
 
 ## Recently played
 
+- Haus der Visionäre, Berlin — Fri, 11 Sept 2026
 - TILLATEC, Amsterdam — Sat, 15 Aug 2026
 - Bar Dancing Multipla, Amsterdam — Fri, 26 Jun 2026
 - Shelter Amsterdam, Amsterdam — Sat, 13 Jun 2026
@@ -20,10 +21,9 @@ Hame (1) is a house and techno artist tracked on soundcheck, with 33 sets logged
 - Bar Dancing Multipla, Amsterdam — Sun, 26 Apr 2026
 - Funke, Ghent — Sat, 14 Feb 2026
 - Bar Dancing Multipla, Amsterdam — Thu, 1 Jan 2026
-- Club Cheek, London — Sat, 22 Nov 2025
 
 ## Shares bills with
 
 Hafa, Lola Haro, Martinou
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/hame-1/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/hame-1/)*

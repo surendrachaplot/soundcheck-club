@@ -1,6 +1,6 @@
 # Jan
 
-Jan is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Fri, 11 Sept 2026, next at Cova Santa, Ibiza on Sun, 13 Sept 2026.
+Jan is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Sat, 12 Sept 2026, next at Cova Santa, Ibiza on Sun, 13 Sept 2026.
 
 Jan is a tech house and house artist based in Germany, tracked on soundcheck, with 18 sets logged across Barcelona, Berlin, Ibiza and London and 3 more. Often billed alongside Francisco Allendes, Annina and CAAL. Next up: Cova Santa, Ibiza on Sun 13 Sept.
 
@@ -25,4 +25,4 @@ Jan is a tech house and house artist based in Germany, tracked on soundcheck, wi
 
 Francisco Allendes, Annina, CAAL
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jan/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jan/)*

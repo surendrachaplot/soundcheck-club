@@ -1,13 +1,14 @@
 # Dustvoxx
 
-Dustvoxx is a Psytrance and Hardcore artist with 1 upcoming club date listed on soundcheck as of Fri, 11 Sept 2026, next at Circus Tokyo, Tokyo on Sat, 14 Nov 2026.
+Dustvoxx is a Psytrance and Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at UTOPIA / DYSTOPIA, Tokyo on Sat, 26 Sept 2026.
 
-Dustvoxx is a psytrance and hardcore artist based in Japan, tracked on soundcheck, with 20 sets logged across Osaka and Tokyo. Often billed alongside CHIKA, Coretex and DJ Shimamura. Next up: Circus Tokyo, Tokyo on Sat 14 Nov.
+Dustvoxx is a psytrance and techno artist based in Japan, tracked on soundcheck, with 21 sets logged across Osaka and Tokyo. Often billed alongside CHIKA, Coretex and DJ Shimamura. Next up: UTOPIA / DYSTOPIA, Tokyo on Sat 26 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 26 Sept 2026 | UTOPIA / DYSTOPIA | Tokyo |
 | Sat, 14 Nov 2026 | Circus Tokyo | Tokyo |
 
 ## Recently played
@@ -25,4 +26,4 @@ Dustvoxx is a psytrance and hardcore artist based in Japan, tracked on soundchec
 
 CHIKA, Coretex, DJ Shimamura
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dustvoxx/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dustvoxx/)*

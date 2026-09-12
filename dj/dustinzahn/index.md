@@ -1,8 +1,8 @@
 # Dustin Zahn
 
-Dustin Zahn is a Techno and Dub Techno artist with 3 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at Azimut Club, Turin on Sat, 26 Sept 2026.
+Dustin Zahn is a Techno and Dub Techno artist with 4 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Azimut Club, Turin on Sat, 26 Sept 2026.
 
-Dustin Zahn is a techno and dub techno artist based in United States of America, tracked on soundcheck, with 54 sets logged across Amsterdam, Berlin, Brussels and Chicago and 16 more. Often billed alongside Centrific, Chami and Henry Chow. Next up: Azimut Club, Turin on Sat 26 Sept.
+Dustin Zahn is a techno and dub techno artist based in United States of America, tracked on soundcheck, with 55 sets logged across Amsterdam, Berlin, Brussels and Chicago and 16 more. Often billed alongside Centrific, Chami and Henry Chow. Next up: Azimut Club, Turin on Sat 26 Sept.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ Dustin Zahn is a techno and dub techno artist based in United States of America,
 | Sat, 26 Sept 2026 | Azimut Club | Turin |
 | Sat, 10 Oct 2026 | Funkhaus Berlin | Berlin |
 | Sat, 17 Oct 2026 | TBA - 16915 Darnestown Road, Boyds, Maryland 20841 | Washington DC |
+| Sat, 24 Oct 2026 | BASEMENT | New York City |
 
 ## Recently played
 
@@ -27,4 +28,4 @@ Dustin Zahn is a techno and dub techno artist based in United States of America,
 
 Centrific, Chami, Henry Chow
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dustinzahn/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dustinzahn/)*

@@ -1,6 +1,6 @@
 # DJ Psycho
 
-DJ Psycho is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 11 Sept 2026, next at Northern Lights Lounge, Detroit on Sat, 19 Sept 2026.
+DJ Psycho is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 12 Sept 2026, next at Northern Lights Lounge, Detroit on Sat, 19 Sept 2026.
 
 DJ Psycho is a techno and house artist tracked on soundcheck, with 89 sets logged across Detroit. Often billed alongside Secrets, Andrés and Ashton Swinton. Next up: Northern Lights Lounge, Detroit on Sat 19 Sept.
 
@@ -25,4 +25,4 @@ DJ Psycho is a techno and house artist tracked on soundcheck, with 89 sets logge
 
 Secrets, Andrés, Ashton Swinton
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djpsycho/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djpsycho/)*

@@ -1,6 +1,6 @@
 # Pyramid at Amnesia Ibiza
 
-Pyramid at Amnesia Ibiza on Sun 20 Sept, Ibiza. 9 acts on the bill: Andres Campo, Charlie Sparks, Deborah De Luca and Demi Riquisimo and 5 more. Techno and Tech House. Preview the line-up and save it on soundcheck.
+Pyramid at Amnesia Ibiza on Sun 20 Sept, Ibiza. 11 acts on the bill: Andres Campo, Cam Stockman, Charlie Sparks and Deborah De Luca and 7 more. Techno and Tech House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,10 +11,12 @@ Pyramid at Amnesia Ibiza on Sun 20 Sept, Ibiza. 9 acts on the bill: Andres Campo
 ## Line-up
 
 - Andres Campo
+- Cam Stockman
 - Charlie Sparks
 - Deborah De Luca
 - Demi Riquisimo
 - Fleur Shore
+- Josh Baker
 - Kolter
 - Luca Donzelli
 - Marco Faraone

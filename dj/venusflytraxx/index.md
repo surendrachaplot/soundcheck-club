@@ -1,6 +1,6 @@
 # Venus Flytraxx
 
-Venus Flytraxx is a Disco and House artist with 1 upcoming club date listed on soundcheck as of Fri, 11 Sept 2026, next at Omeara, London on Sat, 10 Oct 2026.
+Venus Flytraxx is a Disco and House artist with 1 upcoming club date listed on soundcheck as of Sat, 12 Sept 2026, next at Omeara, London on Sat, 10 Oct 2026.
 
 Venus Flytraxx is a disco and house artist tracked on soundcheck, with 7 sets logged across London. Often billed alongside Stuart Patterson, Terry Farley and Bustin' Loose. Next up: Omeara, London on Sat 10 Oct.
 
@@ -23,4 +23,4 @@ Venus Flytraxx is a disco and house artist tracked on soundcheck, with 7 sets lo
 
 Stuart Patterson, Terry Farley, Bustin' Loose
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/venusflytraxx/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/venusflytraxx/)*

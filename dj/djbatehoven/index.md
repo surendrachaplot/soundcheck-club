@@ -1,6 +1,6 @@
 # DJ Batehoven
 
-DJ Batehoven is a Disco and House artist with 1 upcoming club date listed on soundcheck as of Fri, 11 Sept 2026, next at Piccadilly Central, Manchester on Fri, 25 Sept 2026.
+DJ Batehoven is a Disco and House artist with 1 upcoming club date listed on soundcheck as of Sat, 12 Sept 2026, next at Piccadilly Central, Manchester on Fri, 25 Sept 2026.
 
 DJ Batehoven is a disco and house artist based in United Kingdom, tracked on soundcheck, with 8 sets logged across Amsterdam, Bristol and Manchester. Often billed alongside Alex Moore, KURLZ and Mascott. Next up: Piccadilly Central, Manchester on Fri 25 Sept.
 
@@ -24,4 +24,4 @@ DJ Batehoven is a disco and house artist based in United Kingdom, tracked on sou
 
 Alex Moore, KURLZ, Mascott
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djbatehoven/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djbatehoven/)*

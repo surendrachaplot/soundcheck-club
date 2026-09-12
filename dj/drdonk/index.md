@@ -1,6 +1,6 @@
 # Dr Donk
 
-Dr Donk is a Hardcore and Techno artist with 4 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at Bootshaus, Cologne on Fri, 11 Sept 2026.
+Dr Donk is a Hardcore and Techno artist with 4 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Bootshaus, Cologne on Fri, 11 Sept 2026.
 
 Dr Donk is a hardcore and techno artist based in Germany, tracked on soundcheck, with 13 sets logged across Amsterdam, Berlin, Cologne and Dortmund-essen and 7 more. Often billed alongside Angerfist, Dimitri K and Lekkerfaces. Next up: Bootshaus, Cologne on Fri 11 Sept.
 
@@ -15,6 +15,7 @@ Dr Donk is a hardcore and techno artist based in Germany, tracked on soundcheck,
 
 ## Recently played
 
+- Bootshaus, Cologne — Fri, 11 Sept 2026
 - Electrisize, Düsseldorf — Fri, 7 Aug 2026
 - Noct, Paris — Sat, 27 Dec 2025
 - Bootshaus, Cologne — Fri, 19 Dec 2025
@@ -22,10 +23,9 @@ Dr Donk is a hardcore and techno artist based in Germany, tracked on soundcheck,
 - Fabrik, Madrid — Fri, 13 Jun 2025
 - Bootshaus, Cologne — Fri, 21 Mar 2025
 - Airport Würzburg, Nürnberg — Fri, 7 Feb 2025
-- M-BIA, Berlin — Fri, 18 Oct 2024
 
 ## Shares bills with
 
 Angerfist, Dimitri K, Lekkerfaces
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/drdonk/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/drdonk/)*

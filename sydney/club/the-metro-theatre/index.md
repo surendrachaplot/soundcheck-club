@@ -1,6 +1,6 @@
 # The Metro Theatre
 
-The Metro Theatre is a music venue in Sydney with 3 upcoming nights listed on soundcheck as of Fri, 11 Sept 2026; the next is "GHETTO KUMBE (COL) LIVE IN SYDNEY" on Sat, 3 Oct 2026.
+The Metro Theatre is a music venue in Sydney with 3 upcoming nights listed on soundcheck as of Sat, 12 Sept 2026; the next is "GHETTO KUMBE (COL) LIVE IN SYDNEY" on Sat, 3 Oct 2026.
 
 The Metro Theatre is a music venue in Sydney listed on soundcheck. 3 upcoming nights, with line-ups including Cuerpo Negro, Otorongo, sim0ne and Woesum and 1 more. Browse upcoming dates, start times and who's playing. 624 George St; Sydney, NSW 2000; Australia.
 
@@ -16,4 +16,4 @@ The Metro Theatre is a music venue in Sydney listed on soundcheck. 3 upcoming ni
 
 624 George St; Sydney, NSW 2000; Australia, Sydney
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/sydney/club/the-metro-theatre/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/sydney/club/the-metro-theatre/)*

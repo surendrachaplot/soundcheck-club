@@ -1,6 +1,6 @@
 # duco
 
-duco is a Techno and Ghetto Tech artist with 2 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at Amma Cafe, New York City on Sat, 12 Sept 2026.
+duco is a Techno and Ghetto Tech artist with 2 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Amma Cafe, New York City on Sat, 12 Sept 2026.
 
 duco is a techno and ghetto tech artist based in United States of America, tracked on soundcheck, with 32 sets logged across Amsterdam, Newyorkcity and Seoul. Often billed alongside WADDLE, NIJEII and y2aura. Next up: Amma Cafe, Newyorkcity on Sat 12 Sept.
 
@@ -26,4 +26,4 @@ duco is a techno and ghetto tech artist based in United States of America, track
 
 WADDLE, NIJEII, y2aura
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/duco/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/duco/)*

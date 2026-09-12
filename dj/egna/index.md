@@ -1,6 +1,6 @@
 # Egna
 
-Egna is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at C12, Brussels on Sat, 19 Sept 2026.
+Egna is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at C12, Brussels on Sat, 19 Sept 2026.
 
 Egna is a techno and house artist tracked on soundcheck, with 69 sets logged across Antwerp, Brussels, Cologne and Krakow and 4 more. Often billed alongside Erna (FR), Corbeille Dallas and Sina XX. Next up: C12, Brussels on Sat 19 Sept.
 
@@ -27,4 +27,4 @@ Egna is a techno and house artist tracked on soundcheck, with 69 sets logged acr
 
 Erna (FR), Corbeille Dallas, Sina XX
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/egna/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/egna/)*

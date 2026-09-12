@@ -1,6 +1,6 @@
 # Toledo
 
-Toledo is a Deep House and House artist with 1 upcoming club date listed on soundcheck as of Fri, 11 Sept 2026, next at TBA - Powered by: Void Acoustics, Madrid on Fri, 11 Sept 2026.
+Toledo is a Deep House and House artist with 1 upcoming club date listed on soundcheck as of Sat, 12 Sept 2026, next at TBA - Powered by: Void Acoustics, Madrid on Fri, 11 Sept 2026.
 
 Toledo is a deep house and house artist tracked on soundcheck, with 20 sets logged across Buenosaires, Madrid and Mexicocity. Often billed alongside Barreto, Duke Skylocker (Disco Dust) and Miss Voltaghe. Next up: TBA - Powered by: Void Acoustics, Madrid on Fri 11 Sept.
 
@@ -12,6 +12,7 @@ Toledo is a deep house and house artist tracked on soundcheck, with 20 sets logg
 
 ## Recently played
 
+- TBA - Powered by: Void Acoustics, Madrid — Fri, 11 Sept 2026
 - Departamento, Mexico City — Wed, 29 Jul 2026
 - Departamento, Mexico City — Wed, 15 Jul 2026
 - Departamento, Mexico City — Wed, 24 Jun 2026
@@ -19,10 +20,9 @@ Toledo is a deep house and house artist tracked on soundcheck, with 20 sets logg
 - berlinClub, Madrid — Thu, 8 Jan 2026
 - El 48 Club, Madrid — Fri, 5 Dec 2025
 - Lula Club, Madrid — Wed, 8 Oct 2025
-- Toluca Estado DE Mexico, Mexico City — Sun, 15 Jun 2025
 
 ## Shares bills with
 
 Barreto, Duke Skylocker (Disco Dust), Miss Voltaghe
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/toledo/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/toledo/)*

@@ -1,8 +1,8 @@
 # madeera
 
-madeera is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at Northern Lights Lounge, Detroit on Sat, 12 Sept 2026.
+madeera is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Northern Lights Lounge, Detroit on Sat, 12 Sept 2026.
 
-madeera is a techno and house artist based in United States of America, tracked on soundcheck, with 17 sets logged across Detroit, Dublin, Newcastle and Newyorkcity and 1 more. Often billed alongside Brent Shay, Antikkka and Tormented. Next up: Northern Lights Lounge, Detroit on Sat 12 Sept.
+madeera is a techno and house artist based in United States of America, tracked on soundcheck, with 18 sets logged across Detroit, Dublin, Newcastle and Newyorkcity and 1 more. Often billed alongside Brent Shay, Antikkka and Tormented. Next up: Northern Lights Lounge, Detroit on Sat 12 Sept.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ madeera is a techno and house artist based in United States of America, tracked 
 | --- | --- | --- |
 | Sat, 12 Sept 2026 | Northern Lights Lounge | Detroit |
 | Sat, 12 Sept 2026 | TBA | Washington DC |
+| Sat, 26 Sept 2026 | Spkrbox | Detroit |
 
 ## Recently played
 
@@ -26,4 +27,4 @@ madeera is a techno and house artist based in United States of America, tracked 
 
 Brent Shay, Antikkka, Tormented
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/madeera/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/madeera/)*

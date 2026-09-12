@@ -1,6 +1,6 @@
 # Or:la
 
-Or:la is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at La Cheetah Club, Glasgow on Sat, 19 Sept 2026.
+Or:la is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at La Cheetah Club, Glasgow on Sat, 19 Sept 2026.
 
 Or:la is a house and techno artist tracked on soundcheck, with 122 sets logged across Amsterdam, Antwerp, Barcelona and Belfast and 28 more. Often billed alongside Amaliah, Pariah and Objekt. Next up: La Cheetah Club, Glasgow on Sat 19 Sept.
 
@@ -26,4 +26,4 @@ Or:la is a house and techno artist tracked on soundcheck, with 122 sets logged a
 
 Amaliah, Pariah, Objekt
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/orla/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/orla/)*

@@ -1,6 +1,6 @@
 # Ceyda Yagiz
 
-Ceyda Yagiz is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 11 Sept 2026, next at Virage, Paris on Fri, 2 Oct 2026.
+Ceyda Yagiz is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 12 Sept 2026, next at Virage, Paris on Fri, 2 Oct 2026.
 
 Ceyda Yagiz is a techno and house artist based in France, tracked on soundcheck, with 29 sets logged across Berlin, Lisbon and Paris. Often billed alongside Nicol, Aubry and Cornelius Doctor. Next up: Virage, Paris on Fri 2 Oct.
 
@@ -25,4 +25,4 @@ Ceyda Yagiz is a techno and house artist based in France, tracked on soundcheck,
 
 Nicol, Aubry, Cornelius Doctor
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ceydayagiz/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ceydayagiz/)*

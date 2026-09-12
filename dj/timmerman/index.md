@@ -1,6 +1,6 @@
 # Timmerman
 
-Timmerman is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 11 Sept 2026, next at UMI, Brussels on Fri, 11 Sept 2026.
+Timmerman is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 12 Sept 2026, next at UMI, Brussels on Fri, 11 Sept 2026.
 
 Timmerman is a house and techno artist tracked on soundcheck, with 34 sets logged across Amsterdam, Antwerp, Brussels and Ghent and 1 more. Often billed alongside Fais Le Beau, Sixsixsixties and Uni Son. Next up: UMI, Brussels on Fri 11 Sept.
 
@@ -12,6 +12,7 @@ Timmerman is a house and techno artist tracked on soundcheck, with 34 sets logge
 
 ## Recently played
 
+- UMI, Brussels — Fri, 11 Sept 2026
 - TBA - Schwing und Stampf Festival, Zurich — Thu, 27 Aug 2026
 - ASIAT Park, Brussels — Sat, 14 Feb 2026
 - Funke, Ghent — Wed, 31 Dec 2025
@@ -19,10 +20,9 @@ Timmerman is a house and techno artist tracked on soundcheck, with 34 sets logge
 - Bodies in Space, Brussels — Fri, 28 Nov 2025
 - Funke, Ghent — Fri, 26 Sept 2025
 - Tuin van Heden, Ghent — Sat, 20 Sept 2025
-- Monterey, Ghent — Sat, 23 Aug 2025
 
 ## Shares bills with
 
 Fais Le Beau, Sixsixsixties, Uni Son
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/timmerman/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/timmerman/)*

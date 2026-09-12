@@ -1,14 +1,16 @@
 # diladï
 
-diladï is a Downtempo and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 11 Sept 2026, next at Lieberscholli, Munich on Sat, 10 Oct 2026.
+diladï is a Techno and Downtempo artist with 3 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Lieberscholli, Munich on Sat, 10 Oct 2026.
 
-diladï is a downtempo and techno artist based in Germany, tracked on soundcheck, with 48 sets logged across Berlin, Cologne, Hamburg and Mexicocity and 3 more. Often billed alongside Naicet, Mona Pirzad and Ele Luz. Next up: Lieberscholli, Munich on Sat 10 Oct.
+diladï is a techno and downtempo artist based in Germany, tracked on soundcheck, with 50 sets logged across Berlin, Cologne, Hamburg and Mexicocity and 3 more. Often billed alongside Naicet, Ele Luz and Mona Pirzad. Next up: Lieberscholli, Munich on Sat 10 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 10 Oct 2026 | Lieberscholli | Munich |
+| Fri, 16 Oct 2026 | Renate | Berlin |
+| Sat, 7 Nov 2026 | Kater | Berlin |
 
 ## Recently played
 
@@ -23,6 +25,6 @@ diladï is a downtempo and techno artist based in Germany, tracked on soundcheck
 
 ## Shares bills with
 
-Naicet, Mona Pirzad, Ele Luz
+Naicet, Ele Luz, Mona Pirzad
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/diladi/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/diladi/)*

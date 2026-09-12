@@ -1,6 +1,6 @@
 # Detroit Techno Militia 2x4
 
-Detroit Techno Militia 2x4 is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 11 Sept 2026, next at TBA - Cass Corridor, Detroit on Sat, 12 Sept 2026.
+Detroit Techno Militia 2x4 is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 12 Sept 2026, next at TBA - Cass Corridor, Detroit on Sat, 12 Sept 2026.
 
 Detroit Techno Militia 2x4 is a techno and house artist tracked on soundcheck, with 24 sets logged across Amsterdam, Berlin, Detroit and Edinburgh and 7 more. Often billed alongside DJ Roach, DJ Godfather and Frankie Bones. Next up: TBA - Cass Corridor, Detroit on Sat 12 Sept.
 
@@ -25,4 +25,4 @@ Detroit Techno Militia 2x4 is a techno and house artist tracked on soundcheck, w
 
 DJ Roach, DJ Godfather, Frankie Bones
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/detroittechnomilitia2x4/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/detroittechnomilitia2x4/)*

@@ -1,6 +1,6 @@
 # Hugorieri
 
-Hugorieri is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at Sky Lounge 360, Prague on Sat, 5 Sept 2026.
+Hugorieri is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Sky Lounge 360, Prague on Sat, 5 Sept 2026.
 
 Hugorieri is a house and techno artist based in Czech Republic, tracked on soundcheck, with 66 sets logged across Berlin and Prague. Often billed alongside Ondrej K, Blackloud and DJ Lumiere. Next up: Sky Lounge 360, Prague on Sat 5 Sept.
 
@@ -26,4 +26,4 @@ Hugorieri is a house and techno artist based in Czech Republic, tracked on sound
 
 Ondrej K, Blackloud, DJ Lumiere
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/hugorieri/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/hugorieri/)*

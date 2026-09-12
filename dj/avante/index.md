@@ -1,6 +1,6 @@
 # Avante
 
-Avante is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 11 Sept 2026, next at Home Club, Sao Paulo on Sun, 13 Sept 2026.
+Avante is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 12 Sept 2026, next at Home Club, Sao Paulo on Sun, 13 Sept 2026.
 
 Avante is a house and techno artist based in United Kingdom, tracked on soundcheck, with 16 sets logged across Boston, Newyorkcity and Saopaulo. Often billed alongside Bida Sarô, Paula Pretel and Ananda (BR). Next up: Home Club, Saopaulo on Sun 13 Sept.
 
@@ -25,4 +25,4 @@ Avante is a house and techno artist based in United Kingdom, tracked on soundche
 
 Bida Sarô, Paula Pretel, Ananda (BR)
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/avante/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/avante/)*

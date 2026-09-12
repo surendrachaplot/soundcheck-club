@@ -1,6 +1,6 @@
 # Nikki Nair
 
-Nikki Nair is a Techno and Bass artist with 4 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at Brooklyn Roots Collective, New York City on Fri, 2 Oct 2026.
+Nikki Nair is a Techno and Bass artist with 4 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Brooklyn Roots Collective, New York City on Fri, 2 Oct 2026.
 
 Nikki Nair is a techno and bass artist based in United States of America, tracked on soundcheck, with 167 sets logged across Amsterdam, Antwerp, Auckland and Austin and 48 more. Often billed alongside Hudson Mohawke, DJ ADHD and Chloé Robinson. Next up: Brooklyn Roots Collective, Newyorkcity on Fri 2 Oct.
 
@@ -28,4 +28,4 @@ Nikki Nair is a techno and bass artist based in United States of America, tracke
 
 Hudson Mohawke, DJ ADHD, Chloé Robinson
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nikkinair/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nikkinair/)*

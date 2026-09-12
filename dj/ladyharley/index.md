@@ -1,6 +1,6 @@
 # Lady Harley
 
-Lady Harley is a Electro and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 11 Sept 2026, next at Dead Letter No. 9, New York City on Fri, 23 Oct 2026.
+Lady Harley is a Electro and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 12 Sept 2026, next at Dead Letter No. 9, New York City on Fri, 23 Oct 2026.
 
 Lady Harley is an electro and techno artist based in United States of America, tracked on soundcheck, with 36 sets logged across Newyorkcity and Washingtondc. Often billed alongside Laila Amira, Mui Mui and EREZ.JPG. Next up: Dead Letter No. 9, Newyorkcity on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ Lady Harley is an electro and techno artist based in United States of America, t
 
 Laila Amira, Mui Mui, EREZ.JPG
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ladyharley/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ladyharley/)*

@@ -1,6 +1,6 @@
 # TiTi
 
-TiTi is a Techno and Industrial artist with 4 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at Airport Würzburg, Nürnberg on Fri, 2 Oct 2026.
+TiTi is a Techno and Industrial artist with 4 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Airport Würzburg, Nürnberg on Fri, 2 Oct 2026.
 
 TiTi is a techno and industrial artist based in China, tracked on soundcheck, with 21 sets logged across Amsterdam, Antwerp, Barcelona and Cologne and 8 more. Often billed alongside BLNK, LIEKS and BØĘRY. Next up: Airport Würzburg, Nurnberg on Fri 2 Oct.
 
@@ -28,4 +28,4 @@ TiTi is a techno and industrial artist based in China, tracked on soundcheck, wi
 
 BLNK, LIEKS, BØĘRY
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/titi/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/titi/)*

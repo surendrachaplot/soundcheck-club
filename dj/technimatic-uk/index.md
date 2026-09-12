@@ -1,6 +1,6 @@
 # Technimatic
 
-Technimatic is a Drum & Bass and Jungle artist with 2 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at Outernet Live, London on Sat, 26 Sept 2026.
+Technimatic is a Drum & Bass and Jungle artist with 2 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Outernet Live, London on Sat, 26 Sept 2026.
 
 Technimatic is a drum & bass and jungle artist tracked on soundcheck, with 41 sets logged across Amsterdam, Antwerp, Auckland and Bali and 16 more. Often billed alongside LowQui, S.P.Y and Camo & Krooked. Next up: Outernet Live, London on Sat 26 Sept.
 
@@ -26,4 +26,4 @@ Technimatic is a drum & bass and jungle artist tracked on soundcheck, with 41 se
 
 LowQui, S.P.Y, Camo & Krooked
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/technimatic-uk/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/technimatic-uk/)*

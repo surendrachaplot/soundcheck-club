@@ -1,6 +1,6 @@
 # Nicole Spagnol
 
-Nicole Spagnol is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at Index, Dublin on Fri, 25 Sept 2026.
+Nicole Spagnol is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Index, Dublin on Fri, 25 Sept 2026.
 
 Nicole Spagnol is a house and tech house artist based in Brazil, tracked on soundcheck, with 43 sets logged across Dublin and Galway. Often billed alongside Soulnezz, SOUZAC and Cam Roberts. Next up: Index, Dublin on Fri 25 Sept.
 
@@ -26,4 +26,4 @@ Nicole Spagnol is a house and tech house artist based in Brazil, tracked on soun
 
 Soulnezz, SOUZAC, Cam Roberts
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nicolespagnol/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nicolespagnol/)*

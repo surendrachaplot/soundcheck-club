@@ -1,8 +1,8 @@
 # Daughter In Law
 
-Daughter In Law is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at Colorado Charlie, The Hague on Sat, 26 Sept 2026.
+Daughter In Law is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Colorado Charlie, The Hague on Sat, 26 Sept 2026.
 
-Daughter In Law is a house and techno artist tracked on soundcheck, with 52 sets logged across Amsterdam, Basel, Frankfurt and Munich and 4 more. Often billed alongside Alex Dallas, Animal Trainer and De La Maso. Next up: Colorado Charlie, Thehague on Sat 26 Sept.
+Daughter In Law is a house and techno artist tracked on soundcheck, with 53 sets logged across Amsterdam, Basel, Frankfurt and Munich and 4 more. Often billed alongside Alex Dallas, De La Maso and Animal Trainer. Next up: Colorado Charlie, Thehague on Sat 26 Sept.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Daughter In Law is a house and techno artist tracked on soundcheck, with 52 sets
 | --- | --- | --- |
 | Sat, 26 Sept 2026 | Colorado Charlie | The Hague |
 | Sun, 27 Sept 2026 | Thuishaven | Amsterdam |
+| Fri, 2 Oct 2026 | Hive Club | Zurich |
 | Thu, 22 Oct 2026 | Shelter Amsterdam | Amsterdam |
 
 ## Recently played
@@ -25,6 +26,6 @@ Daughter In Law is a house and techno artist tracked on soundcheck, with 52 sets
 
 ## Shares bills with
 
-Alex Dallas, Animal Trainer, De La Maso
+Alex Dallas, De La Maso, Animal Trainer
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/daughterinlaw/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/daughterinlaw/)*

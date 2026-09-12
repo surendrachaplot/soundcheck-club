@@ -1,6 +1,6 @@
 # James Carter
 
-James Carter is a House and Tech House artist with 6 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at B London, London on Sat, 12 Sept 2026.
+James Carter is a House and Tech House artist with 6 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at B London, London on Sat, 12 Sept 2026.
 
 James Carter is a house and tech house artist tracked on soundcheck, with 18 sets logged across Bali, Berlin, Ibiza and Lisbon and 5 more. Often billed alongside Debit, APP and Amount (DE). Next up: B London, London on Sat 12 Sept.
 
@@ -30,4 +30,4 @@ James Carter is a house and tech house artist tracked on soundcheck, with 18 set
 
 Debit, APP, Amount (DE)
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jamescarter/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jamescarter/)*

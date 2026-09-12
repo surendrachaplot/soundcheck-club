@@ -1,6 +1,6 @@
 # SHDW
 
-SHDW is a Techno and House artist with 15 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at ART Madrid Club, Madrid on Fri, 11 Sept 2026.
+SHDW is a Techno and House artist with 15 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at ART Madrid Club, Madrid on Fri, 11 Sept 2026.
 
 SHDW is a techno and house artist tracked on soundcheck, with 205 sets logged across Amsterdam, Antwerp, Athens and Austin and 62 more. Often billed alongside ANNĒ, Alarico and Lars Huismann. Next up: ART Madrid Club, Madrid on Fri 11 Sept.
 
@@ -23,6 +23,7 @@ SHDW is a techno and house artist tracked on soundcheck, with 205 sets logged ac
 
 ## Recently played
 
+- ART Madrid Club, Madrid — Fri, 11 Sept 2026
 - Junkyard Dortmund, Dortmund-essen — Sat, 5 Sept 2026
 - Garage Klub, Antwerp — Sat, 5 Sept 2026
 - Ampere, Antwerp — Sat, 5 Sept 2026
@@ -30,10 +31,9 @@ SHDW is a techno and house artist tracked on soundcheck, with 205 sets logged ac
 - Dürener Badesee, Cologne — Fri, 28 Aug 2026
 - Fridas Pier, Stuttgart — Fri, 21 Aug 2026
 - Gianpula Village, Malta — Wed, 12 Aug 2026
-- Studio Club Malaga, Malaga — Fri, 31 Jul 2026
 
 ## Shares bills with
 
 ANNĒ, Alarico, Lars Huismann
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/shdw/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/shdw/)*

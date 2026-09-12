@@ -1,6 +1,6 @@
 # Dan Andrei
 
-Dan Andrei is a Minimal and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at Green Room NYC, New York City on Sat, 12 Sept 2026.
+Dan Andrei is a Minimal and House artist with 2 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Green Room NYC, New York City on Sat, 12 Sept 2026.
 
 Dan Andrei is a minimal and house artist tracked on soundcheck, with 112 sets logged across Amsterdam, Antwerp, Athens and Bali and 28 more. Often billed alongside Cap, Rhadoo and Sonja Moonear. Next up: Green Room NYC, Newyorkcity on Sat 12 Sept.
 
@@ -26,4 +26,4 @@ Dan Andrei is a minimal and house artist tracked on soundcheck, with 112 sets lo
 
 Cap, Rhadoo, Sonja Moonear
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/danandrei/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/danandrei/)*

@@ -1,6 +1,6 @@
 # Bear Bones, Lay Low
 
-Bear Bones, Lay Low is a Club and Electronica artist with 1 upcoming club date listed on soundcheck as of Fri, 11 Sept 2026, next at ISOamsterdam, Amsterdam on Fri, 2 Oct 2026.
+Bear Bones, Lay Low is a Club and Electronica artist with 1 upcoming club date listed on soundcheck as of Sat, 12 Sept 2026, next at ISOamsterdam, Amsterdam on Fri, 2 Oct 2026.
 
 Bear Bones, Lay Low are a club and electronica duo based in Belgium, tracked on soundcheck, with 15 sets logged across Amsterdam, Barcelona, Berlin and Brussels and 2 more. Often billed alongside Black Zone Myth Chant, ojoo and 3Phaz. Next up: ISOamsterdam, Amsterdam on Fri 2 Oct.
 
@@ -25,4 +25,4 @@ Bear Bones, Lay Low are a club and electronica duo based in Belgium, tracked on 
 
 Black Zone Myth Chant, ojoo, 3Phaz
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bearboneslaylow/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bearboneslaylow/)*

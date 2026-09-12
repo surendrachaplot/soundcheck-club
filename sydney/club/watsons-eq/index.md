@@ -1,6 +1,6 @@
 # Watsons EQ
 
-Watsons EQ is a music venue in Sydney with 3 upcoming nights listed on soundcheck as of Fri, 11 Sept 2026; the next is "30 Years of Hospital Records - Sydney" on Sat, 3 Oct 2026.
+Watsons EQ is a music venue in Sydney with 3 upcoming nights listed on soundcheck as of Sat, 12 Sept 2026; the next is "30 Years of Hospital Records - Sydney" on Sat, 3 Oct 2026.
 
 Watsons EQ is a music venue in Sydney listed on soundcheck. 3 upcoming nights, with line-ups including Danny Byrd, Dimuth K, D-Nox and Federico Puentes and 2 more. Browse upcoming dates, start times and who's playing. The Entertainment Quarter, 1 Bent Street, Moore Park, NSW 2021, AUS.
 
@@ -16,4 +16,4 @@ Watsons EQ is a music venue in Sydney listed on soundcheck. 3 upcoming nights, w
 
 The Entertainment Quarter, 1 Bent Street, Moore Park, NSW 2021, AUS, Sydney
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/sydney/club/watsons-eq/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/sydney/club/watsons-eq/)*

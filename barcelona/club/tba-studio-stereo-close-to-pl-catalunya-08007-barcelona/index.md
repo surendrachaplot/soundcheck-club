@@ -1,6 +1,6 @@
 # TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona
 
-TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona is a music venue in Barcelona with 24 upcoming nights listed on soundcheck as of Fri, 11 Sept 2026; the next is "Studio Stereo x Subwax x Fraise pres. Wilba" on Fri, 11 Sept 2026.
+TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona is a music venue in Barcelona with 24 upcoming nights listed on soundcheck as of Sat, 12 Sept 2026; the next is "Studio Stereo x Subwax x Fraise pres. Wilba" on Fri, 11 Sept 2026.
 
 TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona is a music venue in Barcelona listed on soundcheck. 24 upcoming nights, with line-ups including 3 Minds, Baldo, Billi and Camps (1) and 2 more. Browse upcoming dates, start times and who's playing.
 
@@ -19,4 +19,4 @@ TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona is a music venue i
 | Sat, 26 Sept 2026 | Studio Stereo x OGE x Giralda pres. Enzo Leep | Camps (1), DJ Senc, Enzo Leep, Haydn, Hessa, Onfank, Rome (IT) |
 | Thu, 1 Oct 2026 | Studio Stereo TBA |  |
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/tba-studio-stereo-close-to-pl-catalunya-08007-barcelona/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/tba-studio-stereo-close-to-pl-catalunya-08007-barcelona/)*

@@ -1,6 +1,6 @@
 # e03 (1)
 
-e03 (1) is a Experimental and R&B artist with 1 upcoming club date listed on soundcheck as of Fri, 11 Sept 2026, next at 20nine30, Berlin on Fri, 2 Oct 2026.
+e03 (1) is a Experimental and R&B artist with 1 upcoming club date listed on soundcheck as of Sat, 12 Sept 2026, next at 20nine30, Berlin on Fri, 2 Oct 2026.
 
 e03 (1) is an experimental and r&b artist tracked on soundcheck, with 8 sets logged across Berlin and Tbilisi. Often billed alongside bod [包家巷], Warlord® and exmantera. Next up: 20nine30, Berlin on Fri 2 Oct.
 
@@ -24,4 +24,4 @@ e03 (1) is an experimental and r&b artist tracked on soundcheck, with 8 sets log
 
 bod [包家巷], Warlord®, exmantera
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/e03-1/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/e03-1/)*

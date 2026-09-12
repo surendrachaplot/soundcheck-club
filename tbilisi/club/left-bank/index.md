@@ -1,6 +1,6 @@
 # Left Bank
 
-Left Bank is a music venue in Tbilisi with 7 upcoming nights listed on soundcheck as of Fri, 11 Sept 2026; the next is "Left Bank Clubnight: O'ner • Memotech • Sevda" on Fri, 11 Sept 2026.
+Left Bank is a music venue in Tbilisi with 7 upcoming nights listed on soundcheck as of Sat, 12 Sept 2026; the next is "Left Bank Clubnight: O'ner • Memotech • Sevda" on Fri, 11 Sept 2026.
 
 Left Bank is a music venue in Tbilisi listed on soundcheck. 7 upcoming nights, with line-ups including Ash Scholem, Dali (GE), Dual Pistols and FLORA and 2 more. Browse upcoming dates, start times and who's playing. 10 Dodo Abashidze St T''bilisi, Georgia.
 
@@ -20,4 +20,4 @@ Left Bank is a music venue in Tbilisi listed on soundcheck. 7 upcoming nights, w
 
 10 Dodo Abashidze St T''bilisi, Georgia, Tbilisi
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/tbilisi/club/left-bank/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/tbilisi/club/left-bank/)*

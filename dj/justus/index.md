@@ -1,8 +1,8 @@
 # justUS
 
-justUS is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at Beate Uwe, Berlin on Sat, 19 Sept 2026.
+justUS is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Beate Uwe, Berlin on Sat, 19 Sept 2026.
 
-justUS is a techno and house artist tracked on soundcheck, with 103 sets logged across Amsterdam, Bangkok, Berlin and Cologne and 9 more. Often billed alongside MILLA LOU, Katzengold and Chris Plettenberg. Next up: Beate Uwe, Berlin on Sat 19 Sept.
+justUS is a techno and house artist tracked on soundcheck, with 104 sets logged across Amsterdam, Bangkok, Berlin and Cologne and 10 more. Often billed alongside MILLA LOU, Katzengold and Chris Plettenberg. Next up: Beate Uwe, Berlin on Sat 19 Sept.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ justUS is a techno and house artist tracked on soundcheck, with 103 sets logged 
 | --- | --- | --- |
 | Sat, 19 Sept 2026 | Beate Uwe | Berlin |
 | Sat, 19 Sept 2026 | Gestrandet An Der Jannowitzbrücke | Berlin |
+| Sat, 3 Oct 2026 | Das Werk | Vienna |
 | Fri, 9 Oct 2026 | Kater | Berlin |
 | Sat, 10 Oct 2026 | Ritter Butzke | Berlin |
 
@@ -28,4 +29,4 @@ justUS is a techno and house artist tracked on soundcheck, with 103 sets logged 
 
 MILLA LOU, Katzengold, Chris Plettenberg
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/justus/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/justus/)*

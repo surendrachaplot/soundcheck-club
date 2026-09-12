@@ -1,8 +1,8 @@
 # control
 
-control is a music venue in Bucharest with 9 upcoming nights listed on soundcheck as of Fri, 11 Sept 2026; the next is "ctrl x ICHIGO: Roger Rabbit with Shan Selby [USA], Sătănel" on Fri, 11 Sept 2026.
+control is a music venue in Bucharest with 10 upcoming nights listed on soundcheck as of Sat, 12 Sept 2026; the next is "ctrl x ICHIGO: Roger Rabbit with Shan Selby [USA], Sătănel" on Fri, 11 Sept 2026.
 
-control is a music venue in Bucharest listed on soundcheck. 9 upcoming nights, with line-ups including Acid Arab, AEREA, Andreea Veder and DAR DISKU and 2 more. Browse upcoming dates, start times and who's playing. Str. Constantin Mille, nr. 4, 010142 Bucharest, Romania.
+control is a music venue in Bucharest listed on soundcheck. 10 upcoming nights, with line-ups including Acid Arab, AEREA, Alexandra (2) and Andreea Veder and 2 more. Browse upcoming dates, start times and who's playing. Str. Constantin Mille, nr. 4, 010142 Bucharest, Romania.
 
 ## What's on
 
@@ -11,6 +11,7 @@ control is a music venue in Bucharest listed on soundcheck. 9 upcoming nights, w
 | Fri, 11 Sept 2026 | ctrl x ICHIGO: Roger Rabbit with Shan Selby [USA], Sătănel |  |
 | Fri, 11 Sept 2026 | Walk the Night with Italo Deviance [IT], Moss Farai, Andreea Veder & Claudia | Andreea Veder, Italo Deviance, Moss Farai |
 | Fri, 18 Sept 2026 | PA!SA!KA! with ELIZABETE BALČUS feat. KnotK [LIVE], Katya Kóv, Monika Seta, Moteris | ELIZABETE BALČUS, Katya Kóv, Monika Seta, Moteris |
+| Sat, 19 Sept 2026 | Black Rhino Residency #28 | ANIN, Alexandra (2), Drao, Gheordu, Low Freq, Riddim Bandits, tia (2) |
 | Fri, 25 Sept 2026 | AEREA [DE/ES] [LIVE] | AEREA |
 | Fri, 2 Oct 2026 | ctrl18: Acid Arab [FR] | Acid Arab |
 | Sat, 3 Oct 2026 | ctrl18: Roman Flügel [DE] | Roman Flügel |
@@ -22,4 +23,4 @@ control is a music venue in Bucharest listed on soundcheck. 9 upcoming nights, w
 
 Str. Constantin Mille, nr. 4, 010142 Bucharest, Romania, Bucharest
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/bucharest/club/control/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/bucharest/club/control/)*

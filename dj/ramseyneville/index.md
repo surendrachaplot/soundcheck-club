@@ -1,8 +1,8 @@
 # Ramsey Neville
 
-Ramsey Neville is a Techno and Minimal Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at Green Room NYC, New York City on Fri, 25 Sept 2026.
+Ramsey Neville is a Techno and Minimal Techno artist with 3 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Green Room NYC, New York City on Fri, 25 Sept 2026.
 
-Ramsey Neville is a techno and minimal techno artist based in United States of America, tracked on soundcheck, with 45 sets logged across Amsterdam, Berlin, Boston and Chicago and 6 more. Often billed alongside Michelle Kay, Junkfile and Adrian Hex. Next up: Green Room NYC, Newyorkcity on Fri 25 Sept.
+Ramsey Neville is a techno and minimal techno artist based in United States of America, tracked on soundcheck, with 46 sets logged across Amsterdam, Berlin, Boston and Chicago and 6 more. Often billed alongside Michelle Kay, Junkfile and Adrian Hex. Next up: Green Room NYC, Newyorkcity on Fri 25 Sept.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Ramsey Neville is a techno and minimal techno artist based in United States of A
 | --- | --- | --- |
 | Fri, 25 Sept 2026 | Green Room NYC | New York City |
 | Tue, 13 Oct 2026 | Melkweg | Amsterdam |
+| Thu, 22 Oct 2026 | nachbar | Amsterdam |
 
 ## Recently played
 
@@ -26,4 +27,4 @@ Ramsey Neville is a techno and minimal techno artist based in United States of A
 
 Michelle Kay, Junkfile, Adrian Hex
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ramseyneville/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ramseyneville/)*

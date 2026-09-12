@@ -1,6 +1,6 @@
 # Anechoic
 
-Anechoic is a Techno and Ambient artist with 1 upcoming club date listed on soundcheck as of Fri, 11 Sept 2026, next at Glazart, Paris on Sat, 19 Sept 2026.
+Anechoic is a Techno and Ambient artist with 1 upcoming club date listed on soundcheck as of Sat, 12 Sept 2026, next at Glazart, Paris on Sat, 19 Sept 2026.
 
 Anechoic is a techno and ambient artist tracked on soundcheck, with 12 sets logged across Lyon, Osaka, Paris and Tokyo. Often billed alongside Diapasøn, Mersel and Squaric. Next up: Glazart, Paris on Sat 19 Sept.
 
@@ -25,4 +25,4 @@ Anechoic is a techno and ambient artist tracked on soundcheck, with 12 sets logg
 
 Diapasøn, Mersel, Squaric
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/anechoic/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/anechoic/)*

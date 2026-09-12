@@ -1,6 +1,6 @@
 # DJ Healthy
 
-DJ Healthy is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at Camp Kennybrook, New York City on Thu, 10 Sept 2026.
+DJ Healthy is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Camp Kennybrook, New York City on Thu, 10 Sept 2026.
 
 DJ Healthy is a techno and house artist tracked on soundcheck, with 101 sets logged across Bangkok, Dublin, Hongkong and Kyoto and 10 more. Often billed alongside Amelia Holt, YELLOWUHURU and Chung. Next up: Camp Kennybrook, Newyorkcity on Thu 10 Sept.
 
@@ -27,4 +27,4 @@ DJ Healthy is a techno and house artist tracked on soundcheck, with 101 sets log
 
 Amelia Holt, YELLOWUHURU, Chung
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djhealthy/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djhealthy/)*

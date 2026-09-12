@@ -1,6 +1,6 @@
 # Rūmu
 
-Rūmu is a music venue in Lisbon with 6 upcoming nights listed on soundcheck as of Fri, 11 Sept 2026; the next is "Rūmu presents: Mâhfoud" on Fri, 11 Sept 2026.
+Rūmu is a music venue in Lisbon with 6 upcoming nights listed on soundcheck as of Sat, 12 Sept 2026; the next is "Rūmu presents: Mâhfoud" on Fri, 11 Sept 2026.
 
 Rūmu is a music venue in Lisbon listed on soundcheck. 6 upcoming nights, with line-ups including Barbu, Boyá, Bryto and C4STRO and 2 more. Browse upcoming dates, start times and who's playing. R. Nova da Trindade 5G, 1200-445 Lisboa, Portugal.
 
@@ -19,4 +19,4 @@ Rūmu is a music venue in Lisbon listed on soundcheck. 6 upcoming nights, with l
 
 R. Nova da Trindade 5G, 1200-445 Lisboa, Portugal, Lisbon
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/lisbon/club/r-mu/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/lisbon/club/r-mu/)*

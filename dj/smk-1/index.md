@@ -1,6 +1,6 @@
 # SMK (1)
 
-SMK (1) is a House and Minimal Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at Nice N Sleazy, Glasgow on Fri, 11 Sept 2026.
+SMK (1) is a House and Minimal Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Nice N Sleazy, Glasgow on Fri, 11 Sept 2026.
 
 SMK (1) is a house and minimal techno artist based in United Kingdom, tracked on soundcheck, with 4 sets logged across Glasgow. Often billed alongside Surplus, Ali Watts and Amizl. Next up: Nice N Sleazy, Glasgow on Fri 11 Sept.
 
@@ -13,6 +13,7 @@ SMK (1) is a house and minimal techno artist based in United Kingdom, tracked on
 
 ## Recently played
 
+- Nice N Sleazy, Glasgow — Fri, 11 Sept 2026
 - La Cheetah Club, Glasgow — Thu, 13 Aug 2026
 - Nice N Sleazy, Glasgow — Sat, 30 May 2026
 
@@ -20,4 +21,4 @@ SMK (1) is a house and minimal techno artist based in United Kingdom, tracked on
 
 Surplus, Ali Watts, Amizl
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/smk-1/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/smk-1/)*

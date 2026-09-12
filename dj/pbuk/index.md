@@ -1,6 +1,6 @@
 # PB (UK)
 
-PB (UK) is a Jungle and Drum & Bass artist with 1 upcoming club date listed on soundcheck as of Fri, 11 Sept 2026, next at Gateshead Quayside, Newcastle on Sat, 26 Sept 2026.
+PB (UK) is a Jungle and Drum & Bass artist with 1 upcoming club date listed on soundcheck as of Sat, 12 Sept 2026, next at Gateshead Quayside, Newcastle on Sat, 26 Sept 2026.
 
 PB (UK) is a jungle and drum & bass artist tracked on soundcheck, with 8 sets logged across Leeds, London and Newcastle. Often billed alongside DJ BootyShake, NEENZY (UK) and Amelia Leigh. Next up: Gateshead Quayside, Newcastle on Sat 26 Sept.
 
@@ -24,4 +24,4 @@ PB (UK) is a jungle and drum & bass artist tracked on soundcheck, with 8 sets lo
 
 DJ BootyShake, NEENZY (UK), Amelia Leigh
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/pbuk/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/pbuk/)*

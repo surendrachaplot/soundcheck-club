@@ -1,6 +1,6 @@
 # Woodstock'69
 
-Woodstock'69 is a music venue in Amsterdam with 1 upcoming night listed on soundcheck as of Fri, 11 Sept 2026; the next is "Woodstock Closing with Lucky Done Gone & Young Marco [sold out]" on Sun, 13 Sept 2026.
+Woodstock'69 is a music venue in Amsterdam with 1 upcoming night listed on soundcheck as of Sat, 12 Sept 2026; the next is "Woodstock Closing with Lucky Done Gone & Young Marco [sold out]" on Sun, 13 Sept 2026.
 
 Woodstock'69 is a music venue in Amsterdam listed on soundcheck. 1 upcoming night, with line-ups including Lucky Done Gone and Young Marco. Browse upcoming dates, start times and who's playing. Zeeweg 7, 2051 EB Overveen, Netherlands.
 
@@ -14,4 +14,4 @@ Woodstock'69 is a music venue in Amsterdam listed on soundcheck. 1 upcoming nigh
 
 Zeeweg 7, 2051 EB Overveen, Netherlands, Amsterdam
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/woodstock-69/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/woodstock-69/)*

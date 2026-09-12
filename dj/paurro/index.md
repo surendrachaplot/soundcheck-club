@@ -1,6 +1,6 @@
 # PAURRO
 
-PAURRO is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at Camp Kennybrook, New York City on Thu, 10 Sept 2026.
+PAURRO is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Camp Kennybrook, New York City on Thu, 10 Sept 2026.
 
 PAURRO is a house and techno artist tracked on soundcheck, with 177 sets logged across Amsterdam, Austin, Barcelona and Berlin and 28 more. Often billed alongside Ranma Entero, Kodemul and Valeriana. Next up: Camp Kennybrook, Newyorkcity on Thu 10 Sept.
 
@@ -28,4 +28,4 @@ PAURRO is a house and techno artist tracked on soundcheck, with 177 sets logged 
 
 Ranma Entero, Kodemul, Valeriana
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/paurro/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/paurro/)*

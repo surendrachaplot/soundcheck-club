@@ -1,6 +1,6 @@
 # RAMSEY (AU)
 
-RAMSEY (AU) is a Bass and Club artist with 1 upcoming club date listed on soundcheck as of Fri, 11 Sept 2026, next at 24 Moons, Melbourne on Fri, 18 Sept 2026.
+RAMSEY (AU) is a Bass and Club artist with 1 upcoming club date listed on soundcheck as of Sat, 12 Sept 2026, next at 24 Moons, Melbourne on Fri, 18 Sept 2026.
 
 RAMSEY (AU) is a bass and club artist tracked on soundcheck, with 25 sets logged across Melbourne and Sydney. Often billed alongside MzRizk, Deepa and Luqman. Next up: 24 Moons, Melbourne on Fri 18 Sept.
 
@@ -25,4 +25,4 @@ RAMSEY (AU) is a bass and club artist tracked on soundcheck, with 25 sets logged
 
 MzRizk, Deepa, Luqman
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ramsey-au/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ramsey-au/)*

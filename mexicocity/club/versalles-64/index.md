@@ -1,6 +1,6 @@
 # Versalles 64
 
-Versalles 64 is a music venue in Mexico City with 3 upcoming nights listed on soundcheck as of Fri, 11 Sept 2026; the next is "[sic]: Nasty / OYUKI. / sadgal" on Sat, 12 Sept 2026.
+Versalles 64 is a music venue in Mexico City with 3 upcoming nights listed on soundcheck as of Sat, 12 Sept 2026; the next is "[sic]: Nasty / OYUKI. / sadgal" on Sat, 12 Sept 2026.
 
 Versalles 64 is a music venue in Mexicocity listed on soundcheck. 3 upcoming nights, with line-ups including Baby Mango, Chucho Amezcua, DU'DU (MX) and E.T. (3) and 2 more. Browse upcoming dates, start times and who's playing. Calle Versalles 64, Col. Juárez. CDMX.
 
@@ -16,4 +16,4 @@ Versalles 64 is a music venue in Mexicocity listed on soundcheck. 3 upcoming nig
 
 Calle Versalles 64, Col. Juárez. CDMX, Mexico City
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/mexicocity/club/versalles-64/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/mexicocity/club/versalles-64/)*

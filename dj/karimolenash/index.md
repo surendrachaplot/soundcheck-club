@@ -1,6 +1,6 @@
 # Karim Olen Ash
 
-Karim Olen Ash is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at Buddies in Bad Times, Toronto on Fri, 11 Sept 2026.
+Karim Olen Ash is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Buddies in Bad Times, Toronto on Fri, 11 Sept 2026.
 
 Karim Olen Ash is a techno and house artist tracked on soundcheck, with 68 sets logged across Leipzig, London, Mexicocity and Miami and 3 more. Often billed alongside Chippy Nonstop, Phillippe and REDLINERS. Next up: Buddies in Bad Times, Toronto on Fri 11 Sept.
 
@@ -14,6 +14,7 @@ Karim Olen Ash is a techno and house artist tracked on soundcheck, with 68 sets 
 
 ## Recently played
 
+- Buddies in Bad Times, Toronto — Fri, 11 Sept 2026
 - Signal, New York City — Sat, 27 Jun 2026
 - Ocad - Butterfield Park, Toronto — Sat, 20 Jun 2026
 - BASEMENT, New York City — Sat, 13 Jun 2026
@@ -21,10 +22,9 @@ Karim Olen Ash is a techno and house artist tracked on soundcheck, with 68 sets 
 - H0L0, New York City — Fri, 15 May 2026
 - Standard Time, Toronto — Fri, 1 May 2026
 - public records, New York City — Sun, 29 Mar 2026
-- BASEMENT, New York City — Sat, 7 Mar 2026
 
 ## Shares bills with
 
 Chippy Nonstop, Phillippe, REDLINERS
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/karimolenash/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/karimolenash/)*

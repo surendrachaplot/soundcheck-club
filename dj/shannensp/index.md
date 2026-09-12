@@ -1,13 +1,14 @@
 # Shannen SP
 
-Shannen SP is a Amapiano and Club artist with 1 upcoming club date listed on soundcheck as of Fri, 11 Sept 2026, next at Strange Brew, Bristol on Sat, 31 Oct 2026.
+Shannen SP is a Amapiano and Club artist with 2 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Ormside Projects, London on Sat, 10 Oct 2026.
 
-Shannen SP is an amapiano and club artist based in United Kingdom, tracked on soundcheck, with 58 sets logged across Amsterdam, Athens, Basel and Berlin and 15 more. Often billed alongside Bok Bok, Ikonika and Nico Adomako. Next up: Strange Brew, Bristol on Sat 31 Oct.
+Shannen SP is an amapiano and club artist based in United Kingdom, tracked on soundcheck, with 59 sets logged across Amsterdam, Athens, Basel and Berlin and 15 more. Often billed alongside Bok Bok, Ikonika and Nico Adomako. Next up: Ormside Projects, London on Sat 10 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 10 Oct 2026 | Ormside Projects | London |
 | Sat, 31 Oct 2026 | Strange Brew | Bristol |
 
 ## Recently played
@@ -25,4 +26,4 @@ Shannen SP is an amapiano and club artist based in United Kingdom, tracked on so
 
 Bok Bok, Ikonika, Nico Adomako
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/shannensp/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/shannensp/)*

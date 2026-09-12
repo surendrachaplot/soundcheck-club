@@ -1,6 +1,6 @@
 # Proudly People
 
-Proudly People is a Tech House and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at Tunnel, Milan on Fri, 11 Sept 2026.
+Proudly People is a Tech House and House artist with 2 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Tunnel, Milan on Fri, 11 Sept 2026.
 
 Proudly People is a tech house and house artist tracked on soundcheck, with 29 sets logged across Amsterdam, Barcelona, Frankfurt and Ibiza and 7 more. Often billed alongside Joe Vanditti, Blackchild and Chicks Luv Us. Next up: Tunnel, Milan on Fri 11 Sept.
 
@@ -13,6 +13,7 @@ Proudly People is a tech house and house artist tracked on soundcheck, with 29 s
 
 ## Recently played
 
+- Tunnel, Milan — Fri, 11 Sept 2026
 - Tantra Bar Ibiza, Ibiza — Wed, 1 Jul 2026
 - Madam, Amsterdam — Sat, 21 Feb 2026
 - Tanzhaus West, Frankfurt — Sat, 7 Feb 2026
@@ -20,10 +21,9 @@ Proudly People is a tech house and house artist tracked on soundcheck, with 29 s
 - The Rocket Club, Milan — Thu, 18 Dec 2025
 - Keeper, Ibiza — Fri, 12 Dec 2025
 - The Rocket Club, Milan — Thu, 6 Nov 2025
-- Studio Club Malaga, Malaga — Sat, 20 Sept 2025
 
 ## Shares bills with
 
 Joe Vanditti, Blackchild, Chicks Luv Us
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/proudlypeople/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/proudlypeople/)*

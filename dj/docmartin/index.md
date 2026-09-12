@@ -1,6 +1,6 @@
 # Doc Martin
 
-Doc Martin is a House and Techno artist with 6 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at House of Yes, New York City on Sat, 12 Sept 2026.
+Doc Martin is a House and Techno artist with 6 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at House of Yes, New York City on Sat, 12 Sept 2026.
 
 Doc Martin is a house and techno artist tracked on soundcheck, with 95 sets logged across Amsterdam, Austin, Chicago and Denver and 16 more. Often billed alongside DJ Sneak, DJ M3 and Mark Farina. Next up: House of Yes, Newyorkcity on Sat 12 Sept.
 
@@ -30,4 +30,4 @@ Doc Martin is a house and techno artist tracked on soundcheck, with 95 sets logg
 
 DJ Sneak, DJ M3, Mark Farina
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/docmartin/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/docmartin/)*

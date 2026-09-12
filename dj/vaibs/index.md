@@ -1,6 +1,6 @@
 # VAIBS
 
-VAIBS is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 11 Sept 2026, next at Exit Reality, Singapore on Sat, 12 Sept 2026.
+VAIBS is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 12 Sept 2026, next at Exit Reality, Singapore on Sat, 12 Sept 2026.
 
 VAIBS is a techno and house artist tracked on soundcheck, with 93 sets logged across Bali, Bangkok, Kualalumpur and Seoul and 1 more. Often billed alongside DEZ (SG), sho&tell and Kevin Sy. Next up: Exit Reality, Singapore on Sat 12 Sept.
 
@@ -25,4 +25,4 @@ VAIBS is a techno and house artist tracked on soundcheck, with 93 sets logged ac
 
 DEZ (SG), sho&tell, Kevin Sy
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/vaibs/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/vaibs/)*

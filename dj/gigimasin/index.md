@@ -1,14 +1,15 @@
 # Gigi Masin
 
-Gigi Masin is a Ambient and Experimental artist with 2 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at TivoliVredenburg, Utrecht on Thu, 5 Nov 2026.
+Gigi Masin is a Ambient and Electronica artist with 3 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at TivoliVredenburg, Utrecht on Thu, 5 Nov 2026.
 
-Gigi Masin is an ambient and experimental artist based in Italy, tracked on soundcheck, with 9 sets logged across Berlin, Dublin, London and Manchester and 3 more. Often billed alongside Valentina Magaletti, upsammy and Aba Shanti-I. Next up: TivoliVredenburg, Utrecht on Thu 5 Nov.
+Gigi Masin is an ambient and electronica artist based in Italy, tracked on soundcheck, with 10 sets logged across Berlin, Dublin, Glasgow and London and 4 more. Often billed alongside Valentina Magaletti, upsammy and Aba Shanti-I. Next up: TivoliVredenburg, Utrecht on Thu 5 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Thu, 5 Nov 2026 | TivoliVredenburg | Utrecht |
+| Mon, 16 Nov 2026 | The Glad Cafe | Glasgow |
 | Wed, 18 Nov 2026 | EartH | London |
 
 ## Recently played
@@ -25,4 +26,4 @@ Gigi Masin is an ambient and experimental artist based in Italy, tracked on soun
 
 Valentina Magaletti, upsammy, Aba Shanti-I
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/gigimasin/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/gigimasin/)*

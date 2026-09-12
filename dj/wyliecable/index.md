@@ -1,6 +1,6 @@
 # Wylie Cable
 
-Wylie Cable is a Hip-Hop and Bass artist with 2 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at Enter Shibuya, Tokyo on Thu, 17 Sept 2026.
+Wylie Cable is a Hip-Hop and Bass artist with 2 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Enter Shibuya, Tokyo on Thu, 17 Sept 2026.
 
 Wylie Cable is a hip-hop and bass artist tracked on soundcheck, with 3 sets logged across Losangeles and Tokyo. Often billed alongside CITY1, Daddy Kev and Mazlika. Next up: Enter Shibuya, Tokyo on Thu 17 Sept.
 
@@ -19,4 +19,4 @@ Wylie Cable is a hip-hop and bass artist tracked on soundcheck, with 3 sets logg
 
 CITY1, Daddy Kev, Mazlika
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/wyliecable/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/wyliecable/)*

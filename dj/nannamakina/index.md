@@ -1,6 +1,6 @@
 # Nanna Makina
 
-Nanna Makina is a Trance and Techno artist with 3 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at Tempo, Glasgow on Sun, 27 Sept 2026.
+Nanna Makina is a Trance and Techno artist with 3 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Tempo, Glasgow on Sun, 27 Sept 2026.
 
 Nanna Makina is a trance and techno artist based in United Kingdom, tracked on soundcheck, with 4 sets logged across Glasgow and Manchester. Often billed alongside MC Tazo, 2FEL and 4000 Hz. Next up: Tempo, Glasgow on Sun 27 Sept.
 
@@ -20,4 +20,4 @@ Nanna Makina is a trance and techno artist based in United Kingdom, tracked on s
 
 MC Tazo, 2FEL, 4000 Hz
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nannamakina/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nannamakina/)*

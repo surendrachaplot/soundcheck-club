@@ -1,6 +1,6 @@
 # James Zabiela
 
-James Zabiela is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at The Steel Yard, London on Fri, 25 Sept 2026.
+James Zabiela is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at The Steel Yard, London on Fri, 25 Sept 2026.
 
 James Zabiela is a house and techno artist tracked on soundcheck, with 62 sets logged across Auckland, Barcelona, Belfast and Belgrade and 25 more. Often billed alongside Sasha, Anthony Pappa and Danny Howells. Next up: The Steel Yard, London on Fri 25 Sept.
 
@@ -29,4 +29,4 @@ James Zabiela is a house and techno artist tracked on soundcheck, with 62 sets l
 
 Sasha, Anthony Pappa, Danny Howells
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jameszabiela/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jameszabiela/)*

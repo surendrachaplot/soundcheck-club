@@ -1,6 +1,6 @@
 # Red Arch
 
-Red Arch is a music venue in Manchester with 1 upcoming night listed on soundcheck as of Fri, 11 Sept 2026; the next is "LLOUS X Red Arch Halloween house party" on Sat, 31 Oct 2026.
+Red Arch is a music venue in Manchester with 1 upcoming night listed on soundcheck as of Sat, 12 Sept 2026; the next is "LLOUS X Red Arch Halloween house party" on Sat, 31 Oct 2026.
 
 Red Arch is a music venue in Manchester listed on soundcheck. 1 upcoming night, with line-ups including HSTN. Browse upcoming dates, start times and who's playing. 11 Red Bank, Manchester, United Kingdom M4 4HF.
 
@@ -14,4 +14,4 @@ Red Arch is a music venue in Manchester listed on soundcheck. 1 upcoming night, 
 
 11 Red Bank, Manchester, United Kingdom M4 4HF, Manchester
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/red-arch/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/red-arch/)*

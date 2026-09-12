@@ -1,6 +1,6 @@
 # export
 
-export is a music venue in Rotterdam with 8 upcoming nights listed on soundcheck as of Fri, 11 Sept 2026; the next is "David Vunk 50 YRS" on Fri, 11 Sept 2026.
+export is a music venue in Rotterdam with 8 upcoming nights listed on soundcheck as of Sat, 12 Sept 2026; the next is "David Vunk 50 YRS" on Fri, 11 Sept 2026.
 
 export is a music venue in Rotterdam listed on soundcheck. 8 upcoming nights, with line-ups including 69DB, Afra, Animistic Beliefs and David Vunk and 2 more. Browse upcoming dates, start times and who's playing. Keilestraat 7E, 3029 BP, Rotterdam.
 
@@ -21,4 +21,4 @@ export is a music venue in Rotterdam listed on soundcheck. 8 upcoming nights, wi
 
 Keilestraat 7E, 3029 BP, Rotterdam, Rotterdam
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/rotterdam/club/export/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/rotterdam/club/export/)*

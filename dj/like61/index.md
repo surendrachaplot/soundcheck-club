@@ -1,8 +1,8 @@
 # LIKE61
 
-LIKE61 is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at Toekomstmuziek, Amsterdam on Fri, 2 Oct 2026.
+LIKE61 is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Toekomstmuziek, Amsterdam on Fri, 2 Oct 2026.
 
-LIKE61 is a house and disco artist based in Netherlands, tracked on soundcheck, with 3 sets logged across Amsterdam. Often billed alongside Drabes, Kirilski and Meestro. Next up: Toekomstmuziek, Amsterdam on Fri 2 Oct.
+LIKE61 is a house and disco artist based in Netherlands, tracked on soundcheck, with 3 sets logged across Amsterdam. Often billed alongside Drabes, AIS De La Montagne and Kirilski. Next up: Toekomstmuziek, Amsterdam on Fri 2 Oct.
 
 ## Upcoming shows
 
@@ -17,6 +17,6 @@ LIKE61 is a house and disco artist based in Netherlands, tracked on soundcheck, 
 
 ## Shares bills with
 
-Drabes, Kirilski, Meestro
+Drabes, AIS De La Montagne, Kirilski
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/like61/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/like61/)*

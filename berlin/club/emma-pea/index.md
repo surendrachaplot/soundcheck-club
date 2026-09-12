@@ -1,6 +1,6 @@
 # Emma Pea
 
-Emma Pea is a music venue in Berlin with 2 upcoming nights listed on soundcheck as of Fri, 11 Sept 2026; the next is "Kink-Y Munch" on Mon, 28 Sept 2026.
+Emma Pea is a music venue in Berlin with 2 upcoming nights listed on soundcheck as of Sat, 12 Sept 2026; the next is "Kink-Y Munch" on Mon, 28 Sept 2026.
 
 Emma Pea is a music venue in Berlin listed on soundcheck. 2 upcoming nights. Browse upcoming dates, start times and who's playing. Revaler Str. 99, 10245 Berlin, Germany.
 
@@ -15,4 +15,4 @@ Emma Pea is a music venue in Berlin listed on soundcheck. 2 upcoming nights. Bro
 
 Revaler Str. 99, 10245 Berlin, Germany, Berlin
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/emma-pea/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/emma-pea/)*

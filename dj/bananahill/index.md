@@ -1,6 +1,6 @@
 # Banana Hill
 
-Banana Hill is a Deep House and Balearic artist with 2 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at Red Bull Pub - Stockport, Manchester on Sat, 10 Oct 2026.
+Banana Hill is a Deep House and Balearic artist with 2 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Red Bull Pub - Stockport, Manchester on Sat, 10 Oct 2026.
 
 Banana Hill is a deep house and balearic artist tracked on soundcheck, with 7 sets logged across London and Manchester. Often billed alongside Cervo, Contours and Earthly Measures. Next up: Red Bull Pub - Stockport, Manchester on Sat 10 Oct.
 
@@ -23,4 +23,4 @@ Banana Hill is a deep house and balearic artist tracked on soundcheck, with 7 se
 
 Cervo, Contours, Earthly Measures
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bananahill/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bananahill/)*

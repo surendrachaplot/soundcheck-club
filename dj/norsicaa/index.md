@@ -1,13 +1,14 @@
 # Norsicaa
 
-Norsicaa is a Funk / Soul and House artist with 1 upcoming club date listed on soundcheck as of Fri, 11 Sept 2026, next at Colour Factory, London on Sat, 17 Oct 2026.
+Norsicaa is a Funk / Soul and Disco artist with 2 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at The Jam Jar, Bristol on Thu, 17 Sept 2026.
 
-Norsicaa is a funk / soul and house artist based in United Kingdom, tracked on soundcheck, with 23 sets logged across Barcelona, Berlin, Kualalumpur and London and 2 more. Often billed alongside Heels & Souls, Joseph Russell and Miche. Next up: Colour Factory, London on Sat 17 Oct.
+Norsicaa is a funk / soul and disco artist based in United Kingdom, tracked on soundcheck, with 24 sets logged across Barcelona, Berlin, Bristol and Kualalumpur and 3 more. Often billed alongside Heels & Souls, Joseph Russell and Miche. Next up: The Jam Jar, Bristol on Thu 17 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Thu, 17 Sept 2026 | The Jam Jar | Bristol |
 | Sat, 17 Oct 2026 | Colour Factory | London |
 
 ## Recently played
@@ -25,4 +26,4 @@ Norsicaa is a funk / soul and house artist based in United Kingdom, tracked on s
 
 Heels & Souls, Joseph Russell, Miche
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/norsicaa/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/norsicaa/)*

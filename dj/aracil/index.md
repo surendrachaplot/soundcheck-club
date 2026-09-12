@@ -1,6 +1,6 @@
 # Aracil
 
-Aracil is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 11 Sept 2026, next at Ritter Butzke, Berlin on Sat, 12 Sept 2026.
+Aracil is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 12 Sept 2026, next at Ritter Butzke, Berlin on Sat, 12 Sept 2026.
 
 Aracil is a house and techno artist based in Spain, tracked on soundcheck, with 14 sets logged across Bali, Barcelona, Berlin and Ibiza and 2 more. Often billed alongside Agatha Pher, Bebetta and Brenda Cast. Next up: Ritter Butzke, Berlin on Sat 12 Sept.
 
@@ -25,4 +25,4 @@ Aracil is a house and techno artist based in Spain, tracked on soundcheck, with 
 
 Agatha Pher, Bebetta, Brenda Cast
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/aracil/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/aracil/)*

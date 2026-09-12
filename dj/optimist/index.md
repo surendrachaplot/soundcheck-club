@@ -1,6 +1,6 @@
 # OPTIMIST
 
-OPTIMIST is a Garage and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at Twinboxakihabara, Tokyo on Fri, 11 Sept 2026.
+OPTIMIST is a Garage and House artist with 2 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Twinboxakihabara, Tokyo on Fri, 11 Sept 2026.
 
 OPTIMIST is a garage and house artist based in Japan, tracked on soundcheck, with 61 sets logged across Tokyo. Often billed alongside ATAMI, MOOTOE and VECSILLE. Next up: Twinboxakihabara, Tokyo on Fri 11 Sept.
 
@@ -13,6 +13,7 @@ OPTIMIST is a garage and house artist based in Japan, tracked on soundcheck, wit
 
 ## Recently played
 
+- Twinboxakihabara, Tokyo — Fri, 11 Sept 2026
 - ZEROTOKYO, Tokyo — Fri, 7 Aug 2026
 - Circus Tokyo, Tokyo — Fri, 12 Jun 2026
 - Circus Tokyo, Tokyo — Sat, 6 Jun 2026
@@ -20,10 +21,9 @@ OPTIMIST is a garage and house artist based in Japan, tracked on soundcheck, wit
 - Zerotokyo, Tokyo — Fri, 20 Mar 2026
 - WOMB, Tokyo — Sun, 1 Mar 2026
 - Zerotokyo, Tokyo — Thu, 19 Feb 2026
-- Zerotokyo, Tokyo — Thu, 19 Feb 2026
 
 ## Shares bills with
 
 ATAMI, MOOTOE, VECSILLE
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/optimist/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/optimist/)*

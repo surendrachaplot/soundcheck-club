@@ -1,6 +1,6 @@
 # Alfalfa (2)
 
-Alfalfa (2) is a Electro and Tech House artist with 1 upcoming club date listed on soundcheck as of Fri, 11 Sept 2026, next at B-SIDE, Warsaw on Sat, 12 Sept 2026.
+Alfalfa (2) is a Electro and Tech House artist with 1 upcoming club date listed on soundcheck as of Sat, 12 Sept 2026, next at B-SIDE, Warsaw on Sat, 12 Sept 2026.
 
 Alfalfa (2) is an electro and tech house artist tracked on soundcheck, with 44 sets logged across Berlin, Cologne, Dusseldorf and Munich and 3 more. Often billed alongside Romeu (2), Julian Bomm and Karrido. Next up: B-SIDE, Warsaw on Sat 12 Sept.
 
@@ -25,4 +25,4 @@ Alfalfa (2) is an electro and tech house artist tracked on soundcheck, with 44 s
 
 Romeu (2), Julian Bomm, Karrido
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/alfalfa-2/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/alfalfa-2/)*

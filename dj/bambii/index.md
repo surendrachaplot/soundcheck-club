@@ -1,6 +1,6 @@
 # Bambii
 
-Bambii is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at Buddies in Bad Times, Toronto on Fri, 11 Sept 2026.
+Bambii is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Buddies in Bad Times, Toronto on Fri, 11 Sept 2026.
 
 Bambii is a techno and house artist tracked on soundcheck, with 103 sets logged across Amsterdam, Athens, Austin and Barcelona and 26 more. Often billed alongside Young Teesh, Nino Brown (2) and Chase & Status. Next up: Buddies in Bad Times, Toronto on Fri 11 Sept.
 
@@ -17,6 +17,7 @@ Bambii is a techno and house artist tracked on soundcheck, with 103 sets logged 
 
 ## Recently played
 
+- Buddies in Bad Times, Toronto — Fri, 11 Sept 2026
 - Freight Brixton, London — Sat, 29 Aug 2026
 - Parc Jean-Drapeau, Montreal — Fri, 31 Jul 2026
 - Sønder Hoved, Copenhagen — Thu, 30 Jul 2026
@@ -24,10 +25,9 @@ Bambii is a techno and house artist tracked on soundcheck, with 103 sets logged 
 - Holland Park, Vancouver — Fri, 3 Jul 2026
 - Holland Park, Vancouver — Thu, 2 Jul 2026
 - The Great Northern, San Francisco/Oakland — Sun, 28 Jun 2026
-- TBA - DTLA, Los Angeles — Fri, 26 Jun 2026
 
 ## Shares bills with
 
 Young Teesh, Nino Brown (2), Chase & Status
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bambii/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bambii/)*

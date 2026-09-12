@@ -1,6 +1,6 @@
 # Andrew Wowk
 
-Andrew Wowk is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 11 Sept 2026, next at TBA, Sydney on Sat, 12 Sept 2026.
+Andrew Wowk is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 12 Sept 2026, next at TBA, Sydney on Sat, 12 Sept 2026.
 
 Andrew Wowk is a techno and house artist based in Australia, tracked on soundcheck, with 38 sets logged across Melbourne and Sydney. Often billed alongside TR4XIE, Bats and Jane Decks. Next up: TBA, Sydney on Sat 12 Sept.
 
@@ -25,4 +25,4 @@ Andrew Wowk is a techno and house artist based in Australia, tracked on soundche
 
 TR4XIE, Bats, Jane Decks
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/andrewwowk/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/andrewwowk/)*

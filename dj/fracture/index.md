@@ -1,6 +1,6 @@
 # Fracture
 
-Fracture is a Drum & Bass and Jungle artist with 5 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at Hidden, Manchester on Thu, 24 Sept 2026.
+Fracture is a Drum & Bass and Jungle artist with 5 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Hidden, Manchester on Thu, 24 Sept 2026.
 
 Fracture is a drum & bass and jungle artist tracked on soundcheck, with 51 sets logged across Antwerp, Berlin, Brighton and Bristol and 9 more. Often billed alongside Tim Reaper, Decibella and Equinox (UK). Next up: Hidden, Manchester on Thu 24 Sept.
 
@@ -29,4 +29,4 @@ Fracture is a drum & bass and jungle artist tracked on soundcheck, with 51 sets 
 
 Tim Reaper, Decibella, Equinox (UK)
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/fracture/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/fracture/)*

@@ -1,14 +1,15 @@
 # Gaffe
 
-Gaffe is a music venue in London with 18 upcoming nights listed on soundcheck as of Fri, 11 Sept 2026; the next is "A day with 1-800 GIRLS + Emerald & GEM" on Sat, 12 Sept 2026.
+Gaffe is a music venue in London with 19 upcoming nights listed on soundcheck as of Sat, 12 Sept 2026; the next is "Origins: 1-800 GIRLS + Emerald & GEM [All Day Long]" on Sat, 12 Sept 2026.
 
-Gaffe is a music venue in London listed on soundcheck. 18 upcoming nights, with line-ups including 1-800 GIRLS, 1BYAKKO, 3 Minds and Alien Communications and 2 more. Browse upcoming dates, start times and who's playing. 1 Anthony Way, N18 3QT.
+Gaffe is a music venue in London listed on soundcheck. 19 upcoming nights, with line-ups including 1-800 GIRLS, 1BYAKKO, 3 Minds and Alien Communications and 2 more. Browse upcoming dates, start times and who's playing. 1 Anthony Way, N18 3QT.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 12 Sept 2026 | A day with 1-800 GIRLS + Emerald & GEM | 1-800 GIRLS, Emerald |
+| Sat, 12 Sept 2026 | Origins: 1-800 GIRLS + Emerald & GEM [All Day Long] | 1-800 GIRLS, Emerald, GEM (UK) |
+| Sat, 12 Sept 2026 | Origins x Gaffe Free Day Rave - House, Techno & Trance |  |
 | Fri, 18 Sept 2026 | Refractor On Tour: London ● 5th Anniversary ● | Feral, Jan Swam, TSUNIMAN, Timnah |
 | Sat, 19 Sept 2026 | Wisdom Teeth Day & Night: Pariah, Facta x K-LONE, Manami, Jorg Kuning, FYI Robyn | FYI Robyn, Facta, Jorg Kuning, K-LONE, Manami, Pariah |
 | Sun, 20 Sept 2026 | meanwhile... summer closing | ANNX, Fais Le Beau, Ludi, Oliver Scala, Wigs |
@@ -17,10 +18,9 @@ Gaffe is a music venue in London listed on soundcheck. 18 upcoming nights, with 
 | Fri, 2 Oct 2026 | Spud Sounds presents: Vladimir Ivkovic, Cassy & Kuba'97 + After Party | Cassy, Kuba'97, Vladimir Ivkovic |
 | Fri, 9 Oct 2026 | Focal Point |  |
 | Fri, 9 Oct 2026 | Focal Point w/ Binh, Jade Seatle  | Alien Communications, Binh, Chez de Milo, Harri Pepper, Jade Seatle, Ste Roberts |
-| Sat, 10 Oct 2026 | Coki - Gaffe | Benny Ill, Coki, JAZ IMSKY, Youngsta |
 
 ## Address
 
 1 Anthony Way, N18 3QT, London
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/gaffe/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/gaffe/)*

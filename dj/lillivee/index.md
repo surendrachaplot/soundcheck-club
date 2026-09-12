@@ -1,6 +1,6 @@
 # LILLIVEE
 
-LILLIVEE is a Techno and Trance artist with 3 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at Südbrücke Open Air, Cologne on Sat, 19 Sept 2026.
+LILLIVEE is a Techno and Trance artist with 3 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Südbrücke Open Air, Cologne on Sat, 19 Sept 2026.
 
 LILLIVEE is a techno and trance artist based in Germany, tracked on soundcheck, with 39 sets logged across Berlin, Cologne, Frankfurt and Munich and 2 more. Often billed alongside Cassa Cristano, FAROUT and Mantraa. Next up: Südbrücke Open Air, Cologne on Sat 19 Sept.
 
@@ -27,4 +27,4 @@ LILLIVEE is a techno and trance artist based in Germany, tracked on soundcheck, 
 
 Cassa Cristano, FAROUT, Mantraa
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lillivee/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lillivee/)*

@@ -1,13 +1,14 @@
 # Ben Kaczor
 
-Ben Kaczor is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at Ikii, Berlin on Sat, 19 Sept 2026.
+Ben Kaczor is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Paloma, Berlin on Fri, 18 Sept 2026.
 
-Ben Kaczor is a techno and house artist tracked on soundcheck, with 52 sets logged across Amsterdam, Bangkok, Basel and Berlin and 16 more. Often billed alongside Lb Honne, boaksi and matsssiii. Next up: Ikii, Berlin on Sat 19 Sept.
+Ben Kaczor is a techno and house artist tracked on soundcheck, with 53 sets logged across Amsterdam, Bangkok, Basel and Berlin and 16 more. Often billed alongside Lb Honne, boaksi and matsssiii. Next up: Paloma, Berlin on Fri 18 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 18 Sept 2026 | Paloma | Berlin |
 | Sat, 19 Sept 2026 | Ikii | Berlin |
 | Fri, 23 Oct 2026 | TBA | Amsterdam |
 
@@ -26,4 +27,4 @@ Ben Kaczor is a techno and house artist tracked on soundcheck, with 52 sets logg
 
 Lb Honne, boaksi, matsssiii
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/benkaczor/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/benkaczor/)*

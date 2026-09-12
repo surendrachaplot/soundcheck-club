@@ -1,14 +1,15 @@
 # Iñigo Vontier
 
-Iñigo Vontier is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 11 Sept 2026, next at Outer Heaven, New York City on Sat, 12 Sept 2026.
+Iñigo Vontier is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Outer Heaven, New York City on Sat, 12 Sept 2026.
 
-Iñigo Vontier is a techno and house artist tracked on soundcheck, with 80 sets logged across Bali, Bangkok, Barcelona and Berlin and 19 more. Often billed alongside Sabrina, Concret and SABRINA (3). Next up: Outer Heaven, Newyorkcity on Sat 12 Sept.
+Iñigo Vontier is a techno and house artist tracked on soundcheck, with 81 sets logged across Bali, Bangkok, Barcelona and Berlin and 19 more. Often billed alongside Sabrina, SABRINA (3) and Concret. Next up: Outer Heaven, Newyorkcity on Sat 12 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 12 Sept 2026 | Outer Heaven | New York City |
+| Sat, 26 Sept 2026 | Sunday Sunday | Mexico City |
 
 ## Recently played
 
@@ -23,6 +24,6 @@ Iñigo Vontier is a techno and house artist tracked on soundcheck, with 80 sets 
 
 ## Shares bills with
 
-Sabrina, Concret, SABRINA (3)
+Sabrina, SABRINA (3), Concret
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/inigovontier/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/inigovontier/)*

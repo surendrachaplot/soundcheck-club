@@ -1,6 +1,6 @@
 # MC Creed
 
-MC Creed is a Garage and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at The Cause, London on Sat, 12 Sept 2026.
+MC Creed is a Garage and House artist with 2 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at The Cause, London on Sat, 12 Sept 2026.
 
 MC Creed is a garage and house artist tracked on soundcheck, with 37 sets logged across London. Often billed alongside MC DT, MC CKP and Pied Piper. Next up: The Cause, London on Sat 12 Sept.
 
@@ -26,4 +26,4 @@ MC Creed is a garage and house artist tracked on soundcheck, with 37 sets logged
 
 MC DT, MC CKP, Pied Piper
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mccreed/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mccreed/)*

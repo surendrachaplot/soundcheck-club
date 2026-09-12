@@ -1,6 +1,6 @@
 # LILA (1)
 
-LILA (1) is a UK Funky and Broken Beat artist with 2 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at Last Arch, London on Fri, 11 Sept 2026.
+LILA (1) is a UK Funky and Broken Beat artist with 2 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Last Arch, London on Fri, 11 Sept 2026.
 
 LILA (1) is an uk funky and broken beat artist based in United Kingdom, tracked on soundcheck, with 13 sets logged across Leeds and London. Often billed alongside LORA S, blissy e and Ben hauke. Next up: Last Arch, London on Fri 11 Sept.
 
@@ -13,6 +13,7 @@ LILA (1) is an uk funky and broken beat artist based in United Kingdom, tracked 
 
 ## Recently played
 
+- Last Arch, London — Fri, 11 Sept 2026
 - Ballroom at Palais, London — Thu, 16 Jul 2026
 - Bricks, London — Sat, 23 May 2026
 - Vittoria Wharf Studio, London — Sat, 9 May 2026
@@ -20,10 +21,9 @@ LILA (1) is an uk funky and broken beat artist based in United Kingdom, tracked 
 - Grow, London — Sat, 21 Mar 2026
 - The Glove That Fits, London — Sat, 19 Jul 2025
 - Corsica Studios, London — Sat, 10 May 2025
-- Hootananny Brixton, London — Sun, 20 Apr 2025
 
 ## Shares bills with
 
 LORA S, blissy e, Ben hauke
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lila-1/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lila-1/)*

@@ -1,6 +1,6 @@
 # FRANKIEE
 
-FRANKIEE is a Techno and Electro artist with 2 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at TBA, Rome on Sat, 19 Sept 2026.
+FRANKIEE is a Techno and Electro artist with 2 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at TBA, Rome on Sat, 19 Sept 2026.
 
 FRANKIEE is a techno and electro artist tracked on soundcheck, with 27 sets logged across London, Marseille, Milan and Rome. Often billed alongside Bonza, Marcolino and Orli. Next up: TBA, Rome on Sat 19 Sept.
 
@@ -26,4 +26,4 @@ FRANKIEE is a techno and electro artist tracked on soundcheck, with 27 sets logg
 
 Bonza, Marcolino, Orli
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/frankiee/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/frankiee/)*

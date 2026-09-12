@@ -1,6 +1,6 @@
 # The Coup by BUNKERBUNKER!!
 
-The Coup by BUNKERBUNKER!! is a music venue in Singapore with 2 upcoming nights listed on soundcheck as of Fri, 11 Sept 2026; the next is "Bass REBELS CHINATOWN CLASH" on Sat, 19 Sept 2026.
+The Coup by BUNKERBUNKER!! is a music venue in Singapore with 2 upcoming nights listed on soundcheck as of Sat, 12 Sept 2026; the next is "Bass REBELS CHINATOWN CLASH" on Sat, 19 Sept 2026.
 
 The Coup by BUNKERBUNKER!! is a music venue in Singapore listed on soundcheck. 2 upcoming nights, with line-ups including Bass, dUb, Suffyan and YETPET. Browse upcoming dates, start times and who's playing. 7 Ann Siang Hill, Singapore 069791.
 
@@ -15,4 +15,4 @@ The Coup by BUNKERBUNKER!! is a music venue in Singapore listed on soundcheck. 2
 
 7 Ann Siang Hill, Singapore 069791, Singapore
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/singapore/club/the-coup-by-bunkerbunker/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/singapore/club/the-coup-by-bunkerbunker/)*

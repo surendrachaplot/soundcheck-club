@@ -1,14 +1,15 @@
 # Carlo Sine
 
-Carlo Sine is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 11 Sept 2026, next at The Sultan Room, New York City on Sun, 27 Sept 2026.
+Carlo Sine is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at The Sultan Room, New York City on Sun, 27 Sept 2026.
 
-Carlo Sine is a house and techno artist tracked on soundcheck, with 10 sets logged across Barcelona, Boston and Newyorkcity. Often billed alongside Andrey Trofimov, My Dude and Rob Mancino. Next up: The Sultan Room, Newyorkcity on Sun 27 Sept.
+Carlo Sine is a house and techno artist tracked on soundcheck, with 11 sets logged across Barcelona, Boston and Newyorkcity. Often billed alongside Andrey Trofimov, Loren Berrier and My Dude. Next up: The Sultan Room, Newyorkcity on Sun 27 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sun, 27 Sept 2026 | The Sultan Room | New York City |
+| Fri, 16 Oct 2026 | Jupiter Disco | New York City |
 
 ## Recently played
 
@@ -23,6 +24,6 @@ Carlo Sine is a house and techno artist tracked on soundcheck, with 10 sets logg
 
 ## Shares bills with
 
-Andrey Trofimov, My Dude, Rob Mancino
+Andrey Trofimov, Loren Berrier, My Dude
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/carlosine/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/carlosine/)*

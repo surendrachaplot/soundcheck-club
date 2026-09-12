@@ -1,6 +1,6 @@
 # boy problem
 
-boy problem is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 11 Sept 2026, next at Jade, New York City on Thu, 24 Sept 2026.
+boy problem is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 12 Sept 2026, next at Jade, New York City on Thu, 24 Sept 2026.
 
 boy problem is a house and techno artist based in United States of America, tracked on soundcheck, with 20 sets logged across Newyorkcity. Often billed alongside Cassi-DJ, Puppy Online and aihorsepic. Next up: Jade, Newyorkcity on Thu 24 Sept.
 
@@ -25,4 +25,4 @@ boy problem is a house and techno artist based in United States of America, trac
 
 Cassi-DJ, Puppy Online, aihorsepic
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/boyproblem/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/boyproblem/)*

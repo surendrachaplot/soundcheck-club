@@ -1,6 +1,6 @@
 # Hadrian
 
-Hadrian is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 11 Sept 2026, next at MONKEY LOVE, Warsaw on Sat, 19 Sept 2026.
+Hadrian is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 12 Sept 2026, next at MONKEY LOVE, Warsaw on Sat, 19 Sept 2026.
 
 Hadrian is a techno and house artist tracked on soundcheck, with 10 sets logged across Athens, Berlin, Krakow and Warsaw. Often billed alongside MaL (1), Alexis and Bert. Next up: MONKEY LOVE, Warsaw on Sat 19 Sept.
 
@@ -25,4 +25,4 @@ Hadrian is a techno and house artist tracked on soundcheck, with 10 sets logged 
 
 MaL (1), Alexis, Bert
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/hadrian/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/hadrian/)*

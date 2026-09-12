@@ -1,8 +1,8 @@
 # Calavera
 
-Calavera is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at DeTour, Tokyo on Wed, 16 Sept 2026.
+Calavera is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at DeTour, Tokyo on Wed, 16 Sept 2026.
 
-Calavera is a techno and house artist based in Italy, tracked on soundcheck, with 16 sets logged across Hamburg, Melbourne, Milan and Rome and 1 more. Often billed alongside EMILIO (3), Ermanicomio and GENDER-K (2). Next up: DeTour, Tokyo on Wed 16 Sept.
+Calavera is a techno and house artist based in Italy, tracked on soundcheck, with 17 sets logged across Hamburg, Melbourne, Milan and Rome and 1 more. Often billed alongside EMILIO (3), RICKY and Soluna. Next up: DeTour, Tokyo on Wed 16 Sept.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Calavera is a techno and house artist based in Italy, tracked on soundcheck, wit
 | --- | --- | --- |
 | Wed, 16 Sept 2026 | DeTour | Tokyo |
 | Fri, 18 Sept 2026 | Z Maruyama | Tokyo |
+| Sun, 20 Sept 2026 | Yodo Groove (Yodobashi Ikebukuro) | Tokyo |
 
 ## Recently played
 
@@ -24,6 +25,6 @@ Calavera is a techno and house artist based in Italy, tracked on soundcheck, wit
 
 ## Shares bills with
 
-EMILIO (3), Ermanicomio, GENDER-K (2)
+EMILIO (3), RICKY, Soluna
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/calavera/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/calavera/)*

@@ -1,6 +1,6 @@
 # MADVILLA
 
-MADVILLA is a House and Tech House artist with 3 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at Hidden, Manchester on Sat, 19 Sept 2026.
+MADVILLA is a House and Tech House artist with 3 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Hidden, Manchester on Sat, 19 Sept 2026.
 
 MADVILLA is a house and tech house artist tracked on soundcheck, with 64 sets logged across Amsterdam, Austin, Barcelona and Birmingham and 19 more. Often billed alongside Garrett David, Benji King and Captain Wallop. Next up: Hidden, Manchester on Sat 19 Sept.
 
@@ -27,4 +27,4 @@ MADVILLA is a house and tech house artist tracked on soundcheck, with 64 sets lo
 
 Garrett David, Benji King, Captain Wallop
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/madvilla/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/madvilla/)*

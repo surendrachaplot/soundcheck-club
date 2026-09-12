@@ -1,6 +1,6 @@
 # ALUCA
 
-ALUCA is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at rake?raka?, Osaka on Sat, 12 Sept 2026.
+ALUCA is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at rake?raka?, Osaka on Sat, 12 Sept 2026.
 
 ALUCA is a techno and house artist based in Japan, tracked on soundcheck, with 35 sets logged across Kyoto, Osaka and Tokyo. Often billed alongside AOKI takamasa, Kohei and Tetsuo. Next up: rake?raka?, Osaka on Sat 12 Sept.
 
@@ -27,4 +27,4 @@ ALUCA is a techno and house artist based in Japan, tracked on soundcheck, with 3
 
 AOKI takamasa, Kohei, Tetsuo
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/aluca/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/aluca/)*

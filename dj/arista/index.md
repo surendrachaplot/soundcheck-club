@@ -1,6 +1,6 @@
 # Arista
 
-Arista is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at Péniche Loupika, Lyon on Sat, 12 Sept 2026.
+Arista is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Péniche Loupika, Lyon on Sat, 12 Sept 2026.
 
 Arista is a house and techno artist based in El Salvador, tracked on soundcheck, with 36 sets logged across Amsterdam, Barcelona, Berlin and Lyon and 5 more. Often billed alongside Sampol, tINI and EMIR-B. Next up: Péniche Loupika, Lyon on Sat 12 Sept.
 
@@ -26,4 +26,4 @@ Arista is a house and techno artist based in El Salvador, tracked on soundcheck,
 
 Sampol, tINI, EMIR-B
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/arista/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/arista/)*

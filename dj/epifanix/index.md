@@ -1,6 +1,6 @@
 # Epifanix
 
-Epifanix is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Fri, 11 Sept 2026, next at 74 Hall, Istanbul on Sat, 19 Sept 2026.
+Epifanix is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Sat, 12 Sept 2026, next at 74 Hall, Istanbul on Sat, 19 Sept 2026.
 
 Epifanix is a techno and industrial artist tracked on soundcheck, with 17 sets logged across Istanbul. Often billed alongside Inf3ris, 2TAL and VRDS. Next up: 74 Hall, Istanbul on Sat 19 Sept.
 
@@ -25,4 +25,4 @@ Epifanix is a techno and industrial artist tracked on soundcheck, with 17 sets l
 
 Inf3ris, 2TAL, VRDS
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/epifanix/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/epifanix/)*

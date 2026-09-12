@@ -1,6 +1,6 @@
 # City Hall
 
-City Hall is a music venue in Barcelona with 13 upcoming nights listed on soundcheck as of Fri, 11 Sept 2026; the next is "[CANCELLED]City Hall pres. WE LOVE FRENCH TEKNO II TEKNO · ACID · TRIBE · MENTAL II DOWNLOAD" on Sat, 12 Sept 2026.
+City Hall is a music venue in Barcelona with 13 upcoming nights listed on soundcheck as of Sat, 12 Sept 2026; the next is "[CANCELLED]City Hall pres. WE LOVE FRENCH TEKNO II TEKNO · ACID · TRIBE · MENTAL II DOWNLOAD" on Sat, 12 Sept 2026.
 
 City Hall is a music venue in Barcelona listed on soundcheck. 13 upcoming nights, with line-ups including ALTRAX, Civaro, Cristian Varela and DIL KASHMIR and 2 more. Browse upcoming dates, start times and who's playing. Rambla de Catalunya, 4; 08007 Barcelona; Spain.
 
@@ -23,4 +23,4 @@ City Hall is a music venue in Barcelona listed on soundcheck. 13 upcoming nights
 
 Rambla de Catalunya, 4; 08007 Barcelona; Spain, Barcelona
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/city-hall/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/city-hall/)*

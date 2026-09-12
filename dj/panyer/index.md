@@ -1,6 +1,6 @@
 # Panyer
 
-Panyer is a electronic artist with 1 upcoming club date listed on soundcheck as of Fri, 11 Sept 2026, next at WestWeelde, Amsterdam on Sat, 24 Oct 2026.
+Panyer is a electronic artist with 1 upcoming club date listed on soundcheck as of Sat, 12 Sept 2026, next at WestWeelde, Amsterdam on Sat, 24 Oct 2026.
 
 Panyer is an electronic artist based in Spain, tracked on soundcheck, with 19 sets logged across Amsterdam and Ibiza. Often billed alongside Words of Niō, Awka and John Woods. Next up: WestWeelde, Amsterdam on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ Panyer is an electronic artist based in Spain, tracked on soundcheck, with 19 se
 
 Words of Niō, Awka, John Woods
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/panyer/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/panyer/)*

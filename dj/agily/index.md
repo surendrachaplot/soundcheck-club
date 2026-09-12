@@ -1,6 +1,6 @@
 # AGILY
 
-AGILY is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 11 Sept 2026, next at Renate, Berlin on Fri, 11 Sept 2026.
+AGILY is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 12 Sept 2026, next at Renate, Berlin on Fri, 11 Sept 2026.
 
 AGILY is a house and techno artist based in Germany, tracked on soundcheck, with 31 sets logged across Berlin, Hamburg, Leipzig and Mexicocity and 1 more. Often billed alongside Rosa Kante, tamarawrx3 and Hanna Baertig. Next up: Renate, Berlin on Fri 11 Sept.
 
@@ -12,6 +12,7 @@ AGILY is a house and techno artist based in Germany, tracked on soundcheck, with
 
 ## Recently played
 
+- Renate, Berlin — Fri, 11 Sept 2026
 - Jonny Knüppel, Berlin — Sat, 5 Sept 2026
 - gART.n, Berlin — Sat, 29 Aug 2026
 - Renate, Berlin — Fri, 28 Aug 2026
@@ -19,10 +20,9 @@ AGILY is a house and techno artist based in Germany, tracked on soundcheck, with
 - Jonny Knüppel, Berlin — Sat, 11 Jul 2026
 - frachtkante, Berlin — Sat, 4 Jul 2026
 - Jonny Knüppel, Berlin — Sat, 20 Jun 2026
-- Kater, Berlin — Sat, 23 May 2026
 
 ## Shares bills with
 
 Rosa Kante, tamarawrx3, Hanna Baertig
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/agily/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/agily/)*

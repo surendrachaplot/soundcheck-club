@@ -1,6 +1,6 @@
 # MIND the GAP
 
-MIND the GAP is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Fri, 11 Sept 2026, next at TBA, Naples on Sat, 19 Sept 2026.
+MIND the GAP is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Sat, 12 Sept 2026, next at TBA, Naples on Sat, 19 Sept 2026.
 
 MIND the GAP is a house and tech house artist tracked on soundcheck, with 23 sets logged across Amsterdam, Barcelona, Ibiza and London and 3 more. Often billed alongside Davide Del Vecchio, Germano Ventura and Andrea Fiorito. Next up: TBA, Naples on Sat 19 Sept.
 
@@ -25,4 +25,4 @@ MIND the GAP is a house and tech house artist tracked on soundcheck, with 23 set
 
 Davide Del Vecchio, Germano Ventura, Andrea Fiorito
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mindthegap/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mindthegap/)*

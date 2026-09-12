@@ -1,6 +1,6 @@
 # Volens Chorus: 7th Birthday at Sneaky Pete's
 
-Volens Chorus: 7th Birthday at Sneaky Pete's on Sat 12 Sept, Edinburgh. 7 acts on the bill: Buckfast Barbie, Casement, Cowboy erp and Lara Sinclair and 3 more. Bass and Experimental. Preview the line-up and save it on soundcheck.
+Volens Chorus: 7th Birthday at Sneaky Pete's on Sat 12 Sept, Edinburgh. 8 acts on the bill: Buckfast Barbie, Casement, Cowboy erp and Lara Sinclair and 4 more. Bass and Experimental. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -17,5 +17,6 @@ Volens Chorus: 7th Birthday at Sneaky Pete's on Sat 12 Sept, Edinburgh. 7 acts o
 - Quarterpoundernocheese
 - Sea Urchin
 - SKIMUDA
+- WBBR
 
 *Source: [soundcheck](https://soundcheck.club/e/2524178-volens-chorus-7th-birthday-at-sneaky-pete-s/)*

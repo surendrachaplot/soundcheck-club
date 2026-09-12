@@ -1,6 +1,6 @@
 # Reece Pritchard
 
-Reece Pritchard is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 11 Sept 2026, next at Sub Club, Glasgow on Sun, 27 Sept 2026.
+Reece Pritchard is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 12 Sept 2026, next at Sub Club, Glasgow on Sun, 27 Sept 2026.
 
 Reece Pritchard is a techno and house artist based in United Kingdom, tracked on soundcheck, with 10 sets logged across Berlin, Edinburgh, Glasgow and London. Often billed alongside Frazi.er, DREIAN and 999999999. Next up: Sub Club, Glasgow on Sun 27 Sept.
 
@@ -25,4 +25,4 @@ Reece Pritchard is a techno and house artist based in United Kingdom, tracked on
 
 Frazi.er, DREIAN, 999999999
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/reecepritchard/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/reecepritchard/)*

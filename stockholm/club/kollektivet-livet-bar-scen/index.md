@@ -1,6 +1,6 @@
 # Kollektivet Livet Bar & Scen
 
-Kollektivet Livet Bar & Scen is a music venue in Stockholm with 4 upcoming nights listed on soundcheck as of Fri, 11 Sept 2026; the next is "Opening party for Hallen" on Sat, 12 Sept 2026.
+Kollektivet Livet Bar & Scen is a music venue in Stockholm with 4 upcoming nights listed on soundcheck as of Sat, 12 Sept 2026; the next is "Opening party for Hallen" on Sat, 12 Sept 2026.
 
 Kollektivet Livet Bar & Scen is a music venue in Stockholm listed on soundcheck. 4 upcoming nights, with line-ups including DJ Krush. Browse upcoming dates, start times and who's playing. Stadsgårdsterminalen, 116 45 Stockholm, Sweden.
 
@@ -17,4 +17,4 @@ Kollektivet Livet Bar & Scen is a music venue in Stockholm listed on soundcheck.
 
 Stadsgårdsterminalen, 116 45 Stockholm, Sweden, Stockholm
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/stockholm/club/kollektivet-livet-bar-scen/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/stockholm/club/kollektivet-livet-bar-scen/)*

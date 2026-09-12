@@ -1,6 +1,6 @@
 # Sepehr
 
-Sepehr is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at Club Six, San Francisco/Oakland on Sat, 12 Sept 2026.
+Sepehr is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Club Six, San Francisco/Oakland on Sat, 12 Sept 2026.
 
 Sepehr is a techno and house artist tracked on soundcheck, with 129 sets logged across Amsterdam, Barcelona, Berlin and Bristol and 30 more. Often billed alongside Elena Colombi, Kia (AU) and Amelia Holt. Next up: Club Six, Sanfrancisco on Sat 12 Sept.
 
@@ -30,4 +30,4 @@ Sepehr is a techno and house artist tracked on soundcheck, with 129 sets logged 
 
 Elena Colombi, Kia (AU), Amelia Holt
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sepehr/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sepehr/)*

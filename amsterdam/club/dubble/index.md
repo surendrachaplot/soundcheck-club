@@ -1,6 +1,6 @@
 # dubble
 
-dubble is a music venue in Amsterdam with 5 upcoming nights listed on soundcheck as of Fri, 11 Sept 2026; the next is "afternoon interlude with Noach" on Sat, 12 Sept 2026.
+dubble is a music venue in Amsterdam with 5 upcoming nights listed on soundcheck as of Sat, 12 Sept 2026; the next is "afternoon interlude with Noach" on Sat, 12 Sept 2026.
 
 dubble is a music venue in Amsterdam listed on soundcheck. 5 upcoming nights, with line-ups including Lena Rigel, MALLAURY, Marijn S and Masha Wordpress and 2 more. Browse upcoming dates, start times and who's playing. Bilderdijkstraat 46H, Amsterdam, 1052NB.
 
@@ -18,4 +18,4 @@ dubble is a music venue in Amsterdam listed on soundcheck. 5 upcoming nights, wi
 
 Bilderdijkstraat 46H, Amsterdam, 1052NB, Amsterdam
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/dubble/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/dubble/)*

@@ -1,6 +1,6 @@
 # Matthew Berels
 
-Matthew Berels is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 11 Sept 2026, next at TBA - Cass Corridor, Detroit on Sat, 12 Sept 2026.
+Matthew Berels is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 12 Sept 2026, next at TBA - Cass Corridor, Detroit on Sat, 12 Sept 2026.
 
 Matthew Berels is a house and techno artist tracked on soundcheck, with 9 sets logged across Detroit. Often billed alongside RIRKIN, BeatLoaf and Norm Talley. Next up: TBA - Cass Corridor, Detroit on Sat 12 Sept.
 
@@ -25,4 +25,4 @@ Matthew Berels is a house and techno artist tracked on soundcheck, with 9 sets l
 
 RIRKIN, BeatLoaf, Norm Talley
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/matthewberels/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/matthewberels/)*

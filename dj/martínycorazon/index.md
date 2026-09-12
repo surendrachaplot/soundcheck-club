@@ -1,6 +1,6 @@
 # Martín Y Corazón
 
-Martín Y Corazón is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Fri, 11 Sept 2026, next at Bogart House, New York City on Fri, 18 Sept 2026.
+Martín Y Corazón is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Sat, 12 Sept 2026, next at Bogart House, New York City on Fri, 18 Sept 2026.
 
 Martín Y Corazón is a house and disco artist based in United States of America, tracked on soundcheck, with 36 sets logged across Newyorkcity. Often billed alongside Morgan, Mario Polanco and Simon Heyliger. Next up: Bogart House, Newyorkcity on Fri 18 Sept.
 
@@ -25,4 +25,4 @@ Martín Y Corazón is a house and disco artist based in United States of America
 
 Morgan, Mario Polanco, Simon Heyliger
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/martínycorazon/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/martínycorazon/)*

@@ -1,6 +1,6 @@
 # SUJINPAAK
 
-SUJINPAAK is a House and Club artist with 1 upcoming club date listed on soundcheck as of Fri, 11 Sept 2026, next at Rosso, Seoul on Sat, 12 Sept 2026.
+SUJINPAAK is a House and Club artist with 1 upcoming club date listed on soundcheck as of Sat, 12 Sept 2026, next at Rosso, Seoul on Sat, 12 Sept 2026.
 
 SUJINPAAK is a house and club artist based in South Korea, tracked on soundcheck, with 48 sets logged across Seoul and Tokyo. Often billed alongside Multivsn, TRUEUNSOL and Gyusco. Next up: Rosso, Seoul on Sat 12 Sept.
 
@@ -25,4 +25,4 @@ SUJINPAAK is a house and club artist based in South Korea, tracked on soundcheck
 
 Multivsn, TRUEUNSOL, Gyusco
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sujinpaak/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sujinpaak/)*

@@ -1,6 +1,6 @@
 # EPROM
 
-EPROM is a Bass and Dubstep artist with 1 upcoming club date listed on soundcheck as of Fri, 11 Sept 2026, next at Stereo, Glasgow on Fri, 13 Nov 2026.
+EPROM is a Bass and Dubstep artist with 1 upcoming club date listed on soundcheck as of Sat, 12 Sept 2026, next at Stereo, Glasgow on Fri, 13 Nov 2026.
 
 EPROM is a bass and dubstep artist based in United States of America, tracked on soundcheck, with 43 sets logged across Amsterdam, Auckland, Austin and Berlin and 22 more. Often billed alongside G Jones, Alix Perez and Shades. Next up: Stereo, Glasgow on Fri 13 Nov.
 
@@ -25,4 +25,4 @@ EPROM is a bass and dubstep artist based in United States of America, tracked on
 
 G Jones, Alix Perez, Shades
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/eprom/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/eprom/)*

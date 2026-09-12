@@ -1,6 +1,6 @@
 # Matador
 
-Matador is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 11 Sept 2026, next at Kaap Amsterdam, Amsterdam on Sat, 24 Oct 2026.
+Matador is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 12 Sept 2026, next at Kaap Amsterdam, Amsterdam on Sat, 24 Oct 2026.
 
 Matador is a techno and house artist based in Ireland, tracked on soundcheck, with 43 sets logged across Amsterdam, Barcelona, Belgrade and Budapest and 15 more. Often billed alongside Anhauser, CamelPhat and Deep Dish. Next up: Kaap Amsterdam, Amsterdam on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ Matador is a techno and house artist based in Ireland, tracked on soundcheck, wi
 
 Anhauser, CamelPhat, Deep Dish
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/matador/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/matador/)*

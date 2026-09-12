@@ -1,6 +1,6 @@
 # CMYK
 
-CMYK is a House and Electro artist with 1 upcoming club date listed on soundcheck as of Fri, 11 Sept 2026, next at 303 Audiophile Bar, Barcelona on Thu, 17 Sept 2026.
+CMYK is a House and Electro artist with 1 upcoming club date listed on soundcheck as of Sat, 12 Sept 2026, next at 303 Audiophile Bar, Barcelona on Thu, 17 Sept 2026.
 
 CMYK is a house and electro artist tracked on soundcheck, with 58 sets logged across Barcelona, Berlin, London and Lyon and 3 more. Often billed alongside pekkuliar, VARAN and DJ Gamba. Next up: 303 Audiophile Bar, Barcelona on Thu 17 Sept.
 
@@ -25,4 +25,4 @@ CMYK is a house and electro artist tracked on soundcheck, with 58 sets logged ac
 
 pekkuliar, VARAN, DJ Gamba
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/cmyk/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/cmyk/)*

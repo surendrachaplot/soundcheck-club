@@ -1,6 +1,6 @@
 # ZiMMT
 
-ZiMMT is a music venue in Leipzig with 12 upcoming nights listed on soundcheck as of Fri, 11 Sept 2026; the next is "Deufels Küche Pop-up Küche im ZiMMT" on Wed, 16 Sept 2026.
+ZiMMT is a music venue in Leipzig with 12 upcoming nights listed on soundcheck as of Sat, 12 Sept 2026; the next is "Deufels Küche Pop-up Küche im ZiMMT" on Wed, 16 Sept 2026.
 
 ZiMMT is a music venue in Leipzig listed on soundcheck. 12 upcoming nights. Browse upcoming dates, start times and who's playing. Torgauer Str. 80, 04318 Leipzig, Germany.
 
@@ -23,4 +23,4 @@ ZiMMT is a music venue in Leipzig listed on soundcheck. 12 upcoming nights. Brow
 
 Torgauer Str. 80, 04318 Leipzig, Germany, Leipzig
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/leipzig/club/zimmt/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/leipzig/club/zimmt/)*

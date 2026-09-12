@@ -1,6 +1,6 @@
 # Hugel
 
-Hugel is a House and Afro House artist with 7 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at Navy Pier, Chicago on Sun, 13 Sept 2026.
+Hugel is a House and Afro House artist with 7 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Navy Pier, Chicago on Sun, 13 Sept 2026.
 
 Hugel is a house and afro house artist tracked on soundcheck, with 135 sets logged across Amsterdam, Athens, Auckland and Austin and 33 more. Often billed alongside Miss Monique, Dombresky and Eran Hersh. Next up: Navy Pier, Chicago on Sun 13 Sept.
 
@@ -31,4 +31,4 @@ Hugel is a house and afro house artist tracked on soundcheck, with 135 sets logg
 
 Miss Monique, Dombresky, Eran Hersh
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/hugel/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/hugel/)*

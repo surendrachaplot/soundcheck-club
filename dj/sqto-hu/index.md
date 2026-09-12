@@ -1,6 +1,6 @@
 # sqto
 
-sqto is a House and Breakbeat artist with 1 upcoming club date listed on soundcheck as of Fri, 11 Sept 2026, next at Very Small Club, Budapest on Sat, 12 Sept 2026.
+sqto is a House and Breakbeat artist with 1 upcoming club date listed on soundcheck as of Sat, 12 Sept 2026, next at Very Small Club, Budapest on Sat, 12 Sept 2026.
 
 sqto is a house and breakbeat artist tracked on soundcheck, with 19 sets logged across Budapest. Often billed alongside AIRKEY, ARGO (HU) and La La. Next up: Very Small Club, Budapest on Sat 12 Sept.
 
@@ -25,4 +25,4 @@ sqto is a house and breakbeat artist tracked on soundcheck, with 19 sets logged 
 
 AIRKEY, ARGO (HU), La La
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sqto-hu/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sqto-hu/)*

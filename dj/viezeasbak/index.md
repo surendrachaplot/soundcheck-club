@@ -1,6 +1,6 @@
 # Vieze Asbak
 
-Vieze Asbak is a Techno and Hardcore artist with 16 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at Universe Athens, Athens on Fri, 11 Sept 2026.
+Vieze Asbak is a Techno and Hardcore artist with 16 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Universe Athens, Athens on Fri, 11 Sept 2026.
 
 Vieze Asbak is a techno and hardcore artist tracked on soundcheck, with 104 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 41 more. Often billed alongside KLOFAMA, Restricted and KARAH. Next up: Universe Athens, Athens on Fri 11 Sept.
 
@@ -23,6 +23,7 @@ Vieze Asbak is a techno and hardcore artist tracked on soundcheck, with 104 sets
 
 ## Recently played
 
+- Universe Athens, Athens — Fri, 11 Sept 2026
 - Boucher Road Fields, Belfast — Sun, 30 Aug 2026
 - Arzenal, Budapest — Fri, 28 Aug 2026
 - Kømplex Lisbon, Lisbon — Thu, 27 Aug 2026
@@ -30,10 +31,9 @@ Vieze Asbak is a techno and hardcore artist tracked on soundcheck, with 104 sets
 - Eden, Ibiza — Tue, 11 Aug 2026
 - Waschhaus, Berlin — Fri, 7 Aug 2026
 - OST, Berlin — Fri, 7 Aug 2026
-- Bowlers Exhibition Centre, Manchester — Sat, 1 Aug 2026
 
 ## Shares bills with
 
 KLOFAMA, Restricted, KARAH
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/viezeasbak/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/viezeasbak/)*

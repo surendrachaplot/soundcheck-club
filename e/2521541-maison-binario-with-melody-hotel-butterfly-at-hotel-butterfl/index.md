@@ -1,6 +1,6 @@
 # MAISON BINARIO with MELODY @Hotel Butterfly at Hotel Butterfly
 
-MAISON BINARIO with MELODY @Hotel Butterfly on Wed 23 Sept, Rome. 4 acts on the bill: Marais, Melowdee, N0BLE R0T and Nic Siena. House and Electro. Preview the line-up and save it on soundcheck.
+MAISON BINARIO with MELODY @Hotel Butterfly on Wed 23 Sept, Rome. 5 acts on the bill: Marais, Melody RA+RE, Melowdee and N0BLE R0T and 1 more. House and Electro. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,6 +11,7 @@ MAISON BINARIO with MELODY @Hotel Butterfly on Wed 23 Sept, Rome. 4 acts on the 
 ## Line-up
 
 - Marais
+- Melody RA+RE
 - Melowdee
 - N0BLE R0T
 - Nic Siena

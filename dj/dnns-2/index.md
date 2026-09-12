@@ -1,6 +1,6 @@
 # DNNS
 
-DNNS is a Techno and Hardcore artist with 1 upcoming club date listed on soundcheck as of Fri, 11 Sept 2026, next at Plage Privée Parc de Miribel, Lyon on Sat, 10 Oct 2026.
+DNNS is a Techno and Hardcore artist with 1 upcoming club date listed on soundcheck as of Sat, 12 Sept 2026, next at Plage Privée Parc de Miribel, Lyon on Sat, 10 Oct 2026.
 
 DNNS is a techno and hardcore artist based in Belgium, tracked on soundcheck, with 34 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 13 more. Often billed alongside Zorza, KILL 9 1 and NTBR. Next up: Plage Privée Parc de Miribel, Lyon on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ DNNS is a techno and hardcore artist based in Belgium, tracked on soundcheck, wi
 
 Zorza, KILL 9 1, NTBR
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dnns-2/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dnns-2/)*

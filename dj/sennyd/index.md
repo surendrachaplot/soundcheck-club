@@ -1,6 +1,6 @@
 # SENNY D
 
-SENNY D is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 11 Sept 2026, next at Z Maruyama, Tokyo on Sat, 10 Oct 2026.
+SENNY D is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 12 Sept 2026, next at Z Maruyama, Tokyo on Sat, 10 Oct 2026.
 
 SENNY D is a techno and house artist based in Japan, tracked on soundcheck, with 41 sets logged across Tokyo. Often billed alongside YURI VALEN, Shogo Ito and Drunken Kong. Next up: Z Maruyama, Tokyo on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ SENNY D is a techno and house artist based in Japan, tracked on soundcheck, with
 
 YURI VALEN, Shogo Ito, Drunken Kong
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sennyd/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sennyd/)*

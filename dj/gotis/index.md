@@ -1,6 +1,6 @@
 # GOTIS
 
-GOTIS is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 11 Sept 2026, next at La Gare / Le Gore, Paris on Sun, 13 Sept 2026.
+GOTIS is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 12 Sept 2026, next at La Gare / Le Gore, Paris on Sun, 13 Sept 2026.
 
 GOTIS is a techno and house artist tracked on soundcheck, with 35 sets logged across Marseille and Paris. Often billed alongside In-Tan, KEUT and Camille Doe. Next up: La Gare / Le Gore, Paris on Sun 13 Sept.
 
@@ -25,4 +25,4 @@ GOTIS is a techno and house artist tracked on soundcheck, with 35 sets logged ac
 
 In-Tan, KEUT, Camille Doe
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/gotis/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/gotis/)*

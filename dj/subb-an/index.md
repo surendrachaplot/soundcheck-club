@@ -1,14 +1,15 @@
 # Subb-an
 
-Subb-an is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at Berghain | Panorama Bar | Säule, Berlin on Sat, 12 Sept 2026.
+Subb-an is a House and Tech House artist with 3 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Berghain | Panorama Bar | Säule, Berlin on Sat, 12 Sept 2026.
 
-Subb-an is a house and tech house artist tracked on soundcheck, with 54 sets logged across Amsterdam, Auckland, Barcelona and Berlin and 21 more. Often billed alongside Anika Kunst, Bunny and Croft (1). Next up: Berghain | Panorama Bar | Säule, Berlin on Sat 12 Sept.
+Subb-an is a house and tech house artist tracked on soundcheck, with 55 sets logged across Amsterdam, Auckland, Barcelona and Berlin and 22 more. Often billed alongside Anika Kunst, Bunny and Croft (1). Next up: Berghain | Panorama Bar | Säule, Berlin on Sat 12 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 12 Sept 2026 | Berghain / Panorama Bar / Säule | Berlin |
+| Fri, 9 Oct 2026 | BASEMENT | New York City |
 | Fri, 30 Oct 2026 | Loft Studios | London |
 
 ## Recently played
@@ -26,4 +27,4 @@ Subb-an is a house and tech house artist tracked on soundcheck, with 54 sets log
 
 Anika Kunst, Bunny, Croft (1)
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/subb-an/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/subb-an/)*

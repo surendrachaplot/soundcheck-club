@@ -1,6 +1,6 @@
 # stndrd
 
-stndrd is a Techno and Acid artist with 2 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at Bridge 48, Barcelona on Thu, 24 Sept 2026.
+stndrd is a Techno and Acid artist with 2 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Bridge 48, Barcelona on Thu, 24 Sept 2026.
 
 stndrd is a techno and acid artist tracked on soundcheck, with 21 sets logged across Barcelona, Porto and Tbilisi. Often billed alongside Cyklos, ABSIS and Alderaan. Next up: Bridge 48, Barcelona on Thu 24 Sept.
 
@@ -26,4 +26,4 @@ stndrd is a techno and acid artist tracked on soundcheck, with 21 sets logged ac
 
 Cyklos, ABSIS, Alderaan
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/stndrd/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/stndrd/)*

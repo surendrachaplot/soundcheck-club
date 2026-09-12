@@ -1,8 +1,8 @@
 # Matt Arnold
 
-Matt Arnold is a Tech House and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at TBA - The Padel Yard - 2 Armoury Way, London SW18 1SH, London on Fri, 18 Sept 2026.
+Matt Arnold is a Tech House and Techno artist with 3 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at TBA - The Padel Yard - 2 Armoury Way, London SW18 1SH, London on Fri, 18 Sept 2026.
 
-Matt Arnold is a tech house and techno artist tracked on soundcheck, with 34 sets logged across London and Melbourne. Often billed alongside Diego Gee, Etwas and Ophelie Mercury. Next up: TBA - The Padel Yard - 2 Armoury Way, London SW18 1SH, London on Fri 18 Sept.
+Matt Arnold is a tech house and techno artist tracked on soundcheck, with 35 sets logged across London and Melbourne. Often billed alongside Diego Gee, Etwas and Ophelie Mercury. Next up: TBA - The Padel Yard - 2 Armoury Way, London SW18 1SH, London on Fri 18 Sept.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Matt Arnold is a tech house and techno artist tracked on soundcheck, with 34 set
 | --- | --- | --- |
 | Fri, 18 Sept 2026 | TBA - The Padel Yard - 2 Armoury Way, London SW18 1SH | London |
 | Fri, 2 Oct 2026 | Mezzanine - Tooting | London |
+| Fri, 13 Nov 2026 | TBA - House of Ora 48A Mitcham Rd, London SW17 9NA | London |
 
 ## Recently played
 
@@ -26,4 +27,4 @@ Matt Arnold is a tech house and techno artist tracked on soundcheck, with 34 set
 
 Diego Gee, Etwas, Ophelie Mercury
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mattarnold/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mattarnold/)*

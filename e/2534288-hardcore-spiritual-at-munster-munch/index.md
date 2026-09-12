@@ -1,6 +1,6 @@
 # Hardcore = Spiritual at Munster Munch
 
-Hardcore = Spiritual at Munster Munch on Sat 21 Nov, London. Hardcore and Post-Punk. Preview the line-up and save it on soundcheck.
+Hardcore = Spiritual at Munster Munch on Sat 21 Nov, London. Hardcore and Electro. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

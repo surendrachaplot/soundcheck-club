@@ -1,6 +1,6 @@
 # Karretero
 
-Karretero is a Tech House and Techno artist with 4 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at Universidad Autónoma de Madrid (UAM), Madrid on Sat, 12 Sept 2026.
+Karretero is a Tech House and Techno artist with 4 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Universidad Autónoma de Madrid (UAM), Madrid on Sat, 12 Sept 2026.
 
 Karretero is a tech house and techno artist based in Spain, tracked on soundcheck, with 47 sets logged across Barcelona, Ibiza, Lisbon and Madrid and 2 more. Often billed alongside Joseph Capriati, Chelina Manuhutu and Vitrie Vitoli. Next up: Universidad Autónoma de Madrid (UAM), Madrid on Sat 12 Sept.
 
@@ -28,4 +28,4 @@ Karretero is a tech house and techno artist based in Spain, tracked on soundchec
 
 Joseph Capriati, Chelina Manuhutu, Vitrie Vitoli
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/karretero/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/karretero/)*

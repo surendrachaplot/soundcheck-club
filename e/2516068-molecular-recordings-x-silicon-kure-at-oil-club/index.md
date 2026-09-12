@@ -1,6 +1,6 @@
 # Molecular Recordings x Silicon Kure at OIL Club
 
-Molecular Recordings x Silicon Kure at OIL Club on Fri 25 Sept, Shenzhen. 2 acts on the bill: Marco Lenzi and Sulk. Techno. Preview the line-up and save it on soundcheck.
+Molecular Recordings x Silicon Kure at OIL Club on Fri 25 Sept, Shenzhen. 3 acts on the bill: Finsent C, Marco Lenzi and Sulk. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ Molecular Recordings x Silicon Kure at OIL Club on Fri 25 Sept, Shenzhen. 2 acts
 
 ## Line-up
 
+- Finsent C
 - Marco Lenzi
 - Sulk
 

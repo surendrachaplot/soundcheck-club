@@ -1,8 +1,8 @@
 # The White Hotel
 
-The White Hotel is a music venue in Manchester with 38 upcoming nights listed on soundcheck as of Fri, 11 Sept 2026; the next is "Bakk Heia 10th Bday (Part 2) w/Jorg Kuning (Live), Schuttle, Bitzer & Herc" on Fri, 11 Sept 2026.
+The White Hotel is a music venue in Manchester with 39 upcoming nights listed on soundcheck as of Sat, 12 Sept 2026; the next is "Bakk Heia 10th Bday (Part 2) w/Jorg Kuning (Live), Schuttle, Bitzer & Herc" on Fri, 11 Sept 2026.
 
-The White Hotel is a music venue in Manchester listed on soundcheck. 38 upcoming nights, with line-ups including Fastlove, ABADIR, Abena and Ana Roxanne and 2 more. Browse upcoming dates, start times and who's playing. Dickinson Street Salford M3 7LW, United Kingdom.
+The White Hotel is a music venue in Manchester listed on soundcheck. 39 upcoming nights, with line-ups including Fastlove, ABADIR, Abena and Ana Roxanne and 2 more. Browse upcoming dates, start times and who's playing. Dickinson Street Salford M3 7LW, United Kingdom.
 
 ## What's on
 
@@ -23,4 +23,4 @@ The White Hotel is a music venue in Manchester listed on soundcheck. 38 upcoming
 
 Dickinson Street Salford M3 7LW, United Kingdom, Manchester
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/the-white-hotel/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/the-white-hotel/)*

@@ -1,6 +1,6 @@
 # Outer Heaven
 
-Outer Heaven is a Techno and Drum & Bass artist with 2 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at M.O.T, London on Sat, 19 Sept 2026.
+Outer Heaven is a Techno and Drum & Bass artist with 2 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at M.O.T, London on Sat, 19 Sept 2026.
 
 Outer Heaven is a techno and drum & bass artist based in United Kingdom, tracked on soundcheck, with 3 sets logged across Birmingham and London. Often billed alongside Gremlinz, Anina and DJ Pete. Next up: M.O.T, London on Sat 19 Sept.
 
@@ -19,4 +19,4 @@ Outer Heaven is a techno and drum & bass artist based in United Kingdom, tracked
 
 Gremlinz, Anina, DJ Pete
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/outerheaven/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/outerheaven/)*

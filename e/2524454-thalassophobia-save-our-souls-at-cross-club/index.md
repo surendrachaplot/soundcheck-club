@@ -1,6 +1,6 @@
 # THALASSOPHOBIA: SAVE OUR SOULS at Cross Club
 
-THALASSOPHOBIA: SAVE OUR SOULS at Cross Club on Fri 11 Sept, Prague. Preview the line-up and save it on soundcheck.
+THALASSOPHOBIA: SAVE OUR SOULS at Cross Club on Fri 11 Sept, Prague. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

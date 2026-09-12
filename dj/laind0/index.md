@@ -1,6 +1,6 @@
 # La Ind0
 
-La Ind0 is a House and Club artist with 1 upcoming club date listed on soundcheck as of Fri, 11 Sept 2026, next at LAUT, Barcelona on Fri, 11 Sept 2026.
+La Ind0 is a House and Club artist with 1 upcoming club date listed on soundcheck as of Sat, 12 Sept 2026, next at LAUT, Barcelona on Fri, 11 Sept 2026.
 
 La Ind0 is a house and club artist tracked on soundcheck, with 19 sets logged across Barcelona, Edinburgh and Madrid. Often billed alongside Balheim, Certain People and Feena. Next up: LAUT, Barcelona on Fri 11 Sept.
 
@@ -12,6 +12,7 @@ La Ind0 is a house and club artist tracked on soundcheck, with 19 sets logged ac
 
 ## Recently played
 
+- LAUT, Barcelona — Fri, 11 Sept 2026
 - Sneaky Pete's, Edinburgh — Fri, 14 Aug 2026
 - Specka, Madrid — Fri, 12 Jun 2026
 - Cadavra, Madrid — Sat, 23 May 2026
@@ -19,10 +20,9 @@ La Ind0 is a house and club artist tracked on soundcheck, with 19 sets logged ac
 - Specka, Madrid — Fri, 27 Feb 2026
 - Specka, Madrid — Fri, 28 Nov 2025
 - High Club Room, Madrid — Fri, 20 Jun 2025
-- Ballesta Club, Madrid — Fri, 31 Jan 2025
 
 ## Shares bills with
 
 Balheim, Certain People, Feena
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/laind0/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/laind0/)*

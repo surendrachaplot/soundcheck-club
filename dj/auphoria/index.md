@@ -1,6 +1,6 @@
 # Auphoria
 
-Auphoria is a House and Minimal artist with 3 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at LoHi, New York City on Sat, 12 Sept 2026.
+Auphoria is a House and Minimal artist with 3 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at LoHi, New York City on Sat, 12 Sept 2026.
 
 Auphoria is a house and minimal artist based in Argentina, tracked on soundcheck, with 69 sets logged across Mexicocity, Miami and Newyorkcity. Often billed alongside Armii1n, Jeny Michelle and Choukroun. Next up: LoHi, Newyorkcity on Sat 12 Sept.
 
@@ -27,4 +27,4 @@ Auphoria is a house and minimal artist based in Argentina, tracked on soundcheck
 
 Armii1n, Jeny Michelle, Choukroun
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/auphoria/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/auphoria/)*

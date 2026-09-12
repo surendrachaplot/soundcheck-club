@@ -1,6 +1,6 @@
 # Kobosil
 
-Kobosil is a Techno and House artist with 11 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at Zenith - Die Kulturhalle, Munich on Sat, 12 Sept 2026.
+Kobosil is a Techno and House artist with 11 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Zenith - Die Kulturhalle, Munich on Sat, 12 Sept 2026.
 
 Kobosil is a techno and house artist tracked on soundcheck, with 228 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 59 more. Often billed alongside Somewhen, Clara Cuvé and I Hate Models. Next up: Zenith - Die Kulturhalle, Munich on Sat 12 Sept.
 
@@ -35,4 +35,4 @@ Kobosil is a techno and house artist tracked on soundcheck, with 228 sets logged
 
 Somewhen, Clara Cuvé, I Hate Models
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kobosil/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kobosil/)*

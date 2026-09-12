@@ -1,6 +1,6 @@
 # Across Boundaries
 
-Across Boundaries is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Fri, 11 Sept 2026, next at UNO MALTA, Malta on Fri, 18 Sept 2026.
+Across Boundaries is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Sat, 12 Sept 2026, next at UNO MALTA, Malta on Fri, 18 Sept 2026.
 
 Across Boundaries is a house and minimal artist based in Netherlands, tracked on soundcheck, with 12 sets logged across Amsterdam, Brighton, Ibiza and London and 3 more. Often billed alongside AMORAL, Boss Priester and Locklead. Next up: UNO MALTA, Malta on Fri 18 Sept.
 
@@ -25,4 +25,4 @@ Across Boundaries is a house and minimal artist based in Netherlands, tracked on
 
 AMORAL, Boss Priester, Locklead
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/acrossboundaries/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/acrossboundaries/)*

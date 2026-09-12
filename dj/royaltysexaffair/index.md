@@ -1,6 +1,6 @@
 # Royalty Sex Affair
 
-Royalty Sex Affair is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Fri, 11 Sept 2026, next at Ankali & Planeta Za, Prague on Fri, 16 Oct 2026.
+Royalty Sex Affair is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Sat, 12 Sept 2026, next at Ankali & Planeta Za, Prague on Fri, 16 Oct 2026.
 
 Royalty Sex Affair is a techno and trance artist tracked on soundcheck, with 6 sets logged across Prague. Often billed alongside Tatomed (2), mata rubia and ALI3N. Next up: Ankali & Planeta Za, Prague on Fri 16 Oct.
 
@@ -22,4 +22,4 @@ Royalty Sex Affair is a techno and trance artist tracked on soundcheck, with 6 s
 
 Tatomed (2), mata rubia, ALI3N
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/royaltysexaffair/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/royaltysexaffair/)*

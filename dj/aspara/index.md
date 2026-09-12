@@ -1,6 +1,6 @@
 # Aspara
 
-Aspara is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at Chika-Ikkai, Osaka on Tue, 22 Sept 2026.
+Aspara is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Chika-Ikkai, Osaka on Tue, 22 Sept 2026.
 
 Aspara is a techno and house artist tracked on soundcheck, with 38 sets logged across Kyoto, Osaka and Tokyo. Often billed alongside imazutsubasa, Ryogo and E.O.U. Next up: Chika-Ikkai, Osaka on Tue 22 Sept.
 
@@ -26,4 +26,4 @@ Aspara is a techno and house artist tracked on soundcheck, with 38 sets logged a
 
 imazutsubasa, Ryogo, E.O.U
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/aspara/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/aspara/)*

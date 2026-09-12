@@ -1,6 +1,6 @@
 # Jorge Gamarra
 
-Jorge Gamarra is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 11 Sept 2026, next at Ring, Seoul on Sat, 12 Sept 2026.
+Jorge Gamarra is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 12 Sept 2026, next at Ring, Seoul on Sat, 12 Sept 2026.
 
 Jorge Gamarra is a techno and house artist tracked on soundcheck, with 15 sets logged across Barcelona, Lisbon and Seoul. Often billed alongside Conor Brophy, sohrab. and AMORE CRIMINALE. Next up: Ring, Seoul on Sat 12 Sept.
 
@@ -25,4 +25,4 @@ Jorge Gamarra is a techno and house artist tracked on soundcheck, with 15 sets l
 
 Conor Brophy, sohrab., AMORE CRIMINALE
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jorgegamarra/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jorgegamarra/)*

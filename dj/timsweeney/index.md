@@ -1,6 +1,6 @@
 # Tim Sweeney
 
-Tim Sweeney is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Fri, 11 Sept 2026, next at Le Bain, New York City on Fri, 11 Sept 2026.
+Tim Sweeney is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Sat, 12 Sept 2026, next at Le Bain, New York City on Fri, 11 Sept 2026.
 
 Tim Sweeney is a house and disco artist based in United States of America, tracked on soundcheck, with 24 sets logged across Detroit, Lisbon, London and Melbourne and 5 more. Often billed alongside Haute to Death, Heidi Lawden and Justin Strauss. Next up: Le Bain, Newyorkcity on Fri 11 Sept.
 
@@ -12,6 +12,7 @@ Tim Sweeney is a house and disco artist based in United States of America, track
 
 ## Recently played
 
+- Le Bain, New York City — Fri, 11 Sept 2026
 - Good Room, New York City — Sat, 5 Sept 2026
 - Sunday Sunday, Mexico City — Sun, 26 Jul 2026
 - Outer Heaven, New York City — Thu, 14 May 2026
@@ -19,10 +20,9 @@ Tim Sweeney is a house and disco artist based in United States of America, track
 - House of Yes, New York City — Fri, 27 Mar 2026
 - Good Room, New York City — Sat, 21 Feb 2026
 - public records, New York City — Sat, 3 Jan 2026
-- Gabriela, New York City — Fri, 26 Sept 2025
 
 ## Shares bills with
 
 Haute to Death, Heidi Lawden, Justin Strauss
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/timsweeney/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/timsweeney/)*

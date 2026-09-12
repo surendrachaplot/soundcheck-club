@@ -1,6 +1,6 @@
 # frujty
 
-frujty is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Fri, 11 Sept 2026, next at Ankali & Planeta Za, Prague on Sat, 24 Oct 2026.
+frujty is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Sat, 12 Sept 2026, next at Ankali & Planeta Za, Prague on Sat, 24 Oct 2026.
 
 frujty is a techno and trance artist based in Czech Republic, tracked on soundcheck, with 46 sets logged across Prague. Often billed alongside Dash (CZ), Yan (CZ) and Misha Jaru. Next up: Ankali & Planeta Za, Prague on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ frujty is a techno and trance artist based in Czech Republic, tracked on soundch
 
 Dash (CZ), Yan (CZ), Misha Jaru
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/frujty/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/frujty/)*

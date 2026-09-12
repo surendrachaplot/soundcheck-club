@@ -1,6 +1,6 @@
 # The HiFi x No sleep Club with Late Replies at Roberta's
 
-The HiFi x No sleep Club with Late Replies at Roberta's on Sat 10 Oct, Newyorkcity. 2 acts on the bill: Daizy and Late Replies. House and Tech House. Preview the line-up and save it on soundcheck.
+The HiFi x No sleep Club with Late Replies at Roberta's on Sat 10 Oct, Newyorkcity. 4 acts on the bill: Daizy, Late Replies, LockEight and SIEGEL (2). House and Tech House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -12,5 +12,7 @@ The HiFi x No sleep Club with Late Replies at Roberta's on Sat 10 Oct, Newyorkci
 
 - Daizy
 - Late Replies
+- LockEight
+- SIEGEL (2)
 
 *Source: [soundcheck](https://soundcheck.club/e/2530070-the-hifi-x-no-sleep-club-with-late-replies-at-roberta-s/)*

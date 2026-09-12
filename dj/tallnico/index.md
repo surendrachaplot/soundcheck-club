@@ -1,6 +1,6 @@
 # Tall Nico
 
-Tall Nico is a Disco and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at The Haggerston, London on Thu, 17 Sept 2026.
+Tall Nico is a Disco and House artist with 2 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at The Haggerston, London on Thu, 17 Sept 2026.
 
 Tall Nico is a disco and house artist based in United Kingdom, tracked on soundcheck, with 19 sets logged across Istanbul and London. Often billed alongside Alfie Panaiotis, Liminal People and ARLYSS. Next up: The Haggerston, London on Thu 17 Sept.
 
@@ -26,4 +26,4 @@ Tall Nico is a disco and house artist based in United Kingdom, tracked on soundc
 
 Alfie Panaiotis, Liminal People, ARLYSS
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tallnico/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tallnico/)*

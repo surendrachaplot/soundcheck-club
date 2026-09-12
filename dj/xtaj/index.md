@@ -1,6 +1,6 @@
 # Xta'J
 
-Xta'J is a Psytrance and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 11 Sept 2026, next at Grande Scène - La Ville est à Vous - Vieusseux, Geneva on Sat, 12 Sept 2026.
+Xta'J is a Psytrance and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 12 Sept 2026, next at Grande Scène - La Ville est à Vous - Vieusseux, Geneva on Sat, 12 Sept 2026.
 
 Xta'J is a psytrance and techno artist tracked on soundcheck, with 9 sets logged across Geneva, Hamburg and Zurich. Often billed alongside EFFIM, Fernando De Matos and Suspect One. Next up: Grande Scène - La Ville est à Vous - Vieusseux, Geneva on Sat 12 Sept.
 
@@ -25,4 +25,4 @@ Xta'J is a psytrance and techno artist tracked on soundcheck, with 9 sets logged
 
 EFFIM, Fernando De Matos, Suspect One
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/xtaj/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/xtaj/)*

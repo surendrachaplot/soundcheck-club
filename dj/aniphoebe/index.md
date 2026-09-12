@@ -1,6 +1,6 @@
 # Ani Phoebe
 
-Ani Phoebe is a House and Balearic artist with 1 upcoming club date listed on soundcheck as of Fri, 11 Sept 2026, next at Bar Part Time, San Francisco/Oakland on Fri, 11 Sept 2026.
+Ani Phoebe is a House and Balearic artist with 1 upcoming club date listed on soundcheck as of Sat, 12 Sept 2026, next at Bar Part Time, San Francisco/Oakland on Fri, 11 Sept 2026.
 
 Ani Phoebe is a house and balearic artist tracked on soundcheck, with 68 sets logged across Bangkok, Berlin, Hongkong and Lisbon and 14 more. Often billed alongside Seelie, Vio PRG and Heels & Souls. Next up: Bar Part Time, Sanfrancisco on Fri 11 Sept.
 
@@ -12,6 +12,7 @@ Ani Phoebe is a house and balearic artist tracked on soundcheck, with 68 sets lo
 
 ## Recently played
 
+- Bar Part Time, San Francisco/Oakland — Fri, 11 Sept 2026
 - Night Tales, London — Fri, 4 Sept 2026
 - arkaoda Berlin, Berlin — Fri, 28 Aug 2026
 - TBA - Hon’s BBQ (Queen’s Yard) , London — Sun, 26 Jul 2026
@@ -19,10 +20,9 @@ Ani Phoebe is a house and balearic artist tracked on soundcheck, with 68 sets lo
 - Sameheads, Berlin — Fri, 17 Jul 2026
 - Lux Fragil, Lisbon — Fri, 10 Jul 2026
 - Mott 32, Hong Kong — Sat, 13 Jun 2026
-- TBA - Secret Location (East Kowloon), Hong Kong — Sat, 16 May 2026
 
 ## Shares bills with
 
 Seelie, Vio PRG, Heels & Souls
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/aniphoebe/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/aniphoebe/)*

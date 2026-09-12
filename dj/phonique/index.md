@@ -1,6 +1,6 @@
 # Phonique
 
-Phonique is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at Byhaven, Copenhagen on Sun, 13 Sept 2026.
+Phonique is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Byhaven, Copenhagen on Sun, 13 Sept 2026.
 
 Phonique is a house and techno artist tracked on soundcheck, with 67 sets logged across Barcelona, Berlin, Copenhagen and Frankfurt and 6 more. Often billed alongside Diogo Accioly, Misha Svirid and Fairplay. Next up: Byhaven, Copenhagen on Sun 13 Sept.
 
@@ -27,4 +27,4 @@ Phonique is a house and techno artist tracked on soundcheck, with 67 sets logged
 
 Diogo Accioly, Misha Svirid, Fairplay
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/phonique/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/phonique/)*

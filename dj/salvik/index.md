@@ -1,6 +1,6 @@
 # Salvi k
 
-Salvi k is a Electro and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 11 Sept 2026, next at Cantina Social, Athens on Sat, 12 Sept 2026.
+Salvi k is a Electro and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 12 Sept 2026, next at Cantina Social, Athens on Sat, 12 Sept 2026.
 
 Salvi k is an electro and techno artist based in Greece, tracked on soundcheck, with 57 sets logged across Athens and Berlin. Often billed alongside Maaantz, Ther3min and Dora Mask. Next up: Cantina Social, Athens on Sat 12 Sept.
 
@@ -25,4 +25,4 @@ Salvi k is an electro and techno artist based in Greece, tracked on soundcheck, 
 
 Maaantz, Ther3min, Dora Mask
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/salvik/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/salvik/)*

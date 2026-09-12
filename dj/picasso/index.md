@@ -1,6 +1,6 @@
 # Picasso
 
-Picasso is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at TBA -  Kummelholmen, Stockholm on Sat, 10 Oct 2026.
+Picasso is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at TBA -  Kummelholmen, Stockholm on Sat, 10 Oct 2026.
 
 Picasso is a house and techno artist tracked on soundcheck, with 38 sets logged across Amsterdam, Barcelona, Berlin and Brussels and 9 more. Often billed alongside Bowyer, Duowe and Kian OK. Next up: TBA -  Kummelholmen, Stockholm on Sat 10 Oct.
 
@@ -26,4 +26,4 @@ Picasso is a house and techno artist tracked on soundcheck, with 38 sets logged 
 
 Bowyer, Duowe, Kian OK
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/picasso/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/picasso/)*

@@ -1,6 +1,6 @@
 # Seth Troxler
 
-Seth Troxler is a House and Techno artist with 17 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at NDSM Docklands, Amsterdam on Sun, 13 Sept 2026.
+Seth Troxler is a House and Techno artist with 17 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at NDSM Docklands, Amsterdam on Sun, 13 Sept 2026.
 
 Seth Troxler is a house and techno artist tracked on soundcheck, with 313 sets logged across Amsterdam, Athens, Austin and Bali and 50 more. Often billed alongside DJ Tennis, Sossa and Prospa. Next up: NDSM Docklands, Amsterdam on Sun 13 Sept.
 
@@ -36,4 +36,4 @@ Seth Troxler is a house and techno artist tracked on soundcheck, with 313 sets l
 
 DJ Tennis, Sossa, Prospa
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sethtroxler/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sethtroxler/)*

@@ -1,6 +1,6 @@
 # Mother Menace
 
-Mother Menace is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Fri, 11 Sept 2026, next at Bike Jesus, Prague on Sat, 31 Oct 2026.
+Mother Menace is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Sat, 12 Sept 2026, next at Bike Jesus, Prague on Sat, 31 Oct 2026.
 
 Mother Menace is a techno and trance artist based in Czech Republic, tracked on soundcheck, with 21 sets logged across Prague. Often billed alongside Powder Ranger, Hermeth and tmk (CZ). Next up: Bike Jesus, Prague on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Mother Menace is a techno and trance artist based in Czech Republic, tracked on 
 
 Powder Ranger, Hermeth, tmk (CZ)
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mothermenace/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mothermenace/)*

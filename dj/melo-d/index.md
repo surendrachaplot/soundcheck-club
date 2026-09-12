@@ -1,6 +1,6 @@
 # Melo-D
 
-Melo-D is a House and Jungle artist with 1 upcoming club date listed on soundcheck as of Fri, 11 Sept 2026, next at 77, London on Sat, 10 Oct 2026.
+Melo-D is a House and Jungle artist with 1 upcoming club date listed on soundcheck as of Sat, 12 Sept 2026, next at 77, London on Sat, 10 Oct 2026.
 
 Melo-D is a house and jungle artist based in United Kingdom, tracked on soundcheck, with 15 sets logged across London and Rotterdam. Often billed alongside Konetix, Angela Rose and Mark Radford. Next up: 77, London on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ Melo-D is a house and jungle artist based in United Kingdom, tracked on soundche
 
 Konetix, Angela Rose, Mark Radford
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/melo-d/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/melo-d/)*

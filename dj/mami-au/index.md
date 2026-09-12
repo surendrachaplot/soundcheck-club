@@ -1,6 +1,6 @@
 # MAMI (AU)
 
-MAMI (AU) is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 11 Sept 2026, next at TBA - Il Mercato Centrale, Melbourne on Sat, 19 Sept 2026.
+MAMI (AU) is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 12 Sept 2026, next at TBA - Il Mercato Centrale, Melbourne on Sat, 19 Sept 2026.
 
 MAMI (AU) is a techno and house artist based in Australia, tracked on soundcheck, with 23 sets logged across Amsterdam, Berlin, Melbourne and Tokyo. Often billed alongside Christian Kamitsis, DOBE and Jack Colletta. Next up: TBA - Il Mercato Centrale, Melbourne on Sat 19 Sept.
 
@@ -25,4 +25,4 @@ MAMI (AU) is a techno and house artist based in Australia, tracked on soundcheck
 
 Christian Kamitsis, DOBE, Jack Colletta
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mami-au/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mami-au/)*

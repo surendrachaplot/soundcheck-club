@@ -1,6 +1,6 @@
 # DJ Die
 
-DJ Die is a Jungle and Drum & Bass artist with 1 upcoming club date listed on soundcheck as of Fri, 11 Sept 2026, next at Dahlia Stereo, Manchester on Thu, 19 Nov 2026.
+DJ Die is a Jungle and Drum & Bass artist with 1 upcoming club date listed on soundcheck as of Sat, 12 Sept 2026, next at Dahlia Stereo, Manchester on Thu, 19 Nov 2026.
 
 DJ Die is a jungle and drum & bass artist tracked on soundcheck, with 33 sets logged across Bristol, London, Manchester and Tokyo. Often billed alongside Bryan Gee, Krust and Chimpo. Next up: Dahlia Stereo, Manchester on Thu 19 Nov.
 
@@ -25,4 +25,4 @@ DJ Die is a jungle and drum & bass artist tracked on soundcheck, with 33 sets lo
 
 Bryan Gee, Krust, Chimpo
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djdie/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djdie/)*

@@ -1,6 +1,6 @@
 # ANNYL
 
-ANNYL is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 11 Sept 2026, next at Home Club, Sao Paulo on Sun, 13 Sept 2026.
+ANNYL is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 12 Sept 2026, next at Home Club, Sao Paulo on Sun, 13 Sept 2026.
 
 ANNYL is a house and techno artist tracked on soundcheck, with 22 sets logged across Saopaulo. Often billed alongside L_cio, Renato Cohen and Dany Bany. Next up: Home Club, Saopaulo on Sun 13 Sept.
 
@@ -25,4 +25,4 @@ ANNYL is a house and techno artist tracked on soundcheck, with 22 sets logged ac
 
 L_cio, Renato Cohen, Dany Bany
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/annyl/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/annyl/)*

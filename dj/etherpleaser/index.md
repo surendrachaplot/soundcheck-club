@@ -1,6 +1,6 @@
 # Ether Pleaser
 
-Ether Pleaser is a Techno and Club artist with 2 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at Xanadu, New York City on Sun, 13 Sept 2026.
+Ether Pleaser is a Techno and Club artist with 2 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Xanadu, New York City on Sun, 13 Sept 2026.
 
 Ether Pleaser is a techno and club artist based in United States of America, tracked on soundcheck, with 50 sets logged across Newyorkcity, Philadelphia and Washingtondc. Often billed alongside znorthy, Franxx and CYB3R T0NIN. Next up: Xanadu, Newyorkcity on Sun 13 Sept.
 
@@ -26,4 +26,4 @@ Ether Pleaser is a techno and club artist based in United States of America, tra
 
 znorthy, Franxx, CYB3R T0NIN
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/etherpleaser/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/etherpleaser/)*

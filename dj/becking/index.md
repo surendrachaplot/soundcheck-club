@@ -1,6 +1,6 @@
 # Becking
 
-Becking is a House and Garage artist with 4 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at O2 Academy Leeds, Leeds on Fri, 9 Oct 2026.
+Becking is a House and Garage artist with 4 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at O2 Academy Leeds, Leeds on Fri, 9 Oct 2026.
 
 Becking is a house and garage artist based in Netherlands, tracked on soundcheck, with 14 sets logged across Amsterdam, Leeds and Manchester. Often billed alongside Kirilski, Pura Pachanga and Snooz. Next up: O2 Academy Leeds, Leeds on Fri 9 Oct.
 
@@ -28,4 +28,4 @@ Becking is a house and garage artist based in Netherlands, tracked on soundcheck
 
 Kirilski, Pura Pachanga, Snooz
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/becking/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/becking/)*

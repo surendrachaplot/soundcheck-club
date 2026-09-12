@@ -1,6 +1,6 @@
 # RY X
 
-RY X is a Electronica and Ambient artist with 4 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at TBA - Brussels, Brussels on Fri, 11 Sept 2026.
+RY X is a Electronica and Ambient artist with 4 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at TBA - Brussels, Brussels on Fri, 11 Sept 2026.
 
 RY X is an electronica and ambient artist based in Australia, tracked on soundcheck, with 40 sets logged across Amsterdam, Athens, Bali and Barcelona and 16 more. Often billed alongside Dixon, Jimi Jules and Carlita. Next up: TBA - Brussels, Brussels on Fri 11 Sept.
 
@@ -15,6 +15,7 @@ RY X is an electronica and ambient artist based in Australia, tracked on soundch
 
 ## Recently played
 
+- TBA - Brussels, Brussels — Fri, 11 Sept 2026
 - Hï Ibiza, Ibiza — Sat, 15 Aug 2026
 - Boston Manor Park, London — Sat, 1 Aug 2026
 - Cova Santa, Ibiza — Fri, 31 Jul 2026
@@ -22,10 +23,9 @@ RY X is an electronica and ambient artist based in Australia, tracked on soundch
 - Cova Santa, Ibiza — Fri, 17 Jul 2026
 - Plage De Torcy, Paris — Sat, 23 May 2026
 - Pacha Ibiza, Ibiza — Thu, 21 May 2026
-- Teatro De La Ciudad, Mexico City — Wed, 8 Oct 2025
 
 ## Shares bills with
 
 Dixon, Jimi Jules, Carlita
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ryx/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ryx/)*

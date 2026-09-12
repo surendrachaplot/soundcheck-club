@@ -1,6 +1,6 @@
 # FRESCO (UK)
 
-FRESCO (UK) is a House and Trance artist with 1 upcoming club date listed on soundcheck as of Fri, 11 Sept 2026, next at Two Tribes CAMPFIRE, London on Fri, 25 Sept 2026.
+FRESCO (UK) is a House and Trance artist with 1 upcoming club date listed on soundcheck as of Sat, 12 Sept 2026, next at Two Tribes CAMPFIRE, London on Fri, 25 Sept 2026.
 
 FRESCO (UK) is a house and trance artist based in United Kingdom, tracked on soundcheck, with 14 sets logged across London. Often billed alongside GYS (TT), Tris (UK) and ALLKNIGHT. Next up: Two Tribes CAMPFIRE, London on Fri 25 Sept.
 
@@ -25,4 +25,4 @@ FRESCO (UK) is a house and trance artist based in United Kingdom, tracked on sou
 
 GYS (TT), Tris (UK), ALLKNIGHT
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/fresco-uk/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/fresco-uk/)*

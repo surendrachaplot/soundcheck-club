@@ -1,6 +1,6 @@
 # HerShe
 
-HerShe is a Bass and Dubstep artist with 3 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at Left Bank, Tbilisi on Fri, 25 Sept 2026.
+HerShe is a Bass and Dubstep artist with 3 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Left Bank, Tbilisi on Fri, 25 Sept 2026.
 
 HerShe is a bass and dubstep artist based in Georgia, tracked on soundcheck, with 23 sets logged across Austin, Losangeles, Miami and Newyorkcity and 2 more. Often billed alongside A Little Sound, Azyr and Bou (UK). Next up: Left Bank, Tbilisi on Fri 25 Sept.
 
@@ -27,4 +27,4 @@ HerShe is a bass and dubstep artist based in Georgia, tracked on soundcheck, wit
 
 A Little Sound, Azyr, Bou (UK)
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/hershe/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/hershe/)*

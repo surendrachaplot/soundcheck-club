@@ -1,6 +1,6 @@
 # Frazer Ray
 
-Frazer Ray is a Garage and Breakbeat artist with 2 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at Phonox, London on Thu, 17 Sept 2026.
+Frazer Ray is a Garage and Breakbeat artist with 2 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Phonox, London on Thu, 17 Sept 2026.
 
 Frazer Ray is a garage and breakbeat artist tracked on soundcheck, with 77 sets logged across Antwerp, Barcelona, Berlin and Birmingham and 15 more. Often billed alongside mixtress, Fliss Mayo and Jay Carder. Next up: Phonox, London on Thu 17 Sept.
 
@@ -26,4 +26,4 @@ Frazer Ray is a garage and breakbeat artist tracked on soundcheck, with 77 sets 
 
 mixtress, Fliss Mayo, Jay Carder
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/frazerray/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/frazerray/)*

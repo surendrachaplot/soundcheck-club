@@ -1,6 +1,6 @@
 # NMSS
 
-NMSS is a Techno and Latin Bass artist with 3 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at Beursschouwburg, Brussels on Fri, 18 Sept 2026.
+NMSS is a Techno and Latin Bass artist with 3 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Beursschouwburg, Brussels on Fri, 18 Sept 2026.
 
 NMSS is a techno and latin bass artist based in France, tracked on soundcheck, with 67 sets logged across Amsterdam, Antwerp, Berlin and Brussels and 6 more. Often billed alongside Vera Moro, Stella K and Ricky Corazón. Next up: Beursschouwburg, Brussels on Fri 18 Sept.
 
@@ -27,4 +27,4 @@ NMSS is a techno and latin bass artist based in France, tracked on soundcheck, w
 
 Vera Moro, Stella K, Ricky Corazón
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nmss/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nmss/)*

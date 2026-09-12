@@ -1,6 +1,6 @@
 # Club 69
 
-Club 69 is a music venue in Glasgow with 6 upcoming nights listed on soundcheck as of Fri, 11 Sept 2026; the next is "Ravage - One Last Dance" on Fri, 11 Sept 2026.
+Club 69 is a music venue in Glasgow with 6 upcoming nights listed on soundcheck as of Sat, 12 Sept 2026; the next is "Ravage - One Last Dance" on Fri, 11 Sept 2026.
 
 Club 69 is a music venue in Glasgow listed on soundcheck. 6 upcoming nights, with line-ups including Chico, LAUZ, Meister and Nexus and 2 more. Browse upcoming dates, start times and who's playing. 40 New Sneddon St; Paisley, PA3 2AZ.
 
@@ -19,4 +19,4 @@ Club 69 is a music venue in Glasgow listed on soundcheck. 6 upcoming nights, wit
 
 40 New Sneddon St; Paisley, PA3 2AZ, Glasgow
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/club-69/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/club-69/)*

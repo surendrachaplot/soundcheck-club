@@ -1,13 +1,14 @@
 # Dave P
 
-Dave P is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at Société des arts technologiques, Montreal on Sat, 3 Oct 2026.
+Dave P is a Techno and Trance artist with 3 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Système, Montreal on Fri, 2 Oct 2026.
 
-Dave P is a techno and trance artist based in United States of America, tracked on soundcheck, with 62 sets logged across Barcelona, Cologne, Glasgow and Mexicocity and 5 more. Often billed alongside Zillas on Acid, Mario Cotto and JEWELSSEA. Next up: Société des arts technologiques, Montreal on Sat 3 Oct.
+Dave P is a techno and trance artist based in United States of America, tracked on soundcheck, with 63 sets logged across Barcelona, Cologne, Glasgow and Mexicocity and 5 more. Often billed alongside Zillas on Acid, Mario Cotto and JEWELSSEA. Next up: Système, Montreal on Fri 2 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 2 Oct 2026 | Système | Montreal |
 | Sat, 3 Oct 2026 | Société des arts technologiques | Montreal |
 | Sat, 31 Oct 2026 | Franklin Music Hall | Philadelphia |
 
@@ -26,4 +27,4 @@ Dave P is a techno and trance artist based in United States of America, tracked 
 
 Zillas on Acid, Mario Cotto, JEWELSSEA
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/davep/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/davep/)*

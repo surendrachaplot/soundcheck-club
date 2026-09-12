@@ -1,14 +1,15 @@
 # Lockhart
 
-Lockhart is a Techno and Experimental artist with 1 upcoming club date listed on soundcheck as of Fri, 11 Sept 2026, next at FOLD, London on Sat, 12 Sept 2026.
+Lockhart is a Techno and Experimental artist with 2 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at FOLD, London on Sat, 12 Sept 2026.
 
-Lockhart is a techno and experimental artist tracked on soundcheck, with 42 sets logged across Berlin, Bristol, Leipzig and London and 2 more. Often billed alongside Voicedrone, Alba Heidari and James Newmarch. Next up: FOLD, London on Sat 12 Sept.
+Lockhart is a techno and experimental artist tracked on soundcheck, with 43 sets logged across Berlin, Bristol, Leipzig and London and 3 more. Often billed alongside Voicedrone, Alba Heidari and James Newmarch. Next up: FOLD, London on Sat 12 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 12 Sept 2026 | FOLD | London |
+| Fri, 4 Dec 2026 | Teritorija | Riga |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Lockhart is a techno and experimental artist tracked on soundcheck, with 42 sets
 
 Voicedrone, Alba Heidari, James Newmarch
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lockhart/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lockhart/)*

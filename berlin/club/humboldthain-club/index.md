@@ -1,6 +1,6 @@
 # Humboldthain Club
 
-Humboldthain Club is a music venue in Berlin with 24 upcoming nights listed on soundcheck as of Fri, 11 Sept 2026; the next is "Oszillation x Villa Wumms" on Fri, 11 Sept 2026.
+Humboldthain Club is a music venue in Berlin with 24 upcoming nights listed on soundcheck as of Sat, 12 Sept 2026; the next is "Oszillation x Villa Wumms" on Fri, 11 Sept 2026.
 
 Humboldthain Club is a music venue in Berlin listed on soundcheck. 24 upcoming nights, with line-ups including YOVA, __iwana__, AHAB and Anna Almani and 2 more. Browse upcoming dates, start times and who's playing. Hochstraße 46; 13357 Berlin; Germany.
 
@@ -23,4 +23,4 @@ Humboldthain Club is a music venue in Berlin listed on soundcheck. 24 upcoming n
 
 Hochstraße 46; 13357 Berlin; Germany, Berlin
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/humboldthain-club/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/humboldthain-club/)*

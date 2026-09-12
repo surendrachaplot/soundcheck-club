@@ -1,6 +1,6 @@
 # Fritello Tonato
 
-Fritello Tonato is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Fri, 11 Sept 2026, next at SASS Music Club, Vienna on Sun, 20 Sept 2026.
+Fritello Tonato is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Sat, 12 Sept 2026, next at SASS Music Club, Vienna on Sun, 20 Sept 2026.
 
 Fritello Tonato is a house and deep house artist tracked on soundcheck, with 15 sets logged across Lisbon and Vienna. Often billed alongside Paul Walter, DJ Void and Katia Curie. Next up: SASS Music Club, Vienna on Sun 20 Sept.
 
@@ -25,4 +25,4 @@ Fritello Tonato is a house and deep house artist tracked on soundcheck, with 15 
 
 Paul Walter, DJ Void, Katia Curie
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/fritellotonato/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/fritellotonato/)*

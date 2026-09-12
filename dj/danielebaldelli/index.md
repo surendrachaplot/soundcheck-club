@@ -1,6 +1,6 @@
 # Daniele Baldelli
 
-Daniele Baldelli is a Disco and House artist with 1 upcoming club date listed on soundcheck as of Fri, 11 Sept 2026, next at Bunker, Turin on Sun, 18 Oct 2026.
+Daniele Baldelli is a Disco and House artist with 1 upcoming club date listed on soundcheck as of Sat, 12 Sept 2026, next at Bunker, Turin on Sun, 18 Oct 2026.
 
 Daniele Baldelli is a disco and house artist tracked on soundcheck, with 41 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 9 more. Often billed alongside Giuseppe Fava, Alexander Robotnick and Budino. Next up: Bunker, Turin on Sun 18 Oct.
 
@@ -25,4 +25,4 @@ Daniele Baldelli is a disco and house artist tracked on soundcheck, with 41 sets
 
 Giuseppe Fava, Alexander Robotnick, Budino
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/danielebaldelli/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/danielebaldelli/)*

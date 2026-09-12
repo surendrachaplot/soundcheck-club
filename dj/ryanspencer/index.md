@@ -1,6 +1,6 @@
 # Ryan Spencer
 
-Ryan Spencer is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at TBA, Detroit on Sat, 19 Sept 2026.
+Ryan Spencer is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at TBA, Detroit on Sat, 19 Sept 2026.
 
 Ryan Spencer is a house and techno artist based in United States of America, tracked on soundcheck, with 262 sets logged across Detroit, Losangeles, Montreal and Newyorkcity and 1 more. Often billed alongside Shigeto, Tammy Lakkis and Charles Trees. Next up: TBA, Detroit on Sat 19 Sept.
 
@@ -26,4 +26,4 @@ Ryan Spencer is a house and techno artist based in United States of America, tra
 
 Shigeto, Tammy Lakkis, Charles Trees
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ryanspencer/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ryanspencer/)*

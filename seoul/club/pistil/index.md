@@ -1,6 +1,6 @@
 # Pistil
 
-Pistil is a music venue in Seoul with 5 upcoming nights listed on soundcheck as of Fri, 11 Sept 2026; the next is "YETSUBY ALL NIGHT" on Fri, 11 Sept 2026.
+Pistil is a music venue in Seoul with 5 upcoming nights listed on soundcheck as of Sat, 12 Sept 2026; the next is "YETSUBY ALL NIGHT" on Fri, 11 Sept 2026.
 
 Pistil is a music venue in Seoul listed on soundcheck. 5 upcoming nights, with line-ups including A.Attack, dayoung, DDD (2) and DJ Botermelk and 2 more. Browse upcoming dates, start times and who's playing. 130- 5 Itaewon-dong, Seoul, South Korea.
 
@@ -18,4 +18,4 @@ Pistil is a music venue in Seoul listed on soundcheck. 5 upcoming nights, with l
 
 130- 5 Itaewon-dong, Seoul, South Korea, Seoul
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/seoul/club/pistil/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/seoul/club/pistil/)*

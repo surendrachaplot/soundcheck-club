@@ -1,6 +1,6 @@
 # Automatic: Calabasa, Sibil b2b Pocket Club & more at Auber Garden
 
-Automatic: Calabasa, Sibil b2b Pocket Club & more at Auber Garden on Sat 19 Sept, Paris. 4 acts on the bill: Automatic Writing, Calabasa, Poggio and Sibil (1). House and Minimal. Preview the line-up and save it on soundcheck.
+Automatic: Calabasa, Sibil b2b Pocket Club & more at Auber Garden on Sat 19 Sept, Paris. 6 acts on the bill: Alex Troubetzkoy, Automatic Writing, Calabasa and Paul Cut and 2 more. House and Minimal. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,8 +10,10 @@ Automatic: Calabasa, Sibil b2b Pocket Club & more at Auber Garden on Sat 19 Sept
 
 ## Line-up
 
+- Alex Troubetzkoy
 - Automatic Writing
 - Calabasa
+- Paul Cut
 - Poggio
 - Sibil (1)
 

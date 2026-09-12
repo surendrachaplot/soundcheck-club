@@ -1,6 +1,6 @@
 # Mikasa
 
-Mikasa is a Hardcore and Gabber artist with 1 upcoming club date listed on soundcheck as of Fri, 11 Sept 2026, next at Peyote Cennet Bahçesi, Istanbul on Sun, 13 Sept 2026.
+Mikasa is a Hardcore and Gabber artist with 1 upcoming club date listed on soundcheck as of Sat, 12 Sept 2026, next at Peyote Cennet Bahçesi, Istanbul on Sun, 13 Sept 2026.
 
 Mikasa is a hardcore and gabber artist based in United States of America, tracked on soundcheck, with 14 sets logged across Istanbul, Newyorkcity, Osaka and Tokyo. Often billed alongside KYLE MIKASA, RICKY and TCJ (2). Next up: Peyote Cennet Bahçesi, Istanbul on Sun 13 Sept.
 
@@ -25,4 +25,4 @@ Mikasa is a hardcore and gabber artist based in United States of America, tracke
 
 KYLE MIKASA, RICKY, TCJ (2)
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mikasa/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mikasa/)*

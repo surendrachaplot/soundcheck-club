@@ -1,6 +1,6 @@
 # Nakamoog
 
-Nakamoog is a Deep House and House artist with 1 upcoming club date listed on soundcheck as of Fri, 11 Sept 2026, next at BAR Inc, Osaka on Wed, 23 Sept 2026.
+Nakamoog is a Deep House and House artist with 1 upcoming club date listed on soundcheck as of Sat, 12 Sept 2026, next at BAR Inc, Osaka on Wed, 23 Sept 2026.
 
 Nakamoog is a deep house and house artist tracked on soundcheck, with 14 sets logged across Kyoto and Osaka. Often billed alongside HSC (1), BurnTale and DJ SENOBY. Next up: BAR Inc, Osaka on Wed 23 Sept.
 
@@ -25,4 +25,4 @@ Nakamoog is a deep house and house artist tracked on soundcheck, with 14 sets lo
 
 HSC (1), BurnTale, DJ SENOBY
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nakamoog/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nakamoog/)*

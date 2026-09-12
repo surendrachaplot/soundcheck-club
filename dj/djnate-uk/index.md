@@ -1,6 +1,6 @@
 # DJ Nate (UK)
 
-DJ Nate (UK) is a Tech House and Dancehall artist with 1 upcoming club date listed on soundcheck as of Fri, 11 Sept 2026, next at Eutopia Warehouse, London on Sat, 31 Oct 2026.
+DJ Nate (UK) is a Tech House and Dancehall artist with 1 upcoming club date listed on soundcheck as of Sat, 12 Sept 2026, next at Eutopia Warehouse, London on Sat, 31 Oct 2026.
 
 DJ Nate (UK) is a tech house and dancehall artist tracked on soundcheck, with 6 sets logged across London. Often billed alongside Pioneer, Rampage Sound and Supa D. Next up: Eutopia Warehouse, London on Sat 31 Oct.
 
@@ -22,4 +22,4 @@ DJ Nate (UK) is a tech house and dancehall artist tracked on soundcheck, with 6 
 
 Pioneer, Rampage Sound, Supa D
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djnate-uk/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djnate-uk/)*

@@ -1,6 +1,6 @@
 # Hades
 
-Hades is a Techno and Hardcore artist with 2 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at WaV, Liverpool on Fri, 25 Sept 2026.
+Hades is a Techno and Hardcore artist with 2 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at WaV, Liverpool on Fri, 25 Sept 2026.
 
 Hades is a techno and hardcore artist tracked on soundcheck, with 66 sets logged across Amsterdam, Antwerp, Barcelona and Berlin and 25 more. Often billed alongside KARAH, CARV and JAZZY (2). Next up: WaV, Liverpool on Fri 25 Sept.
 
@@ -26,4 +26,4 @@ Hades is a techno and hardcore artist tracked on soundcheck, with 66 sets logged
 
 KARAH, CARV, JAZZY (2)
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/hades/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/hades/)*

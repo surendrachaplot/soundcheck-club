@@ -1,6 +1,6 @@
 # Davera
 
-Davera is a House artist with 1 upcoming club date listed on soundcheck as of Fri, 11 Sept 2026, next at Sacré, Paris on Fri, 16 Oct 2026.
+Davera is a House artist with 1 upcoming club date listed on soundcheck as of Sat, 12 Sept 2026, next at Sacré, Paris on Fri, 16 Oct 2026.
 
 Davera is a house artist tracked on soundcheck, with 9 sets logged across Paris. Often billed alongside Bubs, Töm and AA/XX. Next up: Sacré, Paris on Fri 16 Oct.
 
@@ -25,4 +25,4 @@ Davera is a house artist tracked on soundcheck, with 9 sets logged across Paris.
 
 Bubs, Töm, AA/XX
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/davera/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/davera/)*

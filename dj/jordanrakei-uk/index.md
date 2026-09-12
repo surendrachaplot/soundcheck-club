@@ -1,8 +1,8 @@
 # Jordan Rakei
 
-Jordan Rakei is a Funk / Soul and Jazz artist with 3 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at Auckland Town Hall, Auckland on Thu, 3 Dec 2026.
+Jordan Rakei is a Funk / Soul and Jazz artist with 4 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Auckland Town Hall, Auckland on Thu, 3 Dec 2026.
 
-Jordan Rakei is a funk / soul and jazz artist tracked on soundcheck, with 6 sets logged across Auckland, Birmingham, Brisbane and London and 1 more. Often billed alongside Horse Meat Disco, Jamz Supernova and Aba Shanti-I. Next up: Auckland Town Hall, Auckland on Thu 3 Dec.
+Jordan Rakei is a funk / soul and jazz artist tracked on soundcheck, with 7 sets logged across Auckland, Birmingham, Brisbane and London and 2 more. Often billed alongside Horse Meat Disco, Jamz Supernova and Aba Shanti-I. Next up: Auckland Town Hall, Auckland on Thu 3 Dec.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ Jordan Rakei is a funk / soul and jazz artist tracked on soundcheck, with 6 sets
 | Thu, 3 Dec 2026 | Auckland Town Hall | Auckland |
 | Sat, 5 Dec 2026 | Princess Theatre | Brisbane |
 | Sun, 6 Dec 2026 | Tumbalong Park | Sydney |
+| Thu, 10 Dec 2026 | The Forum Theatre | Melbourne |
 
 ## Recently played
 
@@ -22,4 +23,4 @@ Jordan Rakei is a funk / soul and jazz artist tracked on soundcheck, with 6 sets
 
 Horse Meat Disco, Jamz Supernova, Aba Shanti-I
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jordanrakei-uk/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jordanrakei-uk/)*

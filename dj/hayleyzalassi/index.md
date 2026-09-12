@@ -1,8 +1,8 @@
 # Hayley Zalassi
 
-Hayley Zalassi is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at Public NQ, Manchester on Sat, 12 Sept 2026.
+Hayley Zalassi is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Public NQ, Manchester on Sat, 12 Sept 2026.
 
-Hayley Zalassi is a house and techno artist tracked on soundcheck, with 89 sets logged across Aberdeen, Amsterdam, Barcelona and Brighton and 14 more. Often billed alongside KILIMANJARO, Big Miz and Danse Atmos. Next up: Public NQ, Manchester on Sat 12 Sept.
+Hayley Zalassi is a house and techno artist tracked on soundcheck, with 90 sets logged across Aberdeen, Amsterdam, Barcelona and Brighton and 14 more. Often billed alongside KILIMANJARO, Big Miz and Danse Atmos. Next up: Public NQ, Manchester on Sat 12 Sept.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Hayley Zalassi is a house and techno artist tracked on soundcheck, with 89 sets 
 | --- | --- | --- |
 | Sat, 12 Sept 2026 | Public NQ | Manchester |
 | Wed, 23 Sept 2026 | The Art School | Glasgow |
+| Fri, 30 Oct 2026 | SISSI'S Amsterdam | Amsterdam |
 
 ## Recently played
 
@@ -26,4 +27,4 @@ Hayley Zalassi is a house and techno artist tracked on soundcheck, with 89 sets 
 
 KILIMANJARO, Big Miz, Danse Atmos
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/hayleyzalassi/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/hayleyzalassi/)*

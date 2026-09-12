@@ -1,6 +1,6 @@
 # Yamamori Tengu
 
-Yamamori Tengu is a music venue in Dublin with 25 upcoming nights listed on soundcheck as of Fri, 11 Sept 2026; the next is "Club Comfort presents: JD REID" on Fri, 11 Sept 2026.
+Yamamori Tengu is a music venue in Dublin with 25 upcoming nights listed on soundcheck as of Sat, 12 Sept 2026; the next is "Club Comfort presents: JD REID" on Fri, 11 Sept 2026.
 
 Yamamori Tengu is a music venue in Dublin listed on soundcheck. 25 upcoming nights, with line-ups including 2manycolours, A For Alpha, Ambit and angel tabris and 2 more. Browse upcoming dates, start times and who's playing. 37 Strand Street Great, North City, Dublin 1, Ireland.
 
@@ -23,4 +23,4 @@ Yamamori Tengu is a music venue in Dublin listed on soundcheck. 25 upcoming nigh
 
 37 Strand Street Great, North City, Dublin 1, Ireland, Dublin
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dublin/club/yamamori-tengu/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dublin/club/yamamori-tengu/)*

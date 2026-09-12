@@ -1,6 +1,6 @@
 # Palazzo Delle Esposizioni
 
-Palazzo Delle Esposizioni is a music venue in Rome with 1 upcoming night listed on soundcheck as of Fri, 11 Sept 2026; the next is "MAGEÌA ART MUSIC TAKE OVER" on Thu, 17 Sept 2026.
+Palazzo Delle Esposizioni is a music venue in Rome with 1 upcoming night listed on soundcheck as of Sat, 12 Sept 2026; the next is "MAGEÌA ART MUSIC TAKE OVER" on Thu, 17 Sept 2026.
 
 Palazzo Delle Esposizioni is a music venue in Rome listed on soundcheck. 1 upcoming night, with line-ups including Alex Neri, Antoine Bourachot, Breakbot and ELASI and 2 more. Browse upcoming dates, start times and who's playing. Via Nazionale, 194, 00184 Roma RM, Italy.
 
@@ -14,4 +14,4 @@ Palazzo Delle Esposizioni is a music venue in Rome listed on soundcheck. 1 upcom
 
 Via Nazionale, 194, 00184 Roma RM, Italy, Rome
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/rome/club/palazzo-delle-esposizioni/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/rome/club/palazzo-delle-esposizioni/)*

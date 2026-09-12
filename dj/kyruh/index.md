@@ -1,6 +1,6 @@
 # KYRUH
 
-KYRUH is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at Good Room, New York City on Thu, 24 Sept 2026.
+KYRUH is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Good Room, New York City on Thu, 24 Sept 2026.
 
 KYRUH is a techno and house artist tracked on soundcheck, with 152 sets logged across Amsterdam, Austin, Barcelona and Berlin and 14 more. Often billed alongside WTCHCRFT, Katie Rex and Annie Lew. Next up: Good Room, Newyorkcity on Thu 24 Sept.
 
@@ -29,4 +29,4 @@ KYRUH is a techno and house artist tracked on soundcheck, with 152 sets logged a
 
 WTCHCRFT, Katie Rex, Annie Lew
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kyruh/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kyruh/)*

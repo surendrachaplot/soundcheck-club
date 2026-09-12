@@ -1,6 +1,6 @@
 # Paralich
 
-Paralich is a Techno and Trance artist with 8 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at Eventhuset, Stockholm on Sat, 12 Sept 2026.
+Paralich is a Techno and Trance artist with 8 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Eventhuset, Stockholm on Sat, 12 Sept 2026.
 
 Paralich is a techno and trance artist tracked on soundcheck, with 161 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 27 more. Often billed alongside THIRD 2HIFT, Valenthin and RaverPik. Next up: Eventhuset, Stockholm on Sat 12 Sept.
 
@@ -32,4 +32,4 @@ Paralich is a techno and trance artist tracked on soundcheck, with 161 sets logg
 
 THIRD 2HIFT, Valenthin, RaverPik
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/paralich/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/paralich/)*

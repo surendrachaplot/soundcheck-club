@@ -1,6 +1,6 @@
 # 2TAL
 
-2TAL is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Fri, 11 Sept 2026, next at 74 Hall, Istanbul on Sat, 19 Sept 2026.
+2TAL is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Sat, 12 Sept 2026, next at 74 Hall, Istanbul on Sat, 19 Sept 2026.
 
 2TAL is a techno and industrial artist tracked on soundcheck, with 12 sets logged across Istanbul. Often billed alongside Epifanix, Inf3ris and ADZE. Next up: 74 Hall, Istanbul on Sat 19 Sept.
 
@@ -25,4 +25,4 @@
 
 Epifanix, Inf3ris, ADZE
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/2tal/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/2tal/)*

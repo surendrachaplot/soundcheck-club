@@ -1,6 +1,6 @@
 # Peter K
 
-Peter K is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Fri, 11 Sept 2026, next at Pisco Punch, Barcelona on Sat, 12 Sept 2026.
+Peter K is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Sat, 12 Sept 2026, next at Pisco Punch, Barcelona on Sat, 12 Sept 2026.
 
 Peter K is a house and deep house artist based in Spain, tracked on soundcheck, with 7 sets logged across Barcelona. Often billed alongside Maje, &Rey and DJ AMX. Next up: Pisco Punch, Barcelona on Sat 12 Sept.
 
@@ -23,4 +23,4 @@ Peter K is a house and deep house artist based in Spain, tracked on soundcheck, 
 
 Maje, &Rey, DJ AMX
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/peterk/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/peterk/)*

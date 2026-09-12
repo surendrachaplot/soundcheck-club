@@ -1,6 +1,6 @@
 # URUBU Marinka
 
-URUBU Marinka is a Downtempo and Electronica artist with 1 upcoming club date listed on soundcheck as of Fri, 11 Sept 2026, next at Panke, Berlin on Sat, 12 Sept 2026.
+URUBU Marinka is a Downtempo and Electronica artist with 1 upcoming club date listed on soundcheck as of Sat, 12 Sept 2026, next at Panke, Berlin on Sat, 12 Sept 2026.
 
 URUBU Marinka is a downtempo and electronica artist tracked on soundcheck, with 12 sets logged across Berlin. Often billed alongside BurnTale, Lotte Ahoi and Nigel Nagel. Next up: Panke, Berlin on Sat 12 Sept.
 
@@ -25,4 +25,4 @@ URUBU Marinka is a downtempo and electronica artist tracked on soundcheck, with 
 
 BurnTale, Lotte Ahoi, Nigel Nagel
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/urubumarinka/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/urubumarinka/)*

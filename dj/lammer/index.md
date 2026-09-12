@@ -1,6 +1,6 @@
 # LAMMER
 
-LAMMER is a Techno and Trance artist with 10 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at Elsewhere, New York City on Fri, 11 Sept 2026.
+LAMMER is a Techno and Trance artist with 10 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Elsewhere, New York City on Fri, 11 Sept 2026.
 
 LAMMER is a techno and trance artist tracked on soundcheck, with 115 sets logged across Amsterdam, Antwerp, Barcelona and Belgrade and 27 more. Often billed alongside Lisa Korver, Kyle Starkey and Bella Claxton. Next up: Elsewhere, Newyorkcity on Fri 11 Sept.
 
@@ -21,6 +21,7 @@ LAMMER is a techno and trance artist tracked on soundcheck, with 115 sets logged
 
 ## Recently played
 
+- Elsewhere, New York City — Fri, 11 Sept 2026
 - Mondo Open Air, Madrid — Sat, 5 Sept 2026
 - Ahoy Rotterdam, Rotterdam — Sat, 29 Aug 2026
 - Hï Ibiza, Ibiza — Fri, 21 Aug 2026
@@ -28,10 +29,9 @@ LAMMER is a techno and trance artist tracked on soundcheck, with 115 sets logged
 - Gianpula Village, Malta — Wed, 12 Aug 2026
 - Sloterpark, Amsterdam — Sat, 8 Aug 2026
 - Palmerstown House Estate, Dublin — Fri, 7 Aug 2026
-- block., Dublin — Fri, 7 Aug 2026
 
 ## Shares bills with
 
 Lisa Korver, Kyle Starkey, Bella Claxton
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lammer/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lammer/)*

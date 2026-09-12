@@ -1,6 +1,6 @@
 # Somewhen
 
-Somewhen is a Techno and Trance artist with 8 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at Zenith - Die Kulturhalle, Munich on Sat, 12 Sept 2026.
+Somewhen is a Techno and Trance artist with 8 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Zenith - Die Kulturhalle, Munich on Sat, 12 Sept 2026.
 
 Somewhen is a techno and trance artist tracked on soundcheck, with 208 sets logged across Amsterdam, Antwerp, Austin and Barcelona and 57 more. Often billed alongside Kobosil, Clara Cuvé and In Verruf. Next up: Zenith - Die Kulturhalle, Munich on Sat 12 Sept.
 
@@ -32,4 +32,4 @@ Somewhen is a techno and trance artist tracked on soundcheck, with 208 sets logg
 
 Kobosil, Clara Cuvé, In Verruf
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/somewhen/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/somewhen/)*

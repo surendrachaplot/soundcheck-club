@@ -1,13 +1,14 @@
 # Meilgaarden
 
-Meilgaarden is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 11 Sept 2026, next at Bogart House, New York City on Sat, 24 Oct 2026.
+Meilgaarden is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at BASEMENT, New York City on Fri, 9 Oct 2026.
 
-Meilgaarden is a house and techno artist based in Sweden, tracked on soundcheck, with 89 sets logged across Amsterdam, Berlin, Boston and Chicago and 8 more. Often billed alongside Ian Crane, LYDO and Ron Like Hell. Next up: Bogart House, Newyorkcity on Sat 24 Oct.
+Meilgaarden is a house and techno artist based in Sweden, tracked on soundcheck, with 90 sets logged across Amsterdam, Berlin, Boston and Chicago and 8 more. Often billed alongside Ian Crane, LYDO and Ron Like Hell. Next up: BASEMENT, Newyorkcity on Fri 9 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 9 Oct 2026 | BASEMENT | New York City |
 | Sat, 24 Oct 2026 | Bogart House | New York City |
 
 ## Recently played
@@ -25,4 +26,4 @@ Meilgaarden is a house and techno artist based in Sweden, tracked on soundcheck,
 
 Ian Crane, LYDO, Ron Like Hell
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/meilgaarden/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/meilgaarden/)*

@@ -1,8 +1,8 @@
 # Craig Richards
 
-Craig Richards is a Techno and House artist with 7 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at The Cause, London on Sat, 12 Sept 2026.
+Craig Richards is a House and Techno artist with 7 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at The Cause, London on Sat, 12 Sept 2026.
 
-Craig Richards is a techno and house artist tracked on soundcheck, with 155 sets logged across Amsterdam, Barcelona, Berlin and Bristol and 28 more. Often billed alongside Bobby., Francesco Del Garda and Christian AB. Next up: The Cause, London on Sat 12 Sept.
+Craig Richards is a house and techno artist tracked on soundcheck, with 155 sets logged across Amsterdam, Barcelona, Berlin and Bristol and 28 more. Often billed alongside Bobby., Francesco Del Garda and Christian AB. Next up: The Cause, London on Sat 12 Sept.
 
 ## Upcoming shows
 
@@ -31,4 +31,4 @@ Craig Richards is a techno and house artist tracked on soundcheck, with 155 sets
 
 Bobby., Francesco Del Garda, Christian AB
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/craigrichards/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/craigrichards/)*

@@ -1,6 +1,6 @@
 # InRemission
 
-InRemission is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Fri, 11 Sept 2026, next at Avve, Bangkok on Sat, 12 Sept 2026.
+InRemission is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Sat, 12 Sept 2026, next at Avve, Bangkok on Sat, 12 Sept 2026.
 
 InRemission is a techno and industrial artist tracked on soundcheck, with 37 sets logged across Bangkok and Singapore. Often billed alongside POKOLENIE MIKROZAYMOV, REIKS and The3RD. Next up: Avve, Bangkok on Sat 12 Sept.
 
@@ -25,4 +25,4 @@ InRemission is a techno and industrial artist tracked on soundcheck, with 37 set
 
 POKOLENIE MIKROZAYMOV, REIKS, The3RD
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/inremission/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/inremission/)*

@@ -1,6 +1,6 @@
 # Agent Greg
 
-Agent Greg is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Fri, 11 Sept 2026, next at Cavo Paradiso, Mykonos on Sat, 12 Sept 2026.
+Agent Greg is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Sat, 12 Sept 2026, next at Cavo Paradiso, Mykonos on Sat, 12 Sept 2026.
 
 Agent Greg is a house and tech house artist based in Greece, tracked on soundcheck, with 45 sets logged across Athens, Miami and Mykonos. Often billed alongside CJ Jeff, Dino MFU and James Hype (UK). Next up: Cavo Paradiso, Mykonos on Sat 12 Sept.
 
@@ -25,4 +25,4 @@ Agent Greg is a house and tech house artist based in Greece, tracked on soundche
 
 CJ Jeff, Dino MFU, James Hype (UK)
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/agentgreg/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/agentgreg/)*

@@ -1,6 +1,6 @@
 # Paper
 
-Paper is a music venue in Seoul with 5 upcoming nights listed on soundcheck as of Fri, 11 Sept 2026; the next is "Paper Seoul" on Fri, 11 Sept 2026.
+Paper is a music venue in Seoul with 5 upcoming nights listed on soundcheck as of Sat, 12 Sept 2026; the next is "Paper Seoul" on Fri, 11 Sept 2026.
 
 Paper is a music venue in Seoul listed on soundcheck. 5 upcoming nights, with line-ups including Acidwork, Bluebird, Cityboy from Seoul and denny and 2 more. Browse upcoming dates, start times and who's playing. Seoul, Itaewon-dong 119-8, Rooftop, Post Code : 04350.
 
@@ -18,4 +18,4 @@ Paper is a music venue in Seoul listed on soundcheck. 5 upcoming nights, with li
 
 Seoul, Itaewon-dong 119-8, Rooftop, Post Code : 04350, Seoul
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/seoul/club/paper/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/seoul/club/paper/)*

@@ -1,6 +1,6 @@
 # JAXX.
 
-JAXX. is a Techno and Club artist with 2 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at Podlasie Club, Chicago on Sun, 13 Sept 2026.
+JAXX. is a Techno and Club artist with 2 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Podlasie Club, Chicago on Sun, 13 Sept 2026.
 
 JAXX. is a techno and club artist based in United States of America, tracked on soundcheck, with 27 sets logged across Chicago and Newyorkcity. Often billed alongside Glamour Cadaver, Jon McCray and R°sha. Next up: Podlasie Club, Chicago on Sun 13 Sept.
 
@@ -26,4 +26,4 @@ JAXX. is a techno and club artist based in United States of America, tracked on 
 
 Glamour Cadaver, Jon McCray, R°sha
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jaxx./)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jaxx./)*

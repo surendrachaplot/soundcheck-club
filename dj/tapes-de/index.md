@@ -1,6 +1,6 @@
 # Tapes
 
-Tapes is a Dub and Bass artist with 2 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at Open Ground, Wuppertal on Sat, 12 Sept 2026.
+Tapes is a Dub and Bass artist with 2 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Open Ground, Wuppertal on Sat, 12 Sept 2026.
 
 Tapes is a dub and bass artist tracked on soundcheck, with 22 sets logged across Berlin, Kyoto, London and Melbourne and 8 more. Often billed alongside Giouann, Carl Luis and Arthur (DE). Next up: Open Ground, Wuppertal on Sat 12 Sept.
 
@@ -26,4 +26,4 @@ Tapes is a dub and bass artist tracked on soundcheck, with 22 sets logged across
 
 Giouann, Carl Luis, Arthur (DE)
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tapes-de/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tapes-de/)*

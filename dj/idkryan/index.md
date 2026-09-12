@@ -1,6 +1,6 @@
 # IDKRYAN
 
-IDKRYAN is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at Jupiter Disco, New York City on Fri, 11 Sept 2026.
+IDKRYAN is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Jupiter Disco, New York City on Fri, 11 Sept 2026.
 
 IDKRYAN is a techno and house artist based in United States of America, tracked on soundcheck, with 21 sets logged across Austin, Houston, Newyorkcity and Washingtondc. Often billed alongside HYPERFEMME, Amarji King and yunginternet. Next up: Jupiter Disco, Newyorkcity on Fri 11 Sept.
 
@@ -13,6 +13,7 @@ IDKRYAN is a techno and house artist based in United States of America, tracked 
 
 ## Recently played
 
+- Jupiter Disco, New York City — Fri, 11 Sept 2026
 - Paragon, New York City — Sat, 5 Sept 2026
 - Boondocks, Houston — Sat, 15 Aug 2026
 - Art Club, Houston — Sat, 25 Jul 2026
@@ -20,10 +21,9 @@ IDKRYAN is a techno and house artist based in United States of America, tracked 
 - Boondocks, Houston — Sat, 28 Mar 2026
 - TBA - Native Coffee Shop, Houston — Sat, 31 Jan 2026
 - Barbarella, Houston — Thu, 1 Jan 2026
-- Boondocks, Houston — Wed, 31 Dec 2025
 
 ## Shares bills with
 
 HYPERFEMME, Amarji King, yunginternet
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/idkryan/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/idkryan/)*

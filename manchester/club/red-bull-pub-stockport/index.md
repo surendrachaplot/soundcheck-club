@@ -1,6 +1,6 @@
 # Red Bull Pub - Stockport
 
-Red Bull Pub - Stockport is a music venue in Manchester with 2 upcoming nights listed on soundcheck as of Fri, 11 Sept 2026; the next is "Cairn Sound - Sound System Launch" on Fri, 18 Sept 2026.
+Red Bull Pub - Stockport is a music venue in Manchester with 2 upcoming nights listed on soundcheck as of Sat, 12 Sept 2026; the next is "Cairn Sound - Sound System Launch" on Fri, 18 Sept 2026.
 
 Red Bull Pub - Stockport is a music venue in Manchester listed on soundcheck. 2 upcoming nights, with line-ups including Banana Hill and Cervo. Browse upcoming dates, start times and who's playing. 14 Middle Hillgate, Stockport SK1 3AY.
 
@@ -15,4 +15,4 @@ Red Bull Pub - Stockport is a music venue in Manchester listed on soundcheck. 2 
 
 14 Middle Hillgate, Stockport SK1 3AY, Manchester
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/red-bull-pub-stockport/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/red-bull-pub-stockport/)*

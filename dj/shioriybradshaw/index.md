@@ -1,6 +1,6 @@
 # ShioriyBradshaw
 
-ShioriyBradshaw is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 11 Sept 2026, next at Enter Shibuya, Tokyo on Sat, 19 Sept 2026.
+ShioriyBradshaw is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 12 Sept 2026, next at Enter Shibuya, Tokyo on Sat, 19 Sept 2026.
 
 ShioriyBradshaw is a techno and house artist based in Japan, tracked on soundcheck, with 87 sets logged across Bangkok, Newyorkcity, Osaka and Seoul and 2 more. Often billed alongside Romy Mats, MoEPiKA and HIMAWARI. Next up: Enter Shibuya, Tokyo on Sat 19 Sept.
 
@@ -25,4 +25,4 @@ ShioriyBradshaw is a techno and house artist based in Japan, tracked on soundche
 
 Romy Mats, MoEPiKA, HIMAWARI
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/shioriybradshaw/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/shioriybradshaw/)*

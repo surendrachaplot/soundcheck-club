@@ -1,6 +1,6 @@
 # Cy Da Kid
 
-Cy Da Kid is a House and Baile Funk artist with 1 upcoming club date listed on soundcheck as of Fri, 11 Sept 2026, next at Butter, San Francisco/Oakland on Sun, 13 Sept 2026.
+Cy Da Kid is a House and Baile Funk artist with 1 upcoming club date listed on soundcheck as of Sat, 12 Sept 2026, next at Butter, San Francisco/Oakland on Sun, 13 Sept 2026.
 
 Cy Da Kid is a house and baile funk artist tracked on soundcheck, with 10 sets logged across Sanfrancisco. Often billed alongside DJ Guan, Del G Audio and Jeff Straw. Next up: Butter, Sanfrancisco on Sun 13 Sept.
 
@@ -25,4 +25,4 @@ Cy Da Kid is a house and baile funk artist tracked on soundcheck, with 10 sets l
 
 DJ Guan, Del G Audio, Jeff Straw
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/cydakid/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/cydakid/)*

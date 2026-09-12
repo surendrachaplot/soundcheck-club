@@ -1,6 +1,6 @@
 # Razzmatazz
 
-Razzmatazz is a music venue in Barcelona with 13 upcoming nights listed on soundcheck as of Fri, 11 Sept 2026; the next is "RAZZCLUBS: GЯEG + Dj Fucci + BADSISTA + Josey Rebelle" on Fri, 11 Sept 2026.
+Razzmatazz is a music venue in Barcelona with 13 upcoming nights listed on soundcheck as of Sat, 12 Sept 2026; the next is "RAZZCLUBS: GЯEG + Dj Fucci + BADSISTA + Josey Rebelle" on Fri, 11 Sept 2026.
 
 Razzmatazz is a music venue in Barcelona listed on soundcheck. 13 upcoming nights, with line-ups including Ana Alves, Anthony Linell, Antiribeiro and Art of Fighters and 2 more. Browse upcoming dates, start times and who's playing. C Almogavers 122 - C Pamplona 88; Barcelona; Spain.
 
@@ -23,4 +23,4 @@ Razzmatazz is a music venue in Barcelona listed on soundcheck. 13 upcoming night
 
 C Almogavers 122 - C Pamplona 88; Barcelona; Spain, Barcelona
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/razzmatazz/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/razzmatazz/)*

@@ -1,6 +1,6 @@
 # aaypea
 
-aaypea is a Italo Disco and New Wave artist with 1 upcoming club date listed on soundcheck as of Fri, 11 Sept 2026, next at Kazimier Garden, Liverpool on Fri, 25 Sept 2026.
+aaypea is a Italo Disco and New Wave artist with 1 upcoming club date listed on soundcheck as of Sat, 12 Sept 2026, next at Kazimier Garden, Liverpool on Fri, 25 Sept 2026.
 
 aaypea is an italo disco and new wave artist based in United Kingdom, tracked on soundcheck, with 15 sets logged across Liverpool. Often billed alongside polymaas, Benno and Blenky. Next up: Kazimier Garden, Liverpool on Fri 25 Sept.
 
@@ -25,4 +25,4 @@ aaypea is an italo disco and new wave artist based in United Kingdom, tracked on
 
 polymaas, Benno, Blenky
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/aaypea/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/aaypea/)*

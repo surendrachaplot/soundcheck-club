@@ -1,6 +1,6 @@
 # Freya
 
-Freya is a Techno and Psytrance artist with 1 upcoming club date listed on soundcheck as of Fri, 11 Sept 2026, next at Club Vaag, Antwerp on Fri, 13 Nov 2026.
+Freya is a Techno and Psytrance artist with 1 upcoming club date listed on soundcheck as of Sat, 12 Sept 2026, next at Club Vaag, Antwerp on Fri, 13 Nov 2026.
 
 Freya is a techno and psytrance artist based in Australia, tracked on soundcheck, with 10 sets logged across Antwerp, Brisbane, Liverpool and London and 3 more. Often billed alongside Andrea Guadalupi, Andrew88 and Anja Schneider. Next up: Club Vaag, Antwerp on Fri 13 Nov.
 
@@ -25,4 +25,4 @@ Freya is a techno and psytrance artist based in Australia, tracked on soundcheck
 
 Andrea Guadalupi, Andrew88, Anja Schneider
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/freya/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/freya/)*

@@ -1,6 +1,6 @@
 # Wilkinson
 
-Wilkinson is a Drum & Bass and Bass artist with 3 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at MÄX, Zurich on Sat, 12 Sept 2026.
+Wilkinson is a Drum & Bass and Bass artist with 3 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at MÄX, Zurich on Sat, 12 Sept 2026.
 
 Wilkinson is a drum & bass and bass artist tracked on soundcheck, with 78 sets logged across Amsterdam, Antwerp, Austin and Bali and 32 more. Often billed alongside Kanine, Bou (UK) and Mozey. Next up: MÄX, Zurich on Sat 12 Sept.
 
@@ -27,4 +27,4 @@ Wilkinson is a drum & bass and bass artist tracked on soundcheck, with 78 sets l
 
 Kanine, Bou (UK), Mozey
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/wilkinson/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/wilkinson/)*

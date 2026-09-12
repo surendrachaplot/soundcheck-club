@@ -1,6 +1,6 @@
 # Cameron Jack
 
-Cameron Jack is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Fri, 11 Sept 2026, next at Castaways, Chicago on Sat, 26 Sept 2026.
+Cameron Jack is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Sat, 12 Sept 2026, next at Castaways, Chicago on Sat, 26 Sept 2026.
 
 Cameron Jack is a house and deep house artist tracked on soundcheck, with 64 sets logged across Bali, Barcelona, Berlin and Chicago and 10 more. Often billed alongside Damian Lazarus, Black Coffee and Paul Reynolds. Next up: Castaways, Chicago on Sat 26 Sept.
 
@@ -25,4 +25,4 @@ Cameron Jack is a house and deep house artist tracked on soundcheck, with 64 set
 
 Damian Lazarus, Black Coffee, Paul Reynolds
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/cameronjack/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/cameronjack/)*

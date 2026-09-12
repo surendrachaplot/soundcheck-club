@@ -1,6 +1,6 @@
 # Lau.tastic
 
-Lau.tastic is a Techno and Industrial artist with 3 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at John Doe, Amsterdam on Sat, 12 Sept 2026.
+Lau.tastic is a Techno and Industrial artist with 3 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at John Doe, Amsterdam on Sat, 12 Sept 2026.
 
 Lau.tastic is a techno and industrial artist tracked on soundcheck, with 88 sets logged across Amsterdam, Berlin, Birmingham and Brighton and 5 more. Often billed alongside Dres Codex, KASTILO and Labåzuy. Next up: John Doe, Amsterdam on Sat 12 Sept.
 
@@ -27,4 +27,4 @@ Lau.tastic is a techno and industrial artist tracked on soundcheck, with 88 sets
 
 Dres Codex, KASTILO, Labåzuy
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lautastic/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lautastic/)*

@@ -1,14 +1,15 @@
 # ryuu (2)
 
-ryuu (2) is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 11 Sept 2026, next at clubasia, Tokyo on Thu, 17 Sept 2026.
+ryuu (2) is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at clubasia, Tokyo on Thu, 17 Sept 2026.
 
-ryuu (2) is a house and techno artist based in Japan, tracked on soundcheck, with 10 sets logged across Tokyo. Often billed alongside Pokaska, S.H.V and Shimon Taka. Next up: clubasia, Tokyo on Thu 17 Sept.
+ryuu (2) is a house and techno artist based in Japan, tracked on soundcheck, with 11 sets logged across Tokyo. Often billed alongside Pokaska, S.H.V and Shimon Taka. Next up: clubasia, Tokyo on Thu 17 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Thu, 17 Sept 2026 | clubasia | Tokyo |
+| Mon, 5 Oct 2026 | Azumaya | Tokyo |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ ryuu (2) is a house and techno artist based in Japan, tracked on soundcheck, wit
 
 Pokaska, S.H.V, Shimon Taka
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ryuu-2/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ryuu-2/)*

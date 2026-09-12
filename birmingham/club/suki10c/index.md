@@ -1,6 +1,6 @@
 # Suki10c
 
-Suki10c is a music venue in Birmingham with 6 upcoming nights listed on soundcheck as of Fri, 11 Sept 2026; the next is "Depressed Still Gotta Flex" on Fri, 18 Sept 2026.
+Suki10c is a music venue in Birmingham with 6 upcoming nights listed on soundcheck as of Sat, 12 Sept 2026; the next is "Depressed Still Gotta Flex" on Fri, 18 Sept 2026.
 
 Suki10c is a music venue in Birmingham listed on soundcheck. 6 upcoming nights, with line-ups including Alex Von Martin, Burden, Degs and FJ (1) and 2 more. Browse upcoming dates, start times and who's playing. 21 Bordesley Street Birmingham, B5 5PJ, United Kingdom.
 
@@ -19,4 +19,4 @@ Suki10c is a music venue in Birmingham listed on soundcheck. 6 upcoming nights, 
 
 21 Bordesley Street Birmingham, B5 5PJ, United Kingdom, Birmingham
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/birmingham/club/suki10c/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/birmingham/club/suki10c/)*

@@ -1,6 +1,6 @@
 # INOFF
 
-INOFF is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Fri, 11 Sept 2026, next at Sidecar, Barcelona on Sun, 13 Sept 2026.
+INOFF is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Sat, 12 Sept 2026, next at Sidecar, Barcelona on Sun, 13 Sept 2026.
 
 INOFF is a house and tech house artist tracked on soundcheck, with 6 sets logged across Barcelona. Often billed alongside Victor Hugo, Rafa Aleman and Daitto. Next up: Sidecar, Barcelona on Sun 13 Sept.
 
@@ -22,4 +22,4 @@ INOFF is a house and tech house artist tracked on soundcheck, with 6 sets logged
 
 Victor Hugo, Rafa Aleman, Daitto
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/inoff/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/inoff/)*

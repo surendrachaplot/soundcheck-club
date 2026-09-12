@@ -1,6 +1,6 @@
 # DJ Cinéma Quartier Latin
 
-DJ Cinéma Quartier Latin is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 11 Sept 2026, next at Bar Le Ritz PDB, Montreal on Sat, 3 Oct 2026.
+DJ Cinéma Quartier Latin is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 12 Sept 2026, next at Bar Le Ritz PDB, Montreal on Sat, 3 Oct 2026.
 
 DJ Cinéma Quartier Latin is a house and techno artist tracked on soundcheck, with 32 sets logged across Amsterdam, Berlin, Brussels and Buenosaires and 12 more. Often billed alongside Shaolin Cowboy, dj poolboi and sunflwr. Next up: Bar Le Ritz PDB, Montreal on Sat 3 Oct.
 
@@ -25,4 +25,4 @@ DJ Cinéma Quartier Latin is a house and techno artist tracked on soundcheck, wi
 
 Shaolin Cowboy, dj poolboi, sunflwr
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djcinemaquartierlatin/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djcinemaquartierlatin/)*

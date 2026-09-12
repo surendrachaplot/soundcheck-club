@@ -1,6 +1,6 @@
 # Vaccaro
 
-Vaccaro is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at Coro Wine and Vinyls, Berlin on Wed, 16 Sept 2026.
+Vaccaro is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Coro Wine and Vinyls, Berlin on Wed, 16 Sept 2026.
 
 Vaccaro is a techno and house artist tracked on soundcheck, with 34 sets logged across Berlin. Often billed alongside MXC, Tinco and No Auer. Next up: Coro Wine and Vinyls, Berlin on Wed 16 Sept.
 
@@ -27,4 +27,4 @@ Vaccaro is a techno and house artist tracked on soundcheck, with 34 sets logged 
 
 MXC, Tinco, No Auer
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/vaccaro/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/vaccaro/)*

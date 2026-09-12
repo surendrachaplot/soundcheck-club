@@ -1,6 +1,6 @@
 # Kotaro Shimizu
 
-Kotaro Shimizu is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at Club Metro, Kyoto on Sat, 12 Sept 2026.
+Kotaro Shimizu is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Club Metro, Kyoto on Sat, 12 Sept 2026.
 
 Kotaro Shimizu is a techno and house artist based in Japan, tracked on soundcheck, with 37 sets logged across Kyoto, Osaka and Tokyo. Often billed alongside Yui (JP), tnseei and Lynta. Next up: Club Metro, Kyoto on Sat 12 Sept.
 
@@ -26,4 +26,4 @@ Kotaro Shimizu is a techno and house artist based in Japan, tracked on soundchec
 
 Yui (JP), tnseei, Lynta
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kotaroshimizu/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kotaroshimizu/)*

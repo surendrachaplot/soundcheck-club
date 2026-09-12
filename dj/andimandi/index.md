@@ -1,6 +1,6 @@
 # ANDi MANDi
 
-ANDi MANDi is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at Warehouse on Watts, Philadelphia on Sat, 3 Oct 2026.
+ANDi MANDi is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Warehouse on Watts, Philadelphia on Sat, 3 Oct 2026.
 
 ANDi MANDi is a techno and house artist tracked on soundcheck, with 26 sets logged across Philadelphia. Often billed alongside JFK (USA), De León and DJ Kalin. Next up: Warehouse on Watts, Philadelphia on Sat 3 Oct.
 
@@ -26,4 +26,4 @@ ANDi MANDi is a techno and house artist tracked on soundcheck, with 26 sets logg
 
 JFK (USA), De León, DJ Kalin
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/andimandi/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/andimandi/)*

@@ -1,6 +1,6 @@
 # Kepler
 
-Kepler is a House and Tech House artist with 13 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at UNO MALTA, Malta on Fri, 18 Sept 2026.
+Kepler is a House and Tech House artist with 13 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at UNO MALTA, Malta on Fri, 18 Sept 2026.
 
 Kepler is a house and tech house artist tracked on soundcheck, with 156 sets logged across Amsterdam, Auckland, Barcelona and Berlin and 32 more. Often billed alongside Burnski, L.P. Rhythm and Reeshy. Next up: UNO MALTA, Malta on Fri 18 Sept.
 
@@ -36,4 +36,4 @@ Kepler is a house and tech house artist tracked on soundcheck, with 156 sets log
 
 Burnski, L.P. Rhythm, Reeshy
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/Kepler/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/Kepler/)*

@@ -1,6 +1,6 @@
 # CAZOU
 
-CAZOU is a Minimal and House artist with 1 upcoming club date listed on soundcheck as of Fri, 11 Sept 2026, next at Almar Beach Club, Barcelona on Sun, 20 Sept 2026.
+CAZOU is a Minimal and House artist with 1 upcoming club date listed on soundcheck as of Sat, 12 Sept 2026, next at Almar Beach Club, Barcelona on Sun, 20 Sept 2026.
 
 CAZOU is a minimal and house artist tracked on soundcheck, with 22 sets logged across Barcelona. Often billed alongside Galu Bla, Vennegur and Mat Spiaggi. Next up: Almar Beach Club, Barcelona on Sun 20 Sept.
 
@@ -25,4 +25,4 @@ CAZOU is a minimal and house artist tracked on soundcheck, with 22 sets logged a
 
 Galu Bla, Vennegur, Mat Spiaggi
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/cazou/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/cazou/)*

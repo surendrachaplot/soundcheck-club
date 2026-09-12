@@ -1,6 +1,6 @@
 # GENESI
 
-GENESI is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at Level 1 @ Cannonball Arts, Seattle on Sat, 26 Sept 2026.
+GENESI is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Level 1 @ Cannonball Arts, Seattle on Sat, 26 Sept 2026.
 
 GENESI is a house and techno artist tracked on soundcheck, with 53 sets logged across Amsterdam, Austin, Bali and Barcelona and 18 more. Often billed alongside Meduza, James Hype (UK) and David Guetta. Next up: Level 1 @ Cannonball Arts, Seattle on Sat 26 Sept.
 
@@ -26,4 +26,4 @@ GENESI is a house and techno artist tracked on soundcheck, with 53 sets logged a
 
 Meduza, James Hype (UK), David Guetta
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/genesi/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/genesi/)*

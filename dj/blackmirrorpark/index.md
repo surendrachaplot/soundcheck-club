@@ -1,6 +1,6 @@
 # Black Mirror Park
 
-Black Mirror Park is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at Renate, Berlin on Fri, 11 Sept 2026.
+Black Mirror Park is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Renate, Berlin on Fri, 11 Sept 2026.
 
 Black Mirror Park is a techno and house artist based in Germany, tracked on soundcheck, with 73 sets logged across Amsterdam, Bangkok, Berlin and Hamburg and 6 more. Often billed alongside bb:fm, MASCHA and O/Y. Next up: Renate, Berlin on Fri 11 Sept.
 
@@ -13,6 +13,7 @@ Black Mirror Park is a techno and house artist based in Germany, tracked on soun
 
 ## Recently played
 
+- Renate, Berlin — Fri, 11 Sept 2026
 - Paloma, Berlin — Sat, 29 Aug 2026
 - TBA - Klingemühle, Berlin — Fri, 14 Aug 2026
 - Tempelhof Airport, Berlin — Sat, 1 Aug 2026
@@ -20,10 +21,9 @@ Black Mirror Park is a techno and house artist based in Germany, tracked on soun
 - Jonny Knüppel, Berlin — Fri, 15 May 2026
 - Kater, Berlin — Fri, 1 May 2026
 - Paloma, Berlin — Sat, 18 Apr 2026
-- Renate, Berlin — Fri, 3 Apr 2026
 
 ## Shares bills with
 
 bb:fm, MASCHA, O/Y
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/blackmirrorpark/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/blackmirrorpark/)*

@@ -1,6 +1,6 @@
 # CHTDEVIL
 
-CHTDEVIL is a Techno and Acid artist with 1 upcoming club date listed on soundcheck as of Fri, 11 Sept 2026, next at Peyote Cennet Bahçesi, Istanbul on Sun, 13 Sept 2026.
+CHTDEVIL is a Techno and Acid artist with 1 upcoming club date listed on soundcheck as of Sat, 12 Sept 2026, next at Peyote Cennet Bahçesi, Istanbul on Sun, 13 Sept 2026.
 
 CHTDEVIL is a techno and acid artist tracked on soundcheck, with 22 sets logged across Istanbul. Often billed alongside SEV!L!R, ONI BLVCK and B-DRIVE. Next up: Peyote Cennet Bahçesi, Istanbul on Sun 13 Sept.
 
@@ -25,4 +25,4 @@ CHTDEVIL is a techno and acid artist tracked on soundcheck, with 22 sets logged 
 
 SEV!L!R, ONI BLVCK, B-DRIVE
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/chtdevil/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/chtdevil/)*

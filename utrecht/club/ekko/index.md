@@ -1,6 +1,6 @@
 # EKKO
 
-EKKO is a music venue in Utrecht with 9 upcoming nights listed on soundcheck as of Fri, 11 Sept 2026; the next is "Diep In De Groef" on Fri, 11 Sept 2026.
+EKKO is a music venue in Utrecht with 9 upcoming nights listed on soundcheck as of Sat, 12 Sept 2026; the next is "Diep In De Groef" on Fri, 11 Sept 2026.
 
 EKKO is a music venue in Utrecht listed on soundcheck. 9 upcoming nights, with line-ups including Bella Hall, Deborah X, KINETIKS and Lucky Done Gone and 1 more. Browse upcoming dates, start times and who's playing. Bemuurde Weerd WZ 3, 3513 BH, Utrecht, Netherlands.
 
@@ -22,4 +22,4 @@ EKKO is a music venue in Utrecht listed on soundcheck. 9 upcoming nights, with l
 
 Bemuurde Weerd WZ 3, 3513 BH, Utrecht, Netherlands, Utrecht
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/utrecht/club/ekko/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/utrecht/club/ekko/)*

@@ -1,6 +1,6 @@
 # Andress
 
-Andress is a Minimal Techno and Downtempo artist with 1 upcoming club date listed on soundcheck as of Fri, 11 Sept 2026, next at TBA - Neukolln, Berlin on Sat, 12 Sept 2026.
+Andress is a Minimal Techno and Downtempo artist with 1 upcoming club date listed on soundcheck as of Sat, 12 Sept 2026, next at TBA - Neukolln, Berlin on Sat, 12 Sept 2026.
 
 Andress is a minimal techno and downtempo artist tracked on soundcheck, with 16 sets logged across Barcelona, Berlin, Milan and Newyorkcity and 2 more. Often billed alongside Inner Lakes, Marcolino and Mariiin. Next up: TBA - Neukolln, Berlin on Sat 12 Sept.
 
@@ -25,4 +25,4 @@ Andress is a minimal techno and downtempo artist tracked on soundcheck, with 16 
 
 Inner Lakes, Marcolino, Mariiin
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/andress/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/andress/)*

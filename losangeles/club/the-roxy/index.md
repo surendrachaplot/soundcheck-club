@@ -1,6 +1,6 @@
 # The Roxy
 
-The Roxy is a music venue in Los Angeles with 4 upcoming nights listed on soundcheck as of Fri, 11 Sept 2026; the next is "Conrad Taylor" on Sat, 12 Sept 2026.
+The Roxy is a music venue in Los Angeles with 4 upcoming nights listed on soundcheck as of Sat, 12 Sept 2026; the next is "Conrad Taylor" on Sat, 12 Sept 2026.
 
 The Roxy is a music venue in Losangeles listed on soundcheck. 4 upcoming nights, with line-ups including Ashley Anngora and Chico. Browse upcoming dates, start times and who's playing. 9009 W Sunset Blvd; West Hollywood, CA 90069.
 
@@ -17,4 +17,4 @@ The Roxy is a music venue in Losangeles listed on soundcheck. 4 upcoming nights,
 
 9009 W Sunset Blvd; West Hollywood, CA 90069, Los Angeles
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/the-roxy/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/the-roxy/)*

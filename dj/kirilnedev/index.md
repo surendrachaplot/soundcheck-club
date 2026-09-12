@@ -1,6 +1,6 @@
 # Kiril Nedev
 
-Kiril Nedev is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Fri, 11 Sept 2026, next at Œlgarten, Berlin on Sat, 12 Sept 2026.
+Kiril Nedev is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Sat, 12 Sept 2026, next at Œlgarten, Berlin on Sat, 12 Sept 2026.
 
 Kiril Nedev is a tech house and house artist tracked on soundcheck, with 9 sets logged across Berlin, Ibiza, Lisbon and Miami. Often billed alongside Dom James U.K, ACA (YU) and Adam Romo. Next up: Œlgarten, Berlin on Sat 12 Sept.
 
@@ -25,4 +25,4 @@ Kiril Nedev is a tech house and house artist tracked on soundcheck, with 9 sets 
 
 Dom James U.K, ACA (YU), Adam Romo
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kirilnedev/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kirilnedev/)*

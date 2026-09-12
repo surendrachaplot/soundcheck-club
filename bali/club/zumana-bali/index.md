@@ -1,14 +1,13 @@
 # Zumana Bali
 
-Zumana Bali is a music venue in Bali with 18 upcoming nights listed on soundcheck as of Fri, 11 Sept 2026; the next is "Topic" on Fri, 11 Sept 2026.
+Zumana Bali is a music venue in Bali with 17 upcoming nights listed on soundcheck as of Sat, 12 Sept 2026; the next is "Marten Lou" on Wed, 16 Sept 2026.
 
-Zumana Bali is a music venue in Bali listed on soundcheck. 18 upcoming nights, with line-ups including Artbat, Alan Dixon, Alex Wann and Colyn and 2 more. Browse upcoming dates, start times and who's playing.
+Zumana Bali is a music venue in Bali listed on soundcheck. 17 upcoming nights, with line-ups including Artbat, Alan Dixon, Alex Wann and Colyn and 2 more. Browse upcoming dates, start times and who's playing.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 11 Sept 2026 | Topic |  |
 | Wed, 16 Sept 2026 | Marten Lou | Marten Lou |
 | Fri, 18 Sept 2026 | TECHNO AND CHILL |  |
 | Sat, 19 Sept 2026 | CASA x Tori Levett | Tori Levett |
@@ -18,5 +17,6 @@ Zumana Bali is a music venue in Bali listed on soundcheck. 18 upcoming nights, w
 | Fri, 2 Oct 2026 | Alex Wann | Alex Wann |
 | Wed, 7 Oct 2026 | Stephan Jolk | Stephan Jolk |
 | Fri, 9 Oct 2026 | Colyn | Colyn |
+| Wed, 14 Oct 2026 | Alan Dixon | Alan Dixon |
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/bali/club/zumana-bali/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/bali/club/zumana-bali/)*

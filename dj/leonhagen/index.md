@@ -1,6 +1,6 @@
 # Leon Hagen
 
-Leon Hagen is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 11 Sept 2026, next at fi, Cologne on Fri, 16 Oct 2026.
+Leon Hagen is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 12 Sept 2026, next at fi, Cologne on Fri, 16 Oct 2026.
 
 Leon Hagen is a techno and house artist tracked on soundcheck, with 30 sets logged across Barcelona, Berlin, Cologne and Dusseldorf and 1 more. Often billed alongside Pascal Wagner, Thalo Santana and Julian Bomm. Next up: fi, Cologne on Fri 16 Oct.
 
@@ -25,4 +25,4 @@ Leon Hagen is a techno and house artist tracked on soundcheck, with 30 sets logg
 
 Pascal Wagner, Thalo Santana, Julian Bomm
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/leonhagen/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/leonhagen/)*

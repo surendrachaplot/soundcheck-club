@@ -1,6 +1,6 @@
 # JCow
 
-JCow is a Bass and Breakbeat artist with 1 upcoming club date listed on soundcheck as of Fri, 11 Sept 2026, next at Blue Velvet, Berlin on Fri, 25 Sept 2026.
+JCow is a Bass and Breakbeat artist with 1 upcoming club date listed on soundcheck as of Sat, 12 Sept 2026, next at Blue Velvet, Berlin on Fri, 25 Sept 2026.
 
 JCow is a bass and breakbeat artist tracked on soundcheck, with 18 sets logged across Berlin and Hamburg. Often billed alongside DJ STRAIGHT GIRL, Babe Gorgeous and Exael. Next up: Blue Velvet, Berlin on Fri 25 Sept.
 
@@ -25,4 +25,4 @@ JCow is a bass and breakbeat artist tracked on soundcheck, with 18 sets logged a
 
 DJ STRAIGHT GIRL, Babe Gorgeous, Exael
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jcow/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jcow/)*

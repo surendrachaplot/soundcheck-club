@@ -1,14 +1,15 @@
 # Paulette Sauvage
 
-Paulette Sauvage is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 11 Sept 2026, next at Stereolux, Nantes on Sat, 10 Oct 2026.
+Paulette Sauvage is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Stereolux, Nantes on Sat, 10 Oct 2026.
 
-Paulette Sauvage is a techno and house artist tracked on soundcheck, with 44 sets logged across Lyon, Nantes and Paris. Often billed alongside Or'l, Nicol and Tina Tornade. Next up: Stereolux, Nantes on Sat 10 Oct.
+Paulette Sauvage is a techno and house artist tracked on soundcheck, with 45 sets logged across Lyon, Nantes and Paris. Often billed alongside Or'l, Nicol and Tina Tornade. Next up: Stereolux, Nantes on Sat 10 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 10 Oct 2026 | Stereolux | Nantes |
+| Fri, 23 Oct 2026 | Le Lieu Unique / Nantes | Nantes |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Paulette Sauvage is a techno and house artist tracked on soundcheck, with 44 set
 
 Or'l, Nicol, Tina Tornade
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/paulettesauvage/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/paulettesauvage/)*

@@ -1,8 +1,8 @@
 # Hï Ibiza
 
-Hï Ibiza is a music venue in Ibiza with 26 upcoming nights listed on soundcheck as of Fri, 11 Sept 2026; the next is "CamelPhat presents Summer of Love" on Fri, 11 Sept 2026.
+Hï Ibiza is a music venue in Ibiza with 27 upcoming nights listed on soundcheck as of Sat, 12 Sept 2026; the next is "CamelPhat presents Summer of Love" on Fri, 11 Sept 2026.
 
-Hï Ibiza is a music venue in Ibiza listed on soundcheck. 26 upcoming nights, with line-ups including Adam Beyer, Adam Ten, A For Alpha and AJNA and 2 more. Browse upcoming dates, start times and who's playing. Platja d''en Bossa s/n, 07817 Sant Josep de sa Talaia, Balearic Islands, Spain.
+Hï Ibiza is a music venue in Ibiza listed on soundcheck. 27 upcoming nights, with line-ups including Adam Beyer, Adam Ten, A For Alpha and AJNA and 2 more. Browse upcoming dates, start times and who's playing. Platja d''en Bossa s/n, 07817 Sant Josep de sa Talaia, Balearic Islands, Spain.
 
 ## What's on
 
@@ -23,4 +23,4 @@ Hï Ibiza is a music venue in Ibiza listed on soundcheck. 26 upcoming nights, wi
 
 Platja d''en Bossa s/n, 07817 Sant Josep de sa Talaia, Balearic Islands, Spain, Ibiza
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/ibiza/club/h-ibiza/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/ibiza/club/h-ibiza/)*

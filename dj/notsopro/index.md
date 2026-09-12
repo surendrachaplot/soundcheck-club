@@ -1,6 +1,6 @@
 # not so pro
 
-not so pro is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Fri, 11 Sept 2026, next at TBA - secret location, Krakow on Sat, 12 Sept 2026.
+not so pro is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Sat, 12 Sept 2026, next at TBA - secret location, Krakow on Sat, 12 Sept 2026.
 
 not so pro is a techno and industrial artist tracked on soundcheck, with 29 sets logged across Krakow. Often billed alongside Hikikomori, A.C. and Kowa. Next up: TBA - secret location, Krakow on Sat 12 Sept.
 
@@ -25,4 +25,4 @@ not so pro is a techno and industrial artist tracked on soundcheck, with 29 sets
 
 Hikikomori, A.C., Kowa
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/notsopro/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/notsopro/)*

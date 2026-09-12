@@ -1,8 +1,8 @@
 # Konfusia
 
-Konfusia is a Techno and Electro artist with 7 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at Artheater, Cologne on Fri, 18 Sept 2026.
+Konfusia is a Techno and House artist with 8 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Artheater, Cologne on Fri, 18 Sept 2026.
 
-Konfusia is a techno and electro artist tracked on soundcheck, with 108 sets logged across Amsterdam, Berlin, Cologne and Copenhagen and 15 more. Often billed alongside Maurice Mino, Sabura and Sin:port. Next up: Artheater, Cologne on Fri 18 Sept.
+Konfusia is a techno and house artist tracked on soundcheck, with 109 sets logged across Amsterdam, Berlin, Cologne and Copenhagen and 15 more. Often billed alongside Maurice Mino, Sabura and Sin:port. Next up: Artheater, Cologne on Fri 18 Sept.
 
 ## Upcoming shows
 
@@ -12,6 +12,7 @@ Konfusia is a techno and electro artist tracked on soundcheck, with 108 sets log
 | Fri, 25 Sept 2026 | Die Rakete | Nürnberg |
 | Sat, 3 Oct 2026 | elipamanoke | Leipzig |
 | Sat, 10 Oct 2026 | Ritter Butzke | Berlin |
+| Fri, 16 Oct 2026 | Renate | Berlin |
 | Fri, 16 Oct 2026 | Hangaren | Copenhagen |
 | Fri, 6 Nov 2026 | Fridas Pier | Stuttgart |
 | Sat, 21 Nov 2026 | Basing House | London |
@@ -31,4 +32,4 @@ Konfusia is a techno and electro artist tracked on soundcheck, with 108 sets log
 
 Maurice Mino, Sabura, Sin:port
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/konfusia/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/konfusia/)*

@@ -1,6 +1,6 @@
 # Steph (A Deeper Groove)
 
-Steph (A Deeper Groove) is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at Bolivar Beach Bar, Athens on Fri, 11 Sept 2026.
+Steph (A Deeper Groove) is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Bolivar Beach Bar, Athens on Fri, 11 Sept 2026.
 
 Steph (A Deeper Groove) is a house and techno artist based in United Kingdom, tracked on soundcheck, with 10 sets logged across Athens, Austin, Glasgow and Sanfrancisco. Often billed alongside JOC (A Deeper Groove), ReZo and SCTR (2). Next up: Bolivar Beach Bar, Athens on Fri 11 Sept.
 
@@ -14,6 +14,7 @@ Steph (A Deeper Groove) is a house and techno artist based in United Kingdom, tr
 
 ## Recently played
 
+- Bolivar Beach Bar, Athens — Fri, 11 Sept 2026
 - Bolivar Beach Bar, Athens — Thu, 31 Jul 2025
 - Bolivar Beach Bar, Athens — Sun, 20 Apr 2025
 - Bolivar Beach Bar, Athens — Fri, 4 Apr 2025
@@ -26,4 +27,4 @@ Steph (A Deeper Groove) is a house and techno artist based in United Kingdom, tr
 
 JOC (A Deeper Groove), ReZo, SCTR (2)
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/stephadeepergroove/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/stephadeepergroove/)*

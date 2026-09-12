@@ -1,14 +1,15 @@
 # Grace Sands
 
-Grace Sands is a House and Deep House artist with 9 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at Hoxton Cabin, London on Fri, 11 Sept 2026.
+Grace Sands is a House and Deep House artist with 10 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Hoxton Cabin, London on Fri, 11 Sept 2026.
 
-Grace Sands is a house and deep house artist tracked on soundcheck, with 144 sets logged across Amsterdam, Barcelona, Berlin and Brighton and 22 more. Often billed alongside Roi Perez, Hannah Holland and Josh Caffé. Next up: Hoxton Cabin, London on Fri 11 Sept.
+Grace Sands is a house and deep house artist tracked on soundcheck, with 145 sets logged across Amsterdam, Barcelona, Berlin and Brighton and 22 more. Often billed alongside Roi Perez, Hannah Holland and Josh Caffé. Next up: Hoxton Cabin, London on Fri 11 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 11 Sept 2026 | Hoxton Cabin | London |
+| Thu, 17 Sept 2026 | The Croft | Bristol |
 | Sat, 26 Sept 2026 | M.O.T | London |
 | Sat, 26 Sept 2026 | Crate Brewery | London |
 | Fri, 2 Oct 2026 | Yellow Arch Studios | Sheffield |
@@ -20,6 +21,7 @@ Grace Sands is a house and deep house artist tracked on soundcheck, with 144 set
 
 ## Recently played
 
+- Hoxton Cabin, London — Fri, 11 Sept 2026
 - Phonica Records, London — Wed, 9 Sept 2026
 - Aaja Basement, London — Fri, 4 Sept 2026
 - Nocturna, Ibiza — Wed, 2 Sept 2026
@@ -27,10 +29,9 @@ Grace Sands is a house and deep house artist tracked on soundcheck, with 144 set
 - public records, New York City — Sun, 9 Aug 2026
 - CLUB RAUM, Amsterdam — Sat, 1 Aug 2026
 - The Glove That Fits, London — Sat, 4 Jul 2026
-- Ballroom at Palais, London — Sat, 4 Jul 2026
 
 ## Shares bills with
 
 Roi Perez, Hannah Holland, Josh Caffé
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/gracesands/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/gracesands/)*

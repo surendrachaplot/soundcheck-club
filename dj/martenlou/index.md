@@ -1,8 +1,8 @@
 # Marten Lou
 
-Marten Lou is a Afro House and House artist with 6 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at Savaya Bali, Bali on Sat, 12 Sept 2026.
+Marten Lou is a Afro House and House artist with 7 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Savaya Bali, Bali on Sat, 12 Sept 2026.
 
-Marten Lou is an afro house and house artist tracked on soundcheck, with 98 sets logged across Amsterdam, Antwerp, Bali and Barcelona and 32 more. Often billed alongside ARODES, Andrea Oliva and Shimza. Next up: Savaya Bali, Bali on Sat 12 Sept.
+Marten Lou is an afro house and house artist tracked on soundcheck, with 99 sets logged across Amsterdam, Antwerp, Bali and Barcelona and 32 more. Often billed alongside ARODES, Andrea Oliva and Shimza. Next up: Savaya Bali, Bali on Sat 12 Sept.
 
 ## Upcoming shows
 
@@ -12,6 +12,7 @@ Marten Lou is an afro house and house artist tracked on soundcheck, with 98 sets
 | Wed, 16 Sept 2026 | Zumana Bali | Bali |
 | Sun, 27 Sept 2026 | Hï Ibiza | Ibiza |
 | Mon, 28 Sept 2026 | Pacha Ibiza | Ibiza |
+| Fri, 30 Oct 2026 | KOKO | London |
 | Fri, 13 Nov 2026 | Ritter Butzke | Berlin |
 | Sat, 28 Nov 2026 | Waagnatie Expo & Events | Antwerp |
 
@@ -30,4 +31,4 @@ Marten Lou is an afro house and house artist tracked on soundcheck, with 98 sets
 
 ARODES, Andrea Oliva, Shimza
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/martenlou/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/martenlou/)*

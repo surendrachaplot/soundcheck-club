@@ -1,8 +1,8 @@
 # Laure Croft
 
-Laure Croft is a Techno and House artist with 12 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at Else, Berlin on Fri, 18 Sept 2026.
+Laure Croft is a Techno and House artist with 13 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Else, Berlin on Fri, 18 Sept 2026.
 
-Laure Croft is a techno and house artist tracked on soundcheck, with 187 sets logged across Amsterdam, Athens, Barcelona and Basel and 49 more. Often billed alongside Lacchesi, Spikey Lee and Carmen Electro. Next up: Else, Berlin on Fri 18 Sept.
+Laure Croft is a techno and house artist tracked on soundcheck, with 188 sets logged across Amsterdam, Athens, Barcelona and Basel and 49 more. Often billed alongside Lacchesi, Spikey Lee and Carmen Electro. Next up: Else, Berlin on Fri 18 Sept.
 
 ## Upcoming shows
 
@@ -19,7 +19,7 @@ Laure Croft is a techno and house artist tracked on soundcheck, with 187 sets lo
 | Wed, 21 Oct 2026 | Lofi | Amsterdam |
 | Fri, 23 Oct 2026 | RADION | Amsterdam |
 | Fri, 23 Oct 2026 | DRUMSHEDS | London |
-| Sat, 28 Nov 2026 | Thuishaven | Amsterdam |
+| Fri, 30 Oct 2026 | BASEMENT | New York City |
 
 ## Recently played
 
@@ -36,4 +36,4 @@ Laure Croft is a techno and house artist tracked on soundcheck, with 187 sets lo
 
 Lacchesi, Spikey Lee, Carmen Electro
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/laurecroft/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/laurecroft/)*

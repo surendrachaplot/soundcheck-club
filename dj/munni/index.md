@@ -1,6 +1,6 @@
 # MUNNI
 
-MUNNI is a Club and House artist with 3 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at XOYO, London on Sat, 12 Sept 2026.
+MUNNI is a Club and House artist with 3 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at XOYO, London on Sat, 12 Sept 2026.
 
 MUNNI is a club and house artist tracked on soundcheck, with 27 sets logged across Bristol and London. Often billed alongside Jelsen, Madjestic Kasual and Organ Tapes. Next up: XOYO, London on Sat 12 Sept.
 
@@ -27,4 +27,4 @@ MUNNI is a club and house artist tracked on soundcheck, with 27 sets logged acro
 
 Jelsen, Madjestic Kasual, Organ Tapes
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/munni/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/munni/)*

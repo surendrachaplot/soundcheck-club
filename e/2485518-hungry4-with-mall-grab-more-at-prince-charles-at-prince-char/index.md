@@ -1,6 +1,6 @@
 # Hungry4 with Mall Grab & more at Prince Charles at Prince Charles
 
-Hungry4 with Mall Grab & more at Prince Charles on Fri 11 Sept, Berlin. 7 acts on the bill: ATTA (GER), David Jackson, DJ Eivissa and dj sweet6teen and 3 more. Techno and House. Preview the line-up and save it on soundcheck.
+Hungry4 with Mall Grab & more at Prince Charles on Fri 11 Sept, Berlin. 8 acts on the bill: ATTA (GER), David Jackson, DJ Eivissa and dj sweet6teen and 4 more. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -16,6 +16,7 @@ Hungry4 with Mall Grab & more at Prince Charles on Fri 11 Sept, Berlin. 7 acts o
 - dj sweet6teen
 - evin
 - Jean Mauj
+- Luk Vicent
 - Mall Grab
 
 *Source: [soundcheck](https://soundcheck.club/e/2485518-hungry4-with-mall-grab-more-at-prince-charles-at-prince-char/)*

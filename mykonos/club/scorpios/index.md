@@ -1,6 +1,6 @@
 # Scorpios
 
-Scorpios is a music venue in Mykonos with 4 upcoming nights listed on soundcheck as of Fri, 11 Sept 2026; the next is "Dixon, Satori (Live), PAAX" on Thu, 17 Sept 2026.
+Scorpios is a music venue in Mykonos with 4 upcoming nights listed on soundcheck as of Sat, 12 Sept 2026; the next is "Dixon, Satori (Live), PAAX" on Thu, 17 Sept 2026.
 
 Scorpios is a music venue in Mykonos listed on soundcheck. 4 upcoming nights, with line-ups including Damian Lazarus, Dixon, Jean Claude Ades and Natascha Polké and 2 more. Browse upcoming dates, start times and who's playing. Paraga, Mikonos 846 00, Greece.
 
@@ -17,4 +17,4 @@ Scorpios is a music venue in Mykonos listed on soundcheck. 4 upcoming nights, wi
 
 Paraga, Mikonos 846 00, Greece, Mykonos
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/mykonos/club/scorpios/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/mykonos/club/scorpios/)*

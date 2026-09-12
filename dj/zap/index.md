@@ -1,6 +1,6 @@
 # Z@p
 
-Z@p is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at Le 211, Paris on Sat, 19 Sept 2026.
+Z@p is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Le 211, Paris on Sat, 19 Sept 2026.
 
 Z@p is a techno and house artist based in Uruguay, tracked on soundcheck, with 120 sets logged across Amsterdam, Athens, Bangkok and Barcelona and 31 more. Often billed alongside Unai Trotti, Junki Inoue and Vass. Next up: Le 211, Paris on Sat 19 Sept.
 
@@ -30,4 +30,4 @@ Z@p is a techno and house artist based in Uruguay, tracked on soundcheck, with 1
 
 Unai Trotti, Junki Inoue, Vass
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/zap/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/zap/)*

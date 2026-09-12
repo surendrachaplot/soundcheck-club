@@ -1,6 +1,6 @@
 # echocatcher
 
-echocatcher is a Club and Bass artist with 1 upcoming club date listed on soundcheck as of Fri, 11 Sept 2026, next at Club Daphnia, Osaka on Sat, 17 Oct 2026.
+echocatcher is a Club and Bass artist with 1 upcoming club date listed on soundcheck as of Sat, 12 Sept 2026, next at Club Daphnia, Osaka on Sat, 17 Oct 2026.
 
 echocatcher is a club and bass artist tracked on soundcheck, with 10 sets logged across Kyoto, London, Osaka and Shanghai and 2 more. Often billed alongside DJ EBP, FEIYI and Illsee. Next up: Club Daphnia, Osaka on Sat 17 Oct.
 
@@ -25,4 +25,4 @@ echocatcher is a club and bass artist tracked on soundcheck, with 10 sets logged
 
 DJ EBP, FEIYI, Illsee
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/echocatcher/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/echocatcher/)*

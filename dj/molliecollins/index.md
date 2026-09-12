@@ -1,6 +1,6 @@
 # Mollie Collins
 
-Mollie Collins is a Drum & Bass and Jungle artist with 1 upcoming club date listed on soundcheck as of Fri, 11 Sept 2026, next at E1, London on Sat, 14 Nov 2026.
+Mollie Collins is a Drum & Bass and Jungle artist with 1 upcoming club date listed on soundcheck as of Sat, 12 Sept 2026, next at E1, London on Sat, 14 Nov 2026.
 
 Mollie Collins is a drum & bass and jungle artist tracked on soundcheck, with 17 sets logged across Auckland, Brighton, Bristol and Geneva and 5 more. Often billed alongside Hedex, Alcemist and Aries. Next up: E1, London on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ Mollie Collins is a drum & bass and jungle artist tracked on soundcheck, with 17
 
 Hedex, Alcemist, Aries
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/molliecollins/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/molliecollins/)*

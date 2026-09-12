@@ -1,6 +1,6 @@
 # Abdon
 
-Abdon is a Tech House and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at Brisa Open Air, Barcelona on Sun, 20 Sept 2026.
+Abdon is a Tech House and House artist with 2 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Brisa Open Air, Barcelona on Sun, 20 Sept 2026.
 
 Abdon is a tech house and house artist tracked on soundcheck, with 65 sets logged across Barcelona, Ibiza, Madrid and Mallorca and 1 more. Often billed alongside Pau Guilera, De La Swing and Vidaloca. Next up: Brisa Open Air, Barcelona on Sun 20 Sept.
 
@@ -26,4 +26,4 @@ Abdon is a tech house and house artist tracked on soundcheck, with 65 sets logge
 
 Pau Guilera, De La Swing, Vidaloca
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/abdon/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/abdon/)*

@@ -1,6 +1,6 @@
 # Maze DK
 
-Maze DK is a Techno and Progressive House artist with 1 upcoming club date listed on soundcheck as of Fri, 11 Sept 2026, next at Bünker Mataró, Barcelona on Fri, 2 Oct 2026.
+Maze DK is a Techno and Progressive House artist with 1 upcoming club date listed on soundcheck as of Sat, 12 Sept 2026, next at Bünker Mataró, Barcelona on Fri, 2 Oct 2026.
 
 Maze DK is a techno and progressive house artist tracked on soundcheck, with 31 sets logged across Barcelona, Berlin and Leipzig. Often billed alongside Amperia, KH38 and 2FARO. Next up: Bünker Mataró, Barcelona on Fri 2 Oct.
 
@@ -25,4 +25,4 @@ Maze DK is a techno and progressive house artist tracked on soundcheck, with 31 
 
 Amperia, KH38, 2FARO
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mazedk/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mazedk/)*

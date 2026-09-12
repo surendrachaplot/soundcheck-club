@@ -1,6 +1,6 @@
 # &friends
 
-&friends is a House and Afro House artist with 2 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at Jungle Island, Miami on Sat, 12 Sept 2026.
+&friends is a House and Afro House artist with 2 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Jungle Island, Miami on Sat, 12 Sept 2026.
 
 &friends is a house and afro house artist tracked on soundcheck, with 4 sets logged across Barcelona, London, Losangeles and Miami. Often billed alongside Apache, Channel Tres and Goom Gum. Next up: Jungle Island, Miami on Sat 12 Sept.
 
@@ -20,4 +20,4 @@
 
 Apache, Channel Tres, Goom Gum
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/andfriends/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/andfriends/)*

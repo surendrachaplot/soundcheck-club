@@ -1,13 +1,14 @@
 # Azimut Club
 
-Azimut Club is a music venue in Turin with 14 upcoming nights listed on soundcheck as of Fri, 11 Sept 2026; the next is "PARAMIDA hosted by EAR\WAX opening night" on Sat, 19 Sept 2026.
+Azimut Club is a music venue in Turin with 15 upcoming nights listed on soundcheck as of Sat, 12 Sept 2026; the next is "Trance Italy: TORINO with Pixie Dust, NINNIDSLVX, Syber" on Fri, 18 Sept 2026.
 
-Azimut Club is a music venue in Turin listed on soundcheck. 14 upcoming nights, with line-ups including Aberra, Allegretti, Audrey Danza and BASHKKA and 2 more. Browse upcoming dates, start times and who's playing. Via Modena, 55 10153 Torino TO, Italy.
+Azimut Club is a music venue in Turin listed on soundcheck. 15 upcoming nights, with line-ups including Aberra, Allegretti, Audrey Danza and BASHKKA and 2 more. Browse upcoming dates, start times and who's playing. Via Modena, 55 10153 Torino TO, Italy.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
+| Fri, 18 Sept 2026 | Trance Italy: TORINO with Pixie Dust, NINNIDSLVX, Syber | NINNIDSLVX, Pixie Dust, Syber |
 | Sat, 19 Sept 2026 | PARAMIDA hosted by EAR\WAX opening night | PARAMIDA |
 | Fri, 25 Sept 2026 | BASHKKA (Club RAUM, Blitz /DE), Rice Papers (Continua, WRD /IT) hosted by Continua | BASHKKA |
 | Sat, 26 Sept 2026 | Dustin Zahn ext set (Enemy Records /USA), Andrea Perna at Azimut Techno Series Opening | Dustin Zahn, Rytm |
@@ -17,10 +18,9 @@ Azimut Club is a music venue in Turin listed on soundcheck. 14 upcoming nights, 
 | Fri, 23 Oct 2026 | Audrey Danza (Proxima, Motel Campo /CH), Rice Papers (Continua, WRD /IT) hosted by Continua | Audrey Danza |
 | Sat, 24 Oct 2026 | Luigi Tozzi live (Hypnus Records /IT), Kessa (WRD /IT), Aberra (WRD /IT) | Aberra, Kessa, Luigi Tozzi |
 | Sat, 31 Oct 2026 | Dukwa hosted by EAR\WAX halloween night | Dukwa |
-| Sat, 14 Nov 2026 | Dj Sweet 6Teen hosted by EAR\WAX | dj sweet6teen |
 
 ## Address
 
 Via Modena, 55 10153 Torino TO, Italy, Turin
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/turin/club/azimut-club/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/turin/club/azimut-club/)*

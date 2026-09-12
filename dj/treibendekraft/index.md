@@ -1,6 +1,6 @@
 # Treibende Kraft
 
-Treibende Kraft is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at OST, Berlin on Sat, 19 Sept 2026.
+Treibende Kraft is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at OST, Berlin on Sat, 19 Sept 2026.
 
 Treibende Kraft is a techno and trance artist based in Germany, tracked on soundcheck, with 4 sets logged across Berlin. Often billed alongside IGDA, Niotech and AREA ØNE. Next up: OST, Berlin on Sat 19 Sept.
 
@@ -20,4 +20,4 @@ Treibende Kraft is a techno and trance artist based in Germany, tracked on sound
 
 IGDA, Niotech, AREA ØNE
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/treibendekraft/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/treibendekraft/)*

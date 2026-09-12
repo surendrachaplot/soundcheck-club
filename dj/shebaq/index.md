@@ -1,6 +1,6 @@
 # Sheba Q
 
-Sheba Q is a Jungle and Drum & Bass artist with 1 upcoming club date listed on soundcheck as of Fri, 11 Sept 2026, next at Vespers Club, London on Sat, 26 Sept 2026.
+Sheba Q is a Jungle and Drum & Bass artist with 1 upcoming club date listed on soundcheck as of Sat, 12 Sept 2026, next at Vespers Club, London on Sat, 26 Sept 2026.
 
 Sheba Q is a jungle and drum & bass artist tracked on soundcheck, with 30 sets logged across Berlin, Brighton, Bristol and Budapest and 6 more. Often billed alongside Jamiu, DJ Flight and Dillinja. Next up: Vespers Club, London on Sat 26 Sept.
 
@@ -25,4 +25,4 @@ Sheba Q is a jungle and drum & bass artist tracked on soundcheck, with 30 sets l
 
 Jamiu, DJ Flight, Dillinja
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/shebaq/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/shebaq/)*

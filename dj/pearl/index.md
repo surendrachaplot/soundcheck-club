@@ -1,13 +1,14 @@
 # pearl
 
-pearl is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 11 Sept 2026, next at TBA, London on Fri, 18 Sept 2026.
+pearl is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at The Lido, Vancouver on Wed, 16 Sept 2026.
 
-pearl is a house and techno artist tracked on soundcheck, with 9 sets logged across London, Toronto and Vancouver. Often billed alongside AKU (3), Milo (5) and Amor Ante. Next up: TBA, London on Fri 18 Sept.
+pearl is a house and techno artist tracked on soundcheck, with 10 sets logged across London, Toronto and Vancouver. Often billed alongside AKU (3), Milo (5) and Amor Ante. Next up: The Lido, Vancouver on Wed 16 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Wed, 16 Sept 2026 | The Lido | Vancouver |
 | Fri, 18 Sept 2026 | TBA | London |
 
 ## Recently played
@@ -25,4 +26,4 @@ pearl is a house and techno artist tracked on soundcheck, with 9 sets logged acr
 
 AKU (3), Milo (5), Amor Ante
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/pearl/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/pearl/)*

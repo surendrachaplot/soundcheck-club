@@ -1,6 +1,6 @@
 # Dany (2)
 
-Dany (2) is a Electro and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 11 Sept 2026, next at Quest, Seoul on Fri, 18 Sept 2026.
+Dany (2) is a Electro and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 12 Sept 2026, next at Quest, Seoul on Fri, 18 Sept 2026.
 
 Dany (2) is an electro and techno artist based in South Korea, tracked on soundcheck, with 6 sets logged across Edinburgh and Seoul. Often billed alongside ona:v, Dan Jakson and Lin (7). Next up: Quest, Seoul on Fri 18 Sept.
 
@@ -22,4 +22,4 @@ Dany (2) is an electro and techno artist based in South Korea, tracked on soundc
 
 ona:v, Dan Jakson, Lin (7)
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dany-2/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dany-2/)*

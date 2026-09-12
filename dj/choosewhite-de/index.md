@@ -1,6 +1,6 @@
 # CHOOSE WHITE
 
-CHOOSE WHITE is a House and Pop artist with 5 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at Pacha, Munich on Fri, 11 Sept 2026.
+CHOOSE WHITE is a House and Pop artist with 5 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Pacha, Munich on Fri, 11 Sept 2026.
 
 CHOOSE WHITE is a house and pop artist based in Germany, tracked on soundcheck, with 27 sets logged across Berlin and Munich. Often billed alongside Felipe de M., Dan Mlinar and VALOUR. Next up: Pacha, Munich on Fri 11 Sept.
 
@@ -16,6 +16,7 @@ CHOOSE WHITE is a house and pop artist based in Germany, tracked on soundcheck, 
 
 ## Recently played
 
+- Pacha, Munich — Fri, 11 Sept 2026
 - MH5 Rooftop, Munich — Sat, 11 Jul 2026
 - MH5 Rooftop, Munich — Sat, 6 Jun 2026
 - Fitzroy Rooftop & Bar, Munich — Thu, 14 May 2026
@@ -23,10 +24,9 @@ CHOOSE WHITE is a house and pop artist based in Germany, tracked on soundcheck, 
 - MH5 Rooftop, Munich — Wed, 31 Dec 2025
 - MH5 Rooftop, Munich — Fri, 31 Oct 2025
 - MH5 Rooftop, Munich — Sat, 23 Aug 2025
-- MH5 Rooftop, Munich — Sat, 26 Jul 2025
 
 ## Shares bills with
 
 Felipe de M., Dan Mlinar, VALOUR
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/choosewhite-de/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/choosewhite-de/)*

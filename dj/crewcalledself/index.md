@@ -1,6 +1,6 @@
 # Crew Called Self
 
-Crew Called Self is a Experimental and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 11 Sept 2026, next at The Sultan Room, New York City on Mon, 5 Oct 2026.
+Crew Called Self is a Experimental and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 12 Sept 2026, next at The Sultan Room, New York City on Mon, 5 Oct 2026.
 
 Crew Called Self is an experimental and techno artist tracked on soundcheck, with 11 sets logged across Newyorkcity, Osaka and Tokyo. Often billed alongside 5ToK3, Ben The Glorious Bastard and DBL_BBL. Next up: The Sultan Room, Newyorkcity on Mon 5 Oct.
 
@@ -25,4 +25,4 @@ Crew Called Self is an experimental and techno artist tracked on soundcheck, wit
 
 5ToK3, Ben The Glorious Bastard, DBL_BBL
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/crewcalledself/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/crewcalledself/)*

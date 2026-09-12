@@ -1,8 +1,8 @@
 # KUKO
 
-KUKO is a Techno and Trance artist with 19 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at 131 Mccormack St, Toronto on Fri, 11 Sept 2026.
+KUKO is a Techno and Trance artist with 20 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at 131 Mccormack St, Toronto on Fri, 11 Sept 2026.
 
-KUKO is a techno and trance artist tracked on soundcheck, with 212 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 51 more. Often billed alongside Cloudy, Adrian Mills and Johannes Schuster. Next up: 131 Mccormack St, Toronto on Fri 11 Sept.
+KUKO is a techno and trance artist tracked on soundcheck, with 213 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 51 more. Often billed alongside Cloudy, Adrian Mills and Johannes Schuster. Next up: 131 Mccormack St, Toronto on Fri 11 Sept.
 
 ## Upcoming shows
 
@@ -23,6 +23,7 @@ KUKO is a techno and trance artist tracked on soundcheck, with 212 sets logged a
 
 ## Recently played
 
+- 131 Mccormack St, Toronto — Fri, 11 Sept 2026
 - TBA - Wasteland Festival, Cologne — Sat, 5 Sept 2026
 - Echostage, Washington DC — Fri, 4 Sept 2026
 - Echostage, Washington DC — Fri, 4 Sept 2026
@@ -30,10 +31,9 @@ KUKO is a techno and trance artist tracked on soundcheck, with 212 sets logged a
 - Dürener Badesee, Cologne — Fri, 28 Aug 2026
 - Dürener Badesee, Cologne — Fri, 28 Aug 2026
 - Arzenal, Budapest — Wed, 19 Aug 2026
-- Gianpula Village, Malta — Wed, 12 Aug 2026
 
 ## Shares bills with
 
 Cloudy, Adrian Mills, Johannes Schuster
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kuko-de/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kuko-de/)*

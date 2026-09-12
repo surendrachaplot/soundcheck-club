@@ -1,6 +1,6 @@
 # Agustin Clark
 
-Agustin Clark is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Fri, 11 Sept 2026, next at TBA - Roca Bruja , Buenos Aires on Sat, 12 Sept 2026.
+Agustin Clark is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Sat, 12 Sept 2026, next at TBA - Roca Bruja , Buenos Aires on Sat, 12 Sept 2026.
 
 Agustin Clark is a house and minimal artist tracked on soundcheck, with 17 sets logged across Amsterdam, Barcelona, Buenosaires and Hamburg and 3 more. Often billed alongside Amalia Balbontin, Mateo Dufour and Alci. Next up: TBA - Roca Bruja , Buenosaires on Sat 12 Sept.
 
@@ -25,4 +25,4 @@ Agustin Clark is a house and minimal artist tracked on soundcheck, with 17 sets 
 
 Amalia Balbontin, Mateo Dufour, Alci
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/agustinclark/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/agustinclark/)*

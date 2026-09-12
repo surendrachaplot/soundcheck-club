@@ -1,6 +1,6 @@
 # AQUTIE
 
-AQUTIE is a House and Amapiano artist with 1 upcoming club date listed on soundcheck as of Fri, 11 Sept 2026, next at Shinsen, New York City on Thu, 24 Sept 2026.
+AQUTIE is a House and Amapiano artist with 1 upcoming club date listed on soundcheck as of Sat, 12 Sept 2026, next at Shinsen, New York City on Thu, 24 Sept 2026.
 
 AQUTIE is a house and amapiano artist tracked on soundcheck, with 30 sets logged across Amsterdam, London, Losangeles and Miami and 5 more. Often billed alongside WEMI, Dennis Free and Shermanology. Next up: Shinsen, Newyorkcity on Thu 24 Sept.
 
@@ -25,4 +25,4 @@ AQUTIE is a house and amapiano artist tracked on soundcheck, with 30 sets logged
 
 WEMI, Dennis Free, Shermanology
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/aqutie/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/aqutie/)*

@@ -1,6 +1,6 @@
 # NURAJ
 
-NURAJ is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Fri, 11 Sept 2026, next at Rote Sonne, Munich on Fri, 18 Sept 2026.
+NURAJ is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Sat, 12 Sept 2026, next at Rote Sonne, Munich on Fri, 18 Sept 2026.
 
 NURAJ is a techno and trance artist tracked on soundcheck, with 10 sets logged across Berlin and Munich. Often billed alongside DJ BenGalo, MRTI and AARON. Next up: Rote Sonne, Munich on Fri 18 Sept.
 
@@ -25,4 +25,4 @@ NURAJ is a techno and trance artist tracked on soundcheck, with 10 sets logged a
 
 DJ BenGalo, MRTI, AARON
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nuraj/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nuraj/)*

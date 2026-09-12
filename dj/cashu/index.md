@@ -1,6 +1,6 @@
 # Cashu
 
-Cashu is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at Elsewhere, New York City on Fri, 11 Sept 2026.
+Cashu is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Elsewhere, New York City on Fri, 11 Sept 2026.
 
 Cashu is a techno and house artist tracked on soundcheck, with 148 sets logged across Amsterdam, Bali, Bangkok and Barcelona and 36 more. Often billed alongside BADSISTA, RHR and Alírio. Next up: Elsewhere, Newyorkcity on Fri 11 Sept.
 
@@ -17,6 +17,7 @@ Cashu is a techno and house artist tracked on soundcheck, with 148 sets logged a
 
 ## Recently played
 
+- Elsewhere, New York City — Fri, 11 Sept 2026
 - Crono Club, Sao Paulo — Sat, 22 Aug 2026
 - Caracol Bar, Sao Paulo — Sat, 1 Aug 2026
 - OXI, Berlin — Fri, 24 Jul 2026
@@ -24,10 +25,9 @@ Cashu is a techno and house artist tracked on soundcheck, with 148 sets logged a
 - El Pumarejo Barcelona, Barcelona — Sat, 11 Jul 2026
 - RADION, Amsterdam — Sat, 4 Jul 2026
 - The Popstel, Istanbul — Fri, 3 Jul 2026
-- Le Sucre, Lyon — Fri, 26 Jun 2026
 
 ## Shares bills with
 
 BADSISTA, RHR, Alírio
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/cashu/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/cashu/)*

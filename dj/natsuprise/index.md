@@ -1,6 +1,6 @@
 # Nat SuPrise
 
-Nat SuPrise is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at Spindler & Klatt, Berlin on Sat, 12 Sept 2026.
+Nat SuPrise is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Spindler & Klatt, Berlin on Sat, 12 Sept 2026.
 
 Nat SuPrise is a techno and house artist based in Germany, tracked on soundcheck, with 85 sets logged across Berlin. Often billed alongside Sika Akis, Kaminka Merel and Mijk van Dijk. Next up: Spindler & Klatt, Berlin on Sat 12 Sept.
 
@@ -26,4 +26,4 @@ Nat SuPrise is a techno and house artist based in Germany, tracked on soundcheck
 
 Sika Akis, Kaminka Merel, Mijk van Dijk
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/natsuprise/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/natsuprise/)*

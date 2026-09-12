@@ -1,14 +1,15 @@
 # Alfonso Ares
 
-Alfonso Ares is a Deep House and House artist with 1 upcoming club date listed on soundcheck as of Fri, 11 Sept 2026, next at Akasha Las Dalias Club - Ibiza, Ibiza on Sun, 20 Sept 2026.
+Alfonso Ares is a Deep House and House artist with 2 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Akasha Las Dalias Club - Ibiza, Ibiza on Sun, 20 Sept 2026.
 
-Alfonso Ares is a deep house and house artist based in Spain, tracked on soundcheck, with 22 sets logged across Berlin, Ibiza, Madrid and Miami. Often billed alongside Igor Marijuan, Yamil and AARON SEVILLA. Next up: Akasha Las Dalias Club - Ibiza, Ibiza on Sun 20 Sept.
+Alfonso Ares is a deep house and house artist based in Spain, tracked on soundcheck, with 23 sets logged across Berlin, Ibiza, Madrid and Miami. Often billed alongside Igor Marijuan, Yamil and AARON SEVILLA. Next up: Akasha Las Dalias Club - Ibiza, Ibiza on Sun 20 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sun, 20 Sept 2026 | Akasha Las Dalias Club - Ibiza | Ibiza |
+| Sun, 11 Oct 2026 | Akasha Las Dalias Club - Ibiza | Ibiza |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Alfonso Ares is a deep house and house artist based in Spain, tracked on soundch
 
 Igor Marijuan, Yamil, AARON SEVILLA
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/alfonsoares/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/alfonsoares/)*

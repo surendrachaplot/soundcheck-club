@@ -1,6 +1,6 @@
 # IN BETWEEN: Roman Flügel & Josh Caffé at TBA - DTLA
 
-IN BETWEEN: Roman Flügel & Josh Caffé at TBA - DTLA on Fri 9 Oct, Losangeles. 2 acts on the bill: Josh Caffé and Roman Flügel. Preview the line-up and save it on soundcheck.
+IN BETWEEN: Roman Flügel & Josh Caffé at TBA - DTLA on Fri 9 Oct, Losangeles. 3 acts on the bill: Jane Margarette, Josh Caffé and Roman Flügel. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ IN BETWEEN: Roman Flügel & Josh Caffé at TBA - DTLA on Fri 9 Oct, Losangeles. 
 
 ## Line-up
 
+- Jane Margarette
 - Josh Caffé
 - Roman Flügel
 

@@ -1,8 +1,8 @@
 # MXV (UK)
 
-MXV (UK) is a Deep House and Progressive House artist with 2 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at The Timber Loft, London on Fri, 25 Sept 2026.
+MXV (UK) is a Deep House and Progressive House artist with 3 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at The Timber Loft, London on Fri, 25 Sept 2026.
 
-MXV (UK) is a deep house and progressive house artist based in United Kingdom, tracked on soundcheck, with 28 sets logged across Amsterdam, London, Nottingham and Prague. Often billed alongside Nour (UK), Tris (UK) and ALLKNIGHT. Next up: The Timber Loft, London on Fri 25 Sept.
+MXV (UK) is a deep house and progressive house artist based in United Kingdom, tracked on soundcheck, with 29 sets logged across Amsterdam, London, Nottingham and Prague. Often billed alongside Tris (UK), Nour (UK) and ALLKNIGHT. Next up: The Timber Loft, London on Fri 25 Sept.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ MXV (UK) is a deep house and progressive house artist based in United Kingdom, t
 | --- | --- | --- |
 | Fri, 25 Sept 2026 | The Timber Loft | London |
 | Sat, 10 Oct 2026 | E1 | London |
+| Sat, 21 Nov 2026 | XOYO | London |
 
 ## Recently played
 
@@ -24,6 +25,6 @@ MXV (UK) is a deep house and progressive house artist based in United Kingdom, t
 
 ## Shares bills with
 
-Nour (UK), Tris (UK), ALLKNIGHT
+Tris (UK), Nour (UK), ALLKNIGHT
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mxv-uk/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mxv-uk/)*

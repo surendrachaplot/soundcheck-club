@@ -1,6 +1,6 @@
 # DJ D.Dee
 
-DJ D.Dee is a Balearic and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at Celebrities Night Club, Vancouver on Fri, 25 Sept 2026.
+DJ D.Dee is a Balearic and House artist with 2 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Celebrities Night Club, Vancouver on Fri, 25 Sept 2026.
 
 DJ D.Dee is a balearic and house artist tracked on soundcheck, with 115 sets logged across Austin, Berlin, Bucharest and Melbourne and 11 more. Often billed alongside Dane, DJ Express and Patrick Holland. Next up: Celebrities Night Club, Vancouver on Fri 25 Sept.
 
@@ -26,4 +26,4 @@ DJ D.Dee is a balearic and house artist tracked on soundcheck, with 115 sets log
 
 Dane, DJ Express, Patrick Holland
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/derekdee/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/derekdee/)*

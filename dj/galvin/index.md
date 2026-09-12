@@ -1,6 +1,6 @@
 # Galvin
 
-Galvin is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at Dr. Banana Club, Sao Paulo on Sat, 12 Sept 2026.
+Galvin is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Dr. Banana Club, Sao Paulo on Sat, 12 Sept 2026.
 
 Galvin is a house and techno artist tracked on soundcheck, with 23 sets logged across Berlin, Munich and Saopaulo. Often billed alongside Tati Pimont, Rafael Onid and Gio (2). Next up: Dr. Banana Club, Saopaulo on Sat 12 Sept.
 
@@ -26,4 +26,4 @@ Galvin is a house and techno artist tracked on soundcheck, with 23 sets logged a
 
 Tati Pimont, Rafael Onid, Gio (2)
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/galvin/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/galvin/)*

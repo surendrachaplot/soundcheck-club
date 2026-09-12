@@ -1,6 +1,6 @@
 # AMON (1)
 
-AMON (1) is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Fri, 11 Sept 2026, next at Odonien, Cologne on Wed, 16 Sept 2026.
+AMON (1) is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Sat, 12 Sept 2026, next at Odonien, Cologne on Wed, 16 Sept 2026.
 
 AMON (1) is a techno and trance artist based in Colombia, tracked on soundcheck, with 14 sets logged across Bangkok, Berlin, Cologne and Ghent and 1 more. Often billed alongside Ampe, BENITO (DE) and BRTLGR. Next up: Odonien, Cologne on Wed 16 Sept.
 
@@ -25,4 +25,4 @@ AMON (1) is a techno and trance artist based in Colombia, tracked on soundcheck,
 
 Ampe, BENITO (DE), BRTLGR
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/amon-1/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/amon-1/)*

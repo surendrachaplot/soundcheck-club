@@ -1,8 +1,8 @@
 # Vino Disco
 
-Vino Disco is a music venue in Montreal with 2 upcoming nights listed on soundcheck as of Fri, 11 Sept 2026; the next is "Vino Disco FRIDAY" on Fri, 11 Sept 2026.
+Vino Disco is a music venue in Montreal with 5 upcoming nights listed on soundcheck as of Sat, 12 Sept 2026; the next is "Vino Disco FRIDAY" on Fri, 11 Sept 2026.
 
-Vino Disco is a music venue in Montreal listed on soundcheck. 2 upcoming nights, with line-ups including Ultreme. Browse upcoming dates, start times and who's playing. 1192 Boul. St-Laurent, Montreal QC, H2X 2S6, Canada.
+Vino Disco is a music venue in Montreal listed on soundcheck. 5 upcoming nights, with line-ups including FREEEMAN, Jean Pascal Groove, Shaydakiss and Ultreme. Browse upcoming dates, start times and who's playing. 1192 Boul. St-Laurent, Montreal QC, H2X 2S6, Canada.
 
 ## What's on
 
@@ -10,9 +10,12 @@ Vino Disco is a music venue in Montreal listed on soundcheck. 2 upcoming nights,
 | --- | --- | --- |
 | Fri, 11 Sept 2026 | Vino Disco FRIDAY |  |
 | Sat, 12 Sept 2026 | Vino Disco SATURDAY | Ultreme |
+| Thu, 17 Sept 2026 | Vino Disco THURSDAY | Shaydakiss |
+| Fri, 18 Sept 2026 | Vino Disco FRIDAY: Groovy Castle | Jean Pascal Groove |
+| Sat, 19 Sept 2026 | Vino Disco SATURDAY | FREEEMAN |
 
 ## Address
 
 1192 Boul. St-Laurent, Montreal QC, H2X 2S6, Canada, Montreal
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/montreal/club/vino-disco/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/montreal/club/vino-disco/)*

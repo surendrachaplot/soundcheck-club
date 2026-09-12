@@ -1,14 +1,15 @@
 # DAVINA
 
-DAVINA is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Fri, 11 Sept 2026, next at Stadtgarten Konzertsaal / Cafe, Cologne on Sat, 10 Oct 2026.
+DAVINA is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Stadtgarten Konzertsaal / Cafe, Cologne on Sat, 10 Oct 2026.
 
-DAVINA is a house and disco artist tracked on soundcheck, with 28 sets logged across Berlin, Cologne, Dusseldorf and Frankfurt. Often billed alongside Mike Momburg, Domenik Deckert and Tom Velden. Next up: Stadtgarten Konzertsaal / Cafe, Cologne on Sat 10 Oct.
+DAVINA is a house and techno artist tracked on soundcheck, with 29 sets logged across Berlin, Cologne, Dortmund-essen and Dusseldorf and 1 more. Often billed alongside Mike Momburg, Domenik Deckert and Tom Velden. Next up: Stadtgarten Konzertsaal / Cafe, Cologne on Sat 10 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 10 Oct 2026 | Stadtgarten Konzertsaal / Cafe | Cologne |
+| Sat, 21 Nov 2026 | Kunst-Werk am Kaiserhaus | Dortmund-essen |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ DAVINA is a house and disco artist tracked on soundcheck, with 28 sets logged ac
 
 Mike Momburg, Domenik Deckert, Tom Velden
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/davina/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/davina/)*

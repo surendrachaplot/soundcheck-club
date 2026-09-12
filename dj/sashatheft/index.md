@@ -1,6 +1,6 @@
 # Sasha Theft
 
-Sasha Theft is a Experimental and Psytrance artist with 1 upcoming club date listed on soundcheck as of Fri, 11 Sept 2026, next at Ministerium Club, Lisbon on Fri, 18 Sept 2026.
+Sasha Theft is a Experimental and Psytrance artist with 1 upcoming club date listed on soundcheck as of Sat, 12 Sept 2026, next at Ministerium Club, Lisbon on Fri, 18 Sept 2026.
 
 Sasha Theft is an experimental and psytrance artist tracked on soundcheck, with 23 sets logged across Berlin, Lisbon and Porto. Often billed alongside marum, BLEID and High Future. Next up: Ministerium Club, Lisbon on Fri 18 Sept.
 
@@ -25,4 +25,4 @@ Sasha Theft is an experimental and psytrance artist tracked on soundcheck, with 
 
 marum, BLEID, High Future
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sashatheft/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sashatheft/)*

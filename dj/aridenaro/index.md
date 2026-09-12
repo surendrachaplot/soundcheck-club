@@ -1,6 +1,6 @@
 # Ari Denaro
 
-Ari Denaro is a Techno and Psytrance artist with 3 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at Der Weiße Hase, Berlin on Thu, 24 Sept 2026.
+Ari Denaro is a Techno and Psytrance artist with 3 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Der Weiße Hase, Berlin on Thu, 24 Sept 2026.
 
 Ari Denaro is a techno and psytrance artist based in Germany, tracked on soundcheck, with 11 sets logged across Berlin. Often billed alongside Epicx, Bisk and Anubix. Next up: Der Weiße Hase, Berlin on Thu 24 Sept.
 
@@ -27,4 +27,4 @@ Ari Denaro is a techno and psytrance artist based in Germany, tracked on soundch
 
 Epicx, Bisk, Anubix
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/aridenaro/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/aridenaro/)*

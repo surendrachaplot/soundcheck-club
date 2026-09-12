@@ -1,18 +1,18 @@
 # Dr. Rek
 
-Dr. Rek is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at Underground SF, San Francisco/Oakland on Fri, 11 Sept 2026.
+Dr. Rek is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 12 Sept 2026, next at Underground SF, San Francisco/Oakland on Sat, 10 Oct 2026.
 
-Dr. Rek is a house and techno artist based in United States of America, tracked on soundcheck, with 14 sets logged across Sanfrancisco. Often billed alongside AKA DISK, David Siska and Hydroplane. Next up: Underground SF, Sanfrancisco on Fri 11 Sept.
+Dr. Rek is a house and techno artist based in United States of America, tracked on soundcheck, with 14 sets logged across Sanfrancisco. Often billed alongside AKA DISK, David Siska and Hydroplane. Next up: Underground SF, Sanfrancisco on Sat 10 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 11 Sept 2026 | Underground SF | San Francisco/Oakland |
 | Sat, 10 Oct 2026 | Underground SF | San Francisco/Oakland |
 
 ## Recently played
 
+- Underground SF, San Francisco/Oakland — Fri, 11 Sept 2026
 - Underground SF, San Francisco/Oakland — Fri, 19 Jun 2026
 - TBA - SECRET SF LOCATION, San Francisco/Oakland — Fri, 12 Sept 2025
 - Brix 581, San Francisco/Oakland — Fri, 9 May 2025
@@ -20,10 +20,9 @@ Dr. Rek is a house and techno artist based in United States of America, tracked 
 - Brix 581, San Francisco/Oakland — Fri, 10 Jan 2025
 - Brix 581, San Francisco/Oakland — Fri, 8 Nov 2024
 - TBA - SECRET SF LOCATION, San Francisco/Oakland — Fri, 13 Sept 2024
-- Underground SF, San Francisco/Oakland — Fri, 31 May 2024
 
 ## Shares bills with
 
 AKA DISK, David Siska, Hydroplane
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dr.rek/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dr.rek/)*

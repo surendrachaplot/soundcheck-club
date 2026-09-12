@@ -1,6 +1,6 @@
 # Artbat
 
-Artbat is a Techno and Progressive House artist with 4 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at Château de Fontainebleau, Paris on Sat, 12 Sept 2026.
+Artbat is a Techno and Progressive House artist with 4 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Château de Fontainebleau, Paris on Sat, 12 Sept 2026.
 
 Artbat is a techno and progressive house artist tracked on soundcheck, with 121 sets logged across Amsterdam, Athens, Austin and Bali and 34 more. Often billed alongside Miss Monique, Adam Beyer and Argy. Next up: Château de Fontainebleau, Paris on Sat 12 Sept.
 
@@ -28,4 +28,4 @@ Artbat is a techno and progressive house artist tracked on soundcheck, with 121 
 
 Miss Monique, Adam Beyer, Argy
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/Artbat/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/Artbat/)*

@@ -1,6 +1,6 @@
 # Blique by Nobis Rooftop
 
-Blique by Nobis Rooftop is a music venue in Stockholm with 1 upcoming night listed on soundcheck as of Fri, 11 Sept 2026; the next is "Natural Progression - Fejka - LAR - Slow Ted" on Sat, 21 Nov 2026.
+Blique by Nobis Rooftop is a music venue in Stockholm with 1 upcoming night listed on soundcheck as of Sat, 12 Sept 2026; the next is "Natural Progression - Fejka - LAR - Slow Ted" on Sat, 21 Nov 2026.
 
 Blique by Nobis Rooftop is a music venue in Stockholm listed on soundcheck. 1 upcoming night, with line-ups including Fejká, LAR (UK) and Slow Ted. Browse upcoming dates, start times and who's playing. Gävlegatan 18, 113 30 Stockholm.
 
@@ -14,4 +14,4 @@ Blique by Nobis Rooftop is a music venue in Stockholm listed on soundcheck. 1 up
 
 Gävlegatan 18, 113 30 Stockholm, Stockholm
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/stockholm/club/blique-by-nobis-rooftop/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/stockholm/club/blique-by-nobis-rooftop/)*

@@ -1,6 +1,6 @@
 # Dong
 
-Dong is a Techno and Electronica artist with 1 upcoming club date listed on soundcheck as of Fri, 11 Sept 2026, next at vurt., Seoul on Fri, 18 Sept 2026.
+Dong is a Techno and Electronica artist with 1 upcoming club date listed on soundcheck as of Sat, 12 Sept 2026, next at vurt., Seoul on Fri, 18 Sept 2026.
 
 Dong is a techno and electronica artist based in South Korea, tracked on soundcheck, with 27 sets logged across Berlin, London, Losangeles and Mexicocity and 4 more. Often billed alongside Zeemen, sehee and YOUKU. Next up: vurt., Seoul on Fri 18 Sept.
 
@@ -25,4 +25,4 @@ Dong is a techno and electronica artist based in South Korea, tracked on soundch
 
 Zeemen, sehee, YOUKU
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dong-kr/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dong-kr/)*

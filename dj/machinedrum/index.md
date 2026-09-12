@@ -1,8 +1,8 @@
 # Machinedrum
 
-Machinedrum is a Bass and House artist with 3 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at FS., Tokyo on Fri, 18 Sept 2026.
+Machinedrum is a Bass and House artist with 4 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at FS., Tokyo on Fri, 18 Sept 2026.
 
-Machinedrum is a bass and house artist based in United States of America, tracked on soundcheck, with 66 sets logged across Amsterdam, Austin, Barcelona and Berlin and 25 more. Often billed alongside Bianca Oblivion, Conducta and Nia Archives. Next up: FS., Tokyo on Fri 18 Sept.
+Machinedrum is a bass and house artist based in United States of America, tracked on soundcheck, with 67 sets logged across Amsterdam, Austin, Barcelona and Berlin and 25 more. Often billed alongside Bianca Oblivion, Conducta and Nia Archives. Next up: FS., Tokyo on Fri 18 Sept.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ Machinedrum is a bass and house artist based in United States of America, tracke
 | Fri, 18 Sept 2026 | FS. | Tokyo |
 | Fri, 2 Oct 2026 | Brooklyn Roots Collective | New York City |
 | Sat, 10 Oct 2026 | Radius | Chicago |
+| Sat, 21 Nov 2026 | Don Quixote | Los Angeles |
 
 ## Recently played
 
@@ -27,4 +28,4 @@ Machinedrum is a bass and house artist based in United States of America, tracke
 
 Bianca Oblivion, Conducta, Nia Archives
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/machinedrum/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/machinedrum/)*

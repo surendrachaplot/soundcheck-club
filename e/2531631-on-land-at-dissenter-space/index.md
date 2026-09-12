@@ -1,6 +1,6 @@
 # On Land at Dissenter Space
 
-On Land at Dissenter Space on Sat 10 Oct, Edinburgh. 1 act on the bill: Joshua Sabin. Preview the line-up and save it on soundcheck.
+On Land at Dissenter Space on Sat 10 Oct, Edinburgh. 1 act on the bill: Joshua Sabin. Experimental and Drone. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

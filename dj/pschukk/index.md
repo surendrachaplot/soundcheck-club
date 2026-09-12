@@ -1,6 +1,6 @@
 # Pschukk
 
-Pschukk is a Progressive House and Tech House artist with 1 upcoming club date listed on soundcheck as of Fri, 11 Sept 2026, next at Boat - MS Rhein, Berlin on Sun, 13 Sept 2026.
+Pschukk is a Progressive House and Tech House artist with 1 upcoming club date listed on soundcheck as of Sat, 12 Sept 2026, next at Boat - MS Rhein, Berlin on Sun, 13 Sept 2026.
 
 Pschukk is a progressive house and tech house artist based in Germany, tracked on soundcheck, with 30 sets logged across Berlin, Hamburg, Leipzig and Munich. Often billed alongside sleeptwitch, ayu bi and Keex. Next up: Boat - MS Rhein, Berlin on Sun 13 Sept.
 
@@ -25,4 +25,4 @@ Pschukk is a progressive house and tech house artist based in Germany, tracked o
 
 sleeptwitch, ayu bi, Keex
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/pschukk/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/pschukk/)*

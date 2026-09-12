@@ -1,6 +1,6 @@
 # Birgits WEEKENDER at Birgit
 
-Birgits WEEKENDER on Fri 11 Sept, Berlin. 1 act on the bill: gem.ini. Preview the line-up and save it on soundcheck.
+Birgits WEEKENDER on Fri 11 Sept, Berlin. 3 acts on the bill: Carina Posse, gem.ini and Mosher. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,8 @@ Birgits WEEKENDER on Fri 11 Sept, Berlin. 1 act on the bill: gem.ini. Preview th
 
 ## Line-up
 
+- Carina Posse
 - gem.ini
+- Mosher
 
 *Source: [soundcheck](https://soundcheck.club/e/2427154-birgits-weekender-at-birgit/)*

@@ -1,6 +1,6 @@
 # Fuse presents: PACT (Joachim Pastor, Joris Delacroix & Teho) at Fuse
 
-Fuse presents: PACT (Joachim Pastor, Joris Delacroix & Teho) on Sat 19 Sept, Brussels. 4 acts on the bill: Joachim Pastor, Joris Delacroix, Romain Garcia and Teho. Preview the line-up and save it on soundcheck.
+Fuse presents: PACT (Joachim Pastor, Joris Delacroix & Teho) on Sat 19 Sept, Brussels. 6 acts on the bill: EMJIE, Joachim Pastor, Joris Delacroix and JUWLZ and 2 more. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,8 +10,10 @@ Fuse presents: PACT (Joachim Pastor, Joris Delacroix & Teho) on Sat 19 Sept, Bru
 
 ## Line-up
 
+- EMJIE
 - Joachim Pastor
 - Joris Delacroix
+- JUWLZ
 - Romain Garcia
 - Teho
 

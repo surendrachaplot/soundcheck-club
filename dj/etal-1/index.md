@@ -1,6 +1,6 @@
 # Et Al (1)
 
-Et Al (1) is a Techno and Garage artist with 1 upcoming club date listed on soundcheck as of Fri, 11 Sept 2026, next at The Poetry Club, Glasgow on Sat, 17 Oct 2026.
+Et Al (1) is a Techno and Garage artist with 1 upcoming club date listed on soundcheck as of Sat, 12 Sept 2026, next at The Poetry Club, Glasgow on Sat, 17 Oct 2026.
 
 Et Al (1) is a techno and garage artist based in United Kingdom, tracked on soundcheck, with 44 sets logged across Aberdeen, Edinburgh, Glasgow and Munich. Often billed alongside Josh Buchanan, REYKA and J Wax. Next up: The Poetry Club, Glasgow on Sat 17 Oct.
 
@@ -25,4 +25,4 @@ Et Al (1) is a techno and garage artist based in United Kingdom, tracked on soun
 
 Josh Buchanan, REYKA, J Wax
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/etal-1/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/etal-1/)*

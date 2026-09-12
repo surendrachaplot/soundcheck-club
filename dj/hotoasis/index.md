@@ -1,6 +1,6 @@
 # Hot Oasis
 
-Hot Oasis is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 11 Sept 2026, next at WestWeelde, Amsterdam on Sat, 24 Oct 2026.
+Hot Oasis is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 12 Sept 2026, next at WestWeelde, Amsterdam on Sat, 24 Oct 2026.
 
 Hot Oasis is a house and techno artist based in United Kingdom, tracked on soundcheck, with 13 sets logged across Amsterdam, Berlin and London. Often billed alongside Aidan Doherty, Jorge Martins and Omer Tayar. Next up: WestWeelde, Amsterdam on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ Hot Oasis is a house and techno artist based in United Kingdom, tracked on sound
 
 Aidan Doherty, Jorge Martins, Omer Tayar
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/hotoasis/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/hotoasis/)*

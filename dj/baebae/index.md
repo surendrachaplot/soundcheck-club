@@ -1,6 +1,6 @@
 # BAE BAE
 
-BAE BAE is a Club and Techno artist with 3 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at Los Globos, Los Angeles on Thu, 24 Sept 2026.
+BAE BAE is a Club and Techno artist with 3 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Los Globos, Los Angeles on Thu, 24 Sept 2026.
 
 BAE BAE is a club and techno artist tracked on soundcheck, with 115 sets logged across Amsterdam, Antwerp, Barcelona and Brussels and 15 more. Often billed alongside DJ Kita, Colored Craig and Cquestt. Next up: Los Globos, Losangeles on Thu 24 Sept.
 
@@ -27,4 +27,4 @@ BAE BAE is a club and techno artist tracked on soundcheck, with 115 sets logged 
 
 DJ Kita, Colored Craig, Cquestt
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/baebae/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/baebae/)*

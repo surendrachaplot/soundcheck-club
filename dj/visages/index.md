@@ -1,6 +1,6 @@
 # Visages
 
-Visages is a Drum & Bass and Dubstep artist with 1 upcoming club date listed on soundcheck as of Fri, 11 Sept 2026, next at Macadam, Nantes on Fri, 25 Sept 2026.
+Visages is a Drum & Bass and Dubstep artist with 1 upcoming club date listed on soundcheck as of Sat, 12 Sept 2026, next at Macadam, Nantes on Fri, 25 Sept 2026.
 
 Visages is a drum & bass and dubstep artist tracked on soundcheck, with 33 sets logged across Amsterdam, Antwerp, Basel and Brighton and 18 more. Often billed alongside Monty, Alix Perez and SP:MC. Next up: Macadam, Nantes on Fri 25 Sept.
 
@@ -25,4 +25,4 @@ Visages is a drum & bass and dubstep artist tracked on soundcheck, with 33 sets 
 
 Monty, Alix Perez, SP:MC
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/visages/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/visages/)*

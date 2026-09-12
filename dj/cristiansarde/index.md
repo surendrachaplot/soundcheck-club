@@ -1,6 +1,6 @@
 # Cristian Sarde
 
-Cristian Sarde is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at Bunker, Turin on Sat, 12 Sept 2026.
+Cristian Sarde is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Bunker, Turin on Sat, 12 Sept 2026.
 
 Cristian Sarde is a house and techno artist based in Italy, tracked on soundcheck, with 83 sets logged across Amsterdam, Barcelona, Berlin and Boston and 26 more. Often billed alongside Alex Dima, Lorenzo Aribone and Munir Nadir. Next up: Bunker, Turin on Sat 12 Sept.
 
@@ -27,4 +27,4 @@ Cristian Sarde is a house and techno artist based in Italy, tracked on soundchec
 
 Alex Dima, Lorenzo Aribone, Munir Nadir
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/cristiansarde/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/cristiansarde/)*

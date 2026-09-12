@@ -1,6 +1,6 @@
 # Tatomed (2)
 
-Tatomed (2) is a Tech House and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at Sky Lounge 360, Prague on Sat, 12 Sept 2026.
+Tatomed (2) is a Tech House and House artist with 2 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Sky Lounge 360, Prague on Sat, 12 Sept 2026.
 
 Tatomed (2) is a tech house and house artist based in Venezuela, tracked on soundcheck, with 45 sets logged across Prague. Often billed alongside Rajky, Sam Gittis and Sebastian Paiza. Next up: Sky Lounge 360, Prague on Sat 12 Sept.
 
@@ -26,4 +26,4 @@ Tatomed (2) is a tech house and house artist based in Venezuela, tracked on soun
 
 Rajky, Sam Gittis, Sebastian Paiza
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tatomed-2/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tatomed-2/)*

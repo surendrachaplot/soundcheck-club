@@ -1,6 +1,6 @@
 # Mala
 
-Mala is a Dubstep and Bass artist with 9 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at Camp Kennybrook, New York City on Thu, 10 Sept 2026.
+Mala is a Dubstep and Bass artist with 9 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Camp Kennybrook, New York City on Thu, 10 Sept 2026.
 
 Mala is a dubstep and bass artist tracked on soundcheck, with 108 sets logged across Amsterdam, Antwerp, Auckland and Barcelona and 39 more. Often billed alongside Mia Koden, SGT Pokes and CCL. Next up: Camp Kennybrook, Newyorkcity on Thu 10 Sept.
 
@@ -33,4 +33,4 @@ Mala is a dubstep and bass artist tracked on soundcheck, with 108 sets logged ac
 
 Mia Koden, SGT Pokes, CCL
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mala/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mala/)*

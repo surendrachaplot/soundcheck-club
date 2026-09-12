@@ -1,6 +1,6 @@
 # Garo
 
-Garo is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 11 Sept 2026, next at Club der Visionaere, Berlin on Tue, 15 Sept 2026.
+Garo is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 12 Sept 2026, next at Club der Visionaere, Berlin on Tue, 15 Sept 2026.
 
 Garo is a house and techno artist tracked on soundcheck, with 27 sets logged across Berlin, Ghent, London and Mexicocity and 3 more. Often billed alongside Shjva, Stanly and André Schöne. Next up: Club der Visionaere, Berlin on Tue 15 Sept.
 
@@ -25,4 +25,4 @@ Garo is a house and techno artist tracked on soundcheck, with 27 sets logged acr
 
 Shjva, Stanly, André Schöne
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/garo/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/garo/)*

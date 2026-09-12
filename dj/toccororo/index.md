@@ -1,6 +1,6 @@
 # TOCCORORO
 
-TOCCORORO is a Techno and Reggaeton artist with 6 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at TBA - Grand Parc Miribel Jonage, Lyon on Sat, 12 Sept 2026.
+TOCCORORO is a Techno and Reggaeton artist with 6 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at TBA - Grand Parc Miribel Jonage, Lyon on Sat, 12 Sept 2026.
 
 TOCCORORO is a techno and reggaeton artist tracked on soundcheck, with 133 sets logged across Amsterdam, Austin, Barcelona and Berlin and 36 more. Often billed alongside JASSS, Manuka Honey and SALOME. Next up: TBA - Grand Parc Miribel Jonage, Lyon on Sat 12 Sept.
 
@@ -30,4 +30,4 @@ TOCCORORO is a techno and reggaeton artist tracked on soundcheck, with 133 sets 
 
 JASSS, Manuka Honey, SALOME
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/toccororo/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/toccororo/)*

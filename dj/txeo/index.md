@@ -1,6 +1,6 @@
 # Txeo
 
-Txeo is a Experimental and Club artist with 1 upcoming club date listed on soundcheck as of Fri, 11 Sept 2026, next at Left Bank, Tbilisi on Sat, 26 Sept 2026.
+Txeo is a Experimental and Club artist with 1 upcoming club date listed on soundcheck as of Sat, 12 Sept 2026, next at Left Bank, Tbilisi on Sat, 26 Sept 2026.
 
 Txeo is an experimental and club artist tracked on soundcheck, with 9 sets logged across Tbilisi. Often billed alongside Doctor Notchy, J.Stealth and Amdience. Next up: Left Bank, Tbilisi on Sat 26 Sept.
 
@@ -25,4 +25,4 @@ Txeo is an experimental and club artist tracked on soundcheck, with 9 sets logge
 
 Doctor Notchy, J.Stealth, Amdience
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/txeo/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/txeo/)*

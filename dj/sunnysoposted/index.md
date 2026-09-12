@@ -1,6 +1,6 @@
 # Sunnysoposted
 
-Sunnysoposted is a House and Ghetto Tech artist with 2 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at Skatecafe, Amsterdam on Sat, 26 Sept 2026.
+Sunnysoposted is a House and Ghetto Tech artist with 2 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Skatecafe, Amsterdam on Sat, 26 Sept 2026.
 
 Sunnysoposted is a house and ghetto tech artist based in Netherlands, tracked on soundcheck, with 17 sets logged across Amsterdam, Rotterdam and Utrecht. Often billed alongside Flansie, Ansjowvis and Franky Sticks. Next up: Skatecafe, Amsterdam on Sat 26 Sept.
 
@@ -26,4 +26,4 @@ Sunnysoposted is a house and ghetto tech artist based in Netherlands, tracked on
 
 Flansie, Ansjowvis, Franky Sticks
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sunnysoposted/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sunnysoposted/)*

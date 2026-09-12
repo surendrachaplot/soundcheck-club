@@ -1,6 +1,6 @@
 # Aria Pash
 
-Aria Pash is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 11 Sept 2026, next at Honey's, New York City on Sat, 26 Sept 2026.
+Aria Pash is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 12 Sept 2026, next at Honey's, New York City on Sat, 26 Sept 2026.
 
 Aria Pash is a house and techno artist based in United Kingdom, tracked on soundcheck, with 18 sets logged across Berlin and Newyorkcity. Often billed alongside Serrian, Dio Garcia and ALI IRL. Next up: Honey's, Newyorkcity on Sat 26 Sept.
 
@@ -25,4 +25,4 @@ Aria Pash is a house and techno artist based in United Kingdom, tracked on sound
 
 Serrian, Dio Garcia, ALI IRL
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ariapash/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ariapash/)*

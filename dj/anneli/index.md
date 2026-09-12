@@ -1,6 +1,6 @@
 # Anneli
 
-Anneli is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Fri, 11 Sept 2026, next at Slakthuset, Stockholm on Fri, 25 Sept 2026.
+Anneli is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Sat, 12 Sept 2026, next at Slakthuset, Stockholm on Fri, 25 Sept 2026.
 
 Anneli is a techno and trance artist tracked on soundcheck, with 6 sets logged across Stockholm. Often billed alongside DJ Zeb, Billie Jo and CC Luna. Next up: Slakthuset, Stockholm on Fri 25 Sept.
 
@@ -22,4 +22,4 @@ Anneli is a techno and trance artist tracked on soundcheck, with 6 sets logged a
 
 DJ Zeb, Billie Jo, CC Luna
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/anneli/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/anneli/)*

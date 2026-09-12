@@ -1,6 +1,6 @@
 # Dwonji
 
-Dwonji is a Drum & Bass and Dubstep artist with 1 upcoming club date listed on soundcheck as of Fri, 11 Sept 2026, next at 516 S Anderson Street, Los Angeles on Sat, 12 Sept 2026.
+Dwonji is a Drum & Bass and Dubstep artist with 1 upcoming club date listed on soundcheck as of Sat, 12 Sept 2026, next at 516 S Anderson Street, Los Angeles on Sat, 12 Sept 2026.
 
 Dwonji is a drum & bass and dubstep artist based in Denmark, tracked on soundcheck, with 19 sets logged across Copenhagen, Losangeles and Osaka. Often billed alongside HDN (DK), CALIFANO and Arsom. Next up: 516 S Anderson Street, Losangeles on Sat 12 Sept.
 
@@ -25,4 +25,4 @@ Dwonji is a drum & bass and dubstep artist based in Denmark, tracked on soundche
 
 HDN (DK), CALIFANO, Arsom
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dwonji/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dwonji/)*

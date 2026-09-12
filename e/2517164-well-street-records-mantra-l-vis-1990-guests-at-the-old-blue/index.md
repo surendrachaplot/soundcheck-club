@@ -1,6 +1,6 @@
 # Well Street Records: Mantra + L-Vis 1990  Guests at The Old Blue Last
 
-Well Street Records: Mantra + L-Vis 1990  Guests at The Old Blue Last on Sat 19 Sept, London. 2 acts on the bill: L-Vis 1990 and Mantra. Preview the line-up and save it on soundcheck.
+Well Street Records: Mantra + L-Vis 1990  Guests at The Old Blue Last on Sat 19 Sept, London. 3 acts on the bill: L-Vis 1990, Mantra and Phat. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -12,5 +12,6 @@ Well Street Records: Mantra + L-Vis 1990  Guests at The Old Blue Last on Sat 19 
 
 - L-Vis 1990
 - Mantra
+- Phat
 
 *Source: [soundcheck](https://soundcheck.club/e/2517164-well-street-records-mantra-l-vis-1990-guests-at-the-old-blue/)*

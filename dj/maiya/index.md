@@ -1,6 +1,6 @@
 # MAIYA
 
-MAIYA is a Club and Hip-Hop artist with 2 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at Webster Hall, New York City on Fri, 18 Sept 2026.
+MAIYA is a Club and Hip-Hop artist with 2 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Webster Hall, New York City on Fri, 18 Sept 2026.
 
 MAIYA is a club and hip-hop artist tracked on soundcheck, with 11 sets logged across Losangeles, Newyorkcity and Washingtondc. Often billed alongside 444 (1), Krithi and Nishévitha. Next up: Webster Hall, Newyorkcity on Fri 18 Sept.
 
@@ -26,4 +26,4 @@ MAIYA is a club and hip-hop artist tracked on soundcheck, with 11 sets logged ac
 
 444 (1), Krithi, Nishévitha
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/maiya/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/maiya/)*

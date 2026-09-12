@@ -1,6 +1,6 @@
 # Nexus
 
-Nexus is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at Club 69, Glasgow on Fri, 11 Sept 2026.
+Nexus is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Club 69, Glasgow on Fri, 11 Sept 2026.
 
 Nexus is a techno and house artist based in Italy, tracked on soundcheck, with 19 sets logged across Amsterdam, Barcelona, Berlin and Glasgow and 10 more. Often billed alongside Lechuga Zafiro, Amnesia Scanner and Animistic Beliefs. Next up: Club 69, Glasgow on Fri 11 Sept.
 
@@ -14,6 +14,7 @@ Nexus is a techno and house artist based in Italy, tracked on soundcheck, with 1
 
 ## Recently played
 
+- Club 69, Glasgow — Fri, 11 Sept 2026
 - Hive Club, Zurich — Sat, 18 Jul 2026
 - Garage Noord, Amsterdam — Fri, 29 May 2026
 - Kraftwerk, Tresor/Globus and OHM, Berlin — Sat, 30 Aug 2025
@@ -21,10 +22,9 @@ Nexus is a techno and house artist based in Italy, tracked on soundcheck, with 1
 - New Guernica, Melbourne — Sat, 12 Jul 2025
 - Nexus, Paris — Sat, 24 May 2025
 - Liquid Club, Malta — Sat, 11 Jan 2025
-- Nexus, Paris — Sat, 7 Dec 2024
 
 ## Shares bills with
 
 Lechuga Zafiro, Amnesia Scanner, Animistic Beliefs
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nexus/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nexus/)*

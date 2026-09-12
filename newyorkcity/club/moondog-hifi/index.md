@@ -1,6 +1,6 @@
 # Moondog Hifi
 
-Moondog Hifi is a music venue in New York City with 11 upcoming nights listed on soundcheck as of Fri, 11 Sept 2026; the next is "Monday Blue" on Fri, 11 Sept 2026.
+Moondog Hifi is a music venue in New York City with 11 upcoming nights listed on soundcheck as of Sat, 12 Sept 2026; the next is "Monday Blue" on Fri, 11 Sept 2026.
 
 Moondog Hifi is a music venue in Newyorkcity listed on soundcheck. 11 upcoming nights, with line-ups including Big Red, Chuwee, David Berrie and Derek Russo and 2 more. Browse upcoming dates, start times and who's playing. 119 Ingraham Street, Brooklyn, NY 11237.
 
@@ -23,4 +23,4 @@ Moondog Hifi is a music venue in Newyorkcity listed on soundcheck. 11 upcoming n
 
 119 Ingraham Street, Brooklyn, NY 11237, New York City
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/moondog-hifi/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/moondog-hifi/)*

@@ -1,8 +1,8 @@
 # Jeff Mills
 
-Jeff Mills is a Techno and House artist with 9 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at Bunker, Turin on Sat, 12 Sept 2026.
+Jeff Mills is a Techno and House artist with 11 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Bunker, Turin on Sat, 12 Sept 2026.
 
-Jeff Mills is a techno and house artist tracked on soundcheck, with 181 sets logged across Amsterdam, Antwerp, Athens and Auckland and 56 more. Often billed alongside DVS1, Marcel Dettmann and Helena Hauff. Next up: Bunker, Turin on Sat 12 Sept.
+Jeff Mills is a techno and house artist tracked on soundcheck, with 183 sets logged across Amsterdam, Antwerp, Athens and Auckland and 56 more. Often billed alongside DVS1, Marcel Dettmann and Helena Hauff. Next up: Bunker, Turin on Sat 12 Sept.
 
 ## Upcoming shows
 
@@ -11,8 +11,10 @@ Jeff Mills is a techno and house artist tracked on soundcheck, with 181 sets log
 | Sat, 12 Sept 2026 | Bunker | Turin |
 | Sun, 20 Sept 2026 | Vrachon Theater | Athens |
 | Sun, 27 Sept 2026 | Amnesia Ibiza | Ibiza |
+| Wed, 30 Sept 2026 | Fvtvr | Paris |
 | Sun, 11 Oct 2026 | Saline Royale D'arc-et-Senans (25 Doubs) | Lyon |
 | Fri, 23 Oct 2026 | WestWeelde | Amsterdam |
+| Sun, 25 Oct 2026 | Le Sucre | Lyon |
 | Sat, 31 Oct 2026 | Mondo Open Air | Madrid |
 | Sat, 28 Nov 2026 | Thuishaven | Amsterdam |
 | Fri, 4 Dec 2026 | MFCC Arena | Malta |
@@ -33,4 +35,4 @@ Jeff Mills is a techno and house artist tracked on soundcheck, with 181 sets log
 
 DVS1, Marcel Dettmann, Helena Hauff
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jeffmills/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jeffmills/)*

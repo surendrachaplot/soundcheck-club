@@ -1,8 +1,8 @@
 # Oliver Koletzki
 
-Oliver Koletzki is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at Tanzhaus West, Frankfurt on Sat, 19 Sept 2026.
+Oliver Koletzki is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Tanzhaus West, Frankfurt on Sat, 19 Sept 2026.
 
-Oliver Koletzki is a techno and house artist tracked on soundcheck, with 121 sets logged across Amsterdam, Athens, Austin and Bali and 29 more. Often billed alongside Frida Darko, Hidden Empire and Kotoe. Next up: Tanzhaus West, Frankfurt on Sat 19 Sept.
+Oliver Koletzki is a techno and house artist tracked on soundcheck, with 122 sets logged across Amsterdam, Athens, Austin and Bali and 29 more. Often billed alongside Frida Darko, Hidden Empire and Kotoe. Next up: Tanzhaus West, Frankfurt on Sat 19 Sept.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ Oliver Koletzki is a techno and house artist tracked on soundcheck, with 121 set
 | Sat, 19 Sept 2026 | Tanzhaus West | Frankfurt |
 | Sat, 24 Oct 2026 | THE OTHER SIDE | Amsterdam |
 | Sat, 7 Nov 2026 | Ritter Butzke | Berlin |
+| Wed, 11 Nov 2026 | Odonien | Cologne |
 | Fri, 13 Nov 2026 | Hangaren | Copenhagen |
 
 ## Recently played
@@ -28,4 +29,4 @@ Oliver Koletzki is a techno and house artist tracked on soundcheck, with 121 set
 
 Frida Darko, Hidden Empire, Kotoe
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/oliverkoletzki/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/oliverkoletzki/)*

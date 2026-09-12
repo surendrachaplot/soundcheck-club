@@ -1,6 +1,6 @@
 # The Lower Third
 
-The Lower Third is a music venue in London with 11 upcoming nights listed on soundcheck as of Fri, 11 Sept 2026; the next is "bees & honey" on Fri, 11 Sept 2026.
+The Lower Third is a music venue in London with 11 upcoming nights listed on soundcheck as of Sat, 12 Sept 2026; the next is "bees & honey" on Fri, 11 Sept 2026.
 
 The Lower Third is a music venue in London listed on soundcheck. 11 upcoming nights, with line-ups including bees & honey, Bronka, CHELO and Harriet Jaxxon and 2 more. Browse upcoming dates, start times and who's playing. 26 Denmark St, London, WC2H 8NJ.
 
@@ -23,4 +23,4 @@ The Lower Third is a music venue in London listed on soundcheck. 11 upcoming nig
 
 26 Denmark St, London, WC2H 8NJ, London
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/the-lower-third/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/the-lower-third/)*

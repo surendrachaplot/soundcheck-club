@@ -1,6 +1,6 @@
 # Justin Robertson
 
-Justin Robertson is a House and Acid artist with 2 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at 528 Ibiza, Ibiza on Tue, 22 Sept 2026.
+Justin Robertson is a House and Acid artist with 2 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at 528 Ibiza, Ibiza on Tue, 22 Sept 2026.
 
 Justin Robertson is a house and acid artist based in United Kingdom, tracked on soundcheck, with 38 sets logged across Belfast, Brighton, Dublin and Glasgow and 6 more. Often billed alongside DJ Paulette, Graeme Park and Erol Alkan. Next up: 528 Ibiza, Ibiza on Tue 22 Sept.
 
@@ -26,4 +26,4 @@ Justin Robertson is a house and acid artist based in United Kingdom, tracked on 
 
 DJ Paulette, Graeme Park, Erol Alkan
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/justinrobertson/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/justinrobertson/)*

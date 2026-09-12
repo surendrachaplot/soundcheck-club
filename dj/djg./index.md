@@ -1,6 +1,6 @@
 # DJ G.
 
-DJ G. is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at Camp Kennybrook, New York City on Thu, 10 Sept 2026.
+DJ G. is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Camp Kennybrook, New York City on Thu, 10 Sept 2026.
 
 DJ G. is a techno and house artist based in United States of America, tracked on soundcheck, with 31 sets logged across Berlin, Melbourne, Miami and Newyorkcity and 3 more. Often billed alongside Aurora Halal, DJ'J (US) and DJ Possum. Next up: Camp Kennybrook, Newyorkcity on Thu 10 Sept.
 
@@ -27,4 +27,4 @@ DJ G. is a techno and house artist based in United States of America, tracked on
 
 Aurora Halal, DJ'J (US), DJ Possum
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djg./)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djg./)*

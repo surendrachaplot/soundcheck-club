@@ -1,6 +1,6 @@
 # HERMETICA
 
-HERMETICA is a Techno and House artist with 7 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at IFEMA, Madrid on Fri, 18 Sept 2026.
+HERMETICA is a Techno and House artist with 7 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at IFEMA, Madrid on Fri, 18 Sept 2026.
 
 HERMETICA is a techno and house artist tracked on soundcheck, with 43 sets logged across Amsterdam, Barcelona, Berlin and Madrid and 6 more. Often billed alongside Judy (ES), Laia and Tino Machauer. Next up: IFEMA, Madrid on Fri 18 Sept.
 
@@ -31,4 +31,4 @@ HERMETICA is a techno and house artist tracked on soundcheck, with 43 sets logge
 
 Judy (ES), Laia, Tino Machauer
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/hermetica/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/hermetica/)*

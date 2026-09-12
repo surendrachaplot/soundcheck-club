@@ -1,6 +1,6 @@
 # Beqqi
 
-Beqqi is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 11 Sept 2026, next at Badehaus Berlin, Berlin on Thu, 24 Sept 2026.
+Beqqi is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 12 Sept 2026, next at Badehaus Berlin, Berlin on Thu, 24 Sept 2026.
 
 Beqqi is a house and techno artist tracked on soundcheck, with 32 sets logged across Berlin and Leipzig. Often billed alongside Montezuma (DE), Christa K and charli/e. Next up: Badehaus Berlin, Berlin on Thu 24 Sept.
 
@@ -25,4 +25,4 @@ Beqqi is a house and techno artist tracked on soundcheck, with 32 sets logged ac
 
 Montezuma (DE), Christa K, charli/e
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/beqqi/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/beqqi/)*

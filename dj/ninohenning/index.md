@@ -1,6 +1,6 @@
 # Nino Henning
 
-Nino Henning is a House and Club artist with 1 upcoming club date listed on soundcheck as of Fri, 11 Sept 2026, next at Radio Radio, Amsterdam on Fri, 11 Sept 2026.
+Nino Henning is a House and Club artist with 1 upcoming club date listed on soundcheck as of Sat, 12 Sept 2026, next at Radio Radio, Amsterdam on Fri, 11 Sept 2026.
 
 Nino Henning is a house and club artist based in Netherlands, tracked on soundcheck, with 8 sets logged across Amsterdam, Berlin and Thehague. Often billed alongside Dam Swindle, Emvae and Moxes. Next up: Radio Radio, Amsterdam on Fri 11 Sept.
 
@@ -12,6 +12,7 @@ Nino Henning is a house and club artist based in Netherlands, tracked on soundch
 
 ## Recently played
 
+- Radio Radio, Amsterdam — Fri, 11 Sept 2026
 - Parallel, Amsterdam — Sat, 22 Aug 2026
 - PIP Den Haag, The Hague — Sat, 25 Jul 2026
 - Radio Radio, Amsterdam — Fri, 19 Jun 2026
@@ -24,4 +25,4 @@ Nino Henning is a house and club artist based in Netherlands, tracked on soundch
 
 Dam Swindle, Emvae, Moxes
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ninohenning/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ninohenning/)*

@@ -1,6 +1,6 @@
 # DAIYAH
 
-DAIYAH is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at Phantom Bar Berlin, Berlin on Thu, 17 Sept 2026.
+DAIYAH is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Phantom Bar Berlin, Berlin on Thu, 17 Sept 2026.
 
 DAIYAH is a techno and house artist based in United States of America, tracked on soundcheck, with 96 sets logged across Amsterdam, Austin, Berlin and Boston and 8 more. Often billed alongside Devoye, Juliana Huxtable and KYRUH. Next up: Phantom Bar Berlin, Berlin on Thu 17 Sept.
 
@@ -27,4 +27,4 @@ DAIYAH is a techno and house artist based in United States of America, tracked o
 
 Devoye, Juliana Huxtable, KYRUH
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/daiyah/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/daiyah/)*

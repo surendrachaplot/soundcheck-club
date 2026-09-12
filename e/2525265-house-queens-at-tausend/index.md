@@ -1,6 +1,6 @@
 # HOUSE QUEENS at Tausend
 
-HOUSE QUEENS at Tausend on Thu 8 Oct, Berlin. 1 act on the bill: LIZZN. House. Preview the line-up and save it on soundcheck.
+HOUSE QUEENS at Tausend on Thu 8 Oct, Berlin. 1 act on the bill: LIZZN. House and Tech House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

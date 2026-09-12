@@ -1,6 +1,6 @@
 # Saintclair
 
-Saintclair is a Techno and Club artist with 2 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at Amma Cafe, New York City on Fri, 18 Sept 2026.
+Saintclair is a Techno and Club artist with 2 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Amma Cafe, New York City on Fri, 18 Sept 2026.
 
 Saintclair is a techno and club artist tracked on soundcheck, with 24 sets logged across Lisbon, Newyorkcity, Philadelphia and Washingtondc. Often billed alongside PHIL TY, Adrian Hex and BLAIZE. Next up: Amma Cafe, Newyorkcity on Fri 18 Sept.
 
@@ -26,4 +26,4 @@ Saintclair is a techno and club artist tracked on soundcheck, with 24 sets logge
 
 PHIL TY, Adrian Hex, BLAIZE
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/saintclair-us/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/saintclair-us/)*

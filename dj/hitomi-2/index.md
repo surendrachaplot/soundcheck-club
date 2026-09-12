@@ -1,6 +1,6 @@
 # Hitomi (DE)
 
-Hitomi (DE) is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 11 Sept 2026, next at TBA - a chapel in neukölln, Berlin on Sun, 4 Oct 2026.
+Hitomi (DE) is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 12 Sept 2026, next at TBA - a chapel in neukölln, Berlin on Sun, 4 Oct 2026.
 
 Hitomi (DE) is a house and techno artist based in Japan, tracked on soundcheck, with 10 sets logged across Berlin. Often billed alongside João Comazzi, Alexander Arpeggio and Alicia Carrera. Next up: TBA - a chapel in neukölln, Berlin on Sun 4 Oct.
 
@@ -25,4 +25,4 @@ Hitomi (DE) is a house and techno artist based in Japan, tracked on soundcheck, 
 
 João Comazzi, Alexander Arpeggio, Alicia Carrera
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/hitomi-2/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/hitomi-2/)*

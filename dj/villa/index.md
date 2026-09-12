@@ -1,6 +1,6 @@
 # VillA
 
-VillA is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Fri, 11 Sept 2026, next at TBA - cisco seaport, Boston on Sun, 20 Sept 2026.
+VillA is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Sat, 12 Sept 2026, next at TBA - cisco seaport, Boston on Sun, 20 Sept 2026.
 
 VillA is a house and tech house artist tracked on soundcheck, with 8 sets logged across Austin, Berlin, Boston and Cologne and 2 more. Often billed alongside AbueKev, BECKSHAM and Ben Finx. Next up: TBA - cisco seaport, Boston on Sun 20 Sept.
 
@@ -24,4 +24,4 @@ VillA is a house and tech house artist tracked on soundcheck, with 8 sets logged
 
 AbueKev, BECKSHAM, Ben Finx
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/villa/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/villa/)*

@@ -1,6 +1,6 @@
 # Sol (KR)
 
-Sol (KR) is a electronic artist with 2 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at Faust, Seoul on Sat, 19 Sept 2026.
+Sol (KR) is a electronic artist with 2 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Faust, Seoul on Sat, 19 Sept 2026.
 
 Sol (KR) is an electronic artist based in South Korea, tracked on soundcheck, with 25 sets logged across Seoul. Often billed alongside Suman, Mars Parck and Stann Lumo. Next up: Faust, Seoul on Sat 19 Sept.
 
@@ -26,4 +26,4 @@ Sol (KR) is an electronic artist based in South Korea, tracked on soundcheck, wi
 
 Suman, Mars Parck, Stann Lumo
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sol-kr/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sol-kr/)*

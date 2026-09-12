@@ -1,6 +1,6 @@
 # Ri0D.
 
-Ri0D. is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 11 Sept 2026, next at Kulturlounge, Leipzig on Fri, 25 Sept 2026.
+Ri0D. is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 12 Sept 2026, next at Kulturlounge, Leipzig on Fri, 25 Sept 2026.
 
 Ri0D. is a techno and house artist based in Germany, tracked on soundcheck, with 15 sets logged across Berlin and Leipzig. Often billed alongside Rn86, nøvae and Simon Phil.ter. Next up: Kulturlounge, Leipzig on Fri 25 Sept.
 
@@ -25,4 +25,4 @@ Ri0D. is a techno and house artist based in Germany, tracked on soundcheck, with
 
 Rn86, nøvae, Simon Phil.ter
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ri0d/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ri0d/)*

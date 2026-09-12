@@ -1,14 +1,15 @@
 # kjjabber
 
-kjjabber is a Electronica and Ambient artist with 1 upcoming club date listed on soundcheck as of Fri, 11 Sept 2026, next at TBA - Warschauer Pl. 18, 10245 Berlin, Berlin on Sat, 12 Sept 2026.
+kjjabber is a Club and Electronica artist with 2 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at TBA - Warschauer Pl. 18, 10245 Berlin, Berlin on Sat, 12 Sept 2026.
 
-kjjabber is an electronica and ambient artist tracked on soundcheck, with 9 sets logged across Berlin and Copenhagen. Often billed alongside yimo yivil, Gina Lo and KOPI O. Next up: TBA - Warschauer Pl. 18, 10245 Berlin, Berlin on Sat 12 Sept.
+kjjabber is a club and electronica artist tracked on soundcheck, with 10 sets logged across Berlin and Copenhagen. Often billed alongside yimo yivil, B3CKI and Gina Lo. Next up: TBA - Warschauer Pl. 18, 10245 Berlin, Berlin on Sat 12 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 12 Sept 2026 | TBA - Warschauer Pl. 18, 10245 Berlin | Berlin |
+| Fri, 25 Sept 2026 | Lark | Berlin |
 
 ## Recently played
 
@@ -23,6 +24,6 @@ kjjabber is an electronica and ambient artist tracked on soundcheck, with 9 sets
 
 ## Shares bills with
 
-yimo yivil, Gina Lo, KOPI O
+yimo yivil, B3CKI, Gina Lo
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kjjabber/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kjjabber/)*

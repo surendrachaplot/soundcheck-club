@@ -1,6 +1,6 @@
 # KAWA
 
-KAWA is a House and Experimental artist with 1 upcoming club date listed on soundcheck as of Fri, 11 Sept 2026, next at Park Riegrovy Sady, Prague on Sat, 19 Sept 2026.
+KAWA is a House and Experimental artist with 1 upcoming club date listed on soundcheck as of Sat, 12 Sept 2026, next at Park Riegrovy Sady, Prague on Sat, 19 Sept 2026.
 
 KAWA is a house and experimental artist tracked on soundcheck, with 32 sets logged across Paris, Prague and Tokyo. Often billed alongside Sam Gittis, Diva and S.N.R.I.. Next up: Park Riegrovy Sady, Prague on Sat 19 Sept.
 
@@ -25,4 +25,4 @@ KAWA is a house and experimental artist tracked on soundcheck, with 32 sets logg
 
 Sam Gittis, Diva, S.N.R.I.
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kawa/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kawa/)*

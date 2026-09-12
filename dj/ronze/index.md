@@ -1,6 +1,6 @@
 # Ronze
 
-Ronze is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Fri, 11 Sept 2026, next at INPUT High Fidelity Dance Club, Barcelona on Sat, 26 Sept 2026.
+Ronze is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Sat, 12 Sept 2026, next at INPUT High Fidelity Dance Club, Barcelona on Sat, 26 Sept 2026.
 
 Ronze is a techno and trance artist based in Argentina, tracked on soundcheck, with 33 sets logged across Barcelona, Berlin, Buenosaires and Valencia. Often billed alongside Micaela Escudero, Linkan Ray and H-R-Z. Next up: INPUT High Fidelity Dance Club, Barcelona on Sat 26 Sept.
 
@@ -25,4 +25,4 @@ Ronze is a techno and trance artist based in Argentina, tracked on soundcheck, w
 
 Micaela Escudero, Linkan Ray, H-R-Z
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ronze/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ronze/)*

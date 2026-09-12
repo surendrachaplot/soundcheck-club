@@ -1,6 +1,6 @@
 # Ivana_dnb
 
-Ivana_dnb is a Drum & Bass and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at Sensorium, Berlin on Fri, 11 Sept 2026.
+Ivana_dnb is a Drum & Bass and House artist with 2 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Sensorium, Berlin on Fri, 11 Sept 2026.
 
 Ivana_dnb is a drum & bass and house artist based in Germany, tracked on soundcheck, with 6 sets logged across Berlin. Often billed alongside Hovercat, Jim Bean and Lola Brennt. Next up: Sensorium, Berlin on Fri 11 Sept.
 
@@ -13,6 +13,7 @@ Ivana_dnb is a drum & bass and house artist based in Germany, tracked on soundch
 
 ## Recently played
 
+- Sensorium, Berlin — Fri, 11 Sept 2026
 - Klunkerkranich, Berlin — Thu, 18 Jun 2026
 - TBA, Berlin — Sat, 7 Feb 2026
 - Humboldthain Club, Berlin — Sat, 4 Oct 2025
@@ -22,4 +23,4 @@ Ivana_dnb is a drum & bass and house artist based in Germany, tracked on soundch
 
 Hovercat, Jim Bean, Lola Brennt
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ivana-dnb/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ivana-dnb/)*

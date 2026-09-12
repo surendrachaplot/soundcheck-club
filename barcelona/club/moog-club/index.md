@@ -1,6 +1,6 @@
 # Moog Club
 
-Moog Club is a music venue in Barcelona with 20 upcoming nights listed on soundcheck as of Fri, 11 Sept 2026; the next is "Luzzatto" on Fri, 11 Sept 2026.
+Moog Club is a music venue in Barcelona with 20 upcoming nights listed on soundcheck as of Sat, 12 Sept 2026; the next is "Luzzatto" on Fri, 11 Sept 2026.
 
 Moog Club is a music venue in Barcelona listed on soundcheck. 20 upcoming nights, with line-ups including Ángel Molina, carlota., DJ MEN and Javi gOn and 2 more. Browse upcoming dates, start times and who's playing. Arc del Teatre, 3; 08001 Barcelona; Spain.
 
@@ -23,4 +23,4 @@ Moog Club is a music venue in Barcelona listed on soundcheck. 20 upcoming nights
 
 Arc del Teatre, 3; 08001 Barcelona; Spain, Barcelona
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/moog-club/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/moog-club/)*

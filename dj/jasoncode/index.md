@@ -1,14 +1,15 @@
 # Jason Code
 
-Jason Code is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 11 Sept 2026, next at Kremwerk-Timbre Room-Cherry Complex, Seattle on Fri, 25 Sept 2026.
+Jason Code is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Kremwerk-Timbre Room-Cherry Complex, Seattle on Fri, 25 Sept 2026.
 
-Jason Code is a techno and house artist based in United States of America, tracked on soundcheck, with 25 sets logged across Newyorkcity, Sanfrancisco and Seattle. Often billed alongside Ross Lowder, N SO and JENN GREEN. Next up: Kremwerk-Timbre Room-Cherry Complex, Seattle on Fri 25 Sept.
+Jason Code is a techno and house artist based in United States of America, tracked on soundcheck, with 26 sets logged across Newyorkcity, Sanfrancisco and Seattle. Often billed alongside Ross Lowder, N SO and JENN GREEN. Next up: Kremwerk-Timbre Room-Cherry Complex, Seattle on Fri 25 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 25 Sept 2026 | Kremwerk-Timbre Room-Cherry Complex | Seattle |
+| Sat, 5 Dec 2026 | Nectar Lounge | Seattle |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Jason Code is a techno and house artist based in United States of America, track
 
 Ross Lowder, N SO, JENN GREEN
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jasoncode/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jasoncode/)*

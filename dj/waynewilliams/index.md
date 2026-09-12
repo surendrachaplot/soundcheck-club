@@ -1,6 +1,6 @@
 # Wayne Williams
 
-Wayne Williams is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Fri, 11 Sept 2026, next at Third Street Bar, Detroit on Sun, 13 Sept 2026.
+Wayne Williams is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Sat, 12 Sept 2026, next at Third Street Bar, Detroit on Sun, 13 Sept 2026.
 
 Wayne Williams is a house and deep house artist tracked on soundcheck, with 65 sets logged across Chicago, Detroit, London and Losangeles and 2 more. Often billed alongside Terry Hunter, Mike Dunn and Adorio. Next up: Third Street Bar, Detroit on Sun 13 Sept.
 
@@ -25,4 +25,4 @@ Wayne Williams is a house and deep house artist tracked on soundcheck, with 65 s
 
 Terry Hunter, Mike Dunn, Adorio
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/waynewilliams/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/waynewilliams/)*

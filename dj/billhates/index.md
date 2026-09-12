@@ -1,6 +1,6 @@
 # Bill Hates
 
-Bill Hates is a Tech House and Deep House artist with 1 upcoming club date listed on soundcheck as of Fri, 11 Sept 2026, next at Ku Barcelona, Barcelona on Wed, 9 Sept 2026.
+Bill Hates is a Tech House and Deep House artist with 1 upcoming club date listed on soundcheck as of Sat, 12 Sept 2026, next at Ku Barcelona, Barcelona on Wed, 9 Sept 2026.
 
 Bill Hates is a tech house and deep house artist tracked on soundcheck, with 88 sets logged across Amsterdam, Barcelona, Ibiza and Madrid. Often billed alongside ROGGIERO G, XAVI RABARTE and HANIE. Next up: Ku Barcelona, Barcelona on Wed 9 Sept.
 
@@ -25,4 +25,4 @@ Bill Hates is a tech house and deep house artist tracked on soundcheck, with 88 
 
 ROGGIERO G, XAVI RABARTE, HANIE
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/billhates/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/billhates/)*

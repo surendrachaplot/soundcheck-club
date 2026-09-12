@@ -1,6 +1,6 @@
 # 444 (1)
 
-444 (1) is a Club and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at Webster Hall, New York City on Sat, 17 Oct 2026.
+444 (1) is a Club and House artist with 2 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Webster Hall, New York City on Sat, 17 Oct 2026.
 
 444 (1) is a club and house artist based in United States of America, tracked on soundcheck, with 25 sets logged across Mexicocity, Montreal and Newyorkcity. Often billed alongside BEYBLADE SHAWTY, LeCamille and Ushka. Next up: Webster Hall, Newyorkcity on Sat 17 Oct.
 
@@ -26,4 +26,4 @@
 
 BEYBLADE SHAWTY, LeCamille, Ushka
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/444-1/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/444-1/)*

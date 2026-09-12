@@ -1,8 +1,8 @@
 # Nice N Sleazy
 
-Nice N Sleazy is a music venue in Glasgow with 16 upcoming nights listed on soundcheck as of Fri, 11 Sept 2026; the next is "NIGHTSHIFT: Aidan Rei, Bnji, Shedcat, SMK" on Fri, 11 Sept 2026.
+Nice N Sleazy is a music venue in Glasgow with 17 upcoming nights listed on soundcheck as of Sat, 12 Sept 2026; the next is "NIGHTSHIFT: Aidan Rei, Bnji, Shedcat, SMK" on Fri, 11 Sept 2026.
 
-Nice N Sleazy is a music venue in Glasgow listed on soundcheck. 16 upcoming nights, with line-ups including Angel Negrin, Casual Look, Corran and EL PADRE and 2 more. Browse upcoming dates, start times and who's playing. 421 Sauchiehall Street; Glasgow, G2 3LG; Scotland, United Kingdom.
+Nice N Sleazy is a music venue in Glasgow listed on soundcheck. 17 upcoming nights, with line-ups including Angel Negrin, Casual Look, Corran and EL PADRE and 2 more. Browse upcoming dates, start times and who's playing. 421 Sauchiehall Street; Glasgow, G2 3LG; Scotland, United Kingdom.
 
 ## What's on
 
@@ -23,4 +23,4 @@ Nice N Sleazy is a music venue in Glasgow listed on soundcheck. 16 upcoming nigh
 
 421 Sauchiehall Street; Glasgow, G2 3LG; Scotland, United Kingdom, Glasgow
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/nice-n-sleazy/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/nice-n-sleazy/)*

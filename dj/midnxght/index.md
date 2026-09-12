@@ -1,6 +1,6 @@
 # MIDNXGHT
 
-MIDNXGHT is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Fri, 11 Sept 2026, next at Distillery, Leipzig on Sat, 26 Sept 2026.
+MIDNXGHT is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Sat, 12 Sept 2026, next at Distillery, Leipzig on Sat, 26 Sept 2026.
 
 MIDNXGHT is a techno and trance artist tracked on soundcheck, with 25 sets logged across Berlin and Leipzig. Often billed alongside mp.ulle, DJ SOFTICE and marengo (2). Next up: Distillery, Leipzig on Sat 26 Sept.
 
@@ -25,4 +25,4 @@ MIDNXGHT is a techno and trance artist tracked on soundcheck, with 25 sets logge
 
 mp.ulle, DJ SOFTICE, marengo (2)
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/midnxght/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/midnxght/)*

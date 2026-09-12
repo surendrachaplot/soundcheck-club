@@ -1,6 +1,6 @@
 # Radium Records Summer Party - Secret Boat Location at TBA - North London
 
-Radium Records Summer Party - Secret Boat Location at TBA - North London on Fri 11 Sept, London. 1 act on the bill: Livvy Loo. House and Electro. Preview the line-up and save it on soundcheck.
+Radium Records Summer Party - Secret Boat Location at TBA - North London on Fri 11 Sept, London. 2 acts on the bill: Livvy Loo and Philo (3). House and Electro. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,5 +11,6 @@ Radium Records Summer Party - Secret Boat Location at TBA - North London on Fri 
 ## Line-up
 
 - Livvy Loo
+- Philo (3)
 
 *Source: [soundcheck](https://soundcheck.club/e/2519226-radium-records-summer-party-secret-boat-location-at-tba-nort/)*

@@ -1,6 +1,6 @@
 # chanai
 
-chanai is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Fri, 11 Sept 2026, next at Bonobo, Tokyo on Sat, 12 Sept 2026.
+chanai is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Sat, 12 Sept 2026, next at Bonobo, Tokyo on Sat, 12 Sept 2026.
 
 chanai is a techno and tech house artist based in Japan, tracked on soundcheck, with 22 sets logged across Tokyo. Often billed alongside Pokaska, Ogasawara and Shimon Taka. Next up: Bonobo, Tokyo on Sat 12 Sept.
 
@@ -25,4 +25,4 @@ chanai is a techno and tech house artist based in Japan, tracked on soundcheck, 
 
 Pokaska, Ogasawara, Shimon Taka
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/chanai/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/chanai/)*

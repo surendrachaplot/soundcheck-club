@@ -1,6 +1,6 @@
-# Hobbes Music x Noetic Rhythm (Launch Party): David Jackson, Maya Hacker, Hobbes [FREE TIX] at The Bongo Club
+# Hobbes Music x Noetic Rhythm (Launch Party): David Jackson, Maya Hacker, Hobbes at The Bongo Club
 
-Hobbes Music x Noetic Rhythm (Launch Party): David Jackson, Maya Hacker, Hobbes [FREE TIX] at The Bongo Club on Sat 12 Sept, Edinburgh. 3 acts on the bill: David Jackson, Hobbes and Maya Hacker. House and Disco. Preview the line-up and save it on soundcheck.
+Hobbes Music x Noetic Rhythm (Launch Party): David Jackson, Maya Hacker, Hobbes at The Bongo Club on Sat 12 Sept, Edinburgh. 3 acts on the bill: David Jackson, Hobbes and Maya Hacker. House and Disco. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

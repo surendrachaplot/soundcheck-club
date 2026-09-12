@@ -1,6 +1,6 @@
 # Moses (US)
 
-Moses (US) is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 11 Sept 2026, next at TBA - Cass Corridor, Detroit on Sat, 12 Sept 2026.
+Moses (US) is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 12 Sept 2026, next at TBA - Cass Corridor, Detroit on Sat, 12 Sept 2026.
 
 Moses (US) is a techno and house artist tracked on soundcheck, with 6 sets logged across Boston and Detroit. Often billed alongside DJ Roach, Andrea Ghita and Augustus Williams. Next up: TBA - Cass Corridor, Detroit on Sat 12 Sept.
 
@@ -22,4 +22,4 @@ Moses (US) is a techno and house artist tracked on soundcheck, with 6 sets logge
 
 DJ Roach, Andrea Ghita, Augustus Williams
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mosesus/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mosesus/)*

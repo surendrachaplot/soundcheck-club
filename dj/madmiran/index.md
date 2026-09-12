@@ -1,6 +1,6 @@
 # mad miran
 
-mad miran is a Techno and Bass artist with 11 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at Camp Kennybrook, New York City on Thu, 10 Sept 2026.
+mad miran is a Techno and Bass artist with 11 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Camp Kennybrook, New York City on Thu, 10 Sept 2026.
 
 mad miran is a techno and bass artist tracked on soundcheck, with 199 sets logged across Amsterdam, Antwerp, Athens and Bali and 42 more. Often billed alongside Identified Patient, Pariah and DjRUM. Next up: Camp Kennybrook, Newyorkcity on Thu 10 Sept.
 
@@ -35,4 +35,4 @@ mad miran is a techno and bass artist tracked on soundcheck, with 199 sets logge
 
 Identified Patient, Pariah, DjRUM
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/madmiran/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/madmiran/)*

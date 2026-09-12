@@ -1,8 +1,8 @@
 # Renate
 
-Renate is a music venue in Berlin with 8 upcoming nights listed on soundcheck as of Fri, 11 Sept 2026; the next is "Happy 19th Birthday Renate 7 Floors, 66 Hours w/ Angel D'lite, Stenny, Mary Lake, Daniel Avery" on Fri, 11 Sept 2026.
+Renate is a music venue in Berlin with 8 upcoming nights listed on soundcheck as of Sat, 12 Sept 2026; the next is "Happy 19th Birthday Renate 7 Floors, 66 Hours w/ Angel D'lite, Stenny, Mary Lake, Daniel Avery" on Fri, 11 Sept 2026.
 
-Renate is a music venue in Berlin listed on soundcheck. 8 upcoming nights, with line-ups including AAMIROO, ābnamā, Adam Cooke and AGILY and 2 more. Browse upcoming dates, start times and who's playing. Alt Stralau 70; Friedrichshain; 10245 Berlin; Germany.
+Renate is a music venue in Berlin listed on soundcheck. 8 upcoming nights, with line-ups including AAMIROO, ābnamā, Adam Cooke and Adri Tüde and 2 more. Browse upcoming dates, start times and who's playing. Alt Stralau 70; Friedrichshain; 10245 Berlin; Germany.
 
 ## What's on
 
@@ -14,11 +14,11 @@ Renate is a music venue in Berlin listed on soundcheck. 8 upcoming nights, with 
 | Fri, 25 Sept 2026 | Renate Klubnacht x Haram Night | Amowia, SXCL, saHHar |
 | Sat, 26 Sept 2026 | Renate Klubnacht + Open Air (Free Entry) | BBYG, Chaques, Cowper, D'Nice, DJ CHICHI, Hanna Baertig, Infamous Ali, Luke Blunton, Natalia Martinovna, sleeptwitch |
 | Sat, 3 Oct 2026 | Renate Free Open Air (TDC) + Klubnacht with Fairies & Fluid Vision |  |
-| Fri, 16 Oct 2026 | 13 YRS Rebellion der Träumer* |  |
+| Fri, 16 Oct 2026 | 13 YRS Rebellion der Träumer* | Adri Tüde, Andreas Rauscher, Apolonia, Borella, Boskopp, Ciao 3lla, Corios, DJ Flink, DJ https, Daniel Neuland, Dela Nesto, EMJIE, Ele Luz, Elias Goldmund, FLAVE, GI.O, Haensen&Gretel, Hannes Turm, Horst Haller, J.WOCKENFUSS, Julio Paradise, Konfusia, Kos:mo, Kotelett, LAXBERGER, Lanka, Luko, MOOGLI (DE), Mareike Bautz, Maria Theresia von Eberg, Maurice Mino, Mira, Naicet, Powel, Rad.Lez, Sabura, Sahra Bass, Sandrino, Sarah Wild, Sin:port, Sinamin, The Bille, The Jakob Sister, Tobi Dei (DE), Viper, Wanda Wild, Yola Rennt, diladï, fraumuhlin, inda Flo, kluntje, lisa luka, nøvae, wilson.solidarity |
 | Thu, 29 Oct 2026 | House of Lunacy Halloween - The Danse Macabre |  |
 
 ## Address
 
 Alt Stralau 70; Friedrichshain; 10245 Berlin; Germany, Berlin
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/renate/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/renate/)*

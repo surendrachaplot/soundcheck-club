@@ -1,6 +1,6 @@
 # Jooki
 
-Jooki is a House and Trance artist with 1 upcoming club date listed on soundcheck as of Fri, 11 Sept 2026, next at Glamorama, Melbourne on Sat, 7 Nov 2026.
+Jooki is a House and Trance artist with 1 upcoming club date listed on soundcheck as of Sat, 12 Sept 2026, next at Glamorama, Melbourne on Sat, 7 Nov 2026.
 
 Jooki is a house and trance artist tracked on soundcheck, with 6 sets logged across Melbourne. Often billed alongside Slumdog, Acid Jacks and Bennet. Next up: Glamorama, Melbourne on Sat 7 Nov.
 
@@ -22,4 +22,4 @@ Jooki is a house and trance artist tracked on soundcheck, with 6 sets logged acr
 
 Slumdog, Acid Jacks, Bennet
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jooki/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jooki/)*

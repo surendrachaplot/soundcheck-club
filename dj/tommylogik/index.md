@@ -1,6 +1,6 @@
 # TOMMYLOGIK
 
-TOMMYLOGIK is a Progressive House and Trance artist with 1 upcoming club date listed on soundcheck as of Fri, 11 Sept 2026, next at Bossa Nova Civic Club, New York City on Tue, 29 Sept 2026.
+TOMMYLOGIK is a Progressive House and Trance artist with 1 upcoming club date listed on soundcheck as of Sat, 12 Sept 2026, next at Bossa Nova Civic Club, New York City on Tue, 29 Sept 2026.
 
 TOMMYLOGIK is a progressive house and trance artist based in United States of America, tracked on soundcheck, with 15 sets logged across Newyorkcity. Often billed alongside Wassu, SunrYse and Zehv. Next up: Bossa Nova Civic Club, Newyorkcity on Tue 29 Sept.
 
@@ -25,4 +25,4 @@ TOMMYLOGIK is a progressive house and trance artist based in United States of Am
 
 Wassu, SunrYse, Zehv
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tommylogik/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tommylogik/)*

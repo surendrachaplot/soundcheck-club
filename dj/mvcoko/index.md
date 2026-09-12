@@ -1,6 +1,6 @@
 # Mvcoko
 
-Mvcoko is a Techno and Hardcore artist with 1 upcoming club date listed on soundcheck as of Fri, 11 Sept 2026, next at Vespers Club, London on Fri, 25 Sept 2026.
+Mvcoko is a Techno and Hardcore artist with 1 upcoming club date listed on soundcheck as of Sat, 12 Sept 2026, next at Vespers Club, London on Fri, 25 Sept 2026.
 
 Mvcoko is a techno and hardcore artist tracked on soundcheck, with 48 sets logged across Berlin, Bristol, Glasgow and Leeds and 3 more. Often billed alongside Blood of Aza, KLAUDIO and KAVARI. Next up: Vespers Club, London on Fri 25 Sept.
 
@@ -25,4 +25,4 @@ Mvcoko is a techno and hardcore artist tracked on soundcheck, with 48 sets logge
 
 Blood of Aza, KLAUDIO, KAVARI
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mvcoko/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mvcoko/)*

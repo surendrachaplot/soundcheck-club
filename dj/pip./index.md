@@ -1,8 +1,8 @@
 # PIP.
 
-PIP. is a House and Electro artist with 4 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at The Berkeley Suite, Glasgow on Fri, 11 Sept 2026.
+PIP. is a House and Electro artist with 5 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at The Berkeley Suite, Glasgow on Fri, 11 Sept 2026.
 
-PIP. is a house and electro artist tracked on soundcheck, with 43 sets logged across Amsterdam, Glasgow, London and Manchester and 2 more. Often billed alongside Weston, Westy and FroD. Next up: The Berkeley Suite, Glasgow on Fri 11 Sept.
+PIP. is a house and electro artist tracked on soundcheck, with 44 sets logged across Amsterdam, Glasgow, London and Manchester and 2 more. Often billed alongside Weston, Westy and FroD. Next up: The Berkeley Suite, Glasgow on Fri 11 Sept.
 
 ## Upcoming shows
 
@@ -11,10 +11,12 @@ PIP. is a house and electro artist tracked on soundcheck, with 43 sets logged ac
 | Fri, 11 Sept 2026 | The Berkeley Suite | Glasgow |
 | Sat, 24 Oct 2026 | Ouseburn Garden | Newcastle |
 | Sat, 24 Oct 2026 | Cobalt Studios | Newcastle |
+| Fri, 13 Nov 2026 | The Berkeley Suite | Glasgow |
 | Sat, 14 Nov 2026 | Cobalt Studios | Newcastle |
 
 ## Recently played
 
+- The Berkeley Suite, Glasgow — Fri, 11 Sept 2026
 - Cobalt Studios, Newcastle — Sun, 30 Aug 2026
 - Ernest, Newcastle — Wed, 26 Aug 2026
 - Ernest, Newcastle — Fri, 31 Jul 2026
@@ -22,10 +24,9 @@ PIP. is a house and electro artist tracked on soundcheck, with 43 sets logged ac
 - Eastern Bloc Records, Manchester — Fri, 29 May 2026
 - Cobalt Studios, Newcastle — Sat, 23 May 2026
 - Cobalt Studios, Newcastle — Sat, 23 May 2026
-- Solace, Melbourne — Wed, 26 Nov 2025
 
 ## Shares bills with
 
 Weston, Westy, FroD
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/pip./)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/pip./)*

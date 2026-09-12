@@ -1,6 +1,6 @@
 # Adam Cloud
 
-Adam Cloud is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at Czech Boat, Prague on Sat, 19 Sept 2026.
+Adam Cloud is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Czech Boat, Prague on Sat, 19 Sept 2026.
 
 Adam Cloud is a house and tech house artist based in Czech Republic, tracked on soundcheck, with 8 sets logged across Prague. Often billed alongside Pete Walk, Indigo (CR) and Danilo Kupfernagel. Next up: Czech Boat, Prague on Sat 19 Sept.
 
@@ -24,4 +24,4 @@ Adam Cloud is a house and tech house artist based in Czech Republic, tracked on 
 
 Pete Walk, Indigo (CR), Danilo Kupfernagel
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/adamcloud/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/adamcloud/)*

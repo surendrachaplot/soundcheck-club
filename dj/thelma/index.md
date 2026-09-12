@@ -1,8 +1,8 @@
 # THELMA
 
-THELMA is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at TBA - Brussels, Brussels on Fri, 11 Sept 2026.
+THELMA is a Techno and House artist with 7 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at TBA - Brussels, Brussels on Fri, 11 Sept 2026.
 
-THELMA is a techno and house artist tracked on soundcheck, with 96 sets logged across Aberdeen, Amsterdam, Antwerp and Barcelona and 34 more. Often billed alongside Faster Horses, Skin On Skin and Helena Lauwaert. Next up: TBA - Brussels, Brussels on Fri 11 Sept.
+THELMA is a techno and house artist tracked on soundcheck, with 97 sets logged across Aberdeen, Amsterdam, Antwerp and Barcelona and 34 more. Often billed alongside Skin On Skin, Faster Horses and Helena Lauwaert. Next up: TBA - Brussels, Brussels on Fri 11 Sept.
 
 ## Upcoming shows
 
@@ -11,12 +11,14 @@ THELMA is a techno and house artist tracked on soundcheck, with 96 sets logged a
 | Fri, 11 Sept 2026 | TBA - Brussels | Brussels |
 | Fri, 18 Sept 2026 | Openluchttheater Amersfoort | Amsterdam |
 | Sat, 19 Sept 2026 | Club Vaag | Antwerp |
+| Sat, 26 Sept 2026 | Le Sucre | Lyon |
 | Sat, 24 Oct 2026 | Lofi | Amsterdam |
 | Sat, 24 Oct 2026 | Levenslang Amsterdam | Amsterdam |
 | Fri, 27 Nov 2026 | Lardner Park | Melbourne |
 
 ## Recently played
 
+- TBA - Brussels, Brussels — Fri, 11 Sept 2026
 - Badaboum, Paris — Fri, 4 Sept 2026
 - Gianpula Village, Malta — Wed, 12 Aug 2026
 - Palmerstown House Estate, Dublin — Sun, 2 Aug 2026
@@ -24,10 +26,9 @@ THELMA is a techno and house artist tracked on soundcheck, with 96 sets logged a
 - Soup, Manchester — Fri, 24 Jul 2026
 - La Terrrazza, Barcelona — Thu, 23 Jul 2026
 - Silverworks Island, London — Sun, 12 Jul 2026
-- Razzmatazz, Barcelona — Fri, 3 Jul 2026
 
 ## Shares bills with
 
-Faster Horses, Skin On Skin, Helena Lauwaert
+Skin On Skin, Faster Horses, Helena Lauwaert
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/thelma/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/thelma/)*

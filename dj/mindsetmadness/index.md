@@ -1,6 +1,6 @@
 # Mindset Madness
 
-Mindset Madness is a Electro and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 11 Sept 2026, next at 33/45 Club, Valencia on Fri, 18 Sept 2026.
+Mindset Madness is a Electro and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 12 Sept 2026, next at 33/45 Club, Valencia on Fri, 18 Sept 2026.
 
 Mindset Madness is an electro and techno artist tracked on soundcheck, with 7 sets logged across Madrid and Valencia. Often billed alongside DHERMIDA, DIGUES and Detroit Techno Militia 2x4. Next up: 33/45 Club, Valencia on Fri 18 Sept.
 
@@ -23,4 +23,4 @@ Mindset Madness is an electro and techno artist tracked on soundcheck, with 7 se
 
 DHERMIDA, DIGUES, Detroit Techno Militia 2x4
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mindsetmadness/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mindsetmadness/)*

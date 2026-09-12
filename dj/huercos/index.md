@@ -1,6 +1,6 @@
 # Huerco S.
 
-Huerco S. is a Ambient and Experimental artist with 2 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at TBA - Multiple Historic Venues - Manhattan & Brooklyn, New York City on Fri, 25 Sept 2026.
+Huerco S. is a Ambient and Experimental artist with 2 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at TBA - Multiple Historic Venues - Manhattan & Brooklyn, New York City on Fri, 25 Sept 2026.
 
 Huerco S. is an ambient and experimental artist tracked on soundcheck, with 60 sets logged across Amsterdam, Austin, Barcelona and Berlin and 23 more. Often billed alongside Loidis, Crystallmess and Kode9. Next up: TBA - Multiple Historic Venues - Manhattan & Brooklyn, Newyorkcity on Fri 25 Sept.
 
@@ -26,4 +26,4 @@ Huerco S. is an ambient and experimental artist tracked on soundcheck, with 60 s
 
 Loidis, Crystallmess, Kode9
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/huercos/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/huercos/)*

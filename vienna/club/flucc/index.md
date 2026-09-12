@@ -1,6 +1,6 @@
 # FLUCC
 
-FLUCC is a music venue in Vienna with 9 upcoming nights listed on soundcheck as of Fri, 11 Sept 2026; the next is "FIFI Rave" on Sat, 12 Sept 2026.
+FLUCC is a music venue in Vienna with 9 upcoming nights listed on soundcheck as of Sat, 12 Sept 2026; the next is "FIFI Rave" on Sat, 12 Sept 2026.
 
 FLUCC is a music venue in Vienna listed on soundcheck. 9 upcoming nights, with line-ups including A.Pringle, adrialin, Ele Luz and Franjazzco and 2 more. Browse upcoming dates, start times and who's playing. Praterstern 5; Vienna 1020; Austria.
 
@@ -22,4 +22,4 @@ FLUCC is a music venue in Vienna listed on soundcheck. 9 upcoming nights, with l
 
 Praterstern 5; Vienna 1020; Austria, Vienna
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/vienna/club/flucc/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/vienna/club/flucc/)*

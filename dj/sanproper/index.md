@@ -1,6 +1,6 @@
 # San Proper
 
-San Proper is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Fri, 11 Sept 2026, next at Onder Hans, Amsterdam on Thu, 17 Sept 2026.
+San Proper is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Sat, 12 Sept 2026, next at Onder Hans, Amsterdam on Thu, 17 Sept 2026.
 
 San Proper is a house and disco artist tracked on soundcheck, with 55 sets logged across Amsterdam, Antwerp, Bangkok and Belgrade and 21 more. Often billed alongside Aron Friedman, Club Warme Deken and DE FEO. Next up: Onder Hans, Amsterdam on Thu 17 Sept.
 
@@ -25,4 +25,4 @@ San Proper is a house and disco artist tracked on soundcheck, with 55 sets logge
 
 Aron Friedman, Club Warme Deken, DE FEO
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sanproper/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sanproper/)*

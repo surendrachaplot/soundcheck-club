@@ -1,6 +1,6 @@
 # Andy Soul
 
-Andy Soul is a Bass and Dubstep artist with 2 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at underiolo, Warsaw on Sat, 19 Sept 2026.
+Andy Soul is a Bass and Dubstep artist with 2 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at underiolo, Warsaw on Sat, 19 Sept 2026.
 
 Andy Soul is a bass and dubstep artist based in Poland, tracked on soundcheck, with 4 sets logged across Warsaw. Often billed alongside BROTHER TIM, HOLLY MOLLY (BY) and KUMITE. Next up: underiolo, Warsaw on Sat 19 Sept.
 
@@ -20,4 +20,4 @@ Andy Soul is a bass and dubstep artist based in Poland, tracked on soundcheck, w
 
 BROTHER TIM, HOLLY MOLLY (BY), KUMITE
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/andysoul/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/andysoul/)*

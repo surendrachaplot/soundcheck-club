@@ -1,6 +1,6 @@
 # DJ Fleg
 
-DJ Fleg is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Fri, 11 Sept 2026, next at Arcana, San Francisco/Oakland on Sat, 19 Sept 2026.
+DJ Fleg is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Sat, 12 Sept 2026, next at Arcana, San Francisco/Oakland on Sat, 19 Sept 2026.
 
 DJ Fleg is a house and disco artist tracked on soundcheck, with 9 sets logged across Detroit, Newyorkcity, Sanfrancisco and Washingtondc. Often billed alongside Abraham Othwell, Alissa Brianna and Arjun Shah. Next up: Arcana, Sanfrancisco on Sat 19 Sept.
 
@@ -25,4 +25,4 @@ DJ Fleg is a house and disco artist tracked on soundcheck, with 9 sets logged ac
 
 Abraham Othwell, Alissa Brianna, Arjun Shah
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djfleg/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djfleg/)*

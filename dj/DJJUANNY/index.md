@@ -1,6 +1,6 @@
 # DJ JUANNY
 
-DJ JUANNY is a Club and Latin Bass artist with 2 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at Bar Part Time, San Francisco/Oakland on Sat, 19 Sept 2026.
+DJ JUANNY is a Club and Latin Bass artist with 2 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Bar Part Time, San Francisco/Oakland on Sat, 19 Sept 2026.
 
 DJ JUANNY is a club and latin bass artist based in United States of America, tracked on soundcheck, with 123 sets logged across Losangeles, Miami and Sanfrancisco. Often billed alongside RITCHRD, Yuca Frita and Discnogirl. Next up: Bar Part Time, Sanfrancisco on Sat 19 Sept.
 
@@ -26,4 +26,4 @@ DJ JUANNY is a club and latin bass artist based in United States of America, tra
 
 RITCHRD, Yuca Frita, Discnogirl
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/DJJUANNY/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/DJJUANNY/)*

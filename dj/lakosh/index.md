@@ -1,6 +1,6 @@
 # La Kosh
 
-La Kosh is a Italo Disco and Minimal artist with 1 upcoming club date listed on soundcheck as of Fri, 11 Sept 2026, next at TBA - secret location, Barcelona on Fri, 25 Sept 2026.
+La Kosh is a Italo Disco and Minimal artist with 1 upcoming club date listed on soundcheck as of Sat, 12 Sept 2026, next at TBA - secret location, Barcelona on Fri, 25 Sept 2026.
 
 La Kosh is an italo disco and minimal artist based in Italy, tracked on soundcheck, with 26 sets logged across Barcelona. Often billed alongside ROSS z, DD.MATTS and Freeka. Next up: TBA - secret location, Barcelona on Fri 25 Sept.
 
@@ -25,4 +25,4 @@ La Kosh is an italo disco and minimal artist based in Italy, tracked on soundche
 
 ROSS z, DD.MATTS, Freeka
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lakosh/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lakosh/)*

@@ -1,6 +1,6 @@
 # Patch+
 
-Patch+ is a Experimental and Electro artist with 5 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at Le Bain, New York City on Sat, 12 Sept 2026.
+Patch+ is a Experimental and Electro artist with 5 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Le Bain, New York City on Sat, 12 Sept 2026.
 
 Patch+ is an experimental and electro artist based in United States of America, tracked on soundcheck, with 15 sets logged across Berlin, Brussels, London and Losangeles and 5 more. Often billed alongside Deer park, AYEGY and B0YG1RL. Next up: Le Bain, Newyorkcity on Sat 12 Sept.
 
@@ -29,4 +29,4 @@ Patch+ is an experimental and electro artist based in United States of America, 
 
 Deer park, AYEGY, B0YG1RL
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/patch/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/patch/)*

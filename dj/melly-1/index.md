@@ -1,6 +1,6 @@
 # Melly (1)
 
-Melly (1) is a House and Dancehall artist with 1 upcoming club date listed on soundcheck as of Fri, 11 Sept 2026, next at The Orange Room, London on Sat, 24 Oct 2026.
+Melly (1) is a House and Dancehall artist with 1 upcoming club date listed on soundcheck as of Sat, 12 Sept 2026, next at The Orange Room, London on Sat, 24 Oct 2026.
 
 Melly (1) is a house and dancehall artist tracked on soundcheck, with 14 sets logged across Glasgow, London and Oslo. Often billed alongside AUDIO DUNE, warmluke and DJoe. Next up: The Orange Room, London on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ Melly (1) is a house and dancehall artist tracked on soundcheck, with 14 sets lo
 
 AUDIO DUNE, warmluke, DJoe
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/melly-1/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/melly-1/)*

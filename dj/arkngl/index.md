@@ -1,6 +1,6 @@
 # ARKNGL
 
-ARKNGL is a Jungle and Club artist with 1 upcoming club date listed on soundcheck as of Fri, 11 Sept 2026, next at The Haggerston, London on Fri, 18 Sept 2026.
+ARKNGL is a Jungle and Club artist with 1 upcoming club date listed on soundcheck as of Sat, 12 Sept 2026, next at The Haggerston, London on Fri, 18 Sept 2026.
 
 ARKNGL is a jungle and club artist tracked on soundcheck, with 12 sets logged across London. Often billed alongside BBSHKALES, SALD3E and XT1ANA. Next up: The Haggerston, London on Fri 18 Sept.
 
@@ -25,4 +25,4 @@ ARKNGL is a jungle and club artist tracked on soundcheck, with 12 sets logged ac
 
 BBSHKALES, SALD3E, XT1ANA
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/arkngl/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/arkngl/)*

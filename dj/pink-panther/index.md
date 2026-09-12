@@ -1,8 +1,8 @@
 # pink-panther
 
-pink-panther is a Techno and Tech House artist with 3 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at Sensorium, Berlin on Wed, 23 Sept 2026.
+pink-panther is a Techno and Tech House artist with 4 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Sensorium, Berlin on Wed, 23 Sept 2026.
 
-pink-panther is a techno and tech house artist tracked on soundcheck, with 45 sets logged across Berlin. Often billed alongside UniKhatu, Rovin and Ilyas S. Next up: Sensorium, Berlin on Wed 23 Sept.
+pink-panther is a techno and tech house artist tracked on soundcheck, with 46 sets logged across Berlin. Often billed alongside UniKhatu, Rovin and Ilyas S. Next up: Sensorium, Berlin on Wed 23 Sept.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ pink-panther is a techno and tech house artist tracked on soundcheck, with 45 se
 | --- | --- | --- |
 | Wed, 23 Sept 2026 | Sensorium | Berlin |
 | Fri, 2 Oct 2026 | Crack Bellmer | Berlin |
+| Wed, 28 Oct 2026 | Sensorium | Berlin |
 | Sat, 31 Oct 2026 | Sensorium | Berlin |
 
 ## Recently played
@@ -27,4 +28,4 @@ pink-panther is a techno and tech house artist tracked on soundcheck, with 45 se
 
 UniKhatu, Rovin, Ilyas S
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/pink-panther/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/pink-panther/)*

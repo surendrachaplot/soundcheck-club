@@ -1,6 +1,6 @@
 # Budapest Park
 
-Budapest Park is a music venue in Budapest with 4 upcoming nights listed on soundcheck as of Fri, 11 Sept 2026; the next is "Pure Lust x LavaLava with Áme (DE) ⏾ Nights of Budapest Park" on Fri, 11 Sept 2026.
+Budapest Park is a music venue in Budapest with 4 upcoming nights listed on soundcheck as of Sat, 12 Sept 2026; the next is "Pure Lust x LavaLava with Áme (DE) ⏾ Nights of Budapest Park" on Fri, 11 Sept 2026.
 
 Budapest Park is a music venue in Budapest listed on soundcheck. 4 upcoming nights, with line-ups including ädene, Âme, Kamafaka and Ű999. Browse upcoming dates, start times and who's playing. 1095 Budapest, Fábián Juli tér 1..
 
@@ -17,4 +17,4 @@ Budapest Park is a music venue in Budapest listed on soundcheck. 4 upcoming nigh
 
 1095 Budapest, Fábián Juli tér 1., Budapest
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/budapest/club/budapest-park/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/budapest/club/budapest-park/)*

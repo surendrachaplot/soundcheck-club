@@ -1,6 +1,6 @@
 # Ministerium Club
 
-Ministerium Club is a music venue in Lisbon with 10 upcoming nights listed on soundcheck as of Fri, 11 Sept 2026; the next is "Ministerium Club // Kaeser, Cruz, Benn, Mimi & More" on Fri, 11 Sept 2026.
+Ministerium Club is a music venue in Lisbon with 10 upcoming nights listed on soundcheck as of Sat, 12 Sept 2026; the next is "Ministerium Club // Kaeser, Cruz, Benn, Mimi & More" on Fri, 11 Sept 2026.
 
 Ministerium Club is a music venue in Lisbon listed on soundcheck. 10 upcoming nights, with line-ups including aalice, BLEID, Bruno Curtis and Client and 2 more. Browse upcoming dates, start times and who's playing. Praça Comércio 72, 1100-148, Lisboa, Portugal.
 
@@ -23,4 +23,4 @@ Ministerium Club is a music venue in Lisbon listed on soundcheck. 10 upcoming ni
 
 Praça Comércio 72, 1100-148, Lisboa, Portugal, Lisbon
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/lisbon/club/ministerium-club/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/lisbon/club/ministerium-club/)*

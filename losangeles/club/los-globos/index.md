@@ -1,6 +1,6 @@
 # Los Globos
 
-Los Globos is a music venue in Los Angeles with 5 upcoming nights listed on soundcheck as of Fri, 11 Sept 2026; the next is "Robyn: The Sexistential Afterparty LA (presented by Hood Rave) " on Thu, 24 Sept 2026.
+Los Globos is a music venue in Los Angeles with 5 upcoming nights listed on soundcheck as of Sat, 12 Sept 2026; the next is "Robyn: The Sexistential Afterparty LA (presented by Hood Rave) " on Thu, 24 Sept 2026.
 
 Los Globos is a music venue in Losangeles listed on soundcheck. 5 upcoming nights, with line-ups including Anastazja, BAE BAE, bahar khadem and BROWNSKINHAZEL and 2 more. Browse upcoming dates, start times and who's playing. 3040 W Sunset Blvd Los Angeles, CA 90026.
 
@@ -18,4 +18,4 @@ Los Globos is a music venue in Losangeles listed on soundcheck. 5 upcoming night
 
 3040 W Sunset Blvd Los Angeles, CA 90026, Los Angeles
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/los-globos/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/los-globos/)*

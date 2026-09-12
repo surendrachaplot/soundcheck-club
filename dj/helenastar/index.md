@@ -1,6 +1,6 @@
 # Heléna Star
 
-Heléna Star is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at Night Tales Loft, London on Sat, 17 Oct 2026.
+Heléna Star is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Night Tales Loft, London on Sat, 17 Oct 2026.
 
 Heléna Star is a house and techno artist tracked on soundcheck, with 51 sets logged across Amsterdam, Berlin, Bristol and Brussels and 2 more. Often billed alongside Jaye Ward, Michelle Manetti and Louise Chen. Next up: Night Tales Loft, London on Sat 17 Oct.
 
@@ -26,4 +26,4 @@ Heléna Star is a house and techno artist tracked on soundcheck, with 51 sets lo
 
 Jaye Ward, Michelle Manetti, Louise Chen
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/helenastar/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/helenastar/)*

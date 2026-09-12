@@ -1,6 +1,6 @@
 # Woo (3)
 
-Woo (3) is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 11 Sept 2026, next at UTOPIA / DYSTOPIA, Tokyo on Sun, 20 Sept 2026.
+Woo (3) is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 12 Sept 2026, next at UTOPIA / DYSTOPIA, Tokyo on Sun, 20 Sept 2026.
 
 Woo (3) is a house and techno artist tracked on soundcheck, with 14 sets logged across Sanfrancisco and Tokyo. Often billed alongside Eichef, Jimmy B and Zoz. Next up: UTOPIA / DYSTOPIA, Tokyo on Sun 20 Sept.
 
@@ -25,4 +25,4 @@ Woo (3) is a house and techno artist tracked on soundcheck, with 14 sets logged 
 
 Eichef, Jimmy B, Zoz
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/woo-3/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/woo-3/)*

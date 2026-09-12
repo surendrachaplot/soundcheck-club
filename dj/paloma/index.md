@@ -1,6 +1,6 @@
 # Paloma
 
-Paloma is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at Akasha Las Dalias Club - Ibiza, Ibiza on Sun, 27 Sept 2026.
+Paloma is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Akasha Las Dalias Club - Ibiza, Ibiza on Sun, 27 Sept 2026.
 
 Paloma is a house and disco artist tracked on soundcheck, with 16 sets logged across Berlin, Buenosaires, Ibiza and Madrid and 8 more. Often billed alongside ADO (DE), Acid Arab and Add FM. Next up: Akasha Las Dalias Club - Ibiza, Ibiza on Sun 27 Sept.
 
@@ -26,4 +26,4 @@ Paloma is a house and disco artist tracked on soundcheck, with 16 sets logged ac
 
 ADO (DE), Acid Arab, Add FM
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/paloma/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/paloma/)*

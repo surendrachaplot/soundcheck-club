@@ -1,6 +1,6 @@
 # MC DT
 
-MC DT is a Garage and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at Night Tales, London on Sat, 14 Nov 2026.
+MC DT is a Garage and House artist with 2 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Night Tales, London on Sat, 14 Nov 2026.
 
 MC DT is a garage and house artist based in United Kingdom, tracked on soundcheck, with 32 sets logged across Birmingham, Leeds, London and Manchester. Often billed alongside MC CKP, MC Creed and Matt Jam Lamont. Next up: Night Tales, London on Sat 14 Nov.
 
@@ -26,4 +26,4 @@ MC DT is a garage and house artist based in United Kingdom, tracked on soundchec
 
 MC CKP, MC Creed, Matt Jam Lamont
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mcdt/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mcdt/)*

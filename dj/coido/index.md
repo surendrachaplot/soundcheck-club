@@ -1,6 +1,6 @@
 # COIDO
 
-COIDO is a Dubstep and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 11 Sept 2026, next at ÆDEN, Berlin on Fri, 25 Sept 2026.
+COIDO is a Dubstep and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 12 Sept 2026, next at ÆDEN, Berlin on Fri, 25 Sept 2026.
 
 COIDO is a dubstep and techno artist tracked on soundcheck, with 18 sets logged across Berlin, London, Manchester and Milan and 3 more. Often billed alongside Delta Division, Dub Isotope and Ivy Lab. Next up: ÆDEN, Berlin on Fri 25 Sept.
 
@@ -25,4 +25,4 @@ COIDO is a dubstep and techno artist tracked on soundcheck, with 18 sets logged 
 
 Delta Division, Dub Isotope, Ivy Lab
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/coido/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/coido/)*

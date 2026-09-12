@@ -1,6 +1,6 @@
 # Lino Fuso
 
-Lino Fuso is a Techno and Tech House artist with 3 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at E1, London on Fri, 23 Oct 2026.
+Lino Fuso is a Techno and Tech House artist with 3 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at E1, London on Fri, 23 Oct 2026.
 
 Lino Fuso is a techno and tech house artist tracked on soundcheck, with 65 sets logged across Amsterdam, Barcelona, Berlin and Buenosaires and 8 more. Often billed alongside Cambric, Alex Sharp and ADRIANNA. Next up: E1, London on Fri 23 Oct.
 
@@ -27,4 +27,4 @@ Lino Fuso is a techno and tech house artist tracked on soundcheck, with 65 sets 
 
 Cambric, Alex Sharp, ADRIANNA
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/linofuso/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/linofuso/)*

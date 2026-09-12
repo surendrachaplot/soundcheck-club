@@ -1,6 +1,6 @@
 # Klub Kaos at Moon Club
 
-Klub Kaos at Moon Club on Thu 17 Sept, Bristol. 5 acts on the bill: Kyle Starkey, MTOM, Neil And I and ROWANA and 1 more. Trance and House. Preview the line-up and save it on soundcheck.
+Klub Kaos at Moon Club on Thu 17 Sept, Bristol. 5 acts on the bill: Kyle Starkey, MTOM, Neil And I and ROWANA and 1 more. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

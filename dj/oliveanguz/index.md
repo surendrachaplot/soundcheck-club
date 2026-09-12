@@ -1,6 +1,6 @@
 # Olive Anguz
 
-Olive Anguz is a Trance and House artist with 5 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at GASHOUDER, Amsterdam on Wed, 21 Oct 2026.
+Olive Anguz is a Trance and House artist with 5 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at GASHOUDER, Amsterdam on Wed, 21 Oct 2026.
 
 Olive Anguz is a trance and house artist based in Netherlands, tracked on soundcheck, with 8 sets logged across Amsterdam, Rotterdam, Thehague and Utrecht. Often billed alongside Benwal, Mika Heggemann and NewTone. Next up: GASHOUDER, Amsterdam on Wed 21 Oct.
 
@@ -24,4 +24,4 @@ Olive Anguz is a trance and house artist based in Netherlands, tracked on soundc
 
 Benwal, Mika Heggemann, NewTone
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/oliveanguz/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/oliveanguz/)*

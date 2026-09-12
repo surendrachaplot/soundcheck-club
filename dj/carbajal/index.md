@@ -1,6 +1,6 @@
 # Carbajal
 
-Carbajal is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Fri, 11 Sept 2026, next at Skylight Warehouse, Vancouver on Fri, 18 Sept 2026.
+Carbajal is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Sat, 12 Sept 2026, next at Skylight Warehouse, Vancouver on Fri, 18 Sept 2026.
 
 Carbajal is a techno and tech house artist tracked on soundcheck, with 13 sets logged across Mexicocity and Vancouver. Often billed alongside Enya Botello, Adriana Roma and Celice Monnette. Next up: Skylight Warehouse, Vancouver on Fri 18 Sept.
 
@@ -25,4 +25,4 @@ Carbajal is a techno and tech house artist tracked on soundcheck, with 13 sets l
 
 Enya Botello, Adriana Roma, Celice Monnette
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/carbajal/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/carbajal/)*

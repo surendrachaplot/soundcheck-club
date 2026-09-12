@@ -1,6 +1,6 @@
 # Jun Wan
 
-Jun Wan is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at Cockatoo Island, Sydney on Sun, 4 Oct 2026.
+Jun Wan is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Cockatoo Island, Sydney on Sun, 4 Oct 2026.
 
 Jun Wan is a techno and house artist based in Australia, tracked on soundcheck, with 9 sets logged across Sydney. Often billed alongside Assembler Code, Lorna Clarkson and N3BULA. Next up: Cockatoo Island, Sydney on Sun 4 Oct.
 
@@ -25,4 +25,4 @@ Jun Wan is a techno and house artist based in Australia, tracked on soundcheck, 
 
 Assembler Code, Lorna Clarkson, N3BULA
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/junwan/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/junwan/)*

@@ -1,6 +1,6 @@
 # Acid Pauli
 
-Acid Pauli is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 11 Sept 2026, next at Nordstern, Basel on Sat, 17 Oct 2026.
+Acid Pauli is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 12 Sept 2026, next at Nordstern, Basel on Sat, 17 Oct 2026.
 
 Acid Pauli is a house and techno artist tracked on soundcheck, with 98 sets logged across Amsterdam, Antwerp, Bali and Barcelona and 34 more. Often billed alongside Viken Arman, Damian Lazarus and Jonathan Kaspar. Next up: Nordstern, Basel on Sat 17 Oct.
 
@@ -25,4 +25,4 @@ Acid Pauli is a house and techno artist tracked on soundcheck, with 98 sets logg
 
 Viken Arman, Damian Lazarus, Jonathan Kaspar
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/acidpauli/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/acidpauli/)*

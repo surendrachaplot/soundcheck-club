@@ -1,6 +1,6 @@
 # Gloria Rose
 
-Gloria Rose is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at FOLD, London on Sat, 12 Sept 2026.
+Gloria Rose is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at FOLD, London on Sat, 12 Sept 2026.
 
 Gloria Rose is a techno and house artist tracked on soundcheck, with 53 sets logged across Amsterdam, Barcelona, Berlin and Brighton and 4 more. Often billed alongside Nina Pixina, Amphia and RayRay. Next up: FOLD, London on Sat 12 Sept.
 
@@ -28,4 +28,4 @@ Gloria Rose is a techno and house artist tracked on soundcheck, with 53 sets log
 
 Nina Pixina, Amphia, RayRay
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/gloriarose/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/gloriarose/)*

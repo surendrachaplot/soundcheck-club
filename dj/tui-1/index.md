@@ -1,6 +1,6 @@
 # Tui (1)
 
-Tui (1) is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at Area_osaka, Osaka on Fri, 11 Sept 2026.
+Tui (1) is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Area_osaka, Osaka on Fri, 11 Sept 2026.
 
 Tui (1) is a techno and house artist based in Japan, tracked on soundcheck, with 26 sets logged across Kyoto, Osaka and Tokyo. Often billed alongside Eichi Abe, GAKUTO(TOKYO) and Lewo Chyba. Next up: Area_osaka, Osaka on Fri 11 Sept.
 
@@ -14,6 +14,7 @@ Tui (1) is a techno and house artist based in Japan, tracked on soundcheck, with
 
 ## Recently played
 
+- Area_osaka, Osaka — Fri, 11 Sept 2026
 - Enter Shibuya, Tokyo — Wed, 12 Aug 2026
 - Club Metro, Kyoto — Sat, 8 Aug 2026
 - West Harlem, Kyoto — Sun, 19 Jul 2026
@@ -21,10 +22,9 @@ Tui (1) is a techno and house artist based in Japan, tracked on soundcheck, with
 - Club Metro, Kyoto — Fri, 22 May 2026
 - rake?raka?, Osaka — Mon, 18 May 2026
 - rake?raka?, Osaka — Tue, 5 May 2026
-- Blvck Water, Osaka — Sun, 3 May 2026
 
 ## Shares bills with
 
 Eichi Abe, GAKUTO(TOKYO), Lewo Chyba
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tui-1/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tui-1/)*

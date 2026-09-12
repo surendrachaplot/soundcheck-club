@@ -1,6 +1,6 @@
 # SuperNova (US)
 
-SuperNova (US) is a Amapiano and Dancehall artist with 1 upcoming club date listed on soundcheck as of Fri, 11 Sept 2026, next at The Moroccan Lounge, Los Angeles on Sat, 12 Sept 2026.
+SuperNova (US) is a Amapiano and Dancehall artist with 1 upcoming club date listed on soundcheck as of Sat, 12 Sept 2026, next at The Moroccan Lounge, Los Angeles on Sat, 12 Sept 2026.
 
 SuperNova (US) is an amapiano and dancehall artist based in United States of America, tracked on soundcheck, with 30 sets logged across Austin, Losangeles, Mexicocity and Newyorkcity and 2 more. Often billed alongside Falcons, JOAQU.N and Giselle Peppers. Next up: The Moroccan Lounge, Losangeles on Sat 12 Sept.
 
@@ -25,4 +25,4 @@ SuperNova (US) is an amapiano and dancehall artist based in United States of Ame
 
 Falcons, JOAQU.N, Giselle Peppers
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/supernovaus/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/supernovaus/)*

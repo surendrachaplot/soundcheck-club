@@ -1,6 +1,6 @@
 # Anastazja at Flash
 
-Anastazja at Flash on Fri 11 Sept, Washingtondc. 5 acts on the bill: Anastazja, Apollo Dust, Cuedra and Henry P (US) and 1 more. House and Deep House. Preview the line-up and save it on soundcheck.
+Anastazja at Flash on Fri 11 Sept, Washingtondc. 6 acts on the bill: Anastazja, Apollo Dust, Cuedra and Henry P (US) and 2 more. House and Deep House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -15,5 +15,6 @@ Anastazja at Flash on Fri 11 Sept, Washingtondc. 5 acts on the bill: Anastazja, 
 - Cuedra
 - Henry P (US)
 - John Talabot
+- Philip Goyette
 
 *Source: [soundcheck](https://soundcheck.club/e/2488797-anastazja-at-flash/)*

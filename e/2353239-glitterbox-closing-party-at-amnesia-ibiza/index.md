@@ -1,6 +1,6 @@
 # Glitterbox Closing Party at Amnesia Ibiza
 
-Glitterbox Closing Party at Amnesia Ibiza on Fri 9 Oct, Ibiza. 5 acts on the bill: Dimitri From Paris, HoneyLuv, Masters At Work and Melvo Baptiste and 1 more. House. Preview the line-up and save it on soundcheck.
+Glitterbox Closing Party at Amnesia Ibiza on Fri 9 Oct, Ibiza. 8 acts on the bill: Dimitri From Paris, HoneyLuv, Jamie Love and Jorja Smith and 4 more. House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -12,8 +12,11 @@ Glitterbox Closing Party at Amnesia Ibiza on Fri 9 Oct, Ibiza. 5 acts on the bil
 
 - Dimitri From Paris
 - HoneyLuv
+- Jamie Love
+- Jorja Smith
 - Masters At Work
 - Melvo Baptiste
+- Mousse T.
 - Natasha Diggs
 
 *Source: [soundcheck](https://soundcheck.club/e/2353239-glitterbox-closing-party-at-amnesia-ibiza/)*

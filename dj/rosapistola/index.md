@@ -1,8 +1,8 @@
 # Rosa Pistola
 
-Rosa Pistola is a Reggaeton and Latin Bass artist with 3 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at ÆDEN, Berlin on Sat, 19 Sept 2026.
+Rosa Pistola is a Reggaeton and Latin Bass artist with 4 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at ÆDEN, Berlin on Sat, 19 Sept 2026.
 
-Rosa Pistola is a reggaeton and latin bass artist tracked on soundcheck, with 108 sets logged across Amsterdam, Athens, Austin and Bali and 31 more. Often billed alongside Bclip, Freebot and DJ Travella. Next up: ÆDEN, Berlin on Sat 19 Sept.
+Rosa Pistola is a reggaeton and latin bass artist tracked on soundcheck, with 109 sets logged across Amsterdam, Athens, Austin and Bali and 32 more. Often billed alongside Bclip, Freebot and DJ Travella. Next up: ÆDEN, Berlin on Sat 19 Sept.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ Rosa Pistola is a reggaeton and latin bass artist tracked on soundcheck, with 10
 | Sat, 19 Sept 2026 | ÆDEN | Berlin |
 | Sat, 3 Oct 2026 | La Station - Gare des Mines | Paris |
 | Fri, 30 Oct 2026 | Paragon | New York City |
+| Fri, 11 Dec 2026 | Karmen Camina | Strasbourg |
 
 ## Recently played
 
@@ -27,4 +28,4 @@ Rosa Pistola is a reggaeton and latin bass artist tracked on soundcheck, with 10
 
 Bclip, Freebot, DJ Travella
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/rosapistola/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/rosapistola/)*

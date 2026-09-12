@@ -1,6 +1,6 @@
 # AZZOU
 
-AZZOU is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Fri, 11 Sept 2026, next at Aura Shoreditch, London on Sat, 19 Sept 2026.
+AZZOU is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Sat, 12 Sept 2026, next at Aura Shoreditch, London on Sat, 19 Sept 2026.
 
 AZZOU is a tech house and house artist tracked on soundcheck, with 13 sets logged across London. Often billed alongside Francesco Poggi, Enrico Chirchiello and Carlos Martinez. Next up: Aura Shoreditch, London on Sat 19 Sept.
 
@@ -25,4 +25,4 @@ AZZOU is a tech house and house artist tracked on soundcheck, with 13 sets logge
 
 Francesco Poggi, Enrico Chirchiello, Carlos Martinez
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/azzou/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/azzou/)*

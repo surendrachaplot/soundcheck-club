@@ -1,6 +1,6 @@
 # HARD RAVE at Cross Club
 
-HARD RAVE at Cross Club on Sat 12 Sept, Prague. Preview the line-up and save it on soundcheck.
+HARD RAVE at Cross Club on Sat 12 Sept, Prague. Drum & Bass and Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

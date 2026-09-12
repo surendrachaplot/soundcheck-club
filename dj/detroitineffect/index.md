@@ -1,6 +1,6 @@
 # Detroit In Effect
 
-Detroit In Effect is a Techno and Electro artist with 4 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at Bunker, Turin on Sat, 12 Sept 2026.
+Detroit In Effect is a Techno and Electro artist with 4 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Bunker, Turin on Sat, 12 Sept 2026.
 
 Detroit In Effect is a techno and electro artist based in United States of America, tracked on soundcheck, with 108 sets logged across Amsterdam, Antwerp, Austin and Barcelona and 36 more. Often billed alongside Serge, Binh and Morgan. Next up: Bunker, Turin on Sat 12 Sept.
 
@@ -28,4 +28,4 @@ Detroit In Effect is a techno and electro artist based in United States of Ameri
 
 Serge, Binh, Morgan
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/detroitineffect/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/detroitineffect/)*

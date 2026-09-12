@@ -1,6 +1,6 @@
 # Bas Ibellini
 
-Bas Ibellini is a House and Minimal artist with 2 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at Sophie Festival, Malaga on Sat, 19 Sept 2026.
+Bas Ibellini is a House and Minimal artist with 2 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Sophie Festival, Malaga on Sat, 19 Sept 2026.
 
 Bas Ibellini is a house and minimal artist based in United Kingdom, tracked on soundcheck, with 31 sets logged across Bangkok, Barcelona, Berlin and Budapest and 6 more. Often billed alongside Rakim Under, Seth Troxler and Wildealer. Next up: Sophie Festival, Malaga on Sat 19 Sept.
 
@@ -26,4 +26,4 @@ Bas Ibellini is a house and minimal artist based in United Kingdom, tracked on s
 
 Rakim Under, Seth Troxler, Wildealer
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ibellini/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ibellini/)*

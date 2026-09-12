@@ -1,6 +1,6 @@
 # Valentina Magaletti
 
-Valentina Magaletti is a Experimental and Electro artist with 6 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at Sleeping Village, Chicago on Wed, 16 Sept 2026.
+Valentina Magaletti is a Experimental and Electro artist with 6 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Sleeping Village, Chicago on Wed, 16 Sept 2026.
 
 Valentina Magaletti is an experimental and electro artist based in Italy, tracked on soundcheck, with 72 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 25 more. Often billed alongside upsammy, Al Wootton and ojoo. Next up: Sleeping Village, Chicago on Wed 16 Sept.
 
@@ -30,4 +30,4 @@ Valentina Magaletti is an experimental and electro artist based in Italy, tracke
 
 upsammy, Al Wootton, ojoo
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/valentinamagaletti/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/valentinamagaletti/)*

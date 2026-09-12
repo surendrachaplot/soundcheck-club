@@ -1,6 +1,6 @@
 # NAD!NE
 
-NAD!NE is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 11 Sept 2026, next at Jalousy, Brussels on Sat, 12 Sept 2026.
+NAD!NE is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 12 Sept 2026, next at Jalousy, Brussels on Sat, 12 Sept 2026.
 
 NAD!NE is a techno and house artist based in Lebanon, tracked on soundcheck, with 25 sets logged across Berlin, Brussels and Zurich. Often billed alongside DECONOFF, DJ Jordan and Sopar. Next up: Jalousy, Brussels on Sat 12 Sept.
 
@@ -25,4 +25,4 @@ NAD!NE is a techno and house artist based in Lebanon, tracked on soundcheck, wit
 
 DECONOFF, DJ Jordan, Sopar
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nad!ne/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nad!ne/)*

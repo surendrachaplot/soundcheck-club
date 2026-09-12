@@ -1,6 +1,6 @@
 # INDACID
 
-INDACID is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at Tresor / Globus, Berlin on Wed, 30 Sept 2026.
+INDACID is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Tresor / Globus, Berlin on Wed, 30 Sept 2026.
 
 INDACID is a techno and house artist based in Germany, tracked on soundcheck, with 2 sets logged across Berlin. Often billed alongside Auryn, MIHEMI and Miss Italia. Next up: Tresor / Globus, Berlin on Wed 30 Sept.
 
@@ -15,4 +15,4 @@ INDACID is a techno and house artist based in Germany, tracked on soundcheck, wi
 
 Auryn, MIHEMI, Miss Italia
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/indacid/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/indacid/)*

@@ -1,15 +1,14 @@
 # Oxford Art Factory
 
-Oxford Art Factory is a music venue in Sydney with 15 upcoming nights listed on soundcheck as of Fri, 11 Sept 2026; the next is "Gallery Pres: O'Flynn" on Fri, 11 Sept 2026.
+Oxford Art Factory is a music venue in Sydney with 14 upcoming nights listed on soundcheck as of Sat, 12 Sept 2026; the next is "Gallery Pres: O'Flynn" on Fri, 11 Sept 2026.
 
-Oxford Art Factory is a music venue in Sydney listed on soundcheck. 15 upcoming nights, with line-ups including Acidfairy, Alan Fitzpatrick, Allen Cedano and ANXHELA and 2 more. Browse upcoming dates, start times and who's playing. 38-46 Oxford St; Darlinghurst NSW 2010.
+Oxford Art Factory is a music venue in Sydney listed on soundcheck. 14 upcoming nights, with line-ups including Alan Fitzpatrick, Allen Cedano, ANXHELA and BOLT and 2 more. Browse upcoming dates, start times and who's playing. 38-46 Oxford St; Darlinghurst NSW 2010.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
 | Fri, 11 Sept 2026 | Gallery Pres: O'Flynn | O'Flynn |
-| Fri, 11 Sept 2026 | Effraid | Acidfairy, SEM4N |
 | Sat, 12 Sept 2026 | Pola & Bryson – Australian Tour - Sydney | Pola & Bryson |
 | Sat, 19 Sept 2026 | Berlin Rave (Sydney) ft ANXHELA (Italy) | ANXHELA, Allen Cedano, KAYA (AU) |
 | Wed, 23 Sept 2026 | Clementine Douglas |  |
@@ -18,9 +17,10 @@ Oxford Art Factory is a music venue in Sydney listed on soundcheck. 15 upcoming 
 | Sat, 10 Oct 2026 | clipp.art & WIP Music present Rich Medina (USA) | Jane Decks, Mikekon, Rich Medina |
 | Wed, 21 Oct 2026 | Jazz re:freshed presents: Theon Cross + Summer Pearl |  |
 | Fri, 23 Oct 2026 | Soul Wun - SYDNEY - Oxford Art Factory | Soul Wun |
+| Fri, 30 Oct 2026 | Dam Swindle (Heist Recordings, NL) | BOLT, Dam Swindle, MILLA, flik |
 
 ## Address
 
 38-46 Oxford St; Darlinghurst NSW 2010, Sydney
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/sydney/club/oxford-art-factory/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/sydney/club/oxford-art-factory/)*

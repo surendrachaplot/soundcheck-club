@@ -1,6 +1,6 @@
 # ELASI
 
-ELASI is a House and Electronica artist with 1 upcoming club date listed on soundcheck as of Fri, 11 Sept 2026, next at Palazzo Delle Esposizioni, Rome on Thu, 17 Sept 2026.
+ELASI is a House and Electronica artist with 1 upcoming club date listed on soundcheck as of Sat, 12 Sept 2026, next at Palazzo Delle Esposizioni, Rome on Thu, 17 Sept 2026.
 
 ELASI is a house and electronica artist tracked on soundcheck, with 14 sets logged across Berlin, Mexicocity, Milan and Rome. Often billed alongside Marquis, Populous and ABadillo. Next up: Palazzo Delle Esposizioni, Rome on Thu 17 Sept.
 
@@ -25,4 +25,4 @@ ELASI is a house and electronica artist tracked on soundcheck, with 14 sets logg
 
 Marquis, Populous, ABadillo
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/elasi/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/elasi/)*

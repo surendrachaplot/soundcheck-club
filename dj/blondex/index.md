@@ -1,6 +1,6 @@
 # BLONDEX
 
-BLONDEX is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at RAWFACTORY, Amsterdam on Fri, 23 Oct 2026.
+BLONDEX is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at RAWFACTORY, Amsterdam on Fri, 23 Oct 2026.
 
 BLONDEX is a techno and trance artist based in Spain, tracked on soundcheck, with 35 sets logged across Amsterdam, Antwerp, Austin and Barcelona and 10 more. Often billed alongside Doug Bass, Nuria Ghia and Amelie Lens. Next up: RAWFACTORY, Amsterdam on Fri 23 Oct.
 
@@ -26,4 +26,4 @@ BLONDEX is a techno and trance artist based in Spain, tracked on soundcheck, wit
 
 Doug Bass, Nuria Ghia, Amelie Lens
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/blondex/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/blondex/)*

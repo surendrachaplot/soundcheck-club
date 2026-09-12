@@ -1,8 +1,8 @@
 # Kolsch
 
-Kolsch is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at Hï Ibiza, Ibiza on Mon, 14 Sept 2026.
+Kolsch is a Techno and House artist with 7 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Hï Ibiza, Ibiza on Mon, 14 Sept 2026.
 
-Kolsch is a techno and house artist tracked on soundcheck, with 144 sets logged across Amsterdam, Antwerp, Bali and Barcelona and 38 more. Often billed alongside Kevin de Vries, Olympe and CamelPhat. Next up: Hï Ibiza, Ibiza on Mon 14 Sept.
+Kolsch is a techno and house artist tracked on soundcheck, with 145 sets logged across Amsterdam, Antwerp, Bali and Barcelona and 38 more. Often billed alongside Kevin de Vries, Olympe and CamelPhat. Next up: Hï Ibiza, Ibiza on Mon 14 Sept.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Kolsch is a techno and house artist tracked on soundcheck, with 144 sets logged 
 | --- | --- | --- |
 | Mon, 14 Sept 2026 | Hï Ibiza | Ibiza |
 | Fri, 25 Sept 2026 | fabric | London |
+| Fri, 25 Sept 2026 | The View From The Shard | London |
 | Sat, 26 Sept 2026 | [UNVRS] | Ibiza |
 | Sat, 17 Oct 2026 | Warehouse | Nantes |
 | Fri, 23 Oct 2026 | Het Sieraad | Amsterdam |
@@ -30,4 +31,4 @@ Kolsch is a techno and house artist tracked on soundcheck, with 144 sets logged 
 
 Kevin de Vries, Olympe, CamelPhat
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kolsch/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kolsch/)*

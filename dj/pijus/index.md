@@ -1,6 +1,6 @@
 # Pijus
 
-Pijus is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at ÆDEN, Berlin on Sat, 26 Sept 2026.
+Pijus is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at ÆDEN, Berlin on Sat, 26 Sept 2026.
 
 Pijus is a house and techno artist tracked on soundcheck, with 14 sets logged across Amsterdam, Berlin, Dublin and London and 5 more. Often billed alongside Shaolin Cowboy, lizaliza and Target Demographic. Next up: ÆDEN, Berlin on Sat 26 Sept.
 
@@ -29,4 +29,4 @@ Pijus is a house and techno artist tracked on soundcheck, with 14 sets logged ac
 
 Shaolin Cowboy, lizaliza, Target Demographic
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/pijus/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/pijus/)*

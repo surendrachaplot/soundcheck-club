@@ -1,6 +1,6 @@
 # T2 Shinjuku
 
-T2 Shinjuku is a music venue in Tokyo with 21 upcoming nights listed on soundcheck as of Fri, 11 Sept 2026; the next is "T2 FRIDAY" on Fri, 11 Sept 2026.
+T2 Shinjuku is a music venue in Tokyo with 21 upcoming nights listed on soundcheck as of Sat, 12 Sept 2026; the next is "T2 FRIDAY" on Fri, 11 Sept 2026.
 
 T2 Shinjuku is a music venue in Tokyo listed on soundcheck. 21 upcoming nights, with line-ups including BLACK(JP), NIKI (JP) and SWAGGER. Browse upcoming dates, start times and who's playing. 7F, 7-1-1 Nishi-Shinjuku, Shinjuku-ku, Tokyo.
 
@@ -23,4 +23,4 @@ T2 Shinjuku is a music venue in Tokyo listed on soundcheck. 21 upcoming nights, 
 
 7F, 7-1-1 Nishi-Shinjuku, Shinjuku-ku, Tokyo, Tokyo
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/t2-shinjuku/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/t2-shinjuku/)*

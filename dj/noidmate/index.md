@@ -1,6 +1,6 @@
 # NOIDMATE
 
-NOIDMATE is a Tech House and House artist with 3 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at Starlane Pizza Bar, London on Sat, 26 Sept 2026.
+NOIDMATE is a Tech House and House artist with 3 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Starlane Pizza Bar, London on Sat, 26 Sept 2026.
 
 NOIDMATE is a tech house and house artist based in United Kingdom, tracked on soundcheck, with 7 sets logged across London and Nottingham. Often billed alongside SCCO, Jude Lenihan and 3 Minds. Next up: Starlane Pizza Bar, London on Sat 26 Sept.
 
@@ -23,4 +23,4 @@ NOIDMATE is a tech house and house artist based in United Kingdom, tracked on so
 
 SCCO, Jude Lenihan, 3 Minds
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/noidmate/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/noidmate/)*

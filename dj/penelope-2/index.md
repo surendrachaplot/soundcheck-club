@@ -1,6 +1,6 @@
 # Penelope (2)
 
-Penelope (2) is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at Silbergold, Frankfurt on Fri, 11 Sept 2026.
+Penelope (2) is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Silbergold, Frankfurt on Fri, 11 Sept 2026.
 
 Penelope (2) is a house and techno artist tracked on soundcheck, with 130 sets logged across Amsterdam, Bangkok, Barcelona and Belgrade and 21 more. Often billed alongside Mari.te, Walrus and DJ Rino. Next up: Silbergold, Frankfurt on Fri 11 Sept.
 
@@ -15,6 +15,7 @@ Penelope (2) is a house and techno artist tracked on soundcheck, with 130 sets l
 
 ## Recently played
 
+- Silbergold, Frankfurt — Fri, 11 Sept 2026
 - Collect LX Factory, Lisbon — Sat, 29 Aug 2026
 - Myra, Lisbon — Sat, 22 Aug 2026
 - Quinta Mira Rio, Lisbon — Sat, 22 Aug 2026
@@ -22,10 +23,9 @@ Penelope (2) is a house and techno artist tracked on soundcheck, with 130 sets l
 - 5A, Lisbon — Sat, 18 Jul 2026
 - TBA - Secret Location, London — Fri, 17 Jul 2026
 - Green Room NYC, New York City — Fri, 10 Jul 2026
-- Cherry Beach, Toronto — Sun, 5 Jul 2026
 
 ## Shares bills with
 
 Mari.te, Walrus, DJ Rino
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/penelope-2/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/penelope-2/)*

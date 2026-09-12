@@ -1,6 +1,6 @@
 # Sergi (ES)
 
-Sergi (ES) is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at Heave Festival, Madrid on Fri, 25 Sept 2026.
+Sergi (ES) is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Heave Festival, Madrid on Fri, 25 Sept 2026.
 
 Sergi (ES) is a house and techno artist based in Spain, tracked on soundcheck, with 45 sets logged across Barcelona, Berlin, Dublin and London and 1 more. Often billed alongside Demofather, LAUCY and Tamborero. Next up: Heave Festival, Madrid on Fri 25 Sept.
 
@@ -26,4 +26,4 @@ Sergi (ES) is a house and techno artist based in Spain, tracked on soundcheck, w
 
 Demofather, LAUCY, Tamborero
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sergi-es/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sergi-es/)*

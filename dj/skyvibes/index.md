@@ -1,6 +1,6 @@
 # SkyVibes
 
-SkyVibes is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 11 Sept 2026, next at TBA, Stockholm on Fri, 11 Sept 2026.
+SkyVibes is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 12 Sept 2026, next at TBA, Stockholm on Fri, 11 Sept 2026.
 
 SkyVibes is a techno and house artist based in Sweden, tracked on soundcheck, with 25 sets logged across Riga and Stockholm. Often billed alongside vajiko, JNB and Jessie Granqvist. Next up: TBA, Stockholm on Fri 11 Sept.
 
@@ -12,6 +12,7 @@ SkyVibes is a techno and house artist based in Sweden, tracked on soundcheck, wi
 
 ## Recently played
 
+- TBA, Stockholm — Fri, 11 Sept 2026
 - Slakthuset, Stockholm — Fri, 10 Jul 2026
 - TBA, Stockholm — Fri, 5 Jun 2026
 - Korpuss, Riga — Sat, 14 Feb 2026
@@ -19,10 +20,9 @@ SkyVibes is a techno and house artist based in Sweden, tracked on soundcheck, wi
 - Slakthuset, Stockholm — Fri, 12 Dec 2025
 - Technoladan, Stockholm — Sat, 19 Apr 2025
 - Slakthuset, Stockholm — Sat, 29 Mar 2025
-- Technoladan, Stockholm — Sat, 1 Mar 2025
 
 ## Shares bills with
 
 vajiko, JNB, Jessie Granqvist
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/skyvibes/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/skyvibes/)*

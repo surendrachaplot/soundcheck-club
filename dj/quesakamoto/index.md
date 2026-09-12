@@ -1,6 +1,6 @@
 # Que Sakamoto
 
-Que Sakamoto is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at Dr Banana Club, Sao Paulo on Sat, 19 Sept 2026.
+Que Sakamoto is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Dr Banana Club, Sao Paulo on Sat, 19 Sept 2026.
 
 Que Sakamoto is a house and techno artist tracked on soundcheck, with 59 sets logged across Barcelona, Berlin, Brussels and Buenosaires and 18 more. Often billed alongside André Galluzzi, Annyrock and Cabanne. Next up: Dr Banana Club, Saopaulo on Sat 19 Sept.
 
@@ -29,4 +29,4 @@ Que Sakamoto is a house and techno artist tracked on soundcheck, with 59 sets lo
 
 André Galluzzi, Annyrock, Cabanne
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/quesakamoto/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/quesakamoto/)*

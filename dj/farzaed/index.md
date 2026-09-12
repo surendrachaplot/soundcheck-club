@@ -1,6 +1,6 @@
 # FARZÆD
 
-FARZÆD is a Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 11 Sept 2026, next at OFF Kultur, Budapest on Fri, 11 Sept 2026.
+FARZÆD is a Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 12 Sept 2026, next at OFF Kultur, Budapest on Fri, 11 Sept 2026.
 
 FARZÆD is a techno artist tracked on soundcheck, with 7 sets logged across Amsterdam, Berlin and Budapest. Often billed alongside ALCHEMY (2), Draag and TRANZ. Next up: OFF Kultur, Budapest on Fri 11 Sept.
 
@@ -12,6 +12,7 @@ FARZÆD is a techno artist tracked on soundcheck, with 7 sets logged across Amst
 
 ## Recently played
 
+- OFF Kultur, Budapest — Fri, 11 Sept 2026
 - OFF Kultur, Budapest — Sat, 30 May 2026
 - Arzenal, Budapest — Fri, 7 Nov 2025
 - TBA - art quarter budapest, Budapest — Sat, 4 Oct 2025
@@ -23,4 +24,4 @@ FARZÆD is a techno artist tracked on soundcheck, with 7 sets logged across Amst
 
 ALCHEMY (2), Draag, TRANZ
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/farzaed/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/farzaed/)*

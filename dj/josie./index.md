@@ -1,6 +1,6 @@
 # JOSIE.
 
-JOSIE. is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Fri, 11 Sept 2026, next at Lion's Den, Miami on Sat, 12 Sept 2026.
+JOSIE. is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Sat, 12 Sept 2026, next at Lion's Den, Miami on Sat, 12 Sept 2026.
 
 JOSIE. is a house and deep house artist tracked on soundcheck, with 16 sets logged across Miami and Newyorkcity. Often billed alongside Anthony Romano, LEFTI and Agents Of Time. Next up: Lion's Den, Miami on Sat 12 Sept.
 
@@ -25,4 +25,4 @@ JOSIE. is a house and deep house artist tracked on soundcheck, with 16 sets logg
 
 Anthony Romano, LEFTI, Agents Of Time
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/josie./)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/josie./)*

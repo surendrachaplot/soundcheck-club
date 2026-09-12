@@ -1,6 +1,6 @@
 # NYCO (NL)
 
-NYCO (NL) is a Techno and Acid artist with 3 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at Openluchttheater Amersfoort, Amsterdam on Fri, 18 Sept 2026.
+NYCO (NL) is a Techno and Acid artist with 3 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Openluchttheater Amersfoort, Amsterdam on Fri, 18 Sept 2026.
 
 NYCO (NL) is a techno and acid artist tracked on soundcheck, with 29 sets logged across Amsterdam, Antwerp, Berlin and Brussels and 10 more. Often billed alongside Cynthia Spiering, KARAH and XRTN. Next up: Openluchttheater Amersfoort, Amsterdam on Fri 18 Sept.
 
@@ -27,4 +27,4 @@ NYCO (NL) is a techno and acid artist tracked on soundcheck, with 29 sets logged
 
 Cynthia Spiering, KARAH, XRTN
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nyco-nl/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nyco-nl/)*

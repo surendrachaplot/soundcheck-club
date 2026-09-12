@@ -1,6 +1,6 @@
 # Tonbo
 
-Tonbo is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at TBA -    Kodamanomori Camp Ground, Nagano, Tokyo on Fri, 11 Sept 2026.
+Tonbo is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at TBA -    Kodamanomori Camp Ground, Nagano, Tokyo on Fri, 11 Sept 2026.
 
 Tonbo is a techno and house artist based in Japan, tracked on soundcheck, with 36 sets logged across Berlin, Osaka and Tokyo. Often billed alongside Nory Kimijima, REO MATSUMOTO and SATICA. Next up: TBA -    Kodamanomori Camp Ground, Nagano, Tokyo on Fri 11 Sept.
 
@@ -13,6 +13,7 @@ Tonbo is a techno and house artist based in Japan, tracked on soundcheck, with 3
 
 ## Recently played
 
+- TBA -    Kodamanomori Camp Ground, Nagano, Tokyo — Fri, 11 Sept 2026
 - MaHalla, Berlin — Sun, 2 Aug 2026
 - BAR Inc, Osaka — Sat, 13 Jun 2026
 - TBA - At Somewhere in Nishiazabu , Tokyo — Sat, 25 Apr 2026
@@ -20,10 +21,9 @@ Tonbo is a techno and house artist based in Japan, tracked on soundcheck, with 3
 - Numm, Tokyo — Thu, 26 Mar 2026
 - Super Dommune, Tokyo — Tue, 24 Mar 2026
 - Cube, Tokyo — Sat, 21 Mar 2026
-- WOMB, Tokyo — Sat, 14 Mar 2026
 
 ## Shares bills with
 
 Nory Kimijima, REO MATSUMOTO, SATICA
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tonbo/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tonbo/)*

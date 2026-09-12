@@ -1,14 +1,13 @@
 # Westlight Rooftop at The William Vale
 
-Westlight Rooftop at The William Vale is a music venue in New York City with 6 upcoming nights listed on soundcheck as of Fri, 11 Sept 2026; the next is "Friends In High Places feat. &friends" on Fri, 11 Sept 2026.
+Westlight Rooftop at The William Vale is a music venue in New York City with 5 upcoming nights listed on soundcheck as of Sat, 12 Sept 2026; the next is "Friends In High Places feat. Nils Hoffmann" on Fri, 18 Sept 2026.
 
-Westlight Rooftop at The William Vale is a music venue in Newyorkcity listed on soundcheck. 6 upcoming nights, with line-ups including Nils Hoffmann. Browse upcoming dates, start times and who's playing. 111 North 12th Street, Brooklyn, New York 11249, United States.
+Westlight Rooftop at The William Vale is a music venue in Newyorkcity listed on soundcheck. 5 upcoming nights, with line-ups including Nils Hoffmann. Browse upcoming dates, start times and who's playing. 111 North 12th Street, Brooklyn, New York 11249, United States.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 11 Sept 2026 | Friends In High Places feat. &friends |  |
 | Fri, 18 Sept 2026 | Friends In High Places feat. Nils Hoffmann | Nils Hoffmann |
 | Fri, 25 Sept 2026 | Friends In High Places feat. SPECIAL GUESTS |  |
 | Fri, 2 Oct 2026 | Friends In High Places feat. Jazzy |  |
@@ -19,4 +18,4 @@ Westlight Rooftop at The William Vale is a music venue in Newyorkcity listed on 
 
 111 North 12th Street, Brooklyn, New York 11249, United States, New York City
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/westlight-rooftop-at-the-william-vale/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/westlight-rooftop-at-the-william-vale/)*

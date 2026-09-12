@@ -1,6 +1,6 @@
 # The Ave Live
 
-The Ave Live is a music venue in Philadelphia with 1 upcoming night listed on soundcheck as of Fri, 11 Sept 2026; the next is "THE AVE" on Fri, 9 Oct 2026.
+The Ave Live is a music venue in Philadelphia with 1 upcoming night listed on soundcheck as of Sat, 12 Sept 2026; the next is "THE AVE" on Fri, 9 Oct 2026.
 
 The Ave Live is a music venue in Philadelphia listed on soundcheck. 1 upcoming night. Browse upcoming dates, start times and who's playing. 520 N Christopher Columbus Blvd.
 
@@ -14,4 +14,4 @@ The Ave Live is a music venue in Philadelphia listed on soundcheck. 1 upcoming n
 
 520 N Christopher Columbus Blvd, Philadelphia
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/philadelphia/club/the-ave-live/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/philadelphia/club/the-ave-live/)*

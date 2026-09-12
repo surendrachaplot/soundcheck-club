@@ -1,6 +1,6 @@
 # INPUT High Fidelity Dance Club
 
-INPUT High Fidelity Dance Club is a music venue in Barcelona with 23 upcoming nights listed on soundcheck as of Fri, 11 Sept 2026; the next is "INPUT pres HI-LO" on Fri, 11 Sept 2026.
+INPUT High Fidelity Dance Club is a music venue in Barcelona with 23 upcoming nights listed on soundcheck as of Sat, 12 Sept 2026; the next is "INPUT pres HI-LO" on Fri, 11 Sept 2026.
 
 INPUT High Fidelity Dance Club is a music venue in Barcelona listed on soundcheck. 23 upcoming nights, with line-ups including Adiel, ART NO LOGIA, Beste Hira and Colin Benders and 2 more. Browse upcoming dates, start times and who's playing. Avenida de Francesc Ferrer i Guàrdia, 13-27; 08038 Barcelona; Spain.
 
@@ -10,7 +10,7 @@ INPUT High Fidelity Dance Club is a music venue in Barcelona listed on soundchec
 | --- | --- | --- |
 | Fri, 11 Sept 2026 | INPUT pres HI-LO | HI-LO, LOZA/ANSO |
 | Sat, 12 Sept 2026 | INPUT pres Toman | Max Haas, Toman |
-| Sun, 13 Sept 2026 | OUTRO Official Afterparty |  |
+| Sun, 13 Sept 2026 | OUTRO Official Afterparty | Easttown, INDRA TRAFERRI, LondonGround |
 | Fri, 18 Sept 2026 | PRISM pres Adiel | Adiel, Hitch |
 | Sat, 19 Sept 2026 | INPUT pres Schrotthagen | Schrotthagen |
 | Wed, 23 Sept 2026 | ONíRICA pres Colyn | Colyn, Rivellino |
@@ -23,4 +23,4 @@ INPUT High Fidelity Dance Club is a music venue in Barcelona listed on soundchec
 
 Avenida de Francesc Ferrer i Guàrdia, 13-27; 08038 Barcelona; Spain, Barcelona
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/input-high-fidelity-dance-club/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/input-high-fidelity-dance-club/)*

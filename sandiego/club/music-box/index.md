@@ -1,6 +1,6 @@
 # Music Box
 
-Music Box is a music venue in San Diego with 8 upcoming nights listed on soundcheck as of Fri, 11 Sept 2026; the next is "Amtrac - Dream Live Tour" on Sat, 12 Sept 2026.
+Music Box is a music venue in San Diego with 8 upcoming nights listed on soundcheck as of Sat, 12 Sept 2026; the next is "Amtrac - Dream Live Tour" on Sat, 12 Sept 2026.
 
 Music Box is a music venue in Sandiego listed on soundcheck. 8 upcoming nights, with line-ups including Amtrac, Paul Oakenfold, O'Flynn and Satin Jackets and 2 more. Browse upcoming dates, start times and who's playing. 1337 India St, San Diego, CA 92101.
 
@@ -21,4 +21,4 @@ Music Box is a music venue in Sandiego listed on soundcheck. 8 upcoming nights, 
 
 1337 India St, San Diego, CA 92101, San Diego
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/sandiego/club/music-box/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/sandiego/club/music-box/)*

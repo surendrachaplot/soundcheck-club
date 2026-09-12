@@ -1,6 +1,6 @@
 # Selma
 
-Selma is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Fri, 11 Sept 2026, next at La Station - Gare des Mines, Paris on Sun, 13 Sept 2026.
+Selma is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Sat, 12 Sept 2026, next at La Station - Gare des Mines, Paris on Sun, 13 Sept 2026.
 
 Selma is a techno and trance artist based in Norway, tracked on soundcheck, with 16 sets logged across Copenhagen, Leipzig, Madrid and Oslo and 1 more. Often billed alongside Frederik Tollund, Dgeral and Lucky Lube. Next up: La Station - Gare des Mines, Paris on Sun 13 Sept.
 
@@ -25,4 +25,4 @@ Selma is a techno and trance artist based in Norway, tracked on soundcheck, with
 
 Frederik Tollund, Dgeral, Lucky Lube
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/selma/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/selma/)*

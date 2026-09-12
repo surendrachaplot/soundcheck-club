@@ -1,6 +1,6 @@
 # Bored Lord
 
-Bored Lord is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at White Horse Inn, San Francisco/Oakland on Sat, 12 Sept 2026.
+Bored Lord is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at White Horse Inn, San Francisco/Oakland on Sat, 12 Sept 2026.
 
 Bored Lord is a house and techno artist tracked on soundcheck, with 142 sets logged across Amsterdam, Antwerp, Austin and Barcelona and 35 more. Often billed alongside RITCHRD, bastiengoat and Tom Marsi. Next up: White Horse Inn, Sanfrancisco on Sat 12 Sept.
 
@@ -27,4 +27,4 @@ Bored Lord is a house and techno artist tracked on soundcheck, with 142 sets log
 
 RITCHRD, bastiengoat, Tom Marsi
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/boredlord/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/boredlord/)*

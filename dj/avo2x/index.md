@@ -1,6 +1,6 @@
 # AVO2X
 
-AVO2X is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at The Loft, Vienna on Sat, 26 Sept 2026.
+AVO2X is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at The Loft, Vienna on Sat, 26 Sept 2026.
 
 AVO2X is a techno and trance artist based in Austria, tracked on soundcheck, with 22 sets logged across Berlin, Cologne and Vienna. Often billed alongside ENJA, Spud Bencer and DJ Backstage. Next up: The Loft, Vienna on Sat 26 Sept.
 
@@ -26,4 +26,4 @@ AVO2X is a techno and trance artist based in Austria, tracked on soundcheck, wit
 
 ENJA, Spud Bencer, DJ Backstage
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/avo2x/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/avo2x/)*

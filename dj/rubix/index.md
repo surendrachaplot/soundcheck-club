@@ -1,6 +1,6 @@
 # RUBIX
 
-RUBIX is a Reggaeton and Breakbeat artist with 1 upcoming club date listed on soundcheck as of Fri, 11 Sept 2026, next at MR.DUCK, Mexico City on Sat, 12 Sept 2026.
+RUBIX is a Reggaeton and Breakbeat artist with 1 upcoming club date listed on soundcheck as of Sat, 12 Sept 2026, next at MR.DUCK, Mexico City on Sat, 12 Sept 2026.
 
 RUBIX is a reggaeton and breakbeat artist tracked on soundcheck, with 7 sets logged across Berlin, Bristol and Mexicocity. Often billed alongside DJ Doubt, AAAA and AVAION. Next up: MR.DUCK, Mexicocity on Sat 12 Sept.
 
@@ -23,4 +23,4 @@ RUBIX is a reggaeton and breakbeat artist tracked on soundcheck, with 7 sets log
 
 DJ Doubt, AAAA, AVAION
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/rubix/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/rubix/)*

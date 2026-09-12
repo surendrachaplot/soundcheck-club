@@ -1,6 +1,6 @@
 # Barbie
 
-Barbie is a Drum & Bass and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 11 Sept 2026, next at UTOPIA / DYSTOPIA, Tokyo on Sat, 12 Sept 2026.
+Barbie is a Drum & Bass and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 12 Sept 2026, next at UTOPIA / DYSTOPIA, Tokyo on Sat, 12 Sept 2026.
 
 Barbie is a drum & bass and techno artist tracked on soundcheck, with 11 sets logged across Barcelona and Tokyo. Often billed alongside SN_Yeah, omeme_gangimari and ReFuCafé. Next up: UTOPIA / DYSTOPIA, Tokyo on Sat 12 Sept.
 
@@ -25,4 +25,4 @@ Barbie is a drum & bass and techno artist tracked on soundcheck, with 11 sets lo
 
 SN_Yeah, omeme_gangimari, ReFuCafé
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/barbie/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/barbie/)*

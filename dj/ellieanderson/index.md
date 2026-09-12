@@ -1,6 +1,6 @@
 # Ellie Anderson
 
-Ellie Anderson is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Fri, 11 Sept 2026, next at The Cause, London on Sat, 12 Sept 2026.
+Ellie Anderson is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Sat, 12 Sept 2026, next at The Cause, London on Sat, 12 Sept 2026.
 
 Ellie Anderson is a house and disco artist based in United Kingdom, tracked on soundcheck, with 29 sets logged across Bristol, London and Manchester. Often billed alongside Flash Mitra, Dave Harvey and Ellie Stokes. Next up: The Cause, London on Sat 12 Sept.
 
@@ -25,4 +25,4 @@ Ellie Anderson is a house and disco artist based in United Kingdom, tracked on s
 
 Flash Mitra, Dave Harvey, Ellie Stokes
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ellieanderson/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ellieanderson/)*

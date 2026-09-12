@@ -1,6 +1,6 @@
 # ISSA
 
-ISSA is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at TBA - Teeth Bar, San Francisco/Oakland on Sun, 13 Sept 2026.
+ISSA is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at TBA - Teeth Bar, San Francisco/Oakland on Sun, 13 Sept 2026.
 
 ISSA is a house and techno artist based in United States of America, tracked on soundcheck, with 31 sets logged across Sanfrancisco and Tokyo. Often billed alongside r1ku, YUVIE and kengotaki. Next up: TBA - Teeth Bar, Sanfrancisco on Sun 13 Sept.
 
@@ -26,4 +26,4 @@ ISSA is a house and techno artist based in United States of America, tracked on 
 
 r1ku, YUVIE, kengotaki
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/issa/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/issa/)*

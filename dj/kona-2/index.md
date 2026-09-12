@@ -1,6 +1,6 @@
 # KONA (2)
 
-KONA (2) is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at MS Club, Marseille on Sat, 19 Sept 2026.
+KONA (2) is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at MS Club, Marseille on Sat, 19 Sept 2026.
 
 KONA (2) is a house and techno artist tracked on soundcheck, with 23 sets logged across Marseille and Seoul. Often billed alongside Lyumin, E3 and Riskii (2). Next up: MS Club, Marseille on Sat 19 Sept.
 
@@ -26,4 +26,4 @@ KONA (2) is a house and techno artist tracked on soundcheck, with 23 sets logged
 
 Lyumin, E3, Riskii (2)
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kona-2/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kona-2/)*

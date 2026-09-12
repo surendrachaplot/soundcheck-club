@@ -1,6 +1,6 @@
 # Mimi
 
-Mimi is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 11 Sept 2026, next at Loco Park, Tbilisi on Fri, 2 Oct 2026.
+Mimi is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 12 Sept 2026, next at Loco Park, Tbilisi on Fri, 2 Oct 2026.
 
 Mimi is a techno and house artist based in Croatia, tracked on soundcheck, with 40 sets logged across Athens, Basel, Belgrade and Brighton and 14 more. Often billed alongside JOVE, Aggro and Black Coffee. Next up: Loco Park, Tbilisi on Fri 2 Oct.
 
@@ -25,4 +25,4 @@ Mimi is a techno and house artist based in Croatia, tracked on soundcheck, with 
 
 JOVE, Aggro, Black Coffee
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mimi/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mimi/)*

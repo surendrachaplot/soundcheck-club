@@ -1,6 +1,6 @@
 # MARIE.MOON
 
-MARIE.MOON is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at Bohnengold, Berlin on Fri, 11 Sept 2026.
+MARIE.MOON is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Bohnengold, Berlin on Fri, 11 Sept 2026.
 
 MARIE.MOON is a house and techno artist tracked on soundcheck, with 80 sets logged across Berlin. Often billed alongside Upzet, No Silver Bullet and Caro Vola. Next up: Bohnengold, Berlin on Fri 11 Sept.
 
@@ -13,6 +13,7 @@ MARIE.MOON is a house and techno artist tracked on soundcheck, with 80 sets logg
 
 ## Recently played
 
+- Bohnengold, Berlin — Fri, 11 Sept 2026
 - ciao ciao Bar, Berlin — Sun, 6 Sept 2026
 - Void Club, Berlin — Fri, 21 Aug 2026
 - Crack Bellmer, Berlin — Fri, 14 Aug 2026
@@ -20,10 +21,9 @@ MARIE.MOON is a house and techno artist tracked on soundcheck, with 80 sets logg
 - Bulbul Berlin, Berlin — Sat, 20 Jun 2026
 - Jonny Knüppel, Berlin — Fri, 12 Jun 2026
 - Crack Bellmer, Berlin — Thu, 30 Apr 2026
-- Void Club, Berlin — Sat, 4 Apr 2026
 
 ## Shares bills with
 
 Upzet, No Silver Bullet, Caro Vola
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/marie.moon/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/marie.moon/)*

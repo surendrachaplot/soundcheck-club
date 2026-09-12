@@ -1,6 +1,6 @@
 # kakifromseoul
 
-kakifromseoul is a House and Afro House artist with 1 upcoming club date listed on soundcheck as of Fri, 11 Sept 2026, next at Cakeshop, Seoul on Sat, 19 Sept 2026.
+kakifromseoul is a House and Afro House artist with 1 upcoming club date listed on soundcheck as of Sat, 12 Sept 2026, next at Cakeshop, Seoul on Sat, 19 Sept 2026.
 
 kakifromseoul is a house and afro house artist based in South Korea, tracked on soundcheck, with 6 sets logged across Seoul. Often billed alongside Bluebird, Cityboy from Seoul and Cozyhoon. Next up: Cakeshop, Seoul on Sat 19 Sept.
 
@@ -22,4 +22,4 @@ kakifromseoul is a house and afro house artist based in South Korea, tracked on 
 
 Bluebird, Cityboy from Seoul, Cozyhoon
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kakifromseoul/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kakifromseoul/)*

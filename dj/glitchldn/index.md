@@ -1,8 +1,8 @@
 # Glitch (LDN)
 
-Glitch (LDN) is a Trance and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at Nico's Bar at Hackney Bridge, London on Fri, 18 Sept 2026.
+Glitch (LDN) is a House and Garage artist with 2 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Nico's Bar at Hackney Bridge, London on Fri, 18 Sept 2026.
 
-Glitch (LDN) is a trance and house artist based in United Kingdom, tracked on soundcheck, with 6 sets logged across London. Often billed alongside SwearyPrincess, Andy Farley and Dave Zhu. Next up: Nico's Bar at Hackney Bridge, London on Fri 18 Sept.
+Glitch (LDN) is a house and garage artist based in United Kingdom, tracked on soundcheck, with 6 sets logged across London. Often billed alongside SwearyPrincess, gravitas and Andy Farley. Next up: Nico's Bar at Hackney Bridge, London on Fri 18 Sept.
 
 ## Upcoming shows
 
@@ -20,6 +20,6 @@ Glitch (LDN) is a trance and house artist based in United Kingdom, tracked on so
 
 ## Shares bills with
 
-SwearyPrincess, Andy Farley, Dave Zhu
+SwearyPrincess, gravitas, Andy Farley
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/glitchldn/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/glitchldn/)*

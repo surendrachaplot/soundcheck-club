@@ -1,14 +1,15 @@
 # Daniel Neuland
 
-Daniel Neuland is a Techno and Tech House artist with 2 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at Kater, Berlin on Fri, 25 Sept 2026.
+Daniel Neuland is a Techno and Tech House artist with 3 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Kater, Berlin on Fri, 25 Sept 2026.
 
-Daniel Neuland is a techno and tech house artist tracked on soundcheck, with 68 sets logged across Amsterdam, Berlin, Cologne and Copenhagen and 8 more. Often billed alongside vom Feisten, Martin Ka and Naicet. Next up: Kater, Berlin on Fri 25 Sept.
+Daniel Neuland is a techno and tech house artist tracked on soundcheck, with 69 sets logged across Amsterdam, Berlin, Cologne and Copenhagen and 8 more. Often billed alongside vom Feisten, Martin Ka and Naicet. Next up: Kater, Berlin on Fri 25 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 25 Sept 2026 | Kater | Berlin |
+| Fri, 16 Oct 2026 | Renate | Berlin |
 | Fri, 30 Oct 2026 | Ritter Butzke | Berlin |
 
 ## Recently played
@@ -26,4 +27,4 @@ Daniel Neuland is a techno and tech house artist tracked on soundcheck, with 68 
 
 vom Feisten, Martin Ka, Naicet
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/danielneuland/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/danielneuland/)*

@@ -1,14 +1,15 @@
 # Kollision
 
-Kollision is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Fri, 11 Sept 2026, next at Zoo, Geneva on Sat, 26 Sept 2026.
+Kollision is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Zoo, Geneva on Sat, 26 Sept 2026.
 
-Kollision is a techno and trance artist tracked on soundcheck, with 10 sets logged across Amsterdam, Barcelona, Berlin and Geneva and 5 more. Often billed alongside Lady Maru, PULSES (NL) and ANDRØMEDA. Next up: Zoo, Geneva on Sat 26 Sept.
+Kollision is a techno and trance artist tracked on soundcheck, with 11 sets logged across Amsterdam, Barcelona, Berlin and Geneva and 6 more. Often billed alongside Lady Maru, PULSES (NL) and ANDRØMEDA. Next up: Zoo, Geneva on Sat 26 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 26 Sept 2026 | Zoo | Geneva |
+| Fri, 9 Oct 2026 | La Cova | Hamburg |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Kollision is a techno and trance artist tracked on soundcheck, with 10 sets logg
 
 Lady Maru, PULSES (NL), ANDRØMEDA
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kollision/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kollision/)*

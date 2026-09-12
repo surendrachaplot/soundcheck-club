@@ -1,6 +1,6 @@
 # DOUMEKI at Koara
 
-DOUMEKI at Koara on Sat 12 Sept, Tokyo. 1 act on the bill: Peri (JP). Deep House and Acid. Preview the line-up and save it on soundcheck.
+DOUMEKI at Koara on Sat 12 Sept, Tokyo. 2 acts on the bill: LOQU and Peri (JP). Deep House and Acid. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ DOUMEKI at Koara on Sat 12 Sept, Tokyo. 1 act on the bill: Peri (JP). Deep House
 
 ## Line-up
 
+- LOQU
 - Peri (JP)
 
 *Source: [soundcheck](https://soundcheck.club/e/2532707-doumeki-at-koara/)*

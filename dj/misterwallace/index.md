@@ -1,13 +1,14 @@
 # Mister Wallace
 
-Mister Wallace is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 11 Sept 2026, next at TBA - LOCATION EMAILED TO TICKETHOLDERS, Chicago on Fri, 25 Sept 2026.
+Mister Wallace is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at TBA, New York City on Sat, 19 Sept 2026.
 
-Mister Wallace is a techno and house artist based in United States of America, tracked on soundcheck, with 53 sets logged across Berlin, Chicago, Detroit and Houston and 4 more. Often billed alongside Shaun J. Wright, Mister Hoochiemama and Sterling Juan Diaz. Next up: TBA - LOCATION EMAILED TO TICKETHOLDERS, Chicago on Fri 25 Sept.
+Mister Wallace is a techno and house artist based in United States of America, tracked on soundcheck, with 54 sets logged across Berlin, Chicago, Detroit and Houston and 4 more. Often billed alongside Shaun J. Wright, Mister Hoochiemama and Sterling Juan Diaz. Next up: TBA, Newyorkcity on Sat 19 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 19 Sept 2026 | TBA | New York City |
 | Fri, 25 Sept 2026 | TBA - LOCATION EMAILED TO TICKETHOLDERS | Chicago |
 
 ## Recently played
@@ -25,4 +26,4 @@ Mister Wallace is a techno and house artist based in United States of America, t
 
 Shaun J. Wright, Mister Hoochiemama, Sterling Juan Diaz
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/misterwallace/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/misterwallace/)*

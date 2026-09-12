@@ -1,6 +1,6 @@
 # Young Franco
 
-Young Franco is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at Soap Seoul., Seoul on Fri, 18 Sept 2026.
+Young Franco is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Soap Seoul., Seoul on Fri, 18 Sept 2026.
 
 Young Franco is a house and disco artist tracked on soundcheck, with 49 sets logged across Amsterdam, Bangkok, Barcelona and Berlin and 21 more. Often billed alongside Daul, DARIUS and Dam Swindle. Next up: Soap Seoul., Seoul on Fri 18 Sept.
 
@@ -26,4 +26,4 @@ Young Franco is a house and disco artist tracked on soundcheck, with 49 sets log
 
 Daul, DARIUS, Dam Swindle
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/youngfranco/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/youngfranco/)*

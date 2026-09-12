@@ -1,6 +1,6 @@
 # Adviro
 
-Adviro is a Techno and Trance artist with 8 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at M7 Club, Barcelona on Sat, 12 Sept 2026.
+Adviro is a Techno and Trance artist with 8 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at M7 Club, Barcelona on Sat, 12 Sept 2026.
 
 Adviro is a techno and trance artist based in France, tracked on soundcheck, with 27 sets logged across Barcelona. Often billed alongside SuttleK, Rowsi and ArceX. Next up: M7 Club, Barcelona on Sat 12 Sept.
 
@@ -32,4 +32,4 @@ Adviro is a techno and trance artist based in France, tracked on soundcheck, wit
 
 SuttleK, Rowsi, ArceX
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/adviro/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/adviro/)*

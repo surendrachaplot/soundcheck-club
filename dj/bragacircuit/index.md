@@ -1,6 +1,6 @@
 # Braga Circuit
 
-Braga Circuit is a House and Club artist with 1 upcoming club date listed on soundcheck as of Fri, 11 Sept 2026, next at FOLD, London on Fri, 18 Sept 2026.
+Braga Circuit is a House and Club artist with 1 upcoming club date listed on soundcheck as of Sat, 12 Sept 2026, next at FOLD, London on Fri, 18 Sept 2026.
 
 Braga Circuit is a house and club artist based in United Kingdom, tracked on soundcheck, with 14 sets logged across Edinburgh, Glasgow, London and Lyon. Often billed alongside Oscar Farrell, AZAAD and Anastazja. Next up: FOLD, London on Fri 18 Sept.
 
@@ -25,4 +25,4 @@ Braga Circuit is a house and club artist based in United Kingdom, tracked on sou
 
 Oscar Farrell, AZAAD, Anastazja
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bragacircuit/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bragacircuit/)*

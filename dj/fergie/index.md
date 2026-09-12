@@ -1,6 +1,6 @@
 # Fergie
 
-Fergie is a Trance and House artist with 3 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at The Jazz Cafe, London on Fri, 11 Sept 2026.
+Fergie is a Trance and House artist with 3 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at The Jazz Cafe, London on Fri, 11 Sept 2026.
 
 Fergie is a trance and house artist tracked on soundcheck, with 17 sets logged across Amsterdam, Birmingham, Denver and Glasgow and 6 more. Often billed alongside Judge Jules, Mauro Picotto and Eddie Halliwell. Next up: The Jazz Cafe, London on Fri 11 Sept.
 
@@ -14,6 +14,7 @@ Fergie is a trance and house artist tracked on soundcheck, with 17 sets logged a
 
 ## Recently played
 
+- The Jazz Cafe, London — Fri, 11 Sept 2026
 - Amnesia Ibiza, Ibiza — Mon, 10 Aug 2026
 - TBA - Select FM London, Los Angeles — Fri, 10 Jul 2026
 - The Digbeth Triangle, Birmingham — Sun, 24 May 2026
@@ -21,10 +22,9 @@ Fergie is a trance and house artist tracked on soundcheck, with 17 sets logged a
 - Amnesia Ibiza, Ibiza — Sat, 27 Sept 2025
 - Off The Square, Manchester — Thu, 25 Sept 2025
 - TBA - Burton Rooftop Rino, Denver — Sat, 26 Jul 2025
-- Elvaston Castle Country Park, Sheffield — Fri, 6 Jun 2025
 
 ## Shares bills with
 
 Judge Jules, Mauro Picotto, Eddie Halliwell
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/fergie/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/fergie/)*

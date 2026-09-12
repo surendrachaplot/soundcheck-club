@@ -1,6 +1,6 @@
 # Simon Scott
 
-Simon Scott is a Downtempo and Ambient artist with 5 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at The Cause, London on Sat, 12 Sept 2026.
+Simon Scott is a Downtempo and Ambient artist with 5 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at The Cause, London on Sat, 12 Sept 2026.
 
 Simon Scott is a downtempo and ambient artist based in United Kingdom, tracked on soundcheck, with 119 sets logged across Belgrade, Brighton, Leeds and London and 2 more. Often billed alongside Mike BC, Iration Steppas and Cosmikuro. Next up: The Cause, London on Sat 12 Sept.
 
@@ -29,4 +29,4 @@ Simon Scott is a downtempo and ambient artist based in United Kingdom, tracked o
 
 Mike BC, Iration Steppas, Cosmikuro
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/simonscott/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/simonscott/)*

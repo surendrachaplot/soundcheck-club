@@ -1,13 +1,14 @@
 # Samantha Loveridge
 
-Samantha Loveridge is a House and Afro House artist with 2 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at Vera Cocina & بار, Washington DC on Sat, 17 Oct 2026.
+Samantha Loveridge is a House and Afro House artist with 3 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Floyd, Miami on Fri, 2 Oct 2026.
 
-Samantha Loveridge is a house and afro house artist tracked on soundcheck, with 59 sets logged across Amsterdam, Bali, Barcelona and Berlin and 18 more. Often billed alongside OLIIV, CamelPhat and Gumm. Next up: Vera Cocina & بار, Washingtondc on Sat 17 Oct.
+Samantha Loveridge is a house and afro house artist tracked on soundcheck, with 60 sets logged across Amsterdam, Bali, Barcelona and Berlin and 18 more. Often billed alongside OLIIV, CamelPhat and Gumm. Next up: Floyd, Miami on Fri 2 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 2 Oct 2026 | Floyd | Miami |
 | Sat, 17 Oct 2026 | Vera Cocina & بار | Washington DC |
 | Sat, 21 Nov 2026 | Fleet Steps - Mrs Macquaries Point | Sydney |
 
@@ -26,4 +27,4 @@ Samantha Loveridge is a house and afro house artist tracked on soundcheck, with 
 
 OLIIV, CamelPhat, Gumm
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/samanthaloveridge/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/samanthaloveridge/)*

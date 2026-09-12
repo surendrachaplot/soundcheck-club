@@ -1,6 +1,6 @@
 # Elicia Evelyn
 
-Elicia Evelyn is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at Camp and Furnace, Liverpool on Sat, 12 Sept 2026.
+Elicia Evelyn is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Camp and Furnace, Liverpool on Sat, 12 Sept 2026.
 
 Elicia Evelyn is a house and disco artist based in United Kingdom, tracked on soundcheck, with 2 sets logged across Liverpool. Often billed alongside DJ Paulette, Delilah and Eats Everything. Next up: Camp and Furnace, Liverpool on Sat 12 Sept.
 
@@ -15,4 +15,4 @@ Elicia Evelyn is a house and disco artist based in United Kingdom, tracked on so
 
 DJ Paulette, Delilah, Eats Everything
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/eliciaevelyn/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/eliciaevelyn/)*

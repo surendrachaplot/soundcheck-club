@@ -1,8 +1,8 @@
 # Albin Brezlan
 
-Albin Brezlan is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at Club Exil, Vienna on Fri, 18 Sept 2026.
+Albin Brezlan is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Club Exil, Vienna on Fri, 18 Sept 2026.
 
-Albin Brezlan is a techno and house artist based in Austria, tracked on soundcheck, with 131 sets logged across Amsterdam, Barcelona, Berlin and Budapest and 3 more. Often billed alongside Huebl, Mark Michael and Dana Melissa. Next up: Club Exil, Vienna on Fri 18 Sept.
+Albin Brezlan is a techno and house artist based in Austria, tracked on soundcheck, with 132 sets logged across Amsterdam, Barcelona, Berlin and Budapest and 3 more. Often billed alongside Huebl, Mark Michael and Dana Melissa. Next up: Club Exil, Vienna on Fri 18 Sept.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Albin Brezlan is a techno and house artist based in Austria, tracked on soundche
 | --- | --- | --- |
 | Fri, 18 Sept 2026 | Club Exil | Vienna |
 | Fri, 2 Oct 2026 | O der Klub | Vienna |
+| Sat, 3 Oct 2026 | Das Werk | Vienna |
 | Sun, 25 Oct 2026 | Amsterdam Central Station | Amsterdam |
 
 ## Recently played
@@ -27,4 +28,4 @@ Albin Brezlan is a techno and house artist based in Austria, tracked on soundche
 
 Huebl, Mark Michael, Dana Melissa
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/albinbrezlan/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/albinbrezlan/)*

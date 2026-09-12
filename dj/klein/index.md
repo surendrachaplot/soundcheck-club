@@ -1,14 +1,15 @@
 # Klein
 
-Klein is a Experimental and Club artist with 3 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at Recyclart, Brussels on Sat, 12 Sept 2026.
+Klein is a Experimental and Club artist with 4 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Recyclart, Brussels on Sat, 12 Sept 2026.
 
-Klein is an experimental and club artist tracked on soundcheck, with 34 sets logged across Amsterdam, Berlin, Brussels and Buenosaires and 12 more. Often billed alongside upsammy, Buttechno and Embaci. Next up: Recyclart, Brussels on Sat 12 Sept.
+Klein is an experimental and club artist tracked on soundcheck, with 35 sets logged across Amsterdam, Berlin, Brussels and Buenosaires and 13 more. Often billed alongside upsammy, Buttechno and Embaci. Next up: Recyclart, Brussels on Sat 12 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 12 Sept 2026 | Recyclart | Brussels |
+| Sun, 4 Oct 2026 | Nowa Miodowa | Warsaw |
 | Mon, 9 Nov 2026 | public records | New York City |
 | Thu, 12 Nov 2026 | public records | New York City |
 
@@ -27,4 +28,4 @@ Klein is an experimental and club artist tracked on soundcheck, with 34 sets log
 
 upsammy, Buttechno, Embaci
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/klein/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/klein/)*

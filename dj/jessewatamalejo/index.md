@@ -1,6 +1,6 @@
 # Jesse Watamalejo
 
-Jesse Watamalejo is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Fri, 11 Sept 2026, next at Onder Hans, Amsterdam on Thu, 17 Sept 2026.
+Jesse Watamalejo is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Sat, 12 Sept 2026, next at Onder Hans, Amsterdam on Thu, 17 Sept 2026.
 
 Jesse Watamalejo is a tech house and house artist tracked on soundcheck, with 11 sets logged across Amsterdam and Thehague. Often billed alongside rebrånded, Federico Patafi and Vale.T. Next up: Onder Hans, Amsterdam on Thu 17 Sept.
 
@@ -25,4 +25,4 @@ Jesse Watamalejo is a tech house and house artist tracked on soundcheck, with 11
 
 rebrånded, Federico Patafi, Vale.T
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jessewatamalejo/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jessewatamalejo/)*

@@ -1,6 +1,6 @@
 # Pharah
 
-Pharah is a Industrial and Hardcore artist with 2 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at Kømplex Lisbon, Lisbon on Fri, 11 Sept 2026.
+Pharah is a Industrial and Hardcore artist with 2 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Kømplex Lisbon, Lisbon on Fri, 11 Sept 2026.
 
 Pharah is an industrial and hardcore artist tracked on soundcheck, with 7 sets logged across Lisbon. Often billed alongside Arzan, Frik and MakeCatBleed. Next up: Kømplex Lisbon, Lisbon on Fri 11 Sept.
 
@@ -13,6 +13,7 @@ Pharah is an industrial and hardcore artist tracked on soundcheck, with 7 sets l
 
 ## Recently played
 
+- Kømplex Lisbon, Lisbon — Fri, 11 Sept 2026
 - República Da Música, Lisbon — Sat, 13 Jun 2026
 - República Da Música, Lisbon — Sat, 7 Feb 2026
 - Casa Capitão, Lisbon — Thu, 4 Dec 2025
@@ -23,4 +24,4 @@ Pharah is an industrial and hardcore artist tracked on soundcheck, with 7 sets l
 
 Arzan, Frik, MakeCatBleed
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/pharah/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/pharah/)*

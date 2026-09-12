@@ -1,6 +1,6 @@
 # Stanislav Tolkachev
 
-Stanislav Tolkachev is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at Hall, Tallinn on Fri, 18 Sept 2026.
+Stanislav Tolkachev is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Hall, Tallinn on Fri, 18 Sept 2026.
 
 Stanislav Tolkachev is a techno and house artist tracked on soundcheck, with 70 sets logged across Amsterdam, Barcelona, Belgrade and Berlin and 17 more. Often billed alongside Katya Milch, Nastia and Louwave. Next up: Hall, Tallinn on Fri 18 Sept.
 
@@ -27,4 +27,4 @@ Stanislav Tolkachev is a techno and house artist tracked on soundcheck, with 70 
 
 Katya Milch, Nastia, Louwave
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/stanislavtolkachev/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/stanislavtolkachev/)*

@@ -1,6 +1,6 @@
 # Aténo
 
-Aténo is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at Zur Insel, Frankfurt on Sat, 12 Sept 2026.
+Aténo is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Zur Insel, Frankfurt on Sat, 12 Sept 2026.
 
 Aténo is a house and techno artist tracked on soundcheck, with 6 sets logged across Berlin, Frankfurt, Munich and Stockholm and 1 more. Often billed alongside Pascal Fischer, Anaté and Anja Schneider. Next up: Zur Insel, Frankfurt on Sat 12 Sept.
 
@@ -22,4 +22,4 @@ Aténo is a house and techno artist tracked on soundcheck, with 6 sets logged ac
 
 Pascal Fischer, Anaté, Anja Schneider
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ateno/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ateno/)*

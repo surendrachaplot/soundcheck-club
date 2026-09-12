@@ -1,8 +1,8 @@
 # M-High
 
-M-High is a House and Tech House artist with 11 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at Flash, Washington DC on Fri, 18 Sept 2026.
+M-High is a House and Tech House artist with 12 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Flash, Washington DC on Fri, 18 Sept 2026.
 
-M-High is a house and tech house artist tracked on soundcheck, with 180 sets logged across Amsterdam, Austin, Bangkok and Barcelona and 32 more. Often billed alongside Prunk, Job de Jong and Dennis Quin. Next up: Flash, Washingtondc on Fri 18 Sept.
+M-High is a house and tech house artist tracked on soundcheck, with 181 sets logged across Amsterdam, Austin, Bangkok and Barcelona and 32 more. Often billed alongside Prunk, Job de Jong and Dennis Quin. Next up: Flash, Washingtondc on Fri 18 Sept.
 
 ## Upcoming shows
 
@@ -19,6 +19,7 @@ M-High is a house and tech house artist tracked on soundcheck, with 180 sets log
 | Thu, 22 Oct 2026 | Theater Amsterdam | Amsterdam |
 | Sat, 24 Oct 2026 | Thuishaven | Amsterdam |
 | Sat, 14 Nov 2026 | Maassilo | Rotterdam |
+| Fri, 27 Nov 2026 | Depot Mayfield | Manchester |
 
 ## Recently played
 
@@ -35,4 +36,4 @@ M-High is a house and tech house artist tracked on soundcheck, with 180 sets log
 
 Prunk, Job de Jong, Dennis Quin
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/m-high/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/m-high/)*

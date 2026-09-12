@@ -1,8 +1,8 @@
 # Taylor Monai
 
-Taylor Monai is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 11 Sept 2026, next at TBA - Cass Corridor, Detroit on Sat, 12 Sept 2026.
+Taylor Monai is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 12 Sept 2026, next at TBA - Cass Corridor, Detroit on Sat, 12 Sept 2026.
 
-Taylor Monai is a techno and house artist based in United States of America, tracked on soundcheck, with 41 sets logged across Detroit. Often billed alongside Stevano, Perish and Wax Assassin. Next up: TBA - Cass Corridor, Detroit on Sat 12 Sept.
+Taylor Monai is a techno and house artist based in United States of America, tracked on soundcheck, with 42 sets logged across Detroit. Often billed alongside Stevano, Perish and Wax Assassin. Next up: TBA - Cass Corridor, Detroit on Sat 12 Sept.
 
 ## Upcoming shows
 
@@ -12,6 +12,7 @@ Taylor Monai is a techno and house artist based in United States of America, tra
 
 ## Recently played
 
+- Cannons, Detroit — Fri, 11 Sept 2026
 - Spkrbox, Detroit — Sat, 22 Aug 2026
 - 215 W, Detroit — Fri, 14 Aug 2026
 - Per Ankh Detroit Entheogenic Church, Detroit — Sun, 26 Jul 2026
@@ -19,10 +20,9 @@ Taylor Monai is a techno and house artist based in United States of America, tra
 - Spkrbox, Detroit — Tue, 30 Jun 2026
 - TBA - 1151 Taylor St. - Detroit Mi., Detroit — Fri, 26 Jun 2026
 - Cannons, Detroit — Fri, 19 Jun 2026
-- Spkrbox, Detroit — Sat, 6 Jun 2026
 
 ## Shares bills with
 
 Stevano, Perish, Wax Assassin
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/taylormonai/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/taylormonai/)*

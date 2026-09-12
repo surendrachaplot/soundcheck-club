@@ -1,8 +1,8 @@
 # The Berkeley Suite
 
-The Berkeley Suite is a music venue in Glasgow with 33 upcoming nights listed on soundcheck as of Fri, 11 Sept 2026; the next is "FemmeDM CORE" on Fri, 11 Sept 2026.
+The Berkeley Suite is a music venue in Glasgow with 34 upcoming nights listed on soundcheck as of Sat, 12 Sept 2026; the next is "FemmeDM CORE" on Fri, 11 Sept 2026.
 
-The Berkeley Suite is a music venue in Glasgow listed on soundcheck. 33 upcoming nights, with line-ups including Amizl, Big Miz, Bonzai Bonner and Bruce Sangster and 2 more. Browse upcoming dates, start times and who's playing. 237 North Street; Glasgow, G3 7DL, Scotland, United Kingdom.
+The Berkeley Suite is a music venue in Glasgow listed on soundcheck. 34 upcoming nights, with line-ups including Amizl, Andy Barton, Big Miz and Bonzai Bonner and 2 more. Browse upcoming dates, start times and who's playing. 237 North Street; Glasgow, G3 7DL, Scotland, United Kingdom.
 
 ## What's on
 
@@ -23,4 +23,4 @@ The Berkeley Suite is a music venue in Glasgow listed on soundcheck. 33 upcoming
 
 237 North Street; Glasgow, G3 7DL, Scotland, United Kingdom, Glasgow
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/the-berkeley-suite/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/the-berkeley-suite/)*

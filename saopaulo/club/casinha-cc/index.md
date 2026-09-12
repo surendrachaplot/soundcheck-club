@@ -1,6 +1,6 @@
 # Casinha cc
 
-Casinha cc is a music venue in Sao Paulo with 1 upcoming night listed on soundcheck as of Fri, 11 Sept 2026; the next is "Trato Convida Rara Djs Na Casinha" on Sat, 12 Sept 2026.
+Casinha cc is a music venue in Sao Paulo with 1 upcoming night listed on soundcheck as of Sat, 12 Sept 2026; the next is "Trato Convida Rara Djs Na Casinha" on Sat, 12 Sept 2026.
 
 Casinha cc is a music venue in Saopaulo listed on soundcheck. 1 upcoming night, with line-ups including Bernardo Campos, Leo Janeiro and Trato Soundsystem. Browse upcoming dates, start times and who's playing. Rua Jorge Rizzo, 63 - Pinheiros, São Paulo - SP, 05424-060, Brasil.
 
@@ -14,4 +14,4 @@ Casinha cc is a music venue in Saopaulo listed on soundcheck. 1 upcoming night, 
 
 Rua Jorge Rizzo, 63 - Pinheiros, São Paulo - SP, 05424-060, Brasil, Sao Paulo
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/saopaulo/club/casinha-cc/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/saopaulo/club/casinha-cc/)*

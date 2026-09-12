@@ -1,6 +1,6 @@
 # Dive Deep: ADE Closing - Melodic Edition w/ Stylo at Oliva
 
-Dive Deep: ADE Closing - Melodic Edition w/ Stylo at Oliva on Sun 25 Oct, Amsterdam. 7 acts on the bill: Amethy, FR3ADY, Patrick Krause and Soofnic and 3 more. Progressive House and Afro House. Preview the line-up and save it on soundcheck.
+Dive Deep: ADE Closing - Melodic Edition w/ Stylo at Oliva on Sun 25 Oct, Amsterdam. 9 acts on the bill: Amethy, FR3ADY, GWEN DE LIEN and KARINSMATIC and 5 more. Progressive House and Afro House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -12,6 +12,8 @@ Dive Deep: ADE Closing - Melodic Edition w/ Stylo at Oliva on Sun 25 Oct, Amster
 
 - Amethy
 - FR3ADY
+- GWEN DE LIEN
+- KARINSMATIC
 - Patrick Krause
 - Soofnic
 - Stylo

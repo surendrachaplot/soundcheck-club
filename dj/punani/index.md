@@ -1,6 +1,6 @@
 # Punani
 
-Punani is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at Renate, Berlin on Fri, 11 Sept 2026.
+Punani is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Renate, Berlin on Fri, 11 Sept 2026.
 
 Punani is a house and techno artist tracked on soundcheck, with 45 sets logged across Berlin, Cologne, Hamburg and Leipzig and 2 more. Often billed alongside Crille & Tamalt, Gwen Wayne and Rafush. Next up: Renate, Berlin on Fri 11 Sept.
 
@@ -13,6 +13,7 @@ Punani is a house and techno artist tracked on soundcheck, with 45 sets logged a
 
 ## Recently played
 
+- Renate, Berlin — Fri, 11 Sept 2026
 - Südpol, Hamburg — Fri, 16 Jan 2026
 - Renate, Berlin — Wed, 31 Dec 2025
 - Kater, Berlin — Wed, 31 Dec 2025
@@ -20,10 +21,9 @@ Punani is a house and techno artist tracked on soundcheck, with 45 sets logged a
 - Alte Feuerwache THF, Berlin — Sat, 18 Oct 2025
 - Renate, Berlin — Fri, 12 Sept 2025
 - Schwuz, Berlin — Sat, 26 Jul 2025
-- ://about blank, Berlin — Sat, 19 Jul 2025
 
 ## Shares bills with
 
 Crille & Tamalt, Gwen Wayne, Rafush
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/punani/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/punani/)*

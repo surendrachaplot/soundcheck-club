@@ -1,6 +1,6 @@
 # Spice
 
-Spice is a Hip-Hop and Afrobeat artist with 2 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at Club NYX, Amsterdam on Fri, 11 Sept 2026.
+Spice is a Hip-Hop and Afrobeat artist with 2 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Club NYX, Amsterdam on Fri, 11 Sept 2026.
 
 Spice is a hip-hop and afrobeat artist tracked on soundcheck, with 8 sets logged across Amsterdam, Geneva, Ibiza and London and 2 more. Often billed alongside ID, Sweets and Vybz Kartel. Next up: Club NYX, Amsterdam on Fri 11 Sept.
 
@@ -13,6 +13,7 @@ Spice is a hip-hop and afrobeat artist tracked on soundcheck, with 8 sets logged
 
 ## Recently played
 
+- Club NYX, Amsterdam — Fri, 11 Sept 2026
 - Hippodrome de Vincennes, Paris — Fri, 3 Jul 2026
 - Trapeze Bar, London — Sat, 2 May 2026
 - Brixton Storeys, London — Sat, 18 Apr 2026
@@ -24,4 +25,4 @@ Spice is a hip-hop and afrobeat artist tracked on soundcheck, with 8 sets logged
 
 ID, Sweets, Vybz Kartel
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/spice/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/spice/)*

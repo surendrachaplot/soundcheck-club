@@ -1,6 +1,6 @@
 # daveh00d
 
-daveh00d is a House and Pop artist with 2 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at Sexto Piso, Mexico City on Tue, 15 Sept 2026.
+daveh00d is a House and Pop artist with 2 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Sexto Piso, Mexico City on Tue, 15 Sept 2026.
 
 daveh00d is a house and pop artist based in Mexico, tracked on soundcheck, with 39 sets logged across Mexicocity. Often billed alongside OMFDAN, Alby Esc and Macarena. Next up: Sexto Piso, Mexicocity on Tue 15 Sept.
 
@@ -26,4 +26,4 @@ daveh00d is a house and pop artist based in Mexico, tracked on soundcheck, with 
 
 OMFDAN, Alby Esc, Macarena
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/daveh00d/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/daveh00d/)*

@@ -1,6 +1,6 @@
 # 99 Scott Ave
 
-99 Scott Ave is a music venue in New York City with 7 upcoming nights listed on soundcheck as of Fri, 11 Sept 2026; the next is "Nitefreak presents HiNDE" on Fri, 18 Sept 2026.
+99 Scott Ave is a music venue in New York City with 7 upcoming nights listed on soundcheck as of Sat, 12 Sept 2026; the next is "Nitefreak presents HiNDE" on Fri, 18 Sept 2026.
 
 99 Scott Ave is a music venue in Newyorkcity listed on soundcheck. 7 upcoming nights, with line-ups including A.K.R, ARODES, Joshwa and JUNO (DE) and 2 more. Browse upcoming dates, start times and who's playing. 99 Scott Ave, Brooklyn, NY 11237.
 
@@ -14,10 +14,10 @@
 | Fri, 13 Nov 2026 | Elsewhere presents: Luke Alexander at 99 Scott - Dedro, Shankz, Matty Chiuch | Luke Alexander, Shankz |
 | Sat, 21 Nov 2026 | Joshwa All Night Long Birthday Set | Joshwa |
 | Sat, 28 Nov 2026 | Space92 & Guests | Space 92 |
-| Sat, 5 Dec 2026 | J. Worra Extended Set | J. Worra |
+| Sat, 5 Dec 2026 | J. Worra [Extended Set] w. Marco Tropeano | J. Worra, Marco Tropeano, Slaycey |
 
 ## Address
 
 99 Scott Ave, Brooklyn, NY 11237, New York City
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/99-scott-ave/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/99-scott-ave/)*

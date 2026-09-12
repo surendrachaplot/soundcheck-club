@@ -1,6 +1,6 @@
 # Arude
 
-Arude is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Fri, 11 Sept 2026, next at OCZKI, Warsaw on Sat, 12 Sept 2026.
+Arude is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Sat, 12 Sept 2026, next at OCZKI, Warsaw on Sat, 12 Sept 2026.
 
 Arude is a techno and tech house artist tracked on soundcheck, with 11 sets logged across Berlin, Copenhagen, Krakow and Prague and 1 more. Often billed alongside Sincz, Biodan and GHEIST. Next up: OCZKI, Warsaw on Sat 12 Sept.
 
@@ -25,4 +25,4 @@ Arude is a techno and tech house artist tracked on soundcheck, with 11 sets logg
 
 Sincz, Biodan, GHEIST
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/arude/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/arude/)*

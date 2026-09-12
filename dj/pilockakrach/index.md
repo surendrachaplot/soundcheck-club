@@ -1,6 +1,6 @@
 # Pilocka Krach
 
-Pilocka Krach is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 11 Sept 2026, next at Marmorbar, Berlin on Fri, 25 Sept 2026.
+Pilocka Krach is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 12 Sept 2026, next at Marmorbar, Berlin on Fri, 25 Sept 2026.
 
 Pilocka Krach is a house and techno artist tracked on soundcheck, with 25 sets logged across Berlin, Hamburg, Paris and Stuttgart and 1 more. Often billed alongside Mimi Love, Alma Linda and Foolik. Next up: Marmorbar, Berlin on Fri 25 Sept.
 
@@ -25,4 +25,4 @@ Pilocka Krach is a house and techno artist tracked on soundcheck, with 25 sets l
 
 Mimi Love, Alma Linda, Foolik
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/pilockakrach/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/pilockakrach/)*

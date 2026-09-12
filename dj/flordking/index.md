@@ -1,6 +1,6 @@
 # Flord King
 
-Flord King is a Minimal and Tech House artist with 1 upcoming club date listed on soundcheck as of Fri, 11 Sept 2026, next at Collect LX Factory, Lisbon on Fri, 16 Oct 2026.
+Flord King is a Minimal and Tech House artist with 1 upcoming club date listed on soundcheck as of Sat, 12 Sept 2026, next at Collect LX Factory, Lisbon on Fri, 16 Oct 2026.
 
 Flord King is a minimal and tech house artist tracked on soundcheck, with 12 sets logged across Lisbon and Stockholm. Often billed alongside Nico O'Konor, Daniel Lien and Parallax Deep. Next up: Collect LX Factory, Lisbon on Fri 16 Oct.
 
@@ -25,4 +25,4 @@ Flord King is a minimal and tech house artist tracked on soundcheck, with 12 set
 
 Nico O'Konor, Daniel Lien, Parallax Deep
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/flordking/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/flordking/)*

@@ -1,6 +1,6 @@
 # The Camden
 
-The Camden is a music venue in London with 3 upcoming nights listed on soundcheck as of Fri, 11 Sept 2026; the next is "OASESS – The UK's Greatest Oasiz Tribute Live" on Sat, 12 Sept 2026.
+The Camden is a music venue in London with 3 upcoming nights listed on soundcheck as of Sat, 12 Sept 2026; the next is "OASESS – The UK's Greatest Oasiz Tribute Live" on Sat, 12 Sept 2026.
 
 The Camden is a music venue in London listed on soundcheck. 3 upcoming nights. Browse upcoming dates, start times and who's playing. 65 Crowndale Road, Camden, London, NW1 1TN.
 
@@ -16,4 +16,4 @@ The Camden is a music venue in London listed on soundcheck. 3 upcoming nights. B
 
 65 Crowndale Road, Camden, London, NW1 1TN, London
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/the-camden/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/the-camden/)*

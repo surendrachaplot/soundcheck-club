@@ -1,6 +1,6 @@
 # Hola Club Sitges (Cala Vallcarca)
 
-Hola Club Sitges (Cala Vallcarca) is a music venue in Barcelona with 5 upcoming nights listed on soundcheck as of Fri, 11 Sept 2026; the next is "Output at Hola Beach Club pres. Denis Sulta" on Sat, 12 Sept 2026.
+Hola Club Sitges (Cala Vallcarca) is a music venue in Barcelona with 5 upcoming nights listed on soundcheck as of Sat, 12 Sept 2026; the next is "Output at Hola Beach Club pres. Denis Sulta" on Sat, 12 Sept 2026.
 
 Hola Club Sitges (Cala Vallcarca) is a music venue in Barcelona listed on soundcheck. 5 upcoming nights, with line-ups including _MARCBA, Alex Pott, Camelia (IT) and Denis Sulta and 2 more. Browse upcoming dates, start times and who's playing. 08872 Sitges, Barcelona.
 
@@ -18,4 +18,4 @@ Hola Club Sitges (Cala Vallcarca) is a music venue in Barcelona listed on soundc
 
 08872 Sitges, Barcelona, Barcelona
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/hola-club-sitges-cala-vallcarca/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/hola-club-sitges-cala-vallcarca/)*

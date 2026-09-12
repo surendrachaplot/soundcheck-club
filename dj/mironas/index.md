@@ -1,6 +1,6 @@
 # Mironas
 
-Mironas is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Fri, 11 Sept 2026, next at Skull Bar, Athens on Sun, 13 Sept 2026.
+Mironas is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Sat, 12 Sept 2026, next at Skull Bar, Athens on Sun, 13 Sept 2026.
 
 Mironas is a techno and tech house artist based in Greece, tracked on soundcheck, with 26 sets logged across Athens and Barcelona. Often billed alongside Alican, Cipy and Echonomist. Next up: Skull Bar, Athens on Sun 13 Sept.
 
@@ -25,4 +25,4 @@ Mironas is a techno and tech house artist based in Greece, tracked on soundcheck
 
 Alican, Cipy, Echonomist
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mironas/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mironas/)*

@@ -1,8 +1,8 @@
 # Teritorija
 
-Teritorija is a music venue in Riga with 13 upcoming nights listed on soundcheck as of Fri, 11 Sept 2026; the next is "Aniri Chan // VLAD PHANGAN" on Fri, 11 Sept 2026.
+Teritorija is a music venue in Riga with 14 upcoming nights listed on soundcheck as of Sat, 12 Sept 2026; the next is "Aniri Chan // VLAD PHANGAN" on Fri, 11 Sept 2026.
 
-Teritorija is a music venue in Riga listed on soundcheck. 13 upcoming nights, with line-ups including Aniri Chan, ARRISHA, B2BBASS and DENOVA and 2 more. Browse upcoming dates, start times and who's playing. Krišjāņa Barona Street 136, Riga.
+Teritorija is a music venue in Riga listed on soundcheck. 14 upcoming nights, with line-ups including Aniri Chan, ARRISHA, B2BBASS and DENOVA and 2 more. Browse upcoming dates, start times and who's playing. Krišjāņa Barona Street 136, Riga.
 
 ## What's on
 
@@ -17,10 +17,10 @@ Teritorija is a music venue in Riga listed on soundcheck. 13 upcoming nights, wi
 | Fri, 25 Sept 2026 | Mike Discoid // Pulss | Mike Discoid, Pulss |
 | Sat, 26 Sept 2026 | Kat Kat Tat | Kat Kat Tat |
 | Fri, 9 Oct 2026 | COSMO RAVE: AROUND THE WORLD |  |
-| Fri, 16 Oct 2026 | Platz fur Tanz x Teritorija 10 Years Anniversary |  |
+| Fri, 16 Oct 2026 | Platz fur Tanz x Teritorija 10 Years Anniversary | Dmitry Puffin, Ksenia Kamikaza |
 
 ## Address
 
 Krišjāņa Barona Street 136, Riga, Riga
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/riga/club/teritorija/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/riga/club/teritorija/)*

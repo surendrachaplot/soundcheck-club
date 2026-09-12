@@ -1,13 +1,14 @@
 # Depot Mayfield
 
-Depot Mayfield is a music venue in Manchester with 18 upcoming nights listed on soundcheck as of Fri, 11 Sept 2026; the next is "KI/KI Manchester" on Fri, 18 Sept 2026.
+Depot Mayfield is a music venue in Manchester with 21 upcoming nights listed on soundcheck as of Sat, 12 Sept 2026; the next is "WHP presents: 20 years of The Warehouse Project" on Sat, 12 Sept 2026.
 
-Depot Mayfield is a music venue in Manchester listed on soundcheck. 18 upcoming nights, with line-ups including 2FEL, 2Shy MC, 4000 Hz and 4am Kru and 2 more. Browse upcoming dates, start times and who's playing. 11 Baring St, Manchester, M1 2PY.
+Depot Mayfield is a music venue in Manchester listed on soundcheck. 21 upcoming nights, with line-ups including 2FEL, 2Shy MC, 4000 Hz and 4am Kru and 2 more. Browse upcoming dates, start times and who's playing. 11 Baring St, Manchester, M1 2PY.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
+| Sat, 12 Sept 2026 | WHP presents: 20 years of The Warehouse Project |  |
 | Fri, 18 Sept 2026 | KI/KI Manchester | KI/KI |
 | Sat, 19 Sept 2026 | WHP26 /// Rampa  &ME (Keinemusik) | &ME, Rampa |
 | Fri, 25 Sept 2026 | WHP presents: Solomun | Solomun |
@@ -17,10 +18,9 @@ Depot Mayfield is a music venue in Manchester listed on soundcheck. 18 upcoming 
 | Sat, 10 Oct 2026 | Interplanetary Criminal presents | Anz, Bakey, Camille Doe, Club Angel, DJ Cosworth, DJ Seinfeld, Dr Dubplate, Faster Horses, HAAi, Helena Lauwaert, Interplanetary Criminal, Joy Orbison, Jyoty, La La, Larishka, Lauren Lo Sung, Lewis Taylor, MALUGI, Main Phase, Notion, Oldboy, Osmosis Jones, Prozak (IRL), Silva Bumpa, Skin On Skin, bullet tooth |
 | Fri, 16 Oct 2026 | WHP + Teletech presents DOOF - Hannah Laing | Hannah Laing |
 | Sat, 17 Oct 2026 | WHP26 /// Eric Prydz [Concourse Only] | Eric Prydz |
-| Sat, 24 Oct 2026 | Duke Dumont, Manchester | Duke Dumont |
 
 ## Address
 
 11 Baring St, Manchester, M1 2PY, Manchester
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/depot-mayfield/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/depot-mayfield/)*

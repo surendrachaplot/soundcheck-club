@@ -1,6 +1,6 @@
 # Paul Hazendonk
 
-Paul Hazendonk is a Progressive House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 11 Sept 2026, next at Kadinsky Cafe, Amsterdam on Sat, 24 Oct 2026.
+Paul Hazendonk is a Progressive House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 12 Sept 2026, next at Kadinsky Cafe, Amsterdam on Sat, 24 Oct 2026.
 
 Paul Hazendonk is a progressive house and techno artist tracked on soundcheck, with 11 sets logged across Amsterdam and Thehague. Often billed alongside Around Us, Callecat and Francesco Pico. Next up: Kadinsky Cafe, Amsterdam on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ Paul Hazendonk is a progressive house and techno artist tracked on soundcheck, w
 
 Around Us, Callecat, Francesco Pico
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/paulhazendonk/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/paulhazendonk/)*

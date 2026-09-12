@@ -1,6 +1,6 @@
 # Turtur
 
-Turtur is a music venue in Hamburg with 3 upcoming nights listed on soundcheck as of Fri, 11 Sept 2026; the next is "Sonnenblumen Soli No. 6" on Fri, 11 Sept 2026.
+Turtur is a music venue in Hamburg with 3 upcoming nights listed on soundcheck as of Sat, 12 Sept 2026; the next is "Sonnenblumen Soli No. 6" on Fri, 11 Sept 2026.
 
 Turtur is a music venue in Hamburg listed on soundcheck. 3 upcoming nights, with line-ups including Bizzarro Universe, EllA, Mono and Kusten and Schlawinsky. Browse upcoming dates, start times and who's playing. Am Veringhof 13, 21107, Hamburg, Germany.
 
@@ -16,4 +16,4 @@ Turtur is a music venue in Hamburg listed on soundcheck. 3 upcoming nights, with
 
 Am Veringhof 13, 21107, Hamburg, Germany, Hamburg
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/hamburg/club/turtur/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/hamburg/club/turtur/)*

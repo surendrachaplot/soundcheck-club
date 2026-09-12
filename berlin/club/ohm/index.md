@@ -1,6 +1,6 @@
 # OHM
 
-OHM is a music venue in Berlin with 24 upcoming nights listed on soundcheck as of Fri, 11 Sept 2026; the next is "Against Interpretation Club" on Fri, 11 Sept 2026.
+OHM is a music venue in Berlin with 24 upcoming nights listed on soundcheck as of Sat, 12 Sept 2026; the next is "Against Interpretation Club" on Fri, 11 Sept 2026.
 
 OHM is a music venue in Berlin listed on soundcheck. 24 upcoming nights, with line-ups including Aaronovsky, Afidissima, Alexy and Anja Schneider and 2 more. Browse upcoming dates, start times and who's playing. Köpenicker Str. 70, 10179 Berlin, Germany.
 
@@ -17,10 +17,10 @@ OHM is a music venue in Berlin listed on soundcheck. 24 upcoming nights, with li
 | Fri, 25 Sept 2026 | twin | Cosmo (KR), Lb Honne, Richard Akingbehin, Tina (DE) |
 | Sat, 26 Sept 2026 | version | Aaronovsky, DJ Betska, DJ Hops, Orson, ZE:NA |
 | Thu, 1 Oct 2026 | ARA x OHM |  |
-| Fri, 2 Oct 2026 | Body Language pres. Body Talk |  |
+| Fri, 2 Oct 2026 | Body Language pres. Body Talk | Manolo. (DE), Stella Zekri, Tam Tam |
 
 ## Address
 
 Köpenicker Str. 70, 10179 Berlin, Germany, Berlin
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/ohm/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/ohm/)*

@@ -1,6 +1,6 @@
 # Noncitizens
 
-Noncitizens is a House and Progressive House artist with 1 upcoming club date listed on soundcheck as of Fri, 11 Sept 2026, next at Seaseaclub Barcelona, Barcelona on Sun, 18 Oct 2026.
+Noncitizens is a House and Progressive House artist with 1 upcoming club date listed on soundcheck as of Sat, 12 Sept 2026, next at Seaseaclub Barcelona, Barcelona on Sun, 18 Oct 2026.
 
 Noncitizens is a house and progressive house artist tracked on soundcheck, with 35 sets logged across Barcelona, Buenosaires, Ibiza and Madrid and 3 more. Often billed alongside Guy Gerber, Facundo Mohrr and Colyn. Next up: Seaseaclub Barcelona, Barcelona on Sun 18 Oct.
 
@@ -25,4 +25,4 @@ Noncitizens is a house and progressive house artist tracked on soundcheck, with 
 
 Guy Gerber, Facundo Mohrr, Colyn
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/noncitizens/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/noncitizens/)*

@@ -1,6 +1,6 @@
 # Young Pulse
 
-Young Pulse is a Disco and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at Cabaret Sauvage, Paris on Sat, 19 Sept 2026.
+Young Pulse is a Disco and House artist with 2 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Cabaret Sauvage, Paris on Sat, 19 Sept 2026.
 
 Young Pulse is a disco and house artist tracked on soundcheck, with 96 sets logged across Amsterdam, Barcelona, Berlin and Geneva and 13 more. Often billed alongside Melvo Baptiste, Tonno Disko and Dave Lee. Next up: Cabaret Sauvage, Paris on Sat 19 Sept.
 
@@ -26,4 +26,4 @@ Young Pulse is a disco and house artist tracked on soundcheck, with 96 sets logg
 
 Melvo Baptiste, Tonno Disko, Dave Lee
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/youngpulse/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/youngpulse/)*

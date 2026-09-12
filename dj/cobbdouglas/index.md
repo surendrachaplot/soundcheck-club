@@ -1,14 +1,15 @@
 # Cobb Douglas
 
-Cobb Douglas is a Techno and Trance artist with 9 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at Lokschuppen Berlin, Berlin on Fri, 11 Sept 2026.
+Cobb Douglas is a Techno and Trance artist with 10 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Lokschuppen Berlin, Berlin on Fri, 11 Sept 2026.
 
-Cobb Douglas is a techno and trance artist based in Spain, tracked on soundcheck, with 120 sets logged across Barcelona, Belgrade, Berlin and Cologne and 8 more. Often billed alongside Ozzwald, Stinny Stone and Amøn. Next up: Lokschuppen Berlin, Berlin on Fri 11 Sept.
+Cobb Douglas is a techno and trance artist based in Spain, tracked on soundcheck, with 121 sets logged across Barcelona, Belgrade, Berlin and Cologne and 9 more. Often billed alongside Ozzwald, Stinny Stone and Amøn. Next up: Lokschuppen Berlin, Berlin on Fri 11 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 11 Sept 2026 | Lokschuppen Berlin | Berlin |
+| Fri, 25 Sept 2026 | The Comfort Zone | Toronto |
 | Fri, 2 Oct 2026 | Puma Käfig Berlin | Berlin |
 | Fri, 2 Oct 2026 | Casa Nube Wynwood | Miami |
 | Sat, 17 Oct 2026 | ://about blank | Berlin |
@@ -20,6 +21,7 @@ Cobb Douglas is a techno and trance artist based in Spain, tracked on soundcheck
 
 ## Recently played
 
+- Lokschuppen Berlin, Berlin — Fri, 11 Sept 2026
 - Großer Bunkerberg Volkspark Fhain, Berlin — Sat, 5 Sept 2026
 - Lokschuppen Berlin, Berlin — Fri, 4 Sept 2026
 - DSTRKT Club Berlin, Berlin — Fri, 4 Sept 2026
@@ -27,10 +29,9 @@ Cobb Douglas is a techno and trance artist based in Spain, tracked on soundcheck
 - Lokschuppen Berlin, Berlin — Fri, 21 Aug 2026
 - KitKatClub, Berlin — Thu, 20 Aug 2026
 - Lokschuppen Berlin, Berlin — Wed, 19 Aug 2026
-- KitKatClub, Berlin — Thu, 13 Aug 2026
 
 ## Shares bills with
 
 Ozzwald, Stinny Stone, Amøn
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/cobbdouglas/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/cobbdouglas/)*

@@ -1,6 +1,6 @@
 # AKIIM
 
-AKIIM is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at Hafenklang, Hamburg on Fri, 11 Sept 2026.
+AKIIM is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Hafenklang, Hamburg on Fri, 11 Sept 2026.
 
 AKIIM is a techno and trance artist tracked on soundcheck, with 43 sets logged across Berlin and Hamburg. Often billed alongside SPORTMANN, co:co and Elon Bass. Next up: Hafenklang, Hamburg on Fri 11 Sept.
 
@@ -13,6 +13,7 @@ AKIIM is a techno and trance artist tracked on soundcheck, with 43 sets logged a
 
 ## Recently played
 
+- Hafenklang, Hamburg — Fri, 11 Sept 2026
 - Karoline 45, Hamburg — Sat, 9 May 2026
 - Baalsaal, Hamburg — Sun, 12 Apr 2026
 - Karoline 45, Hamburg — Sat, 14 Mar 2026
@@ -20,10 +21,9 @@ AKIIM is a techno and trance artist tracked on soundcheck, with 43 sets logged a
 - Phantom Bar Berlin, Berlin — Sat, 17 Jan 2026
 - Twentyfive, Hamburg — Thu, 1 Jan 2026
 - Twentyfive, Hamburg — Fri, 31 Oct 2025
-- Baalsaal, Hamburg — Sat, 18 Oct 2025
 
 ## Shares bills with
 
 SPORTMANN, co:co, Elon Bass
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/akiim/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/akiim/)*

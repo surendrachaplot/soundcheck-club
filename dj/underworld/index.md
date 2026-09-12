@@ -1,6 +1,6 @@
 # Underworld
 
-Underworld is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at Mana Wynwood, Miami on Fri, 16 Oct 2026.
+Underworld is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Mana Wynwood, Miami on Fri, 16 Oct 2026.
 
 Underworld is a techno and house artist tracked on soundcheck, with 35 sets logged across Austin, Barcelona, Belfast and Berlin and 16 more. Often billed alongside KI/KI, X CLUB. and Ross From Friends. Next up: Mana Wynwood, Miami on Fri 16 Oct.
 
@@ -26,4 +26,4 @@ Underworld is a techno and house artist tracked on soundcheck, with 35 sets logg
 
 KI/KI, X CLUB., Ross From Friends
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/underworld/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/underworld/)*

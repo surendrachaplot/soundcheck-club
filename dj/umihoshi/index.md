@@ -1,6 +1,6 @@
 # Umi Hoshi
 
-Umi Hoshi is a Club and Experimental artist with 1 upcoming club date listed on soundcheck as of Fri, 11 Sept 2026, next at Pistil, Seoul on Sat, 12 Sept 2026.
+Umi Hoshi is a Club and Experimental artist with 1 upcoming club date listed on soundcheck as of Sat, 12 Sept 2026, next at Pistil, Seoul on Sat, 12 Sept 2026.
 
 Umi Hoshi is a club and experimental artist based in South Korea, tracked on soundcheck, with 10 sets logged across Seoul. Often billed alongside dayoung, MAZE (KR) and Arexibo. Next up: Pistil, Seoul on Sat 12 Sept.
 
@@ -25,4 +25,4 @@ Umi Hoshi is a club and experimental artist based in South Korea, tracked on sou
 
 dayoung, MAZE (KR), Arexibo
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/umihoshi/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/umihoshi/)*

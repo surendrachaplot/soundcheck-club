@@ -1,6 +1,6 @@
 # Simon Says
 
-Simon Says is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 11 Sept 2026, next at Zenith - Die Kulturhalle, Munich on Fri, 4 Dec 2026.
+Simon Says is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 12 Sept 2026, next at Zenith - Die Kulturhalle, Munich on Fri, 4 Dec 2026.
 
 Simon Says is a house and techno artist based in France, tracked on soundcheck, with 13 sets logged across Berlin, Chicago, Denver and Frankfurt and 4 more. Often billed alongside Nico Sonntag, The Belgian Stallion and AK1200. Next up: Zenith - Die Kulturhalle, Munich on Fri 4 Dec.
 
@@ -25,4 +25,4 @@ Simon Says is a house and techno artist based in France, tracked on soundcheck, 
 
 Nico Sonntag, The Belgian Stallion, AK1200
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/simonsays/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/simonsays/)*

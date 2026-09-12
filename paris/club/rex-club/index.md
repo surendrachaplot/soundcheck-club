@@ -1,8 +1,8 @@
 # Rex Club
 
-Rex Club is a music venue in Paris with 18 upcoming nights listed on soundcheck as of Fri, 11 Sept 2026; the next is "Orange Crush presents: LAMALICE (Live), Mariiin, Rēve" on Fri, 11 Sept 2026.
+Rex Club is a music venue in Paris with 19 upcoming nights listed on soundcheck as of Sat, 12 Sept 2026; the next is "Orange Crush presents: LAMALICE (Live), Mariiin, Rēve" on Fri, 11 Sept 2026.
 
-Rex Club is a music venue in Paris listed on soundcheck. 18 upcoming nights, with line-ups including 2ManyDJs, Mariiin, Anja Sugar and Antal and 2 more. Browse upcoming dates, start times and who's playing. 5 boulevard Poissonnière; 75002; Paris; France.
+Rex Club is a music venue in Paris listed on soundcheck. 19 upcoming nights, with line-ups including 2ManyDJs, Mariiin, Anja Sugar and Antal and 2 more. Browse upcoming dates, start times and who's playing. 5 boulevard Poissonnière; 75002; Paris; France.
 
 ## What's on
 
@@ -23,4 +23,4 @@ Rex Club is a music venue in Paris listed on soundcheck. 18 upcoming nights, wit
 
 5 boulevard Poissonnière; 75002; Paris; France, Paris
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/paris/club/rex-club/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/paris/club/rex-club/)*

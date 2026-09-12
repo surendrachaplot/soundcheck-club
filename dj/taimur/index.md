@@ -1,13 +1,14 @@
 # Taimur
 
-Taimur is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at TBA, Chicago on Sun, 27 Sept 2026.
+Taimur is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Mad Radio Miami, Miami on Sat, 19 Sept 2026.
 
-Taimur is a house and techno artist based in United States of America, tracked on soundcheck, with 77 sets logged across Boston, Chicago, Detroit and Losangeles and 6 more. Often billed alongside Ostara, Maksim and Brother Dan. Next up: TBA, Chicago on Sun 27 Sept.
+Taimur is a house and techno artist based in United States of America, tracked on soundcheck, with 78 sets logged across Boston, Chicago, Detroit and Losangeles and 6 more. Often billed alongside Ostara, Maksim and Brother Dan. Next up: Mad Radio Miami, Miami on Sat 19 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 19 Sept 2026 | Mad Radio Miami | Miami |
 | Sun, 27 Sept 2026 | TBA | Chicago |
 | Fri, 16 Oct 2026 | Mana Wynwood | Miami |
 | Fri, 30 Oct 2026 | Signal | New York City |
@@ -27,4 +28,4 @@ Taimur is a house and techno artist based in United States of America, tracked o
 
 Ostara, Maksim, Brother Dan
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/taimur/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/taimur/)*

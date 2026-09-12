@@ -1,6 +1,6 @@
 # Satl
 
-Satl is a Drum & Bass and Jungle artist with 1 upcoming club date listed on soundcheck as of Fri, 11 Sept 2026, next at The Jam Jar, Bristol on Sat, 10 Oct 2026.
+Satl is a Drum & Bass and Jungle artist with 1 upcoming club date listed on soundcheck as of Sat, 12 Sept 2026, next at The Jam Jar, Bristol on Sat, 10 Oct 2026.
 
 Satl is a drum & bass and jungle artist tracked on soundcheck, with 42 sets logged across Amsterdam, Antwerp, Auckland and Berlin and 16 more. Often billed alongside Lenzman, MC Fox and Fabio. Next up: The Jam Jar, Bristol on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ Satl is a drum & bass and jungle artist tracked on soundcheck, with 42 sets logg
 
 Lenzman, MC Fox, Fabio
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/satl/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/satl/)*

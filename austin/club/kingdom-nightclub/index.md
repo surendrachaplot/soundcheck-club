@@ -1,6 +1,6 @@
 # Kingdom Nightclub
 
-Kingdom Nightclub is a music venue in Austin with 5 upcoming nights listed on soundcheck as of Fri, 11 Sept 2026; the next is "TUFF ATX" on Sat, 5 Sept 2026.
+Kingdom Nightclub is a music venue in Austin with 5 upcoming nights listed on soundcheck as of Sat, 12 Sept 2026; the next is "TUFF ATX" on Sat, 5 Sept 2026.
 
 Kingdom Nightclub is a music venue in Austin listed on soundcheck. 5 upcoming nights, with line-ups including Amtrac, Andy Stott, Boomer Banks and bradeazy and 2 more. Browse upcoming dates, start times and who's playing. 505 E 7th St. Austin, Texas 78701.
 
@@ -18,4 +18,4 @@ Kingdom Nightclub is a music venue in Austin listed on soundcheck. 5 upcoming ni
 
 505 E 7th St. Austin, Texas 78701, Austin
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/austin/club/kingdom-nightclub/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/austin/club/kingdom-nightclub/)*

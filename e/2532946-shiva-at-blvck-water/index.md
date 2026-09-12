@@ -1,10 +1,10 @@
 # Shiva at Blvck Water
 
-Shiva at Blvck Water on Sat 12 Sept, Osaka. Techno. Preview the line-up and save it on soundcheck.
+Shiva at Blvck Water on Sun 13 Sept, Osaka. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
-| Date | Sat, 12 Sept 2026 |
+| Date | Sun, 13 Sept 2026 |
 | Venue | Blvck Water |
 | City | Osaka |
 

@@ -1,14 +1,14 @@
 # A38
 
-A38 is a music venue in Budapest with 10 upcoming nights listed on soundcheck as of Fri, 11 Sept 2026; the next is "Friday / Drum Club" on Fri, 11 Sept 2026.
+A38 is a music venue in Budapest with 10 upcoming nights listed on soundcheck as of Sat, 12 Sept 2026; the next is "Lick the Click! Sunburst Season Closing" on Sat, 12 Sept 2026.
 
-A38 is a music venue in Budapest listed on soundcheck. 10 upcoming nights, with line-ups including Bladerunner, Derek (2), Electric Boutique and Kanine and 2 more. Browse upcoming dates, start times and who's playing. Petőfi Bridge; 1114 Budapest; Budai alsó rakpart.
+A38 is a music venue in Budapest listed on soundcheck. 10 upcoming nights, with line-ups including Bladerunner, Crimson & Chrom, Derek (2) and Electric Boutique and 2 more. Browse upcoming dates, start times and who's playing. Petőfi Bridge; 1114 Budapest; Budai alsó rakpart.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 11 Sept 2026 | Friday / Drum Club |  |
+| Sat, 12 Sept 2026 | Lick the Click! Sunburst Season Closing | Crimson & Chrom, isu |
 | Thu, 17 Sept 2026 | Fine Selection #222 w/Derek, Nclr, Peter Bernath, Raqpar | Derek (2), Peter Bernath, Raqpar |
 | Sat, 19 Sept 2026 | DeBÍ TiRAR MáS FOToS (Budapest) - Bad Bunny Rooftop Fiesta |  |
 | Fri, 25 Sept 2026 | Drum Club with Merikan |  |
@@ -23,4 +23,4 @@ A38 is a music venue in Budapest listed on soundcheck. 10 upcoming nights, with 
 
 Petőfi Bridge; 1114 Budapest; Budai alsó rakpart, Budapest
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/budapest/club/a38/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/budapest/club/a38/)*

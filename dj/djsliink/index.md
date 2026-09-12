@@ -1,6 +1,6 @@
 # Dj Sliink
 
-Dj Sliink is a Club and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at TBA, Los Angeles on Sat, 26 Sept 2026.
+Dj Sliink is a Club and House artist with 2 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at TBA, Los Angeles on Sat, 26 Sept 2026.
 
 Dj Sliink is a club and house artist tracked on soundcheck, with 41 sets logged across Austin, Boston, Chicago and Denver and 11 more. Often billed alongside AceMo, Sinistarr and Suzi Analogue. Next up: TBA, Losangeles on Sat 26 Sept.
 
@@ -26,4 +26,4 @@ Dj Sliink is a club and house artist tracked on soundcheck, with 41 sets logged 
 
 AceMo, Sinistarr, Suzi Analogue
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djsliink/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djsliink/)*

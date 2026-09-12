@@ -1,8 +1,8 @@
 # ://about blank
 
-://about blank is a music venue in Berlin with 28 upcoming nights listed on soundcheck as of Fri, 11 Sept 2026; the next is "Kinky Indie Party + 2nd Floor: 80s New Wave • About Blank Berlin" on Fri, 11 Sept 2026.
+://about blank is a music venue in Berlin with 29 upcoming nights listed on soundcheck as of Sat, 12 Sept 2026; the next is "Kinky Indie Party + 2nd Floor: 80s New Wave • About Blank Berlin" on Fri, 11 Sept 2026.
 
-://about blank is a music venue in Berlin listed on soundcheck. 28 upcoming nights, with line-ups including 4NOUK, 5euroGoldi, YOVA and alemiko and 2 more. Browse upcoming dates, start times and who's playing. Markgrafendamm 24c, 10245 Berlin, Germany.
+://about blank is a music venue in Berlin listed on soundcheck. 29 upcoming nights, with line-ups including 4NOUK, 5euroGoldi, YOVA and alemiko and 2 more. Browse upcoming dates, start times and who's playing. Markgrafendamm 24c, 10245 Berlin, Germany.
 
 ## What's on
 
@@ -23,4 +23,4 @@
 
 Markgrafendamm 24c, 10245 Berlin, Germany, Berlin
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/about-blank/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/about-blank/)*

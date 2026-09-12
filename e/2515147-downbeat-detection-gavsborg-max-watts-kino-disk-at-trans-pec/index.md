@@ -1,6 +1,6 @@
-# DOWNBEAT DETECTION: Gavsborg, Max Watts, Kino Disk at Trans-Pecos
+# downbeat detection: Gavsborg, Max Watts, Kino Disk at Trans-Pecos
 
-DOWNBEAT DETECTION: Gavsborg, Max Watts, Kino Disk at Trans-Pecos on Thu 17 Sept, Newyorkcity. 3 acts on the bill: Gavsborg, Max Watts and Spiral Eddie. Dub and Dub Techno. Preview the line-up and save it on soundcheck.
+downbeat detection: Gavsborg, Max Watts, Kino Disk at Trans-Pecos on Thu 17 Sept, Newyorkcity. 3 acts on the bill: Gavsborg, Max Watts and Spiral Eddie. Dub and Dub Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

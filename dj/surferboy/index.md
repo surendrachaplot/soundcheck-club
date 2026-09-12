@@ -1,6 +1,6 @@
 # Surferboy
 
-Surferboy is a House and Garage artist with 1 upcoming club date listed on soundcheck as of Fri, 11 Sept 2026, next at The Big Romance, Dublin on Sat, 17 Oct 2026.
+Surferboy is a House and Garage artist with 1 upcoming club date listed on soundcheck as of Sat, 12 Sept 2026, next at The Big Romance, Dublin on Sat, 17 Oct 2026.
 
 Surferboy is a house and garage artist tracked on soundcheck, with 24 sets logged across Dublin, London, Paris and Utrecht. Often billed alongside Neo Cortex, Enclave (2) and Jenn Hession. Next up: The Big Romance, Dublin on Sat 17 Oct.
 
@@ -25,4 +25,4 @@ Surferboy is a house and garage artist tracked on soundcheck, with 24 sets logge
 
 Neo Cortex, Enclave (2), Jenn Hession
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/surferboy/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/surferboy/)*

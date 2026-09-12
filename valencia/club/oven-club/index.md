@@ -1,6 +1,6 @@
 # Oven Club
 
-Oven Club is a music venue in Valencia with 12 upcoming nights listed on soundcheck as of Fri, 11 Sept 2026; the next is "Total: Liquid Earth + Cam + Paola / Bar: Rafa Molina & Valery Velvet" on Fri, 11 Sept 2026.
+Oven Club is a music venue in Valencia with 12 upcoming nights listed on soundcheck as of Sat, 12 Sept 2026; the next is "Total: Liquid Earth + Cam + Paola / Bar: Rafa Molina & Valery Velvet" on Fri, 11 Sept 2026.
 
 Oven Club is a music venue in Valencia listed on soundcheck. 12 upcoming nights, with line-ups including BAR (DE), BEQA, blan.trrs and Blanch and 2 more. Browse upcoming dates, start times and who's playing. Gran Vía Germanías 31 Valencia.
 
@@ -23,4 +23,4 @@ Oven Club is a music venue in Valencia listed on soundcheck. 12 upcoming nights,
 
 Gran Vía Germanías 31 Valencia, Valencia
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/valencia/club/oven-club/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/valencia/club/oven-club/)*

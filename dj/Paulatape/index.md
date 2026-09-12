@@ -1,8 +1,8 @@
 # Paula Tape
 
-Paula Tape is a House and Techno artist with 6 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at public records, New York City on Sat, 12 Sept 2026.
+Paula Tape is a House and Techno artist with 7 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at public records, New York City on Sat, 12 Sept 2026.
 
-Paula Tape is a house and techno artist tracked on soundcheck, with 159 sets logged across Amsterdam, Athens, Bali and Bangkok and 48 more. Often billed alongside Avalon Emerson, Bonobo and Bradley Zero. Next up: public records, Newyorkcity on Sat 12 Sept.
+Paula Tape is a house and techno artist tracked on soundcheck, with 160 sets logged across Amsterdam, Athens, Bali and Bangkok and 48 more. Often billed alongside Avalon Emerson, Bonobo and Bradley Zero. Next up: public records, Newyorkcity on Sat 12 Sept.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ Paula Tape is a house and techno artist tracked on soundcheck, with 159 sets log
 | Sat, 12 Sept 2026 | public records | New York City |
 | Sun, 13 Sept 2026 | smartbar | Chicago |
 | Fri, 18 Sept 2026 | Fort Mifflin | Philadelphia |
+| Sun, 27 Sept 2026 | Circolo Amelia | Milan |
 | Fri, 16 Oct 2026 | Night Tales | London |
 | Thu, 22 Oct 2026 | Het Dorp | Amsterdam |
 | Sat, 14 Nov 2026 | TBA | Athens |
@@ -30,4 +31,4 @@ Paula Tape is a house and techno artist tracked on soundcheck, with 159 sets log
 
 Avalon Emerson, Bonobo, Bradley Zero
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/Paulatape/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/Paulatape/)*

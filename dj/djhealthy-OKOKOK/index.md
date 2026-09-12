@@ -1,6 +1,6 @@
 # DJ Healthy (OKOKOK)
 
-DJ Healthy (OKOKOK) is a House and Experimental artist with 1 upcoming club date listed on soundcheck as of Fri, 11 Sept 2026, next at VENT, Tokyo on Sat, 24 Oct 2026.
+DJ Healthy (OKOKOK) is a House and Experimental artist with 1 upcoming club date listed on soundcheck as of Sat, 12 Sept 2026, next at VENT, Tokyo on Sat, 24 Oct 2026.
 
 DJ Healthy (OKOKOK) is a house and experimental artist tracked on soundcheck, with 9 sets logged across Berlin, Leipzig, Losangeles and Newyorkcity and 1 more. Often billed alongside DJ Healthy, Joni DJ and KOTSU. Next up: VENT, Tokyo on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ DJ Healthy (OKOKOK) is a house and experimental artist tracked on soundcheck, wi
 
 DJ Healthy, Joni DJ, KOTSU
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djhealthy-OKOKOK/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djhealthy-OKOKOK/)*

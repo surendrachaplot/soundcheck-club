@@ -1,6 +1,6 @@
 # Niyx
 
-Niyx is a Club and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at Jupiter Disco, New York City on Sun, 13 Sept 2026.
+Niyx is a Club and Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Jupiter Disco, New York City on Sun, 13 Sept 2026.
 
 Niyx is a club and techno artist based in United States of America, tracked on soundcheck, with 6 sets logged across Newyorkcity. Often billed alongside HOPESTARXX, silkshirt and EMZ!. Next up: Jupiter Disco, Newyorkcity on Sun 13 Sept.
 
@@ -22,4 +22,4 @@ Niyx is a club and techno artist based in United States of America, tracked on s
 
 HOPESTARXX, silkshirt, EMZ!
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/niyx/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/niyx/)*

@@ -1,6 +1,6 @@
 # Flansie
 
-Flansie is a House and Bass artist with 2 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at Mono, Rotterdam on Sat, 12 Sept 2026.
+Flansie is a House and Bass artist with 2 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Mono, Rotterdam on Sat, 12 Sept 2026.
 
 Flansie is a house and bass artist tracked on soundcheck, with 11 sets logged across Amsterdam, Rotterdam and Utrecht. Often billed alongside Sunnysoposted, Ansjowvis and JSPRV35. Next up: Mono, Rotterdam on Sat 12 Sept.
 
@@ -26,4 +26,4 @@ Flansie is a house and bass artist tracked on soundcheck, with 11 sets logged ac
 
 Sunnysoposted, Ansjowvis, JSPRV35
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/flansie/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/flansie/)*

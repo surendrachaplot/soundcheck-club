@@ -1,6 +1,6 @@
 # Kombé
 
-Kombé is a Techno and Bass artist with 1 upcoming club date listed on soundcheck as of Fri, 11 Sept 2026, next at Chika-Ikkai, Osaka on Sat, 10 Oct 2026.
+Kombé is a Techno and Bass artist with 1 upcoming club date listed on soundcheck as of Sat, 12 Sept 2026, next at Chika-Ikkai, Osaka on Sat, 10 Oct 2026.
 
 Kombé is a techno and bass artist tracked on soundcheck, with 20 sets logged across Amsterdam, Basel, Berlin and Cologne and 4 more. Often billed alongside Mafou, Mukuna and Akanbi. Next up: Chika-Ikkai, Osaka on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ Kombé is a techno and bass artist tracked on soundcheck, with 20 sets logged ac
 
 Mafou, Mukuna, Akanbi
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kombe/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kombe/)*

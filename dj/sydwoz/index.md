@@ -1,14 +1,15 @@
 # Syd Woz
 
-Syd Woz is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 11 Sept 2026, next at TBA, Montreal on Fri, 25 Sept 2026.
+Syd Woz is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at TBA, Montreal on Fri, 25 Sept 2026.
 
-Syd Woz is a techno and house artist based in Canada, tracked on soundcheck, with 39 sets logged across Berlin, Montreal, Newyorkcity and Portland and 1 more. Often billed alongside ZDBT, Frankie Teardrop and DJ dood. Next up: TBA, Montreal on Fri 25 Sept.
+Syd Woz is a techno and house artist based in Canada, tracked on soundcheck, with 40 sets logged across Berlin, Montreal, Newyorkcity and Portland and 1 more. Often billed alongside ZDBT, Frankie Teardrop and DJ dood. Next up: TBA, Montreal on Fri 25 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 25 Sept 2026 | TBA | Montreal |
+| Fri, 2 Oct 2026 | Système | Montreal |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Syd Woz is a techno and house artist based in Canada, tracked on soundcheck, wit
 
 ZDBT, Frankie Teardrop, DJ dood
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sydwoz/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sydwoz/)*

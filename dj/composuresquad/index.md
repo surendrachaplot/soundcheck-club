@@ -1,6 +1,6 @@
 # Composuresquad
 
-Composuresquad is a Club and House artist with 1 upcoming club date listed on soundcheck as of Fri, 11 Sept 2026, next at Sleeping Village, Chicago on Wed, 16 Sept 2026.
+Composuresquad is a Club and House artist with 1 upcoming club date listed on soundcheck as of Sat, 12 Sept 2026, next at Sleeping Village, Chicago on Wed, 16 Sept 2026.
 
 Composuresquad is a club and house artist tracked on soundcheck, with 18 sets logged across Chicago. Often billed alongside COBRA B, CQQCHiFRUIT and Chachi Guerrero. Next up: Sleeping Village, Chicago on Wed 16 Sept.
 
@@ -25,4 +25,4 @@ Composuresquad is a club and house artist tracked on soundcheck, with 18 sets lo
 
 COBRA B, CQQCHiFRUIT, Chachi Guerrero
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/composuresquad/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/composuresquad/)*

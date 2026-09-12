@@ -1,6 +1,6 @@
 # Prozak (IRL)
 
-Prozak (IRL) is a Garage and Bass artist with 7 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at fabric, London on Fri, 11 Sept 2026.
+Prozak (IRL) is a Garage and Bass artist with 7 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at fabric, London on Fri, 11 Sept 2026.
 
 Prozak (IRL) is a garage and bass artist tracked on soundcheck, with 133 sets logged across Amsterdam, Antwerp, Barcelona and Belfast and 36 more. Often billed alongside Silva Bumpa, Soul Mass Transit System and Conducta. Next up: fabric, London on Fri 11 Sept.
 
@@ -18,6 +18,7 @@ Prozak (IRL) is a garage and bass artist tracked on soundcheck, with 133 sets lo
 
 ## Recently played
 
+- fabric, London — Fri, 11 Sept 2026
 - Ouseburn Garden, Newcastle — Fri, 7 Aug 2026
 - Circus Tokyo, Tokyo — Sat, 27 Jun 2026
 - Circus Osaka, Osaka — Fri, 26 Jun 2026
@@ -25,10 +26,9 @@ Prozak (IRL) is a garage and bass artist tracked on soundcheck, with 133 sets lo
 - District Cardiff, Cardiff — Fri, 29 May 2026
 - Chelmsford City Racecourse, London — Sat, 23 May 2026
 - Village Studios, Vancouver — Sat, 9 May 2026
-- XOYO, London — Sun, 3 May 2026
 
 ## Shares bills with
 
 Silva Bumpa, Soul Mass Transit System, Conducta
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/prozak-irl/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/prozak-irl/)*

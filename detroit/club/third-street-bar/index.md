@@ -1,6 +1,6 @@
 # Third Street Bar
 
-Third Street Bar is a music venue in Detroit with 1 upcoming night listed on soundcheck as of Fri, 11 Sept 2026; the next is "Sanctified Sundays Season Finale" on Sun, 13 Sept 2026.
+Third Street Bar is a music venue in Detroit with 1 upcoming night listed on soundcheck as of Sat, 12 Sept 2026; the next is "Sanctified Sundays Season Finale" on Sun, 13 Sept 2026.
 
 Third Street Bar is a music venue in Detroit listed on soundcheck. 1 upcoming night, with line-ups including Bruce Bailey, Rick Wilhite, Tony Foster and Wayne Williams. Browse upcoming dates, start times and who's playing. 4626 Third Street, Detroit.
 
@@ -14,4 +14,4 @@ Third Street Bar is a music venue in Detroit listed on soundcheck. 1 upcoming ni
 
 4626 Third Street, Detroit, Detroit
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/detroit/club/third-street-bar/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/detroit/club/third-street-bar/)*

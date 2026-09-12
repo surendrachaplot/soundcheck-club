@@ -1,6 +1,6 @@
 # Disjoli
 
-Disjoli is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at Place Jean Rey, Brussels on Sat, 12 Sept 2026.
+Disjoli is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Place Jean Rey, Brussels on Sat, 12 Sept 2026.
 
 Disjoli is a techno and house artist tracked on soundcheck, with 28 sets logged across Antwerp, Brussels, Copenhagen and Ghent and 2 more. Often billed alongside Stanislawa, MZA (FR) and Alycia Bezgo. Next up: Place Jean Rey, Brussels on Sat 12 Sept.
 
@@ -26,4 +26,4 @@ Disjoli is a techno and house artist tracked on soundcheck, with 28 sets logged 
 
 Stanislawa, MZA (FR), Alycia Bezgo
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/disjoli/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/disjoli/)*

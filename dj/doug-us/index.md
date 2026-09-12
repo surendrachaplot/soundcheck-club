@@ -1,6 +1,6 @@
 # DOUG
 
-DOUG is a Afro House and Amapiano artist with 1 upcoming club date listed on soundcheck as of Fri, 11 Sept 2026, next at Radio Radio, Amsterdam on Fri, 11 Sept 2026.
+DOUG is a Afro House and Amapiano artist with 1 upcoming club date listed on soundcheck as of Sat, 12 Sept 2026, next at Radio Radio, Amsterdam on Fri, 11 Sept 2026.
 
 DOUG is an afro house and amapiano artist based in United States of America, tracked on soundcheck, with 7 sets logged across Amsterdam and Newyorkcity. Often billed alongside Andre Power, Vonnie Mack and Aldonna. Next up: Radio Radio, Amsterdam on Fri 11 Sept.
 
@@ -12,6 +12,7 @@ DOUG is an afro house and amapiano artist based in United States of America, tra
 
 ## Recently played
 
+- Radio Radio, Amsterdam — Fri, 11 Sept 2026
 - H0l0 Yard, New York City — Sat, 15 Aug 2026
 - Le Bain, New York City — Wed, 29 Jul 2026
 - Le Bain, New York City — Wed, 19 Nov 2025
@@ -23,4 +24,4 @@ DOUG is an afro house and amapiano artist based in United States of America, tra
 
 Andre Power, Vonnie Mack, Aldonna
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/doug-us/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/doug-us/)*

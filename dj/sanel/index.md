@@ -1,6 +1,6 @@
 # Sanel
 
-Sanel is a Tech House and Minimal artist with 1 upcoming club date listed on soundcheck as of Fri, 11 Sept 2026, next at Amsterdam Central Station, Amsterdam on Sun, 25 Oct 2026.
+Sanel is a Tech House and Minimal artist with 1 upcoming club date listed on soundcheck as of Sat, 12 Sept 2026, next at Amsterdam Central Station, Amsterdam on Sun, 25 Oct 2026.
 
 Sanel is a tech house and minimal artist tracked on soundcheck, with 55 sets logged across Amsterdam, Barcelona, Basel and Berlin and 3 more. Often billed alongside Philip Bogdan, Jiggy and Biagio Sibilla. Next up: Amsterdam Central Station, Amsterdam on Sun 25 Oct.
 
@@ -25,4 +25,4 @@ Sanel is a tech house and minimal artist tracked on soundcheck, with 55 sets log
 
 Philip Bogdan, Jiggy, Biagio Sibilla
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sanel/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sanel/)*

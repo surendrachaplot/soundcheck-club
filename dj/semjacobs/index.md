@@ -1,6 +1,6 @@
 # Sem Jacobs
 
-Sem Jacobs is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Fri, 11 Sept 2026, next at Cova Santa, Ibiza on Sun, 13 Sept 2026.
+Sem Jacobs is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Sat, 12 Sept 2026, next at Cova Santa, Ibiza on Sun, 13 Sept 2026.
 
 Sem Jacobs is a house and tech house artist based in Netherlands, tracked on soundcheck, with 51 sets logged across Amsterdam, Athens, Austin and Brisbane and 16 more. Often billed alongside Franky Rizardo, Ranger Trucco and Dennis Ferrer. Next up: Cova Santa, Ibiza on Sun 13 Sept.
 
@@ -25,4 +25,4 @@ Sem Jacobs is a house and tech house artist based in Netherlands, tracked on sou
 
 Franky Rizardo, Ranger Trucco, Dennis Ferrer
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/semjacobs/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/semjacobs/)*

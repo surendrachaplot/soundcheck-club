@@ -1,6 +1,6 @@
 # Haffi
 
-Haffi is a House and Club artist with 1 upcoming club date listed on soundcheck as of Fri, 11 Sept 2026, next at TBA, Washington DC on Sat, 12 Sept 2026.
+Haffi is a House and Club artist with 1 upcoming club date listed on soundcheck as of Sat, 12 Sept 2026, next at TBA, Washington DC on Sat, 12 Sept 2026.
 
 Haffi is a house and club artist tracked on soundcheck, with 10 sets logged across Washingtondc. Often billed alongside EZGrüüv, 2theT and Allanit. Next up: TBA, Washingtondc on Sat 12 Sept.
 
@@ -25,4 +25,4 @@ Haffi is a house and club artist tracked on soundcheck, with 10 sets logged acro
 
 EZGrüüv, 2theT, Allanit
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/haffi/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/haffi/)*

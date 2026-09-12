@@ -1,6 +1,6 @@
 # INESSA
 
-INESSA is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 11 Sept 2026, next at Rhiz, Vienna on Fri, 18 Sept 2026.
+INESSA is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 12 Sept 2026, next at Rhiz, Vienna on Fri, 18 Sept 2026.
 
 INESSA is a techno and house artist tracked on soundcheck, with 12 sets logged across Amsterdam, Berlin and Vienna. Often billed alongside David Radi, Carl Haze and Chris Freud. Next up: Rhiz, Vienna on Fri 18 Sept.
 
@@ -25,4 +25,4 @@ INESSA is a techno and house artist tracked on soundcheck, with 12 sets logged a
 
 David Radi, Carl Haze, Chris Freud
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/inessa/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/inessa/)*

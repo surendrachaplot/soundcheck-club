@@ -1,8 +1,8 @@
 # Bonzai Bonner
 
-Bonzai Bonner is a House and Italo Disco artist with 4 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at The Ulster Sports Club, Belfast on Sat, 12 Sept 2026.
+Bonzai Bonner is a House and Italo Disco artist with 5 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at The Ulster Sports Club, Belfast on Sat, 12 Sept 2026.
 
-Bonzai Bonner is a house and italo disco artist tracked on soundcheck, with 71 sets logged across Belfast, Berlin, Dublin and Edinburgh and 6 more. Often billed alongside Anna Gram, Katiee.eem and LEZZER QUEST. Next up: The Ulster Sports Club, Belfast on Sat 12 Sept.
+Bonzai Bonner is a house and italo disco artist tracked on soundcheck, with 72 sets logged across Belfast, Berlin, Dublin and Edinburgh and 6 more. Often billed alongside Anna Gram, Katiee.eem and LEZZER QUEST. Next up: The Ulster Sports Club, Belfast on Sat 12 Sept.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Bonzai Bonner is a house and italo disco artist tracked on soundcheck, with 71 s
 | --- | --- | --- |
 | Sat, 12 Sept 2026 | The Ulster Sports Club | Belfast |
 | Sat, 19 Sept 2026 | The Berkeley Suite | Glasgow |
+| Thu, 24 Sept 2026 | The Art School | Glasgow |
 | Fri, 2 Oct 2026 | TBA | London |
 | Sat, 17 Oct 2026 | The Berkeley Suite | Glasgow |
 
@@ -28,4 +29,4 @@ Bonzai Bonner is a house and italo disco artist tracked on soundcheck, with 71 s
 
 Anna Gram, Katiee.eem, LEZZER QUEST
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bonzaibonner/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bonzaibonner/)*

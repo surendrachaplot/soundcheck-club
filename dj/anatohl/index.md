@@ -1,6 +1,6 @@
 # Anatohl
 
-Anatohl is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 11 Sept 2026, next at Barbossa, Montreal on Fri, 25 Sept 2026.
+Anatohl is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 12 Sept 2026, next at Barbossa, Montreal on Fri, 25 Sept 2026.
 
 Anatohl is a techno and house artist based in France, tracked on soundcheck, with 14 sets logged across Montreal. Often billed alongside Inside Blur, WANER and D.B.Y.. Next up: Barbossa, Montreal on Fri 25 Sept.
 
@@ -25,4 +25,4 @@ Anatohl is a techno and house artist based in France, tracked on soundcheck, wit
 
 Inside Blur, WANER, D.B.Y.
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/anatohl/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/anatohl/)*

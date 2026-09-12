@@ -1,6 +1,6 @@
 # Perera Elsewhere
 
-Perera Elsewhere is a House and Electronica artist with 2 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at Haus der Visionäre, Berlin on Fri, 11 Sept 2026.
+Perera Elsewhere is a House and Electronica artist with 2 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Haus der Visionäre, Berlin on Fri, 11 Sept 2026.
 
 Perera Elsewhere is a house and electronica artist tracked on soundcheck, with 42 sets logged across Barcelona, Berlin, Brighton and Brussels and 7 more. Often billed alongside African Head Charge, Deadbeat and Marta De Pascalis. Next up: Haus der Visionäre, Berlin on Fri 11 Sept.
 
@@ -13,6 +13,7 @@ Perera Elsewhere is a house and electronica artist tracked on soundcheck, with 4
 
 ## Recently played
 
+- Haus der Visionäre, Berlin — Fri, 11 Sept 2026
 - Lark, Berlin — Fri, 5 Jun 2026
 - MaHalla, Berlin — Thu, 28 May 2026
 - 90mil, Berlin — Sat, 2 May 2026
@@ -20,10 +21,9 @@ Perera Elsewhere is a house and electronica artist tracked on soundcheck, with 4
 - Renate, Berlin — Fri, 24 Apr 2026
 - Studio1111, Berlin — Fri, 21 Nov 2025
 - KREUZWERK, Berlin — Fri, 24 Oct 2025
-- Beursschouwburg, Brussels — Sat, 4 Oct 2025
 
 ## Shares bills with
 
 African Head Charge, Deadbeat, Marta De Pascalis
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/pereraelsewhere/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/pereraelsewhere/)*

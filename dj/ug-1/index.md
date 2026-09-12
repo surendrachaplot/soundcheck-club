@@ -1,6 +1,6 @@
 # UG (1)
 
-UG (1) is a Techno and Experimental artist with 3 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at 88block, Tokyo on Sat, 19 Sept 2026.
+UG (1) is a Techno and Experimental artist with 3 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at 88block, Tokyo on Sat, 19 Sept 2026.
 
 UG (1) is a techno and experimental artist based in Japan, tracked on soundcheck, with 11 sets logged across Seoul and Tokyo. Often billed alongside Sakuma, age (1) and Toki Fuko. Next up: 88block, Tokyo on Sat 19 Sept.
 
@@ -27,4 +27,4 @@ UG (1) is a techno and experimental artist based in Japan, tracked on soundcheck
 
 Sakuma, age (1), Toki Fuko
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ug-1/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ug-1/)*

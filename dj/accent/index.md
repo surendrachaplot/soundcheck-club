@@ -1,6 +1,6 @@
 # Accent'
 
-Accent' is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at TBA, Sydney on Sat, 12 Sept 2026.
+Accent' is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at TBA, Sydney on Sat, 12 Sept 2026.
 
 Accent' is a house and techno artist based in Australia, tracked on soundcheck, with 42 sets logged across Bali, Melbourne, Seoul and Sydney. Often billed alongside Bortzo, Lewba and louís. Next up: TBA, Sydney on Sat 12 Sept.
 
@@ -26,4 +26,4 @@ Accent' is a house and techno artist based in Australia, tracked on soundcheck, 
 
 Bortzo, Lewba, louís
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/accent/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/accent/)*

@@ -1,6 +1,6 @@
 # Kmya
 
-Kmya is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 11 Sept 2026, next at The Cause, London on Sat, 12 Sept 2026.
+Kmya is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 12 Sept 2026, next at The Cause, London on Sat, 12 Sept 2026.
 
 Kmya is a house and techno artist tracked on soundcheck, with 23 sets logged across London. Often billed alongside Ysanne, Chapel Walk and Krywald & Farrer. Next up: The Cause, London on Sat 12 Sept.
 
@@ -25,4 +25,4 @@ Kmya is a house and techno artist tracked on soundcheck, with 23 sets logged acr
 
 Ysanne, Chapel Walk, Krywald & Farrer
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kmya/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kmya/)*

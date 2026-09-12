@@ -1,6 +1,6 @@
 # Yamariki
 
-Yamariki is a House and Tech House artist with 8 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at Casa Corona Seoul, Seoul on Fri, 11 Sept 2026.
+Yamariki is a House and Tech House artist with 8 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Casa Corona Seoul, Seoul on Fri, 11 Sept 2026.
 
 Yamariki is a house and tech house artist based in Japan, tracked on soundcheck, with 169 sets logged across Amsterdam, Osaka, Seoul and Sydney and 1 more. Often billed alongside PUNK N MATRIX, Chika Luna and ANZU. Next up: Casa Corona Seoul, Seoul on Fri 11 Sept.
 
@@ -19,6 +19,7 @@ Yamariki is a house and tech house artist based in Japan, tracked on soundcheck,
 
 ## Recently played
 
+- Casa Corona Seoul, Seoul — Fri, 11 Sept 2026
 - ZEROTOKYO, Tokyo — Fri, 4 Sept 2026
 - WOMB, Tokyo — Wed, 2 Sept 2026
 - Z Maruyama, Tokyo — Sat, 29 Aug 2026
@@ -26,10 +27,9 @@ Yamariki is a house and tech house artist based in Japan, tracked on soundcheck,
 - Bank30, Tokyo — Sat, 8 Aug 2026
 - Z Maruyama, Tokyo — Sat, 1 Aug 2026
 - WOMB, Tokyo — Wed, 29 Jul 2026
-- TBA, Tokyo — Sun, 26 Jul 2026
 
 ## Shares bills with
 
 PUNK N MATRIX, Chika Luna, ANZU
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/yamariki/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/yamariki/)*

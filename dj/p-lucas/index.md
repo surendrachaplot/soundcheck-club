@@ -1,6 +1,6 @@
 # P-Lucas
 
-P-Lucas is a House and Deep House artist with 2 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at The Glove That Fits, London on Sat, 12 Sept 2026.
+P-Lucas is a House and Deep House artist with 2 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at The Glove That Fits, London on Sat, 12 Sept 2026.
 
 P-Lucas is a house and deep house artist based in United Kingdom, tracked on soundcheck, with 24 sets logged across London. Often billed alongside Kojay, Kanem and LEV (UK). Next up: The Glove That Fits, London on Sat 12 Sept.
 
@@ -26,4 +26,4 @@ P-Lucas is a house and deep house artist based in United Kingdom, tracked on sou
 
 Kojay, Kanem, LEV (UK)
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/p-lucas/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/p-lucas/)*

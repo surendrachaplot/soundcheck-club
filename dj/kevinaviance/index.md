@@ -1,6 +1,6 @@
 # Kevin Aviance
 
-Kevin Aviance is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 11 Sept 2026, next at Berghain | Panorama Bar | Säule, Berlin on Fri, 2 Oct 2026.
+Kevin Aviance is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 12 Sept 2026, next at Berghain | Panorama Bar | Säule, Berlin on Fri, 2 Oct 2026.
 
 Kevin Aviance is a house and techno artist based in United States of America, tracked on soundcheck, with 38 sets logged across Berlin, Brussels, Chicago and Losangeles and 5 more. Often billed alongside Kilopatrah Jones, The Carry Nation and Boris. Next up: Berghain | Panorama Bar | Säule, Berlin on Fri 2 Oct.
 
@@ -25,4 +25,4 @@ Kevin Aviance is a house and techno artist based in United States of America, tr
 
 Kilopatrah Jones, The Carry Nation, Boris
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kevinaviance/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kevinaviance/)*

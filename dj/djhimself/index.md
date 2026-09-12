@@ -1,6 +1,6 @@
 # DJ himself
 
-DJ himself is a Disco and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at Mokka Mitte Bar / James Simon Park, Berlin on Fri, 18 Sept 2026.
+DJ himself is a Disco and House artist with 2 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Mokka Mitte Bar / James Simon Park, Berlin on Fri, 18 Sept 2026.
 
 DJ himself is a disco and house artist based in Germany, tracked on soundcheck, with 11 sets logged across Berlin. Often billed alongside Billy Idle, Herman Priet and Italo Brutalo. Next up: Mokka Mitte Bar / James Simon Park, Berlin on Fri 18 Sept.
 
@@ -26,4 +26,4 @@ DJ himself is a disco and house artist based in Germany, tracked on soundcheck, 
 
 Billy Idle, Herman Priet, Italo Brutalo
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djhimself/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djhimself/)*

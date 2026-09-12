@@ -1,6 +1,6 @@
 # SANA (US)
 
-SANA (US) is a House and Deep House artist with 2 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at 516 S Anderson Street, Los Angeles on Sat, 12 Sept 2026.
+SANA (US) is a House and Deep House artist with 2 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at 516 S Anderson Street, Los Angeles on Sat, 12 Sept 2026.
 
 SANA (US) is a house and deep house artist tracked on soundcheck, with 10 sets logged across London, Losangeles, Melbourne and Newyorkcity and 2 more. Often billed alongside Good Company Broadcast Group, Joe O and 50Minimals. Next up: 516 S Anderson Street, Losangeles on Sat 12 Sept.
 
@@ -26,4 +26,4 @@ SANA (US) is a house and deep house artist tracked on soundcheck, with 10 sets l
 
 Good Company Broadcast Group, Joe O, 50Minimals
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sana-us/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sana-us/)*

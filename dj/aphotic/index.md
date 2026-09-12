@@ -1,6 +1,6 @@
 # Aphøtic
 
-Aphøtic is a Techno and Industrial artist with 2 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at Warehouse Elementenstraat, Amsterdam on Sun, 25 Oct 2026.
+Aphøtic is a Techno and Industrial artist with 2 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Warehouse Elementenstraat, Amsterdam on Sun, 25 Oct 2026.
 
 Aphøtic is a techno and industrial artist tracked on soundcheck, with 83 sets logged across Amsterdam, Antwerp, Barcelona and Berlin and 19 more. Often billed alongside Cynthia Spiering, XRTN and KARAH. Next up: Warehouse Elementenstraat, Amsterdam on Sun 25 Oct.
 
@@ -26,4 +26,4 @@ Aphøtic is a techno and industrial artist tracked on soundcheck, with 83 sets l
 
 Cynthia Spiering, XRTN, KARAH
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/aphotic/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/aphotic/)*

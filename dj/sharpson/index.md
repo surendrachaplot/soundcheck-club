@@ -1,6 +1,6 @@
 # Sharpson
 
-Sharpson is a Techno and Garage artist with 1 upcoming club date listed on soundcheck as of Fri, 11 Sept 2026, next at Rowans Tenpin Bowl, London on Thu, 17 Sept 2026.
+Sharpson is a Techno and Garage artist with 1 upcoming club date listed on soundcheck as of Sat, 12 Sept 2026, next at Rowans Tenpin Bowl, London on Thu, 17 Sept 2026.
 
 Sharpson is a techno and garage artist tracked on soundcheck, with 34 sets logged across Bristol, Cork, Dublin and London and 1 more. Often billed alongside Frame Shift, 2step.png and Decorum. Next up: Rowans Tenpin Bowl, London on Thu 17 Sept.
 
@@ -25,4 +25,4 @@ Sharpson is a techno and garage artist tracked on soundcheck, with 34 sets logge
 
 Frame Shift, 2step.png, Decorum
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sharpson/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sharpson/)*

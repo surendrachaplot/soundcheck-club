@@ -1,6 +1,6 @@
 # Nancy June
 
-Nancy June is a Jungle and Dubstep artist with 3 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at Colour Factory, London on Fri, 11 Sept 2026.
+Nancy June is a Jungle and Dubstep artist with 3 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Colour Factory, London on Fri, 11 Sept 2026.
 
 Nancy June is a jungle and dubstep artist tracked on soundcheck, with 62 sets logged across Berlin, Brighton, Bristol and Leeds and 3 more. Often billed alongside SGT Pokes, SP:MC and Neffa-T. Next up: Colour Factory, London on Fri 11 Sept.
 
@@ -14,6 +14,7 @@ Nancy June is a jungle and dubstep artist tracked on soundcheck, with 62 sets lo
 
 ## Recently played
 
+- Colour Factory, London — Fri, 11 Sept 2026
 - The Carpet Shop, London — Sat, 5 Sept 2026
 - Planet Wax, London — Fri, 21 Aug 2026
 - NUMBER 90 LONDON, London — Fri, 26 Jun 2026
@@ -21,10 +22,9 @@ Nancy June is a jungle and dubstep artist tracked on soundcheck, with 62 sets lo
 - fabric, London — Fri, 1 May 2026
 - The Love Inn, Bristol — Thu, 30 Apr 2026
 - The Cause, London — Fri, 3 Apr 2026
-- The Fox and Firkin, London — Sat, 21 Mar 2026
 
 ## Shares bills with
 
 SGT Pokes, SP:MC, Neffa-T
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nancyjune/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nancyjune/)*

@@ -1,6 +1,6 @@
 # Billy Hills
 
-Billy Hills is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Fri, 11 Sept 2026, next at Liquid Club, Malta on Fri, 9 Oct 2026.
+Billy Hills is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Sat, 12 Sept 2026, next at Liquid Club, Malta on Fri, 9 Oct 2026.
 
 Billy Hills is a techno and trance artist based in Malta, tracked on soundcheck, with 28 sets logged across Malta. Often billed alongside Molario, Scythe and Tourelle. Next up: Liquid Club, Malta on Fri 9 Oct.
 
@@ -25,4 +25,4 @@ Billy Hills is a techno and trance artist based in Malta, tracked on soundcheck,
 
 Molario, Scythe, Tourelle
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/billyhills/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/billyhills/)*

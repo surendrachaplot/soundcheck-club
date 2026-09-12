@@ -1,6 +1,6 @@
 # Extra Andrew
 
-Extra Andrew is a House and Balearic artist with 2 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at Mad Radio Miami, Miami on Fri, 11 Sept 2026.
+Extra Andrew is a House and Balearic artist with 2 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Mad Radio Miami, Miami on Fri, 11 Sept 2026.
 
 Extra Andrew is a house and balearic artist based in United States of America, tracked on soundcheck, with 24 sets logged across Austin, Miami and Newyorkcity. Often billed alongside Gee Dee, Earth Beat and DJ Ray (2). Next up: Mad Radio Miami, Miami on Fri 11 Sept.
 
@@ -13,6 +13,7 @@ Extra Andrew is a house and balearic artist based in United States of America, t
 
 ## Recently played
 
+- Mad Radio Miami, Miami — Fri, 11 Sept 2026
 - Knockdown Center, New York City — Sat, 29 Aug 2026
 - Mad Radio Miami, Miami — Sat, 25 Jul 2026
 - Good Room, New York City — Fri, 17 Jul 2026
@@ -20,10 +21,9 @@ Extra Andrew is a house and balearic artist based in United States of America, t
 - Factory Town, Miami — Sat, 18 Apr 2026
 - The Broken Shaker at Freehand Miami, Miami — Sun, 29 Mar 2026
 - Good Room, New York City — Fri, 13 Feb 2026
-- Jolene Downtown Miami, Miami — Sat, 7 Feb 2026
 
 ## Shares bills with
 
 Gee Dee, Earth Beat, DJ Ray (2)
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/extraandrew/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/extraandrew/)*

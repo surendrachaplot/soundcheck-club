@@ -1,6 +1,6 @@
 # C12
 
-C12 is a music venue in Brussels with 10 upcoming nights listed on soundcheck as of Fri, 11 Sept 2026; the next is "Los Ninos: Pop&Disco Cheap&Chic" on Fri, 11 Sept 2026.
+C12 is a music venue in Brussels with 10 upcoming nights listed on soundcheck as of Sat, 12 Sept 2026; the next is "Los Ninos: Pop&Disco Cheap&Chic" on Fri, 11 Sept 2026.
 
 C12 is a music venue in Brussels listed on soundcheck. 10 upcoming nights, with line-ups including AAguilAA, Afonso Peixoto, Basic Feelings (2) and CEM and 2 more. Browse upcoming dates, start times and who's playing. 116 rue Marché aux Herbes 1000 Brussels.
 
@@ -23,4 +23,4 @@ C12 is a music venue in Brussels listed on soundcheck. 10 upcoming nights, with 
 
 116 rue Marché aux Herbes 1000 Brussels, Brussels
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/brussels/club/c12/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/brussels/club/c12/)*

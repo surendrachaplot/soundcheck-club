@@ -1,14 +1,13 @@
 # Hare & Hounds
 
-Hare & Hounds is a music venue in Birmingham with 10 upcoming nights listed on soundcheck as of Fri, 11 Sept 2026; the next is "Joe Goddard (DJ Set)" on Fri, 11 Sept 2026.
+Hare & Hounds is a music venue in Birmingham with 9 upcoming nights listed on soundcheck as of Sat, 12 Sept 2026; the next is "club angellica: Miley Serious, BLUMITSU, Karakat, Rawtrachs" on Sat, 12 Sept 2026.
 
-Hare & Hounds is a music venue in Birmingham listed on soundcheck. 10 upcoming nights, with line-ups including BLUMITSU, Greg Wilson, Horse Meat Disco and Joe Goddard and 2 more. Browse upcoming dates, start times and who's playing. 106 High Street; Birmingham, B14 7JZ; United Kingdom.
+Hare & Hounds is a music venue in Birmingham listed on soundcheck. 9 upcoming nights, with line-ups including BLUMITSU, Greg Wilson, Horse Meat Disco and Kylie Wears Berghaus and 2 more. Browse upcoming dates, start times and who's playing. 106 High Street; Birmingham, B14 7JZ; United Kingdom.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 11 Sept 2026 | Joe Goddard (DJ Set) | Joe Goddard |
 | Sat, 12 Sept 2026 | club angellica: Miley Serious, BLUMITSU, Karakat, Rawtrachs | BLUMITSU, Miley Serious |
 | Fri, 25 Sept 2026 | I Love Acid presents Luke Vibert | Luke Vibert, Nightwave, Posthuman |
 | Sat, 3 Oct 2026 | whiplash ft. grace sands // emilia g // spring // yshee black |  |
@@ -23,4 +22,4 @@ Hare & Hounds is a music venue in Birmingham listed on soundcheck. 10 upcoming n
 
 106 High Street; Birmingham, B14 7JZ; United Kingdom, Birmingham
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/birmingham/club/hare-hounds/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/birmingham/club/hare-hounds/)*

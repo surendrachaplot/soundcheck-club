@@ -1,6 +1,6 @@
 # Marlais
 
-Marlais is a Ambient and Vaporwave artist with 1 upcoming club date listed on soundcheck as of Fri, 11 Sept 2026, next at 1982, Athens on Sun, 13 Sept 2026.
+Marlais is a Ambient and Vaporwave artist with 1 upcoming club date listed on soundcheck as of Sat, 12 Sept 2026, next at 1982, Athens on Sun, 13 Sept 2026.
 
 Marlais is an ambient and vaporwave artist tracked on soundcheck, with 7 sets logged across Athens, Berlin and Leeds. Often billed alongside Moon Wheel, Ana K Miller and Baptist Goth. Next up: 1982, Athens on Sun 13 Sept.
 
@@ -23,4 +23,4 @@ Marlais is an ambient and vaporwave artist tracked on soundcheck, with 7 sets lo
 
 Moon Wheel, Ana K Miller, Baptist Goth
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/marlais/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/marlais/)*

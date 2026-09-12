@@ -1,6 +1,6 @@
 # Dahlia Stereo
 
-Dahlia Stereo is a music venue in Manchester with 10 upcoming nights listed on soundcheck as of Fri, 11 Sept 2026; the next is "DAHLIA STEREO: Rich Reason & Friends" on Sat, 12 Sept 2026.
+Dahlia Stereo is a music venue in Manchester with 10 upcoming nights listed on soundcheck as of Sat, 12 Sept 2026; the next is "DAHLIA STEREO: Rich Reason & Friends" on Sat, 12 Sept 2026.
 
 Dahlia Stereo is a music venue in Manchester listed on soundcheck. 10 upcoming nights, with line-ups including Coco Maria, Dam Swindle, DJ Die and Gia Fu and 2 more. Browse upcoming dates, start times and who's playing. Unit 1-2, The Hive, 47 Lever st, Manchester M1 1FN.
 
@@ -23,4 +23,4 @@ Dahlia Stereo is a music venue in Manchester listed on soundcheck. 10 upcoming n
 
 Unit 1-2, The Hive, 47 Lever st, Manchester M1 1FN, Manchester
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/dahlia-stereo/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/dahlia-stereo/)*

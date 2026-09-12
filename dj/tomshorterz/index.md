@@ -1,6 +1,6 @@
 # Tom Shorterz
 
-Tom Shorterz is a House and Garage artist with 1 upcoming club date listed on soundcheck as of Fri, 11 Sept 2026, next at Sankeys, Manchester on Sat, 5 Dec 2026.
+Tom Shorterz is a House and Garage artist with 1 upcoming club date listed on soundcheck as of Sat, 12 Sept 2026, next at Sankeys, Manchester on Sat, 5 Dec 2026.
 
 Tom Shorterz is a house and garage artist based in United Kingdom, tracked on soundcheck, with 16 sets logged across Birmingham, Bristol, Leeds and London and 1 more. Often billed alongside Big Ang, Chad Harrison and Main Phase. Next up: Sankeys, Manchester on Sat 5 Dec.
 
@@ -25,4 +25,4 @@ Tom Shorterz is a house and garage artist based in United Kingdom, tracked on so
 
 Big Ang, Chad Harrison, Main Phase
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tomshorterz/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tomshorterz/)*

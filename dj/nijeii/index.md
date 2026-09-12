@@ -1,6 +1,6 @@
 # NIJEII
 
-NIJEII is a Techno and Ghetto Tech artist with 2 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at Amma Cafe, New York City on Sat, 12 Sept 2026.
+NIJEII is a Techno and Ghetto Tech artist with 2 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Amma Cafe, New York City on Sat, 12 Sept 2026.
 
 NIJEII is a techno and ghetto tech artist based in United States of America, tracked on soundcheck, with 29 sets logged across Newyorkcity and Seoul. Often billed alongside WADDLE, duco and y2aura. Next up: Amma Cafe, Newyorkcity on Sat 12 Sept.
 
@@ -26,4 +26,4 @@ NIJEII is a techno and ghetto tech artist based in United States of America, tra
 
 WADDLE, duco, y2aura
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nijeii/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nijeii/)*

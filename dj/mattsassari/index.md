@@ -1,13 +1,14 @@
 # Matt Sassari
 
-Matt Sassari is a Techno and Tech House artist with 3 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at Ushuaïa Ibiza, Ibiza on Mon, 5 Oct 2026.
+Matt Sassari is a Techno and Tech House artist with 4 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Lion Super Club, Seoul on Sat, 19 Sept 2026.
 
-Matt Sassari is a techno and tech house artist tracked on soundcheck, with 70 sets logged across Amsterdam, Auckland, Bangkok and Barcelona and 32 more. Often billed alongside Kygo, David Guetta and Nicole Moudaber. Next up: Ushuaïa Ibiza, Ibiza on Mon 5 Oct.
+Matt Sassari is a techno and tech house artist tracked on soundcheck, with 71 sets logged across Amsterdam, Auckland, Bangkok and Barcelona and 33 more. Often billed alongside Kygo, David Guetta and Nicole Moudaber. Next up: Lion Super Club, Seoul on Sat 19 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 19 Sept 2026 | Lion Super Club | Seoul |
 | Mon, 5 Oct 2026 | Ushuaïa Ibiza | Ibiza |
 | Sat, 10 Oct 2026 | Ministry Of Sound | London |
 | Sat, 7 Nov 2026 | SILO | New York City |
@@ -27,4 +28,4 @@ Matt Sassari is a techno and tech house artist tracked on soundcheck, with 70 se
 
 Kygo, David Guetta, Nicole Moudaber
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mattsassari/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mattsassari/)*

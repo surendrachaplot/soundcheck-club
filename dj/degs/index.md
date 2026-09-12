@@ -1,6 +1,6 @@
 # Degs
 
-Degs is a Drum & Bass and Jungle artist with 5 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at Volks, Brighton on Sat, 12 Sept 2026.
+Degs is a Drum & Bass and Jungle artist with 5 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Volks, Brighton on Sat, 12 Sept 2026.
 
 Degs is a drum & bass and jungle artist tracked on soundcheck, with 70 sets logged across Amsterdam, Auckland, Berlin and Birmingham and 25 more. Often billed alongside Whiney, Unglued and Metrik. Next up: Volks, Brighton on Sat 12 Sept.
 
@@ -29,4 +29,4 @@ Degs is a drum & bass and jungle artist tracked on soundcheck, with 70 sets logg
 
 Whiney, Unglued, Metrik
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/degs/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/degs/)*

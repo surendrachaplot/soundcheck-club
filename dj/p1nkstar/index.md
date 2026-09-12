@@ -1,6 +1,6 @@
 # p1nkstar
 
-p1nkstar is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 11 Sept 2026, next at Le Bain, New York City on Thu, 17 Sept 2026.
+p1nkstar is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 12 Sept 2026, next at Le Bain, New York City on Thu, 17 Sept 2026.
 
 p1nkstar is a house and techno artist tracked on soundcheck, with 39 sets logged across Austin, Chicago, Mexicocity and Newyorkcity and 1 more. Often billed alongside Coyado, Pauli Cakes and Amarji King. Next up: Le Bain, Newyorkcity on Thu 17 Sept.
 
@@ -25,4 +25,4 @@ p1nkstar is a house and techno artist tracked on soundcheck, with 39 sets logged
 
 Coyado, Pauli Cakes, Amarji King
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/p1nkstar/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/p1nkstar/)*

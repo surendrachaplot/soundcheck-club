@@ -1,6 +1,6 @@
 # Memory Palace
 
-Memory Palace is a Techno and Club artist with 1 upcoming club date listed on soundcheck as of Fri, 11 Sept 2026, next at Avalon Cafe Bermondsey, London on Sat, 12 Sept 2026.
+Memory Palace is a Techno and Club artist with 1 upcoming club date listed on soundcheck as of Sat, 12 Sept 2026, next at Avalon Cafe Bermondsey, London on Sat, 12 Sept 2026.
 
 Memory Palace is a techno and club artist tracked on soundcheck, with 18 sets logged across Barcelona and London. Often billed alongside Jhort, Breixo Martinez and Christian AB. Next up: Avalon Cafe Bermondsey, London on Sat 12 Sept.
 
@@ -25,4 +25,4 @@ Memory Palace is a techno and club artist tracked on soundcheck, with 18 sets lo
 
 Jhort, Breixo Martinez, Christian AB
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/memorypalace/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/memorypalace/)*

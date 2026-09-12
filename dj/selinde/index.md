@@ -1,6 +1,6 @@
 # Selin (DE)
 
-Selin (DE) is a House and Club artist with 3 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at Hoppetosse, Berlin on Sat, 19 Sept 2026.
+Selin (DE) is a House and Club artist with 3 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Hoppetosse, Berlin on Sat, 19 Sept 2026.
 
 Selin (DE) is a house and club artist based in Germany, tracked on soundcheck, with 16 sets logged across Berlin and Hamburg. Often billed alongside Kat_Es, Bress Underground and Eva Crystaltips. Next up: Hoppetosse, Berlin on Sat 19 Sept.
 
@@ -27,4 +27,4 @@ Selin (DE) is a house and club artist based in Germany, tracked on soundcheck, w
 
 Kat_Es, Bress Underground, Eva Crystaltips
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/selinde/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/selinde/)*

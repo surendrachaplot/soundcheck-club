@@ -1,13 +1,14 @@
 # JULIETA LAKE
 
-JULIETA LAKE is a Techno and Electronica artist with 1 upcoming club date listed on soundcheck as of Fri, 11 Sept 2026, next at Under Club, Buenos Aires on Fri, 30 Oct 2026.
+JULIETA LAKE is a Techno and Electronica artist with 2 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Under Club, Buenos Aires on Fri, 25 Sept 2026.
 
-JULIETA LAKE is a techno and electronica artist based in Argentina, tracked on soundcheck, with 10 sets logged across Barcelona, Berlin, Buenosaires and Madrid. Often billed alongside MYLAH, Faustø and KØLPØS. Next up: Under Club, Buenosaires on Fri 30 Oct.
+JULIETA LAKE is a techno and electronica artist based in Argentina, tracked on soundcheck, with 11 sets logged across Barcelona, Berlin, Buenosaires and Madrid. Often billed alongside MYLAH, Faustø and KØLPØS. Next up: Under Club, Buenosaires on Fri 25 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 25 Sept 2026 | Under Club | Buenos Aires |
 | Fri, 30 Oct 2026 | Under Club | Buenos Aires |
 
 ## Recently played
@@ -25,4 +26,4 @@ JULIETA LAKE is a techno and electronica artist based in Argentina, tracked on s
 
 MYLAH, Faustø, KØLPØS
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/julietalake/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/julietalake/)*

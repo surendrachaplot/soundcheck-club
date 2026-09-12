@@ -1,6 +1,6 @@
 # Vanish
 
-Vanish is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 11 Sept 2026, next at Bahnwärter Thiel, Munich on Sat, 3 Oct 2026.
+Vanish is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 12 Sept 2026, next at Bahnwärter Thiel, Munich on Sat, 3 Oct 2026.
 
 Vanish is a techno and house artist based in Germany, tracked on soundcheck, with 9 sets logged across Munich and Sanfrancisco. Often billed alongside Ele Luz, Hannes Turm and Kotoe. Next up: Bahnwärter Thiel, Munich on Sat 3 Oct.
 
@@ -25,4 +25,4 @@ Vanish is a techno and house artist based in Germany, tracked on soundcheck, wit
 
 Ele Luz, Hannes Turm, Kotoe
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/vanish/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/vanish/)*

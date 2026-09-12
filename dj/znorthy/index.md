@@ -1,14 +1,15 @@
 # znorthy
 
-znorthy is a Club and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 11 Sept 2026, next at Sinners and Saints, Washington DC on Sat, 12 Sept 2026.
+znorthy is a Club and Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Sinners and Saints, Washington DC on Sat, 12 Sept 2026.
 
-znorthy is a club and techno artist based in United States of America, tracked on soundcheck, with 66 sets logged across Newyorkcity and Washingtondc. Often billed alongside Franxx, GET FACE and Hissyfit. Next up: Sinners and Saints, Washingtondc on Sat 12 Sept.
+znorthy is a club and techno artist based in United States of America, tracked on soundcheck, with 67 sets logged across Newyorkcity and Washingtondc. Often billed alongside Franxx, GET FACE and Hissyfit. Next up: Sinners and Saints, Washingtondc on Sat 12 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 12 Sept 2026 | Sinners and Saints | Washington DC |
+| Fri, 25 Sept 2026 | Sinners and Saints | Washington DC |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ znorthy is a club and techno artist based in United States of America, tracked o
 
 Franxx, GET FACE, Hissyfit
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/znorthy/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/znorthy/)*

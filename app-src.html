@@ -4392,7 +4392,7 @@
   <!-- Umami analytics. defer so it never blocks first paint; the SPA rewrites
        history on navigation, which umami picks up automatically. -->
   <script defer src="https://cloud.umami.is/script.js" data-website-id="de210b6c-12e4-4819-95f6-f5120974855a"></script>
-<meta name="sc-build" content="1788525126505">
+<meta name="sc-build" content="1789180069866">
   <link rel="canonical" href="https://soundcheck.club/" />
   <meta property="og:image" content="https://api.soundcheck.club/api/og?v=2&t=soundcheck&s=Club%20nights%20%26%20DJ%20sets%20in%20104%20cities" />
 </head>
@@ -4451,7 +4451,7 @@
     <div class="grid" id="grid"></div>
     <!-- Per-city "what's on this week" date links, injected by build-club (canonical
          /<city>/<date>/ pages). Empty in the source; hidden on client-side city switch. -->
-    <section id="home-seo-more" class="home-seo-more" data-city="london"><h2>What&rsquo;s on in London this week</h2><ul class="home-seo-dates"><li><a href="/london/2026-09-04/">Fri 4 Sept <span class="c">110 events</span></a></li><li><a href="/london/2026-09-05/">Sat 5 Sept <span class="c">139 events</span></a></li><li><a href="/london/2026-09-06/">Sun 6 Sept <span class="c">24 events</span></a></li><li><a href="/london/2026-09-08/">Tue 8 Sept <span class="c">4 events</span></a></li><li><a href="/london/2026-09-09/">Wed 9 Sept <span class="c">8 events</span></a></li><li><a href="/london/2026-09-10/">Thu 10 Sept <span class="c">20 events</span></a></li><li><a href="/london/2026-09-11/">Fri 11 Sept <span class="c">97 events</span></a></li></ul><nav class="home-seo-nav" aria-label="More on soundcheck"><a href="/london/this-weekend/">This weekend in London</a> <a href="/london/scene/">London scene guide</a> <a href="/cities/">All 104 cities</a></nav></section>
+    <section id="home-seo-more" class="home-seo-more" data-city="london"><h2>What&rsquo;s on in London this week</h2><ul class="home-seo-dates"><li><a href="/london/2026-09-12/">Sat 12 Sept <span class="c">139 events</span></a></li><li><a href="/london/2026-09-13/">Sun 13 Sept <span class="c">29 events</span></a></li><li><a href="/london/2026-09-14/">Mon 14 Sept <span class="c">4 events</span></a></li><li><a href="/london/2026-09-15/">Tue 15 Sept <span class="c">4 events</span></a></li><li><a href="/london/2026-09-16/">Wed 16 Sept <span class="c">17 events</span></a></li><li><a href="/london/2026-09-17/">Thu 17 Sept <span class="c">38 events</span></a></li><li><a href="/london/2026-09-18/">Fri 18 Sept <span class="c">102 events</span></a></li></ul><nav class="home-seo-nav" aria-label="More on soundcheck"><a href="/london/this-weekend/">This weekend in London</a> <a href="/london/scene/">London scene guide</a> <a href="/cities/">All 104 cities</a></nav></section>
 
     <!-- Crawlable home content (H1 + intro) — moved to the bottom of the page. Still a real
          <h1> in the DOM so it's the page heading for SEO regardless of visual position.
@@ -7502,7 +7502,19 @@
     function fmtNightDate(d){ if(!d) return 'A night out'; try{ return new Date(String(d).slice(0,10)+'T12:00:00').toLocaleDateString('en-GB',{weekday:'long',day:'numeric',month:'short'}); }catch(_){ return 'A night out'; } }
     function nightTitle(d){ return d.title || fmtNightDate(d.date); }
     function nightAv(m){ return avatarBg(m.handle||m.participant_id, m.avatar); }
-    function goGrid(){ if(location.hash){ history.pushState({sc:1},'',location.pathname+location.search); } hidePage(); }
+    // Back to the feed — and TAKE THE URL WITH YOU.
+    //
+    // This used to rewrite the URL only when there was a hash. An entity page
+    // has no hash (/e/…, /dj/…, /club/…), so tapping Home on an event swapped
+    // the view to the feed and left the address bar pointing at the event: a
+    // reload put you back on the night you thought you had left, and Share sent
+    // people a different page from the one on screen. Every other bottom-nav
+    // button routes (openSearch, openScenes); Home was the only one that did not.
+    function goGrid(){
+      if(location.hash){ history.pushState({sc:1},'',location.pathname+location.search); }
+      else if(ENTITY_RE.test(currentRoute()||'')){ history.pushState({sc:1},'', cityPath(currentCity)); }
+      hidePage();
+    }
 
     async function openNight(code){
       code=String(code); setRoute('n/'+encodeURIComponent(code));
@@ -9786,7 +9798,10 @@
        * a fresh load); an in-app hop from one artist page to another starts on
        * the default tab, which is Sets.
        */
-      var _fromAnotherEntity=/^(dj|club|e)\//.test(currentRoute()||'');
+      // ...EXCEPT on back/forward, where the hash IS the record of where you
+      // were. Without the pop check, "artist → Past events → an event → back"
+      // landed on Sets and the list you were reading was gone.
+      var _fromAnotherEntity=!window._scNavPop && /^(dj|club|e)\//.test(currentRoute()||'');
       var _deepTab=_fromAnotherEntity ? '' : (location.hash||'').replace(/^#/,'');   // capture BEFORE setRoute may clear the hash
       setRoute('dj/'+slug);
       trackView('artist', slug);
@@ -12646,7 +12661,18 @@
         : (SC_BASE + '#' + route);
       history.pushState({sc:1},'',url);
     }
-    window.addEventListener('popstate', handleRoute);
+    // BACK/FORWARD, flagged. The artist page blanks a #tab deep-link when you
+    // arrive from another entity (see _fromAnotherEntity) so that walking
+    // artist → Similar → artist does not strand you on Similar forever. That
+    // guard cannot tell a forward hop from a BACK restore — and on back the
+    // hash is the only record of the tab you were reading, so "artist → Past
+    // events → an event → back" dropped you on Sets with the list gone.
+    // Cleared on the next tick: openArtist reads it synchronously, before its
+    // first await.
+    window.addEventListener('popstate', function(){
+      window._scNavPop = 1;
+      try { handleRoute(); } finally { setTimeout(function(){ window._scNavPop = 0; }, 0); }
+    });
 
     // ── incoming-share state (set on boot from URL params) ──
     var sharedPicks=null, sharedSingle=null, sharedHandled=false, sharedFrom=null;

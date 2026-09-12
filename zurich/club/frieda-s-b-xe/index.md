@@ -1,6 +1,6 @@
 # Frieda's Büxe
 
-Frieda's Büxe is a music venue in Zurich with 2 upcoming nights listed on soundcheck as of Fri, 11 Sept 2026; the next is "groove works" on Sat, 12 Sept 2026.
+Frieda's Büxe is a music venue in Zurich with 2 upcoming nights listed on soundcheck as of Sat, 12 Sept 2026; the next is "groove works" on Sat, 12 Sept 2026.
 
 Frieda's Büxe is a music venue in Zurich listed on soundcheck. 2 upcoming nights, with line-ups including DRC (1), GCOD, Juli Lee and Kaasimo and 2 more. Browse upcoming dates, start times and who's playing. Friedaustrasse 23; 8003, Zürich; Switzerland.
 
@@ -15,4 +15,4 @@ Frieda's Büxe is a music venue in Zurich listed on soundcheck. 2 upcoming night
 
 Friedaustrasse 23; 8003, Zürich; Switzerland, Zurich
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/zurich/club/frieda-s-b-xe/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/zurich/club/frieda-s-b-xe/)*

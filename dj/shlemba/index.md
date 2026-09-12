@@ -1,6 +1,6 @@
 # Shlemba
 
-Shlemba is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at Lovehaus, Seoul on Sat, 12 Sept 2026.
+Shlemba is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Lovehaus, Seoul on Sat, 12 Sept 2026.
 
 Shlemba is a house and tech house artist based in South Korea, tracked on soundcheck, with 41 sets logged across Seoul. Often billed alongside DJ Botermelk, Rob Goodspeed and Monika (KR). Next up: Lovehaus, Seoul on Sat 12 Sept.
 
@@ -26,4 +26,4 @@ Shlemba is a house and tech house artist based in South Korea, tracked on soundc
 
 DJ Botermelk, Rob Goodspeed, Monika (KR)
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/shlemba/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/shlemba/)*

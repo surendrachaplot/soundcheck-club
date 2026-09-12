@@ -1,6 +1,6 @@
 # chaos.disco.club
 
-chaos.disco.club is a House and Electro artist with 1 upcoming club date listed on soundcheck as of Fri, 11 Sept 2026, next at Romantica, Stuttgart on Fri, 18 Sept 2026.
+chaos.disco.club is a House and Electro artist with 1 upcoming club date listed on soundcheck as of Sat, 12 Sept 2026, next at Romantica, Stuttgart on Fri, 18 Sept 2026.
 
 chaos.disco.club is a house and electro artist based in Germany, tracked on soundcheck, with 6 sets logged across Berlin and Stuttgart. Often billed alongside Alexander Maier, Evaa_ and Femcat. Next up: Romantica, Stuttgart on Fri 18 Sept.
 
@@ -22,4 +22,4 @@ chaos.disco.club is a house and electro artist based in Germany, tracked on soun
 
 Alexander Maier, Evaa_, Femcat
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/chaos.disco.club/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/chaos.disco.club/)*

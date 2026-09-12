@@ -1,8 +1,8 @@
 # Kater
 
-Kater is a music venue in Berlin with 13 upcoming nights listed on soundcheck as of Fri, 11 Sept 2026; the next is "FOREVER 25 curated by Franca & Mimi Love" on Fri, 11 Sept 2026.
+Kater is a music venue in Berlin with 14 upcoming nights listed on soundcheck as of Sat, 12 Sept 2026; the next is "FOREVER 25 curated by Franca & Mimi Love" on Fri, 11 Sept 2026.
 
-Kater is a music venue in Berlin listed on soundcheck. 13 upcoming nights, with line-ups including A.D.H.S., Adri Tüde, Aera and Agustin Giri and 2 more. Browse upcoming dates, start times and who's playing. Holzmarktstrasse 25, 10243 Berlin.
+Kater is a music venue in Berlin listed on soundcheck. 14 upcoming nights, with line-ups including AALIYAH, A.D.H.S., Adri Tüde and Aera and 2 more. Browse upcoming dates, start times and who's playing. Holzmarktstrasse 25, 10243 Berlin.
 
 ## What's on
 
@@ -23,4 +23,4 @@ Kater is a music venue in Berlin listed on soundcheck. 13 upcoming nights, with 
 
 Holzmarktstrasse 25, 10243 Berlin, Berlin
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/kater/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/kater/)*

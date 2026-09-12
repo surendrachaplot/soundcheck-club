@@ -1,6 +1,6 @@
 # Cathal
 
-Cathal is a House and Garage artist with 2 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at radial, London on Sat, 12 Sept 2026.
+Cathal is a House and Garage artist with 2 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at radial, London on Sat, 12 Sept 2026.
 
 Cathal is a house and garage artist tracked on soundcheck, with 13 sets logged across Berlin, Bristol and London. Often billed alongside Horne, Luun and Asa Tate. Next up: radial, London on Sat 12 Sept.
 
@@ -26,4 +26,4 @@ Cathal is a house and garage artist tracked on soundcheck, with 13 sets logged a
 
 Horne, Luun, Asa Tate
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/cathal/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/cathal/)*

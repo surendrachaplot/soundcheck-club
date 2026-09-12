@@ -1,6 +1,6 @@
 # Dolly Vara
 
-Dolly Vara is a electronic artist with 1 upcoming club date listed on soundcheck as of Fri, 11 Sept 2026, next at Plyfa, Athens on Sat, 19 Sept 2026.
+Dolly Vara is a electronic artist with 1 upcoming club date listed on soundcheck as of Sat, 12 Sept 2026, next at Plyfa, Athens on Sat, 19 Sept 2026.
 
 Dolly Vara is an electronic artist tracked on soundcheck, with 8 sets logged across Athens. Often billed alongside Kristof, Miss Trouli and 555ivas. Next up: Plyfa, Athens on Sat 19 Sept.
 
@@ -24,4 +24,4 @@ Dolly Vara is an electronic artist tracked on soundcheck, with 8 sets logged acr
 
 Kristof, Miss Trouli, 555ivas
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dollyvara/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dollyvara/)*

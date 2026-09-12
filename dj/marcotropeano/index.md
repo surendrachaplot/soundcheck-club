@@ -1,14 +1,15 @@
 # Marco Tropeano
 
-Marco Tropeano is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Fri, 11 Sept 2026, next at Amnesia Ibiza, Ibiza on Tue, 29 Sept 2026.
+Marco Tropeano is a Tech House and House artist with 2 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Amnesia Ibiza, Ibiza on Tue, 29 Sept 2026.
 
-Marco Tropeano is a tech house and house artist tracked on soundcheck, with 31 sets logged across Bali, Barcelona, Bucharest and Buenosaires and 6 more. Often billed alongside Joseph Capriati, Indira Paganotto and Andrea Saba. Next up: Amnesia Ibiza, Ibiza on Tue 29 Sept.
+Marco Tropeano is a tech house and house artist tracked on soundcheck, with 32 sets logged across Bali, Barcelona, Bucharest and Buenosaires and 7 more. Often billed alongside Joseph Capriati, Indira Paganotto and Andrea Saba. Next up: Amnesia Ibiza, Ibiza on Tue 29 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Tue, 29 Sept 2026 | Amnesia Ibiza | Ibiza |
+| Sat, 5 Dec 2026 | 99 Scott Ave | New York City |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Marco Tropeano is a tech house and house artist tracked on soundcheck, with 31 s
 
 Joseph Capriati, Indira Paganotto, Andrea Saba
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/marcotropeano/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/marcotropeano/)*

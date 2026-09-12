@@ -1,6 +1,6 @@
 # Oldyungmayn
 
-Oldyungmayn is a Techno and Club artist with 1 upcoming club date listed on soundcheck as of Fri, 11 Sept 2026, next at KREUZWERK, Berlin on Fri, 16 Oct 2026.
+Oldyungmayn is a Techno and Club artist with 1 upcoming club date listed on soundcheck as of Sat, 12 Sept 2026, next at KREUZWERK, Berlin on Fri, 16 Oct 2026.
 
 Oldyungmayn is a techno and club artist based in United Arab Emirates, tracked on soundcheck, with 54 sets logged across Amsterdam, Athens, Berlin and Brussels and 10 more. Often billed alongside CEM, Assyouti and Majdolen. Next up: KREUZWERK, Berlin on Fri 16 Oct.
 
@@ -25,4 +25,4 @@ Oldyungmayn is a techno and club artist based in United Arab Emirates, tracked o
 
 CEM, Assyouti, Majdolen
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/oldyungmayn/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/oldyungmayn/)*

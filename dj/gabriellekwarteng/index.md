@@ -1,6 +1,6 @@
 # Gabrielle Kwarteng
 
-Gabrielle Kwarteng is a House and Techno artist with 13 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at Sunday Sunday, Mexico City on Sun, 13 Sept 2026.
+Gabrielle Kwarteng is a House and Techno artist with 13 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Sunday Sunday, Mexico City on Sun, 13 Sept 2026.
 
 Gabrielle Kwarteng is a house and techno artist tracked on soundcheck, with 241 sets logged across Amsterdam, Antwerp, Auckland and Bali and 56 more. Often billed alongside BASHKKA, Peach and Sedef Adasï. Next up: Sunday Sunday, Mexicocity on Sun 13 Sept.
 
@@ -36,4 +36,4 @@ Gabrielle Kwarteng is a house and techno artist tracked on soundcheck, with 241 
 
 BASHKKA, Peach, Sedef Adasï
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/gabriellekwarteng/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/gabriellekwarteng/)*

@@ -1,6 +1,6 @@
 # Tuxe
 
-Tuxe is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at radial, London on Sun, 13 Sept 2026.
+Tuxe is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at radial, London on Sun, 13 Sept 2026.
 
 Tuxe is a house and techno artist based in Brazil, tracked on soundcheck, with 32 sets logged across Amsterdam, Barcelona, Berlin and Brussels and 5 more. Often billed alongside Alírio, Ananda (BR) and Guza. Next up: radial, London on Sun 13 Sept.
 
@@ -27,4 +27,4 @@ Tuxe is a house and techno artist based in Brazil, tracked on soundcheck, with 3
 
 Alírio, Ananda (BR), Guza
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tuxe/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tuxe/)*

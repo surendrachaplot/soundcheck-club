@@ -1,6 +1,6 @@
 # Spiral Eddie
 
-Spiral Eddie is a House and Minimal artist with 2 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at Trans-Pecos, New York City on Thu, 17 Sept 2026.
+Spiral Eddie is a House and Minimal artist with 2 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Trans-Pecos, New York City on Thu, 17 Sept 2026.
 
 Spiral Eddie is a house and minimal artist tracked on soundcheck, with 27 sets logged across Newyorkcity. Often billed alongside datadata, DJ Sour and Max Watts. Next up: Trans-Pecos, Newyorkcity on Thu 17 Sept.
 
@@ -26,4 +26,4 @@ Spiral Eddie is a house and minimal artist tracked on soundcheck, with 27 sets l
 
 datadata, DJ Sour, Max Watts
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/spiraleddie/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/spiraleddie/)*

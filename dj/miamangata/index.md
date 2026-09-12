@@ -1,6 +1,6 @@
 # Mia Mangata
 
-Mia Mangata is a Techno and Tech House artist with 2 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at Der Weiße Hase, Berlin on Fri, 18 Sept 2026.
+Mia Mangata is a Techno and Tech House artist with 2 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Der Weiße Hase, Berlin on Fri, 18 Sept 2026.
 
 Mia Mangata is a techno and tech house artist tracked on soundcheck, with 25 sets logged across Berlin, Hamburg and Munich. Often billed alongside Better Call Paul, Einfach Taffo and Laigonen Kanonen. Next up: Der Weiße Hase, Berlin on Fri 18 Sept.
 
@@ -26,4 +26,4 @@ Mia Mangata is a techno and tech house artist tracked on soundcheck, with 25 set
 
 Better Call Paul, Einfach Taffo, Laigonen Kanonen
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/miamangata/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/miamangata/)*

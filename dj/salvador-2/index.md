@@ -1,6 +1,6 @@
 # Salvador (2)
 
-Salvador (2) is a Electro and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 11 Sept 2026, next at Lisa, Lisbon on Sat, 12 Sept 2026.
+Salvador (2) is a Electro and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 12 Sept 2026, next at Lisa, Lisbon on Sat, 12 Sept 2026.
 
 Salvador (2) is an electro and techno artist based in Portugal, tracked on soundcheck, with 6 sets logged across Lisbon. Often billed alongside Luisa, Valverde and Worm Class. Next up: Lisa, Lisbon on Sat 12 Sept.
 
@@ -22,4 +22,4 @@ Salvador (2) is an electro and techno artist based in Portugal, tracked on sound
 
 Luisa, Valverde, Worm Class
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/salvador-2/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/salvador-2/)*

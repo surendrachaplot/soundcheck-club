@@ -1,6 +1,6 @@
 # Monnay
 
-Monnay is a Techno and Progressive House artist with 1 upcoming club date listed on soundcheck as of Fri, 11 Sept 2026, next at Casa Jako, London on Sat, 26 Sept 2026.
+Monnay is a Techno and Progressive House artist with 1 upcoming club date listed on soundcheck as of Sat, 12 Sept 2026, next at Casa Jako, London on Sat, 26 Sept 2026.
 
 Monnay is a techno and progressive house artist tracked on soundcheck, with 17 sets logged across Dublin and London. Often billed alongside Vortex (BR), Kling and Loora. Next up: Casa Jako, London on Sat 26 Sept.
 
@@ -25,4 +25,4 @@ Monnay is a techno and progressive house artist tracked on soundcheck, with 17 s
 
 Vortex (BR), Kling, Loora
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/monnay/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/monnay/)*

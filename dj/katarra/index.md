@@ -1,6 +1,6 @@
 # Katarra
 
-Katarra is a Hip-Hop and Baile Funk artist with 1 upcoming club date listed on soundcheck as of Fri, 11 Sept 2026, next at Versalles 64, Mexico City on Sat, 19 Sept 2026.
+Katarra is a Hip-Hop and Baile Funk artist with 1 upcoming club date listed on soundcheck as of Sat, 12 Sept 2026, next at Versalles 64, Mexico City on Sat, 19 Sept 2026.
 
 Katarra is a hip-hop and baile funk artist based in United States of America, tracked on soundcheck, with 32 sets logged across Mexicocity and Newyorkcity. Often billed alongside Black Daria, DU'DU (MX) and Juni. Next up: Versalles 64, Mexicocity on Sat 19 Sept.
 
@@ -25,4 +25,4 @@ Katarra is a hip-hop and baile funk artist based in United States of America, tr
 
 Black Daria, DU'DU (MX), Juni
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/katarra/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/katarra/)*

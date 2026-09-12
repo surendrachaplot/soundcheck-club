@@ -1,6 +1,6 @@
 # Vlada
 
-Vlada is a Techno and House artist with 7 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at Fort Mifflin, Philadelphia on Fri, 18 Sept 2026.
+Vlada is a Techno and House artist with 7 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Fort Mifflin, Philadelphia on Fri, 18 Sept 2026.
 
 Vlada is a techno and house artist tracked on soundcheck, with 195 sets logged across Amsterdam, Antwerp, Bali and Bangkok and 49 more. Often billed alongside Vaahzer, Konduku and Max Vaahs. Next up: Fort Mifflin, Philadelphia on Fri 18 Sept.
 
@@ -31,4 +31,4 @@ Vlada is a techno and house artist tracked on soundcheck, with 195 sets logged a
 
 Vaahzer, Konduku, Max Vaahs
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/vlada/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/vlada/)*

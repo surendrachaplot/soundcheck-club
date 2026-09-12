@@ -1,6 +1,6 @@
 # Mario Liberti
 
-Mario Liberti is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 11 Sept 2026, next at TBA - DTLA, Los Angeles on Sat, 12 Sept 2026.
+Mario Liberti is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 12 Sept 2026, next at TBA - DTLA, Los Angeles on Sat, 12 Sept 2026.
 
 Mario Liberti is a house and techno artist tracked on soundcheck, with 38 sets logged across Barcelona, Berlin, Boston and Brussels and 9 more. Often billed alongside Arthur Nozen, Alexkid and Robert Drewek. Next up: TBA - DTLA, Losangeles on Sat 12 Sept.
 
@@ -25,4 +25,4 @@ Mario Liberti is a house and techno artist tracked on soundcheck, with 38 sets l
 
 Arthur Nozen, Alexkid, Robert Drewek
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/marioliberti/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/marioliberti/)*

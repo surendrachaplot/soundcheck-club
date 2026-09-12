@@ -1,14 +1,15 @@
 # AAKAARA
 
-AAKAARA is a Techno and Electro artist with 2 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at Dalston Den, London on Sat, 12 Sept 2026.
+AAKAARA is a Techno and Electro artist with 3 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Dalston Den, London on Sat, 12 Sept 2026.
 
-AAKAARA is a techno and electro artist tracked on soundcheck, with 13 sets logged across London. Often billed alongside SIOBHAN., New Flesh (2) and Benebe. Next up: Dalston Den, London on Sat 12 Sept.
+AAKAARA is a techno and electro artist tracked on soundcheck, with 14 sets logged across London. Often billed alongside SIOBHAN., New Flesh (2) and Benebe. Next up: Dalston Den, London on Sat 12 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 12 Sept 2026 | Dalston Den | London |
+| Sat, 10 Oct 2026 | Four Quarters | London |
 | Sat, 31 Oct 2026 | Vespers Club | London |
 
 ## Recently played
@@ -26,4 +27,4 @@ AAKAARA is a techno and electro artist tracked on soundcheck, with 13 sets logge
 
 SIOBHAN., New Flesh (2), Benebe
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/aakaara/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/aakaara/)*

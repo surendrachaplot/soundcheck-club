@@ -1,6 +1,6 @@
 # Daniel Avery
 
-Daniel Avery is a Techno and House artist with 14 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at Renate, Berlin on Fri, 11 Sept 2026.
+Daniel Avery is a Techno and House artist with 14 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Renate, Berlin on Fri, 11 Sept 2026.
 
 Daniel Avery is a techno and house artist tracked on soundcheck, with 158 sets logged across Amsterdam, Bali, Barcelona and Belfast and 43 more. Often billed alongside Richard Fearless, Optimo (Espacio) and Tapefeed. Next up: Renate, Berlin on Fri 11 Sept.
 
@@ -23,6 +23,7 @@ Daniel Avery is a techno and house artist tracked on soundcheck, with 158 sets l
 
 ## Recently played
 
+- Renate, Berlin — Fri, 11 Sept 2026
 - Southwark Park, London — Sat, 29 Aug 2026
 - TBA - Southwark Park, London — Sat, 29 Aug 2026
 - Strange Brew, Bristol — Fri, 28 Aug 2026
@@ -30,10 +31,9 @@ Daniel Avery is a techno and house artist tracked on soundcheck, with 158 sets l
 - essaim, Paris — Fri, 14 Aug 2026
 - Preston Park, Brighton, Berlin — Sat, 1 Aug 2026
 - TBA - Secret Location, London — Thu, 23 Jul 2026
-- The Berkeley Suite, Glasgow — Fri, 26 Jun 2026
 
 ## Shares bills with
 
 Richard Fearless, Optimo (Espacio), Tapefeed
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/danielavery/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/danielavery/)*

@@ -1,6 +1,6 @@
 # Bert
 
-Bert is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 11 Sept 2026, next at MONKEY LOVE, Warsaw on Sat, 19 Sept 2026.
+Bert is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 12 Sept 2026, next at MONKEY LOVE, Warsaw on Sat, 19 Sept 2026.
 
 Bert is a house and techno artist based in Canada, tracked on soundcheck, with 11 sets logged across Amsterdam, Berlin and Warsaw. Often billed alongside Frankie Flowerz, Xminder and Aiko Inoue. Next up: MONKEY LOVE, Warsaw on Sat 19 Sept.
 
@@ -25,4 +25,4 @@ Bert is a house and techno artist based in Canada, tracked on soundcheck, with 1
 
 Frankie Flowerz, Xminder, Aiko Inoue
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bert/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bert/)*

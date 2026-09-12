@@ -1,6 +1,6 @@
 # Lana Vese
 
-Lana Vese is a Techno and Disco artist with 1 upcoming club date listed on soundcheck as of Fri, 11 Sept 2026, next at TBA - Secret Location, New York City on Thu, 29 Oct 2026.
+Lana Vese is a Techno and Disco artist with 1 upcoming club date listed on soundcheck as of Sat, 12 Sept 2026, next at TBA - Secret Location, New York City on Thu, 29 Oct 2026.
 
 Lana Vese is a techno and disco artist based in United States of America, tracked on soundcheck, with 11 sets logged across Newyorkcity. Often billed alongside Alive Girl, DJ Brandy Melville and AJACENT. Next up: TBA - Secret Location, Newyorkcity on Thu 29 Oct.
 
@@ -25,4 +25,4 @@ Lana Vese is a techno and disco artist based in United States of America, tracke
 
 Alive Girl, DJ Brandy Melville, AJACENT
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lanavese/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lanavese/)*

@@ -1,6 +1,6 @@
 # Voice Actor
 
-Voice Actor is a Experimental and Ambient artist with 2 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at The Lubber Fiend, Newcastle on Thu, 17 Sept 2026.
+Voice Actor is a Experimental and Ambient artist with 2 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at The Lubber Fiend, Newcastle on Thu, 17 Sept 2026.
 
 Voice Actor is an experimental and ambient artist based in United Kingdom, tracked on soundcheck, with 41 sets logged across Berlin, Bristol, Brussels and Copenhagen and 15 more. Often billed alongside Nosedrip, James Massiah and Smerz. Next up: The Lubber Fiend, Newcastle on Thu 17 Sept.
 
@@ -26,4 +26,4 @@ Voice Actor is an experimental and ambient artist based in United Kingdom, track
 
 Nosedrip, James Massiah, Smerz
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/voiceactor/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/voiceactor/)*

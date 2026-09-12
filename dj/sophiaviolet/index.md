@@ -1,8 +1,8 @@
 # Sophia Violet
 
-Sophia Violet is a Garage and House artist with 6 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at Thekla, Bristol on Fri, 25 Sept 2026.
+Sophia Violet is a Garage and House artist with 7 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Thekla, Bristol on Fri, 25 Sept 2026.
 
-Sophia Violet is a garage and house artist tracked on soundcheck, with 75 sets logged across Aberdeen, Amsterdam, Antwerp and Belfast and 11 more. Often billed alongside Girls Don't Sync, Rich Reason and Skeptic. Next up: Thekla, Bristol on Fri 25 Sept.
+Sophia Violet is a garage and house artist tracked on soundcheck, with 76 sets logged across Aberdeen, Amsterdam, Antwerp and Belfast and 12 more. Often billed alongside Girls Don't Sync, Rich Reason and Skeptic. Next up: Thekla, Bristol on Fri 25 Sept.
 
 ## Upcoming shows
 
@@ -14,6 +14,7 @@ Sophia Violet is a garage and house artist tracked on soundcheck, with 75 sets l
 | Fri, 23 Oct 2026 | Thuishaven | Amsterdam |
 | Sat, 24 Oct 2026 | Lofi | Amsterdam |
 | Sun, 22 Nov 2026 | Thuishaven | Amsterdam |
+| Thu, 10 Dec 2026 | Club Magno | Madrid |
 
 ## Recently played
 
@@ -30,4 +31,4 @@ Sophia Violet is a garage and house artist tracked on soundcheck, with 75 sets l
 
 Girls Don't Sync, Rich Reason, Skeptic
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sophiaviolet/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sophiaviolet/)*

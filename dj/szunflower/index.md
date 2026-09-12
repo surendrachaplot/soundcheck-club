@@ -1,8 +1,8 @@
 # Szunflower
 
-Szunflower is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at TBA - SECRET WAREHOUSE, Cologne on Sat, 12 Sept 2026.
+Szunflower is a Techno and Trance artist with 3 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at TBA - SECRET WAREHOUSE, Cologne on Sat, 12 Sept 2026.
 
-Szunflower is a techno and trance artist tracked on soundcheck, with 21 sets logged across Cologne, Dusseldorf and Frankfurt. Often billed alongside Gutkind, Tschatsching and Alchemiah. Next up: TBA - SECRET WAREHOUSE, Cologne on Sat 12 Sept.
+Szunflower is a techno and trance artist tracked on soundcheck, with 22 sets logged across Cologne, Dusseldorf and Frankfurt. Often billed alongside Gutkind, Tschatsching and Alchemiah. Next up: TBA - SECRET WAREHOUSE, Cologne on Sat 12 Sept.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Szunflower is a techno and trance artist tracked on soundcheck, with 21 sets log
 | --- | --- | --- |
 | Sat, 12 Sept 2026 | TBA - SECRET WAREHOUSE | Cologne |
 | Sat, 19 Sept 2026 | H26 | Cologne |
+| Fri, 2 Oct 2026 | fi | Cologne |
 
 ## Recently played
 
@@ -26,4 +27,4 @@ Szunflower is a techno and trance artist tracked on soundcheck, with 21 sets log
 
 Gutkind, Tschatsching, Alchemiah
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/szunflower/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/szunflower/)*

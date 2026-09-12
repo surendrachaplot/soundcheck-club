@@ -1,6 +1,6 @@
 # Katrixia
 
-Katrixia is a Techno and Breakbeat artist with 1 upcoming club date listed on soundcheck as of Fri, 11 Sept 2026, next at Bike Jesus, Prague on Fri, 9 Oct 2026.
+Katrixia is a Techno and Breakbeat artist with 1 upcoming club date listed on soundcheck as of Sat, 12 Sept 2026, next at Bike Jesus, Prague on Fri, 9 Oct 2026.
 
 Katrixia is a techno and breakbeat artist based in Czech Republic, tracked on soundcheck, with 18 sets logged across Prague. Often billed alongside SAVBEA, XENEA LUMRA and OKSI. Next up: Bike Jesus, Prague on Fri 9 Oct.
 
@@ -25,4 +25,4 @@ Katrixia is a techno and breakbeat artist based in Czech Republic, tracked on so
 
 SAVBEA, XENEA LUMRA, OKSI
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/katrixia/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/katrixia/)*

@@ -1,6 +1,6 @@
 # Onizmik
 
-Onizmik is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 11 Sept 2026, next at Nué Seoul, Seoul on Fri, 11 Sept 2026.
+Onizmik is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 12 Sept 2026, next at Nué Seoul, Seoul on Fri, 11 Sept 2026.
 
 Onizmik is a house and techno artist based in South Korea, tracked on soundcheck, with 38 sets logged across Seoul. Often billed alongside DARIMI TABLE, Jetset Trash and Kuro. Next up: Nué Seoul, Seoul on Fri 11 Sept.
 
@@ -12,6 +12,7 @@ Onizmik is a house and techno artist based in South Korea, tracked on soundcheck
 
 ## Recently played
 
+- Nué Seoul, Seoul — Fri, 11 Sept 2026
 - Flac, Seoul — Sat, 1 Aug 2026
 - Flac, Seoul — Fri, 17 Jul 2026
 - Flac, Seoul — Sat, 11 Jul 2026
@@ -19,10 +20,9 @@ Onizmik is a house and techno artist based in South Korea, tracked on soundcheck
 - Flac, Seoul — Sat, 9 May 2026
 - TCC Seoul, Seoul — Sat, 11 Apr 2026
 - BBCB: Beton Brut+Concrete Bar, Seoul — Sat, 14 Mar 2026
-- Casa Corona Seoul, Seoul — Wed, 18 Feb 2026
 
 ## Shares bills with
 
 DARIMI TABLE, Jetset Trash, Kuro
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/onizmik/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/onizmik/)*

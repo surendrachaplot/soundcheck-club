@@ -1,6 +1,6 @@
 # Eduardo de la Calle
 
-Eduardo de la Calle is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at Loco Park, Tbilisi on Fri, 2 Oct 2026.
+Eduardo de la Calle is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Loco Park, Tbilisi on Fri, 2 Oct 2026.
 
 Eduardo de la Calle is a techno and house artist tracked on soundcheck, with 49 sets logged across Amsterdam, Berlin, Boston and Brussels and 20 more. Often billed alongside Cosmo (KR), Konstantin and Map.ache. Next up: Loco Park, Tbilisi on Fri 2 Oct.
 
@@ -26,4 +26,4 @@ Eduardo de la Calle is a techno and house artist tracked on soundcheck, with 49 
 
 Cosmo (KR), Konstantin, Map.ache
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/eduardodelacalle/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/eduardodelacalle/)*

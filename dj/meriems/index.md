@@ -1,6 +1,6 @@
 # Meriem S
 
-Meriem S is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at Cascina nascosta, Milan on Sun, 20 Sept 2026.
+Meriem S is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Cascina nascosta, Milan on Sun, 20 Sept 2026.
 
 Meriem S is a house and disco artist tracked on soundcheck, with 38 sets logged across Amsterdam, Berlin, Brussels and Milan and 2 more. Often billed alongside saHHar, Siggatunez and hi.fí. Next up: Cascina nascosta, Milan on Sun 20 Sept.
 
@@ -26,4 +26,4 @@ Meriem S is a house and disco artist tracked on soundcheck, with 38 sets logged 
 
 saHHar, Siggatunez, hi.fí
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/meriems/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/meriems/)*

@@ -1,6 +1,6 @@
 # Ronnie Scott's Bar
 
-Ronnie Scott's Bar is a music venue in London with 11 upcoming nights listed on soundcheck as of Fri, 11 Sept 2026; the next is "Late Late Show Upstairs with Saiming" on Tue, 15 Sept 2026.
+Ronnie Scott's Bar is a music venue in London with 11 upcoming nights listed on soundcheck as of Sat, 12 Sept 2026; the next is "Late Late Show Upstairs with Saiming" on Tue, 15 Sept 2026.
 
 Ronnie Scott's Bar is a music venue in London listed on soundcheck. 11 upcoming nights. Browse upcoming dates, start times and who's playing. 47 Frith Street; Soho; London W1D 4HT; United Kingdom.
 
@@ -23,4 +23,4 @@ Ronnie Scott's Bar is a music venue in London listed on soundcheck. 11 upcoming 
 
 47 Frith Street; Soho; London W1D 4HT; United Kingdom, London
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/ronnie-scott-s-bar/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/ronnie-scott-s-bar/)*

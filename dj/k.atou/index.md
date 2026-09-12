@@ -1,6 +1,6 @@
 # K.atou
 
-K.atou is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at Romantso, Athens on Sat, 12 Sept 2026.
+K.atou is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Romantso, Athens on Sat, 12 Sept 2026.
 
 K.atou is a techno and house artist based in Greece, tracked on soundcheck, with 65 sets logged across Athens, Berlin, Brussels and Chicago and 4 more. Often billed alongside Maria Politi, ClubKid and Stathis (GR). Next up: Romantso, Athens on Sat 12 Sept.
 
@@ -27,4 +27,4 @@ K.atou is a techno and house artist based in Greece, tracked on soundcheck, with
 
 Maria Politi, ClubKid, Stathis (GR)
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/k.atou/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/k.atou/)*

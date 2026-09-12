@@ -1,6 +1,6 @@
 # Deltapeak
 
-Deltapeak is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Fri, 11 Sept 2026, next at Der Weiße Hase, Berlin on Tue, 20 Oct 2026.
+Deltapeak is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Sat, 12 Sept 2026, next at Der Weiße Hase, Berlin on Tue, 20 Oct 2026.
 
 Deltapeak is a techno and trance artist tracked on soundcheck, with 72 sets logged across Berlin, Budapest, London and Munich and 2 more. Often billed alongside August Kind, bbymeister and jeanska. Next up: Der Weiße Hase, Berlin on Tue 20 Oct.
 
@@ -25,4 +25,4 @@ Deltapeak is a techno and trance artist tracked on soundcheck, with 72 sets logg
 
 August Kind, bbymeister, jeanska
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/deltapeak/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/deltapeak/)*

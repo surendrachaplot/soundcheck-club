@@ -1,6 +1,6 @@
 # Jessy & Friends at Do Not Sit On The Furniture
 
-Jessy & Friends at Do Not Sit On The Furniture on Wed 16 Sept, Miami. 2 acts on the bill: Jessy Nimni and M.o.E. House and Deep House. Preview the line-up and save it on soundcheck.
+Jessy & Friends at Do Not Sit On The Furniture on Wed 16 Sept, Miami. 3 acts on the bill: Haze-M, Jessy Nimni and M.o.E. House and Deep House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ Jessy & Friends at Do Not Sit On The Furniture on Wed 16 Sept, Miami. 2 acts on 
 
 ## Line-up
 
+- Haze-M
 - Jessy Nimni
 - M.o.E
 

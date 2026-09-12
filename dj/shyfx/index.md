@@ -1,14 +1,15 @@
 # Shy FX
 
-Shy FX is a Drum & Bass and Jungle artist with 2 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at TBA - Vogrie Country Park, Edinburgh on Sat, 3 Oct 2026.
+Shy FX is a Drum & Bass and Jungle artist with 3 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at TBA - Vogrie Country Park, Edinburgh on Sat, 3 Oct 2026.
 
-Shy FX is a drum & bass and jungle artist tracked on soundcheck, with 65 sets logged across Amsterdam, Auckland, Birmingham and Brighton and 20 more. Often billed alongside Wilkinson, Chimpo and Andy C. Next up: TBA - Vogrie Country Park, Edinburgh on Sat 3 Oct.
+Shy FX is a drum & bass and jungle artist tracked on soundcheck, with 66 sets logged across Amsterdam, Auckland, Birmingham and Brighton and 20 more. Often billed alongside Wilkinson, Chimpo and Andy C. Next up: TBA - Vogrie Country Park, Edinburgh on Sat 3 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 3 Oct 2026 | TBA - Vogrie Country Park | Edinburgh |
+| Sat, 17 Oct 2026 | DRUMSHEDS | London |
 | Fri, 13 Nov 2026 | Club Guesthouse | Bucharest |
 
 ## Recently played
@@ -26,4 +27,4 @@ Shy FX is a drum & bass and jungle artist tracked on soundcheck, with 65 sets lo
 
 Wilkinson, Chimpo, Andy C
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/shyfx/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/shyfx/)*

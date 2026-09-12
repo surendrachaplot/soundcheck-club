@@ -1,8 +1,8 @@
 # Stinny Stone
 
-Stinny Stone is a Techno and Trance artist with 6 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at Distillery N17, London on Fri, 11 Sept 2026.
+Stinny Stone is a Techno and Trance artist with 7 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Distillery N17, London on Fri, 11 Sept 2026.
 
-Stinny Stone is a techno and trance artist tracked on soundcheck, with 89 sets logged across Barcelona, Berlin, Budapest and Dublin and 16 more. Often billed alongside SOHOE, Cobb Douglas and futurristic. Next up: Distillery N17, London on Fri 11 Sept.
+Stinny Stone is a techno and trance artist tracked on soundcheck, with 90 sets logged across Barcelona, Berlin, Budapest and Dublin and 17 more. Often billed alongside SOHOE, Cobb Douglas and futurristic. Next up: Distillery N17, London on Fri 11 Sept.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Stinny Stone is a techno and trance artist tracked on soundcheck, with 89 sets l
 | --- | --- | --- |
 | Fri, 11 Sept 2026 | Distillery N17 | London |
 | Fri, 18 Sept 2026 | Kilomètre25 | Paris |
+| Fri, 25 Sept 2026 | The Comfort Zone | Toronto |
 | Sat, 26 Sept 2026 | Lokschuppen Berlin | Berlin |
 | Fri, 2 Oct 2026 | Casa Nube Wynwood | Miami |
 | Sat, 31 Oct 2026 | Lokschuppen Berlin | Berlin |
@@ -17,6 +18,7 @@ Stinny Stone is a techno and trance artist tracked on soundcheck, with 89 sets l
 
 ## Recently played
 
+- Distillery N17, London — Fri, 11 Sept 2026
 - DSTRKT Club Berlin, Berlin — Fri, 4 Sept 2026
 - Lokschuppen Berlin, Berlin — Fri, 21 Aug 2026
 - Lokschuppen Berlin, Berlin — Sat, 25 Jul 2026
@@ -24,10 +26,9 @@ Stinny Stone is a techno and trance artist tracked on soundcheck, with 89 sets l
 - Lokschuppen Berlin, Berlin — Sat, 30 May 2026
 - IDRA, Manchester — Sat, 30 May 2026
 - UNO MALTA, Malta — Thu, 21 May 2026
-- Fvtvr, Paris — Sat, 16 May 2026
 
 ## Shares bills with
 
 SOHOE, Cobb Douglas, futurristic
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/stinnystone/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/stinnystone/)*

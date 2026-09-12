@@ -1,6 +1,6 @@
 # KATALYSSST
 
-KATALYSSST is a UK Funky and Hip-Hop artist with 1 upcoming club date listed on soundcheck as of Fri, 11 Sept 2026, next at The Orange Room, London on Sat, 24 Oct 2026.
+KATALYSSST is a UK Funky and Hip-Hop artist with 1 upcoming club date listed on soundcheck as of Sat, 12 Sept 2026, next at The Orange Room, London on Sat, 24 Oct 2026.
 
 KATALYSSST is an uk funky and hip-hop artist based in United Kingdom, tracked on soundcheck, with 21 sets logged across London. Often billed alongside Kieran Dotwav, SALD3E and CHAOS. Next up: The Orange Room, London on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ KATALYSSST is an uk funky and hip-hop artist based in United Kingdom, tracked on
 
 Kieran Dotwav, SALD3E, CHAOS
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/katalyssst/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/katalyssst/)*

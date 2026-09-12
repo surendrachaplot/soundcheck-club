@@ -1,6 +1,6 @@
 # THE MAGICK BAR
 
-THE MAGICK BAR is a music venue in Rome with 6 upcoming nights listed on soundcheck as of Fri, 11 Sept 2026; the next is "Anarchy In The Club with Sandra Mason, Sister Effect, Strada, Box of Tangerine" on Fri, 11 Sept 2026.
+THE MAGICK BAR is a music venue in Rome with 6 upcoming nights listed on soundcheck as of Sat, 12 Sept 2026; the next is "Anarchy In The Club with Sandra Mason, Sister Effect, Strada, Box of Tangerine" on Fri, 11 Sept 2026.
 
 THE MAGICK BAR is a music venue in Rome listed on soundcheck. 6 upcoming nights, with line-ups including Box of Tangerine, Jade Seatle, Jimmy Siao and Joe Rosh and 2 more. Browse upcoming dates, start times and who's playing. Via Lungotevere Oberdan, 2 Rome, Italy 00195.
 
@@ -19,4 +19,4 @@ THE MAGICK BAR is a music venue in Rome listed on soundcheck. 6 upcoming nights,
 
 Via Lungotevere Oberdan, 2 Rome, Italy 00195, Rome
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/rome/club/the-magick-bar/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/rome/club/the-magick-bar/)*

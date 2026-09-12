@@ -1,6 +1,6 @@
 # MAXIMILIANO (US)
 
-MAXIMILIANO (US) is a House and Deep House artist with 4 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at TBA, Washington DC on Sat, 12 Sept 2026.
+MAXIMILIANO (US) is a House and Deep House artist with 4 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at TBA, Washington DC on Sat, 12 Sept 2026.
 
 MAXIMILIANO (US) is a house and deep house artist tracked on soundcheck, with 182 sets logged across Barcelona, Buenosaires, Detroit and Ibiza and 3 more. Often billed alongside Factory Reset, Mikey J and Room 12. Next up: TBA, Washingtondc on Sat 12 Sept.
 
@@ -28,4 +28,4 @@ MAXIMILIANO (US) is a house and deep house artist tracked on soundcheck, with 18
 
 Factory Reset, Mikey J, Room 12
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/maximiliano-us/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/maximiliano-us/)*

@@ -1,6 +1,6 @@
 # Toner
 
-Toner is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 11 Sept 2026, next at Forestlimit, Tokyo on Sat, 3 Oct 2026.
+Toner is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 12 Sept 2026, next at Forestlimit, Tokyo on Sat, 3 Oct 2026.
 
 Toner is a techno and house artist based in Spain, tracked on soundcheck, with 24 sets logged across Barcelona and Tokyo. Often billed alongside PethbUri, Sushinigami and DJ2D2. Next up: Forestlimit, Tokyo on Sat 3 Oct.
 
@@ -25,4 +25,4 @@ Toner is a techno and house artist based in Spain, tracked on soundcheck, with 2
 
 PethbUri, Sushinigami, DJ2D2
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/toner/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/toner/)*

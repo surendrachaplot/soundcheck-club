@@ -1,6 +1,6 @@
 # Vrede
 
-Vrede is a Deep House and Progressive House artist with 1 upcoming club date listed on soundcheck as of Fri, 11 Sept 2026, next at Skull Bar, Athens on Sun, 13 Sept 2026.
+Vrede is a Deep House and Progressive House artist with 1 upcoming club date listed on soundcheck as of Sat, 12 Sept 2026, next at Skull Bar, Athens on Sun, 13 Sept 2026.
 
 Vrede is a deep house and progressive house artist based in Greece, tracked on soundcheck, with 20 sets logged across Athens. Often billed alongside Sirod, Stratos (2) and MAN WITH THE SPEAKER. Next up: Skull Bar, Athens on Sun 13 Sept.
 
@@ -25,4 +25,4 @@ Vrede is a deep house and progressive house artist based in Greece, tracked on s
 
 Sirod, Stratos (2), MAN WITH THE SPEAKER
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/vrede/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/vrede/)*

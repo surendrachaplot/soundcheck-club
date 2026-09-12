@@ -1,8 +1,8 @@
 # Jupiter Disco
 
-Jupiter Disco is a music venue in New York City with 15 upcoming nights listed on soundcheck as of Fri, 11 Sept 2026; the next is "Limitless: Tromac + IDKRYAN" on Fri, 11 Sept 2026.
+Jupiter Disco is a music venue in New York City with 24 upcoming nights listed on soundcheck as of Sat, 12 Sept 2026; the next is "Limitless: Tromac + IDKRYAN" on Fri, 11 Sept 2026.
 
-Jupiter Disco is a music venue in Newyorkcity listed on soundcheck. 15 upcoming nights, with line-ups including ALI IRL, Brutal Twink, Caire and chicas over rice and 2 more. Browse upcoming dates, start times and who's playing. 1237 Flushing Avenue, Brooklyn, NY 11237, USA.
+Jupiter Disco is a music venue in Newyorkcity listed on soundcheck. 24 upcoming nights, with line-ups including ALI IRL, Ardio Zemog, Arjun Shah and Balam and 2 more. Browse upcoming dates, start times and who's playing. 1237 Flushing Avenue, Brooklyn, NY 11237, USA.
 
 ## What's on
 
@@ -23,4 +23,4 @@ Jupiter Disco is a music venue in Newyorkcity listed on soundcheck. 15 upcoming 
 
 1237 Flushing Avenue, Brooklyn, NY 11237, USA, New York City
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/jupiter-disco/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/jupiter-disco/)*

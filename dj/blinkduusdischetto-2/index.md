@@ -1,6 +1,6 @@
 # Blinkduus Dischetto (2)
 
-Blinkduus Dischetto (2) is a Electro artist with 1 upcoming club date listed on soundcheck as of Fri, 11 Sept 2026, next at TBA - 1 hour from Paris, Paris on Fri, 11 Sept 2026.
+Blinkduus Dischetto (2) is a Electro artist with 1 upcoming club date listed on soundcheck as of Sat, 12 Sept 2026, next at TBA - 1 hour from Paris, Paris on Fri, 11 Sept 2026.
 
 Blinkduus Dischetto (2) is an electro artist tracked on soundcheck, with 8 sets logged across Lyon and Paris. Often billed alongside David Triana, Seabra and Alec Falconer. Next up: TBA - 1 hour from Paris, Paris on Fri 11 Sept.
 
@@ -12,6 +12,7 @@ Blinkduus Dischetto (2) is an electro artist tracked on soundcheck, with 8 sets 
 
 ## Recently played
 
+- TBA - 1 hour from Paris, Paris — Fri, 11 Sept 2026
 - TBA, Lyon — Sat, 6 Jun 2026
 - La Péniche Cinéma, Paris — Sat, 23 May 2026
 - La Péniche Cinéma, Paris — Sat, 23 May 2026
@@ -24,4 +25,4 @@ Blinkduus Dischetto (2) is an electro artist tracked on soundcheck, with 8 sets 
 
 David Triana, Seabra, Alec Falconer
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/blinkduusdischetto-2/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/blinkduusdischetto-2/)*

@@ -1,6 +1,6 @@
 # Murat Uncuoglu
 
-Murat Uncuoglu is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 11 Sept 2026, next at Noorderlicht Café, Amsterdam on Thu, 22 Oct 2026.
+Murat Uncuoglu is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 12 Sept 2026, next at Noorderlicht Café, Amsterdam on Thu, 22 Oct 2026.
 
 Murat Uncuoglu is a house and techno artist based in Turkey, tracked on soundcheck, with 77 sets logged across Amsterdam, Barcelona, Berlin and Ghent and 5 more. Often billed alongside Alican, Phallen and Emirhan Kacar. Next up: Noorderlicht Café, Amsterdam on Thu 22 Oct.
 
@@ -25,4 +25,4 @@ Murat Uncuoglu is a house and techno artist based in Turkey, tracked on soundche
 
 Alican, Phallen, Emirhan Kacar
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/muratuncuoglu/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/muratuncuoglu/)*

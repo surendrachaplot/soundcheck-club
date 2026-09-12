@@ -1,6 +1,6 @@
 # Rui de Janeiro
 
-Rui de Janeiro is a Tech House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 11 Sept 2026, next at FLUCC, Vienna on Sat, 12 Sept 2026.
+Rui de Janeiro is a Tech House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 12 Sept 2026, next at FLUCC, Vienna on Sat, 12 Sept 2026.
 
 Rui de Janeiro is a tech house and techno artist based in Austria, tracked on soundcheck, with 27 sets logged across Vienna. Often billed alongside Farbod, Ainhoa G and Arman Shadow. Next up: FLUCC, Vienna on Sat 12 Sept.
 
@@ -25,4 +25,4 @@ Rui de Janeiro is a tech house and techno artist based in Austria, tracked on so
 
 Farbod, Ainhoa G, Arman Shadow
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ruidejaneiro/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ruidejaneiro/)*

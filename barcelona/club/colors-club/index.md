@@ -1,6 +1,6 @@
 # Colors club
 
-Colors club is a music venue in Barcelona with 1 upcoming night listed on soundcheck as of Fri, 11 Sept 2026; the next is "AFRO FASHION" on Fri, 11 Sept 2026.
+Colors club is a music venue in Barcelona with 1 upcoming night listed on soundcheck as of Sat, 12 Sept 2026; the next is "AFRO FASHION" on Fri, 11 Sept 2026.
 
 Colors club is a music venue in Barcelona listed on soundcheck. 1 upcoming night, with line-ups including Danny Ocean. Browse upcoming dates, start times and who's playing. La Rambla, 33, 08002 Barcelona.
 
@@ -14,4 +14,4 @@ Colors club is a music venue in Barcelona listed on soundcheck. 1 upcoming night
 
 La Rambla, 33, 08002 Barcelona, Barcelona
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/colors-club/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/colors-club/)*

@@ -1,6 +1,6 @@
 # Vassallo
 
-Vassallo is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Fri, 11 Sept 2026, next at The Doghouse bar & Record Store, Leeds on Sat, 12 Sept 2026.
+Vassallo is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Sat, 12 Sept 2026, next at The Doghouse bar & Record Store, Leeds on Sat, 12 Sept 2026.
 
 Vassallo is a techno and electro artist tracked on soundcheck, with 18 sets logged across Belfast, Leeds, London and Manchester and 1 more. Often billed alongside Chin, Joe Reece and KINO (UY). Next up: The Doghouse bar & Record Store, Leeds on Sat 12 Sept.
 
@@ -25,4 +25,4 @@ Vassallo is a techno and electro artist tracked on soundcheck, with 18 sets logg
 
 Chin, Joe Reece, KINO (UY)
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/vassallo/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/vassallo/)*

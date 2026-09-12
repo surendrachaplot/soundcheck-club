@@ -1,6 +1,6 @@
 # Ephigenia
 
-Ephigenia is a music venue in Sao Paulo with 1 upcoming night listed on soundcheck as of Fri, 11 Sept 2026; the next is "TIJOLO RECORDS 7 ANOS @ EPHIGENIA" on Fri, 11 Sept 2026.
+Ephigenia is a music venue in Sao Paulo with 1 upcoming night listed on soundcheck as of Sat, 12 Sept 2026; the next is "TIJOLO RECORDS 7 ANOS @ EPHIGENIA" on Fri, 11 Sept 2026.
 
 Ephigenia is a music venue in Saopaulo listed on soundcheck. 1 upcoming night, with line-ups including Cesrv, DJ Magal, Eram and EVEHIVE and 2 more. Browse upcoming dates, start times and who's playing. Viaduto Santa Ifigênia, 66 - Centro Histórico de São PauloSão Paulo - SP, 01033-050.
 
@@ -14,4 +14,4 @@ Ephigenia is a music venue in Saopaulo listed on soundcheck. 1 upcoming night, w
 
 Viaduto Santa Ifigênia, 66 - Centro Histórico de São PauloSão Paulo - SP, 01033-050, Sao Paulo
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/saopaulo/club/ephigenia/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/saopaulo/club/ephigenia/)*

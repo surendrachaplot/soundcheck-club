@@ -1,6 +1,6 @@
 # Dancehall Science - Iration Steppas, Charlie P & Exodus at The Hifi Club
 
-Dancehall Science - Iration Steppas, Charlie P & Exodus at The Hifi Club on Thu 24 Sept, Leeds. 3 acts on the bill: Charlie P, Iration Steppas and Simon Scott. Dub and Dancehall. Preview the line-up and save it on soundcheck.
+Dancehall Science - Iration Steppas, Charlie P & Exodus at The Hifi Club on Thu 24 Sept, Leeds. 4 acts on the bill: Anatta Sound, Charlie P, Iration Steppas and Simon Scott. Dub and Dancehall. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ Dancehall Science - Iration Steppas, Charlie P & Exodus at The Hifi Club on Thu 
 
 ## Line-up
 
+- Anatta Sound
 - Charlie P
 - Iration Steppas
 - Simon Scott

@@ -1,6 +1,6 @@
 # Melina Serser
 
-Melina Serser is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at Cobalt Studios, Newcastle on Sat, 24 Oct 2026.
+Melina Serser is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Cobalt Studios, Newcastle on Sat, 24 Oct 2026.
 
 Melina Serser is a house and techno artist tracked on soundcheck, with 55 sets logged across Amsterdam, Barcelona, Berlin and Bucharest and 13 more. Often billed alongside Jane Fitz, DJ Koolt and ASIA (DE). Next up: Cobalt Studios, Newcastle on Sat 24 Oct.
 
@@ -27,4 +27,4 @@ Melina Serser is a house and techno artist tracked on soundcheck, with 55 sets l
 
 Jane Fitz, DJ Koolt, ASIA (DE)
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/melinaserser/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/melinaserser/)*

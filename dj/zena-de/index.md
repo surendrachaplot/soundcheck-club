@@ -1,6 +1,6 @@
 # ZE:NA
 
-ZE:NA is a Bass and Dub artist with 3 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at OHM, Berlin on Sat, 26 Sept 2026.
+ZE:NA is a Bass and Dub artist with 3 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at OHM, Berlin on Sat, 26 Sept 2026.
 
 ZE:NA is a bass and dub artist based in United Kingdom, tracked on soundcheck, with 32 sets logged across Amsterdam, Berlin, Hamburg and London. Often billed alongside PJ Bridger, Distal_ and zunz. Next up: OHM, Berlin on Sat 26 Sept.
 
@@ -27,4 +27,4 @@ ZE:NA is a bass and dub artist based in United Kingdom, tracked on soundcheck, w
 
 PJ Bridger, Distal_, zunz
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/zena-de/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/zena-de/)*

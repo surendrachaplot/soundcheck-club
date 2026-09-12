@@ -1,6 +1,6 @@
 # kertua
 
-kertua is a Neo Perreo and Gqom artist with 1 upcoming club date listed on soundcheck as of Fri, 11 Sept 2026, next at K-Bar Powiśle, Warsaw on Fri, 23 Oct 2026.
+kertua is a Neo Perreo and Gqom artist with 1 upcoming club date listed on soundcheck as of Sat, 12 Sept 2026, next at K-Bar Powiśle, Warsaw on Fri, 23 Oct 2026.
 
 kertua is a neo perreo and gqom artist based in Poland, tracked on soundcheck, with 6 sets logged across Warsaw. Often billed alongside eylau, sponsa and Adobo (PL). Next up: K-Bar Powiśle, Warsaw on Fri 23 Oct.
 
@@ -22,4 +22,4 @@ kertua is a neo perreo and gqom artist based in Poland, tracked on soundcheck, w
 
 eylau, sponsa, Adobo (PL)
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kertua/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kertua/)*

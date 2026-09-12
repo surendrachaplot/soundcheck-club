@@ -1,6 +1,6 @@
 # MELATRONIX
 
-MELATRONIX is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 11 Sept 2026, next at ://about blank, Berlin on Fri, 18 Sept 2026.
+MELATRONIX is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 12 Sept 2026, next at ://about blank, Berlin on Fri, 18 Sept 2026.
 
 MELATRONIX is a techno and house artist based in Germany, tracked on soundcheck, with 35 sets logged across Amsterdam, Bangkok, Berlin and Hamburg and 8 more. Often billed alongside Elad Magdasi, Mathias Weber and Projekt Gestalten. Next up: ://about blank, Berlin on Fri 18 Sept.
 
@@ -25,4 +25,4 @@ MELATRONIX is a techno and house artist based in Germany, tracked on soundcheck,
 
 Elad Magdasi, Mathias Weber, Projekt Gestalten
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/melatronix/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/melatronix/)*

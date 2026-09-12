@@ -1,6 +1,6 @@
 # Bermani
 
-Bermani is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at Dune Park, Buenos Aires on Fri, 25 Sept 2026.
+Bermani is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Dune Park, Buenos Aires on Fri, 25 Sept 2026.
 
 Bermani is a house and techno artist tracked on soundcheck, with 51 sets logged across Amsterdam, Berlin and Buenosaires. Often billed alongside Ludmila Di Pasquale, Camila Isabel and Djs Pareja. Next up: Dune Park, Buenosaires on Fri 25 Sept.
 
@@ -26,4 +26,4 @@ Bermani is a house and techno artist tracked on soundcheck, with 51 sets logged 
 
 Ludmila Di Pasquale, Camila Isabel, Djs Pareja
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bermani/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bermani/)*

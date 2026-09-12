@@ -1,6 +1,6 @@
 # DOCTOR MÜCKE
 
-DOCTOR MÜCKE is a Trance and Techno artist with 3 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at Void Club, Berlin on Sat, 12 Sept 2026.
+DOCTOR MÜCKE is a Trance and Techno artist with 3 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Void Club, Berlin on Sat, 12 Sept 2026.
 
 DOCTOR MÜCKE is a trance and techno artist tracked on soundcheck, with 43 sets logged across Barcelona, Berlin, Cologne and Dusseldorf and 9 more. Often billed alongside RESA UTOPICA, EGE363 and Amo (IT). Next up: Void Club, Berlin on Sat 12 Sept.
 
@@ -27,4 +27,4 @@ DOCTOR MÜCKE is a trance and techno artist tracked on soundcheck, with 43 sets 
 
 RESA UTOPICA, EGE363, Amo (IT)
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/doctormucke/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/doctormucke/)*

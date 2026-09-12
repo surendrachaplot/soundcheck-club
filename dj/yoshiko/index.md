@@ -1,8 +1,8 @@
 # Yoshiko
 
-Yoshiko is a Techno and Hardcore artist with 11 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at Bootshaus, Cologne on Fri, 11 Sept 2026.
+Yoshiko is a Techno and Hardcore artist with 12 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Bootshaus, Cologne on Fri, 11 Sept 2026.
 
-Yoshiko is a techno and hardcore artist tracked on soundcheck, with 37 sets logged across Amsterdam, Antwerp, Barcelona and Berlin and 21 more. Often billed alongside Dimitri K, The Dark Horror and Winson. Next up: Bootshaus, Cologne on Fri 11 Sept.
+Yoshiko is a techno and hardcore artist tracked on soundcheck, with 38 sets logged across Amsterdam, Antwerp, Barcelona and Berlin and 22 more. Often billed alongside Dimitri K, The Dark Horror and Winson. Next up: Bootshaus, Cologne on Fri 11 Sept.
 
 ## Upcoming shows
 
@@ -19,20 +19,21 @@ Yoshiko is a techno and hardcore artist tracked on soundcheck, with 37 sets logg
 | Fri, 20 Nov 2026 | Warehouse | Nantes |
 | Sat, 21 Nov 2026 | Martiniplaza | Amsterdam |
 | Fri, 27 Nov 2026 | Arzenal | Budapest |
+| Fri, 11 Dec 2026 | Epic Prague | Prague |
 
 ## Recently played
 
+- Bootshaus, Cologne — Fri, 11 Sept 2026
+- Mia Mao, Paris — Fri, 11 Sept 2026
 - The Classic Grand, Glasgow — Sat, 29 Aug 2026
 - TBA - XOX Arena, ARCH GALERIES, Kuala Lumpur — Sat, 22 Aug 2026
 - Electrisize, Düsseldorf — Fri, 7 Aug 2026
 - Le Kilowatt, Paris — Sat, 25 Jul 2026
 - Amnesia Ibiza, Ibiza — Thu, 18 Jun 2026
 - Deutsche Bank Park, Frankfurt — Fri, 5 Jun 2026
-- Klub Progresja, Warsaw — Wed, 3 Jun 2026
-- IDRA, Manchester — Sat, 30 May 2026
 
 ## Shares bills with
 
 Dimitri K, The Dark Horror, Winson
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/yoshiko/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/yoshiko/)*

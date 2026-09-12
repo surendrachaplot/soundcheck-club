@@ -1,6 +1,6 @@
-# Virage Présente : Jump Source (live), HORS-SOL (DJ act), Nesa Azadikhah, Katia Curie at Virage
+# Virage Présente : Jump Source (live), HORS-SOL (DJ act), Nesa Azadikhah, Mathiou at Virage
 
-Virage Présente : Jump Source (live), HORS-SOL (DJ act), Nesa Azadikhah, Katia Curie on Fri 11 Sept, Paris. 6 acts on the bill: HORS-SOL, Jump Source, Katia Curie and Nesa Azadikhah and 2 more. Preview the line-up and save it on soundcheck.
+Virage Présente : Jump Source (live), HORS-SOL (DJ act), Nesa Azadikhah, Mathiou on Fri 11 Sept, Paris. 7 acts on the bill: HORS-SOL, Jump Source, Katia Curie and Mathiou and 3 more. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -13,6 +13,7 @@ Virage Présente : Jump Source (live), HORS-SOL (DJ act), Nesa Azadikhah, Katia 
 - HORS-SOL
 - Jump Source
 - Katia Curie
+- Mathiou
 - Nesa Azadikhah
 - Patrick Holland
 - Priori

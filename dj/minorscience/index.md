@@ -1,6 +1,6 @@
 # Minor Science
 
-Minor Science is a Techno and Bass artist with 1 upcoming club date listed on soundcheck as of Fri, 11 Sept 2026, next at M.O.T, London on Fri, 6 Nov 2026.
+Minor Science is a Techno and Bass artist with 1 upcoming club date listed on soundcheck as of Sat, 12 Sept 2026, next at M.O.T, London on Fri, 6 Nov 2026.
 
 Minor Science is a techno and bass artist based in Germany, tracked on soundcheck, with 31 sets logged across Berlin, Bristol, Copenhagen and Edinburgh and 7 more. Often billed alongside Nono Gigsta, mi-el and Ann Mysochka. Next up: M.O.T, London on Fri 6 Nov.
 
@@ -25,4 +25,4 @@ Minor Science is a techno and bass artist based in Germany, tracked on soundchec
 
 Nono Gigsta, mi-el, Ann Mysochka
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/minorscience/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/minorscience/)*

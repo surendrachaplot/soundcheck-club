@@ -1,6 +1,6 @@
 # Drymk
 
-Drymk is a Techno and Acid artist with 1 upcoming club date listed on soundcheck as of Fri, 11 Sept 2026, next at Terminus, Paris on Fri, 11 Sept 2026.
+Drymk is a Techno and Acid artist with 1 upcoming club date listed on soundcheck as of Sat, 12 Sept 2026, next at Terminus, Paris on Fri, 11 Sept 2026.
 
 Drymk is a techno and acid artist based in France, tracked on soundcheck, with 7 sets logged across Brussels, Ghent, Nantes and Paris. Often billed alongside Biomystic, Âpre and Alix (3). Next up: Terminus, Paris on Fri 11 Sept.
 
@@ -12,6 +12,7 @@ Drymk is a techno and acid artist based in France, tracked on soundcheck, with 7
 
 ## Recently played
 
+- Terminus, Paris — Fri, 11 Sept 2026
 - TBA - Paris, Paris — Sat, 20 Jun 2026
 - Illegaal, Brussels — Sat, 7 Feb 2026
 - TBA - Warehouse, Paris — Thu, 31 Oct 2024
@@ -23,4 +24,4 @@ Drymk is a techno and acid artist based in France, tracked on soundcheck, with 7
 
 Biomystic, Âpre, Alix (3)
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/drymk/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/drymk/)*

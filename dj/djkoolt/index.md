@@ -1,6 +1,6 @@
 # DJ Koolt
 
-DJ Koolt is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at The Cause, London on Sat, 12 Sept 2026.
+DJ Koolt is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at The Cause, London on Sat, 12 Sept 2026.
 
 DJ Koolt is a house and techno artist tracked on soundcheck, with 95 sets logged across Amsterdam, Bali, Barcelona and Belgrade and 27 more. Often billed alongside ASIA (DE), Christian AB and Ogazón. Next up: The Cause, London on Sat 12 Sept.
 
@@ -27,4 +27,4 @@ DJ Koolt is a house and techno artist tracked on soundcheck, with 95 sets logged
 
 ASIA (DE), Christian AB, Ogazón
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djkoolt/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djkoolt/)*

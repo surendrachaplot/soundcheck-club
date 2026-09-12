@@ -1,6 +1,6 @@
 # Sixsixsixties
 
-Sixsixsixties is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at House of Growfunding, Brussels on Fri, 18 Sept 2026.
+Sixsixsixties is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at House of Growfunding, Brussels on Fri, 18 Sept 2026.
 
 Sixsixsixties is a house and techno artist based in Belgium, tracked on soundcheck, with 53 sets logged across Amsterdam, Antwerp, Berlin and Brussels and 5 more. Often billed alongside Fais Le Beau, Dana Kuehr and Paulo Sea. Next up: House of Growfunding, Brussels on Fri 18 Sept.
 
@@ -27,4 +27,4 @@ Sixsixsixties is a house and techno artist based in Belgium, tracked on soundche
 
 Fais Le Beau, Dana Kuehr, Paulo Sea
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sixsixsixties/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sixsixsixties/)*

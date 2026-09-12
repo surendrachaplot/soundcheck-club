@@ -1,6 +1,6 @@
 # Nika Herero
 
-Nika Herero is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at The Door Club, Berlin on Fri, 18 Sept 2026.
+Nika Herero is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at The Door Club, Berlin on Fri, 18 Sept 2026.
 
 Nika Herero is a house and techno artist based in Germany, tracked on soundcheck, with 25 sets logged across Berlin. Often billed alongside Miss Baba, DJ Adonis and Alex Gallus. Next up: The Door Club, Berlin on Fri 18 Sept.
 
@@ -26,4 +26,4 @@ Nika Herero is a house and techno artist based in Germany, tracked on soundcheck
 
 Miss Baba, DJ Adonis, Alex Gallus
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nika.herero/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nika.herero/)*

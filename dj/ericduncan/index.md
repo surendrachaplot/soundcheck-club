@@ -1,6 +1,6 @@
 # Eric Duncan
 
-Eric Duncan is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at VENT, Tokyo on Fri, 23 Oct 2026.
+Eric Duncan is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at VENT, Tokyo on Fri, 23 Oct 2026.
 
 Eric Duncan is a house and disco artist tracked on soundcheck, with 50 sets logged across Athens, Bangkok, Belgrade and Berlin and 15 more. Often billed alongside FFAN, Future Feelings and Horse Meat Disco. Next up: VENT, Tokyo on Fri 23 Oct.
 
@@ -26,4 +26,4 @@ Eric Duncan is a house and disco artist tracked on soundcheck, with 50 sets logg
 
 FFAN, Future Feelings, Horse Meat Disco
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ericduncan/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ericduncan/)*

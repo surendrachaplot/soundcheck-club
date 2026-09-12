@@ -1,13 +1,14 @@
 # JELLY
 
-JELLY is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 11 Sept 2026, next at Skatecafe, Amsterdam on Fri, 23 Oct 2026.
+JELLY is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Tonal, Mexico City on Wed, 9 Sept 2026.
 
-JELLY is a techno and house artist tracked on soundcheck, with 36 sets logged across Amsterdam, Mexicocity, Paris and Rotterdam and 3 more. Often billed alongside Jeans (NL), Jetti and Afra. Next up: Skatecafe, Amsterdam on Fri 23 Oct.
+JELLY is a techno and house artist tracked on soundcheck, with 36 sets logged across Amsterdam, Mexicocity, Paris and Rotterdam and 3 more. Often billed alongside Jeans (NL), Jetti and Afra. Next up: Tonal, Mexicocity on Wed 9 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Wed, 9 Sept 2026 | Tonal | Mexico City |
 | Fri, 23 Oct 2026 | Skatecafe | Amsterdam |
 
 ## Recently played
@@ -25,4 +26,4 @@ JELLY is a techno and house artist tracked on soundcheck, with 36 sets logged ac
 
 Jeans (NL), Jetti, Afra
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jelly-1/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jelly-1/)*

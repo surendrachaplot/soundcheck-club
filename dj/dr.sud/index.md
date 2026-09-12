@@ -1,6 +1,6 @@
 # Dr. Sud
 
-Dr. Sud is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Fri, 11 Sept 2026, next at Humboldthain Club, Berlin on Sat, 19 Sept 2026.
+Dr. Sud is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Sat, 12 Sept 2026, next at Humboldthain Club, Berlin on Sat, 19 Sept 2026.
 
 Dr. Sud is a house and deep house artist based in Italy, tracked on soundcheck, with 12 sets logged across Berlin. Often billed alongside Caldii, dOctOr doms and Luminick. Next up: Humboldthain Club, Berlin on Sat 19 Sept.
 
@@ -25,4 +25,4 @@ Dr. Sud is a house and deep house artist based in Italy, tracked on soundcheck, 
 
 Caldii, dOctOr doms, Luminick
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dr.sud/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dr.sud/)*

@@ -1,6 +1,6 @@
 # Krystal Klear
 
-Krystal Klear is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at Amnesia Ibiza, Ibiza on Fri, 11 Sept 2026.
+Krystal Klear is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Amnesia Ibiza, Ibiza on Fri, 11 Sept 2026.
 
 Krystal Klear is a house and techno artist tracked on soundcheck, with 113 sets logged across Amsterdam, Antwerp, Bali and Barcelona and 38 more. Often billed alongside Gerd Janson, Seth Troxler and Skream. Next up: Amnesia Ibiza, Ibiza on Fri 11 Sept.
 
@@ -14,6 +14,7 @@ Krystal Klear is a house and techno artist tracked on soundcheck, with 113 sets 
 
 ## Recently played
 
+- Amnesia Ibiza, Ibiza — Fri, 11 Sept 2026
 - fi, Cologne — Sat, 8 Aug 2026
 - Amnesia Ibiza, Ibiza — Fri, 17 Jul 2026
 - But, Madrid — Sun, 5 Jul 2026
@@ -21,10 +22,9 @@ Krystal Klear is a house and techno artist tracked on soundcheck, with 113 sets 
 - Jumbi, London — Sat, 27 Jun 2026
 - Phonox, London — Sat, 27 Jun 2026
 - Seaseaclub Barcelona, Barcelona — Thu, 18 Jun 2026
-- UNO MALTA, Malta — Thu, 28 May 2026
 
 ## Shares bills with
 
 Gerd Janson, Seth Troxler, Skream
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/krystalklear/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/krystalklear/)*

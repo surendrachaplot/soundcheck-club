@@ -1,6 +1,6 @@
 # Romantica
 
-Romantica is a music venue in Stuttgart with 7 upcoming nights listed on soundcheck as of Fri, 11 Sept 2026; the next is "AMARU with Townes / Danny Salas" on Fri, 11 Sept 2026.
+Romantica is a music venue in Stuttgart with 7 upcoming nights listed on soundcheck as of Sat, 12 Sept 2026; the next is "AMARU with Townes / Danny Salas" on Fri, 11 Sept 2026.
 
 Romantica is a music venue in Stuttgart listed on soundcheck. 7 upcoming nights, with line-ups including Alexander Maier, chaos.disco.club, Danny Salas and ELSA (DE) and 2 more. Browse upcoming dates, start times and who's playing. Hauptstatter Str. 40, Stuttgart.
 
@@ -20,4 +20,4 @@ Romantica is a music venue in Stuttgart listed on soundcheck. 7 upcoming nights,
 
 Hauptstatter Str. 40, Stuttgart, Stuttgart
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/stuttgart/club/romantica/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/stuttgart/club/romantica/)*

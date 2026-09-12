@@ -1,6 +1,6 @@
 # WARNO
 
-WARNO is a Afrobeats and Hip-Hop artist with 1 upcoming club date listed on soundcheck as of Fri, 11 Sept 2026, next at YOTO, Hamburg on Sat, 12 Sept 2026.
+WARNO is a Afrobeats and Hip-Hop artist with 1 upcoming club date listed on soundcheck as of Sat, 12 Sept 2026, next at YOTO, Hamburg on Sat, 12 Sept 2026.
 
 WARNO is an afrobeats and hip-hop artist tracked on soundcheck, with 8 sets logged across Hamburg. Often billed alongside NEAF, J.TU and ARMAH. Next up: YOTO, Hamburg on Sat 12 Sept.
 
@@ -24,4 +24,4 @@ WARNO is an afrobeats and hip-hop artist tracked on soundcheck, with 8 sets logg
 
 NEAF, J.TU, ARMAH
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/warno/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/warno/)*

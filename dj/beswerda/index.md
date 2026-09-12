@@ -1,6 +1,6 @@
 # Beswerda
 
-Beswerda is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 11 Sept 2026, next at Onder Hans, Amsterdam on Thu, 22 Oct 2026.
+Beswerda is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 12 Sept 2026, next at Onder Hans, Amsterdam on Thu, 22 Oct 2026.
 
 Beswerda is a techno and house artist based in Netherlands, tracked on soundcheck, with 47 sets logged across Amsterdam, Brussels, Budapest and Copenhagen and 7 more. Often billed alongside Colyn, VNTM and Mees Salomé. Next up: Onder Hans, Amsterdam on Thu 22 Oct.
 
@@ -25,4 +25,4 @@ Beswerda is a techno and house artist based in Netherlands, tracked on soundchec
 
 Colyn, VNTM, Mees Salomé
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/beswerda/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/beswerda/)*

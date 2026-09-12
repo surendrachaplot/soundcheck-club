@@ -1,6 +1,6 @@
 # PNNY
 
-PNNY is a House and Disco artist with 3 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at Klymax Discotheque, Bali on Sat, 12 Sept 2026.
+PNNY is a House and Disco artist with 3 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Klymax Discotheque, Bali on Sat, 12 Sept 2026.
 
 PNNY is a house and disco artist tracked on soundcheck, with 119 sets logged across Amsterdam, Bali, Bangkok and Berlin and 9 more. Often billed alongside Tiago Oudman, Tjade and DITA (ID). Next up: Klymax Discotheque, Bali on Sat 12 Sept.
 
@@ -27,4 +27,4 @@ PNNY is a house and disco artist tracked on soundcheck, with 119 sets logged acr
 
 Tiago Oudman, Tjade, DITA (ID)
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/pnny/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/pnny/)*

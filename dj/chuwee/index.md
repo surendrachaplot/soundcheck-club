@@ -1,6 +1,6 @@
 # Chuwee
 
-Chuwee is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at Moondog Hifi, New York City on Sat, 12 Sept 2026.
+Chuwee is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Moondog Hifi, New York City on Sat, 12 Sept 2026.
 
 Chuwee is a house and techno artist tracked on soundcheck, with 77 sets logged across Barcelona, Losangeles, Miami and Newyorkcity and 2 more. Often billed alongside Seb Hall, Kiyoshi and O.BEE. Next up: Moondog Hifi, Newyorkcity on Sat 12 Sept.
 
@@ -26,4 +26,4 @@ Chuwee is a house and techno artist tracked on soundcheck, with 77 sets logged a
 
 Seb Hall, Kiyoshi, O.BEE
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/chuwee/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/chuwee/)*

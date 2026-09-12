@@ -1,6 +1,6 @@
 # Louis The 4th
 
-Louis The 4th is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Fri, 11 Sept 2026, next at La Java, Paris on Thu, 15 Oct 2026.
+Louis The 4th is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Sat, 12 Sept 2026, next at La Java, Paris on Thu, 15 Oct 2026.
 
 Louis The 4th is a techno and electro artist based in France, tracked on soundcheck, with 40 sets logged across Amsterdam, Berlin, Brussels and Lisbon and 6 more. Often billed alongside Bliss (1), Camion Bazar and Chami. Next up: La Java, Paris on Thu 15 Oct.
 
@@ -25,4 +25,4 @@ Louis The 4th is a techno and electro artist based in France, tracked on soundch
 
 Bliss (1), Camion Bazar, Chami
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/louisthe4th/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/louisthe4th/)*

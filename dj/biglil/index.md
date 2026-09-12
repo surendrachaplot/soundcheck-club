@@ -1,6 +1,6 @@
 # Big Lil
 
-Big Lil is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at Roxy, Prague on Sat, 12 Sept 2026.
+Big Lil is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Roxy, Prague on Sat, 12 Sept 2026.
 
 Big Lil is a techno and house artist based in United States of America, tracked on soundcheck, with 57 sets logged across Prague. Often billed alongside Fembot, AVHD and Kaotic. Next up: Roxy, Prague on Sat 12 Sept.
 
@@ -26,4 +26,4 @@ Big Lil is a techno and house artist based in United States of America, tracked 
 
 Fembot, AVHD, Kaotic
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/biglil/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/biglil/)*

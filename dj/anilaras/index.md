@@ -1,6 +1,6 @@
 # Anil Aras
 
-Anil Aras is a House and Tech House artist with 8 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at SISSI'S Amsterdam, Amsterdam on Fri, 11 Sept 2026.
+Anil Aras is a House and Tech House artist with 8 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at SISSI'S Amsterdam, Amsterdam on Fri, 11 Sept 2026.
 
 Anil Aras is a house and tech house artist tracked on soundcheck, with 82 sets logged across Amsterdam, Barcelona, Brighton and Bristol and 14 more. Often billed alongside Dennis Quin, M-High and Prunk. Next up: SISSI'S Amsterdam, Amsterdam on Fri 11 Sept.
 
@@ -19,6 +19,7 @@ Anil Aras is a house and tech house artist tracked on soundcheck, with 82 sets l
 
 ## Recently played
 
+- SISSI'S Amsterdam, Amsterdam — Fri, 11 Sept 2026
 - Strijkviertel, Utrecht — Sat, 5 Sept 2026
 - Cova Santa, Ibiza — Tue, 1 Sept 2026
 - Cadman Cruises, Sydney — Sat, 15 Aug 2026
@@ -26,10 +27,9 @@ Anil Aras is a house and tech house artist tracked on soundcheck, with 82 sets l
 - Het Sieraad, Amsterdam — Sat, 25 Jul 2026
 - Night Tales, London — Sun, 5 Jul 2026
 - Cova Santa, Ibiza — Tue, 30 Jun 2026
-- Colorado Charlie, The Hague — Fri, 26 Jun 2026
 
 ## Shares bills with
 
 Dennis Quin, M-High, Prunk
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/anilaras/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/anilaras/)*

@@ -1,6 +1,6 @@
 # Letnisko Żoliborz
 
-Letnisko Żoliborz is a music venue in Warsaw with 2 upcoming nights listed on soundcheck as of Fri, 11 Sept 2026; the next is "atoLATO / Atomy" on Fri, 11 Sept 2026.
+Letnisko Żoliborz is a music venue in Warsaw with 2 upcoming nights listed on soundcheck as of Sat, 12 Sept 2026; the next is "atoLATO / Atomy" on Fri, 11 Sept 2026.
 
 Letnisko Żoliborz is a music venue in Warsaw listed on soundcheck. 2 upcoming nights, with line-ups including uiava. Browse upcoming dates, start times and who's playing. Wybrzeże Gdyńskie 2, 01-531 Warszawa.
 
@@ -15,4 +15,4 @@ Letnisko Żoliborz is a music venue in Warsaw listed on soundcheck. 2 upcoming n
 
 Wybrzeże Gdyńskie 2, 01-531 Warszawa, Warsaw
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/warsaw/club/letnisko-oliborz/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/warsaw/club/letnisko-oliborz/)*

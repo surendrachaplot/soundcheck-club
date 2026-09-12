@@ -1,13 +1,14 @@
 # Trotsky
 
-Trotsky is a House and Trance artist with 1 upcoming club date listed on soundcheck as of Fri, 11 Sept 2026, next at Bassiani, Tbilisi on Fri, 2 Oct 2026.
+Trotsky is a House and Trance artist with 2 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Thelema, Tbilisi on Sat, 26 Sept 2026.
 
-Trotsky is a house and trance artist based in Georgia, tracked on soundcheck, with 78 sets logged across Berlin, Lisbon, Madrid and Tbilisi. Often billed alongside Mtvare, Gio Shengelia and Reshio. Next up: Bassiani, Tbilisi on Fri 2 Oct.
+Trotsky is a house and trance artist based in Georgia, tracked on soundcheck, with 79 sets logged across Berlin, Lisbon, Madrid and Tbilisi. Often billed alongside Mtvare, Gio Shengelia and Reshio. Next up: Thelema, Tbilisi on Sat 26 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 26 Sept 2026 | Thelema | Tbilisi |
 | Fri, 2 Oct 2026 | Bassiani | Tbilisi |
 
 ## Recently played
@@ -25,4 +26,4 @@ Trotsky is a house and trance artist based in Georgia, tracked on soundcheck, wi
 
 Mtvare, Gio Shengelia, Reshio
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/trotsky/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/trotsky/)*

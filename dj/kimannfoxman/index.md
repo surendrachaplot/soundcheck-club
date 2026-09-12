@@ -1,8 +1,8 @@
 # Kim Ann Foxman
 
-Kim Ann Foxman is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at Ankali & Planeta Za, Prague on Sat, 12 Sept 2026.
+Kim Ann Foxman is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Ankali & Planeta Za, Prague on Sat, 12 Sept 2026.
 
-Kim Ann Foxman is a house and techno artist tracked on soundcheck, with 133 sets logged across Amsterdam, Auckland, Bali and Bangkok and 33 more. Often billed alongside Cora (CN), DJ TOOL and Jen Cardini. Next up: Ankali & Planeta Za, Prague on Sat 12 Sept.
+Kim Ann Foxman is a house and techno artist tracked on soundcheck, with 134 sets logged across Amsterdam, Auckland, Bali and Bangkok and 33 more. Often billed alongside Cora (CN), DJ TOOL and Jen Cardini. Next up: Ankali & Planeta Za, Prague on Sat 12 Sept.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ Kim Ann Foxman is a house and techno artist tracked on soundcheck, with 133 sets
 | Sat, 12 Sept 2026 | Ankali & Planeta Za | Prague |
 | Fri, 25 Sept 2026 | TBA | New York City |
 | Fri, 9 Oct 2026 | FOLD | London |
+| Fri, 16 Oct 2026 | BASEMENT | New York City |
 
 ## Recently played
 
@@ -27,4 +28,4 @@ Kim Ann Foxman is a house and techno artist tracked on soundcheck, with 133 sets
 
 Cora (CN), DJ TOOL, Jen Cardini
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kimannfoxman/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kimannfoxman/)*

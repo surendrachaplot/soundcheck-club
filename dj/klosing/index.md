@@ -1,6 +1,6 @@
 # Klosing
 
-Klosing is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 11 Sept 2026, next at The Iron Fairies Kuala Lumpur, Kuala Lumpur on Sat, 26 Sept 2026.
+Klosing is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 12 Sept 2026, next at The Iron Fairies Kuala Lumpur, Kuala Lumpur on Sat, 26 Sept 2026.
 
 Klosing is a house and techno artist tracked on soundcheck, with 9 sets logged across Bangkok, Berlin, Hongkong and Istanbul and 4 more. Often billed alongside Koliseum, 77Mushrooms and Liem (TH). Next up: The Iron Fairies Kuala Lumpur, Kualalumpur on Sat 26 Sept.
 
@@ -25,4 +25,4 @@ Klosing is a house and techno artist tracked on soundcheck, with 9 sets logged a
 
 Koliseum, 77Mushrooms, Liem (TH)
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/klosing/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/klosing/)*

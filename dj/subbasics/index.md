@@ -1,6 +1,6 @@
 # Sub Basics
 
-Sub Basics is a Dubstep and Dub Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at Phonica Records, London on Thu, 17 Sept 2026.
+Sub Basics is a Dubstep and Dub Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Phonica Records, London on Thu, 17 Sept 2026.
 
 Sub Basics is a dubstep and dub techno artist based in United Kingdom, tracked on soundcheck, with 26 sets logged across Auckland, Barcelona, Bristol and Ghent and 7 more. Often billed alongside Javano, Witch Trials and Fearless Dread. Next up: Phonica Records, London on Thu 17 Sept.
 
@@ -26,4 +26,4 @@ Sub Basics is a dubstep and dub techno artist based in United Kingdom, tracked o
 
 Javano, Witch Trials, Fearless Dread
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/subbasics/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/subbasics/)*

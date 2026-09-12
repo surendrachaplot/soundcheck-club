@@ -1,6 +1,6 @@
 # Riri
 
-Riri is a Dub and House artist with 1 upcoming club date listed on soundcheck as of Fri, 11 Sept 2026, next at UTOPIA / DYSTOPIA, Tokyo on Sun, 20 Sept 2026.
+Riri is a Dub and House artist with 1 upcoming club date listed on soundcheck as of Sat, 12 Sept 2026, next at UTOPIA / DYSTOPIA, Tokyo on Sun, 20 Sept 2026.
 
 Riri is a dub and house artist based in Canada, tracked on soundcheck, with 7 sets logged across Bangkok, Sydney, Tokyo and Toronto. Often billed alongside Ari Kiko, Doc Scott and Dreems. Next up: UTOPIA / DYSTOPIA, Tokyo on Sun 20 Sept.
 
@@ -23,4 +23,4 @@ Riri is a dub and house artist based in Canada, tracked on soundcheck, with 7 se
 
 Ari Kiko, Doc Scott, Dreems
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/riri/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/riri/)*

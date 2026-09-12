@@ -1,6 +1,6 @@
 # Westside Bass
 
-Westside Bass is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at Hoppetosse, Berlin on Sat, 19 Sept 2026.
+Westside Bass is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Hoppetosse, Berlin on Sat, 19 Sept 2026.
 
 Westside Bass is a techno and house artist based in Germany, tracked on soundcheck, with 24 sets logged across Berlin. Often billed alongside PyjamaMama, Error507 and Ravejezuz. Next up: Hoppetosse, Berlin on Sat 19 Sept.
 
@@ -27,4 +27,4 @@ Westside Bass is a techno and house artist based in Germany, tracked on soundche
 
 PyjamaMama, Error507, Ravejezuz
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/westsidebass/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/westsidebass/)*

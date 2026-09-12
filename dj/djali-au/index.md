@@ -1,6 +1,6 @@
 # DJ ALI (AU)
 
-DJ ALI (AU) is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Fri, 11 Sept 2026, next at ark (Melb), Melbourne on Sat, 12 Sept 2026.
+DJ ALI (AU) is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Sat, 12 Sept 2026, next at ark (Melb), Melbourne on Sat, 12 Sept 2026.
 
 DJ ALI (AU) is a techno and trance artist based in Australia, tracked on soundcheck, with 25 sets logged across Berlin, Brisbane, Copenhagen and Melbourne and 1 more. Often billed alongside CLAIR (BAI), Hasvat Informant and KSMBA. Next up: ark (Melb), Melbourne on Sat 12 Sept.
 
@@ -25,4 +25,4 @@ DJ ALI (AU) is a techno and trance artist based in Australia, tracked on soundch
 
 CLAIR (BAI), Hasvat Informant, KSMBA
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djali-au/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djali-au/)*

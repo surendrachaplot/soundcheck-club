@@ -1,6 +1,6 @@
 # Broken Hill
 
-Broken Hill is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at Art Club, Houston on Sat, 12 Sept 2026.
+Broken Hill is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Art Club, Houston on Sat, 12 Sept 2026.
 
 Broken Hill is a house and techno artist based in Spain, tracked on soundcheck, with 17 sets logged across Barcelona, Denver, Houston and Ibiza and 7 more. Often billed alongside OMRI., ANNA and BLOND:ISH. Next up: Art Club, Houston on Sat 12 Sept.
 
@@ -27,4 +27,4 @@ Broken Hill is a house and techno artist based in Spain, tracked on soundcheck, 
 
 OMRI., ANNA, BLOND:ISH
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/brokenhill/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/brokenhill/)*

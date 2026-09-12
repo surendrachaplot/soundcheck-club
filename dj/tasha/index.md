@@ -1,8 +1,8 @@
 # Tasha
 
-Tasha is a Techno and House artist with 7 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at Barragem da Queimadela, Porto on Thu, 10 Sept 2026.
+Tasha is a Techno and House artist with 8 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Barragem da Queimadela, Porto on Thu, 10 Sept 2026.
 
-Tasha is a techno and house artist tracked on soundcheck, with 192 sets logged across Amsterdam, Athens, Barcelona and Basel and 38 more. Often billed alongside Steffi, Blasha & Allatt and DVS1. Next up: Barragem da Queimadela, Porto on Thu 10 Sept.
+Tasha is a techno and house artist tracked on soundcheck, with 193 sets logged across Amsterdam, Athens, Barcelona and Basel and 38 more. Often billed alongside Steffi, Blasha & Allatt and DVS1. Next up: Barragem da Queimadela, Porto on Thu 10 Sept.
 
 ## Upcoming shows
 
@@ -13,6 +13,7 @@ Tasha is a techno and house artist tracked on soundcheck, with 192 sets logged a
 | Sat, 26 Sept 2026 | Berghain / Panorama Bar / Säule | Berlin |
 | Sat, 10 Oct 2026 | FOLD | London |
 | Sat, 17 Oct 2026 | Phonox | London |
+| Sat, 17 Oct 2026 | Fuse | Brussels |
 | Sat, 24 Oct 2026 | Nowadays | New York City |
 | Fri, 4 Dec 2026 | Hidden | Manchester |
 
@@ -31,4 +32,4 @@ Tasha is a techno and house artist tracked on soundcheck, with 192 sets logged a
 
 Steffi, Blasha & Allatt, DVS1
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tasha/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tasha/)*

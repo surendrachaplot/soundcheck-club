@@ -1,6 +1,6 @@
 # Patrik Pagan
 
-Patrik Pagan is a Techno and Acid artist with 1 upcoming club date listed on soundcheck as of Fri, 11 Sept 2026, next at Slakthuset, Stockholm on Sat, 12 Sept 2026.
+Patrik Pagan is a Techno and Acid artist with 1 upcoming club date listed on soundcheck as of Sat, 12 Sept 2026, next at Slakthuset, Stockholm on Sat, 12 Sept 2026.
 
 Patrik Pagan is a techno and acid artist based in Austria, tracked on soundcheck, with 32 sets logged across Budapest, Munich, Stockholm and Vienna. Often billed alongside Relinquo, Alena Noctis and DANBERG. Next up: Slakthuset, Stockholm on Sat 12 Sept.
 
@@ -25,4 +25,4 @@ Patrik Pagan is a techno and acid artist based in Austria, tracked on soundcheck
 
 Relinquo, Alena Noctis, DANBERG
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/patrikpagan/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/patrikpagan/)*

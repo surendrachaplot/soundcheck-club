@@ -1,6 +1,6 @@
 # Corran
 
-Corran is a Drum & Bass and Jungle artist with 2 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at The Bongo Club, Edinburgh on Fri, 18 Sept 2026.
+Corran is a Drum & Bass and Jungle artist with 2 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at The Bongo Club, Edinburgh on Fri, 18 Sept 2026.
 
 Corran is a drum & bass and jungle artist based in United Kingdom, tracked on soundcheck, with 100 sets logged across Aberdeen, Dundee, Edinburgh and Glasgow and 1 more. Often billed alongside Akintore, SOL (8) and Marky Marbles. Next up: The Bongo Club, Edinburgh on Fri 18 Sept.
 
@@ -26,4 +26,4 @@ Corran is a drum & bass and jungle artist based in United Kingdom, tracked on so
 
 Akintore, SOL (8), Marky Marbles
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/corran/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/corran/)*

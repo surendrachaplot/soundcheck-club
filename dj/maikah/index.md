@@ -1,14 +1,15 @@
 # Mai Kah
 
-Mai Kah is a Techno and Dub Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 11 Sept 2026, next at The Russian House, Melbourne on Sat, 12 Sept 2026.
+Mai Kah is a Techno and Dub Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at The Russian House, Melbourne on Sat, 12 Sept 2026.
 
-Mai Kah is a techno and dub techno artist based in Australia, tracked on soundcheck, with 6 sets logged across Melbourne. Often billed alongside Pharis, Shani and Blană. Next up: The Russian House, Melbourne on Sat 12 Sept.
+Mai Kah is a techno and dub techno artist based in Australia, tracked on soundcheck, with 7 sets logged across Melbourne. Often billed alongside Pharis, Shani and Steve Pan. Next up: The Russian House, Melbourne on Sat 12 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 12 Sept 2026 | The Russian House | Melbourne |
+| Sat, 26 Sept 2026 | Solace | Melbourne |
 
 ## Recently played
 
@@ -20,6 +21,6 @@ Mai Kah is a techno and dub techno artist based in Australia, tracked on soundch
 
 ## Shares bills with
 
-Pharis, Shani, Blană
+Pharis, Shani, Steve Pan
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/maikah/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/maikah/)*

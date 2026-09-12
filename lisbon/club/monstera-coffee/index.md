@@ -1,6 +1,6 @@
 # Monstera Coffee
 
-Monstera Coffee is a music venue in Lisbon with 1 upcoming night listed on soundcheck as of Fri, 11 Sept 2026; the next is "Grand Opening" on Sun, 13 Sept 2026.
+Monstera Coffee is a music venue in Lisbon with 1 upcoming night listed on soundcheck as of Sat, 12 Sept 2026; the next is "Grand Opening" on Sun, 13 Sept 2026.
 
 Monstera Coffee is a music venue in Lisbon listed on soundcheck. 1 upcoming night. Browse upcoming dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ Monstera Coffee is a music venue in Lisbon listed on soundcheck. 1 upcoming nigh
 | --- | --- | --- |
 | Sun, 13 Sept 2026 | Grand Opening |  |
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/lisbon/club/monstera-coffee/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/lisbon/club/monstera-coffee/)*

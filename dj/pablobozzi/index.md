@@ -1,8 +1,8 @@
 # Pablo Bozzi
 
-Pablo Bozzi is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at KHIDI, Tbilisi on Fri, 18 Sept 2026.
+Pablo Bozzi is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at KHIDI, Tbilisi on Fri, 18 Sept 2026.
 
-Pablo Bozzi is a techno and house artist tracked on soundcheck, with 208 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 53 more. Often billed alongside Phase Fatale, Jen Cardini and Soft Crash. Next up: KHIDI, Tbilisi on Fri 18 Sept.
+Pablo Bozzi is a techno and house artist tracked on soundcheck, with 209 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 53 more. Often billed alongside Phase Fatale, Jen Cardini and Soft Crash. Next up: KHIDI, Tbilisi on Fri 18 Sept.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Pablo Bozzi is a techno and house artist tracked on soundcheck, with 208 sets lo
 | --- | --- | --- |
 | Fri, 18 Sept 2026 | KHIDI | Tbilisi |
 | Fri, 25 Sept 2026 | Switch | Porto |
+| Fri, 16 Oct 2026 | BASEMENT | New York City |
 | Fri, 23 Oct 2026 | DRUMSHEDS | London |
 | Sat, 24 Oct 2026 | Mondo | Madrid |
 
@@ -28,4 +29,4 @@ Pablo Bozzi is a techno and house artist tracked on soundcheck, with 208 sets lo
 
 Phase Fatale, Jen Cardini, Soft Crash
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/pablobozzi/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/pablobozzi/)*

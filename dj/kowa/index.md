@@ -1,6 +1,6 @@
 # Kowa
 
-Kowa is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at TBA - secret location, Krakow on Sat, 12 Sept 2026.
+Kowa is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at TBA - secret location, Krakow on Sat, 12 Sept 2026.
 
 Kowa is a techno and house artist tracked on soundcheck, with 47 sets logged across Krakow, Rome and Sydney. Often billed alongside not so pro, Aetha and A.C.. Next up: TBA - secret location, Krakow on Sat 12 Sept.
 
@@ -26,4 +26,4 @@ Kowa is a techno and house artist tracked on soundcheck, with 47 sets logged acr
 
 not so pro, Aetha, A.C.
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kowa/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kowa/)*

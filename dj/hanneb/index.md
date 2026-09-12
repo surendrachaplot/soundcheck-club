@@ -1,6 +1,6 @@
 # Hanne B
 
-Hanne B is a Trance and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 11 Sept 2026, next at OST, Berlin on Fri, 23 Oct 2026.
+Hanne B is a Trance and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 12 Sept 2026, next at OST, Berlin on Fri, 23 Oct 2026.
 
 Hanne B is a trance and techno artist based in Germany, tracked on soundcheck, with 43 sets logged across Berlin and Munich. Often billed alongside Amo (IT), Bruno Brero and Deltapeak. Next up: OST, Berlin on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ Hanne B is a trance and techno artist based in Germany, tracked on soundcheck, w
 
 Amo (IT), Bruno Brero, Deltapeak
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/hanneb/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/hanneb/)*

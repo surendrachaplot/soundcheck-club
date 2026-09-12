@@ -1,6 +1,6 @@
 # MAL33T
 
-MAL33T is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Fri, 11 Sept 2026, next at Two Tribes CAMPFIRE, London on Sat, 12 Sept 2026.
+MAL33T is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Sat, 12 Sept 2026, next at Two Tribes CAMPFIRE, London on Sat, 12 Sept 2026.
 
 MAL33T is a techno and electro artist tracked on soundcheck, with 10 sets logged across London. Often billed alongside DungeonMaster, MUSICKLUNATIC and AMAR (UK). Next up: Two Tribes CAMPFIRE, London on Sat 12 Sept.
 
@@ -25,4 +25,4 @@ MAL33T is a techno and electro artist tracked on soundcheck, with 10 sets logged
 
 DungeonMaster, MUSICKLUNATIC, AMAR (UK)
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mal33t/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mal33t/)*

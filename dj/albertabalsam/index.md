@@ -1,6 +1,6 @@
 # Alberta Balsam
 
-Alberta Balsam is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Fri, 11 Sept 2026, next at OT301, Amsterdam on Sat, 24 Oct 2026.
+Alberta Balsam is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Sat, 12 Sept 2026, next at OT301, Amsterdam on Sat, 24 Oct 2026.
 
 Alberta Balsam is a techno and electro artist tracked on soundcheck, with 44 sets logged across Amsterdam, Antwerp, Berlin and Brussels and 4 more. Often billed alongside French II, Serge and Afra. Next up: OT301, Amsterdam on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ Alberta Balsam is a techno and electro artist tracked on soundcheck, with 44 set
 
 French II, Serge, Afra
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/albertabalsam/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/albertabalsam/)*

@@ -1,6 +1,6 @@
 # Sergi Delgado
 
-Sergi Delgado is a House and Funk / Soul artist with 1 upcoming club date listed on soundcheck as of Fri, 11 Sept 2026, next at Motor Oil Cocktail Garage, Barcelona on Sat, 19 Sept 2026.
+Sergi Delgado is a House and Funk / Soul artist with 1 upcoming club date listed on soundcheck as of Sat, 12 Sept 2026, next at Motor Oil Cocktail Garage, Barcelona on Sat, 19 Sept 2026.
 
 Sergi Delgado is a house and funk / soul artist tracked on soundcheck, with 50 sets logged across Barcelona. Often billed alongside Ruzztic, Toni Morales and LH Strikes. Next up: Motor Oil Cocktail Garage, Barcelona on Sat 19 Sept.
 
@@ -25,4 +25,4 @@ Sergi Delgado is a house and funk / soul artist tracked on soundcheck, with 50 s
 
 Ruzztic, Toni Morales, LH Strikes
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sergidelgado/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sergidelgado/)*

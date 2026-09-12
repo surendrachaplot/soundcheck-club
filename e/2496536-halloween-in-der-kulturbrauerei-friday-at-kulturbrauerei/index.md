@@ -1,6 +1,6 @@
 # Halloween in der Kulturbrauerei Friday at Kulturbrauerei
 
-Halloween in der Kulturbrauerei Friday on Fri 30 Oct, Berlin. Preview the line-up and save it on soundcheck.
+Halloween in der Kulturbrauerei Friday on Fri 30 Oct, Berlin. Techno and Electro. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

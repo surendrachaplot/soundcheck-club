@@ -1,6 +1,6 @@
 # suavez
 
-suavez is a Electronica and Garage artist with 1 upcoming club date listed on soundcheck as of Fri, 11 Sept 2026, next at Hava Nightclub, Boston on Fri, 18 Sept 2026.
+suavez is a Electronica and Garage artist with 1 upcoming club date listed on soundcheck as of Sat, 12 Sept 2026, next at Hava Nightclub, Boston on Fri, 18 Sept 2026.
 
 suavez is an electronica and garage artist based in Netherlands, tracked on soundcheck, with 18 sets logged across Boston, Newyorkcity and Paris. Often billed alongside MAMICANA, Anahit Vardanyan and Broodoo Ramses. Next up: Hava Nightclub, Boston on Fri 18 Sept.
 
@@ -25,4 +25,4 @@ suavez is an electronica and garage artist based in Netherlands, tracked on soun
 
 MAMICANA, Anahit Vardanyan, Broodoo Ramses
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/suavez/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/suavez/)*

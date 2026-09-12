@@ -1,6 +1,6 @@
 # Mas Que Nada Brothers
 
-Mas Que Nada Brothers is a House and Disco artist with 4 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at Ministry Of Sound, London on Sat, 19 Sept 2026.
+Mas Que Nada Brothers is a House and Disco artist with 4 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Ministry Of Sound, London on Sat, 19 Sept 2026.
 
 Mas Que Nada Brothers is a house and disco artist based in United Kingdom, tracked on soundcheck, with 105 sets logged across Brighton, Bristol, Ibiza and London and 1 more. Often billed alongside Tommy Tickle, Hywel Gregory and Joe Murphy. Next up: Ministry Of Sound, London on Sat 19 Sept.
 
@@ -28,4 +28,4 @@ Mas Que Nada Brothers is a house and disco artist based in United Kingdom, track
 
 Tommy Tickle, Hywel Gregory, Joe Murphy
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/masquenadabrothers/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/masquenadabrothers/)*

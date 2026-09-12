@@ -1,6 +1,6 @@
 # SHERELLE
 
-SHERELLE is a Jungle and Techno artist with 11 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at Le Molodoi, Strasbourg on Fri, 11 Sept 2026.
+SHERELLE is a Jungle and Techno artist with 11 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Le Molodoi, Strasbourg on Fri, 11 Sept 2026.
 
 SHERELLE is a jungle and techno artist tracked on soundcheck, with 181 sets logged across Aberdeen, Amsterdam, Antwerp and Auckland and 52 more. Often billed alongside I. JORDAN, Special Request and Job Jobse. Next up: Le Molodoi, Strasbourg on Fri 11 Sept.
 
@@ -22,6 +22,7 @@ SHERELLE is a jungle and techno artist tracked on soundcheck, with 181 sets logg
 
 ## Recently played
 
+- Le Molodoi, Strasbourg — Fri, 11 Sept 2026
 - The Carpet Shop, London — Thu, 10 Sept 2026
 - The White Hotel, Manchester — Sat, 5 Sept 2026
 - Burgess Park, London — Sat, 15 Aug 2026
@@ -29,10 +30,9 @@ SHERELLE is a jungle and techno artist tracked on soundcheck, with 181 sets logg
 - Burgess Park, London — Sat, 8 Aug 2026
 - Amsterdamse Bos, Amsterdam — Fri, 31 Jul 2026
 - Garage Noord, Amsterdam — Fri, 31 Jul 2026
-- Amsterdamse Bos, Amsterdam — Wed, 29 Jul 2026
 
 ## Shares bills with
 
 I. JORDAN, Special Request, Job Jobse
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sherelle/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sherelle/)*

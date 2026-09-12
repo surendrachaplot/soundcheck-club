@@ -1,6 +1,6 @@
 # Jasonmagkatzen
 
-Jasonmagkatzen is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Fri, 11 Sept 2026, next at Lokschuppen Berlin, Berlin on Sun, 4 Oct 2026.
+Jasonmagkatzen is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Sat, 12 Sept 2026, next at Lokschuppen Berlin, Berlin on Sun, 4 Oct 2026.
 
 Jasonmagkatzen is a techno and trance artist tracked on soundcheck, with 7 sets logged across Berlin. Often billed alongside futurristic, Skye Simpson and djst4rlight. Next up: Lokschuppen Berlin, Berlin on Sun 4 Oct.
 
@@ -23,4 +23,4 @@ Jasonmagkatzen is a techno and trance artist tracked on soundcheck, with 7 sets 
 
 futurristic, Skye Simpson, djst4rlight
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jasonmagkatzen/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jasonmagkatzen/)*

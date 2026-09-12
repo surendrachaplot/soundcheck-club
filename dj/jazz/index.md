@@ -1,6 +1,6 @@
 # Softi
 
-Softi is a Techno and Bass artist with 3 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at YuYu Cine Club, Mexico City on Fri, 25 Sept 2026.
+Softi is a Techno and Bass artist with 3 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at YuYu Cine Club, Mexico City on Fri, 25 Sept 2026.
 
 Softi is a techno and bass artist tracked on soundcheck, with 85 sets logged across Amsterdam, Barcelona, Berlin and Bristol and 18 more. Often billed alongside Alicia (UK), Dj wiggles and Sybil. Next up: YuYu Cine Club, Mexicocity on Fri 25 Sept.
 
@@ -27,4 +27,4 @@ Softi is a techno and bass artist tracked on soundcheck, with 85 sets logged acr
 
 Alicia (UK), Dj wiggles, Sybil
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jazz/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jazz/)*

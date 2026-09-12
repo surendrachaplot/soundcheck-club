@@ -1,6 +1,6 @@
 # MARTISTA
 
-MARTISTA is a Afro House and House artist with 1 upcoming club date listed on soundcheck as of Fri, 11 Sept 2026, next at La Terrrazza, Barcelona on Sat, 26 Sept 2026.
+MARTISTA is a Afro House and House artist with 1 upcoming club date listed on soundcheck as of Sat, 12 Sept 2026, next at La Terrrazza, Barcelona on Sat, 26 Sept 2026.
 
 MARTISTA is an afro house and house artist tracked on soundcheck, with 73 sets logged across Barcelona. Often billed alongside Marcel BS, Edu Natored (2) and Cucut. Next up: La Terrrazza, Barcelona on Sat 26 Sept.
 
@@ -25,4 +25,4 @@ MARTISTA is an afro house and house artist tracked on soundcheck, with 73 sets l
 
 Marcel BS, Edu Natored (2), Cucut
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/martista/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/martista/)*

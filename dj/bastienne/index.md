@@ -1,6 +1,6 @@
 # Bastienne
 
-Bastienne is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at Openluchttheater Amersfoort, Amsterdam on Fri, 18 Sept 2026.
+Bastienne is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Openluchttheater Amersfoort, Amsterdam on Fri, 18 Sept 2026.
 
 Bastienne is a techno and house artist tracked on soundcheck, with 94 sets logged across Amsterdam, Berlin, Ghent and Paris and 3 more. Often billed alongside Mahabe, Vuur and Tjade. Next up: Openluchttheater Amersfoort, Amsterdam on Fri 18 Sept.
 
@@ -27,4 +27,4 @@ Bastienne is a techno and house artist tracked on soundcheck, with 94 sets logge
 
 Mahabe, Vuur, Tjade
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bastienne/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bastienne/)*

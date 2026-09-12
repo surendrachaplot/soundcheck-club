@@ -1,6 +1,6 @@
 # Diskohengst
 
-Diskohengst is a Disco and House artist with 1 upcoming club date listed on soundcheck as of Fri, 11 Sept 2026, next at Humboldthain Club, Berlin on Fri, 30 Oct 2026.
+Diskohengst is a Disco and House artist with 1 upcoming club date listed on soundcheck as of Sat, 12 Sept 2026, next at Humboldthain Club, Berlin on Fri, 30 Oct 2026.
 
 Diskohengst is a disco and house artist based in Germany, tracked on soundcheck, with 47 sets logged across Berlin, Cologne, Hamburg and Munich and 1 more. Often billed alongside Tom Kutsche, Valentino 45 and Femdelic. Next up: Humboldthain Club, Berlin on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ Diskohengst is a disco and house artist based in Germany, tracked on soundcheck,
 
 Tom Kutsche, Valentino 45, Femdelic
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/diskohengst/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/diskohengst/)*

@@ -1,6 +1,6 @@
 # Jipan
 
-Jipan is a Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 11 Sept 2026, next at Patision65, Athens on Fri, 11 Sept 2026.
+Jipan is a Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 12 Sept 2026, next at Patision65, Athens on Fri, 11 Sept 2026.
 
 Jipan is a techno artist tracked on soundcheck, with 51 sets logged across Athens. Often billed alongside Maaantz, IMPVLSIV and Mr.M. Next up: Patision65, Athens on Fri 11 Sept.
 
@@ -12,6 +12,7 @@ Jipan is a techno artist tracked on soundcheck, with 51 sets logged across Athen
 
 ## Recently played
 
+- Patision65, Athens — Fri, 11 Sept 2026
 - B side Athens, Athens — Wed, 8 Apr 2026
 - B side Athens, Athens — Thu, 5 Mar 2026
 - Astron Club, Athens — Thu, 19 Feb 2026
@@ -19,10 +20,9 @@ Jipan is a techno artist tracked on soundcheck, with 51 sets logged across Athen
 - B side Athens, Athens — Wed, 31 Dec 2025
 - B side Athens, Athens — Sun, 7 Dec 2025
 - B side Athens, Athens — Wed, 26 Nov 2025
-- Astron Club, Athens — Thu, 30 Oct 2025
 
 ## Shares bills with
 
 Maaantz, IMPVLSIV, Mr.M
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jipan/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jipan/)*

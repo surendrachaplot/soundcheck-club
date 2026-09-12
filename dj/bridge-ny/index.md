@@ -1,6 +1,6 @@
 # Bridge (NY)
 
-Bridge (NY) is a House and Disco artist with 9 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at Nowadays, New York City on Sat, 19 Sept 2026.
+Bridge (NY) is a House and Disco artist with 9 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Nowadays, New York City on Sat, 19 Sept 2026.
 
 Bridge (NY) is a house and disco artist based in United States of America, tracked on soundcheck, with 52 sets logged across Amsterdam, Boston, Dublin and Lisbon and 8 more. Often billed alongside CRVM, Wolf Spritzer and DJ Shannon. Next up: Nowadays, Newyorkcity on Sat 19 Sept.
 
@@ -33,4 +33,4 @@ Bridge (NY) is a house and disco artist based in United States of America, track
 
 CRVM, Wolf Spritzer, DJ Shannon
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bridge-ny/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bridge-ny/)*

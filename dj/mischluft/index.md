@@ -1,6 +1,6 @@
 # Mischluft
 
-Mischluft is a Techno and Trance artist with 8 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at Echostage, Washington DC on Fri, 11 Sept 2026.
+Mischluft is a Techno and Trance artist with 8 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Echostage, Washington DC on Fri, 11 Sept 2026.
 
 Mischluft is a techno and trance artist tracked on soundcheck, with 190 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 50 more. Often billed alongside Bad Boombox, Janis Zielinski and Ollie Lishman. Next up: Echostage, Washingtondc on Fri 11 Sept.
 
@@ -19,6 +19,7 @@ Mischluft is a techno and trance artist tracked on soundcheck, with 190 sets log
 
 ## Recently played
 
+- Echostage, Washington DC — Fri, 11 Sept 2026
 - Factory Town, Miami — Sun, 6 Sept 2026
 - Industry City, New York City — Sat, 5 Sept 2026
 - Union Park, Chicago — Fri, 4 Sept 2026
@@ -26,10 +27,9 @@ Mischluft is a techno and trance artist tracked on soundcheck, with 190 sets log
 - Ahoy Rotterdam, Rotterdam — Sat, 29 Aug 2026
 - Hangaren, Copenhagen — Thu, 27 Aug 2026
 - Parc des Etangs/Vijverspark, Brussels — Fri, 14 Aug 2026
-- Gianpula Village, Malta — Wed, 12 Aug 2026
 
 ## Shares bills with
 
 Bad Boombox, Janis Zielinski, Ollie Lishman
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mischluft/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mischluft/)*

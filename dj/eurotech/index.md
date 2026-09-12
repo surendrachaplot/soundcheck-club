@@ -1,6 +1,6 @@
 # Eurotech
 
-Eurotech is a House and Club artist with 1 upcoming club date listed on soundcheck as of Fri, 11 Sept 2026, next at Skatecafe, Amsterdam on Sat, 26 Sept 2026.
+Eurotech is a House and Club artist with 1 upcoming club date listed on soundcheck as of Sat, 12 Sept 2026, next at Skatecafe, Amsterdam on Sat, 26 Sept 2026.
 
 Eurotech is a house and club artist tracked on soundcheck, with 8 sets logged across Amsterdam and Rotterdam. Often billed alongside Megan Jane, BLUMITSU and Bibtiana. Next up: Skatecafe, Amsterdam on Sat 26 Sept.
 
@@ -24,4 +24,4 @@ Eurotech is a house and club artist tracked on soundcheck, with 8 sets logged ac
 
 Megan Jane, BLUMITSU, Bibtiana
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/eurotech/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/eurotech/)*

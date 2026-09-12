@@ -1,6 +1,6 @@
 # Pacha Ibiza
 
-Pacha Ibiza is a music venue in Ibiza with 27 upcoming nights listed on soundcheck as of Fri, 11 Sept 2026; the next is "Marco Carola PRESENTS MUSIC ON" on Fri, 11 Sept 2026.
+Pacha Ibiza is a music venue in Ibiza with 27 upcoming nights listed on soundcheck as of Sat, 12 Sept 2026; the next is "Marco Carola PRESENTS MUSIC ON" on Fri, 11 Sept 2026.
 
 Pacha Ibiza is a music venue in Ibiza listed on soundcheck. 27 upcoming nights, with line-ups including Mahony, Adriatique, AJ Christou and Alle Farben and 2 more. Browse upcoming dates, start times and who's playing. Avenida 8 De Agosto, Ibiza Town, 07800 Ibiza, Islas Baleares, Spain.
 
@@ -23,4 +23,4 @@ Pacha Ibiza is a music venue in Ibiza listed on soundcheck. 27 upcoming nights, 
 
 Avenida 8 De Agosto, Ibiza Town, 07800 Ibiza, Islas Baleares, Spain, Ibiza
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/ibiza/club/pacha-ibiza/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/ibiza/club/pacha-ibiza/)*

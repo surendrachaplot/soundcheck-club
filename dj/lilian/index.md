@@ -1,6 +1,6 @@
 # Lilian
 
-Lilian is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at Café Schöne Aussichten (CSA), Hamburg on Sat, 19 Sept 2026.
+Lilian is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Café Schöne Aussichten (CSA), Hamburg on Sat, 19 Sept 2026.
 
 Lilian is a house and techno artist tracked on soundcheck, with 79 sets logged across Barcelona, Berlin, Bristol and Hamburg and 4 more. Often billed alongside Boogs, Matteo Freyrie and Spacey Space. Next up: Café Schöne Aussichten (CSA), Hamburg on Sat 19 Sept.
 
@@ -26,4 +26,4 @@ Lilian is a house and techno artist tracked on soundcheck, with 79 sets logged a
 
 Boogs, Matteo Freyrie, Spacey Space
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lilian/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lilian/)*

@@ -1,6 +1,6 @@
 # J. Copes
 
-J. Copes is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Fri, 11 Sept 2026, next at Podlasie Club, Chicago on Sun, 13 Sept 2026.
+J. Copes is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Sat, 12 Sept 2026, next at Podlasie Club, Chicago on Sun, 13 Sept 2026.
 
 J. Copes is a house and deep house artist based in United States of America, tracked on soundcheck, with 27 sets logged across Chicago and Detroit. Often billed alongside DJ Hyperactive, Derrick Carter and Andrew Emil. Next up: Podlasie Club, Chicago on Sun 13 Sept.
 
@@ -25,4 +25,4 @@ J. Copes is a house and deep house artist based in United States of America, tra
 
 DJ Hyperactive, Derrick Carter, Andrew Emil
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jcopes/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jcopes/)*

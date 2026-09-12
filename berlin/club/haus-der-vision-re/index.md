@@ -1,6 +1,6 @@
 # Haus der Visionäre
 
-Haus der Visionäre is a music venue in Berlin with 5 upcoming nights listed on soundcheck as of Fri, 11 Sept 2026; the next is "Soft Power Festival" on Fri, 11 Sept 2026.
+Haus der Visionäre is a music venue in Berlin with 5 upcoming nights listed on soundcheck as of Sat, 12 Sept 2026; the next is "Soft Power Festival" on Fri, 11 Sept 2026.
 
 Haus der Visionäre is a music venue in Berlin listed on soundcheck. 5 upcoming nights, with line-ups including Alejandro Mosso, Alexia (2), Al Wootton and Amir Alexander and 2 more. Browse upcoming dates, start times and who's playing. Eichenstr. 4a, 12435 Berlin.
 
@@ -18,4 +18,4 @@ Haus der Visionäre is a music venue in Berlin listed on soundcheck. 5 upcoming 
 
 Eichenstr. 4a, 12435 Berlin, Berlin
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/haus-der-vision-re/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/haus-der-vision-re/)*

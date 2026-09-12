@@ -1,8 +1,8 @@
 # Ika (GE)
 
-Ika (GE) is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at Mtkvarze, Tbilisi on Fri, 11 Sept 2026.
+Ika (GE) is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Mtkvarze, Tbilisi on Fri, 11 Sept 2026.
 
-Ika (GE) is a house and techno artist based in Georgia, tracked on soundcheck, with 120 sets logged across Amsterdam, Bangkok, Barcelona and Berlin and 18 more. Often billed alongside Usherenko, Gio Shengelia and Generali Minerali. Next up: Mtkvarze, Tbilisi on Fri 11 Sept.
+Ika (GE) is a house and techno artist based in Georgia, tracked on soundcheck, with 121 sets logged across Amsterdam, Bangkok, Barcelona and Berlin and 18 more. Often billed alongside Usherenko, Gio Shengelia and Generali Minerali. Next up: Mtkvarze, Tbilisi on Fri 11 Sept.
 
 ## Upcoming shows
 
@@ -11,9 +11,11 @@ Ika (GE) is a house and techno artist based in Georgia, tracked on soundcheck, w
 | Fri, 11 Sept 2026 | Mtkvarze | Tbilisi |
 | Sat, 17 Oct 2026 | Pas Berlin | Berlin |
 | Sat, 31 Oct 2026 | TBA - Arts District LA | Los Angeles |
+| Sun, 1 Nov 2026 | TBA - DTLA | Los Angeles |
 
 ## Recently played
 
+- Mtkvarze, Tbilisi — Fri, 11 Sept 2026
 - Bassiani, Tbilisi — Fri, 4 Sept 2026
 - TBA, Tbilisi — Fri, 21 Aug 2026
 - Mtkvarze, Tbilisi — Fri, 17 Jul 2026
@@ -21,10 +23,9 @@ Ika (GE) is a house and techno artist based in Georgia, tracked on soundcheck, w
 - Riser, Tbilisi — Sat, 13 Jun 2026
 - Pluto's Records, Tbilisi — Sun, 7 Jun 2026
 - Left Bank, Tbilisi — Fri, 5 Jun 2026
-- Mtkvarze, Tbilisi — Fri, 22 May 2026
 
 ## Shares bills with
 
 Usherenko, Gio Shengelia, Generali Minerali
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ika/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ika/)*

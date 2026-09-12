@@ -1,13 +1,14 @@
 # Finsent C
 
-Finsent C is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 11 Sept 2026, next at Tai Tong Organic Ecopark, Hong Kong on Sat, 14 Nov 2026.
+Finsent C is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at OIL Club, Shenzhen on Fri, 25 Sept 2026.
 
-Finsent C is a techno and house artist tracked on soundcheck, with 36 sets logged across Hongkong, Shenzhen and Tokyo. Often billed alongside Dan-neo, Konnection and Taku Hirayama. Next up: Tai Tong Organic Ecopark, Hongkong on Sat 14 Nov.
+Finsent C is a techno and house artist tracked on soundcheck, with 37 sets logged across Hongkong, Shenzhen and Tokyo. Often billed alongside Dan-neo, Konnection and Taku Hirayama. Next up: OIL Club, Shenzhen on Fri 25 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 25 Sept 2026 | OIL Club | Shenzhen |
 | Sat, 14 Nov 2026 | Tai Tong Organic Ecopark | Hong Kong |
 
 ## Recently played
@@ -25,4 +26,4 @@ Finsent C is a techno and house artist tracked on soundcheck, with 36 sets logge
 
 Dan-neo, Konnection, Taku Hirayama
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/finsentc/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/finsentc/)*

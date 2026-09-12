@@ -1,6 +1,6 @@
 # RUBBLE // the beginning at People's Leisure Club
 
-RUBBLE // the beginning at People's Leisure Club on Tue 15 Sept, Edinburgh. 2 acts on the bill: ACHIRĀ and miira. Experimental. Preview the line-up and save it on soundcheck.
+RUBBLE // the beginning at People's Leisure Club on Tue 15 Sept, Edinburgh. 2 acts on the bill: ACHIRĀ and miira. Bass and Experimental. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

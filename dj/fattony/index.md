@@ -1,6 +1,6 @@
 # Fattony
 
-Fattony is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at Depot Mayfield, Manchester on Sat, 26 Sept 2026.
+Fattony is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Depot Mayfield, Manchester on Sat, 26 Sept 2026.
 
 Fattony is a house and tech house artist based in Germany, tracked on soundcheck, with 33 sets logged across Brighton, Glasgow, Ibiza and London and 5 more. Often billed alongside Horse Meat Disco, Melvo Baptiste and Natasha Diggs. Next up: Depot Mayfield, Manchester on Sat 26 Sept.
 
@@ -26,4 +26,4 @@ Fattony is a house and tech house artist based in Germany, tracked on soundcheck
 
 Horse Meat Disco, Melvo Baptiste, Natasha Diggs
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/fattony/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/fattony/)*

@@ -1,6 +1,6 @@
 # Tunnel
 
-Tunnel is a music venue in Milan with 5 upcoming nights listed on soundcheck as of Fri, 11 Sept 2026; the next is "UNDERPASS THE OPENING - Archie Hamilton" on Fri, 11 Sept 2026.
+Tunnel is a music venue in Milan with 5 upcoming nights listed on soundcheck as of Sat, 12 Sept 2026; the next is "UNDERPASS THE OPENING - Archie Hamilton" on Fri, 11 Sept 2026.
 
 Tunnel is a music venue in Milan listed on soundcheck. 5 upcoming nights, with line-ups including Andrew Rayel, Archie Hamilton, CLELIA and DAHRAXT and 2 more. Browse upcoming dates, start times and who's playing. Via Giovanni Battista Sammartini 30, 20125 Milano (MI), Italy.
 
@@ -18,4 +18,4 @@ Tunnel is a music venue in Milan listed on soundcheck. 5 upcoming nights, with l
 
 Via Giovanni Battista Sammartini 30, 20125 Milano (MI), Italy, Milan
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/milan/club/tunnel/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/milan/club/tunnel/)*

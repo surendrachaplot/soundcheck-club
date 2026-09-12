@@ -1,6 +1,6 @@
 # Eden
 
-Eden is a music venue in Ibiza with 12 upcoming nights listed on soundcheck as of Fri, 11 Sept 2026; the next is "SECRET SESSIONS 5" on Fri, 11 Sept 2026.
+Eden is a music venue in Ibiza with 12 upcoming nights listed on soundcheck as of Sat, 12 Sept 2026; the next is "SECRET SESSIONS 5" on Fri, 11 Sept 2026.
 
 Eden is a music venue in Ibiza listed on soundcheck. 12 upcoming nights, with line-ups including Fantasm, Gianni Di Bernardo, KARAH and Markus Schulz and 2 more. Browse upcoming dates, start times and who's playing. Carrer Salvador Espriu,  07820 San Antonio, Ibiza, Spain.
 
@@ -23,4 +23,4 @@ Eden is a music venue in Ibiza listed on soundcheck. 12 upcoming nights, with li
 
 Carrer Salvador Espriu,  07820 San Antonio, Ibiza, Spain, Ibiza
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/ibiza/club/eden/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/ibiza/club/eden/)*

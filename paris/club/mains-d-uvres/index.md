@@ -1,8 +1,8 @@
 # Mains D'œuvres
 
-Mains D'œuvres is a music venue in Paris with 8 upcoming nights listed on soundcheck as of Fri, 11 Sept 2026; the next is "Paris Electronic Week - Pass convention" on Fri, 2 Oct 2026.
+Mains D'œuvres is a music venue in Paris with 10 upcoming nights listed on soundcheck as of Sat, 12 Sept 2026; the next is "Paris Electronic Week - Pass convention" on Fri, 2 Oct 2026.
 
-Mains D'œuvres is a music venue in Paris listed on soundcheck. 8 upcoming nights, with line-ups including Drawbridge, Goldie B, Harey izé and HORS-SOL and 2 more. Browse upcoming dates, start times and who's playing. 1 Rue Charles Garnier, 93400 Saint-Ouen, France.
+Mains D'œuvres is a music venue in Paris listed on soundcheck. 10 upcoming nights, with line-ups including Drawbridge, Goldie B, Harey izé and HORS-SOL and 2 more. Browse upcoming dates, start times and who's playing. 1 Rue Charles Garnier, 93400 Saint-Ouen, France.
 
 ## What's on
 
@@ -13,6 +13,8 @@ Mains D'œuvres is a music venue in Paris listed on soundcheck. 8 upcoming night
 | Sat, 3 Oct 2026 | Paris Electronic Week - Pass samedi |  |
 | Sat, 3 Oct 2026 | PEW26 - Initiation à la production avec Goldie B | Goldie B |
 | Sat, 3 Oct 2026 | PEW26 - Initiation au mix et au mastering avec Jonquera | Jonquera |
+| Sat, 3 Oct 2026 | Paris Electronic Week x Mains D'œuvres | Jan Loup, Sara Persico |
+| Sat, 3 Oct 2026 | PEW26 - Initiation au VJing avec Dylan Cote |  |
 | Sun, 4 Oct 2026 | Paris Electronic Week - Pass dimanche |  |
 | Sun, 4 Oct 2026 | PEW26 - Initiation à la production avec Drawbridge | Drawbridge |
 | Sun, 4 Oct 2026 | PEW26 - Initiation à la lumière de concert avec Laurie Laprade |  |
@@ -21,4 +23,4 @@ Mains D'œuvres is a music venue in Paris listed on soundcheck. 8 upcoming night
 
 1 Rue Charles Garnier, 93400 Saint-Ouen, France, Paris
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/paris/club/mains-d-uvres/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/paris/club/mains-d-uvres/)*

@@ -1,6 +1,6 @@
 # MindGazm
 
-MindGazm is a Deep House and Progressive House artist with 1 upcoming club date listed on soundcheck as of Fri, 11 Sept 2026, next at ZeyZey, Miami on Sat, 19 Sept 2026.
+MindGazm is a Deep House and Progressive House artist with 1 upcoming club date listed on soundcheck as of Sat, 12 Sept 2026, next at ZeyZey, Miami on Sat, 19 Sept 2026.
 
 MindGazm is a deep house and progressive house artist tracked on soundcheck, with 32 sets logged across Miami and Newyorkcity. Often billed alongside Max White, Alexander Technique and Brandon Morales. Next up: ZeyZey, Miami on Sat 19 Sept.
 
@@ -25,4 +25,4 @@ MindGazm is a deep house and progressive house artist tracked on soundcheck, wit
 
 Max White, Alexander Technique, Brandon Morales
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mindgazm/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mindgazm/)*

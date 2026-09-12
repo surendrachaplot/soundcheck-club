@@ -1,6 +1,6 @@
 # 35DH-1
 
-35DH-1 is a Amapiano and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at Aoyama Hachi, Tokyo on Fri, 18 Sept 2026.
+35DH-1 is a Amapiano and Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Aoyama Hachi, Tokyo on Fri, 18 Sept 2026.
 
 35DH-1 is an amapiano and techno artist based in Japan, tracked on soundcheck, with 164 sets logged across Tokyo. Often billed alongside Echigo, Arao and SN_Yeah. Next up: Aoyama Hachi, Tokyo on Fri 18 Sept.
 
@@ -26,4 +26,4 @@
 
 Echigo, Arao, SN_Yeah
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/35dh-1/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/35dh-1/)*

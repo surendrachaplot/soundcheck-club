@@ -1,6 +1,6 @@
 # FITS ME FUNNY
 
-FITS ME FUNNY is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at The BBE Store, London on Fri, 18 Sept 2026.
+FITS ME FUNNY is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at The BBE Store, London on Fri, 18 Sept 2026.
 
 FITS ME FUNNY is a house and techno artist tracked on soundcheck, with 55 sets logged across Brighton, London and Manchester. Often billed alongside ANLON, DJ VALENTINE and Emile. Next up: The BBE Store, London on Fri 18 Sept.
 
@@ -11,7 +11,7 @@ FITS ME FUNNY is a house and techno artist tracked on soundcheck, with 55 sets l
 | Fri, 18 Sept 2026 | The BBE Store | London |
 | Sun, 20 Sept 2026 | fabric | London |
 | Fri, 16 Oct 2026 | The DBA | Manchester |
-| Sat, 24 Oct 2026 | TBA | London |
+| Sat, 24 Oct 2026 | NUMBER 90 LONDON | London |
 
 ## Recently played
 
@@ -28,4 +28,4 @@ FITS ME FUNNY is a house and techno artist tracked on soundcheck, with 55 sets l
 
 ANLON, DJ VALENTINE, Emile
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/fitsmefunny/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/fitsmefunny/)*

@@ -1,14 +1,15 @@
 # Malcolm XL
 
-Malcolm XL is a Techno and Club artist with 1 upcoming club date listed on soundcheck as of Fri, 11 Sept 2026, next at Paragon, New York City on Fri, 18 Sept 2026.
+Malcolm XL is a Techno and Club artist with 2 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Paragon, New York City on Fri, 18 Sept 2026.
 
-Malcolm XL is a techno and club artist based in United States of America, tracked on soundcheck, with 11 sets logged across Newyorkcity. Often billed alongside Robyn DaBank, Gagbert and DJ Freedem. Next up: Paragon, Newyorkcity on Fri 18 Sept.
+Malcolm XL is a techno and club artist based in United States of America, tracked on soundcheck, with 12 sets logged across Newyorkcity and Philadelphia. Often billed alongside Robyn DaBank, Gagbert and DJ Freedem. Next up: Paragon, Newyorkcity on Fri 18 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 18 Sept 2026 | Paragon | New York City |
+| Sat, 3 Oct 2026 | TBA | Philadelphia |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Malcolm XL is a techno and club artist based in United States of America, tracke
 
 Robyn DaBank, Gagbert, DJ Freedem
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/malcolmxl/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/malcolmxl/)*

@@ -1,6 +1,6 @@
 # Katz 25
 
-Katz 25 is a Techno and Tech House artist with 2 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at Aoyama Hachi, Tokyo on Fri, 18 Sept 2026.
+Katz 25 is a Techno and Tech House artist with 2 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Aoyama Hachi, Tokyo on Fri, 18 Sept 2026.
 
 Katz 25 is a techno and tech house artist tracked on soundcheck, with 18 sets logged across Tokyo. Often billed alongside ODD, Daisuke Pak and YU-MA. Next up: Aoyama Hachi, Tokyo on Fri 18 Sept.
 
@@ -26,4 +26,4 @@ Katz 25 is a techno and tech house artist tracked on soundcheck, with 18 sets lo
 
 ODD, Daisuke Pak, YU-MA
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/katz25/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/katz25/)*

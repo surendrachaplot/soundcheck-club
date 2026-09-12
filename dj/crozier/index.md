@@ -1,6 +1,6 @@
 # Crozier
 
-Crozier is a House and Deep House artist with 2 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at OneSixOne, Melbourne on Thu, 17 Sept 2026.
+Crozier is a House and Deep House artist with 2 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at OneSixOne, Melbourne on Thu, 17 Sept 2026.
 
 Crozier is a house and deep house artist based in Australia, tracked on soundcheck, with 78 sets logged across Brisbane, Melbourne and Sydney. Often billed alongside Amber Ferraro, Macmillan and Adam Trace. Next up: OneSixOne, Melbourne on Thu 17 Sept.
 
@@ -26,4 +26,4 @@ Crozier is a house and deep house artist based in Australia, tracked on soundche
 
 Amber Ferraro, Macmillan, Adam Trace
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/crozier/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/crozier/)*

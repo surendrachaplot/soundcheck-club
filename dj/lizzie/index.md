@@ -1,6 +1,6 @@
 # LIZZIE
 
-LIZZIE is a Bass and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 11 Sept 2026, next at elipamanoke, Leipzig on Sat, 26 Sept 2026.
+LIZZIE is a Bass and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 12 Sept 2026, next at elipamanoke, Leipzig on Sat, 26 Sept 2026.
 
 LIZZIE is a bass and techno artist tracked on soundcheck, with 21 sets logged across Glasgow, Leeds, Leipzig and London and 1 more. Often billed alongside Lizzie Urquhart, Dilly Joints and Kode9. Next up: elipamanoke, Leipzig on Sat 26 Sept.
 
@@ -25,4 +25,4 @@ LIZZIE is a bass and techno artist tracked on soundcheck, with 21 sets logged ac
 
 Lizzie Urquhart, Dilly Joints, Kode9
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lizzie/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lizzie/)*

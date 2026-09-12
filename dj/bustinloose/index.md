@@ -1,8 +1,8 @@
 # Bustin' Loose
 
-Bustin' Loose is a House and Disco artist with 6 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at Dead Letter No. 9, New York City on Fri, 11 Sept 2026.
+Bustin' Loose is a House and Disco artist with 7 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Dead Letter No. 9, New York City on Fri, 11 Sept 2026.
 
-Bustin' Loose is a house and disco artist tracked on soundcheck, with 153 sets logged across Aberdeen, Amsterdam, Antwerp and Berlin and 15 more. Often billed alongside Tatiana, Magnolia_ and Roland & Brother Rich. Next up: Dead Letter No. 9, Newyorkcity on Fri 11 Sept.
+Bustin' Loose is a house and disco artist tracked on soundcheck, with 154 sets logged across Aberdeen, Amsterdam, Antwerp and Berlin and 15 more. Often billed alongside Tatiana, Magnolia_ and Roland & Brother Rich. Next up: Dead Letter No. 9, Newyorkcity on Fri 11 Sept.
 
 ## Upcoming shows
 
@@ -14,9 +14,11 @@ Bustin' Loose is a house and disco artist tracked on soundcheck, with 153 sets l
 | Fri, 23 Oct 2026 | Art''otel Amsterdam | Amsterdam |
 | Sat, 24 Oct 2026 | Amsterdam Central Station | Amsterdam |
 | Sat, 31 Oct 2026 | DRUMSHEDS | London |
+| Fri, 13 Nov 2026 | Alcazar Live | Rome |
 
 ## Recently played
 
+- Dead Letter No. 9, New York City — Fri, 11 Sept 2026
 - Jean’s, New York City — Thu, 10 Sept 2026
 - Ministry Of Sound, London — Sat, 5 Sept 2026
 - Jean’s, New York City — Thu, 27 Aug 2026
@@ -24,10 +26,9 @@ Bustin' Loose is a house and disco artist tracked on soundcheck, with 153 sets l
 - Ciao Ciao, New York City — Sat, 15 Aug 2026
 - Vera Cocina & بار, Washington DC — Fri, 7 Aug 2026
 - Vera Cocina & بار, Washington DC — Fri, 7 Aug 2026
-- Dead Letter No. 9, New York City — Sat, 1 Aug 2026
 
 ## Shares bills with
 
 Tatiana, Magnolia_, Roland & Brother Rich
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bustinloose/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bustinloose/)*

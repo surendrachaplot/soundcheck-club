@@ -1,6 +1,6 @@
 # The Loft
 
-The Loft is a music venue in Manchester with 22 upcoming nights listed on soundcheck as of Fri, 11 Sept 2026; the next is "The Loft: Dyed Soundorom & Sibil" on Fri, 11 Sept 2026.
+The Loft is a music venue in Manchester with 22 upcoming nights listed on soundcheck as of Sat, 12 Sept 2026; the next is "The Loft: Dyed Soundorom & Sibil" on Fri, 11 Sept 2026.
 
 The Loft is a music venue in Manchester listed on soundcheck. 22 upcoming nights, with line-ups including Fastlove, Alexander Skancke, Alexia Glensy and Angel D'lite and 2 more. Browse upcoming dates, start times and who's playing. Unit 1, New Street, Manchester, M40 8AW.
 
@@ -9,7 +9,7 @@ The Loft is a music venue in Manchester listed on soundcheck. 22 upcoming nights
 | Date | Night | Line-up |
 | --- | --- | --- |
 | Fri, 11 Sept 2026 | The Loft: Dyed Soundorom & Sibil | Dyed Soundorom, Sibil (1) |
-| Sat, 12 Sept 2026 | Ivy Collective: Huerta & Youandewan at The Loft | Dylan Whicher, Emile, Huerta, Mase (2), Ruby Ruby, Youandewan |
+| Sat, 12 Sept 2026 | Huerta & Youandewan at The Loft | Dylan Whicher, Emile, Huerta, Mase (2), Ruby Ruby, Youandewan |
 | Thu, 17 Sept 2026 | The Loft: Us Two (All Night Long) | Us Two |
 | Fri, 18 Sept 2026 | The Loft: Joss Dean (All Night Long) | Joss Dean |
 | Sat, 19 Sept 2026 | The Loft: Voigtmann & Samuel Deep (All Night Long) | Samuel Deep, Voigtmann |
@@ -23,4 +23,4 @@ The Loft is a music venue in Manchester listed on soundcheck. 22 upcoming nights
 
 Unit 1, New Street, Manchester, M40 8AW, Manchester
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/the-loft/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/the-loft/)*

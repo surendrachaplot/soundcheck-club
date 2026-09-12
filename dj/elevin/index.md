@@ -1,6 +1,6 @@
 # ELEVIN
 
-ELEVIN is a Techno and Progressive House artist with 1 upcoming club date listed on soundcheck as of Fri, 11 Sept 2026, next at Praia de Bafureira, Lisbon on Sat, 3 Oct 2026.
+ELEVIN is a Techno and Progressive House artist with 1 upcoming club date listed on soundcheck as of Sat, 12 Sept 2026, next at Praia de Bafureira, Lisbon on Sat, 3 Oct 2026.
 
 ELEVIN is a techno and progressive house artist based in United States of America, tracked on soundcheck, with 15 sets logged across Buenosaires, Lisbon, Mexicocity and Saopaulo. Often billed alongside DJ Disconnected, kazarov and Alberto Pizzarelli. Next up: Praia de Bafureira, Lisbon on Sat 3 Oct.
 
@@ -25,4 +25,4 @@ ELEVIN is a techno and progressive house artist based in United States of Americ
 
 DJ Disconnected, kazarov, Alberto Pizzarelli
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/elevin/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/elevin/)*

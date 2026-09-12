@@ -1,6 +1,6 @@
 # SCRAAATCH
 
-SCRAAATCH is a Experimental and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 11 Sept 2026, next at St. Bartholomew's Church, New York City on Sat, 26 Sept 2026.
+SCRAAATCH is a Experimental and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 12 Sept 2026, next at St. Bartholomew's Church, New York City on Sat, 26 Sept 2026.
 
 SCRAAATCH is an experimental and techno artist based in United States of America, tracked on soundcheck, with 20 sets logged across Newyorkcity and Philadelphia. Often billed alongside chuki, MHYSA and 1morning. Next up: St. Bartholomew's Church, Newyorkcity on Sat 26 Sept.
 
@@ -25,4 +25,4 @@ SCRAAATCH is an experimental and techno artist based in United States of America
 
 chuki, MHYSA, 1morning
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/scraaatch/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/scraaatch/)*

@@ -1,6 +1,6 @@
 # Mena Berlin
 
-Mena Berlin is a music venue in Berlin with 1 upcoming night listed on soundcheck as of Fri, 11 Sept 2026; the next is "UNFOLLOW Launch Party with Keanu Raves & WebZero" on Sat, 19 Sept 2026.
+Mena Berlin is a music venue in Berlin with 1 upcoming night listed on soundcheck as of Sat, 12 Sept 2026; the next is "UNFOLLOW Launch Party with Keanu Raves & WebZero" on Sat, 19 Sept 2026.
 
 Mena Berlin is a music venue in Berlin listed on soundcheck. 1 upcoming night, with line-ups including general whatever and Keanu Raves. Browse upcoming dates, start times and who's playing. Skalitzer Straße 114 (Backyard), 10999 Berlin, Germany.
 
@@ -14,4 +14,4 @@ Mena Berlin is a music venue in Berlin listed on soundcheck. 1 upcoming night, w
 
 Skalitzer Straße 114 (Backyard), 10999 Berlin, Germany, Berlin
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/mena-berlin/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/mena-berlin/)*

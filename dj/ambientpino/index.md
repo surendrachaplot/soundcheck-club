@@ -1,6 +1,6 @@
 # Ambient Pino
 
-Ambient Pino is a Psytrance and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at Alte Kaserne, Zurich on Fri, 11 Sept 2026.
+Ambient Pino is a Psytrance and Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Alte Kaserne, Zurich on Fri, 11 Sept 2026.
 
 Ambient Pino is a psytrance and techno artist based in Switzerland, tracked on soundcheck, with 33 sets logged across Zurich. Often billed alongside Beat Herren, Liquid Soul and Alay. Next up: Alte Kaserne, Zurich on Fri 11 Sept.
 
@@ -13,6 +13,7 @@ Ambient Pino is a psytrance and techno artist based in Switzerland, tracked on s
 
 ## Recently played
 
+- Alte Kaserne, Zurich — Fri, 11 Sept 2026
 - Alte Kaserne, Zurich — Sat, 29 Aug 2026
 - Kunstraum Walcheturm, Zurich — Sat, 8 Aug 2026
 - Alte Kaserne, Zurich — Sat, 30 May 2026
@@ -20,10 +21,9 @@ Ambient Pino is a psytrance and techno artist based in Switzerland, tracked on s
 - Alte Kaserne, Zurich — Sat, 1 Nov 2025
 - Alte Kaserne, Zurich — Fri, 31 Oct 2025
 - Alte Kaserne, Zurich — Sat, 20 Sept 2025
-- Alte Kaserne, Zurich — Fri, 8 Aug 2025
 
 ## Shares bills with
 
 Beat Herren, Liquid Soul, Alay
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ambientpino/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ambientpino/)*

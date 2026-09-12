@@ -1,6 +1,6 @@
 # MARINA
 
-MARINA is a House and Experimental artist with 1 upcoming club date listed on soundcheck as of Fri, 11 Sept 2026, next at UTOPIA / DYSTOPIA, Tokyo on Sun, 20 Sept 2026.
+MARINA is a House and Experimental artist with 1 upcoming club date listed on soundcheck as of Sat, 12 Sept 2026, next at UTOPIA / DYSTOPIA, Tokyo on Sun, 20 Sept 2026.
 
 MARINA is a house and experimental artist based in Italy, tracked on soundcheck, with 9 sets logged across Milan, Rome, Tokyo and Turin. Often billed alongside Da Yama, Marina Trench and Aleksandra Słyż. Next up: UTOPIA / DYSTOPIA, Tokyo on Sun 20 Sept.
 
@@ -25,4 +25,4 @@ MARINA is a house and experimental artist based in Italy, tracked on soundcheck,
 
 Da Yama, Marina Trench, Aleksandra Słyż
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/marina/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/marina/)*

@@ -1,6 +1,6 @@
 # Ora Et Labora
 
-Ora Et Labora is a Post-Punk and New Wave artist with 1 upcoming club date listed on soundcheck as of Fri, 11 Sept 2026, next at FLUCC, Vienna on Fri, 25 Sept 2026.
+Ora Et Labora is a Post-Punk and New Wave artist with 1 upcoming club date listed on soundcheck as of Sat, 12 Sept 2026, next at FLUCC, Vienna on Fri, 25 Sept 2026.
 
 Ora Et Labora is a post-punk and new wave artist tracked on soundcheck, with 6 sets logged across Vienna. Often billed alongside DJ Ebhardy, AXT and Aïsha Devi. Next up: FLUCC, Vienna on Fri 25 Sept.
 
@@ -22,4 +22,4 @@ Ora Et Labora is a post-punk and new wave artist tracked on soundcheck, with 6 s
 
 DJ Ebhardy, AXT, Aïsha Devi
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/oraetlabora/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/oraetlabora/)*

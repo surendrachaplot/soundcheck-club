@@ -1,6 +1,6 @@
 # rRoxymore
 
-rRoxymore is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at Ministerium Club, Lisbon on Fri, 18 Sept 2026.
+rRoxymore is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Ministerium Club, Lisbon on Fri, 18 Sept 2026.
 
 rRoxymore is a techno and house artist tracked on soundcheck, with 90 sets logged across Amsterdam, Athens, Barcelona and Berlin and 29 more. Often billed alongside DJ Plead, CCL and Josey Rebelle. Next up: Ministerium Club, Lisbon on Fri 18 Sept.
 
@@ -27,4 +27,4 @@ rRoxymore is a techno and house artist tracked on soundcheck, with 90 sets logge
 
 DJ Plead, CCL, Josey Rebelle
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/roxymore/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/roxymore/)*

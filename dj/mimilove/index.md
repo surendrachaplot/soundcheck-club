@@ -1,6 +1,6 @@
 # Mimi Love
 
-Mimi Love is a House and Deep House artist with 5 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at Kater, Berlin on Fri, 11 Sept 2026.
+Mimi Love is a House and Deep House artist with 5 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Kater, Berlin on Fri, 11 Sept 2026.
 
 Mimi Love is a house and deep house artist tracked on soundcheck, with 100 sets logged across Amsterdam, Barcelona, Berlin and Cologne and 17 more. Often billed alongside Franca, Britta Arnold and Sven Dohse. Next up: Kater, Berlin on Fri 11 Sept.
 
@@ -16,6 +16,7 @@ Mimi Love is a house and deep house artist tracked on soundcheck, with 100 sets 
 
 ## Recently played
 
+- Kater, Berlin — Fri, 11 Sept 2026
 - Klunkerkranich, Berlin — Sat, 18 Jul 2026
 - Schönwalde-Glien, Grünefeld bei Berlin, Germany, Berlin — Thu, 16 Jul 2026
 - Kater, Berlin — Fri, 3 Jul 2026
@@ -23,10 +24,9 @@ Mimi Love is a house and deep house artist tracked on soundcheck, with 100 sets 
 - Akasha Las Dalias Club - Ibiza, Ibiza — Sat, 6 Jun 2026
 - gART.n, Berlin — Sun, 31 May 2026
 - Costa Da Caparica, Lisbon — Fri, 29 May 2026
-- Renate, Berlin — Sat, 23 May 2026
 
 ## Shares bills with
 
 Franca, Britta Arnold, Sven Dohse
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mimilove/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mimilove/)*

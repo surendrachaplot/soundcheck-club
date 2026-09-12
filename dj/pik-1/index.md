@@ -1,6 +1,6 @@
 # pik (1)
 
-pik (1) is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at Artheater, Cologne on Fri, 11 Sept 2026.
+pik (1) is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Artheater, Cologne on Fri, 11 Sept 2026.
 
 pik (1) is a techno and house artist tracked on soundcheck, with 10 sets logged across Berlin, Cologne and Munster. Often billed alongside Nick Deeken, makahaun and Aino DJ. Next up: Artheater, Cologne on Fri 11 Sept.
 
@@ -13,6 +13,7 @@ pik (1) is a techno and house artist tracked on soundcheck, with 10 sets logged 
 
 ## Recently played
 
+- Artheater, Cologne — Fri, 11 Sept 2026
 - Odonien, Cologne — Fri, 31 Jul 2026
 - Gewölbe, Cologne — Sat, 18 Jul 2026
 - fi, Cologne — Sat, 13 Jun 2026
@@ -20,10 +21,9 @@ pik (1) is a techno and house artist tracked on soundcheck, with 10 sets logged 
 - Gewölbe, Cologne — Fri, 24 Oct 2025
 - JAKI, Cologne — Fri, 6 Jun 2025
 - JAKI, Cologne — Sat, 15 Feb 2025
-- fi, Cologne — Sat, 2 Nov 2024
 
 ## Shares bills with
 
 Nick Deeken, makahaun, Aino DJ
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/pik-1/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/pik-1/)*

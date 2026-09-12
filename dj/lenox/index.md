@@ -1,6 +1,6 @@
 # lenox
 
-lenox is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at Hafenklang, Hamburg on Fri, 11 Sept 2026.
+lenox is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Hafenklang, Hamburg on Fri, 11 Sept 2026.
 
 lenox is a house and techno artist based in Germany, tracked on soundcheck, with 7 sets logged across Hamburg, Newyorkcity and Toronto. Often billed alongside AKIIM, Lenard Klein and SPORTMANN. Next up: Hafenklang, Hamburg on Fri 11 Sept.
 
@@ -13,6 +13,7 @@ lenox is a house and techno artist based in Germany, tracked on soundcheck, with
 
 ## Recently played
 
+- Hafenklang, Hamburg — Fri, 11 Sept 2026
 - TBA, Toronto — Sun, 6 Sept 2026
 - Baalsaal, Hamburg — Fri, 4 Sept 2026
 - Xanadu, New York City — Sun, 23 Aug 2026
@@ -23,4 +24,4 @@ lenox is a house and techno artist based in Germany, tracked on soundcheck, with
 
 AKIIM, Lenard Klein, SPORTMANN
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lenox/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lenox/)*

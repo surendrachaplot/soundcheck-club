@@ -1,6 +1,6 @@
 # Munir Nadir
 
-Munir Nadir is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at Bunker, Turin on Sat, 12 Sept 2026.
+Munir Nadir is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Bunker, Turin on Sat, 12 Sept 2026.
 
 Munir Nadir is a techno and house artist tracked on soundcheck, with 73 sets logged across Amsterdam, Bangkok, Barcelona and Berlin and 18 more. Often billed alongside Alex Dima, Cristian Sarde and Lorenzo Aribone. Next up: Bunker, Turin on Sat 12 Sept.
 
@@ -27,4 +27,4 @@ Munir Nadir is a techno and house artist tracked on soundcheck, with 73 sets log
 
 Alex Dima, Cristian Sarde, Lorenzo Aribone
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/munirnadir/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/munirnadir/)*

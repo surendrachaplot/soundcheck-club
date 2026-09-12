@@ -1,6 +1,6 @@
 # Charlie Sparks
 
-Charlie Sparks is a Techno and Trance artist with 5 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at Matrez - Warehouse, Belgrade on Sat, 12 Sept 2026.
+Charlie Sparks is a Techno and Trance artist with 5 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Matrez - Warehouse, Belgrade on Sat, 12 Sept 2026.
 
 Charlie Sparks is a techno and trance artist tracked on soundcheck, with 257 sets logged across Aberdeen, Amsterdam, Athens and Barcelona and 62 more. Often billed alongside 999999999, Parfait and I Hate Models. Next up: Matrez - Warehouse, Belgrade on Sat 12 Sept.
 
@@ -29,4 +29,4 @@ Charlie Sparks is a techno and trance artist tracked on soundcheck, with 257 set
 
 999999999, Parfait, I Hate Models
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/charliesparks/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/charliesparks/)*

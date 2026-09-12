@@ -1,13 +1,14 @@
 # Georg MT
 
-Georg MT is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 11 Sept 2026, next at MFCC Arena, Malta on Fri, 4 Dec 2026.
+Georg MT is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Liquid Club, Malta on Fri, 23 Oct 2026.
 
-Georg MT is a techno and house artist based in Malta, tracked on soundcheck, with 27 sets logged across Malta. Often billed alongside Damz, STK (MT) and Kyle Cortis. Next up: MFCC Arena, Malta on Fri 4 Dec.
+Georg MT is a techno and house artist based in Malta, tracked on soundcheck, with 28 sets logged across Malta. Often billed alongside Damz, STK (MT) and Kyle Cortis. Next up: Liquid Club, Malta on Fri 23 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 23 Oct 2026 | Liquid Club | Malta |
 | Fri, 4 Dec 2026 | MFCC Arena | Malta |
 
 ## Recently played
@@ -25,4 +26,4 @@ Georg MT is a techno and house artist based in Malta, tracked on soundcheck, wit
 
 Damz, STK (MT), Kyle Cortis
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/georgmt/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/georgmt/)*

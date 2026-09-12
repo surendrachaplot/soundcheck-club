@@ -1,6 +1,6 @@
 # Arcane XIII ✦ La Mort at Crack Bellmer
 
-Arcane XIII ✦ La Mort at Crack Bellmer on Thu 12 Nov, Berlin. 1 act on the bill: Pamela Svart. Trance and Techno. Preview the line-up and save it on soundcheck.
+Arcane XIII ✦ La Mort at Crack Bellmer on Thu 12 Nov, Berlin. 4 acts on the bill: Dima Kachan, Lola Kay, Pamela Svart and VIKTORIIA. Trance and Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,9 @@ Arcane XIII ✦ La Mort at Crack Bellmer on Thu 12 Nov, Berlin. 1 act on the bil
 
 ## Line-up
 
+- Dima Kachan
+- Lola Kay
 - Pamela Svart
+- VIKTORIIA
 
 *Source: [soundcheck](https://soundcheck.club/e/2529183-arcane-xiii-la-mort-at-crack-bellmer/)*

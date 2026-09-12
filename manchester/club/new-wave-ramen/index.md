@@ -1,14 +1,13 @@
 # New Wave Ramen
 
-New Wave Ramen is a music venue in Manchester with 6 upcoming nights listed on soundcheck as of Fri, 11 Sept 2026; the next is "NWR: Joey T" on Fri, 11 Sept 2026.
+New Wave Ramen is a music venue in Manchester with 5 upcoming nights listed on soundcheck as of Sat, 12 Sept 2026; the next is "NWR: Amuse Bouche" on Sat, 12 Sept 2026.
 
-New Wave Ramen is a music venue in Manchester listed on soundcheck. 6 upcoming nights, with line-ups including dithering, Hannah O'Gorman and Joey T. Browse upcoming dates, start times and who's playing. 16 Tib Ln, M2 4JB.
+New Wave Ramen is a music venue in Manchester listed on soundcheck. 5 upcoming nights, with line-ups including dithering and Hannah O'Gorman. Browse upcoming dates, start times and who's playing. 16 Tib Ln, M2 4JB.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 11 Sept 2026 | NWR: Joey T | Joey T |
 | Sat, 12 Sept 2026 | NWR: Amuse Bouche |  |
 | Fri, 18 Sept 2026 | NWR: Dithering | dithering |
 | Sat, 19 Sept 2026 | NWR: Hannah O'Gorman | Hannah O'Gorman |
@@ -19,4 +18,4 @@ New Wave Ramen is a music venue in Manchester listed on soundcheck. 6 upcoming n
 
 16 Tib Ln, M2 4JB, Manchester
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/new-wave-ramen/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/new-wave-ramen/)*

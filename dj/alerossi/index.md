@@ -1,6 +1,6 @@
 # Ale Rossi
 
-Ale Rossi is a Afro House and Bass artist with 1 upcoming club date listed on soundcheck as of Fri, 11 Sept 2026, next at Siwilai Radical Club, Bangkok on Sat, 19 Sept 2026.
+Ale Rossi is a Afro House and Bass artist with 1 upcoming club date listed on soundcheck as of Sat, 12 Sept 2026, next at Siwilai Radical Club, Bangkok on Sat, 19 Sept 2026.
 
 Ale Rossi is an afro house and bass artist tracked on soundcheck, with 15 sets logged across Bangkok, Ghent, Madrid and Milan and 1 more. Often billed alongside Danny Finn, Youssef Giga and Accidental District. Next up: Siwilai Radical Club, Bangkok on Sat 19 Sept.
 
@@ -25,4 +25,4 @@ Ale Rossi is an afro house and bass artist tracked on soundcheck, with 15 sets l
 
 Danny Finn, Youssef Giga, Accidental District
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/alerossi/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/alerossi/)*

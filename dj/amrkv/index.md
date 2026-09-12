@@ -1,6 +1,6 @@
 # Amrkv
 
-Amrkv is a Techno and Dub Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at TBA, Toronto on Fri, 11 Sept 2026.
+Amrkv is a Techno and Dub Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at TBA, Toronto on Fri, 11 Sept 2026.
 
 Amrkv is a techno and dub techno artist based in Lithuania, tracked on soundcheck, with 3 sets logged across Toronto. Often billed alongside Michael Krochak, DJ h0mie and Esther Côté. Next up: TBA, Toronto on Fri 11 Sept.
 
@@ -13,10 +13,11 @@ Amrkv is a techno and dub techno artist based in Lithuania, tracked on soundchec
 
 ## Recently played
 
+- TBA, Toronto — Fri, 11 Sept 2026
 - Bsmt 254, Toronto — Thu, 18 Jun 2026
 
 ## Shares bills with
 
 Michael Krochak, DJ h0mie, Esther Côté
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/amrkv/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/amrkv/)*

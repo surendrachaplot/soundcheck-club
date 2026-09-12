@@ -1,6 +1,6 @@
 # Fonoteek
 
-Fonoteek is a music venue in Tallinn with 6 upcoming nights listed on soundcheck as of Fri, 11 Sept 2026; the next is "Daniel Levi albumi 'Home Away From Home' esitluskontsert" on Sat, 12 Sept 2026.
+Fonoteek is a music venue in Tallinn with 6 upcoming nights listed on soundcheck as of Sat, 12 Sept 2026; the next is "Daniel Levi albumi 'Home Away From Home' esitluskontsert" on Sat, 12 Sept 2026.
 
 Fonoteek is a music venue in Tallinn listed on soundcheck. 6 upcoming nights, with line-ups including Ale Castro and Degs. Browse upcoming dates, start times and who's playing. Telliskivi tn 62, 10412 ,Tallinn, Estonia.
 
@@ -19,4 +19,4 @@ Fonoteek is a music venue in Tallinn listed on soundcheck. 6 upcoming nights, wi
 
 Telliskivi tn 62, 10412 ,Tallinn, Estonia, Tallinn
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/tallinn/club/fonoteek/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/tallinn/club/fonoteek/)*

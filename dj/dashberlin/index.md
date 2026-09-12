@@ -1,13 +1,14 @@
 # Dash Berlin
 
-Dash Berlin is a Trance and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 11 Sept 2026, next at The Queen Mary, Los Angeles on Fri, 20 Nov 2026.
+Dash Berlin is a Trance and Progressive House artist with 2 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at The XOX Arena Arch Galeries, Kuala Lumpur on Fri, 30 Oct 2026.
 
-Dash Berlin is a trance and techno artist based in Netherlands, tracked on soundcheck, with 7 sets logged across Brisbane, Kualalumpur, Losangeles and Malta and 3 more. Often billed alongside Aly & Fila, Billy Gillies and David Rust. Next up: The Queen Mary, Losangeles on Fri 20 Nov.
+Dash Berlin is a trance and progressive house artist based in Netherlands, tracked on soundcheck, with 8 sets logged across Brisbane, Kualalumpur, Losangeles and Malta and 3 more. Often billed alongside Aly & Fila, Billy Gillies and David Rust. Next up: The XOX Arena Arch Galeries, Kualalumpur on Fri 30 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 30 Oct 2026 | The XOX Arena Arch Galeries | Kuala Lumpur |
 | Fri, 20 Nov 2026 | The Queen Mary | Los Angeles |
 
 ## Recently played
@@ -23,4 +24,4 @@ Dash Berlin is a trance and techno artist based in Netherlands, tracked on sound
 
 Aly & Fila, Billy Gillies, David Rust
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dashberlin/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dashberlin/)*

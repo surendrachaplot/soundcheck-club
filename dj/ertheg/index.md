@@ -1,6 +1,6 @@
 # ERTH (EG)
 
-ERTH (EG) is a House artist with 1 upcoming club date listed on soundcheck as of Fri, 11 Sept 2026, next at murmur, Amsterdam on Sat, 12 Sept 2026.
+ERTH (EG) is a House artist with 1 upcoming club date listed on soundcheck as of Sat, 12 Sept 2026, next at murmur, Amsterdam on Sat, 12 Sept 2026.
 
 ERTH (EG) is a house artist tracked on soundcheck, with 8 sets logged across Amsterdam and Barcelona. Often billed alongside Mia Cecille, Hylke and 42nd Avenue. Next up: murmur, Amsterdam on Sat 12 Sept.
 
@@ -24,4 +24,4 @@ ERTH (EG) is a house artist tracked on soundcheck, with 8 sets logged across Ams
 
 Mia Cecille, Hylke, 42nd Avenue
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ertheg/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ertheg/)*

@@ -1,6 +1,6 @@
 # Threefloorloft
 
-Threefloorloft is a Baile Funk artist with 1 upcoming club date listed on soundcheck as of Fri, 11 Sept 2026, next at Altenburg 1964, Prague on Sat, 10 Oct 2026.
+Threefloorloft is a Baile Funk artist with 1 upcoming club date listed on soundcheck as of Sat, 12 Sept 2026, next at Altenburg 1964, Prague on Sat, 10 Oct 2026.
 
 Threefloorloft is a baile funk artist tracked on soundcheck, with 8 sets logged across Prague. Often billed alongside AVHD, Veryrareimages and Big Lil. Next up: Altenburg 1964, Prague on Sat 10 Oct.
 
@@ -24,4 +24,4 @@ Threefloorloft is a baile funk artist tracked on soundcheck, with 8 sets logged 
 
 AVHD, Veryrareimages, Big Lil
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/threefloorloft/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/threefloorloft/)*

@@ -1,14 +1,13 @@
 # DNA Lounge
 
-DNA Lounge is a music venue in San Francisco/Oakland with 4 upcoming nights listed on soundcheck as of Fri, 11 Sept 2026; the next is "Bad Bunny Night" on Fri, 11 Sept 2026.
+DNA Lounge is a music venue in San Francisco/Oakland with 3 upcoming nights listed on soundcheck as of Sat, 12 Sept 2026; the next is "Secret Psychedelica: VIRGO 2026 with PSILOVYBE, Synchronometry," on Sat, 12 Sept 2026.
 
-DNA Lounge is a music venue in Sanfrancisco listed on soundcheck. 4 upcoming nights, with line-ups including Miss Gia, Saint Triste and Synchronometry. Browse upcoming dates, start times and who's playing. 375 Eleventh Street, San Francisco, CA 94103, United States.
+DNA Lounge is a music venue in Sanfrancisco listed on soundcheck. 3 upcoming nights, with line-ups including Miss Gia, Saint Triste and Synchronometry. Browse upcoming dates, start times and who's playing. 375 Eleventh Street, San Francisco, CA 94103, United States.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 11 Sept 2026 | Bad Bunny Night |  |
 | Sat, 12 Sept 2026 | Secret Psychedelica: VIRGO 2026 with PSILOVYBE, Synchronometry, | Synchronometry |
 | Sat, 26 Sept 2026 | San Frandisco | Miss Gia, Saint Triste |
 | Fri, 9 Oct 2026 | LAST FRIDAY NIGHT (Y2K-2010's Throwbacks All Night Long!) |  |
@@ -17,4 +16,4 @@ DNA Lounge is a music venue in Sanfrancisco listed on soundcheck. 4 upcoming nig
 
 375 Eleventh Street, San Francisco, CA 94103, United States, San Francisco/Oakland
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/dna-lounge/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/dna-lounge/)*

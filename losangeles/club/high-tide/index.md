@@ -1,6 +1,6 @@
 # High Tide
 
-High Tide is a music venue in Los Angeles with 4 upcoming nights listed on soundcheck as of Fri, 11 Sept 2026; the next is "mezza 2 in collab with Le Frique Sonique " on Sun, 13 Sept 2026.
+High Tide is a music venue in Los Angeles with 4 upcoming nights listed on soundcheck as of Sat, 12 Sept 2026; the next is "mezza 2 in collab with Le Frique Sonique " on Sun, 13 Sept 2026.
 
 High Tide is a music venue in Losangeles listed on soundcheck. 4 upcoming nights, with line-ups including Kyrxmi and Rich Medina. Browse upcoming dates, start times and who's playing. 605 E 4th St, Los Angeles, CA 90013.
 
@@ -17,4 +17,4 @@ High Tide is a music venue in Losangeles listed on soundcheck. 4 upcoming nights
 
 605 E 4th St, Los Angeles, CA 90013, Los Angeles
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/high-tide/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/high-tide/)*

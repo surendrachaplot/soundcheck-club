@@ -1,6 +1,6 @@
 # Katiusha
 
-Katiusha is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at The Carpet Shop, London on Fri, 11 Sept 2026.
+Katiusha is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at The Carpet Shop, London on Fri, 11 Sept 2026.
 
 Katiusha is a techno and house artist tracked on soundcheck, with 46 sets logged across Amsterdam, Berlin, Bristol and Copenhagen and 7 more. Often billed alongside Dubrunner, Chris Farrell and DJ Carlita. Next up: The Carpet Shop, London on Fri 11 Sept.
 
@@ -16,6 +16,7 @@ Katiusha is a techno and house artist tracked on soundcheck, with 46 sets logged
 
 ## Recently played
 
+- The Carpet Shop, London — Fri, 11 Sept 2026
 - TBA - Secret Location (near Frankfurter Allee), Berlin — Wed, 29 Jul 2026
 - Backsteinboot, Berlin — Sat, 11 Jul 2026
 - ., Berlin — Sun, 31 May 2026
@@ -23,10 +24,9 @@ Katiusha is a techno and house artist tracked on soundcheck, with 46 sets logged
 - Corsica Studios, London — Fri, 23 Jan 2026
 - Fitzroy, Berlin — Thu, 4 Dec 2025
 - arkaoda Berlin, Berlin — Fri, 28 Nov 2025
-- ÆDEN, Berlin — Sat, 25 Oct 2025
 
 ## Shares bills with
 
 Dubrunner, Chris Farrell, DJ Carlita
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/katiusha/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/katiusha/)*

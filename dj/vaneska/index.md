@@ -1,6 +1,6 @@
 # Vaneska
 
-Vaneska is a Trance and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 11 Sept 2026, next at Rote Sonne, Munich on Sat, 19 Sept 2026.
+Vaneska is a Trance and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 12 Sept 2026, next at Rote Sonne, Munich on Sat, 19 Sept 2026.
 
 Vaneska is a trance and techno artist tracked on soundcheck, with 35 sets logged across Berlin, Cologne, Hamburg and Leipzig and 1 more. Often billed alongside NAGINI, Praun and 9LALEY. Next up: Rote Sonne, Munich on Sat 19 Sept.
 
@@ -25,4 +25,4 @@ Vaneska is a trance and techno artist tracked on soundcheck, with 35 sets logged
 
 NAGINI, Praun, 9LALEY
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/vaneska/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/vaneska/)*

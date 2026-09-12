@@ -1,6 +1,6 @@
 # Syper
 
-Syper is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 11 Sept 2026, next at Village Underground Lisboa, Lisbon on Sat, 26 Sept 2026.
+Syper is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 12 Sept 2026, next at Village Underground Lisboa, Lisbon on Sat, 26 Sept 2026.
 
 Syper is a techno and house artist based in Portugal, tracked on soundcheck, with 44 sets logged across Amsterdam, Lisbon and Porto. Often billed alongside DJ Nox, Analodjica and Gilvaia. Next up: Village Underground Lisboa, Lisbon on Sat 26 Sept.
 
@@ -25,4 +25,4 @@ Syper is a techno and house artist based in Portugal, tracked on soundcheck, wit
 
 DJ Nox, Analodjica, Gilvaia
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/syper/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/syper/)*

@@ -1,6 +1,6 @@
 # Golden Pudel Club
 
-Golden Pudel Club is a music venue in Hamburg with 7 upcoming nights listed on soundcheck as of Fri, 11 Sept 2026; the next is "15 Years Of zweikommasieben" on Sat, 12 Sept 2026.
+Golden Pudel Club is a music venue in Hamburg with 7 upcoming nights listed on soundcheck as of Sat, 12 Sept 2026; the next is "15 Years Of zweikommasieben" on Sat, 12 Sept 2026.
 
 Golden Pudel Club is a music venue in Hamburg listed on soundcheck. 7 upcoming nights, with line-ups including Bézier, BrthrMidnyt, cristian zanotti and DSGNRPSSY and 2 more. Browse upcoming dates, start times and who's playing. St. Pauli Fischmarkt 27; 20359 Hamburg; Germany.
 
@@ -20,4 +20,4 @@ Golden Pudel Club is a music venue in Hamburg listed on soundcheck. 7 upcoming n
 
 St. Pauli Fischmarkt 27; 20359 Hamburg; Germany, Hamburg
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/hamburg/club/golden-pudel-club/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/hamburg/club/golden-pudel-club/)*

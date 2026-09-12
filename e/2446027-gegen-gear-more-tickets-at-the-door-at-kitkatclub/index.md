@@ -1,0 +1,31 @@
+# GEGEN GEAR  (More tickets at the door) at KitKatClub
+
+GEGEN GEAR  (More tickets at the door) at KitKatClub on Fri 11 Sept, Berlin. 17 acts on the bill: Alma Negrot, Ana Lilia, Aron Amor and BOYCA and 13 more. Preview the line-up and save it on soundcheck.
+
+| Field | Value |
+| --- | --- |
+| Date | Fri, 11 Sept 2026 |
+| Venue | KitKatClub |
+| City | Berlin |
+
+## Line-up
+
+- Alma Negrot
+- Ana Lilia
+- Aron Amor
+- BOYCA
+- Buday
+- Daniel Wang
+- David Asko
+- FAUST (1)
+- Faust (3)
+- fka.m4a
+- Hunkut
+- Mar/us
+- Max Shen
+- Nymed
+- Radox
+- Reza Jalilian
+- Spikey Lee
+
+*Source: [soundcheck](https://soundcheck.club/e/2446027-gegen-gear-more-tickets-at-the-door-at-kitkatclub/)*

@@ -1,6 +1,6 @@
 # Tamada (FR)
 
-Tamada (FR) is a Dubstep and Bass artist with 1 upcoming club date listed on soundcheck as of Fri, 11 Sept 2026, next at La Station - Gare des Mines, Paris on Sat, 3 Oct 2026.
+Tamada (FR) is a Dubstep and Bass artist with 1 upcoming club date listed on soundcheck as of Sat, 12 Sept 2026, next at La Station - Gare des Mines, Paris on Sat, 3 Oct 2026.
 
 Tamada (FR) is a dubstep and bass artist tracked on soundcheck, with 18 sets logged across Nantes and Paris. Often billed alongside Ma Sha, Poiçon and Elvira (1). Next up: La Station - Gare des Mines, Paris on Sat 3 Oct.
 
@@ -25,4 +25,4 @@ Tamada (FR) is a dubstep and bass artist tracked on soundcheck, with 18 sets log
 
 Ma Sha, Poiçon, Elvira (1)
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tamadafr/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tamadafr/)*

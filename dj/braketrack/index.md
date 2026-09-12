@@ -1,6 +1,6 @@
 # Braketrack
 
-Braketrack is a House and Progressive House artist with 1 upcoming club date listed on soundcheck as of Fri, 11 Sept 2026, next at Generator, Amsterdam on Fri, 23 Oct 2026.
+Braketrack is a House and Progressive House artist with 1 upcoming club date listed on soundcheck as of Sat, 12 Sept 2026, next at Generator, Amsterdam on Fri, 23 Oct 2026.
 
 Braketrack is a house and progressive house artist based in Netherlands, tracked on soundcheck, with 12 sets logged across Amsterdam. Often billed alongside Charles Mingles, Gavino Paglianti and Daan Autobahn. Next up: Generator, Amsterdam on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ Braketrack is a house and progressive house artist based in Netherlands, tracked
 
 Charles Mingles, Gavino Paglianti, Daan Autobahn
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/braketrack/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/braketrack/)*

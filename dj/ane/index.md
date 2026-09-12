@@ -1,6 +1,6 @@
 # Ane
 
-Ane is a Techno and Latin Bass artist with 1 upcoming club date listed on soundcheck as of Fri, 11 Sept 2026, next at Smolna, Warsaw on Fri, 25 Sept 2026.
+Ane is a Techno and Latin Bass artist with 1 upcoming club date listed on soundcheck as of Sat, 12 Sept 2026, next at Smolna, Warsaw on Fri, 25 Sept 2026.
 
 Ane is a techno and latin bass artist based in Poland, tracked on soundcheck, with 10 sets logged across Osaka and Warsaw. Often billed alongside Adam Obrębski, David Löhlein and EARGASM GOD. Next up: Smolna, Warsaw on Fri 25 Sept.
 
@@ -25,4 +25,4 @@ Ane is a techno and latin bass artist based in Poland, tracked on soundcheck, wi
 
 Adam Obrębski, David Löhlein, EARGASM GOD
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ane/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ane/)*

@@ -1,6 +1,6 @@
 # Neon Graveyard
 
-Neon Graveyard is a Techno and Trance artist with 3 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at Airport Würzburg, Nürnberg on Fri, 2 Oct 2026.
+Neon Graveyard is a Techno and Trance artist with 3 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Airport Würzburg, Nürnberg on Fri, 2 Oct 2026.
 
 Neon Graveyard is a techno and trance artist based in Germany, tracked on soundcheck, with 141 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 35 more. Often billed alongside Johannes Schuster, KUKO and Adrian Mills. Next up: Airport Würzburg, Nurnberg on Fri 2 Oct.
 
@@ -27,4 +27,4 @@ Neon Graveyard is a techno and trance artist based in Germany, tracked on soundc
 
 Johannes Schuster, KUKO, Adrian Mills
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/neongraveyard/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/neongraveyard/)*

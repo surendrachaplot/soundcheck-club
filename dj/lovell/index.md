@@ -1,6 +1,6 @@
 # LOVELL
 
-LOVELL is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at La Cheetah Club, Glasgow on Sat, 12 Sept 2026.
+LOVELL is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at La Cheetah Club, Glasgow on Sat, 12 Sept 2026.
 
 LOVELL is a house and techno artist based in United Kingdom, tracked on soundcheck, with 20 sets logged across Aberdeen, Dundee, Edinburgh and Glasgow and 1 more. Often billed alongside Acid Boner, Angel Negrin and Illogical Operator. Next up: La Cheetah Club, Glasgow on Sat 12 Sept.
 
@@ -29,4 +29,4 @@ LOVELL is a house and techno artist based in United Kingdom, tracked on soundche
 
 Acid Boner, Angel Negrin, Illogical Operator
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lovell/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lovell/)*

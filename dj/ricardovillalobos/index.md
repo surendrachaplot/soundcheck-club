@@ -1,8 +1,8 @@
 # Ricardo Villalobos
 
-Ricardo Villalobos is a Techno and House artist with 10 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at Supermarket, Zurich on Fri, 11 Sept 2026.
+Ricardo Villalobos is a Techno and House artist with 11 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Supermarket, Zurich on Fri, 11 Sept 2026.
 
-Ricardo Villalobos is a techno and house artist tracked on soundcheck, with 121 sets logged across Amsterdam, Antwerp, Barcelona and Berlin and 27 more. Often billed alongside Raresh, O.BEE and Tomas Station. Next up: Supermarket, Zurich on Fri 11 Sept.
+Ricardo Villalobos is a techno and house artist tracked on soundcheck, with 122 sets logged across Amsterdam, Antwerp, Barcelona and Berlin and 27 more. Often billed alongside Raresh, O.BEE and Tomas Station. Next up: Supermarket, Zurich on Fri 11 Sept.
 
 ## Upcoming shows
 
@@ -15,12 +15,14 @@ Ricardo Villalobos is a techno and house artist tracked on soundcheck, with 121 
 | Sat, 19 Sept 2026 | Sophie Festival | Malaga |
 | Fri, 25 Sept 2026 | Coda | Toronto |
 | Sat, 26 Sept 2026 | Piknic Électronik / Parc Jean Drapeau | Montreal |
+| Sat, 26 Sept 2026 | Société des arts technologiques | Montreal |
 | Sun, 4 Oct 2026 | Amnesia Ibiza | Ibiza |
 | Sat, 17 Oct 2026 | fabric | London |
 | Thu, 3 Dec 2026 | The Pickle | Miami |
 
 ## Recently played
 
+- Supermarket, Zurich — Fri, 11 Sept 2026
 - Amnesia Ibiza, Ibiza — Sun, 23 Aug 2026
 - Amnesia Ibiza, Ibiza — Sun, 16 Aug 2026
 - Amsterdamse Bos, Amsterdam — Sun, 2 Aug 2026
@@ -28,10 +30,9 @@ Ricardo Villalobos is a techno and house artist tracked on soundcheck, with 121 
 - Amnesia Ibiza, Ibiza — Sun, 26 Jul 2026
 - Rebstockpark, Frankfurt — Sat, 25 Jul 2026
 - Amnesia Ibiza, Ibiza — Sun, 5 Jul 2026
-- fabric, London — Sat, 4 Jul 2026
 
 ## Shares bills with
 
 Raresh, O.BEE, Tomas Station
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ricardovillalobos/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ricardovillalobos/)*

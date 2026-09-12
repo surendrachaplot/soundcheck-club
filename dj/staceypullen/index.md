@@ -1,6 +1,6 @@
 # Stacey Pullen
 
-Stacey Pullen is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 11 Sept 2026, next at LoHi, New York City on Sat, 12 Sept 2026.
+Stacey Pullen is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 12 Sept 2026, next at LoHi, New York City on Sat, 12 Sept 2026.
 
 Stacey Pullen is a techno and house artist tracked on soundcheck, with 116 sets logged across Amsterdam, Austin, Barcelona and Boston and 26 more. Often billed alongside Carl Craig, Soul Clap and DJ Minx. Next up: LoHi, Newyorkcity on Sat 12 Sept.
 
@@ -25,4 +25,4 @@ Stacey Pullen is a techno and house artist tracked on soundcheck, with 116 sets 
 
 Carl Craig, Soul Clap, DJ Minx
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/staceypullen/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/staceypullen/)*

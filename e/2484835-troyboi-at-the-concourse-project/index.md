@@ -1,6 +1,6 @@
 # TroyBoi at The Concourse Project
 
-TroyBoi at The Concourse Project on Fri 18 Sept, Austin. 1 act on the bill: TroyBoi. Preview the line-up and save it on soundcheck.
+TroyBoi at The Concourse Project on Fri 18 Sept, Austin. 2 acts on the bill: TroyBoi and Tye Turner. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,5 +11,6 @@ TroyBoi at The Concourse Project on Fri 18 Sept, Austin. 1 act on the bill: Troy
 ## Line-up
 
 - TroyBoi
+- Tye Turner
 
 *Source: [soundcheck](https://soundcheck.club/e/2484835-troyboi-at-the-concourse-project/)*

@@ -1,6 +1,6 @@
 # Chris Farrell
 
-Chris Farrell is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 11 Sept 2026, next at The Love Inn, Bristol on Sat, 12 Sept 2026.
+Chris Farrell is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 12 Sept 2026, next at The Love Inn, Bristol on Sat, 12 Sept 2026.
 
 Chris Farrell is a house and techno artist tracked on soundcheck, with 32 sets logged across Amsterdam, Berlin, Bristol and Dublin and 3 more. Often billed alongside Daisy Moon, Chez de Milo and Katiusha. Next up: The Love Inn, Bristol on Sat 12 Sept.
 
@@ -25,4 +25,4 @@ Chris Farrell is a house and techno artist tracked on soundcheck, with 32 sets l
 
 Daisy Moon, Chez de Milo, Katiusha
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/chrisfarrell/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/chrisfarrell/)*

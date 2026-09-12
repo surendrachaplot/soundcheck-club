@@ -1,6 +1,6 @@
 # ATRIP
 
-ATRIP is a House and Garage artist with 6 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at Village Studios, Vancouver on Fri, 11 Sept 2026.
+ATRIP is a House and Garage artist with 6 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Village Studios, Vancouver on Fri, 11 Sept 2026.
 
 ATRIP is a house and garage artist tracked on soundcheck, with 82 sets logged across Amsterdam, Austin, Barcelona and Belfast and 37 more. Often billed alongside DJ BORING, Oppidan and salute. Next up: Village Studios, Vancouver on Fri 11 Sept.
 
@@ -17,6 +17,7 @@ ATRIP is a house and garage artist tracked on soundcheck, with 82 sets logged ac
 
 ## Recently played
 
+- Village Studios, Vancouver — Fri, 11 Sept 2026
 - [UNVRS], Ibiza — Thu, 10 Sept 2026
 - Substation, Seattle — Thu, 10 Sept 2026
 - Crate Brewery, London — Fri, 21 Aug 2026
@@ -24,10 +25,9 @@ ATRIP is a house and garage artist tracked on soundcheck, with 82 sets logged ac
 - Sloterpark, Amsterdam — Sat, 8 Aug 2026
 - TBA - Hollywood Park adjacent to SoFi Stadium, Los Angeles — Sat, 1 Aug 2026
 - [UNVRS], Ibiza — Thu, 2 Jul 2026
-- Nitsa Club, Barcelona — Sat, 27 Jun 2026
 
 ## Shares bills with
 
 DJ BORING, Oppidan, salute
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/atrip/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/atrip/)*

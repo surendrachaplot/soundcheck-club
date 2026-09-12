@@ -1,6 +1,6 @@
 # dBridge
 
-dBridge is a Drum & Bass and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 11 Sept 2026, next at RASA, Singapore on Sat, 3 Oct 2026.
+dBridge is a Drum & Bass and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 12 Sept 2026, next at RASA, Singapore on Sat, 3 Oct 2026.
 
 dBridge is a drum & bass and techno artist based in United Kingdom, tracked on soundcheck, with 88 sets logged across Amsterdam, Berlin, Boston and Brighton and 29 more. Often billed alongside SP:MC, DjRUM and Kia (AU). Next up: RASA, Singapore on Sat 3 Oct.
 
@@ -25,4 +25,4 @@ dBridge is a drum & bass and techno artist based in United Kingdom, tracked on s
 
 SP:MC, DjRUM, Kia (AU)
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dbridge/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dbridge/)*

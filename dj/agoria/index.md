@@ -1,6 +1,6 @@
 # Agoria
 
-Agoria is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at Volt Club Milano, Milan on Sat, 19 Sept 2026.
+Agoria is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Volt Club Milano, Milan on Sat, 19 Sept 2026.
 
 Agoria is a techno and house artist tracked on soundcheck, with 59 sets logged across Amsterdam, Athens, Barcelona and Geneva and 15 more. Often billed alongside Mooglie, Amour Propre and Armin van Buuren. Next up: Volt Club Milano, Milan on Sat 19 Sept.
 
@@ -26,4 +26,4 @@ Agoria is a techno and house artist tracked on soundcheck, with 59 sets logged a
 
 Mooglie, Amour Propre, Armin van Buuren
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/agoria/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/agoria/)*

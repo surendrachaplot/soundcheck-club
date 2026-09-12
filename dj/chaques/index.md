@@ -1,6 +1,6 @@
 # Chaques
 
-Chaques is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Fri, 11 Sept 2026, next at Renate, Berlin on Sat, 26 Sept 2026.
+Chaques is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Sat, 12 Sept 2026, next at Renate, Berlin on Sat, 26 Sept 2026.
 
 Chaques is a house and disco artist tracked on soundcheck, with 8 sets logged across Berlin and Munich. Often billed alongside Pepi Soljanka, Luke Blunton and Oliver Raumklang. Next up: Renate, Berlin on Sat 26 Sept.
 
@@ -24,4 +24,4 @@ Chaques is a house and disco artist tracked on soundcheck, with 8 sets logged ac
 
 Pepi Soljanka, Luke Blunton, Oliver Raumklang
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/chaques/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/chaques/)*

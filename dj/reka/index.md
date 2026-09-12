@@ -1,6 +1,6 @@
 # Reka
 
-Reka is a Techno and EBM artist with 1 upcoming club date listed on soundcheck as of Fri, 11 Sept 2026, next at Beursschouwburg, Brussels on Sat, 31 Oct 2026.
+Reka is a Techno and EBM artist with 1 upcoming club date listed on soundcheck as of Sat, 12 Sept 2026, next at Beursschouwburg, Brussels on Sat, 31 Oct 2026.
 
 Reka is a techno and ebm artist based in Spain, tracked on soundcheck, with 41 sets logged across Athens, Barcelona, Berlin and Brussels and 12 more. Often billed alongside Phase Fatale, Unhuman and Bloody Mary. Next up: Beursschouwburg, Brussels on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Reka is a techno and ebm artist based in Spain, tracked on soundcheck, with 41 s
 
 Phase Fatale, Unhuman, Bloody Mary
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/reka/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/reka/)*

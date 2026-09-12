@@ -1,6 +1,6 @@
 # Cabaret Voltaire
 
-Cabaret Voltaire is a music venue in Edinburgh with 11 upcoming nights listed on soundcheck as of Fri, 11 Sept 2026; the next is "FLY - TWOFACED - Edinburgh" on Fri, 11 Sept 2026.
+Cabaret Voltaire is a music venue in Edinburgh with 11 upcoming nights listed on soundcheck as of Sat, 12 Sept 2026; the next is "FLY - TWOFACED - Edinburgh" on Fri, 11 Sept 2026.
 
 Cabaret Voltaire is a music venue in Edinburgh listed on soundcheck. 11 upcoming nights, with line-ups including YVI, Ben Kok (2), Benwal and Casi (UK) and 2 more. Browse upcoming dates, start times and who's playing. 36-38 Blair St; Edinburgh, EH1 1QR; Scotland; United Kingdom.
 
@@ -23,4 +23,4 @@ Cabaret Voltaire is a music venue in Edinburgh listed on soundcheck. 11 upcoming
 
 36-38 Blair St; Edinburgh, EH1 1QR; Scotland; United Kingdom, Edinburgh
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/edinburgh/club/cabaret-voltaire/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/edinburgh/club/cabaret-voltaire/)*

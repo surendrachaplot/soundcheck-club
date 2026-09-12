@@ -1,6 +1,6 @@
 # Nark
 
-Nark is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 11 Sept 2026, next at Ex Fabrica de Harina Anden Tacuba, Mexico City on Sat, 31 Oct 2026.
+Nark is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 12 Sept 2026, next at Ex Fabrica de Harina Anden Tacuba, Mexico City on Sat, 31 Oct 2026.
 
 Nark is a house and techno artist tracked on soundcheck, with 67 sets logged across Losangeles, Mexicocity, Portland and Sanfrancisco and 2 more. Often billed alongside Sharlese, Succubass and Tommy Hart. Next up: Ex Fabrica de Harina Anden Tacuba, Mexicocity on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Nark is a house and techno artist tracked on soundcheck, with 67 sets logged acr
 
 Sharlese, Succubass, Tommy Hart
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nark/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nark/)*

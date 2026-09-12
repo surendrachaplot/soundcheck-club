@@ -1,6 +1,6 @@
 # Maribou State
 
-Maribou State is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at Akasha Las Dalias Club - Ibiza, Ibiza on Fri, 11 Sept 2026.
+Maribou State is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Akasha Las Dalias Club - Ibiza, Ibiza on Fri, 11 Sept 2026.
 
 Maribou State is a house and disco artist based in United Kingdom, tracked on soundcheck, with 37 sets logged across Amsterdam, Barcelona, Birmingham and Brighton and 20 more. Often billed alongside Chris Stassy, Adam Ten and Blawan. Next up: Akasha Las Dalias Club - Ibiza, Ibiza on Fri 11 Sept.
 
@@ -13,6 +13,7 @@ Maribou State is a house and disco artist based in United Kingdom, tracked on so
 
 ## Recently played
 
+- Akasha Las Dalias Club - Ibiza, Ibiza — Fri, 11 Sept 2026
 - The Downs, Bristol, Bristol — Sat, 29 Aug 2026
 - Valby Parken, Copenhagen — Thu, 13 Aug 2026
 - Sunday Sunday, Mexico City — Sat, 4 Jul 2026
@@ -20,10 +21,9 @@ Maribou State is a house and disco artist based in United Kingdom, tracked on so
 - Hidden, Manchester — Sat, 31 Jan 2026
 - Liberty Hall, Sydney — Sat, 3 Jan 2026
 - South Bank, Brisbane — Fri, 2 Jan 2026
-- Glenworth Valley, Sydney — Sun, 28 Dec 2025
 
 ## Shares bills with
 
 Chris Stassy, Adam Ten, Blawan
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mariboustate/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mariboustate/)*

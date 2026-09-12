@@ -1,6 +1,6 @@
 # FLIPSIDE.
 
-FLIPSIDE. is a Bass and Garage artist with 1 upcoming club date listed on soundcheck as of Fri, 11 Sept 2026, next at The Bongo Club, Edinburgh on Sat, 26 Sept 2026.
+FLIPSIDE. is a Bass and Garage artist with 1 upcoming club date listed on soundcheck as of Sat, 12 Sept 2026, next at The Bongo Club, Edinburgh on Sat, 26 Sept 2026.
 
 FLIPSIDE. is a bass and garage artist tracked on soundcheck, with 26 sets logged across Aberdeen, Edinburgh and Glasgow. Often billed alongside Talkless, Cornetta and Lara Sinclair. Next up: The Bongo Club, Edinburgh on Sat 26 Sept.
 
@@ -25,4 +25,4 @@ FLIPSIDE. is a bass and garage artist tracked on soundcheck, with 26 sets logged
 
 Talkless, Cornetta, Lara Sinclair
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/-.flipside/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/-.flipside/)*

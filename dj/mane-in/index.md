@@ -1,6 +1,6 @@
 # MANE (IN)
 
-MANE (IN) is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Fri, 11 Sept 2026, next at Green Room NYC, New York City on Fri, 2 Oct 2026.
+MANE (IN) is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Sat, 12 Sept 2026, next at Green Room NYC, New York City on Fri, 2 Oct 2026.
 
 MANE (IN) is a house and tech house artist tracked on soundcheck, with 15 sets logged across Newyorkcity and Philadelphia. Often billed alongside Jeny Michelle, Motum and Philthy Phil. Next up: Green Room NYC, Newyorkcity on Fri 2 Oct.
 
@@ -25,4 +25,4 @@ MANE (IN) is a house and tech house artist tracked on soundcheck, with 15 sets l
 
 Jeny Michelle, Motum, Philthy Phil
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mane-in/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mane-in/)*

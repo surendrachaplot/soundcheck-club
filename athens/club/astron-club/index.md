@@ -1,6 +1,6 @@
 # Astron Club
 
-Astron Club is a music venue in Athens with 6 upcoming nights listed on soundcheck as of Fri, 11 Sept 2026; the next is "ACN with Dauwd (Psssh Records / Ninja Tune - London) // Ayshel // IOANNES" on Fri, 11 Sept 2026.
+Astron Club is a music venue in Athens with 6 upcoming nights listed on soundcheck as of Sat, 12 Sept 2026; the next is "ACN with Dauwd (Psssh Records / Ninja Tune - London) // Ayshel // IOANNES" on Fri, 11 Sept 2026.
 
 Astron Club is a music venue in Athens listed on soundcheck. 6 upcoming nights, with line-ups including ANFS, Atypikal, Ayshel and Bekha Mujiri and 2 more. Browse upcoming dates, start times and who's playing. 121 Konstantinoupoleos St., Athens 104 47, Greece.
 
@@ -19,4 +19,4 @@ Astron Club is a music venue in Athens listed on soundcheck. 6 upcoming nights, 
 
 121 Konstantinoupoleos St., Athens 104 47, Greece, Athens
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/athens/club/astron-club/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/athens/club/astron-club/)*

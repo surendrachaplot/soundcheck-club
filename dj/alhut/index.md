@@ -1,6 +1,6 @@
 # Al Hut
 
-Al Hut is a Ambient and Experimental artist with 1 upcoming club date listed on soundcheck as of Fri, 11 Sept 2026, next at Saltyacid Space, Berlin on Sun, 20 Sept 2026.
+Al Hut is a Ambient and Experimental artist with 1 upcoming club date listed on soundcheck as of Sat, 12 Sept 2026, next at Saltyacid Space, Berlin on Sun, 20 Sept 2026.
 
 Al Hut is an ambient and experimental artist based in Syria, tracked on soundcheck, with 7 sets logged across Berlin. Often billed alongside Elljay, Emme Moises and Geni Huomikker. Next up: Saltyacid Space, Berlin on Sun 20 Sept.
 
@@ -23,4 +23,4 @@ Al Hut is an ambient and experimental artist based in Syria, tracked on soundche
 
 Elljay, Emme Moises, Geni Huomikker
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/alhut/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/alhut/)*

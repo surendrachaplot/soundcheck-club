@@ -1,6 +1,6 @@
 # BORIS CLUB
 
-BORIS CLUB is a music venue in Barcelona with 15 upcoming nights listed on soundcheck as of Fri, 11 Sept 2026; the next is "Boris CLÉO x KAIRO pres: ALEX TWIN" on Fri, 11 Sept 2026.
+BORIS CLUB is a music venue in Barcelona with 15 upcoming nights listed on soundcheck as of Sat, 12 Sept 2026; the next is "Boris CLÉO x KAIRO pres: ALEX TWIN" on Fri, 11 Sept 2026.
 
 BORIS CLUB is a music venue in Barcelona listed on soundcheck. 15 upcoming nights, with line-ups including AJNA, Ander Race, Andrea Castells and BizZa and 2 more. Browse upcoming dates, start times and who's playing. Carrer de Bori i FontestÃ , 25, SarriÃ -Sant Gervasi, 08021 Barcelona [2].
 
@@ -23,4 +23,4 @@ BORIS CLUB is a music venue in Barcelona listed on soundcheck. 15 upcoming night
 
 Carrer de Bori i FontestÃ , 25, SarriÃ -Sant Gervasi, 08021 Barcelona [2], Barcelona
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/boris-club/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/boris-club/)*

@@ -1,6 +1,6 @@
 # D Soulstream
 
-D Soulstream is a Deep House and House artist with 1 upcoming club date listed on soundcheck as of Fri, 11 Sept 2026, next at Fållan, Stockholm on Fri, 25 Sept 2026.
+D Soulstream is a Deep House and House artist with 1 upcoming club date listed on soundcheck as of Sat, 12 Sept 2026, next at Fållan, Stockholm on Fri, 25 Sept 2026.
 
 D Soulstream is a deep house and house artist tracked on soundcheck, with 22 sets logged across Stockholm. Often billed alongside Mad Mats, DJ Kekki and Dennis Christensen. Next up: Fållan, Stockholm on Fri 25 Sept.
 
@@ -25,4 +25,4 @@ D Soulstream is a deep house and house artist tracked on soundcheck, with 22 set
 
 Mad Mats, DJ Kekki, Dennis Christensen
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dsoulstream/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dsoulstream/)*

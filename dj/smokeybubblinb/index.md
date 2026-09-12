@@ -1,8 +1,8 @@
 # Smokey Bubblin' B
 
-Smokey Bubblin' B is a House and Garage artist with 7 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at Studio 338, London on Sat, 12 Sept 2026.
+Smokey Bubblin' B is a House and Garage artist with 8 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Studio 338, London on Sat, 12 Sept 2026.
 
-Smokey Bubblin' B is a house and garage artist tracked on soundcheck, with 61 sets logged across Austin, Barcelona, Birmingham and Brighton and 12 more. Often billed alongside George Mensah, Sammy Porter and Tilli Murphy. Next up: Studio 338, London on Sat 12 Sept.
+Smokey Bubblin' B is a house and garage artist tracked on soundcheck, with 62 sets logged across Austin, Barcelona, Birmingham and Brighton and 12 more. Often billed alongside George Mensah, Sammy Porter and Tilli Murphy. Next up: Studio 338, London on Sat 12 Sept.
 
 ## Upcoming shows
 
@@ -15,6 +15,7 @@ Smokey Bubblin' B is a house and garage artist tracked on soundcheck, with 61 se
 | Fri, 16 Oct 2026 | fabric | London |
 | Sat, 31 Oct 2026 | Chelmsford City Racecourse | London |
 | Fri, 13 Nov 2026 | The Concourse Project | Austin |
+| Sat, 5 Dec 2026 | ark (Melb) | Melbourne |
 
 ## Recently played
 
@@ -31,4 +32,4 @@ Smokey Bubblin' B is a house and garage artist tracked on soundcheck, with 61 se
 
 George Mensah, Sammy Porter, Tilli Murphy
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/smokeybubblinb/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/smokeybubblinb/)*

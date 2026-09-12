@@ -1,6 +1,6 @@
 # Avalon Emerson
 
-Avalon Emerson is a Techno and House artist with 12 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at Sleeping Village, Chicago on Tue, 15 Sept 2026.
+Avalon Emerson is a Techno and House artist with 12 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Sleeping Village, Chicago on Tue, 15 Sept 2026.
 
 Avalon Emerson is a techno and house artist tracked on soundcheck, with 180 sets logged across Amsterdam, Antwerp, Athens and Austin and 47 more. Often billed alongside Sedef Adasï, BASHKKA and Roi Perez. Next up: Sleeping Village, Chicago on Tue 15 Sept.
 
@@ -36,4 +36,4 @@ Avalon Emerson is a techno and house artist tracked on soundcheck, with 180 sets
 
 Sedef Adasï, BASHKKA, Roi Perez
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/avalonemerson/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/avalonemerson/)*

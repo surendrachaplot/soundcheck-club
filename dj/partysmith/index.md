@@ -1,6 +1,6 @@
 # Party Smith
 
-Party Smith is a Techno and Acid artist with 1 upcoming club date listed on soundcheck as of Fri, 11 Sept 2026, next at Desterro, Lisbon on Sat, 12 Sept 2026.
+Party Smith is a Techno and Acid artist with 1 upcoming club date listed on soundcheck as of Sat, 12 Sept 2026, next at Desterro, Lisbon on Sat, 12 Sept 2026.
 
 Party Smith is a techno and acid artist tracked on soundcheck, with 15 sets logged across Copenhagen and Lisbon. Often billed alongside Cionny, ELA Residents and Guy from 1990. Next up: Desterro, Lisbon on Sat 12 Sept.
 
@@ -25,4 +25,4 @@ Party Smith is a techno and acid artist tracked on soundcheck, with 15 sets logg
 
 Cionny, ELA Residents, Guy from 1990
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/partysmith/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/partysmith/)*

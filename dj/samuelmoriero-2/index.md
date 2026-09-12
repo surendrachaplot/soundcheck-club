@@ -1,6 +1,6 @@
 # Samuel Moriero (2)
 
-Samuel Moriero (2) is a Techno and Hardcore artist with 6 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at Afas Live, Amsterdam on Sun, 25 Oct 2026.
+Samuel Moriero (2) is a Techno and Hardcore artist with 6 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Afas Live, Amsterdam on Sun, 25 Oct 2026.
 
 Samuel Moriero (2) is a techno and hardcore artist tracked on soundcheck, with 17 sets logged across Amsterdam, Antwerp, Barcelona and Berlin and 9 more. Often billed alongside Onlynumbers, 999999999 and BØĘRY. Next up: Afas Live, Amsterdam on Sun 25 Oct.
 
@@ -30,4 +30,4 @@ Samuel Moriero (2) is a techno and hardcore artist tracked on soundcheck, with 1
 
 Onlynumbers, 999999999, BØĘRY
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/samuelmoriero-2/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/samuelmoriero-2/)*

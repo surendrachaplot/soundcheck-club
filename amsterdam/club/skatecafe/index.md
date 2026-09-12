@@ -1,14 +1,13 @@
 # Skatecafe
 
-Skatecafe is a music venue in Amsterdam with 26 upcoming nights listed on soundcheck as of Fri, 11 Sept 2026; the next is "SPINNING ANGELS" on Fri, 11 Sept 2026.
+Skatecafe is a music venue in Amsterdam with 25 upcoming nights listed on soundcheck as of Sat, 12 Sept 2026; the next is "SPINNING ANGELS" on Fri, 11 Sept 2026.
 
-Skatecafe is a music venue in Amsterdam listed on soundcheck. 26 upcoming nights, with line-ups including A For Alpha, amara, Amz and Anèl and 2 more. Browse upcoming dates, start times and who's playing. Gedempt Hamerkanaal 42.
+Skatecafe is a music venue in Amsterdam listed on soundcheck. 25 upcoming nights, with line-ups including A For Alpha, amara, Amz and Anèl and 2 more. Browse upcoming dates, start times and who's playing. Gedempt Hamerkanaal 42.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 11 Sept 2026 | SPINNING ANGELS |  |
 | Fri, 11 Sept 2026 | SPINNING ANGELS | Bibtiana, Chinnamasta, DRKNGHTS, Not Related |
 | Sat, 12 Sept 2026 | TOURIST TRAP & SEEDLINIK | LENny (IT), Le Le, Not A Fan, Samuelspaniel, WANNABEASTAR, orczi96 |
 | Fri, 18 Sept 2026 | CLUB NIGHT | EYCEE, James BF, Jan Koster, Lieke TR, Passion DEEZ, Runningman, Sjamsoedin |
@@ -18,9 +17,10 @@ Skatecafe is a music venue in Amsterdam listed on soundcheck. 26 upcoming nights
 | Sat, 26 Sept 2026 | WAP SHOO WAP PRESENTS: SPLIT SYSTEM (AUS) + THE ETTERS (LIVE) |  |
 | Sat, 26 Sept 2026 | Eurotech & G-TEC RECORDS PRESENT: EUROTEX | Eurotech, Flansie, JSPRV35, Jolani Jhones, Krismika, Megan Jane, Sunnysoposted, jannah, milliyen |
 | Fri, 2 Oct 2026 | HET VELD: THE SECOND TRANSMISSION |  |
+| Fri, 2 Oct 2026 | het veld: The Second Transmission | Bibtiana, LOU FRE$H, MESSIE, Mathiéux, gau7t |
 
 ## Address
 
 Gedempt Hamerkanaal 42, Amsterdam
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/skatecafe/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/skatecafe/)*

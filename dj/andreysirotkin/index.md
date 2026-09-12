@@ -1,6 +1,6 @@
 # Andrey Sirotkin
 
-Andrey Sirotkin is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 11 Sept 2026, next at Luzztro, Warsaw on Fri, 11 Sept 2026.
+Andrey Sirotkin is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 12 Sept 2026, next at Luzztro, Warsaw on Fri, 11 Sept 2026.
 
 Andrey Sirotkin is a house and techno artist tracked on soundcheck, with 8 sets logged across Berlin and Warsaw. Often billed alongside HANICZ, KoZa and Mabu. Next up: Luzztro, Warsaw on Fri 11 Sept.
 
@@ -12,6 +12,7 @@ Andrey Sirotkin is a house and techno artist tracked on soundcheck, with 8 sets 
 
 ## Recently played
 
+- Luzztro, Warsaw — Fri, 11 Sept 2026
 - Luzztro, Warsaw — Sat, 21 Mar 2026
 - Luzztro, Warsaw — Sat, 6 Dec 2025
 - Luzztro, Warsaw — Fri, 12 Sept 2025
@@ -24,4 +25,4 @@ Andrey Sirotkin is a house and techno artist tracked on soundcheck, with 8 sets 
 
 HANICZ, KoZa, Mabu
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/andreysirotkin/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/andreysirotkin/)*

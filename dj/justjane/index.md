@@ -1,6 +1,6 @@
 # Just Jane
 
-Just Jane is a Garage and Drum & Bass artist with 3 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at Phonox, London on Fri, 18 Sept 2026.
+Just Jane is a Garage and Drum & Bass artist with 3 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Phonox, London on Fri, 18 Sept 2026.
 
 Just Jane is a garage and drum & bass artist tracked on soundcheck, with 84 sets logged across Amsterdam, Barcelona, Berlin and Brighton and 10 more. Often billed alongside Tim Reaper, Oldboy (2) and Plastician. Next up: Phonox, London on Fri 18 Sept.
 
@@ -27,4 +27,4 @@ Just Jane is a garage and drum & bass artist tracked on soundcheck, with 84 sets
 
 Tim Reaper, Oldboy (2), Plastician
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/justjane/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/justjane/)*

@@ -1,6 +1,6 @@
 # NAYRA
 
-NAYRA is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 11 Sept 2026, next at TBA - SARAB - Bali Lane, Singapore on Fri, 11 Sept 2026.
+NAYRA is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 12 Sept 2026, next at TBA - SARAB - Bali Lane, Singapore on Fri, 11 Sept 2026.
 
 NAYRA is a house and techno artist tracked on soundcheck, with 8 sets logged across Paris and Singapore. Often billed alongside Call Me Ben, Alex Cancino and Enzo Siffredi. Next up: TBA - SARAB - Bali Lane, Singapore on Fri 11 Sept.
 
@@ -12,6 +12,7 @@ NAYRA is a house and techno artist tracked on soundcheck, with 8 sets logged acr
 
 ## Recently played
 
+- TBA - SARAB - Bali Lane, Singapore — Fri, 11 Sept 2026
 - RASA, Singapore — Fri, 26 Jun 2026
 - Le point fort d'Aubervilliers, Paris — Sat, 13 Jun 2026
 - RASA, Singapore — Fri, 22 May 2026
@@ -24,4 +25,4 @@ NAYRA is a house and techno artist tracked on soundcheck, with 8 sets logged acr
 
 Call Me Ben, Alex Cancino, Enzo Siffredi
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nayra/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nayra/)*

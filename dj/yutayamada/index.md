@@ -1,6 +1,6 @@
 # Yuta Yamada
 
-Yuta Yamada is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Fri, 11 Sept 2026, next at The Cause, London on Sat, 26 Sept 2026.
+Yuta Yamada is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Sat, 12 Sept 2026, next at The Cause, London on Sat, 26 Sept 2026.
 
 Yuta Yamada is a house and tech house artist based in Japan, tracked on soundcheck, with 75 sets logged across Amsterdam, Barcelona, Berlin and London and 4 more. Often billed alongside Aiko Inoue, GooPer and Amps. Next up: The Cause, London on Sat 26 Sept.
 
@@ -25,4 +25,4 @@ Yuta Yamada is a house and tech house artist based in Japan, tracked on soundche
 
 Aiko Inoue, GooPer, Amps
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/yutayamada/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/yutayamada/)*

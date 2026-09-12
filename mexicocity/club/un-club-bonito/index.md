@@ -1,6 +1,6 @@
 # un club bonito
 
-un club bonito is a music venue in Mexico City with 4 upcoming nights listed on soundcheck as of Fri, 11 Sept 2026; the next is "[sic] x Donna: Diego Walle / OMFDAN / Pablo Lara" on Fri, 11 Sept 2026.
+un club bonito is a music venue in Mexico City with 4 upcoming nights listed on soundcheck as of Sat, 12 Sept 2026; the next is "[sic] x Donna: Diego Walle / OMFDAN / Pablo Lara" on Fri, 11 Sept 2026.
 
 un club bonito is a music venue in Mexicocity listed on soundcheck. 4 upcoming nights, with line-ups including AddlyMuff, Diego Walle, OMFDAN and Pablo Lara. Browse upcoming dates, start times and who's playing. Nuevo Leon 89.
 
@@ -17,4 +17,4 @@ un club bonito is a music venue in Mexicocity listed on soundcheck. 4 upcoming n
 
 Nuevo Leon 89, Mexico City
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/mexicocity/club/un-club-bonito/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/mexicocity/club/un-club-bonito/)*

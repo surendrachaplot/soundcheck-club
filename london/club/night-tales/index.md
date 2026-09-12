@@ -1,8 +1,8 @@
 # Night Tales
 
-Night Tales is a music venue in London with 30 upcoming nights listed on soundcheck as of Fri, 11 Sept 2026; the next is "Cécille Records: Nick Curley, Rooléh, Easttown" on Fri, 11 Sept 2026.
+Night Tales is a music venue in London with 32 upcoming nights listed on soundcheck as of Sat, 12 Sept 2026; the next is "Cécille Records: Nick Curley, Rooléh, Easttown" on Fri, 11 Sept 2026.
 
-Night Tales is a music venue in London listed on soundcheck. 30 upcoming nights, with line-ups including 90 (1), Paula Tape, Alex Neri and Billy Daniel Bunter and 2 more. Browse upcoming dates, start times and who's playing. 14 Bohemia Pl, London E8 1DU, United Kingdom.
+Night Tales is a music venue in London listed on soundcheck. 32 upcoming nights, with line-ups including 90 (1), Paula Tape, Alex Neri and Billy Daniel Bunter and 2 more. Browse upcoming dates, start times and who's playing. 14 Bohemia Pl, London E8 1DU, United Kingdom.
 
 ## What's on
 
@@ -23,4 +23,4 @@ Night Tales is a music venue in London listed on soundcheck. 30 upcoming nights,
 
 14 Bohemia Pl, London E8 1DU, United Kingdom, London
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/night-tales/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/night-tales/)*

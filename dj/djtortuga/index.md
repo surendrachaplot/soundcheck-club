@@ -1,6 +1,6 @@
 # DJ Tortuga
 
-DJ Tortuga is a Afro House and House artist with 1 upcoming club date listed on soundcheck as of Fri, 11 Sept 2026, next at TBA, Barcelona on Sun, 27 Sept 2026.
+DJ Tortuga is a Afro House and House artist with 1 upcoming club date listed on soundcheck as of Sat, 12 Sept 2026, next at TBA, Barcelona on Sun, 27 Sept 2026.
 
 DJ Tortuga is an afro house and house artist tracked on soundcheck, with 6 sets logged across Barcelona. Often billed alongside Charlins, DJ Mats and Alex Silva. Next up: TBA, Barcelona on Sun 27 Sept.
 
@@ -22,4 +22,4 @@ DJ Tortuga is an afro house and house artist tracked on soundcheck, with 6 sets 
 
 Charlins, DJ Mats, Alex Silva
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djtortuga/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djtortuga/)*

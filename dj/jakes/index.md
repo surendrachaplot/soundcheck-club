@@ -1,6 +1,6 @@
 # Jakes
 
-Jakes is a Drum & Bass and Jungle artist with 6 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at Sawmills, Bristol on Sat, 12 Sept 2026.
+Jakes is a Drum & Bass and Jungle artist with 6 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Sawmills, Bristol on Sat, 12 Sept 2026.
 
 Jakes is a drum & bass and jungle artist tracked on soundcheck, with 64 sets logged across Bali, Bristol, Bucharest and Budapest and 5 more. Often billed alongside Carasel, SP:MC and Enei. Next up: Sawmills, Bristol on Sat 12 Sept.
 
@@ -30,4 +30,4 @@ Jakes is a drum & bass and jungle artist tracked on soundcheck, with 64 sets log
 
 Carasel, SP:MC, Enei
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jakes/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jakes/)*

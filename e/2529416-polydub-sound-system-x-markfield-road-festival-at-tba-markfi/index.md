@@ -1,6 +1,6 @@
 # PolyDub Sound System X Markfield Road Festival at TBA - Markfield Road N15 - outdoors
 
-PolyDub Sound System X Markfield Road Festival at TBA - Markfield Road N15 - outdoors on Fri 11 Sept, London. 4 acts on the bill: Big Leg, Jon K, Shelfgoose and Slosi. Dub and Electronica. Preview the line-up and save it on soundcheck.
+PolyDub Sound System X Markfield Road Festival at TBA - Markfield Road N15 - outdoors on Fri 11 Sept, London. 5 acts on the bill: Big Leg, Dennis Bovell, Jon K and Shelfgoose and 1 more. Dub and Electronica. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,6 +11,7 @@ PolyDub Sound System X Markfield Road Festival at TBA - Markfield Road N15 - out
 ## Line-up
 
 - Big Leg
+- Dennis Bovell
 - Jon K
 - Shelfgoose
 - Slosi

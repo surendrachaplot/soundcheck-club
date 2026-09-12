@@ -1,6 +1,6 @@
 # Steve Bug
 
-Steve Bug is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at Minimüzikhol, Istanbul on Fri, 11 Sept 2026.
+Steve Bug is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Minimüzikhol, Istanbul on Fri, 11 Sept 2026.
 
 Steve Bug is a house and techno artist tracked on soundcheck, with 51 sets logged across Amsterdam, Auckland, Barcelona and Belgrade and 28 more. Often billed alongside Mathias Kaden, Steve Challier and miAs. Next up: Minimüzikhol, Istanbul on Fri 11 Sept.
 
@@ -15,6 +15,7 @@ Steve Bug is a house and techno artist tracked on soundcheck, with 51 sets logge
 
 ## Recently played
 
+- Minimüzikhol, Istanbul — Fri, 11 Sept 2026
 - VENT, Tokyo — Sat, 18 Jul 2026
 - BAR Inc, Osaka — Fri, 17 Jul 2026
 - Hertz, Seoul — Thu, 16 Jul 2026
@@ -22,10 +23,9 @@ Steve Bug is a house and techno artist tracked on soundcheck, with 51 sets logge
 - Kiesgrube, Düsseldorf — Sat, 20 Jun 2026
 - Crobar - Buenos Aires, Buenos Aires — Fri, 22 May 2026
 - Kater, Berlin — Sat, 4 Apr 2026
-- Gewölbe, Cologne — Sat, 4 Apr 2026
 
 ## Shares bills with
 
 Mathias Kaden, Steve Challier, miAs
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/stevebug/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/stevebug/)*

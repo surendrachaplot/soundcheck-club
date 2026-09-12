@@ -1,6 +1,6 @@
 # Sparrow & Barbossa
 
-Sparrow & Barbossa is a Afro House and House artist with 1 upcoming club date listed on soundcheck as of Fri, 11 Sept 2026, next at Lula Club, Madrid on Sat, 26 Sept 2026.
+Sparrow & Barbossa is a Afro House and House artist with 1 upcoming club date listed on soundcheck as of Sat, 12 Sept 2026, next at Lula Club, Madrid on Sat, 26 Sept 2026.
 
 Sparrow & Barbossa are an afro house and house duo tracked on soundcheck, with 97 sets logged across Amsterdam, Austin, Bali and Barcelona and 29 more. Often billed alongside Francis Mercier, MoBlack and Prospa. Next up: Lula Club, Madrid on Sat 26 Sept.
 
@@ -25,4 +25,4 @@ Sparrow & Barbossa are an afro house and house duo tracked on soundcheck, with 9
 
 Francis Mercier, MoBlack, Prospa
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sparrowbarbossa/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sparrowbarbossa/)*

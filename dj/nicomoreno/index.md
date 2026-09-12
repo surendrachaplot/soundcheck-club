@@ -1,6 +1,6 @@
 # Nico Moreno
 
-Nico Moreno is a Techno and House artist with 7 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at Circuit de Barcelona - Catalunya, Barcelona on Fri, 11 Sept 2026.
+Nico Moreno is a Techno and House artist with 7 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Circuit de Barcelona - Catalunya, Barcelona on Fri, 11 Sept 2026.
 
 Nico Moreno is a techno and house artist tracked on soundcheck, with 192 sets logged across Amsterdam, Antwerp, Athens and Austin and 64 more. Often billed alongside I Hate Models, DYEN and Trym. Next up: Circuit de Barcelona - Catalunya, Barcelona on Fri 11 Sept.
 
@@ -18,6 +18,7 @@ Nico Moreno is a techno and house artist tracked on soundcheck, with 192 sets lo
 
 ## Recently played
 
+- Circuit de Barcelona - Catalunya, Barcelona — Fri, 11 Sept 2026
 - TBA, Toronto — Sun, 6 Sept 2026
 - Union Park, Chicago — Fri, 4 Sept 2026
 - Medusa Beach, Valencia — Thu, 13 Aug 2026
@@ -25,10 +26,9 @@ Nico Moreno is a techno and house artist tracked on soundcheck, with 192 sets lo
 - Hippodrome De Longchamp, Paris — Fri, 26 Jun 2026
 - Ushuaïa Ibiza, Ibiza — Wed, 27 May 2026
 - Edelfettwerk, Hamburg — Sat, 23 May 2026
-- UNO MALTA, Malta — Thu, 21 May 2026
 
 ## Shares bills with
 
 I Hate Models, DYEN, Trym
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nicomoreno/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nicomoreno/)*

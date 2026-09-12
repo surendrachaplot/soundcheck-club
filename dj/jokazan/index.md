@@ -1,6 +1,6 @@
 # Jo Kazan
 
-Jo Kazan is a Electro and Italo Disco artist with 1 upcoming club date listed on soundcheck as of Fri, 11 Sept 2026, next at Freedonia, Barcelona on Fri, 11 Sept 2026.
+Jo Kazan is a Electro and Italo Disco artist with 1 upcoming club date listed on soundcheck as of Sat, 12 Sept 2026, next at Freedonia, Barcelona on Fri, 11 Sept 2026.
 
 Jo Kazan is an electro and italo disco artist tracked on soundcheck, with 67 sets logged across Barcelona, Berlin, Madrid and Paris and 1 more. Often billed alongside Andrea Love, Alice Youngling and Cabana. Next up: Freedonia, Barcelona on Fri 11 Sept.
 
@@ -12,6 +12,7 @@ Jo Kazan is an electro and italo disco artist tracked on soundcheck, with 67 set
 
 ## Recently played
 
+- Freedonia, Barcelona — Fri, 11 Sept 2026
 - Almar Beach Club, Barcelona — Fri, 28 Aug 2026
 - Almar Beach Club, Barcelona — Fri, 31 Jul 2026
 - Freedonia, Barcelona — Tue, 23 Jun 2026
@@ -19,10 +20,9 @@ Jo Kazan is an electro and italo disco artist tracked on soundcheck, with 67 set
 - Freedonia, Barcelona — Fri, 5 Jun 2026
 - Freedonia, Barcelona — Fri, 24 Apr 2026
 - Freedonia, Barcelona — Fri, 5 Dec 2025
-- Freedonia, Barcelona — Fri, 14 Nov 2025
 
 ## Shares bills with
 
 Andrea Love, Alice Youngling, Cabana
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jokazan/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jokazan/)*

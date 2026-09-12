@@ -1,6 +1,6 @@
 # Nikki Guild
 
-Nikki Guild is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at The Bongo Club, Edinburgh on Wed, 16 Sept 2026.
+Nikki Guild is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at The Bongo Club, Edinburgh on Wed, 16 Sept 2026.
 
 Nikki Guild is a house and techno artist tracked on soundcheck, with 13 sets logged across Edinburgh. Often billed alongside ona:v, Iona.Violet and Bartek. Next up: The Bongo Club, Edinburgh on Wed 16 Sept.
 
@@ -26,4 +26,4 @@ Nikki Guild is a house and techno artist tracked on soundcheck, with 13 sets log
 
 ona:v, Iona.Violet, Bartek
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nikkiguild/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nikkiguild/)*

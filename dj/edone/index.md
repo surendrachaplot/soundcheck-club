@@ -1,6 +1,6 @@
 # EdOne
 
-EdOne is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 11 Sept 2026, next at Onder Hans, Amsterdam on Fri, 23 Oct 2026.
+EdOne is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 12 Sept 2026, next at Onder Hans, Amsterdam on Fri, 23 Oct 2026.
 
 EdOne is a house and techno artist based in Spain, tracked on soundcheck, with 26 sets logged across Amsterdam, Athens, Barcelona and Berlin and 10 more. Often billed alongside Althoff, Baime and Sezer Uysal. Next up: Onder Hans, Amsterdam on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ EdOne is a house and techno artist based in Spain, tracked on soundcheck, with 2
 
 Althoff, Baime, Sezer Uysal
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/edone/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/edone/)*

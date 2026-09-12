@@ -1,6 +1,6 @@
 # Bendito
 
-Bendito is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Fri, 11 Sept 2026, next at Dead Letter No. 9, New York City on Sat, 19 Sept 2026.
+Bendito is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Sat, 12 Sept 2026, next at Dead Letter No. 9, New York City on Sat, 19 Sept 2026.
 
 Bendito is a house and disco artist tracked on soundcheck, with 86 sets logged across Chicago, Houston, London and Montreal and 3 more. Often billed alongside Jeremy Giros, Donis and Elephantglasses. Next up: Dead Letter No. 9, Newyorkcity on Sat 19 Sept.
 
@@ -25,4 +25,4 @@ Bendito is a house and disco artist tracked on soundcheck, with 86 sets logged a
 
 Jeremy Giros, Donis, Elephantglasses
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bendito/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bendito/)*

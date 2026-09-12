@@ -1,13 +1,14 @@
 # Pulso (2)
 
-Pulso (2) is a Techno and Club artist with 1 upcoming club date listed on soundcheck as of Fri, 11 Sept 2026, next at Fvtvr, Paris on Sat, 26 Sept 2026.
+Pulso (2) is a Techno and Club artist with 2 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Under Club, Buenos Aires on Sat, 19 Sept 2026.
 
-Pulso (2) is a techno and club artist tracked on soundcheck, with 21 sets logged across Amsterdam, Boston, Budapest and Buenosaires and 5 more. Often billed alongside DJ Crimson, HVL and Indirect Movement. Next up: Fvtvr, Paris on Sat 26 Sept.
+Pulso (2) is a techno and club artist tracked on soundcheck, with 22 sets logged across Amsterdam, Boston, Budapest and Buenosaires and 5 more. Often billed alongside DJ Crimson, HVL and Indirect Movement. Next up: Under Club, Buenosaires on Sat 19 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 19 Sept 2026 | Under Club | Buenos Aires |
 | Sat, 26 Sept 2026 | Fvtvr | Paris |
 
 ## Recently played
@@ -25,4 +26,4 @@ Pulso (2) is a techno and club artist tracked on soundcheck, with 21 sets logged
 
 DJ Crimson, HVL, Indirect Movement
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/pulso-2/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/pulso-2/)*

@@ -1,6 +1,6 @@
 # Hardcore Babes
 
-Hardcore Babes is a Jungle and Drum & Bass artist with 2 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at 24 Kitchen Street, Liverpool on Tue, 22 Sept 2026.
+Hardcore Babes is a Jungle and Drum & Bass artist with 2 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at 24 Kitchen Street, Liverpool on Tue, 22 Sept 2026.
 
 Hardcore Babes is a jungle and drum & bass artist tracked on soundcheck, with 20 sets logged across Brighton, Liverpool, London and Manchester and 1 more. Often billed alongside 4am Kru, Pacemaker and Sexy Lady Massive. Next up: 24 Kitchen Street, Liverpool on Tue 22 Sept.
 
@@ -26,4 +26,4 @@ Hardcore Babes is a jungle and drum & bass artist tracked on soundcheck, with 20
 
 4am Kru, Pacemaker, Sexy Lady Massive
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/hardcorebabes/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/hardcorebabes/)*

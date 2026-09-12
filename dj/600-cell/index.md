@@ -1,6 +1,6 @@
 # 600-cell
 
-600-cell is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 11 Sept 2026, next at ZIRKA, Munich on Sat, 26 Sept 2026.
+600-cell is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 12 Sept 2026, next at ZIRKA, Munich on Sat, 26 Sept 2026.
 
 600-cell is a house and techno artist based in Germany, tracked on soundcheck, with 39 sets logged across Munich and Vienna. Often billed alongside Bogus Trumper, Muallem and BASHKKA. Next up: ZIRKA, Munich on Sat 26 Sept.
 
@@ -25,4 +25,4 @@
 
 Bogus Trumper, Muallem, BASHKKA
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/600-cell/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/600-cell/)*

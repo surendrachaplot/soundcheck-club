@@ -1,6 +1,6 @@
 # ISA (ES)
 
-ISA (ES) is a Trance and Techno artist with 3 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at LFO.exp, Madrid on Fri, 18 Sept 2026.
+ISA (ES) is a Trance and Techno artist with 3 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at LFO.exp, Madrid on Fri, 18 Sept 2026.
 
 ISA (ES) is a trance and techno artist tracked on soundcheck, with 79 sets logged across Barcelona, Berlin, Brussels and Glasgow and 9 more. Often billed alongside Mademoisel, Alviker and DJ Botanika. Next up: LFO.exp, Madrid on Fri 18 Sept.
 
@@ -27,4 +27,4 @@ ISA (ES) is a trance and techno artist tracked on soundcheck, with 79 sets logge
 
 Mademoisel, Alviker, DJ Botanika
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/isa-es/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/isa-es/)*

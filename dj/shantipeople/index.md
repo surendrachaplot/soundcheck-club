@@ -1,6 +1,6 @@
 # Shanti People
 
-Shanti People is a Techno and Psytrance artist with 3 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at Alte Kaserne, Zurich on Fri, 11 Sept 2026.
+Shanti People is a Techno and Psytrance artist with 3 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Alte Kaserne, Zurich on Fri, 11 Sept 2026.
 
 Shanti People is a techno and psytrance artist based in Ukraine, tracked on soundcheck, with 10 sets logged across Barcelona, London, Madrid and Melbourne and 3 more. Often billed alongside Ambient Pino, Astrix and Berg. Next up: Alte Kaserne, Zurich on Fri 11 Sept.
 
@@ -14,6 +14,7 @@ Shanti People is a techno and psytrance artist based in Ukraine, tracked on soun
 
 ## Recently played
 
+- Alte Kaserne, Zurich — Fri, 11 Sept 2026
 - Alte Kaserne, Zurich — Sat, 30 May 2026
 - Archives, London — Sun, 5 Apr 2026
 - Alte Kaserne, Zurich — Sat, 1 Nov 2025
@@ -26,4 +27,4 @@ Shanti People is a techno and psytrance artist based in Ukraine, tracked on soun
 
 Ambient Pino, Astrix, Berg
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/shantipeople/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/shantipeople/)*

@@ -1,6 +1,6 @@
 # Yushh
 
-Yushh is a Bass and Techno artist with 4 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at Camp Kennybrook, New York City on Thu, 10 Sept 2026.
+Yushh is a Bass and Techno artist with 4 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Camp Kennybrook, New York City on Thu, 10 Sept 2026.
 
 Yushh is a bass and techno artist tracked on soundcheck, with 110 sets logged across Adelaide, Amsterdam, Athens and Basel and 27 more. Often billed alongside Breaka, Dubrunner and Batu. Next up: Camp Kennybrook, Newyorkcity on Thu 10 Sept.
 
@@ -28,4 +28,4 @@ Yushh is a bass and techno artist tracked on soundcheck, with 110 sets logged ac
 
 Breaka, Dubrunner, Batu
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/yushh/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/yushh/)*

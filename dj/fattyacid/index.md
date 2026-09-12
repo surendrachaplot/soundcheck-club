@@ -1,6 +1,6 @@
 # fatty acid
 
-fatty acid is a Techno and Garage artist with 1 upcoming club date listed on soundcheck as of Fri, 11 Sept 2026, next at BAR15, Stockholm on Sat, 26 Sept 2026.
+fatty acid is a Techno and Garage artist with 1 upcoming club date listed on soundcheck as of Sat, 12 Sept 2026, next at BAR15, Stockholm on Sat, 26 Sept 2026.
 
 fatty acid is a techno and garage artist tracked on soundcheck, with 18 sets logged across Bangkok, London, Manchester and Stockholm. Often billed alongside Karin Bernstrup, Dgeral and Dukkha. Next up: BAR15, Stockholm on Sat 26 Sept.
 
@@ -25,4 +25,4 @@ fatty acid is a techno and garage artist tracked on soundcheck, with 18 sets log
 
 Karin Bernstrup, Dgeral, Dukkha
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/fattyacid/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/fattyacid/)*

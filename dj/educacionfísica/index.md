@@ -1,6 +1,6 @@
 # educación física
 
-educación física is a Techno and Acid artist with 1 upcoming club date listed on soundcheck as of Fri, 11 Sept 2026, next at Skylight Warehouse, Vancouver on Fri, 18 Sept 2026.
+educación física is a Techno and Acid artist with 1 upcoming club date listed on soundcheck as of Sat, 12 Sept 2026, next at Skylight Warehouse, Vancouver on Fri, 18 Sept 2026.
 
 educación física is a techno and acid artist based in Mexico, tracked on soundcheck, with 16 sets logged across Mexicocity, Seattle and Vancouver. Often billed alongside Fisher Bryce, jiggity jeff and DJ dood. Next up: Skylight Warehouse, Vancouver on Fri 18 Sept.
 
@@ -25,4 +25,4 @@ educación física is a techno and acid artist based in Mexico, tracked on sound
 
 Fisher Bryce, jiggity jeff, DJ dood
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/educacionfísica/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/educacionfísica/)*

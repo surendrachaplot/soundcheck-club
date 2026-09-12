@@ -1,6 +1,6 @@
 # Shanti Celeste
 
-Shanti Celeste is a House and Techno artist with 11 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at UNO MALTA, Malta on Fri, 18 Sept 2026.
+Shanti Celeste is a House and Techno artist with 11 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at UNO MALTA, Malta on Fri, 18 Sept 2026.
 
 Shanti Celeste is a house and techno artist tracked on soundcheck, with 214 sets logged across Amsterdam, Antwerp, Bali and Barcelona and 54 more. Often billed alongside Peach, Saoirse and Ogazón. Next up: UNO MALTA, Malta on Fri 18 Sept.
 
@@ -35,4 +35,4 @@ Shanti Celeste is a house and techno artist tracked on soundcheck, with 214 sets
 
 Peach, Saoirse, Ogazón
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/shanticeleste/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/shanticeleste/)*

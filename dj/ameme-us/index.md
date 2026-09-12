@@ -1,6 +1,6 @@
 # AMÉMÉ
 
-AMÉMÉ is a Afro House and House artist with 10 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at Pacha, Munich on Sat, 12 Sept 2026.
+AMÉMÉ is a Afro House and House artist with 10 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Pacha, Munich on Sat, 12 Sept 2026.
 
 AMÉMÉ is an afro house and house artist tracked on soundcheck, with 145 sets logged across Amsterdam, Antwerp, Athens and Austin and 36 more. Often billed alongside Jamie Jones, Loco Dice and NenaHalena. Next up: Pacha, Munich on Sat 12 Sept.
 
@@ -34,4 +34,4 @@ AMÉMÉ is an afro house and house artist tracked on soundcheck, with 145 sets l
 
 Jamie Jones, Loco Dice, NenaHalena
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ameme-us/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ameme-us/)*

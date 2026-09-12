@@ -1,6 +1,6 @@
 # Animistic Beliefs
 
-Animistic Beliefs is a Techno and Experimental artist with 5 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at Nitsa Club, Barcelona on Sat, 19 Sept 2026.
+Animistic Beliefs is a Techno and Experimental artist with 5 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Nitsa Club, Barcelona on Sat, 19 Sept 2026.
 
 Animistic Beliefs is a techno and experimental artist based in Netherlands, tracked on soundcheck, with 85 sets logged across Amsterdam, Athens, Bali and Barcelona and 29 more. Often billed alongside Lee Gamble, bela and Helena Hauff. Next up: Nitsa Club, Barcelona on Sat 19 Sept.
 
@@ -29,4 +29,4 @@ Animistic Beliefs is a techno and experimental artist based in Netherlands, trac
 
 Lee Gamble, bela, Helena Hauff
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/animisticbeliefs/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/animisticbeliefs/)*

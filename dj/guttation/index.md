@@ -1,6 +1,6 @@
 # guttation
 
-guttation is a Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 11 Sept 2026, next at Humboldthain Club, Berlin on Fri, 11 Sept 2026.
+guttation is a Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 12 Sept 2026, next at Humboldthain Club, Berlin on Fri, 11 Sept 2026.
 
 guttation is a techno artist based in Germany, tracked on soundcheck, with 6 sets logged across Berlin. Often billed alongside Epicx, AHAB and Anna Almani. Next up: Humboldthain Club, Berlin on Fri 11 Sept.
 
@@ -12,6 +12,7 @@ guttation is a techno artist based in Germany, tracked on soundcheck, with 6 set
 
 ## Recently played
 
+- Humboldthain Club, Berlin — Fri, 11 Sept 2026
 - Der Weiße Hase, Berlin — Sat, 25 Jul 2026
 - Der Weiße Hase, Berlin — Sat, 23 May 2026
 - Der Weiße Hase, Berlin — Sat, 24 Jan 2026
@@ -22,4 +23,4 @@ guttation is a techno artist based in Germany, tracked on soundcheck, with 6 set
 
 Epicx, AHAB, Anna Almani
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/guttation/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/guttation/)*

@@ -1,6 +1,6 @@
 # Job de Jong
 
-Job de Jong is a House and Tech House artist with 15 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at Laagravense Plas, Utrecht on Sat, 12 Sept 2026.
+Job de Jong is a House and Tech House artist with 15 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Laagravense Plas, Utrecht on Sat, 12 Sept 2026.
 
 Job de Jong is a house and tech house artist tracked on soundcheck, with 167 sets logged across Aberdeen, Amsterdam, Antwerp and Barcelona and 22 more. Often billed alongside Dennis Quin, Prunk and M-High. Next up: Laagravense Plas, Utrecht on Sat 12 Sept.
 
@@ -36,4 +36,4 @@ Job de Jong is a house and tech house artist tracked on soundcheck, with 167 set
 
 Dennis Quin, Prunk, M-High
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jobdejong/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jobdejong/)*

@@ -1,6 +1,6 @@
 # Simone Zino
 
-Simone Zino is a Techno and Tech House artist with 2 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at fabric, London on Sat, 19 Sept 2026.
+Simone Zino is a Techno and Tech House artist with 2 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at fabric, London on Sat, 19 Sept 2026.
 
 Simone Zino is a techno and tech house artist based in Italy, tracked on soundcheck, with 23 sets logged across Amsterdam, Barcelona, Ibiza and London and 2 more. Often billed alongside R.Korner, Joseph Capriati and Mik&Ale. Next up: fabric, London on Sat 19 Sept.
 
@@ -26,4 +26,4 @@ Simone Zino is a techno and tech house artist based in Italy, tracked on soundch
 
 R.Korner, Joseph Capriati, Mik&Ale
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/simonezino/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/simonezino/)*

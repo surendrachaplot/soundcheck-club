@@ -1,6 +1,6 @@
 # DJ Skizzo
 
-DJ Skizzo is a Tech House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 11 Sept 2026, next at Amnesia Ibiza, Ibiza on Tue, 29 Sept 2026.
+DJ Skizzo is a Tech House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 12 Sept 2026, next at Amnesia Ibiza, Ibiza on Tue, 29 Sept 2026.
 
 DJ Skizzo is a tech house and techno artist based in Italy, tracked on soundcheck, with 23 sets logged across Barcelona, Frankfurt, Ibiza and London and 2 more. Often billed alongside Valenzia, Reboot and Boutiq.808. Next up: Amnesia Ibiza, Ibiza on Tue 29 Sept.
 
@@ -25,4 +25,4 @@ DJ Skizzo is a tech house and techno artist based in Italy, tracked on soundchec
 
 Valenzia, Reboot, Boutiq.808
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djskizzo/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djskizzo/)*

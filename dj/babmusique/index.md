@@ -1,6 +1,6 @@
 # BAB MUSIQUE
 
-BAB MUSIQUE is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 11 Sept 2026, next at Cabaret Sauvage, Paris on Sat, 19 Sept 2026.
+BAB MUSIQUE is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 12 Sept 2026, next at Cabaret Sauvage, Paris on Sat, 19 Sept 2026.
 
 BAB MUSIQUE is a techno and house artist based in France, tracked on soundcheck, with 18 sets logged across Berlin, Marseille and Paris. Often billed alongside KasbaH, Vickies and 42L (1). Next up: Cabaret Sauvage, Paris on Sat 19 Sept.
 
@@ -25,4 +25,4 @@ BAB MUSIQUE is a techno and house artist based in France, tracked on soundcheck,
 
 KasbaH, Vickies, 42L (1)
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/babmusique/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/babmusique/)*

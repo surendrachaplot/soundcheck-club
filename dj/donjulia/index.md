@@ -1,6 +1,6 @@
 # Don Julia
 
-Don Julia is a Dub and Grime artist with 1 upcoming club date listed on soundcheck as of Fri, 11 Sept 2026, next at Club Makossa, London on Sat, 19 Sept 2026.
+Don Julia is a Dub and Grime artist with 1 upcoming club date listed on soundcheck as of Sat, 12 Sept 2026, next at Club Makossa, London on Sat, 19 Sept 2026.
 
 Don Julia is a dub and grime artist tracked on soundcheck, with 6 sets logged across London. Often billed alongside AC Industries, Aur0m and Carien. Next up: Club Makossa, London on Sat 19 Sept.
 
@@ -22,4 +22,4 @@ Don Julia is a dub and grime artist tracked on soundcheck, with 6 sets logged ac
 
 AC Industries, Aur0m, Carien
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/donjulia/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/donjulia/)*

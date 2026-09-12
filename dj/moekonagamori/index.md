@@ -1,6 +1,6 @@
 # Moeko Nagamori
 
-Moeko Nagamori is a House and Drum & Bass artist with 2 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at Shibuya Club Ball, Tokyo on Tue, 22 Sept 2026.
+Moeko Nagamori is a House and Drum & Bass artist with 2 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Shibuya Club Ball, Tokyo on Tue, 22 Sept 2026.
 
 Moeko Nagamori is a house and drum & bass artist tracked on soundcheck, with 12 sets logged across Tokyo. Often billed alongside MASA NAGAMORI, Mulahi De Akkitum aka YAN and DJ ISE. Next up: Shibuya Club Ball, Tokyo on Tue 22 Sept.
 
@@ -26,4 +26,4 @@ Moeko Nagamori is a house and drum & bass artist tracked on soundcheck, with 12 
 
 MASA NAGAMORI, Mulahi De Akkitum aka YAN, DJ ISE
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/moekonagamori/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/moekonagamori/)*

@@ -1,14 +1,15 @@
 # J.WOCKENFUSS
 
-J.WOCKENFUSS is a Downtempo and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 11 Sept 2026, next at gART.n, Berlin on Sun, 27 Sept 2026.
+J.WOCKENFUSS is a Techno and Downtempo artist with 2 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at gART.n, Berlin on Sun, 27 Sept 2026.
 
-J.WOCKENFUSS is a downtempo and techno artist based in Germany, tracked on soundcheck, with 17 sets logged across Berlin, Cologne, Hamburg and Munich and 1 more. Often billed alongside Maria Theresia von Eberg, Danilo Kupfernagel and Kalipo. Next up: gART.n, Berlin on Sun 27 Sept.
+J.WOCKENFUSS is a techno and downtempo artist based in Germany, tracked on soundcheck, with 18 sets logged across Berlin, Cologne, Hamburg and Munich and 1 more. Often billed alongside Maria Theresia von Eberg, Danilo Kupfernagel and Kalipo. Next up: gART.n, Berlin on Sun 27 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sun, 27 Sept 2026 | gART.n | Berlin |
+| Fri, 16 Oct 2026 | Renate | Berlin |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ J.WOCKENFUSS is a downtempo and techno artist based in Germany, tracked on sound
 
 Maria Theresia von Eberg, Danilo Kupfernagel, Kalipo
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/j.wockenfuss/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/j.wockenfuss/)*

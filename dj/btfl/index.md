@@ -1,6 +1,6 @@
 # BTFL
 
-BTFL is a Techno and Electro artist with 2 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at Sala Cocó, Madrid on Sat, 19 Sept 2026.
+BTFL is a Techno and Electro artist with 2 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Sala Cocó, Madrid on Sat, 19 Sept 2026.
 
 BTFL is a techno and electro artist based in Ukraine, tracked on soundcheck, with 21 sets logged across Berlin, Krakow, Madrid and Warsaw. Often billed alongside Richie Beige, YANA ETC and Amøn. Next up: Sala Cocó, Madrid on Sat 19 Sept.
 
@@ -26,4 +26,4 @@ BTFL is a techno and electro artist based in Ukraine, tracked on soundcheck, wit
 
 Richie Beige, YANA ETC, Amøn
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/btfl/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/btfl/)*

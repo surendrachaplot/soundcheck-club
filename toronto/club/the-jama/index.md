@@ -1,6 +1,6 @@
 # The Jama
 
-The Jama is a music venue in Toronto with 5 upcoming nights listed on soundcheck as of Fri, 11 Sept 2026; the next is "RAVE DUNGEON: SEXMP3, JIYNX, MAXXX, PARTEHARDY" on Fri, 18 Sept 2026.
+The Jama is a music venue in Toronto with 5 upcoming nights listed on soundcheck as of Sat, 12 Sept 2026; the next is "RAVE DUNGEON: SEXMP3, JIYNX, MAXXX, PARTEHARDY" on Fri, 18 Sept 2026.
 
 The Jama is a music venue in Toronto listed on soundcheck. 5 upcoming nights, with line-ups including Ariel Zetina, Blkvirgo, Disthene and dj miss and 2 more. Browse upcoming dates, start times and who's playing. 961 College Street.
 
@@ -18,4 +18,4 @@ The Jama is a music venue in Toronto listed on soundcheck. 5 upcoming nights, wi
 
 961 College Street, Toronto
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/the-jama/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/the-jama/)*

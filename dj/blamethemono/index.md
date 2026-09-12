@@ -1,6 +1,6 @@
 # Blame The Mono
 
-Blame The Mono is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Fri, 11 Sept 2026, next at Artheater, Cologne on Fri, 2 Oct 2026.
+Blame The Mono is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Sat, 12 Sept 2026, next at Artheater, Cologne on Fri, 2 Oct 2026.
 
 Blame The Mono is a techno and trance artist tracked on soundcheck, with 60 sets logged across Athens, Barcelona, Berlin and Budapest and 19 more. Often billed alongside DLV, CAIVA and DJ Hyperdrive. Next up: Artheater, Cologne on Fri 2 Oct.
 
@@ -25,4 +25,4 @@ Blame The Mono is a techno and trance artist tracked on soundcheck, with 60 sets
 
 DLV, CAIVA, DJ Hyperdrive
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/blamethemono/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/blamethemono/)*

@@ -1,8 +1,8 @@
 # RICKY
 
-RICKY is a Techno and Gabber artist with 4 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at TBA - Nishiazabu, Tokyo on Fri, 11 Sept 2026.
+RICKY is a Techno and Gabber artist with 6 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at TBA - Nishiazabu, Tokyo on Fri, 11 Sept 2026.
 
-RICKY is a techno and gabber artist tracked on soundcheck, with 42 sets logged across London, Osaka, Sanfrancisco and Seoul and 1 more. Often billed alongside KYLE MIKASA, KAMIKAZE and egomania. Next up: TBA - Nishiazabu, Tokyo on Fri 11 Sept.
+RICKY is a techno and gabber artist tracked on soundcheck, with 44 sets logged across London, Osaka, Sanfrancisco and Seoul and 1 more. Often billed alongside KYLE MIKASA, KAMIKAZE and egomania. Next up: TBA - Nishiazabu, Tokyo on Fri 11 Sept.
 
 ## Upcoming shows
 
@@ -10,11 +10,14 @@ RICKY is a techno and gabber artist tracked on soundcheck, with 42 sets logged a
 | --- | --- | --- |
 | Fri, 11 Sept 2026 | TBA - Nishiazabu | Tokyo |
 | Sun, 13 Sept 2026 | Socore Factory | Osaka |
+| Sun, 20 Sept 2026 | Yodo Groove (Yodobashi Ikebukuro) | Tokyo |
+| Sat, 26 Sept 2026 | UTOPIA / DYSTOPIA | Tokyo |
 | Sat, 3 Oct 2026 | Traffic | Tokyo |
 | Sun, 11 Oct 2026 | ZUBAR | Tokyo |
 
 ## Recently played
 
+- TBA - Nishiazabu, Tokyo — Fri, 11 Sept 2026
 - Fire & Lightbox, London — Sun, 30 Aug 2026
 - Decabar Super, Tokyo — Sat, 29 Aug 2026
 - Circus Tokyo, Tokyo — Sat, 8 Aug 2026
@@ -22,10 +25,9 @@ RICKY is a techno and gabber artist tracked on soundcheck, with 42 sets logged a
 - clubasia, Tokyo — Fri, 26 Jun 2026
 - clubasia, Tokyo — Fri, 19 Jun 2026
 - clubasia, Tokyo — Sat, 6 Jun 2026
-- ZUBAR, Tokyo — Sun, 24 May 2026
 
 ## Shares bills with
 
 KYLE MIKASA, KAMIKAZE, egomania
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ricky/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ricky/)*

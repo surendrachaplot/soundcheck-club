@@ -1,6 +1,6 @@
 # Trym
 
-Trym is a Techno and Trance artist with 8 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at Laagravense Plas, Utrecht on Sat, 12 Sept 2026.
+Trym is a Techno and Trance artist with 8 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Laagravense Plas, Utrecht on Sat, 12 Sept 2026.
 
 Trym is a techno and trance artist tracked on soundcheck, with 178 sets logged across Amsterdam, Antwerp, Athens and Austin and 60 more. Often billed alongside Shlømo, Nico Moreno and 999999999. Next up: Laagravense Plas, Utrecht on Sat 12 Sept.
 
@@ -32,4 +32,4 @@ Trym is a techno and trance artist tracked on soundcheck, with 178 sets logged a
 
 Shlømo, Nico Moreno, 999999999
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/trym/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/trym/)*

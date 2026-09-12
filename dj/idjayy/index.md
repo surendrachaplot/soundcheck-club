@@ -1,6 +1,6 @@
 # IDJayy
 
-IDJayy is a Bass and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 11 Sept 2026, next at Astoria, Turin on Sat, 12 Sept 2026.
+IDJayy is a Bass and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 12 Sept 2026, next at Astoria, Turin on Sat, 12 Sept 2026.
 
 IDJayy is a bass and techno artist tracked on soundcheck, with 8 sets logged across Turin. Often billed alongside AG999, AMRED and Furbo. Next up: Astoria, Turin on Sat 12 Sept.
 
@@ -24,4 +24,4 @@ IDJayy is a bass and techno artist tracked on soundcheck, with 8 sets logged acr
 
 AG999, AMRED, Furbo
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/idjayy/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/idjayy/)*

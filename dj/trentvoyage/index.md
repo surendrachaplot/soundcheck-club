@@ -1,6 +1,6 @@
 # Trent Voyage
 
-Trent Voyage is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at Hoppetosse, Berlin on Sat, 26 Sept 2026.
+Trent Voyage is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Hoppetosse, Berlin on Sat, 26 Sept 2026.
 
 Trent Voyage is a house and tech house artist based in Ireland, tracked on soundcheck, with 21 sets logged across Berlin, Glasgow, Leeds and London and 3 more. Often billed alongside Elena Moroder, Alexander Skancke and Henriku. Next up: Hoppetosse, Berlin on Sat 26 Sept.
 
@@ -26,4 +26,4 @@ Trent Voyage is a house and tech house artist based in Ireland, tracked on sound
 
 Elena Moroder, Alexander Skancke, Henriku
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/trentvoyage/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/trentvoyage/)*

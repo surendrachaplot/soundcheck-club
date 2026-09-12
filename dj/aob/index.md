@@ -1,14 +1,15 @@
 # AOB
 
-AOB is a House and Minimal artist with 2 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at The Cross, London on Sat, 12 Sept 2026.
+AOB is a House and Minimal artist with 3 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at The Cross, London on Sat, 12 Sept 2026.
 
-AOB is a house and minimal artist tracked on soundcheck, with 52 sets logged across Ibiza, Istanbul, London and Sheffield. Often billed alongside Nirvan, TOMMY GILARDONI and Elioss. Next up: The Cross, London on Sat 12 Sept.
+AOB is a house and minimal artist tracked on soundcheck, with 53 sets logged across Ibiza, Istanbul, London and Sheffield. Often billed alongside Nirvan, TOMMY GILARDONI and Elioss. Next up: The Cross, London on Sat 12 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 12 Sept 2026 | The Cross | London |
+| Wed, 16 Sept 2026 | XOYO | London |
 | Fri, 30 Oct 2026 | Theata | London |
 
 ## Recently played
@@ -26,4 +27,4 @@ AOB is a house and minimal artist tracked on soundcheck, with 52 sets logged acr
 
 Nirvan, TOMMY GILARDONI, Elioss
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/aob/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/aob/)*

@@ -1,6 +1,6 @@
 # Tess (MU)
 
-Tess (MU) is a Electronica and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 11 Sept 2026, next at Afas Live, Amsterdam on Sun, 25 Oct 2026.
+Tess (MU) is a Electronica and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 12 Sept 2026, next at Afas Live, Amsterdam on Sun, 25 Oct 2026.
 
 Tess (MU) is an electronica and techno artist tracked on soundcheck, with 10 sets logged across Amsterdam, Antwerp, Berlin and Chicago and 3 more. Often billed alongside BAVR, Bibi Seck and John Noseda. Next up: Afas Live, Amsterdam on Sun 25 Oct.
 
@@ -25,4 +25,4 @@ Tess (MU) is an electronica and techno artist tracked on soundcheck, with 10 set
 
 BAVR, Bibi Seck, John Noseda
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tess-mu/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tess-mu/)*

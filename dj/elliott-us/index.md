@@ -1,6 +1,6 @@
 # ELLIOTT (US)
 
-ELLIOTT (US) is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 11 Sept 2026, next at Satellite Gallery, New York City on Sun, 13 Sept 2026.
+ELLIOTT (US) is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 12 Sept 2026, next at Satellite Gallery, New York City on Sun, 13 Sept 2026.
 
 ELLIOTT (US) is a techno and house artist based in United States of America, tracked on soundcheck, with 11 sets logged across Newyorkcity, Osaka and Washingtondc. Often billed alongside Jus Nowhere, Keenan Orr and Neko Berg. Next up: Satellite Gallery, Newyorkcity on Sun 13 Sept.
 
@@ -25,4 +25,4 @@ ELLIOTT (US) is a techno and house artist based in United States of America, tra
 
 Jus Nowhere, Keenan Orr, Neko Berg
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/elliott-us/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/elliott-us/)*

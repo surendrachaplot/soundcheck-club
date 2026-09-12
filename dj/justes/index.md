@@ -1,6 +1,6 @@
 # Juste S
 
-Juste S is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at Badaboum, Paris on Fri, 11 Sept 2026.
+Juste S is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Badaboum, Paris on Fri, 11 Sept 2026.
 
 Juste S is a techno and house artist tracked on soundcheck, with 9 sets logged across Paris and Porto. Often billed alongside Blasha & Allatt, CRYME and Christian Coiffure. Next up: Badaboum, Paris on Fri 11 Sept.
 
@@ -13,6 +13,7 @@ Juste S is a techno and house artist tracked on soundcheck, with 9 sets logged a
 
 ## Recently played
 
+- Badaboum, Paris — Fri, 11 Sept 2026
 - TBA - Magical Forest in Ovar, Porto — Fri, 28 Aug 2026
 - La Station - Gare des Mines, Paris — Fri, 21 Aug 2026
 - La Prairie du Canal, Paris — Sat, 20 Jun 2026
@@ -25,4 +26,4 @@ Juste S is a techno and house artist tracked on soundcheck, with 9 sets logged a
 
 Blasha & Allatt, CRYME, Christian Coiffure
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/justes/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/justes/)*

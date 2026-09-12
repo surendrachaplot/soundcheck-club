@@ -1,8 +1,8 @@
 # Maëlle
 
-Maëlle is a Trance and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at Fuse, Brussels on Fri, 11 Sept 2026.
+Maëlle is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Fuse, Brussels on Fri, 11 Sept 2026.
 
-Maëlle is a trance and techno artist based in Belgium, tracked on soundcheck, with 20 sets logged across Antwerp, Brussels, Ghent and Paris. Often billed alongside ATARAXY, JEKKAMAÏ and Niko Hoke. Next up: Fuse, Brussels on Fri 11 Sept.
+Maëlle is a techno and trance artist based in Belgium, tracked on soundcheck, with 20 sets logged across Antwerp, Brussels, Ghent and Paris. Often billed alongside ATARAXY, JEKKAMAÏ and Niko Hoke. Next up: Fuse, Brussels on Fri 11 Sept.
 
 ## Upcoming shows
 
@@ -13,6 +13,7 @@ Maëlle is a trance and techno artist based in Belgium, tracked on soundcheck, w
 
 ## Recently played
 
+- Fuse, Brussels — Fri, 11 Sept 2026
 - Fuse, Brussels — Sat, 27 Jun 2026
 - BRISA Rooftop, Antwerp — Sat, 30 May 2026
 - B21, Brussels — Sat, 2 May 2026
@@ -20,10 +21,9 @@ Maëlle is a trance and techno artist based in Belgium, tracked on soundcheck, w
 - Illegaal, Brussels — Sat, 29 Nov 2025
 - Fuse, Brussels — Sat, 22 Nov 2025
 - Cafe Central, Brussels — Fri, 17 Oct 2025
-- TBA - Duquesnoystraat 18, 1000 Brussel, België, Brussels — Sat, 20 Sept 2025
 
 ## Shares bills with
 
 ATARAXY, JEKKAMAÏ, Niko Hoke
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/maelle/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/maelle/)*

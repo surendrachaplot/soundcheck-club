@@ -1,6 +1,6 @@
 # Huxley's Neue Welt
 
-Huxley's Neue Welt is a music venue in Berlin with 3 upcoming nights listed on soundcheck as of Fri, 11 Sept 2026; the next is "Kelela" on Thu, 29 Oct 2026.
+Huxley's Neue Welt is a music venue in Berlin with 3 upcoming nights listed on soundcheck as of Sat, 12 Sept 2026; the next is "Kelela" on Thu, 29 Oct 2026.
 
 Huxley's Neue Welt is a music venue in Berlin listed on soundcheck. 3 upcoming nights, with line-ups including DJ_Dave, horsegiirL and Kelela. Browse upcoming dates, start times and who's playing. Hasenheide 107 - 113, Neukölln, 10967 Berlin.
 
@@ -16,4 +16,4 @@ Huxley's Neue Welt is a music venue in Berlin listed on soundcheck. 3 upcoming n
 
 Hasenheide 107 - 113, Neukölln, 10967 Berlin, Berlin
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/huxley-s-neue-welt/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/huxley-s-neue-welt/)*

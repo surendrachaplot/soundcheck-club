@@ -1,14 +1,15 @@
 # Lisa Loud
 
-Lisa Loud is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Fri, 11 Sept 2026, next at Patterns, Brighton on Sat, 12 Sept 2026.
+Lisa Loud is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Patterns, Brighton on Sat, 12 Sept 2026.
 
-Lisa Loud is a house and disco artist tracked on soundcheck, with 25 sets logged across Brighton, Glasgow, London and Manchester and 1 more. Often billed alongside Terry Farley, Nancy Noise and Dicky Trisco. Next up: Patterns, Brighton on Sat 12 Sept.
+Lisa Loud is a house and disco artist tracked on soundcheck, with 26 sets logged across Brighton, Edinburgh, Glasgow and London and 2 more. Often billed alongside Terry Farley, Nancy Noise and Dicky Trisco. Next up: Patterns, Brighton on Sat 12 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 12 Sept 2026 | Patterns | Brighton |
+| Sat, 14 Nov 2026 | People's Leisure Club | Edinburgh |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Lisa Loud is a house and disco artist tracked on soundcheck, with 25 sets logged
 
 Terry Farley, Nancy Noise, Dicky Trisco
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lisaloud/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lisaloud/)*

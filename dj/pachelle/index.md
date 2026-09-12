@@ -1,6 +1,6 @@
 # Pachelle
 
-Pachelle is a Drum & Bass and Jungle artist with 1 upcoming club date listed on soundcheck as of Fri, 11 Sept 2026, next at Sound Machine, Toronto on Sat, 17 Oct 2026.
+Pachelle is a Drum & Bass and Jungle artist with 1 upcoming club date listed on soundcheck as of Sat, 12 Sept 2026, next at Sound Machine, Toronto on Sat, 17 Oct 2026.
 
 Pachelle is a drum & bass and jungle artist tracked on soundcheck, with 20 sets logged across Newyorkcity and Toronto. Often billed alongside Jana Greenstone, Marcus Visionary and DRS. Next up: Sound Machine, Toronto on Sat 17 Oct.
 
@@ -25,4 +25,4 @@ Pachelle is a drum & bass and jungle artist tracked on soundcheck, with 20 sets 
 
 Jana Greenstone, Marcus Visionary, DRS
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/pachelle/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/pachelle/)*

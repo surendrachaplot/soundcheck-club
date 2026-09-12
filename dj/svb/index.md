@@ -1,6 +1,6 @@
 # SVB
 
-SVB is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 11 Sept 2026, next at The Avalon Lounge, New York City on Sat, 19 Sept 2026.
+SVB is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 12 Sept 2026, next at The Avalon Lounge, New York City on Sat, 19 Sept 2026.
 
 SVB is a house and techno artist tracked on soundcheck, with 8 sets logged across Ghent and Newyorkcity. Often billed alongside Scotia, Nick Schiarizzi and Sister Zo. Next up: The Avalon Lounge, Newyorkcity on Sat 19 Sept.
 
@@ -24,4 +24,4 @@ SVB is a house and techno artist tracked on soundcheck, with 8 sets logged acros
 
 Scotia, Nick Schiarizzi, Sister Zo
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/svb/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/svb/)*

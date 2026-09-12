@@ -1,6 +1,6 @@
 # Fortuna Hall
 
-Fortuna Hall is a music venue in Prague with 1 upcoming night listed on soundcheck as of Fri, 11 Sept 2026; the next is "Ministry of Rave Prague" on Sat, 5 Dec 2026.
+Fortuna Hall is a music venue in Prague with 1 upcoming night listed on soundcheck as of Sat, 12 Sept 2026; the next is "Ministry of Rave Prague" on Sat, 5 Dec 2026.
 
 Fortuna Hall is a music venue in Prague listed on soundcheck. 1 upcoming night, with line-ups including ALT8, Golpe, KLOFAMA and Nico Moreno and 2 more. Browse upcoming dates, start times and who's playing. Za Elektrárnou 419/1, 17000, Prague, CZ.
 
@@ -14,4 +14,4 @@ Fortuna Hall is a music venue in Prague listed on soundcheck. 1 upcoming night, 
 
 Za Elektrárnou 419/1, 17000, Prague, CZ, Prague
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/prague/club/fortuna-hall/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/prague/club/fortuna-hall/)*

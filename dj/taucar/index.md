@@ -1,6 +1,6 @@
 # Tau Car
 
-Tau Car is a House and Electro artist with 3 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at Haus der Visionäre, Berlin on Sat, 26 Sept 2026.
+Tau Car is a House and Electro artist with 3 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Haus der Visionäre, Berlin on Sat, 26 Sept 2026.
 
 Tau Car is a house and electro artist tracked on soundcheck, with 114 sets logged across Amsterdam, Antwerp, Bangkok and Barcelona and 27 more. Often billed alongside International Mac, Edward and Konstantin. Next up: Haus der Visionäre, Berlin on Sat 26 Sept.
 
@@ -27,4 +27,4 @@ Tau Car is a house and electro artist tracked on soundcheck, with 114 sets logge
 
 International Mac, Edward, Konstantin
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/taucar/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/taucar/)*

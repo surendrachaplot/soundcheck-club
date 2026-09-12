@@ -1,6 +1,6 @@
 # Chloëdees
 
-Chloëdees is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Fri, 11 Sept 2026, next at Zebulon, Los Angeles on Sat, 26 Sept 2026.
+Chloëdees is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Sat, 12 Sept 2026, next at Zebulon, Los Angeles on Sat, 26 Sept 2026.
 
 Chloëdees is a house and disco artist based in United Kingdom, tracked on soundcheck, with 38 sets logged across London, Losangeles and Newyorkcity. Often billed alongside Damar Davis, Aaron Paar and Ashley Younniä. Next up: Zebulon, Losangeles on Sat 26 Sept.
 
@@ -25,4 +25,4 @@ Chloëdees is a house and disco artist based in United Kingdom, tracked on sound
 
 Damar Davis, Aaron Paar, Ashley Younniä
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/chloedees/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/chloedees/)*

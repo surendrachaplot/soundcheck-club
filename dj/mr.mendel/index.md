@@ -1,6 +1,6 @@
 # Mendel
 
-Mendel is a Disco and House artist with 3 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at Rotterdam Centre, Rotterdam on Fri, 11 Sept 2026.
+Mendel is a Disco and House artist with 3 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Rotterdam Centre, Rotterdam on Fri, 11 Sept 2026.
 
 Mendel is a disco and house artist based in Netherlands, tracked on soundcheck, with 89 sets logged across Amsterdam, Antwerp, Bangkok and Barcelona and 20 more. Often billed alongside Ruby Savage, Kléo and Millos Kaiser. Next up: Rotterdam Centre, Rotterdam on Fri 11 Sept.
 
@@ -14,6 +14,7 @@ Mendel is a disco and house artist based in Netherlands, tracked on soundcheck, 
 
 ## Recently played
 
+- Rotterdam Centre, Rotterdam — Fri, 11 Sept 2026
 - Radio Radio, Amsterdam — Fri, 4 Sept 2026
 - NAR, Utrecht — Sat, 29 Aug 2026
 - Klub Werkstatt, Copenhagen — Sat, 18 Jul 2026
@@ -21,10 +22,9 @@ Mendel is a disco and house artist based in Netherlands, tracked on soundcheck, 
 - TBA - Somewhere in Berlin, Berlin — Fri, 26 Jun 2026
 - Doka, Amsterdam — Sun, 17 May 2026
 - NAR, Utrecht — Fri, 8 May 2026
-- Doka, Amsterdam — Sun, 5 Apr 2026
 
 ## Shares bills with
 
 Ruby Savage, Kléo, Millos Kaiser
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mr.mendel/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mr.mendel/)*

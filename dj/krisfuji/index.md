@@ -1,6 +1,6 @@
 # Kris Fuji
 
-Kris Fuji is a Techno and Progressive House artist with 1 upcoming club date listed on soundcheck as of Fri, 11 Sept 2026, next at Z Maruyama, Tokyo on Sat, 26 Sept 2026.
+Kris Fuji is a Techno and Progressive House artist with 1 upcoming club date listed on soundcheck as of Sat, 12 Sept 2026, next at Z Maruyama, Tokyo on Sat, 26 Sept 2026.
 
 Kris Fuji is a techno and progressive house artist tracked on soundcheck, with 7 sets logged across Tokyo. Often billed alongside Conures (DJ Tokunaga), Tuyetmizuno and AHREUM. Next up: Z Maruyama, Tokyo on Sat 26 Sept.
 
@@ -23,4 +23,4 @@ Kris Fuji is a techno and progressive house artist tracked on soundcheck, with 7
 
 Conures (DJ Tokunaga), Tuyetmizuno, AHREUM
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/krisfuji/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/krisfuji/)*

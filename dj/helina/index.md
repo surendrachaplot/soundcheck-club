@@ -1,6 +1,6 @@
 # Helina
 
-Helina is a Club and House artist with 1 upcoming club date listed on soundcheck as of Fri, 11 Sept 2026, next at Maaya, Berlin on Sun, 27 Sept 2026.
+Helina is a Club and House artist with 1 upcoming club date listed on soundcheck as of Sat, 12 Sept 2026, next at Maaya, Berlin on Sun, 27 Sept 2026.
 
 Helina is a club and house artist based in Germany, tracked on soundcheck, with 41 sets logged across Berlin, Copenhagen, Frankfurt and Hamburg and 3 more. Often billed alongside JADA MORAES, ALBA (3) and S!RENE. Next up: Maaya, Berlin on Sun 27 Sept.
 
@@ -25,4 +25,4 @@ Helina is a club and house artist based in Germany, tracked on soundcheck, with 
 
 JADA MORAES, ALBA (3), S!RENE
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/helina/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/helina/)*

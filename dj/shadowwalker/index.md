@@ -1,6 +1,6 @@
 # Shadow Walker
 
-Shadow Walker is a Progressive House and House artist with 1 upcoming club date listed on soundcheck as of Fri, 11 Sept 2026, next at Ground Floor, Philadelphia on Fri, 25 Sept 2026.
+Shadow Walker is a Progressive House and House artist with 1 upcoming club date listed on soundcheck as of Sat, 12 Sept 2026, next at Ground Floor, Philadelphia on Fri, 25 Sept 2026.
 
 Shadow Walker is a progressive house and house artist based in United States of America, tracked on soundcheck, with 22 sets logged across Philadelphia. Often billed alongside Mayank, Kobza and Miles Alexander. Next up: Ground Floor, Philadelphia on Fri 25 Sept.
 
@@ -25,4 +25,4 @@ Shadow Walker is a progressive house and house artist based in United States of 
 
 Mayank, Kobza, Miles Alexander
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/shadowwalker/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/shadowwalker/)*

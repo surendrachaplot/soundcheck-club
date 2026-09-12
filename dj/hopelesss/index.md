@@ -1,6 +1,6 @@
 # Hopelesss
 
-Hopelesss is a EBM and Club artist with 2 upcoming club dates listed on soundcheck as of Fri, 11 Sept 2026, next at The Great Northern, San Francisco/Oakland on Fri, 18 Sept 2026.
+Hopelesss is a EBM and Club artist with 2 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at The Great Northern, San Francisco/Oakland on Fri, 18 Sept 2026.
 
 Hopelesss is an ebm and club artist based in United States of America, tracked on soundcheck, with 19 sets logged across Sanfrancisco. Often billed alongside Hex Embrace, ImpirumCrypt and Byter. Next up: The Great Northern, Sanfrancisco on Fri 18 Sept.
 
@@ -26,4 +26,4 @@ Hopelesss is an ebm and club artist based in United States of America, tracked o
 
 Hex Embrace, ImpirumCrypt, Byter
 
-*Updated Fri, 11 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/hopelesss/)*
+*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/hopelesss/)*
