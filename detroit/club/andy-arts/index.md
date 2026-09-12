@@ -2,13 +2,13 @@
 
 Andy Arts is a music venue in Detroit with 1 upcoming night listed on soundcheck as of Sat, 12 Sept 2026; the next is "3.1.3" on Fri, 18 Sept 2026.
 
-Andy Arts is a music venue in Detroit listed on soundcheck. 1 upcoming night, with line-ups including Bccording, Pod Blotz and Taqsim. Browse upcoming dates, start times and who's playing. 3000 Fenkell Ave, Detroit, MI 48238, USA.
+Andy Arts is a music venue in Detroit listed on soundcheck. 1 upcoming night, with line-ups including Bccording, otodojo, Pod Blotz and Taqsim. Browse upcoming dates, start times and who's playing. 3000 Fenkell Ave, Detroit, MI 48238, USA.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 18 Sept 2026 | 3.1.3 | Bccording, Pod Blotz, Taqsim |
+| Fri, 18 Sept 2026 | 3.1.3 | Bccording, Pod Blotz, Taqsim, otodojo |
 
 ## Address
 

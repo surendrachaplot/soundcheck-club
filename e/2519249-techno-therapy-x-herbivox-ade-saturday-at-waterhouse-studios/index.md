@@ -1,6 +1,6 @@
 # Techno Therapy x Herbivox: ADE Saturday at Waterhouse Studios
 
-Techno Therapy x Herbivox: ADE Saturday at Waterhouse Studios on Sat 24 Oct, Amsterdam. Electro and Acid. Preview the line-up and save it on soundcheck.
+Techno Therapy x Herbivox: ADE Saturday at Waterhouse Studios on Sat 24 Oct, Amsterdam. Acid and Electro. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

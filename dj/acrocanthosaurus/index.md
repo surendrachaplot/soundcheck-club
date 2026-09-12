@@ -1,8 +1,8 @@
 # Acrocanthosaurus
 
-Acrocanthosaurus is a Bass and Club artist with 2 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Shinjuku Duusraa, Tokyo on Fri, 18 Sept 2026.
+Acrocanthosaurus is a Bass and Dubstep artist with 3 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Shinjuku Duusraa, Tokyo on Fri, 18 Sept 2026.
 
-Acrocanthosaurus is a bass and club artist tracked on soundcheck, with 66 sets logged across Tokyo. Often billed alongside Aki Dolanikov, Genick and SPRAYBOX. Next up: Shinjuku Duusraa, Tokyo on Fri 18 Sept.
+Acrocanthosaurus is a bass and dubstep artist tracked on soundcheck, with 67 sets logged across Tokyo. Often billed alongside Aki Dolanikov, Genick and SPRAYBOX. Next up: Shinjuku Duusraa, Tokyo on Fri 18 Sept.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Acrocanthosaurus is a bass and club artist tracked on soundcheck, with 66 sets l
 | --- | --- | --- |
 | Fri, 18 Sept 2026 | Shinjuku Duusraa | Tokyo |
 | Mon, 21 Sept 2026 | Shinjuku Duusraa | Tokyo |
+| Sat, 26 Sept 2026 | clubasia | Tokyo |
 
 ## Recently played
 

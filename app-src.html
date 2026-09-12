@@ -3548,6 +3548,12 @@
     .fp-lu:last-child{ border-bottom:0; }
     .fp-lu-face{ width:48px; height:48px; border-radius:50%; border:1px solid var(--border); flex:none; background-size:cover; background-position:center; background-color:var(--surface-3); }
     .fp-lu-tx{ flex:1; min-width:0; cursor:pointer; }
+    /* Set time, above the name — a kicker rather than a column, so it costs the
+       row nothing when it is absent and needs no change to the mobile grid
+       (which is fixed at 44px/1fr/38px and has no slot to give away). Mono and
+       muted: it is data you scan down, not a label competing with the name.
+       Tabular figures so the times line up vertically down a whole bill. */
+    .fp-lu-t{ font:600 var(--fs-2xs)/var(--lh-2xs) var(--font-mono); letter-spacing:.08em; color:var(--muted); font-variant-numeric:tabular-nums; margin-bottom:3px; }
     .fp-lu-nm{ font:700 var(--fs-lg)/var(--lh-lg) var(--head); letter-spacing:-0.01em; }
     .fp-lu-why{ font:500 var(--fs-sm)/var(--lh-sm) var(--body); color:var(--muted); margin-top:2px; }
     .fp-lu-tag{ background:var(--accent-weak); color:var(--accent); border:1px solid var(--accent); border-radius:var(--radius-pill); font:700 var(--fs-2xs)/var(--lh-2xs) var(--body); letter-spacing:.06em; text-transform:uppercase; padding:4px 10px; flex:none; }
@@ -4397,7 +4403,7 @@
   <!-- Umami analytics. defer so it never blocks first paint; the SPA rewrites
        history on navigation, which umami picks up automatically. -->
   <script defer src="https://cloud.umami.is/script.js" data-website-id="de210b6c-12e4-4819-95f6-f5120974855a"></script>
-<meta name="sc-build" content="1789229424521">
+<meta name="sc-build" content="1789240168437">
   <link rel="canonical" href="https://soundcheck.club/" />
   <meta property="og:image" content="https://api.soundcheck.club/api/og?v=2&t=soundcheck&s=Club%20nights%20%26%20DJ%20sets%20in%20104%20cities" />
 </head>
@@ -11202,7 +11208,7 @@
         minPrice: d.min_price!=null ? Number(d.min_price) : null, maxPrice: d.max_price!=null ? Number(d.max_price) : null, currency: d.currency||null,
         venueAddress:d.venue_address, venueLat:d.venue_lat, venueLng:d.venue_lng,
         alsoOn:d.also_on||[], promoters:d.promoters||[],
-        artists:(d.lineup||[]).map(function(a){ return { name:a.name, contentUrl:'/'+a.slug, soundcloud:a.soundcloud, image:a.image }; }) };
+        artists:(d.lineup||[]).map(function(a){ return { name:a.name, contentUrl:'/'+a.slug, soundcloud:a.soundcloud, image:a.image, setStart:a.setStart||null, setEnd:a.setEnd||null }; }) };
     }
     async function openEvent(id){
       id=eventIdOf(id);
@@ -11353,7 +11359,15 @@
           });
         }
         var lineupBox=document.getElementById('fp-lineup');
-        var imgBy={}; (ev.artists||[]).forEach(function(a){ var s=(a.contentUrl||'').split('/').filter(Boolean).pop(); if(s) imgBy[s]=a.image; });
+        var imgBy={}, timeBy={};
+        (ev.artists||[]).forEach(function(a){
+          var s=(a.contentUrl||'').split('/').filter(Boolean).pop();
+          // Keyed by slug, NOT carried on the item: renderLineup is called twice
+          // and the second call's items come from the taste-engine ranking, which
+          // knows nothing about set times. Without this lookup the times appear
+          // for a beat and then vanish when the ranked bill replaces them.
+          if(s){ imgBy[s]=a.image; if(a.setStart) timeBy[s]={ s:a.setStart, e:a.setEnd }; }
+        });
         function renderLineup(items){
           if(!lineupBox) return;
           if(!items.length){ lineupBox.innerHTML='<div style="padding:14px 18px;color:var(--muted);font:600 var(--fs-sm)/var(--lh-sm) var(--body)">To be announced.</div>'; return; }
@@ -11361,7 +11375,11 @@
             var face=a.image?'background-image:url('+imgUrl(a.image,120)+')':'';
             var badge=a.tier?'<span class="fp-lu-tag'+(a.tier==='Do not miss'?'':' mid')+'">'+esc(a.tier)+'</span>':'';
             var why=a.reason?'<div class="fp-lu-why">'+esc(a.reason)+'</div>':'';
-            return '<div class="fp-lu"><div class="fp-lu-face" style="'+face+'"></div><a class="fp-lu-tx nav"'+(a.slug?' href="'+esc(djHref(a.slug))+'"':'')+' data-artist="'+esc(a.slug||'')+'"><div class="fp-lu-nm">'+esc(a.name)+'</div>'+why+'</a>'+badge+'<button class="fp-lu-pl" type="button" data-slug="'+esc(a.slug||'')+'">'+PLAY_SVG+'</button></div>';
+            // The set time, when the night published one. Only ~1 in 140 events
+            // does, so this is absent almost everywhere by design.
+            var t=a.slug?timeBy[a.slug]:null;
+            var when=t?'<div class="fp-lu-t">'+esc(t.s)+(t.e?' – '+esc(t.e):'')+'</div>':'';
+            return '<div class="fp-lu"><div class="fp-lu-face" style="'+face+'"></div><a class="fp-lu-tx nav"'+(a.slug?' href="'+esc(djHref(a.slug))+'"':'')+' data-artist="'+esc(a.slug||'')+'">'+when+'<div class="fp-lu-nm">'+esc(a.name)+'</div>'+why+'</a>'+badge+'<button class="fp-lu-pl" type="button" data-slug="'+esc(a.slug||'')+'">'+PLAY_SVG+'</button></div>';
           }).join('');
           var lq=items.map(function(a){ return { slug:a.slug, name:a.name, poster:a.image }; }).filter(function(x){ return x.slug; });
           lineupBox.querySelectorAll('.fp-lu-tx[data-artist]').forEach(function(t){ t.addEventListener('click',function(){ if(t.dataset.artist) openArtist(t.dataset.artist); }); });

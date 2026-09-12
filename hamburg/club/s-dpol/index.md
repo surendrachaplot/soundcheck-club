@@ -1,16 +1,15 @@
 # Südpol
 
-Südpol is a music venue in Hamburg with 6 upcoming nights listed on soundcheck as of Sat, 12 Sept 2026; the next is "Frequencies" on Sat, 12 Sept 2026.
+Südpol is a music venue in Hamburg with 5 upcoming nights listed on soundcheck as of Sat, 12 Sept 2026; the next is "Frequencies" on Sat, 12 Sept 2026.
 
-Südpol is a music venue in Hamburg listed on soundcheck. 6 upcoming nights, with line-ups including 50PHIE, A.B.U., Afem Syko and AGY3NA and 2 more. Browse upcoming dates, start times and who's playing. Süderstraße 112, 20537 Hamburg, Germany.
+Südpol is a music venue in Hamburg listed on soundcheck. 5 upcoming nights, with line-ups including 50PHIE, A.B.U., Afem Syko and AGY3NA and 2 more. Browse upcoming dates, start times and who's playing. Süderstraße 112, 20537 Hamburg, Germany.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
 | Sat, 12 Sept 2026 | Frequencies | A.B.U., AGY3NA, Bushfya, CARISTA, Cecilia Tosh, DJ Dose, DJ Minx, JAXX TMS, Josiane, Juan Atkins, NIKS, Rafush, Sarah Farina, Shimmy Robin |
-| Sat, 12 Sept 2026 | Frequencies DJ Workshop |  |
-| Fri, 18 Sept 2026 | Expedition Südpol | 50PHIE, ARWEN, Aii PS, Ben Kamal, Christian Kluge, Finona Rider, Hyperaktivist, Jacob Knob, KYT, Kristina May, Lucas Darío, Marie Mackerschreck, Marta Aurelia, NAHUEL, Neowise, ONLYLU, RSS Disco, SXCL, Vazik, cmp (1), dr. payback |
+| Fri, 18 Sept 2026 | Expedition Südpol | 50PHIE, ARWEN, Aii PS, Ben Kamal, Christian Kluge, Finona Rider, Hyperaktivist, Jacob Knob, KYT, Kristina May (4), Lucas Darío, Marie Mackerschreck, Marta Aurelia, NAHUEL, Neowise, ONLYLU, RSS Disco, SXCL, Vazik, cmp (1), dr. payback |
 | Fri, 25 Sept 2026 | unceen with Anna Ullrich & BabaBass3000 | Anna Ullrich, BabaBass3000, Rittmus, Shilo, Suay Aenna |
 | Sat, 26 Sept 2026 | Tempest | Berto (DE), Peter Groskreutz, duaba, u2pia |
 | Fri, 23 Oct 2026 | unceen with Afem Syko | Afem Syko, HugoBass303, NSLZ, Nettta, Siren, ruru (1) |

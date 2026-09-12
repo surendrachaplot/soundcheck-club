@@ -1,8 +1,8 @@
 # Good Room
 
-Good Room is a music venue in New York City with 12 upcoming nights listed on soundcheck as of Sat, 12 Sept 2026; the next is "Felipe Gordon, Razor-N-Tape, beewack, Malachi" on Sat, 12 Sept 2026.
+Good Room is a music venue in New York City with 13 upcoming nights listed on soundcheck as of Sat, 12 Sept 2026; the next is "Felipe Gordon, Razor-N-Tape, beewack, Malachi" on Sat, 12 Sept 2026.
 
-Good Room is a music venue in Newyorkcity listed on soundcheck. 12 upcoming nights, with line-ups including Adrian Hex, A lana, Arina Krondeva and beewack and 2 more. Browse upcoming dates, start times and who's playing. 98 Meserole Ave, Brooklyn, NY 11222 USA.
+Good Room is a music venue in Newyorkcity listed on soundcheck. 13 upcoming nights, with line-ups including Adrian Hex, A lana, Arina Krondeva and beewack and 2 more. Browse upcoming dates, start times and who's playing. 98 Meserole Ave, Brooklyn, NY 11222 USA.
 
 ## What's on
 

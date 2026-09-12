@@ -1,8 +1,8 @@
 # Princess Elf Bar
 
-Princess Elf Bar is a Trance and Techno artist with 8 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Yes, Manchester on Thu, 17 Sept 2026.
+Princess Elf Bar is a Trance and Club artist with 8 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Yes, Manchester on Thu, 17 Sept 2026.
 
-Princess Elf Bar is a trance and techno artist based in United Kingdom, tracked on soundcheck, with 158 sets logged across Barcelona, Berlin, Edinburgh and Glasgow and 8 more. Often billed alongside AYDJ, Anop and ASHTYLR. Next up: Yes, Manchester on Thu 17 Sept.
+Princess Elf Bar is a trance and club artist based in United Kingdom, tracked on soundcheck, with 158 sets logged across Barcelona, Berlin, Edinburgh and Glasgow and 8 more. Often billed alongside AYDJ, Anop and ASHTYLR. Next up: Yes, Manchester on Thu 17 Sept.
 
 ## Upcoming shows
 

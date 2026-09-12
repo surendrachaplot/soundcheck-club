@@ -1,14 +1,15 @@
 # Lyor Kalt
 
-Lyor Kalt is a Techno and Hard Drum artist with 2 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at REJS, Warsaw on Sat, 26 Sept 2026.
+Lyor Kalt is a Techno and Hard Drum artist with 3 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at REJS, Warsaw on Sat, 26 Sept 2026.
 
-Lyor Kalt is a techno and hard drum artist based in Ukraine, tracked on soundcheck, with 18 sets logged across Krakow and Warsaw. Often billed alongside Butwho, SYS.END and Salat. Next up: REJS, Warsaw on Sat 26 Sept.
+Lyor Kalt is a techno and hard drum artist based in Ukraine, tracked on soundcheck, with 19 sets logged across Krakow and Warsaw. Often billed alongside Butwho, SYS.END and Salat. Next up: REJS, Warsaw on Sat 26 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 26 Sept 2026 | REJS | Warsaw |
+| Sat, 10 Oct 2026 | Mastak | Warsaw |
 | Fri, 27 Nov 2026 | STK 47 WAREHOUSE | Krakow |
 
 ## Recently played

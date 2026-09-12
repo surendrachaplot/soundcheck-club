@@ -1,14 +1,14 @@
 # Regis (MNE)
 
-Regis (MNE) is a Club and Dancehall artist with 1 upcoming club date listed on soundcheck as of Sat, 12 Sept 2026, next at TBA - LOCATION VIA EMAIL AFTER PURCHASE, Belgrade on Sat, 12 Sept 2026.
+Regis (MNE) is a Club and Dancehall artist with 1 upcoming club date listed on soundcheck as of Sat, 12 Sept 2026, next at TBA - LOCATION radarbelgrade.com/radar14, Belgrade on Sat, 12 Sept 2026.
 
-Regis (MNE) is a club and dancehall artist based in Montenegro, tracked on soundcheck, with 6 sets logged across Belgrade and Newyorkcity. Often billed alongside ARTEM (FR), BEARCAT and BRAVA. Next up: TBA - LOCATION VIA EMAIL AFTER PURCHASE, Belgrade on Sat 12 Sept.
+Regis (MNE) is a club and dancehall artist based in Montenegro, tracked on soundcheck, with 6 sets logged across Belgrade and Newyorkcity. Often billed alongside ARTEM (FR), BEARCAT and BRAVA. Next up: TBA - LOCATION radarbelgrade.com/radar14, Belgrade on Sat 12 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 12 Sept 2026 | TBA - LOCATION VIA EMAIL AFTER PURCHASE | Belgrade |
+| Sat, 12 Sept 2026 | TBA - LOCATION radarbelgrade.com/radar14 | Belgrade |
 
 ## Recently played
 

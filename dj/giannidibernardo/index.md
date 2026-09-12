@@ -1,14 +1,15 @@
 # Gianni Di Bernardo
 
-Gianni Di Bernardo is a Techno and Industrial artist with 2 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Eden, Ibiza on Tue, 15 Sept 2026.
+Gianni Di Bernardo is a Techno and Industrial artist with 3 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Eden, Ibiza on Tue, 15 Sept 2026.
 
-Gianni Di Bernardo is a techno and industrial artist tracked on soundcheck, with 47 sets logged across Amsterdam, Antwerp, Barcelona and Cologne and 17 more. Often billed alongside Luca Agnelli, Mattia Trani and PISAPIA (IT). Next up: Eden, Ibiza on Tue 15 Sept.
+Gianni Di Bernardo is a techno and industrial artist tracked on soundcheck, with 48 sets logged across Amsterdam, Antwerp, Barcelona and Cologne and 17 more. Often billed alongside Luca Agnelli, Mattia Trani and PISAPIA (IT). Next up: Eden, Ibiza on Tue 15 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Tue, 15 Sept 2026 | Eden | Ibiza |
+| Sat, 19 Sept 2026 | The Wall Club | Naples |
 | Fri, 23 Oct 2026 | TBA - Amsterdam Central Station  | Amsterdam |
 
 ## Recently played

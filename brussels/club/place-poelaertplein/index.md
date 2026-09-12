@@ -9,7 +9,7 @@ Place Poelaertplein is a music venue in Brussels listed on soundcheck. 2 upcomin
 | Date | Night | Line-up |
 | --- | --- | --- |
 | Sat, 12 Sept 2026 | Vostock at Poelaert – Brussels Open Air Festival 2026 | Ehua, Jessen, Neffa-T, Shoplifter, seja (1) |
-| Sun, 13 Sept 2026 | Protest Elektronik Poelaert |  |
+| Sun, 13 Sept 2026 | Protest Elektronik Poelaert - POSTPONED Saturday 26.09 |  |
 
 ## Address
 

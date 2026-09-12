@@ -1,14 +1,14 @@
 # BRAVA
 
-BRAVA is a Bass and Dembow artist with 2 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at TBA - LOCATION VIA EMAIL AFTER PURCHASE, Belgrade on Sat, 12 Sept 2026.
+BRAVA is a Bass and Dembow artist with 2 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at TBA - LOCATION radarbelgrade.com/radar14, Belgrade on Sat, 12 Sept 2026.
 
-BRAVA is a bass and dembow artist tracked on soundcheck, with 72 sets logged across Athens, Barcelona, Belgrade and Berlin and 18 more. Often billed alongside CRKS290, Umami and Umami (ES). Next up: TBA - LOCATION VIA EMAIL AFTER PURCHASE, Belgrade on Sat 12 Sept.
+BRAVA is a bass and dembow artist tracked on soundcheck, with 72 sets logged across Athens, Barcelona, Belgrade and Berlin and 18 more. Often billed alongside CRKS290, Umami and Umami (ES). Next up: TBA - LOCATION radarbelgrade.com/radar14, Belgrade on Sat 12 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 12 Sept 2026 | TBA - LOCATION VIA EMAIL AFTER PURCHASE | Belgrade |
+| Sat, 12 Sept 2026 | TBA - LOCATION radarbelgrade.com/radar14 | Belgrade |
 | Tue, 20 Oct 2026 | New Cross Inn | London |
 
 ## Recently played

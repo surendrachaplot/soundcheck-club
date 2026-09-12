@@ -1,14 +1,13 @@
 # Bassiani
 
-Bassiani is a music venue in Tbilisi with 8 upcoming nights listed on soundcheck as of Sat, 12 Sept 2026; the next is "Bassiani – Horoom – Fri, 11.09.2026" on Fri, 11 Sept 2026.
+Bassiani is a music venue in Tbilisi with 7 upcoming nights listed on soundcheck as of Sat, 12 Sept 2026; the next is "Hydrash: Charch, Mesh, Sophie Phare, Tsioni" on Sat, 12 Sept 2026.
 
-Bassiani is a music venue in Tbilisi listed on soundcheck. 8 upcoming nights, with line-ups including Architectural, ATEQ, BMI (GE) and Boyá and 2 more. Browse upcoming dates, start times and who's playing. Tsereteli street 2 , Tbilisi, Georgia.
+Bassiani is a music venue in Tbilisi listed on soundcheck. 7 upcoming nights, with line-ups including BMI (GE), Boyá, Cassy and Charch and 2 more. Browse upcoming dates, start times and who's playing. Tsereteli street 2 , Tbilisi, Georgia.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 11 Sept 2026 | Bassiani – Horoom – Fri, 11.09.2026 | ATEQ, Architectural, Ceephax Acid Crew, Hamatsuki, Kancheli, Kerrie, Kvanchi, The Lady Machine, Valley Dolly, Zitto |
 | Sat, 12 Sept 2026 | Hydrash: Charch, Mesh, Sophie Phare, Tsioni | Charch, Sophie Phare, TSIONI (2) |
 | Fri, 18 Sept 2026 | Bassiani – Horoom – Fri, 18.09.2026 | Ciel, Dajusch, Dito, Ellen Allien, FJAAK, HVL, Kvanchi, Mancho, Newa |
 | Sat, 19 Sept 2026 | Faction: gwän, KETEVAN, LYZA, Script | KETEVAN, LYZA, Script (GE), Uväll, gwän |

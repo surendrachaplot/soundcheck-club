@@ -1,8 +1,8 @@
 # Bloody Mary
 
-Bloody Mary is a Techno and Acid artist with 3 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Motorista Studio, Toronto on Sat, 12 Sept 2026.
+Bloody Mary is a Techno and Acid artist with 4 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Motorista Studio, Toronto on Sat, 12 Sept 2026.
 
-Bloody Mary is a techno and acid artist tracked on soundcheck, with 143 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 39 more. Often billed alongside Alienata, Afra and Kris Baha. Next up: Motorista Studio, Toronto on Sat 12 Sept.
+Bloody Mary is a techno and acid artist tracked on soundcheck, with 144 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 39 more. Often billed alongside Alienata, Afra and Kris Baha. Next up: Motorista Studio, Toronto on Sat 12 Sept.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ Bloody Mary is a techno and acid artist tracked on soundcheck, with 143 sets log
 | Sat, 12 Sept 2026 | Motorista Studio | Toronto |
 | Fri, 18 Sept 2026 | RADION | Amsterdam |
 | Sat, 19 Sept 2026 | Tresor / Globus | Berlin |
+| Sat, 31 Oct 2026 | TBA - Los Angeles (Warehouse) | Los Angeles |
 
 ## Recently played
 

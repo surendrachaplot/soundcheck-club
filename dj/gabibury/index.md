@@ -1,13 +1,14 @@
 # Gabi Bury
 
-Gabi Bury is a Techno and Electronica artist with 1 upcoming club date listed on soundcheck as of Sat, 12 Sept 2026, next at Mastak, Warsaw on Fri, 2 Oct 2026.
+Gabi Bury is a Techno and Electronica artist with 2 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Noce KRK, Krakow on Fri, 18 Sept 2026.
 
-Gabi Bury is a techno and electronica artist based in Poland, tracked on soundcheck, with 39 sets logged across Krakow and Warsaw. Often billed alongside Aetha, Eta Hox and Hellix. Next up: Mastak, Warsaw on Fri 2 Oct.
+Gabi Bury is a techno and electronica artist based in Poland, tracked on soundcheck, with 40 sets logged across Krakow and Warsaw. Often billed alongside Aetha, Eta Hox and Hellix. Next up: Noce KRK, Krakow on Fri 18 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 18 Sept 2026 | Noce KRK | Krakow |
 | Fri, 2 Oct 2026 | Mastak | Warsaw |
 
 ## Recently played

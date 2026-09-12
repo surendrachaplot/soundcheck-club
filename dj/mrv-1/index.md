@@ -1,13 +1,14 @@
 # MRV (1)
 
-MRV (1) is a Techno and Club artist with 2 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Noce KRK, Krakow on Sat, 26 Sept 2026.
+MRV (1) is a Techno and Club artist with 3 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Noce KRK, Krakow on Fri, 18 Sept 2026.
 
-MRV (1) is a techno and club artist based in Poland, tracked on soundcheck, with 62 sets logged across Krakow and Warsaw. Often billed alongside Bartman, RAJZ and Abrew. Next up: Noce KRK, Krakow on Sat 26 Sept.
+MRV (1) is a techno and club artist based in Poland, tracked on soundcheck, with 63 sets logged across Krakow and Warsaw. Often billed alongside RAJZ, Bartman and Abrew. Next up: Noce KRK, Krakow on Fri 18 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 18 Sept 2026 | Noce KRK | Krakow |
 | Sat, 26 Sept 2026 | Noce KRK | Krakow |
 | Tue, 10 Nov 2026 | Noce KRK | Krakow |
 
@@ -24,6 +25,6 @@ MRV (1) is a techno and club artist based in Poland, tracked on soundcheck, with
 
 ## Shares bills with
 
-Bartman, RAJZ, Abrew
+RAJZ, Bartman, Abrew
 
 *Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mrv-1/)*

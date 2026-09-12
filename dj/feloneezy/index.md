@@ -9,7 +9,7 @@ Feloneezy is a bass and techno artist based in Serbia, tracked on soundcheck, wi
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 11 Sept 2026 | Karmakoma | Belgrade |
-| Sat, 12 Sept 2026 | TBA - LOCATION VIA EMAIL AFTER PURCHASE | Belgrade |
+| Sat, 12 Sept 2026 | TBA - LOCATION radarbelgrade.com/radar14 | Belgrade |
 | Sat, 26 Sept 2026 | Lift Beograd | Belgrade |
 
 ## Recently played

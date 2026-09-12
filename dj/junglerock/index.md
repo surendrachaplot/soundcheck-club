@@ -1,8 +1,8 @@
 # Jungle Rock
 
-Jungle Rock is a Jungle and Drum & Bass artist with 2 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Toranoko Shokudo, Tokyo on Sat, 12 Sept 2026.
+Jungle Rock is a Jungle and Drum & Bass artist with 3 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Toranoko Shokudo, Tokyo on Sat, 12 Sept 2026.
 
-Jungle Rock is a jungle and drum & bass artist based in Japan, tracked on soundcheck, with 45 sets logged across Tokyo. Often billed alongside HALU(Tribal Connection), MileZ and FELINE (JP). Next up: Toranoko Shokudo, Tokyo on Sat 12 Sept.
+Jungle Rock is a jungle and drum & bass artist based in Japan, tracked on soundcheck, with 46 sets logged across Tokyo. Often billed alongside HALU(Tribal Connection), MileZ and Dx. Next up: Toranoko Shokudo, Tokyo on Sat 12 Sept.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Jungle Rock is a jungle and drum & bass artist based in Japan, tracked on soundc
 | --- | --- | --- |
 | Sat, 12 Sept 2026 | Toranoko Shokudo | Tokyo |
 | Tue, 22 Sept 2026 | Live Haus | Tokyo |
+| Sat, 26 Sept 2026 | clubasia | Tokyo |
 
 ## Recently played
 
@@ -24,6 +25,6 @@ Jungle Rock is a jungle and drum & bass artist based in Japan, tracked on soundc
 
 ## Shares bills with
 
-HALU(Tribal Connection), MileZ, FELINE (JP)
+HALU(Tribal Connection), MileZ, Dx
 
 *Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/junglerock/)*

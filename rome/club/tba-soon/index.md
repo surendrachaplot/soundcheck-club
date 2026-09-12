@@ -1,8 +1,8 @@
-# TBA - SOON
+# TBA - Soon
 
-TBA - SOON is a music venue in Rome with 2 upcoming nights listed on soundcheck as of Sat, 12 Sept 2026; the next is "Silly Little Disco 002" on Fri, 30 Oct 2026.
+TBA - Soon is a music venue in Rome with 2 upcoming nights listed on soundcheck as of Sat, 12 Sept 2026; the next is "Silly Little Disco 002" on Fri, 30 Oct 2026.
 
-TBA - SOON is a music venue in Rome listed on soundcheck. 2 upcoming nights, with line-ups including KOKOH, Natalie K Marsland and VENERE. Browse upcoming dates, start times and who's playing.
+TBA - Soon is a music venue in Rome listed on soundcheck. 2 upcoming nights, with line-ups including KOKOH, Natalie K Marsland and VENERE. Browse upcoming dates, start times and who's playing.
 
 ## What's on
 

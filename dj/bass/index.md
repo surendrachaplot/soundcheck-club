@@ -1,6 +1,6 @@
 # Bass
 
-Bass is a Drum & Bass and Jazz artist with 8 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Fluid510, San Francisco/Oakland on Sat, 12 Sept 2026.
+Bass is a Drum & Bass and Jazz artist with 7 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Fluid510, San Francisco/Oakland on Sat, 12 Sept 2026.
 
 Bass is a drum & bass and jazz artist tracked on soundcheck, with 115 sets logged across Amsterdam, Auckland, Bali and Bangkok and 39 more. Often billed alongside Jungle (UK), Tekk and A². Next up: Fluid510, Sanfrancisco on Sat 12 Sept.
 
@@ -9,7 +9,6 @@ Bass is a drum & bass and jazz artist tracked on soundcheck, with 115 sets logge
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 12 Sept 2026 | Fluid510 | San Francisco/Oakland |
-| Sat, 12 Sept 2026 | Vondelpark Openluchttheater | Amsterdam |
 | Sat, 19 Sept 2026 | The Coup by BUNKERBUNKER!! | Singapore |
 | Sat, 26 Sept 2026 | The Button Factory | Auckland |
 | Sat, 26 Sept 2026 | Das Lot | Vienna |

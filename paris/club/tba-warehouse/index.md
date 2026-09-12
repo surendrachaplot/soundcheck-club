@@ -1,8 +1,8 @@
-# TBA - warehouse
+# TBA - Warehouse
 
-TBA - warehouse is a music venue in Paris with 7 upcoming nights listed on soundcheck as of Sat, 12 Sept 2026; the next is "DJ Ruby & Mayro Progressive Warehouse (Toronto)" on Sat, 12 Sept 2026.
+TBA - Warehouse is a music venue in Paris with 7 upcoming nights listed on soundcheck as of Sat, 12 Sept 2026; the next is "DJ Ruby & Mayro Progressive Warehouse (Toronto)" on Sat, 12 Sept 2026.
 
-TBA - warehouse is a music venue in Paris listed on soundcheck. 7 upcoming nights, with line-ups including AEREA, ARJ (IR), beta_phase and Blachord and 2 more. Browse upcoming dates, start times and who's playing.
+TBA - Warehouse is a music venue in Paris listed on soundcheck. 7 upcoming nights, with line-ups including AEREA, ARJ (IR), beta_phase and Blachord and 2 more. Browse upcoming dates, start times and who's playing.
 
 ## What's on
 

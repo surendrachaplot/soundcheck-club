@@ -14,7 +14,7 @@ Eli Escobar is a house and electro artist tracked on soundcheck, with 547 sets l
 | Thu, 24 Sept 2026 | Gabriela | New York City |
 | Fri, 25 Sept 2026 | StereoBar | Montreal |
 | Fri, 2 Oct 2026 | House of Yes | New York City |
-| Sat, 3 Oct 2026 | TBA - Downtown Los Angeles | Los Angeles |
+| Sat, 3 Oct 2026 | TBA - Open Air: Downtown Los Angeles | Los Angeles |
 | Sat, 10 Oct 2026 | Signal | New York City |
 | Fri, 16 Oct 2026 | Mana Wynwood | Miami |
 | Fri, 23 Oct 2026 | Tigres de la Noche | Washington DC |

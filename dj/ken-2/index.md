@@ -1,13 +1,14 @@
 # Ken (2)
 
-Ken (2) is a Hip-Hop and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 12 Sept 2026, next at ZUBAR, Tokyo on Fri, 9 Oct 2026.
+Ken (2) is a Hip-Hop and Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at clubasia, Tokyo on Sat, 26 Sept 2026.
 
-Ken (2) is a hip-hop and techno artist based in United States of America, tracked on soundcheck, with 16 sets logged across Ghent, London, Melbourne and Tokyo. Often billed alongside Cheshire Yums, EMpTy and HARUTO. Next up: ZUBAR, Tokyo on Fri 9 Oct.
+Ken (2) is a hip-hop and techno artist based in United States of America, tracked on soundcheck, with 17 sets logged across Ghent, London, Melbourne and Tokyo. Often billed alongside Cheshire Yums, EMpTy and HARUTO. Next up: clubasia, Tokyo on Sat 26 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 26 Sept 2026 | clubasia | Tokyo |
 | Fri, 9 Oct 2026 | ZUBAR | Tokyo |
 
 ## Recently played

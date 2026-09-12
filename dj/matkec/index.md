@@ -1,14 +1,14 @@
 # Matkec
 
-Matkec is a Techno and Bass artist with 1 upcoming club date listed on soundcheck as of Sat, 12 Sept 2026, next at TBA - LOCATION VIA EMAIL AFTER PURCHASE, Belgrade on Sat, 12 Sept 2026.
+Matkec is a Techno and Bass artist with 1 upcoming club date listed on soundcheck as of Sat, 12 Sept 2026, next at TBA - LOCATION radarbelgrade.com/radar14, Belgrade on Sat, 12 Sept 2026.
 
-Matkec is a techno and bass artist based in Serbia, tracked on soundcheck, with 23 sets logged across Belgrade. Often billed alongside Chokey, Essio and Leshutler. Next up: TBA - LOCATION VIA EMAIL AFTER PURCHASE, Belgrade on Sat 12 Sept.
+Matkec is a techno and bass artist based in Serbia, tracked on soundcheck, with 23 sets logged across Belgrade. Often billed alongside Chokey, Essio and Leshutler. Next up: TBA - LOCATION radarbelgrade.com/radar14, Belgrade on Sat 12 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 12 Sept 2026 | TBA - LOCATION VIA EMAIL AFTER PURCHASE | Belgrade |
+| Sat, 12 Sept 2026 | TBA - LOCATION radarbelgrade.com/radar14 | Belgrade |
 
 ## Recently played
 

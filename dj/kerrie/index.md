@@ -1,14 +1,13 @@
 # Kerrie
 
-Kerrie is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Bassiani, Tbilisi on Fri, 11 Sept 2026.
+Kerrie is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Tresor / Globus, Berlin on Sat, 26 Sept 2026.
 
-Kerrie is a techno and house artist tracked on soundcheck, with 128 sets logged across Amsterdam, Athens, Barcelona and Basel and 35 more. Often billed alongside Mareena, DJ Bone and Sunil Sharpe. Next up: Bassiani, Tbilisi on Fri 11 Sept.
+Kerrie is a techno and house artist tracked on soundcheck, with 128 sets logged across Amsterdam, Athens, Barcelona and Basel and 35 more. Often billed alongside Mareena, DJ Bone and Sunil Sharpe. Next up: Tresor / Globus, Berlin on Sat 26 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 11 Sept 2026 | Bassiani | Tbilisi |
 | Sat, 26 Sept 2026 | Tresor / Globus | Berlin |
 | Fri, 9 Oct 2026 | The Legion | Manchester |
 | Sat, 31 Oct 2026 | TBA - East Williamsburg | New York City |
