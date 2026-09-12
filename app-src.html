@@ -4389,7 +4389,7 @@
   <!-- Umami analytics. defer so it never blocks first paint; the SPA rewrites
        history on navigation, which umami picks up automatically. -->
   <script defer src="https://cloud.umami.is/script.js" data-website-id="de210b6c-12e4-4819-95f6-f5120974855a"></script>
-<meta name="sc-build" content="1789214693276">
+<meta name="sc-build" content="1789219214326">
   <link rel="canonical" href="https://soundcheck.club/" />
   <meta property="og:image" content="https://api.soundcheck.club/api/og?v=2&t=soundcheck&s=Club%20nights%20%26%20DJ%20sets%20in%20104%20cities" />
 </head>
@@ -7445,7 +7445,27 @@
       var sh=document.getElementById('mp-share'); if(sh) sh.addEventListener('click',sharePicks);
       var cp=document.getElementById('mp-copy'); if(cp) cp.addEventListener('click',copyPicks);
       var tc=document.getElementById('mp-taste'); if(tc) tc.addEventListener('click',openTasteCard);
-      var cl=document.getElementById('mp-clear'); if(cl) cl.addEventListener('click',function(){ if(!pickCount())return; if(!confirm('Clear all '+pickCount()+' picks?'))return; picks={artists:{},events:{}}; savePicks(); afterPicksChanged(); document.querySelectorAll('.heart.on').forEach(function(b){b.classList.remove('on');}); openMyPicks(); });
+      // CLEAR THROUGH THE SERVER, one pick at a time.
+      //
+      // This used to be `picks={artists:{},events:{}}; savePicks();` — and
+      // savePicks() is a documented no-op ("the server is the store"), so the
+      // wipe never left the tab. The confirm promised to clear N picks, the
+      // screen emptied, and every one of them came back on the next load, on
+      // this device and every other. A destructive action that reports success
+      // and changes nothing is the worst kind.
+      //
+      // setArtist/setEvent are the only functions that talk to the server, and
+      // they already carry the rollback — the per-item X buttons three lines
+      // below have always used them. Keys are snapshotted because each call
+      // mutates `picks` as it goes.
+      var cl=document.getElementById('mp-clear'); if(cl) cl.addEventListener('click',function(){
+        if(!pickCount())return;
+        if(!confirm('Clear all '+pickCount()+' picks?'))return;
+        Object.keys(picks.artists).forEach(function(slug){ setArtist(slug, null); });
+        Object.keys(picks.events).forEach(function(id){ setEvent(id, null); });
+        document.querySelectorAll('.heart.on').forEach(function(b){b.classList.remove('on');});
+        openMyPicks();
+      });
       document.getElementById('mp-shelves').addEventListener('click',function(e){
         var a=e.target.closest('[data-rm-art]'); if(a){ setArtist(a.dataset.rmArt,null); document.getElementById('mp-shelves').innerHTML=picksShelvesHTML(); return; }
         var v=e.target.closest('[data-rm-evt]'); if(v){ setEvent(v.dataset.rmEvt,null); document.getElementById('mp-shelves').innerHTML=picksShelvesHTML(); return; }
@@ -9101,7 +9121,17 @@
         if(!currentUser){ openAuth(); return; }
         var on=fb.classList.contains('following');
         fb.classList.toggle('following'); fb.textContent=on?'Follow':'Following';
-        try{ await authedFetch(on?'/api/unfollow':'/api/follow',{ method:'POST', headers:{'Content-Type':'application/json'}, body:JSON.stringify({handle:fb.dataset.handle}) }); }catch(_){}
+        // REVERT on failure. The catch used to be empty, so a failed follow
+        // left the button saying "Following" forever while the server had no
+        // such row — the optimistic-update corollary, which the People-list
+        // button two screens away already honours.
+        try{
+          var r=await authedFetch(on?'/api/unfollow':'/api/follow',{ method:'POST', headers:{'Content-Type':'application/json'}, body:JSON.stringify({handle:fb.dataset.handle}) });
+          if(!r.ok) throw 0;
+        }catch(_){
+          fb.classList.toggle('following'); fb.textContent=on?'Following':'Follow';
+          showToast(on?'Couldn’t unfollow — try again.':'Couldn’t follow — try again.');
+        }
       });
     }
     function diaryListHTML(rows, isMe){
@@ -12757,8 +12787,20 @@
           var fb=document.createElement('button'); fb.id='shared-follow'; fb.className='primary'; fb.textContent='Follow @'+sharedFrom;
           fb.addEventListener('click',async function(){
             if(!currentUser){ openAuth(); return; }
-            fb.textContent='Following'; fb.disabled=true;
-            try{ await authedFetch('/api/follow',{ method:'POST', headers:{'Content-Type':'application/json'}, body:JSON.stringify({handle:sharedFrom}) }); }catch(_){}
+            // Disable while in flight, and PUT IT BACK if the follow fails.
+            // This used to set "Following" and disabled=true BEFORE the request
+            // and swallow the error, so a failure left a permanently disabled
+            // button permanently claiming a follow that never happened — with
+            // no way to retry short of reloading the page.
+            var label=fb.textContent;
+            fb.disabled=true; fb.textContent='Following';
+            try{
+              var r=await authedFetch('/api/follow',{ method:'POST', headers:{'Content-Type':'application/json'}, body:JSON.stringify({handle:sharedFrom}) });
+              if(!r.ok) throw 0;
+            }catch(_){
+              fb.textContent=label; fb.disabled=false;
+              showToast('Couldn’t follow — try again.');
+            }
           });
           acts.insertBefore(fb, acts.firstChild);
         }

@@ -15,7 +15,7 @@ Sunseabar Beach Club is a music venue in Barcelona listed on soundcheck. 12 upco
 | Sat, 19 Sept 2026 | FREE BEACH PARTY CLOSING SUMMER: Les Enfants x ■ Checkpoint x Troopers (LAST EPISODE)  |  |
 | Sun, 20 Sept 2026 | FREE OPEN AIR BEACH CLOSING PARTY: Lost invites Posay | ATMEN, André Butano, Cesar Martino, Jean Pierre, Karla Amaro |
 | Wed, 23 Sept 2026 | (FREE BEACH PARTY) SIDEWAYS w// Borja S | Borja S, Breezywav, Farres, Jean Bressan |
-| Thu, 24 Sept 2026 | La Mercè Festa a la Platja del Forum Pres Hassler aka Coyu | ATMEN, Breezy S, Cesar Martino, Eli Kapowski, Franz (AR), Günther Robles, Hassler |
+| Thu, 24 Sept 2026 | La Mercè Festa a la Platja del Forum Pres Hassler aka Coyu [FREE ACCESS] | ATMEN, Breezy S, Cesar Martino, Eli Kapowski, Franz (AR), Günther Robles, Hassler |
 | Sat, 26 Sept 2026 | Heels & Souls On The Beach: Liquid Earth, Oriana, acidheaven, Perro Jimbo, VIKk | Arnau, Liquid Earth, Lydia Vilas, Oriana, Perro Jimbo, VIKk, acidheaven |
 | Sat, 26 Sept 2026 | FREE OPEN AIR BEACH PARTY - Spark On The Dust | Alex (ES), Alex Pott, Ion Pananides |
 

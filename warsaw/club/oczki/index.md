@@ -14,7 +14,7 @@ OCZKI is a music venue in Warsaw listed on soundcheck. 7 upcoming nights, with l
 | Tue, 6 Oct 2026 | Unsound Warszawa 2026: PURR - Devon Rexi & John T. Gast / Wendy Eisenberg + more | Devon Rexi, John T. Gast, julek ploski |
 | Fri, 9 Oct 2026 | ARK: Lane 8 - Europe Tour - Warszawa | Lane 8 |
 | Sat, 24 Oct 2026 | PLATFORM: HALLOWEEN | BOBAIO, Józef Keuner, MIKASO, SANTØS, STAF EV |
-| Sat, 31 Oct 2026 | EELF Presents - Warsaw (Halloween Party): Bronka, Target Demographic, Shaolin Cowboy, Pijus | Bronka, Kitty Sarcasm, Pijus, Shaolin Cowboy, Target Demographic |
+| Sat, 31 Oct 2026 | EELF Presents - Warsaw Halloween: Bronka (BR), Pìjus, Target Demographic, Shaolin Cowboy(UK) | Bronka, Kitty Sarcasm, Pijus, Shaolin Cowboy, Target Demographic |
 
 ## Address
 

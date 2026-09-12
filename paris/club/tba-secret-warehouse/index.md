@@ -1,8 +1,8 @@
-# TBA - SECRET WAREHOUSE
+# TBA - Secret Warehouse
 
-TBA - SECRET WAREHOUSE is a music venue in Paris with 5 upcoming nights listed on soundcheck as of Sat, 12 Sept 2026; the next is "SECRET WAREHOUSE RAVE" on Sat, 12 Sept 2026.
+TBA - Secret Warehouse is a music venue in Paris with 5 upcoming nights listed on soundcheck as of Sat, 12 Sept 2026; the next is "SECRET WAREHOUSE RAVE" on Sat, 12 Sept 2026.
 
-TBA - SECRET WAREHOUSE is a music venue in Paris listed on soundcheck. 5 upcoming nights, with line-ups including -CZAR, B!B!, C:3 and DAVIDE (2) and 2 more. Browse upcoming dates, start times and who's playing.
+TBA - Secret Warehouse is a music venue in Paris listed on soundcheck. 5 upcoming nights, with line-ups including -CZAR, B!B!, C:3 and DAVIDE (2) and 2 more. Browse upcoming dates, start times and who's playing.
 
 ## What's on
 

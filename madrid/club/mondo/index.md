@@ -1,6 +1,6 @@
 # Mondo
 
-Mondo is a music venue in Madrid with 17 upcoming nights listed on soundcheck as of Sat, 12 Sept 2026; the next is "AFTERPARTY: Faster Horses / Gerardo Niva / Alba Franch" on Sat, 12 Sept 2026.
+Mondo is a music venue in Madrid with 17 upcoming nights listed on soundcheck as of Sat, 12 Sept 2026; the next is "AFTERPARTY: Gerardo Niva / Alba Franch / pavvvvvvlo" on Sat, 12 Sept 2026.
 
 Mondo is a music venue in Madrid listed on soundcheck. 17 upcoming nights, with line-ups including Alarico, Alba Franch, Alignment and Andres Campo and 2 more. Browse upcoming dates, start times and who's playing. Sala But, C. de Barceló, 11, Local B, Centro, 28004 Madrid.
 
@@ -8,7 +8,7 @@ Mondo is a music venue in Madrid listed on soundcheck. 17 upcoming nights, with 
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 12 Sept 2026 | AFTERPARTY: Faster Horses / Gerardo Niva / Alba Franch | Alba Franch, Faster Horses, Gerardo Niva |
+| Sat, 12 Sept 2026 | AFTERPARTY: Gerardo Niva / Alba Franch / pavvvvvvlo | Alba Franch, Faster Horses, Gerardo Niva, pavvvvvvlo |
 | Thu, 17 Sept 2026 | Alarico pres. KENJI HINA / DJ SWISHERMAN | Alarico, DJ SWISHERMAN |
 | Sat, 19 Sept 2026 | AFTERPARTY: Pegassi / Gerardo Niva B2B NewTone / EMILIJA  | EMILIJA, Gerardo Niva, NewTone, Pegassi |
 | Thu, 24 Sept 2026 | southstar B2B DJ SWISHERMAN  /  Gerardo Niva  /  doccudder   | DJ SWISHERMAN, Gerardo Niva, doccudder, southstar |

@@ -1,6 +1,6 @@
 # Waterworks Extended 2026 at The Cause
 
-Waterworks Extended 2026 at The Cause on Sat 12 Sept, London. 90 acts on the bill: Aba Shanti-I, Alex Kassian, Anz and babyschön and 86 more. Preview the line-up and save it on soundcheck.
+Waterworks Extended 2026 at The Cause on Sat 12 Sept, London. 91 acts on the bill: Aba Shanti-I, Alex Kassian, Anz and babyschön and 87 more. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -77,6 +77,7 @@ Waterworks Extended 2026 at The Cause on Sat 12 Sept, London. 90 acts on the bil
 - OK Williams
 - Oppidan
 - p-rallel
+- Parris
 - Priori
 - Raji Rags
 - Raresh

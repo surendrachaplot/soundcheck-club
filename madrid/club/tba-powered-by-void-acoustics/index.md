@@ -10,6 +10,6 @@ TBA - Powered by: Void Acoustics is a music venue in Madrid listed on soundcheck
 | --- | --- | --- |
 | Sat, 12 Sept 2026 | Plus One Season V Opening X Jeroen Search + Finalversion3 | Ali-Az, Finalversion3, Jeroen Search, Kevin Matto, Systematic Method |
 | Fri, 25 Sept 2026 | ITACA & PORTAL61 at STUDIO76 with Miguel Rivas, NVMB, Atrâm, Quka, KSAL many artist | Atrâm, KSAL, Miguel Rivas, NVMB, P1P3, Quka |
-| Fri, 13 Nov 2026 | Jaleo Real ✷Season 5 Opening✷ |  |
+| Fri, 13 Nov 2026 | Jaleo Real • 5ª Temporada • Parte 1/3 |  |
 
 *Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/tba-powered-by-void-acoustics/)*
