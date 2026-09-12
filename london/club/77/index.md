@@ -14,7 +14,7 @@
 | Sat, 19 Sept 2026 | 77: DEB FA | DUO (UK), Duo, Kidflo |
 | Fri, 25 Sept 2026 | 77 SESSIONS | Hazel Marimba |
 | Sat, 26 Sept 2026 | 77: Vanco | Vanco |
-| Fri, 2 Oct 2026 | 77: The Originals (All Night Long) |  |
+| Fri, 2 Oct 2026 | 77: The Originals (All Night Long) | Supa D, Tippa |
 | Sat, 3 Oct 2026 | Kronologik Rekords presents: BADBOX & Friends | AfroKillerz, BADBOX, Tinovcc |
 | Fri, 9 Oct 2026 | 77: Novak & Vidojean | Novak |
 | Sat, 10 Oct 2026 | Soul Session - Sixteenth Birthday | Angela Rose, Gavin Peters, Melo-D |

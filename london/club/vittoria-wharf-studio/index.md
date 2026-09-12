@@ -17,7 +17,7 @@ Vittoria Wharf Studio is a music venue in London listed on soundcheck. 14 upcomi
 | Fri, 16 Oct 2026 | Nicky Elisabeth | Nicky Elisabeth |
 | Sat, 17 Oct 2026 | PRISM: Aldonna, ASHTREY, Elkka, r:elise | ASHTREY, Aldonna, Elkka, r:elise |
 | Sun, 25 Oct 2026 | Sundays with Voigtmann | Voigtmann |
-| Sat, 31 Oct 2026 | Area 51 Halloween: DMX Krew live, Alien Communications, CRL + Kristina May | Alien Communications, CRL (1), DMX Krew, Kristina May (4) |
+| Sat, 31 Oct 2026 | Area 51 Halloween: DMX Krew live, Alien Communications, CRL + Kristina May | Alien Communications, CRL (1), DMX Krew, Kristina May |
 
 ## Address
 

@@ -13,7 +13,7 @@ Avalon Cafe Bermondsey is a music venue in London listed on soundcheck. 7 upcomi
 | Sat, 19 Sept 2026 | Eterna |  |
 | Sun, 27 Sept 2026 | Devons Road x PJ presents AM 2 PM - summer finale at Avalon Cafe  | Junior Buzz, Rhi Spect |
 | Sat, 3 Oct 2026 | Thrive Inside #3 | Alex Iza |
-| Sat, 24 Oct 2026 | Late Night Essentials 4th Birthday | Isaac Frost, Kristina May (4), Neev. |
+| Sat, 24 Oct 2026 | Late Night Essentials 4th Birthday | Isaac Frost, Kristina May, Neev. |
 | Sat, 31 Oct 2026 | Point of No Return |  |
 
 ## Address

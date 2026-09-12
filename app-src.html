@@ -4403,7 +4403,7 @@
   <!-- Umami analytics. defer so it never blocks first paint; the SPA rewrites
        history on navigation, which umami picks up automatically. -->
   <script defer src="https://cloud.umami.is/script.js" data-website-id="de210b6c-12e4-4819-95f6-f5120974855a"></script>
-<meta name="sc-build" content="1789240168437">
+<meta name="sc-build" content="1789241729249">
   <link rel="canonical" href="https://soundcheck.club/" />
   <meta property="og:image" content="https://api.soundcheck.club/api/og?v=2&t=soundcheck&s=Club%20nights%20%26%20DJ%20sets%20in%20104%20cities" />
 </head>
@@ -11368,8 +11368,39 @@
           // for a beat and then vanish when the ranked bill replaces them.
           if(s){ imgBy[s]=a.image; if(a.setStart) timeBy[s]={ s:a.setStart, e:a.setEnd }; }
         });
-        function renderLineup(items){
+        // A TIMETABLE OUTRANKS THE RANKING.
+        //
+        // renderLineup runs twice: once with the billing-ordered bill, then again
+        // with the taste-engine's ranking, which sorts by how much YOU would want
+        // to see each act. That is right for a bill, and wrong for a timetable —
+        // it put 14:30 above 13:00 and the night read as a shuffled list. When the
+        // promoter published times, chronological order IS the information; the
+        // ranking still contributes its tier badges and reasons, just not the
+        // order. Sorting here, inside renderLineup, covers both call sites.
+        //
+        // Same rollover as the server's orderLineupByNight: a set earlier than the
+        // event's own start is on the far side of midnight (Waterworks runs
+        // 12:00-06:00, so its 00:30 slot is twelve and a half hours in).
+        var _startMin=(function(){
+          var m=/(\d{1,2}):(\d{2})/.exec(String(ev.startTime||ev._time||''));
+          return m ? (+m[1]*60 + +m[2]) : 6*60;
+        })();
+        function byNight(items){
+          if(!items.some(function(a){ return a.slug && timeBy[a.slug]; })) return items;
+          return items.map(function(a,i){ return { a:a, i:i }; }).sort(function(x,y){
+            var kx=key(x.a), ky=key(y.a);
+            return (kx-ky) || (x.i-y.i);
+          }).map(function(w){ return w.a; });
+          function key(a){
+            var t=a.slug?timeBy[a.slug]:null; if(!t) return Infinity;
+            var m=/^(\d{1,2}):(\d{2})$/.exec(t.s); if(!m) return Infinity;
+            var min=+m[1]*60 + +m[2];
+            return min<_startMin ? min+1440 : min;
+          }
+        }
+        function renderLineup(rawItems){
           if(!lineupBox) return;
+          var items=byNight(rawItems);
           if(!items.length){ lineupBox.innerHTML='<div style="padding:14px 18px;color:var(--muted);font:600 var(--fs-sm)/var(--lh-sm) var(--body)">To be announced.</div>'; return; }
           lineupBox.innerHTML=items.map(function(a,i){
             var face=a.image?'background-image:url('+imgUrl(a.image,120)+')':'';
