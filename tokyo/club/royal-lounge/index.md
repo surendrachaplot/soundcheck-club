@@ -1,14 +1,13 @@
 # Royal Lounge
 
-Royal Lounge is a music venue in Tokyo with 11 upcoming nights listed on soundcheck as of Sat, 12 Sept 2026; the next is "'ROYAL FLYDAY' Supported by CEBEDE" on Fri, 11 Sept 2026.
+Royal Lounge is a music venue in Tokyo with 10 upcoming nights listed on soundcheck as of Sat, 12 Sept 2026; the next is "12 SAT WHITE CAT PARTY" on Sat, 12 Sept 2026.
 
-Royal Lounge is a music venue in Tokyo listed on soundcheck. 11 upcoming nights, with line-ups including Addiy, CATRONICA, Funky Gong and Kijta and 2 more. Browse upcoming dates, start times and who's playing. 10F QPRAZA HARAJUKU, 6-28-6, JINGUUMAE, SHIBUYA-KU, Tokyo, 150-0001.
+Royal Lounge is a music venue in Tokyo listed on soundcheck. 10 upcoming nights, with line-ups including Addiy, CATRONICA, Funky Gong and Kijta and 2 more. Browse upcoming dates, start times and who's playing. 10F QPRAZA HARAJUKU, 6-28-6, JINGUUMAE, SHIBUYA-KU, Tokyo, 150-0001.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 11 Sept 2026 | 'ROYAL FLYDAY' Supported by CEBEDE |  |
 | Sat, 12 Sept 2026 | 12 SAT WHITE CAT PARTY |  |
 | Sat, 12 Sept 2026 | ANZU presents. 'SPICE UP YOUR GROOVE' |  |
 | Sun, 13 Sept 2026 | 'ROYAL SUNDAY' Supported by CEBEDE |  |
@@ -18,6 +17,7 @@ Royal Lounge is a music venue in Tokyo listed on soundcheck. 11 upcoming nights,
 | Sun, 20 Sept 2026 | Wasshoi Re:start - House,Tech house- | Addiy, PUNK N MATRIX, Yamariki |
 | Sun, 20 Sept 2026 | 'Wasshoi' |  |
 | Sat, 26 Sept 2026 | Animal Crossing presented by Barn × Kijta | Kijta, OPTIMIST |
+| Sun, 27 Sept 2026 | MAX MOTION feat. FUZZ MUSIC SCHOOL | CATRONICA, Funky Gong, marimari |
 
 ## Address
 

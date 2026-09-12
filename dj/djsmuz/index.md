@@ -1,15 +1,13 @@
 # djsmuz
 
-djsmuz is a House and Disco artist with 4 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at La Cheetah Club, Glasgow on Fri, 11 Sept 2026.
+djsmuz is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at La Cheetah Club, Glasgow on Tue, 15 Sept 2026.
 
-djsmuz is a house and disco artist tracked on soundcheck, with 35 sets logged across Glasgow. Often billed alongside Jenn Gunn (2), Tropicaux and C Frame. Next up: La Cheetah Club, Glasgow on Fri 11 Sept.
+djsmuz is a house and disco artist tracked on soundcheck, with 35 sets logged across Glasgow. Often billed alongside Jenn Gunn (2), Tropicaux and C Frame. Next up: La Cheetah Club, Glasgow on Tue 15 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 11 Sept 2026 | La Cheetah Club | Glasgow |
-| Fri, 11 Sept 2026 | The Buff Club | Glasgow |
 | Tue, 15 Sept 2026 | La Cheetah Club | Glasgow |
 | Fri, 18 Sept 2026 | The Buff Club | Glasgow |
 

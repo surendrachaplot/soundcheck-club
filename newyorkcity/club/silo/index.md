@@ -1,14 +1,13 @@
 # SILO
 
-SILO is a music venue in New York City with 34 upcoming nights listed on soundcheck as of Sat, 12 Sept 2026; the next is "Caspa" on Fri, 11 Sept 2026.
+SILO is a music venue in New York City with 33 upcoming nights listed on soundcheck as of Sat, 12 Sept 2026; the next is "DESCENDANTS: An Afrohouse Experience" on Sat, 12 Sept 2026.
 
-SILO is a music venue in Newyorkcity listed on soundcheck. 34 upcoming nights, with line-ups including Amiti, Anthony Romano, Anyasa and Baauer and 2 more. Browse upcoming dates, start times and who's playing. 90 Scott Ave, East Williamsburg, Brooklyn.
+SILO is a music venue in Newyorkcity listed on soundcheck. 33 upcoming nights, with line-ups including Amiti, Anthony Romano, Anyasa and Baauer and 2 more. Browse upcoming dates, start times and who's playing. 90 Scott Ave, East Williamsburg, Brooklyn.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 11 Sept 2026 | Caspa | Casey Club, Caspa |
 | Sat, 12 Sept 2026 | DESCENDANTS: An Afrohouse Experience | Donis, Kitty Amor, Meedy, pizzi |
 | Sat, 12 Sept 2026 | The Warm Up: Dance Workshop [All Levels] |  |
 | Mon, 14 Sept 2026 | Open Decks with STEEN and SilkyBlack | STEEN |
@@ -18,6 +17,7 @@ SILO is a music venue in Newyorkcity listed on soundcheck. 34 upcoming nights, w
 | Fri, 18 Sept 2026 | Machine Thirst: Bollmann / Firebunny | Bollmann, Firebunny |
 | Sat, 19 Sept 2026 | Baauer: The 'U' Experience | Baauer |
 | Tue, 22 Sept 2026 | Open Decks with Ceviché | ceviché |
+| Wed, 23 Sept 2026 | Open Decks with VHS & Transmute | ceviché |
 
 ## Address
 

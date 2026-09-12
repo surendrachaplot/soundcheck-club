@@ -1,14 +1,13 @@
 # Proudly People
 
-Proudly People is a Tech House and House artist with 2 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Tunnel, Milan on Fri, 11 Sept 2026.
+Proudly People is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Sat, 12 Sept 2026, next at Tantra Bar Ibiza, Ibiza on Tue, 15 Sept 2026.
 
-Proudly People is a tech house and house artist tracked on soundcheck, with 29 sets logged across Amsterdam, Barcelona, Frankfurt and Ibiza and 7 more. Often billed alongside Joe Vanditti, Blackchild and Chicks Luv Us. Next up: Tunnel, Milan on Fri 11 Sept.
+Proudly People is a tech house and house artist tracked on soundcheck, with 29 sets logged across Amsterdam, Barcelona, Frankfurt and Ibiza and 7 more. Often billed alongside Joe Vanditti, Blackchild and Chicks Luv Us. Next up: Tantra Bar Ibiza, Ibiza on Tue 15 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 11 Sept 2026 | Tunnel | Milan |
 | Tue, 15 Sept 2026 | Tantra Bar Ibiza | Ibiza |
 
 ## Recently played

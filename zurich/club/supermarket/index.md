@@ -1,14 +1,13 @@
 # Supermarket
 
-Supermarket is a music venue in Zurich with 8 upcoming nights listed on soundcheck as of Sat, 12 Sept 2026; the next is "28 YEARS Supermarket W/ Ricardo Villalobos" on Fri, 11 Sept 2026.
+Supermarket is a music venue in Zurich with 7 upcoming nights listed on soundcheck as of Sat, 12 Sept 2026; the next is "28 YEARS Supermarket" on Sat, 12 Sept 2026.
 
-Supermarket is a music venue in Zurich listed on soundcheck. 8 upcoming nights, with line-ups including FLETCH, Alci, Aline (CH) and Anthik and 2 more. Browse upcoming dates, start times and who's playing. Geroldstrasse 17; 8005, Zürich; Switzerland.
+Supermarket is a music venue in Zurich listed on soundcheck. 7 upcoming nights, with line-ups including FLETCH, Aline (CH), Anthik and Benosah and 2 more. Browse upcoming dates, start times and who's playing. Geroldstrasse 17; 8005, Zürich; Switzerland.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 11 Sept 2026 | 28 YEARS Supermarket W/ Ricardo Villalobos | Alci, Flavio (CH), Ricardo Villalobos, Styro 2000 |
 | Sat, 12 Sept 2026 | 28 YEARS Supermarket | Aline (CH), Anthik, De La Maso, Dejan, Juzz, Pazkal, Ronny Grauer |
 | Fri, 18 Sept 2026 | KURZ VOR TANZ |  |
 | Sat, 19 Sept 2026 | PLAYROOM | Benosah, FLETCH, Sirol |

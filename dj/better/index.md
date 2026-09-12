@@ -1,14 +1,13 @@
 # Better
 
-Better is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Casa Corona Seoul, Seoul on Fri, 11 Sept 2026.
+Better is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Sat, 12 Sept 2026, next at Casa Corona Seoul, Seoul on Sat, 12 Sept 2026.
 
-Better is a house and tech house artist tracked on soundcheck, with 183 sets logged across Amsterdam, Seoul and Tokyo. Often billed alongside Ruta (2), Beejay and Liza (KR). Next up: Casa Corona Seoul, Seoul on Fri 11 Sept.
+Better is a house and tech house artist tracked on soundcheck, with 183 sets logged across Amsterdam, Seoul and Tokyo. Often billed alongside Ruta (2), Beejay and Liza (KR). Next up: Casa Corona Seoul, Seoul on Sat 12 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 11 Sept 2026 | Casa Corona Seoul | Seoul |
 | Sat, 12 Sept 2026 | Casa Corona Seoul | Seoul |
 
 ## Recently played

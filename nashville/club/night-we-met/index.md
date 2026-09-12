@@ -1,14 +1,13 @@
 # Night We Met
 
-Night We Met is a music venue in Nashville with 20 upcoming nights listed on soundcheck as of Sat, 12 Sept 2026; the next is "HoneyLuv" on Fri, 11 Sept 2026.
+Night We Met is a music venue in Nashville with 19 upcoming nights listed on soundcheck as of Sat, 12 Sept 2026; the next is "Wax Motif" on Sat, 12 Sept 2026.
 
-Night We Met is a music venue in Nashville listed on soundcheck. 20 upcoming nights, with line-ups including Biscits, bradeazy, camoufly and CRi and 2 more. Browse upcoming dates, start times and who's playing. 114 12th Ave N, Nashville, TN 37203 USA.
+Night We Met is a music venue in Nashville listed on soundcheck. 19 upcoming nights, with line-ups including Biscits, bradeazy, camoufly and CRi and 2 more. Browse upcoming dates, start times and who's playing. 114 12th Ave N, Nashville, TN 37203 USA.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 11 Sept 2026 | HoneyLuv | HoneyLuv |
 | Sat, 12 Sept 2026 | Wax Motif | FENIK, Wax Motif |
 | Sun, 13 Sept 2026 | RIOT RANCH |  |
 | Fri, 18 Sept 2026 | Main Phase | Cruel Mistress, Main Phase |
@@ -18,6 +17,7 @@ Night We Met is a music venue in Nashville listed on soundcheck. 20 upcoming nig
 | Thu, 1 Oct 2026 | Atura x Darby |  |
 | Fri, 2 Oct 2026 | DJ MANDY | DJ MANDY |
 | Sat, 3 Oct 2026 | HILLS |  |
+| Fri, 9 Oct 2026 | Distant Matter |  |
 
 ## Address
 

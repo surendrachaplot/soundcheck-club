@@ -1,14 +1,13 @@
 # Zjoso
 
-Zjoso is a House and Deep House artist with 3 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Angel Music Bar, Melbourne on Fri, 11 Sept 2026.
+Zjoso is a House and Deep House artist with 2 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Northcote Theatre, Melbourne on Sat, 19 Sept 2026.
 
-Zjoso is a house and deep house artist tracked on soundcheck, with 93 sets logged across Amsterdam, Bangkok, Berlin and London and 6 more. Often billed alongside Zepherin Saint, DJ JNETT and Adriana (1). Next up: Angel Music Bar, Melbourne on Fri 11 Sept.
+Zjoso is a house and deep house artist tracked on soundcheck, with 93 sets logged across Amsterdam, Bangkok, Berlin and London and 6 more. Often billed alongside Zepherin Saint, DJ JNETT and Adriana (1). Next up: Northcote Theatre, Melbourne on Sat 19 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 11 Sept 2026 | Angel Music Bar | Melbourne |
 | Sat, 19 Sept 2026 | Northcote Theatre | Melbourne |
 | Sat, 26 Sept 2026 | Tender | Melbourne |
 

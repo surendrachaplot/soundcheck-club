@@ -1,14 +1,13 @@
 # Airod
 
-Airod is a Techno and Trance artist with 4 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Kilomètre25, Paris on Fri, 11 Sept 2026.
+Airod is a Techno and Trance artist with 3 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Club Exil, Vienna on Fri, 18 Sept 2026.
 
-Airod is a techno and trance artist tracked on soundcheck, with 130 sets logged across Aberdeen, Amsterdam, Antwerp and Athens and 48 more. Often billed alongside Amelie Lens, Farrago and Jacidorex. Next up: Kilomètre25, Paris on Fri 11 Sept.
+Airod is a techno and trance artist tracked on soundcheck, with 130 sets logged across Aberdeen, Amsterdam, Antwerp and Athens and 48 more. Often billed alongside Amelie Lens, Farrago and Jacidorex. Next up: Club Exil, Vienna on Fri 18 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 11 Sept 2026 | Kilomètre25 | Paris |
 | Fri, 18 Sept 2026 | Club Exil | Vienna |
 | Sat, 26 Sept 2026 | Le Sucre | Lyon |
 | Fri, 9 Oct 2026 | Sala ART | Madrid |

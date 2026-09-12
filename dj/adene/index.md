@@ -1,14 +1,13 @@
 # ädene
 
-ädene is a Techno and Industrial artist with 2 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Budapest Park, Budapest on Fri, 11 Sept 2026.
+ädene is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Sat, 12 Sept 2026, next at Arzenal, Budapest on Sat, 12 Sept 2026.
 
-ädene is a techno and industrial artist based in Hungary, tracked on soundcheck, with 50 sets logged across Budapest. Often billed alongside Johanna Bozai, rav:n and Kamafaka. Next up: Budapest Park, Budapest on Fri 11 Sept.
+ädene is a techno and industrial artist based in Hungary, tracked on soundcheck, with 50 sets logged across Budapest. Often billed alongside Johanna Bozai, rav:n and Kamafaka. Next up: Arzenal, Budapest on Sat 12 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 11 Sept 2026 | Budapest Park | Budapest |
 | Sat, 12 Sept 2026 | Arzenal | Budapest |
 
 ## Recently played

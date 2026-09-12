@@ -1,14 +1,13 @@
 # ogtrues
 
-ogtrues is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at BAR15, Stockholm on Fri, 11 Sept 2026.
+ogtrues is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 12 Sept 2026, next at TBA - Secret Location, Berlin on Sat, 19 Sept 2026.
 
-ogtrues is a techno and house artist tracked on soundcheck, with 66 sets logged across Amsterdam, Berlin, Dusseldorf and Frankfurt and 5 more. Often billed alongside Primal State, BBetriebswirt and Freya K.. Next up: BAR15, Stockholm on Fri 11 Sept.
+ogtrues is a techno and house artist tracked on soundcheck, with 66 sets logged across Amsterdam, Berlin, Dusseldorf and Frankfurt and 5 more. Often billed alongside Primal State, BBetriebswirt and Freya K.. Next up: TBA - Secret Location, Berlin on Sat 19 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 11 Sept 2026 | BAR15 | Stockholm |
 | Sat, 19 Sept 2026 | TBA - Secret Location | Berlin |
 
 ## Recently played

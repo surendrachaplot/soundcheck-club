@@ -1,14 +1,13 @@
 # Goldtooth
 
-Goldtooth is a House and Electronica artist with 2 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Neck of the Woods, Auckland on Fri, 11 Sept 2026.
+Goldtooth is a House and Electronica artist with 1 upcoming club date listed on soundcheck as of Sat, 12 Sept 2026, next at nami record bar, Auckland on Sun, 13 Sept 2026.
 
-Goldtooth is a house and electronica artist based in United Kingdom, tracked on soundcheck, with 15 sets logged across Auckland, Berlin, London and Sydney. Often billed alongside Caru (NZ), Keighto and Surly (JBW). Next up: Neck of the Woods, Auckland on Fri 11 Sept.
+Goldtooth is a house and electronica artist based in United Kingdom, tracked on soundcheck, with 15 sets logged across Auckland, Berlin, London and Sydney. Often billed alongside Caru (NZ), Keighto and Surly (JBW). Next up: nami record bar, Auckland on Sun 13 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 11 Sept 2026 | Neck of the Woods | Auckland |
 | Sun, 13 Sept 2026 | nami record bar | Auckland |
 
 ## Recently played

@@ -1,6 +1,6 @@
 # RSO.BERLIN
 
-RSO.BERLIN is a music venue in Berlin with 19 upcoming nights listed on soundcheck as of Sat, 12 Sept 2026; the next is "The Third Room w/ .VRIL live, Ahmet Sisman, Dasha Rush, Ehua b2b Felix Fleer" on Fri, 11 Sept 2026.
+RSO.BERLIN is a music venue in Berlin with 19 upcoming nights listed on soundcheck as of Sat, 12 Sept 2026; the next is "Home Again Festival - 10 Years" on Sat, 12 Sept 2026.
 
 RSO.BERLIN is a music venue in Berlin listed on soundcheck. 19 upcoming nights, with line-ups including 2HOT2PLAY, NYRA (DE), AEREA and AgainstMe and 2 more. Browse upcoming dates, start times and who's playing. Schnellerstrasse 137, 12439 Berlin.
 
@@ -8,7 +8,6 @@ RSO.BERLIN is a music venue in Berlin listed on soundcheck. 19 upcoming nights, 
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 11 Sept 2026 | The Third Room w/ .VRIL live, Ahmet Sisman, Dasha Rush, Ehua b2b Felix Fleer | .VRIL, Ahmet Sisman, Dasha Rush, Ehua, Felix Fleer |
 | Sat, 12 Sept 2026 | Home Again Festival - 10 Years | Andra, Blame Anthony, Butterhands, Cassy, Chris Stassy, DJ Split, Dan Ghenacia, Disguised, Dj Norma, Eris Drew, GOME, Greta Spark, Home Again Soundsystem, LIA, Lobster (NL), Manuel Fischer, Mara Menace, Marsch, Meggy, Power Squad, Quest, Quest (IT), Robert Owens, Robin RB, Rosa Red, Ryan Elliott, Solomun, TSHA, Thabo, Thalo Santana, Tiago Oudman, Vera, ferrari rot, hawi |
 | Fri, 18 Sept 2026 | KHIDI NIGHT w/ Ancient Methods, Boston 168 live, Liza Rivs and Vulkanski | Ancient Methods, Boston 168, Liza Rivs, Vulkanski |
 | Sat, 19 Sept 2026 | 11 Years Selected | CAIVA, Carmen Electro, EMILIJA, Ellen Trenn, FANK, FLACCO, Frederic., Iman Janes, Luxi Villar, MCR-T, Part Time Killer, Trancemaster Krause, Vermeer, fumi (DE), ÜBERKIKZ |
@@ -18,6 +17,7 @@ RSO.BERLIN is a music venue in Berlin listed on soundcheck. 19 upcoming nights, 
 | Sat, 3 Oct 2026 | XTRUDE x Space Trax w/ ANNĒ, SHDW, JKS, Rebecca Delle Piane, L-3P live, FILTH.y | ANNĒ, AYIM, Exos, FILTH.y, Frank Heise, Félicie, JKS, MXV (1), Maōh, Mefteh, Ness, Philipp Drube, Rebecca Delle Piane, SHDW, Sioc |
 | Fri, 9 Oct 2026 | Radiance w/ BLUME, Delta Rain, Human Space Machine, Luigi Tozzi live | BLUME, Human Space Machine, Luigi Tozzi |
 | Sat, 10 Oct 2026 | WE ARE NOT ALONE | ALI3N, Cleric, Ellen Allien, Introversion, Mama Snake, Metaraph, OLHA, Sarah Sommers, Stephanie Sykes |
+| Fri, 16 Oct 2026 | Self. Control. with CYRK, Moderna, Cosmo Vitelli, Giulia Gutterer & Sesto Senso | CYRK, Cosmo Vitelli, Giulia Gutterer, Moderna, Sesto Sento |
 
 ## Address
 

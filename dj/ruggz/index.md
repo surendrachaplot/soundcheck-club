@@ -1,15 +1,13 @@
 # Ruggz
 
-Ruggz is a Jazz and Grime artist with 3 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Colour Factory, London on Fri, 11 Sept 2026.
+Ruggz is a Jazz and Grime artist with 1 upcoming club date listed on soundcheck as of Sat, 12 Sept 2026, next at Ninety One, London on Sat, 14 Nov 2026.
 
-Ruggz is a jazz and grime artist tracked on soundcheck, with 12 sets logged across Barcelona, Bristol and London. Often billed alongside Lily London, Nancy June and Normski. Next up: Colour Factory, London on Fri 11 Sept.
+Ruggz is a jazz and grime artist tracked on soundcheck, with 12 sets logged across Barcelona, Bristol and London. Often billed alongside Lily London, Nancy June and Normski. Next up: Ninety One, London on Sat 14 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 11 Sept 2026 | Colour Factory | London |
-| Fri, 11 Sept 2026 | Colour Factory | London |
 | Sat, 14 Nov 2026 | Ninety One | London |
 
 ## Recently played

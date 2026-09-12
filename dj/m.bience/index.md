@@ -1,14 +1,13 @@
 # m.bience
 
-m.bience is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Atdge Seoul, Seoul on Fri, 11 Sept 2026.
+m.bience is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Sat, 12 Sept 2026, next at Atdge Seoul, Seoul on Wed, 16 Sept 2026.
 
-m.bience is a techno and trance artist based in Kazakhstan, tracked on soundcheck, with 42 sets logged across Seoul. Often billed alongside PhaseLead, Naturalhigh and ILLUMI. Next up: Atdge Seoul, Seoul on Fri 11 Sept.
+m.bience is a techno and trance artist based in Kazakhstan, tracked on soundcheck, with 42 sets logged across Seoul. Often billed alongside PhaseLead, Naturalhigh and ILLUMI. Next up: Atdge Seoul, Seoul on Wed 16 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 11 Sept 2026 | Atdge Seoul | Seoul |
 | Wed, 16 Sept 2026 | Atdge Seoul | Seoul |
 
 ## Recently played

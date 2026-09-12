@@ -1,14 +1,13 @@
 # Lupion
 
-Lupion is a Techno and Electro artist with 2 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Modeci, Seoul on Fri, 11 Sept 2026.
+Lupion is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Sat, 12 Sept 2026, next at Pistil, Seoul on Sat, 19 Sept 2026.
 
-Lupion is a techno and electro artist based in Japan, tracked on soundcheck, with 13 sets logged across Seoul and Tokyo. Often billed alongside Ryunosuke Urabe, EVE (1) and KOSHIRO. Next up: Modeci, Seoul on Fri 11 Sept.
+Lupion is a techno and electro artist based in Japan, tracked on soundcheck, with 13 sets logged across Seoul and Tokyo. Often billed alongside Ryunosuke Urabe, EVE (1) and KOSHIRO. Next up: Pistil, Seoul on Sat 19 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 11 Sept 2026 | Modeci | Seoul |
 | Sat, 19 Sept 2026 | Pistil | Seoul |
 
 ## Recently played

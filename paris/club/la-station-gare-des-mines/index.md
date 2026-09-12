@@ -1,14 +1,13 @@
 # La Station - Gare des Mines
 
-La Station - Gare des Mines is a music venue in Paris with 14 upcoming nights listed on soundcheck as of Sat, 12 Sept 2026; the next is "HYPERCORE 3: WELCOME TO THE HYPERVERSE (TICKETS EN VENTE SUR PLACE / COMPLET EN PREVENTES)" on Fri, 11 Sept 2026.
+La Station - Gare des Mines is a music venue in Paris with 13 upcoming nights listed on soundcheck as of Sat, 12 Sept 2026; the next is "Tech Noire feat. B1980 ⎮ La der' à la Stass (TICKETS EN VENTE SUR PLACE / COMPLET EN PREVENTES)" on Sat, 12 Sept 2026.
 
-La Station - Gare des Mines is a music venue in Paris listed on soundcheck. 14 upcoming nights, with line-ups including Amnesia Scanner, Brodinski, cfds and Claude Murder and 2 more. Browse upcoming dates, start times and who's playing. 29 avenue de la Porte d’Aubervilliers Paris.
+La Station - Gare des Mines is a music venue in Paris listed on soundcheck. 13 upcoming nights, with line-ups including Amnesia Scanner, Brodinski, cfds and Claude Murder and 2 more. Browse upcoming dates, start times and who's playing. 29 avenue de la Porte d’Aubervilliers Paris.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 11 Sept 2026 | HYPERCORE 3: WELCOME TO THE HYPERVERSE (TICKETS EN VENTE SUR PLACE / COMPLET EN PREVENTES) |  |
 | Sat, 12 Sept 2026 | Tech Noire feat. B1980 ⎮ La der' à la Stass (TICKETS EN VENTE SUR PLACE / COMPLET EN PREVENTES) | law and haktion |
 | Sun, 13 Sept 2026 | CLUB HUMIDE x GROUP THERAPY: support Teadance for La Station | Fenouil2000, Frederik Tollund, Lucifer, Lucky Lube, Selma |
 | Fri, 18 Sept 2026 | PUNK ISSUES #4 · Leona Jacewska LIVE + Lila Ehjä LIVE | Kalyug Citizen, Leona Jacewska, Lila Ehjä, Studerkel, cfds |
@@ -18,6 +17,7 @@ La Station - Gare des Mines is a music venue in Paris listed on soundcheck. 14 u
 | Thu, 1 Oct 2026 | Paris Electronic Week x La Station |  |
 | Sat, 3 Oct 2026 | TEMET X FATA MORGANA | Amnesia Scanner, Elvira, Elvira (1), Less-O, Rosa Pistola, Simo Cell, Tamada, Tamada (FR), k means, rxdazn |
 | Thu, 8 Oct 2026 | ONDULATION by ATOEM #2 |  |
+| Sat, 10 Oct 2026 | Explity Music presents : ENDLESS HARDCORE SUMMER 4 | Claude Murder, Karlfroye, Lolalita, Nouminouw, Talita Otović |
 
 ## Address
 

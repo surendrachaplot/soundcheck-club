@@ -9,7 +9,7 @@ Marcal is a techno and house artist tracked on soundcheck, with 95 sets logged a
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 18 Sept 2026 | TBA - Secret Location | Toronto |
-| Fri, 18 Sept 2026 | TBA - San Francisco | San Francisco/Oakland |
+| Fri, 18 Sept 2026 | TBA - The Loom (2150 Livingston St, Oakland) | San Francisco/Oakland |
 | Fri, 25 Sept 2026 | Stereo | Montreal |
 | Sat, 26 Sept 2026 | BASEMENT | New York City |
 

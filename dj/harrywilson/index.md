@@ -1,14 +1,13 @@
 # Harry Wilson
 
-Harry Wilson is a Progressive House and House artist with 3 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Basing House, London on Fri, 11 Sept 2026.
+Harry Wilson is a Progressive House and House artist with 2 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Jungla London, London on Fri, 2 Oct 2026.
 
-Harry Wilson is a progressive house and house artist tracked on soundcheck, with 20 sets logged across London. Often billed alongside Arterapsy, Francesco Poggi and Bibiminor. Next up: Basing House, London on Fri 11 Sept.
+Harry Wilson is a progressive house and house artist tracked on soundcheck, with 20 sets logged across London. Often billed alongside Arterapsy, Francesco Poggi and Bibiminor. Next up: Jungla London, London on Fri 2 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 11 Sept 2026 | Basing House | London |
 | Fri, 2 Oct 2026 | Jungla London | London |
 | Sat, 24 Oct 2026 | Brixton Jamm | London |
 

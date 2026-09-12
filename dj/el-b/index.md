@@ -1,14 +1,13 @@
 # El-B
 
-El-B is a Garage and Dubstep artist with 2 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Colour Factory, London on Fri, 11 Sept 2026.
+El-B is a Garage and Dubstep artist with 1 upcoming club date listed on soundcheck as of Sat, 12 Sept 2026, next at The Cause, London on Sat, 31 Oct 2026.
 
-El-B is a garage and dubstep artist tracked on soundcheck, with 45 sets logged across Amsterdam, Barcelona, Bristol and Copenhagen and 9 more. Often billed alongside Mantra, Plastician and Zed Bias. Next up: Colour Factory, London on Fri 11 Sept.
+El-B is a garage and dubstep artist tracked on soundcheck, with 45 sets logged across Amsterdam, Barcelona, Bristol and Copenhagen and 9 more. Often billed alongside Mantra, Plastician and Zed Bias. Next up: The Cause, London on Sat 31 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 11 Sept 2026 | Colour Factory | London |
 | Sat, 31 Oct 2026 | The Cause | London |
 
 ## Recently played

@@ -1,14 +1,13 @@
 # Culture Cafe
 
-Culture Cafe is a music venue in Bangkok with 38 upcoming nights listed on soundcheck as of Sat, 12 Sept 2026; the next is "DARK GROOVE ADDICT Vinyl Set presents: Deep hypnotic Techno" on Fri, 11 Sept 2026.
+Culture Cafe is a music venue in Bangkok with 37 upcoming nights listed on soundcheck as of Sat, 12 Sept 2026; the next is "Saturday Vinyl Minimal&Techno Sessions with MOODYBOOM / Highwire crew" on Sat, 12 Sept 2026.
 
-Culture Cafe is a music venue in Bangkok listed on soundcheck. 38 upcoming nights, with line-ups including Damon Rider, DJ Krit Morton, djmoca and Giantsiam and 2 more. Browse upcoming dates, start times and who's playing. 249 Thanon Samsen, Wat Sam Phraya, Phra Nakorn, Bangkok, Thailand, Bangkok.
+Culture Cafe is a music venue in Bangkok listed on soundcheck. 37 upcoming nights, with line-ups including Damon Rider, DJ Krit Morton, djmoca and Giantsiam and 2 more. Browse upcoming dates, start times and who's playing. 249 Thanon Samsen, Wat Sam Phraya, Phra Nakorn, Bangkok, Thailand, Bangkok.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 11 Sept 2026 | DARK GROOVE ADDICT Vinyl Set presents: Deep hypnotic Techno | Kanabis Stoned, djmoca |
 | Sat, 12 Sept 2026 | Saturday Vinyl Minimal&Techno Sessions with MOODYBOOM / Highwire crew | DJ Krit Morton, MOODYBOOM |
 | Sun, 13 Sept 2026 | G2G House'n'Techno Music Collective presents; Giantsiam | Giantsiam |
 | Mon, 14 Sept 2026 | Monday Night: Minimal&Techno Vinyl Sessions by plazdj | plazdj |
@@ -18,6 +17,7 @@ Culture Cafe is a music venue in Bangkok listed on soundcheck. 38 upcoming night
 | Fri, 18 Sept 2026 | HARD EDGE: Dark&Industrial Hard Techno | Damon Rider, Gunya, The3RD |
 | Sat, 19 Sept 2026 | Krit Morton Invites Bangkok vinyl junkie presents; 6 hours of his solo vinyl set | DJ Krit Morton, Kanabis Stoned, MOODYBOOM, djmoca |
 | Sun, 20 Sept 2026 | G2G House'n'Techno Music Collective presents; Giantsiam | Giantsiam |
+| Mon, 21 Sept 2026 | Monday Night: Minimal&Techno Vinyl Sessions by plazdj | plazdj |
 
 ## Address
 

@@ -1,14 +1,13 @@
 # Dazegxd
 
-Dazegxd is a Jungle and House artist with 4 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Elsewhere, New York City on Fri, 11 Sept 2026.
+Dazegxd is a Jungle and House artist with 3 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at TBA - CALL INFOLINE, Boston on Sat, 12 Sept 2026.
 
-Dazegxd is a jungle and house artist tracked on soundcheck, with 103 sets logged across Austin, Boston, Bristol and Chicago and 15 more. Often billed alongside Yesterdayneverhappened, gum.mp3 and Swami Sound. Next up: Elsewhere, Newyorkcity on Fri 11 Sept.
+Dazegxd is a jungle and house artist tracked on soundcheck, with 103 sets logged across Austin, Boston, Bristol and Chicago and 15 more. Often billed alongside Yesterdayneverhappened, gum.mp3 and Swami Sound. Next up: TBA - CALL INFOLINE, Boston on Sat 12 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 11 Sept 2026 | Elsewhere | New York City |
 | Sat, 12 Sept 2026 | TBA - CALL INFOLINE | Boston |
 | Tue, 22 Sept 2026 | Terminal 5 | New York City |
 | Sat, 7 Nov 2026 | Public Works | San Francisco/Oakland |

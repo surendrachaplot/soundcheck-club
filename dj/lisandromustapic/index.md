@@ -1,14 +1,13 @@
 # Lisandro Mustapic
 
-Lisandro Mustapic is a House and Minimal artist with 2 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Cadavra, Madrid on Fri, 11 Sept 2026.
+Lisandro Mustapic is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Sat, 12 Sept 2026, next at 303 Audiophile Bar, Barcelona on Wed, 23 Sept 2026.
 
-Lisandro Mustapic is a house and minimal artist based in Spain, tracked on soundcheck, with 47 sets logged across Barcelona and Madrid. Often billed alongside IVAN POSEIDON, MARYO and Derk. Next up: Cadavra, Madrid on Fri 11 Sept.
+Lisandro Mustapic is a house and minimal artist based in Spain, tracked on soundcheck, with 47 sets logged across Barcelona and Madrid. Often billed alongside IVAN POSEIDON, MARYO and Derk. Next up: 303 Audiophile Bar, Barcelona on Wed 23 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 11 Sept 2026 | Cadavra | Madrid |
 | Wed, 23 Sept 2026 | 303 Audiophile Bar | Barcelona |
 
 ## Recently played

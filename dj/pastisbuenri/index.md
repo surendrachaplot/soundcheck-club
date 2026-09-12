@@ -1,14 +1,13 @@
 # Pastis & Buenri
 
-Pastis & Buenri is a Techno and Hardcore artist with 2 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Lokschuppen Berlin, Berlin on Fri, 11 Sept 2026.
+Pastis & Buenri is a Techno and Hardcore artist with 1 upcoming club date listed on soundcheck as of Sat, 12 Sept 2026, next at Fabrik, Madrid on Sat, 17 Oct 2026.
 
-Pastis & Buenri are a techno and hardcore duo tracked on soundcheck, with 24 sets logged across Barcelona, Berlin, Ibiza and Madrid and 2 more. Often billed alongside Carnada, Ozzwald and Adrian Mills. Next up: Lokschuppen Berlin, Berlin on Fri 11 Sept.
+Pastis & Buenri are a techno and hardcore duo tracked on soundcheck, with 24 sets logged across Barcelona, Berlin, Ibiza and Madrid and 2 more. Often billed alongside Carnada, Ozzwald and Adrian Mills. Next up: Fabrik, Madrid on Sat 17 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 11 Sept 2026 | Lokschuppen Berlin | Berlin |
 | Sat, 17 Oct 2026 | Fabrik | Madrid |
 
 ## Recently played

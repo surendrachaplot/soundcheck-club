@@ -1,13 +1,14 @@
 # Der Weiße Hase
 
-Der Weiße Hase is a music venue in Berlin with 16 upcoming nights listed on soundcheck as of Sat, 12 Sept 2026; the next is "Die Lust am Feiern" on Sat, 12 Sept 2026.
+Der Weiße Hase is a music venue in Berlin with 17 upcoming nights listed on soundcheck as of Sat, 12 Sept 2026; the next is "Trance Rebellion" on Fri, 11 Sept 2026.
 
-Der Weiße Hase is a music venue in Berlin listed on soundcheck. 16 upcoming nights, with line-ups including Ari Denaro, August Kind, bbymeister and Bisk and 2 more. Browse upcoming dates, start times and who's playing. Revaler Str 99, 10245 Berlin.
+Der Weiße Hase is a music venue in Berlin listed on soundcheck. 17 upcoming nights, with line-ups including Ari Denaro, August Kind, bbymeister and Bisk and 2 more. Browse upcoming dates, start times and who's playing. Revaler Str 99, 10245 Berlin.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
+| Fri, 11 Sept 2026 | Trance Rebellion | DJ Schieferkiefer, Daora, Emma (8), Fabian Fischbach, MØABEAT |
 | Sat, 12 Sept 2026 | Die Lust am Feiern |  |
 | Tue, 15 Sept 2026 | Smash & HART ◢◤ Tuesday Rave & Open Air Garden [free entry until midnight*] | August Kind, Erebos, MARRE |
 | Thu, 17 Sept 2026 | Straff ◢◤ Thursday Techno & Open Air Garden | Emma (8), TechNovaBader |
@@ -17,7 +18,6 @@ Der Weiße Hase is a music venue in Berlin listed on soundcheck. 16 upcoming nig
 | Thu, 24 Sept 2026 | STRAFF / Thursday Techno | Ari Denaro, Epicx |
 | Fri, 25 Sept 2026 | Techno Ihr Hasen | Johnny Allwess, Morris Fitch, Wiebe Roose, ZÖ (1), eliXenia |
 | Sat, 26 Sept 2026 | We Love Techno | Chaos Techno.Berlin, Dave, Disturbed Berlin, Fabian Fischbach, Sika Akis |
-| Tue, 29 Sept 2026 | Smash & HART ◢◤ Tuesday Rave & Open Air Garden [free entry until midnight*] | Felix Reichelt, Klangpusch, ZÖ (1) |
 
 ## Address
 

@@ -1,14 +1,13 @@
 # Harry McCanna
 
-Harry McCanna is a House and Tech House artist with 6 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at FOLD, London on Fri, 11 Sept 2026.
+Harry McCanna is a House and Tech House artist with 5 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Starlane Pizza Bar, London on Sat, 12 Sept 2026.
 
-Harry McCanna is a house and tech house artist tracked on soundcheck, with 134 sets logged across Amsterdam, Athens, Barcelona and Berlin and 21 more. Often billed alongside Sam Bangura, Dale Mussington and NorthSouth. Next up: FOLD, London on Fri 11 Sept.
+Harry McCanna is a house and tech house artist tracked on soundcheck, with 134 sets logged across Amsterdam, Athens, Barcelona and Berlin and 21 more. Often billed alongside Sam Bangura, Dale Mussington and NorthSouth. Next up: Starlane Pizza Bar, London on Sat 12 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 11 Sept 2026 | FOLD | London |
 | Sat, 12 Sept 2026 | Starlane Pizza Bar | London |
 | Sat, 12 Sept 2026 | Starlane Pizza Bar | London |
 | Sat, 26 Sept 2026 | Arc Space | Nottingham |

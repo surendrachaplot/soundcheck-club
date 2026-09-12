@@ -1,14 +1,13 @@
 # LEV (UK)
 
-LEV (UK) is a House and Disco artist with 5 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Amnesia Ibiza, Ibiza on Fri, 11 Sept 2026.
+LEV (UK) is a House and Disco artist with 4 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at The Glove That Fits, London on Sat, 12 Sept 2026.
 
-LEV (UK) is a house and disco artist tracked on soundcheck, with 88 sets logged across Amsterdam, Berlin, Bristol and Edinburgh and 6 more. Often billed alongside Faro, Aroop Roy and MiNNA. Next up: Amnesia Ibiza, Ibiza on Fri 11 Sept.
+LEV (UK) is a house and disco artist tracked on soundcheck, with 88 sets logged across Amsterdam, Berlin, Bristol and Edinburgh and 6 more. Often billed alongside Faro, Aroop Roy and MiNNA. Next up: The Glove That Fits, London on Sat 12 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 11 Sept 2026 | Amnesia Ibiza | Ibiza |
 | Sat, 12 Sept 2026 | The Glove That Fits | London |
 | Sat, 19 Sept 2026 | DRUMSHEDS | London |
 | Sat, 10 Oct 2026 | Omeara | London |

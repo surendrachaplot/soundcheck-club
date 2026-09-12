@@ -1,14 +1,13 @@
 # Cristal No.5
 
-Cristal No.5 is a Bass and Club artist with 2 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Chinese Laundry, Sydney on Fri, 11 Sept 2026.
+Cristal No.5 is a Bass and Club artist with 1 upcoming club date listed on soundcheck as of Sat, 12 Sept 2026, next at The Red Rattler, Sydney on Sat, 19 Sept 2026.
 
-Cristal No.5 is a bass and club artist based in Australia, tracked on soundcheck, with 35 sets logged across Bangkok, Melbourne and Sydney. Often billed alongside Haus of Ralph, Mon Franco and Baschoe. Next up: Chinese Laundry, Sydney on Fri 11 Sept.
+Cristal No.5 is a bass and club artist based in Australia, tracked on soundcheck, with 35 sets logged across Bangkok, Melbourne and Sydney. Often billed alongside Haus of Ralph, Mon Franco and Baschoe. Next up: The Red Rattler, Sydney on Sat 19 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 11 Sept 2026 | Chinese Laundry | Sydney |
 | Sat, 19 Sept 2026 | The Red Rattler | Sydney |
 
 ## Recently played

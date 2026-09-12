@@ -1,14 +1,13 @@
 # D I N
 
-D I N is a House and Minimal artist with 3 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at TBA - Backstage Bar, Barcelona on Fri, 11 Sept 2026.
+D I N is a House and Minimal artist with 2 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Sigma, Ibiza on Sun, 13 Sept 2026.
 
-D I N is a house and minimal artist based in Latvia, tracked on soundcheck, with 42 sets logged across Barcelona, Berlin, Budapest and Ibiza and 2 more. Often billed alongside iOAN (LV), Adroit and Ikss. Next up: TBA - Backstage Bar, Barcelona on Fri 11 Sept.
+D I N is a house and minimal artist based in Latvia, tracked on soundcheck, with 42 sets logged across Barcelona, Berlin, Budapest and Ibiza and 2 more. Often billed alongside iOAN (LV), Adroit and Ikss. Next up: Sigma, Ibiza on Sun 13 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 11 Sept 2026 | TBA - Backstage Bar | Barcelona |
 | Sun, 13 Sept 2026 | Sigma | Ibiza |
 | Fri, 2 Oct 2026 | B2 Rīga | Riga |
 

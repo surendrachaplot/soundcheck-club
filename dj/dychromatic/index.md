@@ -1,14 +1,13 @@
 # Dychromatic
 
-Dychromatic is a Techno and Minimal Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at elipamanoke, Leipzig on Fri, 11 Sept 2026.
+Dychromatic is a Techno and Minimal Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 12 Sept 2026, next at Tresor.West, Dortmund-essen on Sat, 19 Sept 2026.
 
-Dychromatic is a techno and minimal techno artist tracked on soundcheck, with 5 sets logged across Berlin, Copenhagen, Dortmund-essen and Leipzig. Often billed alongside Anuli, Lip71 and Rostøm. Next up: elipamanoke, Leipzig on Fri 11 Sept.
+Dychromatic is a techno and minimal techno artist tracked on soundcheck, with 5 sets logged across Berlin, Copenhagen, Dortmund-essen and Leipzig. Often billed alongside Anuli, Lip71 and Rostøm. Next up: Tresor.West, Dortmund-essen on Sat 19 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 11 Sept 2026 | elipamanoke | Leipzig |
 | Sat, 19 Sept 2026 | Tresor.West | Dortmund-essen |
 
 ## Recently played

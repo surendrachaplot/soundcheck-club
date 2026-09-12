@@ -1,14 +1,13 @@
 # Mija
 
-Mija is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Hangaren, Copenhagen on Fri, 11 Sept 2026.
+Mija is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at M7 Warehouse, Melbourne on Fri, 9 Oct 2026.
 
-Mija is a techno and house artist tracked on soundcheck, with 125 sets logged across Amsterdam, Antwerp, Austin and Barcelona and 42 more. Often billed alongside Bad Boombox, Mischluft and Janis Zielinski. Next up: Hangaren, Copenhagen on Fri 11 Sept.
+Mija is a techno and house artist tracked on soundcheck, with 125 sets logged across Amsterdam, Antwerp, Austin and Barcelona and 42 more. Often billed alongside Bad Boombox, Mischluft and Janis Zielinski. Next up: M7 Warehouse, Melbourne on Fri 9 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 11 Sept 2026 | Hangaren | Copenhagen |
 | Fri, 9 Oct 2026 | M7 Warehouse | Melbourne |
 | Sat, 10 Oct 2026 | Manning Bar | Sydney |
 | Thu, 22 Oct 2026 | Lofi | Amsterdam |

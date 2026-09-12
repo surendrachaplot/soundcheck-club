@@ -1,14 +1,13 @@
 # Mia Mao
 
-Mia Mao is a music venue in Paris with 14 upcoming nights listed on soundcheck as of Sat, 12 Sept 2026; the next is "THUNDER : A.N.I., ANIME, A5KM, XINA MORA & MORE" on Fri, 11 Sept 2026.
+Mia Mao is a music venue in Paris with 13 upcoming nights listed on soundcheck as of Sat, 12 Sept 2026; the next is "TAPE: Felinae, Amygdala, FC Kabagar, INSO.ENCE, KLÖSS & " on Sat, 12 Sept 2026.
 
-Mia Mao is a music venue in Paris listed on soundcheck. 14 upcoming nights, with line-ups including Adame DJ, Alba Franch, Alex Nantaya and Amygdala and 2 more. Browse upcoming dates, start times and who's playing. 12a rue Ella Fitzgerald, 75019, Paris, FRANCE.
+Mia Mao is a music venue in Paris listed on soundcheck. 13 upcoming nights, with line-ups including Adame DJ, Alba Franch, Alex Nantaya and Amygdala and 2 more. Browse upcoming dates, start times and who's playing. 12a rue Ella Fitzgerald, 75019, Paris, FRANCE.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 11 Sept 2026 | THUNDER : A.N.I., ANIME, A5KM, XINA MORA & MORE | A.N.I., BOTICKA, SaltySis, Yoshiko |
 | Sat, 12 Sept 2026 | TAPE: Felinae, Amygdala, FC Kabagar, INSO.ENCE, KLÖSS &  | Amygdala, Annie, FC Kabagar, Felinae, KLÖSS |
 | Thu, 17 Sept 2026 | Orka: MOSMOZ, Wanton, SKOLLARIS & PAULINE D7 | Wanton |
 | Fri, 18 Sept 2026 | LOSING CONTROL: Anja Schneider, KIKO B2B Oxia, Madben & MORE | Anja Schneider, Kiko (2), Madben, Maud Geffray, Oxia |
@@ -18,6 +17,7 @@ Mia Mao is a music venue in Paris listed on soundcheck. 14 upcoming nights, with
 | Sat, 26 Sept 2026 | Orka x Sakral : KX CHR, Popof, Alex Nantaya, Night Owl, RATZ | Alex Nantaya, KX CHR, Night Owl, Popof |
 | Fri, 2 Oct 2026 | Pisica: Alba Franch, franck, Antonym B2b George Radsport &… | Alba Franch, Antonym, FØSS, HANÀ, Westfall, franck |
 | Sat, 3 Oct 2026 | Ohlala presents UKF Paris |  |
+| Fri, 9 Oct 2026 | Lycanthropie: Marc Acardipane, Dr Macabre, Manu Le Malin | Marc Acardipane, ÆSTR |
 
 ## Address
 

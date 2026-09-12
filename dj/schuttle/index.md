@@ -1,14 +1,13 @@
 # Schuttle
 
-Schuttle is a Acid and Experimental artist with 2 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at The White Hotel, Manchester on Fri, 11 Sept 2026.
+Schuttle is a Acid and Experimental artist with 1 upcoming club date listed on soundcheck as of Sat, 12 Sept 2026, next at Spanners, London on Sat, 26 Sept 2026.
 
-Schuttle is an acid and experimental artist based in United Kingdom, tracked on soundcheck, with 16 sets logged across Bristol, Leeds, Liverpool and London and 2 more. Often billed alongside Bitzer Maloney, Jorg Kuning and Abena. Next up: The White Hotel, Manchester on Fri 11 Sept.
+Schuttle is an acid and experimental artist based in United Kingdom, tracked on soundcheck, with 16 sets logged across Bristol, Leeds, Liverpool and London and 2 more. Often billed alongside Bitzer Maloney, Jorg Kuning and Abena. Next up: Spanners, London on Sat 26 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 11 Sept 2026 | The White Hotel | Manchester |
 | Sat, 26 Sept 2026 | Spanners | London |
 
 ## Recently played

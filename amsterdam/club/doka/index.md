@@ -1,14 +1,13 @@
 # Doka
 
-Doka is a music venue in Amsterdam with 18 upcoming nights listed on soundcheck as of Sat, 12 Sept 2026; the next is "Polychrome x Doka Studio with Faited - Tanzverbot" on Fri, 11 Sept 2026.
+Doka is a music venue in Amsterdam with 17 upcoming nights listed on soundcheck as of Sat, 12 Sept 2026; the next is "Doka Studio with Antal (All night long)" on Sat, 12 Sept 2026.
 
-Doka is a music venue in Amsterdam listed on soundcheck. 18 upcoming nights, with line-ups including Antal, Anz, babyschön and CARISTA and 2 more. Browse upcoming dates, start times and who's playing. Wibautstraat 150, 1091 GR Amsterdam, Netherlands.
+Doka is a music venue in Amsterdam listed on soundcheck. 17 upcoming nights, with line-ups including Antal, Anz, babyschön and CARISTA and 2 more. Browse upcoming dates, start times and who's playing. Wibautstraat 150, 1091 GR Amsterdam, Netherlands.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 11 Sept 2026 | Polychrome x Doka Studio with Faited - Tanzverbot | Faited |
 | Sat, 12 Sept 2026 | Doka Studio with Antal (All night long) | Antal |
 | Sun, 13 Sept 2026 | Ciranda Sundays x Doka Studio with Charmaine - Mendel  | Charmaine, Mendel |
 | Fri, 18 Sept 2026 | Likeminded x Doka Studio with TBA |  |
@@ -18,6 +17,7 @@ Doka is a music venue in Amsterdam listed on soundcheck. 18 upcoming nights, wit
 | Fri, 25 Sept 2026 | Doka Studio with Vladimir Ivkovic - Intergalactic Gary | Intergalactic Gary, Vladimir Ivkovic |
 | Sat, 26 Sept 2026 | Doka Studio with DJ Tracksuit - Nathalie Seres | DJ Tracksuit, Nathalie Seres |
 | Sun, 27 Sept 2026 | Steppin' Into Tomorrow x Doka Studio with mo w/rights - Lucas Benjamin | Lucas Benjamin, Mo Wrights |
+| Sat, 3 Oct 2026 | Unsilenced x Doka Studio with Petre Inspirescu (All night long) | Petre Inspirescu |
 
 ## Address
 

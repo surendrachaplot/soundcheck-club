@@ -11,7 +11,7 @@ DJ MARIA. is a techno and trance artist tracked on soundcheck, with 145 sets log
 | Thu, 10 Sept 2026 | Camp Kennybrook | New York City |
 | Fri, 11 Sept 2026 | Signal | New York City |
 | Fri, 18 Sept 2026 | Fort Mifflin | Philadelphia |
-| Fri, 18 Sept 2026 | TBA - San Francisco | San Francisco/Oakland |
+| Fri, 18 Sept 2026 | TBA - The Loom (2150 Livingston St, Oakland) | San Francisco/Oakland |
 | Sun, 20 Sept 2026 | TBA | Montreal |
 | Fri, 25 Sept 2026 | Somewhere in the Mountains. | Bali |
 | Fri, 9 Oct 2026 | Mitsuki | Tokyo |

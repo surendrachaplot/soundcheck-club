@@ -1,14 +1,13 @@
 # Sandra Mason
 
-Sandra Mason is a Experimental and Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at THE MAGICK BAR, Rome on Fri, 11 Sept 2026.
+Sandra Mason is a Experimental and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 12 Sept 2026, next at TBA - Via Bartolomeo Eustachi 38, Milano, Milan on Sat, 12 Sept 2026.
 
-Sandra Mason is an experimental and techno artist tracked on soundcheck, with 35 sets logged across Berlin, Milan, Naples and Rome and 1 more. Often billed alongside Cosimo Damiano, Gattonero and Marco Ragni. Next up: THE MAGICK BAR, Rome on Fri 11 Sept.
+Sandra Mason is an experimental and techno artist tracked on soundcheck, with 35 sets logged across Berlin, Milan, Naples and Rome and 1 more. Often billed alongside Cosimo Damiano, Gattonero and Marco Ragni. Next up: TBA - Via Bartolomeo Eustachi 38, Milano, Milan on Sat 12 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 11 Sept 2026 | THE MAGICK BAR | Rome |
 | Sat, 12 Sept 2026 | TBA - Via Bartolomeo Eustachi 38, Milano | Milan |
 
 ## Recently played

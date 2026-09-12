@@ -1,14 +1,13 @@
 # pink.wav
 
-pink.wav is a Techno and Bass artist with 2 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Romantso, Athens on Fri, 11 Sept 2026.
+pink.wav is a Techno and Bass artist with 1 upcoming club date listed on soundcheck as of Sat, 12 Sept 2026, next at IT Athens, Athens on Sat, 10 Oct 2026.
 
-pink.wav is a techno and bass artist tracked on soundcheck, with 45 sets logged across Athens, Brussels and Prague. Often billed alongside Poor J’Darr, Andreas Palmer and Miss Trouli. Next up: Romantso, Athens on Fri 11 Sept.
+pink.wav is a techno and bass artist tracked on soundcheck, with 45 sets logged across Athens, Brussels and Prague. Often billed alongside Poor J’Darr, Andreas Palmer and Miss Trouli. Next up: IT Athens, Athens on Sat 10 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 11 Sept 2026 | Romantso | Athens |
 | Sat, 10 Oct 2026 | IT Athens | Athens |
 
 ## Recently played

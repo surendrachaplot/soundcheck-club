@@ -1,14 +1,13 @@
 # Sensorium
 
-Sensorium is a music venue in Berlin with 22 upcoming nights listed on soundcheck as of Sat, 12 Sept 2026; the next is "ETHER" on Fri, 11 Sept 2026.
+Sensorium is a music venue in Berlin with 21 upcoming nights listed on soundcheck as of Sat, 12 Sept 2026; the next is "TRIG" on Sun, 13 Sept 2026.
 
-Sensorium is a music venue in Berlin listed on soundcheck. 22 upcoming nights, with line-ups including Abdallah and I, Andeel, Bee Lincoln and Blck-Swan and 2 more. Browse upcoming dates, start times and who's playing. warschauer platz 18, 10245 Berlin.
+Sensorium is a music venue in Berlin listed on soundcheck. 21 upcoming nights, with line-ups including Abdallah and I, Andeel, Bee Lincoln and Blck-Swan and 2 more. Browse upcoming dates, start times and who's playing. warschauer platz 18, 10245 Berlin.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 11 Sept 2026 | ETHER | Bouquet, Hyperrealist Dreamer, Ivana_dnb, MixB, N3LYSTAR, Saint Popsy |
 | Sun, 13 Sept 2026 | TRIG | Fugist |
 | Wed, 16 Sept 2026 | TECHNO MITTWOCH: TAKE YOUR FREE TICKETS  | Blck-Swan, FAUST (1), NYCTO, SAAMO |
 | Fri, 18 Sept 2026 | ETHER | DJ YumYum, DaSoMaZo, Sonse, Tashi Tashi, fU.impact |
@@ -18,6 +17,7 @@ Sensorium is a music venue in Berlin listed on soundcheck. 22 upcoming nights, w
 | Fri, 25 Sept 2026 | ETHER |  |
 | Sat, 26 Sept 2026 | Oriental Nights & Elemental Rememberance - A Sun & Earth Experience with Organic Electronic Music | Abdallah and I, Andeel, Lara Elfara |
 | Sun, 27 Sept 2026 | TRIG | Mute |
+| Wed, 30 Sept 2026 | TECHNO MITTWOCH | Gabrielle (DE), KunstTechnologe, Michael Marchi, nixmoon |
 
 ## Address
 

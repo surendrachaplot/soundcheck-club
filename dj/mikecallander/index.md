@@ -1,14 +1,13 @@
 # Mike Callander
 
-Mike Callander is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Revolver Upstairs, Melbourne on Fri, 11 Sept 2026.
+Mike Callander is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 12 Sept 2026, next at Revolver Upstairs, Melbourne on Fri, 25 Sept 2026.
 
-Mike Callander is a techno and house artist tracked on soundcheck, with 154 sets logged across Melbourne and Sydney. Often billed alongside Acid Safari, DJ Kiti and Chiara Kickdrum. Next up: Revolver Upstairs, Melbourne on Fri 11 Sept.
+Mike Callander is a techno and house artist tracked on soundcheck, with 154 sets logged across Melbourne and Sydney. Often billed alongside Acid Safari, DJ Kiti and Chiara Kickdrum. Next up: Revolver Upstairs, Melbourne on Fri 25 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 11 Sept 2026 | Revolver Upstairs | Melbourne |
 | Fri, 25 Sept 2026 | Revolver Upstairs | Melbourne |
 
 ## Recently played

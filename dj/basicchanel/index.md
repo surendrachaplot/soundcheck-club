@@ -1,14 +1,13 @@
 # basic chanel
 
-basic chanel is a Techno and Dub Techno artist with 3 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Ormside Projects, London on Fri, 11 Sept 2026.
+basic chanel is a Techno and Dub Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Ankali & Planeta Za, Prague on Fri, 9 Oct 2026.
 
-basic chanel is a techno and dub techno artist tracked on soundcheck, with 41 sets logged across Amsterdam, Berlin, Brussels and London and 2 more. Often billed alongside Paquita Gordon, Allecto and Cam Joon. Next up: Ormside Projects, London on Fri 11 Sept.
+basic chanel is a techno and dub techno artist tracked on soundcheck, with 41 sets logged across Amsterdam, Berlin, Brussels and London and 2 more. Often billed alongside Paquita Gordon, Allecto and Cam Joon. Next up: Ankali & Planeta Za, Prague on Fri 9 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 11 Sept 2026 | Ormside Projects | London |
 | Fri, 9 Oct 2026 | Ankali & Planeta Za | Prague |
 | Sat, 7 Nov 2026 | FOLD | London |
 

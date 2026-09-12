@@ -1,14 +1,13 @@
 # Winson Ngoh
 
-Winson Ngoh is a Techno and Industrial artist with 10 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at 131 Mccormack St, Toronto on Fri, 11 Sept 2026.
+Winson Ngoh is a Techno and Industrial artist with 9 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Knockdown Center, New York City on Sat, 12 Sept 2026.
 
-Winson Ngoh is a techno and industrial artist tracked on soundcheck, with 33 sets logged across Amsterdam, Antwerp, Barcelona and Belfast and 21 more. Often billed alongside KUKO, Fantasm and Winson. Next up: 131 Mccormack St, Toronto on Fri 11 Sept.
+Winson Ngoh is a techno and industrial artist tracked on soundcheck, with 33 sets logged across Amsterdam, Antwerp, Barcelona and Belfast and 21 more. Often billed alongside KUKO, Fantasm and Winson. Next up: Knockdown Center, Newyorkcity on Sat 12 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 11 Sept 2026 | 131 Mccormack St | Toronto |
 | Sat, 12 Sept 2026 | Knockdown Center | New York City |
 | Fri, 18 Sept 2026 | Radius | Chicago |
 | Sat, 19 Sept 2026 | TBA - Pabellón Oeste del Palacio de los Deportes | Mexico City |

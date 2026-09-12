@@ -1,14 +1,13 @@
 # Jump Source
 
-Jump Source is a Techno and Deep House artist with 6 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Virage, Paris on Fri, 11 Sept 2026.
+Jump Source is a Techno and Deep House artist with 5 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Berghain | Panorama Bar | Säule, Berlin on Sat, 12 Sept 2026.
 
-Jump Source is a techno and deep house artist based in Canada, tracked on soundcheck, with 25 sets logged across Barcelona, Berlin, Brussels and Chicago and 9 more. Often billed alongside Patrick Holland, Priori and Blood Orange. Next up: Virage, Paris on Fri 11 Sept.
+Jump Source is a techno and deep house artist based in Canada, tracked on soundcheck, with 25 sets logged across Barcelona, Berlin, Brussels and Chicago and 9 more. Often billed alongside Patrick Holland, Priori and Blood Orange. Next up: Berghain | Panorama Bar | Säule, Berlin on Sat 12 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 11 Sept 2026 | Virage | Paris |
 | Sat, 12 Sept 2026 | Berghain / Panorama Bar / Säule | Berlin |
 | Fri, 18 Sept 2026 | Fort Mifflin | Philadelphia |
 | Sun, 27 Sept 2026 | public records | New York City |

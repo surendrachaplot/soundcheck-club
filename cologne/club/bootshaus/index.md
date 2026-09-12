@@ -1,14 +1,13 @@
 # Bootshaus
 
-Bootshaus is a music venue in Cologne with 16 upcoming nights listed on soundcheck as of Sat, 12 Sept 2026; the next is "Blacklist & Inurfase pres. ZAAGSTEP by Dr Donk" on Fri, 11 Sept 2026.
+Bootshaus is a music venue in Cologne with 15 upcoming nights listed on soundcheck as of Sat, 12 Sept 2026; the next is "Polyamor Bootshaus with davyboi, PRADA2000, Mika Heggemann & many more" on Fri, 18 Sept 2026.
 
-Bootshaus is a music venue in Cologne listed on soundcheck. 16 upcoming nights, with line-ups including 2HOT2PLAY, 333CXT, ADEMES and Afem Syko and 2 more. Browse upcoming dates, start times and who's playing. Auenweg 173; 51063 Cologne; Germany.
+Bootshaus is a music venue in Cologne listed on soundcheck. 15 upcoming nights, with line-ups including 2HOT2PLAY, 333CXT, ADEMES and Afem Syko and 2 more. Browse upcoming dates, start times and who's playing. Auenweg 173; 51063 Cologne; Germany.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 11 Sept 2026 | Blacklist & Inurfase pres. ZAAGSTEP by Dr Donk | Dr Donk, Lekkerfaces, Yoshiko |
 | Fri, 18 Sept 2026 | Polyamor Bootshaus with davyboi, PRADA2000, Mika Heggemann & many more | Alba Franch, Cleopard2000, Elotrance, Mika Heggemann, PRADA2000, SATYS FYRE, Trancemaster Krause, davyboi, t e s t p r e s s |
 | Fri, 18 Sept 2026 | polyamor | Alba Franch, Cleopard2000, Elotrance, HiTMiLØW, Justin Tinderdate, Mika Heggemann, PRADA2000, SATYS FYRE, Trancemaster Krause, davyboi |
 | Sun, 20 Sept 2026 | VERTILE pres. EVERYTHING CHANGES -LIVE- |  |
@@ -18,6 +17,7 @@ Bootshaus is a music venue in Cologne listed on soundcheck. 16 upcoming nights, 
 | Fri, 16 Oct 2026 | Chris Stassy pres. by Bootshaus | Chris Stassy |
 | Sat, 17 Oct 2026 | Cosmic Gate pres by Bootshaus & Senses | Cosmic Gate, Yotto |
 | Fri, 23 Oct 2026 | AFFENKÄFIG RULES // Bootshaus KÖLN |  |
+| Sat, 24 Oct 2026 | SA - 24.10.2026 / KitKatClub |  |
 
 ## Address
 

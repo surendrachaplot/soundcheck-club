@@ -1,14 +1,13 @@
 # Flava D
 
-Flava D is a Drum & Bass and Bass artist with 8 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Circus Osaka, Osaka on Fri, 11 Sept 2026.
+Flava D is a Drum & Bass and Bass artist with 7 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Circus Tokyo, Tokyo on Sat, 12 Sept 2026.
 
-Flava D is a drum & bass and bass artist based in United Kingdom, tracked on soundcheck, with 100 sets logged across Amsterdam, Auckland, Austin and Berlin and 34 more. Often billed alongside P Money, Whiney and Andy C. Next up: Circus Osaka, Osaka on Fri 11 Sept.
+Flava D is a drum & bass and bass artist based in United Kingdom, tracked on soundcheck, with 100 sets logged across Amsterdam, Auckland, Austin and Berlin and 34 more. Often billed alongside P Money, Whiney and Andy C. Next up: Circus Tokyo, Tokyo on Sat 12 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 11 Sept 2026 | Circus Osaka | Osaka |
 | Sat, 12 Sept 2026 | Circus Tokyo | Tokyo |
 | Sat, 19 Sept 2026 | Glen Helen Regional Park | Los Angeles |
 | Fri, 2 Oct 2026 | The Regency Ballroom | San Francisco/Oakland |

@@ -1,8 +1,8 @@
 # Blawan
 
-Blawan is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Various Venues, London on Thu, 24 Sept 2026.
+Blawan is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Various Venues, London on Thu, 24 Sept 2026.
 
-Blawan is a techno and house artist tracked on soundcheck, with 153 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 53 more. Often billed alongside Helena Hauff, JakoJako and Pariah. Next up: Various Venues, London on Thu 24 Sept.
+Blawan is a techno and house artist tracked on soundcheck, with 155 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 53 more. Often billed alongside Helena Hauff, JakoJako and Pariah. Next up: Various Venues, London on Thu 24 Sept.
 
 ## Upcoming shows
 
@@ -11,6 +11,8 @@ Blawan is a techno and house artist tracked on soundcheck, with 153 sets logged 
 | Thu, 24 Sept 2026 | Various Venues | London |
 | Fri, 25 Sept 2026 | Outernet Live | London |
 | Fri, 30 Oct 2026 | Depot Mayfield | Manchester |
+| Fri, 11 Dec 2026 | Gate Milano | Milan |
+| Fri, 11 Dec 2026 | Gate Milano | Milan |
 
 ## Recently played
 

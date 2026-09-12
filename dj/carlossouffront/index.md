@@ -9,7 +9,7 @@ Carlos Souffront is a techno and acid artist tracked on soundcheck, with 108 set
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 18 Sept 2026 | Fort Mifflin | Philadelphia |
-| Fri, 18 Sept 2026 | TBA - San Francisco | San Francisco/Oakland |
+| Fri, 18 Sept 2026 | TBA - The Loom (2150 Livingston St, Oakland) | San Francisco/Oakland |
 | Sun, 20 Sept 2026 | feedbk | New York City |
 | Fri, 2 Oct 2026 | Green Room NYC | New York City |
 | Sat, 3 Oct 2026 | TBA | Boston |

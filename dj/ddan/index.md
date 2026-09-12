@@ -1,14 +1,13 @@
 # D.Dan
 
-D.Dan is a Techno and House artist with 10 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at TBA - Los Angeles, Los Angeles on Fri, 11 Sept 2026.
+D.Dan is a Techno and House artist with 9 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at BASEMENT, New York City on Sat, 19 Sept 2026.
 
-D.Dan is a techno and house artist tracked on soundcheck, with 197 sets logged across Amsterdam, Athens, Austin and Barcelona and 59 more. Often billed alongside DJ TOOL, Hyperaktivist and Yazzus. Next up: TBA - Los Angeles, Losangeles on Fri 11 Sept.
+D.Dan is a techno and house artist tracked on soundcheck, with 197 sets logged across Amsterdam, Athens, Austin and Barcelona and 59 more. Often billed alongside DJ TOOL, Hyperaktivist and Yazzus. Next up: BASEMENT, Newyorkcity on Sat 19 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 11 Sept 2026 | TBA - Los Angeles | Los Angeles |
 | Sat, 19 Sept 2026 | BASEMENT | New York City |
 | Sun, 20 Sept 2026 | TBA | Montreal |
 | Sat, 3 Oct 2026 | Sidney Myer Music Bowl | Melbourne |

@@ -1,14 +1,13 @@
 # Temple Rat
 
-Temple Rat is a Techno and Ambient artist with 8 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at TBA - secret location, Copenhagen on Fri, 11 Sept 2026.
+Temple Rat is a Techno and Ambient artist with 7 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at 90mil, Berlin on Thu, 17 Sept 2026.
 
-Temple Rat is a techno and ambient artist based in China, tracked on soundcheck, with 51 sets logged across Amsterdam, Bangkok, Berlin and Copenhagen and 7 more. Often billed alongside David Fogarty, Sound Metaphors Djs and Alicia Carrera. Next up: TBA - secret location, Copenhagen on Fri 11 Sept.
+Temple Rat is a techno and ambient artist based in China, tracked on soundcheck, with 51 sets logged across Amsterdam, Bangkok, Berlin and Copenhagen and 7 more. Often billed alongside David Fogarty, Sound Metaphors Djs and Alicia Carrera. Next up: 90mil, Berlin on Thu 17 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 11 Sept 2026 | TBA - secret location | Copenhagen |
 | Thu, 17 Sept 2026 | 90mil | Berlin |
 | Fri, 18 Sept 2026 | CLUB RAUM | Amsterdam |
 | Sun, 27 Sept 2026 | Club Cheek | London |

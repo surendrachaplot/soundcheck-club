@@ -1,14 +1,13 @@
 # Kotatsu
 
-Kotatsu is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at R Lounge, Tokyo on Fri, 11 Sept 2026.
+Kotatsu is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at DeTour, Tokyo on Wed, 23 Sept 2026.
 
-Kotatsu is a house and techno artist based in France, tracked on soundcheck, with 49 sets logged across Osaka and Tokyo. Often billed alongside SIGNAL (JP), WAKA XINXI and Alex Ormond. Next up: R Lounge, Tokyo on Fri 11 Sept.
+Kotatsu is a house and techno artist based in France, tracked on soundcheck, with 49 sets logged across Osaka and Tokyo. Often billed alongside SIGNAL (JP), WAKA XINXI and Alex Ormond. Next up: DeTour, Tokyo on Wed 23 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 11 Sept 2026 | R Lounge | Tokyo |
 | Wed, 23 Sept 2026 | DeTour | Tokyo |
 | Fri, 30 Oct 2026 | Fai Aoyama | Tokyo |
 

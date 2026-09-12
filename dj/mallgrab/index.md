@@ -1,6 +1,6 @@
 # Mall Grab
 
-Mall Grab is a Techno and House artist with 9 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Palmerstown House Estate, Dublin on Fri, 11 Sept 2026.
+Mall Grab is a Techno and House artist with 8 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Palmerstown House Estate, Dublin on Fri, 11 Sept 2026.
 
 Mall Grab is a techno and house artist tracked on soundcheck, with 207 sets logged across Aberdeen, Amsterdam, Antwerp and Athens and 64 more. Often billed alongside Effy, KETTAMA and Skin On Skin. Next up: Palmerstown House Estate, Dublin on Fri 11 Sept.
 
@@ -9,7 +9,6 @@ Mall Grab is a techno and house artist tracked on soundcheck, with 207 sets logg
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 11 Sept 2026 | Palmerstown House Estate | Dublin |
-| Fri, 11 Sept 2026 | Prince Charles | Berlin |
 | Sun, 20 Sept 2026 | Factory Town | Miami |
 | Sat, 10 Oct 2026 | Carriageworks | Sydney |
 | Sat, 24 Oct 2026 | Société des arts technologiques | Montreal |

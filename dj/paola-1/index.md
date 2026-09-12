@@ -1,14 +1,13 @@
 # Paola (1)
 
-Paola (1) is a Techno and Tech House artist with 3 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Oven Club, Valencia on Fri, 11 Sept 2026.
+Paola (1) is a Techno and Tech House artist with 2 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Oven Club, Valencia on Thu, 17 Sept 2026.
 
-Paola (1) is a techno and tech house artist based in France, tracked on soundcheck, with 27 sets logged across Barcelona, Berlin, Geneva and London and 2 more. Often billed alongside abs8lute, BAR (DE) and Domi (FR). Next up: Oven Club, Valencia on Fri 11 Sept.
+Paola (1) is a techno and tech house artist based in France, tracked on soundcheck, with 27 sets logged across Barcelona, Berlin, Geneva and London and 2 more. Often billed alongside abs8lute, BAR (DE) and Domi (FR). Next up: Oven Club, Valencia on Thu 17 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 11 Sept 2026 | Oven Club | Valencia |
 | Thu, 17 Sept 2026 | Oven Club | Valencia |
 | Sat, 31 Oct 2026 | Spook Club | Valencia |
 

@@ -1,14 +1,13 @@
 # Loco Dice
 
-Loco Dice is a Tech House and House artist with 10 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at The Bassement, Madrid on Fri, 11 Sept 2026.
+Loco Dice is a Tech House and House artist with 9 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at IFEMA, Madrid on Fri, 18 Sept 2026.
 
-Loco Dice is a tech house and house artist tracked on soundcheck, with 204 sets logged across Amsterdam, Austin, Bali and Bangkok and 43 more. Often billed alongside Jamie Jones, Marco Carola and Seth Troxler. Next up: The Bassement, Madrid on Fri 11 Sept.
+Loco Dice is a tech house and house artist tracked on soundcheck, with 204 sets logged across Amsterdam, Austin, Bali and Bangkok and 43 more. Often billed alongside Jamie Jones, Marco Carola and Seth Troxler. Next up: IFEMA, Madrid on Fri 18 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 11 Sept 2026 | The Bassement | Madrid |
 | Fri, 18 Sept 2026 | IFEMA | Madrid |
 | Fri, 18 Sept 2026 | IFEMA | Madrid |
 | Sat, 19 Sept 2026 | Carroponte | Milan |

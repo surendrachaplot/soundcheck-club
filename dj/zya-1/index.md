@@ -1,14 +1,13 @@
 # Zya (1)
 
-Zya (1) is a Minimal and House artist with 2 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at FOLD, London on Fri, 11 Sept 2026.
+Zya (1) is a Minimal and House artist with 1 upcoming club date listed on soundcheck as of Sat, 12 Sept 2026, next at Starlane Pizza Bar, London on Sat, 12 Sept 2026.
 
-Zya (1) is a minimal and house artist tracked on soundcheck, with 16 sets logged across Bucharest, Ibiza, London and Zurich. Often billed alongside Harry McCanna, Andrei Ciubuc and Cap. Next up: FOLD, London on Fri 11 Sept.
+Zya (1) is a minimal and house artist tracked on soundcheck, with 16 sets logged across Bucharest, Ibiza, London and Zurich. Often billed alongside Harry McCanna, Andrei Ciubuc and Cap. Next up: Starlane Pizza Bar, London on Sat 12 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 11 Sept 2026 | FOLD | London |
 | Sat, 12 Sept 2026 | Starlane Pizza Bar | London |
 
 ## Recently played

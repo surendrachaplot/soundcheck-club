@@ -1,14 +1,13 @@
 # Appleblim
 
-Appleblim is a Bass and Dub artist with 3 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Moon Club, Bristol on Fri, 11 Sept 2026.
+Appleblim is a Bass and Dub artist with 2 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Şahika, Istanbul on Sat, 7 Nov 2026.
 
-Appleblim is a bass and dub artist tracked on soundcheck, with 55 sets logged across Berlin, Bristol, Galway and Istanbul and 4 more. Often billed alongside Low End Activist, Wrecked Lightship and Demdike Stare. Next up: Moon Club, Bristol on Fri 11 Sept.
+Appleblim is a bass and dub artist tracked on soundcheck, with 55 sets logged across Berlin, Bristol, Galway and Istanbul and 4 more. Often billed alongside Low End Activist, Wrecked Lightship and Demdike Stare. Next up: Şahika, Istanbul on Sat 7 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 11 Sept 2026 | Moon Club | Bristol |
 | Sat, 7 Nov 2026 | Şahika | Istanbul |
 | Sat, 14 Nov 2026 | Ormside Projects | London |
 

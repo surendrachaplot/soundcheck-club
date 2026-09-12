@@ -1,14 +1,13 @@
 # Winson
 
-Winson is a Techno and Deep House artist with 10 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at 131 Mccormack St, Toronto on Fri, 11 Sept 2026.
+Winson is a Techno and Deep House artist with 9 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Knockdown Center, New York City on Sat, 12 Sept 2026.
 
-Winson is a techno and deep house artist tracked on soundcheck, with 73 sets logged across Amsterdam, Barcelona, Basel and Brussels and 28 more. Often billed alongside KUKO, KLOFAMA and KARAH. Next up: 131 Mccormack St, Toronto on Fri 11 Sept.
+Winson is a techno and deep house artist tracked on soundcheck, with 73 sets logged across Amsterdam, Barcelona, Basel and Brussels and 28 more. Often billed alongside KUKO, KLOFAMA and KARAH. Next up: Knockdown Center, Newyorkcity on Sat 12 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 11 Sept 2026 | 131 Mccormack St | Toronto |
 | Sat, 12 Sept 2026 | Knockdown Center | New York City |
 | Fri, 18 Sept 2026 | Radius | Chicago |
 | Fri, 18 Sept 2026 | Radius | Chicago |

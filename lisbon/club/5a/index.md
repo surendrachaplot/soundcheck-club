@@ -1,14 +1,13 @@
 # 5A
 
-5A is a music venue in Lisbon with 6 upcoming nights listed on soundcheck as of Sat, 12 Sept 2026; the next is "Cosmic JD" on Fri, 11 Sept 2026.
+5A is a music venue in Lisbon with 5 upcoming nights listed on soundcheck as of Sat, 12 Sept 2026; the next is "Ze Salvador" on Sat, 12 Sept 2026.
 
-5A is a music venue in Lisbon listed on soundcheck. 6 upcoming nights, with line-ups including Andre Cascais, Cosmic JD, Cruz (PT) and Ze Salvador. Browse upcoming dates, start times and who's playing. Rua Noronha, 5A 1250-168 Lisbon, Portugal.
+5A is a music venue in Lisbon listed on soundcheck. 5 upcoming nights, with line-ups including Andre Cascais, Cruz (PT) and Ze Salvador. Browse upcoming dates, start times and who's playing. Rua Noronha, 5A 1250-168 Lisbon, Portugal.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 11 Sept 2026 | Cosmic JD | Cosmic JD |
 | Sat, 12 Sept 2026 | Ze Salvador | Ze Salvador |
 | Sat, 19 Sept 2026 | Cruz | Cruz (PT) |
 | Sat, 19 Sept 2026 | Septimal C |  |

@@ -1,14 +1,13 @@
 # Jyoty
 
-Jyoty is a House and Techno artist with 12 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Nowadays, New York City on Fri, 11 Sept 2026.
+Jyoty is a House and Techno artist with 11 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Signal, New York City on Sat, 12 Sept 2026.
 
-Jyoty is a house and techno artist tracked on soundcheck, with 137 sets logged across Amsterdam, Athens, Auckland and Bali and 41 more. Often billed alongside Skrillex, Overmono and Ben UFO. Next up: Nowadays, Newyorkcity on Fri 11 Sept.
+Jyoty is a house and techno artist tracked on soundcheck, with 137 sets logged across Amsterdam, Athens, Auckland and Bali and 41 more. Often billed alongside Skrillex, Overmono and Ben UFO. Next up: Signal, Newyorkcity on Sat 12 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 11 Sept 2026 | Nowadays | New York City |
 | Sat, 12 Sept 2026 | Signal | New York City |
 | Fri, 18 Sept 2026 | TBA - DTLA Warehouse | Los Angeles |
 | Fri, 25 Sept 2026 | The Regency Ballroom | San Francisco/Oakland |

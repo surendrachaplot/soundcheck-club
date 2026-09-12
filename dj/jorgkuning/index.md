@@ -1,14 +1,13 @@
 # Jorg Kuning
 
-Jorg Kuning is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at The White Hotel, Manchester on Fri, 11 Sept 2026.
+Jorg Kuning is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Gaffe, London on Sat, 19 Sept 2026.
 
-Jorg Kuning is a house and techno artist tracked on soundcheck, with 66 sets logged across Amsterdam, Athens, Berlin and Bristol and 14 more. Often billed alongside Bitzer Maloney, Daisy Moon and K-LONE. Next up: The White Hotel, Manchester on Fri 11 Sept.
+Jorg Kuning is a house and techno artist tracked on soundcheck, with 66 sets logged across Amsterdam, Athens, Berlin and Bristol and 14 more. Often billed alongside Bitzer Maloney, Daisy Moon and K-LONE. Next up: Gaffe, London on Sat 19 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 11 Sept 2026 | The White Hotel | Manchester |
 | Sat, 19 Sept 2026 | Gaffe | London |
 | Sun, 25 Oct 2026 | Shelter Amsterdam | Amsterdam |
 | Fri, 11 Dec 2026 | Meredith Supernatural Ampitheatre | Melbourne |

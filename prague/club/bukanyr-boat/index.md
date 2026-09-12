@@ -1,14 +1,13 @@
 # Bukanyr Boat
 
-Bukanyr Boat is a music venue in Prague with 6 upcoming nights listed on soundcheck as of Sat, 12 Sept 2026; the next is "Spank - djs Ondrej K, Identic, Zissou" on Fri, 11 Sept 2026.
+Bukanyr Boat is a music venue in Prague with 5 upcoming nights listed on soundcheck as of Sat, 12 Sept 2026; the next is "Sexy Beats - djs Lumiere, Moskito, Baloo" on Sat, 12 Sept 2026.
 
-Bukanyr Boat is a music venue in Prague listed on soundcheck. 6 upcoming nights, with line-ups including abecko, Caren Callas, Cubik and Da Moon and 2 more. Browse upcoming dates, start times and who's playing. Nábřeží Ludvíka Svobody 1, 110 00 Prague, Czech Republic.
+Bukanyr Boat is a music venue in Prague listed on soundcheck. 5 upcoming nights, with line-ups including abecko, Caren Callas, Cubik and Da Moon and 2 more. Browse upcoming dates, start times and who's playing. Nábřeží Ludvíka Svobody 1, 110 00 Prague, Czech Republic.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 11 Sept 2026 | Spank - djs Ondrej K, Identic, Zissou | Identic, Ondrej K, Zissou |
 | Sat, 12 Sept 2026 | Sexy Beats - djs Lumiere, Moskito, Baloo | DJ Lumiere |
 | Fri, 18 Sept 2026 | Caren Callas (DE / Paracou), Lillou, Takē | Caren Callas, Lillou, Takē |
 | Sat, 19 Sept 2026 | Vivacity - Cubik, Da Moon, Sta | Cubik, Da Moon |

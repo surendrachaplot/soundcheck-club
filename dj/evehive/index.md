@@ -1,14 +1,13 @@
 # EVEHIVE
 
-EVEHIVE is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Ephigenia, Sao Paulo on Fri, 11 Sept 2026.
+EVEHIVE is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 12 Sept 2026, next at Barraco SP /CO, Sao Paulo on Sat, 12 Sept 2026.
 
-EVEHIVE is a house and techno artist tracked on soundcheck, with 46 sets logged across Berlin, Hamburg, Lisbon and London and 2 more. Often billed alongside Kontronatura, BADSISTA and Suelen Mesmo. Next up: Ephigenia, Saopaulo on Fri 11 Sept.
+EVEHIVE is a house and techno artist tracked on soundcheck, with 46 sets logged across Berlin, Hamburg, Lisbon and London and 2 more. Often billed alongside Kontronatura, BADSISTA and Suelen Mesmo. Next up: Barraco SP /CO, Saopaulo on Sat 12 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 11 Sept 2026 | Ephigenia | Sao Paulo |
 | Sat, 12 Sept 2026 | Barraco SP /CO | Sao Paulo |
 
 ## Recently played

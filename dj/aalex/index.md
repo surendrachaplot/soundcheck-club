@@ -1,14 +1,13 @@
 # AALEX
 
-AALEX is a Deep House and Progressive House artist with 2 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Basing House, London on Fri, 11 Sept 2026.
+AALEX is a Deep House and Progressive House artist with 1 upcoming club date listed on soundcheck as of Sat, 12 Sept 2026, next at Folklore, London on Sat, 17 Oct 2026.
 
-AALEX is a deep house and progressive house artist tracked on soundcheck, with 6 sets logged across London. Often billed alongside Alythia Kwan, MARIUS SEBASTIAN and MEAKIN. Next up: Basing House, London on Fri 11 Sept.
+AALEX is a deep house and progressive house artist tracked on soundcheck, with 6 sets logged across London. Often billed alongside Alythia Kwan, MARIUS SEBASTIAN and MEAKIN. Next up: Folklore, London on Sat 17 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 11 Sept 2026 | Basing House | London |
 | Sat, 17 Oct 2026 | Folklore | London |
 
 ## Recently played

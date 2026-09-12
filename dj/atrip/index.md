@@ -1,14 +1,13 @@
 # ATRIP
 
-ATRIP is a House and Garage artist with 6 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Village Studios, Vancouver on Fri, 11 Sept 2026.
+ATRIP is a House and Garage artist with 5 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Academy LA, Los Angeles on Sat, 12 Sept 2026.
 
-ATRIP is a house and garage artist tracked on soundcheck, with 82 sets logged across Amsterdam, Austin, Barcelona and Belfast and 37 more. Often billed alongside DJ BORING, Oppidan and salute. Next up: Village Studios, Vancouver on Fri 11 Sept.
+ATRIP is a house and garage artist tracked on soundcheck, with 82 sets logged across Amsterdam, Austin, Barcelona and Belfast and 37 more. Often billed alongside DJ BORING, Oppidan and salute. Next up: Academy LA, Losangeles on Sat 12 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 11 Sept 2026 | Village Studios | Vancouver |
 | Sat, 12 Sept 2026 | Academy LA | Los Angeles |
 | Sat, 19 Sept 2026 | Prysm Nightclub | Chicago |
 | Fri, 30 Oct 2026 | Factory Town | Miami |

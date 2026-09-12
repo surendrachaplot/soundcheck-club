@@ -1,14 +1,13 @@
 # Mason Cooper
 
-Mason Cooper is a House and Tech House artist with 3 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at TBA - Secret location announced only to ticket holders, Ibiza on Fri, 11 Sept 2026.
+Mason Cooper is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at DRUMSHEDS, London on Sat, 3 Oct 2026.
 
-Mason Cooper is a house and tech house artist tracked on soundcheck, with 25 sets logged across Amsterdam, Ibiza, Leeds and London and 2 more. Often billed alongside Joss Dean, Tommy Phillips and Max Dean. Next up: TBA - Secret location announced only to ticket holders, Ibiza on Fri 11 Sept.
+Mason Cooper is a house and tech house artist tracked on soundcheck, with 25 sets logged across Amsterdam, Ibiza, Leeds and London and 2 more. Often billed alongside Joss Dean, Tommy Phillips and Max Dean. Next up: DRUMSHEDS, London on Sat 3 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 11 Sept 2026 | TBA - Secret location announced only to ticket holders | Ibiza |
 | Sat, 3 Oct 2026 | DRUMSHEDS | London |
 | Sat, 24 Oct 2026 | Pllek | Amsterdam |
 

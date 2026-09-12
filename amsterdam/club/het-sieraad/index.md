@@ -1,14 +1,13 @@
 # Het Sieraad
 
-Het Sieraad is a music venue in Amsterdam with 21 upcoming nights listed on soundcheck as of Sat, 12 Sept 2026; the next is "Supersonic Agency with Susan Right - Hollt - Mitch de Klein - Re-Type" on Fri, 11 Sept 2026.
+Het Sieraad is a music venue in Amsterdam with 20 upcoming nights listed on soundcheck as of Sat, 12 Sept 2026; the next is "Club Stëlz x Het Sieraad" on Sat, 12 Sept 2026.
 
-Het Sieraad is a music venue in Amsterdam listed on soundcheck. 21 upcoming nights, with line-ups including Adam Ten, Adapter, Anthony Middleton and [ares] and 2 more. Browse upcoming dates, start times and who's playing. Postjesweg 1, 1057 DT Amsterdam.
+Het Sieraad is a music venue in Amsterdam listed on soundcheck. 20 upcoming nights, with line-ups including Adam Ten, Adapter, Anthony Middleton and [ares] and 2 more. Browse upcoming dates, start times and who's playing. Postjesweg 1, 1057 DT Amsterdam.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 11 Sept 2026 | Supersonic Agency with Susan Right - Hollt - Mitch de Klein - Re-Type | Deeparture, Hollt, Mitch de Klein, Susan Right |
 | Sat, 12 Sept 2026 | Club Stëlz x Het Sieraad | Michel de Hey, Unregular |
 | Fri, 18 Sept 2026 | Free Your Mind x Schrotthagen | Schrotthagen |
 | Fri, 25 Sept 2026 | I-F - EILEEN - 5 hour sets | Eileen (NL), I-F |
@@ -18,6 +17,7 @@ Het Sieraad is a music venue in Amsterdam listed on soundcheck. 21 upcoming nigh
 | Sat, 10 Oct 2026 | Hedda Stenberg Invites: Emanuel Satie - Ivory - Hedda Stenberg - Tonco b2b ARC | Arc Music, Emanuel Satie, Hedda Stenberg, Ivory, Tonco |
 | Fri, 16 Oct 2026 | Line up TBA | Berkan V8, Kyra Khaldi |
 | Sat, 17 Oct 2026 | Throwback - Back to 80s, 90s & 00s - Amsterdam |  |
+| Thu, 22 Oct 2026 | Adam Ten b2b Mita Gami - Yamagucci - Tom Zeta | Adam Ten, Mita Gami, Tom Zeta, Yamagucci (2) |
 
 ## Address
 

@@ -1,14 +1,13 @@
 # Unai Trotti
 
-Unai Trotti is a Techno and House artist with 8 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Coco Boule, Berlin on Fri, 11 Sept 2026.
+Unai Trotti is a Techno and House artist with 7 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Bunker, Turin on Sat, 12 Sept 2026.
 
-Unai Trotti is a techno and house artist tracked on soundcheck, with 162 sets logged across Amsterdam, Antwerp, Austin and Bali and 46 more. Often billed alongside Z@p, Vass and Junki Inoue. Next up: Coco Boule, Berlin on Fri 11 Sept.
+Unai Trotti is a techno and house artist tracked on soundcheck, with 162 sets logged across Amsterdam, Antwerp, Austin and Bali and 46 more. Often billed alongside Z@p, Vass and Junki Inoue. Next up: Bunker, Turin on Sat 12 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 11 Sept 2026 | Coco Boule | Berlin |
 | Sat, 12 Sept 2026 | Bunker | Turin |
 | Fri, 18 Sept 2026 | Fort Mifflin | Philadelphia |
 | Fri, 18 Sept 2026 | Signal | New York City |

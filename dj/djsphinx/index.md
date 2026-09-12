@@ -1,14 +1,13 @@
 # DJ SPHiNX
 
-DJ SPHiNX is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Northern Lights Lounge, Detroit on Fri, 11 Sept 2026.
+DJ SPHiNX is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at TBA - Vault313 - 16940 Hamilton Ave., Highland Park, MI 48203, Detroit on Sat, 10 Oct 2026.
 
-DJ SPHiNX is a techno and house artist based in United States of America, tracked on soundcheck, with 87 sets logged across Detroit and Paris. Often billed alongside LATEX GIRL, Craig Gonzalez and hypemelo. Next up: Northern Lights Lounge, Detroit on Fri 11 Sept.
+DJ SPHiNX is a techno and house artist based in United States of America, tracked on soundcheck, with 87 sets logged across Detroit and Paris. Often billed alongside LATEX GIRL, Craig Gonzalez and hypemelo. Next up: TBA - Vault313 - 16940 Hamilton Ave., Highland Park, MI 48203, Detroit on Sat 10 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 11 Sept 2026 | Northern Lights Lounge | Detroit |
 | Sat, 10 Oct 2026 | TBA - Vault313 - 16940 Hamilton Ave., Highland Park, MI 48203 | Detroit |
 | Sat, 14 Nov 2026 | Russell Industrial Center | Detroit |
 

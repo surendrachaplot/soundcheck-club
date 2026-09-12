@@ -1,14 +1,13 @@
 # Bolivar Beach Bar
 
-Bolivar Beach Bar is a music venue in Athens with 7 upcoming nights listed on soundcheck as of Sat, 12 Sept 2026; the next is "Massano" on Fri, 11 Sept 2026.
+Bolivar Beach Bar is a music venue in Athens with 6 upcoming nights listed on soundcheck as of Sat, 12 Sept 2026; the next is "Pan-Pot I Sat Sep 12" on Sat, 12 Sept 2026.
 
-Bolivar Beach Bar is a music venue in Athens listed on soundcheck. 7 upcoming nights, with line-ups including Adam Beyer, Ajja, Brina Knauss and Coeus and 2 more. Browse upcoming dates, start times and who's playing. Posidonos Avenue, Alimos, Athens.
+Bolivar Beach Bar is a music venue in Athens listed on soundcheck. 6 upcoming nights, with line-ups including Adam Beyer, Ajja, Brina Knauss and Coeus and 2 more. Browse upcoming dates, start times and who's playing. Posidonos Avenue, Alimos, Athens.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 11 Sept 2026 | Massano | Massano, Nick Devon, Steph (A Deeper Groove) |
 | Sat, 12 Sept 2026 | Pan-Pot I Sat Sep 12 | DjSteph, Pan-Pot, Steve Sai |
 | Thu, 17 Sept 2026 | Mayans with Coeus I Thu Sep 17 | Coeus |
 | Sat, 19 Sept 2026 | Faithless Dj Set I Sat Sep 19 | Sister Bliss |

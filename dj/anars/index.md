@@ -1,14 +1,13 @@
 # Ana Rs
 
-Ana Rs is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Casa Dao, Hong Kong on Fri, 11 Sept 2026.
+Ana Rs is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Upsidedown, Osaka on Sat, 12 Sept 2026.
 
-Ana Rs is a techno and house artist tracked on soundcheck, with 38 sets logged across Amsterdam, Barcelona, Belgrade and Berlin and 19 more. Often billed alongside CONCEPTUAL, Adriana Lopez and Hadone. Next up: Casa Dao, Hongkong on Fri 11 Sept.
+Ana Rs is a techno and house artist tracked on soundcheck, with 38 sets logged across Amsterdam, Barcelona, Belgrade and Berlin and 19 more. Often billed alongside CONCEPTUAL, Adriana Lopez and Hadone. Next up: Upsidedown, Osaka on Sat 12 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 11 Sept 2026 | Casa Dao | Hong Kong |
 | Sat, 12 Sept 2026 | Upsidedown | Osaka |
 | Fri, 30 Oct 2026 | TBA | Portland |
 

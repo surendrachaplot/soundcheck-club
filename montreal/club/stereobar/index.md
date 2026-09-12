@@ -1,14 +1,13 @@
 # StereoBar
 
-StereoBar is a music venue in Montreal with 9 upcoming nights listed on soundcheck as of Sat, 12 Sept 2026; the next is "Opposite Direktion (All Night Long)" on Fri, 11 Sept 2026.
+StereoBar is a music venue in Montreal with 8 upcoming nights listed on soundcheck as of Sat, 12 Sept 2026; the next is "Hicky & Kalo (All Night Long)" on Sat, 12 Sept 2026.
 
-StereoBar is a music venue in Montreal listed on soundcheck. 9 upcoming nights, with line-ups including Brian Cuta, Claude VonStroke, Colmee and Deneb and 2 more. Browse upcoming dates, start times and who's playing. 856 Saint Catherine East, Montreal, Quebec, H2L2E3.
+StereoBar is a music venue in Montreal listed on soundcheck. 8 upcoming nights, with line-ups including Brian Cuta, Claude VonStroke, Colmee and Deneb and 2 more. Browse upcoming dates, start times and who's playing. 856 Saint Catherine East, Montreal, Quebec, H2L2E3.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 11 Sept 2026 | Opposite Direktion (All Night Long) | Opposite Direktion |
 | Sat, 12 Sept 2026 | Hicky & Kalo (All Night Long) | Hicky & Kalo |
 | Sun, 13 Sept 2026 | LBD: Brian Cuta - Deneb | Brian Cuta, Deneb |
 | Fri, 18 Sept 2026 | Claude Von Stroke - Ced Ullberg | Claude VonStroke |

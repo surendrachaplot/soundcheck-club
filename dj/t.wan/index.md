@@ -1,14 +1,13 @@
 # T.Wan
 
-T.Wan is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at TBA, Philadelphia on Fri, 11 Sept 2026.
+T.Wan is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 12 Sept 2026, next at BASEMENT, New York City on Sat, 3 Oct 2026.
 
-T.Wan is a techno and house artist based in United States of America, tracked on soundcheck, with 46 sets logged across Boston, Detroit, Newyorkcity and Philadelphia and 2 more. Often billed alongside Yaya Flows, Lychee and Nutrition Facts. Next up: TBA, Philadelphia on Fri 11 Sept.
+T.Wan is a techno and house artist based in United States of America, tracked on soundcheck, with 46 sets logged across Boston, Detroit, Newyorkcity and Philadelphia and 2 more. Often billed alongside Yaya Flows, Lychee and Nutrition Facts. Next up: BASEMENT, Newyorkcity on Sat 3 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 11 Sept 2026 | TBA | Philadelphia |
 | Sat, 3 Oct 2026 | BASEMENT | New York City |
 
 ## Recently played

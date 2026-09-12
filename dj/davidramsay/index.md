@@ -1,14 +1,13 @@
 # David Ramsay
 
-David Ramsay is a Techno and Tech House artist with 2 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at TBA - HACKNEY WICK, London on Fri, 11 Sept 2026.
+David Ramsay is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Sat, 12 Sept 2026, next at Starlane Pizza Bar, London on Sun, 27 Sept 2026.
 
-David Ramsay is a techno and tech house artist based in United Kingdom, tracked on soundcheck, with 21 sets logged across London. Often billed alongside Tafkanik, LO-LOW and Selecky. Next up: TBA - HACKNEY WICK, London on Fri 11 Sept.
+David Ramsay is a techno and tech house artist based in United Kingdom, tracked on soundcheck, with 21 sets logged across London. Often billed alongside Tafkanik, LO-LOW and Selecky. Next up: Starlane Pizza Bar, London on Sun 27 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 11 Sept 2026 | TBA - HACKNEY WICK | London |
 | Sun, 27 Sept 2026 | Starlane Pizza Bar | London |
 
 ## Recently played

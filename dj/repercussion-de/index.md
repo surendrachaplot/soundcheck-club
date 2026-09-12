@@ -1,14 +1,13 @@
 # Repercussion
 
-Repercussion is a Techno and Industrial artist with 2 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at The Flinders, Sydney on Fri, 11 Sept 2026.
+Repercussion is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Sat, 12 Sept 2026, next at The Flinders, Sydney on Fri, 9 Oct 2026.
 
-Repercussion is a techno and industrial artist based in Germany, tracked on soundcheck, with 5 sets logged across Sydney. Often billed alongside ORKA, I-SO and keanu (3). Next up: The Flinders, Sydney on Fri 11 Sept.
+Repercussion is a techno and industrial artist based in Germany, tracked on soundcheck, with 5 sets logged across Sydney. Often billed alongside ORKA, I-SO and keanu (3). Next up: The Flinders, Sydney on Fri 9 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 11 Sept 2026 | The Flinders | Sydney |
 | Fri, 9 Oct 2026 | The Flinders | Sydney |
 
 ## Recently played

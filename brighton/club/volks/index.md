@@ -1,14 +1,13 @@
 # Volks
 
-Volks is a music venue in Brighton with 13 upcoming nights listed on soundcheck as of Sat, 12 Sept 2026; the next is "In The Face presents: Off Me Nut Records" on Fri, 11 Sept 2026.
+Volks is a music venue in Brighton with 12 upcoming nights listed on soundcheck as of Sat, 12 Sept 2026; the next is "Degs & Friends" on Sat, 12 Sept 2026.
 
-Volks is a music venue in Brighton listed on soundcheck. 13 upcoming nights, with line-ups including A.M.C., Acid Carbon, Bluntz and Business As Usual and 2 more. Browse upcoming dates, start times and who's playing. 3 Madeira Drive; Brighton; BN2 1PS; United Kingdom.
+Volks is a music venue in Brighton listed on soundcheck. 12 upcoming nights, with line-ups including A.M.C., Acid Carbon, Bluntz and Business As Usual and 2 more. Browse upcoming dates, start times and who's playing. 3 Madeira Drive; Brighton; BN2 1PS; United Kingdom.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 11 Sept 2026 | In The Face presents: Off Me Nut Records | DJ BinBag, Gash, Hadean, Phatworld, Venz |
 | Sat, 12 Sept 2026 | Degs & Friends | DJ Hazard, Dave Shichman, Degs, Elevator, Hologram, Twelve Step Audio |
 | Fri, 18 Sept 2026 | Size // Christian Smith // The Volks | Acid Carbon, Christian Smith, Darien J, POoK, ROSMIC |
 | Sat, 19 Sept 2026 | Sub-liminal Recordings presents: Konichi, Teej, PA & More | Bluntz, Dreadnaught, MDMC |
@@ -18,6 +17,7 @@ Volks is a music venue in Brighton listed on soundcheck. 13 upcoming nights, wit
 | Sat, 10 Oct 2026 | A.M.C presents: Grassroots Energy (Brighton) | A.M.C. |
 | Fri, 23 Oct 2026 | 160 Brighton presents: Tim Reaper b2b Fracture (3-hour set) | Fracture, Tim Reaper |
 | Fri, 13 Nov 2026 | 30 Years of Volks presents: Todd Edwards | Todd Edwards |
+| Sat, 21 Nov 2026 | Delirium X: The Final Show | HLZ (2), Loxy, Seba, Sloe, Vergano |
 
 ## Address
 

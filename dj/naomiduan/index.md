@@ -1,14 +1,13 @@
 # Naomi Duan
 
-Naomi Duan is a Techno and Electronica artist with 2 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at TBA - Warehouse Location , Boston on Fri, 11 Sept 2026.
+Naomi Duan is a Techno and Electronica artist with 1 upcoming club date listed on soundcheck as of Sat, 12 Sept 2026, next at TBA - Address sent out to ticket holders at 6 PM on Oct 17, Philadelphia on Sat, 17 Oct 2026.
 
-Naomi Duan is a techno and electronica artist based in United States of America, tracked on soundcheck, with 9 sets logged across Boston, Detroit, Miami and Newyorkcity and 1 more. Often billed alongside 1morning, Alex Stein and Daybreak. Next up: TBA - Warehouse Location , Boston on Fri 11 Sept.
+Naomi Duan is a techno and electronica artist based in United States of America, tracked on soundcheck, with 9 sets logged across Boston, Detroit, Miami and Newyorkcity and 1 more. Often billed alongside 1morning, Alex Stein and Daybreak. Next up: TBA - Address sent out to ticket holders at 6 PM on Oct 17, Philadelphia on Sat 17 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 11 Sept 2026 | TBA - Warehouse Location  | Boston |
 | Sat, 17 Oct 2026 | TBA - Address sent out to ticket holders at 6 PM on Oct 17 | Philadelphia |
 
 ## Recently played

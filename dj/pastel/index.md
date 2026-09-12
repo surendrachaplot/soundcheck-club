@@ -1,15 +1,13 @@
 # Pastel
 
-Pastel is a House and Electro artist with 3 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at La Java, Paris on Fri, 11 Sept 2026.
+Pastel is a House and Electro artist with 1 upcoming club date listed on soundcheck as of Sat, 12 Sept 2026, next at Petit CAB, Marseille on Fri, 16 Oct 2026.
 
-Pastel is a house and electro artist based in France, tracked on soundcheck, with 29 sets logged across Budapest, Lyon, Marseille and Nantes and 1 more. Often billed alongside ABI (FR), Baka G and Cess. Next up: La Java, Paris on Fri 11 Sept.
+Pastel is a house and electro artist based in France, tracked on soundcheck, with 29 sets logged across Budapest, Lyon, Marseille and Nantes and 1 more. Often billed alongside ABI (FR), Baka G and Cess. Next up: Petit CAB, Marseille on Fri 16 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 11 Sept 2026 | La Java | Paris |
-| Fri, 11 Sept 2026 | La Java | Paris |
 | Fri, 16 Oct 2026 | Petit CAB | Marseille |
 
 ## Recently played

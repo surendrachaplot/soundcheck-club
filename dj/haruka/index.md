@@ -9,7 +9,7 @@ Haruka is a techno and house artist tracked on soundcheck, with 130 sets logged 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 11 Sept 2026 | Signal | New York City |
-| Fri, 18 Sept 2026 | TBA - San Francisco | San Francisco/Oakland |
+| Fri, 18 Sept 2026 | TBA - The Loom (2150 Livingston St, Oakland) | San Francisco/Oakland |
 | Fri, 9 Oct 2026 | Bassiani | Tbilisi |
 
 ## Recently played

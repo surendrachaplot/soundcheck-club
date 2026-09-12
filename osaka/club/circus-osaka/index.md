@@ -1,14 +1,13 @@
 # Circus Osaka
 
-Circus Osaka is a music venue in Osaka with 8 upcoming nights listed on soundcheck as of Sat, 12 Sept 2026; the next is "Flava D Circus Osaka" on Fri, 11 Sept 2026.
+Circus Osaka is a music venue in Osaka with 7 upcoming nights listed on soundcheck as of Sat, 12 Sept 2026; the next is "OTO 1ST ANNIVERSARY -JOKESONYOU-" on Sat, 12 Sept 2026.
 
-Circus Osaka is a music venue in Osaka listed on soundcheck. 8 upcoming nights, with line-ups including Ben Sims, Flava D, Izco and JOKESONYOU and 2 more. Browse upcoming dates, start times and who's playing. 1-8-16 2F Nakanishi Bldg, Nishi-shinsaibashi,Chuo-ku,Osaka , 542-0086  JAPAN.
+Circus Osaka is a music venue in Osaka listed on soundcheck. 7 upcoming nights, with line-ups including Ben Sims, Izco, JOKESONYOU and J Wax and 2 more. Browse upcoming dates, start times and who's playing. 1-8-16 2F Nakanishi Bldg, Nishi-shinsaibashi,Chuo-ku,Osaka , 542-0086  JAPAN.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 11 Sept 2026 | Flava D Circus Osaka | Flava D, ryota dj |
 | Sat, 12 Sept 2026 | OTO 1ST ANNIVERSARY -JOKESONYOU- | JOKESONYOU, Liza, STRATAH |
 | Fri, 18 Sept 2026 | NATURALLY LADY SHAKA |  |
 | Sun, 20 Sept 2026 | #MADWANT | Izco, TAKENOKO |

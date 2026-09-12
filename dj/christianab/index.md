@@ -1,14 +1,13 @@
 # Christian AB
 
-Christian AB is a House and Techno artist with 11 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Hidden, Manchester on Fri, 11 Sept 2026.
+Christian AB is a House and Techno artist with 10 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at The Cause, London on Sat, 12 Sept 2026.
 
-Christian AB is a house and techno artist based in United Kingdom, tracked on soundcheck, with 28 sets logged across Amsterdam, Barcelona, Berlin and Brussels and 11 more. Often billed alongside Christian AB, Francesco Del Garda and Call Super. Next up: Hidden, Manchester on Fri 11 Sept.
+Christian AB is a house and techno artist based in United Kingdom, tracked on soundcheck, with 28 sets logged across Amsterdam, Barcelona, Berlin and Brussels and 11 more. Often billed alongside Christian AB, Francesco Del Garda and Call Super. Next up: The Cause, London on Sat 12 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 11 Sept 2026 | Hidden | Manchester |
 | Sat, 12 Sept 2026 | The Cause | London |
 | Thu, 17 Sept 2026 | UNO MALTA | Malta |
 | Fri, 18 Sept 2026 | UNO MALTA | Malta |

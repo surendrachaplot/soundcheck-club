@@ -1,14 +1,13 @@
 # Rote Sonne
 
-Rote Sonne is a music venue in Munich with 7 upcoming nights listed on soundcheck as of Sat, 12 Sept 2026; the next is "RS:CommunityNight" on Fri, 11 Sept 2026.
+Rote Sonne is a music venue in Munich with 6 upcoming nights listed on soundcheck as of Sat, 12 Sept 2026; the next is "Sachsentrance Faceless" on Sat, 12 Sept 2026.
 
-Rote Sonne is a music venue in Munich listed on soundcheck. 7 upcoming nights, with line-ups including An Chen, antyo, CLOSURE (DE) and crystal crimez (2) and 2 more. Browse upcoming dates, start times and who's playing. Maximiliansplatz 5; 80333 Munich; Germany.
+Rote Sonne is a music venue in Munich listed on soundcheck. 6 upcoming nights, with line-ups including An Chen, antyo, CLOSURE (DE) and crystal crimez (2) and 2 more. Browse upcoming dates, start times and who's playing. Maximiliansplatz 5; 80333 Munich; Germany.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 11 Sept 2026 | RS:CommunityNight |  |
 | Sat, 12 Sept 2026 | Sachsentrance Faceless |  |
 | Fri, 18 Sept 2026 | Schuettel | NURAJ, Stenny, TONA (2) |
 | Sat, 19 Sept 2026 | Lucid Glow | Hello Sasy, Vaneska, antyo |

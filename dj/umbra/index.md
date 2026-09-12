@@ -1,14 +1,13 @@
 # UMBRA
 
-UMBRA is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at The Classic Grand, Glasgow on Fri, 11 Sept 2026.
+UMBRA is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at E1, London on Sat, 21 Nov 2026.
 
-UMBRA is a techno and house artist based in Portugal, tracked on soundcheck, with 16 sets logged across Bali, Berlin, Bristol and Brussels and 3 more. Often billed alongside Sydney Bryce, Amoss and Bon Public. Next up: The Classic Grand, Glasgow on Fri 11 Sept.
+UMBRA is a techno and house artist based in Portugal, tracked on soundcheck, with 16 sets logged across Bali, Berlin, Bristol and Brussels and 3 more. Often billed alongside Sydney Bryce, Amoss and Bon Public. Next up: E1, London on Sat 21 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 11 Sept 2026 | The Classic Grand | Glasgow |
 | Sat, 21 Nov 2026 | E1 | London |
 | Fri, 4 Dec 2026 | Room 2 Glasgow | Glasgow |
 

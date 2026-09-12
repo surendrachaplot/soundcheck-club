@@ -1,14 +1,13 @@
 # Sneaky Pete's
 
-Sneaky Pete's is a music venue in Edinburgh with 35 upcoming nights listed on soundcheck as of Sat, 12 Sept 2026; the next is "Palidrone: Neffa-T" on Fri, 11 Sept 2026.
+Sneaky Pete's is a music venue in Edinburgh with 34 upcoming nights listed on soundcheck as of Sat, 12 Sept 2026; the next is "Volens Chorus: 7th Birthday" on Sat, 12 Sept 2026.
 
-Sneaky Pete's is a music venue in Edinburgh listed on soundcheck. 35 upcoming nights, with line-ups including Alexis Taylor, Auramatic, billybawbags and BORLEY and 2 more. Browse upcoming dates, start times and who's playing. 73 Cowgate; Edinburgh, EH1 1JW; Scotland; United Kingdom.
+Sneaky Pete's is a music venue in Edinburgh listed on soundcheck. 34 upcoming nights, with line-ups including Alexis Taylor, Auramatic, billybawbags and BORLEY and 2 more. Browse upcoming dates, start times and who's playing. 73 Cowgate; Edinburgh, EH1 1JW; Scotland; United Kingdom.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 11 Sept 2026 | Palidrone: Neffa-T | Dansa, Neffa-T |
 | Sat, 12 Sept 2026 | Volens Chorus: 7th Birthday | Buckfast Barbie, Casement, Cowboy erp, Lara Sinclair, Quarterpoundernocheese, SKIMUDA, Sea Urchin, WBBR |
 | Sun, 13 Sept 2026 | Postal: Gilbo | Gilbo |
 | Mon, 14 Sept 2026 | Konversion: Lisa The Beauty Queen (live singing set), Roché, SINN3R | SINN3R |
@@ -18,6 +17,7 @@ Sneaky Pete's is a music venue in Edinburgh listed on soundcheck. 35 upcoming ni
 | Sat, 19 Sept 2026 | Popular Music: Alexis Taylor (Hot Chip) DJ Set | Alexis Taylor, Nick from Sneaks |
 | Sun, 20 Sept 2026 | Sofia Kourtesis (DJ set): Free Time - Edinburgh - sold out - resale tickets active | Sofia Kourtesis |
 | Sun, 20 Sept 2026 | Postal |  |
+| Tue, 22 Sept 2026 | RARE Club // ODF (Special Guest) | Geordie, ODF (1) |
 
 ## Address
 

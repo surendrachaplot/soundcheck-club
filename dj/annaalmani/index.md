@@ -1,14 +1,13 @@
 # Anna Almani
 
-Anna Almani is a Techno and Tech House artist with 3 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Humboldthain Club, Berlin on Fri, 11 Sept 2026.
+Anna Almani is a Techno and Tech House artist with 2 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Kater, Berlin on Fri, 2 Oct 2026.
 
-Anna Almani is a techno and tech house artist based in Germany, tracked on soundcheck, with 25 sets logged across Berlin, Hamburg and Stockholm. Often billed alongside Frida Darko, HOVR and Kotoe. Next up: Humboldthain Club, Berlin on Fri 11 Sept.
+Anna Almani is a techno and tech house artist based in Germany, tracked on soundcheck, with 25 sets logged across Berlin, Hamburg and Stockholm. Often billed alongside Frida Darko, HOVR and Kotoe. Next up: Kater, Berlin on Fri 2 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 11 Sept 2026 | Humboldthain Club | Berlin |
 | Fri, 2 Oct 2026 | Kater | Berlin |
 | Sat, 10 Oct 2026 | Gazebo | Stockholm |
 

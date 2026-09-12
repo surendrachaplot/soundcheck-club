@@ -1,14 +1,13 @@
 # Massimiliano Pagliara
 
-Massimiliano Pagliara is a House and Techno artist with 9 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at TBA - Downtown Los Angeles, Los Angeles on Fri, 11 Sept 2026.
+Massimiliano Pagliara is a House and Techno artist with 8 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at TBA - 525 SE Pine st, Portland on Sat, 12 Sept 2026.
 
-Massimiliano Pagliara is a house and techno artist tracked on soundcheck, with 239 sets logged across Amsterdam, Antwerp, Athens and Austin and 62 more. Often billed alongside Jorkes, Boris and Luigi Di Venere. Next up: TBA - Downtown Los Angeles, Losangeles on Fri 11 Sept.
+Massimiliano Pagliara is a house and techno artist tracked on soundcheck, with 239 sets logged across Amsterdam, Antwerp, Athens and Austin and 62 more. Often billed alongside Jorkes, Boris and Luigi Di Venere. Next up: TBA - 525 SE Pine st, Portland on Sat 12 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 11 Sept 2026 | TBA - Downtown Los Angeles | Los Angeles |
 | Sat, 12 Sept 2026 | TBA - 525 SE Pine st | Portland |
 | Sun, 13 Sept 2026 | Kiku Room | San Diego |
 | Thu, 17 Sept 2026 | Jolene Downtown Miami | Miami |

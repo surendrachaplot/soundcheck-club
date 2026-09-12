@@ -1,14 +1,13 @@
 # Ezya
 
-Ezya is a Reggaeton and Neo Perreo artist with 3 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at MR.DUCK, Mexico City on Fri, 11 Sept 2026.
+Ezya is a Reggaeton and Neo Perreo artist with 2 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at MR.DUCK, Mexico City on Sat, 12 Sept 2026.
 
-Ezya is a reggaeton and neo perreo artist based in Mexico, tracked on soundcheck, with 30 sets logged across Mexicocity. Often billed alongside Mensik, fka phaedra and Deenia. Next up: MR.DUCK, Mexicocity on Fri 11 Sept.
+Ezya is a reggaeton and neo perreo artist based in Mexico, tracked on soundcheck, with 30 sets logged across Mexicocity. Often billed alongside Mensik, fka phaedra and Deenia. Next up: MR.DUCK, Mexicocity on Sat 12 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 11 Sept 2026 | MR.DUCK | Mexico City |
 | Sat, 12 Sept 2026 | MR.DUCK | Mexico City |
 | Sat, 31 Oct 2026 | TBA - Foro Ying | Mexico City |
 

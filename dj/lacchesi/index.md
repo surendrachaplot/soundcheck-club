@@ -1,14 +1,13 @@
 # Lacchesi
 
-Lacchesi is a Techno and Trance artist with 6 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Astoria, Turin on Fri, 11 Sept 2026.
+Lacchesi is a Techno and Trance artist with 5 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Grelle Forelle, Vienna on Fri, 18 Sept 2026.
 
-Lacchesi is a techno and trance artist tracked on soundcheck, with 168 sets logged across Amsterdam, Athens, Bangkok and Barcelona and 47 more. Often billed alongside Lorenzo Lacchesi, Mac Declos and Laure Croft. Next up: Astoria, Turin on Fri 11 Sept.
+Lacchesi is a techno and trance artist tracked on soundcheck, with 168 sets logged across Amsterdam, Athens, Bangkok and Barcelona and 47 more. Often billed alongside Lorenzo Lacchesi, Mac Declos and Laure Croft. Next up: Grelle Forelle, Vienna on Fri 18 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 11 Sept 2026 | Astoria | Turin |
 | Fri, 18 Sept 2026 | Grelle Forelle | Vienna |
 | Sat, 3 Oct 2026 | FOLD | London |
 | Fri, 23 Oct 2026 | BASEMENT | New York City |

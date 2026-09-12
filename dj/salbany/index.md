@@ -1,6 +1,6 @@
 # Salbany
 
-Salbany is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Barragem da Queimadela, Porto on Thu, 10 Sept 2026.
+Salbany is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Barragem da Queimadela, Porto on Thu, 10 Sept 2026.
 
 Salbany is a techno and house artist based in Portugal, tracked on soundcheck, with 55 sets logged across Berlin, Lisbon, London and Madrid and 3 more. Often billed alongside Jesterr, Chima Isaaro and Temudo. Next up: Barragem da Queimadela, Porto on Thu 10 Sept.
 
@@ -9,7 +9,6 @@ Salbany is a techno and house artist based in Portugal, tracked on soundcheck, w
 | Date | Venue | City |
 | --- | --- | --- |
 | Thu, 10 Sept 2026 | Barragem da Queimadela | Porto |
-| Fri, 11 Sept 2026 | Gare Porto | Porto |
 | Sat, 26 Sept 2026 | Ministerium Club | Lisbon |
 
 ## Recently played

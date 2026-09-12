@@ -1,14 +1,13 @@
 # THEMPRESS
 
-THEMPRESS is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Club360, London on Fri, 11 Sept 2026.
+THEMPRESS is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 12 Sept 2026, next at Grow, London on Fri, 25 Sept 2026.
 
-THEMPRESS is a techno and house artist tracked on soundcheck, with 98 sets logged across Bristol, Glasgow, London and Manchester and 2 more. Often billed alongside CHEZA LUCINA, Michelle Manetti and Princess Xixi. Next up: Club360, London on Fri 11 Sept.
+THEMPRESS is a techno and house artist tracked on soundcheck, with 98 sets logged across Bristol, Glasgow, London and Manchester and 2 more. Often billed alongside CHEZA LUCINA, Michelle Manetti and Princess Xixi. Next up: Grow, London on Fri 25 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 11 Sept 2026 | Club360 | London |
 | Fri, 25 Sept 2026 | Grow | London |
 
 ## Recently played

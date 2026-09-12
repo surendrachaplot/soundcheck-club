@@ -1,14 +1,13 @@
 # Traxman
 
-Traxman is a Footwork and House artist with 2 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at La Récré, Montreal on Fri, 11 Sept 2026.
+Traxman is a Footwork and House artist with 1 upcoming club date listed on soundcheck as of Sat, 12 Sept 2026, next at Jay Pritzker Pavilion, Chicago on Sat, 12 Sept 2026.
 
-Traxman is a footwork and house artist tracked on soundcheck, with 73 sets logged across Amsterdam, Barcelona, Berlin and Bristol and 23 more. Often billed alongside DJ Spinn, DJ Manny and Jana Rush. Next up: La Récré, Montreal on Fri 11 Sept.
+Traxman is a footwork and house artist tracked on soundcheck, with 73 sets logged across Amsterdam, Barcelona, Berlin and Bristol and 23 more. Often billed alongside DJ Spinn, DJ Manny and Jana Rush. Next up: Jay Pritzker Pavilion, Chicago on Sat 12 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 11 Sept 2026 | La Récré | Montreal |
 | Sat, 12 Sept 2026 | Jay Pritzker Pavilion | Chicago |
 
 ## Recently played

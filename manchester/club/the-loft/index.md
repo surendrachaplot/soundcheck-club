@@ -1,14 +1,13 @@
 # The Loft
 
-The Loft is a music venue in Manchester with 22 upcoming nights listed on soundcheck as of Sat, 12 Sept 2026; the next is "The Loft: Dyed Soundorom & Sibil" on Fri, 11 Sept 2026.
+The Loft is a music venue in Manchester with 21 upcoming nights listed on soundcheck as of Sat, 12 Sept 2026; the next is "Huerta & Youandewan at The Loft" on Sat, 12 Sept 2026.
 
-The Loft is a music venue in Manchester listed on soundcheck. 22 upcoming nights, with line-ups including Fastlove, Alexander Skancke, Alexia Glensy and Angel D'lite and 2 more. Browse upcoming dates, start times and who's playing. Unit 1, New Street, Manchester, M40 8AW.
+The Loft is a music venue in Manchester listed on soundcheck. 21 upcoming nights, with line-ups including Fastlove, Alexander Skancke, Alexia Glensy and Angel D'lite and 2 more. Browse upcoming dates, start times and who's playing. Unit 1, New Street, Manchester, M40 8AW.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 11 Sept 2026 | The Loft: Dyed Soundorom & Sibil | Dyed Soundorom, Sibil (1) |
 | Sat, 12 Sept 2026 | Huerta & Youandewan at The Loft | Dylan Whicher, Emile, Huerta, Mase (2), Ruby Ruby, Youandewan |
 | Thu, 17 Sept 2026 | The Loft: Us Two (All Night Long) | Us Two |
 | Fri, 18 Sept 2026 | The Loft: Joss Dean (All Night Long) | Joss Dean |
@@ -18,6 +17,7 @@ The Loft is a music venue in Manchester listed on soundcheck. 22 upcoming nights
 | Sat, 26 Sept 2026 | CHAOS: Fumiya Tanaka (All Night Long) | Fumiya Tanaka |
 | Thu, 1 Oct 2026 | The Loft: Gigsta (All Night Long) |  |
 | Sat, 3 Oct 2026 | The Loft: Kyle Starkey & Entasia | Entasia, Kyle Starkey |
+| Thu, 8 Oct 2026 | The Loft: Bushbaby (All Night Long) | Bushbaby |
 
 ## Address
 

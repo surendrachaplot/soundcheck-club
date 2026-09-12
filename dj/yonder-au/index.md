@@ -1,14 +1,13 @@
 # YØNDER
 
-YØNDER is a Trance and Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Das Werk, Vienna on Fri, 11 Sept 2026.
+YØNDER is a Trance and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 12 Sept 2026, next at OST, Berlin on Sat, 12 Sept 2026.
 
-YØNDER is a trance and techno artist based in Austria, tracked on soundcheck, with 28 sets logged across Berlin, Munich, Nurnberg and Vienna. Often billed alongside Joey (2), Crystal O and KILIÅN. Next up: Das Werk, Vienna on Fri 11 Sept.
+YØNDER is a trance and techno artist based in Austria, tracked on soundcheck, with 28 sets logged across Berlin, Munich, Nurnberg and Vienna. Often billed alongside Joey (2), Crystal O and KILIÅN. Next up: OST, Berlin on Sat 12 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 11 Sept 2026 | Das Werk | Vienna |
 | Sat, 12 Sept 2026 | OST | Berlin |
 
 ## Recently played

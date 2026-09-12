@@ -1,14 +1,13 @@
 # Solfa
 
-Solfa is a music venue in Tokyo with 9 upcoming nights listed on soundcheck as of Sat, 12 Sept 2026; the next is "SILENT ECHO - S280F, Fellsius (EXPERIMENTAL / INDUSTRIAL / BASS MUSIC etc...)" on Fri, 11 Sept 2026.
+Solfa is a music venue in Tokyo with 8 upcoming nights listed on soundcheck as of Sat, 12 Sept 2026; the next is "Solfa 18TH ANNIVERSARY 'DAY1'" on Fri, 18 Sept 2026.
 
-Solfa is a music venue in Tokyo listed on soundcheck. 9 upcoming nights, with line-ups including S280F, AMANE, ARISA and Dazzle Drums and 2 more. Browse upcoming dates, start times and who's playing. 1-20-5 Aobadai, Meguro-ku, Tokyo, 156-0041, Japan.
+Solfa is a music venue in Tokyo listed on soundcheck. 8 upcoming nights, with line-ups including AMANE, ARISA, Dazzle Drums and grooveman Spot and 2 more. Browse upcoming dates, start times and who's playing. 1-20-5 Aobadai, Meguro-ku, Tokyo, 156-0041, Japan.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 11 Sept 2026 | SILENT ECHO - S280F, Fellsius (EXPERIMENTAL / INDUSTRIAL / BASS MUSIC etc...) | Ginji, ITSUKI, MOOTOE, Noway, RNG (1), S280F, Save Me The Trouble |
 | Fri, 18 Sept 2026 | Solfa 18TH ANNIVERSARY 'DAY1' | AMANE, Soichi Terada, XTAL, Yukio Nohara |
 | Sat, 19 Sept 2026 | Solfa 18TH ANNIVERSARY 'DAY2' |  |
 | Sun, 20 Sept 2026 | Solfa 18TH ANNIVERSARY 'DAY3' |  |

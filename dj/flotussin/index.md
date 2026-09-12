@@ -1,14 +1,13 @@
 # flotussin
 
-flotussin is a Club and Techno artist with 3 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Paragon, New York City on Fri, 11 Sept 2026.
+flotussin is a Club and Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Kremwerk-Timbre Room-Cherry Complex, Seattle on Fri, 25 Sept 2026.
 
-flotussin is a club and techno artist tracked on soundcheck, with 72 sets logged across Chicago, Detroit, Losangeles and Newyorkcity and 5 more. Often billed alongside Tromac, DJ-SUN and Jacq Jill. Next up: Paragon, Newyorkcity on Fri 11 Sept.
+flotussin is a club and techno artist tracked on soundcheck, with 72 sets logged across Chicago, Detroit, Losangeles and Newyorkcity and 5 more. Often billed alongside Tromac, DJ-SUN and Jacq Jill. Next up: Kremwerk-Timbre Room-Cherry Complex, Seattle on Fri 25 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 11 Sept 2026 | Paragon | New York City |
 | Fri, 25 Sept 2026 | Kremwerk-Timbre Room-Cherry Complex | Seattle |
 | Fri, 23 Oct 2026 | Bossa Nova Civic Club | New York City |
 

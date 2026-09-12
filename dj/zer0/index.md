@@ -1,14 +1,13 @@
 # Zerø
 
-Zerø is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Forte Antenne, Rome on Fri, 11 Sept 2026.
+Zerø is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Forte Antenne, Rome on Fri, 18 Sept 2026.
 
-Zerø is a house and techno artist tracked on soundcheck, with 75 sets logged across London, Naples, Rome and Tokyo and 1 more. Often billed alongside Fabrizio Sala, Giorgio Gigli and 000vda. Next up: Forte Antenne, Rome on Fri 11 Sept.
+Zerø is a house and techno artist tracked on soundcheck, with 75 sets logged across London, Naples, Rome and Tokyo and 1 more. Often billed alongside Fabrizio Sala, Giorgio Gigli and 000vda. Next up: Forte Antenne, Rome on Fri 18 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 11 Sept 2026 | Forte Antenne | Rome |
 | Fri, 18 Sept 2026 | Forte Antenne | Rome |
 | Sat, 21 Nov 2026 | E1 | London |
 

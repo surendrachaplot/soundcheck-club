@@ -1,23 +1,23 @@
 # Cu
 
-Cu is a music venue in London with 11 upcoming nights listed on soundcheck as of Sat, 12 Sept 2026; the next is "End of an era" on Fri, 11 Sept 2026.
+Cu is a music venue in London with 10 upcoming nights listed on soundcheck as of Sat, 12 Sept 2026; the next is "Good People vol.3" on Sat, 12 Sept 2026.
 
-Cu is a music venue in London listed on soundcheck. 11 upcoming nights, with line-ups including babybear (2), BIG REG, Blackdown and Cardinal Sin and 2 more. Browse upcoming dates, start times and who's playing. 574, 576 Kingsland Rd, London E8 4AP, United Kingdom.
+Cu is a music venue in London listed on soundcheck. 10 upcoming nights, with line-ups including babybear (2), BIG REG, Blackdown and Cardinal Sin and 2 more. Browse upcoming dates, start times and who's playing. 574, 576 Kingsland Rd, London E8 4AP, United Kingdom.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 11 Sept 2026 | End of an era |  |
 | Sat, 12 Sept 2026 | Good People vol.3 | Itoa, Lady Jules |
 | Sat, 19 Sept 2026 | 21 years of keysound | Blackdown, Elijah and Skilliam, Logos, MC Koast, Mumdance |
 | Fri, 25 Sept 2026 | UNDERGROUND SOUND | Cardinal Sin, Josh Wuf, PHJ.WAV |
-| Fri, 2 Oct 2026 | Extra Smooth presents: Yu Mi | BIG REG, Gingall, Spingall, Yumi |
+| Fri, 2 Oct 2026 | Extra Smooth presents: Yu Mi | BIG REG, Gingall, Spingall, Yu Mi |
 | Sat, 3 Oct 2026 | Frozen Tempo presents: Soukah (UK Debut) | Deep Tempo |
 | Fri, 9 Oct 2026 | TUSH: Bass, Breaks & Techno (Rethink Fundraiser) | Kassita, Rebekah Abdeen, babybear (2), inda Flo |
 | Sun, 11 Oct 2026 | HOLY | Richard Fearless, Tom Dubwise, Wrecked Lightship |
 | Sat, 17 Oct 2026 | Grooves #17: Propulsion, Hickey, Tombs, Merlin, Renfer, Bisect [turntable-only, DnB & jungle] | ETHICS, Hickey |
 | Sat, 24 Oct 2026 | clockwork: dj ladle, dj fynn, corchuelo, something good |  |
+| Fri, 30 Oct 2026 | Get On - London | Cathal, Horne, Luun |
 
 ## Address
 

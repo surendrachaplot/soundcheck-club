@@ -1,15 +1,13 @@
 # Yoshiko
 
-Yoshiko is a Techno and Hardcore artist with 12 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Bootshaus, Cologne on Fri, 11 Sept 2026.
+Yoshiko is a Techno and Hardcore artist with 10 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Hangar 34, Liverpool on Sat, 12 Sept 2026.
 
-Yoshiko is a techno and hardcore artist tracked on soundcheck, with 38 sets logged across Amsterdam, Antwerp, Barcelona and Berlin and 22 more. Often billed alongside Dimitri K, The Dark Horror and Winson. Next up: Bootshaus, Cologne on Fri 11 Sept.
+Yoshiko is a techno and hardcore artist tracked on soundcheck, with 38 sets logged across Amsterdam, Antwerp, Barcelona and Berlin and 22 more. Often billed alongside Dimitri K, The Dark Horror and Winson. Next up: Hangar 34, Liverpool on Sat 12 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 11 Sept 2026 | Bootshaus | Cologne |
-| Fri, 11 Sept 2026 | Mia Mao | Paris |
 | Sat, 12 Sept 2026 | Hangar 34 | Liverpool |
 | Fri, 16 Oct 2026 | Airport Würzburg | Nürnberg |
 | Fri, 16 Oct 2026 | Airport Würzburg | Nürnberg |

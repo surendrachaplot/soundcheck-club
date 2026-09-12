@@ -1,14 +1,13 @@
 # Bustin' Loose
 
-Bustin' Loose is a House and Disco artist with 7 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Dead Letter No. 9, New York City on Fri, 11 Sept 2026.
+Bustin' Loose is a House and Disco artist with 6 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Ciao Ciao, New York City on Sat, 12 Sept 2026.
 
-Bustin' Loose is a house and disco artist tracked on soundcheck, with 154 sets logged across Aberdeen, Amsterdam, Antwerp and Berlin and 15 more. Often billed alongside Tatiana, Magnolia_ and Roland & Brother Rich. Next up: Dead Letter No. 9, Newyorkcity on Fri 11 Sept.
+Bustin' Loose is a house and disco artist tracked on soundcheck, with 154 sets logged across Aberdeen, Amsterdam, Antwerp and Berlin and 15 more. Often billed alongside Tatiana, Magnolia_ and Roland & Brother Rich. Next up: Ciao Ciao, Newyorkcity on Sat 12 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 11 Sept 2026 | Dead Letter No. 9 | New York City |
 | Sat, 12 Sept 2026 | Ciao Ciao | New York City |
 | Sun, 20 Sept 2026 | Xanadu | New York City |
 | Fri, 23 Oct 2026 | Art''otel Amsterdam | Amsterdam |

@@ -1,14 +1,13 @@
 # Vespers Club
 
-Vespers Club is a music venue in London with 13 upcoming nights listed on soundcheck as of Sat, 12 Sept 2026; the next is "Meridian Invites… ddwy [ALL NIGHT LONG]" on Fri, 11 Sept 2026.
+Vespers Club is a music venue in London with 12 upcoming nights listed on soundcheck as of Sat, 12 Sept 2026; the next is "Spooky / Ase Manual at Vespers" on Sat, 12 Sept 2026.
 
-Vespers Club is a music venue in London listed on soundcheck. 13 upcoming nights, with line-ups including AAKAARA, Alexi Shell, Ase Manual and Creep-P and 2 more. Browse upcoming dates, start times and who's playing. 133A Rye Lane, London, SE15 4BQ, UK.
+Vespers Club is a music venue in London listed on soundcheck. 12 upcoming nights, with line-ups including AAKAARA, Alexi Shell, Ase Manual and Creep-P and 2 more. Browse upcoming dates, start times and who's playing. 133A Rye Lane, London, SE15 4BQ, UK.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 11 Sept 2026 | Meridian Invites… ddwy [ALL NIGHT LONG] | ddwy |
 | Sat, 12 Sept 2026 | Spooky / Ase Manual at Vespers | Ase Manual, DJ-HOTLINE 333, Spooky |
 | Fri, 18 Sept 2026 | Alexi Shell & Friends | Alexi Shell, ODG (1), PYTKO, ultra caro |
 | Fri, 18 Sept 2026 | five in a bed AT VESPERS | Dexter Dooley |
@@ -18,6 +17,7 @@ Vespers Club is a music venue in London listed on soundcheck. 13 upcoming nights
 | Fri, 16 Oct 2026 | Pherotone 5.0 with Mx. Blaire (extended set) | Emilia G, Mx. Blaire |
 | Fri, 30 Oct 2026 | Ghouls Club | Creep-P, Desiludildo, LUNAx3 |
 | Sat, 31 Oct 2026 | Exquisite Corpse 06 | AAKAARA, DELARA, JON KRIEGER, Jane Darke, LIZAZA, NakedAggressionDJ, New Flesh (2), SIOBHAN., TILEBOI |
+| Fri, 13 Nov 2026 | Sanctuary Realm |  |
 
 ## Address
 

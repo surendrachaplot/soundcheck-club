@@ -1,14 +1,13 @@
 # Mix-Stress
 
-Mix-Stress is a House and Disco artist with 5 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at renae, Manchester on Fri, 11 Sept 2026.
+Mix-Stress is a House and Disco artist with 4 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Mollies, Manchester on Sat, 12 Sept 2026.
 
-Mix-Stress is a house and disco artist based in United Kingdom, tracked on soundcheck, with 52 sets logged across Ibiza, Leeds, Liverpool and London and 1 more. Often billed alongside Gina Breeze, Krysko and Meme Gold. Next up: renae, Manchester on Fri 11 Sept.
+Mix-Stress is a house and disco artist based in United Kingdom, tracked on soundcheck, with 52 sets logged across Ibiza, Leeds, Liverpool and London and 1 more. Often billed alongside Gina Breeze, Krysko and Meme Gold. Next up: Mollies, Manchester on Sat 12 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 11 Sept 2026 | renae | Manchester |
 | Sat, 12 Sept 2026 | Mollies | Manchester |
 | Fri, 18 Sept 2026 | The Underbank | Manchester |
 | Fri, 25 Sept 2026 | Mollies | Manchester |

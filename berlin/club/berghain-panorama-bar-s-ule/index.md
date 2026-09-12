@@ -1,14 +1,13 @@
 # Berghain | Panorama Bar | Säule
 
-Berghain | Panorama Bar | Säule is a music venue in Berlin with 26 upcoming nights listed on soundcheck as of Sat, 12 Sept 2026; the next is "Laundrette" on Fri, 11 Sept 2026.
+Berghain | Panorama Bar | Säule is a music venue in Berlin with 25 upcoming nights listed on soundcheck as of Sat, 12 Sept 2026; the next is "Klubnacht" on Sat, 12 Sept 2026.
 
-Berghain | Panorama Bar | Säule is a music venue in Berlin listed on soundcheck. 26 upcoming nights, with line-ups including Justine Perry, Aba Shanti-I, abs8lute and Acronym and 2 more. Browse upcoming dates, start times and who's playing. 70 Am Wriezener Bahnhof; Friedrichshain; 10243 Berlin; Germany.
+Berghain | Panorama Bar | Säule is a music venue in Berlin listed on soundcheck. 25 upcoming nights, with line-ups including Justine Perry, Aba Shanti-I, abs8lute and Acronym and 2 more. Browse upcoming dates, start times and who's playing. 70 Am Wriezener Bahnhof; Friedrichshain; 10243 Berlin; Germany.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 11 Sept 2026 | Laundrette | CC:DISCO!, David Elimelech, Partok, Paul Wolsch, Roi Perez, Sally C, Samira |
 | Sat, 12 Sept 2026 | Klubnacht | Drumcell, Erik Luebs, GIO THELLO, Jennifer Loveless, Jump Source, Kangding Ray, Kikelomo, LOLSNAKE, Mari Sakurai, Perfo, Subb-an, Tama Sumo, Virginia, Wata Igarashi |
 | Thu, 17 Sept 2026 | MÄZEN | Acronym, Nadia Struiwigh, Pre Silent, THIRTEEN DOZE |
 | Fri, 18 Sept 2026 | Italorama Bar | Curses, DASH (SLO), Franz Scala, Giulia Gutterer, Intergalactic Gary, Lennart, Lennart (NL), N.O.I.A. |
@@ -18,6 +17,7 @@ Berghain | Panorama Bar | Säule is a music venue in Berlin listed on soundcheck
 | Sat, 26 Sept 2026 | Klubnacht | Auspex, Beste Hira, Bradley Zero, Colin Benders, Fabio Monesi, Jana Falcon, Joline Scheffler, Jorkes, Make A Dance, Marcel Dettmann, Matisa, Patrick Pulsinger, Sam Irl, Tasha, Tripmastaz, UVB, nd_baumecker |
 | Thu, 1 Oct 2026 | PRíNCIPE 15 YEARS | DJ Firmeza, DJ Nigga Fox |
 | Fri, 2 Oct 2026 | Hamam Nights | Eoin DJ, Kevin Aviance, Rumi de Baires, Sedef Adasï |
+| Sat, 3 Oct 2026 | Klubnacht | AMORAL, Answer Code Request, BLANKA, Barbara Preisinger, Barker, Biesmans, Carlos Valdes, Cormac, DVS1, Mano Le Tough, PARAMIDA, Ryan Elliott, Shonky, The Lady Machine, abs8lute |
 
 ## Address
 

@@ -1,14 +1,13 @@
 # Mitsuki
 
-Mitsuki is a music venue in Tokyo with 13 upcoming nights listed on soundcheck as of Sat, 12 Sept 2026; the next is "MOVE ムーブ" on Fri, 11 Sept 2026.
+Mitsuki is a music venue in Tokyo with 12 upcoming nights listed on soundcheck as of Sat, 12 Sept 2026; the next is "YSK/TEITEI/Natsu/Shinsuke Goto" on Sat, 12 Sept 2026.
 
-Mitsuki is a music venue in Tokyo listed on soundcheck. 13 upcoming nights, with line-ups including Al Jones, An toi, Carl H and Celter and 2 more. Browse upcoming dates, start times and who's playing. 1-22-12, Dogenzaka, Shibuya-Ku, Tokyo, 150-0043, Japan.
+Mitsuki is a music venue in Tokyo listed on soundcheck. 12 upcoming nights, with line-ups including An toi, Carl H, Celter and Chihoshi and 2 more. Browse upcoming dates, start times and who's playing. 1-22-12, Dogenzaka, Shibuya-Ku, Tokyo, 150-0043, Japan.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 11 Sept 2026 | MOVE ムーブ | Al Jones, FU (JP), Lvca, MOOD HSM, OMOLOKO |
 | Sat, 12 Sept 2026 | YSK/TEITEI/Natsu/Shinsuke Goto | Shinsuke Goto, TEI TEI, YSK. |
 | Mon, 14 Sept 2026 | YAMA/Shunpei/Kobashi Mitsuki | Kobashi Mitsuki, YAMA(JP/OSK) |
 | Tue, 15 Sept 2026 | LOST/Yuoto Saito/Belle/Shinsuke Goto | Shinsuke Goto, Yuoto Saito |
@@ -18,6 +17,7 @@ Mitsuki is a music venue in Tokyo listed on soundcheck. 13 upcoming nights, with
 | Sat, 26 Sept 2026 | Noods Radio: Tokyo | Element (3), Lil Mofo, Mamazu, Mars89 |
 | Tue, 29 Sept 2026 | UNDERTONE | Celter, Wada Yosuke, levolant |
 | Wed, 7 Oct 2026 | Invites:Yonti | Shinsuke Goto, YUI (JP.), Yonti, Zorba |
+| Fri, 9 Oct 2026 | Carl H / DJ MARIA. / K.E.G | Carl H, DJ MARIA., K.E.G |
 
 ## Address
 

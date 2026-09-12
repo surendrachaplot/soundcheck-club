@@ -1,14 +1,13 @@
 # The Ulster Sports Club
 
-The Ulster Sports Club is a music venue in Belfast with 9 upcoming nights listed on soundcheck as of Sat, 12 Sept 2026; the next is "SHINE -- Lorcan Kelly [ALL NIGHT LONG]" on Fri, 11 Sept 2026.
+The Ulster Sports Club is a music venue in Belfast with 8 upcoming nights listed on soundcheck as of Sat, 12 Sept 2026; the next is "Shoot Your Shot X Bella Festa" on Sat, 12 Sept 2026.
 
-The Ulster Sports Club is a music venue in Belfast listed on soundcheck. 9 upcoming nights, with line-ups including Bella Festa, Bonzai Bonner, Conor Schmtz and Dusky and 2 more. Browse upcoming dates, start times and who's playing. The Ulster Sports Club 98 High St, Belfast BT1 2BE, Northern Ireland, United Kingdom.
+The Ulster Sports Club is a music venue in Belfast listed on soundcheck. 8 upcoming nights, with line-ups including Bella Festa, Bonzai Bonner, Conor Schmtz and Dusky and 2 more. Browse upcoming dates, start times and who's playing. The Ulster Sports Club 98 High St, Belfast BT1 2BE, Northern Ireland, United Kingdom.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 11 Sept 2026 | SHINE -- Lorcan Kelly [ALL NIGHT LONG] | Lorcan Kelly |
 | Sat, 12 Sept 2026 | Shoot Your Shot X Bella Festa | Bella Festa, Bonzai Bonner, Katiee.eem |
 | Sat, 12 Sept 2026 | Mystic Arts Records & Never Never present The Mush Room with Residents |  |
 | Fri, 18 Sept 2026 | Plain Sailing's Culture Night Special - Holly Lester & Residents | Holly Lester, Plain Sailing DJs |

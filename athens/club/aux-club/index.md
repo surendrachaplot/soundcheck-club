@@ -1,8 +1,8 @@
 # AUX Club
 
-AUX Club is a music venue in Athens with 8 upcoming nights listed on soundcheck as of Sat, 12 Sept 2026; the next is "FOMO w\ Danny Wabbit" on Fri, 18 Sept 2026.
+AUX Club is a music venue in Athens with 7 upcoming nights listed on soundcheck as of Sat, 12 Sept 2026; the next is "FOMO w\ Danny Wabbit" on Fri, 18 Sept 2026.
 
-AUX Club is a music venue in Athens listed on soundcheck. 8 upcoming nights, with line-ups including a.metz, Adam Des, Alma Libre and Archangel (2) and 2 more. Browse upcoming dates, start times and who's playing. Agiou Orous 15, Athina 104 47, Greece.
+AUX Club is a music venue in Athens listed on soundcheck. 7 upcoming nights, with line-ups including Alma Libre, Archangel (2), Até. and BLANKA and 2 more. Browse upcoming dates, start times and who's playing. Agiou Orous 15, Athina 104 47, Greece.
 
 ## What's on
 
@@ -14,7 +14,6 @@ AUX Club is a music venue in Athens listed on soundcheck. 8 upcoming nights, wit
 | Sat, 26 Sept 2026 | VLCT x SIGNAL w/ SPFDJ & KTK at aux: club | KTK (DE), SALIN, SPFDJ |
 | Fri, 2 Oct 2026 | aux: velocity opening with Speedy J | Até., Cirkle, Speedy J |
 | Sat, 3 Oct 2026 | 422:Mass Season Opening & 2 Years Anniversary  Saturday, 3 October — AUX Club | Imperium, MATEA, siasios |
-| Fri, 9 Oct 2026 | aux: clubnight | Adam Des, Cirkle, a.metz |
 | Tue, 27 Oct 2026 | VLCT ZERO x SIGNAL 12 HOURS w/ Function, Philippa Pacho, BLANKA | BLANKA, Cirkle, Danya (DE), Function, Phil Berg, Philippa Pacho, Toobris |
 
 ## Address

@@ -1,14 +1,13 @@
 # Grace Dahl
 
-Grace Dahl is a Techno and House artist with 7 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at smartbar, Chicago on Fri, 11 Sept 2026.
+Grace Dahl is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Motorista Studio, Toronto on Sat, 12 Sept 2026.
 
-Grace Dahl is a techno and house artist tracked on soundcheck, with 232 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 51 more. Often billed alongside Lobster (NL), Yanamaste and Blasha & Allatt. Next up: smartbar, Chicago on Fri 11 Sept.
+Grace Dahl is a techno and house artist tracked on soundcheck, with 232 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 51 more. Often billed alongside Lobster (NL), Yanamaste and Blasha & Allatt. Next up: Motorista Studio, Toronto on Sat 12 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 11 Sept 2026 | smartbar | Chicago |
 | Sat, 12 Sept 2026 | Motorista Studio | Toronto |
 | Fri, 9 Oct 2026 | Virage | Paris |
 | Sat, 10 Oct 2026 | Berghain / Panorama Bar / Säule | Berlin |

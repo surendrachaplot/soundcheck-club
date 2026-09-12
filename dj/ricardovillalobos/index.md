@@ -1,14 +1,13 @@
 # Ricardo Villalobos
 
-Ricardo Villalobos is a Techno and House artist with 11 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Supermarket, Zurich on Fri, 11 Sept 2026.
+Ricardo Villalobos is a Techno and House artist with 10 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Amnesia Ibiza, Ibiza on Sun, 13 Sept 2026.
 
-Ricardo Villalobos is a techno and house artist tracked on soundcheck, with 122 sets logged across Amsterdam, Antwerp, Barcelona and Berlin and 27 more. Often billed alongside Raresh, O.BEE and Tomas Station. Next up: Supermarket, Zurich on Fri 11 Sept.
+Ricardo Villalobos is a techno and house artist tracked on soundcheck, with 122 sets logged across Amsterdam, Antwerp, Barcelona and Berlin and 27 more. Often billed alongside Raresh, O.BEE and Tomas Station. Next up: Amnesia Ibiza, Ibiza on Sun 13 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 11 Sept 2026 | Supermarket | Zurich |
 | Sun, 13 Sept 2026 | Amnesia Ibiza | Ibiza |
 | Sun, 13 Sept 2026 | Amnesia Ibiza | Ibiza |
 | Fri, 18 Sept 2026 | UNO MALTA | Malta |

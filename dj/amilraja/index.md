@@ -1,14 +1,13 @@
 # amil raja
 
-amil raja is a Techno and Club artist with 2 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Phonox, London on Fri, 11 Sept 2026.
+amil raja is a Techno and Club artist with 1 upcoming club date listed on soundcheck as of Sat, 12 Sept 2026, next at Garage Noord, Amsterdam on Sun, 20 Sept 2026.
 
-amil raja is a techno and club artist tracked on soundcheck, with 12 sets logged across Amsterdam, London, Paris and Tokyo. Often billed alongside The Twins (waitareyoutwins), 10cust and AMVN. Next up: Phonox, London on Fri 11 Sept.
+amil raja is a techno and club artist tracked on soundcheck, with 12 sets logged across Amsterdam, London, Paris and Tokyo. Often billed alongside The Twins (waitareyoutwins), 10cust and AMVN. Next up: Garage Noord, Amsterdam on Sun 20 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 11 Sept 2026 | Phonox | London |
 | Sun, 20 Sept 2026 | Garage Noord | Amsterdam |
 
 ## Recently played

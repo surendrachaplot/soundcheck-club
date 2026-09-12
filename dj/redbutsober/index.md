@@ -1,14 +1,13 @@
 # REDBUTSOBER
 
-REDBUTSOBER is a electronic artist with 2 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Lowkey Seoul, Seoul on Fri, 11 Sept 2026.
+REDBUTSOBER is a electronic artist with 1 upcoming club date listed on soundcheck as of Sat, 12 Sept 2026, next at Lowkey Seoul, Seoul on Sat, 12 Sept 2026.
 
-REDBUTSOBER is an electronic artist based in South Korea, tracked on soundcheck, with 37 sets logged across Seoul. Often billed alongside Jamflat, Zoey and Meero. Next up: Lowkey Seoul, Seoul on Fri 11 Sept.
+REDBUTSOBER is an electronic artist based in South Korea, tracked on soundcheck, with 37 sets logged across Seoul. Often billed alongside Jamflat, Zoey and Meero. Next up: Lowkey Seoul, Seoul on Sat 12 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 11 Sept 2026 | Lowkey Seoul | Seoul |
 | Sat, 12 Sept 2026 | Lowkey Seoul | Seoul |
 
 ## Recently played

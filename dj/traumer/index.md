@@ -1,14 +1,13 @@
 # Traumer
 
-Traumer is a House and Tech House artist with 15 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Pacha Ibiza, Ibiza on Fri, 11 Sept 2026.
+Traumer is a House and Tech House artist with 14 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Shelter Amsterdam, Amsterdam on Sat, 12 Sept 2026.
 
-Traumer is a house and tech house artist tracked on soundcheck, with 311 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 67 more. Often billed alongside Enzo Siragusa, Shonky and Rossi. Next up: Pacha Ibiza, Ibiza on Fri 11 Sept.
+Traumer is a house and tech house artist tracked on soundcheck, with 311 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 67 more. Often billed alongside Enzo Siragusa, Shonky and Rossi. Next up: Shelter Amsterdam, Amsterdam on Sat 12 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 11 Sept 2026 | Pacha Ibiza | Ibiza |
 | Sat, 12 Sept 2026 | Shelter Amsterdam | Amsterdam |
 | Fri, 18 Sept 2026 | UNO MALTA | Malta |
 | Sat, 19 Sept 2026 | FOLD | London |
@@ -20,6 +19,7 @@ Traumer is a house and tech house artist tracked on soundcheck, with 311 sets lo
 | Tue, 6 Oct 2026 | Hï Ibiza | Ibiza |
 | Thu, 22 Oct 2026 | RAWFACTORY | Amsterdam |
 | Fri, 23 Oct 2026 | Blast Galaxy | Amsterdam |
+| Fri, 13 Nov 2026 | TESTBED | Leeds |
 
 ## Recently played
 

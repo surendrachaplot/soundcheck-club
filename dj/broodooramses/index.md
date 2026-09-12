@@ -1,6 +1,6 @@
 # Broodoo Ramses
 
-Broodoo Ramses is a Club and Baile Funk artist with 2 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at main room, Paris on Thu, 10 Sept 2026.
+Broodoo Ramses is a Club and Baile Funk artist with 1 upcoming club date listed on soundcheck as of Sat, 12 Sept 2026, next at main room, Paris on Thu, 10 Sept 2026.
 
 Broodoo Ramses is a club and baile funk artist tracked on soundcheck, with 52 sets logged across Belgrade, Berlin, Geneva and Hamburg and 5 more. Often billed alongside Bamao Yendé, Crystallmess and Missy Da Kunt. Next up: main room, Paris on Thu 10 Sept.
 
@@ -9,7 +9,6 @@ Broodoo Ramses is a club and baile funk artist tracked on soundcheck, with 52 se
 | Date | Venue | City |
 | --- | --- | --- |
 | Thu, 10 Sept 2026 | main room | Paris |
-| Fri, 11 Sept 2026 | Pamela Club | Paris |
 
 ## Recently played
 

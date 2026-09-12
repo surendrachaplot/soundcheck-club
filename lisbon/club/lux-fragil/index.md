@@ -1,14 +1,13 @@
 # Lux Fragil
 
-Lux Fragil is a music venue in Lisbon with 9 upcoming nights listed on soundcheck as of Sat, 12 Sept 2026; the next is "James Monro, Rui Vargas, Markov, Nicolle Velcro" on Fri, 11 Sept 2026.
+Lux Fragil is a music venue in Lisbon with 8 upcoming nights listed on soundcheck as of Sat, 12 Sept 2026; the next is "Jonathan Kaspar, Switchdance, HNRQ, Inês Duarte, Varela" on Sat, 12 Sept 2026.
 
-Lux Fragil is a music venue in Lisbon listed on soundcheck. 9 upcoming nights, with line-ups including A Guy Called Gerald, Andros, Beno and Cormac and 2 more. Browse upcoming dates, start times and who's playing. Av. Infante D. Henrique, armazém A, Cais da Pedra a Sta. Apolónia, 1950-376 Lisboa, Portugal.
+Lux Fragil is a music venue in Lisbon listed on soundcheck. 8 upcoming nights, with line-ups including A Guy Called Gerald, Beno, Cormac and Cuba (PT) and 2 more. Browse upcoming dates, start times and who's playing. Av. Infante D. Henrique, armazém A, Cais da Pedra a Sta. Apolónia, 1950-376 Lisboa, Portugal.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 11 Sept 2026 | James Monro, Rui Vargas, Markov, Nicolle Velcro | Andros, John Woods, Markov (cult), Nicolle Velcro, Rui Vargas |
 | Sat, 12 Sept 2026 | Jonathan Kaspar, Switchdance, HNRQ, Inês Duarte, Varela | Fabich, HNRQ (2), Inês Duarte, Jonathan Kaspar, Juju Manju, Moulin, Switchdance, Varela |
 | Sat, 12 Sept 2026 | club asia THURSDAY | Tana (2), WATARU, hara (2) |
 | Thu, 17 Sept 2026 | King Kami & dawn dani | Holger Hecler, Kelson, King Kami, dawn dani |

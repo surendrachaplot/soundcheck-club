@@ -1,14 +1,13 @@
 # Desterro
 
-Desterro is a music venue in Lisbon with 3 upcoming nights listed on soundcheck as of Sat, 12 Sept 2026; the next is "｢𝑪𝑶𝑴𝑨𝑵𝑫𝑨𝑵𝑻𝑬 c/ Alana Vegana, Dj Lynce, Field Ops [LIVE], XCI｣" on Fri, 11 Sept 2026.
+Desterro is a music venue in Lisbon with 2 upcoming nights listed on soundcheck as of Sat, 12 Sept 2026; the next is "A/V Philosophy #6 - Party Smith (DJ) + Xis (VJ)" on Sat, 12 Sept 2026.
 
-Desterro is a music venue in Lisbon listed on soundcheck. 3 upcoming nights, with line-ups including Dj Lynce, João Melgueira, Party Smith and Phasos and 2 more. Browse upcoming dates, start times and who's playing. Calçada do Desterro nº7 1150-241 Lisbon, Portugal.
+Desterro is a music venue in Lisbon listed on soundcheck. 2 upcoming nights, with line-ups including João Melgueira, Party Smith and Phasos. Browse upcoming dates, start times and who's playing. Calçada do Desterro nº7 1150-241 Lisbon, Portugal.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 11 Sept 2026 | ｢𝑪𝑶𝑴𝑨𝑵𝑫𝑨𝑵𝑻𝑬 c/ Alana Vegana, Dj Lynce, Field Ops [LIVE], XCI｣ | Dj Lynce, Sibson, XCI |
 | Sat, 12 Sept 2026 | A/V Philosophy #6 - Party Smith (DJ) + Xis (VJ) | Party Smith |
 | Sat, 19 Sept 2026 | Alienação - Desterro #39 with beanslut, Phasos & João Melgueira | João Melgueira, Phasos |
 

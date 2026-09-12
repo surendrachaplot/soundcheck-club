@@ -1,14 +1,13 @@
 # Moreon
 
-Moreon is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Switch Bar, Barcelona on Fri, 11 Sept 2026.
+Moreon is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Sat, 12 Sept 2026, next at 303 Audiophile Bar, Barcelona on Sat, 17 Oct 2026.
 
-Moreon is a house and tech house artist based in Venezuela, tracked on soundcheck, with 40 sets logged across Austin, Barcelona, Boston and Chicago and 6 more. Often billed alongside LM, DECA (VE) and Inpulse. Next up: Switch Bar, Barcelona on Fri 11 Sept.
+Moreon is a house and tech house artist based in Venezuela, tracked on soundcheck, with 40 sets logged across Austin, Barcelona, Boston and Chicago and 6 more. Often billed alongside LM, DECA (VE) and Inpulse. Next up: 303 Audiophile Bar, Barcelona on Sat 17 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 11 Sept 2026 | Switch Bar | Barcelona |
 | Sat, 17 Oct 2026 | 303 Audiophile Bar | Barcelona |
 
 ## Recently played

@@ -1,14 +1,13 @@
 # Epic Prague
 
-Epic Prague is a music venue in Prague with 7 upcoming nights listed on soundcheck as of Sat, 12 Sept 2026; the next is "Radical Redemption" on Fri, 11 Sept 2026.
+Epic Prague is a music venue in Prague with 6 upcoming nights listed on soundcheck as of Sat, 12 Sept 2026; the next is "Trance Family - Marc Van Linden" on Sat, 12 Sept 2026.
 
-Epic Prague is a music venue in Prague listed on soundcheck. 7 upcoming nights, with line-ups including Andrew Rayel, Deborah De Luca, Dimitri K and Marc van Linden and 2 more. Browse upcoming dates, start times and who's playing. 1003/3 Revoluční, Staré Město 1, 110 00 Praha, Czechia.
+Epic Prague is a music venue in Prague listed on soundcheck. 6 upcoming nights, with line-ups including Andrew Rayel, Deborah De Luca, Dimitri K and Marc van Linden and 2 more. Browse upcoming dates, start times and who's playing. 1003/3 Revoluční, Staré Město 1, 110 00 Praha, Czechia.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 11 Sept 2026 | Radical Redemption | Radical Redemption |
 | Sat, 12 Sept 2026 | Trance Family - Marc Van Linden | Marc van Linden |
 | Sat, 19 Sept 2026 | Find Your Harmony 500 - Prague | Andrew Rayel, Ruben de Ronde |
 | Fri, 25 Sept 2026 | Deborah De Luca | Deborah De Luca |

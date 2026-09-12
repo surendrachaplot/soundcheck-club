@@ -1,14 +1,13 @@
 # Le Nomad
 
-Le Nomad is a House and Electronica artist with 3 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at berlinClub, Madrid on Fri, 11 Sept 2026.
+Le Nomad is a House and Electronica artist with 2 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at berlinClub, Madrid on Fri, 18 Sept 2026.
 
-Le Nomad is a house and electronica artist tracked on soundcheck, with 76 sets logged across Barcelona, Budapest, Madrid and Newyorkcity and 1 more. Often billed alongside Foie Gras, Antoine. and Gaspar Antuña. Next up: berlinClub, Madrid on Fri 11 Sept.
+Le Nomad is a house and electronica artist tracked on soundcheck, with 76 sets logged across Barcelona, Budapest, Madrid and Newyorkcity and 1 more. Often billed alongside Foie Gras, Antoine. and Gaspar Antuña. Next up: berlinClub, Madrid on Fri 18 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 11 Sept 2026 | berlinClub | Madrid |
 | Fri, 18 Sept 2026 | berlinClub | Madrid |
 | Fri, 2 Oct 2026 | Cadavra | Madrid |
 

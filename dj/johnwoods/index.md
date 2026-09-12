@@ -1,14 +1,13 @@
 # John Woods
 
-John Woods is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Lux Fragil, Lisbon on Fri, 11 Sept 2026.
+John Woods is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Sat, 12 Sept 2026, next at Akasha Las Dalias Club - Ibiza, Ibiza on Sun, 11 Oct 2026.
 
-John Woods is a house and tech house artist based in Portugal, tracked on soundcheck, with 47 sets logged across Amsterdam, Barcelona, Berlin and Ibiza and 8 more. Often billed alongside MËSTIZA, Omer Tayar and Awka. Next up: Lux Fragil, Lisbon on Fri 11 Sept.
+John Woods is a house and tech house artist based in Portugal, tracked on soundcheck, with 47 sets logged across Amsterdam, Barcelona, Berlin and Ibiza and 8 more. Often billed alongside MËSTIZA, Omer Tayar and Awka. Next up: Akasha Las Dalias Club - Ibiza, Ibiza on Sun 11 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 11 Sept 2026 | Lux Fragil | Lisbon |
 | Sun, 11 Oct 2026 | Akasha Las Dalias Club - Ibiza | Ibiza |
 
 ## Recently played

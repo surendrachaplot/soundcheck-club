@@ -1,14 +1,13 @@
 # Timebar
 
-Timebar is a music venue in Stockholm with 2 upcoming nights listed on soundcheck as of Sat, 12 Sept 2026; the next is "Timebar Presents Kadinsky Sessions Amsterdam" on Fri, 11 Sept 2026.
+Timebar is a music venue in Stockholm with 1 upcoming night listed on soundcheck as of Sat, 12 Sept 2026; the next is "OBEHÖRIGA" on Fri, 30 Oct 2026.
 
-Timebar is a music venue in Stockholm listed on soundcheck. 2 upcoming nights, with line-ups including Around Us, Coralie Llie, Daddy Problems and Marble and 2 more. Browse upcoming dates, start times and who's playing. Hornsgatan 174.
+Timebar is a music venue in Stockholm listed on soundcheck. 1 upcoming night, with line-ups including Daddy Problems and Marble. Browse upcoming dates, start times and who's playing. Hornsgatan 174.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 11 Sept 2026 | Timebar Presents Kadinsky Sessions Amsterdam | Around Us, Coralie Llie, MC PPholl, Ras Paulus, Surfface |
 | Fri, 30 Oct 2026 | OBEHÖRIGA | Daddy Problems, Marble |
 
 ## Address

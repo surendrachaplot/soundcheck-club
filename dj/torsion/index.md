@@ -1,14 +1,14 @@
 # Torsion
 
-Torsion is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 12 Sept 2026, next at TBA - San Francisco, San Francisco/Oakland on Fri, 18 Sept 2026.
+Torsion is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 12 Sept 2026, next at TBA - The Loom (2150 Livingston St, Oakland), San Francisco/Oakland on Fri, 18 Sept 2026.
 
-Torsion is a techno and house artist based in United States of America, tracked on soundcheck, with 20 sets logged across Berlin, Detroit, Newyorkcity and Paris and 2 more. Often billed alongside Kudeki, RMNA and Neel. Next up: TBA - San Francisco, Sanfrancisco on Fri 18 Sept.
+Torsion is a techno and house artist based in United States of America, tracked on soundcheck, with 20 sets logged across Berlin, Detroit, Newyorkcity and Paris and 2 more. Often billed alongside Kudeki, RMNA and Neel. Next up: TBA - The Loom (2150 Livingston St, Oakland), Sanfrancisco on Fri 18 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 18 Sept 2026 | TBA - San Francisco | San Francisco/Oakland |
+| Fri, 18 Sept 2026 | TBA - The Loom (2150 Livingston St, Oakland) | San Francisco/Oakland |
 
 ## Recently played
 

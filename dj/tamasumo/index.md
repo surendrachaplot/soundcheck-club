@@ -1,14 +1,13 @@
 # Tama Sumo
 
-Tama Sumo is a House and Techno artist with 7 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at UMI, Brussels on Fri, 11 Sept 2026.
+Tama Sumo is a House and Techno artist with 6 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Berghain | Panorama Bar | Säule, Berlin on Sat, 12 Sept 2026.
 
-Tama Sumo is a house and techno artist tracked on soundcheck, with 191 sets logged across Amsterdam, Antwerp, Athens and Bali and 49 more. Often billed alongside Lakuti, Roi Perez and Virginia. Next up: UMI, Brussels on Fri 11 Sept.
+Tama Sumo is a house and techno artist tracked on soundcheck, with 191 sets logged across Amsterdam, Antwerp, Athens and Bali and 49 more. Often billed alongside Lakuti, Roi Perez and Virginia. Next up: Berghain | Panorama Bar | Säule, Berlin on Sat 12 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 11 Sept 2026 | UMI | Brussels |
 | Sat, 12 Sept 2026 | Berghain / Panorama Bar / Säule | Berlin |
 | Sat, 26 Sept 2026 | Spook Club | Valencia |
 | Sat, 26 Sept 2026 | Spook Club | Valencia |

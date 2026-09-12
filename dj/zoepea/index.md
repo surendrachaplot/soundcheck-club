@@ -1,14 +1,13 @@
 # Zoe Pea
 
-Zoe Pea is a Downtempo and Experimental artist with 2 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at EXIT Glasgow, Glasgow on Fri, 11 Sept 2026.
+Zoe Pea is a Downtempo and Experimental artist with 1 upcoming club date listed on soundcheck as of Sat, 12 Sept 2026, next at Unter Deck, Munich on Fri, 9 Oct 2026.
 
-Zoe Pea is a downtempo and experimental artist tracked on soundcheck, with 20 sets logged across Bristol, Glasgow, Leeds and London and 3 more. Often billed alongside Rat Section, babyschön and floor length skirts. Next up: EXIT Glasgow, Glasgow on Fri 11 Sept.
+Zoe Pea is a downtempo and experimental artist tracked on soundcheck, with 20 sets logged across Bristol, Glasgow, Leeds and London and 3 more. Often billed alongside Rat Section, babyschön and floor length skirts. Next up: Unter Deck, Munich on Fri 9 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 11 Sept 2026 | EXIT Glasgow | Glasgow |
 | Fri, 9 Oct 2026 | Unter Deck | Munich |
 
 ## Recently played

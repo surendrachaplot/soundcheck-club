@@ -1,14 +1,13 @@
 # TBA - Los Angeles
 
-TBA - Los Angeles is a music venue in Los Angeles with 15 upcoming nights listed on soundcheck as of Sat, 12 Sept 2026; the next is "WORK presents: D.Dan [All Night Long]" on Fri, 11 Sept 2026.
+TBA - Los Angeles is a music venue in Los Angeles with 14 upcoming nights listed on soundcheck as of Sat, 12 Sept 2026; the next is "WORK presents Beste Hira, Stephen Disario, & Takaaki Itoh" on Sat, 12 Sept 2026.
 
-TBA - Los Angeles is a music venue in Losangeles listed on soundcheck. 15 upcoming nights, with line-ups including Adrian Reyes, Anastasia Giovani, Bart Skils and Beste Hira and 2 more. Browse upcoming dates, start times and who's playing.
+TBA - Los Angeles is a music venue in Losangeles listed on soundcheck. 14 upcoming nights, with line-ups including Adrian Reyes, Anastasia Giovani, Bart Skils and Beste Hira and 2 more. Browse upcoming dates, start times and who's playing.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 11 Sept 2026 | WORK presents: D.Dan [All Night Long] | D.Dan |
 | Sat, 12 Sept 2026 | WORK presents Beste Hira, Stephen Disario, & Takaaki Itoh | Beste Hira, Stephen Disario, Takaaki Itoh |
 | Sat, 12 Sept 2026 | Planet Love with Fafi Abdel Nour, ketia, James Axon, & Special Guest  | Fafi Abdel Nour, James Axon, ketia |
 | Fri, 25 Sept 2026 | WORK OVER/TIME: JIA, MARRØN, NEKTER, Rene Wise, Rrose, Sarah Wreath [Live], & Wata Igarashi | Blasha & Allatt, JIA, MARRØN, NEKTER, Rene Wise, Rrose, Sarah Wreath, Wata Igarashi |
@@ -18,5 +17,6 @@ TBA - Los Angeles is a music venue in Losangeles listed on soundcheck. 15 upcomi
 | Fri, 9 Oct 2026 | WORK presents: Bart Skils [4 Hour Set] & fun2bjane | Bart Skils, fun2bjane |
 | Sat, 10 Oct 2026 | WORK presents: DVS1 [4 Hour Set], Mary Yuzovskaya, & Pleasures | DVS1, Mary Yuzovskaya, PLEASURES (US) |
 | Fri, 16 Oct 2026 | Emanate - Twisted Tour (Open To Close) | Emanate |
+| Sat, 24 Oct 2026 | WORK presents: Victor Ruiz, PASH, & Frida Henson | Frida Henson, Pash (US), Victor Ruiz |
 
 *Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/tba-los-angeles/)*

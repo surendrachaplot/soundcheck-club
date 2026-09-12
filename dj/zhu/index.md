@@ -1,14 +1,13 @@
 # ZHU
 
-ZHU is a House and Deep House artist with 4 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Pacha New York, New York City on Fri, 11 Sept 2026.
+ZHU is a House and Deep House artist with 3 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at The Concourse Project, Austin on Fri, 23 Oct 2026.
 
-ZHU is a house and deep house artist based in United States of America, tracked on soundcheck, with 27 sets logged across Austin, Chicago, Denver and Detroit and 10 more. Often billed alongside Diplo, Azzecca and Biscits. Next up: Pacha New York, Newyorkcity on Fri 11 Sept.
+ZHU is a house and deep house artist based in United States of America, tracked on soundcheck, with 27 sets logged across Austin, Chicago, Denver and Detroit and 10 more. Often billed alongside Diplo, Azzecca and Biscits. Next up: The Concourse Project, Austin on Fri 23 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 11 Sept 2026 | Pacha New York | New York City |
 | Fri, 23 Oct 2026 | The Concourse Project | Austin |
 | Sun, 25 Oct 2026 | The Concourse Project | Austin |
 | Sat, 31 Oct 2026 | TBA - Gold Bar Distillery Treasure Island | San Francisco/Oakland |

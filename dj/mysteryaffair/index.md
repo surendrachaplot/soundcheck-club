@@ -1,14 +1,13 @@
 # Mystery Affair
 
-Mystery Affair is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Say No More Madrid, Madrid on Fri, 11 Sept 2026.
+Mystery Affair is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at YuYu Cine Club, Mexico City on Sat, 19 Sept 2026.
 
-Mystery Affair is a house and techno artist tracked on soundcheck, with 96 sets logged across Amsterdam, Bali, Barcelona and Berlin and 16 more. Often billed alongside Ursula Prawn, Portugal and sadgal. Next up: Say No More Madrid, Madrid on Fri 11 Sept.
+Mystery Affair is a house and techno artist tracked on soundcheck, with 96 sets logged across Amsterdam, Bali, Barcelona and Berlin and 16 more. Often billed alongside Ursula Prawn, Portugal and sadgal. Next up: YuYu Cine Club, Mexicocity on Sat 19 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 11 Sept 2026 | Say No More Madrid | Madrid |
 | Sat, 19 Sept 2026 | YuYu Cine Club | Mexico City |
 | Sat, 17 Oct 2026 | Berghain / Panorama Bar / Säule | Berlin |
 

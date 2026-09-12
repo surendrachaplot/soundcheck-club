@@ -1,14 +1,13 @@
 # DJ Pipe
 
-DJ Pipe is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Coil, Melbourne on Fri, 11 Sept 2026.
+DJ Pipe is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 12 Sept 2026, next at Tresor / Globus, Berlin on Sat, 26 Sept 2026.
 
-DJ Pipe is a house and techno artist based in United Kingdom, tracked on soundcheck, with 85 sets logged across Amsterdam, Barcelona, Berlin and Brussels and 25 more. Often billed alongside Huerta, Taslo and The Ghost. Next up: Coil, Melbourne on Fri 11 Sept.
+DJ Pipe is a house and techno artist based in United Kingdom, tracked on soundcheck, with 85 sets logged across Amsterdam, Barcelona, Berlin and Brussels and 25 more. Often billed alongside Huerta, Taslo and The Ghost. Next up: Tresor / Globus, Berlin on Sat 26 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 11 Sept 2026 | Coil | Melbourne |
 | Sat, 26 Sept 2026 | Tresor / Globus | Berlin |
 
 ## Recently played

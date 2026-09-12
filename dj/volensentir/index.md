@@ -1,14 +1,13 @@
 # Volen Sentir
 
-Volen Sentir is a Deep House and Progressive House artist with 2 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Refuge, New York City on Fri, 11 Sept 2026.
+Volen Sentir is a Deep House and Progressive House artist with 1 upcoming club date listed on soundcheck as of Sat, 12 Sept 2026, next at Lower Deck, London on Sat, 5 Dec 2026.
 
-Volen Sentir is a deep house and progressive house artist tracked on soundcheck, with 32 sets logged across Amsterdam, Budapest, Denver and London and 9 more. Often billed alongside PROFF, Altayef and Amber Stomp. Next up: Refuge, Newyorkcity on Fri 11 Sept.
+Volen Sentir is a deep house and progressive house artist tracked on soundcheck, with 32 sets logged across Amsterdam, Budapest, Denver and London and 9 more. Often billed alongside PROFF, Altayef and Amber Stomp. Next up: Lower Deck, London on Sat 5 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 11 Sept 2026 | Refuge | New York City |
 | Sat, 5 Dec 2026 | Lower Deck | London |
 
 ## Recently played

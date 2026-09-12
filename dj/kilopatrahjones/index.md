@@ -1,14 +1,13 @@
 # Kilopatrah Jones
 
-Kilopatrah Jones is a House and Techno artist with 7 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at The Chocolate Factory, New York City on Fri, 11 Sept 2026.
+Kilopatrah Jones is a House and Techno artist with 6 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Elsewhere, New York City on Sat, 19 Sept 2026.
 
-Kilopatrah Jones is a house and techno artist tracked on soundcheck, with 185 sets logged across Amsterdam, Barcelona, Berlin and Boston and 21 more. Often billed alongside Dee Diggs, Mike Servito and Ron Like Hell. Next up: The Chocolate Factory, Newyorkcity on Fri 11 Sept.
+Kilopatrah Jones is a house and techno artist tracked on soundcheck, with 185 sets logged across Amsterdam, Barcelona, Berlin and Boston and 21 more. Often billed alongside Dee Diggs, Mike Servito and Ron Like Hell. Next up: Elsewhere, Newyorkcity on Sat 19 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 11 Sept 2026 | The Chocolate Factory | New York City |
 | Sat, 19 Sept 2026 | Elsewhere | New York City |
 | Fri, 25 Sept 2026 | Kremwerk-Timbre Room-Cherry Complex | Seattle |
 | Sat, 26 Sept 2026 | BASEMENT | New York City |

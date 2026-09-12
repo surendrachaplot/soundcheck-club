@@ -1,14 +1,13 @@
 # CamelPhat
 
-CamelPhat is a Techno and House artist with 10 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Hï Ibiza, Ibiza on Fri, 11 Sept 2026.
+CamelPhat is a Techno and House artist with 9 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Hï Ibiza, Ibiza on Fri, 18 Sept 2026.
 
-CamelPhat is a techno and house artist tracked on soundcheck, with 205 sets logged across Amsterdam, Athens, Austin and Bali and 38 more. Often billed alongside Layla Benitez, Massano and Hot Since 82. Next up: Hï Ibiza, Ibiza on Fri 11 Sept.
+CamelPhat is a techno and house artist tracked on soundcheck, with 205 sets logged across Amsterdam, Athens, Austin and Bali and 38 more. Often billed alongside Layla Benitez, Massano and Hot Since 82. Next up: Hï Ibiza, Ibiza on Fri 18 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 11 Sept 2026 | Hï Ibiza | Ibiza |
 | Fri, 18 Sept 2026 | Hï Ibiza | Ibiza |
 | Fri, 25 Sept 2026 | Hï Ibiza | Ibiza |
 | Sat, 26 Sept 2026 | Ciudad Del Rock | Madrid |

@@ -1,14 +1,13 @@
 # Doggy Klœb
 
-Doggy Klœb is a music venue in Malaga with 8 upcoming nights listed on soundcheck as of Sat, 12 Sept 2026; the next is "Cultura Club: IDA y Radikal Komcept" on Fri, 11 Sept 2026.
+Doggy Klœb is a music venue in Malaga with 7 upcoming nights listed on soundcheck as of Sat, 12 Sept 2026; the next is "Checa: 30 años detras de los platos" on Sat, 12 Sept 2026.
 
-Doggy Klœb is a music venue in Malaga listed on soundcheck. 8 upcoming nights, with line-ups including Arval, Catania, Cavilla and Certain People and 2 more. Browse upcoming dates, start times and who's playing. C. Casablanca, 13, 29620 Torremolinos, Málaga, Spain.
+Doggy Klœb is a music venue in Malaga listed on soundcheck. 7 upcoming nights, with line-ups including Arval, Catania, Cavilla and Certain People and 2 more. Browse upcoming dates, start times and who's playing. C. Casablanca, 13, 29620 Torremolinos, Málaga, Spain.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 11 Sept 2026 | Cultura Club: IDA y Radikal Komcept | IDA |
 | Sat, 12 Sept 2026 | Checa: 30 años detras de los platos |  |
 | Thu, 17 Sept 2026 | Doggy & Friends: Cebrian |  |
 | Fri, 18 Sept 2026 | Creatures of the Night | Catania, Cavilla, Unreal Vibes, rubbio |

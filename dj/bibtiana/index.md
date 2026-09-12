@@ -1,14 +1,13 @@
 # Bibtiana
 
-Bibtiana is a Club and Dancehall artist with 2 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Skatecafe, Amsterdam on Fri, 11 Sept 2026.
+Bibtiana is a Club and Dancehall artist with 1 upcoming club date listed on soundcheck as of Sat, 12 Sept 2026, next at Skatecafe, Amsterdam on Fri, 2 Oct 2026.
 
-Bibtiana is a club and dancehall artist based in Netherlands, tracked on soundcheck, with 16 sets logged across Amsterdam. Often billed alongside Jan Koster, Kyra Khaldi and TINS. Next up: Skatecafe, Amsterdam on Fri 11 Sept.
+Bibtiana is a club and dancehall artist based in Netherlands, tracked on soundcheck, with 16 sets logged across Amsterdam. Often billed alongside Jan Koster, Kyra Khaldi and TINS. Next up: Skatecafe, Amsterdam on Fri 2 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 11 Sept 2026 | Skatecafe | Amsterdam |
 | Fri, 2 Oct 2026 | Skatecafe | Amsterdam |
 
 ## Recently played

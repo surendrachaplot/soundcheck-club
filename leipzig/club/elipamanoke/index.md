@@ -1,14 +1,13 @@
 # elipamanoke
 
-elipamanoke is a music venue in Leipzig with 12 upcoming nights listed on soundcheck as of Sat, 12 Sept 2026; the next is "eli invites Tresor.West" on Fri, 11 Sept 2026.
+elipamanoke is a music venue in Leipzig with 11 upcoming nights listed on soundcheck as of Sat, 12 Sept 2026; the next is "SUGARBASS" on Sat, 12 Sept 2026.
 
-elipamanoke is a music venue in Leipzig listed on soundcheck. 12 upcoming nights, with line-ups including :MUMM, adamoandiamo, Aender and Aio and 2 more. Browse upcoming dates, start times and who's playing. Markranstädter Straße 4, 04229 Leipzig.
+elipamanoke is a music venue in Leipzig listed on soundcheck. 11 upcoming nights, with line-ups including :MUMM, adamoandiamo, Aender and Aio and 2 more. Browse upcoming dates, start times and who's playing. Markranstädter Straße 4, 04229 Leipzig.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 11 Sept 2026 | eli invites Tresor.West | Anuli, Dychromatic, LIP 71, LUZI (2), Lip71, Rostøm, makahaun |
 | Sat, 12 Sept 2026 | SUGARBASS | DJ KAMMERFLIMMERN, Germalog, Richie Rollin, Scrappy Coco, VIVI909 |
 | Wed, 16 Sept 2026 | between x FORM Kollektiv | Dizzy Oz, SLANY |
 | Fri, 18 Sept 2026 | Sachsentrance | :MUMM, GI.O, Maryline K, RaverPik, Sabu!, The Jakob Sister |
@@ -18,6 +17,7 @@ elipamanoke is a music venue in Leipzig listed on soundcheck. 12 upcoming nights
 | Sat, 26 Sept 2026 | RUDE with Fanny, Clarry Berry, Meta Chrom and many more | DJ Luiser, DJ Würlpool, DYNASTY, L3OO, LIZZIE, Meta Chrom, PIG (1) |
 | Sat, 3 Oct 2026 | KOSMOS with Konfusia | Aender, Aio, FLAVE, Konfusia |
 | Sun, 25 Oct 2026 | NACHLEGEN |  |
+| Sat, 31 Oct 2026 | ZAN – Witches* & Friends |  |
 
 ## Address
 

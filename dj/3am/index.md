@@ -1,14 +1,13 @@
 # 3AM
 
-3AM is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Savage Labs, Miami on Fri, 11 Sept 2026.
+3AM is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Savage Labs, Miami on Sat, 12 Sept 2026.
 
-3AM is a techno and house artist based in Belgium, tracked on soundcheck, with 25 sets logged across Detroit, London, Losangeles and Mexicocity and 4 more. Often billed alongside BLANC MAMBA, Giorgi Pipia and KA WAI. Next up: Savage Labs, Miami on Fri 11 Sept.
+3AM is a techno and house artist based in Belgium, tracked on soundcheck, with 25 sets logged across Detroit, London, Losangeles and Mexicocity and 4 more. Often billed alongside BLANC MAMBA, Giorgi Pipia and KA WAI. Next up: Savage Labs, Miami on Sat 12 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 11 Sept 2026 | Savage Labs | Miami |
 | Sat, 12 Sept 2026 | Savage Labs | Miami |
 | Fri, 2 Oct 2026 | Savage Labs | Miami |
 | Fri, 2 Oct 2026 | Loco Park | Tbilisi |

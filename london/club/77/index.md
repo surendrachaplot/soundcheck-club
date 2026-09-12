@@ -1,14 +1,13 @@
 # 77
 
-77 is a music venue in London with 14 upcoming nights listed on soundcheck as of Sat, 12 Sept 2026; the next is "FullHouse Closing Party: Viot" on Fri, 11 Sept 2026.
+77 is a music venue in London with 13 upcoming nights listed on soundcheck as of Sat, 12 Sept 2026; the next is "77: Zakes Bantwini" on Sat, 12 Sept 2026.
 
-77 is a music venue in London listed on soundcheck. 14 upcoming nights, with line-ups including AfroKillerz, AliTR, Angela Rose and BADBOX and 2 more. Browse upcoming dates, start times and who's playing. 77 Welbeck Street, W1G 0BB.
+77 is a music venue in London listed on soundcheck. 13 upcoming nights, with line-ups including AfroKillerz, AliTR, Angela Rose and BADBOX and 2 more. Browse upcoming dates, start times and who's playing. 77 Welbeck Street, W1G 0BB.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 11 Sept 2026 | FullHouse Closing Party: Viot | Viot |
 | Sat, 12 Sept 2026 | 77: Zakes Bantwini | Nésa Thea, Via Seri, Zakes Bantwini |
 | Thu, 17 Sept 2026 | No Permission x MAX&Co. — London Fashion Week Edition | REMIXIA, Wolfram |
 | Fri, 18 Sept 2026 | ETA |  |
@@ -18,6 +17,7 @@
 | Fri, 2 Oct 2026 | 77: The Originals (All Night Long) |  |
 | Sat, 3 Oct 2026 | Kronologik Rekords presents: BADBOX & Friends | AfroKillerz, BADBOX, Tinovcc |
 | Fri, 9 Oct 2026 | 77: Novak & Vidojean | Novak |
+| Sat, 10 Oct 2026 | Soul Session - Sixteenth Birthday | Angela Rose, Gavin Peters, Melo-D |
 
 ## Address
 

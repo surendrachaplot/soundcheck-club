@@ -1,14 +1,13 @@
 # Arapu
 
-Arapu is a House and Minimal artist with 5 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Pacha Ibiza, Ibiza on Fri, 11 Sept 2026.
+Arapu is a House and Minimal artist with 4 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Maya Beach Experience, Naples on Sat, 12 Sept 2026.
 
-Arapu is a house and minimal artist tracked on soundcheck, with 151 sets logged across Amsterdam, Athens, Barcelona and Basel and 29 more. Often billed alongside Priku, Seth Troxler and Sossa. Next up: Pacha Ibiza, Ibiza on Fri 11 Sept.
+Arapu is a house and minimal artist tracked on soundcheck, with 151 sets logged across Amsterdam, Athens, Barcelona and Basel and 29 more. Often billed alongside Priku, Seth Troxler and Sossa. Next up: Maya Beach Experience, Naples on Sat 12 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 11 Sept 2026 | Pacha Ibiza | Ibiza |
 | Sat, 12 Sept 2026 | Maya Beach Experience | Naples |
 | Fri, 2 Oct 2026 | BRET | Amsterdam |
 | Sat, 3 Oct 2026 | Sankeys | Manchester |

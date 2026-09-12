@@ -1,14 +1,13 @@
 # Jay Luna
 
-Jay Luna is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Circulo De Bellas Artes, Madrid on Fri, 11 Sept 2026.
+Jay Luna is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Sat, 12 Sept 2026, next at berlinClub, Madrid on Fri, 25 Sept 2026.
 
-Jay Luna is a house and disco artist based in Spain, tracked on soundcheck, with 27 sets logged across Barcelona, Budapest, London and Madrid and 2 more. Often billed alongside Hugo Carter, Cabin Luv Affair and Yahaira. Next up: Circulo De Bellas Artes, Madrid on Fri 11 Sept.
+Jay Luna is a house and disco artist based in Spain, tracked on soundcheck, with 27 sets logged across Barcelona, Budapest, London and Madrid and 2 more. Often billed alongside Hugo Carter, Cabin Luv Affair and Yahaira. Next up: berlinClub, Madrid on Fri 25 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 11 Sept 2026 | Circulo De Bellas Artes | Madrid |
 | Fri, 25 Sept 2026 | berlinClub | Madrid |
 
 ## Recently played

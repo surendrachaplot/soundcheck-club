@@ -1,14 +1,13 @@
 # Massano
 
-Massano is a Techno and House artist with 10 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Bolivar Beach Bar, Athens on Fri, 11 Sept 2026.
+Massano is a Techno and House artist with 9 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Lofi, Amsterdam on Sat, 12 Sept 2026.
 
-Massano is a techno and house artist tracked on soundcheck, with 161 sets logged across Amsterdam, Athens, Austin and Bali and 48 more. Often billed alongside Adam Beyer, CamelPhat and Chris Avantgarde. Next up: Bolivar Beach Bar, Athens on Fri 11 Sept.
+Massano is a techno and house artist tracked on soundcheck, with 161 sets logged across Amsterdam, Athens, Austin and Bali and 48 more. Often billed alongside Adam Beyer, CamelPhat and Chris Avantgarde. Next up: Lofi, Amsterdam on Sat 12 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 11 Sept 2026 | Bolivar Beach Bar | Athens |
 | Sat, 12 Sept 2026 | Lofi | Amsterdam |
 | Thu, 17 Sept 2026 | Cova Santa | Ibiza |
 | Fri, 25 Sept 2026 | Factory Town | Miami |

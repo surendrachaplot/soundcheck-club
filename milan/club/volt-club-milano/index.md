@@ -1,14 +1,13 @@
 # Volt Club Milano
 
-Volt Club Milano is a music venue in Milan with 8 upcoming nights listed on soundcheck as of Sat, 12 Sept 2026; the next is "Mita Gami + Alessio Cristiano" on Fri, 11 Sept 2026.
+Volt Club Milano is a music venue in Milan with 7 upcoming nights listed on soundcheck as of Sat, 12 Sept 2026; the next is "Âme DJ + Auggië" on Sat, 12 Sept 2026.
 
-Volt Club Milano is a music venue in Milan listed on soundcheck. 8 upcoming nights, with line-ups including Agoria, Alessio Cristiano, Âme and ANOTR and 2 more. Browse upcoming dates, start times and who's playing. Via Molino delle Armi, 16, 20123 Milano MI, Italy.
+Volt Club Milano is a music venue in Milan listed on soundcheck. 7 upcoming nights, with line-ups including Agoria, Alessio Cristiano, Âme and ANOTR and 2 more. Browse upcoming dates, start times and who's playing. Via Molino delle Armi, 16, 20123 Milano MI, Italy.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 11 Sept 2026 | Mita Gami + Alessio Cristiano | Alessio Cristiano, Mita Gami |
 | Sat, 12 Sept 2026 | Âme DJ + Auggië | Auggië, Âme |
 | Thu, 17 Sept 2026 | Saraga + Giulio Domi | Giulio Domi, Saraga |
 | Fri, 18 Sept 2026 | Sona + La Hara | La Hara, Sona |

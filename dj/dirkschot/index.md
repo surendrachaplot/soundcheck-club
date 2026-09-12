@@ -1,14 +1,13 @@
 # Dirk Schot
 
-Dirk Schot is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Madam, Amsterdam on Fri, 11 Sept 2026.
+Dirk Schot is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Sat, 12 Sept 2026, next at Grand Café Heineken Hoek, Amsterdam on Wed, 21 Oct 2026.
 
-Dirk Schot is a house and disco artist based in Netherlands, tracked on soundcheck, with 22 sets logged across Amsterdam. Often billed alongside Black Legend, Charlie Brown and Claudius. Next up: Madam, Amsterdam on Fri 11 Sept.
+Dirk Schot is a house and disco artist based in Netherlands, tracked on soundcheck, with 22 sets logged across Amsterdam. Often billed alongside Black Legend, Charlie Brown and Claudius. Next up: Grand Café Heineken Hoek, Amsterdam on Wed 21 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 11 Sept 2026 | Madam | Amsterdam |
 | Wed, 21 Oct 2026 | Grand Café Heineken Hoek | Amsterdam |
 
 ## Recently played

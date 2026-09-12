@@ -1,14 +1,13 @@
 # 宀 Club
 
-宀 Club is a music venue in Hong Kong with 20 upcoming nights listed on soundcheck as of Sat, 12 Sept 2026; the next is "Wada Yosuke (Cowboy Family, Tokyo) B2B Sunsiaré (宀, Hong Kong)" on Fri, 11 Sept 2026.
+宀 Club is a music venue in Hong Kong with 19 upcoming nights listed on soundcheck as of Sat, 12 Sept 2026; the next is "LMNL_DSTRKT: A Strange Wedding, Konnection & Faxtory" on Sat, 12 Sept 2026.
 
-宀 Club is a music venue in Hongkong listed on soundcheck. 20 upcoming nights, with line-ups including 69DB, Andy-S, A Strange Wedding and Carl H and 2 more. Browse upcoming dates, start times and who's playing. 4F, 279 Des Voeux Road Central, Sheung Wan, Hong Kong.
+宀 Club is a music venue in Hongkong listed on soundcheck. 19 upcoming nights, with line-ups including 69DB, Andy-S, A Strange Wedding and Carl H and 2 more. Browse upcoming dates, start times and who's playing. 4F, 279 Des Voeux Road Central, Sheung Wan, Hong Kong.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 11 Sept 2026 | Wada Yosuke (Cowboy Family, Tokyo) B2B Sunsiaré (宀, Hong Kong) | Sunsiaré, Wada Yosuke |
 | Sat, 12 Sept 2026 | LMNL_DSTRKT: A Strange Wedding, Konnection & Faxtory | A Strange Wedding, Faxtory, Konnection |
 | Fri, 18 Sept 2026 | Entropy 熵 with Mogano (Arboretum, Berlin) + Marco Yu (TRI) + Nanogram (Entropy 熵) | MarcoYu, Mogano, Nanogram |
 | Sat, 19 Sept 2026 | Host with Nat Wendell (Depths of My Soul, Berlin) [All Night Long] | Nat Wendell |
@@ -18,6 +17,7 @@
 | Fri, 2 Oct 2026 | Reach x Mango Season with Pocari Sweaty (Mango Season, Taipei) + Andy-S (Reach, Hong Kong) | Andy-S, Pocari Sweaty |
 | Sat, 3 Oct 2026 | 宀 Invites Dr. Nishimura (悪魔の沼, Tokyo) + Yadin Moha (Zagareet, Hong Kong) | Dr. Nishimura, Yadin Moha |
 | Fri, 9 Oct 2026 | Darkmetaz x Yee with 69DB (Spiral Tribe, London) [LIVE] | 69DB, JFÜNG, Oscar Days, TUESDAY |
+| Sat, 10 Oct 2026 | VG+ with Carl H (Animals on Psychedelics, Cleethorpes) + maxi.milian (VG+, Hong Kong) | Carl H, maxi.milian |
 
 ## Address
 

@@ -1,14 +1,13 @@
 # Taglo
 
-Taglo is a Progressive House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Chasers Nightclub, Melbourne on Fri, 11 Sept 2026.
+Taglo is a Progressive House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 12 Sept 2026, next at Brown Alley, Melbourne on Fri, 16 Oct 2026.
 
-Taglo is a progressive house and techno artist based in Australia, tracked on soundcheck, with 23 sets logged across Brisbane, Malta, Melbourne and Sydney and 1 more. Often billed alongside Nicky Elisabeth, Qrion and April Kerry. Next up: Chasers Nightclub, Melbourne on Fri 11 Sept.
+Taglo is a progressive house and techno artist based in Australia, tracked on soundcheck, with 23 sets logged across Brisbane, Malta, Melbourne and Sydney and 1 more. Often billed alongside Nicky Elisabeth, Qrion and April Kerry. Next up: Brown Alley, Melbourne on Fri 16 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 11 Sept 2026 | Chasers Nightclub | Melbourne |
 | Fri, 16 Oct 2026 | Brown Alley | Melbourne |
 
 ## Recently played

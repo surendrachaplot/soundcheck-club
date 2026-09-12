@@ -1,14 +1,13 @@
 # j:me
 
-j:me is a House and Tech House artist with 7 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at renae, Manchester on Fri, 11 Sept 2026.
+j:me is a House and Tech House artist with 6 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Stage and Radio, Manchester on Sat, 26 Sept 2026.
 
-j:me is a house and tech house artist tracked on soundcheck, with 37 sets logged across Amsterdam, Barcelona, Ibiza and Leeds and 2 more. Often billed alongside Jude Lenihan, Benji King and Phill de Janeiro. Next up: renae, Manchester on Fri 11 Sept.
+j:me is a house and tech house artist tracked on soundcheck, with 37 sets logged across Amsterdam, Barcelona, Ibiza and Leeds and 2 more. Often billed alongside Jude Lenihan, Benji King and Phill de Janeiro. Next up: Stage and Radio, Manchester on Sat 26 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 11 Sept 2026 | renae | Manchester |
 | Sat, 26 Sept 2026 | Stage and Radio | Manchester |
 | Fri, 9 Oct 2026 | fabric | London |
 | Fri, 16 Oct 2026 | Stage and Radio | Manchester |

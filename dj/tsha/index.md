@@ -1,14 +1,13 @@
 # TSHA
 
-TSHA is a House and Techno artist with 6 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Palais, London on Fri, 11 Sept 2026.
+TSHA is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at RSO.BERLIN, Berlin on Sat, 12 Sept 2026.
 
-TSHA is a house and techno artist tracked on soundcheck, with 184 sets logged across Amsterdam, Antwerp, Austin and Bali and 49 more. Often billed alongside Eliza Rose, Honey Dijon and Seth Troxler. Next up: Palais, London on Fri 11 Sept.
+TSHA is a house and techno artist tracked on soundcheck, with 184 sets logged across Amsterdam, Antwerp, Austin and Bali and 49 more. Often billed alongside Eliza Rose, Honey Dijon and Seth Troxler. Next up: RSO.BERLIN, Berlin on Sat 12 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 11 Sept 2026 | Palais | London |
 | Sat, 12 Sept 2026 | RSO.BERLIN | Berlin |
 | Sat, 26 Sept 2026 | Quinta Mira Rio | Lisbon |
 | Tue, 29 Sept 2026 | Cova Santa | Ibiza |

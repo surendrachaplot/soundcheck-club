@@ -1,14 +1,13 @@
 # Generali Minerali
 
-Generali Minerali is a Electro and Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Mtkvarze, Tbilisi on Fri, 11 Sept 2026.
+Generali Minerali is a Electro and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 12 Sept 2026, next at Loco Park, Tbilisi on Fri, 2 Oct 2026.
 
-Generali Minerali is an electro and techno artist based in Georgia, tracked on soundcheck, with 133 sets logged across Berlin, Copenhagen, Hamburg and Leipzig and 4 more. Often billed alongside Minerali, Neon Warrior and Seqta. Next up: Mtkvarze, Tbilisi on Fri 11 Sept.
+Generali Minerali is an electro and techno artist based in Georgia, tracked on soundcheck, with 133 sets logged across Berlin, Copenhagen, Hamburg and Leipzig and 4 more. Often billed alongside Minerali, Neon Warrior and Seqta. Next up: Loco Park, Tbilisi on Fri 2 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 11 Sept 2026 | Mtkvarze | Tbilisi |
 | Fri, 2 Oct 2026 | Loco Park | Tbilisi |
 
 ## Recently played

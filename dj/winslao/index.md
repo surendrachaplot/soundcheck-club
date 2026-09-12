@@ -1,14 +1,13 @@
 # WINSLAO
 
-WINSLAO is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Wigwam, Dublin on Fri, 11 Sept 2026.
+WINSLAO is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Sat, 12 Sept 2026, next at Wigwam, Dublin on Fri, 25 Sept 2026.
 
-WINSLAO is a techno and trance artist based in Spain, tracked on soundcheck, with 12 sets logged across Dublin. Often billed alongside ALPER SKR, SAMUX and BOVSKI. Next up: Wigwam, Dublin on Fri 11 Sept.
+WINSLAO is a techno and trance artist based in Spain, tracked on soundcheck, with 12 sets logged across Dublin. Often billed alongside ALPER SKR, SAMUX and BOVSKI. Next up: Wigwam, Dublin on Fri 25 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 11 Sept 2026 | Wigwam | Dublin |
 | Fri, 25 Sept 2026 | Wigwam | Dublin |
 
 ## Recently played

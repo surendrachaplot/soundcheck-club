@@ -1,14 +1,13 @@
 # Aniri Chan
 
-Aniri Chan is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Teritorija, Riga on Fri, 11 Sept 2026.
+Aniri Chan is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 12 Sept 2026, next at Spilve Airport, Riga on Fri, 2 Oct 2026.
 
-Aniri Chan is a techno and house artist tracked on soundcheck, with 33 sets logged across Riga. Often billed alongside Existal, Ksenia Kamikaza and ANGEDONIYA. Next up: Teritorija, Riga on Fri 11 Sept.
+Aniri Chan is a techno and house artist tracked on soundcheck, with 33 sets logged across Riga. Often billed alongside Existal, Ksenia Kamikaza and ANGEDONIYA. Next up: Spilve Airport, Riga on Fri 2 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 11 Sept 2026 | Teritorija | Riga |
 | Fri, 2 Oct 2026 | Spilve Airport | Riga |
 
 ## Recently played

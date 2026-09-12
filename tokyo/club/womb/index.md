@@ -1,14 +1,13 @@
 # WOMB
 
-WOMB is a music venue in Tokyo with 18 upcoming nights listed on soundcheck as of Sat, 12 Sept 2026; the next is "METRO DANCE" on Fri, 11 Sept 2026.
+WOMB is a music venue in Tokyo with 17 upcoming nights listed on soundcheck as of Sat, 12 Sept 2026; the next is "EVERY" on Sat, 12 Sept 2026.
 
-WOMB is a music venue in Tokyo listed on soundcheck. 18 upcoming nights, with line-ups including 7e, Akie, ANDY DEDE and A Strange Wedding and 2 more. Browse upcoming dates, start times and who's playing. 2-16 Maruyamacho Shibuya, Tokyo 150-0044 Japan.
+WOMB is a music venue in Tokyo listed on soundcheck. 17 upcoming nights, with line-ups including 7e, Akie, A Strange Wedding and Ayantula and 2 more. Browse upcoming dates, start times and who's playing. 2-16 Maruyamacho Shibuya, Tokyo 150-0044 Japan.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 11 Sept 2026 | METRO DANCE | ANDY DEDE, B (379), CLESENT, COCOLY, Daitto, Jellyf!sh, SIMBAH |
 | Sat, 12 Sept 2026 | EVERY | Akie, CHIDA, KZA, Karuta, RYOKEI, YAMARCHY, YELLOWUHURU |
 | Wed, 16 Sept 2026 | RECOMBINATION | DJ AKi, KEiTA, SN_Yeah |
 | Thu, 17 Sept 2026 | RETURN | B (379), EIGHT, KUNPEI, Louis Shannon, Rickey Shannon |
@@ -18,6 +17,7 @@ WOMB is a music venue in Tokyo listed on soundcheck. 18 upcoming nights, with li
 | Thu, 24 Sept 2026 | PARADIGM × WTW |  |
 | Fri, 25 Sept 2026 | A.S.F (TECHNO/HOUSE) | KINO (UY), Karuta, P-YAN, RYOKEI, ildec |
 | Sat, 26 Sept 2026 | INTENTION (TECHNO/TRANCE) | Dani Savant, Drunken Kong, MISA, Mayuri, Shogo Ito, U:ICHI, WAKA XINXI, WATARU, Yamato |
+| Wed, 30 Sept 2026 | WTW (TECHNO) | DJ Sodeyama, Maemm, Shinsuke Goto |
 
 ## Address
 

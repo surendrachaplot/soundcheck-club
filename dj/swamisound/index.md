@@ -1,14 +1,13 @@
 # Swami Sound
 
-Swami Sound is a Garage and House artist with 3 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Bossa Nova Civic Club, New York City on Fri, 11 Sept 2026.
+Swami Sound is a Garage and House artist with 2 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Kremwerk-Timbre Room-Cherry Complex, Seattle on Fri, 25 Sept 2026.
 
-Swami Sound is a garage and house artist tracked on soundcheck, with 103 sets logged across Austin, Boston, Chicago and Denver and 14 more. Often billed alongside gum.mp3, Dazegxd and AceMo. Next up: Bossa Nova Civic Club, Newyorkcity on Fri 11 Sept.
+Swami Sound is a garage and house artist tracked on soundcheck, with 103 sets logged across Austin, Boston, Chicago and Denver and 14 more. Often billed alongside gum.mp3, Dazegxd and AceMo. Next up: Kremwerk-Timbre Room-Cherry Complex, Seattle on Fri 25 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 11 Sept 2026 | Bossa Nova Civic Club | New York City |
 | Fri, 25 Sept 2026 | Kremwerk-Timbre Room-Cherry Complex | Seattle |
 | Sat, 10 Oct 2026 | Paragon | New York City |
 

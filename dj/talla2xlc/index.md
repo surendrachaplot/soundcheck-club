@@ -1,14 +1,15 @@
 # Talla 2XLC
 
-Talla 2XLC is a Trance and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 12 Sept 2026, next at The Queen Mary, Los Angeles on Fri, 20 Nov 2026.
+Talla 2XLC is a Trance and Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at The Queen Mary, Los Angeles on Fri, 20 Nov 2026.
 
-Talla 2XLC is a trance and techno artist based in Germany, tracked on soundcheck, with 22 sets logged across Amsterdam, Berlin, Frankfurt and Ibiza and 7 more. Often billed alongside Paul Van Dyk, Andreas Kraemer and Cat Vermillion. Next up: The Queen Mary, Losangeles on Fri 20 Nov.
+Talla 2XLC is a trance and techno artist based in Germany, tracked on soundcheck, with 23 sets logged across Amsterdam, Berlin, Frankfurt and Ibiza and 7 more. Often billed alongside Paul Van Dyk, Andreas Kraemer and Cat Vermillion. Next up: The Queen Mary, Losangeles on Fri 20 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 20 Nov 2026 | The Queen Mary | Los Angeles |
+| Fri, 11 Dec 2026 | Void Club | Berlin |
 
 ## Recently played
 

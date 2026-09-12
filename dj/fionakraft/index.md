@@ -1,6 +1,6 @@
 # Fiona Kraft
 
-Fiona Kraft is a House and Afro House artist with 3 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at TBA - Brussels, Brussels on Fri, 11 Sept 2026.
+Fiona Kraft is a House and Afro House artist with 2 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at TBA - Brussels, Brussels on Fri, 11 Sept 2026.
 
 Fiona Kraft is a house and afro house artist tracked on soundcheck, with 77 sets logged across Amsterdam, Antwerp, Athens and Bali and 23 more. Often billed alongside Black Coffee, Damian Lazarus and JAMIIE. Next up: TBA - Brussels, Brussels on Fri 11 Sept.
 
@@ -9,7 +9,6 @@ Fiona Kraft is a house and afro house artist tracked on soundcheck, with 77 sets
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 11 Sept 2026 | TBA - Brussels | Brussels |
-| Fri, 11 Sept 2026 | Cova Santa | Ibiza |
 | Fri, 18 Sept 2026 | Chinois Ibiza | Ibiza |
 
 ## Recently played

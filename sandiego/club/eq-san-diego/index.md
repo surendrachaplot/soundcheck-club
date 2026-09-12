@@ -1,14 +1,13 @@
 # EQ San Diego
 
-EQ San Diego is a music venue in San Diego with 12 upcoming nights listed on soundcheck as of Sat, 12 Sept 2026; the next is "LED presents Linska" on Fri, 11 Sept 2026.
+EQ San Diego is a music venue in San Diego with 11 upcoming nights listed on soundcheck as of Sat, 12 Sept 2026; the next is "REVERB x EVOLUTION" on Thu, 17 Sept 2026.
 
-EQ San Diego is a music venue in Sandiego listed on soundcheck. 12 upcoming nights, with line-ups including 1morning, Asphodèle, Byrd US and Chippy Nonstop and 2 more. Browse upcoming dates, start times and who's playing. 1271 University Ave San Diego, CA 92103.
+EQ San Diego is a music venue in Sandiego listed on soundcheck. 11 upcoming nights, with line-ups including 1morning, Asphodèle, Byrd US and Chippy Nonstop and 2 more. Browse upcoming dates, start times and who's playing. 1271 University Ave San Diego, CA 92103.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 11 Sept 2026 | LED presents Linska | Linska |
 | Thu, 17 Sept 2026 | REVERB x EVOLUTION | Damian Kuro, JAQ.XS, OHTHR333 |
 | Fri, 18 Sept 2026 | Chippy Nonstop | Byrd US, Chippy Nonstop, Michelle Mendez |
 | Fri, 18 Sept 2026 | FUERZA | JAQ.XS, JWOODY, Michelle Mendez, Miguel Pinedo, Tone-Z |
@@ -18,6 +17,7 @@ EQ San Diego is a music venue in Sandiego listed on soundcheck. 12 upcoming nigh
 | Thu, 1 Oct 2026 | The Techno Jungle |  |
 | Fri, 2 Oct 2026 | Punso Throws a Party | Codak, Punso, match.a.mor, snaxks |
 | Sat, 17 Oct 2026 | LED presents GorillaT with SVDKO |  |
+| Fri, 30 Oct 2026 | FNGRS CRSSD presents Christian Löffler | Christian Löffler |
 
 ## Address
 

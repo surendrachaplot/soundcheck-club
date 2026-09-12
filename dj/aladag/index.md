@@ -1,14 +1,13 @@
 # ALADAG
 
-ALADAG is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at MODULE, Copenhagen on Fri, 11 Sept 2026.
+ALADAG is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 12 Sept 2026, next at Escape, Amsterdam on Wed, 21 Oct 2026.
 
-ALADAG is a techno and house artist based in Germany, tracked on soundcheck, with 21 sets logged across Amsterdam, Berlin, Copenhagen and Hamburg and 3 more. Often billed alongside Baime, Yara Yard and Hedda Stenberg. Next up: MODULE, Copenhagen on Fri 11 Sept.
+ALADAG is a techno and house artist based in Germany, tracked on soundcheck, with 21 sets logged across Amsterdam, Berlin, Copenhagen and Hamburg and 3 more. Often billed alongside Baime, Yara Yard and Hedda Stenberg. Next up: Escape, Amsterdam on Wed 21 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 11 Sept 2026 | MODULE | Copenhagen |
 | Wed, 21 Oct 2026 | Escape | Amsterdam |
 
 ## Recently played

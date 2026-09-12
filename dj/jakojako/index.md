@@ -1,14 +1,13 @@
 # JakoJako
 
-JakoJako is a Techno and House artist with 10 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Nitsa Club, Barcelona on Fri, 11 Sept 2026.
+JakoJako is a Techno and House artist with 9 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Palais, London on Sat, 12 Sept 2026.
 
-JakoJako is a techno and house artist tracked on soundcheck, with 165 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 38 more. Often billed alongside Rødhåd, Barker and Fadi Mohem. Next up: Nitsa Club, Barcelona on Fri 11 Sept.
+JakoJako is a techno and house artist tracked on soundcheck, with 165 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 38 more. Often billed alongside Rødhåd, Barker and Fadi Mohem. Next up: Palais, London on Sat 12 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 11 Sept 2026 | Nitsa Club | Barcelona |
 | Sat, 12 Sept 2026 | Palais | London |
 | Sat, 19 Sept 2026 | Berghain / Panorama Bar / Säule | Berlin |
 | Sat, 3 Oct 2026 | Under Club | Buenos Aires |

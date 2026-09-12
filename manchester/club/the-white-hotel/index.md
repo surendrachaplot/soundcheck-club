@@ -1,14 +1,13 @@
 # The White Hotel
 
-The White Hotel is a music venue in Manchester with 39 upcoming nights listed on soundcheck as of Sat, 12 Sept 2026; the next is "Bakk Heia 10th Bday (Part 2) w/Jorg Kuning (Live), Schuttle, Bitzer & Herc" on Fri, 11 Sept 2026.
+The White Hotel is a music venue in Manchester with 38 upcoming nights listed on soundcheck as of Sat, 12 Sept 2026; the next is "Main Phase / Darwin / Zuri" on Sat, 12 Sept 2026.
 
-The White Hotel is a music venue in Manchester listed on soundcheck. 39 upcoming nights, with line-ups including Fastlove, ABADIR, Abena and Ana Roxanne and 2 more. Browse upcoming dates, start times and who's playing. Dickinson Street Salford M3 7LW, United Kingdom.
+The White Hotel is a music venue in Manchester listed on soundcheck. 38 upcoming nights, with line-ups including Fastlove, ABADIR, Abena and Ana Roxanne and 2 more. Browse upcoming dates, start times and who's playing. Dickinson Street Salford M3 7LW, United Kingdom.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 11 Sept 2026 | Bakk Heia 10th Bday (Part 2) w/Jorg Kuning (Live), Schuttle, Bitzer & Herc | Bitzer Maloney, Jorg Kuning, Schuttle |
 | Sat, 12 Sept 2026 | Main Phase / Darwin / Zuri | Darwin, Main Phase, Zuri |
 | Thu, 17 Sept 2026 | JK Flesh | JK Flesh |
 | Fri, 18 Sept 2026 | Pangaea / Bitter Babe / Henzo | Bitter Babe, Henzo, Pangaea |
@@ -18,6 +17,7 @@ The White Hotel is a music venue in Manchester listed on soundcheck. 39 upcoming
 | Fri, 25 Sept 2026 | KOMAoto: jackzebra | Kekeneko, Kop-Z, Unit YoRHa, roop |
 | Fri, 25 Sept 2026 | SVBKVLT: Slikback (live) / Ziur / ABADIR (live) / Mun Sing / Hyph11E / Swimful | ABADIR, Hyph11E, Mun Sing, Slikback, Swimful, Ziúr |
 | Sat, 26 Sept 2026 | Arpo 14: Call Super {14 ~ hours} | Call Super |
+| Wed, 30 Sept 2026 | Grey Lantern presents: Carla dal Forno / The Gabys / soundtracked by Comfortable On A Tightrope | Carla dal Forno |
 
 ## Address
 

@@ -1,14 +1,13 @@
 # Das Werk
 
-Das Werk is a music venue in Vienna with 6 upcoming nights listed on soundcheck as of Sat, 12 Sept 2026; the next is "HERZFREQUENZ: NIGHT" on Fri, 11 Sept 2026.
+Das Werk is a music venue in Vienna with 5 upcoming nights listed on soundcheck as of Sat, 12 Sept 2026; the next is "DYSTØPIA RAVE" on Sat, 12 Sept 2026.
 
-Das Werk is a music venue in Vienna listed on soundcheck. 6 upcoming nights, with line-ups including Albin Brezlan, carlo kalu, Crystal O and Dimitrios (2) and 2 more. Browse upcoming dates, start times and who's playing. Spittelauer Lände 12, Stadtbahnbogen 331, 1090 Vienna, Austria.
+Das Werk is a music venue in Vienna listed on soundcheck. 5 upcoming nights, with line-ups including Albin Brezlan, Crystal O, Dimitrios (2) and DJ FERRARI and 2 more. Browse upcoming dates, start times and who's playing. Spittelauer Lände 12, Stadtbahnbogen 331, 1090 Vienna, Austria.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 11 Sept 2026 | HERZFREQUENZ: NIGHT | Crystal O, DJ Wolle, DORAH, Joey (2), KILIÅN, Kat Ze, Kø:lab, SEKTOR69, WO.IZZY, YØNDER, carlo kalu, yohan.aif |
 | Sat, 12 Sept 2026 | DYSTØPIA RAVE |  |
 | Fri, 18 Sept 2026 | SYNERGY RAVE x Trance + Hard Techno - JOR *SPECIAL GUEST*  | DJ FERRARI, DJ Wolle, Dimitrios (2), L4NC3, presso |
 | Sat, 3 Oct 2026 | TECHNO OBSCENE #34 - NINE O NINE x LSH - Das Werk Wien | Albin Brezlan, Huebl, Joris Turenhout, justUS |

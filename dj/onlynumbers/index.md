@@ -1,14 +1,13 @@
 # Onlynumbers
 
-Onlynumbers is a Techno and Hardcore artist with 11 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Universe Athens, Athens on Fri, 11 Sept 2026.
+Onlynumbers is a Techno and Hardcore artist with 10 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at TBA - Grand Parc Miribel Jonage, Lyon on Sat, 12 Sept 2026.
 
-Onlynumbers is a techno and hardcore artist tracked on soundcheck, with 78 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 43 more. Often billed alongside NOVAH, Basswell and Holy Priest. Next up: Universe Athens, Athens on Fri 11 Sept.
+Onlynumbers is a techno and hardcore artist tracked on soundcheck, with 78 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 43 more. Often billed alongside NOVAH, Basswell and Holy Priest. Next up: TBA - Grand Parc Miribel Jonage, Lyon on Sat 12 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 11 Sept 2026 | Universe Athens | Athens |
 | Sat, 12 Sept 2026 | TBA - Grand Parc Miribel Jonage | Lyon |
 | Sat, 19 Sept 2026 | Arzenal | Budapest |
 | Fri, 2 Oct 2026 | Index | Dublin |

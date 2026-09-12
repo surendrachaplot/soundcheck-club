@@ -1,14 +1,13 @@
 # Baldo
 
-Baldo is a House and Acid artist with 2 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona, Barcelona on Fri, 11 Sept 2026.
+Baldo is a House and Acid artist with 1 upcoming club date listed on soundcheck as of Sat, 12 Sept 2026, next at Les Enfants Brillants, Barcelona on Sun, 11 Oct 2026.
 
-Baldo is a house and acid artist tracked on soundcheck, with 81 sets logged across Bali, Bangkok, Barcelona and Belgrade and 19 more. Often billed alongside Benjamin Fröhlich, Carlo and DJ Gamba. Next up: TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona, Barcelona on Fri 11 Sept.
+Baldo is a house and acid artist tracked on soundcheck, with 81 sets logged across Bali, Bangkok, Barcelona and Belgrade and 19 more. Often billed alongside Benjamin Fröhlich, Carlo and DJ Gamba. Next up: Les Enfants Brillants, Barcelona on Sun 11 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 11 Sept 2026 | TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona | Barcelona |
 | Sun, 11 Oct 2026 | Les Enfants Brillants | Barcelona |
 
 ## Recently played

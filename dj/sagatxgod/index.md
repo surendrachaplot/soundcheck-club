@@ -1,14 +1,13 @@
 # Sagatxgod
 
-Sagatxgod is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Laska V21, Riga on Fri, 11 Sept 2026.
+Sagatxgod is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 12 Sept 2026, next at H2o6, Riga on Fri, 30 Oct 2026.
 
-Sagatxgod is a techno and house artist based in Latvia, tracked on soundcheck, with 24 sets logged across Riga. Often billed alongside A$PHYXXXÏA, Existal and Herren Ivo. Next up: Laska V21, Riga on Fri 11 Sept.
+Sagatxgod is a techno and house artist based in Latvia, tracked on soundcheck, with 24 sets logged across Riga. Often billed alongside A$PHYXXXÏA, Existal and Herren Ivo. Next up: H2o6, Riga on Fri 30 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 11 Sept 2026 | Laska V21 | Riga |
 | Fri, 30 Oct 2026 | H2o6 | Riga |
 
 ## Recently played

@@ -1,14 +1,13 @@
 # Coda
 
-Coda is a music venue in Toronto with 17 upcoming nights listed on soundcheck as of Sat, 12 Sept 2026; the next is "Julian Fijma" on Fri, 11 Sept 2026.
+Coda is a music venue in Toronto with 16 upcoming nights listed on soundcheck as of Sat, 12 Sept 2026; the next is "Locals Only" on Sat, 12 Sept 2026.
 
-Coda is a music venue in Toronto listed on soundcheck. 17 upcoming nights, with line-ups including AC Slater, A Little Sound, Because of Art and Biscits and 2 more. Browse upcoming dates, start times and who's playing. 794 Bathurst St.
+Coda is a music venue in Toronto listed on soundcheck. 16 upcoming nights, with line-ups including AC Slater, A Little Sound, Because of Art and Biscits and 2 more. Browse upcoming dates, start times and who's playing. 794 Bathurst St.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 11 Sept 2026 | Julian Fijma | Julian Fijma |
 | Sat, 12 Sept 2026 | Locals Only |  |
 | Fri, 18 Sept 2026 | Linska | Linska |
 | Sat, 19 Sept 2026 | AC Slater | AC Slater |
@@ -18,6 +17,7 @@ Coda is a music venue in Toronto listed on soundcheck. 17 upcoming nights, with 
 | Thu, 1 Oct 2026 | Cult Member | Cult Member |
 | Fri, 2 Oct 2026 | DEAN TURNLEY |  |
 | Sat, 3 Oct 2026 | Jay de Lys | Jay de Lys |
+| Fri, 9 Oct 2026 | A Little Sound | A Little Sound |
 
 ## Address
 

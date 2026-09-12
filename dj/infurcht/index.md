@@ -1,14 +1,13 @@
 # In Furcht
 
-In Furcht is a Techno and Trance artist with 4 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Hall, Tallinn on Fri, 11 Sept 2026.
+In Furcht is a Techno and Trance artist with 3 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Artheater, Cologne on Sat, 19 Sept 2026.
 
-In Furcht is a techno and trance artist based in Germany, tracked on soundcheck, with 43 sets logged across Amsterdam, Berlin, Cologne and Dusseldorf and 13 more. Often billed alongside Neon Graveyard, Kander and 7CIRCLE. Next up: Hall, Tallinn on Fri 11 Sept.
+In Furcht is a techno and trance artist based in Germany, tracked on soundcheck, with 43 sets logged across Amsterdam, Berlin, Cologne and Dusseldorf and 13 more. Often billed alongside Neon Graveyard, Kander and 7CIRCLE. Next up: Artheater, Cologne on Sat 19 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 11 Sept 2026 | Hall | Tallinn |
 | Sat, 19 Sept 2026 | Artheater | Cologne |
 | Fri, 2 Oct 2026 | Airport Würzburg | Nürnberg |
 | Fri, 30 Oct 2026 | Sky Club | Leipzig |

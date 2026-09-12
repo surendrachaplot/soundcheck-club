@@ -1,14 +1,13 @@
 # Guy Williams
 
-Guy Williams is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at renae, Manchester on Fri, 11 Sept 2026.
+Guy Williams is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Sat, 12 Sept 2026, next at Depot Mayfield, Manchester on Sat, 26 Sept 2026.
 
-Guy Williams is a house and disco artist tracked on soundcheck, with 67 sets logged across Barcelona, Ibiza, London and Manchester and 2 more. Often billed alongside Jo Mills, S/A/M and DJ Paulette. Next up: renae, Manchester on Fri 11 Sept.
+Guy Williams is a house and disco artist tracked on soundcheck, with 67 sets logged across Barcelona, Ibiza, London and Manchester and 2 more. Often billed alongside Jo Mills, S/A/M and DJ Paulette. Next up: Depot Mayfield, Manchester on Sat 26 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 11 Sept 2026 | renae | Manchester |
 | Sat, 26 Sept 2026 | Depot Mayfield | Manchester |
 
 ## Recently played

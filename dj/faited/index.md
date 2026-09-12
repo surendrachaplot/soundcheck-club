@@ -1,6 +1,6 @@
 # Faited
 
-Faited is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Renate, Berlin on Fri, 11 Sept 2026.
+Faited is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Renate, Berlin on Fri, 11 Sept 2026.
 
 Faited is a techno and house artist tracked on soundcheck, with 30 sets logged across Amsterdam, Berlin, Boston and Chicago and 6 more. Often billed alongside Octo Octa, 1morning and Eris Drew. Next up: Renate, Berlin on Fri 11 Sept.
 
@@ -9,7 +9,6 @@ Faited is a techno and house artist tracked on soundcheck, with 30 sets logged a
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 11 Sept 2026 | Renate | Berlin |
-| Fri, 11 Sept 2026 | Doka | Amsterdam |
 | Thu, 8 Oct 2026 | Nowadays | New York City |
 | Fri, 9 Oct 2026 | TRANSMISSION DC | Washington DC |
 

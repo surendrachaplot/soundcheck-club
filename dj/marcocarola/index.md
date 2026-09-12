@@ -1,14 +1,13 @@
 # Marco Carola
 
-Marco Carola is a Tech House and Techno artist with 14 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Pacha Ibiza, Ibiza on Fri, 11 Sept 2026.
+Marco Carola is a Tech House and Techno artist with 13 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Universidad Autónoma de Madrid (UAM), Madrid on Sat, 12 Sept 2026.
 
-Marco Carola is a tech house and techno artist tracked on soundcheck, with 296 sets logged across Amsterdam, Athens, Bali and Barcelona and 35 more. Often billed alongside Franky Rizardo, Ale De Tuglie and Dennis Cruz. Next up: Pacha Ibiza, Ibiza on Fri 11 Sept.
+Marco Carola is a tech house and techno artist tracked on soundcheck, with 296 sets logged across Amsterdam, Athens, Bali and Barcelona and 35 more. Often billed alongside Franky Rizardo, Ale De Tuglie and Dennis Cruz. Next up: Universidad Autónoma de Madrid (UAM), Madrid on Sat 12 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 11 Sept 2026 | Pacha Ibiza | Ibiza |
 | Sat, 12 Sept 2026 | Universidad Autónoma de Madrid (UAM) | Madrid |
 | Tue, 15 Sept 2026 | Hï Ibiza | Ibiza |
 | Fri, 18 Sept 2026 | Pacha Ibiza | Ibiza |
@@ -20,6 +19,7 @@ Marco Carola is a tech house and techno artist tracked on soundcheck, with 296 s
 | Fri, 9 Oct 2026 | Pacha Ibiza | Ibiza |
 | Fri, 16 Oct 2026 | Mana Wynwood | Miami |
 | Fri, 30 Oct 2026 | Theata | London |
+| Sat, 7 Nov 2026 | Vale do Anhangabaú | Sao Paulo |
 
 ## Recently played
 

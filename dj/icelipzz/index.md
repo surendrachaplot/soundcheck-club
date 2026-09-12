@@ -1,14 +1,13 @@
 # IceLipzz
 
-IceLipzz is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Lokschuppen Berlin, Berlin on Fri, 11 Sept 2026.
+IceLipzz is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Sat, 12 Sept 2026, next at Depot Mayfield, Manchester on Sat, 28 Nov 2026.
 
-IceLipzz is a techno and trance artist based in Germany, tracked on soundcheck, with 16 sets logged across Berlin, Hamburg, Manchester and Munich and 2 more. Often billed alongside LØUS, FLUCC and Osiris (2). Next up: Lokschuppen Berlin, Berlin on Fri 11 Sept.
+IceLipzz is a techno and trance artist based in Germany, tracked on soundcheck, with 16 sets logged across Berlin, Hamburg, Manchester and Munich and 2 more. Often billed alongside LØUS, FLUCC and Osiris (2). Next up: Depot Mayfield, Manchester on Sat 28 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 11 Sept 2026 | Lokschuppen Berlin | Berlin |
 | Sat, 28 Nov 2026 | Depot Mayfield | Manchester |
 
 ## Recently played

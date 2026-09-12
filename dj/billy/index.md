@@ -1,14 +1,13 @@
 # BILLY
 
-BILLY is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Crack Bellmer, Berlin on Fri, 11 Sept 2026.
+BILLY is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Sat, 12 Sept 2026, next at Kavka Oudaan, Antwerp on Sat, 3 Oct 2026.
 
-BILLY is a techno and trance artist based in Peru, tracked on soundcheck, with 23 sets logged across Antwerp, Barcelona, Berlin and Brussels and 4 more. Often billed alongside Mario Ignacio, Skeletor Yogi and BISOUX. Next up: Crack Bellmer, Berlin on Fri 11 Sept.
+BILLY is a techno and trance artist based in Peru, tracked on soundcheck, with 23 sets logged across Antwerp, Barcelona, Berlin and Brussels and 4 more. Often billed alongside Mario Ignacio, Skeletor Yogi and BISOUX. Next up: Kavka Oudaan, Antwerp on Sat 3 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 11 Sept 2026 | Crack Bellmer | Berlin |
 | Sat, 3 Oct 2026 | Kavka Oudaan | Antwerp |
 
 ## Recently played

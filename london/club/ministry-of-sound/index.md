@@ -1,14 +1,13 @@
 # Ministry Of Sound
 
-Ministry Of Sound is a music venue in London with 28 upcoming nights listed on soundcheck as of Sat, 12 Sept 2026; the next is "BLINK: DJEFF, BREYTH, HVMZA + MORE" on Fri, 11 Sept 2026.
+Ministry Of Sound is a music venue in London with 27 upcoming nights listed on soundcheck as of Sat, 12 Sept 2026; the next is "Audiowhore" on Sat, 12 Sept 2026.
 
-Ministry Of Sound is a music venue in London listed on soundcheck. 28 upcoming nights, with line-ups including Alastair Lane, Alex Mills, AMO and Amtrac and 2 more. Browse upcoming dates, start times and who's playing. 103 Gaunt St, London SE1 6DP.
+Ministry Of Sound is a music venue in London listed on soundcheck. 27 upcoming nights, with line-ups including Alastair Lane, Alex Mills, AMO and Amtrac and 2 more. Browse upcoming dates, start times and who's playing. 103 Gaunt St, London SE1 6DP.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 11 Sept 2026 | BLINK: DJEFF, BREYTH, HVMZA + MORE | DJEFF |
 | Sat, 12 Sept 2026 | Audiowhore | Alex Mills, B2B The Movement, Brian Smith, CHLO (UK), Carnao Beats, Colin Francis, JAYDAA, Shenin Amara, Steven Cee |
 | Sun, 13 Sept 2026 | The Freshers Moving In House Party |  |
 | Tue, 15 Sept 2026 | Ministry Of Sound, Milkshake - Official London Freshers Launch 2026 |  |
@@ -18,6 +17,7 @@ Ministry Of Sound is a music venue in London listed on soundcheck. 28 upcoming n
 | Tue, 22 Sept 2026 | Ministry Of Sound, Milkshake - Official London Freshers Launch PART 2 |  |
 | Thu, 24 Sept 2026 | Take Off UK presents: VIKKSTAR & SPECIAL GUESTS! The Freshers Rave |  |
 | Fri, 25 Sept 2026 | BLINK: Stylo, P.O.U, JJOY, SOOFNIC, TERRY GOLDEN | P.O.U, Stylo |
+| Sat, 26 Sept 2026 | BRESH |  |
 
 ## Address
 

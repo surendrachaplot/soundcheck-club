@@ -1,14 +1,13 @@
 # KOKO
 
-KOKO is a music venue in London with 18 upcoming nights listed on soundcheck as of Sat, 12 Sept 2026; the next is "KOKO Electronic: Gordo" on Fri, 11 Sept 2026.
+KOKO is a music venue in London with 17 upcoming nights listed on soundcheck as of Sat, 12 Sept 2026; the next is "KOKO Electronic: Fideles" on Sat, 12 Sept 2026.
 
-KOKO is a music venue in London listed on soundcheck. 18 upcoming nights, with line-ups including Yulia Niko, Alan Dixon, ARODES and Benji B and 2 more. Browse upcoming dates, start times and who's playing. 1a Camden High Street; Camden Town; London NW1 7JE; United Kingdom.
+KOKO is a music venue in London listed on soundcheck. 17 upcoming nights, with line-ups including Yulia Niko, Alan Dixon, ARODES and Benji B and 2 more. Browse upcoming dates, start times and who's playing. 1a Camden High Street; Camden Town; London NW1 7JE; United Kingdom.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 11 Sept 2026 | KOKO Electronic: Gordo | Gordo, Saachi, Wakyin |
 | Sat, 12 Sept 2026 | KOKO Electronic: Fideles | Alan Dixon, Fideles, Niiomi |
 | Fri, 18 Sept 2026 | KOKO Electronic: Franky Rizardo [SOLD OUT] | Franky Rizardo |
 | Sat, 19 Sept 2026 | KOKO Electronic: Rivo | LUCH (MEX), Rivo, Yulia Niko |
@@ -18,6 +17,7 @@ KOKO is a music venue in London listed on soundcheck. 18 upcoming nights, with l
 | Fri, 2 Oct 2026 | KOKO Electronic: Green Velvet | Green Velvet |
 | Sat, 3 Oct 2026 | KOKO Electronic: Oscar Mbo |  |
 | Fri, 9 Oct 2026 | KOKO Electronic: Swimming Paul | Swimming Paul |
+| Sat, 10 Oct 2026 | UKG Brunch 'Returns To KOKO' - ALL DAY RAVE |  |
 
 ## Address
 

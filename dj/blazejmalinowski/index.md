@@ -1,14 +1,13 @@
 # Blazej Malinowski
 
-Blazej Malinowski is a Techno and Ambient artist with 3 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Jasna 1, Warsaw on Fri, 11 Sept 2026.
+Blazej Malinowski is a Techno and Ambient artist with 2 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Jasna 1, Warsaw on Fri, 25 Sept 2026.
 
-Blazej Malinowski is a techno and ambient artist based in Poland, tracked on soundcheck, with 71 sets logged across Amsterdam, Barcelona, Berlin and Budapest and 16 more. Often billed alongside dtekk, Kovvalsky and Aetha. Next up: Jasna 1, Warsaw on Fri 11 Sept.
+Blazej Malinowski is a techno and ambient artist based in Poland, tracked on soundcheck, with 71 sets logged across Amsterdam, Barcelona, Berlin and Budapest and 16 more. Often billed alongside dtekk, Kovvalsky and Aetha. Next up: Jasna 1, Warsaw on Fri 25 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 11 Sept 2026 | Jasna 1 | Warsaw |
 | Fri, 25 Sept 2026 | Jasna 1 | Warsaw |
 | Sun, 25 Oct 2026 | TBA - Los Angeles | Los Angeles |
 

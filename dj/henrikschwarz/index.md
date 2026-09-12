@@ -1,14 +1,13 @@
 # Henrik Schwarz
 
-Henrik Schwarz is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Cova Santa, Ibiza on Fri, 11 Sept 2026.
+Henrik Schwarz is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at SAGE, Berlin on Sat, 12 Sept 2026.
 
-Henrik Schwarz is a house and techno artist tracked on soundcheck, with 109 sets logged across Amsterdam, Bali, Barcelona and Berlin and 28 more. Often billed alongside Âme, Mano Le Tough and Black Coffee. Next up: Cova Santa, Ibiza on Fri 11 Sept.
+Henrik Schwarz is a house and techno artist tracked on soundcheck, with 109 sets logged across Amsterdam, Bali, Barcelona and Berlin and 28 more. Often billed alongside Âme, Mano Le Tough and Black Coffee. Next up: SAGE, Berlin on Sat 12 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 11 Sept 2026 | Cova Santa | Ibiza |
 | Sat, 12 Sept 2026 | SAGE | Berlin |
 | Sat, 19 Sept 2026 | Savaya Bali | Bali |
 | Fri, 9 Oct 2026 | Cabaret Sauvage | Paris |

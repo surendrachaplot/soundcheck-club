@@ -1,14 +1,13 @@
 # Live Haus
 
-Live Haus is a music venue in Tokyo with 8 upcoming nights listed on soundcheck as of Sat, 12 Sept 2026; the next is "2riend club tour" on Fri, 11 Sept 2026.
+Live Haus is a music venue in Tokyo with 7 upcoming nights listed on soundcheck as of Sat, 12 Sept 2026; the next is "Global pops party『Die a little bit』" on Sat, 12 Sept 2026.
 
-Live Haus is a music venue in Tokyo listed on soundcheck. 8 upcoming nights, with line-ups including 1TA (1), 7e, EIJI and eijin and 2 more. Browse upcoming dates, start times and who's playing. 2-14-2 Kitazawa, Setagaya-ku, Tokyo, 155-0031 Japan.
+Live Haus is a music venue in Tokyo listed on soundcheck. 7 upcoming nights, with line-ups including 1TA (1), 7e, EIJI and eijin and 2 more. Browse upcoming dates, start times and who's playing. 2-14-2 Kitazawa, Setagaya-ku, Tokyo, 155-0031 Japan.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 11 Sept 2026 | 2riend club tour | RANNA, illequal, meweta, ohichaaan, 坂田律子 |
 | Sat, 12 Sept 2026 | Global pops party『Die a little bit』 | TAISHI IWAMI |
 | Sat, 12 Sept 2026 | Patriotictraitors |  |
 | Sun, 13 Sept 2026 | monsoon |  |

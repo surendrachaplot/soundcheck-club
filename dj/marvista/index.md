@@ -1,14 +1,13 @@
 # MAR VISTA
 
-MAR VISTA is a Garage and House artist with 4 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at J.J. Mahoney's Bar, Seoul on Fri, 11 Sept 2026.
+MAR VISTA is a Garage and House artist with 3 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Soap Seoul., Seoul on Fri, 18 Sept 2026.
 
-MAR VISTA is a garage and house artist tracked on soundcheck, with 30 sets logged across Adelaide, Bali, Berlin and Bristol and 5 more. Often billed alongside Coziest, PanVesy and h4rdy. Next up: J.J. Mahoney's Bar, Seoul on Fri 11 Sept.
+MAR VISTA is a garage and house artist tracked on soundcheck, with 30 sets logged across Adelaide, Bali, Berlin and Bristol and 5 more. Often billed alongside Coziest, PanVesy and h4rdy. Next up: Soap Seoul., Seoul on Fri 18 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 11 Sept 2026 | J.J. Mahoney's Bar | Seoul |
 | Fri, 18 Sept 2026 | Soap Seoul. | Seoul |
 | Tue, 22 Sept 2026 | Odaiba | Tokyo |
 | Fri, 25 Sept 2026 | Cakeshop | Seoul |

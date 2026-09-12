@@ -1,14 +1,13 @@
 # Mike Esse
 
-Mike Esse is a Techno artist with 3 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Astoria, Turin on Fri, 11 Sept 2026.
+Mike Esse is a Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Astoria, Turin on Fri, 2 Oct 2026.
 
-Mike Esse is a techno artist based in Italy, tracked on soundcheck, with 17 sets logged across Turin. Often billed alongside Teeo, Rytm and Aberra. Next up: Astoria, Turin on Fri 11 Sept.
+Mike Esse is a techno artist based in Italy, tracked on soundcheck, with 17 sets logged across Turin. Often billed alongside Teeo, Rytm and Aberra. Next up: Astoria, Turin on Fri 2 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 11 Sept 2026 | Astoria | Turin |
 | Fri, 2 Oct 2026 | Astoria | Turin |
 | Sun, 18 Oct 2026 | Q35 WAREHOUSE | Turin |
 

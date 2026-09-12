@@ -1,14 +1,13 @@
 # Soraere Brocken
 
-Soraere Brocken is a Techno and Electro artist with 2 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Faust, Seoul on Fri, 11 Sept 2026.
+Soraere Brocken is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Sat, 12 Sept 2026, next at Inspire Entertainment Resort, Seoul on Sat, 3 Oct 2026.
 
-Soraere Brocken is a techno and electro artist based in South Korea, tracked on soundcheck, with 83 sets logged across Osaka, Seoul and Tokyo. Often billed alongside Kuro, Honn and Minehero. Next up: Faust, Seoul on Fri 11 Sept.
+Soraere Brocken is a techno and electro artist based in South Korea, tracked on soundcheck, with 83 sets logged across Osaka, Seoul and Tokyo. Often billed alongside Kuro, Honn and Minehero. Next up: Inspire Entertainment Resort, Seoul on Sat 3 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 11 Sept 2026 | Faust | Seoul |
 | Sat, 3 Oct 2026 | Inspire Entertainment Resort | Seoul |
 
 ## Recently played

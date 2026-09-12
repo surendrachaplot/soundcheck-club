@@ -1,14 +1,13 @@
 # 3LEEZA
 
-3LEEZA is a Trance and Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Fundbureau, Hamburg on Fri, 11 Sept 2026.
+3LEEZA is a Trance and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 12 Sept 2026, next at Hotel El Bruc, Barcelona on Sat, 19 Sept 2026.
 
-3LEEZA is a trance and techno artist tracked on soundcheck, with 51 sets logged across Amsterdam, Barcelona, Berlin and Brussels and 8 more. Often billed alongside Alex Friday, Niotech and HANÀ. Next up: Fundbureau, Hamburg on Fri 11 Sept.
+3LEEZA is a trance and techno artist tracked on soundcheck, with 51 sets logged across Amsterdam, Barcelona, Berlin and Brussels and 8 more. Often billed alongside Alex Friday, Niotech and HANÀ. Next up: Hotel El Bruc, Barcelona on Sat 19 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 11 Sept 2026 | Fundbureau | Hamburg |
 | Sat, 19 Sept 2026 | Hotel El Bruc | Barcelona |
 
 ## Recently played

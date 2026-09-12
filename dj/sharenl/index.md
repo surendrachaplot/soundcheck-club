@@ -1,14 +1,13 @@
 # SHARE (NL)
 
-SHARE (NL) is a House and Deep House artist with 5 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Do Not Sit On The Furniture, Miami on Fri, 11 Sept 2026.
+SHARE (NL) is a House and Deep House artist with 4 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Bridge 48, Barcelona on Sat, 12 Sept 2026.
 
-SHARE (NL) is a house and deep house artist based in Netherlands, tracked on soundcheck, with 39 sets logged across Amsterdam, Barcelona, Basel and Berlin and 11 more. Often billed alongside BOHEM, KAHMEYA and Mira. Next up: Do Not Sit On The Furniture, Miami on Fri 11 Sept.
+SHARE (NL) is a house and deep house artist based in Netherlands, tracked on soundcheck, with 39 sets logged across Amsterdam, Barcelona, Basel and Berlin and 11 more. Often billed alongside BOHEM, KAHMEYA and Mira. Next up: Bridge 48, Barcelona on Sat 12 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 11 Sept 2026 | Do Not Sit On The Furniture | Miami |
 | Sat, 12 Sept 2026 | Bridge 48 | Barcelona |
 | Sun, 13 Sept 2026 | Flash | Washington DC |
 | Fri, 25 Sept 2026 | KOKO | London |

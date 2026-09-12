@@ -1,14 +1,13 @@
 # Ezy
 
-Ezy is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Den Anden Side, Copenhagen on Fri, 11 Sept 2026.
+Ezy is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Sat, 12 Sept 2026, next at DRUMSHEDS, London on Sat, 12 Sept 2026.
 
-Ezy is a techno and trance artist based in Denmark, tracked on soundcheck, with 54 sets logged across Amsterdam, Athens, Barcelona and Berlin and 12 more. Often billed alongside Peachlyfe, DJ Nah Care and Sugar. Next up: Den Anden Side, Copenhagen on Fri 11 Sept.
+Ezy is a techno and trance artist based in Denmark, tracked on soundcheck, with 54 sets logged across Amsterdam, Athens, Barcelona and Berlin and 12 more. Often billed alongside Peachlyfe, DJ Nah Care and Sugar. Next up: DRUMSHEDS, London on Sat 12 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 11 Sept 2026 | Den Anden Side | Copenhagen |
 | Sat, 12 Sept 2026 | DRUMSHEDS | London |
 
 ## Recently played

@@ -1,14 +1,13 @@
 # TRANSMISSION DC
 
-TRANSMISSION DC is a music venue in Washington DC with 18 upcoming nights listed on soundcheck as of Sat, 12 Sept 2026; the next is "Boycott Room DC: FUNDRAVER" on Fri, 11 Sept 2026.
+TRANSMISSION DC is a music venue in Washington DC with 17 upcoming nights listed on soundcheck as of Sat, 12 Sept 2026; the next is "Black Box pres. Clarisa Kimskii" on Sat, 12 Sept 2026.
 
-TRANSMISSION DC is a music venue in Washingtondc listed on soundcheck. 18 upcoming nights, with line-ups including 1tbsp, Artemis.105, Babypufff and Bastet (US) and 2 more. Browse upcoming dates, start times and who's playing. 1353 H st NE, Washington, DC, 20002.
+TRANSMISSION DC is a music venue in Washingtondc listed on soundcheck. 17 upcoming nights, with line-ups including 1tbsp, Artemis.105, Babypufff and Bastet (US) and 2 more. Browse upcoming dates, start times and who's playing. 1353 H st NE, Washington, DC, 20002.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 11 Sept 2026 | Boycott Room DC: FUNDRAVER | BENLOGIK, DJ AstroNat, DJ Pearl, Nova North, Pedro Night, Pharaoh, Pogsta, THABLACKGOD |
 | Sat, 12 Sept 2026 | Black Box pres. Clarisa Kimskii | Artemis.105, Bastet (US), Clarisa Kimskii, Djoser, Jackson Ryland, Jett, Juana, Tsurugi |
 | Sat, 12 Sept 2026 | Boycott Room DC: Daytime Market & Film Festival |  |
 | Thu, 17 Sept 2026 | Substrate Pres. Binh, RHR, Sixx4Sixx | Binh |
@@ -18,6 +17,7 @@ TRANSMISSION DC is a music venue in Washingtondc listed on soundcheck. 18 upcomi
 | Sat, 19 Sept 2026 | Alphabet Soup x Transmission: NY(D)C | Diyanna Monet, Juno (NY), Sterling Juan Diaz, THABLACKGOD |
 | Fri, 25 Sept 2026 | 6speed Ft. Miley Serious & Pura Pura | EQUISS, Miley Serious, Pura Pura, Vivian Oblivion |
 | Fri, 25 Sept 2026 | TRANSMISSION pres: gyrofield x Carrier | Carrier, gyrofield |
+| Sat, 26 Sept 2026 | Rumba Queer: Vamo Pa' La Calle |  |
 
 ## Address
 

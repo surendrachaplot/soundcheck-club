@@ -1,14 +1,13 @@
 # Roman Flügel
 
-Roman Flügel is a Techno and House artist with 12 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Hï Ibiza, Ibiza on Fri, 11 Sept 2026.
+Roman Flügel is a Techno and House artist with 11 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at FOUND, Berlin on Fri, 25 Sept 2026.
 
-Roman Flügel is a techno and house artist tracked on soundcheck, with 207 sets logged across Amsterdam, Antwerp, Athens and Austin and 64 more. Often billed alongside Gerd Janson, Sven Vath and Ivan Smagghe. Next up: Hï Ibiza, Ibiza on Fri 11 Sept.
+Roman Flügel is a techno and house artist tracked on soundcheck, with 207 sets logged across Amsterdam, Antwerp, Athens and Austin and 64 more. Often billed alongside Gerd Janson, Sven Vath and Ivan Smagghe. Next up: FOUND, Berlin on Fri 25 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 11 Sept 2026 | Hï Ibiza | Ibiza |
 | Fri, 25 Sept 2026 | FOUND | Berlin |
 | Fri, 2 Oct 2026 | FOLD | London |
 | Sat, 3 Oct 2026 | control | Bucharest |

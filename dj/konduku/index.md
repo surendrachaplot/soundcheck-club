@@ -10,7 +10,7 @@ Konduku is a techno and house artist tracked on soundcheck, with 172 sets logged
 | --- | --- | --- |
 | Thu, 10 Sept 2026 | Camp Kennybrook | New York City |
 | Fri, 18 Sept 2026 | Fort Mifflin | Philadelphia |
-| Fri, 18 Sept 2026 | TBA - San Francisco | San Francisco/Oakland |
+| Fri, 18 Sept 2026 | TBA - The Loom (2150 Livingston St, Oakland) | San Francisco/Oakland |
 | Fri, 18 Sept 2026 | Signal | New York City |
 | Thu, 24 Sept 2026 | TBA - Out ‘n’ About Treesort | Portland |
 | Sat, 26 Sept 2026 | TBA - DTLA | Los Angeles |

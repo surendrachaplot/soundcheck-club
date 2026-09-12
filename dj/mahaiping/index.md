@@ -1,14 +1,13 @@
 # Ma Haiping
 
-Ma Haiping is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at UNDERCITY, Seoul on Fri, 11 Sept 2026.
+Ma Haiping is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 12 Sept 2026, next at TBA - Secret Warehouse 2 Rooms, Hong Kong on Sat, 12 Sept 2026.
 
-Ma Haiping is a techno and house artist based in China, tracked on soundcheck, with 15 sets logged across Bangkok, Belgrade, Denver and Hongkong and 7 more. Often billed alongside NAXIN, AngeliKa and Antenes. Next up: UNDERCITY, Seoul on Fri 11 Sept.
+Ma Haiping is a techno and house artist based in China, tracked on soundcheck, with 15 sets logged across Bangkok, Belgrade, Denver and Hongkong and 7 more. Often billed alongside NAXIN, AngeliKa and Antenes. Next up: TBA - Secret Warehouse 2 Rooms, Hongkong on Sat 12 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 11 Sept 2026 | UNDERCITY | Seoul |
 | Sat, 12 Sept 2026 | TBA - Secret Warehouse 2 Rooms | Hong Kong |
 
 ## Recently played

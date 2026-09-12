@@ -1,14 +1,13 @@
 # SaltySis
 
-SaltySis is a Techno and Trance artist with 4 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Mia Mao, Paris on Fri, 11 Sept 2026.
+SaltySis is a Techno and Trance artist with 3 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Amerika, Buenos Aires on Sat, 26 Sept 2026.
 
-SaltySis is a techno and trance artist tracked on soundcheck, with 113 sets logged across Amsterdam, Belgrade, Berlin and Brisbane and 18 more. Often billed alongside A.N.I., Cara Elizabeth and Millie Forsberg. Next up: Mia Mao, Paris on Fri 11 Sept.
+SaltySis is a techno and trance artist tracked on soundcheck, with 113 sets logged across Amsterdam, Belgrade, Berlin and Brisbane and 18 more. Often billed alongside A.N.I., Cara Elizabeth and Millie Forsberg. Next up: Amerika, Buenosaires on Sat 26 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 11 Sept 2026 | Mia Mao | Paris |
 | Sat, 26 Sept 2026 | Amerika | Buenos Aires |
 | Fri, 16 Oct 2026 | OST | Berlin |
 | Fri, 23 Oct 2026 | Nxt Museum | Amsterdam |

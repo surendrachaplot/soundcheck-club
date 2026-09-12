@@ -1,14 +1,13 @@
 # Skryption
 
-Skryption is a Techno and Industrial artist with 3 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Circuit de Barcelona - Catalunya, Barcelona on Fri, 11 Sept 2026.
+Skryption is a Techno and Industrial artist with 2 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Nordstern, Basel on Fri, 16 Oct 2026.
 
-Skryption is a techno and industrial artist tracked on soundcheck, with 72 sets logged across Amsterdam, Barcelona, Basel and Berlin and 26 more. Often billed alongside Dexphase, Bárbara Lago and Luciid. Next up: Circuit de Barcelona - Catalunya, Barcelona on Fri 11 Sept.
+Skryption is a techno and industrial artist tracked on soundcheck, with 72 sets logged across Amsterdam, Barcelona, Basel and Berlin and 26 more. Often billed alongside Dexphase, Bárbara Lago and Luciid. Next up: Nordstern, Basel on Fri 16 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 11 Sept 2026 | Circuit de Barcelona - Catalunya | Barcelona |
 | Fri, 16 Oct 2026 | Nordstern | Basel |
 | Fri, 30 Oct 2026 | H2o6 | Riga |
 

@@ -1,14 +1,13 @@
 # Mayssa
 
-Mayssa is a Deep House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Yellow House, Amsterdam on Fri, 11 Sept 2026.
+Mayssa is a Deep House and Tech House artist with 1 upcoming club date listed on soundcheck as of Sat, 12 Sept 2026, next at fabric, London on Fri, 25 Sept 2026.
 
-Mayssa is a deep house and tech house artist tracked on soundcheck, with 21 sets logged across Amsterdam, Berlin, Ibiza and Lisbon and 3 more. Often billed alongside Ankhoï, Odrik and CAPTNNN'. Next up: Yellow House, Amsterdam on Fri 11 Sept.
+Mayssa is a deep house and tech house artist tracked on soundcheck, with 21 sets logged across Amsterdam, Berlin, Ibiza and Lisbon and 3 more. Often billed alongside Ankhoï, Odrik and CAPTNNN'. Next up: fabric, London on Fri 25 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 11 Sept 2026 | Yellow House | Amsterdam |
 | Fri, 25 Sept 2026 | fabric | London |
 
 ## Recently played

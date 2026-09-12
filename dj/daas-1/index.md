@@ -1,14 +1,13 @@
 # DAAS (1)
 
-DAAS (1) is a House and Deep House artist with 2 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Bohnengold, Berlin on Fri, 11 Sept 2026.
+DAAS (1) is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Sat, 12 Sept 2026, next at Crack Bellmer, Berlin on Sat, 12 Sept 2026.
 
-DAAS (1) is a house and deep house artist tracked on soundcheck, with 13 sets logged across Berlin. Often billed alongside MARIE.MOON, No Silver Bullet and Daya Pruna. Next up: Bohnengold, Berlin on Fri 11 Sept.
+DAAS (1) is a house and deep house artist tracked on soundcheck, with 13 sets logged across Berlin. Often billed alongside MARIE.MOON, No Silver Bullet and Daya Pruna. Next up: Crack Bellmer, Berlin on Sat 12 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 11 Sept 2026 | Bohnengold | Berlin |
 | Sat, 12 Sept 2026 | Crack Bellmer | Berlin |
 
 ## Recently played

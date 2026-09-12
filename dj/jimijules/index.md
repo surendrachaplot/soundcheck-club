@@ -1,6 +1,6 @@
 # Jimi Jules
 
-Jimi Jules is a House and Techno artist with 7 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at TBA - Brussels, Brussels on Fri, 11 Sept 2026.
+Jimi Jules is a House and Techno artist with 6 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at TBA - Brussels, Brussels on Fri, 11 Sept 2026.
 
 Jimi Jules is a house and techno artist tracked on soundcheck, with 192 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 43 more. Often billed alongside Dixon, Âme and Trikk. Next up: TBA - Brussels, Brussels on Fri 11 Sept.
 
@@ -9,7 +9,6 @@ Jimi Jules is a house and techno artist tracked on soundcheck, with 192 sets log
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 11 Sept 2026 | TBA - Brussels | Brussels |
-| Fri, 11 Sept 2026 | Lula Club | Madrid |
 | Fri, 18 Sept 2026 | Hï Ibiza | Ibiza |
 | Fri, 18 Sept 2026 | TBA - Aeródromo Vilar de Luz - LPVL, 4425 Folgosa, Portugal | Porto |
 | Fri, 23 Oct 2026 | Berghain / Panorama Bar / Säule | Berlin |

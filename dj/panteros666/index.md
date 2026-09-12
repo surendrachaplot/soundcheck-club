@@ -1,14 +1,13 @@
 # Panteros666
 
-Panteros666 is a Trance and Techno artist with 5 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at La Machine Du Moulin Rouge, Paris on Fri, 11 Sept 2026.
+Panteros666 is a Trance and Techno artist with 4 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Smolna, Warsaw on Fri, 18 Sept 2026.
 
-Panteros666 is a trance and techno artist tracked on soundcheck, with 93 sets logged across Amsterdam, Antwerp, Barcelona and Basel and 31 more. Often billed alongside Die Klar, Part Time Killer and TDJ. Next up: La Machine Du Moulin Rouge, Paris on Fri 11 Sept.
+Panteros666 is a trance and techno artist tracked on soundcheck, with 93 sets logged across Amsterdam, Antwerp, Barcelona and Basel and 31 more. Often billed alongside Die Klar, Part Time Killer and TDJ. Next up: Smolna, Warsaw on Fri 18 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 11 Sept 2026 | La Machine Du Moulin Rouge | Paris |
 | Fri, 18 Sept 2026 | Smolna | Warsaw |
 | Sat, 17 Oct 2026 | The Hifi Club | Leeds |
 | Fri, 23 Oct 2026 | Chicago Social Club | Amsterdam |

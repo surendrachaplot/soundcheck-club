@@ -1,14 +1,13 @@
 # Else
 
-Else is a music venue in Berlin with 8 upcoming nights listed on soundcheck as of Sat, 12 Sept 2026; the next is "BCCO" on Fri, 11 Sept 2026.
+Else is a music venue in Berlin with 7 upcoming nights listed on soundcheck as of Sat, 12 Sept 2026; the next is "Else x OPUS pres. Yanamaste (All Day Long)" on Sat, 12 Sept 2026.
 
-Else is a music venue in Berlin listed on soundcheck. 8 upcoming nights, with line-ups including Amanda Mussi, Antonym, Azzurro and BAUGRUPPE90 and 2 more. Browse upcoming dates, start times and who's playing. An den Treptowers 10, 12435 Berlin.
+Else is a music venue in Berlin listed on soundcheck. 7 upcoming nights, with line-ups including Amanda Mussi, Antonym, Azzurro and BAUGRUPPE90 and 2 more. Browse upcoming dates, start times and who's playing. An den Treptowers 10, 12435 Berlin.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 11 Sept 2026 | BCCO | DJ Cringey, DJ Hyperdrive, HiTMiLØW, Noise Mafia, PETERBLUE, TOXIMAMI |
 | Sat, 12 Sept 2026 | Else x OPUS pres. Yanamaste (All Day Long) | Amanda Mussi, Danté, Flug, Kim She, NASTYA NVRSLP, Sept, Yanamaste |
 | Sun, 13 Sept 2026 | Else: Open Air & Indoor |  |
 | Sun, 13 Sept 2026 | Sweet Nothing presents Pegassi All Day Long | Antonym, Azzurro, Caniche, GLIA, MAURER, Pegassi |

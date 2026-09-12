@@ -1,14 +1,13 @@
 # Izata
 
-Izata is a Club and Bass artist with 3 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at TBA, Sydney on Fri, 11 Sept 2026.
+Izata is a Club and Bass artist with 2 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at The Red Rattler, Sydney on Sat, 12 Sept 2026.
 
-Izata is a club and bass artist based in Australia, tracked on soundcheck, with 6 sets logged across Sydney. Often billed alongside Attu, 0800KIN and BASS SLVT. Next up: TBA, Sydney on Fri 11 Sept.
+Izata is a club and bass artist based in Australia, tracked on soundcheck, with 6 sets logged across Sydney. Often billed alongside Attu, 0800KIN and BASS SLVT. Next up: The Red Rattler, Sydney on Sat 12 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 11 Sept 2026 | TBA | Sydney |
 | Sat, 12 Sept 2026 | The Red Rattler | Sydney |
 | Fri, 18 Sept 2026 | The Red Rattler | Sydney |
 

@@ -1,14 +1,14 @@
 # Agonis
 
-Agonis is a Techno and Experimental artist with 4 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at TBA - San Francisco, San Francisco/Oakland on Fri, 18 Sept 2026.
+Agonis is a Techno and Experimental artist with 4 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at TBA - The Loom (2150 Livingston St, Oakland), San Francisco/Oakland on Fri, 18 Sept 2026.
 
-Agonis is a techno and experimental artist tracked on soundcheck, with 72 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 22 more. Often billed alongside Garçon, Timnah and Konduku. Next up: TBA - San Francisco, Sanfrancisco on Fri 18 Sept.
+Agonis is a techno and experimental artist tracked on soundcheck, with 72 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 22 more. Often billed alongside Garçon, Timnah and Konduku. Next up: TBA - The Loom (2150 Livingston St, Oakland), Sanfrancisco on Fri 18 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 18 Sept 2026 | TBA - San Francisco | San Francisco/Oakland |
+| Fri, 18 Sept 2026 | TBA - The Loom (2150 Livingston St, Oakland) | San Francisco/Oakland |
 | Sun, 27 Sept 2026 | TBA - NOTHING USUAL | Los Angeles |
 | Fri, 9 Oct 2026 | Signal | New York City |
 | Sat, 17 Oct 2026 | Nordstern | Basel |

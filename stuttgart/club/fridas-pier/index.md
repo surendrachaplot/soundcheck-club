@@ -1,14 +1,13 @@
 # Fridas Pier
 
-Fridas Pier is a music venue in Stuttgart with 17 upcoming nights listed on soundcheck as of Sat, 12 Sept 2026; the next is "PLUR day to night" on Fri, 11 Sept 2026.
+Fridas Pier is a music venue in Stuttgart with 16 upcoming nights listed on soundcheck as of Sat, 12 Sept 2026; the next is "PANOPTICUM HERBSTIVAL AFTERSHOW" on Sat, 12 Sept 2026.
 
-Fridas Pier is a music venue in Stuttgart listed on soundcheck. 17 upcoming nights, with line-ups including Alex Kassian, Andre Winter, Anna Reusch and Ann Clue and 2 more. Browse upcoming dates, start times and who's playing. Uferstraße 107, 70188 Stuttgart, Germany.
+Fridas Pier is a music venue in Stuttgart listed on soundcheck. 16 upcoming nights, with line-ups including Alex Kassian, Andre Winter, Anna Reusch and Ann Clue and 2 more. Browse upcoming dates, start times and who's playing. Uferstraße 107, 70188 Stuttgart, Germany.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 11 Sept 2026 | PLUR day to night | LARTEK, Lukas Meunier, Nicolas Binder, the Therapy |
 | Sat, 12 Sept 2026 | PANOPTICUM HERBSTIVAL AFTERSHOW | Felix Lindner, Roman Antonov, Sabura, Thilo Who, sayuara |
 | Fri, 18 Sept 2026 | ELECTRIC ANIMALS x Fridas Pier | Andre Winter, Mara Sander, Mosher, Oliver Huntemann, Randali, Tommahawk |
 | Sat, 19 Sept 2026 | sweat Summerclosing with Alex Kassian - Sibel - Special Interest - Edwin - Ferial - Miro | Alex Kassian, Edwin (DE), MIRO (DE), Sibel |
@@ -18,6 +17,7 @@ Fridas Pier is a music venue in Stuttgart listed on soundcheck. 17 upcoming nigh
 | Fri, 16 Oct 2026 | WYLDHEARTS | BabaBass3000, DjRundfunk, Nachtwasser, SUITSIDE |
 | Sat, 17 Oct 2026 | Ritter Butzke X Herz&Seele | Prismode, Solee, Solvane, Super Flu, Wanda Wild |
 | Sat, 17 Oct 2026 | in.between pres. The Hacker [daytime event 16:00-22:00] | Raphael Dincsoy, Sibel, The Hacker |
+| Fri, 23 Oct 2026 | Anna Reusch, Bjørnson | Anna Reusch, Bjørnson |
 
 ## Address
 

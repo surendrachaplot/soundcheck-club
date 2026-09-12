@@ -1,14 +1,13 @@
 # Teritorija
 
-Teritorija is a music venue in Riga with 14 upcoming nights listed on soundcheck as of Sat, 12 Sept 2026; the next is "Aniri Chan // VLAD PHANGAN" on Fri, 11 Sept 2026.
+Teritorija is a music venue in Riga with 13 upcoming nights listed on soundcheck as of Sat, 12 Sept 2026; the next is "Waxid // ARRISHA" on Sat, 12 Sept 2026.
 
-Teritorija is a music venue in Riga listed on soundcheck. 14 upcoming nights, with line-ups including Aniri Chan, ARRISHA, B2BBASS and DENOVA and 2 more. Browse upcoming dates, start times and who's playing. Krišjāņa Barona Street 136, Riga.
+Teritorija is a music venue in Riga listed on soundcheck. 13 upcoming nights, with line-ups including ARRISHA, B2BBASS, DENOVA and Dmitry Puffin and 2 more. Browse upcoming dates, start times and who's playing. Krišjāņa Barona Street 136, Riga.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 11 Sept 2026 | Aniri Chan // VLAD PHANGAN | Aniri Chan, VLAD PHANGAN |
 | Sat, 12 Sept 2026 | Waxid // ARRISHA | ARRISHA, LETRIX, Waxid |
 | Fri, 18 Sept 2026 | mOZ // Notwelcome | Notwelcome, mOZ (2) |
 | Sat, 19 Sept 2026 | VLAD PHANGAN | VLAD PHANGAN |
@@ -18,6 +17,7 @@ Teritorija is a music venue in Riga listed on soundcheck. 14 upcoming nights, wi
 | Sat, 26 Sept 2026 | Kat Kat Tat | Kat Kat Tat |
 | Fri, 9 Oct 2026 | COSMO RAVE: AROUND THE WORLD |  |
 | Fri, 16 Oct 2026 | Platz fur Tanz x Teritorija 10 Years Anniversary | Dmitry Puffin, Ksenia Kamikaza |
+| Sat, 31 Oct 2026 | BASS SLAUGHTER x TRT: HALLOWEEN NIGHTMARE |  |
 
 ## Address
 

@@ -1,6 +1,6 @@
 # Kolter
 
-Kolter is a House and Tech House artist with 5 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Palmerstown House Estate, Dublin on Fri, 11 Sept 2026.
+Kolter is a House and Tech House artist with 4 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Palmerstown House Estate, Dublin on Fri, 11 Sept 2026.
 
 Kolter is a house and tech house artist tracked on soundcheck, with 154 sets logged across Amsterdam, Bali, Barcelona and Basel and 40 more. Often billed alongside East End Dubs, Jamback and M-High. Next up: Palmerstown House Estate, Dublin on Fri 11 Sept.
 
@@ -9,7 +9,6 @@ Kolter is a house and tech house artist tracked on soundcheck, with 154 sets log
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 11 Sept 2026 | Palmerstown House Estate | Dublin |
-| Fri, 11 Sept 2026 | Index | Dublin |
 | Sun, 20 Sept 2026 | Amnesia Ibiza | Ibiza |
 | Sat, 26 Sept 2026 | The Cause | London |
 | Sat, 10 Oct 2026 | INPUT High Fidelity Dance Club | Barcelona |

@@ -2,7 +2,7 @@
 
 Tenzin is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Sat, 12 Sept 2026, next at NUMBER 90 LONDON, London on Fri, 9 Oct 2026.
 
-Tenzin is a house and minimal artist tracked on soundcheck, with 28 sets logged across Antwerp, Bristol, London and Montreal. Often billed alongside Ellzo, Lewis Woodham and Ize (1). Next up: NUMBER 90 LONDON, London on Fri 9 Oct.
+Tenzin is a house and minimal artist tracked on soundcheck, with 29 sets logged across Antwerp, Bristol, London and Montreal. Often billed alongside Ellzo, Lewis Woodham and Ize (1). Next up: NUMBER 90 LONDON, London on Fri 9 Oct.
 
 ## Upcoming shows
 
@@ -12,6 +12,7 @@ Tenzin is a house and minimal artist tracked on soundcheck, with 28 sets logged 
 
 ## Recently played
 
+- All My Friends, London — Thu, 10 Sept 2026
 - Blue Room, Montreal — Fri, 14 Aug 2026
 - Gallery, London — Fri, 17 Jul 2026
 - HWK, London — Fri, 26 Jun 2026
@@ -19,7 +20,6 @@ Tenzin is a house and minimal artist tracked on soundcheck, with 28 sets logged 
 - Colour Factory, London — Sat, 4 Apr 2026
 - Tola, London — Fri, 6 Mar 2026
 - Tola, London — Sat, 7 Feb 2026
-- HWK, London — Sun, 1 Feb 2026
 
 ## Shares bills with
 

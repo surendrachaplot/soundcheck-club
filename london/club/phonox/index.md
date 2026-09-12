@@ -1,6 +1,6 @@
 # Phonox
 
-Phonox is a music venue in London with 39 upcoming nights listed on soundcheck as of Sat, 12 Sept 2026; the next is "MssingNo, Zomby, amil raja + more" on Fri, 11 Sept 2026.
+Phonox is a music venue in London with 39 upcoming nights listed on soundcheck as of Sat, 12 Sept 2026; the next is "MRD, EARGASM GOD, Lobsta B" on Sat, 12 Sept 2026.
 
 Phonox is a music venue in London listed on soundcheck. 39 upcoming nights, with line-ups including Alan Fitzpatrick, Alba Heidari, A LOVE FROM OUTER SPACE and Amaliah and 2 more. Browse upcoming dates, start times and who's playing. 418 Brixton Road Brixton London SW9 7AY.
 
@@ -8,7 +8,6 @@ Phonox is a music venue in London listed on soundcheck. 39 upcoming nights, with
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 11 Sept 2026 | MssingNo, Zomby, amil raja + more | Luun, MssingNo, Zomby, amil raja, leahgte |
 | Sat, 12 Sept 2026 | MRD, EARGASM GOD, Lobsta B | EARGASM GOD, Lobsta B, MRD (NO) |
 | Sat, 12 Sept 2026 | Alan Fitzpatrick (All Day Long) | Alan Fitzpatrick |
 | Thu, 17 Sept 2026 | Insomnia London: Frazer Ray, Fliss Mayo & Housewife | Fliss Mayo, Frazer Ray, Housewife (UK), TBA |
@@ -18,6 +17,7 @@ Phonox is a music venue in London listed on soundcheck. 39 upcoming nights, with
 | Fri, 25 Sept 2026 | Signal: Dillinja, DRS, Benny L, Dogger, Peshay, Digital, Gaia | Dillinja |
 | Sat, 26 Sept 2026 | Phonox: Roi Perez, Amaliah | Amaliah, Roi Perez |
 | Thu, 1 Oct 2026 | Insomnia London | TBA |
+| Fri, 2 Oct 2026 | Anish Kumar, Baalti: 4 Fridays at Phonox (Opening Party) | Anish Kumar, Baalti |
 
 ## Address
 

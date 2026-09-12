@@ -1,14 +1,13 @@
 # The Bongo Club
 
-The Bongo Club is a music venue in Edinburgh with 24 upcoming nights listed on soundcheck as of Sat, 12 Sept 2026; the next is "Disorder presents: Anikonik (Kool FM / Nook) [JUNGLE AND DRUM & BASS]" on Fri, 11 Sept 2026.
+The Bongo Club is a music venue in Edinburgh with 23 upcoming nights listed on soundcheck as of Sat, 12 Sept 2026; the next is "Hobbes Music x Noetic Rhythm (Launch Party): David Jackson, Maya Hacker, Hobbes " on Sat, 12 Sept 2026.
 
-The Bongo Club is a music venue in Edinburgh listed on soundcheck. 24 upcoming nights, with line-ups including FLIPSIDE., YVI, Anikonik and Becca Egan and 2 more. Browse upcoming dates, start times and who's playing. 66 Cowgate; Edinburgh, EH1 1JX;  Scotland; United Kingdom.
+The Bongo Club is a music venue in Edinburgh listed on soundcheck. 23 upcoming nights, with line-ups including FLIPSIDE., YVI, Becca Egan and Bryan Gee and 2 more. Browse upcoming dates, start times and who's playing. 66 Cowgate; Edinburgh, EH1 1JX;  Scotland; United Kingdom.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 11 Sept 2026 | Disorder presents: Anikonik (Kool FM / Nook) [JUNGLE AND DRUM & BASS] | Anikonik, FIFI (2) |
 | Sat, 12 Sept 2026 | Hobbes Music x Noetic Rhythm (Launch Party): David Jackson, Maya Hacker, Hobbes  | David Jackson, Hobbes, Maya Hacker |
 | Tue, 15 Sept 2026 | REDEMPTION // Freshers Takeover at Bongo Club |  |
 | Wed, 16 Sept 2026 | EPiKA - ECFS launch party | Hellæktra, Iona.Violet, Nikki Guild, iluna, ona:v |
@@ -18,6 +17,7 @@ The Bongo Club is a music venue in Edinburgh listed on soundcheck. 24 upcoming n
 | Tue, 22 Sept 2026 | Volta Launch Night with Miss Cabbage, Sea Urchin + residents [LIMITED FREE TICKETS] | Miss Cabbage, Rodent, Sea Urchin |
 | Wed, 23 Sept 2026 | Van Rouge x The Bongo Club: Part 4 |  |
 | Fri, 25 Sept 2026 | PULSE with SPFDJ | Darrell Pulse, SPFDJ |
+| Sat, 26 Sept 2026 | Chromatic: Cornetta + Flipside | Cornetta, FLIPSIDE., Lara Sinclair, ZO3 (1) |
 
 ## Address
 

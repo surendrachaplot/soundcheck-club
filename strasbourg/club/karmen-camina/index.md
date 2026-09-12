@@ -1,14 +1,13 @@
 # Karmen Camina
 
-Karmen Camina is a music venue in Strasbourg with 10 upcoming nights listed on soundcheck as of Sat, 12 Sept 2026; the next is "HYPER PYP [DJ Plead • TAYHANA • Lilly Liaz]" on Fri, 11 Sept 2026.
+Karmen Camina is a music venue in Strasbourg with 9 upcoming nights listed on soundcheck as of Sat, 12 Sept 2026; the next is "KC [KITTIN • Vod Kasat • itako • Callèn & Ødass]" on Sat, 12 Sept 2026.
 
-Karmen Camina is a music venue in Strasbourg listed on soundcheck. 10 upcoming nights, with line-ups including ALIS., Angioma, Callèn and Dario Zenker and 2 more. Browse upcoming dates, start times and who's playing. 4 cour des Cigarières 67000 Strasbourg.
+Karmen Camina is a music venue in Strasbourg listed on soundcheck. 9 upcoming nights, with line-ups including ALIS., Angioma, Callèn and Dario Zenker and 2 more. Browse upcoming dates, start times and who's playing. 4 cour des Cigarières 67000 Strasbourg.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 11 Sept 2026 | HYPER PYP [DJ Plead • TAYHANA • Lilly Liaz] | DJ Plead, TAYHANA |
 | Sat, 12 Sept 2026 | KC [KITTIN • Vod Kasat • itako • Callèn & Ødass] | Callèn, Miss Kittin, Vod Kasat, itako |
 | Thu, 17 Sept 2026 | trb! ZGA #5 [Miss Kina Car Audio, nono, bluzu, secco] |  |
 | Fri, 18 Sept 2026 | SPECIAL GROOVE [Deadbeat & Tikiman • Diane Moe] | Deadbeat, Paul St. Hilaire, Tikiman |

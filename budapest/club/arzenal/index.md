@@ -1,14 +1,13 @@
 # Arzenal
 
-Arzenal is a music venue in Budapest with 11 upcoming nights listed on soundcheck as of Sat, 12 Sept 2026; the next is "Nachtwerk Pres. TOXIC MACHINERY 3HRS EXTENDED" on Fri, 11 Sept 2026.
+Arzenal is a music venue in Budapest with 10 upcoming nights listed on soundcheck as of Sat, 12 Sept 2026; the next is "FUSIONZ pres SCULLY (SCO) - HARDTECHNO" on Sat, 12 Sept 2026.
 
-Arzenal is a music venue in Budapest listed on soundcheck. 11 upcoming nights, with line-ups including ädene, AEREA, AESZTETIK and Cloudy and 2 more. Browse upcoming dates, start times and who's playing. Soroksári út 158/C Budapest, Hungary 1095.
+Arzenal is a music venue in Budapest listed on soundcheck. 10 upcoming nights, with line-ups including ädene, AEREA, AESZTETIK and Cloudy and 2 more. Browse upcoming dates, start times and who's playing. Soroksári út 158/C Budapest, Hungary 1095.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 11 Sept 2026 | Nachtwerk Pres. TOXIC MACHINERY 3HRS EXTENDED | Jauri |
 | Sat, 12 Sept 2026 | FUSIONZ pres SCULLY (SCO) - HARDTECHNO | Johanna Bozai, Kamafaka, ädene |
 | Fri, 18 Sept 2026 | TKWT invites: AEREA live | AEREA, Cvrdwell, Daniel Moritz, Detective Kelly, THIRD 2HIFT |
 | Sat, 19 Sept 2026 | Arzenal pres.: Onlynumbers & SPEEDLIMITER | Onlynumbers |
@@ -18,6 +17,7 @@ Arzenal is a music venue in Budapest listed on soundcheck. 11 upcoming nights, w
 | Sat, 7 Nov 2026 | Raum für Ton at Arzenál Chapter One with Parallx, AESZTETIK, Kabay, Leskus, Tarkan, THIRD 2HIFT | AESZTETIK, Kabay, Leskus, MAHA, Parallx, THIRD 2HIFT, Tarkan |
 | Sat, 14 Nov 2026 | Paralich ALL NIGHT LONG DEAD END FREE/INGYENES Arzenal | Paralich, Valenthin |
 | Fri, 27 Nov 2026 | NRG Budapest - Arzenál | Jezza & Jod, KLOFAMA, Vieze Asbak, Winson, Yoshiko |
+| Fri, 4 Dec 2026 | Arzenal X Shangri-La with Hot Since 82 | Hot Since 82 |
 
 ## Address
 

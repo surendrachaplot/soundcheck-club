@@ -1,14 +1,13 @@
 # Breakbot
 
-Breakbot is a House and Disco artist with 4 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Amnesia Ibiza, Ibiza on Fri, 11 Sept 2026.
+Breakbot is a House and Disco artist with 3 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Palazzo Delle Esposizioni, Rome on Thu, 17 Sept 2026.
 
-Breakbot is a house and disco artist based in France, tracked on soundcheck, with 75 sets logged across Amsterdam, Bangkok, Barcelona and Berlin and 26 more. Often billed alongside Irfane, Busy P and Myd. Next up: Amnesia Ibiza, Ibiza on Fri 11 Sept.
+Breakbot is a house and disco artist based in France, tracked on soundcheck, with 75 sets logged across Amsterdam, Bangkok, Barcelona and Berlin and 26 more. Often billed alongside Irfane, Busy P and Myd. Next up: Palazzo Delle Esposizioni, Rome on Thu 17 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 11 Sept 2026 | Amnesia Ibiza | Ibiza |
 | Thu, 17 Sept 2026 | Palazzo Delle Esposizioni | Rome |
 | Thu, 1 Oct 2026 | Pacha Ibiza | Ibiza |
 | Sat, 7 Nov 2026 | Colour Factory | London |

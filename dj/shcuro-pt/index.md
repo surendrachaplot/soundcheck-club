@@ -1,14 +1,13 @@
 # Shcuro
 
-Shcuro is a Techno and Breakbeat artist with 2 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Gare Porto, Porto on Fri, 11 Sept 2026.
+Shcuro is a Techno and Breakbeat artist with 1 upcoming club date listed on soundcheck as of Sat, 12 Sept 2026, next at Lux Fragil, Lisbon on Fri, 18 Sept 2026.
 
-Shcuro is a techno and breakbeat artist tracked on soundcheck, with 32 sets logged across Lisbon, London and Porto. Often billed alongside Maria Amor, Chima Isaaro and Yen Sung. Next up: Gare Porto, Porto on Fri 11 Sept.
+Shcuro is a techno and breakbeat artist tracked on soundcheck, with 32 sets logged across Lisbon, London and Porto. Often billed alongside Maria Amor, Chima Isaaro and Yen Sung. Next up: Lux Fragil, Lisbon on Fri 18 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 11 Sept 2026 | Gare Porto | Porto |
 | Fri, 18 Sept 2026 | Lux Fragil | Lisbon |
 
 ## Recently played

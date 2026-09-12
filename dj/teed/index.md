@@ -1,14 +1,13 @@
 # TEED
 
-TEED is a House and Bass artist with 3 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at La Paloma, Barcelona on Fri, 11 Sept 2026.
+TEED is a House and Bass artist with 2 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at The Cause, London on Fri, 18 Sept 2026.
 
-TEED is a house and bass artist tracked on soundcheck, with 47 sets logged across Amsterdam, Barcelona, Berlin and Boston and 22 more. Often billed alongside Dom Dolla, GPU Panic and Heidi Lawden. Next up: La Paloma, Barcelona on Fri 11 Sept.
+TEED is a house and bass artist tracked on soundcheck, with 47 sets logged across Amsterdam, Barcelona, Berlin and Boston and 22 more. Often billed alongside Dom Dolla, GPU Panic and Heidi Lawden. Next up: The Cause, London on Fri 18 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 11 Sept 2026 | La Paloma | Barcelona |
 | Fri, 18 Sept 2026 | The Cause | London |
 | Fri, 30 Oct 2026 | YuYu Cine Club | Mexico City |
 

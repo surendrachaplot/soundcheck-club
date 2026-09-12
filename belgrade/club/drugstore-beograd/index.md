@@ -1,14 +1,13 @@
 # Drugstore Beograd
 
-Drugstore Beograd is a music venue in Belgrade with 9 upcoming nights listed on soundcheck as of Sat, 12 Sept 2026; the next is "MANEVARIM season opening at Club Drugstore with residents" on Fri, 11 Sept 2026.
+Drugstore Beograd is a music venue in Belgrade with 8 upcoming nights listed on soundcheck as of Sat, 12 Sept 2026; the next is "Frenzee, Grim Rhythm, Reckoning" on Tue, 15 Sept 2026.
 
-Drugstore Beograd is a music venue in Belgrade listed on soundcheck. 9 upcoming nights, with line-ups including aleksssa, AM Hi, Aneri and Asarri and 2 more. Browse upcoming dates, start times and who's playing. Bulevar Despota Stefana 115 - Poenkareova.
+Drugstore Beograd is a music venue in Belgrade listed on soundcheck. 8 upcoming nights, with line-ups including AM Hi, Aneri, Asarri and Carbon Based Lifeforms and 2 more. Browse upcoming dates, start times and who's playing. Bulevar Despota Stefana 115 - Poenkareova.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 11 Sept 2026 | MANEVARIM season opening at Club Drugstore with residents | Essio, Vibrain, aleksssa |
 | Tue, 15 Sept 2026 | Frenzee, Grim Rhythm, Reckoning |  |
 | Sat, 19 Sept 2026 | INDOOR HARDCORE VOL.V ( 90% SOLD OUT ) | Commissar  Lag, D/K/OXY, SNTS, Stashha, Suzana, cassandrah, laccotti |
 | Fri, 25 Sept 2026 | KRШ Season Opener with Rommek & JERM  | HETEM, JERM, Rommek, mdngt |

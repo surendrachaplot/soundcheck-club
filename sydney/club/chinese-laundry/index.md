@@ -1,14 +1,13 @@
 # Chinese Laundry
 
-Chinese Laundry is a music venue in Sydney with 7 upcoming nights listed on soundcheck as of Sat, 12 Sept 2026; the next is "Chinese Laundry Invites C.FRIM + MIRASIA" on Fri, 11 Sept 2026.
+Chinese Laundry is a music venue in Sydney with 6 upcoming nights listed on soundcheck as of Sat, 12 Sept 2026; the next is "Chinese Laundry Invites PEOPLE'S PARTY [FULL VENUE TAKEOVER]" on Sat, 12 Sept 2026.
 
-Chinese Laundry is a music venue in Sydney listed on soundcheck. 7 upcoming nights, with line-ups including AMMARA, Amotik, bradeazy and Cedar (2) and 2 more. Browse upcoming dates, start times and who's playing. 111 Sussex St; Sydney, NSW 2000; Australia.
+Chinese Laundry is a music venue in Sydney listed on soundcheck. 6 upcoming nights, with line-ups including AMMARA, Amotik, bradeazy and Headhunters and 2 more. Browse upcoming dates, start times and who's playing. 111 Sussex St; Sydney, NSW 2000; Australia.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 11 Sept 2026 | Chinese Laundry Invites C.FRIM + MIRASIA | C.FRIM, Cedar (2), Cristal No.5, Deens, MIRASIA, PARTIGIRL |
 | Sat, 12 Sept 2026 | Chinese Laundry Invites PEOPLE'S PARTY [FULL VENUE TAKEOVER] |  |
 | Fri, 18 Sept 2026 | Chinese Laundry Invites FRICTION [FULL VENUE TAKEOVER] & Kid Kenobi [30 YEARS] | Kid Kenobi |
 | Sat, 19 Sept 2026 | Chinese Laundry Invites Spekki Webu [NL] + Mehmet Alpdogan & FRIENDS | Mehmet Alpdogan, Spekki Webu |

@@ -1,14 +1,13 @@
 # Casper (FIN)
 
-Casper (FIN) is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at De Studio, Antwerp on Fri, 11 Sept 2026.
+Casper (FIN) is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Triangle, Osaka on Tue, 22 Sept 2026.
 
-Casper (FIN) is a house and techno artist tracked on soundcheck, with 8 sets logged across Antwerp, Bangkok, Brussels and Losangeles and 2 more. Often billed alongside Liem, Adi and April. Next up: De Studio, Antwerp on Fri 11 Sept.
+Casper (FIN) is a house and techno artist tracked on soundcheck, with 8 sets logged across Antwerp, Bangkok, Brussels and Losangeles and 2 more. Often billed alongside Liem, Adi and April. Next up: Triangle, Osaka on Tue 22 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 11 Sept 2026 | De Studio | Antwerp |
 | Tue, 22 Sept 2026 | Triangle | Osaka |
 | Sat, 26 Sept 2026 | UMI | Brussels |
 

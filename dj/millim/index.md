@@ -1,14 +1,13 @@
 # Millim
 
-Millim is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Flac, Seoul on Fri, 11 Sept 2026.
+Millim is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 12 Sept 2026, next at Kockiri, Seoul on Sat, 12 Sept 2026.
 
-Millim is a house and techno artist based in South Korea, tracked on soundcheck, with 31 sets logged across Seoul. Often billed alongside KYVU, FOI (SK) and Gio (KR). Next up: Flac, Seoul on Fri 11 Sept.
+Millim is a house and techno artist based in South Korea, tracked on soundcheck, with 31 sets logged across Seoul. Often billed alongside KYVU, FOI (SK) and Gio (KR). Next up: Kockiri, Seoul on Sat 12 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 11 Sept 2026 | Flac | Seoul |
 | Sat, 12 Sept 2026 | Kockiri | Seoul |
 
 ## Recently played

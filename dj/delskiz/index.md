@@ -1,14 +1,13 @@
 # Delskiz
 
-Delskiz is a Electronica and Jazz artist with 2 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at La Rotonde Stalingrad, Paris on Fri, 11 Sept 2026.
+Delskiz is a Electronica and Jazz artist with 1 upcoming club date listed on soundcheck as of Sat, 12 Sept 2026, next at TBA - 1 hour from Paris, Paris on Fri, 11 Sept 2026.
 
-Delskiz is an electronica and jazz artist based in France, tracked on soundcheck, with 10 sets logged across Paris. Often billed alongside DJ Beluga92, Messes Basses and Pipholp. Next up: La Rotonde Stalingrad, Paris on Fri 11 Sept.
+Delskiz is an electronica and jazz artist based in France, tracked on soundcheck, with 10 sets logged across Paris. Often billed alongside DJ Beluga92, Messes Basses and Pipholp. Next up: TBA - 1 hour from Paris, Paris on Fri 11 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 11 Sept 2026 | La Rotonde Stalingrad | Paris |
 | Fri, 11 Sept 2026 | TBA - 1 hour from Paris | Paris |
 
 ## Recently played

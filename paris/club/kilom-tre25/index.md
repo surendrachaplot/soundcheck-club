@@ -1,14 +1,13 @@
 # Kilomètre25
 
-Kilomètre25 is a music venue in Paris with 14 upcoming nights listed on soundcheck as of Sat, 12 Sept 2026; the next is "Pygments: Airod, Angèle Cressin, Acidpach, YENKOV, Terminal Trax" on Fri, 11 Sept 2026.
+Kilomètre25 is a music venue in Paris with 13 upcoming nights listed on soundcheck as of Sat, 12 Sept 2026; the next is "Cookie records: Sophie Lloyd, Kabylie Minogue, UN*DEUX" on Sat, 12 Sept 2026.
 
-Kilomètre25 is a music venue in Paris listed on soundcheck. 14 upcoming nights, with line-ups including NYRA (DE), Airod, ANDATA and Angie (FR) and 2 more. Browse upcoming dates, start times and who's playing. 8 Boulevard MacDonald 75019 Paris.
+Kilomètre25 is a music venue in Paris listed on soundcheck. 13 upcoming nights, with line-ups including NYRA (DE), ANDATA, AREA ØNE and ASLO and 2 more. Browse upcoming dates, start times and who's playing. 8 Boulevard MacDonald 75019 Paris.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 11 Sept 2026 | Pygments: Airod, Angèle Cressin, Acidpach, YENKOV, Terminal Trax | Airod, Angie (FR), Cattoni, Terminal Trax, YENKOV |
 | Sat, 12 Sept 2026 | Cookie records: Sophie Lloyd, Kabylie Minogue, UN*DEUX | Audem, Kabylie Minogue, Sophie Lloyd, UN*DEUX |
 | Fri, 18 Sept 2026 | 2Much: Linds, ANDATA, Emilja | ANDATA, Linds, Orbi, Shoshanaaaaaaa, Stinny Stone |
 | Sat, 19 Sept 2026 | Organïk : IGDA, JO3Y3T, KIRSTY, VIDO & More | IGDA, KIRSTY, PEAKSOU, VIDO (2), VIDO (DE) |
@@ -18,6 +17,7 @@ Kilomètre25 is a music venue in Paris listed on soundcheck. 14 upcoming nights,
 | Sat, 3 Oct 2026 | 23:59 - AREA ØNE, EARGASM GOD, DBBD, Paralich, DJ RATZ, BORDER SISTERS | AREA ØNE, DBBD, EARGASM GOD, Paralich |
 | Fri, 9 Oct 2026 | ØXYL: BYORN, TESTPRESS, NYRA, SIKOTI, MEYEM & MORE | MEYEM, Mando, NYRA (DE), SIKOTI, t e s t p r e s s |
 | Sat, 10 Oct 2026 | Deepsea Grooves: Chez Damier, Mézigue, Vitaline | Chez Damier, Mézigue, R1D1, Vitaline |
+| Fri, 16 Oct 2026 | ORKA X SAKRAL: BIIA, Dica, BOTICKA, SKOLLARIS, PAULINE D7 | BIIA, BOTICKA, Dica |
 
 ## Address
 

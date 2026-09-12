@@ -1,14 +1,13 @@
 # ANDY DEDE
 
-ANDY DEDE is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at WOMB, Tokyo on Fri, 11 Sept 2026.
+ANDY DEDE is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Sat, 12 Sept 2026, next at Enter Shibuya, Tokyo on Sat, 12 Sept 2026.
 
-ANDY DEDE is a house and tech house artist based in Japan, tracked on soundcheck, with 22 sets logged across Tokyo. Often billed alongside ALEXANDER M, EIGHT and BiBiYUA. Next up: WOMB, Tokyo on Fri 11 Sept.
+ANDY DEDE is a house and tech house artist based in Japan, tracked on soundcheck, with 22 sets logged across Tokyo. Often billed alongside ALEXANDER M, EIGHT and BiBiYUA. Next up: Enter Shibuya, Tokyo on Sat 12 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 11 Sept 2026 | WOMB | Tokyo |
 | Sat, 12 Sept 2026 | Enter Shibuya | Tokyo |
 
 ## Recently played

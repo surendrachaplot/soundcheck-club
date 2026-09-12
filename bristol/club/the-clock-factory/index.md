@@ -1,15 +1,13 @@
 # The Clock Factory
 
-The Clock Factory is a music venue in Bristol with 23 upcoming nights listed on soundcheck as of Sat, 12 Sept 2026; the next is "Sonix: DNB Forever • Bristol" on Fri, 11 Sept 2026.
+The Clock Factory is a music venue in Bristol with 21 upcoming nights listed on soundcheck as of Sat, 12 Sept 2026; the next is "UWE Bristol Official Freshers - DNB Rave w/ Kelvin 373" on Wed, 16 Sept 2026.
 
-The Clock Factory is a music venue in Bristol listed on soundcheck. 23 upcoming nights, with line-ups including Addison Groove, Calyx, Capo Lee and Circadian and 2 more. Browse upcoming dates, start times and who's playing. 63 Union Gate 1st & 2nd Floor, Broadmead, Bristol BS1 2AG.
+The Clock Factory is a music venue in Bristol listed on soundcheck. 21 upcoming nights, with line-ups including Addison Groove, Calyx, Capo Lee and Circadian and 2 more. Browse upcoming dates, start times and who's playing. 63 Union Gate 1st & 2nd Floor, Broadmead, Bristol BS1 2AG.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 11 Sept 2026 | Sonix: DNB Forever • Bristol | DJ S (UK), mani (UK) |
-| Fri, 11 Sept 2026 | Bristol Summer Series DJ Q | DJ Q |
 | Wed, 16 Sept 2026 | UWE Bristol Official Freshers - DNB Rave w/ Kelvin 373 |  |
 | Fri, 18 Sept 2026 | Bristol Summer Series [FREE RAVE] • Circadian & Kara (Series Finale) | Circadian, Kara (UK) |
 | Sat, 19 Sept 2026 | Jungle Cakes Bristol 360° • Ed Solo, Deekline, Phibes, Serial Killaz & More |  |
@@ -18,6 +16,8 @@ The Clock Factory is a music venue in Bristol listed on soundcheck. 23 upcoming 
 | Sat, 26 Sept 2026 | Clock Factory presents: Yung Singh B2B Ma Sha & Fonzo | Fonzo, Ma Sha, Yung Singh |
 | Sat, 26 Sept 2026 | Cunning MC - Clock Factory Bristol [360° Headline] |  |
 | Fri, 2 Oct 2026 | Clock Factory presents: TS7, Frontline Takeover & More | TS7 |
+| Sat, 3 Oct 2026 | True Junglist FREE RAVE - Mampi Swift B2B Logan D [First-Ever B2B] + Special Guest MC | Logan D, Mampi Swift |
+| Fri, 9 Oct 2026 | Teletech: NVNS & Devil Dwarf [Bristol] |  |
 
 ## Address
 

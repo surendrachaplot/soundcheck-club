@@ -1,14 +1,13 @@
 # Turbina
 
-Turbina is a music venue in Budapest with 9 upcoming nights listed on soundcheck as of Sat, 12 Sept 2026; the next is "ROOTZ — SEASON OPENING" on Fri, 11 Sept 2026.
+Turbina is a music venue in Budapest with 8 upcoming nights listed on soundcheck as of Sat, 12 Sept 2026; the next is "Turbina SEASON OPENER" on Sat, 12 Sept 2026.
 
-Turbina is a music venue in Budapest listed on soundcheck. 9 upcoming nights, with line-ups including 96zen, Akác, AllaDerivaLontano and Arash Ete and 2 more. Browse upcoming dates, start times and who's playing. Budapest, Vajdahunyad street 4., 1082.
+Turbina is a music venue in Budapest listed on soundcheck. 8 upcoming nights, with line-ups including 96zen, Akác, Arash Ete and Auerbach and 2 more. Browse upcoming dates, start times and who's playing. Budapest, Vajdahunyad street 4., 1082.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 11 Sept 2026 | ROOTZ — SEASON OPENING | AllaDerivaLontano, Atashi, Bencsama, Cvrdwell |
 | Sat, 12 Sept 2026 | Turbina SEASON OPENER | Akác, Indirect Movement, Sikztah, Switch Nollie |
 | Fri, 18 Sept 2026 | KAKAÓ 016 with Auerbach, BALARAM, Flipo, Tündérke + Clubroom by Hardcore4Kidz | Auerbach, BALARAM, Dink |
 | Sat, 19 Sept 2026 | ꧁ ༺ DEAD END season opening with ninnidslvx, Paralich ༻ ꧂ | NINNIDSLVX, Paralich |

@@ -1,14 +1,13 @@
 # Deaf Toucan
 
-Deaf Toucan is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Glamorama, Melbourne on Fri, 11 Sept 2026.
+Deaf Toucan is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Sat, 12 Sept 2026, next at Carousel Bar & Ballroom, Sydney on Sat, 3 Oct 2026.
 
-Deaf Toucan is a techno and trance artist tracked on soundcheck, with 15 sets logged across Aberdeen, Melbourne and Sydney. Often billed alongside EFESIAN, Eva Charley and GMOZ. Next up: Glamorama, Melbourne on Fri 11 Sept.
+Deaf Toucan is a techno and trance artist tracked on soundcheck, with 15 sets logged across Aberdeen, Melbourne and Sydney. Often billed alongside EFESIAN, Eva Charley and GMOZ. Next up: Carousel Bar & Ballroom, Sydney on Sat 3 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 11 Sept 2026 | Glamorama | Melbourne |
 | Sat, 3 Oct 2026 | Carousel Bar & Ballroom | Sydney |
 
 ## Recently played

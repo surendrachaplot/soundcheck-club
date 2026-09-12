@@ -1,14 +1,13 @@
 # Nita Aviance
 
-Nita Aviance is a House and Techno artist with 6 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at TBA - Downtown, Los Angeles on Fri, 11 Sept 2026.
+Nita Aviance is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Process PDX, Portland on Sat, 12 Sept 2026.
 
-Nita Aviance is a house and techno artist based in United States of America, tracked on soundcheck, with 98 sets logged across Chicago, Detroit, Leipzig and London and 4 more. Often billed alongside Will Automagic, The Carry Nation and Alissa Brianna. Next up: TBA - Downtown, Losangeles on Fri 11 Sept.
+Nita Aviance is a house and techno artist based in United States of America, tracked on soundcheck, with 98 sets logged across Chicago, Detroit, Leipzig and London and 4 more. Often billed alongside Will Automagic, The Carry Nation and Alissa Brianna. Next up: Process PDX, Portland on Sat 12 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 11 Sept 2026 | TBA - Downtown | Los Angeles |
 | Sat, 12 Sept 2026 | Process PDX | Portland |
 | Sun, 20 Sept 2026 | 314 Scholes | New York City |
 | Fri, 25 Sept 2026 | Paragon | New York City |

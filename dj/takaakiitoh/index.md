@@ -1,14 +1,13 @@
 # Takaaki Itoh
 
-Takaaki Itoh is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Mariano Escobedo 494, Mexico City on Fri, 11 Sept 2026.
+Takaaki Itoh is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at TBA - Los Angeles, Los Angeles on Sat, 12 Sept 2026.
 
-Takaaki Itoh is a techno and house artist tracked on soundcheck, with 108 sets logged across Amsterdam, Athens, Barcelona and Belgrade and 31 more. Often billed alongside DANA NADA, DANDAN and Vulkanski. Next up: Mariano Escobedo 494, Mexicocity on Fri 11 Sept.
+Takaaki Itoh is a techno and house artist tracked on soundcheck, with 108 sets logged across Amsterdam, Athens, Barcelona and Belgrade and 31 more. Often billed alongside DANA NADA, DANDAN and Vulkanski. Next up: TBA - Los Angeles, Losangeles on Sat 12 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 11 Sept 2026 | Mariano Escobedo 494 | Mexico City |
 | Sat, 12 Sept 2026 | TBA - Los Angeles | Los Angeles |
 | Sat, 3 Oct 2026 | RADION | Amsterdam |
 | Sat, 3 Oct 2026 | RADION | Amsterdam |

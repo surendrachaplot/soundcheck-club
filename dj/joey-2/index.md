@@ -1,14 +1,13 @@
 # Joey (2)
 
-Joey (2) is a Techno and Trance artist with 3 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Das Werk, Vienna on Fri, 11 Sept 2026.
+Joey (2) is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Das Werk, Vienna on Fri, 9 Oct 2026.
 
-Joey (2) is a techno and trance artist tracked on soundcheck, with 123 sets logged across Berlin, Leeds, Lisbon and Nurnberg and 2 more. Often billed alongside Crystal O, KILIÅN and LOUISA INDIA. Next up: Das Werk, Vienna on Fri 11 Sept.
+Joey (2) is a techno and trance artist tracked on soundcheck, with 123 sets logged across Berlin, Leeds, Lisbon and Nurnberg and 2 more. Often billed alongside Crystal O, KILIÅN and LOUISA INDIA. Next up: Das Werk, Vienna on Fri 9 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 11 Sept 2026 | Das Werk | Vienna |
 | Fri, 9 Oct 2026 | Das Werk | Vienna |
 | Fri, 13 Nov 2026 | Das Werk | Vienna |
 

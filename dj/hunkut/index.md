@@ -1,14 +1,13 @@
 # Hunkut
 
-Hunkut is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at KitKatClub, Berlin on Fri, 11 Sept 2026.
+Hunkut is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Petit CAB, Marseille on Fri, 18 Sept 2026.
 
-Hunkut is a techno and house artist based in France, tracked on soundcheck, with 13 sets logged across Bangkok, Berlin, Marseille and Paris. Often billed alongside Feroui, Nymed and Vulva Vitamina. Next up: KitKatClub, Berlin on Fri 11 Sept.
+Hunkut is a techno and house artist based in France, tracked on soundcheck, with 13 sets logged across Bangkok, Berlin, Marseille and Paris. Often billed alongside Feroui, Nymed and Vulva Vitamina. Next up: Petit CAB, Marseille on Fri 18 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 11 Sept 2026 | KitKatClub | Berlin |
 | Fri, 18 Sept 2026 | Petit CAB | Marseille |
 | Sun, 27 Sept 2026 | OXI | Berlin |
 

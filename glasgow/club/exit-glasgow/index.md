@@ -1,14 +1,13 @@
 # EXIT Glasgow
 
-EXIT Glasgow is a music venue in Glasgow with 18 upcoming nights listed on soundcheck as of Sat, 12 Sept 2026; the next is "ARIAS" on Fri, 11 Sept 2026.
+EXIT Glasgow is a music venue in Glasgow with 17 upcoming nights listed on soundcheck as of Sat, 12 Sept 2026; the next is "In The ࿓ Spirit ࿓ of EXIT" on Sat, 12 Sept 2026.
 
-EXIT Glasgow is a music venue in Glasgow listed on soundcheck. 18 upcoming nights, with line-ups including 3SBAT, Angel Negrin, Bake and Blackeye MC and 2 more. Browse upcoming dates, start times and who's playing. 96 Maxwell Street, Glasgow, G1 4EQ.
+EXIT Glasgow is a music venue in Glasgow listed on soundcheck. 17 upcoming nights, with line-ups including 3SBAT, Angel Negrin, Bake and Blackeye MC and 2 more. Browse upcoming dates, start times and who's playing. 96 Maxwell Street, Glasgow, G1 4EQ.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 11 Sept 2026 | ARIAS | JayJay, Magnus Westwell, Zoe Pea |
 | Sat, 12 Sept 2026 | In The ࿓ Spirit ࿓ of EXIT | Bake, DJ Plead, Libra Esterlina |
 | Fri, 18 Sept 2026 | Tekhole presents: SIN  | Buckfast Barbie, C Frame, Maveen, Moina Moin, North Star, SOFSOF, Salam Kitty, Tekhole, saparilla |
 | Sat, 19 Sept 2026 | EXIT CLUB | JayJay, RRRKRTA, manu_facturer |
@@ -18,6 +17,7 @@ EXIT Glasgow is a music venue in Glasgow listed on soundcheck. 18 upcoming night
 | Sat, 3 Oct 2026 | EXIT X KAOS |  |
 | Fri, 9 Oct 2026 | Crucial Roots Soundsystem | Crucial Roots |
 | Sat, 10 Oct 2026 | DON'T FORGET ~ Naum Gabo (Live),  Manisdron (Live), Oriana , Elazer | Elazer, Oriana |
+| Thu, 15 Oct 2026 | MAGNETIC NORTH - An Evening for Peter Christopherson & COIL |  |
 
 ## Address
 

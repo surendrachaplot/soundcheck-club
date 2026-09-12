@@ -1,14 +1,13 @@
 # DBBD
 
-DBBD is a Techno and Trance artist with 6 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Paragon, New York City on Fri, 11 Sept 2026.
+DBBD is a Techno and Trance artist with 5 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Kilomètre25, Paris on Sat, 3 Oct 2026.
 
-DBBD is a techno and trance artist tracked on soundcheck, with 89 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 36 more. Often billed alongside Miss Bashful, Miss Bashful x DBBD and MCR-T. Next up: Paragon, Newyorkcity on Fri 11 Sept.
+DBBD is a techno and trance artist tracked on soundcheck, with 89 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 36 more. Often billed alongside Miss Bashful, Miss Bashful x DBBD and MCR-T. Next up: Kilomètre25, Paris on Sat 3 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 11 Sept 2026 | Paragon | New York City |
 | Sat, 3 Oct 2026 | Kilomètre25 | Paris |
 | Sat, 3 Oct 2026 | Kilomètre25 | Paris |
 | Sat, 10 Oct 2026 | Plage Privée Parc de Miribel | Lyon |

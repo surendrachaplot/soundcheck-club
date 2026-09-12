@@ -1,14 +1,13 @@
 # DJ Hyperdrive
 
-DJ Hyperdrive is a Techno and Trance artist with 8 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Else, Berlin on Fri, 11 Sept 2026.
+DJ Hyperdrive is a Techno and Trance artist with 7 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at TILLATEC, Amsterdam on Sat, 12 Sept 2026.
 
-DJ Hyperdrive is a techno and trance artist tracked on soundcheck, with 202 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 49 more. Often billed alongside future.666, ÜBERKIKZ and slin. Next up: Else, Berlin on Fri 11 Sept.
+DJ Hyperdrive is a techno and trance artist tracked on soundcheck, with 202 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 49 more. Often billed alongside future.666, ÜBERKIKZ and slin. Next up: TILLATEC, Amsterdam on Sat 12 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 11 Sept 2026 | Else | Berlin |
 | Sat, 12 Sept 2026 | TILLATEC | Amsterdam |
 | Sat, 3 Oct 2026 | Dockland | Munster |
 | Sat, 17 Oct 2026 | Universe Athens | Athens |

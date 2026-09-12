@@ -1,14 +1,13 @@
 # Ship Sket
 
-Ship Sket is a Experimental and Bass artist with 4 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Cakeshop, Seoul on Fri, 11 Sept 2026.
+Ship Sket is a Experimental and Bass artist with 3 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at TBA - Secret location in Nishiazabu, Tokyo on Sat, 12 Sept 2026.
 
-Ship Sket is an experimental and bass artist tracked on soundcheck, with 76 sets logged across Amsterdam, Barcelona, Belgrade and Berlin and 16 more. Often billed alongside Proc Fiskal, KAVARI and Blood of Aza. Next up: Cakeshop, Seoul on Fri 11 Sept.
+Ship Sket is an experimental and bass artist tracked on soundcheck, with 76 sets logged across Amsterdam, Barcelona, Belgrade and Berlin and 16 more. Often billed alongside Proc Fiskal, KAVARI and Blood of Aza. Next up: TBA - Secret location in Nishiazabu, Tokyo on Sat 12 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 11 Sept 2026 | Cakeshop | Seoul |
 | Sat, 12 Sept 2026 | TBA - Secret location in Nishiazabu | Tokyo |
 | Fri, 18 Sept 2026 | Tuff Club | Singapore |
 | Thu, 8 Oct 2026 | Hotel Forum | Krakow |

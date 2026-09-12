@@ -1,14 +1,13 @@
 # Smolna
 
-Smolna is a music venue in Warsaw with 8 upcoming nights listed on soundcheck as of Sat, 12 Sept 2026; the next is "Smolna x Bavno" on Fri, 11 Sept 2026.
+Smolna is a music venue in Warsaw with 7 upcoming nights listed on soundcheck as of Sat, 12 Sept 2026; the next is "Smolna: Carla Roca all night long" on Sat, 12 Sept 2026.
 
-Smolna is a music venue in Warsaw listed on soundcheck. 8 upcoming nights, with line-ups including Ane, Carla Roca, Casper Weiss and Claude Degas and 2 more. Browse upcoming dates, start times and who's playing. Smolna 38, 00-375 Warszawa.
+Smolna is a music venue in Warsaw listed on soundcheck. 7 upcoming nights, with line-ups including Ane, Carla Roca, Casper Weiss and Claude Degas and 2 more. Browse upcoming dates, start times and who's playing. Smolna 38, 00-375 Warszawa.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 11 Sept 2026 | Smolna x Bavno | Mazi, Ricoo, Tony Bellotti |
 | Sat, 12 Sept 2026 | Smolna: Carla Roca all night long | Carla Roca, Peter Fern |
 | Wed, 16 Sept 2026 | HIDEOUT SOCIAL CLUB #23 // PIELSON x Casper Weiss x MAGZI | Casper Weiss |
 | Thu, 17 Sept 2026 | SMLИ Thursday x Open Days: 6pntr9 - Speedy MiDi - Pielson |  |

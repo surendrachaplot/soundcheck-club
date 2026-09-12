@@ -1,14 +1,13 @@
 # Toldi Klub
 
-Toldi Klub is a music venue in Budapest with 15 upcoming nights listed on soundcheck as of Sat, 12 Sept 2026; the next is "HAUSI semester opening / TOLDI" on Fri, 11 Sept 2026.
+Toldi Klub is a music venue in Budapest with 14 upcoming nights listed on soundcheck as of Sat, 12 Sept 2026; the next is "Hello - queer pop party" on Sat, 12 Sept 2026.
 
-Toldi Klub is a music venue in Budapest listed on soundcheck. 15 upcoming nights, with line-ups including Atashi, BELLITTA, Bencsama and Daddy D and 2 more. Browse upcoming dates, start times and who's playing. Bajcsy-Zsilinszky út 36-38, 1054 Budapest.
+Toldi Klub is a music venue in Budapest listed on soundcheck. 14 upcoming nights, with line-ups including Atashi, BELLITTA, Bencsama and Daniel Santiago and 2 more. Browse upcoming dates, start times and who's playing. Bajcsy-Zsilinszky út 36-38, 1054 Budapest.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 11 Sept 2026 | HAUSI semester opening / TOLDI | Daddy D |
 | Sat, 12 Sept 2026 | Hello - queer pop party |  |
 | Fri, 18 Sept 2026 | MAJO // TOLDI | Sobek |
 | Fri, 18 Sept 2026 | MAJO - Dj Syncbutton + Maron - Geopard Tourist - Sobek ~ TOLDI |  |
@@ -17,6 +16,7 @@ Toldi Klub is a music venue in Budapest listed on soundcheck. 15 upcoming nights
 | Sat, 26 Sept 2026 | Vad leszel vagy vadász? // TOLDI |  |
 | Fri, 2 Oct 2026 | PlayStation Drum&Bass night |  |
 | Sat, 3 Oct 2026 | 𖤓 Karaván 𖤓 Meo Culpa, Pure Lust: Daniel Ban & Daniel Santiago, Solar Things, Yorgos live | Daniel Santiago, Meo Culpa |
+| Sat, 10 Oct 2026 | ROOTZ X TOLDI X Paula Sanz | Atashi, BELLITTA, Bencsama, Dorota, Paula Sanz |
 | Sat, 10 Oct 2026 | ROOTZ X TOLDI X Paula Sanz | Atashi, BELLITTA, Bencsama, Dorota, Paula Sanz |
 
 ## Address

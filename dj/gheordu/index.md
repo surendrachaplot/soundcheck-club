@@ -1,14 +1,13 @@
 # Gheordu
 
-Gheordu is a Techno and Hardcore artist with 2 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Nether Club, Bucharest on Fri, 11 Sept 2026.
+Gheordu is a Techno and Hardcore artist with 1 upcoming club date listed on soundcheck as of Sat, 12 Sept 2026, next at control, Bucharest on Sat, 19 Sept 2026.
 
-Gheordu is a techno and hardcore artist based in Romania, tracked on soundcheck, with 10 sets logged across Bucharest and Krakow. Often billed alongside NTHR, 1993 and Dominic Leix. Next up: Nether Club, Bucharest on Fri 11 Sept.
+Gheordu is a techno and hardcore artist based in Romania, tracked on soundcheck, with 10 sets logged across Bucharest and Krakow. Often billed alongside NTHR, 1993 and Dominic Leix. Next up: control, Bucharest on Sat 19 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 11 Sept 2026 | Nether Club | Bucharest |
 | Sat, 19 Sept 2026 | control | Bucharest |
 
 ## Recently played

@@ -1,14 +1,13 @@
 # Culture Box
 
-Culture Box is a music venue in Copenhagen with 20 upcoming nights listed on soundcheck as of Sat, 12 Sept 2026; the next is "ANII / Aurora & Mane Maid / ULDΛLL / Vibecast: AriOn / ROPO" on Fri, 11 Sept 2026.
+Culture Box is a music venue in Copenhagen with 19 upcoming nights listed on soundcheck as of Sat, 12 Sept 2026; the next is "Marius Lehnert / Eski / Adapt / StefAir / LELE / Ivan Ibarra B2B Sheik" on Sat, 12 Sept 2026.
 
-Culture Box is a music venue in Copenhagen listed on soundcheck. 20 upcoming nights, with line-ups including ADAPT (DK), Aerocell, Aio and Aja Gulris and 2 more. Browse upcoming dates, start times and who's playing. Kronprinsessegade 54; Copenhagen K. 1306; Denmark.
+Culture Box is a music venue in Copenhagen listed on soundcheck. 19 upcoming nights, with line-ups including ADAPT (DK), Aerocell, Aio and Aja Gulris and 2 more. Browse upcoming dates, start times and who's playing. Kronprinsessegade 54; Copenhagen K. 1306; Denmark.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 11 Sept 2026 | ANII / Aurora & Mane Maid / ULDΛLL / Vibecast: AriOn / ROPO | ANII, AriOn, ROPO, ULDΛLL |
 | Sat, 12 Sept 2026 | Marius Lehnert / Eski / Adapt / StefAir / LELE / Ivan Ibarra B2B Sheik | ADAPT (DK), Eski, Ivan Ibarra, Marius Lehnert, Sheik |
 | Fri, 18 Sept 2026 | Biesmans / Kawun / Tamara / Fluid Sound Collective | Biesmans, Eva Claudia, KLENA, Kawun, Kirakingkong, Prom Night, Sakena Ali, Tamara, Wille |
 | Sat, 19 Sept 2026 | What Happens: 4 Decades of Tim Andresen + Friends | Gerssein, NILU, Shansen, Thor Calin, Tim Andresen |
@@ -18,6 +17,7 @@ Culture Box is a music venue in Copenhagen listed on soundcheck. 20 upcoming nig
 | Sat, 3 Oct 2026 | SHAKTU & MEOKO: Cosmina / Josefina Tapia / Ana Karla / Christina Evangelista / YOON | Ana Karla, Christina Evangelista, Cosmina, Josefina Tapia (2), YOON |
 | Fri, 9 Oct 2026 | Unravel: Aio / NAYZ / Safe Spacers / GALATIUS / B. GOODE | Aio, Safe Spacers |
 | Sat, 10 Oct 2026 | Roll As One: YOZÉ / avoN / UBER KNAST / Sóltmänn / Ziggy Stardubb / Aerocell B2B HIGHL4ND3R | Aerocell, UBER KNAST, YOZÉ, Ziggy Stardubb, avoN |
+| Fri, 16 Oct 2026 | Chich / Kallax / Rexxx M / The Gathering: SHK / GeorgeBox / Georgeous / Dani Panda / ALX | Chich, Kallax, Rexxx M |
 
 ## Address
 

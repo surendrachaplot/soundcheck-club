@@ -1,14 +1,13 @@
 # MFX (1)
 
-MFX (1) is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Coco Boule, Berlin on Fri, 11 Sept 2026.
+MFX (1) is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Club der Visionaere, Berlin on Tue, 15 Sept 2026.
 
-MFX (1) is a house and techno artist based in Germany, tracked on soundcheck, with 25 sets logged across Berlin, Leipzig, Munich and Warsaw. Often billed alongside theories, metaverde and Menzel. Next up: Coco Boule, Berlin on Fri 11 Sept.
+MFX (1) is a house and techno artist based in Germany, tracked on soundcheck, with 25 sets logged across Berlin, Leipzig, Munich and Warsaw. Often billed alongside theories, metaverde and Menzel. Next up: Club der Visionaere, Berlin on Tue 15 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 11 Sept 2026 | Coco Boule | Berlin |
 | Tue, 15 Sept 2026 | Club der Visionaere | Berlin |
 | Sat, 3 Oct 2026 | Monarch | Berlin |
 

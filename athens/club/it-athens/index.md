@@ -1,14 +1,13 @@
 # IT Athens
 
-IT Athens is a music venue in Athens with 10 upcoming nights listed on soundcheck as of Sat, 12 Sept 2026; the next is "The Goa Odyssey W/ Greg Staikos" on Fri, 11 Sept 2026.
+IT Athens is a music venue in Athens with 9 upcoming nights listed on soundcheck as of Sat, 12 Sept 2026; the next is "Echoes 01: Indoor Edition" on Sat, 12 Sept 2026.
 
-IT Athens is a music venue in Athens listed on soundcheck. 10 upcoming nights, with line-ups including 16G., Dom K, Jacopo Sb and LEFTYT and 2 more. Browse upcoming dates, start times and who's playing. Solomou 30 and Mpotasi 9 Street, Athens,10682.
+IT Athens is a music venue in Athens listed on soundcheck. 9 upcoming nights, with line-ups including 16G., Dom K, Jacopo Sb and LEFTYT and 2 more. Browse upcoming dates, start times and who's playing. Solomou 30 and Mpotasi 9 Street, Athens,10682.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 11 Sept 2026 | The Goa Odyssey W/ Greg Staikos |  |
 | Sat, 12 Sept 2026 | Echoes 01: Indoor Edition |  |
 | Fri, 18 Sept 2026 | After Dark: Red Room by Elegrand | 16G., Dom K, NEFARIOUS |
 | Sat, 19 Sept 2026 | KINETICA: SEASON OPENING | LEFTYT, R4ST |

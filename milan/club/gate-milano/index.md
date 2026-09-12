@@ -1,14 +1,13 @@
 # Gate Milano
 
-Gate Milano is a music venue in Milan with 18 upcoming nights listed on soundcheck as of Sat, 12 Sept 2026; the next is "PLASMA: CLTX & Vendex" on Fri, 11 Sept 2026.
+Gate Milano is a music venue in Milan with 19 upcoming nights listed on soundcheck as of Sat, 12 Sept 2026; the next is "Biscotto: BLANKA & Quelza" on Fri, 18 Sept 2026.
 
-Gate Milano is a music venue in Milan listed on soundcheck. 18 upcoming nights, with line-ups including Alex Akashi, ANEM1, ANKKH and ANNĒ and 2 more. Browse upcoming dates, start times and who's playing. Via Valtellina, 21, 20159 Milano MI.
+Gate Milano is a music venue in Milan listed on soundcheck. 19 upcoming nights, with line-ups including Alex Akashi, ANEM1, ANNĒ and Ben Eidani and 2 more. Browse upcoming dates, start times and who's playing. Via Valtellina, 21, 20159 Milano MI.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 11 Sept 2026 | PLASMA: CLTX & Vendex | ANKKH, CLTX, Vendex |
 | Fri, 18 Sept 2026 | Biscotto: BLANKA & Quelza | BLANKA, Quelza, Yas Reven |
 | Sat, 19 Sept 2026 | Novocaine+ presents BIRDS | Ben Eidani, Flaiv Đarkø |
 | Fri, 25 Sept 2026 | Kobosil | HEMPTOTE, Kobosil, Pura Solenne |
@@ -18,6 +17,7 @@ Gate Milano is a music venue in Milan listed on soundcheck. 18 upcoming nights, 
 | Fri, 9 Oct 2026 | ØTTA & Pegassi | Pegassi, RESA UTOPICA, ØTTA |
 | Fri, 9 Oct 2026 | ØTTA & Pegassi | Pegassi, RESA UTOPICA, ØTTA |
 | Fri, 16 Oct 2026 | Nikolina & KNTRLVRLST | KNTRLVRLST, PACKAPUNCH909 |
+| Fri, 23 Oct 2026 | Ueberrest & In Verruf | In Verruf, Ueberrest |
 
 ## Address
 

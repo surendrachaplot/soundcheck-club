@@ -1,14 +1,13 @@
 # Oscar Osorio
 
-Oscar Osorio is a Hip-Hop and R&B artist with 6 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Club Leidse, Amsterdam on Fri, 11 Sept 2026.
+Oscar Osorio is a Hip-Hop and R&B artist with 5 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Club Leidse, Amsterdam on Sat, 12 Sept 2026.
 
-Oscar Osorio is a hip-hop and r&b artist tracked on soundcheck, with 50 sets logged across Amsterdam, Losangeles and Sandiego. Often billed alongside Rishi Romero, DJ LIGMA and Daff. Next up: Club Leidse, Amsterdam on Fri 11 Sept.
+Oscar Osorio is a hip-hop and r&b artist tracked on soundcheck, with 50 sets logged across Amsterdam, Losangeles and Sandiego. Often billed alongside Rishi Romero, DJ LIGMA and Daff. Next up: Club Leidse, Amsterdam on Sat 12 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 11 Sept 2026 | Club Leidse | Amsterdam |
 | Sat, 12 Sept 2026 | Club Leidse | Amsterdam |
 | Sat, 12 Sept 2026 | The Airliner | Los Angeles |
 | Fri, 18 Sept 2026 | Club Leidse | Amsterdam |

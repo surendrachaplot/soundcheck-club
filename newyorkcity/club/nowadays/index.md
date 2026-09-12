@@ -1,14 +1,13 @@
 # Nowadays
 
-Nowadays is a music venue in New York City with 40 upcoming nights listed on soundcheck as of Sat, 12 Sept 2026; the next is "Jyoty All Night" on Fri, 11 Sept 2026.
+Nowadays is a music venue in New York City with 39 upcoming nights listed on soundcheck as of Sat, 12 Sept 2026; the next is "Nonstop: Analog Soul, Chee Shimizu, John Talabot, Kim Anh, O.BEE" on Sat, 12 Sept 2026.
 
-Nowadays is a music venue in Newyorkcity listed on soundcheck. 40 upcoming nights, with line-ups including 1tbsp, 5ive, LYDO and MORENXXX and 2 more. Browse upcoming dates, start times and who's playing. 56-06 Cooper Ave. Ridgewood, NY 11385 USA.
+Nowadays is a music venue in Newyorkcity listed on soundcheck. 39 upcoming nights, with line-ups including 1tbsp, 5ive, LYDO and MORENXXX and 2 more. Browse upcoming dates, start times and who's playing. 56-06 Cooper Ave. Ridgewood, NY 11385 USA.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 11 Sept 2026 | Jyoty All Night | Jyoty |
 | Sat, 12 Sept 2026 | Nonstop: Analog Soul, Chee Shimizu, John Talabot, Kim Anh, O.BEE | Analog Soul, Chee Shimizu, John Talabot, Kim Anh, O.BEE |
 | Sat, 12 Sept 2026 | Moon Tower: Lebip, Pizza.net, Stewey Decimal, Unfurl Earl | Lebip, Stewey Decimal |
 | Sun, 13 Sept 2026 | Mister Sunday: Theo Parrish Takeover | Theo Parrish |
@@ -18,6 +17,7 @@ Nowadays is a music venue in Newyorkcity listed on soundcheck. 40 upcoming night
 | Fri, 18 Sept 2026 | Label Night: Thinner Groove with Powder, 5ive & CZ Wang | 5ive, CZ Wang, Powder |
 | Sat, 19 Sept 2026 | Let's Dance Brooklyn x UPLIFTED: Season 13 Kick-Off + Back 2 Skool Edition | Ali Coleman, Bridge (NY) |
 | Sat, 19 Sept 2026 | Nonstop: Batu, DJ Masda, JASSS b2b MORENXXX, Mariposa, Roza Terenzi, Vlada b2b Vaahzer | Batu, DJ Masda, JASSS, MORENXXX, Mariposa, Max Vaahs, Roza Terenzi, Vaahzer, Vlada |
+| Sun, 20 Sept 2026 | Mister Sunday: Sedef Adasï Takeover | Sedef Adasï |
 
 ## Address
 

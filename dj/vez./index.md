@@ -1,14 +1,13 @@
 # VEZ.
 
-VEZ. is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at TBA - Warehouse Location , Boston on Fri, 11 Sept 2026.
+VEZ. is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Sat, 12 Sept 2026, next at TBA, Boston on Thu, 8 Oct 2026.
 
-VEZ. is a techno and trance artist tracked on soundcheck, with 12 sets logged across Boston and Newyorkcity. Often billed alongside DAIYAH, Halcion and Poochie. Next up: TBA - Warehouse Location , Boston on Fri 11 Sept.
+VEZ. is a techno and trance artist tracked on soundcheck, with 12 sets logged across Boston and Newyorkcity. Often billed alongside DAIYAH, Halcion and Poochie. Next up: TBA, Boston on Thu 8 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 11 Sept 2026 | TBA - Warehouse Location  | Boston |
 | Thu, 8 Oct 2026 | TBA | Boston |
 
 ## Recently played

@@ -1,14 +1,13 @@
 # Glamorama
 
-Glamorama is a music venue in Melbourne with 8 upcoming nights listed on soundcheck as of Sat, 12 Sept 2026; the next is "Interval - Deaf Toucan + Overlay Courtyard Takeover" on Fri, 11 Sept 2026.
+Glamorama is a music venue in Melbourne with 7 upcoming nights listed on soundcheck as of Sat, 12 Sept 2026; the next is "Sasha Fern at Glamorama Saturdays" on Sat, 12 Sept 2026.
 
-Glamorama is a music venue in Melbourne listed on soundcheck. 8 upcoming nights, with line-ups including Acid Jacks, BETHANY (1), CHARBINKS and Deaf Toucan and 2 more. Browse upcoming dates, start times and who's playing. 393 Brunswick street, Fitzroy, Victoria 3065.
+Glamorama is a music venue in Melbourne listed on soundcheck. 7 upcoming nights, with line-ups including Acid Jacks, BETHANY (1), CHARBINKS and dozie (uk) and 2 more. Browse upcoming dates, start times and who's playing. 393 Brunswick street, Fitzroy, Victoria 3065.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 11 Sept 2026 | Interval - Deaf Toucan + Overlay Courtyard Takeover | Deaf Toucan, STAGEFRIGHT |
 | Sat, 12 Sept 2026 | Sasha Fern at Glamorama Saturdays | BETHANY (1), Matt Radovich, Slumdog |
 | Fri, 18 Sept 2026 | Interval - Nai + Friends [3 hours] |  |
 | Sat, 19 Sept 2026 | dozie at Glamorama Saturdays | Jo Christy, Lost Memories, dozie (uk) |

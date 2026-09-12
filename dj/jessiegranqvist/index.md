@@ -1,14 +1,13 @@
 # Jessie Granqvist
 
-Jessie Granqvist is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at BAR15, Stockholm on Fri, 11 Sept 2026.
+Jessie Granqvist is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at OHM, Berlin on Thu, 17 Sept 2026.
 
-Jessie Granqvist is a techno and house artist based in Sweden, tracked on soundcheck, with 88 sets logged across Amsterdam, Berlin, Istanbul and Lisbon and 6 more. Often billed alongside Maris Shilton, Anthony Linell and Evigt Mörker. Next up: BAR15, Stockholm on Fri 11 Sept.
+Jessie Granqvist is a techno and house artist based in Sweden, tracked on soundcheck, with 88 sets logged across Amsterdam, Berlin, Istanbul and Lisbon and 6 more. Often billed alongside Maris Shilton, Anthony Linell and Evigt Mörker. Next up: OHM, Berlin on Thu 17 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 11 Sept 2026 | BAR15 | Stockholm |
 | Thu, 17 Sept 2026 | OHM | Berlin |
 | Fri, 25 Sept 2026 | Slaktkyrkan | Stockholm |
 

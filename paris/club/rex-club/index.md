@@ -1,14 +1,13 @@
 # Rex Club
 
-Rex Club is a music venue in Paris with 19 upcoming nights listed on soundcheck as of Sat, 12 Sept 2026; the next is "Orange Crush presents: LAMALICE (Live), Mariiin, Rēve" on Fri, 11 Sept 2026.
+Rex Club is a music venue in Paris with 18 upcoming nights listed on soundcheck as of Sat, 12 Sept 2026; the next is "Toy Tonics: Cody Currie, Kapote, geneva" on Sat, 12 Sept 2026.
 
-Rex Club is a music venue in Paris listed on soundcheck. 19 upcoming nights, with line-ups including 2ManyDJs, Mariiin, Anja Sugar and Antal and 2 more. Browse upcoming dates, start times and who's playing. 5 boulevard Poissonnière; 75002; Paris; France.
+Rex Club is a music venue in Paris listed on soundcheck. 18 upcoming nights, with line-ups including 2ManyDJs, Anja Sugar, Antal and Canelle Doublekick and 2 more. Browse upcoming dates, start times and who's playing. 5 boulevard Poissonnière; 75002; Paris; France.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 11 Sept 2026 | Orange Crush presents: LAMALICE (Live), Mariiin, Rēve | LAMALICE, Mariiin |
 | Sat, 12 Sept 2026 | Toy Tonics: Cody Currie, Kapote, geneva | Cody Currie, Kapote, geneva |
 | Sun, 13 Sept 2026 | LEGENDS: Kerri Chandler & DJ Deep | DJ Deep, Kerri Chandler |
 | Wed, 16 Sept 2026 | Vortex Invite: FUMI, VICØ, Keyklau | FUMI, Keyklau, VICØ |
@@ -18,6 +17,7 @@ Rex Club is a music venue in Paris listed on soundcheck. 19 upcoming nights, wit
 | Wed, 23 Sept 2026 | Atria x Cluster: Crd, Eskø, Infeed, Soraä | Soraä |
 | Thu, 24 Sept 2026 | Starlight - 25th Anniversary: The Supermen Lovers, Matteo Diop, Mayou Picchu | Matteo Diop, The Supermen Lovers |
 | Fri, 25 Sept 2026 | Charlotte Curates: Charlotte, DJ Hell | Charlotte (FR), DJ Hell |
+| Sat, 26 Sept 2026 | VÉNUS CLUB INVITE Elkka | Elkka, Sainte Exp, Vickies |
 
 ## Address
 

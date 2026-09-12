@@ -1,14 +1,13 @@
 # dj.zamocno
 
-dj.zamocno is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Plażówka Saska, Warsaw on Fri, 11 Sept 2026.
+dj.zamocno is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 12 Sept 2026, next at K-Bar Powiśle, Warsaw on Sat, 10 Oct 2026.
 
-dj.zamocno is a techno and house artist based in Poland, tracked on soundcheck, with 70 sets logged across Krakow and Warsaw. Often billed alongside Abrew, toutestmagnifique and DOMEL. Next up: Plażówka Saska, Warsaw on Fri 11 Sept.
+dj.zamocno is a techno and house artist based in Poland, tracked on soundcheck, with 70 sets logged across Krakow and Warsaw. Often billed alongside Abrew, toutestmagnifique and DOMEL. Next up: K-Bar Powiśle, Warsaw on Sat 10 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 11 Sept 2026 | Plażówka Saska | Warsaw |
 | Sat, 10 Oct 2026 | K-Bar Powiśle | Warsaw |
 
 ## Recently played

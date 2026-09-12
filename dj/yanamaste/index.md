@@ -1,14 +1,13 @@
 # Yanamaste
 
-Yanamaste is a Techno and House artist with 23 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Schrotty, Cologne on Fri, 11 Sept 2026.
+Yanamaste is a Techno and House artist with 22 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Else, Berlin on Sat, 12 Sept 2026.
 
-Yanamaste is a techno and house artist tracked on soundcheck, with 227 sets logged across Amsterdam, Athens, Barcelona and Basel and 57 more. Often billed alongside Alarico, Chlär and Grace Dahl. Next up: Schrotty, Cologne on Fri 11 Sept.
+Yanamaste is a techno and house artist tracked on soundcheck, with 227 sets logged across Amsterdam, Athens, Barcelona and Basel and 57 more. Often billed alongside Alarico, Chlär and Grace Dahl. Next up: Else, Berlin on Sat 12 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 11 Sept 2026 | Schrotty | Cologne |
 | Sat, 12 Sept 2026 | Else | Berlin |
 | Tue, 15 Sept 2026 | Amnesia Ibiza | Ibiza |
 | Thu, 17 Sept 2026 | The Bassement | Madrid |
@@ -20,6 +19,7 @@ Yanamaste is a techno and house artist tracked on soundcheck, with 227 sets logg
 | Fri, 2 Oct 2026 | TBA - Port of Belgrade | Belgrade |
 | Sat, 3 Oct 2026 | Klein Phönix | Istanbul |
 | Fri, 9 Oct 2026 | Kompass Klub | Ghent |
+| Sat, 24 Oct 2026 | Havenpark | Amsterdam |
 
 ## Recently played
 

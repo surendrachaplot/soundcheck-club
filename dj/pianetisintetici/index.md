@@ -1,14 +1,14 @@
 # Pianeti Sintetici
 
-Pianeti Sintetici is a Techno and Experimental artist with 2 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at TBA - San Francisco, San Francisco/Oakland on Fri, 18 Sept 2026.
+Pianeti Sintetici is a Techno and Experimental artist with 2 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at TBA - The Loom (2150 Livingston St, Oakland), San Francisco/Oakland on Fri, 18 Sept 2026.
 
-Pianeti Sintetici is a techno and experimental artist based in Italy, tracked on soundcheck, with 22 sets logged across Amsterdam, Barcelona, London and Lyon and 5 more. Often billed alongside ojoo, Konduku and Forest Drive West. Next up: TBA - San Francisco, Sanfrancisco on Fri 18 Sept.
+Pianeti Sintetici is a techno and experimental artist based in Italy, tracked on soundcheck, with 22 sets logged across Amsterdam, Barcelona, London and Lyon and 5 more. Often billed alongside ojoo, Konduku and Forest Drive West. Next up: TBA - The Loom (2150 Livingston St, Oakland), Sanfrancisco on Fri 18 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 18 Sept 2026 | TBA - San Francisco | San Francisco/Oakland |
+| Fri, 18 Sept 2026 | TBA - The Loom (2150 Livingston St, Oakland) | San Francisco/Oakland |
 | Fri, 23 Oct 2026 | De Thomaskerk | Amsterdam |
 
 ## Recently played

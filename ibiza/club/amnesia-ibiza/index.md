@@ -1,14 +1,13 @@
 # Amnesia Ibiza
 
-Amnesia Ibiza is a music venue in Ibiza with 26 upcoming nights listed on soundcheck as of Sat, 12 Sept 2026; the next is "Glitterbox" on Fri, 11 Sept 2026.
+Amnesia Ibiza is a music venue in Ibiza with 25 upcoming nights listed on soundcheck as of Sat, 12 Sept 2026; the next is "People From Ibiza" on Sat, 12 Sept 2026.
 
-Amnesia Ibiza is a music venue in Ibiza listed on soundcheck. 26 upcoming nights, with line-ups including Kepler, Adam Beyer, Adiel and Adrian Mills and 2 more. Browse upcoming dates, start times and who's playing. Ctra. Ibiza a San Antonio, Km 5, 07816 San Rafael, Ibiza.
+Amnesia Ibiza is a music venue in Ibiza listed on soundcheck. 25 upcoming nights, with line-ups including Kepler, Adam Beyer, Adiel and Adrian Mills and 2 more. Browse upcoming dates, start times and who's playing. Ctra. Ibiza a San Antonio, Km 5, 07816 San Rafael, Ibiza.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 11 Sept 2026 | Glitterbox | Barbara Tucker, Breakbot, Dimitri From Paris, Eats Everything, Irfane, Jamie Love, Krystal Klear, LEV (UK), Sam Karlson |
 | Sat, 12 Sept 2026 | People From Ibiza | CAAL, DJ Oliver, Les Schmitz, Mar-T |
 | Sun, 13 Sept 2026 | Pyramid | ANNĒ, Anitë, Francesco Del Garda, Ignez, Luciano, Marco Faraone, Nina Kraviz, Ricardo Villalobos, Saoirse |
 | Sun, 13 Sept 2026 | Pyramid: Luciano B2B Ricardo Villalobos | Luciano, Ricardo Villalobos |
@@ -18,6 +17,7 @@ Amnesia Ibiza is a music venue in Ibiza listed on soundcheck. 26 upcoming nights
 | Thu, 17 Sept 2026 | You&Me | Interplanetary Criminal, Josh Baker, L.P. Rhythm, LILI, Sosa |
 | Fri, 18 Sept 2026 | Glitterbox | Armand Van Helden, Dan Shake, Floorplan, Melvo Baptiste, Mousse T., Natasha Diggs, Riva Starr, Spiller |
 | Sat, 19 Sept 2026 | FAC51: The Haçienda | DJ Paulette, David Morales, Graeme Park, Innercity (BE), Mike Pickering, Todd Terry |
+| Sun, 20 Sept 2026 | Pyramid | Andres Campo, Cam Stockman, Charlie Sparks, Deborah De Luca, Demi Riquisimo, Fleur Shore, Josh Baker, Kolter, Luca Donzelli, Marco Faraone, Marsolo |
 
 ## Address
 

@@ -1,6 +1,6 @@
 # Elli Acula
 
-Elli Acula is a Techno and House artist with 7 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at TBA - Brussels, Brussels on Fri, 11 Sept 2026.
+Elli Acula is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at TBA - Brussels, Brussels on Fri, 11 Sept 2026.
 
 Elli Acula is a techno and house artist tracked on soundcheck, with 213 sets logged across Amsterdam, Athens, Barcelona and Basel and 57 more. Often billed alongside FJAAK, 999999999 and Anna Z.. Next up: TBA - Brussels, Brussels on Fri 11 Sept.
 
@@ -9,7 +9,6 @@ Elli Acula is a techno and house artist tracked on soundcheck, with 213 sets log
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 11 Sept 2026 | TBA - Brussels | Brussels |
-| Fri, 11 Sept 2026 | Laska V21 | Riga |
 | Fri, 18 Sept 2026 | Jaeger | Oslo |
 | Sun, 27 Sept 2026 | Hï Ibiza | Ibiza |
 | Fri, 2 Oct 2026 | Gate Milano | Milan |

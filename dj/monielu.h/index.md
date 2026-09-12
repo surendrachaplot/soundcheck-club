@@ -1,14 +1,13 @@
 # monielu.h
 
-monielu.h is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Numm, Tokyo on Fri, 11 Sept 2026.
+monielu.h is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 12 Sept 2026, next at Heavy Sick Zero, Tokyo on Sat, 26 Sept 2026.
 
-monielu.h is a house and techno artist based in Japan, tracked on soundcheck, with 105 sets logged across Tokyo. Often billed alongside RAHA, SUETSUGU and RYOHEI. Next up: Numm, Tokyo on Fri 11 Sept.
+monielu.h is a house and techno artist based in Japan, tracked on soundcheck, with 105 sets logged across Tokyo. Often billed alongside RAHA, SUETSUGU and RYOHEI. Next up: Heavy Sick Zero, Tokyo on Sat 26 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 11 Sept 2026 | Numm | Tokyo |
 | Sat, 26 Sept 2026 | Heavy Sick Zero | Tokyo |
 
 ## Recently played

@@ -1,6 +1,6 @@
 # Rebequita
 
-Rebequita is a Reggaeton and House artist with 2 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at main room, Paris on Thu, 10 Sept 2026.
+Rebequita is a Reggaeton and House artist with 1 upcoming club date listed on soundcheck as of Sat, 12 Sept 2026, next at main room, Paris on Thu, 10 Sept 2026.
 
 Rebequita is a reggaeton and house artist based in France, tracked on soundcheck, with 60 sets logged across Geneva, Losangeles, Lyon and Madrid and 3 more. Often billed alongside Naomi (FR), Bamao Yendé and Franssouax. Next up: main room, Paris on Thu 10 Sept.
 
@@ -9,7 +9,6 @@ Rebequita is a reggaeton and house artist based in France, tracked on soundcheck
 | Date | Venue | City |
 | --- | --- | --- |
 | Thu, 10 Sept 2026 | main room | Paris |
-| Fri, 11 Sept 2026 | Point Ephémère | Paris |
 
 ## Recently played
 

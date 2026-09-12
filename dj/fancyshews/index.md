@@ -1,14 +1,13 @@
 # Fancy Shews
 
-Fancy Shews is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Palais, London on Fri, 11 Sept 2026.
+Fancy Shews is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Club Cheek, London on Fri, 18 Sept 2026.
 
-Fancy Shews is a house and techno artist tracked on soundcheck, with 20 sets logged across Athens, Berlin, Brighton and Cardiff and 3 more. Often billed alongside FAFF, Angel D'lite and David Elimelech. Next up: Palais, London on Fri 11 Sept.
+Fancy Shews is a house and techno artist tracked on soundcheck, with 20 sets logged across Athens, Berlin, Brighton and Cardiff and 3 more. Often billed alongside FAFF, Angel D'lite and David Elimelech. Next up: Club Cheek, London on Fri 18 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 11 Sept 2026 | Palais | London |
 | Fri, 18 Sept 2026 | Club Cheek | London |
 | Sat, 3 Oct 2026 | Plex | Athens |
 

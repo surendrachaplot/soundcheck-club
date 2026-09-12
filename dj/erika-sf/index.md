@@ -9,7 +9,7 @@ erika (SF) is a club and techno artist based in United States of America, tracke
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 12 Sept 2026 | Club Six | San Francisco/Oakland |
-| Fri, 18 Sept 2026 | TBA - San Francisco | San Francisco/Oakland |
+| Fri, 18 Sept 2026 | TBA - The Loom (2150 Livingston St, Oakland) | San Francisco/Oakland |
 | Sat, 26 Sept 2026 | TBA - Pier 80 | San Francisco/Oakland |
 | Sun, 27 Sept 2026 | Public Works | San Francisco/Oakland |
 

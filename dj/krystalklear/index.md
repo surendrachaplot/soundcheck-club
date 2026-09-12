@@ -1,14 +1,13 @@
 # Krystal Klear
 
-Krystal Klear is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Amnesia Ibiza, Ibiza on Fri, 11 Sept 2026.
+Krystal Klear is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at DC-10, Ibiza on Mon, 28 Sept 2026.
 
-Krystal Klear is a house and techno artist tracked on soundcheck, with 113 sets logged across Amsterdam, Antwerp, Bali and Barcelona and 38 more. Often billed alongside Gerd Janson, Seth Troxler and Skream. Next up: Amnesia Ibiza, Ibiza on Fri 11 Sept.
+Krystal Klear is a house and techno artist tracked on soundcheck, with 113 sets logged across Amsterdam, Antwerp, Bali and Barcelona and 38 more. Often billed alongside Gerd Janson, Seth Troxler and Skream. Next up: DC-10, Ibiza on Mon 28 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 11 Sept 2026 | Amnesia Ibiza | Ibiza |
 | Mon, 28 Sept 2026 | DC-10 | Ibiza |
 | Sat, 7 Nov 2026 | Depot Mayfield | Manchester |
 

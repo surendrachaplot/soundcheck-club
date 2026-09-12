@@ -1,14 +1,13 @@
 # Radio Slave
 
-Radio Slave is a House and Techno artist with 6 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Jolene, Copenhagen on Fri, 11 Sept 2026.
+Radio Slave is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at House of Yes, New York City on Sat, 12 Sept 2026.
 
-Radio Slave is a house and techno artist tracked on soundcheck, with 117 sets logged across Amsterdam, Antwerp, Athens and Bali and 42 more. Often billed alongside Tal Fussman, Anja Schneider and DJ Minx. Next up: Jolene, Copenhagen on Fri 11 Sept.
+Radio Slave is a house and techno artist tracked on soundcheck, with 117 sets logged across Amsterdam, Antwerp, Athens and Bali and 42 more. Often billed alongside Tal Fussman, Anja Schneider and DJ Minx. Next up: House of Yes, Newyorkcity on Sat 12 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 11 Sept 2026 | Jolene | Copenhagen |
 | Sat, 12 Sept 2026 | House of Yes | New York City |
 | Sat, 19 Sept 2026 | Bikini Club | Barcelona |
 | Sat, 26 Sept 2026 | Frankhan Selectist | Istanbul |

@@ -1,14 +1,13 @@
 # Hannecart
 
-Hannecart is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Radio Radio, Amsterdam on Fri, 11 Sept 2026.
+Hannecart is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Openluchttheater Amersfoort, Amsterdam on Fri, 18 Sept 2026.
 
-Hannecart is a house and techno artist based in Dominican Republic, tracked on soundcheck, with 96 sets logged across Amsterdam, Athens, Berlin and Brussels and 5 more. Often billed alongside Reiss, Emvae and Kyra Khaldi. Next up: Radio Radio, Amsterdam on Fri 11 Sept.
+Hannecart is a house and techno artist based in Dominican Republic, tracked on soundcheck, with 96 sets logged across Amsterdam, Athens, Berlin and Brussels and 5 more. Often billed alongside Reiss, Emvae and Kyra Khaldi. Next up: Openluchttheater Amersfoort, Amsterdam on Fri 18 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 11 Sept 2026 | Radio Radio | Amsterdam |
 | Fri, 18 Sept 2026 | Openluchttheater Amersfoort | Amsterdam |
 | Sat, 24 Oct 2026 | Taets Art & Event Park | Amsterdam |
 | Sun, 25 Oct 2026 | Skatecafe | Amsterdam |

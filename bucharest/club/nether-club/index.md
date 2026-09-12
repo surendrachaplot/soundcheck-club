@@ -1,14 +1,13 @@
 # Nether Club
 
-Nether Club is a music venue in Bucharest with 8 upcoming nights listed on soundcheck as of Sat, 12 Sept 2026; the next is "THE DEVIL IS BACK2BACK w/ 1993 [ RÄV / IT ], NTHR, Thomas Rob, Gheordu, TIA, NIKITA" on Fri, 11 Sept 2026.
+Nether Club is a music venue in Bucharest with 7 upcoming nights listed on soundcheck as of Sat, 12 Sept 2026; the next is "some.techno@ Nether Club : blackout" on Sat, 12 Sept 2026.
 
-Nether Club is a music venue in Bucharest listed on soundcheck. 8 upcoming nights, with line-ups including 1993, CARMEN (RO), ALISTARM and AMEDEUS and 2 more. Browse upcoming dates, start times and who's playing. Calea Victoriei nr 48 50, București, Romania.
+Nether Club is a music venue in Bucharest listed on soundcheck. 7 upcoming nights, with line-ups including CARMEN (RO), ALISTARM, AMEDEUS and Amnesico and 2 more. Browse upcoming dates, start times and who's playing. Calea Victoriei nr 48 50, București, Romania.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 11 Sept 2026 | THE DEVIL IS BACK2BACK w/ 1993 [ RÄV / IT ], NTHR, Thomas Rob, Gheordu, TIA, NIKITA | 1993, Gheordu, NTHR, RÄV, Thomas Rob |
 | Sat, 12 Sept 2026 | some.techno@ Nether Club : blackout | ALISTARM, CARMEN (RO), Controlled Voltage, Thomas Rob |
 | Sun, 13 Sept 2026 | AFTERHOURS with badin b2b Cetateanu | Cetateanu |
 | Fri, 18 Sept 2026 | M.I.L.K feat. 2H34RTB34TS present HARD R3S3T | AMEDEUS, Amnesico, DA NA, GODINI, KATHERYNE, LVUR, Sandraz, Stefan Hernandez, Trancelate |

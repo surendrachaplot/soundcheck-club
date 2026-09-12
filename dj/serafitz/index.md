@@ -1,14 +1,13 @@
 # serafitz
 
-serafitz is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Floyd, Miami on Fri, 11 Sept 2026.
+serafitz is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 12 Sept 2026, next at Mana Wynwood, Miami on Fri, 16 Oct 2026.
 
-serafitz is a house and techno artist based in United States of America, tracked on soundcheck, with 21 sets logged across Miami. Often billed alongside Bort, Milo Ziro and CHAOS!. Next up: Floyd, Miami on Fri 11 Sept.
+serafitz is a house and techno artist based in United States of America, tracked on soundcheck, with 21 sets logged across Miami. Often billed alongside Bort, Milo Ziro and CHAOS!. Next up: Mana Wynwood, Miami on Fri 16 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 11 Sept 2026 | Floyd | Miami |
 | Fri, 16 Oct 2026 | Mana Wynwood | Miami |
 
 ## Recently played

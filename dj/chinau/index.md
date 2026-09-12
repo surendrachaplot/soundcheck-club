@@ -1,14 +1,13 @@
 # Chinau
 
-Chinau is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Djoon, Paris on Fri, 11 Sept 2026.
+Chinau is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Sat, 12 Sept 2026, next at La Java, Paris on Sat, 24 Oct 2026.
 
-Chinau is a house and disco artist tracked on soundcheck, with 84 sets logged across Amsterdam, Barcelona, Copenhagen and Geneva and 6 more. Often billed alongside Larry G, Knuckle G and Dielli. Next up: Djoon, Paris on Fri 11 Sept.
+Chinau is a house and disco artist tracked on soundcheck, with 84 sets logged across Amsterdam, Barcelona, Copenhagen and Geneva and 6 more. Often billed alongside Larry G, Knuckle G and Dielli. Next up: La Java, Paris on Sat 24 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 11 Sept 2026 | Djoon | Paris |
 | Sat, 24 Oct 2026 | La Java | Paris |
 
 ## Recently played

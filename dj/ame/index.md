@@ -1,14 +1,13 @@
 # Âme
 
-Âme is a Techno and House artist with 14 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Budapest Park, Budapest on Fri, 11 Sept 2026.
+Âme is a Techno and House artist with 13 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Volt Club Milano, Milan on Sat, 12 Sept 2026.
 
-Âme is a techno and house artist tracked on soundcheck, with 354 sets logged across Amsterdam, Antwerp, Athens and Bali and 59 more. Often billed alongside Trikk, Jimi Jules and Dixon. Next up: Budapest Park, Budapest on Fri 11 Sept.
+Âme is a techno and house artist tracked on soundcheck, with 354 sets logged across Amsterdam, Antwerp, Athens and Bali and 59 more. Often billed alongside Trikk, Jimi Jules and Dixon. Next up: Volt Club Milano, Milan on Sat 12 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 11 Sept 2026 | Budapest Park | Budapest |
 | Sat, 12 Sept 2026 | Volt Club Milano | Milan |
 | Fri, 18 Sept 2026 | Sunset Park Rooftop | New York City |
 | Fri, 18 Sept 2026 | Public Works | San Francisco/Oakland |
@@ -20,6 +19,7 @@
 | Fri, 23 Oct 2026 | Berghain / Panorama Bar / Säule | Berlin |
 | Sat, 24 Oct 2026 | NDSM Scheepsbouwloods | Amsterdam |
 | Fri, 30 Oct 2026 | Factory Town | Miami |
+| Sat, 14 Nov 2026 | TBA - Parque de la Ciudad, CABA | Buenos Aires |
 
 ## Recently played
 

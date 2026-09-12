@@ -1,14 +1,13 @@
 # Paolo Ferrara
 
-Paolo Ferrara is a Techno and Hardcore artist with 3 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Circuit de Barcelona - Catalunya, Barcelona on Fri, 11 Sept 2026.
+Paolo Ferrara is a Techno and Hardcore artist with 2 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Z Maruyama, Tokyo on Fri, 18 Sept 2026.
 
-Paolo Ferrara is a techno and hardcore artist tracked on soundcheck, with 84 sets logged across Amsterdam, Athens, Barcelona and Basel and 39 more. Often billed alongside Lorenzo Raganzini, Alignment and BIIA. Next up: Circuit de Barcelona - Catalunya, Barcelona on Fri 11 Sept.
+Paolo Ferrara is a techno and hardcore artist tracked on soundcheck, with 84 sets logged across Amsterdam, Athens, Barcelona and Basel and 39 more. Often billed alongside Lorenzo Raganzini, Alignment and BIIA. Next up: Z Maruyama, Tokyo on Fri 18 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 11 Sept 2026 | Circuit de Barcelona - Catalunya | Barcelona |
 | Fri, 18 Sept 2026 | Z Maruyama | Tokyo |
 | Fri, 6 Nov 2026 | E1 | London |
 

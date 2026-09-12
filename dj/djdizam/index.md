@@ -1,14 +1,13 @@
 # Dj Dizam
 
-Dj Dizam is a Hip-Hop and House artist with 2 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Carmelita Club, Mexico City on Fri, 11 Sept 2026.
+Dj Dizam is a Hip-Hop and House artist with 1 upcoming club date listed on soundcheck as of Sat, 12 Sept 2026, next at TBA - Mimi´s Disco - Reforma 333 8th Floor, Mexico City on Fri, 18 Sept 2026.
 
-Dj Dizam is a hip-hop and house artist based in United States of America, tracked on soundcheck, with 70 sets logged across Mexicocity and Newyorkcity. Often billed alongside Black Daria, LOVERGRL and Bastian Bell. Next up: Carmelita Club, Mexicocity on Fri 11 Sept.
+Dj Dizam is a hip-hop and house artist based in United States of America, tracked on soundcheck, with 70 sets logged across Mexicocity and Newyorkcity. Often billed alongside Black Daria, LOVERGRL and Bastian Bell. Next up: TBA - Mimi´s Disco - Reforma 333 8th Floor, Mexicocity on Fri 18 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 11 Sept 2026 | Carmelita Club | Mexico City |
 | Fri, 18 Sept 2026 | TBA - Mimi´s Disco - Reforma 333 8th Floor | Mexico City |
 
 ## Recently played

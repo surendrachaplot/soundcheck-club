@@ -1,14 +1,13 @@
 # E1
 
-E1 is a music venue in London with 42 upcoming nights listed on soundcheck as of Sat, 12 Sept 2026; the next is "ALIVE: SNTS" on Fri, 11 Sept 2026.
+E1 is a music venue in London with 41 upcoming nights listed on soundcheck as of Sat, 12 Sept 2026; the next is "Portääl x Tragedie: Teenage Mutants" on Sat, 12 Sept 2026.
 
-E1 is a music venue in London listed on soundcheck. 42 upcoming nights, with line-ups including 2HOT2PLAY, 8KAYS, Paolo Ferrara and ACOR and 2 more. Browse upcoming dates, start times and who's playing. 110 Pennington Street, Wapping, London E1W 2BB.
+E1 is a music venue in London listed on soundcheck. 41 upcoming nights, with line-ups including 2HOT2PLAY, 8KAYS, Paolo Ferrara and ACOR and 2 more. Browse upcoming dates, start times and who's playing. 110 Pennington Street, Wapping, London E1W 2BB.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 11 Sept 2026 | ALIVE: SNTS | AVCI, AnD, MARIEEEA, SNTS |
 | Sat, 12 Sept 2026 | Portääl x Tragedie: Teenage Mutants | Earl the Kid, Florenzo Hiäät, Mattia Saviolo, Teenage Mutants |
 | Sat, 12 Sept 2026 | Bass Face // DNB // 360° BOILER ROOM +*VERY SPECIAL GUEST* |  |
 | Sat, 12 Sept 2026 | XXL DNB – 140, BASS, GRIME, MINIMAL, BREAKS, ROLLERS –  |  |
@@ -18,6 +17,7 @@ E1 is a music venue in London listed on soundcheck. 42 upcoming nights, with lin
 | Sat, 19 Sept 2026 | I Will Be There In The Asylum: Coldsteps Birthday | Beezo, DJ Decimal, Pioneer, Shenin Amara, Supa D |
 | Fri, 25 Sept 2026 | ALIVE: DYEN (ALL NIGHT LONG) + LeStrange | DYEN, LeStrange |
 | Fri, 25 Sept 2026 | The Warehouse Rave |  |
+| Sat, 26 Sept 2026 | Organic presents Solardo  powered by PATRÓN | Solardo |
 
 ## Address
 

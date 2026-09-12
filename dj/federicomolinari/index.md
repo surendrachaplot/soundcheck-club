@@ -1,14 +1,13 @@
 # Federico Molinari
 
-Federico Molinari is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at teller, Seoul on Fri, 11 Sept 2026.
+Federico Molinari is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at BAR Inc, Osaka on Sun, 13 Sept 2026.
 
-Federico Molinari is a house and techno artist tracked on soundcheck, with 70 sets logged across Athens, Austin, Bali and Berlin and 10 more. Often billed alongside Nekes, Alvaro Medina and Dorian Paic. Next up: teller, Seoul on Fri 11 Sept.
+Federico Molinari is a house and techno artist tracked on soundcheck, with 70 sets logged across Athens, Austin, Bali and Berlin and 10 more. Often billed alongside Nekes, Alvaro Medina and Dorian Paic. Next up: BAR Inc, Osaka on Sun 13 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 11 Sept 2026 | teller | Seoul |
 | Sun, 13 Sept 2026 | BAR Inc | Osaka |
 | Thu, 24 Sept 2026 | Club Malasaña | Madrid |
 

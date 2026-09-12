@@ -1,14 +1,13 @@
 # Vieze Asbak
 
-Vieze Asbak is a Techno and Hardcore artist with 16 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Universe Athens, Athens on Fri, 11 Sept 2026.
+Vieze Asbak is a Techno and Hardcore artist with 15 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at TBA, Los Angeles on Sun, 27 Sept 2026.
 
-Vieze Asbak is a techno and hardcore artist tracked on soundcheck, with 104 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 41 more. Often billed alongside KLOFAMA, Restricted and KARAH. Next up: Universe Athens, Athens on Fri 11 Sept.
+Vieze Asbak is a techno and hardcore artist tracked on soundcheck, with 104 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 41 more. Often billed alongside KLOFAMA, Restricted and KARAH. Next up: TBA, Losangeles on Sun 27 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 11 Sept 2026 | Universe Athens | Athens |
 | Sun, 27 Sept 2026 | TBA | Los Angeles |
 | Fri, 2 Oct 2026 | E1 | London |
 | Sat, 3 Oct 2026 | Klub Progresja | Warsaw |
@@ -20,6 +19,7 @@ Vieze Asbak is a techno and hardcore artist tracked on soundcheck, with 104 sets
 | Sat, 31 Oct 2026 | Maassilo | Rotterdam |
 | Sat, 7 Nov 2026 | Palais 12 / Paleis 12 (ING Arena) | Brussels |
 | Fri, 13 Nov 2026 | Phantom, Paris | Paris |
+| Mon, 16 Nov 2026 | Roxy | Prague |
 
 ## Recently played
 

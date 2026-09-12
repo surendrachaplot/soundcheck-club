@@ -1,14 +1,13 @@
 # The Lower Third
 
-The Lower Third is a music venue in London with 11 upcoming nights listed on soundcheck as of Sat, 12 Sept 2026; the next is "bees & honey" on Fri, 11 Sept 2026.
+The Lower Third is a music venue in London with 10 upcoming nights listed on soundcheck as of Sat, 12 Sept 2026; the next is "Cold Blue Open to close set" on Sat, 3 Oct 2026.
 
-The Lower Third is a music venue in London listed on soundcheck. 11 upcoming nights, with line-ups including bees & honey, Bronka, CHELO and Harriet Jaxxon and 2 more. Browse upcoming dates, start times and who's playing. 26 Denmark St, London, WC2H 8NJ.
+The Lower Third is a music venue in London listed on soundcheck. 10 upcoming nights, with line-ups including Bronka, CHELO, Harriet Jaxxon and Shadobeni and 1 more. Browse upcoming dates, start times and who's playing. 26 Denmark St, London, WC2H 8NJ.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 11 Sept 2026 | bees & honey | bees & honey |
 | Sat, 3 Oct 2026 | Cold Blue Open to close set |  |
 | Sat, 3 Oct 2026 | Harriet Jaxxon presents 'Deckades' London | Harriet Jaxxon |
 | Sat, 10 Oct 2026 | CHELO - London | CHELO |
@@ -18,6 +17,7 @@ The Lower Third is a music venue in London listed on soundcheck. 11 upcoming nig
 | Mon, 9 Nov 2026 | Marla Kether |  |
 | Sat, 14 Nov 2026 | Supa Dupa Fly: R'n'B LDN Day Party |  |
 | Sat, 14 Nov 2026 | Shingo Nakamura | Shingo Nakamura |
+| Sat, 5 Dec 2026 | Shadobeni: All Night Long | Shadobeni |
 
 ## Address
 

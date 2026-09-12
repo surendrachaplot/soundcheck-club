@@ -1,14 +1,13 @@
 # Charlotte (FR)
 
-Charlotte (FR) is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Jolene Downtown Miami, Miami on Fri, 11 Sept 2026.
+Charlotte (FR) is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Rex Club, Paris on Fri, 25 Sept 2026.
 
-Charlotte (FR) is a house and techno artist tracked on soundcheck, with 98 sets logged across Amsterdam, Barcelona, Berlin and Birmingham and 26 more. Often billed alongside tINI, ABI (FR) and AMEX (UK). Next up: Jolene Downtown Miami, Miami on Fri 11 Sept.
+Charlotte (FR) is a house and techno artist tracked on soundcheck, with 98 sets logged across Amsterdam, Barcelona, Berlin and Birmingham and 26 more. Often billed alongside tINI, ABI (FR) and AMEX (UK). Next up: Rex Club, Paris on Fri 25 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 11 Sept 2026 | Jolene Downtown Miami | Miami |
 | Fri, 25 Sept 2026 | Rex Club | Paris |
 | Sat, 7 Nov 2026 | Seaseaclub Barcelona | Barcelona |
 

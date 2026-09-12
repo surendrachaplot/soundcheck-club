@@ -1,14 +1,13 @@
 # Frankyeffe
 
-Frankyeffe is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Spazio Cavea, Rome on Fri, 11 Sept 2026.
+Frankyeffe is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Sat, 12 Sept 2026, next at The Queen Mary, Los Angeles on Fri, 20 Nov 2026.
 
-Frankyeffe is a techno and trance artist tracked on soundcheck, with 17 sets logged across Berlin, Cologne, Frankfurt and Geneva and 7 more. Often billed alongside ASK:ME, Anna Tur and CASSÖ. Next up: Spazio Cavea, Rome on Fri 11 Sept.
+Frankyeffe is a techno and trance artist tracked on soundcheck, with 17 sets logged across Berlin, Cologne, Frankfurt and Geneva and 7 more. Often billed alongside ASK:ME, Anna Tur and CASSÖ. Next up: The Queen Mary, Losangeles on Fri 20 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 11 Sept 2026 | Spazio Cavea | Rome |
 | Fri, 20 Nov 2026 | The Queen Mary | Los Angeles |
 
 ## Recently played

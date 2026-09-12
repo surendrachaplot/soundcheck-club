@@ -1,14 +1,13 @@
 # Radical Redemption
 
-Radical Redemption is a Hardcore and Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Epic Prague, Prague on Fri, 11 Sept 2026.
+Radical Redemption is a Hardcore and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 12 Sept 2026, next at Klub Progresja, Warsaw on Sat, 19 Sept 2026.
 
-Radical Redemption is a hardcore and techno artist based in Netherlands, tracked on soundcheck, with 16 sets logged across Amsterdam, Antwerp, Cologne and Edinburgh and 9 more. Often billed alongside Act of Rage, Malice and Yeyo. Next up: Epic Prague, Prague on Fri 11 Sept.
+Radical Redemption is a hardcore and techno artist based in Netherlands, tracked on soundcheck, with 16 sets logged across Amsterdam, Antwerp, Cologne and Edinburgh and 9 more. Often billed alongside Act of Rage, Malice and Yeyo. Next up: Klub Progresja, Warsaw on Sat 19 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 11 Sept 2026 | Epic Prague | Prague |
 | Sat, 19 Sept 2026 | Klub Progresja | Warsaw |
 
 ## Recently played

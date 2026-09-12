@@ -1,14 +1,13 @@
 # Ben Techy
 
-Ben Techy is a Techno and Industrial artist with 9 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Circuit de Barcelona - Catalunya, Barcelona on Fri, 11 Sept 2026.
+Ben Techy is a Techno and Industrial artist with 8 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Essigfabrik, Cologne on Sat, 12 Sept 2026.
 
-Ben Techy is a techno and industrial artist based in United Kingdom, tracked on soundcheck, with 39 sets logged across Amsterdam, Antwerp, Barcelona and Berlin and 21 more. Often billed alongside Raxeller, SANTØS and A.N.I.. Next up: Circuit de Barcelona - Catalunya, Barcelona on Fri 11 Sept.
+Ben Techy is a techno and industrial artist based in United Kingdom, tracked on soundcheck, with 39 sets logged across Amsterdam, Antwerp, Barcelona and Berlin and 21 more. Often billed alongside Raxeller, SANTØS and A.N.I.. Next up: Essigfabrik, Cologne on Sat 12 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 11 Sept 2026 | Circuit de Barcelona - Catalunya | Barcelona |
 | Sat, 12 Sept 2026 | Essigfabrik | Cologne |
 | Sat, 26 Sept 2026 | OST | Berlin |
 | Fri, 16 Oct 2026 | MÄX | Zurich |

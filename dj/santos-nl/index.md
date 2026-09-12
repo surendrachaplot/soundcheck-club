@@ -1,14 +1,13 @@
 # SANTØS
 
-SANTØS is a Techno and Industrial artist with 11 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at The Flinders, Sydney on Fri, 11 Sept 2026.
+SANTØS is a Techno and Industrial artist with 10 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at The Yard Vienna, Vienna on Sat, 12 Sept 2026.
 
-SANTØS is a techno and industrial artist based in Netherlands, tracked on soundcheck, with 104 sets logged across Amsterdam, Antwerp, Barcelona and Belfast and 27 more. Often billed alongside KLOFAMA, KARAH and 6EJOU. Next up: The Flinders, Sydney on Fri 11 Sept.
+SANTØS is a techno and industrial artist based in Netherlands, tracked on soundcheck, with 104 sets logged across Amsterdam, Antwerp, Barcelona and Belfast and 27 more. Often billed alongside KLOFAMA, KARAH and 6EJOU. Next up: The Yard Vienna, Vienna on Sat 12 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 11 Sept 2026 | The Flinders | Sydney |
 | Sat, 12 Sept 2026 | The Yard Vienna | Vienna |
 | Tue, 15 Sept 2026 | Eden | Ibiza |
 | Sat, 19 Sept 2026 | Airport Würzburg | Nürnberg |

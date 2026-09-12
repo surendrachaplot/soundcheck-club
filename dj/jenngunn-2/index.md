@@ -1,14 +1,13 @@
 # Jenn Gunn (2)
 
-Jenn Gunn (2) is a House and Garage artist with 3 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at La Cheetah Club, Glasgow on Fri, 11 Sept 2026.
+Jenn Gunn (2) is a House and Garage artist with 2 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Oran Mor, Glasgow on Tue, 15 Sept 2026.
 
-Jenn Gunn (2) is a house and garage artist based in United Kingdom, tracked on soundcheck, with 52 sets logged across Aberdeen, Dundee, Edinburgh and Glasgow and 1 more. Often billed alongside C Frame, Gourlay and Et Al (1). Next up: La Cheetah Club, Glasgow on Fri 11 Sept.
+Jenn Gunn (2) is a house and garage artist based in United Kingdom, tracked on soundcheck, with 52 sets logged across Aberdeen, Dundee, Edinburgh and Glasgow and 1 more. Often billed alongside C Frame, Gourlay and Et Al (1). Next up: Oran Mor, Glasgow on Tue 15 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 11 Sept 2026 | La Cheetah Club | Glasgow |
 | Tue, 15 Sept 2026 | Oran Mor | Glasgow |
 | Thu, 3 Dec 2026 | King Tut's Wah Wah Hut | Glasgow |
 

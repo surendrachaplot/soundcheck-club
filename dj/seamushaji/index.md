@@ -1,14 +1,13 @@
 # Seamus Haji
 
-Seamus Haji is a House and Disco artist with 4 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Wiggle Room, Toronto on Fri, 11 Sept 2026.
+Seamus Haji is a House and Disco artist with 3 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Dead Letter No. 9, New York City on Sat, 12 Sept 2026.
 
-Seamus Haji is a house and disco artist tracked on soundcheck, with 48 sets logged across Amsterdam, Barcelona, Brighton and Bristol and 12 more. Often billed alongside Melvo Baptiste, Horse Meat Disco and Roger Sanchez. Next up: Wiggle Room, Toronto on Fri 11 Sept.
+Seamus Haji is a house and disco artist tracked on soundcheck, with 48 sets logged across Amsterdam, Barcelona, Brighton and Bristol and 12 more. Often billed alongside Melvo Baptiste, Horse Meat Disco and Roger Sanchez. Next up: Dead Letter No. 9, Newyorkcity on Sat 12 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 11 Sept 2026 | Wiggle Room | Toronto |
 | Sat, 12 Sept 2026 | Dead Letter No. 9 | New York City |
 | Fri, 18 Sept 2026 | Monarch | San Francisco/Oakland |
 | Fri, 25 Sept 2026 | TBA - 6th St Bridge | Los Angeles |

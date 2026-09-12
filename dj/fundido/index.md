@@ -1,14 +1,13 @@
 # Fundido
 
-Fundido is a House and Disco artist with 3 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at BASEMENT, New York City on Fri, 11 Sept 2026.
+Fundido is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at The Dolphin, Philadelphia on Thu, 17 Sept 2026.
 
-Fundido is a house and disco artist based in United States of America, tracked on soundcheck, with 36 sets logged across Austin, Losangeles, Mexicocity and Newyorkcity and 2 more. Often billed alongside Extra Meesh, Alex McCracken and Seedy J. Next up: BASEMENT, Newyorkcity on Fri 11 Sept.
+Fundido is a house and disco artist based in United States of America, tracked on soundcheck, with 36 sets logged across Austin, Losangeles, Mexicocity and Newyorkcity and 2 more. Often billed alongside Extra Meesh, Alex McCracken and Seedy J. Next up: The Dolphin, Philadelphia on Thu 17 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 11 Sept 2026 | BASEMENT | New York City |
 | Thu, 17 Sept 2026 | The Dolphin | Philadelphia |
 | Fri, 2 Oct 2026 | Good Room | New York City |
 

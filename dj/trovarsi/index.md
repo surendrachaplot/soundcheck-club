@@ -1,14 +1,13 @@
 # Trovarsi
 
-Trovarsi is a Techno and Acid artist with 2 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at smartbar, Chicago on Fri, 11 Sept 2026.
+Trovarsi is a Techno and Acid artist with 1 upcoming club date listed on soundcheck as of Sat, 12 Sept 2026, next at TBA - Day of Show , Seattle on Sat, 3 Oct 2026.
 
-Trovarsi is a techno and acid artist based in United States of America, tracked on soundcheck, with 47 sets logged across Amsterdam, Berlin, Bristol and Chicago and 8 more. Often billed alongside ALX-106, 92Jelani and David Castellani. Next up: smartbar, Chicago on Fri 11 Sept.
+Trovarsi is a techno and acid artist based in United States of America, tracked on soundcheck, with 47 sets logged across Amsterdam, Berlin, Bristol and Chicago and 8 more. Often billed alongside ALX-106, 92Jelani and David Castellani. Next up: TBA - Day of Show , Seattle on Sat 3 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 11 Sept 2026 | smartbar | Chicago |
 | Sat, 3 Oct 2026 | TBA - Day of Show  | Seattle |
 
 ## Recently played

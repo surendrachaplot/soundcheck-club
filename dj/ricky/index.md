@@ -1,14 +1,13 @@
 # RICKY
 
-RICKY is a Techno and Gabber artist with 6 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at TBA - Nishiazabu, Tokyo on Fri, 11 Sept 2026.
+RICKY is a Techno and Gabber artist with 5 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Socore Factory, Osaka on Sun, 13 Sept 2026.
 
-RICKY is a techno and gabber artist tracked on soundcheck, with 44 sets logged across London, Osaka, Sanfrancisco and Seoul and 1 more. Often billed alongside KYLE MIKASA, KAMIKAZE and egomania. Next up: TBA - Nishiazabu, Tokyo on Fri 11 Sept.
+RICKY is a techno and gabber artist tracked on soundcheck, with 44 sets logged across London, Osaka, Sanfrancisco and Seoul and 1 more. Often billed alongside KYLE MIKASA, KAMIKAZE and egomania. Next up: Socore Factory, Osaka on Sun 13 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 11 Sept 2026 | TBA - Nishiazabu | Tokyo |
 | Sun, 13 Sept 2026 | Socore Factory | Osaka |
 | Sun, 20 Sept 2026 | Yodo Groove (Yodobashi Ikebukuro) | Tokyo |
 | Sat, 26 Sept 2026 | UTOPIA / DYSTOPIA | Tokyo |

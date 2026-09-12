@@ -1,14 +1,13 @@
 # INPUT High Fidelity Dance Club
 
-INPUT High Fidelity Dance Club is a music venue in Barcelona with 23 upcoming nights listed on soundcheck as of Sat, 12 Sept 2026; the next is "INPUT pres HI-LO" on Fri, 11 Sept 2026.
+INPUT High Fidelity Dance Club is a music venue in Barcelona with 22 upcoming nights listed on soundcheck as of Sat, 12 Sept 2026; the next is "INPUT pres Toman" on Sat, 12 Sept 2026.
 
-INPUT High Fidelity Dance Club is a music venue in Barcelona listed on soundcheck. 23 upcoming nights, with line-ups including Adiel, ART NO LOGIA, Beste Hira and Colin Benders and 2 more. Browse upcoming dates, start times and who's playing. Avenida de Francesc Ferrer i Guàrdia, 13-27; 08038 Barcelona; Spain.
+INPUT High Fidelity Dance Club is a music venue in Barcelona listed on soundcheck. 22 upcoming nights, with line-ups including Adiel, ART NO LOGIA, Beste Hira and Colin Benders and 2 more. Browse upcoming dates, start times and who's playing. Avenida de Francesc Ferrer i Guàrdia, 13-27; 08038 Barcelona; Spain.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 11 Sept 2026 | INPUT pres HI-LO | HI-LO, LOZA/ANSO |
 | Sat, 12 Sept 2026 | INPUT pres Toman | Max Haas, Toman |
 | Sun, 13 Sept 2026 | OUTRO Official Afterparty | Easttown, INDRA TRAFERRI, LondonGround |
 | Fri, 18 Sept 2026 | PRISM pres Adiel | Adiel, Hitch |
@@ -18,6 +17,7 @@ INPUT High Fidelity Dance Club is a music venue in Barcelona listed on soundchec
 | Sat, 26 Sept 2026 | PRISM & NOIZER pres Len Faki | Flug, Hitch, Len Faki, Ronze |
 | Fri, 2 Oct 2026 | SWING pres ÜBERKIKZ & SHDW | Hades PRX, SHDW, ÜBERKIKZ |
 | Sat, 3 Oct 2026 | INPUT pres Joyhauser All Night Long | Joyhauser |
+| Fri, 9 Oct 2026 | INPUT pres Deborah De Luca | Deborah De Luca |
 
 ## Address
 

@@ -1,14 +1,13 @@
 # Lauren Flax
 
-Lauren Flax is a Techno and House artist with 12 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at BASEMENT, New York City on Fri, 11 Sept 2026.
+Lauren Flax is a Techno and House artist with 11 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Qncc, New York City on Thu, 24 Sept 2026.
 
-Lauren Flax is a techno and house artist based in United States of America, tracked on soundcheck, with 168 sets logged across Amsterdam, Birmingham, Boston and Chicago and 15 more. Often billed alongside Mike Servito, Shaun J. Wright and Justin Cudmore. Next up: BASEMENT, Newyorkcity on Fri 11 Sept.
+Lauren Flax is a techno and house artist based in United States of America, tracked on soundcheck, with 168 sets logged across Amsterdam, Birmingham, Boston and Chicago and 15 more. Often billed alongside Mike Servito, Shaun J. Wright and Justin Cudmore. Next up: Qncc, Newyorkcity on Thu 24 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 11 Sept 2026 | BASEMENT | New York City |
 | Thu, 24 Sept 2026 | Qncc | New York City |
 | Fri, 25 Sept 2026 | TBA - LOCATION EMAILED TO TICKETHOLDERS | Chicago |
 | Fri, 25 Sept 2026 | Qncc | New York City |

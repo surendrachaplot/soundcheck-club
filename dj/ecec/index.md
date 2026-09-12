@@ -1,14 +1,13 @@
 # ecec
 
-ecec is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Enter Shibuya, Tokyo on Fri, 11 Sept 2026.
+ecec is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 12 Sept 2026, next at WOMB, Tokyo on Tue, 22 Sept 2026.
 
-ecec is a techno and house artist tracked on soundcheck, with 180 sets logged across Osaka, Seoul, Tokyo and Vienna. Often billed alongside JUN INAGAWA, OKAMOTO REIJI and MoEPiKA. Next up: Enter Shibuya, Tokyo on Fri 11 Sept.
+ecec is a techno and house artist tracked on soundcheck, with 180 sets logged across Osaka, Seoul, Tokyo and Vienna. Often billed alongside JUN INAGAWA, OKAMOTO REIJI and MoEPiKA. Next up: WOMB, Tokyo on Tue 22 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 11 Sept 2026 | Enter Shibuya | Tokyo |
 | Tue, 22 Sept 2026 | WOMB | Tokyo |
 
 ## Recently played

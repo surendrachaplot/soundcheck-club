@@ -1,14 +1,13 @@
 # YENKOV
 
-YENKOV is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Kilomètre25, Paris on Fri, 11 Sept 2026.
+YENKOV is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Sat, 12 Sept 2026, next at Unité.22, Marseille on Sat, 12 Sept 2026.
 
-YENKOV is a techno and trance artist tracked on soundcheck, with 51 sets logged across Berlin, Brussels, Buenosaires and Copenhagen and 6 more. Often billed alongside Laze, VANROOSE and VOST (3). Next up: Kilomètre25, Paris on Fri 11 Sept.
+YENKOV is a techno and trance artist tracked on soundcheck, with 51 sets logged across Berlin, Brussels, Buenosaires and Copenhagen and 6 more. Often billed alongside Laze, VANROOSE and VOST (3). Next up: Unité.22, Marseille on Sat 12 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 11 Sept 2026 | Kilomètre25 | Paris |
 | Sat, 12 Sept 2026 | Unité.22 | Marseille |
 
 ## Recently played

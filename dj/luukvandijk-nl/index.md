@@ -1,14 +1,13 @@
 # Luuk van Dijk
 
-Luuk van Dijk is a House and Tech House artist with 14 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Les Enfants Brillants, Barcelona on Fri, 11 Sept 2026.
+Luuk van Dijk is a House and Tech House artist with 13 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Laagravense Plas, Utrecht on Sat, 12 Sept 2026.
 
-Luuk van Dijk is a house and tech house artist tracked on soundcheck, with 235 sets logged across Amsterdam, Antwerp, Austin and Bali and 48 more. Often billed alongside L.P. Rhythm, Prunk and Max Dean. Next up: Les Enfants Brillants, Barcelona on Fri 11 Sept.
+Luuk van Dijk is a house and tech house artist tracked on soundcheck, with 235 sets logged across Amsterdam, Antwerp, Austin and Bali and 48 more. Often billed alongside L.P. Rhythm, Prunk and Max Dean. Next up: Laagravense Plas, Utrecht on Sat 12 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 11 Sept 2026 | Les Enfants Brillants | Barcelona |
 | Sat, 12 Sept 2026 | Laagravense Plas | Utrecht |
 | Tue, 15 Sept 2026 | Hï Ibiza | Ibiza |
 | Fri, 18 Sept 2026 | UNO MALTA | Malta |
@@ -20,6 +19,7 @@ Luuk van Dijk is a house and tech house artist tracked on soundcheck, with 235 s
 | Fri, 9 Oct 2026 | Fvtvr | Paris |
 | Sat, 10 Oct 2026 | Document | Bristol |
 | Fri, 23 Oct 2026 | Coda | Toronto |
+| Sun, 1 Nov 2026 | The Cause | London |
 
 ## Recently played
 

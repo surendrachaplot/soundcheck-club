@@ -1,14 +1,13 @@
 # Mimi (4)
 
-Mimi (4) is a Electronica and Techno artist with 3 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Ministerium Club, Lisbon on Fri, 11 Sept 2026.
+Mimi (4) is a Electronica and Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Haus der Visionäre, Berlin on Sat, 26 Sept 2026.
 
-Mimi (4) is an electronica and techno artist tracked on soundcheck, with 12 sets logged across Amsterdam, Barcelona, Berlin and Buenosaires and 3 more. Often billed alongside Konstantin, Leafar Legov and Map.ache. Next up: Ministerium Club, Lisbon on Fri 11 Sept.
+Mimi (4) is an electronica and techno artist tracked on soundcheck, with 12 sets logged across Amsterdam, Barcelona, Berlin and Buenosaires and 3 more. Often billed alongside Konstantin, Leafar Legov and Map.ache. Next up: Haus der Visionäre, Berlin on Sat 26 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 11 Sept 2026 | Ministerium Club | Lisbon |
 | Sat, 26 Sept 2026 | Haus der Visionäre | Berlin |
 | Sun, 25 Oct 2026 | Klaproos | Amsterdam |
 

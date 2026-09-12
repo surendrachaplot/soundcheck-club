@@ -1,14 +1,13 @@
 # Joanna Kuchta
 
-Joanna Kuchta is a Techno and Club artist with 2 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Paragon, New York City on Fri, 11 Sept 2026.
+Joanna Kuchta is a Techno and Club artist with 1 upcoming club date listed on soundcheck as of Sat, 12 Sept 2026, next at Mana Wynwood, Miami on Fri, 16 Oct 2026.
 
-Joanna Kuchta is a techno and club artist based in Poland, tracked on soundcheck, with 16 sets logged across Denver, Losangeles, Miami and Newyorkcity. Often billed alongside OZA, DREAMINSLOW and Robyn Sin Love. Next up: Paragon, Newyorkcity on Fri 11 Sept.
+Joanna Kuchta is a techno and club artist based in Poland, tracked on soundcheck, with 16 sets logged across Denver, Losangeles, Miami and Newyorkcity. Often billed alongside OZA, DREAMINSLOW and Robyn Sin Love. Next up: Mana Wynwood, Miami on Fri 16 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 11 Sept 2026 | Paragon | New York City |
 | Fri, 16 Oct 2026 | Mana Wynwood | Miami |
 
 ## Recently played

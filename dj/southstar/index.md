@@ -1,14 +1,13 @@
 # southstar
 
-southstar is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Nordstern, Basel on Fri, 11 Sept 2026.
+southstar is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at E1, London on Fri, 18 Sept 2026.
 
-southstar is a techno and house artist tracked on soundcheck, with 58 sets logged across Amsterdam, Barcelona, Basel and Belfast and 33 more. Often billed alongside Funk Tribu, DJ Heartstring and Janis Zielinski. Next up: Nordstern, Basel on Fri 11 Sept.
+southstar is a techno and house artist tracked on soundcheck, with 58 sets logged across Amsterdam, Barcelona, Basel and Belfast and 33 more. Often billed alongside Funk Tribu, DJ Heartstring and Janis Zielinski. Next up: E1, London on Fri 18 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 11 Sept 2026 | Nordstern | Basel |
 | Fri, 18 Sept 2026 | E1 | London |
 | Thu, 24 Sept 2026 | Mondo | Madrid |
 | Sat, 26 Sept 2026 | TBA - Fohrstraat, 9000 Gent, België | Ghent |

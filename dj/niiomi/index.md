@@ -1,14 +1,13 @@
 # Niiomi
 
-Niiomi is a Progressive House and Afro House artist with 4 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Chinois Ibiza, Ibiza on Fri, 11 Sept 2026.
+Niiomi is a Progressive House and Afro House artist with 3 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at KOKO, London on Sat, 12 Sept 2026.
 
-Niiomi is a progressive house and afro house artist based in Netherlands, tracked on soundcheck, with 21 sets logged across Amsterdam, Brussels, Ibiza and London and 3 more. Often billed alongside AMÉMÉ, Ammé and Cincity. Next up: Chinois Ibiza, Ibiza on Fri 11 Sept.
+Niiomi is a progressive house and afro house artist based in Netherlands, tracked on soundcheck, with 21 sets logged across Amsterdam, Brussels, Ibiza and London and 3 more. Often billed alongside AMÉMÉ, Ammé and Cincity. Next up: KOKO, London on Sat 12 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 11 Sept 2026 | Chinois Ibiza | Ibiza |
 | Sat, 12 Sept 2026 | KOKO | London |
 | Sat, 24 Oct 2026 | NDSM Scheepsbouwloods | Amsterdam |
 | Sat, 24 Oct 2026 | Theater Amsterdam | Amsterdam |

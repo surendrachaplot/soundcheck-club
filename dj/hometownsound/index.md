@@ -1,14 +1,13 @@
 # Hometown Sound
 
-Hometown Sound is a Dub and Bass artist with 5 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Stereo, Glasgow on Fri, 11 Sept 2026.
+Hometown Sound is a Dub and Bass artist with 4 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at The Art School, Glasgow on Thu, 17 Sept 2026.
 
-Hometown Sound is a dub and bass artist based in United Kingdom, tracked on soundcheck, with 88 sets logged across Bristol, Dublin, Dundee and Edinburgh and 1 more. Often billed alongside James Hometown, izit? and T-O-D. Next up: Stereo, Glasgow on Fri 11 Sept.
+Hometown Sound is a dub and bass artist based in United Kingdom, tracked on soundcheck, with 88 sets logged across Bristol, Dublin, Dundee and Edinburgh and 1 more. Often billed alongside James Hometown, izit? and T-O-D. Next up: The Art School, Glasgow on Thu 17 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 11 Sept 2026 | Stereo | Glasgow |
 | Thu, 17 Sept 2026 | The Art School | Glasgow |
 | Sat, 26 Sept 2026 | The Art School | Glasgow |
 | Thu, 1 Oct 2026 | The Art School | Glasgow |

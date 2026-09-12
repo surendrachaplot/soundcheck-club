@@ -1,14 +1,13 @@
 # S4M23
 
-S4M23 is a Techno and House artist with 7 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at TBA - Downtown, Los Angeles on Fri, 11 Sept 2026.
+S4M23 is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at public records, New York City on Sat, 12 Sept 2026.
 
-S4M23 is a techno and house artist tracked on soundcheck, with 80 sets logged across Athens, Austin, Berlin and Boston and 7 more. Often billed alongside Mike Servito, Miss Parker and Lauren Flax. Next up: TBA - Downtown, Losangeles on Fri 11 Sept.
+S4M23 is a techno and house artist tracked on soundcheck, with 80 sets logged across Athens, Austin, Berlin and Boston and 7 more. Often billed alongside Mike Servito, Miss Parker and Lauren Flax. Next up: public records, Newyorkcity on Sat 12 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 11 Sept 2026 | TBA - Downtown | Los Angeles |
 | Sat, 12 Sept 2026 | public records | New York City |
 | Sun, 13 Sept 2026 | TBA - Humboldt Park (Follow @humboldtarboreal for details) | Chicago |
 | Fri, 25 Sept 2026 | TBA | New York City |

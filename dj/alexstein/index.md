@@ -1,14 +1,13 @@
 # Alex Stein
 
-Alex Stein is a Techno and Tech House artist with 5 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at TBA - La Biblioteca, San Telmo, Buenos Aires on Fri, 11 Sept 2026.
+Alex Stein is a Techno and Tech House artist with 4 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Die Rakete, Nürnberg on Fri, 25 Sept 2026.
 
-Alex Stein is a techno and tech house artist tracked on soundcheck, with 65 sets logged across Amsterdam, Antwerp, Barcelona and Berlin and 27 more. Often billed alongside Victor Ruiz, Maurice Mino and AM.I. Next up: TBA - La Biblioteca, San Telmo, Buenosaires on Fri 11 Sept.
+Alex Stein is a techno and tech house artist tracked on soundcheck, with 65 sets logged across Amsterdam, Antwerp, Barcelona and Berlin and 27 more. Often billed alongside Victor Ruiz, Maurice Mino and AM.I. Next up: Die Rakete, Nurnberg on Fri 25 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 11 Sept 2026 | TBA - La Biblioteca, San Telmo | Buenos Aires |
 | Fri, 25 Sept 2026 | Die Rakete | Nürnberg |
 | Sat, 26 Sept 2026 | Culture Box | Copenhagen |
 | Fri, 23 Oct 2026 | Crane Hotel Faralda | Amsterdam |

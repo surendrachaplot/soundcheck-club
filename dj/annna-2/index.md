@@ -1,14 +1,13 @@
 # annna (2)
 
-annna (2) is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Twist Bar, Prague on Fri, 11 Sept 2026.
+annna (2) is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 12 Sept 2026, next at TBA - a chapel in neukölln, Berlin on Sun, 4 Oct 2026.
 
-annna (2) is a house and techno artist based in Bulgaria, tracked on soundcheck, with 21 sets logged across Barcelona, Berlin, Frankfurt and London and 1 more. Often billed alongside DJ TEETH, E-Talking and New Members. Next up: Twist Bar, Prague on Fri 11 Sept.
+annna (2) is a house and techno artist based in Bulgaria, tracked on soundcheck, with 21 sets logged across Barcelona, Berlin, Frankfurt and London and 1 more. Often billed alongside DJ TEETH, E-Talking and New Members. Next up: TBA - a chapel in neukölln, Berlin on Sun 4 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 11 Sept 2026 | Twist Bar | Prague |
 | Sun, 4 Oct 2026 | TBA - a chapel in neukölln | Berlin |
 
 ## Recently played

@@ -1,14 +1,13 @@
 # Pharah
 
-Pharah is a Industrial and Hardcore artist with 2 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Kømplex Lisbon, Lisbon on Fri, 11 Sept 2026.
+Pharah is a Industrial and Hardcore artist with 1 upcoming club date listed on soundcheck as of Sat, 12 Sept 2026, next at Ministerium Club, Lisbon on Thu, 24 Sept 2026.
 
-Pharah is an industrial and hardcore artist tracked on soundcheck, with 7 sets logged across Lisbon. Often billed alongside Arzan, Frik and MakeCatBleed. Next up: Kømplex Lisbon, Lisbon on Fri 11 Sept.
+Pharah is an industrial and hardcore artist tracked on soundcheck, with 7 sets logged across Lisbon. Often billed alongside Arzan, Frik and MakeCatBleed. Next up: Ministerium Club, Lisbon on Thu 24 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 11 Sept 2026 | Kømplex Lisbon | Lisbon |
 | Thu, 24 Sept 2026 | Ministerium Club | Lisbon |
 
 ## Recently played

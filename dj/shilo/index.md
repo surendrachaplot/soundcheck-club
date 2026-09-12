@@ -1,14 +1,13 @@
 # Shilo
 
-Shilo is a Trance and Techno artist with 6 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Grüner Jäger, Hamburg on Fri, 11 Sept 2026.
+Shilo is a Trance and Techno artist with 5 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Fundbureau, Hamburg on Sat, 12 Sept 2026.
 
-Shilo is a trance and techno artist based in Germany, tracked on soundcheck, with 21 sets logged across Berlin and Hamburg. Often billed alongside CHICHO, Alexej and Pamadii. Next up: Grüner Jäger, Hamburg on Fri 11 Sept.
+Shilo is a trance and techno artist based in Germany, tracked on soundcheck, with 21 sets logged across Berlin and Hamburg. Often billed alongside CHICHO, Alexej and Pamadii. Next up: Fundbureau, Hamburg on Sat 12 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 11 Sept 2026 | Grüner Jäger | Hamburg |
 | Sat, 12 Sept 2026 | Fundbureau | Hamburg |
 | Sat, 19 Sept 2026 | La Cova | Hamburg |
 | Fri, 25 Sept 2026 | Südpol | Hamburg |

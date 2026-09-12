@@ -1,14 +1,13 @@
 # The Glove That Fits
 
-The Glove That Fits is a music venue in London with 23 upcoming nights listed on soundcheck as of Sat, 12 Sept 2026; the next is "CLUB BOOTS VOL II" on Fri, 11 Sept 2026.
+The Glove That Fits is a music venue in London with 22 upcoming nights listed on soundcheck as of Sat, 12 Sept 2026; the next is "10 Years of Sunshine Soul: ULTRAVIOLET DANCE" on Sat, 12 Sept 2026.
 
-The Glove That Fits is a music venue in London listed on soundcheck. 23 upcoming nights, with line-ups including Ailish, Aisling, AJ Manning and Alan Fitzpatrick and 2 more. Browse upcoming dates, start times and who's playing. 179 Morning Lane, Hackney, E96LH, United Kingdom.
+The Glove That Fits is a music venue in London listed on soundcheck. 22 upcoming nights, with line-ups including Ailish, Aisling, AJ Manning and Alan Fitzpatrick and 2 more. Browse upcoming dates, start times and who's playing. 179 Morning Lane, Hackney, E96LH, United Kingdom.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 11 Sept 2026 | CLUB BOOTS VOL II | DJ-CK, Katie Baxter, Meg Ward, Ross Anderson |
 | Sat, 12 Sept 2026 | 10 Years of Sunshine Soul: ULTRAVIOLET DANCE | Chenzo, DREY (UK), Kojay, LEV (UK), LORA S, Max Sinàl, Mylo Harvey, P-Lucas, Raphael (UK), Selassie TBC, WheelUP |
 | Sun, 13 Sept 2026 | Elata: Aniaef invites Gannein | Aniaef, Gannein, HYUS, Spinks |
 | Thu, 17 Sept 2026 | Miroku x iki | Ozwick, Sioni HiFi Soundsystem, YASDUB |
@@ -18,6 +17,7 @@ The Glove That Fits is a music venue in London listed on soundcheck. 23 upcoming
 | Fri, 25 Sept 2026 | Side Two - B2B Special W/ Kaya & Izzy + more | IZZY (UK), KaYa (UK), Layson, Marlon Baleci, Nick Clev, Sam Beach |
 | Sat, 26 Sept 2026 | JFF vol.5 INVITES Nocte |  |
 | Sat, 26 Sept 2026 | Scouts X Peaches FC Day Party |  |
+| Fri, 2 Oct 2026 | The Lounge x POSER present: Kara Okay | Becky (2), Coinín Beag, DJ-CK, Hyperfunk, Kara Okay, POSER |
 
 ## Address
 

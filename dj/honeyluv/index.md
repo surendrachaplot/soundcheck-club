@@ -1,14 +1,13 @@
 # HoneyLuv
 
-HoneyLuv is a House and Tech House artist with 9 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Night We Met, Nashville on Fri, 11 Sept 2026.
+HoneyLuv is a House and Tech House artist with 8 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Hï Ibiza, Ibiza on Mon, 14 Sept 2026.
 
-HoneyLuv is a house and tech house artist tracked on soundcheck, with 167 sets logged across Amsterdam, Austin, Barcelona and Basel and 39 more. Often billed alongside Nic Fanciulli, Dennis Ferrer and Andrea Oliva. Next up: Night We Met, Nashville on Fri 11 Sept.
+HoneyLuv is a house and tech house artist tracked on soundcheck, with 167 sets logged across Amsterdam, Austin, Barcelona and Basel and 39 more. Often billed alongside Nic Fanciulli, Dennis Ferrer and Andrea Oliva. Next up: Hï Ibiza, Ibiza on Mon 14 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 11 Sept 2026 | Night We Met | Nashville |
 | Mon, 14 Sept 2026 | Hï Ibiza | Ibiza |
 | Sun, 27 Sept 2026 | TBA | Los Angeles |
 | Thu, 1 Oct 2026 | TBA - Various Venues | Malta |

@@ -1,14 +1,13 @@
 # STRATAH
 
-STRATAH is a Techno and Trance artist with 4 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Circus Tokyo, Tokyo on Fri, 11 Sept 2026.
+STRATAH is a Techno and Trance artist with 3 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Circus Osaka, Osaka on Sat, 12 Sept 2026.
 
-STRATAH is a techno and trance artist based in Japan, tracked on soundcheck, with 39 sets logged across Osaka and Tokyo. Often billed alongside EMILIO (3), YURI VALEN and FINYA. Next up: Circus Tokyo, Tokyo on Fri 11 Sept.
+STRATAH is a techno and trance artist based in Japan, tracked on soundcheck, with 39 sets logged across Osaka and Tokyo. Often billed alongside EMILIO (3), YURI VALEN and FINYA. Next up: Circus Osaka, Osaka on Sat 12 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 11 Sept 2026 | Circus Tokyo | Tokyo |
 | Sat, 12 Sept 2026 | Circus Osaka | Osaka |
 | Fri, 18 Sept 2026 | TBA - Secret Location  | Tokyo |
 | Sun, 20 Sept 2026 | ZEROTOKYO | Tokyo |

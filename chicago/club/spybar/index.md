@@ -1,14 +1,13 @@
 # Spybar
 
-Spybar is a music venue in Chicago with 15 upcoming nights listed on soundcheck as of Sat, 12 Sept 2026; the next is "ARC Decompression Weekend: Casa de Babylon" on Fri, 11 Sept 2026.
+Spybar is a music venue in Chicago with 14 upcoming nights listed on soundcheck as of Sat, 12 Sept 2026; the next is "ARC Decompression Weekend: ARVI MALA + Friends" on Sat, 12 Sept 2026.
 
-Spybar is a music venue in Chicago listed on soundcheck. 15 upcoming nights, with line-ups including ARVI MALA, CRi, Dam Swindle and Dean Turnley and 2 more. Browse upcoming dates, start times and who's playing. 646 N Franklin St; Chicago, IL 60654; United States.
+Spybar is a music venue in Chicago listed on soundcheck. 14 upcoming nights, with line-ups including ARVI MALA, CRi, Dam Swindle and Dean Turnley and 2 more. Browse upcoming dates, start times and who's playing. 646 N Franklin St; Chicago, IL 60654; United States.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 11 Sept 2026 | ARC Decompression Weekend: Casa de Babylon |  |
 | Sat, 12 Sept 2026 | ARC Decompression Weekend: ARVI MALA + Friends | ARVI MALA |
 | Thu, 17 Sept 2026 | Minimal Madness feat. Zack Darza | EUPHORIC STATE |
 | Fri, 18 Sept 2026 | Dean Turnley | Dean Turnley |
@@ -18,6 +17,7 @@ Spybar is a music venue in Chicago listed on soundcheck. 15 upcoming nights, wit
 | Fri, 2 Oct 2026 | Olive F | Olive F |
 | Fri, 9 Oct 2026 | Rinzen | Rinzen |
 | Sat, 10 Oct 2026 | Jazzy | Jazzy (IRL) |
+| Sat, 24 Oct 2026 | Effy | Effy |
 
 ## Address
 

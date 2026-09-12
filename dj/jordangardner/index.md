@@ -1,14 +1,13 @@
 # Jordan Gardner
 
-Jordan Gardner is a House and Club artist with 2 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Système, Montreal on Fri, 11 Sept 2026.
+Jordan Gardner is a House and Club artist with 1 upcoming club date listed on soundcheck as of Sat, 12 Sept 2026, next at Bar Datcha, Montreal on Sat, 19 Sept 2026.
 
-Jordan Gardner is a house and club artist tracked on soundcheck, with 31 sets logged across Mexicocity, Montreal and Toronto. Often billed alongside Ard1n, Groceries and HVN (1). Next up: Système, Montreal on Fri 11 Sept.
+Jordan Gardner is a house and club artist tracked on soundcheck, with 31 sets logged across Mexicocity, Montreal and Toronto. Often billed alongside Ard1n, Groceries and HVN (1). Next up: Bar Datcha, Montreal on Sat 19 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 11 Sept 2026 | Système | Montreal |
 | Sat, 19 Sept 2026 | Bar Datcha | Montreal |
 
 ## Recently played

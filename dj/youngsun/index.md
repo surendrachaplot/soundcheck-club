@@ -1,14 +1,13 @@
 # Young Sun
 
-Young Sun is a Tech House and Minimal Techno artist with 3 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Modeci, Seoul on Fri, 11 Sept 2026.
+Young Sun is a Tech House and Minimal Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at teller, Seoul on Fri, 25 Sept 2026.
 
-Young Sun is a tech house and minimal techno artist tracked on soundcheck, with 104 sets logged across Amsterdam, Bangkok, Barcelona and Boston and 7 more. Often billed alongside Lyumin, .2ndfloor and Mihak. Next up: Modeci, Seoul on Fri 11 Sept.
+Young Sun is a tech house and minimal techno artist tracked on soundcheck, with 104 sets logged across Amsterdam, Bangkok, Barcelona and Boston and 7 more. Often billed alongside Lyumin, .2ndfloor and Mihak. Next up: teller, Seoul on Fri 25 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 11 Sept 2026 | Modeci | Seoul |
 | Fri, 25 Sept 2026 | teller | Seoul |
 | Sat, 26 Sept 2026 | teller | Seoul |
 

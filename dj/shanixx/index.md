@@ -1,14 +1,13 @@
 # Shanixx
 
-Shanixx is a Techno and Trance artist with 3 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Universe Athens, Athens on Fri, 11 Sept 2026.
+Shanixx is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Warehouse, Nantes on Fri, 30 Oct 2026.
 
-Shanixx is a techno and trance artist based in France, tracked on soundcheck, with 33 sets logged across Athens, Berlin, Brussels and Geneva and 6 more. Often billed alongside Stinny Stone, ELOISA and YOVA. Next up: Universe Athens, Athens on Fri 11 Sept.
+Shanixx is a techno and trance artist based in France, tracked on soundcheck, with 33 sets logged across Athens, Berlin, Brussels and Geneva and 6 more. Often billed alongside Stinny Stone, ELOISA and YOVA. Next up: Warehouse, Nantes on Fri 30 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 11 Sept 2026 | Universe Athens | Athens |
 | Fri, 30 Oct 2026 | Warehouse | Nantes |
 | Sat, 31 Oct 2026 | Lokschuppen Berlin | Berlin |
 

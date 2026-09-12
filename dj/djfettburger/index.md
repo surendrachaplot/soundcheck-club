@@ -1,8 +1,8 @@
 # DJ Fett Burger
 
-DJ Fett Burger is a House and Disco artist with 6 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Platforma Wolff, Bucharest on Sat, 19 Sept 2026.
+DJ Fett Burger is a House and Disco artist with 7 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Platforma Wolff, Bucharest on Sat, 19 Sept 2026.
 
-DJ Fett Burger is a house and disco artist tracked on soundcheck, with 91 sets logged across Antwerp, Barcelona, Belgrade and Berlin and 15 more. Often billed alongside DJ Sotofett, Telephones and Jana Falcon. Next up: Platforma Wolff, Bucharest on Sat 19 Sept.
+DJ Fett Burger is a house and disco artist tracked on soundcheck, with 92 sets logged across Antwerp, Bangkok, Barcelona and Belgrade and 16 more. Often billed alongside DJ Sotofett, Telephones and Jana Falcon. Next up: Platforma Wolff, Bucharest on Sat 19 Sept.
 
 ## Upcoming shows
 
@@ -14,6 +14,7 @@ DJ Fett Burger is a house and disco artist tracked on soundcheck, with 91 sets l
 | Sat, 10 Oct 2026 | Abbotsford Convent | Melbourne |
 | Sun, 11 Oct 2026 | Ticcle | Hobart |
 | Sun, 18 Oct 2026 | Poor Toms Oltra | Sydney |
+| Fri, 30 Oct 2026 | Bar Temp. | Bangkok |
 
 ## Recently played
 

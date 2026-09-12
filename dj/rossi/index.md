@@ -1,14 +1,13 @@
 # Rossi
 
-Rossi is a House and Tech House artist with 15 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at TBA - Secret location announced only to ticket holders, Ibiza on Fri, 11 Sept 2026.
+Rossi is a House and Tech House artist with 14 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at NDSM Docklands, Amsterdam on Sun, 13 Sept 2026.
 
-Rossi is a house and tech house artist tracked on soundcheck, with 234 sets logged across Amsterdam, Auckland, Austin and Barcelona and 48 more. Often billed alongside Josh Baker, Enzo Siragusa and Traumer. Next up: TBA - Secret location announced only to ticket holders, Ibiza on Fri 11 Sept.
+Rossi is a house and tech house artist tracked on soundcheck, with 234 sets logged across Amsterdam, Auckland, Austin and Barcelona and 48 more. Often billed alongside Josh Baker, Enzo Siragusa and Traumer. Next up: NDSM Docklands, Amsterdam on Sun 13 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 11 Sept 2026 | TBA - Secret location announced only to ticket holders | Ibiza |
 | Sun, 13 Sept 2026 | NDSM Docklands | Amsterdam |
 | Fri, 18 Sept 2026 | UNO MALTA | Malta |
 | Sat, 19 Sept 2026 | TBA - Ives Rd, London E16 4Sh | London |
@@ -20,6 +19,7 @@ Rossi is a house and tech house artist tracked on soundcheck, with 234 sets logg
 | Sat, 24 Oct 2026 | GASHOUDER | Amsterdam |
 | Thu, 29 Oct 2026 | 1015 Folsom | San Francisco/Oakland |
 | Sat, 31 Oct 2026 | Brooklyn Storehouse | New York City |
+| Fri, 13 Nov 2026 | TESTBED | Leeds |
 
 ## Recently played
 

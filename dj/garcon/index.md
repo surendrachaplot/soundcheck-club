@@ -9,7 +9,7 @@ Garçon is a techno and house artist tracked on soundcheck, with 84 sets logged 
 | Date | Venue | City |
 | --- | --- | --- |
 | Thu, 10 Sept 2026 | Camp Kennybrook | New York City |
-| Fri, 18 Sept 2026 | TBA - San Francisco | San Francisco/Oakland |
+| Fri, 18 Sept 2026 | TBA - The Loom (2150 Livingston St, Oakland) | San Francisco/Oakland |
 | Sun, 11 Oct 2026 | LAUT | Barcelona |
 | Sat, 17 Oct 2026 | essaim | Paris |
 | Fri, 30 Oct 2026 | Macadam | Nantes |

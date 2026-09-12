@@ -1,14 +1,13 @@
 # Kaesar
 
-Kaesar is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Ministerium Club, Lisbon on Fri, 11 Sept 2026.
+Kaesar is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 12 Sept 2026, next at Carmo Rooftop, Lisbon on Sun, 13 Sept 2026.
 
-Kaesar is a house and techno artist based in Portugal, tracked on soundcheck, with 99 sets logged across Lisbon, Malaga, Porto and Tbilisi. Often billed alongside Bernardo Vaz, Gear and Kokeshi. Next up: Ministerium Club, Lisbon on Fri 11 Sept.
+Kaesar is a house and techno artist based in Portugal, tracked on soundcheck, with 99 sets logged across Lisbon, Malaga, Porto and Tbilisi. Often billed alongside Bernardo Vaz, Gear and Kokeshi. Next up: Carmo Rooftop, Lisbon on Sun 13 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 11 Sept 2026 | Ministerium Club | Lisbon |
 | Sun, 13 Sept 2026 | Carmo Rooftop | Lisbon |
 
 ## Recently played

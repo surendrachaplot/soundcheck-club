@@ -1,14 +1,13 @@
 # dj g2g
 
-dj g2g is a Techno and Club artist with 3 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Paragon, New York City on Fri, 11 Sept 2026.
+dj g2g is a Techno and Club artist with 2 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Den Anden Side, Copenhagen on Fri, 23 Oct 2026.
 
-dj g2g is a techno and club artist tracked on soundcheck, with 109 sets logged across Amsterdam, Bali, Bangkok and Barcelona and 38 more. Often billed alongside Azyr, Miss Bashful x DBBD and Adrian Mills. Next up: Paragon, Newyorkcity on Fri 11 Sept.
+dj g2g is a techno and club artist tracked on soundcheck, with 109 sets logged across Amsterdam, Bali, Bangkok and Barcelona and 38 more. Often billed alongside Azyr, Miss Bashful x DBBD and Adrian Mills. Next up: Den Anden Side, Copenhagen on Fri 23 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 11 Sept 2026 | Paragon | New York City |
 | Fri, 23 Oct 2026 | Den Anden Side | Copenhagen |
 | Fri, 6 Nov 2026 | Fira Barcelona | Barcelona |
 

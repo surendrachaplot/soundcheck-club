@@ -1,14 +1,13 @@
 # Border One
 
-Border One is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Fuse, Brussels on Fri, 11 Sept 2026.
+Border One is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Tresor / Globus, Berlin on Sat, 10 Oct 2026.
 
-Border One is a techno and house artist tracked on soundcheck, with 89 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 19 more. Often billed alongside Kr!z, Phara and Marie-Julie. Next up: Fuse, Brussels on Fri 11 Sept.
+Border One is a techno and house artist tracked on soundcheck, with 89 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 19 more. Often billed alongside Kr!z, Phara and Marie-Julie. Next up: Tresor / Globus, Berlin on Sat 10 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 11 Sept 2026 | Fuse | Brussels |
 | Sat, 10 Oct 2026 | Tresor / Globus | Berlin |
 | Sat, 21 Nov 2026 | TBA - Brussels | Brussels |
 

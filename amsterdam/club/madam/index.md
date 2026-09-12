@@ -1,14 +1,13 @@
 # Madam
 
-Madam is a music venue in Amsterdam with 21 upcoming nights listed on soundcheck as of Sat, 12 Sept 2026; the next is "Madam by Night invites: Dirk Schot b2b Alan Luna b2b Mike van Duuren" on Fri, 11 Sept 2026.
+Madam is a music venue in Amsterdam with 20 upcoming nights listed on soundcheck as of Sat, 12 Sept 2026; the next is "Madam by Night invites: WE ARE ICONYC" on Sat, 12 Sept 2026.
 
-Madam is a music venue in Amsterdam listed on soundcheck. 21 upcoming nights, with line-ups including Aline Rocha, andela, Artslaves and BIG-T and 2 more. Browse upcoming dates, start times and who's playing. Overhoeksplein 3, 1031 KS Amsterdam, Netherlands.
+Madam is a music venue in Amsterdam listed on soundcheck. 20 upcoming nights, with line-ups including Aline Rocha, andela, Artslaves and BIG-T and 2 more. Browse upcoming dates, start times and who's playing. Overhoeksplein 3, 1031 KS Amsterdam, Netherlands.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 11 Sept 2026 | Madam by Night invites: Dirk Schot b2b Alan Luna b2b Mike van Duuren | Dirk Schot |
 | Sat, 12 Sept 2026 | Madam by Night invites: WE ARE ICONYC | Nico Morano |
 | Fri, 18 Sept 2026 | Madam by Night invites: Silven invites | Chris Di Perri, PERFECT TIMING, Silven |
 | Sat, 19 Sept 2026 | Madam by Night invites: The Disco Express | Crystal Touch, Drabes, Nablijven Soundsystem |
@@ -18,6 +17,7 @@ Madam is a music venue in Amsterdam listed on soundcheck. 21 upcoming nights, wi
 | Sat, 3 Oct 2026 | Madam by Night invites: Sooze | BIG-T, BIG-T (NL), Midas Field, TA AM, Yoffi |
 | Fri, 9 Oct 2026 | Madam by Night invites: RED 87 b2b Project 89 (all night) | Project89 |
 | Sat, 10 Oct 2026 | Madam by Night invites: LevyM & Nomis | LevyM, Nomis |
+| Fri, 16 Oct 2026 | Madam by Night invites: OMT Records x Life On Mars | Artslaves, Stephen William, Wilder, andela |
 
 ## Address
 

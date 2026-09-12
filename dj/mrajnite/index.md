@@ -1,14 +1,13 @@
 # Mraj Nite
 
-Mraj Nite is a House and Electronica artist with 2 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Sala El Sol, Madrid on Fri, 11 Sept 2026.
+Mraj Nite is a House and Electronica artist with 1 upcoming club date listed on soundcheck as of Sat, 12 Sept 2026, next at Subcero Club, Madrid on Thu, 17 Sept 2026.
 
-Mraj Nite is a house and electronica artist based in Mexico, tracked on soundcheck, with 9 sets logged across Barcelona and Madrid. Often billed alongside The Ego (DJ), Lucian ODP and BRINGAS. Next up: Sala El Sol, Madrid on Fri 11 Sept.
+Mraj Nite is a house and electronica artist based in Mexico, tracked on soundcheck, with 9 sets logged across Barcelona and Madrid. Often billed alongside The Ego (DJ), Lucian ODP and BRINGAS. Next up: Subcero Club, Madrid on Thu 17 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 11 Sept 2026 | Sala El Sol | Madrid |
 | Thu, 17 Sept 2026 | Subcero Club | Madrid |
 
 ## Recently played

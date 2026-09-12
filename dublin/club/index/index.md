@@ -1,14 +1,13 @@
 # Index
 
-Index is a music venue in Dublin with 9 upcoming nights listed on soundcheck as of Sat, 12 Sept 2026; the next is "Index: Kolter" on Fri, 11 Sept 2026.
+Index is a music venue in Dublin with 8 upcoming nights listed on soundcheck as of Sat, 12 Sept 2026; the next is "DX Afterparty: Ewan McVicar" on Sat, 12 Sept 2026.
 
-Index is a music venue in Dublin listed on soundcheck. 9 upcoming nights, with line-ups including 999999999, Kepler, Ewan McVicar and Jake Fitz and 2 more. Browse upcoming dates, start times and who's playing. 57 Middle Abbey St, North City, Dublin 1, D01 W573.
+Index is a music venue in Dublin listed on soundcheck. 8 upcoming nights, with line-ups including 999999999, Kepler, Ewan McVicar and Jake Fitz and 2 more. Browse upcoming dates, start times and who's playing. 57 Middle Abbey St, North City, Dublin 1, D01 W573.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 11 Sept 2026 | Index: Kolter | Kolter, Lauren Lo Sung |
 | Sat, 12 Sept 2026 | DX Afterparty: Ewan McVicar | Ewan McVicar, ShaunaDee |
 | Fri, 18 Sept 2026 | Index: 999999999 | 999999999 |
 | Sat, 19 Sept 2026 | Index: SG Lewis | SG Lewis |

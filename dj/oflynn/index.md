@@ -1,14 +1,13 @@
 # O'Flynn
 
-O'Flynn is a House and Garage artist with 11 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Oxford Art Factory, Sydney on Fri, 11 Sept 2026.
+O'Flynn is a House and Garage artist with 10 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at The Night Cat, Melbourne on Sat, 12 Sept 2026.
 
-O'Flynn is a house and garage artist based in United Kingdom, tracked on soundcheck, with 80 sets logged across Auckland, Barcelona, Berlin and Brighton and 27 more. Often billed alongside Dan Shake, Eliza Rose and Jasper Tygner. Next up: Oxford Art Factory, Sydney on Fri 11 Sept.
+O'Flynn is a house and garage artist based in United Kingdom, tracked on soundcheck, with 80 sets logged across Auckland, Barcelona, Berlin and Brighton and 27 more. Often billed alongside Dan Shake, Eliza Rose and Jasper Tygner. Next up: The Night Cat, Melbourne on Sat 12 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 11 Sept 2026 | Oxford Art Factory | Sydney |
 | Sat, 12 Sept 2026 | The Night Cat | Melbourne |
 | Sun, 13 Sept 2026 | Howler | Melbourne |
 | Fri, 18 Sept 2026 | Neck of the Woods | Auckland |

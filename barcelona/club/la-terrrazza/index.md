@@ -1,14 +1,13 @@
 # La Terrrazza
 
-La Terrrazza is a music venue in Barcelona with 28 upcoming nights listed on soundcheck as of Sat, 12 Sept 2026; the next is "Club Inferno x LOVEFOXY" on Fri, 11 Sept 2026.
+La Terrrazza is a music venue in Barcelona with 27 upcoming nights listed on soundcheck as of Sat, 12 Sept 2026; the next is "Retro Future Disco Club" on Sat, 12 Sept 2026.
 
-La Terrrazza is a music venue in Barcelona listed on soundcheck. 28 upcoming nights, with line-ups including 909 RACING TEAM, Alvaro Medina, ANYA (2) and Baldman and 2 more. Browse upcoming dates, start times and who's playing. Avinguda Francesc Ferrer i Guardia, 13, 08038.
+La Terrrazza is a music venue in Barcelona listed on soundcheck. 27 upcoming nights, with line-ups including 909 RACING TEAM, Alvaro Medina, ANYA (2) and Baldman and 2 more. Browse upcoming dates, start times and who's playing. Avinguda Francesc Ferrer i Guardia, 13, 08038.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 11 Sept 2026 | Club Inferno x LOVEFOXY | GIRLS ON DECKS, LOVEFOXY |
 | Sat, 12 Sept 2026 | Retro Future Disco Club | Breezy S, COEO |
 | Thu, 17 Sept 2026 | Soundset Sessions with ROZIE | ANYA (2), CLANDESTINE (2), Rozie, WOLTERS |
 | Fri, 18 Sept 2026 | Throwback - 8th Anniversary (Back to 80s, 90s & 00s) at La Terrrazza | Mr Majestyk |
@@ -18,6 +17,7 @@ La Terrrazza is a music venue in Barcelona listed on soundcheck. 28 upcoming nig
 | Wed, 23 Sept 2026 | PLAYGROUND with Make A Dance | Cisco, Make A Dance, Martin Noise |
 | Fri, 25 Sept 2026 | La Aso | Danny Daze, Eli Kapowski |
 | Sat, 26 Sept 2026 | CLOSA SELECTS: Guy Gerber 3h set at La Terrrazza | Guy Gerber, MARTISTA |
+| Sat, 26 Sept 2026 | Soundmate meets RRR | Effy, Effy (DE), RONI, Vandi |
 
 ## Address
 

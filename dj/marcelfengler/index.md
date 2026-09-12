@@ -1,14 +1,13 @@
 # Marcel Fengler
 
-Marcel Fengler is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Northern Lights Lounge, Detroit on Fri, 11 Sept 2026.
+Marcel Fengler is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 12 Sept 2026, next at TBA, Boston on Sat, 12 Sept 2026.
 
-Marcel Fengler is a techno and house artist based in Germany, tracked on soundcheck, with 78 sets logged across Amsterdam, Barcelona, Berlin and Boston and 25 more. Often billed alongside STEYA, Inverse Element and OGUZ. Next up: Northern Lights Lounge, Detroit on Fri 11 Sept.
+Marcel Fengler is a techno and house artist based in Germany, tracked on soundcheck, with 78 sets logged across Amsterdam, Barcelona, Berlin and Boston and 25 more. Often billed alongside STEYA, Inverse Element and OGUZ. Next up: TBA, Boston on Sat 12 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 11 Sept 2026 | Northern Lights Lounge | Detroit |
 | Sat, 12 Sept 2026 | TBA | Boston |
 
 ## Recently played

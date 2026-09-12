@@ -1,14 +1,13 @@
 # Fünk
 
-Fünk is a music venue in Mexico City with 9 upcoming nights listed on soundcheck as of Sat, 12 Sept 2026; the next is "Trommel: Fantastic Man + Yamour + Bastard Love" on Fri, 11 Sept 2026.
+Fünk is a music venue in Mexico City with 8 upcoming nights listed on soundcheck as of Sat, 12 Sept 2026; the next is "Himma x Fünk" on Sat, 12 Sept 2026.
 
-Fünk is a music venue in Mexicocity listed on soundcheck. 9 upcoming nights, with line-ups including Baby Mango, Bastard Love, Blu:sh and Cabizbajo and 2 more. Browse upcoming dates, start times and who's playing. Av. Insurgentes Sur 377, Hipódromo, Cuauhtémoc, 06100 Ciudad de México, CDMX, Mexico.
+Fünk is a music venue in Mexicocity listed on soundcheck. 8 upcoming nights, with line-ups including Baby Mango, Blu:sh, Cabizbajo and Deejay Energy and 2 more. Browse upcoming dates, start times and who's playing. Av. Insurgentes Sur 377, Hipódromo, Cuauhtémoc, 06100 Ciudad de México, CDMX, Mexico.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 11 Sept 2026 | Trommel: Fantastic Man + Yamour + Bastard Love | Bastard Love, Fantastic Man, Yamour |
 | Sat, 12 Sept 2026 | Himma x Fünk |  |
 | Thu, 17 Sept 2026 | Rat Back Crew x Fünk | SAUANI |
 | Fri, 18 Sept 2026 | Gabbs + Masmoudi + Vane Vepe | Gabbs, Sami Masmoudi, Vane Vepe |

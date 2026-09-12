@@ -1,14 +1,13 @@
 # OMOLOKO
 
-OMOLOKO is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Mitsuki, Tokyo on Fri, 11 Sept 2026.
+OMOLOKO is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 12 Sept 2026, next at Horn, Bangkok on Sat, 17 Oct 2026.
 
-OMOLOKO is a house and techno artist tracked on soundcheck, with 85 sets logged across Amsterdam, Antwerp, Athens and Bangkok and 28 more. Often billed alongside Kabulom, BADSISTA and Cashu. Next up: Mitsuki, Tokyo on Fri 11 Sept.
+OMOLOKO is a house and techno artist tracked on soundcheck, with 85 sets logged across Amsterdam, Antwerp, Athens and Bangkok and 28 more. Often billed alongside Kabulom, BADSISTA and Cashu. Next up: Horn, Bangkok on Sat 17 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 11 Sept 2026 | Mitsuki | Tokyo |
 | Sat, 17 Oct 2026 | Horn | Bangkok |
 
 ## Recently played

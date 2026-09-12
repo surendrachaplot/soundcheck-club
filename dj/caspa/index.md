@@ -1,14 +1,13 @@
 # Caspa
 
-Caspa is a Dubstep and Drum & Bass artist with 2 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at SILO, New York City on Fri, 11 Sept 2026.
+Caspa is a Dubstep and Drum & Bass artist with 1 upcoming club date listed on soundcheck as of Sat, 12 Sept 2026, next at Ramova Theatre, Chicago on Sat, 7 Nov 2026.
 
-Caspa is a dubstep and drum & bass artist based in United Kingdom, tracked on soundcheck, with 23 sets logged across Berlin, Bristol, Chicago and London and 8 more. Often billed alongside MINTY, Deep Tempo and ENiGMA Dubz. Next up: SILO, Newyorkcity on Fri 11 Sept.
+Caspa is a dubstep and drum & bass artist based in United Kingdom, tracked on soundcheck, with 23 sets logged across Berlin, Bristol, Chicago and London and 8 more. Often billed alongside MINTY, Deep Tempo and ENiGMA Dubz. Next up: Ramova Theatre, Chicago on Sat 7 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 11 Sept 2026 | SILO | New York City |
 | Sat, 7 Nov 2026 | Ramova Theatre | Chicago |
 
 ## Recently played

@@ -1,14 +1,13 @@
 # VLAD PHANGAN
 
-VLAD PHANGAN is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Teritorija, Riga on Fri, 11 Sept 2026.
+VLAD PHANGAN is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Teritorija, Riga on Sat, 19 Sept 2026.
 
-VLAD PHANGAN is a house and techno artist tracked on soundcheck, with 39 sets logged across Riga. Often billed alongside Ksenia Kamikaza, ARRISHA and Ikss. Next up: Teritorija, Riga on Fri 11 Sept.
+VLAD PHANGAN is a house and techno artist tracked on soundcheck, with 39 sets logged across Riga. Often billed alongside Ksenia Kamikaza, ARRISHA and Ikss. Next up: Teritorija, Riga on Sat 19 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 11 Sept 2026 | Teritorija | Riga |
 | Sat, 19 Sept 2026 | Teritorija | Riga |
 | Sat, 19 Sept 2026 | Teritorija | Riga |
 

@@ -1,14 +1,13 @@
 # Forest On Stasys
 
-Forest On Stasys is a Techno and Dub Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at TBA, Stockholm on Fri, 11 Sept 2026.
+Forest On Stasys is a Techno and Dub Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 12 Sept 2026, next at Heave Festival, Madrid on Fri, 25 Sept 2026.
 
-Forest On Stasys is a techno and dub techno artist based in Argentina, tracked on soundcheck, with 30 sets logged across Barcelona, Berlin, Buenosaires and Lisbon and 7 more. Often billed alongside Ehndo, Kyntral and Vanoni. Next up: TBA, Stockholm on Fri 11 Sept.
+Forest On Stasys is a techno and dub techno artist based in Argentina, tracked on soundcheck, with 30 sets logged across Barcelona, Berlin, Buenosaires and Lisbon and 7 more. Often billed alongside Ehndo, Kyntral and Vanoni. Next up: Heave Festival, Madrid on Fri 25 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 11 Sept 2026 | TBA | Stockholm |
 | Fri, 25 Sept 2026 | Heave Festival | Madrid |
 
 ## Recently played

@@ -1,14 +1,13 @@
 # Club Frau Holle
 
-Club Frau Holle is a music venue in Hamburg with 3 upcoming nights listed on soundcheck as of Sat, 12 Sept 2026; the next is "WAS ZUR HOLLE w/  MARC DEAL, DIZKO DUST, FRANK LEDER" on Fri, 11 Sept 2026.
+Club Frau Holle is a music venue in Hamburg with 2 upcoming nights listed on soundcheck as of Sat, 12 Sept 2026; the next is "TIMELESS RAVE with VIVI WONDER, SAM PELL, Spam, Alexej, ROVIC, Timeless Moments" on Sat, 12 Sept 2026.
 
-Club Frau Holle is a music venue in Hamburg listed on soundcheck. 3 upcoming nights, with line-ups including Alexej, Spam and Timeless Moments. Browse upcoming dates, start times and who's playing. Friedrichsstrasse 9, 20359 Hamburg.
+Club Frau Holle is a music venue in Hamburg listed on soundcheck. 2 upcoming nights, with line-ups including Alexej, Spam and Timeless Moments. Browse upcoming dates, start times and who's playing. Friedrichsstrasse 9, 20359 Hamburg.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 11 Sept 2026 | WAS ZUR HOLLE w/  MARC DEAL, DIZKO DUST, FRANK LEDER |  |
 | Sat, 12 Sept 2026 | TIMELESS RAVE with VIVI WONDER, SAM PELL, Spam, Alexej, ROVIC, Timeless Moments | Alexej, Spam, Timeless Moments |
 | Fri, 18 Sept 2026 | BROKEN FORMS -MATHIAS KADEN (Rekids,Diynamic,Heideton), VABU, DELLOSEN, DAVIDE, SCHMIDDE,DIESEN |  |
 

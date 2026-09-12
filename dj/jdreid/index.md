@@ -1,14 +1,13 @@
 # JD. REID
 
-JD. REID is a Club and Bass artist with 4 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Yamamori Tengu, Dublin on Fri, 11 Sept 2026.
+JD. REID is a Club and Bass artist with 3 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Night Tales Loft, London on Sat, 12 Sept 2026.
 
-JD. REID is a club and bass artist based in United Kingdom, tracked on soundcheck, with 27 sets logged across Dublin, London and Manchester. Often billed alongside Bok Bok, Halogenix and Call Super. Next up: Yamamori Tengu, Dublin on Fri 11 Sept.
+JD. REID is a club and bass artist based in United Kingdom, tracked on soundcheck, with 27 sets logged across Dublin, London and Manchester. Often billed alongside Bok Bok, Halogenix and Call Super. Next up: Night Tales Loft, London on Sat 12 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 11 Sept 2026 | Yamamori Tengu | Dublin |
 | Sat, 12 Sept 2026 | Night Tales Loft | London |
 | Fri, 9 Oct 2026 | The Carpet Shop | London |
 | Sat, 14 Nov 2026 | New Century Locker | Manchester |

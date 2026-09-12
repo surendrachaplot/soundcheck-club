@@ -1,14 +1,13 @@
 # Phatworld
 
-Phatworld is a Bass and Drum & Bass artist with 2 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Volks, Brighton on Fri, 11 Sept 2026.
+Phatworld is a Bass and Drum & Bass artist with 1 upcoming club date listed on soundcheck as of Sat, 12 Sept 2026, next at Dryad Works, Sheffield on Sat, 19 Sept 2026.
 
-Phatworld is a bass and drum & bass artist tracked on soundcheck, with 36 sets logged across Brighton, Bristol, Glasgow and Leeds and 4 more. Often billed alongside Charla Green, Thorpey and Ben Suff Donk. Next up: Volks, Brighton on Fri 11 Sept.
+Phatworld is a bass and drum & bass artist tracked on soundcheck, with 36 sets logged across Brighton, Bristol, Glasgow and Leeds and 4 more. Often billed alongside Charla Green, Thorpey and Ben Suff Donk. Next up: Dryad Works, Sheffield on Sat 19 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 11 Sept 2026 | Volks | Brighton |
 | Sat, 19 Sept 2026 | Dryad Works | Sheffield |
 
 ## Recently played

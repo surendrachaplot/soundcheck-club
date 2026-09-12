@@ -1,14 +1,13 @@
 # LAMMER
 
-LAMMER is a Techno and Trance artist with 10 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Elsewhere, New York City on Fri, 11 Sept 2026.
+LAMMER is a Techno and Trance artist with 9 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at 888 Garage, San Francisco/Oakland on Sun, 13 Sept 2026.
 
-LAMMER is a techno and trance artist tracked on soundcheck, with 115 sets logged across Amsterdam, Antwerp, Barcelona and Belgrade and 27 more. Often billed alongside Lisa Korver, Kyle Starkey and Bella Claxton. Next up: Elsewhere, Newyorkcity on Fri 11 Sept.
+LAMMER is a techno and trance artist tracked on soundcheck, with 115 sets logged across Amsterdam, Antwerp, Barcelona and Belgrade and 27 more. Often billed alongside Lisa Korver, Kyle Starkey and Bella Claxton. Next up: 888 Garage, Sanfrancisco on Sun 13 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 11 Sept 2026 | Elsewhere | New York City |
 | Sun, 13 Sept 2026 | 888 Garage | San Francisco/Oakland |
 | Fri, 2 Oct 2026 | TBA - Port of Belgrade | Belgrade |
 | Sat, 3 Oct 2026 | OST | Berlin |

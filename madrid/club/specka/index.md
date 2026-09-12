@@ -1,14 +1,13 @@
 # Specka
 
-Specka is a music venue in Madrid with 17 upcoming nights listed on soundcheck as of Sat, 12 Sept 2026; the next is "PRESENTACIÓN SALITRE Vigo FESTIVAL 2026 I Specka Club" on Fri, 11 Sept 2026.
+Specka is a music venue in Madrid with 16 upcoming nights listed on soundcheck as of Sat, 12 Sept 2026; the next is "Macro y Suppa + Nay RPK y Nick BB I LlorandoLana - Specka Live" on Sat, 12 Sept 2026.
 
-Specka is a music venue in Madrid listed on soundcheck. 17 upcoming nights, with line-ups including Anthony Rother, Anxiety for Living, Aro Rey and ARSA and 2 more. Browse upcoming dates, start times and who's playing. Calle Orense, 26 bajos Madrid 28020.
+Specka is a music venue in Madrid listed on soundcheck. 16 upcoming nights, with line-ups including Anthony Rother, Aro Rey, ARSA and BENZA and 2 more. Browse upcoming dates, start times and who's playing. Calle Orense, 26 bajos Madrid 28020.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 11 Sept 2026 | PRESENTACIÓN SALITRE Vigo FESTIVAL 2026 I Specka Club | Anxiety for Living, Southear, Yuliën |
 | Sat, 12 Sept 2026 | Macro y Suppa + Nay RPK y Nick BB I LlorandoLana - Specka Live |  |
 | Sat, 12 Sept 2026 | VERBOTEN I Specka Club | ARSA, Montse, Vilor |
 | Fri, 18 Sept 2026 | Escaparate 14/38 & Fasta Danza - Gazpacho #06 | BENZA, Nogue (ES) |
@@ -18,6 +17,7 @@ Specka is a music venue in Madrid listed on soundcheck. 17 upcoming nights, with
 | Sat, 26 Sept 2026 | 3º IZQ X Impossible Love I Specka Club |  |
 | Fri, 2 Oct 2026 | IN NOCTE VERITAS I Temática RENTRÉE | Iñaki Villasante |
 | Sat, 3 Oct 2026 | Systolic Showcase 360° Rave #02 - Specka Club Tardes |  |
+| Fri, 9 Oct 2026 | 28B$, Dylan Desler y Tukeskusha: Papo2oo4+Subjxct 5 / Rapp Gotti / KN Moreno & Shenko |  |
 
 ## Address
 
