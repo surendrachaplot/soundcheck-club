@@ -1,8 +1,8 @@
 # Ornella
 
-Ornella is a Techno and Industrial artist with 7 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Tapada da Ajuda, Lisbon on Sat, 19 Sept 2026.
+Ornella is a Techno and Hardcore artist with 7 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Tapada da Ajuda, Lisbon on Sat, 19 Sept 2026.
 
-Ornella is a techno and industrial artist based in Portugal, tracked on soundcheck, with 119 sets logged across Amsterdam, Antwerp, Barcelona and Berlin and 21 more. Often billed alongside Madson Carpenter, Stëh and Kobosil. Next up: Tapada da Ajuda, Lisbon on Sat 19 Sept.
+Ornella is a techno and hardcore artist based in Portugal, tracked on soundcheck, with 119 sets logged across Amsterdam, Antwerp, Barcelona and Berlin and 21 more. Often billed alongside Madson Carpenter, Stëh and Kobosil. Next up: Tapada da Ajuda, Lisbon on Sat 19 Sept.
 
 ## Upcoming shows
 

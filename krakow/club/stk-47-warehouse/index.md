@@ -10,7 +10,7 @@ STK 47 WAREHOUSE is a music venue in Krakow listed on soundcheck. 5 upcoming nig
 | --- | --- | --- |
 | Sat, 12 Sept 2026 | HARD NIGHT IN WAREHOUSE KRK DR.OBLITERANE |  |
 | Fri, 18 Sept 2026 | SCHISSMA x RYYM: KRAKÓW (STK WAREHOUSE) – TISKIMIKKO, DJ Ricky, ZAGROZA & MORE | DJ Ricky, ERNST (UA), ZAGROZA, marcelitumelis |
-| Sat, 19 Sept 2026 | HANGAR x HBT67 w. MAURER [Berlin/DE] | Kowa, MANALI, MAURER, tylmanovski |
+| Sat, 19 Sept 2026 | HANGAR x HBT67 w. MAURER [Berlin/DE] | Kowa, MANALI, MAURER, Marian Rakieta, tylmanovski |
 | Fri, 2 Oct 2026 | Art Groove 02.10 KRAKOW MILA, LARIN, DAYTONA, HELLIS, 0402 |  |
 | Fri, 27 Nov 2026 | 2 Years of Citadel w/Brutal Forms | Forest (PL), Lyor Kalt, Skumring_, Zeitreise |
 

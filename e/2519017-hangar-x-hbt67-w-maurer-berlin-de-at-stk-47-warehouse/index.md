@@ -1,6 +1,6 @@
 # HANGAR x HBT67 w. MAURER [Berlin/DE] at STK 47 WAREHOUSE
 
-HANGAR x HBT67 w. MAURER [Berlin/DE] at STK 47 WAREHOUSE on Sat 19 Sept, Krakow. 4 acts on the bill: Kowa, MANALI, MAURER and tylmanovski. Techno. Preview the line-up and save it on soundcheck.
+HANGAR x HBT67 w. MAURER [Berlin/DE] at STK 47 WAREHOUSE on Sat 19 Sept, Krakow. 5 acts on the bill: Kowa, MANALI, Marian Rakieta and MAURER and 1 more. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -12,6 +12,7 @@ HANGAR x HBT67 w. MAURER [Berlin/DE] at STK 47 WAREHOUSE on Sat 19 Sept, Krakow.
 
 - Kowa
 - MANALI
+- Marian Rakieta
 - MAURER
 - tylmanovski
 

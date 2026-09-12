@@ -1,6 +1,6 @@
 # Salvi k & Nikolas Gale at Cantina Social
 
-Salvi k & Nikolas Gale at Cantina Social on Sat 12 Sept, Athens. 2 acts on the bill: Nikolas Gale and Salvi k. Techno and Electro. Preview the line-up and save it on soundcheck.
+Salvi k & Nikolas Gale at Cantina Social on Sat 12 Sept, Athens. 2 acts on the bill: Nikolas Gale and Salvi k. House and Electro. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,8 +1,8 @@
 # Roland Gonzales
 
-Roland Gonzales is a House and Disco artist with 6 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Toki Listening Bar, Toronto on Sat, 12 Sept 2026.
+Roland Gonzales is a House and Downtempo artist with 6 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Toki Listening Bar, Toronto on Sat, 12 Sept 2026.
 
-Roland Gonzales is a house and disco artist based in Canada, tracked on soundcheck, with 142 sets logged across Kyoto, Montreal, Newyorkcity and Toronto and 1 more. Often billed alongside Sakiko Nagai, Toronto Hustle and Kiki LeFreak. Next up: Toki Listening Bar, Toronto on Sat 12 Sept.
+Roland Gonzales is a house and downtempo artist based in Canada, tracked on soundcheck, with 142 sets logged across Kyoto, Montreal, Newyorkcity and Toronto and 1 more. Often billed alongside Sakiko Nagai, Toronto Hustle and Kiki LeFreak. Next up: Toki Listening Bar, Toronto on Sat 12 Sept.
 
 ## Upcoming shows
 

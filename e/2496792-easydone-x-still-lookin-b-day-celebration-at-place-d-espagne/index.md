@@ -1,6 +1,6 @@
 # Easydone x still lookin' B-day celebration at Place D'espagne
 
-Easydone x still lookin' B-day celebration at Place D'espagne on Sat 12 Sept, Brussels. 6 acts on the bill: Raph Luchs, Roi Perez, Sarah Wanita and Softy and 2 more. House and Electro. Preview the line-up and save it on soundcheck.
+Easydone x still lookin' B-day celebration at Place D'espagne on Sat 12 Sept, Brussels. 8 acts on the bill: Ava Eva, Raph Luchs, Roi Perez and Sarah Wanita and 4 more. House and Electro. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,10 +10,12 @@ Easydone x still lookin' B-day celebration at Place D'espagne on Sat 12 Sept, Br
 
 ## Line-up
 
+- Ava Eva
 - Raph Luchs
 - Roi Perez
 - Sarah Wanita
 - Softy
+- UNOS
 - VTT (BE)
 - Zouzibabe
 

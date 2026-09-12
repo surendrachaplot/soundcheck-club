@@ -1,8 +1,8 @@
 # salute
 
-salute is a House and Techno artist with 9 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Space 550, San Francisco/Oakland on Sat, 12 Sept 2026.
+salute is a House and Garage artist with 9 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Space 550, San Francisco/Oakland on Sat, 12 Sept 2026.
 
-salute is a house and techno artist tracked on soundcheck, with 184 sets logged across Amsterdam, Antwerp, Auckland and Austin and 54 more. Often billed alongside DJ BORING, Eliza Rose and HAAi. Next up: Space 550, Sanfrancisco on Sat 12 Sept.
+salute is a house and garage artist tracked on soundcheck, with 184 sets logged across Amsterdam, Antwerp, Auckland and Austin and 54 more. Often billed alongside DJ BORING, Eliza Rose and HAAi. Next up: Space 550, Sanfrancisco on Sat 12 Sept.
 
 ## Upcoming shows
 

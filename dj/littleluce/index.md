@@ -1,13 +1,14 @@
 # Little Luce
 
-Little Luce is a House and Jungle artist with 1 upcoming club date listed on soundcheck as of Sat, 12 Sept 2026, next at The Waiting Room, London on Sat, 17 Oct 2026.
+Little Luce is a Breakbeat and House artist with 2 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Planet Wax, London on Thu, 1 Oct 2026.
 
-Little Luce is a house and jungle artist tracked on soundcheck, with 15 sets logged across London. Often billed alongside Jahmed, Onncor and Bryn Brax. Next up: The Waiting Room, London on Sat 17 Oct.
+Little Luce is a breakbeat and house artist tracked on soundcheck, with 16 sets logged across London. Often billed alongside Jahmed, Onncor and Bryn Brax. Next up: Planet Wax, London on Thu 1 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Thu, 1 Oct 2026 | Planet Wax | London |
 | Sat, 17 Oct 2026 | The Waiting Room | London |
 
 ## Recently played

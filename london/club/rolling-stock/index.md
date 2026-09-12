@@ -12,7 +12,7 @@ Rolling Stock is a music venue in London listed on soundcheck. 8 upcoming nights
 | Thu, 17 Sept 2026 | Thursday Social |  |
 | Thu, 17 Sept 2026 | Born Relaunch Party: LFW Afters |  |
 | Thu, 24 Sept 2026 | Thursday Social |  |
-| Sat, 17 Oct 2026 | Click |  |
+| Sat, 17 Oct 2026 | Click - Dance for Mental Health |  |
 | Sat, 31 Oct 2026 | TECHNO HALLOWEEN NIGHT |  |
 | Sat, 21 Nov 2026 | AWAKEN [AWKN] |  |
 | Fri, 27 Nov 2026 | EXPANSIVE | Larnie |

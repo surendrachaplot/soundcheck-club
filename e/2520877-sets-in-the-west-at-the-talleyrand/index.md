@@ -1,6 +1,6 @@
 # SETS IN THE WEST at The Talleyrand
 
-SETS IN THE WEST at The Talleyrand on Sat 12 Sept, Manchester. Acid and Garage. Preview the line-up and save it on soundcheck.
+SETS IN THE WEST at The Talleyrand on Sat 12 Sept, Manchester. Garage and Acid. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

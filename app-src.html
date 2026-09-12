@@ -133,16 +133,25 @@
 
        :where() has zero specificity, so this can't beat a component that
        positions itself — .evc-heart stays position:absolute and simply supplies
-       its own containing block, which is all the ::after needs. */
+       its own containing block, which is all the ::after needs.
+
+       A selector has to appear in the :where() list AND in both ::after lists
+       below. Miss either and the expansion silently does nothing — no layout
+       changes, so it looks shipped. That is how these six (the small × and
+       remove buttons: .promo-x .email-close .dv-del .ob-x .plt-x .tray-line .rm,
+       26-34px drawn) went out with no hit area at all. DESIGN-RULES.md §4f. */
     :where(.logo, .heart, .share-btn, .iconbtn, .auth-close, .more-btn, .hdr-city,
            .psticky-back, .fp-ev-share-ic, .slink, .fp-ab, .fp-pb, .fp-tab, .ds-filt,
            .fp-ev-follow, .report-cue, .fp-sk-act, .cb-btn, .evc-play,
+           .promo-x, .email-close, .dv-del, .ob-x, .plt-x, .tray-line .rm,
            .leaflet-control-zoom-in, .leaflet-control-zoom-out) { position:relative; }
     .heart::after, .share-btn::after, .iconbtn::after, .auth-close::after,
     .evc-heart::after, .more-btn::after, .hdr-city::after,
     .psticky-back::after, .fp-ev-share-ic::after, .slink::after, .fp-ab::after,
     .fp-pb::after, .fp-tab::after, .ds-filt::after, .fp-ev-follow::after,
     .logo::after, .report-cue::after, .fp-sk-act::after, .cb-btn::after, .evc-play::after,
+    .promo-x::after, .email-close::after, .dv-del::after, .ob-x::after, .plt-x::after,
+    .tray-line .rm::after,
     .leaflet-control-zoom-in::after, .leaflet-control-zoom-out::after {
       content:''; position:absolute; left:50%; top:50%; transform:translate(-50%,-50%);
       width:max(100%, 44px); height:max(100%, 44px);
@@ -155,6 +164,8 @@
     .psticky-back::after, .fp-ev-share-ic::after, .slink::after, .fp-ab::after,
     .fp-pb::after, .fp-tab::after, .ds-filt::after, .fp-ev-follow::after,
     .logo::after, .report-cue::after, .fp-sk-act::after, .cb-btn::after, .evc-play::after,
+    .promo-x::after, .email-close::after, .dv-del::after, .ob-x::after, .plt-x::after,
+    .tray-line .rm::after,
     .leaflet-control-zoom-in::after, .leaflet-control-zoom-out::after { z-index:0; }
     /* Press feedback on everything tappable. 60ms is below the ~100ms threshold
        where a delay starts reading as lag, so it registers as the control
@@ -1091,19 +1102,9 @@
     .ev-loc-follow { flex:0 0 auto; width:auto; height:38px; padding:0 14px; }
     .sheet-line li .ln-av { width:30px; height:30px; border-radius:50%; flex:0 0 auto; background-size:cover; background-position:center; background-color:var(--surface); margin-right:2px; }
 
-    /* picks tray (modal) */
-    .picks-tray-overlay { position:fixed; inset:0; background:rgba(0,0,0,0.62); backdrop-filter:blur(3px); z-index:75; display:flex; align-items:flex-end; justify-content:center; opacity:0; pointer-events:none; transition:opacity var(--dur-2); overscroll-behavior:contain; }
-    .picks-tray-overlay.show { opacity:1; pointer-events:auto; }
-    .picks-tray { background:var(--surface); width:100%; max-width:560px; max-height:88vh; overflow-y:auto; -webkit-overflow-scrolling:touch; overscroll-behavior:contain; border-radius:18px 18px 0 0; transform:translateY(100%); transition:transform var(--dur-3) var(--ease-standard); position:relative; padding:22px 22px calc(28px + env(safe-area-inset-bottom)); }
-    .picks-tray-overlay.show .picks-tray { transform:translateY(0); }
-    .picks-tray h3 { font-family:var(--head); font-size:var(--fs-xl); font-weight:800; letter-spacing:-0.02em; }
-    .picks-tray .sub { font-size:var(--fs-base); color:var(--muted); margin-top:4px; }
-    .picks-tray .share-main { display:flex; gap:9px; margin:16px 0 18px; }
-    .picks-tray .share-main button { flex:1; padding:12px; border-radius:var(--radius-btn); font:700 var(--fs-xs)/var(--lh-xs) var(--body); letter-spacing:0.1em; text-transform:uppercase; cursor:pointer; border:1px solid; }
-    .picks-tray .share-main .primary { background:var(--accent-grad); color:var(--accent-ink); border-color:transparent; }
-    .picks-tray .share-main .ghost { background:transparent; color:var(--fg); border-color:var(--border); }
-    .picks-tray .share-main .ghost:hover { border-color:var(--accent); color:var(--accent); }
-    .picks-tray h4 { font-size:var(--fs-xs); font-weight:800; letter-spacing:0.18em; text-transform:uppercase; color:var(--muted); margin:18px 0 8px; }
+    /* Row list for My picks and the diary. The .picks-tray sheet these were
+       written for is gone (replaced by the full-page My picks); only .tray-line
+       survived, and the name is all that is left of the tray. */
     .tray-line { list-style:none; display:flex; flex-direction:column; gap:8px; }
     .tray-line li { display:flex; align-items:center; gap:11px; font-size:var(--fs-base); font-weight:500; padding:9px 4px; border-radius:var(--radius-sm); }
     .tray-line .rm { margin-left:auto; background:transparent; border:1px solid var(--border); color:var(--muted); width:28px; height:28px; border-radius:var(--radius-pill); cursor:pointer; font-size:var(--fs-base); line-height:1; touch-action:manipulation; -webkit-tap-highlight-color:transparent; }
@@ -1115,10 +1116,6 @@
     .tray-line .open-prof:hover .po-nm { color:var(--accent); }
     .tray-line .open-prof small { color:var(--muted); font-weight:500; }
     .tray-line .uav { width:34px; height:34px; border-radius:var(--radius-pill); background-size:cover; background-position:center; flex-shrink:0; background-color:var(--surface); }
-    .tray-close { position:absolute; top:12px; right:12px; width:32px; height:32px; border-radius:var(--radius-pill); background:rgba(255,255,255,0.06); border:none; color:var(--fg); font-size:var(--fs-md); cursor:pointer; touch-action:manipulation; -webkit-tap-highlight-color:transparent; }
-    .picks-tray .clear-all { width:100%; margin-top:18px; background:transparent; border:1px solid var(--border); color:var(--muted); border-radius:var(--radius-sm); padding:9px; font:600 var(--fs-xs)/var(--lh-xs) var(--body); letter-spacing:0.1em; text-transform:uppercase; cursor:pointer; }
-    .picks-tray .clear-all:hover { border-color:var(--accent); color:var(--accent); }
-    .picks-tray .empty { color:var(--muted); padding:14px 0 6px; font-size:var(--fs-base); }
 
     /* shared-with-you banner */
     .shared-banner { display:none; align-items:center; gap:14px; flex-wrap:wrap; padding:13px 16px; margin:0 0 14px; border:1px solid var(--accent); border-radius:var(--radius); background:rgba(255,154,61,0.08); font-size:var(--fs-base); }
@@ -4392,7 +4389,7 @@
   <!-- Umami analytics. defer so it never blocks first paint; the SPA rewrites
        history on navigation, which umami picks up automatically. -->
   <script defer src="https://cloud.umami.is/script.js" data-website-id="de210b6c-12e4-4819-95f6-f5120974855a"></script>
-<meta name="sc-build" content="1789180069866">
+<meta name="sc-build" content="1789214693276">
   <link rel="canonical" href="https://soundcheck.club/" />
   <meta property="og:image" content="https://api.soundcheck.club/api/og?v=2&t=soundcheck&s=Club%20nights%20%26%20DJ%20sets%20in%20104%20cities" />
 </head>
@@ -5050,8 +5047,8 @@
     barEl.addEventListener('pointermove',function(e){ if(!scrubbing) return; pos=barFrac(e)*dur; paintScrub(); });
     barEl.addEventListener('pointerup',function(e){ if(!scrubbing) return; scrubbing=false; seekTo(barFrac(e)*dur); });
     barEl.addEventListener('pointercancel',function(){ scrubbing=false; });
-    document.getElementById('skip-back').addEventListener('click',function(){ if(active) seekTo(livePos()-15); });
-    document.getElementById('skip-fwd').addEventListener('click',function(){ if(active) seekTo(livePos()+15); });
+    onEl('skip-back','click',function(){ if(active) seekTo(livePos()-15); });
+    onEl('skip-fwd','click',function(){ if(active) seekTo(livePos()+15); });
 
     // Next-gig line for the expanded dock — fetched by the playing artist's slug (cached),
     // so it shows for EVERY artist play (rails, bill, discover, tune-in), not just ones
@@ -5443,7 +5440,7 @@
          e.target.closest('.scrub') || e.target.closest('.video-wrap') || e.target.closest('.dock-grab')) return;
       toggleDock();
     });
-    document.getElementById('dock-close').addEventListener('click',function(){ stopActive(); });
+    onEl('dock-close','click',function(){ stopActive(); });
 
     // ── YouTube-style queue: play a list of artists as full sets in the dock, with the
     // dock's prev/next walking the list (no radio broadcast / voiceover). Used by the city
@@ -5679,9 +5676,9 @@
       var p=document.getElementById('dock-prev'), n=document.getElementById('dock-next');
       [p,n].forEach(function(b){ if(b){ b.disabled=dis; b.style.opacity=dis?'0.35':''; } });
     }
-    document.getElementById('dock-prev').addEventListener('click',function(){ playAt(-1); });
-    document.getElementById('dock-next').addEventListener('click',function(){ playAt(1); });
-    document.getElementById('dock-heart').addEventListener('click',function(){ var s=this.getAttribute('data-pick-art'); if(s) toggleArtist(s,{name:this.getAttribute('data-name')}); });
+    onEl('dock-prev','click',function(){ playAt(-1); });
+    onEl('dock-next','click',function(){ playAt(1); });
+    onEl('dock-heart','click',function(){ var s=this.getAttribute('data-pick-art'); if(s) toggleArtist(s,{name:this.getAttribute('data-name')}); });
     // Start resolving a button's YouTube id on pointerdown (fires before the
     // click), so the id is usually ready by tap time. Awaiting an already-
     // resolved promise is only a microtask, so playback still runs inside the
@@ -6746,7 +6743,17 @@
         if(h.length<3){ status.className='handle-status'; status.textContent=''; return; }
         if(h===cur.toLowerCase()){ status.className='handle-status ok'; status.textContent='That’s your current handle.'; okHandle=h; go.disabled=false; return; }
         status.className='handle-status'; status.textContent='Checking…';
-        var j; try{ var r=await authedFetch('/api/handle/available?h='+encodeURIComponent(h)); j=await r.json(); }catch(_){ j={}; }
+        // A request that never landed must never be reported as a verdict. The
+        // catch used to fall through to `j={}`, so `j.reason||'Not available.'`
+        // told anyone on a flaky connection that the handle they wanted was taken.
+        // Say the check could not run, and leave the CTA disabled (okHandle stays
+        // null above) — claiming an unchecked handle is the server's call anyway.
+        var j, r;
+        try{ r=await authedFetch('/api/handle/available?h='+encodeURIComponent(h)); j=await r.json(); }
+        catch(_){
+          if(input.value.trim().toLowerCase()===h){ status.className='handle-status bad'; status.textContent='Couldn’t check that handle — try again.'; }
+          return;
+        }
         if(input.value.trim().toLowerCase()!==h) return; // a newer keystroke is in flight
         if(j.available){ status.className='handle-status ok'; status.innerHTML='✓ u/'+esc(h)+' is available'; okHandle=h; go.disabled=false; }
         else { status.className='handle-status bad'; status.textContent=j.reason||'Not available.'; }
@@ -7015,8 +7022,8 @@
         showToast(file?'Photo updated ✓':'Photo removed');
       }catch(_){ showToast('Upload failed.'); }
     }
-    document.getElementById('auth-close').addEventListener('click',closeAuth);
-    document.getElementById('auth-sent-done').addEventListener('click',closeAuth);
+    onEl('auth-close','click',closeAuth);
+    onEl('auth-sent-done','click',closeAuth);
     // PWA-friendly sign-in: verify the emailed code in THIS context so the session
     // cookie lands in the (installed) app, not whatever browser opened the link.
     /**
@@ -7054,7 +7061,7 @@
       }catch(_){ return 'Network error — try again.'; }
     }
 
-    document.getElementById('auth-code-go').addEventListener('click',async function(){
+    onEl('auth-code-go','click',async function(){
       // Fall back to the stored pending address: the sheet fills #auth-sent-to,
       // but a code typed after a GATE sign-up has no such element to read.
       var email=(document.getElementById('auth-sent-to').textContent||'').trim() || _pendingEmail || prefs.pendingEmail || '';
@@ -7066,7 +7073,7 @@
     });
     authOv.addEventListener('click',function(e){ if(e.target===authOv) closeAuth(); });
     document.addEventListener('keydown',function(e){ if(e.key==='Escape'&&authOv.classList.contains('show')) closeAuth(); });
-    document.getElementById('auth-form').addEventListener('submit',async function(e){
+    onEl('auth-form','submit',async function(e){
       e.preventDefault();
       var input=document.getElementById('auth-email'), go=document.getElementById('auth-go'), err=document.getElementById('auth-err');
       var email=input.value.trim().toLowerCase();
@@ -7082,8 +7089,8 @@
       finally{ go.disabled=false; }
     });
 
-    document.getElementById('signup-banner-dismiss').addEventListener('click', hideSignupBanner);
-    document.getElementById('signup-banner-resend').addEventListener('click', async function(){
+    onEl('signup-banner-dismiss','click', hideSignupBanner);
+    onEl('signup-banner-resend','click', async function(){
       if(!_pendingEmail) return;
       var btn=this; btn.disabled=true;
       try{ await fetch(API_BASE+'/api/auth/start',{method:'POST',headers:{'Content-Type':'application/json'},body:JSON.stringify({email:_pendingEmail})}); showToast('Magic link resent to '+_pendingEmail); }
@@ -7399,7 +7406,6 @@
       });
     }
 
-    // ── picks tray ──
     // ── My picks — full page: shelves + share + diary (replaces the tray/overlay) ──
     function meRow(label, sub, removeAttr){
       return '<li><span class="open-ev">'+esc(label)+(sub?' <small>'+esc(sub)+'</small>':'')+'</span><button class="rm" '+removeAttr+' title="Remove">&times;</button></li>';
@@ -7475,14 +7481,14 @@
         wireDiary(el, true, appendPicksDiary);
       }catch(_){}
     }
-    document.getElementById('radio-fab-main').addEventListener('click',function(){ if(typeof radio!=='undefined' && radio.on) radioStop(); else startRadio(); });
+    onEl('radio-fab-main','click',function(){ if(typeof radio!=='undefined' && radio.on) radioStop(); else startRadio(); });
     // text block is no longer inside the play button — clicking it while idle still starts radio
-    document.getElementById('radio-fab-tx').addEventListener('click',function(){ if(typeof radio==='undefined' || !radio.on) startRadio(); });
-    document.getElementById('radio-fab-stop').addEventListener('click',function(e){ e.stopPropagation(); if(typeof radioStop==='function') radioStop(); });
-    document.getElementById('radio-fab-heart').addEventListener('click',function(e){
+    onEl('radio-fab-tx','click',function(){ if(typeof radio==='undefined' || !radio.on) startRadio(); });
+    onEl('radio-fab-stop','click',function(e){ e.stopPropagation(); if(typeof radioStop==='function') radioStop(); });
+    onEl('radio-fab-heart','click',function(e){
       e.stopPropagation(); var en=radio.queue[radio.i]; if(en && en.slug) toggleArtist(en.slug, { name:en.name });
     });
-    document.getElementById('radio-fab-go').addEventListener('click',function(e){
+    onEl('radio-fab-go','click',function(e){
       e.stopPropagation(); var en=radio.queue[radio.i]; if(en && en.slug && typeof openArtist==='function') openArtist(en.slug);
     });
 
@@ -7751,7 +7757,7 @@
         // entity-page sticky bar: your handle + back + a play button that starts your seen artists' radio
         var accPlay = (s.seen && s.seen.length) ? function(){ startListRadio(s.seen, 'shelf:'+p.handle+':seen'); } : null;
         armSticky('u/'+p.handle, accPlay, ab.querySelector('.pb-hero')||ab);
-      }).catch(function(){ var ab=document.getElementById('acc-body'); if(ab) ab.innerHTML='<div class="empty">Couldn&rsquo;t load your account.</div>'; });
+      }).catch(function(){ var ab=document.getElementById('acc-body'); if(ab) ab.innerHTML='<div class="empty">Couldn’t load your account.</div>'; });
     }
 
     // ════ Phase 3/4: profiles · feed · artist/venue · diary (account features) ════
@@ -8210,7 +8216,7 @@
     (function(){
       function activeOverlay(){
         var em=document.querySelector('.email-overlay'); if(em) return em;   // created on demand, no .show
-        var sh=document.querySelectorAll('.auth-overlay.show, .cal-overlay.show, .picks-tray-overlay.show');
+        var sh=document.querySelectorAll('.auth-overlay.show, .cal-overlay.show');
         return sh.length ? sh[sh.length-1] : null;
       }
       function tabbables(el){ return [].slice.call(el.querySelectorAll('a[href],button:not([disabled]),input:not([disabled]),select:not([disabled]),textarea:not([disabled]),[tabindex]:not([tabindex="-1"])')); }
@@ -8920,7 +8926,7 @@
         // entity-page sticky bar: username + back + a play button that starts the seen artists' radio
         var profPlay = (s.seen && s.seen.length) ? function(){ startListRadio(s.seen, 'shelf:'+p.handle+':seen'); } : null;
         armSticky(p.displayName||('u/'+p.handle), profPlay, (panelBody&&panelBody.querySelector('.pf-id'))||document.getElementById('page-body'));
-      }catch(_){ openPanel('<div class="empty">Couldn&rsquo;t load that profile.</div>'); }
+      }catch(_){ openPanel('<div class="empty">Couldn’t load that profile.</div>'); }
     }
 
     // ── Shared playlists ─────────────────────────────────────────────────────
@@ -8941,15 +8947,15 @@
           '<button class="pl-new" type="button" id="pl-new"><span class="plus">+</span>New playlist</button></div>';
         box.querySelectorAll('.pl-card[data-pl]').forEach(function(c){ c.addEventListener('click',function(e){ e.preventDefault(); openPlaylist(c.dataset.pl); }); });
         var nb=box.querySelector('#pl-new'); if(nb) nb.addEventListener('click', createPlaylistFlow);
-      }catch(_){ box.innerHTML='<div class="fp-sets-empty">Couldn&rsquo;t load your playlists.</div>'; }
+      }catch(_){ box.innerHTML='<div class="fp-sets-empty">Couldn’t load your playlists.</div>'; }
     }
     async function createPlaylistFlow(){
       if(!currentUser){ showToast('Sign in to make a playlist.'); return; }
       var title=window.prompt('Name your playlist'); if(title==null) return; title=title.trim(); if(!title) return;
       try{
         var r=await authedFetch('/api/playlist',{method:'POST',headers:{'Content-Type':'application/json'},body:JSON.stringify({title:title})});
-        var j=await r.json(); if(j&&j.id) openPlaylist(j.id); else showToast('Couldn&rsquo;t create playlist.');
-      }catch(_){ showToast('Couldn&rsquo;t create playlist.'); }
+        var j=await r.json(); if(j&&j.id) openPlaylist(j.id); else showToast('Couldn’t create playlist.');
+      }catch(_){ showToast('Couldn’t create playlist.'); }
     }
     async function openPlaylist(id){
       setRoute('pl/'+id);
@@ -8959,7 +8965,7 @@
         if(r.status===404){ openPanel('<div class="empty">That playlist doesn&rsquo;t exist.</div>'); return; }
         var p=await r.json();
         renderPlaylist(p);
-      }catch(_){ openPanel('<div class="empty">Couldn&rsquo;t load that playlist.</div>'); }
+      }catch(_){ openPanel('<div class="empty">Couldn’t load that playlist.</div>'); }
     }
     function renderPlaylist(p){
       var tracks=p.tracks||[];
@@ -8991,9 +8997,11 @@
       armSticky(p.title, playable.length?function(){ playYtList(playable,0); }:null, document.getElementById('page-body'));
       var pa=document.getElementById('plp-play'); if(pa) pa.addEventListener('click',function(){ playYtList(playable,0); });
       var sh=document.getElementById('plp-share'); if(sh) sh.addEventListener('click',function(){ doShare({ title:p.title+' · soundcheck', text:'Check this playlist on soundcheck', url:location.origin+location.pathname+'#pl/'+p.id }); });
-      var jn=document.getElementById('plp-join'); if(jn) jn.addEventListener('click',async function(){ try{ await authedFetch('/api/playlist/join',{method:'POST',headers:{'Content-Type':'application/json'},body:JSON.stringify({id:p.id})}); openPlaylist(p.id); }catch(_){} });
+      // Every empty catch here was a dead button: the request failed, openPlaylist
+      // never ran, and nothing on screen changed — so the user tapped again.
+      var jn=document.getElementById('plp-join'); if(jn) jn.addEventListener('click',async function(){ try{ await authedFetch('/api/playlist/join',{method:'POST',headers:{'Content-Type':'application/json'},body:JSON.stringify({id:p.id})}); openPlaylist(p.id); }catch(_){ showToast('Couldn’t join that playlist.'); } });
       panelBody.querySelectorAll('.plt-row[data-vid]').forEach(function(row){ var th=row.querySelector('.plt-th'); if(th) th.addEventListener('click',function(){ var i=playable.findIndex(function(x){ return x.videoId===row.dataset.vid && String(x.sec)===row.dataset.sec; }); playYtList(playable, i<0?0:i); }); });
-      panelBody.querySelectorAll('[data-rm]').forEach(function(b){ b.addEventListener('click',async function(){ try{ await authedFetch('/api/playlist/remove',{method:'POST',headers:{'Content-Type':'application/json'},body:JSON.stringify({id:p.id,trackId:+b.dataset.rm})}); openPlaylist(p.id); }catch(_){} }); });
+      panelBody.querySelectorAll('[data-rm]').forEach(function(b){ b.addEventListener('click',async function(){ try{ await authedFetch('/api/playlist/remove',{method:'POST',headers:{'Content-Type':'application/json'},body:JSON.stringify({id:p.id,trackId:+b.dataset.rm})}); openPlaylist(p.id); }catch(_){ showToast('Couldn’t remove that track.'); } }); });
     }
     // Add-to-playlist chooser — used by the "+" on artist Tracks-tab rows.
     async function addToPlaylist(track){
@@ -9006,18 +9014,21 @@
       ov.querySelector('#sc-cancel').addEventListener('click',close);
       async function add(id){
         try{ await authedFetch('/api/playlist/tracks',{method:'POST',headers:{'Content-Type':'application/json'},body:JSON.stringify({ id:id, raw:track.raw, videoId:track.videoId||null, sec:track.sec!=null?track.sec:null })});
-          close(); showToast('Added to playlist'); }catch(_){ showToast('Couldn&rsquo;t add.'); }
+          close(); showToast('Added to playlist'); }catch(_){ showToast('Couldn’t add.'); }
       }
       ov.querySelector('#sc-pl-newbtn').addEventListener('click',async function(){
         var title=window.prompt('Name your playlist'); if(!title) return; title=title.trim(); if(!title) return;
-        try{ var r=await authedFetch('/api/playlist',{method:'POST',headers:{'Content-Type':'application/json'},body:JSON.stringify({title:title})}); var j=await r.json(); if(j&&j.id) add(j.id); }catch(_){}
+        // An empty catch meant the prompt just closed and the playlist was never
+        // made — indistinguishable from cancelling. A missing id is the same
+        // failure from the server's side, so both say so.
+        try{ var r=await authedFetch('/api/playlist',{method:'POST',headers:{'Content-Type':'application/json'},body:JSON.stringify({title:title})}); var j=await r.json(); if(j&&j.id) add(j.id); else showToast('Couldn’t make that playlist.'); }catch(_){ showToast('Couldn’t make that playlist.'); }
       });
       try{
         var r=await authedFetch('/api/playlists'); var j=await r.json(); var pls=(j&&j.playlists)||[];
         var list=ov.querySelector('#sc-pll');
         list.innerHTML=pls.length?pls.map(function(p){ return '<div class="sc-pl-item" data-pl="'+esc(p.id)+'"><span>'+esc(p.title)+'</span><span class="n">'+(p.n||0)+'</span></div>'; }).join(''):'<div class="empty" style="padding:8px 2px">No playlists yet — make one below.</div>';
         list.querySelectorAll('.sc-pl-item[data-pl]').forEach(function(it){ it.addEventListener('click',function(){ add(it.dataset.pl); }); });
-      }catch(_){ ov.querySelector('#sc-pll').innerHTML='<div class="empty">Couldn&rsquo;t load.</div>'; }
+      }catch(_){ ov.querySelector('#sc-pll').innerHTML='<div class="empty">Couldn’t load.</div>'; }
     }
 
     // ── Feedback: wrong-info reports + feature suggestions ────────────────────
@@ -9062,7 +9073,7 @@
       openPanel(pageSkeleton());
       try{
         var r=await authedFetch('/api/profile?handle='+encodeURIComponent(handle));
-        if(!r.ok){ openPanel('<div class="empty">Couldn&rsquo;t load that diary.</div>'); return; }
+        if(!r.ok){ openPanel('<div class="empty">Couldn’t load that diary.</div>'); return; }
         var p=await r.json();
         mine = mine || p.isMe;
         var diary=(p&&p.diary)||[], s=(p&&p.shelves)||{};
@@ -9082,7 +9093,7 @@
         // entity-page sticky bar: name + back + play the seen artists' radio
         var play=(s.seen && s.seen.length) ? function(){ startListRadio(s.seen, 'shelf:'+handle+':seen'); } : null;
         armSticky((p.displayName||('u/'+handle))+' · gig diary', play, (panelBody&&panelBody.querySelector('.pb-p-head'))||document.getElementById('page-body'));
-      }catch(_){ openPanel('<div class="empty">Couldn&rsquo;t load that diary.</div>'); }
+      }catch(_){ openPanel('<div class="empty">Couldn’t load that diary.</div>'); }
     }
     function wireProfile(){
       var fb=document.getElementById('follow-btn');
@@ -9188,7 +9199,7 @@
         }
         box.querySelectorAll('.upc-tab').forEach(function(b){ b.addEventListener('click',function(){ showTab(b.dataset.upTab); }); });
         showTab(upS.tab);
-      }catch(_){ box.innerHTML='<div class="empty">Couldn&rsquo;t load this.</div>'; }
+      }catch(_){ box.innerHTML='<div class="empty">Couldn’t load this.</div>'; }
     }
     function upAv(kind, key, name, image, avatar){
       var sq = kind==='venue' ? ' sq' : '';
@@ -9239,7 +9250,7 @@
           return '<div class="feed-row">'+av(a.author_handle)+'<div><div class="ft"><b class="lk" data-profile="'+esc(a.author_handle)+'">u/'+esc(a.author_handle)+'</b> '+verb+' '+subj+'</div><div class="fw">'+relTime(a.created_at)+'</div></div></div>';
         }).join('')+'</div>';
         openPanel(h); wireFeed();
-      }catch(_){ openPanel('<h2 class="page-title">Feed</h2><div class="empty">Couldn&rsquo;t load the feed.</div>'); }
+      }catch(_){ openPanel('<h2 class="page-title">Feed</h2><div class="empty">Couldn’t load the feed.</div>'); }
     }
     function wireFeed(){
       panelBody.querySelectorAll('[data-profile]').forEach(function(b){ b.addEventListener('click',function(){ openProfile(b.dataset.profile); }); });
@@ -9542,7 +9553,7 @@
             mountArtistRail(document.getElementById('dc-recs'), list.map(function(x){ return { slug:x.slug, name:x.name, image:x.image, nextDate:(x.next&&x.next.event_date)||null, nextVenue:(x.next&&x.next.venue)||null, nextCity:(x.next&&x.next.city)||null }; }), {title:'Rated by people with your taste', wrap:true, wide:true, mt:1, emptyLabel:'No upcoming dates'});
           }).catch(function(){});
         }
-      }catch(_){ openPanel('<h2 class="page-title">Discover</h2><div class="empty">Couldn&rsquo;t load Discover.</div>'); }
+      }catch(_){ openPanel('<h2 class="page-title">Discover</h2><div class="empty">Couldn’t load Discover.</div>'); }
     }
     // Recent searches — device-local, ephemeral UI history (not synced / not picks data).
     // Past searches are no longer suggested, and the stored list is cleared on
@@ -9570,12 +9581,30 @@
       var lastQ='', showing='';
       // recent searches sit as plain pills below the search box (no sub-heading)
       // a tap on any result records the query as "recent" (the search led somewhere)
+      // A FAILED search is not an empty one. Both search paths used to swallow the
+      // error with `catch(_){ j={}; }` and hand the empty object to renderSearch,
+      // which drew "No matches for '…'" — so a dropped connection read as "that
+      // artist isn't on soundcheck" and people retyped the query instead of
+      // retrying. One helper because there are two callers (typing, and the WHEN
+      // pills); returns false on failure, having already drawn its own retry state.
+      async function sxRun(q){
+        results.innerHTML='<div class="empty" style="padding:20px 0"><span class="spinner"></span> Searching…</div>';
+        try{
+          return await pubGet('/api/search?q='+encodeURIComponent(q)+'&city='+encodeURIComponent(currentCity)+'&when='+sxWhen(_sxFilter));
+        }catch(_){
+          if(input.value.trim()===q){     // a newer keystroke is in flight — leave its state alone
+            results.innerHTML='<div class="empty" style="padding:20px 0">Couldn’t run that search. <button class="more-btn" id="sx-retry" type="button">Retry</button></div>';
+            var rb=document.getElementById('sx-retry'); if(rb) rb.addEventListener('click',function(){ sxRun(q).then(function(j){ if(j!==false && input.value.trim()===q) renderSearch(results, j, q); }); });
+          }
+          return false;
+        }
+      }
       var run=debounce(async function(){
         var q=input.value.trim();
         if(q.length<2){ if(showing!=='empty'){ renderSearchEmpty(results); showing='empty'; } return; }
         lastQ=q; showing='results';
-        results.innerHTML='<div class="empty" style="padding:20px 0"><span class="spinner"></span> Searching…</div>';
-        var j; try{ j=await pubGet('/api/search?q='+encodeURIComponent(q)+'&city='+encodeURIComponent(currentCity)+'&when='+sxWhen(_sxFilter)); }catch(_){ j={}; }
+        var j=await sxRun(q);
+        if(j===false) return;
         if(input.value.trim()!==q) return; // a newer keystroke is in flight
         renderSearch(results, j, q);
       },220);
@@ -9583,8 +9612,8 @@
       // closure so the pills can reach the live input and results element.
       _sxRefetch=async function(){
         var q=input.value.trim(); if(q.length<2) return;
-        results.innerHTML='<div class="empty" style="padding:20px 0"><span class="spinner"></span> Searching…</div>';
-        var j; try{ j=await pubGet('/api/search?q='+encodeURIComponent(q)+'&city='+encodeURIComponent(currentCity)+'&when='+sxWhen(_sxFilter)); }catch(_){ j={}; }
+        var j=await sxRun(q);
+        if(j===false) return;
         _sxLast=q;                       // same query — do not let the reset guard clear the pill
         renderSearch(results, j, q);
       };
@@ -10311,7 +10340,7 @@
             paintRest();
           });
         });
-      }catch(_){ openPanel('<h2 class="page-title">Scenes</h2><div class="empty">Couldn&rsquo;t load scene guides.</div>'); }
+      }catch(_){ openPanel('<h2 class="page-title">Scenes</h2><div class="empty">Couldn’t load scene guides.</div>'); }
     }
     // "house" → "House". Genres arrive already cased from the API, but the hero
     // and the rows must agree even when one of them does not.
@@ -10987,7 +11016,7 @@
           ps.innerHTML='<div class="pf-box" style="margin-top:16px"><div class="sec-h">Similar promoters</div><div class="pp-tags">'+sims.map(function(s){ return '<a class="pp-prom nav" href="'+esc(promoterHref(s.slug))+'" data-promoter="'+esc(s.slug)+'">'+esc(s.name)+' <small>'+s.shared+' shared</small></a>'; }).join('')+'</div></div>';
           ps.querySelectorAll('.pp-prom[data-promoter]').forEach(function(b){ b.addEventListener('click',function(e){ e.preventDefault(); openPromoter(b.dataset.promoter); }); });
         }
-      }catch(_){ openPanel('<div class="empty">Couldn&rsquo;t load that promoter.</div>'); }
+      }catch(_){ openPanel('<div class="empty">Couldn’t load that promoter.</div>'); }
     }
     async function openVenue(input, cityHint){
       var _deepTab=(location.hash||'').replace(/^#/,'');   // capture BEFORE routing may clear the hash
@@ -11102,7 +11131,7 @@
             setTimeout(function(){ map.invalidateSize(); },120);
           });
         }
-      }catch(_){ openPanel('<div class="empty">Couldn&rsquo;t load that venue.</div>'); }
+      }catch(_){ openPanel('<div class="empty">Couldn’t load that venue.</div>'); }
     }
 
     // ── full event page (the sustainable, linkable version of the sheet) ──
@@ -12262,11 +12291,19 @@
         lgArtists.forEach(function(a){ picks.artists[a.slug]={name:a.name,status:'seen',t:Date.now()}; });
         savePicks(); afterPicksChanged();
         // the inline venue quick-read rides along with the same save
+        // NEVER claim the rating saved before the request says so. This toast used
+        // to read "… + rated <venue>" the instant the diary row saved, while the
+        // review POST was fire-and-forget behind `.catch(function(){})` — so every
+        // failed review still told the user their rating was in. Diary message goes
+        // out now (that part IS saved); the "+ rated" half only replaces it on ok.
+        var logMsg = j.updated ? 'Updated your diary' : 'Logged to your diary';
+        showToast(logMsg);
         if(lgSel.venue_slug && lgVRevAnswered()){
           authedFetch('/api/venue/review',{ method:'POST', headers:{'Content-Type':'application/json'},
-            body:JSON.stringify({ slug:lgSel.venue_slug, sound:lgVRev.sound, crowd:lgVRev.crowd, toilets:lgVRev.toilets, wouldReturn:lgVRev.wouldReturn, tags:lgVRev.tags }) }).catch(function(){});
-          showToast((j.updated ? 'Updated your diary' : 'Logged to your diary')+' + rated '+(lgSel.venue||'the venue'));
-        } else showToast(j.updated ? 'Updated your diary' : 'Logged to your diary');
+            body:JSON.stringify({ slug:lgSel.venue_slug, sound:lgVRev.sound, crowd:lgVRev.crowd, toilets:lgVRev.toilets, wouldReturn:lgVRev.wouldReturn, tags:lgVRev.tags }) })
+            .then(function(rv){ if(rv && rv.ok) showToast(logMsg+' + rated '+(lgSel.venue||'the venue')); })
+            .catch(function(){});
+        }
         // land on the full gig-diary page; replace #log so Back doesn't
         // return to a now-stale form.
         history.replaceState({sc:1},'','#diary'); openDiaryPage(currentUser&&currentUser.handle, true);
@@ -12467,7 +12504,7 @@
       var kind=admState.kind, slug=admState.slug, j=null;
       try{ j=await (await authedFetch('/api/admin/entity?type='+encodeURIComponent(kind)+'&slug='+encodeURIComponent(slug))).json(); }catch(_){}
       if(admState.slug!==slug) return;
-      if(!j||!j.canonical){ admRenderRight('<div class="es"><span class="es-t">Couldn&rsquo;t load that</span><p class="es-s">It may have been removed since the search ran.</p></div>'); return; }
+      if(!j||!j.canonical){ admRenderRight('<div class="es"><span class="es-t">Couldn’t load that</span><p class="es-s">It may have been removed since the search ran.</p></div>'); return; }
       var can=j.canonical, patch=j.patch||{}, fields=j.fields||{};
       var body='<div class="adm-panel"><div class="adm-sec-t">'+esc(can.name||can.slug)+'</div>'+
         '<div class="adm-sec-s">'+esc(kind)+' &middot; '+esc(can.slug)+(j.updatedAt?' &middot; last edited '+esc(String(j.updatedAt).slice(0,10)):'')+'</div>';
@@ -12517,7 +12554,7 @@
       var city=admState.city, j=null;
       try{ j=await (await authedFetch('/api/admin/city-guide?city='+encodeURIComponent(city))).json(); }catch(_){}
       if(admState.city!==city) return;
-      if(!j||!j.doc){ admRenderRight('<div class="es"><span class="es-t">Couldn&rsquo;t load that guide</span></div>'); return; }
+      if(!j||!j.doc){ admRenderRight('<div class="es"><span class="es-t">Couldn’t load that guide</span></div>'); return; }
       admState.guide=j.doc; admState.areas=(j.doc.areas||[]).slice();
       admRenderGuide(j);
     }
@@ -12728,10 +12765,10 @@
       } else { hEl.textContent='Shared with you'; }
       document.getElementById('shared-banner').classList.add('show');
     }
-    document.getElementById('shared-dismiss').addEventListener('click',function(){
+    onEl('shared-dismiss','click',function(){
       document.getElementById('shared-banner').classList.remove('show');
     });
-    document.getElementById('shared-see-more').addEventListener('click',function(){
+    onEl('shared-see-more','click',function(){
       // Scroll to the first picked card; fall back to first card with a picked artist row; fall back to first card.
       var first = gridEl.querySelector('.gcard.picked');
       if(!first){ var li=gridEl.querySelector('.line li.picked'); if(li) first=li.closest('.gcard'); }
@@ -12910,7 +12947,7 @@
       m.querySelectorAll('.gm-item').forEach(function(b){ b.addEventListener('click',function(){ _genreFilter=b.dataset.g||null; syncGenreChip(); paintCurrentGrid(); closeGenreMenu(); }); });
       setTimeout(function(){ document.addEventListener('click',_onGenreDoc); },0);
     }
-    document.getElementById('pick-genre').addEventListener('click',function(e){ e.stopPropagation(); if(document.getElementById('genre-menu')) closeGenreMenu(); else openGenreMenu(); });
+    onEl('pick-genre','click',function(e){ e.stopPropagation(); if(document.getElementById('genre-menu')) closeGenreMenu(); else openGenreMenu(); });
     // ── price (budget) filter — mirrors the genre chip, reuses the .genre-menu dropdown ──
     function priceLabel(){ if(!_priceFilter) return 'Price'; if(_priceFilter==='free') return 'Free'; var t=priceTiers(); return 'Under '+t.lab(_priceFilter==='lte1'?t.t1:t.t2); }
     function syncPriceChip(){
@@ -12934,7 +12971,7 @@
       m.querySelectorAll('.gm-item').forEach(function(b){ b.addEventListener('click',function(){ _priceFilter=b.dataset.p||null; syncPriceChip(); paintCurrentGrid(); closePriceMenu(); }); });
       setTimeout(function(){ document.addEventListener('click',_onPriceDoc); },0);
     }
-    document.getElementById('pick-price').addEventListener('click',function(e){ e.stopPropagation(); if(document.getElementById('price-menu')) closePriceMenu(); else openPriceMenu(); });
+    onEl('pick-price','click',function(e){ e.stopPropagation(); if(document.getElementById('price-menu')) closePriceMenu(); else openPriceMenu(); });
     // ── near-me filter: events whose venue is within ~NEAR_KM of the user. Grid events
     // don't carry coords, so we join the city's venue coords from /api/venues/map (cached
     // per city) by slugified venue name, then filter by haversine distance. ──
@@ -12961,7 +12998,7 @@
         loadVenueCoords().then(function(){ _nearFilter={ lat:pos.coords.latitude, lng:pos.coords.longitude, km:NEAR_KM }; syncNearChip(); paintCurrentGrid(); });
       }, function(){ showToast('Couldn’t get your location — check the permission.'); }, { enableHighAccuracy:false, timeout:9000, maximumAge:600000 });
     }
-    document.getElementById('pick-near').addEventListener('click',function(e){ e.stopPropagation(); toggleNear(); });
+    onEl('pick-near','click',function(e){ e.stopPropagation(); toggleNear(); });
     function renderEvents(events, eyebrowPrefix){
       stopActive();
       var evs=(events||[]).slice().sort(function(a,b){ return (b.attending||0)-(a.attending||0); });
@@ -13002,7 +13039,7 @@
     var _retryLoad=null;   // re-runs the last grid loader from the error state
     function showGridError(){
       var off=(typeof navigator!=='undefined' && navigator.onLine===false);
-      setStatus((off?'You&rsquo;re offline.':'Couldn&rsquo;t load events.')+' <button class="more-btn" id="grid-retry" type="button">Retry</button>', true);
+      setStatus((off?'You&rsquo;re offline.':'Couldn’t load events.')+' <button class="more-btn" id="grid-retry" type="button">Retry</button>', true);
       var rb=document.getElementById('grid-retry'); if(rb) rb.addEventListener('click',function(){ if(_retryLoad) _retryLoad(); });
     }
     function isoOf(d){ return d.getFullYear()+'-'+String(d.getMonth()+1).padStart(2,'0')+'-'+String(d.getDate()).padStart(2,'0'); }
@@ -13401,7 +13438,7 @@
         if(b){ close(); setCity(b.dataset.city, true); }
       });
     }
-    document.getElementById('hdr-city').addEventListener('click',openCityPicker);
+    onEl('hdr-city','click',openCityPicker);
     // Mobile keyboard: when an autocomplete input (.sg-wrap — log-a-gig / import city, artist,
     // venue) is focused, scroll it toward the top so its dropdown opens in the space ABOVE the
     // on-screen keyboard rather than behind it.
@@ -13528,7 +13565,7 @@
       }catch(err){ showGridError(); }
     }
 
-    document.getElementById('hdr-search').addEventListener('click',openSearch);
+    onEl('hdr-search','click',openSearch);
     document.querySelectorAll('.nl[data-nav]').forEach(function(b){ b.addEventListener('click',function(){ var n=b.dataset.nav;
       // Home is the only one that CLOSES rather than opens — same job as the
       // mobile bottom-bar Home: leave any open page, then go to the top.

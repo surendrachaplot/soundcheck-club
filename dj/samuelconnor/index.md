@@ -1,14 +1,14 @@
 # Samuel Connor
 
-Samuel Connor is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 12 Sept 2026, next at Cellar, London on Sat, 12 Sept 2026.
+Samuel Connor is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 12 Sept 2026, next at TBA, London on Sat, 12 Sept 2026.
 
-Samuel Connor is a house and techno artist based in United Kingdom, tracked on soundcheck, with 8 sets logged across London. Often billed alongside Jamie Dodger, Peter Glasspool and Bapti. Next up: Cellar, London on Sat 12 Sept.
+Samuel Connor is a house and techno artist based in United Kingdom, tracked on soundcheck, with 8 sets logged across London. Often billed alongside Jamie Dodger, Peter Glasspool and Bapti. Next up: TBA, London on Sat 12 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 12 Sept 2026 | Cellar | London |
+| Sat, 12 Sept 2026 | TBA | London |
 
 ## Recently played
 

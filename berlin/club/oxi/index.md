@@ -16,7 +16,7 @@ OXI is a music venue in Berlin listed on soundcheck. 26 upcoming nights, with li
 | Tue, 22 Sept 2026 | ✦encore.une.fois✦ / TUESDAY TECHNO RAVE | Berfu, Lawrence Lee, Mohajer, no.name (IT) |
 | Fri, 25 Sept 2026 | OXI LIVE: MODULAR / SYNTHS - with Dr. Spree - Berlin and Amsterdam | Bokaric, DEN!SE, Dr. Spree, Gabrielle (DE), James Cherry, Jasmin Giovanazzi, Martxas, Sholinger, Solvados, namejerry |
 | Sat, 26 Sept 2026 | OXI GROOVE AFFAIR (OPEN AIR + INDOOR) | Chris Ku, Marcus Holder, Meggy, Michael Lane, Rina Katen, Rydim, Sam Paradise, Sara Miller, Tereza, le0j |
-| Sun, 27 Sept 2026 | RAMA X HOMODROP (OPEN AIR + INDOOR) | Cheriii, Clay, Gio Goltara, Hunkut, Julie Desire, Somme Farris, Sub Sahara |
+| Sun, 27 Sept 2026 | RAMA X HOMODROP (OPEN AIR + INDOOR) | Cheriii, Clay, Gio Goltara, Hunkut, Julie Desire, Mars O10C, Somme Farris, Sub Sahara, clay (DE) |
 | Tue, 29 Sept 2026 | ✦encore.une.fois✦ / TUESDAY TECHNO RAVE | BLACK ANTHEM RESTORE, Lola Kay, Majdolen, Rachel Noon, YAZMIN (MT) |
 
 ## Address

@@ -9,7 +9,7 @@ Emma Pea is a music venue in Berlin listed on soundcheck. 2 upcoming nights. Bro
 | Date | Night | Line-up |
 | --- | --- | --- |
 | Mon, 28 Sept 2026 | Kink-Y Munch |  |
-| Sat, 3 Oct 2026 | Sommer Closing Party x embraceOurweird |  |
+| Sat, 3 Oct 2026 | RAVE NIGHT - embraceOurweird x Aesthetics |  |
 
 ## Address
 

@@ -1,8 +1,8 @@
-# TBA - Secret Location
+# TBA - SECRET LOCATION
 
-TBA - Secret Location is a music venue in London with 54 upcoming nights listed on soundcheck as of Sat, 12 Sept 2026; the next is "FOG: Closing Summer - Outdoor" on Sat, 12 Sept 2026.
+TBA - SECRET LOCATION is a music venue in London with 54 upcoming nights listed on soundcheck as of Sat, 12 Sept 2026; the next is "FOG: Closing Summer - Outdoor" on Sat, 12 Sept 2026.
 
-TBA - Secret Location is a music venue in London listed on soundcheck. 54 upcoming nights, with line-ups including .cosm, 7038634357, DJ JUANNY and Annina and 2 more. Browse upcoming dates, start times and who's playing.
+TBA - SECRET LOCATION is a music venue in London listed on soundcheck. 54 upcoming nights, with line-ups including .cosm, 7038634357, DJ JUANNY and Annina and 2 more. Browse upcoming dates, start times and who's playing.
 
 ## What's on
 
