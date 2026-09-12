@@ -1,14 +1,13 @@
 # Alien Communications
 
-Alien Communications is a Electro and Techno artist with 6 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Big Penny Social, London on Sat, 12 Sept 2026.
+Alien Communications is a Electro and Techno artist with 5 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at TBA - Secret Location, Edinburgh, Edinburgh on Sat, 19 Sept 2026.
 
-Alien Communications is an electro and techno artist based in United Kingdom, tracked on soundcheck, with 122 sets logged across Amsterdam, Barcelona, Berlin and Birmingham and 17 more. Often billed alongside Jos, Ste Roberts and Domenic Cappello. Next up: Big Penny Social, London on Sat 12 Sept.
+Alien Communications is an electro and techno artist based in United Kingdom, tracked on soundcheck, with 122 sets logged across Amsterdam, Barcelona, Berlin and Birmingham and 17 more. Often billed alongside Jos, Ste Roberts and Domenic Cappello. Next up: TBA - Secret Location, Edinburgh, Edinburgh on Sat 19 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 12 Sept 2026 | Big Penny Social | London |
 | Sat, 19 Sept 2026 | TBA - Secret Location, Edinburgh | Edinburgh |
 | Fri, 9 Oct 2026 | Gaffe | London |
 | Sat, 24 Oct 2026 | Café Café Bar Amsterdam | Amsterdam |

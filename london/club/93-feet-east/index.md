@@ -9,7 +9,7 @@
 | Date | Night | Line-up |
 | --- | --- | --- |
 | Sat, 12 Sept 2026 | Bitch Pleaze | Boy Sonic, David Elimelech, Huse (2), Mani (3) |
-| Sun, 13 Sept 2026 | NATIVES: Summer Closing Day Party with Vitoto, General C'Mamane, Hypaphonik & FATSO98 | CRUZ CTRL (3), General C'mamane, Golden Lady, INTUIT, Nésa Thea, OneThabs, Tadi.wav |
+| Sun, 13 Sept 2026 | [FINAL 100 TICKETS] NATIVES: Summer Closing Day Party with General C'Mamane, FATSO98+MORE | CRUZ CTRL (3), General C'mamane, Golden Lady, INTUIT, Nésa Thea, OneThabs, Tadi.wav |
 | Sat, 19 Sept 2026 | Deep into Soul | Neil Pierce, Quentin Harris, Sy Sez |
 | Fri, 25 Sept 2026 | Chevry Showcase: HearThug, Jhobei, KT, Vitess | HearThug, Jhobei, KT, Vitess |
 | Sat, 26 Sept 2026 | MIOAZ Live presents Braxton & Trilucid | Bertt, Braxton, Camilla Sadaghna, Trilucid |

@@ -1,6 +1,6 @@
 # Overtime: Meke, jjvisionn at Sekta Selekta
 
-Overtime: Meke, jjvisionn at Sekta Selekta on Sun 13 Sept, Krakow. 1 act on the bill: Meke. House and Minimal. Preview the line-up and save it on soundcheck.
+Overtime: Meke, jjvisionn at Sekta Selekta on Sun 13 Sept, Krakow. 1 act on the bill: Meke. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

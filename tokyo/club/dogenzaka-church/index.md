@@ -1,8 +1,8 @@
 # Dogenzaka Church
 
-Dogenzaka Church is a music venue in Tokyo with 7 upcoming nights listed on soundcheck as of Sat, 12 Sept 2026; the next is "マンゴー教会" on Sat, 12 Sept 2026.
+Dogenzaka Church is a music venue in Tokyo with 8 upcoming nights listed on soundcheck as of Sat, 12 Sept 2026; the next is "マンゴー教会" on Sat, 12 Sept 2026.
 
-Dogenzaka Church is a music venue in Tokyo listed on soundcheck. 7 upcoming nights, with line-ups including DJ MIYU, EIJI, Hironobu Jyounai and MOTOKA and 2 more. Browse upcoming dates, start times and who's playing. Japan, 〒150-0043 Tokyo, Shibuya City, Dogenzaka, 2 Chome−16−5, Central Kyoritsu Building, 1階.
+Dogenzaka Church is a music venue in Tokyo listed on soundcheck. 8 upcoming nights, with line-ups including DJ MIYU, EIJI, Hironobu Jyounai and MOTOKA and 2 more. Browse upcoming dates, start times and who's playing. Japan, 〒150-0043 Tokyo, Shibuya City, Dogenzaka, 2 Chome−16−5, Central Kyoritsu Building, 1階.
 
 ## What's on
 
@@ -13,6 +13,7 @@ Dogenzaka Church is a music venue in Tokyo listed on soundcheck. 7 upcoming nigh
 | Wed, 16 Sept 2026 | JESUS | Tinker |
 | Thu, 17 Sept 2026 | AMEN | yuitty |
 | Sat, 19 Sept 2026 | IMPACT | DJ MIYU, Xilley, omeme_gangimari |
+| Sun, 20 Sept 2026 | rehabilitation | Okehazama |
 | Wed, 30 Sept 2026 | inori | MOTOKA |
 | Sat, 10 Oct 2026 | BASS CATHEDRAL - DRUM'N'BASS SHIBUYA | EIJI, Hironobu Jyounai, vinylDJ Eiji Takehana |
 

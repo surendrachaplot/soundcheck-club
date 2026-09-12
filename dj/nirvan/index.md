@@ -1,14 +1,15 @@
 # Nirvan
 
-Nirvan is a House and Minimal artist with 2 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Plaza Camden, London on Sat, 10 Oct 2026.
+Nirvan is a House and Minimal artist with 3 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Plaza Camden, London on Sat, 10 Oct 2026.
 
-Nirvan is a house and minimal artist based in Belgium, tracked on soundcheck, with 27 sets logged across Brussels and London. Often billed alongside AOB, DJOM and Elioss. Next up: Plaza Camden, London on Sat 10 Oct.
+Nirvan is a house and minimal artist based in Belgium, tracked on soundcheck, with 28 sets logged across Amsterdam, Brussels and London. Often billed alongside AOB, DJOM and Elioss. Next up: Plaza Camden, London on Sat 10 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 10 Oct 2026 | Plaza Camden | London |
+| Sat, 24 Oct 2026 | Amsterdam Club Train | Amsterdam |
 | Fri, 30 Oct 2026 | Loft Studios | London |
 
 ## Recently played

@@ -15,7 +15,7 @@ Seaseaclub Barcelona is a music venue in Barcelona listed on soundcheck. 14 upco
 | Sat, 26 Sept 2026 | Sunset Experience 1 Year Anniversary | DJ SOFÍDIA, Tanya Andros, Tom Banner |
 | Sat, 3 Oct 2026 | TSOA: X Years w. Patrice Bäumel, Stavroz Live & Marino Canal (Open Air) | Agatha Pher, Marino Canal, Patrice Bäumel, Stavroz |
 | Sat, 10 Oct 2026 | Diggin' pres. Lamache and Voodoos & Taboos. (MUAMUA) | Lamache, Nancy (3), Vallde, Vilalta, Voodoos and Taboos, arnald |
-| Sat, 10 Oct 2026 | Alta Fidelidad xp x Diggin' x Mirador x 24seven - 3 stages - 17:30-03:00 | Camion Bazar, Diesco, Lamache, Nancy (3), Vallde, Varan (2), Vilalta, Vince Void, Voodoos and Taboos, Yamour, arnald |
+| Sat, 10 Oct 2026 | Alta Fidelidad 3D x Diggin' x Mirador x 24seven - 3 stages experience - 17:30-03:00 | Camion Bazar, Diesco, Lamache, Nancy (3), Vallde, Varan (2), Vilalta, Vince Void, Voodoos and Taboos, Yamour, arnald |
 | Sun, 11 Oct 2026 | SWING pres. Hot Since 82 | Hot Since 82 |
 | Sat, 17 Oct 2026 | INPUT x HOT CREATIONS w/ Patrick Topping + Richy Ahmed + Rossko | Max Haas, Patrick Topping, Richy Ahmed, Rossko |
 

@@ -1,14 +1,13 @@
 # Nørbak
 
-Nørbak is a Techno and House artist with 11 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at KHIDI, Tbilisi on Fri, 11 Sept 2026.
+Nørbak is a Techno and House artist with 10 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at FOLD, London on Sat, 12 Sept 2026.
 
-Nørbak is a techno and house artist tracked on soundcheck, with 140 sets logged across Amsterdam, Athens, Barcelona and Basel and 39 more. Often billed alongside Temudo, Quelza and CRAVO. Next up: KHIDI, Tbilisi on Fri 11 Sept.
+Nørbak is a techno and house artist tracked on soundcheck, with 140 sets logged across Amsterdam, Athens, Barcelona and Basel and 39 more. Often billed alongside Temudo, Quelza and CRAVO. Next up: FOLD, London on Sat 12 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 11 Sept 2026 | KHIDI | Tbilisi |
 | Sat, 12 Sept 2026 | FOLD | London |
 | Sat, 19 Sept 2026 | Lofi | Amsterdam |
 | Fri, 25 Sept 2026 | Lux Fragil | Lisbon |

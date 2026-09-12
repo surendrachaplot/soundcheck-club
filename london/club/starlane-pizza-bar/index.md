@@ -1,14 +1,13 @@
 # Starlane Pizza Bar
 
-Starlane Pizza Bar is a music venue in London with 26 upcoming nights listed on soundcheck as of Sat, 12 Sept 2026; the next is "XTD - 012 - After Party" on Sat, 12 Sept 2026.
+Starlane Pizza Bar is a music venue in London with 25 upcoming nights listed on soundcheck as of Sat, 12 Sept 2026; the next is "Brainsurfers [All Night Long]" on Sat, 12 Sept 2026.
 
-Starlane Pizza Bar is a music venue in London listed on soundcheck. 26 upcoming nights, with line-ups including 3 Minds, ADAN (2), ADMNTi and Aerofunk and 2 more. Browse upcoming dates, start times and who's playing. 12 Cody Road, E16 4SR London, United Kingdom.
+Starlane Pizza Bar is a music venue in London listed on soundcheck. 25 upcoming nights, with line-ups including 3 Minds, ADAN (2), ADMNTi and Aerofunk and 2 more. Browse upcoming dates, start times and who's playing. 12 Cody Road, E16 4SR London, United Kingdom.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 12 Sept 2026 | XTD - 012 - After Party | Harry McCanna, Zya (1) |
 | Sat, 12 Sept 2026 | Brainsurfers [All Night Long] | Harry McCanna, Sam Bangura |
 | Sun, 13 Sept 2026 | Music as Resistance ~ Against Apathy Party | ADAN (2), Dylan Pasqua, Godsfave, Guillaume Cartier, Sheriff Boo |
 | Fri, 18 Sept 2026 | Forward x Bonanza present: Starlane London | Benny (El Rio Hostel), Kensa, Kyle Toole, Millie McKee, Moaad BKR, Nicky Macha |
@@ -18,6 +17,7 @@ Starlane Pizza Bar is a music venue in London listed on soundcheck. 26 upcoming 
 | Sat, 26 Sept 2026 | Eargasm's 2nd Birthday ( w/ 3Minds, NOIDMATE, Nic David & Quidders ) | 3 Minds, Ghosts Of Dance, NOIDMATE, Nic David, Quidders |
 | Sun, 27 Sept 2026 | Saints & Sinners with James Harbrecht, Jeneva, LO-LOW B2B David Ramsay & OllyK | David Ramsay, James Harbrecht, Jeneva, LO-LOW, OllyK |
 | Sun, 27 Sept 2026 | Cartulis After Party - Summer Closing |  |
+| Fri, 2 Oct 2026 | ElixSystem at Starlane |  |
 
 ## Address
 

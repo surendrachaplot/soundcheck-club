@@ -3524,6 +3524,14 @@
     .fp-ev-share-ic:hover{ border-color:var(--sel); color:var(--sel-text); }
     .fp-ev-share-ic svg{ width:17px; height:17px; }
     .fp-event{ position:relative; }
+    /* WHO PUT THE NIGHT ON — a credit under the description, above Tickets.
+       It has to carry its own link colour: the promoter line used to live inside
+       .fp-ev-venue and borrowed that block's .pr-link rule, so moving the markup
+       out without this left an accent-coloured link rendering as body text. */
+    .fp-ev-by{ font:400 var(--fs-xs)/var(--lh-xs) var(--body); color:var(--faint); margin:10px 0 0; }
+    .fp-ev-by .pr-link{ color:var(--accent); cursor:pointer; border:0; background:none; font:inherit; padding:0; text-decoration:none; }
+    .fp-ev-by .pr-link:hover{ text-decoration:underline; }
+    .fp-ev-by .pr-rest{ color:var(--faint); }
     /* tickets link under the description */
     .fp-ev-tickets{ display:inline-flex; align-items:center; gap:6px; margin-top:16px; color:var(--accent); font:700 var(--fs-sm)/var(--lh-sm) var(--body); text-decoration:none; }
     .fp-ev-tickets:hover{ text-decoration:underline; }
@@ -4389,7 +4397,7 @@
   <!-- Umami analytics. defer so it never blocks first paint; the SPA rewrites
        history on navigation, which umami picks up automatically. -->
   <script defer src="https://cloud.umami.is/script.js" data-website-id="de210b6c-12e4-4819-95f6-f5120974855a"></script>
-<meta name="sc-build" content="1789219214326">
+<meta name="sc-build" content="1789229424521">
   <link rel="canonical" href="https://soundcheck.club/" />
   <meta property="og:image" content="https://api.soundcheck.club/api/og?v=2&t=soundcheck&s=Club%20nights%20%26%20DJ%20sets%20in%20104%20cities" />
 </head>
@@ -4448,7 +4456,7 @@
     <div class="grid" id="grid"></div>
     <!-- Per-city "what's on this week" date links, injected by build-club (canonical
          /<city>/<date>/ pages). Empty in the source; hidden on client-side city switch. -->
-    <section id="home-seo-more" class="home-seo-more" data-city="london"><h2>What&rsquo;s on in London this week</h2><ul class="home-seo-dates"><li><a href="/london/2026-09-12/">Sat 12 Sept <span class="c">139 events</span></a></li><li><a href="/london/2026-09-13/">Sun 13 Sept <span class="c">29 events</span></a></li><li><a href="/london/2026-09-14/">Mon 14 Sept <span class="c">4 events</span></a></li><li><a href="/london/2026-09-15/">Tue 15 Sept <span class="c">4 events</span></a></li><li><a href="/london/2026-09-16/">Wed 16 Sept <span class="c">17 events</span></a></li><li><a href="/london/2026-09-17/">Thu 17 Sept <span class="c">38 events</span></a></li><li><a href="/london/2026-09-18/">Fri 18 Sept <span class="c">102 events</span></a></li></ul><nav class="home-seo-nav" aria-label="More on soundcheck"><a href="/london/this-weekend/">This weekend in London</a> <a href="/london/scene/">London scene guide</a> <a href="/cities/">All 104 cities</a></nav></section>
+    <section id="home-seo-more" class="home-seo-more" data-city="london"><h2>What&rsquo;s on in London this week</h2><ul class="home-seo-dates"><li><a href="/london/2026-09-12/">Sat 12 Sept <span class="c">137 events</span></a></li><li><a href="/london/2026-09-13/">Sun 13 Sept <span class="c">29 events</span></a></li><li><a href="/london/2026-09-14/">Mon 14 Sept <span class="c">4 events</span></a></li><li><a href="/london/2026-09-15/">Tue 15 Sept <span class="c">4 events</span></a></li><li><a href="/london/2026-09-16/">Wed 16 Sept <span class="c">17 events</span></a></li><li><a href="/london/2026-09-17/">Thu 17 Sept <span class="c">38 events</span></a></li><li><a href="/london/2026-09-18/">Fri 18 Sept <span class="c">102 events</span></a></li></ul><nav class="home-seo-nav" aria-label="More on soundcheck"><a href="/london/this-weekend/">This weekend in London</a> <a href="/london/scene/">London scene guide</a> <a href="/cities/">All 104 cities</a></nav></section>
 
     <!-- Crawlable home content (H1 + intro) — moved to the bottom of the page. Still a real
          <h1> in the DOM so it's the page heading for SEO regardless of visual position.
@@ -11238,23 +11246,6 @@
               '<div class="fp-kick">'+esc(when)+'</div>'+
               '<h1 class="fp-ev-title">'+esc(ev.title||'Event')+'</h1>'+
               '<div class="fp-ev-venue">at <a class="venue-link nav"'+(ev.venue?' href="'+esc(venueHref(ev.venue, ev.city))+'"':'')+' data-venue="'+esc(ev.venue||'')+'">'+esc(ev.venue||'TBA')+'</a></div>'+
-              // WHO PUT THE NIGHT ON. /api/event has returned ev.promoters since
-              // migration 024 and the page has never drawn it — 13,333 of 16,595
-              // upcoming nights name one. Same shape as the venue line above it.
-              (function(){
-                // A fifth of all links are the club booking its own room. "at fabric
-                // / by fabric" is noise, so a promoter whose name IS the venue drops out.
-                var vn=(ev.venue||'').trim().toLowerCase();
-                var ps=(ev.promoters||[]).filter(function(p){ return p && p.name && p.name.trim().toLowerCase()!==vn; });
-                if(!ps.length) return '';
-                // Three names then a count — one line always, never a stack that
-                // pushes the action buttons off a phone. 77 nights name more than three.
-                var shown=ps.slice(0,3).map(function(p){
-                  return '<a class="pr-link nav" href="'+esc(promoterHref(p.slug))+'" data-promoter="'+esc(p.slug)+'">'+esc(p.name)+'</a>';
-                }).join(', ');
-                var rest=ps.length>3?(' <span class="pr-rest">+ '+(ps.length-3)+' more</span>'):'';
-                return '<div class="fp-ev-venue">by '+shown+rest+'</div>';
-              })()+
               (ev.city?'<div class="fp-ev-meta">'+esc(cityLabel(ev.city))+'</div>':'')+   /* genres live in the pill row below the buttons, not here */
               (_invActive?'<div class="inv-strip"><span class="inv-av">'+esc((_inviteFrom[0]||'?').toUpperCase())+'</span><span>u/'+esc(_inviteFrom)+' is going</span></div>':'')+
               // Equal-width action row (Play same size as its siblings — grid wraps
@@ -11280,6 +11271,26 @@
               })()+
               ((ev.genres||[]).length?'<div class="fp-ev-gline">'+(ev.genres||[]).slice(0,4).map(function(g){ return '<span class="fp-ev-gtag">'+esc(g)+'</span>'; }).join('')+'</div>':'')+
               (blurb?'<p class="fp-ev-blurb">'+esc(blurb)+'</p>':'')+
+              // WHO PUT THE NIGHT ON — a quiet credit line under the description,
+              // above the tickets link. It used to sit directly under "at <venue>"
+              // at the same weight and size, so the header read as two equal
+              // headlines and the promoter competed with the room. A promoter is
+              // an attribution, not a destination: small, below the blurb, still
+              // a real link to their page.
+              (function(){
+                // A fifth of all links are the club booking its own room. "at fabric
+                // / Event by fabric" is noise, so a promoter whose name IS the venue
+                // drops out.
+                var vn=(ev.venue||'').trim().toLowerCase();
+                var ps=(ev.promoters||[]).filter(function(p){ return p && p.name && p.name.trim().toLowerCase()!==vn; });
+                if(!ps.length) return '';
+                // Three names then a count — one line always. 77 nights name more.
+                var shown=ps.slice(0,3).map(function(p){
+                  return '<a class="pr-link nav" href="'+esc(promoterHref(p.slug))+'" data-promoter="'+esc(p.slug)+'">'+esc(p.name)+'</a>';
+                }).join(', ');
+                var rest=ps.length>3?(' <span class="pr-rest">+ '+(ps.length-3)+' more</span>'):'';
+                return '<div class="fp-ev-by">Event by '+shown+rest+'</div>';
+              })()+
               (isPast?'':'<a class="fp-ev-tickets" href="'+ticketUrl+'" target="_blank" rel="noopener">Get tickets here →</a>')+
             '</div>'+
           '</div>'+

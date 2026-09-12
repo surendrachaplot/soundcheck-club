@@ -9,7 +9,7 @@ Palais Mascotte is a music venue in Zurich listed on soundcheck. 3 upcoming nigh
 | Date | Night | Line-up |
 | --- | --- | --- |
 | Sat, 12 Sept 2026 | Kiki x Palais Mascotte: Day into Night |  |
-| Fri, 18 Sept 2026 | TOY TONICS: Sam Ruffillo CLEEEO | Sam Ruffillo |
+| Fri, 18 Sept 2026 | TOY TONICS: Sam Ruffillo / CLEEEO / SCHACKE99 | Sam Ruffillo |
 | Fri, 25 Sept 2026 | Kirollus (ATA Records) Lea Lisa KRESHNIK | Kirollus, Lea Lisa |
 
 ## Address

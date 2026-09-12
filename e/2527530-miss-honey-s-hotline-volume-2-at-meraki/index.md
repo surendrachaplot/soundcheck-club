@@ -1,6 +1,6 @@
 # MISS HONEY'S HOTLINE: VOLUME 2 at Meraki
 
-MISS HONEY'S HOTLINE: VOLUME 2 at Meraki on Sat 24 Oct, Liverpool. 5 acts on the bill: CIVILIAN, EDJM, millwac and Princess Elf Bar and 1 more. Trance and Techno. Preview the line-up and save it on soundcheck.
+MISS HONEY'S HOTLINE: VOLUME 2 at Meraki on Sat 24 Oct, Liverpool. 6 acts on the bill: CHVZ, CIVILIAN, EDJM and millwac and 2 more. Trance and Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ MISS HONEY'S HOTLINE: VOLUME 2 at Meraki on Sat 24 Oct, Liverpool. 5 acts on the
 
 ## Line-up
 
+- CHVZ
 - CIVILIAN
 - EDJM
 - millwac
