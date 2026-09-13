@@ -2,7 +2,7 @@
 
 Xiaolin is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Sun, 13 Sept 2026, next at 宀 Club, Hong Kong on Fri, 25 Sept 2026.
 
-Xiaolin is a house and techno artist tracked on soundcheck, with 79 sets logged across Amsterdam, Bali, Barcelona and Berlin and 20 more. Often billed alongside Sunsiaré, Mr. Ho and Rødhåd. Next up: 宀 Club, Hongkong on Fri 25 Sept.
+Xiaolin is a house and techno artist tracked on soundcheck, with 80 sets logged across Amsterdam, Bali, Barcelona and Berlin and 21 more. Often billed alongside Sunsiaré, Mr. Ho and Rødhåd. Next up: 宀 Club, Hongkong on Fri 25 Sept.
 
 ## Upcoming shows
 
@@ -21,9 +21,9 @@ Xiaolin is a house and techno artist tracked on soundcheck, with 79 sets logged 
 - Schönwalde-Glien, Grünefeld bei Berlin, Germany, Berlin — Thu, 16 Jul 2026
 - Parco Dora, Turin — Fri, 3 Jul 2026
 - WOMB, Tokyo — Sat, 27 Jun 2026
+- Rukatunturi, Helsinki — Thu, 18 Jun 2026
 - LAUT, Barcelona — Thu, 18 Jun 2026
 - Berghain | Panorama Bar | Säule, Berlin — Sat, 13 Jun 2026
-- Umoya, Naples — Fri, 5 Jun 2026
 
 ## Shares bills with
 

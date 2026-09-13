@@ -1,14 +1,13 @@
 # Nobuharu Morimoto
 
-Nobuharu Morimoto is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sun, 13 Sept 2026, next at Shibuya OTO, Tokyo on Sun, 13 Sept 2026.
+Nobuharu Morimoto is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sun, 13 Sept 2026, next at R Lounge, Tokyo on Fri, 18 Sept 2026.
 
-Nobuharu Morimoto is a techno and house artist based in Japan, tracked on soundcheck, with 60 sets logged across Tokyo. Often billed alongside Negami, COSMOGANG and nylon. Next up: Shibuya OTO, Tokyo on Sun 13 Sept.
+Nobuharu Morimoto is a techno and house artist based in Japan, tracked on soundcheck, with 60 sets logged across Tokyo. Often billed alongside Negami, COSMOGANG and nylon. Next up: R Lounge, Tokyo on Fri 18 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sun, 13 Sept 2026 | Shibuya OTO | Tokyo |
 | Fri, 18 Sept 2026 | R Lounge | Tokyo |
 
 ## Recently played

@@ -2,7 +2,7 @@
 
 KAVARI is a Experimental and Techno artist with 7 upcoming club dates listed on soundcheck as of Sun, 13 Sept 2026, next at Cafeteria, Toronto on Fri, 18 Sept 2026.
 
-KAVARI is an experimental and techno artist tracked on soundcheck, with 104 sets logged across Amsterdam, Auckland, Austin and Barcelona and 33 more. Often billed alongside Blood of Aza, KLAUDIO and Mvcoko. Next up: Cafeteria, Toronto on Fri 18 Sept.
+KAVARI is an experimental and techno artist tracked on soundcheck, with 105 sets logged across Amsterdam, Auckland, Austin and Barcelona and 34 more. Often billed alongside Blood of Aza, KLAUDIO and Mvcoko. Next up: Cafeteria, Toronto on Fri 18 Sept.
 
 ## Upcoming shows
 

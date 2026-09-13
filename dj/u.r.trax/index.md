@@ -2,7 +2,7 @@
 
 u.r.trax is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sun, 13 Sept 2026, next at fi, Cologne on Sat, 26 Sept 2026.
 
-u.r.trax is a techno and house artist tracked on soundcheck, with 143 sets logged across Amsterdam, Bangkok, Barcelona and Basel and 49 more. Often billed alongside Nina Kraviz, Héctor Oaks and SALOME. Next up: fi, Cologne on Sat 26 Sept.
+u.r.trax is a techno and house artist tracked on soundcheck, with 144 sets logged across Amsterdam, Bangkok, Barcelona and Basel and 50 more. Often billed alongside Nina Kraviz, Héctor Oaks and SALOME. Next up: fi, Cologne on Sat 26 Sept.
 
 ## Upcoming shows
 

@@ -2,7 +2,7 @@
 
 Patrick Mason is a Techno and House artist with 13 upcoming club dates listed on soundcheck as of Sun, 13 Sept 2026, next at Hï Ibiza, Ibiza on Mon, 14 Sept 2026.
 
-Patrick Mason is a techno and house artist tracked on soundcheck, with 271 sets logged across Amsterdam, Antwerp, Athens and Austin and 73 more. Often billed alongside Héctor Oaks, 999999999 and I Hate Models. Next up: Hï Ibiza, Ibiza on Mon 14 Sept.
+Patrick Mason is a techno and house artist tracked on soundcheck, with 272 sets logged across Amsterdam, Antwerp, Athens and Austin and 74 more. Often billed alongside Héctor Oaks, 999999999 and I Hate Models. Next up: Hï Ibiza, Ibiza on Mon 14 Sept.
 
 ## Upcoming shows
 
@@ -28,9 +28,9 @@ Patrick Mason is a techno and house artist tracked on soundcheck, with 271 sets 
 - Audio Club, Geneva — Sat, 5 Sept 2026
 - Runnymede Hall, Toronto — Sat, 22 Aug 2026
 - Stereo, Montreal — Fri, 21 Aug 2026
+- Suvilahti Power Plant, Helsinki — Fri, 14 Aug 2026
 - Gianpula Village, Malta — Wed, 12 Aug 2026
 - Amnesia Ibiza, Ibiza — Sun, 2 Aug 2026
-- Preston Park, Brighton, Berlin — Sat, 1 Aug 2026
 
 ## Shares bills with
 

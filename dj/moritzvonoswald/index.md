@@ -2,7 +2,7 @@
 
 Moritz von Oswald is a Techno and Dub Techno artist with 2 upcoming club dates listed on soundcheck as of Sun, 13 Sept 2026, next at Signal, New York City on Sat, 3 Oct 2026.
 
-Moritz von Oswald is a techno and dub techno artist based in Germany, tracked on soundcheck, with 60 sets logged across Amsterdam, Athens, Barcelona and Berlin and 23 more. Often billed alongside Azu Tiwaline, Lena Willikens and DjRUM. Next up: Signal, Newyorkcity on Sat 3 Oct.
+Moritz von Oswald is a techno and dub techno artist based in Germany, tracked on soundcheck, with 61 sets logged across Amsterdam, Athens, Barcelona and Berlin and 24 more. Often billed alongside Azu Tiwaline, Lena Willikens and DjRUM. Next up: Signal, Newyorkcity on Sat 3 Oct.
 
 ## Upcoming shows
 
@@ -20,7 +20,7 @@ Moritz von Oswald is a techno and dub techno artist based in Germany, tracked on
 - Nowadays, New York City — Fri, 22 May 2026
 - TBA - The Bridge, Los Angeles — Sun, 17 May 2026
 - TBA - Multiple SF Venues, San Francisco/Oakland — Thu, 14 May 2026
-- KOKO, London — Fri, 24 Apr 2026
+- Kaiku, Helsinki — Fri, 8 May 2026
 
 ## Shares bills with
 

@@ -2,7 +2,7 @@
 
 Angel D'lite is a House and Techno artist with 10 upcoming club dates listed on soundcheck as of Sun, 13 Sept 2026, next at Renate, Berlin on Fri, 11 Sept 2026.
 
-Angel D'lite is a house and techno artist tracked on soundcheck, with 237 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 37 more. Often billed alongside dj sweet6teen, THC and FAFF. Next up: Renate, Berlin on Fri 11 Sept.
+Angel D'lite is a house and techno artist tracked on soundcheck, with 238 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 38 more. Often billed alongside dj sweet6teen, THC and FAFF. Next up: Renate, Berlin on Fri 11 Sept.
 
 ## Upcoming shows
 

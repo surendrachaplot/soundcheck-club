@@ -1,6 +1,6 @@
 # Rafush
 
-Rafush is a Bass and House artist with 3 upcoming club dates listed on soundcheck as of Sun, 13 Sept 2026, next at Renate, Berlin on Fri, 11 Sept 2026.
+Rafush is a Bass and House artist with 2 upcoming club dates listed on soundcheck as of Sun, 13 Sept 2026, next at Renate, Berlin on Fri, 11 Sept 2026.
 
 Rafush is a bass and house artist tracked on soundcheck, with 128 sets logged across Basel, Berlin, Cologne and Hamburg and 4 more. Often billed alongside Dj Goodboy, Punani and ADAM MUNNINGS. Next up: Renate, Berlin on Fri 11 Sept.
 
@@ -9,7 +9,6 @@ Rafush is a bass and house artist tracked on soundcheck, with 128 sets logged ac
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 11 Sept 2026 | Renate | Berlin |
-| Sat, 12 Sept 2026 | Südpol | Hamburg |
 | Fri, 25 Sept 2026 | ÆDEN | Berlin |
 
 ## Recently played

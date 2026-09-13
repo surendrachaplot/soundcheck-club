@@ -8,7 +8,7 @@ Monument SF is a music venue in Sanfrancisco listed on soundcheck. 1 upcoming ni
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 14 Nov 2026 | SQUISH 100TH PARTY→ Aurora Halal b2b Laurel Halo, Binh, re:ni | Aurora Halal, Binh, Laurel Halo, Papa Xanny, Sholim Eso, likeholywine, nonsuit, re:ni |
+| Sat, 14 Nov 2026 | SQUISH 100TH PARTY→ Aurora Halal b2b Laurel Halo, Binh, re:ni | Aurora Halal, Binh, Laurel Halo, Papa Xanny, Reni, Sholim Eso, likeholywine, nonsuit |
 
 ## Address
 

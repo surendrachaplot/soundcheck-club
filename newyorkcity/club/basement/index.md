@@ -12,7 +12,7 @@ BASEMENT is a music venue in Newyorkcity listed on soundcheck. 14 upcoming night
 | Sat, 19 Sept 2026 | DAY+NIGHT: D.Dan/ Mos/ Elle Dee/ Freddy K/ RonLikeHell/ cotton/ Massi Pagliara/ Heidi L/ KimAnh | D.Dan, Elle Dee, Freddy K, Heidi Lawden, Kim Anh, Massimiliano Pagliara, Mos (NYC), Ron Like Hell, cotton |
 | Fri, 25 Sept 2026 | MUTUAL RYTM: SHDW / Regent / Hemka / JADALAREIGN / Mike Servito / Saia | Hemka, JADALAREIGN, Mike Servito, Phil Berg, Regent, SHDW, Saia |
 | Sat, 26 Sept 2026 | Mac Declos / Marcal / Cora / Perfect Lovers / Victor Rodriguez / Chris Cruse / Kilopatrah Jones | Chris Cruse, Cora (CN), Kilopatrah Jones, Mac Declos, Marcal, Perfect Lovers, Victor Rodriguez |
-| Fri, 2 Oct 2026 | Zenker Brothers / Pangaea / re:ni / The Carry Nation / Analog Soul / ALEXIS DE LA ROSA | ALEXIS DE LA ROSA, Analog Soul, Pangaea, The Carry Nation, Zenker Brothers, re:ni |
+| Fri, 2 Oct 2026 | Zenker Brothers / Pangaea / re:ni / The Carry Nation / Analog Soul / ALEXIS DE LA ROSA | ALEXIS DE LA ROSA, Analog Soul, Pangaea, Reni, The Carry Nation, Zenker Brothers |
 | Sat, 3 Oct 2026 | Wrecked: Julia Govor / Concrete Husband / T.Wan / S4M23 / Ryan Smith / Ron Like Hell | Concrete Husband, Julia Govor, Ron Like Hell, Ryan Smith, S4M23, T.Wan |
 | Fri, 9 Oct 2026 | Wata Igarashi all night long / ISAbella / Subb-an / Meilgaarden | ISAbella, Meilgaarden, Subb-an, Wata Igarashi |
 | Sat, 10 Oct 2026 | Mala Junta: Yazzus / Akua / FASHION / DJ TOOL / Kilopatrah Jones / Alfonso Javier | Akua, Alfonso Javier, DJ TOOL, FASHION (US), Kilopatrah Jones, Yazzus |

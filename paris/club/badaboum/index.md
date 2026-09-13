@@ -9,8 +9,8 @@ Badaboum is a music venue in Paris listed on soundcheck. 16 upcoming nights, wit
 | Date | Night | Line-up |
 | --- | --- | --- |
 | Thu, 17 Sept 2026 | Club — LA CH!CK: TUMBLR RAVE |  |
-| Fri, 18 Sept 2026 | Club — Worms: Kode9, Breaka, re:ni, Shfoosja | Breaka, Kode9, Mafille, Oreille Interne, Shfoosja, re:ni |
-| Sat, 19 Sept 2026 | Concert — Deadbeat presents Dubtechno Special Tikiman live, Neida live, re:ni | Deadbeat, Neida, Paul St. Hilaire, re:ni |
+| Fri, 18 Sept 2026 | Club — Worms: Kode9, Breaka, re:ni, Shfoosja | Breaka, Kode9, Mafille, Oreille Interne, Reni, Shfoosja |
+| Sat, 19 Sept 2026 | Concert — Deadbeat presents Dubtechno Special Tikiman live, Neida live, re:ni | Deadbeat, Neida, Paul St. Hilaire, Reni |
 | Sat, 19 Sept 2026 | Club — BADSISTA, anyoneID, Sevenbeatz B2B Sorun, Sudar | BADSISTA, Sevenbeatz, Sorun, anyoneID |
 | Thu, 24 Sept 2026 | Club — LA CH!CK: FATAL BAZOOKA TRIBUTE |  |
 | Fri, 25 Sept 2026 | Club — Rinse: Hyas, Naomi b2b Saari, SOTTOH | Hyas, Naomi (FR), SOTTOH, Saari |

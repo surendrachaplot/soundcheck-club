@@ -2,7 +2,7 @@
 
 Shonky is a House and Tech House artist with 9 upcoming club dates listed on soundcheck as of Sun, 13 Sept 2026, next at Floyd, Miami on Fri, 25 Sept 2026.
 
-Shonky is a house and tech house artist tracked on soundcheck, with 224 sets logged across Amsterdam, Antwerp, Athens and Austin and 57 more. Often billed alongside Dyed Soundorom, Dan Ghenacia and Apollonia. Next up: Floyd, Miami on Fri 25 Sept.
+Shonky is a house and tech house artist tracked on soundcheck, with 225 sets logged across Amsterdam, Antwerp, Athens and Austin and 58 more. Often billed alongside Dyed Soundorom, Dan Ghenacia and Apollonia. Next up: Floyd, Miami on Fri 25 Sept.
 
 ## Upcoming shows
 

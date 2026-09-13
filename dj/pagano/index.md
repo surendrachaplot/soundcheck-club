@@ -1,8 +1,8 @@
 # Pagano
 
-Pagano is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Sun, 13 Sept 2026, next at TBA, London on Fri, 2 Oct 2026.
+Pagano is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Sun, 13 Sept 2026, next at TBA, London on Fri, 2 Oct 2026.
 
-Pagano is a house and techno artist based in United Kingdom, tracked on soundcheck, with 29 sets logged across Amsterdam, Berlin, Cologne and London and 6 more. Often billed alongside Jaycap, Ben Manson and Feel .MA. Next up: TBA, London on Fri 2 Oct.
+Pagano is a techno and house artist based in United Kingdom, tracked on soundcheck, with 31 sets logged across Amsterdam, Berlin, Cologne and Helsinki and 7 more. Often billed alongside Jaycap, Ben Manson and Feel .MA. Next up: TBA, London on Fri 2 Oct.
 
 ## Upcoming shows
 
@@ -21,7 +21,7 @@ Pagano is a house and techno artist based in United Kingdom, tracked on soundche
 - Nachtflug & Starz, Cologne — Sun, 15 Feb 2026
 - OST, Berlin — Fri, 7 Nov 2025
 - TBA, London — Sat, 18 Oct 2025
-- OST, Berlin — Fri, 25 Jul 2025
+- Post Bar, Helsinki — Sat, 26 Jul 2025
 
 ## Shares bills with
 

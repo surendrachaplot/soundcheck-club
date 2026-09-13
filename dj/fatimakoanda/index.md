@@ -2,7 +2,7 @@
 
 Fatima Koanda is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 13 Sept 2026, next at Circolo Amelia, Milan on Sun, 27 Sept 2026.
 
-Fatima Koanda is a house and techno artist based in Italy, tracked on soundcheck, with 48 sets logged across Berlin, Copenhagen, Ibiza and Leipzig and 7 more. Often billed alongside Kingsizebed, Aaron Blau and Hiroko Hacci. Next up: Circolo Amelia, Milan on Sun 27 Sept.
+Fatima Koanda is a house and techno artist based in Italy, tracked on soundcheck, with 49 sets logged across Berlin, Copenhagen, Helsinki and Ibiza and 8 more. Often billed alongside Kingsizebed, Aaron Blau and Hiroko Hacci. Next up: Circolo Amelia, Milan on Sun 27 Sept.
 
 ## Upcoming shows
 

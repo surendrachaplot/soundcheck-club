@@ -2,7 +2,7 @@
 
 Daniro is a Club and Techno artist with 2 upcoming club dates listed on soundcheck as of Sun, 13 Sept 2026, next at The Flea Theater, New York City on Wed, 16 Sept 2026.
 
-Daniro is a club and techno artist based in United States of America, tracked on soundcheck, with 99 sets logged across Chicago, Losangeles, Miami and Newyorkcity and 2 more. Often billed alongside Bodegaparty, PINKYY and shekdash. Next up: The Flea Theater, Newyorkcity on Wed 16 Sept.
+Daniro is a club and techno artist based in United States of America, tracked on soundcheck, with 100 sets logged across Chicago, Helsinki, Losangeles and Miami and 3 more. Often billed alongside Bodegaparty, PINKYY and shekdash. Next up: The Flea Theater, Newyorkcity on Wed 16 Sept.
 
 ## Upcoming shows
 

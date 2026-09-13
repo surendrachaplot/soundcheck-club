@@ -4412,7 +4412,7 @@
   <!-- Umami analytics. defer so it never blocks first paint; the SPA rewrites
        history on navigation, which umami picks up automatically. -->
   <script defer src="https://cloud.umami.is/script.js" data-website-id="de210b6c-12e4-4819-95f6-f5120974855a"></script>
-<meta name="sc-build" content="1789336325019">
+<meta name="sc-build" content="1789338114711">
   <link rel="canonical" href="https://soundcheck.club/" />
   <meta property="og:image" content="https://api.soundcheck.club/api/og?v=2&t=soundcheck&s=Club%20nights%20%26%20DJ%20sets%20in%20104%20cities" />
 </head>
@@ -4471,7 +4471,7 @@
     <div class="grid" id="grid"></div>
     <!-- Per-city "what's on this week" date links, injected by build-club (canonical
          /<city>/<date>/ pages). Empty in the source; hidden on client-side city switch. -->
-    <section id="home-seo-more" class="home-seo-more" data-city="london"><h2>What&rsquo;s on in London this week</h2><ul class="home-seo-dates"><li><a href="/london/2026-09-13/">Sun 13 Sept <span class="c">23 events</span></a></li><li><a href="/london/2026-09-14/">Mon 14 Sept <span class="c">4 events</span></a></li><li><a href="/london/2026-09-15/">Tue 15 Sept <span class="c">4 events</span></a></li><li><a href="/london/2026-09-16/">Wed 16 Sept <span class="c">17 events</span></a></li><li><a href="/london/2026-09-17/">Thu 17 Sept <span class="c">38 events</span></a></li><li><a href="/london/2026-09-18/">Fri 18 Sept <span class="c">102 events</span></a></li><li><a href="/london/2026-09-19/">Sat 19 Sept <span class="c">112 events</span></a></li></ul><nav class="home-seo-nav" aria-label="More on soundcheck"><a href="/london/this-weekend/">This weekend in London</a> <a href="/london/scene/">London scene guide</a> <a href="/cities/">All 104 cities</a></nav></section>
+    <section id="home-seo-more" class="home-seo-more" data-city="london"><h2>What&rsquo;s on in London this week</h2><ul class="home-seo-dates"><li><a href="/london/2026-09-13/">Sun 13 Sept <span class="c">19 events</span></a></li><li><a href="/london/2026-09-14/">Mon 14 Sept <span class="c">4 events</span></a></li><li><a href="/london/2026-09-15/">Tue 15 Sept <span class="c">4 events</span></a></li><li><a href="/london/2026-09-16/">Wed 16 Sept <span class="c">17 events</span></a></li><li><a href="/london/2026-09-17/">Thu 17 Sept <span class="c">38 events</span></a></li><li><a href="/london/2026-09-18/">Fri 18 Sept <span class="c">102 events</span></a></li><li><a href="/london/2026-09-19/">Sat 19 Sept <span class="c">112 events</span></a></li></ul><nav class="home-seo-nav" aria-label="More on soundcheck"><a href="/london/this-weekend/">This weekend in London</a> <a href="/london/scene/">London scene guide</a> <a href="/cities/">All 105 cities</a></nav></section>
 
     <!-- Crawlable home content (H1 + intro) — moved to the bottom of the page. Still a real
          <h1> in the DOM so it's the page heading for SEO regardless of visual position.
@@ -4608,6 +4608,14 @@
     // Bump on ANY change to how a set is matched or ranked: it is the cache key
     // for both /api/youtube/sets and /api/youtube/cached, so one edit here drops
     // every stale copy in every browser and at the edge.
+    // /api/cities is held at the edge for a DAY (s-maxage=86400) and there is no
+    // purge token here, so a new query string is the only purge available. Without
+    // it, adding a city was invisible for up to 24h — and worse on web: loadCities
+    // treats a slug missing from the list as unknown and REWRITES /helsinki/ to
+    // /london/. Bump whenever a city is added or the payload changes. Kept in step
+    // with the app's CITIES_V (soundcheck-native src/api.ts); the endpoints differ,
+    // but one number is easier to keep honest than two.
+    var CITIES_V = '3';   // 2026-09-13: Helsinki added
     var YT_SETS_V = '5';   // 2026-09-01: MixesDB joins the Sets tab, and the embed-URL fix rewrote every stored mix url
 
     var EMAIL_RE = /^[^\s@]+@[^\s@]+\.[^\s@]+$/;
@@ -6239,6 +6247,28 @@
     // Promoter permalink. City-less like /dj/ — a promoter is not scoped to one
     // city (the biggest run nights in four), so the URL must not claim they are.
     function promoterHref(slug){ return slug?SC_BASE+'promoter/'+encodeURIComponent(slug)+'/':''; }
+    // DIRECTIONS HAND OFF TO THE PERSON'S OWN MAPS APP — never a map company we
+    // picked for them. This used to be a Google Maps link on every device.
+    //
+    // Every map we DRAW is OpenStreetMap (Leaflet + CARTO tiles). Getting someone
+    // to a club is a different job: OSM's own directions have no public transport
+    // and patchy routing, so sending a phone there would make the button worse.
+    // So: iPhone -> Apple Maps (the phone's own), Android -> a geo: URI that opens
+    // whichever maps app they chose, desktop -> OpenStreetMap. The native app does
+    // exactly this already (EventScreen / VenueScreen openMaps); web now matches.
+    //
+    // iPadOS reports itself as a Mac, so a touch-capable "MacIntel" is an iPad.
+    // No target=_blank on the phone schemes: on a geo: link it opens an empty tab
+    // first and leaves it behind.
+    function directionsLink(lat, lng, name){
+      var ua=navigator.userAgent||'', q=encodeURIComponent(name||'');
+      var ios=/iPhone|iPad|iPod/i.test(ua) || (navigator.platform==='MacIntel' && navigator.maxTouchPoints>1);
+      var href, blank='';
+      if(ios) href='https://maps.apple.com/?q='+q+'&ll='+lat+','+lng;
+      else if(/Android/i.test(ua)) href='geo:'+lat+','+lng+'?q='+lat+','+lng+'('+q+')';
+      else { href='https://www.openstreetmap.org/?mlat='+lat+'&mlon='+lng+'#map=17/'+lat+'/'+lng; blank=' target="_blank" rel="noopener"'; }
+      return '<a class="fp-ev-dir"'+blank+' href="'+esc(href)+'">Directions →</a>';
+    }
     function promotersHref(city){ return SC_BASE+encodeURIComponent(city||currentCity||'london')+'/promoters/'; }
     // 1) Real <a class="nav"> links: on a MODIFIED click, stop the SPA click listeners
     //    (capture phase runs first) so the browser follows the href into a new tab. Plain
@@ -11321,7 +11351,7 @@
             '<div class="fp-ev-loc"><div class="fp-ev-loc-l">'+
               '<div class="fp-ev-loc-v"><a class="venue-link nav" href="'+esc(venueHref(ev.venue, ev.city))+'" data-venue="'+esc(ev.venue||'')+'"><b>'+esc(ev.venue||'Venue')+'</b></a>'+(ev.venue_slug?'<button class="fp-ev-follow'+(ev.venueFollowing?' on':'')+'" id="fp-ev-follow" type="button" aria-pressed="'+(ev.venueFollowing?'true':'false')+'"><span>'+(ev.venueFollowing?'Following':'Follow')+'</span></button>':'')+'</div>'+
               (ev.venueAddress?'<div class="fp-ev-addr">'+esc(ev.venueAddress)+'</div>':'')+
-              '<a class="fp-ev-dir" target="_blank" rel="noopener" href="https://www.google.com/maps/search/?api=1&query='+ev.venueLat+','+ev.venueLng+'">Directions →</a>'+
+              directionsLink(ev.venueLat, ev.venueLng, ev.venue||'')+
               '</div><div class="fp-ev-map" id="fp-ev-map"></div></div></div>';
         }
         if((ev.alsoOn||[]).length){
@@ -11361,7 +11391,11 @@
           loadLeaflet(function(){
             var el=document.getElementById('fp-ev-map'); if(!el||currentRoute().indexOf('e/')!==0) return;
             try{ var map=L.map(el,{scrollWheelZoom:false}).setView([ev.venueLat,ev.venueLng],15);
-              L.tileLayer('https://{s}.basemaps.cartocdn.com/dark_all/{z}/{x}/{y}{r}.png',{ subdomains:'abcd', maxZoom:19 }).addTo(map);
+              // The credit is a licence condition, not decoration: OpenStreetMap data
+              // is ODbL and CARTO's basemap terms require it too. The venue map and
+              // the city guide map both carried it; this one, the most-viewed of
+              // the three, was the only map in the app drawn without it.
+              L.tileLayer('https://{s}.basemaps.cartocdn.com/dark_all/{z}/{x}/{y}{r}.png',{ attribution:'&copy; OpenStreetMap, &copy; CARTO', subdomains:'abcd', maxZoom:19 }).addTo(map);
               L.circleMarker([ev.venueLat,ev.venueLng],{ radius:9, color:'#2a0d14', weight:2, fillColor:'#ff9a3d', fillOpacity:1 }).addTo(map);
               setTimeout(function(){ map.invalidateSize(); },120);
             }catch(_){}
@@ -13283,7 +13317,7 @@
     // ── multi-city ──
     // Minimal fallback registry so the picker works even if /api/cities is
     // unreachable; replaced by the server list (the source of truth) on boot.
-    var CITY_LIST=[{"slug":"london","name":"London","country":"UK"},{"slug":"tallinn","name":"Tallinn","country":"EE"},{"slug":"berlin","name":"Berlin","country":"DE"},{"slug":"amsterdam","name":"Amsterdam","country":"NL"},{"slug":"paris","name":"Paris","country":"FR"},{"slug":"barcelona","name":"Barcelona","country":"ES"},{"slug":"ibiza","name":"Ibiza","country":"ES"},{"slug":"malta","name":"Malta","country":"MT"},{"slug":"madrid","name":"Madrid","country":"ES"},{"slug":"lisbon","name":"Lisbon","country":"PT"},{"slug":"porto","name":"Porto","country":"PT"},{"slug":"milan","name":"Milan","country":"IT"},{"slug":"rome","name":"Rome","country":"IT"},{"slug":"brussels","name":"Brussels","country":"BE"},{"slug":"vienna","name":"Vienna","country":"AT"},{"slug":"zurich","name":"Zurich","country":"CH"},{"slug":"copenhagen","name":"Copenhagen","country":"DK"},{"slug":"stockholm","name":"Stockholm","country":"SE"},{"slug":"oslo","name":"Oslo","country":"NO"},{"slug":"warsaw","name":"Warsaw","country":"PL"},{"slug":"krakow","name":"Krakow","country":"PL"},{"slug":"prague","name":"Prague","country":"CZ"},{"slug":"budapest","name":"Budapest","country":"HU"},{"slug":"dublin","name":"Dublin","country":"IE"},{"slug":"athens","name":"Athens","country":"GR"},{"slug":"manchester","name":"Manchester","country":"UK"},{"slug":"glasgow","name":"Glasgow","country":"UK"},{"slug":"bristol","name":"Bristol","country":"UK"},{"slug":"hamburg","name":"Hamburg","country":"DE"},{"slug":"munich","name":"Munich","country":"DE"},{"slug":"cologne","name":"Cologne","country":"DE"},{"slug":"frankfurt","name":"Frankfurt","country":"DE"},{"slug":"rotterdam","name":"Rotterdam","country":"NL"},{"slug":"edinburgh","name":"Edinburgh","country":"UK"},{"slug":"leeds","name":"Leeds","country":"UK"},{"slug":"liverpool","name":"Liverpool","country":"UK"},{"slug":"birmingham","name":"Birmingham","country":"UK"},{"slug":"sheffield","name":"Sheffield","country":"UK"},{"slug":"nottingham","name":"Nottingham","country":"UK"},{"slug":"newcastle","name":"Newcastle","country":"UK"},{"slug":"brighton","name":"Brighton","country":"UK"},{"slug":"belfast","name":"Belfast","country":"UK"},{"slug":"tokyo","name":"Tokyo","country":"JP"},{"slug":"osaka","name":"Osaka","country":"JP"},{"slug":"seoul","name":"Seoul","country":"KR"},{"slug":"singapore","name":"Singapore","country":"SG"},{"slug":"bangkok","name":"Bangkok","country":"TH"},{"slug":"kualalumpur","name":"Kuala Lumpur","country":"MY"},{"slug":"hongkong","name":"Hong Kong","country":"HK"},{"slug":"bali","name":"Bali","country":"ID"},{"slug":"buenosaires","name":"Buenos Aires","country":"AR"},{"slug":"brisbane","name":"Brisbane","country":"AU"},{"slug":"hobart","name":"Hobart","country":"AU"},{"slug":"melbourne","name":"Melbourne","country":"AU"},{"slug":"sydney","name":"Sydney","country":"AU"},{"slug":"antwerp","name":"Antwerp","country":"BE"},{"slug":"ghent","name":"Ghent","country":"BE"},{"slug":"saopaulo","name":"Sao Paulo","country":"BR"},{"slug":"montreal","name":"Montreal","country":"CA"},{"slug":"toronto","name":"Toronto","country":"CA"},{"slug":"vancouver","name":"Vancouver","country":"CA"},{"slug":"shenzhen","name":"Shenzhen","country":"CN"},{"slug":"lyon","name":"Lyon","country":"FR"},{"slug":"marseille","name":"Marseille","country":"FR"},{"slug":"nantes","name":"Nantes","country":"FR"},{"slug":"strasbourg","name":"Strasbourg","country":"FR"},{"slug":"tbilisi","name":"Tbilisi","country":"GE"},{"slug":"dusseldorf","name":"Düsseldorf","country":"DE"},{"slug":"leipzig","name":"Leipzig","country":"DE"},{"slug":"nurnberg","name":"Nürnberg","country":"DE"},{"slug":"stuttgart","name":"Stuttgart","country":"DE"},{"slug":"mykonos","name":"Mykonos","country":"GR"},{"slug":"naples","name":"Naples","country":"IT"},{"slug":"turin","name":"Turin","country":"IT"},{"slug":"kyoto","name":"Kyoto","country":"JP"},{"slug":"riga","name":"Riga","country":"LV"},{"slug":"mexicocity","name":"Mexico City","country":"MX"},{"slug":"thehague","name":"The Hague","country":"NL"},{"slug":"utrecht","name":"Utrecht","country":"NL"},{"slug":"auckland","name":"Auckland","country":"NZ"},{"slug":"bucharest","name":"Bucharest","country":"RO"},{"slug":"belgrade","name":"Belgrade","country":"RS"},{"slug":"malaga","name":"Malaga","country":"ES"},{"slug":"mallorca","name":"Mallorca","country":"ES"},{"slug":"valencia","name":"Valencia","country":"ES"},{"slug":"basel","name":"Basel","country":"CH"},{"slug":"geneva","name":"Geneva","country":"CH"},{"slug":"istanbul","name":"Istanbul","country":"TK"},{"slug":"austin","name":"Austin","country":"US"},{"slug":"boston","name":"Boston","country":"US"},{"slug":"chicago","name":"Chicago","country":"US"},{"slug":"denver","name":"Denver","country":"US"},{"slug":"detroit","name":"Detroit","country":"US"},{"slug":"houston","name":"Houston","country":"US"},{"slug":"losangeles","name":"Los Angeles","country":"US"},{"slug":"miami","name":"Miami","country":"US"},{"slug":"nashville","name":"Nashville","country":"US"},{"slug":"newyorkcity","name":"New York City","country":"US"},{"slug":"philadelphia","name":"Philadelphia","country":"US"},{"slug":"portland","name":"Portland","country":"US"},{"slug":"sandiego","name":"San Diego","country":"US"},{"slug":"sanfrancisco","name":"San Francisco/Oakland","country":"US"},{"slug":"seattle","name":"Seattle","country":"US"},{"slug":"washingtondc","name":"Washington DC","country":"US"}];
+    var CITY_LIST=[{"slug":"london","name":"London","country":"UK"},{"slug":"tallinn","name":"Tallinn","country":"EE"},{"slug":"helsinki","name":"Helsinki","country":"FI"},{"slug":"berlin","name":"Berlin","country":"DE"},{"slug":"amsterdam","name":"Amsterdam","country":"NL"},{"slug":"paris","name":"Paris","country":"FR"},{"slug":"barcelona","name":"Barcelona","country":"ES"},{"slug":"ibiza","name":"Ibiza","country":"ES"},{"slug":"malta","name":"Malta","country":"MT"},{"slug":"madrid","name":"Madrid","country":"ES"},{"slug":"lisbon","name":"Lisbon","country":"PT"},{"slug":"porto","name":"Porto","country":"PT"},{"slug":"milan","name":"Milan","country":"IT"},{"slug":"rome","name":"Rome","country":"IT"},{"slug":"brussels","name":"Brussels","country":"BE"},{"slug":"vienna","name":"Vienna","country":"AT"},{"slug":"zurich","name":"Zurich","country":"CH"},{"slug":"copenhagen","name":"Copenhagen","country":"DK"},{"slug":"stockholm","name":"Stockholm","country":"SE"},{"slug":"oslo","name":"Oslo","country":"NO"},{"slug":"warsaw","name":"Warsaw","country":"PL"},{"slug":"krakow","name":"Krakow","country":"PL"},{"slug":"prague","name":"Prague","country":"CZ"},{"slug":"budapest","name":"Budapest","country":"HU"},{"slug":"dublin","name":"Dublin","country":"IE"},{"slug":"athens","name":"Athens","country":"GR"},{"slug":"manchester","name":"Manchester","country":"UK"},{"slug":"glasgow","name":"Glasgow","country":"UK"},{"slug":"bristol","name":"Bristol","country":"UK"},{"slug":"hamburg","name":"Hamburg","country":"DE"},{"slug":"munich","name":"Munich","country":"DE"},{"slug":"cologne","name":"Cologne","country":"DE"},{"slug":"frankfurt","name":"Frankfurt","country":"DE"},{"slug":"rotterdam","name":"Rotterdam","country":"NL"},{"slug":"edinburgh","name":"Edinburgh","country":"UK"},{"slug":"leeds","name":"Leeds","country":"UK"},{"slug":"liverpool","name":"Liverpool","country":"UK"},{"slug":"birmingham","name":"Birmingham","country":"UK"},{"slug":"sheffield","name":"Sheffield","country":"UK"},{"slug":"nottingham","name":"Nottingham","country":"UK"},{"slug":"newcastle","name":"Newcastle","country":"UK"},{"slug":"brighton","name":"Brighton","country":"UK"},{"slug":"belfast","name":"Belfast","country":"UK"},{"slug":"tokyo","name":"Tokyo","country":"JP"},{"slug":"osaka","name":"Osaka","country":"JP"},{"slug":"seoul","name":"Seoul","country":"KR"},{"slug":"singapore","name":"Singapore","country":"SG"},{"slug":"bangkok","name":"Bangkok","country":"TH"},{"slug":"kualalumpur","name":"Kuala Lumpur","country":"MY"},{"slug":"hongkong","name":"Hong Kong","country":"HK"},{"slug":"bali","name":"Bali","country":"ID"},{"slug":"buenosaires","name":"Buenos Aires","country":"AR"},{"slug":"brisbane","name":"Brisbane","country":"AU"},{"slug":"hobart","name":"Hobart","country":"AU"},{"slug":"melbourne","name":"Melbourne","country":"AU"},{"slug":"sydney","name":"Sydney","country":"AU"},{"slug":"antwerp","name":"Antwerp","country":"BE"},{"slug":"ghent","name":"Ghent","country":"BE"},{"slug":"saopaulo","name":"Sao Paulo","country":"BR"},{"slug":"montreal","name":"Montreal","country":"CA"},{"slug":"toronto","name":"Toronto","country":"CA"},{"slug":"vancouver","name":"Vancouver","country":"CA"},{"slug":"shenzhen","name":"Shenzhen","country":"CN"},{"slug":"lyon","name":"Lyon","country":"FR"},{"slug":"marseille","name":"Marseille","country":"FR"},{"slug":"nantes","name":"Nantes","country":"FR"},{"slug":"strasbourg","name":"Strasbourg","country":"FR"},{"slug":"tbilisi","name":"Tbilisi","country":"GE"},{"slug":"dusseldorf","name":"Düsseldorf","country":"DE"},{"slug":"leipzig","name":"Leipzig","country":"DE"},{"slug":"nurnberg","name":"Nürnberg","country":"DE"},{"slug":"stuttgart","name":"Stuttgart","country":"DE"},{"slug":"mykonos","name":"Mykonos","country":"GR"},{"slug":"naples","name":"Naples","country":"IT"},{"slug":"turin","name":"Turin","country":"IT"},{"slug":"kyoto","name":"Kyoto","country":"JP"},{"slug":"riga","name":"Riga","country":"LV"},{"slug":"mexicocity","name":"Mexico City","country":"MX"},{"slug":"thehague","name":"The Hague","country":"NL"},{"slug":"utrecht","name":"Utrecht","country":"NL"},{"slug":"auckland","name":"Auckland","country":"NZ"},{"slug":"bucharest","name":"Bucharest","country":"RO"},{"slug":"belgrade","name":"Belgrade","country":"RS"},{"slug":"malaga","name":"Malaga","country":"ES"},{"slug":"mallorca","name":"Mallorca","country":"ES"},{"slug":"valencia","name":"Valencia","country":"ES"},{"slug":"basel","name":"Basel","country":"CH"},{"slug":"geneva","name":"Geneva","country":"CH"},{"slug":"istanbul","name":"Istanbul","country":"TK"},{"slug":"austin","name":"Austin","country":"US"},{"slug":"boston","name":"Boston","country":"US"},{"slug":"chicago","name":"Chicago","country":"US"},{"slug":"denver","name":"Denver","country":"US"},{"slug":"detroit","name":"Detroit","country":"US"},{"slug":"houston","name":"Houston","country":"US"},{"slug":"losangeles","name":"Los Angeles","country":"US"},{"slug":"miami","name":"Miami","country":"US"},{"slug":"nashville","name":"Nashville","country":"US"},{"slug":"newyorkcity","name":"New York City","country":"US"},{"slug":"philadelphia","name":"Philadelphia","country":"US"},{"slug":"portland","name":"Portland","country":"US"},{"slug":"sandiego","name":"San Diego","country":"US"},{"slug":"sanfrancisco","name":"San Francisco/Oakland","country":"US"},{"slug":"seattle","name":"Seattle","country":"US"},{"slug":"washingtondc","name":"Washington DC","country":"US"}];
     // Canonical city URLs are path-based. On its own domain the app lives at the
     // root (soundcheck.club/<slug>/); on 6minutes.club it lives under /soundcheck/.
     // SC_BASE is the single switch the whole router + asset loader keys off, so
@@ -13403,7 +13437,7 @@
     }
     async function loadCities(){
       try{
-        var r=await fetch(API_BASE+'/api/cities'); var j=await r.json();
+        var r=await fetch(API_BASE+'/api/cities?v='+CITIES_V); var j=await r.json();
         if(Array.isArray(j.cities) && j.cities.length){
           CITY_LIST=j.cities;
           if(!CITY_LIST.some(function(c){ return c.slug===currentCity; })){

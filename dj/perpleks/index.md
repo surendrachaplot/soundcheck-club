@@ -2,7 +2,7 @@
 
 Per Pleks is a Techno and Industrial artist with 2 upcoming club dates listed on soundcheck as of Sun, 13 Sept 2026, next at Airport Würzburg, Nürnberg on Fri, 2 Oct 2026.
 
-Per Pleks is a techno and industrial artist tracked on soundcheck, with 91 sets logged across Amsterdam, Antwerp, Barcelona and Belfast and 34 more. Often billed alongside Luciid, Aphøtic and Alignment. Next up: Airport Würzburg, Nurnberg on Fri 2 Oct.
+Per Pleks is a techno and industrial artist tracked on soundcheck, with 92 sets logged across Amsterdam, Antwerp, Barcelona and Belfast and 35 more. Often billed alongside Luciid, Aphøtic and Alignment. Next up: Airport Würzburg, Nurnberg on Fri 2 Oct.
 
 ## Upcoming shows
 

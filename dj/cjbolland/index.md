@@ -2,7 +2,7 @@
 
 CJ Bolland is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Sun, 13 Sept 2026, next at TRAUM, Antwerp on Sat, 19 Sept 2026.
 
-CJ Bolland is a techno and house artist tracked on soundcheck, with 46 sets logged across Amsterdam, Antwerp, Barcelona and Berlin and 13 more. Often billed alongside Nosedrip, Fais Le Beau and Bibi Seck. Next up: TRAUM, Antwerp on Sat 19 Sept.
+CJ Bolland is a techno and house artist tracked on soundcheck, with 47 sets logged across Amsterdam, Antwerp, Barcelona and Berlin and 14 more. Often billed alongside Nosedrip, Fais Le Beau and Bibi Seck. Next up: TRAUM, Antwerp on Sat 19 Sept.
 
 ## Upcoming shows
 

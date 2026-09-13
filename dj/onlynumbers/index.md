@@ -1,14 +1,13 @@
 # Onlynumbers
 
-Onlynumbers is a Techno and Hardcore artist with 10 upcoming club dates listed on soundcheck as of Sun, 13 Sept 2026, next at TBA - Grand Parc Miribel Jonage, Lyon on Sat, 12 Sept 2026.
+Onlynumbers is a Techno and Hardcore artist with 9 upcoming club dates listed on soundcheck as of Sun, 13 Sept 2026, next at Arzenal, Budapest on Sat, 19 Sept 2026.
 
-Onlynumbers is a techno and hardcore artist tracked on soundcheck, with 78 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 43 more. Often billed alongside NOVAH, Basswell and Holy Priest. Next up: TBA - Grand Parc Miribel Jonage, Lyon on Sat 12 Sept.
+Onlynumbers is a techno and hardcore artist tracked on soundcheck, with 79 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 44 more. Often billed alongside NOVAH, Basswell and Holy Priest. Next up: Arzenal, Budapest on Sat 19 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 12 Sept 2026 | TBA - Grand Parc Miribel Jonage | Lyon |
 | Sat, 19 Sept 2026 | Arzenal | Budapest |
 | Fri, 2 Oct 2026 | Index | Dublin |
 | Thu, 8 Oct 2026 | Amnesia Ibiza | Ibiza |

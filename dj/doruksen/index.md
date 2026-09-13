@@ -2,7 +2,7 @@
 
 Doruksen is a Techno and Hardcore artist with 1 upcoming club date listed on soundcheck as of Sun, 13 Sept 2026, next at E1, London on Fri, 16 Oct 2026.
 
-Doruksen is a techno and hardcore artist tracked on soundcheck, with 106 sets logged across Amsterdam, Antwerp, Barcelona and Belfast and 37 more. Often billed alongside Raxeller, Cloudy and Jan Vercauteren. Next up: E1, London on Fri 16 Oct.
+Doruksen is a techno and hardcore artist tracked on soundcheck, with 107 sets logged across Amsterdam, Antwerp, Barcelona and Belfast and 38 more. Often billed alongside Raxeller, Cloudy and Jan Vercauteren. Next up: E1, London on Fri 16 Oct.
 
 ## Upcoming shows
 

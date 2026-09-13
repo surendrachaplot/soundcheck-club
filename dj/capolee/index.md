@@ -2,7 +2,7 @@
 
 Capo Lee is a Garage and Bass artist with 4 upcoming club dates listed on soundcheck as of Sun, 13 Sept 2026, next at Colour Factory, London on Sat, 19 Sept 2026.
 
-Capo Lee is a garage and bass artist tracked on soundcheck, with 94 sets logged across Amsterdam, Auckland, Barcelona and Birmingham and 22 more. Often billed alongside Bakey, Izco and bullet tooth. Next up: Colour Factory, London on Sat 19 Sept.
+Capo Lee is a garage and bass artist tracked on soundcheck, with 95 sets logged across Amsterdam, Auckland, Barcelona and Birmingham and 23 more. Often billed alongside Bakey, Izco and bullet tooth. Next up: Colour Factory, London on Sat 19 Sept.
 
 ## Upcoming shows
 

@@ -2,7 +2,7 @@
 
 Kasper Marott is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Sun, 13 Sept 2026, next at Copenhill, Copenhagen on Fri, 18 Sept 2026.
 
-Kasper Marott is a techno and trance artist based in Denmark, tracked on soundcheck, with 156 sets logged across Amsterdam, Auckland, Barcelona and Berlin and 20 more. Often billed alongside Audrey Danza, Téa and Martin Gilleshøj. Next up: Copenhill, Copenhagen on Fri 18 Sept.
+Kasper Marott is a techno and trance artist based in Denmark, tracked on soundcheck, with 159 sets logged across Amsterdam, Auckland, Barcelona and Berlin and 21 more. Often billed alongside Audrey Danza, Téa and Martin Gilleshøj. Next up: Copenhill, Copenhagen on Fri 18 Sept.
 
 ## Upcoming shows
 

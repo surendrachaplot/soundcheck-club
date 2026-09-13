@@ -2,7 +2,7 @@
 
 Session Victim is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Sun, 13 Sept 2026, next at Auditorium Parco della Musica, Rome on Sat, 12 Sept 2026.
 
-Session Victim is a house and disco artist based in Germany, tracked on soundcheck, with 69 sets logged across Amsterdam, Berlin, Brussels and Detroit and 23 more. Often billed alongside Black Loops, Folamour and Harrison BDP. Next up: Auditorium Parco della Musica, Rome on Sat 12 Sept.
+Session Victim is a house and disco artist based in Germany, tracked on soundcheck, with 70 sets logged across Amsterdam, Berlin, Brussels and Detroit and 24 more. Often billed alongside Black Loops, Folamour and Harrison BDP. Next up: Auditorium Parco della Musica, Rome on Sat 12 Sept.
 
 ## Upcoming shows
 

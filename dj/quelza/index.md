@@ -2,7 +2,7 @@
 
 Quelza is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Sun, 13 Sept 2026, next at Gate Milano, Milan on Fri, 18 Sept 2026.
 
-Quelza is a techno and house artist tracked on soundcheck, with 208 sets logged across Amsterdam, Athens, Barcelona and Basel and 57 more. Often billed alongside BASHKKA, Freddy K and Ogazón. Next up: Gate Milano, Milan on Fri 18 Sept.
+Quelza is a techno and house artist tracked on soundcheck, with 209 sets logged across Amsterdam, Athens, Barcelona and Basel and 58 more. Often billed alongside BASHKKA, Freddy K and Ogazón. Next up: Gate Milano, Milan on Fri 18 Sept.
 
 ## Upcoming shows
 

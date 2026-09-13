@@ -2,7 +2,7 @@
 
 PLO Man is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Sun, 13 Sept 2026, next at Sans Soleil, Montreal on Mon, 14 Sept 2026.
 
-PLO Man is a techno and house artist tracked on soundcheck, with 156 sets logged across Amsterdam, Athens, Austin and Barcelona and 35 more. Often billed alongside DJ Spence, Hashman Deejay and Vlada. Next up: Sans Soleil, Montreal on Mon 14 Sept.
+PLO Man is a techno and house artist tracked on soundcheck, with 157 sets logged across Amsterdam, Athens, Austin and Barcelona and 36 more. Often billed alongside DJ Spence, Hashman Deejay and Vlada. Next up: Sans Soleil, Montreal on Mon 14 Sept.
 
 ## Upcoming shows
 

@@ -1,14 +1,13 @@
 # ORBE
 
-ORBE is a Techno and Minimal Techno artist with 4 upcoming club dates listed on soundcheck as of Sun, 13 Sept 2026, next at Para Klub Beograd, Belgrade on Sun, 13 Sept 2026.
+ORBE is a Techno and Minimal Techno artist with 3 upcoming club dates listed on soundcheck as of Sun, 13 Sept 2026, next at Fvtvr, Paris on Fri, 18 Sept 2026.
 
-ORBE is a techno and minimal techno artist tracked on soundcheck, with 77 sets logged across Amsterdam, Athens, Barcelona and Belgrade and 25 more. Often billed alongside Psyk, Fadi Mohem and Dexter Lux. Next up: Para Klub Beograd, Belgrade on Sun 13 Sept.
+ORBE is a techno and minimal techno artist tracked on soundcheck, with 77 sets logged across Amsterdam, Athens, Barcelona and Belgrade and 25 more. Often billed alongside Psyk, Fadi Mohem and Dexter Lux. Next up: Fvtvr, Paris on Fri 18 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sun, 13 Sept 2026 | Para Klub Beograd | Belgrade |
 | Fri, 18 Sept 2026 | Fvtvr | Paris |
 | Sat, 24 Oct 2026 | RADION | Amsterdam |
 | Fri, 30 Oct 2026 | EXIT Glasgow | Glasgow |

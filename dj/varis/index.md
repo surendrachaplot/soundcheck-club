@@ -2,7 +2,7 @@
 
 Varis is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Sun, 13 Sept 2026, next at Spook Club, Valencia on Sat, 26 Sept 2026.
 
-Varis is a house and tech house artist tracked on soundcheck, with 37 sets logged across Barcelona, Berlin, Budapest and Madrid and 1 more. Often billed alongside Pizzicatto, Pau Pérez and Sueezo. Next up: Spook Club, Valencia on Sat 26 Sept.
+Varis is a house and tech house artist tracked on soundcheck, with 38 sets logged across Barcelona, Berlin, Budapest and Helsinki and 2 more. Often billed alongside Pizzicatto, Pau Pérez and Sueezo. Next up: Spook Club, Valencia on Sat 26 Sept.
 
 ## Upcoming shows
 

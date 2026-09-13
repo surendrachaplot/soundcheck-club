@@ -1,14 +1,13 @@
 # The Timber Loft
 
-The Timber Loft is a music venue in London with 6 upcoming nights listed on soundcheck as of Sun, 13 Sept 2026; the next is "Bloop Takeover Timber Loft" on Sun, 13 Sept 2026.
+The Timber Loft is a music venue in London with 5 upcoming nights listed on soundcheck as of Sun, 13 Sept 2026; the next is "Smokin Sundays" on Sun, 20 Sept 2026.
 
-The Timber Loft is a music venue in London listed on soundcheck. 6 upcoming nights, with line-ups including Alexa (KR), Alexis Raphael, Alythia Kwan and AmyElle and 2 more. Browse upcoming dates, start times and who's playing. 233 Shoreditch High St, London E1 6PJ.
+The Timber Loft is a music venue in London listed on soundcheck. 5 upcoming nights, with line-ups including Alexa (KR), Alexis Raphael, Alythia Kwan and AmyElle and 2 more. Browse upcoming dates, start times and who's playing. 233 Shoreditch High St, London E1 6PJ.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sun, 13 Sept 2026 | Bloop Takeover Timber Loft | Big Nick D, Carl Matthews, Emilio, James Dexter, Marlon Baleci, Matt Timms, Nick Seager, Tian, VENERE, Yama Music |
 | Sun, 20 Sept 2026 | Smokin Sundays | Smokin Jo |
 | Fri, 25 Sept 2026 | SHIFT_Mixer | Alexa (KR), Alythia Kwan, AmyElle, Desyfer, Leena Punks, Lomas, MXV (UK), Micky Miller, Nicholsandroark, Night Edition, NouchKat, S FLY, Trudy Knight, juju (juerrilla) |
 | Sun, 27 Sept 2026 | Grace Sands Birthday |  |

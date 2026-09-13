@@ -1,14 +1,13 @@
 # KiNK
 
-KiNK is a Techno and House artist with 10 upcoming club dates listed on soundcheck as of Sun, 13 Sept 2026, next at Sparta Schwimmclub, Frankfurt on Sun, 13 Sept 2026.
+KiNK is a Techno and House artist with 9 upcoming club dates listed on soundcheck as of Sun, 13 Sept 2026, next at Dockland, Munster on Sat, 3 Oct 2026.
 
-KiNK is a techno and house artist tracked on soundcheck, with 175 sets logged across Amsterdam, Antwerp, Barcelona and Berlin and 45 more. Often billed alongside Raredub, FJAAK and Elli Acula. Next up: Sparta Schwimmclub, Frankfurt on Sun 13 Sept.
+KiNK is a techno and house artist tracked on soundcheck, with 175 sets logged across Amsterdam, Antwerp, Barcelona and Berlin and 45 more. Often billed alongside Raredub, FJAAK and Elli Acula. Next up: Dockland, Munster on Sat 3 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sun, 13 Sept 2026 | Sparta Schwimmclub | Frankfurt |
 | Sat, 3 Oct 2026 | Dockland | Munster |
 | Fri, 9 Oct 2026 | Wigwam | Dublin |
 | Sat, 10 Oct 2026 | fabric | London |

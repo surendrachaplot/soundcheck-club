@@ -1,8 +1,8 @@
 # Freddy K
 
-Freddy K is a Techno and House artist with 15 upcoming club dates listed on soundcheck as of Sun, 13 Sept 2026, next at TBA - Secret Location, Toronto on Fri, 18 Sept 2026.
+Freddy K is a Techno and House artist with 16 upcoming club dates listed on soundcheck as of Sun, 13 Sept 2026, next at TBA - Secret Location, Toronto on Fri, 18 Sept 2026.
 
-Freddy K is a techno and house artist tracked on soundcheck, with 278 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 64 more. Often billed alongside Blasha & Allatt, Chlär and Alarico. Next up: TBA - Secret Location, Toronto on Fri 18 Sept.
+Freddy K is a techno and house artist tracked on soundcheck, with 279 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 65 more. Often billed alongside Blasha & Allatt, Chlär and Alarico. Next up: TBA - Secret Location, Toronto on Fri 18 Sept.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Freddy K is a techno and house artist tracked on soundcheck, with 278 sets logge
 | --- | --- | --- |
 | Fri, 18 Sept 2026 | TBA - Secret Location | Toronto |
 | Sat, 19 Sept 2026 | BASEMENT | New York City |
+| Fri, 25 Sept 2026 | Kaiku | Helsinki |
 | Sat, 26 Sept 2026 | Tapada da Ajuda | Lisbon |
 | Tue, 29 Sept 2026 | Amnesia Ibiza | Ibiza |
 | Sat, 3 Oct 2026 | Sidney Myer Music Bowl | Melbourne |
@@ -19,7 +20,6 @@ Freddy K is a techno and house artist tracked on soundcheck, with 278 sets logge
 | Sat, 17 Oct 2026 | fabric | London |
 | Sat, 17 Oct 2026 | Fuse | Brussels |
 | Fri, 23 Oct 2026 | BRET | Amsterdam |
-| Sat, 24 Oct 2026 | Bajes Amsterdam | Amsterdam |
 
 ## Recently played
 

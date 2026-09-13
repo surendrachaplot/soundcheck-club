@@ -2,7 +2,7 @@
 
 Regularfantasy is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 13 Sept 2026, next at Brooklyn Roots Collective, New York City on Fri, 2 Oct 2026.
 
-Regularfantasy is a house and techno artist tracked on soundcheck, with 104 sets logged across Amsterdam, Antwerp, Berlin and Bristol and 25 more. Often billed alongside D. Tiffany, Plush Managements Inc. and Chloé Caillet. Next up: Brooklyn Roots Collective, Newyorkcity on Fri 2 Oct.
+Regularfantasy is a house and techno artist tracked on soundcheck, with 105 sets logged across Amsterdam, Antwerp, Berlin and Bristol and 26 more. Often billed alongside D. Tiffany, Plush Managements Inc. and Chloé Caillet. Next up: Brooklyn Roots Collective, Newyorkcity on Fri 2 Oct.
 
 ## Upcoming shows
 

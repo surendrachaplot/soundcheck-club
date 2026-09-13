@@ -2,7 +2,7 @@
 
 Ma Sha is a Techno and Bass artist with 5 upcoming club dates listed on soundcheck as of Sun, 13 Sept 2026, next at Fort Mifflin, Philadelphia on Fri, 18 Sept 2026.
 
-Ma Sha is a techno and bass artist tracked on soundcheck, with 96 sets logged across Bangkok, Barcelona, Berlin and Bristol and 26 more. Often billed alongside Sobolik, Sheepshead and Ayesha. Next up: Fort Mifflin, Philadelphia on Fri 18 Sept.
+Ma Sha is a techno and bass artist tracked on soundcheck, with 97 sets logged across Bangkok, Barcelona, Berlin and Bristol and 27 more. Often billed alongside Sobolik, Sheepshead and Ayesha. Next up: Fort Mifflin, Philadelphia on Fri 18 Sept.
 
 ## Upcoming shows
 
@@ -19,11 +19,11 @@ Ma Sha is a techno and bass artist tracked on soundcheck, with 96 sets logged ac
 - Société des arts technologiques, Montreal — Fri, 4 Sept 2026
 - Standard Time, Toronto — Thu, 3 Sept 2026
 - Unité.22, Marseille — Sat, 22 Aug 2026
+- Post Bar, Helsinki — Sat, 25 Jul 2026
 - Horn, Bangkok — Fri, 17 Jul 2026
 - Le Trabendo, Paris — Fri, 19 Jun 2026
 - TBA, Denver — Sat, 13 Jun 2026
 - F8 1192 Folsom, San Francisco/Oakland — Fri, 12 Jun 2026
-- TBA - Secret Loft Location, New York City — Sat, 6 Jun 2026
 
 ## Shares bills with
 

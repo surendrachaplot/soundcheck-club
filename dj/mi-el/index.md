@@ -2,7 +2,7 @@
 
 mi-el is a Bass and Techno artist with 4 upcoming club dates listed on soundcheck as of Sun, 13 Sept 2026, next at Various Venues, London on Thu, 24 Sept 2026.
 
-mi-el is a bass and techno artist tracked on soundcheck, with 111 sets logged across Amsterdam, Barcelona, Berlin and Bristol and 21 more. Often billed alongside Batu, Bitter Babe and re:ni. Next up: Various Venues, London on Thu 24 Sept.
+mi-el is a bass and techno artist tracked on soundcheck, with 111 sets logged across Amsterdam, Barcelona, Berlin and Bristol and 21 more. Often billed alongside Batu, Bitter Babe and Reni. Next up: Various Venues, London on Thu 24 Sept.
 
 ## Upcoming shows
 
@@ -26,6 +26,6 @@ mi-el is a bass and techno artist tracked on soundcheck, with 111 sets logged ac
 
 ## Shares bills with
 
-Batu, Bitter Babe, re:ni
+Batu, Bitter Babe, Reni
 
 *Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mi-el/)*

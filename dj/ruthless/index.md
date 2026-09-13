@@ -1,14 +1,15 @@
 # Ruthless
 
-Ruthless is a Drum & Bass and Jungle artist with 1 upcoming club date listed on soundcheck as of Sun, 13 Sept 2026, next at The Art School, Glasgow on Fri, 20 Nov 2026.
+Ruthless is a Drum & Bass and Jungle artist with 2 upcoming club dates listed on soundcheck as of Sun, 13 Sept 2026, next at The Art School, Glasgow on Fri, 20 Nov 2026.
 
-Ruthless is a drum & bass and jungle artist tracked on soundcheck, with 25 sets logged across Amsterdam, Berlin, Birmingham and Bristol and 7 more. Often billed alongside Nu:Tone, Unglued and Flava D. Next up: The Art School, Glasgow on Fri 20 Nov.
+Ruthless is a drum & bass and jungle artist tracked on soundcheck, with 26 sets logged across Amsterdam, Berlin, Birmingham and Bristol and 8 more. Often billed alongside Nu:Tone, Unglued and Flava D. Next up: The Art School, Glasgow on Fri 20 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 20 Nov 2026 | The Art School | Glasgow |
+| Fri, 27 Nov 2026 | Kaapelitehdas / The Cable Factory | Helsinki |
 
 ## Recently played
 

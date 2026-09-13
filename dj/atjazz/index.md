@@ -2,7 +2,7 @@
 
 Atjazz is a Deep House and House artist with 2 upcoming club dates listed on soundcheck as of Sun, 13 Sept 2026, next at Setlist @ Somerset House, London on Sun, 20 Sept 2026.
 
-Atjazz is a deep house and house artist tracked on soundcheck, with 37 sets logged across Amsterdam, Barcelona, Berlin and Birmingham and 12 more. Often billed alongside Kyri R2, Neil Pierce and Sy Sez. Next up: Setlist @ Somerset House, London on Sun 20 Sept.
+Atjazz is a deep house and house artist tracked on soundcheck, with 38 sets logged across Amsterdam, Barcelona, Berlin and Birmingham and 13 more. Often billed alongside Kyri R2, Neil Pierce and Sy Sez. Next up: Setlist @ Somerset House, London on Sun 20 Sept.
 
 ## Upcoming shows
 
@@ -16,11 +16,11 @@ Atjazz is a deep house and house artist tracked on soundcheck, with 37 sets logg
 - Landesmuseum, Zurich — Mon, 31 Aug 2026
 - CÉ LA VI, London — Sat, 27 Jun 2026
 - Seabird, London — Sat, 20 Jun 2026
+- Grotesk, Helsinki — Sat, 30 May 2026
 - Jaeger, Oslo — Fri, 29 May 2026
 - NUMBER 90 LONDON, London — Fri, 3 Apr 2026
 - Piccadilly Central, Manchester — Sat, 21 Mar 2026
 - Rolling Stock, London — Sat, 7 Feb 2026
-- Djoon, Paris — Sun, 4 Jan 2026
 
 ## Shares bills with
 

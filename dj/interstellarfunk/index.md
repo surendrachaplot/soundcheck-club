@@ -2,7 +2,7 @@
 
 Interstellar Funk is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sun, 13 Sept 2026, next at REC Napoli, Naples on Sat, 31 Oct 2026.
 
-Interstellar Funk is a techno and house artist tracked on soundcheck, with 108 sets logged across Amsterdam, Bali, Bangkok and Barcelona and 33 more. Often billed alongside Marcel Dettmann, Loradeniz and Aurora Halal. Next up: REC Napoli, Naples on Sat 31 Oct.
+Interstellar Funk is a techno and house artist tracked on soundcheck, with 109 sets logged across Amsterdam, Bali, Bangkok and Barcelona and 34 more. Often billed alongside Marcel Dettmann, Casper Tielrooij and Loradeniz. Next up: REC Napoli, Naples on Sat 31 Oct.
 
 ## Upcoming shows
 
@@ -23,6 +23,6 @@ Interstellar Funk is a techno and house artist tracked on soundcheck, with 108 s
 
 ## Shares bills with
 
-Marcel Dettmann, Loradeniz, Aurora Halal
+Marcel Dettmann, Casper Tielrooij, Loradeniz
 
 *Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/interstellarfunk/)*

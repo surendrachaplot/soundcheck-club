@@ -17,7 +17,7 @@ The Greyhound is a music venue in London listed on soundcheck. 15 upcoming night
 | Fri, 9 Oct 2026 | SLVA: The Greyhound | Bobby Mac, lorcan_ |
 | Sat, 10 Oct 2026 | Otik - The Greyhound | Otik |
 | Fri, 16 Oct 2026 | Slippy 005: Mimi, Per, Terry Cotta, Wiseman, Woodwerk, Wyndham | Terry Cotta, Woodwerk, Wyndham |
-| Fri, 6 Nov 2026 | Espionage: Miles J Paralysis, Kristina May & Gibbin | Gibbin, Kristina May (4), Miles J Paralysis |
+| Fri, 6 Nov 2026 | Espionage: Miles J Paralysis, Kristina May & Gibbin | Gibbin, Kristina May, Miles J Paralysis |
 
 ## Address
 

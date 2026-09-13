@@ -1,14 +1,13 @@
 # I Hate Models
 
-I Hate Models is a Techno and House artist with 15 upcoming club dates listed on soundcheck as of Sun, 13 Sept 2026, next at TBA - Grand Parc Miribel Jonage, Lyon on Sat, 12 Sept 2026.
+I Hate Models is a Techno and House artist with 14 upcoming club dates listed on soundcheck as of Sun, 13 Sept 2026, next at Amnesia Ibiza, Ibiza on Wed, 16 Sept 2026.
 
-I Hate Models is a techno and house artist tracked on soundcheck, with 274 sets logged across Aberdeen, Amsterdam, Antwerp and Athens and 72 more. Often billed alongside 999999999, Nico Moreno and Charlie Sparks. Next up: TBA - Grand Parc Miribel Jonage, Lyon on Sat 12 Sept.
+I Hate Models is a techno and house artist tracked on soundcheck, with 274 sets logged across Aberdeen, Amsterdam, Antwerp and Athens and 72 more. Often billed alongside 999999999, Nico Moreno and Charlie Sparks. Next up: Amnesia Ibiza, Ibiza on Wed 16 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 12 Sept 2026 | TBA - Grand Parc Miribel Jonage | Lyon |
 | Wed, 16 Sept 2026 | Amnesia Ibiza | Ibiza |
 | Fri, 18 Sept 2026 | IFEMA | Madrid |
 | Fri, 18 Sept 2026 | IFEMA | Madrid |
@@ -20,6 +19,7 @@ I Hate Models is a techno and house artist tracked on soundcheck, with 274 sets 
 | Fri, 23 Oct 2026 | DRUMSHEDS | London |
 | Fri, 13 Nov 2026 | TBA - New location | Toronto |
 | Fri, 20 Nov 2026 | Native Beach Club | Buenos Aires |
+| Fri, 4 Dec 2026 | MFCC Arena | Malta |
 
 ## Recently played
 

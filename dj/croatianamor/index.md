@@ -2,7 +2,7 @@
 
 Croatian Amor is a Experimental and Ambient artist with 2 upcoming club dates listed on soundcheck as of Sun, 13 Sept 2026, next at Various Venues, London on Thu, 24 Sept 2026.
 
-Croatian Amor is an experimental and ambient artist based in Denmark, tracked on soundcheck, with 52 sets logged across Amsterdam, Barcelona, Berlin and Brussels and 17 more. Often billed alongside oqbqbo, Vanity Productions and Scandinavian Star. Next up: Various Venues, London on Thu 24 Sept.
+Croatian Amor is an experimental and ambient artist based in Denmark, tracked on soundcheck, with 53 sets logged across Amsterdam, Barcelona, Berlin and Brussels and 18 more. Often billed alongside oqbqbo, Vanity Productions and Scandinavian Star. Next up: Various Venues, London on Thu 24 Sept.
 
 ## Upcoming shows
 
@@ -14,13 +14,13 @@ Croatian Amor is an experimental and ambient artist based in Denmark, tracked on
 ## Recently played
 
 - Rote Fabrik, Zurich — Fri, 19 Jun 2026
+- Post Bar, Helsinki — Fri, 12 Jun 2026
 - Mayhem, Copenhagen — Thu, 28 May 2026
 - Copenhagen Contemporary, Copenhagen — Fri, 24 Apr 2026
 - Moth Club, London — Fri, 27 Feb 2026
 - Badaboum, Paris — Thu, 26 Feb 2026
 - Studio dB, Berlin — Sat, 21 Feb 2026
 - Garage Noord, Amsterdam — Fri, 28 Nov 2025
-- Botanique, Brussels — Thu, 27 Nov 2025
 
 ## Shares bills with
 

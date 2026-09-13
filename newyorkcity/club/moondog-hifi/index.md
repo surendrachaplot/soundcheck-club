@@ -1,14 +1,13 @@
 # Moondog Hifi
 
-Moondog Hifi is a music venue in New York City with 8 upcoming nights listed on soundcheck as of Sun, 13 Sept 2026; the next is "Super Gay Sunday" on Sun, 13 Sept 2026.
+Moondog Hifi is a music venue in New York City with 7 upcoming nights listed on soundcheck as of Sun, 13 Sept 2026; the next is "Deep Listening" on Tue, 15 Sept 2026.
 
-Moondog Hifi is a music venue in Newyorkcity listed on soundcheck. 8 upcoming nights, with line-ups including Big Red, Derek Russo, Elon and Kimby (US) and 1 more. Browse upcoming dates, start times and who's playing. 119 Ingraham Street, Brooklyn, NY 11237.
+Moondog Hifi is a music venue in Newyorkcity listed on soundcheck. 7 upcoming nights, with line-ups including Derek Russo, Elon, Kimby (US) and Lauren Ritter. Browse upcoming dates, start times and who's playing. 119 Ingraham Street, Brooklyn, NY 11237.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sun, 13 Sept 2026 | Super Gay Sunday | Big Red |
 | Tue, 15 Sept 2026 | Deep Listening |  |
 | Wed, 16 Sept 2026 | Wednesday JAmZZ: Matthew Pearl Quartet |  |
 | Thu, 17 Sept 2026 | Opendeck presents: Spin City |  |

@@ -1,14 +1,13 @@
 # Spread
 
-Spread is a music venue in Tokyo with 12 upcoming nights listed on soundcheck as of Sun, 13 Sept 2026; the next is "SLOW" on Sun, 13 Sept 2026.
+Spread is a music venue in Tokyo with 11 upcoming nights listed on soundcheck as of Sun, 13 Sept 2026; the next is "LA SEÑAS GROOVIN' LAB" on Tue, 15 Sept 2026.
 
-Spread is a music venue in Tokyo listed on soundcheck. 12 upcoming nights, with line-ups including Aoto, Mazlika and Mizuki. Browse upcoming dates, start times and who's playing. 2-12-6 Kitazawa, Setagaya-ku, Tokyo, 155-0031 Japan.
+Spread is a music venue in Tokyo listed on soundcheck. 11 upcoming nights, with line-ups including Mazlika. Browse upcoming dates, start times and who's playing. 2-12-6 Kitazawa, Setagaya-ku, Tokyo, 155-0031 Japan.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sun, 13 Sept 2026 | SLOW | Aoto, Mizuki |
 | Tue, 15 Sept 2026 | LA SEÑAS GROOVIN' LAB |  |
 | Sat, 19 Sept 2026 | explode your brain |  |
 | Sun, 20 Sept 2026 | LUVPOLIS presents「TRANSIT 01」 |  |
@@ -18,6 +17,7 @@ Spread is a music venue in Tokyo listed on soundcheck. 12 upcoming nights, with 
 | Tue, 29 Sept 2026 | Release party「ペロリ！」 |  |
 | Fri, 16 Oct 2026 | 'éCon' -Alté Constellation- |  |
 | Sat, 24 Oct 2026 | littlegirl needs KLAXON |  |
+| Sat, 7 Nov 2026 | Destiny Hope Tiara ONE NIGHT ONLY LIVE SHOW 2026 |  |
 
 ## Address
 

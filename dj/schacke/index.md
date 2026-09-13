@@ -2,7 +2,7 @@
 
 Schacke is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Sun, 13 Sept 2026, next at Fitzroy, Berlin on Sun, 18 Oct 2026.
 
-Schacke is a techno and trance artist tracked on soundcheck, with 186 sets logged across Amsterdam, Antwerp, Athens and Austin and 46 more. Often billed alongside Peachlyfe, Vixen and Mohajer. Next up: Fitzroy, Berlin on Sun 18 Oct.
+Schacke is a techno and trance artist tracked on soundcheck, with 192 sets logged across Amsterdam, Antwerp, Athens and Austin and 47 more. Often billed alongside Peachlyfe, Vixen and Mohajer. Next up: Fitzroy, Berlin on Sun 18 Oct.
 
 ## Upcoming shows
 

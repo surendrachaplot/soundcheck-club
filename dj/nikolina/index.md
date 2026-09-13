@@ -1,14 +1,13 @@
 # Nikolina
 
-Nikolina is a Techno and Industrial artist with 9 upcoming club dates listed on soundcheck as of Sun, 13 Sept 2026, next at TBA - Grand Parc Miribel Jonage, Lyon on Sat, 12 Sept 2026.
+Nikolina is a Techno and Industrial artist with 8 upcoming club dates listed on soundcheck as of Sun, 13 Sept 2026, next at Bootshaus, Cologne on Fri, 25 Sept 2026.
 
-Nikolina is a techno and industrial artist tracked on soundcheck, with 108 sets logged across Amsterdam, Athens, Austin and Barcelona and 45 more. Often billed alongside Azyr, Restricted and Onlynumbers. Next up: TBA - Grand Parc Miribel Jonage, Lyon on Sat 12 Sept.
+Nikolina is a techno and industrial artist tracked on soundcheck, with 108 sets logged across Amsterdam, Athens, Austin and Barcelona and 45 more. Often billed alongside Azyr, Restricted and Onlynumbers. Next up: Bootshaus, Cologne on Fri 25 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 12 Sept 2026 | TBA - Grand Parc Miribel Jonage | Lyon |
 | Fri, 25 Sept 2026 | Bootshaus | Cologne |
 | Sat, 3 Oct 2026 | TBA - XOX Arena | Kuala Lumpur |
 | Fri, 23 Oct 2026 | DRUMSHEDS | London |

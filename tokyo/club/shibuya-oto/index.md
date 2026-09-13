@@ -1,14 +1,13 @@
 # Shibuya OTO
 
-Shibuya OTO is a music venue in Tokyo with 7 upcoming nights listed on soundcheck as of Sun, 13 Sept 2026; the next is "SOLIDROOMS" on Sun, 13 Sept 2026.
+Shibuya OTO is a music venue in Tokyo with 6 upcoming nights listed on soundcheck as of Sun, 13 Sept 2026; the next is "ALT-SHIFT #2 supported by Modular Wednesday" on Wed, 16 Sept 2026.
 
-Shibuya OTO is a music venue in Tokyo listed on soundcheck. 7 upcoming nights, with line-ups including COSMOGANG, EIJI, Hironobu Jyounai and Kenta Tominaga and 2 more. Browse upcoming dates, start times and who's playing. Japan, 〒150-0002 Tokyo, Shibuya City, Shibuya, 3 Chome−18−7 渋谷東一号館ビル５F.
+Shibuya OTO is a music venue in Tokyo listed on soundcheck. 6 upcoming nights, with line-ups including EIJI, Hironobu Jyounai, Kenta Tominaga and Licaxxx and 1 more. Browse upcoming dates, start times and who's playing. Japan, 〒150-0002 Tokyo, Shibuya City, Shibuya, 3 Chome−18−7 渋谷東一号館ビル５F.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sun, 13 Sept 2026 | SOLIDROOMS | COSMOGANG, Nobuharu Morimoto |
 | Wed, 16 Sept 2026 | ALT-SHIFT #2 supported by Modular Wednesday |  |
 | Sat, 19 Sept 2026 | OTO 31st Anniversary DAY.1 | EIJI, Hironobu Jyounai, Kenta Tominaga, vinylDJ Eiji Takehana |
 | Sun, 20 Sept 2026 | OTO 31st Anniversary DAY.2 | Licaxxx |

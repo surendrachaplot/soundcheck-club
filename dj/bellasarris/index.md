@@ -2,7 +2,7 @@
 
 Bella Sarris is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sun, 13 Sept 2026, next at Yderlandsvej 1, Copenhagen on Fri, 18 Sept 2026.
 
-Bella Sarris is a house and techno artist tracked on soundcheck, with 78 sets logged across Amsterdam, Barcelona, Berlin and Brussels and 10 more. Often billed alongside ISAbella, THC and Roza Terenzi. Next up: Yderlandsvej 1, Copenhagen on Fri 18 Sept.
+Bella Sarris is a house and techno artist tracked on soundcheck, with 80 sets logged across Amsterdam, Barcelona, Berlin and Brussels and 11 more. Often billed alongside ISAbella, THC and Roza Terenzi. Next up: Yderlandsvej 1, Copenhagen on Fri 18 Sept.
 
 ## Upcoming shows
 

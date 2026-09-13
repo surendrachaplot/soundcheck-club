@@ -1,14 +1,13 @@
 # Juan Atkins
 
-Juan Atkins is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Sun, 13 Sept 2026, next at Südpol, Hamburg on Sat, 12 Sept 2026.
+Juan Atkins is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Sun, 13 Sept 2026, next at Ložionica, Belgrade on Fri, 16 Oct 2026.
 
-Juan Atkins is a techno and house artist based in United States of America, tracked on soundcheck, with 75 sets logged across Amsterdam, Antwerp, Austin and Barcelona and 24 more. Often billed alongside Delano Smith, Carl Craig and Christian AB. Next up: Südpol, Hamburg on Sat 12 Sept.
+Juan Atkins is a techno and house artist based in United States of America, tracked on soundcheck, with 75 sets logged across Amsterdam, Antwerp, Austin and Barcelona and 24 more. Often billed alongside Delano Smith, Carl Craig and Christian AB. Next up: Ložionica, Belgrade on Fri 16 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 12 Sept 2026 | Südpol | Hamburg |
 | Fri, 16 Oct 2026 | Ložionica | Belgrade |
 | Sat, 17 Oct 2026 | KALT | Strasbourg |
 | Fri, 23 Oct 2026 | Q-Factory | Amsterdam |

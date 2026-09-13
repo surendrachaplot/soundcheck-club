@@ -1,28 +1,29 @@
 # emkay (FI)
 
-emkay (FI) is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 13 Sept 2026, next at public records, New York City on Thu, 17 Sept 2026.
+emkay (FI) is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sun, 13 Sept 2026, next at public records, New York City on Thu, 17 Sept 2026.
 
-emkay (FI) is a house and techno artist based in Finland, tracked on soundcheck, with 13 sets logged across Berlin, Copenhagen, Melbourne and Newyorkcity and 2 more. Often billed alongside Mike Midnight, Jeku and Roza Terenzi. Next up: public records, Newyorkcity on Thu 17 Sept.
+emkay (FI) is a house and techno artist based in Finland, tracked on soundcheck, with 20 sets logged across Berlin, Copenhagen, Helsinki and Melbourne and 3 more. Often billed alongside Mike Midnight, Jeku and Kasper Marott. Next up: public records, Newyorkcity on Thu 17 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Thu, 17 Sept 2026 | public records | New York City |
+| Sat, 3 Oct 2026 | Post Bar | Helsinki |
 
 ## Recently played
 
 - Kwia, Berlin — Wed, 8 Jul 2026
 - TBA, Berlin — Sun, 5 Jul 2026
 - Jolene, Copenhagen — Sat, 27 Jun 2026
+- Stidilä, Helsinki — Sun, 14 Jun 2026
+- Kaiku, Helsinki — Sat, 30 May 2026
+- Kaiku, Helsinki — Sat, 30 May 2026
+- Post Bar, Helsinki — Sat, 14 Mar 2026
 - Imbarco Perosino, Turin — Fri, 21 Nov 2025
-- ., Berlin — Fri, 12 Sept 2025
-- Corcoran’s Irish Pub Lilas, Paris — Fri, 20 Sept 2024
-- Bourke Street Courtyard, Melbourne — Sat, 2 Mar 2024
-- Angel Music Bar, Melbourne — Sat, 2 Mar 2024
 
 ## Shares bills with
 
-Mike Midnight, Jeku, Roza Terenzi
+Mike Midnight, Jeku, Kasper Marott
 
 *Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/emkay-fi/)*

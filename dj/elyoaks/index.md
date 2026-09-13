@@ -2,7 +2,7 @@
 
 Ely Oaks is a Techno and House artist with 8 upcoming club dates listed on soundcheck as of Sun, 13 Sept 2026, next at Glen Helen Regional Park, Los Angeles on Sat, 19 Sept 2026.
 
-Ely Oaks is a techno and house artist tracked on soundcheck, with 40 sets logged across Aberdeen, Amsterdam, Antwerp and Austin and 22 more. Often billed alongside DAX J, HNTR and Jen Cardini. Next up: Glen Helen Regional Park, Losangeles on Sat 19 Sept.
+Ely Oaks is a techno and house artist tracked on soundcheck, with 41 sets logged across Aberdeen, Amsterdam, Antwerp and Austin and 23 more. Often billed alongside Space 92, DAX J and HNTR. Next up: Glen Helen Regional Park, Losangeles on Sat 19 Sept.
 
 ## Upcoming shows
 
@@ -30,6 +30,6 @@ Ely Oaks is a techno and house artist tracked on soundcheck, with 40 sets logged
 
 ## Shares bills with
 
-DAX J, HNTR, Jen Cardini
+Space 92, DAX J, HNTR
 
 *Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/elyoaks/)*

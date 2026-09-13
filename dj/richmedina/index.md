@@ -1,14 +1,13 @@
 # Rich Medina
 
-Rich Medina is a House and Hip-Hop artist with 4 upcoming club dates listed on soundcheck as of Sun, 13 Sept 2026, next at 314 Scholes, New York City on Sun, 13 Sept 2026.
+Rich Medina is a House and Hip-Hop artist with 3 upcoming club dates listed on soundcheck as of Sun, 13 Sept 2026, next at High Tide, Los Angeles on Sat, 26 Sept 2026.
 
-Rich Medina is a house and hip-hop artist tracked on soundcheck, with 197 sets logged across Amsterdam, Barcelona, Chicago and Denver and 19 more. Often billed alongside Djinji Brown, Dvize and Sunny Cheeba. Next up: 314 Scholes, Newyorkcity on Sun 13 Sept.
+Rich Medina is a house and hip-hop artist tracked on soundcheck, with 197 sets logged across Amsterdam, Barcelona, Chicago and Denver and 19 more. Often billed alongside Djinji Brown, Dvize and Sunny Cheeba. Next up: High Tide, Losangeles on Sat 26 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sun, 13 Sept 2026 | 314 Scholes | New York City |
 | Sat, 26 Sept 2026 | High Tide | Los Angeles |
 | Sat, 10 Oct 2026 | Oxford Art Factory | Sydney |
 | Fri, 16 Oct 2026 | The Night Cat | Melbourne |

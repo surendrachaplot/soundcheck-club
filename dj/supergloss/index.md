@@ -1,14 +1,13 @@
 # Supergloss
 
-Supergloss is a Techno and Trance artist with 14 upcoming club dates listed on soundcheck as of Sun, 13 Sept 2026, next at 888 Garage, San Francisco/Oakland on Sun, 13 Sept 2026.
+Supergloss is a Techno and Trance artist with 13 upcoming club dates listed on soundcheck as of Sun, 13 Sept 2026, next at FOLD, London on Sat, 19 Sept 2026.
 
-Supergloss is a techno and trance artist tracked on soundcheck, with 210 sets logged across Amsterdam, Antwerp, Athens and Austin and 54 more. Often billed alongside Funk Tribu, Omon Breaker and MALUGI. Next up: 888 Garage, Sanfrancisco on Sun 13 Sept.
+Supergloss is a techno and trance artist tracked on soundcheck, with 212 sets logged across Amsterdam, Antwerp, Athens and Austin and 55 more. Often billed alongside Funk Tribu, Omon Breaker and MALUGI. Next up: FOLD, London on Sat 19 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sun, 13 Sept 2026 | 888 Garage | San Francisco/Oakland |
 | Sat, 19 Sept 2026 | FOLD | London |
 | Sun, 20 Sept 2026 | La Cité Fertile | Paris |
 | Sat, 26 Sept 2026 | Nitsa Club | Barcelona |
@@ -20,6 +19,7 @@ Supergloss is a techno and trance artist tracked on soundcheck, with 210 sets lo
 | Sat, 24 Oct 2026 | Havenpark | Amsterdam |
 | Sat, 24 Oct 2026 | Havenpark | Amsterdam |
 | Sat, 31 Oct 2026 | Fabrik | Madrid |
+| Fri, 6 Nov 2026 | RSO.BERLIN | Berlin |
 
 ## Recently played
 

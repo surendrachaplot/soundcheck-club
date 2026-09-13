@@ -2,7 +2,7 @@
 
 DJ Nobu is a Techno and House artist with 11 upcoming club dates listed on soundcheck as of Sun, 13 Sept 2026, next at TBA - Brooklyn, New York City on Fri, 18 Sept 2026.
 
-DJ Nobu is a techno and house artist tracked on soundcheck, with 228 sets logged across Amsterdam, Athens, Austin and Bali and 57 more. Often billed alongside Gabrielle Kwarteng, Wata Igarashi and DVS1. Next up: TBA - Brooklyn, Newyorkcity on Fri 18 Sept.
+DJ Nobu is a techno and house artist tracked on soundcheck, with 229 sets logged across Amsterdam, Athens, Austin and Bali and 58 more. Often billed alongside Gabrielle Kwarteng, Wata Igarashi and DVS1. Next up: TBA - Brooklyn, Newyorkcity on Fri 18 Sept.
 
 ## Upcoming shows
 

@@ -2,7 +2,7 @@
 
 Chlär is a Techno and House artist with 12 upcoming club dates listed on soundcheck as of Sun, 13 Sept 2026, next at Le Sucre, Lyon on Sun, 13 Sept 2026.
 
-Chlär is a techno and house artist tracked on soundcheck, with 253 sets logged across Aberdeen, Amsterdam, Antwerp and Athens and 56 more. Often billed alongside Alarico, Funk Assault and Freddy K. Next up: Le Sucre, Lyon on Sun 13 Sept.
+Chlär is a techno and house artist tracked on soundcheck, with 254 sets logged across Aberdeen, Amsterdam, Antwerp and Athens and 57 more. Often billed alongside Alarico, Funk Assault and Freddy K. Next up: Le Sucre, Lyon on Sun 13 Sept.
 
 ## Upcoming shows
 

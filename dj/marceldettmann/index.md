@@ -2,7 +2,7 @@
 
 Marcel Dettmann is a Techno and House artist with 16 upcoming club dates listed on soundcheck as of Sun, 13 Sept 2026, next at Barragem da Queimadela, Porto on Thu, 10 Sept 2026.
 
-Marcel Dettmann is a techno and house artist tracked on soundcheck, with 262 sets logged across Amsterdam, Antwerp, Athens and Austin and 63 more. Often billed alongside Ben Klock, Ogazón and BASHKKA. Next up: Barragem da Queimadela, Porto on Thu 10 Sept.
+Marcel Dettmann is a techno and house artist tracked on soundcheck, with 263 sets logged across Amsterdam, Antwerp, Athens and Austin and 64 more. Often billed alongside Ben Klock, Ogazón and BASHKKA. Next up: Barragem da Queimadela, Porto on Thu 10 Sept.
 
 ## Upcoming shows
 

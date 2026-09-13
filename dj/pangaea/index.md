@@ -2,7 +2,7 @@
 
 Pangaea is a Techno and Bass artist with 4 upcoming club dates listed on soundcheck as of Sun, 13 Sept 2026, next at The White Hotel, Manchester on Fri, 18 Sept 2026.
 
-Pangaea is a techno and bass artist tracked on soundcheck, with 124 sets logged across Amsterdam, Auckland, Austin and Bali and 49 more. Often billed alongside Ben UFO, Pearson Sound and Amaliah. Next up: The White Hotel, Manchester on Fri 18 Sept.
+Pangaea is a techno and bass artist tracked on soundcheck, with 125 sets logged across Amsterdam, Auckland, Austin and Bali and 50 more. Often billed alongside Ben UFO, Pearson Sound and Amaliah. Next up: The White Hotel, Manchester on Fri 18 Sept.
 
 ## Upcoming shows
 
@@ -20,9 +20,9 @@ Pangaea is a techno and bass artist tracked on soundcheck, with 124 sets logged 
 - Fira Gran Via, Barcelona — Thu, 18 Jun 2026
 - Fira Gran Via, Barcelona — Mon, 15 Jun 2026
 - Strange Brew, Bristol — Sat, 6 Jun 2026
+- Kaiku, Helsinki — Sat, 2 May 2026
 - Radio Radio, Amsterdam — Fri, 1 May 2026
 - Palais, London — Sat, 25 Apr 2026
-- Amber's, Manchester — Fri, 10 Apr 2026
 
 ## Shares bills with
 

@@ -2,7 +2,7 @@
 
 Ian Pooley is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sun, 13 Sept 2026, next at A'DAM Toren, Amsterdam on Wed, 21 Oct 2026.
 
-Ian Pooley is a house and techno artist tracked on soundcheck, with 109 sets logged across Amsterdam, Athens, Auckland and Bangkok and 43 more. Often billed alongside dj sweet6teen, Eva Crystaltips and Luca Olivotto. Next up: A'DAM Toren, Amsterdam on Wed 21 Oct.
+Ian Pooley is a house and techno artist tracked on soundcheck, with 110 sets logged across Amsterdam, Athens, Auckland and Bangkok and 44 more. Often billed alongside dj sweet6teen, Eva Crystaltips and Luca Olivotto. Next up: A'DAM Toren, Amsterdam on Wed 21 Oct.
 
 ## Upcoming shows
 

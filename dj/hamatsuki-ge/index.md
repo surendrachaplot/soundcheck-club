@@ -2,7 +2,7 @@
 
 Hamatsuki is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sun, 13 Sept 2026, next at Sunseabar Beach Club, Barcelona on Sun, 13 Sept 2026.
 
-Hamatsuki is a house and techno artist tracked on soundcheck, with 76 sets logged across Barcelona, Berlin, Copenhagen and Madrid and 6 more. Often billed alongside Kvanchi, Sophie Phare and Kancheli. Next up: Sunseabar Beach Club, Barcelona on Sun 13 Sept.
+Hamatsuki is a house and techno artist tracked on soundcheck, with 77 sets logged across Barcelona, Berlin, Copenhagen and Helsinki and 7 more. Often billed alongside Kvanchi, Sophie Phare and Newa. Next up: Sunseabar Beach Club, Barcelona on Sun 13 Sept.
 
 ## Upcoming shows
 
@@ -24,6 +24,6 @@ Hamatsuki is a house and techno artist tracked on soundcheck, with 76 sets logge
 
 ## Shares bills with
 
-Kvanchi, Sophie Phare, Kancheli
+Kvanchi, Sophie Phare, Newa
 
 *Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/hamatsuki-ge/)*

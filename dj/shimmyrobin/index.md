@@ -1,14 +1,13 @@
 # Shimmy Robin
 
-Shimmy Robin is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sun, 13 Sept 2026, next at Südpol, Hamburg on Sat, 12 Sept 2026.
+Shimmy Robin is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sun, 13 Sept 2026, next at Café Schöne Aussichten (CSA), Hamburg on Sat, 19 Sept 2026.
 
-Shimmy Robin is a techno and house artist tracked on soundcheck, with 108 sets logged across Berlin, Cologne, Copenhagen and Hamburg and 3 more. Often billed alongside Najeh, dj blip and dj fako. Next up: Südpol, Hamburg on Sat 12 Sept.
+Shimmy Robin is a techno and house artist tracked on soundcheck, with 108 sets logged across Berlin, Cologne, Copenhagen and Hamburg and 3 more. Often billed alongside Najeh, dj blip and dj fako. Next up: Café Schöne Aussichten (CSA), Hamburg on Sat 19 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 12 Sept 2026 | Südpol | Hamburg |
 | Sat, 19 Sept 2026 | Café Schöne Aussichten (CSA) | Hamburg |
 
 ## Recently played

@@ -2,7 +2,7 @@
 
 Justine Perry is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Sun, 13 Sept 2026, next at Cabaret  Aléatoire, Marseille on Fri, 25 Sept 2026.
 
-Justine Perry is a techno and house artist tracked on soundcheck, with 160 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 43 more. Often billed alongside Paula Koski, Blasha & Allatt and Kangding Ray. Next up: Cabaret  Aléatoire, Marseille on Fri 25 Sept.
+Justine Perry is a techno and house artist tracked on soundcheck, with 161 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 44 more. Often billed alongside Paula Koski, Blasha & Allatt and Kangding Ray. Next up: Cabaret  Aléatoire, Marseille on Fri 25 Sept.
 
 ## Upcoming shows
 

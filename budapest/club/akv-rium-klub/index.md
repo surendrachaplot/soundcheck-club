@@ -1,14 +1,13 @@
 # Akvárium Klub
 
-Akvárium Klub is a music venue in Budapest with 22 upcoming nights listed on soundcheck as of Sun, 13 Sept 2026; the next is "Jamie Woon" on Sun, 13 Sept 2026.
+Akvárium Klub is a music venue in Budapest with 21 upcoming nights listed on soundcheck as of Sun, 13 Sept 2026; the next is "Only The Poets" on Fri, 18 Sept 2026.
 
-Akvárium Klub is a music venue in Budapest listed on soundcheck. 22 upcoming nights, with line-ups including Acid Arab, ALT8, Andrew Cairns and Arlo Parks and 2 more. Browse upcoming dates, start times and who's playing. Budapest Erzsébet tér, 1051 Hungary.
+Akvárium Klub is a music venue in Budapest listed on soundcheck. 21 upcoming nights, with line-ups including Acid Arab, ALT8, Andrew Cairns and Arlo Parks and 2 more. Browse upcoming dates, start times and who's playing. Budapest Erzsébet tér, 1051 Hungary.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sun, 13 Sept 2026 | Jamie Woon | Jamie Woon |
 | Fri, 18 Sept 2026 | Only The Poets |  |
 | Sat, 19 Sept 2026 | Juliet Fox | Juliet Fox |
 | Fri, 2 Oct 2026 | AkvaWaves pres.: Joachim Pastor // Akvárium Klub | Joachim Pastor |
@@ -18,6 +17,7 @@ Akvárium Klub is a music venue in Budapest listed on soundcheck. 22 upcoming ni
 | Fri, 16 Oct 2026 | AkvaWaves invites: Ely Oaks 360° at NagyHall | Ely Oaks |
 | Fri, 16 Oct 2026 | AkvaWaves 360 invites: Ryota, Yung Singh | Ryota, Yung Singh |
 | Thu, 22 Oct 2026 | Arlo Parks | Arlo Parks |
+| Thu, 22 Oct 2026 | Trio Mandili |  |
 
 ## Address
 

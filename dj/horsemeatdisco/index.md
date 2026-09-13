@@ -2,7 +2,7 @@
 
 Horse Meat Disco is a House and Disco artist with 11 upcoming club dates listed on soundcheck as of Sun, 13 Sept 2026, next at The Eagle, London on Sun, 13 Sept 2026.
 
-Horse Meat Disco is a house and disco artist tracked on soundcheck, with 386 sets logged across Amsterdam, Antwerp, Athens and Austin and 53 more. Often billed alongside Luke Howard, James Hillard and Severino. Next up: The Eagle, London on Sun 13 Sept.
+Horse Meat Disco is a house and disco artist tracked on soundcheck, with 388 sets logged across Amsterdam, Antwerp, Athens and Austin and 54 more. Often billed alongside Luke Howard, James Hillard and Severino. Next up: The Eagle, London on Sun 13 Sept.
 
 ## Upcoming shows
 

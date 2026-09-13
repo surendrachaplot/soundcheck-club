@@ -1,14 +1,13 @@
 # ://about blank
 
-://about blank is a music venue in Berlin with 28 upcoming nights listed on soundcheck as of Sun, 13 Sept 2026; the next is "://mixed & juicy - open air " on Sun, 13 Sept 2026.
+://about blank is a music venue in Berlin with 27 upcoming nights listed on soundcheck as of Sun, 13 Sept 2026; the next is "Antifa.Weiter.Machen. Soliparty" on Fri, 18 Sept 2026.
 
-://about blank is a music venue in Berlin listed on soundcheck. 28 upcoming nights, with line-ups including 4NOUK, 5euroGoldi, YOVA and alemiko and 2 more. Browse upcoming dates, start times and who's playing. Markgrafendamm 24c, 10245 Berlin, Germany.
+://about blank is a music venue in Berlin listed on soundcheck. 27 upcoming nights, with line-ups including 4NOUK, 5euroGoldi, YOVA and alemiko and 2 more. Browse upcoming dates, start times and who's playing. Markgrafendamm 24c, 10245 Berlin, Germany.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sun, 13 Sept 2026 | ://mixed & juicy - open air  | André Dancekowski, DJ Sanni, Deniz Arslan, Multifun, Schorli, Stornoline |
 | Fri, 18 Sept 2026 | Antifa.Weiter.Machen. Soliparty | ALKARLINE, Carl Bergé, Eluzid, Julie Marghilano, MELATRONIX, Tactile, lisa tba |
 | Sat, 19 Sept 2026 | DUALISM with SPEEDBOYS LIVE, CARGO, YOVA | 5euroGoldi, Alex.Do, CARGO (DE), DJ Flink, DJ Zugzwang, Hanna Baertig, M4RY, Mareike Bautz, Nastaran, SPEEDBOYS, YOVA |
 | Sat, 19 Sept 2026 | Daytime department by tam ias (14-22 Uhr) | kluntje |
@@ -18,6 +17,7 @@
 | Fri, 2 Oct 2026 | 128<3 - Der Elternabend im Club | Dressman, Krawalle und Liebe |
 | Sat, 3 Oct 2026 | Always ON TOP | Bamela Paywatch, CHOREOPHILA, Carl Hang, Dr.Sun, Ini Lamborghini, Multifun, Schorli |
 | Sun, 4 Oct 2026 | STAUB XS_Familydisco_TREE OF THE CORE |  |
+| Fri, 9 Oct 2026 | PUDDING ∞ LETZTE WIESE × TRANSCENDÆNCE | DJ Semisecco, Droughtwerk, FI3BER, Flotte Motte, MATHILDA (2), Philena |
 
 ## Address
 

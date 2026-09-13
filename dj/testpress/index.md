@@ -1,14 +1,13 @@
 # t e s t p r e s s
 
-t e s t p r e s s is a Techno and Trance artist with 7 upcoming club dates listed on soundcheck as of Sun, 13 Sept 2026, next at Planet Wax, London on Sun, 13 Sept 2026.
+t e s t p r e s s is a Techno and Trance artist with 6 upcoming club dates listed on soundcheck as of Sun, 13 Sept 2026, next at Bootshaus, Cologne on Fri, 18 Sept 2026.
 
-t e s t p r e s s is a techno and trance artist tracked on soundcheck, with 111 sets logged across Aberdeen, Amsterdam, Antwerp and Basel and 28 more. Often billed alongside Trancemaster Krause, Cleopard2000 and Céleste. Next up: Planet Wax, London on Sun 13 Sept.
+t e s t p r e s s is a techno and trance artist tracked on soundcheck, with 111 sets logged across Aberdeen, Amsterdam, Antwerp and Basel and 28 more. Often billed alongside Trancemaster Krause, Cleopard2000 and Céleste. Next up: Bootshaus, Cologne on Fri 18 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sun, 13 Sept 2026 | Planet Wax | London |
 | Fri, 18 Sept 2026 | Bootshaus | Cologne |
 | Fri, 25 Sept 2026 | The Warehouse | Leeds |
 | Sat, 3 Oct 2026 | Lokschuppen Berlin | Berlin |

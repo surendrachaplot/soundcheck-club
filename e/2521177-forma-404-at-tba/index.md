@@ -17,7 +17,7 @@ Forma 404 at TBA on Sat 3 Oct, Mexicocity. 9 acts on the bill: Animam, Bastard L
 - Lake Chalco
 - Mosca (2)
 - Phanta
-- re:ni
+- Reni
 - Tomoki Tamura
 
 *Source: [soundcheck](https://soundcheck.club/e/2521177-forma-404-at-tba/)*

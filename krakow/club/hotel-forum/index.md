@@ -9,7 +9,7 @@ Hotel Forum is a music venue in Krakow listed on soundcheck. 3 upcoming nights, 
 | Date | Night | Line-up |
 | --- | --- | --- |
 | Thu, 8 Oct 2026 | Unsound Kraków 2026 SWAY: Vigro Deep b2b Batu, DJ Plead, gyrofield, KAVARI b2b Ship Sket + more | Batu, DJ Plead, Deli Girls, Jawnino, KAVARI, Ship Sket, gyrofield |
-| Fri, 9 Oct 2026 | Unsound Kraków 2026 FLUFF: Juliana Huxtable b2b JASSS, PPP, Cyst, Siete Catorce, re:ni + more | DJ Plead, DJ Python, Iglooghost, JASSS, Juliana Huxtable, Piezo, Worldpeace DMT, re:ni |
+| Fri, 9 Oct 2026 | Unsound Kraków 2026 FLUFF: Juliana Huxtable b2b JASSS, PPP, Cyst, Siete Catorce, re:ni + more | DJ Plead, DJ Python, Iglooghost, JASSS, Juliana Huxtable, Piezo, Reni, Worldpeace DMT |
 | Sat, 10 Oct 2026 | Unsound Kraków 2026 PLUSH: Kode9 b2b Nikki Nair, DJ Spanish Fly, Lorenzo Senni, K Wata + more | DJ Firmeza, DJ Nigga Fox, Dawuna, Dj Danifox, K Wata, Kode9, Lorenzo Senni, Nikki Nair, Rabit |
 
 ## Address

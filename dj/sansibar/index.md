@@ -1,8 +1,8 @@
 # Sansibar
 
-Sansibar is a Techno and Electro artist with 5 upcoming club dates listed on soundcheck as of Sun, 13 Sept 2026, next at Renate, Berlin on Fri, 11 Sept 2026.
+Sansibar is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Sun, 13 Sept 2026, next at Renate, Berlin on Fri, 11 Sept 2026.
 
-Sansibar is a techno and electro artist tracked on soundcheck, with 150 sets logged across Amsterdam, Athens, Bangkok and Barcelona and 45 more. Often billed alongside dj sweet6teen, Naone and Angel D'lite. Next up: Renate, Berlin on Fri 11 Sept.
+Sansibar is a techno and house artist tracked on soundcheck, with 171 sets logged across Amsterdam, Athens, Bangkok and Barcelona and 46 more. Often billed alongside dj sweet6teen, Katerina and Naone. Next up: Renate, Berlin on Fri 11 Sept.
 
 ## Upcoming shows
 
@@ -20,13 +20,13 @@ Sansibar is a techno and electro artist tracked on soundcheck, with 150 sets log
 - Circle Park, Brussels — Sat, 29 Aug 2026
 - Tokonoma Club, Frankfurt — Sat, 22 Aug 2026
 - Lux Fragil, Lisbon — Sat, 15 Aug 2026
+- Ääniwalli, Helsinki — Sun, 9 Aug 2026
+- Post Bar, Helsinki — Sat, 1 Aug 2026
 - Macadam, Nantes — Sun, 26 Jul 2026
 - The Cause, London — Sat, 25 Jul 2026
-- M.O.T, London — Fri, 26 Jun 2026
-- Strange Brew, Bristol — Fri, 29 May 2026
 
 ## Shares bills with
 
-dj sweet6teen, Naone, Angel D'lite
+dj sweet6teen, Katerina, Naone
 
 *Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sansibar/)*

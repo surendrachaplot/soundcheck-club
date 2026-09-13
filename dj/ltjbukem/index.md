@@ -2,7 +2,7 @@
 
 LTJ Bukem is a Drum & Bass and Jungle artist with 3 upcoming club dates listed on soundcheck as of Sun, 13 Sept 2026, next at The Cause, London on Sat, 12 Sept 2026.
 
-LTJ Bukem is a drum & bass and jungle artist tracked on soundcheck, with 101 sets logged across Amsterdam, Antwerp, Athens and Belfast and 38 more. Often billed alongside Roni Size, DjRUM and Ruthless. Next up: The Cause, London on Sat 12 Sept.
+LTJ Bukem is a drum & bass and jungle artist tracked on soundcheck, with 102 sets logged across Amsterdam, Antwerp, Athens and Belfast and 39 more. Often billed alongside Roni Size, DjRUM and Ruthless. Next up: The Cause, London on Sat 12 Sept.
 
 ## Upcoming shows
 
@@ -19,9 +19,9 @@ LTJ Bukem is a drum & bass and jungle artist tracked on soundcheck, with 101 set
 - Nebojša Tower Museum, Belgrade — Sat, 20 Jun 2026
 - Outside Thisio Metro Station, Athens — Sun, 17 May 2026
 - PROGRESS, Manchester — Sat, 2 May 2026
+- Kaiku, Helsinki — Sat, 18 Apr 2026
 - BERHTA, Washington DC — Fri, 10 Apr 2026
 - Ophelia's Electric Soapbox, Denver — Thu, 9 Apr 2026
-- Digital, Newcastle — Sat, 4 Apr 2026
 
 ## Shares bills with
 

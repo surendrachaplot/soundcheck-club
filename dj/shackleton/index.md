@@ -2,7 +2,7 @@
 
 Shackleton is a Experimental and Techno artist with 2 upcoming club dates listed on soundcheck as of Sun, 13 Sept 2026, next at Gut Level, Sheffield on Fri, 25 Sept 2026.
 
-Shackleton is an experimental and techno artist tracked on soundcheck, with 65 sets logged across Amsterdam, Barcelona, Basel and Berlin and 23 more. Often billed alongside upsammy, ojoo and Al Wootton. Next up: Gut Level, Sheffield on Fri 25 Sept.
+Shackleton is an experimental and techno artist tracked on soundcheck, with 66 sets logged across Amsterdam, Barcelona, Basel and Berlin and 24 more. Often billed alongside upsammy, ojoo and Al Wootton. Next up: Gut Level, Sheffield on Fri 25 Sept.
 
 ## Upcoming shows
 

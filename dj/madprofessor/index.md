@@ -2,7 +2,7 @@
 
 Mad Professor is a Dub and Bass artist with 5 upcoming club dates listed on soundcheck as of Sun, 13 Sept 2026, next at Bunker, Turin on Fri, 18 Sept 2026.
 
-Mad Professor is a dub and bass artist tracked on soundcheck, with 67 sets logged across Amsterdam, Bali, Barcelona and Berlin and 35 more. Often billed alongside DjRUM, Tash LC and Arsenal Mikebe. Next up: Bunker, Turin on Fri 18 Sept.
+Mad Professor is a dub and bass artist tracked on soundcheck, with 68 sets logged across Amsterdam, Bali, Barcelona and Berlin and 36 more. Often billed alongside DjRUM, Tash LC and Verraco. Next up: Bunker, Turin on Fri 18 Sept.
 
 ## Upcoming shows
 
@@ -27,6 +27,6 @@ Mad Professor is a dub and bass artist tracked on soundcheck, with 67 sets logge
 
 ## Shares bills with
 
-DjRUM, Tash LC, Arsenal Mikebe
+DjRUM, Tash LC, Verraco
 
 *Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/madprofessor/)*

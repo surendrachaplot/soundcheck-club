@@ -2,7 +2,7 @@
 
 Margaux Gazur is a Ambient and Dub artist with 2 upcoming club dates listed on soundcheck as of Sun, 13 Sept 2026, next at ZENNER, Berlin on Fri, 16 Oct 2026.
 
-Margaux Gazur is an ambient and dub artist based in France, tracked on soundcheck, with 19 sets logged across Barcelona, Berlin, Hamburg and Leipzig and 4 more. Often billed alongside Edward, Lawrence and Cosmo (KR). Next up: ZENNER, Berlin on Fri 16 Oct.
+Margaux Gazur is an ambient and dub artist based in France, tracked on soundcheck, with 20 sets logged across Barcelona, Berlin, Hamburg and Helsinki and 5 more. Often billed alongside Edward, Lawrence and Cosmo (KR). Next up: ZENNER, Berlin on Fri 16 Oct.
 
 ## Upcoming shows
 

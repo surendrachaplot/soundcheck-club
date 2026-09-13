@@ -2,7 +2,7 @@
 
 PARAMIDA is a House and Techno artist with 10 upcoming club dates listed on soundcheck as of Sun, 13 Sept 2026, next at Amnesia Ibiza, Ibiza on Tue, 15 Sept 2026.
 
-PARAMIDA is a house and techno artist tracked on soundcheck, with 252 sets logged across Amsterdam, Antwerp, Athens and Bali and 47 more. Often billed alongside Alex Kassian, Ryan Elliott and tINI. Next up: Amnesia Ibiza, Ibiza on Tue 15 Sept.
+PARAMIDA is a house and techno artist tracked on soundcheck, with 253 sets logged across Amsterdam, Antwerp, Athens and Bali and 48 more. Often billed alongside Alex Kassian, Ryan Elliott and tINI. Next up: Amnesia Ibiza, Ibiza on Tue 15 Sept.
 
 ## Upcoming shows
 

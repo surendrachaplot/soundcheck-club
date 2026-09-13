@@ -1,14 +1,13 @@
 # Studio 338
 
-Studio 338 is a music venue in London with 9 upcoming nights listed on soundcheck as of Sun, 13 Sept 2026; the next is "Summer Garden Party / Part 2" on Sun, 13 Sept 2026.
+Studio 338 is a music venue in London with 8 upcoming nights listed on soundcheck as of Sun, 13 Sept 2026; the next is "THE OFFICIAL LONDON FRESHERS MOVING IN PARTY - LONDON FRESHERS WEEK 2026" on Sun, 20 Sept 2026.
 
-Studio 338 is a music venue in London listed on soundcheck. 9 upcoming nights, with line-ups including Alex P, ASHOJU, Billy Daniel Bunter and Bontan and 2 more. Browse upcoming dates, start times and who's playing. 338 Boord Street; Greenwich; London SE10 0PF; United Kingdom.
+Studio 338 is a music venue in London listed on soundcheck. 8 upcoming nights, with line-ups including Alex P, ASHOJU, Billy Daniel Bunter and Bontan and 2 more. Browse upcoming dates, start times and who's playing. 338 Boord Street; Greenwich; London SE10 0PF; United Kingdom.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sun, 13 Sept 2026 | Summer Garden Party / Part 2 | DJ IC, Supa D, Tippa |
 | Sun, 20 Sept 2026 | THE OFFICIAL LONDON FRESHERS MOVING IN PARTY - LONDON FRESHERS WEEK 2026 |  |
 | Fri, 25 Sept 2026 | THE PROJECT X HOUSE PARTY |  |
 | Sat, 26 Sept 2026 | Moondance 31: Summer Session | Alex P, Billy Daniel Bunter, DJ Hype, DJ Rap, DJ SS, DJ Storm, Devious D, Five Alive, Flux, Funky Flirt, GQ, Grant Nelson, IC3, JamieG, Krust, Lanav, MC Express, MC Fearless, Matt Jam Lamont, Mrs Magoo, Nicky Blackmarket, Ratpack, Ray Keith, Richie Fingers, Shimon, Simon Bassline Smith, Slipmatt |

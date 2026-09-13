@@ -1,14 +1,13 @@
 # SXCL
 
-SXCL is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Sun, 13 Sept 2026, next at TBA - https://t.me/boochieberlin, Berlin on Sun, 13 Sept 2026.
+SXCL is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Sun, 13 Sept 2026, next at Südpol, Hamburg on Fri, 18 Sept 2026.
 
-SXCL is a house and techno artist based in France, tracked on soundcheck, with 52 sets logged across Berlin, Hamburg, Leipzig and Madrid. Often billed alongside Dirty Daddy Don, Posture and Cheriii. Next up: TBA - https://t.me/boochieberlin, Berlin on Sun 13 Sept.
+SXCL is a house and techno artist based in France, tracked on soundcheck, with 52 sets logged across Berlin, Hamburg, Leipzig and Madrid. Often billed alongside Dirty Daddy Don, Posture and Cheriii. Next up: Südpol, Hamburg on Fri 18 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sun, 13 Sept 2026 | TBA - https://t.me/boochieberlin | Berlin |
 | Fri, 18 Sept 2026 | Südpol | Hamburg |
 | Fri, 25 Sept 2026 | Renate | Berlin |
 | Wed, 7 Oct 2026 | Tresor / Globus | Berlin |

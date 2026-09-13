@@ -1,14 +1,13 @@
 # Helen Me Lia
 
-Helen Me Lia is a House and Disco artist with 17 upcoming club dates listed on soundcheck as of Sun, 13 Sept 2026, next at Hotel Negresco Princess, Barcelona on Sun, 13 Sept 2026.
+Helen Me Lia is a House and Disco artist with 16 upcoming club dates listed on soundcheck as of Sun, 13 Sept 2026, next at Hotel Negresco Princess, Barcelona on Wed, 16 Sept 2026.
 
-Helen Me Lia is a house and disco artist tracked on soundcheck, with 267 sets logged across Auckland, Austin, Barcelona and Berlin and 16 more. Often billed alongside RAUL ORELLANA. Next up: Hotel Negresco Princess, Barcelona on Sun 13 Sept.
+Helen Me Lia is a house and disco artist tracked on soundcheck, with 267 sets logged across Auckland, Austin, Barcelona and Berlin and 16 more. Often billed alongside RAUL ORELLANA. Next up: Hotel Negresco Princess, Barcelona on Wed 16 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sun, 13 Sept 2026 | Hotel Negresco Princess | Barcelona |
 | Wed, 16 Sept 2026 | Hotel Negresco Princess | Barcelona |
 | Sat, 19 Sept 2026 | Hotel Negresco Princess | Barcelona |
 | Sun, 20 Sept 2026 | Hotel Negresco Princess | Barcelona |
@@ -20,6 +19,7 @@ Helen Me Lia is a house and disco artist tracked on soundcheck, with 267 sets lo
 | Sun, 4 Oct 2026 | Hotel Negresco Princess | Barcelona |
 | Sat, 10 Oct 2026 | Hotel Negresco Princess | Barcelona |
 | Sun, 11 Oct 2026 | Hotel Negresco Princess | Barcelona |
+| Sat, 17 Oct 2026 | Hotel Negresco Princess | Barcelona |
 
 ## Recently played
 

@@ -2,7 +2,7 @@
 
 Sega Bodega is a Electronica and Bass artist with 1 upcoming club date listed on soundcheck as of Sun, 13 Sept 2026, next at NIEBO, Warsaw on Mon, 28 Sept 2026.
 
-Sega Bodega is an electronica and bass artist based in United Kingdom, tracked on soundcheck, with 37 sets logged across Amsterdam, Barcelona, Berlin and Brussels and 20 more. Often billed alongside Arca, DjRUM and Erika de Casier. Next up: NIEBO, Warsaw on Mon 28 Sept.
+Sega Bodega is an electronica and bass artist based in United Kingdom, tracked on soundcheck, with 38 sets logged across Amsterdam, Barcelona, Berlin and Brussels and 21 more. Often billed alongside Erika de Casier, Arca and DjRUM. Next up: NIEBO, Warsaw on Mon 28 Sept.
 
 ## Upcoming shows
 
@@ -23,6 +23,6 @@ Sega Bodega is an electronica and bass artist based in United Kingdom, tracked o
 
 ## Shares bills with
 
-Arca, DjRUM, Erika de Casier
+Erika de Casier, Arca, DjRUM
 
 *Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/segabodega/)*

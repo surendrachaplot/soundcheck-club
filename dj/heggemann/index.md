@@ -1,8 +1,8 @@
 # Mika Heggemann
 
-Mika Heggemann is a Techno and Trance artist with 8 upcoming club dates listed on soundcheck as of Sun, 13 Sept 2026, next at Bootshaus, Cologne on Fri, 18 Sept 2026.
+Mika Heggemann is a Techno and Trance artist with 9 upcoming club dates listed on soundcheck as of Sun, 13 Sept 2026, next at Bootshaus, Cologne on Fri, 18 Sept 2026.
 
-Mika Heggemann is a techno and trance artist tracked on soundcheck, with 165 sets logged across Amsterdam, Antwerp, Barcelona and Basel and 31 more. Often billed alongside Cleopard2000, Trancemaster Krause and davyboi. Next up: Bootshaus, Cologne on Fri 18 Sept.
+Mika Heggemann is a techno and trance artist tracked on soundcheck, with 166 sets logged across Amsterdam, Antwerp, Barcelona and Basel and 32 more. Often billed alongside Cleopard2000, Trancemaster Krause and davyboi. Next up: Bootshaus, Cologne on Fri 18 Sept.
 
 ## Upcoming shows
 
@@ -12,6 +12,7 @@ Mika Heggemann is a techno and trance artist tracked on soundcheck, with 165 set
 | Fri, 18 Sept 2026 | Bootshaus | Cologne |
 | Fri, 9 Oct 2026 | Uebel & Gefährlich | Hamburg |
 | Sat, 10 Oct 2026 | Plage Privée Parc de Miribel | Lyon |
+| Fri, 16 Oct 2026 | Ääniwalli | Helsinki |
 | Sat, 17 Oct 2026 | Hangaren | Copenhagen |
 | Fri, 23 Oct 2026 | H7 Warehouse | Amsterdam |
 | Fri, 30 Oct 2026 | Club Vaag | Antwerp |

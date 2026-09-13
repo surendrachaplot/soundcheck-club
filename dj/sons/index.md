@@ -2,7 +2,7 @@
 
 S.O.N.S is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Sun, 13 Sept 2026, next at TBA, Seoul on Sat, 19 Sept 2026.
 
-S.O.N.S is a techno and house artist tracked on soundcheck, with 85 sets logged across Amsterdam, Barcelona, Berlin and Bristol and 22 more. Often billed alongside Yeonjun, GNMR and Minkyu. Next up: TBA, Seoul on Sat 19 Sept.
+S.O.N.S is a techno and house artist tracked on soundcheck, with 86 sets logged across Amsterdam, Barcelona, Berlin and Bristol and 23 more. Often billed alongside Yeonjun, GNMR and Minkyu. Next up: TBA, Seoul on Sat 19 Sept.
 
 ## Upcoming shows
 
@@ -21,7 +21,7 @@ S.O.N.S is a techno and house artist tracked on soundcheck, with 85 sets logged 
 - Switch, Porto — Fri, 3 Jul 2026
 - FOLD, London — Sat, 27 Jun 2026
 - UMI, Brussels — Sat, 20 Jun 2026
-- Berghain | Panorama Bar | Säule, Berlin — Fri, 12 Jun 2026
+- Post Bar, Helsinki — Sat, 13 Jun 2026
 
 ## Shares bills with
 

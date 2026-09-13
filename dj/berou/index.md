@@ -1,14 +1,13 @@
 # Bérou
 
-Bérou is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Sun, 13 Sept 2026, next at TBA - Grand Parc Miribel Jonage, Lyon on Sat, 12 Sept 2026.
+Bérou is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sun, 13 Sept 2026, next at Virage, Paris on Fri, 18 Sept 2026.
 
-Bérou is a techno and house artist tracked on soundcheck, with 54 sets logged across Amsterdam, Berlin, Geneva and Lyon and 2 more. Often billed alongside Zaratustra, Colapso and DURDENHAUER. Next up: TBA - Grand Parc Miribel Jonage, Lyon on Sat 12 Sept.
+Bérou is a techno and house artist tracked on soundcheck, with 54 sets logged across Amsterdam, Berlin, Geneva and Lyon and 2 more. Often billed alongside Zaratustra, Colapso and DURDENHAUER. Next up: Virage, Paris on Fri 18 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 12 Sept 2026 | TBA - Grand Parc Miribel Jonage | Lyon |
 | Fri, 18 Sept 2026 | Virage | Paris |
 | Wed, 21 Oct 2026 | Yellow House | Amsterdam |
 

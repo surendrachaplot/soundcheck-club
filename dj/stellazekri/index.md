@@ -2,7 +2,7 @@
 
 Stella Zekri is a House and Techno artist with 7 upcoming club dates listed on soundcheck as of Sun, 13 Sept 2026, next at UMI, Brussels on Sat, 19 Sept 2026.
 
-Stella Zekri is a house and techno artist tracked on soundcheck, with 186 sets logged across Amsterdam, Antwerp, Barcelona and Berlin and 27 more. Often billed alongside Camilla Rae, 131bpm and BASHKKA. Next up: UMI, Brussels on Sat 19 Sept.
+Stella Zekri is a house and techno artist tracked on soundcheck, with 187 sets logged across Amsterdam, Antwerp, Barcelona and Berlin and 28 more. Often billed alongside Camilla Rae, 131bpm and CCL. Next up: UMI, Brussels on Sat 19 Sept.
 
 ## Upcoming shows
 
@@ -29,6 +29,6 @@ Stella Zekri is a house and techno artist tracked on soundcheck, with 186 sets l
 
 ## Shares bills with
 
-Camilla Rae, 131bpm, BASHKKA
+Camilla Rae, 131bpm, CCL
 
 *Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/stellazekri/)*

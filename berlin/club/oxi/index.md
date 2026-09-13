@@ -1,14 +1,13 @@
 # OXI
 
-OXI is a music venue in Berlin with 25 upcoming nights listed on soundcheck as of Sun, 13 Sept 2026; the next is "OXI SUNDAYS OPEN AIR (CANCELLED)" on Sun, 13 Sept 2026.
+OXI is a music venue in Berlin with 24 upcoming nights listed on soundcheck as of Sun, 13 Sept 2026; the next is "✦encore.une.fois✦ / TUESDAY TECHNO RAVE" on Tue, 15 Sept 2026.
 
-OXI is a music venue in Berlin listed on soundcheck. 25 upcoming nights, with line-ups including Gio Goltara, Acidalia, Ana Molina and Anaté and 2 more. Browse upcoming dates, start times and who's playing. Wiesenweg 1-4, 10365 Berlin.
+OXI is a music venue in Berlin listed on soundcheck. 24 upcoming nights, with line-ups including Gio Goltara, Acidalia, Anaté and Anja Schneider and 2 more. Browse upcoming dates, start times and who's playing. Wiesenweg 1-4, 10365 Berlin.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sun, 13 Sept 2026 | OXI SUNDAYS OPEN AIR (CANCELLED) | Ana Molina, Bacon Chang, Monokultur, Soela |
 | Tue, 15 Sept 2026 | ✦encore.une.fois✦ / TUESDAY TECHNO RAVE | Acidalia, HERS, Inverse Element, Schwefelgelb |
 | Sat, 19 Sept 2026 | Toy Tonics presents ITALOMANIA (OPEN AIR & INDOOR 18 hours) | Aria Santillana, Bordello Soundsystem, James Falco, Karolina Bnv, Kidcat, Ricardo Baez, Richelle Soigni, ilbroccolovolante |
 | Sun, 20 Sept 2026 | smile. Festival | Anaté, Anja Schneider, Aténo, Franko Muçaj, Monokultur, Norman Weber, Pascal Fischer, oulcan |
@@ -18,6 +17,7 @@ OXI is a music venue in Berlin listed on soundcheck. 25 upcoming nights, with li
 | Sun, 27 Sept 2026 | RAMA X HOMODROP (OPEN AIR + INDOOR) | Cheriii, Clay, Gio Goltara, Hunkut, Julie Desire, Mars O10C, Somme Farris, Sub Sahara, clay (DE) |
 | Tue, 29 Sept 2026 | ✦encore.une.fois✦ / TUESDAY TECHNO RAVE | BLACK ANTHEM RESTORE, Lola Kay, Majdolen, Rachel Noon, YAZMIN (MT) |
 | Sat, 3 Oct 2026 | Small Great House 'Garden Closing 2026' (Open Air + Indoor) | Eva Crystaltips, Kat_Es, Lavan, Loves_kills, Luca Olivotto, Meriem S, Nephews, Quadrakey, Retromigration, Shabi, Siggatunez, Small Great Things. Soundsystem, Valeria |
+| Tue, 6 Oct 2026 | ✦encore.une.fois✦ / TUESDAY TECHNO RAVE |  |
 
 ## Address
 

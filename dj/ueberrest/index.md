@@ -2,7 +2,7 @@
 
 Ueberrest is a Techno and Trance artist with 10 upcoming club dates listed on soundcheck as of Sun, 13 Sept 2026, next at Westhafen, Leipzig on Sat, 19 Sept 2026.
 
-Ueberrest is a techno and trance artist tracked on soundcheck, with 90 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 36 more. Often billed alongside Kobosil, Somewhen and KUKO. Next up: Westhafen, Leipzig on Sat 19 Sept.
+Ueberrest is a techno and trance artist tracked on soundcheck, with 91 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 37 more. Often billed alongside Kobosil, Somewhen and KUKO. Next up: Westhafen, Leipzig on Sat 19 Sept.
 
 ## Upcoming shows
 

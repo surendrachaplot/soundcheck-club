@@ -1,14 +1,13 @@
 # Frida Darko
 
-Frida Darko is a Techno and Downtempo artist with 4 upcoming club dates listed on soundcheck as of Sun, 13 Sept 2026, next at gART.n, Berlin on Sun, 13 Sept 2026.
+Frida Darko is a Techno and Downtempo artist with 3 upcoming club dates listed on soundcheck as of Sun, 13 Sept 2026, next at Tanzhaus West, Frankfurt on Sat, 19 Sept 2026.
 
-Frida Darko is a techno and downtempo artist tracked on soundcheck, with 93 sets logged across Amsterdam, Berlin, Cologne and Copenhagen and 15 more. Often billed alongside Oliver Koletzki, Urem and FLAVE. Next up: gART.n, Berlin on Sun 13 Sept.
+Frida Darko is a techno and downtempo artist tracked on soundcheck, with 93 sets logged across Amsterdam, Berlin, Cologne and Copenhagen and 15 more. Often billed alongside Oliver Koletzki, Urem and FLAVE. Next up: Tanzhaus West, Frankfurt on Sat 19 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sun, 13 Sept 2026 | gART.n | Berlin |
 | Sat, 19 Sept 2026 | Tanzhaus West | Frankfurt |
 | Sat, 24 Oct 2026 | THE OTHER SIDE | Amsterdam |
 | Sat, 7 Nov 2026 | Ritter Butzke | Berlin |

@@ -1,8 +1,8 @@
 # Maduk
 
-Maduk is a Drum & Bass and Bass artist with 2 upcoming club dates listed on soundcheck as of Sun, 13 Sept 2026, next at Uebel & Gefährlich, Hamburg on Fri, 25 Sept 2026.
+Maduk is a Drum & Bass and Bass artist with 3 upcoming club dates listed on soundcheck as of Sun, 13 Sept 2026, next at Uebel & Gefährlich, Hamburg on Fri, 25 Sept 2026.
 
-Maduk is a drum & bass and bass artist tracked on soundcheck, with 34 sets logged across Amsterdam, Antwerp, Barcelona and Berlin and 11 more. Often billed alongside MOTA, Fox Stevenson and Delta Heavy. Next up: Uebel & Gefährlich, Hamburg on Fri 25 Sept.
+Maduk is a drum & bass and bass artist tracked on soundcheck, with 35 sets logged across Amsterdam, Antwerp, Barcelona and Berlin and 12 more. Often billed alongside MOTA, Fox Stevenson and Lexurus. Next up: Uebel & Gefährlich, Hamburg on Fri 25 Sept.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Maduk is a drum & bass and bass artist tracked on soundcheck, with 34 sets logge
 | --- | --- | --- |
 | Fri, 25 Sept 2026 | Uebel & Gefährlich | Hamburg |
 | Sat, 3 Oct 2026 | Club Exil | Vienna |
+| Fri, 13 Nov 2026 | Ääniwalli | Helsinki |
 
 ## Recently played
 
@@ -24,6 +25,6 @@ Maduk is a drum & bass and bass artist tracked on soundcheck, with 34 sets logge
 
 ## Shares bills with
 
-MOTA, Fox Stevenson, Delta Heavy
+MOTA, Fox Stevenson, Lexurus
 
 *Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/maduk/)*

@@ -2,7 +2,7 @@
 
 DJ Healthy is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sun, 13 Sept 2026, next at VENT, Tokyo on Sat, 24 Oct 2026.
 
-DJ Healthy is a techno and house artist tracked on soundcheck, with 101 sets logged across Bangkok, Dublin, Hongkong and Kyoto and 10 more. Often billed alongside Amelia Holt, YELLOWUHURU and Chung. Next up: VENT, Tokyo on Sat 24 Oct.
+DJ Healthy is a techno and house artist tracked on soundcheck, with 102 sets logged across Bangkok, Dublin, Helsinki and Hongkong and 11 more. Often billed alongside Amelia Holt, YELLOWUHURU and Chung. Next up: VENT, Tokyo on Sat 24 Oct.
 
 ## Upcoming shows
 

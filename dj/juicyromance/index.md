@@ -2,7 +2,7 @@
 
 Juicy Romance is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Sun, 13 Sept 2026, next at Openluchttheater Amersfoort, Amsterdam on Fri, 18 Sept 2026.
 
-Juicy Romance is a techno and house artist based in Australia, tracked on soundcheck, with 143 sets logged across Aberdeen, Amsterdam, Barcelona and Belfast and 46 more. Often billed alongside Partiboi69, Mischluft and KETTAMA. Next up: Openluchttheater Amersfoort, Amsterdam on Fri 18 Sept.
+Juicy Romance is a techno and house artist based in Australia, tracked on soundcheck, with 144 sets logged across Aberdeen, Amsterdam, Barcelona and Belfast and 47 more. Often billed alongside Partiboi69, Mischluft and KETTAMA. Next up: Openluchttheater Amersfoort, Amsterdam on Fri 18 Sept.
 
 ## Upcoming shows
 
@@ -18,13 +18,13 @@ Juicy Romance is a techno and house artist based in Australia, tracked on soundc
 ## Recently played
 
 - Else, Berlin — Sun, 30 Aug 2026
+- Ääniwalli, Helsinki — Sun, 9 Aug 2026
 - Palmerstown House Estate, Dublin — Fri, 7 Aug 2026
 - Amnesia Ibiza, Ibiza — Mon, 20 Jul 2026
 - Trädgården, Stockholm — Thu, 16 Jul 2026
 - Cabaret Voltaire, Edinburgh — Fri, 3 Jul 2026
 - C12, Brussels — Fri, 19 Jun 2026
 - Amnesia Ibiza, Ibiza — Sun, 7 Jun 2026
-- PRST, Vienna — Wed, 3 Jun 2026
 
 ## Shares bills with
 

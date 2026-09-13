@@ -1,14 +1,13 @@
 # SAIDAH
 
-SAIDAH is a House and Garage artist with 9 upcoming club dates listed on soundcheck as of Sun, 13 Sept 2026, next at Jardins de Joan Brossa, Barcelona on Sun, 13 Sept 2026.
+SAIDAH is a House and Garage artist with 8 upcoming club dates listed on soundcheck as of Sun, 13 Sept 2026, next at Openluchttheater Amersfoort, Amsterdam on Fri, 18 Sept 2026.
 
-SAIDAH is a house and garage artist tracked on soundcheck, with 116 sets logged across Amsterdam, Antwerp, Austin and Barcelona and 17 more. Often billed alongside Diffrent, Sam Alfred and Silva Bumpa. Next up: Jardins de Joan Brossa, Barcelona on Sun 13 Sept.
+SAIDAH is a house and garage artist tracked on soundcheck, with 116 sets logged across Amsterdam, Antwerp, Austin and Barcelona and 17 more. Often billed alongside Diffrent, Sam Alfred and Silva Bumpa. Next up: Openluchttheater Amersfoort, Amsterdam on Fri 18 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sun, 13 Sept 2026 | Jardins de Joan Brossa | Barcelona |
 | Fri, 18 Sept 2026 | Openluchttheater Amersfoort | Amsterdam |
 | Sat, 10 Oct 2026 | Escala25 | Lisbon |
 | Sat, 24 Oct 2026 | GASHOUDER | Amsterdam |

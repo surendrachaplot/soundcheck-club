@@ -2,7 +2,7 @@
 
 IDA is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sun, 13 Sept 2026, next at Openluchttheater Amersfoort, Amsterdam on Fri, 18 Sept 2026.
 
-IDA is a techno and house artist tracked on soundcheck, with 15 sets logged across Amsterdam, Berlin, Edinburgh and Glasgow and 4 more. Often billed alongside Giordano, AANN and ALISHA. Next up: Openluchttheater Amersfoort, Amsterdam on Fri 18 Sept.
+IDA is a techno and house artist tracked on soundcheck, with 19 sets logged across Amsterdam, Berlin, Edinburgh and Glasgow and 5 more. Often billed alongside Denzel, Giordano and Sansibar. Next up: Openluchttheater Amersfoort, Amsterdam on Fri 18 Sept.
 
 ## Upcoming shows
 
@@ -14,16 +14,16 @@ IDA is a techno and house artist tracked on soundcheck, with 15 sets logged acro
 ## Recently played
 
 - Doggy Klœb, Malaga — Fri, 11 Sept 2026
+- Post Bar, Helsinki — Sat, 4 Jul 2026
 - Ormside Projects, London — Fri, 26 Jun 2026
 - Hive Club, Zurich — Sat, 13 Jun 2026
 - Tresor / Globus, Berlin — Fri, 17 Apr 2026
 - Doggy Klœb, Malaga — Sat, 11 Apr 2026
 - Renate, Berlin — Sat, 14 Feb 2026
-- Giri, Berlin — Fri, 13 Dec 2024
-- Cabaret Voltaire, Edinburgh — Sat, 19 Oct 2024
+- Post Bar, Helsinki — Fri, 6 Feb 2026
 
 ## Shares bills with
 
-Giordano, AANN, ALISHA
+Denzel, Giordano, Sansibar
 
 *Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ida-uk/)*

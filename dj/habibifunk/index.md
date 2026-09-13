@@ -2,7 +2,7 @@
 
 Habibi Funk is a Funk / Soul and House artist with 1 upcoming club date listed on soundcheck as of Sun, 13 Sept 2026, next at La Bellevilloise, Paris on Sat, 19 Sept 2026.
 
-Habibi Funk is a funk / soul and house artist tracked on soundcheck, with 59 sets logged across Amsterdam, Antwerp, Athens and Bangkok and 24 more. Often billed alongside Nabihah Iqbal, Hadj Sameer and Arp Frique. Next up: La Bellevilloise, Paris on Sat 19 Sept.
+Habibi Funk is a funk / soul and house artist tracked on soundcheck, with 60 sets logged across Amsterdam, Antwerp, Athens and Bangkok and 25 more. Often billed alongside Nabihah Iqbal, Hadj Sameer and Arp Frique. Next up: La Bellevilloise, Paris on Sat 19 Sept.
 
 ## Upcoming shows
 
@@ -14,12 +14,12 @@ Habibi Funk is a funk / soul and house artist tracked on soundcheck, with 59 set
 
 - Hackney Bridge, London — Sat, 29 Aug 2026
 - Import Export, Munich — Sat, 22 Aug 2026
+- Suvilahti Power Plant, Helsinki — Fri, 14 Aug 2026
 - Calatheabeachclub, Naples — Sat, 1 Aug 2026
 - Okupa Kitchen & Listening Bar, Athens — Sat, 6 Jun 2026
 - Village Underground, London — Fri, 8 May 2026
 - 24 Kitchen Street, Liverpool — Sat, 4 Apr 2026
 - Gorilla, Manchester — Fri, 3 Apr 2026
-- Lost Horizon, Bristol — Thu, 2 Apr 2026
 
 ## Shares bills with
 

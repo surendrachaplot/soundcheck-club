@@ -16,7 +16,7 @@ Unsound Kraków 2026 FLUFF: Juliana Huxtable b2b JASSS, PPP, Cyst, Siete Catorce
 - JASSS
 - Juliana Huxtable
 - Piezo
-- re:ni
+- Reni
 - Worldpeace DMT
 
 *Source: [soundcheck](https://soundcheck.club/e/2520246-unsound-krak-w-2026-fluff-juliana-huxtable-b2b-jasss-ppp-cys/)*

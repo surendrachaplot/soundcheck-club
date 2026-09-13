@@ -1,14 +1,13 @@
 # Yellow House
 
-Yellow House is a music venue in Amsterdam with 6 upcoming nights listed on soundcheck as of Sun, 13 Sept 2026; the next is "Yusu Blockparty" on Sun, 13 Sept 2026.
+Yellow House is a music venue in Amsterdam with 5 upcoming nights listed on soundcheck as of Sun, 13 Sept 2026; the next is "DEEP TISSUE X Yellow House - COMMUNITY GATHERING" on Fri, 18 Sept 2026.
 
-Yellow House is a music venue in Amsterdam listed on soundcheck. 6 upcoming nights, with line-ups including Bambi-S, Bérou, BIIANCO and Cinthie and 2 more. Browse upcoming dates, start times and who's playing. 1013AM Amsterdam, Danzigerbocht 45-R.
+Yellow House is a music venue in Amsterdam listed on soundcheck. 5 upcoming nights, with line-ups including Bambi-S, Bérou, BIIANCO and Cinthie and 2 more. Browse upcoming dates, start times and who's playing. 1013AM Amsterdam, Danzigerbocht 45-R.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sun, 13 Sept 2026 | Yusu Blockparty | NATHIFA EFIA, WaxFiend, Zoë Janice |
 | Fri, 18 Sept 2026 | DEEP TISSUE X Yellow House - COMMUNITY GATHERING | Saladiaga |
 | Fri, 18 Sept 2026 | Deep Tissue: Community Event | Saladiaga, Special Guest (US) |
 | Sat, 19 Sept 2026 | Soul Syndicate | Pascal Morais |

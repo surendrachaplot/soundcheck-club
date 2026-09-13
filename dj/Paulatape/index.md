@@ -2,7 +2,7 @@
 
 Paula Tape is a House and Techno artist with 6 upcoming club dates listed on soundcheck as of Sun, 13 Sept 2026, next at smartbar, Chicago on Sun, 13 Sept 2026.
 
-Paula Tape is a house and techno artist tracked on soundcheck, with 160 sets logged across Amsterdam, Athens, Bali and Bangkok and 48 more. Often billed alongside Avalon Emerson, Bonobo and Bradley Zero. Next up: smartbar, Chicago on Sun 13 Sept.
+Paula Tape is a house and techno artist tracked on soundcheck, with 161 sets logged across Amsterdam, Athens, Bali and Bangkok and 49 more. Often billed alongside Avalon Emerson, Bonobo and Bradley Zero. Next up: smartbar, Chicago on Sun 13 Sept.
 
 ## Upcoming shows
 

@@ -2,7 +2,7 @@
 
 Sadar Bahar is a Disco and House artist with 1 upcoming club date listed on soundcheck as of Sun, 13 Sept 2026, next at Sala Villanos, Madrid on Sat, 24 Oct 2026.
 
-Sadar Bahar is a disco and house artist tracked on soundcheck, with 60 sets logged across Amsterdam, Athens, Auckland and Bali and 15 more. Often billed alongside Kamma, DJ Spen and Masalo. Next up: Sala Villanos, Madrid on Sat 24 Oct.
+Sadar Bahar is a disco and house artist tracked on soundcheck, with 61 sets logged across Amsterdam, Athens, Auckland and Bali and 16 more. Often billed alongside Kamma, DJ Spen and Masalo. Next up: Sala Villanos, Madrid on Sat 24 Oct.
 
 ## Upcoming shows
 

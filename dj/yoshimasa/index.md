@@ -1,14 +1,13 @@
 # YOSHIMASA
 
-YOSHIMASA is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Sun, 13 Sept 2026, next at Yodo Groove (Yodobashi Ikebukuro), Tokyo on Sun, 13 Sept 2026.
+YOSHIMASA is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Sun, 13 Sept 2026, next at BRAND SHIBUYA, Tokyo on Sun, 20 Sept 2026.
 
-YOSHIMASA is a techno and house artist tracked on soundcheck, with 91 sets logged across Tokyo. Often billed alongside DJ 34, BEPPU and Takami. Next up: Yodo Groove (Yodobashi Ikebukuro), Tokyo on Sun 13 Sept.
+YOSHIMASA is a techno and house artist tracked on soundcheck, with 91 sets logged across Tokyo. Often billed alongside DJ 34, BEPPU and Takami. Next up: BRAND SHIBUYA, Tokyo on Sun 20 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sun, 13 Sept 2026 | Yodo Groove (Yodobashi Ikebukuro) | Tokyo |
 | Sun, 20 Sept 2026 | BRAND SHIBUYA | Tokyo |
 | Mon, 21 Sept 2026 | Yodo Groove (Yodobashi Ikebukuro) | Tokyo |
 | Sat, 26 Sept 2026 | R Lounge | Tokyo |

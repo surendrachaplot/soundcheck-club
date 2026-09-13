@@ -2,7 +2,7 @@
 
 Marie Vaunt is a Techno and Acid artist with 7 upcoming club dates listed on soundcheck as of Sun, 13 Sept 2026, next at Factory Town, Miami on Fri, 25 Sept 2026.
 
-Marie Vaunt is a techno and acid artist tracked on soundcheck, with 77 sets logged across Amsterdam, Athens, Auckland and Austin and 36 more. Often billed alongside Lino Fuso, Maddix and Space 92. Next up: Factory Town, Miami on Fri 25 Sept.
+Marie Vaunt is a techno and acid artist tracked on soundcheck, with 79 sets logged across Amsterdam, Athens, Auckland and Austin and 37 more. Often billed alongside Space 92, Lino Fuso and Maddix. Next up: Factory Town, Miami on Fri 25 Sept.
 
 ## Upcoming shows
 
@@ -29,6 +29,6 @@ Marie Vaunt is a techno and acid artist tracked on soundcheck, with 77 sets logg
 
 ## Shares bills with
 
-Lino Fuso, Maddix, Space 92
+Space 92, Lino Fuso, Maddix
 
 *Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/marievaunt/)*

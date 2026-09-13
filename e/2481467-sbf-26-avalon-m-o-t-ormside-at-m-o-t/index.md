@@ -28,7 +28,7 @@
 - Lo Simple
 - Mellowdramatics
 - Raisa K
-- re:ni
+- Reni
 - Rezzett
 - Shackleton
 - XT1ANA

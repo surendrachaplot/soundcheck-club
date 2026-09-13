@@ -1,14 +1,13 @@
 # Rakäthe
 
-Rakäthe is a Downtempo and Deep House artist with 2 upcoming club dates listed on soundcheck as of Sun, 13 Sept 2026, next at gART.n, Berlin on Sun, 13 Sept 2026.
+Rakäthe is a Downtempo and Deep House artist with 1 upcoming club date listed on soundcheck as of Sun, 13 Sept 2026, next at Kauz, Zurich on Sat, 19 Sept 2026.
 
-Rakäthe is a downtempo and deep house artist based in Germany, tracked on soundcheck, with 33 sets logged across Berlin, Hamburg, Munich and Zurich. Often billed alongside Borella, Robin Dey and Chris Schwarzwälder. Next up: gART.n, Berlin on Sun 13 Sept.
+Rakäthe is a downtempo and deep house artist based in Germany, tracked on soundcheck, with 33 sets logged across Berlin, Hamburg, Munich and Zurich. Often billed alongside Borella, Robin Dey and Chris Schwarzwälder. Next up: Kauz, Zurich on Sat 19 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sun, 13 Sept 2026 | gART.n | Berlin |
 | Sat, 19 Sept 2026 | Kauz | Zurich |
 
 ## Recently played

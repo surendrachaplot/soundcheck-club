@@ -1,8 +1,8 @@
 # Eden Burns
 
-Eden Burns is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Sun, 13 Sept 2026, next at Club 77, Sydney on Sat, 19 Sept 2026.
+Eden Burns is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sun, 13 Sept 2026, next at Club 77, Sydney on Sat, 19 Sept 2026.
 
-Eden Burns is a house and tech house artist based in New Zealand, tracked on soundcheck, with 53 sets logged across Auckland, Bali, Bangkok and Barcelona and 23 more. Often billed alongside Adriana (1), DJ City and Babycino. Next up: Club 77, Sydney on Sat 19 Sept.
+Eden Burns is a house and techno artist based in New Zealand, tracked on soundcheck, with 54 sets logged across Auckland, Bali, Bangkok and Barcelona and 24 more. Often billed alongside Adriana (1), DJ City and Babycino. Next up: Club 77, Sydney on Sat 19 Sept.
 
 ## Upcoming shows
 

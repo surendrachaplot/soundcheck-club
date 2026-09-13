@@ -16,7 +16,7 @@ SQUISH 100TH PARTY→ Aurora Halal b2b Laurel Halo, Binh, re:ni at Monument SF o
 - likeholywine
 - nonsuit
 - Papa Xanny
-- re:ni
+- Reni
 - Sholim Eso
 
 *Source: [soundcheck](https://soundcheck.club/e/2365747-squish-100th-party-aurora-halal-b2b-laurel-halo-binh-re-ni-a/)*

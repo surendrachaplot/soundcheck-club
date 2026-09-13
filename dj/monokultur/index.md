@@ -1,14 +1,13 @@
 # Monokultur
 
-Monokultur is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Sun, 13 Sept 2026, next at OXI, Berlin on Sun, 13 Sept 2026.
+Monokultur is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Sun, 13 Sept 2026, next at OXI, Berlin on Sun, 20 Sept 2026.
 
-Monokultur is a house and disco artist based in Lebanon, tracked on soundcheck, with 14 sets logged across Amsterdam, Berlin, Frankfurt and Paris. Often billed alongside Pascal Fischer, Ronin (LB) and Ana Molina. Next up: OXI, Berlin on Sun 13 Sept.
+Monokultur is a house and disco artist based in Lebanon, tracked on soundcheck, with 14 sets logged across Amsterdam, Berlin, Frankfurt and Paris. Often billed alongside Pascal Fischer, Ronin (LB) and Ana Molina. Next up: OXI, Berlin on Sun 20 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sun, 13 Sept 2026 | OXI | Berlin |
 | Sun, 20 Sept 2026 | OXI | Berlin |
 
 ## Recently played

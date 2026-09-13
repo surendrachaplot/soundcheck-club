@@ -14,7 +14,7 @@ Club — Worms: Kode9, Breaka, re:ni, Shfoosja at Badaboum on Fri 18 Sept, Paris
 - Kode9
 - Mafille
 - Oreille Interne
-- re:ni
+- Reni
 - Shfoosja
 
 *Source: [soundcheck](https://soundcheck.club/e/2501990-club-worms-kode9-breaka-re-ni-shfoosja-at-badaboum/)*

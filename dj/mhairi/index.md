@@ -2,7 +2,7 @@
 
 Mha iri is a Techno and Tech House artist with 7 upcoming club dates listed on soundcheck as of Sun, 13 Sept 2026, next at TBA - Il Mercato Centrale, Sydney on Fri, 18 Sept 2026.
 
-Mha iri is a techno and tech house artist tracked on soundcheck, with 107 sets logged across Amsterdam, Athens, Barcelona and Berlin and 37 more. Often billed alongside Eli Brown, Joyhauser and Lilly Palmer. Next up: TBA - Il Mercato Centrale, Sydney on Fri 18 Sept.
+Mha iri is a techno and tech house artist tracked on soundcheck, with 108 sets logged across Amsterdam, Athens, Barcelona and Berlin and 38 more. Often billed alongside Eli Brown, Joyhauser and Lilly Palmer. Next up: TBA - Il Mercato Centrale, Sydney on Fri 18 Sept.
 
 ## Upcoming shows
 

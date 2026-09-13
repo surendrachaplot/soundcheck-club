@@ -2,7 +2,7 @@
 
 Boris Brejcha is a Techno and Minimal Techno artist with 4 upcoming club dates listed on soundcheck as of Sun, 13 Sept 2026, next at Alexandra Palace, London on Sat, 19 Sept 2026.
 
-Boris Brejcha is a techno and minimal techno artist tracked on soundcheck, with 110 sets logged across Amsterdam, Athens, Austin and Bali and 44 more. Often billed alongside Moritz Hofbauer, Deniz Bul and Ann Clue. Next up: Alexandra Palace, London on Sat 19 Sept.
+Boris Brejcha is a techno and minimal techno artist tracked on soundcheck, with 111 sets logged across Amsterdam, Athens, Austin and Bali and 45 more. Often billed alongside Moritz Hofbauer, Deniz Bul and Ann Clue. Next up: Alexandra Palace, London on Sat 19 Sept.
 
 ## Upcoming shows
 

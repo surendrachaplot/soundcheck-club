@@ -1,8 +1,8 @@
-# re:ni
+# Reni
 
-re:ni is a Techno and Bass artist with 10 upcoming club dates listed on soundcheck as of Sun, 13 Sept 2026, next at Badaboum, Paris on Fri, 18 Sept 2026.
+Reni is a Techno and Bass artist with 10 upcoming club dates listed on soundcheck as of Sun, 13 Sept 2026, next at Badaboum, Paris on Fri, 18 Sept 2026.
 
-re:ni is a techno and bass artist tracked on soundcheck, with 151 sets logged across Amsterdam, Antwerp, Bali and Bangkok and 44 more. Often billed alongside Laksa, Zenker Brothers and Skee Mask. Next up: Badaboum, Paris on Fri 18 Sept.
+Reni is a techno and bass artist tracked on soundcheck, with 151 sets logged across Amsterdam, Antwerp, Bali and Bangkok and 44 more. Often billed alongside Laksa, Zenker Brothers and Skee Mask. Next up: Badaboum, Paris on Fri 18 Sept.
 
 ## Upcoming shows
 

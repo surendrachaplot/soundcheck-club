@@ -2,7 +2,7 @@
 
 Bladee is a Experimental and Pop artist with 2 upcoming club dates listed on soundcheck as of Sun, 13 Sept 2026, next at TBA, Los Angeles on Sat, 26 Sept 2026.
 
-Bladee is an experimental and pop artist based in Sweden, tracked on soundcheck, with 3 sets logged across London, Losangeles and Turin. Often billed alongside 999999999, AANYA and Arca. Next up: TBA, Losangeles on Sat 26 Sept.
+Bladee is an experimental and pop artist based in Sweden, tracked on soundcheck, with 4 sets logged across Helsinki, London, Losangeles and Turin. Often billed alongside 999999999, AANYA and Antal. Next up: TBA, Losangeles on Sat 26 Sept.
 
 ## Upcoming shows
 
@@ -14,9 +14,10 @@ Bladee is an experimental and pop artist based in Sweden, tracked on soundcheck,
 ## Recently played
 
 - Burgess Park, London — Sat, 1 Aug 2026
+- Suvilahti Power Plant, Helsinki — Fri, 8 Aug 2025
 
 ## Shares bills with
 
-999999999, AANYA, Arca
+999999999, AANYA, Antal
 
 *Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bladee/)*

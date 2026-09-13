@@ -2,7 +2,7 @@
 
 Smerz is a Pop and Electronica artist with 4 upcoming club dates listed on soundcheck as of Sun, 13 Sept 2026, next at The Howard Theatre, Washington DC on Thu, 17 Sept 2026.
 
-Smerz is a pop and electronica artist based in Norway, tracked on soundcheck, with 43 sets logged across Austin, Berlin, Brisbane and Bristol and 25 more. Often billed alongside Valentina Magaletti, YHWH Nailgun and DjRUM. Next up: The Howard Theatre, Washingtondc on Thu 17 Sept.
+Smerz is a pop and electronica artist based in Norway, tracked on soundcheck, with 44 sets logged across Austin, Berlin, Brisbane and Bristol and 26 more. Often billed alongside Valentina Magaletti, YHWH Nailgun and DjRUM. Next up: The Howard Theatre, Washingtondc on Thu 17 Sept.
 
 ## Upcoming shows
 

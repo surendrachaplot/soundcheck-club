@@ -2,7 +2,7 @@
 
 Jennifer Loveless is a House and Techno artist with 14 upcoming club dates listed on soundcheck as of Sun, 13 Sept 2026, next at Berghain | Panorama Bar | Säule, Berlin on Sat, 12 Sept 2026.
 
-Jennifer Loveless is a house and techno artist tracked on soundcheck, with 246 sets logged across Amsterdam, Austin, Bali and Barcelona and 54 more. Often billed alongside Fafi Abdel Nour, ISAbella and BASHKKA. Next up: Berghain | Panorama Bar | Säule, Berlin on Sat 12 Sept.
+Jennifer Loveless is a house and techno artist tracked on soundcheck, with 247 sets logged across Amsterdam, Austin, Bali and Barcelona and 55 more. Often billed alongside Fafi Abdel Nour, ISAbella and BASHKKA. Next up: Berghain | Panorama Bar | Säule, Berlin on Sat 12 Sept.
 
 ## Upcoming shows
 
@@ -26,11 +26,11 @@ Jennifer Loveless is a house and techno artist tracked on soundcheck, with 246 s
 - Berghain | Panorama Bar | Säule, Berlin — Sat, 12 Sept 2026
 - fabric, London — Sat, 22 Aug 2026
 - Chinois Ibiza, Ibiza — Tue, 18 Aug 2026
+- Suvilahti Power Plant, Helsinki — Fri, 14 Aug 2026
 - RSO.BERLIN, Berlin — Thu, 13 Aug 2026
 - Blow, Buenos Aires — Sun, 9 Aug 2026
 - Armazén Solon, Sao Paulo — Sat, 8 Aug 2026
 - TBA, Sao Paulo — Sat, 8 Aug 2026
-- Amsterdamse Bos, Amsterdam — Sat, 1 Aug 2026
 
 ## Shares bills with
 

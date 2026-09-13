@@ -2,7 +2,7 @@
 
 Benji B is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 13 Sept 2026, next at KOKO, London on Sat, 26 Sept 2026.
 
-Benji B is a house and techno artist based in United Kingdom, tracked on soundcheck, with 60 sets logged across Amsterdam, Barcelona, Detroit and Ibiza and 13 more. Often billed alongside &ME, Dan Shake and Rampa. Next up: KOKO, London on Sat 26 Sept.
+Benji B is a house and techno artist based in United Kingdom, tracked on soundcheck, with 61 sets logged across Amsterdam, Barcelona, Detroit and Helsinki and 14 more. Often billed alongside &ME, Dan Shake and Rampa. Next up: KOKO, London on Sat 26 Sept.
 
 ## Upcoming shows
 
