@@ -1,8 +1,8 @@
 # E1
 
-E1 is a music venue in London with 37 upcoming nights listed on soundcheck as of Sun, 13 Sept 2026; the next is "ALIVE: southstar" on Fri, 18 Sept 2026.
+E1 is a music venue in London with 38 upcoming nights listed on soundcheck as of Sun, 13 Sept 2026; the next is "ALIVE: southstar" on Fri, 18 Sept 2026.
 
-E1 is a music venue in London listed on soundcheck. 37 upcoming nights, with line-ups including 2HOT2PLAY, 8KAYS, Paolo Ferrara and ACOR and 2 more. Browse upcoming dates, start times and who's playing. 110 Pennington Street, Wapping, London E1W 2BB.
+E1 is a music venue in London listed on soundcheck. 38 upcoming nights, with line-ups including 2HOT2PLAY, 8KAYS, Paolo Ferrara and ABEL (UK) and 2 more. Browse upcoming dates, start times and who's playing. 110 Pennington Street, Wapping, London E1W 2BB.
 
 ## What's on
 

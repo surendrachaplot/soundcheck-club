@@ -1,13 +1,14 @@
 # Maadraassoo
 
-Maadraassoo is a Pop and Electro artist with 3 upcoming club dates listed on soundcheck as of Sun, 13 Sept 2026, next at TBA - XL XtraLrge (Vlc), Valencia on Sat, 19 Sept 2026.
+Maadraassoo is a Pop and Electro artist with 4 upcoming club dates listed on soundcheck as of Sun, 13 Sept 2026, next at Play Club Valencia, Valencia on Fri, 18 Sept 2026.
 
-Maadraassoo is a pop and electro artist tracked on soundcheck, with 209 sets logged across Barcelona, Madrid, Mallorca and Valencia. Often billed alongside !!! (Chk Chk Chk), Baldman and Chica Acosta. Next up: TBA - XL XtraLrge (Vlc), Valencia on Sat 19 Sept.
+Maadraassoo is a pop and electro artist tracked on soundcheck, with 210 sets logged across Barcelona, Madrid, Mallorca and Valencia. Often billed alongside !!! (Chk Chk Chk), Baldman and Chica Acosta. Next up: Play Club Valencia, Valencia on Fri 18 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 18 Sept 2026 | Play Club Valencia | Valencia |
 | Sat, 19 Sept 2026 | TBA - XL XtraLrge (Vlc) | Valencia |
 | Fri, 2 Oct 2026 | TBA - La Pergola de La Marina (Vlc) | Valencia |
 | Sat, 3 Oct 2026 | Jamboree Dance Club | Barcelona |

@@ -1,14 +1,13 @@
 # DJ Lgcc
 
-DJ Lgcc is a Acid and Ambient artist with 3 upcoming club dates listed on soundcheck as of Sun, 13 Sept 2026, next at TBA, Chicago on Sun, 13 Sept 2026.
+DJ Lgcc is a Acid and Ambient artist with 2 upcoming club dates listed on soundcheck as of Sun, 13 Sept 2026, next at TBA, Chicago on Fri, 9 Oct 2026.
 
-DJ Lgcc is an acid and ambient artist tracked on soundcheck, with 22 sets logged across Chicago and Philadelphia. Often billed alongside m50, r.ss and IT-XPO. Next up: TBA, Chicago on Sun 13 Sept.
+DJ Lgcc is an acid and ambient artist tracked on soundcheck, with 22 sets logged across Chicago and Philadelphia. Often billed alongside m50, r.ss and IT-XPO. Next up: TBA, Chicago on Fri 9 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sun, 13 Sept 2026 | TBA | Chicago |
 | Fri, 9 Oct 2026 | TBA | Chicago |
 | Sun, 11 Oct 2026 | TBA | Chicago |
 

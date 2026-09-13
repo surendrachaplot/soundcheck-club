@@ -1,14 +1,13 @@
 # DJ DEADNAME
 
-DJ DEADNAME is a Bass and Techno artist with 3 upcoming club dates listed on soundcheck as of Sun, 13 Sept 2026, next at Camp Kennybrook, New York City on Thu, 10 Sept 2026.
+DJ DEADNAME is a Bass and Techno artist with 2 upcoming club dates listed on soundcheck as of Sun, 13 Sept 2026, next at TBA - Out ‘n’ About Treesort, Portland on Thu, 24 Sept 2026.
 
-DJ DEADNAME is a bass and techno artist tracked on soundcheck, with 99 sets logged across Boston, Chicago, Losangeles and Montreal and 4 more. Often billed alongside Eva Loveless, Male Merge and Surgery. Next up: Camp Kennybrook, Newyorkcity on Thu 10 Sept.
+DJ DEADNAME is a bass and techno artist tracked on soundcheck, with 99 sets logged across Boston, Chicago, Losangeles and Montreal and 4 more. Often billed alongside Eva Loveless, Male Merge and Surgery. Next up: TBA - Out ‘n’ About Treesort, Portland on Thu 24 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Thu, 10 Sept 2026 | Camp Kennybrook | New York City |
 | Thu, 24 Sept 2026 | TBA - Out ‘n’ About Treesort | Portland |
 | Fri, 25 Sept 2026 | TBA | New York City |
 

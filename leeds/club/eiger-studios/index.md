@@ -13,7 +13,7 @@ Eiger Studios is a music venue in Leeds listed on soundcheck. 8 upcoming nights,
 | Fri, 2 Oct 2026 | Standard Records presents: Terry Francis | Jude Lenihan, Terry Francis |
 | Sat, 10 Oct 2026 | Stick To The Slug with Ekkel & Lewis Laycock | Ekkel |
 | Fri, 16 Oct 2026 | KORP w / residents |  |
-| Fri, 23 Oct 2026 | Deep Techno Alliance 2026 |  |
+| Fri, 23 Oct 2026 | Deep Techno Alliance 2026 | Hooley, Kuroko |
 | Sat, 24 Oct 2026 | MITHA |  |
 | Sat, 14 Nov 2026 | Granville Collective - Leeds w/ Bobby | Bobby., LEN. |
 

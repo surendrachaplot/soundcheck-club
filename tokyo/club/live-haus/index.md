@@ -1,14 +1,13 @@
 # Live Haus
 
-Live Haus is a music venue in Tokyo with 6 upcoming nights listed on soundcheck as of Sun, 13 Sept 2026; the next is "Patriotictraitors" on Sat, 12 Sept 2026.
+Live Haus is a music venue in Tokyo with 5 upcoming nights listed on soundcheck as of Sun, 13 Sept 2026; the next is "monsoon" on Sun, 13 Sept 2026.
 
-Live Haus is a music venue in Tokyo listed on soundcheck. 6 upcoming nights, with line-ups including 1TA (1), 7e, EIJI and eijin and 2 more. Browse upcoming dates, start times and who's playing. 2-14-2 Kitazawa, Setagaya-ku, Tokyo, 155-0031 Japan.
+Live Haus is a music venue in Tokyo listed on soundcheck. 5 upcoming nights, with line-ups including 1TA (1), 7e, EIJI and eijin and 2 more. Browse upcoming dates, start times and who's playing. 2-14-2 Kitazawa, Setagaya-ku, Tokyo, 155-0031 Japan.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 12 Sept 2026 | Patriotictraitors |  |
 | Sun, 13 Sept 2026 | monsoon |  |
 | Mon, 21 Sept 2026 | JAZZ'N'BASS - Double Time Feel=Drum'n'Bass | EIJI, Kenta Tominaga, vinylDJ Eiji Takehana |
 | Tue, 22 Sept 2026 | Keep Hush × JUNGLE PARTY Tribal Connection | 1TA (1), 7e, FELINE (JP), HALU(Tribal Connection), Jungle Rock |

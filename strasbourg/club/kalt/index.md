@@ -1,8 +1,8 @@
 # KALT
 
-KALT is a music venue in Strasbourg with 12 upcoming nights listed on soundcheck as of Sun, 13 Sept 2026; the next is "ABJECT ACT : 6EJOU, Trudge, MORSURE , SPØRE, GARGOYL, LUDE, MEURSAULT, SEXY SAMU " on Fri, 18 Sept 2026.
+KALT is a music venue in Strasbourg with 13 upcoming nights listed on soundcheck as of Sun, 13 Sept 2026; the next is "ABJECT ACT : 6EJOU, Trudge, MORSURE , SPØRE, GARGOYL, LUDE, MEURSAULT, SEXY SAMU " on Fri, 18 Sept 2026.
 
-KALT is a music venue in Strasbourg listed on soundcheck. 12 upcoming nights, with line-ups including 6EJOU, Alarico, Alex Kassian and Alphy and 2 more. Browse upcoming dates, start times and who's playing. 1 Rue la Fayette, Strasbourg, France.
+KALT is a music venue in Strasbourg listed on soundcheck. 13 upcoming nights, with line-ups including 6EJOU, Adiel, Alarico and Alex Kassian and 2 more. Browse upcoming dates, start times and who's playing. 1 Rue la Fayette, Strasbourg, France.
 
 ## What's on
 

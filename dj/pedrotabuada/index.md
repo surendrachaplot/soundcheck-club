@@ -1,14 +1,13 @@
 # Pedro Tabuada
 
-Pedro Tabuada is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sun, 13 Sept 2026, next at P4 na Praia, Porto on Sun, 13 Sept 2026.
+Pedro Tabuada is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 13 Sept 2026, next at Era uma vez no Porto, Porto on Sat, 26 Sept 2026.
 
-Pedro Tabuada is a house and techno artist tracked on soundcheck, with 104 sets logged across Barcelona, Lisbon and Porto. Often billed alongside Bikas, Carlos Regadas and AIKKO. Next up: P4 na Praia, Porto on Sun 13 Sept.
+Pedro Tabuada is a house and techno artist tracked on soundcheck, with 104 sets logged across Barcelona, Lisbon and Porto. Often billed alongside Bikas, Carlos Regadas and AIKKO. Next up: Era uma vez no Porto, Porto on Sat 26 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sun, 13 Sept 2026 | P4 na Praia | Porto |
 | Sat, 26 Sept 2026 | Era uma vez no Porto | Porto |
 
 ## Recently played

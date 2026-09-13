@@ -1,14 +1,14 @@
 # Derrick Vnuk
 
-Derrick Vnuk is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sun, 13 Sept 2026, next at TBA - VANCOUVER, Vancouver on Sun, 13 Sept 2026.
+Derrick Vnuk is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sun, 13 Sept 2026, next at TBA - Fortress - 319 West Hastings, Vancouver on Sun, 13 Sept 2026.
 
-Derrick Vnuk is a techno and house artist tracked on soundcheck, with 10 sets logged across Vancouver. Often billed alongside Just Tess, Kevin Shiu and Kon Radd. Next up: TBA - VANCOUVER, Vancouver on Sun 13 Sept.
+Derrick Vnuk is a techno and house artist tracked on soundcheck, with 10 sets logged across Vancouver. Often billed alongside Just Tess, Kevin Shiu and Kon Radd. Next up: TBA - Fortress - 319 West Hastings, Vancouver on Sun 13 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sun, 13 Sept 2026 | TBA - VANCOUVER | Vancouver |
+| Sun, 13 Sept 2026 | TBA - Fortress - 319 West Hastings | Vancouver |
 
 ## Recently played
 

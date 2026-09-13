@@ -1,8 +1,8 @@
 # Murphy's Law
 
-Murphy's Law is a House and Tech House artist with 5 upcoming club dates listed on soundcheck as of Sun, 13 Sept 2026, next at Cova Santa, Ibiza on Sat, 19 Sept 2026.
+Murphy's Law is a House and Tech House artist with 6 upcoming club dates listed on soundcheck as of Sun, 13 Sept 2026, next at Cova Santa, Ibiza on Sat, 19 Sept 2026.
 
-Murphy's Law is a house and tech house artist tracked on soundcheck, with 71 sets logged across Auckland, Austin, Brighton and Brisbane and 21 more. Often billed alongside RUZE, Darius Syrossian and Enzo is Burning. Next up: Cova Santa, Ibiza on Sat 19 Sept.
+Murphy's Law is a house and tech house artist tracked on soundcheck, with 72 sets logged across Auckland, Austin, Brighton and Brisbane and 21 more. Often billed alongside RUZE, Darius Syrossian and David Penn. Next up: Cova Santa, Ibiza on Sat 19 Sept.
 
 ## Upcoming shows
 
@@ -13,6 +13,7 @@ Murphy's Law is a house and tech house artist tracked on soundcheck, with 71 set
 | Thu, 1 Oct 2026 | UNO MALTA | Malta |
 | Sun, 6 Dec 2026 | Felons Barrel Hall | Brisbane |
 | Fri, 11 Dec 2026 | Northcote Theatre | Melbourne |
+| Sat, 12 Dec 2026 | The Ivy | Sydney |
 
 ## Recently played
 
@@ -27,6 +28,6 @@ Murphy's Law is a house and tech house artist tracked on soundcheck, with 71 set
 
 ## Shares bills with
 
-RUZE, Darius Syrossian, Enzo is Burning
+RUZE, Darius Syrossian, David Penn
 
 *Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/murphyslaw/)*

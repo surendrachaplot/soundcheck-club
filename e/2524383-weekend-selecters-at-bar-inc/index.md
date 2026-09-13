@@ -1,6 +1,6 @@
 # WEEKEND SELECTERS at BAR Inc
 
-WEEKEND SELECTERS at BAR Inc on Sat 10 Oct, Osaka. 2 acts on the bill: LADYMONIX and Waajeed. Techno and House. Preview the line-up and save it on soundcheck.
+WEEKEND SELECTERS at BAR Inc on Sat 10 Oct, Osaka. 3 acts on the bill: DJ Compufunk, LADYMONIX and Waajeed. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ WEEKEND SELECTERS at BAR Inc on Sat 10 Oct, Osaka. 2 acts on the bill: LADYMONIX
 
 ## Line-up
 
+- DJ Compufunk
 - LADYMONIX
 - Waajeed
 

@@ -1,14 +1,15 @@
 # Rares Gherman
 
-Rares Gherman is a Minimal and House artist with 2 upcoming club dates listed on soundcheck as of Sun, 13 Sept 2026, next at Sigma, Ibiza on Wed, 16 Sept 2026.
+Rares Gherman is a Minimal and House artist with 3 upcoming club dates listed on soundcheck as of Sun, 13 Sept 2026, next at Sigma, Ibiza on Wed, 16 Sept 2026.
 
-Rares Gherman is a minimal and house artist based in Romania, tracked on soundcheck, with 23 sets logged across Amsterdam, Bucharest, Copenhagen and Ibiza. Often billed alongside styx, LerKu and PRCP. Next up: Sigma, Ibiza on Wed 16 Sept.
+Rares Gherman is a minimal and house artist based in Romania, tracked on soundcheck, with 24 sets logged across Amsterdam, Bucharest, Copenhagen and Ibiza. Often billed alongside styx, LerKu and PRCP. Next up: Sigma, Ibiza on Wed 16 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Wed, 16 Sept 2026 | Sigma | Ibiza |
+| Sat, 3 Oct 2026 | Forge | Bucharest |
 | Sat, 24 Oct 2026 | Culture Box | Copenhagen |
 
 ## Recently played

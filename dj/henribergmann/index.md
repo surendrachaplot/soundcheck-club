@@ -1,14 +1,15 @@
 # Henri Bergmann
 
-Henri Bergmann is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Sun, 13 Sept 2026, next at Maitland Showground, Sydney on Fri, 25 Sept 2026.
+Henri Bergmann is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Sun, 13 Sept 2026, next at Maitland Showground, Sydney on Fri, 25 Sept 2026.
 
-Henri Bergmann is a techno and house artist tracked on soundcheck, with 93 sets logged across Amsterdam, Athens, Barcelona and Basel and 29 more. Often billed alongside Agents Of Time, Argy and Brina Knauss. Next up: Maitland Showground, Sydney on Fri 25 Sept.
+Henri Bergmann is a techno and house artist tracked on soundcheck, with 94 sets logged across Amsterdam, Athens, Barcelona and Basel and 30 more. Often billed alongside Agents Of Time, Argy and Brina Knauss. Next up: Maitland Showground, Sydney on Fri 25 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 25 Sept 2026 | Maitland Showground | Sydney |
+| Sun, 27 Sept 2026 | The Brightside | Brisbane |
 | Sat, 3 Oct 2026 | Pasaje America | Mexico City |
 | Fri, 30 Oct 2026 | E1 | London |
 | Sat, 7 Nov 2026 | Ritter Butzke | Berlin |

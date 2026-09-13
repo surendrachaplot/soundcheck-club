@@ -1,6 +1,6 @@
 # Heat Lyon
 
-Heat Lyon is a music venue in Lyon with 1 upcoming night listed on soundcheck as of Sun, 13 Sept 2026; the next is "ONE HEALTH FREQENCIES" on Fri, 9 Oct 2026.
+Heat Lyon is a music venue in Lyon with 1 upcoming night listed on soundcheck as of Sun, 13 Sept 2026; the next is "ONE HEALTH FREQUENCIES" on Fri, 9 Oct 2026.
 
 Heat Lyon is a music venue in Lyon listed on soundcheck. 1 upcoming night. Browse upcoming dates, start times and who's playing. 70 Quai Perrache 69002 LYON.
 
@@ -8,7 +8,7 @@ Heat Lyon is a music venue in Lyon listed on soundcheck. 1 upcoming night. Brows
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 9 Oct 2026 | ONE HEALTH FREQENCIES |  |
+| Fri, 9 Oct 2026 | ONE HEALTH FREQUENCIES |  |
 
 ## Address
 

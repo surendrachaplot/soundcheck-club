@@ -1,14 +1,14 @@
 # Konifer
 
-Konifer is a House and Electro artist with 1 upcoming club date listed on soundcheck as of Sun, 13 Sept 2026, next at TBA - VANCOUVER, Vancouver on Sun, 13 Sept 2026.
+Konifer is a House and Electro artist with 1 upcoming club date listed on soundcheck as of Sun, 13 Sept 2026, next at TBA - Fortress - 319 West Hastings, Vancouver on Sun, 13 Sept 2026.
 
-Konifer is a house and electro artist tracked on soundcheck, with 8 sets logged across Losangeles, Saopaulo, Seattle and Vancouver. Often billed alongside Brune, DJ Magal and Duc in Altum. Next up: TBA - VANCOUVER, Vancouver on Sun 13 Sept.
+Konifer is a house and electro artist tracked on soundcheck, with 8 sets logged across Losangeles, Saopaulo, Seattle and Vancouver. Often billed alongside Brune, DJ Magal and Duc in Altum. Next up: TBA - Fortress - 319 West Hastings, Vancouver on Sun 13 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sun, 13 Sept 2026 | TBA - VANCOUVER | Vancouver |
+| Sun, 13 Sept 2026 | TBA - Fortress - 319 West Hastings | Vancouver |
 
 ## Recently played
 

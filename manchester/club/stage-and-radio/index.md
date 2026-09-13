@@ -1,8 +1,8 @@
 # Stage and Radio
 
-Stage and Radio is a music venue in Manchester with 24 upcoming nights listed on soundcheck as of Sun, 13 Sept 2026; the next is "BUSSDOWN presents - N-Type, Cartridge, Breakfake + more" on Fri, 18 Sept 2026.
+Stage and Radio is a music venue in Manchester with 25 upcoming nights listed on soundcheck as of Sun, 13 Sept 2026; the next is "BUSSDOWN presents - N-Type, Cartridge, Breakfake + more" on Fri, 18 Sept 2026.
 
-Stage and Radio is a music venue in Manchester listed on soundcheck. 24 upcoming nights, with line-ups including adamine, AJ Jonesy, Anah and b_d (UK) and 2 more. Browse upcoming dates, start times and who's playing. 43 Port St, Manchester M1 2EQ.
+Stage and Radio is a music venue in Manchester listed on soundcheck. 25 upcoming nights, with line-ups including adamine, AJ Jonesy, Anah and b_d (UK) and 2 more. Browse upcoming dates, start times and who's playing. 43 Port St, Manchester M1 2EQ.
 
 ## What's on
 

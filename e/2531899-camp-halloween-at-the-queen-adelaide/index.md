@@ -1,6 +1,6 @@
 # CAMP: HALLOWEEN at The Queen Adelaide
 
-CAMP: HALLOWEEN at The Queen Adelaide on Sat 31 Oct, London. 1 act on the bill: DJ-CK. Pop and Club. Preview the line-up and save it on soundcheck.
+CAMP: HALLOWEEN at The Queen Adelaide on Sat 31 Oct, London. 3 acts on the bill: DJ-CK, SCARBA and Tommy Tempo. Pop and Club. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,5 +11,7 @@ CAMP: HALLOWEEN at The Queen Adelaide on Sat 31 Oct, London. 1 act on the bill: 
 ## Line-up
 
 - DJ-CK
+- SCARBA
+- Tommy Tempo
 
 *Source: [soundcheck](https://soundcheck.club/e/2531899-camp-halloween-at-the-queen-adelaide/)*

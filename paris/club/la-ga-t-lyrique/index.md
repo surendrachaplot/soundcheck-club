@@ -1,8 +1,8 @@
 # La Gaîté Lyrique
 
-La Gaîté Lyrique is a music venue in Paris with 5 upcoming nights listed on soundcheck as of Sun, 13 Sept 2026; the next is "Wolfgang Voigt présente GAS Live" on Wed, 23 Sept 2026.
+La Gaîté Lyrique is a music venue in Paris with 6 upcoming nights listed on soundcheck as of Sun, 13 Sept 2026; the next is "Wolfgang Voigt présente GAS Live" on Wed, 23 Sept 2026.
 
-La Gaîté Lyrique is a music venue in Paris listed on soundcheck. 5 upcoming nights, with line-ups including Wolfgang Voigt. Browse upcoming dates, start times and who's playing. 3 bis rue Papin; 75003; Paris; France.
+La Gaîté Lyrique is a music venue in Paris listed on soundcheck. 6 upcoming nights, with line-ups including Actress and Wolfgang Voigt. Browse upcoming dates, start times and who's playing. 3 bis rue Papin; 75003; Paris; France.
 
 ## What's on
 
@@ -13,6 +13,7 @@ La Gaîté Lyrique is a music venue in Paris listed on soundcheck. 5 upcoming ni
 | Sat, 26 Sept 2026 | Nathan Fake (live) |  |
 | Sun, 18 Oct 2026 | Jen Cardini x MUTEK x Nightclubing |  |
 | Thu, 22 Oct 2026 | Lolo & Sosaku (Live) Festival d'Autonme |  |
+| Sat, 12 Dec 2026 | Actress Presents Radical Frame (Live A/V) | Actress |
 
 ## Address
 

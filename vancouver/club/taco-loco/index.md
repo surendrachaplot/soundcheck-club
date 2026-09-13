@@ -1,6 +1,6 @@
 # Taco Loco
 
-Taco Loco is a music venue in Vancouver with 1 upcoming night listed on soundcheck as of Sun, 13 Sept 2026; the next is "Sound For House Vol 1" on Sat, 19 Sept 2026.
+Taco Loco is a music venue in Vancouver with 1 upcoming night listed on soundcheck as of Sun, 13 Sept 2026; the next is "After Sunset 1" on Sat, 19 Sept 2026.
 
 Taco Loco is a music venue in Vancouver listed on soundcheck. 1 upcoming night. Browse upcoming dates, start times and who's playing. 1965 Cornwall Ave.
 
@@ -8,7 +8,7 @@ Taco Loco is a music venue in Vancouver listed on soundcheck. 1 upcoming night. 
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 19 Sept 2026 | Sound For House Vol 1 |  |
+| Sat, 19 Sept 2026 | After Sunset 1 |  |
 
 ## Address
 

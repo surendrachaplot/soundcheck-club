@@ -1,14 +1,13 @@
 # Le Zeralda
 
-Le Zeralda is a music venue in Paris with 4 upcoming nights listed on soundcheck as of Sun, 13 Sept 2026; the next is "Selector#8 After" on Sun, 13 Sept 2026.
+Le Zeralda is a music venue in Paris with 3 upcoming nights listed on soundcheck as of Sun, 13 Sept 2026; the next is "Ron Morelli, Lussuria, Siink, Electric Doom Synthesis" on Sun, 13 Sept 2026.
 
-Le Zeralda is a music venue in Paris listed on soundcheck. 4 upcoming nights, with line-ups including Digé m0m0, Forêt, Hajj and NZIRIA and 2 more. Browse upcoming dates, start times and who's playing. 125 avenue Gallieni, Bagnolet.
+Le Zeralda is a music venue in Paris listed on soundcheck. 3 upcoming nights, with line-ups including Hajj, NZIRIA and Ron Morelli. Browse upcoming dates, start times and who's playing. 125 avenue Gallieni, Bagnolet.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sun, 13 Sept 2026 | Selector#8 After | Digé m0m0, Forêt, RITCHRD |
 | Sun, 13 Sept 2026 | Ron Morelli, Lussuria, Siink, Electric Doom Synthesis | Ron Morelli |
 | Fri, 25 Sept 2026 | Intervision : Sarcoma, Fotocopia, Hajj, Evesdescent ... | Hajj |
 | Tue, 29 Sept 2026 | DIAVOLI in Paris - with NZIRIA, S I I N K + special guest // talk with gabritvb | NZIRIA |

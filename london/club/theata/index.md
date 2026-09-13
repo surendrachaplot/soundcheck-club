@@ -9,7 +9,7 @@ Theata is a music venue in London listed on soundcheck. 4 upcoming nights, with 
 | Date | Night | Line-up |
 | --- | --- | --- |
 | Sat, 26 Sept 2026 | XVII @ Theata LONDON ---- OMAKS - FUMI | Anela, Erica (IT), FUMI, Maugeri, OMAKS, Take1More |
-| Sat, 3 Oct 2026 | Deep Reefs presents: Raffa Guido,SHANEM,GENIE | GENIE (2), Raffa Guido |
+| Sat, 3 Oct 2026 | Raffa Guido,SHANEM,GENIE - Deep Reefs | GENIE (2), Raffa Guido |
 | Fri, 30 Oct 2026 | Blanche Halloween with Marco Carola | AOB, ESSNCE, Maqossa, Marco Carola, TOMMY GILARDONI |
 | Sat, 28 Nov 2026 | House of LUKAS & FRANK live in London | LUKAS & FRANK |
 

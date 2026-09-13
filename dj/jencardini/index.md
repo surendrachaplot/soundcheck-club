@@ -1,8 +1,8 @@
 # Jen Cardini
 
-Jen Cardini is a Techno and House artist with 7 upcoming club dates listed on soundcheck as of Sun, 13 Sept 2026, next at YuYu Cine Club, Mexico City on Sat, 19 Sept 2026.
+Jen Cardini is a Techno and House artist with 8 upcoming club dates listed on soundcheck as of Sun, 13 Sept 2026, next at YuYu Cine Club, Mexico City on Sat, 19 Sept 2026.
 
-Jen Cardini is a techno and house artist tracked on soundcheck, with 251 sets logged across Amsterdam, Antwerp, Athens and Auckland and 57 more. Often billed alongside Pablo Bozzi, BASHKKA and KI/KI. Next up: YuYu Cine Club, Mexicocity on Sat 19 Sept.
+Jen Cardini is a techno and house artist tracked on soundcheck, with 252 sets logged across Amsterdam, Antwerp, Athens and Auckland and 57 more. Often billed alongside Pablo Bozzi, BASHKKA and KI/KI. Next up: YuYu Cine Club, Mexicocity on Sat 19 Sept.
 
 ## Upcoming shows
 
@@ -15,6 +15,7 @@ Jen Cardini is a techno and house artist tracked on soundcheck, with 251 sets lo
 | Thu, 22 Oct 2026 | Klaproos | Amsterdam |
 | Sat, 24 Oct 2026 | Havenpark | Amsterdam |
 | Sat, 24 Oct 2026 | Havenpark | Amsterdam |
+| Sat, 12 Dec 2026 | Plano B | Porto |
 
 ## Recently played
 

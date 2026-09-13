@@ -1,8 +1,8 @@
 # Colyn
 
-Colyn is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Sun, 13 Sept 2026, next at [UNVRS], Ibiza on Tue, 15 Sept 2026.
+Colyn is a Techno and House artist with 7 upcoming club dates listed on soundcheck as of Sun, 13 Sept 2026, next at [UNVRS], Ibiza on Tue, 15 Sept 2026.
 
-Colyn is a techno and house artist tracked on soundcheck, with 160 sets logged across Amsterdam, Antwerp, Athens and Austin and 39 more. Often billed alongside Adriatique, Innellea and CamelPhat. Next up: [UNVRS], Ibiza on Tue 15 Sept.
+Colyn is a techno and house artist tracked on soundcheck, with 161 sets logged across Amsterdam, Antwerp, Athens and Austin and 39 more. Often billed alongside Adriatique, Innellea and CamelPhat. Next up: [UNVRS], Ibiza on Tue 15 Sept.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Colyn is a techno and house artist tracked on soundcheck, with 160 sets logged a
 | --- | --- | --- |
 | Tue, 15 Sept 2026 | [UNVRS] | Ibiza |
 | Wed, 23 Sept 2026 | INPUT High Fidelity Dance Club | Barcelona |
+| Sat, 26 Sept 2026 | Fitz Mallorca | Mallorca |
 | Fri, 9 Oct 2026 | Zumana Bali | Bali |
 | Sun, 11 Oct 2026 | Savaya Bali | Bali |
 | Sat, 24 Oct 2026 | Mediahaven - Minervahaven | Amsterdam |

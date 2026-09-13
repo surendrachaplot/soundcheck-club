@@ -1,13 +1,14 @@
 # BLACK(JP)
 
-BLACK(JP) is a Techno and Industrial artist with 2 upcoming club dates listed on soundcheck as of Sun, 13 Sept 2026, next at T2 Shinjuku, Tokyo on Sun, 27 Sept 2026.
+BLACK(JP) is a Techno and Industrial artist with 3 upcoming club dates listed on soundcheck as of Sun, 13 Sept 2026, next at clubasia, Tokyo on Fri, 25 Sept 2026.
 
-BLACK(JP) is a techno and industrial artist based in Japan, tracked on soundcheck, with 11 sets logged across Berlin, Osaka, Seoul and Tokyo. Often billed alongside SWAGGER, NIKI (JP) and MARU (3). Next up: T2 Shinjuku, Tokyo on Sun 27 Sept.
+BLACK(JP) is a techno and industrial artist based in Japan, tracked on soundcheck, with 12 sets logged across Berlin, Osaka, Seoul and Tokyo. Often billed alongside SWAGGER, NIKI (JP) and MARU (3). Next up: clubasia, Tokyo on Fri 25 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 25 Sept 2026 | clubasia | Tokyo |
 | Sun, 27 Sept 2026 | T2 Shinjuku | Tokyo |
 | Fri, 16 Oct 2026 | OST | Berlin |
 

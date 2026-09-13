@@ -1,14 +1,13 @@
 # Powder
 
-Powder is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Sun, 13 Sept 2026, next at Camp Kennybrook, New York City on Thu, 10 Sept 2026.
+Powder is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sun, 13 Sept 2026, next at Nowadays, New York City on Fri, 18 Sept 2026.
 
-Powder is a house and techno artist tracked on soundcheck, with 62 sets logged across Amsterdam, Bangkok, Berlin and Boston and 22 more. Often billed alongside 5ive, KOOLMFL and Mala. Next up: Camp Kennybrook, Newyorkcity on Thu 10 Sept.
+Powder is a house and techno artist tracked on soundcheck, with 62 sets logged across Amsterdam, Bangkok, Berlin and Boston and 22 more. Often billed alongside 5ive, KOOLMFL and Mala. Next up: Nowadays, Newyorkcity on Fri 18 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Thu, 10 Sept 2026 | Camp Kennybrook | New York City |
 | Fri, 18 Sept 2026 | Nowadays | New York City |
 | Sun, 20 Sept 2026 | Warehouse on Watts | Philadelphia |
 

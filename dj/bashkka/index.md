@@ -1,14 +1,13 @@
 # BASHKKA
 
-BASHKKA is a Techno and House artist with 13 upcoming club dates listed on soundcheck as of Sun, 13 Sept 2026, next at Camp Kennybrook, New York City on Thu, 10 Sept 2026.
+BASHKKA is a Techno and House artist with 12 upcoming club dates listed on soundcheck as of Sun, 13 Sept 2026, next at Fort Mifflin, Philadelphia on Fri, 18 Sept 2026.
 
-BASHKKA is a techno and house artist tracked on soundcheck, with 304 sets logged across Amsterdam, Antwerp, Athens and Bali and 57 more. Often billed alongside Sedef Adasï, Gabrielle Kwarteng and Ogazón. Next up: Camp Kennybrook, Newyorkcity on Thu 10 Sept.
+BASHKKA is a techno and house artist tracked on soundcheck, with 304 sets logged across Amsterdam, Antwerp, Athens and Bali and 57 more. Often billed alongside Sedef Adasï, Gabrielle Kwarteng and Ogazón. Next up: Fort Mifflin, Philadelphia on Fri 18 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Thu, 10 Sept 2026 | Camp Kennybrook | New York City |
 | Fri, 18 Sept 2026 | Fort Mifflin | Philadelphia |
 | Sun, 20 Sept 2026 | Flash | Washington DC |
 | Fri, 25 Sept 2026 | Azimut Club | Turin |
@@ -20,6 +19,7 @@ BASHKKA is a techno and house artist tracked on soundcheck, with 304 sets logged
 | Fri, 23 Oct 2026 | CLUB RAUM | Amsterdam |
 | Fri, 23 Oct 2026 | Klaproos | Amsterdam |
 | Sun, 25 Oct 2026 | Bajes Amsterdam | Amsterdam |
+| Sat, 28 Nov 2026 | Collingwood Children's Farm | Melbourne |
 
 ## Recently played
 

@@ -1,8 +1,8 @@
 # Insomnia
 
-Insomnia is a music venue in Berlin with 21 upcoming nights listed on soundcheck as of Sun, 13 Sept 2026; the next is "FETIXX - The new fetish experience" on Sun, 13 Sept 2026.
+Insomnia is a music venue in Berlin with 22 upcoming nights listed on soundcheck as of Sun, 13 Sept 2026; the next is "FETIXX - The new fetish experience" on Sun, 13 Sept 2026.
 
-Insomnia is a music venue in Berlin listed on soundcheck. 21 upcoming nights, with line-ups including ANAMORPH_, BOOTHBUNNY, djst4rlight and ELEETE and 2 more. Browse upcoming dates, start times and who's playing. Alt-Tempelhof 17-19, 12099 Berlin.
+Insomnia is a music venue in Berlin listed on soundcheck. 22 upcoming nights, with line-ups including ANAMORPH_, BOOTHBUNNY, djst4rlight and ELEETE and 2 more. Browse upcoming dates, start times and who's playing. Alt-Tempelhof 17-19, 12099 Berlin.
 
 ## What's on
 

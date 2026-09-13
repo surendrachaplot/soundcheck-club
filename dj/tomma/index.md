@@ -1,14 +1,13 @@
 # Tomma
 
-Tomma is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sun, 13 Sept 2026, next at KHIDI, Tbilisi on Sat, 12 Sept 2026.
+Tomma is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 13 Sept 2026, next at Loco Park, Tbilisi on Fri, 2 Oct 2026.
 
-Tomma is a house and techno artist tracked on soundcheck, with 69 sets logged across Berlin and Tbilisi. Often billed alongside Gio Shengelia, Bekuchi and SUMO. Next up: KHIDI, Tbilisi on Sat 12 Sept.
+Tomma is a house and techno artist tracked on soundcheck, with 69 sets logged across Berlin and Tbilisi. Often billed alongside Gio Shengelia, Bekuchi and SUMO. Next up: Loco Park, Tbilisi on Fri 2 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 12 Sept 2026 | KHIDI | Tbilisi |
 | Fri, 2 Oct 2026 | Loco Park | Tbilisi |
 
 ## Recently played

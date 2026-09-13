@@ -1,14 +1,13 @@
 # Thomas Stieler
 
-Thomas Stieler is a House and Minimal artist with 6 upcoming club dates listed on soundcheck as of Sun, 13 Sept 2026, next at Xolo, Munich on Sun, 13 Sept 2026.
+Thomas Stieler is a House and Minimal artist with 5 upcoming club dates listed on soundcheck as of Sun, 13 Sept 2026, next at Pimpernel, Munich on Mon, 14 Sept 2026.
 
-Thomas Stieler is a house and minimal artist tracked on soundcheck, with 230 sets logged across Amsterdam, Berlin, Budapest and Cologne and 6 more. Often billed alongside Submod, Elli Altenberger and Phil2. Next up: Xolo, Munich on Sun 13 Sept.
+Thomas Stieler is a house and minimal artist tracked on soundcheck, with 230 sets logged across Amsterdam, Berlin, Budapest and Cologne and 6 more. Often billed alongside Submod, Elli Altenberger and Phil2. Next up: Pimpernel, Munich on Mon 14 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sun, 13 Sept 2026 | Xolo | Munich |
 | Mon, 14 Sept 2026 | Pimpernel | Munich |
 | Mon, 21 Sept 2026 | Pimpernel | Munich |
 | Mon, 28 Sept 2026 | Pimpernel | Munich |

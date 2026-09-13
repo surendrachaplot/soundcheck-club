@@ -1,14 +1,13 @@
 # Eden Aurelius
 
-Eden Aurelius is a Ambient and Techno artist with 3 upcoming club dates listed on soundcheck as of Sun, 13 Sept 2026, next at Camp Kennybrook, New York City on Thu, 10 Sept 2026.
+Eden Aurelius is a Ambient and Techno artist with 2 upcoming club dates listed on soundcheck as of Sun, 13 Sept 2026, next at public records, New York City on Mon, 9 Nov 2026.
 
-Eden Aurelius is an ambient and techno artist based in United States of America, tracked on soundcheck, with 42 sets logged across Chicago, Lisbon, Newyorkcity and Philadelphia. Often billed alongside Marihito, 320 (1) and Doula. Next up: Camp Kennybrook, Newyorkcity on Thu 10 Sept.
+Eden Aurelius is an ambient and techno artist based in United States of America, tracked on soundcheck, with 42 sets logged across Chicago, Lisbon, Newyorkcity and Philadelphia. Often billed alongside Marihito, 320 (1) and Doula. Next up: public records, Newyorkcity on Mon 9 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Thu, 10 Sept 2026 | Camp Kennybrook | New York City |
 | Mon, 9 Nov 2026 | public records | New York City |
 | Sat, 14 Nov 2026 | public records | New York City |
 

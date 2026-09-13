@@ -1,13 +1,14 @@
 # Jyn (1)
 
-Jyn (1) is a Bass and Electronica artist with 1 upcoming club date listed on soundcheck as of Sun, 13 Sept 2026, next at West Harlem, Kyoto on Sat, 3 Oct 2026.
+Jyn (1) is a Bass and Techno artist with 2 upcoming club dates listed on soundcheck as of Sun, 13 Sept 2026, next at BAR Inc, Osaka on Fri, 2 Oct 2026.
 
-Jyn (1) is a bass and electronica artist tracked on soundcheck, with 4 sets logged across Kyoto, London and Tokyo. Often billed alongside NTsKi, Daigos and Taigen Kawabe. Next up: West Harlem, Kyoto on Sat 3 Oct.
+Jyn (1) is a bass and techno artist tracked on soundcheck, with 5 sets logged across Kyoto, London, Osaka and Tokyo. Often billed alongside NTsKi, Taigen Kawabe and Daigos. Next up: BAR Inc, Osaka on Fri 2 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 2 Oct 2026 | BAR Inc | Osaka |
 | Sat, 3 Oct 2026 | West Harlem | Kyoto |
 
 ## Recently played
@@ -18,6 +19,6 @@ Jyn (1) is a bass and electronica artist tracked on soundcheck, with 4 sets logg
 
 ## Shares bills with
 
-NTsKi, Daigos, Taigen Kawabe
+NTsKi, Taigen Kawabe, Daigos
 
 *Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jyn-1/)*

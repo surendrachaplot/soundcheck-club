@@ -1,13 +1,14 @@
 # Atno
 
-Atno is a music venue in Budapest with 4 upcoming nights listed on soundcheck as of Sun, 13 Sept 2026; the next is "co-motion 1.0" on Fri, 25 Sept 2026.
+Atno is a music venue in Budapest with 5 upcoming nights listed on soundcheck as of Sun, 13 Sept 2026; the next is "Acid Studies - Club Edition vol.1" on Fri, 18 Sept 2026.
 
-Atno is a music venue in Budapest listed on soundcheck. 4 upcoming nights, with line-ups including BLZS, Captain Knuckles, Den (4) and IPAR and 2 more. Browse upcoming dates, start times and who's playing. 1044, Zsilip utca 17..
+Atno is a music venue in Budapest listed on soundcheck. 5 upcoming nights, with line-ups including BLZS, Captain Knuckles, Den (4) and DJ Crimson and 2 more. Browse upcoming dates, start times and who's playing. 1044, Zsilip utca 17..
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
+| Fri, 18 Sept 2026 | Acid Studies - Club Edition vol.1 | DJ Crimson, Galactic Jackson, Gingershot |
 | Fri, 25 Sept 2026 | co-motion 1.0 | Den (4), Lost in Details, Peter Bernath, Robert Dobak, Toro Lomo |
 | Fri, 2 Oct 2026 | Quasar II: Hubble Into The Void | BLZS, IPAR, Kozma, Mython, Rovizz, SABBER |
 | Sat, 10 Oct 2026 | Sticks and Stones with Anders Navigare Kalumet Glook | Kalumet |

@@ -1,6 +1,6 @@
 # Point of No Return at Avalon Cafe Bermondsey
 
-Point of No Return at Avalon Cafe Bermondsey on Sat 31 Oct, London. Techno. Preview the line-up and save it on soundcheck.
+Point of No Return at Avalon Cafe Bermondsey on Sat 31 Oct, London. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

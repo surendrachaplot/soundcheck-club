@@ -1,8 +1,8 @@
 # Alexander Koning
 
-Alexander Koning is a Acid and Techno artist with 4 upcoming club dates listed on soundcheck as of Sun, 13 Sept 2026, next at Paal69, Amsterdam on Sat, 26 Sept 2026.
+Alexander Koning is a Acid and House artist with 5 upcoming club dates listed on soundcheck as of Sun, 13 Sept 2026, next at Paal69, Amsterdam on Sat, 26 Sept 2026.
 
-Alexander Koning is an acid and techno artist based in Netherlands, tracked on soundcheck, with 58 sets logged across Amsterdam, Ghent, Rotterdam and Utrecht. Often billed alongside Lucien Foort, Erick E and Remy Unger. Next up: Paal69, Amsterdam on Sat 26 Sept.
+Alexander Koning is an acid and house artist based in Netherlands, tracked on soundcheck, with 59 sets logged across Amsterdam, Ghent, Rotterdam and Utrecht. Often billed alongside Erick E, Lucien Foort and Remy Unger. Next up: Paal69, Amsterdam on Sat 26 Sept.
 
 ## Upcoming shows
 
@@ -12,6 +12,7 @@ Alexander Koning is an acid and techno artist based in Netherlands, tracked on s
 | Sat, 3 Oct 2026 | Maassilo | Rotterdam |
 | Fri, 9 Oct 2026 | Patronaat | Amsterdam |
 | Sat, 7 Nov 2026 | Thuishaven | Amsterdam |
+| Sat, 12 Dec 2026 | Thuishaven | Amsterdam |
 
 ## Recently played
 
@@ -26,6 +27,6 @@ Alexander Koning is an acid and techno artist based in Netherlands, tracked on s
 
 ## Shares bills with
 
-Lucien Foort, Erick E, Remy Unger
+Erick E, Lucien Foort, Remy Unger
 
 *Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/alexanderkoning/)*

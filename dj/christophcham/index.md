@@ -1,14 +1,16 @@
 # Christoph Cham
 
-Christoph Cham is a Techno and Deep House artist with 1 upcoming club date listed on soundcheck as of Sun, 13 Sept 2026, next at Noorderlicht Café, Amsterdam on Sat, 26 Sept 2026.
+Christoph Cham is a Techno and Deep House artist with 3 upcoming club dates listed on soundcheck as of Sun, 13 Sept 2026, next at Noorderlicht Café, Amsterdam on Sat, 26 Sept 2026.
 
-Christoph Cham is a techno and deep house artist based in United States of America, tracked on soundcheck, with 8 sets logged across Amsterdam and Utrecht. Often billed alongside LGNA, ilse dorine and VITTAO. Next up: Noorderlicht Café, Amsterdam on Sat 26 Sept.
+Christoph Cham is a techno and deep house artist based in United States of America, tracked on soundcheck, with 10 sets logged across Amsterdam, London and Utrecht. Often billed alongside VITTAO, LGNA and ilse dorine. Next up: Noorderlicht Café, Amsterdam on Sat 26 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 26 Sept 2026 | Noorderlicht Café | Amsterdam |
+| Fri, 2 Oct 2026 | Dear Darling | London |
+| Fri, 2 Oct 2026 | Dear Darling | London |
 
 ## Recently played
 
@@ -22,6 +24,6 @@ Christoph Cham is a techno and deep house artist based in United States of Ameri
 
 ## Shares bills with
 
-LGNA, ilse dorine, VITTAO
+VITTAO, LGNA, ilse dorine
 
 *Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/christophcham/)*

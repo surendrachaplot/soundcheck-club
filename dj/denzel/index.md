@@ -1,14 +1,13 @@
 # Denzel
 
-Denzel is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Sun, 13 Sept 2026, next at Camp Kennybrook, New York City on Thu, 10 Sept 2026.
+Denzel is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sun, 13 Sept 2026, next at Signal, New York City on Fri, 18 Sept 2026.
 
-Denzel is a techno and house artist based in Finland, tracked on soundcheck, with 30 sets logged across Amsterdam, Berlin, Bristol and London and 7 more. Often billed alongside Joni DJ, Nikolajev and CCL. Next up: Camp Kennybrook, Newyorkcity on Thu 10 Sept.
+Denzel is a techno and house artist based in Finland, tracked on soundcheck, with 30 sets logged across Amsterdam, Berlin, Bristol and London and 7 more. Often billed alongside Joni DJ, Nikolajev and CCL. Next up: Signal, Newyorkcity on Fri 18 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Thu, 10 Sept 2026 | Camp Kennybrook | New York City |
 | Fri, 18 Sept 2026 | Signal | New York City |
 | Fri, 9 Oct 2026 | Sameheads | Berlin |
 

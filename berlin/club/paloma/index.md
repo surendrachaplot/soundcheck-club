@@ -1,8 +1,8 @@
 # Paloma
 
-Paloma is a music venue in Berlin with 25 upcoming nights listed on soundcheck as of Sun, 13 Sept 2026; the next is "TOKKI" on Sun, 13 Sept 2026.
+Paloma is a music venue in Berlin with 26 upcoming nights listed on soundcheck as of Sun, 13 Sept 2026; the next is "TOKKI" on Sun, 13 Sept 2026.
 
-Paloma is a music venue in Berlin listed on soundcheck. 25 upcoming nights, with line-ups including AAguilAA, adodo, Aidan and Aimé You and 2 more. Browse upcoming dates, start times and who's playing. Skalitzer Str. 135, 10999 Berlin.
+Paloma is a music venue in Berlin listed on soundcheck. 26 upcoming nights, with line-ups including AAguilAA, adodo, Aidan and Aimé You and 2 more. Browse upcoming dates, start times and who's playing. Skalitzer Str. 135, 10999 Berlin.
 
 ## What's on
 

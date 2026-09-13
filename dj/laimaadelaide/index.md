@@ -1,8 +1,8 @@
 # Laima Adelaide
 
-Laima Adelaide is a Techno and Minimal Techno artist with 2 upcoming club dates listed on soundcheck as of Sun, 13 Sept 2026, next at Paradiso, Amsterdam on Fri, 18 Sept 2026.
+Laima Adelaide is a Techno and Minimal Techno artist with 3 upcoming club dates listed on soundcheck as of Sun, 13 Sept 2026, next at Paradiso, Amsterdam on Fri, 18 Sept 2026.
 
-Laima Adelaide is a techno and minimal techno artist based in Germany, tracked on soundcheck, with 32 sets logged across Amsterdam, Barcelona, Berlin and Bristol and 12 more. Often billed alongside Nils Edte, Woody92 and Aa Sudd. Next up: Paradiso, Amsterdam on Fri 18 Sept.
+Laima Adelaide is a techno and minimal techno artist based in Germany, tracked on soundcheck, with 33 sets logged across Amsterdam, Barcelona, Berlin and Bristol and 13 more. Often billed alongside Nils Edte, Woody92 and Aa Sudd. Next up: Paradiso, Amsterdam on Fri 18 Sept.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Laima Adelaide is a techno and minimal techno artist based in Germany, tracked o
 | --- | --- | --- |
 | Fri, 18 Sept 2026 | Paradiso | Amsterdam |
 | Sat, 19 Sept 2026 | Wagenhallen | Stuttgart |
+| Sat, 3 Oct 2026 | Distillery | Leipzig |
 
 ## Recently played
 

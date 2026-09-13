@@ -1,8 +1,8 @@
 # Sunga
 
-Sunga is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sun, 13 Sept 2026, next at Z Maruyama, Tokyo on Fri, 2 Oct 2026.
+Sunga is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Sun, 13 Sept 2026, next at Z Maruyama, Tokyo on Fri, 2 Oct 2026.
 
-Sunga is a house and techno artist based in Japan, tracked on soundcheck, with 107 sets logged across Bangkok, Osaka and Tokyo. Often billed alongside Mamazu, YO.AN and DJ Kensei. Next up: Z Maruyama, Tokyo on Fri 2 Oct.
+Sunga is a house and techno artist based in Japan, tracked on soundcheck, with 108 sets logged across Bangkok, Osaka and Tokyo. Often billed alongside Mamazu, YO.AN and DJ Kensei. Next up: Z Maruyama, Tokyo on Fri 2 Oct.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Sunga is a house and techno artist based in Japan, tracked on soundcheck, with 1
 | --- | --- | --- |
 | Fri, 2 Oct 2026 | Z Maruyama | Tokyo |
 | Sun, 4 Oct 2026 | or | Tokyo |
+| Sun, 4 Oct 2026 | SOBER | Tokyo |
 
 ## Recently played
 

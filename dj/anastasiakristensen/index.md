@@ -1,14 +1,13 @@
 # Anastasia Kristensen
 
-Anastasia Kristensen is a Techno and Trance artist with 3 upcoming club dates listed on soundcheck as of Sun, 13 Sept 2026, next at Pylonen - Frizonen Langebro, Copenhagen on Sun, 13 Sept 2026.
+Anastasia Kristensen is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Sun, 13 Sept 2026, next at Den Anden Side, Copenhagen on Fri, 16 Oct 2026.
 
-Anastasia Kristensen is a techno and trance artist tracked on soundcheck, with 103 sets logged across Amsterdam, Bali, Barcelona and Berlin and 31 more. Often billed alongside Elise Massoni, Sham (DK) and Ctrls. Next up: Pylonen - Frizonen Langebro, Copenhagen on Sun 13 Sept.
+Anastasia Kristensen is a techno and trance artist tracked on soundcheck, with 103 sets logged across Amsterdam, Bali, Barcelona and Berlin and 31 more. Often billed alongside Elise Massoni, Sham (DK) and Ctrls. Next up: Den Anden Side, Copenhagen on Fri 16 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sun, 13 Sept 2026 | Pylonen - Frizonen Langebro | Copenhagen |
 | Fri, 16 Oct 2026 | Den Anden Side | Copenhagen |
 | Fri, 23 Oct 2026 | public records | New York City |
 

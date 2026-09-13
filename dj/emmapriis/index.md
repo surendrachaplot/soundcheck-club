@@ -1,14 +1,13 @@
 # Emma Priis
 
-Emma Priis is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sun, 13 Sept 2026, next at Pylonen - Frizonen Langebro, Copenhagen on Sun, 13 Sept 2026.
+Emma Priis is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sun, 13 Sept 2026, next at MODULE, Copenhagen on Fri, 18 Sept 2026.
 
-Emma Priis is a techno and house artist based in Denmark, tracked on soundcheck, with 8 sets logged across Copenhagen. Often billed alongside Entree, FA999 and Anastasia Kristensen. Next up: Pylonen - Frizonen Langebro, Copenhagen on Sun 13 Sept.
+Emma Priis is a techno and house artist based in Denmark, tracked on soundcheck, with 8 sets logged across Copenhagen. Often billed alongside Entree, FA999 and Anastasia Kristensen. Next up: MODULE, Copenhagen on Fri 18 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sun, 13 Sept 2026 | Pylonen - Frizonen Langebro | Copenhagen |
 | Fri, 18 Sept 2026 | MODULE | Copenhagen |
 
 ## Recently played

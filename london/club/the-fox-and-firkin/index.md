@@ -1,8 +1,8 @@
 # The Fox and Firkin
 
-The Fox and Firkin is a music venue in London with 23 upcoming nights listed on soundcheck as of Sun, 13 Sept 2026; the next is "Todd Terry" on Fri, 18 Sept 2026.
+The Fox and Firkin is a music venue in London with 24 upcoming nights listed on soundcheck as of Sun, 13 Sept 2026; the next is "Todd Terry" on Fri, 18 Sept 2026.
 
-The Fox and Firkin is a music venue in London listed on soundcheck. 23 upcoming nights, with line-ups including 808 State, Breaka, Case (2) and Charlie Bones and 2 more. Browse upcoming dates, start times and who's playing. 316 Lewisham High Street London SE136JZ.
+The Fox and Firkin is a music venue in London listed on soundcheck. 24 upcoming nights, with line-ups including 808 State, Breaka, Case (2) and Charlie Bones and 2 more. Browse upcoming dates, start times and who's playing. 316 Lewisham High Street London SE136JZ.
 
 ## What's on
 

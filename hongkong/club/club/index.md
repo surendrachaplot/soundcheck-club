@@ -1,8 +1,8 @@
 # 宀 Club
 
-宀 Club is a music venue in Hong Kong with 18 upcoming nights listed on soundcheck as of Sun, 13 Sept 2026; the next is "Entropy 熵 with Mogano (Arboretum, Berlin) + Marco Yu (TRI) + Nanogram (Entropy 熵)" on Fri, 18 Sept 2026.
+宀 Club is a music venue in Hong Kong with 19 upcoming nights listed on soundcheck as of Sun, 13 Sept 2026; the next is "Entropy 熵 with Mogano (Arboretum, Berlin) + Marco Yu (TRI) + Nanogram (Entropy 熵)" on Fri, 18 Sept 2026.
 
-宀 Club is a music venue in Hongkong listed on soundcheck. 18 upcoming nights, with line-ups including 69DB, Andy-S, Carl H and CVLT and 2 more. Browse upcoming dates, start times and who's playing. 4F, 279 Des Voeux Road Central, Sheung Wan, Hong Kong.
+宀 Club is a music venue in Hongkong listed on soundcheck. 19 upcoming nights, with line-ups including 69DB, Andy-S, Carl H and CVLT and 2 more. Browse upcoming dates, start times and who's playing. 4F, 279 Des Voeux Road Central, Sheung Wan, Hong Kong.
 
 ## What's on
 

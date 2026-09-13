@@ -1,8 +1,8 @@
 # TBA - Secret Location
 
-TBA - Secret Location is a music venue in London with 49 upcoming nights listed on soundcheck as of Sun, 13 Sept 2026; the next is "Hyphen x Radiant Reciprocity [Secret Location]" on Sun, 13 Sept 2026.
+TBA - Secret Location is a music venue in London with 53 upcoming nights listed on soundcheck as of Sun, 13 Sept 2026; the next is "Hyphen x Radiant Reciprocity [Secret Location]" on Sun, 13 Sept 2026.
 
-TBA - Secret Location is a music venue in London listed on soundcheck. 49 upcoming nights, with line-ups including .cosm, 7038634357, DJ JUANNY and Annina and 2 more. Browse upcoming dates, start times and who's playing.
+TBA - Secret Location is a music venue in London listed on soundcheck. 53 upcoming nights, with line-ups including .cosm, 7038634357, DJ JUANNY and Annina and 2 more. Browse upcoming dates, start times and who's playing.
 
 ## What's on
 

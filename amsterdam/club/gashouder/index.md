@@ -16,7 +16,7 @@ GASHOUDER is a music venue in Amsterdam listed on soundcheck. 13 upcoming nights
 | Fri, 23 Oct 2026 | GASHOUDER presents: Job Jobse [Sold Out] | BASHKKA, Job Jobse, Ryan Elliott |
 | Fri, 23 Oct 2026 | GASHOUDER presents: Mochakk CALLING | ISAbella, Juliana X, MPH (1), Mochakk, Solarce Brothers |
 | Sat, 24 Oct 2026 | GASHOUDER presents: Flow by Franky Rizardo [Sold Out] | AAT (NL), Cloonee, Easttown, Franky Rizardo, Grace Arribas, Mason Collective |
-| Sat, 24 Oct 2026 | GASHOUDER presents: Sammy Virji Curates | RIRIA, Rossi, SAIDAH, Sam Alfred, Sammy Virji |
+| Sat, 24 Oct 2026 | GASHOUDER presents: Sammy Virji Curates [Sold Out] | RIRIA, Rossi, SAIDAH, Sam Alfred, Sammy Virji |
 | Sun, 25 Oct 2026 | GASHOUDER presents: Josh Baker [Sold Out] | Alexandria, Josh Baker, Marie Montexier, Marsolo |
 
 ## Address

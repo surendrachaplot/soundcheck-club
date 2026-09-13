@@ -1,14 +1,13 @@
 # Andy Martin
 
-Andy Martin is a Techno and House artist with 10 upcoming club dates listed on soundcheck as of Sun, 13 Sept 2026, next at Camp Kennybrook, New York City on Thu, 10 Sept 2026.
+Andy Martin is a Techno and House artist with 9 upcoming club dates listed on soundcheck as of Sun, 13 Sept 2026, next at Process PDX, Portland on Fri, 18 Sept 2026.
 
-Andy Martin is a techno and house artist tracked on soundcheck, with 71 sets logged across Amsterdam, Athens, Barcelona and Berlin and 25 more. Often billed alongside Niño Arbol, Blasha & Allatt and DJ MARIA.. Next up: Camp Kennybrook, Newyorkcity on Thu 10 Sept.
+Andy Martin is a techno and house artist tracked on soundcheck, with 71 sets logged across Amsterdam, Athens, Barcelona and Berlin and 25 more. Often billed alongside Niño Arbol, Blasha & Allatt and DJ MARIA.. Next up: Process PDX, Portland on Fri 18 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Thu, 10 Sept 2026 | Camp Kennybrook | New York City |
 | Fri, 18 Sept 2026 | Process PDX | Portland |
 | Sat, 19 Sept 2026 | TBA - Downtown | Los Angeles |
 | Sun, 20 Sept 2026 | TBA | Montreal |

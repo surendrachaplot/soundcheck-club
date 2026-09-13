@@ -1,14 +1,13 @@
 # Cezaire
 
-Cezaire is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Sun, 13 Sept 2026, next at Piknic Électronik / Parc Jean Drapeau, Montreal on Sun, 13 Sept 2026.
+Cezaire is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Sun, 13 Sept 2026, next at Tigres de la Noche, Washington DC on Fri, 18 Sept 2026.
 
-Cezaire is a house and disco artist tracked on soundcheck, with 47 sets logged across Amsterdam, Austin, Barcelona and Brussels and 13 more. Often billed alongside Darius (FR), Kartell and Didi Han. Next up: Piknic Électronik / Parc Jean Drapeau, Montreal on Sun 13 Sept.
+Cezaire is a house and disco artist tracked on soundcheck, with 47 sets logged across Amsterdam, Austin, Barcelona and Brussels and 13 more. Often billed alongside Darius (FR), Kartell and Didi Han. Next up: Tigres de la Noche, Washingtondc on Fri 18 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sun, 13 Sept 2026 | Piknic Électronik / Parc Jean Drapeau | Montreal |
 | Fri, 18 Sept 2026 | Tigres de la Noche | Washington DC |
 
 ## Recently played

@@ -1,14 +1,13 @@
 # Skin On Skin
 
-Skin On Skin is a Techno and House artist with 17 upcoming club dates listed on soundcheck as of Sun, 13 Sept 2026, next at Club Space Miami, Miami on Fri, 11 Sept 2026.
+Skin On Skin is a Techno and House artist with 16 upcoming club dates listed on soundcheck as of Sun, 13 Sept 2026, next at TBA, Washington DC on Sat, 12 Sept 2026.
 
-Skin On Skin is a techno and house artist tracked on soundcheck, with 142 sets logged across Aberdeen, Amsterdam, Antwerp and Auckland and 52 more. Often billed alongside Mall Grab, KETTAMA and DJ Gigola. Next up: Club Space Miami, Miami on Fri 11 Sept.
+Skin On Skin is a techno and house artist tracked on soundcheck, with 142 sets logged across Aberdeen, Amsterdam, Antwerp and Auckland and 52 more. Often billed alongside Mall Grab, KETTAMA and DJ Gigola. Next up: TBA, Washingtondc on Sat 12 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 11 Sept 2026 | Club Space Miami | Miami |
 | Sat, 12 Sept 2026 | TBA | Washington DC |
 | Thu, 24 Sept 2026 | Various Venues | London |
 | Fri, 25 Sept 2026 | The Warehouse | Leeds |
@@ -20,6 +19,7 @@ Skin On Skin is a techno and house artist tracked on soundcheck, with 142 sets l
 | Sat, 17 Oct 2026 | NX Newcastle | Newcastle |
 | Fri, 23 Oct 2026 | Ndsm Wharf | Amsterdam |
 | Sat, 24 Oct 2026 | Levenslang Amsterdam | Amsterdam |
+| Sat, 31 Oct 2026 | Brussels Gate | Brussels |
 
 ## Recently played
 

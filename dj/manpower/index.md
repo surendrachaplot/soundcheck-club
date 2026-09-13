@@ -20,11 +20,11 @@ Man Power is a house and techno artist tracked on soundcheck, with 99 sets logge
 - Are You Affiliated, Newcastle — Sun, 30 Aug 2026
 - Berghain | Panorama Bar | Säule, Berlin — Sat, 15 Aug 2026
 - Golden Pudel Club, Hamburg — Fri, 14 Aug 2026
-- The Golden Lion, Manchester — Sat, 11 Jul 2026
 - Are You Affiliated, Newcastle — Sat, 4 Jul 2026
 - Club Cheek, London — Sat, 20 Jun 2026
 - Akasha Las Dalias Club - Ibiza, Ibiza — Fri, 5 Jun 2026
 - Are You Affiliated, Newcastle — Sun, 24 May 2026
+- Sneaky Pete's, Edinburgh — Fri, 22 May 2026
 
 ## Shares bills with
 

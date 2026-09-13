@@ -1,8 +1,8 @@
 # Anyma
 
-Anyma is a Techno and Progressive House artist with 4 upcoming club dates listed on soundcheck as of Sun, 13 Sept 2026, next at [UNVRS], Ibiza on Tue, 15 Sept 2026.
+Anyma is a Techno and Progressive House artist with 5 upcoming club dates listed on soundcheck as of Sun, 13 Sept 2026, next at [UNVRS], Ibiza on Tue, 15 Sept 2026.
 
-Anyma is a techno and progressive house artist tracked on soundcheck, with 64 sets logged across Amsterdam, Barcelona, Brussels and Budapest and 17 more. Often billed alongside Kevin de Vries, Tale Of Us and Chris Avantgarde. Next up: [UNVRS], Ibiza on Tue 15 Sept.
+Anyma is a techno and progressive house artist tracked on soundcheck, with 65 sets logged across Amsterdam, Barcelona, Brussels and Budapest and 17 more. Often billed alongside Kevin de Vries, Tale Of Us and Chris Avantgarde. Next up: [UNVRS], Ibiza on Tue 15 Sept.
 
 ## Upcoming shows
 
@@ -12,6 +12,7 @@ Anyma is a techno and progressive house artist tracked on soundcheck, with 64 se
 | Sat, 19 Sept 2026 | Fiera Milano | Milan |
 | Sat, 26 Sept 2026 | Ciudad Del Rock | Madrid |
 | Sat, 17 Oct 2026 | The Domain | Sydney |
+| Sat, 12 Dec 2026 | La Défense Arena | Paris |
 
 ## Recently played
 

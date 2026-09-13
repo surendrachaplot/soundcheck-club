@@ -1,8 +1,8 @@
 # Amber's
 
-Amber's is a music venue in Manchester with 5 upcoming nights listed on soundcheck as of Sun, 13 Sept 2026; the next is "10 YEARS OF Klub Verboten x MANCHESTER" on Fri, 18 Sept 2026.
+Amber's is a music venue in Manchester with 6 upcoming nights listed on soundcheck as of Sun, 13 Sept 2026; the next is "10 YEARS OF Klub Verboten x MANCHESTER" on Fri, 18 Sept 2026.
 
-Amber's is a music venue in Manchester listed on soundcheck. 5 upcoming nights, with line-ups including Amelia Leigh, Arkane, Arpy Brown and Danny Roach and 2 more. Browse upcoming dates, start times and who's playing. 1 Circle Square, 3 Symphony Park, Manchester M17FS.
+Amber's is a music venue in Manchester listed on soundcheck. 6 upcoming nights, with line-ups including Amelia Leigh, Arkane, Arpy Brown and Danny Roach and 2 more. Browse upcoming dates, start times and who's playing. 1 Circle Square, 3 Symphony Park, Manchester M17FS.
 
 ## What's on
 
@@ -12,6 +12,7 @@ Amber's is a music venue in Manchester listed on soundcheck. 5 upcoming nights, 
 | Fri, 25 Sept 2026 | Cheetah, SIMMS, Strategy, DJ Jackum + MORE [Brainiac + Psyked + F4B] | Amelia Leigh, Jackum, Milzy, SIMMS, Simmo., Sweetly |
 | Sat, 3 Oct 2026 | Unfazed 90s Day Rave - Final show of 2026 |  |
 | Sat, 3 Oct 2026 | Toy Tonics Jam | Arpy Brown, Jordan Villa, Sam Ruffillo, Urbi |
+| Fri, 23 Oct 2026 | Riot Manchester Halloween |  |
 | Thu, 29 Oct 2026 | Demi Riquísimo at Ambers | Demi Riquisimo |
 
 ## Address

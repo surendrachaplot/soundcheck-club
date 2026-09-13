@@ -1,8 +1,8 @@
 # Grant Nelson
 
-Grant Nelson is a House and Garage artist with 2 upcoming club dates listed on soundcheck as of Sun, 13 Sept 2026, next at Studio 338, London on Sat, 26 Sept 2026.
+Grant Nelson is a House and Garage artist with 4 upcoming club dates listed on soundcheck as of Sun, 13 Sept 2026, next at Studio 338, London on Sat, 26 Sept 2026.
 
-Grant Nelson is a house and garage artist tracked on soundcheck, with 34 sets logged across Amsterdam, Barcelona, Brighton and Dublin and 10 more. Often billed alongside Matt Jam Lamont, Steve Taylor and Trimtone. Next up: Studio 338, London on Sat 26 Sept.
+Grant Nelson is a house and garage artist tracked on soundcheck, with 36 sets logged across Amsterdam, Barcelona, Brighton and Dublin and 11 more. Often billed alongside Matt Jam Lamont, Steve Taylor and Trimtone. Next up: Studio 338, London on Sat 26 Sept.
 
 ## Upcoming shows
 
@@ -10,6 +10,8 @@ Grant Nelson is a house and garage artist tracked on soundcheck, with 34 sets lo
 | --- | --- | --- |
 | Sat, 26 Sept 2026 | Studio 338 | London |
 | Sat, 26 Sept 2026 | The Yard | Manchester |
+| Sat, 28 Nov 2026 | Port of Leith Distillery | Edinburgh |
+| Sat, 12 Dec 2026 | Sankeys | Manchester |
 
 ## Recently played
 

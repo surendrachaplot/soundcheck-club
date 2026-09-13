@@ -1,14 +1,13 @@
 # Club Metro
 
-Club Metro is a music venue in Kyoto with 26 upcoming nights listed on soundcheck as of Sun, 13 Sept 2026; the next is "武内享の京都ROCK SHOW" on Sun, 13 Sept 2026.
+Club Metro is a music venue in Kyoto with 25 upcoming nights listed on soundcheck as of Sun, 13 Sept 2026; the next is "CLUB80's リクエスト大会" on Wed, 16 Sept 2026.
 
-Club Metro is a music venue in Kyoto listed on soundcheck. 26 upcoming nights, with line-ups including Andy Vaz, AOKI takamasa, DJ KAZUMA and DMITRI ABSINTHE and 2 more. Browse upcoming dates, start times and who's playing. 82 Simodutsumicho, Kawabata Marutamachi, Sakyo-ku, Kyoto-shi, 606-8396 Japan.
+Club Metro is a music venue in Kyoto listed on soundcheck. 25 upcoming nights, with line-ups including Andy Vaz, AOKI takamasa, DJ KAZUMA and DMITRI ABSINTHE and 2 more. Browse upcoming dates, start times and who's playing. 82 Simodutsumicho, Kawabata Marutamachi, Sakyo-ku, Kyoto-shi, 606-8396 Japan.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sun, 13 Sept 2026 | 武内享の京都ROCK SHOW |  |
 | Wed, 16 Sept 2026 | CLUB80's リクエスト大会 |  |
 | Thu, 17 Sept 2026 | VOID ver.03 |  |
 | Fri, 18 Sept 2026 | Connected Underground 'Hear the House Music Steady Steady Poundin'! ' Special with Andy Vaz | Andy Vaz, Paul Leonard, Ryoma Sasaki |
@@ -18,6 +17,7 @@ Club Metro is a music venue in Kyoto listed on soundcheck. 26 upcoming nights, w
 | Mon, 21 Sept 2026 | Counter Culture Side Club | Kaito, YELLOWUHURU |
 | Tue, 22 Sept 2026 | GREENS & SECOND ROYAL presents 「優游涵泳 5」 |  |
 | Tue, 22 Sept 2026 | LONDON CALLING |  |
+| Wed, 23 Sept 2026 | SONIC REMEDY 〜風間暁『「回復」という毒』 出版記念パーティー(TALK & DJ)〜 |  |
 
 ## Address
 

@@ -1,14 +1,13 @@
 # The Baptist
 
-The Baptist is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sun, 13 Sept 2026, next at TBA - Cape Lookout, Portland on Fri, 11 Sept 2026.
+The Baptist is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sun, 13 Sept 2026, next at F8 1192 Folsom, San Francisco/Oakland on Sat, 3 Oct 2026.
 
-The Baptist is a techno and house artist based in United States of America, tracked on soundcheck, with 22 sets logged across Boston, Losangeles, Newyorkcity and Portland and 2 more. Often billed alongside MILANA, Xolo and 2dahlia. Next up: TBA - Cape Lookout, Portland on Fri 11 Sept.
+The Baptist is a techno and house artist based in United States of America, tracked on soundcheck, with 22 sets logged across Boston, Losangeles, Newyorkcity and Portland and 2 more. Often billed alongside MILANA, Xolo and 2dahlia. Next up: F8 1192 Folsom, Sanfrancisco on Sat 3 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 11 Sept 2026 | TBA - Cape Lookout | Portland |
 | Sat, 3 Oct 2026 | F8 1192 Folsom | San Francisco/Oakland |
 
 ## Recently played

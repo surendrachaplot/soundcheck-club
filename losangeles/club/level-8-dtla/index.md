@@ -1,6 +1,6 @@
 # Level 8 DTLA
 
-Level 8 DTLA is a music venue in Los Angeles with 2 upcoming nights listed on soundcheck as of Sun, 13 Sept 2026; the next is "Emmy Awards After Party (top media/celebs)" on Mon, 14 Sept 2026.
+Level 8 DTLA is a music venue in Los Angeles with 2 upcoming nights listed on soundcheck as of Sun, 13 Sept 2026; the next is "Official Emmy Awards After Party @ Level 8 in the Moxy Hotel" on Mon, 14 Sept 2026.
 
 Level 8 DTLA is a music venue in Losangeles listed on soundcheck. 2 upcoming nights. Browse upcoming dates, start times and who's playing. 1254 S Figueroa St, Los Angeles, CA 90015.
 
@@ -8,7 +8,7 @@ Level 8 DTLA is a music venue in Losangeles listed on soundcheck. 2 upcoming nig
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Mon, 14 Sept 2026 | Emmy Awards After Party (top media/celebs) |  |
+| Mon, 14 Sept 2026 | Official Emmy Awards After Party @ Level 8 in the Moxy Hotel |  |
 | Sun, 27 Sept 2026 | Official Video Music Awards After Party  |  |
 
 ## Address

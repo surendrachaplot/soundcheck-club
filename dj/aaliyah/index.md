@@ -1,14 +1,15 @@
 # AALIYAH
 
-AALIYAH is a Techno and R&B artist with 1 upcoming club date listed on soundcheck as of Sun, 13 Sept 2026, next at Kater, Berlin on Sat, 7 Nov 2026.
+AALIYAH is a Techno and R&B artist with 2 upcoming club dates listed on soundcheck as of Sun, 13 Sept 2026, next at Kater, Berlin on Sat, 7 Nov 2026.
 
-AALIYAH is a techno and r&b artist tracked on soundcheck, with 30 sets logged across Berlin, Hamburg, London and Manchester and 2 more. Often billed alongside Ciara, Drake (DE) and Nelly. Next up: Kater, Berlin on Sat 7 Nov.
+AALIYAH is a techno and r&b artist tracked on soundcheck, with 31 sets logged across Berlin, Hamburg, London and Manchester and 2 more. Often billed alongside Ciara, Drake (DE) and Nelly. Next up: Kater, Berlin on Sat 7 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 7 Nov 2026 | Kater | Berlin |
+| Sat, 12 Dec 2026 | Outernet Live | London |
 
 ## Recently played
 

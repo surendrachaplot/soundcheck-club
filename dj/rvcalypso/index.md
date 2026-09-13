@@ -1,14 +1,13 @@
 # R/V Calypso
 
-R/V Calypso is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sun, 13 Sept 2026, next at Club Space Miami, Miami on Fri, 11 Sept 2026.
+R/V Calypso is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 13 Sept 2026, next at Mana Wynwood, Miami on Fri, 16 Oct 2026.
 
-R/V Calypso is a house and techno artist based in United States of America, tracked on soundcheck, with 10 sets logged across Miami. Often billed alongside Terence Tabeau, Danny Daze and Will Renuart. Next up: Club Space Miami, Miami on Fri 11 Sept.
+R/V Calypso is a house and techno artist based in United States of America, tracked on soundcheck, with 10 sets logged across Miami. Often billed alongside Terence Tabeau, Danny Daze and Will Renuart. Next up: Mana Wynwood, Miami on Fri 16 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 11 Sept 2026 | Club Space Miami | Miami |
 | Fri, 16 Oct 2026 | Mana Wynwood | Miami |
 
 ## Recently played

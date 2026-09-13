@@ -1,8 +1,8 @@
 # Hemkade 48
 
-Hemkade 48 is a music venue in Amsterdam with 6 upcoming nights listed on soundcheck as of Sun, 13 Sept 2026; the next is "Free Your Mind x Teletech: 4 the People" on Thu, 22 Oct 2026.
+Hemkade 48 is a music venue in Amsterdam with 7 upcoming nights listed on soundcheck as of Sun, 13 Sept 2026; the next is "Free Your Mind x Teletech: 4 the People" on Thu, 22 Oct 2026.
 
-Hemkade 48 is a music venue in Amsterdam listed on soundcheck. 6 upcoming nights, with line-ups including 6EJOU, ANXHELA, Armand Van Helden and Art of Fighters and 2 more. Browse upcoming dates, start times and who's playing. Hemkade 48, 1506 PS Zaandam.
+Hemkade 48 is a music venue in Amsterdam listed on soundcheck. 7 upcoming nights, with line-ups including 6EJOU, ANXHELA, Armand Van Helden and Art of Fighters and 2 more. Browse upcoming dates, start times and who's playing. Hemkade 48, 1506 PS Zaandam.
 
 ## What's on
 
@@ -14,6 +14,7 @@ Hemkade 48 is a music venue in Amsterdam listed on soundcheck. 6 upcoming nights
 | Sun, 25 Oct 2026 | KRUELTY B2B Vieze Asbak 3hrs ADE | BLNK, KRUELTY, Vieze Asbak, Yoshiko |
 | Sat, 31 Oct 2026 | GABBERLAND | Art of Fighters, DJ Panic, Dj Promo, NoXa, satronica |
 | Sat, 28 Nov 2026 | Wasteland Amsterdam |  |
+| Sat, 12 Dec 2026 | ANTS Amsterdam | East End Dubs, Ilario Alicante, Kellie Allen, Prunk, SOSA (UK), Us Two |
 
 ## Address
 

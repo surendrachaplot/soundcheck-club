@@ -1,14 +1,13 @@
 # Honeysmack
 
-Honeysmack is a Techno and Acid artist with 2 upcoming club dates listed on soundcheck as of Sun, 13 Sept 2026, next at Howler, Melbourne on Sun, 13 Sept 2026.
+Honeysmack is a Techno and Acid artist with 1 upcoming club date listed on soundcheck as of Sun, 13 Sept 2026, next at TBA - INNER WEST, Sydney on Sat, 19 Sept 2026.
 
-Honeysmack is a techno and acid artist tracked on soundcheck, with 21 sets logged across Auckland, Berlin, Losangeles and Melbourne and 1 more. Often billed alongside Acid Safari, Chiara Kickdrum and Mike Callander. Next up: Howler, Melbourne on Sun 13 Sept.
+Honeysmack is a techno and acid artist tracked on soundcheck, with 21 sets logged across Auckland, Berlin, Losangeles and Melbourne and 1 more. Often billed alongside Acid Safari, Chiara Kickdrum and Mike Callander. Next up: TBA - INNER WEST, Sydney on Sat 19 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sun, 13 Sept 2026 | Howler | Melbourne |
 | Sat, 19 Sept 2026 | TBA - INNER WEST | Sydney |
 
 ## Recently played

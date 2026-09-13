@@ -1,8 +1,8 @@
 # Nick Curly
 
-Nick Curly is a House and Tech House artist with 7 upcoming club dates listed on soundcheck as of Sun, 13 Sept 2026, next at Studio Club Malaga, Malaga on Sat, 26 Sept 2026.
+Nick Curly is a House and Tech House artist with 8 upcoming club dates listed on soundcheck as of Sun, 13 Sept 2026, next at Studio Club Malaga, Malaga on Sat, 26 Sept 2026.
 
-Nick Curly is a house and tech house artist tracked on soundcheck, with 113 sets logged across Amsterdam, Athens, Auckland and Bali and 39 more. Often billed alongside Easttown, Reboot and Andrew Azara. Next up: Studio Club Malaga, Malaga on Sat 26 Sept.
+Nick Curly is a house and tech house artist tracked on soundcheck, with 114 sets logged across Amsterdam, Athens, Auckland and Bali and 39 more. Often billed alongside Easttown, Reboot and Andrew Azara. Next up: Studio Club Malaga, Malaga on Sat 26 Sept.
 
 ## Upcoming shows
 
@@ -15,6 +15,7 @@ Nick Curly is a house and tech house artist tracked on soundcheck, with 113 sets
 | Sat, 31 Oct 2026 | Studio 338 | London |
 | Sun, 6 Dec 2026 | Felons Barrel Hall | Brisbane |
 | Fri, 11 Dec 2026 | Northcote Theatre | Melbourne |
+| Sat, 12 Dec 2026 | The Ivy | Sydney |
 
 ## Recently played
 

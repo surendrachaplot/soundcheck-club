@@ -1,14 +1,13 @@
 # OK EG
 
-OK EG is a Techno and Electronica artist with 7 upcoming club dates listed on soundcheck as of Sun, 13 Sept 2026, next at Camp Kennybrook, New York City on Thu, 10 Sept 2026.
+OK EG is a Techno and Electronica artist with 6 upcoming club dates listed on soundcheck as of Sun, 13 Sept 2026, next at TBA, New York City on Wed, 16 Sept 2026.
 
-OK EG is a techno and electronica artist tracked on soundcheck, with 51 sets logged across Amsterdam, Barcelona, Berlin and Bristol and 15 more. Often billed alongside Kia (AU), Bambi (FR) and Priori. Next up: Camp Kennybrook, Newyorkcity on Thu 10 Sept.
+OK EG is a techno and electronica artist tracked on soundcheck, with 51 sets logged across Amsterdam, Barcelona, Berlin and Bristol and 15 more. Often billed alongside Kia (AU), Bambi (FR) and Priori. Next up: TBA, Newyorkcity on Wed 16 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Thu, 10 Sept 2026 | Camp Kennybrook | New York City |
 | Wed, 16 Sept 2026 | TBA | New York City |
 | Fri, 18 Sept 2026 | public records | New York City |
 | Sat, 19 Sept 2026 | TBA - Downtown | Los Angeles |

@@ -1,8 +1,8 @@
 # Jonathan Kaspar
 
-Jonathan Kaspar is a House and Techno artist with 7 upcoming club dates listed on soundcheck as of Sun, 13 Sept 2026, next at Chinois Ibiza, Ibiza on Fri, 18 Sept 2026.
+Jonathan Kaspar is a House and Techno artist with 8 upcoming club dates listed on soundcheck as of Sun, 13 Sept 2026, next at Chinois Ibiza, Ibiza on Fri, 18 Sept 2026.
 
-Jonathan Kaspar is a house and techno artist tracked on soundcheck, with 192 sets logged across Amsterdam, Athens, Barcelona and Belgrade and 27 more. Often billed alongside Mira, Robag Wruhme and Chris Schwarzwälder. Next up: Chinois Ibiza, Ibiza on Fri 18 Sept.
+Jonathan Kaspar is a house and techno artist tracked on soundcheck, with 193 sets logged across Amsterdam, Athens, Barcelona and Belgrade and 27 more. Often billed alongside Mira, Robag Wruhme and Chris Schwarzwälder. Next up: Chinois Ibiza, Ibiza on Fri 18 Sept.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Jonathan Kaspar is a house and techno artist tracked on soundcheck, with 192 set
 | --- | --- | --- |
 | Fri, 18 Sept 2026 | Chinois Ibiza | Ibiza |
 | Sun, 20 Sept 2026 | Bikini Beach | Cologne |
+| Thu, 24 Sept 2026 | Veronica Schip | Amsterdam |
 | Sat, 26 Sept 2026 | fabric | London |
 | Sat, 26 Sept 2026 | Odonien | Cologne |
 | Sat, 17 Oct 2026 | fi | Cologne |

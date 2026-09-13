@@ -1,13 +1,14 @@
 # Juliana X
 
-Juliana X is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sun, 13 Sept 2026, next at Toffler, Rotterdam on Sat, 10 Oct 2026.
+Juliana X is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Sun, 13 Sept 2026, next at Sahara, Rotterdam on Sat, 3 Oct 2026.
 
-Juliana X is a house and techno artist tracked on soundcheck, with 61 sets logged across Amsterdam, Berlin, Brussels and Rotterdam and 2 more. Often billed alongside Boris Coelman, BELLA (NL) and Moody Mehran. Next up: Toffler, Rotterdam on Sat 10 Oct.
+Juliana X is a house and techno artist tracked on soundcheck, with 62 sets logged across Amsterdam, Berlin, Brussels and Rotterdam and 2 more. Often billed alongside Boris Coelman, BELLA (NL) and Moody Mehran. Next up: Sahara, Rotterdam on Sat 3 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 3 Oct 2026 | Sahara | Rotterdam |
 | Sat, 10 Oct 2026 | Toffler | Rotterdam |
 | Fri, 23 Oct 2026 | GASHOUDER | Amsterdam |
 

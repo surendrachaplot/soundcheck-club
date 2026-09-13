@@ -1,8 +1,8 @@
 # Tempio del Futuro Perduto
 
-Tempio del Futuro Perduto is a music venue in Milan with 22 upcoming nights listed on soundcheck as of Sun, 13 Sept 2026; the next is "Oriental Techno Garden - 東極玄音花園: Max Shen, Night Swimmer, Zenyee" on Fri, 18 Sept 2026.
+Tempio del Futuro Perduto is a music venue in Milan with 23 upcoming nights listed on soundcheck as of Sun, 13 Sept 2026; the next is "Oriental Techno Garden - 東極玄音花園: Max Shen, Night Swimmer, Zenyee" on Fri, 18 Sept 2026.
 
-Tempio del Futuro Perduto is a music venue in Milan listed on soundcheck. 22 upcoming nights, with line-ups including Manuel Di Martino, Acidalia, ÆQUAL and Alfa Cornae and 2 more. Browse upcoming dates, start times and who's playing. via Luigi Nono 9 20100 Milan, Italy.
+Tempio del Futuro Perduto is a music venue in Milan listed on soundcheck. 23 upcoming nights, with line-ups including Manuel Di Martino, Acidalia, ÆQUAL and Alfa Cornae and 2 more. Browse upcoming dates, start times and who's playing. via Luigi Nono 9 20100 Milan, Italy.
 
 ## What's on
 

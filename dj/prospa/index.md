@@ -1,14 +1,13 @@
 # Prospa
 
-Prospa is a House and Techno artist with 12 upcoming club dates listed on soundcheck as of Sun, 13 Sept 2026, next at Piknic Électronik / Parc Jean Drapeau, Montreal on Sun, 13 Sept 2026.
+Prospa is a House and Techno artist with 11 upcoming club dates listed on soundcheck as of Sun, 13 Sept 2026, next at NDSM Docklands, Amsterdam on Sun, 13 Sept 2026.
 
-Prospa is a house and techno artist tracked on soundcheck, with 179 sets logged across Amsterdam, Austin, Barcelona and Belfast and 46 more. Often billed alongside Seth Troxler, Josh Baker and Sossa. Next up: Piknic Électronik / Parc Jean Drapeau, Montreal on Sun 13 Sept.
+Prospa is a house and techno artist tracked on soundcheck, with 179 sets logged across Amsterdam, Austin, Barcelona and Belfast and 46 more. Often billed alongside Seth Troxler, Josh Baker and Sossa. Next up: NDSM Docklands, Amsterdam on Sun 13 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sun, 13 Sept 2026 | Piknic Électronik / Parc Jean Drapeau | Montreal |
 | Sun, 13 Sept 2026 | NDSM Docklands | Amsterdam |
 | Wed, 16 Sept 2026 | [UNVRS] | Ibiza |
 | Sat, 19 Sept 2026 | Randall's Island | New York City |

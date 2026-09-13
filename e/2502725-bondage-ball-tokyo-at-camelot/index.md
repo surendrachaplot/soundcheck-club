@@ -1,6 +1,6 @@
 # Bondage Ball Tokyo at Camelot
 
-Bondage Ball Tokyo at Camelot on Sun 20 Sept, Tokyo. 5 acts on the bill: DJ ZiL, EMILIO (3), Jupiter Gatling and SiSeN and 1 more. Techno and Electro. Preview the line-up and save it on soundcheck.
+Bondage Ball Tokyo at Camelot on Sun 20 Sept, Tokyo. 6 acts on the bill: DJ ZiL, EMILIO (3), Jupiter Gatling and SHIMIZU MASH and 2 more. Techno and Electro. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -13,6 +13,7 @@ Bondage Ball Tokyo at Camelot on Sun 20 Sept, Tokyo. 5 acts on the bill: DJ ZiL,
 - DJ ZiL
 - EMILIO (3)
 - Jupiter Gatling
+- SHIMIZU MASH
 - SiSeN
 - SuperUser
 

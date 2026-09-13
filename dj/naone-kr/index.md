@@ -1,14 +1,13 @@
 # Naone
 
-Naone is a Techno and House artist with 8 upcoming club dates listed on soundcheck as of Sun, 13 Sept 2026, next at Camp Kennybrook, New York City on Thu, 10 Sept 2026.
+Naone is a Techno and House artist with 7 upcoming club dates listed on soundcheck as of Sun, 13 Sept 2026, next at Bossa Nova Civic Club, New York City on Wed, 16 Sept 2026.
 
-Naone is a techno and house artist tracked on soundcheck, with 179 sets logged across Amsterdam, Barcelona, Berlin and Brussels and 30 more. Often billed alongside Iggy P, mad miran and Doudou MD. Next up: Camp Kennybrook, Newyorkcity on Thu 10 Sept.
+Naone is a techno and house artist tracked on soundcheck, with 179 sets logged across Amsterdam, Barcelona, Berlin and Brussels and 30 more. Often billed alongside Iggy P, mad miran and Doudou MD. Next up: Bossa Nova Civic Club, Newyorkcity on Wed 16 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Thu, 10 Sept 2026 | Camp Kennybrook | New York City |
 | Wed, 16 Sept 2026 | Bossa Nova Civic Club | New York City |
 | Fri, 18 Sept 2026 | Fort Mifflin | Philadelphia |
 | Fri, 18 Sept 2026 | Signal | New York City |

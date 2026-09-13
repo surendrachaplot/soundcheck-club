@@ -1,8 +1,8 @@
 # SOSA (UK)
 
-SOSA (UK) is a House and Tech House artist with 5 upcoming club dates listed on soundcheck as of Sun, 13 Sept 2026, next at Concorde 2, Brighton on Sat, 19 Sept 2026.
+SOSA (UK) is a House and Tech House artist with 6 upcoming club dates listed on soundcheck as of Sun, 13 Sept 2026, next at Concorde 2, Brighton on Sat, 19 Sept 2026.
 
-SOSA (UK) is a house and tech house artist based in United Kingdom, tracked on soundcheck, with 109 sets logged across Aberdeen, Amsterdam, Austin and Barcelona and 39 more. Often billed alongside East End Dubs, Max Dean and Fleur Shore. Next up: Concorde 2, Brighton on Sat 19 Sept.
+SOSA (UK) is a house and tech house artist based in United Kingdom, tracked on soundcheck, with 110 sets logged across Aberdeen, Amsterdam, Austin and Barcelona and 39 more. Often billed alongside East End Dubs, Max Dean and Fleur Shore. Next up: Concorde 2, Brighton on Sat 19 Sept.
 
 ## Upcoming shows
 
@@ -13,6 +13,7 @@ SOSA (UK) is a house and tech house artist based in United Kingdom, tracked on s
 | Sat, 10 Oct 2026 | Document | Bristol |
 | Fri, 30 Oct 2026 | NOS Event Center | Los Angeles |
 | Sat, 14 Nov 2026 | TBA - Parque de la Ciudad, CABA | Buenos Aires |
+| Sat, 12 Dec 2026 | Hemkade 48 | Amsterdam |
 
 ## Recently played
 

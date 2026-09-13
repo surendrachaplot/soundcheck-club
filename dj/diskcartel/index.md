@@ -1,14 +1,13 @@
 # Disk Cartel
 
-Disk Cartel is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sun, 13 Sept 2026, next at Camp Kennybrook, New York City on Thu, 10 Sept 2026.
+Disk Cartel is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 13 Sept 2026, next at Bossa Nova Civic Club, New York City on Fri, 18 Sept 2026.
 
-Disk Cartel is a house and techno artist based in Germany, tracked on soundcheck, with 8 sets logged across Amsterdam, Berlin, Leipzig and London and 2 more. Often billed alongside THC, S-candalo and Byron Yeates. Next up: Camp Kennybrook, Newyorkcity on Thu 10 Sept.
+Disk Cartel is a house and techno artist based in Germany, tracked on soundcheck, with 8 sets logged across Amsterdam, Berlin, Leipzig and London and 2 more. Often billed alongside THC, S-candalo and Byron Yeates. Next up: Bossa Nova Civic Club, Newyorkcity on Fri 18 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Thu, 10 Sept 2026 | Camp Kennybrook | New York City |
 | Fri, 18 Sept 2026 | Bossa Nova Civic Club | New York City |
 
 ## Recently played

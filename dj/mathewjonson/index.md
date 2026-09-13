@@ -1,14 +1,13 @@
 # Mathew Jonson
 
-Mathew Jonson is a Techno and House artist with 8 upcoming club dates listed on soundcheck as of Sun, 13 Sept 2026, next at TBA -    Kodamanomori Camp Ground, Nagano, Tokyo on Fri, 11 Sept 2026.
+Mathew Jonson is a Techno and House artist with 7 upcoming club dates listed on soundcheck as of Sun, 13 Sept 2026, next at Strange Brew, Bristol on Fri, 25 Sept 2026.
 
-Mathew Jonson is a techno and house artist tracked on soundcheck, with 143 sets logged across Amsterdam, Bali, Barcelona and Belgrade and 43 more. Often billed alongside EVGHENIIA, Francesco Del Garda and O.BEE. Next up: TBA -    Kodamanomori Camp Ground, Nagano, Tokyo on Fri 11 Sept.
+Mathew Jonson is a techno and house artist tracked on soundcheck, with 143 sets logged across Amsterdam, Bali, Barcelona and Belgrade and 43 more. Often billed alongside EVGHENIIA, Francesco Del Garda and O.BEE. Next up: Strange Brew, Bristol on Fri 25 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 11 Sept 2026 | TBA -    Kodamanomori Camp Ground, Nagano | Tokyo |
 | Fri, 25 Sept 2026 | Strange Brew | Bristol |
 | Sat, 26 Sept 2026 | Cobalt Studios | Newcastle |
 | Fri, 2 Oct 2026 | ZENNER | Berlin |

@@ -1,8 +1,8 @@
-# TBA - EAST LONDON - Announced to ticket holders on the day
+# TBA - EAST LONDON- announced to ticket holders on the day
 
-TBA - EAST LONDON - Announced to ticket holders on the day is a music venue in London with 2 upcoming nights listed on soundcheck as of Sun, 13 Sept 2026; the next is "THE WIRE: SECRET LONDON AFTERHOURS - PRIVATE EVENT" on Fri, 18 Sept 2026.
+TBA - EAST LONDON- announced to ticket holders on the day is a music venue in London with 2 upcoming nights listed on soundcheck as of Sun, 13 Sept 2026; the next is "THE WIRE: SECRET LONDON AFTERHOURS - PRIVATE EVENT" on Fri, 18 Sept 2026.
 
-TBA - EAST LONDON - Announced to ticket holders on the day is a music venue in London listed on soundcheck. 2 upcoming nights, with line-ups including Any Koh, Azire, Dimanté and Irene S and 2 more. Browse upcoming dates, start times and who's playing.
+TBA - EAST LONDON- announced to ticket holders on the day is a music venue in London listed on soundcheck. 2 upcoming nights, with line-ups including Any Koh, Azire, Dimanté and Irene S and 2 more. Browse upcoming dates, start times and who's playing.
 
 ## What's on
 

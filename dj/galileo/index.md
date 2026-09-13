@@ -1,13 +1,14 @@
 # Galileo
 
-Galileo is a Techno and Acid artist with 1 upcoming club date listed on soundcheck as of Sun, 13 Sept 2026, next at EL SÓTANO, Madrid on Sun, 27 Sept 2026.
+Galileo is a Techno and Acid artist with 2 upcoming club dates listed on soundcheck as of Sun, 13 Sept 2026, next at Sala El Sol, Madrid on Wed, 16 Sept 2026.
 
-Galileo is a techno and acid artist based in Spain, tracked on soundcheck, with 30 sets logged across Barcelona and Madrid. Often billed alongside Pulpix, Nigabba and Nixy. Next up: EL SÓTANO, Madrid on Sun 27 Sept.
+Galileo is a techno and acid artist based in Spain, tracked on soundcheck, with 31 sets logged across Barcelona and Madrid. Often billed alongside Pulpix, Nigabba and Nixy. Next up: Sala El Sol, Madrid on Wed 16 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Wed, 16 Sept 2026 | Sala El Sol | Madrid |
 | Sun, 27 Sept 2026 | EL SÓTANO | Madrid |
 
 ## Recently played

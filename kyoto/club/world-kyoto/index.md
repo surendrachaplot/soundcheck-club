@@ -2,13 +2,13 @@
 
 World Kyoto is a music venue in Kyoto with 1 upcoming night listed on soundcheck as of Sun, 13 Sept 2026; the next is "ASTROFOBIA" on Sun, 11 Oct 2026.
 
-World Kyoto is a music venue in Kyoto listed on soundcheck. 1 upcoming night, with line-ups including ryota dj. Browse upcoming dates, start times and who's playing. 97 Shincho, Shimogyo-ku, Kyoto-shi, Kyoto, 600-8001 Japan.
+World Kyoto is a music venue in Kyoto listed on soundcheck. 1 upcoming night, with line-ups including ryota dj and Yess. Browse upcoming dates, start times and who's playing. 97 Shincho, Shimogyo-ku, Kyoto-shi, Kyoto, 600-8001 Japan.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sun, 11 Oct 2026 | ASTROFOBIA | ryota dj |
+| Sun, 11 Oct 2026 | ASTROFOBIA | Yess, ryota dj |
 
 ## Address
 

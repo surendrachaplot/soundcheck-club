@@ -1,14 +1,13 @@
 # Jake Muir
 
-Jake Muir is a Ambient and Techno artist with 2 upcoming club dates listed on soundcheck as of Sun, 13 Sept 2026, next at TBA - Laytonville, CA, San Francisco/Oakland on Fri, 11 Sept 2026.
+Jake Muir is a Ambient and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 13 Sept 2026, next at TBA - Out ‘n’ About Treesort, Portland on Thu, 24 Sept 2026.
 
-Jake Muir is an ambient and techno artist based in United States of America, tracked on soundcheck, with 35 sets logged across Austin, Berlin, Brussels and Chicago and 13 more. Often billed alongside Kiernan Laveaux, agraybé and aka-Sol. Next up: TBA - Laytonville, CA, Sanfrancisco on Fri 11 Sept.
+Jake Muir is an ambient and techno artist based in United States of America, tracked on soundcheck, with 35 sets logged across Austin, Berlin, Brussels and Chicago and 13 more. Often billed alongside Kiernan Laveaux, agraybé and aka-Sol. Next up: TBA - Out ‘n’ About Treesort, Portland on Thu 24 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 11 Sept 2026 | TBA - Laytonville, CA | San Francisco/Oakland |
 | Thu, 24 Sept 2026 | TBA - Out ‘n’ About Treesort | Portland |
 
 ## Recently played

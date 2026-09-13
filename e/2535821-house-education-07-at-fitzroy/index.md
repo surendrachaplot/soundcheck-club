@@ -1,6 +1,6 @@
 # HOUSE EDUCATION #07 at Fitzroy
 
-HOUSE EDUCATION #07 at Fitzroy on Fri 25 Sept, Berlin. 3 acts on the bill: Handmade, juan and only and Leone Knight. House. Preview the line-up and save it on soundcheck.
+HOUSE EDUCATION #07 at Fitzroy on Fri 25 Sept, Berlin. 3 acts on the bill: Handmade, juan and only and Leone Knight. House and Tech House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

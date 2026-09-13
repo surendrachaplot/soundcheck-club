@@ -1,14 +1,15 @@
 # Paniolo
 
-Paniolo is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sun, 13 Sept 2026, next at Gut Level, Sheffield on Fri, 13 Nov 2026.
+Paniolo is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sun, 13 Sept 2026, next at Gut Level, Sheffield on Fri, 13 Nov 2026.
 
-Paniolo is a techno and house artist tracked on soundcheck, with 24 sets logged across Sheffield. Often billed alongside Backseat Driver, Bubbles (UK) and MELK. Next up: Gut Level, Sheffield on Fri 13 Nov.
+Paniolo is a techno and house artist tracked on soundcheck, with 25 sets logged across Sheffield. Often billed alongside Backseat Driver, Bubbles (UK) and MELK. Next up: Gut Level, Sheffield on Fri 13 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 13 Nov 2026 | Gut Level | Sheffield |
+| Sat, 12 Dec 2026 | Gut Level | Sheffield |
 
 ## Recently played
 

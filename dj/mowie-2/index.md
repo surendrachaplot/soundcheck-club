@@ -1,14 +1,15 @@
 # Mowie (2)
 
-Mowie (2) is a Hardcore and Gabber artist with 1 upcoming club date listed on soundcheck as of Sun, 13 Sept 2026, next at ESC, Montreal on Sat, 19 Sept 2026.
+Mowie (2) is a Hardcore and Gabber artist with 2 upcoming club dates listed on soundcheck as of Sun, 13 Sept 2026, next at ESC, Montreal on Sat, 19 Sept 2026.
 
-Mowie (2) is a hardcore and gabber artist based in Canada, tracked on soundcheck, with 17 sets logged across Montreal and Toronto. Often billed alongside the bald girl, Baby Bimbo and Outback. Next up: ESC, Montreal on Sat 19 Sept.
+Mowie (2) is a hardcore and gabber artist based in Canada, tracked on soundcheck, with 18 sets logged across Montreal and Toronto. Often billed alongside the bald girl, Baby Bimbo and Outback. Next up: ESC, Montreal on Sat 19 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 19 Sept 2026 | ESC | Montreal |
+| Fri, 16 Oct 2026 | Le Red Room | Montreal |
 
 ## Recently played
 

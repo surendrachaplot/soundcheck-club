@@ -1,8 +1,8 @@
 # Nice N Sleazy
 
-Nice N Sleazy is a music venue in Glasgow with 15 upcoming nights listed on soundcheck as of Sun, 13 Sept 2026; the next is "PORTAL - Techno Journey" on Sun, 13 Sept 2026.
+Nice N Sleazy is a music venue in Glasgow with 16 upcoming nights listed on soundcheck as of Sun, 13 Sept 2026; the next is "PORTAL - Techno Journey" on Sun, 13 Sept 2026.
 
-Nice N Sleazy is a music venue in Glasgow listed on soundcheck. 15 upcoming nights, with line-ups including Angel Negrin, Casual Look, Corran and EL PADRE and 2 more. Browse upcoming dates, start times and who's playing. 421 Sauchiehall Street; Glasgow, G2 3LG; Scotland, United Kingdom.
+Nice N Sleazy is a music venue in Glasgow listed on soundcheck. 16 upcoming nights, with line-ups including Angel Negrin, Casual Look, Corran and elcammgguod and 2 more. Browse upcoming dates, start times and who's playing. 421 Sauchiehall Street; Glasgow, G2 3LG; Scotland, United Kingdom.
 
 ## What's on
 

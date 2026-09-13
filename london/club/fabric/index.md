@@ -1,8 +1,8 @@
 # fabric
 
-fabric is a music venue in London with 25 upcoming nights listed on soundcheck as of Sun, 13 Sept 2026; the next is "CAYA by fabric: bloop london Radio - 11 Year Anniversary" on Sun, 13 Sept 2026.
+fabric is a music venue in London with 27 upcoming nights listed on soundcheck as of Sun, 13 Sept 2026; the next is "CAYA by fabric: bloop london Radio - 11 Year Anniversary" on Sun, 13 Sept 2026.
 
-fabric is a music venue in London listed on soundcheck. 25 upcoming nights, with line-ups including AANO, Aaron Hibell, A For Alpha and Alfie and 2 more. Browse upcoming dates, start times and who's playing. 77a Charterhouse St; Clerkenwell; London EC1M 6HJ; United Kingdom.
+fabric is a music venue in London listed on soundcheck. 27 upcoming nights, with line-ups including AANO, Aaron Hibell, A For Alpha and Alfie and 2 more. Browse upcoming dates, start times and who's playing. 77a Charterhouse St; Clerkenwell; London EC1M 6HJ; United Kingdom.
 
 ## What's on
 

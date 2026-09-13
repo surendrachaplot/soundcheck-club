@@ -1,14 +1,14 @@
 # agraybé
 
-agraybé is a House and Deep House artist with 3 upcoming club dates listed on soundcheck as of Sun, 13 Sept 2026, next at TBA - Laytonville, CA, San Francisco/Oakland on Fri, 11 Sept 2026.
+agraybé is a House and Deep House artist with 3 upcoming club dates listed on soundcheck as of Sun, 13 Sept 2026, next at The Broken Shaker Los Angeles, Los Angeles on Sat, 19 Sept 2026.
 
-agraybé is a house and deep house artist based in United States of America, tracked on soundcheck, with 86 sets logged across Chicago, Detroit, Losangeles and Sandiego and 1 more. Often billed alongside Akumen, Andy Oro and No Pressure. Next up: TBA - Laytonville, CA, Sanfrancisco on Fri 11 Sept.
+agraybé is a house and deep house artist based in United States of America, tracked on soundcheck, with 87 sets logged across Chicago, Detroit, Losangeles and Sandiego and 1 more. Often billed alongside Akumen, Andy Oro and No Pressure. Next up: The Broken Shaker Los Angeles, Losangeles on Sat 19 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 11 Sept 2026 | TBA - Laytonville, CA | San Francisco/Oakland |
+| Sat, 19 Sept 2026 | The Broken Shaker Los Angeles | Los Angeles |
 | Sun, 27 Sept 2026 | TBA - DTLA | Los Angeles |
 | Thu, 15 Oct 2026 | TBA - Kramer Junction, CA | Los Angeles |
 

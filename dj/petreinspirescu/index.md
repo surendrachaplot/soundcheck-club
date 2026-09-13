@@ -1,8 +1,8 @@
 # Petre Inspirescu
 
-Petre Inspirescu is a House and Minimal artist with 4 upcoming club dates listed on soundcheck as of Sun, 13 Sept 2026, next at NDSM Docklands, Amsterdam on Sun, 13 Sept 2026.
+Petre Inspirescu is a House and Minimal artist with 5 upcoming club dates listed on soundcheck as of Sun, 13 Sept 2026, next at NDSM Docklands, Amsterdam on Sun, 13 Sept 2026.
 
-Petre Inspirescu is a house and minimal artist based in Romania, tracked on soundcheck, with 73 sets logged across Amsterdam, Antwerp, Barcelona and Berlin and 21 more. Often billed alongside Rhadoo, Raresh and RPR Soundsystem. Next up: NDSM Docklands, Amsterdam on Sun 13 Sept.
+Petre Inspirescu is a house and minimal artist based in Romania, tracked on soundcheck, with 74 sets logged across Amsterdam, Antwerp, Barcelona and Berlin and 21 more. Often billed alongside Rhadoo, Raresh and RPR Soundsystem. Next up: NDSM Docklands, Amsterdam on Sun 13 Sept.
 
 ## Upcoming shows
 
@@ -12,6 +12,7 @@ Petre Inspirescu is a house and minimal artist based in Romania, tracked on soun
 | Sat, 19 Sept 2026 | Europa Boat | Budapest |
 | Sat, 26 Sept 2026 | Platforma Wolff | Bucharest |
 | Sat, 3 Oct 2026 | Doka | Amsterdam |
+| Sat, 12 Dec 2026 | fabric | London |
 
 ## Recently played
 

@@ -1,14 +1,13 @@
 # Saia
 
-Saia is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Sun, 13 Sept 2026, next at Camp Kennybrook, New York City on Thu, 10 Sept 2026.
+Saia is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Sun, 13 Sept 2026, next at BASEMENT, New York City on Fri, 25 Sept 2026.
 
-Saia is a house and techno artist based in United States of America, tracked on soundcheck, with 22 sets logged across Mexicocity and Newyorkcity. Often billed alongside Arvin T, Markus (US) and Sharlese. Next up: Camp Kennybrook, Newyorkcity on Thu 10 Sept.
+Saia is a house and techno artist based in United States of America, tracked on soundcheck, with 22 sets logged across Mexicocity and Newyorkcity. Often billed alongside Arvin T, Markus (US) and Sharlese. Next up: BASEMENT, Newyorkcity on Fri 25 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Thu, 10 Sept 2026 | Camp Kennybrook | New York City |
 | Fri, 25 Sept 2026 | BASEMENT | New York City |
 | Fri, 23 Oct 2026 | Paragon | New York City |
 | Sun, 25 Oct 2026 | public records | New York City |

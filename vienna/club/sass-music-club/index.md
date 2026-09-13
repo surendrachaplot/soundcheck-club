@@ -1,14 +1,13 @@
 # SASS Music Club
 
-SASS Music Club is a music venue in Vienna with 5 upcoming nights listed on soundcheck as of Sun, 13 Sept 2026; the next is "Morgengymnastik w/Wonkers" on Sun, 13 Sept 2026.
+SASS Music Club is a music venue in Vienna with 4 upcoming nights listed on soundcheck as of Sun, 13 Sept 2026; the next is "Donnerstag Nacht" on Thu, 17 Sept 2026.
 
-SASS Music Club is a music venue in Vienna listed on soundcheck. 5 upcoming nights, with line-ups including Fritello Tonato, Joyce Muniz, Kormos and Nick Hanzo and 2 more. Browse upcoming dates, start times and who's playing. Karlsplatz 1, 1010 Wien, Austria.
+SASS Music Club is a music venue in Vienna listed on soundcheck. 4 upcoming nights, with line-ups including Fritello Tonato, Joyce Muniz, Kormos and Nick Hanzo and 2 more. Browse upcoming dates, start times and who's playing. Karlsplatz 1, 1010 Wien, Austria.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sun, 13 Sept 2026 | Morgengymnastik w/Wonkers |  |
 | Thu, 17 Sept 2026 | Donnerstag Nacht | Kormos |
 | Fri, 18 Sept 2026 | Joyce Muniz im Wohnzimmer | Joyce Muniz, Nick Hanzo |
 | Sat, 19 Sept 2026 | Tube & Berger im Wohnzimmer | Tube & Berger |

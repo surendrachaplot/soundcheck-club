@@ -1,8 +1,8 @@
 # Nørbak
 
-Nørbak is a Techno and House artist with 9 upcoming club dates listed on soundcheck as of Sun, 13 Sept 2026, next at Lofi, Amsterdam on Sat, 19 Sept 2026.
+Nørbak is a Techno and House artist with 10 upcoming club dates listed on soundcheck as of Sun, 13 Sept 2026, next at Lofi, Amsterdam on Sat, 19 Sept 2026.
 
-Nørbak is a techno and house artist tracked on soundcheck, with 140 sets logged across Amsterdam, Athens, Barcelona and Basel and 39 more. Often billed alongside Temudo, Quelza and CRAVO. Next up: Lofi, Amsterdam on Sat 19 Sept.
+Nørbak is a techno and house artist tracked on soundcheck, with 141 sets logged across Amsterdam, Athens, Barcelona and Basel and 39 more. Often billed alongside Temudo, Quelza and CRAVO. Next up: Lofi, Amsterdam on Sat 19 Sept.
 
 ## Upcoming shows
 
@@ -17,6 +17,7 @@ Nørbak is a techno and house artist tracked on soundcheck, with 140 sets logged
 | Fri, 23 Oct 2026 | RADION | Amsterdam |
 | Sun, 25 Oct 2026 | Bajes Amsterdam | Amsterdam |
 | Sat, 31 Oct 2026 | Berghain / Panorama Bar / Säule | Berlin |
+| Sat, 12 Dec 2026 | Plaza Monumental de Barcelona | Barcelona |
 
 ## Recently played
 

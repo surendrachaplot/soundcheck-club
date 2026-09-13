@@ -1,8 +1,8 @@
 # FEROTONINO
 
-FEROTONINO is a Trance and Techno artist with 3 upcoming club dates listed on soundcheck as of Sun, 13 Sept 2026, next at PKH Warehouse, Berlin on Fri, 2 Oct 2026.
+FEROTONINO is a Trance and Techno artist with 4 upcoming club dates listed on soundcheck as of Sun, 13 Sept 2026, next at PKH Warehouse, Berlin on Fri, 2 Oct 2026.
 
-FEROTONINO is a trance and techno artist based in Germany, tracked on soundcheck, with 21 sets logged across Berlin. Often billed alongside Amøn, YËDM and Cobb Douglas. Next up: PKH Warehouse, Berlin on Fri 2 Oct.
+FEROTONINO is a trance and techno artist based in Germany, tracked on soundcheck, with 22 sets logged across Berlin. Often billed alongside Amøn, YËDM and Cobb Douglas. Next up: PKH Warehouse, Berlin on Fri 2 Oct.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ FEROTONINO is a trance and techno artist based in Germany, tracked on soundcheck
 | Fri, 2 Oct 2026 | PKH Warehouse | Berlin |
 | Sat, 24 Oct 2026 | Lokschuppen Berlin | Berlin |
 | Fri, 30 Oct 2026 | Lokschuppen Berlin | Berlin |
+| Sat, 12 Dec 2026 | Lokschuppen Berlin | Berlin |
 
 ## Recently played
 

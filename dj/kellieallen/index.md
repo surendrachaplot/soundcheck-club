@@ -1,8 +1,8 @@
 # Kellie Allen
 
-Kellie Allen is a House and Tech House artist with 5 upcoming club dates listed on soundcheck as of Sun, 13 Sept 2026, next at Thuishaven, Amsterdam on Sun, 13 Sept 2026.
+Kellie Allen is a House and Tech House artist with 6 upcoming club dates listed on soundcheck as of Sun, 13 Sept 2026, next at Thuishaven, Amsterdam on Sun, 13 Sept 2026.
 
-Kellie Allen is a house and tech house artist tracked on soundcheck, with 120 sets logged across Amsterdam, Antwerp, Bali and Barcelona and 21 more. Often billed alongside Prunk, Dennis Quin and M-High. Next up: Thuishaven, Amsterdam on Sun 13 Sept.
+Kellie Allen is a house and tech house artist tracked on soundcheck, with 121 sets logged across Amsterdam, Antwerp, Bali and Barcelona and 21 more. Often billed alongside Prunk, Dennis Quin and M-High. Next up: Thuishaven, Amsterdam on Sun 13 Sept.
 
 ## Upcoming shows
 
@@ -13,6 +13,7 @@ Kellie Allen is a house and tech house artist tracked on soundcheck, with 120 se
 | Thu, 1 Oct 2026 | TBA - Various Venues | Malta |
 | Thu, 1 Oct 2026 | UNO MALTA | Malta |
 | Tue, 6 Oct 2026 | Cova Santa | Ibiza |
+| Sat, 12 Dec 2026 | Hemkade 48 | Amsterdam |
 
 ## Recently played
 

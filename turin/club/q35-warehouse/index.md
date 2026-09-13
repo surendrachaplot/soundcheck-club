@@ -1,8 +1,8 @@
 # Q35 WAREHOUSE
 
-Q35 WAREHOUSE is a music venue in Turin with 12 upcoming nights listed on soundcheck as of Sun, 13 Sept 2026; the next is "Yanamaste (MutualRytm /GE), WINDFUHR (EersteCommunie /DE) Teeo Kristo" on Sat, 19 Sept 2026.
+Q35 WAREHOUSE is a music venue in Turin with 13 upcoming nights listed on soundcheck as of Sun, 13 Sept 2026; the next is "Yanamaste (MutualRytm /GE), WINDFUHR (EersteCommunie /DE) Teeo Kristo" on Sat, 19 Sept 2026.
 
-Q35 WAREHOUSE is a music venue in Turin listed on soundcheck. 12 upcoming nights, with line-ups including Aberra, Daniel Avery, Gabber Eleganza and Héctor Oaks and 2 more. Browse upcoming dates, start times and who's playing. Lungo Dora Firenze 131/A.
+Q35 WAREHOUSE is a music venue in Turin listed on soundcheck. 13 upcoming nights, with line-ups including Aberra, Daniel Avery, Ellen Allien and Gabber Eleganza and 2 more. Browse upcoming dates, start times and who's playing. Lungo Dora Firenze 131/A.
 
 ## What's on
 

@@ -1,8 +1,8 @@
 # Quarters
 
-Quarters is a music venue in Brighton with 17 upcoming nights listed on soundcheck as of Sun, 13 Sept 2026; the next is "Sofia Kourtesis" on Fri, 18 Sept 2026.
+Quarters is a music venue in Brighton with 18 upcoming nights listed on soundcheck as of Sun, 13 Sept 2026; the next is "Sofia Kourtesis" on Fri, 18 Sept 2026.
 
-Quarters is a music venue in Brighton listed on soundcheck. 17 upcoming nights, with line-ups including 4am Kru, ADR (UK), Andy C and Basstripper and 2 more. Browse upcoming dates, start times and who's playing. 187-193 Kings Road, Brighton, BN1 1NB.
+Quarters is a music venue in Brighton listed on soundcheck. 18 upcoming nights, with line-ups including 4am Kru, ADR (UK), Andy C and Basstripper and 2 more. Browse upcoming dates, start times and who's playing. 187-193 Kings Road, Brighton, BN1 1NB.
 
 ## What's on
 

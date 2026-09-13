@@ -1,14 +1,13 @@
 # Chee Shimizu
 
-Chee Shimizu is a House and Balearic artist with 4 upcoming club dates listed on soundcheck as of Sun, 13 Sept 2026, next at Nowadays, New York City on Sat, 12 Sept 2026.
+Chee Shimizu is a House and Balearic artist with 3 upcoming club dates listed on soundcheck as of Sun, 13 Sept 2026, next at Fort Mifflin, Philadelphia on Fri, 18 Sept 2026.
 
-Chee Shimizu is a house and balearic artist based in Japan, tracked on soundcheck, with 34 sets logged across Bali, Losangeles, Melbourne and Newyorkcity and 2 more. Often billed alongside AKIRAM EN, Justin Carter and Dr. Nishimura. Next up: Nowadays, Newyorkcity on Sat 12 Sept.
+Chee Shimizu is a house and balearic artist based in Japan, tracked on soundcheck, with 34 sets logged across Bali, Losangeles, Melbourne and Newyorkcity and 2 more. Often billed alongside AKIRAM EN, Justin Carter and Dr. Nishimura. Next up: Fort Mifflin, Philadelphia on Fri 18 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 12 Sept 2026 | Nowadays | New York City |
 | Fri, 18 Sept 2026 | Fort Mifflin | Philadelphia |
 | Sat, 19 Sept 2026 | TBA - Private Loft | New York City |
 | Sun, 11 Oct 2026 | Bonobo | Tokyo |

@@ -1,8 +1,8 @@
 # Blvck Water
 
-Blvck Water is a music venue in Osaka with 10 upcoming nights listed on soundcheck as of Sun, 13 Sept 2026; the next is "Shiva" on Sun, 13 Sept 2026.
+Blvck Water is a music venue in Osaka with 11 upcoming nights listed on soundcheck as of Sun, 13 Sept 2026; the next is "Shiva" on Sun, 13 Sept 2026.
 
-Blvck Water is a music venue in Osaka listed on soundcheck. 10 upcoming nights, with line-ups including amor (JP), dyn (JP), EVE (1) and FENGX2 and 2 more. Browse upcoming dates, start times and who's playing. B1F Grace Soemoncho Bldg., 7-6 Soemoncho, Chuo-ku, Osaka.
+Blvck Water is a music venue in Osaka listed on soundcheck. 11 upcoming nights, with line-ups including amor (JP), dyn (JP), EMIRI TSUKUI and EVE (1) and 2 more. Browse upcoming dates, start times and who's playing. B1F Grace Soemoncho Bldg., 7-6 Soemoncho, Chuo-ku, Osaka.
 
 ## What's on
 
@@ -13,11 +13,11 @@ Blvck Water is a music venue in Osaka listed on soundcheck. 10 upcoming nights, 
 | Wed, 16 Sept 2026 | RHYTHM SHIFT Vol.18 - Nomadic | WOLT |
 | Fri, 18 Sept 2026 | HARD TECHNO 'CRACKS' with neqr, FENGX2, ANKHofLIFE, ZAGUN, Shuk00, inudog system | FENGX2, ZAGUN, inudog system |
 | Tue, 22 Sept 2026 | 'sutura'×DELTA TECHNO ADDICT at Night Club Blvck Water SPECIAL COLLABORATION | LIZA (6), Liza, ZAGUN, amor (JP) |
+| Wed, 23 Sept 2026 | RHYTHM SHIFT Vol.19 with EMIRI (Zenon Records) | EMIRI TSUKUI, WOLT |
 | Fri, 25 Sept 2026 | HARD TECHNO 'CRACKS' with FUJI TRILL, FENGX2, Frank Rayo, ZAGUN | FENGX2, FUJI TRILL, Frank Rayo, ZAGUN |
 | Sun, 27 Sept 2026 | FRONT LINE in OSAKA |  |
 | Tue, 29 Sept 2026 | 'sutura' TECHNO ADDICT at Night Club Blvck Water with DJ Kaoll | ZAGUN, amor (JP), dyn (JP) |
 | Fri, 9 Oct 2026 | HARD TECHNO 'CRACKS' with EVE, FENGX2 | EVE (1), FENGX2 |
-| Fri, 30 Oct 2026 | HARD TECHNO 'CRACKS' with Messiahwaits(MHz, Berilin), FENGX2 | FENGX2 |
 
 ## Address
 

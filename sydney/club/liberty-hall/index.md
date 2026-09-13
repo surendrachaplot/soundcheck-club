@@ -1,8 +1,8 @@
 # Liberty Hall
 
-Liberty Hall is a music venue in Sydney with 6 upcoming nights listed on soundcheck as of Sun, 13 Sept 2026; the next is "Franck [Sydney] All Night Long" on Fri, 18 Sept 2026.
+Liberty Hall is a music venue in Sydney with 7 upcoming nights listed on soundcheck as of Sun, 13 Sept 2026; the next is "Franck [Sydney] All Night Long" on Fri, 18 Sept 2026.
 
-Liberty Hall is a music venue in Sydney listed on soundcheck. 6 upcoming nights, with line-ups including Bria, franck, Gilles Peterson and Kamma and 2 more. Browse upcoming dates, start times and who's playing. Entertainment Quarter, Building 220, The, Lang Rd, Moore Park NSW 2021.
+Liberty Hall is a music venue in Sydney listed on soundcheck. 7 upcoming nights, with line-ups including Bria, franck, Gilles Peterson and Kamma and 2 more. Browse upcoming dates, start times and who's playing. Entertainment Quarter, Building 220, The, Lang Rd, Moore Park NSW 2021.
 
 ## What's on
 
@@ -14,6 +14,7 @@ Liberty Hall is a music venue in Sydney listed on soundcheck. 6 upcoming nights,
 | Sat, 21 Nov 2026 | STERLING W/ Silva Bumpa (AFTER PARTY) - SYDNEY - Liberty Hall | Silva Bumpa |
 | Sun, 29 Nov 2026 | Kerri Chandler - Liberty Hall COURTS - SYD | Kerri Chandler, Reenie, Simon Caldwell |
 | Fri, 11 Dec 2026 | JIGITZ — 50 BALLERINAS TOUR - SYDNEY |  |
+| Sat, 12 Dec 2026 | Moktar - SYDNEY - Liberty Hall | Killian, Moktar, Roza Terenzi |
 
 ## Address
 

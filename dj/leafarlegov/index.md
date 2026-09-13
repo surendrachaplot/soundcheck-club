@@ -1,14 +1,14 @@
 # Leafar Legov
 
-Leafar Legov is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Sun, 13 Sept 2026, next at TBA - VANCOUVER, Vancouver on Sun, 13 Sept 2026.
+Leafar Legov is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Sun, 13 Sept 2026, next at TBA - Fortress - 319 West Hastings, Vancouver on Sun, 13 Sept 2026.
 
-Leafar Legov is a house and techno artist tracked on soundcheck, with 99 sets logged across Amsterdam, Antwerp, Bali and Barcelona and 32 more. Often billed alongside Konstantin, Edward and Map.ache. Next up: TBA - VANCOUVER, Vancouver on Sun 13 Sept.
+Leafar Legov is a house and techno artist tracked on soundcheck, with 99 sets logged across Amsterdam, Antwerp, Bali and Barcelona and 32 more. Often billed alongside Konstantin, Edward and Map.ache. Next up: TBA - Fortress - 319 West Hastings, Vancouver on Sun 13 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sun, 13 Sept 2026 | TBA - VANCOUVER | Vancouver |
+| Sun, 13 Sept 2026 | TBA - Fortress - 319 West Hastings | Vancouver |
 | Wed, 16 Sept 2026 | The Foundry | San Francisco/Oakland |
 | Sat, 26 Sept 2026 | Haus der Visionäre | Berlin |
 | Sun, 25 Oct 2026 | Klaproos | Amsterdam |

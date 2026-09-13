@@ -1,8 +1,8 @@
 # Sin:port
 
-Sin:port is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Sun, 13 Sept 2026, next at Kater, Berlin on Fri, 18 Sept 2026.
+Sin:port is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Sun, 13 Sept 2026, next at Kater, Berlin on Fri, 18 Sept 2026.
 
-Sin:port is a techno and house artist tracked on soundcheck, with 131 sets logged across Berlin, Budapest, Cologne and Frankfurt and 7 more. Often billed alongside Maurice Mino, Leon Licht and Sabura. Next up: Kater, Berlin on Fri 18 Sept.
+Sin:port is a techno and house artist tracked on soundcheck, with 132 sets logged across Berlin, Budapest, Cologne and Frankfurt and 7 more. Often billed alongside Maurice Mino, Leon Licht and Sabura. Next up: Kater, Berlin on Fri 18 Sept.
 
 ## Upcoming shows
 
@@ -12,6 +12,7 @@ Sin:port is a techno and house artist tracked on soundcheck, with 131 sets logge
 | Fri, 25 Sept 2026 | Die Rakete | Nürnberg |
 | Sat, 26 Sept 2026 | Bahnwärter Thiel | Munich |
 | Fri, 16 Oct 2026 | Renate | Berlin |
+| Fri, 23 Oct 2026 | TBA - Secret Location | Berlin |
 | Sat, 14 Nov 2026 | Odonien | Cologne |
 
 ## Recently played

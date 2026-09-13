@@ -1,13 +1,14 @@
 # Daora
 
-Daora is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Sun, 13 Sept 2026, next at Kulturbrauerei, Berlin on Sat, 31 Oct 2026.
+Daora is a Techno and Electro artist with 2 upcoming club dates listed on soundcheck as of Sun, 13 Sept 2026, next at KitKatClub, Berlin on Sun, 25 Oct 2026.
 
-Daora is a techno and electro artist tracked on soundcheck, with 95 sets logged across Berlin. Often billed alongside Gerrit X, Momentune and monervo. Next up: Kulturbrauerei, Berlin on Sat 31 Oct.
+Daora is a techno and electro artist tracked on soundcheck, with 96 sets logged across Berlin. Often billed alongside Gerrit X, Momentune and monervo. Next up: KitKatClub, Berlin on Sun 25 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sun, 25 Oct 2026 | KitKatClub | Berlin |
 | Sat, 31 Oct 2026 | Kulturbrauerei | Berlin |
 
 ## Recently played

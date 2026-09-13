@@ -1,14 +1,13 @@
 # NILU
 
-NILU is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Sun, 13 Sept 2026, next at Byhaven, Copenhagen on Sun, 13 Sept 2026.
+NILU is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Sun, 13 Sept 2026, next at Culture Box, Copenhagen on Sat, 19 Sept 2026.
 
-NILU is a house and techno artist tracked on soundcheck, with 112 sets logged across Amsterdam, Berlin, Copenhagen and Geneva and 4 more. Often billed alongside Aja Gulris, Tim Andresen and Frede (NO). Next up: Byhaven, Copenhagen on Sun 13 Sept.
+NILU is a house and techno artist tracked on soundcheck, with 112 sets logged across Amsterdam, Berlin, Copenhagen and Geneva and 4 more. Often billed alongside Aja Gulris, Tim Andresen and Frede (NO). Next up: Culture Box, Copenhagen on Sat 19 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sun, 13 Sept 2026 | Byhaven | Copenhagen |
 | Sat, 19 Sept 2026 | Culture Box | Copenhagen |
 | Fri, 2 Oct 2026 | Culture Box | Copenhagen |
 | Sat, 3 Oct 2026 | Hangaren | Copenhagen |

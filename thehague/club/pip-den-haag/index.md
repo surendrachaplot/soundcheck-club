@@ -1,8 +1,8 @@
 # PIP Den Haag
 
-PIP Den Haag is a music venue in The Hague with 8 upcoming nights listed on soundcheck as of Sun, 13 Sept 2026; the next is "Afra invites Steve Rachmad & Queen Saba" on Sat, 19 Sept 2026.
+PIP Den Haag is a music venue in The Hague with 9 upcoming nights listed on soundcheck as of Sun, 13 Sept 2026; the next is "Afra invites Steve Rachmad & Queen Saba" on Sat, 19 Sept 2026.
 
-PIP Den Haag is a music venue in Thehague listed on soundcheck. 8 upcoming nights, with line-ups including Afra, Intergalactic Gary, Jeans (NL) and Lobster (NL) and 2 more. Browse upcoming dates, start times and who's playing. Binckhorstlaan 36; 2513 The Hague; Netherlands.
+PIP Den Haag is a music venue in Thehague listed on soundcheck. 9 upcoming nights, with line-ups including Afra, Intergalactic Gary, Jeans (NL) and Lobster (NL) and 2 more. Browse upcoming dates, start times and who's playing. Binckhorstlaan 36; 2513 The Hague; Netherlands.
 
 ## What's on
 
@@ -16,6 +16,7 @@ PIP Den Haag is a music venue in Thehague listed on soundcheck. 8 upcoming night
 | Fri, 30 Oct 2026 | PIP HALLOWEEN I |  |
 | Sat, 31 Oct 2026 | PIP HALLOWEEN II |  |
 | Sat, 5 Dec 2026 | PARISH |  |
+| Sat, 12 Dec 2026 | PIP x TRESOR |  |
 
 ## Address
 

@@ -1,14 +1,13 @@
 # Hotel Labtwentytwo
 
-Hotel Labtwentytwo is a music venue in Barcelona with 2 upcoming nights listed on soundcheck as of Sun, 13 Sept 2026; the next is "AYLA - Coffee Rave BCN - Vol. 4 +200 PAX from LUMA" on Sun, 13 Sept 2026.
+Hotel Labtwentytwo is a music venue in Barcelona with 1 upcoming night listed on soundcheck as of Sun, 13 Sept 2026; the next is "{Last 30 tickets} Funkey rooftop (open air)" on Sat, 19 Sept 2026.
 
-Hotel Labtwentytwo is a music venue in Barcelona listed on soundcheck. 2 upcoming nights, with line-ups including Carol DOP and Jordi Carreras. Browse upcoming dates, start times and who's playing. Calle de peru 102, Barcelona, 08018, Spain.
+Hotel Labtwentytwo is a music venue in Barcelona listed on soundcheck. 1 upcoming night, with line-ups including Jordi Carreras. Browse upcoming dates, start times and who's playing. Calle de peru 102, Barcelona, 08018, Spain.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sun, 13 Sept 2026 | AYLA - Coffee Rave BCN - Vol. 4 +200 PAX from LUMA | Carol DOP |
 | Sat, 19 Sept 2026 | {Last 30 tickets} Funkey rooftop (open air) | Jordi Carreras |
 
 ## Address

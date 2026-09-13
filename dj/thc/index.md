@@ -1,14 +1,13 @@
 # THC
 
-THC is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Sun, 13 Sept 2026, next at Camp Kennybrook, New York City on Thu, 10 Sept 2026.
+THC is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Sun, 13 Sept 2026, next at TILLATEC, Amsterdam on Sat, 19 Sept 2026.
 
-THC is a house and techno artist tracked on soundcheck, with 203 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 43 more. Often billed alongside DHC, S-candalo and Byron Yeates. Next up: Camp Kennybrook, Newyorkcity on Thu 10 Sept.
+THC is a house and techno artist tracked on soundcheck, with 203 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 43 more. Often billed alongside DHC, S-candalo and Byron Yeates. Next up: TILLATEC, Amsterdam on Sat 19 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Thu, 10 Sept 2026 | Camp Kennybrook | New York City |
 | Sat, 19 Sept 2026 | TILLATEC | Amsterdam |
 | Sat, 26 Sept 2026 | La Cité Fertile | Paris |
 | Sat, 31 Oct 2026 | FOLD | London |

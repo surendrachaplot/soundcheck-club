@@ -1,8 +1,8 @@
 # ROOG
 
-ROOG is a House and Tech House artist with 9 upcoming club dates listed on soundcheck as of Sun, 13 Sept 2026, next at Millers Beach, The Hague on Sun, 13 Sept 2026.
+ROOG is a House and Tech House artist with 10 upcoming club dates listed on soundcheck as of Sun, 13 Sept 2026, next at Millers Beach, The Hague on Sun, 13 Sept 2026.
 
-ROOG is a house and tech house artist tracked on soundcheck, with 77 sets logged across Amsterdam, Ibiza, Liverpool and Rotterdam and 2 more. Often billed alongside Erick E, Alexander Koning and Lucien Foort. Next up: Millers Beach, Thehague on Sun 13 Sept.
+ROOG is a house and tech house artist tracked on soundcheck, with 78 sets logged across Amsterdam, Ibiza, Liverpool and Rotterdam and 2 more. Often billed alongside Erick E, Alexander Koning and Lucien Foort. Next up: Millers Beach, Thehague on Sun 13 Sept.
 
 ## Upcoming shows
 
@@ -17,6 +17,7 @@ ROOG is a house and tech house artist tracked on soundcheck, with 77 sets logged
 | Sat, 31 Oct 2026 | Grand Hotel Amrâth Kurhaus | The Hague |
 | Sat, 14 Nov 2026 | Warehouse Elementenstraat | Amsterdam |
 | Sat, 28 Nov 2026 | TivoliVredenburg | Utrecht |
+| Sat, 12 Dec 2026 | Thuishaven | Amsterdam |
 
 ## Recently played
 

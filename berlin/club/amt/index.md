@@ -16,7 +16,7 @@ AMT is a music venue in Berlin listed on soundcheck. 10 upcoming nights, with li
 | Sat, 24 Oct 2026 | Brace Brace im Bunker (2 Floors) | DJesse, Isoskeles, Johænsson, Multifun, OXOPOHA, _minted, gem.ini |
 | Sat, 31 Oct 2026 | PUDDINGS pres. SCREAM QUEEN's |  |
 | Fri, 6 Nov 2026 | AИDƎRS @ AMT CLUB with Saytek - Live - , Somaphon , Kalimanda (S+) | Kalimanda, Rene Oldenburg, Saytek, Somaphon |
-| Sat, 7 Nov 2026 | deep method | GEST (UK), Kenzura, Mc Jamie White, PRTCL, Sammy B - deviate, yungfya |
+| Sat, 7 Nov 2026 | deep method: QZB, GEST, yungfya & more | GEST (UK), Kenzura, Mc Jamie White, PRTCL, Sammy B - deviate, yungfya |
 | Fri, 13 Nov 2026 | CLASH | ALAN JOE, Bill Sanders, Danny Roach, Esther Dune |
 
 *Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/amt/)*

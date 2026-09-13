@@ -1,14 +1,13 @@
 # Mike Midnight
 
-Mike Midnight is a Downtempo and Electronica artist with 4 upcoming club dates listed on soundcheck as of Sun, 13 Sept 2026, next at Camp Kennybrook, New York City on Thu, 10 Sept 2026.
+Mike Midnight is a Downtempo and Electronica artist with 3 upcoming club dates listed on soundcheck as of Sun, 13 Sept 2026, next at Nowadays, New York City on Wed, 16 Sept 2026.
 
-Mike Midnight is a downtempo and electronica artist based in Australia, tracked on soundcheck, with 38 sets logged across Athens, Berlin, Copenhagen and Lisbon and 9 more. Often billed alongside Paper-Cuts, Roza Terenzi and Miscmeg. Next up: Camp Kennybrook, Newyorkcity on Thu 10 Sept.
+Mike Midnight is a downtempo and electronica artist based in Australia, tracked on soundcheck, with 38 sets logged across Athens, Berlin, Copenhagen and Lisbon and 9 more. Often billed alongside Paper-Cuts, Roza Terenzi and Miscmeg. Next up: Nowadays, Newyorkcity on Wed 16 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Thu, 10 Sept 2026 | Camp Kennybrook | New York City |
 | Wed, 16 Sept 2026 | Nowadays | New York City |
 | Thu, 17 Sept 2026 | public records | New York City |
 | Fri, 18 Sept 2026 | Fort Mifflin | Philadelphia |

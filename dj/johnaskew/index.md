@@ -1,8 +1,8 @@
 # John Askew
 
-John Askew is a Trance and Techno artist with 2 upcoming club dates listed on soundcheck as of Sun, 13 Sept 2026, next at The Queen Mary, Los Angeles on Fri, 20 Nov 2026.
+John Askew is a Trance and Techno artist with 3 upcoming club dates listed on soundcheck as of Sun, 13 Sept 2026, next at The Queen Mary, Los Angeles on Fri, 20 Nov 2026.
 
-John Askew is a trance and techno artist tracked on soundcheck, with 15 sets logged across Bangkok, Barcelona, Edinburgh and Leeds and 6 more. Often billed alongside Simon Patterson, DJ 34 and FUMOFFU. Next up: The Queen Mary, Losangeles on Fri 20 Nov.
+John Askew is a trance and techno artist tracked on soundcheck, with 16 sets logged across Bangkok, Barcelona, Brighton and Edinburgh and 7 more. Often billed alongside Simon Patterson, DJ 34 and FUMOFFU. Next up: The Queen Mary, Losangeles on Fri 20 Nov.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ John Askew is a trance and techno artist tracked on soundcheck, with 15 sets log
 | --- | --- | --- |
 | Fri, 20 Nov 2026 | The Queen Mary | Los Angeles |
 | Sat, 5 Dec 2026 | ZEROTOKYO | Tokyo |
+| Sat, 12 Dec 2026 | Quarters | Brighton |
 
 ## Recently played
 

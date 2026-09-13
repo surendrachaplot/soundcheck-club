@@ -1,8 +1,8 @@
 # Redfreya
 
-Redfreya is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sun, 13 Sept 2026, next at fabric, London on Sat, 3 Oct 2026.
+Redfreya is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Sun, 13 Sept 2026, next at fabric, London on Sat, 3 Oct 2026.
 
-Redfreya is a house and techno artist based in United Kingdom, tracked on soundcheck, with 73 sets logged across Amsterdam, Berlin, Bristol and Cardiff and 6 more. Often billed alongside Rebecca Gough, Carina Lawrence and John Digweed. Next up: fabric, London on Sat 3 Oct.
+Redfreya is a house and techno artist based in United Kingdom, tracked on soundcheck, with 74 sets logged across Amsterdam, Berlin, Bristol and Cardiff and 6 more. Often billed alongside Rebecca Gough, Carina Lawrence and Motip White. Next up: fabric, London on Sat 3 Oct.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Redfreya is a house and techno artist based in United Kingdom, tracked on soundc
 | --- | --- | --- |
 | Sat, 3 Oct 2026 | fabric | London |
 | Sat, 17 Oct 2026 | Kater | Berlin |
+| Sat, 12 Dec 2026 | E1 | London |
 
 ## Recently played
 
@@ -24,6 +25,6 @@ Redfreya is a house and techno artist based in United Kingdom, tracked on soundc
 
 ## Shares bills with
 
-Rebecca Gough, Carina Lawrence, John Digweed
+Rebecca Gough, Carina Lawrence, Motip White
 
 *Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/redfreya/)*

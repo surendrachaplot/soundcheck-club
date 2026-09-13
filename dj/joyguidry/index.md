@@ -1,14 +1,13 @@
 # Joy Guidry
 
-Joy Guidry is a Techno and Experimental artist with 3 upcoming club dates listed on soundcheck as of Sun, 13 Sept 2026, next at Camp Kennybrook, New York City on Thu, 10 Sept 2026.
+Joy Guidry is a Techno and Experimental artist with 2 upcoming club dates listed on soundcheck as of Sun, 13 Sept 2026, next at Fort Mifflin, Philadelphia on Fri, 18 Sept 2026.
 
-Joy Guidry is a techno and experimental artist based in United States of America, tracked on soundcheck, with 13 sets logged across Berlin, Bristol, Brussels and Detroit and 4 more. Often billed alongside CCL, Juliana Huxtable and upsammy. Next up: Camp Kennybrook, Newyorkcity on Thu 10 Sept.
+Joy Guidry is a techno and experimental artist based in United States of America, tracked on soundcheck, with 13 sets logged across Berlin, Bristol, Brussels and Detroit and 4 more. Often billed alongside CCL, Juliana Huxtable and upsammy. Next up: Fort Mifflin, Philadelphia on Fri 18 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Thu, 10 Sept 2026 | Camp Kennybrook | New York City |
 | Fri, 18 Sept 2026 | Fort Mifflin | Philadelphia |
 | Sat, 7 Nov 2026 | Various Venues, Bristol | Bristol |
 

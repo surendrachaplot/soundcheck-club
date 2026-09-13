@@ -1,8 +1,8 @@
 # Nicky Elisabeth
 
-Nicky Elisabeth is a Techno and House artist with 7 upcoming club dates listed on soundcheck as of Sun, 13 Sept 2026, next at Openluchttheater Amersfoort, Amsterdam on Fri, 18 Sept 2026.
+Nicky Elisabeth is a Techno and House artist with 8 upcoming club dates listed on soundcheck as of Sun, 13 Sept 2026, next at Openluchttheater Amersfoort, Amsterdam on Fri, 18 Sept 2026.
 
-Nicky Elisabeth is a techno and house artist tracked on soundcheck, with 87 sets logged across Amsterdam, Austin, Basel and Berlin and 21 more. Often billed alongside CRi, Jody Wisternoff and Rezident. Next up: Openluchttheater Amersfoort, Amsterdam on Fri 18 Sept.
+Nicky Elisabeth is a techno and house artist tracked on soundcheck, with 88 sets logged across Amsterdam, Austin, Basel and Berlin and 21 more. Often billed alongside CRi, Jody Wisternoff and Rezident. Next up: Openluchttheater Amersfoort, Amsterdam on Fri 18 Sept.
 
 ## Upcoming shows
 
@@ -15,6 +15,7 @@ Nicky Elisabeth is a techno and house artist tracked on soundcheck, with 87 sets
 | Thu, 22 Oct 2026 | Paradiso | Amsterdam |
 | Fri, 23 Oct 2026 | NDSM Scheepsbouwloods | Amsterdam |
 | Fri, 4 Dec 2026 | TivoliVredenburg | Utrecht |
+| Sat, 12 Dec 2026 | The Cause | London |
 
 ## Recently played
 

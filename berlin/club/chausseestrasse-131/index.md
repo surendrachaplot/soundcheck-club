@@ -9,7 +9,7 @@ Chausseestrasse 131 is a music venue in Berlin listed on soundcheck. 2 upcoming 
 | Date | Night | Line-up |
 | --- | --- | --- |
 | Sat, 19 Sept 2026 | SKINS | Aimé You, Daisy Weweh, HAMY, Loodas, MIKA G, Neoji |
-| Sat, 10 Oct 2026 | The Night of Many / Burre  |  |
+| Sat, 10 Oct 2026 | The Night of Many / Burre x forever unlimited |  |
 
 ## Address
 
