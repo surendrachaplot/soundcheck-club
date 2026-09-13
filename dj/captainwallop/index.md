@@ -1,6 +1,6 @@
 # Captain Wallop
 
-Captain Wallop is a Garage and House artist with 11 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at The Croft, Bristol on Fri, 18 Sept 2026.
+Captain Wallop is a Garage and House artist with 11 upcoming club dates listed on soundcheck as of Sun, 13 Sept 2026, next at The Croft, Bristol on Fri, 18 Sept 2026.
 
 Captain Wallop is a garage and house artist tracked on soundcheck, with 50 sets logged across Amsterdam, Barcelona, Birmingham and Brighton and 11 more. Often billed alongside RTK Tarantino, DAISY and MADVILLA. Next up: The Croft, Bristol on Fri 18 Sept.
 
@@ -35,4 +35,4 @@ Captain Wallop is a garage and house artist tracked on soundcheck, with 50 sets 
 
 RTK Tarantino, DAISY, MADVILLA
 
-*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/captainwallop/)*
+*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/captainwallop/)*

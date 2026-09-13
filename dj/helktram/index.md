@@ -1,6 +1,6 @@
 # HELKTRAM
 
-HELKTRAM is a Bass and Dubstep artist with 1 upcoming club date listed on soundcheck as of Sat, 12 Sept 2026, next at clubasia, Tokyo on Sat, 26 Sept 2026.
+HELKTRAM is a Bass and Dubstep artist with 1 upcoming club date listed on soundcheck as of Sun, 13 Sept 2026, next at clubasia, Tokyo on Sat, 26 Sept 2026.
 
 HELKTRAM is a bass and dubstep artist tracked on soundcheck, with 38 sets logged across Tokyo. Often billed alongside Goth-Trad, CITY1 and yuitty. Next up: clubasia, Tokyo on Sat 26 Sept.
 
@@ -25,4 +25,4 @@ HELKTRAM is a bass and dubstep artist tracked on soundcheck, with 38 sets logged
 
 Goth-Trad, CITY1, yuitty
 
-*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/helktram/)*
+*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/helktram/)*

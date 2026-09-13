@@ -1,14 +1,13 @@
 # Arts Club
 
-Arts Club is a music venue in Liverpool with 11 upcoming nights listed on soundcheck as of Sat, 12 Sept 2026; the next is "Unit.90 Saturdays @ Arts Club" on Sat, 12 Sept 2026.
+Arts Club is a music venue in Liverpool with 10 upcoming nights listed on soundcheck as of Sun, 13 Sept 2026; the next is "Tek Noire - BAPTISM" on Thu, 17 Sept 2026.
 
-Arts Club is a music venue in Liverpool listed on soundcheck. 11 upcoming nights, with line-ups including 1-800 GIRLS, Basswell, Beaux and Dom Townsend and 2 more. Browse upcoming dates, start times and who's playing. 90 Seel Street; Liverpool; L1 4BH; United Kingdom.
+Arts Club is a music venue in Liverpool listed on soundcheck. 10 upcoming nights, with line-ups including 1-800 GIRLS, Basswell, Beaux and Dom Townsend and 2 more. Browse upcoming dates, start times and who's playing. 90 Seel Street; Liverpool; L1 4BH; United Kingdom.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 12 Sept 2026 | Unit.90 Saturdays @ Arts Club |  |
 | Thu, 17 Sept 2026 | Tek Noire - BAPTISM |  |
 | Fri, 18 Sept 2026 | Harder Disørder: Intimate Hard Rave 360 GO$PEL + OUTRAGE |  |
 | Fri, 18 Sept 2026 | Mr Traumatik tour 2026 ft Elro |  |
@@ -18,9 +17,10 @@ Arts Club is a music venue in Liverpool listed on soundcheck. 11 upcoming nights
 | Fri, 16 Oct 2026 | Bass Face // DNB, 140, BASS, GRIME // 360° BOILER ROOM *VERY SPECIAL GUESTS*! LAST FREE TICKETS |  |
 | Sun, 18 Oct 2026 | Beaux at Arts Club | Beaux |
 | Sat, 24 Oct 2026 | Love to be... Liverpool | Dom Townsend, Jade Edwards, Sam Divine, Trimtone |
+| Fri, 6 Nov 2026 | KSK Presents : FRAW + BASSWELL | Basswell |
 
 ## Address
 
 90 Seel Street; Liverpool; L1 4BH; United Kingdom, Liverpool
 
-*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/liverpool/club/arts-club/)*
+*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/liverpool/club/arts-club/)*

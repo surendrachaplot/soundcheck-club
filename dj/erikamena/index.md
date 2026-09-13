@@ -1,6 +1,6 @@
 # Erika Mena
 
-Erika Mena is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 12 Sept 2026, next at Departamento, Mexico City on Wed, 9 Sept 2026.
+Erika Mena is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sun, 13 Sept 2026, next at Departamento, Mexico City on Wed, 9 Sept 2026.
 
 Erika Mena is a techno and house artist based in Mexico, tracked on soundcheck, with 29 sets logged across Mexicocity. Often billed alongside Enya Botello, Celice Monnette and Lake Chalco. Next up: Departamento, Mexicocity on Wed 9 Sept.
 
@@ -25,4 +25,4 @@ Erika Mena is a techno and house artist based in Mexico, tracked on soundcheck, 
 
 Enya Botello, Celice Monnette, Lake Chalco
 
-*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/erikamena/)*
+*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/erikamena/)*

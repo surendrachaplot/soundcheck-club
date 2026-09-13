@@ -1,14 +1,13 @@
 # Lula Club
 
-Lula Club is a music venue in Madrid with 23 upcoming nights listed on soundcheck as of Sat, 12 Sept 2026; the next is "Desiree - RACE WEEKEND" on Sat, 12 Sept 2026.
+Lula Club is a music venue in Madrid with 22 upcoming nights listed on soundcheck as of Sun, 13 Sept 2026; the next is "Francis Mercier - RACE WEEKEND" on Sun, 13 Sept 2026.
 
-Lula Club is a music venue in Madrid listed on soundcheck. 23 upcoming nights, with line-ups including AARON SEVILLA, Adam Ten, AJNA and Andrea Oliva and 2 more. Browse upcoming dates, start times and who's playing. Gran Via 54.
+Lula Club is a music venue in Madrid listed on soundcheck. 22 upcoming nights, with line-ups including AARON SEVILLA, Adam Ten, AJNA and Andrea Oliva and 2 more. Browse upcoming dates, start times and who's playing. Gran Via 54.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 12 Sept 2026 | Desiree - RACE WEEKEND | DESIREE (RSA) |
 | Sun, 13 Sept 2026 | Francis Mercier - RACE WEEKEND | Francis Mercier |
 | Thu, 17 Sept 2026 | THURSDAY NIGHT |  |
 | Fri, 18 Sept 2026 | Afrodise X MOOTS | AARON SEVILLA, Claudia León |
@@ -18,9 +17,10 @@ Lula Club is a music venue in Madrid listed on soundcheck. 23 upcoming nights, w
 | Sat, 26 Sept 2026 | BARBOSSA & FRIENDS | Sparrow & Barbossa |
 | Fri, 2 Oct 2026 | Samm B2B AJNA | AJNA, Samm |
 | Sat, 3 Oct 2026 | Bendita Locura x Connect with Prunk | Prunk |
+| Fri, 9 Oct 2026 | Andrea Oliva | Andrea Oliva |
 
 ## Address
 
 Gran Via 54, Madrid
 
-*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/lula-club/)*
+*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/lula-club/)*

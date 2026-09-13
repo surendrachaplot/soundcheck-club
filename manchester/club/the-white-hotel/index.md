@@ -1,6 +1,6 @@
 # The White Hotel
 
-The White Hotel is a music venue in Manchester with 38 upcoming nights listed on soundcheck as of Sat, 12 Sept 2026; the next is "Main Phase / Darwin / Zuri" on Sat, 12 Sept 2026.
+The White Hotel is a music venue in Manchester with 38 upcoming nights listed on soundcheck as of Sun, 13 Sept 2026; the next is "JK Flesh" on Thu, 17 Sept 2026.
 
 The White Hotel is a music venue in Manchester listed on soundcheck. 38 upcoming nights, with line-ups including Fastlove, ABADIR, Abena and Ana Roxanne and 2 more. Browse upcoming dates, start times and who's playing. Dickinson Street Salford M3 7LW, United Kingdom.
 
@@ -8,9 +8,9 @@ The White Hotel is a music venue in Manchester listed on soundcheck. 38 upcoming
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 12 Sept 2026 | Main Phase / Darwin / Zuri | Darwin, Main Phase, Zuri |
 | Thu, 17 Sept 2026 | JK Flesh | JK Flesh |
 | Fri, 18 Sept 2026 | Pangaea / Bitter Babe / Henzo | Bitter Babe, Henzo, Pangaea |
+| Sat, 19 Sept 2026 | *[Rescheduled to SEP 19] Shanti Celeste {DAY ~ from beginning till end}  | Shanti Celeste |
 | Sat, 19 Sept 2026 | TAYHANA / Anderson do Paraiso / Kelman Duran / Kusasa | Kelman Duran, Kusasa, TAYHANA |
 | Sun, 20 Sept 2026 | Sunday Club - Shy One, Chunky, Finn, BFTT & Esqueezy | BFTT, Chunky, Esqueezy, Finn, Shy One |
 | Wed, 23 Sept 2026 | SELN presents Celebrating New Industrial: Years of Denial, Imminent [live], Esmé, Conrad + Gonz | Conrad Pack, DJ Gonz, Esmé, Years of Denial |
@@ -23,4 +23,4 @@ The White Hotel is a music venue in Manchester listed on soundcheck. 38 upcoming
 
 Dickinson Street Salford M3 7LW, United Kingdom, Manchester
 
-*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/the-white-hotel/)*
+*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/the-white-hotel/)*

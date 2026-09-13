@@ -1,14 +1,13 @@
 # Jakes
 
-Jakes is a Drum & Bass and Jungle artist with 6 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Sawmills, Bristol on Sat, 12 Sept 2026.
+Jakes is a Drum & Bass and Jungle artist with 5 upcoming club dates listed on soundcheck as of Sun, 13 Sept 2026, next at DRUMSHEDS, London on Sat, 17 Oct 2026.
 
-Jakes is a drum & bass and jungle artist tracked on soundcheck, with 64 sets logged across Bali, Bristol, Bucharest and Budapest and 5 more. Often billed alongside Carasel, SP:MC and Enei. Next up: Sawmills, Bristol on Sat 12 Sept.
+Jakes is a drum & bass and jungle artist tracked on soundcheck, with 64 sets logged across Bali, Bristol, Bucharest and Budapest and 5 more. Often billed alongside Carasel, SP:MC and Enei. Next up: DRUMSHEDS, London on Sat 17 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 12 Sept 2026 | Sawmills | Bristol |
 | Sat, 17 Oct 2026 | DRUMSHEDS | London |
 | Fri, 23 Oct 2026 | fabric | London |
 | Fri, 20 Nov 2026 | Thekla | Bristol |
@@ -17,6 +16,7 @@ Jakes is a drum & bass and jungle artist tracked on soundcheck, with 64 sets log
 
 ## Recently played
 
+- Sawmills, Bristol — Sat, 12 Sept 2026
 - fabric, London — Fri, 4 Sept 2026
 - Hackney Wick Multiple Venues, London — Sat, 1 Aug 2026
 - The Clock Factory, Bristol — Fri, 26 Jun 2026
@@ -24,10 +24,9 @@ Jakes is a drum & bass and jungle artist tracked on soundcheck, with 64 sets log
 - Beaver Works, Leeds — Fri, 20 Mar 2026
 - Onyx (E1), London — Fri, 6 Mar 2026
 - The Prospect Building, Bristol — Fri, 20 Feb 2026
-- The Prospect Building, Bristol — Sat, 14 Feb 2026
 
 ## Shares bills with
 
 Carasel, SP:MC, Enei
 
-*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jakes/)*
+*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jakes/)*

@@ -1,14 +1,13 @@
 # Nether Club
 
-Nether Club is a music venue in Bucharest with 7 upcoming nights listed on soundcheck as of Sat, 12 Sept 2026; the next is "some.techno@ Nether Club : blackout" on Sat, 12 Sept 2026.
+Nether Club is a music venue in Bucharest with 6 upcoming nights listed on soundcheck as of Sun, 13 Sept 2026; the next is "AFTERHOURS with badin b2b Cetateanu" on Sun, 13 Sept 2026.
 
-Nether Club is a music venue in Bucharest listed on soundcheck. 7 upcoming nights, with line-ups including CARMEN (RO), ALISTARM, AMEDEUS and Amnesico and 2 more. Browse upcoming dates, start times and who's playing. Calea Victoriei nr 48 50, București, Romania.
+Nether Club is a music venue in Bucharest listed on soundcheck. 6 upcoming nights, with line-ups including AMEDEUS, Amnesico, Cetateanu and DA NA and 2 more. Browse upcoming dates, start times and who's playing. Calea Victoriei nr 48 50, București, Romania.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 12 Sept 2026 | some.techno@ Nether Club : blackout | ALISTARM, CARMEN (RO), Controlled Voltage, Thomas Rob |
 | Sun, 13 Sept 2026 | AFTERHOURS with badin b2b Cetateanu | Cetateanu |
 | Fri, 18 Sept 2026 | M.I.L.K feat. 2H34RTB34TS present HARD R3S3T | AMEDEUS, Amnesico, DA NA, GODINI, KATHERYNE, LVUR, Sandraz, Stefan Hernandez, Trancelate |
 | Sat, 19 Sept 2026 | Viper Hard Techno |  |
@@ -20,4 +19,4 @@ Nether Club is a music venue in Bucharest listed on soundcheck. 7 upcoming night
 
 Calea Victoriei nr 48 50, București, Romania, Bucharest
 
-*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/bucharest/club/nether-club/)*
+*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/bucharest/club/nether-club/)*

@@ -1,14 +1,13 @@
 # Bar A Bar
 
-Bar A Bar is a music venue in London with 6 upcoming nights listed on soundcheck as of Sat, 12 Sept 2026; the next is "PM:AM - WEB" on Sat, 12 Sept 2026.
+Bar A Bar is a music venue in London with 5 upcoming nights listed on soundcheck as of Sun, 13 Sept 2026; the next is "Timeless: 18th September - Aniaef, DELARA, Modlar, StopThoseEvilBastards" on Fri, 18 Sept 2026.
 
-Bar A Bar is a music venue in London listed on soundcheck. 6 upcoming nights, with line-ups including Aniaef, Any Koh, Biji and DELARA and 2 more. Browse upcoming dates, start times and who's playing. 133-135 Stoke Newington Road; Stoke Newington; London N16 8BT; United Kingdom.
+Bar A Bar is a music venue in London listed on soundcheck. 5 upcoming nights, with line-ups including Aniaef, Any Koh, Biji and DELARA and 2 more. Browse upcoming dates, start times and who's playing. 133-135 Stoke Newington Road; Stoke Newington; London N16 8BT; United Kingdom.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 12 Sept 2026 | PM:AM - WEB | Photrix |
 | Fri, 18 Sept 2026 | Timeless: 18th September - Aniaef, DELARA, Modlar, StopThoseEvilBastards | Aniaef, DELARA, Modlar, StopThoseEvilBastards |
 | Sat, 26 Sept 2026 | ECHO 4 | Any Koh, D LAI, Folek, MPathy, SONI LOBO, winterburn |
 | Sat, 3 Oct 2026 | UNDERGROUND TALES | Biji, PETRU, Uakoz, illus1on |
@@ -19,4 +18,4 @@ Bar A Bar is a music venue in London listed on soundcheck. 6 upcoming nights, wi
 
 133-135 Stoke Newington Road; Stoke Newington; London N16 8BT; United Kingdom, London
 
-*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/bar-a-bar/)*
+*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/bar-a-bar/)*

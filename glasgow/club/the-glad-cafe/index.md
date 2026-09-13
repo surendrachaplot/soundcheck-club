@@ -1,6 +1,6 @@
 # The Glad Cafe
 
-The Glad Cafe is a music venue in Glasgow with 15 upcoming nights listed on soundcheck as of Sat, 12 Sept 2026; the next is "Justyna Jablonska - Unforeseen: Improvising Life and Music" on Thu, 17 Sept 2026.
+The Glad Cafe is a music venue in Glasgow with 15 upcoming nights listed on soundcheck as of Sun, 13 Sept 2026; the next is "Justyna Jablonska - Unforeseen: Improvising Life and Music" on Thu, 17 Sept 2026.
 
 The Glad Cafe is a music venue in Glasgow listed on soundcheck. 15 upcoming nights, with line-ups including Carla dal Forno, Gigi Masin, Mark Van Hoen and Raivo Sloan and 1 more. Browse upcoming dates, start times and who's playing. 1006A Pollokshaws Rd, Glasgow G41 2HG.
 
@@ -23,4 +23,4 @@ The Glad Cafe is a music venue in Glasgow listed on soundcheck. 15 upcoming nigh
 
 1006A Pollokshaws Rd, Glasgow G41 2HG, Glasgow
 
-*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/the-glad-cafe/)*
+*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/the-glad-cafe/)*

@@ -1,6 +1,6 @@
 # TRSSX
 
-TRSSX is a Techno and Experimental artist with 2 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at EXIT Glasgow, Glasgow on Sat, 31 Oct 2026.
+TRSSX is a Techno and Experimental artist with 2 upcoming club dates listed on soundcheck as of Sun, 13 Sept 2026, next at EXIT Glasgow, Glasgow on Sat, 31 Oct 2026.
 
 TRSSX is a techno and experimental artist based in Poland, tracked on soundcheck, with 49 sets logged across Athens, Dusseldorf, Edinburgh and Glasgow and 3 more. Often billed alongside Brandon Lee Vear, JayJay and Alliyah Enyo. Next up: EXIT Glasgow, Glasgow on Sat 31 Oct.
 
@@ -26,4 +26,4 @@ TRSSX is a techno and experimental artist based in Poland, tracked on soundcheck
 
 Brandon Lee Vear, JayJay, Alliyah Enyo
 
-*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/trssx/)*
+*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/trssx/)*

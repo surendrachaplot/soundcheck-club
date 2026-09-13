@@ -1,6 +1,6 @@
 # Sam Karlson
 
-Sam Karlson is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Art''otel Amsterdam, Amsterdam on Fri, 23 Oct 2026.
+Sam Karlson is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Sun, 13 Sept 2026, next at Art''otel Amsterdam, Amsterdam on Fri, 23 Oct 2026.
 
 Sam Karlson is a house and disco artist based in France, tracked on soundcheck, with 34 sets logged across Amsterdam, Bucharest, Ibiza and London and 3 more. Often billed alongside Bustin' Loose, Tatiana and Magnolia_. Next up: Art''otel Amsterdam, Amsterdam on Fri 23 Oct.
 
@@ -26,4 +26,4 @@ Sam Karlson is a house and disco artist based in France, tracked on soundcheck, 
 
 Bustin' Loose, Tatiana, Magnolia_
 
-*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/samkarlson/)*
+*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/samkarlson/)*

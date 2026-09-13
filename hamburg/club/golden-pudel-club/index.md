@@ -1,14 +1,13 @@
 # Golden Pudel Club
 
-Golden Pudel Club is a music venue in Hamburg with 7 upcoming nights listed on soundcheck as of Sat, 12 Sept 2026; the next is "15 Years Of zweikommasieben" on Sat, 12 Sept 2026.
+Golden Pudel Club is a music venue in Hamburg with 6 upcoming nights listed on soundcheck as of Sun, 13 Sept 2026; the next is "Kinetik Sessions" on Sun, 13 Sept 2026.
 
-Golden Pudel Club is a music venue in Hamburg listed on soundcheck. 7 upcoming nights, with line-ups including Bézier, BrthrMidnyt, cristian zanotti and DSGNRPSSY and 2 more. Browse upcoming dates, start times and who's playing. St. Pauli Fischmarkt 27; 20359 Hamburg; Germany.
+Golden Pudel Club is a music venue in Hamburg listed on soundcheck. 6 upcoming nights, with line-ups including Bézier, BrthrMidnyt, cristian zanotti and DSGNRPSSY and 2 more. Browse upcoming dates, start times and who's playing. St. Pauli Fischmarkt 27; 20359 Hamburg; Germany.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 12 Sept 2026 | 15 Years Of zweikommasieben | LYZZA, Phuong Dan |
 | Sun, 13 Sept 2026 | Kinetik Sessions | Formella, Sarah Q, Usus |
 | Sat, 19 Sept 2026 | T.NO, yung_womb, MANU OWUSU, ROOF | MANU OWUSU, Roof (2), T.NO, yung_womb |
 | Thu, 24 Sept 2026 | ELM STREET 42 | KVLR, Tana (2), UNZHA, fbi (1), yamagucci42 |
@@ -20,4 +19,4 @@ Golden Pudel Club is a music venue in Hamburg listed on soundcheck. 7 upcoming n
 
 St. Pauli Fischmarkt 27; 20359 Hamburg; Germany, Hamburg
 
-*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/hamburg/club/golden-pudel-club/)*
+*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/hamburg/club/golden-pudel-club/)*

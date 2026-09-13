@@ -1,6 +1,6 @@
 # ELMOOSE
 
-ELMOOSE is a Garage and House artist with 1 upcoming club date listed on soundcheck as of Sat, 12 Sept 2026, next at La Belle Angele, Edinburgh on Tue, 15 Sept 2026.
+ELMOOSE is a Garage and House artist with 1 upcoming club date listed on soundcheck as of Sun, 13 Sept 2026, next at La Belle Angele, Edinburgh on Tue, 15 Sept 2026.
 
 ELMOOSE is a garage and house artist tracked on soundcheck, with 9 sets logged across Edinburgh. Often billed alongside Sam Murray, Fërb and Vitamin T. Next up: La Belle Angele, Edinburgh on Tue 15 Sept.
 
@@ -25,4 +25,4 @@ ELMOOSE is a garage and house artist tracked on soundcheck, with 9 sets logged a
 
 Sam Murray, Fërb, Vitamin T
 
-*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/elmoose/)*
+*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/elmoose/)*

@@ -1,14 +1,13 @@
 # Zoo
 
-Zoo is a music venue in Geneva with 8 upcoming nights listed on soundcheck as of Sat, 12 Sept 2026; the next is "STROBE CULTURE WEEKENDER • presented by Laster & Tech Couture" on Fri, 11 Sept 2026.
+Zoo is a music venue in Geneva with 7 upcoming nights listed on soundcheck as of Sun, 13 Sept 2026; the next is "OSEZ ZOÉ: Paloma Colombe • NOXATRA • Braises de Velours [VJ Madame Ipsum]" on Fri, 18 Sept 2026.
 
-Zoo is a music venue in Geneva listed on soundcheck. 8 upcoming nights, with line-ups including Adiel, Alex Nantaya, Anabel Arroyo and Bailey Ibbs and 2 more. Browse upcoming dates, start times and who's playing. Place des Volontaires 4; 1204, Genève; Switzerland.
+Zoo is a music venue in Geneva listed on soundcheck. 7 upcoming nights, with line-ups including Braises de Velours, Djamzer, Hysteria temple Foundation and Jan Loup and 2 more. Browse upcoming dates, start times and who's playing. Place des Volontaires 4; 1204, Genève; Switzerland.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 11 Sept 2026 | STROBE CULTURE WEEKENDER • presented by Laster & Tech Couture | Adiel, Alex Nantaya, Anabel Arroyo, Bailey Ibbs, Laia, Mac Declos, Roll Dann |
 | Fri, 18 Sept 2026 | OSEZ ZOÉ: Paloma Colombe • NOXATRA • Braises de Velours [VJ Madame Ipsum] | Braises de Velours, NOXATRA, Paloma Colombe |
 | Sat, 19 Sept 2026 | SCÈNE AUX VICES PRÉSENTE DAWN TO DUSK [ALL NIGHT LONG] |  |
 | Sun, 20 Sept 2026 | LE T-DANSANT SUSPEND L'AIR DES TEMPS |  |
@@ -21,4 +20,4 @@ Zoo is a music venue in Geneva listed on soundcheck. 8 upcoming nights, with lin
 
 Place des Volontaires 4; 1204, Genève; Switzerland, Geneva
 
-*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/geneva/club/zoo/)*
+*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/geneva/club/zoo/)*

@@ -1,0 +1,23 @@
+# Shaydakiss
+
+Shaydakiss is a Dancehall and House artist with 1 upcoming club date listed on soundcheck as of Sun, 13 Sept 2026, next at Vino Disco, Montreal on Thu, 17 Sept 2026.
+
+Shaydakiss is a dancehall and house artist based in Canada, tracked on soundcheck, with 4 sets logged across Montreal. Often billed alongside A-Rock, Guillaume Michaud and TOKiMONSTA. Next up: Vino Disco, Montreal on Thu 17 Sept.
+
+## Upcoming shows
+
+| Date | Venue | City |
+| --- | --- | --- |
+| Thu, 17 Sept 2026 | Vino Disco | Montreal |
+
+## Recently played
+
+- Vino Disco, Montreal — Sat, 1 Aug 2026
+- Piknic Électronik / Parc Jean Drapeau, Montreal — Sat, 13 Sept 2025
+- Piknic Électronik / Parc Jean Drapeau, Montreal — Sun, 23 Jul 2023
+
+## Shares bills with
+
+A-Rock, Guillaume Michaud, TOKiMONSTA
+
+*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/shaydakiss/)*

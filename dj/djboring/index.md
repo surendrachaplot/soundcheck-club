@@ -1,14 +1,13 @@
 # DJ BORING
 
-DJ BORING is a House and Techno artist with 7 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Academy LA, Los Angeles on Sat, 12 Sept 2026.
+DJ BORING is a House and Techno artist with 6 upcoming club dates listed on soundcheck as of Sun, 13 Sept 2026, next at Prysm Nightclub, Chicago on Sat, 19 Sept 2026.
 
-DJ BORING is a house and techno artist tracked on soundcheck, with 204 sets logged across Amsterdam, Antwerp, Athens and Bali and 62 more. Often billed alongside Sally C, salute and DJ Seinfeld. Next up: Academy LA, Losangeles on Sat 12 Sept.
+DJ BORING is a house and techno artist tracked on soundcheck, with 204 sets logged across Amsterdam, Antwerp, Athens and Bali and 62 more. Often billed alongside Sally C, salute and DJ Seinfeld. Next up: Prysm Nightclub, Chicago on Sat 19 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 12 Sept 2026 | Academy LA | Los Angeles |
 | Sat, 19 Sept 2026 | Prysm Nightclub | Chicago |
 | Thu, 22 Oct 2026 | WestWeelde | Amsterdam |
 | Fri, 23 Oct 2026 | Ndsm Wharf | Amsterdam |
@@ -18,6 +17,7 @@ DJ BORING is a house and techno artist tracked on soundcheck, with 204 sets logg
 
 ## Recently played
 
+- Academy LA, Los Angeles — Sat, 12 Sept 2026
 - Village Studios, Vancouver — Fri, 11 Sept 2026
 - Substation, Seattle — Thu, 10 Sept 2026
 - Roberta's, New York City — Sun, 6 Sept 2026
@@ -25,10 +25,9 @@ DJ BORING is a house and techno artist tracked on soundcheck, with 204 sets logg
 - KOKO, London — Sat, 1 Aug 2026
 - TBA - Boat Party (Departs Tower Millenium Pier), London — Sat, 1 Aug 2026
 - TBA - Paradies Garten Festival - Schloß Prugg 2, 2460 Gemeinde Bruck an der Leitha, Vienna — Fri, 31 Jul 2026
-- Virage, Paris — Fri, 24 Jul 2026
 
 ## Shares bills with
 
 Sally C, salute, DJ Seinfeld
 
-*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djboring/)*
+*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djboring/)*

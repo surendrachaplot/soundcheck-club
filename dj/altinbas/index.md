@@ -1,6 +1,6 @@
 # Altinbas
 
-Altinbas is a Techno and House artist with 9 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Nitsa Club, Barcelona on Fri, 25 Sept 2026.
+Altinbas is a Techno and House artist with 9 upcoming club dates listed on soundcheck as of Sun, 13 Sept 2026, next at Nitsa Club, Barcelona on Fri, 25 Sept 2026.
 
 Altinbas is a techno and house artist tracked on soundcheck, with 172 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 48 more. Often billed alongside GiGi FM, Phara and Marie-Julie. Next up: Nitsa Club, Barcelona on Fri 25 Sept.
 
@@ -33,4 +33,4 @@ Altinbas is a techno and house artist tracked on soundcheck, with 172 sets logge
 
 GiGi FM, Phara, Marie-Julie
 
-*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/altinbas/)*
+*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/altinbas/)*

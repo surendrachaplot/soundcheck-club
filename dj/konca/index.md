@@ -1,6 +1,6 @@
 # Konca
 
-Konca is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 12 Sept 2026, next at Tunelowa, Warsaw on Sun, 13 Sept 2026.
+Konca is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 13 Sept 2026, next at Tunelowa, Warsaw on Sun, 13 Sept 2026.
 
 Konca is a house and techno artist based in Poland, tracked on soundcheck, with 32 sets logged across Warsaw. Often billed alongside Kuvau, Angelo Mike and NuCasa. Next up: Tunelowa, Warsaw on Sun 13 Sept.
 
@@ -25,4 +25,4 @@ Konca is a house and techno artist based in Poland, tracked on soundcheck, with 
 
 Kuvau, Angelo Mike, NuCasa
 
-*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/konca/)*
+*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/konca/)*

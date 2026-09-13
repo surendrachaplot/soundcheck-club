@@ -1,18 +1,18 @@
 # Ale Castro
 
-Ale Castro is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Fonoteek, Tallinn on Sat, 12 Sept 2026.
+Ale Castro is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 13 Sept 2026, next at KitKatClub, Berlin on Mon, 21 Sept 2026.
 
-Ale Castro is a house and techno artist tracked on soundcheck, with 18 sets logged across Berlin and Tallinn. Often billed alongside Frankie Flowerz, The Checkup and Javier Anxiety. Next up: Fonoteek, Tallinn on Sat 12 Sept.
+Ale Castro is a house and techno artist tracked on soundcheck, with 18 sets logged across Berlin and Tallinn. Often billed alongside Frankie Flowerz, The Checkup and Javier Anxiety. Next up: KitKatClub, Berlin on Mon 21 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 12 Sept 2026 | Fonoteek | Tallinn |
 | Mon, 21 Sept 2026 | KitKatClub | Berlin |
 
 ## Recently played
 
+- Fonoteek, Tallinn — Sat, 12 Sept 2026
 - Golden Gate, Berlin — Thu, 10 Sept 2026
 - Golden Gate, Berlin — Sat, 16 Aug 2025
 - KitKatClub, Berlin — Mon, 11 Aug 2025
@@ -20,10 +20,9 @@ Ale Castro is a house and techno artist tracked on soundcheck, with 18 sets logg
 - Renate, Berlin — Fri, 8 Aug 2025
 - KitKatClub, Berlin — Fri, 2 Aug 2024
 - KitKatClub, Berlin — Mon, 29 Jul 2024
-- Golden Gate, Berlin — Fri, 26 Jul 2024
 
 ## Shares bills with
 
 Frankie Flowerz, The Checkup, Javier Anxiety
 
-*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/alecastro/)*
+*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/alecastro/)*

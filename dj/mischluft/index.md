@@ -1,14 +1,13 @@
 # Mischluft
 
-Mischluft is a Techno and Trance artist with 7 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Avalon Hollywood, Los Angeles on Sat, 12 Sept 2026.
+Mischluft is a Techno and Trance artist with 6 upcoming club dates listed on soundcheck as of Sun, 13 Sept 2026, next at Openluchttheater Amersfoort, Amsterdam on Fri, 18 Sept 2026.
 
-Mischluft is a techno and trance artist tracked on soundcheck, with 190 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 50 more. Often billed alongside Bad Boombox, Janis Zielinski and Ollie Lishman. Next up: Avalon Hollywood, Losangeles on Sat 12 Sept.
+Mischluft is a techno and trance artist tracked on soundcheck, with 190 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 50 more. Often billed alongside Bad Boombox, Janis Zielinski and Ollie Lishman. Next up: Openluchttheater Amersfoort, Amsterdam on Fri 18 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 12 Sept 2026 | Avalon Hollywood | Los Angeles |
 | Fri, 18 Sept 2026 | Openluchttheater Amersfoort | Amsterdam |
 | Thu, 22 Oct 2026 | Lofi | Amsterdam |
 | Thu, 22 Oct 2026 | RAWFACTORY | Amsterdam |
@@ -18,6 +17,7 @@ Mischluft is a techno and trance artist tracked on soundcheck, with 190 sets log
 
 ## Recently played
 
+- Avalon Hollywood, Los Angeles — Sat, 12 Sept 2026
 - Echostage, Washington DC — Fri, 11 Sept 2026
 - Factory Town, Miami — Sun, 6 Sept 2026
 - Industry City, New York City — Sat, 5 Sept 2026
@@ -25,10 +25,9 @@ Mischluft is a techno and trance artist tracked on soundcheck, with 190 sets log
 - Else, Berlin — Sun, 30 Aug 2026
 - Ahoy Rotterdam, Rotterdam — Sat, 29 Aug 2026
 - Hangaren, Copenhagen — Thu, 27 Aug 2026
-- Parc des Etangs/Vijverspark, Brussels — Fri, 14 Aug 2026
 
 ## Shares bills with
 
 Bad Boombox, Janis Zielinski, Ollie Lishman
 
-*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mischluft/)*
+*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mischluft/)*

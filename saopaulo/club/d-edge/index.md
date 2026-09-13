@@ -1,14 +1,13 @@
 # D-EDGE
 
-D-EDGE is a music venue in Sao Paulo with 10 upcoming nights listed on soundcheck as of Sat, 12 Sept 2026; the next is "NAVE D-EDGE SP pres.: P1: ADRIA b2b MALU.CAROLA b2b CAROL FAVERO. TAROBA / P2: BARJA (LONG SET)" on Sat, 12 Sept 2026.
+D-EDGE is a music venue in Sao Paulo with 9 upcoming nights listed on soundcheck as of Sun, 13 Sept 2026; the next is "SUPERAFTER D-EDGE SP pres.: P2: DUE. Transvegana // LOUNGE: GAS" on Sun, 13 Sept 2026.
 
-D-EDGE is a music venue in Saopaulo listed on soundcheck. 10 upcoming nights, with line-ups including Acid Asian, Adnan Sharif, BALDACCI and Bervon and 2 more. Browse upcoming dates, start times and who's playing. Av. Auro Soares de Moura Andrade, 141. 01155-040 São Paulo , Brazil.
+D-EDGE is a music venue in Saopaulo listed on soundcheck. 9 upcoming nights, with line-ups including Acid Asian, Adnan Sharif, BALDACCI and Bervon and 2 more. Browse upcoming dates, start times and who's playing. Av. Auro Soares de Moura Andrade, 141. 01155-040 São Paulo , Brazil.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 12 Sept 2026 | NAVE D-EDGE SP pres.: P1: ADRIA b2b MALU.CAROLA b2b CAROL FAVERO. TAROBA / P2: BARJA (LONG SET) |  |
 | Sun, 13 Sept 2026 | SUPERAFTER D-EDGE SP pres.: P2: DUE. Transvegana // LOUNGE: GAS | Transvegana |
 | Thu, 17 Sept 2026 | MOVING D-EDGE SP pres.: AMMIT. DJ Murphy. Lost my Keys. Vallas Martins | DJ Murphy, Lost my Keys, Vallas Martins |
 | Fri, 18 Sept 2026 | FREAK CHIC D-EDGE SP pres.: P1: Olga Korol B2B PER (UA). Cesare vs Disorder. Gartzzea  | Cesare vs Disorder, Gartzzea, Olga Korol, Per Hammar |
@@ -23,4 +22,4 @@ D-EDGE is a music venue in Saopaulo listed on soundcheck. 10 upcoming nights, wi
 
 Av. Auro Soares de Moura Andrade, 141. 01155-040 São Paulo , Brazil, Sao Paulo
 
-*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/saopaulo/club/d-edge/)*
+*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/saopaulo/club/d-edge/)*

@@ -1,6 +1,6 @@
 # SPFDJ
 
-SPFDJ is a Techno and House artist with 8 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at TBA - Grand Parc Miribel Jonage, Lyon on Sat, 12 Sept 2026.
+SPFDJ is a Techno and House artist with 8 upcoming club dates listed on soundcheck as of Sun, 13 Sept 2026, next at TBA - Grand Parc Miribel Jonage, Lyon on Sat, 12 Sept 2026.
 
 SPFDJ is a techno and house artist tracked on soundcheck, with 226 sets logged across Amsterdam, Antwerp, Athens and Austin and 69 more. Often billed alongside DAX J, Anetha and MCMLXXXV. Next up: TBA - Grand Parc Miribel Jonage, Lyon on Sat 12 Sept.
 
@@ -19,6 +19,7 @@ SPFDJ is a techno and house artist tracked on soundcheck, with 226 sets logged a
 
 ## Recently played
 
+- TBA - Grand Parc Miribel Jonage, Lyon — Sat, 12 Sept 2026
 - Virage, Paris — Sat, 29 Aug 2026
 - fi, Cologne — Sat, 22 Aug 2026
 - Magazine Open–Air, London — Fri, 21 Aug 2026
@@ -26,10 +27,9 @@ SPFDJ is a techno and house artist tracked on soundcheck, with 226 sets logged a
 - Praia de Esmoriz Beach, Porto — Sat, 11 Jul 2026
 - Hï Ibiza, Ibiza — Sun, 5 Jul 2026
 - RSO.BERLIN, Berlin — Sat, 4 Jul 2026
-- Trädgården, Stockholm — Thu, 2 Jul 2026
 
 ## Shares bills with
 
 DAX J, Anetha, MCMLXXXV
 
-*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/spfdj/)*
+*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/spfdj/)*

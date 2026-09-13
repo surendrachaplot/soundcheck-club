@@ -1,19 +1,19 @@
 # DJ LAG
 
-DJ LAG is a Gqom and Club artist with 3 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Barn Radio, Portland on Sat, 12 Sept 2026.
+DJ LAG is a Gqom and Club artist with 2 upcoming club dates listed on soundcheck as of Sun, 13 Sept 2026, next at Paragon, New York City on Thu, 17 Sept 2026.
 
-DJ LAG is a gqom and club artist based in South Africa, tracked on soundcheck, with 66 sets logged across Amsterdam, Austin, Barcelona and Berlin and 28 more. Often billed alongside Nick León, Batu and Simo Cell. Next up: Barn Radio, Portland on Sat 12 Sept.
+DJ LAG is a gqom and club artist based in South Africa, tracked on soundcheck, with 66 sets logged across Amsterdam, Austin, Barcelona and Berlin and 28 more. Often billed alongside Nick León, Batu and Simo Cell. Next up: Paragon, Newyorkcity on Thu 17 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 12 Sept 2026 | Barn Radio | Portland |
 | Thu, 17 Sept 2026 | Paragon | New York City |
 | Fri, 18 Sept 2026 | Fort Mifflin | Philadelphia |
 
 ## Recently played
 
+- Barn Radio, Portland — Sat, 12 Sept 2026
 - Maaya, Berlin — Fri, 17 Jul 2026
 - Badaboum, Paris — Mon, 13 Jul 2026
 - Garage Noord, Amsterdam — Sat, 11 Jul 2026
@@ -21,10 +21,9 @@ DJ LAG is a gqom and club artist based in South Africa, tracked on soundcheck, w
 - TRANSMISSION DC, Washington DC — Sun, 28 Jun 2026
 - Knockdown Center, New York City — Sun, 21 Jun 2026
 - Hizz Lounge, Detroit — Sat, 20 Jun 2026
-- Descent, Boston — Thu, 18 Jun 2026
 
 ## Shares bills with
 
 Nick León, Batu, Simo Cell
 
-*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djlag/)*
+*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djlag/)*

@@ -1,18 +1,17 @@
 # Alte Münze
 
-Alte Münze is a music venue in Berlin with 2 upcoming nights listed on soundcheck as of Sat, 12 Sept 2026; the next is "PiG" on Sat, 12 Sept 2026.
+Alte Münze is a music venue in Berlin with 1 upcoming night listed on soundcheck as of Sun, 13 Sept 2026; the next is "KINKY ON Tour Berlin" on Sat, 24 Oct 2026.
 
-Alte Münze is a music venue in Berlin listed on soundcheck. 2 upcoming nights, with line-ups including Acid Foxy, Alex Benz, Annie O and Emina Helena and 2 more. Browse upcoming dates, start times and who's playing. Molkenmarkt 2, 10179 Berlin.
+Alte Münze is a music venue in Berlin listed on soundcheck. 1 upcoming night, with line-ups including Acid Foxy, Alex Benz, Annie O and Emina Helena and 2 more. Browse upcoming dates, start times and who's playing. Molkenmarkt 2, 10179 Berlin.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 12 Sept 2026 | PiG |  |
 | Sat, 24 Oct 2026 | KINKY ON Tour Berlin | Acid Foxy, Alex Benz, Annie O, Emina Helena, MILLA LOU, WIEK |
 
 ## Address
 
 Molkenmarkt 2, 10179 Berlin, Berlin
 
-*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/alte-m-nze/)*
+*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/alte-m-nze/)*

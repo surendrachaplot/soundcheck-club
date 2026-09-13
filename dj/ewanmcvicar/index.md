@@ -1,15 +1,13 @@
 # Ewan McVicar
 
-Ewan McVicar is a House and Techno artist with 10 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Palmerstown House Estate, Dublin on Fri, 11 Sept 2026.
+Ewan McVicar is a House and Techno artist with 8 upcoming club dates listed on soundcheck as of Sun, 13 Sept 2026, next at Hï Ibiza, Ibiza on Fri, 18 Sept 2026.
 
-Ewan McVicar is a house and techno artist tracked on soundcheck, with 173 sets logged across Amsterdam, Athens, Barcelona and Belfast and 38 more. Often billed alongside Special Request, Dom Dolla and CamelPhat. Next up: Palmerstown House Estate, Dublin on Fri 11 Sept.
+Ewan McVicar is a house and techno artist tracked on soundcheck, with 173 sets logged across Amsterdam, Athens, Barcelona and Belfast and 38 more. Often billed alongside Special Request, Dom Dolla and CamelPhat. Next up: Hï Ibiza, Ibiza on Fri 18 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 11 Sept 2026 | Palmerstown House Estate | Dublin |
-| Sat, 12 Sept 2026 | Index | Dublin |
 | Fri, 18 Sept 2026 | Hï Ibiza | Ibiza |
 | Fri, 25 Sept 2026 | Hï Ibiza | Ibiza |
 | Fri, 2 Oct 2026 | Hï Ibiza | Ibiza |
@@ -21,6 +19,7 @@ Ewan McVicar is a house and techno artist tracked on soundcheck, with 173 sets l
 
 ## Recently played
 
+- Index, Dublin — Sat, 12 Sept 2026
 - Hï Ibiza, Ibiza — Fri, 11 Sept 2026
 - Palmerstown House Estate, Dublin — Fri, 11 Sept 2026
 - Hï Ibiza, Ibiza — Fri, 4 Sept 2026
@@ -28,10 +27,9 @@ Ewan McVicar is a house and techno artist tracked on soundcheck, with 173 sets l
 - Mia Mao, Paris — Sat, 22 Aug 2026
 - Hï Ibiza, Ibiza — Fri, 21 Aug 2026
 - KOKO, London — Sat, 15 Aug 2026
-- Hï Ibiza, Ibiza — Fri, 14 Aug 2026
 
 ## Shares bills with
 
 Special Request, Dom Dolla, CamelPhat
 
-*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ewanmcvicar/)*
+*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ewanmcvicar/)*

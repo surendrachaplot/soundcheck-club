@@ -1,6 +1,6 @@
 # LM
 
-LM is a House and Electro artist with 3 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Macarena Club, Barcelona on Fri, 18 Sept 2026.
+LM is a House and Electro artist with 3 upcoming club dates listed on soundcheck as of Sun, 13 Sept 2026, next at Macarena Club, Barcelona on Fri, 18 Sept 2026.
 
 LM is a house and electro artist tracked on soundcheck, with 142 sets logged across Bangkok, Barcelona, Berlin and Brussels and 4 more. Often billed alongside Brieela, ildec and Baffa. Next up: Macarena Club, Barcelona on Fri 18 Sept.
 
@@ -27,4 +27,4 @@ LM is a house and electro artist tracked on soundcheck, with 142 sets logged acr
 
 Brieela, ildec, Baffa
 
-*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lm/)*
+*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lm/)*

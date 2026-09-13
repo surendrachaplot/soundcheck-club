@@ -1,6 +1,6 @@
 # Cinema Paradisco
 
-Cinema Paradisco is a House and Electronica artist with 1 upcoming club date listed on soundcheck as of Sat, 12 Sept 2026, next at Tonal, Mexico City on Wed, 9 Sept 2026.
+Cinema Paradisco is a House and Electronica artist with 1 upcoming club date listed on soundcheck as of Sun, 13 Sept 2026, next at Tonal, Mexico City on Wed, 9 Sept 2026.
 
 Cinema Paradisco is a house and electronica artist based in Mexico, tracked on soundcheck, with 52 sets logged across Mexicocity. Often billed alongside Disco 86, Alatriste and Dimaio. Next up: Tonal, Mexicocity on Wed 9 Sept.
 
@@ -25,4 +25,4 @@ Cinema Paradisco is a house and electronica artist based in Mexico, tracked on s
 
 Disco 86, Alatriste, Dimaio
 
-*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/cinemaparadisco/)*
+*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/cinemaparadisco/)*

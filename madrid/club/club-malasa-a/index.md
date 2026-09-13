@@ -1,14 +1,13 @@
 # Club Malasaña
 
-Club Malasaña is a music venue in Madrid with 8 upcoming nights listed on soundcheck as of Sat, 12 Sept 2026; the next is "queso con Dirty Channels y Javi Dogs" on Sat, 12 Sept 2026.
+Club Malasaña is a music venue in Madrid with 7 upcoming nights listed on soundcheck as of Sun, 13 Sept 2026; the next is "Blasé con TSVI y Miqui Brightside" on Fri, 18 Sept 2026.
 
-Club Malasaña is a music venue in Madrid listed on soundcheck. 8 upcoming nights, with line-ups including 1Night Only, David Cabrera, Dirty Channels and Dj Homie and 2 more. Browse upcoming dates, start times and who's playing. Calle de San Vicente Ferrer, 23, 28004 Madrid, Spain.
+Club Malasaña is a music venue in Madrid listed on soundcheck. 7 upcoming nights, with line-ups including 1Night Only, David Cabrera, Dj Homie and Federico Molinari and 2 more. Browse upcoming dates, start times and who's playing. Calle de San Vicente Ferrer, 23, 28004 Madrid, Spain.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 12 Sept 2026 | queso con Dirty Channels y Javi Dogs | Dirty Channels |
 | Fri, 18 Sept 2026 | Blasé con TSVI y Miqui Brightside | KLAU (6), Miqui Brightside, TSVI |
 | Fri, 18 Sept 2026 | Blasé feat. TSVI, Klau, Miqui Brightside | KLAU (6), Miqui Brightside, TSVI |
 | Sat, 19 Sept 2026 | Pachanga con Wilba, 1 night only y Foie Gras | 1Night Only, Foie Gras, Wilba |
@@ -21,4 +20,4 @@ Club Malasaña is a music venue in Madrid listed on soundcheck. 8 upcoming night
 
 Calle de San Vicente Ferrer, 23, 28004 Madrid, Spain, Madrid
 
-*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/club-malasa-a/)*
+*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/club-malasa-a/)*

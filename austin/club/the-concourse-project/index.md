@@ -1,15 +1,13 @@
 # The Concourse Project
 
-The Concourse Project is a music venue in Austin with 30 upcoming nights listed on soundcheck as of Sat, 12 Sept 2026; the next is "LSR/CITY X by Gareth Emery" on Sat, 12 Sept 2026.
+The Concourse Project is a music venue in Austin with 28 upcoming nights listed on soundcheck as of Sun, 13 Sept 2026; the next is "ISOxo pres: Hardcore Diva (Night 1) at The Concourse Project" on Wed, 16 Sept 2026.
 
-The Concourse Project is a music venue in Austin listed on soundcheck. 30 upcoming nights, with line-ups including 1tbsp, Above & Beyond, Adam Port and Adam Sellouk and 2 more. Browse upcoming dates, start times and who's playing. 8509 Burleson Rd, Building 1, Austin, TX 78719, USA.
+The Concourse Project is a music venue in Austin listed on soundcheck. 28 upcoming nights, with line-ups including 1tbsp, Above & Beyond, Adam Port and Adam Sellouk and 2 more. Browse upcoming dates, start times and who's playing. 8509 Burleson Rd, Building 1, Austin, TX 78719, USA.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 12 Sept 2026 | LSR/CITY X by Gareth Emery | Gareth Emery |
-| Sat, 12 Sept 2026 | Natte Visstick (The Hangar) |  |
 | Wed, 16 Sept 2026 | ISOxo pres: Hardcore Diva (Night 1) at The Concourse Project |  |
 | Thu, 17 Sept 2026 | ISOxo pres: Hardcore Diva (Night 2) at The Concourse Project |  |
 | Fri, 18 Sept 2026 | TroyBoi | TroyBoi, Tye Turner |
@@ -18,9 +16,11 @@ The Concourse Project is a music venue in Austin listed on soundcheck. 30 upcomi
 | Fri, 25 Sept 2026 | Ben Sterling (Open to Close) | Ben Sterling |
 | Sat, 26 Sept 2026 | Eli Brown (Outdoors) | Eli Brown, Kasia, Kasia (OFC), Marie Vaunt |
 | Thu, 1 Oct 2026 | Official 2026 ACL Fest Nights: The Chainsmokers | The Chainsmokers |
+| Fri, 2 Oct 2026 | Official 2026 ACL Fest Nights: Steve Aoki | Steve Aoki |
+| Sat, 3 Oct 2026 | Official 2026 ACL Fest Nights: it's murph |  |
 
 ## Address
 
 8509 Burleson Rd, Building 1, Austin, TX 78719, USA, Austin
 
-*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/austin/club/the-concourse-project/)*
+*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/austin/club/the-concourse-project/)*

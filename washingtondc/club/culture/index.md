@@ -1,14 +1,13 @@
 # Culture
 
-Culture is a music venue in Washington DC with 11 upcoming nights listed on soundcheck as of Sat, 12 Sept 2026; the next is "Nü Androids presents: MoBlack" on Sat, 12 Sept 2026.
+Culture is a music venue in Washington DC with 10 upcoming nights listed on soundcheck as of Sun, 13 Sept 2026; the next is "Achromatic presents: Nooriyah" on Sat, 19 Sept 2026.
 
-Culture is a music venue in Washingtondc listed on soundcheck. 11 upcoming nights, with line-ups including Gravagerz, Morgan Seatree, Nitefreak and Nooriyah and 2 more. Browse upcoming dates, start times and who's playing. 2002 Fenwick St NE, Washington, DC 20002, United States.
+Culture is a music venue in Washingtondc listed on soundcheck. 10 upcoming nights, with line-ups including Gravagerz, Morgan Seatree, Nitefreak and Nooriyah and 2 more. Browse upcoming dates, start times and who's playing. 2002 Fenwick St NE, Washington, DC 20002, United States.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 12 Sept 2026 | Nü Androids presents: MoBlack |  |
 | Sat, 19 Sept 2026 | Achromatic presents: Nooriyah | Nooriyah |
 | Fri, 25 Sept 2026 | Nü Androids x Starlight presents: Nitefreak | Nitefreak |
 | Sat, 26 Sept 2026 | Nü Androids presents: Gravagerz | Gravagerz |
@@ -18,9 +17,10 @@ Culture is a music venue in Washingtondc listed on soundcheck. 11 upcoming night
 | Sun, 18 Oct 2026 | Diffuse x Ranger Trucco present: Range | Ranger Trucco |
 | Sat, 24 Oct 2026 | Nü Androids presents: Acraze |  |
 | Sat, 24 Oct 2026 | Navan – Kisses On The Moon Tour |  |
+| Wed, 25 Nov 2026 | Nü Androids presents: NOVAH | NOVAH |
 
 ## Address
 
 2002 Fenwick St NE, Washington, DC 20002, United States, Washington DC
 
-*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/washingtondc/club/culture/)*
+*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/washingtondc/club/culture/)*

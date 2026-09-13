@@ -1,18 +1,18 @@
 # Dedenia
 
-Dedenia is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Jasna 1, Warsaw on Sat, 12 Sept 2026.
+Dedenia is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sun, 13 Sept 2026, next at underiolo, Warsaw on Fri, 18 Sept 2026.
 
-Dedenia is a techno and house artist based in Poland, tracked on soundcheck, with 30 sets logged across Krakow and Warsaw. Often billed alongside Viennaus, Mohji and PayoYayo. Next up: Jasna 1, Warsaw on Sat 12 Sept.
+Dedenia is a techno and house artist based in Poland, tracked on soundcheck, with 30 sets logged across Krakow and Warsaw. Often billed alongside Viennaus, Mohji and PayoYayo. Next up: underiolo, Warsaw on Fri 18 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 12 Sept 2026 | Jasna 1 | Warsaw |
 | Fri, 18 Sept 2026 | underiolo | Warsaw |
 
 ## Recently played
 
+- Jasna 1, Warsaw — Sat, 12 Sept 2026
 - Plażówka Saska, Warsaw — Fri, 11 Sept 2026
 - Barka Schodki, Warsaw — Fri, 14 Aug 2026
 - Baseny Kora, Warsaw — Fri, 3 Jul 2026
@@ -20,10 +20,9 @@ Dedenia is a techno and house artist based in Poland, tracked on soundcheck, wit
 - Jasna 1, Warsaw — Fri, 13 Mar 2026
 - underiolo, Warsaw — Sat, 14 Feb 2026
 - STK 47 WAREHOUSE, Krakow — Fri, 6 Feb 2026
-- OCZKI, Warsaw — Wed, 31 Dec 2025
 
 ## Shares bills with
 
 Viennaus, Mohji, PayoYayo
 
-*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dedenia/)*
+*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dedenia/)*

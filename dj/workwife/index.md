@@ -1,14 +1,13 @@
 # Work Wife
 
-Work Wife is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at TBA - Tanswell's Hotel, 50 Ford St, Beechworth VIC 3747, Melbourne on Fri, 11 Sept 2026.
+Work Wife is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 13 Sept 2026, next at TBA, Melbourne on Sat, 26 Sept 2026.
 
-Work Wife is a house and techno artist tracked on soundcheck, with 21 sets logged across Melbourne, Newyorkcity, Seoul and Sydney and 1 more. Often billed alongside Jo Christy, Simonetti and b. caszh. Next up: TBA - Tanswell's Hotel, 50 Ford St, Beechworth VIC 3747, Melbourne on Fri 11 Sept.
+Work Wife is a house and techno artist tracked on soundcheck, with 21 sets logged across Melbourne, Newyorkcity, Seoul and Sydney and 1 more. Often billed alongside Jo Christy, Simonetti and b. caszh. Next up: TBA, Melbourne on Sat 26 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 11 Sept 2026 | TBA - Tanswell's Hotel, 50 Ford St, Beechworth VIC 3747 | Melbourne |
 | Sat, 26 Sept 2026 | TBA | Melbourne |
 
 ## Recently played
@@ -26,4 +25,4 @@ Work Wife is a house and techno artist tracked on soundcheck, with 21 sets logge
 
 Jo Christy, Simonetti, b. caszh
 
-*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/workwife/)*
+*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/workwife/)*

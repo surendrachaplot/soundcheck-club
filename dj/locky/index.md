@@ -1,15 +1,13 @@
 # Locky
 
-Locky is a House and Tech House artist with 14 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Descent, Boston on Sat, 12 Sept 2026.
+Locky is a House and Tech House artist with 12 upcoming club dates listed on soundcheck as of Sun, 13 Sept 2026, next at Beach House San Diego, San Diego on Sun, 13 Sept 2026.
 
-Locky is a house and tech house artist tracked on soundcheck, with 145 sets logged across Amsterdam, Barcelona, Belgrade and Birmingham and 26 more. Often billed alongside Mad.Again (2), Liam Palmer and Luke Dean_. Next up: Descent, Boston on Sat 12 Sept.
+Locky is a house and tech house artist tracked on soundcheck, with 145 sets logged across Amsterdam, Barcelona, Belgrade and Birmingham and 26 more. Often billed alongside Mad.Again (2), Liam Palmer and Luke Dean_. Next up: Beach House San Diego, Sandiego on Sun 13 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 12 Sept 2026 | Descent | Boston |
-| Sat, 12 Sept 2026 | Descent | Boston |
 | Sun, 13 Sept 2026 | Beach House San Diego | San Diego |
 | Wed, 16 Sept 2026 | [UNVRS] | Ibiza |
 | Fri, 18 Sept 2026 | Openluchttheater Amersfoort | Amsterdam |
@@ -20,20 +18,22 @@ Locky is a house and tech house artist tracked on soundcheck, with 145 sets logg
 | Mon, 5 Oct 2026 | Amnesia Ibiza | Ibiza |
 | Sat, 10 Oct 2026 | Toffler | Rotterdam |
 | Thu, 22 Oct 2026 | NDSM Scheepsbouwloods | Amsterdam |
+| Fri, 30 Oct 2026 | FORGE | Sheffield |
+| Fri, 27 Nov 2026 | Depot Mayfield | Manchester |
 
 ## Recently played
 
+- Descent, Boston — Sat, 12 Sept 2026
+- Descent, Boston — Sat, 12 Sept 2026
 - Floyd, Miami — Fri, 11 Sept 2026
 - 528 Ibiza, Ibiza — Fri, 4 Sept 2026
 - [UNVRS], Ibiza — Wed, 2 Sept 2026
 - fabric, London — Sun, 30 Aug 2026
 - Kelvedon Hall, London — Sat, 29 Aug 2026
 - Colorado Charlie, The Hague — Sun, 23 Aug 2026
-- Hï Ibiza, Ibiza — Sat, 22 Aug 2026
-- Old Royal Naval College, London — Sun, 16 Aug 2026
 
 ## Shares bills with
 
 Mad.Again (2), Liam Palmer, Luke Dean_
 
-*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/locky/)*
+*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/locky/)*

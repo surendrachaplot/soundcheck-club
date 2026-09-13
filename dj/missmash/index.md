@@ -1,6 +1,6 @@
 # Miss Mash
 
-Miss Mash is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Sat, 12 Sept 2026, next at The Jam Jar, Bristol on Fri, 18 Sept 2026.
+Miss Mash is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Sun, 13 Sept 2026, next at The Jam Jar, Bristol on Fri, 18 Sept 2026.
 
 Miss Mash is a house and disco artist based in United Kingdom, tracked on soundcheck, with 32 sets logged across Bristol, London and Manchester. Often billed alongside Roaming Data, Anwar and Beavs. Next up: The Jam Jar, Bristol on Fri 18 Sept.
 
@@ -25,4 +25,4 @@ Miss Mash is a house and disco artist based in United Kingdom, tracked on soundc
 
 Roaming Data, Anwar, Beavs
 
-*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/missmash/)*
+*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/missmash/)*

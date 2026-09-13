@@ -1,14 +1,13 @@
 # Effy
 
-Effy is a Techno and House artist with 10 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Parallel, Amsterdam on Sat, 12 Sept 2026.
+Effy is a Techno and House artist with 9 upcoming club dates listed on soundcheck as of Sun, 13 Sept 2026, next at The Warehouse, Leeds on Fri, 25 Sept 2026.
 
-Effy is a techno and house artist tracked on soundcheck, with 132 sets logged across Amsterdam, Antwerp, Auckland and Barcelona and 51 more. Often billed alongside Mall Grab, KETTAMA and Interplanetary Criminal. Next up: Parallel, Amsterdam on Sat 12 Sept.
+Effy is a techno and house artist tracked on soundcheck, with 132 sets logged across Amsterdam, Antwerp, Auckland and Barcelona and 51 more. Often billed alongside Mall Grab, KETTAMA and Interplanetary Criminal. Next up: The Warehouse, Leeds on Fri 25 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 12 Sept 2026 | Parallel | Amsterdam |
 | Fri, 25 Sept 2026 | The Warehouse | Leeds |
 | Sat, 26 Sept 2026 | La Terrrazza | Barcelona |
 | Sat, 10 Oct 2026 | Carriageworks | Sydney |
@@ -21,6 +20,7 @@ Effy is a techno and house artist tracked on soundcheck, with 132 sets logged ac
 
 ## Recently played
 
+- Parallel, Amsterdam — Sat, 12 Sept 2026
 - Konijnenwei, Antwerp — Sat, 29 Aug 2026
 - Hangaren, Copenhagen — Sat, 8 Aug 2026
 - Boston Manor Park, London — Fri, 31 Jul 2026
@@ -28,10 +28,9 @@ Effy is a techno and house artist tracked on soundcheck, with 132 sets logged ac
 - Knockdown Center, New York City — Fri, 24 Jul 2026
 - TBA - Paradise City Festival, Brussels — Fri, 26 Jun 2026
 - Heaton Park, Manchester — Sat, 20 Jun 2026
-- Joshua Brooks, Manchester — Sat, 20 Jun 2026
 
 ## Shares bills with
 
 Mall Grab, KETTAMA, Interplanetary Criminal
 
-*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/effy/)*
+*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/effy/)*

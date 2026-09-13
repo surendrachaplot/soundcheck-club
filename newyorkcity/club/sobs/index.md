@@ -1,15 +1,13 @@
 # SOBs
 
-SOBs is a music venue in New York City with 14 upcoming nights listed on soundcheck as of Sat, 12 Sept 2026; the next is "Roy Ayers Birthday Tribute: Live Band + DJ Experience" on Thu, 10 Sept 2026.
+SOBs is a music venue in New York City with 12 upcoming nights listed on soundcheck as of Sun, 13 Sept 2026; the next is "Gvlli3 + Special Guests" on Sun, 13 Sept 2026.
 
-SOBs is a music venue in Newyorkcity listed on soundcheck. 14 upcoming nights, with line-ups including BlackDanielWhite, Joon and Token. Browse upcoming dates, start times and who's playing. 204 Varick Street, New York, NY 10014-4810, USA.
+SOBs is a music venue in Newyorkcity listed on soundcheck. 12 upcoming nights, with line-ups including Joon and Token. Browse upcoming dates, start times and who's playing. 204 Varick Street, New York, NY 10014-4810, USA.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Thu, 10 Sept 2026 | Roy Ayers Birthday Tribute: Live Band + DJ Experience | BlackDanielWhite |
-| Sat, 12 Sept 2026 | Surfistas del Sistema |  |
 | Sun, 13 Sept 2026 | Gvlli3 + Special Guests |  |
 | Tue, 15 Sept 2026 | Out Of Control Army |  |
 | Sat, 19 Sept 2026 | Orishas - De Cerca, en New York |  |
@@ -18,9 +16,11 @@ SOBs is a music venue in Newyorkcity listed on soundcheck. 14 upcoming nights, w
 | Fri, 25 Sept 2026 | Molly & June's Honky Tonk: Line Dance Classes & Country Music |  |
 | Sat, 26 Sept 2026 | poetry me, please: Summer's Last Breath |  |
 | Sat, 3 Oct 2026 | DAY26 & J. Howell |  |
+| Sun, 4 Oct 2026 | The Legends 'La Sinfonica' |  |
+| Sun, 11 Oct 2026 | Token: I'm Leaving Soon Tour | Token |
 
 ## Address
 
 204 Varick Street, New York, NY 10014-4810, USA, New York City
 
-*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/sobs/)*
+*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/sobs/)*

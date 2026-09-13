@@ -1,6 +1,6 @@
 # PATO WATSON
 
-PATO WATSON is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Sat, 12 Sept 2026, next at Departamento, Mexico City on Wed, 9 Sept 2026.
+PATO WATSON is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Sun, 13 Sept 2026, next at Departamento, Mexico City on Wed, 9 Sept 2026.
 
 PATO WATSON is a house and deep house artist tracked on soundcheck, with 32 sets logged across Mexicocity and Sanfrancisco. Often billed alongside Barreto, Duke Skylocker (Disco Dust) and Miss Voltaghe. Next up: Departamento, Mexicocity on Wed 9 Sept.
 
@@ -25,4 +25,4 @@ PATO WATSON is a house and deep house artist tracked on soundcheck, with 32 sets
 
 Barreto, Duke Skylocker (Disco Dust), Miss Voltaghe
 
-*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/patowatson/)*
+*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/patowatson/)*

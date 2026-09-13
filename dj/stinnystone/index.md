@@ -1,6 +1,6 @@
 # Stinny Stone
 
-Stinny Stone is a Techno and Trance artist with 6 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Kilomètre25, Paris on Fri, 18 Sept 2026.
+Stinny Stone is a Techno and Trance artist with 6 upcoming club dates listed on soundcheck as of Sun, 13 Sept 2026, next at Kilomètre25, Paris on Fri, 18 Sept 2026.
 
 Stinny Stone is a techno and trance artist tracked on soundcheck, with 90 sets logged across Barcelona, Berlin, Budapest and Dublin and 17 more. Often billed alongside SOHOE, Cobb Douglas and futurristic. Next up: Kilomètre25, Paris on Fri 18 Sept.
 
@@ -30,4 +30,4 @@ Stinny Stone is a techno and trance artist tracked on soundcheck, with 90 sets l
 
 SOHOE, Cobb Douglas, futurristic
 
-*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/stinnystone/)*
+*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/stinnystone/)*

@@ -1,15 +1,13 @@
 # Room 2 Glasgow
 
-Room 2 Glasgow is a music venue in Glasgow with 15 upcoming nights listed on soundcheck as of Sat, 12 Sept 2026; the next is "LOVEHATE x OBSCURA B2B ALL NIGHT LONG" on Sat, 12 Sept 2026.
+Room 2 Glasgow is a music venue in Glasgow with 13 upcoming nights listed on soundcheck as of Sun, 13 Sept 2026; the next is "NØXX Presents: INFLICTION x REDHOT" on Fri, 18 Sept 2026.
 
-Room 2 Glasgow is a music venue in Glasgow listed on soundcheck. 15 upcoming nights, with line-ups including Girls of the Internet, Jalo, KIRSTY and Mauro Picotto and 2 more. Browse upcoming dates, start times and who's playing. 69 Nelson Mandela Pl, Glasgow G2 1QY, United Kingdom.
+Room 2 Glasgow is a music venue in Glasgow listed on soundcheck. 13 upcoming nights, with line-ups including Girls of the Internet, Jalo, KIRSTY and Mauro Picotto and 2 more. Browse upcoming dates, start times and who's playing. 69 Nelson Mandela Pl, Glasgow G2 1QY, United Kingdom.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 12 Sept 2026 | LOVEHATE x OBSCURA B2B ALL NIGHT LONG |  |
-| Sat, 12 Sept 2026 | Azumaya -Thursday- | suimin |
 | Fri, 18 Sept 2026 | NØXX Presents: INFLICTION x REDHOT | MXWLL |
 | Sat, 19 Sept 2026 | Kitchen Gaff Presents: Mortis, Swanny + Support | TYZM |
 | Sun, 27 Sept 2026 | DISFUNCTION x BOUNCE: Pawlowski | Pawlowski (UK) |
@@ -18,9 +16,11 @@ Room 2 Glasgow is a music venue in Glasgow listed on soundcheck. 15 upcoming nig
 | Sat, 10 Oct 2026 | Havox x Demolition Pres: Anoluxx & Dros b2b Nøvar |  |
 | Fri, 23 Oct 2026 | ABRUPT presents NEEK + more | Neek |
 | Sat, 24 Oct 2026 | Teletech Glasgow: KIRSTY [All Night Long] | KIRSTY |
+| Sat, 24 Oct 2026 | Girls of the Internet (Live) | Girls of the Internet |
+| Sat, 31 Oct 2026 | DRIP Halloween |  |
 
 ## Address
 
 69 Nelson Mandela Pl, Glasgow G2 1QY, United Kingdom, Glasgow
 
-*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/room-2-glasgow/)*
+*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/room-2-glasgow/)*

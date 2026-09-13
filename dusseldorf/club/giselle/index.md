@@ -1,14 +1,13 @@
 # Giselle
 
-Giselle is a music venue in Düsseldorf with 7 upcoming nights listed on soundcheck as of Sat, 12 Sept 2026; the next is "SAFE ROOM CLUB SESSION" on Sat, 12 Sept 2026.
+Giselle is a music venue in Düsseldorf with 6 upcoming nights listed on soundcheck as of Sun, 13 Sept 2026; the next is "David Elimelech & POLSCHI" on Fri, 18 Sept 2026.
 
-Giselle is a music venue in Dusseldorf listed on soundcheck. 7 upcoming nights, with line-ups including Chet Rubbs, Chris Gerber, David Elimelech and DJ Flatbeat and 2 more. Browse upcoming dates, start times and who's playing. 147 Oststrasse 40210.
+Giselle is a music venue in Dusseldorf listed on soundcheck. 6 upcoming nights, with line-ups including Chet Rubbs, Chris Gerber, David Elimelech and DJ Flatbeat and 2 more. Browse upcoming dates, start times and who's playing. 147 Oststrasse 40210.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 12 Sept 2026 | SAFE ROOM CLUB SESSION | keikee |
 | Fri, 18 Sept 2026 | David Elimelech & POLSCHI | David Elimelech, POLSCHI (2) |
 | Sat, 19 Sept 2026 | Hotstuff (München) Takeover | Chet Rubbs, Goiaba, POLSCHI (2) |
 | Fri, 25 Sept 2026 | Sofia Zoloto (UA) all night long | Sofiia Zoloto |
@@ -20,4 +19,4 @@ Giselle is a music venue in Dusseldorf listed on soundcheck. 7 upcoming nights, 
 
 147 Oststrasse 40210, Düsseldorf
 
-*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dusseldorf/club/giselle/)*
+*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/dusseldorf/club/giselle/)*

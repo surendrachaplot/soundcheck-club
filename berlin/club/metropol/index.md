@@ -1,6 +1,6 @@
 # Metropol
 
-Metropol is a music venue in Berlin with 4 upcoming nights listed on soundcheck as of Sat, 12 Sept 2026; the next is "TUFF BERLIN FOLSOM" on Sun, 13 Sept 2026.
+Metropol is a music venue in Berlin with 4 upcoming nights listed on soundcheck as of Sun, 13 Sept 2026; the next is "TUFF BERLIN FOLSOM" on Sun, 13 Sept 2026.
 
 Metropol is a music venue in Berlin listed on soundcheck. 4 upcoming nights, with line-ups including Ben Manson, Danny Lethal and Tom Peters. Browse upcoming dates, start times and who's playing. Nollendorfplatz 5, 10777 Berlin.
 
@@ -17,4 +17,4 @@ Metropol is a music venue in Berlin listed on soundcheck. 4 upcoming nights, wit
 
 Nollendorfplatz 5, 10777 Berlin, Berlin
 
-*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/metropol/)*
+*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/metropol/)*

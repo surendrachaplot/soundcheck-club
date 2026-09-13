@@ -1,6 +1,6 @@
 # Ellen Allien
 
-Ellen Allien is a Techno and House artist with 12 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Fvtvr, Paris on Sat, 12 Sept 2026.
+Ellen Allien is a Techno and House artist with 12 upcoming club dates listed on soundcheck as of Sun, 13 Sept 2026, next at Fvtvr, Paris on Sat, 12 Sept 2026.
 
 Ellen Allien is a techno and house artist tracked on soundcheck, with 252 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 55 more. Often billed alongside Dr. Rubinstein, Shaleen and Metaraph. Next up: Fvtvr, Paris on Sat 12 Sept.
 
@@ -23,6 +23,7 @@ Ellen Allien is a techno and house artist tracked on soundcheck, with 252 sets l
 
 ## Recently played
 
+- Fvtvr, Paris — Sat, 12 Sept 2026
 - Hangaren, Copenhagen — Thu, 27 Aug 2026
 - Tempelhof Airport, Berlin — Sat, 22 Aug 2026
 - RSO.BERLIN, Berlin — Thu, 13 Aug 2026
@@ -30,10 +31,9 @@ Ellen Allien is a techno and house artist tracked on soundcheck, with 252 sets l
 - Zürichsee, Zurich — Sat, 8 Aug 2026
 - Palais Mascotte, Zurich — Sat, 8 Aug 2026
 - Amnesia Ibiza, Ibiza — Tue, 4 Aug 2026
-- Budapest Park, Budapest — Sat, 1 Aug 2026
 
 ## Shares bills with
 
 Dr. Rubinstein, Shaleen, Metaraph
 
-*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ellenallien/)*
+*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ellenallien/)*

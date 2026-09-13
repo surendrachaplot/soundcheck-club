@@ -1,14 +1,13 @@
 # INDRA TRAFERRI
 
-INDRA TRAFERRI is a House and Tech House artist with 5 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Sunseabar Beach Club, Barcelona on Sat, 12 Sept 2026.
+INDRA TRAFERRI is a House and Tech House artist with 4 upcoming club dates listed on soundcheck as of Sun, 13 Sept 2026, next at INPUT High Fidelity Dance Club, Barcelona on Sun, 13 Sept 2026.
 
-INDRA TRAFERRI is a house and tech house artist based in Argentina, tracked on soundcheck, with 54 sets logged across Barcelona. Often billed alongside Galu Bla, Mat Spiaggi and Vennegur. Next up: Sunseabar Beach Club, Barcelona on Sat 12 Sept.
+INDRA TRAFERRI is a house and tech house artist based in Argentina, tracked on soundcheck, with 54 sets logged across Barcelona. Often billed alongside Galu Bla, Mat Spiaggi and Vennegur. Next up: INPUT High Fidelity Dance Club, Barcelona on Sun 13 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 12 Sept 2026 | Sunseabar Beach Club | Barcelona |
 | Sun, 13 Sept 2026 | INPUT High Fidelity Dance Club | Barcelona |
 | Sat, 10 Oct 2026 | 303 Audiophile Bar | Barcelona |
 | Sun, 11 Oct 2026 | INPUT High Fidelity Dance Club | Barcelona |
@@ -16,6 +15,7 @@ INDRA TRAFERRI is a house and tech house artist based in Argentina, tracked on s
 
 ## Recently played
 
+- Sunseabar Beach Club, Barcelona — Sat, 12 Sept 2026
 - Seaseaclub Barcelona, Barcelona — Sun, 9 Aug 2026
 - Almar Beach Club, Barcelona — Sun, 26 Jul 2026
 - TBA - Backstage - Carrer Casp, 33, Barcelona — Fri, 24 Jul 2026
@@ -23,10 +23,9 @@ INDRA TRAFERRI is a house and tech house artist based in Argentina, tracked on s
 - Luz De Gas, Barcelona — Sun, 19 Jul 2026
 - TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona, Barcelona — Thu, 25 Jun 2026
 - La Terrrazza, Barcelona — Fri, 19 Jun 2026
-- Seaseaclub Barcelona, Barcelona — Sat, 9 May 2026
 
 ## Shares bills with
 
 Galu Bla, Mat Spiaggi, Vennegur
 
-*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/indra-ar/)*
+*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/indra-ar/)*

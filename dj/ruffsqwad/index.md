@@ -1,6 +1,6 @@
 # Ruff Sqwad
 
-Ruff Sqwad is a Bass and Drum & Bass artist with 1 upcoming club date listed on soundcheck as of Sat, 12 Sept 2026, next at The Cause, London on Sat, 12 Sept 2026.
+Ruff Sqwad is a Bass and Drum & Bass artist with 1 upcoming club date listed on soundcheck as of Sun, 13 Sept 2026, next at The Cause, London on Sat, 12 Sept 2026.
 
 Ruff Sqwad is a bass and drum & bass artist tracked on soundcheck, with 6 sets logged across London, Manchester, Paris and Rotterdam. Often billed alongside Christian AB, Darwin and Neffa-T. Next up: The Cause, London on Sat 12 Sept.
 
@@ -12,6 +12,7 @@ Ruff Sqwad is a bass and drum & bass artist tracked on soundcheck, with 6 sets l
 
 ## Recently played
 
+- The Cause, London — Sat, 12 Sept 2026
 - Phonox, London — Fri, 10 Jul 2026
 - Mono, Rotterdam — Sat, 1 Nov 2025
 - Gorilla, Manchester — Fri, 28 Feb 2025
@@ -22,4 +23,4 @@ Ruff Sqwad is a bass and drum & bass artist tracked on soundcheck, with 6 sets l
 
 Christian AB, Darwin, Neffa-T
 
-*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ruffsqwad/)*
+*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ruffsqwad/)*

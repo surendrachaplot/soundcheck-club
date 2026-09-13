@@ -1,6 +1,6 @@
 # Encarta 97
 
-Encarta 97 is a Electronica and Downtempo artist with 1 upcoming club date listed on soundcheck as of Sat, 12 Sept 2026, next at Drama Radio Bar, Mexico City on Wed, 9 Sept 2026.
+Encarta 97 is a Electronica and Downtempo artist with 1 upcoming club date listed on soundcheck as of Sun, 13 Sept 2026, next at Drama Radio Bar, Mexico City on Wed, 9 Sept 2026.
 
 Encarta 97 is an electronica and downtempo artist tracked on soundcheck, with 9 sets logged across Mexicocity. Often billed alongside Fig (DYN), Mejia and Alo. Next up: Drama Radio Bar, Mexicocity on Wed 9 Sept.
 
@@ -25,4 +25,4 @@ Encarta 97 is an electronica and downtempo artist tracked on soundcheck, with 9 
 
 Fig (DYN), Mejia, Alo
 
-*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/encarta97/)*
+*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/encarta97/)*

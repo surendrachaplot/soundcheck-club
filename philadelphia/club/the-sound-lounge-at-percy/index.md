@@ -1,15 +1,13 @@
 # The Sound Lounge at Percy
 
-The Sound Lounge at Percy is a music venue in Philadelphia with 8 upcoming nights listed on soundcheck as of Sat, 12 Sept 2026; the next is "Take A Trip with Mario Cotto" on Fri, 11 Sept 2026.
+The Sound Lounge at Percy is a music venue in Philadelphia with 6 upcoming nights listed on soundcheck as of Sun, 13 Sept 2026; the next is "Spatial Awareness - Doll.Redacted" on Thu, 17 Sept 2026.
 
-The Sound Lounge at Percy is a music venue in Philadelphia listed on soundcheck. 8 upcoming nights, with line-ups including Doll.Redacted, Mario Cotto, Nine of Wands and Skeme Richards. Browse upcoming dates, start times and who's playing. 1700 N Front Street, Philadelphia, PA. 19122.
+The Sound Lounge at Percy is a music venue in Philadelphia listed on soundcheck. 6 upcoming nights, with line-ups including Doll.Redacted, Nine of Wands and Skeme Richards. Browse upcoming dates, start times and who's playing. 1700 N Front Street, Philadelphia, PA. 19122.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 11 Sept 2026 | Take A Trip with Mario Cotto | Mario Cotto |
-| Sat, 12 Sept 2026 | FUNKADELIC – MAGGOT BRAIN: CORKY'S COFFEE LISTENING SESSION |  |
 | Thu, 17 Sept 2026 | Spatial Awareness - Doll.Redacted | Doll.Redacted |
 | Fri, 18 Sept 2026 | All The Way Down with Nine of Wands | Nine of Wands |
 | Tue, 22 Sept 2026 | PITCHBLACK PREMIER:  JOHN COLTRANE'S 'COLTRANE 100 - HIGHLIGHTS FROM 1957-1964 |  |
@@ -21,4 +19,4 @@ The Sound Lounge at Percy is a music venue in Philadelphia listed on soundcheck.
 
 1700 N Front Street, Philadelphia, PA. 19122, Philadelphia
 
-*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/philadelphia/club/the-sound-lounge-at-percy/)*
+*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/philadelphia/club/the-sound-lounge-at-percy/)*

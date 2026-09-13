@@ -1,14 +1,13 @@
 # Annie Lew
 
-Annie Lew is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Paragon, New York City on Sat, 12 Sept 2026.
+Annie Lew is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Sun, 13 Sept 2026, next at Bossa Nova Civic Club, New York City on Mon, 21 Sept 2026.
 
-Annie Lew is a techno and house artist tracked on soundcheck, with 80 sets logged across Berlin, Boston, Losangeles and Newyorkcity and 1 more. Often billed alongside Mos (NYC), KYRUH and Kilopatrah Jones. Next up: Paragon, Newyorkcity on Sat 12 Sept.
+Annie Lew is a techno and house artist tracked on soundcheck, with 80 sets logged across Berlin, Boston, Losangeles and Newyorkcity and 1 more. Often billed alongside Mos (NYC), KYRUH and Kilopatrah Jones. Next up: Bossa Nova Civic Club, Newyorkcity on Mon 21 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 12 Sept 2026 | Paragon | New York City |
 | Mon, 21 Sept 2026 | Bossa Nova Civic Club | New York City |
 | Thu, 24 Sept 2026 | TBA | Boston |
 | Fri, 25 Sept 2026 | TBA | New York City |
@@ -17,6 +16,7 @@ Annie Lew is a techno and house artist tracked on soundcheck, with 80 sets logge
 
 ## Recently played
 
+- Paragon, New York City — Sat, 12 Sept 2026
 - Jean’s, New York City — Wed, 9 Sept 2026
 - TBA, Los Angeles — Sat, 5 Sept 2026
 - BASEMENT, New York City — Sat, 29 Aug 2026
@@ -24,10 +24,9 @@ Annie Lew is a techno and house artist tracked on soundcheck, with 80 sets logge
 - Else, Berlin — Sat, 1 Aug 2026
 - RSO.BERLIN, Berlin — Sat, 11 Jul 2026
 - The Chocolate Factory, New York City — Sat, 13 Jun 2026
-- TBA - Brooklyn, New York City — Sat, 30 May 2026
 
 ## Shares bills with
 
 Mos (NYC), KYRUH, Kilopatrah Jones
 
-*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/annielew/)*
+*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/annielew/)*

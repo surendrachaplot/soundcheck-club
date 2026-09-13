@@ -1,6 +1,6 @@
 # Bláthnaid
 
-Bláthnaid is a House and Garage artist with 2 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at The Sound House, Dublin on Thu, 17 Sept 2026.
+Bláthnaid is a House and Garage artist with 2 upcoming club dates listed on soundcheck as of Sun, 13 Sept 2026, next at The Sound House, Dublin on Thu, 17 Sept 2026.
 
 Bláthnaid is a house and garage artist based in Ireland, tracked on soundcheck, with 4 sets logged across Dublin. Often billed alongside eskay, Jenn Hession and Kaycee. Next up: The Sound House, Dublin on Thu 17 Sept.
 
@@ -20,4 +20,4 @@ Bláthnaid is a house and garage artist based in Ireland, tracked on soundcheck,
 
 eskay, Jenn Hession, Kaycee
 
-*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/blathnaid/)*
+*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/blathnaid/)*

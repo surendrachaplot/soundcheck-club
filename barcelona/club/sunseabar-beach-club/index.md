@@ -1,14 +1,13 @@
 # Sunseabar Beach Club
 
-Sunseabar Beach Club is a music venue in Barcelona with 12 upcoming nights listed on soundcheck as of Sat, 12 Sept 2026; the next is "FREE OPEN AIR BEACH PARTY - Les Enfants x Roots" on Sat, 12 Sept 2026.
+Sunseabar Beach Club is a music venue in Barcelona with 11 upcoming nights listed on soundcheck as of Sun, 13 Sept 2026; the next is "AUDIODISE BEACH CLOSING pres. Hamatsuki & skyra (Bassiani) exclusive 4h Live & DJ set " on Sun, 13 Sept 2026.
 
-Sunseabar Beach Club is a music venue in Barcelona listed on soundcheck. 12 upcoming nights, with line-ups including acidheaven, Alex (ES), Alex Pott and Alvaro Medina and 2 more. Browse upcoming dates, start times and who's playing. Calle La Pau, Platja del Forum, Barcelona, Spain.
+Sunseabar Beach Club is a music venue in Barcelona listed on soundcheck. 11 upcoming nights, with line-ups including acidheaven, Alex (ES), Alex Pott and Alvaro Medina and 2 more. Browse upcoming dates, start times and who's playing. Calle La Pau, Platja del Forum, Barcelona, Spain.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 12 Sept 2026 | FREE OPEN AIR BEACH PARTY - Les Enfants x Roots | Alex (ES), INDRA TRAFERRI, MostWanted, Plash |
 | Sun, 13 Sept 2026 | AUDIODISE BEACH CLOSING pres. Hamatsuki & skyra (Bassiani) exclusive 4h Live & DJ set  | Hamatsuki, Martini Raw, Swann, skyra |
 | Thu, 17 Sept 2026 | [FREE OPEN AIR BEACH PARTY] Mund Radio: BARNA92 | Bejenec, caskobi |
 | Fri, 18 Sept 2026 | FREE OPEN AIR BEACH PARTY - El Bassline showcase | Bttologic, Fedo (UA), John Karam, Silat Beksi, TOT (BR) |
@@ -18,9 +17,10 @@ Sunseabar Beach Club is a music venue in Barcelona listed on soundcheck. 12 upco
 | Thu, 24 Sept 2026 | La Mercè Festa a la Platja del Forum Pres Hassler aka Coyu [FREE ACCESS] | ATMEN, Breezy S, Cesar Martino, Eli Kapowski, Franz (AR), Günther Robles, Hassler |
 | Sat, 26 Sept 2026 | Heels & Souls On The Beach: Liquid Earth, Oriana, acidheaven, Perro Jimbo, VIKk | Arnau, Liquid Earth, Lydia Vilas, Oriana, Perro Jimbo, VIKk, acidheaven |
 | Sat, 26 Sept 2026 | FREE OPEN AIR BEACH PARTY - Spark On The Dust | Alex (ES), Alex Pott, Ion Pananides |
+| Sun, 27 Sept 2026 | FREE OPEN AIR BEACH PARTY - CLOSING SEASON Les Enfants pres. Djebali | Alvaro Medina, Djebali, Hitch, Jones May |
 
 ## Address
 
 Calle La Pau, Platja del Forum, Barcelona, Spain, Barcelona
 
-*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/sunseabar-beach-club/)*
+*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/sunseabar-beach-club/)*

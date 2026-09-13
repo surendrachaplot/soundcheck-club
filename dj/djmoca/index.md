@@ -1,6 +1,6 @@
 # djmoca
 
-djmoca is a Techno and Minimal artist with 2 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Culture Cafe, Bangkok on Sat, 19 Sept 2026.
+djmoca is a Techno and Minimal artist with 2 upcoming club dates listed on soundcheck as of Sun, 13 Sept 2026, next at Culture Cafe, Bangkok on Sat, 19 Sept 2026.
 
 djmoca is a techno and minimal artist tracked on soundcheck, with 42 sets logged across Bangkok. Often billed alongside Kanabis Stoned, A_Lien and Mody. Next up: Culture Cafe, Bangkok on Sat 19 Sept.
 
@@ -26,4 +26,4 @@ djmoca is a techno and minimal artist tracked on soundcheck, with 42 sets logged
 
 Kanabis Stoned, A_Lien, Mody
 
-*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djmoca/)*
+*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djmoca/)*

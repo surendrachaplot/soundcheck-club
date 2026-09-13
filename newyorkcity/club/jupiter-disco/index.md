@@ -1,6 +1,6 @@
 # Jupiter Disco
 
-Jupiter Disco is a music venue in New York City with 23 upcoming nights listed on soundcheck as of Sat, 12 Sept 2026; the next is "Summerhaus Sunday Church Edition: DJ cega, Niyx, EMZ!, DJ Yammi, silkshirt" on Sun, 13 Sept 2026.
+Jupiter Disco is a music venue in New York City with 23 upcoming nights listed on soundcheck as of Sun, 13 Sept 2026; the next is "Summerhaus Sunday Church Edition: DJ cega, Niyx, EMZ!, DJ Yammi, silkshirt" on Sun, 13 Sept 2026.
 
 Jupiter Disco is a music venue in Newyorkcity listed on soundcheck. 23 upcoming nights, with line-ups including ALI IRL, Ardio Zemog, Arjun Shah and Balam and 2 more. Browse upcoming dates, start times and who's playing. 1237 Flushing Avenue, Brooklyn, NY 11237, USA.
 
@@ -23,4 +23,4 @@ Jupiter Disco is a music venue in Newyorkcity listed on soundcheck. 23 upcoming 
 
 1237 Flushing Avenue, Brooklyn, NY 11237, USA, New York City
 
-*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/jupiter-disco/)*
+*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/jupiter-disco/)*

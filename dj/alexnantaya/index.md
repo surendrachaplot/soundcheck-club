@@ -1,14 +1,13 @@
 # Alex Nantaya
 
-Alex Nantaya is a Techno and Electro artist with 4 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Zoo, Geneva on Fri, 11 Sept 2026.
+Alex Nantaya is a Techno and Electro artist with 3 upcoming club dates listed on soundcheck as of Sun, 13 Sept 2026, next at Halle W, Geneva on Fri, 25 Sept 2026.
 
-Alex Nantaya is a techno and electro artist tracked on soundcheck, with 72 sets logged across Bangkok, Basel, Berlin and Geneva and 8 more. Often billed alongside Bours?, Doma and Gioski. Next up: Zoo, Geneva on Fri 11 Sept.
+Alex Nantaya is a techno and electro artist tracked on soundcheck, with 72 sets logged across Bangkok, Basel, Berlin and Geneva and 8 more. Often billed alongside Bours?, Doma and Gioski. Next up: Halle W, Geneva on Fri 25 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 11 Sept 2026 | Zoo | Geneva |
 | Fri, 25 Sept 2026 | Halle W | Geneva |
 | Sat, 26 Sept 2026 | Mia Mao | Paris |
 | Fri, 16 Oct 2026 | Parc Floral De Paris | Paris |
@@ -28,4 +27,4 @@ Alex Nantaya is a techno and electro artist tracked on soundcheck, with 72 sets 
 
 Bours?, Doma, Gioski
 
-*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/alexnantaya/)*
+*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/alexnantaya/)*

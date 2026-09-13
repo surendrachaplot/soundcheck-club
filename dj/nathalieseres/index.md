@@ -1,6 +1,6 @@
 # Nathalie Seres
 
-Nathalie Seres is a House and Techno artist with 7 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at TBA - Secret Villa , Barcelona on Sat, 19 Sept 2026.
+Nathalie Seres is a House and Techno artist with 7 upcoming club dates listed on soundcheck as of Sun, 13 Sept 2026, next at TBA - Secret Villa , Barcelona on Sat, 19 Sept 2026.
 
 Nathalie Seres is a house and techno artist based in Germany, tracked on soundcheck, with 74 sets logged across Amsterdam, Antwerp, Barcelona and Berlin and 15 more. Often billed alongside DJ Senc, Steffi and Adiel. Next up: TBA - Secret Villa , Barcelona on Sat 19 Sept.
 
@@ -31,4 +31,4 @@ Nathalie Seres is a house and techno artist based in Germany, tracked on soundch
 
 DJ Senc, Steffi, Adiel
 
-*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nathalieseres/)*
+*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nathalieseres/)*

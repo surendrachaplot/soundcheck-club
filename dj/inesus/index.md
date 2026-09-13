@@ -1,6 +1,6 @@
 # Inés (US)
 
-Inés (US) is a Disco and Funk / Soul artist with 2 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at TBA - Humboldt Park (Follow @humboldtarboreal for details), Chicago on Sun, 13 Sept 2026.
+Inés (US) is a Disco and Funk / Soul artist with 2 upcoming club dates listed on soundcheck as of Sun, 13 Sept 2026, next at TBA - Humboldt Park (Follow @humboldtarboreal for details), Chicago on Sun, 13 Sept 2026.
 
 Inés (US) is a disco and funk / soul artist based in United States of America, tracked on soundcheck, with 26 sets logged across Chicago, Detroit and Newyorkcity. Often billed alongside Yukiko, Leja Hazer and Marc Davis. Next up: TBA - Humboldt Park (Follow @humboldtarboreal for details), Chicago on Sun 13 Sept.
 
@@ -26,4 +26,4 @@ Inés (US) is a disco and funk / soul artist based in United States of America, 
 
 Yukiko, Leja Hazer, Marc Davis
 
-*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/inesus/)*
+*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/inesus/)*

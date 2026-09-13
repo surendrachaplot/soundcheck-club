@@ -1,6 +1,6 @@
 # ANTRO
 
-ANTRO is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 12 Sept 2026, next at Giri, Berlin on Fri, 9 Oct 2026.
+ANTRO is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 13 Sept 2026, next at Giri, Berlin on Fri, 9 Oct 2026.
 
 ANTRO is a house and techno artist tracked on soundcheck, with 6 sets logged across Berlin. Often billed alongside PHLOXO, HAUSBRAND and .Cheka. Next up: Giri, Berlin on Fri 9 Oct.
 
@@ -22,4 +22,4 @@ ANTRO is a house and techno artist tracked on soundcheck, with 6 sets logged acr
 
 PHLOXO, HAUSBRAND, .Cheka
 
-*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/antro/)*
+*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/antro/)*

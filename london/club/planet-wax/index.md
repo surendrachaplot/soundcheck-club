@@ -1,15 +1,13 @@
 # Planet Wax
 
-Planet Wax is a music venue in London with 29 upcoming nights listed on soundcheck as of Sat, 12 Sept 2026; the next is "MONSTERS MUSIC x HEXAGON DUBS" on Sat, 12 Sept 2026.
+Planet Wax is a music venue in London with 27 upcoming nights listed on soundcheck as of Sun, 13 Sept 2026; the next is "BACK 2 THE OLD SKOOL" on Sun, 13 Sept 2026.
 
-Planet Wax is a music venue in London listed on soundcheck. 29 upcoming nights, with line-ups including Aja (FR), Andy Foundations, andz and Aura and 2 more. Browse upcoming dates, start times and who's playing. 318 NEW CROSS ROAD LONDON SE14 6AF.
+Planet Wax is a music venue in London listed on soundcheck. 27 upcoming nights, with line-ups including Aja (FR), Andy Foundations, andz and Aura and 2 more. Browse upcoming dates, start times and who's playing. 318 NEW CROSS ROAD LONDON SE14 6AF.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 12 Sept 2026 | MONSTERS MUSIC x HEXAGON DUBS | Drime, Nav (1), Nightmare, RAFE |
-| Sat, 12 Sept 2026 | TAIKO: TAKEOVER Planet Wax | DJ Heny.G, GUS (5), Peroli, Scar Duggy, ZEE-2 |
 | Sun, 13 Sept 2026 | BACK 2 THE OLD SKOOL | Andy Foundations, DJ Jedi, EN.VEE, t e s t p r e s s |
 | Sun, 13 Sept 2026 | SUNDAY SERVICE | Troppo Daffy, Uncle G, Yasmine (UK) |
 | Wed, 16 Sept 2026 | OPEN DECKS |  |
@@ -18,9 +16,11 @@ Planet Wax is a music venue in London listed on soundcheck. 29 upcoming nights, 
 | Fri, 18 Sept 2026 | HAPPY HOUR | Dexta, Uncle G |
 | Sat, 19 Sept 2026 | DANCE UK 96.1FM: THE REUNION | Little D (CO), Rushmore, Sovereign, Trade |
 | Sat, 19 Sept 2026 | Tom Place & FRIENDS | LO-LOW, Phasmid, Sissy Cinnamon, Tom Place |
+| Thu, 24 Sept 2026 | THE FOUNDATION: JUNGLE REJECTS | Kara (UK), Millz, Wilman |
+| Fri, 25 Sept 2026 | SWEET N SOUR | OB, WYR (UK), tmk (CZ) |
 
 ## Address
 
 318 NEW CROSS ROAD LONDON SE14 6AF, London
 
-*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/planet-wax/)*
+*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/planet-wax/)*

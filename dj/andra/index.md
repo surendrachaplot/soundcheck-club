@@ -1,6 +1,6 @@
 # Andra
 
-Andra is a Techno and Electronica artist with 1 upcoming club date listed on soundcheck as of Sat, 12 Sept 2026, next at RSO.BERLIN, Berlin on Sat, 12 Sept 2026.
+Andra is a Techno and Electronica artist with 1 upcoming club date listed on soundcheck as of Sun, 13 Sept 2026, next at RSO.BERLIN, Berlin on Sat, 12 Sept 2026.
 
 Andra is a techno and electronica artist based in Indonesia, tracked on soundcheck, with 6 sets logged across Bali, Berlin, Mexicocity and Warsaw. Often billed alongside Andrea, Astro and Blame Anthony. Next up: RSO.BERLIN, Berlin on Sat 12 Sept.
 
@@ -12,6 +12,7 @@ Andra is a techno and electronica artist based in Indonesia, tracked on soundche
 
 ## Recently played
 
+- RSO.BERLIN, Berlin — Sat, 12 Sept 2026
 - Jasna 1, Warsaw — Thu, 9 Jul 2026
 - Drama Radio Bar, Mexico City — Tue, 16 Jun 2026
 - Studio1111, Berlin — Sat, 25 Apr 2026
@@ -22,4 +23,4 @@ Andra is a techno and electronica artist based in Indonesia, tracked on soundche
 
 Andrea, Astro, Blame Anthony
 
-*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/andra/)*
+*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/andra/)*

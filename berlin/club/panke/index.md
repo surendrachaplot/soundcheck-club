@@ -1,14 +1,13 @@
 # Panke
 
-Panke is a music venue in Berlin with 13 upcoming nights listed on soundcheck as of Sat, 12 Sept 2026; the next is "1 year Anniversary of Migrant Birds" on Sat, 12 Sept 2026.
+Panke is a music venue in Berlin with 12 upcoming nights listed on soundcheck as of Sun, 13 Sept 2026; the next is "DUCK SAVED JONES × SHEEP EFFECT × DJ Genys" on Sun, 13 Sept 2026.
 
-Panke is a music venue in Berlin listed on soundcheck. 13 upcoming nights, with line-ups including AGILITÄT, Alex Wilcox, BBBBBBB and Catnapp and 2 more. Browse upcoming dates, start times and who's playing. Gerichtstraße 23, 13347 Berlin.
+Panke is a music venue in Berlin listed on soundcheck. 12 upcoming nights, with line-ups including AGILITÄT, Alex Wilcox, BBBBBBB and Catnapp and 2 more. Browse upcoming dates, start times and who's playing. Gerichtstraße 23, 13347 Berlin.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 12 Sept 2026 | 1 year Anniversary of Migrant Birds | URUBU Marinka, kvadosh |
 | Sun, 13 Sept 2026 | DUCK SAVED JONES × SHEEP EFFECT × DJ Genys | Genys |
 | Thu, 17 Sept 2026 | JuJu Roger's Live with band |  |
 | Sat, 19 Sept 2026 | TASKEER x JellyZone | Jana, Saphe, Taradud, ZOBAYDA |
@@ -18,9 +17,10 @@ Panke is a music venue in Berlin listed on soundcheck. 13 upcoming nights, with 
 | Thu, 8 Oct 2026 | Sherryaeri presents: Rage'N'Bounce - Stay Core - TDC 2026 | Jana, Sherryaeri, Soyklo |
 | Sat, 10 Oct 2026 | Outside the BigMac, vol.5: October Edition | Chris Imler |
 | Fri, 16 Oct 2026 | Bassism 5.0 feat. N-Type & Slowie | Dj Alyaz, Dj Quien, Grzly Adams, N-Type, Scre_wy, Tommy Lexxus, VILIFY |
+| Fri, 30 Oct 2026 | FUKSTEP |  |
 
 ## Address
 
 Gerichtstraße 23, 13347 Berlin, Berlin
 
-*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/panke/)*
+*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/panke/)*

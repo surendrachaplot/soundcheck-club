@@ -1,19 +1,19 @@
 # ENFAN
 
-ENFAN is a Techno and Hardcore artist with 3 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Le Petit Salon, Lyon on Sat, 12 Sept 2026.
+ENFAN is a Techno and Hardcore artist with 2 upcoming club dates listed on soundcheck as of Sun, 13 Sept 2026, next at Mia Mao, Paris on Sat, 10 Oct 2026.
 
-ENFAN is a techno and hardcore artist tracked on soundcheck, with 33 sets logged across Antwerp, Berlin, Cologne and Lyon and 6 more. Often billed alongside KARAH, Cassie Raptor and Lolalita. Next up: Le Petit Salon, Lyon on Sat 12 Sept.
+ENFAN is a techno and hardcore artist tracked on soundcheck, with 33 sets logged across Antwerp, Berlin, Cologne and Lyon and 6 more. Often billed alongside KARAH, Cassie Raptor and Lolalita. Next up: Mia Mao, Paris on Sat 10 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 12 Sept 2026 | Le Petit Salon | Lyon |
 | Sat, 10 Oct 2026 | Mia Mao | Paris |
 | Sat, 28 Nov 2026 | Depot Mayfield | Manchester |
 
 ## Recently played
 
+- Le Petit Salon, Lyon — Sat, 12 Sept 2026
 - Le Kilowatt, Paris — Sat, 25 Jul 2026
 - Warehouse, Nantes — Fri, 15 May 2026
 - Odonien, Cologne — Fri, 17 Apr 2026
@@ -21,10 +21,9 @@ ENFAN is a techno and hardcore artist tracked on soundcheck, with 33 sets logged
 - Mia Mao, Paris — Sat, 27 Dec 2025
 - Noct, Paris — Thu, 25 Sept 2025
 - Mia Mao, Paris — Sat, 30 Aug 2025
-- Kilomètre25, Paris — Fri, 25 Jul 2025
 
 ## Shares bills with
 
 KARAH, Cassie Raptor, Lolalita
 
-*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/enfan/)*
+*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/enfan/)*

@@ -1,14 +1,13 @@
 # Andrea Saba
 
-Andrea Saba is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at PRST, Vienna on Fri, 11 Sept 2026.
+Andrea Saba is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Sun, 13 Sept 2026, next at Balagan Roma, Rome on Sun, 13 Sept 2026.
 
-Andrea Saba is a house and tech house artist tracked on soundcheck, with 56 sets logged across Berlin, Ibiza, London and Milan and 5 more. Often billed alongside Francesco Maria, Alessandro Addi and GNMR. Next up: PRST, Vienna on Fri 11 Sept.
+Andrea Saba is a house and tech house artist tracked on soundcheck, with 56 sets logged across Berlin, Ibiza, London and Milan and 5 more. Often billed alongside Francesco Maria, Alessandro Addi and GNMR. Next up: Balagan Roma, Rome on Sun 13 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 11 Sept 2026 | PRST | Vienna |
 | Sun, 13 Sept 2026 | Balagan Roma | Rome |
 
 ## Recently played
@@ -26,4 +25,4 @@ Andrea Saba is a house and tech house artist tracked on soundcheck, with 56 sets
 
 Francesco Maria, Alessandro Addi, GNMR
 
-*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/andreasaba/)*
+*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/andreasaba/)*

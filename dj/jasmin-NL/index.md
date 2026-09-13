@@ -1,14 +1,13 @@
 # Jasmín
 
-Jasmín is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Blå, Oslo on Thu, 10 Sept 2026.
+Jasmín is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Sun, 13 Sept 2026, next at TILLATEC, Amsterdam on Fri, 18 Sept 2026.
 
-Jasmín is a techno and house artist tracked on soundcheck, with 108 sets logged across Amsterdam, Antwerp, Barcelona and Berlin and 19 more. Often billed alongside mad miran, Fafi Abdel Nour and Nèna. Next up: Blå, Oslo on Thu 10 Sept.
+Jasmín is a techno and house artist tracked on soundcheck, with 108 sets logged across Amsterdam, Antwerp, Barcelona and Berlin and 19 more. Often billed alongside mad miran, Fafi Abdel Nour and Nèna. Next up: TILLATEC, Amsterdam on Fri 18 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Thu, 10 Sept 2026 | Blå | Oslo |
 | Fri, 18 Sept 2026 | TILLATEC | Amsterdam |
 | Sat, 3 Oct 2026 | fabric | London |
 | Sun, 25 Oct 2026 | Radio Radio | Amsterdam |
@@ -29,4 +28,4 @@ Jasmín is a techno and house artist tracked on soundcheck, with 108 sets logged
 
 mad miran, Fafi Abdel Nour, Nèna
 
-*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jasmin-NL/)*
+*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jasmin-NL/)*

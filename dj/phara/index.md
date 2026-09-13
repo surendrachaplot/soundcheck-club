@@ -1,6 +1,6 @@
 # Phara
 
-Phara is a Techno and House artist with 7 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Moog Club, Barcelona on Wed, 16 Sept 2026.
+Phara is a Techno and House artist with 7 upcoming club dates listed on soundcheck as of Sun, 13 Sept 2026, next at Moog Club, Barcelona on Wed, 16 Sept 2026.
 
 Phara is a techno and house artist tracked on soundcheck, with 177 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 41 more. Often billed alongside Altinbas, Marie-Julie and Kr!z. Next up: Moog Club, Barcelona on Wed 16 Sept.
 
@@ -31,4 +31,4 @@ Phara is a techno and house artist tracked on soundcheck, with 177 sets logged a
 
 Altinbas, Marie-Julie, Kr!z
 
-*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/phara/)*
+*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/phara/)*

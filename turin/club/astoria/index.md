@@ -1,14 +1,13 @@
 # Astoria
 
-Astoria is a music venue in Turin with 15 upcoming nights listed on soundcheck as of Sat, 12 Sept 2026; the next is "Astoria CALLS Capogiro CREW" on Sat, 12 Sept 2026.
+Astoria is a music venue in Turin with 14 upcoming nights listed on soundcheck as of Sun, 13 Sept 2026; the next is "TECHNOBULL RESIDENCY: Allegretti, Lyss, Syca" on Fri, 18 Sept 2026.
 
-Astoria is a music venue in Turin listed on soundcheck. 15 upcoming nights, with line-ups including Aberra, Allegretti, AMRED and BENZA and 2 more. Browse upcoming dates, start times and who's playing. Via Claudio Luigi Berthollet 13, 10125 Torino (TO), Italy.
+Astoria is a music venue in Turin listed on soundcheck. 14 upcoming nights, with line-ups including Aberra, Allegretti, AMRED and BENZA and 2 more. Browse upcoming dates, start times and who's playing. Via Claudio Luigi Berthollet 13, 10125 Torino (TO), Italy.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 12 Sept 2026 | Astoria CALLS Capogiro CREW | IDJayy |
 | Fri, 18 Sept 2026 | TECHNOBULL RESIDENCY: Allegretti, Lyss, Syca | Allegretti, Syca |
 | Sat, 19 Sept 2026 | Da BOUNCEMENT Astoria w/Paolo Doldo | Hellson5 |
 | Fri, 25 Sept 2026 | TECHNOBULL RESIDENCY: Aberra, Adler, Yerdok | Aberra |
@@ -18,9 +17,10 @@ Astoria is a music venue in Turin listed on soundcheck. 15 upcoming nights, with
 | Sat, 10 Oct 2026 | Capogiro OPENING PARTY | AMRED |
 | Fri, 16 Oct 2026 | TECHNOBULL: Lobster (Vault Sessions, Float Records /NL), Teeo Kristo & Syca | Lobster (NL), Syca, Teeo |
 | Fri, 30 Oct 2026 | TECHNOBULL: Hitam (Eerste Communie, Hayes, Rhiza Semar /NL) Andrea Perna, THEGOD01 | Hitam, Rytm, THEGOD01 |
+| Fri, 6 Nov 2026 | Jin Synth (Semantica Records, On Board Music, KR3 Records /TW) hosted by Eclisse | Jin Synth |
 
 ## Address
 
 Via Claudio Luigi Berthollet 13, 10125 Torino (TO), Italy, Turin
 
-*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/turin/club/astoria/)*
+*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/turin/club/astoria/)*

@@ -1,6 +1,6 @@
 # Glaskin
 
-Glaskin is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 12 Sept 2026, next at Le Sucre, Lyon on Sun, 13 Sept 2026.
+Glaskin is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sun, 13 Sept 2026, next at Le Sucre, Lyon on Sun, 13 Sept 2026.
 
 Glaskin is a techno and house artist tracked on soundcheck, with 65 sets logged across Amsterdam, Barcelona, Berlin and Cologne and 7 more. Often billed alongside Muallem, 600-cell and BASHKKA. Next up: Le Sucre, Lyon on Sun 13 Sept.
 
@@ -25,4 +25,4 @@ Glaskin is a techno and house artist tracked on soundcheck, with 65 sets logged 
 
 Muallem, 600-cell, BASHKKA
 
-*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/glaskin/)*
+*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/glaskin/)*

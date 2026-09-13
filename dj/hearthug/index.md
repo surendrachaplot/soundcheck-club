@@ -1,14 +1,13 @@
 # HearThug
 
-HearThug is a House and Electro artist with 6 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Ouseburn Garden, Newcastle on Sat, 12 Sept 2026.
+HearThug is a House and Electro artist with 5 upcoming club dates listed on soundcheck as of Sun, 13 Sept 2026, next at Cadavra, Madrid on Fri, 18 Sept 2026.
 
-HearThug is a house and electro artist based in Tunisia, tracked on soundcheck, with 58 sets logged across Amsterdam, Barcelona, Belgrade and Berlin and 19 more. Often billed alongside Occibel, IAMBP and Alyhas. Next up: Ouseburn Garden, Newcastle on Sat 12 Sept.
+HearThug is a house and electro artist based in Tunisia, tracked on soundcheck, with 58 sets logged across Amsterdam, Barcelona, Belgrade and Berlin and 19 more. Often billed alongside Occibel, IAMBP and Alyhas. Next up: Cadavra, Madrid on Fri 18 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 12 Sept 2026 | Ouseburn Garden | Newcastle |
 | Fri, 18 Sept 2026 | Cadavra | Madrid |
 | Sat, 19 Sept 2026 | Les Enfants Brillants | Barcelona |
 | Fri, 25 Sept 2026 | 93 Feet East | London |
@@ -17,6 +16,7 @@ HearThug is a house and electro artist based in Tunisia, tracked on soundcheck, 
 
 ## Recently played
 
+- Ouseburn Garden, Newcastle — Sat, 12 Sept 2026
 - Citadelle de Marseille, Marseille — Sat, 29 Aug 2026
 - Hertz, Seoul — Sat, 22 Aug 2026
 - Acadana, Hong Kong — Fri, 21 Aug 2026
@@ -24,10 +24,9 @@ HearThug is a house and electro artist based in Tunisia, tracked on soundcheck, 
 - Gretchen, Berlin — Fri, 10 Jul 2026
 - Fvtvr, Paris — Sat, 20 Jun 2026
 - UMI, Brussels — Fri, 5 Jun 2026
-- Parco Industria Alfa Romeo, Milan — Sat, 23 May 2026
 
 ## Shares bills with
 
 Occibel, IAMBP, Alyhas
 
-*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/hearthug/)*
+*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/hearthug/)*

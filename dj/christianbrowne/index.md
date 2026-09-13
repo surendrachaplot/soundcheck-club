@@ -1,6 +1,6 @@
 # Christian AB
 
-Christian AB is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 12 Sept 2026, next at The Cause, London on Sat, 12 Sept 2026.
+Christian AB is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 13 Sept 2026, next at The Cause, London on Sat, 12 Sept 2026.
 
 Christian AB is a house and techno artist tracked on soundcheck, with 190 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 37 more. Often billed alongside Quest (IT), Francesco Del Garda and Quest. Next up: The Cause, London on Sat 12 Sept.
 
@@ -12,6 +12,7 @@ Christian AB is a house and techno artist tracked on soundcheck, with 190 sets l
 
 ## Recently played
 
+- The Cause, London — Sat, 12 Sept 2026
 - Amnesia Ibiza, Ibiza — Thu, 3 Sept 2026
 - Amsterdamse Bos, Amsterdam — Fri, 31 Jul 2026
 - Amsterdamse Bos, Amsterdam — Wed, 29 Jul 2026
@@ -19,10 +20,9 @@ Christian AB is a house and techno artist tracked on soundcheck, with 190 sets l
 - DC-10, Ibiza — Mon, 6 Jul 2026
 - Lux Fragil, Lisbon — Sat, 27 Jun 2026
 - FOLD, London — Fri, 26 Jun 2026
-- Zt Hotel + Wolf Club, Barcelona — Sun, 21 Jun 2026
 
 ## Shares bills with
 
 Quest (IT), Francesco Del Garda, Quest
 
-*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/christianbrowne/)*
+*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/christianbrowne/)*

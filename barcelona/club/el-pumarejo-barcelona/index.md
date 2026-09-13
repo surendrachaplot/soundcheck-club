@@ -1,14 +1,13 @@
 # El Pumarejo Barcelona
 
-El Pumarejo Barcelona is a music venue in Barcelona with 5 upcoming nights listed on soundcheck as of Sat, 12 Sept 2026; the next is "La Penca ALL STARS (fundraiser)" on Sat, 12 Sept 2026.
+El Pumarejo Barcelona is a music venue in Barcelona with 4 upcoming nights listed on soundcheck as of Sun, 13 Sept 2026; the next is "Juerga Flamenca: Laura Mateo x Irene Zugaza x Edgar Platón" on Sun, 13 Sept 2026.
 
-El Pumarejo Barcelona is a music venue in Barcelona listed on soundcheck. 5 upcoming nights, with line-ups including AMANTRA, Julio César, KINDA and Kontronatura and 2 more. Browse upcoming dates, start times and who's playing. Av. del Carrilet, 187, 08907 L'Hospitalet de Llobregat, Barcelona.
+El Pumarejo Barcelona is a music venue in Barcelona listed on soundcheck. 4 upcoming nights, with line-ups including AMANTRA, Julio César, KINDA and Kontronatura and 2 more. Browse upcoming dates, start times and who's playing. Av. del Carrilet, 187, 08907 L'Hospitalet de Llobregat, Barcelona.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 12 Sept 2026 | La Penca ALL STARS (fundraiser) |  |
 | Sun, 13 Sept 2026 | Juerga Flamenca: Laura Mateo x Irene Zugaza x Edgar Platón |  |
 | Wed, 16 Sept 2026 | Please Advice: Ana Roxanne |  |
 | Sat, 19 Sept 2026 | Jokkoo & Abundance B2B Party |  |
@@ -18,4 +17,4 @@ El Pumarejo Barcelona is a music venue in Barcelona listed on soundcheck. 5 upco
 
 Av. del Carrilet, 187, 08907 L'Hospitalet de Llobregat, Barcelona, Barcelona
 
-*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/el-pumarejo-barcelona/)*
+*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/el-pumarejo-barcelona/)*

@@ -1,6 +1,6 @@
 # Krokakai
 
-Krokakai is a Acid and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 12 Sept 2026, next at Bar Temp., Bangkok on Fri, 18 Sept 2026.
+Krokakai is a Acid and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 13 Sept 2026, next at Bar Temp., Bangkok on Fri, 18 Sept 2026.
 
 Krokakai is an acid and techno artist tracked on soundcheck, with 41 sets logged across Bangkok, Glasgow and Seoul. Often billed alongside DJ Krit Morton, Scott Hess and Keith Edward. Next up: Bar Temp., Bangkok on Fri 18 Sept.
 
@@ -25,4 +25,4 @@ Krokakai is an acid and techno artist tracked on soundcheck, with 41 sets logged
 
 DJ Krit Morton, Scott Hess, Keith Edward
 
-*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/krokakai/)*
+*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/krokakai/)*

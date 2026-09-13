@@ -1,16 +1,13 @@
 # ZeyZey
 
-ZeyZey is a music venue in Miami with 21 upcoming nights listed on soundcheck as of Sat, 12 Sept 2026; the next is "Satin Jackets" on Sat, 12 Sept 2026.
+ZeyZey is a music venue in Miami with 18 upcoming nights listed on soundcheck as of Sun, 13 Sept 2026; the next is "The Disco Express" on Fri, 18 Sept 2026.
 
-ZeyZey is a music venue in Miami listed on soundcheck. 21 upcoming nights, with line-ups including Alex Oxley, Eli & Fur, Fahlberg and Fleetmac Wood and 2 more. Browse upcoming dates, start times and who's playing. 353 NE 61st St, Miami, FL 33137, USA.
+ZeyZey is a music venue in Miami listed on soundcheck. 18 upcoming nights, with line-ups including Alex Oxley, Eli & Fur, Fahlberg and Fleetmac Wood and 2 more. Browse upcoming dates, start times and who's playing. 353 NE 61st St, Miami, FL 33137, USA.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 12 Sept 2026 | Satin Jackets | Satin Jackets |
-| Sat, 12 Sept 2026 | Sam Collins |  |
-| Sat, 12 Sept 2026 | Midnight Magic |  |
 | Fri, 18 Sept 2026 | The Disco Express |  |
 | Sat, 19 Sept 2026 | Eli & Fur - Dreams at Dusk | Eli & Fur |
 | Sat, 19 Sept 2026 | Nils Hoffmann | Nils Hoffmann |
@@ -18,9 +15,12 @@ ZeyZey is a music venue in Miami listed on soundcheck. 21 upcoming nights, with 
 | Sat, 26 Sept 2026 | Nervous Records presents: Riva Starr + Seamus Haji (Free Entry) | Riva Starr |
 | Wed, 30 Sept 2026 | Paloma Morphy |  |
 | Fri, 2 Oct 2026 | Monsieur Periné |  |
+| Fri, 2 Oct 2026 | Flamingosis |  |
+| Sat, 3 Oct 2026 | Whipped Cream |  |
+| Thu, 8 Oct 2026 | Night Tapes | Night Tapes |
 
 ## Address
 
 353 NE 61st St, Miami, FL 33137, USA, Miami
 
-*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/miami/club/zeyzey/)*
+*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/miami/club/zeyzey/)*

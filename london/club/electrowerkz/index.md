@@ -1,6 +1,6 @@
 # Electrowerkz
 
-Electrowerkz is a music venue in London with 8 upcoming nights listed on soundcheck as of Sat, 12 Sept 2026; the next is "GRIP [ XXX SPORTS NIGHT ]" on Thu, 17 Sept 2026.
+Electrowerkz is a music venue in London with 8 upcoming nights listed on soundcheck as of Sun, 13 Sept 2026; the next is "GRIP [ XXX SPORTS NIGHT ]" on Thu, 17 Sept 2026.
 
 Electrowerkz is a music venue in London listed on soundcheck. 8 upcoming nights, with line-ups including AyChibs, CHEZA LUCINA, Dj.Malefica and Donnie Sunshine and 2 more. Browse upcoming dates, start times and who's playing. 7 Torrens Street; Islington; London EC1V 1NQ; United Kingdom.
 
@@ -21,4 +21,4 @@ Electrowerkz is a music venue in London listed on soundcheck. 8 upcoming nights,
 
 7 Torrens Street; Islington; London EC1V 1NQ; United Kingdom, London
 
-*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/electrowerkz/)*
+*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/electrowerkz/)*

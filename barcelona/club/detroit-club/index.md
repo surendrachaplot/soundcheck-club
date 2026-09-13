@@ -1,15 +1,13 @@
 # DETROIT CLUB
 
-DETROIT CLUB is a music venue in Barcelona with 11 upcoming nights listed on soundcheck as of Sat, 12 Sept 2026; the next is "Resonance" on Sat, 12 Sept 2026.
+DETROIT CLUB is a music venue in Barcelona with 9 upcoming nights listed on soundcheck as of Sun, 13 Sept 2026; the next is "Techno_MINCODE_ NICOLAS CETINA Invites: SVRECA  - YULIËN" on Fri, 18 Sept 2026.
 
-DETROIT CLUB is a music venue in Barcelona listed on soundcheck. 11 upcoming nights, with line-ups including CARGO (DE), Casanøva, Cobb Douglas and DiscoDaisy and 2 more. Browse upcoming dates, start times and who's playing. Passatge Can Polític, 13, b, 08907 Hospitalet de Llobregat, Barcelona.
+DETROIT CLUB is a music venue in Barcelona listed on soundcheck. 9 upcoming nights, with line-ups including CARGO (DE), Casanøva, Cobb Douglas and DiscoDaisy and 2 more. Browse upcoming dates, start times and who's playing. Passatge Can Polític, 13, b, 08907 Hospitalet de Llobregat, Barcelona.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 12 Sept 2026 | Resonance | Kleyver Reyes |
-| Sat, 12 Sept 2026 | ETNICA |  |
 | Fri, 18 Sept 2026 | Techno_MINCODE_ NICOLAS CETINA Invites: SVRECA  - YULIËN | Nicolas Cetina., Svreca, Yuliën |
 | Sat, 19 Sept 2026 | EKLIPSE pres. Toobris | TBA, Toobris |
 | Sat, 26 Sept 2026 | HardNoises x Trocadero.GO$PEL, PENCIL, REGGIO  | REGGIO, VØLNA |
@@ -18,9 +16,10 @@ DETROIT CLUB is a music venue in Barcelona listed on soundcheck. 11 upcoming nig
 | Sat, 3 Oct 2026 | TechnoZulo pres. HARD RITUAL |  |
 | Sat, 24 Oct 2026 | ÉLITE EVENTS PRESENTS: MAMBA | Casanøva, JOANNA DARK |
 | Sat, 31 Oct 2026 | HALLOWEEN x VOLTAGE l HardTechno |  |
+| Sat, 21 Nov 2026 | NXXT pres. CARGO & JACKY ICKX invites w Felinae, DiscoDaisy, Cobb Douglas | CARGO (DE), Cobb Douglas, DiscoDaisy, Felinae, Jacky Ickx |
 
 ## Address
 
 Passatge Can Polític, 13, b, 08907 Hospitalet de Llobregat, Barcelona, Barcelona
 
-*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/detroit-club/)*
+*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/detroit-club/)*

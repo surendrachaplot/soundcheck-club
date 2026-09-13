@@ -1,0 +1,11 @@
+# Oscar Atanga live performance at Atemporal
+
+Oscar Atanga live performance at Atemporal on Sat 19 Sept, Berlin. Preview the line-up and save it on soundcheck.
+
+| Field | Value |
+| --- | --- |
+| Date | Sat, 19 Sept 2026 |
+| Venue | Atemporal |
+| City | Berlin |
+
+*Source: [soundcheck](https://soundcheck.club/e/2535719-oscar-atanga-live-performance-at-atemporal/)*

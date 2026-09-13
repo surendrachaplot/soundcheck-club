@@ -1,6 +1,6 @@
 # Manuel Di Martino
 
-Manuel Di Martino is a Techno and Dub Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 12 Sept 2026, next at Tempio del Futuro Perduto, Milan on Thu, 1 Oct 2026.
+Manuel Di Martino is a Techno and Dub Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 13 Sept 2026, next at Tempio del Futuro Perduto, Milan on Thu, 1 Oct 2026.
 
 Manuel Di Martino is a techno and dub techno artist based in Italy, tracked on soundcheck, with 21 sets logged across Basel, Berlin, Milan and Naples and 1 more. Often billed alongside Matteo Gamba, DJ BLUNT and Hi/Fi. Next up: Tempio del Futuro Perduto, Milan on Thu 1 Oct.
 
@@ -25,4 +25,4 @@ Manuel Di Martino is a techno and dub techno artist based in Italy, tracked on s
 
 Matteo Gamba, DJ BLUNT, Hi/Fi
 
-*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ManuelDiMartino/)*
+*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ManuelDiMartino/)*

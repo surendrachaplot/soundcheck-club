@@ -1,14 +1,13 @@
 # B-SIDE
 
-B-SIDE is a music venue in Warsaw with 3 upcoming nights listed on soundcheck as of Sat, 12 Sept 2026; the next is "Sekta Selekta team: Nadezh No, Badalian and Alfalfa (Köln)" on Sat, 12 Sept 2026.
+B-SIDE is a music venue in Warsaw with 2 upcoming nights listed on soundcheck as of Sun, 13 Sept 2026; the next is "BS ➼ BUMPER BROTHERS" on Fri, 18 Sept 2026.
 
-B-SIDE is a music venue in Warsaw listed on soundcheck. 3 upcoming nights, with line-ups including Alfalfa (2), Badalian, Franz Scala and Liza Azemsha and 2 more. Browse upcoming dates, start times and who's playing. Piękna 19, 00-549 Warszawa.
+B-SIDE is a music venue in Warsaw listed on soundcheck. 2 upcoming nights, with line-ups including Franz Scala, Liza Azemsha and Pawel Blot. Browse upcoming dates, start times and who's playing. Piękna 19, 00-549 Warszawa.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 12 Sept 2026 | Sekta Selekta team: Nadezh No, Badalian and Alfalfa (Köln) | Alfalfa (2), Badalian, Nadezh No |
 | Fri, 18 Sept 2026 | BS ➼ BUMPER BROTHERS |  |
 | Sat, 10 Oct 2026 | Disco Mule — 6th Edition with Franz Scala, Pawel Blot & Liza Azemsha | Franz Scala, Liza Azemsha, Pawel Blot |
 
@@ -16,4 +15,4 @@ B-SIDE is a music venue in Warsaw listed on soundcheck. 3 upcoming nights, with 
 
 Piękna 19, 00-549 Warszawa, Warsaw
 
-*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/warsaw/club/b-side/)*
+*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/warsaw/club/b-side/)*

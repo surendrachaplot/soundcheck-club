@@ -1,6 +1,6 @@
 # Eggz
 
-Eggz is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 12 Sept 2026, next at Animal, New York City on Sun, 13 Sept 2026.
+Eggz is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 13 Sept 2026, next at Animal, New York City on Sun, 13 Sept 2026.
 
 Eggz is a house and techno artist tracked on soundcheck, with 14 sets logged across Newyorkcity. Often billed alongside Baronhawk Poitier, ConCon and Dee Diggs. Next up: Animal, Newyorkcity on Sun 13 Sept.
 
@@ -25,4 +25,4 @@ Eggz is a house and techno artist tracked on soundcheck, with 14 sets logged acr
 
 Baronhawk Poitier, ConCon, Dee Diggs
 
-*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/eggz/)*
+*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/eggz/)*

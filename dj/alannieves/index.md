@@ -1,6 +1,6 @@
 # Alan Nieves
 
-Alan Nieves is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Sat, 12 Sept 2026, next at Madarae San Francisco, San Francisco/Oakland on Fri, 18 Sept 2026.
+Alan Nieves is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Sun, 13 Sept 2026, next at Madarae San Francisco, San Francisco/Oakland on Fri, 18 Sept 2026.
 
 Alan Nieves is a tech house and house artist tracked on soundcheck, with 18 sets logged across Chicago, Denver, Losangeles and Nashville and 3 more. Often billed alongside Kyle Walker, Marbs and Mayte. Next up: Madarae San Francisco, Sanfrancisco on Fri 18 Sept.
 
@@ -25,4 +25,4 @@ Alan Nieves is a tech house and house artist tracked on soundcheck, with 18 sets
 
 Kyle Walker, Marbs, Mayte
 
-*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/alannieves/)*
+*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/alannieves/)*

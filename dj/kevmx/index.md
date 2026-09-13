@@ -1,6 +1,6 @@
 # KEV (MX)
 
-KEV (MX) is a Electronica and Downtempo artist with 1 upcoming club date listed on soundcheck as of Sat, 12 Sept 2026, next at Drama Radio Bar, Mexico City on Wed, 9 Sept 2026.
+KEV (MX) is a Electronica and Downtempo artist with 1 upcoming club date listed on soundcheck as of Sun, 13 Sept 2026, next at Drama Radio Bar, Mexico City on Wed, 9 Sept 2026.
 
 KEV (MX) is an electronica and downtempo artist based in Mexico, tracked on soundcheck, with 11 sets logged across Amsterdam, Mexicocity and Newyorkcity. Often billed alongside Bluecommand, DJ Hiccup and Deejay Energy. Next up: Drama Radio Bar, Mexicocity on Wed 9 Sept.
 
@@ -25,4 +25,4 @@ KEV (MX) is an electronica and downtempo artist based in Mexico, tracked on soun
 
 Bluecommand, DJ Hiccup, Deejay Energy
 
-*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kevmx/)*
+*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kevmx/)*

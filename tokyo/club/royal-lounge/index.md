@@ -1,15 +1,13 @@
 # Royal Lounge
 
-Royal Lounge is a music venue in Tokyo with 10 upcoming nights listed on soundcheck as of Sat, 12 Sept 2026; the next is "12 SAT WHITE CAT PARTY" on Sat, 12 Sept 2026.
+Royal Lounge is a music venue in Tokyo with 8 upcoming nights listed on soundcheck as of Sun, 13 Sept 2026; the next is "'ROYAL SUNDAY' Supported by CEBEDE" on Sun, 13 Sept 2026.
 
-Royal Lounge is a music venue in Tokyo listed on soundcheck. 10 upcoming nights, with line-ups including Addiy, CATRONICA, Funky Gong and Kijta and 2 more. Browse upcoming dates, start times and who's playing. 10F QPRAZA HARAJUKU, 6-28-6, JINGUUMAE, SHIBUYA-KU, Tokyo, 150-0001.
+Royal Lounge is a music venue in Tokyo listed on soundcheck. 8 upcoming nights, with line-ups including Addiy, CATRONICA, Funky Gong and Kijta and 2 more. Browse upcoming dates, start times and who's playing. 10F QPRAZA HARAJUKU, 6-28-6, JINGUUMAE, SHIBUYA-KU, Tokyo, 150-0001.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 12 Sept 2026 | 12 SAT WHITE CAT PARTY |  |
-| Sat, 12 Sept 2026 | ANZU presents. 'SPICE UP YOUR GROOVE' |  |
 | Sun, 13 Sept 2026 | 'ROYAL SUNDAY' Supported by CEBEDE |  |
 | Mon, 14 Sept 2026 | 'ROYAL MONDAY' |  |
 | Wed, 16 Sept 2026 | 'ROYAL WEDNESDAY' Supported by CEBEDE |  |
@@ -23,4 +21,4 @@ Royal Lounge is a music venue in Tokyo listed on soundcheck. 10 upcoming nights,
 
 10F QPRAZA HARAJUKU, 6-28-6, JINGUUMAE, SHIBUYA-KU, Tokyo, 150-0001, Tokyo
 
-*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/royal-lounge/)*
+*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/royal-lounge/)*

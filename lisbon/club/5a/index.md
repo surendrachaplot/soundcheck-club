@@ -1,14 +1,13 @@
 # 5A
 
-5A is a music venue in Lisbon with 5 upcoming nights listed on soundcheck as of Sat, 12 Sept 2026; the next is "Ze Salvador" on Sat, 12 Sept 2026.
+5A is a music venue in Lisbon with 4 upcoming nights listed on soundcheck as of Sun, 13 Sept 2026; the next is "Cruz" on Sat, 19 Sept 2026.
 
-5A is a music venue in Lisbon listed on soundcheck. 5 upcoming nights, with line-ups including Andre Cascais, Cruz (PT) and Ze Salvador. Browse upcoming dates, start times and who's playing. Rua Noronha, 5A 1250-168 Lisbon, Portugal.
+5A is a music venue in Lisbon listed on soundcheck. 4 upcoming nights, with line-ups including Andre Cascais and Cruz (PT). Browse upcoming dates, start times and who's playing. Rua Noronha, 5A 1250-168 Lisbon, Portugal.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 12 Sept 2026 | Ze Salvador | Ze Salvador |
 | Sat, 19 Sept 2026 | Cruz | Cruz (PT) |
 | Sat, 19 Sept 2026 | Septimal C |  |
 | Fri, 25 Sept 2026 | Andre Cascais | Andre Cascais |
@@ -18,4 +17,4 @@
 
 Rua Noronha, 5A 1250-168 Lisbon, Portugal, Lisbon
 
-*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/lisbon/club/5a/)*
+*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/lisbon/club/5a/)*

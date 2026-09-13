@@ -1,6 +1,6 @@
 # MANAPOOL
 
-MANAPOOL is a Hardcore and Breakcore artist with 1 upcoming club date listed on soundcheck as of Sat, 12 Sept 2026, next at TBA - Premises, Chicago on Sat, 26 Sept 2026.
+MANAPOOL is a Hardcore and Breakcore artist with 1 upcoming club date listed on soundcheck as of Sun, 13 Sept 2026, next at TBA - Premises, Chicago on Sat, 26 Sept 2026.
 
 MANAPOOL is a hardcore and breakcore artist based in United States of America, tracked on soundcheck, with 23 sets logged across Boston, Chicago, Losangeles and Newyorkcity and 3 more. Often billed alongside 99jakes, Casper McFadden and Flores Negras. Next up: TBA - Premises, Chicago on Sat 26 Sept.
 
@@ -25,4 +25,4 @@ MANAPOOL is a hardcore and breakcore artist based in United States of America, t
 
 99jakes, Casper McFadden, Flores Negras
 
-*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/manapool/)*
+*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/manapool/)*

@@ -1,6 +1,6 @@
 # Danny Snowden
 
-Danny Snowden is a House and Tech House artist with 4 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at World Headquarters, Newcastle on Sat, 19 Sept 2026.
+Danny Snowden is a House and Tech House artist with 4 upcoming club dates listed on soundcheck as of Sun, 13 Sept 2026, next at World Headquarters, Newcastle on Sat, 19 Sept 2026.
 
 Danny Snowden is a house and tech house artist based in United Kingdom, tracked on soundcheck, with 28 sets logged across Amsterdam, Auckland, Brighton and Edinburgh and 9 more. Often billed alongside Sidney Charles, Ashkaan and DXNBY. Next up: World Headquarters, Newcastle on Sat 19 Sept.
 
@@ -28,4 +28,4 @@ Danny Snowden is a house and tech house artist based in United Kingdom, tracked 
 
 Sidney Charles, Ashkaan, DXNBY
 
-*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dannysnowden/)*
+*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dannysnowden/)*

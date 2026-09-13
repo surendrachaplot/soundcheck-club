@@ -1,19 +1,19 @@
 # Ava Eva
 
-Ava Eva is a House and Electro artist with 3 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Place D'espagne, Brussels on Sat, 12 Sept 2026.
+Ava Eva is a House and Electro artist with 2 upcoming club dates listed on soundcheck as of Sun, 13 Sept 2026, next at De Sering, Amsterdam on Thu, 22 Oct 2026.
 
-Ava Eva is a house and electro artist based in Belgium, tracked on soundcheck, with 56 sets logged across Amsterdam, Antwerp, Brussels and Ghent. Often billed alongside Bibi Seck, John Noseda and Zouzibabe. Next up: Place D'espagne, Brussels on Sat 12 Sept.
+Ava Eva is a house and electro artist based in Belgium, tracked on soundcheck, with 56 sets logged across Amsterdam, Antwerp, Brussels and Ghent. Often billed alongside Bibi Seck, John Noseda and Zouzibabe. Next up: De Sering, Amsterdam on Thu 22 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 12 Sept 2026 | Place D'espagne | Brussels |
 | Thu, 22 Oct 2026 | De Sering | Amsterdam |
 | Wed, 11 Nov 2026 | TBA | Ghent |
 
 ## Recently played
 
+- Place D'espagne, Brussels — Sat, 12 Sept 2026
 - Place Noord, Brussels — Sat, 5 Sept 2026
 - Schans van Landmolen, Antwerp — Sat, 1 Aug 2026
 - Place Poelaertplein, Brussels — Sat, 25 Jul 2026
@@ -21,10 +21,9 @@ Ava Eva is a house and electro artist based in Belgium, tracked on soundcheck, w
 - TBA - Paradise City Festival, Brussels — Fri, 26 Jun 2026
 - UMI, Brussels — Sat, 6 Jun 2026
 - B21, Brussels — Sat, 30 May 2026
-- UMI, Brussels — Sat, 9 May 2026
 
 ## Shares bills with
 
 Bibi Seck, John Noseda, Zouzibabe
 
-*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/avaeva/)*
+*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/avaeva/)*

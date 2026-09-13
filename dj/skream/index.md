@@ -1,6 +1,6 @@
 # Skream
 
-Skream is a House and Techno artist with 11 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Auditorium Parco della Musica, Rome on Sat, 12 Sept 2026.
+Skream is a House and Techno artist with 11 upcoming club dates listed on soundcheck as of Sun, 13 Sept 2026, next at Auditorium Parco della Musica, Rome on Sat, 12 Sept 2026.
 
 Skream is a house and techno artist tracked on soundcheck, with 216 sets logged across Amsterdam, Antwerp, Bali and Bangkok and 57 more. Often billed alongside Seth Troxler, Benga and DJ Tennis. Next up: Auditorium Parco della Musica, Rome on Sat 12 Sept.
 
@@ -22,6 +22,7 @@ Skream is a house and techno artist tracked on soundcheck, with 216 sets logged 
 
 ## Recently played
 
+- Auditorium Parco della Musica, Rome — Sat, 12 Sept 2026
 - Kelvedon Hall, London — Sat, 29 Aug 2026
 - fabric, London — Sat, 29 Aug 2026
 - Dullingham Polo Club, London — Sat, 22 Aug 2026
@@ -29,10 +30,9 @@ Skream is a house and techno artist tracked on soundcheck, with 216 sets logged 
 - Pacha Ibiza, Ibiza — Tue, 11 Aug 2026
 - Burgess Park, London — Sun, 9 Aug 2026
 - Burgess Park, London — Sun, 9 Aug 2026
-- Studio Club Malaga, Malaga — Sat, 8 Aug 2026
 
 ## Shares bills with
 
 Seth Troxler, Benga, DJ Tennis
 
-*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/skream/)*
+*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/skream/)*

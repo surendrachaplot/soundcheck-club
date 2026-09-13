@@ -1,14 +1,13 @@
 # Nakano Heavysick Zero
 
-Nakano Heavysick Zero is a music venue in Tokyo with 5 upcoming nights listed on soundcheck as of Sat, 12 Sept 2026; the next is "neural3" on Sat, 12 Sept 2026.
+Nakano Heavysick Zero is a music venue in Tokyo with 4 upcoming nights listed on soundcheck as of Sun, 13 Sept 2026; the next is "生活 ～seikatsu～" on Wed, 16 Sept 2026.
 
-Nakano Heavysick Zero is a music venue in Tokyo listed on soundcheck. 5 upcoming nights, with line-ups including HiroHiro, Hirosson, Isidor and Rëgret and 2 more. Browse upcoming dates, start times and who's playing. 5Chome-41-8,Nakano,Nakano-ku,Tokyo.
+Nakano Heavysick Zero is a music venue in Tokyo listed on soundcheck. 4 upcoming nights, with line-ups including Hirosson and Isidor. Browse upcoming dates, start times and who's playing. 5Chome-41-8,Nakano,Nakano-ku,Tokyo.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 12 Sept 2026 | neural3 | HiroHiro, Rëgret, SEIGI., Tymeout |
 | Wed, 16 Sept 2026 | 生活 ～seikatsu～ |  |
 | Thu, 17 Sept 2026 | HSZ LOUNGE - Vinyl groove - |  |
 | Mon, 21 Sept 2026 | LARiX vol.15 | Hirosson, Isidor |
@@ -18,4 +17,4 @@ Nakano Heavysick Zero is a music venue in Tokyo listed on soundcheck. 5 upcoming
 
 5Chome-41-8,Nakano,Nakano-ku,Tokyo, Tokyo
 
-*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/nakano-heavysick-zero/)*
+*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/nakano-heavysick-zero/)*

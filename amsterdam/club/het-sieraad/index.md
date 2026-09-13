@@ -1,14 +1,13 @@
 # Het Sieraad
 
-Het Sieraad is a music venue in Amsterdam with 20 upcoming nights listed on soundcheck as of Sat, 12 Sept 2026; the next is "Club Stëlz x Het Sieraad" on Sat, 12 Sept 2026.
+Het Sieraad is a music venue in Amsterdam with 19 upcoming nights listed on soundcheck as of Sun, 13 Sept 2026; the next is "Free Your Mind x Schrotthagen" on Fri, 18 Sept 2026.
 
-Het Sieraad is a music venue in Amsterdam listed on soundcheck. 20 upcoming nights, with line-ups including Adam Ten, Adapter, Anthony Middleton and [ares] and 2 more. Browse upcoming dates, start times and who's playing. Postjesweg 1, 1057 DT Amsterdam.
+Het Sieraad is a music venue in Amsterdam listed on soundcheck. 19 upcoming nights, with line-ups including Adam Ten, Adapter, Anthony Middleton and [ares] and 2 more. Browse upcoming dates, start times and who's playing. Postjesweg 1, 1057 DT Amsterdam.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 12 Sept 2026 | Club Stëlz x Het Sieraad | Michel de Hey, Unregular |
 | Fri, 18 Sept 2026 | Free Your Mind x Schrotthagen | Schrotthagen |
 | Fri, 25 Sept 2026 | I-F - EILEEN - 5 hour sets | Eileen (NL), I-F |
 | Sat, 26 Sept 2026 | ZENZELE AMSTERDAM W BUN XAPA, FNX OMAR, SAFFOU & MANY MORE |  |
@@ -18,9 +17,10 @@ Het Sieraad is a music venue in Amsterdam listed on soundcheck. 20 upcoming nigh
 | Fri, 16 Oct 2026 | Line up TBA | Berkan V8, Kyra Khaldi |
 | Sat, 17 Oct 2026 | Throwback - Back to 80s, 90s & 00s - Amsterdam |  |
 | Thu, 22 Oct 2026 | Adam Ten b2b Mita Gami - Yamagucci - Tom Zeta | Adam Ten, Mita Gami, Tom Zeta, Yamagucci (2) |
+| Thu, 22 Oct 2026 | Miss Monique presents Siona ADE | Adapter, Genesi (IT), Kiko, Mia Mendi, Miss Monique, Olivier Giacomotto, SKIY, TH;EN |
 
 ## Address
 
 Postjesweg 1, 1057 DT Amsterdam, Amsterdam
 
-*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/het-sieraad/)*
+*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/het-sieraad/)*

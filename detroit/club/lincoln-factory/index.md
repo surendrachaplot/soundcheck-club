@@ -1,14 +1,13 @@
 # Lincoln Factory
 
-Lincoln Factory is a music venue in Detroit with 13 upcoming nights listed on soundcheck as of Sat, 12 Sept 2026; the next is "Dally in the Alley: Official Afters! (Tickets on Marble Bar Listing)" on Sat, 12 Sept 2026.
+Lincoln Factory is a music venue in Detroit with 12 upcoming nights listed on soundcheck as of Sun, 13 Sept 2026; the next is "SECRET SETS" on Fri, 18 Sept 2026.
 
-Lincoln Factory is a music venue in Detroit listed on soundcheck. 13 upcoming nights, with line-ups including Ahadadream, A K, Blake Baxter and Dasha Rush and 2 more. Browse upcoming dates, start times and who's playing. 1331 Holden Street, Detroit, MI 48202, USA.
+Lincoln Factory is a music venue in Detroit listed on soundcheck. 12 upcoming nights, with line-ups including Ahadadream, A K, Blake Baxter and Dasha Rush and 2 more. Browse upcoming dates, start times and who's playing. 1331 Holden Street, Detroit, MI 48202, USA.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 12 Sept 2026 | Dally in the Alley: Official Afters! (Tickets on Marble Bar Listing) |  |
 | Fri, 18 Sept 2026 | SECRET SETS |  |
 | Sat, 19 Sept 2026 | Truncate - Julia Govor - JANSØ - Lincoln Factory | JANSØ, Julia Govor, Truncate |
 | Fri, 25 Sept 2026 | Ms. Nina with SWDEJAY and Psy-Chick | Ms Nina (ES), Psy-Chick, SWDEJAY |
@@ -18,9 +17,10 @@ Lincoln Factory is a music venue in Detroit listed on soundcheck. 13 upcoming ni
 | Sun, 11 Oct 2026 | Jazz is Dead presents Cortex with Adrian Younge and J.Rocc |  |
 | Sat, 17 Oct 2026 | Walker & Royce | FENIK, Silverdome Boyz, Walker & Royce |
 | Sat, 24 Oct 2026 | Hamdi | Ahadadream, Hamdi (UK) |
+| Fri, 30 Oct 2026 | Techno City - Devil's Night Edition | Blake Baxter, Kevin Saunderson, OOZE, Patio, Pinto (US), Santonio Echols, The Saunderson Brothers |
 
 ## Address
 
 1331 Holden Street, Detroit, MI 48202, USA, Detroit
 
-*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/detroit/club/lincoln-factory/)*
+*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/detroit/club/lincoln-factory/)*

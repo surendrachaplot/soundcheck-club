@@ -1,14 +1,13 @@
 # Distrikt
 
-Distrikt is a music venue in Leeds with 10 upcoming nights listed on soundcheck as of Sat, 12 Sept 2026; the next is "Uncut presents: Joey London Style" on Sat, 12 Sept 2026.
+Distrikt is a music venue in Leeds with 9 upcoming nights listed on soundcheck as of Sun, 13 Sept 2026; the next is "Ruffkut presents: Fabio Santos B2B Luis Ripa + Nay Barr" on Fri, 18 Sept 2026.
 
-Distrikt is a music venue in Leeds listed on soundcheck. 10 upcoming nights, with line-ups including ad*n, Alex Osifo, Arty and B-HIND and 2 more. Browse upcoming dates, start times and who's playing. 7 Duncan Street, Leeds, LS1 6DQ, United Kingdom.
+Distrikt is a music venue in Leeds listed on soundcheck. 9 upcoming nights, with line-ups including ad*n, Alex Osifo, Arty and B-HIND and 2 more. Browse upcoming dates, start times and who's playing. 7 Duncan Street, Leeds, LS1 6DQ, United Kingdom.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 12 Sept 2026 | Uncut presents: Joey London Style |  |
 | Fri, 18 Sept 2026 | Ruffkut presents: Fabio Santos B2B Luis Ripa + Nay Barr | B-HIND, Charlotte Ord, Fabio Santos, Luis Ripa, ad*n |
 | Sat, 19 Sept 2026 | BASS3 x Distrikt Bar | Ben Murphy, Late Replies |
 | Fri, 25 Sept 2026 | LouderNoize X Spinners - Smokey Bubblin' B | Smokey Bubblin' B |
@@ -23,4 +22,4 @@ Distrikt is a music venue in Leeds listed on soundcheck. 10 upcoming nights, wit
 
 7 Duncan Street, Leeds, LS1 6DQ, United Kingdom, Leeds
 
-*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/leeds/club/distrikt/)*
+*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/leeds/club/distrikt/)*

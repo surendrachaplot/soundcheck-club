@@ -1,19 +1,19 @@
 # Roi Perez
 
-Roi Perez is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Place D'espagne, Brussels on Sat, 12 Sept 2026.
+Roi Perez is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sun, 13 Sept 2026, next at Phonox, London on Sat, 26 Sept 2026.
 
-Roi Perez is a house and techno artist tracked on soundcheck, with 218 sets logged across Amsterdam, Antwerp, Athens and Bali and 47 more. Often billed alongside Partok, BASHKKA and David Elimelech. Next up: Place D'espagne, Brussels on Sat 12 Sept.
+Roi Perez is a house and techno artist tracked on soundcheck, with 218 sets logged across Amsterdam, Antwerp, Athens and Bali and 47 more. Often billed alongside Partok, BASHKKA and David Elimelech. Next up: Phonox, London on Sat 26 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 12 Sept 2026 | Place D'espagne | Brussels |
 | Sat, 26 Sept 2026 | Phonox | London |
 | Thu, 22 Oct 2026 | Klaproos | Amsterdam |
 
 ## Recently played
 
+- Place D'espagne, Brussels — Sat, 12 Sept 2026
 - Berghain | Panorama Bar | Säule, Berlin — Fri, 11 Sept 2026
 - DC-10, Ibiza — Mon, 7 Sept 2026
 - Tanzhaus West, Frankfurt — Sat, 8 Aug 2026
@@ -21,10 +21,9 @@ Roi Perez is a house and techno artist tracked on soundcheck, with 218 sets logg
 - Berghain | Panorama Bar | Säule, Berlin — Sat, 25 Jul 2026
 - Studio Club Malaga, Malaga — Sat, 25 Jul 2026
 - Neue Nationalgalerie, Berlin — Sat, 25 Jul 2026
-- Parc de la Trinitat, Barcelona — Sun, 12 Jul 2026
 
 ## Shares bills with
 
 Partok, BASHKKA, David Elimelech
 
-*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/roiperez/)*
+*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/roiperez/)*

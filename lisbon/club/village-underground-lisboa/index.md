@@ -1,6 +1,6 @@
 # Village Underground Lisboa
 
-Village Underground Lisboa is a music venue in Lisbon with 5 upcoming nights listed on soundcheck as of Sat, 12 Sept 2026; the next is "Under The Bridge: Official After Party" on Sun, 13 Sept 2026.
+Village Underground Lisboa is a music venue in Lisbon with 5 upcoming nights listed on soundcheck as of Sun, 13 Sept 2026; the next is "Under The Bridge: Official After Party" on Sun, 13 Sept 2026.
 
 Village Underground Lisboa is a music venue in Lisbon listed on soundcheck. 5 upcoming nights, with line-ups including Bryto, Camps (1), DJ Nox and Echonomist and 2 more. Browse upcoming dates, start times and who's playing. Avenida da India 52, 1300-299 Lisboa.
 
@@ -18,4 +18,4 @@ Village Underground Lisboa is a music venue in Lisbon listed on soundcheck. 5 up
 
 Avenida da India 52, 1300-299 Lisboa, Lisbon
 
-*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/lisbon/club/village-underground-lisboa/)*
+*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/lisbon/club/village-underground-lisboa/)*

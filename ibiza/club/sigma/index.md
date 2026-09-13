@@ -1,6 +1,6 @@
 # Sigma
 
-Sigma is a music venue in Ibiza with 20 upcoming nights listed on soundcheck as of Sat, 12 Sept 2026; the next is "IBIZA VINYL SESSIONS, Chapter 23" on Sat, 12 Sept 2026.
+Sigma is a music venue in Ibiza with 20 upcoming nights listed on soundcheck as of Sun, 13 Sept 2026; the next is "MICRONICA x DEEP DISTRICT" on Sun, 13 Sept 2026.
 
 Sigma is a music venue in Ibiza listed on soundcheck. 20 upcoming nights, with line-ups including AntZ (2), Charlotte Newman, D I N and iOAN (LV) and 2 more. Browse upcoming dates, start times and who's playing. C/ de Carles V, nº 11, local 15, 07800 Ibiza.
 
@@ -8,7 +8,6 @@ Sigma is a music venue in Ibiza listed on soundcheck. 20 upcoming nights, with l
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 12 Sept 2026 | IBIZA VINYL SESSIONS, Chapter 23 | Javi Niño, Nikolucky |
 | Sun, 13 Sept 2026 | MICRONICA x DEEP DISTRICT | D I N, Mike Discoid, iOAN (LV) |
 | Mon, 14 Sept 2026 | HYDRA |  |
 | Tue, 15 Sept 2026 | Indeep |  |
@@ -18,9 +17,10 @@ Sigma is a music venue in Ibiza listed on soundcheck. 20 upcoming nights, with l
 | Sat, 19 Sept 2026 | Sigma Saturdays |  |
 | Sun, 20 Sept 2026 | Elements Cave |  |
 | Mon, 21 Sept 2026 | HYDRA |  |
+| Tue, 22 Sept 2026 | Indeep |  |
 
 ## Address
 
 C/ de Carles V, nº 11, local 15, 07800 Ibiza, Ibiza
 
-*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/ibiza/club/sigma/)*
+*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/ibiza/club/sigma/)*

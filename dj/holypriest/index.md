@@ -1,6 +1,6 @@
 # Holy Priest
 
-Holy Priest is a Techno and Hardcore artist with 7 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at M-BIA, Berlin on Fri, 9 Oct 2026.
+Holy Priest is a Techno and Hardcore artist with 7 upcoming club dates listed on soundcheck as of Sun, 13 Sept 2026, next at M-BIA, Berlin on Fri, 9 Oct 2026.
 
 Holy Priest is a techno and hardcore artist tracked on soundcheck, with 125 sets logged across Amsterdam, Antwerp, Austin and Barcelona and 45 more. Often billed alongside elMefti, Fantasm and JAZZY (2). Next up: M-BIA, Berlin on Fri 9 Oct.
 
@@ -31,4 +31,4 @@ Holy Priest is a techno and hardcore artist tracked on soundcheck, with 125 sets
 
 elMefti, Fantasm, JAZZY (2)
 
-*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/holypriest/)*
+*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/holypriest/)*

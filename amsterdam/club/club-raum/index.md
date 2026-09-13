@@ -1,14 +1,13 @@
 # CLUB RAUM
 
-CLUB RAUM is a music venue in Amsterdam with 13 upcoming nights listed on soundcheck as of Sat, 12 Sept 2026; the next is "SPIELRAUM Weekender: Nexus opening" on Fri, 11 Sept 2026.
+CLUB RAUM is a music venue in Amsterdam with 12 upcoming nights listed on soundcheck as of Sun, 13 Sept 2026; the next is "RAUM invites One Eye Witness" on Fri, 18 Sept 2026.
 
-CLUB RAUM is a music venue in Amsterdam listed on soundcheck. 13 upcoming nights, with line-ups including Afra, Aldonna, Alienata and Alex Kassian and 2 more. Browse upcoming dates, start times and who's playing. Humberweg 3, 1043 AC Amsterdam.
+CLUB RAUM is a music venue in Amsterdam listed on soundcheck. 12 upcoming nights, with line-ups including Afra, Aldonna, Alex Kassian and annalogue and 2 more. Browse upcoming dates, start times and who's playing. Humberweg 3, 1043 AC Amsterdam.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 11 Sept 2026 | SPIELRAUM Weekender: Nexus opening | Alienata, Audrey Danza, Ben Sims, Bitter Babe, Blasha & Allatt, DAVE the Drummer, DJ Pete, DJ Stingray 313, Jackie Ong, Jetti, Kwartz, Magda, Mary Lake, Moopie, Om Unit, Serge, TWIENA |
 | Fri, 18 Sept 2026 | RAUM invites One Eye Witness | Aldonna, Hylke, LazerGazer, Mark Broom, Mia Cecille, Nelly, Sansibar, Temple Rat |
 | Sat, 19 Sept 2026 | CARISTA, ROD, Prance | CARISTA, Prance, ROD |
 | Fri, 25 Sept 2026 | PARAMIDA (All Night Long) | PARAMIDA |
@@ -18,9 +17,10 @@ CLUB RAUM is a music venue in Amsterdam listed on soundcheck. 13 upcoming nights
 | Fri, 9 Oct 2026 | Leon Vynehall, Yu Su, Marie K | Leon Vynehall, Marie K (1), Yu Su |
 | Sat, 10 Oct 2026 | Surgeon, Talismann, Polly F | Polly F, Surgeon, Talismann |
 | Fri, 16 Oct 2026 | CCL (All Night Long) | CCL |
+| Sat, 17 Oct 2026 | Steve Bicknell, Stephanie Sykes, Cinnaman | Cinnaman, Stephanie Sykes, Steve Bicknell |
 
 ## Address
 
 Humberweg 3, 1043 AC Amsterdam, Amsterdam
 
-*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/club-raum/)*
+*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/club-raum/)*

@@ -1,15 +1,13 @@
 # Nosedrip
 
-Nosedrip is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at TBA - Brussels, Brussels on Fri, 11 Sept 2026.
+Nosedrip is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Sun, 13 Sept 2026, next at TILLATEC, Amsterdam on Sat, 19 Sept 2026.
 
-Nosedrip is a techno and house artist tracked on soundcheck, with 126 sets logged across Amsterdam, Antwerp, Barcelona and Belgrade and 34 more. Often billed alongside OKO DJ, CJ Bolland and Amelia Holt. Next up: TBA - Brussels, Brussels on Fri 11 Sept.
+Nosedrip is a techno and house artist tracked on soundcheck, with 126 sets logged across Amsterdam, Antwerp, Barcelona and Belgrade and 34 more. Often billed alongside OKO DJ, CJ Bolland and Amelia Holt. Next up: TILLATEC, Amsterdam on Sat 19 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 11 Sept 2026 | TBA - Brussels | Brussels |
-| Sat, 12 Sept 2026 | M.O.T | London |
 | Sat, 19 Sept 2026 | TILLATEC | Amsterdam |
 | Fri, 23 Oct 2026 | Pllek | Amsterdam |
 | Sat, 21 Nov 2026 | TBA - Brussels | Brussels |
@@ -17,6 +15,7 @@ Nosedrip is a techno and house artist tracked on soundcheck, with 126 sets logge
 
 ## Recently played
 
+- M.O.T, London — Sat, 12 Sept 2026
 - TBA - Brussels, Brussels — Fri, 11 Sept 2026
 - Ruiterijcomplex, Brussels — Sat, 22 Aug 2026
 - Parc Nou. El Prat de Llobregat, Barcelona — Fri, 17 Jul 2026
@@ -24,10 +23,9 @@ Nosedrip is a techno and house artist tracked on soundcheck, with 126 sets logge
 - Soffio Fregene, Rome — Sun, 12 Jul 2026
 - Parco Dora, Turin — Fri, 3 Jul 2026
 - Hackney Wick Multiple Venues, London — Sat, 27 Jun 2026
-- La Station - Gare des Mines, Paris — Sat, 13 Jun 2026
 
 ## Shares bills with
 
 OKO DJ, CJ Bolland, Amelia Holt
 
-*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nosedrip/)*
+*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nosedrip/)*

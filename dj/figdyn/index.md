@@ -1,6 +1,6 @@
 # Fig (DYN)
 
-Fig (DYN) is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 12 Sept 2026, next at Drama Radio Bar, Mexico City on Wed, 9 Sept 2026.
+Fig (DYN) is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 13 Sept 2026, next at Drama Radio Bar, Mexico City on Wed, 9 Sept 2026.
 
 Fig (DYN) is a house and techno artist based in Mexico, tracked on soundcheck, with 63 sets logged across Bristol and Mexicocity. Often billed alongside Toledano, Vanilla Storm and DJ B2B. Next up: Drama Radio Bar, Mexicocity on Wed 9 Sept.
 
@@ -25,4 +25,4 @@ Fig (DYN) is a house and techno artist based in Mexico, tracked on soundcheck, w
 
 Toledano, Vanilla Storm, DJ B2B
 
-*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/figdyn/)*
+*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/figdyn/)*

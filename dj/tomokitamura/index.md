@@ -1,14 +1,13 @@
 # Tomoki Tamura
 
-Tomoki Tamura is a House and Techno artist with 7 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Sameheads, Berlin on Sat, 12 Sept 2026.
+Tomoki Tamura is a House and Techno artist with 6 upcoming club dates listed on soundcheck as of Sun, 13 Sept 2026, next at Audiodise Park Montjuic, Barcelona on Sun, 27 Sept 2026.
 
-Tomoki Tamura is a house and techno artist based in Germany, tracked on soundcheck, with 95 sets logged across Amsterdam, Bangkok, Barcelona and Belgrade and 26 more. Often billed alongside GARAN GARAN, Satoshi Tomiie and Cromby. Next up: Sameheads, Berlin on Sat 12 Sept.
+Tomoki Tamura is a house and techno artist based in Germany, tracked on soundcheck, with 95 sets logged across Amsterdam, Bangkok, Barcelona and Belgrade and 26 more. Often billed alongside GARAN GARAN, Satoshi Tomiie and Cromby. Next up: Audiodise Park Montjuic, Barcelona on Sun 27 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 12 Sept 2026 | Sameheads | Berlin |
 | Sun, 27 Sept 2026 | Audiodise Park Montjuic | Barcelona |
 | Sat, 3 Oct 2026 | TBA | Mexico City |
 | Sat, 17 Oct 2026 | Frankhan Selectist | Istanbul |
@@ -18,6 +17,7 @@ Tomoki Tamura is a house and techno artist based in Germany, tracked on soundche
 
 ## Recently played
 
+- Sameheads, Berlin — Sat, 12 Sept 2026
 - Kaņepes Kultūras Centrs, Riga — Fri, 11 Sept 2026
 - PRST, Vienna — Sat, 5 Sept 2026
 - Clutch, Warehouse Bangkok, Bangkok — Sat, 22 Aug 2026
@@ -25,10 +25,9 @@ Tomoki Tamura is a house and techno artist based in Germany, tracked on soundche
 - Crate Brewery, London — Sat, 18 Jul 2026
 - Le Bouge Marseille, Marseille — Fri, 12 Jun 2026
 - TBA - Halo Events Center, Bucharest, Bucharest — Sat, 6 Jun 2026
-- Frankhan Selectist, Istanbul — Fri, 29 May 2026
 
 ## Shares bills with
 
 GARAN GARAN, Satoshi Tomiie, Cromby
 
-*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tomokitamura/)*
+*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tomokitamura/)*

@@ -1,6 +1,6 @@
 # Wolff
 
-Wolff is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Sat, 12 Sept 2026, next at La Bellevilloise, Paris on Sat, 17 Oct 2026.
+Wolff is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Sun, 13 Sept 2026, next at La Bellevilloise, Paris on Sat, 17 Oct 2026.
 
 Wolff is a house and disco artist tracked on soundcheck, with 7 sets logged across Paris. Often billed alongside Figurative Records, TONAK and TATA WOLFF. Next up: La Bellevilloise, Paris on Sat 17 Oct.
 
@@ -23,4 +23,4 @@ Wolff is a house and disco artist tracked on soundcheck, with 7 sets logged acro
 
 Figurative Records, TONAK, TATA WOLFF
 
-*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/wolff/)*
+*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/wolff/)*

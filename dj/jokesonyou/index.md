@@ -1,20 +1,20 @@
 # JOKESONYOU
 
-JOKESONYOU is a Techno and Trance artist with 4 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Circus Osaka, Osaka on Sat, 12 Sept 2026.
+JOKESONYOU is a Techno and Trance artist with 3 upcoming club dates listed on soundcheck as of Sun, 13 Sept 2026, next at Pica (Port Melbourne Industrial Centre for the Arts), Melbourne on Thu, 24 Sept 2026.
 
-JOKESONYOU is a techno and trance artist based in Australia, tracked on soundcheck, with 60 sets logged across Amsterdam, Antwerp, Barcelona and Berlin and 22 more. Often billed alongside 3LEEZA, Azyr and Mika Heggemann. Next up: Circus Osaka, Osaka on Sat 12 Sept.
+JOKESONYOU is a techno and trance artist based in Australia, tracked on soundcheck, with 60 sets logged across Amsterdam, Antwerp, Barcelona and Berlin and 22 more. Often billed alongside 3LEEZA, Azyr and Mika Heggemann. Next up: Pica (Port Melbourne Industrial Centre for the Arts), Melbourne on Thu 24 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 12 Sept 2026 | Circus Osaka | Osaka |
 | Thu, 24 Sept 2026 | Pica (Port Melbourne Industrial Centre for the Arts) | Melbourne |
 | Thu, 24 Sept 2026 | Pica (Port Melbourne Industrial Centre for the Arts) | Melbourne |
 | Sat, 24 Oct 2026 | Toekomstmuziek | Amsterdam |
 
 ## Recently played
 
+- Circus Osaka, Osaka — Sat, 12 Sept 2026
 - Circus Tokyo, Tokyo — Fri, 11 Sept 2026
 - Wigwam, Dublin — Sat, 15 Aug 2026
 - Lokschuppen Berlin, Berlin — Fri, 14 Aug 2026
@@ -22,10 +22,9 @@ JOKESONYOU is a techno and trance artist based in Australia, tracked on soundche
 - Das Werk, Vienna — Sat, 18 Jul 2026
 - OST, Berlin — Sat, 11 Jul 2026
 - Hidden, Manchester — Fri, 19 Jun 2026
-- Lokschuppen Berlin, Berlin — Sat, 6 Jun 2026
 
 ## Shares bills with
 
 3LEEZA, Azyr, Mika Heggemann
 
-*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jokesonyou/)*
+*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jokesonyou/)*

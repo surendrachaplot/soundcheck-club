@@ -1,14 +1,13 @@
 # Système
 
-Système is a music venue in Montreal with 12 upcoming nights listed on soundcheck as of Sat, 12 Sept 2026; the next is "moodswings" on Sat, 12 Sept 2026.
+Système is a music venue in Montreal with 11 upcoming nights listed on soundcheck as of Sun, 13 Sept 2026; the next is "Sundays w/ Nicola Torriero + Kris Guilty" on Sun, 13 Sept 2026.
 
-Système is a music venue in Montreal listed on soundcheck. 12 upcoming nights, with line-ups including Anabasine, Barbara Boeing, CMD and Dave P and 2 more. Browse upcoming dates, start times and who's playing. 7119 Saint Hubert, Montreal QC H2S2N1 Canada.
+Système is a music venue in Montreal listed on soundcheck. 11 upcoming nights, with line-ups including Anabasine, Barbara Boeing, Dave P and DJ Frog and 2 more. Browse upcoming dates, start times and who's playing. 7119 Saint Hubert, Montreal QC H2S2N1 Canada.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 12 Sept 2026 | moodswings | CMD, Emil Paquin, Honeydrip, somebody3lse |
 | Sun, 13 Sept 2026 | Sundays w/ Nicola Torriero + Kris Guilty | Kris Guilty |
 | Thu, 17 Sept 2026 | Vayia + Laurence Matte + Prïa | Laurence Matte, Prïa, Vayia |
 | Thu, 17 Sept 2026 | Also Cool presents: Drink n' Draw |  |
@@ -18,9 +17,10 @@ Système is a music venue in Montreal listed on soundcheck. 12 upcoming nights, 
 | Thu, 24 Sept 2026 | Système Soundsystem |  |
 | Fri, 25 Sept 2026 | Convida x Groovy Castle | Barbara Boeing, Jean Pascal Groove |
 | Sat, 26 Sept 2026 | Flush |  |
+| Sun, 27 Sept 2026 | Causal Chain: Delian League 'Crush' Release Party | Anabasine, laced |
 
 ## Address
 
 7119 Saint Hubert, Montreal QC H2S2N1 Canada, Montreal
 
-*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/montreal/club/syst-me/)*
+*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/montreal/club/syst-me/)*

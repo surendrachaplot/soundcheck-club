@@ -1,6 +1,6 @@
 # Keihin
 
-Keihin is a Techno and Bass artist with 1 upcoming club date listed on soundcheck as of Sat, 12 Sept 2026, next at clubasia, Tokyo on Sat, 26 Sept 2026.
+Keihin is a Techno and Bass artist with 1 upcoming club date listed on soundcheck as of Sun, 13 Sept 2026, next at clubasia, Tokyo on Sat, 26 Sept 2026.
 
 Keihin is a techno and bass artist based in Japan, tracked on soundcheck, with 6 sets logged across Kyoto, Osaka and Tokyo. Often billed alongside Goth-Trad, ykah and Acrocanthosaurus. Next up: clubasia, Tokyo on Sat 26 Sept.
 
@@ -22,4 +22,4 @@ Keihin is a techno and bass artist based in Japan, tracked on soundcheck, with 6
 
 Goth-Trad, ykah, Acrocanthosaurus
 
-*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/keihin/)*
+*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/keihin/)*

@@ -1,18 +1,18 @@
 # La Hara
 
-La Hara is a Tech House and House artist with 2 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Maya Beach Experience, Naples on Sat, 12 Sept 2026.
+La Hara is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Sun, 13 Sept 2026, next at Volt Club Milano, Milan on Fri, 18 Sept 2026.
 
-La Hara is a tech house and house artist based in Italy, tracked on soundcheck, with 44 sets logged across Milan and Naples. Often billed alongside Ludo Erre, Cristian Volpe and Alessio Cristiano. Next up: Maya Beach Experience, Naples on Sat 12 Sept.
+La Hara is a tech house and house artist based in Italy, tracked on soundcheck, with 44 sets logged across Milan and Naples. Often billed alongside Ludo Erre, Cristian Volpe and Alessio Cristiano. Next up: Volt Club Milano, Milan on Fri 18 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 12 Sept 2026 | Maya Beach Experience | Naples |
 | Fri, 18 Sept 2026 | Volt Club Milano | Milan |
 
 ## Recently played
 
+- Maya Beach Experience, Naples — Sat, 12 Sept 2026
 - Maya Beach Experience, Naples — Sat, 22 Aug 2026
 - Maya Beach Experience, Naples — Sat, 15 Aug 2026
 - Maya Beach Experience, Naples — Sat, 1 Aug 2026
@@ -20,10 +20,9 @@ La Hara is a tech house and house artist based in Italy, tracked on soundcheck, 
 - Maya Beach Experience, Naples — Sun, 5 Jul 2026
 - Maya Beach Experience, Naples — Sat, 27 Jun 2026
 - Maya Beach Experience, Naples — Sat, 30 May 2026
-- Maya Beach Experience, Naples — Sat, 23 May 2026
 
 ## Shares bills with
 
 Ludo Erre, Cristian Volpe, Alessio Cristiano
 
-*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lahara/)*
+*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lahara/)*

@@ -1,14 +1,13 @@
 # Crown Pier
 
-Crown Pier is a music venue in London with 14 upcoming nights listed on soundcheck as of Sat, 12 Sept 2026; the next is "Fusion - Boat Party On The Thames, Plus After Party" on Sat, 12 Sept 2026.
+Crown Pier is a music venue in London with 13 upcoming nights listed on soundcheck as of Sun, 13 Sept 2026; the next is "Summer of Love - London party boat + free after party" on Sat, 26 Sept 2026.
 
-Crown Pier is a music venue in London listed on soundcheck. 14 upcoming nights, with line-ups including Alfredo Romero, BämBäm, Eddie Van Poppel and Max E Groove and 2 more. Browse upcoming dates, start times and who's playing. Victoria Embankment, London EC4Y 0HJ.
+Crown Pier is a music venue in London listed on soundcheck. 13 upcoming nights, with line-ups including Alfredo Romero, BämBäm, Eddie Van Poppel and Max E Groove and 2 more. Browse upcoming dates, start times and who's playing. Victoria Embankment, London EC4Y 0HJ.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 12 Sept 2026 | Fusion - Boat Party On The Thames, Plus After Party |  |
 | Sat, 26 Sept 2026 | Summer of Love - London party boat + free after party | Eddie Van Poppel, Mr Fresh Official, NYCity Soundz, VanRock |
 | Sat, 26 Sept 2026 | Party! Party! Boat Party | Max E Groove, Mr Fresh Official, NYCity Soundz, Romeo, Scot Mochan, VanRock |
 | Sat, 26 Sept 2026 | Party! Party! Boat Party and free after party | Max E Groove, Mr Fresh Official, NYCity Soundz, Scot Mochan, VanRock |
@@ -18,9 +17,10 @@ Crown Pier is a music venue in London listed on soundcheck. 14 upcoming nights, 
 | Thu, 29 Oct 2026 | Party! Party! Halloween Boat Party followed by the Zombie Mansion | Max E Groove, Mr Fresh Official, NYCity Soundz, Romeo, Scot Mochan, VanRock |
 | Fri, 30 Oct 2026 | GHOST SHIP - The ultimate Halloween boat party on Hallows Eve plus after-party | Eddie Van Poppel, NYCity Soundz, VanRock |
 | Fri, 30 Oct 2026 | Party! Party! Halloween Boat Party | Max E Groove, Mr Fresh Official, NYCity Soundz, Romeo, Scot Mochan, VanRock |
+| Sat, 31 Oct 2026 | Zombie Pirate Ship - The Ultimate Halloween Boat party | Eddie Van Poppel, NYCity Soundz, VanRock |
 
 ## Address
 
 Victoria Embankment, London EC4Y 0HJ, London
 
-*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/crown-pier/)*
+*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/crown-pier/)*

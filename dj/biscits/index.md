@@ -1,20 +1,20 @@
 # Biscits
 
-Biscits is a House and Tech House artist with 4 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Q Nightclub, Seattle on Sat, 12 Sept 2026.
+Biscits is a House and Tech House artist with 3 upcoming club dates listed on soundcheck as of Sun, 13 Sept 2026, next at Beach House San Diego, San Diego on Fri, 9 Oct 2026.
 
-Biscits is a house and tech house artist based in United Kingdom, tracked on soundcheck, with 71 sets logged across Austin, Boston, Brisbane and Chicago and 23 more. Often billed alongside Sonny Fodera, Gorgon City and Azzecca. Next up: Q Nightclub, Seattle on Sat 12 Sept.
+Biscits is a house and tech house artist based in United Kingdom, tracked on soundcheck, with 71 sets logged across Austin, Boston, Brisbane and Chicago and 23 more. Often billed alongside Sonny Fodera, Gorgon City and Azzecca. Next up: Beach House San Diego, Sandiego on Fri 9 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 12 Sept 2026 | Q Nightclub | Seattle |
 | Fri, 9 Oct 2026 | Beach House San Diego | San Diego |
 | Sat, 31 Oct 2026 | Night We Met | Nashville |
 | Sat, 14 Nov 2026 | Coda | Toronto |
 
 ## Recently played
 
+- Q Nightclub, Seattle — Sat, 12 Sept 2026
 - Union Park, Chicago — Fri, 4 Sept 2026
 - Midline, Miami — Fri, 14 Aug 2026
 - Lakefront Green, Chicago — Sat, 4 Jul 2026
@@ -22,10 +22,9 @@ Biscits is a house and tech house artist based in United Kingdom, tracked on sou
 - Lion Super Club, Seoul — Fri, 27 Feb 2026
 - The Grand, Boston — Fri, 13 Feb 2026
 - New Guernica, Melbourne — Sat, 6 Dec 2025
-- elsewhere, Brisbane — Fri, 5 Dec 2025
 
 ## Shares bills with
 
 Sonny Fodera, Gorgon City, Azzecca
 
-*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/biscits/)*
+*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/biscits/)*

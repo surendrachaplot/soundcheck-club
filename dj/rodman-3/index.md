@@ -1,6 +1,6 @@
 # Rodman (2)
 
-Rodman (2) is a Trance and Electronica artist with 1 upcoming club date listed on soundcheck as of Sat, 12 Sept 2026, next at Departamento, Mexico City on Wed, 9 Sept 2026.
+Rodman (2) is a Trance and Electronica artist with 1 upcoming club date listed on soundcheck as of Sun, 13 Sept 2026, next at Departamento, Mexico City on Wed, 9 Sept 2026.
 
 Rodman (2) is a trance and electronica artist tracked on soundcheck, with 5 sets logged across Liverpool, Manchester, Mexicocity and Newcastle. Often billed alongside Alan Ruddick, Alejandro Veneno and Amos. Next up: Departamento, Mexicocity on Wed 9 Sept.
 
@@ -22,4 +22,4 @@ Rodman (2) is a trance and electronica artist tracked on soundcheck, with 5 sets
 
 Alan Ruddick, Alejandro Veneno, Amos
 
-*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/rodman-3/)*
+*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/rodman-3/)*

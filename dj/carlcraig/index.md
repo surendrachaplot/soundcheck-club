@@ -1,16 +1,13 @@
 # Carl Craig
 
-Carl Craig is a House and Techno artist with 15 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at P.za Ventiquattro Maggio, Milan on Sat, 12 Sept 2026.
+Carl Craig is a House and Techno artist with 12 upcoming club dates listed on soundcheck as of Sun, 13 Sept 2026, next at 528 Ibiza, Ibiza on Tue, 15 Sept 2026.
 
-Carl Craig is a house and techno artist tracked on soundcheck, with 272 sets logged across Amsterdam, Antwerp, Athens and Austin and 47 more. Often billed alongside Moodymann, DJ Holographic and Seth Troxler. Next up: P.za Ventiquattro Maggio, Milan on Sat 12 Sept.
+Carl Craig is a house and techno artist tracked on soundcheck, with 272 sets logged across Amsterdam, Antwerp, Athens and Austin and 47 more. Often billed alongside Moodymann, DJ Holographic and Seth Troxler. Next up: 528 Ibiza, Ibiza on Tue 15 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 12 Sept 2026 | P.za Ventiquattro Maggio | Milan |
-| Sat, 12 Sept 2026 | DURO | Milan |
-| Sat, 12 Sept 2026 | DURO | Milan |
 | Tue, 15 Sept 2026 | 528 Ibiza | Ibiza |
 | Fri, 18 Sept 2026 | FOLD | London |
 | Sat, 19 Sept 2026 | REC Napoli | Naples |
@@ -20,20 +17,23 @@ Carl Craig is a house and techno artist tracked on soundcheck, with 272 sets log
 | Sat, 10 Oct 2026 | Mondo | Madrid |
 | Fri, 16 Oct 2026 | Public Works | San Francisco/Oakland |
 | Wed, 21 Oct 2026 | A'DAM Toren | Amsterdam |
+| Thu, 22 Oct 2026 | Thuishaven | Amsterdam |
+| Sat, 24 Oct 2026 | Madam | Amsterdam |
+| Sun, 25 Oct 2026 | Madam | Amsterdam |
 
 ## Recently played
 
+- P.za Ventiquattro Maggio, Milan — Sat, 12 Sept 2026
+- DURO, Milan — Sat, 12 Sept 2026
+- DURO, Milan — Sat, 12 Sept 2026
 - Silencio, Paris — Fri, 11 Sept 2026
 - Chinois Ibiza, Ibiza — Thu, 10 Sept 2026
 - TV Lounge, Detroit — Sun, 6 Sept 2026
 - smartbar, Chicago — Sat, 5 Sept 2026
 - Union Park, Chicago — Fri, 4 Sept 2026
-- Gewölbe, Cologne — Sat, 22 Aug 2026
-- Flash, Washington DC — Sat, 15 Aug 2026
-- Under the K Bridge, New York City — Sat, 15 Aug 2026
 
 ## Shares bills with
 
 Moodymann, DJ Holographic, Seth Troxler
 
-*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/carlcraig/)*
+*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/carlcraig/)*

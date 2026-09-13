@@ -1,8 +1,8 @@
 # Idjut Boys
 
-Idjut Boys is a Disco and House artist with 3 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Loft Studios, London on Sat, 19 Sept 2026.
+Idjut Boys is a Disco and House artist with 4 upcoming club dates listed on soundcheck as of Sun, 13 Sept 2026, next at Loft Studios, London on Sat, 19 Sept 2026.
 
-Idjut Boys is a disco and house artist tracked on soundcheck, with 30 sets logged across Athens, Bali, Barcelona and Copenhagen and 8 more. Often billed alongside C.L.A.W.S., Galen and Grace Sands. Next up: Loft Studios, London on Sat 19 Sept.
+Idjut Boys is a disco and house artist tracked on soundcheck, with 31 sets logged across Athens, Bali, Barcelona and Copenhagen and 8 more. Often billed alongside C.L.A.W.S., Galen and Grace Sands. Next up: Loft Studios, London on Sat 19 Sept.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Idjut Boys is a disco and house artist tracked on soundcheck, with 30 sets logge
 | --- | --- | --- |
 | Sat, 19 Sept 2026 | Loft Studios | London |
 | Fri, 2 Oct 2026 | DJ Bar Bridge Shinjuku | Tokyo |
+| Sat, 3 Oct 2026 | Club Daphnia | Osaka |
 | Sun, 1 Nov 2026 | Filly Brook | London |
 
 ## Recently played
@@ -27,4 +28,4 @@ Idjut Boys is a disco and house artist tracked on soundcheck, with 30 sets logge
 
 C.L.A.W.S., Galen, Grace Sands
 
-*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/idjutboys/)*
+*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/idjutboys/)*

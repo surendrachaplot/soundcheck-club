@@ -1,6 +1,6 @@
 # Roka
 
-Roka is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Sat, 12 Sept 2026, next at Solace, Melbourne on Sat, 19 Sept 2026.
+Roka is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Sun, 13 Sept 2026, next at Solace, Melbourne on Sat, 19 Sept 2026.
 
 Roka is a tech house and house artist based in Australia, tracked on soundcheck, with 18 sets logged across London and Melbourne. Often billed alongside Séarlait, Char(k) and DJ Possum. Next up: Solace, Melbourne on Sat 19 Sept.
 
@@ -25,4 +25,4 @@ Roka is a tech house and house artist based in Australia, tracked on soundcheck,
 
 Séarlait, Char(k), DJ Possum
 
-*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/roka.-2/)*
+*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/roka.-2/)*

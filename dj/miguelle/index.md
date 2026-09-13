@@ -1,14 +1,13 @@
 # Miguelle
 
-Miguelle is a Tech House and House artist with 5 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Universidad Autónoma de Madrid (UAM), Madrid on Sat, 12 Sept 2026.
+Miguelle is a Tech House and House artist with 4 upcoming club dates listed on soundcheck as of Sun, 13 Sept 2026, next at IFEMA, Madrid on Fri, 18 Sept 2026.
 
-Miguelle is a tech house and house artist based in Venezuela, tracked on soundcheck, with 112 sets logged across Amsterdam, Austin, Barcelona and Boston and 17 more. Often billed alongside TONS, Ben Sterling and Marco Carola. Next up: Universidad Autónoma de Madrid (UAM), Madrid on Sat 12 Sept.
+Miguelle is a tech house and house artist based in Venezuela, tracked on soundcheck, with 112 sets logged across Amsterdam, Austin, Barcelona and Boston and 17 more. Often billed alongside TONS, Ben Sterling and Marco Carola. Next up: IFEMA, Madrid on Fri 18 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 12 Sept 2026 | Universidad Autónoma de Madrid (UAM) | Madrid |
 | Fri, 18 Sept 2026 | IFEMA | Madrid |
 | Fri, 18 Sept 2026 | IFEMA | Madrid |
 | Sat, 10 Oct 2026 | IDRA | Manchester |
@@ -16,6 +15,7 @@ Miguelle is a tech house and house artist based in Venezuela, tracked on soundch
 
 ## Recently played
 
+- Universidad Autónoma de Madrid (UAM), Madrid — Sat, 12 Sept 2026
 - Hï Ibiza, Ibiza — Tue, 1 Sept 2026
 - Seaseaclub Barcelona, Barcelona — Sun, 23 Aug 2026
 - Fitz Mallorca, Mallorca — Fri, 14 Aug 2026
@@ -23,10 +23,9 @@ Miguelle is a tech house and house artist based in Venezuela, tracked on soundch
 - Sunset Park Rooftop, New York City — Sat, 1 Aug 2026
 - Fitz Mallorca, Mallorca — Thu, 16 Jul 2026
 - Marina Sur, Valencia — Sat, 11 Jul 2026
-- Warehouse Elementenstraat, Amsterdam — Sat, 4 Jul 2026
 
 ## Shares bills with
 
 TONS, Ben Sterling, Marco Carola
 
-*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/miguelle/)*
+*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/miguelle/)*

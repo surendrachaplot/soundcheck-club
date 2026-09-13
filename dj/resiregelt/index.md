@@ -1,6 +1,6 @@
 # Resi Regelt
 
-Resi Regelt is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Sat, 12 Sept 2026, next at TBA - Baergarten, Berlin on Sun, 20 Sept 2026.
+Resi Regelt is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Sun, 13 Sept 2026, next at TBA - Baergarten, Berlin on Sun, 20 Sept 2026.
 
 Resi Regelt is a house and tech house artist tracked on soundcheck, with 5 sets logged across Berlin. Often billed alongside Lisatrix, Pilar Jordan and COGNAC200. Next up: TBA - Baergarten, Berlin on Sun 20 Sept.
 
@@ -21,4 +21,4 @@ Resi Regelt is a house and tech house artist tracked on soundcheck, with 5 sets 
 
 Lisatrix, Pilar Jordan, COGNAC200
 
-*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/resiregelt/)*
+*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/resiregelt/)*

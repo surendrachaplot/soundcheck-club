@@ -1,6 +1,6 @@
 # Ana Armada
 
-Ana Armada is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Sat, 12 Sept 2026, next at Drama Radio Bar, Mexico City on Wed, 9 Sept 2026.
+Ana Armada is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Sun, 13 Sept 2026, next at Drama Radio Bar, Mexico City on Wed, 9 Sept 2026.
 
 Ana Armada is a house and deep house artist based in Mexico, tracked on soundcheck, with 21 sets logged across Mexicocity. Often billed alongside Alexa Rosas, LeFaux and Louie Fresco. Next up: Drama Radio Bar, Mexicocity on Wed 9 Sept.
 
@@ -25,4 +25,4 @@ Ana Armada is a house and deep house artist based in Mexico, tracked on soundche
 
 Alexa Rosas, LeFaux, Louie Fresco
 
-*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/anaarmada/)*
+*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/anaarmada/)*

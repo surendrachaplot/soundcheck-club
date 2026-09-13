@@ -1,14 +1,13 @@
 # Doka
 
-Doka is a music venue in Amsterdam with 17 upcoming nights listed on soundcheck as of Sat, 12 Sept 2026; the next is "Doka Studio with Antal (All night long)" on Sat, 12 Sept 2026.
+Doka is a music venue in Amsterdam with 16 upcoming nights listed on soundcheck as of Sun, 13 Sept 2026; the next is "Ciranda Sundays x Doka Studio with Charmaine - Mendel " on Sun, 13 Sept 2026.
 
-Doka is a music venue in Amsterdam listed on soundcheck. 17 upcoming nights, with line-ups including Antal, Anz, babyschön and CARISTA and 2 more. Browse upcoming dates, start times and who's playing. Wibautstraat 150, 1091 GR Amsterdam, Netherlands.
+Doka is a music venue in Amsterdam listed on soundcheck. 16 upcoming nights, with line-ups including Anz, babyschön, CARISTA and Charmaine and 2 more. Browse upcoming dates, start times and who's playing. Wibautstraat 150, 1091 GR Amsterdam, Netherlands.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 12 Sept 2026 | Doka Studio with Antal (All night long) | Antal |
 | Sun, 13 Sept 2026 | Ciranda Sundays x Doka Studio with Charmaine - Mendel  | Charmaine, Mendel |
 | Fri, 18 Sept 2026 | Likeminded x Doka Studio with TBA |  |
 | Fri, 18 Sept 2026 | Tale of Bus w/ Sugar Free, Daan Donk | Daan Donk, Sugar Free |
@@ -18,9 +17,10 @@ Doka is a music venue in Amsterdam listed on soundcheck. 17 upcoming nights, wit
 | Sat, 26 Sept 2026 | Doka Studio with DJ Tracksuit - Nathalie Seres | DJ Tracksuit, Nathalie Seres |
 | Sun, 27 Sept 2026 | Steppin' Into Tomorrow x Doka Studio with mo w/rights - Lucas Benjamin | Lucas Benjamin, Mo Wrights |
 | Sat, 3 Oct 2026 | Unsilenced x Doka Studio with Petre Inspirescu (All night long) | Petre Inspirescu |
+| Wed, 21 Oct 2026 | Live Coding Sessions x Doka Culture [ADE] | Jobi, MYNA |
 
 ## Address
 
 Wibautstraat 150, 1091 GR Amsterdam, Netherlands, Amsterdam
 
-*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/doka/)*
+*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/doka/)*

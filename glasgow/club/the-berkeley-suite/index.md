@@ -1,14 +1,13 @@
 # The Berkeley Suite
 
-The Berkeley Suite is a music venue in Glasgow with 33 upcoming nights listed on soundcheck as of Sat, 12 Sept 2026; the next is "The Berkeley Suite presents: Peach All Night Long" on Sat, 12 Sept 2026.
+The Berkeley Suite is a music venue in Glasgow with 32 upcoming nights listed on soundcheck as of Sun, 13 Sept 2026; the next is "PILOT" on Mon, 14 Sept 2026.
 
-The Berkeley Suite is a music venue in Glasgow listed on soundcheck. 33 upcoming nights, with line-ups including Andy Barton, Big Miz, Bonzai Bonner and Bruce Sangster and 2 more. Browse upcoming dates, start times and who's playing. 237 North Street; Glasgow, G3 7DL, Scotland, United Kingdom.
+The Berkeley Suite is a music venue in Glasgow listed on soundcheck. 32 upcoming nights, with line-ups including Andy Barton, Big Miz, Bonzai Bonner and Bruce Sangster and 2 more. Browse upcoming dates, start times and who's playing. 237 North Street; Glasgow, G3 7DL, Scotland, United Kingdom.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 12 Sept 2026 | The Berkeley Suite presents: Peach All Night Long | Peach |
 | Mon, 14 Sept 2026 | PILOT | Bruce Sangster |
 | Tue, 15 Sept 2026 | GCFS x GEMS: Freshers Week | Orla Halligan, Patrick McCotter, Thomas + James |
 | Wed, 16 Sept 2026 | FUNK THE SYSTEM: Ciel | Ciel, Thomas + James |
@@ -18,9 +17,10 @@ The Berkeley Suite is a music venue in Glasgow listed on soundcheck. 33 upcoming
 | Tue, 22 Sept 2026 | CASA: WELCOME TO GLASGOW // TUESDAYS AT BERKELEY SUITE // 'OUR HOUSE IS YOUR HOUSE' |  |
 | Tue, 22 Sept 2026 | CASA: WELCOME TO GLASGOW // TUESDAYS AT BERKELEY SUITE // 'OUR HOUSE IS YOUR HOUSE' |  |
 | Thu, 24 Sept 2026 |  ~ BIG MIZ ~ ROLLIN' | Big Miz, Liam Doc |
+| Fri, 25 Sept 2026 | Céleste's 5th Birthday W/ *** ******* | Céleste |
 
 ## Address
 
 237 North Street; Glasgow, G3 7DL, Scotland, United Kingdom, Glasgow
 
-*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/the-berkeley-suite/)*
+*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/the-berkeley-suite/)*

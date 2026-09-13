@@ -1,6 +1,6 @@
 # Miss Mara
 
-Miss Mara is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 12 Sept 2026, next at Departamento, Mexico City on Wed, 9 Sept 2026.
+Miss Mara is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 13 Sept 2026, next at Departamento, Mexico City on Wed, 9 Sept 2026.
 
 Miss Mara is a house and techno artist based in Mexico, tracked on soundcheck, with 65 sets logged across Berlin, Lisbon, Mexicocity and Newyorkcity. Often billed alongside Diz Shocka, Alby Esc and Tommy Hart. Next up: Departamento, Mexicocity on Wed 9 Sept.
 
@@ -25,4 +25,4 @@ Miss Mara is a house and techno artist based in Mexico, tracked on soundcheck, w
 
 Diz Shocka, Alby Esc, Tommy Hart
 
-*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/missmara/)*
+*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/missmara/)*

@@ -1,14 +1,13 @@
 # Unter Deck
 
-Unter Deck is a music venue in Munich with 7 upcoming nights listed on soundcheck as of Sat, 12 Sept 2026; the next is "Sofiia Zoloto's Farewell Session" on Sat, 12 Sept 2026.
+Unter Deck is a music venue in Munich with 6 upcoming nights listed on soundcheck as of Sun, 13 Sept 2026; the next is "Electroamore im Unter Deck" on Wed, 16 Sept 2026.
 
-Unter Deck is a music venue in Munich listed on soundcheck. 7 upcoming nights, with line-ups including Die Tektonische Plattenverschiebung, DJ FM & DJ FREUND, floor length skirts and Kim_Twiddle and 2 more. Browse upcoming dates, start times and who's playing. Oberanger 26, 80331 München.
+Unter Deck is a music venue in Munich listed on soundcheck. 6 upcoming nights, with line-ups including Die Tektonische Plattenverschiebung, DJ FM & DJ FREUND, floor length skirts and Kim_Twiddle and 2 more. Browse upcoming dates, start times and who's playing. Oberanger 26, 80331 München.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 12 Sept 2026 | Sofiia Zoloto's Farewell Session | Liudmyla, Shree (2), Sofiia Zoloto |
 | Wed, 16 Sept 2026 | Electroamore im Unter Deck | DJ FM & DJ FREUND, Die Tektonische Plattenverschiebung, Safahs |
 | Tue, 6 Oct 2026 | Tuesday in Love: DJ FREUND all night long | DJ FM & DJ FREUND |
 | Fri, 9 Oct 2026 | Off Supply with Zo Pea & floor length skirts | Off Supply, Zoe Pea, floor length skirts |
@@ -20,4 +19,4 @@ Unter Deck is a music venue in Munich listed on soundcheck. 7 upcoming nights, w
 
 Oberanger 26, 80331 München, Munich
 
-*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/munich/club/unter-deck/)*
+*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/munich/club/unter-deck/)*

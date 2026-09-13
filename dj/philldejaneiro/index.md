@@ -1,14 +1,13 @@
 # Phill de Janeiro
 
-Phill de Janeiro is a House and Tech House artist with 7 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at TBA - KENT COUNTY SHOWGROUND, London on Sat, 12 Sept 2026.
+Phill de Janeiro is a House and Tech House artist with 6 upcoming club dates listed on soundcheck as of Sun, 13 Sept 2026, next at TBA - Various Venues, Malta on Thu, 1 Oct 2026.
 
-Phill de Janeiro is a house and tech house artist tracked on soundcheck, with 100 sets logged across Amsterdam, Barcelona, Birmingham and Bristol and 9 more. Often billed alongside Benji King, Jude Lenihan and Truly Madly. Next up: TBA - KENT COUNTY SHOWGROUND, London on Sat 12 Sept.
+Phill de Janeiro is a house and tech house artist tracked on soundcheck, with 100 sets logged across Amsterdam, Barcelona, Birmingham and Bristol and 9 more. Often billed alongside Benji King, Jude Lenihan and Truly Madly. Next up: TBA - Various Venues, Malta on Thu 1 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 12 Sept 2026 | TBA - KENT COUNTY SHOWGROUND | London |
 | Thu, 1 Oct 2026 | TBA - Various Venues | Malta |
 | Thu, 1 Oct 2026 | UNO MALTA | Malta |
 | Sat, 3 Oct 2026 | Depot Mayfield | Manchester |
@@ -18,6 +17,7 @@ Phill de Janeiro is a house and tech house artist tracked on soundcheck, with 10
 
 ## Recently played
 
+- TBA - KENT COUNTY SHOWGROUND, London — Sat, 12 Sept 2026
 - KOKO, London — Fri, 4 Sept 2026
 - Kelvedon Hall, London — Sat, 29 Aug 2026
 - fabric, London — Sat, 29 Aug 2026
@@ -25,10 +25,9 @@ Phill de Janeiro is a house and tech house artist tracked on soundcheck, with 10
 - Burgess Park, London — Sun, 9 Aug 2026
 - Burgess Park, London — Sun, 9 Aug 2026
 - Cova Santa, Ibiza — Tue, 4 Aug 2026
-- LA-YAM Rooftop, London — Sat, 18 Jul 2026
 
 ## Shares bills with
 
 Benji King, Jude Lenihan, Truly Madly
 
-*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/philldejaneiro/)*
+*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/philldejaneiro/)*

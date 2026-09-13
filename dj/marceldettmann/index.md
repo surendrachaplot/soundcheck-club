@@ -1,6 +1,6 @@
 # Marcel Dettmann
 
-Marcel Dettmann is a Techno and House artist with 18 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Barragem da Queimadela, Porto on Thu, 10 Sept 2026.
+Marcel Dettmann is a Techno and House artist with 16 upcoming club dates listed on soundcheck as of Sun, 13 Sept 2026, next at Barragem da Queimadela, Porto on Thu, 10 Sept 2026.
 
 Marcel Dettmann is a techno and house artist tracked on soundcheck, with 262 sets logged across Amsterdam, Antwerp, Athens and Austin and 63 more. Often billed alongside Ben Klock, Ogazón and BASHKKA. Next up: Barragem da Queimadela, Porto on Thu 10 Sept.
 
@@ -9,8 +9,6 @@ Marcel Dettmann is a techno and house artist tracked on soundcheck, with 262 set
 | Date | Venue | City |
 | --- | --- | --- |
 | Thu, 10 Sept 2026 | Barragem da Queimadela | Porto |
-| Sat, 12 Sept 2026 | Anfiteatro de Pedra | Lisbon |
-| Sat, 12 Sept 2026 | 8 Marvila | Lisbon |
 | Fri, 18 Sept 2026 | Fort Mifflin | Philadelphia |
 | Sat, 19 Sept 2026 | Academy LA | Los Angeles |
 | Fri, 25 Sept 2026 | Forte Antenne | Rome |
@@ -20,20 +18,22 @@ Marcel Dettmann is a techno and house artist tracked on soundcheck, with 262 set
 | Sat, 17 Oct 2026 | Plaza Monumental de Barcelona | Barcelona |
 | Fri, 23 Oct 2026 | WestWeelde | Amsterdam |
 | Sat, 24 Oct 2026 | Mediahaven - Minervahaven | Amsterdam |
+| Sat, 24 Oct 2026 | RADION | Amsterdam |
+| Fri, 30 Oct 2026 | Factory Town | Miami |
 
 ## Recently played
 
+- Anfiteatro de Pedra, Lisbon — Sat, 12 Sept 2026
+- 8 Marvila, Lisbon — Sat, 12 Sept 2026
 - Barragem da Queimadela, Porto — Thu, 10 Sept 2026
 - Westhafen, Leipzig — Sat, 5 Sept 2026
 - Barutana, Belgrade — Fri, 28 Aug 2026
 - Berghain | Panorama Bar | Säule, Berlin — Sat, 8 Aug 2026
 - Amsterdamse Bos, Amsterdam — Sun, 2 Aug 2026
 - BLITZ, Munich — Fri, 31 Jul 2026
-- Amsterdamse Bos, Amsterdam — Wed, 29 Jul 2026
-- Boston Manor Park, London — Sat, 25 Jul 2026
 
 ## Shares bills with
 
 Ben Klock, Ogazón, BASHKKA
 
-*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/marceldettmann/)*
+*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/marceldettmann/)*

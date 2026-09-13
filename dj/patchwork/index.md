@@ -1,30 +1,28 @@
 # Patchwork
 
-Patchwork is a House and Disco artist with 3 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at American Legion Marsh Post #442, Boston on Sat, 12 Sept 2026.
+Patchwork is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Sun, 13 Sept 2026, next at The Chemist, Boston on Thu, 24 Sept 2026.
 
-Patchwork is a house and disco artist based in United States of America, tracked on soundcheck, with 19 sets logged across Boston. Often billed alongside Private Dancer, Rasaaq and Wiersma. Next up: American Legion Marsh Post #442, Boston on Sat 12 Sept.
+Patchwork is a house and disco artist based in United States of America, tracked on soundcheck, with 19 sets logged across Boston. Often billed alongside Private Dancer, Rasaaq and Wiersma. Next up: The Chemist, Boston on Thu 24 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 12 Sept 2026 | American Legion Marsh Post #442 | Boston |
-| Sat, 12 Sept 2026 | State Park | Boston |
 | Thu, 24 Sept 2026 | The Chemist | Boston |
 
 ## Recently played
 
+- American Legion Marsh Post #442, Boston — Sat, 12 Sept 2026
+- State Park, Boston — Sat, 12 Sept 2026
 - State Park, Boston — Sat, 8 Aug 2026
 - Manray, Boston — Thu, 30 Jul 2026
 - TBA - Charlestown Navy Yard, Boston — Sat, 11 Jul 2026
 - TBA - State Park Bar, Boston — Sat, 11 Jul 2026
 - Spy Bar, Boston — Sat, 20 Jun 2026
 - The Chemist, Boston — Fri, 22 May 2026
-- Middlesex, Boston — Thu, 21 May 2026
-- Phoenix Landing, Boston — Wed, 25 Mar 2026
 
 ## Shares bills with
 
 Private Dancer, Rasaaq, Wiersma
 
-*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/patchwork/)*
+*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/patchwork/)*

@@ -1,14 +1,13 @@
 # Djoon
 
-Djoon is a music venue in Paris with 6 upcoming nights listed on soundcheck as of Sat, 12 Sept 2026; the next is "MY GROOVES: Afshin all night long" on Sat, 12 Sept 2026.
+Djoon is a music venue in Paris with 5 upcoming nights listed on soundcheck as of Sun, 13 Sept 2026; the next is "T.R.O.Y Movement" on Sun, 13 Sept 2026.
 
-Djoon is a music venue in Paris listed on soundcheck. 6 upcoming nights, with line-ups including Afshin, Carole Fe, Chaos In The CBD and Davide D'Amico and 2 more. Browse upcoming dates, start times and who's playing. 22 boulevard Vincent Auriol; 75013; Paris; France.
+Djoon is a music venue in Paris listed on soundcheck. 5 upcoming nights, with line-ups including Afshin, Carole Fe, Chaos In The CBD and Davide D'Amico and 2 more. Browse upcoming dates, start times and who's playing. 22 boulevard Vincent Auriol; 75013; Paris; France.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 12 Sept 2026 | MY GROOVES: Afshin all night long | Afshin |
 | Sun, 13 Sept 2026 | T.R.O.Y Movement |  |
 | Fri, 18 Sept 2026 | Rhode & Brown invite Geneva & Carole Fe | Carole Fe, Geneva_, Rhode & Brown |
 | Sat, 19 Sept 2026 | The Djoon Experience | Afshin, Kapela |
@@ -19,4 +18,4 @@ Djoon is a music venue in Paris listed on soundcheck. 6 upcoming nights, with li
 
 22 boulevard Vincent Auriol; 75013; Paris; France, Paris
 
-*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/paris/club/djoon/)*
+*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/paris/club/djoon/)*

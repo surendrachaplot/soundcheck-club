@@ -1,14 +1,13 @@
 # Eastern Bloc Records
 
-Eastern Bloc Records is a music venue in Manchester with 20 upcoming nights listed on soundcheck as of Sat, 12 Sept 2026; the next is "Damo B presents #IRL" on Sat, 12 Sept 2026.
+Eastern Bloc Records is a music venue in Manchester with 19 upcoming nights listed on soundcheck as of Sun, 13 Sept 2026; the next is "PLASTIC LOFT: THE 4th INSTALMENT" on Thu, 17 Sept 2026.
 
-Eastern Bloc Records is a music venue in Manchester listed on soundcheck. 20 upcoming nights, with line-ups including Adrian Skiba, Allius, Andy Green and Artilect and 2 more. Browse upcoming dates, start times and who's playing. 5a Stevenson Square, Northern Quarter, Manchester, M1 1DN.
+Eastern Bloc Records is a music venue in Manchester listed on soundcheck. 19 upcoming nights, with line-ups including Adrian Skiba, Allius, Andy Green and Artilect and 2 more. Browse upcoming dates, start times and who's playing. 5a Stevenson Square, Northern Quarter, Manchester, M1 1DN.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 12 Sept 2026 | Damo B presents #IRL | Damo B |
 | Thu, 17 Sept 2026 | PLASTIC LOFT: THE 4th INSTALMENT |  |
 | Fri, 18 Sept 2026 | Arya | Adrian Skiba, KOSAA |
 | Sat, 19 Sept 2026 | Kommen | Nonna Fab, Vinyl Richiee |
@@ -18,9 +17,10 @@ Eastern Bloc Records is a music venue in Manchester listed on soundcheck. 20 upc
 | Sat, 26 Sept 2026 | Rhythmwerx W/ Joe Gosling, Means&3rd & Will A | Joe Gosling, Means&3rd, Will A |
 | Fri, 2 Oct 2026 | KRNK Collective |  |
 | Wed, 7 Oct 2026 | Liv East: Live & Signing |  |
+| Thu, 8 Oct 2026 | COVEN | GFA, Gwardy, nowah |
 
 ## Address
 
 5a Stevenson Square, Northern Quarter, Manchester, M1 1DN, Manchester
 
-*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/eastern-bloc-records/)*
+*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/eastern-bloc-records/)*

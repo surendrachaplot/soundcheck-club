@@ -1,6 +1,6 @@
 # Creep-P
 
-Creep-P is a Club and Hardcore artist with 1 upcoming club date listed on soundcheck as of Sat, 12 Sept 2026, next at Vespers Club, London on Fri, 30 Oct 2026.
+Creep-P is a Club and Hardcore artist with 1 upcoming club date listed on soundcheck as of Sun, 13 Sept 2026, next at Vespers Club, London on Fri, 30 Oct 2026.
 
 Creep-P is a club and hardcore artist based in United States of America, tracked on soundcheck, with 21 sets logged across Chicago, London, Losangeles and Newyorkcity and 3 more. Often billed alongside Ghozt (NYC), DJ Re:Code and W.T. Snacks. Next up: Vespers Club, London on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ Creep-P is a club and hardcore artist based in United States of America, tracked
 
 Ghozt (NYC), DJ Re:Code, W.T. Snacks
 
-*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/creep-p/)*
+*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/creep-p/)*

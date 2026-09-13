@@ -1,8 +1,8 @@
 # Ottoman Grüw
 
-Ottoman Grüw is a EBM and Techno artist with 4 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Volnost, Seoul on Fri, 25 Sept 2026.
+Ottoman Grüw is a EBM and Techno artist with 5 upcoming club dates listed on soundcheck as of Sun, 13 Sept 2026, next at Volnost, Seoul on Fri, 25 Sept 2026.
 
-Ottoman Grüw is an ebm and techno artist tracked on soundcheck, with 59 sets logged across Amsterdam, Antwerp, Athens and Berlin and 12 more. Often billed alongside 2+2=5, Incendie and Monstera Occulta. Next up: Volnost, Seoul on Fri 25 Sept.
+Ottoman Grüw is an ebm and techno artist tracked on soundcheck, with 60 sets logged across Amsterdam, Antwerp, Athens and Berlin and 12 more. Often billed alongside 2+2=5, Incendie and Monstera Occulta. Next up: Volnost, Seoul on Fri 25 Sept.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Ottoman Grüw is an ebm and techno artist tracked on soundcheck, with 59 sets lo
 | --- | --- | --- |
 | Fri, 25 Sept 2026 | Volnost | Seoul |
 | Sat, 3 Oct 2026 | Traffic | Tokyo |
+| Sun, 4 Oct 2026 | Chitei 地底 | Tokyo |
 | Fri, 23 Oct 2026 | 宀 Club | Hong Kong |
 | Sat, 31 Oct 2026 | Beursschouwburg | Brussels |
 
@@ -28,4 +29,4 @@ Ottoman Grüw is an ebm and techno artist tracked on soundcheck, with 59 sets lo
 
 2+2=5, Incendie, Monstera Occulta
 
-*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ottomangruw/)*
+*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ottomangruw/)*

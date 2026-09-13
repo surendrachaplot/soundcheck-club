@@ -1,6 +1,6 @@
 # Moodymann
 
-Moodymann is a House and Techno artist with 12 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Auditorium Parco della Musica, Rome on Sat, 12 Sept 2026.
+Moodymann is a House and Techno artist with 12 upcoming club dates listed on soundcheck as of Sun, 13 Sept 2026, next at Auditorium Parco della Musica, Rome on Sat, 12 Sept 2026.
 
 Moodymann is a house and techno artist tracked on soundcheck, with 163 sets logged across Amsterdam, Antwerp, Athens and Bali and 36 more. Often billed alongside Carl Craig, DJ Holographic and Flo Real. Next up: Auditorium Parco della Musica, Rome on Sat 12 Sept.
 
@@ -23,6 +23,7 @@ Moodymann is a house and techno artist tracked on soundcheck, with 163 sets logg
 
 ## Recently played
 
+- Auditorium Parco della Musica, Rome — Sat, 12 Sept 2026
 - smartbar, Chicago — Sat, 5 Sept 2026
 - Union Park, Chicago — Fri, 4 Sept 2026
 - TBA, Singapore — Sat, 22 Aug 2026
@@ -30,10 +31,9 @@ Moodymann is a house and techno artist tracked on soundcheck, with 163 sets logg
 - Regent Theater, DTLA, Los Angeles — Fri, 14 Aug 2026
 - ZIK Zeit ist Knapp, Berlin — Sun, 9 Aug 2026
 - Amnesia Ibiza, Ibiza — Fri, 7 Aug 2026
-- Superior Ingredients, New York City — Fri, 17 Jul 2026
 
 ## Shares bills with
 
 Carl Craig, DJ Holographic, Flo Real
 
-*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/moodymann/)*
+*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/moodymann/)*

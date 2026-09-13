@@ -1,14 +1,13 @@
 # DXNBY
 
-DXNBY is a House and Tech House artist with 10 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Halcyon, San Francisco/Oakland on Sat, 12 Sept 2026.
+DXNBY is a House and Tech House artist with 9 upcoming club dates listed on soundcheck as of Sun, 13 Sept 2026, next at Club Vinyl, Denver on Fri, 18 Sept 2026.
 
-DXNBY is a house and tech house artist tracked on soundcheck, with 118 sets logged across Amsterdam, Barcelona, Birmingham and Brighton and 23 more. Often billed alongside Ozzie Guven, ALISHA and East End Dubs. Next up: Halcyon, Sanfrancisco on Sat 12 Sept.
+DXNBY is a house and tech house artist tracked on soundcheck, with 118 sets logged across Amsterdam, Barcelona, Birmingham and Brighton and 23 more. Often billed alongside Ozzie Guven, ALISHA and East End Dubs. Next up: Club Vinyl, Denver on Fri 18 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 12 Sept 2026 | Halcyon | San Francisco/Oakland |
 | Fri, 18 Sept 2026 | Club Vinyl | Denver |
 | Sat, 19 Sept 2026 | Smoke & Mirrors | Chicago |
 | Wed, 23 Sept 2026 | [UNVRS] | Ibiza |
@@ -21,6 +20,7 @@ DXNBY is a house and tech house artist tracked on soundcheck, with 118 sets logg
 
 ## Recently played
 
+- Halcyon, San Francisco/Oakland — Sat, 12 Sept 2026
 - Floyd, Miami — Fri, 4 Sept 2026
 - Cova Santa, Ibiza — Tue, 4 Aug 2026
 - [UNVRS], Ibiza — Wed, 1 Jul 2026
@@ -28,10 +28,9 @@ DXNBY is a house and tech house artist tracked on soundcheck, with 118 sets logg
 - Ku Barcelona, Barcelona — Sat, 20 Jun 2026
 - Hotel Sofitel Skipper Barcelona, Barcelona — Sat, 20 Jun 2026
 - TBA - Multiple Venues, Malta — Thu, 18 Jun 2026
-- Hï Ibiza, Ibiza — Tue, 16 Jun 2026
 
 ## Shares bills with
 
 Ozzie Guven, ALISHA, East End Dubs
 
-*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dxnby/)*
+*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dxnby/)*

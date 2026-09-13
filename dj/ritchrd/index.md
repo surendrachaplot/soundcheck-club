@@ -1,14 +1,13 @@
 # RITCHRD
 
-RITCHRD is a Club and Techno artist with 4 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Rotterdam Centre, Rotterdam on Fri, 11 Sept 2026.
+RITCHRD is a Club and Techno artist with 3 upcoming club dates listed on soundcheck as of Sun, 13 Sept 2026, next at Le Zeralda, Paris on Sun, 13 Sept 2026.
 
-RITCHRD is a club and techno artist tracked on soundcheck, with 112 sets logged across Denver, London, Newyorkcity and Paris and 3 more. Often billed alongside Discnogirl, Bored Lord and Tom Marsi. Next up: Rotterdam Centre, Rotterdam on Fri 11 Sept.
+RITCHRD is a club and techno artist tracked on soundcheck, with 112 sets logged across Denver, London, Newyorkcity and Paris and 3 more. Often billed alongside Discnogirl, Bored Lord and Tom Marsi. Next up: Le Zeralda, Paris on Sun 13 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 11 Sept 2026 | Rotterdam Centre | Rotterdam |
 | Sun, 13 Sept 2026 | Le Zeralda | Paris |
 | Fri, 2 Oct 2026 | F8 1192 Folsom | San Francisco/Oakland |
 | Fri, 23 Oct 2026 | F8 1192 Folsom | San Francisco/Oakland |
@@ -28,4 +27,4 @@ RITCHRD is a club and techno artist tracked on soundcheck, with 112 sets logged 
 
 Discnogirl, Bored Lord, Tom Marsi
 
-*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ritchrd/)*
+*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ritchrd/)*

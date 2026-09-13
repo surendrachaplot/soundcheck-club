@@ -1,6 +1,6 @@
 # Kuriosa
 
-Kuriosa is a Disco and House artist with 1 upcoming club date listed on soundcheck as of Sat, 12 Sept 2026, next at BIRD, Rotterdam on Fri, 25 Sept 2026.
+Kuriosa is a Disco and House artist with 1 upcoming club date listed on soundcheck as of Sun, 13 Sept 2026, next at BIRD, Rotterdam on Fri, 25 Sept 2026.
 
 Kuriosa is a disco and house artist tracked on soundcheck, with 23 sets logged across Rotterdam, Thehague, Tokyo and Utrecht. Often billed alongside Ays (NL), Ajuma and Antal. Next up: BIRD, Rotterdam on Fri 25 Sept.
 
@@ -25,4 +25,4 @@ Kuriosa is a disco and house artist tracked on soundcheck, with 23 sets logged a
 
 Ays (NL), Ajuma, Antal
 
-*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kuriosa/)*
+*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kuriosa/)*

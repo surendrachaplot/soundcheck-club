@@ -1,6 +1,6 @@
 # SUFI
 
-SUFI is a Garage and House artist with 2 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at The Crown, Bristol on Sat, 19 Sept 2026.
+SUFI is a Garage and House artist with 2 upcoming club dates listed on soundcheck as of Sun, 13 Sept 2026, next at The Crown, Bristol on Sat, 19 Sept 2026.
 
 SUFI is a garage and house artist tracked on soundcheck, with 23 sets logged across Berlin, Bristol, Cardiff and Liverpool and 4 more. Often billed alongside Deselecta, Hayliegh and IN PARALLEL. Next up: The Crown, Bristol on Sat 19 Sept.
 
@@ -26,4 +26,4 @@ SUFI is a garage and house artist tracked on soundcheck, with 23 sets logged acr
 
 Deselecta, Hayliegh, IN PARALLEL
 
-*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sufi/)*
+*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sufi/)*

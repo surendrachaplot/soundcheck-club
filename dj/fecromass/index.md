@@ -1,8 +1,8 @@
 # FECROMASS
 
-FECROMASS is a Techno and Industrial artist with 2 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Volnost, Seoul on Fri, 25 Sept 2026.
+FECROMASS is a Techno and Industrial artist with 3 upcoming club dates listed on soundcheck as of Sun, 13 Sept 2026, next at Volnost, Seoul on Fri, 25 Sept 2026.
 
-FECROMASS is a techno and industrial artist tracked on soundcheck, with 37 sets logged across Hongkong, Seoul and Tokyo. Often billed alongside Golpe Mortal, nAo12xu and Mars89. Next up: Volnost, Seoul on Fri 25 Sept.
+FECROMASS is a techno and industrial artist tracked on soundcheck, with 38 sets logged across Hongkong, Seoul and Tokyo. Often billed alongside Golpe Mortal, nAo12xu and Mars89. Next up: Volnost, Seoul on Fri 25 Sept.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ FECROMASS is a techno and industrial artist tracked on soundcheck, with 37 sets 
 | --- | --- | --- |
 | Fri, 25 Sept 2026 | Volnost | Seoul |
 | Sat, 3 Oct 2026 | Traffic | Tokyo |
+| Sun, 4 Oct 2026 | Chitei 地底 | Tokyo |
 
 ## Recently played
 
@@ -26,4 +27,4 @@ FECROMASS is a techno and industrial artist tracked on soundcheck, with 37 sets 
 
 Golpe Mortal, nAo12xu, Mars89
 
-*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/fecromass/)*
+*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/fecromass/)*

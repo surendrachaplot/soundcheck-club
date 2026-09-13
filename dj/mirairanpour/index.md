@@ -1,14 +1,13 @@
 # Mira Iranpour
 
-Mira Iranpour is a Trance and Techno artist with 5 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Slakthuset, Stockholm on Fri, 11 Sept 2026.
+Mira Iranpour is a Trance and Techno artist with 4 upcoming club dates listed on soundcheck as of Sun, 13 Sept 2026, next at House of Q, Stockholm on Sat, 26 Sept 2026.
 
-Mira Iranpour is a trance and techno artist based in Iran, tracked on soundcheck, with 7 sets logged across Berlin and Stockholm. Often billed alongside Marcus Christiansen. Next up: Slakthuset, Stockholm on Fri 11 Sept.
+Mira Iranpour is a trance and techno artist based in Iran, tracked on soundcheck, with 7 sets logged across Berlin and Stockholm. Often billed alongside Marcus Christiansen. Next up: House of Q, Stockholm on Sat 26 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 11 Sept 2026 | Slakthuset | Stockholm |
 | Sat, 26 Sept 2026 | House of Q | Stockholm |
 | Sat, 3 Oct 2026 | Komplex Berlin | Berlin |
 | Sat, 10 Oct 2026 | Slakthuset | Stockholm |
@@ -24,4 +23,4 @@ Mira Iranpour is a trance and techno artist based in Iran, tracked on soundcheck
 
 Marcus Christiansen
 
-*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mirairanpour/)*
+*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mirairanpour/)*

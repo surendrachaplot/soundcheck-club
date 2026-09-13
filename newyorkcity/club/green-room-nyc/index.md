@@ -1,14 +1,13 @@
 # Green Room NYC
 
-Green Room NYC is a music venue in New York City with 9 upcoming nights listed on soundcheck as of Sat, 12 Sept 2026; the next is "Golden Record NYC x trommel present PLO Man, Dan Andrei" on Sat, 12 Sept 2026.
+Green Room NYC is a music venue in New York City with 8 upcoming nights listed on soundcheck as of Sun, 13 Sept 2026; the next is "Love from the Sun: Deon Jamar, Specter, JADALAREIGN" on Sun, 13 Sept 2026.
 
-Green Room NYC is a music venue in Newyorkcity listed on soundcheck. 9 upcoming nights, with line-ups including ABEILLE, Andrés Dyer, Armii1n and Auphoria and 2 more. Browse upcoming dates, start times and who's playing. 195 Morgan Ave, Brooklyn, NY 11237.
+Green Room NYC is a music venue in Newyorkcity listed on soundcheck. 8 upcoming nights, with line-ups including ABEILLE, Armii1n, Auphoria and Bruno Schmidt and 2 more. Browse upcoming dates, start times and who's playing. 195 Morgan Ave, Brooklyn, NY 11237.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 12 Sept 2026 | Golden Record NYC x trommel present PLO Man, Dan Andrei | Andrés Dyer, Dan Andrei, Dana Ruh, Emsho, Jamie Jones, MaNu (UK), PLO Man |
 | Sun, 13 Sept 2026 | Love from the Sun: Deon Jamar, Specter, JADALAREIGN | Deon Jamar, JADALAREIGN, Specter |
 | Fri, 18 Sept 2026 | Golden Record NYC x pregame presents Malika, Liquid Earth | Armii1n, DLR, Daizy, LIMBIC, Liquid Earth, Malika, Max Web, limbic sis |
 | Sun, 20 Sept 2026 | This is the Way x Golden Record NYC x Nomads Sunday Surprise Cookout | Gui Machado, Momo Trosman, Zayd Turk |
@@ -22,4 +21,4 @@ Green Room NYC is a music venue in Newyorkcity listed on soundcheck. 9 upcoming 
 
 195 Morgan Ave, Brooklyn, NY 11237, New York City
 
-*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/green-room-nyc/)*
+*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/green-room-nyc/)*

@@ -1,19 +1,17 @@
 # Spice Cellar
 
-Spice Cellar is a music venue in Sydney with 3 upcoming nights listed on soundcheck as of Sat, 12 Sept 2026; the next is "Cellar Sydney Reboot" on Sat, 12 Sept 2026.
+Spice Cellar is a music venue in Sydney with 1 upcoming night listed on soundcheck as of Sun, 13 Sept 2026; the next is "Spice x Refuge pres. Charles Eddy" on Sat, 26 Sept 2026.
 
-Spice Cellar is a music venue in Sydney listed on soundcheck. 3 upcoming nights, with line-ups including Cassette, CHARLES-EDDY, Murat Kilic and Said Dami. Browse upcoming dates, start times and who's playing. Basement level, 58 Elizabeth St; Sydney, NSW 2000; Australia.
+Spice Cellar is a music venue in Sydney listed on soundcheck. 1 upcoming night, with line-ups including CHARLES-EDDY, Murat Kilic and Said Dami. Browse upcoming dates, start times and who's playing. Basement level, 58 Elizabeth St; Sydney, NSW 2000; Australia.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 12 Sept 2026 | Cellar Sydney Reboot |  |
-| Sat, 12 Sept 2026 | Spice Cellar Reboot - Opening Fiesta | Cassette |
 | Sat, 26 Sept 2026 | Spice x Refuge pres. Charles Eddy | CHARLES-EDDY, Murat Kilic, Said Dami |
 
 ## Address
 
 Basement level, 58 Elizabeth St; Sydney, NSW 2000; Australia, Sydney
 
-*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/sydney/club/spice-cellar/)*
+*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/sydney/club/spice-cellar/)*

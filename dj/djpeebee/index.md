@@ -1,18 +1,18 @@
 # DJ Pee Bee
 
-DJ Pee Bee is a Experimental and Electronica artist with 2 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Favorit Bar, Munich on Sat, 12 Sept 2026.
+DJ Pee Bee is a Experimental and Electronica artist with 1 upcoming club date listed on soundcheck as of Sun, 13 Sept 2026, next at Holy Home, Munich on Fri, 18 Sept 2026.
 
-DJ Pee Bee is an experimental and electronica artist tracked on soundcheck, with 9 sets logged across Munich. Often billed alongside Leyla (3), Elias and Kiawash. Next up: Favorit Bar, Munich on Sat 12 Sept.
+DJ Pee Bee is an experimental and electronica artist tracked on soundcheck, with 9 sets logged across Munich. Often billed alongside Leyla (3), Elias and Kiawash. Next up: Holy Home, Munich on Fri 18 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 12 Sept 2026 | Favorit Bar | Munich |
 | Fri, 18 Sept 2026 | Holy Home | Munich |
 
 ## Recently played
 
+- Favorit Bar, Munich — Sat, 12 Sept 2026
 - Charlie, Munich — Sat, 7 Feb 2026
 - Sauna Club, Munich — Thu, 18 Dec 2025
 - Favorit Bar, Munich — Sat, 29 Nov 2025
@@ -25,4 +25,4 @@ DJ Pee Bee is an experimental and electronica artist tracked on soundcheck, with
 
 Leyla (3), Elias, Kiawash
 
-*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djpeebee/)*
+*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djpeebee/)*

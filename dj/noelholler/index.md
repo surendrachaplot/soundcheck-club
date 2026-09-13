@@ -1,19 +1,19 @@
 # Noel Holler
 
-Noel Holler is a House and Electronica artist with 3 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Spindler & Klatt, Berlin on Sat, 12 Sept 2026.
+Noel Holler is a House and Electronica artist with 2 upcoming club dates listed on soundcheck as of Sun, 13 Sept 2026, next at Eden, Ibiza on Mon, 14 Sept 2026.
 
-Noel Holler is a house and electronica artist based in Germany, tracked on soundcheck, with 34 sets logged across Amsterdam, Berlin, Cologne and Dusseldorf and 7 more. Often billed alongside Alle Farben, BOVSKI and Coone. Next up: Spindler & Klatt, Berlin on Sat 12 Sept.
+Noel Holler is a house and electronica artist based in Germany, tracked on soundcheck, with 34 sets logged across Amsterdam, Berlin, Cologne and Dusseldorf and 7 more. Often billed alongside Alle Farben, BOVSKI and Coone. Next up: Eden, Ibiza on Mon 14 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 12 Sept 2026 | Spindler & Klatt | Berlin |
 | Mon, 14 Sept 2026 | Eden | Ibiza |
 | Sat, 26 Sept 2026 | Pacha Ibiza | Ibiza |
 
 ## Recently played
 
+- Spindler & Klatt, Berlin — Sat, 12 Sept 2026
 - Eden, Ibiza — Mon, 7 Sept 2026
 - Eden, Ibiza — Mon, 31 Aug 2026
 - Eden, Ibiza — Mon, 24 Aug 2026
@@ -21,10 +21,9 @@ Noel Holler is a house and electronica artist based in Germany, tracked on sound
 - Eden, Ibiza — Mon, 17 Aug 2026
 - Eden, Ibiza — Mon, 10 Aug 2026
 - Electrisize, Düsseldorf — Fri, 7 Aug 2026
-- Eden, Ibiza — Mon, 3 Aug 2026
 
 ## Shares bills with
 
 Alle Farben, BOVSKI, Coone
 
-*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/noelholler/)*
+*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/noelholler/)*

@@ -1,6 +1,6 @@
 # SHADEV
 
-SHADEV is a Garage and House artist with 5 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Hidden, Manchester on Thu, 17 Sept 2026.
+SHADEV is a Garage and House artist with 5 upcoming club dates listed on soundcheck as of Sun, 13 Sept 2026, next at Hidden, Manchester on Thu, 17 Sept 2026.
 
 SHADEV is a garage and house artist based in United Kingdom, tracked on soundcheck, with 69 sets logged across Amsterdam, Bristol, Leeds and Liverpool and 3 more. Often billed alongside Rich Reason, T-Man (UK) and Girls Don't Sync. Next up: Hidden, Manchester on Thu 17 Sept.
 
@@ -29,4 +29,4 @@ SHADEV is a garage and house artist based in United Kingdom, tracked on soundche
 
 Rich Reason, T-Man (UK), Girls Don't Sync
 
-*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/shadev/)*
+*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/shadev/)*

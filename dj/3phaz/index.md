@@ -1,6 +1,6 @@
 # 3Phaz
 
-3Phaz is a Experimental and Electronica artist with 1 upcoming club date listed on soundcheck as of Sat, 12 Sept 2026, next at Société des arts technologiques, Montreal on Fri, 9 Oct 2026.
+3Phaz is a Experimental and Electronica artist with 1 upcoming club date listed on soundcheck as of Sun, 13 Sept 2026, next at Société des arts technologiques, Montreal on Fri, 9 Oct 2026.
 
 3Phaz is an experimental and electronica artist based in Egypt, tracked on soundcheck, with 25 sets logged across Amsterdam, Athens, Barcelona and Berlin and 17 more. Often billed alongside ojoo, Liliane Chlela and Rama (2). Next up: Société des arts technologiques, Montreal on Fri 9 Oct.
 
@@ -25,4 +25,4 @@
 
 ojoo, Liliane Chlela, Rama (2)
 
-*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/3phaz/)*
+*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/3phaz/)*

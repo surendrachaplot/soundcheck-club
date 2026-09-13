@@ -1,14 +1,13 @@
 # Dina Summer
 
-Dina Summer is a New Wave and Post-Punk artist with 2 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Zuiderpark, Rotterdam on Fri, 11 Sept 2026.
+Dina Summer is a New Wave and Post-Punk artist with 1 upcoming club date listed on soundcheck as of Sun, 13 Sept 2026, next at Colours Hoxton, London on Sat, 31 Oct 2026.
 
-Dina Summer is a new wave and post-punk artist tracked on soundcheck, with 15 sets logged across Berlin, Frankfurt, Leipzig and London and 4 more. Often billed alongside Local Suicide, Kalipo and Skelesys. Next up: Zuiderpark, Rotterdam on Fri 11 Sept.
+Dina Summer is a new wave and post-punk artist tracked on soundcheck, with 15 sets logged across Berlin, Frankfurt, Leipzig and London and 4 more. Often billed alongside Local Suicide, Kalipo and Skelesys. Next up: Colours Hoxton, London on Sat 31 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 11 Sept 2026 | Zuiderpark | Rotterdam |
 | Sat, 31 Oct 2026 | Colours Hoxton | London |
 
 ## Recently played
@@ -26,4 +25,4 @@ Dina Summer is a new wave and post-punk artist tracked on soundcheck, with 15 se
 
 Local Suicide, Kalipo, Skelesys
 
-*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dinasummer/)*
+*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dinasummer/)*

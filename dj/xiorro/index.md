@@ -1,6 +1,6 @@
 # Xiorro
 
-Xiorro is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Tresor / Globus, Berlin on Mon, 14 Sept 2026.
+Xiorro is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Sun, 13 Sept 2026, next at Tresor / Globus, Berlin on Mon, 14 Sept 2026.
 
 Xiorro is a techno and house artist tracked on soundcheck, with 79 sets logged across Amsterdam, Bangkok, Berlin and Boston and 23 more. Often billed alongside Laure Croft, Parallx and Faster Horses. Next up: Tresor / Globus, Berlin on Mon 14 Sept.
 
@@ -28,4 +28,4 @@ Xiorro is a techno and house artist tracked on soundcheck, with 79 sets logged a
 
 Laure Croft, Parallx, Faster Horses
 
-*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/xiorro/)*
+*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/xiorro/)*

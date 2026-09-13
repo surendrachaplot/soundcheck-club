@@ -1,6 +1,6 @@
 # Steve Rachmad
 
-Steve Rachmad is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Barragem da Queimadela, Porto on Thu, 10 Sept 2026.
+Steve Rachmad is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Sun, 13 Sept 2026, next at Barragem da Queimadela, Porto on Thu, 10 Sept 2026.
 
 Steve Rachmad is a techno and house artist based in Netherlands, tracked on soundcheck, with 51 sets logged across Amsterdam, Antwerp, Barcelona and Belfast and 16 more. Often billed alongside STERAC, Fadi Mohem and Richard Akingbehin. Next up: Barragem da Queimadela, Porto on Thu 10 Sept.
 
@@ -9,13 +9,13 @@ Steve Rachmad is a techno and house artist based in Netherlands, tracked on soun
 | Date | Venue | City |
 | --- | --- | --- |
 | Thu, 10 Sept 2026 | Barragem da Queimadela | Porto |
-| Sat, 12 Sept 2026 | KALT | Strasbourg |
 | Sat, 19 Sept 2026 | PIP Den Haag | The Hague |
 | Fri, 23 Oct 2026 | De Thomaskerk | Amsterdam |
 | Sat, 14 Nov 2026 | Fuse | Brussels |
 
 ## Recently played
 
+- KALT, Strasbourg — Sat, 12 Sept 2026
 - Barragem da Queimadela, Porto — Thu, 10 Sept 2026
 - Paal69, Amsterdam — Sat, 5 Sept 2026
 - Berghain | Panorama Bar | Säule, Berlin — Fri, 7 Aug 2026
@@ -23,10 +23,9 @@ Steve Rachmad is a techno and house artist based in Netherlands, tracked on soun
 - Radio Radio, Amsterdam — Fri, 5 Jun 2026
 - Lasociaciøn, Madrid — Sat, 30 May 2026
 - Corsica Studios, London — Sat, 21 Feb 2026
-- Frame, Dublin — Fri, 13 Feb 2026
 
 ## Shares bills with
 
 STERAC, Fadi Mohem, Richard Akingbehin
 
-*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/steverachmad/)*
+*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/steverachmad/)*

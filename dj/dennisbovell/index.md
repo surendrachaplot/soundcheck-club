@@ -1,6 +1,6 @@
 # Dennis Bovell
 
-Dennis Bovell is a Dub and Bass artist with 2 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at TBA - Markfield Road N15 - outdoors, London on Fri, 11 Sept 2026.
+Dennis Bovell is a Dub and Bass artist with 2 upcoming club dates listed on soundcheck as of Sun, 13 Sept 2026, next at TBA - Markfield Road N15 - outdoors, London on Fri, 11 Sept 2026.
 
 Dennis Bovell is a dub and bass artist tracked on soundcheck, with 23 sets logged across Barcelona, Berlin, London and Manchester and 3 more. Often billed alongside Tash LC, Alex Kassian and Elijah Minnelli. Next up: TBA - Markfield Road N15 - outdoors, London on Fri 11 Sept.
 
@@ -26,4 +26,4 @@ Dennis Bovell is a dub and bass artist tracked on soundcheck, with 23 sets logge
 
 Tash LC, Alex Kassian, Elijah Minnelli
 
-*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dennisbovell/)*
+*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dennisbovell/)*

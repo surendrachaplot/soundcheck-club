@@ -1,6 +1,6 @@
 # MCMLXXXV
 
-MCMLXXXV is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Massive, Seattle on Fri, 18 Sept 2026.
+MCMLXXXV is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Sun, 13 Sept 2026, next at Massive, Seattle on Fri, 18 Sept 2026.
 
 MCMLXXXV is a techno and house artist based in Germany, tracked on soundcheck, with 170 sets logged across Amsterdam, Antwerp, Austin and Barcelona and 47 more. Often billed alongside CEM, Dj Saliva and JASSS. Next up: Massive, Seattle on Fri 18 Sept.
 
@@ -27,4 +27,4 @@ MCMLXXXV is a techno and house artist based in Germany, tracked on soundcheck, w
 
 CEM, Dj Saliva, JASSS
 
-*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mcmlxxxv/)*
+*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mcmlxxxv/)*

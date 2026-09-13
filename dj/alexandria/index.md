@@ -1,6 +1,6 @@
 # Alexandria
 
-Alexandria is a House and Tech House artist with 7 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Thuishaven, Amsterdam on Sun, 20 Sept 2026.
+Alexandria is a House and Tech House artist with 7 upcoming club dates listed on soundcheck as of Sun, 13 Sept 2026, next at Thuishaven, Amsterdam on Sun, 20 Sept 2026.
 
 Alexandria is a house and tech house artist tracked on soundcheck, with 61 sets logged across Amsterdam, Barcelona, Birmingham and Bristol and 10 more. Often billed alongside Josh Baker, Marsolo and L.P. Rhythm. Next up: Thuishaven, Amsterdam on Sun 20 Sept.
 
@@ -31,4 +31,4 @@ Alexandria is a house and tech house artist tracked on soundcheck, with 61 sets 
 
 Josh Baker, Marsolo, L.P. Rhythm
 
-*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/alexandria/)*
+*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/alexandria/)*

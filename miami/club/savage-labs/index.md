@@ -1,18 +1,17 @@
 # Savage Labs
 
-Savage Labs is a music venue in Miami with 2 upcoming nights listed on soundcheck as of Sat, 12 Sept 2026; the next is "Around The Corner" on Sat, 12 Sept 2026.
+Savage Labs is a music venue in Miami with 1 upcoming night listed on soundcheck as of Sun, 13 Sept 2026; the next is "Around The Corner" on Fri, 2 Oct 2026.
 
-Savage Labs is a music venue in Miami listed on soundcheck. 2 upcoming nights, with line-ups including 3AM. Browse upcoming dates, start times and who's playing. 2451 NW 5th Aveune,  Wynwood, Fl. 33127, USA.
+Savage Labs is a music venue in Miami listed on soundcheck. 1 upcoming night, with line-ups including 3AM. Browse upcoming dates, start times and who's playing. 2451 NW 5th Aveune,  Wynwood, Fl. 33127, USA.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 12 Sept 2026 | Around The Corner | 3AM |
 | Fri, 2 Oct 2026 | Around The Corner | 3AM |
 
 ## Address
 
 2451 NW 5th Aveune,  Wynwood, Fl. 33127, USA, Miami
 
-*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/miami/club/savage-labs/)*
+*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/miami/club/savage-labs/)*

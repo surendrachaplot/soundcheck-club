@@ -1,14 +1,13 @@
 # DeTour
 
-DeTour is a music venue in Tokyo with 11 upcoming nights listed on soundcheck as of Sat, 12 Sept 2026; the next is "DT HOUSE SESSION" on Sat, 12 Sept 2026.
+DeTour is a music venue in Tokyo with 10 upcoming nights listed on soundcheck as of Sun, 13 Sept 2026; the next is "Frequency" on Sun, 13 Sept 2026.
 
-DeTour is a music venue in Tokyo listed on soundcheck. 11 upcoming nights, with line-ups including ALLY, BEPPU, Calavera and CATRONICA and 2 more. Browse upcoming dates, start times and who's playing. B1 8-8 Uguisudani-Chu, Shibuya-Ku, Tokyo, 150-0032.
+DeTour is a music venue in Tokyo listed on soundcheck. 10 upcoming nights, with line-ups including ALLY, BEPPU, Calavera and CATRONICA and 2 more. Browse upcoming dates, start times and who's playing. B1 8-8 Uguisudani-Chu, Shibuya-Ku, Tokyo, 150-0032.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 12 Sept 2026 | DT HOUSE SESSION | BEPPU |
 | Sun, 13 Sept 2026 | Frequency | BEPPU, KENJI FURUYA, Kamaida |
 | Tue, 15 Sept 2026 | UNKNOWN | MOTOKA, SEIichiro Mitsuma |
 | Wed, 16 Sept 2026 | club .2 - Midweek Groove | Calavera |
@@ -18,9 +17,10 @@ DeTour is a music venue in Tokyo listed on soundcheck. 11 upcoming nights, with 
 | Sun, 20 Sept 2026 | Psy-Modulation | CATRONICA, Junya |
 | Mon, 21 Sept 2026 | Psychedelic DT | BEPPU, CATRONICA, kgee |
 | Tue, 22 Sept 2026 | 電子涅槃-Digital Nirvana- |  |
+| Wed, 23 Sept 2026 | meaningful | BEPPU, Kotatsu |
 
 ## Address
 
 B1 8-8 Uguisudani-Chu, Shibuya-Ku, Tokyo, 150-0032, Tokyo
 
-*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/detour/)*
+*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/detour/)*

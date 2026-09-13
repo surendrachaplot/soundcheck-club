@@ -1,6 +1,6 @@
 # Jaaw
 
-Jaaw is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Sat, 12 Sept 2026, next at Departamento, Mexico City on Wed, 9 Sept 2026.
+Jaaw is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Sun, 13 Sept 2026, next at Departamento, Mexico City on Wed, 9 Sept 2026.
 
 Jaaw is a house and deep house artist tracked on soundcheck, with 35 sets logged across Mexicocity. Often billed alongside Duke Skylocker (Disco Dust), Future Feelings and Miss Voltaghe. Next up: Departamento, Mexicocity on Wed 9 Sept.
 
@@ -25,4 +25,4 @@ Jaaw is a house and deep house artist tracked on soundcheck, with 35 sets logged
 
 Duke Skylocker (Disco Dust), Future Feelings, Miss Voltaghe
 
-*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jaaw/)*
+*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jaaw/)*

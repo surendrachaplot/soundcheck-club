@@ -1,6 +1,6 @@
 # Dj Henny
 
-Dj Henny is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 12 Sept 2026, next at Paral•lel 62, Barcelona on Fri, 18 Sept 2026.
+Dj Henny is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 13 Sept 2026, next at Paral•lel 62, Barcelona on Fri, 18 Sept 2026.
 
 Dj Henny is a house and techno artist tracked on soundcheck, with 12 sets logged across Bangkok, Barcelona and Mallorca. Often billed alongside amïro, pav. and Markel.. Next up: Paral•lel 62, Barcelona on Fri 18 Sept.
 
@@ -25,4 +25,4 @@ Dj Henny is a house and techno artist tracked on soundcheck, with 12 sets logged
 
 amïro, pav., Markel.
 
-*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djhenny/)*
+*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djhenny/)*

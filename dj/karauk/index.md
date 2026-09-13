@@ -1,14 +1,13 @@
 # Kara (UK)
 
-Kara (UK) is a Drum & Bass and Jungle artist with 5 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Thuishaven, Amsterdam on Sat, 12 Sept 2026.
+Kara (UK) is a Drum & Bass and Jungle artist with 4 upcoming club dates listed on soundcheck as of Sun, 13 Sept 2026, next at The Clock Factory, Bristol on Fri, 18 Sept 2026.
 
-Kara (UK) is a drum & bass and jungle artist tracked on soundcheck, with 64 sets logged across Amsterdam, Bangkok, Birmingham and Brighton and 22 more. Often billed alongside Dillinja, IC3 and K Motionz. Next up: Thuishaven, Amsterdam on Sat 12 Sept.
+Kara (UK) is a drum & bass and jungle artist tracked on soundcheck, with 64 sets logged across Amsterdam, Bangkok, Birmingham and Brighton and 22 more. Often billed alongside Dillinja, IC3 and K Motionz. Next up: The Clock Factory, Bristol on Fri 18 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 12 Sept 2026 | Thuishaven | Amsterdam |
 | Fri, 18 Sept 2026 | The Clock Factory | Bristol |
 | Thu, 24 Sept 2026 | Planet Wax | London |
 | Sat, 10 Oct 2026 | Turbinenhalle | Oberhausen |
@@ -16,6 +15,7 @@ Kara (UK) is a drum & bass and jungle artist tracked on soundcheck, with 64 sets
 
 ## Recently played
 
+- Thuishaven, Amsterdam — Sat, 12 Sept 2026
 - Eutopia Whs, London — Sat, 5 Sept 2026
 - UNO MALTA, Malta — Thu, 3 Sept 2026
 - Melkweg, Amsterdam — Mon, 29 Jun 2026
@@ -23,10 +23,9 @@ Kara (UK) is a drum & bass and jungle artist tracked on soundcheck, with 64 sets
 - The Full Moon Pub & Attic Bar, Bristol — Sat, 20 Jun 2026
 - Studio Z, San Francisco/Oakland — Sat, 30 May 2026
 - Planet Wax, London — Thu, 28 May 2026
-- Volks, Brighton — Sat, 25 Apr 2026
 
 ## Shares bills with
 
 Dillinja, IC3, K Motionz
 
-*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/karauk/)*
+*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/karauk/)*

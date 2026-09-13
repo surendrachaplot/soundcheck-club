@@ -1,6 +1,6 @@
 # Björk
 
-Björk is a Electronica and Tech House artist with 1 upcoming club date listed on soundcheck as of Sat, 12 Sept 2026, next at Auditorium Parco della Musica, Rome on Sat, 12 Sept 2026.
+Björk is a Electronica and Tech House artist with 1 upcoming club date listed on soundcheck as of Sun, 13 Sept 2026, next at Auditorium Parco della Musica, Rome on Sat, 12 Sept 2026.
 
 Björk is an electronica and tech house artist based in Iceland, tracked on soundcheck, with 6 sets logged across Berlin, London, Milan and Newyorkcity and 2 more. Often billed alongside Aline Umber, Arca and BLUR. Next up: Auditorium Parco della Musica, Rome on Sat 12 Sept.
 
@@ -12,6 +12,7 @@ Björk is an electronica and tech house artist based in Iceland, tracked on soun
 
 ## Recently played
 
+- Auditorium Parco della Musica, Rome — Sat, 12 Sept 2026
 - Paper Dress Vintage, London — Fri, 7 Feb 2025
 - So36, Berlin — Sun, 15 Dec 2024
 - Under the K Bridge, New York City — Fri, 10 May 2024
@@ -22,4 +23,4 @@ Björk is an electronica and tech house artist based in Iceland, tracked on soun
 
 Aline Umber, Arca, BLUR
 
-*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bjork/)*
+*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bjork/)*

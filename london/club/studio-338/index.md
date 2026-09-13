@@ -1,14 +1,13 @@
 # Studio 338
 
-Studio 338 is a music venue in London with 10 upcoming nights listed on soundcheck as of Sat, 12 Sept 2026; the next is "DanceOnArrival: Summer Closing Festival W/ Disciples, Tre Reynolds, Jamie Fielding + MORE" on Sat, 12 Sept 2026.
+Studio 338 is a music venue in London with 9 upcoming nights listed on soundcheck as of Sun, 13 Sept 2026; the next is "Summer Garden Party / Part 2" on Sun, 13 Sept 2026.
 
-Studio 338 is a music venue in London listed on soundcheck. 10 upcoming nights, with line-ups including Alex P, Anil Aras, ASHOJU and Billy Daniel Bunter and 2 more. Browse upcoming dates, start times and who's playing. 338 Boord Street; Greenwich; London SE10 0PF; United Kingdom.
+Studio 338 is a music venue in London listed on soundcheck. 9 upcoming nights, with line-ups including Alex P, ASHOJU, Billy Daniel Bunter and Bontan and 2 more. Browse upcoming dates, start times and who's playing. 338 Boord Street; Greenwich; London SE10 0PF; United Kingdom.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 12 Sept 2026 | DanceOnArrival: Summer Closing Festival W/ Disciples, Tre Reynolds, Jamie Fielding + MORE | Anil Aras, Boss Priester, Disciples, Hidde van Wee, Jamie Fielding, Smokey Bubblin' B, Tre Reynolds |
 | Sun, 13 Sept 2026 | Summer Garden Party / Part 2 | DJ IC, Supa D, Tippa |
 | Sun, 20 Sept 2026 | THE OFFICIAL LONDON FRESHERS MOVING IN PARTY - LONDON FRESHERS WEEK 2026 |  |
 | Fri, 25 Sept 2026 | THE PROJECT X HOUSE PARTY |  |
@@ -23,4 +22,4 @@ Studio 338 is a music venue in London listed on soundcheck. 10 upcoming nights, 
 
 338 Boord Street; Greenwich; London SE10 0PF; United Kingdom, London
 
-*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/studio-338/)*
+*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/studio-338/)*

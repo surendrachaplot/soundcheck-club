@@ -1,6 +1,6 @@
 # Aron Friedman
 
-Aron Friedman is a Tech House and Techno artist with 4 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Kater, Berlin on Fri, 11 Sept 2026.
+Aron Friedman is a Tech House and Techno artist with 4 upcoming club dates listed on soundcheck as of Sun, 13 Sept 2026, next at Kater, Berlin on Fri, 11 Sept 2026.
 
 Aron Friedman is a tech house and techno artist based in Netherlands, tracked on soundcheck, with 26 sets logged across Amsterdam and Berlin. Often billed alongside Galen, Amandla and Boj Tieman. Next up: Kater, Berlin on Fri 11 Sept.
 
@@ -28,4 +28,4 @@ Aron Friedman is a tech house and techno artist based in Netherlands, tracked on
 
 Galen, Amandla, Boj Tieman
 
-*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/aronfriedman/)*
+*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/aronfriedman/)*

@@ -1,14 +1,13 @@
 # Sala Siroco
 
-Sala Siroco is a music venue in Madrid with 10 upcoming nights listed on soundcheck as of Sat, 12 Sept 2026; the next is "From Disco to Disco: PUSSY POWER EDITION" on Sat, 12 Sept 2026.
+Sala Siroco is a music venue in Madrid with 9 upcoming nights listed on soundcheck as of Sun, 13 Sept 2026; the next is "ABYSS Techno Club" on Sun, 13 Sept 2026.
 
-Sala Siroco is a music venue in Madrid listed on soundcheck. 10 upcoming nights, with line-ups including ADRI.G, Betamax_, Buraye and Chris Gorrie and 2 more. Browse upcoming dates, start times and who's playing. Calle San Dimas, 3, 28015 Madrid, Spain.
+Sala Siroco is a music venue in Madrid listed on soundcheck. 9 upcoming nights, with line-ups including ADRI.G, Betamax_, Buraye and Chris Gorrie and 2 more. Browse upcoming dates, start times and who's playing. Calle San Dimas, 3, 28015 Madrid, Spain.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 12 Sept 2026 | From Disco to Disco: PUSSY POWER EDITION |  |
 | Sun, 13 Sept 2026 | ABYSS Techno Club | G4G0 |
 | Sun, 13 Sept 2026 | The Fan Club | ADRI.G, Themine |
 | Fri, 2 Oct 2026 | Quinoa Experience: Buraye (Live), Betamax, Chris Gorrie | Betamax_, Buraye, Chris Gorrie |
@@ -23,4 +22,4 @@ Sala Siroco is a music venue in Madrid listed on soundcheck. 10 upcoming nights,
 
 Calle San Dimas, 3, 28015 Madrid, Spain, Madrid
 
-*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/sala-siroco/)*
+*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/sala-siroco/)*

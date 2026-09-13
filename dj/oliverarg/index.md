@@ -1,6 +1,6 @@
 # Olivér (Arg)
 
-Olivér (Arg) is a House and Club artist with 1 upcoming club date listed on soundcheck as of Sat, 12 Sept 2026, next at Jonny Knüppel, Berlin on Sun, 13 Sept 2026.
+Olivér (Arg) is a House and Club artist with 1 upcoming club date listed on soundcheck as of Sun, 13 Sept 2026, next at Jonny Knüppel, Berlin on Sun, 13 Sept 2026.
 
 Olivér (Arg) is a house and club artist tracked on soundcheck, with 15 sets logged across Berlin. Often billed alongside Javier Anxiety, Paoler and Aimé You. Next up: Jonny Knüppel, Berlin on Sun 13 Sept.
 
@@ -25,4 +25,4 @@ Olivér (Arg) is a house and club artist tracked on soundcheck, with 15 sets log
 
 Javier Anxiety, Paoler, Aimé You
 
-*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/oliverarg/)*
+*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/oliverarg/)*

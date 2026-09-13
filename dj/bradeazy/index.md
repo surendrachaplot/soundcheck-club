@@ -1,14 +1,13 @@
 # bradeazy
 
-bradeazy is a Tech House and House artist with 10 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Bauhaus, Houston on Sat, 12 Sept 2026.
+bradeazy is a Tech House and House artist with 9 upcoming club dates listed on soundcheck as of Sun, 13 Sept 2026, next at MAX Watts, Melbourne on Thu, 24 Sept 2026.
 
-bradeazy is a tech house and house artist based in United States of America, tracked on soundcheck, with 34 sets logged across Austin, Barcelona, Boston and Brisbane and 16 more. Often billed alongside Agents Of Time, Eelke Kleijn and Innellea. Next up: Bauhaus, Houston on Sat 12 Sept.
+bradeazy is a tech house and house artist based in United States of America, tracked on soundcheck, with 34 sets logged across Austin, Barcelona, Boston and Brisbane and 16 more. Often billed alongside Agents Of Time, Eelke Kleijn and Innellea. Next up: MAX Watts, Melbourne on Thu 24 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 12 Sept 2026 | Bauhaus | Houston |
 | Thu, 24 Sept 2026 | MAX Watts | Melbourne |
 | Thu, 24 Sept 2026 | Max Watt's | Melbourne |
 | Fri, 25 Sept 2026 | TBA - Newcastle Australia | Newcastle |
@@ -21,6 +20,7 @@ bradeazy is a tech house and house artist based in United States of America, tra
 
 ## Recently played
 
+- Bauhaus, Houston — Sat, 12 Sept 2026
 - Kingdom Nightclub, Austin — Fri, 11 Sept 2026
 - The Midway, San Francisco/Oakland — Sat, 29 Aug 2026
 - Future Nightlife, Toronto — Fri, 14 Aug 2026
@@ -28,10 +28,9 @@ bradeazy is a tech house and house artist based in United States of America, tra
 - Flash, Washington DC — Sat, 1 Aug 2026
 - Grant Park, Chicago — Fri, 31 Jul 2026
 - Edge, New York City — Thu, 16 Jul 2026
-- 45 East, Portland — Sat, 4 Jul 2026
 
 ## Shares bills with
 
 Agents Of Time, Eelke Kleijn, Innellea
 
-*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bradeazy/)*
+*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bradeazy/)*

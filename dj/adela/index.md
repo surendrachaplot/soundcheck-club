@@ -1,6 +1,6 @@
 # Adela
 
-Adela is a Deep House and Progressive House artist with 3 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Bread and Butter, London on Sat, 26 Sept 2026.
+Adela is a Deep House and Progressive House artist with 3 upcoming club dates listed on soundcheck as of Sun, 13 Sept 2026, next at Bread and Butter, London on Sat, 26 Sept 2026.
 
 Adela is a deep house and progressive house artist tracked on soundcheck, with 48 sets logged across Athens and London. Often billed alongside Benebe, Faded Society and Glittcherz. Next up: Bread and Butter, London on Sat 26 Sept.
 
@@ -27,4 +27,4 @@ Adela is a deep house and progressive house artist tracked on soundcheck, with 4
 
 Benebe, Faded Society, Glittcherz
 
-*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/adela/)*
+*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/adela/)*

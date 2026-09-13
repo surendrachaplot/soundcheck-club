@@ -1,14 +1,13 @@
 # LE Rafiot Club
 
-LE Rafiot Club is a music venue in Strasbourg with 2 upcoming nights listed on soundcheck as of Sat, 12 Sept 2026; the next is "MARGARITA TEMPÊTE, ALIGATOU" on Sat, 12 Sept 2026.
+LE Rafiot Club is a music venue in Strasbourg with 1 upcoming night listed on soundcheck as of Sun, 13 Sept 2026; the next is "ARBO, All Night Long" on Fri, 2 Oct 2026.
 
-LE Rafiot Club is a music venue in Strasbourg listed on soundcheck. 2 upcoming nights, with line-ups including Arbo. Browse upcoming dates, start times and who's playing.
+LE Rafiot Club is a music venue in Strasbourg listed on soundcheck. 1 upcoming night, with line-ups including Arbo. Browse upcoming dates, start times and who's playing.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 12 Sept 2026 | MARGARITA TEMPÊTE, ALIGATOU |  |
 | Fri, 2 Oct 2026 | ARBO, All Night Long | Arbo |
 
-*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/strasbourg/club/le-rafiot-club/)*
+*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/strasbourg/club/le-rafiot-club/)*

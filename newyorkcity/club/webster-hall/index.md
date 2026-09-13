@@ -1,14 +1,13 @@
 # Webster Hall
 
-Webster Hall is a music venue in New York City with 7 upcoming nights listed on soundcheck as of Sat, 12 Sept 2026; the next is "Jason Ross" on Sat, 12 Sept 2026.
+Webster Hall is a music venue in New York City with 6 upcoming nights listed on soundcheck as of Sun, 13 Sept 2026; the next is "POiSON GiRL FRiEND" on Sun, 13 Sept 2026.
 
-Webster Hall is a music venue in Newyorkcity listed on soundcheck. 7 upcoming nights, with line-ups including 444 (1), DJ Habibeats, MAIYA and Nanoos and 2 more. Browse upcoming dates, start times and who's playing. 125 East 11th Street; New York, NY 10003; United States.
+Webster Hall is a music venue in Newyorkcity listed on soundcheck. 6 upcoming nights, with line-ups including 444 (1), DJ Habibeats, MAIYA and Nanoos and 2 more. Browse upcoming dates, start times and who's playing. 125 East 11th Street; New York, NY 10003; United States.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 12 Sept 2026 | Jason Ross |  |
 | Sun, 13 Sept 2026 | POiSON GiRL FRiEND | POiSON GiRL FRiEND |
 | Fri, 18 Sept 2026 | Nooriyah | MAIYA, Nanoos, Nooriyah |
 | Fri, 25 Sept 2026 | Kybba |  |
@@ -20,4 +19,4 @@ Webster Hall is a music venue in Newyorkcity listed on soundcheck. 7 upcoming ni
 
 125 East 11th Street; New York, NY 10003; United States, New York City
 
-*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/webster-hall/)*
+*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/webster-hall/)*

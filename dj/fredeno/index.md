@@ -1,6 +1,6 @@
 # Frede (NO)
 
-Frede (NO) is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Tap1, Copenhagen on Sat, 3 Oct 2026.
+Frede (NO) is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sun, 13 Sept 2026, next at Tap1, Copenhagen on Sat, 3 Oct 2026.
 
 Frede (NO) is a house and techno artist tracked on soundcheck, with 27 sets logged across Copenhagen and Oslo. Often billed alongside NILU, Aja Gulris and KANT. Next up: Tap1, Copenhagen on Sat 3 Oct.
 
@@ -26,4 +26,4 @@ Frede (NO) is a house and techno artist tracked on soundcheck, with 27 sets logg
 
 NILU, Aja Gulris, KANT
 
-*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/fredeno/)*
+*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/fredeno/)*

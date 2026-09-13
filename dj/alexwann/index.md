@@ -1,14 +1,13 @@
 # Alex Wann
 
-Alex Wann is a Afro House and House artist with 9 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Moon Warsaw, Warsaw on Sat, 12 Sept 2026.
+Alex Wann is a Afro House and House artist with 8 upcoming club dates listed on soundcheck as of Sun, 13 Sept 2026, next at Kaufleuten, Zurich on Sat, 26 Sept 2026.
 
-Alex Wann is an afro house and house artist tracked on soundcheck, with 144 sets logged across Amsterdam, Antwerp, Athens and Bali and 41 more. Often billed alongside Notre Dame, Andrea Oliva and Francis Mercier. Next up: Moon Warsaw, Warsaw on Sat 12 Sept.
+Alex Wann is an afro house and house artist tracked on soundcheck, with 144 sets logged across Amsterdam, Antwerp, Athens and Bali and 41 more. Often billed alongside Notre Dame, Andrea Oliva and Francis Mercier. Next up: Kaufleuten, Zurich on Sat 26 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 12 Sept 2026 | Moon Warsaw | Warsaw |
 | Sat, 26 Sept 2026 | Kaufleuten | Zurich |
 | Fri, 2 Oct 2026 | Zumana Bali | Bali |
 | Sun, 4 Oct 2026 | Savaya Bali | Bali |
@@ -20,6 +19,7 @@ Alex Wann is an afro house and house artist tracked on soundcheck, with 144 sets
 
 ## Recently played
 
+- Moon Warsaw, Warsaw — Sat, 12 Sept 2026
 - Shelter Amsterdam, Amsterdam — Fri, 11 Sept 2026
 - Fitz Mallorca, Mallorca — Fri, 4 Sept 2026
 - L'orangerie, Paris — Fri, 28 Aug 2026
@@ -27,10 +27,9 @@ Alex Wann is an afro house and house artist tracked on soundcheck, with 144 sets
 - Hï Ibiza, Ibiza — Mon, 27 Jul 2026
 - Hï Ibiza, Ibiza — Mon, 27 Jul 2026
 - Hï Ibiza, Ibiza — Mon, 20 Jul 2026
-- Hï Ibiza, Ibiza — Mon, 20 Jul 2026
 
 ## Shares bills with
 
 Notre Dame, Andrea Oliva, Francis Mercier
 
-*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/alexwann/)*
+*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/alexwann/)*

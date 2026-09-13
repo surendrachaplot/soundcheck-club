@@ -1,6 +1,6 @@
 # Moxie
 
-Moxie is a House and Techno artist with 9 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at The Cause, London on Sat, 12 Sept 2026.
+Moxie is a House and Techno artist with 9 upcoming club dates listed on soundcheck as of Sun, 13 Sept 2026, next at The Cause, London on Sat, 12 Sept 2026.
 
 Moxie is a house and techno artist based in United Kingdom, tracked on soundcheck, with 188 sets logged across Amsterdam, Bali, Bangkok and Barcelona and 50 more. Often billed alongside Leon Vynehall, Shanti Celeste and NIKS. Next up: The Cause, London on Sat 12 Sept.
 
@@ -20,6 +20,7 @@ Moxie is a house and techno artist based in United Kingdom, tracked on soundchec
 
 ## Recently played
 
+- The Cause, London — Sat, 12 Sept 2026
 - OXI, Berlin — Sun, 23 Aug 2026
 - Amsterdamse Bos, Amsterdam — Sat, 1 Aug 2026
 - Amsterdamse Bos, Amsterdam — Wed, 29 Jul 2026
@@ -27,10 +28,9 @@ Moxie is a house and techno artist based in United Kingdom, tracked on soundchec
 - Parc Nou. El Prat de Llobregat, Barcelona — Fri, 17 Jul 2026
 - Berghain | Panorama Bar | Säule, Berlin — Sat, 4 Jul 2026
 - Amnesia Ibiza, Ibiza — Thu, 2 Jul 2026
-- Umoya, Naples — Fri, 5 Jun 2026
 
 ## Shares bills with
 
 Leon Vynehall, Shanti Celeste, NIKS
 
-*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/moxie/)*
+*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/moxie/)*

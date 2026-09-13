@@ -1,18 +1,18 @@
 # Maque
 
-Maque is a Latin Bass and Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at OXI, Berlin on Sat, 12 Sept 2026.
+Maque is a Latin Bass and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 13 Sept 2026, next at Maaya, Berlin on Fri, 25 Sept 2026.
 
-Maque is a latin bass and techno artist tracked on soundcheck, with 47 sets logged across Amsterdam, Antwerp, Barcelona and Basel and 3 more. Often billed alongside auto_timer, DJ LOUI FROM JUPITER4 and Gadutra. Next up: OXI, Berlin on Sat 12 Sept.
+Maque is a latin bass and techno artist tracked on soundcheck, with 47 sets logged across Amsterdam, Antwerp, Barcelona and Basel and 3 more. Often billed alongside auto_timer, DJ LOUI FROM JUPITER4 and Gadutra. Next up: Maaya, Berlin on Fri 25 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 12 Sept 2026 | OXI | Berlin |
 | Fri, 25 Sept 2026 | Maaya | Berlin |
 
 ## Recently played
 
+- OXI, Berlin — Sat, 12 Sept 2026
 - Phantom Bar Berlin, Berlin — Sat, 29 Aug 2026
 - Marmorbar, Berlin — Fri, 21 Aug 2026
 - Badehaus Berlin, Berlin — Thu, 16 Jul 2026
@@ -20,10 +20,9 @@ Maque is a latin bass and techno artist tracked on soundcheck, with 47 sets logg
 - OXI, Berlin — Sat, 13 Jun 2026
 - Lokschuppen Berlin, Berlin — Sun, 7 Jun 2026
 - Maaya, Berlin — Tue, 26 May 2026
-- 90mil, Berlin — Sat, 2 May 2026
 
 ## Shares bills with
 
 auto_timer, DJ LOUI FROM JUPITER4, Gadutra
 
-*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/maque/)*
+*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/maque/)*

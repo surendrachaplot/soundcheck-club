@@ -1,6 +1,6 @@
 # Teigh
 
-Teigh is a Club and Footwork artist with 1 upcoming club date listed on soundcheck as of Sat, 12 Sept 2026, next at Circle Line Cruises, New York City on Sat, 26 Sept 2026.
+Teigh is a Club and Footwork artist with 1 upcoming club date listed on soundcheck as of Sun, 13 Sept 2026, next at Circle Line Cruises, New York City on Sat, 26 Sept 2026.
 
 Teigh is a club and footwork artist based in United States of America, tracked on soundcheck, with 25 sets logged across Newyorkcity. Often billed alongside EDEN BEKELE, FuckQ and Daniro. Next up: Circle Line Cruises, Newyorkcity on Sat 26 Sept.
 
@@ -25,4 +25,4 @@ Teigh is a club and footwork artist based in United States of America, tracked o
 
 EDEN BEKELE, FuckQ, Daniro
 
-*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/teigh/)*
+*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/teigh/)*

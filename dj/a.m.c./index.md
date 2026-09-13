@@ -1,14 +1,13 @@
 # A.M.C.
 
-A.M.C. is a Drum & Bass and Jungle artist with 8 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Sawmills, Bristol on Sat, 12 Sept 2026.
+A.M.C. is a Drum & Bass and Jungle artist with 7 upcoming club dates listed on soundcheck as of Sun, 13 Sept 2026, next at Stealth, Nottingham on Fri, 2 Oct 2026.
 
-A.M.C. is a drum & bass and jungle artist based in United Kingdom, tracked on soundcheck, with 44 sets logged across Amsterdam, Antwerp, Auckland and Birmingham and 22 more. Often billed alongside Phantom, IC3 and Koven. Next up: Sawmills, Bristol on Sat 12 Sept.
+A.M.C. is a drum & bass and jungle artist based in United Kingdom, tracked on soundcheck, with 44 sets logged across Amsterdam, Antwerp, Auckland and Birmingham and 22 more. Often billed alongside Phantom, IC3 and Koven. Next up: Stealth, Nottingham on Fri 2 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 12 Sept 2026 | Sawmills | Bristol |
 | Fri, 2 Oct 2026 | Stealth | Nottingham |
 | Sat, 10 Oct 2026 | Volks | Brighton |
 | Fri, 16 Oct 2026 | World Headquarters | Newcastle |
@@ -19,6 +18,7 @@ A.M.C. is a drum & bass and jungle artist based in United Kingdom, tracked on so
 
 ## Recently played
 
+- Sawmills, Bristol — Sat, 12 Sept 2026
 - The Racket Space, Dublin — Sun, 3 May 2026
 - Quarters, Brighton — Fri, 24 Apr 2026
 - Antwerp Expo, Antwerp — Fri, 17 Apr 2026
@@ -26,10 +26,9 @@ A.M.C. is a drum & bass and jungle artist based in United Kingdom, tracked on so
 - fabric, London — Fri, 13 Feb 2026
 - Kassa Boat, Budapest — Fri, 30 Jan 2026
 - LAB theCLUB, Madrid — Fri, 23 Jan 2026
-- NX Newcastle, Newcastle — Sat, 6 Dec 2025
 
 ## Shares bills with
 
 Phantom, IC3, Koven
 
-*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/a.m.c./)*
+*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/a.m.c./)*

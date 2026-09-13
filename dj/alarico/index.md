@@ -1,6 +1,6 @@
 # Alarico
 
-Alarico is a Techno and House artist with 16 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Amnesia Ibiza, Ibiza on Tue, 15 Sept 2026.
+Alarico is a Techno and House artist with 16 upcoming club dates listed on soundcheck as of Sun, 13 Sept 2026, next at Amnesia Ibiza, Ibiza on Tue, 15 Sept 2026.
 
 Alarico is a techno and house artist tracked on soundcheck, with 268 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 69 more. Often billed alongside Chlär, Funk Assault and Yanamaste. Next up: Amnesia Ibiza, Ibiza on Tue 15 Sept.
 
@@ -36,4 +36,4 @@ Alarico is a techno and house artist tracked on soundcheck, with 268 sets logged
 
 Chlär, Funk Assault, Yanamaste
 
-*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/alarico/)*
+*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/alarico/)*

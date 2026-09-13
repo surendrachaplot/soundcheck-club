@@ -1,6 +1,6 @@
 # Rooléh
 
-Rooléh is a House and Tech House artist with 9 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at TBA, Lisbon on Fri, 18 Sept 2026.
+Rooléh is a House and Tech House artist with 9 upcoming club dates listed on soundcheck as of Sun, 13 Sept 2026, next at TBA, Lisbon on Fri, 18 Sept 2026.
 
 Rooléh is a house and tech house artist tracked on soundcheck, with 86 sets logged across Amsterdam, Barcelona, Berlin and Glasgow and 16 more. Often billed alongside Easttown, Prunk and Benny Rodrigues. Next up: TBA, Lisbon on Fri 18 Sept.
 
@@ -33,4 +33,4 @@ Rooléh is a house and tech house artist tracked on soundcheck, with 86 sets log
 
 Easttown, Prunk, Benny Rodrigues
 
-*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/rooleh/)*
+*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/rooleh/)*

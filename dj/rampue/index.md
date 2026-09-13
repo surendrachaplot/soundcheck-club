@@ -1,14 +1,13 @@
 # Rampue
 
-Rampue is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at TBA - Brussels, Brussels on Fri, 11 Sept 2026.
+Rampue is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sun, 13 Sept 2026, next at Cova Santa, Ibiza on Fri, 18 Sept 2026.
 
-Rampue is a house and techno artist tracked on soundcheck, with 77 sets logged across Amsterdam, Barcelona, Berlin and Brussels and 19 more. Often billed alongside Chris Schwarzwälder, Mimi Love and Britta Arnold. Next up: TBA - Brussels, Brussels on Fri 11 Sept.
+Rampue is a house and techno artist tracked on soundcheck, with 77 sets logged across Amsterdam, Barcelona, Berlin and Brussels and 19 more. Often billed alongside Chris Schwarzwälder, Mimi Love and Britta Arnold. Next up: Cova Santa, Ibiza on Fri 18 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 11 Sept 2026 | TBA - Brussels | Brussels |
 | Fri, 18 Sept 2026 | Cova Santa | Ibiza |
 | Sun, 27 Sept 2026 | gART.n | Berlin |
 
@@ -27,4 +26,4 @@ Rampue is a house and techno artist tracked on soundcheck, with 77 sets logged a
 
 Chris Schwarzwälder, Mimi Love, Britta Arnold
 
-*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/rampue/)*
+*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/rampue/)*

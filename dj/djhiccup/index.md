@@ -1,6 +1,6 @@
 # DJ Hiccup
 
-DJ Hiccup is a Techno and Downtempo artist with 1 upcoming club date listed on soundcheck as of Sat, 12 Sept 2026, next at Drama Radio Bar, Mexico City on Wed, 9 Sept 2026.
+DJ Hiccup is a Techno and Downtempo artist with 1 upcoming club date listed on soundcheck as of Sun, 13 Sept 2026, next at Drama Radio Bar, Mexico City on Wed, 9 Sept 2026.
 
 DJ Hiccup is a techno and downtempo artist tracked on soundcheck, with 12 sets logged across Mexicocity. Often billed alongside Avant-Garde Institute, TNT Dan and Maseriche. Next up: Drama Radio Bar, Mexicocity on Wed 9 Sept.
 
@@ -25,4 +25,4 @@ DJ Hiccup is a techno and downtempo artist tracked on soundcheck, with 12 sets l
 
 Avant-Garde Institute, TNT Dan, Maseriche
 
-*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djhiccup/)*
+*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djhiccup/)*

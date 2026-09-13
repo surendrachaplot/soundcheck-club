@@ -1,14 +1,13 @@
 # RESA UTOPICA
 
-RESA UTOPICA is a Techno and Trance artist with 5 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Cieloterra, Rome on Sat, 12 Sept 2026.
+RESA UTOPICA is a Techno and Trance artist with 4 upcoming club dates listed on soundcheck as of Sun, 13 Sept 2026, next at Puma Käfig Berlin, Berlin on Fri, 2 Oct 2026.
 
-RESA UTOPICA is a techno and trance artist tracked on soundcheck, with 41 sets logged across Berlin, Ghent, Milan and Naples and 2 more. Often billed alongside DOCTOR MÜCKE, Jesooria and ELNA. Next up: Cieloterra, Rome on Sat 12 Sept.
+RESA UTOPICA is a techno and trance artist tracked on soundcheck, with 41 sets logged across Berlin, Ghent, Milan and Naples and 2 more. Often billed alongside DOCTOR MÜCKE, Jesooria and ELNA. Next up: Puma Käfig Berlin, Berlin on Fri 2 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 12 Sept 2026 | Cieloterra | Rome |
 | Fri, 2 Oct 2026 | Puma Käfig Berlin | Berlin |
 | Fri, 9 Oct 2026 | Gate Milano | Milan |
 | Fri, 9 Oct 2026 | Gate Milano | Milan |
@@ -16,6 +15,7 @@ RESA UTOPICA is a techno and trance artist tracked on soundcheck, with 41 sets l
 
 ## Recently played
 
+- Cieloterra, Rome — Sat, 12 Sept 2026
 - CIRCOLO BOTULINO, Milan — Fri, 11 Sept 2026
 - Lokschuppen Berlin, Berlin — Sat, 4 Jul 2026
 - Chinastraat, Ghent — Sat, 20 Jun 2026
@@ -23,10 +23,9 @@ RESA UTOPICA is a techno and trance artist tracked on soundcheck, with 41 sets l
 - Ponderosa Relax, Milan — Sat, 16 May 2026
 - OST, Berlin — Thu, 14 May 2026
 - Gate Milano, Milan — Sat, 11 Apr 2026
-- TBA - Moog Club, Turin — Sat, 28 Feb 2026
 
 ## Shares bills with
 
 DOCTOR MÜCKE, Jesooria, ELNA
 
-*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/resautopica/)*
+*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/resautopica/)*

@@ -1,6 +1,6 @@
 # Easttown
 
-Easttown is a House and Tech House artist with 8 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at INPUT High Fidelity Dance Club, Barcelona on Sun, 13 Sept 2026.
+Easttown is a House and Tech House artist with 8 upcoming club dates listed on soundcheck as of Sun, 13 Sept 2026, next at INPUT High Fidelity Dance Club, Barcelona on Sun, 13 Sept 2026.
 
 Easttown is a house and tech house artist tracked on soundcheck, with 101 sets logged across Amsterdam, Barcelona, Basel and Ibiza and 12 more. Often billed alongside Rooléh, Joëlla Jackson and AAT (NL). Next up: INPUT High Fidelity Dance Club, Barcelona on Sun 13 Sept.
 
@@ -32,4 +32,4 @@ Easttown is a house and tech house artist tracked on soundcheck, with 101 sets l
 
 Rooléh, Joëlla Jackson, AAT (NL)
 
-*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/easttown/)*
+*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/easttown/)*

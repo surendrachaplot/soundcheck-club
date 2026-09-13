@@ -1,16 +1,13 @@
 # Soul Lounge Clapham
 
-Soul Lounge Clapham is a music venue in London with 27 upcoming nights listed on soundcheck as of Sat, 12 Sept 2026; the next is "Bashment & Afrobeats - Clapham Party" on Sat, 12 Sept 2026.
+Soul Lounge Clapham is a music venue in London with 24 upcoming nights listed on soundcheck as of Sun, 13 Sept 2026; the next is "Bashment & Afrobeats Clapham Party - Everyone Free Before 12AM" on Fri, 18 Sept 2026.
 
-Soul Lounge Clapham is a music venue in London listed on soundcheck. 27 upcoming nights. Browse upcoming dates, start times and who's playing. 76 Clapham High St, London SW4 7UL.
+Soul Lounge Clapham is a music venue in London listed on soundcheck. 24 upcoming nights. Browse upcoming dates, start times and who's playing. 76 Clapham High St, London SW4 7UL.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 12 Sept 2026 | Bashment & Afrobeats - Clapham Party |  |
-| Sat, 12 Sept 2026 | Bashment & Afrobeats Clapham Party - Everyone Free Before 12AM |  |
-| Sat, 12 Sept 2026 | Soul Lounge Clapham - Hip Hop, Bashment, Afrobeats Party |  |
 | Fri, 18 Sept 2026 | Bashment & Afrobeats Clapham Party - Everyone Free Before 12AM |  |
 | Fri, 18 Sept 2026 | Bashment Clapham - Everyone Free Before 12AM |  |
 | Sat, 19 Sept 2026 | Bashment & Afrobeats - Clapham Party |  |
@@ -18,9 +15,12 @@ Soul Lounge Clapham is a music venue in London listed on soundcheck. 27 upcoming
 | Sat, 19 Sept 2026 | Bashment & Afrobeats Clapham Party - Everyone Free Before 12AM |  |
 | Fri, 25 Sept 2026 | Bashment & Afrobeats Clapham Party - Everyone Free Before 12AM |  |
 | Fri, 25 Sept 2026 | Bashment Clapham - Everyone Free Before 12AM |  |
+| Sat, 26 Sept 2026 | Bashment & Afrobeats - Clapham Party |  |
+| Sat, 26 Sept 2026 | Soul Lounge Clapham - Hip Hop, Bashment, Afrobeats Party (Free Tickets) |  |
+| Sat, 26 Sept 2026 | Bashment & Afrobeats Clapham Party - Everyone Free Before 12AM |  |
 
 ## Address
 
 76 Clapham High St, London SW4 7UL, London
 
-*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/soul-lounge-clapham/)*
+*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/soul-lounge-clapham/)*

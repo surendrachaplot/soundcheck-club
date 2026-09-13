@@ -1,14 +1,13 @@
 # SALOME
 
-SALOME is a Techno and Electro artist with 7 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at FOLD, London on Sat, 12 Sept 2026.
+SALOME is a Techno and Electro artist with 6 upcoming club dates listed on soundcheck as of Sun, 13 Sept 2026, next at 131 Mccormack St, Toronto on Fri, 25 Sept 2026.
 
-SALOME is a techno and electro artist tracked on soundcheck, with 207 sets logged across Amsterdam, Antwerp, Athens and Austin and 58 more. Often billed alongside MCMLXXXV, CEM and SPFDJ. Next up: FOLD, London on Sat 12 Sept.
+SALOME is a techno and electro artist tracked on soundcheck, with 207 sets logged across Amsterdam, Antwerp, Athens and Austin and 58 more. Often billed alongside MCMLXXXV, CEM and SPFDJ. Next up: 131 Mccormack St, Toronto on Fri 25 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 12 Sept 2026 | FOLD | London |
 | Fri, 25 Sept 2026 | 131 Mccormack St | Toronto |
 | Fri, 25 Sept 2026 | TBA | Los Angeles |
 | Thu, 8 Oct 2026 | Berghain / Panorama Bar / Säule | Berlin |
@@ -18,6 +17,7 @@ SALOME is a techno and electro artist tracked on soundcheck, with 207 sets logge
 
 ## Recently played
 
+- FOLD, London — Sat, 12 Sept 2026
 - Phoxxi Green Area, Hamburg — Sat, 22 Aug 2026
 - Sonnenraum, Berlin — Sun, 16 Aug 2026
 - La Pinilla Ski Resort, Madrid — Mon, 10 Aug 2026
@@ -25,10 +25,9 @@ SALOME is a techno and electro artist tracked on soundcheck, with 207 sets logge
 - Fort Vechten, Utrecht — Sat, 25 Jul 2026
 - RSO.BERLIN, Berlin — Fri, 24 Jul 2026
 - Point Ephémère, Paris — Sat, 18 Jul 2026
-- Union Park, Chicago — Sat, 18 Jul 2026
 
 ## Shares bills with
 
 MCMLXXXV, CEM, SPFDJ
 
-*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/salome-de/)*
+*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/salome-de/)*

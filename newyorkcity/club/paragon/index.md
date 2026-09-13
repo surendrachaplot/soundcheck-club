@@ -1,14 +1,13 @@
 # Paragon
 
-Paragon is a music venue in New York City with 14 upcoming nights listed on soundcheck as of Sat, 12 Sept 2026; the next is "Paradiso: Black Rave Culture, gum.mp3 + Annie Lew, Nymphostar" on Sat, 12 Sept 2026.
+Paragon is a music venue in New York City with 13 upcoming nights listed on soundcheck as of Sun, 13 Sept 2026; the next is "DJ LAG, Ethan Tomas, Mohogany" on Thu, 17 Sept 2026.
 
-Paragon is a music venue in Newyorkcity listed on soundcheck. 14 upcoming nights, with line-ups including MORENXXX, Amarji King, Annie Lew and ARCHANGEL (US) and 2 more. Browse upcoming dates, start times and who's playing. 990 Broadway Brooklyn, NY.
+Paragon is a music venue in Newyorkcity listed on soundcheck. 13 upcoming nights, with line-ups including MORENXXX, Amarji King, ARCHANGEL (US) and Arielle Lana and 2 more. Browse upcoming dates, start times and who's playing. 990 Broadway Brooklyn, NY.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 12 Sept 2026 | Paradiso: Black Rave Culture, gum.mp3 + Annie Lew, Nymphostar | Annie Lew, Black Rave Culture, Nymphostar, gum.mp3 |
 | Thu, 17 Sept 2026 | DJ LAG, Ethan Tomas, Mohogany | DJ LAG |
 | Fri, 18 Sept 2026 | OOMFCON 1 Year Anniversary with BODYHACK + BIAS + KI-HOLE | ARCHANGEL (US), Daniro, Gagbert, L4RV4, LUN★, Malcolm XL, Robyn DaBank, SELENE (3), Soo Intoit, Xana 101, moong!rl |
 | Sat, 19 Sept 2026 | Pressure: CEM, Leonce, Makadsi + Angelito Collective | CEM, Clit.hub, Leonce, Makadsi |
@@ -18,9 +17,10 @@ Paragon is a music venue in Newyorkcity listed on soundcheck. 14 upcoming nights
 | Sat, 3 Oct 2026 | Club Stars: Detroit In Effect, DJ Slugo, Amarji King + Sirens(MORENXXX b2b Loka) | Amarji King, DJ Slugo, Detroit In Effect, LOKA (US), MORENXXX |
 | Fri, 9 Oct 2026 | Paradiso: The Carry Nation, Mike Servito, Kim Anh + Sissies of Mercy, Spyware | Kim Anh, Mike Servito, Sissies of Mercy, TEK NENA, The Carry Nation |
 | Sat, 10 Oct 2026 | Club Stars: Dj Sliink, Martyn Bootyspoon b2b Swami Sound, Sevyn, James Bambu(Live)   | Dj Sliink, KIMKILLA, Martyn Bootyspoon, Preacher's Daughter, Sevyn, Swami Sound, kyxm |
+| Sun, 11 Oct 2026 | CHARLIE |  |
 
 ## Address
 
 990 Broadway Brooklyn, NY, New York City
 
-*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/paragon/)*
+*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/paragon/)*

@@ -1,14 +1,13 @@
 # Locke
 
-Locke is a music venue in Hamburg with 4 upcoming nights listed on soundcheck as of Sat, 12 Sept 2026; the next is "Selecta Export System x Gitter Bookings with Rouven, Andi Britz, Electro Ingo, Lena Paulus" on Sat, 12 Sept 2026.
+Locke is a music venue in Hamburg with 3 upcoming nights listed on soundcheck as of Sun, 13 Sept 2026; the next is "Best Life with shumshum" on Sun, 13 Sept 2026.
 
-Locke is a music venue in Hamburg listed on soundcheck. 4 upcoming nights, with line-ups including Andi Britz, Darimel, Phil Abaddon and Rouven Hucke. Browse upcoming dates, start times and who's playing. St. Pauli Fischmarkt 27, 20359 Hamburg, Germany.
+Locke is a music venue in Hamburg listed on soundcheck. 3 upcoming nights, with line-ups including Darimel and Phil Abaddon. Browse upcoming dates, start times and who's playing. St. Pauli Fischmarkt 27, 20359 Hamburg, Germany.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 12 Sept 2026 | Selecta Export System x Gitter Bookings with Rouven, Andi Britz, Electro Ingo, Lena Paulus | Andi Britz, Rouven Hucke |
 | Sun, 13 Sept 2026 | Best Life with shumshum |  |
 | Sun, 27 Sept 2026 | Crazy Taxi 2 with John Known & Phil Abaddon | Phil Abaddon |
 | Thu, 22 Oct 2026 | ALL CONDITION GARAGE w/ Darimel & David Garage | Darimel |
@@ -17,4 +16,4 @@ Locke is a music venue in Hamburg listed on soundcheck. 4 upcoming nights, with 
 
 St. Pauli Fischmarkt 27, 20359 Hamburg, Germany, Hamburg
 
-*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/hamburg/club/locke/)*
+*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/hamburg/club/locke/)*

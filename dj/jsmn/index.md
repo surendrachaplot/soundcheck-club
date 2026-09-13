@@ -1,31 +1,29 @@
 # JSMN
 
-JSMN is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Knockdown Center, New York City on Sat, 12 Sept 2026.
+JSMN is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sun, 13 Sept 2026, next at 821 Runnymede Rd, Toronto on Sat, 19 Sept 2026.
 
-JSMN is a techno and house artist based in United States of America, tracked on soundcheck, with 53 sets logged across Chicago, London, Losangeles and Newyorkcity and 4 more. Often billed alongside 999999999, AC Slater and AIDA (CA). Next up: Knockdown Center, Newyorkcity on Sat 12 Sept.
+JSMN is a techno and house artist based in United States of America, tracked on soundcheck, with 53 sets logged across Chicago, London, Losangeles and Newyorkcity and 4 more. Often billed alongside 999999999, AC Slater and AIDA (CA). Next up: 821 Runnymede Rd, Toronto on Sat 19 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 12 Sept 2026 | Knockdown Center | New York City |
-| Sat, 12 Sept 2026 | Knockdown Center | New York City |
 | Sat, 19 Sept 2026 | 821 Runnymede Rd | Toronto |
 | Fri, 30 Oct 2026 | NOS Event Center | Los Angeles |
 
 ## Recently played
 
+- Knockdown Center, New York City — Sat, 12 Sept 2026
+- Knockdown Center, New York City — Sat, 12 Sept 2026
 - Brooklyn Storehouse, New York City — Sun, 6 Sept 2026
 - Superior Ingredients, New York City — Sun, 9 Aug 2026
 - Smoke & Mirrors, Chicago — Sat, 4 Jul 2026
 - Echostage, Washington DC — Fri, 12 Jun 2026
 - F8 1192 Folsom, San Francisco/Oakland — Thu, 4 Jun 2026
 - Elsewhere, New York City — Sat, 14 Mar 2026
-- 99 Scott Ave, New York City — Fri, 6 Mar 2026
-- EQ San Diego, San Diego — Sat, 21 Feb 2026
 
 ## Shares bills with
 
 999999999, AC Slater, AIDA (CA)
 
-*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jsmn/)*
+*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jsmn/)*

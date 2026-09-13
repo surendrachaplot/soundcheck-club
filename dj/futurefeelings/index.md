@@ -1,6 +1,6 @@
 # Future Feelings
 
-Future Feelings is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Sat, 12 Sept 2026, next at Departamento, Mexico City on Wed, 9 Sept 2026.
+Future Feelings is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Sun, 13 Sept 2026, next at Departamento, Mexico City on Wed, 9 Sept 2026.
 
 Future Feelings is a house and deep house artist tracked on soundcheck, with 33 sets logged across Mexicocity. Often billed alongside Barreto, Valeriana and Irena Stanisic. Next up: Departamento, Mexicocity on Wed 9 Sept.
 
@@ -25,4 +25,4 @@ Future Feelings is a house and deep house artist tracked on soundcheck, with 33 
 
 Barreto, Valeriana, Irena Stanisic
 
-*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/futurefeelings/)*
+*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/futurefeelings/)*

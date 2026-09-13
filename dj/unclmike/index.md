@@ -1,6 +1,6 @@
 # UNCL Mike
 
-UNCL Mike is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Sat, 12 Sept 2026, next at The Comfort Zone, Toronto on Fri, 25 Sept 2026.
+UNCL Mike is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Sun, 13 Sept 2026, next at The Comfort Zone, Toronto on Fri, 25 Sept 2026.
 
 UNCL Mike is a techno and tech house artist based in Canada, tracked on soundcheck, with 8 sets logged across Montreal and Toronto. Often billed alongside 'PAVV', Kaylub and Shaingel. Next up: The Comfort Zone, Toronto on Fri 25 Sept.
 
@@ -24,4 +24,4 @@ UNCL Mike is a techno and tech house artist based in Canada, tracked on soundche
 
 'PAVV', Kaylub, Shaingel
 
-*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/unclmike/)*
+*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/unclmike/)*

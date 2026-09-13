@@ -1,14 +1,13 @@
 # Pacha
 
-Pacha is a music venue in Munich with 6 upcoming nights listed on soundcheck as of Sat, 12 Sept 2026; the next is "Saturday with AMÉMÉ, Jochen Pash" on Sat, 12 Sept 2026.
+Pacha is a music venue in Munich with 5 upcoming nights listed on soundcheck as of Sun, 13 Sept 2026; the next is "FreitagNacht x AANTA with Sunnery James & Ryan Marciano" on Fri, 18 Sept 2026.
 
-Pacha is a music venue in Munich listed on soundcheck. 6 upcoming nights, with line-ups including AMÉMÉ, André Hommen, Deep Dish and Jochen Pash and 2 more. Browse upcoming dates, start times and who's playing. Maximiliansplatz 5; 80333 Munich; Germany.
+Pacha is a music venue in Munich listed on soundcheck. 5 upcoming nights, with line-ups including André Hommen, Deep Dish, Kevin de Vries and Ontonic and 2 more. Browse upcoming dates, start times and who's playing. Maximiliansplatz 5; 80333 Munich; Germany.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 12 Sept 2026 | Saturday with AMÉMÉ, Jochen Pash | AMÉMÉ, Jochen Pash |
 | Fri, 18 Sept 2026 | FreitagNacht x AANTA with Sunnery James & Ryan Marciano | Ontonic, Sunnery James & Ryan Marciano |
 | Sat, 19 Sept 2026 | Pacha Oktoberfest Club Nights - Samstag with Mcfly, DJ Linus |  |
 | Fri, 2 Oct 2026 | World League with Deep Dish | André Hommen, Deep Dish |
@@ -19,4 +18,4 @@ Pacha is a music venue in Munich listed on soundcheck. 6 upcoming nights, with l
 
 Maximiliansplatz 5; 80333 Munich; Germany, Munich
 
-*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/munich/club/pacha/)*
+*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/munich/club/pacha/)*

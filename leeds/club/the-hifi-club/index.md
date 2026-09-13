@@ -1,6 +1,6 @@
 # The Hifi Club
 
-The Hifi Club is a music venue in Leeds with 3 upcoming nights listed on soundcheck as of Sat, 12 Sept 2026; the next is "20:20 Vision - Full Circle with Crazy P (DJ set) & Ralph Lawson" on Sat, 19 Sept 2026.
+The Hifi Club is a music venue in Leeds with 3 upcoming nights listed on soundcheck as of Sun, 13 Sept 2026; the next is "20:20 Vision - Full Circle with Crazy P (DJ set) & Ralph Lawson" on Sat, 19 Sept 2026.
 
 The Hifi Club is a music venue in Leeds listed on soundcheck. 3 upcoming nights, with line-ups including Anatta Sound, Charlie P, Crazy P and G-Spot and 2 more. Browse upcoming dates, start times and who's playing. 2 Central Road; Leeds; LS1 6DE; United Kingdom.
 
@@ -16,4 +16,4 @@ The Hifi Club is a music venue in Leeds listed on soundcheck. 3 upcoming nights,
 
 2 Central Road; Leeds; LS1 6DE; United Kingdom, Leeds
 
-*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/leeds/club/the-hifi-club/)*
+*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/leeds/club/the-hifi-club/)*

@@ -1,6 +1,6 @@
 # MARCIA
 
-MARCIA is a Electronica and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 12 Sept 2026, next at Drama Radio Bar, Mexico City on Wed, 9 Sept 2026.
+MARCIA is a Electronica and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 13 Sept 2026, next at Drama Radio Bar, Mexico City on Wed, 9 Sept 2026.
 
 MARCIA is an electronica and techno artist tracked on soundcheck, with 17 sets logged across Krakow, Mexicocity and Warsaw. Often billed alongside Nadezh No, Chugajstra and 1 AM (1). Next up: Drama Radio Bar, Mexicocity on Wed 9 Sept.
 
@@ -25,4 +25,4 @@ MARCIA is an electronica and techno artist tracked on soundcheck, with 17 sets l
 
 Nadezh No, Chugajstra, 1 AM (1)
 
-*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/marcia/)*
+*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/marcia/)*

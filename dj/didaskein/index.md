@@ -1,6 +1,6 @@
 # Didaskein
 
-Didaskein is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Sat, 12 Sept 2026, next at Departamento, Mexico City on Wed, 9 Sept 2026.
+Didaskein is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Sun, 13 Sept 2026, next at Departamento, Mexico City on Wed, 9 Sept 2026.
 
 Didaskein is a house and deep house artist based in Mexico, tracked on soundcheck, with 24 sets logged across Mexicocity and Tokyo. Often billed alongside papa jazz, Barreto and Alejandro Veneno. Next up: Departamento, Mexicocity on Wed 9 Sept.
 
@@ -25,4 +25,4 @@ Didaskein is a house and deep house artist based in Mexico, tracked on soundchec
 
 papa jazz, Barreto, Alejandro Veneno
 
-*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/didaskein/)*
+*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/didaskein/)*

@@ -1,6 +1,6 @@
 # Britta Arnold
 
-Britta Arnold is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Kater, Berlin on Fri, 11 Sept 2026.
+Britta Arnold is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Sun, 13 Sept 2026, next at Kater, Berlin on Fri, 11 Sept 2026.
 
 Britta Arnold is a techno and house artist tracked on soundcheck, with 127 sets logged across Amsterdam, Athens, Barcelona and Basel and 25 more. Often billed alongside Mira, Chris Schwarzwälder and Franca. Next up: Kater, Berlin on Fri 11 Sept.
 
@@ -28,4 +28,4 @@ Britta Arnold is a techno and house artist tracked on soundcheck, with 127 sets 
 
 Mira, Chris Schwarzwälder, Franca
 
-*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/brittaarnold/)*
+*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/brittaarnold/)*

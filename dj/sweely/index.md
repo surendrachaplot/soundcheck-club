@@ -1,15 +1,13 @@
 # Sweely
 
-Sweely is a House and Techno artist with 7 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Nido Marseille, Marseille on Sat, 12 Sept 2026.
+Sweely is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Sun, 13 Sept 2026, next at UNO MALTA, Malta on Fri, 18 Sept 2026.
 
-Sweely is a house and techno artist tracked on soundcheck, with 174 sets logged across Amsterdam, Athens, Barcelona and Belgrade and 45 more. Often billed alongside Enzo Siragusa, The Ghost and Traumer. Next up: Nido Marseille, Marseille on Sat 12 Sept.
+Sweely is a house and techno artist tracked on soundcheck, with 174 sets logged across Amsterdam, Athens, Barcelona and Belgrade and 45 more. Often billed alongside Enzo Siragusa, The Ghost and Traumer. Next up: UNO MALTA, Malta on Fri 18 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 12 Sept 2026 | Nido Marseille | Marseille |
-| Sat, 12 Sept 2026 | Nido Marseille | Marseille |
 | Fri, 18 Sept 2026 | UNO MALTA | Malta |
 | Fri, 9 Oct 2026 | Les Enfants Brillants | Barcelona |
 | Thu, 22 Oct 2026 | Blast Galaxy | Amsterdam |
@@ -18,17 +16,17 @@ Sweely is a house and techno artist tracked on soundcheck, with 174 sets logged 
 
 ## Recently played
 
+- Nido Marseille, Marseille — Sat, 12 Sept 2026
+- Nido Marseille, Marseille — Sat, 12 Sept 2026
 - La Terrrazza, Barcelona — Sat, 5 Sept 2026
 - 528 Ibiza, Ibiza — Sun, 9 Aug 2026
 - La Cité des Arts de la Rue, Marseille — Sat, 25 Jul 2026
 - TBA - SECRET LOCATION 45 min from BCN , Barcelona — Fri, 10 Jul 2026
 - Jolene Downtown Miami, Miami — Sun, 5 Jul 2026
 - Club Space Miami, Miami — Sat, 4 Jul 2026
-- Circle Line Cruises, New York City — Thu, 2 Jul 2026
-- Club der Visionaere, Berlin — Sun, 14 Jun 2026
 
 ## Shares bills with
 
 Enzo Siragusa, The Ghost, Traumer
 
-*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sweely/)*
+*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sweely/)*

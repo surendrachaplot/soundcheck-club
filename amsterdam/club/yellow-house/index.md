@@ -1,14 +1,13 @@
 # Yellow House
 
-Yellow House is a music venue in Amsterdam with 7 upcoming nights listed on soundcheck as of Sat, 12 Sept 2026; the next is "Summer Gathering with Ammé, Milo Passier, Stefan Meser, Bruv" on Sat, 12 Sept 2026.
+Yellow House is a music venue in Amsterdam with 6 upcoming nights listed on soundcheck as of Sun, 13 Sept 2026; the next is "Yusu Blockparty" on Sun, 13 Sept 2026.
 
-Yellow House is a music venue in Amsterdam listed on soundcheck. 7 upcoming nights, with line-ups including Ammé, Bambi-S, Bérou and BIIANCO and 2 more. Browse upcoming dates, start times and who's playing. 1013AM Amsterdam, Danzigerbocht 45-R.
+Yellow House is a music venue in Amsterdam listed on soundcheck. 6 upcoming nights, with line-ups including Bambi-S, Bérou, BIIANCO and Cinthie and 2 more. Browse upcoming dates, start times and who's playing. 1013AM Amsterdam, Danzigerbocht 45-R.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 12 Sept 2026 | Summer Gathering with Ammé, Milo Passier, Stefan Meser, Bruv | Ammé, Milo Passier, Stefan Meser |
 | Sun, 13 Sept 2026 | Yusu Blockparty | NATHIFA EFIA, WaxFiend, Zoë Janice |
 | Fri, 18 Sept 2026 | DEEP TISSUE X Yellow House - COMMUNITY GATHERING | Saladiaga |
 | Fri, 18 Sept 2026 | Deep Tissue: Community Event | Saladiaga, Special Guest (US) |
@@ -20,4 +19,4 @@ Yellow House is a music venue in Amsterdam listed on soundcheck. 7 upcoming nigh
 
 1013AM Amsterdam, Danzigerbocht 45-R, Amsterdam
 
-*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/yellow-house/)*
+*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/yellow-house/)*

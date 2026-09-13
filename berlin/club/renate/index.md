@@ -1,6 +1,6 @@
 # Renate
 
-Renate is a music venue in Berlin with 8 upcoming nights listed on soundcheck as of Sat, 12 Sept 2026; the next is "Happy 19th Birthday Renate 7 Floors, 66 Hours w/ Angel D'lite, Stenny, Mary Lake, Daniel Avery" on Fri, 11 Sept 2026.
+Renate is a music venue in Berlin with 8 upcoming nights listed on soundcheck as of Sun, 13 Sept 2026; the next is "Happy 19th Birthday Renate 7 Floors, 66 Hours w/ Angel D'lite, Stenny, Mary Lake, Daniel Avery" on Fri, 11 Sept 2026.
 
 Renate is a music venue in Berlin listed on soundcheck. 8 upcoming nights, with line-ups including AAMIROO, ābnamā, Adam Cooke and Adri Tüde and 2 more. Browse upcoming dates, start times and who's playing. Alt Stralau 70; Friedrichshain; 10245 Berlin; Germany.
 
@@ -21,4 +21,4 @@ Renate is a music venue in Berlin listed on soundcheck. 8 upcoming nights, with 
 
 Alt Stralau 70; Friedrichshain; 10245 Berlin; Germany, Berlin
 
-*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/renate/)*
+*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/renate/)*

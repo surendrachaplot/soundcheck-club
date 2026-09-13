@@ -1,6 +1,6 @@
 # Ben Manson
 
-Ben Manson is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Metropol, Berlin on Sun, 13 Sept 2026.
+Ben Manson is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sun, 13 Sept 2026, next at Metropol, Berlin on Sun, 13 Sept 2026.
 
 Ben Manson is a techno and house artist based in France, tracked on soundcheck, with 104 sets logged across Amsterdam, Antwerp, Berlin and Munich and 3 more. Often billed alongside Mr Cozzo, Hugo Prime and Feel .MA. Next up: Metropol, Berlin on Sun 13 Sept.
 
@@ -26,4 +26,4 @@ Ben Manson is a techno and house artist based in France, tracked on soundcheck, 
 
 Mr Cozzo, Hugo Prime, Feel .MA
 
-*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/benmanson/)*
+*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/benmanson/)*

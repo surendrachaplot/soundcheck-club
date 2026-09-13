@@ -1,6 +1,6 @@
 # Luca Ruiz
 
-Luca Ruiz is a Minimal and House artist with 2 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at SAM Sampling Moods, Milan on Sat, 26 Sept 2026.
+Luca Ruiz is a Minimal and House artist with 2 upcoming club dates listed on soundcheck as of Sun, 13 Sept 2026, next at SAM Sampling Moods, Milan on Sat, 26 Sept 2026.
 
 Luca Ruiz is a minimal and house artist tracked on soundcheck, with 6 sets logged across Barcelona, Dublin, Geneva and Glasgow and 2 more. Often billed alongside Bibi Seck, Dimode and Giamma Soren. Next up: SAM Sampling Moods, Milan on Sat 26 Sept.
 
@@ -22,4 +22,4 @@ Luca Ruiz is a minimal and house artist tracked on soundcheck, with 6 sets logge
 
 Bibi Seck, Dimode, Giamma Soren
 
-*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lucaruiz/)*
+*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lucaruiz/)*

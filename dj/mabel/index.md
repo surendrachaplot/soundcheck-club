@@ -1,20 +1,20 @@
 # Mabel
 
-Mabel is a Techno and Trance artist with 4 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at TBA, Melbourne on Sat, 12 Sept 2026.
+Mabel is a Techno and Trance artist with 3 upcoming club dates listed on soundcheck as of Sun, 13 Sept 2026, next at Tokyo Sing Song, Sydney on Sat, 19 Sept 2026.
 
-Mabel is a techno and trance artist tracked on soundcheck, with 110 sets logged across Amsterdam, Auckland, Barcelona and Berlin and 19 more. Often billed alongside suki, Hannah D and Ricky Nord. Next up: TBA, Melbourne on Sat 12 Sept.
+Mabel is a techno and trance artist tracked on soundcheck, with 110 sets logged across Amsterdam, Auckland, Barcelona and Berlin and 19 more. Often billed alongside suki, Hannah D and Ricky Nord. Next up: Tokyo Sing Song, Sydney on Sat 19 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 12 Sept 2026 | TBA | Melbourne |
 | Sat, 19 Sept 2026 | Tokyo Sing Song | Sydney |
 | Sat, 10 Oct 2026 | Carriageworks | Sydney |
 | Sat, 14 Nov 2026 | TBA - Parque de la Ciudad, CABA | Buenos Aires |
 
 ## Recently played
 
+- TBA, Melbourne — Sat, 12 Sept 2026
 - ark (Melb), Melbourne — Sat, 5 Sept 2026
 - Miscellania, Melbourne — Fri, 28 Aug 2026
 - Miscellania, Melbourne — Fri, 28 Aug 2026
@@ -22,10 +22,9 @@ Mabel is a techno and trance artist tracked on soundcheck, with 110 sets logged 
 - TBA - Inner Northside Location, Melbourne — Sat, 27 Jun 2026
 - Angel Music Bar, Melbourne — Sat, 13 Jun 2026
 - Solace, Melbourne — Sat, 23 May 2026
-- Drama Radio Bar, Mexico City — Wed, 25 Mar 2026
 
 ## Shares bills with
 
 suki, Hannah D, Ricky Nord
 
-*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mabel/)*
+*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mabel/)*

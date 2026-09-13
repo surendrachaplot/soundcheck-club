@@ -1,14 +1,13 @@
 # The Villa
 
-The Villa is a music venue in Oslo with 9 upcoming nights listed on soundcheck as of Sat, 12 Sept 2026; the next is "Sam Girling (UK) + Svebbe" on Sat, 12 Sept 2026.
+The Villa is a music venue in Oslo with 8 upcoming nights listed on soundcheck as of Sun, 13 Sept 2026; the next is "Objekt (DE / PAN) + Simon Tyv + Anémi (FLUX)" on Fri, 18 Sept 2026.
 
-The Villa is a music venue in Oslo listed on soundcheck. 9 upcoming nights, with line-ups including Anémi, Aydin Imani, Bjørn Torske and Daichi Wada and 2 more. Browse upcoming dates, start times and who's playing. Møllergata 23; 0179 Oslo; Norway.
+The Villa is a music venue in Oslo listed on soundcheck. 8 upcoming nights, with line-ups including Anémi, Aydin Imani, Bjørn Torske and Daichi Wada and 2 more. Browse upcoming dates, start times and who's playing. Møllergata 23; 0179 Oslo; Norway.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 12 Sept 2026 | Sam Girling (UK) + Svebbe | Sam Girling, Simon Tyv, Svebbe |
 | Fri, 18 Sept 2026 | Objekt (DE / PAN) + Simon Tyv + Anémi (FLUX) | Anémi, Objekt, Simon Tyv |
 | Sat, 19 Sept 2026 | Finnebassen - All night | Finnebassen |
 | Fri, 25 Sept 2026 | Fragments pres. Decoder (US) | Aydin Imani, Decoder, Franko |
@@ -22,4 +21,4 @@ The Villa is a music venue in Oslo listed on soundcheck. 9 upcoming nights, with
 
 Møllergata 23; 0179 Oslo; Norway, Oslo
 
-*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/oslo/club/the-villa/)*
+*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/oslo/club/the-villa/)*

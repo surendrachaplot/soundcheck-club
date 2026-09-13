@@ -1,14 +1,13 @@
 # Roxy
 
-Roxy is a music venue in Prague with 22 upcoming nights listed on soundcheck as of Sat, 12 Sept 2026; the next is "FACE2FACE: HARD DANCE EDITION ∞ ROXY Prague" on Sat, 12 Sept 2026.
+Roxy is a music venue in Prague with 21 upcoming nights listed on soundcheck as of Sun, 13 Sept 2026; the next is "TECHNO NIGHT ∞ ROXY Prague" on Fri, 18 Sept 2026.
 
-Roxy is a music venue in Prague listed on soundcheck. 22 upcoming nights, with line-ups including 1991 (UK), 2NDRA, Adam Beyer and Adrian Mills and 2 more. Browse upcoming dates, start times and who's playing. Dlouhá 33, 110 00 Praha 1, Prague, Czech Republic.
+Roxy is a music venue in Prague listed on soundcheck. 21 upcoming nights, with line-ups including 1991 (UK), Adam Beyer, Adrian Mills and Agents Of Time and 2 more. Browse upcoming dates, start times and who's playing. Dlouhá 33, 110 00 Praha 1, Prague, Czech Republic.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 12 Sept 2026 | FACE2FACE: HARD DANCE EDITION ∞ ROXY Prague | 2NDRA, Big Lil, Paul Krist, SJ Yellow, tmk (CZ) |
 | Fri, 18 Sept 2026 | TECHNO NIGHT ∞ ROXY Prague |  |
 | Sat, 19 Sept 2026 | MAINSTAGE PARTY ∞ ROXY Prague |  |
 | Fri, 25 Sept 2026 | Lilly Palmer ∞ ROXY Prague | Lilly Palmer |
@@ -18,9 +17,10 @@ Roxy is a music venue in Prague listed on soundcheck. 22 upcoming nights, with l
 | Fri, 9 Oct 2026 | Christian Löffler ∞ ROXY Prague | Christian Löffler |
 | Sat, 10 Oct 2026 | Swimming Paul ∞ ROXY Prague | Swimming Paul |
 | Fri, 16 Oct 2026 | CamelPhat ∞ ROXY Prague | CamelPhat |
+| Sat, 17 Oct 2026 | Pegassi ∞ ROXY Prague | Paul Krist, Pegassi |
 
 ## Address
 
 Dlouhá 33, 110 00 Praha 1, Prague, Czech Republic, Prague
 
-*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/prague/club/roxy/)*
+*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/prague/club/roxy/)*

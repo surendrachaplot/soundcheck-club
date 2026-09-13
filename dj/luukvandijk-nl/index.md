@@ -1,14 +1,13 @@
 # Luuk van Dijk
 
-Luuk van Dijk is a House and Tech House artist with 13 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Laagravense Plas, Utrecht on Sat, 12 Sept 2026.
+Luuk van Dijk is a House and Tech House artist with 12 upcoming club dates listed on soundcheck as of Sun, 13 Sept 2026, next at Hï Ibiza, Ibiza on Tue, 15 Sept 2026.
 
-Luuk van Dijk is a house and tech house artist tracked on soundcheck, with 235 sets logged across Amsterdam, Antwerp, Austin and Bali and 48 more. Often billed alongside L.P. Rhythm, Prunk and Max Dean. Next up: Laagravense Plas, Utrecht on Sat 12 Sept.
+Luuk van Dijk is a house and tech house artist tracked on soundcheck, with 235 sets logged across Amsterdam, Antwerp, Austin and Bali and 48 more. Often billed alongside L.P. Rhythm, Prunk and Max Dean. Next up: Hï Ibiza, Ibiza on Tue 15 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 12 Sept 2026 | Laagravense Plas | Utrecht |
 | Tue, 15 Sept 2026 | Hï Ibiza | Ibiza |
 | Fri, 18 Sept 2026 | UNO MALTA | Malta |
 | Fri, 18 Sept 2026 | Colorado Charlie | The Hague |
@@ -20,9 +19,11 @@ Luuk van Dijk is a house and tech house artist tracked on soundcheck, with 235 s
 | Sat, 10 Oct 2026 | Document | Bristol |
 | Fri, 23 Oct 2026 | Coda | Toronto |
 | Sun, 1 Nov 2026 | The Cause | London |
+| Wed, 9 Dec 2026 | Zumana Bali | Bali |
 
 ## Recently played
 
+- Laagravense Plas, Utrecht — Sat, 12 Sept 2026
 - Les Enfants Brillants, Barcelona — Fri, 11 Sept 2026
 - Hï Ibiza, Ibiza — Tue, 8 Sept 2026
 - Roberta's, New York City — Sun, 6 Sept 2026
@@ -30,10 +31,9 @@ Luuk van Dijk is a house and tech house artist tracked on soundcheck, with 235 s
 - The Swan, Nottingham — Sun, 30 Aug 2026
 - Van Nelle Fabriek, Rotterdam — Sat, 29 Aug 2026
 - Konijnenwei, Antwerp — Sat, 29 Aug 2026
-- Amnesia Ibiza, Ibiza — Thu, 27 Aug 2026
 
 ## Shares bills with
 
 L.P. Rhythm, Prunk, Max Dean
 
-*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/luukvandijk-nl/)*
+*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/luukvandijk-nl/)*

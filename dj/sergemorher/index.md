@@ -1,6 +1,6 @@
 # Serge Morher
 
-Serge Morher is a Downtempo and House artist with 1 upcoming club date listed on soundcheck as of Sat, 12 Sept 2026, next at Departamento, Mexico City on Wed, 9 Sept 2026.
+Serge Morher is a Downtempo and House artist with 1 upcoming club date listed on soundcheck as of Sun, 13 Sept 2026, next at Departamento, Mexico City on Wed, 9 Sept 2026.
 
 Serge Morher is a downtempo and house artist tracked on soundcheck, with 11 sets logged across Mexicocity. Often billed alongside EM2K, Alejandro Veneno and Bluecommand. Next up: Departamento, Mexicocity on Wed 9 Sept.
 
@@ -25,4 +25,4 @@ Serge Morher is a downtempo and house artist tracked on soundcheck, with 11 sets
 
 EM2K, Alejandro Veneno, Bluecommand
 
-*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sergemorher/)*
+*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sergemorher/)*

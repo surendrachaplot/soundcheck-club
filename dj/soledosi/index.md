@@ -1,14 +1,13 @@
 # SOLE DOSI
 
-SOLE DOSI is a Techno and House artist with 7 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Kaschemme Basel, Basel on Sat, 12 Sept 2026.
+SOLE DOSI is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Sun, 13 Sept 2026, next at KHIDI, Tbilisi on Fri, 18 Sept 2026.
 
-SOLE DOSI is a techno and house artist based in Italy, tracked on soundcheck, with 89 sets logged across Amsterdam, Athens, Basel and Berlin and 10 more. Often billed alongside Paula Sanz, Carmen Lisa (2) and Massi Rocket. Next up: Kaschemme Basel, Basel on Sat 12 Sept.
+SOLE DOSI is a techno and house artist based in Italy, tracked on soundcheck, with 89 sets logged across Amsterdam, Athens, Basel and Berlin and 10 more. Often billed alongside Paula Sanz, Carmen Lisa (2) and Massi Rocket. Next up: KHIDI, Tbilisi on Fri 18 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 12 Sept 2026 | Kaschemme Basel | Basel |
 | Fri, 18 Sept 2026 | KHIDI | Tbilisi |
 | Fri, 25 Sept 2026 | Q Club | Milan |
 | Sun, 27 Sept 2026 | DURO | Milan |
@@ -18,6 +17,7 @@ SOLE DOSI is a techno and house artist based in Italy, tracked on soundcheck, wi
 
 ## Recently played
 
+- Kaschemme Basel, Basel — Sat, 12 Sept 2026
 - Renate, Berlin — Sat, 5 Sept 2026
 - KREUZWERK, Berlin — Fri, 10 Jul 2026
 - Amsterdamse Bos, Amsterdam — Sat, 6 Jun 2026
@@ -25,10 +25,9 @@ SOLE DOSI is a techno and house artist based in Italy, tracked on soundcheck, wi
 - DURO, Milan — Sat, 30 May 2026
 - Circolo Magnolia, Milan — Fri, 29 May 2026
 - Mia Mao, Paris — Thu, 28 May 2026
-- De Fik Garden, Amsterdam — Fri, 22 May 2026
 
 ## Shares bills with
 
 Paula Sanz, Carmen Lisa (2), Massi Rocket
 
-*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/soledosi/)*
+*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/soledosi/)*

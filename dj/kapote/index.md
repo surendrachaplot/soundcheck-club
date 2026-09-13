@@ -1,14 +1,13 @@
 # Kapote
 
-Kapote is a House and Disco artist with 7 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Rex Club, Paris on Sat, 12 Sept 2026.
+Kapote is a House and Disco artist with 6 upcoming club dates listed on soundcheck as of Sun, 13 Sept 2026, next at SISSI'S Amsterdam, Amsterdam on Fri, 18 Sept 2026.
 
-Kapote is a house and disco artist tracked on soundcheck, with 224 sets logged across Amsterdam, Barcelona, Berlin and Brighton and 34 more. Often billed alongside Sam Ruffillo, Gee Lane and Cody Currie. Next up: Rex Club, Paris on Sat 12 Sept.
+Kapote is a house and disco artist tracked on soundcheck, with 224 sets logged across Amsterdam, Barcelona, Berlin and Brighton and 34 more. Often billed alongside Sam Ruffillo, Gee Lane and Cody Currie. Next up: SISSI'S Amsterdam, Amsterdam on Fri 18 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 12 Sept 2026 | Rex Club | Paris |
 | Fri, 18 Sept 2026 | SISSI'S Amsterdam | Amsterdam |
 | Sat, 19 Sept 2026 | Apollo Club Milano | Milan |
 | Fri, 2 Oct 2026 | Studio1111 | Berlin |
@@ -18,6 +17,7 @@ Kapote is a house and disco artist tracked on soundcheck, with 224 sets logged a
 
 ## Recently played
 
+- Rex Club, Paris — Sat, 12 Sept 2026
 - Klub Werkstatt, Copenhagen — Fri, 11 Sept 2026
 - LoHi, New York City — Sat, 5 Sept 2026
 - Studio1111, Berlin — Fri, 4 Sept 2026
@@ -25,10 +25,9 @@ Kapote is a house and disco artist tracked on soundcheck, with 224 sets logged a
 - Bahnwärter Thiel, Munich — Fri, 21 Aug 2026
 - La Pinilla Ski Resort, Madrid — Mon, 10 Aug 2026
 - TBA - Paradies Garten Festival - Schloß Prugg 2, 2460 Gemeinde Bruck an der Leitha, Vienna — Fri, 31 Jul 2026
-- Cabaret  Aléatoire, Marseille — Sat, 18 Jul 2026
 
 ## Shares bills with
 
 Sam Ruffillo, Gee Lane, Cody Currie
 
-*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kapote/)*
+*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kapote/)*

@@ -1,14 +1,13 @@
 # Charlie Sparks
 
-Charlie Sparks is a Techno and Trance artist with 5 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Matrez - Warehouse, Belgrade on Sat, 12 Sept 2026.
+Charlie Sparks is a Techno and Trance artist with 4 upcoming club dates listed on soundcheck as of Sun, 13 Sept 2026, next at Amnesia Ibiza, Ibiza on Sun, 20 Sept 2026.
 
-Charlie Sparks is a techno and trance artist tracked on soundcheck, with 257 sets logged across Aberdeen, Amsterdam, Athens and Barcelona and 62 more. Often billed alongside 999999999, Parfait and I Hate Models. Next up: Matrez - Warehouse, Belgrade on Sat 12 Sept.
+Charlie Sparks is a techno and trance artist tracked on soundcheck, with 257 sets logged across Aberdeen, Amsterdam, Athens and Barcelona and 62 more. Often billed alongside 999999999, Parfait and I Hate Models. Next up: Amnesia Ibiza, Ibiza on Sun 20 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 12 Sept 2026 | Matrez - Warehouse | Belgrade |
 | Sun, 20 Sept 2026 | Amnesia Ibiza | Ibiza |
 | Fri, 23 Oct 2026 | DRUMSHEDS | London |
 | Sat, 7 Nov 2026 | OST | Berlin |
@@ -16,6 +15,7 @@ Charlie Sparks is a techno and trance artist tracked on soundcheck, with 257 set
 
 ## Recently played
 
+- Matrez - Warehouse, Belgrade — Sat, 12 Sept 2026
 - Parc de la Serra de Mollerussa (Lérida), Barcelona — Sat, 5 Sept 2026
 - Kilomètre25, Paris — Fri, 4 Sept 2026
 - Boucher Road Fields, Belfast — Sat, 29 Aug 2026
@@ -23,10 +23,9 @@ Charlie Sparks is a techno and trance artist tracked on soundcheck, with 257 set
 - Eden, Ibiza — Tue, 25 Aug 2026
 - Hï Ibiza, Ibiza — Sun, 16 Aug 2026
 - Komplex Klub, Zurich — Sat, 8 Aug 2026
-- Boston Manor Park, London — Sun, 2 Aug 2026
 
 ## Shares bills with
 
 999999999, Parfait, I Hate Models
 
-*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/charliesparks/)*
+*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/charliesparks/)*

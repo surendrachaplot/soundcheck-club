@@ -1,6 +1,6 @@
 # The Art School
 
-The Art School is a music venue in Glasgow with 13 upcoming nights listed on soundcheck as of Sat, 12 Sept 2026; the next is "DUB CLUB: Charlie P & Hometown Sound System" on Thu, 17 Sept 2026.
+The Art School is a music venue in Glasgow with 13 upcoming nights listed on soundcheck as of Sun, 13 Sept 2026; the next is "DUB CLUB: Charlie P & Hometown Sound System" on Thu, 17 Sept 2026.
 
 The Art School is a music venue in Glasgow listed on soundcheck. 13 upcoming nights, with line-ups including Bash Man, Bonzai Bonner, Bristol Luke and Cari Lekebusch and 2 more. Browse upcoming dates, start times and who's playing. 20 Scott Street, Glasgow, G3 6RQ, Scotland, United Kingdom.
 
@@ -23,4 +23,4 @@ The Art School is a music venue in Glasgow listed on soundcheck. 13 upcoming nig
 
 20 Scott Street, Glasgow, G3 6RQ, Scotland, United Kingdom, Glasgow
 
-*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/the-art-school/)*
+*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/the-art-school/)*

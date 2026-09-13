@@ -1,14 +1,13 @@
 # Den Anden Side
 
-Den Anden Side is a music venue in Copenhagen with 12 upcoming nights listed on soundcheck as of Sat, 12 Sept 2026; the next is "Seaworld - Water From a Vine Leaf" on Sat, 12 Sept 2026.
+Den Anden Side is a music venue in Copenhagen with 11 upcoming nights listed on soundcheck as of Sun, 13 Sept 2026; the next is "CUETIES: hot mess!" on Fri, 18 Sept 2026.
 
-Den Anden Side is a music venue in Copenhagen listed on soundcheck. 12 upcoming nights, with line-ups including Alarico, AMORAL, Anastasia Kristensen and Anders Horse and 2 more. Browse upcoming dates, start times and who's playing. Axeltorv 5 1609 Copenhagen, Denmark.
+Den Anden Side is a music venue in Copenhagen listed on soundcheck. 11 upcoming nights, with line-ups including Alarico, AMORAL, Anastasia Kristensen and Anders HP and 2 more. Browse upcoming dates, start times and who's playing. Axeltorv 5 1609 Copenhagen, Denmark.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 12 Sept 2026 | Seaworld - Water From a Vine Leaf | Anders Horse, Peachlyfe, Tino, Vani Vachi, zamara |
 | Fri, 18 Sept 2026 | CUETIES: hot mess! | BIXBITA, Britney Speed, DJ BENDER, babysquid, vazkez |
 | Fri, 18 Sept 2026 | Miss Thing at Den Anden Ende | DJ Nah Care |
 | Sat, 19 Sept 2026 | GAGxDAS: THREE YEARS | ASTA MARI, Elliott Taguchi, LMN (1), Lorenzo Raganzini, steamboi |
@@ -18,9 +17,10 @@ Den Anden Side is a music venue in Copenhagen listed on soundcheck. 12 upcoming 
 | Fri, 2 Oct 2026 | ESCAPISM presents: MALUGI 3h set & More | Anders HP, B From E, Business Risky, CERJ, DJ Spice, DRABER666, Frida(y), From A To B, MALUGI, joa picaro |
 | Sat, 3 Oct 2026 | Postyr pres. Wallis | Elliott Taguchi, Johannes Astrup, Milo Makua, PAVI (3), Tino (3), Wallis |
 | Sat, 3 Oct 2026 | Don Vito's Corner at Den Anden Ende | Dico Nemus, Holysss, VI/TO |
+| Fri, 16 Oct 2026 | Eerste Communie x Den Anden Side | AMORAL, Anastasia Kristensen, Ignez, MARRØN |
 
 ## Address
 
 Axeltorv 5 1609 Copenhagen, Denmark, Copenhagen
 
-*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/copenhagen/club/den-anden-side/)*
+*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/copenhagen/club/den-anden-side/)*

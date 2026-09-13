@@ -1,14 +1,13 @@
 # Yanamaste
 
-Yanamaste is a Techno and House artist with 22 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Else, Berlin on Sat, 12 Sept 2026.
+Yanamaste is a Techno and House artist with 21 upcoming club dates listed on soundcheck as of Sun, 13 Sept 2026, next at Amnesia Ibiza, Ibiza on Tue, 15 Sept 2026.
 
-Yanamaste is a techno and house artist tracked on soundcheck, with 227 sets logged across Amsterdam, Athens, Barcelona and Basel and 57 more. Often billed alongside Alarico, Chlär and Grace Dahl. Next up: Else, Berlin on Sat 12 Sept.
+Yanamaste is a techno and house artist tracked on soundcheck, with 227 sets logged across Amsterdam, Athens, Barcelona and Basel and 57 more. Often billed alongside Alarico, Chlär and Grace Dahl. Next up: Amnesia Ibiza, Ibiza on Tue 15 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 12 Sept 2026 | Else | Berlin |
 | Tue, 15 Sept 2026 | Amnesia Ibiza | Ibiza |
 | Thu, 17 Sept 2026 | The Bassement | Madrid |
 | Fri, 18 Sept 2026 | IFEMA | Madrid |
@@ -20,9 +19,11 @@ Yanamaste is a techno and house artist tracked on soundcheck, with 227 sets logg
 | Sat, 3 Oct 2026 | Klein Phönix | Istanbul |
 | Fri, 9 Oct 2026 | Kompass Klub | Ghent |
 | Sat, 24 Oct 2026 | Havenpark | Amsterdam |
+| Sat, 24 Oct 2026 | Havenpark | Amsterdam |
 
 ## Recently played
 
+- Else, Berlin — Sat, 12 Sept 2026
 - Schrotty, Cologne — Fri, 11 Sept 2026
 - Amnesia Ibiza, Ibiza — Sun, 6 Sept 2026
 - Gate Milano, Milan — Sat, 5 Sept 2026
@@ -30,10 +31,9 @@ Yanamaste is a techno and house artist tracked on soundcheck, with 227 sets logg
 - Studio Club Malaga, Malaga — Fri, 4 Sept 2026
 - Amnesia Ibiza, Ibiza — Sun, 30 Aug 2026
 - Parc des Etangs/Vijverspark, Brussels — Fri, 14 Aug 2026
-- RSO.BERLIN, Berlin — Thu, 13 Aug 2026
 
 ## Shares bills with
 
 Alarico, Chlär, Grace Dahl
 
-*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/yanamaste/)*
+*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/yanamaste/)*

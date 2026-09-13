@@ -1,6 +1,6 @@
 # Tdesu
 
-Tdesu is a Club and R&B artist with 3 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at The Ballroom Bowl - John St, Toronto on Sun, 13 Sept 2026.
+Tdesu is a Club and R&B artist with 3 upcoming club dates listed on soundcheck as of Sun, 13 Sept 2026, next at The Ballroom Bowl - John St, Toronto on Sun, 13 Sept 2026.
 
 Tdesu is a club and r&b artist based in Canada, tracked on soundcheck, with 38 sets logged across Mexicocity, Montreal, Toronto and Vancouver. Often billed alongside gurafiku, INTROSPKT and Sudaneeya. Next up: The Ballroom Bowl - John St, Toronto on Sun 13 Sept.
 
@@ -27,4 +27,4 @@ Tdesu is a club and r&b artist based in Canada, tracked on soundcheck, with 38 s
 
 gurafiku, INTROSPKT, Sudaneeya
 
-*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tdesu/)*
+*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tdesu/)*

@@ -1,14 +1,13 @@
 # Academy LA
 
-Academy LA is a music venue in Los Angeles with 12 upcoming nights listed on soundcheck as of Sat, 12 Sept 2026; the next is "ATRIP B2B DJ BORING" on Sat, 12 Sept 2026.
+Academy LA is a music venue in Los Angeles with 11 upcoming nights listed on soundcheck as of Sun, 13 Sept 2026; the next is "Walker & Royce" on Fri, 18 Sept 2026.
 
-Academy LA is a music venue in Losangeles listed on soundcheck. 12 upcoming nights, with line-ups including AC Slater, ATRIP, Cosmic Gate and Desert Hearts and 2 more. Browse upcoming dates, start times and who's playing. 6021 Hollywood Blvd.  Los Angeles, CA 90028, USA.
+Academy LA is a music venue in Losangeles listed on soundcheck. 11 upcoming nights, with line-ups including AC Slater, Cosmic Gate, Desert Hearts and John Bryars and 2 more. Browse upcoming dates, start times and who's playing. 6021 Hollywood Blvd.  Los Angeles, CA 90028, USA.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 12 Sept 2026 | ATRIP B2B DJ BORING | ATRIP, DJ BORING |
 | Fri, 18 Sept 2026 | Walker & Royce | Walker & Royce |
 | Sat, 19 Sept 2026 | Marcel Dettmann, Sol Ortega, Perel, John Bryars | John Bryars, Marcel Dettmann, Perel, Sol Ortega |
 | Sat, 26 Sept 2026 | Cosmic Gate | Cosmic Gate |
@@ -18,9 +17,10 @@ Academy LA is a music venue in Losangeles listed on soundcheck. 12 upcoming nigh
 | Fri, 23 Oct 2026 | Marco Strous | Marco Strous |
 | Fri, 30 Oct 2026 | AC Slater (Halloween Weekend) | AC Slater |
 | Sat, 31 Oct 2026 | Morten (Halloween Night) | Morten |
+| Fri, 13 Nov 2026 | Angrybaby |  |
 
 ## Address
 
 6021 Hollywood Blvd.  Los Angeles, CA 90028, USA, Los Angeles
 
-*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/academy-la/)*
+*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/academy-la/)*

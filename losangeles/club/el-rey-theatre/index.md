@@ -1,6 +1,6 @@
 # El Rey Theatre
 
-El Rey Theatre is a music venue in Los Angeles with 6 upcoming nights listed on soundcheck as of Sat, 12 Sept 2026; the next is "Daniel Avery (Live)" on Thu, 17 Sept 2026.
+El Rey Theatre is a music venue in Los Angeles with 6 upcoming nights listed on soundcheck as of Sun, 13 Sept 2026; the next is "Daniel Avery (Live)" on Thu, 17 Sept 2026.
 
 El Rey Theatre is a music venue in Losangeles listed on soundcheck. 6 upcoming nights, with line-ups including Daniel Avery and DJ_Dave. Browse upcoming dates, start times and who's playing. 5515 Wilshire Blvd, Los Angeles, CA 90036.
 
@@ -19,4 +19,4 @@ El Rey Theatre is a music venue in Losangeles listed on soundcheck. 6 upcoming n
 
 5515 Wilshire Blvd, Los Angeles, CA 90036, Los Angeles
 
-*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/el-rey-theatre/)*
+*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/el-rey-theatre/)*

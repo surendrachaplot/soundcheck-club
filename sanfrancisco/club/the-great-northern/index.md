@@ -1,15 +1,13 @@
 # The Great Northern
 
-The Great Northern is a music venue in San Francisco/Oakland with 15 upcoming nights listed on soundcheck as of Sat, 12 Sept 2026; the next is "Mioli Music presents: Kausmic - Post Playa Party" on Sat, 12 Sept 2026.
+The Great Northern is a music venue in San Francisco/Oakland with 13 upcoming nights listed on soundcheck as of Sun, 13 Sept 2026; the next is "Night Vision - Sleazy Synths: Hopeless - DJ Cira - Saiman Li" on Fri, 18 Sept 2026.
 
-The Great Northern is a music venue in Sanfrancisco listed on soundcheck. 15 upcoming nights, with line-ups including Avalon Emerson, BEYA, Camillionaire and Dirac (US) and 2 more. Browse upcoming dates, start times and who's playing. 119 Utah St, San Francisco, CA 94103.
+The Great Northern is a music venue in Sanfrancisco listed on soundcheck. 13 upcoming nights, with line-ups including Avalon Emerson, BEYA, Camillionaire and DJ Cira and 2 more. Browse upcoming dates, start times and who's playing. 119 Utah St, San Francisco, CA 94103.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 12 Sept 2026 | Mioli Music presents: Kausmic - Post Playa Party | Dirac (US), Emanate, HIDRA, IZIK |
-| Sat, 12 Sept 2026 | MIOLI MUSIC pres. Kausmic: Post Playa Party | Dirac (US), Emanate, HIDRA, IZIK |
 | Fri, 18 Sept 2026 | Night Vision - Sleazy Synths: Hopeless - DJ Cira - Saiman Li | DJ Cira, Hopelesss |
 | Fri, 25 Sept 2026 | Ranger Trucco - The Great Northern | Loods, Ranger Trucco |
 | Sat, 26 Sept 2026 | Groove Armada - The Great Northern | Groove Armada |
@@ -18,9 +16,11 @@ The Great Northern is a music venue in Sanfrancisco listed on soundcheck. 15 upc
 | Fri, 9 Oct 2026 | SET with Woo York [Live] | Woo York |
 | Sat, 17 Oct 2026 | Lee Foss - The Great Northern | Lee Foss |
 | Sat, 17 Oct 2026 | SET with Lee Foss | Lee Foss |
+| Wed, 21 Oct 2026 | Nahko and Medicine for the People 'HOKA' 10th Anniversary Tour |  |
+| Fri, 23 Oct 2026 | ZOMBIE PROM - The Widdler & More! Halloween Costume Ball | Camillionaire, MiMOSA, NAYAN |
 
 ## Address
 
 119 Utah St, San Francisco, CA 94103, San Francisco/Oakland
 
-*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/the-great-northern/)*
+*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/the-great-northern/)*

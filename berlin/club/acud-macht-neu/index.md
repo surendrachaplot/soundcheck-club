@@ -1,6 +1,6 @@
 # Acud Macht NEU
 
-Acud Macht NEU is a music venue in Berlin with 4 upcoming nights listed on soundcheck as of Sat, 12 Sept 2026; the next is "Letzte Welle #5" on Sat, 26 Sept 2026.
+Acud Macht NEU is a music venue in Berlin with 4 upcoming nights listed on soundcheck as of Sun, 13 Sept 2026; the next is "Letzte Welle #5" on Sat, 26 Sept 2026.
 
 Acud Macht NEU is a music venue in Berlin listed on soundcheck. 4 upcoming nights, with line-ups including Charlotte Lion, LEYA, maniaclina and Testbild. Browse upcoming dates, start times and who's playing. Veteranenstraße 21, 10119 Berlin, Germany.
 
@@ -17,4 +17,4 @@ Acud Macht NEU is a music venue in Berlin listed on soundcheck. 4 upcoming night
 
 Veteranenstraße 21, 10119 Berlin, Germany, Berlin
 
-*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/acud-macht-neu/)*
+*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/acud-macht-neu/)*

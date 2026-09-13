@@ -1,19 +1,19 @@
 # Tsunamy
 
-Tsunamy is a Club and Baile Funk artist with 3 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Bogart House, New York City on Sat, 12 Sept 2026.
+Tsunamy is a Club and Baile Funk artist with 2 upcoming club dates listed on soundcheck as of Sun, 13 Sept 2026, next at Beursschouwburg, Brussels on Fri, 18 Sept 2026.
 
-Tsunamy is a club and baile funk artist tracked on soundcheck, with 70 sets logged across Amsterdam, Barcelona, Berlin and Brighton and 9 more. Often billed alongside Hey Bony, JVINCENT and LISAKEEKS. Next up: Bogart House, Newyorkcity on Sat 12 Sept.
+Tsunamy is a club and baile funk artist tracked on soundcheck, with 70 sets logged across Amsterdam, Barcelona, Berlin and Brighton and 9 more. Often billed alongside Hey Bony, JVINCENT and LISAKEEKS. Next up: Beursschouwburg, Brussels on Fri 18 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 12 Sept 2026 | Bogart House | New York City |
 | Fri, 18 Sept 2026 | Beursschouwburg | Brussels |
 | Fri, 23 Oct 2026 | Parallel | Amsterdam |
 
 ## Recently played
 
+- Bogart House, New York City — Sat, 12 Sept 2026
 - Planet Wax, London — Sat, 22 Aug 2026
 - Egg London, London — Fri, 21 Aug 2026
 - Garagen, Cologne — Fri, 14 Aug 2026
@@ -21,10 +21,9 @@ Tsunamy is a club and baile funk artist tracked on soundcheck, with 70 sets logg
 - Quarters, Brighton — Fri, 24 Jul 2026
 - TBA - 75011, Paris — Sun, 21 Jun 2026
 - EartH Kitchen, London — Sat, 13 Jun 2026
-- Jumbi, London — Fri, 22 May 2026
 
 ## Shares bills with
 
 Hey Bony, JVINCENT, LISAKEEKS
 
-*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tsunamy/)*
+*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tsunamy/)*

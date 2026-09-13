@@ -1,14 +1,13 @@
 # PIP Den Haag
 
-PIP Den Haag is a music venue in The Hague with 9 upcoming nights listed on soundcheck as of Sat, 12 Sept 2026; the next is "David Vunk 50 jaar: tegen alle verwachtingen in" on Sat, 12 Sept 2026.
+PIP Den Haag is a music venue in The Hague with 8 upcoming nights listed on soundcheck as of Sun, 13 Sept 2026; the next is "Afra invites Steve Rachmad & Queen Saba" on Sat, 19 Sept 2026.
 
-PIP Den Haag is a music venue in Thehague listed on soundcheck. 9 upcoming nights, with line-ups including Afra, David Vunk, Doppelgang and Eileen (NL) and 2 more. Browse upcoming dates, start times and who's playing. Binckhorstlaan 36; 2513 The Hague; Netherlands.
+PIP Den Haag is a music venue in Thehague listed on soundcheck. 8 upcoming nights, with line-ups including Afra, Intergalactic Gary, Jeans (NL) and Lobster (NL) and 2 more. Browse upcoming dates, start times and who's playing. Binckhorstlaan 36; 2513 The Hague; Netherlands.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 12 Sept 2026 | David Vunk 50 jaar: tegen alle verwachtingen in | David Vunk, Doppelgang, Eileen (NL), jannah |
 | Sat, 19 Sept 2026 | Afra invites Steve Rachmad & Queen Saba | Afra, Queen Saba, Steve Rachmad |
 | Sat, 26 Sept 2026 | PIP presents All Night Long with Vladimir Ivkovic B2B Intergalactic Gary | Intergalactic Gary, Vladimir Ivkovic |
 | Sat, 3 Oct 2026 | PIP meets Stingray 313 / mul/ANNA / KI/IP | mul/ANNA |
@@ -22,4 +21,4 @@ PIP Den Haag is a music venue in Thehague listed on soundcheck. 9 upcoming night
 
 Binckhorstlaan 36; 2513 The Hague; Netherlands, The Hague
 
-*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/thehague/club/pip-den-haag/)*
+*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/thehague/club/pip-den-haag/)*

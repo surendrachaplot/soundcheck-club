@@ -1,14 +1,13 @@
 # Tre Reynolds
 
-Tre Reynolds is a Tech House and House artist with 6 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Studio 338, London on Sat, 12 Sept 2026.
+Tre Reynolds is a Tech House and House artist with 5 upcoming club dates listed on soundcheck as of Sun, 13 Sept 2026, next at block., Dublin on Fri, 25 Sept 2026.
 
-Tre Reynolds is a tech house and house artist tracked on soundcheck, with 51 sets logged across Amsterdam, Barcelona, Berlin and Birmingham and 12 more. Often billed alongside AMMARA, Andhim and Armand Van Helden. Next up: Studio 338, London on Sat 12 Sept.
+Tre Reynolds is a tech house and house artist tracked on soundcheck, with 51 sets logged across Amsterdam, Barcelona, Berlin and Birmingham and 12 more. Often billed alongside AMMARA, Andhim and Armand Van Helden. Next up: block., Dublin on Fri 25 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 12 Sept 2026 | Studio 338 | London |
 | Fri, 25 Sept 2026 | block. | Dublin |
 | Sat, 26 Sept 2026 | Joshua Brooks | Manchester |
 | Sat, 26 Sept 2026 | Blackstone Street Warehouse | Liverpool |
@@ -17,6 +16,7 @@ Tre Reynolds is a tech house and house artist tracked on soundcheck, with 51 set
 
 ## Recently played
 
+- Studio 338, London — Sat, 12 Sept 2026
 - Ouseburn Garden, Newcastle — Sun, 2 Aug 2026
 - Ministry Of Sound, London — Sat, 11 Jul 2026
 - Barras Art & Design Centre, Glasgow — Sat, 27 Jun 2026
@@ -24,10 +24,9 @@ Tre Reynolds is a tech house and house artist tracked on soundcheck, with 51 set
 - Particular Mataró, Barcelona — Sun, 21 Jun 2026
 - FORGE, Sheffield — Sun, 24 May 2026
 - Mansion, Liverpool — Sun, 24 May 2026
-- UNLOCKED, London — Sat, 23 May 2026
 
 ## Shares bills with
 
 AMMARA, Andhim, Armand Van Helden
 
-*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/trereynolds/)*
+*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/trereynolds/)*

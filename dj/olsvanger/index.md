@@ -1,18 +1,18 @@
 # Olsvangèr
 
-Olsvangèr is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Romantso, Athens on Sat, 12 Sept 2026.
+Olsvangèr is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 13 Sept 2026, next at Houtbaar Haarlem, Amsterdam on Sat, 26 Sept 2026.
 
-Olsvangèr is a house and techno artist tracked on soundcheck, with 74 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 21 more. Often billed alongside MYKI, Niklas Wandt and Bijon. Next up: Romantso, Athens on Sat 12 Sept.
+Olsvangèr is a house and techno artist tracked on soundcheck, with 74 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 21 more. Often billed alongside MYKI, Niklas Wandt and Bijon. Next up: Houtbaar Haarlem, Amsterdam on Sat 26 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 12 Sept 2026 | Romantso | Athens |
 | Sat, 26 Sept 2026 | Houtbaar Haarlem | Amsterdam |
 
 ## Recently played
 
+- Romantso, Athens — Sat, 12 Sept 2026
 - Lux Fragil, Lisbon — Sat, 29 Aug 2026
 - TBA - Klingemühle, Berlin — Fri, 14 Aug 2026
 - Thuishaven, Amsterdam — Sat, 25 Jul 2026
@@ -20,10 +20,9 @@ Olsvangèr is a house and techno artist tracked on soundcheck, with 74 sets logg
 - Area_osaka, Osaka — Fri, 12 Jun 2026
 - Numm, Tokyo — Fri, 29 May 2026
 - BBCB: Beton Brut+Concrete Bar, Seoul — Fri, 22 May 2026
-- TBA - Mono By Phono, Makati, Manila — Fri, 15 May 2026
 
 ## Shares bills with
 
 MYKI, Niklas Wandt, Bijon
 
-*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/olsvanger/)*
+*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/olsvanger/)*

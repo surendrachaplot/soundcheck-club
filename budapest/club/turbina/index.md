@@ -1,14 +1,13 @@
 # Turbina
 
-Turbina is a music venue in Budapest with 8 upcoming nights listed on soundcheck as of Sat, 12 Sept 2026; the next is "Turbina SEASON OPENER" on Sat, 12 Sept 2026.
+Turbina is a music venue in Budapest with 7 upcoming nights listed on soundcheck as of Sun, 13 Sept 2026; the next is "KAKAÓ 016 with Auerbach, BALARAM, Flipo, Tündérke + Clubroom by Hardcore4Kidz" on Fri, 18 Sept 2026.
 
-Turbina is a music venue in Budapest listed on soundcheck. 8 upcoming nights, with line-ups including 96zen, Akác, Arash Ete and Auerbach and 2 more. Browse upcoming dates, start times and who's playing. Budapest, Vajdahunyad street 4., 1082.
+Turbina is a music venue in Budapest listed on soundcheck. 7 upcoming nights, with line-ups including 96zen, Akác, Arash Ete and Auerbach and 2 more. Browse upcoming dates, start times and who's playing. Budapest, Vajdahunyad street 4., 1082.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 12 Sept 2026 | Turbina SEASON OPENER | Akác, Indirect Movement, Sikztah, Switch Nollie |
 | Fri, 18 Sept 2026 | KAKAÓ 016 with Auerbach, BALARAM, Flipo, Tündérke + Clubroom by Hardcore4Kidz | Auerbach, BALARAM, Dink |
 | Sat, 19 Sept 2026 | ꧁ ༺ DEAD END season opening with ninnidslvx, Paralich ༻ ꧂ | NINNIDSLVX, Paralich |
 | Fri, 25 Sept 2026 | 5 Years of Memphis x The Balance with Fabe (Fashion Show) | Arash Ete, CRB, Fabe, Kiqo, Kiuz, Melody RA+RE, Stark (2), U-Seph, schraeder |
@@ -21,4 +20,4 @@ Turbina is a music venue in Budapest listed on soundcheck. 8 upcoming nights, wi
 
 Budapest, Vajdahunyad street 4., 1082, Budapest
 
-*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/budapest/club/turbina/)*
+*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/budapest/club/turbina/)*

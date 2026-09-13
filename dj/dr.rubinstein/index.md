@@ -1,6 +1,6 @@
 # Dr. Rubinstein
 
-Dr. Rubinstein is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Fvtvr, Paris on Sat, 12 Sept 2026.
+Dr. Rubinstein is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Sun, 13 Sept 2026, next at Fvtvr, Paris on Sat, 12 Sept 2026.
 
 Dr. Rubinstein is a techno and house artist tracked on soundcheck, with 202 sets logged across Amsterdam, Antwerp, Barcelona and Belgrade and 59 more. Often billed alongside Ellen Allien, Freddy K and Akua. Next up: Fvtvr, Paris on Sat 12 Sept.
 
@@ -17,6 +17,7 @@ Dr. Rubinstein is a techno and house artist tracked on soundcheck, with 202 sets
 
 ## Recently played
 
+- Fvtvr, Paris — Sat, 12 Sept 2026
 - TBA - Schwing und Stampf Festival, Zurich — Thu, 27 Aug 2026
 - Amsterdamse Bos, Amsterdam — Fri, 31 Jul 2026
 - Amsterdamse Bos, Amsterdam — Wed, 29 Jul 2026
@@ -24,10 +25,9 @@ Dr. Rubinstein is a techno and house artist tracked on soundcheck, with 202 sets
 - Macadam, Nantes — Fri, 3 Jul 2026
 - Mia Mao, Paris — Fri, 5 Jun 2026
 - Fuse, Brussels — Sat, 30 May 2026
-- Karmen Camina, Strasbourg — Sat, 23 May 2026
 
 ## Shares bills with
 
 Ellen Allien, Freddy K, Akua
 
-*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dr.rubinstein/)*
+*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dr.rubinstein/)*

@@ -1,6 +1,6 @@
 # Zenker Brothers
 
-Zenker Brothers is a Techno and House artist with 8 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Legal, Munich on Fri, 18 Sept 2026.
+Zenker Brothers is a Techno and House artist with 8 upcoming club dates listed on soundcheck as of Sun, 13 Sept 2026, next at Legal, Munich on Fri, 18 Sept 2026.
 
 Zenker Brothers is a techno and house artist tracked on soundcheck, with 148 sets logged across Amsterdam, Athens, Barcelona and Belfast and 40 more. Often billed alongside Stenny, Skee Mask and re:ni. Next up: Legal, Munich on Fri 18 Sept.
 
@@ -32,4 +32,4 @@ Zenker Brothers is a techno and house artist tracked on soundcheck, with 148 set
 
 Stenny, Skee Mask, re:ni
 
-*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/zenkerbrothers/)*
+*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/zenkerbrothers/)*

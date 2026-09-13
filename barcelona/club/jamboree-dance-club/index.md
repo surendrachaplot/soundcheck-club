@@ -1,6 +1,6 @@
 # Jamboree Dance Club
 
-Jamboree Dance Club is a music venue in Barcelona with 1 upcoming night listed on soundcheck as of Sat, 12 Sept 2026; the next is "Jamboree 2 (Bcn)" on Sat, 3 Oct 2026.
+Jamboree Dance Club is a music venue in Barcelona with 1 upcoming night listed on soundcheck as of Sun, 13 Sept 2026; the next is "Jamboree 2 (Bcn)" on Sat, 3 Oct 2026.
 
 Jamboree Dance Club is a music venue in Barcelona listed on soundcheck. 1 upcoming night, with line-ups including Maadraassoo. Browse upcoming dates, start times and who's playing. Pl. Reial, 17, 08002 Barcelona.
 
@@ -14,4 +14,4 @@ Jamboree Dance Club is a music venue in Barcelona listed on soundcheck. 1 upcomi
 
 Pl. Reial, 17, 08002 Barcelona, Barcelona
 
-*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/jamboree-dance-club/)*
+*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/jamboree-dance-club/)*

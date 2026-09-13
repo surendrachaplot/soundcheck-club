@@ -1,6 +1,6 @@
 # Katharine
 
-Katharine is a Minimal and House artist with 1 upcoming club date listed on soundcheck as of Sat, 12 Sept 2026, next at Solace, Melbourne on Sat, 19 Sept 2026.
+Katharine is a Minimal and House artist with 1 upcoming club date listed on soundcheck as of Sun, 13 Sept 2026, next at Solace, Melbourne on Sat, 19 Sept 2026.
 
 Katharine is a minimal and house artist tracked on soundcheck, with 41 sets logged across Brisbane, Melbourne and Sydney. Often billed alongside Blană, Cooper Dodge and Jules David. Next up: Solace, Melbourne on Sat 19 Sept.
 
@@ -25,4 +25,4 @@ Katharine is a minimal and house artist tracked on soundcheck, with 41 sets logg
 
 Blană, Cooper Dodge, Jules David
 
-*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/katharine-1/)*
+*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/katharine-1/)*

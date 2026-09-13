@@ -1,14 +1,13 @@
 # Jasna 1
 
-Jasna 1 is a music venue in Warsaw with 11 upcoming nights listed on soundcheck as of Sat, 12 Sept 2026; the next is "J1 - Warsaw United v.2 EDYKT x Bełkot x Wireframe x Narocz 13" on Sat, 12 Sept 2026.
+Jasna 1 is a music venue in Warsaw with 10 upcoming nights listed on soundcheck as of Sun, 13 Sept 2026; the next is "Miazmat OPEN CALL" on Fri, 18 Sept 2026.
 
-Jasna 1 is a music venue in Warsaw listed on soundcheck. 11 upcoming nights, with line-ups including 999999999, Aetha, Aii PS and blastah and 2 more. Browse upcoming dates, start times and who's playing. Jasna 1, 00-013 Warszawa.
+Jasna 1 is a music venue in Warsaw listed on soundcheck. 10 upcoming nights, with line-ups including 999999999, Aetha, Aii PS and blastah and 2 more. Browse upcoming dates, start times and who's playing. Jasna 1, 00-013 Warszawa.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 12 Sept 2026 | J1 - Warsaw United v.2 EDYKT x Bełkot x Wireframe x Narocz 13 | Dedenia, Doga, ILLEGAL, JKO, KANCIAK, Mohji, PayoYayo, Viennaus, Yaris, Zero_null, faron, gummi, hawwwa, illgal, m0nagenda |
 | Fri, 18 Sept 2026 | Miazmat OPEN CALL | Buchan, Edvvin, Louwave, Raketka, Splinter (UA), dd (PL) |
 | Sat, 19 Sept 2026 | J1 - D-Leria [LIVE], Michal Wolski [LIVE], Aetha, Xim | Aetha, D-Leria, Michal Wolski, Xim (BY) |
 | Fri, 25 Sept 2026 | JASNA 9TH BDAY — DAY 1  | Blazej Malinowski, DJ JM, Dresden, Gabrielle Kwarteng, Ivan Smagghe, Kovvalsky, Manfredas, Marie Pravda, Michalec, Ola Teks, PAWEL (PL) |
@@ -18,9 +17,10 @@ Jasna 1 is a music venue in Warsaw listed on soundcheck. 11 upcoming nights, wit
 | Fri, 9 Oct 2026 | TAXOPHONE by Emil Zenko | Emil Zenko |
 | Fri, 6 Nov 2026 | J1 - 999999999 | 999999999 |
 | Sat, 7 Nov 2026 | J1 - FJAAK | FJAAK |
+| Fri, 20 Nov 2026 | J1 - Freddy K | Freddy K |
 
 ## Address
 
 Jasna 1, 00-013 Warszawa, Warsaw
 
-*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/warsaw/club/jasna-1/)*
+*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/warsaw/club/jasna-1/)*

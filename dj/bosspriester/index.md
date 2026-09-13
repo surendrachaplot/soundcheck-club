@@ -1,14 +1,13 @@
 # Boss Priester
 
-Boss Priester is a House and Tech House artist with 13 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Studio 338, London on Sat, 12 Sept 2026.
+Boss Priester is a House and Tech House artist with 12 upcoming club dates listed on soundcheck as of Sun, 13 Sept 2026, next at UNO MALTA, Malta on Thu, 17 Sept 2026.
 
-Boss Priester is a house and tech house artist tracked on soundcheck, with 104 sets logged across Amsterdam, Antwerp, Barcelona and Berlin and 15 more. Often billed alongside Michel de Hey, Benny Rodrigues and Hidde van Wee. Next up: Studio 338, London on Sat 12 Sept.
+Boss Priester is a house and tech house artist tracked on soundcheck, with 104 sets logged across Amsterdam, Antwerp, Barcelona and Berlin and 15 more. Often billed alongside Michel de Hey, Benny Rodrigues and Hidde van Wee. Next up: UNO MALTA, Malta on Thu 17 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 12 Sept 2026 | Studio 338 | London |
 | Thu, 17 Sept 2026 | UNO MALTA | Malta |
 | Fri, 18 Sept 2026 | UNO MALTA | Malta |
 | Sun, 27 Sept 2026 | Thuishaven | Amsterdam |
@@ -20,9 +19,11 @@ Boss Priester is a house and tech house artist tracked on soundcheck, with 104 s
 | Fri, 23 Oct 2026 | Ndsm Wharf | Amsterdam |
 | Sat, 24 Oct 2026 | Pllek | Amsterdam |
 | Fri, 27 Nov 2026 | Depot Mayfield | Manchester |
+| Sat, 28 Nov 2026 | DRUMSHEDS | London |
 
 ## Recently played
 
+- Studio 338, London — Sat, 12 Sept 2026
 - The Loft, Manchester — Sat, 5 Sept 2026
 - 528 Ibiza, Ibiza — Fri, 4 Sept 2026
 - The Nest, Nottingham — Sun, 30 Aug 2026
@@ -30,10 +31,9 @@ Boss Priester is a house and tech house artist tracked on soundcheck, with 104 s
 - Toffler, Rotterdam — Fri, 28 Aug 2026
 - Boomerang Beach, The Hague — Fri, 21 Aug 2026
 - Shelter Amsterdam, Amsterdam — Fri, 21 Aug 2026
-- La Cheetah Club, Glasgow — Sat, 15 Aug 2026
 
 ## Shares bills with
 
 Michel de Hey, Benny Rodrigues, Hidde van Wee
 
-*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bosspriester/)*
+*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bosspriester/)*

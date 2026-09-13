@@ -1,6 +1,6 @@
 # Coeus
 
-Coeus is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 12 Sept 2026, next at Bolivar Beach Bar, Athens on Thu, 17 Sept 2026.
+Coeus is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sun, 13 Sept 2026, next at Bolivar Beach Bar, Athens on Thu, 17 Sept 2026.
 
 Coeus is a techno and house artist based in Serbia, tracked on soundcheck, with 43 sets logged across Amsterdam, Athens, Basel and Belgrade and 15 more. Often billed alongside Justrice, Ilija Djokovic and Lucien. Next up: Bolivar Beach Bar, Athens on Thu 17 Sept.
 
@@ -25,4 +25,4 @@ Coeus is a techno and house artist based in Serbia, tracked on soundcheck, with 
 
 Justrice, Ilija Djokovic, Lucien
 
-*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/coeus/)*
+*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/coeus/)*

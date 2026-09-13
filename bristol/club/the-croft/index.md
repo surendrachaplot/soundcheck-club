@@ -1,6 +1,6 @@
 # The Croft
 
-The Croft is a music venue in Bristol with 11 upcoming nights listed on soundcheck as of Sat, 12 Sept 2026; the next is "Croft Tuesdays: Neev + Friends w/ Basscat, Big Asian Guy, Contraflow + more" on Tue, 15 Sept 2026.
+The Croft is a music venue in Bristol with 11 upcoming nights listed on soundcheck as of Sun, 13 Sept 2026; the next is "Croft Tuesdays: Neev + Friends w/ Basscat, Big Asian Guy, Contraflow + more" on Tue, 15 Sept 2026.
 
 The Croft is a music venue in Bristol listed on soundcheck. 11 upcoming nights, with line-ups including Buckley (UK), Captain Wallop, Deselecta and Duality and 2 more. Browse upcoming dates, start times and who's playing. 117-119 Stokes Croft, Bristol, BS1 3RW, United Kingdom.
 
@@ -23,4 +23,4 @@ The Croft is a music venue in Bristol listed on soundcheck. 11 upcoming nights, 
 
 117-119 Stokes Croft, Bristol, BS1 3RW, United Kingdom, Bristol
 
-*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/bristol/club/the-croft/)*
+*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/bristol/club/the-croft/)*

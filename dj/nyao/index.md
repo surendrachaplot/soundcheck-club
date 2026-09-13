@@ -1,6 +1,6 @@
 # NYAO
 
-NYAO is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at TBA -    Kodamanomori Camp Ground, Nagano, Tokyo on Fri, 11 Sept 2026.
+NYAO is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Sun, 13 Sept 2026, next at TBA -    Kodamanomori Camp Ground, Nagano, Tokyo on Fri, 11 Sept 2026.
 
 NYAO is a techno and house artist based in Japan, tracked on soundcheck, with 69 sets logged across Paris and Tokyo. Often billed alongside MUNEMASA, Sakuma and Shelly. Next up: TBA -    Kodamanomori Camp Ground, Nagano, Tokyo on Fri 11 Sept.
 
@@ -27,4 +27,4 @@ NYAO is a techno and house artist based in Japan, tracked on soundcheck, with 69
 
 MUNEMASA, Sakuma, Shelly
 
-*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nyao/)*
+*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nyao/)*

@@ -1,6 +1,6 @@
 # Carina Posse
 
-Carina Posse is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Hoppetosse, Berlin on Fri, 11 Sept 2026.
+Carina Posse is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sun, 13 Sept 2026, next at Hoppetosse, Berlin on Fri, 11 Sept 2026.
 
 Carina Posse is a techno and house artist tracked on soundcheck, with 18 sets logged across Berlin and Leipzig. Often billed alongside Barnemax, Coco and Empro. Next up: Hoppetosse, Berlin on Fri 11 Sept.
 
@@ -9,7 +9,6 @@ Carina Posse is a techno and house artist tracked on soundcheck, with 18 sets lo
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 11 Sept 2026 | Hoppetosse | Berlin |
-| Fri, 11 Sept 2026 | Birgit | Berlin |
 
 ## Recently played
 
@@ -26,4 +25,4 @@ Carina Posse is a techno and house artist tracked on soundcheck, with 18 sets lo
 
 Barnemax, Coco, Empro
 
-*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/carinaposse/)*
+*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/carinaposse/)*

@@ -1,14 +1,13 @@
 # The Roundhouse
 
-The Roundhouse is a music venue in London with 10 upcoming nights listed on soundcheck as of Sat, 12 Sept 2026; the next is "Bellaire & Friends @ Roundhouse: Bellaire + Dublon + Jeremy Underground" on Sat, 12 Sept 2026.
+The Roundhouse is a music venue in London with 9 upcoming nights listed on soundcheck as of Sun, 13 Sept 2026; the next is "Nu Genea" on Sat, 19 Sept 2026.
 
-The Roundhouse is a music venue in London listed on soundcheck. 10 upcoming nights, with line-ups including ALLKNIGHT, Bellaire, Ben UFO and Caiiro and 2 more. Browse upcoming dates, start times and who's playing. Chalk Farm Road; Camden Town; London NW1 8EH; United Kingdom.
+The Roundhouse is a music venue in London listed on soundcheck. 9 upcoming nights, with line-ups including ALLKNIGHT, Ben UFO, Caiiro and Calibre and 2 more. Browse upcoming dates, start times and who's playing. Chalk Farm Road; Camden Town; London NW1 8EH; United Kingdom.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 12 Sept 2026 | Bellaire & Friends @ Roundhouse: Bellaire + Dublon + Jeremy Underground | Bellaire, Dublon, Jeremy Underground |
 | Sat, 19 Sept 2026 | Nu Genea | Nu Genea |
 | Fri, 2 Oct 2026 | Silva Bumpa | Silva Bumpa |
 | Fri, 23 Oct 2026 | Ben UFO | Ben UFO |
@@ -23,4 +22,4 @@ The Roundhouse is a music venue in London listed on soundcheck. 10 upcoming nigh
 
 Chalk Farm Road; Camden Town; London NW1 8EH; United Kingdom, London
 
-*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/the-roundhouse/)*
+*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/the-roundhouse/)*

@@ -1,19 +1,19 @@
 # KALTBLUME
 
-KALTBLUME is a Techno and Industrial artist with 3 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Le Kilowatt, Paris on Sat, 12 Sept 2026.
+KALTBLUME is a Techno and Industrial artist with 2 upcoming club dates listed on soundcheck as of Sun, 13 Sept 2026, next at RADION, Amsterdam on Fri, 25 Sept 2026.
 
-KALTBLUME is a techno and industrial artist based in France, tracked on soundcheck, with 29 sets logged across Amsterdam, Berlin, Milan and Nantes and 2 more. Often billed alongside KUSS, RUIZ OSC1 and Elios. Next up: Le Kilowatt, Paris on Sat 12 Sept.
+KALTBLUME is a techno and industrial artist based in France, tracked on soundcheck, with 29 sets logged across Amsterdam, Berlin, Milan and Nantes and 2 more. Often billed alongside KUSS, RUIZ OSC1 and Elios. Next up: RADION, Amsterdam on Fri 25 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 12 Sept 2026 | Le Kilowatt | Paris |
 | Fri, 25 Sept 2026 | RADION | Amsterdam |
 | Sat, 10 Oct 2026 | KALT | Strasbourg |
 
 ## Recently played
 
+- Le Kilowatt, Paris — Sat, 12 Sept 2026
 - La Station - Gare des Mines, Paris — Sat, 15 Aug 2026
 - Mia Mao, Paris — Fri, 19 Jun 2026
 - Petit Bain, Paris — Fri, 12 Jun 2026
@@ -21,10 +21,9 @@ KALTBLUME is a techno and industrial artist based in France, tracked on soundche
 - RADION, Amsterdam — Fri, 20 Mar 2026
 - TBA - Warehouse, Paris — Sat, 7 Mar 2026
 - Tresor / Globus, Berlin — Mon, 2 Feb 2026
-- Tunnel, Milan — Fri, 30 Jan 2026
 
 ## Shares bills with
 
 KUSS, RUIZ OSC1, Elios
 
-*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kaltblume/)*
+*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kaltblume/)*

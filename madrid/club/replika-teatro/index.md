@@ -1,6 +1,6 @@
 # Replika Teatro
 
-Replika Teatro is a music venue in Madrid with 1 upcoming night listed on soundcheck as of Sat, 12 Sept 2026; the next is "LAGRIMA: Katarina Gryvul (live) + Tarara! (live)" on Sat, 19 Sept 2026.
+Replika Teatro is a music venue in Madrid with 1 upcoming night listed on soundcheck as of Sun, 13 Sept 2026; the next is "LAGRIMA: Katarina Gryvul (live) + Tarara! (live)" on Sat, 19 Sept 2026.
 
 Replika Teatro is a music venue in Madrid listed on soundcheck. 1 upcoming night, with line-ups including Katarina Gryvul. Browse upcoming dates, start times and who's playing. Calle Explanada, 14, 28040 Madrid Spain.
 
@@ -14,4 +14,4 @@ Replika Teatro is a music venue in Madrid listed on soundcheck. 1 upcoming night
 
 Calle Explanada, 14, 28040 Madrid Spain, Madrid
 
-*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/replika-teatro/)*
+*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/replika-teatro/)*

@@ -1,20 +1,20 @@
 # Callado
 
-Callado is a Techno and Trance artist with 4 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Void Club, Berlin on Sat, 12 Sept 2026.
+Callado is a Techno and Trance artist with 3 upcoming club dates listed on soundcheck as of Sun, 13 Sept 2026, next at DNA. CLUB, Berlin on Sat, 19 Sept 2026.
 
-Callado is a techno and trance artist based in Germany, tracked on soundcheck, with 11 sets logged across Berlin. Often billed alongside Obelisk030, Obelisk and SALCHIKILLER. Next up: Void Club, Berlin on Sat 12 Sept.
+Callado is a techno and trance artist based in Germany, tracked on soundcheck, with 11 sets logged across Berlin. Often billed alongside Obelisk030, Obelisk and SALCHIKILLER. Next up: DNA. CLUB, Berlin on Sat 19 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 12 Sept 2026 | Void Club | Berlin |
 | Sat, 19 Sept 2026 | DNA. CLUB | Berlin |
 | Sun, 20 Sept 2026 | Lokschuppen Berlin | Berlin |
 | Sat, 10 Oct 2026 | Humboldthain Club | Berlin |
 
 ## Recently played
 
+- Void Club, Berlin — Sat, 12 Sept 2026
 - Void Club, Berlin — Fri, 31 Jul 2026
 - OST, Berlin — Fri, 3 Jul 2026
 - Humboldthain Club, Berlin — Sat, 23 May 2026
@@ -27,4 +27,4 @@ Callado is a techno and trance artist based in Germany, tracked on soundcheck, w
 
 Obelisk030, Obelisk, SALCHIKILLER
 
-*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/callado/)*
+*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/callado/)*

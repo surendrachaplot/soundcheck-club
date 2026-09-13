@@ -1,14 +1,13 @@
 # akii
 
-akii is a Bass and Dub artist with 6 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at R Lounge, Tokyo on Sat, 12 Sept 2026.
+akii is a Bass and Dub artist with 5 upcoming club dates listed on soundcheck as of Sun, 13 Sept 2026, next at Oath, Tokyo on Sun, 20 Sept 2026.
 
-akii is a bass and dub artist tracked on soundcheck, with 56 sets logged across Barcelona, Berlin, Kyoto and Tokyo. Often billed alongside M.I.O, Aliceyuki and Andrew (TREKKIE TRAX). Next up: R Lounge, Tokyo on Sat 12 Sept.
+akii is a bass and dub artist tracked on soundcheck, with 56 sets logged across Barcelona, Berlin, Kyoto and Tokyo. Often billed alongside M.I.O, Aliceyuki and Andrew (TREKKIE TRAX). Next up: Oath, Tokyo on Sun 20 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 12 Sept 2026 | R Lounge | Tokyo |
 | Sun, 20 Sept 2026 | Oath | Tokyo |
 | Mon, 21 Sept 2026 | Enter Shibuya | Tokyo |
 | Thu, 15 Oct 2026 | ZEROTOKYO | Tokyo |
@@ -17,6 +16,7 @@ akii is a bass and dub artist tracked on soundcheck, with 56 sets logged across 
 
 ## Recently played
 
+- R Lounge, Tokyo — Sat, 12 Sept 2026
 - TBA - La Cinc de Apolo, Barcelona — Sat, 15 Aug 2026
 - Azumaya, Tokyo — Sat, 1 Aug 2026
 - Queendom, Tokyo — Sat, 11 Jul 2026
@@ -24,10 +24,9 @@ akii is a bass and dub artist tracked on soundcheck, with 56 sets logged across 
 - Live Haus, Tokyo — Fri, 3 Jul 2026
 - R Lounge, Tokyo — Sat, 20 Jun 2026
 - Queendom Tokyo, Tokyo — Sat, 13 Jun 2026
-- HVEN, Tokyo — Fri, 12 Jun 2026
 
 ## Shares bills with
 
 M.I.O, Aliceyuki, Andrew (TREKKIE TRAX)
 
-*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/akii/)*
+*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/akii/)*

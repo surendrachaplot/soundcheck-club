@@ -1,6 +1,6 @@
 # Poppy (BE)
 
-Poppy (BE) is a House and Electro artist with 1 upcoming club date listed on soundcheck as of Sat, 12 Sept 2026, next at La Java, Paris on Fri, 2 Oct 2026.
+Poppy (BE) is a House and Electro artist with 1 upcoming club date listed on soundcheck as of Sun, 13 Sept 2026, next at La Java, Paris on Fri, 2 Oct 2026.
 
 Poppy (BE) is a house and electro artist based in Belgium, tracked on soundcheck, with 46 sets logged across Amsterdam, Berlin, Brussels and Ghent and 2 more. Often billed alongside PHIL (5), Ava Eva and DJ Rino. Next up: La Java, Paris on Fri 2 Oct.
 
@@ -25,4 +25,4 @@ Poppy (BE) is a house and electro artist based in Belgium, tracked on soundcheck
 
 PHIL (5), Ava Eva, DJ Rino
 
-*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/poppy-be/)*
+*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/poppy-be/)*

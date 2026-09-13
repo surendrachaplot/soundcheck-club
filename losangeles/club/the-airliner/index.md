@@ -1,14 +1,13 @@
 # The Airliner
 
-The Airliner is a music venue in Los Angeles with 6 upcoming nights listed on soundcheck as of Sat, 12 Sept 2026; the next is "HOOD RAVE: THE AIRLINER TAKEOVER" on Sat, 12 Sept 2026.
+The Airliner is a music venue in Los Angeles with 5 upcoming nights listed on soundcheck as of Sun, 13 Sept 2026; the next is "The One Hundred" on Fri, 18 Sept 2026.
 
-The Airliner is a music venue in Losangeles listed on soundcheck. 6 upcoming nights, with line-ups including Aaron Paar, Andy Oro, Celia Hollander and Codiac and 2 more. Browse upcoming dates, start times and who's playing. 2419 N Broadway, Los Angeles, CA 90036.
+The Airliner is a music venue in Losangeles listed on soundcheck. 5 upcoming nights, with line-ups including Aaron Paar, Andy Oro, Celia Hollander and Codiac and 2 more. Browse upcoming dates, start times and who's playing. 2419 N Broadway, Los Angeles, CA 90036.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 12 Sept 2026 | HOOD RAVE: THE AIRLINER TAKEOVER | DJ Kita, MARCHANTE, Oscar Osorio, Silhouwet, Sonrisita |
 | Fri, 18 Sept 2026 | The One Hundred |  |
 | Sat, 19 Sept 2026 | Jon Hassell Listening Party | Celia Hollander, Jon Hassell, Photay |
 | Thu, 24 Sept 2026 | ÆFFECT RADIO 16-Year Anniversary Party | Codiac, Freeman 713, Songco, Wheez-ie, Yessi |
@@ -19,4 +18,4 @@ The Airliner is a music venue in Losangeles listed on soundcheck. 6 upcoming nig
 
 2419 N Broadway, Los Angeles, CA 90036, Los Angeles
 
-*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/the-airliner/)*
+*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/the-airliner/)*

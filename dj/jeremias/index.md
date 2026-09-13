@@ -1,6 +1,6 @@
 # Jeremias
 
-Jeremias is a Electro and House artist with 1 upcoming club date listed on soundcheck as of Sat, 12 Sept 2026, next at TBA - cisco seaport, Boston on Sun, 20 Sept 2026.
+Jeremias is a Electro and House artist with 1 upcoming club date listed on soundcheck as of Sun, 13 Sept 2026, next at TBA - cisco seaport, Boston on Sun, 20 Sept 2026.
 
 Jeremias is an electro and house artist tracked on soundcheck, with 5 sets logged across Boston, Budapest and Miami. Often billed alongside Adam Bogdan, Retronika and AMÉMÉ. Next up: TBA - cisco seaport, Boston on Sun 20 Sept.
 
@@ -21,4 +21,4 @@ Jeremias is an electro and house artist tracked on soundcheck, with 5 sets logge
 
 Adam Bogdan, Retronika, AMÉMÉ
 
-*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jeremias/)*
+*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jeremias/)*

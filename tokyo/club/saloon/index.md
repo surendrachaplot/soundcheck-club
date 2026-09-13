@@ -1,14 +1,13 @@
 # Saloon
 
-Saloon is a music venue in Tokyo with 9 upcoming nights listed on soundcheck as of Sat, 12 Sept 2026; the next is "UP YA ARCHIVES × attic" on Sat, 12 Sept 2026.
+Saloon is a music venue in Tokyo with 8 upcoming nights listed on soundcheck as of Sun, 13 Sept 2026; the next is "PLANT x HI-LITE LAUNCH & VIDEO PREMIERE PARTY" on Sat, 19 Sept 2026.
 
-Saloon is a music venue in Tokyo listed on soundcheck. 9 upcoming nights, with line-ups including Albino Sound, comm, Dayzero and Do Shock Booze and 2 more. Browse upcoming dates, start times and who's playing. 1-34-17 ZA House Bldg B3F, Ebisu-nishi, Shibuya-ku, Tokyo,  Japan.
+Saloon is a music venue in Tokyo listed on soundcheck. 8 upcoming nights, with line-ups including Albino Sound, comm, Dayzero and Do Shock Booze and 2 more. Browse upcoming dates, start times and who's playing. 1-34-17 ZA House Bldg B3F, Ebisu-nishi, Shibuya-ku, Tokyo,  Japan.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 12 Sept 2026 | UP YA ARCHIVES × attic | HALU(Tribal Connection), Nia Archives, Ryota (JP), nasthug |
 | Sat, 19 Sept 2026 | PLANT x HI-LITE LAUNCH & VIDEO PREMIERE PARTY |  |
 | Sat, 19 Sept 2026 | Mitsubishi Afterhours II | Hue Ray, Yuoto Saito, lostbaggage |
 | Mon, 21 Sept 2026 | CONNECTOR |  |
@@ -22,4 +21,4 @@ Saloon is a music venue in Tokyo listed on soundcheck. 9 upcoming nights, with l
 
 1-34-17 ZA House Bldg B3F, Ebisu-nishi, Shibuya-ku, Tokyo,  Japan, Tokyo
 
-*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/saloon/)*
+*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/saloon/)*

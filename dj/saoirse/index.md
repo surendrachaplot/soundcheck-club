@@ -1,14 +1,13 @@
 # Saoirse
 
-Saoirse is a House and Techno artist with 11 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Palmerstown House Estate, Dublin on Fri, 11 Sept 2026.
+Saoirse is a House and Techno artist with 10 upcoming club dates listed on soundcheck as of Sun, 13 Sept 2026, next at Amnesia Ibiza, Ibiza on Sun, 13 Sept 2026.
 
-Saoirse is a house and techno artist tracked on soundcheck, with 188 sets logged across Amsterdam, Bali, Bangkok and Barcelona and 41 more. Often billed alongside Mella Dee, Shanti Celeste and Job Jobse. Next up: Palmerstown House Estate, Dublin on Fri 11 Sept.
+Saoirse is a house and techno artist tracked on soundcheck, with 188 sets logged across Amsterdam, Bali, Bangkok and Barcelona and 41 more. Often billed alongside Mella Dee, Shanti Celeste and Job Jobse. Next up: Amnesia Ibiza, Ibiza on Sun 13 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 11 Sept 2026 | Palmerstown House Estate | Dublin |
 | Sun, 13 Sept 2026 | Amnesia Ibiza | Ibiza |
 | Sun, 13 Sept 2026 | Jardins de Joan Brossa | Barcelona |
 | Fri, 18 Sept 2026 | UNO MALTA | Malta |
@@ -35,4 +34,4 @@ Saoirse is a house and techno artist tracked on soundcheck, with 188 sets logged
 
 Mella Dee, Shanti Celeste, Job Jobse
 
-*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/saoirse/)*
+*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/saoirse/)*

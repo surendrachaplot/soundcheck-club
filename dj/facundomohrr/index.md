@@ -1,19 +1,19 @@
 # Facundo Mohrr
 
-Facundo Mohrr is a Deep House and House artist with 3 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at TBA - Deseo Club, Villa Ortuzar, Buenos Aires on Sat, 12 Sept 2026.
+Facundo Mohrr is a Deep House and House artist with 2 upcoming club dates listed on soundcheck as of Sun, 13 Sept 2026, next at Cova Santa, Ibiza on Thu, 17 Sept 2026.
 
-Facundo Mohrr is a deep house and house artist tracked on soundcheck, with 65 sets logged across Barcelona, Berlin, Buenosaires and Denver and 13 more. Often billed alongside Lee Burridge, Tim Green and Maxi Degrassi. Next up: TBA - Deseo Club, Villa Ortuzar, Buenosaires on Sat 12 Sept.
+Facundo Mohrr is a deep house and house artist tracked on soundcheck, with 65 sets logged across Barcelona, Berlin, Buenosaires and Denver and 13 more. Often billed alongside Lee Burridge, Tim Green and Maxi Degrassi. Next up: Cova Santa, Ibiza on Thu 17 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 12 Sept 2026 | TBA - Deseo Club, Villa Ortuzar | Buenos Aires |
 | Thu, 17 Sept 2026 | Cova Santa | Ibiza |
 | Sat, 10 Oct 2026 | TBA - Finca El Recreo, Cafayate, Salta | Buenos Aires |
 
 ## Recently played
 
+- TBA - Deseo Club, Villa Ortuzar, Buenos Aires — Sat, 12 Sept 2026
 - TBA - Private Location, San Diego — Sun, 12 Jul 2026
 - Luz De Gas, Barcelona — Tue, 23 Jun 2026
 - Seaseaclub Barcelona, Barcelona — Fri, 19 Jun 2026
@@ -21,10 +21,9 @@ Facundo Mohrr is a deep house and house artist tracked on soundcheck, with 65 se
 - The Great Northern, San Francisco/Oakland — Sat, 6 Jun 2026
 - Luz De Gas, Barcelona — Sat, 16 May 2026
 - TBA - Deseo Club, Villa Ortuzar, Buenos Aires — Sat, 9 May 2026
-- House of Yes, New York City — Sat, 28 Feb 2026
 
 ## Shares bills with
 
 Lee Burridge, Tim Green, Maxi Degrassi
 
-*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/facundomohrr/)*
+*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/facundomohrr/)*

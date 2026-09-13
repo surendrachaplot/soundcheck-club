@@ -1,15 +1,13 @@
 # Hidden
 
-Hidden is a music venue in Manchester with 28 upcoming nights listed on soundcheck as of Sat, 12 Sept 2026; the next is "Somatics presents " on Sat, 12 Sept 2026.
+Hidden is a music venue in Manchester with 26 upcoming nights listed on soundcheck as of Sun, 13 Sept 2026; the next is "Start of Term Warehouse Rave: Joe Hunt, LLEAHDAVIES, Higgo, SHUFFA" on Thu, 17 Sept 2026.
 
-Hidden is a music venue in Manchester listed on soundcheck. 28 upcoming nights, with line-ups including Amelia Leigh, Andre Zimmer, Camille Doe and CBABY and 2 more. Browse upcoming dates, start times and who's playing. 17 DownTex Mill, Mary Street, Manchester, M3 1DZ, United Kingdom.
+Hidden is a music venue in Manchester listed on soundcheck. 26 upcoming nights, with line-ups including Amelia Leigh, Andre Zimmer, Camille Doe and CBABY and 2 more. Browse upcoming dates, start times and who's playing. 17 DownTex Mill, Mary Street, Manchester, M3 1DZ, United Kingdom.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 12 Sept 2026 | Somatics presents  | GFA, INLIMEN, Nestor (IE), Toobris |
-| Sat, 12 Sept 2026 | Majefa Underground Trance V2 | Solarstone |
 | Thu, 17 Sept 2026 | Start of Term Warehouse Rave: Joe Hunt, LLEAHDAVIES, Higgo, SHUFFA | DJANGO (NL), Higgo, LLEAHDAVIES, Reimond, SHADEV, SHUFFA |
 | Fri, 18 Sept 2026 | Teletech: Manchester Mandidextrous | CBABY, Dj Schnake, Ephy Pinkman, Gullyteen, Laze, Mandidextrous, Mollie Rush, Princess Elf Bar |
 | Sat, 19 Sept 2026 | Scrambled Network presents: Pure Science (live) | Pure Science |
@@ -18,9 +16,11 @@ Hidden is a music venue in Manchester listed on soundcheck. 28 upcoming nights, 
 | Mon, 21 Sept 2026 | Ghosts of Garage: A FRESH START | Charlie Shell, Chunky, LARISHKA (UK), Lemtom, MUCKANIKS, Rich Reason, T-Man (UK) |
 | Thu, 24 Sept 2026 | Jungle & DnB Rave: Fixate b2b Fracture, VXRGO, Trends  | Fixate, Fracture, Hanz, Kahn, Sir Spyro, Tailor Jae, Trends, VXRGO |
 | Fri, 25 Sept 2026 | The Egyptian Lover & FREAKENSTEIN - REC. x Hidden  | Egyptian Lover, FREAKENSTEIN, Rhod Parry |
+| Sat, 26 Sept 2026 | Hit & Run presents CLASSIC vs FUTURE JUNGLE with Wiley (Jungle set) & SLM | DJ Brockie, Jazzy Lioness, Nookie (UK), Rich Reason, Sexy Lady Massive, T-Man (UK), Wiley |
+| Sat, 3 Oct 2026 | Hidden presents: Delilah, Jakkob  | Delilah, Jakkob |
 
 ## Address
 
 17 DownTex Mill, Mary Street, Manchester, M3 1DZ, United Kingdom, Manchester
 
-*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/hidden/)*
+*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/hidden/)*

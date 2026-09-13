@@ -1,14 +1,13 @@
 # jannah
 
-jannah is a Techno and Electro artist with 7 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at PIP Den Haag, The Hague on Sat, 12 Sept 2026.
+jannah is a Techno and Electro artist with 6 upcoming club dates listed on soundcheck as of Sun, 13 Sept 2026, next at Radio Radio, Amsterdam on Sat, 19 Sept 2026.
 
-jannah is a techno and electro artist tracked on soundcheck, with 64 sets logged across Amsterdam, Rotterdam, Thehague and Utrecht. Often billed alongside David Vunk, Serge and Afra. Next up: PIP Den Haag, Thehague on Sat 12 Sept.
+jannah is a techno and electro artist tracked on soundcheck, with 64 sets logged across Amsterdam, Rotterdam, Thehague and Utrecht. Often billed alongside David Vunk, Serge and Afra. Next up: Radio Radio, Amsterdam on Sat 19 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 12 Sept 2026 | PIP Den Haag | The Hague |
 | Sat, 19 Sept 2026 | Radio Radio | Amsterdam |
 | Sat, 26 Sept 2026 | Skatecafe | Amsterdam |
 | Sun, 4 Oct 2026 | Hito Scheveningen | The Hague |
@@ -18,6 +17,7 @@ jannah is a techno and electro artist tracked on soundcheck, with 64 sets logged
 
 ## Recently played
 
+- PIP Den Haag, The Hague — Sat, 12 Sept 2026
 - export, Rotterdam — Fri, 28 Aug 2026
 - De Fik Garden, Amsterdam — Thu, 27 Aug 2026
 - Bar Dancing Multipla, Amsterdam — Fri, 26 Jun 2026
@@ -25,10 +25,9 @@ jannah is a techno and electro artist tracked on soundcheck, with 64 sets logged
 - NAR, Utrecht — Fri, 19 Jun 2026
 - Radio Radio, Amsterdam — Thu, 18 Jun 2026
 - Keilecafe, Rotterdam — Sat, 30 May 2026
-- nachbar, Amsterdam — Fri, 22 May 2026
 
 ## Shares bills with
 
 David Vunk, Serge, Afra
 
-*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jannah-2/)*
+*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jannah-2/)*

@@ -1,17 +1,18 @@
 # Kagurane
 
-Kagurane is a music venue in Tokyo with 1 upcoming night listed on soundcheck as of Sat, 12 Sept 2026; the next is "En" on Sat, 19 Sept 2026.
+Kagurane is a music venue in Tokyo with 2 upcoming nights listed on soundcheck as of Sun, 13 Sept 2026; the next is "En" on Sat, 19 Sept 2026.
 
-Kagurane is a music venue in Tokyo listed on soundcheck. 1 upcoming night, with line-ups including C-KAY, karanaki, Koichi Shimizu and Moli (3). Browse upcoming dates, start times and who's playing. B1F TOMOS-Bildg. 6 Kagurazaka, Shinjuku, Tokyo. 162-0825.
+Kagurane is a music venue in Tokyo listed on soundcheck. 2 upcoming nights, with line-ups including C-KAY, karanaki, Koichi Shimizu and Moli (3). Browse upcoming dates, start times and who's playing. B1F TOMOS-Bildg. 6 Kagurazaka, Shinjuku, Tokyo. 162-0825.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
 | Sat, 19 Sept 2026 | En | C-KAY, Koichi Shimizu, Moli (3), karanaki |
+| Sun, 25 Oct 2026 | Luuudic Cuuube Vol.1 Produced by U-nel |  |
 
 ## Address
 
 B1F TOMOS-Bildg. 6 Kagurazaka, Shinjuku, Tokyo. 162-0825, Tokyo
 
-*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/kagurane/)*
+*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/kagurane/)*

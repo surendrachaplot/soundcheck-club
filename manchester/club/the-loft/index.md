@@ -1,14 +1,13 @@
 # The Loft
 
-The Loft is a music venue in Manchester with 21 upcoming nights listed on soundcheck as of Sat, 12 Sept 2026; the next is "Huerta & Youandewan at The Loft" on Sat, 12 Sept 2026.
+The Loft is a music venue in Manchester with 20 upcoming nights listed on soundcheck as of Sun, 13 Sept 2026; the next is "The Loft: Us Two (All Night Long)" on Thu, 17 Sept 2026.
 
-The Loft is a music venue in Manchester listed on soundcheck. 21 upcoming nights, with line-ups including Fastlove, Alexander Skancke, Alexia Glensy and Angel D'lite and 2 more. Browse upcoming dates, start times and who's playing. Unit 1, New Street, Manchester, M40 8AW.
+The Loft is a music venue in Manchester listed on soundcheck. 20 upcoming nights, with line-ups including Fastlove, Alexander Skancke, Alexia Glensy and Angel D'lite and 2 more. Browse upcoming dates, start times and who's playing. Unit 1, New Street, Manchester, M40 8AW.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 12 Sept 2026 | Huerta & Youandewan at The Loft | Dylan Whicher, Emile, Huerta, Mase (2), Ruby Ruby, Youandewan |
 | Thu, 17 Sept 2026 | The Loft: Us Two (All Night Long) | Us Two |
 | Fri, 18 Sept 2026 | The Loft: Joss Dean (All Night Long) | Joss Dean |
 | Sat, 19 Sept 2026 | The Loft: Voigtmann & Samuel Deep (All Night Long) | Samuel Deep, Voigtmann |
@@ -18,9 +17,10 @@ The Loft is a music venue in Manchester listed on soundcheck. 21 upcoming nights
 | Thu, 1 Oct 2026 | The Loft: Gigsta (All Night Long) |  |
 | Sat, 3 Oct 2026 | The Loft: Kyle Starkey & Entasia | Entasia, Kyle Starkey |
 | Thu, 8 Oct 2026 | The Loft: Bushbaby (All Night Long) | Bushbaby |
+| Fri, 9 Oct 2026 | tINI AND THE GANG: tINI, Angel D'lite & Fastlove | Angel D'lite, Fastlove, tINI |
 
 ## Address
 
 Unit 1, New Street, Manchester, M40 8AW, Manchester
 
-*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/the-loft/)*
+*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/the-loft/)*

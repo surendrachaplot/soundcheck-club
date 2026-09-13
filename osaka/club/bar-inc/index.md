@@ -1,14 +1,13 @@
 # BAR Inc
 
-BAR Inc is a music venue in Osaka with 22 upcoming nights listed on soundcheck as of Sat, 12 Sept 2026; the next is "WEEKEND SELECTERS" on Sat, 12 Sept 2026.
+BAR Inc is a music venue in Osaka with 21 upcoming nights listed on soundcheck as of Sun, 13 Sept 2026; the next is "HOLIDAY ORDERS" on Sun, 13 Sept 2026.
 
-BAR Inc is a music venue in Osaka listed on soundcheck. 22 upcoming nights, with line-ups including ANCHIN, AOKI takamasa, Big Animal Theory and Bloody Cheeki $odz and 2 more. Browse upcoming dates, start times and who's playing. B1F, 3-10-19 Minamisenba, Chuo-ku, Osaka 542-0081, Japan.
+BAR Inc is a music venue in Osaka listed on soundcheck. 21 upcoming nights, with line-ups including ANCHIN, AOKI takamasa, Bloody Cheeki $odz and Bon (13) and 2 more. Browse upcoming dates, start times and who's playing. B1F, 3-10-19 Minamisenba, Chuo-ku, Osaka 542-0081, Japan.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 12 Sept 2026 | WEEKEND SELECTERS | Big Animal Theory, HIMAWARI, kengotaki |
 | Sun, 13 Sept 2026 | HOLIDAY ORDERS | DJ SPOT, Federico Molinari, Tomoya Furukawa |
 | Mon, 14 Sept 2026 | WEEKDAY ORDERS |  |
 | Tue, 15 Sept 2026 | WEEKDAY ORDERS |  |
@@ -18,9 +17,10 @@ BAR Inc is a music venue in Osaka listed on soundcheck. 22 upcoming nights, with
 | Sat, 19 Sept 2026 | WEEKEND SELECTERS |  |
 | Sun, 20 Sept 2026 | WEEKEND SELECTERS | ANCHIN, Steven Julien |
 | Mon, 21 Sept 2026 | WEEKEND SELECTERS |  |
+| Tue, 22 Sept 2026 | WEEKEND SELECTERS | Bloody Cheeki $odz, Bon (13), KOSEI, cazbow, nazanael |
 
 ## Address
 
 B1F, 3-10-19 Minamisenba, Chuo-ku, Osaka 542-0081, Japan, Osaka
 
-*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/osaka/club/bar-inc/)*
+*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/osaka/club/bar-inc/)*

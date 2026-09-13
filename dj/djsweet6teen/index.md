@@ -1,6 +1,6 @@
 # dj sweet6teen
 
-dj sweet6teen is a House and Techno artist with 8 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at The Cause, London on Sat, 12 Sept 2026.
+dj sweet6teen is a House and Techno artist with 8 upcoming club dates listed on soundcheck as of Sun, 13 Sept 2026, next at The Cause, London on Sat, 12 Sept 2026.
 
 dj sweet6teen is a house and techno artist tracked on soundcheck, with 240 sets logged across Amsterdam, Antwerp, Bangkok and Barcelona and 45 more. Often billed alongside Angel D'lite, Sansibar and Peach. Next up: The Cause, London on Sat 12 Sept.
 
@@ -19,6 +19,7 @@ dj sweet6teen is a house and techno artist tracked on soundcheck, with 240 sets 
 
 ## Recently played
 
+- The Cause, London — Sat, 12 Sept 2026
 - Prince Charles, Berlin — Fri, 11 Sept 2026
 - Club der Visionaere, Berlin — Mon, 24 Aug 2026
 - SAGE, Berlin — Sat, 8 Aug 2026
@@ -26,10 +27,9 @@ dj sweet6teen is a house and techno artist tracked on soundcheck, with 240 sets 
 - BLITZ, Munich — Fri, 31 Jul 2026
 - Jolene, Copenhagen — Fri, 31 Jul 2026
 - The Cause, London — Sat, 25 Jul 2026
-- TILLATEC, Amsterdam — Sat, 11 Jul 2026
 
 ## Shares bills with
 
 Angel D'lite, Sansibar, Peach
 
-*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djsweet6teen/)*
+*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djsweet6teen/)*

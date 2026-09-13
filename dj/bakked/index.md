@@ -1,18 +1,18 @@
 # Bakked
 
-Bakked is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Bunker, Turin on Sat, 12 Sept 2026.
+Bakked is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 13 Sept 2026, next at Forte Antenne, Rome on Sat, 19 Sept 2026.
 
-Bakked is a house and techno artist tracked on soundcheck, with 30 sets logged across Amsterdam, Barcelona, Berlin and Brussels and 9 more. Often billed alongside Alex Dima, Cristian Sarde and Denaila. Next up: Bunker, Turin on Sat 12 Sept.
+Bakked is a house and techno artist tracked on soundcheck, with 30 sets logged across Amsterdam, Barcelona, Berlin and Brussels and 9 more. Often billed alongside Alex Dima, Cristian Sarde and Denaila. Next up: Forte Antenne, Rome on Sat 19 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 12 Sept 2026 | Bunker | Turin |
 | Sat, 19 Sept 2026 | Forte Antenne | Rome |
 
 ## Recently played
 
+- Bunker, Turin — Sat, 12 Sept 2026
 - Combo Torino, Turin — Sun, 21 Jun 2026
 - Bunker, Turin — Mon, 1 Jun 2026
 - Distrikt, Leeds — Fri, 29 May 2026
@@ -20,10 +20,9 @@ Bakked is a house and techno artist tracked on soundcheck, with 30 sets logged a
 - Art Club, Marseille — Fri, 21 Nov 2025
 - TILLATEC, Amsterdam — Mon, 27 Oct 2025
 - TBA - OGR Torino Sala Fucine, Turin — Fri, 3 Oct 2025
-- Bunker, Turin — Sat, 20 Sept 2025
 
 ## Shares bills with
 
 Alex Dima, Cristian Sarde, Denaila
 
-*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bakked/)*
+*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bakked/)*

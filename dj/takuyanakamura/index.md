@@ -1,14 +1,13 @@
 # Takuya Nakamura
 
-Takuya Nakamura is a Jungle and Jazz artist with 18 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at 29th Street Ballroom, Austin on Sat, 12 Sept 2026.
+Takuya Nakamura is a Jungle and Jazz artist with 17 upcoming club dates listed on soundcheck as of Sun, 13 Sept 2026, next at Elsewhere, New York City on Fri, 25 Sept 2026.
 
-Takuya Nakamura is a jungle and jazz artist tracked on soundcheck, with 112 sets logged across Amsterdam, Austin, Bangkok and Barcelona and 40 more. Often billed alongside rmzi, Aanandi and Doc Scott. Next up: 29th Street Ballroom, Austin on Sat 12 Sept.
+Takuya Nakamura is a jungle and jazz artist tracked on soundcheck, with 112 sets logged across Amsterdam, Austin, Bangkok and Barcelona and 40 more. Often billed alongside rmzi, Aanandi and Doc Scott. Next up: Elsewhere, Newyorkcity on Fri 25 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 12 Sept 2026 | 29th Street Ballroom | Austin |
 | Fri, 25 Sept 2026 | Elsewhere | New York City |
 | Sat, 3 Oct 2026 | Carriageworks | Sydney |
 | Sun, 4 Oct 2026 | Pica (Port Melbourne Industrial Centre for the Arts) | Melbourne |
@@ -20,9 +19,11 @@ Takuya Nakamura is a jungle and jazz artist tracked on soundcheck, with 112 sets
 | Sat, 24 Oct 2026 | Sub Club | Glasgow |
 | Sun, 25 Oct 2026 | Sneaky Pete's | Edinburgh |
 | Fri, 30 Oct 2026 | The Limelight | Belfast |
+| Sat, 7 Nov 2026 | Various Venues, Bristol | Bristol |
 
 ## Recently played
 
+- 29th Street Ballroom, Austin — Sat, 12 Sept 2026
 - Village Studios, Vancouver — Sat, 5 Sept 2026
 - Star Theater, Portland — Fri, 4 Sept 2026
 - Cervantes' Other Side, Denver — Fri, 28 Aug 2026
@@ -30,10 +31,9 @@ Takuya Nakamura is a jungle and jazz artist tracked on soundcheck, with 112 sets
 - RUST, Copenhagen — Fri, 21 Aug 2026
 - Tresor / Globus, Berlin — Wed, 29 Jul 2026
 - Tresor / Globus, Berlin — Wed, 1 Jul 2026
-- TBA - Paradise City Festival, Brussels — Fri, 26 Jun 2026
 
 ## Shares bills with
 
 rmzi, Aanandi, Doc Scott
 
-*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/takuyanakamura/)*
+*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/takuyanakamura/)*

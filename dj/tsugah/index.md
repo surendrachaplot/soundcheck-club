@@ -1,6 +1,6 @@
 # T & Sugah
 
-T & Sugah is a Drum & Bass and Jungle artist with 2 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at F8 1192 Folsom, San Francisco/Oakland on Sun, 13 Sept 2026.
+T & Sugah is a Drum & Bass and Jungle artist with 2 upcoming club dates listed on soundcheck as of Sun, 13 Sept 2026, next at F8 1192 Folsom, San Francisco/Oakland on Sun, 13 Sept 2026.
 
 T & Sugah are a drum & bass and jungle duo tracked on soundcheck, with 49 sets logged across Amsterdam, Antwerp, Barcelona and Berlin and 21 more. Often billed alongside Delta Heavy, Mozey and Pola & Bryson. Next up: F8 1192 Folsom, Sanfrancisco on Sun 13 Sept.
 
@@ -26,4 +26,4 @@ T & Sugah are a drum & bass and jungle duo tracked on soundcheck, with 49 sets l
 
 Delta Heavy, Mozey, Pola & Bryson
 
-*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tsugah/)*
+*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tsugah/)*

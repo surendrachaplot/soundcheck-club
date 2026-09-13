@@ -1,14 +1,13 @@
 # YELLOWUHURU
 
-YELLOWUHURU is a House and Techno artist with 7 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at WOMB, Tokyo on Sat, 12 Sept 2026.
+YELLOWUHURU is a House and Techno artist with 6 upcoming club dates listed on soundcheck as of Sun, 13 Sept 2026, next at Club Metro, Kyoto on Mon, 21 Sept 2026.
 
-YELLOWUHURU is a house and techno artist tracked on soundcheck, with 197 sets logged across Bangkok, Berlin, Hongkong and Kyoto and 5 more. Often billed alongside suimin, YAMARCHY and bungo. Next up: WOMB, Tokyo on Sat 12 Sept.
+YELLOWUHURU is a house and techno artist tracked on soundcheck, with 197 sets logged across Bangkok, Berlin, Hongkong and Kyoto and 5 more. Often billed alongside suimin, YAMARCHY and bungo. Next up: Club Metro, Kyoto on Mon 21 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 12 Sept 2026 | WOMB | Tokyo |
 | Mon, 21 Sept 2026 | Club Metro | Kyoto |
 | Wed, 23 Sept 2026 | DJ Bar Bridge Shinjuku | Tokyo |
 | Thu, 24 Sept 2026 | clubasia | Tokyo |
@@ -18,6 +17,7 @@ YELLOWUHURU is a house and techno artist tracked on soundcheck, with 197 sets lo
 
 ## Recently played
 
+- WOMB, Tokyo — Sat, 12 Sept 2026
 - Saloon, Tokyo — Mon, 7 Sept 2026
 - Dual, Bangkok — Fri, 28 Aug 2026
 - Mitsuki, Tokyo — Wed, 26 Aug 2026
@@ -25,10 +25,9 @@ YELLOWUHURU is a house and techno artist tracked on soundcheck, with 197 sets lo
 - Mitsuki, Tokyo — Thu, 20 Aug 2026
 - Forestlimit, Tokyo — Sat, 15 Aug 2026
 - Oath, Tokyo — Wed, 5 Aug 2026
-- clubasia, Tokyo — Thu, 30 Jul 2026
 
 ## Shares bills with
 
 suimin, YAMARCHY, bungo
 
-*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/yellowuhuru/)*
+*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/yellowuhuru/)*

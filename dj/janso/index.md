@@ -1,6 +1,6 @@
 # JANSØ
 
-JANSØ is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Spkrbox, Detroit on Sun, 13 Sept 2026.
+JANSØ is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sun, 13 Sept 2026, next at Spkrbox, Detroit on Sun, 13 Sept 2026.
 
 JANSØ is a techno and house artist tracked on soundcheck, with 7 sets logged across Detroit. Often billed alongside Redax, DJ Candor and Dru Ruiz. Next up: Spkrbox, Detroit on Sun 13 Sept.
 
@@ -23,4 +23,4 @@ JANSØ is a techno and house artist tracked on soundcheck, with 7 sets logged ac
 
 Redax, DJ Candor, Dru Ruiz
 
-*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/janso/)*
+*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/janso/)*

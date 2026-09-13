@@ -1,20 +1,20 @@
 # Harrison Heat
 
-Harrison Heat is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Natbar / Bremen Teater, Copenhagen on Sat, 12 Sept 2026.
+Harrison Heat is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Sun, 13 Sept 2026, next at Hangaren, Copenhagen on Sat, 19 Sept 2026.
 
-Harrison Heat is a house and techno artist tracked on soundcheck, with 77 sets logged across Copenhagen and Nantes. Often billed alongside Anna Logic, Lucky Lube and Prom Night. Next up: Natbar / Bremen Teater, Copenhagen on Sat 12 Sept.
+Harrison Heat is a house and techno artist tracked on soundcheck, with 77 sets logged across Copenhagen and Nantes. Often billed alongside Anna Logic, Lucky Lube and Prom Night. Next up: Hangaren, Copenhagen on Sat 19 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 12 Sept 2026 | Natbar / Bremen Teater | Copenhagen |
 | Sat, 19 Sept 2026 | Hangaren | Copenhagen |
 | Sat, 19 Sept 2026 | Hangaren | Copenhagen |
 | Fri, 16 Oct 2026 | KB3 | Copenhagen |
 
 ## Recently played
 
+- Natbar / Bremen Teater, Copenhagen — Sat, 12 Sept 2026
 - Pylonen - Frizonen Langebro, Copenhagen — Fri, 4 Sept 2026
 - Klub Werkstatt, Copenhagen — Fri, 21 Aug 2026
 - Hangaren, Copenhagen — Fri, 14 Aug 2026
@@ -22,10 +22,9 @@ Harrison Heat is a house and techno artist tracked on soundcheck, with 77 sets l
 - Hangaren, Copenhagen — Fri, 10 Jul 2026
 - Jolene, Copenhagen — Sat, 20 Jun 2026
 - Natbar / Bremen Teater, Copenhagen — Sat, 6 Jun 2026
-- Sønder Boulevard 110, Copenhagen — Thu, 4 Jun 2026
 
 ## Shares bills with
 
 Anna Logic, Lucky Lube, Prom Night
 
-*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/harrisonheat/)*
+*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/harrisonheat/)*

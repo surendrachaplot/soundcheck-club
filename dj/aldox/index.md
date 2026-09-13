@@ -1,6 +1,6 @@
 # ALDOX
 
-ALDOX is a Techno and Electronica artist with 1 upcoming club date listed on soundcheck as of Sat, 12 Sept 2026, next at Drama Radio Bar, Mexico City on Wed, 9 Sept 2026.
+ALDOX is a Techno and Electronica artist with 1 upcoming club date listed on soundcheck as of Sun, 13 Sept 2026, next at Drama Radio Bar, Mexico City on Wed, 9 Sept 2026.
 
 ALDOX is a techno and electronica artist based in Mexico, tracked on soundcheck, with 7 sets logged across Mexicocity. Often billed alongside Cler., AAAA and Alexa Rosas. Next up: Drama Radio Bar, Mexicocity on Wed 9 Sept.
 
@@ -24,4 +24,4 @@ ALDOX is a techno and electronica artist based in Mexico, tracked on soundcheck,
 
 Cler., AAAA, Alexa Rosas
 
-*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/aldox/)*
+*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/aldox/)*

@@ -1,6 +1,6 @@
 # DJ Paul C
 
-DJ Paul C is a Drum & Bass and Jungle artist with 1 upcoming club date listed on soundcheck as of Sat, 12 Sept 2026, next at The Delancey, New York City on Sun, 13 Sept 2026.
+DJ Paul C is a Drum & Bass and Jungle artist with 1 upcoming club date listed on soundcheck as of Sun, 13 Sept 2026, next at The Delancey, New York City on Sun, 13 Sept 2026.
 
 DJ Paul C is a drum & bass and jungle artist tracked on soundcheck, with 43 sets logged across Newyorkcity. Often billed alongside Hector Mamajuana, MIZTAH LEX and Christian Bruna. Next up: The Delancey, Newyorkcity on Sun 13 Sept.
 
@@ -25,4 +25,4 @@ DJ Paul C is a drum & bass and jungle artist tracked on soundcheck, with 43 sets
 
 Hector Mamajuana, MIZTAH LEX, Christian Bruna
 
-*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djpaulc/)*
+*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djpaulc/)*

@@ -1,6 +1,6 @@
 # Ryan Elliott
 
-Ryan Elliott is a House and Techno artist with 13 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at RSO.BERLIN, Berlin on Sat, 12 Sept 2026.
+Ryan Elliott is a House and Techno artist with 13 upcoming club dates listed on soundcheck as of Sun, 13 Sept 2026, next at RSO.BERLIN, Berlin on Sat, 12 Sept 2026.
 
 Ryan Elliott is a house and techno artist tracked on soundcheck, with 246 sets logged across Amsterdam, Antwerp, Barcelona and Belfast and 57 more. Often billed alongside Ogazón, Christian AB and PARAMIDA. Next up: RSO.BERLIN, Berlin on Sat 12 Sept.
 
@@ -23,6 +23,7 @@ Ryan Elliott is a house and techno artist tracked on soundcheck, with 246 sets l
 
 ## Recently played
 
+- RSO.BERLIN, Berlin — Sat, 12 Sept 2026
 - Amnesia Ibiza, Ibiza — Tue, 8 Sept 2026
 - Shelter Amsterdam, Amsterdam — Sat, 5 Sept 2026
 - Gewölbe, Cologne — Fri, 4 Sept 2026
@@ -30,10 +31,9 @@ Ryan Elliott is a house and techno artist tracked on soundcheck, with 246 sets l
 - Boomerang Beach, The Hague — Sat, 15 Aug 2026
 - Berghain | Panorama Bar | Säule, Berlin — Sat, 15 Aug 2026
 - Parc des Etangs/Vijverspark, Brussels — Fri, 14 Aug 2026
-- 528 Ibiza, Ibiza — Sun, 9 Aug 2026
 
 ## Shares bills with
 
 Ogazón, Christian AB, PARAMIDA
 
-*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ryanelliott/)*
+*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ryanelliott/)*

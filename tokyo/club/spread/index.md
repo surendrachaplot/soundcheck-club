@@ -1,6 +1,6 @@
 # Spread
 
-Spread is a music venue in Tokyo with 13 upcoming nights listed on soundcheck as of Sat, 12 Sept 2026; the next is "SLOW" on Sun, 13 Sept 2026.
+Spread is a music venue in Tokyo with 13 upcoming nights listed on soundcheck as of Sun, 13 Sept 2026; the next is "SLOW" on Sun, 13 Sept 2026.
 
 Spread is a music venue in Tokyo listed on soundcheck. 13 upcoming nights, with line-ups including Aoto, Mazlika and Mizuki. Browse upcoming dates, start times and who's playing. 2-12-6 Kitazawa, Setagaya-ku, Tokyo, 155-0031 Japan.
 
@@ -23,4 +23,4 @@ Spread is a music venue in Tokyo listed on soundcheck. 13 upcoming nights, with 
 
 2-12-6 Kitazawa, Setagaya-ku, Tokyo, 155-0031 Japan, Tokyo
 
-*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/spread/)*
+*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/spread/)*

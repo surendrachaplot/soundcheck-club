@@ -1,14 +1,13 @@
 # SHDW
 
-SHDW is a Techno and House artist with 14 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at SMUT Athens, Athens on Sat, 12 Sept 2026.
+SHDW is a Techno and House artist with 13 upcoming club dates listed on soundcheck as of Sun, 13 Sept 2026, next at Hangaren, Copenhagen on Fri, 18 Sept 2026.
 
-SHDW is a techno and house artist tracked on soundcheck, with 205 sets logged across Amsterdam, Antwerp, Athens and Austin and 62 more. Often billed alongside ANNĒ, Alarico and Lars Huismann. Next up: SMUT Athens, Athens on Sat 12 Sept.
+SHDW is a techno and house artist tracked on soundcheck, with 205 sets logged across Amsterdam, Antwerp, Athens and Austin and 62 more. Often billed alongside ANNĒ, Alarico and Lars Huismann. Next up: Hangaren, Copenhagen on Fri 18 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 12 Sept 2026 | SMUT Athens | Athens |
 | Fri, 18 Sept 2026 | Hangaren | Copenhagen |
 | Fri, 25 Sept 2026 | BASEMENT | New York City |
 | Sat, 26 Sept 2026 | Tangent Gallery | Detroit |
@@ -20,9 +19,11 @@ SHDW is a techno and house artist tracked on soundcheck, with 205 sets logged ac
 | Fri, 30 Oct 2026 | Hive Club | Zurich |
 | Fri, 27 Nov 2026 | Lardner Park | Melbourne |
 | Sat, 28 Nov 2026 | Manning Bar | Sydney |
+| Fri, 4 Dec 2026 | fi | Cologne |
 
 ## Recently played
 
+- SMUT Athens, Athens — Sat, 12 Sept 2026
 - ART Madrid Club, Madrid — Fri, 11 Sept 2026
 - Junkyard Dortmund, Dortmund-essen — Sat, 5 Sept 2026
 - Garage Klub, Antwerp — Sat, 5 Sept 2026
@@ -30,10 +31,9 @@ SHDW is a techno and house artist tracked on soundcheck, with 205 sets logged ac
 - Dürener Badesee, Cologne — Fri, 28 Aug 2026
 - Dürener Badesee, Cologne — Fri, 28 Aug 2026
 - Fridas Pier, Stuttgart — Fri, 21 Aug 2026
-- Gianpula Village, Malta — Wed, 12 Aug 2026
 
 ## Shares bills with
 
 ANNĒ, Alarico, Lars Huismann
 
-*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/shdw/)*
+*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/shdw/)*

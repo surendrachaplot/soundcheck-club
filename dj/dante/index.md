@@ -1,6 +1,6 @@
 # Dante
 
-Dante is a House and Club artist with 1 upcoming club date listed on soundcheck as of Sat, 12 Sept 2026, next at Auditorium Parco della Musica, Rome on Sat, 12 Sept 2026.
+Dante is a House and Club artist with 1 upcoming club date listed on soundcheck as of Sun, 13 Sept 2026, next at Auditorium Parco della Musica, Rome on Sat, 12 Sept 2026.
 
 Dante is a house and club artist based in Italy, tracked on soundcheck, with 51 sets logged across Amsterdam, Athens, Barcelona and Berlin and 12 more. Often billed alongside Leo Benassi, Guglielmo Bernardini and AGNES (IT). Next up: Auditorium Parco della Musica, Rome on Sat 12 Sept.
 
@@ -12,6 +12,7 @@ Dante is a house and club artist based in Italy, tracked on soundcheck, with 51 
 
 ## Recently played
 
+- Auditorium Parco della Musica, Rome — Sat, 12 Sept 2026
 - Barco Sound House, Madrid — Thu, 10 Sept 2026
 - TBA - Villa di Fiorano - Via di Fioranello 18, Rome — Sun, 19 Jul 2026
 - The Cause, London — Sat, 27 Jun 2026
@@ -19,10 +20,9 @@ Dante is a house and club artist based in Italy, tracked on soundcheck, with 51 
 - Apollo Club Milano, Milan — Sun, 7 Jun 2026
 - M.O.T, London — Fri, 29 May 2026
 - Badaboum, Paris — Sat, 18 Apr 2026
-- Silencio, Paris — Thu, 2 Apr 2026
 
 ## Shares bills with
 
 Leo Benassi, Guglielmo Bernardini, AGNES (IT)
 
-*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dante/)*
+*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dante/)*

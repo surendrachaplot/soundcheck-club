@@ -1,6 +1,6 @@
 # Lehmann Club
 
-Lehmann Club is a music venue in Stuttgart with 4 upcoming nights listed on soundcheck as of Sat, 12 Sept 2026; the next is "RAPHAS BIRTHDAY EXCESS" on Sun, 13 Sept 2026.
+Lehmann Club is a music venue in Stuttgart with 4 upcoming nights listed on soundcheck as of Sun, 13 Sept 2026; the next is "RAPHAS BIRTHDAY EXCESS" on Sun, 13 Sept 2026.
 
 Lehmann Club is a music venue in Stuttgart listed on soundcheck. 4 upcoming nights, with line-ups including CALLUSH, dasstudach, GAAAS and IGDA and 2 more. Browse upcoming dates, start times and who's playing. Seidenstraße 20, 70174, Stuttgart.
 
@@ -17,4 +17,4 @@ Lehmann Club is a music venue in Stuttgart listed on soundcheck. 4 upcoming nigh
 
 Seidenstraße 20, 70174, Stuttgart, Stuttgart
 
-*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/stuttgart/club/lehmann-club/)*
+*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/stuttgart/club/lehmann-club/)*

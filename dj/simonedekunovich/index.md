@@ -1,6 +1,6 @@
 # Simone de Kunovich
 
-Simone de Kunovich is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Frankhan Selectist, Istanbul on Fri, 25 Sept 2026.
+Simone de Kunovich is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Sun, 13 Sept 2026, next at Frankhan Selectist, Istanbul on Fri, 25 Sept 2026.
 
 Simone de Kunovich is a house and techno artist tracked on soundcheck, with 148 sets logged across Amsterdam, Bali, Bangkok and Barcelona and 29 more. Often billed alongside PARAMIDA, Pascal Moscheni and Dante (H501). Next up: Frankhan Selectist, Istanbul on Fri 25 Sept.
 
@@ -27,4 +27,4 @@ Simone de Kunovich is a house and techno artist tracked on soundcheck, with 148 
 
 PARAMIDA, Pascal Moscheni, Dante (H501)
 
-*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/simonedekunovich/)*
+*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/simonedekunovich/)*

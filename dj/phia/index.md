@@ -1,6 +1,6 @@
 # PHIA
 
-PHIA is a House and Electro artist with 4 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at TILLATEC, Amsterdam on Sat, 19 Sept 2026.
+PHIA is a House and Electro artist with 4 upcoming club dates listed on soundcheck as of Sun, 13 Sept 2026, next at TILLATEC, Amsterdam on Sat, 19 Sept 2026.
 
 PHIA is a house and electro artist based in Netherlands, tracked on soundcheck, with 72 sets logged across Amsterdam, Budapest, Liverpool and Rotterdam and 2 more. Often billed alongside Fafi Abdel Nour, Lucky Done Gone and Doppelgang. Next up: TILLATEC, Amsterdam on Sat 19 Sept.
 
@@ -28,4 +28,4 @@ PHIA is a house and electro artist based in Netherlands, tracked on soundcheck, 
 
 Fafi Abdel Nour, Lucky Done Gone, Doppelgang
 
-*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/phia/)*
+*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/phia/)*

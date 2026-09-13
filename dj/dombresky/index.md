@@ -1,6 +1,6 @@
 # Dombresky
 
-Dombresky is a House and Tech House artist with 5 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Glen Helen Regional Park, Los Angeles on Sat, 19 Sept 2026.
+Dombresky is a House and Tech House artist with 5 upcoming club dates listed on soundcheck as of Sun, 13 Sept 2026, next at Glen Helen Regional Park, Los Angeles on Sat, 19 Sept 2026.
 
 Dombresky is a house and tech house artist tracked on soundcheck, with 142 sets logged across Austin, Bali, Barcelona and Boston and 30 more. Often billed alongside Jaded (UK), Purple Disco Machine and Tini Gessler. Next up: Glen Helen Regional Park, Losangeles on Sat 19 Sept.
 
@@ -29,4 +29,4 @@ Dombresky is a house and tech house artist tracked on soundcheck, with 142 sets 
 
 Jaded (UK), Purple Disco Machine, Tini Gessler
 
-*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dombresky/)*
+*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dombresky/)*

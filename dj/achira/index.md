@@ -1,14 +1,15 @@
 # ACHIRĀ
 
-ACHIRĀ is a Bass and Experimental artist with 1 upcoming club date listed on soundcheck as of Sat, 12 Sept 2026, next at People's Leisure Club, Edinburgh on Tue, 15 Sept 2026.
+ACHIRĀ is a Experimental and Bass artist with 2 upcoming club dates listed on soundcheck as of Sun, 13 Sept 2026, next at People's Leisure Club, Edinburgh on Tue, 15 Sept 2026.
 
-ACHIRĀ is a bass and experimental artist based in Italy, tracked on soundcheck, with 4 sets logged across Edinburgh and Glasgow. Often billed alongside Rahul.mp3, ARMANA KHAN and Bellarosa. Next up: People's Leisure Club, Edinburgh on Tue 15 Sept.
+ACHIRĀ is an experimental and bass artist based in Italy, tracked on soundcheck, with 5 sets logged across Edinburgh and Glasgow. Often billed alongside Rahul.mp3, ARMANA KHAN and Bellarosa. Next up: People's Leisure Club, Edinburgh on Tue 15 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Tue, 15 Sept 2026 | People's Leisure Club | Edinburgh |
+| Wed, 30 Sept 2026 | La Chunky | Glasgow |
 
 ## Recently played
 
@@ -20,4 +21,4 @@ ACHIRĀ is a bass and experimental artist based in Italy, tracked on soundcheck,
 
 Rahul.mp3, ARMANA KHAN, Bellarosa
 
-*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/achira/)*
+*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/achira/)*

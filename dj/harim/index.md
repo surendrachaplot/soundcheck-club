@@ -1,6 +1,6 @@
 # Harim
 
-Harim is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Sat, 12 Sept 2026, next at Signal, New York City on Sat, 26 Sept 2026.
+Harim is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Sun, 13 Sept 2026, next at Signal, New York City on Sat, 26 Sept 2026.
 
 Harim is a house and disco artist based in United States of America, tracked on soundcheck, with 30 sets logged across Mexicocity, Newyorkcity and Seoul. Often billed alongside Mike Guimond, Seedy J and Alex McCracken. Next up: Signal, Newyorkcity on Sat 26 Sept.
 
@@ -25,4 +25,4 @@ Harim is a house and disco artist based in United States of America, tracked on 
 
 Mike Guimond, Seedy J, Alex McCracken
 
-*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/harim/)*
+*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/harim/)*

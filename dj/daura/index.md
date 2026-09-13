@@ -1,20 +1,20 @@
 # Daura
 
-Daura is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Fitzroy, Berlin on Sat, 12 Sept 2026.
+Daura is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Sun, 13 Sept 2026, next at TBA, Sydney on Sat, 26 Sept 2026.
 
-Daura is a techno and house artist tracked on soundcheck, with 58 sets logged across Amsterdam, Berlin, Brussels and Dusseldorf and 20 more. Often billed alongside Moaad BKR, Mr. Murray and Cosmic JD. Next up: Fitzroy, Berlin on Sat 12 Sept.
+Daura is a techno and house artist tracked on soundcheck, with 58 sets logged across Amsterdam, Berlin, Brussels and Dusseldorf and 20 more. Often billed alongside Moaad BKR, Mr. Murray and Cosmic JD. Next up: TBA, Sydney on Sat 26 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 12 Sept 2026 | Fitzroy | Berlin |
 | Sat, 26 Sept 2026 | TBA | Sydney |
 | Sun, 4 Oct 2026 | Space Nodeul K | Seoul |
 | Fri, 30 Oct 2026 | 宀 Club | Hong Kong |
 
 ## Recently played
 
+- Fitzroy, Berlin — Sat, 12 Sept 2026
 - Coco Boule, Berlin — Fri, 11 Sept 2026
 - THE MAGICK BAR, Rome — Tue, 25 Aug 2026
 - GIMIC, Brussels — Sun, 7 Jun 2026
@@ -22,10 +22,9 @@ Daura is a techno and house artist tracked on soundcheck, with 58 sets logged ac
 - Sekta Selekta, Krakow — Fri, 24 Apr 2026
 - Alibi, Rome — Fri, 17 Apr 2026
 - UMI, Brussels — Sat, 4 Apr 2026
-- Haus der Visionäre, Berlin — Sat, 28 Mar 2026
 
 ## Shares bills with
 
 Moaad BKR, Mr. Murray, Cosmic JD
 
-*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/daura/)*
+*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/daura/)*

@@ -1,6 +1,6 @@
 # Alive Girl
 
-Alive Girl is a Electro and Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Nightclub 101, New York City on Sat, 19 Sept 2026.
+Alive Girl is a Electro and Techno artist with 2 upcoming club dates listed on soundcheck as of Sun, 13 Sept 2026, next at Nightclub 101, New York City on Sat, 19 Sept 2026.
 
 Alive Girl is an electro and techno artist tracked on soundcheck, with 9 sets logged across Chicago and Newyorkcity. Often billed alongside DJ Brandy Melville, Lana Vese and Ali RQ. Next up: Nightclub 101, Newyorkcity on Sat 19 Sept.
 
@@ -25,4 +25,4 @@ Alive Girl is an electro and techno artist tracked on soundcheck, with 9 sets lo
 
 DJ Brandy Melville, Lana Vese, Ali RQ
 
-*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/alivegirl/)*
+*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/alivegirl/)*

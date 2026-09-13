@@ -1,6 +1,6 @@
 # Bulie Jordeaux
 
-Bulie Jordeaux is a Experimental and Electronica artist with 1 upcoming club date listed on soundcheck as of Sat, 12 Sept 2026, next at La Boule Noire, Paris on Tue, 15 Sept 2026.
+Bulie Jordeaux is a Experimental and Electronica artist with 1 upcoming club date listed on soundcheck as of Sun, 13 Sept 2026, next at La Boule Noire, Paris on Tue, 15 Sept 2026.
 
 Bulie Jordeaux is an experimental and electronica artist based in Belgium, tracked on soundcheck, with 16 sets logged across Brussels and Paris. Often billed alongside Jacky Jeane, Abajour and Amau. Next up: La Boule Noire, Paris on Tue 15 Sept.
 
@@ -25,4 +25,4 @@ Bulie Jordeaux is an experimental and electronica artist based in Belgium, track
 
 Jacky Jeane, Abajour, Amau
 
-*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/buliejordeaux/)*
+*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/buliejordeaux/)*

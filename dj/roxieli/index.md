@@ -1,6 +1,6 @@
 # Roxie Li
 
-Roxie Li is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Oliva, Amsterdam on Fri, 23 Oct 2026.
+Roxie Li is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Sun, 13 Sept 2026, next at Oliva, Amsterdam on Fri, 23 Oct 2026.
 
 Roxie Li is a techno and house artist based in China, tracked on soundcheck, with 28 sets logged across Amsterdam, Copenhagen, Ibiza and London. Often billed alongside Roxie, Innerstice and Redfreya. Next up: Oliva, Amsterdam on Fri 23 Oct.
 
@@ -27,4 +27,4 @@ Roxie Li is a techno and house artist based in China, tracked on soundcheck, wit
 
 Roxie, Innerstice, Redfreya
 
-*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/roxieli/)*
+*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/roxieli/)*

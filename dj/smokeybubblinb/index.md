@@ -1,15 +1,13 @@
 # Smokey Bubblin' B
 
-Smokey Bubblin' B is a House and Garage artist with 8 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Studio 338, London on Sat, 12 Sept 2026.
+Smokey Bubblin' B is a House and Garage artist with 6 upcoming club dates listed on soundcheck as of Sun, 13 Sept 2026, next at Distrikt, Leeds on Fri, 25 Sept 2026.
 
-Smokey Bubblin' B is a house and garage artist tracked on soundcheck, with 62 sets logged across Austin, Barcelona, Birmingham and Brighton and 12 more. Often billed alongside George Mensah, Sammy Porter and Tilli Murphy. Next up: Studio 338, London on Sat 12 Sept.
+Smokey Bubblin' B is a house and garage artist tracked on soundcheck, with 62 sets logged across Austin, Barcelona, Birmingham and Brighton and 12 more. Often billed alongside George Mensah, Sammy Porter and Tilli Murphy. Next up: Distrikt, Leeds on Fri 25 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 12 Sept 2026 | Studio 338 | London |
-| Sat, 12 Sept 2026 | E1 | London |
 | Fri, 25 Sept 2026 | Distrikt | Leeds |
 | Sat, 26 Sept 2026 | Luna Springs | Birmingham |
 | Fri, 16 Oct 2026 | fabric | London |
@@ -19,17 +17,17 @@ Smokey Bubblin' B is a house and garage artist tracked on soundcheck, with 62 se
 
 ## Recently played
 
+- Studio 338, London — Sat, 12 Sept 2026
+- E1, London — Sat, 12 Sept 2026
 - Ministry Of Sound, London — Sat, 11 Jul 2026
 - Metropolis, London — Sat, 6 Jun 2026
 - TBA - Luna Springs, Birmingham — Sat, 30 May 2026
 - Yamamori Tengu, Dublin — Fri, 29 May 2026
 - Chelmsford City Racecourse, London — Sat, 23 May 2026
 - Gianpula Village, Malta — Wed, 29 Apr 2026
-- Joshua Brooks, Manchester — Fri, 27 Mar 2026
-- Studio 338, London — Sat, 14 Mar 2026
 
 ## Shares bills with
 
 George Mensah, Sammy Porter, Tilli Murphy
 
-*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/smokeybubblinb/)*
+*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/smokeybubblinb/)*

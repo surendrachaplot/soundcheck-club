@@ -1,14 +1,13 @@
 # Francesco Maria
 
-Francesco Maria is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at PRST, Vienna on Fri, 11 Sept 2026.
+Francesco Maria is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Sun, 13 Sept 2026, next at Balagan Roma, Rome on Sun, 13 Sept 2026.
 
-Francesco Maria is a house and tech house artist tracked on soundcheck, with 56 sets logged across Berlin, Ibiza, London and Milan and 4 more. Often billed alongside Andrea Saba, Alessandro Addi and Marcolino. Next up: PRST, Vienna on Fri 11 Sept.
+Francesco Maria is a house and tech house artist tracked on soundcheck, with 56 sets logged across Berlin, Ibiza, London and Milan and 4 more. Often billed alongside Andrea Saba, Alessandro Addi and Marcolino. Next up: Balagan Roma, Rome on Sun 13 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 11 Sept 2026 | PRST | Vienna |
 | Sun, 13 Sept 2026 | Balagan Roma | Rome |
 
 ## Recently played
@@ -26,4 +25,4 @@ Francesco Maria is a house and tech house artist tracked on soundcheck, with 56 
 
 Andrea Saba, Alessandro Addi, Marcolino
 
-*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/francescomaria/)*
+*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/francescomaria/)*

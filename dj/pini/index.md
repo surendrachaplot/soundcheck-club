@@ -1,6 +1,6 @@
 # PINI
 
-PINI is a Disco and House artist with 3 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Sidecar, Barcelona on Sun, 13 Sept 2026.
+PINI is a Disco and House artist with 3 upcoming club dates listed on soundcheck as of Sun, 13 Sept 2026, next at Sidecar, Barcelona on Sun, 13 Sept 2026.
 
 PINI is a disco and house artist tracked on soundcheck, with 104 sets logged across Barcelona. Often billed alongside Yves Samuel, Victor Hugo and Sonia Heis. Next up: Sidecar, Barcelona on Sun 13 Sept.
 
@@ -27,4 +27,4 @@ PINI is a disco and house artist tracked on soundcheck, with 104 sets logged acr
 
 Yves Samuel, Victor Hugo, Sonia Heis
 
-*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/pini/)*
+*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/pini/)*

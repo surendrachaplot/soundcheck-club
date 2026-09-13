@@ -1,6 +1,6 @@
 # Michael Bibi
 
-Michael Bibi is a Tech House and House artist with 6 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at NDSM Docklands, Amsterdam on Sun, 13 Sept 2026.
+Michael Bibi is a Tech House and House artist with 6 upcoming club dates listed on soundcheck as of Sun, 13 Sept 2026, next at NDSM Docklands, Amsterdam on Sun, 13 Sept 2026.
 
 Michael Bibi is a tech house and house artist based in United Kingdom, tracked on soundcheck, with 53 sets logged across Amsterdam, Bali, Barcelona and Buenosaires and 20 more. Often billed alongside Dennis Cruz, PAWSA and Chris Stassy. Next up: NDSM Docklands, Amsterdam on Sun 13 Sept.
 
@@ -30,4 +30,4 @@ Michael Bibi is a tech house and house artist based in United Kingdom, tracked o
 
 Dennis Cruz, PAWSA, Chris Stassy
 
-*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/michaelbibi/)*
+*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/michaelbibi/)*

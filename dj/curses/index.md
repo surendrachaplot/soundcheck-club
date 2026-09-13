@@ -1,14 +1,13 @@
 # Curses
 
-Curses is a Techno and House artist with 7 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Exit Reality, Singapore on Sat, 12 Sept 2026.
+Curses is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Sun, 13 Sept 2026, next at Berghain | Panorama Bar | Säule, Berlin on Fri, 18 Sept 2026.
 
-Curses is a techno and house artist tracked on soundcheck, with 176 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 55 more. Often billed alongside Rakans, The Lady Machine and Cormac. Next up: Exit Reality, Singapore on Sat 12 Sept.
+Curses is a techno and house artist tracked on soundcheck, with 176 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 55 more. Often billed alongside Rakans, The Lady Machine and Cormac. Next up: Berghain | Panorama Bar | Säule, Berlin on Fri 18 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 12 Sept 2026 | Exit Reality | Singapore |
 | Fri, 18 Sept 2026 | Berghain / Panorama Bar / Säule | Berlin |
 | Sat, 19 Sept 2026 | Macadam | Nantes |
 | Sat, 3 Oct 2026 | The Carpet Shop | London |
@@ -18,6 +17,7 @@ Curses is a techno and house artist tracked on soundcheck, with 176 sets logged 
 
 ## Recently played
 
+- Exit Reality, Singapore — Sat, 12 Sept 2026
 - Faust, Seoul — Thu, 10 Sept 2026
 - VENT, Tokyo — Sat, 5 Sept 2026
 - Maaya, Berlin — Sun, 23 Aug 2026
@@ -25,10 +25,9 @@ Curses is a techno and house artist tracked on soundcheck, with 176 sets logged 
 - Nowadays, New York City — Fri, 24 Jul 2026
 - Lux Fragil, Lisbon — Sat, 11 Jul 2026
 - Petit CAB, Marseille — Sun, 28 Jun 2026
-- Club Cheek, London — Fri, 26 Jun 2026
 
 ## Shares bills with
 
 Rakans, The Lady Machine, Cormac
 
-*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/curses/)*
+*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/curses/)*

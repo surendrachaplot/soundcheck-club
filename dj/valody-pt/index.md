@@ -1,6 +1,6 @@
 # Valody
 
-Valody is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Barragem da Queimadela, Porto on Thu, 10 Sept 2026.
+Valody is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Sun, 13 Sept 2026, next at Barragem da Queimadela, Porto on Thu, 10 Sept 2026.
 
 Valody is a techno and house artist tracked on soundcheck, with 75 sets logged across Amsterdam, Berlin, Lisbon and Paris and 4 more. Often billed alongside Maria Cue, Anika Kunst and Judy (ES). Next up: Barragem da Queimadela, Porto on Thu 10 Sept.
 
@@ -30,4 +30,4 @@ Valody is a techno and house artist tracked on soundcheck, with 75 sets logged a
 
 Maria Cue, Anika Kunst, Judy (ES)
 
-*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/valody-pt/)*
+*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/valody-pt/)*

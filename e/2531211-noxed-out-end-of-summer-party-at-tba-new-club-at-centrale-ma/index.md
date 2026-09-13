@@ -1,6 +1,6 @@
 # 'noxed out [end-of-summer-party] at TBA - new club at Centrale Markthal
 
-'noxed out [end-of-summer-party] at TBA - new club at Centrale Markthal on Sat 19 Sept, Amsterdam. 2 acts on the bill: Daiki Fukami and Golden Pendola. Deep House and Balearic. Preview the line-up and save it on soundcheck.
+'noxed out [end-of-summer-party] at TBA - new club at Centrale Markthal on Sat 19 Sept, Amsterdam. 2 acts on the bill: Daiki Fukami and Golden Pendola. Balearic and Deep House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

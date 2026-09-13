@@ -1,14 +1,13 @@
 # Plano B
 
-Plano B is a music venue in Porto with 11 upcoming nights listed on soundcheck as of Sat, 12 Sept 2026; the next is "Let B2B H. Baukloh" on Sat, 12 Sept 2026.
+Plano B is a music venue in Porto with 10 upcoming nights listed on soundcheck as of Sun, 13 Sept 2026; the next is "NIGHTSHIFT - Pitcher + Luís Afonso" on Thu, 17 Sept 2026.
 
-Plano B is a music venue in Porto listed on soundcheck. 11 upcoming nights, with line-ups including H.Baukloh, Joao Semedo, John Talabot and Let (3) and 2 more. Browse upcoming dates, start times and who's playing. Rua Cândido dos Reis nº30 Porto (aos clérigos).
+Plano B is a music venue in Porto listed on soundcheck. 10 upcoming nights, with line-ups including Joao Semedo, John Talabot, Luís Afonso and Objekt and 2 more. Browse upcoming dates, start times and who's playing. Rua Cândido dos Reis nº30 Porto (aos clérigos).
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 12 Sept 2026 | Let B2B H. Baukloh | H.Baukloh, Let (3) |
 | Thu, 17 Sept 2026 | NIGHTSHIFT - Pitcher + Luís Afonso | Luís Afonso |
 | Fri, 18 Sept 2026 | Rompante + Semedo | Joao Semedo, Rompante |
 | Sat, 19 Sept 2026 | Tiago Cruz + PIMENTTA | PIMENTTA |
@@ -18,9 +17,10 @@ Plano B is a music venue in Porto listed on soundcheck. 11 upcoming nights, with
 | Sat, 10 Oct 2026 | salute (AT) | salute |
 | Fri, 13 Nov 2026 | Ogazón (DE) | Ogazón |
 | Fri, 20 Nov 2026 | Objekt (JP) | Objekt |
+| Sat, 5 Dec 2026 | The Blessed Madonna (USA) | The Blessed Madonna |
 
 ## Address
 
 Rua Cândido dos Reis nº30 Porto (aos clérigos), Porto
 
-*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/porto/club/plano-b/)*
+*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/porto/club/plano-b/)*

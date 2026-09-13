@@ -1,18 +1,16 @@
 # TBA - Venus Club
 
-TBA - Venus Club is a music venue in Tallinn with 6 upcoming nights listed on soundcheck as of Sat, 12 Sept 2026; the next is "URBAN NIGHT" on Sat, 12 Sept 2026.
+TBA - Venus Club is a music venue in Tallinn with 4 upcoming nights listed on soundcheck as of Sun, 13 Sept 2026; the next is "THROWBACK THURSDAY" on Thu, 17 Sept 2026.
 
-TBA - Venus Club is a music venue in Tallinn listed on soundcheck. 6 upcoming nights. Browse upcoming dates, start times and who's playing.
+TBA - Venus Club is a music venue in Tallinn listed on soundcheck. 4 upcoming nights. Browse upcoming dates, start times and who's playing.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 12 Sept 2026 | URBAN NIGHT |  |
-| Sat, 12 Sept 2026 | MILLENNIUM SPECIAL |  |
 | Thu, 17 Sept 2026 | THROWBACK THURSDAY |  |
 | Fri, 18 Sept 2026 | CANDY SHOP |  |
 | Sat, 19 Sept 2026 | LA FIESTA BACARDI |  |
 | Sat, 26 Sept 2026 | TERMINAATOR LIVE |  |
 
-*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/tallinn/club/tba-venus-club/)*
+*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/tallinn/club/tba-venus-club/)*

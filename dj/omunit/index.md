@@ -1,14 +1,13 @@
 # Om Unit
 
-Om Unit is a Bass and Dub artist with 2 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at CLUB RAUM, Amsterdam on Fri, 11 Sept 2026.
+Om Unit is a Bass and Dub artist with 1 upcoming club date listed on soundcheck as of Sun, 13 Sept 2026, next at La Prairie du Canal, Paris on Fri, 18 Sept 2026.
 
-Om Unit is a bass and dub artist tracked on soundcheck, with 108 sets logged across Amsterdam, Auckland, Barcelona and Belgrade and 39 more. Often billed alongside Ehua, DVS1 and Priori. Next up: CLUB RAUM, Amsterdam on Fri 11 Sept.
+Om Unit is a bass and dub artist tracked on soundcheck, with 108 sets logged across Amsterdam, Auckland, Barcelona and Belgrade and 39 more. Often billed alongside Ehua, DVS1 and Priori. Next up: La Prairie du Canal, Paris on Fri 18 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 11 Sept 2026 | CLUB RAUM | Amsterdam |
 | Fri, 18 Sept 2026 | La Prairie du Canal | Paris |
 
 ## Recently played
@@ -26,4 +25,4 @@ Om Unit is a bass and dub artist tracked on soundcheck, with 108 sets logged acr
 
 Ehua, DVS1, Priori
 
-*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/omunit/)*
+*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/omunit/)*

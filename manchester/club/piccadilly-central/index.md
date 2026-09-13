@@ -1,6 +1,6 @@
 # Piccadilly Central
 
-Piccadilly Central is a music venue in Manchester with 5 upcoming nights listed on soundcheck as of Sat, 12 Sept 2026; the next is "Cool N'Fun N'Nice" on Fri, 25 Sept 2026.
+Piccadilly Central is a music venue in Manchester with 5 upcoming nights listed on soundcheck as of Sun, 13 Sept 2026; the next is "Cool N'Fun N'Nice" on Fri, 25 Sept 2026.
 
 Piccadilly Central is a music venue in Manchester listed on soundcheck. 5 upcoming nights, with line-ups including Alex Moore, DJ Batehoven, F3rg13 and Innuendo and 2 more. Browse upcoming dates, start times and who's playing. 38 London Road, Manchester, M1 2PF.
 
@@ -18,4 +18,4 @@ Piccadilly Central is a music venue in Manchester listed on soundcheck. 5 upcomi
 
 38 London Road, Manchester, M1 2PF, Manchester
 
-*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/piccadilly-central/)*
+*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/piccadilly-central/)*

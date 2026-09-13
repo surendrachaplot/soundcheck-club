@@ -1,6 +1,6 @@
 # Departamento
 
-Departamento is a music venue in Mexico City with 1 upcoming night listed on soundcheck as of Sat, 12 Sept 2026; the next is "Departamento Programa 09/09/26" on Wed, 9 Sept 2026.
+Departamento is a music venue in Mexico City with 1 upcoming night listed on soundcheck as of Sun, 13 Sept 2026; the next is "Departamento Programa 09/09/26" on Wed, 9 Sept 2026.
 
 Departamento is a music venue in Mexicocity listed on soundcheck. 1 upcoming night, with line-ups including Alejandro Veneno, DECO (MX), Didaskein and Eliana and 2 more. Browse upcoming dates, start times and who's playing. Alvaro Obregón 154 Col. Roma Mexico D.F. 406700.
 
@@ -14,4 +14,4 @@ Departamento is a music venue in Mexicocity listed on soundcheck. 1 upcoming nig
 
 Alvaro Obregón 154 Col. Roma Mexico D.F. 406700, Mexico City
 
-*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/mexicocity/club/departamento/)*
+*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/mexicocity/club/departamento/)*

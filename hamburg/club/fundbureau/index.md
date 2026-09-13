@@ -1,15 +1,13 @@
 # Fundbureau
 
-Fundbureau is a music venue in Hamburg with 11 upcoming nights listed on soundcheck as of Sat, 12 Sept 2026; the next is "Oldies & Trash Night" on Sat, 12 Sept 2026.
+Fundbureau is a music venue in Hamburg with 9 upcoming nights listed on soundcheck as of Sun, 13 Sept 2026; the next is "Eurodance2000 // Return Fall // Nikiija // SVE" on Fri, 18 Sept 2026.
 
-Fundbureau is a music venue in Hamburg listed on soundcheck. 11 upcoming nights, with line-ups including Aio, Carbon, Charlie Tee and CHICHO and 2 more. Browse upcoming dates, start times and who's playing. Altländer Str. 1120095 Hamburg, Germany.
+Fundbureau is a music venue in Hamburg listed on soundcheck. 9 upcoming nights, with line-ups including Aio, Charlie Tee, Claudius and duaba and 2 more. Browse upcoming dates, start times and who's playing. Altländer Str. 1120095 Hamburg, Germany.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 12 Sept 2026 | Oldies & Trash Night |  |
-| Sat, 12 Sept 2026 | RANDALE IM FUNDI | CHICHO, Carbon, Randali, Shilo |
 | Fri, 18 Sept 2026 | Eurodance2000 // Return Fall // Nikiija // SVE | Eurodance2000, Nikiija, Return Fall, SVE |
 | Sat, 19 Sept 2026 | Aio // ANNERGY // Invaria // DEMO | Aio, Invaria |
 | Fri, 25 Sept 2026 | Subios Records Showcase | Muttiah Ashnim, TiM TASTE |
@@ -18,9 +16,10 @@ Fundbureau is a music venue in Hamburg listed on soundcheck. 11 upcoming nights,
 | Sat, 3 Oct 2026 | AOTM X Fundbureau with Pamadii | Pamadii |
 | Fri, 16 Oct 2026 | Liquic Concrete with Charlie Tee & T-Lex & Melina | Charlie Tee, Enni Milosj, Fibe, IAM (2), MELINA (3), Sindicate, duaba |
 | Sat, 7 Nov 2026 | RAUM.fahrt |  |
+| Fri, 27 Nov 2026 | Hafen7 goes to Hamburg |  |
 
 ## Address
 
 Altländer Str. 1120095 Hamburg, Germany, Hamburg
 
-*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/hamburg/club/fundbureau/)*
+*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/hamburg/club/fundbureau/)*

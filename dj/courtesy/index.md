@@ -1,6 +1,6 @@
 # Courtesy
 
-Courtesy is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at NDSM Docklands, Amsterdam on Sun, 13 Sept 2026.
+Courtesy is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sun, 13 Sept 2026, next at NDSM Docklands, Amsterdam on Sun, 13 Sept 2026.
 
 Courtesy is a techno and house artist tracked on soundcheck, with 152 sets logged across Amsterdam, Antwerp, Barcelona and Belfast and 42 more. Often billed alongside Byron Yeates, MCR-T and BASHKKA. Next up: NDSM Docklands, Amsterdam on Sun 13 Sept.
 
@@ -26,4 +26,4 @@ Courtesy is a techno and house artist tracked on soundcheck, with 152 sets logge
 
 Byron Yeates, MCR-T, BASHKKA
 
-*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/courtesy/)*
+*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/courtesy/)*

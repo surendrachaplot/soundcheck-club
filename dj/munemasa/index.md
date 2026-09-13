@@ -1,6 +1,6 @@
 # MUNEMASA
 
-MUNEMASA is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at TBA -    Kodamanomori Camp Ground, Nagano, Tokyo on Fri, 11 Sept 2026.
+MUNEMASA is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sun, 13 Sept 2026, next at TBA -    Kodamanomori Camp Ground, Nagano, Tokyo on Fri, 11 Sept 2026.
 
 MUNEMASA is a techno and house artist based in Japan, tracked on soundcheck, with 66 sets logged across Tokyo. Often billed alongside savezearth, LØST and SIGNAL (JP). Next up: TBA -    Kodamanomori Camp Ground, Nagano, Tokyo on Fri 11 Sept.
 
@@ -26,4 +26,4 @@ MUNEMASA is a techno and house artist based in Japan, tracked on soundcheck, wit
 
 savezearth, LØST, SIGNAL (JP)
 
-*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/munemasa/)*
+*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/munemasa/)*

@@ -1,15 +1,13 @@
 # DVS1
 
-DVS1 is a Techno and House artist with 20 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at TBA - Brussels, Brussels on Fri, 11 Sept 2026.
+DVS1 is a Techno and House artist with 18 upcoming club dates listed on soundcheck as of Sun, 13 Sept 2026, next at Openluchttheater Amersfoort, Amsterdam on Fri, 18 Sept 2026.
 
-DVS1 is a techno and house artist tracked on soundcheck, with 316 sets logged across Amsterdam, Antwerp, Athens and Austin and 68 more. Often billed alongside Ogazón, Jeff Mills and Helena Hauff. Next up: TBA - Brussels, Brussels on Fri 11 Sept.
+DVS1 is a techno and house artist tracked on soundcheck, with 316 sets logged across Amsterdam, Antwerp, Athens and Austin and 68 more. Often billed alongside Ogazón, Jeff Mills and Helena Hauff. Next up: Openluchttheater Amersfoort, Amsterdam on Fri 18 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 11 Sept 2026 | TBA - Brussels | Brussels |
-| Sat, 12 Sept 2026 | Bunker | Turin |
 | Fri, 18 Sept 2026 | Openluchttheater Amersfoort | Amsterdam |
 | Fri, 25 Sept 2026 | Lux Fragil | Lisbon |
 | Sat, 26 Sept 2026 | The Bassement | Madrid |
@@ -20,9 +18,12 @@ DVS1 is a techno and house artist tracked on soundcheck, with 316 sets logged ac
 | Fri, 16 Oct 2026 | Stereo | Montreal |
 | Wed, 21 Oct 2026 | TILLATEC | Amsterdam |
 | Fri, 23 Oct 2026 | CLUB RAUM | Amsterdam |
+| Sat, 24 Oct 2026 | Mediahaven - Minervahaven | Amsterdam |
+| Fri, 6 Nov 2026 | Circolo Amelia | Milan |
 
 ## Recently played
 
+- Bunker, Turin — Sat, 12 Sept 2026
 - TBA - Brussels, Brussels — Fri, 11 Sept 2026
 - Fvtvr, Paris — Fri, 11 Sept 2026
 - Lehmann Club, Stuttgart — Sat, 29 Aug 2026
@@ -30,10 +31,9 @@ DVS1 is a techno and house artist tracked on soundcheck, with 316 sets logged ac
 - Amsterdamse Bos, Amsterdam — Sun, 2 Aug 2026
 - Palais, London — Sat, 1 Aug 2026
 - BLITZ, Munich — Fri, 31 Jul 2026
-- Amsterdamse Bos, Amsterdam — Wed, 29 Jul 2026
 
 ## Shares bills with
 
 Ogazón, Jeff Mills, Helena Hauff
 
-*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dvs1/)*
+*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dvs1/)*

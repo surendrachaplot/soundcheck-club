@@ -1,14 +1,13 @@
 # Kadinsky Cafe
 
-Kadinsky Cafe is a music venue in Amsterdam with 9 upcoming nights listed on soundcheck as of Sat, 12 Sept 2026; the next is "KADINSKY invites West Station" on Sat, 12 Sept 2026.
+Kadinsky Cafe is a music venue in Amsterdam with 8 upcoming nights listed on soundcheck as of Sun, 13 Sept 2026; the next is "Kadinsky Invites MOKUM SOUNDS" on Sat, 19 Sept 2026.
 
-Kadinsky Cafe is a music venue in Amsterdam listed on soundcheck. 9 upcoming nights, with line-ups including Abity, Albano Bastonero, ALISHA and Around Us and 2 more. Browse upcoming dates, start times and who's playing. Zoutsteeg 9-11 1012 LX Amsterdam.
+Kadinsky Cafe is a music venue in Amsterdam listed on soundcheck. 8 upcoming nights, with line-ups including Abity, Albano Bastonero, ALISHA and Around Us and 2 more. Browse upcoming dates, start times and who's playing. Zoutsteeg 9-11 1012 LX Amsterdam.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 12 Sept 2026 | KADINSKY invites West Station | Gian Grassi, JUAN BELDARREIN, PABLON |
 | Sat, 19 Sept 2026 | Kadinsky Invites MOKUM SOUNDS |  |
 | Sat, 26 Sept 2026 | KADINKY SESSIONS 076 | Around Us, Francesco Pico, MC PPholl |
 | Sat, 3 Oct 2026 | Dive Deep: Melodic Sessions - Volume I | Main Identity, Patrick Krause, Usatov |
@@ -22,4 +21,4 @@ Kadinsky Cafe is a music venue in Amsterdam listed on soundcheck. 9 upcoming nig
 
 Zoutsteeg 9-11 1012 LX Amsterdam, Amsterdam
 
-*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/kadinsky-cafe/)*
+*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/kadinsky-cafe/)*

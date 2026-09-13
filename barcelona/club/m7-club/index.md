@@ -1,14 +1,13 @@
 # M7 Club
 
-M7 Club is a music venue in Barcelona with 15 upcoming nights listed on soundcheck as of Sat, 12 Sept 2026; the next is "M7 presenta [Up] Paula Kasbaeh, Mark Mør & Sams [Main] Hømmiecdall, Adviro & Marc Fx" on Sat, 12 Sept 2026.
+M7 Club is a music venue in Barcelona with 14 upcoming nights listed on soundcheck as of Sun, 13 Sept 2026; the next is "HARD BOUNCE SUNDAYS [Mëss & Marc Fx]" on Sun, 13 Sept 2026.
 
-M7 Club is a music venue in Barcelona listed on soundcheck. 15 upcoming nights, with line-ups including HANI DAKIN, Adviro, Ana Lilia and ArceX and 2 more. Browse upcoming dates, start times and who's playing. Carrer de Mèxic, 7, 08004 Barcelona, Spain.
+M7 Club is a music venue in Barcelona listed on soundcheck. 14 upcoming nights, with line-ups including HANI DAKIN, Adviro, Ana Lilia and ArceX and 2 more. Browse upcoming dates, start times and who's playing. Carrer de Mèxic, 7, 08004 Barcelona, Spain.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 12 Sept 2026 | M7 presenta [Up] Paula Kasbaeh, Mark Mør & Sams [Main] Hømmiecdall, Adviro & Marc Fx | Adviro, Sam S |
 | Sun, 13 Sept 2026 | HARD BOUNCE SUNDAYS [Mëss & Marc Fx] |  |
 | Thu, 17 Sept 2026 | HARD BOUNCE [Adviro & Leqsa] | Adviro |
 | Fri, 18 Sept 2026 | M7 presenta: Yerai, Marc Fx, Adviro, Dannae, SuttleK & Darkcutz | Adviro, SuttleK |
@@ -18,9 +17,10 @@ M7 Club is a music venue in Barcelona listed on soundcheck. 15 upcoming nights, 
 | Thu, 24 Sept 2026 | HARD BOUNCE [Adviro & Marc FX] | Adviro |
 | Fri, 25 Sept 2026 | M7 presenta: Eva Toya, Matt.p, Deiluss, Muso, Adviro & Marc Fx | Adviro, Eva Toya, Matt.p |
 | Sat, 26 Sept 2026 | JULIO POSADAS 'LA HISTORIA' |  |
+| Sat, 26 Sept 2026 | REMEMBER 92/96 DJ Ripley, Dj Titi & Dj Juank | DJ Ripley |
 
 ## Address
 
 Carrer de Mèxic, 7, 08004 Barcelona, Spain, Barcelona
 
-*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/m7-club/)*
+*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/m7-club/)*

@@ -1,6 +1,6 @@
 # THISO
 
-THISO is a Techno and Trance artist with 4 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Club Vaag, Antwerp on Fri, 25 Sept 2026.
+THISO is a Techno and Trance artist with 4 upcoming club dates listed on soundcheck as of Sun, 13 Sept 2026, next at Club Vaag, Antwerp on Fri, 25 Sept 2026.
 
 THISO is a techno and trance artist tracked on soundcheck, with 27 sets logged across Amsterdam, Antwerp, Berlin and Cologne and 9 more. Often billed alongside Niotech, 3LEEZA and AREA ØNE. Next up: Club Vaag, Antwerp on Fri 25 Sept.
 
@@ -28,4 +28,4 @@ THISO is a techno and trance artist tracked on soundcheck, with 27 sets logged a
 
 Niotech, 3LEEZA, AREA ØNE
 
-*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/thiso/)*
+*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/thiso/)*

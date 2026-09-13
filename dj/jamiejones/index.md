@@ -1,14 +1,13 @@
 # Jamie Jones
 
-Jamie Jones is a House and Tech House artist with 12 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Green Room NYC, New York City on Sat, 12 Sept 2026.
+Jamie Jones is a House and Tech House artist with 11 upcoming club dates listed on soundcheck as of Sun, 13 Sept 2026, next at [UNVRS], Ibiza on Wed, 16 Sept 2026.
 
-Jamie Jones is a house and tech house artist tracked on soundcheck, with 211 sets logged across Amsterdam, Austin, Bali and Barcelona and 31 more. Often billed alongside Joseph Capriati, Manda Moor and ALISHA. Next up: Green Room NYC, Newyorkcity on Sat 12 Sept.
+Jamie Jones is a house and tech house artist tracked on soundcheck, with 211 sets logged across Amsterdam, Austin, Bali and Barcelona and 31 more. Often billed alongside Joseph Capriati, Manda Moor and ALISHA. Next up: [UNVRS], Ibiza on Wed 16 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 12 Sept 2026 | Green Room NYC | New York City |
 | Wed, 16 Sept 2026 | [UNVRS] | Ibiza |
 | Fri, 18 Sept 2026 | Pacha Ibiza | Ibiza |
 | Wed, 23 Sept 2026 | [UNVRS] | Ibiza |
@@ -23,6 +22,7 @@ Jamie Jones is a house and tech house artist tracked on soundcheck, with 211 set
 
 ## Recently played
 
+- Green Room NYC, New York City — Sat, 12 Sept 2026
 - [UNVRS], Ibiza — Wed, 9 Sept 2026
 - [UNVRS], Ibiza — Wed, 2 Sept 2026
 - Kelvedon Hall, London — Sat, 29 Aug 2026
@@ -30,10 +30,9 @@ Jamie Jones is a house and tech house artist tracked on soundcheck, with 211 set
 - [UNVRS], Ibiza — Wed, 19 Aug 2026
 - [UNVRS], Ibiza — Wed, 12 Aug 2026
 - Sloterpark, Amsterdam — Sat, 8 Aug 2026
-- Parc del Fòrum, Barcelona — Fri, 7 Aug 2026
 
 ## Shares bills with
 
 Joseph Capriati, Manda Moor, ALISHA
 
-*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jamiejones/)*
+*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jamiejones/)*

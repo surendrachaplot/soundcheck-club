@@ -1,6 +1,6 @@
 # Alexa Rosas
 
-Alexa Rosas is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Sat, 12 Sept 2026, next at Drama Radio Bar, Mexico City on Wed, 9 Sept 2026.
+Alexa Rosas is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Sun, 13 Sept 2026, next at Drama Radio Bar, Mexico City on Wed, 9 Sept 2026.
 
 Alexa Rosas is a house and minimal artist tracked on soundcheck, with 5 sets logged across Mexicocity and Sandiego. Often billed alongside Ana Armada, LeFaux and ALDOX. Next up: Drama Radio Bar, Mexicocity on Wed 9 Sept.
 
@@ -22,4 +22,4 @@ Alexa Rosas is a house and minimal artist tracked on soundcheck, with 5 sets log
 
 Ana Armada, LeFaux, ALDOX
 
-*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/alexarosas/)*
+*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/alexarosas/)*

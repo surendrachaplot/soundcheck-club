@@ -1,6 +1,6 @@
 # Vanoni
 
-Vanoni is a Techno and IDM artist with 1 upcoming club date listed on soundcheck as of Sat, 12 Sept 2026, next at Melt Underground, Buenos Aires on Fri, 18 Sept 2026.
+Vanoni is a Techno and IDM artist with 1 upcoming club date listed on soundcheck as of Sun, 13 Sept 2026, next at Melt Underground, Buenos Aires on Fri, 18 Sept 2026.
 
 Vanoni is a techno and idm artist tracked on soundcheck, with 10 sets logged across Buenosaires. Often billed alongside Forest On Stasys, Kyntral and Alderaan. Next up: Melt Underground, Buenosaires on Fri 18 Sept.
 
@@ -25,4 +25,4 @@ Vanoni is a techno and idm artist tracked on soundcheck, with 10 sets logged acr
 
 Forest On Stasys, Kyntral, Alderaan
 
-*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/vanoni/)*
+*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/vanoni/)*

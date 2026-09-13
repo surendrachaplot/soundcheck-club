@@ -1,14 +1,13 @@
 # The Greyhound
 
-The Greyhound is a music venue in London with 16 upcoming nights listed on soundcheck as of Sat, 12 Sept 2026; the next is "RELISH" on Sat, 12 Sept 2026.
+The Greyhound is a music venue in London with 15 upcoming nights listed on soundcheck as of Sun, 13 Sept 2026; the next is "All At Once #4 - edm 4 queer ppl" on Sat, 19 Sept 2026.
 
-The Greyhound is a music venue in London listed on soundcheck. 16 upcoming nights, with line-ups including Alex Wilcox, Bobby Mac, datSIM and Dylan Forbes and 2 more. Browse upcoming dates, start times and who's playing. 109 Peckham High St, London SE15 5SE.
+The Greyhound is a music venue in London listed on soundcheck. 15 upcoming nights, with line-ups including Alex Wilcox, Bobby Mac, datSIM and Dylan Forbes and 2 more. Browse upcoming dates, start times and who's playing. 109 Peckham High St, London SE15 5SE.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 12 Sept 2026 | RELISH | Jackmack, Jamie Unknown, Joycey (2), Lex Hearth, Theon Bower |
 | Sat, 19 Sept 2026 | All At Once #4 - edm 4 queer ppl | EVIL THWEK, Space Candy, Takenbymarshall |
 | Wed, 23 Sept 2026 | Brief Encounters presents: RenzNiro, roop, Tommy Ryoma, Ratiba Ayadi + Jah$tar | RenzNiro, roop |
 | Fri, 25 Sept 2026 | Hotel Danesfield | Dylan Forbes, iasc |
@@ -18,9 +17,10 @@ The Greyhound is a music venue in London listed on soundcheck. 16 upcoming night
 | Fri, 9 Oct 2026 | SLVA: The Greyhound | Bobby Mac, lorcan_ |
 | Sat, 10 Oct 2026 | Otik - The Greyhound | Otik |
 | Fri, 16 Oct 2026 | Slippy 005: Mimi, Per, Terry Cotta, Wiseman, Woodwerk, Wyndham | Terry Cotta, Woodwerk, Wyndham |
+| Fri, 6 Nov 2026 | Espionage: Miles J Paralysis, Kristina May & Gibbin | Gibbin, Kristina May (4), Miles J Paralysis |
 
 ## Address
 
 109 Peckham High St, London SE15 5SE, London
 
-*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/the-greyhound/)*
+*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/the-greyhound/)*

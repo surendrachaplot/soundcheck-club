@@ -1,6 +1,6 @@
 # Gabriello
 
-Gabriello is a Electronica and Reggaeton artist with 1 upcoming club date listed on soundcheck as of Sat, 12 Sept 2026, next at Drama Radio Bar, Mexico City on Wed, 9 Sept 2026.
+Gabriello is a Electronica and Reggaeton artist with 1 upcoming club date listed on soundcheck as of Sun, 13 Sept 2026, next at Drama Radio Bar, Mexico City on Wed, 9 Sept 2026.
 
 Gabriello is an electronica and reggaeton artist tracked on soundcheck, with 5 sets logged across Mexicocity. Often billed alongside ALDOX, ALX and Alexa Rosas. Next up: Drama Radio Bar, Mexicocity on Wed 9 Sept.
 
@@ -22,4 +22,4 @@ Gabriello is an electronica and reggaeton artist tracked on soundcheck, with 5 s
 
 ALDOX, ALX, Alexa Rosas
 
-*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/gabriello/)*
+*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/gabriello/)*

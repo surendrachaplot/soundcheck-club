@@ -1,14 +1,13 @@
 # Club der Visionaere
 
-Club der Visionaere is a music venue in Berlin with 7 upcoming nights listed on soundcheck as of Sat, 12 Sept 2026; the next is "It's Ours" on Sat, 12 Sept 2026.
+Club der Visionaere is a music venue in Berlin with 6 upcoming nights listed on soundcheck as of Sun, 13 Sept 2026; the next is "Sundays::" on Sun, 13 Sept 2026.
 
-Club der Visionaere is a music venue in Berlin listed on soundcheck. 7 upcoming nights, with line-ups including Samuele Pagliai, Alex Kraemer, ALINA (3) and Atree and 2 more. Browse upcoming dates, start times and who's playing. Am Flutgraben 1, 12435 Berlin, Germany.
+Club der Visionaere is a music venue in Berlin listed on soundcheck. 6 upcoming nights, with line-ups including Samuele Pagliai, Alex Kraemer, ALINA (3) and Atree and 2 more. Browse upcoming dates, start times and who's playing. Am Flutgraben 1, 12435 Berlin, Germany.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 12 Sept 2026 | It's Ours | Marko Nastic, Okain, Ray Okpara |
 | Sun, 13 Sept 2026 | Sundays:: | Alex Kraemer, David Delgado, Masa Saji, Stipé |
 | Mon, 14 Sept 2026 | Smoove Mocean | ALINA (3), Atree, dj vau |
 | Tue, 15 Sept 2026 | DROB x CDV | Eliza (2), Garo, Ines Cartas, MFX (1), Stanly |
@@ -20,4 +19,4 @@ Club der Visionaere is a music venue in Berlin listed on soundcheck. 7 upcoming 
 
 Am Flutgraben 1, 12435 Berlin, Germany, Berlin
 
-*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/club-der-visionaere/)*
+*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/club-der-visionaere/)*

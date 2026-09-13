@@ -1,14 +1,13 @@
 # BLANKA
 
-BLANKA is a Techno and House artist with 15 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at FOLD, London on Sat, 12 Sept 2026.
+BLANKA is a Techno and House artist with 14 upcoming club dates listed on soundcheck as of Sun, 13 Sept 2026, next at Le Sucre, Lyon on Sun, 13 Sept 2026.
 
-BLANKA is a techno and house artist tracked on soundcheck, with 147 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 47 more. Often billed alongside Angioma, Jeff Mills and Quelza. Next up: FOLD, London on Sat 12 Sept.
+BLANKA is a techno and house artist tracked on soundcheck, with 147 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 47 more. Often billed alongside Angioma, Jeff Mills and Quelza. Next up: Le Sucre, Lyon on Sun 13 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 12 Sept 2026 | FOLD | London |
 | Sun, 13 Sept 2026 | Le Sucre | Lyon |
 | Fri, 18 Sept 2026 | Openluchttheater Amersfoort | Amsterdam |
 | Fri, 18 Sept 2026 | Gate Milano | Milan |
@@ -20,9 +19,11 @@ BLANKA is a techno and house artist tracked on soundcheck, with 147 sets logged 
 | Sat, 24 Oct 2026 | Havenpark | Amsterdam |
 | Sat, 24 Oct 2026 | Havenpark | Amsterdam |
 | Sat, 24 Oct 2026 | Bajes Amsterdam | Amsterdam |
+| Tue, 27 Oct 2026 | AUX Club | Athens |
 
 ## Recently played
 
+- FOLD, London — Sat, 12 Sept 2026
 - Junkyard Dortmund, Dortmund-essen — Sat, 5 Sept 2026
 - RSO.BERLIN, Berlin — Thu, 13 Aug 2026
 - Gianpula Village, Malta — Wed, 12 Aug 2026
@@ -30,10 +31,9 @@ BLANKA is a techno and house artist tracked on soundcheck, with 147 sets logged 
 - Fabrik, Madrid — Sat, 11 Jul 2026
 - Berghain | Panorama Bar | Säule, Berlin — Sat, 11 Jul 2026
 - FOLD, London — Sat, 13 Jun 2026
-- CLUB RAUM, Amsterdam — Fri, 12 Jun 2026
 
 ## Shares bills with
 
 Angioma, Jeff Mills, Quelza
 
-*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/blanka/)*
+*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/blanka/)*

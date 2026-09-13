@@ -1,14 +1,13 @@
 # SMUT Athens
 
-SMUT Athens is a music venue in Athens with 9 upcoming nights listed on soundcheck as of Sat, 12 Sept 2026; the next is "MUTUAL RYTM x SMUT with SHDW, Lewis Fautzi, Sera J LIVE" on Sat, 12 Sept 2026.
+SMUT Athens is a music venue in Athens with 8 upcoming nights listed on soundcheck as of Sun, 13 Sept 2026; the next is "MOVING PRESSURE x SMUT with Rene Wise, Connor Wall, Obscur" on Sat, 19 Sept 2026.
 
-SMUT Athens is a music venue in Athens listed on soundcheck. 9 upcoming nights, with line-ups including AMORAL, BIDOBEN, Connor Wall and DJ HI-C and 2 more. Browse upcoming dates, start times and who's playing. Vatsaxi 4, Athina 104 38, Greece.
+SMUT Athens is a music venue in Athens listed on soundcheck. 8 upcoming nights, with line-ups including AMORAL, BIDOBEN, Connor Wall and DJ HI-C and 2 more. Browse upcoming dates, start times and who's playing. Vatsaxi 4, Athina 104 38, Greece.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 12 Sept 2026 | MUTUAL RYTM x SMUT with SHDW, Lewis Fautzi, Sera J LIVE | Lewis Fautzi, SHDW, Sera J |
 | Sat, 19 Sept 2026 | MOVING PRESSURE x SMUT with Rene Wise, Connor Wall, Obscur | Connor Wall, Obscur, Rene Wise |
 | Sat, 26 Sept 2026 | PRNCPTL x SMUT w/ AMORAL x FLOKOSCH x LOLSNAKE  | AMORAL, FlökosH, LOLSNAKE |
 | Sat, 3 Oct 2026 | SUBLUNAR x SMUT with Sciahri, BIDOBEN, Hertz Collision | BIDOBEN, Hertz Collision, Sciahri |
@@ -22,4 +21,4 @@ SMUT Athens is a music venue in Athens listed on soundcheck. 9 upcoming nights, 
 
 Vatsaxi 4, Athina 104 38, Greece, Athens
 
-*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/athens/club/smut-athens/)*
+*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/athens/club/smut-athens/)*

@@ -1,14 +1,13 @@
 # DJ Bar Bridge Shinjuku
 
-DJ Bar Bridge Shinjuku is a music venue in Tokyo with 37 upcoming nights listed on soundcheck as of Sat, 12 Sept 2026; the next is "You Forgot & SHOWHEY" on Sat, 12 Sept 2026.
+DJ Bar Bridge Shinjuku is a music venue in Tokyo with 36 upcoming nights listed on soundcheck as of Sun, 13 Sept 2026; the next is "ZUKIE & DJ SLY" on Mon, 14 Sept 2026.
 
-DJ Bar Bridge Shinjuku is a music venue in Tokyo listed on soundcheck. 37 upcoming nights, with line-ups including 7e, BANANA-CHAN, crazist and Dazzle Drums and 2 more. Browse upcoming dates, start times and who's playing. B1F KADO BILD., 2-19-9 SHINJUKU, SHINJUKU-KU, Tokyo Japan.
+DJ Bar Bridge Shinjuku is a music venue in Tokyo listed on soundcheck. 36 upcoming nights, with line-ups including 7e, BANANA-CHAN, crazist and Dazzle Drums and 2 more. Browse upcoming dates, start times and who's playing. B1F KADO BILD., 2-19-9 SHINJUKU, SHINJUKU-KU, Tokyo Japan.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 12 Sept 2026 | You Forgot & SHOWHEY | YouForgot |
 | Mon, 14 Sept 2026 | ZUKIE & DJ SLY |  |
 | Tue, 15 Sept 2026 | Toshiyuki Goto & Eitetsu Takamiya | Eitetsu Takamiya, Toshiyuki Goto |
 | Wed, 16 Sept 2026 | Moc & Heavenly |  |
@@ -18,9 +17,10 @@ DJ Bar Bridge Shinjuku is a music venue in Tokyo listed on soundcheck. 37 upcomi
 | Sun, 20 Sept 2026 | SuperUnKnown -100% production set | Dictionally, Kyohei Tanaka, Yukio Nohara |
 | Mon, 21 Sept 2026 | wOrld connection - Kim Lightfoot - | DJ Nori, Dictionally, JOKI, Kim Lightfoot, Kyohei Tanaka, Yukio Nohara |
 | Tue, 22 Sept 2026 | MUSCLE BEACH TOKYO RETURNS 2026 DAY3 CLOSING BOY'S BASH HAPPY BALL Powered by ageHa |  |
+| Wed, 23 Sept 2026 | OG Militant B, YELLOWUHURU & Masahide Ohno | Masahide Ohno, OG Militant B, YELLOWUHURU |
 
 ## Address
 
 B1F KADO BILD., 2-19-9 SHINJUKU, SHINJUKU-KU, Tokyo Japan, Tokyo
 
-*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/dj-bar-bridge-shinjuku/)*
+*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/dj-bar-bridge-shinjuku/)*

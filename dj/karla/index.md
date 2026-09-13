@@ -1,6 +1,6 @@
 # KARLA
 
-KARLA is a Techno and Acid artist with 1 upcoming club date listed on soundcheck as of Sat, 12 Sept 2026, next at Tonal, Mexico City on Wed, 9 Sept 2026.
+KARLA is a Techno and Acid artist with 1 upcoming club date listed on soundcheck as of Sun, 13 Sept 2026, next at Tonal, Mexico City on Wed, 9 Sept 2026.
 
 KARLA is a techno and acid artist tracked on soundcheck, with 6 sets logged across Galway, Mexicocity, Paris and Toronto. Often billed alongside Xicada, AAK (MX) and Cinema Paradisco. Next up: Tonal, Mexicocity on Wed 9 Sept.
 
@@ -23,4 +23,4 @@ KARLA is a techno and acid artist tracked on soundcheck, with 6 sets logged acro
 
 Xicada, AAK (MX), Cinema Paradisco
 
-*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/karla/)*
+*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/karla/)*

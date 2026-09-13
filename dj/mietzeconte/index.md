@@ -1,6 +1,6 @@
 # Mietze Conte
 
-Mietze Conte is a House and Experimental artist with 15 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at TBA, Washington DC on Sat, 12 Sept 2026.
+Mietze Conte is a House and Experimental artist with 15 upcoming club dates listed on soundcheck as of Sun, 13 Sept 2026, next at TBA, Washington DC on Sat, 12 Sept 2026.
 
 Mietze Conte is a house and experimental artist tracked on soundcheck, with 60 sets logged across Amsterdam, Barcelona, Berlin and Brisbane and 21 more. Often billed alongside 1tbsp, DJ Gigola and Skin On Skin. Next up: TBA, Washingtondc on Sat 12 Sept.
 
@@ -23,6 +23,7 @@ Mietze Conte is a house and experimental artist tracked on soundcheck, with 60 s
 
 ## Recently played
 
+- TBA, Washington DC — Sat, 12 Sept 2026
 - Lago Algo, Mexico City — Fri, 11 Sept 2026
 - Cafeteria, Toronto — Thu, 3 Sept 2026
 - Bar Le Ritz PDB, Montreal — Wed, 2 Sept 2026
@@ -30,10 +31,9 @@ Mietze Conte is a house and experimental artist tracked on soundcheck, with 60 s
 - Burgess Park, London — Sat, 8 Aug 2026
 - RSO.BERLIN, Berlin — Sat, 8 Aug 2026
 - TBA - Paradies Garten Festival - Schloß Prugg 2, 2460 Gemeinde Bruck an der Leitha, Vienna — Fri, 31 Jul 2026
-- Bar Le Ritz PDB, Montreal — Fri, 29 May 2026
 
 ## Shares bills with
 
 1tbsp, DJ Gigola, Skin On Skin
 
-*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mietzeconte/)*
+*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mietzeconte/)*

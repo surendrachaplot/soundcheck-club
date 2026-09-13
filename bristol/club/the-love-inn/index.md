@@ -1,15 +1,13 @@
 # The Love Inn
 
-The Love Inn is a music venue in Bristol with 9 upcoming nights listed on soundcheck as of Sat, 12 Sept 2026; the next is "Sam Bower Residency #01 with Emilio Balman + Starts@2" on Thu, 10 Sept 2026.
+The Love Inn is a music venue in Bristol with 7 upcoming nights listed on soundcheck as of Sun, 13 Sept 2026; the next is "Wink Collective residency #01 - U up" on Thu, 17 Sept 2026.
 
-The Love Inn is a music venue in Bristol listed on soundcheck. 9 upcoming nights, with line-ups including A For Alpha, Alexandria, Andy Martin and Carré and 2 more. Browse upcoming dates, start times and who's playing. 84 Stokes Croft, Stokes Croft, Bristol, BS1 3QY, United Kingdom.
+The Love Inn is a music venue in Bristol listed on soundcheck. 7 upcoming nights, with line-ups including A For Alpha, Alexandria, Andy Martin and Carré and 2 more. Browse upcoming dates, start times and who's playing. 84 Stokes Croft, Stokes Croft, Bristol, BS1 3QY, United Kingdom.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Thu, 10 Sept 2026 | Sam Bower Residency #01 with Emilio Balman + Starts@2 |  |
-| Sat, 12 Sept 2026 | Steve Rice & Chris Farrell [all night long] | Chris Farrell, Steve Rice |
 | Thu, 17 Sept 2026 | Wink Collective residency #01 - U up |  |
 | Fri, 18 Sept 2026 | Carré + Ido Plumes | Carré, Ido Plumes |
 | Sat, 19 Sept 2026 | Dave Angel 'A TIME AND PLACE' Album Launch Party | Dave Angel, Surgeons Girl |
@@ -22,4 +20,4 @@ The Love Inn is a music venue in Bristol listed on soundcheck. 9 upcoming nights
 
 84 Stokes Croft, Stokes Croft, Bristol, BS1 3QY, United Kingdom, Bristol
 
-*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/bristol/club/the-love-inn/)*
+*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/bristol/club/the-love-inn/)*

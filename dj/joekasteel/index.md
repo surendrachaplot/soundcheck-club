@@ -1,6 +1,6 @@
 # Joe Kasteel
 
-Joe Kasteel is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Sat, 12 Sept 2026, next at Hope House, Leeds on Fri, 9 Oct 2026.
+Joe Kasteel is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Sun, 13 Sept 2026, next at Hope House, Leeds on Fri, 9 Oct 2026.
 
 Joe Kasteel is a house and disco artist tracked on soundcheck, with 12 sets logged across Leeds. Often billed alongside Roy Radiant, Freddie Noonan and Amelia Leigh. Next up: Hope House, Leeds on Fri 9 Oct.
 
@@ -25,4 +25,4 @@ Joe Kasteel is a house and disco artist tracked on soundcheck, with 12 sets logg
 
 Roy Radiant, Freddie Noonan, Amelia Leigh
 
-*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/joekasteel/)*
+*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/joekasteel/)*

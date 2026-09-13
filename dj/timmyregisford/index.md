@@ -1,19 +1,19 @@
 # Timmy Regisford
 
-Timmy Regisford is a House and Deep House artist with 3 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Ticcle, Hobart on Sat, 12 Sept 2026.
+Timmy Regisford is a House and Deep House artist with 2 upcoming club dates listed on soundcheck as of Sun, 13 Sept 2026, next at The Mothership, Auckland on Sat, 19 Sept 2026.
 
-Timmy Regisford is a house and deep house artist tracked on soundcheck, with 61 sets logged across Athens, Auckland, Chicago and Detroit and 9 more. Often billed alongside Mark Francis, merlin bobb and Akylla. Next up: Ticcle, Hobart on Sat 12 Sept.
+Timmy Regisford is a house and deep house artist tracked on soundcheck, with 61 sets logged across Athens, Auckland, Chicago and Detroit and 9 more. Often billed alongside Mark Francis, merlin bobb and Akylla. Next up: The Mothership, Auckland on Sat 19 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 12 Sept 2026 | Ticcle | Hobart |
 | Sat, 19 Sept 2026 | The Mothership | Auckland |
 | Sun, 27 Sept 2026 | public records | New York City |
 
 ## Recently played
 
+- Ticcle, Hobart — Sat, 12 Sept 2026
 - The Evelyn Hotel, Melbourne — Fri, 11 Sept 2026
 - Civic Underground, Sydney — Fri, 4 Sept 2026
 - Calatheabeachclub, Naples — Sat, 22 Aug 2026
@@ -21,10 +21,9 @@ Timmy Regisford is a house and deep house artist tracked on soundcheck, with 61 
 - Manko Athens, Athens — Sat, 11 Jul 2026
 - public records, New York City — Sat, 4 Jul 2026
 - HVEN, Tokyo — Fri, 19 Jun 2026
-- 93 Feet East, London — Sat, 6 Jun 2026
 
 ## Shares bills with
 
 Mark Francis, merlin bobb, Akylla
 
-*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/timmyregisford/)*
+*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/timmyregisford/)*

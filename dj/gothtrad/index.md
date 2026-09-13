@@ -1,6 +1,6 @@
 # Goth-Trad
 
-Goth-Trad is a Dubstep and Bass artist with 4 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at TBA -    Kodamanomori Camp Ground, Nagano, Tokyo on Fri, 11 Sept 2026.
+Goth-Trad is a Dubstep and Bass artist with 4 upcoming club dates listed on soundcheck as of Sun, 13 Sept 2026, next at TBA -    Kodamanomori Camp Ground, Nagano, Tokyo on Fri, 11 Sept 2026.
 
 Goth-Trad is a dubstep and bass artist tracked on soundcheck, with 85 sets logged across Amsterdam, Bangkok, Barcelona and Berlin and 14 more. Often billed alongside HELKTRAM, CITY1 and EVE (1). Next up: TBA -    Kodamanomori Camp Ground, Nagano, Tokyo on Fri 11 Sept.
 
@@ -28,4 +28,4 @@ Goth-Trad is a dubstep and bass artist tracked on soundcheck, with 85 sets logge
 
 HELKTRAM, CITY1, EVE (1)
 
-*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/gothtrad/)*
+*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/gothtrad/)*

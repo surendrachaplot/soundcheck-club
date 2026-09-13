@@ -1,6 +1,6 @@
 # Barbara Tucker
 
-Barbara Tucker is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Sat, 12 Sept 2026, next at Amsterdam Central Station, Amsterdam on Sat, 24 Oct 2026.
+Barbara Tucker is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Sun, 13 Sept 2026, next at Amsterdam Central Station, Amsterdam on Sat, 24 Oct 2026.
 
 Barbara Tucker is a house and disco artist based in United States of America, tracked on soundcheck, with 36 sets logged across Amsterdam, Bucharest, Chicago and Detroit and 12 more. Often billed alongside Bustin' Loose, Natasha Diggs and Sam Karlson. Next up: Amsterdam Central Station, Amsterdam on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ Barbara Tucker is a house and disco artist based in United States of America, tr
 
 Bustin' Loose, Natasha Diggs, Sam Karlson
 
-*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/barbaratucker/)*
+*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/barbaratucker/)*

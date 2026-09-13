@@ -1,6 +1,6 @@
 # DJ MANDY
 
-DJ MANDY is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Elektricity, Detroit on Fri, 18 Sept 2026.
+DJ MANDY is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Sun, 13 Sept 2026, next at Elektricity, Detroit on Fri, 18 Sept 2026.
 
 DJ MANDY is a house and techno artist based in United States of America, tracked on soundcheck, with 20 sets logged across Boston, Detroit, Houston and London and 8 more. Often billed alongside AMMARA, ANABELEN and ANNA PURA. Next up: Elektricity, Detroit on Fri 18 Sept.
 
@@ -28,4 +28,4 @@ DJ MANDY is a house and techno artist based in United States of America, tracked
 
 AMMARA, ANABELEN, ANNA PURA
 
-*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djmandy/)*
+*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djmandy/)*

@@ -1,14 +1,13 @@
 # Bar Datcha
 
-Bar Datcha is a music venue in Montreal with 7 upcoming nights listed on soundcheck as of Sat, 12 Sept 2026; the next is "Pierre Kwenders & San Farafina" on Sat, 12 Sept 2026.
+Bar Datcha is a music venue in Montreal with 6 upcoming nights listed on soundcheck as of Sun, 13 Sept 2026; the next is "Askim, Felix Patry, CasaKobrae" on Thu, 17 Sept 2026.
 
-Bar Datcha is a music venue in Montreal listed on soundcheck. 7 upcoming nights, with line-ups including AṢKIM, Casa Kobrae, Colmee and Èbony and 2 more. Browse upcoming dates, start times and who's playing. 98 Avenue Laurier O, Montréal, QC H2T 2N4, Canada.
+Bar Datcha is a music venue in Montreal listed on soundcheck. 6 upcoming nights, with line-ups including AṢKIM, Casa Kobrae, Colmee and Èbony and 2 more. Browse upcoming dates, start times and who's playing. 98 Avenue Laurier O, Montréal, QC H2T 2N4, Canada.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 12 Sept 2026 | Pierre Kwenders & San Farafina | Pierre Kwenders, San Farafina |
 | Thu, 17 Sept 2026 | Askim, Felix Patry, CasaKobrae | AṢKIM, Casa Kobrae, Felix Patry |
 | Fri, 18 Sept 2026 | Juno [Paragon & Bossa Nova, NYC], s.talbot, HVN | HVN (1), Juno (NY), s.talbot |
 | Sat, 19 Sept 2026 | DATCHA NONSTOP x Midnite Club: ÈBONY, Groceries, Minzi Roberta | Groceries, Jordan Gardner, Èbony |
@@ -20,4 +19,4 @@ Bar Datcha is a music venue in Montreal listed on soundcheck. 7 upcoming nights,
 
 98 Avenue Laurier O, Montréal, QC H2T 2N4, Canada, Montreal
 
-*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/montreal/club/bar-datcha/)*
+*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/montreal/club/bar-datcha/)*

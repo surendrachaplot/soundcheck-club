@@ -1,14 +1,13 @@
 # Flava D
 
-Flava D is a Drum & Bass and Bass artist with 7 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Circus Tokyo, Tokyo on Sat, 12 Sept 2026.
+Flava D is a Drum & Bass and Bass artist with 6 upcoming club dates listed on soundcheck as of Sun, 13 Sept 2026, next at Glen Helen Regional Park, Los Angeles on Sat, 19 Sept 2026.
 
-Flava D is a drum & bass and bass artist based in United Kingdom, tracked on soundcheck, with 100 sets logged across Amsterdam, Auckland, Austin and Berlin and 34 more. Often billed alongside P Money, Whiney and Andy C. Next up: Circus Tokyo, Tokyo on Sat 12 Sept.
+Flava D is a drum & bass and bass artist based in United Kingdom, tracked on soundcheck, with 100 sets logged across Amsterdam, Auckland, Austin and Berlin and 34 more. Often billed alongside P Money, Whiney and Andy C. Next up: Glen Helen Regional Park, Losangeles on Sat 19 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 12 Sept 2026 | Circus Tokyo | Tokyo |
 | Sat, 19 Sept 2026 | Glen Helen Regional Park | Los Angeles |
 | Fri, 2 Oct 2026 | The Regency Ballroom | San Francisco/Oakland |
 | Sat, 17 Oct 2026 | DRUMSHEDS | London |
@@ -18,6 +17,7 @@ Flava D is a drum & bass and bass artist based in United Kingdom, tracked on sou
 
 ## Recently played
 
+- Circus Tokyo, Tokyo — Sat, 12 Sept 2026
 - Circus Osaka, Osaka — Fri, 11 Sept 2026
 - UNO MALTA, Malta — Thu, 3 Sept 2026
 - Hackney Wick Multiple Venues, London — Sat, 1 Aug 2026
@@ -25,10 +25,9 @@ Flava D is a drum & bass and bass artist based in United Kingdom, tracked on sou
 - Eden, Ibiza — Wed, 15 Jul 2026
 - Document, Bristol — Sat, 11 Jul 2026
 - The Ground at Club Space, Miami — Sat, 30 May 2026
-- Industry City, New York City — Sat, 23 May 2026
 
 ## Shares bills with
 
 P Money, Whiney, Andy C
 
-*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/flavad/)*
+*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/flavad/)*

@@ -1,6 +1,6 @@
 # Stanly
 
-Stanly is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 12 Sept 2026, next at Club der Visionaere, Berlin on Tue, 15 Sept 2026.
+Stanly is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 13 Sept 2026, next at Club der Visionaere, Berlin on Tue, 15 Sept 2026.
 
 Stanly is a house and techno artist tracked on soundcheck, with 6 sets logged across Berlin and Warsaw. Often billed alongside Garo, Bruno Schmidt and Davy. Next up: Club der Visionaere, Berlin on Tue 15 Sept.
 
@@ -22,4 +22,4 @@ Stanly is a house and techno artist tracked on soundcheck, with 6 sets logged ac
 
 Garo, Bruno Schmidt, Davy
 
-*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/stanly/)*
+*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/stanly/)*

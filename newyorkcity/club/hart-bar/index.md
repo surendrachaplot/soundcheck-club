@@ -1,14 +1,13 @@
 # Hart Bar
 
-Hart Bar is a music venue in New York City with 4 upcoming nights listed on soundcheck as of Sat, 12 Sept 2026; the next is "Warm Leatherette" on Sat, 12 Sept 2026.
+Hart Bar is a music venue in New York City with 3 upcoming nights listed on soundcheck as of Sun, 13 Sept 2026; the next is "SINCERELY: UNDERGROUND" on Fri, 18 Sept 2026.
 
-Hart Bar is a music venue in Newyorkcity listed on soundcheck. 4 upcoming nights, with line-ups including Actual Angel, Adelaide (1), boy_c0ded and Brutal Twink and 2 more. Browse upcoming dates, start times and who's playing. 538 Hart Street, Brooklyn, NY 11221 USA.
+Hart Bar is a music venue in Newyorkcity listed on soundcheck. 3 upcoming nights, with line-ups including Actual Angel, Adelaide (1), boy_c0ded and Brutal Twink and 2 more. Browse upcoming dates, start times and who's playing. 538 Hart Street, Brooklyn, NY 11221 USA.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 12 Sept 2026 | Warm Leatherette | Ivy Oh, Supes Base |
 | Fri, 18 Sept 2026 | SINCERELY: UNDERGROUND | Adelaide (1), Christinathesaintt, Nyah Cami, kuntress, zzzzach |
 | Sat, 19 Sept 2026 | FOOTWORK FALL | LeCamille, Love Higher, SELEKTRA, WADDLE, satandoll |
 | Sat, 26 Sept 2026 | Club Mustang: FREAKQUENCIES | Actual Angel, Brutal Twink, boy_c0ded, esme2k |
@@ -17,4 +16,4 @@ Hart Bar is a music venue in Newyorkcity listed on soundcheck. 4 upcoming nights
 
 538 Hart Street, Brooklyn, NY 11221 USA, New York City
 
-*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/hart-bar/)*
+*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/hart-bar/)*

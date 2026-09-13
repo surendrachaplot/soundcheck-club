@@ -1,14 +1,13 @@
 # Apache
 
-Apache is a Afro House and House artist with 5 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Jungle Island, Miami on Sat, 12 Sept 2026.
+Apache is a Afro House and House artist with 4 upcoming club dates listed on soundcheck as of Sun, 13 Sept 2026, next at Creekside - Under The K Bridge, New York City on Fri, 18 Sept 2026.
 
-Apache is an afro house and house artist based in France, tracked on soundcheck, with 48 sets logged across Austin, Bali, Basel and Buenosaires and 12 more. Often billed alongside Kamcoco, Malone and Vanjee. Next up: Jungle Island, Miami on Sat 12 Sept.
+Apache is an afro house and house artist based in France, tracked on soundcheck, with 48 sets logged across Austin, Bali, Basel and Buenosaires and 12 more. Often billed alongside Kamcoco, Malone and Vanjee. Next up: Creekside - Under The K Bridge, Newyorkcity on Fri 18 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 12 Sept 2026 | Jungle Island | Miami |
 | Fri, 18 Sept 2026 | Creekside - Under The K Bridge | New York City |
 | Sat, 19 Sept 2026 | W Hollywood | Los Angeles |
 | Sun, 20 Sept 2026 | Spin | San Diego |
@@ -16,6 +15,7 @@ Apache is an afro house and house artist based in France, tracked on soundcheck,
 
 ## Recently played
 
+- Jungle Island, Miami — Sat, 12 Sept 2026
 - Pacha Ibiza, Ibiza — Wed, 22 Jul 2026
 - Jungle Island, Miami — Sat, 18 Jul 2026
 - Superior Ingredients, New York City — Fri, 19 Jun 2026
@@ -23,10 +23,9 @@ Apache is an afro house and house artist based in France, tracked on soundcheck,
 - Hï Ibiza, Ibiza — Sun, 7 Jun 2026
 - Jungle Island, Miami — Fri, 29 May 2026
 - Wet Deck at W Hotel, Kuala Lumpur — Sat, 18 Apr 2026
-- Carson Creek Ranch, Austin — Fri, 13 Mar 2026
 
 ## Shares bills with
 
 Kamcoco, Malone, Vanjee
 
-*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/apache/)*
+*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/apache/)*

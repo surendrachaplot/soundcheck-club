@@ -1,20 +1,20 @@
 # LUNAx3
 
-LUNAx3 is a Gabber and Hardcore artist with 4 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Daltons Brighton, Brighton on Sat, 12 Sept 2026.
+LUNAx3 is a Gabber and Hardcore artist with 3 upcoming club dates listed on soundcheck as of Sun, 13 Sept 2026, next at The Mist, Nottingham on Mon, 21 Sept 2026.
 
-LUNAx3 is a gabber and hardcore artist tracked on soundcheck, with 20 sets logged across Birmingham, Brighton, Leeds and London and 3 more. Often billed alongside RUBY RAWR, beansclub and Purity Filter. Next up: Daltons Brighton, Brighton on Sat 12 Sept.
+LUNAx3 is a gabber and hardcore artist tracked on soundcheck, with 20 sets logged across Birmingham, Brighton, Leeds and London and 3 more. Often billed alongside RUBY RAWR, beansclub and Purity Filter. Next up: The Mist, Nottingham on Mon 21 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 12 Sept 2026 | Daltons Brighton | Brighton |
 | Mon, 21 Sept 2026 | The Mist | Nottingham |
 | Sat, 3 Oct 2026 | Billy Bootleggers | Nottingham |
 | Fri, 30 Oct 2026 | Vespers Club | London |
 
 ## Recently played
 
+- Daltons Brighton, Brighton — Sat, 12 Sept 2026
 - Stage and Radio, Manchester — Sat, 29 Aug 2026
 - Mist Rolling Inn, Nottingham — Wed, 26 Aug 2026
 - Eiger Studios, Leeds — Mon, 24 Aug 2026
@@ -22,10 +22,9 @@ LUNAx3 is a gabber and hardcore artist tracked on soundcheck, with 20 sets logge
 - Daltons Brighton, Brighton — Sat, 15 Aug 2026
 - Billy Bootleggers, Nottingham — Sat, 18 Jul 2026
 - The DBA, Manchester — Sat, 13 Jun 2026
-- Suki10c, Birmingham — Fri, 12 Jun 2026
 
 ## Shares bills with
 
 RUBY RAWR, beansclub, Purity Filter
 
-*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lunax3/)*
+*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lunax3/)*

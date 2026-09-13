@@ -1,14 +1,13 @@
 # World Headquarters
 
-World Headquarters is a music venue in Newcastle with 27 upcoming nights listed on soundcheck as of Sat, 12 Sept 2026; the next is "TOWNSIDE NEWCASTLE DEBUT" on Sat, 12 Sept 2026.
+World Headquarters is a music venue in Newcastle with 26 upcoming nights listed on soundcheck as of Sun, 13 Sept 2026; the next is "Open Decks + Mix Social" on Tue, 15 Sept 2026.
 
-World Headquarters is a music venue in Newcastle listed on soundcheck. 27 upcoming nights, with line-ups including A.M.C., Alousea, CICELY and Dan Fresco and 2 more. Browse upcoming dates, start times and who's playing. Curtis Mayfield House, Carliol Square, East, Pilgrim St, Newcastle upon Tyne NE1 6UF.
+World Headquarters is a music venue in Newcastle listed on soundcheck. 26 upcoming nights, with line-ups including A.M.C., Alousea, CICELY and Dan Fresco and 2 more. Browse upcoming dates, start times and who's playing. Curtis Mayfield House, Carliol Square, East, Pilgrim St, Newcastle upon Tyne NE1 6UF.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 12 Sept 2026 | TOWNSIDE NEWCASTLE DEBUT |  |
 | Tue, 15 Sept 2026 | Open Decks + Mix Social |  |
 | Wed, 16 Sept 2026 | Daisy Roots Movement - D'n'B/Jungle Dance Workshop |  |
 | Fri, 18 Sept 2026 | BLITZ - Techno/Hardgroove/Trance/Hard Dance - FREE RAVE |  |
@@ -18,9 +17,10 @@ World Headquarters is a music venue in Newcastle listed on soundcheck. 27 upcomi
 | Fri, 25 Sept 2026 | Always Original presents RUZE, Ellie Scougall + Special Guests | Ellie Scougall, Max Jones, RUZE |
 | Fri, 25 Sept 2026 | World HQ presents Yung Singh | Yung Singh |
 | Sat, 26 Sept 2026 | BLITZ - Techno/Hardgroove/Trance/Hard Dance - FREE RAVE |  |
+| Sat, 26 Sept 2026 | NRG CRU: UP NORTH | CICELY, melba |
 
 ## Address
 
 Curtis Mayfield House, Carliol Square, East, Pilgrim St, Newcastle upon Tyne NE1 6UF, Newcastle
 
-*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/newcastle/club/world-headquarters/)*
+*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/newcastle/club/world-headquarters/)*

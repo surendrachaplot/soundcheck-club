@@ -1,6 +1,6 @@
 # La Vega
 
-La Vega is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Sat, 12 Sept 2026, next at Bossa Nova Civic Club, New York City on Sat, 24 Oct 2026.
+La Vega is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Sun, 13 Sept 2026, next at Bossa Nova Civic Club, New York City on Sat, 24 Oct 2026.
 
 La Vega is a house and deep house artist based in United States of America, tracked on soundcheck, with 42 sets logged across Barcelona, Berlin, Detroit and Lisbon and 6 more. Often billed alongside Javier de la Vega, Marteen and Alma Linda. Next up: Bossa Nova Civic Club, Newyorkcity on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ La Vega is a house and deep house artist based in United States of America, trac
 
 Javier de la Vega, Marteen, Alma Linda
 
-*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lavega/)*
+*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lavega/)*

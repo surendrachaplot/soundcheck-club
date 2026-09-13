@@ -1,14 +1,13 @@
 # Bailey Ibbs
 
-Bailey Ibbs is a Techno and House artist with 9 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Zoo, Geneva on Fri, 11 Sept 2026.
+Bailey Ibbs is a Techno and House artist with 8 upcoming club dates listed on soundcheck as of Sun, 13 Sept 2026, next at Sidney & Matilda, Sheffield on Fri, 18 Sept 2026.
 
-Bailey Ibbs is a techno and house artist tracked on soundcheck, with 162 sets logged across Amsterdam, Bangkok, Barcelona and Belfast and 44 more. Often billed alongside JKS, Paige (Night Service) and Beau Didier. Next up: Zoo, Geneva on Fri 11 Sept.
+Bailey Ibbs is a techno and house artist tracked on soundcheck, with 162 sets logged across Amsterdam, Bangkok, Barcelona and Belfast and 44 more. Often billed alongside JKS, Paige (Night Service) and Beau Didier. Next up: Sidney & Matilda, Sheffield on Fri 18 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 11 Sept 2026 | Zoo | Geneva |
 | Fri, 18 Sept 2026 | Sidney & Matilda | Sheffield |
 | Sat, 19 Sept 2026 | Tresor / Globus | Berlin |
 | Sat, 10 Oct 2026 | Starlane Pizza Bar | London |
@@ -33,4 +32,4 @@ Bailey Ibbs is a techno and house artist tracked on soundcheck, with 162 sets lo
 
 JKS, Paige (Night Service), Beau Didier
 
-*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/baileyibbs/)*
+*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/baileyibbs/)*

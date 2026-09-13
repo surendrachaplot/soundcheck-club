@@ -1,14 +1,13 @@
 # West Harlem
 
-West Harlem is a music venue in Kyoto with 9 upcoming nights listed on soundcheck as of Sat, 12 Sept 2026; the next is "Light In Harlem feat. Moodman" on Sat, 12 Sept 2026.
+West Harlem is a music venue in Kyoto with 8 upcoming nights listed on soundcheck as of Sun, 13 Sept 2026; the next is "FMKS" on Fri, 18 Sept 2026.
 
-West Harlem is a music venue in Kyoto listed on soundcheck. 9 upcoming nights, with line-ups including akii, Ally Mobbs, Dinamarca and DJ Master Kohta and 2 more. Browse upcoming dates, start times and who's playing. Wisteria Coat 2F, 123-1 Ishiyacho, Nakagyo-ku, Kyoto-shi, Kyoto, Japan 6048002.
+West Harlem is a music venue in Kyoto listed on soundcheck. 8 upcoming nights, with line-ups including akii, Ally Mobbs, Dinamarca and DJ Master Kohta and 2 more. Browse upcoming dates, start times and who's playing. Wisteria Coat 2F, 123-1 Ishiyacho, Nakagyo-ku, Kyoto-shi, Kyoto, Japan 6048002.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 12 Sept 2026 | Light In Harlem feat. Moodman | KOTSU, Moodman, YAMA(JP/OSK), kitapon |
 | Fri, 18 Sept 2026 | FMKS | Kross Section |
 | Sat, 19 Sept 2026 | PIECE OF CAKE Vol.8 | droove, ntank |
 | Sun, 20 Sept 2026 | Floe | Sou Kitahara, kitapon |
@@ -22,4 +21,4 @@ West Harlem is a music venue in Kyoto listed on soundcheck. 9 upcoming nights, w
 
 Wisteria Coat 2F, 123-1 Ishiyacho, Nakagyo-ku, Kyoto-shi, Kyoto, Japan 6048002, Kyoto
 
-*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/kyoto/club/west-harlem/)*
+*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/kyoto/club/west-harlem/)*

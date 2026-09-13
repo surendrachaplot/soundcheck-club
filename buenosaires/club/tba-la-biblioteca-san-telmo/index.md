@@ -1,14 +1,13 @@
 # TBA - La Biblioteca, San Telmo
 
-TBA - La Biblioteca, San Telmo is a music venue in Buenos Aires with 11 upcoming nights listed on soundcheck as of Sat, 12 Sept 2026; the next is "Alex O'Rion + Nicolas Viana x My House, La Biblioteca, San Telmo Buenos Aires" on Sat, 12 Sept 2026.
+TBA - La Biblioteca, San Telmo is a music venue in Buenos Aires with 10 upcoming nights listed on soundcheck as of Sun, 13 Sept 2026; the next is "Patrice Bäumel x Somos Produce, La Biblioteca, San Telmo Buenos Aires" on Fri, 18 Sept 2026.
 
-TBA - La Biblioteca, San Telmo is a music venue in Buenosaires listed on soundcheck. 11 upcoming nights, with line-ups including Alex O'Rion, Eli Nissan, FRANCO BA and Marcelo Vasami and 2 more. Browse upcoming dates, start times and who's playing.
+TBA - La Biblioteca, San Telmo is a music venue in Buenosaires listed on soundcheck. 10 upcoming nights, with line-ups including Eli Nissan, FRANCO BA, Marcelo Vasami and Nick Varon and 2 more. Browse upcoming dates, start times and who's playing.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 12 Sept 2026 | Alex O'Rion + Nicolas Viana x My House, La Biblioteca, San Telmo Buenos Aires | Alex O'Rion |
 | Fri, 18 Sept 2026 | Patrice Bäumel x Somos Produce, La Biblioteca, San Telmo Buenos Aires | Patrice Bäumel |
 | Sat, 19 Sept 2026 | FRANCO BA x My House – La Biblioteca, San Telmo Buenos Aires | FRANCO BA |
 | Fri, 25 Sept 2026 | Armina x Karmic, La Biblioteca, San Telmo Buenos Aires |  |
@@ -18,5 +17,6 @@ TBA - La Biblioteca, San Telmo is a music venue in Buenosaires listed on soundch
 | Fri, 9 Oct 2026 | Rodriguez Jr - My House, La Biblioteca - ALLMusicParties | Rodriguez Jr. |
 | Sat, 10 Oct 2026 | Marcelo Vasami - Somos Produce, La Biblioteca - ALLMusicParties | Marcelo Vasami |
 | Sun, 11 Oct 2026 | Shai T x Somos Produce – La Biblioteca, San Telmo Buenos Aires |  |
+| Sat, 17 Oct 2026 | Tantum - Somos Produce, La Biblioteca - ALLMusicParties | Tantum |
 
-*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/buenosaires/club/tba-la-biblioteca-san-telmo/)*
+*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/buenosaires/club/tba-la-biblioteca-san-telmo/)*

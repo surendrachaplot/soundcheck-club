@@ -1,14 +1,13 @@
 # JakoJako
 
-JakoJako is a Techno and House artist with 9 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Palais, London on Sat, 12 Sept 2026.
+JakoJako is a Techno and House artist with 8 upcoming club dates listed on soundcheck as of Sun, 13 Sept 2026, next at Berghain | Panorama Bar | Säule, Berlin on Sat, 19 Sept 2026.
 
-JakoJako is a techno and house artist tracked on soundcheck, with 165 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 38 more. Often billed alongside Rødhåd, Barker and Fadi Mohem. Next up: Palais, London on Sat 12 Sept.
+JakoJako is a techno and house artist tracked on soundcheck, with 165 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 38 more. Often billed alongside Rødhåd, Barker and Fadi Mohem. Next up: Berghain | Panorama Bar | Säule, Berlin on Sat 19 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 12 Sept 2026 | Palais | London |
 | Sat, 19 Sept 2026 | Berghain / Panorama Bar / Säule | Berlin |
 | Sat, 3 Oct 2026 | Under Club | Buenos Aires |
 | Fri, 23 Oct 2026 | CLUB RAUM | Amsterdam |
@@ -20,6 +19,7 @@ JakoJako is a techno and house artist tracked on soundcheck, with 165 sets logge
 
 ## Recently played
 
+- Palais, London — Sat, 12 Sept 2026
 - Nitsa Club, Barcelona — Fri, 11 Sept 2026
 - SMUT Athens, Athens — Sat, 5 Sept 2026
 - Esplanade Tranquille, Montreal — Sat, 29 Aug 2026
@@ -27,10 +27,9 @@ JakoJako is a techno and house artist tracked on soundcheck, with 165 sets logge
 - Quartier Des Spectacles, Montreal — Tue, 25 Aug 2026
 - Lofi, Amsterdam — Sat, 15 Aug 2026
 - Berghain | Panorama Bar | Säule, Berlin — Sat, 8 Aug 2026
-- Klangtherapie, Nürnberg — Thu, 6 Aug 2026
 
 ## Shares bills with
 
 Rødhåd, Barker, Fadi Mohem
 
-*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jakojako/)*
+*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jakojako/)*

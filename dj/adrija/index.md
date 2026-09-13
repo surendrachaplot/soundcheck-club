@@ -1,6 +1,6 @@
 # Adrija
 
-Adrija is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Sat, 12 Sept 2026, next at Beate Uwe, Berlin on Fri, 9 Oct 2026.
+Adrija is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Sun, 13 Sept 2026, next at Beate Uwe, Berlin on Fri, 9 Oct 2026.
 
 Adrija is a techno and trance artist tracked on soundcheck, with 27 sets logged across Berlin and Leipzig. Often billed alongside Aio, apøllo and isl&. Next up: Beate Uwe, Berlin on Fri 9 Oct.
 
@@ -25,4 +25,4 @@ Adrija is a techno and trance artist tracked on soundcheck, with 27 sets logged 
 
 Aio, apøllo, isl&
 
-*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/adrija/)*
+*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/adrija/)*

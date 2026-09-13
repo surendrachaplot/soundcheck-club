@@ -1,6 +1,6 @@
 # Skee Mask
 
-Skee Mask is a Techno and Bass artist with 7 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at The Cause, London on Sat, 12 Sept 2026.
+Skee Mask is a Techno and Bass artist with 7 upcoming club dates listed on soundcheck as of Sun, 13 Sept 2026, next at The Cause, London on Sat, 12 Sept 2026.
 
 Skee Mask is a techno and bass artist tracked on soundcheck, with 157 sets logged across Amsterdam, Antwerp, Barcelona and Belfast and 41 more. Often billed alongside Zenker Brothers, DjRUM and Mia Koden. Next up: The Cause, London on Sat 12 Sept.
 
@@ -18,6 +18,7 @@ Skee Mask is a techno and bass artist tracked on soundcheck, with 157 sets logge
 
 ## Recently played
 
+- The Cause, London — Sat, 12 Sept 2026
 - Hall, Tallinn — Sat, 5 Sept 2026
 - Kulturcampus Frankfurt, Frankfurt — Thu, 13 Aug 2026
 - Amsterdamse Bos, Amsterdam — Sat, 1 Aug 2026
@@ -25,10 +26,9 @@ Skee Mask is a techno and bass artist tracked on soundcheck, with 157 sets logge
 - Parc Nou. El Prat de Llobregat, Barcelona — Fri, 17 Jul 2026
 - Tresor / Globus, Berlin — Sat, 11 Jul 2026
 - Palais, London — Sat, 27 Jun 2026
-- BLITZ, Munich — Sat, 6 Jun 2026
 
 ## Shares bills with
 
 Zenker Brothers, DjRUM, Mia Koden
 
-*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/skeemask/)*
+*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/skeemask/)*

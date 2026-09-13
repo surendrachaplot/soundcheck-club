@@ -1,14 +1,13 @@
 # KALT
 
-KALT is a music venue in Strasbourg with 13 upcoming nights listed on soundcheck as of Sat, 12 Sept 2026; the next is "Steve Rachmad" on Sat, 12 Sept 2026.
+KALT is a music venue in Strasbourg with 12 upcoming nights listed on soundcheck as of Sun, 13 Sept 2026; the next is "ABJECT ACT : 6EJOU, Trudge, MORSURE , SPØRE, GARGOYL, LUDE, MEURSAULT, SEXY SAMU " on Fri, 18 Sept 2026.
 
-KALT is a music venue in Strasbourg listed on soundcheck. 13 upcoming nights, with line-ups including 6EJOU, Alarico, Alex Kassian and Alphy and 2 more. Browse upcoming dates, start times and who's playing. 1 Rue la Fayette, Strasbourg, France.
+KALT is a music venue in Strasbourg listed on soundcheck. 12 upcoming nights, with line-ups including 6EJOU, Alarico, Alex Kassian and Alphy and 2 more. Browse upcoming dates, start times and who's playing. 1 Rue la Fayette, Strasbourg, France.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 12 Sept 2026 | Steve Rachmad | Chill (FR), Mezza, Seedreak, Steve Rachmad, Zhar, kralle |
 | Fri, 18 Sept 2026 | ABJECT ACT : 6EJOU, Trudge, MORSURE , SPØRE, GARGOYL, LUDE, MEURSAULT, SEXY SAMU  | 6EJOU, Lude (2), MORSURE, Trudge |
 | Sat, 19 Sept 2026 | DJ Cringey & FJUSHA  | Alphy, DJ Cringey, FJUSHA, Mezza |
 | Sat, 26 Sept 2026 | Daniel Avery & Massimiliano Pagliara | Daniel Avery, Massimiliano Pagliara, Mezza |
@@ -18,9 +17,10 @@ KALT is a music venue in Strasbourg listed on soundcheck. 13 upcoming nights, wi
 | Sat, 24 Oct 2026 | Yasmin Gardezi | Mezza, Yasmin Gardezi |
 | Sat, 31 Oct 2026 | Backspin Records: Regal, Steve RedHead, Isaiah & Carmen Electro | Carmen Electro, Dima Roas, Isaiah (NL), Mezza, Regal, Steve RedHead |
 | Sat, 7 Nov 2026 | Bae Blade | Bae Blade, Mezza |
+| Sat, 14 Nov 2026 | EMILIJA & Two Dots | EMILIJA, Mezza, Two Dots (FR) |
 
 ## Address
 
 1 Rue la Fayette, Strasbourg, France, Strasbourg
 
-*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/strasbourg/club/kalt/)*
+*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/strasbourg/club/kalt/)*

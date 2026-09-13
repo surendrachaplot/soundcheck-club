@@ -1,6 +1,6 @@
 # KBZON
 
-KBZON is a House and Drum & Bass artist with 1 upcoming club date listed on soundcheck as of Sat, 12 Sept 2026, next at Drama Radio Bar, Mexico City on Wed, 9 Sept 2026.
+KBZON is a House and Drum & Bass artist with 1 upcoming club date listed on soundcheck as of Sun, 13 Sept 2026, next at Drama Radio Bar, Mexico City on Wed, 9 Sept 2026.
 
 KBZON is a house and drum & bass artist tracked on soundcheck, with 10 sets logged across Mexicocity. Often billed alongside Emisopa, ALDOX and Alexa Rosas. Next up: Drama Radio Bar, Mexicocity on Wed 9 Sept.
 
@@ -25,4 +25,4 @@ KBZON is a house and drum & bass artist tracked on soundcheck, with 10 sets logg
 
 Emisopa, ALDOX, Alexa Rosas
 
-*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kbzon/)*
+*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kbzon/)*

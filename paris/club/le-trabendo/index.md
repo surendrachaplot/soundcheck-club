@@ -1,14 +1,13 @@
 # Le Trabendo
 
-Le Trabendo is a music venue in Paris with 4 upcoming nights listed on soundcheck as of Sat, 12 Sept 2026; the next is "HORS-SOL extended [outdoor+indoor]" on Sat, 12 Sept 2026.
+Le Trabendo is a music venue in Paris with 3 upcoming nights listed on soundcheck as of Sun, 13 Sept 2026; the next is "Halfpipe Records & Friends at Trabendo" on Fri, 18 Sept 2026.
 
-Le Trabendo is a music venue in Paris listed on soundcheck. 4 upcoming nights, with line-ups including Asaya, Domi (FR), Forest and Jolly (FR) and 2 more. Browse upcoming dates, start times and who's playing. 211 avenue Jean Jaurès; 75019; Paris; France.
+Le Trabendo is a music venue in Paris listed on soundcheck. 3 upcoming nights, with line-ups including Asaya, Domi (FR), Mel (FR) and stargurl and 1 more. Browse upcoming dates, start times and who's playing. 211 avenue Jean Jaurès; 75019; Paris; France.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 12 Sept 2026 | HORS-SOL extended [outdoor+indoor] | Forest, Jolly (FR), Khey Mysterio, Lastvuska, Mars O10C, Pureblast, Von Riu |
 | Fri, 18 Sept 2026 | Halfpipe Records & Friends at Trabendo |  |
 | Sat, 19 Sept 2026 | Transgenik x stargurl Rituals | Asaya, stargurl |
 | Fri, 13 Nov 2026 | HORS-SOL | Domi (FR), Mel (FR), Unai Trotti |
@@ -17,4 +16,4 @@ Le Trabendo is a music venue in Paris listed on soundcheck. 4 upcoming nights, w
 
 211 avenue Jean Jaurès; 75019; Paris; France, Paris
 
-*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/paris/club/le-trabendo/)*
+*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/paris/club/le-trabendo/)*

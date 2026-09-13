@@ -1,6 +1,6 @@
 # DJ Co.kr
 
-DJ Co.kr is a Club and Bass artist with 1 upcoming club date listed on soundcheck as of Sat, 12 Sept 2026, next at Club Magno, Madrid on Thu, 10 Dec 2026.
+DJ Co.kr is a Club and Bass artist with 1 upcoming club date listed on soundcheck as of Sun, 13 Sept 2026, next at Club Magno, Madrid on Thu, 10 Dec 2026.
 
 DJ Co.kr is a club and bass artist tracked on soundcheck, with 174 sets logged across Bangkok, Berlin, Hongkong and Ibiza and 6 more. Often billed alongside bojvck, ANDOW and Ligrye. Next up: Club Magno, Madrid on Thu 10 Dec.
 
@@ -25,4 +25,4 @@ DJ Co.kr is a club and bass artist tracked on soundcheck, with 174 sets logged a
 
 bojvck, ANDOW, Ligrye
 
-*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/DJ-co-kr/)*
+*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/DJ-co-kr/)*

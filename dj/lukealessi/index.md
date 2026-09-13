@@ -1,14 +1,13 @@
 # Luke Alessi
 
-Luke Alessi is a House and Techno artist with 10 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Lofi, Amsterdam on Sat, 12 Sept 2026.
+Luke Alessi is a House and Techno artist with 9 upcoming club dates listed on soundcheck as of Sun, 13 Sept 2026, next at Hidden, Manchester on Sat, 19 Sept 2026.
 
-Luke Alessi is a house and techno artist based in Australia, tracked on soundcheck, with 117 sets logged across Amsterdam, Austin, Bangkok and Belgrade and 36 more. Often billed alongside Jordan Brando, DJ Tennis and VTSS. Next up: Lofi, Amsterdam on Sat 12 Sept.
+Luke Alessi is a house and techno artist based in Australia, tracked on soundcheck, with 117 sets logged across Amsterdam, Austin, Bangkok and Belgrade and 36 more. Often billed alongside Jordan Brando, DJ Tennis and VTSS. Next up: Hidden, Manchester on Sat 19 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 12 Sept 2026 | Lofi | Amsterdam |
 | Sat, 19 Sept 2026 | Hidden | Manchester |
 | Sun, 20 Sept 2026 | The Cause | London |
 | Sat, 26 Sept 2026 | Quinta Mira Rio | Lisbon |
@@ -21,6 +20,7 @@ Luke Alessi is a house and techno artist based in Australia, tracked on soundche
 
 ## Recently played
 
+- Lofi, Amsterdam — Sat, 12 Sept 2026
 - DC-10, Ibiza — Mon, 7 Sept 2026
 - Fuse, Brussels — Sat, 22 Aug 2026
 - Klub Werkstatt, Copenhagen — Fri, 21 Aug 2026
@@ -28,10 +28,9 @@ Luke Alessi is a house and techno artist based in Australia, tracked on soundche
 - Substation, Seattle — Thu, 6 Aug 2026
 - Sunday Sunday, Mexico City — Sun, 2 Aug 2026
 - TBA - Hollywood Park adjacent to SoFi Stadium, Los Angeles — Sat, 1 Aug 2026
-- Avalon Hollywood, Los Angeles — Sat, 1 Aug 2026
 
 ## Shares bills with
 
 Jordan Brando, DJ Tennis, VTSS
 
-*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lukealessi/)*
+*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lukealessi/)*

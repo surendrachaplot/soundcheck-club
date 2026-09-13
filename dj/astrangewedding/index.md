@@ -1,18 +1,18 @@
 # A Strange Wedding
 
-A Strange Wedding is a Techno and Bass artist with 2 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at 宀 Club, Hong Kong on Sat, 12 Sept 2026.
+A Strange Wedding is a Techno and Bass artist with 1 upcoming club date listed on soundcheck as of Sun, 13 Sept 2026, next at WOMB, Tokyo on Mon, 21 Sept 2026.
 
-A Strange Wedding is a techno and bass artist tracked on soundcheck, with 70 sets logged across Amsterdam, Athens, Berlin and Brussels and 22 more. Often billed alongside Anetha, VEL (MA) and Spekki Webu. Next up: 宀 Club, Hongkong on Sat 12 Sept.
+A Strange Wedding is a techno and bass artist tracked on soundcheck, with 70 sets logged across Amsterdam, Athens, Berlin and Brussels and 22 more. Often billed alongside Anetha, VEL (MA) and Spekki Webu. Next up: WOMB, Tokyo on Mon 21 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 12 Sept 2026 | 宀 Club | Hong Kong |
 | Mon, 21 Sept 2026 | WOMB | Tokyo |
 
 ## Recently played
 
+- 宀 Club, Hong Kong — Sat, 12 Sept 2026
 - Giri, Berlin — Thu, 30 Jul 2026
 - TBA - Toledo, Madrid — Fri, 29 May 2026
 - La Machine Du Moulin Rouge, Paris — Sat, 25 Apr 2026
@@ -20,10 +20,9 @@ A Strange Wedding is a techno and bass artist tracked on soundcheck, with 70 set
 - C12, Brussels — Sat, 21 Mar 2026
 - Le Transbordeur, Lyon — Fri, 13 Mar 2026
 - essaim, Paris — Sat, 14 Feb 2026
-- Fitzroy, Berlin — Sat, 24 Jan 2026
 
 ## Shares bills with
 
 Anetha, VEL (MA), Spekki Webu
 
-*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/astrangewedding/)*
+*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/astrangewedding/)*

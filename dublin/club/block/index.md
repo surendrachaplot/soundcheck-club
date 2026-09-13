@@ -1,14 +1,13 @@
 # block.
 
-block. is a music venue in Dublin with 9 upcoming nights listed on soundcheck as of Sat, 12 Sept 2026; the next is "DX Afterparty: Archie Hamilton + ADR" on Sat, 12 Sept 2026.
+block. is a music venue in Dublin with 8 upcoming nights listed on soundcheck as of Sun, 13 Sept 2026; the next is "Block x Soundmate: Janeret, Bernie & Vandi" on Sat, 19 Sept 2026.
 
-block. is a music venue in Dublin listed on soundcheck. 9 upcoming nights, with line-ups including ADR (UK), ADR (US), Archie Hamilton and bernie soundmate and 2 more. Browse upcoming dates, start times and who's playing. 13-14, Liberty Ln, Portobello.
+block. is a music venue in Dublin listed on soundcheck. 8 upcoming nights, with line-ups including bernie soundmate, Ejeca, Enzo Siragusa and Jake Fitz and 2 more. Browse upcoming dates, start times and who's playing. 13-14, Liberty Ln, Portobello.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 12 Sept 2026 | DX Afterparty: Archie Hamilton + ADR | ADR (UK), ADR (US), Archie Hamilton |
 | Sat, 19 Sept 2026 | Block x Soundmate: Janeret, Bernie & Vandi | Janeret, Vandi, Vandi (ES), bernie soundmate |
 | Fri, 25 Sept 2026 | Block: Tre Reynolds | Tre Reynolds |
 | Sat, 26 Sept 2026 | Block x Influence: William Luck B2B NØNAME, Victor Krum | NoName, Victor Krum, William Luck |
@@ -22,4 +21,4 @@ block. is a music venue in Dublin listed on soundcheck. 9 upcoming nights, with 
 
 13-14, Liberty Ln, Portobello, Dublin
 
-*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dublin/club/block/)*
+*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/dublin/club/block/)*

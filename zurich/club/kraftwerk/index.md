@@ -1,14 +1,13 @@
 # Kraftwerk
 
-Kraftwerk is a music venue in Zurich with 4 upcoming nights listed on soundcheck as of Sat, 12 Sept 2026; the next is "AEREA (LIVE) - Raves and Vibes" on Sat, 12 Sept 2026.
+Kraftwerk is a music venue in Zurich with 3 upcoming nights listed on soundcheck as of Sun, 13 Sept 2026; the next is "Mama Cacao Mindful Experience" on Sun, 20 Sept 2026.
 
-Kraftwerk is a music venue in Zurich listed on soundcheck. 4 upcoming nights, with line-ups including AEREA, HOOM, Jkson and KAïA (2) and 2 more. Browse upcoming dates, start times and who's playing. Selnaustrasse 25, 8001 Zürich, Switzerland.
+Kraftwerk is a music venue in Zurich listed on soundcheck. 3 upcoming nights, with line-ups including Jkson. Browse upcoming dates, start times and who's playing. Selnaustrasse 25, 8001 Zürich, Switzerland.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 12 Sept 2026 | AEREA (LIVE) - Raves and Vibes | AEREA, HOOM, KAïA (2), Pelin Vedis, ZYKLED, kso12 |
 | Sun, 20 Sept 2026 | Mama Cacao Mindful Experience | Jkson |
 | Sun, 25 Oct 2026 | Mama cacao Breath Ritual | Jkson |
 | Sun, 22 Nov 2026 | Mama Cacao Dance Ceremony | Jkson |
@@ -17,4 +16,4 @@ Kraftwerk is a music venue in Zurich listed on soundcheck. 4 upcoming nights, wi
 
 Selnaustrasse 25, 8001 Zürich, Switzerland, Zurich
 
-*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/zurich/club/kraftwerk/)*
+*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/zurich/club/kraftwerk/)*

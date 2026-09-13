@@ -1,14 +1,13 @@
 # Rex Club
 
-Rex Club is a music venue in Paris with 18 upcoming nights listed on soundcheck as of Sat, 12 Sept 2026; the next is "Toy Tonics: Cody Currie, Kapote, geneva" on Sat, 12 Sept 2026.
+Rex Club is a music venue in Paris with 17 upcoming nights listed on soundcheck as of Sun, 13 Sept 2026; the next is "LEGENDS: Kerri Chandler & DJ Deep" on Sun, 13 Sept 2026.
 
-Rex Club is a music venue in Paris listed on soundcheck. 18 upcoming nights, with line-ups including 2ManyDJs, Anja Sugar, Antal and Canelle Doublekick and 2 more. Browse upcoming dates, start times and who's playing. 5 boulevard Poissonnière; 75002; Paris; France.
+Rex Club is a music venue in Paris listed on soundcheck. 17 upcoming nights, with line-ups including 2ManyDJs, Anja Sugar, Antal and Canelle Doublekick and 2 more. Browse upcoming dates, start times and who's playing. 5 boulevard Poissonnière; 75002; Paris; France.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 12 Sept 2026 | Toy Tonics: Cody Currie, Kapote, geneva | Cody Currie, Kapote, geneva |
 | Sun, 13 Sept 2026 | LEGENDS: Kerri Chandler & DJ Deep | DJ Deep, Kerri Chandler |
 | Wed, 16 Sept 2026 | Vortex Invite: FUMI, VICØ, Keyklau | FUMI, Keyklau, VICØ |
 | Thu, 17 Sept 2026 | Bavardages & friends all night long |  |
@@ -18,9 +17,10 @@ Rex Club is a music venue in Paris listed on soundcheck. 18 upcoming nights, wit
 | Thu, 24 Sept 2026 | Starlight - 25th Anniversary: The Supermen Lovers, Matteo Diop, Mayou Picchu | Matteo Diop, The Supermen Lovers |
 | Fri, 25 Sept 2026 | Charlotte Curates: Charlotte, DJ Hell | Charlotte (FR), DJ Hell |
 | Sat, 26 Sept 2026 | VÉNUS CLUB INVITE Elkka | Elkka, Sainte Exp, Vickies |
+| Thu, 1 Oct 2026 | Rex Club presents: Joris Delacroix all night long | Joris Delacroix |
 
 ## Address
 
 5 boulevard Poissonnière; 75002; Paris; France, Paris
 
-*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/paris/club/rex-club/)*
+*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/paris/club/rex-club/)*

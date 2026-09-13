@@ -1,6 +1,6 @@
 # Tham
 
-Tham is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at 74 Hall, Istanbul on Sat, 19 Sept 2026.
+Tham is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Sun, 13 Sept 2026, next at 74 Hall, Istanbul on Sat, 19 Sept 2026.
 
 Tham is a techno and trance artist tracked on soundcheck, with 152 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 43 more. Often billed alongside Acierate, CARAVEL and Vendex. Next up: 74 Hall, Istanbul on Sat 19 Sept.
 
@@ -26,4 +26,4 @@ Tham is a techno and trance artist tracked on soundcheck, with 152 sets logged a
 
 Acierate, CARAVEL, Vendex
 
-*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tham/)*
+*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tham/)*

@@ -1,6 +1,6 @@
 # Smelteverket
 
-Smelteverket is a music venue in Oslo with 2 upcoming nights listed on soundcheck as of Sat, 12 Sept 2026; the next is "Funtowear invites Bellaire" on Sat, 19 Sept 2026.
+Smelteverket is a music venue in Oslo with 2 upcoming nights listed on soundcheck as of Sun, 13 Sept 2026; the next is "Funtowear invites Bellaire" on Sat, 19 Sept 2026.
 
 Smelteverket is a music venue in Oslo listed on soundcheck. 2 upcoming nights, with line-ups including Bellaire and Mulo. Browse upcoming dates, start times and who's playing. Vulkan 5, 0182 Oslo.
 
@@ -15,4 +15,4 @@ Smelteverket is a music venue in Oslo listed on soundcheck. 2 upcoming nights, w
 
 Vulkan 5, 0182 Oslo, Oslo
 
-*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/oslo/club/smelteverket/)*
+*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/oslo/club/smelteverket/)*

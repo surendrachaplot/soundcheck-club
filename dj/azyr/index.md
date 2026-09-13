@@ -1,14 +1,13 @@
 # Azyr
 
-Azyr is a Techno and House artist with 13 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Palmerstown House Estate, Dublin on Fri, 11 Sept 2026.
+Azyr is a Techno and House artist with 12 upcoming club dates listed on soundcheck as of Sun, 13 Sept 2026, next at TBA, Los Angeles on Sun, 27 Sept 2026.
 
-Azyr is a techno and house artist tracked on soundcheck, with 229 sets logged across Amsterdam, Antwerp, Athens and Austin and 61 more. Often billed alongside LESSSS, blk. and Charlie Sparks. Next up: Palmerstown House Estate, Dublin on Fri 11 Sept.
+Azyr is a techno and house artist tracked on soundcheck, with 229 sets logged across Amsterdam, Antwerp, Athens and Austin and 61 more. Often billed alongside LESSSS, blk. and Charlie Sparks. Next up: TBA, Losangeles on Sun 27 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 11 Sept 2026 | Palmerstown House Estate | Dublin |
 | Sun, 27 Sept 2026 | TBA | Los Angeles |
 | Fri, 2 Oct 2026 | TBA - Kai Tak Cruise Terminal Waiting Hall A | Hong Kong |
 | Sat, 3 Oct 2026 | TBA - XOX Arena | Kuala Lumpur |
@@ -20,6 +19,7 @@ Azyr is a techno and house artist tracked on soundcheck, with 229 sets logged ac
 | Fri, 30 Oct 2026 | NOS Event Center | Los Angeles |
 | Fri, 30 Oct 2026 | Wamu Theatre | Seattle |
 | Sat, 21 Nov 2026 | The Garage | Madrid |
+| Sat, 28 Nov 2026 | Depot Mayfield | Manchester |
 
 ## Recently played
 
@@ -36,4 +36,4 @@ Azyr is a techno and house artist tracked on soundcheck, with 229 sets logged ac
 
 LESSSS, blk., Charlie Sparks
 
-*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/azyr/)*
+*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/azyr/)*

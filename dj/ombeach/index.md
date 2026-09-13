@@ -1,6 +1,6 @@
 # Om Beach
 
-Om Beach is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Sat, 12 Sept 2026, next at Drama Radio Bar, Mexico City on Wed, 9 Sept 2026.
+Om Beach is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Sun, 13 Sept 2026, next at Drama Radio Bar, Mexico City on Wed, 9 Sept 2026.
 
 Om Beach is a house and deep house artist tracked on soundcheck, with 24 sets logged across Mexicocity. Often billed alongside Barreto, Juan Soto and Bonnz!. Next up: Drama Radio Bar, Mexicocity on Wed 9 Sept.
 
@@ -25,4 +25,4 @@ Om Beach is a house and deep house artist tracked on soundcheck, with 24 sets lo
 
 Barreto, Juan Soto, Bonnz!
 
-*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ombeach/)*
+*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ombeach/)*

@@ -1,6 +1,6 @@
 # TBA - Marseille
 
-TBA - Marseille is a music venue in Marseille with 1 upcoming night listed on soundcheck as of Sat, 12 Sept 2026; the next is "Dreamachine Festival" on Thu, 12 Nov 2026.
+TBA - Marseille is a music venue in Marseille with 1 upcoming night listed on soundcheck as of Sun, 13 Sept 2026; the next is "Dreamachine Festival" on Thu, 12 Nov 2026.
 
 TBA - Marseille is a music venue in Marseille listed on soundcheck. 1 upcoming night, with line-ups including keiyaA, Le Kaiju and Vanda Forte. Browse upcoming dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ TBA - Marseille is a music venue in Marseille listed on soundcheck. 1 upcoming n
 | --- | --- | --- |
 | Thu, 12 Nov 2026 | Dreamachine Festival | Le Kaiju, Vanda Forte, keiyaA |
 
-*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/marseille/club/tba-marseille/)*
+*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/marseille/club/tba-marseille/)*

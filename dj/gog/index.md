@@ -1,6 +1,6 @@
 # Gog
 
-Gog is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 12 Sept 2026, next at Drama Radio Bar, Mexico City on Wed, 9 Sept 2026.
+Gog is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sun, 13 Sept 2026, next at Drama Radio Bar, Mexico City on Wed, 9 Sept 2026.
 
 Gog is a techno and house artist based in Mexico, tracked on soundcheck, with 14 sets logged across Mexicocity. Often billed alongside Alejandro Franco, Claire and Encarta 97. Next up: Drama Radio Bar, Mexicocity on Wed 9 Sept.
 
@@ -25,4 +25,4 @@ Gog is a techno and house artist based in Mexico, tracked on soundcheck, with 14
 
 Alejandro Franco, Claire, Encarta 97
 
-*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/gog/)*
+*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/gog/)*

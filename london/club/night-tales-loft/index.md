@@ -1,14 +1,13 @@
 # Night Tales Loft
 
-Night Tales Loft is a music venue in London with 27 upcoming nights listed on soundcheck as of Sat, 12 Sept 2026; the next is "NT's Loft 11th Birthday: Free Rooftop Party" on Sat, 12 Sept 2026.
+Night Tales Loft is a music venue in London with 26 upcoming nights listed on soundcheck as of Sun, 13 Sept 2026; the next is "NT's Loft: Jazzie B (All Night Long)" on Fri, 18 Sept 2026.
 
-Night Tales Loft is a music venue in London listed on soundcheck. 27 upcoming nights, with line-ups including Anunaku, babyschön, Bridge (NY) and Budino and 2 more. Browse upcoming dates, start times and who's playing. 207, 1 Westgate St, Hackney, London E8 3RL.
+Night Tales Loft is a music venue in London listed on soundcheck. 26 upcoming nights, with line-ups including Anunaku, babyschön, Bridge (NY) and Budino and 2 more. Browse upcoming dates, start times and who's playing. 207, 1 Westgate St, Hackney, London E8 3RL.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 12 Sept 2026 | NT's Loft 11th Birthday: Free Rooftop Party | Daisybelle, Elijah, G33 (UK), Heels & Souls, Izzi, JD. REID, Jeremy Sylvester, Lady Passion, Maleek, Millian, Nadia Ksaiba, ODJ (1), Samtheman, Selassie TBC, System Olympia |
 | Fri, 18 Sept 2026 | NT's Loft: Jazzie B (All Night Long) | Jazzie B Obe, Soul II Soul |
 | Sat, 19 Sept 2026 | NT's Loft: Prosumer (All Night Long) | Prosumer |
 | Mon, 21 Sept 2026 | [Panel Talk] - Mic Check: Breaking Into Broadcasting & Radio |  |
@@ -18,9 +17,10 @@ Night Tales Loft is a music venue in London listed on soundcheck. 27 upcoming ni
 | Sat, 3 Oct 2026 | NT's Loft: John Tejada & De La Reef | De La Reef, John Tejada |
 | Fri, 9 Oct 2026 | NT's Loft: Dam Swindle | Dam Swindle |
 | Sat, 10 Oct 2026 | Origins: Gabbs (All Night Long) | Gabbs |
+| Thu, 15 Oct 2026 | NT's Loft: JIM (Live) |  |
 
 ## Address
 
 207, 1 Westgate St, Hackney, London E8 3RL, London
 
-*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/night-tales-loft/)*
+*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/night-tales-loft/)*

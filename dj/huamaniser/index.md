@@ -1,6 +1,6 @@
 # Huamaniser
 
-Huamaniser is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at OHM, Berlin on Thu, 24 Sept 2026.
+Huamaniser is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Sun, 13 Sept 2026, next at OHM, Berlin on Thu, 24 Sept 2026.
 
 Huamaniser is a techno and house artist based in Spain, tracked on soundcheck, with 53 sets logged across Amsterdam, Berlin, Dublin and Ibiza and 3 more. Often billed alongside Cristian Marras, Khloe and Miss Bashful. Next up: OHM, Berlin on Thu 24 Sept.
 
@@ -27,4 +27,4 @@ Huamaniser is a techno and house artist based in Spain, tracked on soundcheck, w
 
 Cristian Marras, Khloe, Miss Bashful
 
-*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/huamaniser/)*
+*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/huamaniser/)*

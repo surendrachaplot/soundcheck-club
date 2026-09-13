@@ -1,20 +1,20 @@
 # Nadia Struiwigh
 
-Nadia Struiwigh is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Macadam, Nantes on Sat, 12 Sept 2026.
+Nadia Struiwigh is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Sun, 13 Sept 2026, next at Berghain | Panorama Bar | Säule, Berlin on Thu, 17 Sept 2026.
 
-Nadia Struiwigh is a techno and house artist tracked on soundcheck, with 77 sets logged across Amsterdam, Barcelona, Berlin and Bristol and 17 more. Often billed alongside DJ MELL G, MAEDON and quest?onmarq. Next up: Macadam, Nantes on Sat 12 Sept.
+Nadia Struiwigh is a techno and house artist tracked on soundcheck, with 77 sets logged across Amsterdam, Barcelona, Berlin and Bristol and 17 more. Often billed alongside DJ MELL G, MAEDON and quest?onmarq. Next up: Berghain | Panorama Bar | Säule, Berlin on Thu 17 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 12 Sept 2026 | Macadam | Nantes |
 | Thu, 17 Sept 2026 | Berghain / Panorama Bar / Säule | Berlin |
 | Fri, 2 Oct 2026 | Tresor / Globus | Berlin |
 | Fri, 23 Oct 2026 | De Thomaskerk | Amsterdam |
 
 ## Recently played
 
+- Macadam, Nantes — Sat, 12 Sept 2026
 - OHM, Berlin — Sat, 5 Sept 2026
 - RSO.BERLIN, Berlin — Sat, 29 Aug 2026
 - MONOM, Berlin — Sat, 8 Aug 2026
@@ -22,10 +22,9 @@ Nadia Struiwigh is a techno and house artist tracked on soundcheck, with 77 sets
 - Tresor / Globus, Berlin — Sat, 13 Jun 2026
 - Glazart, Paris — Sat, 6 Jun 2026
 - KREUZWERK, Berlin — Fri, 15 May 2026
-- public records, New York City — Fri, 1 May 2026
 
 ## Shares bills with
 
 DJ MELL G, MAEDON, quest?onmarq
 
-*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nadiastruiwigh/)*
+*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nadiastruiwigh/)*

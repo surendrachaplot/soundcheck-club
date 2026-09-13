@@ -1,14 +1,13 @@
 # Winson
 
-Winson is a Techno and Deep House artist with 9 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Knockdown Center, New York City on Sat, 12 Sept 2026.
+Winson is a Techno and Deep House artist with 8 upcoming club dates listed on soundcheck as of Sun, 13 Sept 2026, next at Radius, Chicago on Fri, 18 Sept 2026.
 
-Winson is a techno and deep house artist tracked on soundcheck, with 73 sets logged across Amsterdam, Barcelona, Basel and Brussels and 28 more. Often billed alongside KUKO, KLOFAMA and KARAH. Next up: Knockdown Center, Newyorkcity on Sat 12 Sept.
+Winson is a techno and deep house artist tracked on soundcheck, with 73 sets logged across Amsterdam, Barcelona, Basel and Brussels and 28 more. Often billed alongside KUKO, KLOFAMA and KARAH. Next up: Radius, Chicago on Fri 18 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 12 Sept 2026 | Knockdown Center | New York City |
 | Fri, 18 Sept 2026 | Radius | Chicago |
 | Fri, 18 Sept 2026 | Radius | Chicago |
 | Sat, 19 Sept 2026 | TBA - Pabellón Oeste del Palacio de los Deportes | Mexico City |
@@ -20,6 +19,7 @@ Winson is a techno and deep house artist tracked on soundcheck, with 73 sets log
 
 ## Recently played
 
+- Knockdown Center, New York City — Sat, 12 Sept 2026
 - 131 Mccormack St, Toronto — Fri, 11 Sept 2026
 - TBA - Wasteland Festival, Cologne — Sat, 5 Sept 2026
 - Echostage, Washington DC — Fri, 4 Sept 2026
@@ -27,10 +27,9 @@ Winson is a techno and deep house artist tracked on soundcheck, with 73 sets log
 - Ahoy Rotterdam, Rotterdam — Sat, 29 Aug 2026
 - Dürener Badesee, Cologne — Fri, 28 Aug 2026
 - Amnesia Ibiza, Ibiza — Mon, 17 Aug 2026
-- UNO MALTA, Malta — Fri, 31 Jul 2026
 
 ## Shares bills with
 
 KUKO, KLOFAMA, KARAH
 
-*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/winson/)*
+*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/winson/)*

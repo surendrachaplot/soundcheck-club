@@ -1,14 +1,13 @@
 # JonnyVicious
 
-JonnyVicious is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at TBA - Qi Bar, Kuala Lumpur on Sat, 12 Sept 2026.
+JonnyVicious is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Sun, 13 Sept 2026, next at TBA - BOBO's KL (BANGSAR), Kuala Lumpur on Wed, 16 Sept 2026.
 
-JonnyVicious is a house and techno artist tracked on soundcheck, with 91 sets logged across Bali, Bangkok, Hongkong and Kualalumpur and 1 more. Often billed alongside LZZY, Alam and Roshan. Next up: TBA - Qi Bar, Kualalumpur on Sat 12 Sept.
+JonnyVicious is a house and techno artist tracked on soundcheck, with 91 sets logged across Bali, Bangkok, Hongkong and Kualalumpur and 1 more. Often billed alongside LZZY, Alam and Roshan. Next up: TBA - BOBO's KL (BANGSAR), Kualalumpur on Wed 16 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 12 Sept 2026 | TBA - Qi Bar | Kuala Lumpur |
 | Wed, 16 Sept 2026 | TBA - BOBO's KL (BANGSAR) | Kuala Lumpur |
 | Sat, 19 Sept 2026 | TBA - JOLOKO KL  | Kuala Lumpur |
 | Sat, 3 Oct 2026 | TBA - Mantra Rooftop Bar & Lounge | Kuala Lumpur |
@@ -16,6 +15,7 @@ JonnyVicious is a house and techno artist tracked on soundcheck, with 91 sets lo
 
 ## Recently played
 
+- TBA - Qi Bar, Kuala Lumpur — Sat, 12 Sept 2026
 - TBA - JOLOKO, Kuala Lumpur — Sat, 22 Aug 2026
 - Wet Deck at W Hotel, Kuala Lumpur — Sat, 15 Aug 2026
 - TBA - Mantra Rooftop & Bar, Kuala Lumpur — Sat, 1 Aug 2026
@@ -23,10 +23,9 @@ JonnyVicious is a house and techno artist tracked on soundcheck, with 91 sets lo
 - TBA - JOLOKO, Kuala Lumpur — Sat, 18 Jul 2026
 - Klymax Discotheque, Bali — Fri, 26 Jun 2026
 - Over & Above KL, Kuala Lumpur — Sat, 6 Jun 2026
-- Over & Above KL, Kuala Lumpur — Sun, 31 May 2026
 
 ## Shares bills with
 
 LZZY, Alam, Roshan
 
-*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jonnyvicious/)*
+*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jonnyvicious/)*

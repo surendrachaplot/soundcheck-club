@@ -1,14 +1,13 @@
 # Oxford Art Factory
 
-Oxford Art Factory is a music venue in Sydney with 13 upcoming nights listed on soundcheck as of Sat, 12 Sept 2026; the next is "Pola & Bryson – Australian Tour - Sydney" on Sat, 12 Sept 2026.
+Oxford Art Factory is a music venue in Sydney with 12 upcoming nights listed on soundcheck as of Sun, 13 Sept 2026; the next is "Berlin Rave (Sydney) ft ANXHELA (Italy)" on Sat, 19 Sept 2026.
 
-Oxford Art Factory is a music venue in Sydney listed on soundcheck. 13 upcoming nights, with line-ups including Alan Fitzpatrick, Allen Cedano, ANXHELA and BOLT and 2 more. Browse upcoming dates, start times and who's playing. 38-46 Oxford St; Darlinghurst NSW 2010.
+Oxford Art Factory is a music venue in Sydney listed on soundcheck. 12 upcoming nights, with line-ups including Alan Fitzpatrick, Allen Cedano, ANXHELA and BOLT and 2 more. Browse upcoming dates, start times and who's playing. 38-46 Oxford St; Darlinghurst NSW 2010.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 12 Sept 2026 | Pola & Bryson – Australian Tour - Sydney | Pola & Bryson |
 | Sat, 19 Sept 2026 | Berlin Rave (Sydney) ft ANXHELA (Italy) | ANXHELA, Allen Cedano, KAYA (AU) |
 | Wed, 23 Sept 2026 | Clementine Douglas |  |
 | Fri, 25 Sept 2026 | James Massiah (UK) | Fatshaudi, James Massiah |
@@ -18,9 +17,10 @@ Oxford Art Factory is a music venue in Sydney listed on soundcheck. 13 upcoming 
 | Fri, 23 Oct 2026 | Soul Wun - SYDNEY - Oxford Art Factory | Soul Wun |
 | Fri, 30 Oct 2026 | Dam Swindle (Heist Recordings, NL) | BOLT, Dam Swindle, MILLA, flik |
 | Thu, 19 Nov 2026 | VENNA - SYDNEY - Oxford Art Factory |  |
+| Fri, 20 Nov 2026 | Marcel Dettmann & Gerd Janson [GER] | Gerd Janson, Marcel Dettmann |
 
 ## Address
 
 38-46 Oxford St; Darlinghurst NSW 2010, Sydney
 
-*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/sydney/club/oxford-art-factory/)*
+*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/sydney/club/oxford-art-factory/)*

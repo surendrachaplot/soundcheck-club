@@ -1,6 +1,6 @@
 # Darwin
 
-Darwin is a Techno and Bass artist with 9 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at The Cause, London on Sat, 12 Sept 2026.
+Darwin is a Techno and Bass artist with 8 upcoming club dates listed on soundcheck as of Sun, 13 Sept 2026, next at The Cause, London on Sat, 12 Sept 2026.
 
 Darwin is a techno and bass artist tracked on soundcheck, with 163 sets logged across Amsterdam, Barcelona, Basel and Berlin and 44 more. Often billed alongside Esposito, Carré and EMA (1). Next up: The Cause, London on Sat 12 Sept.
 
@@ -9,7 +9,6 @@ Darwin is a techno and bass artist tracked on soundcheck, with 163 sets logged a
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 12 Sept 2026 | The Cause | London |
-| Sat, 12 Sept 2026 | The White Hotel | Manchester |
 | Sat, 26 Sept 2026 | Cabaret Sauvage | Paris |
 | Fri, 2 Oct 2026 | The Loom | San Francisco/Oakland |
 | Fri, 2 Oct 2026 | TBA | Los Angeles |
@@ -20,17 +19,17 @@ Darwin is a techno and bass artist tracked on soundcheck, with 163 sets logged a
 
 ## Recently played
 
+- The Cause, London — Sat, 12 Sept 2026
+- The White Hotel, Manchester — Sat, 12 Sept 2026
 - Berghain | Panorama Bar | Säule, Berlin — Fri, 21 Aug 2026
 - TBA - Klingemühle, Berlin — Fri, 14 Aug 2026
 - RSO.BERLIN, Berlin — Sat, 18 Jul 2026
 - Berghain | Panorama Bar | Säule, Berlin — Sat, 27 Jun 2026
 - CLUB RAUM, Amsterdam — Fri, 19 Jun 2026
 - Palais, London — Sat, 13 Jun 2026
-- The Love Inn, Bristol — Fri, 12 Jun 2026
-- Zuiderpark, The Hague — Sat, 6 Jun 2026
 
 ## Shares bills with
 
 Esposito, Carré, EMA (1)
 
-*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/darwin/)*
+*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/darwin/)*

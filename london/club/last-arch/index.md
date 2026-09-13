@@ -1,14 +1,13 @@
 # Last Arch
 
-Last Arch is a music venue in London with 13 upcoming nights listed on soundcheck as of Sat, 12 Sept 2026; the next is "Return2Source presents: Marcia Carr + more" on Sat, 12 Sept 2026.
+Last Arch is a music venue in London with 12 upcoming nights listed on soundcheck as of Sun, 13 Sept 2026; the next is "HIJINX: Body Clinic" on Fri, 18 Sept 2026.
 
-Last Arch is a music venue in London listed on soundcheck. 13 upcoming nights, with line-ups including Archie Holmes, Arts of the Unknown, Body Clinic and Constratti and 2 more. Browse upcoming dates, start times and who's playing. 392 Wandsworth Road SW84PH (Through the black gates, last arch).
+Last Arch is a music venue in London listed on soundcheck. 12 upcoming nights, with line-ups including Archie Holmes, Arts of the Unknown, Body Clinic and Constratti and 2 more. Browse upcoming dates, start times and who's playing. 392 Wandsworth Road SW84PH (Through the black gates, last arch).
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 12 Sept 2026 | Return2Source presents: Marcia Carr + more | Lou Vincent, Marcia Carr |
 | Fri, 18 Sept 2026 | HIJINX: Body Clinic | Body Clinic |
 | Sat, 19 Sept 2026 | Club Soft with Joseph Wood, Mina, Peroli, GDSMRCY, BLCK Stream | Godsfave, Joseph Wood, Mina, Peroli |
 | Sat, 26 Sept 2026 | Eargasm's 2nd Birthday (Night w/ NoIDMate & Nic David) | Nic David |
@@ -18,9 +17,10 @@ Last Arch is a music venue in London listed on soundcheck. 13 upcoming nights, w
 | Sat, 17 Oct 2026 | Mödum presents - Suciu, Beckhäuser, Kyle&Sam, Bonza, Josh b2b Oli |  |
 | Sat, 24 Oct 2026 | Archie Holmes x Arts of the Unknown - Vol.02 | Archie Holmes, Arts of the Unknown |
 | Sat, 31 Oct 2026 | Holy Grail Presents: Halloween with Higgo | Higgo, THIRZA |
+| Fri, 6 Nov 2026 | SOLAS Studios presents: SOLAS & Friends (Chapter 2) |  |
 
 ## Address
 
 392 Wandsworth Road SW84PH (Through the black gates, last arch), London
 
-*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/last-arch/)*
+*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/last-arch/)*

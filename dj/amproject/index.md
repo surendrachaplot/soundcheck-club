@@ -1,6 +1,6 @@
 # A.M. Project
 
-A.M. Project is a House and Electronica artist with 1 upcoming club date listed on soundcheck as of Sat, 12 Sept 2026, next at Fvtvr, Paris on Sat, 12 Sept 2026.
+A.M. Project is a House and Electronica artist with 1 upcoming club date listed on soundcheck as of Sun, 13 Sept 2026, next at Fvtvr, Paris on Sat, 12 Sept 2026.
 
 A.M. Project is a house and electronica artist tracked on soundcheck, with 70 sets logged across Amsterdam, Barcelona, Birmingham and Ibiza and 9 more. Often billed alongside Samuel Deep, AZAAD and DJ Senc. Next up: Fvtvr, Paris on Sat 12 Sept.
 
@@ -12,6 +12,7 @@ A.M. Project is a house and electronica artist tracked on soundcheck, with 70 se
 
 ## Recently played
 
+- Fvtvr, Paris — Sat, 12 Sept 2026
 - Lofi, Amsterdam — Sat, 29 Aug 2026
 - Hola Club Sitges (Cala Vallcarca), Barcelona — Sun, 16 Aug 2026
 - Honey Street Studio, Manchester — Sat, 20 Jun 2026
@@ -19,10 +20,9 @@ A.M. Project is a house and electronica artist tracked on soundcheck, with 70 se
 - TBA - San Antonio, Sa Punta des Molí, Ibiza — Sat, 2 May 2026
 - Les Enfants Brillants, Barcelona — Fri, 1 May 2026
 - Eden, Ibiza — Sat, 28 Mar 2026
-- fabric, London — Sun, 1 Mar 2026
 
 ## Shares bills with
 
 Samuel Deep, AZAAD, DJ Senc
 
-*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/amproject/)*
+*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/amproject/)*

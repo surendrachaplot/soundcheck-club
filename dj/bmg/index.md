@@ -1,6 +1,6 @@
 # BMG
 
-BMG is a Techno and Electro artist with 3 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at TBA - The Loom (2150 Livingston St, Oakland), San Francisco/Oakland on Fri, 18 Sept 2026.
+BMG is a Techno and Electro artist with 3 upcoming club dates listed on soundcheck as of Sun, 13 Sept 2026, next at TBA - The Loom (2150 Livingston St, Oakland), San Francisco/Oakland on Fri, 18 Sept 2026.
 
 BMG is a techno and electro artist based in United States of America, tracked on soundcheck, with 69 sets logged across Amsterdam, Berlin, Bristol and Chicago and 14 more. Often billed alongside Erika, Mike Servito and Derek Plaslaiko. Next up: TBA - The Loom (2150 Livingston St, Oakland), Sanfrancisco on Fri 18 Sept.
 
@@ -27,4 +27,4 @@ BMG is a techno and electro artist based in United States of America, tracked on
 
 Erika, Mike Servito, Derek Plaslaiko
 
-*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bmg/)*
+*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bmg/)*

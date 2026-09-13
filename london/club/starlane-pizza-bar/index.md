@@ -1,14 +1,13 @@
 # Starlane Pizza Bar
 
-Starlane Pizza Bar is a music venue in London with 25 upcoming nights listed on soundcheck as of Sat, 12 Sept 2026; the next is "Brainsurfers [All Night Long]" on Sat, 12 Sept 2026.
+Starlane Pizza Bar is a music venue in London with 24 upcoming nights listed on soundcheck as of Sun, 13 Sept 2026; the next is "Music as Resistance ~ Against Apathy Party" on Sun, 13 Sept 2026.
 
-Starlane Pizza Bar is a music venue in London listed on soundcheck. 25 upcoming nights, with line-ups including 3 Minds, ADAN (2), ADMNTi and Aerofunk and 2 more. Browse upcoming dates, start times and who's playing. 12 Cody Road, E16 4SR London, United Kingdom.
+Starlane Pizza Bar is a music venue in London listed on soundcheck. 24 upcoming nights, with line-ups including 3 Minds, ADAN (2), ADMNTi and Aerofunk and 2 more. Browse upcoming dates, start times and who's playing. 12 Cody Road, E16 4SR London, United Kingdom.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 12 Sept 2026 | Brainsurfers [All Night Long] | Harry McCanna, Sam Bangura |
 | Sun, 13 Sept 2026 | Music as Resistance ~ Against Apathy Party | ADAN (2), Dylan Pasqua, Godsfave, Guillaume Cartier, Sheriff Boo |
 | Fri, 18 Sept 2026 | Forward x Bonanza present: Starlane London | Benny (El Rio Hostel), Kensa, Kyle Toole, Millie McKee, Moaad BKR, Nicky Macha |
 | Sat, 19 Sept 2026 | Starlane presents: Enrenou | Gabriel Rai, Olita (UK), Raphael Carrau, Tunik |
@@ -18,9 +17,10 @@ Starlane Pizza Bar is a music venue in London listed on soundcheck. 25 upcoming 
 | Sun, 27 Sept 2026 | Saints & Sinners with James Harbrecht, Jeneva, LO-LOW B2B David Ramsay & OllyK | David Ramsay, James Harbrecht, Jeneva, LO-LOW, OllyK |
 | Sun, 27 Sept 2026 | Cartulis After Party - Summer Closing |  |
 | Fri, 2 Oct 2026 | ElixSystem at Starlane |  |
+| Sat, 3 Oct 2026 | Transmissons x Breakfast Club Afterparty | Eversines, Inner Zone, Marie K (1) |
 
 ## Address
 
 12 Cody Road, E16 4SR London, United Kingdom, London
 
-*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/starlane-pizza-bar/)*
+*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/starlane-pizza-bar/)*

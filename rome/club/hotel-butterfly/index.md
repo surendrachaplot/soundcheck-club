@@ -1,6 +1,6 @@
 # Hotel Butterfly
 
-Hotel Butterfly is a music venue in Rome with 3 upcoming nights listed on soundcheck as of Sat, 12 Sept 2026; the next is "GoaUltrabeat - Hotel Butterfly" on Thu, 17 Sept 2026.
+Hotel Butterfly is a music venue in Rome with 3 upcoming nights listed on soundcheck as of Sun, 13 Sept 2026; the next is "GoaUltrabeat - Hotel Butterfly" on Thu, 17 Sept 2026.
 
 Hotel Butterfly is a music venue in Rome listed on soundcheck. 3 upcoming nights, with line-ups including Enrica Falqui, IRIDE, MaLo and Marais and 2 more. Browse upcoming dates, start times and who's playing. Viale dei Gladiatori, 68, 00135 Roma RM, Italia.
 
@@ -16,4 +16,4 @@ Hotel Butterfly is a music venue in Rome listed on soundcheck. 3 upcoming nights
 
 Viale dei Gladiatori, 68, 00135 Roma RM, Italia, Rome
 
-*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/rome/club/hotel-butterfly/)*
+*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/rome/club/hotel-butterfly/)*

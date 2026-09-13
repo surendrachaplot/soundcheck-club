@@ -1,15 +1,14 @@
 # Thugshop Warehouse
 
-Thugshop Warehouse is a music venue in Singapore with 3 upcoming nights listed on soundcheck as of Sat, 12 Sept 2026; the next is "The Warehouse Party" on Sat, 12 Sept 2026.
+Thugshop Warehouse is a music venue in Singapore with 2 upcoming nights listed on soundcheck as of Sun, 13 Sept 2026; the next is "The Warehouse Party - 19 September" on Sat, 19 Sept 2026.
 
-Thugshop Warehouse is a music venue in Singapore listed on soundcheck. 3 upcoming nights, with line-ups including Amber H, EJ and sho&tell. Browse upcoming dates, start times and who's playing.
+Thugshop Warehouse is a music venue in Singapore listed on soundcheck. 2 upcoming nights, with line-ups including Amber H and EJ. Browse upcoming dates, start times and who's playing.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 12 Sept 2026 | The Warehouse Party | Amber H, sho&tell |
 | Sat, 19 Sept 2026 | The Warehouse Party - 19 September | Amber H, EJ |
 | Sun, 20 Sept 2026 | Sunday Tambay 2026 |  |
 
-*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/singapore/club/thugshop-warehouse/)*
+*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/singapore/club/thugshop-warehouse/)*

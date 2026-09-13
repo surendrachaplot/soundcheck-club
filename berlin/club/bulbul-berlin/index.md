@@ -1,14 +1,13 @@
 # Bulbul Berlin
 
-Bulbul Berlin is a music venue in Berlin with 11 upcoming nights listed on soundcheck as of Sat, 12 Sept 2026; the next is "Disco Panini - 2-year anniversary: Aggy, Cronoselect, Panino, Sassi" on Sat, 12 Sept 2026.
+Bulbul Berlin is a music venue in Berlin with 10 upcoming nights listed on soundcheck as of Sun, 13 Sept 2026; the next is "House of Others (Vol.12): Betas, Mer Esnal" on Thu, 17 Sept 2026.
 
-Bulbul Berlin is a music venue in Berlin listed on soundcheck. 11 upcoming nights, with line-ups including Aggy, Almost Famous, Barée Masse and Betas and 2 more. Browse upcoming dates, start times and who's playing. Skalitzer str. 114, 10999 Berlin, Germany.
+Bulbul Berlin is a music venue in Berlin listed on soundcheck. 10 upcoming nights, with line-ups including Almost Famous, Barée Masse, Betas and Better Call Paul and 2 more. Browse upcoming dates, start times and who's playing. Skalitzer str. 114, 10999 Berlin, Germany.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 12 Sept 2026 | Disco Panini - 2-year anniversary: Aggy, Cronoselect, Panino, Sassi | Aggy, Cronoselect |
 | Thu, 17 Sept 2026 | House of Others (Vol.12): Betas, Mer Esnal | Betas, Mer Esnal |
 | Fri, 18 Sept 2026 | Reboot Record Label: Szew, Rina Katen, Mati Espina, Juan Neira | Juan Neira, Mati Espina, Rina Katen, Szew |
 | Sat, 19 Sept 2026 | N'Sekt Vielleicht: Bruder Jakob, Wallat Wallat, Kat_Es | Bruder Jakob, Kat_Es, Wallat Wallat |
@@ -18,9 +17,10 @@ Bulbul Berlin is a music venue in Berlin listed on soundcheck. 11 upcoming night
 | Sat, 3 Oct 2026 | TAG DER CLUBKULTUR 2026 - FRESH FACES (FREE ENTRY) | LA BITCHENCIO |
 | Thu, 8 Oct 2026 | TAG DER CLUBKULTUR 2026 - HOUSE OF OTHERS | Triqi, boyyyish, materia hache |
 | Fri, 9 Oct 2026 | TAG DER CLUBKULTUR 2026 - BRONCOS TAKEOVER | Jessica Nightlife, Subassi |
+| Sat, 10 Oct 2026 | TAG DER CLUBKULTUR 2026 - BULBUL RESIDENTS & FRIENDS | Concentio, Nikklaas, Selin (DE) |
 
 ## Address
 
 Skalitzer str. 114, 10999 Berlin, Germany, Berlin
 
-*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/bulbul-berlin/)*
+*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/bulbul-berlin/)*

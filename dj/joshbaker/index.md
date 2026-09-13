@@ -1,6 +1,6 @@
 # Josh Baker
 
-Josh Baker is a House and Tech House artist with 14 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Jardins de Joan Brossa, Barcelona on Sun, 13 Sept 2026.
+Josh Baker is a House and Tech House artist with 14 upcoming club dates listed on soundcheck as of Sun, 13 Sept 2026, next at Jardins de Joan Brossa, Barcelona on Sun, 13 Sept 2026.
 
 Josh Baker is a house and tech house artist tracked on soundcheck, with 229 sets logged across Aberdeen, Amsterdam, Austin and Bali and 52 more. Often billed alongside Max Dean, Rossi and Prospa. Next up: Jardins de Joan Brossa, Barcelona on Sun 13 Sept.
 
@@ -36,4 +36,4 @@ Josh Baker is a house and tech house artist tracked on soundcheck, with 229 sets
 
 Max Dean, Rossi, Prospa
 
-*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/joshbaker/)*
+*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/joshbaker/)*

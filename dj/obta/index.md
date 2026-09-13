@@ -1,6 +1,6 @@
 # OBTA
 
-OBTA is a Downtempo and Electronica artist with 1 upcoming club date listed on soundcheck as of Sat, 12 Sept 2026, next at Drama Radio Bar, Mexico City on Wed, 9 Sept 2026.
+OBTA is a Downtempo and Electronica artist with 1 upcoming club date listed on soundcheck as of Sun, 13 Sept 2026, next at Drama Radio Bar, Mexico City on Wed, 9 Sept 2026.
 
 OBTA is a downtempo and electronica artist based in Mexico, tracked on soundcheck, with 17 sets logged across Mexicocity. Often billed alongside Bluecommand, Un Dilema and Phanta. Next up: Drama Radio Bar, Mexicocity on Wed 9 Sept.
 
@@ -25,4 +25,4 @@ OBTA is a downtempo and electronica artist based in Mexico, tracked on soundchec
 
 Bluecommand, Un Dilema, Phanta
 
-*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/obta/)*
+*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/obta/)*

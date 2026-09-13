@@ -1,14 +1,13 @@
 # Die Rakete
 
-Die Rakete is a music venue in Nürnberg with 9 upcoming nights listed on soundcheck as of Sat, 12 Sept 2026; the next is "23 YEARS KISS KLUB - NIGHT" on Sat, 12 Sept 2026.
+Die Rakete is a music venue in Nürnberg with 8 upcoming nights listed on soundcheck as of Sun, 13 Sept 2026; the next is "Nachtfalter" on Fri, 18 Sept 2026.
 
-Die Rakete is a music venue in Nurnberg listed on soundcheck. 9 upcoming nights, with line-ups including AELVA K, Alex Stein, Annie O and Bernhard Groeger and 2 more. Browse upcoming dates, start times and who's playing. Vogelweiherstraße 64, 90441 Nürnberg.
+Die Rakete is a music venue in Nurnberg listed on soundcheck. 8 upcoming nights, with line-ups including AELVA K, Alex Stein, Annie O and Bernhard Groeger and 2 more. Browse upcoming dates, start times and who's playing. Vogelweiherstraße 64, 90441 Nürnberg.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 12 Sept 2026 | 23 YEARS KISS KLUB - NIGHT | Fiedel, LANI AKEA, Sempasa, frantzMichael |
 | Fri, 18 Sept 2026 | Nachtfalter | AELVA K |
 | Fri, 25 Sept 2026 | FUF Family x Praerie Festival at Rakete Nürnberg with Alex Stein, Konfusia uvm | Alex Stein, Konfusia, Maurice Mino, Sin:port |
 | Sat, 26 Sept 2026 | Elektrisch mit Tommahawk | Bernhard Groeger, MILAN MILANO, Tommahawk |
@@ -22,4 +21,4 @@ Die Rakete is a music venue in Nurnberg listed on soundcheck. 9 upcoming nights,
 
 Vogelweiherstraße 64, 90441 Nürnberg, Nürnberg
 
-*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/nurnberg/club/die-rakete/)*
+*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/nurnberg/club/die-rakete/)*

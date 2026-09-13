@@ -1,14 +1,13 @@
 # Sala Villanos
 
-Sala Villanos is a music venue in Madrid with 16 upcoming nights listed on soundcheck as of Sat, 12 Sept 2026; the next is "Marcellus Pittman + Nacho Marco" on Sat, 12 Sept 2026.
+Sala Villanos is a music venue in Madrid with 15 upcoming nights listed on soundcheck as of Sun, 13 Sept 2026; the next is "Laurence Guy + Fred Martín + Simón García" on Sat, 19 Sept 2026.
 
-Sala Villanos is a music venue in Madrid listed on soundcheck. 16 upcoming nights, with line-ups including Acid Pauli, Acid Hero, Axel Boman and Cinthie and 2 more. Browse upcoming dates, start times and who's playing. C. de Bernardino Obregón, 18, 28012 Madrid, Spain.
+Sala Villanos is a music venue in Madrid listed on soundcheck. 15 upcoming nights, with line-ups including Acid Pauli, Acid Hero, Axel Boman and Cinthie and 2 more. Browse upcoming dates, start times and who's playing. C. de Bernardino Obregón, 18, 28012 Madrid, Spain.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 12 Sept 2026 | Marcellus Pittman + Nacho Marco | Marcellus Pittman, Nacho Marco |
 | Sat, 19 Sept 2026 | Laurence Guy + Fred Martín + Simón García | Laurence Guy |
 | Fri, 25 Sept 2026 | Paquita Gordon + Mena G + Estrella OR | ESTRELLA OR, Mena G, Paquita Gordon |
 | Fri, 2 Oct 2026 | Kraak & Smaak SOUNDSYSTEM + Madame Excuse + Rayko | Kraak & Smaak, Madame Excuse, Rayko |
@@ -18,9 +17,10 @@ Sala Villanos is a music venue in Madrid listed on soundcheck. 16 upcoming night
 | Fri, 16 Oct 2026 | Danilo Plessow (MCDE) + Marcos Boricua + Javi Frias | Danilo Plessow, Javi Frias, Marcos Boricua |
 | Sat, 24 Oct 2026 | Sadar Bahar + Buitre + Dj Rchlbraü | Sadar Bahar |
 | Fri, 6 Nov 2026 | Dave Lee (FKA Joey Negro) + Javi Frias | Dave Lee, Javi Frias |
+| Sat, 7 Nov 2026 | Axel Boman + Acid Hero + Gary | Acid Hero, Axel Boman |
 
 ## Address
 
 C. de Bernardino Obregón, 18, 28012 Madrid, Spain, Madrid
 
-*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/sala-villanos/)*
+*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/sala-villanos/)*

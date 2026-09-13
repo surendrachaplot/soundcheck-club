@@ -1,15 +1,13 @@
 # Q Nightclub
 
-Q Nightclub is a music venue in Seattle with 25 upcoming nights listed on soundcheck as of Sat, 12 Sept 2026; the next is "Biscits" on Sat, 12 Sept 2026.
+Q Nightclub is a music venue in Seattle with 23 upcoming nights listed on soundcheck as of Sun, 13 Sept 2026; the next is "R3hab" on Fri, 18 Sept 2026.
 
-Q Nightclub is a music venue in Seattle listed on soundcheck. 25 upcoming nights, with line-ups including Arlo, Biscits, Broken Hill and Calcium and 2 more. Browse upcoming dates, start times and who's playing. 1426 Broadway, Seattle, WA..
+Q Nightclub is a music venue in Seattle listed on soundcheck. 23 upcoming nights, with line-ups including Arlo, Broken Hill, Calcium and DJ Scene and 2 more. Browse upcoming dates, start times and who's playing. 1426 Broadway, Seattle, WA..
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 12 Sept 2026 | Biscits | Biscits |
-| Sat, 12 Sept 2026 | FUQIT: RODDY LIMA |  |
 | Fri, 18 Sept 2026 | R3hab | R3hab |
 | Fri, 18 Sept 2026 | 2000's THROWBACK PARTY with DJ Scene | DJ Scene |
 | Sat, 19 Sept 2026 | Nick Warren | Nick Warren |
@@ -18,9 +16,11 @@ Q Nightclub is a music venue in Seattle listed on soundcheck. 25 upcoming nights
 | Sat, 26 Sept 2026 | Arlo | Arlo |
 | Thu, 1 Oct 2026 | FUQIT: Calcium | Calcium |
 | Fri, 2 Oct 2026 | Luke Alexander | Luke Alexander |
+| Sat, 3 Oct 2026 | Nicky Romero | Nicky Romero |
+| Thu, 8 Oct 2026 | FUQIT: Willo | Willo |
 
 ## Address
 
 1426 Broadway, Seattle, WA., Seattle
 
-*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/seattle/club/q-nightclub/)*
+*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/seattle/club/q-nightclub/)*

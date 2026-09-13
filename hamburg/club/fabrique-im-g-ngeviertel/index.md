@@ -1,6 +1,6 @@
 # Fabrique im Gängeviertel
 
-Fabrique im Gängeviertel is a music venue in Hamburg with 3 upcoming nights listed on soundcheck as of Sat, 12 Sept 2026; the next is "DANS Kunstbar x Safe Abortion Day Pre-abend" on Wed, 16 Sept 2026.
+Fabrique im Gängeviertel is a music venue in Hamburg with 3 upcoming nights listed on soundcheck as of Sun, 13 Sept 2026; the next is "DANS Kunstbar x Safe Abortion Day Pre-abend" on Wed, 16 Sept 2026.
 
 Fabrique im Gängeviertel is a music venue in Hamburg listed on soundcheck. 3 upcoming nights, with line-ups including Adrian Bortolotto, Cornyjava, eshot (DE) and EXPLICIT and 2 more. Browse upcoming dates, start times and who's playing. Valentinskamp 34A, 20355 Hamburg, Germany.
 
@@ -16,4 +16,4 @@ Fabrique im Gängeviertel is a music venue in Hamburg listed on soundcheck. 3 up
 
 Valentinskamp 34A, 20355 Hamburg, Germany, Hamburg
 
-*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/hamburg/club/fabrique-im-g-ngeviertel/)*
+*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/hamburg/club/fabrique-im-g-ngeviertel/)*

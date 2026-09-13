@@ -1,18 +1,18 @@
 # WheelUP
 
-WheelUP is a Funk / Soul and Drum & Bass artist with 2 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at The Glove That Fits, London on Sat, 12 Sept 2026.
+WheelUP is a Funk / Soul and Drum & Bass artist with 1 upcoming club date listed on soundcheck as of Sun, 13 Sept 2026, next at Patterns, Brighton on Sun, 4 Oct 2026.
 
-WheelUP is a funk / soul and drum & bass artist tracked on soundcheck, with 22 sets logged across Brighton, Bristol, London and Paris and 1 more. Often billed alongside Robert Luis, Cengiz and Kojay. Next up: The Glove That Fits, London on Sat 12 Sept.
+WheelUP is a funk / soul and drum & bass artist tracked on soundcheck, with 22 sets logged across Brighton, Bristol, London and Paris and 1 more. Often billed alongside Robert Luis, Cengiz and Kojay. Next up: Patterns, Brighton on Sun 4 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 12 Sept 2026 | The Glove That Fits | London |
 | Sun, 4 Oct 2026 | Patterns | Brighton |
 
 ## Recently played
 
+- The Glove That Fits, London — Sat, 12 Sept 2026
 - The Jazz Cafe, London — Sun, 30 Aug 2026
 - Kelvedon Hall, London — Fri, 14 Aug 2026
 - The Jazz Cafe, London — Sat, 1 Aug 2026
@@ -20,10 +20,9 @@ WheelUP is a funk / soul and drum & bass artist tracked on soundcheck, with 22 s
 - Night Tales Loft, London — Sat, 14 Mar 2026
 - Djoon, Paris — Fri, 13 Mar 2026
 - Cafe 1001, London — Fri, 13 Feb 2026
-- Lost Horizon, Bristol — Thu, 18 Sept 2025
 
 ## Shares bills with
 
 Robert Luis, Cengiz, Kojay
 
-*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/wheelup/)*
+*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/wheelup/)*

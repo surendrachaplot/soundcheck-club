@@ -1,19 +1,19 @@
 # JOVIGIBS
 
-JOVIGIBS is a House and Disco artist with 3 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Barracuda in the Grove, Miami on Sat, 12 Sept 2026.
+JOVIGIBS is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Sun, 13 Sept 2026, next at Mana Wynwood, Miami on Fri, 16 Oct 2026.
 
-JOVIGIBS is a house and disco artist based in United States of America, tracked on soundcheck, with 37 sets logged across Barcelona, Madrid, Mexicocity and Miami. Often billed alongside True Vine, Bort and Mutant Pete. Next up: Barracuda in the Grove, Miami on Sat 12 Sept.
+JOVIGIBS is a house and disco artist based in United States of America, tracked on soundcheck, with 37 sets logged across Barcelona, Madrid, Mexicocity and Miami. Often billed alongside True Vine, Bort and Mutant Pete. Next up: Mana Wynwood, Miami on Fri 16 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 12 Sept 2026 | Barracuda in the Grove | Miami |
 | Fri, 16 Oct 2026 | Mana Wynwood | Miami |
 | Sat, 28 Nov 2026 | Floyd | Miami |
 
 ## Recently played
 
+- Barracuda in the Grove, Miami — Sat, 12 Sept 2026
 - Mad Radio Miami, Miami — Fri, 11 Sept 2026
 - Lion's Den, Miami — Sat, 11 Jul 2026
 - Jolene Downtown Miami, Miami — Sun, 28 Jun 2026
@@ -21,10 +21,9 @@ JOVIGIBS is a house and disco artist based in United States of America, tracked 
 - Factory Town, Miami — Sat, 18 Apr 2026
 - Floyd, Miami — Fri, 10 Apr 2026
 - Mad Radio Miami, Miami — Fri, 27 Feb 2026
-- Lion's Den, Miami — Thu, 26 Feb 2026
 
 ## Shares bills with
 
 True Vine, Bort, Mutant Pete
 
-*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jovigibs/)*
+*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jovigibs/)*

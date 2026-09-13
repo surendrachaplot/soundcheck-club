@@ -1,14 +1,13 @@
 # Lauren Hansom
 
-Lauren Hansom is a House and Club artist with 3 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at TBA - Tanswell's Hotel, 50 Ford St, Beechworth VIC 3747, Melbourne on Fri, 11 Sept 2026.
+Lauren Hansom is a House and Club artist with 2 upcoming club dates listed on soundcheck as of Sun, 13 Sept 2026, next at Abbotsford Convent, Melbourne on Sat, 10 Oct 2026.
 
-Lauren Hansom is a house and club artist tracked on soundcheck, with 24 sets logged across Auckland, Brisbane, Melbourne and Newyorkcity and 2 more. Often billed alongside HanSom, Wax'o Paradiso and DJ PGZ. Next up: TBA - Tanswell's Hotel, 50 Ford St, Beechworth VIC 3747, Melbourne on Fri 11 Sept.
+Lauren Hansom is a house and club artist tracked on soundcheck, with 24 sets logged across Auckland, Brisbane, Melbourne and Newyorkcity and 2 more. Often billed alongside HanSom, Wax'o Paradiso and DJ PGZ. Next up: Abbotsford Convent, Melbourne on Sat 10 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 11 Sept 2026 | TBA - Tanswell's Hotel, 50 Ford St, Beechworth VIC 3747 | Melbourne |
 | Sat, 10 Oct 2026 | Abbotsford Convent | Melbourne |
 | Sat, 31 Oct 2026 | Collingwood Children's Farm | Melbourne |
 
@@ -27,4 +26,4 @@ Lauren Hansom is a house and club artist tracked on soundcheck, with 24 sets log
 
 HanSom, Wax'o Paradiso, DJ PGZ
 
-*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/laurenhansom/)*
+*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/laurenhansom/)*

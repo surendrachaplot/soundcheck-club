@@ -1,15 +1,13 @@
 # Francesco Poggi
 
-Francesco Poggi is a Tech House and House artist with 7 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Union Club, Vauxhall, London on Sat, 12 Sept 2026.
+Francesco Poggi is a Tech House and House artist with 5 upcoming club dates listed on soundcheck as of Sun, 13 Sept 2026, next at Mercato Metropolitano, London on Fri, 18 Sept 2026.
 
-Francesco Poggi is a tech house and house artist tracked on soundcheck, with 146 sets logged across Dublin, Lisbon, London and Madrid and 2 more. Often billed alongside Enrico Chirchiello, Bibiminor and Duwat?. Next up: Union Club, Vauxhall, London on Sat 12 Sept.
+Francesco Poggi is a tech house and house artist tracked on soundcheck, with 146 sets logged across Dublin, Lisbon, London and Madrid and 2 more. Often billed alongside Enrico Chirchiello, Bibiminor and Duwat?. Next up: Mercato Metropolitano, London on Fri 18 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 12 Sept 2026 | Union Club, Vauxhall | London |
-| Sun, 13 Sept 2026 | Union Club, Vauxhall | London |
 | Fri, 18 Sept 2026 | Mercato Metropolitano | London |
 | Sat, 19 Sept 2026 | Aura Shoreditch | London |
 | Sat, 10 Oct 2026 | Union Club, Vauxhall | London |
@@ -18,6 +16,7 @@ Francesco Poggi is a tech house and house artist tracked on soundcheck, with 146
 
 ## Recently played
 
+- Union Club, Vauxhall, London — Sat, 12 Sept 2026
 - Union Club, Vauxhall, London — Sun, 30 Aug 2026
 - Union Club, Vauxhall, London — Sat, 29 Aug 2026
 - Union Club, Vauxhall, London — Sat, 11 Jul 2026
@@ -25,10 +24,9 @@ Francesco Poggi is a tech house and house artist tracked on soundcheck, with 146
 - TBA, London — Sun, 21 Jun 2026
 - TBA, London — Sat, 20 Jun 2026
 - Union Club, Vauxhall, London — Fri, 19 Jun 2026
-- Union Club, Vauxhall, London — Fri, 12 Jun 2026
 
 ## Shares bills with
 
 Enrico Chirchiello, Bibiminor, Duwat?
 
-*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/francescopoggi/)*
+*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/francescopoggi/)*

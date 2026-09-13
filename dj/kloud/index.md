@@ -1,14 +1,13 @@
 # KLOUD
 
-KLOUD is a Techno and Trance artist with 14 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Rebel, Toronto on Sat, 12 Sept 2026.
+KLOUD is a Techno and Trance artist with 13 upcoming club dates listed on soundcheck as of Sun, 13 Sept 2026, next at Cabaret  Aléatoire, Marseille on Fri, 25 Sept 2026.
 
-KLOUD is a techno and trance artist tracked on soundcheck, with 83 sets logged across Amsterdam, Athens, Austin and Barcelona and 37 more. Often billed alongside Lola Cerise, Kander and DJ Heartstring. Next up: Rebel, Toronto on Sat 12 Sept.
+KLOUD is a techno and trance artist tracked on soundcheck, with 83 sets logged across Amsterdam, Athens, Austin and Barcelona and 37 more. Often billed alongside Lola Cerise, Kander and DJ Heartstring. Next up: Cabaret  Aléatoire, Marseille on Fri 25 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 12 Sept 2026 | Rebel | Toronto |
 | Fri, 25 Sept 2026 | Cabaret  Aléatoire | Marseille |
 | Sat, 26 Sept 2026 | Club Exil | Vienna |
 | Fri, 2 Oct 2026 | TBA - Port of Belgrade | Belgrade |
@@ -20,9 +19,11 @@ KLOUD is a techno and trance artist tracked on soundcheck, with 83 sets logged a
 | Wed, 21 Oct 2026 | Mediahaven - Minervahaven | Amsterdam |
 | Fri, 23 Oct 2026 | DRUMSHEDS | London |
 | Sat, 24 Oct 2026 | Distrikt | Prague |
+| Fri, 30 Oct 2026 | Travis County Exposition Center | Austin |
 
 ## Recently played
 
+- Rebel, Toronto — Sat, 12 Sept 2026
 - Newspeak, Montreal — Fri, 11 Sept 2026
 - Outset, Chicago — Sun, 6 Sept 2026
 - Union Park, Chicago — Fri, 4 Sept 2026
@@ -30,10 +31,9 @@ KLOUD is a techno and trance artist tracked on soundcheck, with 83 sets logged a
 - Fuse, Brussels — Sat, 8 Aug 2026
 - RSO.BERLIN, Berlin — Sat, 1 Aug 2026
 - Exhibition Park, Newcastle — Sat, 11 Jul 2026
-- Nordstern, Basel — Sat, 4 Jul 2026
 
 ## Shares bills with
 
 Lola Cerise, Kander, DJ Heartstring
 
-*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kloud/)*
+*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kloud/)*

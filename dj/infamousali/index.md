@@ -1,6 +1,6 @@
 # Infamous Ali
 
-Infamous Ali is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 12 Sept 2026, next at Renate, Berlin on Sat, 26 Sept 2026.
+Infamous Ali is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 13 Sept 2026, next at Renate, Berlin on Sat, 26 Sept 2026.
 
 Infamous Ali is a house and techno artist tracked on soundcheck, with 12 sets logged across Berlin. Often billed alongside Kristin Velvet, Tom. and .VRIL. Next up: Renate, Berlin on Sat 26 Sept.
 
@@ -25,4 +25,4 @@ Infamous Ali is a house and techno artist tracked on soundcheck, with 12 sets lo
 
 Kristin Velvet, Tom., .VRIL
 
-*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/infamousali/)*
+*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/infamousali/)*

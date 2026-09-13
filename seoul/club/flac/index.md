@@ -1,18 +1,17 @@
 # Flac
 
-Flac is a music venue in Seoul with 2 upcoming nights listed on soundcheck as of Sat, 12 Sept 2026; the next is "9/12 Flac: u z z v(UK/12+1 London)" on Sat, 12 Sept 2026.
+Flac is a music venue in Seoul with 1 upcoming night listed on soundcheck as of Sun, 13 Sept 2026; the next is "Flac: FRISK Exclusive B3B Round 2" on Sat, 19 Sept 2026.
 
-Flac is a music venue in Seoul listed on soundcheck. 2 upcoming nights, with line-ups including Davico, Demuk, Departs and u z z v. Browse upcoming dates, start times and who's playing. 2F, 5, Itaewon-ro 27ga-gil, Yongsan-gu, Seoul, Republic of Korea.
+Flac is a music venue in Seoul listed on soundcheck. 1 upcoming night, with line-ups including Davico, Demuk and Departs. Browse upcoming dates, start times and who's playing. 2F, 5, Itaewon-ro 27ga-gil, Yongsan-gu, Seoul, Republic of Korea.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 12 Sept 2026 | 9/12 Flac: u z z v(UK/12+1 London) | Departs, u z z v |
 | Sat, 19 Sept 2026 | Flac: FRISK Exclusive B3B Round 2 | Davico, Demuk, Departs |
 
 ## Address
 
 2F, 5, Itaewon-ro 27ga-gil, Yongsan-gu, Seoul, Republic of Korea, Seoul
 
-*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/seoul/club/flac/)*
+*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/seoul/club/flac/)*

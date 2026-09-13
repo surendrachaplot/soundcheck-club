@@ -1,14 +1,13 @@
 # HiHat
 
-HiHat is a Techno and Trance artist with 7 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at TBA - JOSEF-LAMMERTING-ALLEE 17-19, 50933 KÖLN, Cologne on Sat, 12 Sept 2026.
+HiHat is a Techno and Trance artist with 6 upcoming club dates listed on soundcheck as of Sun, 13 Sept 2026, next at TBA - secret location, Stuttgart on Sat, 19 Sept 2026.
 
-HiHat is a techno and trance artist tracked on soundcheck, with 123 sets logged across Amsterdam, Berlin, Cologne and Dusseldorf and 4 more. Often billed alongside DJ Palga, DJ Fucks Himself and Arno. Next up: TBA - JOSEF-LAMMERTING-ALLEE 17-19, 50933 KÖLN, Cologne on Sat 12 Sept.
+HiHat is a techno and trance artist tracked on soundcheck, with 123 sets logged across Amsterdam, Berlin, Cologne and Dusseldorf and 4 more. Often billed alongside DJ Palga, DJ Fucks Himself and Arno. Next up: TBA - secret location, Stuttgart on Sat 19 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 12 Sept 2026 | TBA - JOSEF-LAMMERTING-ALLEE 17-19, 50933 KÖLN | Cologne |
 | Sat, 19 Sept 2026 | TBA - secret location | Stuttgart |
 | Fri, 25 Sept 2026 | Artheater | Cologne |
 | Sat, 26 Sept 2026 | fi | Cologne |
@@ -18,6 +17,7 @@ HiHat is a techno and trance artist tracked on soundcheck, with 123 sets logged 
 
 ## Recently played
 
+- TBA - JOSEF-LAMMERTING-ALLEE 17-19, 50933 KÖLN, Cologne — Sat, 12 Sept 2026
 - Gewölbe, Cologne — Sat, 5 Sept 2026
 - Artheater, Cologne — Sat, 22 Aug 2026
 - ://about blank, Berlin — Sat, 15 Aug 2026
@@ -25,10 +25,9 @@ HiHat is a techno and trance artist tracked on soundcheck, with 123 sets logged 
 - Giselle, Düsseldorf — Fri, 14 Aug 2026
 - Odonien, Cologne — Fri, 31 Jul 2026
 - Garagen, Cologne — Fri, 24 Jul 2026
-- Jonny Knüppel, Berlin — Sat, 11 Jul 2026
 
 ## Shares bills with
 
 DJ Palga, DJ Fucks Himself, Arno
 
-*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/hihat/)*
+*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/hihat/)*

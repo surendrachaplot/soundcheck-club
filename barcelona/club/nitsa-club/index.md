@@ -1,14 +1,14 @@
 # Nitsa Club
 
-Nitsa Club is a music venue in Barcelona with 10 upcoming nights listed on soundcheck as of Sat, 12 Sept 2026; the next is "Patrick Mason · SANTANA · THANILA / Sunday Sunday: nd_baumecker · Dam Vera · Sunday Sunday DJs " on Sat, 12 Sept 2026.
+Nitsa Club is a music venue in Barcelona with 10 upcoming nights listed on soundcheck as of Sun, 13 Sept 2026; the next is "DAX J · Wallis Live · Dj Fra · NiZ / Ivan Smagghe · Z@p · Anah" on Fri, 18 Sept 2026.
 
-Nitsa Club is a music venue in Barcelona listed on soundcheck. 10 upcoming nights, with line-ups including acidheaven, Alan Braxe, Altinbas and Anetha and 2 more. Browse upcoming dates, start times and who's playing. Carrer Nou de la Rambla, 113; 08004 Barcelona; Spain.
+Nitsa Club is a music venue in Barcelona listed on soundcheck. 10 upcoming nights, with line-ups including acidheaven, Alan Braxe, Altinbas and Anah and 2 more. Browse upcoming dates, start times and who's playing. Carrer Nou de la Rambla, 113; 08004 Barcelona; Spain.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 12 Sept 2026 | Patrick Mason · SANTANA · THANILA / Sunday Sunday: nd_baumecker · Dam Vera · Sunday Sunday DJs  | Patrick Mason, SANTANA, THANILA, nd_baumecker |
+| Fri, 18 Sept 2026 | DAX J · Wallis Live · Dj Fra · NiZ / Ivan Smagghe · Z@p · Anah | Anah, DAX J, Dj Fra, Ivan Smagghe, NIZ (SP), Wallis, Z@p |
 | Sat, 19 Sept 2026 | Club Expansivo @NITSA | Animistic Beliefs, Julio César, KEBRA, T0M1, Tiyumii |
 | Sat, 19 Sept 2026 | Braxe + Falcon · LB aka LABAT / Club Expansivo: Animistic Beliefs · KEBRA · Simona Live | Alan Braxe, Animistic Beliefs, Arnau Obiols, DJ F16 Falcon, Julio César, KEBRA, LB aka LABAT, T0M1, Tiyumii |
 | Fri, 25 Sept 2026 | Villano Antillano · PETERBLUE · Solsi / Stef Mendesidis Live · Altinbas · Laia | Altinbas, Laia, PETERBLUE, Stef Mendesidis |
@@ -23,4 +23,4 @@ Nitsa Club is a music venue in Barcelona listed on soundcheck. 10 upcoming night
 
 Carrer Nou de la Rambla, 113; 08004 Barcelona; Spain, Barcelona
 
-*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/nitsa-club/)*
+*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/nitsa-club/)*

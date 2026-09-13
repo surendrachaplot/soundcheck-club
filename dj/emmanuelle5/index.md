@@ -1,6 +1,6 @@
 # Emmanuelle 5
 
-Emmanuelle 5 is a Industrial and Post-Punk artist with 2 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Madame Claude, Berlin on Fri, 25 Sept 2026.
+Emmanuelle 5 is a Industrial and Post-Punk artist with 2 upcoming club dates listed on soundcheck as of Sun, 13 Sept 2026, next at Madame Claude, Berlin on Fri, 25 Sept 2026.
 
 Emmanuelle 5 is an industrial and post-punk artist based in France, tracked on soundcheck, with 16 sets logged across Berlin and Paris. Often billed alongside The Shredder, Paulina Panik and Aliénore. Next up: Madame Claude, Berlin on Fri 25 Sept.
 
@@ -26,4 +26,4 @@ Emmanuelle 5 is an industrial and post-punk artist based in France, tracked on s
 
 The Shredder, Paulina Panik, Aliénore
 
-*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/emmanuelle5/)*
+*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/emmanuelle5/)*

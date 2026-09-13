@@ -1,6 +1,6 @@
 # The Crown
 
-The Crown is a music venue in Bristol with 8 upcoming nights listed on soundcheck as of Sat, 12 Sept 2026; the next is "Drawn Out: Mileage, Max Renn, Pria, Al Daly + Double Helix B2B RT" on Tue, 15 Sept 2026.
+The Crown is a music venue in Bristol with 8 upcoming nights listed on soundcheck as of Sun, 13 Sept 2026; the next is "Drawn Out: Mileage, Max Renn, Pria, Al Daly + Double Helix B2B RT" on Tue, 15 Sept 2026.
 
 The Crown is a music venue in Bristol listed on soundcheck. 8 upcoming nights, with line-ups including DEJA (UK), mixtress, Mollie Rush and PJ Bridger and 2 more. Browse upcoming dates, start times and who's playing. 10, All Saints Lane, Bristol. BS1 1JH.
 
@@ -21,4 +21,4 @@ The Crown is a music venue in Bristol listed on soundcheck. 8 upcoming nights, w
 
 10, All Saints Lane, Bristol. BS1 1JH, Bristol
 
-*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/bristol/club/the-crown/)*
+*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/bristol/club/the-crown/)*

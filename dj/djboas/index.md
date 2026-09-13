@@ -1,6 +1,6 @@
 # DJ Boas
 
-DJ Boas is a Afrobeats and Amapiano artist with 1 upcoming club date listed on soundcheck as of Sat, 12 Sept 2026, next at YOTO, Hamburg on Fri, 18 Sept 2026.
+DJ Boas is a Afrobeats and Amapiano artist with 1 upcoming club date listed on soundcheck as of Sun, 13 Sept 2026, next at YOTO, Hamburg on Fri, 18 Sept 2026.
 
 DJ Boas is an afrobeats and amapiano artist based in Germany, tracked on soundcheck, with 12 sets logged across Hamburg. Often billed alongside Tracy Mayy, Dj Sivlé and Kofi Ryan. Next up: YOTO, Hamburg on Fri 18 Sept.
 
@@ -25,4 +25,4 @@ DJ Boas is an afrobeats and amapiano artist based in Germany, tracked on soundch
 
 Tracy Mayy, Dj Sivlé, Kofi Ryan
 
-*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djboas/)*
+*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djboas/)*

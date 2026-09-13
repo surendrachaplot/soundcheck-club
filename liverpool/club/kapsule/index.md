@@ -1,14 +1,13 @@
 # Kapsule
 
-Kapsule is a music venue in Liverpool with 12 upcoming nights listed on soundcheck as of Sat, 12 Sept 2026; the next is "Reheat 5th Birthday with Onur Özer, Lee Rands & Louie G" on Sat, 12 Sept 2026.
+Kapsule is a music venue in Liverpool with 11 upcoming nights listed on soundcheck as of Sun, 13 Sept 2026; the next is "Paul Street Sounds with tINI, Cadence, Kayleigh Maria, & Mudz" on Fri, 25 Sept 2026.
 
-Kapsule is a music venue in Liverpool listed on soundcheck. 12 upcoming nights, with line-ups including Aerofunk, Autumns, Bradley Zero and Budino and 2 more. Browse upcoming dates, start times and who's playing. 3 Regent Road, Liverpool, L3 7DS.
+Kapsule is a music venue in Liverpool listed on soundcheck. 11 upcoming nights, with line-ups including Aerofunk, Autumns, Bradley Zero and Budino and 2 more. Browse upcoming dates, start times and who's playing. 3 Regent Road, Liverpool, L3 7DS.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 12 Sept 2026 | Reheat 5th Birthday with Onur Özer, Lee Rands & Louie G | Lee Rands, Louie G, Onur Özer |
 | Fri, 25 Sept 2026 | Paul Street Sounds with tINI, Cadence, Kayleigh Maria, & Mudz | Cadence., tINI |
 | Sat, 26 Sept 2026 | Foreplay: Oldboy b2b Osmosis Jones b2b Captain Wallop (4Hr) | Captain Wallop, Oldboy, Osmosis Jones |
 | Fri, 2 Oct 2026 | Kapsule with Shanti Celeste, Ivan Smagghe & Aerofunk | Aerofunk, Ivan Smagghe, Shanti Celeste |
@@ -18,9 +17,10 @@ Kapsule is a music venue in Liverpool listed on soundcheck. 12 upcoming nights, 
 | Fri, 23 Oct 2026 | The Sirens Call 2nd Birthday (Pt.1) with Vladimir Ivkovic & Budino, Liverpool | Budino, Vladimir Ivkovic |
 | Sat, 24 Oct 2026 | Glass presents Chaos In The CBD In Dust We Trust Tour | Chaos In The CBD, RoomToo |
 | Sat, 28 Nov 2026 | Sirens Call with Bradley Zero All Night Long | Bradley Zero |
+| Sat, 28 Nov 2026 | The Sirens Call with Bradley Zero All Night Long | Bradley Zero |
 
 ## Address
 
 3 Regent Road, Liverpool, L3 7DS, Liverpool
 
-*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/liverpool/club/kapsule/)*
+*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/liverpool/club/kapsule/)*

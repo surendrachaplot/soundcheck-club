@@ -1,6 +1,6 @@
 # Fuchs2
 
-Fuchs2 is a music venue in Prague with 7 upcoming nights listed on soundcheck as of Sat, 12 Sept 2026; the next is "SEASON OPENING: Fuchs2 x Bike Jesus" on Fri, 18 Sept 2026.
+Fuchs2 is a music venue in Prague with 7 upcoming nights listed on soundcheck as of Sun, 13 Sept 2026; the next is "SEASON OPENING: Fuchs2 x Bike Jesus" on Fri, 18 Sept 2026.
 
 Fuchs2 is a music venue in Prague listed on soundcheck. 7 upcoming nights, with line-ups including Adamatron, aláya, Alfred Czital and Arthur Robert and 2 more. Browse upcoming dates, start times and who's playing. Štvanice, 17000 Prague.
 
@@ -20,4 +20,4 @@ Fuchs2 is a music venue in Prague listed on soundcheck. 7 upcoming nights, with 
 
 Štvanice, 17000 Prague, Prague
 
-*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/prague/club/fuchs2/)*
+*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/prague/club/fuchs2/)*

@@ -1,14 +1,13 @@
 # Panic Room
 
-Panic Room is a music venue in Paris with 10 upcoming nights listed on soundcheck as of Sat, 12 Sept 2026; the next is "RAPTA RECORDS" on Sat, 12 Sept 2026.
+Panic Room is a music venue in Paris with 9 upcoming nights listed on soundcheck as of Sun, 13 Sept 2026; the next is "LA BELLE WAVE" on Wed, 16 Sept 2026.
 
-Panic Room is a music venue in Paris listed on soundcheck. 10 upcoming nights, with line-ups including lea (2), Perdu, Rey (1) and Shonen Bat and 1 more. Browse upcoming dates, start times and who's playing. 101 rue Amelot; 75011; Paris; France.
+Panic Room is a music venue in Paris listed on soundcheck. 9 upcoming nights, with line-ups including Perdu, Shonen Bat and Vice Experience. Browse upcoming dates, start times and who's playing. 101 rue Amelot; 75011; Paris; France.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 12 Sept 2026 | RAPTA RECORDS | Rey (1), lea (2) |
 | Wed, 16 Sept 2026 | LA BELLE WAVE |  |
 | Thu, 17 Sept 2026 | WILD |  |
 | Fri, 18 Sept 2026 | WAAG |  |
@@ -23,4 +22,4 @@ Panic Room is a music venue in Paris listed on soundcheck. 10 upcoming nights, w
 
 101 rue Amelot; 75011; Paris; France, Paris
 
-*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/paris/club/panic-room/)*
+*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/paris/club/panic-room/)*

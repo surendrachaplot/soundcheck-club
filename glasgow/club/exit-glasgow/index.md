@@ -1,14 +1,13 @@
 # EXIT Glasgow
 
-EXIT Glasgow is a music venue in Glasgow with 17 upcoming nights listed on soundcheck as of Sat, 12 Sept 2026; the next is "In The ࿓ Spirit ࿓ of EXIT" on Sat, 12 Sept 2026.
+EXIT Glasgow is a music venue in Glasgow with 17 upcoming nights listed on soundcheck as of Sun, 13 Sept 2026; the next is "Tekhole presents: SIN " on Fri, 18 Sept 2026.
 
-EXIT Glasgow is a music venue in Glasgow listed on soundcheck. 17 upcoming nights, with line-ups including 3SBAT, Angel Negrin, Bake and Blackeye MC and 2 more. Browse upcoming dates, start times and who's playing. 96 Maxwell Street, Glasgow, G1 4EQ.
+EXIT Glasgow is a music venue in Glasgow listed on soundcheck. 17 upcoming nights, with line-ups including 3SBAT, Angel Negrin, Blackeye MC and Brandon Lee Vear and 2 more. Browse upcoming dates, start times and who's playing. 96 Maxwell Street, Glasgow, G1 4EQ.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 12 Sept 2026 | In The ࿓ Spirit ࿓ of EXIT | Bake, DJ Plead, Libra Esterlina |
 | Fri, 18 Sept 2026 | Tekhole presents: SIN  | Buckfast Barbie, C Frame, Maveen, Moina Moin, North Star, SOFSOF, Salam Kitty, Tekhole, saparilla |
 | Sat, 19 Sept 2026 | EXIT CLUB | JayJay, RRRKRTA, manu_facturer |
 | Fri, 25 Sept 2026 | A.D.S.R w/ Somniac One, Kalopsia, DJ Smoker, 3SBAT | 3SBAT, DJ Smoker, Kalopsia, Somniac One |
@@ -18,9 +17,10 @@ EXIT Glasgow is a music venue in Glasgow listed on soundcheck. 17 upcoming night
 | Fri, 9 Oct 2026 | Crucial Roots Soundsystem | Crucial Roots |
 | Sat, 10 Oct 2026 | DON'T FORGET ~ Naum Gabo (Live),  Manisdron (Live), Oriana , Elazer | Elazer, Oriana |
 | Thu, 15 Oct 2026 | MAGNETIC NORTH - An Evening for Peter Christopherson & COIL |  |
+| Sat, 17 Oct 2026 | EXIT CLUB | Brandon Lee Vear, Daichi Wada |
 
 ## Address
 
 96 Maxwell Street, Glasgow, G1 4EQ, Glasgow
 
-*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/exit-glasgow/)*
+*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/exit-glasgow/)*

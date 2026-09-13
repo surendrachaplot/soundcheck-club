@@ -1,14 +1,13 @@
 # OCZKI
 
-OCZKI is a music venue in Warsaw with 7 upcoming nights listed on soundcheck as of Sat, 12 Sept 2026; the next is "DUALISM PRES. TH;EN" on Sat, 12 Sept 2026.
+OCZKI is a music venue in Warsaw with 6 upcoming nights listed on soundcheck as of Sun, 13 Sept 2026; the next is "ARK: Tiga" on Sat, 3 Oct 2026.
 
-OCZKI is a music venue in Warsaw listed on soundcheck. 7 upcoming nights, with line-ups including AFTEROSSI, Arude, BOBAIO and Bronka and 2 more. Browse upcoming dates, start times and who's playing. Wojciecha Oczki 1A, 02-007 Warszawa.
+OCZKI is a music venue in Warsaw listed on soundcheck. 6 upcoming nights, with line-ups including BOBAIO, Bronka, Debit and Devon Rexi and 2 more. Browse upcoming dates, start times and who's playing. Wojciecha Oczki 1A, 02-007 Warszawa.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 12 Sept 2026 | DUALISM PRES. TH;EN | AFTEROSSI, Arude, TH;EN |
 | Sat, 3 Oct 2026 | ARK: Tiga | Tiga |
 | Sun, 4 Oct 2026 | Unsound Warszawa 2026: FLEX - Debit / gummi b2b Taan / Hekt / Pink Siifu | Debit, Hekt, Taan, gummi |
 | Tue, 6 Oct 2026 | Unsound Warszawa 2026: PURR - Devon Rexi & John T. Gast / Wendy Eisenberg + more | Devon Rexi, John T. Gast, julek ploski |
@@ -20,4 +19,4 @@ OCZKI is a music venue in Warsaw listed on soundcheck. 7 upcoming nights, with l
 
 Wojciecha Oczki 1A, 02-007 Warszawa, Warsaw
 
-*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/warsaw/club/oczki/)*
+*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/warsaw/club/oczki/)*

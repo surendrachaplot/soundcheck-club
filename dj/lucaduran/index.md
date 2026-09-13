@@ -1,6 +1,6 @@
 # Luca Durán
 
-Luca Durán is a Latin Bass and Dancehall artist with 1 upcoming club date listed on soundcheck as of Sat, 12 Sept 2026, next at Drama Radio Bar, Mexico City on Wed, 9 Sept 2026.
+Luca Durán is a Latin Bass and Dancehall artist with 1 upcoming club date listed on soundcheck as of Sun, 13 Sept 2026, next at Drama Radio Bar, Mexico City on Wed, 9 Sept 2026.
 
 Luca Durán is a latin bass and dancehall artist tracked on soundcheck, with 18 sets logged across Amsterdam, Basel, Berlin and Geneva and 4 more. Often billed alongside Nyksan, CRRDR and Neu Verboten. Next up: Drama Radio Bar, Mexicocity on Wed 9 Sept.
 
@@ -25,4 +25,4 @@ Luca Durán is a latin bass and dancehall artist tracked on soundcheck, with 18 
 
 Nyksan, CRRDR, Neu Verboten
 
-*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lucaduran/)*
+*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lucaduran/)*

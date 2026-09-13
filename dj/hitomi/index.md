@@ -1,15 +1,13 @@
 # HiTOMi
 
-HiTOMi is a House and Bass artist with 6 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Paper, Seoul on Sat, 12 Sept 2026.
+HiTOMi is a House and Bass artist with 4 upcoming club dates listed on soundcheck as of Sun, 13 Sept 2026, next at or, Tokyo on Sat, 26 Sept 2026.
 
-HiTOMi is a house and bass artist based in Japan, tracked on soundcheck, with 33 sets logged across Berlin, Seoul and Tokyo. Often billed alongside CRAZYHYUGA, Altemica and SAKO. Next up: Paper, Seoul on Sat 12 Sept.
+HiTOMi is a house and bass artist based in Japan, tracked on soundcheck, with 33 sets logged across Berlin, Seoul and Tokyo. Often billed alongside CRAZYHYUGA, Altemica and SAKO. Next up: or, Tokyo on Sat 26 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 12 Sept 2026 | Paper | Seoul |
-| Sat, 12 Sept 2026 | UTOPIA / DYSTOPIA | Tokyo |
 | Sat, 26 Sept 2026 | or | Tokyo |
 | Fri, 2 Oct 2026 | ZEROTOKYO | Tokyo |
 | Sun, 25 Oct 2026 | ZEROTOKYO | Tokyo |
@@ -17,17 +15,17 @@ HiTOMi is a house and bass artist based in Japan, tracked on soundcheck, with 33
 
 ## Recently played
 
+- Paper, Seoul — Sat, 12 Sept 2026
+- UTOPIA / DYSTOPIA, Tokyo — Sat, 12 Sept 2026
 - ZEROTOKYO, Tokyo — Fri, 21 Aug 2026
 - ZEROTOKYO, Tokyo — Fri, 7 Aug 2026
 - Z Maruyama, Tokyo — Thu, 30 Jul 2026
 - ZEROTOKYO, Tokyo — Sat, 18 Jul 2026
 - Ohjo Bldg, Tokyo — Fri, 26 Jun 2026
 - T2 Shinjuku, Tokyo — Mon, 22 Jun 2026
-- Yodo Groove (Yodobashi Ikebukuro), Tokyo — Sun, 14 Jun 2026
-- Ohjo Bldg, Tokyo — Sat, 16 May 2026
 
 ## Shares bills with
 
 CRAZYHYUGA, Altemica, SAKO
 
-*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/hitomi/)*
+*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/hitomi/)*

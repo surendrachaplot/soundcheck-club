@@ -1,6 +1,6 @@
 # Sama' Abdulhadi
 
-Sama' Abdulhadi is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Auditorium Parco della Musica, Rome on Sat, 12 Sept 2026.
+Sama' Abdulhadi is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Sun, 13 Sept 2026, next at Auditorium Parco della Musica, Rome on Sat, 12 Sept 2026.
 
 Sama' Abdulhadi is a techno and house artist tracked on soundcheck, with 140 sets logged across Amsterdam, Athens, Barcelona and Belgrade and 46 more. Often billed alongside Richie Hawtin, Adam Beyer and Anfisa Letyago. Next up: Auditorium Parco della Musica, Rome on Sat 12 Sept.
 
@@ -14,6 +14,7 @@ Sama' Abdulhadi is a techno and house artist tracked on soundcheck, with 140 set
 
 ## Recently played
 
+- Auditorium Parco della Musica, Rome — Sat, 12 Sept 2026
 - Sophie Festival, Malaga — Sat, 5 Sept 2026
 - Bolivar Beach Bar, Athens — Sat, 29 Aug 2026
 - Sub Club, Glasgow — Fri, 21 Aug 2026
@@ -21,10 +22,9 @@ Sama' Abdulhadi is a techno and house artist tracked on soundcheck, with 140 set
 - Cavo Paradiso, Mykonos — Fri, 31 Jul 2026
 - Lofi, Amsterdam — Fri, 24 Jul 2026
 - MS Artville, Hamburg — Sat, 18 Jul 2026
-- Nitsa Club, Barcelona — Sat, 20 Jun 2026
 
 ## Shares bills with
 
 Richie Hawtin, Adam Beyer, Anfisa Letyago
 
-*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/samaabdulhadi/)*
+*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/samaabdulhadi/)*

@@ -1,6 +1,6 @@
 # Johnny Dynell
 
-Johnny Dynell is a Disco and House artist with 1 upcoming club date listed on soundcheck as of Sat, 12 Sept 2026, next at Club Rawhide, New York City on Sun, 13 Sept 2026.
+Johnny Dynell is a Disco and House artist with 1 upcoming club date listed on soundcheck as of Sun, 13 Sept 2026, next at Club Rawhide, New York City on Sun, 13 Sept 2026.
 
 Johnny Dynell is a disco and house artist based in United States of America, tracked on soundcheck, with 5 sets logged across Newyorkcity. Often billed alongside Gatekeeper, Kim Anh and LOFTUS. Next up: Club Rawhide, Newyorkcity on Sun 13 Sept.
 
@@ -21,4 +21,4 @@ Johnny Dynell is a disco and house artist based in United States of America, tra
 
 Gatekeeper, Kim Anh, LOFTUS
 
-*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/johnnydynell/)*
+*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/johnnydynell/)*

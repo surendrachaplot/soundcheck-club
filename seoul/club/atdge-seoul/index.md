@@ -1,14 +1,13 @@
 # Atdge Seoul
 
-Atdge Seoul is a music venue in Seoul with 7 upcoming nights listed on soundcheck as of Sat, 12 Sept 2026; the next is "Pablo, Baby Don't Cry, cuprum" on Sat, 12 Sept 2026.
+Atdge Seoul is a music venue in Seoul with 6 upcoming nights listed on soundcheck as of Sun, 13 Sept 2026; the next is "m.bience, PhaseLead" on Wed, 16 Sept 2026.
 
-Atdge Seoul is a music venue in Seoul listed on soundcheck. 7 upcoming nights, with line-ups including Asllan, BABY DON’T CRY, cuprum and Gangmin Kim and 2 more. Browse upcoming dates, start times and who's playing. 29, Bogwang-ro 59-gil, Yongsan-gu, Seoul.
+Atdge Seoul is a music venue in Seoul listed on soundcheck. 6 upcoming nights, with line-ups including Asllan, Gangmin Kim, GUMGO and Haemi Park and 2 more. Browse upcoming dates, start times and who's playing. 29, Bogwang-ro 59-gil, Yongsan-gu, Seoul.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 12 Sept 2026 | Pablo, Baby Don't Cry, cuprum | BABY DON’T CRY, cuprum |
 | Wed, 16 Sept 2026 | m.bience, PhaseLead | PhaseLead, m.bience |
 | Fri, 18 Sept 2026 | KYVU, NON IDENTITY, Recy | KYVU, NON IDENTITY, Recy |
 | Sat, 19 Sept 2026 | J.bin, Hwiah, Sookyung | Hwiah, J.bin (2) |
@@ -20,4 +19,4 @@ Atdge Seoul is a music venue in Seoul listed on soundcheck. 7 upcoming nights, w
 
 29, Bogwang-ro 59-gil, Yongsan-gu, Seoul, Seoul
 
-*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/seoul/club/atdge-seoul/)*
+*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/seoul/club/atdge-seoul/)*

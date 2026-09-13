@@ -1,6 +1,6 @@
 # Sara Miller
 
-Sara Miller is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Tresor / Globus, Berlin on Sat, 12 Sept 2026.
+Sara Miller is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sun, 13 Sept 2026, next at Tresor / Globus, Berlin on Sat, 12 Sept 2026.
 
 Sara Miller is a house and techno artist based in Ireland, tracked on soundcheck, with 57 sets logged across Amsterdam, Barcelona, Berlin and Detroit and 5 more. Often billed alongside Benjamin Fröhlich, Rosa Red and Alinka. Next up: Tresor / Globus, Berlin on Sat 12 Sept.
 
@@ -13,6 +13,7 @@ Sara Miller is a house and techno artist based in Ireland, tracked on soundcheck
 
 ## Recently played
 
+- Tresor / Globus, Berlin — Sat, 12 Sept 2026
 - Tresor / Globus, Berlin — Mon, 10 Aug 2026
 - Renate, Berlin — Sat, 4 Jul 2026
 - Kater, Berlin — Fri, 19 Jun 2026
@@ -20,10 +21,9 @@ Sara Miller is a house and techno artist based in Ireland, tracked on soundcheck
 - Berghain | Panorama Bar | Säule, Berlin — Sat, 9 May 2026
 - Pawn Shop, Dublin — Fri, 6 Mar 2026
 - Crack Bellmer, Berlin — Sat, 21 Feb 2026
-- Berghain | Panorama Bar | Säule, Berlin — Fri, 30 Jan 2026
 
 ## Shares bills with
 
 Benjamin Fröhlich, Rosa Red, Alinka
 
-*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/saramiller/)*
+*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/saramiller/)*

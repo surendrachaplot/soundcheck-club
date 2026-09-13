@@ -1,14 +1,13 @@
 # salute
 
-salute is a House and Techno artist with 9 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Space 550, San Francisco/Oakland on Sat, 12 Sept 2026.
+salute is a House and Techno artist with 8 upcoming club dates listed on soundcheck as of Sun, 13 Sept 2026, next at Waterfront Park in San Diego, San Diego on Sat, 26 Sept 2026.
 
-salute is a house and techno artist tracked on soundcheck, with 184 sets logged across Amsterdam, Antwerp, Auckland and Austin and 54 more. Often billed alongside DJ BORING, Eliza Rose and HAAi. Next up: Space 550, Sanfrancisco on Sat 12 Sept.
+salute is a house and techno artist tracked on soundcheck, with 184 sets logged across Amsterdam, Antwerp, Auckland and Austin and 54 more. Often billed alongside DJ BORING, Eliza Rose and HAAi. Next up: Waterfront Park in San Diego, Sandiego on Sat 26 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 12 Sept 2026 | Space 550 | San Francisco/Oakland |
 | Sat, 26 Sept 2026 | Waterfront Park in San Diego | San Diego |
 | Thu, 8 Oct 2026 | Amnesia Ibiza | Ibiza |
 | Sat, 10 Oct 2026 | Plano B | Porto |
@@ -20,6 +19,7 @@ salute is a house and techno artist tracked on soundcheck, with 184 sets logged 
 
 ## Recently played
 
+- Space 550, San Francisco/Oakland — Sat, 12 Sept 2026
 - Union Park, Chicago — Fri, 4 Sept 2026
 - TBA - Hollywood Park adjacent to SoFi Stadium, Los Angeles — Sat, 1 Aug 2026
 - The Concourse Project, Austin — Fri, 31 Jul 2026
@@ -27,10 +27,9 @@ salute is a house and techno artist tracked on soundcheck, with 184 sets logged 
 - Clifton Street, London — Sat, 11 Jul 2026
 - Else, Berlin — Sat, 27 Jun 2026
 - OLT Rivierenhof, Antwerp — Sat, 20 Jun 2026
-- Amsterdamse Bos, Amsterdam — Sat, 6 Jun 2026
 
 ## Shares bills with
 
 DJ BORING, Eliza Rose, HAAi
 
-*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/salute/)*
+*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/salute/)*

@@ -1,14 +1,13 @@
 # Music Room
 
-Music Room is a music venue in Melbourne with 3 upcoming nights listed on soundcheck as of Sat, 12 Sept 2026; the next is "Music Room pres. JD, Leeeps, Dasha & Ollis b2b Lewis" on Sat, 12 Sept 2026.
+Music Room is a music venue in Melbourne with 2 upcoming nights listed on soundcheck as of Sun, 13 Sept 2026; the next is "Music Room pres. Luke McD All Night Long" on Sun, 13 Sept 2026.
 
-Music Room is a music venue in Melbourne listed on soundcheck. 3 upcoming nights, with line-ups including Acid Safari, Matt Radovich and TheCamiloS. Browse upcoming dates, start times and who's playing. Level 1/270 Lonsdale St, Melbourne VIC 3000.
+Music Room is a music venue in Melbourne listed on soundcheck. 2 upcoming nights, with line-ups including Acid Safari, Matt Radovich and TheCamiloS. Browse upcoming dates, start times and who's playing. Level 1/270 Lonsdale St, Melbourne VIC 3000.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 12 Sept 2026 | Music Room pres. JD, Leeeps, Dasha & Ollis b2b Lewis |  |
 | Sun, 13 Sept 2026 | Music Room pres. Luke McD All Night Long |  |
 | Thu, 17 Sept 2026 | House of Acid | Acid Safari, Matt Radovich, TheCamiloS |
 
@@ -16,4 +15,4 @@ Music Room is a music venue in Melbourne listed on soundcheck. 3 upcoming nights
 
 Level 1/270 Lonsdale St, Melbourne VIC 3000, Melbourne
 
-*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/music-room/)*
+*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/music-room/)*

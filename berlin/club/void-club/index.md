@@ -1,14 +1,13 @@
 # Void Club
 
-Void Club is a music venue in Berlin with 14 upcoming nights listed on soundcheck as of Sat, 12 Sept 2026; the next is "KlangKnospe x Abgedreht SpringKlang" on Sat, 12 Sept 2026.
+Void Club is a music venue in Berlin with 13 upcoming nights listed on soundcheck as of Sun, 13 Sept 2026; the next is "Drum and Bass w/Codex (SRB), Datalog (HU), Zorkow (SLO) - human_made 006" on Fri, 18 Sept 2026.
 
-Void Club is a music venue in Berlin listed on soundcheck. 14 upcoming nights, with line-ups including Agem, Alex Xandra, Alienata and alllone and 2 more. Browse upcoming dates, start times and who's playing. Wiesenweg 5-9, 10365.
+Void Club is a music venue in Berlin listed on soundcheck. 13 upcoming nights, with line-ups including Agem, Alex Xandra, Alienata and alllone and 2 more. Browse upcoming dates, start times and who's playing. Wiesenweg 5-9, 10365.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 12 Sept 2026 | KlangKnospe x Abgedreht SpringKlang | B.R.K.Ø., Callado, DOCTOR MÜCKE, EZA (DE), Flohmarkt, MEKER, Obelisk, Pixie Dust, TIZIANO, e.leptic, jeanska |
 | Fri, 18 Sept 2026 | Drum and Bass w/Codex (SRB), Datalog (HU), Zorkow (SLO) - human_made 006 | Aynaet, IHOPEIEXIST, Kenzura, icanseesounds |
 | Sat, 19 Sept 2026 | Enter the VOID #81 | MARIE.MOON, Upzet, Wi5dom, buktuu, emaenu (2) |
 | Fri, 25 Sept 2026 | 5 Years Animarum – A Club Festival For Your Soul | Alex Xandra, Andriiic, DJ Jordan, Endica, MCHL51, Marí Kozlovska, Mosher, Patrick Scuro, RHAPSODIE, Roger Lavelle, Sophie van Hayden, Vero_ |
@@ -18,9 +17,10 @@ Void Club is a music venue in Berlin listed on soundcheck. 14 upcoming nights, w
 | Fri, 9 Oct 2026 | Seazed: Bounce, Hardtechno & Trance Night (2 Floors) |  |
 | Sat, 10 Oct 2026 | Machine Lab by Modular Circuit - Tag der Clubkultur | Dshanna, Frisqo, Gabrielle (DE), Julez (live) |
 | Fri, 23 Oct 2026 | TRI:CEPTION (Techno, Psytrance, Techhouse) - 4 Floors | Cherry Core, Honschu Lee, Marika Rossa, Mathias Birnbaum, Mike Väth, Original Peter, Rene Bourgeois, Rene Oldenburg, Sven Tasnadi, Tanz Unter Freunden |
+| Fri, 30 Oct 2026 | Kinder der Nacht & DEXIT Mannheim - Halloween Rave | Ewelina Koll, GHOST DE, Jose Bonetto, Lila Kova, Marc van Linden, Rob Robsen, Seimen Dexter |
 
 ## Address
 
 Wiesenweg 5-9, 10365, Berlin
 
-*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/void-club/)*
+*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/void-club/)*

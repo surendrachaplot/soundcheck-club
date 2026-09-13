@@ -1,14 +1,13 @@
 # Artheater
 
-Artheater is a music venue in Cologne with 7 upcoming nights listed on soundcheck as of Sat, 12 Sept 2026; the next is "N8SCHICHT" on Sat, 12 Sept 2026.
+Artheater is a music venue in Cologne with 6 upcoming nights listed on soundcheck as of Sun, 13 Sept 2026; the next is "BergWacht with Konfusia uvm" on Fri, 18 Sept 2026.
 
-Artheater is a music venue in Cologne listed on soundcheck. 7 upcoming nights, with line-ups including Amøn, Aw508, Blame The Mono and BOLZ and 2 more. Browse upcoming dates, start times and who's playing. Ehrenfeldgürtel 127; 50823 Cologne; Germany.
+Artheater is a music venue in Cologne listed on soundcheck. 6 upcoming nights, with line-ups including Amøn, Blame The Mono, Cara Elizabeth and Cynthia Spiering and 2 more. Browse upcoming dates, start times and who's playing. Ehrenfeldgürtel 127; 50823 Cologne; Germany.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 12 Sept 2026 | N8SCHICHT | Aw508, BOLZ, Miss Rapid, NAKAMA |
 | Fri, 18 Sept 2026 | BergWacht with Konfusia uvm | Konfusia, Liho |
 | Sat, 19 Sept 2026 | Kluengel Klubnacht | Cara Elizabeth, HUELLE, Prossowski, RCGT, Sneaky Pete |
 | Sat, 19 Sept 2026 | 303 presents Cynthia Spiering, Danilo Filipe, In Furcht, TINKERHELL u. v. m. | Cynthia Spiering, Danilo Filipe, In Furcht, TINKERHELL |
@@ -20,4 +19,4 @@ Artheater is a music venue in Cologne listed on soundcheck. 7 upcoming nights, w
 
 Ehrenfeldgürtel 127; 50823 Cologne; Germany, Cologne
 
-*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/cologne/club/artheater/)*
+*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/cologne/club/artheater/)*

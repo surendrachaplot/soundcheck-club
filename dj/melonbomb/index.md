@@ -1,6 +1,6 @@
 # Melon Bomb
 
-Melon Bomb is a House and Techno artist with 6 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at [UNVRS], Ibiza on Sun, 13 Sept 2026.
+Melon Bomb is a House and Techno artist with 6 upcoming club dates listed on soundcheck as of Sun, 13 Sept 2026, next at [UNVRS], Ibiza on Sun, 13 Sept 2026.
 
 Melon Bomb is a house and techno artist tracked on soundcheck, with 74 sets logged across Berlin, Dublin, Glasgow and Ibiza and 10 more. Often billed alongside Carl Cox, Sophie Lloyd and Melvo Baptiste. Next up: [UNVRS], Ibiza on Sun 13 Sept.
 
@@ -30,4 +30,4 @@ Melon Bomb is a house and techno artist tracked on soundcheck, with 74 sets logg
 
 Carl Cox, Sophie Lloyd, Melvo Baptiste
 
-*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/melonbomb/)*
+*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/melonbomb/)*

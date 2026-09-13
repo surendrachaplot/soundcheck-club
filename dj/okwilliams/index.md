@@ -1,6 +1,6 @@
 # OK Williams
 
-OK Williams is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at The Cause, London on Sat, 12 Sept 2026.
+OK Williams is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Sun, 13 Sept 2026, next at The Cause, London on Sat, 12 Sept 2026.
 
 OK Williams is a techno and house artist tracked on soundcheck, with 176 sets logged across Amsterdam, Antwerp, Barcelona and Belfast and 43 more. Often billed alongside BASHKKA, Gabrielle Kwarteng and ISAbella. Next up: The Cause, London on Sat 12 Sept.
 
@@ -17,6 +17,7 @@ OK Williams is a techno and house artist tracked on soundcheck, with 176 sets lo
 
 ## Recently played
 
+- The Cause, London — Sat, 12 Sept 2026
 - The Carpet Shop, London — Thu, 10 Sept 2026
 - The White Hotel, Manchester — Sat, 5 Sept 2026
 - Circle Park, Brussels — Sat, 29 Aug 2026
@@ -24,10 +25,9 @@ OK Williams is a techno and house artist tracked on soundcheck, with 176 sets lo
 - Backsteinboot, Berlin — Sat, 15 Aug 2026
 - Fort Vechten, Utrecht — Sat, 25 Jul 2026
 - Garchinger See, Munich — Sat, 18 Jul 2026
-- Ferropolis, Leipzig — Fri, 17 Jul 2026
 
 ## Shares bills with
 
 BASHKKA, Gabrielle Kwarteng, ISAbella
 
-*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/okwilliams/)*
+*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/okwilliams/)*

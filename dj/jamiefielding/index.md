@@ -1,14 +1,13 @@
 # Jamie Fielding
 
-Jamie Fielding is a House and Tech House artist with 12 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at Studio 338, London on Sat, 12 Sept 2026.
+Jamie Fielding is a House and Tech House artist with 11 upcoming club dates listed on soundcheck as of Sun, 13 Sept 2026, next at 528 Ibiza, Ibiza on Sun, 13 Sept 2026.
 
-Jamie Fielding is a house and tech house artist tracked on soundcheck, with 64 sets logged across Amsterdam, Barcelona, Belfast and Birmingham and 12 more. Often billed alongside Marsolo, Niteplan and Job de Jong. Next up: Studio 338, London on Sat 12 Sept.
+Jamie Fielding is a house and tech house artist tracked on soundcheck, with 64 sets logged across Amsterdam, Barcelona, Belfast and Birmingham and 12 more. Often billed alongside Marsolo, Niteplan and Job de Jong. Next up: 528 Ibiza, Ibiza on Sun 13 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 12 Sept 2026 | Studio 338 | London |
 | Sun, 13 Sept 2026 | 528 Ibiza | Ibiza |
 | Sun, 20 Sept 2026 | 528 Ibiza | Ibiza |
 | Thu, 1 Oct 2026 | Amnesia Ibiza | Ibiza |
@@ -23,6 +22,7 @@ Jamie Fielding is a house and tech house artist tracked on soundcheck, with 64 s
 
 ## Recently played
 
+- Studio 338, London — Sat, 12 Sept 2026
 - Amnesia Ibiza, Ibiza — Thu, 10 Sept 2026
 - Eden, Ibiza — Sun, 23 Aug 2026
 - Barras Art & Design Centre, Glasgow — Sat, 22 Aug 2026
@@ -30,10 +30,9 @@ Jamie Fielding is a house and tech house artist tracked on soundcheck, with 64 s
 - fabric, London — Sat, 15 Aug 2026
 - Lab11, Birmingham — Sat, 8 Aug 2026
 - block., Dublin — Sat, 8 Aug 2026
-- fabric, London — Sun, 5 Jul 2026
 
 ## Shares bills with
 
 Marsolo, Niteplan, Job de Jong
 
-*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jamiefielding/)*
+*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jamiefielding/)*

@@ -1,14 +1,13 @@
 # gART.n
 
-gART.n is a music venue in Berlin with 6 upcoming nights listed on soundcheck as of Sat, 12 Sept 2026; the next is "Flowers by HOVR" on Sat, 12 Sept 2026.
+gART.n is a music venue in Berlin with 5 upcoming nights listed on soundcheck as of Sun, 13 Sept 2026; the next is "Tipping Point Open Air im gART.n" on Sun, 13 Sept 2026.
 
-gART.n is a music venue in Berlin listed on soundcheck. 6 upcoming nights, with line-ups including 7heads, Bonfante, CIOZ and Corpino and 2 more. Browse upcoming dates, start times and who's playing. Blockdammweg 1, 10317 Berlin.
+gART.n is a music venue in Berlin listed on soundcheck. 5 upcoming nights, with line-ups including 7heads, Bonfante, CIOZ and Corpino and 2 more. Browse upcoming dates, start times and who's playing. Blockdammweg 1, 10317 Berlin.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 12 Sept 2026 | Flowers by HOVR | Dj handbag, HOVR, Michael Lane, Organza, Sherø |
 | Sun, 13 Sept 2026 | Tipping Point Open Air im gART.n | Frida Darko, Rakäthe, Urem |
 | Sat, 19 Sept 2026 | Rebellion der Träumer* X Afterhour Sounds - Sticky Sunset Soli Rave Syndicate | Horst Haller, LEENI, Maria Theresia von Eberg, Moontalk, Tummetott |
 | Sun, 20 Sept 2026 | RAAMO - Label Launch Party | 7heads, Bonfante, CIOZ, Corpino, Mimi Love |
@@ -19,4 +18,4 @@ gART.n is a music venue in Berlin listed on soundcheck. 6 upcoming nights, with 
 
 Blockdammweg 1, 10317 Berlin, Berlin
 
-*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/gart-n/)*
+*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/gart-n/)*

@@ -1,6 +1,6 @@
 # Ricky Nord
 
-Ricky Nord is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 12 Sept 2026, next at Solace, Melbourne on Sat, 19 Sept 2026.
+Ricky Nord is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sun, 13 Sept 2026, next at Solace, Melbourne on Sat, 19 Sept 2026.
 
 Ricky Nord is a techno and house artist tracked on soundcheck, with 53 sets logged across Melbourne and Sydney. Often billed alongside Charlotte Rooney, Mabel and Marli. Next up: Solace, Melbourne on Sat 19 Sept.
 
@@ -25,4 +25,4 @@ Ricky Nord is a techno and house artist tracked on soundcheck, with 53 sets logg
 
 Charlotte Rooney, Mabel, Marli
 
-*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/rickynord/)*
+*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/rickynord/)*

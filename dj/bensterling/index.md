@@ -1,14 +1,13 @@
 # Ben Sterling
 
-Ben Sterling is a Tech House and House artist with 9 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at California Plaza, Los Angeles on Sat, 12 Sept 2026.
+Ben Sterling is a Tech House and House artist with 8 upcoming club dates listed on soundcheck as of Sun, 13 Sept 2026, next at Beach House San Diego, San Diego on Sun, 13 Sept 2026.
 
-Ben Sterling is a tech house and house artist tracked on soundcheck, with 187 sets logged across Amsterdam, Austin, Barcelona and Belgrade and 39 more. Often billed alongside Marco Carola, Max Dean and Ms. Mada. Next up: California Plaza, Losangeles on Sat 12 Sept.
+Ben Sterling is a tech house and house artist tracked on soundcheck, with 187 sets logged across Amsterdam, Austin, Barcelona and Belgrade and 39 more. Often billed alongside Marco Carola, Max Dean and Ms. Mada. Next up: Beach House San Diego, Sandiego on Sun 13 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 12 Sept 2026 | California Plaza | Los Angeles |
 | Sun, 13 Sept 2026 | Beach House San Diego | San Diego |
 | Thu, 24 Sept 2026 | Gallagher Square | San Diego |
 | Fri, 25 Sept 2026 | The Concourse Project | Austin |
@@ -20,6 +19,7 @@ Ben Sterling is a tech house and house artist tracked on soundcheck, with 187 se
 
 ## Recently played
 
+- California Plaza, Los Angeles — Sat, 12 Sept 2026
 - TBA - Secret location announced only to ticket holders, Ibiza — Fri, 11 Sept 2026
 - Parque Papa Francisco - Bobadela , Loures, Lisbon — Sat, 5 Sept 2026
 - Union Park, Chicago — Fri, 4 Sept 2026
@@ -27,10 +27,9 @@ Ben Sterling is a tech house and house artist tracked on soundcheck, with 187 se
 - Santanna Mykonos, Mykonos — Mon, 24 Aug 2026
 - fabric, London — Fri, 21 Aug 2026
 - Thuishaven, Amsterdam — Sun, 2 Aug 2026
-- UNO MALTA, Malta — Sun, 26 Jul 2026
 
 ## Shares bills with
 
 Marco Carola, Max Dean, Ms. Mada
 
-*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bensterling/)*
+*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bensterling/)*

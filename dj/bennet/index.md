@@ -1,20 +1,20 @@
 # Bennet
 
-Bennet is a House and Tech House artist with 4 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at BRET, Amsterdam on Sat, 12 Sept 2026.
+Bennet is a House and Tech House artist with 3 upcoming club dates listed on soundcheck as of Sun, 13 Sept 2026, next at UMI, Brussels on Sat, 19 Sept 2026.
 
-Bennet is a house and tech house artist tracked on soundcheck, with 17 sets logged across Amsterdam, Barcelona, Berlin and Bristol and 10 more. Often billed alongside Bennet (DE), Byron Yeates and Fais Le Beau. Next up: BRET, Amsterdam on Sat 12 Sept.
+Bennet is a house and tech house artist tracked on soundcheck, with 17 sets logged across Amsterdam, Barcelona, Berlin and Bristol and 10 more. Often billed alongside Bennet (DE), Byron Yeates and Fais Le Beau. Next up: UMI, Brussels on Sat 19 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 12 Sept 2026 | BRET | Amsterdam |
 | Sat, 19 Sept 2026 | UMI | Brussels |
 | Fri, 2 Oct 2026 | Badaboum | Paris |
 | Fri, 9 Oct 2026 | Shelter Amsterdam | Amsterdam |
 
 ## Recently played
 
+- BRET, Amsterdam — Sat, 12 Sept 2026
 - TBA, Copenhagen — Sun, 16 Aug 2026
 - La Terrrazza, Barcelona — Fri, 14 Aug 2026
 - MS Artville, Hamburg — Sat, 18 Jul 2026
@@ -22,10 +22,9 @@ Bennet is a house and tech house artist tracked on soundcheck, with 17 sets logg
 - M-BIA, Berlin — Fri, 23 Jan 2026
 - BLITZ, Munich — Sat, 22 Nov 2025
 - Abercrombie Hotel, Sydney — Fri, 24 Oct 2025
-- Glamorama, Melbourne — Sat, 18 Oct 2025
 
 ## Shares bills with
 
 Bennet (DE), Byron Yeates, Fais Le Beau
 
-*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bennet/)*
+*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bennet/)*

@@ -1,14 +1,13 @@
 # smartbar
 
-smartbar is a music venue in Chicago with 19 upcoming nights listed on soundcheck as of Sat, 12 Sept 2026; the next is "Statement Piece feat. Bambounou - Madeline - Liquid City Motors" on Sat, 12 Sept 2026.
+smartbar is a music venue in Chicago with 18 upcoming nights listed on soundcheck as of Sun, 13 Sept 2026; the next is "Queen! feat. Derrick Carter - Michael Serafini - Paula Tape" on Sun, 13 Sept 2026.
 
-smartbar is a music venue in Chicago listed on soundcheck. 19 upcoming nights, with line-ups including Paula Tape, Bambounou, Bradley Zero and Brenda and 2 more. Browse upcoming dates, start times and who's playing. 3730 N. Clark St; Chicago, IL 60613; United States.
+smartbar is a music venue in Chicago listed on soundcheck. 18 upcoming nights, with line-ups including Paula Tape, Bradley Zero, Brenda and Colleen 'Cosmo' Murphy and 2 more. Browse upcoming dates, start times and who's playing. 3730 N. Clark St; Chicago, IL 60613; United States.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 12 Sept 2026 | Statement Piece feat. Bambounou - Madeline - Liquid City Motors | Bambounou, Liquid City Motors, Madeline (Chi) |
 | Sun, 13 Sept 2026 | Queen! feat. Derrick Carter - Michael Serafini - Paula Tape | Derrick Carter, Michael Serafini, Paula Tape |
 | Fri, 18 Sept 2026 | Global Swing presents Oxygen feat. Satoshi Tomiie - Garrett David - esoe | Garrett David, Satoshi Tomiie, esoe |
 | Sat, 19 Sept 2026 | Daphni | Daphni, Phillip Stone |
@@ -18,9 +17,10 @@ smartbar is a music venue in Chicago listed on soundcheck. 19 upcoming nights, w
 | Sun, 27 Sept 2026 | Queen! feat. Derrick Carter - Michael Serafini - Shaun J Wright | Derrick Carter, Michael Serafini, Shaun J. Wright |
 | Sat, 3 Oct 2026 | Lineage feat. Colleen 'Cosmo' Murphy - Tony Humphries | Colleen 'Cosmo' Murphy, Tony Humphries |
 | Sun, 4 Oct 2026 | Queen! feat. Derrick Carter - Michael Serafini - Sassmouth | Derrick Carter, Michael Serafini, Sassmouth |
+| Fri, 9 Oct 2026 | Objekt - Kia - Madeline | Kia (AU), Madeline (Chi), Objekt |
 
 ## Address
 
 3730 N. Clark St; Chicago, IL 60613; United States, Chicago
 
-*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/chicago/club/smartbar/)*
+*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/chicago/club/smartbar/)*

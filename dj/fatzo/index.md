@@ -1,20 +1,20 @@
 # Fatzo
 
-Fatzo is a House and Tech House artist with 4 upcoming club dates listed on soundcheck as of Sat, 12 Sept 2026, next at TBA - KENT COUNTY SHOWGROUND, London on Sat, 12 Sept 2026.
+Fatzo is a House and Tech House artist with 3 upcoming club dates listed on soundcheck as of Sun, 13 Sept 2026, next at Hï Ibiza, Ibiza on Tue, 29 Sept 2026.
 
-Fatzo is a house and tech house artist tracked on soundcheck, with 133 sets logged across Amsterdam, Antwerp, Austin and Bali and 37 more. Often billed alongside Oden, Armand Van Helden and Danny Howard. Next up: TBA - KENT COUNTY SHOWGROUND, London on Sat 12 Sept.
+Fatzo is a house and tech house artist tracked on soundcheck, with 133 sets logged across Amsterdam, Antwerp, Austin and Bali and 37 more. Often billed alongside Oden, Armand Van Helden and Danny Howard. Next up: Hï Ibiza, Ibiza on Tue 29 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 12 Sept 2026 | TBA - KENT COUNTY SHOWGROUND | London |
 | Tue, 29 Sept 2026 | Hï Ibiza | Ibiza |
 | Thu, 1 Oct 2026 | TBA - Various Venues | Malta |
 | Thu, 1 Oct 2026 | UNO MALTA | Malta |
 
 ## Recently played
 
+- TBA - KENT COUNTY SHOWGROUND, London — Sat, 12 Sept 2026
 - [UNVRS], Ibiza — Sat, 22 Aug 2026
 - Ushuaïa Ibiza, Ibiza — Thu, 30 Jul 2026
 - Ku Barcelona, Barcelona — Sun, 26 Jul 2026
@@ -22,10 +22,9 @@ Fatzo is a house and tech house artist tracked on soundcheck, with 133 sets logg
 - Silverworks Island, London — Sat, 11 Jul 2026
 - fabric, London — Sat, 11 Jul 2026
 - Chinois Ibiza, Ibiza — Thu, 2 Jul 2026
-- TBA - Quinta Mira Rio, Lisbon — Sat, 13 Jun 2026
 
 ## Shares bills with
 
 Oden, Armand Van Helden, Danny Howard
 
-*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/fatzo/)*
+*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/fatzo/)*

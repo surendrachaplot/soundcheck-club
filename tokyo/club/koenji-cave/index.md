@@ -1,14 +1,13 @@
 # Koenji Cave
 
-Koenji Cave is a music venue in Tokyo with 7 upcoming nights listed on soundcheck as of Sat, 12 Sept 2026; the next is "'The Psychedelic Trance Party' Kaleidoscope Vol.21" on Sat, 12 Sept 2026.
+Koenji Cave is a music venue in Tokyo with 6 upcoming nights listed on soundcheck as of Sun, 13 Sept 2026; the next is "- eureka moment - organized by EUREKA" on Fri, 18 Sept 2026.
 
-Koenji Cave is a music venue in Tokyo listed on soundcheck. 7 upcoming nights, with line-ups including BERLINER KINDL, Bones, CATRONICA and CyberMoripy and 2 more. Browse upcoming dates, start times and who's playing. 4-23-5 Koenjiminami, Suginami-ku, Tokyo, 166-0003 Japan.
+Koenji Cave is a music venue in Tokyo listed on soundcheck. 6 upcoming nights, with line-ups including Bones, CATRONICA, CyberMoripy and Do Shock Booze and 2 more. Browse upcoming dates, start times and who's playing. 4-23-5 Koenjiminami, Suginami-ku, Tokyo, 166-0003 Japan.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 12 Sept 2026 | 'The Psychedelic Trance Party' Kaleidoscope Vol.21 | BERLINER KINDL |
 | Fri, 18 Sept 2026 | - eureka moment - organized by EUREKA | CyberMoripy, Raveman |
 | Sat, 19 Sept 2026 | 暦 - Koyomi - 4th Anniversary |  |
 | Mon, 21 Sept 2026 | GAMADASE - KUMAMOTO DONATION PARTY - ㅤ 熊本地震復興支援 | Do Shock Booze, Funky Gong, TBA |
@@ -20,4 +19,4 @@ Koenji Cave is a music venue in Tokyo listed on soundcheck. 7 upcoming nights, w
 
 4-23-5 Koenjiminami, Suginami-ku, Tokyo, 166-0003 Japan, Tokyo
 
-*Updated Sat, 12 Sept 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/koenji-cave/)*
+*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/koenji-cave/)*
