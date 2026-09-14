@@ -1,14 +1,13 @@
 # Aniaef
 
-Aniaef is a Techno and Electro artist with 5 upcoming club dates listed on soundcheck as of Sun, 13 Sept 2026, next at The Glove That Fits, London on Sun, 13 Sept 2026.
+Aniaef is a Techno and Electro artist with 4 upcoming club dates listed on soundcheck as of Mon, 14 Sept 2026, next at Bar A Bar, London on Fri, 18 Sept 2026.
 
-Aniaef is a techno and electro artist tracked on soundcheck, with 18 sets logged across London. Often billed alongside Ylia (UK), GIZZI and H Grade. Next up: The Glove That Fits, London on Sun 13 Sept.
+Aniaef is a techno and electro artist tracked on soundcheck, with 18 sets logged across London. Often billed alongside Ylia (UK), GIZZI and H Grade. Next up: Bar A Bar, London on Fri 18 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sun, 13 Sept 2026 | The Glove That Fits | London |
 | Fri, 18 Sept 2026 | Bar A Bar | London |
 | Sun, 4 Oct 2026 | The Glove That Fits | London |
 | Sat, 17 Oct 2026 | Gaffe | London |
@@ -16,6 +15,7 @@ Aniaef is a techno and electro artist tracked on soundcheck, with 18 sets logged
 
 ## Recently played
 
+- The Glove That Fits, London — Sun, 13 Sept 2026
 - NUMBER 90 LONDON, London — Sun, 9 Aug 2026
 - Gaffe, London — Sat, 8 Aug 2026
 - Starlane Pizza Bar, London — Sun, 2 Aug 2026
@@ -23,10 +23,9 @@ Aniaef is a techno and electro artist tracked on soundcheck, with 18 sets logged
 - M.O.T, London — Fri, 12 Jun 2026
 - Secret Location, London — Sat, 11 Apr 2026
 - Gaffe, London — Fri, 10 Apr 2026
-- The Glove That Fits, London — Sun, 22 Mar 2026
 
 ## Shares bills with
 
 Ylia (UK), GIZZI, H Grade
 
-*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/aniaef/)*
+*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/aniaef/)*

@@ -1,6 +1,6 @@
 # Moopie
 
-Moopie is a House and Techno artist with 7 upcoming club dates listed on soundcheck as of Sun, 13 Sept 2026, next at Fort Mifflin, Philadelphia on Fri, 18 Sept 2026.
+Moopie is a House and Techno artist with 7 upcoming club dates listed on soundcheck as of Mon, 14 Sept 2026, next at Fort Mifflin, Philadelphia on Fri, 18 Sept 2026.
 
 Moopie is a house and techno artist tracked on soundcheck, with 201 sets logged across Amsterdam, Bali, Berlin and Bristol and 18 more. Often billed alongside Kia (AU), Hannah D and Emelyne. Next up: Fort Mifflin, Philadelphia on Fri 18 Sept.
 
@@ -31,4 +31,4 @@ Moopie is a house and techno artist tracked on soundcheck, with 201 sets logged 
 
 Kia (AU), Hannah D, Emelyne
 
-*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/moopie-au/)*
+*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/moopie-au/)*

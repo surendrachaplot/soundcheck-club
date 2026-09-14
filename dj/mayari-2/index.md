@@ -1,6 +1,6 @@
 # Mayari (2)
 
-Mayari (2) is a Electronica and Trance artist with 2 upcoming club dates listed on soundcheck as of Sun, 13 Sept 2026, next at The Russian House, Melbourne on Sat, 19 Sept 2026.
+Mayari (2) is a Electronica and Trance artist with 2 upcoming club dates listed on soundcheck as of Mon, 14 Sept 2026, next at The Russian House, Melbourne on Sat, 19 Sept 2026.
 
 Mayari (2) is an electronica and trance artist tracked on soundcheck, with 8 sets logged across Melbourne. Often billed alongside AVAXA, Amaliah and Blue Hawaii. Next up: The Russian House, Melbourne on Sat 19 Sept.
 
@@ -24,4 +24,4 @@ Mayari (2) is an electronica and trance artist tracked on soundcheck, with 8 set
 
 AVAXA, Amaliah, Blue Hawaii
 
-*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mayari-2/)*
+*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mayari-2/)*

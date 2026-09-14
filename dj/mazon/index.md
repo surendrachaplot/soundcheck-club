@@ -1,6 +1,6 @@
 # Mazón
 
-Mazón is a electronic artist with 1 upcoming club date listed on soundcheck as of Sun, 13 Sept 2026, next at Dr. Dou Social Club, Barcelona on Fri, 18 Sept 2026.
+Mazón is a electronic artist with 1 upcoming club date listed on soundcheck as of Mon, 14 Sept 2026, next at Dr. Dou Social Club, Barcelona on Fri, 18 Sept 2026.
 
 Mazón is an electronic artist based in Ecuador, tracked on soundcheck, with 20 sets logged across Barcelona. Often billed alongside Bill Hates, EstroFlex and Sergio Aaron. Next up: Dr. Dou Social Club, Barcelona on Fri 18 Sept.
 
@@ -25,4 +25,4 @@ Mazón is an electronic artist based in Ecuador, tracked on soundcheck, with 20 
 
 Bill Hates, EstroFlex, Sergio Aaron
 
-*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mazon/)*
+*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mazon/)*

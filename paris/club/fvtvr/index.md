@@ -1,14 +1,13 @@
 # Fvtvr
 
-Fvtvr is a music venue in Paris with 10 upcoming nights listed on soundcheck as of Sun, 13 Sept 2026; the next is "Yoyaku x SlapFunk Paris 24 hour Marathon" on Sat, 12 Sept 2026.
+Fvtvr is a music venue in Paris with 9 upcoming nights listed on soundcheck as of Mon, 14 Sept 2026; the next is "The Third Room: 32H" on Fri, 18 Sept 2026.
 
-Fvtvr is a music venue in Paris listed on soundcheck. 10 upcoming nights, with line-ups including Aline Brooklyn, ABI (FR), abs8lute and Adrien Calvet and 2 more. Browse upcoming dates, start times and who's playing. 34 quai d'Austerlitz, 75013 Paris.
+Fvtvr is a music venue in Paris listed on soundcheck. 9 upcoming nights, with line-ups including Aline Brooklyn, ABI (FR), abs8lute and Adrien Calvet and 2 more. Browse upcoming dates, start times and who's playing. 34 quai d'Austerlitz, 75013 Paris.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 12 Sept 2026 | Yoyaku x SlapFunk Paris 24 hour Marathon | A.M. Project, DJ Senc, Doudou MD, Dr. Rubinstein, Dyed Soundorom, Ellen Allien, Garrett David, Krol, Labouts, Laidlaw, Lea Occhi, Margaret Dygas, Mari.te, Samuel Deep, Satoshi Tomiie, Sonja Moonear, Woddd, Zeina |
 | Fri, 18 Sept 2026 | The Third Room: 32H | .VRIL, Ahmet Sisman, Call Super, Chami, Christian AB, Fadi Mohem, Felix Fleer, Fred P, Isabel Soto, Nastia Reigel, ORBE, Oscar Mulero, Psyk, Rami Chami, Tauceti (FR), abs8lute |
 | Fri, 25 Sept 2026 | imagine FAMILY: Lamache ALL NIGHT LONG | Lamache |
 | Sat, 26 Sept 2026 | LUST - CHAPTER XVIII | Litoshka, Pulso (2), Temudo |
@@ -23,4 +22,4 @@ Fvtvr is a music venue in Paris listed on soundcheck. 10 upcoming nights, with l
 
 34 quai d'Austerlitz, 75013 Paris, Paris
 
-*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/paris/club/fvtvr/)*
+*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/paris/club/fvtvr/)*

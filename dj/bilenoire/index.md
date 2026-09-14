@@ -1,6 +1,6 @@
 # Bile Noire
 
-Bile Noire is a Club and Dembow artist with 1 upcoming club date listed on soundcheck as of Sun, 13 Sept 2026, next at Bal Chavaux, Paris on Sat, 26 Sept 2026.
+Bile Noire is a Club and Dembow artist with 1 upcoming club date listed on soundcheck as of Mon, 14 Sept 2026, next at Bal Chavaux, Paris on Sat, 26 Sept 2026.
 
 Bile Noire is a club and dembow artist tracked on soundcheck, with 9 sets logged across Paris. Often billed alongside Philou CxC, BJF and Jeune Gaou. Next up: Bal Chavaux, Paris on Sat 26 Sept.
 
@@ -25,4 +25,4 @@ Bile Noire is a club and dembow artist tracked on soundcheck, with 9 sets logged
 
 Philou CxC, BJF, Jeune Gaou
 
-*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bilenoire/)*
+*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bilenoire/)*

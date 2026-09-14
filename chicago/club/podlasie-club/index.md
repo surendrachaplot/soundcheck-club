@@ -1,14 +1,13 @@
 # Podlasie Club
 
-Podlasie Club is a music venue in Chicago with 13 upcoming nights listed on soundcheck as of Sun, 13 Sept 2026; the next is "Sign Relighting Party" on Sun, 13 Sept 2026.
+Podlasie Club is a music venue in Chicago with 12 upcoming nights listed on soundcheck as of Mon, 14 Sept 2026; the next is "Various Distractions 002" on Wed, 16 Sept 2026.
 
-Podlasie Club is a music venue in Chicago listed on soundcheck. 13 upcoming nights, with line-ups including Beau Wanzer, Brendan Lemkin, Carré and Casper McFadden and 2 more. Browse upcoming dates, start times and who's playing. 2918 N Central Park Ave, Avondale, Chicago, IL, 60618.
+Podlasie Club is a music venue in Chicago listed on soundcheck. 12 upcoming nights, with line-ups including Beau Wanzer, Brendan Lemkin, Carré and Casper McFadden and 2 more. Browse upcoming dates, start times and who's playing. 2918 N Central Park Ave, Avondale, Chicago, IL, 60618.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sun, 13 Sept 2026 | Sign Relighting Party | Glamour Cadaver, J. Copes, JAXX., Miss Twink USA |
 | Wed, 16 Sept 2026 | Various Distractions 002 | Beau Wanzer, Champagne Mirrors, Mina Mills |
 | Thu, 17 Sept 2026 | 33 GIRI | Nolia, Pen Pals |
 | Fri, 18 Sept 2026 | DAYBREAK | Casper McFadden, DJ Paypal, Loqum |
@@ -18,9 +17,10 @@ Podlasie Club is a music venue in Chicago listed on soundcheck. 13 upcoming nigh
 | Fri, 25 Sept 2026 | OPEN DECKS | Brendan Lemkin |
 | Sat, 26 Sept 2026 | BLACK BASS COLLECTIVE, RP Boo, Devin Hudson | Devin Hudson, RP Boo |
 | Thu, 1 Oct 2026 | Darling's LA Bound | Glamour Cadaver, Juan aka grizzly, Searchl1te |
+| Fri, 2 Oct 2026 | Rrose, frail808, CEJ | CEJ, Rrose, frail808 |
 
 ## Address
 
 2918 N Central Park Ave, Avondale, Chicago, IL, 60618, Chicago
 
-*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/chicago/club/podlasie-club/)*
+*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/chicago/club/podlasie-club/)*

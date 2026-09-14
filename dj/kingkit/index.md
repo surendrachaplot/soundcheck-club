@@ -1,6 +1,6 @@
 # King Kit
 
-King Kit is a Balearic and Deep House artist with 1 upcoming club date listed on soundcheck as of Sun, 13 Sept 2026, next at Honey Street Studio, Manchester on Sat, 28 Nov 2026.
+King Kit is a Balearic and Deep House artist with 1 upcoming club date listed on soundcheck as of Mon, 14 Sept 2026, next at Honey Street Studio, Manchester on Sat, 28 Nov 2026.
 
 King Kit is a balearic and deep house artist tracked on soundcheck, with 6 sets logged across Manchester. Often billed alongside Contours, GayBoy and JAMS (UK). Next up: Honey Street Studio, Manchester on Sat 28 Nov.
 
@@ -22,4 +22,4 @@ King Kit is a balearic and deep house artist tracked on soundcheck, with 6 sets 
 
 Contours, GayBoy, JAMS (UK)
 
-*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kingkit/)*
+*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kingkit/)*

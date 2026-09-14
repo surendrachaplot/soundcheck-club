@@ -1,14 +1,13 @@
 # Alexia (2)
 
-Alexia (2) is a House and Deep House artist with 4 upcoming club dates listed on soundcheck as of Sun, 13 Sept 2026, next at Haus der Visionäre, Berlin on Fri, 11 Sept 2026.
+Alexia (2) is a House and Deep House artist with 3 upcoming club dates listed on soundcheck as of Mon, 14 Sept 2026, next at Monarch, Berlin on Sat, 3 Oct 2026.
 
-Alexia (2) is a house and deep house artist based in United Kingdom, tracked on soundcheck, with 56 sets logged across Amsterdam, Barcelona, Berlin and Brussels and 9 more. Often billed alongside Just1, Paul Kine and Penelope (2). Next up: Haus der Visionäre, Berlin on Fri 11 Sept.
+Alexia (2) is a house and deep house artist based in United Kingdom, tracked on soundcheck, with 56 sets logged across Amsterdam, Barcelona, Berlin and Brussels and 9 more. Often billed alongside Just1, Paul Kine and Penelope (2). Next up: Monarch, Berlin on Sat 3 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 11 Sept 2026 | Haus der Visionäre | Berlin |
 | Sat, 3 Oct 2026 | Monarch | Berlin |
 | Fri, 16 Oct 2026 | ZENNER | Berlin |
 | Sun, 25 Oct 2026 | Klaproos | Amsterdam |
@@ -28,4 +27,4 @@ Alexia (2) is a house and deep house artist based in United Kingdom, tracked on 
 
 Just1, Paul Kine, Penelope (2)
 
-*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/alexia-2/)*
+*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/alexia-2/)*

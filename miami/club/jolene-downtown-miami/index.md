@@ -1,6 +1,6 @@
 # Jolene Downtown Miami
 
-Jolene Downtown Miami is a music venue in Miami with 9 upcoming nights listed on soundcheck as of Sun, 13 Sept 2026; the next is "John Tejada, Massimiliano," on Thu, 17 Sept 2026.
+Jolene Downtown Miami is a music venue in Miami with 9 upcoming nights listed on soundcheck as of Mon, 14 Sept 2026; the next is "John Tejada, Massimiliano," on Thu, 17 Sept 2026.
 
 Jolene Downtown Miami is a music venue in Miami listed on soundcheck. 9 upcoming nights, with line-ups including Danyelino, DIFFER, Enamour and Gio Elia and 2 more. Browse upcoming dates, start times and who's playing. 200 E Flagler Street Miami, FL 33131.
 
@@ -22,4 +22,4 @@ Jolene Downtown Miami is a music venue in Miami listed on soundcheck. 9 upcoming
 
 200 E Flagler Street Miami, FL 33131, Miami
 
-*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/miami/club/jolene-downtown-miami/)*
+*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/miami/club/jolene-downtown-miami/)*

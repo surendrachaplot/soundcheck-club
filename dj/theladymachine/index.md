@@ -1,6 +1,6 @@
 # The Lady Machine
 
-The Lady Machine is a Techno and House artist with 10 upcoming club dates listed on soundcheck as of Sun, 13 Sept 2026, next at RADION, Amsterdam on Sat, 26 Sept 2026.
+The Lady Machine is a Techno and House artist with 10 upcoming club dates listed on soundcheck as of Mon, 14 Sept 2026, next at RADION, Amsterdam on Sat, 26 Sept 2026.
 
 The Lady Machine is a techno and house artist tracked on soundcheck, with 185 sets logged across Amsterdam, Athens, Barcelona and Berlin and 41 more. Often billed alongside Freddy K, Blasha & Allatt and Rakans. Next up: RADION, Amsterdam on Sat 26 Sept.
 
@@ -34,4 +34,4 @@ The Lady Machine is a techno and house artist tracked on soundcheck, with 185 se
 
 Freddy K, Blasha & Allatt, Rakans
 
-*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/theladymachine/)*
+*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/theladymachine/)*

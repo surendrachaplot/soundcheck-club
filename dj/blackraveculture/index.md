@@ -1,8 +1,8 @@
 # Black Rave Culture
 
-Black Rave Culture is a Techno and Club artist with 2 upcoming club dates listed on soundcheck as of Sun, 13 Sept 2026, next at Club Six, San Francisco/Oakland on Thu, 24 Sept 2026.
+Black Rave Culture is a Techno and Club artist with 2 upcoming club dates listed on soundcheck as of Mon, 14 Sept 2026, next at Club Six, San Francisco/Oakland on Thu, 24 Sept 2026.
 
-Black Rave Culture is a techno and club artist tracked on soundcheck, with 94 sets logged across Amsterdam, Austin, Bangkok and Barcelona and 28 more. Often billed alongside Nativesun, Amal and James Bangura. Next up: Club Six, Sanfrancisco on Thu 24 Sept.
+Black Rave Culture is a techno and club artist tracked on soundcheck, with 95 sets logged across Amsterdam, Austin, Bangkok and Barcelona and 29 more. Often billed alongside Nativesun, Amal and James Bangura. Next up: Club Six, Sanfrancisco on Thu 24 Sept.
 
 ## Upcoming shows
 
@@ -26,4 +26,4 @@ Black Rave Culture is a techno and club artist tracked on soundcheck, with 94 se
 
 Nativesun, Amal, James Bangura
 
-*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/blackraveculture/)*
+*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/blackraveculture/)*

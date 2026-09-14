@@ -1,6 +1,6 @@
 # Chemtrail Johnny
 
-Chemtrail Johnny is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sun, 13 Sept 2026, next at TBA - Downtown Los Angeles, Los Angeles on Fri, 25 Sept 2026.
+Chemtrail Johnny is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Mon, 14 Sept 2026, next at TBA - Downtown Los Angeles, Los Angeles on Fri, 25 Sept 2026.
 
 Chemtrail Johnny is a house and techno artist based in United States of America, tracked on soundcheck, with 25 sets logged across Losangeles. Often billed alongside Hazy, Mikeb and Connor Mikami. Next up: TBA - Downtown Los Angeles, Losangeles on Fri 25 Sept.
 
@@ -26,4 +26,4 @@ Chemtrail Johnny is a house and techno artist based in United States of America,
 
 Hazy, Mikeb, Connor Mikami
 
-*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/chemtrailjohnny/)*
+*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/chemtrailjohnny/)*

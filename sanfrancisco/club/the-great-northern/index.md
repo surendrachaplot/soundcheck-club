@@ -1,6 +1,6 @@
 # The Great Northern
 
-The Great Northern is a music venue in San Francisco/Oakland with 13 upcoming nights listed on soundcheck as of Sun, 13 Sept 2026; the next is "Night Vision - Sleazy Synths: Hopeless - DJ Cira - Saiman Li" on Fri, 18 Sept 2026.
+The Great Northern is a music venue in San Francisco/Oakland with 13 upcoming nights listed on soundcheck as of Mon, 14 Sept 2026; the next is "Night Vision - Sleazy Synths: Hopeless - DJ Cira - Saiman Li" on Fri, 18 Sept 2026.
 
 The Great Northern is a music venue in Sanfrancisco listed on soundcheck. 13 upcoming nights, with line-ups including Avalon Emerson, BEYA, Camillionaire and DJ Cira and 2 more. Browse upcoming dates, start times and who's playing. 119 Utah St, San Francisco, CA 94103.
 
@@ -23,4 +23,4 @@ The Great Northern is a music venue in Sanfrancisco listed on soundcheck. 13 upc
 
 119 Utah St, San Francisco, CA 94103, San Francisco/Oakland
 
-*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/the-great-northern/)*
+*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/the-great-northern/)*

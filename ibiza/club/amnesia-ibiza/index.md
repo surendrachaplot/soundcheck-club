@@ -1,15 +1,13 @@
 # Amnesia Ibiza
 
-Amnesia Ibiza is a music venue in Ibiza with 24 upcoming nights listed on soundcheck as of Sun, 13 Sept 2026; the next is "Pyramid" on Sun, 13 Sept 2026.
+Amnesia Ibiza is a music venue in Ibiza with 22 upcoming nights listed on soundcheck as of Mon, 14 Sept 2026; the next is "NRG" on Mon, 14 Sept 2026.
 
-Amnesia Ibiza is a music venue in Ibiza listed on soundcheck. 24 upcoming nights, with line-ups including Kepler, Adam Beyer, Adiel and Adrian Mills and 2 more. Browse upcoming dates, start times and who's playing. Ctra. Ibiza a San Antonio, Km 5, 07816 San Rafael, Ibiza.
+Amnesia Ibiza is a music venue in Ibiza listed on soundcheck. 22 upcoming nights, with line-ups including Kepler, Adam Beyer, Adiel and Adrian Mills and 2 more. Browse upcoming dates, start times and who's playing. Ctra. Ibiza a San Antonio, Km 5, 07816 San Rafael, Ibiza.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sun, 13 Sept 2026 | Pyramid | ANNĒ, Anitë, Francesco Del Garda, Ignez, Luciano, Marco Faraone, Nina Kraviz, Ricardo Villalobos, Saoirse |
-| Sun, 13 Sept 2026 | Pyramid: Luciano B2B Ricardo Villalobos | Luciano, Ricardo Villalobos |
 | Mon, 14 Sept 2026 | NRG | Ben Hemsley, DART, DATSKO, Hannah Laing, Kyle Starkey, PRADA2000 |
 | Tue, 15 Sept 2026 | Joseph Capriati presents Metamorfosi | Adiel, Alarico, Joseph Capriati, Nuke, PARAMIDA, Richie Hawtin, Toman, Vanee, Yanamaste |
 | Wed, 16 Sept 2026 | Resistance Ibiza Closing Party | Adam Beyer, Brina Knauss, Eric Prydz, Estella Boersma, I Hate Models, Juliet Fox, Mind Against, Nicole Moudaber, Stëh |
@@ -18,9 +16,11 @@ Amnesia Ibiza is a music venue in Ibiza listed on soundcheck. 24 upcoming nights
 | Sat, 19 Sept 2026 | FAC51: The Haçienda | DJ Paulette, David Morales, Graeme Park, Innercity (BE), Mike Pickering, Todd Terry |
 | Sun, 20 Sept 2026 | Pyramid | Andres Campo, Cam Stockman, Charlie Sparks, Deborah De Luca, Demi Riquisimo, Fleur Shore, Josh Baker, Kolter, Luca Donzelli, Marco Faraone, Marsolo |
 | Mon, 21 Sept 2026 | NRG | Ben Hemsley, DART, Denis Sulta, Faster Horses, Kyle Starkey |
+| Tue, 22 Sept 2026 | Joseph Capriati presents Metamorfosi | ALISHA, Alarico, Ben Klock, Joe Vanditti, Joseph Capriati, Markantonio, Obskur, Philippa Pacho, Roberto Capuano, Traumer |
+| Wed, 23 Sept 2026 | The Kevin & Perry Experience | Billy Gillies, Dale Castell, Dave Pearce, Lange, Rob Tissera, Seb Fontaine, Signum, Ultrabeat, VICKY |
 
 ## Address
 
 Ctra. Ibiza a San Antonio, Km 5, 07816 San Rafael, Ibiza, Ibiza
 
-*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/ibiza/club/amnesia-ibiza/)*
+*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/ibiza/club/amnesia-ibiza/)*

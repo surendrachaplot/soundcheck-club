@@ -1,14 +1,13 @@
 # Fez the Kid
 
-Fez the Kid is a Jungle and Drum & Bass artist with 3 upcoming club dates listed on soundcheck as of Sun, 13 Sept 2026, next at The Cause, London on Sat, 12 Sept 2026.
+Fez the Kid is a Jungle and Drum & Bass artist with 2 upcoming club dates listed on soundcheck as of Mon, 14 Sept 2026, next at O2 Academy Leeds, Leeds on Fri, 9 Oct 2026.
 
-Fez the Kid is a jungle and drum & bass artist tracked on soundcheck, with 52 sets logged across Berlin, Brighton, Bristol and Copenhagen and 7 more. Often billed alongside Cheff The Boy, Artificial Red and Betsy Mae. Next up: The Cause, London on Sat 12 Sept.
+Fez the Kid is a jungle and drum & bass artist tracked on soundcheck, with 52 sets logged across Berlin, Brighton, Bristol and Copenhagen and 7 more. Often billed alongside Cheff The Boy, Artificial Red and Betsy Mae. Next up: O2 Academy Leeds, Leeds on Fri 9 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 12 Sept 2026 | The Cause | London |
 | Fri, 9 Oct 2026 | O2 Academy Leeds | Leeds |
 | Fri, 6 Nov 2026 | The Island | Bristol |
 
@@ -27,4 +26,4 @@ Fez the Kid is a jungle and drum & bass artist tracked on soundcheck, with 52 se
 
 Cheff The Boy, Artificial Red, Betsy Mae
 
-*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/fezthekid/)*
+*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/fezthekid/)*

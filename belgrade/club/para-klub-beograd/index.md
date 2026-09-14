@@ -1,6 +1,6 @@
 # Para Klub Beograd
 
-Para Klub Beograd is a music venue in Belgrade with 3 upcoming nights listed on soundcheck as of Sun, 13 Sept 2026; the next is "Genom Sequence x MANEVARIM with Audio Units and locals" on Sun, 20 Sept 2026.
+Para Klub Beograd is a music venue in Belgrade with 3 upcoming nights listed on soundcheck as of Mon, 14 Sept 2026; the next is "Genom Sequence x MANEVARIM with Audio Units and locals" on Sun, 20 Sept 2026.
 
 Para Klub Beograd is a music venue in Belgrade listed on soundcheck. 3 upcoming nights, with line-ups including aleksssa, Audio Units, DAD4 and Dimi Angelis and 2 more. Browse upcoming dates, start times and who's playing. Cetinjska 15.
 
@@ -16,4 +16,4 @@ Para Klub Beograd is a music venue in Belgrade listed on soundcheck. 3 upcoming 
 
 Cetinjska 15, Belgrade
 
-*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/belgrade/club/para-klub-beograd/)*
+*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/belgrade/club/para-klub-beograd/)*

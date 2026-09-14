@@ -1,6 +1,6 @@
 # Siren Mars
 
-Siren Mars is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Sun, 13 Sept 2026, next at TBA, Los Angeles on Wed, 16 Sept 2026.
+Siren Mars is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Mon, 14 Sept 2026, next at TBA, Los Angeles on Wed, 16 Sept 2026.
 
 Siren Mars is a techno and electro artist based in Canada, tracked on soundcheck, with 28 sets logged across Losangeles and Montreal. Often billed alongside Monib, Claireyy and Mossy Mugler. Next up: TBA, Losangeles on Wed 16 Sept.
 
@@ -25,4 +25,4 @@ Siren Mars is a techno and electro artist based in Canada, tracked on soundcheck
 
 Monib, Claireyy, Mossy Mugler
 
-*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sirenmars/)*
+*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sirenmars/)*

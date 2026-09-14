@@ -1,8 +1,8 @@
 # Binh
 
-Binh is a Techno and House artist with 14 upcoming club dates listed on soundcheck as of Sun, 13 Sept 2026, next at TRANSMISSION DC, Washington DC on Thu, 17 Sept 2026.
+Binh is a Techno and House artist with 14 upcoming club dates listed on soundcheck as of Mon, 14 Sept 2026, next at TRANSMISSION DC, Washington DC on Thu, 17 Sept 2026.
 
-Binh is a techno and house artist tracked on soundcheck, with 202 sets logged across Amsterdam, Austin, Bali and Bangkok and 43 more. Often billed alongside DJ Masda, Nicolas Lutz and Francesco Del Garda. Next up: TRANSMISSION DC, Washingtondc on Thu 17 Sept.
+Binh is a techno and house artist tracked on soundcheck, with 205 sets logged across Amsterdam, Austin, Bali and Bangkok and 44 more. Often billed alongside DJ Masda, Nicolas Lutz and Francesco Del Garda. Next up: TRANSMISSION DC, Washingtondc on Thu 17 Sept.
 
 ## Upcoming shows
 
@@ -36,4 +36,4 @@ Binh is a techno and house artist tracked on soundcheck, with 202 sets logged ac
 
 DJ Masda, Nicolas Lutz, Francesco Del Garda
 
-*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/binh/)*
+*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/binh/)*

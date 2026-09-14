@@ -1,6 +1,6 @@
 # AATMA
 
-AATMA is a Tech House and Progressive House artist with 1 upcoming club date listed on soundcheck as of Sun, 13 Sept 2026, next at Oliva, Amsterdam on Thu, 22 Oct 2026.
+AATMA is a Tech House and Progressive House artist with 1 upcoming club date listed on soundcheck as of Mon, 14 Sept 2026, next at Oliva, Amsterdam on Thu, 22 Oct 2026.
 
 AATMA is a tech house and progressive house artist based in India, tracked on soundcheck, with 1 set logged across Amsterdam. Often billed alongside ANSWER (IN), Ae:ther and Bullzeye. Next up: Oliva, Amsterdam on Thu 22 Oct.
 
@@ -14,4 +14,4 @@ AATMA is a tech house and progressive house artist based in India, tracked on so
 
 ANSWER (IN), Ae:ther, Bullzeye
 
-*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/aatma/)*
+*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/aatma/)*

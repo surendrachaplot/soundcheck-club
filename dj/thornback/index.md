@@ -1,6 +1,6 @@
 # Thornback
 
-Thornback is a Techno and Acid artist with 1 upcoming club date listed on soundcheck as of Sun, 13 Sept 2026, next at People's Leisure Club, Edinburgh on Sat, 21 Nov 2026.
+Thornback is a Techno and Acid artist with 1 upcoming club date listed on soundcheck as of Mon, 14 Sept 2026, next at People's Leisure Club, Edinburgh on Sat, 21 Nov 2026.
 
 Thornback is a techno and acid artist based in United Kingdom, tracked on soundcheck, with 5 sets logged across Edinburgh. Often billed alongside Neil Templar, Angel Negrin and Duellist. Next up: People's Leisure Club, Edinburgh on Sat 21 Nov.
 
@@ -21,4 +21,4 @@ Thornback is a techno and acid artist based in United Kingdom, tracked on soundc
 
 Neil Templar, Angel Negrin, Duellist
 
-*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/thornback/)*
+*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/thornback/)*

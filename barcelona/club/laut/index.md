@@ -1,6 +1,6 @@
 # LAUT
 
-LAUT is a music venue in Barcelona with 10 upcoming nights listed on soundcheck as of Sun, 13 Sept 2026; the next is "Tilect LOVES Not on Earth" on Thu, 17 Sept 2026.
+LAUT is a music venue in Barcelona with 10 upcoming nights listed on soundcheck as of Mon, 14 Sept 2026; the next is "Tilect LOVES Not on Earth" on Thu, 17 Sept 2026.
 
 LAUT is a music venue in Barcelona listed on soundcheck. 10 upcoming nights, with line-ups including Binomi, Ekkel, Garçon and Josh Hoppen and 2 more. Browse upcoming dates, start times and who's playing. Carrer de Vila i Vilà, 63, 08004 Barcelona, Spain.
 
@@ -23,4 +23,4 @@ LAUT is a music venue in Barcelona listed on soundcheck. 10 upcoming nights, wit
 
 Carrer de Vila i Vilà, 63, 08004 Barcelona, Spain, Barcelona
 
-*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/laut/)*
+*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/laut/)*

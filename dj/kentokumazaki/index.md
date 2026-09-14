@@ -1,6 +1,6 @@
 # Kento Kumazaki
 
-Kento Kumazaki is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sun, 13 Sept 2026, next at UTOPIA / DYSTOPIA, Tokyo on Sat, 19 Sept 2026.
+Kento Kumazaki is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 14 Sept 2026, next at UTOPIA / DYSTOPIA, Tokyo on Sat, 19 Sept 2026.
 
 Kento Kumazaki is a techno and house artist based in Japan, tracked on soundcheck, with 9 sets logged across Tokyo. Often billed alongside Da Yama, AMG SAIMURA (TECHVANE) and Karinga. Next up: UTOPIA / DYSTOPIA, Tokyo on Sat 19 Sept.
 
@@ -25,4 +25,4 @@ Kento Kumazaki is a techno and house artist based in Japan, tracked on soundchec
 
 Da Yama, AMG SAIMURA (TECHVANE), Karinga
 
-*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kentokumazaki/)*
+*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kentokumazaki/)*

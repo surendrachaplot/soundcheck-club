@@ -1,6 +1,6 @@
 # Qbical
 
-Qbical is a Progressive House artist with 1 upcoming club date listed on soundcheck as of Sun, 13 Sept 2026, next at Kadinsky Cafe, Amsterdam on Sat, 24 Oct 2026.
+Qbical is a Progressive House artist with 1 upcoming club date listed on soundcheck as of Mon, 14 Sept 2026, next at Kadinsky Cafe, Amsterdam on Sat, 24 Oct 2026.
 
 Qbical is a progressive house artist tracked on soundcheck, with 3 sets logged across Amsterdam. Often billed alongside Around Us, Francesco Pico and MC PPholl. Next up: Kadinsky Cafe, Amsterdam on Sat 24 Oct.
 
@@ -19,4 +19,4 @@ Qbical is a progressive house artist tracked on soundcheck, with 3 sets logged a
 
 Around Us, Francesco Pico, MC PPholl
 
-*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/qbical/)*
+*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/qbical/)*

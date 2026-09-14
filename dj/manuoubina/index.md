@@ -1,6 +1,6 @@
 # Manu Oubiña
 
-Manu Oubiña is a House and Electro artist with 6 upcoming club dates listed on soundcheck as of Sun, 13 Sept 2026, next at TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona, Barcelona on Sat, 19 Sept 2026.
+Manu Oubiña is a House and Electro artist with 6 upcoming club dates listed on soundcheck as of Mon, 14 Sept 2026, next at TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona, Barcelona on Sat, 19 Sept 2026.
 
 Manu Oubiña is a house and electro artist tracked on soundcheck, with 123 sets logged across Amsterdam, Barcelona, Berlin and Buenosaires and 8 more. Often billed alongside LUKAS (4), Guile and Edu C. Next up: TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona, Barcelona on Sat 19 Sept.
 
@@ -30,4 +30,4 @@ Manu Oubiña is a house and electro artist tracked on soundcheck, with 123 sets 
 
 LUKAS (4), Guile, Edu C
 
-*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/manuoubina/)*
+*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/manuoubina/)*

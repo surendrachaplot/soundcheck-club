@@ -1,14 +1,13 @@
 # Sugar Free
 
-Sugar Free is a House and Techno artist with 6 upcoming club dates listed on soundcheck as of Sun, 13 Sept 2026, next at Auditorium Parco della Musica, Rome on Sat, 12 Sept 2026.
+Sugar Free is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Mon, 14 Sept 2026, next at Doka, Amsterdam on Fri, 18 Sept 2026.
 
-Sugar Free is a house and techno artist tracked on soundcheck, with 194 sets logged across Amsterdam, Antwerp, Athens and Austin and 52 more. Often billed alongside Fonte, Gene On Earth and tINI. Next up: Auditorium Parco della Musica, Rome on Sat 12 Sept.
+Sugar Free is a house and techno artist tracked on soundcheck, with 194 sets logged across Amsterdam, Antwerp, Athens and Austin and 52 more. Often billed alongside Fonte, Gene On Earth and tINI. Next up: Doka, Amsterdam on Fri 18 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 12 Sept 2026 | Auditorium Parco della Musica | Rome |
 | Fri, 18 Sept 2026 | Doka | Amsterdam |
 | Sat, 26 Sept 2026 | Gaffe | London |
 | Sun, 11 Oct 2026 | Lasociaciøn | Madrid |
@@ -30,4 +29,4 @@ Sugar Free is a house and techno artist tracked on soundcheck, with 194 sets log
 
 Fonte, Gene On Earth, tINI
 
-*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sugarfree/)*
+*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sugarfree/)*

@@ -1,6 +1,6 @@
 # Skyshaker
 
-Skyshaker is a Techno and Electronica artist with 1 upcoming club date listed on soundcheck as of Sun, 13 Sept 2026, next at Sexto Piso, Mexico City on Sat, 17 Oct 2026.
+Skyshaker is a Techno and Electronica artist with 1 upcoming club date listed on soundcheck as of Mon, 14 Sept 2026, next at Sexto Piso, Mexico City on Sat, 17 Oct 2026.
 
 Skyshaker is a techno and electronica artist based in United States of America, tracked on soundcheck, with 4 sets logged across Mexicocity and Philadelphia. Often billed alongside Benji Vega, DJ Lalo and Eliangel. Next up: Sexto Piso, Mexicocity on Sat 17 Oct.
 
@@ -20,4 +20,4 @@ Skyshaker is a techno and electronica artist based in United States of America, 
 
 Benji Vega, DJ Lalo, Eliangel
 
-*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/skyshaker/)*
+*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/skyshaker/)*

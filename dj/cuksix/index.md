@@ -1,6 +1,6 @@
 # Cuksix
 
-Cuksix is a Industrial and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 13 Sept 2026, next at TBA - Red ruin, Budapest on Sat, 19 Sept 2026.
+Cuksix is a Industrial and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 14 Sept 2026, next at TBA - Red ruin, Budapest on Sat, 19 Sept 2026.
 
 Cuksix is an industrial and techno artist tracked on soundcheck, with 4 sets logged across Budapest. Often billed alongside Dee Me and Ű999. Next up: TBA - Red ruin, Budapest on Sat 19 Sept.
 
@@ -20,4 +20,4 @@ Cuksix is an industrial and techno artist tracked on soundcheck, with 4 sets log
 
 Dee Me, Ű999
 
-*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/cuksix/)*
+*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/cuksix/)*

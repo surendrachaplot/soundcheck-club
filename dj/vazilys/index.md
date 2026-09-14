@@ -1,6 +1,6 @@
 # Vazilys
 
-Vazilys is a Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 13 Sept 2026, next at ://about blank, Berlin on Fri, 2 Oct 2026.
+Vazilys is a Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 14 Sept 2026, next at ://about blank, Berlin on Fri, 2 Oct 2026.
 
 Vazilys is a techno artist based in Germany, tracked on soundcheck, with 2 sets logged across Berlin. Often billed alongside Jasmin Giovanazzi, Solvados and Alexis Alien. Next up: ://about blank, Berlin on Fri 2 Oct.
 
@@ -18,4 +18,4 @@ Vazilys is a techno artist based in Germany, tracked on soundcheck, with 2 sets 
 
 Jasmin Giovanazzi, Solvados, Alexis Alien
 
-*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/vazilys/)*
+*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/vazilys/)*

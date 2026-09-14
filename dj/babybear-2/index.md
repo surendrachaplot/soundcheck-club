@@ -1,6 +1,6 @@
 # babybear (2)
 
-babybear (2) is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sun, 13 Sept 2026, next at Cu, London on Fri, 9 Oct 2026.
+babybear (2) is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 14 Sept 2026, next at Cu, London on Fri, 9 Oct 2026.
 
 babybear (2) is a techno and house artist based in United Kingdom, tracked on soundcheck, with 4 sets logged across London. Often billed alongside David Beckett, Wanderer and Kassita. Next up: Cu, London on Fri 9 Oct.
 
@@ -20,4 +20,4 @@ babybear (2) is a techno and house artist based in United Kingdom, tracked on so
 
 David Beckett, Wanderer, Kassita
 
-*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/babybear-2/)*
+*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/babybear-2/)*

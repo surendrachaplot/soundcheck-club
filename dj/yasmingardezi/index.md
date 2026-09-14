@@ -1,6 +1,6 @@
 # Yasmin Gardezi
 
-Yasmin Gardezi is a Techno and Trance artist with 3 upcoming club dates listed on soundcheck as of Sun, 13 Sept 2026, next at Spook Club, Valencia on Sat, 19 Sept 2026.
+Yasmin Gardezi is a Techno and Trance artist with 3 upcoming club dates listed on soundcheck as of Mon, 14 Sept 2026, next at Spook Club, Valencia on Sat, 19 Sept 2026.
 
 Yasmin Gardezi is a techno and trance artist tracked on soundcheck, with 100 sets logged across Aberdeen, Amsterdam, Athens and Barcelona and 31 more. Often billed alongside blk., franck and Charlie Sparks. Next up: Spook Club, Valencia on Sat 19 Sept.
 
@@ -27,4 +27,4 @@ Yasmin Gardezi is a techno and trance artist tracked on soundcheck, with 100 set
 
 blk., franck, Charlie Sparks
 
-*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/yasmingardezi/)*
+*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/yasmingardezi/)*

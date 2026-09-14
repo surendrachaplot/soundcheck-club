@@ -1,6 +1,6 @@
 # Audio SF
 
-Audio SF is a music venue in San Francisco/Oakland with 18 upcoming nights listed on soundcheck as of Sun, 13 Sept 2026; the next is "Nick Warren" on Fri, 18 Sept 2026.
+Audio SF is a music venue in San Francisco/Oakland with 18 upcoming nights listed on soundcheck as of Mon, 14 Sept 2026; the next is "Nick Warren" on Fri, 18 Sept 2026.
 
 Audio SF is a music venue in Sanfrancisco listed on soundcheck. 18 upcoming nights, with line-ups including ALMAS, Azzecca, Baauer and Derrick Carter and 2 more. Browse upcoming dates, start times and who's playing. 316 11th St; San Francisco CA 94103; United States.
 
@@ -23,4 +23,4 @@ Audio SF is a music venue in Sanfrancisco listed on soundcheck. 18 upcoming nigh
 
 316 11th St; San Francisco CA 94103; United States, San Francisco/Oakland
 
-*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/audio-sf/)*
+*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/audio-sf/)*

@@ -1,6 +1,6 @@
 # TDC Tunes
 
-TDC Tunes is a Ambient and Electronica artist with 1 upcoming club date listed on soundcheck as of Sun, 13 Sept 2026, next at St Mary's Tower - The Intimate Space, London on Fri, 18 Sept 2026.
+TDC Tunes is a Ambient and Electronica artist with 1 upcoming club date listed on soundcheck as of Mon, 14 Sept 2026, next at St Mary's Tower - The Intimate Space, London on Fri, 18 Sept 2026.
 
 TDC Tunes is an ambient and electronica artist tracked on soundcheck, with 4 sets logged across London. Often billed alongside Chris Box, Jamma and Armooniaman. Next up: St Mary's Tower - The Intimate Space, London on Fri 18 Sept.
 
@@ -20,4 +20,4 @@ TDC Tunes is an ambient and electronica artist tracked on soundcheck, with 4 set
 
 Chris Box, Jamma, Armooniaman
 
-*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tdctunes/)*
+*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tdctunes/)*

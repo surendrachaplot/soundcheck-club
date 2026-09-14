@@ -1,6 +1,6 @@
 # The Cross
 
-The Cross is a music venue in London with 5 upcoming nights listed on soundcheck as of Sun, 13 Sept 2026; the next is "Kyle Watson - 'Ask Me Tomorrow' Album Launch" on Thu, 17 Sept 2026.
+The Cross is a music venue in London with 5 upcoming nights listed on soundcheck as of Mon, 14 Sept 2026; the next is "Kyle Watson - 'Ask Me Tomorrow' Album Launch" on Thu, 17 Sept 2026.
 
 The Cross is a music venue in London listed on soundcheck. 5 upcoming nights, with line-ups including Ashleigh De-Niro, Hyzteria, James Damian and Jeremy Healy and 2 more. Browse upcoming dates, start times and who's playing. The Cross, 2-4, Wharfdale Rd, N1 9RY.
 
@@ -18,4 +18,4 @@ The Cross is a music venue in London listed on soundcheck. 5 upcoming nights, wi
 
 The Cross, 2-4, Wharfdale Rd, N1 9RY, London
 
-*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/the-cross/)*
+*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/the-cross/)*

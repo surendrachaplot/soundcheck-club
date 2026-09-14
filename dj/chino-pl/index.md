@@ -1,6 +1,6 @@
 # Chino
 
-Chino is a Electro and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 13 Sept 2026, next at Chmury, Warsaw on Sat, 19 Sept 2026.
+Chino is a Electro and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 14 Sept 2026, next at Chmury, Warsaw on Sat, 19 Sept 2026.
 
 Chino is an electro and techno artist based in Poland, tracked on soundcheck, with 61 sets logged across Barcelona, Berlin, Buenosaires and Krakow and 4 more. Often billed alongside Olivia, Kondrat and Kinzo Chrome. Next up: Chmury, Warsaw on Sat 19 Sept.
 
@@ -25,4 +25,4 @@ Chino is an electro and techno artist based in Poland, tracked on soundcheck, wi
 
 Olivia, Kondrat, Kinzo Chrome
 
-*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/chino-pl/)*
+*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/chino-pl/)*

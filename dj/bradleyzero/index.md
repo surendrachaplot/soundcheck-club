@@ -1,14 +1,13 @@
 # Bradley Zero
 
-Bradley Zero is a House and Techno artist with 7 upcoming club dates listed on soundcheck as of Sun, 13 Sept 2026, next at The Cause, London on Sat, 12 Sept 2026.
+Bradley Zero is a House and Techno artist with 6 upcoming club dates listed on soundcheck as of Mon, 14 Sept 2026, next at public records, New York City on Sat, 19 Sept 2026.
 
-Bradley Zero is a house and techno artist tracked on soundcheck, with 218 sets logged across Amsterdam, Austin, Bali and Bangkok and 52 more. Often billed alongside MLE (UK), Sally C and Chloé Caillet. Next up: The Cause, London on Sat 12 Sept.
+Bradley Zero is a house and techno artist tracked on soundcheck, with 219 sets logged across Amsterdam, Austin, Bali and Bangkok and 53 more. Often billed alongside MLE (UK), Sally C and Chloé Caillet. Next up: public records, Newyorkcity on Sat 19 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 12 Sept 2026 | The Cause | London |
 | Sat, 19 Sept 2026 | public records | New York City |
 | Sun, 20 Sept 2026 | smartbar | Chicago |
 | Sat, 26 Sept 2026 | Berghain / Panorama Bar / Säule | Berlin |
@@ -31,4 +30,4 @@ Bradley Zero is a house and techno artist tracked on soundcheck, with 218 sets l
 
 MLE (UK), Sally C, Chloé Caillet
 
-*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bradleyzero/)*
+*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bradleyzero/)*

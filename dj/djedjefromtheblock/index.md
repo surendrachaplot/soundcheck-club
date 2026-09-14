@@ -1,6 +1,6 @@
 # Djé Djé from the block
 
-Djé Djé from the block is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Sun, 13 Sept 2026, next at La Gare / Le Gore, Paris on Fri, 18 Sept 2026.
+Djé Djé from the block is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Mon, 14 Sept 2026, next at La Gare / Le Gore, Paris on Fri, 18 Sept 2026.
 
 Djé Djé from the block is a techno and trance artist based in France, tracked on soundcheck, with 38 sets logged across Berlin, Nantes and Paris. Often billed alongside Gabbor, MNBOO and AMAYO. Next up: La Gare / Le Gore, Paris on Fri 18 Sept.
 
@@ -25,4 +25,4 @@ Djé Djé from the block is a techno and trance artist based in France, tracked 
 
 Gabbor, MNBOO, AMAYO
 
-*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djedjefromtheblock/)*
+*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djedjefromtheblock/)*

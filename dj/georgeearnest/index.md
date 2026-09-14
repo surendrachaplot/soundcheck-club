@@ -1,6 +1,6 @@
 # George Earnest
 
-George Earnest is a Dub and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 13 Sept 2026, next at The Big Romance, Dublin on Thu, 17 Sept 2026.
+George Earnest is a Dub and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 14 Sept 2026, next at The Big Romance, Dublin on Thu, 17 Sept 2026.
 
 George Earnest is a dub and techno artist tracked on soundcheck, with 3 sets logged across Berlin and Dublin. Often billed alongside Bill Mango, Kaya Wld and Maryisonacid. Next up: The Big Romance, Dublin on Thu 17 Sept.
 
@@ -19,4 +19,4 @@ George Earnest is a dub and techno artist tracked on soundcheck, with 3 sets log
 
 Bill Mango, Kaya Wld, Maryisonacid
 
-*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/georgeearnest/)*
+*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/georgeearnest/)*

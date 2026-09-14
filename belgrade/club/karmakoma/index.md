@@ -1,14 +1,13 @@
 # Karmakoma
 
-Karmakoma is a music venue in Belgrade with 5 upcoming nights listed on soundcheck as of Sun, 13 Sept 2026; the next is "Apgrade Weekend September 2026" on Fri, 11 Sept 2026.
+Karmakoma is a music venue in Belgrade with 4 upcoming nights listed on soundcheck as of Mon, 14 Sept 2026; the next is "Mindless with Running Hot, Dakissa, Gard & Gostoja" on Sat, 19 Sept 2026.
 
-Karmakoma is a music venue in Belgrade listed on soundcheck. 5 upcoming nights, with line-ups including Ciel, Dakissa, Feloneezy and Gard and 2 more. Browse upcoming dates, start times and who's playing. Poenkareova 32, 11000 Belgrade.
+Karmakoma is a music venue in Belgrade listed on soundcheck. 4 upcoming nights, with line-ups including Dakissa, Gard, Gostoja and Joe Claussell and 2 more. Browse upcoming dates, start times and who's playing. Poenkareova 32, 11000 Belgrade.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 11 Sept 2026 | Apgrade Weekend September 2026 | Ciel, Feloneezy, Gerd Janson, Johana, Lipelis, Nikola Vemic, Objekt, Olgica |
 | Sat, 19 Sept 2026 | Mindless with Running Hot, Dakissa, Gard & Gostoja | Dakissa, Gard, Gostoja, Running Hot |
 | Fri, 25 Sept 2026 | Nicolas Lutz, Marko Nastić, Shoxy | Marko Nastic, Nicolas Lutz, Shoxy |
 | Sat, 26 Sept 2026 | СОЮЗ (SOYUZ) IN BELGRADE |  |
@@ -18,4 +17,4 @@ Karmakoma is a music venue in Belgrade listed on soundcheck. 5 upcoming nights, 
 
 Poenkareova 32, 11000 Belgrade, Belgrade
 
-*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/belgrade/club/karmakoma/)*
+*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/belgrade/club/karmakoma/)*

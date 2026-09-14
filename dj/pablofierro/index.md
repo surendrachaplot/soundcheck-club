@@ -1,14 +1,15 @@
 # Pablo Fierro
 
-Pablo Fierro is a Afro House and House artist with 1 upcoming club date listed on soundcheck as of Sun, 13 Sept 2026, next at 77, London on Sat, 14 Nov 2026.
+Pablo Fierro is a Afro House and House artist with 2 upcoming club dates listed on soundcheck as of Mon, 14 Sept 2026, next at 77, London on Sat, 14 Nov 2026.
 
-Pablo Fierro is an afro house and house artist tracked on soundcheck, with 125 sets logged across Athens, Bali, Barcelona and Boston and 26 more. Often billed alongside Black Coffee, Dan Ficara and Fiona Kraft. Next up: 77, London on Sat 14 Nov.
+Pablo Fierro is an afro house and house artist tracked on soundcheck, with 126 sets logged across Athens, Bali, Barcelona and Boston and 26 more. Often billed alongside Black Coffee, Dan Ficara and Fiona Kraft. Next up: 77, London on Sat 14 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 14 Nov 2026 | 77 | London |
+| Sat, 12 Dec 2026 | Unveiled | New York City |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Pablo Fierro is an afro house and house artist tracked on soundcheck, with 125 s
 
 Black Coffee, Dan Ficara, Fiona Kraft
 
-*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/pablofierro/)*
+*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/pablofierro/)*

@@ -1,15 +1,13 @@
 # ISAbella
 
-ISAbella is a House and Techno artist with 8 upcoming club dates listed on soundcheck as of Sun, 13 Sept 2026, next at Auditorium Parco della Musica, Rome on Sat, 12 Sept 2026.
+ISAbella is a House and Techno artist with 6 upcoming club dates listed on soundcheck as of Mon, 14 Sept 2026, next at Depot Mayfield, Manchester on Sat, 26 Sept 2026.
 
-ISAbella is a house and techno artist tracked on soundcheck, with 254 sets logged across Amsterdam, Antwerp, Bali and Bangkok and 43 more. Often billed alongside Roza Terenzi, BASHKKA and Gabrielle Kwarteng. Next up: Auditorium Parco della Musica, Rome on Sat 12 Sept.
+ISAbella is a house and techno artist tracked on soundcheck, with 258 sets logged across Amsterdam, Antwerp, Bali and Bangkok and 44 more. Often billed alongside Roza Terenzi, BASHKKA and Gabrielle Kwarteng. Next up: Depot Mayfield, Manchester on Sat 26 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 12 Sept 2026 | Auditorium Parco della Musica | Rome |
-| Sat, 12 Sept 2026 | KREUZWERK | Berlin |
 | Sat, 26 Sept 2026 | Depot Mayfield | Manchester |
 | Wed, 30 Sept 2026 | Fvtvr | Paris |
 | Fri, 2 Oct 2026 | Fvtvr | Paris |
@@ -32,4 +30,4 @@ ISAbella is a house and techno artist tracked on soundcheck, with 254 sets logge
 
 Roza Terenzi, BASHKKA, Gabrielle Kwarteng
 
-*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/isabella/)*
+*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/isabella/)*

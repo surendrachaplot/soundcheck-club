@@ -1,6 +1,6 @@
 # JJ OKOCHA
 
-JJ OKOCHA is a Trance and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 13 Sept 2026, next at TBA - Brooman NSW, Sydney on Fri, 27 Nov 2026.
+JJ OKOCHA is a Trance and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 14 Sept 2026, next at TBA - Brooman NSW, Sydney on Fri, 27 Nov 2026.
 
 JJ OKOCHA is a trance and techno artist based in Australia, tracked on soundcheck, with 3 sets logged across Sydney. Often billed alongside Box Elder, CHEAHDX and Cloudy Ku. Next up: TBA - Brooman NSW, Sydney on Fri 27 Nov.
 
@@ -19,4 +19,4 @@ JJ OKOCHA is a trance and techno artist based in Australia, tracked on soundchec
 
 Box Elder, CHEAHDX, Cloudy Ku
 
-*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jjokocha/)*
+*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jjokocha/)*

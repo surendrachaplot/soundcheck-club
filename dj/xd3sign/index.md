@@ -1,6 +1,6 @@
 # XD3SIGN
 
-XD3SIGN is a Hardcore and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 13 Sept 2026, next at Tapestry, Toronto on Fri, 25 Sept 2026.
+XD3SIGN is a Hardcore and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 14 Sept 2026, next at Tapestry, Toronto on Fri, 25 Sept 2026.
 
 XD3SIGN is a hardcore and techno artist based in Canada, tracked on soundcheck, with 5 sets logged across Toronto. Often billed alongside 25ohms, Audi Étoffe and Forged Reigns. Next up: Tapestry, Toronto on Fri 25 Sept.
 
@@ -21,4 +21,4 @@ XD3SIGN is a hardcore and techno artist based in Canada, tracked on soundcheck, 
 
 25ohms, Audi Étoffe, Forged Reigns
 
-*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/xd3sign/)*
+*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/xd3sign/)*

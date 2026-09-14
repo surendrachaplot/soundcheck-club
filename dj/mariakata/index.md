@@ -1,6 +1,6 @@
 # Maria Kata
 
-Maria Kata is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Sun, 13 Sept 2026, next at Kaiku, Helsinki on Sat, 26 Sept 2026.
+Maria Kata is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Mon, 14 Sept 2026, next at Kaiku, Helsinki on Sat, 26 Sept 2026.
 
 Maria Kata is a house and disco artist based in Finland, tracked on soundcheck, with 7 sets logged across Helsinki. Often billed alongside Emma Valtonen, Kaspiann and C4KE. Next up: Kaiku, Helsinki on Sat 26 Sept.
 
@@ -23,4 +23,4 @@ Maria Kata is a house and disco artist based in Finland, tracked on soundcheck, 
 
 Emma Valtonen, Kaspiann, C4KE
 
-*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mariakata/)*
+*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mariakata/)*

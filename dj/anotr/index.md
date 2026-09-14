@@ -1,6 +1,6 @@
 # ANOTR
 
-ANOTR is a House and Tech House artist with 10 upcoming club dates listed on soundcheck as of Sun, 13 Sept 2026, next at Alexandra Palace, London on Thu, 17 Sept 2026.
+ANOTR is a House and Tech House artist with 10 upcoming club dates listed on soundcheck as of Mon, 14 Sept 2026, next at Alexandra Palace, London on Thu, 17 Sept 2026.
 
 ANOTR is a house and tech house artist tracked on soundcheck, with 157 sets logged across Amsterdam, Antwerp, Bali and Barcelona and 34 more. Often billed alongside Seth Troxler, Dennis Cruz and Toman. Next up: Alexandra Palace, London on Thu 17 Sept.
 
@@ -34,4 +34,4 @@ ANOTR is a house and tech house artist tracked on soundcheck, with 157 sets logg
 
 Seth Troxler, Dennis Cruz, Toman
 
-*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/anotr/)*
+*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/anotr/)*

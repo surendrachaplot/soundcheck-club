@@ -1,6 +1,6 @@
 # Edge Miami
 
-Edge Miami is a music venue in Miami with 1 upcoming night listed on soundcheck as of Sun, 13 Sept 2026; the next is "Rodrigo Vieira, Ketryn Goetten, Ramonis, Conosur" on Sat, 19 Sept 2026.
+Edge Miami is a music venue in Miami with 1 upcoming night listed on soundcheck as of Mon, 14 Sept 2026; the next is "Rodrigo Vieira, Ketryn Goetten, Ramonis, Conosur" on Sat, 19 Sept 2026.
 
 Edge Miami is a music venue in Miami listed on soundcheck. 1 upcoming night. Browse upcoming dates, start times and who's playing. 114 NE 20th Terrace Miami, FL 33137.
 
@@ -14,4 +14,4 @@ Edge Miami is a music venue in Miami listed on soundcheck. 1 upcoming night. Bro
 
 114 NE 20th Terrace Miami, FL 33137, Miami
 
-*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/miami/club/edge-miami/)*
+*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/miami/club/edge-miami/)*

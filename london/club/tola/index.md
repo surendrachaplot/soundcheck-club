@@ -1,6 +1,6 @@
 # Tola
 
-Tola is a music venue in London with 9 upcoming nights listed on soundcheck as of Sun, 13 Sept 2026; the next is "Kohsa presents: Tola " on Fri, 18 Sept 2026.
+Tola is a music venue in London with 9 upcoming nights listed on soundcheck as of Mon, 14 Sept 2026; the next is "Kohsa presents: Tola " on Fri, 18 Sept 2026.
 
 Tola is a music venue in London listed on soundcheck. 9 upcoming nights, with line-ups including 1KY (1), Ali Velmi, Buddy. (2) and Corvair and 2 more. Browse upcoming dates, start times and who's playing. 56 Peckham High Street SE15 5DP.
 
@@ -22,4 +22,4 @@ Tola is a music venue in London listed on soundcheck. 9 upcoming nights, with li
 
 56 Peckham High Street SE15 5DP, London
 
-*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/tola/)*
+*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/tola/)*

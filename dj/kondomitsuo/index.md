@@ -1,6 +1,6 @@
 # KONDO Mitsuo
 
-KONDO Mitsuo is a Deep House and House artist with 1 upcoming club date listed on soundcheck as of Sun, 13 Sept 2026, next at Teranoma Tidepool, Osaka on Fri, 18 Sept 2026.
+KONDO Mitsuo is a Deep House and House artist with 1 upcoming club date listed on soundcheck as of Mon, 14 Sept 2026, next at Teranoma Tidepool, Osaka on Fri, 18 Sept 2026.
 
 KONDO Mitsuo is a deep house and house artist based in Japan, tracked on soundcheck, with 102 sets logged across Osaka. Often billed alongside yu-more, Junki Akutagawa and aqtagawa. Next up: Teranoma Tidepool, Osaka on Fri 18 Sept.
 
@@ -25,4 +25,4 @@ KONDO Mitsuo is a deep house and house artist based in Japan, tracked on soundch
 
 yu-more, Junki Akutagawa, aqtagawa
 
-*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kondomitsuo/)*
+*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kondomitsuo/)*

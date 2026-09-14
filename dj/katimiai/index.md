@@ -1,6 +1,6 @@
 # KATIMI AI
 
-KATIMI AI is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 13 Sept 2026, next at WOMB, Tokyo on Fri, 13 Nov 2026.
+KATIMI AI is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 14 Sept 2026, next at WOMB, Tokyo on Fri, 13 Nov 2026.
 
 KATIMI AI is a house and techno artist based in Japan, tracked on soundcheck, with 138 sets logged across Bangkok and Tokyo. Often billed alongside DJ Emma, Drunken Kong and Louis Shannon. Next up: WOMB, Tokyo on Fri 13 Nov.
 
@@ -25,4 +25,4 @@ KATIMI AI is a house and techno artist based in Japan, tracked on soundcheck, wi
 
 DJ Emma, Drunken Kong, Louis Shannon
 
-*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/katimiai/)*
+*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/katimiai/)*

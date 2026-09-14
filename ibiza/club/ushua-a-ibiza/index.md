@@ -1,14 +1,13 @@
 # Ushuaïa Ibiza
 
-Ushuaïa Ibiza is a music venue in Ibiza with 19 upcoming nights listed on soundcheck as of Sun, 13 Sept 2026; the next is "Swedish House Mafia - CLOSING PARTY" on Sun, 13 Sept 2026.
+Ushuaïa Ibiza is a music venue in Ibiza with 18 upcoming nights listed on soundcheck as of Mon, 14 Sept 2026; the next is "F*** ME I'M FAMOUS! by David Guetta" on Mon, 14 Sept 2026.
 
-Ushuaïa Ibiza is a music venue in Ibiza listed on soundcheck. 19 upcoming nights, with line-ups including Afrojack, Andrea Oliva, Antares and Bastian Bux and 2 more. Browse upcoming dates, start times and who's playing. Playa d'en Bossa 10, Sat Jordi de Ses Salines, 07817 Ibiza, Spain.
+Ushuaïa Ibiza is a music venue in Ibiza listed on soundcheck. 18 upcoming nights, with line-ups including Afrojack, Andrea Oliva, Antares and Bastian Bux and 2 more. Browse upcoming dates, start times and who's playing. Playa d'en Bossa 10, Sat Jordi de Ses Salines, 07817 Ibiza, Spain.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sun, 13 Sept 2026 | Swedish House Mafia - CLOSING PARTY | Swedish House Mafia |
 | Mon, 14 Sept 2026 | F*** ME I'M FAMOUS! by David Guetta | David Guetta, Miss Monique, Paul Reynolds, Tini Gessler |
 | Wed, 16 Sept 2026 | Tomorrowland and Dimitri Vegas & Like Mike | Blank & Jones |
 | Thu, 17 Sept 2026 | Martin Garrix | Low Steppa, Martin Garrix, The Magician |
@@ -18,9 +17,10 @@ Ushuaïa Ibiza is a music venue in Ibiza listed on soundcheck. 19 upcoming night
 | Mon, 21 Sept 2026 | F*** ME I'M FAMOUS! by David Guetta | David Guetta, Fedde Le Grand, Paul Reynolds |
 | Wed, 23 Sept 2026 | Tomorrowland and Dimitri Vegas & Like Mike | Jose Maria Ramon |
 | Thu, 24 Sept 2026 | Martin Garrix - CLOSING PARTY | Martin Garrix |
+| Fri, 25 Sept 2026 | Calvin Harris & MK | Calvin Harris, Marc Kinchen, Storm Mollison |
 
 ## Address
 
 Playa d'en Bossa 10, Sat Jordi de Ses Salines, 07817 Ibiza, Spain, Ibiza
 
-*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/ibiza/club/ushua-a-ibiza/)*
+*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/ibiza/club/ushua-a-ibiza/)*

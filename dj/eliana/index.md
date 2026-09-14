@@ -1,14 +1,13 @@
 # Eliana
 
-Eliana is a House and Afro House artist with 2 upcoming club dates listed on soundcheck as of Sun, 13 Sept 2026, next at Departamento, Mexico City on Wed, 9 Sept 2026.
+Eliana is a House and Afro House artist with 1 upcoming club date listed on soundcheck as of Mon, 14 Sept 2026, next at Inspire Entertainment Resort, Seoul on Sat, 3 Oct 2026.
 
-Eliana is a house and afro house artist tracked on soundcheck, with 10 sets logged across Brussels, Chicago, London and Mexicocity and 1 more. Often billed alongside AMARI, Alex Kislov and Avo (ES). Next up: Departamento, Mexicocity on Wed 9 Sept.
+Eliana is a house and afro house artist tracked on soundcheck, with 10 sets logged across Brussels, Chicago, London and Mexicocity and 1 more. Often billed alongside AMARI, Alex Kislov and Avo (ES). Next up: Inspire Entertainment Resort, Seoul on Sat 3 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Wed, 9 Sept 2026 | Departamento | Mexico City |
 | Sat, 3 Oct 2026 | Inspire Entertainment Resort | Seoul |
 
 ## Recently played
@@ -26,4 +25,4 @@ Eliana is a house and afro house artist tracked on soundcheck, with 10 sets logg
 
 AMARI, Alex Kislov, Avo (ES)
 
-*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/eliana/)*
+*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/eliana/)*

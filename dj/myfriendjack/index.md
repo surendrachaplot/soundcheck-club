@@ -1,6 +1,6 @@
 # My Friend Jack
 
-My Friend Jack is a Disco and House artist with 1 upcoming club date listed on soundcheck as of Sun, 13 Sept 2026, next at TRANSMISSION DC, Washington DC on Sat, 7 Nov 2026.
+My Friend Jack is a Disco and House artist with 1 upcoming club date listed on soundcheck as of Mon, 14 Sept 2026, next at TRANSMISSION DC, Washington DC on Sat, 7 Nov 2026.
 
 My Friend Jack is a disco and house artist based in United States of America, tracked on soundcheck, with 18 sets logged across Washingtondc. Often billed alongside renai, Dave from Stoke and Kenny M. Next up: TRANSMISSION DC, Washingtondc on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ My Friend Jack is a disco and house artist based in United States of America, tr
 
 renai, Dave from Stoke, Kenny M
 
-*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/myfriendjack/)*
+*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/myfriendjack/)*

@@ -1,14 +1,15 @@
 # Kings of the Rollers
 
-Kings of the Rollers is a Drum & Bass and Jungle artist with 1 upcoming club date listed on soundcheck as of Sun, 13 Sept 2026, next at Depot Mayfield, Manchester on Fri, 9 Oct 2026.
+Kings of the Rollers is a Drum & Bass and Jungle artist with 2 upcoming club dates listed on soundcheck as of Mon, 14 Sept 2026, next at Depot Mayfield, Manchester on Fri, 9 Oct 2026.
 
-Kings of the Rollers is a drum & bass and jungle artist based in United Kingdom, tracked on soundcheck, with 30 sets logged across Amsterdam, Auckland, Brighton and Bristol and 9 more. Often billed alongside Inja, Hedex and Bou (UK). Next up: Depot Mayfield, Manchester on Fri 9 Oct.
+Kings of the Rollers is a drum & bass and jungle artist based in United Kingdom, tracked on soundcheck, with 31 sets logged across Amsterdam, Auckland, Brighton and Bristol and 10 more. Often billed alongside Inja, Hedex and Bou (UK). Next up: Depot Mayfield, Manchester on Fri 9 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 9 Oct 2026 | Depot Mayfield | Manchester |
+| Sat, 12 Dec 2026 | The Beehive | Los Angeles |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Kings of the Rollers is a drum & bass and jungle artist based in United Kingdom,
 
 Inja, Hedex, Bou (UK)
 
-*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kingsoftherollers/)*
+*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kingsoftherollers/)*

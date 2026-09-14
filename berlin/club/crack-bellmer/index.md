@@ -1,14 +1,13 @@
 # Crack Bellmer
 
-Crack Bellmer is a music venue in Berlin with 17 upcoming nights listed on soundcheck as of Sun, 13 Sept 2026; the next is "Party Dyke's Hoe-Down: A Queer FLINTA* Cowboy Western Party" on Sun, 13 Sept 2026.
+Crack Bellmer is a music venue in Berlin with 16 upcoming nights listed on soundcheck as of Mon, 14 Sept 2026; the next is "OPEN DECKS FOR FLINTA* PING PONG FOR ALL" on Wed, 16 Sept 2026.
 
-Crack Bellmer is a music venue in Berlin listed on soundcheck. 17 upcoming nights, with line-ups including ADVAN, Ahni, Azadi and Berfu and 2 more. Browse upcoming dates, start times and who's playing. Revaler Strasse 99; 10245 Berlin-Friedrichshain; Berlin; Germany.
+Crack Bellmer is a music venue in Berlin listed on soundcheck. 16 upcoming nights, with line-ups including ADVAN, Ahni, Azadi and Berfu and 2 more. Browse upcoming dates, start times and who's playing. Revaler Strasse 99; 10245 Berlin-Friedrichshain; Berlin; Germany.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sun, 13 Sept 2026 | Party Dyke's Hoe-Down: A Queer FLINTA* Cowboy Western Party | Lazy Rosario, Sherryaeri |
 | Wed, 16 Sept 2026 | OPEN DECKS FOR FLINTA* PING PONG FOR ALL |  |
 | Fri, 18 Sept 2026 | Fulmen Phantasia: Drag + Acid + House + Techno | El Fulminador, Utopyk Jones |
 | Sat, 19 Sept 2026 | Modular Circuit x Taranau | Berfu, Dshanna, Eira, Julez (live), Reanna Peris |
@@ -18,9 +17,10 @@ Crack Bellmer is a music venue in Berlin listed on soundcheck. 17 upcoming night
 | Wed, 30 Sept 2026 | OPEN DECKS FOR FLINTA* PING PONG FOR ALL |  |
 | Thu, 1 Oct 2026 | KOERPER x Crack Bellmer | ADVAN, ALKARLINE, Joe Back, RIET |
 | Fri, 2 Oct 2026 | ⟡ ݁ . connection . ݁ ⟡ | Azadi, Blck-Swan, H7 (3), Johannes Astrup, UniKhatu, pink-panther, zamara |
+| Fri, 2 Oct 2026 | HolyShift VI |  |
 
 ## Address
 
 Revaler Strasse 99; 10245 Berlin-Friedrichshain; Berlin; Germany, Berlin
 
-*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/crack-bellmer/)*
+*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/crack-bellmer/)*

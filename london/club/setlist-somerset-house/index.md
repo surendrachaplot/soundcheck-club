@@ -1,6 +1,6 @@
 # Setlist @ Somerset House
 
-Setlist @ Somerset House is a music venue in London with 13 upcoming nights listed on soundcheck as of Sun, 13 Sept 2026; the next is "R&B and FUNKY HOUSE NIGHT" on Fri, 18 Sept 2026.
+Setlist @ Somerset House is a music venue in London with 13 upcoming nights listed on soundcheck as of Mon, 14 Sept 2026; the next is "R&B and FUNKY HOUSE NIGHT" on Fri, 18 Sept 2026.
 
 Setlist @ Somerset House is a music venue in London listed on soundcheck. 13 upcoming nights, with line-ups including Atjazz and Handson Family. Browse upcoming dates, start times and who's playing. SOMERSET HOUSE, STRAND LONDON, WC2R 1LA.
 
@@ -23,4 +23,4 @@ Setlist @ Somerset House is a music venue in London listed on soundcheck. 13 upc
 
 SOMERSET HOUSE, STRAND LONDON, WC2R 1LA, London
 
-*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/setlist-somerset-house/)*
+*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/setlist-somerset-house/)*

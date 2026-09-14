@@ -1,6 +1,6 @@
 # orczi96
 
-orczi96 is a Club and House artist with 1 upcoming club date listed on soundcheck as of Sun, 13 Sept 2026, next at nachbar, Amsterdam on Thu, 17 Sept 2026.
+orczi96 is a Club and House artist with 1 upcoming club date listed on soundcheck as of Mon, 14 Sept 2026, next at nachbar, Amsterdam on Thu, 17 Sept 2026.
 
 orczi96 is a club and house artist tracked on soundcheck, with 12 sets logged across Amsterdam, Brussels, Rotterdam and Thehague. Often billed alongside screenage dj, Not A Fan and Pebblle. Next up: nachbar, Amsterdam on Thu 17 Sept.
 
@@ -25,4 +25,4 @@ orczi96 is a club and house artist tracked on soundcheck, with 12 sets logged ac
 
 screenage dj, Not A Fan, Pebblle
 
-*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/orczi96/)*
+*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/orczi96/)*

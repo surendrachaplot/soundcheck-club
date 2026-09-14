@@ -1,6 +1,6 @@
 # Freight Brixton
 
-Freight Brixton is a music venue in London with 8 upcoming nights listed on soundcheck as of Sun, 13 Sept 2026; the next is "Craig Charles Funk N Soul Rooftop Takeover" on Sat, 19 Sept 2026.
+Freight Brixton is a music venue in London with 8 upcoming nights listed on soundcheck as of Mon, 14 Sept 2026; the next is "Craig Charles Funk N Soul Rooftop Takeover" on Sat, 19 Sept 2026.
 
 Freight Brixton is a music venue in London listed on soundcheck. 8 upcoming nights, with line-ups including CHÉ WAX, Craig Charles, ELSA (UK) and Marvin Humes and 1 more. Browse upcoming dates, start times and who's playing. 33 Brixton Station Road, SW9 8PB.
 
@@ -21,4 +21,4 @@ Freight Brixton is a music venue in London listed on soundcheck. 8 upcoming nigh
 
 33 Brixton Station Road, SW9 8PB, London
 
-*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/freight-brixton/)*
+*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/freight-brixton/)*

@@ -1,6 +1,6 @@
 # Mind Against
 
-Mind Against is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Sun, 13 Sept 2026, next at Amnesia Ibiza, Ibiza on Wed, 16 Sept 2026.
+Mind Against is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Mon, 14 Sept 2026, next at Amnesia Ibiza, Ibiza on Wed, 16 Sept 2026.
 
 Mind Against is a techno and house artist tracked on soundcheck, with 157 sets logged across Amsterdam, Athens, Austin and Bali and 43 more. Often billed alongside Adriatique, sideral and Dyzen. Next up: Amnesia Ibiza, Ibiza on Wed 16 Sept.
 
@@ -30,4 +30,4 @@ Mind Against is a techno and house artist tracked on soundcheck, with 157 sets l
 
 Adriatique, sideral, Dyzen
 
-*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mindagainst/)*
+*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mindagainst/)*

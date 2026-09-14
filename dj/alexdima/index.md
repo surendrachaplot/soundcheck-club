@@ -1,6 +1,6 @@
 # Alex Dima
 
-Alex Dima is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 13 Sept 2026, next at Les Enfants Brillants, Barcelona on Sat, 3 Oct 2026.
+Alex Dima is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 14 Sept 2026, next at Les Enfants Brillants, Barcelona on Sat, 3 Oct 2026.
 
 Alex Dima is a house and techno artist tracked on soundcheck, with 102 sets logged across Amsterdam, Athens, Bangkok and Barcelona and 26 more. Often billed alongside Alexia Glensy, Cristian Sarde and Munir Nadir. Next up: Les Enfants Brillants, Barcelona on Sat 3 Oct.
 
@@ -25,4 +25,4 @@ Alex Dima is a house and techno artist tracked on soundcheck, with 102 sets logg
 
 Alexia Glensy, Cristian Sarde, Munir Nadir
 
-*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/alexdima/)*
+*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/alexdima/)*

@@ -1,6 +1,6 @@
 # Mithra (3)
 
-Mithra (3) is a Bass and Downtempo artist with 1 upcoming club date listed on soundcheck as of Sun, 13 Sept 2026, next at Sleeping Village, Chicago on Wed, 16 Sept 2026.
+Mithra (3) is a Bass and Downtempo artist with 1 upcoming club date listed on soundcheck as of Mon, 14 Sept 2026, next at Sleeping Village, Chicago on Wed, 16 Sept 2026.
 
 Mithra (3) is a bass and downtempo artist based in United States of America, tracked on soundcheck, with 10 sets logged across Chicago. Often billed alongside Dj Scari, Relativity Lounge and Steve Noah. Next up: Sleeping Village, Chicago on Wed 16 Sept.
 
@@ -25,4 +25,4 @@ Mithra (3) is a bass and downtempo artist based in United States of America, tra
 
 Dj Scari, Relativity Lounge, Steve Noah
 
-*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mithra-3/)*
+*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mithra-3/)*

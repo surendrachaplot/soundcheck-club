@@ -1,6 +1,6 @@
 # Molly Penney
 
-Molly Penney is a R&B and Electro artist with 1 upcoming club date listed on soundcheck as of Sun, 13 Sept 2026, next at The Bongo Club, Edinburgh on Sat, 31 Oct 2026.
+Molly Penney is a R&B and Electro artist with 1 upcoming club date listed on soundcheck as of Mon, 14 Sept 2026, next at The Bongo Club, Edinburgh on Sat, 31 Oct 2026.
 
 Molly Penney is a r&b and electro artist based in United Kingdom, tracked on soundcheck, with 3 sets logged across Bristol, Edinburgh and London. Often billed alongside Huns N' Roses, RAW SILK and Samba. Next up: The Bongo Club, Edinburgh on Sat 31 Oct.
 
@@ -19,4 +19,4 @@ Molly Penney is a r&b and electro artist based in United Kingdom, tracked on sou
 
 Huns N' Roses, RAW SILK, Samba
 
-*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mollypenney/)*
+*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mollypenney/)*

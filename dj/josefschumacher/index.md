@@ -1,6 +1,6 @@
 # Josef Schumacher
 
-Josef Schumacher is a House and Afro House artist with 1 upcoming club date listed on soundcheck as of Sun, 13 Sept 2026, next at The Paradise Now, Düsseldorf on Fri, 25 Sept 2026.
+Josef Schumacher is a House and Afro House artist with 1 upcoming club date listed on soundcheck as of Mon, 14 Sept 2026, next at The Paradise Now, Düsseldorf on Fri, 25 Sept 2026.
 
 Josef Schumacher is a house and afro house artist based in Germany, tracked on soundcheck, with 15 sets logged across Cologne, Dusseldorf and Ghent. Often billed alongside Nicole da Silva, BRIGITTE BELLING and Ceelo. Next up: The Paradise Now, Dusseldorf on Fri 25 Sept.
 
@@ -25,4 +25,4 @@ Josef Schumacher is a house and afro house artist based in Germany, tracked on s
 
 Nicole da Silva, BRIGITTE BELLING, Ceelo
 
-*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/josefschumacher/)*
+*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/josefschumacher/)*

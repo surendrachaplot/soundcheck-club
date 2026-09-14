@@ -1,6 +1,6 @@
 # DJ Buona Sara
 
-DJ Buona Sara is a Techno and Hip-Hop artist with 2 upcoming club dates listed on soundcheck as of Sun, 13 Sept 2026, next at Renate, Berlin on Fri, 18 Sept 2026.
+DJ Buona Sara is a Techno and Hip-Hop artist with 2 upcoming club dates listed on soundcheck as of Mon, 14 Sept 2026, next at Renate, Berlin on Fri, 18 Sept 2026.
 
 DJ Buona Sara is a techno and hip-hop artist based in Germany, tracked on soundcheck, with 31 sets logged across Berlin and Hamburg. Often billed alongside Lenny Fuck, S.3000 and DJ-Ween. Next up: Renate, Berlin on Fri 18 Sept.
 
@@ -26,4 +26,4 @@ DJ Buona Sara is a techno and hip-hop artist based in Germany, tracked on soundc
 
 Lenny Fuck, S.3000, DJ-Ween
 
-*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djbuonasara/)*
+*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djbuonasara/)*

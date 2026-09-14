@@ -1,6 +1,6 @@
 # Luckes
 
-Luckes is a Techno and Hardcore artist with 1 upcoming club date listed on soundcheck as of Sun, 13 Sept 2026, next at John Doe, Amsterdam on Mon, 14 Sept 2026.
+Luckes is a Techno and Hardcore artist with 1 upcoming club date listed on soundcheck as of Mon, 14 Sept 2026, next at John Doe, Amsterdam on Mon, 14 Sept 2026.
 
 Luckes is a techno and hardcore artist based in Netherlands, tracked on soundcheck, with 11 sets logged across Amsterdam, Brussels, Cologne and Malta and 1 more. Often billed alongside NO1ELSE, Monster Mush and Barbers. Next up: John Doe, Amsterdam on Mon 14 Sept.
 
@@ -25,4 +25,4 @@ Luckes is a techno and hardcore artist based in Netherlands, tracked on soundche
 
 NO1ELSE, Monster Mush, Barbers
 
-*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/luckes/)*
+*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/luckes/)*

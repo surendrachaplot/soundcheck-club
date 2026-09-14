@@ -1,6 +1,6 @@
 # Jackyboom
 
-Jackyboom is a House and Garage artist with 3 upcoming club dates listed on soundcheck as of Sun, 13 Sept 2026, next at Toffler, Rotterdam on Fri, 9 Oct 2026.
+Jackyboom is a House and Garage artist with 3 upcoming club dates listed on soundcheck as of Mon, 14 Sept 2026, next at Toffler, Rotterdam on Fri, 9 Oct 2026.
 
 Jackyboom is a house and garage artist based in United Kingdom, tracked on soundcheck, with 17 sets logged across Amsterdam, Berlin, Bristol and Glasgow and 4 more. Often billed alongside Boss Priester, 3PM RECORDS and AAT (NL). Next up: Toffler, Rotterdam on Fri 9 Oct.
 
@@ -27,4 +27,4 @@ Jackyboom is a house and garage artist based in United Kingdom, tracked on sound
 
 Boss Priester, 3PM RECORDS, AAT (NL)
 
-*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jackyboom/)*
+*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jackyboom/)*

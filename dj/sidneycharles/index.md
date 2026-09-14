@@ -1,6 +1,6 @@
 # Sidney Charles
 
-Sidney Charles is a House and Tech House artist with 16 upcoming club dates listed on soundcheck as of Sun, 13 Sept 2026, next at [UNVRS], Ibiza on Wed, 16 Sept 2026.
+Sidney Charles is a House and Tech House artist with 16 upcoming club dates listed on soundcheck as of Mon, 14 Sept 2026, next at [UNVRS], Ibiza on Wed, 16 Sept 2026.
 
 Sidney Charles is a house and tech house artist tracked on soundcheck, with 218 sets logged across Aberdeen, Amsterdam, Austin and Barcelona and 39 more. Often billed alongside Prunk, ALISHA and L.P. Rhythm. Next up: [UNVRS], Ibiza on Wed 16 Sept.
 
@@ -36,4 +36,4 @@ Sidney Charles is a house and tech house artist tracked on soundcheck, with 218 
 
 Prunk, ALISHA, L.P. Rhythm
 
-*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sidneycharles/)*
+*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sidneycharles/)*

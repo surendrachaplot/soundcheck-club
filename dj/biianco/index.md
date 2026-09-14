@@ -1,6 +1,6 @@
 # BIIANCO
 
-BIIANCO is a Techno and House artist with 7 upcoming club dates listed on soundcheck as of Sun, 13 Sept 2026, next at Bootshaus, Cologne on Fri, 25 Sept 2026.
+BIIANCO is a Techno and House artist with 7 upcoming club dates listed on soundcheck as of Mon, 14 Sept 2026, next at Bootshaus, Cologne on Fri, 25 Sept 2026.
 
 BIIANCO is a techno and house artist based in United States of America, tracked on soundcheck, with 94 sets logged across Amsterdam, Antwerp, Basel and Berlin and 33 more. Often billed alongside Fenrick, Adrian Mills and EMILIJA. Next up: Bootshaus, Cologne on Fri 25 Sept.
 
@@ -31,4 +31,4 @@ BIIANCO is a techno and house artist based in United States of America, tracked 
 
 Fenrick, Adrian Mills, EMILIJA
 
-*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/biianco/)*
+*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/biianco/)*

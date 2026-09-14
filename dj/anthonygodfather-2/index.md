@@ -1,6 +1,6 @@
 # Anthony Godfather (2)
 
-Anthony Godfather (2) is a Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 13 Sept 2026, next at Fabrik, Madrid on Sat, 31 Oct 2026.
+Anthony Godfather (2) is a Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 14 Sept 2026, next at Fabrik, Madrid on Sat, 31 Oct 2026.
 
 Anthony Godfather (2) is a techno artist tracked on soundcheck, with 10 sets logged across Barcelona, London and Madrid. Often billed alongside Abdon, Darius Syrossian and Joey Daniel. Next up: Fabrik, Madrid on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Anthony Godfather (2) is a techno artist tracked on soundcheck, with 10 sets log
 
 Abdon, Darius Syrossian, Joey Daniel
 
-*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/anthonygodfather-2/)*
+*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/anthonygodfather-2/)*

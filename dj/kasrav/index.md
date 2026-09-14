@@ -1,6 +1,6 @@
 # Kasra V
 
-Kasra V is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sun, 13 Sept 2026, next at TRAUM, Antwerp on Sat, 17 Oct 2026.
+Kasra V is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Mon, 14 Sept 2026, next at TRAUM, Antwerp on Sat, 17 Oct 2026.
 
 Kasra V is a techno and house artist tracked on soundcheck, with 67 sets logged across Amsterdam, Antwerp, Berlin and Bristol and 21 more. Often billed alongside Angel D'lite, Marie Malarie and 131bpm. Next up: TRAUM, Antwerp on Sat 17 Oct.
 
@@ -26,4 +26,4 @@ Kasra V is a techno and house artist tracked on soundcheck, with 67 sets logged 
 
 Angel D'lite, Marie Malarie, 131bpm
 
-*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kasrav/)*
+*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kasrav/)*

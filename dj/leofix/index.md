@@ -1,6 +1,6 @@
 # Leofix
 
-Leofix is a Techno and Acid artist with 1 upcoming club date listed on soundcheck as of Sun, 13 Sept 2026, next at Sala Siroco, Madrid on Wed, 4 Nov 2026.
+Leofix is a Techno and Acid artist with 1 upcoming club date listed on soundcheck as of Mon, 14 Sept 2026, next at Sala Siroco, Madrid on Wed, 4 Nov 2026.
 
 Leofix is a techno and acid artist based in Spain, tracked on soundcheck, with 31 sets logged across Madrid and Malaga. Often billed alongside Pulpix, Arok Shiva and JvggedDoggie. Next up: Sala Siroco, Madrid on Wed 4 Nov.
 
@@ -25,4 +25,4 @@ Leofix is a techno and acid artist based in Spain, tracked on soundcheck, with 3
 
 Pulpix, Arok Shiva, JvggedDoggie
 
-*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/leofix/)*
+*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/leofix/)*

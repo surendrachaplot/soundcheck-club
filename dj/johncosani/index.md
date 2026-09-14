@@ -1,6 +1,6 @@
 # John Cosani
 
-John Cosani is a Progressive House and Tech House artist with 1 upcoming club date listed on soundcheck as of Sun, 13 Sept 2026, next at TBA - Black House, San Telmo, Buenos Aires on Sat, 3 Oct 2026.
+John Cosani is a Progressive House and Tech House artist with 1 upcoming club date listed on soundcheck as of Mon, 14 Sept 2026, next at TBA - Black House, San Telmo, Buenos Aires on Sat, 3 Oct 2026.
 
 John Cosani is a progressive house and tech house artist tracked on soundcheck, with 41 sets logged across Amsterdam, Barcelona, Buenosaires and Copenhagen and 8 more. Often billed alongside Hernan Cattaneo, Albano Bastonero and Nick Varon. Next up: TBA - Black House, San Telmo, Buenosaires on Sat 3 Oct.
 
@@ -25,4 +25,4 @@ John Cosani is a progressive house and tech house artist tracked on soundcheck, 
 
 Hernan Cattaneo, Albano Bastonero, Nick Varon
 
-*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/johncosani/)*
+*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/johncosani/)*

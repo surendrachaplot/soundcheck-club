@@ -1,8 +1,8 @@
 # CHIEF QUEEF
 
-CHIEF QUEEF is a Techno and Bass artist with 1 upcoming club date listed on soundcheck as of Sun, 13 Sept 2026, next at MS Stubnitz, Hamburg on Sat, 28 Nov 2026.
+CHIEF QUEEF is a Techno and Bass artist with 1 upcoming club date listed on soundcheck as of Mon, 14 Sept 2026, next at MS Stubnitz, Hamburg on Sat, 28 Nov 2026.
 
-CHIEF QUEEF is a techno and bass artist tracked on soundcheck, with 14 sets logged across Berlin, Frankfurt, Hamburg and Munich and 1 more. Often billed alongside DJ BREXIT, Joy Boy and Nissa Carrington. Next up: MS Stubnitz, Hamburg on Sat 28 Nov.
+CHIEF QUEEF is a techno and bass artist tracked on soundcheck, with 14 sets logged across Berlin, Frankfurt, Hamburg and Munich and 1 more. Often billed alongside DJ BREXIT, JoyBoy and Nissa Carrington. Next up: MS Stubnitz, Hamburg on Sat 28 Nov.
 
 ## Upcoming shows
 
@@ -23,6 +23,6 @@ CHIEF QUEEF is a techno and bass artist tracked on soundcheck, with 14 sets logg
 
 ## Shares bills with
 
-DJ BREXIT, Joy Boy, Nissa Carrington
+DJ BREXIT, JoyBoy, Nissa Carrington
 
-*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/chiefqueef/)*
+*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/chiefqueef/)*

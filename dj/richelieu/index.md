@@ -1,6 +1,6 @@
 # Richelieu
 
-Richelieu is a Techno and EBM artist with 1 upcoming club date listed on soundcheck as of Sun, 13 Sept 2026, next at Groom, Lyon on Fri, 25 Sept 2026.
+Richelieu is a Techno and EBM artist with 1 upcoming club date listed on soundcheck as of Mon, 14 Sept 2026, next at Groom, Lyon on Fri, 25 Sept 2026.
 
 Richelieu is a techno and ebm artist tracked on soundcheck, with 2 sets logged across Lyon and Paris. Often billed alongside Arbo. Next up: Groom, Lyon on Fri 25 Sept.
 
@@ -18,4 +18,4 @@ Richelieu is a techno and ebm artist tracked on soundcheck, with 2 sets logged a
 
 Arbo
 
-*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/richelieu/)*
+*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/richelieu/)*

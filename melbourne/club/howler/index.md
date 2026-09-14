@@ -1,14 +1,13 @@
 # Howler
 
-Howler is a music venue in Melbourne with 5 upcoming nights listed on soundcheck as of Sun, 13 Sept 2026; the next is "VANNA Headline Show - Howler" on Sat, 12 Sept 2026.
+Howler is a music venue in Melbourne with 4 upcoming nights listed on soundcheck as of Mon, 14 Sept 2026; the next is "Overtake x Blackout Frequency presents: Benny Page & Doktor" on Sat, 19 Sept 2026.
 
-Howler is a music venue in Melbourne listed on soundcheck. 5 upcoming nights, with line-ups including Benny Page, Bridget, Cookie (2) and Cuerpo Negro and 2 more. Browse upcoming dates, start times and who's playing. 14 Dawson St, Brunswick, VIC, 3056, Australia.
+Howler is a music venue in Melbourne listed on soundcheck. 4 upcoming nights, with line-ups including Benny Page, Bridget, Cookie (2) and Cuerpo Negro and 2 more. Browse upcoming dates, start times and who's playing. 14 Dawson St, Brunswick, VIC, 3056, Australia.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 12 Sept 2026 | VANNA Headline Show - Howler | VANNA |
 | Sat, 19 Sept 2026 | Overtake x Blackout Frequency presents: Benny Page & Doktor | Benny Page, EMCD, safire |
 | Sat, 3 Oct 2026 | Mariano Mellino in Morning After 10th Birthday Party | Bridget, Cookie (2), Jedidiah, Kasey Taylor, Liam Sieker, Mariano Mellino, Mish'Chief |
 | Sun, 4 Oct 2026 | MELBOURNE CUMBIA FEST 2026 | Cuerpo Negro, Otorongo, Zafiro |
@@ -18,4 +17,4 @@ Howler is a music venue in Melbourne listed on soundcheck. 5 upcoming nights, wi
 
 14 Dawson St, Brunswick, VIC, 3056, Australia, Melbourne
 
-*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/howler/)*
+*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/howler/)*

@@ -1,6 +1,6 @@
 # MÄX
 
-MÄX is a music venue in Zurich with 12 upcoming nights listed on soundcheck as of Sun, 13 Sept 2026; the next is "Ersti Rave by VSUZH" on Fri, 18 Sept 2026.
+MÄX is a music venue in Zurich with 12 upcoming nights listed on soundcheck as of Mon, 14 Sept 2026; the next is "Ersti Rave by VSUZH" on Fri, 18 Sept 2026.
 
 MÄX is a music venue in Zurich listed on soundcheck. 12 upcoming nights, with line-ups including Ahmet Sisman, Aiden (DE), ALT8 and Bae Blade and 2 more. Browse upcoming dates, start times and who's playing. Hardstrasse 219, 8005 Zurich.
 
@@ -23,4 +23,4 @@ MÄX is a music venue in Zurich listed on soundcheck. 12 upcoming nights, with l
 
 Hardstrasse 219, 8005 Zurich, Zurich
 
-*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/zurich/club/m-x/)*
+*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/zurich/club/m-x/)*

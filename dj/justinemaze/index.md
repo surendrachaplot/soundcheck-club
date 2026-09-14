@@ -1,6 +1,6 @@
 # Justine Maze
 
-Justine Maze is a Techno and EBM artist with 1 upcoming club date listed on soundcheck as of Sun, 13 Sept 2026, next at Dunckerclub, Berlin on Mon, 21 Sept 2026.
+Justine Maze is a Techno and EBM artist with 1 upcoming club date listed on soundcheck as of Mon, 14 Sept 2026, next at Dunckerclub, Berlin on Mon, 21 Sept 2026.
 
 Justine Maze is a techno and ebm artist based in France, tracked on soundcheck, with 18 sets logged across Berlin and Strasbourg. Often billed alongside Lude (2), Cinder and Tatlo. Next up: Dunckerclub, Berlin on Mon 21 Sept.
 
@@ -25,4 +25,4 @@ Justine Maze is a techno and ebm artist based in France, tracked on soundcheck, 
 
 Lude (2), Cinder, Tatlo
 
-*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/justinemaze/)*
+*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/justinemaze/)*

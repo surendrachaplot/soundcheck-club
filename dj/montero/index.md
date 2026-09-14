@@ -1,14 +1,13 @@
 # Montero
 
-Montero is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sun, 13 Sept 2026, next at Barragem da Queimadela, Porto on Thu, 10 Sept 2026.
+Montero is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 14 Sept 2026, next at essaim, Paris on Fri, 23 Oct 2026.
 
-Montero is a techno and house artist tracked on soundcheck, with 70 sets logged across Barcelona, Berlin, Lisbon and London and 10 more. Often billed alongside Tauer, Anika Kunst and Stojche. Next up: Barragem da Queimadela, Porto on Thu 10 Sept.
+Montero is a techno and house artist tracked on soundcheck, with 70 sets logged across Barcelona, Berlin, Lisbon and London and 10 more. Often billed alongside Tauer, Anika Kunst and Stojche. Next up: essaim, Paris on Fri 23 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Thu, 10 Sept 2026 | Barragem da Queimadela | Porto |
 | Fri, 23 Oct 2026 | essaim | Paris |
 
 ## Recently played
@@ -26,4 +25,4 @@ Montero is a techno and house artist tracked on soundcheck, with 70 sets logged 
 
 Tauer, Anika Kunst, Stojche
 
-*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/montero/)*
+*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/montero/)*

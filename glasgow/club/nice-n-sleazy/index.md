@@ -1,14 +1,13 @@
 # Nice N Sleazy
 
-Nice N Sleazy is a music venue in Glasgow with 16 upcoming nights listed on soundcheck as of Sun, 13 Sept 2026; the next is "PORTAL - Techno Journey" on Sun, 13 Sept 2026.
+Nice N Sleazy is a music venue in Glasgow with 15 upcoming nights listed on soundcheck as of Mon, 14 Sept 2026; the next is "INDIE SLEAZY FRESHERS [FREE ENTRY INDIE SLEAZE PARTY]" on Tue, 15 Sept 2026.
 
-Nice N Sleazy is a music venue in Glasgow listed on soundcheck. 16 upcoming nights, with line-ups including Angel Negrin, Casual Look, Corran and elcammgguod and 2 more. Browse upcoming dates, start times and who's playing. 421 Sauchiehall Street; Glasgow, G2 3LG; Scotland, United Kingdom.
+Nice N Sleazy is a music venue in Glasgow listed on soundcheck. 15 upcoming nights, with line-ups including Angel Negrin, Casual Look, Corran and elcammgguod and 2 more. Browse upcoming dates, start times and who's playing. 421 Sauchiehall Street; Glasgow, G2 3LG; Scotland, United Kingdom.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sun, 13 Sept 2026 | PORTAL - Techno Journey | EL PADRE, Jay Cluss, SA:FIR |
 | Tue, 15 Sept 2026 | INDIE SLEAZY FRESHERS [FREE ENTRY INDIE SLEAZE PARTY] | Gabor Matty |
 | Thu, 17 Sept 2026 | The 909 Society presents: BadBeat (FEAT SPECIAL LIVE GUITAR SET) |  |
 | Fri, 18 Sept 2026 | Queer Theory: Garden of Eden | Flava J, Gabor Matty |
@@ -18,9 +17,10 @@ Nice N Sleazy is a music venue in Glasgow listed on soundcheck. 16 upcoming nigh
 | Mon, 21 Sept 2026 | Possibly Jamie: Did It All For You |  |
 | Thu, 24 Sept 2026 | Great Grooves Better People |  |
 | Sat, 26 Sept 2026 | <3<3 Y2K NITE - CASUAL LOOK B2B PEARL NECKLACE <3<3 | Casual Look |
+| Thu, 1 Oct 2026 | Clear The Room presents: House & Garage |  |
 
 ## Address
 
 421 Sauchiehall Street; Glasgow, G2 3LG; Scotland, United Kingdom, Glasgow
 
-*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/nice-n-sleazy/)*
+*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/nice-n-sleazy/)*

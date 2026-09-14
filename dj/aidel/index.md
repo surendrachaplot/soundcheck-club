@@ -1,13 +1,14 @@
 # AIDEL
 
-AIDEL is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sun, 13 Sept 2026, next at Menjo's, Detroit on Sat, 26 Sept 2026.
+AIDEL is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Mon, 14 Sept 2026, next at Northern Lights Lounge, Detroit on Thu, 17 Sept 2026.
 
-AIDEL is a techno and house artist based in United States of America, tracked on soundcheck, with 32 sets logged across Detroit. Often billed alongside Amino, Wax Assassin and we1sman. Next up: Menjo's, Detroit on Sat 26 Sept.
+AIDEL is a techno and house artist based in United States of America, tracked on soundcheck, with 33 sets logged across Detroit. Often billed alongside Amino, Wax Assassin and we1sman. Next up: Northern Lights Lounge, Detroit on Thu 17 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Thu, 17 Sept 2026 | Northern Lights Lounge | Detroit |
 | Sat, 26 Sept 2026 | Menjo's | Detroit |
 
 ## Recently played
@@ -25,4 +26,4 @@ AIDEL is a techno and house artist based in United States of America, tracked on
 
 Amino, Wax Assassin, we1sman
 
-*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/aidel/)*
+*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/aidel/)*

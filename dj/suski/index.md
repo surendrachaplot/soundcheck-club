@@ -1,8 +1,8 @@
 # Suski
 
-Suski is a House and Breakbeat artist with 1 upcoming club date listed on soundcheck as of Sun, 13 Sept 2026, next at Stidilä, Helsinki on Sun, 27 Sept 2026.
+Suski is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 14 Sept 2026, next at Stidilä, Helsinki on Sun, 27 Sept 2026.
 
-Suski is a house and breakbeat artist based in Finland, tracked on soundcheck, with 12 sets logged across Helsinki. Often billed alongside DJ JVS, Denzel and Joni DJ. Next up: Stidilä, Helsinki on Sun 27 Sept.
+Suski is a house and techno artist based in Finland, tracked on soundcheck, with 38 sets logged across Helsinki. Often billed alongside Emma Valtonen, Uha and Denzel. Next up: Stidilä, Helsinki on Sun 27 Sept.
 
 ## Upcoming shows
 
@@ -23,6 +23,6 @@ Suski is a house and breakbeat artist based in Finland, tracked on soundcheck, w
 
 ## Shares bills with
 
-DJ JVS, Denzel, Joni DJ
+Emma Valtonen, Uha, Denzel
 
-*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/suski/)*
+*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/suski/)*

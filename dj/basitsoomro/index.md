@@ -1,8 +1,8 @@
 # Basit Soomro
 
-Basit Soomro is a electronic artist with 1 upcoming club date listed on soundcheck as of Sun, 13 Sept 2026, next at Post Bar, Helsinki on Fri, 25 Sept 2026.
+Basit Soomro is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 14 Sept 2026, next at Post Bar, Helsinki on Fri, 25 Sept 2026.
 
-Basit Soomro is an electronic artist tracked on soundcheck, with 6 sets logged across Amsterdam and Helsinki. Often billed alongside Aaron J, BERTON and Carlina Carpelan. Next up: Post Bar, Helsinki on Fri 25 Sept.
+Basit Soomro is a techno and house artist tracked on soundcheck, with 17 sets logged across Amsterdam and Helsinki. Often billed alongside Ryan Láng, babybel and Marju. Next up: Post Bar, Helsinki on Fri 25 Sept.
 
 ## Upcoming shows
 
@@ -16,10 +16,13 @@ Basit Soomro is an electronic artist tracked on soundcheck, with 6 sets logged a
 - Post Bar, Helsinki — Fri, 22 May 2026
 - Stidilä, Helsinki — Sat, 7 Feb 2026
 - Stidilä, Helsinki — Sun, 6 Apr 2025
-- THE OTHER SIDE, Amsterdam — Sat, 24 Feb 2024
+- Kult, Helsinki — Sat, 22 Feb 2025
+- Tanner, Helsinki — Fri, 17 Jan 2025
+- Tanner, Helsinki — Fri, 11 Oct 2024
+- Kult, Helsinki — Sat, 24 Aug 2024
 
 ## Shares bills with
 
-Aaron J, BERTON, Carlina Carpelan
+Ryan Láng, babybel, Marju
 
-*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/basitsoomro/)*
+*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/basitsoomro/)*

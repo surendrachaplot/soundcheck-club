@@ -1,14 +1,13 @@
 # Socore Factory
 
-Socore Factory is a music venue in Osaka with 29 upcoming nights listed on soundcheck as of Sun, 13 Sept 2026; the next is "TIMELESS" on Sun, 13 Sept 2026.
+Socore Factory is a music venue in Osaka with 28 upcoming nights listed on soundcheck as of Mon, 14 Sept 2026; the next is "SWD Japan Proudly presents Brujeria – Estamos Chingados Japan 2026" on Wed, 16 Sept 2026.
 
-Socore Factory is a music venue in Osaka listed on soundcheck. 29 upcoming nights, with line-ups including Akira, ALUCA, ANCHIN and Century and 2 more. Browse upcoming dates, start times and who's playing. 2-13-26 Minamihorie, Nishi-ku, Osaka-shi, Osaka, 550-0015 Japan.
+Socore Factory is a music venue in Osaka listed on soundcheck. 28 upcoming nights, with line-ups including Akira, ALUCA, Century and Evil and 2 more. Browse upcoming dates, start times and who's playing. 2-13-26 Minamihorie, Nishi-ku, Osaka-shi, Osaka, 550-0015 Japan.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sun, 13 Sept 2026 | TIMELESS | ANCHIN, GON (LT), RICKY, Sage (CA), Zest |
 | Wed, 16 Sept 2026 | SWD Japan Proudly presents Brujeria – Estamos Chingados Japan 2026 |  |
 | Thu, 17 Sept 2026 | Electric Assault Records & S.A MUSIC 15周年記念祝賀会 | Century, Evil |
 | Mon, 21 Sept 2026 | ケイケイキューエイ | Kohei |
@@ -18,9 +17,10 @@ Socore Factory is a music venue in Osaka listed on soundcheck. 29 upcoming night
 | Thu, 24 Sept 2026 | Deux Yan from: The Netherlands JAPAN TOUR in Osaka | Lhinen, WÖNDER GIRL |
 | Fri, 25 Sept 2026 | DEAD FISH JAPAN TOUR 2026 |  |
 | Sat, 26 Sept 2026 | 今夜もランデヴー 9th Anniversary | Koma (1), Marie (2) |
+| Fri, 2 Oct 2026 | LOVE TO SHARE | Akira |
 
 ## Address
 
 2-13-26 Minamihorie, Nishi-ku, Osaka-shi, Osaka, 550-0015 Japan, Osaka
 
-*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/osaka/club/socore-factory/)*
+*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/osaka/club/socore-factory/)*

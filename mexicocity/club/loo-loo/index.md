@@ -1,6 +1,6 @@
 # Loo Loo
 
-Loo Loo is a music venue in Mexico City with 8 upcoming nights listed on soundcheck as of Sun, 13 Sept 2026; the next is "Chris Luno" on Thu, 17 Sept 2026.
+Loo Loo is a music venue in Mexico City with 8 upcoming nights listed on soundcheck as of Mon, 14 Sept 2026; the next is "Chris Luno" on Thu, 17 Sept 2026.
 
 Loo Loo is a music venue in Mexicocity listed on soundcheck. 8 upcoming nights, with line-ups including Alexandthere, Chris Luno, Dennis Cruz and Hercules & Love Affair and 2 more. Browse upcoming dates, start times and who's playing. Londres 195 Cuauhtemoc Mexico City, Mexico.
 
@@ -21,4 +21,4 @@ Loo Loo is a music venue in Mexicocity listed on soundcheck. 8 upcoming nights, 
 
 Londres 195 Cuauhtemoc Mexico City, Mexico, Mexico City
 
-*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/mexicocity/club/loo-loo/)*
+*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/mexicocity/club/loo-loo/)*

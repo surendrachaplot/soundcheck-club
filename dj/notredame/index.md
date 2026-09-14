@@ -1,6 +1,6 @@
 # Notre Dame
 
-Notre Dame is a House and Afro House artist with 3 upcoming club dates listed on soundcheck as of Sun, 13 Sept 2026, next at TBA - Pátio da Galé, Lisbon on Sat, 31 Oct 2026.
+Notre Dame is a House and Afro House artist with 3 upcoming club dates listed on soundcheck as of Mon, 14 Sept 2026, next at TBA - Pátio da Galé, Lisbon on Sat, 31 Oct 2026.
 
 Notre Dame is a house and afro house artist tracked on soundcheck, with 121 sets logged across Amsterdam, Athens, Austin and Barcelona and 34 more. Often billed alongside Alex Wann, Artbat and Bedouin. Next up: TBA - Pátio da Galé, Lisbon on Sat 31 Oct.
 
@@ -27,4 +27,4 @@ Notre Dame is a house and afro house artist tracked on soundcheck, with 121 sets
 
 Alex Wann, Artbat, Bedouin
 
-*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/notredame/)*
+*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/notredame/)*

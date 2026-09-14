@@ -1,6 +1,6 @@
 # Academy LA
 
-Academy LA is a music venue in Los Angeles with 11 upcoming nights listed on soundcheck as of Sun, 13 Sept 2026; the next is "Walker & Royce" on Fri, 18 Sept 2026.
+Academy LA is a music venue in Los Angeles with 11 upcoming nights listed on soundcheck as of Mon, 14 Sept 2026; the next is "Walker & Royce" on Fri, 18 Sept 2026.
 
 Academy LA is a music venue in Losangeles listed on soundcheck. 11 upcoming nights, with line-ups including AC Slater, Cosmic Gate, Desert Hearts and John Bryars and 2 more. Browse upcoming dates, start times and who's playing. 6021 Hollywood Blvd.  Los Angeles, CA 90028, USA.
 
@@ -23,4 +23,4 @@ Academy LA is a music venue in Losangeles listed on soundcheck. 11 upcoming nigh
 
 6021 Hollywood Blvd.  Los Angeles, CA 90028, USA, Los Angeles
 
-*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/academy-la/)*
+*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/academy-la/)*

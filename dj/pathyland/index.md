@@ -1,6 +1,6 @@
 # Pat Hyland
 
-Pat Hyland is a House and Acid artist with 1 upcoming club date listed on soundcheck as of Sun, 13 Sept 2026, next at Centre Point, Dublin on Sat, 24 Oct 2026.
+Pat Hyland is a House and Acid artist with 1 upcoming club date listed on soundcheck as of Mon, 14 Sept 2026, next at Centre Point, Dublin on Sat, 24 Oct 2026.
 
 Pat Hyland is a house and acid artist based in Ireland, tracked on soundcheck, with 41 sets logged across Belfast and Dublin. Often billed alongside Marion Hawkes, Conor Schmtz and Glenn Davis. Next up: Centre Point, Dublin on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ Pat Hyland is a house and acid artist based in Ireland, tracked on soundcheck, w
 
 Marion Hawkes, Conor Schmtz, Glenn Davis
 
-*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/pathyland/)*
+*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/pathyland/)*

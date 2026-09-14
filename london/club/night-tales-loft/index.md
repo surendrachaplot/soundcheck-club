@@ -1,6 +1,6 @@
 # Night Tales Loft
 
-Night Tales Loft is a music venue in London with 26 upcoming nights listed on soundcheck as of Sun, 13 Sept 2026; the next is "NT's Loft: Jazzie B (All Night Long)" on Fri, 18 Sept 2026.
+Night Tales Loft is a music venue in London with 26 upcoming nights listed on soundcheck as of Mon, 14 Sept 2026; the next is "NT's Loft: Jazzie B (All Night Long)" on Fri, 18 Sept 2026.
 
 Night Tales Loft is a music venue in London listed on soundcheck. 26 upcoming nights, with line-ups including Anunaku, babyschön, Bridge (NY) and Budino and 2 more. Browse upcoming dates, start times and who's playing. 207, 1 Westgate St, Hackney, London E8 3RL.
 
@@ -23,4 +23,4 @@ Night Tales Loft is a music venue in London listed on soundcheck. 26 upcoming ni
 
 207, 1 Westgate St, Hackney, London E8 3RL, London
 
-*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/night-tales-loft/)*
+*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/night-tales-loft/)*

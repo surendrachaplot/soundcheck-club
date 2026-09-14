@@ -1,14 +1,13 @@
 # Mia Koden
 
-Mia Koden is a Bass and Techno artist with 4 upcoming club dates listed on soundcheck as of Sun, 13 Sept 2026, next at The Cause, London on Sat, 12 Sept 2026.
+Mia Koden is a Bass and Techno artist with 3 upcoming club dates listed on soundcheck as of Mon, 14 Sept 2026, next at The Loom, San Francisco/Oakland on Fri, 2 Oct 2026.
 
-Mia Koden is a bass and techno artist tracked on soundcheck, with 152 sets logged across Amsterdam, Antwerp, Athens and Auckland and 46 more. Often billed alongside Skee Mask, DjRUM and Mala. Next up: The Cause, London on Sat 12 Sept.
+Mia Koden is a bass and techno artist tracked on soundcheck, with 152 sets logged across Amsterdam, Antwerp, Athens and Auckland and 46 more. Often billed alongside Skee Mask, DjRUM and Mala. Next up: The Loom, Sanfrancisco on Fri 2 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 12 Sept 2026 | The Cause | London |
 | Fri, 2 Oct 2026 | The Loom | San Francisco/Oakland |
 | Sat, 3 Oct 2026 | Los Globos | Los Angeles |
 | Sat, 10 Oct 2026 | Nowadays | New York City |
@@ -28,4 +27,4 @@ Mia Koden is a bass and techno artist tracked on soundcheck, with 152 sets logge
 
 Skee Mask, DjRUM, Mala
 
-*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/miakoden/)*
+*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/miakoden/)*

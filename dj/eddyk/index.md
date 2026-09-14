@@ -1,6 +1,6 @@
 # Eddy K
 
-Eddy K is a electronic artist with 1 upcoming club date listed on soundcheck as of Sun, 13 Sept 2026, next at Le Bain, New York City on Thu, 24 Sept 2026.
+Eddy K is a electronic artist with 1 upcoming club date listed on soundcheck as of Mon, 14 Sept 2026, next at Le Bain, New York City on Thu, 24 Sept 2026.
 
 Eddy K is an electronic artist based in United States of America, tracked on soundcheck, with 2 sets logged across Newyorkcity. Often billed alongside Ash, RICK E and Sanat. Next up: Le Bain, Newyorkcity on Thu 24 Sept.
 
@@ -18,4 +18,4 @@ Eddy K is an electronic artist based in United States of America, tracked on sou
 
 Ash, RICK E, Sanat
 
-*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/eddyk/)*
+*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/eddyk/)*

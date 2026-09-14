@@ -1,14 +1,13 @@
 # FOLD
 
-FOLD is a music venue in London with 26 upcoming nights listed on soundcheck as of Sun, 13 Sept 2026; the next is "UNFOLD CXXXI" on Sun, 13 Sept 2026.
+FOLD is a music venue in London with 25 upcoming nights listed on soundcheck as of Mon, 14 Sept 2026; the next is "Labyrinth presents: Detroit Love London - Carl Craig, Octave One Live & Idriss D" on Fri, 18 Sept 2026.
 
-FOLD is a music venue in London listed on soundcheck. 26 upcoming nights, with line-ups including aalice, Aaron J, Alicia (UK) and Anabel Arroyo and 2 more. Browse upcoming dates, start times and who's playing. Gillian House, Stephenson St, London E16 4SA, UK.
+FOLD is a music venue in London listed on soundcheck. 25 upcoming nights, with line-ups including aalice, Aaron J, Alicia (UK) and Anabel Arroyo and 2 more. Browse upcoming dates, start times and who's playing. Gillian House, Stephenson St, London E16 4SA, UK.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sun, 13 Sept 2026 | UNFOLD CXXXI |  |
 | Fri, 18 Sept 2026 | Labyrinth presents: Detroit Love London - Carl Craig, Octave One Live & Idriss D | Braga Circuit, Carl Craig, Elle Clark, Idriss D, Octave One, Oscar Farrell, Ploy |
 | Sat, 19 Sept 2026 | Boudica 7 Year Anniversary | ASHTREY, Berlin Bunny, Eyesdice, KTK (DE), OCTI, Samantha Togni, Sissy Cinnamon, Supergloss, Tessuto |
 | Sat, 19 Sept 2026 | Origins: Traumer - All Day Long | Traumer |
@@ -18,9 +17,10 @@ FOLD is a music venue in London listed on soundcheck. 26 upcoming nights, with l
 | Sun, 27 Sept 2026 | UNFOLD CXXXII |  |
 | Fri, 2 Oct 2026 | Cabin Fever: Margaret Dygas, Roman Flügel b2b Lola Haro, Edward, Stevie Cox & Control Freak | Control Freak, Edward, Lola Haro, Margaret Dygas, Roman Flügel, Stevie Cox |
 | Sat, 3 Oct 2026 |  Tech Couture // A Family Affair: Mac Declos, Blasha & Allatt, Lacchesi, Anabel Arroyo + more | Anabel Arroyo, Blasha & Allatt, Debbie., James Newmarch, Lacchesi, Mac Declos, Nina Pixina, Voicedrone |
+| Sat, 3 Oct 2026 | Transmissions x Breakfast Club with Helena Hauff, Nicolas Lutz | Alicia (UK), Benko, Eversines, Helena Hauff, Inner Zone, Marie K (1), Nicolas Lutz, Pieter Jansen, RDS, Richard Gregory |
 
 ## Address
 
 Gillian House, Stephenson St, London E16 4SA, UK, London
 
-*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/fold/)*
+*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/fold/)*

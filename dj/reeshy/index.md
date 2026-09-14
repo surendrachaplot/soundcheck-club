@@ -1,6 +1,6 @@
 # Reeshy
 
-Reeshy is a House and Tech House artist with 8 upcoming club dates listed on soundcheck as of Sun, 13 Sept 2026, next at UNO MALTA, Malta on Fri, 18 Sept 2026.
+Reeshy is a House and Tech House artist with 8 upcoming club dates listed on soundcheck as of Mon, 14 Sept 2026, next at UNO MALTA, Malta on Fri, 18 Sept 2026.
 
 Reeshy is a house and tech house artist tracked on soundcheck, with 112 sets logged across Amsterdam, Barcelona, Birmingham and Bristol and 13 more. Often billed alongside Enzo Siragusa, Laidlaw and Julian Anthony. Next up: UNO MALTA, Malta on Fri 18 Sept.
 
@@ -32,4 +32,4 @@ Reeshy is a house and tech house artist tracked on soundcheck, with 112 sets log
 
 Enzo Siragusa, Laidlaw, Julian Anthony
 
-*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/reeshy/)*
+*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/reeshy/)*

@@ -1,6 +1,6 @@
 # Groom
 
-Groom is a music venue in Lyon with 2 upcoming nights listed on soundcheck as of Sun, 13 Sept 2026; the next is "FESTIVAL 69BPM" on Thu, 24 Sept 2026.
+Groom is a music venue in Lyon with 2 upcoming nights listed on soundcheck as of Mon, 14 Sept 2026; the next is "FESTIVAL 69BPM" on Thu, 24 Sept 2026.
 
 Groom is a music venue in Lyon listed on soundcheck. 2 upcoming nights, with line-ups including Arbo, Hyas, Richelieu and Saku Sahara. Browse upcoming dates, start times and who's playing. 6 rue roger violi Lyon, France.
 
@@ -15,4 +15,4 @@ Groom is a music venue in Lyon listed on soundcheck. 2 upcoming nights, with lin
 
 6 rue roger violi Lyon, France, Lyon
 
-*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/lyon/club/groom/)*
+*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/lyon/club/groom/)*

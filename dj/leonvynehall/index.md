@@ -1,14 +1,13 @@
 # Leon Vynehall
 
-Leon Vynehall is a House and Techno artist with 7 upcoming club dates listed on soundcheck as of Sun, 13 Sept 2026, next at The Cause, London on Sat, 12 Sept 2026.
+Leon Vynehall is a House and Techno artist with 6 upcoming club dates listed on soundcheck as of Mon, 14 Sept 2026, next at TBA, Los Angeles on Sun, 20 Sept 2026.
 
-Leon Vynehall is a house and techno artist tracked on soundcheck, with 139 sets logged across Amsterdam, Bali, Bangkok and Barcelona and 38 more. Often billed alongside Moxie, Young Marco and Yu Su. Next up: The Cause, London on Sat 12 Sept.
+Leon Vynehall is a house and techno artist tracked on soundcheck, with 139 sets logged across Amsterdam, Bali, Bangkok and Barcelona and 38 more. Often billed alongside Moxie, Young Marco and Yu Su. Next up: TBA, Losangeles on Sun 20 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 12 Sept 2026 | The Cause | London |
 | Sun, 20 Sept 2026 | TBA | Los Angeles |
 | Fri, 25 Sept 2026 | Fidelity Studio | Dublin |
 | Sat, 3 Oct 2026 | TBA - Shipyards Waterfront | Vancouver |
@@ -31,4 +30,4 @@ Leon Vynehall is a house and techno artist tracked on soundcheck, with 139 sets 
 
 Moxie, Young Marco, Yu Su
 
-*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/leonvynehall/)*
+*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/leonvynehall/)*

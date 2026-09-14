@@ -1,6 +1,6 @@
 # Do you know Juno
 
-Do you know Juno is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Sun, 13 Sept 2026, next at Golden Gate, Berlin on Fri, 25 Sept 2026.
+Do you know Juno is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Mon, 14 Sept 2026, next at Golden Gate, Berlin on Fri, 25 Sept 2026.
 
 Do you know Juno is a house and disco artist based in Germany, tracked on soundcheck, with 55 sets logged across Berlin. Often billed alongside Mat Fink, Mini Nik and LLIAM. Next up: Golden Gate, Berlin on Fri 25 Sept.
 
@@ -26,4 +26,4 @@ Do you know Juno is a house and disco artist based in Germany, tracked on soundc
 
 Mat Fink, Mini Nik, LLIAM
 
-*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/doyouknowjuno/)*
+*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/doyouknowjuno/)*

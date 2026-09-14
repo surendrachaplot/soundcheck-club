@@ -1,6 +1,6 @@
 # mu tate
 
-mu tate is a Ambient and Experimental artist with 1 upcoming club date listed on soundcheck as of Sun, 13 Sept 2026, next at Galeria Zé Dos Bois, Lisbon on Fri, 9 Oct 2026.
+mu tate is a Ambient and Experimental artist with 1 upcoming club date listed on soundcheck as of Mon, 14 Sept 2026, next at Galeria Zé Dos Bois, Lisbon on Fri, 9 Oct 2026.
 
 mu tate is an ambient and experimental artist based in Latvia, tracked on soundcheck, with 20 sets logged across Berlin, Lisbon, London and Newyorkcity and 2 more. Often billed alongside NEXCYIA, Discka and Mori Mori. Next up: Galeria Zé Dos Bois, Lisbon on Fri 9 Oct.
 
@@ -25,4 +25,4 @@ mu tate is an ambient and experimental artist based in Latvia, tracked on soundc
 
 NEXCYIA, Discka, Mori Mori
 
-*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mutate-uk/)*
+*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mutate-uk/)*

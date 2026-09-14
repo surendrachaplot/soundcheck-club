@@ -1,8 +1,8 @@
 # juSt b
 
-juSt b is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Sun, 13 Sept 2026, next at Gateshead Quayside, Newcastle on Sat, 26 Sept 2026.
+juSt b is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 14 Sept 2026, next at Gateshead Quayside, Newcastle on Sat, 26 Sept 2026.
 
-juSt b is a house and tech house artist tracked on soundcheck, with 7 sets logged across London, Newcastle, Sanfrancisco and Toronto. Often billed alongside Amen Sage, Ashkan Dian and Barroness. Next up: Gateshead Quayside, Newcastle on Sat 26 Sept.
+juSt b is a house and techno artist tracked on soundcheck, with 9 sets logged across Helsinki, London, Newcastle and Sanfrancisco and 1 more. Often billed alongside Amen Sage, Ashkan Dian and Barroness. Next up: Gateshead Quayside, Newcastle on Sat 26 Sept.
 
 ## Upcoming shows
 
@@ -12,6 +12,8 @@ juSt b is a house and tech house artist tracked on soundcheck, with 7 sets logge
 
 ## Recently played
 
+- Post Bar, Helsinki — Sat, 8 Mar 2025
+- Kult, Helsinki — Sat, 15 Feb 2025
 - Hawthorn, San Francisco/Oakland — Thu, 23 May 2024
 - Public Works, San Francisco/Oakland — Sat, 30 Mar 2024
 - FOLD, London — Fri, 10 Nov 2023
@@ -23,4 +25,4 @@ juSt b is a house and tech house artist tracked on soundcheck, with 7 sets logge
 
 Amen Sage, Ashkan Dian, Barroness
 
-*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/justb/)*
+*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/justb/)*

@@ -1,6 +1,6 @@
 # Mitsuki
 
-Mitsuki is a music venue in Tokyo with 11 upcoming nights listed on soundcheck as of Sun, 13 Sept 2026; the next is "YAMA/Shunpei/Kobashi Mitsuki" on Mon, 14 Sept 2026.
+Mitsuki is a music venue in Tokyo with 11 upcoming nights listed on soundcheck as of Mon, 14 Sept 2026; the next is "YAMA/Shunpei/Kobashi Mitsuki" on Mon, 14 Sept 2026.
 
 Mitsuki is a music venue in Tokyo listed on soundcheck. 11 upcoming nights, with line-ups including An toi, Carl H, Celter and Chihoshi and 2 more. Browse upcoming dates, start times and who's playing. 1-22-12, Dogenzaka, Shibuya-Ku, Tokyo, 150-0043, Japan.
 
@@ -23,4 +23,4 @@ Mitsuki is a music venue in Tokyo listed on soundcheck. 11 upcoming nights, with
 
 1-22-12, Dogenzaka, Shibuya-Ku, Tokyo, 150-0043, Japan, Tokyo
 
-*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/mitsuki/)*
+*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/mitsuki/)*

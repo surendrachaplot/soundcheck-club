@@ -1,6 +1,6 @@
 # ALF CHAMPION
 
-ALF CHAMPION is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 13 Sept 2026, next at Sameheads, Berlin on Sat, 26 Sept 2026.
+ALF CHAMPION is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 14 Sept 2026, next at Sameheads, Berlin on Sat, 26 Sept 2026.
 
 ALF CHAMPION is a house and techno artist tracked on soundcheck, with 15 sets logged across Barcelona, Belgrade, Berlin and Bristol and 6 more. Often billed alongside Jacuzzi General, Paty and Paty Vapor. Next up: Sameheads, Berlin on Sat 26 Sept.
 
@@ -25,4 +25,4 @@ ALF CHAMPION is a house and techno artist tracked on soundcheck, with 15 sets lo
 
 Jacuzzi General, Paty, Paty Vapor
 
-*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/alfchampion/)*
+*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/alfchampion/)*

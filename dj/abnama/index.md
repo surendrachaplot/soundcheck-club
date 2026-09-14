@@ -1,14 +1,13 @@
 # ābnamā
 
-ābnamā is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sun, 13 Sept 2026, next at Renate, Berlin on Fri, 11 Sept 2026.
+ābnamā is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 14 Sept 2026, next at Nowadays, New York City on Fri, 30 Oct 2026.
 
-ābnamā is a techno and house artist based in Germany, tracked on soundcheck, with 77 sets logged across Athens, Berlin, Copenhagen and Leipzig and 9 more. Often billed alongside Camilla Rae, 131bpm and Berenice. Next up: Renate, Berlin on Fri 11 Sept.
+ābnamā is a techno and house artist based in Germany, tracked on soundcheck, with 77 sets logged across Athens, Berlin, Copenhagen and Leipzig and 9 more. Often billed alongside Camilla Rae, 131bpm and Berenice. Next up: Nowadays, Newyorkcity on Fri 30 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 11 Sept 2026 | Renate | Berlin |
 | Fri, 30 Oct 2026 | Nowadays | New York City |
 
 ## Recently played
@@ -26,4 +25,4 @@
 
 Camilla Rae, 131bpm, Berenice
 
-*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/abnama/)*
+*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/abnama/)*

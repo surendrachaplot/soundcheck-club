@@ -1,14 +1,13 @@
 # Prisma
 
-Prisma is a music venue in Berlin with 8 upcoming nights listed on soundcheck as of Sun, 13 Sept 2026; the next is "Klubkneipe x House Cats" on Sun, 13 Sept 2026.
+Prisma is a music venue in Berlin with 7 upcoming nights listed on soundcheck as of Mon, 14 Sept 2026; the next is "Klubkneipe x Tuesday Ritual - Consent is Sexy" on Tue, 15 Sept 2026.
 
-Prisma is a music venue in Berlin listed on soundcheck. 8 upcoming nights, with line-ups including Domovnika, Emilion Dollar Baby, Fo Ewa and Gabricoti and 2 more. Browse upcoming dates, start times and who's playing. Brückenstraße 1, 10179 Berlin.
+Prisma is a music venue in Berlin listed on soundcheck. 7 upcoming nights, with line-ups including Domovnika, Emilion Dollar Baby, Fo Ewa and Gabricoti and 2 more. Browse upcoming dates, start times and who's playing. Brückenstraße 1, 10179 Berlin.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sun, 13 Sept 2026 | Klubkneipe x House Cats | Kalimanda, Noxumi, Vantavision |
 | Tue, 15 Sept 2026 | Klubkneipe x Tuesday Ritual - Consent is Sexy | Emilion Dollar Baby, Fo Ewa, Gabricoti, KÜRÜF |
 | Thu, 17 Sept 2026 | Sssmile Afterhour | Domovnika, JUICYMOKA |
 | Sun, 20 Sept 2026 | Klubkneipe x Dance Salon |  |
@@ -21,4 +20,4 @@ Prisma is a music venue in Berlin listed on soundcheck. 8 upcoming nights, with 
 
 Brückenstraße 1, 10179 Berlin, Berlin
 
-*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/prisma/)*
+*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/prisma/)*

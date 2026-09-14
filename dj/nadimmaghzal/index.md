@@ -1,6 +1,6 @@
 # Nadim Maghzal
 
-Nadim Maghzal is a Electro and Pop artist with 1 upcoming club date listed on soundcheck as of Sun, 13 Sept 2026, next at Ausgang Plaza, Montreal on Sat, 19 Sept 2026.
+Nadim Maghzal is a Electro and Pop artist with 1 upcoming club date listed on soundcheck as of Mon, 14 Sept 2026, next at Ausgang Plaza, Montreal on Sat, 19 Sept 2026.
 
 Nadim Maghzal is an electro and pop artist tracked on soundcheck, with 45 sets logged across Berlin, Chicago, Detroit and London and 5 more. Often billed alongside MNSA, Saphe and Arianna Danae. Next up: Ausgang Plaza, Montreal on Sat 19 Sept.
 
@@ -25,4 +25,4 @@ Nadim Maghzal is an electro and pop artist tracked on soundcheck, with 45 sets l
 
 MNSA, Saphe, Arianna Danae
 
-*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nadimmaghzal/)*
+*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nadimmaghzal/)*

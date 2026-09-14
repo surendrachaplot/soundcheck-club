@@ -1,6 +1,6 @@
 # N0BLE R0T
 
-N0BLE R0T is a House and Breakbeat artist with 2 upcoming club dates listed on soundcheck as of Sun, 13 Sept 2026, next at Forte Antenne, Rome on Sat, 19 Sept 2026.
+N0BLE R0T is a House and Breakbeat artist with 2 upcoming club dates listed on soundcheck as of Mon, 14 Sept 2026, next at Forte Antenne, Rome on Sat, 19 Sept 2026.
 
 N0BLE R0T is a house and breakbeat artist tracked on soundcheck, with 23 sets logged across Berlin, London, Milan and Newyorkcity and 1 more. Often billed alongside Marais, Vithz and le0j. Next up: Forte Antenne, Rome on Sat 19 Sept.
 
@@ -26,4 +26,4 @@ N0BLE R0T is a house and breakbeat artist tracked on soundcheck, with 23 sets lo
 
 Marais, Vithz, le0j
 
-*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/n0bler0t/)*
+*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/n0bler0t/)*

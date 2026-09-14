@@ -1,6 +1,6 @@
 # DJ Sodeyama
 
-DJ Sodeyama is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Sun, 13 Sept 2026, next at Daikanyama ORD., Tokyo on Sat, 19 Sept 2026.
+DJ Sodeyama is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Mon, 14 Sept 2026, next at Daikanyama ORD., Tokyo on Sat, 19 Sept 2026.
 
 DJ Sodeyama is a techno and house artist tracked on soundcheck, with 137 sets logged across Istanbul, Kyoto, Lisbon and Madrid and 5 more. Often billed alongside OCCA, SIGNAL (JP) and Tsutomu. Next up: Daikanyama ORD., Tokyo on Sat 19 Sept.
 
@@ -28,4 +28,4 @@ DJ Sodeyama is a techno and house artist tracked on soundcheck, with 137 sets lo
 
 OCCA, SIGNAL (JP), Tsutomu
 
-*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djsodeyama/)*
+*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djsodeyama/)*

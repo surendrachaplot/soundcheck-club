@@ -1,6 +1,6 @@
 # Menta Sauce
 
-Menta Sauce is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Sun, 13 Sept 2026, next at HHV.de Store, Berlin on Thu, 24 Sept 2026.
+Menta Sauce is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Mon, 14 Sept 2026, next at HHV.de Store, Berlin on Thu, 24 Sept 2026.
 
 Menta Sauce is a house and deep house artist tracked on soundcheck, with 2 sets logged across Berlin. Often billed alongside Alex Kassian, DJ Eivissa and Dj Norma. Next up: HHV.de Store, Berlin on Thu 24 Sept.
 
@@ -18,4 +18,4 @@ Menta Sauce is a house and deep house artist tracked on soundcheck, with 2 sets 
 
 Alex Kassian, DJ Eivissa, Dj Norma
 
-*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mentasauce/)*
+*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mentasauce/)*

@@ -1,6 +1,6 @@
 # Mr. Maggio
 
-Mr. Maggio is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 13 Sept 2026, next at Villa Viva, Hamburg on Fri, 18 Sept 2026.
+Mr. Maggio is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 14 Sept 2026, next at Villa Viva, Hamburg on Fri, 18 Sept 2026.
 
 Mr. Maggio is a house and techno artist based in Germany, tracked on soundcheck, with 10 sets logged across Hamburg. Often billed alongside Alexej, JASHTECH and CHICHO. Next up: Villa Viva, Hamburg on Fri 18 Sept.
 
@@ -25,4 +25,4 @@ Mr. Maggio is a house and techno artist based in Germany, tracked on soundcheck,
 
 Alexej, JASHTECH, CHICHO
 
-*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mr.maggio/)*
+*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mr.maggio/)*

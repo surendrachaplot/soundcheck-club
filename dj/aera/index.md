@@ -1,14 +1,13 @@
 # Aera
 
-Aera is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sun, 13 Sept 2026, next at Kater, Berlin on Fri, 11 Sept 2026.
+Aera is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 14 Sept 2026, next at Cut Throat, Amsterdam on Thu, 22 Oct 2026.
 
-Aera is a techno and house artist based in Germany, tracked on soundcheck, with 40 sets logged across Amsterdam, Barcelona, Berlin and Buenosaires and 18 more. Often billed alongside Ivory, Steve Challier and miAs. Next up: Kater, Berlin on Fri 11 Sept.
+Aera is a techno and house artist based in Germany, tracked on soundcheck, with 40 sets logged across Amsterdam, Barcelona, Berlin and Buenosaires and 18 more. Often billed alongside Ivory, Steve Challier and miAs. Next up: Cut Throat, Amsterdam on Thu 22 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 11 Sept 2026 | Kater | Berlin |
 | Thu, 22 Oct 2026 | Cut Throat | Amsterdam |
 
 ## Recently played
@@ -26,4 +25,4 @@ Aera is a techno and house artist based in Germany, tracked on soundcheck, with 
 
 Ivory, Steve Challier, miAs
 
-*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/aera/)*
+*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/aera/)*

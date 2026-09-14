@@ -1,6 +1,6 @@
 # Deltagram
 
-Deltagram is a Electronica and Breakbeat artist with 1 upcoming club date listed on soundcheck as of Sun, 13 Sept 2026, next at Urban Spree, Berlin on Fri, 18 Sept 2026.
+Deltagram is a Electronica and Breakbeat artist with 1 upcoming club date listed on soundcheck as of Mon, 14 Sept 2026, next at Urban Spree, Berlin on Fri, 18 Sept 2026.
 
 Deltagram is an electronica and breakbeat artist tracked on soundcheck, with 3 sets logged across Berlin. Often billed alongside Kim (FR), Lai Raw and Monotone (2). Next up: Urban Spree, Berlin on Fri 18 Sept.
 
@@ -19,4 +19,4 @@ Deltagram is an electronica and breakbeat artist tracked on soundcheck, with 3 s
 
 Kim (FR), Lai Raw, Monotone (2)
 
-*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/deltagram/)*
+*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/deltagram/)*

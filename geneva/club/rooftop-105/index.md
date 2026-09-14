@@ -1,6 +1,6 @@
 # Rooftop 105
 
-Rooftop 105 is a music venue in Geneva with 1 upcoming night listed on soundcheck as of Sun, 13 Sept 2026; the next is "Infra connection" on Sat, 10 Oct 2026.
+Rooftop 105 is a music venue in Geneva with 1 upcoming night listed on soundcheck as of Mon, 14 Sept 2026; the next is "Infra connection" on Sat, 10 Oct 2026.
 
 Rooftop 105 is a music venue in Geneva listed on soundcheck. 1 upcoming night, with line-ups including Benka and ronch. Browse upcoming dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ Rooftop 105 is a music venue in Geneva listed on soundcheck. 1 upcoming night, w
 | --- | --- | --- |
 | Sat, 10 Oct 2026 | Infra connection | Benka, ronch |
 
-*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/geneva/club/rooftop-105/)*
+*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/geneva/club/rooftop-105/)*

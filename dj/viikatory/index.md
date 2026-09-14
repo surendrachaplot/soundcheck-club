@@ -1,6 +1,6 @@
 # Viikatory
 
-Viikatory is a Techno and Electro artist with 3 upcoming club dates listed on soundcheck as of Sun, 13 Sept 2026, next at Fitzroy, Berlin on Fri, 18 Sept 2026.
+Viikatory is a Techno and Electro artist with 3 upcoming club dates listed on soundcheck as of Mon, 14 Sept 2026, next at Fitzroy, Berlin on Fri, 18 Sept 2026.
 
 Viikatory is a techno and electro artist tracked on soundcheck, with 97 sets logged across Amsterdam, Athens, Barcelona and Basel and 22 more. Often billed alongside Verde, Salut 80 and DJ MELL G. Next up: Fitzroy, Berlin on Fri 18 Sept.
 
@@ -27,4 +27,4 @@ Viikatory is a techno and electro artist tracked on soundcheck, with 97 sets log
 
 Verde, Salut 80, DJ MELL G
 
-*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/viikatory/)*
+*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/viikatory/)*

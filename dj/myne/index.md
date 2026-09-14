@@ -1,6 +1,6 @@
 # Myne
 
-Myne is a Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 13 Sept 2026, next at John Doe, Amsterdam on Thu, 22 Oct 2026.
+Myne is a Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 14 Sept 2026, next at John Doe, Amsterdam on Thu, 22 Oct 2026.
 
 Myne is a techno artist tracked on soundcheck, with 10 sets logged across Amsterdam, Lisbon and London. Often billed alongside Hardbark, Miguel Peres and Alex Pereira. Next up: John Doe, Amsterdam on Thu 22 Oct.
 
@@ -25,4 +25,4 @@ Myne is a techno artist tracked on soundcheck, with 10 sets logged across Amster
 
 Hardbark, Miguel Peres, Alex Pereira
 
-*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/myne/)*
+*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/myne/)*

@@ -1,6 +1,6 @@
 # Oren Ambarchi
 
-Oren Ambarchi is a Experimental and Electronica artist with 1 upcoming club date listed on soundcheck as of Sun, 13 Sept 2026, next at Silent Green, Berlin on Thu, 24 Sept 2026.
+Oren Ambarchi is a Experimental and Electronica artist with 1 upcoming club date listed on soundcheck as of Mon, 14 Sept 2026, next at Silent Green, Berlin on Thu, 24 Sept 2026.
 
 Oren Ambarchi is an experimental and electronica artist tracked on soundcheck, with 27 sets logged across Amsterdam, Athens, Barcelona and Berlin and 11 more. Often billed alongside Charlemagne Palestine, 404.zero and Alessandra Leone. Next up: Silent Green, Berlin on Thu 24 Sept.
 
@@ -25,4 +25,4 @@ Oren Ambarchi is an experimental and electronica artist tracked on soundcheck, w
 
 Charlemagne Palestine, 404.zero, Alessandra Leone
 
-*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/orenambarchi/)*
+*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/orenambarchi/)*

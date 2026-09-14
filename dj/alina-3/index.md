@@ -1,6 +1,6 @@
 # ALINA (3)
 
-ALINA (3) is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 13 Sept 2026, next at Club der Visionaere, Berlin on Mon, 14 Sept 2026.
+ALINA (3) is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 14 Sept 2026, next at Club der Visionaere, Berlin on Mon, 14 Sept 2026.
 
 ALINA (3) is a house and techno artist tracked on soundcheck, with 22 sets logged across Berlin, Frankfurt, Marseille and Newyorkcity and 1 more. Often billed alongside Atree, rubi* and Cleymoore. Next up: Club der Visionaere, Berlin on Mon 14 Sept.
 
@@ -25,4 +25,4 @@ ALINA (3) is a house and techno artist tracked on soundcheck, with 22 sets logge
 
 Atree, rubi*, Cleymoore
 
-*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/alina-3/)*
+*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/alina-3/)*

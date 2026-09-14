@@ -1,6 +1,6 @@
 # proswervez
 
-proswervez is a House and Club artist with 1 upcoming club date listed on soundcheck as of Sun, 13 Sept 2026, next at Hava Nightclub, Boston on Fri, 18 Sept 2026.
+proswervez is a House and Club artist with 1 upcoming club date listed on soundcheck as of Mon, 14 Sept 2026, next at Hava Nightclub, Boston on Fri, 18 Sept 2026.
 
 proswervez is a house and club artist based in United States of America, tracked on soundcheck, with 12 sets logged across Boston. Often billed alongside DJ Rayvino, Zack Fox and suavez. Next up: Hava Nightclub, Boston on Fri 18 Sept.
 
@@ -25,4 +25,4 @@ proswervez is a house and club artist based in United States of America, tracked
 
 DJ Rayvino, Zack Fox, suavez
 
-*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/proswervez/)*
+*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/proswervez/)*

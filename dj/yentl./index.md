@@ -1,6 +1,6 @@
 # Yentl.
 
-Yentl. is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Sun, 13 Sept 2026, next at Club der Visionaere, Berlin on Thu, 17 Sept 2026.
+Yentl. is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Mon, 14 Sept 2026, next at Club der Visionaere, Berlin on Thu, 17 Sept 2026.
 
 Yentl. is a house and minimal artist based in Belgium, tracked on soundcheck, with 63 sets logged across Amsterdam, Antwerp, Berlin and Brussels and 4 more. Often billed alongside Ampe, Ben Kamal and DJ Rino. Next up: Club der Visionaere, Berlin on Thu 17 Sept.
 
@@ -25,4 +25,4 @@ Yentl. is a house and minimal artist based in Belgium, tracked on soundcheck, wi
 
 Ampe, Ben Kamal, DJ Rino
 
-*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/yentl./)*
+*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/yentl./)*

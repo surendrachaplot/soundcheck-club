@@ -1,13 +1,14 @@
 # Circus Tokyo
 
-Circus Tokyo is a music venue in Tokyo with 10 upcoming nights listed on soundcheck as of Sun, 13 Sept 2026; the next is "MENTAL" on Sun, 20 Sept 2026.
+Circus Tokyo is a music venue in Tokyo with 11 upcoming nights listed on soundcheck as of Mon, 14 Sept 2026; the next is "FULLHOUSE 7th ANNIVERSARY" on Sat, 19 Sept 2026.
 
-Circus Tokyo is a music venue in Tokyo listed on soundcheck. 10 upcoming nights, with line-ups including Kaibshr, Ben Sims, Bou (UK) and Coretex and 2 more. Browse upcoming dates, start times and who's playing. 3-26-16 Shibuya, Shibuya-ku, Tokyo, Japan, 150-0002.
+Circus Tokyo is a music venue in Tokyo listed on soundcheck. 11 upcoming nights, with line-ups including Kaibshr, Ben Sims, Bou (UK) and cazbow and 2 more. Browse upcoming dates, start times and who's playing. 3-26-16 Shibuya, Shibuya-ku, Tokyo, Japan, 150-0002.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
+| Sat, 19 Sept 2026 | FULLHOUSE 7th ANNIVERSARY | Hiroaki Iida, ISSA, MileZ, SAMO (JP), TAKENOKO, YUUGOH, YUVIE, cazbow, kengotaki, nazanael, r1ku, ryota dj |
 | Sun, 20 Sept 2026 | MENTAL | Shoma fr,dambosound, miute, okadada |
 | Sat, 26 Sept 2026 | BOU TOKYO SHOW | Bou (UK) |
 | Sat, 3 Oct 2026 | Nomadlinq -2nd anniversary- with Jan Swam,Solma [Techno,Trance,Bass] | Jan Swam, Kaibshr, Kotaro Shimizu, Lynta, Rei7801, Rikuto Shibazaki, Sasaki Daichi, Solma, jo (53), shimosoma, uuu7 |
@@ -17,10 +18,9 @@ Circus Tokyo is a music venue in Tokyo listed on soundcheck. 10 upcoming nights,
 | Sat, 17 Oct 2026 | synts presents: Mietze Conte |  |
 | Sat, 31 Oct 2026 | RIP with Osmosis Jones | Osmosis Jones |
 | Tue, 3 Nov 2026 | (DnB) Formula Tokyo show by Beginning | Formula LDN, SAKO |
-| Sat, 14 Nov 2026 | Explosive in Tokyo | Coretex, Dustvoxx, Dynamax, Hayate (2) |
 
 ## Address
 
 3-26-16 Shibuya, Shibuya-ku, Tokyo, Japan, 150-0002, Tokyo
 
-*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/circus-tokyo/)*
+*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/circus-tokyo/)*

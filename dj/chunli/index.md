@@ -1,6 +1,6 @@
 # ChunLi
 
-ChunLi is a Experimental and Noise artist with 1 upcoming club date listed on soundcheck as of Sun, 13 Sept 2026, next at VENT, Tokyo on Sat, 24 Oct 2026.
+ChunLi is a Experimental and Noise artist with 1 upcoming club date listed on soundcheck as of Mon, 14 Sept 2026, next at VENT, Tokyo on Sat, 24 Oct 2026.
 
 ChunLi is an experimental and noise artist tracked on soundcheck, with 2 sets logged across Berlin and Tokyo. Often billed alongside 5ive, DJ Healthy and DJ Healthy (OKOKOK). Next up: VENT, Tokyo on Sat 24 Oct.
 
@@ -18,4 +18,4 @@ ChunLi is an experimental and noise artist tracked on soundcheck, with 2 sets lo
 
 5ive, DJ Healthy, DJ Healthy (OKOKOK)
 
-*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/chunli/)*
+*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/chunli/)*

@@ -1,6 +1,6 @@
 # TBA - Gold Coast
 
-TBA - Gold Coast is a music venue in Hong Kong with 7 upcoming nights listed on soundcheck as of Sun, 13 Sept 2026; the next is "Brandon" on Fri, 18 Sept 2026.
+TBA - Gold Coast is a music venue in Hong Kong with 7 upcoming nights listed on soundcheck as of Mon, 14 Sept 2026; the next is "Brandon" on Fri, 18 Sept 2026.
 
 TBA - Gold Coast is a music venue in Hongkong listed on soundcheck. 7 upcoming nights, with line-ups including Amal Nemer, Baauer and Zoe Gitter. Browse upcoming dates, start times and who's playing.
 
@@ -16,4 +16,4 @@ TBA - Gold Coast is a music venue in Hongkong listed on soundcheck. 7 upcoming n
 | Fri, 9 Oct 2026 | Amal Nemer | Amal Nemer |
 | Sat, 10 Oct 2026 | Baauer - THE 'U' EXPERIENCE | Baauer |
 
-*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/hongkong/club/tba-gold-coast/)*
+*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/hongkong/club/tba-gold-coast/)*

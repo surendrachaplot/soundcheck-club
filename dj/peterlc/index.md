@@ -1,6 +1,6 @@
 # Peter LC
 
-Peter LC is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Sun, 13 Sept 2026, next at Apollo Club Milano, Milan on Fri, 18 Sept 2026.
+Peter LC is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Mon, 14 Sept 2026, next at Apollo Club Milano, Milan on Fri, 18 Sept 2026.
 
 Peter LC is a house and disco artist tracked on soundcheck, with 11 sets logged across Berlin, London, Milan and Rome. Often billed alongside Andrea Fiorito, Lele Sacchi and Vithz. Next up: Apollo Club Milano, Milan on Fri 18 Sept.
 
@@ -25,4 +25,4 @@ Peter LC is a house and disco artist tracked on soundcheck, with 11 sets logged 
 
 Andrea Fiorito, Lele Sacchi, Vithz
 
-*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/peterlc/)*
+*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/peterlc/)*

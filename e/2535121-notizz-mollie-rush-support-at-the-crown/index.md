@@ -1,6 +1,6 @@
 # Notizz: Mollie Rush + Support at The Crown
 
-Notizz: Mollie Rush + Support at The Crown on Wed 16 Sept, Bristol. 1 act on the bill: Mollie Rush. Hardcore and Acid. Preview the line-up and save it on soundcheck.
+Notizz: Mollie Rush + Support at The Crown on Wed 16 Sept, Bristol. 1 act on the bill: Mollie Rush. Acid and Hardcore. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

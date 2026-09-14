@@ -1,14 +1,13 @@
 # Blvck Water
 
-Blvck Water is a music venue in Osaka with 11 upcoming nights listed on soundcheck as of Sun, 13 Sept 2026; the next is "Shiva" on Sun, 13 Sept 2026.
+Blvck Water is a music venue in Osaka with 10 upcoming nights listed on soundcheck as of Mon, 14 Sept 2026; the next is "'sutura' TECHNO ADDICT at Night Club Blvck Water" on Tue, 15 Sept 2026.
 
-Blvck Water is a music venue in Osaka listed on soundcheck. 11 upcoming nights, with line-ups including amor (JP), dyn (JP), EMIRI TSUKUI and EVE (1) and 2 more. Browse upcoming dates, start times and who's playing. B1F Grace Soemoncho Bldg., 7-6 Soemoncho, Chuo-ku, Osaka.
+Blvck Water is a music venue in Osaka listed on soundcheck. 10 upcoming nights, with line-ups including amor (JP), dyn (JP), EMIRI TSUKUI and EVE (1) and 2 more. Browse upcoming dates, start times and who's playing. B1F Grace Soemoncho Bldg., 7-6 Soemoncho, Chuo-ku, Osaka.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sun, 13 Sept 2026 | Shiva |  |
 | Tue, 15 Sept 2026 | 'sutura' TECHNO ADDICT at Night Club Blvck Water | ZAGUN, dyn (JP) |
 | Wed, 16 Sept 2026 | RHYTHM SHIFT Vol.18 - Nomadic | WOLT |
 | Fri, 18 Sept 2026 | HARD TECHNO 'CRACKS' with neqr, FENGX2, ANKHofLIFE, ZAGUN, Shuk00, inudog system | FENGX2, ZAGUN, inudog system |
@@ -18,9 +17,10 @@ Blvck Water is a music venue in Osaka listed on soundcheck. 11 upcoming nights, 
 | Sun, 27 Sept 2026 | FRONT LINE in OSAKA |  |
 | Tue, 29 Sept 2026 | 'sutura' TECHNO ADDICT at Night Club Blvck Water with DJ Kaoll | ZAGUN, amor (JP), dyn (JP) |
 | Fri, 9 Oct 2026 | HARD TECHNO 'CRACKS' with EVE, FENGX2 | EVE (1), FENGX2 |
+| Fri, 30 Oct 2026 | HARD TECHNO 'CRACKS' with Messiahwaits(MHz, Berilin), FENGX2 | FENGX2 |
 
 ## Address
 
 B1F Grace Soemoncho Bldg., 7-6 Soemoncho, Chuo-ku, Osaka, Osaka
 
-*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/osaka/club/blvck-water/)*
+*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/osaka/club/blvck-water/)*

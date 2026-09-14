@@ -1,6 +1,6 @@
 # Four Quarters
 
-Four Quarters is a music venue in London with 8 upcoming nights listed on soundcheck as of Sun, 13 Sept 2026; the next is "dull thud" on Fri, 18 Sept 2026.
+Four Quarters is a music venue in London with 8 upcoming nights listed on soundcheck as of Mon, 14 Sept 2026; the next is "dull thud" on Fri, 18 Sept 2026.
 
 Four Quarters is a music venue in London listed on soundcheck. 8 upcoming nights, with line-ups including AAKAARA, Alfie Fraser, Alley Cat and Badly Drawn Banana and 2 more. Browse upcoming dates, start times and who's playing. 187 Rye Lane, Peckham, SE15 4TP.
 
@@ -21,4 +21,4 @@ Four Quarters is a music venue in London listed on soundcheck. 8 upcoming nights
 
 187 Rye Lane, Peckham, SE15 4TP, London
 
-*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/four-quarters/)*
+*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/four-quarters/)*

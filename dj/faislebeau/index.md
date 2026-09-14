@@ -1,8 +1,8 @@
 # Fais Le Beau
 
-Fais Le Beau is a House and Techno artist with 7 upcoming club dates listed on soundcheck as of Sun, 13 Sept 2026, next at UMI, Brussels on Sat, 19 Sept 2026.
+Fais Le Beau is a House and Techno artist with 7 upcoming club dates listed on soundcheck as of Mon, 14 Sept 2026, next at UMI, Brussels on Sat, 19 Sept 2026.
 
-Fais Le Beau is a house and techno artist tracked on soundcheck, with 141 sets logged across Amsterdam, Antwerp, Berlin and Brussels and 15 more. Often billed alongside Sixsixsixties, Dana Kuehr and Melissa Juice. Next up: UMI, Brussels on Sat 19 Sept.
+Fais Le Beau is a house and techno artist tracked on soundcheck, with 142 sets logged across Amsterdam, Antwerp, Berlin and Brussels and 16 more. Often billed alongside Sixsixsixties, Dana Kuehr and Melissa Juice. Next up: UMI, Brussels on Sat 19 Sept.
 
 ## Upcoming shows
 
@@ -31,4 +31,4 @@ Fais Le Beau is a house and techno artist tracked on soundcheck, with 141 sets l
 
 Sixsixsixties, Dana Kuehr, Melissa Juice
 
-*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/faislebeau/)*
+*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/faislebeau/)*

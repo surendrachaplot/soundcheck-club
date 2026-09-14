@@ -1,6 +1,6 @@
 # Movers
 
-Movers is a music venue in Nottingham with 21 upcoming nights listed on soundcheck as of Sun, 13 Sept 2026; the next is "Auramatic [Hardline, ATW Records] - All Night Long" on Thu, 17 Sept 2026.
+Movers is a music venue in Nottingham with 21 upcoming nights listed on soundcheck as of Mon, 14 Sept 2026; the next is "Auramatic [Hardline, ATW Records] - All Night Long" on Thu, 17 Sept 2026.
 
 Movers is a music venue in Nottingham listed on soundcheck. 21 upcoming nights, with line-ups including Alien Communications, Auramatic, Charles Webster and Elegance Of The Damned and 2 more. Browse upcoming dates, start times and who's playing. 15 Hockley, Nottingham, NG1 1FH.
 
@@ -23,4 +23,4 @@ Movers is a music venue in Nottingham listed on soundcheck. 21 upcoming nights, 
 
 15 Hockley, Nottingham, NG1 1FH, Nottingham
 
-*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/nottingham/club/movers/)*
+*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/nottingham/club/movers/)*

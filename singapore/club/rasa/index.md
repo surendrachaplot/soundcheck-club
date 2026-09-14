@@ -1,6 +1,6 @@
 # RASA
 
-RASA is a music venue in Singapore with 5 upcoming nights listed on soundcheck as of Sun, 13 Sept 2026; the next is "DTW 15 Anniversary Space with Querico Tokyo" on Fri, 18 Sept 2026.
+RASA is a music venue in Singapore with 5 upcoming nights listed on soundcheck as of Mon, 14 Sept 2026; the next is "DTW 15 Anniversary Space with Querico Tokyo" on Fri, 18 Sept 2026.
 
 RASA is a music venue in Singapore listed on soundcheck. 5 upcoming nights, with line-ups including A'alely, Cosmic, Dan Stezo and dBridge and 2 more. Browse upcoming dates, start times and who's playing.
 
@@ -14,4 +14,4 @@ RASA is a music venue in Singapore listed on soundcheck. 5 upcoming nights, with
 | Fri, 2 Oct 2026 | RASA presents YELLOWUHURU (JP) & Isabel Soto (DE) | A'alely, Dexter Colt, Isabel Soto, YELLOWUHURU, YETPET |
 | Sat, 3 Oct 2026 | RASA presents Goldie b2b dBridge | Dan Stezo, Goldie, dBridge |
 
-*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/singapore/club/rasa/)*
+*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/singapore/club/rasa/)*

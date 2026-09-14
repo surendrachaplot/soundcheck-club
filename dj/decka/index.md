@@ -1,14 +1,13 @@
 # Decka
 
-Decka is a Techno and Bass artist with 2 upcoming club dates listed on soundcheck as of Sun, 13 Sept 2026, next at Barragem da Queimadela, Porto on Thu, 10 Sept 2026.
+Decka is a Techno and Bass artist with 1 upcoming club date listed on soundcheck as of Mon, 14 Sept 2026, next at Superlove, Milan on Fri, 25 Sept 2026.
 
-Decka is a techno and bass artist based in United Kingdom, tracked on soundcheck, with 44 sets logged across Barcelona, Belgrade, Berlin and Birmingham and 11 more. Often billed alongside Claudio PRC, Roseen and The Lady Machine. Next up: Barragem da Queimadela, Porto on Thu 10 Sept.
+Decka is a techno and bass artist based in United Kingdom, tracked on soundcheck, with 44 sets logged across Barcelona, Belgrade, Berlin and Birmingham and 11 more. Often billed alongside Claudio PRC, Roseen and The Lady Machine. Next up: Superlove, Milan on Fri 25 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Thu, 10 Sept 2026 | Barragem da Queimadela | Porto |
 | Fri, 25 Sept 2026 | Superlove | Milan |
 
 ## Recently played
@@ -26,4 +25,4 @@ Decka is a techno and bass artist based in United Kingdom, tracked on soundcheck
 
 Claudio PRC, Roseen, The Lady Machine
 
-*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/decka/)*
+*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/decka/)*

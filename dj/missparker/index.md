@@ -1,6 +1,6 @@
 # Miss Parker
 
-Miss Parker is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Sun, 13 Sept 2026, next at Bossa Nova Civic Club, New York City on Fri, 18 Sept 2026.
+Miss Parker is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Mon, 14 Sept 2026, next at Bossa Nova Civic Club, New York City on Fri, 18 Sept 2026.
 
 Miss Parker is a techno and house artist tracked on soundcheck, with 129 sets logged across Berlin, Boston, Chicago and Hamburg and 6 more. Often billed alongside Devoye, DJ Thank You and Princess Peggie. Next up: Bossa Nova Civic Club, Newyorkcity on Fri 18 Sept.
 
@@ -29,4 +29,4 @@ Miss Parker is a techno and house artist tracked on soundcheck, with 129 sets lo
 
 Devoye, DJ Thank You, Princess Peggie
 
-*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/missparker/)*
+*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/missparker/)*

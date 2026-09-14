@@ -1,6 +1,6 @@
 # Drugstore Beograd
 
-Drugstore Beograd is a music venue in Belgrade with 8 upcoming nights listed on soundcheck as of Sun, 13 Sept 2026; the next is "Frenzee, Grim Rhythm, Reckoning" on Tue, 15 Sept 2026.
+Drugstore Beograd is a music venue in Belgrade with 8 upcoming nights listed on soundcheck as of Mon, 14 Sept 2026; the next is "Frenzee, Grim Rhythm, Reckoning" on Tue, 15 Sept 2026.
 
 Drugstore Beograd is a music venue in Belgrade listed on soundcheck. 8 upcoming nights, with line-ups including AM Hi, Aneri, Asarri and Carbon Based Lifeforms and 2 more. Browse upcoming dates, start times and who's playing. Bulevar Despota Stefana 115 - Poenkareova.
 
@@ -21,4 +21,4 @@ Drugstore Beograd is a music venue in Belgrade listed on soundcheck. 8 upcoming 
 
 Bulevar Despota Stefana 115 - Poenkareova, Belgrade
 
-*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/belgrade/club/drugstore-beograd/)*
+*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/belgrade/club/drugstore-beograd/)*

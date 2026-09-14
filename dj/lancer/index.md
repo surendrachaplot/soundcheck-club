@@ -1,6 +1,6 @@
 # Lancer
 
-Lancer is a Italo Disco artist with 1 upcoming club date listed on soundcheck as of Sun, 13 Sept 2026, next at Klunkerkranich, Berlin on Tue, 15 Sept 2026.
+Lancer is a Italo Disco artist with 1 upcoming club date listed on soundcheck as of Mon, 14 Sept 2026, next at Klunkerkranich, Berlin on Tue, 15 Sept 2026.
 
 Lancer is an italo disco artist tracked on soundcheck, with 8 sets logged across Berlin, London and Manchester. Often billed alongside Felix Lee, Palmistry and Blood of Aza. Next up: Klunkerkranich, Berlin on Tue 15 Sept.
 
@@ -24,4 +24,4 @@ Lancer is an italo disco artist tracked on soundcheck, with 8 sets logged across
 
 Felix Lee, Palmistry, Blood of Aza
 
-*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lancer/)*
+*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lancer/)*

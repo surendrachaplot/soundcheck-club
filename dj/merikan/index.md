@@ -1,6 +1,6 @@
 # Merikan
 
-Merikan is a Drum & Bass and Bass artist with 1 upcoming club date listed on soundcheck as of Sun, 13 Sept 2026, next at Gretchen, Berlin on Sat, 14 Nov 2026.
+Merikan is a Drum & Bass and Bass artist with 1 upcoming club date listed on soundcheck as of Mon, 14 Sept 2026, next at Gretchen, Berlin on Sat, 14 Nov 2026.
 
 Merikan is a drum & bass and bass artist tracked on soundcheck, with 25 sets logged across Berlin, Bristol, Budapest and Geneva and 8 more. Often billed alongside Black Sun Empire, Audio and Pythius. Next up: Gretchen, Berlin on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ Merikan is a drum & bass and bass artist tracked on soundcheck, with 25 sets log
 
 Black Sun Empire, Audio, Pythius
 
-*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/merikan/)*
+*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/merikan/)*

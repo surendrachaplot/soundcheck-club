@@ -1,6 +1,6 @@
 # Cassie Raptor
 
-Cassie Raptor is a Techno and Industrial artist with 4 upcoming club dates listed on soundcheck as of Sun, 13 Sept 2026, next at Virage, Paris on Sat, 19 Sept 2026.
+Cassie Raptor is a Techno and Industrial artist with 4 upcoming club dates listed on soundcheck as of Mon, 14 Sept 2026, next at Virage, Paris on Sat, 19 Sept 2026.
 
 Cassie Raptor is a techno and industrial artist tracked on soundcheck, with 130 sets logged across Amsterdam, Antwerp, Barcelona and Basel and 43 more. Often billed alongside CARAVEL, ANXHELA and DYEN. Next up: Virage, Paris on Sat 19 Sept.
 
@@ -28,4 +28,4 @@ Cassie Raptor is a techno and industrial artist tracked on soundcheck, with 130 
 
 CARAVEL, ANXHELA, DYEN
 
-*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/cassieraptor/)*
+*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/cassieraptor/)*

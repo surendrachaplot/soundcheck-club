@@ -1,6 +1,6 @@
 # Gambrinus
 
-Gambrinus is a music venue in Frankfurt with 1 upcoming night listed on soundcheck as of Sun, 13 Sept 2026; the next is "cosmo.komplex" on Fri, 25 Sept 2026.
+Gambrinus is a music venue in Frankfurt with 1 upcoming night listed on soundcheck as of Mon, 14 Sept 2026; the next is "cosmo.komplex" on Fri, 25 Sept 2026.
 
 Gambrinus is a music venue in Frankfurt listed on soundcheck. 1 upcoming night, with line-ups including tom voyage. Browse upcoming dates, start times and who's playing. Am Bahnhof 4; 61352 Bad Homburg; Germany.
 
@@ -14,4 +14,4 @@ Gambrinus is a music venue in Frankfurt listed on soundcheck. 1 upcoming night, 
 
 Am Bahnhof 4; 61352 Bad Homburg; Germany, Frankfurt
 
-*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/frankfurt/club/gambrinus/)*
+*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/frankfurt/club/gambrinus/)*

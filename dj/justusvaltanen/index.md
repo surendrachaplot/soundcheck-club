@@ -1,8 +1,8 @@
 # Justus Valtanen
 
-Justus Valtanen is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 13 Sept 2026, next at Post Bar, Helsinki on Sat, 26 Sept 2026.
+Justus Valtanen is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 14 Sept 2026, next at Post Bar, Helsinki on Sat, 26 Sept 2026.
 
-Justus Valtanen is a house and techno artist tracked on soundcheck, with 28 sets logged across Helsinki, Stockholm and Thehague. Often billed alongside Daniel Kayrouz, Katerina and Denzel. Next up: Post Bar, Helsinki on Sat 26 Sept.
+Justus Valtanen is a house and techno artist tracked on soundcheck, with 57 sets logged across Helsinki, Stockholm and Thehague. Often billed alongside Daniel Kayrouz, Denzel and DJ JVS. Next up: Post Bar, Helsinki on Sat 26 Sept.
 
 ## Upcoming shows
 
@@ -23,6 +23,6 @@ Justus Valtanen is a house and techno artist tracked on soundcheck, with 28 sets
 
 ## Shares bills with
 
-Daniel Kayrouz, Katerina, Denzel
+Daniel Kayrouz, Denzel, DJ JVS
 
-*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/justusvaltanen/)*
+*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/justusvaltanen/)*

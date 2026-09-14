@@ -1,8 +1,8 @@
 # I. JORDAN
 
-I. JORDAN is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sun, 13 Sept 2026, next at Depot Mayfield, Manchester on Sat, 26 Sept 2026.
+I. JORDAN is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Mon, 14 Sept 2026, next at Depot Mayfield, Manchester on Sat, 26 Sept 2026.
 
-I. JORDAN is a techno and house artist based in United Kingdom, tracked on soundcheck, with 118 sets logged across Amsterdam, Antwerp, Athens and Austin and 44 more. Often billed alongside SHERELLE, KETTAMA and Honey Dijon. Next up: Depot Mayfield, Manchester on Sat 26 Sept.
+I. JORDAN is a techno and house artist based in United Kingdom, tracked on soundcheck, with 119 sets logged across Amsterdam, Antwerp, Athens and Austin and 45 more. Often billed alongside SHERELLE, KETTAMA and Honey Dijon. Next up: Depot Mayfield, Manchester on Sat 26 Sept.
 
 ## Upcoming shows
 
@@ -26,4 +26,4 @@ I. JORDAN is a techno and house artist based in United Kingdom, tracked on sound
 
 SHERELLE, KETTAMA, Honey Dijon
 
-*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ijordan/)*
+*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ijordan/)*

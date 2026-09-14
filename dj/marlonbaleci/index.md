@@ -1,6 +1,6 @@
 # Marlon Baleci
 
-Marlon Baleci is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 13 Sept 2026, next at The Glove That Fits, London on Fri, 25 Sept 2026.
+Marlon Baleci is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 14 Sept 2026, next at The Glove That Fits, London on Fri, 25 Sept 2026.
 
 Marlon Baleci is a house and techno artist based in United Kingdom, tracked on soundcheck, with 25 sets logged across London and Manchester. Often billed alongside Layson, Nick Clev and Sam Beach. Next up: The Glove That Fits, London on Fri 25 Sept.
 
@@ -12,6 +12,7 @@ Marlon Baleci is a house and techno artist based in United Kingdom, tracked on s
 
 ## Recently played
 
+- The Timber Loft, London — Sun, 13 Sept 2026
 - The DBA, Manchester — Fri, 11 Sept 2026
 - fabric, London — Sat, 5 Sept 2026
 - Next Door Records Two, London — Sat, 29 Aug 2026
@@ -19,10 +20,9 @@ Marlon Baleci is a house and techno artist based in United Kingdom, tracked on s
 - Bricks, London — Fri, 1 May 2026
 - APT Disco, Manchester — Fri, 10 Apr 2026
 - Ramona, Manchester — Sat, 20 Dec 2025
-- Secret Location, London — Fri, 5 Dec 2025
 
 ## Shares bills with
 
 Layson, Nick Clev, Sam Beach
 
-*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/marlonbaleci/)*
+*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/marlonbaleci/)*

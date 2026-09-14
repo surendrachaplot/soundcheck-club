@@ -1,6 +1,6 @@
 # Six Sex
 
-Six Sex is a Techno and Reggaeton artist with 3 upcoming club dates listed on soundcheck as of Sun, 13 Sept 2026, next at Midline, Miami on Fri, 18 Sept 2026.
+Six Sex is a Techno and Reggaeton artist with 3 upcoming club dates listed on soundcheck as of Mon, 14 Sept 2026, next at Midline, Miami on Fri, 18 Sept 2026.
 
 Six Sex is a techno and reggaeton artist tracked on soundcheck, with 49 sets logged across Amsterdam, Barcelona, Berlin and Brussels and 21 more. Often billed alongside MCR-T, Blawan and DJ Gigola. Next up: Midline, Miami on Fri 18 Sept.
 
@@ -27,4 +27,4 @@ Six Sex is a techno and reggaeton artist tracked on soundcheck, with 49 sets log
 
 MCR-T, Blawan, DJ Gigola
 
-*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sixsex/)*
+*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sixsex/)*

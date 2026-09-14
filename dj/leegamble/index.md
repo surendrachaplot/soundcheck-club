@@ -1,8 +1,8 @@
 # Lee Gamble
 
-Lee Gamble is a Techno and Experimental artist with 1 upcoming club date listed on soundcheck as of Sun, 13 Sept 2026, next at Depot Mayfield, Manchester on Fri, 30 Oct 2026.
+Lee Gamble is a Techno and Experimental artist with 1 upcoming club date listed on soundcheck as of Mon, 14 Sept 2026, next at Depot Mayfield, Manchester on Fri, 30 Oct 2026.
 
-Lee Gamble is a techno and experimental artist based in United Kingdom, tracked on soundcheck, with 61 sets logged across Amsterdam, Athens, Barcelona and Berlin and 25 more. Often billed alongside ojoo, JASSS and Kode9. Next up: Depot Mayfield, Manchester on Fri 30 Oct.
+Lee Gamble is a techno and experimental artist based in United Kingdom, tracked on soundcheck, with 62 sets logged across Amsterdam, Athens, Barcelona and Berlin and 26 more. Often billed alongside ojoo, JASSS and Kode9. Next up: Depot Mayfield, Manchester on Fri 30 Oct.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Lee Gamble is a techno and experimental artist based in United Kingdom, tracked 
 
 ojoo, JASSS, Kode9
 
-*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/leegamble/)*
+*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/leegamble/)*

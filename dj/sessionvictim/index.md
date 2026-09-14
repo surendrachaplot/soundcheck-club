@@ -1,14 +1,13 @@
 # Session Victim
 
-Session Victim is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Sun, 13 Sept 2026, next at Auditorium Parco della Musica, Rome on Sat, 12 Sept 2026.
+Session Victim is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Mon, 14 Sept 2026, next at The Jazz Cafe, London on Fri, 11 Dec 2026.
 
-Session Victim is a house and disco artist based in Germany, tracked on soundcheck, with 70 sets logged across Amsterdam, Berlin, Brussels and Detroit and 24 more. Often billed alongside Black Loops, Folamour and Harrison BDP. Next up: Auditorium Parco della Musica, Rome on Sat 12 Sept.
+Session Victim is a house and disco artist based in Germany, tracked on soundcheck, with 70 sets logged across Amsterdam, Berlin, Brussels and Detroit and 24 more. Often billed alongside Black Loops, Folamour and Harrison BDP. Next up: The Jazz Cafe, London on Fri 11 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 12 Sept 2026 | Auditorium Parco della Musica | Rome |
 | Fri, 11 Dec 2026 | The Jazz Cafe | London |
 
 ## Recently played
@@ -26,4 +25,4 @@ Session Victim is a house and disco artist based in Germany, tracked on soundche
 
 Black Loops, Folamour, Harrison BDP
 
-*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sessionvictim/)*
+*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sessionvictim/)*

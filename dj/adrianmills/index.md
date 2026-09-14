@@ -1,6 +1,6 @@
 # Adrian Mills
 
-Adrian Mills is a Techno and Trance artist with 9 upcoming club dates listed on soundcheck as of Sun, 13 Sept 2026, next at Son Fusteret, Mallorca on Sat, 19 Sept 2026.
+Adrian Mills is a Techno and Trance artist with 9 upcoming club dates listed on soundcheck as of Mon, 14 Sept 2026, next at Son Fusteret, Mallorca on Sat, 19 Sept 2026.
 
 Adrian Mills is a techno and trance artist tracked on soundcheck, with 218 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 54 more. Often billed alongside Cloudy, KUKO and Serafina. Next up: Son Fusteret, Mallorca on Sat 19 Sept.
 
@@ -33,4 +33,4 @@ Adrian Mills is a techno and trance artist tracked on soundcheck, with 218 sets 
 
 Cloudy, KUKO, Serafina
 
-*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/adrianmills/)*
+*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/adrianmills/)*

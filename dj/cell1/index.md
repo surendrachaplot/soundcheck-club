@@ -1,6 +1,6 @@
 # cell1
 
-cell1 is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Sun, 13 Sept 2026, next at Humboldthain Club, Berlin on Fri, 18 Sept 2026.
+cell1 is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Mon, 14 Sept 2026, next at Humboldthain Club, Berlin on Fri, 18 Sept 2026.
 
 cell1 is a techno and trance artist tracked on soundcheck, with 42 sets logged across Berlin. Often billed alongside Sievert Serviert, Ėrrør.A and Al Aslan. Next up: Humboldthain Club, Berlin on Fri 18 Sept.
 
@@ -26,4 +26,4 @@ cell1 is a techno and trance artist tracked on soundcheck, with 42 sets logged a
 
 Sievert Serviert, Ėrrør.A, Al Aslan
 
-*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/cell1/)*
+*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/cell1/)*

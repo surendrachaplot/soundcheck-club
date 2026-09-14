@@ -1,6 +1,6 @@
 # Kilomètre25
 
-Kilomètre25 is a music venue in Paris with 12 upcoming nights listed on soundcheck as of Sun, 13 Sept 2026; the next is "2Much: Linds, ANDATA, Emilja" on Fri, 18 Sept 2026.
+Kilomètre25 is a music venue in Paris with 12 upcoming nights listed on soundcheck as of Mon, 14 Sept 2026; the next is "2Much: Linds, ANDATA, Emilja" on Fri, 18 Sept 2026.
 
 Kilomètre25 is a music venue in Paris listed on soundcheck. 12 upcoming nights, with line-ups including NYRA (DE), ANDATA, AREA ØNE and ASLO and 2 more. Browse upcoming dates, start times and who's playing. 8 Boulevard MacDonald 75019 Paris.
 
@@ -23,4 +23,4 @@ Kilomètre25 is a music venue in Paris listed on soundcheck. 12 upcoming nights,
 
 8 Boulevard MacDonald 75019 Paris, Paris
 
-*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/paris/club/kilom-tre25/)*
+*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/paris/club/kilom-tre25/)*

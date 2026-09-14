@@ -1,6 +1,6 @@
 # eylau
 
-eylau is a Latin Bass and Kuduro artist with 2 upcoming club dates listed on soundcheck as of Sun, 13 Sept 2026, next at Karma Crew Warsaw, Warsaw on Sat, 19 Sept 2026.
+eylau is a Latin Bass and Kuduro artist with 2 upcoming club dates listed on soundcheck as of Mon, 14 Sept 2026, next at Karma Crew Warsaw, Warsaw on Sat, 19 Sept 2026.
 
 eylau is a latin bass and kuduro artist based in Poland, tracked on soundcheck, with 34 sets logged across Krakow and Warsaw. Often billed alongside KarateKnur, Fourth World Music and Cosaco. Next up: Karma Crew Warsaw, Warsaw on Sat 19 Sept.
 
@@ -26,4 +26,4 @@ eylau is a latin bass and kuduro artist based in Poland, tracked on soundcheck, 
 
 KarateKnur, Fourth World Music, Cosaco
 
-*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/eylau/)*
+*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/eylau/)*

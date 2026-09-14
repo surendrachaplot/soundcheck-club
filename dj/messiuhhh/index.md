@@ -1,6 +1,6 @@
 # messiuhhh
 
-messiuhhh is a Techno and Electronica artist with 2 upcoming club dates listed on soundcheck as of Sun, 13 Sept 2026, next at TBA - SECRET SF LOCATION, San Francisco/Oakland on Fri, 25 Sept 2026.
+messiuhhh is a Techno and Electronica artist with 2 upcoming club dates listed on soundcheck as of Mon, 14 Sept 2026, next at TBA - SECRET SF LOCATION, San Francisco/Oakland on Fri, 25 Sept 2026.
 
 messiuhhh is a techno and electronica artist tracked on soundcheck, with 5 sets logged across Sanfrancisco. Often billed alongside MALICIEL, @djlobottomy and CHRI5PY. Next up: TBA - SECRET SF LOCATION, Sanfrancisco on Fri 25 Sept.
 
@@ -21,4 +21,4 @@ messiuhhh is a techno and electronica artist tracked on soundcheck, with 5 sets 
 
 MALICIEL, @djlobottomy, CHRI5PY
 
-*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/messiuhhh/)*
+*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/messiuhhh/)*

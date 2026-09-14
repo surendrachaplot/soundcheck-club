@@ -1,6 +1,6 @@
 # ANNA
 
-ANNA is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sun, 13 Sept 2026, next at DRUMSHEDS, London on Sat, 5 Dec 2026.
+ANNA is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Mon, 14 Sept 2026, next at DRUMSHEDS, London on Sat, 5 Dec 2026.
 
 ANNA is a techno and house artist tracked on soundcheck, with 97 sets logged across Amsterdam, Antwerp, Athens and Austin and 34 more. Often billed alongside DJ Tennis, Vintage Culture and Kevin de Vries. Next up: DRUMSHEDS, London on Sat 5 Dec.
 
@@ -26,4 +26,4 @@ ANNA is a techno and house artist tracked on soundcheck, with 97 sets logged acr
 
 DJ Tennis, Vintage Culture, Kevin de Vries
 
-*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djanna/)*
+*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djanna/)*

@@ -1,6 +1,6 @@
 # Locke
 
-Locke is a music venue in Hamburg with 2 upcoming nights listed on soundcheck as of Sun, 13 Sept 2026; the next is "Crazy Taxi 2 with John Known & Phil Abaddon" on Sun, 27 Sept 2026.
+Locke is a music venue in Hamburg with 2 upcoming nights listed on soundcheck as of Mon, 14 Sept 2026; the next is "Crazy Taxi 2 with John Known & Phil Abaddon" on Sun, 27 Sept 2026.
 
 Locke is a music venue in Hamburg listed on soundcheck. 2 upcoming nights, with line-ups including Darimel and Phil Abaddon. Browse upcoming dates, start times and who's playing. St. Pauli Fischmarkt 27, 20359 Hamburg, Germany.
 
@@ -15,4 +15,4 @@ Locke is a music venue in Hamburg listed on soundcheck. 2 upcoming nights, with 
 
 St. Pauli Fischmarkt 27, 20359 Hamburg, Germany, Hamburg
 
-*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/hamburg/club/locke/)*
+*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/hamburg/club/locke/)*

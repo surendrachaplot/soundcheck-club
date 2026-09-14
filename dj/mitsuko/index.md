@@ -1,6 +1,6 @@
 # Mitsuko
 
-Mitsuko is a House and Deep House artist with 2 upcoming club dates listed on soundcheck as of Sun, 13 Sept 2026, next at Tausend, Berlin on Thu, 17 Sept 2026.
+Mitsuko is a House and Deep House artist with 2 upcoming club dates listed on soundcheck as of Mon, 14 Sept 2026, next at Tausend, Berlin on Thu, 17 Sept 2026.
 
 Mitsuko is a house and deep house artist based in Germany, tracked on soundcheck, with 27 sets logged across Berlin and Tokyo. Often billed alongside LIZZN, Miss Kitchen and ADAM REC.. Next up: Tausend, Berlin on Thu 17 Sept.
 
@@ -26,4 +26,4 @@ Mitsuko is a house and deep house artist based in Germany, tracked on soundcheck
 
 LIZZN, Miss Kitchen, ADAM REC.
 
-*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mitsuko/)*
+*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mitsuko/)*

@@ -1,6 +1,6 @@
 # ESC
 
-ESC is a music venue in Montreal with 3 upcoming nights listed on soundcheck as of Sun, 13 Sept 2026; the next is "ON THE HOUSE - VOL 006" on Fri, 18 Sept 2026.
+ESC is a music venue in Montreal with 3 upcoming nights listed on soundcheck as of Mon, 14 Sept 2026; the next is "ON THE HOUSE - VOL 006" on Fri, 18 Sept 2026.
 
 ESC is a music venue in Montreal listed on soundcheck. 3 upcoming nights, with line-ups including Billy Dalessandro, CrisseMarqueur, Cristobal Urbina and Dani Rev and 2 more. Browse upcoming dates, start times and who's playing. 2023 St Laurent Blvd, Montreal, QC H2X 2T3.
 
@@ -16,4 +16,4 @@ ESC is a music venue in Montreal listed on soundcheck. 3 upcoming nights, with l
 
 2023 St Laurent Blvd, Montreal, QC H2X 2T3, Montreal
 
-*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/montreal/club/esc/)*
+*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/montreal/club/esc/)*

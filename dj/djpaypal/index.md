@@ -1,6 +1,6 @@
 # DJ Paypal
 
-DJ Paypal is a Footwork and Bass artist with 2 upcoming club dates listed on soundcheck as of Sun, 13 Sept 2026, next at Podlasie Club, Chicago on Fri, 18 Sept 2026.
+DJ Paypal is a Footwork and Bass artist with 2 upcoming club dates listed on soundcheck as of Mon, 14 Sept 2026, next at Podlasie Club, Chicago on Fri, 18 Sept 2026.
 
 DJ Paypal is a footwork and bass artist tracked on soundcheck, with 57 sets logged across Amsterdam, Bangkok, Berlin and Brighton and 22 more. Often billed alongside Kloxii Li, Missy and TEDDMAN. Next up: Podlasie Club, Chicago on Fri 18 Sept.
 
@@ -26,4 +26,4 @@ DJ Paypal is a footwork and bass artist tracked on soundcheck, with 57 sets logg
 
 Kloxii Li, Missy, TEDDMAN
 
-*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djpaypal/)*
+*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djpaypal/)*

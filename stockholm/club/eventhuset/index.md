@@ -1,6 +1,6 @@
 # Eventhuset
 
-Eventhuset is a music venue in Stockholm with 5 upcoming nights listed on soundcheck as of Sun, 13 Sept 2026; the next is "BRONX ALL STARS DISCOTECA . To Floor" on Sat, 19 Sept 2026.
+Eventhuset is a music venue in Stockholm with 5 upcoming nights listed on soundcheck as of Mon, 14 Sept 2026; the next is "BRONX ALL STARS DISCOTECA . To Floor" on Sat, 19 Sept 2026.
 
 Eventhuset is a music venue in Stockholm listed on soundcheck. 5 upcoming nights, with line-ups including DJ Godfather, DJ KILLING, DJ Hell and LOLSNAKE and 2 more. Browse upcoming dates, start times and who's playing. Vretensborgsvägen 5, 12630 Hägersten.
 
@@ -18,4 +18,4 @@ Eventhuset is a music venue in Stockholm listed on soundcheck. 5 upcoming nights
 
 Vretensborgsvägen 5, 12630 Hägersten, Stockholm
 
-*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/stockholm/club/eventhuset/)*
+*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/stockholm/club/eventhuset/)*

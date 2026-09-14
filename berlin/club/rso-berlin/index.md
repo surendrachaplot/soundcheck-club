@@ -1,14 +1,13 @@
 # RSO.BERLIN
 
-RSO.BERLIN is a music venue in Berlin with 19 upcoming nights listed on soundcheck as of Sun, 13 Sept 2026; the next is "Home Again Festival - 10 Years" on Sat, 12 Sept 2026.
+RSO.BERLIN is a music venue in Berlin with 18 upcoming nights listed on soundcheck as of Mon, 14 Sept 2026; the next is "KHIDI NIGHT w/ Ancient Methods, Boston 168 live, Liza Rivs and Vulkanski" on Fri, 18 Sept 2026.
 
-RSO.BERLIN is a music venue in Berlin listed on soundcheck. 19 upcoming nights, with line-ups including 2HOT2PLAY, NYRA (DE), AEREA and AgainstMe and 2 more. Browse upcoming dates, start times and who's playing. Schnellerstrasse 137, 12439 Berlin.
+RSO.BERLIN is a music venue in Berlin listed on soundcheck. 18 upcoming nights, with line-ups including 2HOT2PLAY, NYRA (DE), AEREA and AgainstMe and 2 more. Browse upcoming dates, start times and who's playing. Schnellerstrasse 137, 12439 Berlin.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 12 Sept 2026 | Home Again Festival - 10 Years | Andra, Blame Anthony, Butterhands, Cassy, Chris Stassy, DJ Split, Dan Ghenacia, Disguised, Dj Norma, Eris Drew, GOME, Greta Spark, Home Again Soundsystem, LIA, Lobster (NL), Manuel Fischer, Mara Menace, Marsch, Meggy, Power Squad, Quest, Quest (IT), Robert Owens, Robin RB, Rosa Red, Ryan Elliott, Solomun, TSHA, Thabo, Thalo Santana, Tiago Oudman, Vera, ferrari rot, hawi |
 | Fri, 18 Sept 2026 | KHIDI NIGHT w/ Ancient Methods, Boston 168 live, Liza Rivs and Vulkanski | Ancient Methods, Boston 168, Liza Rivs, Vulkanski |
 | Sat, 19 Sept 2026 | 11 Years Selected | CAIVA, Carmen Electro, EMILIJA, Ellen Trenn, FANK, FLACCO, Frederic., Iman Janes, Luxi Villar, MCR-T, Part Time Killer, Trancemaster Krause, Vermeer, fumi (DE), ÜBERKIKZ |
 | Fri, 25 Sept 2026 | SESH | 2HOT2PLAY, Bruno Brero, GEN97, NYRA (DE), Paraçek, SATYS FYRE, Shake Daddy, XIMA, davyboi |
@@ -18,9 +17,10 @@ RSO.BERLIN is a music venue in Berlin listed on soundcheck. 19 upcoming nights, 
 | Fri, 9 Oct 2026 | Radiance w/ BLUME, Delta Rain, Human Space Machine, Luigi Tozzi live | BLUME, Human Space Machine, Luigi Tozzi |
 | Sat, 10 Oct 2026 | WE ARE NOT ALONE | ALI3N, Cleric, Ellen Allien, Introversion, Mama Snake, Metaraph, OLHA, Sarah Sommers, Stephanie Sykes |
 | Fri, 16 Oct 2026 | Self. Control. with CYRK, Moderna, Cosmo Vitelli, Giulia Gutterer & Sesto Senso | CYRK, Cosmo Vitelli, Giulia Gutterer, Moderna, Sesto Sento |
+| Sat, 17 Oct 2026 | XTRUDE x EUPHORIA SESSIONS w/ Chris Liebing, Truncate, Phil Berg live, Elli Acula, Angel D'lite | Alfred Czital, Andy Garvey, Angel D'lite, Chris Liebing, Clarisa Kimskii, Elli Acula, Gina Demarchi, IAMBP, Immy, Phil Berg, Truncate, WINDFUHR |
 
 ## Address
 
 Schnellerstrasse 137, 12439 Berlin, Berlin
 
-*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/rso-berlin/)*
+*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/rso-berlin/)*

@@ -1,8 +1,8 @@
 # Matisa
 
-Matisa is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Sun, 13 Sept 2026, next at DURO, Milan on Fri, 18 Sept 2026.
+Matisa is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Mon, 14 Sept 2026, next at DURO, Milan on Fri, 18 Sept 2026.
 
-Matisa is a house and techno artist tracked on soundcheck, with 120 sets logged across Amsterdam, Bali, Bangkok and Barcelona and 36 more. Often billed alongside Chris Stassy, DJ Tennis and Josh Baker. Next up: DURO, Milan on Fri 18 Sept.
+Matisa is a house and techno artist tracked on soundcheck, with 121 sets logged across Amsterdam, Bali, Bangkok and Barcelona and 37 more. Often billed alongside Chris Stassy, DJ Tennis and Josh Baker. Next up: DURO, Milan on Fri 18 Sept.
 
 ## Upcoming shows
 
@@ -28,4 +28,4 @@ Matisa is a house and techno artist tracked on soundcheck, with 120 sets logged 
 
 Chris Stassy, DJ Tennis, Josh Baker
 
-*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/matisa/)*
+*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/matisa/)*

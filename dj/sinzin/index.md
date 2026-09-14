@@ -1,6 +1,6 @@
 # SINZIN
 
-SINZIN is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sun, 13 Sept 2026, next at Organ Bar, Tokyo on Mon, 14 Sept 2026.
+SINZIN is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Mon, 14 Sept 2026, next at Organ Bar, Tokyo on Mon, 14 Sept 2026.
 
 SINZIN is a techno and house artist based in Japan, tracked on soundcheck, with 94 sets logged across Tokyo. Often billed alongside SIGNAL (JP), TOBI and Da Yama. Next up: Organ Bar, Tokyo on Mon 14 Sept.
 
@@ -26,4 +26,4 @@ SINZIN is a techno and house artist based in Japan, tracked on soundcheck, with 
 
 SIGNAL (JP), TOBI, Da Yama
 
-*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sinzin/)*
+*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sinzin/)*

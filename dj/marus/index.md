@@ -1,8 +1,8 @@
 # Mar/us
 
-Mar/us is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Sun, 13 Sept 2026, next at AUX Club, Athens on Sat, 19 Sept 2026.
+Mar/us is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Mon, 14 Sept 2026, next at AUX Club, Athens on Sat, 19 Sept 2026.
 
-Mar/us is a techno and house artist tracked on soundcheck, with 88 sets logged across Amsterdam, Athens, Bangkok and Berlin and 23 more. Often billed alongside Cristian Marras, Samantha Togni and BOYCA. Next up: AUX Club, Athens on Sat 19 Sept.
+Mar/us is a techno and house artist tracked on soundcheck, with 89 sets logged across Amsterdam, Athens, Bangkok and Berlin and 24 more. Often billed alongside Cristian Marras, Metaraph and Samantha Togni. Next up: AUX Club, Athens on Sat 19 Sept.
 
 ## Upcoming shows
 
@@ -28,6 +28,6 @@ Mar/us is a techno and house artist tracked on soundcheck, with 88 sets logged a
 
 ## Shares bills with
 
-Cristian Marras, Samantha Togni, BOYCA
+Cristian Marras, Metaraph, Samantha Togni
 
-*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/marus/)*
+*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/marus/)*

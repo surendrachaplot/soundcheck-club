@@ -1,6 +1,6 @@
 # Deceit
 
-Deceit is a House and Electronica artist with 2 upcoming club dates listed on soundcheck as of Sun, 13 Sept 2026, next at Heave Festival, Madrid on Fri, 25 Sept 2026.
+Deceit is a House and Electronica artist with 2 upcoming club dates listed on soundcheck as of Mon, 14 Sept 2026, next at Heave Festival, Madrid on Fri, 25 Sept 2026.
 
 Deceit is a house and electronica artist based in Spain, tracked on soundcheck, with 17 sets logged across Barcelona, Madrid and Rome. Often billed alongside Anso, Axis Mundi and Baldman. Next up: Heave Festival, Madrid on Fri 25 Sept.
 
@@ -26,4 +26,4 @@ Deceit is a house and electronica artist based in Spain, tracked on soundcheck, 
 
 Anso, Axis Mundi, Baldman
 
-*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/deceit/)*
+*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/deceit/)*

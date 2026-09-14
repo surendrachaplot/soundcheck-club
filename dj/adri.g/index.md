@@ -1,19 +1,19 @@
 # ADRI.G
 
-ADRI.G is a Techno and Industrial artist with 3 upcoming club dates listed on soundcheck as of Sun, 13 Sept 2026, next at Sala Siroco, Madrid on Sun, 13 Sept 2026.
+ADRI.G is a Techno and Industrial artist with 2 upcoming club dates listed on soundcheck as of Mon, 14 Sept 2026, next at Lasociaciøn, Madrid on Fri, 18 Sept 2026.
 
-ADRI.G is a techno and industrial artist based in Spain, tracked on soundcheck, with 47 sets logged across Ibiza and Madrid. Often billed alongside VanLL, Drucal and Trasto. Next up: Sala Siroco, Madrid on Sun 13 Sept.
+ADRI.G is a techno and industrial artist based in Spain, tracked on soundcheck, with 47 sets logged across Ibiza and Madrid. Often billed alongside VanLL, Drucal and Trasto. Next up: Lasociaciøn, Madrid on Fri 18 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sun, 13 Sept 2026 | Sala Siroco | Madrid |
 | Fri, 18 Sept 2026 | Lasociaciøn | Madrid |
 | Fri, 2 Oct 2026 | Esbirra Ibiza | Ibiza |
 
 ## Recently played
 
+- Sala Siroco, Madrid — Sun, 13 Sept 2026
 - Lasociaciøn, Madrid — Sat, 12 Sept 2026
 - Sala Siroco, Madrid — Sun, 7 Jun 2026
 - Lasociaciøn, Madrid — Sat, 30 May 2026
@@ -21,10 +21,9 @@ ADRI.G is a techno and industrial artist based in Spain, tracked on soundcheck, 
 - Lasociaciøn, Madrid — Fri, 24 Apr 2026
 - Sala Siroco, Madrid — Sun, 12 Apr 2026
 - TBA, Madrid — Sat, 11 Apr 2026
-- Lasociaciøn, Madrid — Fri, 3 Apr 2026
 
 ## Shares bills with
 
 VanLL, Drucal, Trasto
 
-*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/adri.g/)*
+*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/adri.g/)*

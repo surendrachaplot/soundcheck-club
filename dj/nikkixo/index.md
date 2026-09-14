@@ -1,6 +1,6 @@
 # NIKKI XO
 
-NIKKI XO is a Deep House and House artist with 1 upcoming club date listed on soundcheck as of Sun, 13 Sept 2026, next at Two Tribes CAMPFIRE, London on Fri, 25 Sept 2026.
+NIKKI XO is a Deep House and House artist with 1 upcoming club date listed on soundcheck as of Mon, 14 Sept 2026, next at Two Tribes CAMPFIRE, London on Fri, 25 Sept 2026.
 
 NIKKI XO is a deep house and house artist tracked on soundcheck, with 2 sets logged across London. Often billed alongside GYS (TT), Tris (UK) and A.R.I.E.S.. Next up: Two Tribes CAMPFIRE, London on Fri 25 Sept.
 
@@ -18,4 +18,4 @@ NIKKI XO is a deep house and house artist tracked on soundcheck, with 2 sets log
 
 GYS (TT), Tris (UK), A.R.I.E.S.
 
-*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nikkixo/)*
+*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nikkixo/)*

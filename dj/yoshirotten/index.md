@@ -1,6 +1,6 @@
 # YOSHIROTTEN
 
-YOSHIROTTEN is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sun, 13 Sept 2026, next at Mitsuki, Tokyo on Thu, 17 Sept 2026.
+YOSHIROTTEN is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Mon, 14 Sept 2026, next at Mitsuki, Tokyo on Thu, 17 Sept 2026.
 
 YOSHIROTTEN is a house and techno artist based in Japan, tracked on soundcheck, with 29 sets logged across Tokyo. Often billed alongside KZA, JUN INAGAWA and Licaxxx. Next up: Mitsuki, Tokyo on Thu 17 Sept.
 
@@ -26,4 +26,4 @@ YOSHIROTTEN is a house and techno artist based in Japan, tracked on soundcheck, 
 
 KZA, JUN INAGAWA, Licaxxx
 
-*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/yoshirotten/)*
+*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/yoshirotten/)*

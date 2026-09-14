@@ -1,6 +1,6 @@
 # Tronic
 
-Tronic is a Techno and Psytrance artist with 1 upcoming club date listed on soundcheck as of Sun, 13 Sept 2026, next at Mogra, Tokyo on Sun, 11 Oct 2026.
+Tronic is a Techno and Psytrance artist with 1 upcoming club date listed on soundcheck as of Mon, 14 Sept 2026, next at Mogra, Tokyo on Sun, 11 Oct 2026.
 
 Tronic is a techno and psytrance artist tracked on soundcheck, with 6 sets logged across Berlin, Hamburg, Tokyo and Vienna. Often billed alongside 2nd Floor, Abyss and Anna Reusch. Next up: Mogra, Tokyo on Sun 11 Oct.
 
@@ -22,4 +22,4 @@ Tronic is a techno and psytrance artist tracked on soundcheck, with 6 sets logge
 
 2nd Floor, Abyss, Anna Reusch
 
-*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tronic/)*
+*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tronic/)*

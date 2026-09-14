@@ -1,8 +1,8 @@
 # Konduku
 
-Konduku is a Techno and House artist with 12 upcoming club dates listed on soundcheck as of Sun, 13 Sept 2026, next at Fort Mifflin, Philadelphia on Fri, 18 Sept 2026.
+Konduku is a Techno and House artist with 12 upcoming club dates listed on soundcheck as of Mon, 14 Sept 2026, next at Fort Mifflin, Philadelphia on Fri, 18 Sept 2026.
 
-Konduku is a techno and house artist tracked on soundcheck, with 172 sets logged across Amsterdam, Antwerp, Athens and Bangkok and 38 more. Often billed alongside DJ Nobu, Kia (AU) and Woody92. Next up: Fort Mifflin, Philadelphia on Fri 18 Sept.
+Konduku is a techno and house artist tracked on soundcheck, with 173 sets logged across Amsterdam, Antwerp, Athens and Bangkok and 39 more. Often billed alongside DJ Nobu, Kia (AU) and Woody92. Next up: Fort Mifflin, Philadelphia on Fri 18 Sept.
 
 ## Upcoming shows
 
@@ -36,4 +36,4 @@ Konduku is a techno and house artist tracked on soundcheck, with 172 sets logged
 
 DJ Nobu, Kia (AU), Woody92
 
-*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/konduku/)*
+*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/konduku/)*

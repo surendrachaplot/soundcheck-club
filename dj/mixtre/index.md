@@ -1,6 +1,6 @@
 # Mixtre$$
 
-Mixtre$$ is a Techno and Bass artist with 1 upcoming club date listed on soundcheck as of Sun, 13 Sept 2026, next at Chunhee, Seoul on Fri, 18 Sept 2026.
+Mixtre$$ is a Techno and Bass artist with 1 upcoming club date listed on soundcheck as of Mon, 14 Sept 2026, next at Chunhee, Seoul on Fri, 18 Sept 2026.
 
 Mixtre$$ is a techno and bass artist tracked on soundcheck, with 5 sets logged across Seoul. Often billed alongside ANDOW, Annie and Artwork. Next up: Chunhee, Seoul on Fri 18 Sept.
 
@@ -21,4 +21,4 @@ Mixtre$$ is a techno and bass artist tracked on soundcheck, with 5 sets logged a
 
 ANDOW, Annie, Artwork
 
-*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mixtre/)*
+*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mixtre/)*

@@ -1,8 +1,8 @@
 # Marlon Hoffstadt
 
-Marlon Hoffstadt is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sun, 13 Sept 2026, next at Waterfront Park in San Diego, San Diego on Sat, 26 Sept 2026.
+Marlon Hoffstadt is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Mon, 14 Sept 2026, next at Waterfront Park in San Diego, San Diego on Sat, 26 Sept 2026.
 
-Marlon Hoffstadt is a techno and house artist tracked on soundcheck, with 124 sets logged across Amsterdam, Antwerp, Barcelona and Basel and 43 more. Often billed alongside MALUGI, Surf 2 Glory and I Hate Models. Next up: Waterfront Park in San Diego, Sandiego on Sat 26 Sept.
+Marlon Hoffstadt is a techno and house artist tracked on soundcheck, with 125 sets logged across Amsterdam, Antwerp, Barcelona and Basel and 44 more. Often billed alongside MALUGI, Surf 2 Glory and I Hate Models. Next up: Waterfront Park in San Diego, Sandiego on Sat 26 Sept.
 
 ## Upcoming shows
 
@@ -26,4 +26,4 @@ Marlon Hoffstadt is a techno and house artist tracked on soundcheck, with 124 se
 
 MALUGI, Surf 2 Glory, I Hate Models
 
-*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/marlonhoffstadt/)*
+*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/marlonhoffstadt/)*

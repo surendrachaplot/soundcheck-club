@@ -1,6 +1,6 @@
 # KUBICK, SIMONE WELLE at Resume Valencia
 
-KUBICK, SIMONE WELLE at Resume Valencia on Fri 18 Sept, Valencia. Tech House and Acid. Preview the line-up and save it on soundcheck.
+KUBICK, SIMONE WELLE at Resume Valencia on Fri 18 Sept, Valencia. Acid and Tech House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

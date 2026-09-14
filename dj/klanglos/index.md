@@ -1,6 +1,6 @@
 # Klanglos
 
-Klanglos is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sun, 13 Sept 2026, next at Die Rakete, Nürnberg on Fri, 11 Dec 2026.
+Klanglos is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 14 Sept 2026, next at Die Rakete, Nürnberg on Fri, 11 Dec 2026.
 
 Klanglos is a techno and house artist tracked on soundcheck, with 50 sets logged across Amsterdam, Basel, Berlin and Cologne and 9 more. Often billed alongside Mark Dekoda, Sylvie Miles and Ben Dust. Next up: Die Rakete, Nurnberg on Fri 11 Dec.
 
@@ -25,4 +25,4 @@ Klanglos is a techno and house artist tracked on soundcheck, with 50 sets logged
 
 Mark Dekoda, Sylvie Miles, Ben Dust
 
-*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/klanglos/)*
+*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/klanglos/)*

@@ -1,6 +1,6 @@
 # Ayato
 
-Ayato is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sun, 13 Sept 2026, next at Forestlimit, Tokyo on Sun, 6 Dec 2026.
+Ayato is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 14 Sept 2026, next at Forestlimit, Tokyo on Sun, 6 Dec 2026.
 
 Ayato is a techno and house artist tracked on soundcheck, with 22 sets logged across Osaka and Tokyo. Often billed alongside SASAKI Hiroaki, ALEXANDER M and CARTOON. Next up: Forestlimit, Tokyo on Sun 6 Dec.
 
@@ -25,4 +25,4 @@ Ayato is a techno and house artist tracked on soundcheck, with 22 sets logged ac
 
 SASAKI Hiroaki, ALEXANDER M, CARTOON
 
-*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ayato/)*
+*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ayato/)*

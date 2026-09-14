@@ -1,14 +1,13 @@
 # STERAC
 
-STERAC is a Techno and House artist with 7 upcoming club dates listed on soundcheck as of Sun, 13 Sept 2026, next at Barragem da Queimadela, Porto on Thu, 10 Sept 2026.
+STERAC is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Mon, 14 Sept 2026, next at Openluchttheater Amersfoort, Amsterdam on Fri, 18 Sept 2026.
 
-STERAC is a techno and house artist based in Netherlands, tracked on soundcheck, with 87 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 27 more. Often billed alongside Lady Starlight, Steve Rachmad and Ben Klock. Next up: Barragem da Queimadela, Porto on Thu 10 Sept.
+STERAC is a techno and house artist based in Netherlands, tracked on soundcheck, with 87 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 27 more. Often billed alongside Lady Starlight, Steve Rachmad and Ben Klock. Next up: Openluchttheater Amersfoort, Amsterdam on Fri 18 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Thu, 10 Sept 2026 | Barragem da Queimadela | Porto |
 | Fri, 18 Sept 2026 | Openluchttheater Amersfoort | Amsterdam |
 | Fri, 18 Sept 2026 | Paradiso | Amsterdam |
 | Sat, 26 Sept 2026 | Open Ground | Wuppertal |
@@ -31,4 +30,4 @@ STERAC is a techno and house artist based in Netherlands, tracked on soundcheck,
 
 Lady Starlight, Steve Rachmad, Ben Klock
 
-*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sterac/)*
+*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sterac/)*

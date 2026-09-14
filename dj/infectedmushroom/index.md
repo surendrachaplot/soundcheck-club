@@ -1,8 +1,8 @@
 # Infected Mushroom
 
-Infected Mushroom is a Psytrance and Trance artist with 3 upcoming club dates listed on soundcheck as of Sun, 13 Sept 2026, next at Alte Kaserne, Zurich on Sat, 19 Sept 2026.
+Infected Mushroom is a Psytrance and Trance artist with 3 upcoming club dates listed on soundcheck as of Mon, 14 Sept 2026, next at Alte Kaserne, Zurich on Sat, 19 Sept 2026.
 
-Infected Mushroom is a psytrance and trance artist tracked on soundcheck, with 48 sets logged across Athens, Austin, Berlin and Boston and 22 more. Often billed alongside Angerfist, Giorgia Angiuli and Astrix. Next up: Alte Kaserne, Zurich on Sat 19 Sept.
+Infected Mushroom is a psytrance and trance artist tracked on soundcheck, with 49 sets logged across Athens, Austin, Berlin and Boston and 23 more. Often billed alongside Angerfist, Giorgia Angiuli and Astrix. Next up: Alte Kaserne, Zurich on Sat 19 Sept.
 
 ## Upcoming shows
 
@@ -27,4 +27,4 @@ Infected Mushroom is a psytrance and trance artist tracked on soundcheck, with 4
 
 Angerfist, Giorgia Angiuli, Astrix
 
-*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/infectedmushroom/)*
+*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/infectedmushroom/)*

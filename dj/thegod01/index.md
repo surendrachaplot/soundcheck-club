@@ -1,6 +1,6 @@
 # THEGOD01
 
-THEGOD01 is a Techno artist with 2 upcoming club dates listed on soundcheck as of Sun, 13 Sept 2026, next at Azimut Club, Turin on Sat, 10 Oct 2026.
+THEGOD01 is a Techno artist with 2 upcoming club dates listed on soundcheck as of Mon, 14 Sept 2026, next at Azimut Club, Turin on Sat, 10 Oct 2026.
 
 THEGOD01 is a techno artist based in Italy, tracked on soundcheck, with 9 sets logged across Turin. Often billed alongside Rytm, ALNA and Teeo. Next up: Azimut Club, Turin on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ THEGOD01 is a techno artist based in Italy, tracked on soundcheck, with 9 sets l
 
 Rytm, ALNA, Teeo
 
-*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/thegod01/)*
+*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/thegod01/)*

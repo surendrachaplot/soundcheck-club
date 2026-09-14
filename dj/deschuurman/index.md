@@ -1,8 +1,8 @@
 # De Schuurman
 
-De Schuurman is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sun, 13 Sept 2026, next at Fort Mifflin, Philadelphia on Fri, 18 Sept 2026.
+De Schuurman is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Mon, 14 Sept 2026, next at Fort Mifflin, Philadelphia on Fri, 18 Sept 2026.
 
-De Schuurman is a techno and house artist tracked on soundcheck, with 57 sets logged across Amsterdam, Athens, Barcelona and Berlin and 17 more. Often billed alongside Catu Diosis, Nsasi and Kampire. Next up: Fort Mifflin, Philadelphia on Fri 18 Sept.
+De Schuurman is a techno and house artist tracked on soundcheck, with 58 sets logged across Amsterdam, Athens, Barcelona and Berlin and 18 more. Often billed alongside Catu Diosis, Nsasi and Kampire. Next up: Fort Mifflin, Philadelphia on Fri 18 Sept.
 
 ## Upcoming shows
 
@@ -26,4 +26,4 @@ De Schuurman is a techno and house artist tracked on soundcheck, with 57 sets lo
 
 Catu Diosis, Nsasi, Kampire
 
-*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/deschuurman/)*
+*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/deschuurman/)*

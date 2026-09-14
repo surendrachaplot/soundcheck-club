@@ -1,6 +1,6 @@
 # Miscellania
 
-Miscellania is a music venue in Melbourne with 6 upcoming nights listed on soundcheck as of Sun, 13 Sept 2026; the next is "MUTATIONS feat. SOVBLKPSSY b2b Rydeen, MIRASIA b2b Kuya Neil, Karani" on Fri, 18 Sept 2026.
+Miscellania is a music venue in Melbourne with 6 upcoming nights listed on soundcheck as of Mon, 14 Sept 2026; the next is "MUTATIONS feat. SOVBLKPSSY b2b Rydeen, MIRASIA b2b Kuya Neil, Karani" on Fri, 18 Sept 2026.
 
 Miscellania is a music venue in Melbourne listed on soundcheck. 6 upcoming nights, with line-ups including ATARANGI, Elli Altenberger, GLOW (KR) and Karani and 2 more. Browse upcoming dates, start times and who's playing. 2/401 Swanston St, Melbourne VIC 3004.
 
@@ -19,4 +19,4 @@ Miscellania is a music venue in Melbourne listed on soundcheck. 6 upcoming night
 
 2/401 Swanston St, Melbourne VIC 3004, Melbourne
 
-*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/miscellania/)*
+*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/miscellania/)*

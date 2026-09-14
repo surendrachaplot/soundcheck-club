@@ -1,6 +1,6 @@
 # Gheordu
 
-Gheordu is a Techno and Hardcore artist with 1 upcoming club date listed on soundcheck as of Sun, 13 Sept 2026, next at control, Bucharest on Sat, 19 Sept 2026.
+Gheordu is a Techno and Hardcore artist with 1 upcoming club date listed on soundcheck as of Mon, 14 Sept 2026, next at control, Bucharest on Sat, 19 Sept 2026.
 
 Gheordu is a techno and hardcore artist based in Romania, tracked on soundcheck, with 10 sets logged across Bucharest and Krakow. Often billed alongside NTHR, 1993 and Dominic Leix. Next up: control, Bucharest on Sat 19 Sept.
 
@@ -25,4 +25,4 @@ Gheordu is a techno and hardcore artist based in Romania, tracked on soundcheck,
 
 NTHR, 1993, Dominic Leix
 
-*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/gheordu/)*
+*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/gheordu/)*

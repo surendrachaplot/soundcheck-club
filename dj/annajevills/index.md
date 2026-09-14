@@ -1,6 +1,6 @@
 # Anna Jevills
 
-Anna Jevills is a Techno and Acid artist with 1 upcoming club date listed on soundcheck as of Sun, 13 Sept 2026, next at Sala ART, Madrid on Sat, 3 Oct 2026.
+Anna Jevills is a Techno and Acid artist with 1 upcoming club date listed on soundcheck as of Mon, 14 Sept 2026, next at Sala ART, Madrid on Sat, 3 Oct 2026.
 
 Anna Jevills is a techno and acid artist based in Spain, tracked on soundcheck, with 36 sets logged across Barcelona, Berlin, Madrid and Malaga and 1 more. Often billed alongside Pulpix, Syperx and Nixy. Next up: Sala ART, Madrid on Sat 3 Oct.
 
@@ -25,4 +25,4 @@ Anna Jevills is a techno and acid artist based in Spain, tracked on soundcheck, 
 
 Pulpix, Syperx, Nixy
 
-*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/annajevills/)*
+*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/annajevills/)*

@@ -1,8 +1,8 @@
 # Glayden
 
-Glayden is a Trance and Techno artist with 2 upcoming club dates listed on soundcheck as of Sun, 13 Sept 2026, next at Blå, Oslo on Fri, 25 Sept 2026.
+Glayden is a Trance and Experimental artist with 2 upcoming club dates listed on soundcheck as of Mon, 14 Sept 2026, next at Blå, Oslo on Fri, 25 Sept 2026.
 
-Glayden is a trance and techno artist based in Finland, tracked on soundcheck, with 26 sets logged across Berlin, Cologne, Helsinki and Oslo and 5 more. Often billed alongside Niko Demus, MFM (FI) and Paul Seul. Next up: Blå, Oslo on Fri 25 Sept.
+Glayden is a trance and experimental artist based in Finland, tracked on soundcheck, with 41 sets logged across Berlin, Cologne, Helsinki and Oslo and 5 more. Often billed alongside Niko Demus, MFM (FI) and DJ JVS. Next up: Blå, Oslo on Fri 25 Sept.
 
 ## Upcoming shows
 
@@ -24,6 +24,6 @@ Glayden is a trance and techno artist based in Finland, tracked on soundcheck, w
 
 ## Shares bills with
 
-Niko Demus, MFM (FI), Paul Seul
+Niko Demus, MFM (FI), DJ JVS
 
-*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/glayden/)*
+*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/glayden/)*

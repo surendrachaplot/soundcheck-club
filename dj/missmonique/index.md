@@ -1,6 +1,6 @@
 # Miss Monique
 
-Miss Monique is a Techno and House artist with 9 upcoming club dates listed on soundcheck as of Sun, 13 Sept 2026, next at Ushuaïa Ibiza, Ibiza on Mon, 14 Sept 2026.
+Miss Monique is a Techno and House artist with 9 upcoming club dates listed on soundcheck as of Mon, 14 Sept 2026, next at Ushuaïa Ibiza, Ibiza on Mon, 14 Sept 2026.
 
 Miss Monique is a techno and house artist tracked on soundcheck, with 230 sets logged across Amsterdam, Athens, Austin and Bali and 51 more. Often billed alongside Hugel, Artbat and CamelPhat. Next up: Ushuaïa Ibiza, Ibiza on Mon 14 Sept.
 
@@ -33,4 +33,4 @@ Miss Monique is a techno and house artist tracked on soundcheck, with 230 sets l
 
 Hugel, Artbat, CamelPhat
 
-*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/missmonique/)*
+*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/missmonique/)*

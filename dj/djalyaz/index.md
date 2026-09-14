@@ -1,6 +1,6 @@
 # Dj Alyaz
 
-Dj Alyaz is a Dubstep and Grime artist with 3 upcoming club dates listed on soundcheck as of Sun, 13 Sept 2026, next at Fuchs2, Prague on Sat, 26 Sept 2026.
+Dj Alyaz is a Dubstep and Grime artist with 3 upcoming club dates listed on soundcheck as of Mon, 14 Sept 2026, next at Fuchs2, Prague on Sat, 26 Sept 2026.
 
 Dj Alyaz is a dubstep and grime artist based in Czech Republic, tracked on soundcheck, with 24 sets logged across Berlin, Prague and Riga. Often billed alongside Sir Free, JohnyM and Tereza.Pro. Next up: Fuchs2, Prague on Sat 26 Sept.
 
@@ -27,4 +27,4 @@ Dj Alyaz is a dubstep and grime artist based in Czech Republic, tracked on sound
 
 Sir Free, JohnyM, Tereza.Pro
 
-*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djalyaz/)*
+*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djalyaz/)*

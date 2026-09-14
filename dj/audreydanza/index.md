@@ -1,8 +1,8 @@
 # Audrey Danza
 
-Audrey Danza is a Techno and Trance artist with 3 upcoming club dates listed on soundcheck as of Sun, 13 Sept 2026, next at TBA - WAREHOUSE ST DENIS, Paris on Sat, 3 Oct 2026.
+Audrey Danza is a Techno and Trance artist with 3 upcoming club dates listed on soundcheck as of Mon, 14 Sept 2026, next at TBA - WAREHOUSE ST DENIS, Paris on Sat, 3 Oct 2026.
 
-Audrey Danza is a techno and trance artist tracked on soundcheck, with 180 sets logged across Amsterdam, Antwerp, Barcelona and Basel and 37 more. Often billed alongside Kasper Marott, Anetha and DJ TOOL. Next up: TBA - WAREHOUSE ST DENIS, Paris on Sat 3 Oct.
+Audrey Danza is a techno and trance artist tracked on soundcheck, with 181 sets logged across Amsterdam, Antwerp, Barcelona and Basel and 37 more. Often billed alongside Kasper Marott, Anetha and DJ TOOL. Next up: TBA - WAREHOUSE ST DENIS, Paris on Sat 3 Oct.
 
 ## Upcoming shows
 
@@ -27,4 +27,4 @@ Audrey Danza is a techno and trance artist tracked on soundcheck, with 180 sets 
 
 Kasper Marott, Anetha, DJ TOOL
 
-*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/audreydanza/)*
+*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/audreydanza/)*

@@ -1,8 +1,8 @@
 # TRIPTYKH
 
-TRIPTYKH is a Techno and Industrial artist with 4 upcoming club dates listed on soundcheck as of Sun, 13 Sept 2026, next at TBA - Port of Belgrade, Belgrade on Fri, 2 Oct 2026.
+TRIPTYKH is a Techno and Industrial artist with 4 upcoming club dates listed on soundcheck as of Mon, 14 Sept 2026, next at TBA - Port of Belgrade, Belgrade on Fri, 2 Oct 2026.
 
-TRIPTYKH is a techno and industrial artist based in United States of America, tracked on soundcheck, with 46 sets logged across Antwerp, Auckland, Austin and Barcelona and 27 more. Often billed alongside Aiden (DE), Kobosil and Ornella. Next up: TBA - Port of Belgrade, Belgrade on Fri 2 Oct.
+TRIPTYKH is a techno and industrial artist based in United States of America, tracked on soundcheck, with 47 sets logged across Antwerp, Auckland, Austin and Barcelona and 28 more. Often billed alongside Aiden (DE), Kobosil and Ornella. Next up: TBA - Port of Belgrade, Belgrade on Fri 2 Oct.
 
 ## Upcoming shows
 
@@ -28,4 +28,4 @@ TRIPTYKH is a techno and industrial artist based in United States of America, tr
 
 Aiden (DE), Kobosil, Ornella
 
-*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/triptykh/)*
+*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/triptykh/)*

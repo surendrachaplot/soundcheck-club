@@ -1,6 +1,6 @@
 # APRS
 
-APRS is a Techno and Ambient artist with 2 upcoming club dates listed on soundcheck as of Sun, 13 Sept 2026, next at Ikii, Berlin on Tue, 6 Oct 2026.
+APRS is a Techno and Ambient artist with 2 upcoming club dates listed on soundcheck as of Mon, 14 Sept 2026, next at Ikii, Berlin on Tue, 6 Oct 2026.
 
 APRS is a techno and ambient artist tracked on soundcheck, with 40 sets logged across Amsterdam, Berlin, Leipzig and Lisbon. Often billed alongside Serenus, Am Nil and Decoder. Next up: Ikii, Berlin on Tue 6 Oct.
 
@@ -26,4 +26,4 @@ APRS is a techno and ambient artist tracked on soundcheck, with 40 sets logged a
 
 Serenus, Am Nil, Decoder
 
-*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/aprs/)*
+*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/aprs/)*

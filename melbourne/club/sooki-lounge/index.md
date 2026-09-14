@@ -1,6 +1,6 @@
 # Sooki Lounge
 
-Sooki Lounge is a music venue in Melbourne with 9 upcoming nights listed on soundcheck as of Sun, 13 Sept 2026; the next is "TERRAIN" on Fri, 18 Sept 2026.
+Sooki Lounge is a music venue in Melbourne with 9 upcoming nights listed on soundcheck as of Mon, 14 Sept 2026; the next is "TERRAIN" on Fri, 18 Sept 2026.
 
 Sooki Lounge is a music venue in Melbourne listed on soundcheck. 9 upcoming nights, with line-ups including ALIEN-A, CAITY WATSON, DJ BJ and Ranjit Nijjer and 2 more. Browse upcoming dates, start times and who's playing. 1648 Burwood Hwy, Belgrave, Victoria, Australia 3160.
 
@@ -22,4 +22,4 @@ Sooki Lounge is a music venue in Melbourne listed on soundcheck. 9 upcoming nigh
 
 1648 Burwood Hwy, Belgrave, Victoria, Australia 3160, Melbourne
 
-*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/sooki-lounge/)*
+*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/sooki-lounge/)*

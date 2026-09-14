@@ -1,8 +1,8 @@
 # Volvox
 
-Volvox is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sun, 13 Sept 2026, next at KREUZWERK, Berlin on Fri, 18 Sept 2026.
+Volvox is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Mon, 14 Sept 2026, next at KREUZWERK, Berlin on Fri, 18 Sept 2026.
 
-Volvox is a techno and house artist tracked on soundcheck, with 148 sets logged across Amsterdam, Athens, Austin and Bali and 41 more. Often billed alongside Boris, Ellen Allien and Elli Acula. Next up: KREUZWERK, Berlin on Fri 18 Sept.
+Volvox is a techno and house artist tracked on soundcheck, with 149 sets logged across Amsterdam, Athens, Austin and Bali and 42 more. Often billed alongside Boris, Ellen Allien and Elli Acula. Next up: KREUZWERK, Berlin on Fri 18 Sept.
 
 ## Upcoming shows
 
@@ -26,4 +26,4 @@ Volvox is a techno and house artist tracked on soundcheck, with 148 sets logged 
 
 Boris, Ellen Allien, Elli Acula
 
-*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/volvox/)*
+*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/volvox/)*

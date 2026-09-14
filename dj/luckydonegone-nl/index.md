@@ -1,14 +1,13 @@
 # Lucky Done Gone
 
-Lucky Done Gone is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Sun, 13 Sept 2026, next at Woodstock'69, Amsterdam on Sun, 13 Sept 2026.
+Lucky Done Gone is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Mon, 14 Sept 2026, next at Theater Amsterdam, Amsterdam on Fri, 23 Oct 2026.
 
-Lucky Done Gone is a house and techno artist based in Netherlands, tracked on soundcheck, with 109 sets logged across Amsterdam, Bali, Barcelona and Lisbon and 4 more. Often billed alongside Moody Mehran, Tjade and Tsepo. Next up: Woodstock'69, Amsterdam on Sun 13 Sept.
+Lucky Done Gone is a house and techno artist based in Netherlands, tracked on soundcheck, with 109 sets logged across Amsterdam, Bali, Barcelona and Lisbon and 4 more. Often billed alongside Moody Mehran, Tjade and Tsepo. Next up: Theater Amsterdam, Amsterdam on Fri 23 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sun, 13 Sept 2026 | Woodstock'69 | Amsterdam |
 | Fri, 23 Oct 2026 | Theater Amsterdam | Amsterdam |
 | Fri, 23 Oct 2026 | Parallel | Amsterdam |
 | Sat, 24 Oct 2026 | Ijland | Amsterdam |
@@ -16,6 +15,7 @@ Lucky Done Gone is a house and techno artist based in Netherlands, tracked on so
 
 ## Recently played
 
+- Woodstock'69, Amsterdam — Sun, 13 Sept 2026
 - EKKO, Utrecht — Sat, 12 Sept 2026
 - nachbar, Amsterdam — Sat, 8 Aug 2026
 - Lofi, Amsterdam — Sat, 18 Jul 2026
@@ -23,10 +23,9 @@ Lucky Done Gone is a house and techno artist based in Netherlands, tracked on so
 - SISSI'S Amsterdam, Amsterdam — Sat, 4 Jul 2026
 - Olympisch Stadion, Amsterdam — Tue, 5 May 2026
 - SISSI'S Amsterdam, Amsterdam — Mon, 27 Apr 2026
-- SISSI'S Amsterdam, Amsterdam — Mon, 27 Apr 2026
 
 ## Shares bills with
 
 Moody Mehran, Tjade, Tsepo
 
-*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/luckydonegone-nl/)*
+*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/luckydonegone-nl/)*

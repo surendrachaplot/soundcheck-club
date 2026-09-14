@@ -1,6 +1,6 @@
 # Sleep D
 
-Sleep D is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sun, 13 Sept 2026, next at Second Story Studios, Melbourne on Fri, 25 Sept 2026.
+Sleep D is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 14 Sept 2026, next at Second Story Studios, Melbourne on Fri, 25 Sept 2026.
 
 Sleep D is a techno and house artist tracked on soundcheck, with 80 sets logged across Bali, Bangkok, Berlin and Brisbane and 17 more. Often billed alongside DJ PGZ, Moopie and Darcy Justice. Next up: Second Story Studios, Melbourne on Fri 25 Sept.
 
@@ -25,4 +25,4 @@ Sleep D is a techno and house artist tracked on soundcheck, with 80 sets logged 
 
 DJ PGZ, Moopie, Darcy Justice
 
-*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sleepd/)*
+*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sleepd/)*

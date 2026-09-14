@@ -1,6 +1,6 @@
 # Oliver Kristian
 
-Oliver Kristian is a Electro and House artist with 1 upcoming club date listed on soundcheck as of Sun, 13 Sept 2026, next at Starlane Pizza Bar, London on Fri, 13 Nov 2026.
+Oliver Kristian is a Electro and House artist with 1 upcoming club date listed on soundcheck as of Mon, 14 Sept 2026, next at Starlane Pizza Bar, London on Fri, 13 Nov 2026.
 
 Oliver Kristian is an electro and house artist based in United Kingdom, tracked on soundcheck, with 37 sets logged across Belfast, Bristol, Leeds and London and 1 more. Often billed alongside Torin Grady, Isaac Frost and Kennedy (UK). Next up: Starlane Pizza Bar, London on Fri 13 Nov.
 
@@ -25,4 +25,4 @@ Oliver Kristian is an electro and house artist based in United Kingdom, tracked 
 
 Torin Grady, Isaac Frost, Kennedy (UK)
 
-*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/oliverkristian/)*
+*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/oliverkristian/)*

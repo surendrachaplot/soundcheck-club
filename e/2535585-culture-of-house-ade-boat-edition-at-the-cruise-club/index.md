@@ -1,6 +1,6 @@
 # Culture of House | ADE Boat Edition at The Cruise Club
 
-Culture of House | ADE Boat Edition at The Cruise Club on Sat 24 Oct, Amsterdam. 4 acts on the bill: LAMPETEE, Melokolektiv, OSFUR and Stefan Rose. House and Deep House. Preview the line-up and save it on soundcheck.
+Culture of House | ADE Boat Edition at The Cruise Club on Sat 24 Oct, Amsterdam. 5 acts on the bill: Fiction Official, LAMPETEE, Melokolektiv and OSFUR and 1 more. House and Deep House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ Culture of House | ADE Boat Edition at The Cruise Club on Sat 24 Oct, Amsterdam.
 
 ## Line-up
 
+- Fiction Official
 - LAMPETEE
 - Melokolektiv
 - OSFUR

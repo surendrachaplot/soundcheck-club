@@ -1,14 +1,13 @@
 # Chez de Milo
 
-Chez de Milo is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sun, 13 Sept 2026, next at The Cause, London on Sat, 12 Sept 2026.
+Chez de Milo is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 14 Sept 2026, next at Gaffe, London on Fri, 9 Oct 2026.
 
-Chez de Milo is a house and techno artist tracked on soundcheck, with 127 sets logged across Amsterdam, Bangkok, Barcelona and Belgrade and 19 more. Often billed alongside Ellie Stokes, Dave Harvey and Ivan Smagghe. Next up: The Cause, London on Sat 12 Sept.
+Chez de Milo is a house and techno artist tracked on soundcheck, with 127 sets logged across Amsterdam, Bangkok, Barcelona and Belgrade and 19 more. Often billed alongside Ellie Stokes, Dave Harvey and Ivan Smagghe. Next up: Gaffe, London on Fri 9 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 12 Sept 2026 | The Cause | London |
 | Fri, 9 Oct 2026 | Gaffe | London |
 
 ## Recently played
@@ -26,4 +25,4 @@ Chez de Milo is a house and techno artist tracked on soundcheck, with 127 sets l
 
 Ellie Stokes, Dave Harvey, Ivan Smagghe
 
-*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/chezdemilo/)*
+*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/chezdemilo/)*

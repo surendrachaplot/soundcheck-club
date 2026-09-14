@@ -1,6 +1,6 @@
 # The Ulster Sports Club
 
-The Ulster Sports Club is a music venue in Belfast with 7 upcoming nights listed on soundcheck as of Sun, 13 Sept 2026; the next is "Plain Sailing's Culture Night Special - Holly Lester & Residents" on Fri, 18 Sept 2026.
+The Ulster Sports Club is a music venue in Belfast with 7 upcoming nights listed on soundcheck as of Mon, 14 Sept 2026; the next is "Plain Sailing's Culture Night Special - Holly Lester & Residents" on Fri, 18 Sept 2026.
 
 The Ulster Sports Club is a music venue in Belfast listed on soundcheck. 7 upcoming nights, with line-ups including Conor Schmtz, Dusky, Heidi and Holly Lester and 1 more. Browse upcoming dates, start times and who's playing. The Ulster Sports Club 98 High St, Belfast BT1 2BE, Northern Ireland, United Kingdom.
 
@@ -20,4 +20,4 @@ The Ulster Sports Club is a music venue in Belfast listed on soundcheck. 7 upcom
 
 The Ulster Sports Club 98 High St, Belfast BT1 2BE, Northern Ireland, United Kingdom, Belfast
 
-*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/belfast/club/the-ulster-sports-club/)*
+*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/belfast/club/the-ulster-sports-club/)*

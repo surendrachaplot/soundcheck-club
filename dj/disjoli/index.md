@@ -1,6 +1,6 @@
 # Disjoli
 
-Disjoli is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sun, 13 Sept 2026, next at TRAUM, Antwerp on Sat, 14 Nov 2026.
+Disjoli is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 14 Sept 2026, next at TRAUM, Antwerp on Sat, 14 Nov 2026.
 
 Disjoli is a techno and house artist tracked on soundcheck, with 28 sets logged across Antwerp, Brussels, Copenhagen and Ghent and 2 more. Often billed alongside Stanislawa, MZA (FR) and Alycia Bezgo. Next up: TRAUM, Antwerp on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ Disjoli is a techno and house artist tracked on soundcheck, with 28 sets logged 
 
 Stanislawa, MZA (FR), Alycia Bezgo
 
-*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/disjoli/)*
+*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/disjoli/)*

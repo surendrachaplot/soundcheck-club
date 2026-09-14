@@ -1,15 +1,13 @@
 # Cabaret Voltaire
 
-Cabaret Voltaire is a music venue in Edinburgh with 9 upcoming nights listed on soundcheck as of Sun, 13 Sept 2026; the next is "FLY Festival Edinbugh - Sun Afterhours - Cab Vol" on Sun, 13 Sept 2026.
+Cabaret Voltaire is a music venue in Edinburgh with 7 upcoming nights listed on soundcheck as of Mon, 14 Sept 2026; the next is "Temperate Sounds presents: Fresher's Week Special" on Mon, 14 Sept 2026.
 
-Cabaret Voltaire is a music venue in Edinburgh listed on soundcheck. 9 upcoming nights, with line-ups including YVI, Ben Kok (2), Benwal and Casi (UK) and 2 more. Browse upcoming dates, start times and who's playing. 36-38 Blair St; Edinburgh, EH1 1QR; Scotland; United Kingdom.
+Cabaret Voltaire is a music venue in Edinburgh listed on soundcheck. 7 upcoming nights, with line-ups including YVI, Ben Kok (2), Benwal and Casi (UK) and 2 more. Browse upcoming dates, start times and who's playing. 36-38 Blair St; Edinburgh, EH1 1QR; Scotland; United Kingdom.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sun, 13 Sept 2026 | FLY Festival Edinbugh - Sun Afterhours - Cab Vol |  |
-| Sun, 13 Sept 2026 | FLY Festival Edinbugh - Sun Afterhours - La Belle Angèle |  |
 | Mon, 14 Sept 2026 | Temperate Sounds presents: Fresher's Week Special | Mixfits (2), Selecta Slippa, YVI |
 | Wed, 16 Sept 2026 | Night Tube Returns // Crazy P (DJ Set) | Ben Kok (2), Casi (UK), Crazy P, Pheebs |
 | Thu, 17 Sept 2026 | Van Rouge Freshers Special |  |
@@ -22,4 +20,4 @@ Cabaret Voltaire is a music venue in Edinburgh listed on soundcheck. 9 upcoming 
 
 36-38 Blair St; Edinburgh, EH1 1QR; Scotland; United Kingdom, Edinburgh
 
-*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/edinburgh/club/cabaret-voltaire/)*
+*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/edinburgh/club/cabaret-voltaire/)*

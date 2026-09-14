@@ -1,8 +1,8 @@
 # Shygirl
 
-Shygirl is a Pop and Techno artist with 2 upcoming club dates listed on soundcheck as of Sun, 13 Sept 2026, next at Lingotto Fiere, Turin on Thu, 29 Oct 2026.
+Shygirl is a Pop and Techno artist with 2 upcoming club dates listed on soundcheck as of Mon, 14 Sept 2026, next at Lingotto Fiere, Turin on Thu, 29 Oct 2026.
 
-Shygirl is a pop and techno artist based in United Kingdom, tracked on soundcheck, with 43 sets logged across Amsterdam, Barcelona, Berlin and Brisbane and 18 more. Often billed alongside Charlotte de Witte, Eliza Rose and Honey Dijon. Next up: Lingotto Fiere, Turin on Thu 29 Oct.
+Shygirl is a pop and techno artist based in United Kingdom, tracked on soundcheck, with 44 sets logged across Amsterdam, Barcelona, Berlin and Brisbane and 19 more. Often billed alongside Charlotte de Witte, Eliza Rose and Honey Dijon. Next up: Lingotto Fiere, Turin on Thu 29 Oct.
 
 ## Upcoming shows
 
@@ -26,4 +26,4 @@ Shygirl is a pop and techno artist based in United Kingdom, tracked on soundchec
 
 Charlotte de Witte, Eliza Rose, Honey Dijon
 
-*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/shygirl/)*
+*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/shygirl/)*

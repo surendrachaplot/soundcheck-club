@@ -1,6 +1,6 @@
 # JKEY
 
-JKEY is a Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 13 Sept 2026, next at Bünker Mataró, Barcelona on Fri, 2 Oct 2026.
+JKEY is a Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 14 Sept 2026, next at Bünker Mataró, Barcelona on Fri, 2 Oct 2026.
 
 JKEY is a techno artist tracked on soundcheck, with 3 sets logged across Barcelona. Often billed alongside Arcfilter, Comarca and David Villalobos. Next up: Bünker Mataró, Barcelona on Fri 2 Oct.
 
@@ -19,4 +19,4 @@ JKEY is a techno artist tracked on soundcheck, with 3 sets logged across Barcelo
 
 Arcfilter, Comarca, David Villalobos
 
-*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jkey-es/)*
+*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jkey-es/)*

@@ -1,6 +1,6 @@
 # Ritter Butzke
 
-Ritter Butzke is a music venue in Berlin with 25 upcoming nights listed on soundcheck as of Sun, 13 Sept 2026; the next is "Giddy Club - free entry until 7pm" on Fri, 18 Sept 2026.
+Ritter Butzke is a music venue in Berlin with 25 upcoming nights listed on soundcheck as of Mon, 14 Sept 2026; the next is "Giddy Club - free entry until 7pm" on Fri, 18 Sept 2026.
 
 Ritter Butzke is a music venue in Berlin listed on soundcheck. 25 upcoming nights, with line-ups including Aimé You, Aio, Alan Fitzpatrick and Alex Stein and 2 more. Browse upcoming dates, start times and who's playing. Ritterstrasse 26; Kreuzberg; 10969 Berlin; Germany.
 
@@ -23,4 +23,4 @@ Ritter Butzke is a music venue in Berlin listed on soundcheck. 25 upcoming night
 
 Ritterstrasse 26; Kreuzberg; 10969 Berlin; Germany, Berlin
 
-*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/ritter-butzke/)*
+*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/ritter-butzke/)*

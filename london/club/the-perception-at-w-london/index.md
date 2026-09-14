@@ -1,6 +1,6 @@
 # The Perception at W London
 
-The Perception at W London is a music venue in London with 1 upcoming night listed on soundcheck as of Sun, 13 Sept 2026; the next is "AMPLIFIED feat. Heirloom & D.D. Goose" on Fri, 18 Sept 2026.
+The Perception at W London is a music venue in London with 1 upcoming night listed on soundcheck as of Mon, 14 Sept 2026; the next is "AMPLIFIED feat. Heirloom & D.D. Goose" on Fri, 18 Sept 2026.
 
 The Perception at W London is a music venue in London listed on soundcheck. 1 upcoming night. Browse upcoming dates, start times and who's playing. 10 Wardour Street.
 
@@ -14,4 +14,4 @@ The Perception at W London is a music venue in London listed on soundcheck. 1 up
 
 10 Wardour Street, London
 
-*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/the-perception-at-w-london/)*
+*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/the-perception-at-w-london/)*

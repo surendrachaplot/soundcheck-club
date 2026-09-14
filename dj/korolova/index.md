@@ -1,14 +1,13 @@
 # Korolova
 
-Korolova is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Sun, 13 Sept 2026, next at Tapada da Ajuda, Lisbon on Sun, 13 Sept 2026.
+Korolova is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Mon, 14 Sept 2026, next at LIV Nightclub Miami, Miami on Fri, 18 Sept 2026.
 
-Korolova is a techno and house artist tracked on soundcheck, with 126 sets logged across Amsterdam, Antwerp, Athens and Austin and 39 more. Often billed alongside Adam Beyer, Artbat and Franky Wah. Next up: Tapada da Ajuda, Lisbon on Sun 13 Sept.
+Korolova is a techno and house artist tracked on soundcheck, with 126 sets logged across Amsterdam, Antwerp, Athens and Austin and 39 more. Often billed alongside Adam Beyer, Artbat and Franky Wah. Next up: LIV Nightclub Miami, Miami on Fri 18 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sun, 13 Sept 2026 | Tapada da Ajuda | Lisbon |
 | Fri, 18 Sept 2026 | LIV Nightclub Miami | Miami |
 | Sat, 19 Sept 2026 | Randall's Island | New York City |
 | Wed, 30 Sept 2026 | Hï Ibiza | Ibiza |
@@ -16,6 +15,7 @@ Korolova is a techno and house artist tracked on soundcheck, with 126 sets logge
 
 ## Recently played
 
+- Tapada da Ajuda, Lisbon — Sun, 13 Sept 2026
 - Avalon Hollywood, Los Angeles — Sat, 5 Sept 2026
 - Union Park, Chicago — Fri, 4 Sept 2026
 - Ku Barcelona, Barcelona — Sun, 23 Aug 2026
@@ -23,10 +23,9 @@ Korolova is a techno and house artist tracked on soundcheck, with 126 sets logge
 - Amnesia Ibiza, Ibiza — Wed, 29 Jul 2026
 - [UNVRS], Ibiza — Fri, 17 Jul 2026
 - Ushuaïa Ibiza, Ibiza — Mon, 13 Jul 2026
-- Ushuaïa Ibiza, Ibiza — Wed, 1 Jul 2026
 
 ## Shares bills with
 
 Adam Beyer, Artbat, Franky Wah
 
-*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/korolova/)*
+*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/korolova/)*

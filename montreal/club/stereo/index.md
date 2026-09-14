@@ -1,6 +1,6 @@
 # Stereo
 
-Stereo is a music venue in Montreal with 13 upcoming nights listed on soundcheck as of Sun, 13 Sept 2026; the next is "Wata Igarashi - No Police" on Fri, 18 Sept 2026.
+Stereo is a music venue in Montreal with 13 upcoming nights listed on soundcheck as of Mon, 14 Sept 2026; the next is "Wata Igarashi - No Police" on Fri, 18 Sept 2026.
 
 Stereo is a music venue in Montreal listed on soundcheck. 13 upcoming nights, with line-ups including Âme, Andrey Pushkarev, Danny Tenaglia and Deep Dish and 2 more. Browse upcoming dates, start times and who's playing. 858 Saint-Catherine Street East; Montreal, QC H2L 2E3; Canada.
 
@@ -23,4 +23,4 @@ Stereo is a music venue in Montreal listed on soundcheck. 13 upcoming nights, wi
 
 858 Saint-Catherine Street East; Montreal, QC H2L 2E3; Canada, Montreal
 
-*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/montreal/club/stereo/)*
+*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/montreal/club/stereo/)*

@@ -1,6 +1,6 @@
 # Chicago Social Club
 
-Chicago Social Club is a music venue in Amsterdam with 8 upcoming nights listed on soundcheck as of Sun, 13 Sept 2026; the next is "Dirty Workz 20 Years" on Wed, 21 Oct 2026.
+Chicago Social Club is a music venue in Amsterdam with 8 upcoming nights listed on soundcheck as of Mon, 14 Sept 2026; the next is "Dirty Workz 20 Years" on Wed, 21 Oct 2026.
 
 Chicago Social Club is a music venue in Amsterdam listed on soundcheck. 8 upcoming nights, with line-ups including Aaron Hibell, AMMARA, Bondo and Christian Nielsen and 2 more. Browse upcoming dates, start times and who's playing. Leidseplein 12, Korte Leidsedwarsstraat; 1017 Amsterdam.
 
@@ -21,4 +21,4 @@ Chicago Social Club is a music venue in Amsterdam listed on soundcheck. 8 upcomi
 
 Leidseplein 12, Korte Leidsedwarsstraat; 1017 Amsterdam, Amsterdam
 
-*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/chicago-social-club/)*
+*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/chicago-social-club/)*

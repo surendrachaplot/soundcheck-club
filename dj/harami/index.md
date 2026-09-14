@@ -1,6 +1,6 @@
 # Harami
 
-Harami is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sun, 13 Sept 2026, next at Slakthuset, Stockholm on Sat, 19 Sept 2026.
+Harami is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 14 Sept 2026, next at Slakthuset, Stockholm on Sat, 19 Sept 2026.
 
 Harami is a techno and house artist based in Sweden, tracked on soundcheck, with 46 sets logged across Berlin, Copenhagen, Helsinki and Stockholm and 1 more. Often billed alongside Andemon, Billie Jo and Ms. K. Next up: Slakthuset, Stockholm on Sat 19 Sept.
 
@@ -25,4 +25,4 @@ Harami is a techno and house artist based in Sweden, tracked on soundcheck, with
 
 Andemon, Billie Jo, Ms. K
 
-*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/harami/)*
+*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/harami/)*

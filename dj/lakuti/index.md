@@ -1,14 +1,13 @@
 # Lakuti
 
-Lakuti is a House and Techno artist with 6 upcoming club dates listed on soundcheck as of Sun, 13 Sept 2026, next at Haus der Visionäre, Berlin on Fri, 11 Sept 2026.
+Lakuti is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Mon, 14 Sept 2026, next at La Terrrazza, Barcelona on Sat, 19 Sept 2026.
 
-Lakuti is a house and techno artist tracked on soundcheck, with 194 sets logged across Amsterdam, Antwerp, Athens and Bali and 47 more. Often billed alongside Tama Sumo, MUSCLECARS and Massimiliano Pagliara. Next up: Haus der Visionäre, Berlin on Fri 11 Sept.
+Lakuti is a house and techno artist tracked on soundcheck, with 195 sets logged across Amsterdam, Antwerp, Athens and Bali and 48 more. Often billed alongside Tama Sumo, MUSCLECARS and Massimiliano Pagliara. Next up: La Terrrazza, Barcelona on Sat 19 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 11 Sept 2026 | Haus der Visionäre | Berlin |
 | Sat, 19 Sept 2026 | La Terrrazza | Barcelona |
 | Sat, 17 Oct 2026 | Berghain / Panorama Bar / Säule | Berlin |
 | Fri, 30 Oct 2026 | Tangent Gallery | Detroit |
@@ -30,4 +29,4 @@ Lakuti is a house and techno artist tracked on soundcheck, with 194 sets logged 
 
 Tama Sumo, MUSCLECARS, Massimiliano Pagliara
 
-*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lakuti/)*
+*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lakuti/)*

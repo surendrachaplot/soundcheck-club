@@ -1,14 +1,13 @@
 # Fliss Mayo
 
-Fliss Mayo is a Garage and Techno artist with 3 upcoming club dates listed on soundcheck as of Sun, 13 Sept 2026, next at The Cause, London on Sat, 12 Sept 2026.
+Fliss Mayo is a Garage and Techno artist with 2 upcoming club dates listed on soundcheck as of Mon, 14 Sept 2026, next at Phonox, London on Thu, 17 Sept 2026.
 
-Fliss Mayo is a garage and techno artist tracked on soundcheck, with 79 sets logged across Barcelona, Berlin, Bristol and Copenhagen and 12 more. Often billed alongside Dr Dubplate, Bakey and Frazer Ray. Next up: The Cause, London on Sat 12 Sept.
+Fliss Mayo is a garage and techno artist tracked on soundcheck, with 79 sets logged across Barcelona, Berlin, Bristol and Copenhagen and 12 more. Often billed alongside Dr Dubplate, Bakey and Frazer Ray. Next up: Phonox, London on Thu 17 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 12 Sept 2026 | The Cause | London |
 | Thu, 17 Sept 2026 | Phonox | London |
 | Sat, 26 Sept 2026 | Colour Factory | London |
 
@@ -27,4 +26,4 @@ Fliss Mayo is a garage and techno artist tracked on soundcheck, with 79 sets log
 
 Dr Dubplate, Bakey, Frazer Ray
 
-*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/flissmayo/)*
+*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/flissmayo/)*

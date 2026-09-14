@@ -1,6 +1,6 @@
 # Organ Tapes
 
-Organ Tapes is a Experimental and Ambient artist with 1 upcoming club date listed on soundcheck as of Sun, 13 Sept 2026, next at The White Hotel, Manchester on Fri, 2 Oct 2026.
+Organ Tapes is a Experimental and Ambient artist with 1 upcoming club date listed on soundcheck as of Mon, 14 Sept 2026, next at The White Hotel, Manchester on Fri, 2 Oct 2026.
 
 Organ Tapes is an experimental and ambient artist tracked on soundcheck, with 42 sets logged across Amsterdam, Barcelona, Berlin and Brussels and 12 more. Often billed alongside Madjestic Kasual, DJ Python and MUNNI. Next up: The White Hotel, Manchester on Fri 2 Oct.
 
@@ -25,4 +25,4 @@ Organ Tapes is an experimental and ambient artist tracked on soundcheck, with 42
 
 Madjestic Kasual, DJ Python, MUNNI
 
-*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/organtapes/)*
+*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/organtapes/)*

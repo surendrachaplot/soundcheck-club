@@ -1,6 +1,6 @@
 # Cosies
 
-Cosies is a music venue in Bristol with 3 upcoming nights listed on soundcheck as of Sun, 13 Sept 2026; the next is "Scared Money's 5th Birthday!" on Sat, 19 Sept 2026.
+Cosies is a music venue in Bristol with 3 upcoming nights listed on soundcheck as of Mon, 14 Sept 2026; the next is "Scared Money's 5th Birthday!" on Sat, 19 Sept 2026.
 
 Cosies is a music venue in Bristol listed on soundcheck. 3 upcoming nights, with line-ups including Jay Galligan, Owain K and Zobol. Browse upcoming dates, start times and who's playing. 34 Portland Square; Bristol BS2 8RG, United Kingdom.
 
@@ -16,4 +16,4 @@ Cosies is a music venue in Bristol listed on soundcheck. 3 upcoming nights, with
 
 34 Portland Square; Bristol BS2 8RG, United Kingdom, Bristol
 
-*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/bristol/club/cosies/)*
+*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/bristol/club/cosies/)*

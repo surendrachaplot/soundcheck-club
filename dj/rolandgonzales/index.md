@@ -1,6 +1,6 @@
 # Roland Gonzales
 
-Roland Gonzales is a House and Disco artist with 5 upcoming club dates listed on soundcheck as of Sun, 13 Sept 2026, next at Bambi's, Toronto on Fri, 25 Sept 2026.
+Roland Gonzales is a House and Disco artist with 5 upcoming club dates listed on soundcheck as of Mon, 14 Sept 2026, next at Bambi's, Toronto on Fri, 25 Sept 2026.
 
 Roland Gonzales is a house and disco artist based in Canada, tracked on soundcheck, with 142 sets logged across Kyoto, Montreal, Newyorkcity and Toronto and 1 more. Often billed alongside Sakiko Nagai, Toronto Hustle and Kiki LeFreak. Next up: Bambi's, Toronto on Fri 25 Sept.
 
@@ -29,4 +29,4 @@ Roland Gonzales is a house and disco artist based in Canada, tracked on soundche
 
 Sakiko Nagai, Toronto Hustle, Kiki LeFreak
 
-*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/rolandgonzales/)*
+*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/rolandgonzales/)*

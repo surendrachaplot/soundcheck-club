@@ -1,6 +1,6 @@
 # Phil Smart
 
-Phil Smart is a House and Downtempo artist with 1 upcoming club date listed on soundcheck as of Sun, 13 Sept 2026, next at Black Bear Lodge, Brisbane on Sat, 21 Nov 2026.
+Phil Smart is a House and Downtempo artist with 1 upcoming club date listed on soundcheck as of Mon, 14 Sept 2026, next at Black Bear Lodge, Brisbane on Sat, 21 Nov 2026.
 
 Phil Smart is a house and downtempo artist tracked on soundcheck, with 92 sets logged across Brisbane, Melbourne and Sydney. Often billed alongside Francis Xavier, Aidan Beiers and Squidgenini. Next up: Black Bear Lodge, Brisbane on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ Phil Smart is a house and downtempo artist tracked on soundcheck, with 92 sets l
 
 Francis Xavier, Aidan Beiers, Squidgenini
 
-*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/philsmart/)*
+*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/philsmart/)*

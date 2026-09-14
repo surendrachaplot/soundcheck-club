@@ -1,6 +1,6 @@
 # Gant-Man
 
-Gant-Man is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Sun, 13 Sept 2026, next at Podlasie Club, Chicago on Fri, 25 Sept 2026.
+Gant-Man is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Mon, 14 Sept 2026, next at Podlasie Club, Chicago on Fri, 25 Sept 2026.
 
 Gant-Man is a house and deep house artist tracked on soundcheck, with 27 sets logged across Chicago and Losangeles. Often billed alongside Czboogie, John Simmons and Gene Hunt. Next up: Podlasie Club, Chicago on Fri 25 Sept.
 
@@ -25,4 +25,4 @@ Gant-Man is a house and deep house artist tracked on soundcheck, with 27 sets lo
 
 Czboogie, John Simmons, Gene Hunt
 
-*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/gant-man-us/)*
+*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/gant-man-us/)*

@@ -1,15 +1,13 @@
 # Dyed Soundorom
 
-Dyed Soundorom is a House and Tech House artist with 8 upcoming club dates listed on soundcheck as of Sun, 13 Sept 2026, next at The Cause, London on Sat, 12 Sept 2026.
+Dyed Soundorom is a House and Tech House artist with 6 upcoming club dates listed on soundcheck as of Mon, 14 Sept 2026, next at REC Napoli, Naples on Sat, 26 Sept 2026.
 
-Dyed Soundorom is a house and tech house artist tracked on soundcheck, with 224 sets logged across Amsterdam, Antwerp, Athens and Auckland and 54 more. Often billed alongside Shonky, Apollonia and Gene On Earth. Next up: The Cause, London on Sat 12 Sept.
+Dyed Soundorom is a house and tech house artist tracked on soundcheck, with 224 sets logged across Amsterdam, Antwerp, Athens and Auckland and 54 more. Often billed alongside Shonky, Apollonia and Gene On Earth. Next up: REC Napoli, Naples on Sat 26 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 12 Sept 2026 | The Cause | London |
-| Sat, 12 Sept 2026 | Fvtvr | Paris |
 | Sat, 26 Sept 2026 | REC Napoli | Naples |
 | Sun, 27 Sept 2026 | Masada | Milan |
 | Sat, 10 Oct 2026 | FOLD | London |
@@ -32,4 +30,4 @@ Dyed Soundorom is a house and tech house artist tracked on soundcheck, with 224 
 
 Shonky, Apollonia, Gene On Earth
 
-*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dyedsoundorom/)*
+*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dyedsoundorom/)*

@@ -1,6 +1,6 @@
 # Two Tribes CAMPFIRE
 
-Two Tribes CAMPFIRE is a music venue in London with 4 upcoming nights listed on soundcheck as of Sun, 13 Sept 2026; the next is "Two Tribes Goes Melodic" on Fri, 25 Sept 2026.
+Two Tribes CAMPFIRE is a music venue in London with 4 upcoming nights listed on soundcheck as of Mon, 14 Sept 2026; the next is "Two Tribes Goes Melodic" on Fri, 25 Sept 2026.
 
 Two Tribes CAMPFIRE is a music venue in London listed on soundcheck. 4 upcoming nights, with line-ups including Bushman (UK), Cecilia Ena, Christian J and FRESCO (UK) and 2 more. Browse upcoming dates, start times and who's playing. Tile Yard Studios, Tileyard Road, Kings Cross, London N7 9AH.
 
@@ -17,4 +17,4 @@ Two Tribes CAMPFIRE is a music venue in London listed on soundcheck. 4 upcoming 
 
 Tile Yard Studios, Tileyard Road, Kings Cross, London N7 9AH, London
 
-*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/two-tribes-campfire/)*
+*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/two-tribes-campfire/)*

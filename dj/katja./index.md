@@ -1,6 +1,6 @@
 # katja.
 
-katja. is a House and Dub Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 13 Sept 2026, next at Minimal Bar, Berlin on Mon, 21 Sept 2026.
+katja. is a House and Dub Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 14 Sept 2026, next at Minimal Bar, Berlin on Mon, 21 Sept 2026.
 
 katja. is a house and dub techno artist based in Germany, tracked on soundcheck, with 29 sets logged across Berlin. Often billed alongside 4BLISS#, Calcium Channel and Frozilla. Next up: Minimal Bar, Berlin on Mon 21 Sept.
 
@@ -25,4 +25,4 @@ katja. is a house and dub techno artist based in Germany, tracked on soundcheck,
 
 4BLISS#, Calcium Channel, Frozilla
 
-*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/katja./)*
+*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/katja./)*

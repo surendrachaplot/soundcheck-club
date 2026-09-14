@@ -1,6 +1,6 @@
 # Ryan Henry
 
-Ryan Henry is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sun, 13 Sept 2026, next at Tola, London on Sat, 3 Oct 2026.
+Ryan Henry is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 14 Sept 2026, next at Tola, London on Sat, 3 Oct 2026.
 
 Ryan Henry is a techno and house artist tracked on soundcheck, with 11 sets logged across Barcelona, Berlin and London. Often billed alongside Eleonora Cairati, ERRANT and Grivola. Next up: Tola, London on Sat 3 Oct.
 
@@ -25,4 +25,4 @@ Ryan Henry is a techno and house artist tracked on soundcheck, with 11 sets logg
 
 Eleonora Cairati, ERRANT, Grivola
 
-*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ryanhenry/)*
+*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ryanhenry/)*

@@ -1,6 +1,6 @@
 # NWHR
 
-NWHR is a music venue in Montreal with 5 upcoming nights listed on soundcheck as of Sun, 13 Sept 2026; the next is "NWHR invites Axel // Boomy // Racil" on Fri, 18 Sept 2026.
+NWHR is a music venue in Montreal with 5 upcoming nights listed on soundcheck as of Mon, 14 Sept 2026; the next is "NWHR invites Axel // Boomy // Racil" on Fri, 18 Sept 2026.
 
 NWHR is a music venue in Montreal listed on soundcheck. 5 upcoming nights, with line-ups including Boomy, Brian Cuta, Kanatonik and Miette and 2 more. Browse upcoming dates, start times and who's playing. 1055 St Laurent Blvd Montreal, QC H2Z 1J6.
 
@@ -18,4 +18,4 @@ NWHR is a music venue in Montreal listed on soundcheck. 5 upcoming nights, with 
 
 1055 St Laurent Blvd Montreal, QC H2Z 1J6, Montreal
 
-*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/montreal/club/nwhr/)*
+*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/montreal/club/nwhr/)*

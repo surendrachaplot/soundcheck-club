@@ -15,6 +15,6 @@ Hidden x Great Danes presents DJ SWISHA Curates on Fri 23 Oct, Manchester. 6 act
 - Kush Jones
 - Lucian (UK)
 - MBB_
-- Reni
+- re:ni
 
 *Source: [soundcheck](https://soundcheck.club/e/2515650-hidden-x-great-danes-presents-dj-swisha-curates-at-hidden/)*

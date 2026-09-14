@@ -1,14 +1,13 @@
 # ANNĒ
 
-ANNĒ is a Techno and House artist with 11 upcoming club dates listed on soundcheck as of Sun, 13 Sept 2026, next at Amnesia Ibiza, Ibiza on Sun, 13 Sept 2026.
+ANNĒ is a Techno and House artist with 10 upcoming club dates listed on soundcheck as of Mon, 14 Sept 2026, next at TBA, Sao Paulo on Sat, 26 Sept 2026.
 
-ANNĒ is a techno and house artist tracked on soundcheck, with 183 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 56 more. Often billed alongside SHDW, Sol Ortega and Alarico. Next up: Amnesia Ibiza, Ibiza on Sun 13 Sept.
+ANNĒ is a techno and house artist tracked on soundcheck, with 184 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 57 more. Often billed alongside SHDW, Sol Ortega and Alarico. Next up: TBA, Saopaulo on Sat 26 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sun, 13 Sept 2026 | Amnesia Ibiza | Ibiza |
 | Sat, 26 Sept 2026 | TBA | Sao Paulo |
 | Sun, 27 Sept 2026 | Under Club | Buenos Aires |
 | Fri, 2 Oct 2026 | Gate Milano | Milan |
@@ -22,6 +21,7 @@ ANNĒ is a techno and house artist tracked on soundcheck, with 183 sets logged a
 
 ## Recently played
 
+- Amnesia Ibiza, Ibiza — Sun, 13 Sept 2026
 - TILLATEC, Amsterdam — Sat, 12 Sept 2026
 - essaim, Paris — Fri, 11 Sept 2026
 - KMSKA, Antwerp — Sat, 5 Sept 2026
@@ -29,10 +29,9 @@ ANNĒ is a techno and house artist tracked on soundcheck, with 183 sets logged a
 - Amnesia Ibiza, Ibiza — Tue, 25 Aug 2026
 - Palais, London — Sat, 22 Aug 2026
 - Yamamori Tengu, Dublin — Fri, 21 Aug 2026
-- Kømplex Lisbon, Lisbon — Sat, 15 Aug 2026
 
 ## Shares bills with
 
 SHDW, Sol Ortega, Alarico
 
-*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/anne/)*
+*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/anne/)*

@@ -1,6 +1,6 @@
 # TommyB (2)
 
-TommyB (2) is a Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 13 Sept 2026, next at TBA - warehouse, Berlin on Fri, 9 Oct 2026.
+TommyB (2) is a Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 14 Sept 2026, next at TBA - warehouse, Berlin on Fri, 9 Oct 2026.
 
 TommyB (2) is a techno artist tracked on soundcheck, with 2 sets logged across Berlin. Often billed alongside Blachord, Cat Vermillion and DJ Marviosi. Next up: TBA - warehouse, Berlin on Fri 9 Oct.
 
@@ -18,4 +18,4 @@ TommyB (2) is a techno artist tracked on soundcheck, with 2 sets logged across B
 
 Blachord, Cat Vermillion, DJ Marviosi
 
-*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tommyb-2/)*
+*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tommyb-2/)*

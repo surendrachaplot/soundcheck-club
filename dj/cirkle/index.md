@@ -1,6 +1,6 @@
 # Cirkle
 
-Cirkle is a Techno and House artist with 7 upcoming club dates listed on soundcheck as of Sun, 13 Sept 2026, next at Else, Berlin on Fri, 18 Sept 2026.
+Cirkle is a Techno and House artist with 7 upcoming club dates listed on soundcheck as of Mon, 14 Sept 2026, next at Else, Berlin on Fri, 18 Sept 2026.
 
 Cirkle is a techno and house artist tracked on soundcheck, with 124 sets logged across Amsterdam, Athens, Berlin and Brussels and 9 more. Often billed alongside a.metz, Até. and SALIN. Next up: Else, Berlin on Fri 18 Sept.
 
@@ -31,4 +31,4 @@ Cirkle is a techno and house artist tracked on soundcheck, with 124 sets logged 
 
 a.metz, Até., SALIN
 
-*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/cirkle/)*
+*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/cirkle/)*

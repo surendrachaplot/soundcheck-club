@@ -1,6 +1,6 @@
 # 1908
 
-1908 is a Bass and Drum & Bass artist with 2 upcoming club dates listed on soundcheck as of Sun, 13 Sept 2026, next at Social Room, Hong Kong on Fri, 25 Sept 2026.
+1908 is a Bass and Drum & Bass artist with 2 upcoming club dates listed on soundcheck as of Mon, 14 Sept 2026, next at Social Room, Hong Kong on Fri, 25 Sept 2026.
 
 1908 is a bass and drum & bass artist tracked on soundcheck, with 24 sets logged across Bangkok and Hongkong. Often billed alongside GONG!, Joesnotdead and Mengzy. Next up: Social Room, Hongkong on Fri 25 Sept.
 
@@ -26,4 +26,4 @@
 
 GONG!, Joesnotdead, Mengzy
 
-*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/1908/)*
+*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/1908/)*

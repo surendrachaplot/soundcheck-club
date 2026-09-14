@@ -1,14 +1,13 @@
 # Ron Trent
 
-Ron Trent is a House and Deep House artist with 6 upcoming club dates listed on soundcheck as of Sun, 13 Sept 2026, next at Auditorium Parco della Musica, Rome on Sat, 12 Sept 2026.
+Ron Trent is a House and Deep House artist with 5 upcoming club dates listed on soundcheck as of Mon, 14 Sept 2026, next at Klymax Discotheque, Bali on Fri, 25 Sept 2026.
 
-Ron Trent is a house and deep house artist tracked on soundcheck, with 106 sets logged across Amsterdam, Antwerp, Auckland and Bali and 34 more. Often billed alongside Ben UFO, MUSCLECARS and Ogazón. Next up: Auditorium Parco della Musica, Rome on Sat 12 Sept.
+Ron Trent is a house and deep house artist tracked on soundcheck, with 106 sets logged across Amsterdam, Antwerp, Auckland and Bali and 34 more. Often billed alongside Ben UFO, MUSCLECARS and Ogazón. Next up: Klymax Discotheque, Bali on Fri 25 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 12 Sept 2026 | Auditorium Parco della Musica | Rome |
 | Fri, 25 Sept 2026 | Klymax Discotheque | Bali |
 | Sat, 3 Oct 2026 | Sidney Myer Music Bowl | Melbourne |
 | Sun, 4 Oct 2026 | Cockatoo Island | Sydney |
@@ -30,4 +29,4 @@ Ron Trent is a house and deep house artist tracked on soundcheck, with 106 sets 
 
 Ben UFO, MUSCLECARS, Ogazón
 
-*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/rontrent/)*
+*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/rontrent/)*

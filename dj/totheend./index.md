@@ -1,6 +1,6 @@
 # To The End.
 
-To The End. is a Club and House artist with 1 upcoming club date listed on soundcheck as of Sun, 13 Sept 2026, next at Mood Ring, New York City on Sat, 10 Oct 2026.
+To The End. is a Club and House artist with 1 upcoming club date listed on soundcheck as of Mon, 14 Sept 2026, next at Mood Ring, New York City on Sat, 10 Oct 2026.
 
 To The End. is a club and house artist based in United States of America, tracked on soundcheck, with 14 sets logged across Geneva and Newyorkcity. Often billed alongside DJ ing, Brant Wolff and Clocky Chulo. Next up: Mood Ring, Newyorkcity on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ To The End. is a club and house artist based in United States of America, tracke
 
 DJ ing, Brant Wolff, Clocky Chulo
 
-*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/totheend./)*
+*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/totheend./)*

@@ -1,6 +1,6 @@
 # Eiger Studios
 
-Eiger Studios is a music venue in Leeds with 8 upcoming nights listed on soundcheck as of Sun, 13 Sept 2026; the next is "T40: RUFFRUFF" on Fri, 18 Sept 2026.
+Eiger Studios is a music venue in Leeds with 8 upcoming nights listed on soundcheck as of Mon, 14 Sept 2026; the next is "T40: RUFFRUFF" on Fri, 18 Sept 2026.
 
 Eiger Studios is a music venue in Leeds listed on soundcheck. 8 upcoming nights, with line-ups including Bobby., Ekkel, FAUST (1) and Gloria Rose and 2 more. Browse upcoming dates, start times and who's playing. Unit 1, Fairfield House, New Craven Gate Industrial Estate, Leeds, LS11 5NF.
 
@@ -21,4 +21,4 @@ Eiger Studios is a music venue in Leeds listed on soundcheck. 8 upcoming nights,
 
 Unit 1, Fairfield House, New Craven Gate Industrial Estate, Leeds, LS11 5NF, Leeds
 
-*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/leeds/club/eiger-studios/)*
+*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/leeds/club/eiger-studios/)*

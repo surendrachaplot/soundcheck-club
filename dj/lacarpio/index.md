@@ -1,6 +1,6 @@
 # La Carpio
 
-La Carpio is a Electro and EBM artist with 1 upcoming club date listed on soundcheck as of Sun, 13 Sept 2026, next at Golden Pudel Club, Hamburg on Sat, 3 Oct 2026.
+La Carpio is a Electro and EBM artist with 1 upcoming club date listed on soundcheck as of Mon, 14 Sept 2026, next at Golden Pudel Club, Hamburg on Sat, 3 Oct 2026.
 
 La Carpio is an electro and ebm artist based in Germany, tracked on soundcheck, with 26 sets logged across Berlin and Hamburg. Often billed alongside Khloe, Levente and DSGNRPSSY. Next up: Golden Pudel Club, Hamburg on Sat 3 Oct.
 
@@ -25,4 +25,4 @@ La Carpio is an electro and ebm artist based in Germany, tracked on soundcheck, 
 
 Khloe, Levente, DSGNRPSSY
 
-*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lacarpio/)*
+*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lacarpio/)*

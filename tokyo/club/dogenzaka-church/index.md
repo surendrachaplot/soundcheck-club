@@ -1,14 +1,13 @@
 # Dogenzaka Church
 
-Dogenzaka Church is a music venue in Tokyo with 7 upcoming nights listed on soundcheck as of Sun, 13 Sept 2026; the next is "Dogenzaka Exotic VooDoo Lounge" on Sun, 13 Sept 2026.
+Dogenzaka Church is a music venue in Tokyo with 6 upcoming nights listed on soundcheck as of Mon, 14 Sept 2026; the next is "JESUS" on Wed, 16 Sept 2026.
 
-Dogenzaka Church is a music venue in Tokyo listed on soundcheck. 7 upcoming nights, with line-ups including DJ MIYU, EIJI, Hironobu Jyounai and MOTOKA and 2 more. Browse upcoming dates, start times and who's playing. Japan, 〒150-0043 Tokyo, Shibuya City, Dogenzaka, 2 Chome−16−5, Central Kyoritsu Building, 1階.
+Dogenzaka Church is a music venue in Tokyo listed on soundcheck. 6 upcoming nights, with line-ups including DJ MIYU, EIJI, Hironobu Jyounai and MOTOKA and 2 more. Browse upcoming dates, start times and who's playing. Japan, 〒150-0043 Tokyo, Shibuya City, Dogenzaka, 2 Chome−16−5, Central Kyoritsu Building, 1階.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sun, 13 Sept 2026 | Dogenzaka Exotic VooDoo Lounge | Okehazama |
 | Wed, 16 Sept 2026 | JESUS | Tinker |
 | Thu, 17 Sept 2026 | AMEN | yuitty |
 | Sat, 19 Sept 2026 | IMPACT | DJ MIYU, Xilley, omeme_gangimari |
@@ -20,4 +19,4 @@ Dogenzaka Church is a music venue in Tokyo listed on soundcheck. 7 upcoming nigh
 
 Japan, 〒150-0043 Tokyo, Shibuya City, Dogenzaka, 2 Chome−16−5, Central Kyoritsu Building, 1階, Tokyo
 
-*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/dogenzaka-church/)*
+*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/dogenzaka-church/)*

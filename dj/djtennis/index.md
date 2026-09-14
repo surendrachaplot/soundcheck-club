@@ -1,6 +1,6 @@
 # DJ Tennis
 
-DJ Tennis is a House and Techno artist with 13 upcoming club dates listed on soundcheck as of Sun, 13 Sept 2026, next at Gin Ling Way, Chinatown, Los Angeles on Sat, 19 Sept 2026.
+DJ Tennis is a House and Techno artist with 13 upcoming club dates listed on soundcheck as of Mon, 14 Sept 2026, next at Gin Ling Way, Chinatown, Los Angeles on Sat, 19 Sept 2026.
 
 DJ Tennis is a house and techno artist tracked on soundcheck, with 302 sets logged across Amsterdam, Antwerp, Austin and Bali and 56 more. Often billed alongside Carlita, Seth Troxler and Chloé Caillet. Next up: Gin Ling Way, Chinatown, Losangeles on Sat 19 Sept.
 
@@ -36,4 +36,4 @@ DJ Tennis is a house and techno artist tracked on soundcheck, with 302 sets logg
 
 Carlita, Seth Troxler, Chloé Caillet
 
-*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djtennis/)*
+*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djtennis/)*

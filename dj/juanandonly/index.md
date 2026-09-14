@@ -1,6 +1,6 @@
 # juan and only
 
-juan and only is a House and Trance artist with 1 upcoming club date listed on soundcheck as of Sun, 13 Sept 2026, next at Fitzroy, Berlin on Fri, 25 Sept 2026.
+juan and only is a House and Trance artist with 1 upcoming club date listed on soundcheck as of Mon, 14 Sept 2026, next at Fitzroy, Berlin on Fri, 25 Sept 2026.
 
 juan and only are a house and trance duo based in Argentina, tracked on soundcheck, with 22 sets logged across Berlin. Often billed alongside Leone Knight, DJ KILLING and Dreimal T. Next up: Fitzroy, Berlin on Fri 25 Sept.
 
@@ -25,4 +25,4 @@ juan and only are a house and trance duo based in Argentina, tracked on soundche
 
 Leone Knight, DJ KILLING, Dreimal T
 
-*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/juanandonly/)*
+*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/juanandonly/)*

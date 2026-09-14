@@ -1,8 +1,8 @@
 # Slim Soledad
 
-Slim Soledad is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Sun, 13 Sept 2026, next at Q Club, Milan on Fri, 25 Sept 2026.
+Slim Soledad is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Mon, 14 Sept 2026, next at Q Club, Milan on Fri, 25 Sept 2026.
 
-Slim Soledad is a techno and house artist tracked on soundcheck, with 135 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 33 more. Often billed alongside JASSS, MCMLXXXV and CEM. Next up: Q Club, Milan on Fri 25 Sept.
+Slim Soledad is a techno and house artist tracked on soundcheck, with 136 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 33 more. Often billed alongside JASSS, MCMLXXXV and CEM. Next up: Q Club, Milan on Fri 25 Sept.
 
 ## Upcoming shows
 
@@ -27,4 +27,4 @@ Slim Soledad is a techno and house artist tracked on soundcheck, with 135 sets l
 
 JASSS, MCMLXXXV, CEM
 
-*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/slimsoledad/)*
+*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/slimsoledad/)*

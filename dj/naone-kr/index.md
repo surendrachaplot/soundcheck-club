@@ -1,6 +1,6 @@
 # Naone
 
-Naone is a Techno and House artist with 7 upcoming club dates listed on soundcheck as of Sun, 13 Sept 2026, next at Bossa Nova Civic Club, New York City on Wed, 16 Sept 2026.
+Naone is a Techno and House artist with 7 upcoming club dates listed on soundcheck as of Mon, 14 Sept 2026, next at Bossa Nova Civic Club, New York City on Wed, 16 Sept 2026.
 
 Naone is a techno and house artist tracked on soundcheck, with 180 sets logged across Amsterdam, Barcelona, Berlin and Brussels and 31 more. Often billed alongside Iggy P, Sansibar and mad miran. Next up: Bossa Nova Civic Club, Newyorkcity on Wed 16 Sept.
 
@@ -31,4 +31,4 @@ Naone is a techno and house artist tracked on soundcheck, with 180 sets logged a
 
 Iggy P, Sansibar, mad miran
 
-*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/naone-kr/)*
+*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/naone-kr/)*

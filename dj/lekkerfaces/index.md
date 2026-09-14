@@ -1,6 +1,6 @@
 # Lekkerfaces
 
-Lekkerfaces is a Hardcore and Techno artist with 4 upcoming club dates listed on soundcheck as of Sun, 13 Sept 2026, next at P36 Terminal 1 Busparkplatz  / Sonic-Warrior Festival Tours Abfahrt, Frankfurt on Sat, 19 Sept 2026.
+Lekkerfaces is a Hardcore and Techno artist with 4 upcoming club dates listed on soundcheck as of Mon, 14 Sept 2026, next at P36 Terminal 1 Busparkplatz  / Sonic-Warrior Festival Tours Abfahrt, Frankfurt on Sat, 19 Sept 2026.
 
 Lekkerfaces is a hardcore and techno artist based in Italy, tracked on soundcheck, with 19 sets logged across Antwerp, Cologne, Frankfurt and Glasgow and 5 more. Often billed alongside Pinotello, The Dark Horror and Noxiouz. Next up: P36 Terminal 1 Busparkplatz  / Sonic-Warrior Festival Tours Abfahrt, Frankfurt on Sat 19 Sept.
 
@@ -28,4 +28,4 @@ Lekkerfaces is a hardcore and techno artist based in Italy, tracked on soundchec
 
 Pinotello, The Dark Horror, Noxiouz
 
-*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lekkerfaces/)*
+*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lekkerfaces/)*

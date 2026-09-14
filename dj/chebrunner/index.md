@@ -1,6 +1,6 @@
 # Cheb Runner
 
-Cheb Runner is a Electro and House artist with 2 upcoming club dates listed on soundcheck as of Sun, 13 Sept 2026, next at Mono, Rotterdam on Sat, 26 Sept 2026.
+Cheb Runner is a Electro and House artist with 2 upcoming club dates listed on soundcheck as of Mon, 14 Sept 2026, next at Mono, Rotterdam on Sat, 26 Sept 2026.
 
 Cheb Runner is an electro and house artist tracked on soundcheck, with 32 sets logged across Amsterdam, Barcelona, Berlin and Brussels and 6 more. Often billed alongside Sara Dziri, GLITTER55 and Blck Mamba. Next up: Mono, Rotterdam on Sat 26 Sept.
 
@@ -26,4 +26,4 @@ Cheb Runner is an electro and house artist tracked on soundcheck, with 32 sets l
 
 Sara Dziri, GLITTER55, Blck Mamba
 
-*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/chebrunner/)*
+*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/chebrunner/)*

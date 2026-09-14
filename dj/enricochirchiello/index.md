@@ -1,6 +1,6 @@
 # Enrico Chirchiello
 
-Enrico Chirchiello is a Tech House and Techno artist with 6 upcoming club dates listed on soundcheck as of Sun, 13 Sept 2026, next at Mercato Metropolitano, London on Fri, 18 Sept 2026.
+Enrico Chirchiello is a Tech House and Techno artist with 6 upcoming club dates listed on soundcheck as of Mon, 14 Sept 2026, next at Mercato Metropolitano, London on Fri, 18 Sept 2026.
 
 Enrico Chirchiello is a tech house and techno artist tracked on soundcheck, with 175 sets logged across Barcelona, Ibiza, London and Milan and 4 more. Often billed alongside Francesco Poggi, Cristian Ebasta and Thomas Galbardi. Next up: Mercato Metropolitano, London on Fri 18 Sept.
 
@@ -30,4 +30,4 @@ Enrico Chirchiello is a tech house and techno artist tracked on soundcheck, with
 
 Francesco Poggi, Cristian Ebasta, Thomas Galbardi
 
-*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/enricochirchiello/)*
+*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/enricochirchiello/)*

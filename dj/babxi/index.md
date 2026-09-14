@@ -1,6 +1,6 @@
 # babxi
 
-babxi is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sun, 13 Sept 2026, next at Golden Gate, Berlin on Fri, 25 Sept 2026.
+babxi is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Mon, 14 Sept 2026, next at Golden Gate, Berlin on Fri, 25 Sept 2026.
 
 babxi is a house and techno artist based in Canada, tracked on soundcheck, with 106 sets logged across Berlin, Cologne, Hamburg and Newyorkcity. Often billed alongside Seemless, Don Andres and Martin Meyer. Next up: Golden Gate, Berlin on Fri 25 Sept.
 
@@ -26,4 +26,4 @@ babxi is a house and techno artist based in Canada, tracked on soundcheck, with 
 
 Seemless, Don Andres, Martin Meyer
 
-*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/babxi/)*
+*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/babxi/)*

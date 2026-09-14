@@ -1,6 +1,6 @@
 # Kitty Hall
 
-Kitty Hall is a House and Tech House artist with 4 upcoming club dates listed on soundcheck as of Sun, 13 Sept 2026, next at 528 Ibiza, Ibiza on Sun, 20 Sept 2026.
+Kitty Hall is a House and Tech House artist with 4 upcoming club dates listed on soundcheck as of Mon, 14 Sept 2026, next at 528 Ibiza, Ibiza on Sun, 20 Sept 2026.
 
 Kitty Hall is a house and tech house artist based in United Kingdom, tracked on soundcheck, with 12 sets logged across Brighton, Glasgow, Ibiza and London and 2 more. Often billed alongside George Mensah, Sammy Porter and Benji King. Next up: 528 Ibiza, Ibiza on Sun 20 Sept.
 
@@ -28,4 +28,4 @@ Kitty Hall is a house and tech house artist based in United Kingdom, tracked on 
 
 George Mensah, Sammy Porter, Benji King
 
-*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kittyhall/)*
+*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kittyhall/)*

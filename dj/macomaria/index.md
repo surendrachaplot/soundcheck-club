@@ -1,6 +1,6 @@
 # Maco Maria
 
-Maco Maria is a Electro and Tech House artist with 2 upcoming club dates listed on soundcheck as of Sun, 13 Sept 2026, next at Le 6b, Paris on Sat, 19 Sept 2026.
+Maco Maria is a Electro and Tech House artist with 2 upcoming club dates listed on soundcheck as of Mon, 14 Sept 2026, next at Le 6b, Paris on Sat, 19 Sept 2026.
 
 Maco Maria is an electro and tech house artist based in France, tracked on soundcheck, with 27 sets logged across Barcelona, Brussels, Nantes and Paris. Often billed alongside Louison, Domi (FR) and LAMALICE. Next up: Le 6b, Paris on Sat 19 Sept.
 
@@ -26,4 +26,4 @@ Maco Maria is an electro and tech house artist based in France, tracked on sound
 
 Louison, Domi (FR), LAMALICE
 
-*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/macomaria/)*
+*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/macomaria/)*

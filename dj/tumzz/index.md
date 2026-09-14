@@ -1,6 +1,6 @@
 # Tumzz
 
-Tumzz is a Progressive House and Trance artist with 1 upcoming club date listed on soundcheck as of Sun, 13 Sept 2026, next at Onder Hans, Amsterdam on Fri, 23 Oct 2026.
+Tumzz is a Progressive House and Trance artist with 1 upcoming club date listed on soundcheck as of Mon, 14 Sept 2026, next at Onder Hans, Amsterdam on Fri, 23 Oct 2026.
 
 Tumzz is a progressive house and trance artist based in Belgium, tracked on soundcheck, with 2 sets logged across Amsterdam. Often billed alongside Cris-H, KARINSMATIC and Miss Melera. Next up: Onder Hans, Amsterdam on Fri 23 Oct.
 
@@ -18,4 +18,4 @@ Tumzz is a progressive house and trance artist based in Belgium, tracked on soun
 
 Cris-H, KARINSMATIC, Miss Melera
 
-*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tumzz/)*
+*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tumzz/)*

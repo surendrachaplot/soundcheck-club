@@ -1,6 +1,6 @@
 # Fenna Fiction
 
-Fenna Fiction is a House artist with 1 upcoming club date listed on soundcheck as of Sun, 13 Sept 2026, next at pos studios, Amsterdam on Sun, 13 Sept 2026.
+Fenna Fiction is a House artist with 1 upcoming club date listed on soundcheck as of Mon, 14 Sept 2026, next at pos studios, Amsterdam on Sun, 13 Sept 2026.
 
 Fenna Fiction is a house artist based in Netherlands, tracked on soundcheck, with 13 sets logged across Amsterdam and Utrecht. Often billed alongside Loek Frey, Mattikk and Rambadu. Next up: pos studios, Amsterdam on Sun 13 Sept.
 
@@ -12,6 +12,7 @@ Fenna Fiction is a house artist based in Netherlands, tracked on soundcheck, wit
 
 ## Recently played
 
+- pos studios, Amsterdam — Sun, 13 Sept 2026
 - Café Katoen, Amsterdam — Thu, 30 Jul 2026
 - BASIS, Utrecht — Fri, 17 Jul 2026
 - Borisov Amsterdam, Amsterdam — Sat, 11 Apr 2026
@@ -19,10 +20,9 @@ Fenna Fiction is a house artist based in Netherlands, tracked on soundcheck, wit
 - Café Katoen, Amsterdam — Thu, 8 Jan 2026
 - Café Katoen, Amsterdam — Thu, 13 Nov 2025
 - Benelux BAR, Amsterdam — Sun, 21 Sept 2025
-- Garage Noord, Amsterdam — Sun, 31 Aug 2025
 
 ## Shares bills with
 
 Loek Frey, Mattikk, Rambadu
 
-*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/fennafiction/)*
+*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/fennafiction/)*

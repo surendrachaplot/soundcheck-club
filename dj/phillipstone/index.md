@@ -1,6 +1,6 @@
 # Phillip Stone
 
-Phillip Stone is a House and Electronica artist with 1 upcoming club date listed on soundcheck as of Sun, 13 Sept 2026, next at smartbar, Chicago on Sat, 19 Sept 2026.
+Phillip Stone is a House and Electronica artist with 1 upcoming club date listed on soundcheck as of Mon, 14 Sept 2026, next at smartbar, Chicago on Sat, 19 Sept 2026.
 
 Phillip Stone is a house and electronica artist tracked on soundcheck, with 5 sets logged across Chicago. Often billed alongside Daphni, Inés (US) and Marlon Montez. Next up: smartbar, Chicago on Sat 19 Sept.
 
@@ -21,4 +21,4 @@ Phillip Stone is a house and electronica artist tracked on soundcheck, with 5 se
 
 Daphni, Inés (US), Marlon Montez
 
-*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/phillipstone/)*
+*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/phillipstone/)*

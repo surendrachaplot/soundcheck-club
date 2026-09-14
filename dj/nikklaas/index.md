@@ -1,6 +1,6 @@
 # Nikklaas
 
-Nikklaas is a House and Club artist with 3 upcoming club dates listed on soundcheck as of Sun, 13 Sept 2026, next at Gestrandet An Der Jannowitzbrücke, Berlin on Fri, 18 Sept 2026.
+Nikklaas is a House and Club artist with 3 upcoming club dates listed on soundcheck as of Mon, 14 Sept 2026, next at Gestrandet An Der Jannowitzbrücke, Berlin on Fri, 18 Sept 2026.
 
 Nikklaas is a house and club artist tracked on soundcheck, with 140 sets logged across Berlin, Dusseldorf and Zurich. Often billed alongside Better Call Paul, Anne Hou and MagDita. Next up: Gestrandet An Der Jannowitzbrücke, Berlin on Fri 18 Sept.
 
@@ -27,4 +27,4 @@ Nikklaas is a house and club artist tracked on soundcheck, with 140 sets logged 
 
 Better Call Paul, Anne Hou, MagDita
 
-*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nikklaas/)*
+*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nikklaas/)*

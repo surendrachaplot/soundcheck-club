@@ -1,6 +1,6 @@
 # Alex Milo
 
-Alex Milo is a Downtempo and House artist with 1 upcoming club date listed on soundcheck as of Sun, 13 Sept 2026, next at Kontrast, Manchester on Fri, 18 Sept 2026.
+Alex Milo is a Downtempo and House artist with 1 upcoming club date listed on soundcheck as of Mon, 14 Sept 2026, next at Kontrast, Manchester on Fri, 18 Sept 2026.
 
 Alex Milo is a downtempo and house artist tracked on soundcheck, with 22 sets logged across Manchester. Often billed alongside Yorlig, April (UK) and LOCKS. Next up: Kontrast, Manchester on Fri 18 Sept.
 
@@ -25,4 +25,4 @@ Alex Milo is a downtempo and house artist tracked on soundcheck, with 22 sets lo
 
 Yorlig, April (UK), LOCKS
 
-*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/alexmilo/)*
+*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/alexmilo/)*

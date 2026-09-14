@@ -1,14 +1,13 @@
 # Sans Soleil
 
-Sans Soleil is a music venue in Montreal with 4 upcoming nights listed on soundcheck as of Sun, 13 Sept 2026; the next is "Sans Soleil w/ Rawsoul + louis from qc" on Sun, 13 Sept 2026.
+Sans Soleil is a music venue in Montreal with 3 upcoming nights listed on soundcheck as of Mon, 14 Sept 2026; the next is "Sans Soleil w/ PLO Man" on Mon, 14 Sept 2026.
 
-Sans Soleil is a music venue in Montreal listed on soundcheck. 4 upcoming nights, with line-ups including PLO Man, Roland Gonzales and The Rawsoul. Browse upcoming dates, start times and who's playing. 1002 Rue Saint-Urbain (Basement), Montreal, Quebec H2Z 1K6.
+Sans Soleil is a music venue in Montreal listed on soundcheck. 3 upcoming nights, with line-ups including PLO Man and Roland Gonzales. Browse upcoming dates, start times and who's playing. 1002 Rue Saint-Urbain (Basement), Montreal, Quebec H2Z 1K6.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sun, 13 Sept 2026 | Sans Soleil w/ Rawsoul + louis from qc | The Rawsoul |
 | Mon, 14 Sept 2026 | Sans Soleil w/ PLO Man | PLO Man |
 | Tue, 15 Sept 2026 | Sans Soleil w/ Narcy |  |
 | Sun, 25 Oct 2026 | Canned Heat with Roland Gonzales | Roland Gonzales |
@@ -17,4 +16,4 @@ Sans Soleil is a music venue in Montreal listed on soundcheck. 4 upcoming nights
 
 1002 Rue Saint-Urbain (Basement), Montreal, Quebec H2Z 1K6, Montreal
 
-*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/montreal/club/sans-soleil/)*
+*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/montreal/club/sans-soleil/)*

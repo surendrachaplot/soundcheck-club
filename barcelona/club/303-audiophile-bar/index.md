@@ -1,6 +1,6 @@
 # 303 Audiophile Bar
 
-303 Audiophile Bar is a music venue in Barcelona with 21 upcoming nights listed on soundcheck as of Sun, 13 Sept 2026; the next is "Recordeep pres. Flo Masse at 303" on Thu, 17 Sept 2026.
+303 Audiophile Bar is a music venue in Barcelona with 21 upcoming nights listed on soundcheck as of Mon, 14 Sept 2026; the next is "Recordeep pres. Flo Masse at 303" on Thu, 17 Sept 2026.
 
 303 Audiophile Bar is a music venue in Barcelona listed on soundcheck. 21 upcoming nights, with line-ups including 100 faces, Adria (ES), Alex Garcia (2) and Angel Mellado and 2 more. Browse upcoming dates, start times and who's playing. C/ de Casp, 33B, L'Eixample, 08010 Barcelona.
 
@@ -23,4 +23,4 @@
 
 C/ de Casp, 33B, L'Eixample, 08010 Barcelona, Barcelona
 
-*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/303-audiophile-bar/)*
+*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/303-audiophile-bar/)*

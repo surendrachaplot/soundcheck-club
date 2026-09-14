@@ -1,6 +1,6 @@
 # MXW(UK)
 
-MXW(UK) is a Jungle and Drum & Bass artist with 1 upcoming club date listed on soundcheck as of Sun, 13 Sept 2026, next at M.O.T, London on Fri, 9 Oct 2026.
+MXW(UK) is a Jungle and Drum & Bass artist with 1 upcoming club date listed on soundcheck as of Mon, 14 Sept 2026, next at M.O.T, London on Fri, 9 Oct 2026.
 
 MXW(UK) is a jungle and drum & bass artist tracked on soundcheck, with 3 sets logged across London. Often billed alongside OS:MAN, Tallboy and Agility. Next up: M.O.T, London on Fri 9 Oct.
 
@@ -19,4 +19,4 @@ MXW(UK) is a jungle and drum & bass artist tracked on soundcheck, with 3 sets lo
 
 OS:MAN, Tallboy, Agility
 
-*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mxwuk/)*
+*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mxwuk/)*

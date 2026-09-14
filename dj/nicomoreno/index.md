@@ -1,6 +1,6 @@
 # Nico Moreno
 
-Nico Moreno is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Sun, 13 Sept 2026, next at TBA - Pabellón Oeste del Palacio de los Deportes, Mexico City on Sat, 19 Sept 2026.
+Nico Moreno is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Mon, 14 Sept 2026, next at TBA - Pabellón Oeste del Palacio de los Deportes, Mexico City on Sat, 19 Sept 2026.
 
 Nico Moreno is a techno and house artist tracked on soundcheck, with 192 sets logged across Amsterdam, Antwerp, Athens and Austin and 64 more. Often billed alongside I Hate Models, DYEN and Trym. Next up: TBA - Pabellón Oeste del Palacio de los Deportes, Mexicocity on Sat 19 Sept.
 
@@ -29,4 +29,4 @@ Nico Moreno is a techno and house artist tracked on soundcheck, with 192 sets lo
 
 I Hate Models, DYEN, Trym
 
-*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nicomoreno/)*
+*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nicomoreno/)*

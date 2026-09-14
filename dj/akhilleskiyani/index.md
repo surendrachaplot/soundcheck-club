@@ -1,6 +1,6 @@
 # Akhilles Kiyani
 
-Akhilles Kiyani is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Sun, 13 Sept 2026, next at TBA - Barcelona, MARE MAGNUM, MOLL D'ESPANYA 5, Barcelona on Fri, 18 Sept 2026.
+Akhilles Kiyani is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Mon, 14 Sept 2026, next at TBA - Barcelona, MARE MAGNUM, MOLL D'ESPANYA 5, Barcelona on Fri, 18 Sept 2026.
 
 Akhilles Kiyani is a house and tech house artist tracked on soundcheck, with 3 sets logged across Barcelona. Next up: TBA - Barcelona, MARE MAGNUM, MOLL D'ESPANYA 5, Barcelona on Fri 18 Sept.
 
@@ -15,4 +15,4 @@ Akhilles Kiyani is a house and tech house artist tracked on soundcheck, with 3 s
 - Bluesman Club, Barcelona — Sat, 14 Feb 2026
 - TBA, Barcelona — Wed, 8 May 2024
 
-*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/akhilleskiyani/)*
+*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/akhilleskiyani/)*

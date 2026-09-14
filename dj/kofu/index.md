@@ -1,8 +1,8 @@
 # KOFU
 
-KOFU is a House and Bass artist with 3 upcoming club dates listed on soundcheck as of Sun, 13 Sept 2026, next at Post Bar, Helsinki on Fri, 18 Sept 2026.
+KOFU is a House and Bass artist with 3 upcoming club dates listed on soundcheck as of Mon, 14 Sept 2026, next at Post Bar, Helsinki on Fri, 18 Sept 2026.
 
-KOFU is a house and bass artist tracked on soundcheck, with 30 sets logged across Helsinki and Tallinn. Often billed alongside Saint Nia, Katerina and Sansibar. Next up: Post Bar, Helsinki on Fri 18 Sept.
+KOFU is a house and bass artist tracked on soundcheck, with 42 sets logged across Helsinki and Tallinn. Often billed alongside Saint Nia, Katerina and MORA (FI). Next up: Post Bar, Helsinki on Fri 18 Sept.
 
 ## Upcoming shows
 
@@ -25,6 +25,6 @@ KOFU is a house and bass artist tracked on soundcheck, with 30 sets logged acros
 
 ## Shares bills with
 
-Saint Nia, Katerina, Sansibar
+Saint Nia, Katerina, MORA (FI)
 
-*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kofu/)*
+*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kofu/)*

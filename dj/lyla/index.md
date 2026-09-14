@@ -1,6 +1,6 @@
 # Lyla
 
-Lyla is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Sun, 13 Sept 2026, next at Do Not Sit On The Furniture, Miami on Thu, 17 Sept 2026.
+Lyla is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Mon, 14 Sept 2026, next at Do Not Sit On The Furniture, Miami on Thu, 17 Sept 2026.
 
 Lyla is a house and disco artist based in United Kingdom, tracked on soundcheck, with 24 sets logged across Berlin, Edinburgh, Glasgow and London and 5 more. Often billed alongside Percy Main, Dilly Joints and Jessy Nimni. Next up: Do Not Sit On The Furniture, Miami on Thu 17 Sept.
 
@@ -25,4 +25,4 @@ Lyla is a house and disco artist based in United Kingdom, tracked on soundcheck,
 
 Percy Main, Dilly Joints, Jessy Nimni
 
-*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lyla/)*
+*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lyla/)*

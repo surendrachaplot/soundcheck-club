@@ -1,6 +1,6 @@
 # JOE ROLL
 
-JOE ROLL is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Sun, 13 Sept 2026, next at Almanac, Barcelona on Sat, 19 Sept 2026.
+JOE ROLL is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Mon, 14 Sept 2026, next at Almanac, Barcelona on Sat, 19 Sept 2026.
 
 JOE ROLL is a house and deep house artist tracked on soundcheck, with 2 sets logged across Barcelona. Often billed alongside DaSousa and Santacreu. Next up: Almanac, Barcelona on Sat 19 Sept.
 
@@ -18,4 +18,4 @@ JOE ROLL is a house and deep house artist tracked on soundcheck, with 2 sets log
 
 DaSousa, Santacreu
 
-*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/joeroll/)*
+*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/joeroll/)*

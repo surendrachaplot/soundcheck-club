@@ -1,6 +1,6 @@
 # Saraga
 
-Saraga is a House and Tech House artist with 6 upcoming club dates listed on soundcheck as of Sun, 13 Sept 2026, next at Volt Club Milano, Milan on Thu, 17 Sept 2026.
+Saraga is a House and Tech House artist with 6 upcoming club dates listed on soundcheck as of Mon, 14 Sept 2026, next at Volt Club Milano, Milan on Thu, 17 Sept 2026.
 
 Saraga is a house and tech house artist tracked on soundcheck, with 74 sets logged across Amsterdam, Barcelona, Ibiza and Istanbul and 13 more. Often billed alongside Guy Gerber, Bedouin and AGELESS. Next up: Volt Club Milano, Milan on Thu 17 Sept.
 
@@ -30,4 +30,4 @@ Saraga is a house and tech house artist tracked on soundcheck, with 74 sets logg
 
 Guy Gerber, Bedouin, AGELESS
 
-*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/saraga/)*
+*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/saraga/)*

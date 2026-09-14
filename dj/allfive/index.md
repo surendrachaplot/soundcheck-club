@@ -1,8 +1,8 @@
 # ALLFIVE
 
-ALLFIVE is a Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 13 Sept 2026, next at Ääniwalli, Helsinki on Fri, 23 Oct 2026.
+ALLFIVE is a Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 14 Sept 2026, next at Ääniwalli, Helsinki on Fri, 23 Oct 2026.
 
-ALLFIVE is a techno artist based in Finland, tracked on soundcheck, with 2 sets logged across Helsinki. Often billed alongside BAUGRUPPE90, C4KE and Conntex. Next up: Ääniwalli, Helsinki on Fri 23 Oct.
+ALLFIVE is a techno artist based in Finland, tracked on soundcheck, with 3 sets logged across Helsinki. Often billed alongside C4KE, BAUGRUPPE90 and Conntex. Next up: Ääniwalli, Helsinki on Fri 23 Oct.
 
 ## Upcoming shows
 
@@ -13,9 +13,10 @@ ALLFIVE is a techno artist based in Finland, tracked on soundcheck, with 2 sets 
 ## Recently played
 
 - Ääniwalli, Helsinki — Sat, 2 May 2026
+- Kaiku, Helsinki — Fri, 29 Nov 2024
 
 ## Shares bills with
 
-BAUGRUPPE90, C4KE, Conntex
+C4KE, BAUGRUPPE90, Conntex
 
-*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/allfive/)*
+*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/allfive/)*

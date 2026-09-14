@@ -1,14 +1,13 @@
 # Lemonella
 
-Lemonella is a House and Downtempo artist with 2 upcoming club dates listed on soundcheck as of Sun, 13 Sept 2026, next at Kater, Berlin on Fri, 11 Sept 2026.
+Lemonella is a House and Downtempo artist with 1 upcoming club date listed on soundcheck as of Mon, 14 Sept 2026, next at gART.n, Berlin on Sat, 26 Sept 2026.
 
-Lemonella is a house and downtempo artist based in South Africa, tracked on soundcheck, with 46 sets logged across Barcelona, Berlin, Frankfurt and Hamburg and 5 more. Often billed alongside Esther Silex, Alma Linda and Britta Arnold. Next up: Kater, Berlin on Fri 11 Sept.
+Lemonella is a house and downtempo artist based in South Africa, tracked on soundcheck, with 46 sets logged across Barcelona, Berlin, Frankfurt and Hamburg and 5 more. Often billed alongside Esther Silex, Alma Linda and Britta Arnold. Next up: gART.n, Berlin on Sat 26 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 11 Sept 2026 | Kater | Berlin |
 | Sat, 26 Sept 2026 | gART.n | Berlin |
 
 ## Recently played
@@ -26,4 +25,4 @@ Lemonella is a house and downtempo artist based in South Africa, tracked on soun
 
 Esther Silex, Alma Linda, Britta Arnold
 
-*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lemonella/)*
+*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lemonella/)*

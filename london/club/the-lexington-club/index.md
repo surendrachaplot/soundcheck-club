@@ -1,6 +1,6 @@
 # The Lexington Club
 
-The Lexington Club is a music venue in London with 9 upcoming nights listed on soundcheck as of Sun, 13 Sept 2026; the next is "White Heat Club" on Fri, 18 Sept 2026.
+The Lexington Club is a music venue in London with 9 upcoming nights listed on soundcheck as of Mon, 14 Sept 2026; the next is "White Heat Club" on Fri, 18 Sept 2026.
 
 The Lexington Club is a music venue in London listed on soundcheck. 9 upcoming nights. Browse upcoming dates, start times and who's playing. 96-98 Pentonville Road; Angel; London N1 9JB, United Kingdom.
 
@@ -22,4 +22,4 @@ The Lexington Club is a music venue in London listed on soundcheck. 9 upcoming n
 
 96-98 Pentonville Road; Angel; London N1 9JB, United Kingdom, London
 
-*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/the-lexington-club/)*
+*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/the-lexington-club/)*

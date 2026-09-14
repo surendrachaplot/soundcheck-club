@@ -1,6 +1,6 @@
 # OB1
 
-OB1 is a Drum & Bass and Jungle artist with 1 upcoming club date listed on soundcheck as of Sun, 13 Sept 2026, next at Tekniikan Museo, Helsinki on Fri, 18 Sept 2026.
+OB1 is a Drum & Bass and Jungle artist with 1 upcoming club date listed on soundcheck as of Mon, 14 Sept 2026, next at Tekniikan Museo, Helsinki on Fri, 18 Sept 2026.
 
 OB1 is a drum & bass and jungle artist based in United Kingdom, tracked on soundcheck, with 14 sets logged across Amsterdam, Brighton, Hamburg and Helsinki and 1 more. Often billed alongside Kolectiv, Ryme Tyme and Zero T. Next up: Tekniikan Museo, Helsinki on Fri 18 Sept.
 
@@ -25,4 +25,4 @@ OB1 is a drum & bass and jungle artist based in United Kingdom, tracked on sound
 
 Kolectiv, Ryme Tyme, Zero T
 
-*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ob1/)*
+*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ob1/)*

@@ -1,6 +1,6 @@
 # David Elimelech
 
-David Elimelech is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 13 Sept 2026, next at Giselle, Düsseldorf on Fri, 18 Sept 2026.
+David Elimelech is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 14 Sept 2026, next at Giselle, Düsseldorf on Fri, 18 Sept 2026.
 
 David Elimelech is a house and techno artist tracked on soundcheck, with 71 sets logged across Amsterdam, Athens, Berlin and Chicago and 25 more. Often billed alongside Partok, Roi Perez and Samira. Next up: Giselle, Dusseldorf on Fri 18 Sept.
 
@@ -25,4 +25,4 @@ David Elimelech is a house and techno artist tracked on soundcheck, with 71 sets
 
 Partok, Roi Perez, Samira
 
-*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/davidelimelech/)*
+*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/davidelimelech/)*

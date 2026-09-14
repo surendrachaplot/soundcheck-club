@@ -1,6 +1,6 @@
 # Arcfilter
 
-Arcfilter is a Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 13 Sept 2026, next at Bünker Mataró, Barcelona on Fri, 2 Oct 2026.
+Arcfilter is a Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 14 Sept 2026, next at Bünker Mataró, Barcelona on Fri, 2 Oct 2026.
 
 Arcfilter is a techno artist tracked on soundcheck, with 16 sets logged across Barcelona, Madrid and Malaga. Often billed alongside ALT8, ORBE and Riana Holley. Next up: Bünker Mataró, Barcelona on Fri 2 Oct.
 
@@ -25,4 +25,4 @@ Arcfilter is a techno artist tracked on soundcheck, with 16 sets logged across B
 
 ALT8, ORBE, Riana Holley
 
-*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/arcfilter/)*
+*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/arcfilter/)*

@@ -1,6 +1,6 @@
 # Theta State
 
-Theta State is a Techno and Tech House artist with 2 upcoming club dates listed on soundcheck as of Sun, 13 Sept 2026, next at The Comfort Zone, Toronto on Sat, 26 Sept 2026.
+Theta State is a Techno and Tech House artist with 2 upcoming club dates listed on soundcheck as of Mon, 14 Sept 2026, next at The Comfort Zone, Toronto on Sat, 26 Sept 2026.
 
 Theta State is a techno and tech house artist tracked on soundcheck, with 16 sets logged across Toronto. Often billed alongside Manzone & Strong, Farouki and Jerome Robins. Next up: The Comfort Zone, Toronto on Sat 26 Sept.
 
@@ -26,4 +26,4 @@ Theta State is a techno and tech house artist tracked on soundcheck, with 16 set
 
 Manzone & Strong, Farouki, Jerome Robins
 
-*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/thetastate/)*
+*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/thetastate/)*

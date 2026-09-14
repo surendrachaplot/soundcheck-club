@@ -1,6 +1,6 @@
 # Heavy Sick Zero
 
-Heavy Sick Zero is a music venue in Tokyo with 5 upcoming nights listed on soundcheck as of Sun, 13 Sept 2026; the next is "Groove Jam Machine vol.34 8th Anniv.Special" on Sat, 19 Sept 2026.
+Heavy Sick Zero is a music venue in Tokyo with 5 upcoming nights listed on soundcheck as of Mon, 14 Sept 2026; the next is "Groove Jam Machine vol.34 8th Anniv.Special" on Sat, 19 Sept 2026.
 
 Heavy Sick Zero is a music venue in Tokyo listed on soundcheck. 5 upcoming nights, with line-ups including BASiRiNO, Hinode, HOBOBRAZIL and KOTARO (2) and 2 more. Browse upcoming dates, start times and who's playing. 5-41-8, Nakano-ku Nakano, Tokyo.
 
@@ -18,4 +18,4 @@ Heavy Sick Zero is a music venue in Tokyo listed on soundcheck. 5 upcoming night
 
 5-41-8, Nakano-ku Nakano, Tokyo, Tokyo
 
-*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/heavy-sick-zero/)*
+*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/heavy-sick-zero/)*

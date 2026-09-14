@@ -1,8 +1,8 @@
 # Girl Unit
 
-Girl Unit is a Experimental and Trance artist with 1 upcoming club date listed on soundcheck as of Sun, 13 Sept 2026, next at Unit 58, London on Fri, 25 Sept 2026.
+Girl Unit is a Experimental and Trance artist with 1 upcoming club date listed on soundcheck as of Mon, 14 Sept 2026, next at Unit 58, London on Fri, 25 Sept 2026.
 
-Girl Unit is an experimental and trance artist tracked on soundcheck, with 20 sets logged across Dublin, London, Manchester and Melbourne and 1 more. Often billed alongside Bok Bok, Ikonika and OSSX. Next up: Unit 58, London on Fri 25 Sept.
+Girl Unit is an experimental and trance artist tracked on soundcheck, with 21 sets logged across Dublin, Helsinki, London and Manchester and 2 more. Often billed alongside Bok Bok, Ikonika and OSSX. Next up: Unit 58, London on Fri 25 Sept.
 
 ## Upcoming shows
 
@@ -19,10 +19,10 @@ Girl Unit is an experimental and trance artist tracked on soundcheck, with 20 se
 - Corsica Studios, London — Fri, 30 May 2025
 - Bar A Bar, London — Fri, 23 May 2025
 - The White Hotel, Manchester — Fri, 24 Jan 2025
-- Bar A Bar, London — Fri, 29 Nov 2024
+- Post Bar, Helsinki — Sat, 30 Nov 2024
 
 ## Shares bills with
 
 Bok Bok, Ikonika, OSSX
 
-*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/girlunit/)*
+*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/girlunit/)*

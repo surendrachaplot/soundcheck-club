@@ -1,6 +1,6 @@
 # Ben Kok (2)
 
-Ben Kok (2) is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Sun, 13 Sept 2026, next at The Bongo Club, Edinburgh on Tue, 15 Sept 2026.
+Ben Kok (2) is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Mon, 14 Sept 2026, next at The Bongo Club, Edinburgh on Tue, 15 Sept 2026.
 
 Ben Kok (2) is a house and tech house artist based in South Africa, tracked on soundcheck, with 14 sets logged across Edinburgh. Often billed alongside Suggy, Pheebs and Trucha. Next up: The Bongo Club, Edinburgh on Tue 15 Sept.
 
@@ -26,4 +26,4 @@ Ben Kok (2) is a house and tech house artist based in South Africa, tracked on s
 
 Suggy, Pheebs, Trucha
 
-*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/benkok-2/)*
+*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/benkok-2/)*

@@ -1,14 +1,13 @@
 # Sofia Kourtesis
 
-Sofia Kourtesis is a House and Techno artist with 6 upcoming club dates listed on soundcheck as of Sun, 13 Sept 2026, next at The Cause, London on Sat, 12 Sept 2026.
+Sofia Kourtesis is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Mon, 14 Sept 2026, next at Quarters, Brighton on Fri, 18 Sept 2026.
 
-Sofia Kourtesis is a house and techno artist tracked on soundcheck, with 139 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 43 more. Often billed alongside Bonobo, DJ Tennis and Paula Tape. Next up: The Cause, London on Sat 12 Sept.
+Sofia Kourtesis is a house and techno artist tracked on soundcheck, with 139 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 43 more. Often billed alongside Bonobo, DJ Tennis and Paula Tape. Next up: Quarters, Brighton on Fri 18 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 12 Sept 2026 | The Cause | London |
 | Fri, 18 Sept 2026 | Quarters | Brighton |
 | Sat, 19 Sept 2026 | Sub Club | Glasgow |
 | Sun, 20 Sept 2026 | Sneaky Pete's | Edinburgh |
@@ -30,4 +29,4 @@ Sofia Kourtesis is a house and techno artist tracked on soundcheck, with 139 set
 
 Bonobo, DJ Tennis, Paula Tape
 
-*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sofiakourtesis/)*
+*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sofiakourtesis/)*

@@ -1,6 +1,6 @@
 # Sterling Juan Diaz
 
-Sterling Juan Diaz is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Sun, 13 Sept 2026, next at TRANSMISSION DC, Washington DC on Sat, 19 Sept 2026.
+Sterling Juan Diaz is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Mon, 14 Sept 2026, next at TRANSMISSION DC, Washington DC on Sat, 19 Sept 2026.
 
 Sterling Juan Diaz is a house and techno artist tracked on soundcheck, with 126 sets logged across Berlin, Chicago, Leipzig and Losangeles and 5 more. Often billed alongside Sekucci, ALEXIS DE LA ROSA and Josh Steers. Next up: TRANSMISSION DC, Washingtondc on Sat 19 Sept.
 
@@ -27,4 +27,4 @@ Sterling Juan Diaz is a house and techno artist tracked on soundcheck, with 126 
 
 Sekucci, ALEXIS DE LA ROSA, Josh Steers
 
-*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sterlingjuandiaz/)*
+*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sterlingjuandiaz/)*

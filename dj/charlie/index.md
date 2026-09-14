@@ -1,8 +1,8 @@
 # Charlie
 
-Charlie is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sun, 13 Sept 2026, next at Club Guesthouse, Bucharest on Sat, 19 Sept 2026.
+Charlie is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Mon, 14 Sept 2026, next at Club Guesthouse, Bucharest on Sat, 19 Sept 2026.
 
-Charlie is a techno and house artist tracked on soundcheck, with 135 sets logged across Amsterdam, Barcelona, Berlin and Brighton and 22 more. Often billed alongside Marsman, Priku and Arapu. Next up: Club Guesthouse, Bucharest on Sat 19 Sept.
+Charlie is a techno and house artist tracked on soundcheck, with 137 sets logged across Amsterdam, Barcelona, Berlin and Brighton and 23 more. Often billed alongside Marsman, Priku and Arapu. Next up: Club Guesthouse, Bucharest on Sat 19 Sept.
 
 ## Upcoming shows
 
@@ -26,4 +26,4 @@ Charlie is a techno and house artist tracked on soundcheck, with 135 sets logged
 
 Marsman, Priku, Arapu
 
-*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/charlie/)*
+*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/charlie/)*

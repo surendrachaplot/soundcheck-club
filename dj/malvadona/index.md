@@ -1,6 +1,6 @@
 # MALVADØNA
 
-MALVADØNA is a Footwork and Jungle artist with 1 upcoming club date listed on soundcheck as of Sun, 13 Sept 2026, next at Rebellion, Manchester on Fri, 2 Oct 2026.
+MALVADØNA is a Footwork and Jungle artist with 1 upcoming club date listed on soundcheck as of Mon, 14 Sept 2026, next at Rebellion, Manchester on Fri, 2 Oct 2026.
 
 MALVADØNA is a footwork and jungle artist tracked on soundcheck, with 7 sets logged across Manchester. Often billed alongside AdomasLP, Girlfriend and 2CUTE2CUE. Next up: Rebellion, Manchester on Fri 2 Oct.
 
@@ -23,4 +23,4 @@ MALVADØNA is a footwork and jungle artist tracked on soundcheck, with 7 sets lo
 
 AdomasLP, Girlfriend, 2CUTE2CUE
 
-*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/malvadona/)*
+*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/malvadona/)*

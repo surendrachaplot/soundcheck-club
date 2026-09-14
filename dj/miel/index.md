@@ -1,6 +1,6 @@
 # Miel
 
-Miel is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sun, 13 Sept 2026, next at Z Maruyama, Tokyo on Sat, 26 Sept 2026.
+Miel is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 14 Sept 2026, next at Z Maruyama, Tokyo on Sat, 26 Sept 2026.
 
 Miel is a techno and house artist based in United States of America, tracked on soundcheck, with 19 sets logged across Bali, Lyon, Mexicocity and Tokyo. Often billed alongside SIGNAL (JP), Anri and DJ ISE. Next up: Z Maruyama, Tokyo on Sat 26 Sept.
 
@@ -25,4 +25,4 @@ Miel is a techno and house artist based in United States of America, tracked on 
 
 SIGNAL (JP), Anri, DJ ISE
 
-*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/miel/)*
+*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/miel/)*

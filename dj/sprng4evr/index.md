@@ -1,6 +1,6 @@
 # Sprng4evr
 
-Sprng4evr is a House and R&B artist with 1 upcoming club date listed on soundcheck as of Sun, 13 Sept 2026, next at Big Pink, Detroit on Fri, 18 Sept 2026.
+Sprng4evr is a House and R&B artist with 1 upcoming club date listed on soundcheck as of Mon, 14 Sept 2026, next at Big Pink, Detroit on Fri, 18 Sept 2026.
 
 Sprng4evr is a house and r&b artist tracked on soundcheck, with 3 sets logged across Detroit. Often billed alongside Dastardly Kids, Fullbodydurag and HiTech. Next up: Big Pink, Detroit on Fri 18 Sept.
 
@@ -19,4 +19,4 @@ Sprng4evr is a house and r&b artist tracked on soundcheck, with 3 sets logged ac
 
 Dastardly Kids, Fullbodydurag, HiTech
 
-*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sprng4evr/)*
+*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sprng4evr/)*

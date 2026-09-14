@@ -1,6 +1,6 @@
 # DJ Spinn
 
-DJ Spinn is a Footwork and Ghetto Tech artist with 2 upcoming club dates listed on soundcheck as of Sun, 13 Sept 2026, next at Palais, London on Fri, 2 Oct 2026.
+DJ Spinn is a Footwork and Ghetto Tech artist with 2 upcoming club dates listed on soundcheck as of Mon, 14 Sept 2026, next at Palais, London on Fri, 2 Oct 2026.
 
 DJ Spinn is a footwork and ghetto tech artist based in United States of America, tracked on soundcheck, with 60 sets logged across Amsterdam, Barcelona, Berlin and Bristol and 19 more. Often billed alongside Traxman, RP Boo and Big Dope P. Next up: Palais, London on Fri 2 Oct.
 
@@ -26,4 +26,4 @@ DJ Spinn is a footwork and ghetto tech artist based in United States of America,
 
 Traxman, RP Boo, Big Dope P
 
-*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djspinn/)*
+*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djspinn/)*

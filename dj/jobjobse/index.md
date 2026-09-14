@@ -1,14 +1,13 @@
 # Job Jobse
 
-Job Jobse is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Sun, 13 Sept 2026, next at Auditorium Parco della Musica, Rome on Sat, 12 Sept 2026.
+Job Jobse is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Mon, 14 Sept 2026, next at Depot Mayfield, Manchester on Sat, 26 Sept 2026.
 
-Job Jobse is a house and techno artist tracked on soundcheck, with 144 sets logged across Amsterdam, Athens, Bali and Barcelona and 42 more. Often billed alongside Palms Trax, BASHKKA and Saoirse. Next up: Auditorium Parco della Musica, Rome on Sat 12 Sept.
+Job Jobse is a house and techno artist tracked on soundcheck, with 145 sets logged across Amsterdam, Athens, Bali and Barcelona and 43 more. Often billed alongside Palms Trax, BASHKKA and Saoirse. Next up: Depot Mayfield, Manchester on Sat 26 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 12 Sept 2026 | Auditorium Parco della Musica | Rome |
 | Sat, 26 Sept 2026 | Depot Mayfield | Manchester |
 | Fri, 23 Oct 2026 | GASHOUDER | Amsterdam |
 | Sat, 24 Oct 2026 | Taets Art & Event Park | Amsterdam |
@@ -29,4 +28,4 @@ Job Jobse is a house and techno artist tracked on soundcheck, with 144 sets logg
 
 Palms Trax, BASHKKA, Saoirse
 
-*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jobjobse/)*
+*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jobjobse/)*

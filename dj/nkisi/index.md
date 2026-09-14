@@ -1,8 +1,8 @@
 # Nkisi
 
-Nkisi is a Experimental and Techno artist with 3 upcoming club dates listed on soundcheck as of Sun, 13 Sept 2026, next at Club Cheek, London on Sun, 20 Sept 2026.
+Nkisi is a Experimental and Techno artist with 3 upcoming club dates listed on soundcheck as of Mon, 14 Sept 2026, next at Club Cheek, London on Sun, 20 Sept 2026.
 
-Nkisi is an experimental and techno artist tracked on soundcheck, with 91 sets logged across Amsterdam, Berlin, Birmingham and Bristol and 19 more. Often billed alongside Rainy Miller, Jon K and 2K88. Next up: Club Cheek, London on Sun 20 Sept.
+Nkisi is an experimental and techno artist tracked on soundcheck, with 92 sets logged across Amsterdam, Berlin, Birmingham and Bristol and 20 more. Often billed alongside Rainy Miller, Jon K and 2K88. Next up: Club Cheek, London on Sun 20 Sept.
 
 ## Upcoming shows
 
@@ -27,4 +27,4 @@ Nkisi is an experimental and techno artist tracked on soundcheck, with 91 sets l
 
 Rainy Miller, Jon K, 2K88
 
-*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nkisi/)*
+*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nkisi/)*

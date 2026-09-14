@@ -1,6 +1,6 @@
 # DJ YumYum
 
-DJ YumYum is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Sun, 13 Sept 2026, next at Sensorium, Berlin on Fri, 18 Sept 2026.
+DJ YumYum is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Mon, 14 Sept 2026, next at Sensorium, Berlin on Fri, 18 Sept 2026.
 
 DJ YumYum is a techno and trance artist based in Germany, tracked on soundcheck, with 8 sets logged across Berlin and Leipzig. Often billed alongside Bunny Tsukino, DERICE and micina. Next up: Sensorium, Berlin on Fri 18 Sept.
 
@@ -24,4 +24,4 @@ DJ YumYum is a techno and trance artist based in Germany, tracked on soundcheck,
 
 Bunny Tsukino, DERICE, micina
 
-*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djyumyum/)*
+*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djyumyum/)*

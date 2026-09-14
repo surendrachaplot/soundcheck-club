@@ -1,6 +1,6 @@
 # Mr Scruff
 
-Mr Scruff is a House and Funk / Soul artist with 6 upcoming club dates listed on soundcheck as of Sun, 13 Sept 2026, next at TBA - Location sent morning of the event, Stockholm on Sat, 26 Sept 2026.
+Mr Scruff is a House and Funk / Soul artist with 6 upcoming club dates listed on soundcheck as of Mon, 14 Sept 2026, next at TBA - Location sent morning of the event, Stockholm on Sat, 26 Sept 2026.
 
 Mr Scruff is a house and funk / soul artist tracked on soundcheck, with 107 sets logged across Amsterdam, Barcelona, Berlin and Birmingham and 22 more. Often billed alongside Aroop Roy, Luke Una and Chunky. Next up: TBA - Location sent morning of the event, Stockholm on Sat 26 Sept.
 
@@ -30,4 +30,4 @@ Mr Scruff is a house and funk / soul artist tracked on soundcheck, with 107 sets
 
 Aroop Roy, Luke Una, Chunky
 
-*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mrscruff/)*
+*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mrscruff/)*

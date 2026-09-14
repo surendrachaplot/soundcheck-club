@@ -1,6 +1,6 @@
 # trillosta
 
-trillosta is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Sun, 13 Sept 2026, next at De Fik Garden, Amsterdam on Fri, 23 Oct 2026.
+trillosta is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Mon, 14 Sept 2026, next at De Fik Garden, Amsterdam on Fri, 23 Oct 2026.
 
 trillosta is a techno and trance artist tracked on soundcheck, with 60 sets logged across Amsterdam, Berlin, Brussels and Budapest and 3 more. Often billed alongside Wannes Lenaers, Helena Lauwaert and Pegassi. Next up: De Fik Garden, Amsterdam on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ trillosta is a techno and trance artist tracked on soundcheck, with 60 sets logg
 
 Wannes Lenaers, Helena Lauwaert, Pegassi
 
-*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/trillosta/)*
+*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/trillosta/)*

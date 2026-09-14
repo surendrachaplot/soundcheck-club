@@ -1,6 +1,6 @@
 # BUS Hexperience
 
-BUS Hexperience is a music venue in Barcelona with 4 upcoming nights listed on soundcheck as of Sun, 13 Sept 2026; the next is "OPEN AIR // Bus Hexperience" on Thu, 17 Sept 2026.
+BUS Hexperience is a music venue in Barcelona with 4 upcoming nights listed on soundcheck as of Mon, 14 Sept 2026; the next is "OPEN AIR // Bus Hexperience" on Thu, 17 Sept 2026.
 
 BUS Hexperience is a music venue in Barcelona listed on soundcheck. 4 upcoming nights, with line-ups including Frucula, Lucas Frank, Nahuel Di Pasquale and PINI and 1 more. Browse upcoming dates, start times and who's playing. C/ Port Esportiu, 14, 08930 Sant Adrià de Besòs, Barcelona.
 
@@ -17,4 +17,4 @@ BUS Hexperience is a music venue in Barcelona listed on soundcheck. 4 upcoming n
 
 C/ Port Esportiu, 14, 08930 Sant Adrià de Besòs, Barcelona, Barcelona
 
-*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/bus-hexperience/)*
+*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/bus-hexperience/)*

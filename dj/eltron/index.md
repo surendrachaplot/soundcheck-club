@@ -1,6 +1,6 @@
 # Eltron
 
-Eltron is a Techno and Bass artist with 1 upcoming club date listed on soundcheck as of Sun, 13 Sept 2026, next at Sekta Selekta, Krakow on Fri, 18 Sept 2026.
+Eltron is a Techno and Bass artist with 1 upcoming club date listed on soundcheck as of Mon, 14 Sept 2026, next at Sekta Selekta, Krakow on Fri, 18 Sept 2026.
 
 Eltron is a techno and bass artist tracked on soundcheck, with 11 sets logged across Berlin, Krakow and Warsaw. Often billed alongside MATRIX3K, Hannes Teichmann and Kovvalsky. Next up: Sekta Selekta, Krakow on Fri 18 Sept.
 
@@ -25,4 +25,4 @@ Eltron is a techno and bass artist tracked on soundcheck, with 11 sets logged ac
 
 MATRIX3K, Hannes Teichmann, Kovvalsky
 
-*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/eltron/)*
+*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/eltron/)*

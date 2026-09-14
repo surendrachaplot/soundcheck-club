@@ -1,6 +1,6 @@
 # Laska V21
 
-Laska V21 is a music venue in Riga with 5 upcoming nights listed on soundcheck as of Sun, 13 Sept 2026; the next is "Vinyl Open Decks" on Sun, 20 Sept 2026.
+Laska V21 is a music venue in Riga with 5 upcoming nights listed on soundcheck as of Mon, 14 Sept 2026; the next is "Vinyl Open Decks" on Sun, 20 Sept 2026.
 
 Laska V21 is a music venue in Riga listed on soundcheck. 5 upcoming nights, with line-ups including E91, First kiss, Freiya March and Grisha Nirgov and 2 more. Browse upcoming dates, start times and who's playing. Vagonu iela 21Latgales priekšpilsēta, Rīga, LV-1009, Latvia.
 
@@ -18,4 +18,4 @@ Laska V21 is a music venue in Riga listed on soundcheck. 5 upcoming nights, with
 
 Vagonu iela 21Latgales priekšpilsēta, Rīga, LV-1009, Latvia, Riga
 
-*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/riga/club/laska-v21/)*
+*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/riga/club/laska-v21/)*

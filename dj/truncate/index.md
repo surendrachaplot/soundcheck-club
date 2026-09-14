@@ -1,6 +1,6 @@
 # Truncate
 
-Truncate is a Techno and House artist with 8 upcoming club dates listed on soundcheck as of Sun, 13 Sept 2026, next at Lincoln Factory, Detroit on Sat, 19 Sept 2026.
+Truncate is a Techno and House artist with 8 upcoming club dates listed on soundcheck as of Mon, 14 Sept 2026, next at Lincoln Factory, Detroit on Sat, 19 Sept 2026.
 
 Truncate is a techno and house artist tracked on soundcheck, with 151 sets logged across Amsterdam, Austin, Barcelona and Basel and 41 more. Often billed alongside Drumcell, DJ Hyperactive and Max Gardner. Next up: Lincoln Factory, Detroit on Sat 19 Sept.
 
@@ -32,4 +32,4 @@ Truncate is a techno and house artist tracked on soundcheck, with 151 sets logge
 
 Drumcell, DJ Hyperactive, Max Gardner
 
-*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/truncate/)*
+*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/truncate/)*

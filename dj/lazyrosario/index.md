@@ -1,18 +1,18 @@
 # Lazy Rosario
 
-Lazy Rosario is a Guaracha and Reggaeton artist with 2 upcoming club dates listed on soundcheck as of Sun, 13 Sept 2026, next at Crack Bellmer, Berlin on Sun, 13 Sept 2026.
+Lazy Rosario is a Guaracha and Reggaeton artist with 1 upcoming club date listed on soundcheck as of Mon, 14 Sept 2026, next at ÆDEN, Berlin on Sat, 19 Sept 2026.
 
-Lazy Rosario is a guaracha and reggaeton artist based in Spain, tracked on soundcheck, with 13 sets logged across Berlin and Leipzig. Often billed alongside Isa GT, MALAGÜERA and Linapary. Next up: Crack Bellmer, Berlin on Sun 13 Sept.
+Lazy Rosario is a guaracha and reggaeton artist based in Spain, tracked on soundcheck, with 13 sets logged across Berlin and Leipzig. Often billed alongside Isa GT, MALAGÜERA and Linapary. Next up: ÆDEN, Berlin on Sat 19 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sun, 13 Sept 2026 | Crack Bellmer | Berlin |
 | Sat, 19 Sept 2026 | ÆDEN | Berlin |
 
 ## Recently played
 
+- Crack Bellmer, Berlin — Sun, 13 Sept 2026
 - ÆDEN, Berlin — Fri, 24 Jul 2026
 - Ferropolis, Leipzig — Fri, 17 Jul 2026
 - ÆDEN, Berlin — Sat, 20 Jun 2026
@@ -20,10 +20,9 @@ Lazy Rosario is a guaracha and reggaeton artist based in Spain, tracked on sound
 - ÆDEN, Berlin — Sat, 28 Feb 2026
 - ÆDEN, Berlin — Fri, 5 Dec 2025
 - ÆDEN, Berlin — Sat, 4 Oct 2025
-- ÆDEN, Berlin — Sat, 16 Aug 2025
 
 ## Shares bills with
 
 Isa GT, MALAGÜERA, Linapary
 
-*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lazyrosario/)*
+*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lazyrosario/)*

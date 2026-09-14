@@ -1,6 +1,6 @@
 # The Blaze
 
-The Blaze is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Sun, 13 Sept 2026, next at TBA - Aeródromo Vilar de Luz - LPVL, 4425 Folgosa, Portugal, Porto on Fri, 18 Sept 2026.
+The Blaze is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Mon, 14 Sept 2026, next at TBA - Aeródromo Vilar de Luz - LPVL, 4425 Folgosa, Portugal, Porto on Fri, 18 Sept 2026.
 
 The Blaze is a house and techno artist tracked on soundcheck, with 52 sets logged across Amsterdam, Barcelona, Brussels and Chicago and 25 more. Often billed alongside Jayda G, Miss Monique and Eliza Rose. Next up: TBA - Aeródromo Vilar de Luz - LPVL, 4425 Folgosa, Portugal, Porto on Fri 18 Sept.
 
@@ -27,4 +27,4 @@ The Blaze is a house and techno artist tracked on soundcheck, with 52 sets logge
 
 Jayda G, Miss Monique, Eliza Rose
 
-*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/theblaze/)*
+*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/theblaze/)*

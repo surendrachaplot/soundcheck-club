@@ -1,6 +1,6 @@
 # YoungLolo
 
-YoungLolo is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Sun, 13 Sept 2026, next at Almar Beach Club, Barcelona on Sun, 20 Sept 2026.
+YoungLolo is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Mon, 14 Sept 2026, next at Almar Beach Club, Barcelona on Sun, 20 Sept 2026.
 
 YoungLolo is a house and minimal artist tracked on soundcheck, with 2 sets logged across Barcelona and Berlin. Often billed alongside CAZOU, DISARLI and DJ Jordan. Next up: Almar Beach Club, Barcelona on Sun 20 Sept.
 
@@ -18,4 +18,4 @@ YoungLolo is a house and minimal artist tracked on soundcheck, with 2 sets logge
 
 CAZOU, DISARLI, DJ Jordan
 
-*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/younglolo/)*
+*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/younglolo/)*

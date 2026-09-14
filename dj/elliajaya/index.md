@@ -1,14 +1,13 @@
 # Ellia Jaya
 
-Ellia Jaya is a House and Tech House artist with 7 upcoming club dates listed on soundcheck as of Sun, 13 Sept 2026, next at Colorado Charlie, The Hague on Sun, 13 Sept 2026.
+Ellia Jaya is a House and Tech House artist with 6 upcoming club dates listed on soundcheck as of Mon, 14 Sept 2026, next at XOYO, London on Sat, 19 Sept 2026.
 
-Ellia Jaya is a house and tech house artist tracked on soundcheck, with 89 sets logged across Amsterdam, Bali, Barcelona and Belfast and 19 more. Often billed alongside Gaskin, Ellam and L.P. Rhythm. Next up: Colorado Charlie, Thehague on Sun 13 Sept.
+Ellia Jaya is a house and tech house artist tracked on soundcheck, with 89 sets logged across Amsterdam, Bali, Barcelona and Belfast and 19 more. Often billed alongside Gaskin, Ellam and L.P. Rhythm. Next up: XOYO, London on Sat 19 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sun, 13 Sept 2026 | Colorado Charlie | The Hague |
 | Sat, 19 Sept 2026 | XOYO | London |
 | Sun, 27 Sept 2026 | 528 Ibiza | Ibiza |
 | Fri, 2 Oct 2026 | Shelter Amsterdam | Amsterdam |
@@ -18,6 +17,7 @@ Ellia Jaya is a house and tech house artist tracked on soundcheck, with 89 sets 
 
 ## Recently played
 
+- Colorado Charlie, The Hague — Sun, 13 Sept 2026
 - Gaswrx Birmingham, London — Sat, 12 Sept 2026
 - 528 Ibiza, Ibiza — Fri, 4 Sept 2026
 - Cabaret Voltaire, Edinburgh — Fri, 28 Aug 2026
@@ -25,10 +25,9 @@ Ellia Jaya is a house and tech house artist tracked on soundcheck, with 89 sets 
 - Tiger Yard, Cardiff — Sat, 1 Aug 2026
 - The Nest, Nottingham — Sat, 1 Aug 2026
 - 528 Ibiza, Ibiza — Sun, 26 Jul 2026
-- The Ulster Sports Club, Belfast — Fri, 10 Jul 2026
 
 ## Shares bills with
 
 Gaskin, Ellam, L.P. Rhythm
 
-*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/elliajaya/)*
+*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/elliajaya/)*

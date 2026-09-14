@@ -1,8 +1,8 @@
 # DVS1
 
-DVS1 is a Techno and House artist with 18 upcoming club dates listed on soundcheck as of Sun, 13 Sept 2026, next at Openluchttheater Amersfoort, Amsterdam on Fri, 18 Sept 2026.
+DVS1 is a Techno and House artist with 18 upcoming club dates listed on soundcheck as of Mon, 14 Sept 2026, next at Openluchttheater Amersfoort, Amsterdam on Fri, 18 Sept 2026.
 
-DVS1 is a techno and house artist tracked on soundcheck, with 317 sets logged across Amsterdam, Antwerp, Athens and Austin and 69 more. Often billed alongside Ogazón, Jeff Mills and Helena Hauff. Next up: Openluchttheater Amersfoort, Amsterdam on Fri 18 Sept.
+DVS1 is a techno and house artist tracked on soundcheck, with 318 sets logged across Amsterdam, Antwerp, Athens and Austin and 69 more. Often billed alongside Ogazón, Jeff Mills and Helena Hauff. Next up: Openluchttheater Amersfoort, Amsterdam on Fri 18 Sept.
 
 ## Upcoming shows
 
@@ -36,4 +36,4 @@ DVS1 is a techno and house artist tracked on soundcheck, with 317 sets logged ac
 
 Ogazón, Jeff Mills, Helena Hauff
 
-*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dvs1/)*
+*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dvs1/)*

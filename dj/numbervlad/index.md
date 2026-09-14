@@ -1,6 +1,6 @@
 # Numbervlad
 
-Numbervlad is a House and Club artist with 1 upcoming club date listed on soundcheck as of Sun, 13 Sept 2026, next at Biás Vilerm, Mexico City on Tue, 15 Sept 2026.
+Numbervlad is a House and Club artist with 1 upcoming club date listed on soundcheck as of Mon, 14 Sept 2026, next at Biás Vilerm, Mexico City on Tue, 15 Sept 2026.
 
 Numbervlad is a house and club artist based in Mexico, tracked on soundcheck, with 8 sets logged across Mexicocity. Often billed alongside Jitsuo, Alerch and Andró Garrigós. Next up: Biás Vilerm, Mexicocity on Tue 15 Sept.
 
@@ -24,4 +24,4 @@ Numbervlad is a house and club artist based in Mexico, tracked on soundcheck, wi
 
 Jitsuo, Alerch, Andró Garrigós
 
-*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/numbervlad/)*
+*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/numbervlad/)*

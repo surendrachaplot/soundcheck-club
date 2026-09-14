@@ -1,6 +1,6 @@
 # SCARBA
 
-SCARBA is a Techno and Baile Funk artist with 2 upcoming club dates listed on soundcheck as of Sun, 13 Sept 2026, next at Dalston Den, London on Thu, 17 Sept 2026.
+SCARBA is a Techno and Baile Funk artist with 2 upcoming club dates listed on soundcheck as of Mon, 14 Sept 2026, next at Dalston Den, London on Thu, 17 Sept 2026.
 
 SCARBA is a techno and baile funk artist based in United Kingdom, tracked on soundcheck, with 29 sets logged across Brighton, London and Newcastle. Often billed alongside Nick Clev, Sam Beach and CHEZA LUCINA. Next up: Dalston Den, London on Thu 17 Sept.
 
@@ -26,4 +26,4 @@ SCARBA is a techno and baile funk artist based in United Kingdom, tracked on sou
 
 Nick Clev, Sam Beach, CHEZA LUCINA
 
-*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/scarba/)*
+*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/scarba/)*

@@ -1,6 +1,6 @@
 # Nixtrove
 
-Nixtrove is a Ambient and Experimental artist with 1 upcoming club date listed on soundcheck as of Sun, 13 Sept 2026, next at SB – Space Between, Nürnberg on Fri, 2 Oct 2026.
+Nixtrove is a Ambient and Experimental artist with 1 upcoming club date listed on soundcheck as of Mon, 14 Sept 2026, next at SB – Space Between, Nürnberg on Fri, 2 Oct 2026.
 
 Nixtrove is an ambient and experimental artist tracked on soundcheck, with 11 sets logged across Brussels, Losangeles, Montreal and Munich and 2 more. Often billed alongside Neo Edo, gonima and ARIA VEIL. Next up: SB – Space Between, Nurnberg on Fri 2 Oct.
 
@@ -25,4 +25,4 @@ Nixtrove is an ambient and experimental artist tracked on soundcheck, with 11 se
 
 Neo Edo, gonima, ARIA VEIL
 
-*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nixtrove/)*
+*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nixtrove/)*

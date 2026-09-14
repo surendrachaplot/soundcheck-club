@@ -1,6 +1,6 @@
 # The Crystal Method
 
-The Crystal Method is a Trance and Breakbeat artist with 1 upcoming club date listed on soundcheck as of Sun, 13 Sept 2026, next at Music Box, San Diego on Fri, 6 Nov 2026.
+The Crystal Method is a Trance and Breakbeat artist with 1 upcoming club date listed on soundcheck as of Mon, 14 Sept 2026, next at Music Box, San Diego on Fri, 6 Nov 2026.
 
 The Crystal Method is a trance and breakbeat artist based in United States of America, tracked on soundcheck, with 12 sets logged across Austin, Denver, Detroit and Houston and 6 more. Often billed alongside Paul Oakenfold, Orbital and DJ Hyper. Next up: Music Box, Sandiego on Fri 6 Nov.
 
@@ -25,4 +25,4 @@ The Crystal Method is a trance and breakbeat artist based in United States of Am
 
 Paul Oakenfold, Orbital, DJ Hyper
 
-*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/thecrystalmethod/)*
+*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/thecrystalmethod/)*

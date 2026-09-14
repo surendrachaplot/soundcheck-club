@@ -1,6 +1,6 @@
 # Bar Part Time
 
-Bar Part Time is a music venue in San Francisco/Oakland with 4 upcoming nights listed on soundcheck as of Sun, 13 Sept 2026; the next is "DJ Primo" on Thu, 17 Sept 2026.
+Bar Part Time is a music venue in San Francisco/Oakland with 4 upcoming nights listed on soundcheck as of Mon, 14 Sept 2026; the next is "DJ Primo" on Thu, 17 Sept 2026.
 
 Bar Part Time is a music venue in Sanfrancisco listed on soundcheck. 4 upcoming nights, with line-ups including DJ JUANNY, DJ Primo, Gi Gi and Lena Willikens and 1 more. Browse upcoming dates, start times and who's playing. 496 14th Street.
 
@@ -17,4 +17,4 @@ Bar Part Time is a music venue in Sanfrancisco listed on soundcheck. 4 upcoming 
 
 496 14th Street, San Francisco/Oakland
 
-*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/bar-part-time/)*
+*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/bar-part-time/)*

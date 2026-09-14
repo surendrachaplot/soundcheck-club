@@ -1,6 +1,6 @@
 # Julian Fijma
 
-Julian Fijma is a House and Tech House artist with 4 upcoming club dates listed on soundcheck as of Sun, 13 Sept 2026, next at Village Studios, Vancouver on Sat, 19 Sept 2026.
+Julian Fijma is a House and Tech House artist with 4 upcoming club dates listed on soundcheck as of Mon, 14 Sept 2026, next at Village Studios, Vancouver on Sat, 19 Sept 2026.
 
 Julian Fijma is a house and tech house artist tracked on soundcheck, with 108 sets logged across Aberdeen, Amsterdam, Barcelona and Belfast and 30 more. Often billed alongside East End Dubs, ALISHA and Jamback. Next up: Village Studios, Vancouver on Sat 19 Sept.
 
@@ -15,6 +15,7 @@ Julian Fijma is a house and tech house artist tracked on soundcheck, with 108 se
 
 ## Recently played
 
+- Piknic Électronik / Parc Jean Drapeau, Montreal — Sun, 13 Sept 2026
 - Smoke & Mirrors, Chicago — Sat, 12 Sept 2026
 - Coda, Toronto — Fri, 11 Sept 2026
 - Cova Santa, Ibiza — Mon, 7 Sept 2026
@@ -22,10 +23,9 @@ Julian Fijma is a house and tech house artist tracked on soundcheck, with 108 se
 - Refuge, New York City — Sat, 15 Aug 2026
 - Sloterpark, Amsterdam — Sat, 8 Aug 2026
 - Palmerstown House Estate, Dublin — Sat, 8 Aug 2026
-- Ushuaïa Ibiza, Ibiza — Sat, 1 Aug 2026
 
 ## Shares bills with
 
 East End Dubs, ALISHA, Jamback
 
-*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/julianfijma/)*
+*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/julianfijma/)*

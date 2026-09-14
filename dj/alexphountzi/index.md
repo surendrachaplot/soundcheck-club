@@ -1,6 +1,6 @@
 # Alex Phountzi
 
-Alex Phountzi is a Broken Beat and House artist with 1 upcoming club date listed on soundcheck as of Sun, 13 Sept 2026, next at The Carpet Shop, London on Sat, 10 Oct 2026.
+Alex Phountzi is a Broken Beat and House artist with 1 upcoming club date listed on soundcheck as of Mon, 14 Sept 2026, next at The Carpet Shop, London on Sat, 10 Oct 2026.
 
 Alex Phountzi is a broken beat and house artist tracked on soundcheck, with 11 sets logged across Bristol and London. Often billed alongside IG Culture, Izco and Alexander Nut. Next up: The Carpet Shop, London on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ Alex Phountzi is a broken beat and house artist tracked on soundcheck, with 11 s
 
 IG Culture, Izco, Alexander Nut
 
-*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/alexphountzi/)*
+*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/alexphountzi/)*

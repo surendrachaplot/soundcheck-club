@@ -1,6 +1,6 @@
 # Rebekah
 
-Rebekah is a Techno and Hardcore artist with 5 upcoming club dates listed on soundcheck as of Sun, 13 Sept 2026, next at Mdlr, Singapore on Fri, 18 Sept 2026.
+Rebekah is a Techno and Hardcore artist with 5 upcoming club dates listed on soundcheck as of Mon, 14 Sept 2026, next at Mdlr, Singapore on Fri, 18 Sept 2026.
 
 Rebekah is a techno and hardcore artist tracked on soundcheck, with 161 sets logged across Amsterdam, Austin, Barcelona and Basel and 58 more. Often billed alongside SNTS, AnD and DYEN. Next up: Mdlr, Singapore on Fri 18 Sept.
 
@@ -29,4 +29,4 @@ Rebekah is a techno and hardcore artist tracked on soundcheck, with 161 sets log
 
 SNTS, AnD, DYEN
 
-*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/rebekah/)*
+*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/rebekah/)*

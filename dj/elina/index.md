@@ -1,6 +1,6 @@
 # Elina
 
-Elina is a Breakcore and Hardcore artist with 2 upcoming club dates listed on soundcheck as of Sun, 13 Sept 2026, next at UNO MALTA, Malta on Fri, 18 Sept 2026.
+Elina is a Breakcore and Hardcore artist with 2 upcoming club dates listed on soundcheck as of Mon, 14 Sept 2026, next at UNO MALTA, Malta on Fri, 18 Sept 2026.
 
 Elina is a breakcore and hardcore artist tracked on soundcheck, with 14 sets logged across Barcelona, Ibiza, Malta and Sydney and 1 more. Often billed alongside Midsizedsedance, Melt Unit and Across Boundaries. Next up: UNO MALTA, Malta on Fri 18 Sept.
 
@@ -26,4 +26,4 @@ Elina is a breakcore and hardcore artist tracked on soundcheck, with 14 sets log
 
 Midsizedsedance, Melt Unit, Across Boundaries
 
-*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/elina/)*
+*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/elina/)*

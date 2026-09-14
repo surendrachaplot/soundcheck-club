@@ -1,6 +1,6 @@
 # amil raja
 
-amil raja is a Techno and Club artist with 2 upcoming club dates listed on soundcheck as of Sun, 13 Sept 2026, next at Garage Noord, Amsterdam on Sun, 20 Sept 2026.
+amil raja is a Techno and Club artist with 2 upcoming club dates listed on soundcheck as of Mon, 14 Sept 2026, next at Garage Noord, Amsterdam on Sun, 20 Sept 2026.
 
 amil raja is a techno and club artist tracked on soundcheck, with 13 sets logged across Amsterdam, Helsinki, London and Paris and 1 more. Often billed alongside The Twins (waitareyoutwins), 10cust and AMVN. Next up: Garage Noord, Amsterdam on Sun 20 Sept.
 
@@ -26,4 +26,4 @@ amil raja is a techno and club artist tracked on soundcheck, with 13 sets logged
 
 The Twins (waitareyoutwins), 10cust, AMVN
 
-*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/amilraja/)*
+*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/amilraja/)*

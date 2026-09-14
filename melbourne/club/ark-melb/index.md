@@ -1,6 +1,6 @@
 # ark (Melb)
 
-ark (Melb) is a music venue in Melbourne with 10 upcoming nights listed on soundcheck as of Sun, 13 Sept 2026; the next is "ark // Claire O'Brien - Human Movement - Tangerine" on Sat, 19 Sept 2026.
+ark (Melb) is a music venue in Melbourne with 10 upcoming nights listed on soundcheck as of Mon, 14 Sept 2026; the next is "ark // Claire O'Brien - Human Movement - Tangerine" on Sat, 19 Sept 2026.
 
 ark (Melb) is a music venue in Melbourne listed on soundcheck. 10 upcoming nights, with line-ups including Afrodisiac, Auramatic, Black Dave and Claire O'Brien and 2 more. Browse upcoming dates, start times and who's playing. 2 Geddes Lane, Melbourne, VIC.
 
@@ -23,4 +23,4 @@ ark (Melb) is a music venue in Melbourne listed on soundcheck. 10 upcoming night
 
 2 Geddes Lane, Melbourne, VIC, Melbourne
 
-*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/ark-melb/)*
+*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/ark-melb/)*

@@ -1,6 +1,6 @@
 # Franc Fala
 
-Franc Fala is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Sun, 13 Sept 2026, next at RAWFACTORY, Amsterdam on Sat, 24 Oct 2026.
+Franc Fala is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Mon, 14 Sept 2026, next at RAWFACTORY, Amsterdam on Sat, 24 Oct 2026.
 
 Franc Fala is a house and tech house artist tracked on soundcheck, with 35 sets logged across Amsterdam, Barcelona, Basel and Brussels and 10 more. Often billed alongside Benja, Benja (NL) and Cincity. Next up: RAWFACTORY, Amsterdam on Sat 24 Oct.
 
@@ -26,4 +26,4 @@ Franc Fala is a house and tech house artist tracked on soundcheck, with 35 sets 
 
 Benja, Benja (NL), Cincity
 
-*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/francfala/)*
+*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/francfala/)*

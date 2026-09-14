@@ -1,8 +1,8 @@
 # Snow Strippers
 
-Snow Strippers is a Electro and Electronica artist with 1 upcoming club date listed on soundcheck as of Sun, 13 Sept 2026, next at Factory Town, Miami on Sat, 19 Sept 2026.
+Snow Strippers is a Electro and Electronica artist with 1 upcoming club date listed on soundcheck as of Mon, 14 Sept 2026, next at Factory Town, Miami on Sat, 19 Sept 2026.
 
-Snow Strippers is an electro and electronica artist based in United States of America, tracked on soundcheck, with 52 sets logged across Austin, Barcelona, Basel and Berlin and 29 more. Often billed alongside Eera, Nick León and A. G. Cook. Next up: Factory Town, Miami on Sat 19 Sept.
+Snow Strippers is an electro and electronica artist based in United States of America, tracked on soundcheck, with 53 sets logged across Austin, Barcelona, Basel and Berlin and 30 more. Often billed alongside Eera, Nick León and A. G. Cook. Next up: Factory Town, Miami on Sat 19 Sept.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Snow Strippers is an electro and electronica artist based in United States of Am
 
 Eera, Nick León, A. G. Cook
 
-*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/snowstrippers/)*
+*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/snowstrippers/)*

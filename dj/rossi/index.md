@@ -1,14 +1,13 @@
 # Rossi
 
-Rossi is a House and Tech House artist with 14 upcoming club dates listed on soundcheck as of Sun, 13 Sept 2026, next at NDSM Docklands, Amsterdam on Sun, 13 Sept 2026.
+Rossi is a House and Tech House artist with 13 upcoming club dates listed on soundcheck as of Mon, 14 Sept 2026, next at UNO MALTA, Malta on Fri, 18 Sept 2026.
 
-Rossi is a house and tech house artist tracked on soundcheck, with 234 sets logged across Amsterdam, Auckland, Austin and Barcelona and 48 more. Often billed alongside Josh Baker, Enzo Siragusa and Traumer. Next up: NDSM Docklands, Amsterdam on Sun 13 Sept.
+Rossi is a house and tech house artist tracked on soundcheck, with 234 sets logged across Amsterdam, Auckland, Austin and Barcelona and 48 more. Often billed alongside Josh Baker, Enzo Siragusa and Traumer. Next up: UNO MALTA, Malta on Fri 18 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sun, 13 Sept 2026 | NDSM Docklands | Amsterdam |
 | Fri, 18 Sept 2026 | UNO MALTA | Malta |
 | Sat, 19 Sept 2026 | TBA - Ives Rd, London E16 4Sh | London |
 | Sat, 26 Sept 2026 | Waterfront Park in San Diego | San Diego |
@@ -20,9 +19,11 @@ Rossi is a house and tech house artist tracked on soundcheck, with 234 sets logg
 | Thu, 29 Oct 2026 | 1015 Folsom | San Francisco/Oakland |
 | Sat, 31 Oct 2026 | Brooklyn Storehouse | New York City |
 | Fri, 13 Nov 2026 | TESTBED | Leeds |
+| Fri, 27 Nov 2026 | Depot Mayfield | Manchester |
 
 ## Recently played
 
+- NDSM Docklands, Amsterdam — Sun, 13 Sept 2026
 - TBA - Secret location announced only to ticket holders, Ibiza — Fri, 11 Sept 2026
 - [UNVRS], Ibiza — Wed, 9 Sept 2026
 - Spaarnwoude (Deelplan Houtrak), Amsterdam — Sat, 29 Aug 2026
@@ -30,10 +31,9 @@ Rossi is a house and tech house artist tracked on soundcheck, with 234 sets logg
 - Expo Lawn West, Los Angeles — Sat, 22 Aug 2026
 - Brooklyn Storehouse, New York City — Fri, 21 Aug 2026
 - 528 Ibiza, Ibiza — Sun, 9 Aug 2026
-- BCM, Mallorca — Tue, 28 Jul 2026
 
 ## Shares bills with
 
 Josh Baker, Enzo Siragusa, Traumer
 
-*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/rossi/)*
+*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/rossi/)*

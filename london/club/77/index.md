@@ -1,6 +1,6 @@
 # 77
 
-77 is a music venue in London with 12 upcoming nights listed on soundcheck as of Sun, 13 Sept 2026; the next is "No Permission x MAX&Co. — London Fashion Week Edition" on Thu, 17 Sept 2026.
+77 is a music venue in London with 12 upcoming nights listed on soundcheck as of Mon, 14 Sept 2026; the next is "No Permission x MAX&Co. — London Fashion Week Edition" on Thu, 17 Sept 2026.
 
 77 is a music venue in London listed on soundcheck. 12 upcoming nights, with line-ups including AfroKillerz, AliTR, Angela Rose and BADBOX and 2 more. Browse upcoming dates, start times and who's playing. 77 Welbeck Street, W1G 0BB.
 
@@ -23,4 +23,4 @@
 
 77 Welbeck Street, W1G 0BB, London
 
-*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/77/)*
+*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/77/)*

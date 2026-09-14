@@ -1,6 +1,6 @@
 # Michael Myth
 
-Michael Myth is a Techno and Acid artist with 1 upcoming club date listed on soundcheck as of Sun, 13 Sept 2026, next at H2o6, Riga on Sat, 28 Nov 2026.
+Michael Myth is a Techno and Acid artist with 1 upcoming club date listed on soundcheck as of Mon, 14 Sept 2026, next at H2o6, Riga on Sat, 28 Nov 2026.
 
 Michael Myth is a techno and acid artist tracked on soundcheck, with 24 sets logged across Riga. Often billed alongside Paul Hnikin, Ksenia Kamikaza and Queer On Acid. Next up: H2o6, Riga on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ Michael Myth is a techno and acid artist tracked on soundcheck, with 24 sets log
 
 Paul Hnikin, Ksenia Kamikaza, Queer On Acid
 
-*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/michaelmyth/)*
+*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/michaelmyth/)*

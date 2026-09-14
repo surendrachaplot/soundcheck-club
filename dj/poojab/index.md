@@ -1,6 +1,6 @@
 # Pooja B
 
-Pooja B is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Sun, 13 Sept 2026, next at Ikii, Berlin on Sun, 20 Sept 2026.
+Pooja B is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Mon, 14 Sept 2026, next at Ikii, Berlin on Sun, 20 Sept 2026.
 
 Pooja B is a techno and house artist tracked on soundcheck, with 67 sets logged across Amsterdam, Antwerp, Berlin and Frankfurt and 9 more. Often billed alongside Gioski, Cristian Marras and DE FEO. Next up: Ikii, Berlin on Sun 20 Sept.
 
@@ -27,4 +27,4 @@ Pooja B is a techno and house artist tracked on soundcheck, with 67 sets logged 
 
 Gioski, Cristian Marras, DE FEO
 
-*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/poojab/)*
+*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/poojab/)*

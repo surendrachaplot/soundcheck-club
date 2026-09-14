@@ -1,6 +1,6 @@
 # Upper East
 
-Upper East is a music venue in London with 2 upcoming nights listed on soundcheck as of Sun, 13 Sept 2026; the next is "Perception - Rossko B2B Wax Material & Friends" on Sat, 14 Nov 2026.
+Upper East is a music venue in London with 2 upcoming nights listed on soundcheck as of Mon, 14 Sept 2026; the next is "Perception - Rossko B2B Wax Material & Friends" on Sat, 14 Nov 2026.
 
 Upper East is a music venue in London listed on soundcheck. 2 upcoming nights, with line-ups including Barnesey, Rossko and Wax Material. Browse upcoming dates, start times and who's playing. 30 Bidder Street, London, E16 4SH, United Kingdom.
 
@@ -15,4 +15,4 @@ Upper East is a music venue in London listed on soundcheck. 2 upcoming nights, w
 
 30 Bidder Street, London, E16 4SH, United Kingdom, London
 
-*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/upper-east/)*
+*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/upper-east/)*

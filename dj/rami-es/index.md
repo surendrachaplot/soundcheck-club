@@ -1,6 +1,6 @@
 # Ramî
 
-Ramî is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sun, 13 Sept 2026, next at Urban Spree, Berlin on Fri, 18 Sept 2026.
+Ramî is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Mon, 14 Sept 2026, next at Urban Spree, Berlin on Fri, 18 Sept 2026.
 
 Ramî is a house and techno artist tracked on soundcheck, with 33 sets logged across Barcelona, Berlin, Cologne and Madrid. Often billed alongside Julian Feierabend, GRETA (2) and ki:ke. Next up: Urban Spree, Berlin on Fri 18 Sept.
 
@@ -26,4 +26,4 @@ Ramî is a house and techno artist tracked on soundcheck, with 33 sets logged ac
 
 Julian Feierabend, GRETA (2), ki:ke
 
-*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/rami-es/)*
+*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/rami-es/)*

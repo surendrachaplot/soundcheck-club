@@ -1,14 +1,13 @@
 # Chlär
 
-Chlär is a Techno and House artist with 12 upcoming club dates listed on soundcheck as of Sun, 13 Sept 2026, next at Le Sucre, Lyon on Sun, 13 Sept 2026.
+Chlär is a Techno and House artist with 11 upcoming club dates listed on soundcheck as of Mon, 14 Sept 2026, next at IFEMA, Madrid on Fri, 18 Sept 2026.
 
-Chlär is a techno and house artist tracked on soundcheck, with 254 sets logged across Aberdeen, Amsterdam, Antwerp and Athens and 57 more. Often billed alongside Alarico, Funk Assault and Freddy K. Next up: Le Sucre, Lyon on Sun 13 Sept.
+Chlär is a techno and house artist tracked on soundcheck, with 255 sets logged across Aberdeen, Amsterdam, Antwerp and Athens and 57 more. Often billed alongside Alarico, Funk Assault and Freddy K. Next up: IFEMA, Madrid on Fri 18 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sun, 13 Sept 2026 | Le Sucre | Lyon |
 | Fri, 18 Sept 2026 | IFEMA | Madrid |
 | Fri, 18 Sept 2026 | IFEMA | Madrid |
 | Sat, 19 Sept 2026 | RADION | Amsterdam |
@@ -23,6 +22,7 @@ Chlär is a techno and house artist tracked on soundcheck, with 254 sets logged 
 
 ## Recently played
 
+- Le Sucre, Lyon — Sun, 13 Sept 2026
 - Le Kilowatt, Paris — Sat, 12 Sept 2026
 - Amnesia Ibiza, Ibiza — Sun, 6 Sept 2026
 - KREUZWERK, Berlin — Sat, 5 Sept 2026
@@ -30,10 +30,9 @@ Chlär is a techno and house artist tracked on soundcheck, with 254 sets logged 
 - Prince Charles, Berlin — Sat, 22 Aug 2026
 - Parc des Etangs/Vijverspark, Brussels — Fri, 14 Aug 2026
 - Sloterpark, Amsterdam — Sat, 8 Aug 2026
-- INPUT High Fidelity Dance Club, Barcelona — Fri, 7 Aug 2026
 
 ## Shares bills with
 
 Alarico, Funk Assault, Freddy K
 
-*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/chlar/)*
+*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/chlar/)*

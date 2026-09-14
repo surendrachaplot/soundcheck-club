@@ -1,6 +1,6 @@
 # Nyah Cami
 
-Nyah Cami is a Ghetto Tech and Club artist with 1 upcoming club date listed on soundcheck as of Sun, 13 Sept 2026, next at Hart Bar, New York City on Fri, 18 Sept 2026.
+Nyah Cami is a Ghetto Tech and Club artist with 1 upcoming club date listed on soundcheck as of Mon, 14 Sept 2026, next at Hart Bar, New York City on Fri, 18 Sept 2026.
 
 Nyah Cami is a ghetto tech and club artist tracked on soundcheck, with 3 sets logged across Newyorkcity. Often billed alongside Adelaide (1), CMD+JAZMINE and Christinathesaintt. Next up: Hart Bar, Newyorkcity on Fri 18 Sept.
 
@@ -19,4 +19,4 @@ Nyah Cami is a ghetto tech and club artist tracked on soundcheck, with 3 sets lo
 
 Adelaide (1), CMD+JAZMINE, Christinathesaintt
 
-*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nyahcami/)*
+*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nyahcami/)*

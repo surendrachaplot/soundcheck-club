@@ -1,6 +1,6 @@
 # Kiinjo
 
-Kiinjo is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Sun, 13 Sept 2026, next at TBA - 30 Maud Street, Toronto on Sat, 19 Sept 2026.
+Kiinjo is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Mon, 14 Sept 2026, next at TBA - 30 Maud Street, Toronto on Sat, 19 Sept 2026.
 
 Kiinjo is a house and disco artist based in Canada, tracked on soundcheck, with 31 sets logged across Detroit, Losangeles, Mexicocity and Montreal and 5 more. Often billed alongside Purple Disco Machine, RUDEE NIK and House of Lords. Next up: TBA - 30 Maud Street, Toronto on Sat 19 Sept.
 
@@ -26,4 +26,4 @@ Kiinjo is a house and disco artist based in Canada, tracked on soundcheck, with 
 
 Purple Disco Machine, RUDEE NIK, House of Lords
 
-*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kiinjo/)*
+*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kiinjo/)*

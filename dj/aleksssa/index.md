@@ -1,6 +1,6 @@
 # aleksssa
 
-aleksssa is a Techno and Club artist with 1 upcoming club date listed on soundcheck as of Sun, 13 Sept 2026, next at Para Klub Beograd, Belgrade on Sun, 20 Sept 2026.
+aleksssa is a Techno and Club artist with 1 upcoming club date listed on soundcheck as of Mon, 14 Sept 2026, next at Para Klub Beograd, Belgrade on Sun, 20 Sept 2026.
 
 aleksssa is a techno and club artist based in Serbia, tracked on soundcheck, with 31 sets logged across Belgrade and Malta. Often billed alongside Essio, Lollipop Janosz and .Paragon. Next up: Para Klub Beograd, Belgrade on Sun 20 Sept.
 
@@ -25,4 +25,4 @@ aleksssa is a techno and club artist based in Serbia, tracked on soundcheck, wit
 
 Essio, Lollipop Janosz, .Paragon
 
-*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/aleksssa/)*
+*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/aleksssa/)*

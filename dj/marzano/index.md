@@ -1,6 +1,6 @@
 # Marzano
 
-Marzano is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Sun, 13 Sept 2026, next at Balagan Roma, Rome on Fri, 18 Sept 2026.
+Marzano is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Mon, 14 Sept 2026, next at Balagan Roma, Rome on Fri, 18 Sept 2026.
 
 Marzano is a tech house and house artist tracked on soundcheck, with 4 sets logged across Rome. Often billed alongside DIANA, ABsG and Cristina Lazic. Next up: Balagan Roma, Rome on Fri 18 Sept.
 
@@ -20,4 +20,4 @@ Marzano is a tech house and house artist tracked on soundcheck, with 4 sets logg
 
 DIANA, ABsG, Cristina Lazic
 
-*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/marzano/)*
+*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/marzano/)*

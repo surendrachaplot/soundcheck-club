@@ -1,14 +1,13 @@
 # Midland
 
-Midland is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Sun, 13 Sept 2026, next at The Cause, London on Sat, 12 Sept 2026.
+Midland is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Mon, 14 Sept 2026, next at FOLD, London on Sat, 17 Oct 2026.
 
-Midland is a house and techno artist based in United Kingdom, tracked on soundcheck, with 109 sets logged across Amsterdam, Athens, Barcelona and Belfast and 38 more. Often billed alongside NIKS, Peach and Job Jobse. Next up: The Cause, London on Sat 12 Sept.
+Midland is a house and techno artist based in United Kingdom, tracked on soundcheck, with 110 sets logged across Amsterdam, Athens, Barcelona and Belfast and 39 more. Often billed alongside NIKS, Peach and Job Jobse. Next up: FOLD, London on Sat 17 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 12 Sept 2026 | The Cause | London |
 | Sat, 17 Oct 2026 | FOLD | London |
 | Thu, 22 Oct 2026 | Pllek | Amsterdam |
 | Sat, 31 Oct 2026 | Collingwood Children's Farm | Melbourne |
@@ -28,4 +27,4 @@ Midland is a house and techno artist based in United Kingdom, tracked on soundch
 
 NIKS, Peach, Job Jobse
 
-*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/midland/)*
+*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/midland/)*

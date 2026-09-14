@@ -1,6 +1,6 @@
 # Chopper (UK)
 
-Chopper (UK) is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Sun, 13 Sept 2026, next at 528 Ibiza, Ibiza on Fri, 18 Sept 2026.
+Chopper (UK) is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Mon, 14 Sept 2026, next at 528 Ibiza, Ibiza on Fri, 18 Sept 2026.
 
 Chopper (UK) is a house and tech house artist tracked on soundcheck, with 56 sets logged across Amsterdam, Antwerp, Birmingham and Ibiza and 7 more. Often billed alongside Ryan Resso, Stef Davidse and EVIE UK. Next up: 528 Ibiza, Ibiza on Fri 18 Sept.
 
@@ -26,4 +26,4 @@ Chopper (UK) is a house and tech house artist tracked on soundcheck, with 56 set
 
 Ryan Resso, Stef Davidse, EVIE UK
 
-*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/chopper-2/)*
+*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/chopper-2/)*

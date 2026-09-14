@@ -1,6 +1,6 @@
 # Mondo Open Air
 
-Mondo Open Air is a music venue in Madrid with 6 upcoming nights listed on soundcheck as of Sun, 13 Sept 2026; the next is "Mondo OPEN AIR #08: Patrick Mason / Pegassi / Gerardo Niva / EMILIJA / NewTone" on Sat, 19 Sept 2026.
+Mondo Open Air is a music venue in Madrid with 6 upcoming nights listed on soundcheck as of Mon, 14 Sept 2026; the next is "Mondo OPEN AIR #08: Patrick Mason / Pegassi / Gerardo Niva / EMILIJA / NewTone" on Sat, 19 Sept 2026.
 
 Mondo Open Air is a music venue in Madrid listed on soundcheck. 6 upcoming nights, with line-ups including Andres Campo, Bad Boombox, Benwal and BIXBITA and 2 more. Browse upcoming dates, start times and who's playing. Av. San Martín de Valdeiglesias, 22, 28922 Alcorcón, Madrid.
 
@@ -19,4 +19,4 @@ Mondo Open Air is a music venue in Madrid listed on soundcheck. 6 upcoming night
 
 Av. San Martín de Valdeiglesias, 22, 28922 Alcorcón, Madrid, Madrid
 
-*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/mondo-open-air/)*
+*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/mondo-open-air/)*

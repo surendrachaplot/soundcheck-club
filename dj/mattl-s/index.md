@@ -1,6 +1,6 @@
 # Matt L-S
 
-Matt L-S is a Deep House and Disco artist with 1 upcoming club date listed on soundcheck as of Sun, 13 Sept 2026, next at 91 Brick Lane, London on Fri, 18 Sept 2026.
+Matt L-S is a Deep House and Disco artist with 1 upcoming club date listed on soundcheck as of Mon, 14 Sept 2026, next at 91 Brick Lane, London on Fri, 18 Sept 2026.
 
 Matt L-S is a deep house and disco artist tracked on soundcheck, with 52 sets logged across London and Paris. Often billed alongside Jamesey, Davide Del Vecchio and Kojay. Next up: 91 Brick Lane, London on Fri 18 Sept.
 
@@ -25,4 +25,4 @@ Matt L-S is a deep house and disco artist tracked on soundcheck, with 52 sets lo
 
 Jamesey, Davide Del Vecchio, Kojay
 
-*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mattl-s/)*
+*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mattl-s/)*

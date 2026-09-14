@@ -1,6 +1,6 @@
 # TBA - Miami
 
-TBA - Miami is a music venue in Miami with 1 upcoming night listed on soundcheck as of Sun, 13 Sept 2026; the next is "Slow Life Showcase" on Sat, 10 Oct 2026.
+TBA - Miami is a music venue in Miami with 1 upcoming night listed on soundcheck as of Mon, 14 Sept 2026; the next is "Slow Life w/ Cecilio & Paulo Mosca + Rapture Deli Anniersary" on Sat, 10 Oct 2026.
 
 TBA - Miami is a music venue in Miami listed on soundcheck. 1 upcoming night, with line-ups including Cecilio and Paolo Mosca. Browse upcoming dates, start times and who's playing.
 
@@ -8,6 +8,6 @@ TBA - Miami is a music venue in Miami listed on soundcheck. 1 upcoming night, wi
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 10 Oct 2026 | Slow Life Showcase | Cecilio, Paolo Mosca |
+| Sat, 10 Oct 2026 | Slow Life w/ Cecilio & Paulo Mosca + Rapture Deli Anniersary | Cecilio, Paolo Mosca |
 
-*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/miami/club/tba-miami/)*
+*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/miami/club/tba-miami/)*

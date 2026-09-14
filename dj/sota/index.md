@@ -1,6 +1,6 @@
 # SOTA
 
-SOTA is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Sun, 13 Sept 2026, next at West Harlem, Kyoto on Mon, 21 Sept 2026.
+SOTA is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Mon, 14 Sept 2026, next at West Harlem, Kyoto on Mon, 21 Sept 2026.
 
 SOTA is a house and techno artist tracked on soundcheck, with 120 sets logged across Antwerp, Auckland, Brisbane and Kyoto and 10 more. Often billed alongside Sota Shimada, EUREKA and Hayato. Next up: West Harlem, Kyoto on Mon 21 Sept.
 
@@ -29,4 +29,4 @@ SOTA is a house and techno artist tracked on soundcheck, with 120 sets logged ac
 
 Sota Shimada, EUREKA, Hayato
 
-*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sota/)*
+*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sota/)*

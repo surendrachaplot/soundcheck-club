@@ -1,14 +1,13 @@
 # David Fogarty
 
-David Fogarty is a Techno and Trance artist with 4 upcoming club dates listed on soundcheck as of Sun, 13 Sept 2026, next at Renate, Berlin on Fri, 11 Sept 2026.
+David Fogarty is a Techno and Trance artist with 3 upcoming club dates listed on soundcheck as of Mon, 14 Sept 2026, next at 90mil, Berlin on Thu, 17 Sept 2026.
 
-David Fogarty is a techno and trance artist tracked on soundcheck, with 54 sets logged across Amsterdam, Belgrade, Berlin and Dublin and 11 more. Often billed alongside Sound Metaphors Djs, Temple Rat and Alicia Carrera. Next up: Renate, Berlin on Fri 11 Sept.
+David Fogarty is a techno and trance artist tracked on soundcheck, with 54 sets logged across Amsterdam, Belgrade, Berlin and Dublin and 11 more. Often billed alongside Sound Metaphors Djs, Temple Rat and Alicia Carrera. Next up: 90mil, Berlin on Thu 17 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 11 Sept 2026 | Renate | Berlin |
 | Thu, 17 Sept 2026 | 90mil | Berlin |
 | Fri, 2 Oct 2026 | Altrove | Milan |
 | Fri, 30 Oct 2026 | Berghain / Panorama Bar / Säule | Berlin |
@@ -28,4 +27,4 @@ David Fogarty is a techno and trance artist tracked on soundcheck, with 54 sets 
 
 Sound Metaphors Djs, Temple Rat, Alicia Carrera
 
-*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/davidfogarty/)*
+*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/davidfogarty/)*

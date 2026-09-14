@@ -1,8 +1,8 @@
 # Velv.93
 
-Velv.93 is a Experimental and Techno artist with 2 upcoming club dates listed on soundcheck as of Sun, 13 Sept 2026, next at Haus der Visionäre, Berlin on Sun, 4 Oct 2026.
+Velv.93 is a Experimental and Techno artist with 2 upcoming club dates listed on soundcheck as of Mon, 14 Sept 2026, next at Haus der Visionäre, Berlin on Sun, 4 Oct 2026.
 
-Velv.93 is an experimental and techno artist based in Sweden, tracked on soundcheck, with 9 sets logged across Amsterdam, Barcelona, Berlin and Brussels and 3 more. Often billed alongside Vlada, Vaahzer and A. G. Cook. Next up: Haus der Visionäre, Berlin on Sun 4 Oct.
+Velv.93 is an experimental and techno artist based in Sweden, tracked on soundcheck, with 10 sets logged across Amsterdam, Barcelona, Berlin and Brussels and 4 more. Often billed alongside Vlada, Vaahzer and ISAbella. Next up: Haus der Visionäre, Berlin on Sun 4 Oct.
 
 ## Upcoming shows
 
@@ -20,9 +20,10 @@ Velv.93 is an experimental and techno artist based in Sweden, tracked on soundch
 - Paavli Kultuurivabrik, Tallinn — Sat, 10 Feb 2024
 - IKLECTIK, London — Fri, 4 Aug 2023
 - Trädgården, Stockholm — Sat, 22 Jul 2023
+- Rukatunturi, Helsinki — Thu, 22 Jun 2023
 
 ## Shares bills with
 
-Vlada, Vaahzer, A. G. Cook
+Vlada, Vaahzer, ISAbella
 
-*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/velv93/)*
+*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/velv93/)*

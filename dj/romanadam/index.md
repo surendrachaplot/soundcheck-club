@@ -1,6 +1,6 @@
 # Roman Adam
 
-Roman Adam is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sun, 13 Sept 2026, next at TBA - Secret Location, Berlin on Fri, 23 Oct 2026.
+Roman Adam is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 14 Sept 2026, next at TBA - Secret Location, Berlin on Fri, 23 Oct 2026.
 
 Roman Adam is a techno and house artist based in Germany, tracked on soundcheck, with 42 sets logged across Berlin, Cologne, Copenhagen and Hamburg and 2 more. Often billed alongside Ele Luz, Kaufmann and Konfusia. Next up: TBA - Secret Location, Berlin on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ Roman Adam is a techno and house artist based in Germany, tracked on soundcheck,
 
 Ele Luz, Kaufmann, Konfusia
 
-*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/romanadam/)*
+*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/romanadam/)*

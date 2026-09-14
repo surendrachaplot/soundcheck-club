@@ -1,6 +1,6 @@
 # VIKTORIIA
 
-VIKTORIIA is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Sun, 13 Sept 2026, next at Crack Bellmer, Berlin on Thu, 12 Nov 2026.
+VIKTORIIA is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Mon, 14 Sept 2026, next at Crack Bellmer, Berlin on Thu, 12 Nov 2026.
 
 VIKTORIIA is a techno and trance artist tracked on soundcheck, with 3 sets logged across Berlin and Frankfurt. Often billed alongside Pamela Svart, DUDUNIA and Daniela Fuzz. Next up: Crack Bellmer, Berlin on Thu 12 Nov.
 
@@ -19,4 +19,4 @@ VIKTORIIA is a techno and trance artist tracked on soundcheck, with 3 sets logge
 
 Pamela Svart, DUDUNIA, Daniela Fuzz
 
-*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/viktoriia/)*
+*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/viktoriia/)*

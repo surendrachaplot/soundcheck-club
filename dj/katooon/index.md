@@ -1,6 +1,6 @@
 # Katooon
 
-Katooon is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sun, 13 Sept 2026, next at rake?raka?, Osaka on Sun, 20 Sept 2026.
+Katooon is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 14 Sept 2026, next at rake?raka?, Osaka on Sun, 20 Sept 2026.
 
 Katooon is a techno and house artist tracked on soundcheck, with 37 sets logged across Osaka. Often billed alongside SIROH, SHIGe and Kayakkus. Next up: rake?raka?, Osaka on Sun 20 Sept.
 
@@ -25,4 +25,4 @@ Katooon is a techno and house artist tracked on soundcheck, with 37 sets logged 
 
 SIROH, SHIGe, Kayakkus
 
-*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/katooon/)*
+*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/katooon/)*

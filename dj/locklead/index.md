@@ -1,16 +1,13 @@
 # Locklead
 
-Locklead is a House and Tech House artist with 12 upcoming club dates listed on soundcheck as of Sun, 13 Sept 2026, next at BRET, Amsterdam on Sun, 13 Sept 2026.
+Locklead is a House and Tech House artist with 9 upcoming club dates listed on soundcheck as of Mon, 14 Sept 2026, next at UNO MALTA, Malta on Fri, 18 Sept 2026.
 
-Locklead is a house and tech house artist tracked on soundcheck, with 191 sets logged across Amsterdam, Antwerp, Auckland and Barcelona and 39 more. Often billed alongside Marsolo, Chris Stassy and East End Dubs. Next up: BRET, Amsterdam on Sun 13 Sept.
+Locklead is a house and tech house artist tracked on soundcheck, with 191 sets logged across Amsterdam, Antwerp, Auckland and Barcelona and 39 more. Often billed alongside Marsolo, Chris Stassy and East End Dubs. Next up: UNO MALTA, Malta on Fri 18 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sun, 13 Sept 2026 | BRET | Amsterdam |
-| Sun, 13 Sept 2026 | BRET | Amsterdam |
-| Sun, 13 Sept 2026 | BRET | Amsterdam |
 | Fri, 18 Sept 2026 | UNO MALTA | Malta |
 | Sat, 26 Sept 2026 | Waterfront Park in San Diego | San Diego |
 | Fri, 9 Oct 2026 | fabric | London |
@@ -23,17 +20,17 @@ Locklead is a house and tech house artist tracked on soundcheck, with 191 sets l
 
 ## Recently played
 
+- BRET, Amsterdam — Sun, 13 Sept 2026
+- BRET, Amsterdam — Sun, 13 Sept 2026
+- BRET, Amsterdam — Sun, 13 Sept 2026
 - Echostage, Washington DC — Sat, 5 Sept 2026
 - Union Park, Chicago — Fri, 4 Sept 2026
 - Cova Santa, Ibiza — Tue, 1 Sept 2026
 - Mint Warehouse, Leeds — Sun, 30 Aug 2026
 - Mint Warehouse, Leeds — Sun, 30 Aug 2026
-- Custom House Square, Belfast — Fri, 14 Aug 2026
-- The Limelight, Belfast — Fri, 14 Aug 2026
-- Burgess Park, London — Sun, 9 Aug 2026
 
 ## Shares bills with
 
 Marsolo, Chris Stassy, East End Dubs
 
-*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/locklead/)*
+*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/locklead/)*

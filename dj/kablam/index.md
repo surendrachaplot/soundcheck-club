@@ -1,8 +1,8 @@
 # Kablam
 
-Kablam is a Techno and Club artist with 1 upcoming club date listed on soundcheck as of Sun, 13 Sept 2026, next at Korjaamo, Helsinki on Wed, 30 Sept 2026.
+Kablam is a Club and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 14 Sept 2026, next at Korjaamo, Helsinki on Wed, 30 Sept 2026.
 
-Kablam is a techno and club artist tracked on soundcheck, with 9 sets logged across Amsterdam, Brussels, Copenhagen and Helsinki and 3 more. Often billed alongside BEARCAT, Bapari and Low End Activist. Next up: Korjaamo, Helsinki on Wed 30 Sept.
+Kablam is a club and techno artist tracked on soundcheck, with 10 sets logged across Amsterdam, Brussels, Copenhagen and Helsinki and 3 more. Often billed alongside BEARCAT, Bapari and Low End Activist. Next up: Korjaamo, Helsinki on Wed 30 Sept.
 
 ## Upcoming shows
 
@@ -18,11 +18,11 @@ Kablam is a techno and club artist tracked on soundcheck, with 9 sets logged acr
 - Garage Noord, Amsterdam — Sat, 24 Feb 2024
 - Garage Noord, Amsterdam — Sat, 27 Jan 2024
 - Hacienda Club, Rome — Sun, 10 Dec 2023
+- Kaiku, Helsinki — Thu, 3 Aug 2023
 - TBA - Stockholm, Stockholm — Sat, 8 Jul 2023
-- Pilar - VUB, Brussels — Fri, 17 Mar 2023
 
 ## Shares bills with
 
 BEARCAT, Bapari, Low End Activist
 
-*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kablam/)*
+*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kablam/)*

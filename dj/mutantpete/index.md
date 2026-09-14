@@ -1,6 +1,6 @@
 # Mutant Pete
 
-Mutant Pete is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Sun, 13 Sept 2026, next at Mana Wynwood, Miami on Fri, 16 Oct 2026.
+Mutant Pete is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Mon, 14 Sept 2026, next at Mana Wynwood, Miami on Fri, 16 Oct 2026.
 
 Mutant Pete is a house and disco artist tracked on soundcheck, with 30 sets logged across Houston and Miami. Often billed alongside Bort, JOVIGIBS and Terence Tabeau. Next up: Mana Wynwood, Miami on Fri 16 Oct.
 
@@ -25,4 +25,4 @@ Mutant Pete is a house and disco artist tracked on soundcheck, with 30 sets logg
 
 Bort, JOVIGIBS, Terence Tabeau
 
-*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mutantpete/)*
+*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mutantpete/)*

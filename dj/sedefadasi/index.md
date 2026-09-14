@@ -1,14 +1,13 @@
 # Sedef Adasï
 
-Sedef Adasï is a Techno and House artist with 13 upcoming club dates listed on soundcheck as of Sun, 13 Sept 2026, next at NDSM Docklands, Amsterdam on Sun, 13 Sept 2026.
+Sedef Adasï is a Techno and House artist with 12 upcoming club dates listed on soundcheck as of Mon, 14 Sept 2026, next at Nowadays, New York City on Sun, 20 Sept 2026.
 
-Sedef Adasï is a techno and house artist tracked on soundcheck, with 280 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 57 more. Often billed alongside BASHKKA, Gabrielle Kwarteng and Job Jobse. Next up: NDSM Docklands, Amsterdam on Sun 13 Sept.
+Sedef Adasï is a techno and house artist tracked on soundcheck, with 281 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 57 more. Often billed alongside BASHKKA, Gabrielle Kwarteng and Job Jobse. Next up: Nowadays, Newyorkcity on Sun 20 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sun, 13 Sept 2026 | NDSM Docklands | Amsterdam |
 | Sun, 20 Sept 2026 | Nowadays | New York City |
 | Sat, 26 Sept 2026 | Sub Club | Glasgow |
 | Fri, 2 Oct 2026 | Berghain / Panorama Bar / Säule | Berlin |
@@ -20,9 +19,11 @@ Sedef Adasï is a techno and house artist tracked on soundcheck, with 280 sets l
 | Fri, 23 Oct 2026 | Bajes Amsterdam | Amsterdam |
 | Sat, 24 Oct 2026 | Shelter Amsterdam | Amsterdam |
 | Fri, 30 Oct 2026 | The Great Northern | San Francisco/Oakland |
+| Fri, 30 Oct 2026 | NOS Event Center | Los Angeles |
 
 ## Recently played
 
+- NDSM Docklands, Amsterdam — Sun, 13 Sept 2026
 - DC-10, Ibiza — Mon, 7 Sept 2026
 - Berghain | Panorama Bar | Säule, Berlin — Sat, 5 Sept 2026
 - Southwark Park, London — Sun, 30 Aug 2026
@@ -30,10 +31,9 @@ Sedef Adasï is a techno and house artist tracked on soundcheck, with 280 sets l
 - Parc des Etangs/Vijverspark, Brussels — Fri, 14 Aug 2026
 - Gianpula Village, Malta — Wed, 12 Aug 2026
 - Bassiani, Tbilisi — Fri, 31 Jul 2026
-- Tokonoma Club, Frankfurt — Sat, 18 Jul 2026
 
 ## Shares bills with
 
 BASHKKA, Gabrielle Kwarteng, Job Jobse
 
-*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sedefadasi/)*
+*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sedefadasi/)*

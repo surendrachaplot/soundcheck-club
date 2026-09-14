@@ -1,6 +1,6 @@
 # BAVR
 
-BAVR is a House and Garage artist with 2 upcoming club dates listed on soundcheck as of Sun, 13 Sept 2026, next at Ampere, Antwerp on Fri, 9 Oct 2026.
+BAVR is a House and Garage artist with 2 upcoming club dates listed on soundcheck as of Mon, 14 Sept 2026, next at Ampere, Antwerp on Fri, 9 Oct 2026.
 
 BAVR is a house and garage artist based in Belgium, tracked on soundcheck, with 55 sets logged across Antwerp, Bristol, Brussels and Ghent and 3 more. Often billed alongside DC Noises, Arter and Bibi Seck. Next up: Ampere, Antwerp on Fri 9 Oct.
 
@@ -26,4 +26,4 @@ BAVR is a house and garage artist based in Belgium, tracked on soundcheck, with 
 
 DC Noises, Arter, Bibi Seck
 
-*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bavr/)*
+*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bavr/)*

@@ -1,14 +1,13 @@
-# TBA - Secret Location
+# TBA - Secret Location 
 
-TBA - Secret Location is a music venue in London with 53 upcoming nights listed on soundcheck as of Sun, 13 Sept 2026; the next is "Hyphen x Radiant Reciprocity [Secret Location]" on Sun, 13 Sept 2026.
+TBA - Secret Location  is a music venue in London with 53 upcoming nights listed on soundcheck as of Mon, 14 Sept 2026; the next is "Sofar Sounds meets Reeperbahn Festival '26" on Wed, 16 Sept 2026.
 
-TBA - Secret Location is a music venue in London listed on soundcheck. 53 upcoming nights, with line-ups including .cosm, 7038634357, DJ JUANNY and Annina and 2 more. Browse upcoming dates, start times and who's playing.
+TBA - Secret Location  is a music venue in London listed on soundcheck. 53 upcoming nights, with line-ups including .cosm, 7038634357, DJ JUANNY and Annina and 2 more. Browse upcoming dates, start times and who's playing.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sun, 13 Sept 2026 | Hyphen x Radiant Reciprocity [Secret Location] | BB. angel, Khey Mysterio, Lorel, Mademoisel, N ska |
 | Wed, 16 Sept 2026 | Sofar Sounds meets Reeperbahn Festival '26 |  |
 | Thu, 17 Sept 2026 | Good Grief x Protein present: Pavel Milyakov, 7038634357, Rohana, MARBLE RYE, Peregrine | 7038634357, Buttechno, MARBLE RYE, Peregrine (US) |
 | Fri, 18 Sept 2026 | NEBULA: HARDGROOVE UNTIL MORNING | EMILIO (3), LYOM, Liza, STRATAH, VÏVÏ, XINOVI, manato |
@@ -18,5 +17,6 @@ TBA - Secret Location is a music venue in London listed on soundcheck. 53 upcomi
 | Sat, 19 Sept 2026 | FEIERAMT 4 YEARS ANNIVERSARY | Ayham, Dog on Acid, Mara Menace, Maris Shilton, Sicion, Vilchezz, ogtrues |
 | Sat, 19 Sept 2026 | Trance Sunset Vol. III |  |
 | Sat, 19 Sept 2026 | Gude Zeit Kollektiv Sommerparty | HiHat, Romy Maréa |
+| Sat, 19 Sept 2026 | Canal Film Club X Fringe! Queer Film Fest Closing Night: Life On The Margins | FAFF, Sozie |
 
-*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/tba-secret-location/)*
+*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/tba-secret-location/)*

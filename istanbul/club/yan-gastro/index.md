@@ -1,6 +1,6 @@
 # Yan Gastro
 
-Yan Gastro is a music venue in Istanbul with 1 upcoming night listed on soundcheck as of Sun, 13 Sept 2026; the next is "Hy Project Saturday at Sector" on Sat, 19 Sept 2026.
+Yan Gastro is a music venue in Istanbul with 1 upcoming night listed on soundcheck as of Mon, 14 Sept 2026; the next is "Hy Project Saturday at Sector" on Sat, 19 Sept 2026.
 
 Yan Gastro is a music venue in Istanbul listed on soundcheck. 1 upcoming night, with line-ups including Atakan Uysal and Eren koyuncu. Browse upcoming dates, start times and who's playing. Cihangir, Sıraselviler Cad./aslanyatağı Sok. No:5, 34433 Beyoğlu/Istanbul.
 
@@ -14,4 +14,4 @@ Yan Gastro is a music venue in Istanbul listed on soundcheck. 1 upcoming night, 
 
 Cihangir, Sıraselviler Cad./aslanyatağı Sok. No:5, 34433 Beyoğlu/Istanbul, Istanbul
 
-*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/istanbul/club/yan-gastro/)*
+*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/istanbul/club/yan-gastro/)*

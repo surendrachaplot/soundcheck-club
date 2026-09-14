@@ -1,6 +1,6 @@
 # La Récré
 
-La Récré is a music venue in Montreal with 2 upcoming nights listed on soundcheck as of Sun, 13 Sept 2026; the next is "Club Babies" on Sat, 19 Sept 2026.
+La Récré is a music venue in Montreal with 2 upcoming nights listed on soundcheck as of Mon, 14 Sept 2026; the next is "Club Babies" on Sat, 19 Sept 2026.
 
 La Récré is a music venue in Montreal listed on soundcheck. 2 upcoming nights, with line-ups including GHOST TEMPO and Wally. Browse upcoming dates, start times and who's playing. 5860 Av. De Lorimier, Montréal, QC H2G 2N9.
 
@@ -15,4 +15,4 @@ La Récré is a music venue in Montreal listed on soundcheck. 2 upcoming nights,
 
 5860 Av. De Lorimier, Montréal, QC H2G 2N9, Montreal
 
-*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/montreal/club/la-r-cr/)*
+*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/montreal/club/la-r-cr/)*

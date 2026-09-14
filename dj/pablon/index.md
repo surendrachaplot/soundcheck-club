@@ -1,6 +1,6 @@
 # PABLON
 
-PABLON is a Progressive House artist with 1 upcoming club date listed on soundcheck as of Sun, 13 Sept 2026, next at Veronica Schip, Amsterdam on Fri, 18 Sept 2026.
+PABLON is a Progressive House artist with 1 upcoming club date listed on soundcheck as of Mon, 14 Sept 2026, next at Veronica Schip, Amsterdam on Fri, 18 Sept 2026.
 
 PABLON is a progressive house artist tracked on soundcheck, with 6 sets logged across Amsterdam. Often billed alongside Gian Grassi, JUAN BELDARREIN and T-Gray. Next up: Veronica Schip, Amsterdam on Fri 18 Sept.
 
@@ -22,4 +22,4 @@ PABLON is a progressive house artist tracked on soundcheck, with 6 sets logged a
 
 Gian Grassi, JUAN BELDARREIN, T-Gray
 
-*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/pablon/)*
+*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/pablon/)*

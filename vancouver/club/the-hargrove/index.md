@@ -1,6 +1,6 @@
 # The Hargrove
 
-The Hargrove is a music venue in Vancouver with 1 upcoming night listed on soundcheck as of Sun, 13 Sept 2026; the next is "DECEL / DIVERGE Art Rave + Manifesto Drop" on Sat, 26 Sept 2026.
+The Hargrove is a music venue in Vancouver with 1 upcoming night listed on soundcheck as of Mon, 14 Sept 2026; the next is "DECEL / DIVERGE Art Rave + Manifesto Drop" on Sat, 26 Sept 2026.
 
 The Hargrove is a music venue in Vancouver listed on soundcheck. 1 upcoming night. Browse upcoming dates, start times and who's playing. Back Alley Entrance, 150 E 3rd Ave, Vancouver, BC V5T 3C1.
 
@@ -14,4 +14,4 @@ The Hargrove is a music venue in Vancouver listed on soundcheck. 1 upcoming nigh
 
 Back Alley Entrance, 150 E 3rd Ave, Vancouver, BC V5T 3C1, Vancouver
 
-*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/vancouver/club/the-hargrove/)*
+*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/vancouver/club/the-hargrove/)*

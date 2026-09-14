@@ -1,6 +1,6 @@
 # DETOXX
 
-DETOXX is a Techno and Trance artist with 5 upcoming club dates listed on soundcheck as of Sun, 13 Sept 2026, next at Westhafen, Leipzig on Sat, 19 Sept 2026.
+DETOXX is a Techno and Trance artist with 5 upcoming club dates listed on soundcheck as of Mon, 14 Sept 2026, next at Westhafen, Leipzig on Sat, 19 Sept 2026.
 
 DETOXX is a techno and trance artist based in Germany, tracked on soundcheck, with 68 sets logged across Amsterdam, Berlin, Cologne and Leipzig and 5 more. Often billed alongside Amøn, YËDM and DJ Achim Feuervogel. Next up: Westhafen, Leipzig on Sat 19 Sept.
 
@@ -29,4 +29,4 @@ DETOXX is a techno and trance artist based in Germany, tracked on soundcheck, wi
 
 Amøn, YËDM, DJ Achim Feuervogel
 
-*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/detoxx/)*
+*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/detoxx/)*

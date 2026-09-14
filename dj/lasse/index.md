@@ -1,13 +1,14 @@
 # Lasse
 
-Lasse is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 13 Sept 2026, next at RADION, Amsterdam on Thu, 22 Oct 2026.
+Lasse is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Mon, 14 Sept 2026, next at Oma Doris, Dortmund-essen on Sat, 10 Oct 2026.
 
-Lasse is a house and techno artist based in Netherlands, tracked on soundcheck, with 87 sets logged across Amsterdam, Barcelona, Berlin and Copenhagen and 6 more. Often billed alongside Lasse Top, Flits and Isaiah (NL). Next up: RADION, Amsterdam on Thu 22 Oct.
+Lasse is a techno and house artist based in Netherlands, tracked on soundcheck, with 93 sets logged across Amsterdam, Barcelona, Berlin and Copenhagen and 7 more. Often billed alongside Lasse Top, Flits and Isaiah (NL). Next up: Oma Doris, Dortmund-essen on Sat 10 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 10 Oct 2026 | Oma Doris | Dortmund-essen |
 | Thu, 22 Oct 2026 | RADION | Amsterdam |
 
 ## Recently played
@@ -25,4 +26,4 @@ Lasse is a house and techno artist based in Netherlands, tracked on soundcheck, 
 
 Lasse Top, Flits, Isaiah (NL)
 
-*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lasse/)*
+*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lasse/)*

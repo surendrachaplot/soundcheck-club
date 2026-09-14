@@ -1,6 +1,6 @@
 # Bar Franca
 
-Bar Franca is a music venue in Los Angeles with 2 upcoming nights listed on soundcheck as of Sun, 13 Sept 2026; the next is "Midnight Lovers with Axel Boman (all night long)" on Wed, 16 Sept 2026.
+Bar Franca is a music venue in Los Angeles with 2 upcoming nights listed on soundcheck as of Mon, 14 Sept 2026; the next is "Midnight Lovers with Axel Boman (all night long)" on Wed, 16 Sept 2026.
 
 Bar Franca is a music venue in Losangeles listed on soundcheck. 2 upcoming nights, with line-ups including Axel Boman, Dance Spirit, Jackson Englund and Robotek Reagan. Browse upcoming dates, start times and who's playing. 438 S Main St, Los Angeles, CA 90013.
 
@@ -15,4 +15,4 @@ Bar Franca is a music venue in Losangeles listed on soundcheck. 2 upcoming night
 
 438 S Main St, Los Angeles, CA 90013, Los Angeles
 
-*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/bar-franca/)*
+*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/bar-franca/)*

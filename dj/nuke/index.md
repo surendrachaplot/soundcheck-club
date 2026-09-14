@@ -1,6 +1,6 @@
 # Nuke
 
-Nuke is a Techno and Tech House artist with 5 upcoming club dates listed on soundcheck as of Sun, 13 Sept 2026, next at Amnesia Ibiza, Ibiza on Tue, 15 Sept 2026.
+Nuke is a Techno and Tech House artist with 5 upcoming club dates listed on soundcheck as of Mon, 14 Sept 2026, next at Amnesia Ibiza, Ibiza on Tue, 15 Sept 2026.
 
 Nuke is a techno and tech house artist tracked on soundcheck, with 90 sets logged across Amsterdam, Barcelona, Berlin and Cologne and 6 more. Often billed alongside CESAR ALMENA, Parsa Jafari and Raul Ortiz. Next up: Amnesia Ibiza, Ibiza on Tue 15 Sept.
 
@@ -29,4 +29,4 @@ Nuke is a techno and tech house artist tracked on soundcheck, with 90 sets logge
 
 CESAR ALMENA, Parsa Jafari, Raul Ortiz
 
-*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nuke/)*
+*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nuke/)*

@@ -1,6 +1,6 @@
 # Trädgården
 
-Trädgården is a music venue in Stockholm with 3 upcoming nights listed on soundcheck as of Sun, 13 Sept 2026; the next is "Trädgården CLOSING FRIDAY" on Fri, 18 Sept 2026.
+Trädgården is a music venue in Stockholm with 3 upcoming nights listed on soundcheck as of Mon, 14 Sept 2026; the next is "Trädgården CLOSING FRIDAY" on Fri, 18 Sept 2026.
 
 Trädgården is a music venue in Stockholm listed on soundcheck. 3 upcoming nights, with line-ups including ALCATRAZ, Dorisburg, Henrik Bergqvist and MCR-T and 2 more. Browse upcoming dates, start times and who's playing. Hammarby Slussväg 2, 118 60 Stockholm, Sweden.
 
@@ -16,4 +16,4 @@ Trädgården is a music venue in Stockholm listed on soundcheck. 3 upcoming nigh
 
 Hammarby Slussväg 2, 118 60 Stockholm, Sweden, Stockholm
 
-*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/stockholm/club/tr-dg-rden/)*
+*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/stockholm/club/tr-dg-rden/)*

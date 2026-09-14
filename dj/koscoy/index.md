@@ -1,6 +1,6 @@
 # Koscoy
 
-Koscoy is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sun, 13 Sept 2026, next at CHICO, Mexico City on Fri, 25 Sept 2026.
+Koscoy is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 14 Sept 2026, next at CHICO, Mexico City on Fri, 25 Sept 2026.
 
 Koscoy is a techno and house artist tracked on soundcheck, with 33 sets logged across Mexicocity. Often billed alongside Deejay Energy, Fig (DYN) and MirrorLake. Next up: CHICO, Mexicocity on Fri 25 Sept.
 
@@ -25,4 +25,4 @@ Koscoy is a techno and house artist tracked on soundcheck, with 33 sets logged a
 
 Deejay Energy, Fig (DYN), MirrorLake
 
-*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/koscoy/)*
+*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/koscoy/)*

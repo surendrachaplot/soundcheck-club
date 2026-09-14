@@ -1,6 +1,6 @@
 # Emile
 
-Emile is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sun, 13 Sept 2026, next at XLR, Manchester on Thu, 24 Sept 2026.
+Emile is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Mon, 14 Sept 2026, next at XLR, Manchester on Thu, 24 Sept 2026.
 
 Emile is a house and techno artist based in United Kingdom, tracked on soundcheck, with 38 sets logged across Liverpool, London and Manchester. Often billed alongside FITS ME FUNNY, Ben Kay and AJC (UK). Next up: XLR, Manchester on Thu 24 Sept.
 
@@ -26,4 +26,4 @@ Emile is a house and techno artist based in United Kingdom, tracked on soundchec
 
 FITS ME FUNNY, Ben Kay, AJC (UK)
 
-*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/emile-uk/)*
+*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/emile-uk/)*

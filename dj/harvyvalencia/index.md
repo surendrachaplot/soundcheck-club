@@ -1,6 +1,6 @@
 # Harvy Valencia
 
-Harvy Valencia is a Tech House and House artist with 2 upcoming club dates listed on soundcheck as of Sun, 13 Sept 2026, next at Fitz Mallorca, Mallorca on Fri, 18 Sept 2026.
+Harvy Valencia is a Tech House and House artist with 2 upcoming club dates listed on soundcheck as of Mon, 14 Sept 2026, next at Fitz Mallorca, Mallorca on Fri, 18 Sept 2026.
 
 Harvy Valencia is a tech house and house artist tracked on soundcheck, with 49 sets logged across Amsterdam, Austin, Barcelona and Chicago and 9 more. Often billed alongside Mason Collective, Miluhska and Ms. Mada. Next up: Fitz Mallorca, Mallorca on Fri 18 Sept.
 
@@ -26,4 +26,4 @@ Harvy Valencia is a tech house and house artist tracked on soundcheck, with 49 s
 
 Mason Collective, Miluhska, Ms. Mada
 
-*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/harvyvalencia/)*
+*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/harvyvalencia/)*

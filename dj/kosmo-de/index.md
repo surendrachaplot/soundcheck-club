@@ -1,8 +1,8 @@
 # Kos:mo
 
-Kos:mo is a Techno and Progressive House artist with 2 upcoming club dates listed on soundcheck as of Sun, 13 Sept 2026, next at Kater, Berlin on Fri, 18 Sept 2026.
+Kos:mo is a Techno and Tech House artist with 2 upcoming club dates listed on soundcheck as of Mon, 14 Sept 2026, next at Kater, Berlin on Fri, 18 Sept 2026.
 
-Kos:mo is a techno and progressive house artist based in Germany, tracked on soundcheck, with 70 sets logged across Berlin, Cologne, Dublin and Hamburg and 2 more. Often billed alongside Alchemiah, Diode Eins and Ropemaker. Next up: Kater, Berlin on Fri 18 Sept.
+Kos:mo is a techno and tech house artist based in Germany, tracked on soundcheck, with 71 sets logged across Berlin, Cologne, Dublin and Hamburg and 3 more. Often billed alongside Alchemiah, Diode Eins and Ropemaker. Next up: Kater, Berlin on Fri 18 Sept.
 
 ## Upcoming shows
 
@@ -26,4 +26,4 @@ Kos:mo is a techno and progressive house artist based in Germany, tracked on sou
 
 Alchemiah, Diode Eins, Ropemaker
 
-*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kosmo-de/)*
+*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kosmo-de/)*

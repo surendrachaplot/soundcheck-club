@@ -1,6 +1,6 @@
 # Lakota
 
-Lakota is a music venue in Bristol with 19 upcoming nights listed on soundcheck as of Sun, 13 Sept 2026; the next is "On&On presents: DAY ONE - Traffic Light Freshers Party" on Mon, 14 Sept 2026.
+Lakota is a music venue in Bristol with 19 upcoming nights listed on soundcheck as of Mon, 14 Sept 2026; the next is "On&On presents: DAY ONE - Traffic Light Freshers Party" on Mon, 14 Sept 2026.
 
 Lakota is a music venue in Bristol listed on soundcheck. 19 upcoming nights, with line-ups including Akira (Buntai), Betsy Mae, camukg and Fabio Santos and 2 more. Browse upcoming dates, start times and who's playing. 6 Upper York Street; Bristol, BS2 8QN, United Kingdom.
 
@@ -23,4 +23,4 @@ Lakota is a music venue in Bristol listed on soundcheck. 19 upcoming nights, wit
 
 6 Upper York Street; Bristol, BS2 8QN, United Kingdom, Bristol
 
-*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/bristol/club/lakota/)*
+*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/bristol/club/lakota/)*

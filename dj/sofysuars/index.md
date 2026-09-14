@@ -1,8 +1,8 @@
 # Sofy Suars
 
-Sofy Suars is a Latin Bass and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 13 Sept 2026, next at Razzmatazz, Barcelona on Fri, 18 Sept 2026.
+Sofy Suars is a Latin Bass and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 14 Sept 2026, next at Razzmatazz, Barcelona on Fri, 18 Sept 2026.
 
-Sofy Suars is a latin bass and techno artist based in Bolivia, tracked on soundcheck, with 49 sets logged across Antwerp, Barcelona, Belgrade and Berlin and 9 more. Often billed alongside Tiyumii, Julio César and M8NSE. Next up: Razzmatazz, Barcelona on Fri 18 Sept.
+Sofy Suars is a latin bass and techno artist based in Bolivia, tracked on soundcheck, with 50 sets logged across Antwerp, Barcelona, Belgrade and Berlin and 10 more. Often billed alongside Tiyumii, Julio César and M8NSE. Next up: Razzmatazz, Barcelona on Fri 18 Sept.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Sofy Suars is a latin bass and techno artist based in Bolivia, tracked on soundc
 
 Tiyumii, Julio César, M8NSE
 
-*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sofysuars/)*
+*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sofysuars/)*

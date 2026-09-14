@@ -1,6 +1,6 @@
 # CIRCOLO BOTULINO
 
-CIRCOLO BOTULINO is a music venue in Milan with 1 upcoming night listed on soundcheck as of Sun, 13 Sept 2026; the next is "LOS LOCOS 'REBIRTH' - Obi Baby, VENTRO, DJ PIRO b2b MGGM, PACKAPUNCH909 b2b EMME, ELECHIM" on Fri, 18 Sept 2026.
+CIRCOLO BOTULINO is a music venue in Milan with 1 upcoming night listed on soundcheck as of Mon, 14 Sept 2026; the next is "LOS LOCOS 'REBIRTH' - Obi Baby, VENTRO, DJ PIRO b2b MGGM, PACKAPUNCH909 b2b EMME, ELECHIM" on Fri, 18 Sept 2026.
 
 CIRCOLO BOTULINO is a music venue in Milan listed on soundcheck. 1 upcoming night, with line-ups including DJ PIRO, Obi Baby, PACKAPUNCH909 and VENTRO. Browse upcoming dates, start times and who's playing. Via Plezzo, 16, 20132 Milano MI, Italy.
 
@@ -14,4 +14,4 @@ CIRCOLO BOTULINO is a music venue in Milan listed on soundcheck. 1 upcoming nigh
 
 Via Plezzo, 16, 20132 Milano MI, Italy, Milan
 
-*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/milan/club/circolo-botulino/)*
+*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/milan/club/circolo-botulino/)*

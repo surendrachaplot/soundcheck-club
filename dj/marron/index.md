@@ -1,8 +1,8 @@
 # MARRØN
 
-MARRØN is a Techno and House artist with 15 upcoming club dates listed on soundcheck as of Sun, 13 Sept 2026, next at Descent, Boston on Thu, 17 Sept 2026.
+MARRØN is a Techno and House artist with 15 upcoming club dates listed on soundcheck as of Mon, 14 Sept 2026, next at Descent, Boston on Thu, 17 Sept 2026.
 
-MARRØN is a techno and house artist tracked on soundcheck, with 264 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 67 more. Often billed alongside Blasha & Allatt, Rene Wise and Freddy K. Next up: Descent, Boston on Thu 17 Sept.
+MARRØN is a techno and house artist tracked on soundcheck, with 265 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 67 more. Often billed alongside Blasha & Allatt, Rene Wise and Freddy K. Next up: Descent, Boston on Thu 17 Sept.
 
 ## Upcoming shows
 
@@ -36,4 +36,4 @@ MARRØN is a techno and house artist tracked on soundcheck, with 264 sets logged
 
 Blasha & Allatt, Rene Wise, Freddy K
 
-*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/marron/)*
+*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/marron/)*

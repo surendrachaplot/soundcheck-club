@@ -1,6 +1,6 @@
 # Yess
 
-Yess is a Bass and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 13 Sept 2026, next at World Kyoto, Kyoto on Sun, 11 Oct 2026.
+Yess is a Bass and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 14 Sept 2026, next at World Kyoto, Kyoto on Sun, 11 Oct 2026.
 
 Yess is a bass and techno artist tracked on soundcheck, with 6 sets logged across Kyoto, Osaka and Tokyo. Often billed alongside IYO (1), K A I and MK woop. Next up: World Kyoto, Kyoto on Sun 11 Oct.
 
@@ -22,4 +22,4 @@ Yess is a bass and techno artist tracked on soundcheck, with 6 sets logged acros
 
 IYO (1), K A I, MK woop
 
-*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/yess/)*
+*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/yess/)*

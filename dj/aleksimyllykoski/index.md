@@ -1,8 +1,8 @@
 # Aleksi Myllykoski
 
-Aleksi Myllykoski is a House and Balearic artist with 2 upcoming club dates listed on soundcheck as of Sun, 13 Sept 2026, next at Tekniikan Museo, Helsinki on Fri, 18 Sept 2026.
+Aleksi Myllykoski is a House and Balearic artist with 2 upcoming club dates listed on soundcheck as of Mon, 14 Sept 2026, next at Tekniikan Museo, Helsinki on Fri, 18 Sept 2026.
 
-Aleksi Myllykoski is a house and balearic artist based in Finland, tracked on soundcheck, with 19 sets logged across Helsinki. Often billed alongside MihuT, Carlina Carpelan and 6th Borough Project. Next up: Tekniikan Museo, Helsinki on Fri 18 Sept.
+Aleksi Myllykoski is a house and balearic artist based in Finland, tracked on soundcheck, with 26 sets logged across Helsinki. Often billed alongside MihuT, Carlina Carpelan and Roberto Rodriguez. Next up: Tekniikan Museo, Helsinki on Fri 18 Sept.
 
 ## Upcoming shows
 
@@ -24,6 +24,6 @@ Aleksi Myllykoski is a house and balearic artist based in Finland, tracked on so
 
 ## Shares bills with
 
-MihuT, Carlina Carpelan, 6th Borough Project
+MihuT, Carlina Carpelan, Roberto Rodriguez
 
-*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/aleksimyllykoski/)*
+*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/aleksimyllykoski/)*

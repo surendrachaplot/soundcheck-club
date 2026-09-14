@@ -1,14 +1,13 @@
 # Neffa-T
 
-Neffa-T is a Bass and Grime artist with 8 upcoming club dates listed on soundcheck as of Sun, 13 Sept 2026, next at The Cause, London on Sat, 12 Sept 2026.
+Neffa-T is a Bass and Grime artist with 7 upcoming club dates listed on soundcheck as of Mon, 14 Sept 2026, next at 131 Mccormack St, Toronto on Fri, 25 Sept 2026.
 
-Neffa-T is a bass and grime artist tracked on soundcheck, with 171 sets logged across Amsterdam, Auckland, Barcelona and Belfast and 41 more. Often billed alongside Flowdan, Jay Carder and Main Phase. Next up: The Cause, London on Sat 12 Sept.
+Neffa-T is a bass and grime artist tracked on soundcheck, with 172 sets logged across Amsterdam, Auckland, Barcelona and Belfast and 42 more. Often billed alongside Flowdan, Jay Carder and Main Phase. Next up: 131 Mccormack St, Toronto on Fri 25 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 12 Sept 2026 | The Cause | London |
 | Fri, 25 Sept 2026 | 131 Mccormack St | Toronto |
 | Sat, 3 Oct 2026 | Stereo | Glasgow |
 | Sat, 17 Oct 2026 | Phonox | London |
@@ -32,4 +31,4 @@ Neffa-T is a bass and grime artist tracked on soundcheck, with 171 sets logged a
 
 Flowdan, Jay Carder, Main Phase
 
-*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/neffa-t/)*
+*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/neffa-t/)*

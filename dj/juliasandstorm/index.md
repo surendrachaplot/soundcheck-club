@@ -1,6 +1,6 @@
 # Julia Sandstorm
 
-Julia Sandstorm is a House and Deep House artist with 2 upcoming club dates listed on soundcheck as of Sun, 13 Sept 2026, next at Akasha Las Dalias Club - Ibiza, Ibiza on Sun, 11 Oct 2026.
+Julia Sandstorm is a House and Deep House artist with 2 upcoming club dates listed on soundcheck as of Mon, 14 Sept 2026, next at Akasha Las Dalias Club - Ibiza, Ibiza on Sun, 11 Oct 2026.
 
 Julia Sandstorm is a house and deep house artist tracked on soundcheck, with 44 sets logged across Amsterdam, Barcelona, Berlin and Ibiza and 10 more. Often billed alongside Bora Uzer, Britta Arnold and Omer Tayar. Next up: Akasha Las Dalias Club - Ibiza, Ibiza on Sun 11 Oct.
 
@@ -26,4 +26,4 @@ Julia Sandstorm is a house and deep house artist tracked on soundcheck, with 44 
 
 Bora Uzer, Britta Arnold, Omer Tayar
 
-*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/juliasandstorm/)*
+*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/juliasandstorm/)*

@@ -1,6 +1,6 @@
 # Society Clubhouse
 
-Society Clubhouse is a music venue in Toronto with 1 upcoming night listed on soundcheck as of Sun, 13 Sept 2026; the next is "Ambient Afternoon (Imaginary North & Ambient Ping) - September 27th, 2026" on Sun, 27 Sept 2026.
+Society Clubhouse is a music venue in Toronto with 1 upcoming night listed on soundcheck as of Mon, 14 Sept 2026; the next is "Ambient Afternoon (Imaginary North & Ambient Ping) - September 27th, 2026" on Sun, 27 Sept 2026.
 
 Society Clubhouse is a music venue in Toronto listed on soundcheck. 1 upcoming night, with line-ups including Siren and Siren (4). Browse upcoming dates, start times and who's playing. 967 College St, Toronto, ON M6H 1A6.
 
@@ -14,4 +14,4 @@ Society Clubhouse is a music venue in Toronto listed on soundcheck. 1 upcoming n
 
 967 College St, Toronto, ON M6H 1A6, Toronto
 
-*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/society-clubhouse/)*
+*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/society-clubhouse/)*

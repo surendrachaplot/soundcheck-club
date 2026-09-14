@@ -1,6 +1,6 @@
 # Jansons
 
-Jansons is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Sun, 13 Sept 2026, next at Cova Santa, Ibiza on Tue, 22 Sept 2026.
+Jansons is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Mon, 14 Sept 2026, next at Cova Santa, Ibiza on Tue, 22 Sept 2026.
 
 Jansons is a house and tech house artist based in United Kingdom, tracked on soundcheck, with 45 sets logged across Amsterdam, Barcelona, Birmingham and Brighton and 9 more. Often billed alongside Prunk, Richy Ahmed and Hot Since 82. Next up: Cova Santa, Ibiza on Tue 22 Sept.
 
@@ -25,4 +25,4 @@ Jansons is a house and tech house artist based in United Kingdom, tracked on sou
 
 Prunk, Richy Ahmed, Hot Since 82
 
-*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jansons-uk/)*
+*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jansons-uk/)*

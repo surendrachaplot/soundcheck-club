@@ -1,6 +1,6 @@
 # SAME (AM)
 
-SAME (AM) is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 13 Sept 2026, next at Hive Club, Zurich on Sat, 26 Sept 2026.
+SAME (AM) is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 14 Sept 2026, next at Hive Club, Zurich on Sat, 26 Sept 2026.
 
 SAME (AM) is a house and techno artist tracked on soundcheck, with 5 sets logged across Madrid, Vienna and Zurich. Often billed alongside Dito, Joséphine and Marcus Meinhardt. Next up: Hive Club, Zurich on Sat 26 Sept.
 
@@ -21,4 +21,4 @@ SAME (AM) is a house and techno artist tracked on soundcheck, with 5 sets logged
 
 Dito, Joséphine, Marcus Meinhardt
 
-*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sameam/)*
+*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sameam/)*

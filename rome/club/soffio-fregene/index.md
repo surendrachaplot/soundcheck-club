@@ -1,18 +1,17 @@
 # Soffio Fregene
 
-Soffio Fregene is a music venue in Rome with 2 upcoming nights listed on soundcheck as of Sun, 13 Sept 2026; the next is "September plans at Soffio" on Sun, 13 Sept 2026.
+Soffio Fregene is a music venue in Rome with 1 upcoming night listed on soundcheck as of Mon, 14 Sept 2026; the next is "Soffio Closing Party" on Sun, 20 Sept 2026.
 
-Soffio Fregene is a music venue in Rome listed on soundcheck. 2 upcoming nights, with line-ups including Yu Su. Browse upcoming dates, start times and who's playing. Via Silvi Marina 1, 00054 Fregene.
+Soffio Fregene is a music venue in Rome listed on soundcheck. 1 upcoming night. Browse upcoming dates, start times and who's playing. Via Silvi Marina 1, 00054 Fregene.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sun, 13 Sept 2026 | September plans at Soffio | Yu Su |
 | Sun, 20 Sept 2026 | Soffio Closing Party |  |
 
 ## Address
 
 Via Silvi Marina 1, 00054 Fregene, Rome
 
-*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/rome/club/soffio-fregene/)*
+*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/rome/club/soffio-fregene/)*

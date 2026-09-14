@@ -1,20 +1,20 @@
 # Formella
 
-Formella is a Bass and Techno artist with 4 upcoming club dates listed on soundcheck as of Sun, 13 Sept 2026, next at Golden Pudel Club, Hamburg on Sun, 13 Sept 2026.
+Formella is a Bass and Techno artist with 3 upcoming club dates listed on soundcheck as of Mon, 14 Sept 2026, next at Volks, Brighton on Fri, 2 Oct 2026.
 
-Formella is a bass and techno artist tracked on soundcheck, with 56 sets logged across Amsterdam, Berlin, Brighton and Bristol and 12 more. Often billed alongside Dangermami, Sabine Hoffmann and yungfya. Next up: Golden Pudel Club, Hamburg on Sun 13 Sept.
+Formella is a bass and techno artist tracked on soundcheck, with 56 sets logged across Amsterdam, Berlin, Brighton and Bristol and 12 more. Often billed alongside Dangermami, Sabine Hoffmann and yungfya. Next up: Volks, Brighton on Fri 2 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sun, 13 Sept 2026 | Golden Pudel Club | Hamburg |
 | Fri, 2 Oct 2026 | Volks | Brighton |
 | Sat, 3 Oct 2026 | Beaver Works | Leeds |
 | Sat, 17 Oct 2026 | DRUMSHEDS | London |
 
 ## Recently played
 
+- Golden Pudel Club, Hamburg — Sun, 13 Sept 2026
 - TBA - Secret Location, Berlin, Berlin — Sat, 12 Sept 2026
 - Panke, Berlin — Sat, 5 Sept 2026
 - Malzfabrik, Berlin — Sat, 5 Sept 2026
@@ -22,10 +22,9 @@ Formella is a bass and techno artist tracked on soundcheck, with 56 sets logged 
 - TBA - Bistro KuBar, Prague — Sat, 18 Jul 2026
 - ., Berlin — Tue, 23 Jun 2026
 - TBA - Secret Location near Jannowitzbrücke, Berlin — Fri, 19 Jun 2026
-- Refuge Worldwide / Niemetzstraße, Berlin — Thu, 11 Jun 2026
 
 ## Shares bills with
 
 Dangermami, Sabine Hoffmann, yungfya
 
-*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/formella/)*
+*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/formella/)*

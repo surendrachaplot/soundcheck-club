@@ -1,6 +1,6 @@
 # Very Small Club
 
-Very Small Club is a music venue in Budapest with 3 upcoming nights listed on soundcheck as of Sun, 13 Sept 2026; the next is "Jin Synth, AZAMI, Na Nich - VSC BIRTHDAY" on Fri, 18 Sept 2026.
+Very Small Club is a music venue in Budapest with 3 upcoming nights listed on soundcheck as of Mon, 14 Sept 2026; the next is "Jin Synth, AZAMI, Na Nich - VSC BIRTHDAY" on Fri, 18 Sept 2026.
 
 Very Small Club is a music venue in Budapest listed on soundcheck. 3 upcoming nights, with line-ups including Jin Synth, Na Nich, Octile and Oliver SCH and 1 more. Browse upcoming dates, start times and who's playing. Dohány u. 28, 1074.
 
@@ -16,4 +16,4 @@ Very Small Club is a music venue in Budapest listed on soundcheck. 3 upcoming ni
 
 Dohány u. 28, 1074, Budapest
 
-*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/budapest/club/very-small-club/)*
+*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/budapest/club/very-small-club/)*

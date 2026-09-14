@@ -1,6 +1,6 @@
 # The Bassement
 
-The Bassement is a music venue in Madrid with 12 upcoming nights listed on soundcheck as of Sun, 13 Sept 2026; the next is "Laster Club presents Yanamaste [Extended Set], Laia & Shadow Hrym" on Thu, 17 Sept 2026.
+The Bassement is a music venue in Madrid with 12 upcoming nights listed on soundcheck as of Mon, 14 Sept 2026; the next is "Laster Club presents Yanamaste [Extended Set], Laia & Shadow Hrym" on Thu, 17 Sept 2026.
 
 The Bassement is a music venue in Madrid listed on soundcheck. 12 upcoming nights, with line-ups including Ben Sims, DJ AMAZING, DVS1 and DXPE (ES) and 2 more. Browse upcoming dates, start times and who's playing. C. de Galileo, 2628015 Madrid.
 
@@ -23,4 +23,4 @@ The Bassement is a music venue in Madrid listed on soundcheck. 12 upcoming night
 
 C. de Galileo, 2628015 Madrid, Madrid
 
-*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/the-bassement/)*
+*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/the-bassement/)*

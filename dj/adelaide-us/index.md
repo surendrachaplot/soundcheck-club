@@ -1,6 +1,6 @@
 # Adelaide (1)
 
-Adelaide (1) is a Afrobeat and Amapiano artist with 1 upcoming club date listed on soundcheck as of Sun, 13 Sept 2026, next at Hart Bar, New York City on Fri, 18 Sept 2026.
+Adelaide (1) is a Afrobeat and Amapiano artist with 1 upcoming club date listed on soundcheck as of Mon, 14 Sept 2026, next at Hart Bar, New York City on Fri, 18 Sept 2026.
 
 Adelaide (1) is an afrobeat and amapiano artist based in United States of America, tracked on soundcheck, with 2 sets logged across Boston and Newyorkcity. Often billed alongside Christinathesaintt, Nyah Cami and kuntress. Next up: Hart Bar, Newyorkcity on Fri 18 Sept.
 
@@ -18,4 +18,4 @@ Adelaide (1) is an afrobeat and amapiano artist based in United States of Americ
 
 Christinathesaintt, Nyah Cami, kuntress
 
-*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/adelaide-us/)*
+*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/adelaide-us/)*

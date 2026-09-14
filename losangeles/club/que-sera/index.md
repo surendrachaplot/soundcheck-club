@@ -1,6 +1,6 @@
 # Que Sera
 
-Que Sera is a music venue in Los Angeles with 1 upcoming night listed on soundcheck as of Sun, 13 Sept 2026; the next is "MUSEO 003" on Thu, 17 Sept 2026.
+Que Sera is a music venue in Los Angeles with 1 upcoming night listed on soundcheck as of Mon, 14 Sept 2026; the next is "MUSEO 003" on Thu, 17 Sept 2026.
 
 Que Sera is a music venue in Losangeles listed on soundcheck. 1 upcoming night, with line-ups including heelbite316, Shay De Castro and Tattoopudge. Browse upcoming dates, start times and who's playing. 1923 E 7th St,  Long Beach, CA 90813.
 
@@ -14,4 +14,4 @@ Que Sera is a music venue in Losangeles listed on soundcheck. 1 upcoming night, 
 
 1923 E 7th St,  Long Beach, CA 90813, Los Angeles
 
-*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/que-sera/)*
+*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/que-sera/)*

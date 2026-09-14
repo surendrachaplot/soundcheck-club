@@ -1,14 +1,13 @@
 # Peggy Gou
 
-Peggy Gou is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Sun, 13 Sept 2026, next at Auditorium Parco della Musica, Rome on Sat, 12 Sept 2026.
+Peggy Gou is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Mon, 14 Sept 2026, next at Echostage, Washington DC on Fri, 2 Oct 2026.
 
-Peggy Gou is a house and techno artist tracked on soundcheck, with 99 sets logged across Amsterdam, Austin, Bali and Barcelona and 39 more. Often billed alongside ANOTR, Chloé Caillet and Skream. Next up: Auditorium Parco della Musica, Rome on Sat 12 Sept.
+Peggy Gou is a house and techno artist tracked on soundcheck, with 99 sets logged across Amsterdam, Austin, Bali and Barcelona and 39 more. Often billed alongside ANOTR, Chloé Caillet and Skream. Next up: Echostage, Washingtondc on Fri 2 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 12 Sept 2026 | Auditorium Parco della Musica | Rome |
 | Fri, 2 Oct 2026 | Echostage | Washington DC |
 | Sat, 3 Oct 2026 | Flushing Meadows Corona Park | New York City |
 | Sat, 21 Nov 2026 | Depot Mayfield | Manchester |
@@ -29,4 +28,4 @@ Peggy Gou is a house and techno artist tracked on soundcheck, with 99 sets logge
 
 ANOTR, Chloé Caillet, Skream
 
-*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/peggygou/)*
+*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/peggygou/)*

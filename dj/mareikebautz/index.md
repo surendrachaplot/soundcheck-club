@@ -1,6 +1,6 @@
 # Mareike Bautz
 
-Mareike Bautz is a Techno and Trance artist with 4 upcoming club dates listed on soundcheck as of Sun, 13 Sept 2026, next at Ritter Butzke, Berlin on Fri, 18 Sept 2026.
+Mareike Bautz is a Techno and Trance artist with 4 upcoming club dates listed on soundcheck as of Mon, 14 Sept 2026, next at Ritter Butzke, Berlin on Fri, 18 Sept 2026.
 
 Mareike Bautz is a techno and trance artist tracked on soundcheck, with 108 sets logged across Barcelona, Berlin, Cologne and Frankfurt and 5 more. Often billed alongside KLING&KLANG, DJ Primitivo and Justin Tinderdate. Next up: Ritter Butzke, Berlin on Fri 18 Sept.
 
@@ -28,4 +28,4 @@ Mareike Bautz is a techno and trance artist tracked on soundcheck, with 108 sets
 
 KLING&KLANG, DJ Primitivo, Justin Tinderdate
 
-*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mareikebautz/)*
+*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mareikebautz/)*

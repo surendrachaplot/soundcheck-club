@@ -1,14 +1,13 @@
 # SKALAH (UK)
 
-SKALAH (UK) is a Dubstep and Bass artist with 6 upcoming club dates listed on soundcheck as of Sun, 13 Sept 2026, next at The Cause, London on Sat, 12 Sept 2026.
+SKALAH (UK) is a Dubstep and Bass artist with 5 upcoming club dates listed on soundcheck as of Mon, 14 Sept 2026, next at The Berkeley Suite, Glasgow on Thu, 17 Sept 2026.
 
-SKALAH (UK) is a dubstep and bass artist tracked on soundcheck, with 46 sets logged across Amsterdam, Brighton, Bristol and Edinburgh and 8 more. Often billed alongside JAZ IMSKY, Saint Ludo and Figs. Next up: The Cause, London on Sat 12 Sept.
+SKALAH (UK) is a dubstep and bass artist tracked on soundcheck, with 46 sets logged across Amsterdam, Brighton, Bristol and Edinburgh and 8 more. Often billed alongside JAZ IMSKY, Saint Ludo and Figs. Next up: The Berkeley Suite, Glasgow on Thu 17 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 12 Sept 2026 | The Cause | London |
 | Thu, 17 Sept 2026 | The Berkeley Suite | Glasgow |
 | Fri, 9 Oct 2026 | Depot Mayfield | Manchester |
 | Sat, 17 Oct 2026 | The Loco Klub | Bristol |
@@ -30,4 +29,4 @@ SKALAH (UK) is a dubstep and bass artist tracked on soundcheck, with 46 sets log
 
 JAZ IMSKY, Saint Ludo, Figs
 
-*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/skala-uk/)*
+*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/skala-uk/)*

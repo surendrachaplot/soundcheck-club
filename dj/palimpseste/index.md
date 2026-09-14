@@ -1,6 +1,6 @@
 # Palimpseste
 
-Palimpseste is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Sun, 13 Sept 2026, next at Goya Social Club, Madrid on Fri, 25 Sept 2026.
+Palimpseste is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Mon, 14 Sept 2026, next at Goya Social Club, Madrid on Fri, 25 Sept 2026.
 
 Palimpseste is a house and disco artist tracked on soundcheck, with 52 sets logged across Madrid and Paris. Often billed alongside Finesse, Marchandazing and Matteo Morrielli. Next up: Goya Social Club, Madrid on Fri 25 Sept.
 
@@ -25,4 +25,4 @@ Palimpseste is a house and disco artist tracked on soundcheck, with 52 sets logg
 
 Finesse, Marchandazing, Matteo Morrielli
 
-*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/palimpseste/)*
+*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/palimpseste/)*

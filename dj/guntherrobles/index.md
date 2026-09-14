@@ -1,6 +1,6 @@
 # Günther Robles
 
-Günther Robles is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 13 Sept 2026, next at Sunseabar Beach Club, Barcelona on Thu, 24 Sept 2026.
+Günther Robles is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 14 Sept 2026, next at Sunseabar Beach Club, Barcelona on Thu, 24 Sept 2026.
 
 Günther Robles is a house and techno artist tracked on soundcheck, with 7 sets logged across Amsterdam, Barcelona and Madrid. Often billed alongside ZEIA, ATMEN and Affani. Next up: Sunseabar Beach Club, Barcelona on Thu 24 Sept.
 
@@ -23,4 +23,4 @@ Günther Robles is a house and techno artist tracked on soundcheck, with 7 sets 
 
 ZEIA, ATMEN, Affani
 
-*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/guntherrobles/)*
+*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/guntherrobles/)*

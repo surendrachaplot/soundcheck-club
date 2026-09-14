@@ -1,14 +1,13 @@
 # TILLATEC
 
-TILLATEC is a music venue in Amsterdam with 13 upcoming nights listed on soundcheck as of Sun, 13 Sept 2026; the next is "UMBRAL x TILLATEC" on Sun, 13 Sept 2026.
+TILLATEC is a music venue in Amsterdam with 12 upcoming nights listed on soundcheck as of Mon, 14 Sept 2026; the next is "PVSSY AKELARRE X WEEEIRDOS: ARRAROA" on Fri, 18 Sept 2026.
 
-TILLATEC is a music venue in Amsterdam listed on soundcheck. 13 upcoming nights, with line-ups including Justine Perry, Andrés Soria, Andy Garvey and Andy Martin and 2 more. Browse upcoming dates, start times and who's playing. Doctor Jan van Breemenstraat 1; 1056 AB Amsterdam.
+TILLATEC is a music venue in Amsterdam listed on soundcheck. 12 upcoming nights, with line-ups including Justine Perry, Andy Garvey, Andy Martin and Anika Kunst and 2 more. Browse upcoming dates, start times and who's playing. Doctor Jan van Breemenstraat 1; 1056 AB Amsterdam.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sun, 13 Sept 2026 | UMBRAL x TILLATEC | Andrés Soria, Kessie, SAMA (NL) |
 | Fri, 18 Sept 2026 | PVSSY AKELARRE X WEEEIRDOS: ARRAROA | Jasmín, Julia Maria, LOLSNAKE, Maria Cue, VINVAR |
 | Sat, 19 Sept 2026 | VBX SUMMER CLOSING  | DJ Split, Nosedrip, PHIA, THC, Tommy Chikara, Velasco, dj sweet6teen |
 | Sat, 26 Sept 2026 | 2DEHUIS X ANTIDOTE | Connor Wall, Kameliia, Luigi Madonna, PHARRISM, Rebecca Delle Piane, THEBODYKNOWS, VSSR, Vilchezz |
@@ -18,9 +17,10 @@ TILLATEC is a music venue in Amsterdam listed on soundcheck. 13 upcoming nights,
 | Thu, 22 Oct 2026 | Vault Sessions x Mutual Rytm ADE | ANNĒ, Disguised, Human Safari, Hyden, I-RO, KiNK, Mara Menace, Phil Berg, SHDW, Sera J |
 | Fri, 23 Oct 2026 | Disturbia x Soundcora - ADE 2026 | Andy Garvey, Andy Martin, Anika Kunst, Cassy, Clarisa Kimskii, Eduardo de la Calle, Efdemin, HERMETICA, John Talabot, Judy (ES), Konduku, Makam, Mario Picosso, Nacho, Raquel Cruz, Shoal, Valody |
 | Fri, 23 Oct 2026 | Vinylism x ADE |  |
+| Sat, 24 Oct 2026 | Home Again x Sound Metaphors x Basement Love Fundraiser | Bambounou, Black Loops, Blame Anthony, Butterhands, Cinthie, Dan Shake, David Vunk, Doppelgang, Doudou MD, Duncan Thomas, Giammarco Orsini, LOVEFOXY, Merve, Natalie Robinson, PNNY, Simone de Kunovich, Sound Metaphors Djs, Thabo, Tiago Oudman, Tom Trago, bullet tooth |
 
 ## Address
 
 Doctor Jan van Breemenstraat 1; 1056 AB Amsterdam, Amsterdam
 
-*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/tillatec/)*
+*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/tillatec/)*

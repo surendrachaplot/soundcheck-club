@@ -1,6 +1,6 @@
 # Subatomic Sound System
 
-Subatomic Sound System is a Dub and Dancehall artist with 1 upcoming club date listed on soundcheck as of Sun, 13 Sept 2026, next at ErF Studios, New York City on Fri, 25 Sept 2026.
+Subatomic Sound System is a Dub and Dancehall artist with 1 upcoming club date listed on soundcheck as of Mon, 14 Sept 2026, next at ErF Studios, New York City on Fri, 25 Sept 2026.
 
 Subatomic Sound System is a dub and dancehall artist tracked on soundcheck, with 5 sets logged across Newyorkcity, Sanfrancisco and Seattle. Often billed alongside Akanbi, Leafy Greens and The Hefker Girl. Next up: ErF Studios, Newyorkcity on Fri 25 Sept.
 
@@ -21,4 +21,4 @@ Subatomic Sound System is a dub and dancehall artist tracked on soundcheck, with
 
 Akanbi, Leafy Greens, The Hefker Girl
 
-*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/subatomicsoundsystem/)*
+*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/subatomicsoundsystem/)*

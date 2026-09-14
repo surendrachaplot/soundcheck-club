@@ -1,6 +1,6 @@
 # Collect LX Factory
 
-Collect LX Factory is a music venue in Lisbon with 11 upcoming nights listed on soundcheck as of Sun, 13 Sept 2026; the next is "BEAT TRADE BY NELASSASSIN E CAMBOJa" on Thu, 17 Sept 2026.
+Collect LX Factory is a music venue in Lisbon with 11 upcoming nights listed on soundcheck as of Mon, 14 Sept 2026; the next is "BEAT TRADE BY NELASSASSIN E CAMBOJa" on Thu, 17 Sept 2026.
 
 Collect LX Factory is a music venue in Lisbon listed on soundcheck. 11 upcoming nights, with line-ups including Andre Cascais, Billi, Bobby Dreams and CVLT and 2 more. Browse upcoming dates, start times and who's playing. R. Rodrigues de Faria 103, 1300-501 Lisboa.
 
@@ -23,4 +23,4 @@ Collect LX Factory is a music venue in Lisbon listed on soundcheck. 11 upcoming 
 
 R. Rodrigues de Faria 103, 1300-501 Lisboa, Lisbon
 
-*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/lisbon/club/collect-lx-factory/)*
+*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/lisbon/club/collect-lx-factory/)*

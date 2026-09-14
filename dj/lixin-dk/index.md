@@ -1,6 +1,6 @@
 # Lixin
 
-Lixin is a Electro and Dubstep artist with 1 upcoming club date listed on soundcheck as of Sun, 13 Sept 2026, next at Basement Vesterbro, Copenhagen on Fri, 25 Sept 2026.
+Lixin is a Electro and Dubstep artist with 1 upcoming club date listed on soundcheck as of Mon, 14 Sept 2026, next at Basement Vesterbro, Copenhagen on Fri, 25 Sept 2026.
 
 Lixin is an electro and dubstep artist tracked on soundcheck, with 2 sets logged across Copenhagen. Often billed alongside AMITTET, MNSTR and DJ 2LATE. Next up: Basement Vesterbro, Copenhagen on Fri 25 Sept.
 
@@ -18,4 +18,4 @@ Lixin is an electro and dubstep artist tracked on soundcheck, with 2 sets logged
 
 AMITTET, MNSTR, DJ 2LATE
 
-*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lixin-dk/)*
+*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lixin-dk/)*

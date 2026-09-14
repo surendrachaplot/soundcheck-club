@@ -1,6 +1,6 @@
 # Astron Club
 
-Astron Club is a music venue in Athens with 4 upcoming nights listed on soundcheck as of Sun, 13 Sept 2026; the next is "S.O.T.S. with Pjennè , Katra , K.atou" on Fri, 18 Sept 2026.
+Astron Club is a music venue in Athens with 4 upcoming nights listed on soundcheck as of Mon, 14 Sept 2026; the next is "S.O.T.S. with Pjennè , Katra , K.atou" on Fri, 18 Sept 2026.
 
 Astron Club is a music venue in Athens listed on soundcheck. 4 upcoming nights, with line-ups including Atypikal, Bekha Mujiri, BMSK and Extase Urbaine and 2 more. Browse upcoming dates, start times and who's playing. 121 Konstantinoupoleos St., Athens 104 47, Greece.
 
@@ -17,4 +17,4 @@ Astron Club is a music venue in Athens listed on soundcheck. 4 upcoming nights, 
 
 121 Konstantinoupoleos St., Athens 104 47, Greece, Athens
 
-*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/athens/club/astron-club/)*
+*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/athens/club/astron-club/)*

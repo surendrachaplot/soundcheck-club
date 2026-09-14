@@ -1,6 +1,6 @@
 # BELLAHONEYBB
 
-BELLAHONEYBB is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 13 Sept 2026, next at DNA. CLUB, Berlin on Sat, 26 Sept 2026.
+BELLAHONEYBB is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 14 Sept 2026, next at DNA. CLUB, Berlin on Sat, 26 Sept 2026.
 
 BELLAHONEYBB is a house and techno artist tracked on soundcheck, with 2 sets logged across Berlin. Often billed alongside Alex Friday, Blck-Swan and CSILLA. Next up: DNA. CLUB, Berlin on Sat 26 Sept.
 
@@ -18,4 +18,4 @@ BELLAHONEYBB is a house and techno artist tracked on soundcheck, with 2 sets log
 
 Alex Friday, Blck-Swan, CSILLA
 
-*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bellahoneybb/)*
+*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bellahoneybb/)*

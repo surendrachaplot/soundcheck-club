@@ -1,6 +1,6 @@
 # Círculo
 
-Círculo is a music venue in Barcelona with 6 upcoming nights listed on soundcheck as of Sun, 13 Sept 2026; the next is "Inner Circle feat. Circo Paraíso" on Thu, 17 Sept 2026.
+Círculo is a music venue in Barcelona with 6 upcoming nights listed on soundcheck as of Mon, 14 Sept 2026; the next is "Inner Circle feat. Circo Paraíso" on Thu, 17 Sept 2026.
 
 Círculo is a music venue in Barcelona listed on soundcheck. 6 upcoming nights. Browse upcoming dates, start times and who's playing. Carrer del Rec, 62, 08003, Barcelona, Spain.
 
@@ -19,4 +19,4 @@ Círculo is a music venue in Barcelona listed on soundcheck. 6 upcoming nights. 
 
 Carrer del Rec, 62, 08003, Barcelona, Spain, Barcelona
 
-*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/c-rculo/)*
+*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/c-rculo/)*

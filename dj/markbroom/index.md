@@ -1,6 +1,6 @@
 # Mark Broom
 
-Mark Broom is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Sun, 13 Sept 2026, next at CLUB RAUM, Amsterdam on Fri, 18 Sept 2026.
+Mark Broom is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Mon, 14 Sept 2026, next at CLUB RAUM, Amsterdam on Fri, 18 Sept 2026.
 
 Mark Broom is a techno and house artist tracked on soundcheck, with 109 sets logged across Amsterdam, Austin, Bali and Barcelona and 46 more. Often billed alongside Autechre, CESAR ALMENA and Nuke. Next up: CLUB RAUM, Amsterdam on Fri 18 Sept.
 
@@ -27,4 +27,4 @@ Mark Broom is a techno and house artist tracked on soundcheck, with 109 sets log
 
 Autechre, CESAR ALMENA, Nuke
 
-*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/markbroom/)*
+*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/markbroom/)*

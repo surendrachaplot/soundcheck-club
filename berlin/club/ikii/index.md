@@ -1,6 +1,6 @@
 # Ikii
 
-Ikii is a music venue in Berlin with 4 upcoming nights listed on soundcheck as of Sun, 13 Sept 2026; the next is "Gather in sound Vol. 7" on Sat, 19 Sept 2026.
+Ikii is a music venue in Berlin with 4 upcoming nights listed on soundcheck as of Mon, 14 Sept 2026; the next is "Gather in sound Vol. 7" on Sat, 19 Sept 2026.
 
 Ikii is a music venue in Berlin listed on soundcheck. 4 upcoming nights, with line-ups including Alex Jenkin, APRS, Ben Kaczor and DJ Detective and 2 more. Browse upcoming dates, start times and who's playing. Herrfurthplatz 8, 12049 Berlin, Germany.
 
@@ -17,4 +17,4 @@ Ikii is a music venue in Berlin listed on soundcheck. 4 upcoming nights, with li
 
 Herrfurthplatz 8, 12049 Berlin, Germany, Berlin
 
-*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/ikii/)*
+*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/ikii/)*

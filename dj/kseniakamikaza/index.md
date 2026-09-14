@@ -1,6 +1,6 @@
 # Ksenia Kamikaza
 
-Ksenia Kamikaza is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Sun, 13 Sept 2026, next at TBA, Buenos Aires on Sat, 19 Sept 2026.
+Ksenia Kamikaza is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Mon, 14 Sept 2026, next at TBA, Buenos Aires on Sat, 19 Sept 2026.
 
 Ksenia Kamikaza is a techno and house artist tracked on soundcheck, with 118 sets logged across Amsterdam, Barcelona, Berlin and Buenosaires and 10 more. Often billed alongside Esoniq, Ikss and HP-82. Next up: TBA, Buenosaires on Sat 19 Sept.
 
@@ -30,4 +30,4 @@ Ksenia Kamikaza is a techno and house artist tracked on soundcheck, with 118 set
 
 Esoniq, Ikss, HP-82
 
-*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kseniakamikaza/)*
+*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kseniakamikaza/)*

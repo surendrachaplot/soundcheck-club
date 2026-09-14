@@ -1,6 +1,6 @@
 # Coco Boule
 
-Coco Boule is a music venue in Berlin with 1 upcoming night listed on soundcheck as of Sun, 13 Sept 2026; the next is "SWIM GOODIES: long distance relationship (Swim Good x GOODIES)" on Sat, 10 Oct 2026.
+Coco Boule is a music venue in Berlin with 1 upcoming night listed on soundcheck as of Mon, 14 Sept 2026; the next is "SWIM GOODIES: long distance relationship (Swim Good x GOODIES)" on Sat, 10 Oct 2026.
 
 Coco Boule is a music venue in Berlin listed on soundcheck. 1 upcoming night, with line-ups including ALBA (3) and Stimulus. Browse upcoming dates, start times and who's playing. Prinzenstraße 85/D-F, 10969 Berlin, Germany.
 
@@ -14,4 +14,4 @@ Coco Boule is a music venue in Berlin listed on soundcheck. 1 upcoming night, wi
 
 Prinzenstraße 85/D-F, 10969 Berlin, Germany, Berlin
 
-*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/coco-boule/)*
+*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/coco-boule/)*

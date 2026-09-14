@@ -1,6 +1,6 @@
 # LINUS
 
-LINUS is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Sun, 13 Sept 2026, next at TBA - Il Mercato Centrale, Melbourne on Sat, 26 Sept 2026.
+LINUS is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Mon, 14 Sept 2026, next at TBA - Il Mercato Centrale, Melbourne on Sat, 26 Sept 2026.
 
 LINUS is a techno and tech house artist based in United States of America, tracked on soundcheck, with 9 sets logged across Bangkok, Copenhagen and Melbourne. Often billed alongside Dark White, Meltmode (2) and AMITTET. Next up: TBA - Il Mercato Centrale, Melbourne on Sat 26 Sept.
 
@@ -25,4 +25,4 @@ LINUS is a techno and tech house artist based in United States of America, track
 
 Dark White, Meltmode (2), AMITTET
 
-*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/linus/)*
+*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/linus/)*

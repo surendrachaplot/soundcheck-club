@@ -1,6 +1,6 @@
 # Super5
 
-Super5 is a music venue in Lyon with 6 upcoming nights listed on soundcheck as of Sun, 13 Sept 2026; the next is "Cornelius Doctor" on Thu, 17 Sept 2026.
+Super5 is a music venue in Lyon with 6 upcoming nights listed on soundcheck as of Mon, 14 Sept 2026; the next is "Cornelius Doctor" on Thu, 17 Sept 2026.
 
 Super5 is a music venue in Lyon listed on soundcheck. 6 upcoming nights, with line-ups including Cornelius Doctor, Crowd Control, De Santi and Exkursion and 2 more. Browse upcoming dates, start times and who's playing. 2 Rue de Savy - Lyon.
 
@@ -19,4 +19,4 @@ Super5 is a music venue in Lyon listed on soundcheck. 6 upcoming nights, with li
 
 2 Rue de Savy - Lyon, Lyon
 
-*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/lyon/club/super5/)*
+*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/lyon/club/super5/)*

@@ -1,8 +1,8 @@
 # CEB (FI)
 
-CEB (FI) is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Sun, 13 Sept 2026, next at Post Bar, Helsinki on Sat, 19 Sept 2026.
+CEB (FI) is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Mon, 14 Sept 2026, next at Post Bar, Helsinki on Sat, 19 Sept 2026.
 
-CEB (FI) is a techno and house artist tracked on soundcheck, with 42 sets logged across Amsterdam, Berlin, Helsinki and Leipzig and 1 more. Often billed alongside Lil Tony, 2THEMAX and LARA SILVA. Next up: Post Bar, Helsinki on Sat 19 Sept.
+CEB (FI) is a techno and house artist tracked on soundcheck, with 90 sets logged across Amsterdam, Berlin, Helsinki and Leipzig and 1 more. Often billed alongside LARA SILVA, Paula Koski and 2THEMAX. Next up: Post Bar, Helsinki on Sat 19 Sept.
 
 ## Upcoming shows
 
@@ -25,6 +25,6 @@ CEB (FI) is a techno and house artist tracked on soundcheck, with 42 sets logged
 
 ## Shares bills with
 
-Lil Tony, 2THEMAX, LARA SILVA
+LARA SILVA, Paula Koski, 2THEMAX
 
-*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ceb-fi/)*
+*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ceb-fi/)*

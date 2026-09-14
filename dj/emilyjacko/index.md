@@ -1,6 +1,6 @@
 # Emily Jacko
 
-Emily Jacko is a Garage and House artist with 2 upcoming club dates listed on soundcheck as of Sun, 13 Sept 2026, next at Gateshead Quayside, Newcastle on Sat, 26 Sept 2026.
+Emily Jacko is a Garage and House artist with 2 upcoming club dates listed on soundcheck as of Mon, 14 Sept 2026, next at Gateshead Quayside, Newcastle on Sat, 26 Sept 2026.
 
 Emily Jacko is a garage and house artist based in United Kingdom, tracked on soundcheck, with 16 sets logged across Leeds, London and Newcastle. Often billed alongside Macca (2), NEENZY (UK) and Amelia Leigh. Next up: Gateshead Quayside, Newcastle on Sat 26 Sept.
 
@@ -26,4 +26,4 @@ Emily Jacko is a garage and house artist based in United Kingdom, tracked on sou
 
 Macca (2), NEENZY (UK), Amelia Leigh
 
-*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/emilyjacko/)*
+*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/emilyjacko/)*

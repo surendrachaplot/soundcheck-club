@@ -1,6 +1,6 @@
 # Echostage
 
-Echostage is a music venue in Washington DC with 15 upcoming nights listed on soundcheck as of Sun, 13 Sept 2026; the next is "ISOxo with Control Freak, ALEKO [NIGHT 2]" on Sun, 13 Sept 2026.
+Echostage is a music venue in Washington DC with 15 upcoming nights listed on soundcheck as of Mon, 14 Sept 2026; the next is "LSR/CITY X by Gareth Emery w/ Andrea Botez, CVMRN, Dopastat" on Fri, 18 Sept 2026.
 
 Echostage is a music venue in Washingtondc listed on soundcheck. 15 upcoming nights, with line-ups including 10cust, Afrojack, Andrea Botez and BENNETT and 2 more. Browse upcoming dates, start times and who's playing. 2135 Queens Chapel Road NE, Washington, DC 20018.
 
@@ -8,7 +8,6 @@ Echostage is a music venue in Washingtondc listed on soundcheck. 15 upcoming nig
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sun, 13 Sept 2026 | ISOxo with Control Freak, ALEKO [NIGHT 2] | Control Freak |
 | Fri, 18 Sept 2026 | LSR/CITY X by Gareth Emery w/ Andrea Botez, CVMRN, Dopastat | Andrea Botez, Gareth Emery |
 | Sat, 26 Sept 2026 | Factory 93: I Hate Models with BENNETT | BENNETT, I Hate Models |
 | Sat, 26 Sept 2026 | Gorgon City with Hayden James, Soraya, House of JANE | Gorgon City, Hayden James, Soraya |
@@ -18,9 +17,10 @@ Echostage is a music venue in Washingtondc listed on soundcheck. 15 upcoming nig
 | Sat, 17 Oct 2026 | San Holo with Taiki Nulight, Atura | San Holo |
 | Fri, 23 Oct 2026 | Chris Lorenzo w/ Ragie Ban, Mai iachetti, MIRACLETEK | Chris Lorenzo, Mai iachetti |
 | Sat, 24 Oct 2026 | Factory 93 presents: ¥ØU$UK€ ¥UK1MAT$U | ¥ØU$UK€ ¥UK1MAT$U |
+| Fri, 30 Oct 2026 | Factory 93: Eli Brown with Massano (360° SetS) | Eli Brown, Massano |
 
 ## Address
 
 2135 Queens Chapel Road NE, Washington, DC 20018, Washington DC
 
-*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/washingtondc/club/echostage/)*
+*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/washingtondc/club/echostage/)*

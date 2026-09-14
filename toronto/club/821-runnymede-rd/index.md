@@ -1,6 +1,6 @@
 # 821 Runnymede Rd
 
-821 Runnymede Rd is a music venue in Toronto with 5 upcoming nights listed on soundcheck as of Sun, 13 Sept 2026; the next is "Sunnyside Sessions Afterparty ft PAN - POT at Runnymede Hall" on Sat, 19 Sept 2026.
+821 Runnymede Rd is a music venue in Toronto with 5 upcoming nights listed on soundcheck as of Mon, 14 Sept 2026; the next is "Sunnyside Sessions Afterparty ft PAN - POT at Runnymede Hall" on Sat, 19 Sept 2026.
 
 821 Runnymede Rd is a music venue in Toronto listed on soundcheck. 5 upcoming nights, with line-ups including 1tbsp, Ana Luisa, AUTUL and Choirboi and 2 more. Browse upcoming dates, start times and who's playing. 821 Runnymede Rd.
 
@@ -18,4 +18,4 @@
 
 821 Runnymede Rd, Toronto
 
-*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/821-runnymede-rd/)*
+*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/821-runnymede-rd/)*

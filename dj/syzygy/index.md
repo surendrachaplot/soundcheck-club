@@ -1,6 +1,6 @@
 # SYZYGY
 
-SYZYGY is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Sun, 13 Sept 2026, next at ZEROTOKYO, Tokyo on Tue, 22 Sept 2026.
+SYZYGY is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Mon, 14 Sept 2026, next at ZEROTOKYO, Tokyo on Tue, 22 Sept 2026.
 
 SYZYGY is a techno and industrial artist tracked on soundcheck, with 3 sets logged across Paris and Tokyo. Often billed alongside Aaliyahnelle, DALJAE and DICE. Next up: ZEROTOKYO, Tokyo on Tue 22 Sept.
 
@@ -19,4 +19,4 @@ SYZYGY is a techno and industrial artist tracked on soundcheck, with 3 sets logg
 
 Aaliyahnelle, DALJAE, DICE
 
-*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/syzygy/)*
+*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/syzygy/)*

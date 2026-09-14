@@ -1,8 +1,8 @@
 # MihuT
 
-MihuT is a House and Balearic artist with 1 upcoming club date listed on soundcheck as of Sun, 13 Sept 2026, next at Tekniikan Museo, Helsinki on Fri, 18 Sept 2026.
+MihuT is a House and Balearic artist with 1 upcoming club date listed on soundcheck as of Mon, 14 Sept 2026, next at Tekniikan Museo, Helsinki on Fri, 18 Sept 2026.
 
-MihuT is a house and balearic artist tracked on soundcheck, with 18 sets logged across Helsinki. Often billed alongside Aleksi Myllykoski, Carlina Carpelan and 6th Borough Project. Next up: Tekniikan Museo, Helsinki on Fri 18 Sept.
+MihuT is a house and balearic artist based in Finland, tracked on soundcheck, with 33 sets logged across Helsinki. Often billed alongside Aleksi Myllykoski, Valeria Croft and Carlina Carpelan. Next up: Tekniikan Museo, Helsinki on Fri 18 Sept.
 
 ## Upcoming shows
 
@@ -23,6 +23,6 @@ MihuT is a house and balearic artist tracked on soundcheck, with 18 sets logged 
 
 ## Shares bills with
 
-Aleksi Myllykoski, Carlina Carpelan, 6th Borough Project
+Aleksi Myllykoski, Valeria Croft, Carlina Carpelan
 
-*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mihut/)*
+*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mihut/)*

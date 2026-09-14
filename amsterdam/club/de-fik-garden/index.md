@@ -1,6 +1,6 @@
 # De Fik Garden
 
-De Fik Garden is a music venue in Amsterdam with 6 upcoming nights listed on soundcheck as of Sun, 13 Sept 2026; the next is "Motion Blur - Our Space" on Sat, 3 Oct 2026.
+De Fik Garden is a music venue in Amsterdam with 6 upcoming nights listed on soundcheck as of Mon, 14 Sept 2026; the next is "Motion Blur - Our Space" on Sat, 3 Oct 2026.
 
 De Fik Garden is a music venue in Amsterdam listed on soundcheck. 6 upcoming nights, with line-ups including Andy Garvey, Bastienne, Comrade Winston and Delano Legito and 2 more. Browse upcoming dates, start times and who's playing. Sportparklaan 19, 1062 ZA Amsterdam, The Netherlands.
 
@@ -19,4 +19,4 @@ De Fik Garden is a music venue in Amsterdam listed on soundcheck. 6 upcoming nig
 
 Sportparklaan 19, 1062 ZA Amsterdam, The Netherlands, Amsterdam
 
-*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/de-fik-garden/)*
+*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/de-fik-garden/)*

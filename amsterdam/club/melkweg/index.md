@@ -1,14 +1,13 @@
 # Melkweg
 
-Melkweg is a music venue in Amsterdam with 50 upcoming nights listed on soundcheck as of Sun, 13 Sept 2026; the next is "TR/ST – Live" on Sun, 13 Sept 2026.
+Melkweg is a music venue in Amsterdam with 49 upcoming nights listed on soundcheck as of Mon, 14 Sept 2026; the next is "Cheeky Monday: Selecta J-Man" on Mon, 14 Sept 2026.
 
-Melkweg is a music venue in Amsterdam listed on soundcheck. 50 upcoming nights, with line-ups including 2HOT2PLAY, Yulia Niko, ABOUT SOFIYA and ALT8 and 2 more. Browse upcoming dates, start times and who's playing. Lijnbaansgracht 234/a, 1017 Binnenstad, Amsterdam.
+Melkweg is a music venue in Amsterdam listed on soundcheck. 49 upcoming nights, with line-ups including 2HOT2PLAY, Yulia Niko, ABOUT SOFIYA and ALT8 and 2 more. Browse upcoming dates, start times and who's playing. Lijnbaansgracht 234/a, 1017 Binnenstad, Amsterdam.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sun, 13 Sept 2026 | TR/ST – Live |  |
 | Mon, 14 Sept 2026 | Cheeky Monday: Selecta J-Man |  |
 | Tue, 15 Sept 2026 | Techno Tuesday Amsterdam, CHAFA & Dexon extended sets | CHAFA, Dexon |
 | Fri, 18 Sept 2026 | SIDEQUEST |  |
@@ -18,9 +17,10 @@ Melkweg is a music venue in Amsterdam listed on soundcheck. 50 upcoming nights, 
 | Mon, 28 Sept 2026 | Cheeky Monday: Serpnt | Gibbo |
 | Tue, 29 Sept 2026 | Techno Tuesday Amsterdam, Motivo, Lizz V, Dexon | Dexon, Lizz V, MOTIVO MODERNO |
 | Wed, 30 Sept 2026 | Daft Funk Live in Amsterdam | Daft Funk Live |
+| Fri, 2 Oct 2026 | EAST Techno Collective w/ Brtinzz [BCCO/Planet Rhythm] | ABOUT SOFIYA, Brtinzz, Delguero, Jayzo |
 
 ## Address
 
 Lijnbaansgracht 234/a, 1017 Binnenstad, Amsterdam, Amsterdam
 
-*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/melkweg/)*
+*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/melkweg/)*

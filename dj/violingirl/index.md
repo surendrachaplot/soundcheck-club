@@ -1,6 +1,6 @@
 # Violin Girl
 
-Violin Girl is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Sun, 13 Sept 2026, next at Music For A While, New York City on Fri, 25 Sept 2026.
+Violin Girl is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Mon, 14 Sept 2026, next at Music For A While, New York City on Fri, 25 Sept 2026.
 
 Violin Girl is a house and tech house artist based in United States of America, tracked on soundcheck, with 12 sets logged across Boston, Chicago, Newyorkcity and Washingtondc. Often billed alongside Kice. Next up: Music For A While, Newyorkcity on Fri 25 Sept.
 
@@ -26,4 +26,4 @@ Violin Girl is a house and tech house artist based in United States of America, 
 
 Kice
 
-*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/violingirl/)*
+*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/violingirl/)*

@@ -1,8 +1,8 @@
 # Âme
 
-Âme is a Techno and House artist with 13 upcoming club dates listed on soundcheck as of Sun, 13 Sept 2026, next at Sunset Park Rooftop, New York City on Fri, 18 Sept 2026.
+Âme is a Techno and House artist with 13 upcoming club dates listed on soundcheck as of Mon, 14 Sept 2026, next at Sunset Park Rooftop, New York City on Fri, 18 Sept 2026.
 
-Âme is a techno and house artist tracked on soundcheck, with 355 sets logged across Amsterdam, Antwerp, Athens and Bali and 59 more. Often billed alongside Trikk, Jimi Jules and Dixon. Next up: Sunset Park Rooftop, Newyorkcity on Fri 18 Sept.
+Âme is a techno and house artist tracked on soundcheck, with 356 sets logged across Amsterdam, Antwerp, Athens and Bali and 60 more. Often billed alongside Trikk, Jimi Jules and Dixon. Next up: Sunset Park Rooftop, Newyorkcity on Fri 18 Sept.
 
 ## Upcoming shows
 
@@ -36,4 +36,4 @@
 
 Trikk, Jimi Jules, Dixon
 
-*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ame/)*
+*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ame/)*

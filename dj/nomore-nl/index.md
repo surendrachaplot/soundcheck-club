@@ -1,6 +1,6 @@
 # NoMore
 
-NoMore is a House and Progressive House artist with 2 upcoming club dates listed on soundcheck as of Sun, 13 Sept 2026, next at Huis van Iemand Anders, Amsterdam on Fri, 16 Oct 2026.
+NoMore is a House and Progressive House artist with 2 upcoming club dates listed on soundcheck as of Mon, 14 Sept 2026, next at Huis van Iemand Anders, Amsterdam on Fri, 16 Oct 2026.
 
 NoMore is a house and progressive house artist based in Netherlands, tracked on soundcheck, with 8 sets logged across Amsterdam, Lyon and Paris. Often billed alongside Beswerda, GIGEE and Henri Bergmann. Next up: Huis van Iemand Anders, Amsterdam on Fri 16 Oct.
 
@@ -24,4 +24,4 @@ NoMore is a house and progressive house artist based in Netherlands, tracked on 
 
 Beswerda, GIGEE, Henri Bergmann
 
-*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nomore-nl/)*
+*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nomore-nl/)*

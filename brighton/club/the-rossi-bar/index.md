@@ -1,6 +1,6 @@
 # The Rossi Bar
 
-The Rossi Bar is a music venue in Brighton with 1 upcoming night listed on soundcheck as of Sun, 13 Sept 2026; the next is "Missing People 10th Birthday" on Sat, 12 Dec 2026.
+The Rossi Bar is a music venue in Brighton with 1 upcoming night listed on soundcheck as of Mon, 14 Sept 2026; the next is "Missing People 10th Birthday" on Sat, 12 Dec 2026.
 
 The Rossi Bar is a music venue in Brighton listed on soundcheck. 1 upcoming night. Browse upcoming dates, start times and who's playing. 8 Queens Rd, Brighton BN1 3WA, United Kingdom.
 
@@ -14,4 +14,4 @@ The Rossi Bar is a music venue in Brighton listed on soundcheck. 1 upcoming nigh
 
 8 Queens Rd, Brighton BN1 3WA, United Kingdom, Brighton
 
-*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/brighton/club/the-rossi-bar/)*
+*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/brighton/club/the-rossi-bar/)*

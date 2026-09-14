@@ -1,6 +1,6 @@
 # Queen of the Tadpoles
 
-Queen of the Tadpoles is a Techno and Experimental artist with 1 upcoming club date listed on soundcheck as of Sun, 13 Sept 2026, next at Old Towne Pub, Los Angeles on Sun, 20 Sept 2026.
+Queen of the Tadpoles is a Techno and Experimental artist with 1 upcoming club date listed on soundcheck as of Mon, 14 Sept 2026, next at Old Towne Pub, Los Angeles on Sun, 20 Sept 2026.
 
 Queen of the Tadpoles is a techno and experimental artist tracked on soundcheck, with 2 sets logged across Losangeles. Often billed alongside BbartokK, Fonetikleespelt and Humongous Frog. Next up: Old Towne Pub, Losangeles on Sun 20 Sept.
 
@@ -18,4 +18,4 @@ Queen of the Tadpoles is a techno and experimental artist tracked on soundcheck,
 
 BbartokK, Fonetikleespelt, Humongous Frog
 
-*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/queenofthetadpoles/)*
+*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/queenofthetadpoles/)*

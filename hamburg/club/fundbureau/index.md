@@ -1,6 +1,6 @@
 # Fundbureau
 
-Fundbureau is a music venue in Hamburg with 9 upcoming nights listed on soundcheck as of Sun, 13 Sept 2026; the next is "Eurodance2000 // Return Fall // Nikiija // SVE" on Fri, 18 Sept 2026.
+Fundbureau is a music venue in Hamburg with 9 upcoming nights listed on soundcheck as of Mon, 14 Sept 2026; the next is "Eurodance2000 // Return Fall // Nikiija // SVE" on Fri, 18 Sept 2026.
 
 Fundbureau is a music venue in Hamburg listed on soundcheck. 9 upcoming nights, with line-ups including Aio, Charlie Tee, Claudius and duaba and 2 more. Browse upcoming dates, start times and who's playing. Altländer Str. 1120095 Hamburg, Germany.
 
@@ -22,4 +22,4 @@ Fundbureau is a music venue in Hamburg listed on soundcheck. 9 upcoming nights, 
 
 Altländer Str. 1120095 Hamburg, Germany, Hamburg
 
-*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/hamburg/club/fundbureau/)*
+*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/hamburg/club/fundbureau/)*

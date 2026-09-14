@@ -1,6 +1,6 @@
 # Rena Volvo
 
-Rena Volvo is a Disco and Italo Disco artist with 3 upcoming club dates listed on soundcheck as of Sun, 13 Sept 2026, next at Kater, Berlin on Sat, 19 Sept 2026.
+Rena Volvo is a Disco and Italo Disco artist with 3 upcoming club dates listed on soundcheck as of Mon, 14 Sept 2026, next at Kater, Berlin on Sat, 19 Sept 2026.
 
 Rena Volvo is a disco and italo disco artist tracked on soundcheck, with 61 sets logged across Berlin, Copenhagen, Munich and Paris and 2 more. Often billed alongside Hank Clap, Andrea Zucca and Cmd Tulch. Next up: Kater, Berlin on Sat 19 Sept.
 
@@ -27,4 +27,4 @@ Rena Volvo is a disco and italo disco artist tracked on soundcheck, with 61 sets
 
 Hank Clap, Andrea Zucca, Cmd Tulch
 
-*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/renavolvo/)*
+*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/renavolvo/)*

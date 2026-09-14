@@ -1,6 +1,6 @@
 # Johannes Senn
 
-Johannes Senn is a Trance and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 13 Sept 2026, next at Amp, Munster on Sat, 26 Sept 2026.
+Johannes Senn is a Trance and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 14 Sept 2026, next at Amp, Munster on Sat, 26 Sept 2026.
 
 Johannes Senn is a trance and techno artist tracked on soundcheck, with 2 sets logged across Berlin and Munster. Often billed alongside Acidfinky, Audio Werner and Black Mirror Park. Next up: Amp, Munster on Sat 26 Sept.
 
@@ -18,4 +18,4 @@ Johannes Senn is a trance and techno artist tracked on soundcheck, with 2 sets l
 
 Acidfinky, Audio Werner, Black Mirror Park
 
-*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/johannessenn/)*
+*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/johannessenn/)*

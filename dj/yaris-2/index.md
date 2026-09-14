@@ -1,6 +1,6 @@
 # YARIS (2)
 
-YARIS (2) is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sun, 13 Sept 2026, next at The Limelight, Belfast on Fri, 20 Nov 2026.
+YARIS (2) is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 14 Sept 2026, next at The Limelight, Belfast on Fri, 20 Nov 2026.
 
 YARIS (2) is a techno and house artist based in United Kingdom, tracked on soundcheck, with 3 sets logged across Belfast. Often billed alongside KACPER, Ali James and CLERK.. Next up: The Limelight, Belfast on Fri 20 Nov.
 
@@ -19,4 +19,4 @@ YARIS (2) is a techno and house artist based in United Kingdom, tracked on sound
 
 KACPER, Ali James, CLERK.
 
-*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/yaris-2/)*
+*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/yaris-2/)*

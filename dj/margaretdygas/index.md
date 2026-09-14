@@ -1,14 +1,13 @@
 # Margaret Dygas
 
-Margaret Dygas is a House and Minimal artist with 4 upcoming club dates listed on soundcheck as of Sun, 13 Sept 2026, next at Fvtvr, Paris on Sat, 12 Sept 2026.
+Margaret Dygas is a House and Minimal artist with 3 upcoming club dates listed on soundcheck as of Mon, 14 Sept 2026, next at FOLD, London on Fri, 2 Oct 2026.
 
-Margaret Dygas is a house and minimal artist tracked on soundcheck, with 138 sets logged across Amsterdam, Barcelona, Belgrade and Berlin and 36 more. Often billed alongside Edward, Francesco Del Garda and Sonja Moonear. Next up: Fvtvr, Paris on Sat 12 Sept.
+Margaret Dygas is a house and minimal artist tracked on soundcheck, with 138 sets logged across Amsterdam, Barcelona, Belgrade and Berlin and 36 more. Often billed alongside Edward, Francesco Del Garda and Sonja Moonear. Next up: FOLD, London on Fri 2 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 12 Sept 2026 | Fvtvr | Paris |
 | Fri, 2 Oct 2026 | FOLD | London |
 | Sat, 3 Oct 2026 | Moon Club | Bristol |
 | Fri, 16 Oct 2026 | ZENNER | Berlin |
@@ -28,4 +27,4 @@ Margaret Dygas is a house and minimal artist tracked on soundcheck, with 138 set
 
 Edward, Francesco Del Garda, Sonja Moonear
 
-*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/margaretdygas/)*
+*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/margaretdygas/)*

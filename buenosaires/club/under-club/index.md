@@ -1,6 +1,6 @@
 # Under Club
 
-Under Club is a music venue in Buenos Aires with 8 upcoming nights listed on soundcheck as of Sun, 13 Sept 2026; the next is "Milena Adamis 7 HORAS" on Fri, 18 Sept 2026.
+Under Club is a music venue in Buenos Aires with 8 upcoming nights listed on soundcheck as of Mon, 14 Sept 2026; the next is "Milena Adamis 7 HORAS" on Fri, 18 Sept 2026.
 
 Under Club is a music venue in Buenosaires listed on soundcheck. 8 upcoming nights, with line-ups including Ana Hagen, ANNĒ, Ben Klock and Bondarük and 2 more. Browse upcoming dates, start times and who's playing. Niceto Vega 5699, 1425, Ciudad de Buenos Aires.
 
@@ -21,4 +21,4 @@ Under Club is a music venue in Buenosaires listed on soundcheck. 8 upcoming nigh
 
 Niceto Vega 5699, 1425, Ciudad de Buenos Aires, Buenos Aires
 
-*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/buenosaires/club/under-club/)*
+*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/buenosaires/club/under-club/)*

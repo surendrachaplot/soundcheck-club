@@ -1,6 +1,6 @@
 # Kassa Boat
 
-Kassa Boat is a music venue in Budapest with 7 upcoming nights listed on soundcheck as of Sun, 13 Sept 2026; the next is "Kalap vol.3 - Egon's Embrace, Vox Fabri vs Vox Funky , Acideal ANL" on Fri, 18 Sept 2026.
+Kassa Boat is a music venue in Budapest with 7 upcoming nights listed on soundcheck as of Mon, 14 Sept 2026; the next is "Kalap vol.3 - Egon's Embrace, Vox Fabri vs Vox Funky , Acideal ANL" on Fri, 18 Sept 2026.
 
 Kassa Boat is a music venue in Budapest listed on soundcheck. 7 upcoming nights, with line-ups including Akác, Clarkent, Cristi Cons and DJ Budai and 2 more. Browse upcoming dates, start times and who's playing. 1011 Budapest Szilágyi Dezső square dock 2.
 
@@ -20,4 +20,4 @@ Kassa Boat is a music venue in Budapest listed on soundcheck. 7 upcoming nights,
 
 1011 Budapest Szilágyi Dezső square dock 2, Budapest
 
-*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/budapest/club/kassa-boat/)*
+*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/budapest/club/kassa-boat/)*

@@ -1,6 +1,6 @@
 # Son of Son
 
-Son of Son is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sun, 13 Sept 2026, next at Hï Ibiza, Ibiza on Thu, 24 Sept 2026.
+Son of Son is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Mon, 14 Sept 2026, next at Hï Ibiza, Ibiza on Thu, 24 Sept 2026.
 
 Son of Son is a techno and house artist tracked on soundcheck, with 41 sets logged across Amsterdam, Barcelona, Basel and Belgrade and 20 more. Often billed alongside Adriatique, Anyma and 19:26. Next up: Hï Ibiza, Ibiza on Thu 24 Sept.
 
@@ -26,4 +26,4 @@ Son of Son is a techno and house artist tracked on soundcheck, with 41 sets logg
 
 Adriatique, Anyma, 19:26
 
-*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sonofson/)*
+*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sonofson/)*

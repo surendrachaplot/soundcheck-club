@@ -1,14 +1,13 @@
 # Massimiliano Pagliara
 
-Massimiliano Pagliara is a House and Techno artist with 7 upcoming club dates listed on soundcheck as of Sun, 13 Sept 2026, next at Kiku Room, San Diego on Sun, 13 Sept 2026.
+Massimiliano Pagliara is a House and Techno artist with 6 upcoming club dates listed on soundcheck as of Mon, 14 Sept 2026, next at Jolene Downtown Miami, Miami on Thu, 17 Sept 2026.
 
-Massimiliano Pagliara is a house and techno artist tracked on soundcheck, with 239 sets logged across Amsterdam, Antwerp, Athens and Austin and 62 more. Often billed alongside Jorkes, Boris and Luigi Di Venere. Next up: Kiku Room, Sandiego on Sun 13 Sept.
+Massimiliano Pagliara is a house and techno artist tracked on soundcheck, with 240 sets logged across Amsterdam, Antwerp, Athens and Austin and 63 more. Often billed alongside Jorkes, Boris and Luigi Di Venere. Next up: Jolene Downtown Miami, Miami on Thu 17 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sun, 13 Sept 2026 | Kiku Room | San Diego |
 | Thu, 17 Sept 2026 | Jolene Downtown Miami | Miami |
 | Sat, 19 Sept 2026 | BASEMENT | New York City |
 | Sat, 26 Sept 2026 | KALT | Strasbourg |
@@ -18,6 +17,7 @@ Massimiliano Pagliara is a house and techno artist tracked on soundcheck, with 2
 
 ## Recently played
 
+- Kiku Room, San Diego — Sun, 13 Sept 2026
 - TBA - 525 SE Pine st, Portland — Sat, 12 Sept 2026
 - TBA - Downtown Los Angeles, Los Angeles — Fri, 11 Sept 2026
 - Berghain | Panorama Bar | Säule, Berlin — Sat, 5 Sept 2026
@@ -25,10 +25,9 @@ Massimiliano Pagliara is a house and techno artist tracked on soundcheck, with 2
 - Zwart Goud Record Store, Amsterdam — Sat, 1 Aug 2026
 - Berghain | Panorama Bar | Säule, Berlin — Sat, 25 Jul 2026
 - Bassiani, Tbilisi — Fri, 24 Jul 2026
-- Ferropolis, Leipzig — Fri, 17 Jul 2026
 
 ## Shares bills with
 
 Jorkes, Boris, Luigi Di Venere
 
-*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/massimilianopagliara/)*
+*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/massimilianopagliara/)*

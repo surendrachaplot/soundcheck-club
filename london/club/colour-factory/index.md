@@ -1,6 +1,6 @@
 # Colour Factory
 
-Colour Factory is a music venue in London with 24 upcoming nights listed on soundcheck as of Sun, 13 Sept 2026; the next is "COME UNITY: LONDON IN SOLIDARITY WITH COLOMBIA" on Thu, 17 Sept 2026.
+Colour Factory is a music venue in London with 24 upcoming nights listed on soundcheck as of Mon, 14 Sept 2026; the next is "COME UNITY: LONDON IN SOLIDARITY WITH COLOMBIA" on Thu, 17 Sept 2026.
 
 Colour Factory is a music venue in London listed on soundcheck. 24 upcoming nights, with line-ups including Aeroplane, Alexander Robotnick, Alex Metric and Amancai and 2 more. Browse upcoming dates, start times and who's playing. 8 Queen's Yard, London E9 5EN.
 
@@ -23,4 +23,4 @@ Colour Factory is a music venue in London listed on soundcheck. 24 upcoming nigh
 
 8 Queen's Yard, London E9 5EN, London
 
-*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/colour-factory/)*
+*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/colour-factory/)*

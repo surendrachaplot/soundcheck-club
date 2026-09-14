@@ -1,6 +1,6 @@
 # Lenz
 
-Lenz is a Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 13 Sept 2026, next at Renate, Berlin on Sat, 19 Sept 2026.
+Lenz is a Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 14 Sept 2026, next at Renate, Berlin on Sat, 19 Sept 2026.
 
 Lenz is a techno artist based in Netherlands, tracked on soundcheck, with 13 sets logged across Amsterdam, Berlin and Utrecht. Often billed alongside Illiya Korniyenko, Dexon and A L I X. Next up: Renate, Berlin on Sat 19 Sept.
 
@@ -25,4 +25,4 @@ Lenz is a techno artist based in Netherlands, tracked on soundcheck, with 13 set
 
 Illiya Korniyenko, Dexon, A L I X
 
-*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lenz/)*
+*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lenz/)*

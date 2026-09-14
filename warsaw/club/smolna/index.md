@@ -1,6 +1,6 @@
 # Smolna
 
-Smolna is a music venue in Warsaw with 6 upcoming nights listed on soundcheck as of Sun, 13 Sept 2026; the next is "HIDEOUT SOCIAL CLUB #23 || PIELSON x Casper Weiss x MAGZI" on Wed, 16 Sept 2026.
+Smolna is a music venue in Warsaw with 6 upcoming nights listed on soundcheck as of Mon, 14 Sept 2026; the next is "HIDEOUT SOCIAL CLUB #23 || PIELSON x Casper Weiss x MAGZI" on Wed, 16 Sept 2026.
 
 Smolna is a music venue in Warsaw listed on soundcheck. 6 upcoming nights, with line-ups including Ane, Casper Weiss, Claude Degas and Cwtv and 2 more. Browse upcoming dates, start times and who's playing. Smolna 38, 00-375 Warszawa.
 
@@ -19,4 +19,4 @@ Smolna is a music venue in Warsaw listed on soundcheck. 6 upcoming nights, with 
 
 Smolna 38, 00-375 Warszawa, Warsaw
 
-*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/warsaw/club/smolna/)*
+*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/warsaw/club/smolna/)*

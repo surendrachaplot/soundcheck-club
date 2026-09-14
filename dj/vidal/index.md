@@ -1,6 +1,6 @@
 # Vidal
 
-Vidal is a House artist with 1 upcoming club date listed on soundcheck as of Sun, 13 Sept 2026, next at Mad Radio Miami, Miami on Wed, 16 Sept 2026.
+Vidal is a House artist with 1 upcoming club date listed on soundcheck as of Mon, 14 Sept 2026, next at Mad Radio Miami, Miami on Wed, 16 Sept 2026.
 
 Vidal is a house artist tracked on soundcheck, with 2 sets logged across Budapest and Miami. Often billed alongside Kike Roldan, Longman and Marka. Next up: Mad Radio Miami, Miami on Wed 16 Sept.
 
@@ -18,4 +18,4 @@ Vidal is a house artist tracked on soundcheck, with 2 sets logged across Budapes
 
 Kike Roldan, Longman, Marka
 
-*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/vidal/)*
+*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/vidal/)*

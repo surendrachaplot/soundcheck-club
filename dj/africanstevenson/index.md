@@ -1,6 +1,6 @@
 # African Stevenson
 
-African Stevenson is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 13 Sept 2026, next at Amsterdam Club Train, Amsterdam on Sat, 24 Oct 2026.
+African Stevenson is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 14 Sept 2026, next at Amsterdam Club Train, Amsterdam on Sat, 24 Oct 2026.
 
 African Stevenson is a house and techno artist tracked on soundcheck, with 2 sets logged across Amsterdam and Berlin. Often billed alongside AMARE, AVA Irandoost and Bsquared. Next up: Amsterdam Club Train, Amsterdam on Sat 24 Oct.
 
@@ -18,4 +18,4 @@ African Stevenson is a house and techno artist tracked on soundcheck, with 2 set
 
 AMARE, AVA Irandoost, Bsquared
 
-*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/africanstevenson/)*
+*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/africanstevenson/)*

@@ -1,6 +1,6 @@
 # Noncitizens
 
-Noncitizens is a House and Progressive House artist with 2 upcoming club dates listed on soundcheck as of Sun, 13 Sept 2026, next at Fitz Mallorca, Mallorca on Sat, 26 Sept 2026.
+Noncitizens is a House and Progressive House artist with 2 upcoming club dates listed on soundcheck as of Mon, 14 Sept 2026, next at Fitz Mallorca, Mallorca on Sat, 26 Sept 2026.
 
 Noncitizens is a house and progressive house artist tracked on soundcheck, with 36 sets logged across Barcelona, Buenosaires, Ibiza and Madrid and 3 more. Often billed alongside Guy Gerber, Facundo Mohrr and Colyn. Next up: Fitz Mallorca, Mallorca on Sat 26 Sept.
 
@@ -26,4 +26,4 @@ Noncitizens is a house and progressive house artist tracked on soundcheck, with 
 
 Guy Gerber, Facundo Mohrr, Colyn
 
-*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/noncitizens/)*
+*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/noncitizens/)*

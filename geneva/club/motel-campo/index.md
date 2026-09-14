@@ -1,6 +1,6 @@
 # Motel Campo
 
-Motel Campo is a music venue in Geneva with 1 upcoming night listed on soundcheck as of Sun, 13 Sept 2026; the next is "Motel ✰ Deetron" on Sat, 19 Sept 2026.
+Motel Campo is a music venue in Geneva with 1 upcoming night listed on soundcheck as of Mon, 14 Sept 2026; the next is "Motel ✰ Deetron" on Sat, 19 Sept 2026.
 
 Motel Campo is a music venue in Geneva listed on soundcheck. 1 upcoming night, with line-ups including Deetron. Browse upcoming dates, start times and who's playing. Route des Jeunes 13; Carouge, 1227, Geneva, Switzerland.
 
@@ -14,4 +14,4 @@ Motel Campo is a music venue in Geneva listed on soundcheck. 1 upcoming night, w
 
 Route des Jeunes 13; Carouge, 1227, Geneva, Switzerland, Geneva
 
-*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/geneva/club/motel-campo/)*
+*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/geneva/club/motel-campo/)*

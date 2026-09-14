@@ -1,8 +1,8 @@
 # Josey Rebelle
 
-Josey Rebelle is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Sun, 13 Sept 2026, next at Open Ground, Wuppertal on Sat, 19 Sept 2026.
+Josey Rebelle is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Mon, 14 Sept 2026, next at Open Ground, Wuppertal on Sat, 19 Sept 2026.
 
-Josey Rebelle is a techno and house artist tracked on soundcheck, with 120 sets logged across Amsterdam, Antwerp, Barcelona and Berlin and 23 more. Often billed alongside Josh Caffé, CCL and NIKS. Next up: Open Ground, Wuppertal on Sat 19 Sept.
+Josey Rebelle is a techno and house artist tracked on soundcheck, with 122 sets logged across Amsterdam, Antwerp, Barcelona and Berlin and 23 more. Often billed alongside Josh Caffé, CCL and NIKS. Next up: Open Ground, Wuppertal on Sat 19 Sept.
 
 ## Upcoming shows
 
@@ -27,4 +27,4 @@ Josey Rebelle is a techno and house artist tracked on soundcheck, with 120 sets 
 
 Josh Caffé, CCL, NIKS
 
-*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/joseyrebelle/)*
+*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/joseyrebelle/)*

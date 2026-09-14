@@ -1,6 +1,6 @@
 # Studio Zürich
 
-Studio Zürich is a music venue in Zurich with 2 upcoming nights listed on soundcheck as of Sun, 13 Sept 2026; the next is "Kalabrese (ALL NIGHT LONG)" on Sat, 19 Sept 2026.
+Studio Zürich is a music venue in Zurich with 2 upcoming nights listed on soundcheck as of Mon, 14 Sept 2026; the next is "Kalabrese (ALL NIGHT LONG)" on Sat, 19 Sept 2026.
 
 Studio Zürich is a music venue in Zurich listed on soundcheck. 2 upcoming nights, with line-ups including Kalabrese and Les Deux. Browse upcoming dates, start times and who's playing. Geroldstrasse 15, 8005 Zürich.
 
@@ -15,4 +15,4 @@ Studio Zürich is a music venue in Zurich listed on soundcheck. 2 upcoming night
 
 Geroldstrasse 15, 8005 Zürich, Zurich
 
-*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/zurich/club/studio-z-rich/)*
+*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/zurich/club/studio-z-rich/)*

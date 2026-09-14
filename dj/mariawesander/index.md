@@ -1,8 +1,8 @@
 # Maria Wesander
 
-Maria Wesander is a House and Electro artist with 1 upcoming club date listed on soundcheck as of Sun, 13 Sept 2026, next at Kaiku, Helsinki on Fri, 18 Sept 2026.
+Maria Wesander is a Italo Disco and House artist with 1 upcoming club date listed on soundcheck as of Mon, 14 Sept 2026, next at Kaiku, Helsinki on Fri, 18 Sept 2026.
 
-Maria Wesander is a house and electro artist tracked on soundcheck, with 10 sets logged across Helsinki. Often billed alongside HiToshi, Ocean People and Paula Koski. Next up: Kaiku, Helsinki on Fri 18 Sept.
+Maria Wesander is an italo disco and house artist based in Finland, tracked on soundcheck, with 33 sets logged across Helsinki. Often billed alongside HiToshi, DJ Jese and Lil Tony. Next up: Kaiku, Helsinki on Fri 18 Sept.
 
 ## Upcoming shows
 
@@ -23,6 +23,6 @@ Maria Wesander is a house and electro artist tracked on soundcheck, with 10 sets
 
 ## Shares bills with
 
-HiToshi, Ocean People, Paula Koski
+HiToshi, DJ Jese, Lil Tony
 
-*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mariawesander/)*
+*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mariawesander/)*

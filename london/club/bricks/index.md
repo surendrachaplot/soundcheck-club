@@ -1,6 +1,6 @@
 # Bricks
 
-Bricks is a music venue in London with 11 upcoming nights listed on soundcheck as of Sun, 13 Sept 2026; the next is "[CANCELLED] MIRR0RWRITING presents: Black Circle" on Fri, 18 Sept 2026.
+Bricks is a music venue in London with 11 upcoming nights listed on soundcheck as of Mon, 14 Sept 2026; the next is "[CANCELLED] MIRR0RWRITING presents: Black Circle" on Fri, 18 Sept 2026.
 
 Bricks is a music venue in London listed on soundcheck. 11 upcoming nights, with line-ups including Adela, AHARDS, AVANTIME and Azaleh and 2 more. Browse upcoming dates, start times and who's playing. 414 Coldharbour Lane, London, United Kingdom SW9 8LF.
 
@@ -23,4 +23,4 @@ Bricks is a music venue in London listed on soundcheck. 11 upcoming nights, with
 
 414 Coldharbour Lane, London, United Kingdom SW9 8LF, London
 
-*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/bricks/)*
+*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/bricks/)*

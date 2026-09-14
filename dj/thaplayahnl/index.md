@@ -1,8 +1,8 @@
 # Tha Playah (NL)
 
-Tha Playah (NL) is a Gabber and Hardcore artist with 1 upcoming club date listed on soundcheck as of Sun, 13 Sept 2026, next at P36 Terminal 1 Busparkplatz  / Sonic-Warrior Festival Tours Abfahrt, Frankfurt on Sat, 19 Sept 2026.
+Tha Playah (NL) is a Hardcore and Gabber artist with 1 upcoming club date listed on soundcheck as of Mon, 14 Sept 2026, next at P36 Terminal 1 Busparkplatz  / Sonic-Warrior Festival Tours Abfahrt, Frankfurt on Sat, 19 Sept 2026.
 
-Tha Playah (NL) is a gabber and hardcore artist based in Netherlands, tracked on soundcheck, with 8 sets logged across Frankfurt, Glasgow, Madrid and Manchester. Often billed alongside Korsakoff, Angerfist and Ophidian. Next up: P36 Terminal 1 Busparkplatz  / Sonic-Warrior Festival Tours Abfahrt, Frankfurt on Sat 19 Sept.
+Tha Playah (NL) is a hardcore and gabber artist based in Netherlands, tracked on soundcheck, with 9 sets logged across Frankfurt, Glasgow, Helsinki and Madrid and 1 more. Often billed alongside Korsakoff, Angerfist and Ophidian. Next up: P36 Terminal 1 Busparkplatz  / Sonic-Warrior Festival Tours Abfahrt, Frankfurt on Sat 19 Sept.
 
 ## Upcoming shows
 
@@ -17,6 +17,7 @@ Tha Playah (NL) is a gabber and hardcore artist based in Netherlands, tracked on
 - 02 Victoria Warehouse, Manchester — Sat, 23 Nov 2024
 - O2 Academy, Glasgow — Fri, 31 May 2024
 - Fabrik, Madrid — Sat, 18 May 2024
+- Blackbox, Helsingin Jäähalli, Helsinki — Sat, 4 May 2024
 - TBA - FlixBus Haltestelle Hauptbahnhof, Frankfurt — Sat, 30 Mar 2024
 - The Classic Grand, Glasgow — Sat, 10 Feb 2024
 
@@ -24,4 +25,4 @@ Tha Playah (NL) is a gabber and hardcore artist based in Netherlands, tracked on
 
 Korsakoff, Angerfist, Ophidian
 
-*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/thaplayahnl/)*
+*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/thaplayahnl/)*

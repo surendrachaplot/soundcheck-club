@@ -1,14 +1,13 @@
 # Garrett David
 
-Garrett David is a House and Disco artist with 8 upcoming club dates listed on soundcheck as of Sun, 13 Sept 2026, next at Fvtvr, Paris on Sat, 12 Sept 2026.
+Garrett David is a House and Disco artist with 7 upcoming club dates listed on soundcheck as of Mon, 14 Sept 2026, next at smartbar, Chicago on Fri, 18 Sept 2026.
 
-Garrett David is a house and disco artist tracked on soundcheck, with 201 sets logged across Amsterdam, Austin, Barcelona and Berlin and 32 more. Often billed alongside Michael Serafini, Derrick Carter and Tomas Station. Next up: Fvtvr, Paris on Sat 12 Sept.
+Garrett David is a house and disco artist tracked on soundcheck, with 201 sets logged across Amsterdam, Austin, Barcelona and Berlin and 32 more. Often billed alongside Michael Serafini, Derrick Carter and Tomas Station. Next up: smartbar, Chicago on Fri 18 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 12 Sept 2026 | Fvtvr | Paris |
 | Fri, 18 Sept 2026 | smartbar | Chicago |
 | Sat, 19 Sept 2026 | Stardust Garage | Austin |
 | Sat, 26 Sept 2026 | H0L0 | New York City |
@@ -32,4 +31,4 @@ Garrett David is a house and disco artist tracked on soundcheck, with 201 sets l
 
 Michael Serafini, Derrick Carter, Tomas Station
 
-*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/garrettdavid/)*
+*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/garrettdavid/)*

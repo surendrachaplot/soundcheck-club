@@ -1,6 +1,6 @@
 # Isa GT
 
-Isa GT is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 13 Sept 2026, next at ÆDEN, Berlin on Sat, 19 Sept 2026.
+Isa GT is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 14 Sept 2026, next at ÆDEN, Berlin on Sat, 19 Sept 2026.
 
 Isa GT is a house and techno artist based in United Kingdom, tracked on soundcheck, with 31 sets logged across Barcelona, Berlin, Leipzig and London and 4 more. Often billed alongside Lazy Rosario, Linapary and MALAGÜERA. Next up: ÆDEN, Berlin on Sat 19 Sept.
 
@@ -25,4 +25,4 @@ Isa GT is a house and techno artist based in United Kingdom, tracked on soundche
 
 Lazy Rosario, Linapary, MALAGÜERA
 
-*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/isagt/)*
+*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/isagt/)*

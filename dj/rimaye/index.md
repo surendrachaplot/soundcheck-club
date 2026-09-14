@@ -1,6 +1,6 @@
 # Rimaye
 
-Rimaye is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Sun, 13 Sept 2026, next at Mad Radio Miami, Miami on Fri, 18 Sept 2026.
+Rimaye is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Mon, 14 Sept 2026, next at Mad Radio Miami, Miami on Fri, 18 Sept 2026.
 
 Rimaye is a house and techno artist based in Germany, tracked on soundcheck, with 48 sets logged across Amsterdam, Ibiza, Mexicocity and Miami and 3 more. Often billed alongside Inbal, Puma (US) and DJ Ray (2). Next up: Mad Radio Miami, Miami on Fri 18 Sept.
 
@@ -29,4 +29,4 @@ Rimaye is a house and techno artist based in Germany, tracked on soundcheck, wit
 
 Inbal, Puma (US), DJ Ray (2)
 
-*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/rimaye/)*
+*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/rimaye/)*

@@ -1,6 +1,6 @@
 # Roy Comanchero
 
-Roy Comanchero is a Disco and House artist with 1 upcoming club date listed on soundcheck as of Sun, 13 Sept 2026, next at flo Soakin, Osaka on Sat, 19 Sept 2026.
+Roy Comanchero is a Disco and House artist with 1 upcoming club date listed on soundcheck as of Mon, 14 Sept 2026, next at flo Soakin, Osaka on Sat, 19 Sept 2026.
 
 Roy Comanchero is a disco and house artist based in Japan, tracked on soundcheck, with 7 sets logged across Osaka. Often billed alongside Mori Ra, Daisuke Kakimoto and Black Pomade. Next up: flo Soakin, Osaka on Sat 19 Sept.
 
@@ -23,4 +23,4 @@ Roy Comanchero is a disco and house artist based in Japan, tracked on soundcheck
 
 Mori Ra, Daisuke Kakimoto, Black Pomade
 
-*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/roycomanchero/)*
+*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/roycomanchero/)*

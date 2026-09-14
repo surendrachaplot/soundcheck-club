@@ -1,6 +1,6 @@
 # Chema Diaz
 
-Chema Diaz is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 13 Sept 2026, next at Bar Oriente, Mexico City on Tue, 15 Sept 2026.
+Chema Diaz is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 14 Sept 2026, next at Bar Oriente, Mexico City on Tue, 15 Sept 2026.
 
 Chema Diaz is a house and techno artist tracked on soundcheck, with 3 sets logged across London and Mexicocity. Often billed alongside Borgetti, Dextra Mandrake and Diego Walle. Next up: Bar Oriente, Mexicocity on Tue 15 Sept.
 
@@ -19,4 +19,4 @@ Chema Diaz is a house and techno artist tracked on soundcheck, with 3 sets logge
 
 Borgetti, Dextra Mandrake, Diego Walle
 
-*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/chemadiaz/)*
+*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/chemadiaz/)*

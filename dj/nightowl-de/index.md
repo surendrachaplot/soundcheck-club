@@ -1,6 +1,6 @@
 # Nightowl
 
-Nightowl is a Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 13 Sept 2026, next at T7 Paris, Paris on Sat, 3 Oct 2026.
+Nightowl is a Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 14 Sept 2026, next at T7 Paris, Paris on Sat, 3 Oct 2026.
 
 Nightowl is a techno artist based in Germany, tracked on soundcheck, with 4 sets logged across Paris. Often billed alongside A.N.I., Angel Karel and DNNS. Next up: T7 Paris, Paris on Sat 3 Oct.
 
@@ -20,4 +20,4 @@ Nightowl is a techno artist based in Germany, tracked on soundcheck, with 4 sets
 
 A.N.I., Angel Karel, DNNS
 
-*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nightowl-de/)*
+*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nightowl-de/)*

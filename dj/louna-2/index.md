@@ -1,6 +1,6 @@
 # LOUNA (2)
 
-LOUNA (2) is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Sun, 13 Sept 2026, next at Yodo Groove (Yodobashi Ikebukuro), Tokyo on Sun, 20 Sept 2026.
+LOUNA (2) is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Mon, 14 Sept 2026, next at Yodo Groove (Yodobashi Ikebukuro), Tokyo on Sun, 20 Sept 2026.
 
 LOUNA (2) is a techno and trance artist based in Japan, tracked on soundcheck, with 2 sets logged across Tokyo. Often billed alongside PANICWORKS, Calavera and EMILIO (3). Next up: Yodo Groove (Yodobashi Ikebukuro), Tokyo on Sun 20 Sept.
 
@@ -18,4 +18,4 @@ LOUNA (2) is a techno and trance artist based in Japan, tracked on soundcheck, w
 
 PANICWORKS, Calavera, EMILIO (3)
 
-*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/louna-2/)*
+*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/louna-2/)*

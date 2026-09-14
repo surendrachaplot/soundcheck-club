@@ -1,6 +1,6 @@
 # Radio Radio
 
-Radio Radio is a music venue in Amsterdam with 12 upcoming nights listed on soundcheck as of Sun, 13 Sept 2026; the next is "Fantastic Man • Jaimy" on Fri, 18 Sept 2026.
+Radio Radio is a music venue in Amsterdam with 12 upcoming nights listed on soundcheck as of Mon, 14 Sept 2026; the next is "Fantastic Man • Jaimy" on Fri, 18 Sept 2026.
 
 Radio Radio is a music venue in Amsterdam listed on soundcheck. 12 upcoming nights, with line-ups including Bambii, Bennet (DE), Benny Rodrigues and Berkan V8 and 2 more. Browse upcoming dates, start times and who's playing. Pazzanistraat 3.
 
@@ -23,4 +23,4 @@ Radio Radio is a music venue in Amsterdam listed on soundcheck. 12 upcoming nigh
 
 Pazzanistraat 3, Amsterdam
 
-*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/radio-radio/)*
+*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/radio-radio/)*

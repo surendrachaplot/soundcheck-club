@@ -1,14 +1,13 @@
 # Ministry Of Sound
 
-Ministry Of Sound is a music venue in London with 26 upcoming nights listed on soundcheck as of Sun, 13 Sept 2026; the next is "The Freshers Moving In House Party" on Sun, 13 Sept 2026.
+Ministry Of Sound is a music venue in London with 25 upcoming nights listed on soundcheck as of Mon, 14 Sept 2026; the next is "Ministry Of Sound, Milkshake - Official London Freshers Launch 2026" on Tue, 15 Sept 2026.
 
-Ministry Of Sound is a music venue in London listed on soundcheck. 26 upcoming nights, with line-ups including Alastair Lane, AMO, Amtrac and Anderdox and 2 more. Browse upcoming dates, start times and who's playing. 103 Gaunt St, London SE1 6DP.
+Ministry Of Sound is a music venue in London listed on soundcheck. 25 upcoming nights, with line-ups including Alastair Lane, AMO, Amtrac and Anderdox and 2 more. Browse upcoming dates, start times and who's playing. 103 Gaunt St, London SE1 6DP.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sun, 13 Sept 2026 | The Freshers Moving In House Party |  |
 | Tue, 15 Sept 2026 | Ministry Of Sound, Milkshake - Official London Freshers Launch 2026 |  |
 | Fri, 18 Sept 2026 | Kasango - BIGGEST UK HEADLINE SHOW + SPECIAL GUESTS | Kasango |
 | Sat, 19 Sept 2026 | Bob Sinclar - 20 YEARS OF WORLD HOLD ON FT. STEVE EDWARDS LIVE | AMO, Bob Sinclar, Crooks and Goons, Custard Soup, G&T, Lewys Jones, Mas Que Nada Brothers, Nikki Carvell, Siân Owen |
@@ -18,9 +17,10 @@ Ministry Of Sound is a music venue in London listed on soundcheck. 26 upcoming n
 | Fri, 25 Sept 2026 | BLINK: Stylo, P.O.U, JJOY, SOOFNIC, TERRY GOLDEN | P.O.U, Stylo |
 | Sat, 26 Sept 2026 | BRESH |  |
 | Tue, 29 Sept 2026 | Ministry Of Sound, Milkshake - Official London Freshers Launch PART 3 |  |
+| Fri, 2 Oct 2026 | MoS 35: Andy C - 3-Hour Extended Set | Andy C, Charlie Tee, Joe NBO |
 
 ## Address
 
 103 Gaunt St, London SE1 6DP, London
 
-*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/ministry-of-sound/)*
+*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/ministry-of-sound/)*

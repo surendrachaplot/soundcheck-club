@@ -1,6 +1,6 @@
 # TBA - DTLA
 
-TBA - DTLA is a music venue in Los Angeles with 13 upcoming nights listed on soundcheck as of Sun, 13 Sept 2026; the next is "IN BETWEEN: Secret Guests TBA" on Sat, 19 Sept 2026.
+TBA - DTLA is a music venue in Los Angeles with 13 upcoming nights listed on soundcheck as of Mon, 14 Sept 2026; the next is "IN BETWEEN: Secret Guests TBA" on Sat, 19 Sept 2026.
 
 TBA - DTLA is a music venue in Losangeles listed on soundcheck. 13 upcoming nights, with line-ups including 6 SENSE, MORENXXX, agraybé and Anenon and 2 more. Browse upcoming dates, start times and who's playing.
 
@@ -19,4 +19,4 @@ TBA - DTLA is a music venue in Losangeles listed on soundcheck. 13 upcoming nigh
 | Sat, 17 Oct 2026 | bodyshop | MORENXXX, Neueportrait, Noah Selene, REDLINERS |
 | Sat, 24 Oct 2026 | CLUB PIVETE |  |
 
-*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/tba-dtla/)*
+*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/tba-dtla/)*

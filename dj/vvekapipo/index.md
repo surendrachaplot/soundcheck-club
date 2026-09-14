@@ -1,6 +1,6 @@
 # vvekapipo
 
-vvekapipo is a Techno and Experimental artist with 1 upcoming club date listed on soundcheck as of Sun, 13 Sept 2026, next at Tempio del Futuro Perduto, Milan on Fri, 2 Oct 2026.
+vvekapipo is a Techno and Experimental artist with 1 upcoming club date listed on soundcheck as of Mon, 14 Sept 2026, next at Tempio del Futuro Perduto, Milan on Fri, 2 Oct 2026.
 
 vvekapipo is a techno and experimental artist tracked on soundcheck, with 5 sets logged across Amsterdam, Bangkok, Milan and Tokyo. Often billed alongside Dorisburg, Laura BCR and LiaRako. Next up: Tempio del Futuro Perduto, Milan on Fri 2 Oct.
 
@@ -21,4 +21,4 @@ vvekapipo is a techno and experimental artist tracked on soundcheck, with 5 sets
 
 Dorisburg, Laura BCR, LiaRako
 
-*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/vvekapipo/)*
+*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/vvekapipo/)*

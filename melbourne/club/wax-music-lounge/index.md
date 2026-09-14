@@ -1,6 +1,6 @@
 # Wax Music Lounge
 
-Wax Music Lounge is a music venue in Melbourne with 56 upcoming nights listed on soundcheck as of Sun, 13 Sept 2026; the next is "CIRCADIAN RHYTHMS" on Mon, 14 Sept 2026.
+Wax Music Lounge is a music venue in Melbourne with 56 upcoming nights listed on soundcheck as of Mon, 14 Sept 2026; the next is "CIRCADIAN RHYTHMS" on Mon, 14 Sept 2026.
 
 Wax Music Lounge is a music venue in Melbourne listed on soundcheck. 56 upcoming nights, with line-ups including Beatski and Savage The Girl. Browse upcoming dates, start times and who's playing. 250 Flinders St (basement), Melbourne, VIC, Australia, Victoria.
 
@@ -23,4 +23,4 @@ Wax Music Lounge is a music venue in Melbourne listed on soundcheck. 56 upcoming
 
 250 Flinders St (basement), Melbourne, VIC, Australia, Victoria, Melbourne
 
-*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/wax-music-lounge/)*
+*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/wax-music-lounge/)*

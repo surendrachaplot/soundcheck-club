@@ -1,6 +1,6 @@
 # Willow J
 
-Willow J is a Club and Trance artist with 1 upcoming club date listed on soundcheck as of Sun, 13 Sept 2026, next at renae, Manchester on Sat, 19 Sept 2026.
+Willow J is a Club and Trance artist with 1 upcoming club date listed on soundcheck as of Mon, 14 Sept 2026, next at renae, Manchester on Sat, 19 Sept 2026.
 
 Willow J is a club and trance artist tracked on soundcheck, with 24 sets logged across Brighton, Leeds and Manchester. Often billed alongside Lucky Bunny, Princess Elf Bar and maevie. Next up: renae, Manchester on Sat 19 Sept.
 
@@ -25,4 +25,4 @@ Willow J is a club and trance artist tracked on soundcheck, with 24 sets logged 
 
 Lucky Bunny, Princess Elf Bar, maevie
 
-*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/willowj/)*
+*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/willowj/)*

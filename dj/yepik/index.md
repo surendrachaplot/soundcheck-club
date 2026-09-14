@@ -1,6 +1,6 @@
 # YEPIK
 
-YEPIK is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Sun, 13 Sept 2026, next at Park Café München, Munich on Thu, 24 Sept 2026.
+YEPIK is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Mon, 14 Sept 2026, next at Park Café München, Munich on Thu, 24 Sept 2026.
 
 YEPIK is a house and tech house artist tracked on soundcheck, with 7 sets logged across Amsterdam, Cologne and Munich. Often billed alongside Alice DiMar, Artur Bredo and ZARE. Next up: Park Café München, Munich on Thu 24 Sept.
 
@@ -23,4 +23,4 @@ YEPIK is a house and tech house artist tracked on soundcheck, with 7 sets logged
 
 Alice DiMar, Artur Bredo, ZARE
 
-*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/yepik/)*
+*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/yepik/)*

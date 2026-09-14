@@ -1,6 +1,6 @@
 # DJ Cent
 
-DJ Cent is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 13 Sept 2026, next at TBA, Detroit on Fri, 18 Sept 2026.
+DJ Cent is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 14 Sept 2026, next at TBA, Detroit on Fri, 18 Sept 2026.
 
 DJ Cent is a house and techno artist based in United States of America, tracked on soundcheck, with 38 sets logged across Berlin and Detroit. Often billed alongside DJ RIGHTEOUS, DJ Etta (US) and Delano Smith. Next up: TBA, Detroit on Fri 18 Sept.
 
@@ -25,4 +25,4 @@ DJ Cent is a house and techno artist based in United States of America, tracked 
 
 DJ RIGHTEOUS, DJ Etta (US), Delano Smith
 
-*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djcent/)*
+*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djcent/)*

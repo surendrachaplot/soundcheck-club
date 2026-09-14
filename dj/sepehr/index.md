@@ -1,8 +1,8 @@
 # Sepehr
 
-Sepehr is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Sun, 13 Sept 2026, next at Rhythm, Toronto on Fri, 18 Sept 2026.
+Sepehr is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Mon, 14 Sept 2026, next at Rhythm, Toronto on Fri, 18 Sept 2026.
 
-Sepehr is a techno and house artist tracked on soundcheck, with 130 sets logged across Amsterdam, Barcelona, Berlin and Bristol and 31 more. Often billed alongside Elena Colombi, Kia (AU) and Amelia Holt. Next up: Rhythm, Toronto on Fri 18 Sept.
+Sepehr is a techno and house artist tracked on soundcheck, with 131 sets logged across Amsterdam, Barcelona, Berlin and Bristol and 31 more. Often billed alongside Elena Colombi, Kia (AU) and Amelia Holt. Next up: Rhythm, Toronto on Fri 18 Sept.
 
 ## Upcoming shows
 
@@ -29,4 +29,4 @@ Sepehr is a techno and house artist tracked on soundcheck, with 130 sets logged 
 
 Elena Colombi, Kia (AU), Amelia Holt
 
-*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sepehr/)*
+*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sepehr/)*

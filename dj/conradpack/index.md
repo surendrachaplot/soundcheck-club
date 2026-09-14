@@ -1,8 +1,8 @@
 # Conrad Pack
 
-Conrad Pack is a Techno and Industrial artist with 2 upcoming club dates listed on soundcheck as of Sun, 13 Sept 2026, next at The White Hotel, Manchester on Wed, 23 Sept 2026.
+Conrad Pack is a Techno and Industrial artist with 2 upcoming club dates listed on soundcheck as of Mon, 14 Sept 2026, next at The White Hotel, Manchester on Wed, 23 Sept 2026.
 
-Conrad Pack is a techno and industrial artist tracked on soundcheck, with 49 sets logged across Amsterdam, Barcelona, Berlin and Bristol and 9 more. Often billed alongside DJ Gonz, Elle Andrews and Jon K. Next up: The White Hotel, Manchester on Wed 23 Sept.
+Conrad Pack is a techno and industrial artist tracked on soundcheck, with 50 sets logged across Amsterdam, Barcelona, Berlin and Bristol and 10 more. Often billed alongside DJ Gonz, Elle Andrews and Jon K. Next up: The White Hotel, Manchester on Wed 23 Sept.
 
 ## Upcoming shows
 
@@ -26,4 +26,4 @@ Conrad Pack is a techno and industrial artist tracked on soundcheck, with 49 set
 
 DJ Gonz, Elle Andrews, Jon K
 
-*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/conradpack/)*
+*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/conradpack/)*

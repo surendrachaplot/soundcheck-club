@@ -1,14 +1,13 @@
 # Luigi Di Venere
 
-Luigi Di Venere is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Sun, 13 Sept 2026, next at KREUZWERK, Berlin on Sat, 12 Sept 2026.
+Luigi Di Venere is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Mon, 14 Sept 2026, next at Sameheads, Berlin on Sat, 3 Oct 2026.
 
-Luigi Di Venere is a house and techno artist tracked on soundcheck, with 107 sets logged across Amsterdam, Athens, Bali and Barcelona and 25 more. Often billed alongside Stathis (GR), Massimiliano Pagliara and Chris Cruse. Next up: KREUZWERK, Berlin on Sat 12 Sept.
+Luigi Di Venere is a house and techno artist tracked on soundcheck, with 108 sets logged across Amsterdam, Athens, Bali and Barcelona and 26 more. Often billed alongside Stathis (GR), Massimiliano Pagliara and Chris Cruse. Next up: Sameheads, Berlin on Sat 3 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 12 Sept 2026 | KREUZWERK | Berlin |
 | Sat, 3 Oct 2026 | Sameheads | Berlin |
 | Sat, 10 Oct 2026 | Berghain / Panorama Bar / Säule | Berlin |
 
@@ -27,4 +26,4 @@ Luigi Di Venere is a house and techno artist tracked on soundcheck, with 107 set
 
 Stathis (GR), Massimiliano Pagliara, Chris Cruse
 
-*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/luigidivenere/)*
+*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/luigidivenere/)*

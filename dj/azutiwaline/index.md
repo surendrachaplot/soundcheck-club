@@ -1,8 +1,8 @@
 # Azu Tiwaline
 
-Azu Tiwaline is a Techno and Bass artist with 2 upcoming club dates listed on soundcheck as of Sun, 13 Sept 2026, next at Club Cheek, London on Sun, 20 Sept 2026.
+Azu Tiwaline is a Techno and Bass artist with 2 upcoming club dates listed on soundcheck as of Mon, 14 Sept 2026, next at Club Cheek, London on Sun, 20 Sept 2026.
 
-Azu Tiwaline is a techno and bass artist based in France, tracked on soundcheck, with 100 sets logged across Amsterdam, Bangkok, Barcelona and Basel and 35 more. Often billed alongside DJ Plead, upsammy and CCL. Next up: Club Cheek, London on Sun 20 Sept.
+Azu Tiwaline is a techno and bass artist based in France, tracked on soundcheck, with 101 sets logged across Amsterdam, Bangkok, Barcelona and Basel and 36 more. Often billed alongside DJ Plead, upsammy and CCL. Next up: Club Cheek, London on Sun 20 Sept.
 
 ## Upcoming shows
 
@@ -26,4 +26,4 @@ Azu Tiwaline is a techno and bass artist based in France, tracked on soundcheck,
 
 DJ Plead, upsammy, CCL
 
-*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/azutiwaline/)*
+*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/azutiwaline/)*

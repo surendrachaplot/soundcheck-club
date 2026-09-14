@@ -1,6 +1,6 @@
 # bastiengoat
 
-bastiengoat is a Club and Techno artist with 2 upcoming club dates listed on soundcheck as of Sun, 13 Sept 2026, next at Club Six, San Francisco/Oakland on Thu, 24 Sept 2026.
+bastiengoat is a Club and Techno artist with 2 upcoming club dates listed on soundcheck as of Mon, 14 Sept 2026, next at Club Six, San Francisco/Oakland on Thu, 24 Sept 2026.
 
 bastiengoat is a club and techno artist based in United States of America, tracked on soundcheck, with 63 sets logged across Denver, London, Losangeles and Newyorkcity and 6 more. Often billed alongside RITCHRD, Bored Lord and Discnogirl. Next up: Club Six, Sanfrancisco on Thu 24 Sept.
 
@@ -13,6 +13,7 @@ bastiengoat is a club and techno artist based in United States of America, track
 
 ## Recently played
 
+- TBA - Teeth Bar, San Francisco/Oakland — Sun, 13 Sept 2026
 - Bossa Nova Civic Club, New York City — Fri, 4 Sept 2026
 - Monarch, San Francisco/Oakland — Sat, 29 Aug 2026
 - Public Works, San Francisco/Oakland — Fri, 19 Jun 2026
@@ -20,10 +21,9 @@ bastiengoat is a club and techno artist based in United States of America, track
 - The Cobalt, Vancouver — Fri, 20 Mar 2026
 - Nowadays, New York City — Sat, 21 Feb 2026
 - TBA - Various Venues, New York City — Tue, 17 Feb 2026
-- Monarch, San Francisco/Oakland — Fri, 13 Feb 2026
 
 ## Shares bills with
 
 RITCHRD, Bored Lord, Discnogirl
 
-*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bastiengoat/)*
+*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bastiengoat/)*

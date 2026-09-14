@@ -1,6 +1,6 @@
 # PJ Bridger
 
-PJ Bridger is a Garage and Bass artist with 1 upcoming club date listed on soundcheck as of Sun, 13 Sept 2026, next at The Crown, Bristol on Sat, 19 Sept 2026.
+PJ Bridger is a Garage and Bass artist with 1 upcoming club date listed on soundcheck as of Mon, 14 Sept 2026, next at The Crown, Bristol on Sat, 19 Sept 2026.
 
 PJ Bridger is a garage and bass artist tracked on soundcheck, with 33 sets logged across Amsterdam, Basel, Berlin and Brighton and 7 more. Often billed alongside ZE:NA, Ben Mono and TMSN. Next up: The Crown, Bristol on Sat 19 Sept.
 
@@ -25,4 +25,4 @@ PJ Bridger is a garage and bass artist tracked on soundcheck, with 33 sets logge
 
 ZE:NA, Ben Mono, TMSN
 
-*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/pjbridger/)*
+*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/pjbridger/)*

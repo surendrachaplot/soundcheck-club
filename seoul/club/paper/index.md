@@ -1,14 +1,13 @@
 # Paper
 
-Paper is a music venue in Seoul with 3 upcoming nights listed on soundcheck as of Sun, 13 Sept 2026; the next is "Paper Seoul" on Sun, 13 Sept 2026.
+Paper is a music venue in Seoul with 2 upcoming nights listed on soundcheck as of Mon, 14 Sept 2026; the next is "Zombies In Miami(DE)_Paper Seoul" on Thu, 17 Sept 2026.
 
-Paper is a music venue in Seoul listed on soundcheck. 3 upcoming nights, with line-ups including Acidwork, denny, JNS and Kimgundi and 2 more. Browse upcoming dates, start times and who's playing. Seoul, Itaewon-dong 119-8, Rooftop, Post Code : 04350.
+Paper is a music venue in Seoul listed on soundcheck. 2 upcoming nights, with line-ups including Acidwork, denny, Kimgundi and Nat Wendell and 2 more. Browse upcoming dates, start times and who's playing. Seoul, Itaewon-dong 119-8, Rooftop, Post Code : 04350.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sun, 13 Sept 2026 | Paper Seoul | JNS, Lyumin |
 | Thu, 17 Sept 2026 | Zombies In Miami(DE)_Paper Seoul | Kimgundi, S.Telecom, Zombies In Miami |
 | Fri, 18 Sept 2026 | Nat Wendell(DE)_Paper Seoul | Acidwork, Nat Wendell, denny |
 
@@ -16,4 +15,4 @@ Paper is a music venue in Seoul listed on soundcheck. 3 upcoming nights, with li
 
 Seoul, Itaewon-dong 119-8, Rooftop, Post Code : 04350, Seoul
 
-*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/seoul/club/paper/)*
+*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/seoul/club/paper/)*

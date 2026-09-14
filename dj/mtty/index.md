@@ -1,6 +1,6 @@
 # MTTY
 
-MTTY is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Sun, 13 Sept 2026, next at TBA - Brooman NSW, Sydney on Fri, 27 Nov 2026.
+MTTY is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Mon, 14 Sept 2026, next at TBA - Brooman NSW, Sydney on Fri, 27 Nov 2026.
 
 MTTY is a house and minimal artist tracked on soundcheck, with 11 sets logged across Sydney. Often billed alongside Ari Kiko, Pistaccio and Admo. Next up: TBA - Brooman NSW, Sydney on Fri 27 Nov.
 
@@ -25,4 +25,4 @@ MTTY is a house and minimal artist tracked on soundcheck, with 11 sets logged ac
 
 Ari Kiko, Pistaccio, Admo
 
-*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mtty/)*
+*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mtty/)*

@@ -1,8 +1,8 @@
 # Pygmalion
 
-Pygmalion is a music venue in Dublin with 5 upcoming nights listed on soundcheck as of Sun, 13 Sept 2026; the next is "Omni present: Culture night at Pyg" on Fri, 18 Sept 2026.
+Pygmalion is a music venue in Dublin with 6 upcoming nights listed on soundcheck as of Mon, 14 Sept 2026; the next is "Omni present: Culture night at Pyg" on Fri, 18 Sept 2026.
 
-Pygmalion is a music venue in Dublin listed on soundcheck. 5 upcoming nights, with line-ups including DIEBYVEG, Jake Fitz, Joshwa and KILIMANJARO and 1 more. Browse upcoming dates, start times and who's playing. 59 William St S, Dublin, Ireland.
+Pygmalion is a music venue in Dublin listed on soundcheck. 6 upcoming nights, with line-ups including DIEBYVEG, Jake Fitz, Joshwa and KILIMANJARO and 1 more. Browse upcoming dates, start times and who's playing. 59 William St S, Dublin, Ireland.
 
 ## What's on
 
@@ -10,6 +10,7 @@ Pygmalion is a music venue in Dublin listed on soundcheck. 5 upcoming nights, wi
 | --- | --- | --- |
 | Fri, 18 Sept 2026 | Omni present: Culture night at Pyg | DIEBYVEG |
 | Fri, 18 Sept 2026 | Pyg & Omni presents Culture Night 2026 | DIEBYVEG |
+| Sat, 19 Sept 2026 | Pyg presents OJ Wilson & DJ Deece |  |
 | Fri, 25 Sept 2026 | JOSHWA Story* | Jake Fitz, Joshwa |
 | Sat, 10 Oct 2026 | Pyg presents KILIMANJARO | KILIMANJARO |
 | Fri, 30 Oct 2026 | Ghost Story* with LF SYSTEM | LF SYSTEM |
@@ -18,4 +19,4 @@ Pygmalion is a music venue in Dublin listed on soundcheck. 5 upcoming nights, wi
 
 59 William St S, Dublin, Ireland, Dublin
 
-*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/dublin/club/pygmalion/)*
+*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/dublin/club/pygmalion/)*

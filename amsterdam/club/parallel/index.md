@@ -1,6 +1,6 @@
 # Parallel
 
-Parallel is a music venue in Amsterdam with 10 upcoming nights listed on soundcheck as of Sun, 13 Sept 2026; the next is "La Casa del Perreo" on Fri, 18 Sept 2026.
+Parallel is a music venue in Amsterdam with 10 upcoming nights listed on soundcheck as of Mon, 14 Sept 2026; the next is "La Casa del Perreo" on Fri, 18 Sept 2026.
 
 Parallel is a music venue in Amsterdam listed on soundcheck. 10 upcoming nights, with line-ups including Bambii, Dominika Karaszewska, Jarreau Vandal and Julia Mira and 2 more. Browse upcoming dates, start times and who's playing. Buiksloterweg 5C, 1031 CC Amsterdam.
 
@@ -23,4 +23,4 @@ Parallel is a music venue in Amsterdam listed on soundcheck. 10 upcoming nights,
 
 Buiksloterweg 5C, 1031 CC Amsterdam, Amsterdam
 
-*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/parallel/)*
+*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/parallel/)*

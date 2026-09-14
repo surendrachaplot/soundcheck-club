@@ -1,6 +1,6 @@
 # Moth Girl
 
-Moth Girl is a Post-Punk and EBM artist with 1 upcoming club date listed on soundcheck as of Sun, 13 Sept 2026, next at The Mash House, Edinburgh on Sat, 19 Sept 2026.
+Moth Girl is a Post-Punk and EBM artist with 1 upcoming club date listed on soundcheck as of Mon, 14 Sept 2026, next at The Mash House, Edinburgh on Sat, 19 Sept 2026.
 
 Moth Girl is a post-punk and ebm artist based in United Kingdom, tracked on soundcheck, with 20 sets logged across Edinburgh. Often billed alongside Sacred Keys, The Nightlark and philomenah. Next up: The Mash House, Edinburgh on Sat 19 Sept.
 
@@ -25,4 +25,4 @@ Moth Girl is a post-punk and ebm artist based in United Kingdom, tracked on soun
 
 Sacred Keys, The Nightlark, philomenah
 
-*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mothgirl/)*
+*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mothgirl/)*

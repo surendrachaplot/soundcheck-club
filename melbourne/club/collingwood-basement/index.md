@@ -1,6 +1,6 @@
 # Collingwood Basement
 
-Collingwood Basement is a music venue in Melbourne with 4 upcoming nights listed on soundcheck as of Sun, 13 Sept 2026; the next is "FOG: SECTION TACTICS RELEASE PARTY" on Fri, 18 Sept 2026.
+Collingwood Basement is a music venue in Melbourne with 4 upcoming nights listed on soundcheck as of Mon, 14 Sept 2026; the next is "FOG: SECTION TACTICS RELEASE PARTY" on Fri, 18 Sept 2026.
 
 Collingwood Basement is a music venue in Melbourne listed on soundcheck. 4 upcoming nights, with line-ups including AROHA, bellxsxs, Casey Leaver and James Curd and 1 more. Browse upcoming dates, start times and who's playing. (Zero) 0 Langridge St Collingwood, VIC 3066.
 
@@ -17,4 +17,4 @@ Collingwood Basement is a music venue in Melbourne listed on soundcheck. 4 upcom
 
 (Zero) 0 Langridge St Collingwood, VIC 3066, Melbourne
 
-*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/collingwood-basement/)*
+*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/collingwood-basement/)*

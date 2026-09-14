@@ -1,14 +1,13 @@
 # Héctor Oaks
 
-Héctor Oaks is a Techno and House artist with 7 upcoming club dates listed on soundcheck as of Sun, 13 Sept 2026, next at Hï Ibiza, Ibiza on Sun, 13 Sept 2026.
+Héctor Oaks is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Mon, 14 Sept 2026, next at OIL Club, Shenzhen on Sat, 26 Sept 2026.
 
-Héctor Oaks is a techno and house artist tracked on soundcheck, with 250 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 71 more. Often billed alongside Patrick Mason, Adiel and Richie Hawtin. Next up: Hï Ibiza, Ibiza on Sun 13 Sept.
+Héctor Oaks is a techno and house artist tracked on soundcheck, with 253 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 72 more. Often billed alongside Patrick Mason, Adiel and Richie Hawtin. Next up: OIL Club, Shenzhen on Sat 26 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sun, 13 Sept 2026 | Hï Ibiza | Ibiza |
 | Sat, 26 Sept 2026 | OIL Club | Shenzhen |
 | Sun, 18 Oct 2026 | Q35 WAREHOUSE | Turin |
 | Fri, 23 Oct 2026 | Ndsm Wharf | Amsterdam |
@@ -18,6 +17,7 @@ Héctor Oaks is a techno and house artist tracked on soundcheck, with 250 sets l
 
 ## Recently played
 
+- Hï Ibiza, Ibiza — Sun, 13 Sept 2026
 - Razzmatazz, Barcelona — Sat, 5 Sept 2026
 - Union Park, Chicago — Fri, 4 Sept 2026
 - Amnesia Ibiza, Ibiza — Tue, 1 Sept 2026
@@ -25,10 +25,9 @@ Héctor Oaks is a techno and house artist tracked on soundcheck, with 250 sets l
 - Amnesia Ibiza, Ibiza — Sun, 9 Aug 2026
 - Substation, Seattle — Sat, 1 Aug 2026
 - Stereo, Montreal — Fri, 31 Jul 2026
-- Amnesia Ibiza, Ibiza — Sun, 26 Jul 2026
 
 ## Shares bills with
 
 Patrick Mason, Adiel, Richie Hawtin
 
-*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/hectoroaks/)*
+*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/hectoroaks/)*

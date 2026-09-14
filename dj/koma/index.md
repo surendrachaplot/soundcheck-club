@@ -1,6 +1,6 @@
 # Kōma
 
-Kōma is a Electro and Bass artist with 1 upcoming club date listed on soundcheck as of Sun, 13 Sept 2026, next at Brussels Gate, Brussels on Sat, 31 Oct 2026.
+Kōma is a Electro and Bass artist with 1 upcoming club date listed on soundcheck as of Mon, 14 Sept 2026, next at Brussels Gate, Brussels on Sat, 31 Oct 2026.
 
 Kōma is an electro and bass artist based in Belgium, tracked on soundcheck, with 2 sets logged across Brussels. Often billed alongside Lauravioli, Anz and Harold mp1. Next up: Brussels Gate, Brussels on Sat 31 Oct.
 
@@ -18,4 +18,4 @@ Kōma is an electro and bass artist based in Belgium, tracked on soundcheck, wit
 
 Lauravioli, Anz, Harold mp1
 
-*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/koma/)*
+*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/koma/)*

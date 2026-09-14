@@ -1,6 +1,6 @@
 # TBA - PARC DE LA COMMUNE DE PARIS 
 
-TBA - PARC DE LA COMMUNE DE PARIS  is a music venue in Lyon with 1 upcoming night listed on soundcheck as of Sun, 13 Sept 2026; the next is "OPEN AIR TECHNO 360° - HIDDEN GARDEN x SPHERE - VILLEURBANNE" on Sat, 10 Oct 2026.
+TBA - PARC DE LA COMMUNE DE PARIS  is a music venue in Lyon with 1 upcoming night listed on soundcheck as of Mon, 14 Sept 2026; the next is "OPEN AIR TECHNO 360° - HIDDEN GARDEN x SPHERE - VILLEURBANNE" on Sat, 10 Oct 2026.
 
 TBA - PARC DE LA COMMUNE DE PARIS  is a music venue in Lyon listed on soundcheck. 1 upcoming night, with line-ups including Messina. Browse upcoming dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ TBA - PARC DE LA COMMUNE DE PARIS  is a music venue in Lyon listed on soundcheck
 | --- | --- | --- |
 | Sat, 10 Oct 2026 | OPEN AIR TECHNO 360° - HIDDEN GARDEN x SPHERE - VILLEURBANNE | Messina |
 
-*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/lyon/club/tba-parc-de-la-commune-de-paris/)*
+*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/lyon/club/tba-parc-de-la-commune-de-paris/)*

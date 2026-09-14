@@ -1,8 +1,8 @@
 # Sharlese
 
-Sharlese is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Sun, 13 Sept 2026, next at The Avalon Lounge, New York City on Sat, 19 Sept 2026.
+Sharlese is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Mon, 14 Sept 2026, next at The Avalon Lounge, New York City on Sat, 19 Sept 2026.
 
-Sharlese is a techno and house artist based in United States of America, tracked on soundcheck, with 144 sets logged across Amsterdam, Belgrade, Berlin and Boston and 14 more. Often billed alongside DJ SH1-TR, Lord Phatrick and Kadeejah Streets. Next up: The Avalon Lounge, Newyorkcity on Sat 19 Sept.
+Sharlese is a techno and house artist based in United States of America, tracked on soundcheck, with 145 sets logged across Amsterdam, Belgrade, Berlin and Boston and 14 more. Often billed alongside DJ SH1-TR, Lord Phatrick and Kadeejah Streets. Next up: The Avalon Lounge, Newyorkcity on Sat 19 Sept.
 
 ## Upcoming shows
 
@@ -13,6 +13,7 @@ Sharlese is a techno and house artist based in United States of America, tracked
 | Sat, 10 Oct 2026 | Pony | Seattle |
 | Sat, 10 Oct 2026 | Process PDX | Portland |
 | Sat, 14 Nov 2026 | Pony | Seattle |
+| Sat, 12 Dec 2026 | Pony | Seattle |
 
 ## Recently played
 
@@ -29,4 +30,4 @@ Sharlese is a techno and house artist based in United States of America, tracked
 
 DJ SH1-TR, Lord Phatrick, Kadeejah Streets
 
-*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sharlese/)*
+*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sharlese/)*

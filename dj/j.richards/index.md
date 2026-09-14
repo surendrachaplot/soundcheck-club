@@ -1,6 +1,6 @@
 # J. Richards
 
-J. Richards is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sun, 13 Sept 2026, next at Shelter Amsterdam, Amsterdam on Sat, 19 Sept 2026.
+J. Richards is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Mon, 14 Sept 2026, next at Shelter Amsterdam, Amsterdam on Sat, 19 Sept 2026.
 
 J. Richards is a house and techno artist based in United States of America, tracked on soundcheck, with 103 sets logged across Amsterdam, Berlin, Detroit and Ibiza and 10 more. Often billed alongside Kurilo, Gian-Paul and Vivian Wang. Next up: Shelter Amsterdam, Amsterdam on Sat 19 Sept.
 
@@ -26,4 +26,4 @@ J. Richards is a house and techno artist based in United States of America, trac
 
 Kurilo, Gian-Paul, Vivian Wang
 
-*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/j.richards/)*
+*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/j.richards/)*

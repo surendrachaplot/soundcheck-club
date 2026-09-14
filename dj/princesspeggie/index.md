@@ -1,6 +1,6 @@
 # Princess Peggie
 
-Princess Peggie is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sun, 13 Sept 2026, next at 100 Sutton Studios, New York City on Fri, 18 Sept 2026.
+Princess Peggie is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 14 Sept 2026, next at 100 Sutton Studios, New York City on Fri, 18 Sept 2026.
 
 Princess Peggie is a techno and house artist based in United States of America, tracked on soundcheck, with 64 sets logged across Miami and Newyorkcity. Often billed alongside Miss Parker, DAIYAH and Byrell The Great. Next up: 100 Sutton Studios, Newyorkcity on Fri 18 Sept.
 
@@ -25,4 +25,4 @@ Princess Peggie is a techno and house artist based in United States of America, 
 
 Miss Parker, DAIYAH, Byrell The Great
 
-*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/princesspeggie/)*
+*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/princesspeggie/)*

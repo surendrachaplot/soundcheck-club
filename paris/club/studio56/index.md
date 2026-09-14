@@ -1,6 +1,6 @@
 # Studio56
 
-Studio56 is a music venue in Paris with 8 upcoming nights listed on soundcheck as of Sun, 13 Sept 2026; the next is "Fracture W/ Vworld , Anomaly , Rinzler" on Sun, 13 Sept 2026.
+Studio56 is a music venue in Paris with 8 upcoming nights listed on soundcheck as of Mon, 14 Sept 2026; the next is "Fracture W/ Vworld , Anomaly , Rinzler" on Sun, 13 Sept 2026.
 
 Studio56 is a music venue in Paris listed on soundcheck. 8 upcoming nights, with line-ups including ANØMALY, Killoverjoy, nklz and Walid. Browse upcoming dates, start times and who's playing. 56 rue de la Fontaine au Roi 75011 Paris.
 
@@ -21,4 +21,4 @@ Studio56 is a music venue in Paris listed on soundcheck. 8 upcoming nights, with
 
 56 rue de la Fontaine au Roi 75011 Paris, Paris
 
-*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/paris/club/studio56/)*
+*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/paris/club/studio56/)*

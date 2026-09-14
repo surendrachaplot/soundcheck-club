@@ -1,6 +1,6 @@
 # Tomoki Tamura
 
-Tomoki Tamura is a House and Techno artist with 6 upcoming club dates listed on soundcheck as of Sun, 13 Sept 2026, next at Audiodise Park Montjuic, Barcelona on Sun, 27 Sept 2026.
+Tomoki Tamura is a House and Techno artist with 6 upcoming club dates listed on soundcheck as of Mon, 14 Sept 2026, next at Audiodise Park Montjuic, Barcelona on Sun, 27 Sept 2026.
 
 Tomoki Tamura is a house and techno artist based in Germany, tracked on soundcheck, with 95 sets logged across Amsterdam, Bangkok, Barcelona and Belgrade and 26 more. Often billed alongside GARAN GARAN, Satoshi Tomiie and Cromby. Next up: Audiodise Park Montjuic, Barcelona on Sun 27 Sept.
 
@@ -30,4 +30,4 @@ Tomoki Tamura is a house and techno artist based in Germany, tracked on soundche
 
 GARAN GARAN, Satoshi Tomiie, Cromby
 
-*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tomokitamura/)*
+*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tomokitamura/)*

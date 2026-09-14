@@ -1,6 +1,6 @@
 # double A-side -pre party- at Numm
 
-double A-side -pre party- at Numm on Mon 21 Sept, Tokyo. 3 acts on the bill: KIRIHARA, Ko Umehara and Ririko. Techno and Deep House. Preview the line-up and save it on soundcheck.
+double A-side -pre party- at Numm on Mon 21 Sept, Tokyo. 3 acts on the bill: KIRIHARA, Ko Umehara and Ririko. Techno and Minimal. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

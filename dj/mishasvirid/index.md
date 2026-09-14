@@ -1,6 +1,6 @@
 # Misha Svirid
 
-Misha Svirid is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sun, 13 Sept 2026, next at Weekend, Berlin on Fri, 9 Oct 2026.
+Misha Svirid is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Mon, 14 Sept 2026, next at Weekend, Berlin on Fri, 9 Oct 2026.
 
 Misha Svirid is a techno and house artist based in Germany, tracked on soundcheck, with 48 sets logged across Berlin, Lisbon and Riga. Often billed alongside Phonique, Ante Perry and Vlad Yaki. Next up: Weekend, Berlin on Fri 9 Oct.
 
@@ -26,4 +26,4 @@ Misha Svirid is a techno and house artist based in Germany, tracked on soundchec
 
 Phonique, Ante Perry, Vlad Yaki
 
-*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mishasvirid/)*
+*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mishasvirid/)*

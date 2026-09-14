@@ -1,6 +1,6 @@
 # Gut Level
 
-Gut Level is a music venue in Sheffield with 11 upcoming nights listed on soundcheck as of Sun, 13 Sept 2026; the next is "Shaun Bloodworth: Photographs & Films & Things" on Thu, 17 Sept 2026.
+Gut Level is a music venue in Sheffield with 11 upcoming nights listed on soundcheck as of Mon, 14 Sept 2026; the next is "Shaun Bloodworth: Photographs & Films & Things" on Thu, 17 Sept 2026.
 
 Gut Level is a music venue in Sheffield listed on soundcheck. 11 upcoming nights, with line-ups including Backseat Driver, Bubbles (UK), Buggery Grips and Danielle and 2 more. Browse upcoming dates, start times and who's playing. 32-34 Chapel Walk, Sheffield, S1 2PD.
 
@@ -23,4 +23,4 @@ Gut Level is a music venue in Sheffield listed on soundcheck. 11 upcoming nights
 
 32-34 Chapel Walk, Sheffield, S1 2PD, Sheffield
 
-*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/sheffield/club/gut-level/)*
+*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/sheffield/club/gut-level/)*

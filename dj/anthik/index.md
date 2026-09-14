@@ -1,6 +1,6 @@
 # Anthik
 
-Anthik is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Sun, 13 Sept 2026, next at Supermarket, Zurich on Fri, 25 Sept 2026.
+Anthik is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Mon, 14 Sept 2026, next at Supermarket, Zurich on Fri, 25 Sept 2026.
 
 Anthik is a house and techno artist based in Switzerland, tracked on soundcheck, with 35 sets logged across Basel, Geneva and Zurich. Often billed alongside Kellerkind, Animal Trainer and ACID FLORA. Next up: Supermarket, Zurich on Fri 25 Sept.
 
@@ -27,4 +27,4 @@ Anthik is a house and techno artist based in Switzerland, tracked on soundcheck,
 
 Kellerkind, Animal Trainer, ACID FLORA
 
-*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/anthik/)*
+*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/anthik/)*

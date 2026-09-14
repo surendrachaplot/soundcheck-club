@@ -1,6 +1,6 @@
 # Animarum Showcase at ADE 2026 - Techno for Your Soul at Aevum x 50:Hertz House & Techno Club Rembrandt Square | Rembrandtplein 45, Amsterdam
 
-Animarum Showcase at ADE 2026 - Techno for Your Soul at Aevum x 50:Hertz House & Techno Club Rembrandt Square | Rembrandtplein 45, Amsterdam on Thu 22 Oct, Amsterdam. 1 act on the bill: SAMDMA. Trance and Techno. Preview the line-up and save it on soundcheck.
+Animarum Showcase at ADE 2026 - Techno for Your Soul at Aevum x 50:Hertz House & Techno Club Rembrandt Square | Rembrandtplein 45, Amsterdam on Thu 22 Oct, Amsterdam. 2 acts on the bill: SAMDMA and The Enveloper. Trance and Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,5 +11,6 @@ Animarum Showcase at ADE 2026 - Techno for Your Soul at Aevum x 50:Hertz House &
 ## Line-up
 
 - SAMDMA
+- The Enveloper
 
 *Source: [soundcheck](https://soundcheck.club/e/2500510-animarum-showcase-at-ade-2026-techno-for-your-soul-at-aevum/)*

@@ -1,6 +1,6 @@
 # xMachina
 
-xMachina is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sun, 13 Sept 2026, next at TBA, London on Fri, 18 Sept 2026.
+xMachina is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 14 Sept 2026, next at TBA, London on Fri, 18 Sept 2026.
 
 xMachina is a techno and house artist tracked on soundcheck, with 12 sets logged across Berlin and London. Often billed alongside HORN-E, Stellarator and ALFALFA (UK). Next up: TBA, London on Fri 18 Sept.
 
@@ -25,4 +25,4 @@ xMachina is a techno and house artist tracked on soundcheck, with 12 sets logged
 
 HORN-E, Stellarator, ALFALFA (UK)
 
-*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/xmachina/)*
+*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/xmachina/)*

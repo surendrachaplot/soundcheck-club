@@ -1,6 +1,6 @@
 # PRST
 
-PRST is a music venue in Vienna with 4 upcoming nights listed on soundcheck as of Sun, 13 Sept 2026; the next is "MEIER" on Fri, 18 Sept 2026.
+PRST is a music venue in Vienna with 4 upcoming nights listed on soundcheck as of Mon, 14 Sept 2026; the next is "MEIER" on Fri, 18 Sept 2026.
 
 PRST is a music venue in Vienna listed on soundcheck. 4 upcoming nights, with line-ups including Chris Freud, David Radi, It's George! and Maher Daniel and 2 more. Browse upcoming dates, start times and who's playing. Praterstraße 18, 1020 Wien, Austria.
 
@@ -17,4 +17,4 @@ PRST is a music venue in Vienna listed on soundcheck. 4 upcoming nights, with li
 
 Praterstraße 18, 1020 Wien, Austria, Vienna
 
-*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/vienna/club/prst/)*
+*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/vienna/club/prst/)*

@@ -1,14 +1,13 @@
 # DJ Senc
 
-DJ Senc is a House and Tech House artist with 9 upcoming club dates listed on soundcheck as of Sun, 13 Sept 2026, next at Fvtvr, Paris on Sat, 12 Sept 2026.
+DJ Senc is a House and Tech House artist with 8 upcoming club dates listed on soundcheck as of Mon, 14 Sept 2026, next at Carmo Rooftop, Lisbon on Thu, 17 Sept 2026.
 
-DJ Senc is a house and tech house artist tracked on soundcheck, with 133 sets logged across Amsterdam, Bali, Barcelona and Berlin and 23 more. Often billed alongside Samuel Deep, Doudou MD and Dyed Soundorom. Next up: Fvtvr, Paris on Sat 12 Sept.
+DJ Senc is a house and tech house artist tracked on soundcheck, with 133 sets logged across Amsterdam, Bali, Barcelona and Berlin and 23 more. Often billed alongside Samuel Deep, Doudou MD and Dyed Soundorom. Next up: Carmo Rooftop, Lisbon on Thu 17 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 12 Sept 2026 | Fvtvr | Paris |
 | Thu, 17 Sept 2026 | Carmo Rooftop | Lisbon |
 | Sat, 19 Sept 2026 | Oven Club | Valencia |
 | Sat, 19 Sept 2026 | Oven Club | Valencia |
@@ -33,4 +32,4 @@ DJ Senc is a house and tech house artist tracked on soundcheck, with 133 sets lo
 
 Samuel Deep, Doudou MD, Dyed Soundorom
 
-*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djsenc/)*
+*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djsenc/)*

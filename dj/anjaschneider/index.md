@@ -1,14 +1,13 @@
 # Anja Schneider
 
-Anja Schneider is a Techno and House artist with 8 upcoming club dates listed on soundcheck as of Sun, 13 Sept 2026, next at Kater, Berlin on Fri, 11 Sept 2026.
+Anja Schneider is a Techno and House artist with 7 upcoming club dates listed on soundcheck as of Mon, 14 Sept 2026, next at Mia Mao, Paris on Fri, 18 Sept 2026.
 
-Anja Schneider is a techno and house artist tracked on soundcheck, with 142 sets logged across Amsterdam, Antwerp, Barcelona and Berlin and 30 more. Often billed alongside Radio Slave, Cassy and Foolik. Next up: Kater, Berlin on Fri 11 Sept.
+Anja Schneider is a techno and house artist tracked on soundcheck, with 142 sets logged across Amsterdam, Antwerp, Barcelona and Berlin and 30 more. Often billed alongside Radio Slave, Cassy and Foolik. Next up: Mia Mao, Paris on Fri 18 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 11 Sept 2026 | Kater | Berlin |
 | Fri, 18 Sept 2026 | Mia Mao | Paris |
 | Sat, 19 Sept 2026 | OHM | Berlin |
 | Sun, 20 Sept 2026 | OXI | Berlin |
@@ -32,4 +31,4 @@ Anja Schneider is a techno and house artist tracked on soundcheck, with 142 sets
 
 Radio Slave, Cassy, Foolik
 
-*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/anjaschneider/)*
+*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/anjaschneider/)*

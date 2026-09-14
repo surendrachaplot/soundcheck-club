@@ -1,14 +1,13 @@
 # P.E.A.R.L.
 
-P.E.A.R.L. is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Sun, 13 Sept 2026, next at Barragem da Queimadela, Porto on Thu, 10 Sept 2026.
+P.E.A.R.L. is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Mon, 14 Sept 2026, next at Tresor.West, Dortmund-essen on Sat, 19 Sept 2026.
 
-P.E.A.R.L. is a techno and house artist tracked on soundcheck, with 86 sets logged across Amsterdam, Barcelona, Basel and Berlin and 28 more. Often billed alongside Not A Headliner, Henning Baer and Adriana Lopez. Next up: Barragem da Queimadela, Porto on Thu 10 Sept.
+P.E.A.R.L. is a techno and house artist tracked on soundcheck, with 86 sets logged across Amsterdam, Barcelona, Basel and Berlin and 28 more. Often billed alongside Not A Headliner, Henning Baer and Adriana Lopez. Next up: Tresor.West, Dortmund-essen on Sat 19 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Thu, 10 Sept 2026 | Barragem da Queimadela | Porto |
 | Sat, 19 Sept 2026 | Tresor.West | Dortmund-essen |
 | Fri, 23 Oct 2026 | public records | New York City |
 | Sat, 21 Nov 2026 | Azimut Club | Turin |
@@ -28,4 +27,4 @@ P.E.A.R.L. is a techno and house artist tracked on soundcheck, with 86 sets logg
 
 Not A Headliner, Henning Baer, Adriana Lopez
 
-*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/p.e.a.r.l/)*
+*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/p.e.a.r.l/)*

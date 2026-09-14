@@ -1,6 +1,6 @@
 # TO LE
 
-TO LE is a Electronica and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 13 Sept 2026, next at City Hall, Barcelona on Thu, 24 Sept 2026.
+TO LE is a Electronica and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 14 Sept 2026, next at City Hall, Barcelona on Thu, 24 Sept 2026.
 
 TO LE is an electronica and techno artist based in Spain, tracked on soundcheck, with 2 sets logged across Barcelona. Often billed alongside Civaro, Marco Aurelio and Miguel Silva. Next up: City Hall, Barcelona on Thu 24 Sept.
 
@@ -18,4 +18,4 @@ TO LE is an electronica and techno artist based in Spain, tracked on soundcheck,
 
 Civaro, Marco Aurelio, Miguel Silva
 
-*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tole/)*
+*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tole/)*

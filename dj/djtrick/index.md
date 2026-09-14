@@ -1,6 +1,6 @@
 # DJ Trick
 
-DJ Trick is a Electro and Club artist with 1 upcoming club date listed on soundcheck as of Sun, 13 Sept 2026, next at TBA, Los Angeles on Wed, 16 Sept 2026.
+DJ Trick is a Electro and Club artist with 1 upcoming club date listed on soundcheck as of Mon, 14 Sept 2026, next at TBA, Los Angeles on Wed, 16 Sept 2026.
 
 DJ Trick is an electro and club artist tracked on soundcheck, with 19 sets logged across Barcelona, Berlin, Budapest and London and 5 more. Often billed alongside Mother Cell, Frost Children and Angel Money. Next up: TBA, Losangeles on Wed 16 Sept.
 
@@ -25,4 +25,4 @@ DJ Trick is an electro and club artist tracked on soundcheck, with 19 sets logge
 
 Mother Cell, Frost Children, Angel Money
 
-*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djtrick/)*
+*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djtrick/)*

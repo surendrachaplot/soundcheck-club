@@ -1,6 +1,6 @@
 # Ririko
 
-Ririko is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sun, 13 Sept 2026, next at Numm, Tokyo on Mon, 21 Sept 2026.
+Ririko is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Mon, 14 Sept 2026, next at Numm, Tokyo on Mon, 21 Sept 2026.
 
 Ririko is a techno and house artist tracked on soundcheck, with 77 sets logged across Osaka and Tokyo. Often billed alongside Chrumi, Ken Ishii and Takkyu Ishino. Next up: Numm, Tokyo on Mon 21 Sept.
 
@@ -26,4 +26,4 @@ Ririko is a techno and house artist tracked on soundcheck, with 77 sets logged a
 
 Chrumi, Ken Ishii, Takkyu Ishino
 
-*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ririko/)*
+*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ririko/)*

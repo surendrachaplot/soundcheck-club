@@ -1,8 +1,8 @@
 # Juhani Oivo
 
-Juhani Oivo is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 13 Sept 2026, next at Phonica Records, London on Thu, 17 Sept 2026.
+Juhani Oivo is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 14 Sept 2026, next at Phonica Records, London on Thu, 17 Sept 2026.
 
-Juhani Oivo is a house and techno artist tracked on soundcheck, with 19 sets logged across Berlin, Bristol, Helsinki and London and 6 more. Often billed alongside Mesak, Tin Man and 0dysseus. Next up: Phonica Records, London on Thu 17 Sept.
+Juhani Oivo is a house and techno artist tracked on soundcheck, with 27 sets logged across Berlin, Bristol, Helsinki and London and 6 more. Often billed alongside Mesak, Katerina and Tin Man. Next up: Phonica Records, London on Thu 17 Sept.
 
 ## Upcoming shows
 
@@ -23,6 +23,6 @@ Juhani Oivo is a house and techno artist tracked on soundcheck, with 19 sets log
 
 ## Shares bills with
 
-Mesak, Tin Man, 0dysseus
+Mesak, Katerina, Tin Man
 
-*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/juhanioivo/)*
+*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/juhanioivo/)*

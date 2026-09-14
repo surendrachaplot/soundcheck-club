@@ -1,6 +1,6 @@
 # Charlatan
 
-Charlatan is a music venue in Ghent with 4 upcoming nights listed on soundcheck as of Sun, 13 Sept 2026; the next is "Red D, His Dudeness, Elyn" on Sat, 19 Sept 2026.
+Charlatan is a music venue in Ghent with 4 upcoming nights listed on soundcheck as of Mon, 14 Sept 2026; the next is "Red D, His Dudeness, Elyn" on Sat, 19 Sept 2026.
 
 Charlatan is a music venue in Ghent listed on soundcheck. 4 upcoming nights, with line-ups including AMARE, AM.I, Cierk du Nuit and Doreen Van Steen and 2 more. Browse upcoming dates, start times and who's playing. Vlasmarkt 6, 9000 Gent, Belgium.
 
@@ -17,4 +17,4 @@ Charlatan is a music venue in Ghent listed on soundcheck. 4 upcoming nights, wit
 
 Vlasmarkt 6, 9000 Gent, Belgium, Ghent
 
-*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/ghent/club/charlatan/)*
+*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/ghent/club/charlatan/)*

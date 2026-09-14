@@ -1,6 +1,6 @@
 # The Classic Grand
 
-The Classic Grand is a music venue in Glasgow with 18 upcoming nights listed on soundcheck as of Sun, 13 Sept 2026; the next is "DISFUNCTION x PEAK X-TREME 003: MISSY + KILI" on Fri, 18 Sept 2026.
+The Classic Grand is a music venue in Glasgow with 18 upcoming nights listed on soundcheck as of Mon, 14 Sept 2026; the next is "DISFUNCTION x PEAK X-TREME 003: MISSY + KILI" on Fri, 18 Sept 2026.
 
 The Classic Grand is a music venue in Glasgow listed on soundcheck. 18 upcoming nights, with line-ups including Act of Rage, Andrew Cairns, Carbon Based Lifeforms and Charlie B and 2 more. Browse upcoming dates, start times and who's playing. 18 Jamaica Street; Glasgow, G1 4QD; Scotland.
 
@@ -23,4 +23,4 @@ The Classic Grand is a music venue in Glasgow listed on soundcheck. 18 upcoming 
 
 18 Jamaica Street; Glasgow, G1 4QD; Scotland, Glasgow
 
-*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/the-classic-grand/)*
+*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/the-classic-grand/)*

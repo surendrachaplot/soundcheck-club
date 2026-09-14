@@ -1,6 +1,6 @@
 # The Concourse Project
 
-The Concourse Project is a music venue in Austin with 28 upcoming nights listed on soundcheck as of Sun, 13 Sept 2026; the next is "ISOxo pres: Hardcore Diva (Night 1) at The Concourse Project" on Wed, 16 Sept 2026.
+The Concourse Project is a music venue in Austin with 28 upcoming nights listed on soundcheck as of Mon, 14 Sept 2026; the next is "ISOxo pres: Hardcore Diva (Night 1) at The Concourse Project" on Wed, 16 Sept 2026.
 
 The Concourse Project is a music venue in Austin listed on soundcheck. 28 upcoming nights, with line-ups including 1tbsp, Above & Beyond, Adam Port and Adam Sellouk and 2 more. Browse upcoming dates, start times and who's playing. 8509 Burleson Rd, Building 1, Austin, TX 78719, USA.
 
@@ -23,4 +23,4 @@ The Concourse Project is a music venue in Austin listed on soundcheck. 28 upcomi
 
 8509 Burleson Rd, Building 1, Austin, TX 78719, USA, Austin
 
-*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/austin/club/the-concourse-project/)*
+*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/austin/club/the-concourse-project/)*

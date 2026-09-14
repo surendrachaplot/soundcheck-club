@@ -1,14 +1,13 @@
 # 314 Scholes
 
-314 Scholes is a music venue in New York City with 8 upcoming nights listed on soundcheck as of Sun, 13 Sept 2026; the next is "100 WAYS TO GET HERE — NYFW SS27 Fashion Show + After Party" on Sun, 13 Sept 2026.
+314 Scholes is a music venue in New York City with 7 upcoming nights listed on soundcheck as of Mon, 14 Sept 2026; the next is "MikeQ: LoHi Rooftop [Free with RSVP]" on Fri, 18 Sept 2026.
 
-314 Scholes is a music venue in Newyorkcity listed on soundcheck. 8 upcoming nights, with line-ups including S7IK, DJ Clone, DJ LOSER and Emma X and 2 more. Browse upcoming dates, start times and who's playing. 314 Scholes St Brooklyn, NY 11206.
+314 Scholes is a music venue in Newyorkcity listed on soundcheck. 7 upcoming nights, with line-ups including DJ Clone, DJ LOSER, MikeQ and Moodymann and 2 more. Browse upcoming dates, start times and who's playing. 314 Scholes St Brooklyn, NY 11206.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sun, 13 Sept 2026 | 100 WAYS TO GET HERE — NYFW SS27 Fashion Show + After Party | Emma X, S7IK |
 | Fri, 18 Sept 2026 | MikeQ: LoHi Rooftop [Free with RSVP] | MikeQ |
 | Sun, 20 Sept 2026 | The Carry Nation: They Went On Forever | Nita Aviance, The Carry Nation, Will Automagic |
 | Fri, 25 Sept 2026 | Other People Night: AEAEA | Nicolas Jaar |
@@ -21,4 +20,4 @@
 
 314 Scholes St Brooklyn, NY 11206, New York City
 
-*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/314-scholes/)*
+*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/314-scholes/)*

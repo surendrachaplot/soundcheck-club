@@ -1,8 +1,8 @@
 # Actress
 
-Actress is a Experimental and Techno artist with 4 upcoming club dates listed on soundcheck as of Sun, 13 Sept 2026, next at Garden Shinkiba Factory, Tokyo on Sat, 3 Oct 2026.
+Actress is a Experimental and Techno artist with 4 upcoming club dates listed on soundcheck as of Mon, 14 Sept 2026, next at Garden Shinkiba Factory, Tokyo on Sat, 3 Oct 2026.
 
-Actress is an experimental and techno artist tracked on soundcheck, with 82 sets logged across Amsterdam, Antwerp, Barcelona and Belgrade and 26 more. Often billed alongside Kode9, Blawan and Suzanne Ciani. Next up: Garden Shinkiba Factory, Tokyo on Sat 3 Oct.
+Actress is an experimental and techno artist tracked on soundcheck, with 83 sets logged across Amsterdam, Antwerp, Barcelona and Belgrade and 27 more. Often billed alongside Kode9, Blawan and Suzanne Ciani. Next up: Garden Shinkiba Factory, Tokyo on Sat 3 Oct.
 
 ## Upcoming shows
 
@@ -28,4 +28,4 @@ Actress is an experimental and techno artist tracked on soundcheck, with 82 sets
 
 Kode9, Blawan, Suzanne Ciani
 
-*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/actress/)*
+*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/actress/)*

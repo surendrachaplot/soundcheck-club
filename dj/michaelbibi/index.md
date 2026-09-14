@@ -1,14 +1,13 @@
 # Michael Bibi
 
-Michael Bibi is a Tech House and House artist with 6 upcoming club dates listed on soundcheck as of Sun, 13 Sept 2026, next at NDSM Docklands, Amsterdam on Sun, 13 Sept 2026.
+Michael Bibi is a Tech House and House artist with 5 upcoming club dates listed on soundcheck as of Mon, 14 Sept 2026, next at Ex Macello, Milan on Thu, 24 Sept 2026.
 
-Michael Bibi is a tech house and house artist based in United Kingdom, tracked on soundcheck, with 53 sets logged across Amsterdam, Bali, Barcelona and Buenosaires and 20 more. Often billed alongside Dennis Cruz, PAWSA and Chris Stassy. Next up: NDSM Docklands, Amsterdam on Sun 13 Sept.
+Michael Bibi is a tech house and house artist based in United Kingdom, tracked on soundcheck, with 53 sets logged across Amsterdam, Bali, Barcelona and Buenosaires and 20 more. Often billed alongside Dennis Cruz, PAWSA and Chris Stassy. Next up: Ex Macello, Milan on Thu 24 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sun, 13 Sept 2026 | NDSM Docklands | Amsterdam |
 | Thu, 24 Sept 2026 | Ex Macello | Milan |
 | Sun, 4 Oct 2026 | TBA - Secret location announced only to ticket holders | Ibiza |
 | Thu, 8 Oct 2026 | Pacha Ibiza | Ibiza |
@@ -17,6 +16,7 @@ Michael Bibi is a tech house and house artist based in United Kingdom, tracked o
 
 ## Recently played
 
+- NDSM Docklands, Amsterdam — Sun, 13 Sept 2026
 - TBA - Secret location announced only to ticket holders, Ibiza — Fri, 11 Sept 2026
 - Fulton Fish Market - Hunts Point, New York City — Sat, 5 Sept 2026
 - Union Park, Chicago — Fri, 4 Sept 2026
@@ -24,10 +24,9 @@ Michael Bibi is a tech house and house artist based in United Kingdom, tracked o
 - Hardturm Areal, Zurich — Sat, 1 Aug 2026
 - Marina Sur, Valencia — Sat, 11 Jul 2026
 - Parco Dora, Turin — Fri, 3 Jul 2026
-- Pacha New York, New York City — Sat, 20 Jun 2026
 
 ## Shares bills with
 
 Dennis Cruz, PAWSA, Chris Stassy
 
-*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/michaelbibi/)*
+*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/michaelbibi/)*

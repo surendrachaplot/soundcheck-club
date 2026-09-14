@@ -1,6 +1,6 @@
 # LAB theCLUB
 
-LAB theCLUB is a music venue in Madrid with 11 upcoming nights listed on soundcheck as of Sun, 13 Sept 2026; the next is "El Último Bakala – Vicente One More Time" on Sat, 26 Sept 2026.
+LAB theCLUB is a music venue in Madrid with 11 upcoming nights listed on soundcheck as of Mon, 14 Sept 2026; the next is "El Último Bakala – Vicente One More Time" on Sat, 26 Sept 2026.
 
 LAB theCLUB is a music venue in Madrid listed on soundcheck. 11 upcoming nights, with line-ups including Adam Beyer, Claptone, Crusy and Hot Since 82 and 2 more. Browse upcoming dates, start times and who's playing. Estación de Chamartín. Primera planta s/n 28036 Madrid.
 
@@ -23,4 +23,4 @@ LAB theCLUB is a music venue in Madrid listed on soundcheck. 11 upcoming nights,
 
 Estación de Chamartín. Primera planta s/n 28036 Madrid, Madrid
 
-*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/lab-theclub/)*
+*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/lab-theclub/)*

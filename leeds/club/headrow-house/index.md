@@ -1,6 +1,6 @@
 # Headrow House
 
-Headrow House is a music venue in Leeds with 22 upcoming nights listed on soundcheck as of Sun, 13 Sept 2026; the next is "FREQ: Free rooftop party" on Fri, 18 Sept 2026.
+Headrow House is a music venue in Leeds with 22 upcoming nights listed on soundcheck as of Mon, 14 Sept 2026; the next is "FREQ: Free rooftop party" on Fri, 18 Sept 2026.
 
 Headrow House is a music venue in Leeds listed on soundcheck. 22 upcoming nights, with line-ups including Artist Lebo, Cam Harrop, Gabrielle Kwarteng and GUTA and 2 more. Browse upcoming dates, start times and who's playing. Bramleys Yard, 19 The Headrow, Leeds, LS1 6PU, United Kingdom.
 
@@ -23,4 +23,4 @@ Headrow House is a music venue in Leeds listed on soundcheck. 22 upcoming nights
 
 Bramleys Yard, 19 The Headrow, Leeds, LS1 6PU, United Kingdom, Leeds
 
-*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/leeds/club/headrow-house/)*
+*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/leeds/club/headrow-house/)*

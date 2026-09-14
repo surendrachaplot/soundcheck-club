@@ -1,6 +1,6 @@
 # Driscoll
 
-Driscoll is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Sun, 13 Sept 2026, next at TBA - cisco seaport, Boston on Sun, 20 Sept 2026.
+Driscoll is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Mon, 14 Sept 2026, next at TBA - cisco seaport, Boston on Sun, 20 Sept 2026.
 
 Driscoll is a tech house and house artist tracked on soundcheck, with 3 sets logged across Boston and Newyorkcity. Often billed alongside Daniel Orpi, Jeremias and LABNON. Next up: TBA - cisco seaport, Boston on Sun 20 Sept.
 
@@ -19,4 +19,4 @@ Driscoll is a tech house and house artist tracked on soundcheck, with 3 sets log
 
 Daniel Orpi, Jeremias, LABNON
 
-*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/driscoll/)*
+*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/driscoll/)*

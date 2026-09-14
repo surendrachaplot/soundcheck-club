@@ -1,8 +1,8 @@
 # Melokolektiv
 
-Melokolektiv is a Deep House and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 13 Sept 2026, next at The Cruise Club, Amsterdam on Sat, 24 Oct 2026.
+Melokolektiv is a Deep House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 14 Sept 2026, next at The Cruise Club, Amsterdam on Sat, 24 Oct 2026.
 
-Melokolektiv is a deep house and techno artist tracked on soundcheck, with 4 sets logged across Amsterdam, Marseille and Paris. Often billed alongside FNX Omar, LAMPETEE and MKLF. Next up: The Cruise Club, Amsterdam on Sat 24 Oct.
+Melokolektiv is a deep house and techno artist tracked on soundcheck, with 4 sets logged across Amsterdam, Marseille and Paris. Often billed alongside FNX Omar, Fiction Official and LAMPETEE. Next up: The Cruise Club, Amsterdam on Sat 24 Oct.
 
 ## Upcoming shows
 
@@ -18,6 +18,6 @@ Melokolektiv is a deep house and techno artist tracked on soundcheck, with 4 set
 
 ## Shares bills with
 
-FNX Omar, LAMPETEE, MKLF
+FNX Omar, Fiction Official, LAMPETEE
 
-*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/melokolektiv/)*
+*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/melokolektiv/)*

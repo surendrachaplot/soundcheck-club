@@ -1,8 +1,8 @@
 # Kuba'97
 
-Kuba'97 is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Sun, 13 Sept 2026, next at Gaffe, London on Fri, 2 Oct 2026.
+Kuba'97 is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Mon, 14 Sept 2026, next at Gaffe, London on Fri, 2 Oct 2026.
 
-Kuba'97 is a techno and house artist based in Belgium, tracked on soundcheck, with 70 sets logged across Amsterdam, Antwerp, Berlin and Brussels and 17 more. Often billed alongside DJ Rino, Dana Kuehr and Ben Kamal. Next up: Gaffe, London on Fri 2 Oct.
+Kuba'97 is a techno and house artist based in Belgium, tracked on soundcheck, with 71 sets logged across Amsterdam, Antwerp, Berlin and Brussels and 18 more. Often billed alongside DJ Rino, Dana Kuehr and Ben Kamal. Next up: Gaffe, London on Fri 2 Oct.
 
 ## Upcoming shows
 
@@ -29,4 +29,4 @@ Kuba'97 is a techno and house artist based in Belgium, tracked on soundcheck, wi
 
 DJ Rino, Dana Kuehr, Ben Kamal
 
-*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kuba97/)*
+*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kuba97/)*

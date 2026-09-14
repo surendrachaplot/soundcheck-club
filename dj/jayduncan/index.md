@@ -1,6 +1,6 @@
 # Jay Duncan
 
-Jay Duncan is a Techno and Bass artist with 3 upcoming club dates listed on soundcheck as of Sun, 13 Sept 2026, next at Wharf Chambers, Leeds on Fri, 18 Sept 2026.
+Jay Duncan is a Techno and Bass artist with 3 upcoming club dates listed on soundcheck as of Mon, 14 Sept 2026, next at Wharf Chambers, Leeds on Fri, 18 Sept 2026.
 
 Jay Duncan is a techno and bass artist tracked on soundcheck, with 68 sets logged across Berlin, Bristol, Brussels and Copenhagen and 11 more. Often billed alongside Lukas Wigflex, Bethan and FAFF. Next up: Wharf Chambers, Leeds on Fri 18 Sept.
 
@@ -27,4 +27,4 @@ Jay Duncan is a techno and bass artist tracked on soundcheck, with 68 sets logge
 
 Lukas Wigflex, Bethan, FAFF
 
-*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jayduncan/)*
+*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jayduncan/)*

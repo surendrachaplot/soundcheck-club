@@ -1,6 +1,6 @@
 # The Jazz Cafe
 
-The Jazz Cafe is a music venue in London with 56 upcoming nights listed on soundcheck as of Sun, 13 Sept 2026; the next is "AMANDA SZE presents SAXOBEAT" on Fri, 18 Sept 2026.
+The Jazz Cafe is a music venue in London with 56 upcoming nights listed on soundcheck as of Mon, 14 Sept 2026; the next is "AMANDA SZE presents SAXOBEAT" on Fri, 18 Sept 2026.
 
 The Jazz Cafe is a music venue in London listed on soundcheck. 56 upcoming nights, with line-ups including A Guy Called Gerald, Aloka, AMANDA SZE and AMARI and 2 more. Browse upcoming dates, start times and who's playing. 5 Parkway; Camden Town; London NW1 7PG; United Kingdom.
 
@@ -23,4 +23,4 @@ The Jazz Cafe is a music venue in London listed on soundcheck. 56 upcoming night
 
 5 Parkway; Camden Town; London NW1 7PG; United Kingdom, London
 
-*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/the-jazz-cafe/)*
+*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/the-jazz-cafe/)*

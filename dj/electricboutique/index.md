@@ -1,6 +1,6 @@
 # Electric Boutique
 
-Electric Boutique is a House and Minimal artist with 2 upcoming club dates listed on soundcheck as of Sun, 13 Sept 2026, next at Pontoon Budapest, Budapest on Fri, 18 Sept 2026.
+Electric Boutique is a House and Minimal artist with 2 upcoming club dates listed on soundcheck as of Mon, 14 Sept 2026, next at Pontoon Budapest, Budapest on Fri, 18 Sept 2026.
 
 Electric Boutique is a house and minimal artist tracked on soundcheck, with 111 sets logged across Budapest. Often billed alongside Monoclick, Lost in Details and Claudio Imperatrice. Next up: Pontoon Budapest, Budapest on Fri 18 Sept.
 
@@ -26,4 +26,4 @@ Electric Boutique is a house and minimal artist tracked on soundcheck, with 111 
 
 Monoclick, Lost in Details, Claudio Imperatrice
 
-*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/electricboutique/)*
+*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/electricboutique/)*

@@ -1,6 +1,6 @@
 # marimari
 
-marimari is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Sun, 13 Sept 2026, next at Royal Lounge, Tokyo on Sun, 27 Sept 2026.
+marimari is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Mon, 14 Sept 2026, next at Royal Lounge, Tokyo on Sun, 27 Sept 2026.
 
 marimari is a techno and industrial artist based in Japan, tracked on soundcheck, with 30 sets logged across Liverpool, London and Tokyo. Often billed alongside Akiko Iwahara, Kaori Watt and Kiyoyuki Kanno. Next up: Royal Lounge, Tokyo on Sun 27 Sept.
 
@@ -25,4 +25,4 @@ marimari is a techno and industrial artist based in Japan, tracked on soundcheck
 
 Akiko Iwahara, Kaori Watt, Kiyoyuki Kanno
 
-*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/marimari/)*
+*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/marimari/)*

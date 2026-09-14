@@ -1,6 +1,6 @@
 # VXSION
 
-VXSION is a House artist with 1 upcoming club date listed on soundcheck as of Sun, 13 Sept 2026, next at Madarae San Francisco, San Francisco/Oakland on Sat, 19 Sept 2026.
+VXSION is a House artist with 1 upcoming club date listed on soundcheck as of Mon, 14 Sept 2026, next at Madarae San Francisco, San Francisco/Oakland on Sat, 19 Sept 2026.
 
 VXSION is a house artist tracked on soundcheck, with 3 sets logged across London, Newyorkcity and Sanfrancisco. Often billed alongside BEEZEE. Next up: Madarae San Francisco, Sanfrancisco on Sat 19 Sept.
 
@@ -19,4 +19,4 @@ VXSION is a house artist tracked on soundcheck, with 3 sets logged across London
 
 BEEZEE
 
-*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/vxsion/)*
+*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/vxsion/)*

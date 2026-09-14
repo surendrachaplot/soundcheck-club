@@ -1,6 +1,6 @@
 # Aroop Roy
 
-Aroop Roy is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Sun, 13 Sept 2026, next at Charlies Loft, Glasgow on Fri, 25 Sept 2026.
+Aroop Roy is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Mon, 14 Sept 2026, next at Charlies Loft, Glasgow on Fri, 25 Sept 2026.
 
 Aroop Roy is a house and disco artist tracked on soundcheck, with 97 sets logged across Amsterdam, Bali, Bangkok and Barcelona and 26 more. Often billed alongside Mr Scruff, Melvo Baptiste and LEV (UK). Next up: Charlies Loft, Glasgow on Fri 25 Sept.
 
@@ -25,4 +25,4 @@ Aroop Roy is a house and disco artist tracked on soundcheck, with 97 sets logged
 
 Mr Scruff, Melvo Baptiste, LEV (UK)
 
-*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/arooproy/)*
+*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/arooproy/)*

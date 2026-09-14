@@ -1,6 +1,6 @@
 # Plumitaa
 
-Plumitaa is a Techno and Acid artist with 1 upcoming club date listed on soundcheck as of Sun, 13 Sept 2026, next at Gewölbe, Cologne on Sat, 26 Sept 2026.
+Plumitaa is a Techno and Acid artist with 1 upcoming club date listed on soundcheck as of Mon, 14 Sept 2026, next at Gewölbe, Cologne on Sat, 26 Sept 2026.
 
 Plumitaa is a techno and acid artist tracked on soundcheck, with 4 sets logged across Cologne. Often billed alongside Corios, DJ ASS TITS and Jin Synth. Next up: Gewölbe, Cologne on Sat 26 Sept.
 
@@ -20,4 +20,4 @@ Plumitaa is a techno and acid artist tracked on soundcheck, with 4 sets logged a
 
 Corios, DJ ASS TITS, Jin Synth
 
-*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/plumitaa/)*
+*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/plumitaa/)*

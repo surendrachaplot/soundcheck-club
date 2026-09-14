@@ -1,6 +1,6 @@
 # eshot (DE)
 
-eshot (DE) is a Drum & Bass and Breakbeat artist with 1 upcoming club date listed on soundcheck as of Sun, 13 Sept 2026, next at Fabrique im Gängeviertel, Hamburg on Wed, 16 Sept 2026.
+eshot (DE) is a Drum & Bass and Breakbeat artist with 1 upcoming club date listed on soundcheck as of Mon, 14 Sept 2026, next at Fabrique im Gängeviertel, Hamburg on Wed, 16 Sept 2026.
 
 eshot (DE) is a drum & bass and breakbeat artist based in Germany, tracked on soundcheck, with 3 sets logged across Berlin and Hamburg. Often billed alongside GOOSINDRA, Adri Alibi and Ahni. Next up: Fabrique im Gängeviertel, Hamburg on Wed 16 Sept.
 
@@ -19,4 +19,4 @@ eshot (DE) is a drum & bass and breakbeat artist based in Germany, tracked on so
 
 GOOSINDRA, Adri Alibi, Ahni
 
-*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/eshot-de/)*
+*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/eshot-de/)*

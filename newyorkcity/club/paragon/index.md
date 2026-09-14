@@ -1,6 +1,6 @@
 # Paragon
 
-Paragon is a music venue in New York City with 13 upcoming nights listed on soundcheck as of Sun, 13 Sept 2026; the next is "DJ LAG, Ethan Tomas, Mohogany" on Thu, 17 Sept 2026.
+Paragon is a music venue in New York City with 13 upcoming nights listed on soundcheck as of Mon, 14 Sept 2026; the next is "DJ LAG, Ethan Tomas, Mohogany" on Thu, 17 Sept 2026.
 
 Paragon is a music venue in Newyorkcity listed on soundcheck. 13 upcoming nights, with line-ups including MORENXXX, Amarji King, ARCHANGEL (US) and Arielle Lana and 2 more. Browse upcoming dates, start times and who's playing. 990 Broadway Brooklyn, NY.
 
@@ -23,4 +23,4 @@ Paragon is a music venue in Newyorkcity listed on soundcheck. 13 upcoming nights
 
 990 Broadway Brooklyn, NY, New York City
 
-*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/paragon/)*
+*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/paragon/)*

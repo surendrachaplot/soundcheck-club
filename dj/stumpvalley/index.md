@@ -1,6 +1,6 @@
 # Stump Valley
 
-Stump Valley is a House and Disco artist with 3 upcoming club dates listed on soundcheck as of Sun, 13 Sept 2026, next at La Nube, Buenos Aires on Sat, 19 Sept 2026.
+Stump Valley is a House and Disco artist with 3 upcoming club dates listed on soundcheck as of Mon, 14 Sept 2026, next at La Nube, Buenos Aires on Sat, 19 Sept 2026.
 
 Stump Valley is a house and disco artist tracked on soundcheck, with 74 sets logged across Amsterdam, Barcelona, Berlin and Brussels and 17 more. Often billed alongside Kapote, Sam Ruffillo and Max NRG Supply. Next up: La Nube, Buenosaires on Sat 19 Sept.
 
@@ -27,4 +27,4 @@ Stump Valley is a house and disco artist tracked on soundcheck, with 74 sets log
 
 Kapote, Sam Ruffillo, Max NRG Supply
 
-*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/stumpvalley/)*
+*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/stumpvalley/)*

@@ -1,6 +1,6 @@
 # Bou (UK)
 
-Bou (UK) is a Drum & Bass and Jungle artist with 5 upcoming club dates listed on soundcheck as of Sun, 13 Sept 2026, next at NØMAD, Toronto on Fri, 18 Sept 2026.
+Bou (UK) is a Drum & Bass and Jungle artist with 5 upcoming club dates listed on soundcheck as of Mon, 14 Sept 2026, next at NØMAD, Toronto on Fri, 18 Sept 2026.
 
 Bou (UK) is a drum & bass and jungle artist tracked on soundcheck, with 88 sets logged across Amsterdam, Antwerp, Auckland and Austin and 35 more. Often billed alongside Andy C, Kanine and Turno. Next up: NØMAD, Toronto on Fri 18 Sept.
 
@@ -29,4 +29,4 @@ Bou (UK) is a drum & bass and jungle artist tracked on soundcheck, with 88 sets 
 
 Andy C, Kanine, Turno
 
-*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bouuk/)*
+*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bouuk/)*

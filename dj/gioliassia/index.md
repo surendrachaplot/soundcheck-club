@@ -1,13 +1,14 @@
 # Giolì & Assia
 
-Giolì & Assia is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Sun, 13 Sept 2026, next at Ritter Butzke, Berlin on Sat, 17 Oct 2026.
+Giolì & Assia is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Mon, 14 Sept 2026, next at Klein Phönix, Istanbul on Fri, 16 Oct 2026.
 
-Giolì & Assia are a techno and house duo tracked on soundcheck, with 77 sets logged across Amsterdam, Antwerp, Athens and Austin and 26 more. Often billed alongside Black Coffee, Nora En Pure and 8KAYS. Next up: Ritter Butzke, Berlin on Sat 17 Oct.
+Giolì & Assia are a techno and house duo tracked on soundcheck, with 78 sets logged across Amsterdam, Antwerp, Athens and Austin and 26 more. Often billed alongside Black Coffee, Nora En Pure and 8KAYS. Next up: Klein Phönix, Istanbul on Fri 16 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 16 Oct 2026 | Klein Phönix | Istanbul |
 | Sat, 17 Oct 2026 | Ritter Butzke | Berlin |
 | Sat, 24 Oct 2026 | WestWeelde | Amsterdam |
 | Fri, 20 Nov 2026 | Zumana Bali | Bali |
@@ -28,4 +29,4 @@ Giolì & Assia are a techno and house duo tracked on soundcheck, with 77 sets lo
 
 Black Coffee, Nora En Pure, 8KAYS
 
-*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/gioliassia/)*
+*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/gioliassia/)*

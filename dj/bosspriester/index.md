@@ -1,6 +1,6 @@
 # Boss Priester
 
-Boss Priester is a House and Tech House artist with 12 upcoming club dates listed on soundcheck as of Sun, 13 Sept 2026, next at UNO MALTA, Malta on Thu, 17 Sept 2026.
+Boss Priester is a House and Tech House artist with 12 upcoming club dates listed on soundcheck as of Mon, 14 Sept 2026, next at UNO MALTA, Malta on Thu, 17 Sept 2026.
 
 Boss Priester is a house and tech house artist tracked on soundcheck, with 104 sets logged across Amsterdam, Antwerp, Barcelona and Berlin and 15 more. Often billed alongside Michel de Hey, Benny Rodrigues and Hidde van Wee. Next up: UNO MALTA, Malta on Thu 17 Sept.
 
@@ -36,4 +36,4 @@ Boss Priester is a house and tech house artist tracked on soundcheck, with 104 s
 
 Michel de Hey, Benny Rodrigues, Hidde van Wee
 
-*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bosspriester/)*
+*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bosspriester/)*

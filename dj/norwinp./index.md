@@ -1,6 +1,6 @@
 # Norwin P.
 
-Norwin P. is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 13 Sept 2026, next at TBA - Secret Location, Berlin on Sat, 10 Oct 2026.
+Norwin P. is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 14 Sept 2026, next at TBA - Secret Location, Berlin on Sat, 10 Oct 2026.
 
 Norwin P. is a house and techno artist tracked on soundcheck, with 3 sets logged across Berlin and Nurnberg. Often billed alongside Annina, Cyko and Daniel Meister. Next up: TBA - Secret Location, Berlin on Sat 10 Oct.
 
@@ -19,4 +19,4 @@ Norwin P. is a house and techno artist tracked on soundcheck, with 3 sets logged
 
 Annina, Cyko, Daniel Meister
 
-*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/norwinp./)*
+*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/norwinp./)*

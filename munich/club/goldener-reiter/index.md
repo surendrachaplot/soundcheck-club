@@ -1,6 +1,6 @@
 # Goldener Reiter
 
-Goldener Reiter is a music venue in Munich with 12 upcoming nights listed on soundcheck as of Sun, 13 Sept 2026; the next is "Karaoke Bayern: Hoppala Anstich, afterwards: Dancekowski invites… Mastur Babe" on Fri, 18 Sept 2026.
+Goldener Reiter is a music venue in Munich with 12 upcoming nights listed on soundcheck as of Mon, 14 Sept 2026; the next is "Karaoke Bayern: Hoppala Anstich, afterwards: Dancekowski invites… Mastur Babe" on Fri, 18 Sept 2026.
 
 Goldener Reiter is a music venue in Munich listed on soundcheck. 12 upcoming nights, with line-ups including André Dancekowski, die_ley, DJ Business (2) and Lizzle and 1 more. Browse upcoming dates, start times and who's playing. Theklastraße 1 Munich, Germany 80469.
 
@@ -23,4 +23,4 @@ Goldener Reiter is a music venue in Munich listed on soundcheck. 12 upcoming nig
 
 Theklastraße 1 Munich, Germany 80469, Munich
 
-*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/munich/club/goldener-reiter/)*
+*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/munich/club/goldener-reiter/)*

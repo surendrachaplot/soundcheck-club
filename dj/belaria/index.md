@@ -1,6 +1,6 @@
 # Belaria
 
-Belaria is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sun, 13 Sept 2026, next at Macadam, Nantes on Sat, 19 Sept 2026.
+Belaria is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 14 Sept 2026, next at Macadam, Nantes on Sat, 19 Sept 2026.
 
 Belaria is a techno and house artist tracked on soundcheck, with 68 sets logged across Berlin, Brussels, Geneva and London and 10 more. Often billed alongside Kendal, Mézigue and Olympe4000. Next up: Macadam, Nantes on Sat 19 Sept.
 
@@ -25,4 +25,4 @@ Belaria is a techno and house artist tracked on soundcheck, with 68 sets logged 
 
 Kendal, Mézigue, Olympe4000
 
-*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/belaria/)*
+*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/belaria/)*

@@ -1,6 +1,6 @@
 # Nitzer Ebb
 
-Nitzer Ebb is a Industrial and New Wave artist with 1 upcoming club date listed on soundcheck as of Sun, 13 Sept 2026, next at The Ground at Club Space, Miami on Sat, 19 Sept 2026.
+Nitzer Ebb is a Industrial and New Wave artist with 1 upcoming club date listed on soundcheck as of Mon, 14 Sept 2026, next at The Ground at Club Space, Miami on Sat, 19 Sept 2026.
 
 Nitzer Ebb is an industrial and new wave artist tracked on soundcheck, with 17 sets logged across Austin, Berlin, Chicago and Detroit and 6 more. Often billed alongside Front 242, Depeche Mode and ECHO. Next up: The Ground at Club Space, Miami on Sat 19 Sept.
 
@@ -25,4 +25,4 @@ Nitzer Ebb is an industrial and new wave artist tracked on soundcheck, with 17 s
 
 Front 242, Depeche Mode, ECHO
 
-*Updated Sun, 13 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nitzerebb/)*
+*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nitzerebb/)*
