@@ -14,7 +14,7 @@ Dalston Den is a music venue in London listed on soundcheck. 11 upcoming nights,
 | Fri, 2 Oct 2026 | Breakaway: Free Entry Before 12am - Jungle / Drum & Bass | Agility, Blake (2), Bryn Brax, FENDI-K, Whatsname |
 | Fri, 9 Oct 2026 | Breakaway: Babe Gang Takeover - Free Entry Before 12am - Jungle / Drum & Bass |  |
 | Fri, 16 Oct 2026 | Breakaway: Free Entry Before 12am - Jungle / Drum & Bass |  |
-| Fri, 23 Oct 2026 | Jex on Dex presents: Rave in the Den |  |
+| Fri, 23 Oct 2026 | Jex on Dex presents: Last Dance in the Den |  |
 | Sat, 24 Oct 2026 | One Foot in the Rave - 3rd Birthday |  |
 | Fri, 6 Nov 2026 | Breakaway: Free Entry Before 12am - Jungle / Drum & Bass |  |
 | Fri, 13 Nov 2026 | Breakaway: Free Entry Before 12am - Jungle / Drum & Bass |  |

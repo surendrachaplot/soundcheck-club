@@ -1,14 +1,15 @@
 # Yoel Telyaz
 
-Yoel Telyaz is a Afro House and House artist with 2 upcoming club dates listed on soundcheck as of Mon, 14 Sept 2026, next at 77, London on Sat, 17 Oct 2026.
+Yoel Telyaz is a Afro House and House artist with 3 upcoming club dates listed on soundcheck as of Mon, 14 Sept 2026, next at 77, London on Sat, 17 Oct 2026.
 
-Yoel Telyaz is an afro house and house artist tracked on soundcheck, with 30 sets logged across Istanbul and London. Often billed alongside AliTR, Jezza and Teoman Çangır. Next up: 77, London on Sat 17 Oct.
+Yoel Telyaz is an afro house and house artist tracked on soundcheck, with 31 sets logged across Istanbul and London. Often billed alongside AliTR, Jezza and Teoman Çangır. Next up: 77, London on Sat 17 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 17 Oct 2026 | 77 | London |
+| Fri, 30 Oct 2026 | Paloma | London |
 | Sat, 14 Nov 2026 | 77 | London |
 
 ## Recently played

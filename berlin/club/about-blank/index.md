@@ -8,7 +8,7 @@
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 18 Sept 2026 | Antifa.Weiter.Machen. Soliparty | ALKARLINE, Carl Bergé, Eluzid, Julie Marghilano, MELATRONIX, Tactile, lisa tba |
+| Fri, 18 Sept 2026 | Antifa.Weiter.Machen. Soliparty | ALKARLINE, Carl Bergé, Eluzid, Julie Marghilano, K1KO, Lithium (2), MELATRONIX, Tactile, lisa tba |
 | Sat, 19 Sept 2026 | DUALISM with SPEEDBOYS LIVE, CARGO, YOVA | 5euroGoldi, Alex.Do, CARGO (DE), DJ Flink, DJ Zugzwang, Hanna Baertig, M4RY, Mareike Bautz, Nastaran, SPEEDBOYS, YOVA |
 | Sat, 19 Sept 2026 | Daytime department by tam ias (14-22 Uhr) | kluntje |
 | Fri, 25 Sept 2026 | Expeditions | Anna Haleta, Audio Units, BORGBORG, Bobaz Lobster, LISTORIO, maniaclina |

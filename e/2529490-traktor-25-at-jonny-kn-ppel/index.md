@@ -1,6 +1,6 @@
 # TRAKTOR 25 at Jonny Knüppel
 
-TRAKTOR 25 at Jonny Knüppel on Fri 18 Sept, Berlin. 10 acts on the bill: Allan, B. Clarke, Enzo Pietropaolo and Groove Daniel and 6 more. Techno and Disco. Preview the line-up and save it on soundcheck.
+TRAKTOR 25 at Jonny Knüppel on Fri 18 Sept, Berlin. 13 acts on the bill: Allan, Allan Strange, B. Clarke and DJ Freshfluke and 9 more. Techno and Disco. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,13 +11,16 @@ TRAKTOR 25 at Jonny Knüppel on Fri 18 Sept, Berlin. 10 acts on the bill: Allan,
 ## Line-up
 
 - Allan
+- Allan Strange
 - B. Clarke
+- DJ Freshfluke
 - Enzo Pietropaolo
 - Groove Daniel
 - hypnorex
 - Martin Yeddo
 - Nick Shepherd
 - S.I.D (US)
+- SiD
 - Sylwia
 - WolleXDP
 

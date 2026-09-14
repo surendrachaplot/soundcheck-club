@@ -1,6 +1,6 @@
 # EKLIPSE pres. Toobris at DETROIT CLUB
 
-EKLIPSE pres. Toobris at DETROIT CLUB on Sat 19 Sept, Barcelona. 2 acts on the bill: TBA and Toobris. Techno. Preview the line-up and save it on soundcheck.
+EKLIPSE pres. Toobris at DETROIT CLUB on Sat 19 Sept, Barcelona. 3 acts on the bill: Pärdo, TBA and Toobris. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ EKLIPSE pres. Toobris at DETROIT CLUB on Sat 19 Sept, Barcelona. 2 acts on the b
 
 ## Line-up
 
+- Pärdo
 - TBA
 - Toobris
 

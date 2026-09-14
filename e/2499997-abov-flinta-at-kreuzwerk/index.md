@@ -1,6 +1,6 @@
 # ABOV - FLINTA* at KREUZWERK
 
-ABOV - FLINTA* at KREUZWERK on Fri 18 Sept, Berlin. 3 acts on the bill: Franziska Lindholz, Hyperaktivist and Volvox. Techno. Preview the line-up and save it on soundcheck.
+ABOV - FLINTA* at KREUZWERK on Fri 18 Sept, Berlin. 4 acts on the bill: Amanda Mussi, Franziska Lindholz, Hyperaktivist and Volvox. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ ABOV - FLINTA* at KREUZWERK on Fri 18 Sept, Berlin. 3 acts on the bill: Franzisk
 
 ## Line-up
 
+- Amanda Mussi
 - Franziska Lindholz
 - Hyperaktivist
 - Volvox

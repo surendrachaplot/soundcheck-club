@@ -1,14 +1,14 @@
 # Colour Factory
 
-Colour Factory is a music venue in London with 24 upcoming nights listed on soundcheck as of Mon, 14 Sept 2026; the next is "COME UNITY: LONDON IN SOLIDARITY WITH COLOMBIA" on Thu, 17 Sept 2026.
+Colour Factory is a music venue in London with 25 upcoming nights listed on soundcheck as of Mon, 14 Sept 2026; the next is "COME UNITY: Quantic, Jamz Supernova, Florentino, Bonita, Slick N Bobby + +  " on Thu, 17 Sept 2026.
 
-Colour Factory is a music venue in London listed on soundcheck. 24 upcoming nights, with line-ups including Aeroplane, Alexander Robotnick, Alex Metric and Amancai and 2 more. Browse upcoming dates, start times and who's playing. 8 Queen's Yard, London E9 5EN.
+Colour Factory is a music venue in London listed on soundcheck. 25 upcoming nights, with line-ups including Aeroplane, Alexander Robotnick, Alex Metric and Amancai and 2 more. Browse upcoming dates, start times and who's playing. 8 Queen's Yard, London E9 5EN.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Thu, 17 Sept 2026 | COME UNITY: LONDON IN SOLIDARITY WITH COLOMBIA | Amancai, Bushbby, CXLI, Florentino, Hagan, Jamz Supernova, Quantic |
+| Thu, 17 Sept 2026 | COME UNITY: Quantic, Jamz Supernova, Florentino, Bonita, Slick N Bobby + +   | Amancai, Bushbby, CXLI, Florentino, Hagan, Jamz Supernova, Quantic |
 | Sat, 19 Sept 2026 | Bubbledee: House Music Haven in Hackney Wick at Colour Factory Loft | Andrea Giudice, Larry Cadge, Mono Dust_, Rick Sanders |
 | Sat, 19 Sept 2026 | Manga Saint Hillare presents IN THE DANCE | Amber Rose, Capo Lee, Freeza Chin, Kruz Leone, Logan_olm, Manga Saint Hilare, N3 (UA), Sahib |
 | Sat, 19 Sept 2026 | Soul System meets Broadway Sound - Raregroove, Street Soul ALL DAYER |  |

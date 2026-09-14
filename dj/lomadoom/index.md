@@ -1,14 +1,14 @@
 # Loma Doom
 
-Loma Doom is a Experimental and Electronica artist with 3 upcoming club dates listed on soundcheck as of Mon, 14 Sept 2026, next at TBA, Berlin on Sat, 19 Sept 2026.
+Loma Doom is a Experimental and Electronica artist with 3 upcoming club dates listed on soundcheck as of Mon, 14 Sept 2026, next at Teile2o46, Berlin on Sat, 19 Sept 2026.
 
-Loma Doom is an experimental and electronica artist based in Netherlands, tracked on soundcheck, with 43 sets logged across Amsterdam, Berlin, Bristol and Brussels and 11 more. Often billed alongside Cowper, Elena Colombi and Lupini. Next up: TBA, Berlin on Sat 19 Sept.
+Loma Doom is an experimental and electronica artist based in Netherlands, tracked on soundcheck, with 43 sets logged across Amsterdam, Berlin, Bristol and Brussels and 11 more. Often billed alongside Cowper, Elena Colombi and Lupini. Next up: Teile2o46, Berlin on Sat 19 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 19 Sept 2026 | TBA | Berlin |
+| Sat, 19 Sept 2026 | Teile2o46 | Berlin |
 | Thu, 24 Sept 2026 | Venues Across Glasgow | Glasgow |
 | Fri, 2 Oct 2026 | EXIT Glasgow | Glasgow |
 

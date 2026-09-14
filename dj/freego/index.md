@@ -1,13 +1,14 @@
 # FREEGO
 
-FREEGO is a Techno and Progressive House artist with 1 upcoming club date listed on soundcheck as of Mon, 14 Sept 2026, next at Club Baggerbeest, Amsterdam on Sun, 25 Oct 2026.
+FREEGO is a Techno and Progressive House artist with 2 upcoming club dates listed on soundcheck as of Mon, 14 Sept 2026, next at Matrix Club Berlin (Techno Stage), Berlin on Sat, 26 Sept 2026.
 
-FREEGO is a techno and progressive house artist based in Italy, tracked on soundcheck, with 38 sets logged across Amsterdam, Berlin and Frankfurt. Often billed alongside Zutri, WAN.1 and Ornery. Next up: Club Baggerbeest, Amsterdam on Sun 25 Oct.
+FREEGO is a techno and progressive house artist based in Italy, tracked on soundcheck, with 39 sets logged across Amsterdam, Berlin and Frankfurt. Often billed alongside Zutri, WAN.1 and Ornery. Next up: Matrix Club Berlin (Techno Stage), Berlin on Sat 26 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 26 Sept 2026 | Matrix Club Berlin (Techno Stage) | Berlin |
 | Sun, 25 Oct 2026 | Club Baggerbeest | Amsterdam |
 
 ## Recently played

@@ -1,8 +1,8 @@
 # KUSS
 
-KUSS is a Techno and Electro artist with 4 upcoming club dates listed on soundcheck as of Mon, 14 Sept 2026, next at RADION, Amsterdam on Fri, 25 Sept 2026.
+KUSS is a Techno and Electro artist with 5 upcoming club dates listed on soundcheck as of Mon, 14 Sept 2026, next at RADION, Amsterdam on Fri, 25 Sept 2026.
 
-KUSS is a techno and electro artist based in France, tracked on soundcheck, with 123 sets logged across Amsterdam, Athens, Berlin and Brussels and 25 more. Often billed alongside Koboyo, Sicion and Electric Rescue. Next up: RADION, Amsterdam on Fri 25 Sept.
+KUSS is a techno and electro artist based in France, tracked on soundcheck, with 124 sets logged across Amsterdam, Athens, Berlin and Brussels and 25 more. Often billed alongside Koboyo, Sicion and Electric Rescue. Next up: RADION, Amsterdam on Fri 25 Sept.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ KUSS is a techno and electro artist based in France, tracked on soundcheck, with
 | --- | --- | --- |
 | Fri, 25 Sept 2026 | RADION | Amsterdam |
 | Fri, 16 Oct 2026 | EXIL | Zurich |
+| Sat, 17 Oct 2026 | TBA - Fame Night Club Tampere | Helsinki |
 | Fri, 23 Oct 2026 | Hangaren | Copenhagen |
 | Sun, 8 Nov 2026 | BRET | Amsterdam |
 

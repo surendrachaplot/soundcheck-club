@@ -13,7 +13,7 @@ Night Tales is a music venue in London listed on soundcheck. 32 upcoming nights,
 | Sat, 19 Sept 2026 | Night Tales: 𝙁𝙍𝙀𝙀 𝘿𝙖𝙮 𝙋𝙖𝙧𝙩𝙮 |  |
 | Fri, 25 Sept 2026 | Night Tales: Fabio & Grooverider [All Night Long] | Fabio, Grooverider |
 | Sat, 26 Sept 2026 | Origins: Move D [All Night Long] | Move D |
-| Fri, 2 Oct 2026 | Night Tales: JACK MARLOW, SHUFFA & Sophia Violet  | JACK MARLOW, SHUFFA, Sophia Violet |
+| Fri, 2 Oct 2026 | Night Tales: JACK MARLOW, SHUFFA & Sophia Violet  | JACK MARLOW, SHUFFA, Sophia Violet, whoswill |
 | Sat, 3 Oct 2026 | Paraiso Disco: House, Disco, Classics |  |
 | Fri, 9 Oct 2026 | Night Tales: Luke Una & Make A Dance - The 'É Soul Cultura' Residency [4 Fridays In October] | Luke Una, Make A Dance |
 | Sat, 10 Oct 2026 | Night Tales: MUSCLECARS & Suze Ijó | MUSCLECARS, Suze Ijó |

@@ -1,6 +1,6 @@
-# Sounds Like London: Sippin' T  Lily London  Gracey at Ninety One
+# Sounds Like London: Sippin' T, Lily London, Gracey at Ninety One
 
-Sounds Like London: Sippin' T  Lily London  Gracey at Ninety One on Sat 3 Oct, London. 2 acts on the bill: Lily London and Sippin' T. Bass and Broken Beat. Preview the line-up and save it on soundcheck.
+Sounds Like London: Sippin' T, Lily London, Gracey at Ninety One on Sat 3 Oct, London. 2 acts on the bill: Lily London and Sippin' T. Bass and Broken Beat. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

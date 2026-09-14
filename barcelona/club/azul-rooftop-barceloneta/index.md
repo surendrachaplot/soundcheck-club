@@ -1,13 +1,14 @@
 # Azul Rooftop Barceloneta
 
-Azul Rooftop Barceloneta is a music venue in Barcelona with 1 upcoming night listed on soundcheck as of Mon, 14 Sept 2026; the next is "Sunset Rooftop Party - Barceloneta [Free Access]" on Sun, 20 Sept 2026.
+Azul Rooftop Barceloneta is a music venue in Barcelona with 2 upcoming nights listed on soundcheck as of Mon, 14 Sept 2026; the next is "Azul Sessions Rooftop 360° views over Barcelona" on Fri, 18 Sept 2026.
 
-Azul Rooftop Barceloneta is a music venue in Barcelona listed on soundcheck. 1 upcoming night, with line-ups including BERNOUT and Djoan. Browse upcoming dates, start times and who's playing. Pg. de Joan de Borbó, 101, planta 8, Ciutat Vella, 08038 Barcelona.
+Azul Rooftop Barceloneta is a music venue in Barcelona listed on soundcheck. 2 upcoming nights, with line-ups including BERNOUT, Djoan, Kev Williams and Liebig and 2 more. Browse upcoming dates, start times and who's playing. Pg. de Joan de Borbó, 101, planta 8, Ciutat Vella, 08038 Barcelona.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
+| Fri, 18 Sept 2026 | Azul Sessions Rooftop 360° views over Barcelona | Kev Williams, Liebig, SORIANO, VASAP |
 | Sun, 20 Sept 2026 | Sunset Rooftop Party - Barceloneta [Free Access] | BERNOUT, Djoan |
 
 ## Address

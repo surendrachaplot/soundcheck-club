@@ -12,7 +12,7 @@ Renate is a music venue in Berlin listed on soundcheck. 7 upcoming nights, with 
 | Sat, 19 Sept 2026 | Renate Klubnacht + Open Air (Free Entry) with Tecnica x Foggy x Silly Little Sunday Club | Elvin, IDA, Juana Valeria, Lenz, Lily Haz, Npoint_O, Octoptic, Retter (DE), Vaccaro, WD40 |
 | Fri, 25 Sept 2026 | Renate Klubnacht x Haram Night | Amowia, SXCL, saHHar |
 | Sat, 26 Sept 2026 | Renate Klubnacht + Open Air (Free Entry) | BBYG, Chaques, Cowper, D'Nice, DJ CHICHI, Hanna Baertig, Infamous Ali, Luke Blunton, Natalia Martinovna, sleeptwitch |
-| Sat, 3 Oct 2026 | Renate Free Open Air (TDC) + Klubnacht with Fairies & Fluid Vision |  |
+| Sat, 3 Oct 2026 | Renate Free Open Air (TDC) + Klubnacht with Fairies & Fluid Vision | Robin Flux, SENERGI, Tania Just, Tutti Frutti |
 | Fri, 16 Oct 2026 | 13 YRS Rebellion der Träumer* | Adri Tüde, Andreas Rauscher, Apolonia, Borella, Boskopp, Ciao 3lla, Corios, DJ Flink, DJ https, Daniel Neuland, Dela Nesto, EMJIE, Ele Luz, Elias Goldmund, FLAVE, GI.O, Haensen&Gretel, Hannes Turm, Horst Haller, J.WOCKENFUSS, Julio Paradise, Konfusia, Kos:mo, Kotelett, LAXBERGER, Lanka, Luko, MOOGLI (DE), Mareike Bautz, Maria Theresia von Eberg, Maurice Mino, Mira, Naicet, Powel, Rad.Lez, Sabura, Sahra Bass, Sandrino, Sarah Wild, Sin:port, Sinamin, The Bille, The Jakob Sister, Tobi Dei (DE), Viper, Wanda Wild, Yola Rennt, diladï, fraumuhlin, inda Flo, kluntje, lisa luka, nøvae, wilson.solidarity |
 | Thu, 29 Oct 2026 | House of Lunacy Halloween - The Danse Macabre |  |
 

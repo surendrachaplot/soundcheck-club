@@ -1,14 +1,15 @@
 # Rowan
 
-Rowan is a House and Minimal Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 14 Sept 2026, next at Stade Fontainieu, Marseille on Sat, 19 Sept 2026.
+Rowan is a Electronica and House artist with 2 upcoming club dates listed on soundcheck as of Mon, 14 Sept 2026, next at Stade Fontainieu, Marseille on Sat, 19 Sept 2026.
 
-Rowan is a house and minimal techno artist tracked on soundcheck, with 12 sets logged across Amsterdam, Barcelona, Berlin and London and 1 more. Often billed alongside Desyn, Faciendo Soundsystem and Tom Morgan. Next up: Stade Fontainieu, Marseille on Sat 19 Sept.
+Rowan is an electronica and house artist tracked on soundcheck, with 13 sets logged across Amsterdam, Barcelona, Berlin and London and 1 more. Often billed alongside Desyn, Faciendo Soundsystem and Tom Morgan. Next up: Stade Fontainieu, Marseille on Sat 19 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 19 Sept 2026 | Stade Fontainieu | Marseille |
+| Fri, 25 Sept 2026 | 90mil | Berlin |
 
 ## Recently played
 

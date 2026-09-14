@@ -1,8 +1,8 @@
 # Low Profile Studios
 
-Low Profile Studios is a music venue in London with 13 upcoming nights listed on soundcheck as of Mon, 14 Sept 2026; the next is "Slags on Sea - FLINTA Focussed Rave by Slagland" on Sat, 19 Sept 2026.
+Low Profile Studios is a music venue in London with 14 upcoming nights listed on soundcheck as of Mon, 14 Sept 2026; the next is "Slags on Sea - FLINTA Focussed Rave by Slagland" on Sat, 19 Sept 2026.
 
-Low Profile Studios is a music venue in London listed on soundcheck. 13 upcoming nights, with line-ups including Demetzy, IFFYHYPE, Jive Talk and Kris Baha and 2 more. Browse upcoming dates, start times and who's playing. 94 Vale Rd, Harringay Warehouse District, London N4 1PT.
+Low Profile Studios is a music venue in London listed on soundcheck. 14 upcoming nights, with line-ups including Demetzy, IFFYHYPE, Jive Talk and Kris Baha and 2 more. Browse upcoming dates, start times and who's playing. 94 Vale Rd, Harringay Warehouse District, London N4 1PT.
 
 ## What's on
 
@@ -17,7 +17,7 @@ Low Profile Studios is a music venue in London listed on soundcheck. 13 upcoming
 | Sat, 10 Oct 2026 | Undercurrent LDN 002 | Telomic |
 | Fri, 16 Oct 2026 | Ooh Luvleh |  |
 | Sat, 17 Oct 2026 | Don't Walk: Strut |  |
-| Fri, 30 Oct 2026 | Corefusion #008 | Demetzy, IFFYHYPE, Switch Back Smith |
+| Fri, 23 Oct 2026 | ONLY BY US: Skin x Skin x Skin |  |
 
 ## Address
 

@@ -9,7 +9,7 @@ Club Cheek is a music venue in London listed on soundcheck. 12 upcoming nights, 
 | Date | Night | Line-up |
 | --- | --- | --- |
 | Thu, 17 Sept 2026 | common room with Bianca Scout / NURSE / Mock Uncle / Seraph | Bianca Scout |
-| Fri, 18 Sept 2026 | HORSEPOWER | Fancy Shews, Ivy F, Joy Velas, Reenie (UK) |
+| Fri, 18 Sept 2026 | HORSEPOWER: Fancy Shews!, Ivy F, Joy, Reenie | Fancy Shews, Ivy F, Joy Velas, Reenie (UK) |
 | Sat, 19 Sept 2026 | Elevation presents: Bok Bok | Bok Bok, joey manzi, nath eps |
 | Sun, 20 Sept 2026 | Free Movements :: Equinox | Azu Tiwaline, Myako, Nkisi, dan nicholls |
 | Sun, 27 Sept 2026 | perspectives• | ANNX, Alicia (UK), Forest, Temple Rat, ena b. |
