@@ -1,14 +1,15 @@
 # jannah
 
-jannah is a Techno and Electro artist with 6 upcoming club dates listed on soundcheck as of Mon, 14 Sept 2026, next at Radio Radio, Amsterdam on Sat, 19 Sept 2026.
+jannah is a Techno and Electro artist with 7 upcoming club dates listed on soundcheck as of Mon, 14 Sept 2026, next at Radio Radio, Amsterdam on Sat, 19 Sept 2026.
 
-jannah is a techno and electro artist tracked on soundcheck, with 64 sets logged across Amsterdam, Rotterdam, Thehague and Utrecht. Often billed alongside David Vunk, Serge and Afra. Next up: Radio Radio, Amsterdam on Sat 19 Sept.
+jannah is a techno and electro artist tracked on soundcheck, with 65 sets logged across Amsterdam, Rotterdam, Thehague and Utrecht. Often billed alongside David Vunk, Serge and Afra. Next up: Radio Radio, Amsterdam on Sat 19 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 19 Sept 2026 | Radio Radio | Amsterdam |
+| Sat, 19 Sept 2026 | Koda | Rotterdam |
 | Sat, 26 Sept 2026 | Skatecafe | Amsterdam |
 | Sun, 4 Oct 2026 | Hito Scheveningen | The Hague |
 | Sat, 24 Oct 2026 | RADION | Amsterdam |

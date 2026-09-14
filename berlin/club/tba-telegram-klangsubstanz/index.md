@@ -8,6 +8,6 @@ TBA - telegram @klangsubstanz is a music venue in Berlin listed on soundcheck. 1
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 10 Oct 2026 | BUNKERRAVEBERLIN - KlangSubsTanz | 403 (DE), AHAB, ATIKIN, BERLIN, Better Call Paul, Einfach Taffo, Fading Franz, Francesco Rizzi, Fuunkt, HANNAHHANSEN, Jabuka, Laigonen Kanonen, Maltesar, Marc Eisenberg, Max Muth, Meakat, Mia Mangata, Stella Stellar, VITØ VITE, dlz (1), smeik |
+| Sat, 10 Oct 2026 | BUNKERRAVEBERLIN - KlangSubsTanz | 403 (DE), AHAB, ATIKIN, BERLIN, Better Call Paul, Einfach Taffo, Fading Franz, Francesco Rizzi, Fuunkt, HANNAHHANSEN, Jabuka, Laigonen Kanonen, Maltesar, Marc Eisenberg, Max Muth, Meakat, Mia Mangata, Stella Stellar, V (NYC), VITØ VITE, dlz (1), smeik |
 
 *Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/tba-telegram-klangsubstanz/)*

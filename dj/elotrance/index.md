@@ -1,8 +1,8 @@
 # Elotrance
 
-Elotrance is a Techno and Trance artist with 6 upcoming club dates listed on soundcheck as of Mon, 14 Sept 2026, next at Bootshaus, Cologne on Fri, 18 Sept 2026.
+Elotrance is a Techno and Trance artist with 7 upcoming club dates listed on soundcheck as of Mon, 14 Sept 2026, next at Bootshaus, Cologne on Fri, 18 Sept 2026.
 
-Elotrance is a techno and trance artist tracked on soundcheck, with 112 sets logged across Amsterdam, Basel, Berlin and Cologne and 17 more. Often billed alongside Justin Tinderdate, Cleopard2000 and Mika Heggemann. Next up: Bootshaus, Cologne on Fri 18 Sept.
+Elotrance is a techno and trance artist tracked on soundcheck, with 113 sets logged across Amsterdam, Basel, Berlin and Cologne and 17 more. Often billed alongside Justin Tinderdate, Cleopard2000 and Mika Heggemann. Next up: Bootshaus, Cologne on Fri 18 Sept.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Elotrance is a techno and trance artist tracked on soundcheck, with 112 sets log
 | --- | --- | --- |
 | Fri, 18 Sept 2026 | Bootshaus | Cologne |
 | Fri, 18 Sept 2026 | Bootshaus | Cologne |
+| Fri, 2 Oct 2026 | Renate | Berlin |
 | Sat, 3 Oct 2026 | OST | Berlin |
 | Fri, 9 Oct 2026 | Uebel & Gefährlich | Hamburg |
 | Fri, 20 Nov 2026 | Lokschuppen Berlin | Berlin |

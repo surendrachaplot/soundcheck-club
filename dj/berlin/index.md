@@ -2,7 +2,7 @@
 
 BERLIN is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Mon, 14 Sept 2026, next at KitKatClub, Berlin on Fri, 18 Sept 2026.
 
-BERLIN is a techno and house artist based in Japan, tracked on soundcheck, with 46 sets logged across Berlin, Hamburg, Montreal and Osaka and 2 more. Often billed alongside Laigonen Kanonen, Max Muth and V (NYC). Next up: KitKatClub, Berlin on Fri 18 Sept.
+BERLIN is a techno and house artist based in Japan, tracked on soundcheck, with 46 sets logged across Berlin, Hamburg, Montreal and Osaka and 2 more. Often billed alongside Laigonen Kanonen, V (NYC) and Max Muth. Next up: KitKatClub, Berlin on Fri 18 Sept.
 
 ## Upcoming shows
 
@@ -25,6 +25,6 @@ BERLIN is a techno and house artist based in Japan, tracked on soundcheck, with 
 
 ## Shares bills with
 
-Laigonen Kanonen, Max Muth, V (NYC)
+Laigonen Kanonen, V (NYC), Max Muth
 
 *Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/berlin/)*

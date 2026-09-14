@@ -4441,7 +4441,7 @@
   <!-- Umami analytics. defer so it never blocks first paint; the SPA rewrites
        history on navigation, which umami picks up automatically. -->
   <script defer src="https://cloud.umami.is/script.js" data-website-id="de210b6c-12e4-4819-95f6-f5120974855a"></script>
-<meta name="sc-build" content="1789386940724">
+<meta name="sc-build" content="1789388836431">
   <link rel="canonical" href="https://soundcheck.club/" />
   <meta property="og:image" content="https://api.soundcheck.club/api/og?v=2&t=soundcheck&s=Club%20nights%20%26%20DJ%20sets%20in%20104%20cities" />
 </head>
@@ -4500,7 +4500,7 @@
     <div class="grid" id="grid"></div>
     <!-- Per-city "what's on this week" date links, injected by build-club (canonical
          /<city>/<date>/ pages). Empty in the source; hidden on client-side city switch. -->
-    <section id="home-seo-more" class="home-seo-more" data-city="london"><h2>What&rsquo;s on in London this week</h2><ul class="home-seo-dates"><li><a href="/london/2026-09-14/">Mon 14 Sept <span class="c">4 events</span></a></li><li><a href="/london/2026-09-15/">Tue 15 Sept <span class="c">4 events</span></a></li><li><a href="/london/2026-09-16/">Wed 16 Sept <span class="c">17 events</span></a></li><li><a href="/london/2026-09-17/">Thu 17 Sept <span class="c">38 events</span></a></li><li><a href="/london/2026-09-18/">Fri 18 Sept <span class="c">102 events</span></a></li><li><a href="/london/2026-09-19/">Sat 19 Sept <span class="c">112 events</span></a></li><li><a href="/london/2026-09-20/">Sun 20 Sept <span class="c">25 events</span></a></li></ul><nav class="home-seo-nav" aria-label="More on soundcheck"><a href="/london/this-weekend/">This weekend in London</a> <a href="/london/scene/">London scene guide</a> <a href="/cities/">All 105 cities</a></nav></section>
+    <section id="home-seo-more" class="home-seo-more" data-city="london"><h2>What&rsquo;s on in London this week</h2><ul class="home-seo-dates"><li><a href="/london/2026-09-14/">Mon 14 Sept <span class="c">4 events</span></a></li><li><a href="/london/2026-09-15/">Tue 15 Sept <span class="c">4 events</span></a></li><li><a href="/london/2026-09-16/">Wed 16 Sept <span class="c">17 events</span></a></li><li><a href="/london/2026-09-17/">Thu 17 Sept <span class="c">38 events</span></a></li><li><a href="/london/2026-09-18/">Fri 18 Sept <span class="c">103 events</span></a></li><li><a href="/london/2026-09-19/">Sat 19 Sept <span class="c">112 events</span></a></li><li><a href="/london/2026-09-20/">Sun 20 Sept <span class="c">25 events</span></a></li></ul><nav class="home-seo-nav" aria-label="More on soundcheck"><a href="/london/this-weekend/">This weekend in London</a> <a href="/london/scene/">London scene guide</a> <a href="/cities/">All 105 cities</a></nav></section>
 
     <!-- Crawlable home content (H1 + intro) — moved to the bottom of the page. Still a real
          <h1> in the DOM so it's the page heading for SEO regardless of visual position.
@@ -11301,7 +11301,15 @@
         if(v.lat!=null && v.lng!=null){
           var locEl=document.getElementById('venue-loc');
           loadMapLib(function(){
-            var _rt=currentRoute(); if((_rt.indexOf('club/')!==0 && _rt.indexOf('v/')!==0) || !document.getElementById('venue-loc')) return;   // path-routed, not hash
+            // "Did they leave this venue page while the library loaded?" — asked of
+            // the map's own box, not the URL. This used to require the route to
+            // START with club/ or v/, written on 22 Jun when venue URLs were
+            // /club/<slug>/. They moved under the city (/london/club/fabric/), and
+            // currentRoute() now returns "" on a venue page — so the check bailed
+            // every time and the Location tab has shown an EMPTY box ever since,
+            // on Leaflet and after. A detached element is the real answer to the
+            // question, and it cannot go stale when URLs change again.
+            if(!locEl || !document.body.contains(locEl)) return;
             // Light basemap here, as before (positron is the same light look CARTO's
             // light_all had). This tab starts HIDDEN, so the map is created at zero
             // size — the tab switch calls _venueMap.resize() when it is revealed.
