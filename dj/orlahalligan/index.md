@@ -1,14 +1,15 @@
 # Orla Halligan
 
-Orla Halligan is a House and Garage artist with 2 upcoming club dates listed on soundcheck as of Mon, 14 Sept 2026, next at The Berkeley Suite, Glasgow on Tue, 15 Sept 2026.
+Orla Halligan is a House and Garage artist with 3 upcoming club dates listed on soundcheck as of Mon, 14 Sept 2026, next at The Berkeley Suite, Glasgow on Tue, 15 Sept 2026.
 
-Orla Halligan is a house and garage artist based in United Kingdom, tracked on soundcheck, with 43 sets logged across Edinburgh and Glasgow. Often billed alongside Loose E, Et Al (1) and Jenn Gunn (2). Next up: The Berkeley Suite, Glasgow on Tue 15 Sept.
+Orla Halligan is a house and garage artist based in United Kingdom, tracked on soundcheck, with 44 sets logged across Edinburgh and Glasgow. Often billed alongside Loose E, Et Al (1) and Jenn Gunn (2). Next up: The Berkeley Suite, Glasgow on Tue 15 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Tue, 15 Sept 2026 | The Berkeley Suite | Glasgow |
+| Sat, 19 Sept 2026 | Cabaret Voltaire | Edinburgh |
 | Fri, 9 Oct 2026 | SWG3 | Glasgow |
 
 ## Recently played

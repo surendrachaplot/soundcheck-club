@@ -1,13 +1,14 @@
 # Ouissam
 
-Ouissam is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Mon, 14 Sept 2026, next at TBA - Mantra Rooftop Bar & Lounge, Kuala Lumpur on Sat, 3 Oct 2026.
+Ouissam is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Mon, 14 Sept 2026, next at Somewhere in the Mountains., Bali on Fri, 25 Sept 2026.
 
-Ouissam is a house and techno artist tracked on soundcheck, with 61 sets logged across Athens, Bali, Bangkok and Berlin and 18 more. Often billed alongside Emel, Di Linh and Saint Guel. Next up: TBA - Mantra Rooftop Bar & Lounge, Kualalumpur on Sat 3 Oct.
+Ouissam is a house and techno artist tracked on soundcheck, with 62 sets logged across Athens, Bali, Bangkok and Berlin and 18 more. Often billed alongside Emel, Di Linh and Saint Guel. Next up: Somewhere in the Mountains., Bali on Fri 25 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 25 Sept 2026 | Somewhere in the Mountains. | Bali |
 | Sat, 3 Oct 2026 | TBA - Mantra Rooftop Bar & Lounge | Kuala Lumpur |
 | Sat, 17 Oct 2026 | Horn | Bangkok |
 

@@ -1,13 +1,14 @@
 # HugoBass303
 
-HugoBass303 is a Trance and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 14 Sept 2026, next at Südpol, Hamburg on Fri, 23 Oct 2026.
+HugoBass303 is a Trance and Techno artist with 2 upcoming club dates listed on soundcheck as of Mon, 14 Sept 2026, next at Artheater, Cologne on Sat, 26 Sept 2026.
 
-HugoBass303 is a trance and techno artist based in Germany, tracked on soundcheck, with 36 sets logged across Berlin, Cologne, Hamburg and Madrid and 1 more. Often billed alongside BabaBass3000, Atzendent and Rundfunk. Next up: Südpol, Hamburg on Fri 23 Oct.
+HugoBass303 is a trance and techno artist based in Germany, tracked on soundcheck, with 37 sets logged across Berlin, Cologne, Hamburg and Madrid and 1 more. Often billed alongside BabaBass3000, Atzendent and Rundfunk. Next up: Artheater, Cologne on Sat 26 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 26 Sept 2026 | Artheater | Cologne |
 | Fri, 23 Oct 2026 | Südpol | Hamburg |
 
 ## Recently played

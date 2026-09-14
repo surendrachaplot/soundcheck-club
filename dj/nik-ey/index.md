@@ -1,14 +1,15 @@
 # nik-ey
 
-nik-ey is a House and Electro artist with 2 upcoming club dates listed on soundcheck as of Mon, 14 Sept 2026, next at nachbar, Amsterdam on Sat, 19 Sept 2026.
+nik-ey is a House and Electro artist with 3 upcoming club dates listed on soundcheck as of Mon, 14 Sept 2026, next at nachbar, Amsterdam on Sat, 19 Sept 2026.
 
-nik-ey is a house and electro artist tracked on soundcheck, with 39 sets logged across Amsterdam, Barcelona, Rotterdam and Thehague. Often billed alongside Mees Mattern, Khun and Luis Ripa. Next up: nachbar, Amsterdam on Sat 19 Sept.
+nik-ey is a house and electro artist tracked on soundcheck, with 40 sets logged across Amsterdam, Barcelona, Rotterdam and Thehague. Often billed alongside Mees Mattern, Khun and Luis Ripa. Next up: nachbar, Amsterdam on Sat 19 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 19 Sept 2026 | nachbar | Amsterdam |
+| Thu, 24 Sept 2026 | Radio Radio | Amsterdam |
 | Fri, 16 Oct 2026 | Shelter Amsterdam | Amsterdam |
 
 ## Recently played

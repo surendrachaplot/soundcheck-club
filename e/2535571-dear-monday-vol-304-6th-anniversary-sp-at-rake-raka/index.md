@@ -1,6 +1,6 @@
 # DEAR MONDAY, vol.304 6th anniversary SP at rake?raka?
 
-DEAR MONDAY, vol.304 6th anniversary SP at rake?raka? on Mon 21 Sept, Osaka. 2 acts on the bill: HSC (1) and TENO. Techno and Minimal Techno. Preview the line-up and save it on soundcheck.
+DEAR MONDAY, vol.304 6th anniversary SP at rake?raka? on Mon 21 Sept, Osaka. 3 acts on the bill: Foodman, HSC (1) and TENO. Techno and Experimental. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ DEAR MONDAY, vol.304 6th anniversary SP at rake?raka? on Mon 21 Sept, Osaka. 2 a
 
 ## Line-up
 
+- Foodman
 - HSC (1)
 - TENO
 

@@ -1,8 +1,8 @@
 # TBA - Secret Location
 
-TBA - Secret Location is a music venue in London with 53 upcoming nights listed on soundcheck as of Mon, 14 Sept 2026; the next is "Sofar Sounds meets Reeperbahn Festival '26" on Wed, 16 Sept 2026.
+TBA - Secret Location is a music venue in London with 55 upcoming nights listed on soundcheck as of Mon, 14 Sept 2026; the next is "Sofar Sounds meets Reeperbahn Festival '26" on Wed, 16 Sept 2026.
 
-TBA - Secret Location is a music venue in London listed on soundcheck. 53 upcoming nights, with line-ups including .cosm, 7038634357, DJ JUANNY and Annina and 2 more. Browse upcoming dates, start times and who's playing.
+TBA - Secret Location is a music venue in London listed on soundcheck. 55 upcoming nights, with line-ups including .cosm, 7038634357, DJ JUANNY and Annina and 2 more. Browse upcoming dates, start times and who's playing.
 
 ## What's on
 

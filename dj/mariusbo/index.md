@@ -10,7 +10,7 @@ Marius Bø is a techno and trance artist tracked on soundcheck, with 58 sets log
 | --- | --- | --- |
 | Sat, 26 Sept 2026 | Gaffe | London |
 | Fri, 2 Oct 2026 | Lasociaciøn | Madrid |
-| Thu, 22 Oct 2026 | Ingang | Amsterdam |
+| Thu, 22 Oct 2026 | ingang | Amsterdam |
 
 ## Recently played
 

@@ -1,6 +1,6 @@
 # Locklead, Julian Anthony + more TBA at Quarters
 
-Locklead, Julian Anthony + more TBA at Quarters on Sat 21 Nov, Brighton. 2 acts on the bill: Julian Anthony and Locklead. House. Preview the line-up and save it on soundcheck.
+Locklead, Julian Anthony + more TBA at Quarters on Sat 21 Nov, Brighton. 3 acts on the bill: Julian Anthony, Locklead and Reeshy. House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -12,5 +12,6 @@ Locklead, Julian Anthony + more TBA at Quarters on Sat 21 Nov, Brighton. 2 acts 
 
 - Julian Anthony
 - Locklead
+- Reeshy
 
 *Source: [soundcheck](https://soundcheck.club/e/2518444-locklead-julian-anthony-more-tba-at-quarters/)*

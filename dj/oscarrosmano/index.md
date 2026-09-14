@@ -1,14 +1,15 @@
 # Oscar Rosmano
 
-Oscar Rosmano is a Minimal Techno and Progressive House artist with 1 upcoming club date listed on soundcheck as of Mon, 14 Sept 2026, next at TEMPLE, Lisbon on Sat, 26 Sept 2026.
+Oscar Rosmano is a Minimal Techno and Progressive House artist with 2 upcoming club dates listed on soundcheck as of Mon, 14 Sept 2026, next at TEMPLE, Lisbon on Sat, 26 Sept 2026.
 
-Oscar Rosmano is a minimal techno and progressive house artist tracked on soundcheck, with 36 sets logged across Lisbon. Often billed alongside Artemios Trigo, Anthony Pappa and Auriga. Next up: TEMPLE, Lisbon on Sat 26 Sept.
+Oscar Rosmano is a minimal techno and progressive house artist tracked on soundcheck, with 37 sets logged across Budapest and Lisbon. Often billed alongside Artemios Trigo, Anthony Pappa and Auriga. Next up: TEMPLE, Lisbon on Sat 26 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 26 Sept 2026 | TEMPLE | Lisbon |
+| Sat, 3 Oct 2026 | Akvárium Klub | Budapest |
 
 ## Recently played
 

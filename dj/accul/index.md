@@ -1,17 +1,18 @@
 # ACCUL
 
-ACCUL is a Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 14 Sept 2026, next at Fusion Club, Munster on Fri, 2 Oct 2026.
+ACCUL is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Mon, 14 Sept 2026, next at Fusion Club, Munster on Fri, 2 Oct 2026.
 
-ACCUL is a techno artist based in Germany, tracked on soundcheck, with 1 set logged across Munster. Often billed alongside Dennis Siemion. Next up: Fusion Club, Munster on Fri 2 Oct.
+ACCUL is a techno and house artist based in Germany, tracked on soundcheck, with 2 sets logged across Munster. Often billed alongside Ben Klock, Beste Hira and Dennis Siemion. Next up: Fusion Club, Munster on Fri 2 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 2 Oct 2026 | Fusion Club | Munster |
+| Sat, 31 Oct 2026 | Dockland | Munster |
 
 ## Shares bills with
 
-Dennis Siemion
+Ben Klock, Beste Hira, Dennis Siemion
 
 *Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/accul/)*

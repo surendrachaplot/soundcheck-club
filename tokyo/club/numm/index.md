@@ -1,8 +1,8 @@
 # Numm
 
-Numm is a music venue in Tokyo with 13 upcoming nights listed on soundcheck as of Mon, 14 Sept 2026; the next is "DOOPORA" on Wed, 16 Sept 2026.
+Numm is a music venue in Tokyo with 14 upcoming nights listed on soundcheck as of Mon, 14 Sept 2026; the next is "DOOPORA" on Wed, 16 Sept 2026.
 
-Numm is a music venue in Tokyo listed on soundcheck. 13 upcoming nights, with line-ups including CHIDA, Dazzle Drums, DNG (1) and Kentaro Takizawa and 2 more. Browse upcoming dates, start times and who's playing. B1F AiiA ANEX bld 2-9-13 Shibuya, Shibuya-ku, Tokyo-to 150-0002 Japan.
+Numm is a music venue in Tokyo listed on soundcheck. 14 upcoming nights, with line-ups including CHIDA, Dazzle Drums, DNG (1) and Kentaro Takizawa and 2 more. Browse upcoming dates, start times and who's playing. B1F AiiA ANEX bld 2-9-13 Shibuya, Shibuya-ku, Tokyo-to 150-0002 Japan.
 
 ## What's on
 

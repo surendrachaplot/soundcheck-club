@@ -1,13 +1,14 @@
 # Play Boston
 
-Play Boston is a music venue in Boston with 1 upcoming night listed on soundcheck as of Mon, 14 Sept 2026; the next is "LAST FRIDAY NIGHT (Y2K-2010's Throwbacks All Night Long!)" on Sat, 26 Sept 2026.
+Play Boston is a music venue in Boston with 2 upcoming nights listed on soundcheck as of Mon, 14 Sept 2026; the next is "F*CK MONDAYS Pt 3 (18+)" on Mon, 21 Sept 2026.
 
-Play Boston is a music venue in Boston listed on soundcheck. 1 upcoming night. Browse upcoming dates, start times and who's playing. 110 Causeway St, Boston, MA 02114.
+Play Boston is a music venue in Boston listed on soundcheck. 2 upcoming nights. Browse upcoming dates, start times and who's playing. 110 Causeway St, Boston, MA 02114.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
+| Mon, 21 Sept 2026 | F*CK MONDAYS Pt 3 (18+) |  |
 | Sat, 26 Sept 2026 | LAST FRIDAY NIGHT (Y2K-2010's Throwbacks All Night Long!) |  |
 
 ## Address

@@ -1,14 +1,15 @@
 # D Stone
 
-D Stone is a House and Tech House artist with 8 upcoming club dates listed on soundcheck as of Mon, 14 Sept 2026, next at The Cause, London on Fri, 18 Sept 2026.
+D Stone is a House and Tech House artist with 9 upcoming club dates listed on soundcheck as of Mon, 14 Sept 2026, next at The Cause, London on Fri, 18 Sept 2026.
 
-D Stone is a house and tech house artist tracked on soundcheck, with 114 sets logged across Amsterdam, Bali, Barcelona and Berlin and 17 more. Often billed alongside Benjamin Berg, Benny Rodrigues and Dam Swindle. Next up: The Cause, London on Fri 18 Sept.
+D Stone is a house and tech house artist tracked on soundcheck, with 115 sets logged across Amsterdam, Bali, Barcelona and Berlin and 17 more. Often billed alongside Benjamin Berg, Benny Rodrigues and Dam Swindle. Next up: The Cause, London on Fri 18 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 18 Sept 2026 | The Cause | London |
+| Sat, 19 Sept 2026 | Colorado Charlie | The Hague |
 | Fri, 25 Sept 2026 | La Java | Paris |
 | Fri, 9 Oct 2026 | Lofi | Amsterdam |
 | Thu, 22 Oct 2026 | WestWeelde | Amsterdam |

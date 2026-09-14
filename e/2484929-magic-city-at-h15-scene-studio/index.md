@@ -1,10 +1,10 @@
 # Magic City at H15 Scene & Studio
 
-Magic City at H15 Scene & Studio on Fri 16 Oct, Copenhagen. 1 act on the bill: Mokomizik. Disco and Club. Preview the line-up and save it on soundcheck.
+Magic City at H15 Scene & Studio on Sat 5 Dec, Copenhagen. 1 act on the bill: Mokomizik. Disco and Club. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
-| Date | Fri, 16 Oct 2026 |
+| Date | Sat, 5 Dec 2026 |
 | Venue | H15 Scene & Studio |
 | City | Copenhagen |
 

@@ -10,7 +10,7 @@ Kilomètre25 is a music venue in Paris listed on soundcheck. 12 upcoming nights,
 | --- | --- | --- |
 | Fri, 18 Sept 2026 | 2Much: Linds, ANDATA, Emilja | ANDATA, Linds, Orbi, Shoshanaaaaaaa, Stinny Stone |
 | Sat, 19 Sept 2026 | Organïk : IGDA, JO3Y3T, KIRSTY, VIDO & More | IGDA, KIRSTY, PEAKSOU, VIDO (2), VIDO (DE) |
-| Fri, 25 Sept 2026 | ACCIDENT THEORY: Young Marco, Bambounou, Axel Blanc | Axel Blanc, Bambounou, VANROOSE, Young Marco |
+| Fri, 25 Sept 2026 | ACCIDENT THEORY: Young Marco, Bambounou, Belaria | Axel Blanc, Bambounou, Belaria, VANROOSE, Young Marco |
 | Sat, 26 Sept 2026 | TIMIT: HAAi, Josh Caffé, Clarisa Kimskii, TEDESCO | Clarisa Kimskii, HAAi, Josh Caffé, TEDESCO |
 | Sat, 3 Oct 2026 | 23:59: EARGASM GOD, DBBD, Paralich, AREA ØNE | AREA ØNE, DBBD, EARGASM GOD, Paralich |
 | Sat, 3 Oct 2026 | 23:59 - AREA ØNE, EARGASM GOD, DBBD, Paralich, DJ RATZ, BORDER SISTERS | AREA ØNE, DBBD, EARGASM GOD, Paralich |

@@ -1,13 +1,14 @@
 # DURDENHAUER
 
-DURDENHAUER is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Mon, 14 Sept 2026, next at Yellow House, Amsterdam on Wed, 21 Oct 2026.
+DURDENHAUER is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Mon, 14 Sept 2026, next at Chinastraat, Ghent on Fri, 9 Oct 2026.
 
-DURDENHAUER is a techno and trance artist tracked on soundcheck, with 68 sets logged across Amsterdam, Antwerp, Berlin and Brussels and 19 more. Often billed alongside Fenrick, Carla Schmitt and DJ GUESTLIST. Next up: Yellow House, Amsterdam on Wed 21 Oct.
+DURDENHAUER is a techno and trance artist tracked on soundcheck, with 69 sets logged across Amsterdam, Antwerp, Berlin and Brussels and 19 more. Often billed alongside Fenrick, Carla Schmitt and DJ GUESTLIST. Next up: Chinastraat, Ghent on Fri 9 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 9 Oct 2026 | Chinastraat | Ghent |
 | Wed, 21 Oct 2026 | Yellow House | Amsterdam |
 
 ## Recently played

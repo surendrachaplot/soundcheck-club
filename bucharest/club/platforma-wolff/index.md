@@ -10,7 +10,7 @@ Platforma Wolff is a music venue in Bucharest listed on soundcheck. 5 upcoming n
 | --- | --- | --- |
 | Fri, 18 Sept 2026 | PW x SNRS • Dana Ruh, Andrei Ciubuc | Andrei Ciubuc, Dana Ruh |
 | Sat, 19 Sept 2026 | PW • DJ Fett Burger, Romansoff, TCFC | DJ Fett Burger, Romansoff, That Couch Funk Collective |
-| Sun, 20 Sept 2026 | PW x Crave • Crawler, Koler, Temar + Talk / Exhibition 'Exposed: Stills from a Nightout' | Temar |
+| Sun, 20 Sept 2026 | PW x Crave • Crawler, Koler, Temar + Talk / Exhibition | Temar |
 | Fri, 25 Sept 2026 | PW Season Closing Weekend • Giammarco Orsini (all night long) | Giammarco Orsini |
 | Sat, 26 Sept 2026 | PW Season Closing Weekend • Petre Inspirescu, Yone-Ko | Petre Inspirescu, Yone-Ko |
 

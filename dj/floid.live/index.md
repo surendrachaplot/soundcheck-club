@@ -9,7 +9,7 @@ Floid.live is an experimental and techno artist tracked on soundcheck, with 5 se
 | Date | Venue | City |
 | --- | --- | --- |
 | Thu, 22 Oct 2026 | Oude Kerk | Amsterdam |
-| Thu, 22 Oct 2026 | Ingang | Amsterdam |
+| Thu, 22 Oct 2026 | ingang | Amsterdam |
 
 ## Recently played
 

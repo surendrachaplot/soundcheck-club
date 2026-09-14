@@ -1,8 +1,8 @@
 # Phil Berg
 
-Phil Berg is a Techno and Club artist with 12 upcoming club dates listed on soundcheck as of Mon, 14 Sept 2026, next at TBA, Boston on Thu, 24 Sept 2026.
+Phil Berg is a Techno and Club artist with 13 upcoming club dates listed on soundcheck as of Mon, 14 Sept 2026, next at TBA, Boston on Thu, 24 Sept 2026.
 
-Phil Berg is a techno and club artist tracked on soundcheck, with 149 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 45 more. Often billed alongside Lobster (NL), future.666 and Grace Dahl. Next up: TBA, Boston on Thu 24 Sept.
+Phil Berg is a techno and club artist tracked on soundcheck, with 150 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 45 more. Often billed alongside Lobster (NL), future.666 and Grace Dahl. Next up: TBA, Boston on Thu 24 Sept.
 
 ## Upcoming shows
 
@@ -14,12 +14,12 @@ Phil Berg is a techno and club artist tracked on soundcheck, with 149 sets logge
 | Sat, 3 Oct 2026 | TBA | Toronto |
 | Sat, 10 Oct 2026 | Village Underground Lisboa | Lisbon |
 | Sat, 17 Oct 2026 | RSO.BERLIN | Berlin |
+| Wed, 21 Oct 2026 | Zwart Goud Record Store | Amsterdam |
 | Thu, 22 Oct 2026 | TILLATEC | Amsterdam |
 | Fri, 23 Oct 2026 | Blast Galaxy | Amsterdam |
 | Sat, 24 Oct 2026 | Bajes Amsterdam | Amsterdam |
 | Tue, 27 Oct 2026 | AUX Club | Athens |
 | Sat, 7 Nov 2026 | Concept Haus | Manchester |
-| Sat, 28 Nov 2026 | H2o6 | Riga |
 
 ## Recently played
 

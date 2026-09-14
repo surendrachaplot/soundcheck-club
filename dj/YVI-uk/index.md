@@ -1,8 +1,8 @@
 # YVI
 
-YVI is a Jungle and House artist with 3 upcoming club dates listed on soundcheck as of Mon, 14 Sept 2026, next at Cabaret Voltaire, Edinburgh on Mon, 14 Sept 2026.
+YVI is a Jungle and House artist with 4 upcoming club dates listed on soundcheck as of Mon, 14 Sept 2026, next at Cabaret Voltaire, Edinburgh on Mon, 14 Sept 2026.
 
-YVI is a jungle and house artist tracked on soundcheck, with 13 sets logged across Berlin, Edinburgh, Glasgow and London. Often billed alongside Mixfits (2), Dan Jakson and Janverse. Next up: Cabaret Voltaire, Edinburgh on Mon 14 Sept.
+YVI is a jungle and house artist tracked on soundcheck, with 14 sets logged across Berlin, Edinburgh, Glasgow and London. Often billed alongside Dan Jakson, Mixfits (2) and SINN3R. Next up: Cabaret Voltaire, Edinburgh on Mon 14 Sept.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ YVI is a jungle and house artist tracked on soundcheck, with 13 sets logged acro
 | --- | --- | --- |
 | Mon, 14 Sept 2026 | Cabaret Voltaire | Edinburgh |
 | Thu, 17 Sept 2026 | The Mash House | Edinburgh |
+| Sun, 20 Sept 2026 | Sneaky Pete's | Edinburgh |
 | Thu, 1 Oct 2026 | The Bongo Club | Edinburgh |
 
 ## Recently played
@@ -25,6 +26,6 @@ YVI is a jungle and house artist tracked on soundcheck, with 13 sets logged acro
 
 ## Shares bills with
 
-Mixfits (2), Dan Jakson, Janverse
+Dan Jakson, Mixfits (2), SINN3R
 
 *Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/YVI-uk/)*

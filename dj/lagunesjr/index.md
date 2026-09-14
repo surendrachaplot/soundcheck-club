@@ -1,14 +1,15 @@
 # Lagunes Jr
 
-Lagunes Jr is a Minimal and House artist with 1 upcoming club date listed on soundcheck as of Mon, 14 Sept 2026, next at Biás Vilerm, Mexico City on Tue, 15 Sept 2026.
+Lagunes Jr is a Minimal and House artist with 2 upcoming club dates listed on soundcheck as of Mon, 14 Sept 2026, next at Biás Vilerm, Mexico City on Tue, 15 Sept 2026.
 
-Lagunes Jr is a minimal and house artist tracked on soundcheck, with 5 sets logged across Mexicocity. Often billed alongside Ru.i, Sabliv and Blank. Next up: Biás Vilerm, Mexicocity on Tue 15 Sept.
+Lagunes Jr is a minimal and house artist tracked on soundcheck, with 6 sets logged across Mexicocity. Often billed alongside Ru.i, Sabliv and Blank. Next up: Biás Vilerm, Mexicocity on Tue 15 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Tue, 15 Sept 2026 | Biás Vilerm | Mexico City |
+| Tue, 15 Sept 2026 | M.N.Roy | Mexico City |
 
 ## Recently played
 

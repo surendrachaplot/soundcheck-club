@@ -1,13 +1,14 @@
 # indek
 
-indek is a IDM and Breakcore artist with 1 upcoming club date listed on soundcheck as of Mon, 14 Sept 2026, next at SB – Space Between, Nürnberg on Fri, 2 Oct 2026.
+indek is a Experimental and IDM artist with 2 upcoming club dates listed on soundcheck as of Mon, 14 Sept 2026, next at RAUM RESONANZ KÖRPER (RRK), Munich on Thu, 1 Oct 2026.
 
-indek is an idm and breakcore artist tracked on soundcheck, with 3 sets logged across Leeds, London and Nurnberg. Often billed alongside Ans M and Nixtrove. Next up: SB – Space Between, Nurnberg on Fri 2 Oct.
+indek is an experimental and idm artist tracked on soundcheck, with 4 sets logged across Leeds, London, Munich and Nurnberg. Often billed alongside Nixtrove and Ans M. Next up: RAUM RESONANZ KÖRPER (RRK), Munich on Thu 1 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Thu, 1 Oct 2026 | RAUM RESONANZ KÖRPER (RRK) | Munich |
 | Fri, 2 Oct 2026 | SB – Space Between | Nürnberg |
 
 ## Recently played
@@ -17,6 +18,6 @@ indek is an idm and breakcore artist tracked on soundcheck, with 3 sets logged a
 
 ## Shares bills with
 
-Ans M, Nixtrove
+Nixtrove, Ans M
 
 *Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/indek/)*

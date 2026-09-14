@@ -1,8 +1,8 @@
 # Nico Morano
 
-Nico Morano is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Mon, 14 Sept 2026, next at Wet Deck at W Hotel, Kuala Lumpur on Sat, 19 Sept 2026.
+Nico Morano is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Mon, 14 Sept 2026, next at Wet Deck at W Hotel, Kuala Lumpur on Sat, 19 Sept 2026.
 
-Nico Morano is a house and techno artist based in Belgium, tracked on soundcheck, with 72 sets logged across Amsterdam, Antwerp, Barcelona and Berlin and 20 more. Often billed alongside EMJIE, Bibi Seck and NTO. Next up: Wet Deck at W Hotel, Kualalumpur on Sat 19 Sept.
+Nico Morano is a house and techno artist based in Belgium, tracked on soundcheck, with 73 sets logged across Amsterdam, Antwerp, Barcelona and Berlin and 20 more. Often billed alongside EMJIE, Bibi Seck and NTO. Next up: Wet Deck at W Hotel, Kualalumpur on Sat 19 Sept.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ Nico Morano is a house and techno artist based in Belgium, tracked on soundcheck
 | Sat, 19 Sept 2026 | Wet Deck at W Hotel | Kuala Lumpur |
 | Sat, 31 Oct 2026 | Villa Blanca Lifestyle | Los Angeles |
 | Fri, 6 Nov 2026 | Do Not Sit On The Furniture | Miami |
+| Thu, 3 Dec 2026 | Do Not Sit On The Furniture | Miami |
 
 ## Recently played
 

@@ -1,0 +1,13 @@
+# TBA - secret loc parnitha
+
+TBA - secret loc parnitha is a music venue in Athens with 1 upcoming night listed on soundcheck as of Mon, 14 Sept 2026; the next is "Secret Rave - Parnitha (forrest)" on Sat, 19 Sept 2026.
+
+TBA - secret loc parnitha is a music venue in Athens listed on soundcheck. 1 upcoming night. Browse upcoming dates, start times and who's playing.
+
+## What's on
+
+| Date | Night | Line-up |
+| --- | --- | --- |
+| Sat, 19 Sept 2026 | Secret Rave - Parnitha (forrest) |  |
+
+*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/athens/club/tba-secret-loc-parnitha/)*

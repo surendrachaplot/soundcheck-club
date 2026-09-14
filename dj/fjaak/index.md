@@ -10,7 +10,7 @@ FJAAK is a techno and house artist tracked on soundcheck, with 261 sets logged a
 | --- | --- | --- |
 | Fri, 18 Sept 2026 | Bassiani | Tbilisi |
 | Sat, 19 Sept 2026 | Flux | Istanbul |
-| Thu, 24 Sept 2026 | TBA | Boston |
+| Thu, 24 Sept 2026 | Bsmnt | Boston |
 | Fri, 25 Sept 2026 | 131 Mccormack St | Toronto |
 | Fri, 25 Sept 2026 | TBA - NYC  | New York City |
 | Sun, 27 Sept 2026 | Nowadays | New York City |

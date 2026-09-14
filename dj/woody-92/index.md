@@ -11,7 +11,7 @@ Woody92 is a techno and experimental artist tracked on soundcheck, with 137 sets
 | Thu, 1 Oct 2026 | OIL Club | Shenzhen |
 | Fri, 2 Oct 2026 | TBA | Hong Kong |
 | Thu, 22 Oct 2026 | Oude Kerk | Amsterdam |
-| Thu, 22 Oct 2026 | Ingang | Amsterdam |
+| Thu, 22 Oct 2026 | ingang | Amsterdam |
 
 ## Recently played
 

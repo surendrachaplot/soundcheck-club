@@ -1,6 +1,6 @@
 # MRAK with Sedef Adasï at Drugstore Beograd
 
-MRAK with Sedef Adasï at Drugstore Beograd on Sat 10 Oct, Belgrade. 1 act on the bill: Sedef Adasï. Preview the line-up and save it on soundcheck.
+MRAK with Sedef Adasï at Drugstore Beograd on Sat 10 Oct, Belgrade. 4 acts on the bill: Filip Xavi, Sacha Mambo, Sedef Adasï and tsola. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,9 @@ MRAK with Sedef Adasï at Drugstore Beograd on Sat 10 Oct, Belgrade. 1 act on th
 
 ## Line-up
 
+- Filip Xavi
+- Sacha Mambo
 - Sedef Adasï
+- tsola
 
 *Source: [soundcheck](https://soundcheck.club/e/2532528-mrak-with-sedef-adas-at-drugstore-beograd/)*

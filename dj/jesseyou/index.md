@@ -1,15 +1,17 @@
 # Jesse You
 
-Jesse You is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Mon, 14 Sept 2026, next at Stoked&stoned, Seoul on Mon, 14 Sept 2026.
+Jesse You is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Mon, 14 Sept 2026, next at Stoked&stoned, Seoul on Mon, 14 Sept 2026.
 
-Jesse You is a house and techno artist based in South Korea, tracked on soundcheck, with 223 sets logged across Bali, Bangkok, Barcelona and Frankfurt and 10 more. Often billed alongside JNS, Jucid and Acidwork. Next up: Stoked&stoned, Seoul on Mon 14 Sept.
+Jesse You is a house and techno artist based in South Korea, tracked on soundcheck, with 225 sets logged across Bali, Bangkok, Barcelona and Frankfurt and 10 more. Often billed alongside JNS, Jucid and Acidwork. Next up: Stoked&stoned, Seoul on Mon 14 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Mon, 14 Sept 2026 | Stoked&stoned | Seoul |
+| Thu, 17 Sept 2026 | Stoked&stoned | Seoul |
 | Fri, 18 Sept 2026 | Hertz | Seoul |
+| Sat, 19 Sept 2026 | Modeci | Seoul |
 
 ## Recently played
 

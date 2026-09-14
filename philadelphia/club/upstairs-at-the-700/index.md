@@ -11,7 +11,7 @@ Upstairs at the 700 is a music venue in Philadelphia listed on soundcheck. 5 upc
 | Sat, 19 Sept 2026 | [KEEP FEELING] FASCINATION |  |
 | Thu, 24 Sept 2026 | EAST COAST POWER DYNAMICS CABS PREPARTY WSG PLAGUELUSTRE | Mike Textbeak |
 | Thu, 1 Oct 2026 | Convergence | El-D (USA), Headnod, soundsofgreg |
-| Thu, 29 Oct 2026 | EAST COAST POWER DYNAMICS HELLRAISER HELLOWEEN |  |
+| Thu, 29 Oct 2026 | EAST COAST POWER DYNAMICS HELLRAISER HELLOWEEN WSG ACID VULTURE |  |
 | Fri, 27 Nov 2026 | EAST COAST POWER DYNAMICS THROBBING GRISTLE THANKSGIVING WSG TELEVISION GORE |  |
 
 ## Address

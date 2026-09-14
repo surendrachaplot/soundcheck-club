@@ -1,14 +1,15 @@
 # Zeemen
 
-Zeemen is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Mon, 14 Sept 2026, next at Stoked&stoned, Seoul on Mon, 14 Sept 2026.
+Zeemen is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Mon, 14 Sept 2026, next at Stoked&stoned, Seoul on Mon, 14 Sept 2026.
 
-Zeemen is a techno and house artist based in South Korea, tracked on soundcheck, with 94 sets logged across Seoul. Often billed alongside Kim.Qna, Minjoon and Xanexx. Next up: Stoked&stoned, Seoul on Mon 14 Sept.
+Zeemen is a techno and house artist based in South Korea, tracked on soundcheck, with 95 sets logged across Seoul. Often billed alongside Kim.Qna, Minjoon and Xanexx. Next up: Stoked&stoned, Seoul on Mon 14 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Mon, 14 Sept 2026 | Stoked&stoned | Seoul |
+| Thu, 17 Sept 2026 | Stoked&stoned | Seoul |
 | Fri, 18 Sept 2026 | vurt. | Seoul |
 
 ## Recently played

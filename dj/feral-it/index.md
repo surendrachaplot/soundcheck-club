@@ -11,7 +11,7 @@ Feral is a techno and trance artist tracked on soundcheck, with 73 sets logged a
 | Fri, 18 Sept 2026 | Gaffe | London |
 | Sat, 19 Sept 2026 | TBA | Rome |
 | Sat, 26 Sept 2026 | Razzmatazz | Barcelona |
-| Thu, 22 Oct 2026 | Ingang | Amsterdam |
+| Thu, 22 Oct 2026 | ingang | Amsterdam |
 | Fri, 30 Oct 2026 | The Bassement | Madrid |
 
 ## Recently played

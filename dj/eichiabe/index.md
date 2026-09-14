@@ -1,8 +1,8 @@
 # Eichi Abe
 
-Eichi Abe is a Techno and Electronica artist with 3 upcoming club dates listed on soundcheck as of Mon, 14 Sept 2026, next at Enter Shibuya, Tokyo on Fri, 18 Sept 2026.
+Eichi Abe is a Techno and Electronica artist with 4 upcoming club dates listed on soundcheck as of Mon, 14 Sept 2026, next at Enter Shibuya, Tokyo on Fri, 18 Sept 2026.
 
-Eichi Abe is a techno and electronica artist based in Japan, tracked on soundcheck, with 104 sets logged across Hongkong, Kualalumpur, Kyoto and Osaka and 4 more. Often billed alongside JUN INAGAWA, ecec and WAGAHAI IS NEKO. Next up: Enter Shibuya, Tokyo on Fri 18 Sept.
+Eichi Abe is a techno and electronica artist based in Japan, tracked on soundcheck, with 105 sets logged across Hongkong, Kualalumpur, Kyoto and Osaka and 4 more. Often billed alongside JUN INAGAWA, ecec and WAGAHAI IS NEKO. Next up: Enter Shibuya, Tokyo on Fri 18 Sept.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ Eichi Abe is a techno and electronica artist based in Japan, tracked on soundche
 | Fri, 18 Sept 2026 | Enter Shibuya | Tokyo |
 | Fri, 25 Sept 2026 | Azumaya | Tokyo |
 | Fri, 9 Oct 2026 | Circus Tokyo | Tokyo |
+| Sun, 11 Oct 2026 | VENT | Tokyo |
 
 ## Recently played
 

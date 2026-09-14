@@ -1,8 +1,8 @@
 # Gerd Janson
 
-Gerd Janson is a House and Techno artist with 11 upcoming club dates listed on soundcheck as of Mon, 14 Sept 2026, next at Gewölbe, Cologne on Fri, 18 Sept 2026.
+Gerd Janson is a House and Techno artist with 12 upcoming club dates listed on soundcheck as of Mon, 14 Sept 2026, next at Gewölbe, Cologne on Fri, 18 Sept 2026.
 
-Gerd Janson is a house and techno artist tracked on soundcheck, with 301 sets logged across Amsterdam, Antwerp, Athens and Austin and 67 more. Often billed alongside Marcel Dettmann, DJ Tennis and Âme. Next up: Gewölbe, Cologne on Fri 18 Sept.
+Gerd Janson is a house and techno artist tracked on soundcheck, with 302 sets logged across Amsterdam, Antwerp, Athens and Austin and 68 more. Often billed alongside Marcel Dettmann, DJ Tennis and Âme. Next up: Gewölbe, Cologne on Fri 18 Sept.
 
 ## Upcoming shows
 
@@ -14,6 +14,7 @@ Gerd Janson is a house and techno artist tracked on soundcheck, with 301 sets lo
 | Thu, 22 Oct 2026 | WestWeelde | Amsterdam |
 | Sat, 24 Oct 2026 | RAWFACTORY | Amsterdam |
 | Sat, 31 Oct 2026 | Berghain / Panorama Bar / Säule | Berlin |
+| Sat, 31 Oct 2026 | Dockland | Munster |
 | Sat, 7 Nov 2026 | Depot Mayfield | Manchester |
 | Fri, 20 Nov 2026 | Oxford Art Factory | Sydney |
 | Sat, 21 Nov 2026 | TBA | Melbourne |

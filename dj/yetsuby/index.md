@@ -1,13 +1,14 @@
 # Yetsuby
 
-Yetsuby is a Bass and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 14 Sept 2026, next at Cakeshop, Seoul on Sat, 19 Sept 2026.
+Yetsuby is a Bass and Techno artist with 2 upcoming club dates listed on soundcheck as of Mon, 14 Sept 2026, next at Modeci, Seoul on Fri, 18 Sept 2026.
 
-Yetsuby is a bass and techno artist tracked on soundcheck, with 90 sets logged across Berlin, Hongkong, Kyoto and London and 3 more. Often billed alongside Arexibo, KISEWA and Hyejin. Next up: Cakeshop, Seoul on Sat 19 Sept.
+Yetsuby is a bass and techno artist tracked on soundcheck, with 91 sets logged across Berlin, Hongkong, Kyoto and London and 3 more. Often billed alongside Arexibo, KISEWA and Hyejin. Next up: Modeci, Seoul on Fri 18 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 18 Sept 2026 | Modeci | Seoul |
 | Sat, 19 Sept 2026 | Cakeshop | Seoul |
 
 ## Recently played

@@ -1,14 +1,15 @@
 # 88 MPH
 
-88 MPH is a Techno and Hardcore artist with 1 upcoming club date listed on soundcheck as of Mon, 14 Sept 2026, next at TBA - Downtown, Toronto on Fri, 18 Sept 2026.
+88 MPH is a Techno and Hardcore artist with 2 upcoming club dates listed on soundcheck as of Mon, 14 Sept 2026, next at TBA - Downtown, Toronto on Fri, 18 Sept 2026.
 
-88 MPH is a techno and hardcore artist based in Canada, tracked on soundcheck, with 9 sets logged across Detroit and Toronto. Often billed alongside Austin Buck, Instead of Seven and J Æ G Ü A R. Next up: TBA - Downtown, Toronto on Fri 18 Sept.
+88 MPH is a techno and hardcore artist based in Canada, tracked on soundcheck, with 10 sets logged across Detroit and Toronto. Often billed alongside Austin Buck, Instead of Seven and J Æ G Ü A R. Next up: TBA - Downtown, Toronto on Fri 18 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 18 Sept 2026 | TBA - Downtown | Toronto |
+| Fri, 25 Sept 2026 | TBA | Detroit |
 
 ## Recently played
 

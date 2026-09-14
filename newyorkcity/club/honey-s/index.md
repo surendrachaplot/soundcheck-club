@@ -9,7 +9,7 @@ Honey's is a music venue in Newyorkcity listed on soundcheck. 5 upcoming nights,
 | Date | Night | Line-up |
 | --- | --- | --- |
 | Fri, 18 Sept 2026 | Everlit | Kardnl |
-| Fri, 18 Sept 2026 |     NYFW LIVE FASHION × UNDERGROUND SOUND — SOUND / FORM | Chamberlain Zhang, Elladotnet, Sploofi |
+| Fri, 18 Sept 2026 |     NYFW LIVE FASHION SHOW × UNDERGROUND SOUND — SOUND / FORM | Chamberlain Zhang, Elladotnet, Sploofi |
 | Sat, 26 Sept 2026 | Stop1 | Aria Pash, Iggy Nuclear, Kettle, MIARISUA, Nick Boyd, Rila, S'aint Panic, Terra Magra |
 | Thu, 1 Oct 2026 | sinuous sound | PUFF, Preacher's Daughter, senoritajuicy |
 | Fri, 9 Oct 2026 | VHS: Heavenly Delusion | DJ girlcrush, HELIX (NYC), J.N.R., KYRUH, Samuel Pojer, Synestesia, Touch Base, ceviché, vivaval, zoro! |

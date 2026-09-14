@@ -1,13 +1,14 @@
 # YELLOWUHURU
 
-YELLOWUHURU is a House and Techno artist with 6 upcoming club dates listed on soundcheck as of Mon, 14 Sept 2026, next at Club Metro, Kyoto on Mon, 21 Sept 2026.
+YELLOWUHURU is a House and Techno artist with 7 upcoming club dates listed on soundcheck as of Mon, 14 Sept 2026, next at Red Bar, Tokyo on Thu, 17 Sept 2026.
 
-YELLOWUHURU is a house and techno artist tracked on soundcheck, with 197 sets logged across Bangkok, Berlin, Hongkong and Kyoto and 5 more. Often billed alongside suimin, YAMARCHY and bungo. Next up: Club Metro, Kyoto on Mon 21 Sept.
+YELLOWUHURU is a house and techno artist tracked on soundcheck, with 198 sets logged across Bangkok, Berlin, Hongkong and Kyoto and 5 more. Often billed alongside suimin, YAMARCHY and bungo. Next up: Red Bar, Tokyo on Thu 17 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Thu, 17 Sept 2026 | Red Bar | Tokyo |
 | Mon, 21 Sept 2026 | Club Metro | Kyoto |
 | Wed, 23 Sept 2026 | DJ Bar Bridge Shinjuku | Tokyo |
 | Thu, 24 Sept 2026 | clubasia | Tokyo |

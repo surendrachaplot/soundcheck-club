@@ -1,14 +1,15 @@
 # Deventi
 
-Deventi is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Mon, 14 Sept 2026, next at The DBA, Manchester on Fri, 18 Sept 2026.
+Deventi is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Mon, 14 Sept 2026, next at The DBA, Manchester on Fri, 18 Sept 2026.
 
-Deventi is a techno and house artist based in United Kingdom, tracked on soundcheck, with 67 sets logged across Berlin, Leeds, London and Manchester and 1 more. Often billed alongside Connor (UK), Egui and Danny Roach. Next up: The DBA, Manchester on Fri 18 Sept.
+Deventi is a techno and house artist based in United Kingdom, tracked on soundcheck, with 68 sets logged across Berlin, Leeds, London and Manchester and 1 more. Often billed alongside Connor (UK), Egui and Danny Roach. Next up: The DBA, Manchester on Fri 18 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 18 Sept 2026 | The DBA | Manchester |
+| Sat, 19 Sept 2026 | The DBA | Manchester |
 | Sat, 26 Sept 2026 | Honey Street Studio | Manchester |
 | Thu, 1 Oct 2026 | The White Hotel | Manchester |
 | Sat, 3 Oct 2026 | The DBA | Manchester |

@@ -1,8 +1,8 @@
 # Sven Vath
 
-Sven Vath is a Techno and House artist with 11 upcoming club dates listed on soundcheck as of Mon, 14 Sept 2026, next at IFEMA, Madrid on Fri, 18 Sept 2026.
+Sven Vath is a Techno and House artist with 12 upcoming club dates listed on soundcheck as of Mon, 14 Sept 2026, next at IFEMA, Madrid on Fri, 18 Sept 2026.
 
-Sven Vath is a techno and house artist tracked on soundcheck, with 216 sets logged across Amsterdam, Antwerp, Athens and Bali and 47 more. Often billed alongside Maurizio Schmitz, Richie Hawtin and Dana Ruh. Next up: IFEMA, Madrid on Fri 18 Sept.
+Sven Vath is a techno and house artist tracked on soundcheck, with 217 sets logged across Amsterdam, Antwerp, Athens and Bali and 47 more. Often billed alongside Maurizio Schmitz, Richie Hawtin and Dana Ruh. Next up: IFEMA, Madrid on Fri 18 Sept.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ Sven Vath is a techno and house artist tracked on soundcheck, with 216 sets logg
 | Fri, 18 Sept 2026 | IFEMA | Madrid |
 | Sat, 19 Sept 2026 | The Bassement | Madrid |
 | Wed, 23 Sept 2026 | 528 Ibiza | Ibiza |
+| Sat, 26 Sept 2026 | Audio Club | Geneva |
 | Sun, 27 Sept 2026 | Hola Club Sitges (Cala Vallcarca) | Barcelona |
 | Thu, 1 Oct 2026 | Akasha Las Dalias Club - Ibiza | Ibiza |
 | Fri, 23 Oct 2026 | Grelle Forelle | Vienna |

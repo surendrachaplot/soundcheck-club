@@ -1,6 +1,6 @@
-# Reeperbahn Festival – Track-ID x JUICY GANG RECORDS with NEWINFLUENCER b2b DJ MELL G at Uebel & Gefährlich
+# Reeperbahn Festival – Track-ID x JUICY GANG RECORDS with NEWINFLUENZER b2b DJ MELL G at Uebel & Gefährlich
 
-Reeperbahn Festival – Track-ID x JUICY GANG RECORDS with NEWINFLUENCER b2b DJ MELL G at Uebel & Gefährlich on Fri 18 Sept, Hamburg. 2 acts on the bill: DJ MELL G and Newinfluenzer. Preview the line-up and save it on soundcheck.
+Reeperbahn Festival – Track-ID x JUICY GANG RECORDS with NEWINFLUENZER b2b DJ MELL G at Uebel & Gefährlich on Fri 18 Sept, Hamburg. 2 acts on the bill: DJ MELL G and Newinfluenzer. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

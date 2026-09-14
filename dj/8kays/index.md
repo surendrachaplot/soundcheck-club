@@ -1,14 +1,15 @@
 # 8KAYS
 
-8KAYS is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Mon, 14 Sept 2026, next at Maitland Showground, Sydney on Fri, 25 Sept 2026.
+8KAYS is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Mon, 14 Sept 2026, next at Maitland Showground, Sydney on Fri, 25 Sept 2026.
 
-8KAYS is a techno and house artist tracked on soundcheck, with 82 sets logged across Amsterdam, Austin, Barcelona and Basel and 33 more. Often billed alongside Miss Monique, Tale Of Us and Kevin de Vries. Next up: Maitland Showground, Sydney on Fri 25 Sept.
+8KAYS is a techno and house artist tracked on soundcheck, with 83 sets logged across Amsterdam, Austin, Barcelona and Basel and 33 more. Often billed alongside Miss Monique, Tale Of Us and Kevin de Vries. Next up: Maitland Showground, Sydney on Fri 25 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 25 Sept 2026 | Maitland Showground | Sydney |
+| Wed, 21 Oct 2026 | Supperclub | Amsterdam |
 | Fri, 23 Oct 2026 | E1 | London |
 
 ## Recently played

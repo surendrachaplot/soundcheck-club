@@ -1,8 +1,8 @@
 # Good Room
 
-Good Room is a music venue in New York City with 12 upcoming nights listed on soundcheck as of Mon, 14 Sept 2026; the next is "Eli Escobar (all night), Eternal Love (all night)" on Fri, 18 Sept 2026.
+Good Room is a music venue in New York City with 13 upcoming nights listed on soundcheck as of Mon, 14 Sept 2026; the next is "Eli Escobar (all night), Eternal Love (all night)" on Fri, 18 Sept 2026.
 
-Good Room is a music venue in Newyorkcity listed on soundcheck. 12 upcoming nights, with line-ups including Adrian Hex, A lana, Arina Krondeva and Clarisa Kimskii and 2 more. Browse upcoming dates, start times and who's playing. 98 Meserole Ave, Brooklyn, NY 11222 USA.
+Good Room is a music venue in Newyorkcity listed on soundcheck. 13 upcoming nights, with line-ups including Adrian Hex, A lana, Arina Krondeva and Clarisa Kimskii and 2 more. Browse upcoming dates, start times and who's playing. 98 Meserole Ave, Brooklyn, NY 11222 USA.
 
 ## What's on
 
@@ -16,8 +16,8 @@ Good Room is a music venue in Newyorkcity listed on soundcheck. 12 upcoming nigh
 | Thu, 1 Oct 2026 | DJ Plead, rrao | DJ Plead, rrao |
 | Fri, 2 Oct 2026 | Fundido ft Emma Dufaux, Gianna, Dam Vera | Fundido, Gianna G |
 | Fri, 9 Oct 2026 | RA25: New York City |  |
+| Sat, 10 Oct 2026 | Stuntsz |  |
 | Sat, 24 Oct 2026 | FIXED with Mozhgan, JDH & Dave P, Universal Cave (all night) | JDH & Dave P, Mozhgan, Universal Cave |
-| Fri, 30 Oct 2026 | Synthicide Halloween ft Terence Fixmer, Andi, Justin Aulis Long, Stiffdance | Andi, Justin Aulis Long, Stiffdance, Terence Fixmer |
 
 ## Address
 

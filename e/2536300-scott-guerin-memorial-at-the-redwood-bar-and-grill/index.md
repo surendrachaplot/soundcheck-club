@@ -1,0 +1,11 @@
+# Scott Guerin Memorial at The Redwood Bar And Grill
+
+Scott Guerin Memorial at The Redwood Bar And Grill on Sun 11 Oct, Losangeles. Preview the line-up and save it on soundcheck.
+
+| Field | Value |
+| --- | --- |
+| Date | Sun, 11 Oct 2026 |
+| Venue | The Redwood Bar And Grill |
+| City | Los Angeles |
+
+*Source: [soundcheck](https://soundcheck.club/e/2536300-scott-guerin-memorial-at-the-redwood-bar-and-grill/)*

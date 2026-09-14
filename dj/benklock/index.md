@@ -1,8 +1,8 @@
 # Ben Klock
 
-Ben Klock is a Techno and House artist with 11 upcoming club dates listed on soundcheck as of Mon, 14 Sept 2026, next at Fiducial Asteria, Lyon on Sat, 19 Sept 2026.
+Ben Klock is a Techno and House artist with 12 upcoming club dates listed on soundcheck as of Mon, 14 Sept 2026, next at Fiducial Asteria, Lyon on Sat, 19 Sept 2026.
 
-Ben Klock is a techno and house artist tracked on soundcheck, with 256 sets logged across Amsterdam, Athens, Bangkok and Barcelona and 56 more. Often billed alongside Marcel Dettmann, Fadi Mohem and Rødhåd. Next up: Fiducial Asteria, Lyon on Sat 19 Sept.
+Ben Klock is a techno and house artist tracked on soundcheck, with 257 sets logged across Amsterdam, Athens, Bangkok and Barcelona and 57 more. Often billed alongside Marcel Dettmann, Fadi Mohem and Rødhåd. Next up: Fiducial Asteria, Lyon on Sat 19 Sept.
 
 ## Upcoming shows
 
@@ -15,6 +15,7 @@ Ben Klock is a techno and house artist tracked on soundcheck, with 256 sets logg
 | Wed, 30 Sept 2026 | Fvtvr | Paris |
 | Sat, 10 Oct 2026 | Berghain / Panorama Bar / Säule | Berlin |
 | Wed, 21 Oct 2026 | TILLATEC | Amsterdam |
+| Sat, 31 Oct 2026 | Dockland | Munster |
 | Sat, 7 Nov 2026 | Universe Athens | Athens |
 | Sat, 14 Nov 2026 | Fuse | Brussels |
 | Sat, 5 Dec 2026 | fabric | London |

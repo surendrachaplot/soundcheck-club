@@ -16,7 +16,7 @@ Macadam is a music venue in Nantes listed on soundcheck. 11 upcoming nights, wit
 | Sat, 26 Sept 2026 | After Goûtez Electronique | Laurine, Zouzibabe |
 | Fri, 2 Oct 2026 | HORS-SOL: Lena Willikens, GTI b2b Mars O10C — soirée de soutien à Macadam | GTI, Lena Willikens, Mars O10C |
 | Sat, 3 Oct 2026 | Macadam • Luigi Tozzi (live) ~ Laura BCR ~ Nessiel | Laura BCR, Luigi Tozzi |
-| Sun, 18 Oct 2026 | GLORIA - 100ème édition · Etapp Kyle ~ Cromby ~ Louison B2B Combe ~ Akira B2B Basic Chanel  | Akira Yamagata, Basic Channel, Budino, Combe, Cromby, Etapp Kyle, Louison, PALLAR |
+| Sun, 18 Oct 2026 | GLORIA - 100ème édition ·Etapp Kyle~Cromby~Budino ~ Louison B2B Combe ~ Akira B2B Basic Chanel  | Akira Yamagata, Basic Channel, Budino, Combe, Cromby, Etapp Kyle, Louison, PALLAR |
 | Sat, 24 Oct 2026 | Macadam x ONSHORE • Katia Curie ~ So-Fi ~ L.I | Katia Curie, L.I (1), So-Fi |
 
 ## Address

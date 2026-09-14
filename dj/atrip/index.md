@@ -1,13 +1,14 @@
 # ATRIP
 
-ATRIP is a House and Garage artist with 4 upcoming club dates listed on soundcheck as of Mon, 14 Sept 2026, next at Prysm Nightclub, Chicago on Sat, 19 Sept 2026.
+ATRIP is a House and Garage artist with 5 upcoming club dates listed on soundcheck as of Mon, 14 Sept 2026, next at The Foundry, San Francisco/Oakland on Fri, 18 Sept 2026.
 
-ATRIP is a house and garage artist tracked on soundcheck, with 82 sets logged across Amsterdam, Austin, Barcelona and Belfast and 37 more. Often billed alongside DJ BORING, Oppidan and salute. Next up: Prysm Nightclub, Chicago on Sat 19 Sept.
+ATRIP is a house and garage artist tracked on soundcheck, with 83 sets logged across Amsterdam, Austin, Barcelona and Belfast and 37 more. Often billed alongside DJ BORING, Oppidan and salute. Next up: The Foundry, Sanfrancisco on Fri 18 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 18 Sept 2026 | The Foundry | San Francisco/Oakland |
 | Sat, 19 Sept 2026 | Prysm Nightclub | Chicago |
 | Fri, 30 Oct 2026 | Factory Town | Miami |
 | Sat, 21 Nov 2026 | Depot Mayfield | Manchester |

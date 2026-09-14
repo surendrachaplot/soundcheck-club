@@ -2,7 +2,7 @@
 
 Blvck Water is a music venue in Osaka with 10 upcoming nights listed on soundcheck as of Mon, 14 Sept 2026; the next is "'sutura' TECHNO ADDICT at Night Club Blvck Water" on Tue, 15 Sept 2026.
 
-Blvck Water is a music venue in Osaka listed on soundcheck. 10 upcoming nights, with line-ups including amor (JP), dyn (JP), EMIRI TSUKUI and EVE (1) and 2 more. Browse upcoming dates, start times and who's playing. B1F Grace Soemoncho Bldg., 7-6 Soemoncho, Chuo-ku, Osaka.
+Blvck Water is a music venue in Osaka listed on soundcheck. 10 upcoming nights, with line-ups including 死者蘇生CH, amor (JP), dyn (JP) and EMIRI TSUKUI and 2 more. Browse upcoming dates, start times and who's playing. B1F Grace Soemoncho Bldg., 7-6 Soemoncho, Chuo-ku, Osaka.
 
 ## What's on
 
@@ -10,7 +10,7 @@ Blvck Water is a music venue in Osaka listed on soundcheck. 10 upcoming nights, 
 | --- | --- | --- |
 | Tue, 15 Sept 2026 | 'sutura' TECHNO ADDICT at Night Club Blvck Water | ZAGUN, dyn (JP) |
 | Wed, 16 Sept 2026 | RHYTHM SHIFT Vol.18 - Nomadic | WOLT |
-| Fri, 18 Sept 2026 | HARD TECHNO 'CRACKS' with neqr, FENGX2, ANKHofLIFE, ZAGUN, Shuk00, inudog system | FENGX2, ZAGUN, inudog system |
+| Fri, 18 Sept 2026 | HARD TECHNO 'CRACKS' with neqr, FENGX2, Kaoll, ANKHofLIFE, ZAGUN, Shuk00, inudog system | FENGX2, Kaoll, ZAGUN, inudog system, 死者蘇生CH |
 | Tue, 22 Sept 2026 | 'sutura'×DELTA TECHNO ADDICT at Night Club Blvck Water SPECIAL COLLABORATION | LIZA (6), Liza, ZAGUN, amor (JP) |
 | Wed, 23 Sept 2026 | RHYTHM SHIFT Vol.19 with EMIRI (Zenon Records) | EMIRI TSUKUI, WOLT |
 | Fri, 25 Sept 2026 | HARD TECHNO 'CRACKS' with FUJI TRILL, FENGX2, Frank Rayo, ZAGUN | FENGX2, FUJI TRILL, Frank Rayo, ZAGUN |

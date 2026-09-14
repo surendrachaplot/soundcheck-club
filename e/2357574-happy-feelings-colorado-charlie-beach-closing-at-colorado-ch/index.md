@@ -1,6 +1,6 @@
 # Happy Feelings - Colorado Charlie Beach Closing at Colorado Charlie
 
-Happy Feelings - Colorado Charlie Beach Closing on Sat 19 Sept, Thehague. 2 acts on the bill: Emma Champagne Queen and Happy Feelings. Disco. Preview the line-up and save it on soundcheck.
+Happy Feelings - Colorado Charlie Beach Closing on Sat 19 Sept, Thehague. 4 acts on the bill: D Stone, Emma Champagne Queen, Happy Feelings and Moxes. House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,7 +10,9 @@ Happy Feelings - Colorado Charlie Beach Closing on Sat 19 Sept, Thehague. 2 acts
 
 ## Line-up
 
+- D Stone
 - Emma Champagne Queen
 - Happy Feelings
+- Moxes
 
 *Source: [soundcheck](https://soundcheck.club/e/2357574-happy-feelings-colorado-charlie-beach-closing-at-colorado-ch/)*

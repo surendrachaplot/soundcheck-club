@@ -10,7 +10,7 @@ Rikk (2) is a drum & bass and house artist based in Japan, tracked on soundcheck
 | --- | --- | --- |
 | Thu, 17 Sept 2026 | ZEROTOKYO | Tokyo |
 | Thu, 17 Sept 2026 | ZEROTOKYO | Tokyo |
-| Mon, 21 Sept 2026 | TBA - Shibuya | Tokyo |
+| Mon, 21 Sept 2026 | TBA - PUBLIC PUBLIC(Takara Bldg. B1, 1-13-2 Dogenzaka, Shibuya-ku, Tokyo) | Tokyo |
 
 ## Recently played
 

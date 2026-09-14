@@ -1,8 +1,8 @@
 # Wata Igarashi
 
-Wata Igarashi is a Techno and House artist with 15 upcoming club dates listed on soundcheck as of Mon, 14 Sept 2026, next at Fort Mifflin, Philadelphia on Fri, 18 Sept 2026.
+Wata Igarashi is a Techno and House artist with 16 upcoming club dates listed on soundcheck as of Mon, 14 Sept 2026, next at Fort Mifflin, Philadelphia on Fri, 18 Sept 2026.
 
-Wata Igarashi is a techno and house artist tracked on soundcheck, with 214 sets logged across Amsterdam, Athens, Barcelona and Basel and 52 more. Often billed alongside DJ Nobu, CCL and Octo Octa. Next up: Fort Mifflin, Philadelphia on Fri 18 Sept.
+Wata Igarashi is a techno and house artist tracked on soundcheck, with 215 sets logged across Amsterdam, Athens, Barcelona and Basel and 52 more. Often billed alongside DJ Nobu, CCL and Octo Octa. Next up: Fort Mifflin, Philadelphia on Fri 18 Sept.
 
 ## Upcoming shows
 

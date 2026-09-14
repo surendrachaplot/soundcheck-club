@@ -1,8 +1,8 @@
 # The Redwood Bar And Grill
 
-The Redwood Bar And Grill is a music venue in Los Angeles with 22 upcoming nights listed on soundcheck as of Mon, 14 Sept 2026; the next is "The Strokers" on Thu, 17 Sept 2026.
+The Redwood Bar And Grill is a music venue in Los Angeles with 31 upcoming nights listed on soundcheck as of Mon, 14 Sept 2026; the next is "The Strokers" on Thu, 17 Sept 2026.
 
-The Redwood Bar And Grill is a music venue in Losangeles listed on soundcheck. 22 upcoming nights. Browse upcoming dates, start times and who's playing. 316 W. 2nd Street, Los Angeles, CA  90012.
+The Redwood Bar And Grill is a music venue in Losangeles listed on soundcheck. 31 upcoming nights. Browse upcoming dates, start times and who's playing. 316 W. 2nd Street, Los Angeles, CA  90012.
 
 ## What's on
 

@@ -1,8 +1,8 @@
 # KHIDI
 
-KHIDI is a music venue in Tbilisi with 2 upcoming nights listed on soundcheck as of Mon, 14 Sept 2026; the next is "KHIDI 中 Switch Floors: Boudi, Boyd Schidt Memotech, Pablo Bozzi, Sevda, SOLE DOSI, Thoms Traxx" on Fri, 18 Sept 2026.
+KHIDI is a music venue in Tbilisi with 3 upcoming nights listed on soundcheck as of Mon, 14 Sept 2026; the next is "KHIDI 中 Switch Floors: Boudi, Boyd Schidt Memotech, Pablo Bozzi, Sevda, SOLE DOSI, Thoms Traxx" on Fri, 18 Sept 2026.
 
-KHIDI is a music venue in Tbilisi listed on soundcheck. 2 upcoming nights, with line-ups including Akua, Boudi, Boyd Schidt and Frequency Shifter and 2 more. Browse upcoming dates, start times and who's playing. Vakhushti Bagrationi Bridge, Right Embankment, 0160 Tbilisi.
+KHIDI is a music venue in Tbilisi listed on soundcheck. 3 upcoming nights, with line-ups including Akua, Boudi, Boyd Schidt and Creams and 2 more. Browse upcoming dates, start times and who's playing. Vakhushti Bagrationi Bridge, Right Embankment, 0160 Tbilisi.
 
 ## What's on
 
@@ -10,6 +10,7 @@ KHIDI is a music venue in Tbilisi listed on soundcheck. 2 upcoming nights, with 
 | --- | --- | --- |
 | Fri, 18 Sept 2026 | KHIDI 中 Switch Floors: Boudi, Boyd Schidt Memotech, Pablo Bozzi, Sevda, SOLE DOSI, Thoms Traxx | Boudi, Boyd Schidt, Memotech, Pablo Bozzi, SOLE DOSI, Sevda, Thoms Traxx |
 | Fri, 25 Sept 2026 | KHIDI 中 5 Years of RSO: Akua, Frequency Shifter, JKS, Liza Rivs, Xiorro | Akua, Frequency Shifter, Gio Shengelia, JKS, Liza Rivs, Mtvare, Xiorro |
+| Sat, 26 Sept 2026 | G2: 5nipss, Creams, Liza Rivs, Tekkon | Creams, Liza Rivs |
 
 ## Address
 

@@ -15,7 +15,7 @@ EXIT Glasgow is a music venue in Glasgow listed on soundcheck. 17 upcoming night
 | Fri, 2 Oct 2026 | Sonica Club - Loma Doom / DEBONAIR | DEBONAIR, Loma Doom |
 | Sat, 3 Oct 2026 | EXIT X KAOS |  |
 | Fri, 9 Oct 2026 | Crucial Roots Soundsystem | Crucial Roots |
-| Sat, 10 Oct 2026 | DON'T FORGET ~ Naum Gabo (Live),  Manisdron (Live), Oriana , Elazer | Elazer, Oriana |
+| Sat, 10 Oct 2026 | DON'T FORGET ~ Naum Gabo (Live),  Manisdron (Live), Oriana, Elazer | Elazer, Oriana |
 | Thu, 15 Oct 2026 | MAGNETIC NORTH - An Evening for Peter Christopherson & COIL |  |
 | Sat, 17 Oct 2026 | EXIT CLUB | Brandon Lee Vear, Daichi Wada |
 

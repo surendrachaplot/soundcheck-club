@@ -9,7 +9,7 @@ Thuishaven is a music venue in Amsterdam listed on soundcheck. 18 upcoming night
 | Date | Night | Line-up |
 | --- | --- | --- |
 | Sat, 19 Sept 2026 | The Gardens of Babylon: The Light of The Equinox (SOLD OUT) | AMÉMÉ, Argia, Be Svendsen, Beard2Beard, Benja, Jose Noventa, Mona Pirzad, Nadav Dagon, Philou Louzolo, RICHE, Romy Janssen, Yamagucci |
-| Sun, 20 Sept 2026 | 20 SEP - Thuishaven with ALISHA 10HRS SOLD OUT | ALISHA, Alexandria, Chopper, Jesse Maas, Ryan Resso |
+| Sun, 20 Sept 2026 | 20 SEP - Thuishaven with ALISHA 10HRS SOLD OUT | ALISHA, Alexandria, Chopper, Jesse Maas, Riley, Ryan Resso |
 | Sun, 27 Sept 2026 | 27 SEP - Thuishaven Zomerclosing SOLD OUT | Benny Rodrigues, Boss Priester, CARISTA, Daughter In Law, Marsolo, Merel Helderman, Michel de Hey, Midas Field |
 | Sun, 4 Oct 2026 | 04 OKT - IOSIO 10HRS SOLD OUT | Arman John, IOSIO, Nyra, Tell Moore |
 | Thu, 22 Oct 2026 | Glitterbox ADE | Bridge (NY), Carl Craig, Eliza Rose, Ella Knight, HoneyLuv, Horse Meat Disco, Laura Meester, Melvo Baptiste, The Shapeshifters, Tonno Disko |

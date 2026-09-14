@@ -1,8 +1,8 @@
 # Isabel Soto
 
-Isabel Soto is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Mon, 14 Sept 2026, next at Fvtvr, Paris on Fri, 18 Sept 2026.
+Isabel Soto is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Mon, 14 Sept 2026, next at Fvtvr, Paris on Fri, 18 Sept 2026.
 
-Isabel Soto is a techno and house artist tracked on soundcheck, with 98 sets logged across Amsterdam, Athens, Barcelona and Basel and 30 more. Often billed alongside Claudio PRC, Mike Larry and Fadi Mohem. Next up: Fvtvr, Paris on Fri 18 Sept.
+Isabel Soto is a techno and house artist tracked on soundcheck, with 99 sets logged across Amsterdam, Athens, Barcelona and Basel and 30 more. Often billed alongside Claudio PRC, Mike Larry and Fadi Mohem. Next up: Fvtvr, Paris on Fri 18 Sept.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Isabel Soto is a techno and house artist tracked on soundcheck, with 98 sets log
 | --- | --- | --- |
 | Fri, 18 Sept 2026 | Fvtvr | Paris |
 | Fri, 2 Oct 2026 | RASA | Singapore |
+| Sat, 17 Oct 2026 | Printhouse | Munich |
 | Fri, 23 Oct 2026 | Levenslang Amsterdam | Amsterdam |
 | Fri, 23 Oct 2026 | De Thomaskerk | Amsterdam |
 | Sat, 7 Nov 2026 | Stage and Radio | Manchester |

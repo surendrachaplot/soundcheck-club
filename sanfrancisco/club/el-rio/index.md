@@ -1,13 +1,15 @@
 # El Rio
 
-El Rio is a music venue in San Francisco/Oakland with 5 upcoming nights listed on soundcheck as of Mon, 14 Sept 2026; the next is "Thots Not Cops" on Thu, 24 Sept 2026.
+El Rio is a music venue in San Francisco/Oakland with 7 upcoming nights listed on soundcheck as of Mon, 14 Sept 2026; the next is "Drip" on Fri, 18 Sept 2026.
 
-El Rio is a music venue in Sanfrancisco listed on soundcheck. 5 upcoming nights, with line-ups including DJ Ari B, FINISHHER, FREAK POV and GHOST MILK and 2 more. Browse upcoming dates, start times and who's playing. 3158 Mission St, San Francisco, CA 94110, USA.
+El Rio is a music venue in Sanfrancisco listed on soundcheck. 7 upcoming nights, with line-ups including Afakasi Papi, DJ Ari B, FINISHHER and FREAK POV and 2 more. Browse upcoming dates, start times and who's playing. 3158 Mission St, San Francisco, CA 94110, USA.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
+| Fri, 18 Sept 2026 | Drip | Afakasi Papi, Yuca Frita |
+| Sat, 19 Sept 2026 | Love Come Down |  |
 | Thu, 24 Sept 2026 | Thots Not Cops | DJ Ari B, GHOST MILK |
 | Fri, 25 Sept 2026 | Queer & All presents: *Pier 80 Party People Precursor* |  |
 | Sat, 26 Sept 2026 | JUKE WRLD | DJ Ari B, Mars Kasei, New Juicy, THA NXXT STEP |

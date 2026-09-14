@@ -1,8 +1,8 @@
 # Roy Rosenfeld
 
-Roy Rosenfeld is a House and Progressive House artist with 8 upcoming club dates listed on soundcheck as of Mon, 14 Sept 2026, next at Knockdown Center, New York City on Fri, 2 Oct 2026.
+Roy Rosenfeld is a House and Progressive House artist with 9 upcoming club dates listed on soundcheck as of Mon, 14 Sept 2026, next at Knockdown Center, New York City on Fri, 2 Oct 2026.
 
-Roy Rosenfeld is a house and progressive house artist tracked on soundcheck, with 119 sets logged across Amsterdam, Antwerp, Auckland and Austin and 28 more. Often billed alongside Sebastien Leger, Guy Mantzur and Lee Burridge. Next up: Knockdown Center, Newyorkcity on Fri 2 Oct.
+Roy Rosenfeld is a house and progressive house artist tracked on soundcheck, with 120 sets logged across Amsterdam, Antwerp, Auckland and Austin and 28 more. Often billed alongside Sebastien Leger, Guy Mantzur and Lee Burridge. Next up: Knockdown Center, Newyorkcity on Fri 2 Oct.
 
 ## Upcoming shows
 
@@ -16,6 +16,7 @@ Roy Rosenfeld is a house and progressive house artist tracked on soundcheck, wit
 | Sat, 24 Oct 2026 | WestWeelde | Amsterdam |
 | Sun, 25 Oct 2026 | Ijver | Amsterdam |
 | Fri, 30 Oct 2026 | Public Works | San Francisco/Oakland |
+| Sat, 31 Oct 2026 | TBA - Downtown LA | Los Angeles |
 
 ## Recently played
 

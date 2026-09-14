@@ -1,13 +1,14 @@
 # Yuca Frita
 
-Yuca Frita is a Club and Latin Bass artist with 1 upcoming club date listed on soundcheck as of Mon, 14 Sept 2026, next at TBA - SECRET LOCATION, San Francisco/Oakland on Fri, 25 Sept 2026.
+Yuca Frita is a Club and Latin Bass artist with 2 upcoming club dates listed on soundcheck as of Mon, 14 Sept 2026, next at El Rio, San Francisco/Oakland on Fri, 18 Sept 2026.
 
-Yuca Frita is a club and latin bass artist based in United States of America, tracked on soundcheck, with 47 sets logged across Sanfrancisco. Often billed alongside DJ JUANNY, Discnogirl and RITCHRD. Next up: TBA - SECRET LOCATION, Sanfrancisco on Fri 25 Sept.
+Yuca Frita is a club and latin bass artist based in United States of America, tracked on soundcheck, with 48 sets logged across Sanfrancisco. Often billed alongside DJ JUANNY, Discnogirl and RITCHRD. Next up: El Rio, Sanfrancisco on Fri 18 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 18 Sept 2026 | El Rio | San Francisco/Oakland |
 | Fri, 25 Sept 2026 | TBA - SECRET LOCATION | San Francisco/Oakland |
 
 ## Recently played

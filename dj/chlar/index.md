@@ -1,8 +1,8 @@
 # Chlär
 
-Chlär is a Techno and House artist with 11 upcoming club dates listed on soundcheck as of Mon, 14 Sept 2026, next at IFEMA, Madrid on Fri, 18 Sept 2026.
+Chlär is a Techno and House artist with 12 upcoming club dates listed on soundcheck as of Mon, 14 Sept 2026, next at IFEMA, Madrid on Fri, 18 Sept 2026.
 
-Chlär is a techno and house artist tracked on soundcheck, with 255 sets logged across Aberdeen, Amsterdam, Antwerp and Athens and 57 more. Often billed alongside Alarico, Funk Assault and Freddy K. Next up: IFEMA, Madrid on Fri 18 Sept.
+Chlär is a techno and house artist tracked on soundcheck, with 256 sets logged across Aberdeen, Amsterdam, Antwerp and Athens and 57 more. Often billed alongside Alarico, Funk Assault and Freddy K. Next up: IFEMA, Madrid on Fri 18 Sept.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ Chlär is a techno and house artist tracked on soundcheck, with 255 sets logged 
 | Fri, 18 Sept 2026 | IFEMA | Madrid |
 | Fri, 18 Sept 2026 | IFEMA | Madrid |
 | Sat, 19 Sept 2026 | RADION | Amsterdam |
+| Sat, 26 Sept 2026 | Tapada da Ajuda | Lisbon |
 | Fri, 2 Oct 2026 | fi | Cologne |
 | Sat, 3 Oct 2026 | Fuse | Brussels |
 | Sat, 17 Oct 2026 | La Comédie De Genève | Geneva |

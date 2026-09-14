@@ -9,7 +9,7 @@ DJ HI-C is a techno and house artist based in Japan, tracked on soundcheck, with
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 10 Oct 2026 | FOLD | London |
-| Thu, 22 Oct 2026 | Ingang | Amsterdam |
+| Thu, 22 Oct 2026 | ingang | Amsterdam |
 | Sat, 31 Oct 2026 | SMUT Athens | Athens |
 
 ## Recently played

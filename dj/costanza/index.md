@@ -9,7 +9,7 @@ Costanza is a techno and trance artist based in Italy, tracked on soundcheck, wi
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 19 Sept 2026 | TBA | Rome |
-| Thu, 22 Oct 2026 | Ingang | Amsterdam |
+| Thu, 22 Oct 2026 | ingang | Amsterdam |
 
 ## Recently played
 

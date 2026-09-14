@@ -1,14 +1,15 @@
 # Traumer
 
-Traumer is a House and Tech House artist with 13 upcoming club dates listed on soundcheck as of Mon, 14 Sept 2026, next at UNO MALTA, Malta on Fri, 18 Sept 2026.
+Traumer is a House and Tech House artist with 14 upcoming club dates listed on soundcheck as of Mon, 14 Sept 2026, next at UNO MALTA, Malta on Fri, 18 Sept 2026.
 
-Traumer is a house and tech house artist tracked on soundcheck, with 311 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 67 more. Often billed alongside Enzo Siragusa, Shonky and Rossi. Next up: UNO MALTA, Malta on Fri 18 Sept.
+Traumer is a house and tech house artist tracked on soundcheck, with 312 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 67 more. Often billed alongside Enzo Siragusa, Shonky and Rossi. Next up: UNO MALTA, Malta on Fri 18 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 18 Sept 2026 | UNO MALTA | Malta |
+| Fri, 18 Sept 2026 | La Felicita | Paris |
 | Sat, 19 Sept 2026 | FOLD | London |
 | Tue, 22 Sept 2026 | Amnesia Ibiza | Ibiza |
 | Fri, 25 Sept 2026 | Audio Club | Geneva |
@@ -19,7 +20,6 @@ Traumer is a house and tech house artist tracked on soundcheck, with 311 sets lo
 | Thu, 22 Oct 2026 | RAWFACTORY | Amsterdam |
 | Fri, 23 Oct 2026 | Blast Galaxy | Amsterdam |
 | Fri, 13 Nov 2026 | TESTBED | Leeds |
-| Sun, 22 Nov 2026 | Blackstone Street Warehouse | Liverpool |
 
 ## Recently played
 

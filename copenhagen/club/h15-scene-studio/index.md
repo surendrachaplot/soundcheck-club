@@ -10,7 +10,7 @@ H15 Scene & Studio is a music venue in Copenhagen listed on soundcheck. 3 upcomi
 | --- | --- | --- |
 | Sat, 10 Oct 2026 | HOOKED - Babelfish Launch Party |  |
 | Sat, 10 Oct 2026 | HOOKED Vol. 1: The Brink | DBADJO, Redemptive, octavate |
-| Fri, 16 Oct 2026 | Magic City | Mokomizik |
+| Sat, 5 Dec 2026 | Magic City | Mokomizik |
 
 ## Address
 

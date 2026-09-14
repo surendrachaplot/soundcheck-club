@@ -1,8 +1,8 @@
 # Mood Ring
 
-Mood Ring is a music venue in New York City with 15 upcoming nights listed on soundcheck as of Mon, 14 Sept 2026; the next is "DUM DUM DISCO" on Wed, 16 Sept 2026.
+Mood Ring is a music venue in New York City with 16 upcoming nights listed on soundcheck as of Mon, 14 Sept 2026; the next is "DUM DUM DISCO" on Wed, 16 Sept 2026.
 
-Mood Ring is a music venue in Newyorkcity listed on soundcheck. 15 upcoming nights, with line-ups including a.gar, AJACENT, Alejandra Sabillón and Alive Girl and 2 more. Browse upcoming dates, start times and who's playing. 1260 Myrtle Ave, Brooklyn, NY 11221, USA.
+Mood Ring is a music venue in Newyorkcity listed on soundcheck. 16 upcoming nights, with line-ups including a.gar, AJACENT, Alejandra Sabillón and Alive Girl and 2 more. Browse upcoming dates, start times and who's playing. 1260 Myrtle Ave, Brooklyn, NY 11221, USA.
 
 ## What's on
 

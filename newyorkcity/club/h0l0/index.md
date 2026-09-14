@@ -17,7 +17,7 @@ H0L0 is a music venue in Newyorkcity listed on soundcheck. 12 upcoming nights, w
 | Sun, 18 Oct 2026 | The Ritual with Anané & Louie Vega | Anane, Louie Vega |
 | Fri, 23 Oct 2026 | Effy | Effy |
 | Sat, 31 Oct 2026 | ReSolute presents: Why So Serious! |  |
-| Fri, 6 Nov 2026 | KEIN KLUB - lineup TBA |  |
+| Fri, 6 Nov 2026 | KEIN KLUB | Martyn |
 
 ## Address
 

@@ -1,13 +1,14 @@
 # DJ BORING
 
-DJ BORING is a House and Techno artist with 6 upcoming club dates listed on soundcheck as of Mon, 14 Sept 2026, next at Prysm Nightclub, Chicago on Sat, 19 Sept 2026.
+DJ BORING is a House and Techno artist with 7 upcoming club dates listed on soundcheck as of Mon, 14 Sept 2026, next at The Foundry, San Francisco/Oakland on Fri, 18 Sept 2026.
 
-DJ BORING is a house and techno artist tracked on soundcheck, with 204 sets logged across Amsterdam, Antwerp, Athens and Bali and 62 more. Often billed alongside Sally C, salute and DJ Seinfeld. Next up: Prysm Nightclub, Chicago on Sat 19 Sept.
+DJ BORING is a house and techno artist tracked on soundcheck, with 205 sets logged across Amsterdam, Antwerp, Athens and Bali and 62 more. Often billed alongside Sally C, salute and DJ Seinfeld. Next up: The Foundry, Sanfrancisco on Fri 18 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 18 Sept 2026 | The Foundry | San Francisco/Oakland |
 | Sat, 19 Sept 2026 | Prysm Nightclub | Chicago |
 | Thu, 22 Oct 2026 | WestWeelde | Amsterdam |
 | Fri, 23 Oct 2026 | Ndsm Wharf | Amsterdam |

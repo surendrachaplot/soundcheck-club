@@ -1,14 +1,15 @@
 # Marco Spalletta
 
-Marco Spalletta is a Electro and House artist with 1 upcoming club date listed on soundcheck as of Mon, 14 Sept 2026, next at Seaseaclub Barcelona, Barcelona on Sat, 7 Nov 2026.
+Marco Spalletta is a Electro and House artist with 2 upcoming club dates listed on soundcheck as of Mon, 14 Sept 2026, next at Seaseaclub Barcelona, Barcelona on Sat, 7 Nov 2026.
 
-Marco Spalletta is an electro and house artist based in Argentina, tracked on soundcheck, with 31 sets logged across Barcelona, Madrid and Paris. Often billed alongside Bruno (ES), Christian Arcila and Charlotte (FR). Next up: Seaseaclub Barcelona, Barcelona on Sat 7 Nov.
+Marco Spalletta is an electro and house artist based in Argentina, tracked on soundcheck, with 32 sets logged across Barcelona, Madrid and Paris. Often billed alongside Bruno (ES), Christian Arcila and Charlotte (FR). Next up: Seaseaclub Barcelona, Barcelona on Sat 7 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 7 Nov 2026 | Seaseaclub Barcelona | Barcelona |
+| Fri, 27 Nov 2026 | Les Enfants Brillants | Barcelona |
 
 ## Recently played
 

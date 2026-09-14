@@ -1,13 +1,14 @@
 # Emmz
 
-Emmz is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Mon, 14 Sept 2026, next at Ndsm Wharf, Amsterdam on Fri, 23 Oct 2026.
+Emmz is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Mon, 14 Sept 2026, next at SISSI'S Amsterdam, Amsterdam on Sat, 10 Oct 2026.
 
-Emmz is a house and techno artist based in Netherlands, tracked on soundcheck, with 15 sets logged across Amsterdam and Utrecht. Often billed alongside Fiene, Ambu Bambu and Jelte. Next up: Ndsm Wharf, Amsterdam on Fri 23 Oct.
+Emmz is a house and techno artist based in Netherlands, tracked on soundcheck, with 16 sets logged across Amsterdam and Utrecht. Often billed alongside Fiene, Ambu Bambu and Jelte. Next up: SISSI'S Amsterdam, Amsterdam on Sat 10 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 10 Oct 2026 | SISSI'S Amsterdam | Amsterdam |
 | Fri, 23 Oct 2026 | Ndsm Wharf | Amsterdam |
 | Sat, 24 Oct 2026 | Lofi | Amsterdam |
 

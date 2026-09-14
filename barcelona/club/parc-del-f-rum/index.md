@@ -10,7 +10,7 @@ Parc del Fòrum is a music venue in Barcelona listed on soundcheck. 6 upcoming n
 | --- | --- | --- |
 | Thu, 17 Sept 2026 | FSTVL B |  |
 | Fri, 30 Oct 2026 | KINYXX Open Air Halloween [Balla Barcelona Festival] |  |
-| Fri, 30 Oct 2026 | Fury 3rd Anniversary [DAY 1] x Halloween [Balla Barcelona Festival] | 6EJOU, Cristobal Pesce, DYEN, Hades |
+| Fri, 30 Oct 2026 | Fury 3rd Anniversary [DAY 1] x Halloween [Balla Barcelona Festival] | 6EJOU, Cristobal Pesce, DYEN, Hades, Rowsi |
 | Sat, 31 Oct 2026 | Jackies Open Air Halloween [Balla Barcelona Festival] | Claptone, Mr. Belt & Wezol, Ross From Friends |
 | Sat, 31 Oct 2026 | Throwback Open Air Halloween [Balla Barcelona Festival] |  |
 | Sat, 31 Oct 2026 | Hop on The Top Open Air Halloween [Balla Barcelona Festival] |  |

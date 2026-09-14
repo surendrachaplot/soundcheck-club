@@ -1,6 +1,6 @@
 # Subs&Dubs X Carmela Collective presents Elijah Minnelli live at Filth
 
-Subs&Dubs X Carmela Collective presents Elijah Minnelli live at Filth on Sat 19 Sept, Amsterdam. 4 acts on the bill: DelFuturo, Elijah Minnelli, Kray Atief and Ukab. Dub. Preview the line-up and save it on soundcheck.
+Subs&Dubs X Carmela Collective presents Elijah Minnelli live at Filth on Sat 19 Sept, Amsterdam. 5 acts on the bill: DelFuturo, Elijah Minnelli, Kray Atief and Maki (PT) and 1 more. Dub. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -13,6 +13,7 @@ Subs&Dubs X Carmela Collective presents Elijah Minnelli live at Filth on Sat 19 
 - DelFuturo
 - Elijah Minnelli
 - Kray Atief
+- Maki (PT)
 - Ukab
 
 *Source: [soundcheck](https://soundcheck.club/e/2519269-subs-dubs-x-carmela-collective-presents-elijah-minnelli-live/)*

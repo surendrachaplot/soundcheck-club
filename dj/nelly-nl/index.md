@@ -9,7 +9,7 @@ Nelly (NL) is a techno and house artist tracked on soundcheck, with 89 sets logg
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 18 Sept 2026 | Shunter | Rotterdam |
-| Thu, 22 Oct 2026 | Ingang | Amsterdam |
+| Thu, 22 Oct 2026 | ingang | Amsterdam |
 | Sat, 24 Oct 2026 | De Fik Garden | Amsterdam |
 
 ## Recently played

@@ -10,7 +10,7 @@ Avsluta is a techno and ambient artist tracked on soundcheck, with 62 sets logge
 | --- | --- | --- |
 | Sun, 20 Sept 2026 | TBA - Casa Androna | Barcelona |
 | Fri, 25 Sept 2026 | Om Being | London |
-| Thu, 22 Oct 2026 | Ingang | Amsterdam |
+| Thu, 22 Oct 2026 | ingang | Amsterdam |
 | Fri, 23 Oct 2026 | De Thomaskerk | Amsterdam |
 | Sat, 7 Nov 2026 | FOLD | London |
 

@@ -1,8 +1,8 @@
 # Myd
 
-Myd is a House and Electro artist with 2 upcoming club dates listed on soundcheck as of Mon, 14 Sept 2026, next at DRUMSHEDS, London on Sat, 10 Oct 2026.
+Myd is a House and Electro artist with 3 upcoming club dates listed on soundcheck as of Mon, 14 Sept 2026, next at DRUMSHEDS, London on Sat, 10 Oct 2026.
 
-Myd is a house and electro artist tracked on soundcheck, with 108 sets logged across Amsterdam, Antwerp, Barcelona and Berlin and 27 more. Often billed alongside Busy P, Breakbot and Cassius. Next up: DRUMSHEDS, London on Sat 10 Oct.
+Myd is a house and electro artist tracked on soundcheck, with 109 sets logged across Amsterdam, Antwerp, Barcelona and Berlin and 28 more. Often billed alongside Busy P, Breakbot and Cassius. Next up: DRUMSHEDS, London on Sat 10 Oct.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Myd is a house and electro artist tracked on soundcheck, with 108 sets logged ac
 | --- | --- | --- |
 | Sat, 10 Oct 2026 | DRUMSHEDS | London |
 | Fri, 16 Oct 2026 | Petit CAB | Marseille |
+| Fri, 11 Dec 2026 | Hydrozagadka | Warsaw |
 
 ## Recently played
 

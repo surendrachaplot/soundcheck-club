@@ -9,11 +9,11 @@ The DBA is a music venue in Manchester listed on soundcheck. 18 upcoming nights,
 | Date | Night | Line-up |
 | --- | --- | --- |
 | Fri, 18 Sept 2026 | Swing Theory: Part Two (UKG, House & Electro) | Deventi, FAGASH, FXCKBOUT, Gatling, Jase Jeffery, Rúadh, SDJ (1) |
-| Sat, 19 Sept 2026 | DBA 6TH GIRTHDAY |  |
+| Sat, 19 Sept 2026 | DBA 6TH GIRTHDAY | Daskaran, Deventi, Oriki, Rhod Parry, SHERI (2), ZESTY (UK) |
 | Fri, 25 Sept 2026 | Coalesce 5th Birthday w/ The Darrs, Blason & Velma | Blason, The Darrs |
 | Sun, 27 Sept 2026 | BENT - SUN:SET | Esmé, Tony Neptune, WeeDot |
 | Thu, 1 Oct 2026 | Doll World Academy |  |
-| Fri, 2 Oct 2026 | CLUBCOSMICA | Aiden Francis, Fantastic Man, KRÄFTY, WeeDot |
+| Fri, 2 Oct 2026 | CLUBCOSMICA [Fantastic Man / Aiden Francis / WeeDot / KRAFTY] | Aiden Francis, Fantastic Man, KRÄFTY, WeeDot |
 | Sat, 3 Oct 2026 | DAT_URA 003 W/ ENNIO, Deventi, Ossou Erratic, Kuriboh & KOSO | Deventi, ENNIO, KOSO, Kuriboh, Ossou Erratic |
 | Thu, 8 Oct 2026 | the slag do: back 2 skool | FOULMOUTH |
 | Fri, 9 Oct 2026 | GASH / lεsboᵉlεctro εdition | Lapalace |

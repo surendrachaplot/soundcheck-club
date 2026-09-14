@@ -1,14 +1,15 @@
 # Burt Cope
 
-Burt Cope is a Drum & Bass and Jungle artist with 1 upcoming club date listed on soundcheck as of Mon, 14 Sept 2026, next at Green Works, Bristol on Fri, 18 Sept 2026.
+Burt Cope is a Drum & Bass and Jungle artist with 2 upcoming club dates listed on soundcheck as of Mon, 14 Sept 2026, next at Green Works, Bristol on Fri, 18 Sept 2026.
 
-Burt Cope is a drum & bass and jungle artist based in United Kingdom, tracked on soundcheck, with 38 sets logged across Bangkok, Birmingham, Brighton and Bristol and 8 more. Often billed alongside Benny Page, Deekline and JENKS. Next up: Green Works, Bristol on Fri 18 Sept.
+Burt Cope is a drum & bass and jungle artist based in United Kingdom, tracked on soundcheck, with 39 sets logged across Bangkok, Birmingham, Brighton and Bristol and 9 more. Often billed alongside Benny Page, Deekline and JENKS. Next up: Green Works, Bristol on Fri 18 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 18 Sept 2026 | Green Works | Bristol |
+| Sun, 25 Oct 2026 | FORGE | Sheffield |
 
 ## Recently played
 

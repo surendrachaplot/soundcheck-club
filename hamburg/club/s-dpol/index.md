@@ -8,7 +8,7 @@ Südpol is a music venue in Hamburg listed on soundcheck. 4 upcoming nights, wit
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 18 Sept 2026 | Expedition Südpol | 50PHIE, ARWEN, Aii PS, Ben Kamal, Christian Kluge, Finona Rider, Hyperaktivist, Jacob Knob, KYT, Kristina May, Lucas Darío, Marie Mackerschreck, Marta Aurelia, NAHUEL, Neowise, ONLYLU, RSS Disco, SXCL, Vazik, cmp (1), dr. payback |
+| Fri, 18 Sept 2026 | Expedition Südpol | 50PHIE, ARWEN, Aii PS, Ben Kamal, Christian Kluge, Finona Rider, Hyperaktivist, Jacob Knob, KYT, Kristina May (4), Lucas Darío, Marie Mackerschreck, Marta Aurelia, NAHUEL, Neowise, ONLYLU, RSS Disco, SXCL, Vazik, cmp (1), dr. payback |
 | Fri, 25 Sept 2026 | unceen with Anna Ullrich & BabaBass3000 | Anna Ullrich, BabaBass3000, Rittmus, Shilo, Suay Aenna |
 | Sat, 26 Sept 2026 | Tempest | Berto (DE), Peter Groskreutz, duaba, u2pia |
 | Fri, 23 Oct 2026 | unceen with Afem Syko | Afem Syko, HugoBass303, NSLZ, Nettta, Siren, ruru (1) |

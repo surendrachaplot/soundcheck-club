@@ -8,6 +8,6 @@ Somewhere in the Mountains. is a music venue in Bali listed on soundcheck. 1 upc
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 25 Sept 2026 | KAJE Arts & Music | Bagvs, DJ MARIA., Jonathan Kusuma, Mr. Ho, Ridwan, Sunju Hargun, Zoot |
+| Fri, 25 Sept 2026 | KAJE Arts & Music | Bagvs, DJ MARIA., Jonathan Kusuma, Mr. Ho, Ouissam, Ridwan, Sunju Hargun, Zoot |
 
 *Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/bali/club/somewhere-in-the-mountains/)*

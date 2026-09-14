@@ -1,13 +1,14 @@
 # Dj Nico
 
-Dj Nico is a Club and House artist with 2 upcoming club dates listed on soundcheck as of Mon, 14 Sept 2026, next at TBA - DTLA Warehouse, Los Angeles on Fri, 18 Sept 2026.
+Dj Nico is a Club and Ghetto Tech artist with 3 upcoming club dates listed on soundcheck as of Mon, 14 Sept 2026, next at TBA - DTLA Warehouse, Los Angeles on Fri, 18 Sept 2026.
 
-Dj Nico is a club and house artist based in United States of America, tracked on soundcheck, with 51 sets logged across Chicago, Detroit, Houston and London and 10 more. Often billed alongside Cquestt, Qemist and shekdash. Next up: TBA - DTLA Warehouse, Losangeles on Fri 18 Sept.
+Dj Nico is a club and ghetto tech artist based in United States of America, tracked on soundcheck, with 52 sets logged across Chicago, Detroit, Houston and London and 10 more. Often billed alongside Cquestt, Qemist and shekdash. Next up: TBA - DTLA Warehouse, Losangeles on Fri 18 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 18 Sept 2026 | TBA - DTLA Warehouse | Los Angeles |
 | Fri, 18 Sept 2026 | TBA - DTLA Warehouse | Los Angeles |
 | Sat, 26 Sept 2026 | Circle Line Cruises | New York City |
 

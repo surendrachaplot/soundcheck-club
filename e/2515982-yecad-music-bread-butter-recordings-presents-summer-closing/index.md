@@ -1,6 +1,6 @@
 # YECAD MUSIC & Bread&Butter Recordings presents: 'Summer Closing' with Direkt at STARLANE at Starlane Pizza Bar
 
-YECAD MUSIC & Bread&Butter Recordings presents: 'Summer Closing' with Direkt at STARLANE at Starlane Pizza Bar on Sun 20 Sept, London. 8 acts on the bill: Davide Decay, Direkt, La Gosse and Max. and 4 more. Minimal and Minimal Techno. Preview the line-up and save it on soundcheck.
+YECAD MUSIC & Bread&Butter Recordings presents: 'Summer Closing' with Direkt at STARLANE at Starlane Pizza Bar on Sun 20 Sept, London. 9 acts on the bill: Davide Decay, Direkt, Kanna Noctua and La Gosse and 5 more. Minimal and Minimal Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -12,6 +12,7 @@ YECAD MUSIC & Bread&Butter Recordings presents: 'Summer Closing' with Direkt at 
 
 - Davide Decay
 - Direkt
+- Kanna Noctua
 - La Gosse
 - Max.
 - Modebaku

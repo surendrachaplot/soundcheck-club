@@ -13,7 +13,7 @@ Ekkel is a trance and techno artist tracked on soundcheck, with 59 sets logged a
 | Fri, 25 Sept 2026 | LAUT | Barcelona |
 | Fri, 9 Oct 2026 | Berghain / Panorama Bar / Säule | Berlin |
 | Sat, 10 Oct 2026 | Eiger Studios | Leeds |
-| Thu, 22 Oct 2026 | Ingang | Amsterdam |
+| Thu, 22 Oct 2026 | ingang | Amsterdam |
 
 ## Recently played
 

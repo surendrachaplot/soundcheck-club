@@ -11,7 +11,7 @@ The Bongo Club is a music venue in Edinburgh listed on soundcheck. 22 upcoming n
 | Tue, 15 Sept 2026 | REDEMPTION // Freshers Takeover at Bongo Club | Ben Kok (2) |
 | Wed, 16 Sept 2026 | EPiKA - ECFS launch party | Hellæktra, Iona.Violet, Nikki Guild, iluna, ona:v |
 | Thu, 17 Sept 2026 | Origins x TOTEM: Oldboy | Becca Egan, Fug (1), Lui Mackay, Oldboy, Oldboy (UK), Rònan White, yung kidd |
-| Fri, 18 Sept 2026 | Tektite: Corran, Harry Jackson + residents (£3.50 TIX) | Corran, FOLIE (UK), Harry Jackson, Rodent |
+| Fri, 18 Sept 2026 | Tektite: Corran, Harry Jackson + residents (LIMITED £5 TIX) | Corran, FOLIE (UK), Harry Jackson, Rodent |
 | Sat, 19 Sept 2026 | Messenger Sound System - Bongo Return Dance |  |
 | Tue, 22 Sept 2026 | Volta Launch Night with Miss Cabbage, Sea Urchin + residents [LIMITED FREE TICKETS] | Miss Cabbage, Rodent, Sea Urchin |
 | Wed, 23 Sept 2026 | Van Rouge x The Bongo Club: Part 4 |  |

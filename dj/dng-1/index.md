@@ -1,8 +1,8 @@
 # DNG (1)
 
-DNG (1) is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Mon, 14 Sept 2026, next at Red Bar, Tokyo on Fri, 18 Sept 2026.
+DNG (1) is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Mon, 14 Sept 2026, next at Red Bar, Tokyo on Fri, 18 Sept 2026.
 
-DNG (1) is a house and techno artist tracked on soundcheck, with 127 sets logged across Berlin, Kyoto, Osaka and Tokyo. Often billed alongside Nari (2), KOTSU and Lomax. Next up: Red Bar, Tokyo on Fri 18 Sept.
+DNG (1) is a house and techno artist tracked on soundcheck, with 128 sets logged across Berlin, Kyoto, Osaka and Tokyo. Often billed alongside Nari (2), KOTSU and Lomax. Next up: Red Bar, Tokyo on Fri 18 Sept.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ DNG (1) is a house and techno artist tracked on soundcheck, with 127 sets logged
 | Fri, 18 Sept 2026 | Red Bar | Tokyo |
 | Sat, 26 Sept 2026 | Numm | Tokyo |
 | Fri, 16 Oct 2026 | MIDNIGHT EAST | Tokyo |
+| Sat, 24 Oct 2026 | DJ Bar Bridge | Tokyo |
 
 ## Recently played
 

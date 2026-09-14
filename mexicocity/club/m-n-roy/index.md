@@ -2,13 +2,13 @@
 
 M.N.Roy is a music venue in Mexico City with 1 upcoming night listed on soundcheck as of Mon, 14 Sept 2026; the next is "M.N ROY" on Tue, 15 Sept 2026.
 
-M.N.Roy is a music venue in Mexicocity listed on soundcheck. 1 upcoming night. Browse upcoming dates, start times and who's playing. Mérida 186  06700 Mexico City, Mexico.
+M.N.Roy is a music venue in Mexicocity listed on soundcheck. 1 upcoming night, with line-ups including Lagunes Jr. Browse upcoming dates, start times and who's playing. Mérida 186  06700 Mexico City, Mexico.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Tue, 15 Sept 2026 | M.N ROY |  |
+| Tue, 15 Sept 2026 | M.N ROY | Lagunes Jr |
 
 ## Address
 

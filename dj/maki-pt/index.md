@@ -1,13 +1,14 @@
 # Maki (PT)
 
-Maki (PT) is a Electronica and Guaracha artist with 1 upcoming club date listed on soundcheck as of Mon, 14 Sept 2026, next at pos studios, Amsterdam on Sat, 26 Sept 2026.
+Maki (PT) is a Electronica and Guaracha artist with 2 upcoming club dates listed on soundcheck as of Mon, 14 Sept 2026, next at Filth, Amsterdam on Sat, 19 Sept 2026.
 
-Maki (PT) is an electronica and guaracha artist based in Brazil, tracked on soundcheck, with 20 sets logged across Amsterdam, Berlin, Lisbon and Tokyo. Often billed alongside Ascha, D Stone and DJ Narciso. Next up: pos studios, Amsterdam on Sat 26 Sept.
+Maki (PT) is an electronica and guaracha artist based in Brazil, tracked on soundcheck, with 21 sets logged across Amsterdam, Berlin, Lisbon and Tokyo. Often billed alongside Ascha, D Stone and DJ Narciso. Next up: Filth, Amsterdam on Sat 19 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 19 Sept 2026 | Filth | Amsterdam |
 | Sat, 26 Sept 2026 | pos studios | Amsterdam |
 
 ## Recently played

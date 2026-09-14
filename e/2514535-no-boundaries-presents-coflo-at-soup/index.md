@@ -1,6 +1,6 @@
 # No Boundaries presents: Coflo at Soup
 
-No Boundaries presents: Coflo at Soup on Fri 18 Sept, Manchester. 4 acts on the bill: Coflo, Danandout, Henk and Marley Reid. House and Broken Beat. Preview the line-up and save it on soundcheck.
+No Boundaries presents: Coflo at Soup on Fri 18 Sept, Manchester. 4 acts on the bill: Coflo, Danandout, Hen K and Marley Reid. House and Broken Beat. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -12,7 +12,7 @@ No Boundaries presents: Coflo at Soup on Fri 18 Sept, Manchester. 4 acts on the 
 
 - Coflo
 - Danandout
-- Henk
+- Hen K
 - Marley Reid
 
 *Source: [soundcheck](https://soundcheck.club/e/2514535-no-boundaries-presents-coflo-at-soup/)*

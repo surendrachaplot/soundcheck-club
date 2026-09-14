@@ -2,14 +2,14 @@
 
 Panke is a music venue in Berlin with 12 upcoming nights listed on soundcheck as of Mon, 14 Sept 2026; the next is "JuJu Roger's Live with band" on Thu, 17 Sept 2026.
 
-Panke is a music venue in Berlin listed on soundcheck. 12 upcoming nights, with line-ups including AGILITÄT, Alex Wilcox, BBBBBBB and Catnapp and 2 more. Browse upcoming dates, start times and who's playing. Gerichtstraße 23, 13347 Berlin.
+Panke is a music venue in Berlin listed on soundcheck. 12 upcoming nights, with line-ups including A7ba L Jelly, AGILITÄT, Alex Wilcox and BBBBBBB and 2 more. Browse upcoming dates, start times and who's playing. Gerichtstraße 23, 13347 Berlin.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
 | Thu, 17 Sept 2026 | JuJu Roger's Live with band |  |
-| Sat, 19 Sept 2026 | TASKEER x JellyZone | Jana, Saphe, Taradud, ZOBAYDA |
+| Sat, 19 Sept 2026 | JellyZone x TASKEER: Cairo Showcase | A7ba L Jelly, Jana, Saphe, Taradud, ZOBAYDA |
 | Thu, 24 Sept 2026 | /pnèu·ma/ | AGILITÄT, E L A, ELA, Marylou, Sentient, Sentient (3), marcio |
 | Fri, 25 Sept 2026 | Asnam presents: BURIDAN's SNARES by Ha Kyoon, shame (live), Isadora Chadeaux, Rama, Jana | Jana, Rama (2) |
 | Thu, 1 Oct 2026 | Matiah Chinasky&Dj Perez in Berlin |  |

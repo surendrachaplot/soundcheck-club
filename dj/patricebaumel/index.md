@@ -1,8 +1,8 @@
 # Patrice Bäumel
 
-Patrice Bäumel is a Techno and Progressive House artist with 5 upcoming club dates listed on soundcheck as of Mon, 14 Sept 2026, next at TBA - La Biblioteca, San Telmo, Buenos Aires on Fri, 18 Sept 2026.
+Patrice Bäumel is a Techno and Progressive House artist with 6 upcoming club dates listed on soundcheck as of Mon, 14 Sept 2026, next at TBA - La Biblioteca, San Telmo, Buenos Aires on Fri, 18 Sept 2026.
 
-Patrice Bäumel is a techno and progressive house artist tracked on soundcheck, with 148 sets logged across Amsterdam, Antwerp, Barcelona and Belgrade and 39 more. Often billed alongside Patrice, Sasha and Hernan Cattaneo. Next up: TBA - La Biblioteca, San Telmo, Buenosaires on Fri 18 Sept.
+Patrice Bäumel is a techno and progressive house artist tracked on soundcheck, with 149 sets logged across Amsterdam, Antwerp, Barcelona and Belgrade and 39 more. Often billed alongside Patrice, Sasha and Hernan Cattaneo. Next up: TBA - La Biblioteca, San Telmo, Buenosaires on Fri 18 Sept.
 
 ## Upcoming shows
 
@@ -12,6 +12,7 @@ Patrice Bäumel is a techno and progressive house artist tracked on soundcheck, 
 | Thu, 1 Oct 2026 | 528 Ibiza | Ibiza |
 | Sat, 3 Oct 2026 | Seaseaclub Barcelona | Barcelona |
 | Sat, 24 Oct 2026 | Het Sieraad | Amsterdam |
+| Fri, 4 Dec 2026 | Do Not Sit On The Furniture | Miami |
 | Sat, 12 Dec 2026 | E1 | London |
 
 ## Recently played

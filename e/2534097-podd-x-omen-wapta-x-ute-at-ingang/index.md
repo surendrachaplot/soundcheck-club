@@ -1,11 +1,11 @@
-# PODD x Omen Wapta x Ute at Ingang
+# PODD x Omen Wapta x Ute at ingang
 
-PODD x Omen Wapta x Ute at Ingang on Thu 22 Oct, Amsterdam. 11 acts on the bill: Avsluta, Cobahn, Costanza and DJ HI-C and 7 more. Techno and Experimental. Preview the line-up and save it on soundcheck.
+PODD x Omen Wapta x Ute at ingang on Thu 22 Oct, Amsterdam. 11 acts on the bill: Avsluta, Cobahn, Costanza and DJ HI-C and 7 more. Techno and Experimental. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
 | Date | Thu, 22 Oct 2026 |
-| Venue | Ingang |
+| Venue | ingang |
 | City | Amsterdam |
 
 ## Line-up

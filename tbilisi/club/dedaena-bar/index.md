@@ -1,0 +1,17 @@
+# Dedaena Bar
+
+Dedaena Bar is a music venue in Tbilisi with 1 upcoming night listed on soundcheck as of Mon, 14 Sept 2026; the next is "Dila Radio: Weekly Thursday Party" on Thu, 17 Sept 2026.
+
+Dedaena Bar is a music venue in Tbilisi listed on soundcheck. 1 upcoming night, with line-ups including Emanuele Barilli. Browse upcoming dates, start times and who's playing. Dedaena Park, Mother Language Garden 0102 Tbilisi, Georgia.
+
+## What's on
+
+| Date | Night | Line-up |
+| --- | --- | --- |
+| Thu, 17 Sept 2026 | Dila Radio: Weekly Thursday Party | Emanuele Barilli |
+
+## Address
+
+Dedaena Park, Mother Language Garden 0102 Tbilisi, Georgia, Tbilisi
+
+*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/tbilisi/club/dedaena-bar/)*

@@ -1,13 +1,14 @@
 # Lloyd Barwood
 
-Lloyd Barwood is a Progressive House and House artist with 1 upcoming club date listed on soundcheck as of Mon, 14 Sept 2026, next at SWG3, Glasgow on Fri, 27 Nov 2026.
+Lloyd Barwood is a Progressive House and House artist with 2 upcoming club dates listed on soundcheck as of Mon, 14 Sept 2026, next at Akvárium Klub, Budapest on Sat, 3 Oct 2026.
 
-Lloyd Barwood is a progressive house and house artist based in United Kingdom, tracked on soundcheck, with 22 sets logged across Amsterdam, Bristol, Glasgow and Liverpool and 3 more. Often billed alongside Will Flint, Danny Howells and My Friend. Next up: SWG3, Glasgow on Fri 27 Nov.
+Lloyd Barwood is a progressive house and house artist based in United Kingdom, tracked on soundcheck, with 23 sets logged across Amsterdam, Bristol, Budapest and Glasgow and 4 more. Often billed alongside Will Flint, Danny Howells and My Friend. Next up: Akvárium Klub, Budapest on Sat 3 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 3 Oct 2026 | Akvárium Klub | Budapest |
 | Fri, 27 Nov 2026 | SWG3 | Glasgow |
 
 ## Recently played

@@ -10,7 +10,7 @@ Glob is a music venue in Denver listed on soundcheck. 3 upcoming nights, with li
 | --- | --- | --- |
 | Sat, 19 Sept 2026 | Headroom presents: slowdancexo | slowdancexo |
 | Wed, 14 Oct 2026 | Carl Stone | Carl Stone |
-| Tue, 1 Dec 2026 | Fraxiom (Food House) / Iris / TBA |  |
+| Tue, 1 Dec 2026 | Fraxiom (Food House) / Iris  |  |
 
 ## Address
 

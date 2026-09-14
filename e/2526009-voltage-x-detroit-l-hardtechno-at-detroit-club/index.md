@@ -1,6 +1,6 @@
 # VOLTAGE x DETROIT l HardTechno at DETROIT CLUB
 
-VOLTAGE x DETROIT l HardTechno at DETROIT CLUB on Fri 2 Oct, Barcelona. 2 acts on the bill: ERØXX and Kingsmo. Techno and Industrial. Preview the line-up and save it on soundcheck.
+VOLTAGE x DETROIT l HardTechno at DETROIT CLUB on Fri 2 Oct, Barcelona. 3 acts on the bill: DIDIXX, ERØXX and Kingsmo. Techno and Industrial. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ VOLTAGE x DETROIT l HardTechno at DETROIT CLUB on Fri 2 Oct, Barcelona. 2 acts o
 
 ## Line-up
 
+- DIDIXX
 - ERØXX
 - Kingsmo
 

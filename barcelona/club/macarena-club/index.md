@@ -11,7 +11,7 @@ Macarena Club is a music venue in Barcelona listed on soundcheck. 17 upcoming ni
 | Mon, 14 Sept 2026 | Memento Xs | Jo-Sie |
 | Tue, 15 Sept 2026 | Plastic Night | Kanedo |
 | Wed, 16 Sept 2026 | Saulo Pisa & Friends | Belu Rodriguez, Saulo Pisa |
-| Thu, 17 Sept 2026 | 25º Aniversario |  |
+| Thu, 17 Sept 2026 | Dissonanza |  |
 | Fri, 18 Sept 2026 | Dance, Shake, Swing | Konnin, LM |
 | Sat, 19 Sept 2026 | TimeTunnel Night | Carlos Lamar |
 | Sun, 20 Sept 2026 | Move Your Body | Santacreu |

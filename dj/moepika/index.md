@@ -1,8 +1,8 @@
 # MoEPiKA
 
-MoEPiKA is a Techno and Bass artist with 3 upcoming club dates listed on soundcheck as of Mon, 14 Sept 2026, next at Odaiba, Tokyo on Tue, 22 Sept 2026.
+MoEPiKA is a Techno and Bass artist with 4 upcoming club dates listed on soundcheck as of Mon, 14 Sept 2026, next at Odaiba, Tokyo on Tue, 22 Sept 2026.
 
-MoEPiKA is a techno and bass artist tracked on soundcheck, with 159 sets logged across Osaka, Seoul and Tokyo. Often billed alongside ecec, YUVIE and Romy Mats. Next up: Odaiba, Tokyo on Tue 22 Sept.
+MoEPiKA is a techno and bass artist tracked on soundcheck, with 160 sets logged across Osaka, Seoul and Tokyo. Often billed alongside ecec, YUVIE and Romy Mats. Next up: Odaiba, Tokyo on Tue 22 Sept.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ MoEPiKA is a techno and bass artist tracked on soundcheck, with 159 sets logged 
 | --- | --- | --- |
 | Tue, 22 Sept 2026 | Odaiba | Tokyo |
 | Fri, 25 Sept 2026 | ZEROTOKYO | Tokyo |
+| Sun, 11 Oct 2026 | VENT | Tokyo |
 | Sat, 31 Oct 2026 | Saloon | Tokyo |
 
 ## Recently played

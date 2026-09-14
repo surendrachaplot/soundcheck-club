@@ -1,0 +1,11 @@
+# Club Rawhide SATURDAY NIGHT 9/19 at Club Rawhide
+
+Club Rawhide SATURDAY NIGHT 9/19 on Sat 19 Sept, Newyorkcity. Techno and House. Preview the line-up and save it on soundcheck.
+
+| Field | Value |
+| --- | --- |
+| Date | Sat, 19 Sept 2026 |
+| Venue | Club Rawhide |
+| City | New York City |
+
+*Source: [soundcheck](https://soundcheck.club/e/2536312-club-rawhide-saturday-night-9-19-at-club-rawhide/)*

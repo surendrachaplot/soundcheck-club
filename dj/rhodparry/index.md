@@ -1,13 +1,14 @@
 # Rhod Parry
 
-Rhod Parry is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Mon, 14 Sept 2026, next at The Underbank, Manchester on Sat, 19 Sept 2026.
+Rhod Parry is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Mon, 14 Sept 2026, next at The DBA, Manchester on Sat, 19 Sept 2026.
 
-Rhod Parry is a house and techno artist based in United Kingdom, tracked on soundcheck, with 66 sets logged across Leeds, Liverpool and Manchester. Often billed alongside Kickin Pigeon, Chunky and Fastlove. Next up: The Underbank, Manchester on Sat 19 Sept.
+Rhod Parry is a house and techno artist based in United Kingdom, tracked on soundcheck, with 67 sets logged across Leeds, Liverpool and Manchester. Often billed alongside Kickin Pigeon, Chunky and Fastlove. Next up: The DBA, Manchester on Sat 19 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 19 Sept 2026 | The DBA | Manchester |
 | Sat, 19 Sept 2026 | The Underbank | Manchester |
 | Fri, 25 Sept 2026 | Hidden | Manchester |
 

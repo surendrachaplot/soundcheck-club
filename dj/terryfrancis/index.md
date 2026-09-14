@@ -1,8 +1,8 @@
 # Terry Francis
 
-Terry Francis is a House and Tech House artist with 3 upcoming club dates listed on soundcheck as of Mon, 14 Sept 2026, next at 93 Feet East, London on Sun, 27 Sept 2026.
+Terry Francis is a House and Tech House artist with 4 upcoming club dates listed on soundcheck as of Mon, 14 Sept 2026, next at 93 Feet East, London on Sun, 27 Sept 2026.
 
-Terry Francis is a house and tech house artist tracked on soundcheck, with 61 sets logged across Aberdeen, Berlin, Birmingham and Brighton and 8 more. Often billed alongside 3 Minds, Eddie Richards and Jake Beautyman. Next up: 93 Feet East, London on Sun 27 Sept.
+Terry Francis is a house and tech house artist tracked on soundcheck, with 62 sets logged across Aberdeen, Berlin, Birmingham and Brighton and 9 more. Often billed alongside 3 Minds, Eddie Richards and Jake Beautyman. Next up: 93 Feet East, London on Sun 27 Sept.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ Terry Francis is a house and tech house artist tracked on soundcheck, with 61 se
 | Sun, 27 Sept 2026 | 93 Feet East | London |
 | Fri, 2 Oct 2026 | Eiger Studios | Leeds |
 | Sat, 31 Oct 2026 | Gaffe | London |
+| Sat, 28 Nov 2026 | Movers | Nottingham |
 
 ## Recently played
 

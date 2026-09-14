@@ -12,7 +12,7 @@ SILO is a music venue in Newyorkcity listed on soundcheck. 31 upcoming nights, w
 | Tue, 15 Sept 2026 | Open Decks with STEEN & Rhythm Cartel | STEEN |
 | Wed, 16 Sept 2026 | Tiffany Day presents: Bassfluff Afterparty |  |
 | Thu, 17 Sept 2026 | Techno Thursday [Melodic2Hard] (Main Room Event, Free with RSVP) | Bruce Wayne (US) |
-| Fri, 18 Sept 2026 | Machine Thirst: Bollmann / Firebunny | Bollmann, Firebunny |
+| Fri, 18 Sept 2026 | Machine Thirst: Bollmann / Firebunny | Bollmann, ELIVVATE, Firebunny, Nikitaurech |
 | Sat, 19 Sept 2026 | Baauer: The 'U' Experience | Baauer |
 | Tue, 22 Sept 2026 | Open Decks with Ceviché | ceviché |
 | Wed, 23 Sept 2026 | Open Decks with VHS & Transmute | ceviché |
