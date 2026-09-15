@@ -1,14 +1,14 @@
 # Brizze
 
-Brizze is a Techno and Industrial artist with 2 upcoming club dates listed on soundcheck as of Tue, 15 Sept 2026, next at Void Hall, Berlin on Fri, 6 Nov 2026.
+Brizze is a Techno and Industrial artist with 2 upcoming club dates listed on soundcheck as of Tue, 15 Sept 2026, next at Void Club, Berlin on Fri, 6 Nov 2026.
 
-Brizze is a techno and industrial artist tracked on soundcheck, with 52 sets logged across Berlin. Often billed alongside DaSoMaZo, Wachbär and Kopflos. Next up: Void Hall, Berlin on Fri 6 Nov.
+Brizze is a techno and industrial artist tracked on soundcheck, with 52 sets logged across Berlin. Often billed alongside DaSoMaZo, Wachbär and Kopflos. Next up: Void Club, Berlin on Fri 6 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 6 Nov 2026 | Void Hall | Berlin |
+| Fri, 6 Nov 2026 | Void Club | Berlin |
 | Sat, 12 Dec 2026 | Void Club | Berlin |
 
 ## Recently played

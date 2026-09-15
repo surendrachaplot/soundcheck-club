@@ -9,7 +9,7 @@ Authentically Plastic is a techno and club artist based in Uganda, tracked on so
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 25 Sept 2026 | La Fabriek | Brussels |
-| Sat, 26 Sept 2026 | M.O.T | London |
+| Sat, 26 Sept 2026 | Ormside Projects | London |
 
 ## Recently played
 

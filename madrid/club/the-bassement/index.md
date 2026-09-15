@@ -17,7 +17,7 @@ The Bassement is a music venue in Madrid listed on soundcheck. 12 upcoming night
 | Sat, 3 Oct 2026 | LASTER presents DÉCIMA by Nørbak with Surgeon | Nørbak, Surgeon |
 | Sat, 3 Oct 2026 | Hop on The Top MADRID - Hip Hop / R&B / Funk / Soul - The Bassement Club | DJ AMAZING |
 | Fri, 9 Oct 2026 | Laster Club presents INTERNATIONAL RESIDENTS NIGHT with The Lady Machine & Setaoc Mass | Setaoc Mass, The Lady Machine |
-| Fri, 30 Oct 2026 | Laster Club presents FRIDAY SPECIAL HALLOWEEN WEEKENDER | Feral, Nastia Reigel, Psyk, Wata Igarashi |
+| Fri, 30 Oct 2026 | Laster Club presents FRIDAY SPECIAL HALLOWEEN WEEKENDER x NON SERIES SHOWCASE | Feral, Nastia Reigel, Psyk, Wata Igarashi |
 
 ## Address
 

@@ -1,8 +1,8 @@
 # Mark Ernestus
 
-Mark Ernestus is a Dub and Techno artist with 6 upcoming club dates listed on soundcheck as of Tue, 15 Sept 2026, next at Fort Mifflin, Philadelphia on Fri, 18 Sept 2026.
+Mark Ernestus is a Dub and Techno artist with 7 upcoming club dates listed on soundcheck as of Tue, 15 Sept 2026, next at Fort Mifflin, Philadelphia on Fri, 18 Sept 2026.
 
-Mark Ernestus is a dub and techno artist based in Germany, tracked on soundcheck, with 34 sets logged across Amsterdam, Antwerp, Basel and Berlin and 16 more. Often billed alongside CCL, Objekt and Arthur (DE). Next up: Fort Mifflin, Philadelphia on Fri 18 Sept.
+Mark Ernestus is a dub and techno artist based in Germany, tracked on soundcheck, with 35 sets logged across Amsterdam, Antwerp, Basel and Berlin and 16 more. Often billed alongside CCL, Objekt and Arthur (DE). Next up: Fort Mifflin, Philadelphia on Fri 18 Sept.
 
 ## Upcoming shows
 
@@ -14,6 +14,7 @@ Mark Ernestus is a dub and techno artist based in Germany, tracked on soundcheck
 | Sat, 3 Oct 2026 | TBA - Downtown | Los Angeles |
 | Fri, 30 Oct 2026 | Berghain / Panorama Bar / Säule | Berlin |
 | Fri, 13 Nov 2026 | The Villa | Oslo |
+| Sat, 21 Nov 2026 | The Roundhouse | London |
 
 ## Recently played
 

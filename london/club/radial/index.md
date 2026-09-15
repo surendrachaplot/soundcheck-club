@@ -15,7 +15,7 @@ radial is a music venue in London listed on soundcheck. 14 upcoming nights, with
 | Sun, 27 Sept 2026 | [FREE ENTRY] Refractions Release Party - Mera Bhai, Darama, Avs, Lutsu, Noni-Mouse, AR Taal | Darama, Lutsu, Mera Bhai, Noni-Mouse |
 | Fri, 2 Oct 2026 | Soft Domination 004: 1st Birthday | Ivicore, LO-LOW, Sub Basics, Witch Trials |
 | Fri, 9 Oct 2026 | Lu:k (UK debut) + Dwarde b2b Abby Daze + Ac1d Vicious b2b Josie Bee + more (Loose Lips) | Abby Daze, Ac1d Vicious, Dwarde, Freya Algiz, Josie Bee, Medallion Man, Sunden |
-| Sat, 10 Oct 2026 | DOOSH V6 | D.G., FIDDI |
+| Sat, 10 Oct 2026 | DOOSH V6 | D.G., FIDDI, Tom and Tommer |
 | Fri, 16 Oct 2026 | POUFFE#2 | teleopath |
 | Sun, 18 Oct 2026 | JAM Agency Showcase | Aaron Burr (2), Isabelle Koci, Max Fisher, NOIDMATE |
 

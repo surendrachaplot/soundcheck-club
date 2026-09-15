@@ -9,7 +9,7 @@ XT1ANA is a club and hip-hop artist tracked on soundcheck, with 25 sets logged a
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 18 Sept 2026 | The Haggerston | London |
-| Sat, 26 Sept 2026 | M.O.T | London |
+| Sat, 26 Sept 2026 | Ormside Projects | London |
 
 ## Recently played
 

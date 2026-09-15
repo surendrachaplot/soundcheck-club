@@ -1,6 +1,6 @@
 # Deli Girls at Ormside Projects
 
-Deli Girls at Ormside Projects on Wed 23 Sept, London. 1 act on the bill: Deli Girls. Preview the line-up and save it on soundcheck.
+Deli Girls at Ormside Projects on Wed 23 Sept, London. 2 acts on the bill: Deli Girls and En Creux. Industrial and Noise. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,5 +11,6 @@ Deli Girls at Ormside Projects on Wed 23 Sept, London. 1 act on the bill: Deli G
 ## Line-up
 
 - Deli Girls
+- En Creux
 
 *Source: [soundcheck](https://soundcheck.club/e/2514644-deli-girls-at-ormside-projects/)*

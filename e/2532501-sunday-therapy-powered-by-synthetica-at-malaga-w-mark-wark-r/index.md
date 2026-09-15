@@ -1,6 +1,6 @@
 # SUNDAY THERAPY powered by Synthetica at Malaga w/ Mark Wark, Re Pigi, Loner Tennis Club at Malaga Sin City
 
-SUNDAY THERAPY powered by Synthetica at Malaga w/ Mark Wark, Re Pigi, Loner Tennis Club at Malaga Sin City on Sun 20 Sept, Milan. 3 acts on the bill: Loner Tennis Club, Mark Wark and Re Pigi. Techno. Preview the line-up and save it on soundcheck.
+SUNDAY THERAPY powered by Synthetica at Malaga w/ Mark Wark, Re Pigi, Loner Tennis Club at Malaga Sin City on Sun 20 Sept, Milan. 4 acts on the bill: Loner Tennis Club, Mark Wark, Re Pigi and Wildndrw. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -13,5 +13,6 @@ SUNDAY THERAPY powered by Synthetica at Malaga w/ Mark Wark, Re Pigi, Loner Tenn
 - Loner Tennis Club
 - Mark Wark
 - Re Pigi
+- Wildndrw
 
 *Source: [soundcheck](https://soundcheck.club/e/2532501-sunday-therapy-powered-by-synthetica-at-malaga-w-mark-wark-r/)*

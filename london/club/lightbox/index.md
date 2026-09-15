@@ -1,15 +1,23 @@
 # Lightbox
 
-Lightbox is a music venue in London with 2 upcoming nights listed on soundcheck as of Tue, 15 Sept 2026; the next is "THE BIG LONDON FRESHERS MASHUP - LONDON FRESHERS WEEK 2026" on Tue, 29 Sept 2026.
+Lightbox is a music venue in London with 16 upcoming nights listed on soundcheck as of Tue, 15 Sept 2026; the next is "Pop All Night Long - Limited Free Tickets" on Fri, 18 Sept 2026.
 
-Lightbox is a music venue in London listed on soundcheck. 2 upcoming nights. Browse upcoming dates, start times and who's playing. 6A S Lambeth Pl; Vauxhall; London SW8 1SP; United Kingdom.
+Lightbox is a music venue in London listed on soundcheck. 16 upcoming nights. Browse upcoming dates, start times and who's playing. 6A S Lambeth Pl; Vauxhall; London SW8 1SP; United Kingdom.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
+| Fri, 18 Sept 2026 | Pop All Night Long - Limited Free Tickets |  |
+| Sat, 19 Sept 2026 | VIVA Reggaeton - Freshers |  |
+| Sat, 19 Sept 2026 | VIVA Baile |  |
+| Fri, 25 Sept 2026 | Pop All Night Long - Freshers Special! - Limited Free Tickets |  |
+| Fri, 25 Sept 2026 | DnB All Night Long! - Limited Free Tickets |  |
+| Fri, 25 Sept 2026 | Brain Rot Rave - Freshers Special! - Limited Free Tickets |  |
+| Sat, 26 Sept 2026 | VIVA Reggaeton - Freshers - Reggaeton v.s. Afrobeats |  |
+| Sat, 26 Sept 2026 | VIVA Baile |  |
 | Tue, 29 Sept 2026 | THE BIG LONDON FRESHERS MASHUP - LONDON FRESHERS WEEK 2026 |  |
-| Fri, 30 Oct 2026 | All Night Long - Halloween Special - 4 Rooms of Music |  |
+| Fri, 2 Oct 2026 | Garage Classics All Night Long - Limited Free Tickets |  |
 
 ## Address
 

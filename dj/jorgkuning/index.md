@@ -1,8 +1,8 @@
 # Jorg Kuning
 
-Jorg Kuning is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Tue, 15 Sept 2026, next at Gaffe, London on Sat, 19 Sept 2026.
+Jorg Kuning is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Tue, 15 Sept 2026, next at Gaffe, London on Sat, 19 Sept 2026.
 
-Jorg Kuning is a house and techno artist tracked on soundcheck, with 66 sets logged across Amsterdam, Athens, Berlin and Bristol and 14 more. Often billed alongside Bitzer Maloney, Daisy Moon and K-LONE. Next up: Gaffe, London on Sat 19 Sept.
+Jorg Kuning is a house and techno artist tracked on soundcheck, with 67 sets logged across Amsterdam, Athens, Berlin and Bristol and 14 more. Often billed alongside Bitzer Maloney, Daisy Moon and K-LONE. Next up: Gaffe, London on Sat 19 Sept.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Jorg Kuning is a house and techno artist tracked on soundcheck, with 66 sets log
 | --- | --- | --- |
 | Sat, 19 Sept 2026 | Gaffe | London |
 | Sun, 25 Oct 2026 | Shelter Amsterdam | Amsterdam |
+| Sat, 14 Nov 2026 | Palais | London |
 | Fri, 11 Dec 2026 | Meredith Supernatural Ampitheatre | Melbourne |
 
 ## Recently played

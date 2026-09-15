@@ -9,7 +9,7 @@ Shackleton is an experimental and techno artist tracked on soundcheck, with 66 s
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 25 Sept 2026 | Gut Level | Sheffield |
-| Sat, 26 Sept 2026 | M.O.T | London |
+| Sat, 26 Sept 2026 | Ormside Projects | London |
 
 ## Recently played
 

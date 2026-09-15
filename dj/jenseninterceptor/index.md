@@ -1,14 +1,15 @@
 # Jensen Interceptor
 
-Jensen Interceptor is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Tue, 15 Sept 2026, next at RSO.BERLIN, Berlin on Sat, 26 Sept 2026.
+Jensen Interceptor is a Techno and Electro artist with 2 upcoming club dates listed on soundcheck as of Tue, 15 Sept 2026, next at RSO.BERLIN, Berlin on Sat, 26 Sept 2026.
 
-Jensen Interceptor is a techno and electro artist tracked on soundcheck, with 127 sets logged across Amsterdam, Athens, Austin and Bangkok and 45 more. Often billed alongside Lawrence Lee, Yazzus and DJ MELL G. Next up: RSO.BERLIN, Berlin on Sat 26 Sept.
+Jensen Interceptor is a techno and electro artist tracked on soundcheck, with 128 sets logged across Amsterdam, Athens, Austin and Bangkok and 45 more. Often billed alongside Lawrence Lee, Yazzus and DJ MELL G. Next up: RSO.BERLIN, Berlin on Sat 26 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 26 Sept 2026 | RSO.BERLIN | Berlin |
+| Sat, 14 Nov 2026 | Colour Factory | London |
 
 ## Recently played
 

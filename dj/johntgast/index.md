@@ -9,7 +9,7 @@ John T. Gast is an experimental and dub artist tracked on soundcheck, with 66 se
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 19 Sept 2026 | Galeria Zé Dos Bois | Lisbon |
-| Sat, 26 Sept 2026 | M.O.T | London |
+| Sat, 26 Sept 2026 | Ormside Projects | London |
 | Tue, 6 Oct 2026 | OCZKI | Warsaw |
 
 ## Recently played

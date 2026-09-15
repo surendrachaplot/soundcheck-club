@@ -1,6 +1,6 @@
 # CHICAGO MEETS AMSTERDAM X ADE 26 at 50:Hertz House & Techno Club Piazza Rembrandt | Rembrandtplein 45, Amsterdam
 
-CHICAGO MEETS AMSTERDAM X ADE 26 at 50:Hertz House & Techno Club Piazza Rembrandt | Rembrandtplein 45, Amsterdam on Sat 24 Oct, Amsterdam. 5 acts on the bill: Bianchetti, DJ Vivona, Hector Moralez and Robert Owens and 1 more. House and UK Funky. Preview the line-up and save it on soundcheck.
+CHICAGO MEETS AMSTERDAM X ADE 26 at 50:Hertz House & Techno Club Piazza Rembrandt | Rembrandtplein 45, Amsterdam on Sat 24 Oct, Amsterdam. 6 acts on the bill: Bianchetti, DJ Vivona, Hector Moralez and MR. SKIN and 2 more. House and UK Funky. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -13,6 +13,7 @@ CHICAGO MEETS AMSTERDAM X ADE 26 at 50:Hertz House & Techno Club Piazza Rembrand
 - Bianchetti
 - DJ Vivona
 - Hector Moralez
+- MR. SKIN
 - Robert Owens
 - TWOEF
 

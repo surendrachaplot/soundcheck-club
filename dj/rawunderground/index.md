@@ -1,14 +1,15 @@
 # Raw Underground
 
-Raw Underground is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Tue, 15 Sept 2026, next at Onder Hans, Amsterdam on Thu, 17 Sept 2026.
+Raw Underground is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Tue, 15 Sept 2026, next at Onder Hans, Amsterdam on Thu, 17 Sept 2026.
 
-Raw Underground is a house and tech house artist tracked on soundcheck, with 8 sets logged across Amsterdam and Losangeles. Often billed alongside Daniel Englisch, Sudden Moves and GraceBones. Next up: Onder Hans, Amsterdam on Thu 17 Sept.
+Raw Underground is a house and tech house artist tracked on soundcheck, with 9 sets logged across Amsterdam and Losangeles. Often billed alongside Daniel Englisch, GraceBones and Sudden Moves. Next up: Onder Hans, Amsterdam on Thu 17 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Thu, 17 Sept 2026 | Onder Hans | Amsterdam |
+| Fri, 23 Oct 2026 | Beatfabriek | Amsterdam |
 
 ## Recently played
 
@@ -22,6 +23,6 @@ Raw Underground is a house and tech house artist tracked on soundcheck, with 8 s
 
 ## Shares bills with
 
-Daniel Englisch, Sudden Moves, GraceBones
+Daniel Englisch, GraceBones, Sudden Moves
 
 *Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/rawunderground/)*

@@ -8,7 +8,7 @@ Hoppetosse is a music venue in Berlin listed on soundcheck. 11 upcoming nights, 
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 19 Sept 2026 | SZENETREFFEN Shameless + PBC Afterparty | Bailey Brown, Fear Of Color, LUISELLE, PyjamaMama, Selin (DE), Siegfried Plemo, Westside Bass, kutscher |
+| Sat, 19 Sept 2026 | SZENETREFFEN Shameless + PBC Afterparty | Bailey Brown, Fear Of Color, GregOrMarvel, Kutscher (DE), LUISELLE, PyjamaMama, Selin (DE), Siegfried Plemo, Westside Bass, kutscher |
 | Fri, 25 Sept 2026 | Musek Vol. VII | Francesco Farfa, Hamsa, Janina, Miki |
 | Sat, 26 Sept 2026 | Quirk: Henriku Birthday Edition | Alexander Skancke, Anaté, Henriku, Tomoki Tamura, Trent Voyage |
 | Fri, 2 Oct 2026 | Juno x Hoppetosse: Alex Picone, Robin Ordell, Kamyar Keramati, Bonza, Frankiee | Alex Picone, Bonza, Kamyar Keramati, Robin Ordell |

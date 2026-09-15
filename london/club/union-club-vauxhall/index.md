@@ -13,7 +13,7 @@ Union Club, Vauxhall is a music venue in London listed on soundcheck. 21 upcomin
 | Sun, 20 Sept 2026 | Orbit Sunday night / Monday morning after party | Elisa Nau., Thomas Galbardi, Wellzee |
 | Thu, 24 Sept 2026 | DESIRE - Weekly Thursday After Party - GIANNI TRANCHINA | Dhez, Duwat?, Elisa Nau., Simone Sim |
 | Fri, 25 Sept 2026 | FOX IN THE BOX AFTER PARTY (OPEN UNTIL 10AM) | Enrico Chirchiello, PERILOUS P |
-| Sun, 27 Sept 2026 | Orbit Sunday night / Monday morning after party | Luigi Imperato, Thomas Galbardi |
+| Sun, 27 Sept 2026 | Orbit Sunday night / Monday morning after party | Giusy S (2), Luigi Imperato, Thomas Galbardi |
 | Thu, 1 Oct 2026 | DESIRE - Weekly Thursday After Party - DJ STREET | Dhez, Duwat?, Elisa Nau., Simone Sim |
 | Fri, 2 Oct 2026 | AFTER PARTY AT FOX IN THE BOX (OPEN UNTIL 10 AM! ) | Enrico Chirchiello, Max Delta |
 | Sat, 3 Oct 2026 | TROUGH LONDON | Massimo Paramour |

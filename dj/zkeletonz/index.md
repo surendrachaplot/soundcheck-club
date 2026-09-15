@@ -1,14 +1,19 @@
 # Zkeletonz
 
-Zkeletonz is a Post-Punk and New Wave artist with 1 upcoming club date listed on soundcheck as of Tue, 15 Sept 2026, next at Dingwalls, London on Fri, 2 Oct 2026.
+Zkeletonz is a Post-Punk and New Wave artist with 6 upcoming club dates listed on soundcheck as of Tue, 15 Sept 2026, next at Barfly, London on Fri, 18 Sept 2026.
 
-Zkeletonz is a post-punk and new wave artist based in United Kingdom, tracked on soundcheck, with 16 sets logged across London. Often billed alongside Emergency Loop, Hyperfunk and JustElliot. Next up: Dingwalls, London on Fri 2 Oct.
+Zkeletonz is a post-punk and new wave artist based in United Kingdom, tracked on soundcheck, with 21 sets logged across London. Often billed alongside Emergency Loop, Hyperfunk and JustElliot. Next up: Barfly, London on Fri 18 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 18 Sept 2026 | Barfly | London |
+| Fri, 25 Sept 2026 | BJs White Swan | London |
+| Sat, 26 Sept 2026 | BJs White Swan | London |
 | Fri, 2 Oct 2026 | Dingwalls | London |
+| Thu, 22 Oct 2026 | The Good Mixer | London |
+| Sat, 21 Nov 2026 | The Good Mixer | London |
 
 ## Recently played
 

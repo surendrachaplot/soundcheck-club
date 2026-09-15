@@ -17,7 +17,7 @@ Club Makossa is a music venue in London listed on soundcheck. 12 upcoming nights
 | Thu, 1 Oct 2026 | Pineapple Club by Room2 (FREE ENTRY) |  |
 | Thu, 8 Oct 2026 | Rushing To Paradise | DAMO |
 | Sat, 10 Oct 2026 | POSITIVE_PRESENTS: 21 | Faded Society, Noizfiend, Positive_Con, tasha.mp4 |
-| Thu, 15 Oct 2026 | AFRO In Da Endz |  |
+| Thu, 15 Oct 2026 | AFRO In Da Endz: Afro House, Afro Tech & Gqom |  |
 
 ## Address
 

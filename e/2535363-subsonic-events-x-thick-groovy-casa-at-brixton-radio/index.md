@@ -1,6 +1,6 @@
 # Subsonic Events x Thick Groovy Casa at Brixton Radio
 
-Subsonic Events x Thick Groovy Casa at Brixton Radio on Sat 19 Sept, London. 10 acts on the bill: Dezz, Dimanté, djz00p and Jonty and 6 more. Tech House and Afro House. Preview the line-up and save it on soundcheck.
+Subsonic Events x Thick Groovy Casa at Brixton Radio on Sat 19 Sept, London. 15 acts on the bill: Bread & Butter, daaz, Dezz and Dimanté and 11 more. Tech House and Afro House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,11 +10,16 @@ Subsonic Events x Thick Groovy Casa at Brixton Radio on Sat 19 Sept, London. 10 
 
 ## Line-up
 
+- Bread & Butter
+- daaz
 - Dezz
 - Dimanté
 - djz00p
+- GRIT.
+- Isaac Frost
 - Jonty
 - misscondukt
+- Moonz
 - Nojan
 - Picep
 - Sabion Paid

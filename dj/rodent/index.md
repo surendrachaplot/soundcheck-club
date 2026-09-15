@@ -1,14 +1,15 @@
 # Rodent
 
-Rodent is a Drum & Bass and Jungle artist with 2 upcoming club dates listed on soundcheck as of Tue, 15 Sept 2026, next at The Bongo Club, Edinburgh on Fri, 18 Sept 2026.
+Rodent is a Drum & Bass and Jungle artist with 3 upcoming club dates listed on soundcheck as of Tue, 15 Sept 2026, next at The Bongo Club, Edinburgh on Fri, 18 Sept 2026.
 
-Rodent is a drum & bass and jungle artist based in United Kingdom, tracked on soundcheck, with 80 sets logged across Buenosaires, Edinburgh, Glasgow and London and 1 more. Often billed alongside F:N (UK), Teknocrat and FOLIE (UK). Next up: The Bongo Club, Edinburgh on Fri 18 Sept.
+Rodent is a drum & bass and jungle artist based in United Kingdom, tracked on soundcheck, with 81 sets logged across Buenosaires, Edinburgh, Glasgow and London and 1 more. Often billed alongside F:N (UK), Teknocrat and FOLIE (UK). Next up: The Bongo Club, Edinburgh on Fri 18 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 18 Sept 2026 | The Bongo Club | Edinburgh |
+| Fri, 18 Sept 2026 | XOYO | London |
 | Tue, 22 Sept 2026 | The Bongo Club | Edinburgh |
 
 ## Recently played

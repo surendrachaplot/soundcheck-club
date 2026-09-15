@@ -1,13 +1,14 @@
 # Azire
 
-Azire is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Tue, 15 Sept 2026, next at TBA - EAST LONDON- announced to ticket holders on the day, London on Fri, 16 Oct 2026.
+Azire is a House and Minimal artist with 2 upcoming club dates listed on soundcheck as of Tue, 15 Sept 2026, next at Basing House, London on Fri, 25 Sept 2026.
 
-Azire is a house and minimal artist based in United Kingdom, tracked on soundcheck, with 56 sets logged across London and Manchester. Often billed alongside Kesh (1), DeRizzio and Billa Bazz. Next up: TBA - EAST LONDON- announced to ticket holders on the day, London on Fri 16 Oct.
+Azire is a house and minimal artist based in United Kingdom, tracked on soundcheck, with 57 sets logged across London and Manchester. Often billed alongside Kesh (1), DeRizzio and Billa Bazz. Next up: Basing House, London on Fri 25 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 25 Sept 2026 | Basing House | London |
 | Fri, 16 Oct 2026 | TBA - EAST LONDON- announced to ticket holders on the day | London |
 
 ## Recently played

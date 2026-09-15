@@ -8,7 +8,7 @@ Le Trabendo is a music venue in Paris listed on soundcheck. 5 upcoming nights, w
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 18 Sept 2026 | Halfpipe Records & Friends at Trabendo |  |
+| Fri, 18 Sept 2026 | Halfpipe Records & Friends at Trabendo | Maïcee |
 | Sat, 19 Sept 2026 | Transgenik x stargurl Rituals | Asaya, stargurl |
 | Sat, 26 Sept 2026 | Basses Fréquences Club: Dasha Rush + Boskøw + Secret Guest | Boskøw, Dasha Rush |
 | Sat, 3 Oct 2026 | Flash Cocotte pride reloaded Edition | Cardopusher, Pipi De Frèche |

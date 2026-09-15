@@ -4462,7 +4462,7 @@
   <!-- Umami analytics. defer so it never blocks first paint; the SPA rewrites
        history on navigation, which umami picks up automatically. -->
   <script defer src="https://cloud.umami.is/script.js" data-website-id="de210b6c-12e4-4819-95f6-f5120974855a"></script>
-<meta name="sc-build" content="1789504963415">
+<meta name="sc-build" content="1789507228060">
   <link rel="canonical" href="https://soundcheck.club/" />
   <meta property="og:image" content="https://api.soundcheck.club/api/og?v=2&t=soundcheck&s=Club%20nights%20%26%20DJ%20sets%20in%20104%20cities" />
 </head>
@@ -4521,7 +4521,7 @@
     <div class="grid" id="grid"></div>
     <!-- Per-city "what's on this week" date links, injected by build-club (canonical
          /<city>/<date>/ pages). Empty in the source; hidden on client-side city switch. -->
-    <section id="home-seo-more" class="home-seo-more" data-city="london"><h2>What&rsquo;s on in London this week</h2><ul class="home-seo-dates"><li><a href="/london/2026-09-15/">Tue 15 Sept <span class="c">3 events</span></a></li><li><a href="/london/2026-09-16/">Wed 16 Sept <span class="c">18 events</span></a></li><li><a href="/london/2026-09-17/">Thu 17 Sept <span class="c">38 events</span></a></li><li><a href="/london/2026-09-18/">Fri 18 Sept <span class="c">105 events</span></a></li><li><a href="/london/2026-09-19/">Sat 19 Sept <span class="c">115 events</span></a></li><li><a href="/london/2026-09-20/">Sun 20 Sept <span class="c">27 events</span></a></li><li><a href="/london/2026-09-21/">Mon 21 Sept <span class="c">5 events</span></a></li></ul><nav class="home-seo-nav" aria-label="More on soundcheck"><a href="/london/this-weekend/">This weekend in London</a> <a href="/london/scene/">London scene guide</a> <a href="/cities/">All 105 cities</a></nav></section>
+    <section id="home-seo-more" class="home-seo-more" data-city="london"><h2>What&rsquo;s on in London this week</h2><ul class="home-seo-dates"><li><a href="/london/2026-09-15/">Tue 15 Sept <span class="c">3 events</span></a></li><li><a href="/london/2026-09-16/">Wed 16 Sept <span class="c">18 events</span></a></li><li><a href="/london/2026-09-17/">Thu 17 Sept <span class="c">38 events</span></a></li><li><a href="/london/2026-09-18/">Fri 18 Sept <span class="c">112 events</span></a></li><li><a href="/london/2026-09-19/">Sat 19 Sept <span class="c">124 events</span></a></li><li><a href="/london/2026-09-20/">Sun 20 Sept <span class="c">27 events</span></a></li><li><a href="/london/2026-09-21/">Mon 21 Sept <span class="c">5 events</span></a></li></ul><nav class="home-seo-nav" aria-label="More on soundcheck"><a href="/london/this-weekend/">This weekend in London</a> <a href="/london/scene/">London scene guide</a> <a href="/cities/">All 105 cities</a></nav></section>
 
     <!-- Crawlable home content (H1 + intro) — moved to the bottom of the page. Still a real
          <h1> in the DOM so it's the page heading for SEO regardless of visual position.
@@ -4666,7 +4666,7 @@
     // with the app's CITIES_V (soundcheck-native src/api.ts); the endpoints differ,
     // but one number is easier to keep honest than two.
     var CITIES_V = '3';   // 2026-09-13: Helsinki added
-    var YT_SETS_V = '5';   // 2026-09-01: MixesDB joins the Sets tab, and the embed-URL fix rewrote every stored mix url
+    var YT_SETS_V = '6';   // 2026-09-15: YouTube sets carry a publish date; every Sets list sorts newest first
 
     var EMAIL_RE = /^[^\s@]+@[^\s@]+\.[^\s@]+$/;
 
@@ -4874,6 +4874,12 @@
     function sessionPlays(){ try{ return parseInt(sessionStorage.getItem('sc_splays'),10)||0; }catch(_){ return 0; } }
     function bumpPlayCount(){ setPref('plays', playCount()+1); try{ sessionStorage.setItem('sc_splays', String(sessionPlays()+1)); }catch(_){} }
     function gateForPlay(){
+      // THE APPS ARE NEVER GATED. Inside the native apps this page is the hidden
+      // playback engine — the dock is drawn natively — so an email overlay here is
+      // invisible AND it refuses the play: from the second set of a session every
+      // YouTube tap in the app silently did nothing. The apps have their own
+      // sign-in; the gate stays on the web, where a person can actually see it.
+      if(window.__scNoGate) return Promise.resolve(true);
       if(hasEmail()) return Promise.resolve(true);
       if(sessionPlays() < 1) return Promise.resolve(true);   // first play of each session is free
       return ensureEmailGate({ heading:'Sign up to <span class="ac">continue listening</span>.', body:'Pop in your email and we will send you a link and a 6-character code to set up your profile. Start liking artists, saving events and create your music diary with soundcheck.' });
@@ -4882,6 +4888,7 @@
     // them keep going immediately. Tapping the link finishes sign-up + merges
     // their anonymous picks. Also subscribes the email to the weekly list.
     function ensureEmailGate(opts){
+      if(window.__scNoGate) return Promise.resolve(true);   // see gateForPlay: never inside the apps
       if(hasEmail()) return Promise.resolve(true);
       // Don't gate until we actually know the auth state. On a hard refresh the
       // cached shell paints instantly but /api/auth/me is a cross-origin call
@@ -5423,7 +5430,9 @@
       // What the report button reports. Set BEFORE openDockUI so the button is
       // already armed by the time the dock slides in.
       setDockReport(videoId, (btn&&btn.dataset&&btn.dataset.slug)||'', 'youtube');
-      openDockUI(btn,btn.dataset.name||'Now playing',btn.dataset.venue||'', dockOpensExpanded());
+      // YOUTUBE OPENS THE DOCK, on phones too: the video is the player, so it is shown,
+      // never started behind a collapsed bar. SoundCloud keeps dockOpensExpanded().
+      openDockUI(btn,btn.dataset.name||'Now playing',btn.dataset.venue||'', true);
       loadTracklist(videoId);   // parse the video's description tracklist (if any) → dock "Tracklist" button
       if(reuse){
         try{ ytPlayer.loadVideoById({ videoId:videoId, startSeconds:start }); }catch(_){}
@@ -5582,6 +5591,30 @@
       el.dataset.poster=art||'';
       playSc(el); return true;
     }
+    // THE ARTIST'S NEWEST SOUNDCLOUD SET — what every main Play button starts with.
+    // Their own SoundCloud account plus the SoundCloud-hosted mixes MixesDB keys to
+    // them, newest by date. Undated sets only win when nothing is dated. Memoised
+    // per artist so a pointerdown can warm it before the click. Resolves to
+    // { url, title, art } or null (no SoundCloud set → the caller's YouTube path).
+    var _latestSc={};
+    function latestScSet(entry){
+      var slug=entry&&entry.slug; if(!slug) return Promise.resolve(null);
+      if(_latestSc[slug]) return _latestSc[slug];
+      function j(u){ return fetch(API_BASE+u).then(function(r){ return r.ok?r.json():{}; }).catch(function(){ return {}; }); }
+      var p=Promise.all([
+        j('/api/soundcloud/sets?slug='+encodeURIComponent(slug)+'&v='+YT_SETS_V),
+        j('/api/mixesdb/sets?slug='+encodeURIComponent(slug)+'&name='+encodeURIComponent(entry.name||slug)+'&v='+YT_SETS_V)
+      ]).then(function(r){
+        var c=[];
+        ((r[0]&&r[0].sets)||[]).forEach(function(x){ if(x&&x.url) c.push({ url:x.url, title:x.title, art:x.artwork||null, t:Date.parse(x.date||'') }); });
+        ((r[1]&&r[1].sets)||[]).forEach(function(x){ if(x&&x.host==='soundcloud'&&x.url) c.push({ url:x.url, title:x.page_title, art:null, t:Date.parse(x.mix_date||'') }); });
+        if(!c.length){ delete _latestSc[slug]; return null; }   // not memoised: a pending lookup may fill it
+        var best=c[0];
+        c.forEach(function(x){ if(!isNaN(x.t) && (isNaN(best.t) || x.t>best.t)) best=x; });
+        return best;
+      });
+      _latestSc[slug]=p; return p;
+    }
     // WHEN YOUTUBE FAILS AN ARTIST, PLAY THEM ANYWAY.
     //
     // A listener tapped an artist, not a platform. Stopping because one video is
@@ -5652,17 +5685,8 @@
       // the artist's first SoundCloud mix made every YouTube row on an artist page
       // in the app play that same mix. prefer:'sc' is for "play this artist" only.
       if(opts && opts.prefer==='sc' && all.length===1 && all[s0] && all[s0].slug && !all[s0].videoId){
-        var pref=all[s0];
-        try{
-          var pr=await fetch(API_BASE+'/api/soundcloud/sets?slug='+encodeURIComponent(pref.slug)+'&v='+YT_SETS_V);
-          var ps=((await pr.json())||{}).sets||[];
-          if(ps.length && ps[0].url){ playScUrl(ps[0].url, ps[0].title, ps[0].artwork, 'SoundCloud', pref); return; }
-        }catch(_){}
-        try{
-          var mr=await fetch(API_BASE+'/api/mixesdb/sets?slug='+encodeURIComponent(pref.slug)+'&name='+encodeURIComponent(pref.name||pref.slug)+'&v='+YT_SETS_V);
-          var ms=(((await mr.json())||{}).sets||[]).filter(function(x){ return x && x.host==='soundcloud' && x.url; });
-          if(ms.length){ playScUrl(ms[0].url, ms[0].page_title, null, 'SoundCloud', pref); return; }
-        }catch(_){}
+        var pref=all[s0], lt=await latestScSet(pref);
+        if(lt){ playScUrl(lt.url, lt.title, lt.art, 'SoundCloud', pref); return; }
       }
       var need=list.filter(function(a){ return !a.videoId; }).map(function(a){ return a.slug; });
       if(need.length){
@@ -10119,8 +10143,11 @@
         // Tune in = play the artist's full sets back-to-back. Warm the sets list on
         // press so the queue is ready by click-time (keeps mobile autoplay inside the gesture).
         function prefetchSets(){ try{ loadYtApi(); }catch(_){} if(!apRadio._setsP) apRadio._setsP=fetch(API_BASE+'/api/youtube/sets?slug='+encodeURIComponent(slug)+'&name='+encodeURIComponent(a.name||slug)+'&v='+YT_SETS_V).then(function(r){ return r.json(); }).catch(function(){ return {}; }); return apRadio._setsP; }
-        function tuneInSets(){ prefetchSets().then(function(j){ var sets=(j&&j.sets)||[]; if(!sets.length){ showToast('No sets found for '+(a.name||slug)+' yet.'); return; } playYtList(sets.map(function(s){ return { slug:slug, name:a.name||slug, videoId:s.videoId }; }), 0); }); }
-        apRadio.addEventListener('pointerdown',prefetchSets,{passive:true});
+        // MAIN PLAY = the artist's newest SoundCloud set, on every surface. Only an
+        // artist with no SoundCloud set falls through to their YouTube sets.
+        function tuneInSets(){ latestScSet({ slug:slug, name:a.name||slug }).then(function(lt){ if(lt){ playScUrl(lt.url, lt.title, lt.art, 'SoundCloud', { name:a.name||slug, slug:slug }); return; } tuneInYt(); }); }
+        function tuneInYt(){ prefetchSets().then(function(j){ var sets=(j&&j.sets)||[]; if(!sets.length){ showToast('No sets found for '+(a.name||slug)+' yet.'); return; } playYtList(sets.map(function(s){ return { slug:slug, name:a.name||slug, videoId:s.videoId }; }), 0); }); }
+        apRadio.addEventListener('pointerdown',function(){ latestScSet({ slug:slug, name:a.name||slug }); prefetchSets(); },{passive:true});
         apRadio.addEventListener('click',tuneInSets);
         armSticky(a.name||slug, tuneInSets, apRadio);
         document.getElementById('ap-wanna').addEventListener('click',function(){
@@ -10194,7 +10221,7 @@
                 // to the generated poster below rather than an empty tile.
                 thumb:'', dur:s.duration_sec, url:s.host==='youtube'?null:s.url,
                 videoId:s.host==='youtube'?(/[?&]v=([\w-]+)/.exec(s.url)||/youtu\.be\/([\w-]+)/.exec(s.url)||[])[1]:null,
-                page:s.page, tracks:s.n_tracks, partial:s.tracks_partial });
+                page:s.page, tracks:s.n_tracks, partial:s.tracks_partial, date:s.mix_date });
               var last=items[items.length-1];
               if(last.videoId) last.thumb='https://i.ytimg.com/vi/'+encodeURIComponent(last.videoId)+'/mqdefault.jpg';
             });
@@ -10202,13 +10229,13 @@
             ((yj.sets)||[]).forEach(function(s){ items.push({
               kind:'yt', title:s.title||'Set', src:s.channel||'YouTube', badge:'YT',
               thumb:'https://i.ytimg.com/vi/'+encodeURIComponent(s.videoId)+'/mqdefault.jpg',
-              dur:s.duration, videoId:s.videoId }); });
+              dur:s.duration, videoId:s.videoId, date:s.published }); });
             ((sj.sets)||[]).forEach(function(s){ items.push({
               kind:'sc', title:s.title||'Set', src:'SoundCloud', badge:'SC',
-              thumb:s.artwork||'', dur:s.duration, url:s.url }); });
+              thumb:s.artwork||'', dur:s.duration, url:s.url, date:s.date }); });
             ((nj.sets)||[]).forEach(function(s){ items.push({
               kind:'nts', title:s.title||'Set', src:'NTS'+(s.location?' \u00b7 '+s.location:''), badge:'NTS',
-              thumb:s.image||'', audio:s.audio, page:s.url }); });
+              thumb:s.image||'', audio:s.audio, page:s.url, date:s.date }); });
 
             // NEAR-DUPLICATE COLLAPSE. Exact videoIds were already unique, but a
             // residency drops one upload per guest — five rows reading
@@ -10246,6 +10273,10 @@
               });
               items=out;
             })();
+            // NEWEST FIRST, across every source. Undated rows keep their order, last.
+            items=items.map(function(it,i){ var t=Date.parse(it.date||''); return { it:it, i:i, t:isNaN(t)?null:t }; })
+              .sort(function(x,y){ return (x.t===null)-(y.t===null) || (y.t||0)-(x.t||0) || x.i-y.i; })
+              .map(function(x){ return x.it; });
 
             if(!items.length){
               box.innerHTML='<div class="fp-sets-empty">'+(yj.degraded?'Sets are temporarily unavailable \u2014 try again later.':(yj.pending?'Looking for sets by '+esc(artist)+' \u2014 check back shortly.':'No full sets found for '+esc(artist)+' yet.'))+'</div>';

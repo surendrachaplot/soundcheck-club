@@ -9,7 +9,7 @@ Iration Steppas is a dub and drum & bass artist based in United Kingdom, tracked
 | Date | Venue | City |
 | --- | --- | --- |
 | Thu, 24 Sept 2026 | The Hifi Club | Leeds |
-| Sat, 26 Sept 2026 | M.O.T | London |
+| Sat, 26 Sept 2026 | Ormside Projects | London |
 | Sat, 3 Oct 2026 | Beaver Works | Leeds |
 | Fri, 9 Oct 2026 | The Golden Lion | Manchester |
 

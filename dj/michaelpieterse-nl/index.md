@@ -1,14 +1,15 @@
 # Michael Pieterse
 
-Michael Pieterse is a Garage and House artist with 2 upcoming club dates listed on soundcheck as of Tue, 15 Sept 2026, next at Planet Wax, London on Sat, 17 Oct 2026.
+Michael Pieterse is a Garage and House artist with 3 upcoming club dates listed on soundcheck as of Tue, 15 Sept 2026, next at Planet Wax, London on Sat, 17 Oct 2026.
 
-Michael Pieterse is a garage and house artist based in Netherlands, tracked on soundcheck, with 23 sets logged across Amsterdam, Berlin and London. Often billed alongside Ive Lovers, Xamount and DJANGO (NL). Next up: Planet Wax, London on Sat 17 Oct.
+Michael Pieterse is a garage and house artist based in Netherlands, tracked on soundcheck, with 24 sets logged across Amsterdam, Berlin and London. Often billed alongside Ive Lovers, Xamount and DJANGO (NL). Next up: Planet Wax, London on Sat 17 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 17 Oct 2026 | Planet Wax | London |
+| Fri, 23 Oct 2026 | Beatfabriek | Amsterdam |
 | Sat, 24 Oct 2026 | Club Up | Amsterdam |
 
 ## Recently played

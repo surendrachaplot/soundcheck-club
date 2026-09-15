@@ -8,7 +8,7 @@ Noorderlicht Café is a music venue in Amsterdam listed on soundcheck. 5 upcomin
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 26 Sept 2026 | BHAE Festival | Christoph Cham, KAHMEYA, Mitch Oliver, Soof, [ares] |
+| Sat, 26 Sept 2026 | BHAE Festival | Christoph Cham, FeelofSofie, KAHMEYA, Mitch Oliver, Soof, [ares] |
 | Wed, 21 Oct 2026 | 313X020: BBQ Amsterdam invites Detroit | Angelo D'onorio, Antonio Fevola, DJ Roach, Daniel Englisch, De León, Detune, Dylan Drazen, Inez Akker, M-Cecile, Neil V, Redmadvelvet, Sous Dubois, T.Linder |
 | Thu, 22 Oct 2026 | Isolate x rummel x FROM DUSK TILL DAWN - ADE 26 Edition | Agustin Giri, Alican, Argia, Djolee, Esli, Gespona, Last Men On Earth, Murat Uncuoglu, Phil Monday |
 | Sat, 24 Oct 2026 | Bordello A Parigi - ADE | Alden Tyrell, Budino, Daniel Monaco, John Noseda, Nunzio Borino |

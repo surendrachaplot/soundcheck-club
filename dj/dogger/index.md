@@ -1,13 +1,14 @@
 # dogger
 
-dogger is a Drum & Bass and Jungle artist with 1 upcoming club date listed on soundcheck as of Tue, 15 Sept 2026, next at Six Trees Bar And Kitchen Manchester, Manchester on Sat, 31 Oct 2026.
+dogger is a Drum & Bass and Jungle artist with 2 upcoming club dates listed on soundcheck as of Tue, 15 Sept 2026, next at Phonox, London on Fri, 25 Sept 2026.
 
-dogger is a drum & bass and jungle artist tracked on soundcheck, with 49 sets logged across Auckland, Bangkok, Berlin and Birmingham and 7 more. Often billed alongside Mindstate, DRS and foxi. Next up: Six Trees Bar And Kitchen Manchester, Manchester on Sat 31 Oct.
+dogger is a drum & bass and jungle artist tracked on soundcheck, with 50 sets logged across Auckland, Bangkok, Berlin and Birmingham and 7 more. Often billed alongside Mindstate, DRS and foxi. Next up: Phonox, London on Fri 25 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 25 Sept 2026 | Phonox | London |
 | Sat, 31 Oct 2026 | Six Trees Bar And Kitchen Manchester | Manchester |
 
 ## Recently played

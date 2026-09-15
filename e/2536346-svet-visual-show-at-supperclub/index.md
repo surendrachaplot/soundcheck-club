@@ -1,6 +1,6 @@
 # SVET visual show at Supperclub
 
-SVET visual show at Supperclub on Wed 21 Oct, Amsterdam. 7 acts on the bill: 8KAYS, Axel Haube, Che Boy and Human Rias and 3 more. Progressive House and Techno. Preview the line-up and save it on soundcheck.
+SVET visual show at Supperclub on Wed 21 Oct, Amsterdam. 8 acts on the bill: 8KAYS, Axel Haube, Che Boy and Human Rias and 4 more. Progressive House and Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -14,6 +14,7 @@ SVET visual show at Supperclub on Wed 21 Oct, Amsterdam. 7 acts on the bill: 8KA
 - Axel Haube
 - Che Boy
 - Human Rias
+- KOLE AUDRO
 - Philip Ackowsky
 - SOROUSH
 - Spartaque

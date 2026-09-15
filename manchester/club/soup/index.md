@@ -8,7 +8,7 @@ Soup is a music venue in Manchester listed on soundcheck. 14 upcoming nights, wi
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 18 Sept 2026 | No Boundaries presents: Coflo | Coflo, Danandout, Hen K, Marley Reid |
+| Fri, 18 Sept 2026 | No Boundaries presents: Coflo | Coflo, Danandout, Henk, Marley Reid |
 | Sat, 19 Sept 2026 | Ost presents Simo Cell (TemeT), Analog-1 (Furthur Electronix / meandyou / MCMLXV) & Bugs Groove | Bugs Groove, JS Zeiter, Simo Cell |
 | Thu, 24 Sept 2026 | Cause & Effect: 20 years of Oneman  | ASIAN BRAT, Oneman |
 | Fri, 25 Sept 2026 | DUBSTATE: mixtress, imad:re, Lilyn | Lilyn, imad:re, mixtress |

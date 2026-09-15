@@ -9,7 +9,7 @@ DaSoMaZo is a techno and industrial artist tracked on soundcheck, with 131 sets 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 18 Sept 2026 | Sensorium | Berlin |
-| Fri, 6 Nov 2026 | Void Hall | Berlin |
+| Fri, 6 Nov 2026 | Void Club | Berlin |
 | Sat, 12 Dec 2026 | Void Club | Berlin |
 
 ## Recently played

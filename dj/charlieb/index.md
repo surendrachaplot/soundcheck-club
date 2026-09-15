@@ -1,14 +1,15 @@
 # Charlie B
 
-Charlie B is a Jungle and Hardcore artist with 1 upcoming club date listed on soundcheck as of Tue, 15 Sept 2026, next at The Classic Grand, Glasgow on Sat, 10 Oct 2026.
+Charlie B is a Jungle and House artist with 2 upcoming club dates listed on soundcheck as of Tue, 15 Sept 2026, next at The Classic Grand, Glasgow on Sat, 10 Oct 2026.
 
-Charlie B is a jungle and hardcore artist tracked on soundcheck, with 10 sets logged across Amsterdam, Glasgow, Leeds and London and 1 more. Often billed alongside DJ SS, Dougal and Kenny Ken. Next up: The Classic Grand, Glasgow on Sat 10 Oct.
+Charlie B is a jungle and house artist tracked on soundcheck, with 11 sets logged across Amsterdam, Glasgow, Leeds and London and 1 more. Often billed alongside DJ SS, Dougal and Kenny Ken. Next up: The Classic Grand, Glasgow on Sat 10 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 10 Oct 2026 | The Classic Grand | Glasgow |
+| Sat, 28 Nov 2026 | Basing House | London |
 
 ## Recently played
 

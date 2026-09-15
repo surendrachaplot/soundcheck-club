@@ -9,7 +9,7 @@
 | Date | Night | Line-up |
 | --- | --- | --- |
 | Fri, 18 Sept 2026 | Parallel45 X Para\\ele Kids |  |
-| Sat, 19 Sept 2026 | Soul London: Speedbunny, Academique, Bdeiak, Di Evska | Bdeiak |
+| Sat, 19 Sept 2026 | [CANCELLED] Soul London: Speedbunny, Academique, Bdeiak, Di Evska | Bdeiak |
 | Sat, 31 Oct 2026 | SHIFTY's BIRTHDAY |  |
 
 ## Address

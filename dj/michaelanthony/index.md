@@ -1,14 +1,15 @@
 # Michael Anthony
 
-Michael Anthony is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 15 Sept 2026, next at 200 Channels, San Francisco/Oakland on Sat, 19 Sept 2026.
+Michael Anthony is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Tue, 15 Sept 2026, next at 200 Channels, San Francisco/Oakland on Sat, 19 Sept 2026.
 
-Michael Anthony is a house and techno artist based in United States of America, tracked on soundcheck, with 9 sets logged across Newyorkcity and Sanfrancisco. Often billed alongside Anthony Mansfield, Combover and Daizz. Next up: 200 Channels, Sanfrancisco on Sat 19 Sept.
+Michael Anthony is a house and techno artist based in United States of America, tracked on soundcheck, with 10 sets logged across London, Newyorkcity and Sanfrancisco. Often billed alongside Anthony Mansfield, Combover and Daizz. Next up: 200 Channels, Sanfrancisco on Sat 19 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 19 Sept 2026 | 200 Channels | San Francisco/Oakland |
+| Fri, 23 Oct 2026 | Outernet Live | London |
 
 ## Recently played
 

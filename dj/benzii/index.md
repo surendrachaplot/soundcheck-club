@@ -1,13 +1,14 @@
 # benzii
 
-benzii is a Club and Experimental artist with 1 upcoming club date listed on soundcheck as of Tue, 15 Sept 2026, next at TBA, London on Sat, 7 Nov 2026.
+benzii is a Club and Electronica artist with 2 upcoming club dates listed on soundcheck as of Tue, 15 Sept 2026, next at Marmorbar, Berlin on Sat, 26 Sept 2026.
 
-benzii is a club and experimental artist tracked on soundcheck, with 32 sets logged across Berlin, Cologne, Hamburg and Leipzig and 4 more. Often billed alongside Warlord®, bod [包家巷] and 0neo. Next up: TBA, London on Sat 7 Nov.
+benzii is a club and electronica artist tracked on soundcheck, with 33 sets logged across Berlin, Cologne, Hamburg and Leipzig and 4 more. Often billed alongside Warlord®, bod [包家巷] and 0neo. Next up: Marmorbar, Berlin on Sat 26 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 26 Sept 2026 | Marmorbar | Berlin |
 | Sat, 7 Nov 2026 | TBA | London |
 
 ## Recently played

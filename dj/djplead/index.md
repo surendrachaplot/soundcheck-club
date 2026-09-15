@@ -9,7 +9,7 @@ DJ Plead is a techno and bass artist tracked on soundcheck, with 132 sets logged
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 18 Sept 2026 | OHM | Berlin |
-| Sat, 26 Sept 2026 | M.O.T | London |
+| Sat, 26 Sept 2026 | Ormside Projects | London |
 | Thu, 1 Oct 2026 | Good Room | New York City |
 | Sat, 3 Oct 2026 | TBA | Mexico City |
 | Thu, 8 Oct 2026 | Hotel Forum | Krakow |

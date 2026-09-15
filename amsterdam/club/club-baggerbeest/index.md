@@ -8,9 +8,9 @@ Club Baggerbeest is a music venue in Amsterdam listed on soundcheck. 6 upcoming 
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Mon, 21 Sept 2026 | Groove Raiderz Amsterdam Dance Event Showcase at Baggerbeest Club | RIØ (DE) |
+| Mon, 21 Sept 2026 | Groove Raiderz Amsterdam Dance Event Showcase at Baggerbeest Club | RIØ (DE), avely |
 | Wed, 21 Oct 2026 | Big Bells x Audiosolo ADE 2026 | Adnan Jakubovic, Arrakis (GER), DJ Ruby, Jerpa, Mir Omar |
-| Wed, 21 Oct 2026 | Groove Raiderz Amsterdam Dance Event Showcase at Baggerbeest Club | RIØ (DE) |
+| Wed, 21 Oct 2026 | Groove Raiderz Amsterdam Dance Event Showcase at Baggerbeest Club | RIØ (DE), avely |
 | Fri, 23 Oct 2026 | Soundvision presents... Loko Meets Gaia Mama ADE 2026 | Bubba Brothers, ChillOhm, Eddy Romero |
 | Fri, 23 Oct 2026 | ALADAG presents MMAATTCCHH - ADE 2026 | ALADAG, Adellic, Echonomist, KENZA KAYATI, Nandu, Sonickraft |
 | Sun, 25 Oct 2026 | Daydreaming & EQUINOX PRESENT CONNEXION | FREEGO, Hector Moreno, Ornery |

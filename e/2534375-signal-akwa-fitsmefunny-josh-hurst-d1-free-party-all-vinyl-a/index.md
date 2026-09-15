@@ -1,6 +1,6 @@
 # SIGNAL: AKWA, FITSMEFUNNY, JOSH HURST, D1 [FREE PARTY + ALL VINYL] at The BBE Store
 
-SIGNAL: AKWA, FITSMEFUNNY, JOSH HURST, D1 [FREE PARTY + ALL VINYL] at The BBE Store on Fri 18 Sept, London. 2 acts on the bill: AKWA and FITS ME FUNNY. House and Experimental. Preview the line-up and save it on soundcheck.
+SIGNAL: AKWA, FITSMEFUNNY, JOSH HURST, D1 [FREE PARTY + ALL VINYL] at The BBE Store on Fri 18 Sept, London. 2 acts on the bill: AKWA and FITS ME FUNNY. House and Disco. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

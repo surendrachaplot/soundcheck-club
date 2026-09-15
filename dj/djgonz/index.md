@@ -9,7 +9,7 @@ DJ Gonz is a techno and experimental artist based in United Kingdom, tracked on 
 | Date | Venue | City |
 | --- | --- | --- |
 | Wed, 23 Sept 2026 | The White Hotel | Manchester |
-| Sat, 26 Sept 2026 | M.O.T | London |
+| Sat, 26 Sept 2026 | Ormside Projects | London |
 | Sat, 10 Oct 2026 | M.O.T | London |
 
 ## Recently played

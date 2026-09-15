@@ -10,7 +10,7 @@ Malaga Sin City is a music venue in Milan listed on soundcheck. 3 upcoming night
 | --- | --- | --- |
 | Thu, 17 Sept 2026 | Break Fast • Malaga Sin City |  |
 | Sat, 19 Sept 2026 | WOT presents Wise | Buza, Virgo (3), Vis. |
-| Sun, 20 Sept 2026 | SUNDAY THERAPY powered by Synthetica at Malaga w/ Mark Wark, Re Pigi, Loner Tennis Club | Loner Tennis Club, Mark Wark, Re Pigi |
+| Sun, 20 Sept 2026 | SUNDAY THERAPY powered by Synthetica at Malaga w/ Mark Wark, Re Pigi, Loner Tennis Club | Loner Tennis Club, Mark Wark, Re Pigi, Wildndrw |
 
 ## Address
 

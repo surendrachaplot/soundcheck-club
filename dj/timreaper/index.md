@@ -1,8 +1,8 @@
 # Tim Reaper
 
-Tim Reaper is a Jungle and Drum & Bass artist with 10 upcoming club dates listed on soundcheck as of Tue, 15 Sept 2026, next at M.O.T, London on Sat, 19 Sept 2026.
+Tim Reaper is a Jungle and Drum & Bass artist with 11 upcoming club dates listed on soundcheck as of Tue, 15 Sept 2026, next at M.O.T, London on Sat, 19 Sept 2026.
 
-Tim Reaper is a jungle and drum & bass artist tracked on soundcheck, with 242 sets logged across Amsterdam, Antwerp, Auckland and Barcelona and 47 more. Often billed alongside Dwarde, Sully and Coco Bryce. Next up: M.O.T, London on Sat 19 Sept.
+Tim Reaper is a jungle and drum & bass artist tracked on soundcheck, with 243 sets logged across Amsterdam, Antwerp, Auckland and Barcelona and 47 more. Often billed alongside Dwarde, Sully and Coco Bryce. Next up: M.O.T, London on Sat 19 Sept.
 
 ## Upcoming shows
 
@@ -17,6 +17,7 @@ Tim Reaper is a jungle and drum & bass artist tracked on soundcheck, with 242 se
 | Sat, 24 Oct 2026 | 24 Kitchen Street | Liverpool |
 | Fri, 30 Oct 2026 | Gaffe | London |
 | Fri, 6 Nov 2026 | The Island | Bristol |
+| Sat, 14 Nov 2026 | Colour Factory | London |
 | Sat, 21 Nov 2026 | TBA - Brussels | Brussels |
 
 ## Recently played

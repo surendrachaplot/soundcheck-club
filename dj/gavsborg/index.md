@@ -10,7 +10,7 @@ Gavsborg is a dub and dancehall artist based in Jamaica, tracked on soundcheck, 
 | --- | --- | --- |
 | Thu, 17 Sept 2026 | Trans-Pecos | New York City |
 | Fri, 18 Sept 2026 | Fort Mifflin | Philadelphia |
-| Sat, 26 Sept 2026 | M.O.T | London |
+| Sat, 26 Sept 2026 | Ormside Projects | London |
 
 ## Recently played
 

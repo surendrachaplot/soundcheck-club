@@ -12,7 +12,7 @@ Two More Years is a music venue in London listed on soundcheck. 5 upcoming night
 | Sat, 19 Sept 2026 | All Day Long - House & Disco by the canal |  |
 | Fri, 25 Sept 2026 | DIY Fridays - Deep House & Minimal |  |
 | Sat, 26 Sept 2026 | All Day Long - House & Disco by the canal |  |
-| Sat, 10 Oct 2026 | Late Night Disco - Bank Holiday Special | BRUIN (UK), Haruka (UK), Hayley Wallace, Late Night Disco, Tom Ayres |
+| Sat, 10 Oct 2026 | Late Night Disco  | BRUIN (UK), Haruka (UK), Hayley Wallace, Late Night Disco, Tom Ayres |
 
 ## Address
 

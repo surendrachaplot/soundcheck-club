@@ -8,6 +8,6 @@ TBA -  VARIOUS is a music venue in Amsterdam listed on soundcheck. 1 upcoming ni
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 2 Oct 2026 | AL.FESTIVAL.2026 | ABADIR, ADIRA, Amuleto Manuela, Kasja, Milad Samara, Noise Diva, Ubax, Zahra |
+| Fri, 2 Oct 2026 | AL.FESTIVAL.2026 | ABADIR, ADIRA, Amuleto Manuela, Kasja, Milad Samara, Noise Diva, Paulawar, Ubax, Zahra |
 
 *Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/tba-various/)*

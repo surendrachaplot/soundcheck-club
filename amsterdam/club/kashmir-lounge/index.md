@@ -9,7 +9,7 @@ Kashmir Lounge is a music venue in Amsterdam listed on soundcheck. 3 upcoming ni
 | Date | Night | Line-up |
 | --- | --- | --- |
 | Sat, 10 Oct 2026 | 4 THE LOVE OF HOUSE: DAMMIT | David J Newton |
-| Sat, 17 Oct 2026 | Deeper States Episode 400 12-Hour Special | David J Newton |
+| Sat, 17 Oct 2026 | David J Newton - Celebrating 400 Episodes of Deeper States - 12 Hours Live | David J Newton |
 | Wed, 21 Oct 2026 | Saturo Sounds presents: Amsterdam ADE Pre-Party | AKIVA, Darien J, Deckster, Eyal Rabia (2), Ivan Sandhas, Niko Garcia |
 
 ## Address

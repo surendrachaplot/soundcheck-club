@@ -1,6 +1,6 @@
 # Orbit Sunday night / Monday morning after party at Union Club, Vauxhall
 
-Orbit Sunday night / Monday morning after party at Union Club, Vauxhall on Sun 27 Sept, London. 2 acts on the bill: Luigi Imperato and Thomas Galbardi. Techno and Tech House. Preview the line-up and save it on soundcheck.
+Orbit Sunday night / Monday morning after party at Union Club, Vauxhall on Sun 27 Sept, London. 3 acts on the bill: Giusy S (2), Luigi Imperato and Thomas Galbardi. Techno and Tech House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ Orbit Sunday night / Monday morning after party at Union Club, Vauxhall on Sun 2
 
 ## Line-up
 
+- Giusy S (2)
 - Luigi Imperato
 - Thomas Galbardi
 

@@ -12,7 +12,7 @@ Gaffe is a music venue in London listed on soundcheck. 18 upcoming nights, with 
 | Sat, 19 Sept 2026 | Wisdom Teeth Day & Night: Pariah, Facta x K-LONE, Manami, Jorg Kuning, FYI Robyn | FYI Robyn, Facta, Jorg Kuning, K-LONE, Manami, Pariah |
 | Sun, 20 Sept 2026 | meanwhile... summer closing | ANNX, Fais Le Beau, Ludi, Oliver Scala, Wigs |
 | Fri, 25 Sept 2026 | Nachtlicker XI |  |
-| Sat, 26 Sept 2026 | Gaffe presents: A Summer Closing | Free Zing, Gwenan, Lottie (SI), Marius Bø, Sugar Free |
+| Sat, 26 Sept 2026 | Gaffe presents: A Summer Closing | Free Zing, Gwenan, Lottie (SI), Marius Bø, Sugar Free, Tommy 2000 |
 | Fri, 2 Oct 2026 | Spud Sounds presents: Vladimir Ivkovic, Cassy & Kuba'97 + After Party | Cassy, Kuba'97, Vladimir Ivkovic |
 | Fri, 9 Oct 2026 | Focal Point |  |
 | Fri, 9 Oct 2026 | Focal Point w/ Binh, Jade Seatle  | Alien Communications, Binh, Chez de Milo, Harri Pepper, Jade Seatle, Ste Roberts |

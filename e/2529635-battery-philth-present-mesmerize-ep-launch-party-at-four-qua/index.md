@@ -1,10 +1,10 @@
 # Battery & Philth present - Mesmerize EP launch party at Four Quarters
 
-Battery & Philth present - Mesmerize EP launch party at Four Quarters on Fri 18 Sept, London. 4 acts on the bill: Alley Cat, Haste, Philth and Rockwell. Drum & Bass and Jungle. Preview the line-up and save it on soundcheck.
+Battery & Philth present - Mesmerize EP launch party at Four Quarters on Fri 2 Oct, London. 4 acts on the bill: Alley Cat, Haste, Philth and Rockwell. Drum & Bass and Jungle. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
-| Date | Fri, 18 Sept 2026 |
+| Date | Fri, 2 Oct 2026 |
 | Venue | Four Quarters |
 | City | London |
 

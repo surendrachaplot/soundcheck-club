@@ -1,6 +1,6 @@
 # ALIVE Clara Cuve', CLTX, Doruksen at E1
 
-ALIVE Clara Cuve', CLTX, Doruksen at E1 on Fri 16 Oct, London. 4 acts on the bill: Clara Cuvé, CLTX, Doruksen and Nhū. Techno. Preview the line-up and save it on soundcheck.
+ALIVE Clara Cuve', CLTX, Doruksen at E1 on Fri 16 Oct, London. 7 acts on the bill: Clara Cuvé, CLTX, Doruksen and KINIA G and 3 more. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -13,6 +13,9 @@ ALIVE Clara Cuve', CLTX, Doruksen at E1 on Fri 16 Oct, London. 4 acts on the bil
 - Clara Cuvé
 - CLTX
 - Doruksen
+- KINIA G
+- Lau.tastic
+- MARIEEEA
 - Nhū
 
 *Source: [soundcheck](https://soundcheck.club/e/2423694-alive-clara-cuve-cltx-doruksen-at-e1/)*

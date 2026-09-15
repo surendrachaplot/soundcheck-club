@@ -1,11 +1,11 @@
-# NO LIMIT MUSIC x 1337OS // BREACH_01 — New Gamified Live Show at Secret Location
+# NO LIMIT MUSIC x 1337OS // BREACH_01 — New Gamified Live Show at Lvls
 
-NO LIMIT MUSIC x 1337OS // BREACH_01 — New Gamified Live Show at Secret Location on Fri 2 Oct, London. 2 acts on the bill: External Subway and MC No Limit. Drum & Bass and Grime. Preview the line-up and save it on soundcheck.
+NO LIMIT MUSIC x 1337OS // BREACH_01 — New Gamified Live Show at Lvls on Fri 2 Oct, London. 2 acts on the bill: External Subway and MC No Limit. Drum & Bass and Grime. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
 | Date | Fri, 2 Oct 2026 |
-| Venue | Secret Location |
+| Venue | Lvls |
 | City | London |
 
 ## Line-up

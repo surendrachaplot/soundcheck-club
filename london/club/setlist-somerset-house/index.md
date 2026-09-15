@@ -14,7 +14,7 @@ Setlist @ Somerset House is a music venue in London listed on soundcheck. 13 upc
 | Fri, 25 Sept 2026 | R&B and FUNKY HOUSE NIGHT |  |
 | Sat, 26 Sept 2026 | SETLIFE 1 YEAR ANNIVESARY |  |
 | Fri, 2 Oct 2026 | R&B and FUNKY HOUSE NIGHT |  |
-| Sat, 3 Oct 2026 | SETLIFE presents DJ L.A.J |  |
+| Sat, 3 Oct 2026 | SETLIFE presents DJ L.A.J (Nigerian Independence Special) |  |
 | Fri, 9 Oct 2026 | R&B and FUNKY HOUSE NIGHT |  |
 | Sat, 10 Oct 2026 | SETLIFE presents SENSES |  |
 | Fri, 16 Oct 2026 | R&B and FUNKY HOUSE NIGHT |  |

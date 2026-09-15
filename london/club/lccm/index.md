@@ -1,13 +1,14 @@
 # Lccm
 
-Lccm is a music venue in London with 4 upcoming nights listed on soundcheck as of Tue, 15 Sept 2026; the next is "BOX JAM" on Thu, 1 Oct 2026.
+Lccm is a music venue in London with 5 upcoming nights listed on soundcheck as of Tue, 15 Sept 2026; the next is "Music Industry Monday: Your Tutors In The Music Industry" on Mon, 28 Sept 2026.
 
-Lccm is a music venue in London listed on soundcheck. 4 upcoming nights. Browse upcoming dates, start times and who's playing. 241 Union St, London SE1 0LR, United Kingdom.
+Lccm is a music venue in London listed on soundcheck. 5 upcoming nights, with line-ups including Bass, Charlene, Harmony (UK) and Keyboardist and 2 more. Browse upcoming dates, start times and who's playing. 241 Union St, London SE1 0LR, United Kingdom.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
+| Mon, 28 Sept 2026 | Music Industry Monday: Your Tutors In The Music Industry | Bass, Charlene, Harmony (UK), Keyboardist, Sahil, Stevie Wonder |
 | Thu, 1 Oct 2026 | BOX JAM |  |
 | Mon, 5 Oct 2026 | Music Industry Monday: Building a Sustainable Career In Music |  |
 | Thu, 8 Oct 2026 | Rap Jam |  |

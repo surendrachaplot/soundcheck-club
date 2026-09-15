@@ -1,13 +1,14 @@
 # Althoff
 
-Althoff is a Deep House and Afro House artist with 1 upcoming club date listed on soundcheck as of Tue, 15 Sept 2026, next at Onder Hans, Amsterdam on Fri, 23 Oct 2026.
+Althoff is a Deep House and Afro House artist with 2 upcoming club dates listed on soundcheck as of Tue, 15 Sept 2026, next at Tola, London on Sat, 3 Oct 2026.
 
-Althoff is a deep house and afro house artist tracked on soundcheck, with 67 sets logged across Amsterdam, Barcelona, Milan and Prague and 1 more. Often billed alongside ERRANT, Last Set and NAC Oliver. Next up: Onder Hans, Amsterdam on Fri 23 Oct.
+Althoff is a deep house and afro house artist tracked on soundcheck, with 68 sets logged across Amsterdam, Barcelona, London and Milan and 2 more. Often billed alongside ERRANT, Last Set and NAC Oliver. Next up: Tola, London on Sat 3 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 3 Oct 2026 | Tola | London |
 | Fri, 23 Oct 2026 | Onder Hans | Amsterdam |
 
 ## Recently played

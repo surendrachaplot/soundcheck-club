@@ -1,14 +1,15 @@
 # Moonz
 
-Moonz is a Tech House and Techno artist with 2 upcoming club dates listed on soundcheck as of Tue, 15 Sept 2026, next at TBA - EAST LONDON - Announced to ticket holders on the day, London on Fri, 18 Sept 2026.
+Moonz is a Tech House and Techno artist with 3 upcoming club dates listed on soundcheck as of Tue, 15 Sept 2026, next at TBA - EAST LONDON - Announced to ticket holders on the day, London on Fri, 18 Sept 2026.
 
-Moonz is a tech house and techno artist tracked on soundcheck, with 59 sets logged across London. Often billed alongside Enrico Chirchiello, Billa Bazz and T1 (1). Next up: TBA - EAST LONDON - Announced to ticket holders on the day, London on Fri 18 Sept.
+Moonz is a tech house and techno artist tracked on soundcheck, with 60 sets logged across London. Often billed alongside Enrico Chirchiello, Billa Bazz and T1 (1). Next up: TBA - EAST LONDON - Announced to ticket holders on the day, London on Fri 18 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 18 Sept 2026 | TBA - EAST LONDON - Announced to ticket holders on the day | London |
+| Sat, 19 Sept 2026 | Brixton Radio | London |
 | Fri, 9 Oct 2026 | Jungla London | London |
 
 ## Recently played

@@ -9,7 +9,7 @@ Bianca Scout is an experimental and post-punk artist tracked on soundcheck, with
 | Date | Venue | City |
 | --- | --- | --- |
 | Thu, 17 Sept 2026 | Club Cheek | London |
-| Sat, 26 Sept 2026 | M.O.T | London |
+| Sat, 26 Sept 2026 | Ormside Projects | London |
 | Wed, 21 Oct 2026 | Muziekgebouw aan t' IJ | Amsterdam |
 | Thu, 10 Dec 2026 | The White Hotel | Manchester |
 

@@ -13,7 +13,7 @@ Bulbul Berlin is a music venue in Berlin listed on soundcheck. 10 upcoming night
 | Sat, 19 Sept 2026 | N'Sekt Vielleicht: Bruder Jakob, Wallat Wallat, Kat_Es | Bruder Jakob, Kat_Es, Wallat Wallat |
 | Thu, 24 Sept 2026 | mita records showcase: Flor Coto b2b PILAR MOLINERO, materia hache, Manu Barcelo | Flor Coto, Manu Barcelo, PILAR MOLINERO, materia hache |
 | Fri, 25 Sept 2026 | NIGHT SHIFT: Barée Masse (Marie), Umami Sound, GueHu, rabiatch | Barée Masse, Umami Sound, rabiatch |
-| Sat, 26 Sept 2026 | 7 YEARS OF BULBUL: Marc Brauner, Almost Famous, Nikklaas b2b Better Call Paul, Monoise, Morisia | Almost Famous, Better Call Paul, Marc Brauner, Morisia, Nikklaas |
+| Sat, 26 Sept 2026 | 7 YEARS OF BULBUL (FREE < 23:00): Marc Brauner, Almost Famous, Nikklaas & BCP, Monoise, Morisia | Almost Famous, Better Call Paul, Marc Brauner, Morisia, Nikklaas |
 | Sat, 3 Oct 2026 | TAG DER CLUBKULTUR 2026 - FRESH FACES (FREE ENTRY) | LA BITCHENCIO |
 | Thu, 8 Oct 2026 | TAG DER CLUBKULTUR 2026 - HOUSE OF OTHERS | Triqi, boyyyish, materia hache |
 | Fri, 9 Oct 2026 | TAG DER CLUBKULTUR 2026 - BRONCOS TAKEOVER | Jessica Nightlife, Subassi |

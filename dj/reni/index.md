@@ -11,7 +11,7 @@ re:ni is a techno and bass artist tracked on soundcheck, with 151 sets logged ac
 | Fri, 18 Sept 2026 | Badaboum | Paris |
 | Sat, 19 Sept 2026 | Badaboum | Paris |
 | Fri, 25 Sept 2026 | Hexagon Brussels | Brussels |
-| Sat, 26 Sept 2026 | M.O.T | London |
+| Sat, 26 Sept 2026 | Ormside Projects | London |
 | Fri, 2 Oct 2026 | BASEMENT | New York City |
 | Sat, 3 Oct 2026 | TBA | Mexico City |
 | Fri, 9 Oct 2026 | Hotel Forum | Krakow |

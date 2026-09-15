@@ -12,7 +12,7 @@ Phonox is a music venue in London listed on soundcheck. 37 upcoming nights, with
 | Fri, 18 Sept 2026 | LDN History Part 3: Roll Deep, Swindle, Grandmixxer, Just Jane | Grandmixxer, Just Jane, Roll Deep, Swindle (UK) |
 | Sat, 19 Sept 2026 | Phonox: Len Faki + Alba Heidari | Alba Heidari, Len Faki |
 | Thu, 24 Sept 2026 | Insomnia London: DJ JM, sooyeon, Carmen Baía | Carmen Baía, DJ JM, TBA, sooyeon |
-| Fri, 25 Sept 2026 | Signal: Dillinja, DRS, Benny L, Dogger, Peshay, Digital, Gaia | Dillinja |
+| Fri, 25 Sept 2026 | Signal: Dillinja, DRS, Benny L, Dogger, Peshay, Digital, Gaia | Benny L, DRS, Dillinja, Peshay, dogger |
 | Sat, 26 Sept 2026 | Phonox: Roi Perez, Amaliah | Amaliah, Roi Perez |
 | Thu, 1 Oct 2026 | Insomnia London | TBA |
 | Fri, 2 Oct 2026 | Anish Kumar, Baalti: 4 Fridays at Phonox (Opening Party) | Anish Kumar, Baalti |

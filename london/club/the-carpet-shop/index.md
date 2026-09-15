@@ -1,8 +1,8 @@
 # The Carpet Shop
 
-The Carpet Shop is a music venue in London with 13 upcoming nights listed on soundcheck as of Tue, 15 Sept 2026; the next is "Algorave Decelerate" on Wed, 16 Sept 2026.
+The Carpet Shop is a music venue in London with 17 upcoming nights listed on soundcheck as of Tue, 15 Sept 2026; the next is "Algorave Decelerate" on Wed, 16 Sept 2026.
 
-The Carpet Shop is a music venue in London listed on soundcheck. 13 upcoming nights, with line-ups including 2xAA, Alex Phountzi, Aqwea and Baba T and 2 more. Browse upcoming dates, start times and who's playing. Arch 164, 115 Rye Lane, London SE15 4ST, United Kingdom.
+The Carpet Shop is a music venue in London listed on soundcheck. 17 upcoming nights, with line-ups including 2xAA, Alex Phountzi, Aqwea and Baba T and 2 more. Browse upcoming dates, start times and who's playing. Arch 164, 115 Rye Lane, London SE15 4ST, United Kingdom.
 
 ## What's on
 
@@ -17,7 +17,7 @@ The Carpet Shop is a music venue in London listed on soundcheck. 13 upcoming nig
 | Fri, 2 Oct 2026 | 10 years of Subtle Radio |  |
 | Fri, 2 Oct 2026 | Bad Behli presents 365: All Night Long DJ set |  |
 | Sat, 3 Oct 2026 | pressure control x SC&P: Curses, Jay Duncan & Harry James b2b Josh Bayat | Curses, Harry James, Jay Duncan, Josh Bayat |
-| Fri, 9 Oct 2026 | GRAVY* with JD REID, DJ Polo & Aqwea | Aqwea, DJ Polo, JD. REID |
+| Thu, 8 Oct 2026 | Thirsty Thursdays with Sexy B*tch |  |
 
 ## Address
 

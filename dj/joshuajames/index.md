@@ -1,13 +1,14 @@
 # Joshua James
 
-Joshua James is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Tue, 15 Sept 2026, next at The Jazz Cafe, London on Sat, 26 Sept 2026.
+Joshua James is a House and Disco artist with 3 upcoming club dates listed on soundcheck as of Tue, 15 Sept 2026, next at XOYO, London on Fri, 18 Sept 2026.
 
-Joshua James is a house and disco artist based in United Kingdom, tracked on soundcheck, with 229 sets logged across Barcelona, Brighton, Bristol and Ibiza and 5 more. Often billed alongside Mike Menace, Karlie Marx and Princess Julia. Next up: The Jazz Cafe, London on Sat 26 Sept.
+Joshua James is a house and disco artist based in United Kingdom, tracked on soundcheck, with 230 sets logged across Barcelona, Brighton, Bristol and Ibiza and 5 more. Often billed alongside Mike Menace, Karlie Marx and Princess Julia. Next up: XOYO, London on Fri 18 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 18 Sept 2026 | XOYO | London |
 | Sat, 26 Sept 2026 | The Jazz Cafe | London |
 | Sat, 24 Oct 2026 | DRUMSHEDS | London |
 

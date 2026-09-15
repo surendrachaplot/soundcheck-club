@@ -1,14 +1,15 @@
 # Spinks
 
-Spinks is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 15 Sept 2026, next at The Glove That Fits, London on Sun, 20 Sept 2026.
+Spinks is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Tue, 15 Sept 2026, next at The Glove That Fits, London on Sun, 20 Sept 2026.
 
-Spinks is a techno and house artist tracked on soundcheck, with 56 sets logged across Brighton and London. Often billed alongside Atoxyl, Yiota and Acid Carbon. Next up: The Glove That Fits, London on Sun 20 Sept.
+Spinks is a techno and house artist tracked on soundcheck, with 57 sets logged across Brighton and London. Often billed alongside Atoxyl, Yiota and Acid Carbon. Next up: The Glove That Fits, London on Sun 20 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sun, 20 Sept 2026 | The Glove That Fits | London |
+| Fri, 27 Nov 2026 | Rolling Stock | London |
 
 ## Recently played
 

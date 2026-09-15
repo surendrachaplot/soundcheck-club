@@ -1,6 +1,6 @@
 # Prickly Biscuit - Wildcard at Hot Toddy's
 
-Prickly Biscuit - Wildcard at Hot Toddy's on Sat 3 Oct, London. 1 act on the bill: GRIT.. House and Disco. Preview the line-up and save it on soundcheck.
+Prickly Biscuit - Wildcard at Hot Toddy's on Sat 3 Oct, London. 2 acts on the bill: Ed Vedra and GRIT.. House and Disco. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ Prickly Biscuit - Wildcard at Hot Toddy's on Sat 3 Oct, London. 1 act on the bil
 
 ## Line-up
 
+- Ed Vedra
 - GRIT.
 
 *Source: [soundcheck](https://soundcheck.club/e/2536177-prickly-biscuit-wildcard-at-hot-toddy-s/)*

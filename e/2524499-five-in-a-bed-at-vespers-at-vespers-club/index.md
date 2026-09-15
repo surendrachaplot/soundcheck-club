@@ -1,6 +1,6 @@
 # five in a bed AT VESPERS at Vespers Club
 
-five in a bed AT VESPERS at Vespers Club on Fri 18 Sept, London. 1 act on the bill: Dexter Dooley. Funk / Soul and Jazz. Preview the line-up and save it on soundcheck.
+five in a bed AT VESPERS at Vespers Club on Fri 18 Sept, London. 2 acts on the bill: Dexter Dooley and TADI THE GREAT. Funk / Soul and Jazz. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,5 +11,6 @@ five in a bed AT VESPERS at Vespers Club on Fri 18 Sept, London. 1 act on the bi
 ## Line-up
 
 - Dexter Dooley
+- TADI THE GREAT
 
 *Source: [soundcheck](https://soundcheck.club/e/2524499-five-in-a-bed-at-vespers-at-vespers-club/)*

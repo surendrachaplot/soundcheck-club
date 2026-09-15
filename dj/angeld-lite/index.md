@@ -9,7 +9,7 @@ Angel D'lite is a house and techno artist tracked on soundcheck, with 241 sets l
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 25 Sept 2026 | Stereo | Glasgow |
-| Sat, 26 Sept 2026 | M.O.T | London |
+| Sat, 26 Sept 2026 | Ormside Projects | London |
 | Sat, 3 Oct 2026 | Nowadays | New York City |
 | Fri, 9 Oct 2026 | The Loft | Manchester |
 | Sat, 17 Oct 2026 | RSO.BERLIN | Berlin |

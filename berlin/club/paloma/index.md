@@ -1,8 +1,8 @@
 # Paloma
 
-Paloma is a music venue in Berlin with 32 upcoming nights listed on soundcheck as of Tue, 15 Sept 2026; the next is "shockwerk Open Decks" on Thu, 17 Sept 2026.
+Paloma is a music venue in Berlin with 34 upcoming nights listed on soundcheck as of Tue, 15 Sept 2026; the next is "shockwerk Open Decks" on Thu, 17 Sept 2026.
 
-Paloma is a music venue in Berlin listed on soundcheck. 32 upcoming nights, with line-ups including 11:68PM, AAguilAA, adodo and Adriano Scopece and 2 more. Browse upcoming dates, start times and who's playing. Skalitzer Str. 135, 10999 Berlin.
+Paloma is a music venue in Berlin listed on soundcheck. 34 upcoming nights, with line-ups including 11:68PM, AAguilAA, adodo and Adriano Scopece and 2 more. Browse upcoming dates, start times and who's playing. Skalitzer Str. 135, 10999 Berlin.
 
 ## What's on
 

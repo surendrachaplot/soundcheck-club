@@ -2,7 +2,7 @@
 
 Eys (1) is a House and Club artist with 1 upcoming club date listed on soundcheck as of Tue, 15 Sept 2026, next at Tola, London on Sat, 3 Oct 2026.
 
-Eys (1) is a house and club artist based in Italy, tracked on soundcheck, with 5 sets logged across Barcelona, London and Milan. Often billed alongside ERRANT, Purple Tape and Alk3mic. Next up: Tola, London on Sat 3 Oct.
+Eys (1) is a house and club artist based in Italy, tracked on soundcheck, with 5 sets logged across Barcelona, London and Milan. Often billed alongside Althoff, ERRANT and Purple Tape. Next up: Tola, London on Sat 3 Oct.
 
 ## Upcoming shows
 
@@ -19,6 +19,6 @@ Eys (1) is a house and club artist based in Italy, tracked on soundcheck, with 5
 
 ## Shares bills with
 
-ERRANT, Purple Tape, Alk3mic
+Althoff, ERRANT, Purple Tape
 
 *Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/eys-1/)*

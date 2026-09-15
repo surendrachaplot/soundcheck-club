@@ -1,6 +1,6 @@
 # Always ON TOP at ://about blank
 
-Always ON TOP at ://about blank on Sat 3 Oct, Berlin. 7 acts on the bill: Bamela Paywatch, Carl Hang, CHOREOPHILA and Dr.Sun and 3 more. Preview the line-up and save it on soundcheck.
+Always ON TOP at ://about blank on Sat 3 Oct, Berlin. 8 acts on the bill: Bamela Paywatch, Carl Hang, CHOREOPHILA and DJ Ferrari (2) and 4 more. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -13,6 +13,7 @@ Always ON TOP at ://about blank on Sat 3 Oct, Berlin. 7 acts on the bill: Bamela
 - Bamela Paywatch
 - Carl Hang
 - CHOREOPHILA
+- DJ Ferrari (2)
 - Dr.Sun
 - Ini Lamborghini
 - Multifun

@@ -1,6 +1,6 @@
 # LIBIDOH █ 5 years █ NEW CLUB at ROSA
 
-LIBIDOH █ 5 years █ NEW CLUB at ROSA on Sat 19 Sept, Berlin. 10 acts on the bill: Amo (IT), An Chen, DJ Traytex and ELOISA and 6 more. Trance and Techno. Preview the line-up and save it on soundcheck.
+LIBIDOH █ 5 years █ NEW CLUB at ROSA on Sat 19 Sept, Berlin. 11 acts on the bill: Amo (IT), An Chen, DJ Traytex and ELOISA and 7 more. Trance and Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -15,6 +15,7 @@ LIBIDOH █ 5 years █ NEW CLUB at ROSA on Sat 19 Sept, Berlin. 10 acts on the 
 - DJ Traytex
 - ELOISA
 - Erebos
+- HANAA
 - Hocki
 - maedchenballern
 - Nanzhen Yang

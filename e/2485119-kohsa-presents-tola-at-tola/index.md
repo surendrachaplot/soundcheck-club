@@ -1,6 +1,6 @@
-# Kohsa presents: Tola at Tola
+# Kohsa presents : Tola at Tola
 
-Kohsa presents: Tola on Fri 18 Sept, London. 2 acts on the bill: Buddy. (2) and Sunny D. Garage and Tech House. Preview the line-up and save it on soundcheck.
+Kohsa presents : Tola on Fri 18 Sept, London. 2 acts on the bill: Buddy. (2) and Sunny D. Garage and Tech House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Ed Vedra & Friends free Friday night party at The Horse & Groom
 
-Ed Vedra & Friends free Friday night party at The Horse & Groom on Fri 25 Sept, London. 1 act on the bill: Arnie Wrong. House and Disco. Preview the line-up and save it on soundcheck.
+Ed Vedra & Friends free Friday night party at The Horse & Groom on Fri 25 Sept, London. 2 acts on the bill: Arnie Wrong and Ed Vedra. House and Disco. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,5 +11,6 @@ Ed Vedra & Friends free Friday night party at The Horse & Groom on Fri 25 Sept, 
 ## Line-up
 
 - Arnie Wrong
+- Ed Vedra
 
 *Source: [soundcheck](https://soundcheck.club/e/2532033-ed-vedra-friends-free-friday-night-party-at-the-horse-groom/)*

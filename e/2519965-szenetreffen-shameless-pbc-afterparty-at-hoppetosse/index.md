@@ -1,6 +1,6 @@
 # SZENETREFFEN Shameless + PBC Afterparty at Hoppetosse
 
-SZENETREFFEN Shameless + PBC Afterparty at Hoppetosse on Sat 19 Sept, Berlin. 8 acts on the bill: Bailey Brown, Fear Of Color, kutscher and LUISELLE and 4 more. Techno and House. Preview the line-up and save it on soundcheck.
+SZENETREFFEN Shameless + PBC Afterparty at Hoppetosse on Sat 19 Sept, Berlin. 10 acts on the bill: Bailey Brown, Fear Of Color, GregOrMarvel and kutscher and 6 more. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -12,7 +12,9 @@ SZENETREFFEN Shameless + PBC Afterparty at Hoppetosse on Sat 19 Sept, Berlin. 8 
 
 - Bailey Brown
 - Fear Of Color
+- GregOrMarvel
 - kutscher
+- Kutscher (DE)
 - LUISELLE
 - PyjamaMama
 - Selin (DE)

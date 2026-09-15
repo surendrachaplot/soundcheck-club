@@ -1,8 +1,8 @@
 # M.O.T
 
-M.O.T is a music venue in London with 37 upcoming nights listed on soundcheck as of Tue, 15 Sept 2026; the next is "Silkarmour, Wounder, Three Sisters DJ (Waterbaby x Martha Skye Murphy)" on Wed, 16 Sept 2026.
+M.O.T is a music venue in London with 36 upcoming nights listed on soundcheck as of Tue, 15 Sept 2026; the next is "Silkarmour, Wounder, Three Sisters DJ (Waterbaby x Martha Skye Murphy)" on Wed, 16 Sept 2026.
 
-M.O.T is a music venue in London listed on soundcheck. 37 upcoming nights, with line-ups including 3DMA, Agility, Angel D'lite and Anina and 2 more. Browse upcoming dates, start times and who's playing. Orion Business Centre, Surrey Canal Rd SE14 5RT.
+M.O.T is a music venue in London listed on soundcheck. 36 upcoming nights, with line-ups including 1LDK, 3DMA, Agility and Anina and 2 more. Browse upcoming dates, start times and who's playing. Orion Business Centre, Surrey Canal Rd SE14 5RT.
 
 ## What's on
 
@@ -17,7 +17,7 @@ M.O.T is a music venue in London listed on soundcheck. 37 upcoming nights, with 
 | Thu, 24 Sept 2026 | JACKZEBRA |  |
 | Fri, 25 Sept 2026 | Skeptic + RTK Tarantino | RTK Tarantino, Skeptic |
 | Fri, 25 Sept 2026 | Jungyals and Gays presents: Back 2 the Club | 3DMA, JuicyJards, NEENZY (UK), PEPPA (2), Princess Elf Bar, chlow333 |
-| Sat, 26 Sept 2026 | ✹ SBF'26 ✹ Avalon, M.O.T & Ormside ✹ | Angel D'lite, Authentically Plastic, Beneath, Bianca Scout, DJ Gonz, DJ Lycox, DJ Plead, Debit, Gavsborg, Grace Sands, Iration Steppas, Jerome Hill, Joe Cotch, John T. Gast, Lo Simple, Mellowdramatics, Raisa K, Rezzett, Shackleton, XT1ANA, k means, re:ni |
+| Thu, 1 Oct 2026 | Twinspinsz ⋆˚𖥔 Reformist & Friends  | N1L, Reformist, TENFOLD |
 
 ## Address
 
