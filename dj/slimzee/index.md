@@ -1,13 +1,14 @@
 # Slimzee
 
-Slimzee is a Grime and Dubstep artist with 1 upcoming club date listed on soundcheck as of Tue, 15 Sept 2026, next at Gretchen, Berlin on Sat, 21 Nov 2026.
+Slimzee is a Grime and Dubstep artist with 2 upcoming club dates listed on soundcheck as of Tue, 15 Sept 2026, next at Tresor / Globus, Berlin on Sat, 21 Nov 2026.
 
-Slimzee is a grime and dubstep artist based in United Kingdom, tracked on soundcheck, with 53 sets logged across Amsterdam, Berlin, Bristol and Brussels and 5 more. Often billed alongside Riko Dan, Boylan and MJK. Next up: Gretchen, Berlin on Sat 21 Nov.
+Slimzee is a grime and dubstep artist based in United Kingdom, tracked on soundcheck, with 54 sets logged across Amsterdam, Berlin, Bristol and Brussels and 5 more. Often billed alongside Riko Dan, Boylan and MJK. Next up: Tresor / Globus, Berlin on Sat 21 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 21 Nov 2026 | Tresor / Globus | Berlin |
 | Sat, 21 Nov 2026 | Gretchen | Berlin |
 
 ## Recently played

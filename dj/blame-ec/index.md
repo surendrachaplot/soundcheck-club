@@ -1,13 +1,14 @@
 # Blame (EC)
 
-Blame (EC) is a House and Electro artist with 1 upcoming club date listed on soundcheck as of Tue, 15 Sept 2026, next at Paraiso Estereo, Miami on Fri, 30 Oct 2026.
+Blame (EC) is a House and Electro artist with 2 upcoming club dates listed on soundcheck as of Tue, 15 Sept 2026, next at Eschschloraque, Berlin on Fri, 25 Sept 2026.
 
-Blame (EC) is a house and electro artist based in Ecuador, tracked on soundcheck, with 12 sets logged across Miami. Often billed alongside Retronika, Jacob (UK) and San Dee. Next up: Paraiso Estereo, Miami on Fri 30 Oct.
+Blame (EC) is a house and electro artist based in Ecuador, tracked on soundcheck, with 13 sets logged across Berlin and Miami. Often billed alongside Retronika, Jacob (UK) and San Dee. Next up: Eschschloraque, Berlin on Fri 25 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 25 Sept 2026 | Eschschloraque | Berlin |
 | Fri, 30 Oct 2026 | Paraiso Estereo | Miami |
 
 ## Recently played

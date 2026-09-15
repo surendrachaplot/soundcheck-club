@@ -1,6 +1,6 @@
 # LOS LOCOS 'REBIRTH' - Obi Baby, VENTRO, DJ PIRO b2b MGGM, PACKAPUNCH909 b2b EMME, ELECHIM at CIRCOLO BOTULINO
 
-LOS LOCOS 'REBIRTH' - Obi Baby, VENTRO, DJ PIRO b2b MGGM, PACKAPUNCH909 b2b EMME, ELECHIM at CIRCOLO BOTULINO on Fri 18 Sept, Milan. 4 acts on the bill: DJ PIRO, Obi Baby, PACKAPUNCH909 and VENTRO. Techno and Gabber. Preview the line-up and save it on soundcheck.
+LOS LOCOS 'REBIRTH' - Obi Baby, VENTRO, DJ PIRO b2b MGGM, PACKAPUNCH909 b2b EMME, ELECHIM at CIRCOLO BOTULINO on Fri 18 Sept, Milan. 5 acts on the bill: DJ PIRO, Elechim, Obi Baby and PACKAPUNCH909 and 1 more. Techno and Gabber. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,6 +11,7 @@ LOS LOCOS 'REBIRTH' - Obi Baby, VENTRO, DJ PIRO b2b MGGM, PACKAPUNCH909 b2b EMME
 ## Line-up
 
 - DJ PIRO
+- Elechim
 - Obi Baby
 - PACKAPUNCH909
 - VENTRO

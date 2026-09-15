@@ -1,8 +1,8 @@
 # KIRSTY
 
-KIRSTY is a Techno and House artist with 10 upcoming club dates listed on soundcheck as of Tue, 15 Sept 2026, next at Kilomètre25, Paris on Sat, 19 Sept 2026.
+KIRSTY is a Techno and House artist with 12 upcoming club dates listed on soundcheck as of Tue, 15 Sept 2026, next at Kilomètre25, Paris on Sat, 19 Sept 2026.
 
-KIRSTY is a techno and house artist tracked on soundcheck, with 67 sets logged across Amsterdam, Auckland, Belfast and Belgrade and 21 more. Often billed alongside Lolalita, KimberlaID and Mad Dog. Next up: Kilomètre25, Paris on Sat 19 Sept.
+KIRSTY is a techno and house artist tracked on soundcheck, with 69 sets logged across Amsterdam, Auckland, Belfast and Belgrade and 21 more. Often billed alongside Lolalita, KimberlaID and Mad Dog. Next up: Kilomètre25, Paris on Sat 19 Sept.
 
 ## Upcoming shows
 
@@ -16,6 +16,8 @@ KIRSTY is a techno and house artist tracked on soundcheck, with 67 sets logged a
 | Fri, 16 Oct 2026 | Airport Würzburg | Nürnberg |
 | Wed, 21 Oct 2026 | Mediahaven - Minervahaven | Amsterdam |
 | Sat, 24 Oct 2026 | Room 2 Glasgow | Glasgow |
+| Fri, 30 Oct 2026 | Edinburgh Corn Exchange | Edinburgh |
+| Fri, 30 Oct 2026 | Edinburgh Corn Exchange | Edinburgh |
 | Sat, 14 Nov 2026 | World Headquarters | Newcastle |
 | Sat, 28 Nov 2026 | Depot Mayfield | Manchester |
 

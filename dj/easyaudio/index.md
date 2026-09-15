@@ -1,13 +1,14 @@
 # Easy Audio
 
-Easy Audio is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 15 Sept 2026, next at MONKEY LOVE, Warsaw on Fri, 18 Sept 2026.
+Easy Audio is a House and Minimal artist with 2 upcoming club dates listed on soundcheck as of Tue, 15 Sept 2026, next at MONKEY LOVE, Warsaw on Fri, 18 Sept 2026.
 
-Easy Audio is a house and techno artist based in Poland, tracked on soundcheck, with 67 sets logged across Krakow and Warsaw. Often billed alongside Schmeltzer, Valdemar ST and bart ender. Next up: MONKEY LOVE, Warsaw on Fri 18 Sept.
+Easy Audio is a house and minimal artist based in Poland, tracked on soundcheck, with 68 sets logged across Krakow and Warsaw. Often billed alongside Schmeltzer, Valdemar ST and bart ender. Next up: MONKEY LOVE, Warsaw on Fri 18 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 18 Sept 2026 | MONKEY LOVE | Warsaw |
 | Fri, 18 Sept 2026 | MONKEY LOVE | Warsaw |
 
 ## Recently played

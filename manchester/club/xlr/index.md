@@ -9,7 +9,7 @@ XLR is a music venue in Manchester listed on soundcheck. 14 upcoming nights, wit
 | Date | Night | Line-up |
 | --- | --- | --- |
 | Fri, 18 Sept 2026 | XLR x Surf Beatz [B.Y.O.B] |  |
-| Sat, 19 Sept 2026 | Withington Pride x XLR x Angels [B.Y.O.B] |  |
+| Sat, 19 Sept 2026 | Withington Pride x XLR x Angels [B.Y.O.B] | Jess Rose |
 | Sat, 19 Sept 2026 | Angels: Withington Pride Afterparty |  |
 | Mon, 21 Sept 2026 | Move Too x XLR [B.Y.O.B] |  |
 | Tue, 22 Sept 2026 | DISCO PUSS x XLR [B.Y.O.B] |  |

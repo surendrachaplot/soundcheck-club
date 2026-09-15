@@ -9,7 +9,7 @@ Andreas Henneberg is a techno and house artist based in Germany, tracked on soun
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 7 Nov 2026 | Nikolaisaal Potsdam | Berlin |
-| Sat, 28 Nov 2026 | TBA | Berlin |
+| Sat, 28 Nov 2026 | DSTRKT Club Berlin | Berlin |
 
 ## Recently played
 

@@ -1,6 +1,6 @@
 # KOKO Electronic: Green Velvet at KOKO
 
-KOKO Electronic: Green Velvet on Fri 2 Oct, London. 1 act on the bill: Green Velvet. Preview the line-up and save it on soundcheck.
+KOKO Electronic: Green Velvet on Fri 2 Oct, London. 3 acts on the bill: FIFI FORTE, Green Velvet and RUZE. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,8 @@ KOKO Electronic: Green Velvet on Fri 2 Oct, London. 1 act on the bill: Green Vel
 
 ## Line-up
 
+- FIFI FORTE
 - Green Velvet
+- RUZE
 
 *Source: [soundcheck](https://soundcheck.club/e/2522708-koko-electronic-green-velvet-at-koko/)*

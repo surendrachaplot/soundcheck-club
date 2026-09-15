@@ -1,6 +1,6 @@
 # Waa! pres. Gordo at Opium Barcelona
 
-Waa! pres. Gordo at Opium Barcelona on Wed 23 Sept, Barcelona. 1 act on the bill: Gordo. Tech House. Preview the line-up and save it on soundcheck.
+Waa! pres. Gordo at Opium Barcelona on Wed 23 Sept, Barcelona. 3 acts on the bill: Gordo, Los Canarios and Sacchi. Tech House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,5 +11,7 @@ Waa! pres. Gordo at Opium Barcelona on Wed 23 Sept, Barcelona. 1 act on the bill
 ## Line-up
 
 - Gordo
+- Los Canarios
+- Sacchi
 
 *Source: [soundcheck](https://soundcheck.club/e/2441013-waa-pres-gordo-at-opium-barcelona/)*

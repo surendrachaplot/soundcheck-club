@@ -10,7 +10,7 @@ Harbour Music Shelter is a music venue in Lisbon listed on soundcheck. 3 upcomin
 | --- | --- | --- |
 | Sun, 20 Sept 2026 | Harbour Sundaze Gear convida Johan | Gear |
 | Sun, 27 Sept 2026 | Harbour Sundaze convida Bruno Curtis e Lina | Bruno Curtis |
-| Sun, 4 Oct 2026 | Harbour 7th Anniversary  | Marco Shuttle |
+| Sun, 4 Oct 2026 | Harbour 7th Anniversary with Marco Shuttle and Harbour Crew  | Marco Shuttle |
 
 ## Address
 

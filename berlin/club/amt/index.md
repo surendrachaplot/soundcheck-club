@@ -1,8 +1,8 @@
 # AMT
 
-AMT is a music venue in Berlin with 11 upcoming nights listed on soundcheck as of Tue, 15 Sept 2026; the next is "SUBSTATION" on Fri, 18 Sept 2026.
+AMT is a music venue in Berlin with 12 upcoming nights listed on soundcheck as of Tue, 15 Sept 2026; the next is "SUBSTATION" on Fri, 18 Sept 2026.
 
-AMT is a music venue in Berlin listed on soundcheck. 11 upcoming nights, with line-ups including _minted, ALAN JOE, Amor Ante and Bill Sanders and 2 more. Browse upcoming dates, start times and who's playing.
+AMT is a music venue in Berlin listed on soundcheck. 12 upcoming nights, with line-ups including _minted, ALAN JOE, Amor Ante and Bill Sanders and 2 more. Browse upcoming dates, start times and who's playing.
 
 ## What's on
 

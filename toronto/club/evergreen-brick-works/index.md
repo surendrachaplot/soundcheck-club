@@ -9,7 +9,7 @@ Evergreen Brick Works is a music venue in Toronto listed on soundcheck. 2 upcomi
 | Date | Night | Line-up |
 | --- | --- | --- |
 | Sun, 27 Sept 2026 | Ozmozis presents The Soundgarden | Armen Miran, Dubfire, Mystic Mind, Nick Warren |
-| Sat, 31 Oct 2026 | Ozmozis Halloween at Brick Works | Gabriel & Dresden, Oliver Wickham, Qrion, Super8 & Tab |
+| Sat, 31 Oct 2026 | Ozmozis Halloween at Brick Works ft. Gabriel & Dresden, Super8 & Tab, Qrion and Oliver Wickham | Gabriel & Dresden, Oliver Wickham, Qrion, Super8 & Tab |
 
 ## Address
 

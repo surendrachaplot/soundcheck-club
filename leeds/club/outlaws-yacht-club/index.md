@@ -1,8 +1,8 @@
 # Outlaws Yacht Club
 
-Outlaws Yacht Club is a music venue in Leeds with 5 upcoming nights listed on soundcheck as of Tue, 15 Sept 2026; the next is "Disco Discharge: Disco's Revenge" on Sat, 19 Sept 2026.
+Outlaws Yacht Club is a music venue in Leeds with 6 upcoming nights listed on soundcheck as of Tue, 15 Sept 2026; the next is "Disco Discharge: Disco's Revenge" on Sat, 19 Sept 2026.
 
-Outlaws Yacht Club is a music venue in Leeds listed on soundcheck. 5 upcoming nights, with line-ups including Ben Daddy, Laura Not, Shauna and Simon Scott. Browse upcoming dates, start times and who's playing. 38 New York St, Leeds, West Yorkshire, LS2 7DY, United Kingdom.
+Outlaws Yacht Club is a music venue in Leeds listed on soundcheck. 6 upcoming nights, with line-ups including Ben Daddy, Laura Not, REES and Shauna and 1 more. Browse upcoming dates, start times and who's playing. 38 New York St, Leeds, West Yorkshire, LS2 7DY, United Kingdom.
 
 ## What's on
 
@@ -12,7 +12,8 @@ Outlaws Yacht Club is a music venue in Leeds listed on soundcheck. 5 upcoming ni
 | Sun, 27 Sept 2026 | Reggae Sunday |  |
 | Thu, 1 Oct 2026 | O Yuki Conjugate (Live) | Laura Not |
 | Fri, 2 Oct 2026 | A Factory Records Night + Hacienda Acid House Trax | Simon Scott |
-| Sun, 11 Oct 2026 | Club Cosmos | Simon Scott |
+| Sun, 11 Oct 2026 | Club Cosmos | REES, Simon Scott |
+| Sun, 1 Nov 2026 | Club Cosmos | Simon Scott |
 
 ## Address
 

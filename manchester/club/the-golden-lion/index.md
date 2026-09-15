@@ -1,8 +1,8 @@
 # The Golden Lion
 
-The Golden Lion is a music venue in Manchester with 15 upcoming nights listed on soundcheck as of Tue, 15 Sept 2026; the next is "Dance Therapy with DJs Mark Turner and Karl Roscoe" on Fri, 18 Sept 2026.
+The Golden Lion is a music venue in Manchester with 16 upcoming nights listed on soundcheck as of Tue, 15 Sept 2026; the next is "Dance Therapy with DJs Mark Turner and Karl Roscoe" on Fri, 18 Sept 2026.
 
-The Golden Lion is a music venue in Manchester listed on soundcheck. 15 upcoming nights, with line-ups including Alex Dallas, Bakey, Bill Brewster and BODIPA and 2 more. Browse upcoming dates, start times and who's playing. Fielden Square, Todmorden, OL14 6LZ, United Kingdom.
+The Golden Lion is a music venue in Manchester listed on soundcheck. 16 upcoming nights, with line-ups including Alex Dallas, Bakey, Bijon and Bill Brewster and 2 more. Browse upcoming dates, start times and who's playing. Fielden Square, Todmorden, OL14 6LZ, United Kingdom.
 
 ## What's on
 
@@ -14,10 +14,10 @@ The Golden Lion is a music venue in Manchester listed on soundcheck. 15 upcoming
 | Thu, 1 Oct 2026 | KIOSK + THOSE HOLY |  |
 | Sat, 3 Oct 2026 | Bakey, Chunky, Rufus! @ Golden Lion // Dankashire Soundsystem | Bakey, Chunky, Rufus! |
 | Sat, 3 Oct 2026 | Infrared Beam |  |
-| Fri, 9 Oct 2026 | SUBDUB - Iration Steppas Sound System, Simon Scott & guests  | Breakfake, Iration Steppas, NikNak, Simon Scott |
+| Fri, 9 Oct 2026 | SUBDUB - Iration Steppas Sound System & guests | Breakfake, Felixculpah, Iration Steppas, NikNak, Simon Scott |
 | Fri, 16 Oct 2026 | Say What? presents: Special Request (all night long) | Special Request |
+| Fri, 16 Oct 2026 | Behind the Groove with Macca | Bijon, Bobby Thorpe, Macca. |
 | Fri, 23 Oct 2026 | Colleen 'Cosmo' Murphy / Sarah Bates (live) / Sorcha & Mike | Colleen 'Cosmo' Murphy, Sarah Bates |
-| Sat, 24 Oct 2026 | Saturday fundraiser in celebration of Danielle Moore | Bill Brewster, Crazy P, Il Bosco, James Holroyd, Julie Wills, PBR Streetgang |
 
 ## Address
 

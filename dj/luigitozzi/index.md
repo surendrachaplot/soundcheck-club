@@ -1,8 +1,8 @@
 # Luigi Tozzi
 
-Luigi Tozzi is a Techno and House artist with 7 upcoming club dates listed on soundcheck as of Tue, 15 Sept 2026, next at Fuse, Brussels on Sat, 26 Sept 2026.
+Luigi Tozzi is a Techno and House artist with 9 upcoming club dates listed on soundcheck as of Tue, 15 Sept 2026, next at Fuse, Brussels on Sat, 26 Sept 2026.
 
-Luigi Tozzi is a techno and house artist tracked on soundcheck, with 101 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 30 more. Often billed alongside Laura BCR, Claudio PRC and Feral. Next up: Fuse, Brussels on Sat 26 Sept.
+Luigi Tozzi is a techno and house artist tracked on soundcheck, with 103 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 30 more. Often billed alongside Laura BCR, Claudio PRC and Feral. Next up: Fuse, Brussels on Sat 26 Sept.
 
 ## Upcoming shows
 
@@ -14,6 +14,8 @@ Luigi Tozzi is a techno and house artist tracked on soundcheck, with 101 sets lo
 | Sat, 17 Oct 2026 | MÄX | Zurich |
 | Sat, 24 Oct 2026 | Azimut Club | Turin |
 | Fri, 20 Nov 2026 | TBA - Los Angeles | Los Angeles |
+| Fri, 20 Nov 2026 | TBA - Los Angeles | Los Angeles |
+| Sat, 21 Nov 2026 | TBA - Los Angeles | Los Angeles |
 | Thu, 3 Dec 2026 | Start.Bahn - Genezarethkirche | Berlin |
 
 ## Recently played

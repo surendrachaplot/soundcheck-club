@@ -1,14 +1,15 @@
 # Milothicc
 
-Milothicc is a Reggaeton and Dancehall artist with 1 upcoming club date listed on soundcheck as of Tue, 15 Sept 2026, next at Relink:Data, Mexico City on Wed, 16 Sept 2026.
+Milothicc is a Reggaeton and Dancehall artist with 2 upcoming club dates listed on soundcheck as of Tue, 15 Sept 2026, next at Relink:Data, Mexico City on Wed, 16 Sept 2026.
 
-Milothicc is a reggaeton and dancehall artist tracked on soundcheck, with 13 sets logged across Mexicocity. Often billed alongside Marvin Marciano, Alacrán del Amor and Alcala. Next up: Relink:Data, Mexicocity on Wed 16 Sept.
+Milothicc is a reggaeton and dancehall artist tracked on soundcheck, with 14 sets logged across Mexicocity. Often billed alongside Marvin Marciano, Alacrán del Amor and Alcala. Next up: Relink:Data, Mexicocity on Wed 16 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Wed, 16 Sept 2026 | Relink:Data | Mexico City |
+| Sat, 31 Oct 2026 | CHICO | Mexico City |
 
 ## Recently played
 

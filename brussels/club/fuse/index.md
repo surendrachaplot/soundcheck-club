@@ -1,8 +1,8 @@
 # Fuse
 
-Fuse is a music venue in Brussels with 10 upcoming nights listed on soundcheck as of Tue, 15 Sept 2026; the next is "Fuse presents: SESH with Clara Cuvé & PETERBLUE" on Fri, 18 Sept 2026.
+Fuse is a music venue in Brussels with 11 upcoming nights listed on soundcheck as of Tue, 15 Sept 2026; the next is "Fuse presents: SESH with Clara Cuvé & PETERBLUE" on Fri, 18 Sept 2026.
 
-Fuse is a music venue in Brussels listed on soundcheck. 10 upcoming nights, with line-ups including A. Brehme, Altinbas, Ben Klock and Blasha & Allatt and 2 more. Browse upcoming dates, start times and who's playing. Blaesstraat 208, 1000 Brussel, Belgium.
+Fuse is a music venue in Brussels listed on soundcheck. 11 upcoming nights, with line-ups including A. Brehme, Altinbas, Ben Klock and Blasha & Allatt and 2 more. Browse upcoming dates, start times and who's playing. Blaesstraat 208, 1000 Brussel, Belgium.
 
 ## What's on
 
@@ -16,8 +16,8 @@ Fuse is a music venue in Brussels listed on soundcheck. 10 upcoming nights, with
 | Fri, 9 Oct 2026 | Fuse presents: Fenrick (all night long) & Riana Holley (all night long) | Fenrick, Riana Holley |
 | Sat, 10 Oct 2026 | Fuse presents: ÜBERKIKZ (all night long) & Altered Circuits with Curses | Curses, Innershades, ÜBERKIKZ |
 | Sat, 17 Oct 2026 | 24HRS of Fuse | A. Brehme, Altinbas, Blasha & Allatt, Cirkle, Clara D, DC Salas, DJ Hell, Freddy K, Ignez, Innershades, Joline Scheffler, Paty Vapor, Phara, Stef Mendesidis, Tasha |
-| Sat, 31 Oct 2026 | Fuse presents: Silva Bumpa | Silva Bumpa |
-| Sat, 14 Nov 2026 | Fuse presents: 20YRS Klockworks with Ben Klock, DVS1 & Steve Rachmad aka STERAC (house set) | Altinbas, Ben Klock, DVS1, Newa, STERAC, She The DJ, Steve Rachmad, Zouzibabe |
+| Fri, 23 Oct 2026 | Fuse presents: Joyhauser (all night long) | Joyhauser |
+| Sat, 31 Oct 2026 | Fuse presents: Silva Bumpa | Catalina, DJ Cosworth, Jhobei, Silva Bumpa |
 
 ## Address
 

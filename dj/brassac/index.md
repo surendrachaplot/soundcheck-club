@@ -1,13 +1,14 @@
 # Brassac
 
-Brassac is a Electronica and House artist with 1 upcoming club date listed on soundcheck as of Tue, 15 Sept 2026, next at UMI, Brussels on Sat, 24 Oct 2026.
+Brassac is a House and Electronica artist with 2 upcoming club dates listed on soundcheck as of Tue, 15 Sept 2026, next at UMI, Brussels on Sat, 24 Oct 2026.
 
-Brassac is an electronica and house artist tracked on soundcheck, with 16 sets logged across Antwerp, Brighton, Brussels and Ghent and 1 more. Often billed alongside Ben Kamal, DJ Rino and Gurl. Next up: UMI, Brussels on Sat 24 Oct.
+Brassac is a house and electronica artist tracked on soundcheck, with 17 sets logged across Antwerp, Brighton, Brussels and Ghent and 1 more. Often billed alongside Ben Kamal, Gurl and DJ Rino. Next up: UMI, Brussels on Sat 24 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 24 Oct 2026 | UMI | Brussels |
 | Sat, 24 Oct 2026 | UMI | Brussels |
 
 ## Recently played
@@ -23,6 +24,6 @@ Brassac is an electronica and house artist tracked on soundcheck, with 16 sets l
 
 ## Shares bills with
 
-Ben Kamal, DJ Rino, Gurl
+Ben Kamal, Gurl, DJ Rino
 
 *Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/brassac/)*

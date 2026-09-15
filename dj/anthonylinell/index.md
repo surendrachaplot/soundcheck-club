@@ -1,8 +1,8 @@
 # Anthony Linell
 
-Anthony Linell is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Tue, 15 Sept 2026, next at vurt., Seoul on Sat, 19 Sept 2026.
+Anthony Linell is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Tue, 15 Sept 2026, next at vurt., Seoul on Sat, 19 Sept 2026.
 
-Anthony Linell is a techno and house artist based in Sweden, tracked on soundcheck, with 95 sets logged across Amsterdam, Athens, Barcelona and Belgrade and 21 more. Often billed alongside Evigt Mörker, Jin Mustafa and Neel. Next up: vurt., Seoul on Sat 19 Sept.
+Anthony Linell is a techno and house artist based in Sweden, tracked on soundcheck, with 96 sets logged across Amsterdam, Athens, Barcelona and Belgrade and 21 more. Often billed alongside Evigt Mörker, Jin Mustafa and Neel. Next up: vurt., Seoul on Sat 19 Sept.
 
 ## Upcoming shows
 
@@ -12,6 +12,7 @@ Anthony Linell is a techno and house artist based in Sweden, tracked on soundche
 | Sat, 10 Oct 2026 | TBA -  Kummelholmen | Stockholm |
 | Sun, 11 Oct 2026 | Razzmatazz | Barcelona |
 | Thu, 15 Oct 2026 | Berghain / Panorama Bar / Säule | Berlin |
+| Sat, 17 Oct 2026 | Under Bron | Stockholm |
 
 ## Recently played
 

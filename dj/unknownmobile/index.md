@@ -1,8 +1,8 @@
 # Unknown Mobile
 
-Unknown Mobile is a Downtempo and Ambient artist with 3 upcoming club dates listed on soundcheck as of Tue, 15 Sept 2026, next at Allan Gardens Conservatory, Toronto on Fri, 25 Sept 2026.
+Unknown Mobile is a Ambient and Downtempo artist with 4 upcoming club dates listed on soundcheck as of Tue, 15 Sept 2026, next at Allan Gardens Conservatory, Toronto on Fri, 25 Sept 2026.
 
-Unknown Mobile is a downtempo and ambient artist based in Canada, tracked on soundcheck, with 9 sets logged across Amsterdam, Copenhagen, Oslo and Sandiego and 3 more. Often billed alongside Atrevido, Crushed Peanut and DJ D.Dee. Next up: Allan Gardens Conservatory, Toronto on Fri 25 Sept.
+Unknown Mobile is an ambient and downtempo artist based in Canada, tracked on soundcheck, with 10 sets logged across Amsterdam, Copenhagen, Oslo and Sandiego and 3 more. Often billed alongside Atrevido, Crushed Peanut and DJ D.Dee. Next up: Allan Gardens Conservatory, Toronto on Fri 25 Sept.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ Unknown Mobile is a downtempo and ambient artist based in Canada, tracked on sou
 | Fri, 25 Sept 2026 | Allan Gardens Conservatory | Toronto |
 | Sun, 4 Oct 2026 | pos studios | Amsterdam |
 | Fri, 16 Oct 2026 | The Villa | Oslo |
+| Fri, 16 Oct 2026 | National Library of Norway | Oslo |
 
 ## Recently played
 

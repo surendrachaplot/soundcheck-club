@@ -1,8 +1,8 @@
 # Specka
 
-Specka is a music venue in Madrid with 14 upcoming nights listed on soundcheck as of Tue, 15 Sept 2026; the next is "Escaparate 14/38 & Fasta Danza - Gazpacho #06" on Fri, 18 Sept 2026.
+Specka is a music venue in Madrid with 15 upcoming nights listed on soundcheck as of Tue, 15 Sept 2026; the next is "Escaparate 14/38 & Fasta Danza - Gazpacho #06" on Fri, 18 Sept 2026.
 
-Specka is a music venue in Madrid listed on soundcheck. 14 upcoming nights, with line-ups including Anthony Rother, Aro Rey, BENZA and Brody (2) and 2 more. Browse upcoming dates, start times and who's playing. Calle Orense, 26 bajos Madrid 28020.
+Specka is a music venue in Madrid listed on soundcheck. 15 upcoming nights, with line-ups including Anthony Rother, Aro Rey, BENZA and Brody (2) and 2 more. Browse upcoming dates, start times and who's playing. Calle Orense, 26 bajos Madrid 28020.
 
 ## What's on
 
@@ -15,9 +15,9 @@ Specka is a music venue in Madrid listed on soundcheck. 14 upcoming nights, with
 | Sat, 26 Sept 2026 | 3º IZQ X Impossible Love I Specka Club |  |
 | Fri, 2 Oct 2026 | IN NOCTE VERITAS I Temática RENTRÉE | Iñaki Villasante |
 | Sat, 3 Oct 2026 | Systolic Showcase 360° Rave #02 - Specka Club Tardes |  |
+| Sat, 3 Oct 2026 | Triffulca Rentrée I Specka Club |  |
 | Fri, 9 Oct 2026 | 28B$, Dylan Desler y Tukeskusha: Papo2oo4+Subjxct 5 / Rapp Gotti / KN Moreno & Shenko |  |
 | Fri, 9 Oct 2026 | Komos V I Specka Club |  |
-| Sat, 10 Oct 2026 | Anthony Rother [Hibryd Electro] I Halley Club | Anthony Rother, Uhf |
 
 ## Address
 

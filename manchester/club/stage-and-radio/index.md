@@ -12,10 +12,10 @@ Stage and Radio is a music venue in Manchester listed on soundcheck. 26 upcoming
 | Fri, 18 Sept 2026 | LifeLongRecords presents: CLBRKS |  |
 | Fri, 18 Sept 2026 | Underbank Audio 001 - Radio Room |  |
 | Sat, 19 Sept 2026 | Cut the Rug 10th Birthday W/Special Guest & Nick & Nath - Night Only | Cut the Rug, Finn Nelson, Nick & Nath |
-| Sat, 19 Sept 2026 | Bodyworks 1st Bday |  |
 | Tue, 22 Sept 2026 | Freshers Sessions |  |
 | Wed, 23 Sept 2026 | Back2School |  |
 | Thu, 24 Sept 2026 | radio sez presents FGWW |  |
+| Fri, 25 Sept 2026 | Bodyworks 1st Bday |  |
 | Sat, 26 Sept 2026 | Pura Vida presents: Cristi Cons | Cristi Cons, Theo Cave (2), j:me |
 | Fri, 2 Oct 2026 | Chunky Records Invites Harold Heath | Desay |
 

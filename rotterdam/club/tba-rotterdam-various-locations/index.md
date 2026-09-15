@@ -8,6 +8,6 @@ TBA - Rotterdam Various Locations is a music venue in Rotterdam listed on soundc
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Thu, 24 Sept 2026 | Conflux Festival 2026 | 69DB, Alex Zhang Hungtai, Animistic Beliefs, Anton Filatov, Concepción Huerta, Genyten, Merzbow, Wallis, bela |
+| Thu, 24 Sept 2026 | Conflux Festival 2026 | 69DB, Alex Zhang Hungtai, Animistic Beliefs, Anton Filatov, Concepción Huerta, DJ Shahmaran, Genyten, Himera, Merzbow, Wallis, bela |
 
 *Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/rotterdam/club/tba-rotterdam-various-locations/)*

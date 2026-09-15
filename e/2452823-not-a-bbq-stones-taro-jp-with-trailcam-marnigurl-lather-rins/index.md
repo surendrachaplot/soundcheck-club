@@ -1,6 +1,6 @@
 # Not a BBQ : Stones Taro (JP) with Trailcam, Marnigurl, Lather Rinse Repeat, & more at TBA
 
-Not a BBQ : Stones Taro (JP) with Trailcam, Marnigurl, Lather Rinse Repeat, & more at TBA on Fri 18 Sept, Toronto. 8 acts on the bill: Chumbo, Hemlock, Lather Rinse Repeat and Marnigurl and 4 more. Bass and Dub. Preview the line-up and save it on soundcheck.
+Not a BBQ : Stones Taro (JP) with Trailcam, Marnigurl, Lather Rinse Repeat, & more at TBA on Fri 18 Sept, Toronto. 9 acts on the bill: Chumbo, Hemlock, Hemlock (CA) and Lather Rinse Repeat and 5 more. Bass and Dub. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -12,6 +12,7 @@ Not a BBQ : Stones Taro (JP) with Trailcam, Marnigurl, Lather Rinse Repeat, & mo
 
 - Chumbo
 - Hemlock
+- Hemlock (CA)
 - Lather Rinse Repeat
 - Marnigurl
 - MSDELICIOUS

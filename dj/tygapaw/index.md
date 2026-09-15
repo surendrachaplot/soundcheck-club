@@ -1,14 +1,15 @@
 # TYGAPAW
 
-TYGAPAW is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Tue, 15 Sept 2026, next at The San Francisco Mint, San Francisco/Oakland on Fri, 25 Sept 2026.
+TYGAPAW is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Tue, 15 Sept 2026, next at The San Francisco Mint, San Francisco/Oakland on Fri, 25 Sept 2026.
 
-TYGAPAW is a techno and house artist based in United States of America, tracked on soundcheck, with 99 sets logged across Amsterdam, Athens, Barcelona and Berlin and 23 more. Often billed alongside Juliana Huxtable, LSDXOXO and Shyboi. Next up: The San Francisco Mint, Sanfrancisco on Fri 25 Sept.
+TYGAPAW is a techno and house artist based in United States of America, tracked on soundcheck, with 100 sets logged across Amsterdam, Athens, Barcelona and Berlin and 24 more. Often billed alongside Juliana Huxtable, LSDXOXO and Shyboi. Next up: The San Francisco Mint, Sanfrancisco on Fri 25 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 25 Sept 2026 | The San Francisco Mint | San Francisco/Oakland |
+| Sat, 26 Sept 2026 | Barn Radio | Portland |
 | Sat, 5 Dec 2026 | ICA | London |
 
 ## Recently played

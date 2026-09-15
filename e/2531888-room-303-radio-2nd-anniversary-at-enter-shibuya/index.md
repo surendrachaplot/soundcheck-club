@@ -1,6 +1,6 @@
 # Room 303 Radio 2nd Anniversary at Enter Shibuya
 
-Room 303 Radio 2nd Anniversary at Enter Shibuya on Mon 21 Sept, Tokyo. 5 acts on the bill: akii, Albino Sound, ChottoKimoi and SAMO (JP) and 1 more. Techno and Bass. Preview the line-up and save it on soundcheck.
+Room 303 Radio 2nd Anniversary at Enter Shibuya on Mon 21 Sept, Tokyo. 6 acts on the bill: 1LDK, akii, Albino Sound and ChottoKimoi and 2 more. Techno and Bass. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ Room 303 Radio 2nd Anniversary at Enter Shibuya on Mon 21 Sept, Tokyo. 5 acts on
 
 ## Line-up
 
+- 1LDK
 - akii
 - Albino Sound
 - ChottoKimoi

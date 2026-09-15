@@ -2,7 +2,7 @@
 
 Locky is a House and Tech House artist with 11 upcoming club dates listed on soundcheck as of Tue, 15 Sept 2026, next at [UNVRS], Ibiza on Wed, 16 Sept 2026.
 
-Locky is a house and tech house artist tracked on soundcheck, with 145 sets logged across Amsterdam, Barcelona, Belgrade and Birmingham and 26 more. Often billed alongside Mad.Again (2), Liam Palmer and Luke Dean_. Next up: [UNVRS], Ibiza on Wed 16 Sept.
+Locky is a house and tech house artist tracked on soundcheck, with 145 sets logged across Amsterdam, Barcelona, Belgrade and Birmingham and 26 more. Often billed alongside Mad.Again (2), Luke Dean_ and Liam Palmer. Next up: [UNVRS], Ibiza on Wed 16 Sept.
 
 ## Upcoming shows
 
@@ -33,6 +33,6 @@ Locky is a house and tech house artist tracked on soundcheck, with 145 sets logg
 
 ## Shares bills with
 
-Mad.Again (2), Liam Palmer, Luke Dean_
+Mad.Again (2), Luke Dean_, Liam Palmer
 
 *Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/locky/)*

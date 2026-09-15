@@ -1,8 +1,8 @@
 # Joyhauser
 
-Joyhauser is a Techno and Trance artist with 8 upcoming club dates listed on soundcheck as of Tue, 15 Sept 2026, next at O der Klub, Vienna on Fri, 2 Oct 2026.
+Joyhauser is a Techno and Trance artist with 9 upcoming club dates listed on soundcheck as of Tue, 15 Sept 2026, next at O der Klub, Vienna on Fri, 2 Oct 2026.
 
-Joyhauser is a techno and trance artist based in Belgium, tracked on soundcheck, with 123 sets logged across Amsterdam, Antwerp, Athens and Austin and 39 more. Often billed alongside Juliet Fox, Pan-Pot and Bart Skils. Next up: O der Klub, Vienna on Fri 2 Oct.
+Joyhauser is a techno and trance artist based in Belgium, tracked on soundcheck, with 124 sets logged across Amsterdam, Antwerp, Athens and Austin and 39 more. Often billed alongside Juliet Fox, Pan-Pot and Bart Skils. Next up: O der Klub, Vienna on Fri 2 Oct.
 
 ## Upcoming shows
 
@@ -13,6 +13,7 @@ Joyhauser is a techno and trance artist based in Belgium, tracked on soundcheck,
 | Fri, 9 Oct 2026 | Palladium Riga | Riga |
 | Sat, 10 Oct 2026 | Ritter Butzke | Berlin |
 | Wed, 21 Oct 2026 | Q-Factory | Amsterdam |
+| Fri, 23 Oct 2026 | Fuse | Brussels |
 | Sat, 24 Oct 2026 | Oosterbar | Amsterdam |
 | Sun, 25 Oct 2026 | Amsterdam Central Station | Amsterdam |
 | Thu, 5 Nov 2026 | Noto Philadelphia | Philadelphia |

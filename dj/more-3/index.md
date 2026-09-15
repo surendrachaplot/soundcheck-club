@@ -1,13 +1,14 @@
 # More (3)
 
-More (3) is a Reggaeton and House artist with 1 upcoming club date listed on soundcheck as of Tue, 15 Sept 2026, next at 8MM, Berlin on Fri, 13 Nov 2026.
+More (3) is a Reggaeton and House artist with 2 upcoming club dates listed on soundcheck as of Tue, 15 Sept 2026, next at Socore Factory, Osaka on Sun, 1 Nov 2026.
 
-More (3) is a reggaeton and house artist based in Italy, tracked on soundcheck, with 28 sets logged across Berlin, Cologne, Lisbon and London and 8 more. Often billed alongside 4am Kru, Garage and ID. Next up: 8MM, Berlin on Fri 13 Nov.
+More (3) is a reggaeton and house artist based in Italy, tracked on soundcheck, with 29 sets logged across Berlin, Cologne, Lisbon and London and 9 more. Often billed alongside 4am Kru, Garage and ID. Next up: Socore Factory, Osaka on Sun 1 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sun, 1 Nov 2026 | Socore Factory | Osaka |
 | Fri, 13 Nov 2026 | 8MM | Berlin |
 
 ## Recently played

@@ -1,6 +1,6 @@
 # NIU GENERATOR at Generator Barcelona
 
-NIU GENERATOR at Generator Barcelona on Sat 3 Oct, Barcelona. Preview the line-up and save it on soundcheck.
+NIU GENERATOR at Generator Barcelona on Sat 3 Oct, Barcelona. Electronica. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

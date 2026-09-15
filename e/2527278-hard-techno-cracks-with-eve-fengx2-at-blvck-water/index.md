@@ -1,6 +1,6 @@
 # HARD TECHNO 'CRACKS' with EVE, FENGX2 at Blvck Water
 
-HARD TECHNO 'CRACKS' with EVE, FENGX2 at Blvck Water on Fri 9 Oct, Osaka. 2 acts on the bill: EVE (1) and FENGX2. Techno. Preview the line-up and save it on soundcheck.
+HARD TECHNO 'CRACKS' with EVE, FENGX2 at Blvck Water on Fri 9 Oct, Osaka. 3 acts on the bill: _goodbyeforever_, EVE (1) and FENGX2. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ HARD TECHNO 'CRACKS' with EVE, FENGX2 at Blvck Water on Fri 9 Oct, Osaka. 2 acts
 
 ## Line-up
 
+- _goodbyeforever_
 - EVE (1)
 - FENGX2
 

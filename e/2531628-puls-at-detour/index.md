@@ -1,6 +1,6 @@
 # PULS at DeTour
 
-PULS at DeTour on Fri 18 Sept, Tokyo. 2 acts on the bill: ALLY and TECSTONE. Techno. Preview the line-up and save it on soundcheck.
+PULS at DeTour on Fri 18 Sept, Tokyo. 3 acts on the bill: ALLY, Doom Tempo and TECSTONE. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,6 +11,7 @@ PULS at DeTour on Fri 18 Sept, Tokyo. 2 acts on the bill: ALLY and TECSTONE. Tec
 ## Line-up
 
 - ALLY
+- Doom Tempo
 - TECSTONE
 
 *Source: [soundcheck](https://soundcheck.club/e/2531628-puls-at-detour/)*

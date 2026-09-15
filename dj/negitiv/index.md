@@ -1,8 +1,8 @@
 # NEGITIV
 
-NEGITIV is a Techno and Hardcore artist with 7 upcoming club dates listed on soundcheck as of Tue, 15 Sept 2026, next at Superordinary, Brisbane on Fri, 18 Sept 2026.
+NEGITIV is a Techno and Hardcore artist with 8 upcoming club dates listed on soundcheck as of Tue, 15 Sept 2026, next at Superordinary, Brisbane on Fri, 18 Sept 2026.
 
-NEGITIV is a techno and hardcore artist tracked on soundcheck, with 95 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 40 more. Often billed alongside Alex Farell, SANTØS and Nicolas Julian. Next up: Superordinary, Brisbane on Fri 18 Sept.
+NEGITIV is a techno and hardcore artist tracked on soundcheck, with 96 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 40 more. Often billed alongside Alex Farell, SANTØS and Nicolas Julian. Next up: Superordinary, Brisbane on Fri 18 Sept.
 
 ## Upcoming shows
 
@@ -13,6 +13,7 @@ NEGITIV is a techno and hardcore artist tracked on soundcheck, with 95 sets logg
 | Fri, 25 Sept 2026 | Pica (Port Melbourne Industrial Centre for the Arts) | Melbourne |
 | Sat, 3 Oct 2026 | Uebel & Gefährlich | Hamburg |
 | Fri, 9 Oct 2026 | TBA - SEKTOR6D | Warsaw |
+| Fri, 9 Oct 2026 | Sektor 6D | Warsaw |
 | Sat, 7 Nov 2026 | Palais 12 / Paleis 12 (ING Arena) | Brussels |
 | Sat, 5 Dec 2026 | Zenith - Die Kulturhalle | Munich |
 

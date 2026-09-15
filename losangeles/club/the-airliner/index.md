@@ -10,7 +10,7 @@ The Airliner is a music venue in Losangeles listed on soundcheck. 5 upcoming nig
 | --- | --- | --- |
 | Fri, 18 Sept 2026 | The One Hundred |  |
 | Sat, 19 Sept 2026 | Jon Hassell Listening Party | Celia Hollander, Jon Hassell, Photay |
-| Thu, 24 Sept 2026 | ÆFFECT RADIO 16-Year Anniversary Party | Codiac, Freeman 713, Songco, Wheez-ie, Yessi |
+| Thu, 24 Sept 2026 | ÆFFECT RADIO 16-Year Anniversary Party | Codiac, Freeman 713, Infinity Edge, Songco, Wheez-ie, Yessi |
 | Fri, 25 Sept 2026 | Made to Move presents Latinas in the House | Andy Oro, Guaparda, Juliet Mendoza, SEEPS, Spiñorita |
 | Sat, 10 Oct 2026 | Aaron Paar, Darone Sassounian, SEEPS | Aaron Paar, Darone Sassounian, SEEPS |
 

@@ -1,8 +1,8 @@
 # Triqi
 
-Triqi is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Tue, 15 Sept 2026, next at Phantom Bar Berlin, Berlin on Sat, 3 Oct 2026.
+Triqi is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Tue, 15 Sept 2026, next at Phantom Bar Berlin, Berlin on Sat, 3 Oct 2026.
 
-Triqi is a house and techno artist tracked on soundcheck, with 124 sets logged across Berlin, Cologne, Hamburg and Prague. Often billed alongside Immy, INVERNO and hripsime. Next up: Phantom Bar Berlin, Berlin on Sat 3 Oct.
+Triqi is a house and techno artist tracked on soundcheck, with 125 sets logged across Berlin, Cologne, Hamburg and Prague. Often billed alongside Immy, INVERNO and hripsime. Next up: Phantom Bar Berlin, Berlin on Sat 3 Oct.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Triqi is a house and techno artist tracked on soundcheck, with 124 sets logged a
 | --- | --- | --- |
 | Sat, 3 Oct 2026 | Phantom Bar Berlin | Berlin |
 | Thu, 8 Oct 2026 | Bulbul Berlin | Berlin |
+| Sat, 10 Oct 2026 | Renate | Berlin |
 
 ## Recently played
 

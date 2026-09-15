@@ -1,6 +1,6 @@
 # PRESTO RAVE at Poseidons
 
-PRESTO RAVE at Poseidons on Fri 18 Sept, Riga. 3 acts on the bill: AIVISO, EP!C and nummurs. Drum & Bass and Techno. Preview the line-up and save it on soundcheck.
+PRESTO RAVE at Poseidons on Fri 18 Sept, Riga. 4 acts on the bill: AIVISO, EP!C, nummurs and RAWKORED. Drum & Bass and Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -13,5 +13,6 @@ PRESTO RAVE at Poseidons on Fri 18 Sept, Riga. 3 acts on the bill: AIVISO, EP!C 
 - AIVISO
 - EP!C
 - nummurs
+- RAWKORED
 
 *Source: [soundcheck](https://soundcheck.club/e/2525061-presto-rave-at-poseidons/)*

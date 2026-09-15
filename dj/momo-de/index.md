@@ -1,13 +1,14 @@
 # Momo
 
-Momo is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 15 Sept 2026, next at Silent Studios, Auckland on Sat, 3 Oct 2026.
+Momo is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Tue, 15 Sept 2026, next at Silent Studios, Auckland on Sat, 3 Oct 2026.
 
-Momo is a techno and house artist based in Germany, tracked on soundcheck, with 71 sets logged across Antwerp, Auckland, Berlin and Buenosaires and 14 more. Often billed alongside DJ MILLE, Michal Zietara and Helge Misof. Next up: Silent Studios, Auckland on Sat 3 Oct.
+Momo is a techno and house artist based in Germany, tracked on soundcheck, with 72 sets logged across Antwerp, Auckland, Berlin and Buenosaires and 14 more. Often billed alongside DJ MILLE, Michal Zietara and Helge Misof. Next up: Silent Studios, Auckland on Sat 3 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 3 Oct 2026 | Silent Studios | Auckland |
 | Sat, 3 Oct 2026 | Silent Studios | Auckland |
 
 ## Recently played

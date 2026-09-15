@@ -1,14 +1,15 @@
 # Sophie Festival
 
-Sophie Festival is a music venue in Malaga with 1 upcoming night listed on soundcheck as of Tue, 15 Sept 2026; the next is "Sophie Grand Closing - Ricardo Villalobos, Seth Troxler, Maher Daniel & more" on Sat, 19 Sept 2026.
+Sophie Festival is a music venue in Malaga with 2 upcoming nights listed on soundcheck as of Tue, 15 Sept 2026; the next is "Sophie Grand Closing - Ricardo Villalobos, Seth Troxler, Maher Daniel & more" on Sat, 19 Sept 2026.
 
-Sophie Festival is a music venue in Malaga listed on soundcheck. 1 upcoming night, with line-ups including AGELESS, Calabasa, Cap and Giorgio Maulini and 2 more. Browse upcoming dates, start times and who's playing. Ogus Park, Calle Rda., 16, Churriana, 29004 Málaga, España.
+Sophie Festival is a music venue in Malaga listed on soundcheck. 2 upcoming nights, with line-ups including AGELESS, Calabasa, Cap and Giorgio Maulini and 2 more. Browse upcoming dates, start times and who's playing. Ogus Park, Calle Rda., 16, Churriana, 29004 Málaga, España.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
 | Sat, 19 Sept 2026 | Sophie Grand Closing - Ricardo Villalobos, Seth Troxler, Maher Daniel & more | AGELESS, Bas Ibellini, Calabasa, Cap, Giorgio Maulini, Ion Pananides, Maher Daniel, Ricardo Villalobos, Seth Troxler |
+| Sun, 1 Nov 2026 | Sophie Especial Halloween - Jeff Mills | Jeff Mills |
 
 ## Address
 

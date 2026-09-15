@@ -8,6 +8,6 @@ Park Café München is a music venue in Munich listed on soundcheck. 1 upcoming 
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Thu, 24 Sept 2026 | friends. THE LOOP Vol. 3 | Alice DiMar, Amber (NL), Artur Bredo, Genji Yoshida, MIAMO, Marcel Dusk, SkyBrothers, Sonalie Solar, YEPIK, ZARE, diskoheinz |
+| Thu, 24 Sept 2026 | friends. THE LOOP Vol. 3 | Alice DiMar, Amber (NL), Artur Bredo, Genji Yoshida, MIAMO, Marcel Dusk, SAHARA, SkyBrothers, Sonalie Solar, YEPIK, ZARE, diskoheinz |
 
 *Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/munich/club/park-caf-m-nchen/)*

@@ -1,6 +1,6 @@
 # Fuse presents: Silva Bumpa at Fuse
 
-Fuse presents: Silva Bumpa on Sat 31 Oct, Brussels. 1 act on the bill: Silva Bumpa. Trance and House. Preview the line-up and save it on soundcheck.
+Fuse presents: Silva Bumpa on Sat 31 Oct, Brussels. 4 acts on the bill: Catalina, DJ Cosworth, Jhobei and Silva Bumpa. House and Garage. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,9 @@ Fuse presents: Silva Bumpa on Sat 31 Oct, Brussels. 1 act on the bill: Silva Bum
 
 ## Line-up
 
+- Catalina
+- DJ Cosworth
+- Jhobei
 - Silva Bumpa
 
 *Source: [soundcheck](https://soundcheck.club/e/2500724-fuse-presents-silva-bumpa-at-fuse/)*

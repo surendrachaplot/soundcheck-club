@@ -1,8 +1,8 @@
 # Quarry
 
-Quarry is a music venue in Liverpool with 11 upcoming nights listed on soundcheck as of Tue, 15 Sept 2026; the next is "TRUTHPASTE W/ SPECIAL GUESTS" on Thu, 17 Sept 2026.
+Quarry is a music venue in Liverpool with 12 upcoming nights listed on soundcheck as of Tue, 15 Sept 2026; the next is "TRUTHPASTE W/ SPECIAL GUESTS" on Thu, 17 Sept 2026.
 
-Quarry is a music venue in Liverpool listed on soundcheck. 11 upcoming nights, with line-ups including Flora Yin-Wong, Grey Streak, Heka and Roscoe Fox. Browse upcoming dates, start times and who's playing. 45 Hardman St, Liverpool L1 9AS.
+Quarry is a music venue in Liverpool listed on soundcheck. 12 upcoming nights, with line-ups including Flora Yin-Wong, Grey Streak, Heka and Roscoe Fox. Browse upcoming dates, start times and who's playing. 45 Hardman St, Liverpool L1 9AS.
 
 ## What's on
 
@@ -16,8 +16,8 @@ Quarry is a music venue in Liverpool listed on soundcheck. 11 upcoming nights, w
 | Thu, 15 Oct 2026 | Makeshift Art Bar + Special Guests at Quarry |  |
 | Wed, 28 Oct 2026 | Out of Phase presents: Daytime TV |  |
 | Thu, 29 Oct 2026 | Nina Winder-Lind + Heka | Heka |
+| Wed, 4 Nov 2026 | OOIOO (YoshimiO // Boredoms) |  |
 | Sun, 8 Nov 2026 | Superfan + Special Guests |  |
-| Fri, 13 Nov 2026 | Bloodsports + Special Guests |  |
 
 ## Address
 

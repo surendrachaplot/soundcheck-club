@@ -1,14 +1,15 @@
 # Kebin van Reeken
 
-Kebin van Reeken is a Progressive House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 15 Sept 2026, next at Akhnaton, Amsterdam on Fri, 23 Oct 2026.
+Kebin van Reeken is a Progressive House and Techno artist with 2 upcoming club dates listed on soundcheck as of Tue, 15 Sept 2026, next at Akhnaton, Amsterdam on Fri, 23 Oct 2026.
 
-Kebin van Reeken is a progressive house and techno artist based in Antigua and Barbuda, tracked on soundcheck, with 9 sets logged across Amsterdam, Barcelona, Buenosaires and Chicago and 1 more. Often billed alongside Adela, Antrim and Aubrey Fry. Next up: Akhnaton, Amsterdam on Fri 23 Oct.
+Kebin van Reeken is a progressive house and techno artist based in Antigua and Barbuda, tracked on soundcheck, with 10 sets logged across Amsterdam, Barcelona, Buenosaires and Chicago and 1 more. Often billed alongside Rauschhaus, Adela and Antrim. Next up: Akhnaton, Amsterdam on Fri 23 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 23 Oct 2026 | Akhnaton | Amsterdam |
+| Fri, 23 Oct 2026 | Rijnbar | Amsterdam |
 
 ## Recently played
 
@@ -23,6 +24,6 @@ Kebin van Reeken is a progressive house and techno artist based in Antigua and B
 
 ## Shares bills with
 
-Adela, Antrim, Aubrey Fry
+Rauschhaus, Adela, Antrim
 
 *Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kebinvanreeken/)*

@@ -2,13 +2,13 @@
 
 The Sound House is a music venue in Dublin with 11 upcoming nights listed on soundcheck as of Tue, 15 Sept 2026; the next is "THE NIGHT SHIFT: RAVE IN AID OF PIETA" on Thu, 17 Sept 2026.
 
-The Sound House is a music venue in Dublin listed on soundcheck. 11 upcoming nights, with line-ups including Bláthnaid, Bronwyn., eskay and Girls of the Internet and 2 more. Browse upcoming dates, start times and who's playing. 28 Eden Quay, Dublin, Ireland..
+The Sound House is a music venue in Dublin listed on soundcheck. 11 upcoming nights, with line-ups including Bláthnaid, Bronwyn., cälpol and eskay and 2 more. Browse upcoming dates, start times and who's playing. 28 Eden Quay, Dublin, Ireland..
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Thu, 17 Sept 2026 | THE NIGHT SHIFT: RAVE IN AID OF PIETA | Bláthnaid, SMS (IE), eskay |
+| Thu, 17 Sept 2026 | THE NIGHT SHIFT: RAVE IN AID OF PIETA | Bláthnaid, SMS (IE), cälpol, eskay |
 | Fri, 18 Sept 2026 | RATHAUS 039 - RATHAUS RETIREMENT HOME | Bronwyn., JWY (1) |
 | Fri, 25 Sept 2026 | APOKRIFA | Seqta, Sémaé |
 | Sat, 26 Sept 2026 | FACE 2 FACE WITH ISR |  |

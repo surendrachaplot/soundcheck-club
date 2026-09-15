@@ -2,7 +2,7 @@
 
 Macarena Club is a music venue in Barcelona with 16 upcoming nights listed on soundcheck as of Tue, 15 Sept 2026; the next is "Plastic Night" on Tue, 15 Sept 2026.
 
-Macarena Club is a music venue in Barcelona listed on soundcheck. 16 upcoming nights, with line-ups including Jo-Sie, Belu Rodriguez, Carlos Lamar and Fabio Fortino and 2 more. Browse upcoming dates, start times and who's playing. Carrer Nou de Sant Francesc, 5; 08002 Barcelona; Spain.
+Macarena Club is a music venue in Barcelona listed on soundcheck. 16 upcoming nights, with line-ups including Jo-Sie, Belu Rodriguez, Carlos Lamar and Cipy and 2 more. Browse upcoming dates, start times and who's playing. Carrer Nou de Sant Francesc, 5; 08002 Barcelona; Spain.
 
 ## What's on
 
@@ -10,7 +10,7 @@ Macarena Club is a music venue in Barcelona listed on soundcheck. 16 upcoming ni
 | --- | --- | --- |
 | Tue, 15 Sept 2026 | Plastic Night | Kanedo |
 | Wed, 16 Sept 2026 | Saulo Pisa & Friends | Belu Rodriguez, Saulo Pisa |
-| Thu, 17 Sept 2026 | Dissonanza |  |
+| Thu, 17 Sept 2026 | Dissonanza | Cipy, DJ SOFÍDIA, SABALZA, pumbum |
 | Fri, 18 Sept 2026 | Dance, Shake, Swing | Konnin, LM |
 | Sat, 19 Sept 2026 | TimeTunnel Night | Carlos Lamar |
 | Sun, 20 Sept 2026 | Move Your Body | Santacreu |

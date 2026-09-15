@@ -1,14 +1,15 @@
 # Linga Sound
 
-Linga Sound is a Jazz and Disco artist with 1 upcoming club date listed on soundcheck as of Tue, 15 Sept 2026, next at The System, Sheffield on Fri, 18 Sept 2026.
+Linga Sound is a Jazz and Disco artist with 2 upcoming club dates listed on soundcheck as of Tue, 15 Sept 2026, next at The System, Sheffield on Fri, 18 Sept 2026.
 
-Linga Sound is a jazz and disco artist tracked on soundcheck, with 10 sets logged across Sheffield. Often billed alongside Nonna Fab, Joi La Frique and Andrea Montalto. Next up: The System, Sheffield on Fri 18 Sept.
+Linga Sound is a jazz and disco artist tracked on soundcheck, with 11 sets logged across Sheffield. Often billed alongside Nonna Fab, Joi La Frique and Andrea Montalto. Next up: The System, Sheffield on Fri 18 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 18 Sept 2026 | The System | Sheffield |
+| Fri, 2 Oct 2026 | Peddler Warehouse | Sheffield |
 
 ## Recently played
 

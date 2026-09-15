@@ -1,8 +1,8 @@
 # Joe Claussell
 
-Joe Claussell is a House and Deep House artist with 4 upcoming club dates listed on soundcheck as of Tue, 15 Sept 2026, next at The Cause, London on Sat, 19 Sept 2026.
+Joe Claussell is a House and Deep House artist with 5 upcoming club dates listed on soundcheck as of Tue, 15 Sept 2026, next at The Cause, London on Sat, 19 Sept 2026.
 
-Joe Claussell is a house and deep house artist tracked on soundcheck, with 88 sets logged across Amsterdam, Athens, Barcelona and Belgrade and 24 more. Often billed alongside Danny Krivit, Francois K and DJ Tennis. Next up: The Cause, London on Sat 19 Sept.
+Joe Claussell is a house and deep house artist tracked on soundcheck, with 89 sets logged across Amsterdam, Athens, Barcelona and Belgrade and 24 more. Often billed alongside Danny Krivit, Francois K and DJ Tennis. Next up: The Cause, London on Sat 19 Sept.
 
 ## Upcoming shows
 
@@ -12,6 +12,7 @@ Joe Claussell is a house and deep house artist tracked on soundcheck, with 88 se
 | Sat, 26 Sept 2026 | Karmakoma | Belgrade |
 | Sun, 18 Oct 2026 | Longboat Hall | Toronto |
 | Sat, 24 Oct 2026 | Cosmic Arts | New York City |
+| Thu, 12 Nov 2026 | essaim | Paris |
 
 ## Recently played
 

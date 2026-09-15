@@ -14,7 +14,7 @@ Teenage Mutants is a techno and tech house artist tracked on soundcheck, with 13
 | Wed, 21 Oct 2026 | Veronica Schip | Amsterdam |
 | Fri, 6 Nov 2026 | Ritter Butzke | Berlin |
 | Sat, 21 Nov 2026 | Uebel & Gefährlich | Hamburg |
-| Sat, 28 Nov 2026 | TBA | Berlin |
+| Sat, 28 Nov 2026 | DSTRKT Club Berlin | Berlin |
 
 ## Recently played
 

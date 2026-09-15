@@ -1,8 +1,8 @@
 # Honcho
 
-Honcho is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Tue, 15 Sept 2026, next at Fort Mifflin, Philadelphia on Fri, 18 Sept 2026.
+Honcho is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Tue, 15 Sept 2026, next at Fort Mifflin, Philadelphia on Fri, 18 Sept 2026.
 
-Honcho is a house and techno artist based in United States of America, tracked on soundcheck, with 28 sets logged across Berlin, Detroit, London and Losangeles and 5 more. Often billed alongside Clark Price, Aaron Clark and d'Adhemar. Next up: Fort Mifflin, Philadelphia on Fri 18 Sept.
+Honcho is a house and techno artist based in United States of America, tracked on soundcheck, with 29 sets logged across Berlin, Detroit, London and Losangeles and 5 more. Often billed alongside Clark Price, Aaron Clark and d'Adhemar. Next up: Fort Mifflin, Philadelphia on Fri 18 Sept.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Honcho is a house and techno artist based in United States of America, tracked o
 | --- | --- | --- |
 | Fri, 18 Sept 2026 | Fort Mifflin | Philadelphia |
 | Sat, 3 Oct 2026 | Hive Club | Zurich |
+| Sat, 24 Oct 2026 | H0L0 | New York City |
 
 ## Recently played
 

@@ -1,13 +1,14 @@
 # Anna Butter
 
-Anna Butter is a Experimental and Techno artist with 2 upcoming club dates listed on soundcheck as of Tue, 15 Sept 2026, next at TBA - check telegram, Berlin on Sat, 26 Sept 2026.
+Anna Butter is a Experimental and Techno artist with 3 upcoming club dates listed on soundcheck as of Tue, 15 Sept 2026, next at Du Beast, Berlin on Fri, 18 Sept 2026.
 
-Anna Butter is an experimental and techno artist tracked on soundcheck, with 17 sets logged across Berlin, Dusseldorf, Hamburg and London and 1 more. Often billed alongside Marc Matter, DON'T DJ and Mieko Suzuki. Next up: TBA - check telegram, Berlin on Sat 26 Sept.
+Anna Butter is an experimental and techno artist tracked on soundcheck, with 18 sets logged across Berlin, Dusseldorf, Hamburg and London and 1 more. Often billed alongside Marc Matter, DON'T DJ and Mieko Suzuki. Next up: Du Beast, Berlin on Fri 18 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 18 Sept 2026 | Du Beast | Berlin |
 | Sat, 26 Sept 2026 | TBA - check telegram | Berlin |
 | Sat, 28 Nov 2026 | TBA | Berlin |
 

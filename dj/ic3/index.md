@@ -1,8 +1,8 @@
 # IC3
 
-IC3 is a Drum & Bass and Jungle artist with 4 upcoming club dates listed on soundcheck as of Tue, 15 Sept 2026, next at Studio 338, London on Sat, 26 Sept 2026.
+IC3 is a Drum & Bass and Jungle artist with 5 upcoming club dates listed on soundcheck as of Tue, 15 Sept 2026, next at Studio 338, London on Sat, 26 Sept 2026.
 
-IC3 is a drum & bass and jungle artist tracked on soundcheck, with 83 sets logged across Amsterdam, Birmingham, Bristol and Hamburg and 5 more. Often billed alongside DJ Hype, Dillinja and Carasel. Next up: Studio 338, London on Sat 26 Sept.
+IC3 is a drum & bass and jungle artist tracked on soundcheck, with 84 sets logged across Amsterdam, Birmingham, Bristol and Hamburg and 5 more. Often billed alongside DJ Hype, Dillinja and K Motionz. Next up: Studio 338, London on Sat 26 Sept.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ IC3 is a drum & bass and jungle artist tracked on soundcheck, with 83 sets logge
 | --- | --- | --- |
 | Sat, 26 Sept 2026 | Studio 338 | London |
 | Fri, 9 Oct 2026 | Depot Mayfield | Manchester |
+| Sat, 14 Nov 2026 | The Prospect Building | Bristol |
 | Fri, 20 Nov 2026 | TBA - The Other Side (Friday) - Warehouse Elementenstraat (Saturday) | Amsterdam |
 | Sat, 21 Nov 2026 | Warehouse Elementenstraat | Amsterdam |
 
@@ -26,6 +27,6 @@ IC3 is a drum & bass and jungle artist tracked on soundcheck, with 83 sets logge
 
 ## Shares bills with
 
-DJ Hype, Dillinja, Carasel
+DJ Hype, Dillinja, K Motionz
 
 *Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ic3/)*

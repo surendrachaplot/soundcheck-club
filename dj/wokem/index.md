@@ -1,14 +1,15 @@
 # WO KEM
 
-WO KEM is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 15 Sept 2026, next at TBA - Secret Location, Madrid on Sat, 26 Sept 2026.
+WO KEM is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Tue, 15 Sept 2026, next at Muller Bar, Madrid on Fri, 25 Sept 2026.
 
-WO KEM is a house and techno artist tracked on soundcheck, with 68 sets logged across Barcelona, Berlin, Hamburg and Madrid. Often billed alongside findPeaks, KOKE and ISAAC ARGA. Next up: TBA - Secret Location, Madrid on Sat 26 Sept.
+WO KEM is a house and techno artist tracked on soundcheck, with 69 sets logged across Barcelona, Berlin, Hamburg and Madrid. Often billed alongside findPeaks, KOKE and ISAAC ARGA. Next up: Muller Bar, Madrid on Fri 25 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 26 Sept 2026 | TBA - Secret Location | Madrid |
+| Fri, 25 Sept 2026 | Muller Bar | Madrid |
+| Sat, 26 Sept 2026 | TBA - Localización secreta | Madrid |
 
 ## Recently played
 

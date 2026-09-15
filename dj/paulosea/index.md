@@ -1,14 +1,15 @@
 # Paulo Sea
 
-Paulo Sea is a House and Electro artist with 1 upcoming club date listed on soundcheck as of Tue, 15 Sept 2026, next at UMI, Brussels on Sat, 19 Sept 2026.
+Paulo Sea is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Tue, 15 Sept 2026, next at UMI, Brussels on Sat, 19 Sept 2026.
 
-Paulo Sea is a house and electro artist based in Belgium, tracked on soundcheck, with 29 sets logged across Antwerp, Berlin, Brussels and Ghent. Often billed alongside Fais Le Beau, Dana Kuehr and Sixsixsixties. Next up: UMI, Brussels on Sat 19 Sept.
+Paulo Sea is a house and techno artist based in Belgium, tracked on soundcheck, with 30 sets logged across Antwerp, Berlin, Brussels and Ghent. Often billed alongside Fais Le Beau, Dana Kuehr and Sixsixsixties. Next up: UMI, Brussels on Sat 19 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 19 Sept 2026 | UMI | Brussels |
+| Sat, 31 Oct 2026 | C12 | Brussels |
 
 ## Recently played
 

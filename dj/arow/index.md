@@ -1,14 +1,15 @@
 # arow
 
-arow is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 15 Sept 2026, next at Forestlimit, Tokyo on Fri, 18 Sept 2026.
+arow is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Tue, 15 Sept 2026, next at Forestlimit, Tokyo on Fri, 18 Sept 2026.
 
-arow is a techno and house artist tracked on soundcheck, with 144 sets logged across Kyoto, Osaka and Tokyo. Often billed alongside NordOst, TEI TEI and Aki Dolanikov. Next up: Forestlimit, Tokyo on Fri 18 Sept.
+arow is a techno and house artist tracked on soundcheck, with 145 sets logged across Kyoto, Osaka and Tokyo. Often billed alongside NordOst, TEI TEI and Aki Dolanikov. Next up: Forestlimit, Tokyo on Fri 18 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 18 Sept 2026 | Forestlimit | Tokyo |
+| Tue, 22 Sept 2026 | Azumaya | Tokyo |
 
 ## Recently played
 

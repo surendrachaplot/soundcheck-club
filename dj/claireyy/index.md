@@ -1,14 +1,15 @@
 # Claireyy
 
-Claireyy is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Tue, 15 Sept 2026, next at Newspeak, Montreal on Fri, 25 Sept 2026.
+Claireyy is a Techno and Trance artist with 3 upcoming club dates listed on soundcheck as of Tue, 15 Sept 2026, next at Newspeak, Montreal on Fri, 25 Sept 2026.
 
-Claireyy is a techno and trance artist tracked on soundcheck, with 41 sets logged across Montreal. Often billed alongside Outback, Wasie and nastygloss. Next up: Newspeak, Montreal on Fri 25 Sept.
+Claireyy is a techno and trance artist tracked on soundcheck, with 42 sets logged across Montreal. Often billed alongside Outback, Wasie and nastygloss. Next up: Newspeak, Montreal on Fri 25 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 25 Sept 2026 | Newspeak | Montreal |
+| Sat, 10 Oct 2026 | Bar Datcha | Montreal |
 | Sat, 17 Oct 2026 | Foufounes Electronique | Montreal |
 
 ## Recently played

@@ -1,8 +1,8 @@
 # Pan-Pot
 
-Pan-Pot is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Tue, 15 Sept 2026, next at Noto Philadelphia, Philadelphia on Thu, 17 Sept 2026.
+Pan-Pot is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Tue, 15 Sept 2026, next at Noto Philadelphia, Philadelphia on Thu, 17 Sept 2026.
 
-Pan-Pot is a techno and house artist tracked on soundcheck, with 174 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 53 more. Often billed alongside Adam Beyer, Anfisa Letyago and Enrico Sangiuliano. Next up: Noto Philadelphia, Philadelphia on Thu 17 Sept.
+Pan-Pot is a techno and house artist tracked on soundcheck, with 175 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 54 more. Often billed alongside Adam Beyer, Anfisa Letyago and Enrico Sangiuliano. Next up: Noto Philadelphia, Philadelphia on Thu 17 Sept.
 
 ## Upcoming shows
 
@@ -13,6 +13,7 @@ Pan-Pot is a techno and house artist tracked on soundcheck, with 174 sets logged
 | Sun, 4 Oct 2026 | Hï Ibiza | Ibiza |
 | Fri, 16 Oct 2026 | Hangar Luke Beograd | Belgrade |
 | Sat, 24 Oct 2026 | Het Sieraad | Amsterdam |
+| Fri, 30 Oct 2026 | BERHTA | Washington DC |
 
 ## Recently played
 

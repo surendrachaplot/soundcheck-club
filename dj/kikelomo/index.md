@@ -1,14 +1,15 @@
 # Kikelomo
 
-Kikelomo is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 15 Sept 2026, next at 83 Rivington Street, London on Thu, 17 Sept 2026.
+Kikelomo is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Tue, 15 Sept 2026, next at 83 Rivington Street, London on Thu, 17 Sept 2026.
 
-Kikelomo is a techno and house artist tracked on soundcheck, with 93 sets logged across Amsterdam, Antwerp, Basel and Belfast and 18 more. Often billed alongside Honey Dijon, Avalon Emerson and Virginia. Next up: 83 Rivington Street, London on Thu 17 Sept.
+Kikelomo is a techno and house artist tracked on soundcheck, with 94 sets logged across Amsterdam, Antwerp, Basel and Belfast and 18 more. Often billed alongside Honey Dijon, Avalon Emerson and Gabrielle Kwarteng. Next up: 83 Rivington Street, London on Thu 17 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Thu, 17 Sept 2026 | 83 Rivington Street | London |
+| Sat, 10 Oct 2026 | Backsteinboot | Berlin |
 
 ## Recently played
 
@@ -23,6 +24,6 @@ Kikelomo is a techno and house artist tracked on soundcheck, with 93 sets logged
 
 ## Shares bills with
 
-Honey Dijon, Avalon Emerson, Virginia
+Honey Dijon, Avalon Emerson, Gabrielle Kwarteng
 
 *Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kikelomo/)*

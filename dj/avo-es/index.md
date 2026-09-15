@@ -1,8 +1,8 @@
 # Avo (ES)
 
-Avo (ES) is a House and Electronica artist with 3 upcoming club dates listed on soundcheck as of Tue, 15 Sept 2026, next at Cadavra, Madrid on Fri, 25 Sept 2026.
+Avo (ES) is a Electronica and House artist with 4 upcoming club dates listed on soundcheck as of Tue, 15 Sept 2026, next at Cadavra, Madrid on Fri, 25 Sept 2026.
 
-Avo (ES) is a house and electronica artist tracked on soundcheck, with 69 sets logged across Barcelona, Berlin, Chicago and London and 6 more. Often billed alongside Cesc (ES), DANIL0 and Jorge Escribano. Next up: Cadavra, Madrid on Fri 25 Sept.
+Avo (ES) is an electronica and house artist tracked on soundcheck, with 70 sets logged across Barcelona, Berlin, Chicago and London and 6 more. Often billed alongside Cesc (ES), DANIL0 and Jorge Escribano. Next up: Cadavra, Madrid on Fri 25 Sept.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ Avo (ES) is a house and electronica artist tracked on soundcheck, with 69 sets l
 | Fri, 25 Sept 2026 | Cadavra | Madrid |
 | Fri, 25 Sept 2026 | feedbk | New York City |
 | Fri, 2 Oct 2026 | LFO.exp | Madrid |
+| Sat, 21 Nov 2026 | Lasociaciøn | Madrid |
 
 ## Recently played
 

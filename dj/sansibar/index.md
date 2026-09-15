@@ -1,8 +1,8 @@
 # Sansibar
 
-Sansibar is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Tue, 15 Sept 2026, next at CLUB RAUM, Amsterdam on Fri, 18 Sept 2026.
+Sansibar is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Tue, 15 Sept 2026, next at CLUB RAUM, Amsterdam on Fri, 18 Sept 2026.
 
-Sansibar is a techno and house artist tracked on soundcheck, with 182 sets logged across Amsterdam, Athens, Bangkok and Barcelona and 46 more. Often billed alongside Denzel, Katerina and dj sweet6teen. Next up: CLUB RAUM, Amsterdam on Fri 18 Sept.
+Sansibar is a techno and house artist tracked on soundcheck, with 183 sets logged across Amsterdam, Athens, Bangkok and Barcelona and 46 more. Often billed alongside Denzel, Katerina and dj sweet6teen. Next up: CLUB RAUM, Amsterdam on Fri 18 Sept.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ Sansibar is a techno and house artist tracked on soundcheck, with 182 sets logge
 | Fri, 18 Sept 2026 | CLUB RAUM | Amsterdam |
 | Fri, 16 Oct 2026 | ZENNER | Berlin |
 | Fri, 16 Oct 2026 | Gaffe | London |
+| Sat, 17 Oct 2026 | UMI | Brussels |
 | Sat, 7 Nov 2026 | Seaseaclub Barcelona | Barcelona |
 
 ## Recently played

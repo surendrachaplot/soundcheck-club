@@ -1,8 +1,8 @@
 # Chris Cruse
 
-Chris Cruse is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Tue, 15 Sept 2026, next at BASEMENT, New York City on Sat, 26 Sept 2026.
+Chris Cruse is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Tue, 15 Sept 2026, next at BASEMENT, New York City on Sat, 26 Sept 2026.
 
-Chris Cruse is a house and techno artist based in United States of America, tracked on soundcheck, with 102 sets logged across Amsterdam, Athens, Austin and Bali and 27 more. Often billed alongside Luigi Di Venere, Massimiliano Pagliara and Cormac. Next up: BASEMENT, Newyorkcity on Sat 26 Sept.
+Chris Cruse is a house and techno artist based in United States of America, tracked on soundcheck, with 103 sets logged across Amsterdam, Athens, Austin and Bali and 27 more. Often billed alongside Luigi Di Venere, Massimiliano Pagliara and Cormac. Next up: BASEMENT, Newyorkcity on Sat 26 Sept.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Chris Cruse is a house and techno artist based in United States of America, trac
 | --- | --- | --- |
 | Sat, 26 Sept 2026 | BASEMENT | New York City |
 | Sat, 17 Oct 2026 | public records | New York City |
+| Sun, 1 Nov 2026 | smartbar | Chicago |
 
 ## Recently played
 

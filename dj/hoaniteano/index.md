@@ -1,13 +1,14 @@
 # Hoani Teano
 
-Hoani Teano is a Afro House and House artist with 4 upcoming club dates listed on soundcheck as of Tue, 15 Sept 2026, next at TBA, Amsterdam on Fri, 23 Oct 2026.
+Hoani Teano is a Afro House and House artist with 5 upcoming club dates listed on soundcheck as of Tue, 15 Sept 2026, next at TBA, Amsterdam on Fri, 23 Oct 2026.
 
-Hoani Teano is an afro house and house artist based in France, tracked on soundcheck, with 30 sets logged across Amsterdam, Geneva and Malaga. Often billed alongside Plab On, Ed Noodle and Bart Blankman. Next up: TBA, Amsterdam on Fri 23 Oct.
+Hoani Teano is an afro house and house artist based in France, tracked on soundcheck, with 31 sets logged across Amsterdam, Geneva and Malaga. Often billed alongside Plab On, Ed Noodle and Bart Blankman. Next up: TBA, Amsterdam on Fri 23 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 23 Oct 2026 | TBA | Amsterdam |
 | Fri, 23 Oct 2026 | TBA | Amsterdam |
 | Sat, 24 Oct 2026 | TBA | Amsterdam |
 | Sat, 24 Oct 2026 | TBA | Amsterdam |

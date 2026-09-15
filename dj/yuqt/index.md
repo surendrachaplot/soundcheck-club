@@ -14,7 +14,7 @@ Y U QT is a garage and bass artist tracked on soundcheck, with 114 sets logged a
 | Fri, 9 Oct 2026 | 24 Kitchen Street | Liverpool |
 | Sat, 10 Oct 2026 | Mint XL | Leeds |
 | Fri, 30 Oct 2026 | UNLOCKED | London |
-| Sat, 5 Dec 2026 | New Century Locker | Manchester |
+| Fri, 4 Dec 2026 | New Century Locker | Manchester |
 
 ## Recently played
 

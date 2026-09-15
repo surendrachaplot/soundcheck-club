@@ -1,6 +1,6 @@
 # Novocaine+ presents BIRDS at Gate Milano
 
-Novocaine+ presents BIRDS at Gate Milano on Sat 19 Sept, Milan. 2 acts on the bill: Ben Eidani and Flaiv Đarkø. Techno. Preview the line-up and save it on soundcheck.
+Novocaine+ presents BIRDS at Gate Milano on Sat 19 Sept, Milan. 3 acts on the bill: Alis Swing, Ben Eidani and Flaiv Đarkø. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ Novocaine+ presents BIRDS at Gate Milano on Sat 19 Sept, Milan. 2 acts on the bi
 
 ## Line-up
 
+- Alis Swing
 - Ben Eidani
 - Flaiv Đarkø
 

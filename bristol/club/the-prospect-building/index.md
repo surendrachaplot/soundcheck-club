@@ -1,8 +1,8 @@
 # The Prospect Building
 
-The Prospect Building is a music venue in Bristol with 9 upcoming nights listed on soundcheck as of Tue, 15 Sept 2026; the next is "Sirat Live AV" on Thu, 24 Sept 2026.
+The Prospect Building is a music venue in Bristol with 10 upcoming nights listed on soundcheck as of Tue, 15 Sept 2026; the next is "Sirat Live AV" on Thu, 24 Sept 2026.
 
-The Prospect Building is a music venue in Bristol listed on soundcheck. 9 upcoming nights, with line-ups including 4am Kru, Above & Beyond, Aries and BØĘRY and 2 more. Browse upcoming dates, start times and who's playing. 45 Feeder Rd Bristol, BS2 0SE.
+The Prospect Building is a music venue in Bristol listed on soundcheck. 10 upcoming nights, with line-ups including 4am Kru, Above & Beyond, A Little Sound and Anaïs and 2 more. Browse upcoming dates, start times and who's playing. 45 Feeder Rd Bristol, BS2 0SE.
 
 ## What's on
 
@@ -13,6 +13,7 @@ The Prospect Building is a music venue in Bristol listed on soundcheck. 9 upcomi
 | Sat, 17 Oct 2026 | History Of Rave: Eats Everything, Groove Armada, Mike Skinner  | Eats Everything, Groove Armada, Lulah Francs, Mike Skinner, SGT Pokes, SHADEV, SHUFFA, Safiye, Scarlett O'Malley |
 | Fri, 30 Oct 2026 | Above & Beyond presents Anjunabeats Warehouse | Above & Beyond, Marsh, Mat Zo, Sanaz |
 | Sat, 31 Oct 2026 | 4am Kru - [The Blast] Halloween Carnival of the Dead x LSTD | 4am Kru |
+| Sat, 14 Nov 2026 | UKF Bristol | A Little Sound, Anaïs, IC3, K Motionz, MC Texas, Wilkinson |
 | Fri, 27 Nov 2026 | Teletech: Bristol | Lola Cerise, Restricted |
 | Fri, 27 Nov 2026 | Teletech Bristol | BØĘRY, Lola Cerise, Restricted |
 | Sat, 28 Nov 2026 | ATW pres. Interplanetary Criminal + Guests | Interplanetary Criminal |

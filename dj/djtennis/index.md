@@ -1,8 +1,8 @@
 # DJ Tennis
 
-DJ Tennis is a House and Techno artist with 13 upcoming club dates listed on soundcheck as of Tue, 15 Sept 2026, next at Gin Ling Way, Chinatown, Los Angeles on Sat, 19 Sept 2026.
+DJ Tennis is a House and Techno artist with 14 upcoming club dates listed on soundcheck as of Tue, 15 Sept 2026, next at Gin Ling Way, Chinatown, Los Angeles on Sat, 19 Sept 2026.
 
-DJ Tennis is a house and techno artist tracked on soundcheck, with 302 sets logged across Amsterdam, Antwerp, Austin and Bali and 56 more. Often billed alongside Carlita, Seth Troxler and Chloé Caillet. Next up: Gin Ling Way, Chinatown, Losangeles on Sat 19 Sept.
+DJ Tennis is a house and techno artist tracked on soundcheck, with 303 sets logged across Amsterdam, Antwerp, Austin and Bali and 56 more. Often billed alongside Carlita, Seth Troxler and Chloé Caillet. Next up: Gin Ling Way, Chinatown, Losangeles on Sat 19 Sept.
 
 ## Upcoming shows
 
@@ -13,13 +13,13 @@ DJ Tennis is a house and techno artist tracked on soundcheck, with 302 sets logg
 | Mon, 28 Sept 2026 | DC-10 | Ibiza |
 | Sat, 3 Oct 2026 | Dockland | Munster |
 | Fri, 9 Oct 2026 | FOLD | London |
+| Sat, 10 Oct 2026 | Nitsa Club | Barcelona |
 | Wed, 21 Oct 2026 | A'DAM Toren | Amsterdam |
 | Sat, 24 Oct 2026 | Thuishaven | Amsterdam |
 | Sat, 24 Oct 2026 | Shelter Amsterdam | Amsterdam |
 | Fri, 30 Oct 2026 | NOS Event Center | Los Angeles |
 | Sat, 31 Oct 2026 | Warehouse on Watts | Philadelphia |
 | Fri, 6 Nov 2026 | Frankhan Selectist | Istanbul |
-| Fri, 13 Nov 2026 | Coda | Toronto |
 
 ## Recently played
 

@@ -1,6 +1,6 @@
 # FREE Beach party // Fänk / Season Closing Fest at Almar Beach Club
 
-FREE Beach party // Fänk / Season Closing Fest at Almar Beach Club on Sun 20 Sept, Barcelona. 8 acts on the bill: CAZOU, DISARLI, Mat Spiaggi and Meeks and 4 more. House and Minimal. Preview the line-up and save it on soundcheck.
+FREE Beach party // Fänk / Season Closing Fest at Almar Beach Club on Sun 20 Sept, Barcelona. 9 acts on the bill: CAZOU, DISARLI, Gaston Zagha and Mat Spiaggi and 5 more. House and Minimal. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -12,6 +12,7 @@ FREE Beach party // Fänk / Season Closing Fest at Almar Beach Club on Sun 20 Se
 
 - CAZOU
 - DISARLI
+- Gaston Zagha
 - Mat Spiaggi
 - Meeks
 - MEEKS (2)

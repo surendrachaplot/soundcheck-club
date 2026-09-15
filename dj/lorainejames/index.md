@@ -1,14 +1,16 @@
 # Loraine James
 
-Loraine James is a Experimental and Ambient artist with 3 upcoming club dates listed on soundcheck as of Tue, 15 Sept 2026, next at Muziekgebouw aan t' IJ, Amsterdam on Sat, 19 Sept 2026.
+Loraine James is a Experimental and Ambient artist with 5 upcoming club dates listed on soundcheck as of Tue, 15 Sept 2026, next at Jardim das Galerias Municipais de Lisboa - Galeria Quadrum, Lisbon on Fri, 18 Sept 2026.
 
-Loraine James is an experimental and ambient artist tracked on soundcheck, with 70 sets logged across Amsterdam, Barcelona, Berlin and Bristol and 29 more. Often billed alongside Valentina Magaletti, Kelman Duran and Lee Gamble. Next up: Muziekgebouw aan t' IJ, Amsterdam on Sat 19 Sept.
+Loraine James is an experimental and ambient artist tracked on soundcheck, with 72 sets logged across Amsterdam, Barcelona, Berlin and Bristol and 29 more. Often billed alongside Valentina Magaletti, Kelman Duran and Lee Gamble. Next up: Jardim das Galerias Municipais de Lisboa - Galeria Quadrum, Lisbon on Fri 18 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 18 Sept 2026 | Jardim das Galerias Municipais de Lisboa - Galeria Quadrum | Lisbon |
 | Sat, 19 Sept 2026 | Muziekgebouw aan t' IJ | Amsterdam |
+| Sat, 26 Sept 2026 | La Station - Gare des Mines | Paris |
 | Tue, 13 Oct 2026 | TBA | Valencia |
 | Thu, 5 Nov 2026 | TivoliVredenburg | Utrecht |
 

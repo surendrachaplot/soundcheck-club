@@ -1,6 +1,6 @@
 # Motion at Aoyama Hachi
 
-Motion at Aoyama Hachi on Sun 18 Oct, Tokyo. 6 acts on the bill: Ayana Pattra, KUBOTA, Natasha (VE) and SIGNAL (JP) and 2 more. Techno and House. Preview the line-up and save it on soundcheck.
+Motion at Aoyama Hachi on Sun 18 Oct, Tokyo. 7 acts on the bill: Ayana Pattra, KUBOTA, Natasha (VE) and puffclouds and 3 more. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -13,6 +13,7 @@ Motion at Aoyama Hachi on Sun 18 Oct, Tokyo. 6 acts on the bill: Ayana Pattra, K
 - Ayana Pattra
 - KUBOTA
 - Natasha (VE)
+- puffclouds
 - SIGNAL (JP)
 - TAIYO (2)
 - Tomoya

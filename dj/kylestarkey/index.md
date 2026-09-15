@@ -1,8 +1,8 @@
 # Kyle Starkey
 
-Kyle Starkey is a Techno and House artist with 16 upcoming club dates listed on soundcheck as of Tue, 15 Sept 2026, next at Moon Club, Bristol on Thu, 17 Sept 2026.
+Kyle Starkey is a Techno and House artist with 17 upcoming club dates listed on soundcheck as of Tue, 15 Sept 2026, next at Moon Club, Bristol on Thu, 17 Sept 2026.
 
-Kyle Starkey is a techno and house artist tracked on soundcheck, with 168 sets logged across Aberdeen, Amsterdam, Antwerp and Austin and 35 more. Often billed alongside DART, Benwal and Faster Horses. Next up: Moon Club, Bristol on Thu 17 Sept.
+Kyle Starkey is a techno and house artist tracked on soundcheck, with 169 sets logged across Aberdeen, Amsterdam, Antwerp and Austin and 36 more. Often billed alongside DART, Benwal and Faster Horses. Next up: Moon Club, Bristol on Thu 17 Sept.
 
 ## Upcoming shows
 

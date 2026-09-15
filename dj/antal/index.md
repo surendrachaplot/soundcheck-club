@@ -1,8 +1,8 @@
 # Antal
 
-Antal is a House and Disco artist with 8 upcoming club dates listed on soundcheck as of Tue, 15 Sept 2026, next at OHM, Berlin on Sat, 19 Sept 2026.
+Antal is a House and Disco artist with 9 upcoming club dates listed on soundcheck as of Tue, 15 Sept 2026, next at OHM, Berlin on Sat, 19 Sept 2026.
 
-Antal is a house and disco artist tracked on soundcheck, with 152 sets logged across Amsterdam, Antwerp, Athens and Bali and 44 more. Often billed alongside Hunee, Kléo and Coco Maria. Next up: OHM, Berlin on Sat 19 Sept.
+Antal is a house and disco artist tracked on soundcheck, with 153 sets logged across Amsterdam, Antwerp, Athens and Bali and 44 more. Often billed alongside Hunee, Kléo and Coco Maria. Next up: OHM, Berlin on Sat 19 Sept.
 
 ## Upcoming shows
 
@@ -12,6 +12,7 @@ Antal is a house and disco artist tracked on soundcheck, with 152 sets logged ac
 | Sat, 26 Sept 2026 | La Cheetah Club | Glasgow |
 | Sun, 27 Sept 2026 | Eastway Baths | London |
 | Sat, 3 Oct 2026 | Tanjong Pagar Distripark | Singapore |
+| Thu, 22 Oct 2026 | San Francisco | Amsterdam |
 | Fri, 23 Oct 2026 | Ndsm Wharf | Amsterdam |
 | Sat, 24 Oct 2026 | Lofi | Amsterdam |
 | Sat, 7 Nov 2026 | Rex Club | Paris |

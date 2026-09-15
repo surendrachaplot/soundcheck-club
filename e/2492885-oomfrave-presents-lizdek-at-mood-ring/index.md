@@ -1,6 +1,6 @@
 # oomfRAVE presents: Lizdek at Mood Ring
 
-oomfRAVE presents: Lizdek at Mood Ring on Fri 18 Sept, Newyorkcity. 5 acts on the bill: Lizdek, Max Parkinson, oomfhaver and Prince S. and 1 more. Preview the line-up and save it on soundcheck.
+oomfRAVE presents: Lizdek at Mood Ring on Fri 18 Sept, Newyorkcity. 6 acts on the bill: Lizdek, Max Parkinson, oomfhaver and Prince S. and 2 more. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -14,6 +14,7 @@ oomfRAVE presents: Lizdek at Mood Ring on Fri 18 Sept, Newyorkcity. 5 acts on th
 - Max Parkinson
 - oomfhaver
 - Prince S.
+- sumant
 - tallbrowndude
 
 *Source: [soundcheck](https://soundcheck.club/e/2492885-oomfrave-presents-lizdek-at-mood-ring/)*

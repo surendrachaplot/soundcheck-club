@@ -1,6 +1,6 @@
 # BEETZ: Glued at Otaqlab Bangkok
 
-BEETZ: Glued at Otaqlab Bangkok on Fri 25 Sept, Bangkok. 3 acts on the bill: Krit Su, Noka and prok. Techno and House. Preview the line-up and save it on soundcheck.
+BEETZ: Glued at Otaqlab Bangkok on Fri 25 Sept, Bangkok. 4 acts on the bill: Krit Su, Noka, prok and Viparitz. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -13,5 +13,6 @@ BEETZ: Glued at Otaqlab Bangkok on Fri 25 Sept, Bangkok. 3 acts on the bill: Kri
 - Krit Su
 - Noka
 - prok
+- Viparitz
 
 *Source: [soundcheck](https://soundcheck.club/e/2535364-beetz-glued-at-otaqlab-bangkok/)*

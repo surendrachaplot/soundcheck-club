@@ -1,14 +1,15 @@
 # Yesca
 
-Yesca is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Tue, 15 Sept 2026, next at Tola, London on Fri, 9 Oct 2026.
+Yesca is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Tue, 15 Sept 2026, next at Tola, London on Fri, 9 Oct 2026.
 
-Yesca is a house and deep house artist based in United Kingdom, tracked on soundcheck, with 21 sets logged across Copenhagen, Glasgow, London and Prague. Often billed alongside Dan be, McCart and FROSKI. Next up: Tola, London on Fri 9 Oct.
+Yesca is a house and techno artist based in United Kingdom, tracked on soundcheck, with 22 sets logged across Brighton, Copenhagen, Glasgow and London and 1 more. Often billed alongside Dan be, McCart and FROSKI. Next up: Tola, London on Fri 9 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 9 Oct 2026 | Tola | London |
+| Sat, 17 Oct 2026 | A L P H A B E T | Brighton |
 
 ## Recently played
 

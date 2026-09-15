@@ -1,14 +1,15 @@
 # Cam Harris
 
-Cam Harris is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 15 Sept 2026, next at The Mothership, Auckland on Sat, 26 Sept 2026.
+Cam Harris is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Tue, 15 Sept 2026, next at The Mothership, Auckland on Sat, 26 Sept 2026.
 
-Cam Harris is a techno and house artist based in New Zealand, tracked on soundcheck, with 13 sets logged across Auckland. Often billed alongside Mia Kober, Oliver Huntemann and Out Of Sorts. Next up: The Mothership, Auckland on Sat 26 Sept.
+Cam Harris is a techno and house artist based in New Zealand, tracked on soundcheck, with 14 sets logged across Auckland. Often billed alongside Out Of Sorts, Matt Drake and Mia Kober. Next up: The Mothership, Auckland on Sat 26 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 26 Sept 2026 | The Mothership | Auckland |
+| Fri, 16 Oct 2026 | Silent Studios | Auckland |
 
 ## Recently played
 
@@ -23,6 +24,6 @@ Cam Harris is a techno and house artist based in New Zealand, tracked on soundch
 
 ## Shares bills with
 
-Mia Kober, Oliver Huntemann, Out Of Sorts
+Out Of Sorts, Matt Drake, Mia Kober
 
 *Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/camharris-nz/)*

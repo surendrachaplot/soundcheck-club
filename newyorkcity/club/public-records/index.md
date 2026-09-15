@@ -10,7 +10,7 @@ public records is a music venue in Newyorkcity listed on soundcheck. 41 upcoming
 | --- | --- | --- |
 | Thu, 17 Sept 2026 | Ballet: trickpony, Notte Infinita [Live], Yaki | Mike Midnight, Notte Infinita, Roza Terenzi, Yaki, emkay (FI) |
 | Thu, 17 Sept 2026 | Erol Alkan, Justin Strauss | Erol Alkan, Justin Strauss |
-| Fri, 18 Sept 2026 | Midgar: upsammy, Kamran Sadeghi / OK EG [Live], Severja & Aion / Jacob Gorchov | Aion, Kamran Sadeghi, OK EG, Severja, upsammy |
+| Fri, 18 Sept 2026 | Midgar: upsammy, Kamran Sadeghi / OK EG [Live], Severja & Aion / Palto Flats & Joshua Cordova | Aion, Joshua Cordova, Kamran Sadeghi, OK EG, Severja, upsammy |
 | Sat, 19 Sept 2026 | upsammy & Valentina Magaletti, Sergeant | Valentina Magaletti, upsammy |
 | Sat, 19 Sept 2026 | Bradley Zero, Tornado Wallace / Stones Taro, Yibing | Bradley Zero, Stones Taro, Tornado Wallace, Yibing |
 | Sun, 20 Sept 2026 | The Nursery: Moxie, Sinéad | Moxie, Sinéad |

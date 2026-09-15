@@ -1,8 +1,8 @@
 # Derrick Carter
 
-Derrick Carter is a House and Disco artist with 12 upcoming club dates listed on soundcheck as of Tue, 15 Sept 2026, next at TBA, Los Angeles on Sat, 19 Sept 2026.
+Derrick Carter is a House and Disco artist with 13 upcoming club dates listed on soundcheck as of Tue, 15 Sept 2026, next at TBA, Los Angeles on Sat, 19 Sept 2026.
 
-Derrick Carter is a house and disco artist tracked on soundcheck, with 318 sets logged across Amsterdam, Antwerp, Austin and Barcelona and 25 more. Often billed alongside Michael Serafini, Shaun J. Wright and Garrett David. Next up: TBA, Losangeles on Sat 19 Sept.
+Derrick Carter is a house and disco artist tracked on soundcheck, with 319 sets logged across Amsterdam, Antwerp, Austin and Barcelona and 25 more. Often billed alongside Michael Serafini, Shaun J. Wright and Garrett David. Next up: TBA, Losangeles on Sat 19 Sept.
 
 ## Upcoming shows
 
@@ -18,8 +18,8 @@ Derrick Carter is a house and disco artist tracked on soundcheck, with 318 sets 
 | Sun, 11 Oct 2026 | smartbar | Chicago |
 | Sun, 18 Oct 2026 | smartbar | Chicago |
 | Sun, 25 Oct 2026 | smartbar | Chicago |
+| Sun, 1 Nov 2026 | smartbar | Chicago |
 | Sat, 7 Nov 2026 | Audio SF | San Francisco/Oakland |
-| Sat, 14 Nov 2026 | TBA - 2341 E Olympic Blvd Los Angeles, CA  90021 | Los Angeles |
 
 ## Recently played
 

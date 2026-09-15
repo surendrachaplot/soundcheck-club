@@ -9,8 +9,8 @@ Cellarman is a drum & bass artist based in Belgium, tracked on soundcheck, with 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 18 Sept 2026 | Continental | Brussels |
-| Sat, 19 Sept 2026 | Continental | Brussels |
 | Fri, 9 Oct 2026 | Paramour | Brussels |
+| Sat, 24 Oct 2026 | Continental | Brussels |
 
 ## Recently played
 

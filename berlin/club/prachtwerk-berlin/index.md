@@ -1,6 +1,6 @@
 # Prachtwerk Berlin
 
-Prachtwerk Berlin is a music venue in Berlin with 2 upcoming nights listed on soundcheck as of Tue, 15 Sept 2026; the next is "ONE BUNDLE Mixer" on Fri, 25 Sept 2026.
+Prachtwerk Berlin is a music venue in Berlin with 2 upcoming nights listed on soundcheck as of Tue, 15 Sept 2026; the next is "ONE BUNDLE Cinema Mixer" on Fri, 25 Sept 2026.
 
 Prachtwerk Berlin is a music venue in Berlin listed on soundcheck. 2 upcoming nights, with line-ups including DEEOXID. Browse upcoming dates, start times and who's playing. Ganghoferstraße 2, 12043 Berlin, Germany.
 
@@ -8,7 +8,7 @@ Prachtwerk Berlin is a music venue in Berlin listed on soundcheck. 2 upcoming ni
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 25 Sept 2026 | ONE BUNDLE Mixer | DEEOXID |
+| Fri, 25 Sept 2026 | ONE BUNDLE Cinema Mixer | DEEOXID |
 | Mon, 2 Nov 2026 | MOMO BOYD |  |
 
 ## Address

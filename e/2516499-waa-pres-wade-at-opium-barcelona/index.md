@@ -1,6 +1,6 @@
 # Waa pres: Wade at Opium Barcelona
 
-Waa pres: Wade at Opium Barcelona on Fri 9 Oct, Barcelona. 1 act on the bill: Wade. Electronica. Preview the line-up and save it on soundcheck.
+Waa pres: Wade at Opium Barcelona on Fri 9 Oct, Barcelona. 3 acts on the bill: AIIVIIK, Vidaloca and Wade. Electronica. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,8 @@ Waa pres: Wade at Opium Barcelona on Fri 9 Oct, Barcelona. 1 act on the bill: Wa
 
 ## Line-up
 
+- AIIVIIK
+- Vidaloca
 - Wade
 
 *Source: [soundcheck](https://soundcheck.club/e/2516499-waa-pres-wade-at-opium-barcelona/)*

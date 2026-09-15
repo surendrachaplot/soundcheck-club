@@ -1,18 +1,19 @@
 # Turbina
 
-Turbina is a music venue in Budapest with 7 upcoming nights listed on soundcheck as of Tue, 15 Sept 2026; the next is "KAKAÓ 016 with Auerbach, BALARAM, Flipo, Tündérke + Clubroom by Hardcore4Kidz" on Fri, 18 Sept 2026.
+Turbina is a music venue in Budapest with 8 upcoming nights listed on soundcheck as of Tue, 15 Sept 2026; the next is "KAKAÓ 016 with Auerbach, BALARAM, Flipo, Tündérke + Clubroom by Hardcore4Kidz" on Fri, 18 Sept 2026.
 
-Turbina is a music venue in Budapest listed on soundcheck. 7 upcoming nights, with line-ups including 96zen, Akác, Arash Ete and Auerbach and 2 more. Browse upcoming dates, start times and who's playing. Budapest, Vajdahunyad street 4., 1082.
+Turbina is a music venue in Budapest listed on soundcheck. 8 upcoming nights, with line-ups including 96zen, Akác, Arash Ete and Auerbach and 2 more. Browse upcoming dates, start times and who's playing. Budapest, Vajdahunyad street 4., 1082.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
 | Fri, 18 Sept 2026 | KAKAÓ 016 with Auerbach, BALARAM, Flipo, Tündérke + Clubroom by Hardcore4Kidz | Auerbach, BALARAM, Dink |
-| Sat, 19 Sept 2026 | ꧁ ༺ DEAD END season opening with ninnidslvx, Paralich ༻ ꧂ | NINNIDSLVX, Paralich |
+| Sat, 19 Sept 2026 | DEAD END season opening with ninnidslvx, Paralich | NINNIDSLVX, Paralich |
 | Fri, 25 Sept 2026 | 5 Years of Memphis x The Balance with Fabe (Fashion Show) | Arash Ete, CRB, Fabe, Kiqo, Kiuz, Melody RA+RE, Stark (2), U-Seph, schraeder |
 | Sat, 3 Oct 2026 | techlab.bp invites Matriark (DK), Intuition - LIVE (SP), Main Hall | IMMATERIÆ, Intuition, Matriark, SLYM, Schierke, szoliver |
 | Sat, 3 Oct 2026 | Valenthin All Nigh Long at Turbina Clubroom | 96zen, Daniel Moritz, Valenthin |
+| Fri, 9 Oct 2026 | CASINO BANGKOK X Turbina W/ MAC DECLOS | Arash Ete, Gingershot, Kiuz |
 | Sat, 10 Oct 2026 | LavaLava Club Season Opening with Kornél Kovács | Falcao, Kornél Kovács, Tolo |
 | Sat, 17 Oct 2026 | Crime x Burn Energy Tour with MCR-T | Akác, CRIME, Gingershot, MCR-T, Maron, THIRD 2HIFT, Technokool, schraeder, szoliver |
 

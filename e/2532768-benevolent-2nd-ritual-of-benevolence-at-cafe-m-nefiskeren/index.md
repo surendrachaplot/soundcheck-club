@@ -1,6 +1,6 @@
 # Benevolent: 2nd Ritual of Benevolence at Cafe Månefiskeren
 
-Benevolent: 2nd Ritual of Benevolence at Cafe Månefiskeren on Fri 18 Sept, Copenhagen. 2 acts on the bill: Heddah and Timmyia. Preview the line-up and save it on soundcheck.
+Benevolent: 2nd Ritual of Benevolence at Cafe Månefiskeren on Fri 18 Sept, Copenhagen. 3 acts on the bill: eurostar, Heddah and Timmyia. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ Benevolent: 2nd Ritual of Benevolence at Cafe Månefiskeren on Fri 18 Sept, Cope
 
 ## Line-up
 
+- eurostar
 - Heddah
 - Timmyia
 

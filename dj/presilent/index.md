@@ -9,7 +9,7 @@ Pre Silent is a techno and industrial artist tracked on soundcheck, with 34 sets
 | Date | Venue | City |
 | --- | --- | --- |
 | Thu, 17 Sept 2026 | Berghain / Panorama Bar / Säule | Berlin |
-| Sat, 3 Oct 2026 | Onyx (E1) | London |
+| Sat, 3 Oct 2026 | E1 | London |
 | Sat, 21 Nov 2026 | E1 | London |
 
 ## Recently played

@@ -8,8 +8,8 @@ Poseidons is a music venue in Riga listed on soundcheck. 2 upcoming nights, with
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 18 Sept 2026 | PRESTO RAVE | AIVISO, EP!C, nummurs |
-| Fri, 9 Oct 2026 | BOILER BSMNT: FALL EDITION | ARRISHA, DV8 (LV), MBark, VIZZY, XSYNC19 |
+| Fri, 18 Sept 2026 | PRESTO RAVE | AIVISO, EP!C, RAWKORED, nummurs |
+| Fri, 9 Oct 2026 | BOILER BSMNT: FALL EDITION | ARRISHA, DV8 (LV), MBark, RAWKORED, VIZZY, XSYNC19 |
 
 ## Address
 

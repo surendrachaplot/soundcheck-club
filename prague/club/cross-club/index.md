@@ -1,8 +1,8 @@
 # Cross Club
 
-Cross Club is a music venue in Prague with 17 upcoming nights listed on soundcheck as of Tue, 15 Sept 2026; the next is "KONCERT & UpTONE" on Tue, 15 Sept 2026.
+Cross Club is a music venue in Prague with 19 upcoming nights listed on soundcheck as of Tue, 15 Sept 2026; the next is "KONCERT & UpTONE" on Tue, 15 Sept 2026.
 
-Cross Club is a music venue in Prague listed on soundcheck. 17 upcoming nights, with line-ups including Akira, AMAR DURGA, Amygdala and Neonlight and 2 more. Browse upcoming dates, start times and who's playing. Plynární 1096/23, Praha 7, Czech Republic.
+Cross Club is a music venue in Prague listed on soundcheck. 19 upcoming nights, with line-ups including Akira, AMAR DURGA, Amygdala and ESKEI83 and 2 more. Browse upcoming dates, start times and who's playing. Plynární 1096/23, Praha 7, Czech Republic.
 
 ## What's on
 

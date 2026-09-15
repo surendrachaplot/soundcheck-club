@@ -1,8 +1,8 @@
 # Richard Akingbehin
 
-Richard Akingbehin is a Techno and House artist with 7 upcoming club dates listed on soundcheck as of Tue, 15 Sept 2026, next at TBA, Montreal on Sun, 20 Sept 2026.
+Richard Akingbehin is a Techno and House artist with 8 upcoming club dates listed on soundcheck as of Tue, 15 Sept 2026, next at TBA, Montreal on Sun, 20 Sept 2026.
 
-Richard Akingbehin is a techno and house artist tracked on soundcheck, with 133 sets logged across Amsterdam, Barcelona, Berlin and Brussels and 28 more. Often billed alongside Tikiman, Fadi Mohem and livwutang. Next up: TBA, Montreal on Sun 20 Sept.
+Richard Akingbehin is a techno and house artist tracked on soundcheck, with 134 sets logged across Amsterdam, Barcelona, Berlin and Brussels and 28 more. Often billed alongside Tikiman, Fadi Mohem and livwutang. Next up: TBA, Montreal on Sun 20 Sept.
 
 ## Upcoming shows
 
@@ -15,6 +15,7 @@ Richard Akingbehin is a techno and house artist tracked on soundcheck, with 133 
 | Sat, 17 Oct 2026 | Berghain / Panorama Bar / Säule | Berlin |
 | Fri, 23 Oct 2026 | CLUB RAUM | Amsterdam |
 | Fri, 23 Oct 2026 | De Thomaskerk | Amsterdam |
+| Sat, 21 Nov 2026 | Tresor / Globus | Berlin |
 
 ## Recently played
 

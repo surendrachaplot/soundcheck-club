@@ -9,7 +9,7 @@ Kowalski is a music venue in Stuttgart listed on soundcheck. 5 upcoming nights, 
 | Date | Night | Line-up |
 | --- | --- | --- |
 | Sat, 19 Sept 2026 | KOWA SAMSTAG • SAYURI • JOSHA |  |
-| Sun, 20 Sept 2026 | SONNTAGS TERRASSE • KOWA RESIDENTS |  |
+| Sun, 20 Sept 2026 | SONNTAGS TERRASSE • Sezen, Sabee und Typsi |  |
 | Fri, 25 Sept 2026 | TIPSY x Kowalski • Shubostar • MARY • CHAMELIO3000 | Chamelio 3000, Shubostar |
 | Sat, 26 Sept 2026 | KOWA SAMSTAG • ADD US • OUS & ORY |  |
 | Sun, 27 Sept 2026 | SONNTAGS TERRASSE CLOSING • KOWA RESIDENTS |  |

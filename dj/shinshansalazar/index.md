@@ -1,13 +1,14 @@
 # Shinshan Salazar
 
-Shinshan Salazar is a Baile Funk and House artist with 1 upcoming club date listed on soundcheck as of Tue, 15 Sept 2026, next at SISSI'S Amsterdam, Amsterdam on Fri, 23 Oct 2026.
+Shinshan Salazar is a Baile Funk and House artist with 2 upcoming club dates listed on soundcheck as of Tue, 15 Sept 2026, next at Skatecafe, Amsterdam on Fri, 9 Oct 2026.
 
-Shinshan Salazar is a baile funk and house artist tracked on soundcheck, with 27 sets logged across Amsterdam, Berlin, London and Madrid and 2 more. Often billed alongside Franky Sticks, T.NO and Galecta (2). Next up: SISSI'S Amsterdam, Amsterdam on Fri 23 Oct.
+Shinshan Salazar is a baile funk and house artist tracked on soundcheck, with 28 sets logged across Amsterdam, Berlin, London and Madrid and 2 more. Often billed alongside Franky Sticks, T.NO and Galecta (2). Next up: Skatecafe, Amsterdam on Fri 9 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 9 Oct 2026 | Skatecafe | Amsterdam |
 | Fri, 23 Oct 2026 | SISSI'S Amsterdam | Amsterdam |
 
 ## Recently played

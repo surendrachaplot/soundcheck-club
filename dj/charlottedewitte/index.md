@@ -1,13 +1,14 @@
 # Charlotte de Witte
 
-Charlotte de Witte is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Tue, 15 Sept 2026, next at Fort Manoel, Malta on Sat, 26 Sept 2026.
+Charlotte de Witte is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Tue, 15 Sept 2026, next at Sektor 6D, Warsaw on Fri, 25 Sept 2026.
 
-Charlotte de Witte is a techno and house artist tracked on soundcheck, with 139 sets logged across Amsterdam, Athens, Austin and Bali and 48 more. Often billed alongside Enrico Sangiuliano, Adiel and 999999999. Next up: Fort Manoel, Malta on Sat 26 Sept.
+Charlotte de Witte is a techno and house artist tracked on soundcheck, with 140 sets logged across Amsterdam, Athens, Austin and Bali and 49 more. Often billed alongside Enrico Sangiuliano, Adiel and 999999999. Next up: Sektor 6D, Warsaw on Fri 25 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 25 Sept 2026 | Sektor 6D | Warsaw |
 | Sat, 26 Sept 2026 | Fort Manoel | Malta |
 | Fri, 16 Oct 2026 | Mana Wynwood | Miami |
 | Fri, 16 Oct 2026 | Navy Pier | Chicago |

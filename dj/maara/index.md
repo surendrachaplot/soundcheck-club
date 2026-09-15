@@ -1,8 +1,8 @@
 # Maara
 
-Maara is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Tue, 15 Sept 2026, next at Fort Mifflin, Philadelphia on Fri, 18 Sept 2026.
+Maara is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Tue, 15 Sept 2026, next at Fort Mifflin, Philadelphia on Fri, 18 Sept 2026.
 
-Maara is a techno and house artist tracked on soundcheck, with 159 sets logged across Amsterdam, Antwerp, Athens and Austin and 50 more. Often billed alongside Angel D'lite, Roza Terenzi and D. Tiffany. Next up: Fort Mifflin, Philadelphia on Fri 18 Sept.
+Maara is a techno and house artist tracked on soundcheck, with 160 sets logged across Amsterdam, Antwerp, Athens and Austin and 50 more. Often billed alongside Angel D'lite, Roza Terenzi and D. Tiffany. Next up: Fort Mifflin, Philadelphia on Fri 18 Sept.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ Maara is a techno and house artist tracked on soundcheck, with 159 sets logged a
 | Fri, 18 Sept 2026 | Fort Mifflin | Philadelphia |
 | Fri, 25 Sept 2026 | TBA - XuXa - 6910 Shirley Ave | Austin |
 | Sat, 26 Sept 2026 | Green Room NYC | New York City |
+| Sat, 17 Oct 2026 | UMI | Brussels |
 
 ## Recently played
 

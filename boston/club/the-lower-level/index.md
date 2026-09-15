@@ -2,7 +2,7 @@
 
 The Lower Level is a music venue in Boston with 4 upcoming nights listed on soundcheck as of Tue, 15 Sept 2026; the next is "Infra presents: DJ Nobu & Profiler" on Sat, 19 Sept 2026.
 
-The Lower Level is a music venue in Boston listed on soundcheck. 4 upcoming nights, with line-ups including Anthony Rother, DJ Nobu and Scott Zacharias. Browse upcoming dates, start times and who's playing. 55 Bishop Allen Dr, Cambridge, MA 02139, USA.
+The Lower Level is a music venue in Boston listed on soundcheck. 4 upcoming nights, with line-ups including Anthony Rother, DJ Nobu, Isi Audi and Scott Zacharias and 1 more. Browse upcoming dates, start times and who's playing. 55 Bishop Allen Dr, Cambridge, MA 02139, USA.
 
 ## What's on
 
@@ -10,7 +10,7 @@ The Lower Level is a music venue in Boston listed on soundcheck. 4 upcoming nigh
 | --- | --- | --- |
 | Sat, 19 Sept 2026 | Infra presents: DJ Nobu & Profiler | DJ Nobu |
 | Fri, 25 Sept 2026 | Social Studies presents: Scott Zacharias (Detroit) | Scott Zacharias |
-| Sat, 26 Sept 2026 | The Basement Project - Third Revival with ISIAUDI |  |
+| Sat, 26 Sept 2026 | The Basement Project - Third Revival with ISIAUDI | Isi Audi, ViV:On |
 | Sat, 24 Oct 2026 | Infra presents: Anthony Rother & Profiler | Anthony Rother |
 
 ## Address

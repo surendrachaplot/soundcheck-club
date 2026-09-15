@@ -1,8 +1,8 @@
 # MOTOKA
 
-MOTOKA is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Tue, 15 Sept 2026, next at DeTour, Tokyo on Tue, 15 Sept 2026.
+MOTOKA is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Tue, 15 Sept 2026, next at DeTour, Tokyo on Tue, 15 Sept 2026.
 
-MOTOKA is a techno and house artist based in Japan, tracked on soundcheck, with 127 sets logged across Tokyo. Often billed alongside SIGNAL (JP), Junya and BERLINER KINDL. Next up: DeTour, Tokyo on Tue 15 Sept.
+MOTOKA is a techno and house artist based in Japan, tracked on soundcheck, with 128 sets logged across Tokyo. Often billed alongside SIGNAL (JP), Junya and BERLINER KINDL. Next up: DeTour, Tokyo on Tue 15 Sept.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ MOTOKA is a techno and house artist based in Japan, tracked on soundcheck, with 
 | Tue, 15 Sept 2026 | DeTour | Tokyo |
 | Wed, 16 Sept 2026 | Azumaya | Tokyo |
 | Wed, 30 Sept 2026 | Dogenzaka Church | Tokyo |
+| Mon, 5 Oct 2026 | Royal Lounge | Tokyo |
 
 ## Recently played
 

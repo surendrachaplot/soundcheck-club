@@ -1,8 +1,8 @@
 # Budino
 
-Budino is a House and Techno artist with 12 upcoming club dates listed on soundcheck as of Tue, 15 Sept 2026, next at Berghain | Panorama Bar | Säule, Berlin on Sat, 19 Sept 2026.
+Budino is a House and Techno artist with 13 upcoming club dates listed on soundcheck as of Tue, 15 Sept 2026, next at Berghain | Panorama Bar | Säule, Berlin on Sat, 19 Sept 2026.
 
-Budino is a house and techno artist tracked on soundcheck, with 158 sets logged across Amsterdam, Antwerp, Barcelona and Belgrade and 40 more. Often billed alongside Gabrielle Kwarteng, Massimiliano Pagliara and Cormac. Next up: Berghain | Panorama Bar | Säule, Berlin on Sat 19 Sept.
+Budino is a house and techno artist tracked on soundcheck, with 159 sets logged across Amsterdam, Antwerp, Barcelona and Belgrade and 40 more. Often billed alongside Gabrielle Kwarteng, Massimiliano Pagliara and Cormac. Next up: Berghain | Panorama Bar | Säule, Berlin on Sat 19 Sept.
 
 ## Upcoming shows
 
@@ -14,12 +14,12 @@ Budino is a house and techno artist tracked on soundcheck, with 158 sets logged 
 | Fri, 9 Oct 2026 | Shelter Amsterdam | Amsterdam |
 | Sat, 17 Oct 2026 | Printhouse | Munich |
 | Sun, 18 Oct 2026 | Macadam | Nantes |
+| Thu, 22 Oct 2026 | San Francisco | Amsterdam |
 | Thu, 22 Oct 2026 | Het Dorp | Amsterdam |
 | Thu, 22 Oct 2026 | Garage Noord | Amsterdam |
 | Fri, 23 Oct 2026 | Kapsule | Liverpool |
 | Sat, 24 Oct 2026 | Noorderlicht Café | Amsterdam |
 | Sat, 7 Nov 2026 | Night Tales Loft | London |
-| Sat, 14 Nov 2026 | Night Tales Loft | London |
 
 ## Recently played
 

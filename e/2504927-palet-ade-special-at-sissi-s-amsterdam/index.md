@@ -1,6 +1,6 @@
 # PALET ADE Special at SISSI'S Amsterdam
 
-PALET ADE Special at SISSI'S Amsterdam on Thu 22 Oct, Amsterdam. 10 acts on the bill: Benny2, Boris Coelman, Cathy Grogan and DJ SWISHA and 6 more. House and Club. Preview the line-up and save it on soundcheck.
+PALET ADE Special at SISSI'S Amsterdam on Thu 22 Oct, Amsterdam. 11 acts on the bill: Benny2, Boris Coelman, Cathy Grogan and DJ SWISHA and 7 more. House and Club. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -15,6 +15,7 @@ PALET ADE Special at SISSI'S Amsterdam on Thu 22 Oct, Amsterdam. 10 acts on the 
 - Cathy Grogan
 - DJ SWISHA
 - Eileen
+- Eileen (NL)
 - Gabrielle Kwarteng
 - NewTone
 - Scarlett O'Malley

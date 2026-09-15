@@ -1,14 +1,16 @@
 # Adrian Reyes
 
-Adrian Reyes is a Techno and Ghetto Tech artist with 1 upcoming club date listed on soundcheck as of Tue, 15 Sept 2026, next at TBA - Los Angeles, Los Angeles on Fri, 20 Nov 2026.
+Adrian Reyes is a Techno and Ghetto Tech artist with 3 upcoming club dates listed on soundcheck as of Tue, 15 Sept 2026, next at TBA - Los Angeles, Los Angeles on Fri, 20 Nov 2026.
 
-Adrian Reyes is a techno and ghetto tech artist tracked on soundcheck, with 27 sets logged across Losangeles, Sandiego and Seattle. Often billed alongside DJ LIGMA, Oscar Osorio and TAJ (2). Next up: TBA - Los Angeles, Losangeles on Fri 20 Nov.
+Adrian Reyes is a techno and ghetto tech artist tracked on soundcheck, with 29 sets logged across Losangeles, Sandiego and Seattle. Often billed alongside DJ LIGMA, Oscar Osorio and TAJ (2). Next up: TBA - Los Angeles, Losangeles on Fri 20 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 20 Nov 2026 | TBA - Los Angeles | Los Angeles |
+| Fri, 20 Nov 2026 | TBA - Los Angeles | Los Angeles |
+| Sat, 21 Nov 2026 | TBA - Los Angeles | Los Angeles |
 
 ## Recently played
 

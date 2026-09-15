@@ -1,6 +1,6 @@
 # Deep End Vol. 001 - Picasso at TBA - secret location
 
-Deep End Vol. 001 - Picasso at TBA - secret location on Fri 16 Oct, Barcelona. 6 acts on the bill: .cosm, Bruno (DO), Driahn and Picasso and 2 more. Techno and House. Preview the line-up and save it on soundcheck.
+Deep End Vol. 001 - Picasso at TBA - secret location on Fri 16 Oct, Barcelona. 6 acts on the bill: .cosm, Bruno (DO), Driahn and Picasso and 2 more. Progressive House and Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

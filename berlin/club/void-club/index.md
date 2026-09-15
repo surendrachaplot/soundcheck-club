@@ -9,7 +9,7 @@ Void Club is a music venue in Berlin listed on soundcheck. 14 upcoming nights, w
 | Date | Night | Line-up |
 | --- | --- | --- |
 | Fri, 18 Sept 2026 | Drum and Bass w/Codex (SRB), Datalog (HU), Zorkow (SLO) - human_made 006 | Aynaet, IHOPEIEXIST, Kenzura, icanseesounds |
-| Sat, 19 Sept 2026 | Enter the VOID #81 | MARIE.MOON, Upzet, Wi5dom, buktuu, emaenu (2) |
+| Sat, 19 Sept 2026 | Enter the VOID #81 with Marie Moon, Abex, buktuu, Upzet, Lukeez, Emaenu, Wi5dom | MARIE.MOON, Upzet, Wi5dom, buktuu, emaenu (2) |
 | Fri, 25 Sept 2026 | 5 Years Animarum – A Club Festival For Your Soul | Alex Xandra, Andriiic, DJ Jordan, Endica, MCHL51, Marí Kozlovska, Mosher, Patrick Scuro, RHAPSODIE, Roger Lavelle, Sophie van Hayden, Vero_ |
 | Sat, 26 Sept 2026 | Free Party with Lay.Dee Strange b2b Roxy, Antiquis Anima, Upzet, Nerv, Modulatos, Ektoside | Antiquis Anima, Bäggy, Ektoside, Kimby, Lay.Dee Strange, Modulatos, Nerv, Upzet |
 | Fri, 2 Oct 2026 | Crave Tapes x LMNTL x Distant Gaze Records | Alienata, Clouzer, Dela Nesto, Desolate Discotheque, Electrosexual, Karassimeon, LOKIDÍ, Lush Lab, Miss Addams |

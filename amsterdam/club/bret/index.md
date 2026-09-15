@@ -12,7 +12,7 @@ BRET is a music venue in Amsterdam listed on soundcheck. 20 upcoming nights, wit
 | Fri, 18 Sept 2026 | Lola x BRET - Midas Field Curates | Dam Swindle, Drabes, Merel Helderman, Midas Field |
 | Fri, 18 Sept 2026 | LOLA - Dam Swindle, Midas Field, Merel Helderman, BIBI SECK, Drabes | Dam Swindle, Drabes, Merel Helderman, Midas Field |
 | Sat, 19 Sept 2026 | SPADES 12 HOURS |  |
-| Sun, 20 Sept 2026 | VBX SUMMER CLOSING AFTER |  |
+| Sun, 20 Sept 2026 | VBX SUMMER CLOSING AFTER | Frank Haag, Lo Ds, Noach, Victor |
 | Fri, 25 Sept 2026 | PILOT - Sidney Charles (5HRS) | Sidney Charles |
 | Sat, 26 Sept 2026 | SLPFNK Summer Closing |  |
 | Fri, 2 Oct 2026 | Arapu, Natalia Roth | Arapu, Natalia Roth |

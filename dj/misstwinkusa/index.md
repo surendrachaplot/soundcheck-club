@@ -1,14 +1,15 @@
 # Miss Twink USA
 
-Miss Twink USA is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Tue, 15 Sept 2026, next at TBA - LOCATION EMAILED TO TICKETHOLDERS, Chicago on Fri, 25 Sept 2026.
+Miss Twink USA is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Tue, 15 Sept 2026, next at TBA - LOCATION EMAILED TO TICKETHOLDERS, Chicago on Fri, 25 Sept 2026.
 
-Miss Twink USA is a techno and house artist based in United States of America, tracked on soundcheck, with 160 sets logged across Amsterdam, Athens, Berlin and Chicago and 11 more. Often billed alongside Ariel Zetina, Flores Negras and Vesolo. Next up: TBA - LOCATION EMAILED TO TICKETHOLDERS, Chicago on Fri 25 Sept.
+Miss Twink USA is a techno and house artist based in United States of America, tracked on soundcheck, with 161 sets logged across Amsterdam, Athens, Berlin and Chicago and 11 more. Often billed alongside Ariel Zetina, Flores Negras and Vesolo. Next up: TBA - LOCATION EMAILED TO TICKETHOLDERS, Chicago on Fri 25 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 25 Sept 2026 | TBA - LOCATION EMAILED TO TICKETHOLDERS | Chicago |
+| Fri, 30 Oct 2026 | Radius | Chicago |
 | Fri, 13 Nov 2026 | Sleeping Village | Chicago |
 
 ## Recently played

@@ -1,14 +1,15 @@
 # Prunk
 
-Prunk is a House and Tech House artist with 17 upcoming club dates listed on soundcheck as of Tue, 15 Sept 2026, next at Openluchttheater Amersfoort, Amsterdam on Fri, 18 Sept 2026.
+Prunk is a House and Tech House artist with 18 upcoming club dates listed on soundcheck as of Tue, 15 Sept 2026, next at Openluchttheater Amersfoort, Amsterdam on Fri, 18 Sept 2026.
 
-Prunk is a house and tech house artist tracked on soundcheck, with 304 sets logged across Amsterdam, Antwerp, Austin and Bali and 41 more. Often billed alongside Kellie Allen, M-High and Robbie Doherty. Next up: Openluchttheater Amersfoort, Amsterdam on Fri 18 Sept.
+Prunk is a house and tech house artist tracked on soundcheck, with 305 sets logged across Amsterdam, Antwerp, Austin and Bali and 41 more. Often billed alongside Kellie Allen, M-High and Robbie Doherty. Next up: Openluchttheater Amersfoort, Amsterdam on Fri 18 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 18 Sept 2026 | Openluchttheater Amersfoort | Amsterdam |
+| Fri, 18 Sept 2026 | Shelter Amsterdam | Amsterdam |
 | Sat, 19 Sept 2026 | Bronze Beach | Amsterdam |
 | Tue, 22 Sept 2026 | Cova Santa | Ibiza |
 | Fri, 25 Sept 2026 | SWG3 | Glasgow |
@@ -19,7 +20,6 @@ Prunk is a house and tech house artist tracked on soundcheck, with 304 sets logg
 | Tue, 6 Oct 2026 | Cova Santa | Ibiza |
 | Sat, 10 Oct 2026 | Ushuaïa Ibiza | Ibiza |
 | Fri, 23 Oct 2026 | Mediahaven - Minervahaven | Amsterdam |
-| Fri, 23 Oct 2026 | Ijland | Amsterdam |
 
 ## Recently played
 

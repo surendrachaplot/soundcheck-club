@@ -1,14 +1,15 @@
 # EliseThere
 
-EliseThere is a Bass and Dub artist with 1 upcoming club date listed on soundcheck as of Tue, 15 Sept 2026, next at Brasserie de la Mule, Brussels on Fri, 25 Sept 2026.
+EliseThere is a Bass and Dub artist with 2 upcoming club dates listed on soundcheck as of Tue, 15 Sept 2026, next at Brasserie de la Mule, Brussels on Fri, 25 Sept 2026.
 
-EliseThere is a bass and dub artist tracked on soundcheck, with 28 sets logged across Antwerp, Brussels, Ghent and Paris and 1 more. Often billed alongside STDJ, ojoo and PALA10. Next up: Brasserie de la Mule, Brussels on Fri 25 Sept.
+EliseThere is a bass and dub artist tracked on soundcheck, with 29 sets logged across Antwerp, Brussels, Ghent and Paris and 1 more. Often billed alongside STDJ, ojoo and Maliman. Next up: Brasserie de la Mule, Brussels on Fri 25 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 25 Sept 2026 | Brasserie de la Mule | Brussels |
+| Sat, 10 Oct 2026 | UMI | Brussels |
 
 ## Recently played
 
@@ -23,6 +24,6 @@ EliseThere is a bass and dub artist tracked on soundcheck, with 28 sets logged a
 
 ## Shares bills with
 
-STDJ, ojoo, PALA10
+STDJ, ojoo, Maliman
 
 *Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/elisethere/)*

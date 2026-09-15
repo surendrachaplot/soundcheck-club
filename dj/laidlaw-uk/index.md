@@ -1,8 +1,8 @@
 # Laidlaw
 
-Laidlaw is a House and Tech House artist with 10 upcoming club dates listed on soundcheck as of Tue, 15 Sept 2026, next at UNO MALTA, Malta on Fri, 18 Sept 2026.
+Laidlaw is a House and Tech House artist with 11 upcoming club dates listed on soundcheck as of Tue, 15 Sept 2026, next at UNO MALTA, Malta on Fri, 18 Sept 2026.
 
-Laidlaw is a house and tech house artist tracked on soundcheck, with 195 sets logged across Aberdeen, Amsterdam, Bali and Barcelona and 33 more. Often billed alongside Enzo Siragusa, Dr Banana and Julian Anthony. Next up: UNO MALTA, Malta on Fri 18 Sept.
+Laidlaw is a house and tech house artist tracked on soundcheck, with 196 sets logged across Aberdeen, Amsterdam, Bali and Barcelona and 33 more. Often billed alongside Enzo Siragusa, Dr Banana and Julian Anthony. Next up: UNO MALTA, Malta on Fri 18 Sept.
 
 ## Upcoming shows
 
@@ -13,6 +13,7 @@ Laidlaw is a house and tech house artist tracked on soundcheck, with 195 sets lo
 | Fri, 25 Sept 2026 | Mint XL | Leeds |
 | Thu, 1 Oct 2026 | Amnesia Ibiza | Ibiza |
 | Fri, 9 Oct 2026 | Hï Ibiza | Ibiza |
+| Sat, 10 Oct 2026 | Aviva Studios | Manchester |
 | Sat, 17 Oct 2026 | The Dome | Liverpool |
 | Wed, 21 Oct 2026 | A'DAM Toren | Amsterdam |
 | Wed, 21 Oct 2026 | Shelter Amsterdam | Amsterdam |

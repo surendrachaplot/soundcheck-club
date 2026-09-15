@@ -1,6 +1,6 @@
 # Repent Records presents: Redemption + Residents & Friends at Hangr
 
-Repent Records presents: Redemption + Residents & Friends at Hangr on Sat 28 Nov, Sheffield. 1 act on the bill: Redemption. Techno. Preview the line-up and save it on soundcheck.
+Repent Records presents: Redemption + Residents & Friends at Hangr on Sat 28 Nov, Sheffield. 2 acts on the bill: RAWKORED and Redemption. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ Repent Records presents: Redemption + Residents & Friends at Hangr on Sat 28 Nov
 
 ## Line-up
 
+- RAWKORED
 - Redemption
 
 *Source: [soundcheck](https://soundcheck.club/e/2529226-repent-records-presents-redemption-residents-friends-at-hang/)*

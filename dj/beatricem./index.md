@@ -1,17 +1,19 @@
 # Beatrice M.
 
-Beatrice M. is a Dubstep and Bass artist with 4 upcoming club dates listed on soundcheck as of Tue, 15 Sept 2026, next at Open Ground, Wuppertal on Sat, 10 Oct 2026.
+Beatrice M. is a Dubstep and Bass artist with 6 upcoming club dates listed on soundcheck as of Tue, 15 Sept 2026, next at Jasna 1, Warsaw on Fri, 2 Oct 2026.
 
-Beatrice M. is a dubstep and bass artist tracked on soundcheck, with 122 sets logged across Amsterdam, Berlin, Brighton and Bristol and 26 more. Often billed alongside Tim Reaper, EMA (1) and Mia Koden. Next up: Open Ground, Wuppertal on Sat 10 Oct.
+Beatrice M. is a dubstep and bass artist tracked on soundcheck, with 124 sets logged across Amsterdam, Berlin, Brighton and Bristol and 27 more. Often billed alongside Tim Reaper, EMA (1) and Mia Koden. Next up: Jasna 1, Warsaw on Fri 2 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 2 Oct 2026 | Jasna 1 | Warsaw |
 | Sat, 10 Oct 2026 | Open Ground | Wuppertal |
 | Fri, 16 Oct 2026 | fabric | London |
 | Fri, 23 Oct 2026 | OHM | Berlin |
 | Sat, 14 Nov 2026 | Ormside Projects | London |
+| Sat, 21 Nov 2026 | Tresor / Globus | Berlin |
 
 ## Recently played
 

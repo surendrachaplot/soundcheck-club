@@ -1,8 +1,8 @@
 # sima k
 
-sima k is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Tue, 15 Sept 2026, next at De Fik Garden, Amsterdam on Sat, 3 Oct 2026.
+sima k is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Tue, 15 Sept 2026, next at De Fik Garden, Amsterdam on Sat, 3 Oct 2026.
 
-sima k is a house and techno artist tracked on soundcheck, with 25 sets logged across Amsterdam, Ghent, London and Rotterdam. Often billed alongside Daan Donk, Taylor Taylor and Ramos (3). Next up: De Fik Garden, Amsterdam on Sat 3 Oct.
+sima k is a house and techno artist tracked on soundcheck, with 26 sets logged across Amsterdam, Ghent, London and Rotterdam. Often billed alongside Daan Donk, Taylor Taylor and Ramos (3). Next up: De Fik Garden, Amsterdam on Sat 3 Oct.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ sima k is a house and techno artist tracked on soundcheck, with 25 sets logged a
 | --- | --- | --- |
 | Sat, 3 Oct 2026 | De Fik Garden | Amsterdam |
 | Fri, 9 Oct 2026 | Hoxton Cabin | London |
+| Thu, 22 Oct 2026 | Het Salon | Amsterdam |
 
 ## Recently played
 

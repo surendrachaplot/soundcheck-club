@@ -1,8 +1,8 @@
 # The Hacker
 
-The Hacker is a Techno and Electro artist with 6 upcoming club dates listed on soundcheck as of Tue, 15 Sept 2026, next at Razzmatazz, Barcelona on Sat, 19 Sept 2026.
+The Hacker is a Techno and Electro artist with 7 upcoming club dates listed on soundcheck as of Tue, 15 Sept 2026, next at Razzmatazz, Barcelona on Sat, 19 Sept 2026.
 
-The Hacker is a techno and electro artist tracked on soundcheck, with 114 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 39 more. Often billed alongside Miss Kittin, Alessandro Adriani and Charlie. Next up: Razzmatazz, Barcelona on Sat 19 Sept.
+The Hacker is a techno and electro artist tracked on soundcheck, with 115 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 39 more. Often billed alongside Miss Kittin, Alessandro Adriani and Charlie. Next up: Razzmatazz, Barcelona on Sat 19 Sept.
 
 ## Upcoming shows
 
@@ -14,6 +14,7 @@ The Hacker is a techno and electro artist tracked on soundcheck, with 114 sets l
 | Fri, 16 Oct 2026 | fi | Cologne |
 | Sat, 17 Oct 2026 | Fridas Pier | Stuttgart |
 | Fri, 23 Oct 2026 | CLUB RAUM | Amsterdam |
+| Sat, 21 Nov 2026 | Tresor / Globus | Berlin |
 
 ## Recently played
 

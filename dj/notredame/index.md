@@ -1,8 +1,8 @@
 # Notre Dame
 
-Notre Dame is a House and Afro House artist with 4 upcoming club dates listed on soundcheck as of Tue, 15 Sept 2026, next at Panama, Amsterdam on Thu, 22 Oct 2026.
+Notre Dame is a House and Afro House artist with 5 upcoming club dates listed on soundcheck as of Tue, 15 Sept 2026, next at Panama, Amsterdam on Thu, 22 Oct 2026.
 
-Notre Dame is a house and afro house artist tracked on soundcheck, with 122 sets logged across Amsterdam, Athens, Austin and Barcelona and 34 more. Often billed alongside Alex Wann, Artbat and Bedouin. Next up: Panama, Amsterdam on Thu 22 Oct.
+Notre Dame is a house and afro house artist tracked on soundcheck, with 123 sets logged across Amsterdam, Athens, Austin and Barcelona and 34 more. Often billed alongside Alex Wann, Artbat and Bedouin. Next up: Panama, Amsterdam on Thu 22 Oct.
 
 ## Upcoming shows
 
@@ -10,7 +10,8 @@ Notre Dame is a house and afro house artist tracked on soundcheck, with 122 sets
 | --- | --- | --- |
 | Thu, 22 Oct 2026 | Panama | Amsterdam |
 | Sat, 31 Oct 2026 | TBA - Pátio da Galé | Lisbon |
-| Fri, 6 Nov 2026 | TBA - Hotel Unique | Sao Paulo |
+| Fri, 6 Nov 2026 | TBA | Sao Paulo |
+| Fri, 6 Nov 2026 | Hotel Unique | Sao Paulo |
 | Fri, 13 Nov 2026 | Lula Club | Madrid |
 
 ## Recently played

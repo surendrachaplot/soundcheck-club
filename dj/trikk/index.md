@@ -1,8 +1,8 @@
 # Trikk
 
-Trikk is a House and Techno artist with 7 upcoming club dates listed on soundcheck as of Tue, 15 Sept 2026, next at Sunset Park Rooftop, New York City on Fri, 18 Sept 2026.
+Trikk is a House and Techno artist with 8 upcoming club dates listed on soundcheck as of Tue, 15 Sept 2026, next at Sunset Park Rooftop, New York City on Fri, 18 Sept 2026.
 
-Trikk is a house and techno artist tracked on soundcheck, with 158 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 44 more. Often billed alongside Âme, Jimi Jules and Dixon. Next up: Sunset Park Rooftop, Newyorkcity on Fri 18 Sept.
+Trikk is a house and techno artist tracked on soundcheck, with 159 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 44 more. Often billed alongside Âme, Jimi Jules and Dixon. Next up: Sunset Park Rooftop, Newyorkcity on Fri 18 Sept.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ Trikk is a house and techno artist tracked on soundcheck, with 158 sets logged a
 | Fri, 18 Sept 2026 | Sunset Park Rooftop | New York City |
 | Sat, 19 Sept 2026 | Stereo | Montreal |
 | Sat, 26 Sept 2026 | Spazio Cavea | Rome |
+| Sun, 11 Oct 2026 | The Garage | Madrid |
 | Sat, 17 Oct 2026 | Studio Club Malaga | Malaga |
 | Wed, 21 Oct 2026 | THE OTHER SIDE | Amsterdam |
 | Fri, 23 Oct 2026 | Berghain / Panorama Bar / Säule | Berlin |

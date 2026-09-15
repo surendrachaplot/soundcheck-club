@@ -1,8 +1,8 @@
 # Radius
 
-Radius is a music venue in Chicago with 24 upcoming nights listed on soundcheck as of Tue, 15 Sept 2026; the next is "Unreal Chicago" on Fri, 18 Sept 2026.
+Radius is a music venue in Chicago with 25 upcoming nights listed on soundcheck as of Tue, 15 Sept 2026; the next is "Unreal Chicago" on Fri, 18 Sept 2026.
 
-Radius is a music venue in Chicago listed on soundcheck. 24 upcoming nights, with line-ups including Afrojack, AMAYAH, Ben Böhmer and Bonobo and 2 more. Browse upcoming dates, start times and who's playing. 640 West Cermak Road Chicago, Illinois 60616, USA.
+Radius is a music venue in Chicago listed on soundcheck. 25 upcoming nights, with line-ups including Afrojack, AMAYAH, Ariel Zetina and Ben Böhmer and 2 more. Browse upcoming dates, start times and who's playing. 640 West Cermak Road Chicago, Illinois 60616, USA.
 
 ## What's on
 

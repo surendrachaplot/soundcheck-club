@@ -1,14 +1,15 @@
 # Kiss Kiss
 
-Kiss Kiss is a House and Club artist with 1 upcoming club date listed on soundcheck as of Tue, 15 Sept 2026, next at Jupiter Disco, New York City on Thu, 17 Sept 2026.
+Kiss Kiss is a House and Club artist with 2 upcoming club dates listed on soundcheck as of Tue, 15 Sept 2026, next at Jupiter Disco, New York City on Thu, 17 Sept 2026.
 
-Kiss Kiss is a house and club artist based in United States of America, tracked on soundcheck, with 9 sets logged across Newyorkcity. Often billed alongside MTHR TRSA, Scruff Angel and maenad. Next up: Jupiter Disco, Newyorkcity on Thu 17 Sept.
+Kiss Kiss is a house and club artist based in United States of America, tracked on soundcheck, with 10 sets logged across Newyorkcity. Often billed alongside MTHR TRSA, Scruff Angel and Simisola. Next up: Jupiter Disco, Newyorkcity on Thu 17 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Thu, 17 Sept 2026 | Jupiter Disco | New York City |
+| Sun, 11 Oct 2026 | telos.haus | New York City |
 
 ## Recently played
 
@@ -23,6 +24,6 @@ Kiss Kiss is a house and club artist based in United States of America, tracked 
 
 ## Shares bills with
 
-MTHR TRSA, Scruff Angel, maenad
+MTHR TRSA, Scruff Angel, Simisola
 
 *Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kisskiss/)*

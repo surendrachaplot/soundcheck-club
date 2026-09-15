@@ -1,8 +1,8 @@
 # UniKhatu
 
-UniKhatu is a Techno and Tech House artist with 6 upcoming club dates listed on soundcheck as of Tue, 15 Sept 2026, next at Marmorbar, Berlin on Fri, 18 Sept 2026.
+UniKhatu is a Techno and Tech House artist with 7 upcoming club dates listed on soundcheck as of Tue, 15 Sept 2026, next at Marmorbar, Berlin on Fri, 18 Sept 2026.
 
-UniKhatu is a techno and tech house artist tracked on soundcheck, with 58 sets logged across Berlin and Ghent. Often billed alongside pink-panther, James Cherry and Ayham. Next up: Marmorbar, Berlin on Fri 18 Sept.
+UniKhatu is a techno and tech house artist tracked on soundcheck, with 59 sets logged across Berlin and Ghent. Often billed alongside pink-panther, James Cherry and Ayham. Next up: Marmorbar, Berlin on Fri 18 Sept.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ UniKhatu is a techno and tech house artist tracked on soundcheck, with 58 sets l
 | --- | --- | --- |
 | Fri, 18 Sept 2026 | Marmorbar | Berlin |
 | Sat, 19 Sept 2026 | Sensorium | Berlin |
+| Wed, 30 Sept 2026 | The B Side Berlin | Berlin |
 | Fri, 2 Oct 2026 | Crack Bellmer | Berlin |
 | Sat, 10 Oct 2026 | OXI | Berlin |
 | Wed, 28 Oct 2026 | Sensorium | Berlin |

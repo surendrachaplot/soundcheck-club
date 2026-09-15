@@ -1,8 +1,8 @@
 # The Bernard Shaw
 
-The Bernard Shaw is a music venue in Dublin with 5 upcoming nights listed on soundcheck as of Tue, 15 Sept 2026; the next is "Tropical Groove presents: TECHNOLOGY & Aram" on Sat, 19 Sept 2026.
+The Bernard Shaw is a music venue in Dublin with 6 upcoming nights listed on soundcheck as of Tue, 15 Sept 2026; the next is "Tropical Groove presents: TECHNOLOGY & Aram" on Sat, 19 Sept 2026.
 
-The Bernard Shaw is a music venue in Dublin listed on soundcheck. 5 upcoming nights, with line-ups including Animwal, Aram, Catz 'N Dogz and Egyptian Lover and 2 more. Browse upcoming dates, start times and who's playing. Cross Guns Bridge, Glasnevin, Drumcondra, Dublin 9, D09 XW44.
+The Bernard Shaw is a music venue in Dublin listed on soundcheck. 6 upcoming nights, with line-ups including Animwal, Aram, Catz 'N Dogz and Egyptian Lover and 2 more. Browse upcoming dates, start times and who's playing. Cross Guns Bridge, Glasnevin, Drumcondra, Dublin 9, D09 XW44.
 
 ## What's on
 
@@ -10,6 +10,7 @@ The Bernard Shaw is a music venue in Dublin listed on soundcheck. 5 upcoming nig
 | --- | --- | --- |
 | Sat, 19 Sept 2026 | Tropical Groove presents: TECHNOLOGY & Aram | Aram, Sat, Shivaionmusic |
 | Fri, 25 Sept 2026 | Marcellus Pittman | Marcellus Pittman, Pablo Fatty Fatty |
+| Sat, 10 Oct 2026 | Paint Records Open Air 02 | Laughing Man, Pat Hyland |
 | Fri, 16 Oct 2026 | Circles: Moodymann | Moodymann, Sahana, Surka (1) |
 | Sat, 24 Oct 2026 | Circles: Egyptian Lover | Egyptian Lover, hellokt |
 | Sun, 25 Oct 2026 | Bodytonic presents Catz N Dogz | Animwal, Catz 'N Dogz, SHO |

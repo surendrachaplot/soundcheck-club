@@ -9,7 +9,7 @@ Bar Twenty Two is a music venue in Amsterdam listed on soundcheck. 2 upcoming ni
 | Date | Night | Line-up |
 | --- | --- | --- |
 | Thu, 22 Oct 2026 | Milk & Sugar House Nation ADE Session 2026 | Almared, Emanuele Esposito, James Hurr, Maex, Mattei & Omich, Milk & Sugar, Peppe Citarella, The Cube Guys |
-| Fri, 23 Oct 2026 | .VISIONS AMSTERDAM | Angelo Ferreri, Black Legend, FEX (IT), Hotswing, Lorenzo Spano, Luca Guerrieri, Mattei & Omich, TWOEF |
+| Fri, 23 Oct 2026 | .VISIONS AMSTERDAM | Angelo Ferreri, Black Legend, FEX (IT), Hotswing, Lorenzo Spano, Luca Guerrieri, MR. SKIN, Mattei & Omich, TWOEF |
 
 ## Address
 

@@ -1,13 +1,14 @@
 # Spikey Lee
 
-Spikey Lee is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Tue, 15 Sept 2026, next at Sahara, Rotterdam on Fri, 25 Sept 2026.
+Spikey Lee is a Techno and House artist with 7 upcoming club dates listed on soundcheck as of Tue, 15 Sept 2026, next at Life Club Milano, Milan on Fri, 18 Sept 2026.
 
-Spikey Lee is a techno and house artist tracked on soundcheck, with 106 sets logged across Amsterdam, Athens, Berlin and Brussels and 15 more. Often billed alongside Lenard Klein, Haeder and Laure Croft. Next up: Sahara, Rotterdam on Fri 25 Sept.
+Spikey Lee is a techno and house artist tracked on soundcheck, with 107 sets logged across Amsterdam, Athens, Berlin and Brussels and 16 more. Often billed alongside Lenard Klein, Haeder and Laure Croft. Next up: Life Club Milano, Milan on Fri 18 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 18 Sept 2026 | Life Club Milano | Milan |
 | Fri, 25 Sept 2026 | Sahara | Rotterdam |
 | Sat, 26 Sept 2026 | RADION | Amsterdam |
 | Sat, 26 Sept 2026 | RADION | Amsterdam |

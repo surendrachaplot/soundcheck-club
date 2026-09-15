@@ -1,8 +1,8 @@
 # Faster Horses
 
-Faster Horses is a Techno and Trance artist with 15 upcoming club dates listed on soundcheck as of Tue, 15 Sept 2026, next at Virage, Paris on Fri, 18 Sept 2026.
+Faster Horses is a Techno and Trance artist with 16 upcoming club dates listed on soundcheck as of Tue, 15 Sept 2026, next at Virage, Paris on Fri, 18 Sept 2026.
 
-Faster Horses is a techno and trance artist tracked on soundcheck, with 243 sets logged across Aberdeen, Amsterdam, Antwerp and Austin and 53 more. Often billed alongside Azyr, Leaha and Kander. Next up: Virage, Paris on Fri 18 Sept.
+Faster Horses is a techno and trance artist tracked on soundcheck, with 244 sets logged across Aberdeen, Amsterdam, Antwerp and Austin and 54 more. Often billed alongside Azyr, Leaha and Kander. Next up: Virage, Paris on Fri 18 Sept.
 
 ## Upcoming shows
 

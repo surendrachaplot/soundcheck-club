@@ -1,14 +1,15 @@
 # Tommy Pickles
 
-Tommy Pickles is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Tue, 15 Sept 2026, next at Stade Fontainieu, Marseille on Sat, 19 Sept 2026.
+Tommy Pickles is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Tue, 15 Sept 2026, next at Stade Fontainieu, Marseille on Sat, 19 Sept 2026.
 
-Tommy Pickles is a house and techno artist tracked on soundcheck, with 98 sets logged across Amsterdam, Barcelona, Berlin and Bristol and 25 more. Often billed alongside Desyn, Tom Morgan and Alex Picone. Next up: Stade Fontainieu, Marseille on Sat 19 Sept.
+Tommy Pickles is a house and techno artist tracked on soundcheck, with 99 sets logged across Amsterdam, Barcelona, Berlin and Bristol and 25 more. Often billed alongside Desyn, Tom Morgan and Alex Picone. Next up: Stade Fontainieu, Marseille on Sat 19 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 19 Sept 2026 | Stade Fontainieu | Marseille |
+| Fri, 16 Oct 2026 | Loft Studios | London |
 | Sat, 31 Oct 2026 | TBA - Arts District LA | Los Angeles |
 
 ## Recently played

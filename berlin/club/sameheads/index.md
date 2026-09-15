@@ -1,8 +1,8 @@
 # Sameheads
 
-Sameheads is a music venue in Berlin with 9 upcoming nights listed on soundcheck as of Tue, 15 Sept 2026; the next is "GAFFATERIA" on Thu, 17 Sept 2026.
+Sameheads is a music venue in Berlin with 10 upcoming nights listed on soundcheck as of Tue, 15 Sept 2026; the next is "GAFFATERIA" on Thu, 17 Sept 2026.
 
-Sameheads is a music venue in Berlin listed on soundcheck. 9 upcoming nights, with line-ups including ALF CHAMPION, André Pahl, Anna Wall and Capablanca and 2 more. Browse upcoming dates, start times and who's playing. Richardstrasse 10; Neukölln; 12043 Berlin; Germany.
+Sameheads is a music venue in Berlin listed on soundcheck. 10 upcoming nights, with line-ups including ALF CHAMPION, André Pahl, Anna Wall and Capablanca and 2 more. Browse upcoming dates, start times and who's playing. Richardstrasse 10; Neukölln; 12043 Berlin; Germany.
 
 ## What's on
 
@@ -10,12 +10,13 @@ Sameheads is a music venue in Berlin listed on soundcheck. 9 upcoming nights, wi
 | --- | --- | --- |
 | Thu, 17 Sept 2026 | GAFFATERIA |  |
 | Fri, 18 Sept 2026 | Jack & Field | Dreimal T, Melizards, Sneaker |
-| Sat, 19 Sept 2026 | Sambol Grind - Sambol Foundation Fundraiser | Dj Mdizzey, Ike, MPeach, Nive, Perera Elsewhere, SETH DS |
+| Sat, 19 Sept 2026 | Sambol Grind - Sambol Foundation Fundraiser | Dj Mdizzey, Ike, MPeach, Nive, Perera Elsewhere, SETH DS, mdj (0815) |
 | Thu, 24 Sept 2026 | ZEPTER | André Pahl |
 | Fri, 25 Sept 2026 | ((echon)) pres. Morgan Buckley (Wah Wah Wino) Live | Capablanca, Diamin |
 | Sat, 26 Sept 2026 | Big Wide World of Smells | ALF CHAMPION, Ngly, Niklas Wandt, jewelry |
 | Fri, 2 Oct 2026 | FEVER AM with Mor Elian, Jan Loup & Gramrcy | Gramrcy, Jan Loup, Mor Elian |
 | Sat, 3 Oct 2026 | MAXIMUM JOY | Luigi Di Venere, Maneta, Roberta Deflorio |
+| Thu, 8 Oct 2026 | CLUB KIDZ | Karolina Bnv, Novo Line |
 | Fri, 9 Oct 2026 | Confusion is Next to Happiness | Anna Wall, Denzel, Kinzua |
 
 ## Address

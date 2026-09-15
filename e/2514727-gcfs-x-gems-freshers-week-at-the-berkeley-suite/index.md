@@ -1,6 +1,6 @@
 # GCFS x GEMS: Freshers Week at The Berkeley Suite
 
-GCFS x GEMS: Freshers Week at The Berkeley Suite on Tue 15 Sept, Glasgow. 3 acts on the bill: Orla Halligan, Patrick McCotter and Thomas + James. Preview the line-up and save it on soundcheck.
+GCFS x GEMS: Freshers Week at The Berkeley Suite on Tue 15 Sept, Glasgow. 4 acts on the bill: Average Joe (2), Orla Halligan, Patrick McCotter and Thomas + James. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ GCFS x GEMS: Freshers Week at The Berkeley Suite on Tue 15 Sept, Glasgow. 3 acts
 
 ## Line-up
 
+- Average Joe (2)
 - Orla Halligan
 - Patrick McCotter
 - Thomas + James

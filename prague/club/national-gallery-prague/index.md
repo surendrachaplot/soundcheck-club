@@ -8,7 +8,7 @@ National Gallery Prague is a music venue in Prague listed on soundcheck. 1 upcom
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Thu, 24 Sept 2026 | Lunchmeat Festival Prague 2026 - Main Event | Autechre, Bapari, Bitter Babe, Buena Tarde, DJ GÄP, Debit, Fatima Al Qadiri, KMRU, Kevin Peter He, Kosu Nes, Kuthi Jinani, Lechuga Zafiro, Nexus, Safety Trance, Voronhil, Woesum, Zora Jones, nunguja, umru, upsammy |
+| Thu, 24 Sept 2026 | Lunchmeat Festival Prague 2026 - Main Event | Autechre, Bapari, Bitter Babe, Buena Tarde, DJ GÄP, Debit, Fatima Al Qadiri, KMRU, Kevin Peter He, Kosu Nes, Kuthi Jinani, Lechuga Zafiro, Nexus, Safety Trance, The Bug, Voronhil, Woesum, Zora Jones, nunguja, umru, upsammy |
 
 ## Address
 

@@ -1,14 +1,15 @@
 # Lechuga Zafiro
 
-Lechuga Zafiro is a Techno and Experimental artist with 1 upcoming club date listed on soundcheck as of Tue, 15 Sept 2026, next at National Gallery Prague, Prague on Thu, 24 Sept 2026.
+Lechuga Zafiro is a Techno and Experimental artist with 2 upcoming club dates listed on soundcheck as of Tue, 15 Sept 2026, next at National Gallery Prague, Prague on Thu, 24 Sept 2026.
 
-Lechuga Zafiro is a techno and experimental artist tracked on soundcheck, with 62 sets logged across Amsterdam, Barcelona, Berlin and Brussels and 18 more. Often billed alongside Verraco, Animistic Beliefs and Bitter Babe. Next up: National Gallery Prague, Prague on Thu 24 Sept.
+Lechuga Zafiro is a techno and experimental artist tracked on soundcheck, with 63 sets logged across Amsterdam, Barcelona, Berlin and Brussels and 18 more. Often billed alongside Verraco, upsammy and Animistic Beliefs. Next up: National Gallery Prague, Prague on Thu 24 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Thu, 24 Sept 2026 | National Gallery Prague | Prague |
+| Sat, 10 Oct 2026 | Backsteinboot | Berlin |
 
 ## Recently played
 
@@ -23,6 +24,6 @@ Lechuga Zafiro is a techno and experimental artist tracked on soundcheck, with 6
 
 ## Shares bills with
 
-Verraco, Animistic Beliefs, Bitter Babe
+Verraco, upsammy, Animistic Beliefs
 
 *Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lechugazafiro/)*

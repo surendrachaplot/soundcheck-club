@@ -1,13 +1,14 @@
 # Eurohead
 
-Eurohead is a Trance and Club artist with 1 upcoming club date listed on soundcheck as of Tue, 15 Sept 2026, next at The Warfield, San Francisco/Oakland on Sat, 21 Nov 2026.
+Eurohead is a Trance and Club artist with 2 upcoming club dates listed on soundcheck as of Tue, 15 Sept 2026, next at Shrine Auditorium and Expo Hall, Los Angeles on Thu, 19 Nov 2026.
 
-Eurohead is a trance and club artist tracked on soundcheck, with 19 sets logged across Austin, Barcelona, Berlin and Houston and 8 more. Often billed alongside Ali RQ, Frost Children and 10cust. Next up: The Warfield, Sanfrancisco on Sat 21 Nov.
+Eurohead is a trance and club artist tracked on soundcheck, with 20 sets logged across Austin, Barcelona, Berlin and Houston and 8 more. Often billed alongside Ali RQ, Brutalismus 3000 and Frost Children. Next up: Shrine Auditorium and Expo Hall, Losangeles on Thu 19 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Thu, 19 Nov 2026 | Shrine Auditorium and Expo Hall | Los Angeles |
 | Sat, 21 Nov 2026 | The Warfield | San Francisco/Oakland |
 
 ## Recently played
@@ -23,6 +24,6 @@ Eurohead is a trance and club artist tracked on soundcheck, with 19 sets logged 
 
 ## Shares bills with
 
-Ali RQ, Frost Children, 10cust
+Ali RQ, Brutalismus 3000, Frost Children
 
 *Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/eurohead/)*

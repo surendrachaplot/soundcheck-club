@@ -9,7 +9,7 @@ KW Studios is a music venue in Vancouver listed on soundcheck. 2 upcoming nights
 | Date | Night | Line-up |
 | --- | --- | --- |
 | Fri, 18 Sept 2026 | Heaven Camera YVR // Ivy Hollivana, BINKY, ANTI-NOTHING + more | ANTI-NOTHING, BINKY, Ivy Hollivana |
-| Sat, 19 Sept 2026 | MOSS presents: Siete Catorce, El Ángel Exterminador, Shikanji, and cy.matic (VJ) | El Ángel Exterminador, Siete Catorce, cy.matic |
+| Sat, 19 Sept 2026 | MOSS presents: Siete Catorce, El Ángel Exterminador, Shikanji, and cy.matic (VJ) | El Ángel Exterminador, Michael Red, Siete Catorce, cy.matic |
 
 ## Address
 

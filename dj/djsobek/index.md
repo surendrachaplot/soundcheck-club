@@ -1,14 +1,16 @@
 # Sobek
 
-Sobek is a House and Electronica artist with 1 upcoming club date listed on soundcheck as of Tue, 15 Sept 2026, next at Toldi Klub, Budapest on Fri, 18 Sept 2026.
+Sobek is a House and Electronica artist with 3 upcoming club dates listed on soundcheck as of Tue, 15 Sept 2026, next at Toldi Klub, Budapest on Fri, 18 Sept 2026.
 
-Sobek is a house and electronica artist based in Hungary, tracked on soundcheck, with 73 sets logged across Berlin, Budapest, Istanbul and Lyon and 1 more. Often billed alongside Captain Knuckles, Daniel Moritz and Mulya. Next up: Toldi Klub, Budapest on Fri 18 Sept.
+Sobek is a house and electronica artist based in Hungary, tracked on soundcheck, with 75 sets logged across Berlin, Budapest, Istanbul and Lyon and 1 more. Often billed alongside Captain Knuckles, Daniel Moritz and Mulya. Next up: Toldi Klub, Budapest on Fri 18 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 18 Sept 2026 | Toldi Klub | Budapest |
+| Fri, 18 Sept 2026 | Toldi Klub | Budapest |
+| Sat, 26 Sept 2026 | Aether Club Budapest | Budapest |
 
 ## Recently played
 

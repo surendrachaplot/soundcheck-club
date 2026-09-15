@@ -1,8 +1,8 @@
 # Jade
 
-Jade is a music venue in New York City with 5 upcoming nights listed on soundcheck as of Tue, 15 Sept 2026; the next is "HumanbIAN & raey" on Thu, 17 Sept 2026.
+Jade is a music venue in New York City with 6 upcoming nights listed on soundcheck as of Tue, 15 Sept 2026; the next is "HumanbIAN & raey" on Thu, 17 Sept 2026.
 
-Jade is a music venue in Newyorkcity listed on soundcheck. 5 upcoming nights, with line-ups including ALI IRL, boy_c0ded, boy problem and Cassi-DJ and 2 more. Browse upcoming dates, start times and who's playing. 4 Stuyvesant Ave, Brooklyn, NY 11221, USA.
+Jade is a music venue in Newyorkcity listed on soundcheck. 6 upcoming nights, with line-ups including ALI IRL, boy_c0ded, boy problem and Cassi-DJ and 2 more. Browse upcoming dates, start times and who's playing. 4 Stuyvesant Ave, Brooklyn, NY 11221, USA.
 
 ## What's on
 
@@ -13,6 +13,7 @@ Jade is a music venue in Newyorkcity listed on soundcheck. 5 upcoming nights, wi
 | Tue, 22 Sept 2026 | the peace within | Cure2, Sparkle Motion |
 | Thu, 24 Sept 2026 | High Classics 001: Classic House + Acid | ALI IRL, Cassi-DJ, Peet the Scholar, boy problem |
 | Fri, 25 Sept 2026 | Club Mustang | boy_c0ded, esme2k |
+| Thu, 15 Oct 2026 | TUNNELWERK: ACID NIGHT - ft NIGHTVVITCH & XSB-R | NIGHTVVITCH, XSB-R |
 
 ## Address
 

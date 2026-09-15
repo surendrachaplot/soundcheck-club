@@ -1,8 +1,8 @@
 # Fullbodydurag
 
-Fullbodydurag is a Ghetto Tech and House artist with 2 upcoming club dates listed on soundcheck as of Tue, 15 Sept 2026, next at Northern Lights Lounge, Detroit on Sat, 19 Sept 2026.
+Fullbodydurag is a Ghetto Tech and House artist with 3 upcoming club dates listed on soundcheck as of Tue, 15 Sept 2026, next at Northern Lights Lounge, Detroit on Sat, 19 Sept 2026.
 
-Fullbodydurag is a ghetto tech and house artist based in United States of America, tracked on soundcheck, with 80 sets logged across Chicago, Denver, Detroit and Newyorkcity. Often billed alongside JMT (2), Disc Jockey George and Sheefy McFly. Next up: Northern Lights Lounge, Detroit on Sat 19 Sept.
+Fullbodydurag is a ghetto tech and house artist based in United States of America, tracked on soundcheck, with 81 sets logged across Chicago, Denver, Detroit and Newyorkcity. Often billed alongside JMT (2), Disc Jockey George and Sheefy McFly. Next up: Northern Lights Lounge, Detroit on Sat 19 Sept.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Fullbodydurag is a ghetto tech and house artist based in United States of Americ
 | --- | --- | --- |
 | Sat, 19 Sept 2026 | Northern Lights Lounge | Detroit |
 | Fri, 2 Oct 2026 | The Eagle of Detroit | Detroit |
+| Fri, 9 Oct 2026 | The Wild Hare & Singing Armadillo Frog Sanctuary | Chicago |
 
 ## Recently played
 

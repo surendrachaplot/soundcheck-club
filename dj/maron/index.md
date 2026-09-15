@@ -1,13 +1,14 @@
 # Maron
 
-Maron is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Tue, 15 Sept 2026, next at Toldi Klub, Budapest on Fri, 25 Sept 2026.
+Maron is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Tue, 15 Sept 2026, next at Toldi Klub, Budapest on Fri, 18 Sept 2026.
 
-Maron is a house and techno artist based in Hungary, tracked on soundcheck, with 93 sets logged across Berlin and Budapest. Often billed alongside Jaffa Surfa, Kiqo and isu. Next up: Toldi Klub, Budapest on Fri 25 Sept.
+Maron is a house and techno artist based in Hungary, tracked on soundcheck, with 94 sets logged across Berlin and Budapest. Often billed alongside Jaffa Surfa, Kiqo and isu. Next up: Toldi Klub, Budapest on Fri 18 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 18 Sept 2026 | Toldi Klub | Budapest |
 | Fri, 25 Sept 2026 | Toldi Klub | Budapest |
 | Sat, 17 Oct 2026 | Turbina | Budapest |
 

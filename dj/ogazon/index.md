@@ -1,8 +1,8 @@
 # Ogazón
 
-Ogazón is a Techno and House artist with 18 upcoming club dates listed on soundcheck as of Tue, 15 Sept 2026, next at UNO MALTA, Malta on Fri, 18 Sept 2026.
+Ogazón is a Techno and House artist with 19 upcoming club dates listed on soundcheck as of Tue, 15 Sept 2026, next at UNO MALTA, Malta on Fri, 18 Sept 2026.
 
-Ogazón is a techno and house artist tracked on soundcheck, with 279 sets logged across Amsterdam, Antwerp, Athens and Bali and 64 more. Often billed alongside Ryan Elliott, Marcel Dettmann and BASHKKA. Next up: UNO MALTA, Malta on Fri 18 Sept.
+Ogazón is a techno and house artist tracked on soundcheck, with 280 sets logged across Amsterdam, Antwerp, Athens and Bali and 64 more. Often billed alongside Ryan Elliott, Marcel Dettmann and BASHKKA. Next up: UNO MALTA, Malta on Fri 18 Sept.
 
 ## Upcoming shows
 

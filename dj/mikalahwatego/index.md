@@ -1,8 +1,8 @@
 # Mikalah Watego
 
-Mikalah Watego is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Tue, 15 Sept 2026, next at Sidney Myer Music Bowl, Melbourne on Sat, 3 Oct 2026.
+Mikalah Watego is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Tue, 15 Sept 2026, next at Sidney Myer Music Bowl, Melbourne on Sat, 3 Oct 2026.
 
-Mikalah Watego is a techno and house artist based in Australia, tracked on soundcheck, with 34 sets logged across Brisbane, Melbourne and Sydney. Often billed alongside Hasvat Informant, Ed Kent and Naycab. Next up: Sidney Myer Music Bowl, Melbourne on Sat 3 Oct.
+Mikalah Watego is a techno and house artist based in Australia, tracked on soundcheck, with 35 sets logged across Brisbane, Melbourne and Sydney. Often billed alongside Hasvat Informant, Ed Kent and Moopie. Next up: Sidney Myer Music Bowl, Melbourne on Sat 3 Oct.
 
 ## Upcoming shows
 
@@ -12,6 +12,7 @@ Mikalah Watego is a techno and house artist based in Australia, tracked on sound
 | Sat, 3 Oct 2026 | ark (Melb) | Melbourne |
 | Sun, 4 Oct 2026 | Cockatoo Island | Sydney |
 | Fri, 27 Nov 2026 | Lardner Park | Melbourne |
+| Sat, 5 Dec 2026 | Club 77 | Sydney |
 
 ## Recently played
 
@@ -26,6 +27,6 @@ Mikalah Watego is a techno and house artist based in Australia, tracked on sound
 
 ## Shares bills with
 
-Hasvat Informant, Ed Kent, Naycab
+Hasvat Informant, Ed Kent, Moopie
 
 *Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mikalahwatego/)*

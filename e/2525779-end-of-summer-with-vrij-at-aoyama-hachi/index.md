@@ -1,6 +1,6 @@
 # End of summer with VRIJ at Aoyama Hachi
 
-End of summer with VRIJ at Aoyama Hachi on Sat 19 Sept, Tokyo. 3 acts on the bill: frndj, Peter Bruno and Ruling Planet. Techno and House. Preview the line-up and save it on soundcheck.
+End of summer with VRIJ at Aoyama Hachi on Sat 19 Sept, Tokyo. 4 acts on the bill: frndj, Peter Bruno, Ruling Planet and SG Sound Collective. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -13,5 +13,6 @@ End of summer with VRIJ at Aoyama Hachi on Sat 19 Sept, Tokyo. 3 acts on the bil
 - frndj
 - Peter Bruno
 - Ruling Planet
+- SG Sound Collective
 
 *Source: [soundcheck](https://soundcheck.club/e/2525779-end-of-summer-with-vrij-at-aoyama-hachi/)*

@@ -1,6 +1,6 @@
 # 306 Soundsystem invite Om Unit, BABE ROOTS, Hewan Aman, HYPERLISON & ZAHRA at La Prairie du Canal
 
-306 Soundsystem invite Om Unit, BABE ROOTS, Hewan Aman, HYPERLISON & ZAHRA at La Prairie du Canal on Fri 18 Sept, Paris. 2 acts on the bill: Hewan Aman and Om Unit. Dub and Dub Techno. Preview the line-up and save it on soundcheck.
+306 Soundsystem invite Om Unit, BABE ROOTS, Hewan Aman, HYPERLISON & ZAHRA at La Prairie du Canal on Fri 18 Sept, Paris. 3 acts on the bill: Hewan Aman, Hyperlison and Om Unit. Dub and Dub Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,6 +11,7 @@
 ## Line-up
 
 - Hewan Aman
+- Hyperlison
 - Om Unit
 
 *Source: [soundcheck](https://soundcheck.club/e/2512260-306-soundsystem-invite-om-unit-babe-roots-hewan-aman-hyperli/)*

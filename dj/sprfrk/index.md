@@ -1,13 +1,14 @@
 # SPRFRK
 
-SPRFRK is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 15 Sept 2026, next at Dead Letter No. 9, New York City on Sat, 31 Oct 2026.
+SPRFRK is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Tue, 15 Sept 2026, next at Qncc, New York City on Sat, 10 Oct 2026.
 
-SPRFRK is a house and techno artist tracked on soundcheck, with 64 sets logged across Newyorkcity and Toronto. Often billed alongside Kandylion, fernanDITO and Foster, just Foster.. Next up: Dead Letter No. 9, Newyorkcity on Sat 31 Oct.
+SPRFRK is a house and techno artist tracked on soundcheck, with 65 sets logged across Newyorkcity and Toronto. Often billed alongside Kandylion, fernanDITO and Foster, just Foster.. Next up: Qncc, Newyorkcity on Sat 10 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 10 Oct 2026 | Qncc | New York City |
 | Sat, 31 Oct 2026 | Dead Letter No. 9 | New York City |
 
 ## Recently played

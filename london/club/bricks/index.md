@@ -14,7 +14,7 @@ Bricks is a music venue in London listed on soundcheck. 11 upcoming nights, with
 | Fri, 25 Sept 2026 | Garage Garden & Friends: Bricks Bar Takeover | AHARDS, Knock Down Ginger, RHD (1) |
 | Fri, 2 Oct 2026 | DIRECCIÓN: Maxinne | Maxinne |
 | Sat, 10 Oct 2026 | Basic Function present: Marcel Vogel | Basic Function, Marcel Vogel |
-| Thu, 15 Oct 2026 | Refractions x Lab.Club presents: Skope, Azaleh & Kori | Azaleh |
+| Thu, 15 Oct 2026 | Refractions x Lab.Club present: Skope, Azaleh & Kori | Azaleh |
 | Fri, 16 Oct 2026 | ChoirCo Turns Five: Karaoke & Pop Party |  |
 | Sat, 14 Nov 2026 | Type One Community: Third Birthday |  |
 | Fri, 20 Nov 2026 | Rhythmic Addiction | Braaks, Malin Genie, Max Sinàl |

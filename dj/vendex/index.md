@@ -1,8 +1,8 @@
 # Vendex
 
-Vendex is a Techno and Industrial artist with 6 upcoming club dates listed on soundcheck as of Tue, 15 Sept 2026, next at Son Fusteret, Mallorca on Sat, 19 Sept 2026.
+Vendex is a Techno and Industrial artist with 8 upcoming club dates listed on soundcheck as of Tue, 15 Sept 2026, next at Son Fusteret, Mallorca on Sat, 19 Sept 2026.
 
-Vendex is a techno and industrial artist tracked on soundcheck, with 192 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 61 more. Often billed alongside CARV, DYEN and Alignment. Next up: Son Fusteret, Mallorca on Sat 19 Sept.
+Vendex is a techno and industrial artist tracked on soundcheck, with 194 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 61 more. Often billed alongside CARV, DYEN and Alignment. Next up: Son Fusteret, Mallorca on Sat 19 Sept.
 
 ## Upcoming shows
 
@@ -11,6 +11,8 @@ Vendex is a techno and industrial artist tracked on soundcheck, with 192 sets lo
 | Sat, 19 Sept 2026 | Son Fusteret | Mallorca |
 | Fri, 2 Oct 2026 | Edelfettwerk | Hamburg |
 | Fri, 30 Oct 2026 | La Cubierta de Leganés | Madrid |
+| Fri, 30 Oct 2026 | Edinburgh Corn Exchange | Edinburgh |
+| Fri, 30 Oct 2026 | Edinburgh Corn Exchange | Edinburgh |
 | Fri, 13 Nov 2026 | E1 | London |
 | Sat, 14 Nov 2026 | Spook Club | Valencia |
 | Sat, 5 Dec 2026 | Zenith - Die Kulturhalle | Munich |

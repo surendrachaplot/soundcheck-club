@@ -1,8 +1,8 @@
 # Sneaky Pete's
 
-Sneaky Pete's is a music venue in Edinburgh with 34 upcoming nights listed on soundcheck as of Tue, 15 Sept 2026; the next is "RARE Club // Trucha, Päto (Vinyl All Night Long)" on Tue, 15 Sept 2026.
+Sneaky Pete's is a music venue in Edinburgh with 35 upcoming nights listed on soundcheck as of Tue, 15 Sept 2026; the next is "RARE Club // Trucha, Päto (Vinyl All Night Long)" on Tue, 15 Sept 2026.
 
-Sneaky Pete's is a music venue in Edinburgh listed on soundcheck. 34 upcoming nights, with line-ups including YVI, Alexis Taylor, Auramatic and billybawbags and 2 more. Browse upcoming dates, start times and who's playing. 73 Cowgate; Edinburgh, EH1 1JW; Scotland; United Kingdom.
+Sneaky Pete's is a music venue in Edinburgh listed on soundcheck. 35 upcoming nights, with line-ups including YVI, Alexis Taylor, Auramatic and billybawbags and 2 more. Browse upcoming dates, start times and who's playing. 73 Cowgate; Edinburgh, EH1 1JW; Scotland; United Kingdom.
 
 ## What's on
 

@@ -2,7 +2,7 @@
 
 Pauli B is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Tue, 15 Sept 2026, next at ciao ciao Bar, Berlin on Sun, 20 Sept 2026.
 
-Pauli B is a house and tech house artist based in Germany, tracked on soundcheck, with 4 sets logged across Berlin. Often billed alongside Danda, Dj Karies and Moritz Biebl. Next up: ciao ciao Bar, Berlin on Sun 20 Sept.
+Pauli B is a house and tech house artist based in Germany, tracked on soundcheck, with 4 sets logged across Berlin. Often billed alongside Danda, Dj Karies and JULÉZ. Next up: ciao ciao Bar, Berlin on Sun 20 Sept.
 
 ## Upcoming shows
 
@@ -18,6 +18,6 @@ Pauli B is a house and tech house artist based in Germany, tracked on soundcheck
 
 ## Shares bills with
 
-Danda, Dj Karies, Moritz Biebl
+Danda, Dj Karies, JULÉZ
 
 *Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/paulib/)*

@@ -9,7 +9,7 @@ Nowadays is a music venue in Newyorkcity listed on soundcheck. 36 upcoming night
 | Date | Night | Line-up |
 | --- | --- | --- |
 | Tue, 15 Sept 2026 | Intro to Ableton Lab: Building Chords, Basslines, & Melodies | JP Solis, The New York Record Club for The Advancement of The Arts |
-| Wed, 16 Sept 2026 | OST x Peak Oil: Paperclip Minimiser, Mike Midnight, Stone, Special Guest | Mike Midnight, Stone |
+| Wed, 16 Sept 2026 | OST x Peak Oil: Paperclip Minimiser, Mike Midnight, Stone, livwutang | Mike Midnight, Stone, livwutang |
 | Thu, 17 Sept 2026 | Dripping: Axine M, Matük (live), OKO DJ, Oso Feo b2b Lychee, Topdown Dialectic (live) | Axine M, Lychee, Matük, OKO DJ, Oso Feo (2) |
 | Fri, 18 Sept 2026 | Label Night: Thinner Groove with Powder, 5ive & CZ Wang | 5ive, CZ Wang, Powder |
 | Sat, 19 Sept 2026 | Let's Dance Brooklyn x UPLIFTED: Season 13 Kick-Off + Back 2 Skool Edition | Ali Coleman, Bridge (NY) |

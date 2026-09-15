@@ -8,7 +8,7 @@ Klunkerkranich is a music venue in Berlin listed on soundcheck. 8 upcoming night
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Tue, 15 Sept 2026 | ELECTRIC BAILE w. Lancer, Robot Girl | Lancer, Robot Girl |
+| Tue, 15 Sept 2026 | ELECTRIC BAILE w. Lancer, Robot Girl | Lancer, Lancer (2), Robot Girl |
 | Wed, 16 Sept 2026 | WOCHENMITTE w. Vlad Yaki | Vlad Yaki |
 | Thu, 17 Sept 2026 | Live Band, DJs, Art & More hosted by CounterCult | MAD.MOD, Natasha Roze |
 | Thu, 17 Sept 2026 | ESPERANZA w. Niklaus Katzorke, Zehlendorfer Disco Squad, Shimanski | Niklaus Katzorke, Shimanski, Zehlendorfer Disco Squad |

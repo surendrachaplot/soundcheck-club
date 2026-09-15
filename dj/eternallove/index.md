@@ -1,8 +1,8 @@
 # Eternal Love
 
-Eternal Love is a House and Disco artist with 3 upcoming club dates listed on soundcheck as of Tue, 15 Sept 2026, next at Good Room, New York City on Fri, 18 Sept 2026.
+Eternal Love is a House and Disco artist with 4 upcoming club dates listed on soundcheck as of Tue, 15 Sept 2026, next at Good Room, New York City on Fri, 18 Sept 2026.
 
-Eternal Love is a house and disco artist tracked on soundcheck, with 124 sets logged across Amsterdam, Antwerp, Bangkok and Barcelona and 32 more. Often billed alongside Dirty Channels, Larry Masmero and Pitaya Soundsystem. Next up: Good Room, Newyorkcity on Fri 18 Sept.
+Eternal Love is a house and disco artist tracked on soundcheck, with 125 sets logged across Amsterdam, Antwerp, Bangkok and Barcelona and 33 more. Often billed alongside Dirty Channels, Larry Masmero and Pitaya Soundsystem. Next up: Good Room, Newyorkcity on Fri 18 Sept.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Eternal Love is a house and disco artist tracked on soundcheck, with 124 sets lo
 | --- | --- | --- |
 | Fri, 18 Sept 2026 | Good Room | New York City |
 | Sat, 19 Sept 2026 | TBA - Tribeca Loft 52 Walker Street  | New York City |
+| Fri, 2 Oct 2026 | Bunker | Turin |
 | Sat, 10 Oct 2026 | Plantation | Paris |
 
 ## Recently played

@@ -17,7 +17,7 @@ Jupiter Disco is a music venue in Newyorkcity listed on soundcheck. 24 upcoming 
 | Sun, 20 Sept 2026 | Gigi Rio b2b KEiKO | Gigi Rio, KEiKO |
 | Wed, 23 Sept 2026 | Potluck: dj 5spice, satandoll, DJ Fat Frog, PSYCHOMOB, LILLA, chicas over rice | DJ Fat Frog, LILLA, chicas over rice, dj 5spice, satandoll |
 | Thu, 24 Sept 2026 | Roses: Clay Cornelius, Leon George, Reyer, Sibley | Reyer |
-| Fri, 25 Sept 2026 | Stretch Your Legs x [PLACEHOLDER] | Leg Room, Pedestrian Access, dj goodboy (BK) |
+| Fri, 25 Sept 2026 | Stretch Your Legs x [PLACEHOLDER] | Leg Room, Mommy Husband, Pedestrian Access, dj goodboy (BK) |
 
 ## Address
 

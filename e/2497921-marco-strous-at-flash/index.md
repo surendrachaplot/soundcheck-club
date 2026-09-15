@@ -1,6 +1,6 @@
 # Marco Strous at Flash
 
-Marco Strous at Flash on Sat 3 Oct, Washingtondc. 1 act on the bill: Marco Strous. House and Tech House. Preview the line-up and save it on soundcheck.
+Marco Strous at Flash on Sat 3 Oct, Washingtondc. 2 acts on the bill: DJ Soul (US) and Marco Strous. House and Tech House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ Marco Strous at Flash on Sat 3 Oct, Washingtondc. 1 act on the bill: Marco Strou
 
 ## Line-up
 
+- DJ Soul (US)
 - Marco Strous
 
 *Source: [soundcheck](https://soundcheck.club/e/2497921-marco-strous-at-flash/)*

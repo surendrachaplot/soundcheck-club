@@ -1,8 +1,8 @@
 # smartbar
 
-smartbar is a music venue in Chicago with 17 upcoming nights listed on soundcheck as of Tue, 15 Sept 2026; the next is "Global Swing presents Oxygen feat. Satoshi Tomiie - Garrett David - esoe" on Fri, 18 Sept 2026.
+smartbar is a music venue in Chicago with 21 upcoming nights listed on soundcheck as of Tue, 15 Sept 2026; the next is "Global Swing presents Oxygen feat. Satoshi Tomiie - Garrett David - esoe" on Fri, 18 Sept 2026.
 
-smartbar is a music venue in Chicago listed on soundcheck. 17 upcoming nights, with line-ups including Bradley Zero, Brenda, Colleen 'Cosmo' Murphy and Daphni and 2 more. Browse upcoming dates, start times and who's playing. 3730 N. Clark St; Chicago, IL 60613; United States.
+smartbar is a music venue in Chicago listed on soundcheck. 21 upcoming nights, with line-ups including Andrew Emil, Bradley Zero, Brenda and Chris Cruse and 2 more. Browse upcoming dates, start times and who's playing. 3730 N. Clark St; Chicago, IL 60613; United States.
 
 ## What's on
 

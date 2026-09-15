@@ -1,6 +1,6 @@
 # SHARD at Chmury
 
-SHARD at Chmury on Sat 19 Sept, Warsaw. 3 acts on the bill: Chino, REV0LT and SOLOWINSKI. Electro and EBM. Preview the line-up and save it on soundcheck.
+SHARD at Chmury on Sat 19 Sept, Warsaw. 3 acts on the bill: Chino, REV0LT and SOLOWINSKI. Techno and Electro. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

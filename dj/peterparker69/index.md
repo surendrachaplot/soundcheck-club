@@ -1,14 +1,15 @@
 # Peterparker69
 
-Peterparker69 is a Club and Electro artist with 1 upcoming club date listed on soundcheck as of Tue, 15 Sept 2026, next at Odaiba, Tokyo on Wed, 23 Sept 2026.
+Peterparker69 is a Club and Pop artist with 2 upcoming club dates listed on soundcheck as of Tue, 15 Sept 2026, next at Odaiba, Tokyo on Wed, 23 Sept 2026.
 
-Peterparker69 is a club and electro artist based in Japan, tracked on soundcheck, with 30 sets logged across Berlin, Brussels, Hongkong and Kyoto and 6 more. Often billed alongside E.O.U, Rave Racers and Yoyou. Next up: Odaiba, Tokyo on Wed 23 Sept.
+Peterparker69 is a club and pop artist based in Japan, tracked on soundcheck, with 31 sets logged across Berlin, Brussels, Hongkong and Kyoto and 6 more. Often billed alongside E.O.U, Rave Racers and Yoyou. Next up: Odaiba, Tokyo on Wed 23 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Wed, 23 Sept 2026 | Odaiba | Tokyo |
+| Wed, 7 Oct 2026 | M.O.T | London |
 
 ## Recently played
 

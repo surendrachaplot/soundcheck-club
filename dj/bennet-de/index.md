@@ -1,13 +1,14 @@
 # Bennet (DE)
 
-Bennet (DE) is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Tue, 15 Sept 2026, next at Badaboum, Paris on Fri, 2 Oct 2026.
+Bennet (DE) is a House and Techno artist with 6 upcoming club dates listed on soundcheck as of Tue, 15 Sept 2026, next at UMI, Brussels on Sat, 19 Sept 2026.
 
-Bennet (DE) is a house and techno artist based in Germany, tracked on soundcheck, with 72 sets logged across Amsterdam, Barcelona, Berlin and Brussels and 14 more. Often billed alongside Bennet, Bambounou and Byron Yeates. Next up: Badaboum, Paris on Fri 2 Oct.
+Bennet (DE) is a house and techno artist based in Germany, tracked on soundcheck, with 73 sets logged across Amsterdam, Barcelona, Berlin and Brussels and 14 more. Often billed alongside Bennet, Bambounou and Byron Yeates. Next up: UMI, Brussels on Sat 19 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 19 Sept 2026 | UMI | Brussels |
 | Fri, 2 Oct 2026 | Badaboum | Paris |
 | Fri, 9 Oct 2026 | Shelter Amsterdam | Amsterdam |
 | Sat, 24 Oct 2026 | RADION | Amsterdam |

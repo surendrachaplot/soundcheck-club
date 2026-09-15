@@ -1,8 +1,8 @@
 # Job de Jong
 
-Job de Jong is a House and Tech House artist with 14 upcoming club dates listed on soundcheck as of Tue, 15 Sept 2026, next at Openluchttheater Amersfoort, Amsterdam on Fri, 18 Sept 2026.
+Job de Jong is a House and Tech House artist with 15 upcoming club dates listed on soundcheck as of Tue, 15 Sept 2026, next at Openluchttheater Amersfoort, Amsterdam on Fri, 18 Sept 2026.
 
-Job de Jong is a house and tech house artist tracked on soundcheck, with 167 sets logged across Aberdeen, Amsterdam, Antwerp and Barcelona and 22 more. Often billed alongside Dennis Quin, Prunk and M-High. Next up: Openluchttheater Amersfoort, Amsterdam on Fri 18 Sept.
+Job de Jong is a house and tech house artist tracked on soundcheck, with 168 sets logged across Aberdeen, Amsterdam, Antwerp and Barcelona and 22 more. Often billed alongside Dennis Quin, Prunk and M-High. Next up: Openluchttheater Amersfoort, Amsterdam on Fri 18 Sept.
 
 ## Upcoming shows
 

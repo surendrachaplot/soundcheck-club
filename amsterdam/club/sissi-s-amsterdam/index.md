@@ -10,7 +10,7 @@ SISSI'S Amsterdam is a music venue in Amsterdam listed on soundcheck. 14 upcomin
 | --- | --- | --- |
 | Fri, 18 Sept 2026 | Toy Tonics Jam | Barbara Boeing, Kapote |
 | Sat, 19 Sept 2026 | Sissi's Blockparty with Moody Mehran (all day) |  |
-| Fri, 25 Sept 2026 | De Binnenstad x Sissi's | Easttown, Gyatso, Rumi Jill, Spacer Woman |
+| Fri, 25 Sept 2026 | [CANCELLED] De Binnenstad x Sissi's | Easttown, Gyatso, Rumi Jill, Spacer Woman |
 | Fri, 25 Sept 2026 | Sissi's Friday with Easttown, Jim Jua | Easttown |
 | Sat, 26 Sept 2026 | Sissi's Blockparty with Benny Rodrigues & LYLO |  |
 | Fri, 2 Oct 2026 | Sissi's Friday with SWAY, Mowgli & Ays | Ays (NL), Mowgli (NL) |

@@ -1,13 +1,14 @@
 # Sincz
 
-Sincz is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 15 Sept 2026, next at Międzymiastowa, Krakow on Sat, 26 Sept 2026.
+Sincz is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Tue, 15 Sept 2026, next at OCZKI, Warsaw on Sat, 19 Sept 2026.
 
-Sincz is a techno and house artist tracked on soundcheck, with 46 sets logged across Barcelona, Copenhagen, Krakow and Prague and 1 more. Often billed alongside WEIKUM, Angelo Mike and Korenberg. Next up: Międzymiastowa, Krakow on Sat 26 Sept.
+Sincz is a techno and house artist tracked on soundcheck, with 47 sets logged across Barcelona, Copenhagen, Krakow and Prague and 1 more. Often billed alongside WEIKUM, Angelo Mike and Korenberg. Next up: OCZKI, Warsaw on Sat 19 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 19 Sept 2026 | OCZKI | Warsaw |
 | Sat, 26 Sept 2026 | Międzymiastowa | Krakow |
 
 ## Recently played

@@ -1,13 +1,14 @@
 # A.N.I.
 
-A.N.I. is a Techno and Trance artist with 6 upcoming club dates listed on soundcheck as of Tue, 15 Sept 2026, next at OST, Berlin on Fri, 16 Oct 2026.
+A.N.I. is a Techno and Trance artist with 7 upcoming club dates listed on soundcheck as of Tue, 15 Sept 2026, next at MÄX, Zurich on Fri, 2 Oct 2026.
 
-A.N.I. is a techno and trance artist tracked on soundcheck, with 187 sets logged across Amsterdam, Antwerp, Barcelona and Basel and 35 more. Often billed alongside SaltySis, DJ Jordan and IGDA. Next up: OST, Berlin on Fri 16 Oct.
+A.N.I. is a techno and trance artist tracked on soundcheck, with 188 sets logged across Amsterdam, Antwerp, Barcelona and Basel and 35 more. Often billed alongside SaltySis, DJ Jordan and IGDA. Next up: MÄX, Zurich on Fri 2 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 2 Oct 2026 | MÄX | Zurich |
 | Fri, 16 Oct 2026 | OST | Berlin |
 | Fri, 30 Oct 2026 | La Cubierta de Leganés | Madrid |
 | Sat, 31 Oct 2026 | Spook Club | Valencia |

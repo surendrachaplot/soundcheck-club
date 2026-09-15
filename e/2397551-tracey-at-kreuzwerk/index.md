@@ -1,6 +1,6 @@
 # tracey at KREUZWERK
 
-tracey at KREUZWERK on Sat 19 Sept, Berlin. 19 acts on the bill: 131bpm, ADAM MUNNINGS, Alírio and Bleach and 15 more. Progressive House and House. Preview the line-up and save it on soundcheck.
+tracey at KREUZWERK on Sat 19 Sept, Berlin. 20 acts on the bill: 131bpm, ADAM MUNNINGS, Alírio and Bleach and 16 more. Progressive House and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -15,6 +15,7 @@ tracey at KREUZWERK on Sat 19 Sept, Berlin. 19 acts on the bill: 131bpm, ADAM MU
 - Alírio
 - Bleach
 - Deepa
+- Dirty Daddy Don
 - Dj handbag
 - DJ Petite
 - EROS IN FURS

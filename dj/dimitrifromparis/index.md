@@ -1,8 +1,8 @@
 # Dimitri From Paris
 
-Dimitri From Paris is a House and Disco artist with 6 upcoming club dates listed on soundcheck as of Tue, 15 Sept 2026, next at Switch, Porto on Sat, 19 Sept 2026.
+Dimitri From Paris is a House and Disco artist with 7 upcoming club dates listed on soundcheck as of Tue, 15 Sept 2026, next at Switch, Porto on Sat, 19 Sept 2026.
 
-Dimitri From Paris is a house and disco artist tracked on soundcheck, with 104 sets logged across Antwerp, Barcelona, Berlin and Birmingham and 19 more. Often billed alongside Melvo Baptiste, Melon Bomb and Sophie Lloyd. Next up: Switch, Porto on Sat 19 Sept.
+Dimitri From Paris is a house and disco artist tracked on soundcheck, with 105 sets logged across Antwerp, Barcelona, Berlin and Birmingham and 19 more. Often billed alongside Melvo Baptiste, Melon Bomb and Sophie Lloyd. Next up: Switch, Porto on Sat 19 Sept.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ Dimitri From Paris is a house and disco artist tracked on soundcheck, with 104 s
 | Sat, 19 Sept 2026 | Switch | Porto |
 | Fri, 9 Oct 2026 | Amnesia Ibiza | Ibiza |
 | Sat, 10 Oct 2026 | BORIS CLUB | Barcelona |
+| Fri, 16 Oct 2026 | 77 | London |
 | Sat, 17 Oct 2026 | WaV | Liverpool |
 | Sat, 7 Nov 2026 | Warehouse | Nantes |
 | Sat, 28 Nov 2026 | Night Tales | London |

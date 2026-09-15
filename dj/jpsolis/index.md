@@ -1,14 +1,15 @@
 # JP Solis
 
-JP Solis is a electronic artist with 3 upcoming club dates listed on soundcheck as of Tue, 15 Sept 2026, next at Nowadays, New York City on Tue, 15 Sept 2026.
+JP Solis is a electronic artist with 4 upcoming club dates listed on soundcheck as of Tue, 15 Sept 2026, next at Nowadays, New York City on Tue, 15 Sept 2026.
 
-JP Solis is an electronic artist based in United States of America, tracked on soundcheck, with 48 sets logged across Newyorkcity. Often billed alongside The New York Record Club for The Advancement of The Arts. Next up: Nowadays, Newyorkcity on Tue 15 Sept.
+JP Solis is an electronic artist based in United States of America, tracked on soundcheck, with 49 sets logged across Newyorkcity. Often billed alongside The New York Record Club for The Advancement of The Arts. Next up: Nowadays, Newyorkcity on Tue 15 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Tue, 15 Sept 2026 | Nowadays | New York City |
+| Sat, 19 Sept 2026 | Now & Then NYC | New York City |
 | Wed, 23 Sept 2026 | Nowadays | New York City |
 | Wed, 30 Sept 2026 | Nowadays | New York City |
 

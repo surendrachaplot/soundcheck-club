@@ -1,8 +1,8 @@
 # EMILIO (3)
 
-EMILIO (3) is a Techno and Trance artist with 3 upcoming club dates listed on soundcheck as of Tue, 15 Sept 2026, next at TBA - Secret Location , Tokyo on Fri, 18 Sept 2026.
+EMILIO (3) is a Techno and Trance artist with 4 upcoming club dates listed on soundcheck as of Tue, 15 Sept 2026, next at TBA - Secret Location , Tokyo on Fri, 18 Sept 2026.
 
-EMILIO (3) is a techno and trance artist based in Japan, tracked on soundcheck, with 59 sets logged across Tokyo. Often billed alongside EVE (1), uuu7 and STRATAH. Next up: TBA - Secret Location , Tokyo on Fri 18 Sept.
+EMILIO (3) is a techno and trance artist based in Japan, tracked on soundcheck, with 60 sets logged across Tokyo. Often billed alongside EVE (1), uuu7 and STRATAH. Next up: TBA - Secret Location , Tokyo on Fri 18 Sept.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ EMILIO (3) is a techno and trance artist based in Japan, tracked on soundcheck, 
 | Fri, 18 Sept 2026 | TBA - Secret Location  | Tokyo |
 | Sun, 20 Sept 2026 | Camelot | Tokyo |
 | Sun, 20 Sept 2026 | Yodo Groove (Yodobashi Ikebukuro) | Tokyo |
+| Fri, 9 Oct 2026 | clubasia | Tokyo |
 
 ## Recently played
 

@@ -1,8 +1,8 @@
 # Gabrielle Kwarteng
 
-Gabrielle Kwarteng is a House and Techno artist with 12 upcoming club dates listed on soundcheck as of Tue, 15 Sept 2026, next at BASEMENT, New York City on Fri, 18 Sept 2026.
+Gabrielle Kwarteng is a House and Techno artist with 13 upcoming club dates listed on soundcheck as of Tue, 15 Sept 2026, next at BASEMENT, New York City on Fri, 18 Sept 2026.
 
-Gabrielle Kwarteng is a house and techno artist tracked on soundcheck, with 243 sets logged across Amsterdam, Antwerp, Auckland and Bali and 57 more. Often billed alongside BASHKKA, Peach and Sedef Adasï. Next up: BASEMENT, Newyorkcity on Fri 18 Sept.
+Gabrielle Kwarteng is a house and techno artist tracked on soundcheck, with 244 sets logged across Amsterdam, Antwerp, Auckland and Bali and 57 more. Often billed alongside BASHKKA, Peach and Sedef Adasï. Next up: BASEMENT, Newyorkcity on Fri 18 Sept.
 
 ## Upcoming shows
 
@@ -13,12 +13,12 @@ Gabrielle Kwarteng is a house and techno artist tracked on soundcheck, with 243 
 | Fri, 25 Sept 2026 | Jasna 1 | Warsaw |
 | Mon, 28 Sept 2026 | DC-10 | Ibiza |
 | Fri, 2 Oct 2026 | Headrow House | Leeds |
+| Sat, 10 Oct 2026 | Backsteinboot | Berlin |
 | Sat, 17 Oct 2026 | fabric | London |
 | Thu, 22 Oct 2026 | SISSI'S Amsterdam | Amsterdam |
 | Fri, 23 Oct 2026 | WestWeelde | Amsterdam |
 | Sat, 24 Oct 2026 | Radio Radio | Amsterdam |
 | Mon, 26 Oct 2026 | TILLATEC | Amsterdam |
-| Fri, 27 Nov 2026 | DURO | Milan |
 | Fri, 27 Nov 2026 | DURO | Milan |
 
 ## Recently played

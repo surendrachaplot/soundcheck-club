@@ -1,13 +1,14 @@
 # Ivy
 
-Ivy is a Club and Electronica artist with 1 upcoming club date listed on soundcheck as of Tue, 15 Sept 2026, next at Dune Park, Buenos Aires on Sat, 19 Sept 2026.
+Ivy is a Club and Bass artist with 2 upcoming club dates listed on soundcheck as of Tue, 15 Sept 2026, next at Abercrombie Hotel, Sydney on Fri, 18 Sept 2026.
 
-Ivy is a club and electronica artist based in United States of America, tracked on soundcheck, with 26 sets logged across Amsterdam, Barcelona, Bristol and Buenosaires and 9 more. Often billed alongside Freda, KAMIKAZE and Mefjus. Next up: Dune Park, Buenosaires on Sat 19 Sept.
+Ivy is a club and bass artist based in United States of America, tracked on soundcheck, with 27 sets logged across Amsterdam, Barcelona, Bristol and Buenosaires and 9 more. Often billed alongside Freda, KAMIKAZE and Mefjus. Next up: Abercrombie Hotel, Sydney on Fri 18 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 18 Sept 2026 | Abercrombie Hotel | Sydney |
 | Sat, 19 Sept 2026 | Dune Park | Buenos Aires |
 
 ## Recently played

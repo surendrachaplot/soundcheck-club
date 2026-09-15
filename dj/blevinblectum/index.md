@@ -1,13 +1,14 @@
 # Blevin Blectum
 
-Blevin Blectum is a Experimental and Electronica artist with 1 upcoming club date listed on soundcheck as of Tue, 15 Sept 2026, next at The Lab, San Francisco/Oakland on Thu, 24 Sept 2026.
+Blevin Blectum is a Experimental and Noise artist with 2 upcoming club dates listed on soundcheck as of Tue, 15 Sept 2026, next at Ugra Deva Loka, San Francisco/Oakland on Sat, 19 Sept 2026.
 
-Blevin Blectum is an experimental and electronica artist tracked on soundcheck, with 5 sets logged across Hamburg, London and Sanfrancisco. Often billed alongside IDHAZ, Kerri LeBon and Le Fou. Next up: The Lab, Sanfrancisco on Thu 24 Sept.
+Blevin Blectum is an experimental and noise artist tracked on soundcheck, with 6 sets logged across Hamburg, London and Sanfrancisco. Often billed alongside IDHAZ, Kerri LeBon and Le Fou. Next up: Ugra Deva Loka, Sanfrancisco on Sat 19 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 19 Sept 2026 | Ugra Deva Loka | San Francisco/Oakland |
 | Thu, 24 Sept 2026 | The Lab | San Francisco/Oakland |
 
 ## Recently played

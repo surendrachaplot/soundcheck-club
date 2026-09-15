@@ -1,8 +1,8 @@
 # Frazi.er
 
-Frazi.er is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Tue, 15 Sept 2026, next at Faust, Seoul on Sat, 19 Sept 2026.
+Frazi.er is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Tue, 15 Sept 2026, next at Faust, Seoul on Sat, 19 Sept 2026.
 
-Frazi.er is a techno and house artist tracked on soundcheck, with 103 sets logged across Aberdeen, Amsterdam, Bali and Barcelona and 28 more. Often billed alongside E.DN, Liam Cappello and 999999999. Next up: Faust, Seoul on Sat 19 Sept.
+Frazi.er is a techno and house artist tracked on soundcheck, with 104 sets logged across Aberdeen, Amsterdam, Bali and Barcelona and 28 more. Often billed alongside E.DN, Liam Cappello and 999999999. Next up: Faust, Seoul on Sat 19 Sept.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Frazi.er is a techno and house artist tracked on soundcheck, with 103 sets logge
 | --- | --- | --- |
 | Sat, 19 Sept 2026 | Faust | Seoul |
 | Sun, 27 Sept 2026 | Sub Club | Glasgow |
+| Fri, 2 Oct 2026 | The Caves | Edinburgh |
 
 ## Recently played
 

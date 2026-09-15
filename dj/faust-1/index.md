@@ -1,8 +1,8 @@
 # FAUST (1)
 
-FAUST (1) is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Tue, 15 Sept 2026, next at Sensorium, Berlin on Wed, 16 Sept 2026.
+FAUST (1) is a Techno and Trance artist with 3 upcoming club dates listed on soundcheck as of Tue, 15 Sept 2026, next at Sensorium, Berlin on Wed, 16 Sept 2026.
 
-FAUST (1) is a techno and trance artist tracked on soundcheck, with 41 sets logged across Berlin, Bucharest, Cologne and Leeds and 2 more. Often billed alongside Radox, Michael Ius and Thomas Rob. Next up: Sensorium, Berlin on Wed 16 Sept.
+FAUST (1) is a techno and trance artist tracked on soundcheck, with 42 sets logged across Berlin, Bucharest, Cologne and Leeds and 2 more. Often billed alongside Radox, Michael Ius and Thomas Rob. Next up: Sensorium, Berlin on Wed 16 Sept.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ FAUST (1) is a techno and trance artist tracked on soundcheck, with 41 sets logg
 | --- | --- | --- |
 | Wed, 16 Sept 2026 | Sensorium | Berlin |
 | Sat, 19 Sept 2026 | Eiger Studios | Leeds |
+| Fri, 13 Nov 2026 | Forge | Bucharest |
 
 ## Recently played
 

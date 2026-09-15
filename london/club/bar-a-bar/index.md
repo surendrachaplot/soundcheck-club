@@ -11,7 +11,7 @@ Bar A Bar is a music venue in London listed on soundcheck. 6 upcoming nights, wi
 | Fri, 18 Sept 2026 | Timeless: 18th September - Aniaef, DELARA, Modlar, StopThoseEvilBastards | Aniaef, DELARA, Modlar, StopThoseEvilBastards |
 | Sat, 26 Sept 2026 | ECHO 4 | Any Koh, D LAI, Folek, MPathy, SONI LOBO, winterburn |
 | Sat, 3 Oct 2026 | UNDERGROUND TALES | Biji, PETRU, Uakoz, illus1on |
-| Fri, 30 Oct 2026 | Misfits. (HALLOWEEN PARTY) Until late | Svet |
+| Fri, 30 Oct 2026 | Misfits. (HALLOWEEN PARTY)  | Svet |
 | Sat, 31 Oct 2026 | SUMMA CUM LAUDE 10's | Domenico Crisci |
 | Fri, 13 Nov 2026 | LAVA.LIQUID.LONDON Vol.004 - [SPECIAL GUEST HEADLINER] |  |
 

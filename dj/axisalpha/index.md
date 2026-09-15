@@ -1,13 +1,14 @@
 # Axis Alpha
 
-Axis Alpha is a Techno and Dub Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 15 Sept 2026, next at Ankali & Planeta Za, Prague on Fri, 25 Sept 2026.
+Axis Alpha is a Techno and Dub Techno artist with 2 upcoming club dates listed on soundcheck as of Tue, 15 Sept 2026, next at Sekta Selekta, Krakow on Sat, 19 Sept 2026.
 
-Axis Alpha is a techno and dub techno artist tracked on soundcheck, with 72 sets logged across Berlin, Milan, Prague and Tokyo. Often billed alongside Eva Falt, Nior and DJ Slater. Next up: Ankali & Planeta Za, Prague on Fri 25 Sept.
+Axis Alpha is a techno and dub techno artist tracked on soundcheck, with 73 sets logged across Berlin, Krakow, Milan and Prague and 1 more. Often billed alongside Eva Falt, Nior and DJ Slater. Next up: Sekta Selekta, Krakow on Sat 19 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 19 Sept 2026 | Sekta Selekta | Krakow |
 | Fri, 25 Sept 2026 | Ankali & Planeta Za | Prague |
 
 ## Recently played

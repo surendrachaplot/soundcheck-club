@@ -1,14 +1,15 @@
 # Edictum
 
-Edictum is a Progressive House and Hardcore artist with 1 upcoming club date listed on soundcheck as of Tue, 15 Sept 2026, next at Flex, Vienna on Fri, 18 Sept 2026.
+Edictum is a Progressive House and Hardcore artist with 2 upcoming club dates listed on soundcheck as of Tue, 15 Sept 2026, next at Flex, Vienna on Fri, 18 Sept 2026.
 
-Edictum is a progressive house and hardcore artist tracked on soundcheck, with 12 sets logged across Vienna. Often billed alongside Fede Frostl, Daniel Darkhofer and DIAS. Next up: Flex, Vienna on Fri 18 Sept.
+Edictum is a progressive house and hardcore artist tracked on soundcheck, with 13 sets logged across Vienna. Often billed alongside Fede Frostl, Daniel Darkhofer and DIAS. Next up: Flex, Vienna on Fri 18 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 18 Sept 2026 | Flex | Vienna |
+| Sat, 3 Oct 2026 | Loop | Vienna |
 
 ## Recently played
 

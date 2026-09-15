@@ -1,8 +1,8 @@
 # Moog Club
 
-Moog Club is a music venue in Barcelona with 16 upcoming nights listed on soundcheck as of Tue, 15 Sept 2026; the next is "Rubén Seoane" on Tue, 15 Sept 2026.
+Moog Club is a music venue in Barcelona with 23 upcoming nights listed on soundcheck as of Tue, 15 Sept 2026; the next is "Rubén Seoane" on Tue, 15 Sept 2026.
 
-Moog Club is a music venue in Barcelona listed on soundcheck. 16 upcoming nights, with line-ups including Ángel Molina, carlota., DJ MEN and Javi gOn and 2 more. Browse upcoming dates, start times and who's playing. Arc del Teatre, 3; 08001 Barcelona; Spain.
+Moog Club is a music venue in Barcelona listed on soundcheck. 23 upcoming nights, with line-ups including Ángel Molina, carlota., DJ MEN and Flug and 2 more. Browse upcoming dates, start times and who's playing. Arc del Teatre, 3; 08001 Barcelona; Spain.
 
 ## What's on
 

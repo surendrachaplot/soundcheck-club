@@ -1,14 +1,15 @@
 # Radox
 
-Radox is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Tue, 15 Sept 2026, next at Forge, Bucharest on Fri, 2 Oct 2026.
+Radox is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Tue, 15 Sept 2026, next at Forge, Bucharest on Fri, 2 Oct 2026.
 
-Radox is a techno and trance artist tracked on soundcheck, with 44 sets logged across Berlin, Bucharest and Malta. Often billed alongside FAUST (1), Thomas Rob and Kanghu. Next up: Forge, Bucharest on Fri 2 Oct.
+Radox is a techno and trance artist tracked on soundcheck, with 45 sets logged across Berlin, Bucharest and Malta. Often billed alongside FAUST (1), Thomas Rob and Kanghu. Next up: Forge, Bucharest on Fri 2 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 2 Oct 2026 | Forge | Bucharest |
+| Fri, 13 Nov 2026 | Forge | Bucharest |
 
 ## Recently played
 

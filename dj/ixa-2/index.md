@@ -1,13 +1,14 @@
 # Ixa (2)
 
-Ixa (2) is a Progressive House and House artist with 1 upcoming club date listed on soundcheck as of Tue, 15 Sept 2026, next at KREUZWERK, Berlin on Sat, 19 Sept 2026.
+Ixa (2) is a Progressive House and House artist with 2 upcoming club dates listed on soundcheck as of Tue, 15 Sept 2026, next at Chausseestrasse 131, Berlin on Fri, 18 Sept 2026.
 
-Ixa (2) is a progressive house and house artist tracked on soundcheck, with 6 sets logged across Berlin. Often billed alongside ADAM MUNNINGS, DJ Petite and Jonathan Apelbaum. Next up: KREUZWERK, Berlin on Sat 19 Sept.
+Ixa (2) is a progressive house and house artist tracked on soundcheck, with 7 sets logged across Berlin. Often billed alongside ADAM MUNNINGS, DJ Petite and Jonathan Apelbaum. Next up: Chausseestrasse 131, Berlin on Fri 18 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 18 Sept 2026 | Chausseestrasse 131 | Berlin |
 | Sat, 19 Sept 2026 | KREUZWERK | Berlin |
 
 ## Recently played

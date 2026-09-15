@@ -1,8 +1,8 @@
 # Oldboy
 
-Oldboy is a Garage and House artist with 5 upcoming club dates listed on soundcheck as of Tue, 15 Sept 2026, next at The Bongo Club, Edinburgh on Thu, 17 Sept 2026.
+Oldboy is a Garage and House artist with 6 upcoming club dates listed on soundcheck as of Tue, 15 Sept 2026, next at The Bongo Club, Edinburgh on Thu, 17 Sept 2026.
 
-Oldboy is a garage and house artist tracked on soundcheck, with 54 sets logged across Amsterdam, Athens, Birmingham and Brighton and 17 more. Often billed alongside DJ Cosworth, Prozak (IRL) and Silva Bumpa. Next up: The Bongo Club, Edinburgh on Thu 17 Sept.
+Oldboy is a garage and house artist tracked on soundcheck, with 55 sets logged across Amsterdam, Athens, Birmingham and Brighton and 18 more. Often billed alongside DJ Cosworth, Prozak (IRL) and Silva Bumpa. Next up: The Bongo Club, Edinburgh on Thu 17 Sept.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Oldboy is a garage and house artist tracked on soundcheck, with 54 sets logged a
 | --- | --- | --- |
 | Thu, 17 Sept 2026 | The Bongo Club | Edinburgh |
 | Sat, 26 Sept 2026 | Kapsule | Liverpool |
+| Fri, 9 Oct 2026 | Stealth | Nottingham |
 | Sat, 10 Oct 2026 | Depot Mayfield | Manchester |
 | Sun, 1 Nov 2026 | The Cause | London |
 | Fri, 4 Dec 2026 | Digital | Newcastle |

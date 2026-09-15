@@ -1,8 +1,8 @@
 # Myrcene
 
-Myrcene is a House and Ambient artist with 1 upcoming club date listed on soundcheck as of Tue, 15 Sept 2026, next at TBA - Casa Androna, Barcelona on Sun, 20 Sept 2026.
+Myrcene is a IDM and House artist with 1 upcoming club date listed on soundcheck as of Tue, 15 Sept 2026, next at TBA - Casa Androna, Barcelona on Sun, 20 Sept 2026.
 
-Myrcene is a house and ambient artist tracked on soundcheck, with 13 sets logged across Barcelona and Berlin. Often billed alongside Living Code, Joey Stella and Memory Palace. Next up: TBA - Casa Androna, Barcelona on Sun 20 Sept.
+Myrcene is an idm and house artist tracked on soundcheck, with 13 sets logged across Barcelona and Berlin. Often billed alongside Living Code, Joey Stella and Memory Palace. Next up: TBA - Casa Androna, Barcelona on Sun 20 Sept.
 
 ## Upcoming shows
 

@@ -1,8 +1,8 @@
 # Yamagucci (2)
 
-Yamagucci (2) is a House and Deep House artist with 2 upcoming club dates listed on soundcheck as of Tue, 15 Sept 2026, next at TBA - Aeródromo Vilar de Luz - LPVL, 4425 Folgosa, Portugal, Porto on Fri, 18 Sept 2026.
+Yamagucci (2) is a House and Electronica artist with 3 upcoming club dates listed on soundcheck as of Tue, 15 Sept 2026, next at TBA - Aeródromo Vilar de Luz - LPVL, 4425 Folgosa, Portugal, Porto on Fri, 18 Sept 2026.
 
-Yamagucci (2) is a house and deep house artist based in United States of America, tracked on soundcheck, with 6 sets logged across Amsterdam, Losangeles, Newyorkcity and Porto and 2 more. Often billed alongside Adam Ten, Antdot and Bedouin. Next up: TBA - Aeródromo Vilar de Luz - LPVL, 4425 Folgosa, Portugal, Porto on Fri 18 Sept.
+Yamagucci (2) is a house and electronica artist based in United States of America, tracked on soundcheck, with 7 sets logged across Amsterdam, Losangeles, Newyorkcity and Porto and 2 more. Often billed alongside Adam Ten, Antdot and Bedouin. Next up: TBA - Aeródromo Vilar de Luz - LPVL, 4425 Folgosa, Portugal, Porto on Fri 18 Sept.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Yamagucci (2) is a house and deep house artist based in United States of America
 | --- | --- | --- |
 | Fri, 18 Sept 2026 | TBA - Aeródromo Vilar de Luz - LPVL, 4425 Folgosa, Portugal | Porto |
 | Thu, 22 Oct 2026 | Het Sieraad | Amsterdam |
+| Sat, 31 Oct 2026 | Grand Park | Los Angeles |
 
 ## Recently played
 

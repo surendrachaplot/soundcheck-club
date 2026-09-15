@@ -1,8 +1,8 @@
 # Chippy Nonstop
 
-Chippy Nonstop is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Tue, 15 Sept 2026, next at EQ San Diego, San Diego on Fri, 18 Sept 2026.
+Chippy Nonstop is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Tue, 15 Sept 2026, next at EQ San Diego, San Diego on Fri, 18 Sept 2026.
 
-Chippy Nonstop is a techno and house artist tracked on soundcheck, with 165 sets logged across Amsterdam, Antwerp, Austin and Barcelona and 42 more. Often billed alongside Karim Olen Ash, Young Teesh and HVN (1). Next up: EQ San Diego, Sandiego on Fri 18 Sept.
+Chippy Nonstop is a techno and house artist tracked on soundcheck, with 166 sets logged across Amsterdam, Antwerp, Austin and Barcelona and 42 more. Often billed alongside Karim Olen Ash, Young Teesh and HVN (1). Next up: EQ San Diego, Sandiego on Fri 18 Sept.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Chippy Nonstop is a techno and house artist tracked on soundcheck, with 165 sets
 | --- | --- | --- |
 | Fri, 18 Sept 2026 | EQ San Diego | San Diego |
 | Fri, 25 Sept 2026 | 131 Mccormack St | Toronto |
+| Sat, 3 Oct 2026 | Holocene | Portland |
 | Sat, 17 Oct 2026 | Ingram Plaza | San Diego |
 | Sat, 14 Nov 2026 | TBA | Sydney |
 

@@ -9,9 +9,9 @@ or is a music venue in Tokyo listed on soundcheck. 4 upcoming nights, with line-
 | Date | Night | Line-up |
 | --- | --- | --- |
 | Sat, 26 Sept 2026 | or 6TH ANNIVERSARY DAY4 | 2bnsn, ANZU, Ayantula, Conures (DJ Tokunaga), DJ NECO, DJ SAKI, HiTOMi, Jody Wisternoff, Kamekawa, Shingo Nakamura, Tuyetmizuno, Vino (1), Yamariki, hidemi, liberty (JP) |
-| Sun, 27 Sept 2026 | MUSIC IS ANSWER — HOUSE MUSIC | Gewnky, Yamariki |
+| Sun, 27 Sept 2026 | MUSIC IS ANSWER — HOUSE MUSIC | Gewnky, MASASHI, Yamariki |
 | Sun, 4 Oct 2026 | double A-side | AKIRAM EN, AMIDAdrive, DJ endorphin, KUNPEI, Sunga, Tonbo |
-| Sun, 18 Oct 2026 | MUSIC IS ANSWER — HOUSE MUSIC | Ayantula, Yamariki, liberty (JP) |
+| Sun, 18 Oct 2026 | MUSIC IS ANSWER — HOUSE MUSIC | Ayantula, MASASHI, Yamariki, liberty (JP) |
 
 ## Address
 

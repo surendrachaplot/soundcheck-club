@@ -9,7 +9,7 @@ Bal Chavaux is a music venue in Paris listed on soundcheck. 3 upcoming nights, w
 | Date | Night | Line-up |
 | --- | --- | --- |
 | Sat, 26 Sept 2026 | Tribal Sound System by MISANTROPICAL & Couvre x Chefs | Bile Noire, Freebot, Philou CxC, Scarlett (ohgodscarlett) |
-| Sat, 3 Oct 2026 | TETE VIDE à Bal Chavaux: Ma Sha, Aloka, Acide Plastique b2b b3bz, Xea b2b Hyperlison | Aloka, Ma Sha, acideplastique, b3bz, xea (1) |
+| Sat, 3 Oct 2026 | TETE VIDE à Bal Chavaux: Ma Sha, Aloka, Acide Plastique b2b b3bz, Xea b2b Hyperlison | Aloka, Hyperlison, Ma Sha, acideplastique, b3bz, xea (1) |
 | Fri, 9 Oct 2026 | Volteface Anniversary | Adam Pits, Dual Monitor, Egna, Kasper Marott, MARIAD |
 
 ## Address

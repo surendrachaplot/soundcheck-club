@@ -1,14 +1,15 @@
 # Stacey Hotwaxx Hale
 
-Stacey Hotwaxx Hale is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Tue, 15 Sept 2026, next at TV Lounge, Detroit on Sun, 4 Oct 2026.
+Stacey Hotwaxx Hale is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Tue, 15 Sept 2026, next at TV Lounge, Detroit on Sun, 4 Oct 2026.
 
-Stacey Hotwaxx Hale is a house and techno artist tracked on soundcheck, with 143 sets logged across Amsterdam, Barcelona, Berlin and Brussels and 11 more. Often billed alongside Rimarkable, Ashton Swinton and Darryl G. Next up: TV Lounge, Detroit on Sun 4 Oct.
+Stacey Hotwaxx Hale is a house and techno artist tracked on soundcheck, with 144 sets logged across Amsterdam, Barcelona, Berlin and Brussels and 11 more. Often billed alongside Rimarkable, Ashton Swinton and Darryl G. Next up: TV Lounge, Detroit on Sun 4 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sun, 4 Oct 2026 | TV Lounge | Detroit |
+| Fri, 9 Oct 2026 | Good Room | New York City |
 | Sat, 24 Oct 2026 | Berghain / Panorama Bar / Säule | Berlin |
 
 ## Recently played

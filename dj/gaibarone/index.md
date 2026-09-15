@@ -1,8 +1,8 @@
 # Gai Barone
 
-Gai Barone is a Progressive House and Deep House artist with 3 upcoming club dates listed on soundcheck as of Tue, 15 Sept 2026, next at Akasha Las Dalias Club - Ibiza, Ibiza on Fri, 18 Sept 2026.
+Gai Barone is a Progressive House and Deep House artist with 4 upcoming club dates listed on soundcheck as of Tue, 15 Sept 2026, next at Akasha Las Dalias Club - Ibiza, Ibiza on Fri, 18 Sept 2026.
 
-Gai Barone is a progressive house and deep house artist tracked on soundcheck, with 18 sets logged across Amsterdam, Barcelona, Ibiza and London and 5 more. Often billed alongside Aubrey Fry, Not Demure and Tash. Next up: Akasha Las Dalias Club - Ibiza, Ibiza on Fri 18 Sept.
+Gai Barone is a progressive house and deep house artist tracked on soundcheck, with 19 sets logged across Amsterdam, Barcelona, Ibiza and London and 5 more. Often billed alongside Aubrey Fry, Not Demure and Tash. Next up: Akasha Las Dalias Club - Ibiza, Ibiza on Fri 18 Sept.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Gai Barone is a progressive house and deep house artist tracked on soundcheck, w
 | --- | --- | --- |
 | Fri, 18 Sept 2026 | Akasha Las Dalias Club - Ibiza | Ibiza |
 | Wed, 21 Oct 2026 | Kadinsky Cafe | Amsterdam |
+| Fri, 23 Oct 2026 | Rijnbar | Amsterdam |
 | Sat, 24 Oct 2026 | 50:Hertz House & Techno Club (Rembrandt Square) | Amsterdam |
 
 ## Recently played

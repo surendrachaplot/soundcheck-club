@@ -1,6 +1,6 @@
 # PHASE:ONE at Lokschuppen Berlin
 
-PHASE:ONE at Lokschuppen Berlin on Tue 29 Sept, Berlin. 1 act on the bill: Shilo. Trance and Techno. Preview the line-up and save it on soundcheck.
+PHASE:ONE at Lokschuppen Berlin on Tue 29 Sept, Berlin. 2 acts on the bill: Levandream and Shilo. Trance and Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ PHASE:ONE at Lokschuppen Berlin on Tue 29 Sept, Berlin. 1 act on the bill: Shilo
 
 ## Line-up
 
+- Levandream
 - Shilo
 
 *Source: [soundcheck](https://soundcheck.club/e/2495958-phase-one-at-lokschuppen-berlin/)*

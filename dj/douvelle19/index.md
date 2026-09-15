@@ -1,8 +1,8 @@
 # Douvelle19
 
-Douvelle19 is a House and Garage artist with 2 upcoming club dates listed on soundcheck as of Tue, 15 Sept 2026, next at The Cut, Newcastle on Fri, 16 Oct 2026.
+Douvelle19 is a House and Garage artist with 3 upcoming club dates listed on soundcheck as of Tue, 15 Sept 2026, next at The Cut, Newcastle on Fri, 16 Oct 2026.
 
-Douvelle19 is a house and garage artist tracked on soundcheck, with 28 sets logged across Amsterdam, Brighton, Bristol and Cardiff and 5 more. Often billed alongside Cesco, Diffrent and Rich Reason. Next up: The Cut, Newcastle on Fri 16 Oct.
+Douvelle19 is a house and garage artist tracked on soundcheck, with 29 sets logged across Amsterdam, Brighton, Bristol and Cardiff and 5 more. Often billed alongside Cesco, Diffrent and Rich Reason. Next up: The Cut, Newcastle on Fri 16 Oct.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Douvelle19 is a house and garage artist tracked on soundcheck, with 28 sets logg
 | --- | --- | --- |
 | Fri, 16 Oct 2026 | The Cut | Newcastle |
 | Wed, 21 Oct 2026 | Club Up | Amsterdam |
+| Fri, 11 Dec 2026 | The Clock Factory | Bristol |
 
 ## Recently played
 

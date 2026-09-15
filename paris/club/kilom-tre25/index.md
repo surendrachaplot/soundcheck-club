@@ -16,7 +16,7 @@ Kilomètre25 is a music venue in Paris listed on soundcheck. 13 upcoming nights,
 | Sat, 3 Oct 2026 | 23:59: EARGASM GOD, DBBD, Paralich, AREA ØNE | AREA ØNE, DBBD, EARGASM GOD, Paralich |
 | Sat, 3 Oct 2026 | 23:59 - AREA ØNE, EARGASM GOD, DBBD, Paralich, DJ RATZ, BORDER SISTERS | AREA ØNE, DBBD, EARGASM GOD, Paralich |
 | Fri, 9 Oct 2026 | ØXYL: BYORN, TESTPRESS, NYRA, SIKOTI, MEYEM & MORE | MEYEM, Mando, NYRA (DE), SIKOTI, t e s t p r e s s |
-| Sat, 10 Oct 2026 | Deepsea Grooves: Chez Damier, Mézigue, Vitaline | Chez Damier, Mézigue, R1D1, Vitaline |
+| Sat, 10 Oct 2026 | Deepsea Grooves: Chez Damier, Mézigue, Vitaline | Chez Damier, Mézigue, R1D1, STO_DJ, Vitaline |
 | Fri, 16 Oct 2026 | ORKA X SAKRAL: BIIA, Dica, BOTICKA, SKOLLARIS, PAULINE D7 | BIIA, BOTICKA, Dica |
 
 ## Address

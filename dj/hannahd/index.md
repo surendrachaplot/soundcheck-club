@@ -1,8 +1,8 @@
 # Hannah D
 
-Hannah D is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Tue, 15 Sept 2026, next at Second Story Studios, Melbourne on Fri, 25 Sept 2026.
+Hannah D is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Tue, 15 Sept 2026, next at Second Story Studios, Melbourne on Fri, 25 Sept 2026.
 
-Hannah D is a house and techno artist tracked on soundcheck, with 154 sets logged across Amsterdam, Auckland, Berlin and Brisbane and 12 more. Often billed alongside DJ Luv You, suki and Mabel. Next up: Second Story Studios, Melbourne on Fri 25 Sept.
+Hannah D is a house and techno artist tracked on soundcheck, with 155 sets logged across Amsterdam, Auckland, Berlin and Brisbane and 12 more. Often billed alongside DJ Luv You, suki and Mabel. Next up: Second Story Studios, Melbourne on Fri 25 Sept.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Hannah D is a house and techno artist tracked on soundcheck, with 154 sets logge
 | --- | --- | --- |
 | Fri, 25 Sept 2026 | Second Story Studios | Melbourne |
 | Fri, 25 Sept 2026 | Dr Morse | Melbourne |
+| Fri, 9 Oct 2026 | Sub Club Melbourne | Melbourne |
 | Fri, 27 Nov 2026 | Lardner Park | Melbourne |
 
 ## Recently played

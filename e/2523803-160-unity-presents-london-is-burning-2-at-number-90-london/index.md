@@ -1,6 +1,6 @@
 # 160 Unity presents: London Is Burning 2 at NUMBER 90 LONDON
 
-160 Unity presents: London Is Burning 2 at NUMBER 90 LONDON on Fri 16 Oct, London. 9 acts on the bill: Big Dope P, CRAIC DAVID, DJ Slugo and Goldman and 5 more. Bass and Footwork. Preview the line-up and save it on soundcheck.
+160 Unity presents: London Is Burning 2 at NUMBER 90 LONDON on Fri 16 Oct, London. 12 acts on the bill: Big Dope P, CA$TLE, CRAIC DAVID and DJ Slugo and 8 more. Bass and Footwork. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,13 +11,16 @@
 ## Line-up
 
 - Big Dope P
+- CA$TLE
 - CRAIC DAVID
 - DJ Slugo
 - Goldman
 - melba
 - Nectax
 - Princess Xixi
+- SANA
 - SANA (US)
 - Seb
+- Seb (Tropical Waste)
 
 *Source: [soundcheck](https://soundcheck.club/e/2523803-160-unity-presents-london-is-burning-2-at-number-90-london/)*

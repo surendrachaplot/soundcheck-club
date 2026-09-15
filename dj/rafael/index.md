@@ -1,8 +1,8 @@
 # Rafael
 
-Rafael is a House and Tech House artist with 3 upcoming club dates listed on soundcheck as of Tue, 15 Sept 2026, next at [UNVRS], Ibiza on Wed, 16 Sept 2026.
+Rafael is a House and Tech House artist with 4 upcoming club dates listed on soundcheck as of Tue, 15 Sept 2026, next at [UNVRS], Ibiza on Wed, 16 Sept 2026.
 
-Rafael is a house and tech house artist tracked on soundcheck, with 35 sets logged across Austin, Berlin, Chicago and Dublin and 10 more. Often billed alongside Flor Coto, OMRI. and Szew. Next up: [UNVRS], Ibiza on Wed 16 Sept.
+Rafael is a house and tech house artist tracked on soundcheck, with 36 sets logged across Austin, Berlin, Chicago and Dublin and 11 more. Often billed alongside Flor Coto, OMRI. and Szew. Next up: [UNVRS], Ibiza on Wed 16 Sept.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ Rafael is a house and tech house artist tracked on soundcheck, with 35 sets logg
 | Wed, 16 Sept 2026 | [UNVRS] | Ibiza |
 | Fri, 18 Sept 2026 | TBA | Lisbon |
 | Fri, 16 Oct 2026 | Mana Wynwood | Miami |
+| Fri, 16 Oct 2026 | Socore Factory | Osaka |
 
 ## Recently played
 

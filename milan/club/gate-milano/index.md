@@ -2,14 +2,14 @@
 
 Gate Milano is a music venue in Milan with 19 upcoming nights listed on soundcheck as of Tue, 15 Sept 2026; the next is "Biscotto: BLANKA & Quelza" on Fri, 18 Sept 2026.
 
-Gate Milano is a music venue in Milan listed on soundcheck. 19 upcoming nights, with line-ups including Alex Akashi, ANEM1, ANNĒ and Ben Eidani and 2 more. Browse upcoming dates, start times and who's playing. Via Valtellina, 21, 20159 Milano MI.
+Gate Milano is a music venue in Milan listed on soundcheck. 19 upcoming nights, with line-ups including Alex Akashi, Alis Swing, ANEM1 and ANNĒ and 2 more. Browse upcoming dates, start times and who's playing. Via Valtellina, 21, 20159 Milano MI.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
 | Fri, 18 Sept 2026 | Biscotto: BLANKA & Quelza | BLANKA, Quelza, Yas Reven |
-| Sat, 19 Sept 2026 | Novocaine+ presents BIRDS | Ben Eidani, Flaiv Đarkø |
+| Sat, 19 Sept 2026 | Novocaine+ presents BIRDS | Alis Swing, Ben Eidani, Flaiv Đarkø |
 | Fri, 25 Sept 2026 | Kobosil | HEMPTOTE, Kobosil, Pura Solenne |
 | Fri, 2 Oct 2026 | RAW: ANNĒ & Elli Acula & Inox Traxx & LPV | ANNĒ, Elli Acula, Inox Traxx, LPV |
 | Fri, 2 Oct 2026 | MANTIKORE & NOVOCAINE | ANEM1, RIBLX |

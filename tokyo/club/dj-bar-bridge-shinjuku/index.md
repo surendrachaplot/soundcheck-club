@@ -1,8 +1,8 @@
 # DJ Bar Bridge Shinjuku
 
-DJ Bar Bridge Shinjuku is a music venue in Tokyo with 35 upcoming nights listed on soundcheck as of Tue, 15 Sept 2026; the next is "Toshiyuki Goto & Eitetsu Takamiya" on Tue, 15 Sept 2026.
+DJ Bar Bridge Shinjuku is a music venue in Tokyo with 55 upcoming nights listed on soundcheck as of Tue, 15 Sept 2026; the next is "Toshiyuki Goto & Eitetsu Takamiya" on Tue, 15 Sept 2026.
 
-DJ Bar Bridge Shinjuku is a music venue in Tokyo listed on soundcheck. 35 upcoming nights, with line-ups including 7e, BANANA-CHAN, crazist and Dazzle Drums and 2 more. Browse upcoming dates, start times and who's playing. B1F KADO BILD., 2-19-9 SHINJUKU, SHINJUKU-KU, Tokyo Japan.
+DJ Bar Bridge Shinjuku is a music venue in Tokyo listed on soundcheck. 55 upcoming nights, with line-ups including 1-DRINK (2), 7e, BANANA-CHAN and crazist and 2 more. Browse upcoming dates, start times and who's playing. B1F KADO BILD., 2-19-9 SHINJUKU, SHINJUKU-KU, Tokyo Japan.
 
 ## What's on
 

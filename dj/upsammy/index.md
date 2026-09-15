@@ -1,8 +1,8 @@
 # upsammy
 
-upsammy is a Techno and Experimental artist with 11 upcoming club dates listed on soundcheck as of Tue, 15 Sept 2026, next at Sleeping Village, Chicago on Wed, 16 Sept 2026.
+upsammy is a Techno and Experimental artist with 12 upcoming club dates listed on soundcheck as of Tue, 15 Sept 2026, next at Sleeping Village, Chicago on Wed, 16 Sept 2026.
 
-upsammy is a techno and experimental artist tracked on soundcheck, with 189 sets logged across Amsterdam, Athens, Barcelona and Berlin and 49 more. Often billed alongside Valentina Magaletti, CCL and Skee Mask. Next up: Sleeping Village, Chicago on Wed 16 Sept.
+upsammy is a techno and experimental artist tracked on soundcheck, with 190 sets logged across Amsterdam, Athens, Barcelona and Berlin and 49 more. Often billed alongside Valentina Magaletti, CCL and Skee Mask. Next up: Sleeping Village, Chicago on Wed 16 Sept.
 
 ## Upcoming shows
 
@@ -15,6 +15,7 @@ upsammy is a techno and experimental artist tracked on soundcheck, with 189 sets
 | Thu, 24 Sept 2026 | National Gallery Prague | Prague |
 | Fri, 2 Oct 2026 | Gessnerallee | Zurich |
 | Sat, 3 Oct 2026 | Centre Point | Dublin |
+| Sat, 10 Oct 2026 | Backsteinboot | Berlin |
 | Thu, 22 Oct 2026 | Garage Noord | Amsterdam |
 | Wed, 4 Nov 2026 | Philharmonie de Paris | Paris |
 | Fri, 20 Nov 2026 | Magasins Généraux | Paris |

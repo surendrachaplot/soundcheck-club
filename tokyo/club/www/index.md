@@ -8,7 +8,7 @@ WWW is a music venue in Tokyo listed on soundcheck. 3 upcoming nights, with line
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Thu, 17 Sept 2026 | Tasho Ishi performing the 'T2' | Takao, Tasho Ishi |
+| Thu, 17 Sept 2026 | Tasho Ishi performing the 'T2' | Takao, Tasho Ishi, nano odorine |
 | Fri, 25 Sept 2026 | AMINO ACID x LOCAL WORLD -Dinamarca- | COLA REN, DJ Lawson, Dinamarca, E.O.U, Foodman, Lil Mofo, NTsKi, SHIZKA |
 | Mon, 5 Oct 2026 | free vq WWW & WWW X Anniversaries  |  |
 

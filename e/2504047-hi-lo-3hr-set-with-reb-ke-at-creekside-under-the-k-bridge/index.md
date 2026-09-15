@@ -1,6 +1,6 @@
 # HI-LO *3hr set* with Rebūke at Creekside - Under The K Bridge
 
-HI-LO *3hr set* with Rebūke at Creekside - Under The K Bridge on Sun 11 Oct, Newyorkcity. 3 acts on the bill: HI-LO, Oliver Heldens and Rebuke. Techno and House. Preview the line-up and save it on soundcheck.
+HI-LO *3hr set* with Rebūke at Creekside - Under The K Bridge on Sun 11 Oct, Newyorkcity. 6 acts on the bill: HI-LO, Ksenyeah, Manguito and MEDINA and 2 more. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,6 +11,9 @@ HI-LO *3hr set* with Rebūke at Creekside - Under The K Bridge on Sun 11 Oct, Ne
 ## Line-up
 
 - HI-LO
+- Ksenyeah
+- Manguito
+- MEDINA
 - Oliver Heldens
 - Rebuke
 

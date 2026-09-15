@@ -1,8 +1,8 @@
 # Do Not Sit On The Furniture
 
-Do Not Sit On The Furniture is a music venue in Miami with 25 upcoming nights listed on soundcheck as of Tue, 15 Sept 2026; the next is "Jessy & Friends" on Wed, 16 Sept 2026.
+Do Not Sit On The Furniture is a music venue in Miami with 27 upcoming nights listed on soundcheck as of Tue, 15 Sept 2026; the next is "Jessy & Friends" on Wed, 16 Sept 2026.
 
-Do Not Sit On The Furniture is a music venue in Miami listed on soundcheck. 25 upcoming nights, with line-ups including Armen Miran, baez, Basti Grub and George Vidal and 2 more. Browse upcoming dates, start times and who's playing. 423 16th St, Miami Beach, FL 33139.
+Do Not Sit On The Furniture is a music venue in Miami listed on soundcheck. 27 upcoming nights, with line-ups including Armen Miran, baez, Basti Grub and George Vidal and 2 more. Browse upcoming dates, start times and who's playing. 423 16th St, Miami Beach, FL 33139.
 
 ## What's on
 
@@ -16,8 +16,8 @@ Do Not Sit On The Furniture is a music venue in Miami listed on soundcheck. 25 u
 | Thu, 24 Sept 2026 | Secret Thursdays | George Vidal |
 | Fri, 25 Sept 2026 | Jim Rider | Jim Rider, baez |
 | Sat, 26 Sept 2026 | Niki Sadeki | Niki Sadeki |
+| Wed, 30 Sept 2026 | Roland Clark | Jessy Nimni, Louie Dager, Roland Clark |
 | Fri, 2 Oct 2026 | Tal Fussman | Tal Fussman |
-| Sat, 3 Oct 2026 | Tamir Regev | Jessy Nimni, Tamir Regev |
 
 ## Address
 

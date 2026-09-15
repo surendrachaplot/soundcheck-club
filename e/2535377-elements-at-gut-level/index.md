@@ -1,6 +1,6 @@
 # Elements at Gut Level
 
-Elements at Gut Level on Fri 23 Oct, Sheffield. 1 act on the bill: VERA SACRA. Ambient and Experimental. Preview the line-up and save it on soundcheck.
+Elements at Gut Level on Fri 23 Oct, Sheffield. 2 acts on the bill: Phoebe Niamh and VERA SACRA. Ambient and Experimental. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ Elements at Gut Level on Fri 23 Oct, Sheffield. 1 act on the bill: VERA SACRA. A
 
 ## Line-up
 
+- Phoebe Niamh
 - VERA SACRA
 
 *Source: [soundcheck](https://soundcheck.club/e/2535377-elements-at-gut-level/)*

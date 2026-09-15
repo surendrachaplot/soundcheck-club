@@ -1,14 +1,15 @@
 # FortifiedStructures
 
-FortifiedStructures is a Hardcore and Gabber artist with 2 upcoming club dates listed on soundcheck as of Tue, 15 Sept 2026, next at F8 1192 Folsom, San Francisco/Oakland on Sat, 19 Sept 2026.
+FortifiedStructures is a Techno and Hardcore artist with 3 upcoming club dates listed on soundcheck as of Tue, 15 Sept 2026, next at F8 1192 Folsom, San Francisco/Oakland on Sat, 19 Sept 2026.
 
-FortifiedStructures is a hardcore and gabber artist based in Canada, tracked on soundcheck, with 14 sets logged across Boston, Losangeles, Montreal and Newyorkcity and 2 more. Often billed alongside Dazegxd, Dev/Null and HARDKORE. Next up: F8 1192 Folsom, Sanfrancisco on Sat 19 Sept.
+FortifiedStructures is a techno and hardcore artist based in Canada, tracked on soundcheck, with 15 sets logged across Boston, Losangeles, Montreal and Newyorkcity and 2 more. Often billed alongside Dazegxd, Dev/Null and HARDKORE. Next up: F8 1192 Folsom, Sanfrancisco on Sat 19 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 19 Sept 2026 | F8 1192 Folsom | San Francisco/Oakland |
+| Sat, 26 Sept 2026 | XTC Bushwick | New York City |
 | Fri, 16 Oct 2026 | Paragon | New York City |
 
 ## Recently played

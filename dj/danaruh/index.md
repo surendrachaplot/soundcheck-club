@@ -1,8 +1,8 @@
 # Dana Ruh
 
-Dana Ruh is a House and Techno artist with 8 upcoming club dates listed on soundcheck as of Tue, 15 Sept 2026, next at Platforma Wolff, Bucharest on Fri, 18 Sept 2026.
+Dana Ruh is a House and Techno artist with 9 upcoming club dates listed on soundcheck as of Tue, 15 Sept 2026, next at Platforma Wolff, Bucharest on Fri, 18 Sept 2026.
 
-Dana Ruh is a house and techno artist tracked on soundcheck, with 149 sets logged across Amsterdam, Barcelona, Berlin and Boston and 36 more. Often billed alongside Alessia Ceruti, Robert Drewek and Sven Vath. Next up: Platforma Wolff, Bucharest on Fri 18 Sept.
+Dana Ruh is a house and techno artist tracked on soundcheck, with 150 sets logged across Amsterdam, Barcelona, Berlin and Boston and 36 more. Often billed alongside Alessia Ceruti, Robert Drewek and Sven Vath. Next up: Platforma Wolff, Bucharest on Fri 18 Sept.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ Dana Ruh is a house and techno artist tracked on soundcheck, with 149 sets logge
 | Fri, 18 Sept 2026 | Platforma Wolff | Bucharest |
 | Sat, 19 Sept 2026 | Momem - Museum of Modern Electronic Music | Frankfurt |
 | Sat, 19 Sept 2026 | Kater | Berlin |
+| Sat, 19 Sept 2026 | Club der Visionaere | Berlin |
 | Sat, 26 Sept 2026 | Armazem Solon | Sao Paulo |
 | Sat, 24 Oct 2026 | Momem - Museum of Modern Electronic Music | Frankfurt |
 | Sun, 25 Oct 2026 | Waterhouse Studios | Amsterdam |

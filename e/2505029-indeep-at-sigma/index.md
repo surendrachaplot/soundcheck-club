@@ -1,6 +1,6 @@
 # Indeep at Sigma
 
-Indeep at Sigma on Tue 15 Sept, Ibiza. Deep House. Preview the line-up and save it on soundcheck.
+Indeep at Sigma on Tue 15 Sept, Ibiza. Electro and Deep House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

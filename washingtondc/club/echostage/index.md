@@ -1,8 +1,8 @@
 # Echostage
 
-Echostage is a music venue in Washington DC with 15 upcoming nights listed on soundcheck as of Tue, 15 Sept 2026; the next is "LSR/CITY X by Gareth Emery w/ Andrea Botez, CVMRN, Dopastat" on Fri, 18 Sept 2026.
+Echostage is a music venue in Washington DC with 16 upcoming nights listed on soundcheck as of Tue, 15 Sept 2026; the next is "LSR/CITY X by Gareth Emery w/ Andrea Botez, CVMRN, Dopastat" on Fri, 18 Sept 2026.
 
-Echostage is a music venue in Washingtondc listed on soundcheck. 15 upcoming nights, with line-ups including 10cust, Afrojack, Andrea Botez and BENNETT and 2 more. Browse upcoming dates, start times and who's playing. 2135 Queens Chapel Road NE, Washington, DC 20018.
+Echostage is a music venue in Washingtondc listed on soundcheck. 16 upcoming nights, with line-ups including 10cust, Afrojack, Andrea Botez and BENNETT and 2 more. Browse upcoming dates, start times and who's playing. 2135 Queens Chapel Road NE, Washington, DC 20018.
 
 ## What's on
 

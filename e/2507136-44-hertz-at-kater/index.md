@@ -1,6 +1,6 @@
 # 44 Hertz at Kater
 
-44 Hertz at Kater on Fri 25 Sept, Berlin. 6 acts on the bill: Daniel Neuland, Frau Kaufmann, Naicet and Pascale Voltaire and 2 more. Techno and Tech House. Preview the line-up and save it on soundcheck.
+44 Hertz at Kater on Fri 25 Sept, Berlin. 7 acts on the bill: Daniel Neuland, Dydaa Forne, Frau Kaufmann and Naicet and 3 more. Techno and Tech House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,6 +11,7 @@
 ## Line-up
 
 - Daniel Neuland
+- Dydaa Forne
 - Frau Kaufmann
 - Naicet
 - Pascale Voltaire

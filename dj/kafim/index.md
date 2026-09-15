@@ -1,13 +1,14 @@
 # Kafim
 
-Kafim is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 15 Sept 2026, next at UMI, Brussels on Sat, 24 Oct 2026.
+Kafim is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Tue, 15 Sept 2026, next at UMI, Brussels on Sat, 24 Oct 2026.
 
-Kafim is a techno and house artist based in Belgium, tracked on soundcheck, with 26 sets logged across Amsterdam, Brussels and Milan. Often billed alongside Mankiyan, Hadone and Chris Ferreira. Next up: UMI, Brussels on Sat 24 Oct.
+Kafim is a techno and house artist based in Belgium, tracked on soundcheck, with 27 sets logged across Amsterdam, Brussels and Milan. Often billed alongside Mankiyan, Hadone and Chris Ferreira. Next up: UMI, Brussels on Sat 24 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 24 Oct 2026 | UMI | Brussels |
 | Sat, 24 Oct 2026 | UMI | Brussels |
 
 ## Recently played

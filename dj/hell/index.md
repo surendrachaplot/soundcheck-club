@@ -18,7 +18,7 @@ DJ Hell is a techno and house artist tracked on soundcheck, with 129 sets logged
 | Sat, 24 Oct 2026 | Momem - Museum of Modern Electronic Music | Frankfurt |
 | Fri, 30 Oct 2026 | NUMBER 90 LONDON | London |
 | Sat, 31 Oct 2026 | OST | Berlin |
-| Sat, 28 Nov 2026 | TBA | Berlin |
+| Sat, 28 Nov 2026 | DSTRKT Club Berlin | Berlin |
 
 ## Recently played
 

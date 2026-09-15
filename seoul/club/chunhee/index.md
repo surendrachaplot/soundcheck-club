@@ -1,6 +1,6 @@
 # Chunhee
 
-Chunhee is a music venue in Seoul with 1 upcoming night listed on soundcheck as of Tue, 15 Sept 2026; the next is "GIALLO" on Fri, 18 Sept 2026.
+Chunhee is a music venue in Seoul with 1 upcoming night listed on soundcheck as of Tue, 15 Sept 2026; the next is "MADTING PRESENTS: GIALLO" on Fri, 18 Sept 2026.
 
 Chunhee is a music venue in Seoul listed on soundcheck. 1 upcoming night, with line-ups including MAZE (KR) and Mixtre$$. Browse upcoming dates, start times and who's playing. B1, 193, Seongmisan-ro, Mapo-gu, Seoul, 03981.
 
@@ -8,7 +8,7 @@ Chunhee is a music venue in Seoul listed on soundcheck. 1 upcoming night, with l
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 18 Sept 2026 | GIALLO | MAZE (KR), Mixtre$$ |
+| Fri, 18 Sept 2026 | MADTING PRESENTS: GIALLO | MAZE (KR), Mixtre$$ |
 
 ## Address
 

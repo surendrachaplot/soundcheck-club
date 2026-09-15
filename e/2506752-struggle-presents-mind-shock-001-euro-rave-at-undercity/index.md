@@ -1,6 +1,6 @@
 # STRUGGLE PRESENTS - MIND SHOCK #001 EURO RAVE at UNDERCITY
 
-STRUGGLE PRESENTS - MIND SHOCK #001 EURO RAVE at UNDERCITY on Sat 17 Oct, Seoul. 3 acts on the bill: Bagagee Viphex13, K4NCIIO and SONGPANCAKE. Drum & Bass and Psytrance. Preview the line-up and save it on soundcheck.
+STRUGGLE PRESENTS - MIND SHOCK #001 EURO RAVE at UNDERCITY on Sat 17 Oct, Seoul. 4 acts on the bill: Bagagee Viphex13, JAMIEST, K4NCIIO and SONGPANCAKE. Drum & Bass and Psytrance. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,6 +11,7 @@ STRUGGLE PRESENTS - MIND SHOCK #001 EURO RAVE at UNDERCITY on Sat 17 Oct, Seoul.
 ## Line-up
 
 - Bagagee Viphex13
+- JAMIEST
 - K4NCIIO
 - SONGPANCAKE
 

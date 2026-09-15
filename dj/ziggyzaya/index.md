@@ -1,14 +1,15 @@
 # ZIGGY ZAYA
 
-ZIGGY ZAYA is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 15 Sept 2026, next at Sound Machine, Toronto on Fri, 18 Sept 2026.
+ZIGGY ZAYA is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Tue, 15 Sept 2026, next at Sound Machine, Toronto on Fri, 18 Sept 2026.
 
-ZIGGY ZAYA is a techno and house artist tracked on soundcheck, with 27 sets logged across Portland, Toronto and Vancouver. Often billed alongside Fisher Bryce, AVRY and PM. Next up: Sound Machine, Toronto on Fri 18 Sept.
+ZIGGY ZAYA is a techno and house artist tracked on soundcheck, with 28 sets logged across Portland, Toronto and Vancouver. Often billed alongside Fisher Bryce, AVRY and PM. Next up: Sound Machine, Toronto on Fri 18 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 18 Sept 2026 | Sound Machine | Toronto |
+| Sat, 3 Oct 2026 | TBA - East Van location  | Vancouver |
 
 ## Recently played
 

@@ -1,6 +1,6 @@
 # HALOGEN at Mitsuki
 
-HALOGEN at Mitsuki on Wed 16 Sept, Tokyo. 3 acts on the bill: HIMAWARI, Ko Umehara and KOPY. Techno and House. Preview the line-up and save it on soundcheck.
+HALOGEN at Mitsuki on Wed 16 Sept, Tokyo. 4 acts on the bill: HIMAWARI, Ko Umehara, KOPY and nano odorine. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -13,5 +13,6 @@ HALOGEN at Mitsuki on Wed 16 Sept, Tokyo. 3 acts on the bill: HIMAWARI, Ko Umeha
 - HIMAWARI
 - Ko Umehara
 - KOPY
+- nano odorine
 
 *Source: [soundcheck](https://soundcheck.club/e/2537200-halogen-at-mitsuki/)*

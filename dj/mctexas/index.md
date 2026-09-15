@@ -1,13 +1,14 @@
 # MC Texas
 
-MC Texas is a Drum & Bass and Jungle artist with 1 upcoming club date listed on soundcheck as of Tue, 15 Sept 2026, next at The Prospect Building, Bristol on Fri, 4 Dec 2026.
+MC Texas is a Drum & Bass and Jungle artist with 2 upcoming club dates listed on soundcheck as of Tue, 15 Sept 2026, next at The Prospect Building, Bristol on Sat, 14 Nov 2026.
 
-MC Texas is a drum & bass and jungle artist based in United Kingdom, tracked on soundcheck, with 10 sets logged across Berlin, Bristol and London. Often billed alongside Carasel, Flava D and Fred V. Next up: The Prospect Building, Bristol on Fri 4 Dec.
+MC Texas is a drum & bass and jungle artist based in United Kingdom, tracked on soundcheck, with 11 sets logged across Berlin, Bristol and London. Often billed alongside Carasel, Flava D and Anaïs. Next up: The Prospect Building, Bristol on Sat 14 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 14 Nov 2026 | The Prospect Building | Bristol |
 | Fri, 4 Dec 2026 | The Prospect Building | Bristol |
 
 ## Recently played
@@ -23,6 +24,6 @@ MC Texas is a drum & bass and jungle artist based in United Kingdom, tracked on 
 
 ## Shares bills with
 
-Carasel, Flava D, Fred V
+Carasel, Flava D, Anaïs
 
 *Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mctexas/)*

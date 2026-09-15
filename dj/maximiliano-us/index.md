@@ -9,8 +9,8 @@ MAXIMILIANO (US) is a house and deep house artist tracked on soundcheck, with 18
 | Date | Venue | City |
 | --- | --- | --- |
 | Tue, 15 Sept 2026 | City Hall | Barcelona |
-| Wed, 16 Sept 2026 | Eighteenth Street Lounge (ESL) | Washington DC |
 | Sat, 19 Sept 2026 | Eighteenth Street Lounge (ESL) | Washington DC |
+| Wed, 23 Sept 2026 | Eighteenth Street Lounge (ESL) | Washington DC |
 | Sat, 26 Sept 2026 | Eighteenth Street Lounge (ESL) | Washington DC |
 
 ## Recently played

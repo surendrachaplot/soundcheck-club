@@ -1,13 +1,14 @@
 # Backseat Driver
 
-Backseat Driver is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 15 Sept 2026, next at Gut Level, Sheffield on Sat, 12 Dec 2026.
+Backseat Driver is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Tue, 15 Sept 2026, next at Grub Records, Sheffield on Thu, 17 Sept 2026.
 
-Backseat Driver is a house and techno artist tracked on soundcheck, with 12 sets logged across Brisbane and Sheffield. Often billed alongside Paniolo, Bubbles (UK) and Bethan. Next up: Gut Level, Sheffield on Sat 12 Dec.
+Backseat Driver is a house and techno artist tracked on soundcheck, with 13 sets logged across Brisbane and Sheffield. Often billed alongside Paniolo, Bubbles (UK) and Bethan. Next up: Grub Records, Sheffield on Thu 17 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Thu, 17 Sept 2026 | Grub Records | Sheffield |
 | Sat, 12 Dec 2026 | Gut Level | Sheffield |
 
 ## Recently played

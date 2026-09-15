@@ -9,7 +9,7 @@ Continental is a music venue in Brussels listed on soundcheck. 2 upcoming nights
 | Date | Night | Line-up |
 | --- | --- | --- |
 | Fri, 18 Sept 2026 | Drum & Beer #42 : Liquid, Deep & more w/ Miss Elorak, Boycot & Madlock, Cynical Gene, MC D-Bro | Cellarman |
-| Sat, 19 Sept 2026 | Drum & Beer x Næbula: Nætwork & Party - Varied DnB | Cellarman |
+| Sat, 24 Oct 2026 | Drum & Beer x Næbula: Nætwork & Party - Varied DnB | Cellarman |
 
 ## Address
 

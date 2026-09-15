@@ -1,8 +1,8 @@
 # LFO.exp
 
-LFO.exp is a music venue in Madrid with 6 upcoming nights listed on soundcheck as of Tue, 15 Sept 2026; the next is "Evolve x Karne" on Fri, 18 Sept 2026.
+LFO.exp is a music venue in Madrid with 7 upcoming nights listed on soundcheck as of Tue, 15 Sept 2026; the next is "Evolve x Karne" on Fri, 18 Sept 2026.
 
-LFO.exp is a music venue in Madrid listed on soundcheck. 6 upcoming nights, with line-ups including Abdulla A., Alinka, Atrice and Avo (ES) and 2 more. Browse upcoming dates, start times and who's playing. Secret Location.
+LFO.exp is a music venue in Madrid listed on soundcheck. 7 upcoming nights, with line-ups including Abdulla A., Alinka, Atrice and Avo (ES) and 2 more. Browse upcoming dates, start times and who's playing. Secret Location.
 
 ## What's on
 
@@ -14,6 +14,7 @@ LFO.exp is a music venue in Madrid listed on soundcheck. 6 upcoming nights, with
 | Sat, 26 Sept 2026 | RRADIAL AFTERPARTY at LFO.XP |  |
 | Fri, 2 Oct 2026 | Mediums | Abdulla A., Avo (ES), Deceit, Jorge Padilla |
 | Fri, 9 Oct 2026 | EN1GMACLUB | Alinka, FUKCNORMAL, Wurmk, lesbiannette |
+| Sat, 31 Oct 2026 | Halloween Extended Tricks by Quinoa, 99PN, Wonderkids & Baguette Magique | Chris Gorrie, Le Nomad, Moulin, Taxi Drivers, Valium |
 
 ## Address
 

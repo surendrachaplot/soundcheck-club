@@ -1,14 +1,15 @@
 # Queermom
 
-Queermom is a Techno and Club artist with 1 upcoming club date listed on soundcheck as of Tue, 15 Sept 2026, next at F8 1192 Folsom, San Francisco/Oakland on Sat, 19 Sept 2026.
+Queermom is a Techno and Club artist with 2 upcoming club dates listed on soundcheck as of Tue, 15 Sept 2026, next at F8 1192 Folsom, San Francisco/Oakland on Sat, 19 Sept 2026.
 
-Queermom is a techno and club artist based in United States of America, tracked on soundcheck, with 26 sets logged across Sanfrancisco. Often billed alongside Discnogirl, RITCHRD and Tom Marsi. Next up: F8 1192 Folsom, Sanfrancisco on Sat 19 Sept.
+Queermom is a techno and club artist based in United States of America, tracked on soundcheck, with 27 sets logged across Sanfrancisco. Often billed alongside Discnogirl, RITCHRD and Tom Marsi. Next up: F8 1192 Folsom, Sanfrancisco on Sat 19 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 19 Sept 2026 | F8 1192 Folsom | San Francisco/Oakland |
+| Fri, 23 Oct 2026 | Monarch | San Francisco/Oakland |
 
 ## Recently played
 

@@ -9,7 +9,7 @@ Café Café Bar Amsterdam is a music venue in Amsterdam listed on soundcheck. 4 
 | Date | Night | Line-up |
 | --- | --- | --- |
 | Thu, 22 Oct 2026 | Hyperactive World Amsterdam at ADE |  |
-| Fri, 23 Oct 2026 | Together Alone x ADE | 25EMEHEURE, ANXHELA, ECZODIA, KAAI, KØZLØV, LESSSS, NORO$T, OMAKS |
+| Fri, 23 Oct 2026 | Together Alone x ADE | 25EMEHEURE, ANXHELA, ECZODIA, KAAI, KØZLØV, LESSSS, Majes, NORO$T, OMAKS |
 | Fri, 23 Oct 2026 | D'EAUPE Amsterdam | Shermanology |
 | Sat, 24 Oct 2026 | Alien Communications x Craigie Knowes ADE with DJ Masda, Reptant & Luna Ludmila | Alien Communications, Craigie Knowes, DJ Masda, Luna Ludmila, Reptant |
 

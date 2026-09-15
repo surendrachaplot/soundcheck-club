@@ -1,8 +1,8 @@
 # Adi
 
-Adi is a House and Electro artist with 4 upcoming club dates listed on soundcheck as of Tue, 15 Sept 2026, next at UMI, Brussels on Sat, 19 Sept 2026.
+Adi is a House and Electro artist with 5 upcoming club dates listed on soundcheck as of Tue, 15 Sept 2026, next at UMI, Brussels on Sat, 19 Sept 2026.
 
-Adi is a house and electro artist tracked on soundcheck, with 38 sets logged across Amsterdam, Barcelona, Berlin and Brussels and 9 more. Often billed alongside DJ Rino, Fais Le Beau and SVS (1). Next up: UMI, Brussels on Sat 19 Sept.
+Adi is a house and electro artist tracked on soundcheck, with 39 sets logged across Amsterdam, Barcelona, Berlin and Brussels and 10 more. Often billed alongside DJ Rino, Fais Le Beau and SVS (1). Next up: UMI, Brussels on Sat 19 Sept.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ Adi is a house and electro artist tracked on soundcheck, with 38 sets logged acr
 | Sat, 19 Sept 2026 | UMI | Brussels |
 | Fri, 2 Oct 2026 | Les Enfants Brillants | Barcelona |
 | Fri, 9 Oct 2026 | Berghain / Panorama Bar / Säule | Berlin |
+| Fri, 30 Oct 2026 | The Loft | Manchester |
 | Sat, 21 Nov 2026 | TBA - Brussels | Brussels |
 
 ## Recently played

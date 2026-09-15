@@ -11,7 +11,7 @@
 | Fri, 2 Oct 2026 | FORGE | Sheffield |
 | Sat, 3 Oct 2026 | TBA - Vogrie Country Park | Edinburgh |
 | Fri, 9 Oct 2026 | O2 Academy Leeds | Leeds |
-| Sat, 10 Oct 2026 | Quarters | Brighton |
+| Fri, 16 Oct 2026 | Quarters | Brighton |
 | Sat, 31 Oct 2026 | The Prospect Building | Bristol |
 | Sat, 21 Nov 2026 | Depot Mayfield | Manchester |
 

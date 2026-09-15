@@ -10,7 +10,7 @@ Dahlia Stereo is a music venue in Manchester listed on soundcheck. 9 upcoming ni
 | --- | --- | --- |
 | Thu, 17 Sept 2026 | DAHLIA STEREO with SKINSHAPE (DJ set) |  |
 | Thu, 24 Sept 2026 | DAHLIA STEREO with Jamz Supernova (LP launch) & Strategy | Jamz Supernova |
-| Sat, 26 Sept 2026 | Dahlia Stereo: Wicked Can't Run with Miss Jackson & Timo-G | Laura Jackson, Timo-G |
+| Sat, 26 Sept 2026 | Dahlia Stereo: Wicked Can't Run with Sarah Sweeney, Lil' Minx, Miss Jackson & Timo-G | Laura Jackson, Lil' Minx, Sarah Sweeney, Timo-G |
 | Thu, 1 Oct 2026 | DAHLIA STEREO with Quantic (DJ set) | Quantic |
 | Thu, 15 Oct 2026 | DAHLIA STEREO with Gia Fu (Manchester debut) | Gia Fu |
 | Sat, 31 Oct 2026 | DAHLIA STEREO HALLOWEEN with COCO MARÍA | Coco Maria |

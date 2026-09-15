@@ -9,7 +9,7 @@ Toldi Klub is a music venue in Budapest listed on soundcheck. 14 upcoming nights
 | Date | Night | Line-up |
 | --- | --- | --- |
 | Fri, 18 Sept 2026 | MAJO // TOLDI | Sobek |
-| Fri, 18 Sept 2026 | MAJO - Dj Syncbutton + Maron - Geopard Tourist - Sobek ~ TOLDI |  |
+| Fri, 18 Sept 2026 | MAJO - Dj Syncbutton + Maron - Geopard Tourist - Sobek ~ TOLDI | DJ Syncbutton, Maron, Sobek |
 | Sat, 19 Sept 2026 | POPSHE - millennials are back |  |
 | Fri, 25 Sept 2026 | 14 YEARS OF TOLDI | KOBANYA3000, Kin Teal, Maron, Mirmur, SLYM, szoliver |
 | Sat, 26 Sept 2026 | Vad leszel vagy vadász? // TOLDI |  |

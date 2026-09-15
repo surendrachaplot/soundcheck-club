@@ -1,8 +1,8 @@
 # Stefan Meser
 
-Stefan Meser is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Tue, 15 Sept 2026, next at BASIS, Utrecht on Fri, 30 Oct 2026.
+Stefan Meser is a House and Tech House artist with 3 upcoming club dates listed on soundcheck as of Tue, 15 Sept 2026, next at BASIS, Utrecht on Fri, 30 Oct 2026.
 
-Stefan Meser is a house and tech house artist tracked on soundcheck, with 20 sets logged across Amsterdam, Dusseldorf, Rotterdam and Thehague and 1 more. Often billed alongside Karim Soliman, SANTØS and Ammé. Next up: BASIS, Utrecht on Fri 30 Oct.
+Stefan Meser is a house and tech house artist tracked on soundcheck, with 21 sets logged across Amsterdam, Dusseldorf, Rotterdam and Thehague and 1 more. Often billed alongside Karim Soliman, SANTØS and Ammé. Next up: BASIS, Utrecht on Fri 30 Oct.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Stefan Meser is a house and tech house artist tracked on soundcheck, with 20 set
 | --- | --- | --- |
 | Fri, 30 Oct 2026 | BASIS | Utrecht |
 | Sat, 31 Oct 2026 | Maassilo | Rotterdam |
+| Sun, 8 Nov 2026 | Thuishaven | Amsterdam |
 
 ## Recently played
 

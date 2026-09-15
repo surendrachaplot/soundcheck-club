@@ -1,8 +1,8 @@
 # Robert Leiner
 
-Robert Leiner is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Tue, 15 Sept 2026, next at Y Club Discoteca, Barcelona on Sat, 19 Sept 2026.
+Robert Leiner is a Electronica and Club artist with 3 upcoming club dates listed on soundcheck as of Tue, 15 Sept 2026, next at Y Club Discoteca, Barcelona on Sat, 19 Sept 2026.
 
-Robert Leiner is a techno and trance artist tracked on soundcheck, with 9 sets logged across Barcelona, Berlin, Copenhagen and London and 2 more. Often billed alongside Aba Shanti-I, Ancient Methods and Andi. Next up: Y Club Discoteca, Barcelona on Sat 19 Sept.
+Robert Leiner is an electronica and club artist tracked on soundcheck, with 10 sets logged across Barcelona, Berlin, Copenhagen and London and 3 more. Often billed alongside Aba Shanti-I, Ancient Methods and Andi. Next up: Y Club Discoteca, Barcelona on Sat 19 Sept.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Robert Leiner is a techno and trance artist tracked on soundcheck, with 9 sets l
 | --- | --- | --- |
 | Sat, 19 Sept 2026 | Y Club Discoteca | Barcelona |
 | Fri, 30 Oct 2026 | Berghain / Panorama Bar / Säule | Berlin |
+| Sat, 21 Nov 2026 | Lasociaciøn | Madrid |
 
 ## Recently played
 

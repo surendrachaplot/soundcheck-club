@@ -1,14 +1,15 @@
 # Simon TK
 
-Simon TK is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 15 Sept 2026, next at Solace, Melbourne on Thu, 24 Sept 2026.
+Simon TK is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Tue, 15 Sept 2026, next at Solace, Melbourne on Thu, 24 Sept 2026.
 
-Simon TK is a house and techno artist tracked on soundcheck, with 37 sets logged across Bangkok, Berlin, Hobart and Hongkong and 3 more. Often billed alongside Hannah D, Edd Fisher and Activator (AU). Next up: Solace, Melbourne on Thu 24 Sept.
+Simon TK is a house and techno artist tracked on soundcheck, with 38 sets logged across Bangkok, Berlin, Hobart and Hongkong and 3 more. Often billed alongside Hannah D, Edd Fisher and Activator (AU). Next up: Solace, Melbourne on Thu 24 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Thu, 24 Sept 2026 | Solace | Melbourne |
+| Fri, 16 Oct 2026 | Miscellania | Melbourne |
 
 ## Recently played
 

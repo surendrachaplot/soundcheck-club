@@ -1,14 +1,15 @@
 # PALA10
 
-PALA10 is a Dub and Bass artist with 2 upcoming club dates listed on soundcheck as of Tue, 15 Sept 2026, next at La Fabriek, Brussels on Fri, 9 Oct 2026.
+PALA10 is a Dub and Bass artist with 3 upcoming club dates listed on soundcheck as of Tue, 15 Sept 2026, next at La Fabriek, Brussels on Fri, 9 Oct 2026.
 
-PALA10 is a dub and bass artist based in Belgium, tracked on soundcheck, with 21 sets logged across Amsterdam, Antwerp, Brussels and Ghent. Often billed alongside Casper, EliseThere and Erykah. Next up: La Fabriek, Brussels on Fri 9 Oct.
+PALA10 is a dub and bass artist based in Belgium, tracked on soundcheck, with 22 sets logged across Amsterdam, Antwerp, Brussels and Ghent. Often billed alongside Casper, EliseThere and Erykah. Next up: La Fabriek, Brussels on Fri 9 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 9 Oct 2026 | La Fabriek | Brussels |
+| Fri, 16 Oct 2026 | Amigo | Ghent |
 | Sat, 21 Nov 2026 | TBA - Brussels | Brussels |
 
 ## Recently played

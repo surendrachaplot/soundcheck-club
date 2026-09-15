@@ -1,14 +1,15 @@
 # A L P H A B E T
 
-A L P H A B E T is a music venue in Brighton with 1 upcoming night listed on soundcheck as of Tue, 15 Sept 2026; the next is "The OFFIE MAG Social" on Fri, 18 Sept 2026.
+A L P H A B E T is a music venue in Brighton with 2 upcoming nights listed on soundcheck as of Tue, 15 Sept 2026; the next is "The OFFIE MAG Social" on Fri, 18 Sept 2026.
 
-A L P H A B E T is a music venue in Brighton listed on soundcheck. 1 upcoming night, with line-ups including OFFIE MAG DJs. Browse upcoming dates, start times and who's playing. 11 Dyke Road.  Brighton.  BN1 3FE.  UK..
+A L P H A B E T is a music venue in Brighton listed on soundcheck. 2 upcoming nights, with line-ups including OFFIE MAG DJs and Yesca. Browse upcoming dates, start times and who's playing. 11 Dyke Road.  Brighton.  BN1 3FE.  UK..
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
 | Fri, 18 Sept 2026 | The OFFIE MAG Social | OFFIE MAG DJs |
+| Sat, 17 Oct 2026 | THIS. presents: Yesca | Yesca |
 
 ## Address
 

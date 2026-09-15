@@ -1,6 +1,6 @@
 # Tasho Ishi performing the 'T2' at WWW
 
-Tasho Ishi performing the 'T2' at WWW on Thu 17 Sept, Tokyo. 2 acts on the bill: Takao and Tasho Ishi. Trance and Electronica. Preview the line-up and save it on soundcheck.
+Tasho Ishi performing the 'T2' at WWW on Thu 17 Sept, Tokyo. 3 acts on the bill: nano odorine, Takao and Tasho Ishi. Trance and Electronica. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ Tasho Ishi performing the 'T2' at WWW on Thu 17 Sept, Tokyo. 2 acts on the bill:
 
 ## Line-up
 
+- nano odorine
 - Takao
 - Tasho Ishi
 

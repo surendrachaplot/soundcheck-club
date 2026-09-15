@@ -1,8 +1,8 @@
 # DJ Godfather
 
-DJ Godfather is a Techno and Electro artist with 7 upcoming club dates listed on soundcheck as of Tue, 15 Sept 2026, next at Fort Mifflin, Philadelphia on Fri, 18 Sept 2026.
+DJ Godfather is a Techno and Electro artist with 8 upcoming club dates listed on soundcheck as of Tue, 15 Sept 2026, next at Fort Mifflin, Philadelphia on Fri, 18 Sept 2026.
 
-DJ Godfather is a techno and electro artist tracked on soundcheck, with 77 sets logged across Amsterdam, Antwerp, Berlin and Boston and 17 more. Often billed alongside Sheefy McFly, Disc Jockey George and Stacey Hotwaxx Hale. Next up: Fort Mifflin, Philadelphia on Fri 18 Sept.
+DJ Godfather is a techno and electro artist tracked on soundcheck, with 78 sets logged across Amsterdam, Antwerp, Berlin and Boston and 18 more. Often billed alongside Sheefy McFly, Disc Jockey George and Stacey Hotwaxx Hale. Next up: Fort Mifflin, Philadelphia on Fri 18 Sept.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ DJ Godfather is a techno and electro artist tracked on soundcheck, with 77 sets 
 | --- | --- | --- |
 | Fri, 18 Sept 2026 | Fort Mifflin | Philadelphia |
 | Fri, 2 Oct 2026 | TBA - Downtown LA | Los Angeles |
+| Sat, 3 Oct 2026 | 3oz Dive Club | San Diego |
 | Fri, 9 Oct 2026 | BASIS | Utrecht |
 | Sat, 10 Oct 2026 | Eventhuset | Stockholm |
 | Fri, 16 Oct 2026 | Mana Wynwood | Miami |

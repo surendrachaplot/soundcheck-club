@@ -1,8 +1,8 @@
 # Dixon
 
-Dixon is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Tue, 15 Sept 2026, next at Scorpios, Mykonos on Thu, 17 Sept 2026.
+Dixon is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Tue, 15 Sept 2026, next at Scorpios, Mykonos on Thu, 17 Sept 2026.
 
-Dixon is a house and techno artist tracked on soundcheck, with 187 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 50 more. Often billed alongside Jimi Jules, Âme and Trikk. Next up: Scorpios, Mykonos on Thu 17 Sept.
+Dixon is a house and techno artist tracked on soundcheck, with 188 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 50 more. Often billed alongside Jimi Jules, Âme and Trikk. Next up: Scorpios, Mykonos on Thu 17 Sept.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Dixon is a house and techno artist tracked on soundcheck, with 187 sets logged a
 | --- | --- | --- |
 | Thu, 17 Sept 2026 | Scorpios | Mykonos |
 | Fri, 18 Sept 2026 | Forte Antenne | Rome |
+| Sun, 11 Oct 2026 | The Garage | Madrid |
 | Sat, 31 Oct 2026 | Brooklyn Storehouse | New York City |
 
 ## Recently played

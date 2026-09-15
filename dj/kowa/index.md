@@ -1,14 +1,15 @@
 # Kowa
 
-Kowa is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 15 Sept 2026, next at STK 47 WAREHOUSE, Krakow on Sat, 19 Sept 2026.
+Kowa is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Tue, 15 Sept 2026, next at STK 47 WAREHOUSE, Krakow on Sat, 19 Sept 2026.
 
-Kowa is a techno and house artist tracked on soundcheck, with 47 sets logged across Krakow, Rome and Sydney. Often billed alongside not so pro, Aetha and A.C.. Next up: STK 47 WAREHOUSE, Krakow on Sat 19 Sept.
+Kowa is a techno and house artist tracked on soundcheck, with 48 sets logged across Krakow, Rome and Sydney. Often billed alongside not so pro, Aetha and A.C.. Next up: STK 47 WAREHOUSE, Krakow on Sat 19 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 19 Sept 2026 | STK 47 WAREHOUSE | Krakow |
+| Fri, 25 Sept 2026 | STK 47 WAREHOUSE | Krakow |
 
 ## Recently played
 

@@ -1,14 +1,16 @@
 # Anatta Sound
 
-Anatta Sound is a Dub and Dubstep artist with 1 upcoming club date listed on soundcheck as of Tue, 15 Sept 2026, next at The Hifi Club, Leeds on Thu, 24 Sept 2026.
+Anatta Sound is a Dub and Dubstep artist with 3 upcoming club dates listed on soundcheck as of Tue, 15 Sept 2026, next at The Vinyl Whistle, Leeds on Sat, 19 Sept 2026.
 
-Anatta Sound is a dub and dubstep artist tracked on soundcheck, with 7 sets logged across Leeds. Often billed alongside Buckley (UK), Gimme A Break and Krotone. Next up: The Hifi Club, Leeds on Thu 24 Sept.
+Anatta Sound is a dub and dubstep artist tracked on soundcheck, with 9 sets logged across Leeds. Often billed alongside Buckley (UK), Being One and Gimme A Break. Next up: The Vinyl Whistle, Leeds on Sat 19 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 19 Sept 2026 | The Vinyl Whistle | Leeds |
 | Thu, 24 Sept 2026 | The Hifi Club | Leeds |
+| Sat, 31 Oct 2026 | Rock n Roll Circus | Leeds |
 
 ## Recently played
 
@@ -21,6 +23,6 @@ Anatta Sound is a dub and dubstep artist tracked on soundcheck, with 7 sets logg
 
 ## Shares bills with
 
-Buckley (UK), Gimme A Break, Krotone
+Buckley (UK), Being One, Gimme A Break
 
 *Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/anattasound/)*

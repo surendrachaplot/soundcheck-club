@@ -10,7 +10,7 @@ André Galluzzi is a house and techno artist tracked on soundcheck, with 73 sets
 | --- | --- | --- |
 | Sun, 25 Oct 2026 | Waterhouse Studios | Amsterdam |
 | Sat, 31 Oct 2026 | Berghain / Panorama Bar / Säule | Berlin |
-| Sat, 28 Nov 2026 | TBA | Berlin |
+| Sat, 28 Nov 2026 | DSTRKT Club Berlin | Berlin |
 
 ## Recently played
 

@@ -15,7 +15,7 @@ DNA. CLUB is a music venue in Berlin listed on soundcheck. 16 upcoming nights, w
 | Sun, 20 Sept 2026 | FREE ENTRY: 'Playground' Open Stage: Community OPEN AIR at DNA. CLUB: Jazz & House DJ Sets |  |
 | Thu, 24 Sept 2026 | FREE ENTRY: Live Music Jam Session & DJ Sets Community OPEN AIR |  |
 | Fri, 25 Sept 2026 | VEKTOR | BEJA, Brane, Mattone, Squaric, TBA, Tinco, Zokiren |
-| Sat, 26 Sept 2026 | TOILET SESSION SECOND ANNIVERSARY: BLCK SWAN INVITES | Alex Friday, BELLAHONEYBB, Blck-Swan, Conntex, DJ KILLING, Davide Santoro, Gigi Galante, LUV.DELUXE, Pablo Espinal |
+| Sat, 26 Sept 2026 | TOILET SESSION SECOND ANNIVERSARY: BLCK SWAN INVITES | Alex Friday, BELLAHONEYBB, Blck-Swan, Claudio Zanon, Conntex, DJ KILLING, Davide Santoro, Gigi Galante, LUV.DELUXE, Pablo Espinal |
 | Sat, 26 Sept 2026 | FREE ENTRY: Connect & RAVE: Community OPEN AIR at DNA. CLUB: Tech House, Techno & Bounce |  |
 | Sun, 27 Sept 2026 | FREE ENTRY: 'Playground' Open Stage: Community OPEN AIR at DNA. CLUB: Jazz & House DJ Sets |  |
 

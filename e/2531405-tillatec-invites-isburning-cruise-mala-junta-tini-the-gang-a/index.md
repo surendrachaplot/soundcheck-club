@@ -1,6 +1,6 @@
 # TILLATEC invites IsBurning, Cruise, Mala Junta, tINI & THE GANG at TILLATEC
 
-TILLATEC invites IsBurning, Cruise, Mala Junta, tINI & THE GANG on Sat 24 Oct, Amsterdam. House and Tech House. Preview the line-up and save it on soundcheck.
+TILLATEC invites IsBurning, Cruise, Mala Junta, tINI & THE GANG on Sat 24 Oct, Amsterdam. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

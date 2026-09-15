@@ -1,6 +1,6 @@
 # THE NIGHT SHIFT: RAVE IN AID OF PIETA at The Sound House
 
-THE NIGHT SHIFT: RAVE IN AID OF PIETA at The Sound House on Thu 17 Sept, Dublin. 3 acts on the bill: Bláthnaid, eskay and SMS (IE). Trance and Techno. Preview the line-up and save it on soundcheck.
+THE NIGHT SHIFT: RAVE IN AID OF PIETA at The Sound House on Thu 17 Sept, Dublin. 4 acts on the bill: Bláthnaid, cälpol, eskay and SMS (IE). Trance and Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,6 +11,7 @@ THE NIGHT SHIFT: RAVE IN AID OF PIETA at The Sound House on Thu 17 Sept, Dublin.
 ## Line-up
 
 - Bláthnaid
+- cälpol
 - eskay
 - SMS (IE)
 

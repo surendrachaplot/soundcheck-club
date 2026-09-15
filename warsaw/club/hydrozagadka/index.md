@@ -9,7 +9,7 @@ Hydrozagadka is a music venue in Warsaw listed on soundcheck. 5 upcoming nights,
 | Date | Night | Line-up |
 | --- | --- | --- |
 | Fri, 18 Sept 2026 | Senyawa, Everything is Psychedelic, Ryosuke Kiyasu, GORZ - Avant Art Festival |  |
-| Sat, 19 Sept 2026 | feeo, Lol K, Key Asc, dj neurospicy - Avant Art | Key Asc, Lol K, dj neurospicy, feeo |
+| Fri, 18 Sept 2026 | feeo, Lol K, Key Asc, dj neurospicy - Avant Art | Key Asc, Lol K, dj neurospicy, feeo |
 | Sun, 11 Oct 2026 | Krallice - Avant Art Festival |  |
 | Fri, 16 Oct 2026 | Dead Bob (ex NoMeansNo) |  |
 | Fri, 11 Dec 2026 | ARK: Myd | Myd |

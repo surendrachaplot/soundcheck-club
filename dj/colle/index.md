@@ -1,13 +1,14 @@
 # Collé
 
-Collé is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Tue, 15 Sept 2026, next at WestWeelde, Amsterdam on Sat, 24 Oct 2026.
+Collé is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Tue, 15 Sept 2026, next at The Whisper Room, Singapore on Fri, 25 Sept 2026.
 
-Collé is a house and techno artist based in Netherlands, tracked on soundcheck, with 47 sets logged across Amsterdam, Bali, Barcelona and Brussels and 10 more. Often billed alongside Hedda Stenberg, Mees Salomé and Bedouin. Next up: WestWeelde, Amsterdam on Sat 24 Oct.
+Collé is a house and techno artist based in Netherlands, tracked on soundcheck, with 48 sets logged across Amsterdam, Bali, Barcelona and Brussels and 10 more. Often billed alongside Hedda Stenberg, Mees Salomé and Bedouin. Next up: The Whisper Room, Singapore on Fri 25 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 25 Sept 2026 | The Whisper Room | Singapore |
 | Sat, 24 Oct 2026 | WestWeelde | Amsterdam |
 | Sun, 25 Oct 2026 | Crane Hotel Faralda | Amsterdam |
 

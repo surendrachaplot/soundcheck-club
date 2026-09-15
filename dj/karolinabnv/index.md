@@ -1,14 +1,15 @@
 # Karolina Bnv
 
-Karolina Bnv is a House and Italo Disco artist with 1 upcoming club date listed on soundcheck as of Tue, 15 Sept 2026, next at OXI, Berlin on Sat, 19 Sept 2026.
+Karolina Bnv is a House and Italo Disco artist with 2 upcoming club dates listed on soundcheck as of Tue, 15 Sept 2026, next at OXI, Berlin on Sat, 19 Sept 2026.
 
-Karolina Bnv is a house and italo disco artist tracked on soundcheck, with 52 sets logged across Amsterdam, Berlin, Hamburg and Milan and 2 more. Often billed alongside Franz Scala, Lennart (NL) and Max NRG Supply. Next up: OXI, Berlin on Sat 19 Sept.
+Karolina Bnv is a house and italo disco artist tracked on soundcheck, with 53 sets logged across Amsterdam, Berlin, Hamburg and Milan and 2 more. Often billed alongside Franz Scala, Lennart (NL) and Max NRG Supply. Next up: OXI, Berlin on Sat 19 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 19 Sept 2026 | OXI | Berlin |
+| Thu, 8 Oct 2026 | Sameheads | Berlin |
 
 ## Recently played
 

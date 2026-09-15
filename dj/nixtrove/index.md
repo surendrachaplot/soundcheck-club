@@ -1,8 +1,8 @@
 # Nixtrove
 
-Nixtrove is a Experimental and Ambient artist with 2 upcoming club dates listed on soundcheck as of Tue, 15 Sept 2026, next at RAUM RESONANZ KÖRPER (RRK), Munich on Thu, 1 Oct 2026.
+Nixtrove is a Ambient and Experimental artist with 2 upcoming club dates listed on soundcheck as of Tue, 15 Sept 2026, next at RAUM RESONANZ KÖRPER (RRK), Munich on Thu, 1 Oct 2026.
 
-Nixtrove is an experimental and ambient artist tracked on soundcheck, with 12 sets logged across Brussels, Losangeles, Montreal and Munich and 2 more. Often billed alongside Neo Edo, gonima and indek. Next up: RAUM RESONANZ KÖRPER (RRK), Munich on Thu 1 Oct.
+Nixtrove is an ambient and experimental artist tracked on soundcheck, with 12 sets logged across Brussels, Losangeles, Montreal and Munich and 2 more. Often billed alongside Neo Edo, gonima and indek. Next up: RAUM RESONANZ KÖRPER (RRK), Munich on Thu 1 Oct.
 
 ## Upcoming shows
 

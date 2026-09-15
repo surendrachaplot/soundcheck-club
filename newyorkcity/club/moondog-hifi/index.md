@@ -1,8 +1,8 @@
 # Moondog Hifi
 
-Moondog Hifi is a music venue in New York City with 7 upcoming nights listed on soundcheck as of Tue, 15 Sept 2026; the next is "Deep Listening" on Tue, 15 Sept 2026.
+Moondog Hifi is a music venue in New York City with 8 upcoming nights listed on soundcheck as of Tue, 15 Sept 2026; the next is "Deep Listening" on Tue, 15 Sept 2026.
 
-Moondog Hifi is a music venue in Newyorkcity listed on soundcheck. 7 upcoming nights, with line-ups including Derek Russo, Elon, Kimby (US) and Lauren Ritter. Browse upcoming dates, start times and who's playing. 119 Ingraham Street, Brooklyn, NY 11237.
+Moondog Hifi is a music venue in Newyorkcity listed on soundcheck. 8 upcoming nights, with line-ups including Derek Russo, Elon, Kimby (US) and Lauren Ritter. Browse upcoming dates, start times and who's playing. 119 Ingraham Street, Brooklyn, NY 11237.
 
 ## What's on
 
@@ -13,6 +13,7 @@ Moondog Hifi is a music venue in Newyorkcity listed on soundcheck. 7 upcoming ni
 | Thu, 17 Sept 2026 | Opendeck presents: Spin City |  |
 | Fri, 18 Sept 2026 | Lower East Record Club: Evan Ranking Saez + Kimby + Silk | Kimby (US) |
 | Sat, 19 Sept 2026 | Lauren Ritter + Camilla | Lauren Ritter |
+| Sun, 20 Sept 2026 | Deep Listening |  |
 | Fri, 25 Sept 2026 | Elon | Elon |
 | Thu, 8 Oct 2026 | Derek Russo | Derek Russo |
 

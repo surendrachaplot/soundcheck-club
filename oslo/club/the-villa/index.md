@@ -9,7 +9,7 @@ The Villa is a music venue in Oslo listed on soundcheck. 8 upcoming nights, with
 | Date | Night | Line-up |
 | --- | --- | --- |
 | Fri, 18 Sept 2026 | Objekt (DE / PAN) + Simon Tyv + Anémi (FLUX) | Anémi, Objekt, Simon Tyv |
-| Sat, 19 Sept 2026 | Finnebassen - All night | Finnebassen |
+| Sat, 19 Sept 2026 | Finnebassen - All night + Maia Drachen | Finnebassen |
 | Fri, 25 Sept 2026 | Fragments pres. Decoder (US) | Aydin Imani, Decoder, Franko |
 | Sat, 26 Sept 2026 | Bjørn Torkse + SONOKI (JP) | Bjørn Torske, SONOKI |
 | Fri, 2 Oct 2026 | MCR-T (DE) & MRD | MCR-T, MRD (NO) |

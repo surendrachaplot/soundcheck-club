@@ -1,13 +1,14 @@
 # Toro
 
-Toro is a Techno and Afro House artist with 1 upcoming club date listed on soundcheck as of Tue, 15 Sept 2026, next at TRANSMISSION DC, Washington DC on Fri, 2 Oct 2026.
+Toro is a Techno and Acid artist with 2 upcoming club dates listed on soundcheck as of Tue, 15 Sept 2026, next at City Hall, Barcelona on Wed, 23 Sept 2026.
 
-Toro is a techno and afro house artist tracked on soundcheck, with 5 sets logged across Kualalumpur, Lisbon, Madrid and Mexicocity and 1 more. Often billed alongside Blank, CFCF and Cadeem LaMarr. Next up: TRANSMISSION DC, Washingtondc on Fri 2 Oct.
+Toro is a techno and acid artist tracked on soundcheck, with 6 sets logged across Barcelona, Kualalumpur, Lisbon and Madrid and 2 more. Often billed alongside Blank, CFCF and Cadeem LaMarr. Next up: City Hall, Barcelona on Wed 23 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Wed, 23 Sept 2026 | City Hall | Barcelona |
 | Fri, 2 Oct 2026 | TRANSMISSION DC | Washington DC |
 
 ## Recently played

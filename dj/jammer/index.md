@@ -1,13 +1,14 @@
 # Jammer
 
-Jammer is a House and Grime artist with 1 upcoming club date listed on soundcheck as of Tue, 15 Sept 2026, next at DRUMSHEDS, London on Sat, 17 Oct 2026.
+Jammer is a House and Grime artist with 2 upcoming club dates listed on soundcheck as of Tue, 15 Sept 2026, next at Basing House, London on Fri, 9 Oct 2026.
 
-Jammer is a house and grime artist tracked on soundcheck, with 22 sets logged across Ibiza, London, Malaga and Malta and 4 more. Often billed alongside Skepta, Meeshy and Ossie. Next up: DRUMSHEDS, London on Sat 17 Oct.
+Jammer is a house and grime artist tracked on soundcheck, with 23 sets logged across Ibiza, London, Malaga and Malta and 4 more. Often billed alongside Skepta, Meeshy and Ossie. Next up: Basing House, London on Fri 9 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 9 Oct 2026 | Basing House | London |
 | Sat, 17 Oct 2026 | DRUMSHEDS | London |
 
 ## Recently played

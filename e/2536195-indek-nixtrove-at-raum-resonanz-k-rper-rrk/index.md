@@ -1,6 +1,6 @@
 # indek & Nixtrove at RAUM RESONANZ KÖRPER (RRK)
 
-indek & Nixtrove at RAUM RESONANZ KÖRPER (RRK) on Thu 1 Oct, Munich. 2 acts on the bill: indek and Nixtrove. Experimental and Electronica. Preview the line-up and save it on soundcheck.
+indek & Nixtrove at RAUM RESONANZ KÖRPER (RRK) on Thu 1 Oct, Munich. 2 acts on the bill: indek and Nixtrove. Breakcore and Electronica. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

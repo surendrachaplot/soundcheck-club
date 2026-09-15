@@ -1,14 +1,13 @@
 # The Flea Theater
 
-The Flea Theater is a music venue in New York City with 23 upcoming nights listed on soundcheck as of Tue, 15 Sept 2026; the next is "BEYOND THE STARDUST" on Tue, 15 Sept 2026.
+The Flea Theater is a music venue in New York City with 22 upcoming nights listed on soundcheck as of Tue, 15 Sept 2026; the next is "BEYOND THE STARDUST" on Wed, 16 Sept 2026.
 
-The Flea Theater is a music venue in Newyorkcity listed on soundcheck. 23 upcoming nights, with line-ups including Daniro, Naija Couture and The Illustrious Blacks. Browse upcoming dates, start times and who's playing. 20 Thomas St, New York, NY 10007.
+The Flea Theater is a music venue in Newyorkcity listed on soundcheck. 22 upcoming nights, with line-ups including Daniro, Naija Couture and The Illustrious Blacks. Browse upcoming dates, start times and who's playing. 20 Thomas St, New York, NY 10007.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Tue, 15 Sept 2026 | BEYOND THE STARDUST | The Illustrious Blacks |
 | Wed, 16 Sept 2026 | BEYOND THE STARDUST | Daniro, The Illustrious Blacks |
 | Thu, 17 Sept 2026 | BEYOND THE STARDUST | Naija Couture, The Illustrious Blacks |
 | Sat, 19 Sept 2026 | BEYOND THE STARDUST | The Illustrious Blacks |
@@ -18,6 +17,7 @@ The Flea Theater is a music venue in Newyorkcity listed on soundcheck. 23 upcomi
 | Sat, 26 Sept 2026 | BEYOND THE STARDUST | The Illustrious Blacks |
 | Sun, 27 Sept 2026 | BEYOND THE STARDUST | The Illustrious Blacks |
 | Wed, 30 Sept 2026 | BEYOND THE STARDUST | The Illustrious Blacks |
+| Thu, 1 Oct 2026 | BEYOND THE STARDUST | The Illustrious Blacks |
 
 ## Address
 

@@ -1,6 +1,6 @@
 # The Jama
 
-The Jama is a music venue in Toronto with 5 upcoming nights listed on soundcheck as of Tue, 15 Sept 2026; the next is "RAVE DUNGEON: SEXMP3, JIYNX, MAXXX, PARTEHARDY" on Fri, 18 Sept 2026.
+The Jama is a music venue in Toronto with 5 upcoming nights listed on soundcheck as of Tue, 15 Sept 2026; the next is "DUNGEON RAVE: SEXMP3, JIYNX, MAXXX, PARTEHARDY" on Fri, 18 Sept 2026.
 
 The Jama is a music venue in Toronto listed on soundcheck. 5 upcoming nights, with line-ups including Ariel Zetina, Blkvirgo, Disthene and dj miss and 2 more. Browse upcoming dates, start times and who's playing. 961 College Street.
 
@@ -8,7 +8,7 @@ The Jama is a music venue in Toronto listed on soundcheck. 5 upcoming nights, wi
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 18 Sept 2026 | RAVE DUNGEON: SEXMP3, JIYNX, MAXXX, PARTEHARDY | JIYNX, Maxxxxxx, SEXMP3 |
+| Fri, 18 Sept 2026 | DUNGEON RAVE: SEXMP3, JIYNX, MAXXX, PARTEHARDY | JIYNX, Maxxxxxx, SEXMP3 |
 | Sat, 19 Sept 2026 | ✧ Zoomies ✧ | Ariel Zetina, Ester Shiner, Kai (TO), Saigon Prince Hotel, dj miss, myst milano. |
 | Fri, 25 Sept 2026 | Patrick Codenys of Front 242 and Rhys Fulber of FRONT LINE ASSEMBLY | Disthene, Front 242, R-ODERICK, Rhys Fulber |
 | Fri, 16 Oct 2026 | forever night 4......dedication |  |

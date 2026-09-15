@@ -1,6 +1,6 @@
 # SINCERELY: UNDERGROUND at Hart Bar
 
-SINCERELY: UNDERGROUND at Hart Bar on Fri 18 Sept, Newyorkcity. 5 acts on the bill: Adelaide (1), Christinathesaintt, kuntress and Nyah Cami and 1 more. Club and Ghetto Tech. Preview the line-up and save it on soundcheck.
+SINCERELY: UNDERGROUND at Hart Bar on Fri 18 Sept, Newyorkcity. 6 acts on the bill: Adelaide (1), Christinathesaintt, Elysian (1) and kuntress and 2 more. Club and Ghetto Tech. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -12,6 +12,7 @@ SINCERELY: UNDERGROUND at Hart Bar on Fri 18 Sept, Newyorkcity. 5 acts on the bi
 
 - Adelaide (1)
 - Christinathesaintt
+- Elysian (1)
 - kuntress
 - Nyah Cami
 - zzzzach

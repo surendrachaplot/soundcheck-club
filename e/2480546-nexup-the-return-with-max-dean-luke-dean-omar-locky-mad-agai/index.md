@@ -1,6 +1,6 @@
 # NEXUP: The Return with Max Dean, Luke Dean, Omar+, Locky, Mad.Again, Ellia Jaya + more at DRUMSHEDS
 
-NEXUP: The Return with Max Dean, Luke Dean, Omar+, Locky, Mad.Again, Ellia Jaya + more at DRUMSHEDS on Sat 3 Oct, London. 11 acts on the bill: Benji King, Ellia Jaya, Joss Dean and Locky and 7 more. House and Tech House. Preview the line-up and save it on soundcheck.
+NEXUP: The Return with Max Dean, Luke Dean, Omar+, Locky, Mad.Again, Ellia Jaya + more at DRUMSHEDS on Sat 3 Oct, London. 14 acts on the bill: Benji King, Ellia Jaya, Joe Rolét and Joss Dean and 10 more. House and Tech House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -12,13 +12,16 @@ NEXUP: The Return with Max Dean, Luke Dean, Omar+, Locky, Mad.Again, Ellia Jaya 
 
 - Benji King
 - Ellia Jaya
+- Joe Rolét
 - Joss Dean
 - Locky
+- Luke Dean_
 - Mad.Again (2)
 - Mason Cooper
 - Max Dean
 - Omar+
 - Ozzie Guven
+- Phill de Janeiro
 - Summer Ghemati
 - Tommy Phillips
 

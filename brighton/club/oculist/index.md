@@ -1,14 +1,15 @@
 # Oculist
 
-Oculist is a music venue in Brighton with 3 upcoming nights listed on soundcheck as of Tue, 15 Sept 2026; the next is "Charlie Bureau (All Day Long)" on Sat, 19 Sept 2026.
+Oculist is a music venue in Brighton with 4 upcoming nights listed on soundcheck as of Tue, 15 Sept 2026; the next is "Charlie Bureau (All Day Long)" on Sat, 19 Sept 2026.
 
-Oculist is a music venue in Brighton listed on soundcheck. 3 upcoming nights, with line-ups including SKYE.7.7.7. Browse upcoming dates, start times and who's playing. 2 Boyce's St, Brighton BN1 1AN.
+Oculist is a music venue in Brighton listed on soundcheck. 4 upcoming nights, with line-ups including SKYE.7.7.7. Browse upcoming dates, start times and who's playing. 2 Boyce's St, Brighton BN1 1AN.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
 | Sat, 19 Sept 2026 | Charlie Bureau (All Day Long) |  |
+| Sat, 19 Sept 2026 | We Bought A Garage |  |
 | Thu, 24 Sept 2026 | Freaky Freshers | SKYE.7.7.7 |
 | Fri, 25 Sept 2026 | Southern Grooves + Sub Has Set - presents: Send of the Road |  |
 

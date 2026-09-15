@@ -1,8 +1,8 @@
 # elipamanoke
 
-elipamanoke is a music venue in Leipzig with 13 upcoming nights listed on soundcheck as of Tue, 15 Sept 2026; the next is "between x FORM Kollektiv" on Wed, 16 Sept 2026.
+elipamanoke is a music venue in Leipzig with 15 upcoming nights listed on soundcheck as of Tue, 15 Sept 2026; the next is "between x FORM Kollektiv" on Wed, 16 Sept 2026.
 
-elipamanoke is a music venue in Leipzig listed on soundcheck. 13 upcoming nights, with line-ups including :MUMM, adamoandiamo, Aender and Aio and 2 more. Browse upcoming dates, start times and who's playing. Markranstädter Straße 4, 04229 Leipzig.
+elipamanoke is a music venue in Leipzig listed on soundcheck. 15 upcoming nights, with line-ups including :MUMM, Acid Goldee, adamoandiamo and Aender and 2 more. Browse upcoming dates, start times and who's playing. Markranstädter Straße 4, 04229 Leipzig.
 
 ## What's on
 

@@ -1,13 +1,14 @@
 # Franczesko
 
-Franczesko is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Tue, 15 Sept 2026, next at MONKEY LOVE, Warsaw on Fri, 18 Sept 2026.
+Franczesko is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Tue, 15 Sept 2026, next at MONKEY LOVE, Warsaw on Fri, 18 Sept 2026.
 
-Franczesko is a house and disco artist tracked on soundcheck, with 4 sets logged across Warsaw. Often billed alongside Jellin, Easy Audio and Krukman. Next up: MONKEY LOVE, Warsaw on Fri 18 Sept.
+Franczesko is a house and disco artist tracked on soundcheck, with 5 sets logged across Warsaw. Often billed alongside Easy Audio, Jellin and Krukman. Next up: MONKEY LOVE, Warsaw on Fri 18 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 18 Sept 2026 | MONKEY LOVE | Warsaw |
 | Fri, 18 Sept 2026 | MONKEY LOVE | Warsaw |
 
 ## Recently played
@@ -18,6 +19,6 @@ Franczesko is a house and disco artist tracked on soundcheck, with 4 sets logged
 
 ## Shares bills with
 
-Jellin, Easy Audio, Krukman
+Easy Audio, Jellin, Krukman
 
 *Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/Franczesko/)*

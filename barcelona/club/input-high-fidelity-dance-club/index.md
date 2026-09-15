@@ -10,7 +10,7 @@ INPUT High Fidelity Dance Club is a music venue in Barcelona listed on soundchec
 | --- | --- | --- |
 | Fri, 18 Sept 2026 | PRISM pres Adiel | Adiel, Hitch |
 | Sat, 19 Sept 2026 | INPUT pres Schrotthagen | Schrotthagen |
-| Wed, 23 Sept 2026 | ONíRICA pres Colyn | Colyn, Rivellino |
+| Wed, 23 Sept 2026 | ONíRICA pres Colyn | Colyn, LIZA., Rivellino |
 | Fri, 25 Sept 2026 | LOAD pres Harvy Valencia | ART NO LOGIA, Harvy Valencia, Jorgesyn, VITO (UK) |
 | Sat, 26 Sept 2026 | PRISM & NOIZER pres Len Faki | Flug, Hitch, Len Faki, Ronze |
 | Fri, 2 Oct 2026 | SWING pres ÜBERKIKZ & SHDW | Hades PRX, SHDW, ÜBERKIKZ |

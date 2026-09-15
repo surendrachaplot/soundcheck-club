@@ -1,6 +1,6 @@
 # Rewild x TAXI CLUB X Simian at Simian
 
-Rewild x TAXI CLUB X Simian on Sat 26 Sept, Copenhagen. 6 acts on the bill: Alfredo92, ELLE FIERCE, Lolina and Nova Varnrable and 2 more. Experimental and Club. Preview the line-up and save it on soundcheck.
+Rewild x TAXI CLUB X Simian on Sat 26 Sept, Copenhagen. 8 acts on the bill: Alfredo92, ELLE FIERCE, Inga Copeland and Lolina and 4 more. Experimental and Club. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -12,8 +12,10 @@ Rewild x TAXI CLUB X Simian on Sat 26 Sept, Copenhagen. 6 acts on the bill: Alfr
 
 - Alfredo92
 - ELLE FIERCE
+- Inga Copeland
 - Lolina
 - Nova Varnrable
+- Otis (BE)
 - Otis (CA)
 - Suzie The Cockroach
 

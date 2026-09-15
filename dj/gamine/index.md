@@ -1,13 +1,14 @@
 # Gamine
 
-Gamine is a House and Electro artist with 1 upcoming club date listed on soundcheck as of Tue, 15 Sept 2026, next at UMI, Brussels on Sat, 24 Oct 2026.
+Gamine is a House and Electro artist with 2 upcoming club dates listed on soundcheck as of Tue, 15 Sept 2026, next at UMI, Brussels on Sat, 24 Oct 2026.
 
-Gamine is a house and electro artist based in Belgium, tracked on soundcheck, with 26 sets logged across Antwerp, Brussels, Ghent and Lisbon and 4 more. Often billed alongside Maito, DJ Rino and Kuba'97. Next up: UMI, Brussels on Sat 24 Oct.
+Gamine is a house and electro artist based in Belgium, tracked on soundcheck, with 27 sets logged across Antwerp, Brussels, Ghent and Lisbon and 4 more. Often billed alongside Maito, DJ Rino and Kuba'97. Next up: UMI, Brussels on Sat 24 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 24 Oct 2026 | UMI | Brussels |
 | Sat, 24 Oct 2026 | UMI | Brussels |
 
 ## Recently played

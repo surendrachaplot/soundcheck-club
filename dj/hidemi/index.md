@@ -1,14 +1,15 @@
 # hidemi
 
-hidemi is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Tue, 15 Sept 2026, next at Akabane Enab, Tokyo on Fri, 18 Sept 2026.
+hidemi is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Tue, 15 Sept 2026, next at Akabane Enab, Tokyo on Fri, 18 Sept 2026.
 
-hidemi is a techno and house artist based in Japan, tracked on soundcheck, with 144 sets logged across Osaka and Tokyo. Often billed alongside Takami, cosmolady and Yamariki. Next up: Akabane Enab, Tokyo on Fri 18 Sept.
+hidemi is a techno and house artist based in Japan, tracked on soundcheck, with 145 sets logged across Osaka and Tokyo. Often billed alongside Takami, cosmolady and Yamariki. Next up: Akabane Enab, Tokyo on Fri 18 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 18 Sept 2026 | Akabane Enab | Tokyo |
+| Thu, 24 Sept 2026 | BRAND SHIBUYA | Tokyo |
 | Sat, 26 Sept 2026 | or | Tokyo |
 
 ## Recently played

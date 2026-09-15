@@ -15,7 +15,7 @@ Quarters is a music venue in Brighton listed on soundcheck. 18 upcoming nights, 
 | Sat, 3 Oct 2026 | Chicane | Chicane |
 | Sat, 3 Oct 2026 | Delta Heavy | Delta Heavy |
 | Fri, 9 Oct 2026 | SuperCharged presents Amplify & Basstripper | Basstripper |
-| Sat, 10 Oct 2026 | 4am Kru + Jolie P + more TBA | 4am Kru |
+| Fri, 16 Oct 2026 | 4am Kru + Jolie P + more TBA | 4am Kru |
 | Sat, 17 Oct 2026 | Notion | Notion, Osmosis Jones |
 | Sat, 17 Oct 2026 | ECHO — Ibiza Closing-Party Energy | Jody Wisternoff, Joey Hertz, Lizzie Curious, Nelson Reis |
 

@@ -1,8 +1,8 @@
 # Brunello
 
-Brunello is a House and Techno artist with 6 upcoming club dates listed on soundcheck as of Tue, 15 Sept 2026, next at Knockdown Center, New York City on Sun, 20 Sept 2026.
+Brunello is a House and Techno artist with 7 upcoming club dates listed on soundcheck as of Tue, 15 Sept 2026, next at Knockdown Center, New York City on Sun, 20 Sept 2026.
 
-Brunello is a house and techno artist based in United States of America, tracked on soundcheck, with 12 sets logged across Amsterdam, Austin, Chicago and Ibiza and 5 more. Often billed alongside VTSS, Beltran and Ben Sterling. Next up: Knockdown Center, Newyorkcity on Sun 20 Sept.
+Brunello is a house and techno artist based in United States of America, tracked on soundcheck, with 13 sets logged across Amsterdam, Austin, Chicago and Ibiza and 5 more. Often billed alongside VTSS, Beltran and Ben Sterling. Next up: Knockdown Center, Newyorkcity on Sun 20 Sept.
 
 ## Upcoming shows
 
@@ -12,6 +12,7 @@ Brunello is a house and techno artist based in United States of America, tracked
 | Sat, 26 Sept 2026 | TBA - Pier 80 | San Francisco/Oakland |
 | Fri, 16 Oct 2026 | Mana Wynwood | Miami |
 | Sat, 24 Oct 2026 | Taets Art & Event Park | Amsterdam |
+| Sat, 31 Oct 2026 | Ace*Mission Studios | Los Angeles |
 | Fri, 13 Nov 2026 | The Concourse Project | Austin |
 | Fri, 20 Nov 2026 | Duggal Greenhouse | New York City |
 

@@ -1,8 +1,8 @@
 # Vladimir Ivkovic
 
-Vladimir Ivkovic is a Techno and House artist with 12 upcoming club dates listed on soundcheck as of Tue, 15 Sept 2026, next at Fort Mifflin, Philadelphia on Fri, 18 Sept 2026.
+Vladimir Ivkovic is a Techno and House artist with 13 upcoming club dates listed on soundcheck as of Tue, 15 Sept 2026, next at Fort Mifflin, Philadelphia on Fri, 18 Sept 2026.
 
-Vladimir Ivkovic is a techno and house artist tracked on soundcheck, with 209 sets logged across Amsterdam, Athens, Auckland and Bali and 60 more. Often billed alongside Lena Willikens, Ivan Smagghe and Ben UFO. Next up: Fort Mifflin, Philadelphia on Fri 18 Sept.
+Vladimir Ivkovic is a techno and house artist tracked on soundcheck, with 210 sets logged across Amsterdam, Athens, Auckland and Bali and 60 more. Often billed alongside Lena Willikens, Ivan Smagghe and Ben UFO. Next up: Fort Mifflin, Philadelphia on Fri 18 Sept.
 
 ## Upcoming shows
 
@@ -16,10 +16,10 @@ Vladimir Ivkovic is a techno and house artist tracked on soundcheck, with 209 se
 | Fri, 2 Oct 2026 | Gaffe | London |
 | Sat, 10 Oct 2026 | La Cheetah Club | Glasgow |
 | Fri, 16 Oct 2026 | TBA | Detroit |
+| Sun, 18 Oct 2026 | Flash | Washington DC |
 | Fri, 23 Oct 2026 | Kapsule | Liverpool |
 | Fri, 30 Oct 2026 | Nowadays | New York City |
 | Sun, 15 Nov 2026 | Burger Disco Club | Athens |
-| Sat, 21 Nov 2026 | Cadavra | Madrid |
 
 ## Recently played
 

@@ -1,14 +1,15 @@
 # Pjenné
 
-Pjenné is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Tue, 15 Sept 2026, next at Astron Club, Athens on Fri, 18 Sept 2026.
+Pjenné is a Techno and Tech House artist with 2 upcoming club dates listed on soundcheck as of Tue, 15 Sept 2026, next at Astron Club, Athens on Fri, 18 Sept 2026.
 
-Pjenné is a techno and tech house artist tracked on soundcheck, with 75 sets logged across Amsterdam, Athens, Berlin and London and 5 more. Often billed alongside Millú, Andy Hart and Hybrid Man. Next up: Astron Club, Athens on Fri 18 Sept.
+Pjenné is a techno and tech house artist tracked on soundcheck, with 76 sets logged across Amsterdam, Athens, Berlin and London and 5 more. Often billed alongside Millú, Andy Hart and Hybrid Man. Next up: Astron Club, Athens on Fri 18 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 18 Sept 2026 | Astron Club | Athens |
+| Sat, 5 Dec 2026 | Club 77 | Sydney |
 
 ## Recently played
 

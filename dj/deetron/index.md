@@ -1,8 +1,8 @@
 # Deetron
 
-Deetron is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Tue, 15 Sept 2026, next at Chinois Ibiza, Ibiza on Thu, 17 Sept 2026.
+Deetron is a House and Techno artist with 6 upcoming club dates listed on soundcheck as of Tue, 15 Sept 2026, next at Chinois Ibiza, Ibiza on Thu, 17 Sept 2026.
 
-Deetron is a techno and house artist tracked on soundcheck, with 56 sets logged across Amsterdam, Antwerp, Belfast and Berlin and 25 more. Often billed alongside Zenker Brothers, SG Lewis and AMMARA. Next up: Chinois Ibiza, Ibiza on Thu 17 Sept.
+Deetron is a house and techno artist tracked on soundcheck, with 57 sets logged across Amsterdam, Antwerp, Belfast and Berlin and 25 more. Often billed alongside Zenker Brothers, SG Lewis and AMMARA. Next up: Chinois Ibiza, Ibiza on Thu 17 Sept.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ Deetron is a techno and house artist tracked on soundcheck, with 56 sets logged 
 | Thu, 17 Sept 2026 | Chinois Ibiza | Ibiza |
 | Sat, 19 Sept 2026 | Motel Campo | Geneva |
 | Sat, 3 Oct 2026 | KALT | Strasbourg |
+| Sat, 3 Oct 2026 | Frankhan Selectist | Istanbul |
 | Sat, 17 Oct 2026 | EL SÓTANO | Madrid |
 | Sat, 31 Oct 2026 | The Cause | London |
 

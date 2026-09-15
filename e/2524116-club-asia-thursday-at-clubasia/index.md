@@ -1,6 +1,6 @@
 # club asia THURSDAY at clubasia
 
-club asia THURSDAY at clubasia on Thu 24 Sept, Tokyo. 3 acts on the bill: AMIDAdrive, savezearth and YELLOWUHURU. Techno and Electro. Preview the line-up and save it on soundcheck.
+club asia THURSDAY at clubasia on Thu 24 Sept, Tokyo. 4 acts on the bill: AMIDAdrive, nano odorine, savezearth and YELLOWUHURU. Techno and Electro. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,6 +11,7 @@ club asia THURSDAY at clubasia on Thu 24 Sept, Tokyo. 3 acts on the bill: AMIDAd
 ## Line-up
 
 - AMIDAdrive
+- nano odorine
 - savezearth
 - YELLOWUHURU
 

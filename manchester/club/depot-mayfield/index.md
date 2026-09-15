@@ -8,7 +8,7 @@ Depot Mayfield is a music venue in Manchester listed on soundcheck. 20 upcoming 
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 18 Sept 2026 | KI/KI Manchester | KI/KI |
+| Fri, 18 Sept 2026 | KI/KI Manchester | KI/KI, Niamh (2), SALOME, X CLUB. |
 | Sat, 19 Sept 2026 | WHP26 /// Rampa  &ME (Keinemusik) | &ME, Rampa |
 | Fri, 25 Sept 2026 | WHP presents: Solomun | Solomun |
 | Sat, 26 Sept 2026 | HOMOBLOC | ALCATRAZ, ARMANA KHAN, Aiden Francis, BASHKKA, Banksie, COBRAH, DJ Gigola, DJ Paulette, Dandy, Danny Tenaglia, Derrick Carter, Erol Alkan, Fat Tony, Fattony, Gina Breeze, Girls Don't Sync, Guy Williams, Hannah Holland, Honey Dijon, Horse Meat Disco, I. JORDAN, ISAbella, Jamie Bull, Job Jobse, LSDXOXO, Lady Shaka, Lill, Luca Eck, MCR-T, Meg10, Miss Bashful, Moxie, Palms Trax, Peach, Perra Inmunda, Ponyboy, Saoirse, Shanti Celeste, Shimrise, T4T B2B |

@@ -1,14 +1,15 @@
 # Daniel Lien
 
-Daniel Lien is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 15 Sept 2026, next at Collect LX Factory, Lisbon on Fri, 16 Oct 2026.
+Daniel Lien is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Tue, 15 Sept 2026, next at Collect LX Factory, Lisbon on Fri, 16 Oct 2026.
 
-Daniel Lien is a house and techno artist based in Sweden, tracked on soundcheck, with 25 sets logged across Berlin, Lisbon and Stockholm. Often billed alongside Nico O'Konor, Elless & Benn and Flord King. Next up: Collect LX Factory, Lisbon on Fri 16 Oct.
+Daniel Lien is a house and techno artist based in Sweden, tracked on soundcheck, with 26 sets logged across Berlin, Lisbon and Stockholm. Often billed alongside Nico O'Konor, Elless & Benn and Flord King. Next up: Collect LX Factory, Lisbon on Fri 16 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 16 Oct 2026 | Collect LX Factory | Lisbon |
+| Sat, 24 Oct 2026 | Under Bron | Stockholm |
 
 ## Recently played
 

@@ -11,7 +11,7 @@ Aoyama Hachi is a music venue in Tokyo listed on soundcheck. 17 upcoming nights,
 | Wed, 16 Sept 2026 | HISS |  |
 | Thu, 17 Sept 2026 | DOTS | Naoki Iwata, TKS1T, Yoshiki Aoyama |
 | Fri, 18 Sept 2026 | CULTURE CLUB | 35DH-1, DJ Yogurt, Katz 25, ODD, YU-MA |
-| Sat, 19 Sept 2026 | End of summer with VRIJ | Peter Bruno, Ruling Planet, frndj |
+| Sat, 19 Sept 2026 | End of summer with VRIJ | Peter Bruno, Ruling Planet, SG Sound Collective, frndj |
 | Tue, 22 Sept 2026 | 極楽 -GOKURAKU- | ANiIIIIiiiKii, KEI_DJ, Riku Takahashi, SINZIN, YouForgot |
 | Fri, 25 Sept 2026 | Jazz'N'Bass -Drum'n'Bass174/87 & Jazzy Jungle | EIJI, Kenta Tominaga, vinylDJ Eiji Takehana |
 | Sun, 27 Sept 2026 | Motion | Anri (2), Fox (US), KUBOTA, RReona, SIGNAL (JP), TAIYO (2) |

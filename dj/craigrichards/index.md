@@ -1,8 +1,8 @@
 # Craig Richards
 
-Craig Richards is a House and Techno artist with 6 upcoming club dates listed on soundcheck as of Tue, 15 Sept 2026, next at Sub Club, Glasgow on Sat, 19 Sept 2026.
+Craig Richards is a House and Techno artist with 7 upcoming club dates listed on soundcheck as of Tue, 15 Sept 2026, next at Sub Club, Glasgow on Sat, 19 Sept 2026.
 
-Craig Richards is a house and techno artist tracked on soundcheck, with 155 sets logged across Amsterdam, Barcelona, Berlin and Bristol and 28 more. Often billed alongside Bobby., Francesco Del Garda and Christian AB. Next up: Sub Club, Glasgow on Sat 19 Sept.
+Craig Richards is a house and techno artist tracked on soundcheck, with 156 sets logged across Amsterdam, Barcelona, Berlin and Bristol and 28 more. Often billed alongside Bobby., Francesco Del Garda and Christian AB. Next up: Sub Club, Glasgow on Sat 19 Sept.
 
 ## Upcoming shows
 
@@ -13,6 +13,7 @@ Craig Richards is a house and techno artist tracked on soundcheck, with 155 sets
 | Fri, 25 Sept 2026 | Mint XL | Leeds |
 | Sat, 17 Oct 2026 | fabric | London |
 | Thu, 22 Oct 2026 | Klaproos | Amsterdam |
+| Fri, 23 Oct 2026 | Het Salon | Amsterdam |
 | Sun, 25 Oct 2026 | RADION | Amsterdam |
 
 ## Recently played

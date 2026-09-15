@@ -8,7 +8,7 @@ Hart Bar is a music venue in Newyorkcity listed on soundcheck. 3 upcoming nights
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 18 Sept 2026 | SINCERELY: UNDERGROUND | Adelaide (1), Christinathesaintt, Nyah Cami, kuntress, zzzzach |
+| Fri, 18 Sept 2026 | SINCERELY: UNDERGROUND | Adelaide (1), Christinathesaintt, Elysian (1), Nyah Cami, kuntress, zzzzach |
 | Sat, 19 Sept 2026 | FOOTWORK FALL | LeCamille, Love Higher, SELEKTRA, WADDLE, satandoll |
 | Sat, 26 Sept 2026 | Club Mustang: FREAKQUENCIES | Actual Angel, Brutal Twink, boy_c0ded, esme2k |
 

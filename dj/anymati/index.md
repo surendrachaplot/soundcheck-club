@@ -1,13 +1,14 @@
 # anymati
 
-anymati is a Experimental and Baile Funk artist with 1 upcoming club date listed on soundcheck as of Tue, 15 Sept 2026, next at K-Bar Powiśle, Warsaw on Fri, 25 Sept 2026.
+anymati is a Electronica and Club artist with 2 upcoming club dates listed on soundcheck as of Tue, 15 Sept 2026, next at Chmury, Warsaw on Sun, 20 Sept 2026.
 
-anymati is an experimental and baile funk artist tracked on soundcheck, with 38 sets logged across Warsaw. Often billed alongside czuly, monia.mp3 and dj neurospicy. Next up: K-Bar Powiśle, Warsaw on Fri 25 Sept.
+anymati is an electronica and club artist tracked on soundcheck, with 39 sets logged across Warsaw. Often billed alongside czuly, monia.mp3 and dj neurospicy. Next up: Chmury, Warsaw on Sun 20 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sun, 20 Sept 2026 | Chmury | Warsaw |
 | Fri, 25 Sept 2026 | K-Bar Powiśle | Warsaw |
 
 ## Recently played

@@ -15,7 +15,7 @@ Giri is a music venue in Berlin listed on soundcheck. 15 upcoming nights, with l
 | Fri, 25 Sept 2026 | Giri x Dimensionless Unity: Love To The World | Dimensionless Unity, Trent, Yas |
 | Sat, 26 Sept 2026 | Giri x Within (Film screening, Performance, Exhibition)  | Aunty Nora, Lixi, Sub Sahara, TBA, aya |
 | Thu, 1 Oct 2026 | Giri x Ritmo Lunatico |  |
-| Fri, 2 Oct 2026 | Giri x Childhood Intelligence |  |
+| Fri, 2 Oct 2026 | Giri x Childhood Intelligence | E.V.A, S-max |
 | Wed, 7 Oct 2026 | Giri x Club Tender (fka Tendersesh) for Tag Der Clubkultur |  |
 | Thu, 8 Oct 2026 | Giri x Freenetica |  |
 

@@ -1,8 +1,8 @@
 # Bok Bok
 
-Bok Bok is a Club and Bass artist with 4 upcoming club dates listed on soundcheck as of Tue, 15 Sept 2026, next at 83 Rivington Street, London on Thu, 17 Sept 2026.
+Bok Bok is a Club and Bass artist with 5 upcoming club dates listed on soundcheck as of Tue, 15 Sept 2026, next at 83 Rivington Street, London on Thu, 17 Sept 2026.
 
-Bok Bok is a club and bass artist tracked on soundcheck, with 79 sets logged across Amsterdam, Berlin, Bristol and Brussels and 22 more. Often billed alongside Ikonika, Girl Unit and Nico Adomako. Next up: 83 Rivington Street, London on Thu 17 Sept.
+Bok Bok is a club and bass artist tracked on soundcheck, with 80 sets logged across Amsterdam, Berlin, Bristol and Brussels and 22 more. Often billed alongside Ikonika, Girl Unit and Nico Adomako. Next up: 83 Rivington Street, London on Thu 17 Sept.
 
 ## Upcoming shows
 
@@ -12,6 +12,7 @@ Bok Bok is a club and bass artist tracked on soundcheck, with 79 sets logged acr
 | Sat, 19 Sept 2026 | Club Cheek | London |
 | Fri, 25 Sept 2026 | The Ground at Club Space | Miami |
 | Sat, 17 Oct 2026 | TBA - Haus Catz Warehouse | Denver |
+| Sat, 31 Oct 2026 | Hidden | Manchester |
 
 ## Recently played
 

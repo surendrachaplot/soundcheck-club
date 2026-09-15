@@ -1,6 +1,6 @@
 # Information: Kuba'97 (US Debut) + Amelia Holt + Jek b2b djfix + Screeb at TBA - Outdoor Gathering
 
-Information: Kuba'97 (US Debut) + Amelia Holt + Jek b2b djfix + Screeb at TBA - Outdoor Gathering on Sat 10 Oct, Newyorkcity. 5 acts on the bill: Amelia Holt, djfix, Jek (US) and Kuba'97 and 1 more. Trance and Techno. Preview the line-up and save it on soundcheck.
+Information: Kuba'97 (US Debut) + Amelia Holt + Jek b2b djfix + Screeb at TBA - Outdoor Gathering on Sat 10 Oct, Newyorkcity. 5 acts on the bill: Amelia Holt, djfix, Jek (US) and Kuba'97 and 1 more. Trance and Tech House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,8 +1,8 @@
 # Tin Tin
 
-Tin Tin is a House and Trance artist with 2 upcoming club dates listed on soundcheck as of Tue, 15 Sept 2026, next at 528 Ibiza, Ibiza on Tue, 15 Sept 2026.
+Tin Tin is a House and Trance artist with 3 upcoming club dates listed on soundcheck as of Tue, 15 Sept 2026, next at 528 Ibiza, Ibiza on Tue, 15 Sept 2026.
 
-Tin Tin is a house and trance artist based in United Kingdom, tracked on soundcheck, with 13 sets logged across Amsterdam, Ibiza, Leeds and London and 2 more. Often billed alongside Ralph Lawson, Ryan O Gorman and Alex Wolfenden. Next up: 528 Ibiza, Ibiza on Tue 15 Sept.
+Tin Tin is a house and trance artist based in United Kingdom, tracked on soundcheck, with 14 sets logged across Amsterdam, Ibiza, Leeds and London and 2 more. Often billed alongside Ralph Lawson, Ryan O Gorman and Alex Wolfenden. Next up: 528 Ibiza, Ibiza on Tue 15 Sept.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Tin Tin is a house and trance artist based in United Kingdom, tracked on soundch
 | --- | --- | --- |
 | Tue, 15 Sept 2026 | 528 Ibiza | Ibiza |
 | Sat, 19 Sept 2026 | Club04 | Zurich |
+| Fri, 23 Oct 2026 | Rijnbar | Amsterdam |
 
 ## Recently played
 

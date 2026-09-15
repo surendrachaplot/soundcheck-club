@@ -1,8 +1,8 @@
 # The Bongo Club
 
-The Bongo Club is a music venue in Edinburgh with 22 upcoming nights listed on soundcheck as of Tue, 15 Sept 2026; the next is "REDEMPTION // Freshers Takeover at Bongo Club" on Tue, 15 Sept 2026.
+The Bongo Club is a music venue in Edinburgh with 23 upcoming nights listed on soundcheck as of Tue, 15 Sept 2026; the next is "REDEMPTION // Freshers Takeover at Bongo Club" on Tue, 15 Sept 2026.
 
-The Bongo Club is a music venue in Edinburgh listed on soundcheck. 22 upcoming nights, with line-ups including FLIPSIDE., YVI, Becca Egan and Ben Kok (2) and 2 more. Browse upcoming dates, start times and who's playing. 66 Cowgate; Edinburgh, EH1 1JX;  Scotland; United Kingdom.
+The Bongo Club is a music venue in Edinburgh listed on soundcheck. 23 upcoming nights, with line-ups including FLIPSIDE., YVI, Becca Egan and Ben Kok (2) and 2 more. Browse upcoming dates, start times and who's playing. 66 Cowgate; Edinburgh, EH1 1JX;  Scotland; United Kingdom.
 
 ## What's on
 

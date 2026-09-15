@@ -1,8 +1,8 @@
 # davyboi
 
-davyboi is a Techno and Trance artist with 10 upcoming club dates listed on soundcheck as of Tue, 15 Sept 2026, next at Openluchttheater Amersfoort, Amsterdam on Fri, 18 Sept 2026.
+davyboi is a Techno and Trance artist with 11 upcoming club dates listed on soundcheck as of Tue, 15 Sept 2026, next at Openluchttheater Amersfoort, Amsterdam on Fri, 18 Sept 2026.
 
-davyboi is a techno and trance artist tracked on soundcheck, with 163 sets logged across Amsterdam, Antwerp, Barcelona and Basel and 33 more. Often billed alongside Cleopard2000, Mika Heggemann and Alba Franch. Next up: Openluchttheater Amersfoort, Amsterdam on Fri 18 Sept.
+davyboi is a techno and trance artist tracked on soundcheck, with 164 sets logged across Amsterdam, Antwerp, Barcelona and Basel and 33 more. Often billed alongside Cleopard2000, Mika Heggemann and Alba Franch. Next up: Openluchttheater Amersfoort, Amsterdam on Fri 18 Sept.
 
 ## Upcoming shows
 
@@ -12,6 +12,7 @@ davyboi is a techno and trance artist tracked on soundcheck, with 163 sets logge
 | Fri, 18 Sept 2026 | Bootshaus | Cologne |
 | Fri, 18 Sept 2026 | Bootshaus | Cologne |
 | Fri, 25 Sept 2026 | RSO.BERLIN | Berlin |
+| Fri, 2 Oct 2026 | MÄX | Zurich |
 | Fri, 23 Oct 2026 | Ndsm Wharf | Amsterdam |
 | Sun, 25 Oct 2026 | Thuishaven | Amsterdam |
 | Sat, 31 Oct 2026 | Werksviertel Mitte | Munich |

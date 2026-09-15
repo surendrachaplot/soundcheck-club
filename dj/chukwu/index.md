@@ -1,14 +1,15 @@
 # CHUKWU
 
-CHUKWU is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Tue, 15 Sept 2026, next at Alte Feuerwache THF, Berlin on Fri, 25 Sept 2026.
+CHUKWU is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Tue, 15 Sept 2026, next at Alte Feuerwache THF, Berlin on Fri, 25 Sept 2026.
 
-CHUKWU is a house and disco artist based in Germany, tracked on soundcheck, with 13 sets logged across Berlin and Losangeles. Often billed alongside Akirahawks, Dee Diggs and Immy. Next up: Alte Feuerwache THF, Berlin on Fri 25 Sept.
+CHUKWU is a house and disco artist based in Germany, tracked on soundcheck, with 14 sets logged across Berlin and Losangeles. Often billed alongside Akirahawks, Dee Diggs and Immy. Next up: Alte Feuerwache THF, Berlin on Fri 25 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 25 Sept 2026 | Alte Feuerwache THF | Berlin |
+| Fri, 9 Oct 2026 | Renate | Berlin |
 
 ## Recently played
 

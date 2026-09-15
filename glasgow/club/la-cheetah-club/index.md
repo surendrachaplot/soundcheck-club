@@ -16,7 +16,7 @@ La Cheetah Club is a music venue in Glasgow listed on soundcheck. 22 upcoming ni
 | Sun, 20 Sept 2026 | KEEP ON 3rd Birthday Party feat. Harrison Todd Live Balearic Jam | David Barbarossa, OOFT |
 | Wed, 23 Sept 2026 | MELODIA -> La Cheetah Club - NO PHONES | Burna UK, CRAIGP |
 | Thu, 24 Sept 2026 | Deep Purple: Jade Seatle | Arlo Duke, Jade Seatle |
-| Fri, 25 Sept 2026 | Midnight Bass 9th Birthday with Janaway (Up Ya Archives) | ArthurDnB, Janaway, SOLECTA |
+| Fri, 25 Sept 2026 | Midnight Bass 9th Birthday with Janaway (Up Ya Archives / Da Demolition Squad) | ArthurDnB, Janaway, SOLECTA |
 | Sat, 26 Sept 2026 | La Cheetah presents: Antal (All Night - 5 Hour Set) | Antal |
 
 ## Address

@@ -1,8 +1,8 @@
 # Carlos Souffront
 
-Carlos Souffront is a Techno and Acid artist with 6 upcoming club dates listed on soundcheck as of Tue, 15 Sept 2026, next at Fort Mifflin, Philadelphia on Fri, 18 Sept 2026.
+Carlos Souffront is a Techno and Acid artist with 7 upcoming club dates listed on soundcheck as of Tue, 15 Sept 2026, next at Fort Mifflin, Philadelphia on Fri, 18 Sept 2026.
 
-Carlos Souffront is a techno and acid artist tracked on soundcheck, with 108 sets logged across Austin, Belgrade, Berlin and Boston and 16 more. Often billed alongside Mike Servito, Patrick Russell and Derek Plaslaiko. Next up: Fort Mifflin, Philadelphia on Fri 18 Sept.
+Carlos Souffront is a techno and acid artist tracked on soundcheck, with 109 sets logged across Austin, Belgrade, Berlin and Boston and 16 more. Often billed alongside Mike Servito, Patrick Russell and Derek Plaslaiko. Next up: Fort Mifflin, Philadelphia on Fri 18 Sept.
 
 ## Upcoming shows
 
@@ -14,6 +14,7 @@ Carlos Souffront is a techno and acid artist tracked on soundcheck, with 108 set
 | Fri, 2 Oct 2026 | Green Room NYC | New York City |
 | Sat, 3 Oct 2026 | TBA | Boston |
 | Sat, 10 Oct 2026 | VENT | Tokyo |
+| Sat, 24 Oct 2026 | H0L0 | New York City |
 
 ## Recently played
 

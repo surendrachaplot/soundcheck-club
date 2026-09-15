@@ -13,7 +13,7 @@ KOKO is a music venue in London listed on soundcheck. 16 upcoming nights, with l
 | Sat, 19 Sept 2026 | PIV London: Omar-S | Omar-S |
 | Fri, 25 Sept 2026 | KOKO Electronic: Lee Burridge | Birds of Mind, Lee Burridge, SHARE (NL) |
 | Sat, 26 Sept 2026 | KOKO Electronic: DESIREE | Benji B, Charisse C, DESIREE (RSA) |
-| Fri, 2 Oct 2026 | KOKO Electronic: Green Velvet | Green Velvet |
+| Fri, 2 Oct 2026 | KOKO Electronic: Green Velvet | FIFI FORTE, Green Velvet, RUZE |
 | Sat, 3 Oct 2026 | KOKO Electronic: Oscar Mbo |  |
 | Fri, 9 Oct 2026 | KOKO Electronic: Swimming Paul | Swimming Paul |
 | Sat, 10 Oct 2026 | UKG Brunch 'Returns To KOKO' - ALL DAY RAVE |  |

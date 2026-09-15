@@ -1,8 +1,8 @@
 # Luce Clandestina
 
-Luce Clandestina is a Techno and Electro artist with 2 upcoming club dates listed on soundcheck as of Tue, 15 Sept 2026, next at SAM Sampling Moods, Milan on Sat, 26 Sept 2026.
+Luce Clandestina is a Techno and Electro artist with 3 upcoming club dates listed on soundcheck as of Tue, 15 Sept 2026, next at SAM Sampling Moods, Milan on Sat, 26 Sept 2026.
 
-Luce Clandestina is a techno and electro artist based in Italy, tracked on soundcheck, with 46 sets logged across Barcelona, Basel, Berlin and Lisbon and 5 more. Often billed alongside Emiliano Comollo, Seven sins and Voodoos and Taboos. Next up: SAM Sampling Moods, Milan on Sat 26 Sept.
+Luce Clandestina is a techno and electro artist based in Italy, tracked on soundcheck, with 47 sets logged across Barcelona, Basel, Berlin and Lisbon and 5 more. Often billed alongside Emiliano Comollo, Seven sins and Voodoos and Taboos. Next up: SAM Sampling Moods, Milan on Sat 26 Sept.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Luce Clandestina is a techno and electro artist based in Italy, tracked on sound
 | --- | --- | --- |
 | Sat, 26 Sept 2026 | SAM Sampling Moods | Milan |
 | Sat, 26 Sept 2026 | SAM Sampling Moods | Milan |
+| Fri, 23 Oct 2026 | Renate | Berlin |
 
 ## Recently played
 

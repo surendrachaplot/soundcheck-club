@@ -1,14 +1,15 @@
 # S.I.M
 
-S.I.M is a Techno and Garage artist with 1 upcoming club date listed on soundcheck as of Tue, 15 Sept 2026, next at TBA - DTLA, Los Angeles on Fri, 6 Nov 2026.
+S.I.M is a Techno and Breakbeat artist with 2 upcoming club dates listed on soundcheck as of Tue, 15 Sept 2026, next at TBA - DTLA, Los Angeles on Fri, 6 Nov 2026.
 
-S.I.M is a techno and garage artist based in United States of America, tracked on soundcheck, with 10 sets logged across Losangeles, Sandiego and Sanfrancisco. Often billed alongside cstr, 6 SENSE and Brick (US). Next up: TBA - DTLA, Losangeles on Fri 6 Nov.
+S.I.M is a techno and breakbeat artist based in United States of America, tracked on soundcheck, with 11 sets logged across Losangeles, Sandiego and Sanfrancisco. Often billed alongside cstr, Saffaire and 1OO1O. Next up: TBA - DTLA, Losangeles on Fri 6 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 6 Nov 2026 | TBA - DTLA | Los Angeles |
+| Sat, 14 Nov 2026 | Monarch | San Francisco/Oakland |
 
 ## Recently played
 
@@ -23,6 +24,6 @@ S.I.M is a techno and garage artist based in United States of America, tracked o
 
 ## Shares bills with
 
-cstr, 6 SENSE, Brick (US)
+cstr, Saffaire, 1OO1O
 
 *Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sim.us/)*

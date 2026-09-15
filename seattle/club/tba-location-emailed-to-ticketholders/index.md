@@ -8,6 +8,6 @@ TBA - LOCATION EMAILED TO TICKETHOLDERS is a music venue in Seattle listed on so
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 25 Sept 2026 | BODY: HI 4-Year Anniversary | Glamour Cadaver, Kiernan Laveaux, Lauren Flax, Miss Twink USA, Mister Hoochiemama, Mister Wallace, Nolia, Shaun J. Wright, Sterling Juan Diaz, Swan Drama, Tdy (1), uRaNg3L |
+| Fri, 25 Sept 2026 | BODY: HI 4-Year Anniversary | Glamour Cadaver, Kiernan Laveaux, Lauren Flax, Miss Twink USA, Mister Hoochiemama, Mister Wallace, Nolia, Shaun J. Wright, Sterling Juan Diaz, Swan Drama, Tdy (1), Zagc, uRaNg3L |
 
 *Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/seattle/club/tba-location-emailed-to-ticketholders/)*

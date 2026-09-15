@@ -9,7 +9,7 @@ Livid (UK) is a techno and electro artist tracked on soundcheck, with 39 sets lo
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 19 Sept 2026 | E1 | London |
-| Sat, 3 Oct 2026 | Onyx (E1) | London |
+| Sat, 3 Oct 2026 | E1 | London |
 | Sun, 1 Nov 2026 | NUMBER 90 LONDON | London |
 | Sat, 7 Nov 2026 | E1 | London |
 

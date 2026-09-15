@@ -1,14 +1,15 @@
 # Cosaco
 
-Cosaco is a Reggaeton and Baile Funk artist with 3 upcoming club dates listed on soundcheck as of Tue, 15 Sept 2026, next at Klub SPATiF, Warsaw on Thu, 17 Sept 2026.
+Cosaco is a Reggaeton and Baile Funk artist with 4 upcoming club dates listed on soundcheck as of Tue, 15 Sept 2026, next at Klub SPATiF, Warsaw on Thu, 17 Sept 2026.
 
-Cosaco is a reggaeton and baile funk artist based in Poland, tracked on soundcheck, with 54 sets logged across Krakow and Warsaw. Often billed alongside KarateKnur, Adobo (PL) and eylau. Next up: Klub SPATiF, Warsaw on Thu 17 Sept.
+Cosaco is a reggaeton and baile funk artist based in Poland, tracked on soundcheck, with 55 sets logged across Krakow and Warsaw. Often billed alongside KarateKnur, Adobo (PL) and eylau. Next up: Klub SPATiF, Warsaw on Thu 17 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Thu, 17 Sept 2026 | Klub SPATiF | Warsaw |
+| Fri, 18 Sept 2026 | barStudio | Warsaw |
 | Fri, 25 Sept 2026 | K-Bar Powiśle | Warsaw |
 | Sat, 26 Sept 2026 | Piękny Pies | Krakow |
 

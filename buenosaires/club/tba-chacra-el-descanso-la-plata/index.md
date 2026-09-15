@@ -9,6 +9,6 @@ TBA - Chacra El Descanso, La Plata is a music venue in Buenosaires listed on sou
 | Date | Night | Line-up |
 | --- | --- | --- |
 | Sat, 31 Oct 2026 | Juan Hansen - Chacra El Descanso, La Plata - ALLMusicParties | Juan Hansen |
-| Sun, 8 Nov 2026 | Ezequiel Arias [EXTENDED SET] - by CIRCUS, LA PLATA | Ezequiel Arias |
+| Sun, 8 Nov 2026 | Ezequiel Arias - Circus, La Plata - ALLMusicParties | Ezequiel Arias |
 
 *Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/buenosaires/club/tba-chacra-el-descanso-la-plata/)*

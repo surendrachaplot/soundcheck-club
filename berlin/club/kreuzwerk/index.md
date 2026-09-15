@@ -9,7 +9,7 @@ KREUZWERK is a music venue in Berlin listed on soundcheck. 9 upcoming nights, wi
 | Date | Night | Line-up |
 | --- | --- | --- |
 | Fri, 18 Sept 2026 | ABOV - FLINTA* | Amanda Mussi, Franziska Lindholz, Hyperaktivist, Volvox |
-| Sat, 19 Sept 2026 | tracey | 131bpm, ADAM MUNNINGS, Alírio, Bleach, DJ Petite, Deepa, Dj handbag, EROS IN FURS, House Of Grace, Ixa (2), Jonathan Apelbaum, Kristina, Maze DJ, Nancy Nutter, Shadysnack, Sherø, TWIENA, Teecra, ketia |
+| Sat, 19 Sept 2026 | tracey | 131bpm, ADAM MUNNINGS, Alírio, Bleach, DJ Petite, Deepa, Dirty Daddy Don, Dj handbag, EROS IN FURS, House Of Grace, Ixa (2), Jonathan Apelbaum, Kristina, Maze DJ, Nancy Nutter, Shadysnack, Sherø, TWIENA, Teecra, ketia |
 | Fri, 25 Sept 2026 | OVERLOAD #4 | Andrew Moore, Buday, Darren Black, ENGALANAN, Kiar Oscuro, Mar/us, Mohi Neja, Or_ion, Orion |
 | Fri, 2 Oct 2026 | EAU DE COLOGNE | Citizens Union, MVHY, Natuta, Nene H, VINVAR |
 | Fri, 9 Oct 2026 | Carmen Electro & BUTZ invite Laia, LYZA  | BUTZ, Carmen Electro, LYZA, Laia |

@@ -1,8 +1,8 @@
 # Lefto Early Bird
 
-Lefto Early Bird is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Tue, 15 Sept 2026, next at Funke, Ghent on Fri, 18 Sept 2026.
+Lefto Early Bird is a House and Techno artist with 6 upcoming club dates listed on soundcheck as of Tue, 15 Sept 2026, next at Funke, Ghent on Fri, 18 Sept 2026.
 
-Lefto Early Bird is a house and techno artist tracked on soundcheck, with 125 sets logged across Amsterdam, Antwerp, Barcelona and Berlin and 28 more. Often billed alongside Marco Weibel, AliA and Bibi Seck. Next up: Funke, Ghent on Fri 18 Sept.
+Lefto Early Bird is a house and techno artist tracked on soundcheck, with 126 sets logged across Amsterdam, Antwerp, Barcelona and Berlin and 28 more. Often billed alongside Marco Weibel, AliA and Bibi Seck. Next up: Funke, Ghent on Fri 18 Sept.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ Lefto Early Bird is a house and techno artist tracked on soundcheck, with 125 se
 | Fri, 18 Sept 2026 | Funke | Ghent |
 | Sat, 26 Sept 2026 | Bastet | Philadelphia |
 | Sat, 3 Oct 2026 | Bossa Nova Civic Club | New York City |
+| Sat, 17 Oct 2026 | UMI | Brussels |
 | Sat, 24 Oct 2026 | Phono Lake | Amsterdam |
 | Sat, 21 Nov 2026 | TBA - Brussels | Brussels |
 

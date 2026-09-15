@@ -1,14 +1,15 @@
 # Daniel Moritz
 
-Daniel Moritz is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Tue, 15 Sept 2026, next at Arzenal, Budapest on Fri, 18 Sept 2026.
+Daniel Moritz is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Tue, 15 Sept 2026, next at Arzenal, Budapest on Fri, 18 Sept 2026.
 
-Daniel Moritz is a house and techno artist based in Hungary, tracked on soundcheck, with 110 sets logged across Budapest, Helsinki and Malta. Often billed alongside Sobek, Rovizz and CRB. Next up: Arzenal, Budapest on Fri 18 Sept.
+Daniel Moritz is a house and techno artist based in Hungary, tracked on soundcheck, with 111 sets logged across Budapest, Helsinki and Malta. Often billed alongside Sobek, Rovizz and CRB. Next up: Arzenal, Budapest on Fri 18 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 18 Sept 2026 | Arzenal | Budapest |
+| Fri, 25 Sept 2026 | Aether Club Budapest | Budapest |
 | Sat, 3 Oct 2026 | Turbina | Budapest |
 
 ## Recently played

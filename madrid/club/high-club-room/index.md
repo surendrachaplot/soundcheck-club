@@ -11,7 +11,7 @@ High Club Room is a music venue in Madrid listed on soundcheck. 8 upcoming night
 | Sat, 19 Sept 2026 | Tortilla - Opening 9ª Temporada | ESSTI, frankydrama |
 | Sat, 26 Sept 2026 | Tortilla with Depaart (all day long) | Depaart |
 | Sat, 3 Oct 2026 | Tortilla with Mario D'Fer + TWO EX | Mario D'Fer, TWO EX |
-| Thu, 8 Oct 2026 | THE ROOM | Luke Garcia, Savanna, UNER |
+| Thu, 8 Oct 2026 | THE ROOM | Luke Garcia, NIN3S, Savanna, UNER |
 | Sat, 10 Oct 2026 | Tortilla with Teemon & Poomba | TEEMON&POOMBA |
 | Sat, 17 Oct 2026 | Tortilla with SOSANDLOW | SOSANDLOW |
 | Sat, 24 Oct 2026 | Tortilla with Criminal Crisis | BOTHER, frankydrama |

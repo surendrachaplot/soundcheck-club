@@ -1,14 +1,14 @@
 # Lol K
 
-Lol K is a Experimental and Downtempo artist with 1 upcoming club date listed on soundcheck as of Tue, 15 Sept 2026, next at Hydrozagadka, Warsaw on Sat, 19 Sept 2026.
+Lol K is a Experimental and Downtempo artist with 1 upcoming club date listed on soundcheck as of Tue, 15 Sept 2026, next at Hydrozagadka, Warsaw on Fri, 18 Sept 2026.
 
-Lol K is an experimental and downtempo artist based in United Kingdom, tracked on soundcheck, with 12 sets logged across Brussels, London, Paris and Rome and 3 more. Often billed alongside feeo, Florence Sinclair and AKA HEX. Next up: Hydrozagadka, Warsaw on Sat 19 Sept.
+Lol K is an experimental and downtempo artist based in United Kingdom, tracked on soundcheck, with 12 sets logged across Brussels, London, Paris and Rome and 3 more. Often billed alongside feeo, Florence Sinclair and AKA HEX. Next up: Hydrozagadka, Warsaw on Fri 18 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 19 Sept 2026 | Hydrozagadka | Warsaw |
+| Fri, 18 Sept 2026 | Hydrozagadka | Warsaw |
 
 ## Recently played
 

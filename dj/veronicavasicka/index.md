@@ -1,14 +1,15 @@
 # Veronica Vasicka
 
-Veronica Vasicka is a Techno and New Wave artist with 1 upcoming club date listed on soundcheck as of Tue, 15 Sept 2026, next at Melkweg, Amsterdam on Fri, 23 Oct 2026.
+Veronica Vasicka is a Techno and New Wave artist with 2 upcoming club dates listed on soundcheck as of Tue, 15 Sept 2026, next at Melkweg, Amsterdam on Fri, 23 Oct 2026.
 
-Veronica Vasicka is a techno and new wave artist based in United States of America, tracked on soundcheck, with 51 sets logged across Amsterdam, Barcelona, Berlin and Brussels and 13 more. Often billed alongside An-i, Amelia Holt and Dave Clarke. Next up: Melkweg, Amsterdam on Fri 23 Oct.
+Veronica Vasicka is a techno and new wave artist based in United States of America, tracked on soundcheck, with 52 sets logged across Amsterdam, Barcelona, Belgrade and Berlin and 14 more. Often billed alongside An-i, Amelia Holt and Dave Clarke. Next up: Melkweg, Amsterdam on Fri 23 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 23 Oct 2026 | Melkweg | Amsterdam |
+| Sat, 24 Oct 2026 | Karmakoma | Belgrade |
 
 ## Recently played
 

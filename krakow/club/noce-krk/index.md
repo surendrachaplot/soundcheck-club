@@ -10,7 +10,7 @@ Noce KRK is a music venue in Krakow listed on soundcheck. 6 upcoming nights, wit
 | --- | --- | --- |
 | Fri, 18 Sept 2026 | PIESKI FOREVER - CHARITY GATHERING - Aetha B-DAY | 1 AM (1), Aetha, Eta Hox, Gabi Bury, Hellix, MRV (1), Piotr Figiel, RAJZ |
 | Sat, 26 Sept 2026 | TECHNOSESSIONS 04: Dimitri Cooman (BE), Abrew | Abrew, Dimitri Cooman, MRV (1), RAJZ |
-| Fri, 2 Oct 2026 | K​Ø​LP​Ø​S + Vertical Spectrum + others | exoførm |
+| Fri, 2 Oct 2026 | K​Ø​LP​Ø​S + Vertical Spectrum i inni  | exoførm |
 | Sat, 31 Oct 2026 | Zorya IV Halloween edition |  |
 | Tue, 10 Nov 2026 | TECHNOSESSIONS 04: Dimitri Cooman (BE), Abrew | Abrew, Dimitri Cooman, MRV (1), RAJZ |
 | Fri, 13 Nov 2026 | FEED #11 with Adriana Lopez (PoleGroup / Semantica / Grey Report) | Adriana Lopez |

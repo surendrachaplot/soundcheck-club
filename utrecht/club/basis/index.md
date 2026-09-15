@@ -1,8 +1,8 @@
 # BASIS
 
-BASIS is a music venue in Utrecht with 17 upcoming nights listed on soundcheck as of Tue, 15 Sept 2026; the next is "BASIS x BCCO/ FENIM0RE/ Ignez [3 hour set]/ Locus Error" on Fri, 18 Sept 2026.
+BASIS is a music venue in Utrecht with 18 upcoming nights listed on soundcheck as of Tue, 15 Sept 2026; the next is "BASIS x BCCO/ FENIM0RE/ Ignez [3 hour set]/ Locus Error" on Fri, 18 Sept 2026.
 
-BASIS is a music venue in Utrecht listed on soundcheck. 17 upcoming nights, with line-ups including 36framez, Aphøtic, AREA ØNE and Ben Techy and 2 more. Browse upcoming dates, start times and who's playing. Oudegracht aan de Werf 97 3511 AL Utrecht, Netherlands.
+BASIS is a music venue in Utrecht listed on soundcheck. 18 upcoming nights, with line-ups including 36framez, Aphøtic, AREA ØNE and Ben Techy and 2 more. Browse upcoming dates, start times and who's playing. Oudegracht aan de Werf 97 3511 AL Utrecht, Netherlands.
 
 ## What's on
 

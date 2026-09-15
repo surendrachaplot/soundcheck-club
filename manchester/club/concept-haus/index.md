@@ -9,7 +9,7 @@ Concept Haus is a music venue in Manchester listed on soundcheck. 4 upcoming nig
 | Date | Night | Line-up |
 | --- | --- | --- |
 | Sat, 10 Oct 2026 | Meat Free Autumn Warehouse Party | Adriana Lopez, Blasha & Allatt, FJNocturne, Gloria Rose, MARRØN, Sandrien, Temudo, The Lady Machine, aalice |
-| Sat, 17 Oct 2026 | Distant Future presents Binh Lola Haro Z@p(live) | Binh, Cersy, Lola Haro, Taylor Kerr, Z@p |
+| Sat, 17 Oct 2026 | Distant Future: Binh, Lola Haro, Z@p(live) | Binh, Cersy, Lola Haro, Taylor Kerr, Z@p |
 | Sat, 7 Nov 2026 | Primal Instinct Showcase | Akua, Chlär, Hadone, Phil Berg |
 | Sat, 21 Nov 2026 | ABB X RECOGNISE | AVIAX, Anthea, Gabbs, Isabelle Koci, Rowland, Sam Pratt, The Luna Groovas, Voigtmann |
 

@@ -1,14 +1,15 @@
 # ALADAG
 
-ALADAG is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 15 Sept 2026, next at Escape, Amsterdam on Wed, 21 Oct 2026.
+ALADAG is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Tue, 15 Sept 2026, next at Escape, Amsterdam on Wed, 21 Oct 2026.
 
-ALADAG is a techno and house artist based in Germany, tracked on soundcheck, with 21 sets logged across Amsterdam, Berlin, Copenhagen and Hamburg and 3 more. Often billed alongside Baime, Yara Yard and Hedda Stenberg. Next up: Escape, Amsterdam on Wed 21 Oct.
+ALADAG is a house and techno artist based in Germany, tracked on soundcheck, with 22 sets logged across Amsterdam, Berlin, Copenhagen and Hamburg and 3 more. Often billed alongside Baime, Yara Yard and Echonomist. Next up: Escape, Amsterdam on Wed 21 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Wed, 21 Oct 2026 | Escape | Amsterdam |
+| Fri, 23 Oct 2026 | Club Baggerbeest | Amsterdam |
 
 ## Recently played
 
@@ -23,6 +24,6 @@ ALADAG is a techno and house artist based in Germany, tracked on soundcheck, wit
 
 ## Shares bills with
 
-Baime, Yara Yard, Hedda Stenberg
+Baime, Yara Yard, Echonomist
 
 *Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/aladag/)*

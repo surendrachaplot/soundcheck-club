@@ -1,8 +1,8 @@
 # Brina Knauss
 
-Brina Knauss is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Tue, 15 Sept 2026, next at Amnesia Ibiza, Ibiza on Wed, 16 Sept 2026.
+Brina Knauss is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Tue, 15 Sept 2026, next at Amnesia Ibiza, Ibiza on Wed, 16 Sept 2026.
 
-Brina Knauss is a techno and house artist based in Slovenia, tracked on soundcheck, with 110 sets logged across Amsterdam, Antwerp, Athens and Austin and 31 more. Often billed alongside Fideles, Mathame and Henri Bergmann. Next up: Amnesia Ibiza, Ibiza on Wed 16 Sept.
+Brina Knauss is a techno and house artist based in Slovenia, tracked on soundcheck, with 111 sets logged across Amsterdam, Antwerp, Athens and Austin and 32 more. Often billed alongside Fideles, Mathame and Henri Bergmann. Next up: Amnesia Ibiza, Ibiza on Wed 16 Sept.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ Brina Knauss is a techno and house artist based in Slovenia, tracked on soundche
 | Wed, 16 Sept 2026 | Amnesia Ibiza | Ibiza |
 | Sat, 26 Sept 2026 | Bolivar Beach Bar | Athens |
 | Wed, 30 Sept 2026 | Hï Ibiza | Ibiza |
+| Sat, 17 Oct 2026 | Savaya Bali | Bali |
 
 ## Recently played
 

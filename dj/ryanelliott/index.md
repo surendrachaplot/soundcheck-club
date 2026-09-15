@@ -1,8 +1,8 @@
 # Ryan Elliott
 
-Ryan Elliott is a House and Techno artist with 12 upcoming club dates listed on soundcheck as of Tue, 15 Sept 2026, next at Berghain | Panorama Bar | Säule, Berlin on Sat, 3 Oct 2026.
+Ryan Elliott is a House and Techno artist with 13 upcoming club dates listed on soundcheck as of Tue, 15 Sept 2026, next at Berghain | Panorama Bar | Säule, Berlin on Sat, 3 Oct 2026.
 
-Ryan Elliott is a house and techno artist tracked on soundcheck, with 248 sets logged across Amsterdam, Antwerp, Barcelona and Belfast and 58 more. Often billed alongside Ogazón, Christian AB and PARAMIDA. Next up: Berghain | Panorama Bar | Säule, Berlin on Sat 3 Oct.
+Ryan Elliott is a house and techno artist tracked on soundcheck, with 249 sets logged across Amsterdam, Antwerp, Barcelona and Belfast and 58 more. Often billed alongside Ogazón, Christian AB and PARAMIDA. Next up: Berghain | Panorama Bar | Säule, Berlin on Sat 3 Oct.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Ryan Elliott is a house and techno artist tracked on soundcheck, with 248 sets l
 | --- | --- | --- |
 | Sat, 3 Oct 2026 | Berghain / Panorama Bar / Säule | Berlin |
 | Fri, 9 Oct 2026 | Bassiani | Tbilisi |
+| Sat, 10 Oct 2026 | UMI | Brussels |
 | Wed, 21 Oct 2026 | A'DAM Toren | Amsterdam |
 | Thu, 22 Oct 2026 | Shelter Amsterdam | Amsterdam |
 | Fri, 23 Oct 2026 | GASHOUDER | Amsterdam |
@@ -19,7 +20,6 @@ Ryan Elliott is a house and techno artist tracked on soundcheck, with 248 sets l
 | Sat, 31 Oct 2026 | TBA | Liverpool |
 | Sat, 31 Oct 2026 | Distrikt | Leeds |
 | Sat, 7 Nov 2026 | Lofi | Amsterdam |
-| Sat, 5 Dec 2026 | fabric | London |
 
 ## Recently played
 

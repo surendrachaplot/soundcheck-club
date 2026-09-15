@@ -1,14 +1,15 @@
 # The Jakob Sister
 
-The Jakob Sister is a Trance and Techno artist with 4 upcoming club dates listed on soundcheck as of Tue, 15 Sept 2026, next at elipamanoke, Leipzig on Fri, 18 Sept 2026.
+The Jakob Sister is a Trance and Techno artist with 5 upcoming club dates listed on soundcheck as of Tue, 15 Sept 2026, next at elipamanoke, Leipzig on Fri, 18 Sept 2026.
 
-The Jakob Sister is a trance and techno artist tracked on soundcheck, with 104 sets logged across Amsterdam, Antwerp, Berlin and Cologne and 17 more. Often billed alongside Sabu!, RaverPik and Blame the Booker. Next up: elipamanoke, Leipzig on Fri 18 Sept.
+The Jakob Sister is a trance and techno artist tracked on soundcheck, with 105 sets logged across Amsterdam, Antwerp, Berlin and Cologne and 17 more. Often billed alongside Sabu!, RaverPik and Blame the Booker. Next up: elipamanoke, Leipzig on Fri 18 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 18 Sept 2026 | elipamanoke | Leipzig |
+| Thu, 8 Oct 2026 | Zur Klappe | Berlin |
 | Fri, 16 Oct 2026 | Renate | Berlin |
 | Sat, 31 Oct 2026 | Altenburg 1964 | Prague |
 | Fri, 13 Nov 2026 | RSO.BERLIN | Berlin |

@@ -1,8 +1,8 @@
 # Lasociaciøn
 
-Lasociaciøn is a music venue in Madrid with 8 upcoming nights listed on soundcheck as of Tue, 15 Sept 2026; the next is "ArkAbyss" on Fri, 18 Sept 2026.
+Lasociaciøn is a music venue in Madrid with 10 upcoming nights listed on soundcheck as of Tue, 15 Sept 2026; the next is "ArkAbyss" on Fri, 18 Sept 2026.
 
-Lasociaciøn is a music venue in Madrid listed on soundcheck. 8 upcoming nights, with line-ups including ADRI.G, Angelo Stasi, Atomic moog and Audiolux and 2 more. Browse upcoming dates, start times and who's playing. C. Gamonal, 5, 28031 Madrid.
+Lasociaciøn is a music venue in Madrid listed on soundcheck. 10 upcoming nights, with line-ups including ADRI.G, Angelo Stasi, Atomic moog and Audiolux and 2 more. Browse upcoming dates, start times and who's playing. C. Gamonal, 5, 28031 Madrid.
 
 ## What's on
 
@@ -15,7 +15,9 @@ Lasociaciøn is a music venue in Madrid listed on soundcheck. 8 upcoming nights,
 | Sun, 11 Oct 2026 | NUDE | Axis Mundi, Baldman, Konduku, Sugar Free, formica (ES) |
 | Fri, 16 Oct 2026 | DARKMASS Lasociaciøn /// TICKETS PROMO  |  |
 | Sat, 17 Oct 2026 | 100x100 Techno Rentrée | Atomic moog, Audiolux, Blaark, Jesus Riaño, Lowsystem, MÄEM |
+| Fri, 23 Oct 2026 | Fiesta x Fiesta: PLO Man b2b DJ Spence all night long | DJ Spence, PLO Man |
 | Fri, 30 Oct 2026 | ARACNE 2nd Anniversary - Michel Lauriola, Viels, SPECTRAL & JOHNO | C.R.Y.D, KTV (ES), Michel Lauriola, Viels |
+| Sat, 21 Nov 2026 | TRAMA | Avo (ES), Babu, Betamax_, Mou, Pablo Ruizgalan, Robert Leiner |
 
 ## Address
 

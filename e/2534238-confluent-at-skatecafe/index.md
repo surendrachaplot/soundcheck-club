@@ -1,6 +1,6 @@
 # CONFLUENT at Skatecafe
 
-CONFLUENT at Skatecafe on Fri 9 Oct, Amsterdam. 4 acts on the bill: Franky Sticks, Jerrau, Tida Kamara and TINS. Bass and Latin Bass. Preview the line-up and save it on soundcheck.
+CONFLUENT at Skatecafe on Fri 9 Oct, Amsterdam. 5 acts on the bill: Franky Sticks, Jerrau, Shinshan Salazar and Tida Kamara and 1 more. Club and Latin Bass. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -12,6 +12,7 @@ CONFLUENT at Skatecafe on Fri 9 Oct, Amsterdam. 4 acts on the bill: Franky Stick
 
 - Franky Sticks
 - Jerrau
+- Shinshan Salazar
 - Tida Kamara
 - TINS
 

@@ -1,8 +1,8 @@
 # Dublon
 
-Dublon is a House and Jazz artist with 9 upcoming club dates listed on soundcheck as of Tue, 15 Sept 2026, next at Elsewhere, New York City on Fri, 18 Sept 2026.
+Dublon is a House and Jazz artist with 10 upcoming club dates listed on soundcheck as of Tue, 15 Sept 2026, next at Elsewhere, New York City on Fri, 18 Sept 2026.
 
-Dublon is a house and jazz artist based in Denmark, tracked on soundcheck, with 34 sets logged across Amsterdam, Barcelona, Berlin and Copenhagen and 14 more. Often billed alongside Agathe Mougin, Amy Jor and Argia. Next up: Elsewhere, Newyorkcity on Fri 18 Sept.
+Dublon is a house and jazz artist based in Denmark, tracked on soundcheck, with 35 sets logged across Amsterdam, Barcelona, Berlin and Copenhagen and 14 more. Often billed alongside Agathe Mougin, Amy Jor and Argia. Next up: Elsewhere, Newyorkcity on Fri 18 Sept.
 
 ## Upcoming shows
 
@@ -15,6 +15,7 @@ Dublon is a house and jazz artist based in Denmark, tracked on soundcheck, with 
 | Thu, 8 Oct 2026 | Substation | Seattle |
 | Fri, 9 Oct 2026 | Harbor House DTLA | Los Angeles |
 | Sat, 10 Oct 2026 | The Independent | San Francisco/Oakland |
+| Sat, 24 Oct 2026 | Cinetol | Amsterdam |
 | Wed, 28 Oct 2026 | Razzmatazz 3 | Barcelona |
 | Thu, 29 Oct 2026 | Café Berlín | Madrid |
 

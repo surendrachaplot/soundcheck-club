@@ -1,13 +1,14 @@
 # Cici Daze
 
-Cici Daze is a House and Tech House artist with 4 upcoming club dates listed on soundcheck as of Tue, 15 Sept 2026, next at Bronze Beach, Amsterdam on Sat, 19 Sept 2026.
+Cici Daze is a House and Tech House artist with 5 upcoming club dates listed on soundcheck as of Tue, 15 Sept 2026, next at Shelter Amsterdam, Amsterdam on Fri, 18 Sept 2026.
 
-Cici Daze is a house and tech house artist based in Netherlands, tracked on soundcheck, with 21 sets logged across Amsterdam, Rotterdam, Thehague and Utrecht. Often billed alongside Benny Rodrigues, Prunk and AAT (NL). Next up: Bronze Beach, Amsterdam on Sat 19 Sept.
+Cici Daze is a house and tech house artist based in Netherlands, tracked on soundcheck, with 22 sets logged across Amsterdam, Rotterdam, Thehague and Utrecht. Often billed alongside Benny Rodrigues, Prunk and AAT (NL). Next up: Shelter Amsterdam, Amsterdam on Fri 18 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 18 Sept 2026 | Shelter Amsterdam | Amsterdam |
 | Sat, 19 Sept 2026 | Bronze Beach | Amsterdam |
 | Fri, 30 Oct 2026 | BASIS | Utrecht |
 | Sat, 31 Oct 2026 | Maassilo | Rotterdam |

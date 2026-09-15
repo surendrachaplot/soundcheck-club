@@ -1,8 +1,8 @@
 # Casnova
 
-Casnova is a Garage and House artist with 2 upcoming club dates listed on soundcheck as of Tue, 15 Sept 2026, next at Distrikt, Leeds on Fri, 2 Oct 2026.
+Casnova is a Garage and House artist with 3 upcoming club dates listed on soundcheck as of Tue, 15 Sept 2026, next at Distrikt, Leeds on Fri, 2 Oct 2026.
 
-Casnova is a garage and house artist tracked on soundcheck, with 35 sets logged across Belfast, Bristol, Leeds and London and 1 more. Often billed alongside p-rallel, Laelo Black and Tommy Gold. Next up: Distrikt, Leeds on Fri 2 Oct.
+Casnova is a garage and house artist tracked on soundcheck, with 36 sets logged across Belfast, Bristol, Leeds and London and 2 more. Often billed alongside p-rallel, Laelo Black and Tommy Gold. Next up: Distrikt, Leeds on Fri 2 Oct.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Casnova is a garage and house artist tracked on soundcheck, with 35 sets logged 
 | --- | --- | --- |
 | Fri, 2 Oct 2026 | Distrikt | Leeds |
 | Sat, 31 Oct 2026 | Phonox | London |
+| Fri, 6 Nov 2026 | Stealth | Nottingham |
 
 ## Recently played
 

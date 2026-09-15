@@ -2,7 +2,7 @@
 
 Laura Jackson is a Disco and House artist with 1 upcoming club date listed on soundcheck as of Tue, 15 Sept 2026, next at Dahlia Stereo, Manchester on Sat, 26 Sept 2026.
 
-Laura Jackson is a disco and house artist based in United Kingdom, tracked on soundcheck, with 46 sets logged across London and Manchester. Often billed alongside Timo-G, Jamie Bull and Supernature Disco. Next up: Dahlia Stereo, Manchester on Sat 26 Sept.
+Laura Jackson is a disco and house artist based in United Kingdom, tracked on soundcheck, with 46 sets logged across London and Manchester. Often billed alongside Timo-G, Jamie Bull and Lil' Minx. Next up: Dahlia Stereo, Manchester on Sat 26 Sept.
 
 ## Upcoming shows
 
@@ -23,6 +23,6 @@ Laura Jackson is a disco and house artist based in United Kingdom, tracked on so
 
 ## Shares bills with
 
-Timo-G, Jamie Bull, Supernature Disco
+Timo-G, Jamie Bull, Lil' Minx
 
 *Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/laurajackson/)*

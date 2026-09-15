@@ -1,14 +1,15 @@
 # DJ Spence
 
-DJ Spence is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 15 Sept 2026, next at THE OTHER SIDE, Amsterdam on Thu, 22 Oct 2026.
+DJ Spence is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Tue, 15 Sept 2026, next at THE OTHER SIDE, Amsterdam on Thu, 22 Oct 2026.
 
-DJ Spence is a techno and house artist tracked on soundcheck, with 42 sets logged across Amsterdam, Berlin, Brussels and Krakow and 12 more. Often billed alongside PLO Man, DJ Frog and Excalibur. Next up: THE OTHER SIDE, Amsterdam on Thu 22 Oct.
+DJ Spence is a techno and house artist tracked on soundcheck, with 43 sets logged across Amsterdam, Berlin, Brussels and Krakow and 13 more. Often billed alongside PLO Man, DJ Frog and Excalibur. Next up: THE OTHER SIDE, Amsterdam on Thu 22 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Thu, 22 Oct 2026 | THE OTHER SIDE | Amsterdam |
+| Fri, 23 Oct 2026 | Lasociaciøn | Madrid |
 
 ## Recently played
 

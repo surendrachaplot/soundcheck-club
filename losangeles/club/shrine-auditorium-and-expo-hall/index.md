@@ -1,8 +1,8 @@
 # Shrine Auditorium and Expo Hall
 
-Shrine Auditorium and Expo Hall is a music venue in Los Angeles with 8 upcoming nights listed on soundcheck as of Tue, 15 Sept 2026; the next is "Max Styler" on Sat, 3 Oct 2026.
+Shrine Auditorium and Expo Hall is a music venue in Los Angeles with 9 upcoming nights listed on soundcheck as of Tue, 15 Sept 2026; the next is "Max Styler" on Sat, 3 Oct 2026.
 
-Shrine Auditorium and Expo Hall is a music venue in Losangeles listed on soundcheck. 8 upcoming nights, with line-ups including Afrojack, &friends, Channel Tres and Madeon and 2 more. Browse upcoming dates, start times and who's playing. 665 W. Jefferson Blvd, Los Angeles, CA 90007.
+Shrine Auditorium and Expo Hall is a music venue in Losangeles listed on soundcheck. 9 upcoming nights, with line-ups including Afrojack, Ali RQ, &friends and Brutalismus 3000 and 2 more. Browse upcoming dates, start times and who's playing. 665 W. Jefferson Blvd, Los Angeles, CA 90007.
 
 ## What's on
 
@@ -14,6 +14,7 @@ Shrine Auditorium and Expo Hall is a music venue in Losangeles listed on soundch
 | Fri, 23 Oct 2026 | Channel Tres | &friends, Channel Tres |
 | Sat, 24 Oct 2026 | Madeon presents Victory Live | Madeon |
 | Fri, 6 Nov 2026 | ZULAN |  |
+| Thu, 19 Nov 2026 | Brutalismus 3000 | Ali RQ, Brutalismus 3000, Eurohead, OZA, deBasement |
 | Fri, 27 Nov 2026 | Afrojack presents: CONTROL | Afrojack |
 | Fri, 4 Dec 2026 | Whethan - WAREHOUSE.WAVS TOUR (360 SHOW) |  |
 

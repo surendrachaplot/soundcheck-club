@@ -1,6 +1,6 @@
 # FOCUS: MARRØN at Flash
 
-FOCUS: MARRØN at Flash on Sat 19 Sept, Washingtondc. 2 acts on the bill: MARRØN and TV HILL. Techno and Minimal Techno. Preview the line-up and save it on soundcheck.
+FOCUS: MARRØN at Flash on Sat 19 Sept, Washingtondc. 5 acts on the bill: BehTarin, MARRØN, Sabda and shilimili and 1 more. Techno and Minimal Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,7 +10,10 @@ FOCUS: MARRØN at Flash on Sat 19 Sept, Washingtondc. 2 acts on the bill: MARRØ
 
 ## Line-up
 
+- BehTarin
 - MARRØN
+- Sabda
+- shilimili
 - TV HILL
 
 *Source: [soundcheck](https://soundcheck.club/e/2486846-focus-marr-n-at-flash/)*

@@ -15,7 +15,7 @@ Ignez is a techno and house artist tracked on soundcheck, with 195 sets logged a
 | Fri, 25 Sept 2026 | 131 Mccormack St | Toronto |
 | Fri, 25 Sept 2026 | Stereo | Montreal |
 | Fri, 2 Oct 2026 | Nitsa Club | Barcelona |
-| Sat, 3 Oct 2026 | Onyx (E1) | London |
+| Sat, 3 Oct 2026 | E1 | London |
 | Sat, 10 Oct 2026 | Flux | Istanbul |
 | Sun, 11 Oct 2026 | Fabrik | Madrid |
 | Fri, 16 Oct 2026 | Den Anden Side | Copenhagen |

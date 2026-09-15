@@ -1,14 +1,15 @@
 # B-SIDE
 
-B-SIDE is a music venue in Warsaw with 2 upcoming nights listed on soundcheck as of Tue, 15 Sept 2026; the next is "BS ➼ BUMPER BROTHERS" on Fri, 18 Sept 2026.
+B-SIDE is a music venue in Warsaw with 3 upcoming nights listed on soundcheck as of Tue, 15 Sept 2026; the next is "BS ➼ BUMPER BROTHERS" on Fri, 18 Sept 2026.
 
-B-SIDE is a music venue in Warsaw listed on soundcheck. 2 upcoming nights, with line-ups including Franz Scala, Liza Azemsha and Pawel Blot. Browse upcoming dates, start times and who's playing. Piękna 19, 00-549 Warszawa.
+B-SIDE is a music venue in Warsaw listed on soundcheck. 3 upcoming nights, with line-ups including Franz Scala, Hanna (UA), Liza Azemsha and OCHII and 2 more. Browse upcoming dates, start times and who's playing. Piękna 19, 00-549 Warszawa.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
 | Fri, 18 Sept 2026 | BS ➼ BUMPER BROTHERS |  |
+| Sat, 19 Sept 2026 | Slowmode invites: HANNA & OCHII | Hanna (UA), OCHII, Slowmode |
 | Sat, 10 Oct 2026 | Disco Mule — 6th Edition | Franz Scala, Liza Azemsha, Pawel Blot |
 
 ## Address

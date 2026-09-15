@@ -1,14 +1,15 @@
 # Chloe Lula
 
-Chloe Lula is a Industrial and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 15 Sept 2026, next at Tresor / Globus, Berlin on Sat, 3 Oct 2026.
+Chloe Lula is a Industrial and Techno artist with 2 upcoming club dates listed on soundcheck as of Tue, 15 Sept 2026, next at Tresor / Globus, Berlin on Sat, 3 Oct 2026.
 
-Chloe Lula is an industrial and techno artist tracked on soundcheck, with 11 sets logged across Barcelona, Berlin and London. Often billed alongside Ireen Amnes, Barbara Preisinger and Helena Hauff. Next up: Tresor / Globus, Berlin on Sat 3 Oct.
+Chloe Lula is an industrial and techno artist tracked on soundcheck, with 12 sets logged across Barcelona, Berlin and London. Often billed alongside Ireen Amnes, Barbara Preisinger and Helena Hauff. Next up: Tresor / Globus, Berlin on Sat 3 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 3 Oct 2026 | Tresor / Globus | Berlin |
+| Sat, 21 Nov 2026 | Tresor / Globus | Berlin |
 
 ## Recently played
 

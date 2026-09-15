@@ -1,13 +1,14 @@
 # Yess
 
-Yess is a Bass and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 15 Sept 2026, next at World Kyoto, Kyoto on Sun, 11 Oct 2026.
+Yess is a Bass and Techno artist with 2 upcoming club dates listed on soundcheck as of Tue, 15 Sept 2026, next at clubasia, Tokyo on Sat, 3 Oct 2026.
 
-Yess is a bass and techno artist tracked on soundcheck, with 6 sets logged across Kyoto, Osaka and Tokyo. Often billed alongside IYO (1), K A I and MK woop. Next up: World Kyoto, Kyoto on Sun 11 Oct.
+Yess is a bass and techno artist tracked on soundcheck, with 7 sets logged across Kyoto, Osaka and Tokyo. Often billed alongside FUJI TRILL, IYO (1) and K A I. Next up: clubasia, Tokyo on Sat 3 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 3 Oct 2026 | clubasia | Tokyo |
 | Sun, 11 Oct 2026 | World Kyoto | Kyoto |
 
 ## Recently played
@@ -20,6 +21,6 @@ Yess is a bass and techno artist tracked on soundcheck, with 6 sets logged acros
 
 ## Shares bills with
 
-IYO (1), K A I, MK woop
+FUJI TRILL, IYO (1), K A I
 
 *Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/yess/)*

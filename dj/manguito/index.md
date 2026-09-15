@@ -1,14 +1,15 @@
 # Manguito
 
-Manguito is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 15 Sept 2026, next at Elsewhere, New York City on Sun, 20 Sept 2026.
+Manguito is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Tue, 15 Sept 2026, next at Elsewhere, New York City on Sun, 20 Sept 2026.
 
-Manguito is a house and techno artist based in United States of America, tracked on soundcheck, with 17 sets logged across Newyorkcity. Often billed alongside Ksenyeah, Alex Weremchuk and OBA+FLIP. Next up: Elsewhere, Newyorkcity on Sun 20 Sept.
+Manguito is a house and techno artist based in United States of America, tracked on soundcheck, with 18 sets logged across Newyorkcity. Often billed alongside Ksenyeah, Alex Weremchuk and OBA+FLIP. Next up: Elsewhere, Newyorkcity on Sun 20 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sun, 20 Sept 2026 | Elsewhere | New York City |
+| Sun, 11 Oct 2026 | Creekside - Under The K Bridge | New York City |
 
 ## Recently played
 

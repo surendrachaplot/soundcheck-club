@@ -1,8 +1,8 @@
 # Bauhaus
 
-Bauhaus is a music venue in Houston with 17 upcoming nights listed on soundcheck as of Tue, 15 Sept 2026; the next is "Girls On Decks" on Thu, 17 Sept 2026.
+Bauhaus is a music venue in Houston with 18 upcoming nights listed on soundcheck as of Tue, 15 Sept 2026; the next is "Girls On Decks" on Thu, 17 Sept 2026.
 
-Bauhaus is a music venue in Houston listed on soundcheck. 17 upcoming nights, with line-ups including Black V Neck, Classmatic, Eli & Fur and Kahani and 2 more. Browse upcoming dates, start times and who's playing. 1803 Pease St, Houston, TX 77003, US.
+Bauhaus is a music venue in Houston listed on soundcheck. 18 upcoming nights, with line-ups including Black V Neck, Classmatic, Eli & Fur and Kahani and 2 more. Browse upcoming dates, start times and who's playing. 1803 Pease St, Houston, TX 77003, US.
 
 ## What's on
 

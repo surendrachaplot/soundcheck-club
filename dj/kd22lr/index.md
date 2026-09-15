@@ -1,14 +1,15 @@
 # KD22LR
 
-KD22LR is a Bass and Techno artist with 2 upcoming club dates listed on soundcheck as of Tue, 15 Sept 2026, next at Hope House, Leeds on Sat, 10 Oct 2026.
+KD22LR is a Bass and Techno artist with 3 upcoming club dates listed on soundcheck as of Tue, 15 Sept 2026, next at Hope House, Leeds on Sat, 10 Oct 2026.
 
-KD22LR is a bass and techno artist based in United Kingdom, tracked on soundcheck, with 53 sets logged across Berlin, Glasgow, Leeds and London and 1 more. Often billed alongside Tom Boogizm, Sockethead and Zuri. Next up: Hope House, Leeds on Sat 10 Oct.
+KD22LR is a bass and techno artist based in United Kingdom, tracked on soundcheck, with 54 sets logged across Berlin, Glasgow, Leeds and London and 1 more. Often billed alongside Tom Boogizm, Sockethead and Zuri. Next up: Hope House, Leeds on Sat 10 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 10 Oct 2026 | Hope House | Leeds |
+| Fri, 6 Nov 2026 | PINK | Manchester |
 | Fri, 4 Dec 2026 | EXIT Glasgow | Glasgow |
 
 ## Recently played

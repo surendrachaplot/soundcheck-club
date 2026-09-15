@@ -1,13 +1,14 @@
 # Frankie Elyse
 
-Frankie Elyse is a House and Electro artist with 4 upcoming club dates listed on soundcheck as of Tue, 15 Sept 2026, next at The Berkeley Suite, Glasgow on Fri, 18 Sept 2026.
+Frankie Elyse is a House and Electro artist with 5 upcoming club dates listed on soundcheck as of Tue, 15 Sept 2026, next at Paradise Palms, Edinburgh on Thu, 17 Sept 2026.
 
-Frankie Elyse is a house and electro artist tracked on soundcheck, with 80 sets logged across Aberdeen, Berlin, Edinburgh and Glasgow and 4 more. Often billed alongside Jozette, Corran and Neoma. Next up: The Berkeley Suite, Glasgow on Fri 18 Sept.
+Frankie Elyse is a house and electro artist tracked on soundcheck, with 81 sets logged across Aberdeen, Berlin, Edinburgh and Glasgow and 4 more. Often billed alongside Jozette, Corran and Neoma. Next up: Paradise Palms, Edinburgh on Thu 17 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Thu, 17 Sept 2026 | Paradise Palms | Edinburgh |
 | Fri, 18 Sept 2026 | The Berkeley Suite | Glasgow |
 | Fri, 25 Sept 2026 | Sub Club | Glasgow |
 | Thu, 29 Oct 2026 | King Tut's Wah Wah Hut | Glasgow |

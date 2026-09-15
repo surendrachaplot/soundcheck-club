@@ -1,14 +1,15 @@
 # Dirty Daddy Don
 
-Dirty Daddy Don is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 15 Sept 2026, next at AMT, Berlin on Fri, 18 Sept 2026.
+Dirty Daddy Don is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Tue, 15 Sept 2026, next at AMT, Berlin on Fri, 18 Sept 2026.
 
-Dirty Daddy Don is a techno and house artist based in Canada, tracked on soundcheck, with 75 sets logged across Amsterdam, Athens, Berlin and Hamburg and 4 more. Often billed alongside Khloe, Majdolen and Jacob Meehan. Next up: AMT, Berlin on Fri 18 Sept.
+Dirty Daddy Don is a techno and house artist based in Canada, tracked on soundcheck, with 76 sets logged across Amsterdam, Athens, Berlin and Hamburg and 4 more. Often billed alongside Khloe, Majdolen and Jacob Meehan. Next up: AMT, Berlin on Fri 18 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 18 Sept 2026 | AMT | Berlin |
+| Sat, 19 Sept 2026 | KREUZWERK | Berlin |
 
 ## Recently played
 

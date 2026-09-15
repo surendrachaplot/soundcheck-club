@@ -8,7 +8,7 @@ Blend XL is a music venue in Amsterdam listed on soundcheck. 3 upcoming nights, 
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 23 Oct 2026 | LOOSE MONKEY TAKEOVER | Camilo Do Santos, LOUDER BROS. DEPARTMENT, TWOEF, Toti Coco |
+| Fri, 23 Oct 2026 | LOOSE MONKEY TAKEOVER | Camilo Do Santos, LOUDER BROS. DEPARTMENT, MR. SKIN, TWOEF, Toti Coco |
 | Fri, 23 Oct 2026 | Tokyo After Dark: ZIPANG | JEEN SEIGO, You Liang |
 | Sat, 24 Oct 2026 | Soundvision presents … Expmental ADE Networking | ChillOhm, Eddy Romero |
 

@@ -1,8 +1,8 @@
 # Jeff Mills
 
-Jeff Mills is a Techno and House artist with 12 upcoming club dates listed on soundcheck as of Tue, 15 Sept 2026, next at Vrachon Theater, Athens on Sun, 20 Sept 2026.
+Jeff Mills is a Techno and House artist with 13 upcoming club dates listed on soundcheck as of Tue, 15 Sept 2026, next at Vrachon Theater, Athens on Sun, 20 Sept 2026.
 
-Jeff Mills is a techno and house artist tracked on soundcheck, with 185 sets logged across Amsterdam, Antwerp, Athens and Auckland and 56 more. Often billed alongside DVS1, Marcel Dettmann and Helena Hauff. Next up: Vrachon Theater, Athens on Sun 20 Sept.
+Jeff Mills is a techno and house artist tracked on soundcheck, with 186 sets logged across Amsterdam, Antwerp, Athens and Auckland and 56 more. Often billed alongside DVS1, Marcel Dettmann and Helena Hauff. Next up: Vrachon Theater, Athens on Sun 20 Sept.
 
 ## Upcoming shows
 
@@ -15,11 +15,11 @@ Jeff Mills is a techno and house artist tracked on soundcheck, with 185 sets log
 | Fri, 23 Oct 2026 | WestWeelde | Amsterdam |
 | Sun, 25 Oct 2026 | Le Sucre | Lyon |
 | Sat, 31 Oct 2026 | Mondo Open Air | Madrid |
+| Sun, 1 Nov 2026 | Sophie Festival | Malaga |
 | Sat, 28 Nov 2026 | Thuishaven | Amsterdam |
 | Fri, 4 Dec 2026 | MFCC Arena | Malta |
 | Sun, 6 Dec 2026 | Cité De La Musique | Paris |
 | Fri, 11 Dec 2026 | Triennale di Milano | Milan |
-| Sat, 12 Dec 2026 | Plaza Monumental de Barcelona | Barcelona |
 
 ## Recently played
 

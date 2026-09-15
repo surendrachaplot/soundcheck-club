@@ -11,7 +11,7 @@ Outer Heaven is a music venue in Newyorkcity listed on soundcheck. 9 upcoming ni
 | Wed, 16 Sept 2026 | Outer Heaven presents: RAAUL | RAAUL |
 | Thu, 17 Sept 2026 | Resonyl presents: Nico Noir + Josh Shap | Nico Noir, Tolga, Zayd |
 | Fri, 18 Sept 2026 | Outer Heaven presents: Tolga | Luca Lozano, Mr. Ho, Tolga, Zayd |
-| Sat, 19 Sept 2026 | Klasse Wrecks all night long: Luca Lozano b2b Mr. Ho | Luca Lozano, Mr. Ho |
+| Sat, 19 Sept 2026 | Klasse Wrecks: Luca Lozano b2b Mr. Ho | Luca Lozano, Mr. Ho, Second Contact |
 | Wed, 23 Sept 2026 | Out The Bag: Choukroun b2b Monk |  |
 | Fri, 25 Sept 2026 | Outer Heaven presents: B.Love | Auphoria, B.Love, Rana Iravani |
 | Sat, 26 Sept 2026 | Outer Heaven presents: Momo Trossman | DLR (nyc), Momo Trosman |

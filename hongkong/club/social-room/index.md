@@ -10,7 +10,7 @@ Social Room is a music venue in Hongkong listed on soundcheck. 4 upcoming nights
 | --- | --- | --- |
 | Fri, 25 Sept 2026 | Jungle, Breaks, D&B, Bass Music - Mantra & Dwarde [UK] | 1908, DJ FU (2), Dwarde, GONG!, Immuno, Mantra, Mengzy |
 | Wed, 30 Sept 2026 | Canton Low End Express 粵港澳低音快線 | KOLAK |
-| Fri, 9 Oct 2026 | AXIS I LILIUM INFERNUM |  |
+| Fri, 9 Oct 2026 | AXIS I LILIUM INFERNUM | SARS |
 | Fri, 9 Oct 2026 | Axis I LILIUM INFERNUM |  |
 
 ## Address

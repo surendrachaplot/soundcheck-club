@@ -1,10 +1,10 @@
 # Keep Moovin' at Ernest
 
-Keep Moovin' at Ernest on Fri 2 Oct, Newcastle. Electro and Deep House. Preview the line-up and save it on soundcheck.
+Keep Moovin' at Ernest on Fri 20 Nov, Newcastle. Electro and Deep House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
-| Date | Fri, 2 Oct 2026 |
+| Date | Fri, 20 Nov 2026 |
 | Venue | Ernest |
 | City | Newcastle |
 

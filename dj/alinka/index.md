@@ -1,14 +1,15 @@
 # Alinka
 
-Alinka is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Tue, 15 Sept 2026, next at Berghain | Panorama Bar | Säule, Berlin on Sat, 19 Sept 2026.
+Alinka is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Tue, 15 Sept 2026, next at Berghain | Panorama Bar | Säule, Berlin on Sat, 19 Sept 2026.
 
-Alinka is a house and techno artist tracked on soundcheck, with 114 sets logged across Amsterdam, Athens, Bali and Barcelona and 35 more. Often billed alongside Massimiliano Pagliara, Budino and Sara Miller. Next up: Berghain | Panorama Bar | Säule, Berlin on Sat 19 Sept.
+Alinka is a house and techno artist tracked on soundcheck, with 115 sets logged across Amsterdam, Athens, Bali and Barcelona and 35 more. Often billed alongside Massimiliano Pagliara, Budino and Sara Miller. Next up: Berghain | Panorama Bar | Säule, Berlin on Sat 19 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 19 Sept 2026 | Berghain / Panorama Bar / Säule | Berlin |
+| Fri, 25 Sept 2026 | Apollo Club Milano | Milan |
 | Fri, 9 Oct 2026 | LFO.exp | Madrid |
 | Sat, 17 Oct 2026 | Studio Club Malaga | Malaga |
 | Fri, 23 Oct 2026 | Q-Factory | Amsterdam |

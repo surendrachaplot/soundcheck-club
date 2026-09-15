@@ -1,14 +1,15 @@
 # Moby
 
-Moby is a Progressive House and Techno artist with 2 upcoming club dates listed on soundcheck as of Tue, 15 Sept 2026, next at Various Venues, London on Thu, 24 Sept 2026.
+Moby is a Electronica and Progressive House artist with 3 upcoming club dates listed on soundcheck as of Tue, 15 Sept 2026, next at Various Venues, London on Thu, 24 Sept 2026.
 
-Moby is a progressive house and techno artist based in United States of America, tracked on soundcheck, with 8 sets logged across Bangkok, Berlin, London and Losangeles and 1 more. Often billed alongside ASHER SWISSA, Alesso and AliA. Next up: Various Venues, London on Thu 24 Sept.
+Moby is an electronica and progressive house artist based in United States of America, tracked on soundcheck, with 9 sets logged across Bangkok, Berlin, London and Losangeles and 1 more. Often billed alongside DJ Holographic, FCUKERS and Nia Archives. Next up: Various Venues, London on Thu 24 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Thu, 24 Sept 2026 | Various Venues | London |
+| Sat, 7 Nov 2026 | Brookside at the Rose Bowl | Los Angeles |
 | Sat, 7 Nov 2026 | Brookside at the Rose Bowl | Los Angeles |
 
 ## Recently played
@@ -22,6 +23,6 @@ Moby is a progressive house and techno artist based in United States of America,
 
 ## Shares bills with
 
-ASHER SWISSA, Alesso, AliA
+DJ Holographic, FCUKERS, Nia Archives
 
 *Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/moby/)*

@@ -1,14 +1,15 @@
 # Delta Funktionen
 
-Delta Funktionen is a Downtempo and Dub Techno artist with 2 upcoming club dates listed on soundcheck as of Tue, 15 Sept 2026, next at Paradiso, Amsterdam on Fri, 18 Sept 2026.
+Delta Funktionen is a Techno and Downtempo artist with 3 upcoming club dates listed on soundcheck as of Tue, 15 Sept 2026, next at Paradiso, Amsterdam on Fri, 18 Sept 2026.
 
-Delta Funktionen is a downtempo and dub techno artist tracked on soundcheck, with 5 sets logged across Amsterdam, Athens, Barcelona and Berlin and 1 more. Often billed alongside .VRIL, 3.14 and Adiel. Next up: Paradiso, Amsterdam on Fri 18 Sept.
+Delta Funktionen is a techno and downtempo artist tracked on soundcheck, with 6 sets logged across Amsterdam, Athens, Barcelona and Berlin and 1 more. Often billed alongside .VRIL, 3.14 and Adiel. Next up: Paradiso, Amsterdam on Fri 18 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 18 Sept 2026 | Paradiso | Amsterdam |
+| Fri, 2 Oct 2026 | LAUT | Barcelona |
 | Thu, 8 Oct 2026 | Space Orbit | Tokyo |
 
 ## Recently played

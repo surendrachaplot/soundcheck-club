@@ -1,13 +1,14 @@
 # Anuli
 
-Anuli is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 15 Sept 2026, next at Tresor.West, Dortmund-essen on Sat, 19 Sept 2026.
+Anuli is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Tue, 15 Sept 2026, next at Gewölbe, Cologne on Fri, 18 Sept 2026.
 
-Anuli is a techno and house artist tracked on soundcheck, with 7 sets logged across Berlin, Cologne, Dortmund-essen and Leipzig. Often billed alongside Dychromatic, Lip71 and makahaun. Next up: Tresor.West, Dortmund-essen on Sat 19 Sept.
+Anuli is a techno and house artist tracked on soundcheck, with 8 sets logged across Berlin, Cologne, Dortmund-essen and Leipzig. Often billed alongside Dychromatic, Lip71 and makahaun. Next up: Gewölbe, Cologne on Fri 18 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 18 Sept 2026 | Gewölbe | Cologne |
 | Sat, 19 Sept 2026 | Tresor.West | Dortmund-essen |
 
 ## Recently played

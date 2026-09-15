@@ -1,8 +1,8 @@
 # KILL 9 1
 
-KILL 9 1 is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Tue, 15 Sept 2026, next at Story Toronto, Toronto on Fri, 18 Sept 2026.
+KILL 9 1 is a Techno and Hardcore artist with 5 upcoming club dates listed on soundcheck as of Tue, 15 Sept 2026, next at Story Toronto, Toronto on Fri, 18 Sept 2026.
 
-KILL 9 1 is a techno and house artist based in Canada, tracked on soundcheck, with 43 sets logged across Toronto. Often billed alongside R4TS, Mand0 and Maul (2). Next up: Story Toronto, Toronto on Fri 18 Sept.
+KILL 9 1 is a techno and hardcore artist based in Canada, tracked on soundcheck, with 43 sets logged across Toronto. Often billed alongside R4TS, Mand0 and Maul (2). Next up: Story Toronto, Toronto on Fri 18 Sept.
 
 ## Upcoming shows
 

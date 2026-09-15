@@ -9,7 +9,7 @@ Claudio PRC is a techno and ambient artist based in Italy, tracked on soundcheck
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 18 Sept 2026 | Paradiso | Amsterdam |
-| Sat, 3 Oct 2026 | Onyx (E1) | London |
+| Sat, 3 Oct 2026 | E1 | London |
 | Sun, 4 Oct 2026 | Gare Porto | Porto |
 | Sun, 11 Oct 2026 | Razzmatazz | Barcelona |
 | Sun, 18 Oct 2026 | Bodies in Space | Brussels |

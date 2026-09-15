@@ -1,8 +1,8 @@
 # Seaseaclub Barcelona
 
-Seaseaclub Barcelona is a music venue in Barcelona with 14 upcoming nights listed on soundcheck as of Tue, 15 Sept 2026; the next is "TSOA: Fritz Kalkbrenner & Einmusik (Open Air)" on Sat, 19 Sept 2026.
+Seaseaclub Barcelona is a music venue in Barcelona with 15 upcoming nights listed on soundcheck as of Tue, 15 Sept 2026; the next is "TSOA: Fritz Kalkbrenner & Einmusik (Open Air)" on Sat, 19 Sept 2026.
 
-Seaseaclub Barcelona is a music venue in Barcelona listed on soundcheck. 14 upcoming nights, with line-ups including Agatha Pher, arnald, Belu Rodriguez and BizZa and 2 more. Browse upcoming dates, start times and who's playing. Carrer Port Esportiu, 14P, 08930 Barcelona.
+Seaseaclub Barcelona is a music venue in Barcelona listed on soundcheck. 15 upcoming nights, with line-ups including Agatha Pher, Alec Falconer, arnald and Belu Rodriguez and 2 more. Browse upcoming dates, start times and who's playing. Carrer Port Esportiu, 14P, 08930 Barcelona.
 
 ## What's on
 

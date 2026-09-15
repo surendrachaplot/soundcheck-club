@@ -1,6 +1,6 @@
 # Breezeway presents: Skeptic at Fisher Gate Point
 
-Breezeway presents: Skeptic at Fisher Gate Point on Sat 10 Oct, Nottingham. 2 acts on the bill: Milzy and Skeptic. House and Garage. Preview the line-up and save it on soundcheck.
+Breezeway presents: Skeptic at Fisher Gate Point on Sat 10 Oct, Nottingham. 5 acts on the bill: AYSHA, dj come, EASTSXDE and Milzy and 1 more. House and Garage. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,9 @@ Breezeway presents: Skeptic at Fisher Gate Point on Sat 10 Oct, Nottingham. 2 ac
 
 ## Line-up
 
+- AYSHA
+- dj come
+- EASTSXDE
 - Milzy
 - Skeptic
 

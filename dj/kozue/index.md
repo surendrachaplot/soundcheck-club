@@ -1,13 +1,14 @@
 # Kozue
 
-Kozue is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Tue, 15 Sept 2026, next at TBA - Shipyards Waterfront, Vancouver on Sat, 3 Oct 2026.
+Kozue is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Tue, 15 Sept 2026, next at Gorg-O-Mish, Vancouver on Fri, 18 Sept 2026.
 
-Kozue is a house and techno artist tracked on soundcheck, with 48 sets logged across Montreal, Tokyo and Vancouver. Often billed alongside Dane, Beiti and Body Double. Next up: TBA - Shipyards Waterfront, Vancouver on Sat 3 Oct.
+Kozue is a house and techno artist tracked on soundcheck, with 49 sets logged across Montreal, Tokyo and Vancouver. Often billed alongside Dane, Beiti and Body Double. Next up: Gorg-O-Mish, Vancouver on Fri 18 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 18 Sept 2026 | Gorg-O-Mish | Vancouver |
 | Sat, 3 Oct 2026 | TBA - Shipyards Waterfront | Vancouver |
 | Sat, 3 Oct 2026 | TBA - Platform 9 | Vancouver |
 

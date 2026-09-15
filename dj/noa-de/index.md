@@ -1,13 +1,14 @@
 # Noa (DE)
 
-Noa (DE) is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 15 Sept 2026, next at Communale Saint-Ouen, Paris on Thu, 22 Oct 2026.
+Noa (DE) is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Tue, 15 Sept 2026, next at Yodo Groove (Yodobashi Ikebukuro), Tokyo on Sun, 18 Oct 2026.
 
-Noa (DE) is a house and techno artist based in Germany, tracked on soundcheck, with 17 sets logged across Amsterdam, Barcelona, Berlin and Hamburg and 4 more. Often billed alongside Crille & Tamalt, Punani and Triqi. Next up: Communale Saint-Ouen, Paris on Thu 22 Oct.
+Noa (DE) is a house and techno artist based in Germany, tracked on soundcheck, with 18 sets logged across Amsterdam, Barcelona, Berlin and Hamburg and 4 more. Often billed alongside Crille & Tamalt, Punani and Triqi. Next up: Yodo Groove (Yodobashi Ikebukuro), Tokyo on Sun 18 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sun, 18 Oct 2026 | Yodo Groove (Yodobashi Ikebukuro) | Tokyo |
 | Thu, 22 Oct 2026 | Communale Saint-Ouen | Paris |
 
 ## Recently played

@@ -1,8 +1,8 @@
 # Lumiere
 
-Lumiere is a House and Techno artist with 7 upcoming club dates listed on soundcheck as of Tue, 15 Sept 2026, next at Les Enfants Brillants, Barcelona on Fri, 18 Sept 2026.
+Lumiere is a House and Techno artist with 8 upcoming club dates listed on soundcheck as of Tue, 15 Sept 2026, next at Les Enfants Brillants, Barcelona on Fri, 18 Sept 2026.
 
-Lumiere is a house and techno artist tracked on soundcheck, with 114 sets logged across Amsterdam, Barcelona, Berlin and Ibiza and 12 more. Often billed alongside Anah, Francesco Del Garda and Binh. Next up: Les Enfants Brillants, Barcelona on Fri 18 Sept.
+Lumiere is a house and techno artist tracked on soundcheck, with 115 sets logged across Amsterdam, Barcelona, Berlin and Ibiza and 12 more. Often billed alongside Anah, Christian AB and Francesco Del Garda. Next up: Les Enfants Brillants, Barcelona on Fri 18 Sept.
 
 ## Upcoming shows
 
@@ -14,6 +14,7 @@ Lumiere is a house and techno artist tracked on soundcheck, with 114 sets logged
 | Fri, 9 Oct 2026 | Parc d’Atraccions del Tibidabo | Barcelona |
 | Sat, 17 Oct 2026 | Night Tales | London |
 | Fri, 23 Oct 2026 | WestWeelde | Amsterdam |
+| Sat, 31 Oct 2026 | Las Tres Chimeneas | Barcelona |
 | Sat, 14 Nov 2026 | Les Enfants Brillants | Barcelona |
 
 ## Recently played
@@ -29,6 +30,6 @@ Lumiere is a house and techno artist tracked on soundcheck, with 114 sets logged
 
 ## Shares bills with
 
-Anah, Francesco Del Garda, Binh
+Anah, Christian AB, Francesco Del Garda
 
 *Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lumiere-1/)*

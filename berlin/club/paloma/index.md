@@ -1,14 +1,14 @@
 # Paloma
 
-Paloma is a music venue in Berlin with 27 upcoming nights listed on soundcheck as of Tue, 15 Sept 2026; the next is "shockwerk Open Decks" on Thu, 17 Sept 2026.
+Paloma is a music venue in Berlin with 32 upcoming nights listed on soundcheck as of Tue, 15 Sept 2026; the next is "shockwerk Open Decks" on Thu, 17 Sept 2026.
 
-Paloma is a music venue in Berlin listed on soundcheck. 27 upcoming nights, with line-ups including AAguilAA, adodo, Adriano Scopece and Aidan and 2 more. Browse upcoming dates, start times and who's playing. Skalitzer Str. 135, 10999 Berlin.
+Paloma is a music venue in Berlin listed on soundcheck. 32 upcoming nights, with line-ups including 11:68PM, AAguilAA, adodo and Adriano Scopece and 2 more. Browse upcoming dates, start times and who's playing. Skalitzer Str. 135, 10999 Berlin.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Thu, 17 Sept 2026 | shockwerk Open Decks |  |
+| Thu, 17 Sept 2026 | shockwerk Open Decks | AHURA, Linda shiro, Zuleta M, treskko |
 | Fri, 18 Sept 2026 | Slinky | Seb Odyssey, SiSi (2) |
 | Fri, 18 Sept 2026 | Midnight Flower I Ben Kaczor | Ben Kaczor, Felix Kropf, kralle |
 | Sat, 19 Sept 2026 | The Finest | Carl Hang, Davy (Crème Club), Dreimal T, Finona Rider, Lulu & Nell, Ole Schönfeld, Zarling, boris (creme club), degen |

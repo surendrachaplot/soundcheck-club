@@ -2,14 +2,14 @@
 
 Fisher Gate Point is a music venue in Nottingham with 2 upcoming nights listed on soundcheck as of Tue, 15 Sept 2026; the next is "In The Clouds - LIVE BANDS" on Sat, 26 Sept 2026.
 
-Fisher Gate Point is a music venue in Nottingham listed on soundcheck. 2 upcoming nights, with line-ups including Milzy and Skeptic. Browse upcoming dates, start times and who's playing. Fisher Gate Point, 1a Fisher Gate, Nottingham NG1 1GD.
+Fisher Gate Point is a music venue in Nottingham listed on soundcheck. 2 upcoming nights, with line-ups including AYSHA, dj come, EASTSXDE and Milzy and 1 more. Browse upcoming dates, start times and who's playing. Fisher Gate Point, 1a Fisher Gate, Nottingham NG1 1GD.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
 | Sat, 26 Sept 2026 | In The Clouds - LIVE BANDS |  |
-| Sat, 10 Oct 2026 | Breezeway presents: Skeptic | Milzy, Skeptic |
+| Sat, 10 Oct 2026 | Breezeway presents: Skeptic | AYSHA, EASTSXDE, Milzy, Skeptic, dj come |
 
 ## Address
 

@@ -1,14 +1,15 @@
 # COSMOGANG
 
-COSMOGANG is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 15 Sept 2026, next at Cafe & Bar Extrawelt, Tokyo on Thu, 17 Sept 2026.
+COSMOGANG is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Tue, 15 Sept 2026, next at Cafe & Bar Extrawelt, Tokyo on Thu, 17 Sept 2026.
 
-COSMOGANG is a techno and house artist based in Japan, tracked on soundcheck, with 21 sets logged across Tokyo. Often billed alongside Nobuharu Morimoto, Kamaida and Kaw (1). Next up: Cafe & Bar Extrawelt, Tokyo on Thu 17 Sept.
+COSMOGANG is a techno and house artist based in Japan, tracked on soundcheck, with 22 sets logged across Tokyo. Often billed alongside Nobuharu Morimoto, Kamaida and Kaw (1). Next up: Cafe & Bar Extrawelt, Tokyo on Thu 17 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Thu, 17 Sept 2026 | Cafe & Bar Extrawelt | Tokyo |
+| Fri, 25 Sept 2026 | DeTour | Tokyo |
 
 ## Recently played
 

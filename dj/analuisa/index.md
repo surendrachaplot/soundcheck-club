@@ -1,13 +1,14 @@
 # Ana Luisa
 
-Ana Luisa is a Latin Bass and Club artist with 1 upcoming club date listed on soundcheck as of Tue, 15 Sept 2026, next at 821 Runnymede Rd, Toronto on Fri, 23 Oct 2026.
+Ana Luisa is a Latin Bass and Club artist with 2 upcoming club dates listed on soundcheck as of Tue, 15 Sept 2026, next at Cafeteria, Toronto on Fri, 25 Sept 2026.
 
-Ana Luisa is a latin bass and club artist tracked on soundcheck, with 61 sets logged across Montreal, Toronto and Vancouver. Often billed alongside Sofia Fly, Litney and HVN (1). Next up: 821 Runnymede Rd, Toronto on Fri 23 Oct.
+Ana Luisa is a latin bass and club artist tracked on soundcheck, with 62 sets logged across Montreal, Toronto and Vancouver. Often billed alongside Sofia Fly, Litney and HVN (1). Next up: Cafeteria, Toronto on Fri 25 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 25 Sept 2026 | Cafeteria | Toronto |
 | Fri, 23 Oct 2026 | 821 Runnymede Rd | Toronto |
 
 ## Recently played

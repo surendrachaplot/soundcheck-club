@@ -1,6 +1,6 @@
-# Pentimento > Altrove > David Fogarty at Altrove
+# Pentimento & Altrove | David Fogarty at Altrove
 
-Pentimento > Altrove > David Fogarty on Fri 2 Oct, Milan. 4 acts on the bill: David Fogarty, Ddcmp, Gabriele and Pietro Bernasconi. Preview the line-up and save it on soundcheck.
+Pentimento & Altrove | David Fogarty on Fri 2 Oct, Milan. 4 acts on the bill: David Fogarty, Ddcmp, Gabriele and Pietro Bernasconi. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
