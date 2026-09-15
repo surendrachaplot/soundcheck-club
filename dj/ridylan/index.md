@@ -1,6 +1,6 @@
 # RiDylan
 
-RiDylan is a Breakcore and Drum & Bass artist with 1 upcoming club date listed on soundcheck as of Mon, 14 Sept 2026, next at The Cobalt, Vancouver on Thu, 1 Oct 2026.
+RiDylan is a Breakcore and Drum & Bass artist with 1 upcoming club date listed on soundcheck as of Tue, 15 Sept 2026, next at The Cobalt, Vancouver on Thu, 1 Oct 2026.
 
 RiDylan is a breakcore and drum & bass artist tracked on soundcheck, with 22 sets logged across Kyoto, Newyorkcity, Osaka and Portland and 4 more. Often billed alongside Hitori Tori, Lil Kevo 303 and Chaotic Ugly. Next up: The Cobalt, Vancouver on Thu 1 Oct.
 
@@ -25,4 +25,4 @@ RiDylan is a breakcore and drum & bass artist tracked on soundcheck, with 22 set
 
 Hitori Tori, Lil Kevo 303, Chaotic Ugly
 
-*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ridylan/)*
+*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ridylan/)*

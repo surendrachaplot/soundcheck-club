@@ -1,6 +1,6 @@
 # Mister Joshooa
 
-Mister Joshooa is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 14 Sept 2026, next at TV Lounge, Detroit on Sun, 4 Oct 2026.
+Mister Joshooa is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 15 Sept 2026, next at TV Lounge, Detroit on Sun, 4 Oct 2026.
 
 Mister Joshooa is a house and techno artist tracked on soundcheck, with 115 sets logged across Berlin, Boston, Chicago and Detroit and 4 more. Often billed alongside Loren, Ataxia and Ashton Swinton. Next up: TV Lounge, Detroit on Sun 4 Oct.
 
@@ -25,4 +25,4 @@ Mister Joshooa is a house and techno artist tracked on soundcheck, with 115 sets
 
 Loren, Ataxia, Ashton Swinton
 
-*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/misterjoshooa/)*
+*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/misterjoshooa/)*

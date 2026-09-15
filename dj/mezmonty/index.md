@@ -1,6 +1,6 @@
 # Mez Monty
 
-Mez Monty is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Mon, 14 Sept 2026, next at Los Globos, Los Angeles on Thu, 24 Sept 2026.
+Mez Monty is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Tue, 15 Sept 2026, next at Los Globos, Los Angeles on Thu, 24 Sept 2026.
 
 Mez Monty is a house and techno artist tracked on soundcheck, with 91 sets logged across Amsterdam, Berlin, Chicago and Lisbon and 12 more. Often billed alongside Shane Thomas, Sevyn and Eli Escobar. Next up: Los Globos, Losangeles on Thu 24 Sept.
 
@@ -27,4 +27,4 @@ Mez Monty is a house and techno artist tracked on soundcheck, with 91 sets logge
 
 Shane Thomas, Sevyn, Eli Escobar
 
-*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mezmonty/)*
+*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mezmonty/)*

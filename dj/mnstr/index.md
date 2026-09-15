@@ -1,6 +1,6 @@
 # MNSTR
 
-MNSTR is a Jungle and Electro artist with 1 upcoming club date listed on soundcheck as of Mon, 14 Sept 2026, next at Basement Vesterbro, Copenhagen on Fri, 25 Sept 2026.
+MNSTR is a Jungle and Electro artist with 1 upcoming club date listed on soundcheck as of Tue, 15 Sept 2026, next at Basement Vesterbro, Copenhagen on Fri, 25 Sept 2026.
 
 MNSTR is a jungle and electro artist based in Denmark, tracked on soundcheck, with 4 sets logged across Copenhagen. Often billed alongside AMITTET, Lixin and Maxi Mo. Next up: Basement Vesterbro, Copenhagen on Fri 25 Sept.
 
@@ -20,4 +20,4 @@ MNSTR is a jungle and electro artist based in Denmark, tracked on soundcheck, wi
 
 AMITTET, Lixin, Maxi Mo
 
-*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mnstr/)*
+*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mnstr/)*

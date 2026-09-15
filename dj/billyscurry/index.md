@@ -1,6 +1,6 @@
 # Billy Scurry
 
-Billy Scurry is a electronic artist with 1 upcoming club date listed on soundcheck as of Mon, 14 Sept 2026, next at Hang Dai Chinese, Dublin on Sat, 3 Oct 2026.
+Billy Scurry is a electronic artist with 1 upcoming club date listed on soundcheck as of Tue, 15 Sept 2026, next at Hang Dai Chinese, Dublin on Sat, 3 Oct 2026.
 
 Billy Scurry is an electronic artist based in Ireland, tracked on soundcheck, with 4 sets logged across Dublin. Often billed alongside Arveene, Alba (2) and Donal Dineen. Next up: Hang Dai Chinese, Dublin on Sat 3 Oct.
 
@@ -20,4 +20,4 @@ Billy Scurry is an electronic artist based in Ireland, tracked on soundcheck, wi
 
 Arveene, Alba (2), Donal Dineen
 
-*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/billyscurry/)*
+*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/billyscurry/)*

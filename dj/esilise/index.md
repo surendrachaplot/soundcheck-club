@@ -1,14 +1,15 @@
 # Esilise
 
-Esilise is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Mon, 14 Sept 2026, next at TBA, Paris on Sat, 19 Sept 2026.
+Esilise is a Techno and Industrial artist with 2 upcoming club dates listed on soundcheck as of Tue, 15 Sept 2026, next at TBA, Paris on Sat, 19 Sept 2026.
 
-Esilise is a techno and industrial artist tracked on soundcheck, with 45 sets logged across Barcelona, Basel, Berlin and Budapest and 10 more. Often billed alongside Krypton, NICE KEED and Doruksen. Next up: TBA, Paris on Sat 19 Sept.
+Esilise is a techno and industrial artist tracked on soundcheck, with 46 sets logged across Barcelona, Basel, Berlin and Budapest and 10 more. Often billed alongside Krypton, NICE KEED and Doruksen. Next up: TBA, Paris on Sat 19 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 19 Sept 2026 | TBA | Paris |
+| Fri, 2 Oct 2026 | Kilomètre25 | Paris |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Esilise is a techno and industrial artist tracked on soundcheck, with 45 sets lo
 
 Krypton, NICE KEED, Doruksen
 
-*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/esilise/)*
+*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/esilise/)*

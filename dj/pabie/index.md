@@ -1,6 +1,6 @@
 # Pabie
 
-Pabie is a Electro and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 14 Sept 2026, next at BARDO, Milan on Tue, 15 Sept 2026.
+Pabie is a Electro and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 15 Sept 2026, next at BARDO, Milan on Tue, 15 Sept 2026.
 
 Pabie is an electro and techno artist based in Italy, tracked on soundcheck, with 45 sets logged across Barcelona, Berlin, London and Milan and 2 more. Often billed alongside Velardi, Dizzy and Inner Lakes. Next up: BARDO, Milan on Tue 15 Sept.
 
@@ -25,4 +25,4 @@ Pabie is an electro and techno artist based in Italy, tracked on soundcheck, wit
 
 Velardi, Dizzy, Inner Lakes
 
-*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/pabie/)*
+*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/pabie/)*

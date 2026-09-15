@@ -1,6 +1,6 @@
 # SNTS
 
-SNTS is a Techno and Industrial artist with 3 upcoming club dates listed on soundcheck as of Mon, 14 Sept 2026, next at Drugstore Beograd, Belgrade on Sat, 19 Sept 2026.
+SNTS is a Techno and Industrial artist with 3 upcoming club dates listed on soundcheck as of Tue, 15 Sept 2026, next at Drugstore Beograd, Belgrade on Sat, 19 Sept 2026.
 
 SNTS is a techno and industrial artist tracked on soundcheck, with 171 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 48 more. Often billed alongside Charlie Sparks, 999999999 and DYEN. Next up: Drugstore Beograd, Belgrade on Sat 19 Sept.
 
@@ -27,4 +27,4 @@ SNTS is a techno and industrial artist tracked on soundcheck, with 171 sets logg
 
 Charlie Sparks, 999999999, DYEN
 
-*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/snts/)*
+*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/snts/)*

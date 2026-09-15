@@ -1,6 +1,6 @@
 # Constratti
 
-Constratti is a Minimal and House artist with 1 upcoming club date listed on soundcheck as of Mon, 14 Sept 2026, next at Last Arch, London on Sat, 10 Oct 2026.
+Constratti is a Minimal and House artist with 1 upcoming club date listed on soundcheck as of Tue, 15 Sept 2026, next at Last Arch, London on Sat, 10 Oct 2026.
 
 Constratti is a minimal and house artist tracked on soundcheck, with 25 sets logged across Amsterdam, Barcelona, Berlin and Bucharest and 6 more. Often billed alongside Techu, Mihai Pol and BILA. Next up: Last Arch, London on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ Constratti is a minimal and house artist tracked on soundcheck, with 25 sets log
 
 Techu, Mihai Pol, BILA
 
-*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/constratti/)*
+*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/constratti/)*

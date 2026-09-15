@@ -1,8 +1,8 @@
 # Palais
 
-Palais is a music venue in London with 17 upcoming nights listed on soundcheck as of Mon, 14 Sept 2026; the next is "Origins: Sally C, Eclair Fifi & Cáit" on Fri, 18 Sept 2026.
+Palais is a music venue in London with 18 upcoming nights listed on soundcheck as of Tue, 15 Sept 2026; the next is "Origins: Sally C, Eclair Fifi & Cáit" on Fri, 18 Sept 2026.
 
-Palais is a music venue in London listed on soundcheck. 17 upcoming nights, with line-ups including Alex Kassian, Andy Garvey, Aurora Halal and Axel Boman and 2 more. Browse upcoming dates, start times and who's playing. 1a Rye Ln, London SE15 5EW.
+Palais is a music venue in London listed on soundcheck. 18 upcoming nights, with line-ups including Alex Kassian, Andy Garvey, Aurora Halal and Axel Boman and 2 more. Browse upcoming dates, start times and who's playing. 1a Rye Ln, London SE15 5EW.
 
 ## What's on
 
@@ -23,4 +23,4 @@ Palais is a music venue in London listed on soundcheck. 17 upcoming nights, with
 
 1a Rye Ln, London SE15 5EW, London
 
-*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/palais/)*
+*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/palais/)*

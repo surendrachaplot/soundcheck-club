@@ -1,6 +1,6 @@
 # Daniel Hive
 
-Daniel Hive is a Disco and House artist with 1 upcoming club date listed on soundcheck as of Mon, 14 Sept 2026, next at The Buff Club, Glasgow on Fri, 2 Oct 2026.
+Daniel Hive is a Disco and House artist with 1 upcoming club date listed on soundcheck as of Tue, 15 Sept 2026, next at The Buff Club, Glasgow on Fri, 2 Oct 2026.
 
 Daniel Hive is a disco and house artist based in United Kingdom, tracked on soundcheck, with 37 sets logged across Glasgow and Tokyo. Often billed alongside Shaka Loves You, Temple Sniper and McGowski. Next up: The Buff Club, Glasgow on Fri 2 Oct.
 
@@ -25,4 +25,4 @@ Daniel Hive is a disco and house artist based in United Kingdom, tracked on soun
 
 Shaka Loves You, Temple Sniper, McGowski
 
-*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/danielhive/)*
+*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/danielhive/)*

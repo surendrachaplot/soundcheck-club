@@ -1,8 +1,8 @@
 # FOLD
 
-FOLD is a music venue in London with 26 upcoming nights listed on soundcheck as of Mon, 14 Sept 2026; the next is "Labyrinth presents: Detroit Love London - Carl Craig, Octave One Live & Idriss D" on Fri, 18 Sept 2026.
+FOLD is a music venue in London with 27 upcoming nights listed on soundcheck as of Tue, 15 Sept 2026; the next is "Labyrinth presents: Detroit Love London - Carl Craig, Octave One Live & Idriss D" on Fri, 18 Sept 2026.
 
-FOLD is a music venue in London listed on soundcheck. 26 upcoming nights, with line-ups including aalice, Aaron J, Alicia (UK) and Anabel Arroyo and 2 more. Browse upcoming dates, start times and who's playing. Gillian House, Stephenson St, London E16 4SA, UK.
+FOLD is a music venue in London listed on soundcheck. 27 upcoming nights, with line-ups including aalice, Aaron J, Alicia (UK) and Anabel Arroyo and 2 more. Browse upcoming dates, start times and who's playing. Gillian House, Stephenson St, London E16 4SA, UK.
 
 ## What's on
 
@@ -23,4 +23,4 @@ FOLD is a music venue in London listed on soundcheck. 26 upcoming nights, with l
 
 Gillian House, Stephenson St, London E16 4SA, UK, London
 
-*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/fold/)*
+*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/fold/)*

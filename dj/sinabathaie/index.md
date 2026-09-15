@@ -1,6 +1,6 @@
 # Sina Bathaie
 
-Sina Bathaie is a Downtempo and Deep House artist with 6 upcoming club dates listed on soundcheck as of Mon, 14 Sept 2026, next at Temple Athens, Athens on Tue, 15 Sept 2026.
+Sina Bathaie is a Downtempo and Deep House artist with 6 upcoming club dates listed on soundcheck as of Tue, 15 Sept 2026, next at Temple Athens, Athens on Tue, 15 Sept 2026.
 
 Sina Bathaie is a downtempo and deep house artist tracked on soundcheck, with 93 sets logged across Amsterdam, Athens, Auckland and Austin and 42 more. Often billed alongside DJ Joeski, Facundo Mohrr and Kora (CA). Next up: Temple Athens, Athens on Tue 15 Sept.
 
@@ -30,4 +30,4 @@ Sina Bathaie is a downtempo and deep house artist tracked on soundcheck, with 93
 
 DJ Joeski, Facundo Mohrr, Kora (CA)
 
-*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sinabathaie/)*
+*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sinabathaie/)*

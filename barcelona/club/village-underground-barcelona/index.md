@@ -1,6 +1,6 @@
 # Village Underground Barcelona
 
-Village Underground Barcelona is a music venue in Barcelona with 5 upcoming nights listed on soundcheck as of Mon, 14 Sept 2026; the next is "ESCANDALO Day & Night (12hrs)" on Sat, 19 Sept 2026.
+Village Underground Barcelona is a music venue in Barcelona with 5 upcoming nights listed on soundcheck as of Tue, 15 Sept 2026; the next is "ESCANDALO Day & Night (12hrs)" on Sat, 19 Sept 2026.
 
 Village Underground Barcelona is a music venue in Barcelona listed on soundcheck. 5 upcoming nights, with line-ups including Albal, C.ru.z, Dizzy and DJ Tree and 2 more. Browse upcoming dates, start times and who's playing. Carrer Cobalt 12, 08907 L'Hospitalet de Llobregat.
 
@@ -18,4 +18,4 @@ Village Underground Barcelona is a music venue in Barcelona listed on soundcheck
 
 Carrer Cobalt 12, 08907 L'Hospitalet de Llobregat, Barcelona
 
-*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/village-underground-barcelona/)*
+*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/village-underground-barcelona/)*

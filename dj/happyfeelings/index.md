@@ -1,6 +1,6 @@
 # Happy Feelings
 
-Happy Feelings is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Mon, 14 Sept 2026, next at Colorado Charlie, The Hague on Sat, 19 Sept 2026.
+Happy Feelings is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Tue, 15 Sept 2026, next at Colorado Charlie, The Hague on Sat, 19 Sept 2026.
 
 Happy Feelings is a house and disco artist based in Netherlands, tracked on soundcheck, with 20 sets logged across Amsterdam, Barcelona, Ibiza and Rotterdam and 1 more. Often billed alongside Ammé, BELLA (NL) and Benny Rodrigues. Next up: Colorado Charlie, Thehague on Sat 19 Sept.
 
@@ -25,4 +25,4 @@ Happy Feelings is a house and disco artist based in Netherlands, tracked on soun
 
 Ammé, BELLA (NL), Benny Rodrigues
 
-*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/happyfeelings/)*
+*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/happyfeelings/)*

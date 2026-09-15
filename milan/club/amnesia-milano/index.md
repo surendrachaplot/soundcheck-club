@@ -1,6 +1,6 @@
 # Amnesia Milano
 
-Amnesia Milano is a music venue in Milan with 1 upcoming night listed on soundcheck as of Mon, 14 Sept 2026; the next is "Bambounou, Mautone" on Sat, 26 Sept 2026.
+Amnesia Milano is a music venue in Milan with 1 upcoming night listed on soundcheck as of Tue, 15 Sept 2026; the next is "Bambounou, Mautone" on Sat, 26 Sept 2026.
 
 Amnesia Milano is a music venue in Milan listed on soundcheck. 1 upcoming night, with line-ups including Bambounou. Browse upcoming dates, start times and who's playing. Via Alfonso Gatto angolo Viale Forlanini, 20134 Milano (MI), Italy.
 
@@ -14,4 +14,4 @@ Amnesia Milano is a music venue in Milan listed on soundcheck. 1 upcoming night,
 
 Via Alfonso Gatto angolo Viale Forlanini, 20134 Milano (MI), Italy, Milan
 
-*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/milan/club/amnesia-milano/)*
+*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/milan/club/amnesia-milano/)*

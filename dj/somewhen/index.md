@@ -1,6 +1,6 @@
 # Somewhen
 
-Somewhen is a Techno and Trance artist with 6 upcoming club dates listed on soundcheck as of Mon, 14 Sept 2026, next at Westhafen, Leipzig on Sat, 19 Sept 2026.
+Somewhen is a Techno and Trance artist with 6 upcoming club dates listed on soundcheck as of Tue, 15 Sept 2026, next at Westhafen, Leipzig on Sat, 19 Sept 2026.
 
 Somewhen is a techno and trance artist tracked on soundcheck, with 208 sets logged across Amsterdam, Antwerp, Austin and Barcelona and 57 more. Often billed alongside Kobosil, Clara Cuvé and In Verruf. Next up: Westhafen, Leipzig on Sat 19 Sept.
 
@@ -30,4 +30,4 @@ Somewhen is a techno and trance artist tracked on soundcheck, with 208 sets logg
 
 Kobosil, Clara Cuvé, In Verruf
 
-*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/somewhen/)*
+*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/somewhen/)*

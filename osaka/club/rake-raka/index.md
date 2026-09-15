@@ -1,14 +1,13 @@
 # rake?raka?
 
-rake?raka? is a music venue in Osaka with 7 upcoming nights listed on soundcheck as of Mon, 14 Sept 2026; the next is "DEAR MONDAY, vol.303" on Mon, 14 Sept 2026.
+rake?raka? is a music venue in Osaka with 6 upcoming nights listed on soundcheck as of Tue, 15 Sept 2026; the next is "トランスパーティ　Supported by Liberation of Mind" on Fri, 18 Sept 2026.
 
-rake?raka? is a music venue in Osaka listed on soundcheck. 7 upcoming nights, with line-ups including Foodman, HSC (1), Katooon and Kim.Qna and 2 more. Browse upcoming dates, start times and who's playing. 6-2-8 Soemoncho, Chuo-ku, Osaka-shi, Osaka, 542-0084 Japan.
+rake?raka? is a music venue in Osaka listed on soundcheck. 6 upcoming nights, with line-ups including Foodman, HSC (1), Katooon and Kim.Qna and 1 more. Browse upcoming dates, start times and who's playing. 6-2-8 Soemoncho, Chuo-ku, Osaka-shi, Osaka, 542-0084 Japan.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Mon, 14 Sept 2026 | DEAR MONDAY, vol.303 | HSC (1), MATSURYO |
 | Fri, 18 Sept 2026 | トランスパーティ　Supported by Liberation of Mind |  |
 | Sat, 19 Sept 2026 | AfterLife |  |
 | Sun, 20 Sept 2026 | StreetTechno Vol.10 | Katooon |
@@ -20,4 +19,4 @@ rake?raka? is a music venue in Osaka listed on soundcheck. 7 upcoming nights, wi
 
 6-2-8 Soemoncho, Chuo-ku, Osaka-shi, Osaka, 542-0084 Japan, Osaka
 
-*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/osaka/club/rake-raka/)*
+*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/osaka/club/rake-raka/)*

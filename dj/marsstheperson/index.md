@@ -1,6 +1,6 @@
 # Marss The Person
 
-Marss The Person is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 14 Sept 2026, next at 1983, Riga on Fri, 2 Oct 2026.
+Marss The Person is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 15 Sept 2026, next at 1983, Riga on Fri, 2 Oct 2026.
 
 Marss The Person is a techno and house artist tracked on soundcheck, with 24 sets logged across Riga. Often billed alongside Ksenia Kamikaza, Freiya March and Merlin Cum. Next up: 1983, Riga on Fri 2 Oct.
 
@@ -25,4 +25,4 @@ Marss The Person is a techno and house artist tracked on soundcheck, with 24 set
 
 Ksenia Kamikaza, Freiya March, Merlin Cum
 
-*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/marsstheperson/)*
+*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/marsstheperson/)*

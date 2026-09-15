@@ -1,6 +1,6 @@
 # we1sman
 
-we1sman is a Techno and Club artist with 5 upcoming club dates listed on soundcheck as of Mon, 14 Sept 2026, next at The Eagle of Detroit, Detroit on Fri, 18 Sept 2026.
+we1sman is a Techno and Club artist with 5 upcoming club dates listed on soundcheck as of Tue, 15 Sept 2026, next at The Eagle of Detroit, Detroit on Fri, 18 Sept 2026.
 
 we1sman is a techno and club artist tracked on soundcheck, with 140 sets logged across Denver, Detroit and Newyorkcity. Often billed alongside Wax Assassin, jamea. and LATEX GIRL. Next up: The Eagle of Detroit, Detroit on Fri 18 Sept.
 
@@ -29,4 +29,4 @@ we1sman is a techno and club artist tracked on soundcheck, with 140 sets logged 
 
 Wax Assassin, jamea., LATEX GIRL
 
-*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/we1sman/)*
+*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/we1sman/)*

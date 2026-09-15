@@ -1,8 +1,8 @@
 # TBA
 
-TBA is a music venue in London with 283 upcoming nights listed on soundcheck as of Mon, 14 Sept 2026; the next is "Crypto Scam Recovery Services: Crypto Assets Recovery - Recover Stolen Crypto Funds" on Thu, 10 Sept 2026.
+TBA is a music venue in London with 288 upcoming nights listed on soundcheck as of Tue, 15 Sept 2026; the next is "Crypto Scam Recovery Services: Crypto Assets Recovery - Recover Stolen Crypto Funds" on Thu, 10 Sept 2026.
 
-TBA is a music venue in London listed on soundcheck. 283 upcoming nights, with line-ups including 1-800 GIRLS, 1morning, 320 (1) and 666.pastel and 2 more. Browse upcoming dates, start times and who's playing.
+TBA is a music venue in London listed on soundcheck. 288 upcoming nights, with line-ups including 1-800 GIRLS, 1morning, 320 (1) and 3 Minds and 2 more. Browse upcoming dates, start times and who's playing.
 
 ## What's on
 
@@ -19,4 +19,4 @@ TBA is a music venue in London listed on soundcheck. 283 upcoming nights, with l
 | Thu, 17 Sept 2026 | - |  |
 | Fri, 18 Sept 2026 | Not a BBQ : Stones Taro (JP) with Trailcam, Marnigurl, Lather Rinse Repeat, & more | Chumbo, Hemlock, Lather Rinse Repeat, MSDELICIOUS, Marnigurl, Pyro505, Stones Taro, Trailcam |
 
-*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/tba/)*
+*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/tba/)*

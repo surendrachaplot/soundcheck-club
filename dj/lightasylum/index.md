@@ -1,14 +1,15 @@
 # Light Asylum
 
-Light Asylum is a EBM and Industrial artist with 1 upcoming club date listed on soundcheck as of Mon, 14 Sept 2026, next at Botanique, Brussels on Wed, 23 Sept 2026.
+Light Asylum is a EBM and Industrial artist with 2 upcoming club dates listed on soundcheck as of Tue, 15 Sept 2026, next at Botanique, Brussels on Wed, 23 Sept 2026.
 
-Light Asylum is an ebm and industrial artist based in United States of America, tracked on soundcheck, with 23 sets logged across Berlin, Brussels, Chicago and Copenhagen and 11 more. Often billed alongside EchoDroides, Heavy Halo and Vyper. Next up: Botanique, Brussels on Wed 23 Sept.
+Light Asylum is an ebm and industrial artist based in United States of America, tracked on soundcheck, with 24 sets logged across Berlin, Brussels, Chicago and Copenhagen and 11 more. Often billed alongside EchoDroides, Heavy Halo and Vyper. Next up: Botanique, Brussels on Wed 23 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Wed, 23 Sept 2026 | Botanique | Brussels |
+| Fri, 16 Oct 2026 | Paragon | New York City |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Light Asylum is an ebm and industrial artist based in United States of America, 
 
 EchoDroides, Heavy Halo, Vyper
 
-*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lightasylum/)*
+*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lightasylum/)*

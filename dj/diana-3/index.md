@@ -1,6 +1,6 @@
 # Diana (3)
 
-Diana (3) is a House artist with 1 upcoming club date listed on soundcheck as of Mon, 14 Sept 2026, next at 303 Audiophile Bar, Barcelona on Thu, 29 Oct 2026.
+Diana (3) is a House artist with 1 upcoming club date listed on soundcheck as of Tue, 15 Sept 2026, next at 303 Audiophile Bar, Barcelona on Thu, 29 Oct 2026.
 
 Diana (3) is a house artist based in Spain, tracked on soundcheck, with 2 sets logged across Barcelona. Often billed alongside INDRA TRAFERRI, Ivan Pugliares and Jade Rolt. Next up: 303 Audiophile Bar, Barcelona on Thu 29 Oct.
 
@@ -18,4 +18,4 @@ Diana (3) is a house artist based in Spain, tracked on soundcheck, with 2 sets l
 
 INDRA TRAFERRI, Ivan Pugliares, Jade Rolt
 
-*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/diana-3/)*
+*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/diana-3/)*

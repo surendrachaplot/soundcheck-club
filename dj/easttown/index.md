@@ -1,13 +1,14 @@
 # Easttown
 
-Easttown is a House and Tech House artist with 7 upcoming club dates listed on soundcheck as of Mon, 14 Sept 2026, next at SISSI'S Amsterdam, Amsterdam on Fri, 25 Sept 2026.
+Easttown is a House and Tech House artist with 8 upcoming club dates listed on soundcheck as of Tue, 15 Sept 2026, next at SISSI'S Amsterdam, Amsterdam on Fri, 25 Sept 2026.
 
-Easttown is a house and tech house artist tracked on soundcheck, with 101 sets logged across Amsterdam, Barcelona, Basel and Ibiza and 12 more. Often billed alongside Rooléh, Joëlla Jackson and AAT (NL). Next up: SISSI'S Amsterdam, Amsterdam on Fri 25 Sept.
+Easttown is a house and tech house artist tracked on soundcheck, with 102 sets logged across Amsterdam, Barcelona, Basel and Ibiza and 12 more. Often billed alongside Rooléh, Joëlla Jackson and AAT (NL). Next up: SISSI'S Amsterdam, Amsterdam on Fri 25 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 25 Sept 2026 | SISSI'S Amsterdam | Amsterdam |
 | Fri, 25 Sept 2026 | SISSI'S Amsterdam | Amsterdam |
 | Wed, 21 Oct 2026 | A'DAM Toren | Amsterdam |
 | Fri, 23 Oct 2026 | Mediahaven - Minervahaven | Amsterdam |
@@ -31,4 +32,4 @@ Easttown is a house and tech house artist tracked on soundcheck, with 101 sets l
 
 Rooléh, Joëlla Jackson, AAT (NL)
 
-*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/easttown/)*
+*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/easttown/)*

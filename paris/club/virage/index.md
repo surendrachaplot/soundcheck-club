@@ -1,8 +1,8 @@
 # Virage
 
-Virage is a music venue in Paris with 6 upcoming nights listed on soundcheck as of Mon, 14 Sept 2026; the next is "Virage Présente: Faster Horses, THÉOS, Bérou, MIRA LÒ" on Fri, 18 Sept 2026.
+Virage is a music venue in Paris with 7 upcoming nights listed on soundcheck as of Tue, 15 Sept 2026; the next is "Virage Présente: Faster Horses, THÉOS, Bérou, MIRA LÒ" on Fri, 18 Sept 2026.
 
-Virage is a music venue in Paris listed on soundcheck. 6 upcoming nights, with line-ups including Alex Wilcox, Bella Claxton, Bérou and Blaame and 2 more. Browse upcoming dates, start times and who's playing. 26 rue Hélène-et-François Missoffe.
+Virage is a music venue in Paris listed on soundcheck. 7 upcoming nights, with line-ups including Alex Wilcox, Bella Claxton, Bérou and Blaame and 2 more. Browse upcoming dates, start times and who's playing. 26 rue Hélène-et-François Missoffe.
 
 ## What's on
 
@@ -10,6 +10,7 @@ Virage is a music venue in Paris listed on soundcheck. 6 upcoming nights, with l
 | --- | --- | --- |
 | Fri, 18 Sept 2026 | Virage Présente: Faster Horses, THÉOS, Bérou, MIRA LÒ | Bérou, Faster Horses, Mira Ló, THEOS (1) |
 | Sat, 19 Sept 2026 | Virage Présente: Cassie Raptor, Enham, Emma Ollivary, Blaame | Blaame, Cassie Raptor, Emma Ollivary, Enham |
+| Fri, 25 Sept 2026 | SCORPIO: Massimiliano Pagliara, PAURRO, trevor.f b2b ketia, PEPIITA | Massimiliano Pagliara, PAURRO, PEPIITA, ketia, trevor.f |
 | Sat, 26 Sept 2026 | Transgenik : Juicy Romance, DJ Cringey, CH4i, Manil | DJ Cringey, Juicy Romance |
 | Fri, 2 Oct 2026 | Hard Fist x La Culottée: Erol Alkan, Alex Wilcox  | Alex Wilcox, Ceyda Yagiz, Erol Alkan, Warum |
 | Fri, 9 Oct 2026 | SKRYPTÖM: SHDW, Grace Dahl, Electric Rescue | Electric Rescue, Grace Dahl, SHDW |
@@ -19,4 +20,4 @@ Virage is a music venue in Paris listed on soundcheck. 6 upcoming nights, with l
 
 26 rue Hélène-et-François Missoffe, Paris
 
-*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/paris/club/virage/)*
+*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/paris/club/virage/)*

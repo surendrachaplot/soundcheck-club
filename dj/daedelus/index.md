@@ -1,6 +1,6 @@
 # Daedelus
 
-Daedelus is a Experimental and Bass artist with 2 upcoming club dates listed on soundcheck as of Mon, 14 Sept 2026, next at The Black Box, Denver on Fri, 25 Sept 2026.
+Daedelus is a Experimental and Bass artist with 2 upcoming club dates listed on soundcheck as of Tue, 15 Sept 2026, next at The Black Box, Denver on Fri, 25 Sept 2026.
 
 Daedelus is an experimental and bass artist based in United States of America, tracked on soundcheck, with 9 sets logged across Denver, Losangeles and Newyorkcity. Often billed alongside Aaron Paar, Arielle Lana and Ashley Younniä. Next up: The Black Box, Denver on Fri 25 Sept.
 
@@ -25,4 +25,4 @@ Daedelus is an experimental and bass artist based in United States of America, t
 
 Aaron Paar, Arielle Lana, Ashley Younniä
 
-*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/daedelus/)*
+*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/daedelus/)*

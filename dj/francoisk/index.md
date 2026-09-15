@@ -1,6 +1,6 @@
 # Francois K
 
-Francois K is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Mon, 14 Sept 2026, next at Le Bain, New York City on Sun, 20 Sept 2026.
+Francois K is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Tue, 15 Sept 2026, next at Le Bain, New York City on Sun, 20 Sept 2026.
 
 Francois K is a house and disco artist based in United States of America, tracked on soundcheck, with 115 sets logged across Amsterdam, Bali, Barcelona and Berlin and 24 more. Often billed alongside Joe Claussell, Danny Krivit and Body & Soul. Next up: Le Bain, Newyorkcity on Sun 20 Sept.
 
@@ -25,4 +25,4 @@ Francois K is a house and disco artist based in United States of America, tracke
 
 Joe Claussell, Danny Krivit, Body & Soul
 
-*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/francoisk/)*
+*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/francoisk/)*

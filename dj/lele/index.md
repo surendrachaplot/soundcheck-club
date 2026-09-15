@@ -1,6 +1,6 @@
 # Le Le
 
-Le Le is a Psytrance and House artist with 1 upcoming club date listed on soundcheck as of Mon, 14 Sept 2026, next at Den Anden Side, Copenhagen on Fri, 25 Sept 2026.
+Le Le is a Psytrance and House artist with 1 upcoming club date listed on soundcheck as of Tue, 15 Sept 2026, next at Den Anden Side, Copenhagen on Fri, 25 Sept 2026.
 
 Le Le is a psytrance and house artist tracked on soundcheck, with 7 sets logged across Amsterdam, Antwerp, Brussels and Copenhagen and 1 more. Often billed alongside DJ Rino, Ogazón and RIET. Next up: Den Anden Side, Copenhagen on Fri 25 Sept.
 
@@ -23,4 +23,4 @@ Le Le is a psytrance and house artist tracked on soundcheck, with 7 sets logged 
 
 DJ Rino, Ogazón, RIET
 
-*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lele/)*
+*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lele/)*

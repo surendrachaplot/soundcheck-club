@@ -1,6 +1,6 @@
 # BØĘRY
 
-BØĘRY is a Techno and Hardcore artist with 7 upcoming club dates listed on soundcheck as of Mon, 14 Sept 2026, next at Airport Würzburg, Nürnberg on Sat, 19 Sept 2026.
+BØĘRY is a Techno and Hardcore artist with 7 upcoming club dates listed on soundcheck as of Tue, 15 Sept 2026, next at Airport Würzburg, Nürnberg on Sat, 19 Sept 2026.
 
 BØĘRY is a techno and hardcore artist tracked on soundcheck, with 24 sets logged across Amsterdam, Antwerp, Berlin and Bristol and 10 more. Often billed alongside BLNK, TiTi and IOSIO. Next up: Airport Würzburg, Nurnberg on Sat 19 Sept.
 
@@ -31,4 +31,4 @@ BØĘRY is a techno and hardcore artist tracked on soundcheck, with 24 sets logg
 
 BLNK, TiTi, IOSIO
 
-*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/boery/)*
+*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/boery/)*

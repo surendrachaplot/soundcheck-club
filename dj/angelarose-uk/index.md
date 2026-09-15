@@ -1,6 +1,6 @@
 # Angela Rose
 
-Angela Rose is a House and Afro House artist with 2 upcoming club dates listed on soundcheck as of Mon, 14 Sept 2026, next at The Cause, London on Sun, 27 Sept 2026.
+Angela Rose is a House and Afro House artist with 2 upcoming club dates listed on soundcheck as of Tue, 15 Sept 2026, next at The Cause, London on Sun, 27 Sept 2026.
 
 Angela Rose is a house and afro house artist tracked on soundcheck, with 29 sets logged across London. Often billed alongside CLEIDO, Carlos Aries and Gavin Peters. Next up: The Cause, London on Sun 27 Sept.
 
@@ -26,4 +26,4 @@ Angela Rose is a house and afro house artist tracked on soundcheck, with 29 sets
 
 CLEIDO, Carlos Aries, Gavin Peters
 
-*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/angelarose-uk/)*
+*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/angelarose-uk/)*

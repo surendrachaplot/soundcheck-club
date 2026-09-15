@@ -1,6 +1,6 @@
 # DJ Manny
 
-DJ Manny is a Footwork and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 14 Sept 2026, next at Bossa Nova Civic Club, New York City on Sat, 26 Sept 2026.
+DJ Manny is a Footwork and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 15 Sept 2026, next at Bossa Nova Civic Club, New York City on Sat, 26 Sept 2026.
 
 DJ Manny is a footwork and techno artist tracked on soundcheck, with 88 sets logged across Austin, Boston, Chicago and Detroit and 6 more. Often billed alongside Traxman, DJ Phil and DJ Spinn. Next up: Bossa Nova Civic Club, Newyorkcity on Sat 26 Sept.
 
@@ -25,4 +25,4 @@ DJ Manny is a footwork and techno artist tracked on soundcheck, with 88 sets log
 
 Traxman, DJ Phil, DJ Spinn
 
-*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djmanny/)*
+*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djmanny/)*

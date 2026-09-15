@@ -1,6 +1,6 @@
 # Lumbago
 
-Lumbago is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 14 Sept 2026, next at TBA, Marseille on Sat, 17 Oct 2026.
+Lumbago is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 15 Sept 2026, next at TBA, Marseille on Sat, 17 Oct 2026.
 
 Lumbago is a techno and house artist tracked on soundcheck, with 53 sets logged across Amsterdam, Berlin, Boston and Brussels and 4 more. Often billed alongside Maelita, Domi (FR) and Master c-fu. Next up: TBA, Marseille on Sat 17 Oct.
 
@@ -25,4 +25,4 @@ Lumbago is a techno and house artist tracked on soundcheck, with 53 sets logged 
 
 Maelita, Domi (FR), Master c-fu
 
-*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lumbago/)*
+*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lumbago/)*

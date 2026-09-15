@@ -1,8 +1,8 @@
 # DJ Strawberry
 
-DJ Strawberry is a Footwork and Bass artist with 2 upcoming club dates listed on soundcheck as of Mon, 14 Sept 2026, next at Şahika, Istanbul on Fri, 18 Sept 2026.
+DJ Strawberry is a Footwork and Bass artist with 3 upcoming club dates listed on soundcheck as of Tue, 15 Sept 2026, next at Şahika, Istanbul on Fri, 18 Sept 2026.
 
-DJ Strawberry is a footwork and bass artist based in Turkey, tracked on soundcheck, with 47 sets logged across Berlin, Hamburg, Istanbul and Leipzig and 7 more. Often billed alongside King Softy, Jonah P. and freedjom. Next up: Şahika, Istanbul on Fri 18 Sept.
+DJ Strawberry is a footwork and bass artist based in Turkey, tracked on soundcheck, with 48 sets logged across Berlin, Denver, Hamburg and Istanbul and 8 more. Often billed alongside King Softy, Jonah P. and freedjom. Next up: Şahika, Istanbul on Fri 18 Sept.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ DJ Strawberry is a footwork and bass artist based in Turkey, tracked on soundche
 | --- | --- | --- |
 | Fri, 18 Sept 2026 | Şahika | Istanbul |
 | Sun, 11 Oct 2026 | Fitzroy | Berlin |
+| Sat, 24 Oct 2026 | Glob | Denver |
 
 ## Recently played
 
@@ -26,4 +27,4 @@ DJ Strawberry is a footwork and bass artist based in Turkey, tracked on soundche
 
 King Softy, Jonah P., freedjom
 
-*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djstrawberry/)*
+*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djstrawberry/)*

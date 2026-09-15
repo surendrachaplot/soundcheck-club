@@ -1,6 +1,6 @@
 # John Talabot
 
-John Talabot is a House and Techno artist with 9 upcoming club dates listed on soundcheck as of Mon, 14 Sept 2026, next at Fort Mifflin, Philadelphia on Fri, 18 Sept 2026.
+John Talabot is a House and Techno artist with 9 upcoming club dates listed on soundcheck as of Tue, 15 Sept 2026, next at Fort Mifflin, Philadelphia on Fri, 18 Sept 2026.
 
 John Talabot is a house and techno artist tracked on soundcheck, with 179 sets logged across Amsterdam, Antwerp, Athens and Bali and 52 more. Often billed alongside mad miran, Nicolas Lutz and Palms Trax. Next up: Fort Mifflin, Philadelphia on Fri 18 Sept.
 
@@ -33,4 +33,4 @@ John Talabot is a house and techno artist tracked on soundcheck, with 179 sets l
 
 mad miran, Nicolas Lutz, Palms Trax
 
-*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/johntalabot/)*
+*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/johntalabot/)*

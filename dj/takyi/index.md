@@ -1,6 +1,6 @@
 # Tákyi
 
-Tákyi is a electronic artist with 1 upcoming club date listed on soundcheck as of Mon, 14 Sept 2026, next at Giri, Berlin on Thu, 24 Sept 2026.
+Tákyi is a electronic artist with 1 upcoming club date listed on soundcheck as of Tue, 15 Sept 2026, next at Giri, Berlin on Thu, 24 Sept 2026.
 
 Tákyi is an electronic artist based in Germany, tracked on soundcheck, with 4 sets logged across Berlin. Often billed alongside hero, BŪJIN and MONEYAMA. Next up: Giri, Berlin on Thu 24 Sept.
 
@@ -20,4 +20,4 @@ Tákyi is an electronic artist based in Germany, tracked on soundcheck, with 4 s
 
 hero, BŪJIN, MONEYAMA
 
-*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/takyi/)*
+*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/takyi/)*

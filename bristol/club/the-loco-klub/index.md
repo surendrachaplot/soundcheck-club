@@ -1,6 +1,6 @@
 # The Loco Klub
 
-The Loco Klub is a music venue in Bristol with 6 upcoming nights listed on soundcheck as of Mon, 14 Sept 2026; the next is "S.I.N Records X Ecosystem" on Fri, 18 Sept 2026.
+The Loco Klub is a music venue in Bristol with 6 upcoming nights listed on soundcheck as of Tue, 15 Sept 2026; the next is "S.I.N Records X Ecosystem" on Fri, 18 Sept 2026.
 
 The Loco Klub is a music venue in Bristol listed on soundcheck. 6 upcoming nights, with line-ups including 2QUID, DJ Caramelstick, Hughesee and JAZ IMSKY and 2 more. Browse upcoming dates, start times and who's playing. Clock Tower Yard, Bristol BS1 6QH, United Kingdom.
 
@@ -19,4 +19,4 @@ The Loco Klub is a music venue in Bristol listed on soundcheck. 6 upcoming night
 
 Clock Tower Yard, Bristol BS1 6QH, United Kingdom, Bristol
 
-*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/bristol/club/the-loco-klub/)*
+*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/bristol/club/the-loco-klub/)*

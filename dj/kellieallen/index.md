@@ -1,6 +1,6 @@
 # Kellie Allen
 
-Kellie Allen is a House and Tech House artist with 5 upcoming club dates listed on soundcheck as of Mon, 14 Sept 2026, next at House of Yes, New York City on Fri, 25 Sept 2026.
+Kellie Allen is a House and Tech House artist with 5 upcoming club dates listed on soundcheck as of Tue, 15 Sept 2026, next at House of Yes, New York City on Fri, 25 Sept 2026.
 
 Kellie Allen is a house and tech house artist tracked on soundcheck, with 121 sets logged across Amsterdam, Antwerp, Bali and Barcelona and 21 more. Often billed alongside Prunk, Dennis Quin and M-High. Next up: House of Yes, Newyorkcity on Fri 25 Sept.
 
@@ -29,4 +29,4 @@ Kellie Allen is a house and tech house artist tracked on soundcheck, with 121 se
 
 Prunk, Dennis Quin, M-High
 
-*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kellieallen/)*
+*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kellieallen/)*

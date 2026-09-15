@@ -1,10 +1,10 @@
 # Aquatic Travellers Vol. 13 at Paloma
 
-Aquatic Travellers Vol. 13 at Paloma on Sat 19 Sept, Berlin. 3 acts on the bill: bb:fm, Black Mirror Park and Lily Haz. Electro. Preview the line-up and save it on soundcheck.
+Aquatic Travellers Vol. 13 at Paloma on Fri 9 Oct, Berlin. 3 acts on the bill: bb:fm, Black Mirror Park and Lily Haz. Electro. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
-| Date | Sat, 19 Sept 2026 |
+| Date | Fri, 9 Oct 2026 |
 | Venue | Paloma |
 | City | Berlin |
 

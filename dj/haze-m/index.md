@@ -1,6 +1,6 @@
 # Haze-M
 
-Haze-M is a Deep House and House artist with 2 upcoming club dates listed on soundcheck as of Mon, 14 Sept 2026, next at Do Not Sit On The Furniture, Miami on Wed, 16 Sept 2026.
+Haze-M is a Deep House and House artist with 2 upcoming club dates listed on soundcheck as of Tue, 15 Sept 2026, next at Do Not Sit On The Furniture, Miami on Wed, 16 Sept 2026.
 
 Haze-M is a deep house and house artist tracked on soundcheck, with 9 sets logged across Amsterdam, Istanbul, Mexicocity and Miami. Often billed alongside Jessy Nimni, Alex Pi and BRKN. Next up: Do Not Sit On The Furniture, Miami on Wed 16 Sept.
 
@@ -25,4 +25,4 @@ Haze-M is a deep house and house artist tracked on soundcheck, with 9 sets logge
 
 Jessy Nimni, Alex Pi, BRKN
 
-*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/haze-m/)*
+*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/haze-m/)*

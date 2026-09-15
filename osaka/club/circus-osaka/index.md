@@ -1,6 +1,6 @@
 # Circus Osaka
 
-Circus Osaka is a music venue in Osaka with 6 upcoming nights listed on soundcheck as of Mon, 14 Sept 2026; the next is "NATURALLY LADY SHAKA" on Fri, 18 Sept 2026.
+Circus Osaka is a music venue in Osaka with 6 upcoming nights listed on soundcheck as of Tue, 15 Sept 2026; the next is "NATURALLY LADY SHAKA" on Fri, 18 Sept 2026.
 
 Circus Osaka is a music venue in Osaka listed on soundcheck. 6 upcoming nights, with line-ups including Ben Sims, Izco, J Wax and Kozee and 2 more. Browse upcoming dates, start times and who's playing. 1-8-16 2F Nakanishi Bldg, Nishi-shinsaibashi,Chuo-ku,Osaka , 542-0086  JAPAN.
 
@@ -19,4 +19,4 @@ Circus Osaka is a music venue in Osaka listed on soundcheck. 6 upcoming nights, 
 
 1-8-16 2F Nakanishi Bldg, Nishi-shinsaibashi,Chuo-ku,Osaka , 542-0086  JAPAN, Osaka
 
-*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/osaka/club/circus-osaka/)*
+*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/osaka/club/circus-osaka/)*

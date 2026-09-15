@@ -1,6 +1,6 @@
 # Quirk: Henriku Birthday Edition at Hoppetosse
 
-Quirk: Henriku Birthday Edition at Hoppetosse on Sat 26 Sept, Berlin. 3 acts on the bill: Alexander Skancke, Henriku and Trent Voyage. Preview the line-up and save it on soundcheck.
+Quirk: Henriku Birthday Edition at Hoppetosse on Sat 26 Sept, Berlin. 5 acts on the bill: Alexander Skancke, Anaté, Henriku and Tomoki Tamura and 1 more. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,7 +11,9 @@ Quirk: Henriku Birthday Edition at Hoppetosse on Sat 26 Sept, Berlin. 3 acts on 
 ## Line-up
 
 - Alexander Skancke
+- Anaté
 - Henriku
+- Tomoki Tamura
 - Trent Voyage
 
 *Source: [soundcheck](https://soundcheck.club/e/2523758-quirk-henriku-birthday-edition-at-hoppetosse/)*

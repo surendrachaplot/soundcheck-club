@@ -1,6 +1,6 @@
 # ChottoKimoi
 
-ChottoKimoi is a Bass and Techno artist with 2 upcoming club dates listed on soundcheck as of Mon, 14 Sept 2026, next at Enter Shibuya, Tokyo on Mon, 21 Sept 2026.
+ChottoKimoi is a Bass and Techno artist with 2 upcoming club dates listed on soundcheck as of Tue, 15 Sept 2026, next at Enter Shibuya, Tokyo on Mon, 21 Sept 2026.
 
 ChottoKimoi is a bass and techno artist based in Philippines, tracked on soundcheck, with 10 sets logged across Kyoto, Osaka and Tokyo. Often billed alongside MileZ, 0neo and Albino Sound. Next up: Enter Shibuya, Tokyo on Mon 21 Sept.
 
@@ -26,4 +26,4 @@ ChottoKimoi is a bass and techno artist based in Philippines, tracked on soundch
 
 MileZ, 0neo, Albino Sound
 
-*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/chottokimoi/)*
+*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/chottokimoi/)*

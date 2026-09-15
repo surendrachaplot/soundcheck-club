@@ -1,6 +1,6 @@
 # prok
 
-prok is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 14 Sept 2026, next at Otaqlab Bangkok, Bangkok on Fri, 25 Sept 2026.
+prok is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 15 Sept 2026, next at Otaqlab Bangkok, Bangkok on Fri, 25 Sept 2026.
 
 prok is a house and techno artist based in Thailand, tracked on soundcheck, with 3 sets logged across Bangkok. Often billed alongside Noka and Krit Su. Next up: Otaqlab Bangkok, Bangkok on Fri 25 Sept.
 
@@ -19,4 +19,4 @@ prok is a house and techno artist based in Thailand, tracked on soundcheck, with
 
 Noka, Krit Su
 
-*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/prok/)*
+*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/prok/)*

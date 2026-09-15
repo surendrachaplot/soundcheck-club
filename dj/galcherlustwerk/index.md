@@ -1,6 +1,6 @@
 # Galcher Lustwerk
 
-Galcher Lustwerk is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Mon, 14 Sept 2026, next at Signal, New York City on Sat, 10 Oct 2026.
+Galcher Lustwerk is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Tue, 15 Sept 2026, next at Signal, New York City on Sat, 10 Oct 2026.
 
 Galcher Lustwerk is a house and techno artist tracked on soundcheck, with 56 sets logged across Amsterdam, Austin, Barcelona and Berlin and 16 more. Often billed alongside Devoye, Bill Patrick and DJ Fart in the Club. Next up: Signal, Newyorkcity on Sat 10 Oct.
 
@@ -27,4 +27,4 @@ Galcher Lustwerk is a house and techno artist tracked on soundcheck, with 56 set
 
 Devoye, Bill Patrick, DJ Fart in the Club
 
-*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/galcherlustwerk/)*
+*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/galcherlustwerk/)*

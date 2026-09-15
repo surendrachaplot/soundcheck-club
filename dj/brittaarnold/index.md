@@ -1,6 +1,6 @@
 # Britta Arnold
 
-Britta Arnold is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Mon, 14 Sept 2026, next at Hive Club, Zurich on Sat, 3 Oct 2026.
+Britta Arnold is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Tue, 15 Sept 2026, next at Hive Club, Zurich on Sat, 3 Oct 2026.
 
 Britta Arnold is a techno and house artist tracked on soundcheck, with 127 sets logged across Amsterdam, Athens, Barcelona and Basel and 25 more. Often billed alongside Mira, Chris Schwarzwälder and Franca. Next up: Hive Club, Zurich on Sat 3 Oct.
 
@@ -27,4 +27,4 @@ Britta Arnold is a techno and house artist tracked on soundcheck, with 127 sets 
 
 Mira, Chris Schwarzwälder, Franca
 
-*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/brittaarnold/)*
+*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/brittaarnold/)*

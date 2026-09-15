@@ -1,6 +1,6 @@
 # ECHOES
 
-ECHOES is a Techno and Experimental artist with 1 upcoming club date listed on soundcheck as of Mon, 14 Sept 2026, next at Amma Cafe, New York City on Sat, 10 Oct 2026.
+ECHOES is a Techno and Experimental artist with 1 upcoming club date listed on soundcheck as of Tue, 15 Sept 2026, next at Amma Cafe, New York City on Sat, 10 Oct 2026.
 
 ECHOES is a techno and experimental artist based in United States of America, tracked on soundcheck, with 3 sets logged across Frankfurt and Newyorkcity. Often billed alongside Hydro Lin and U+0000. Next up: Amma Cafe, Newyorkcity on Sat 10 Oct.
 
@@ -19,4 +19,4 @@ ECHOES is a techno and experimental artist based in United States of America, tr
 
 Hydro Lin, U+0000
 
-*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/echoes/)*
+*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/echoes/)*

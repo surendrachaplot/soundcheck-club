@@ -1,6 +1,6 @@
 # Pancha
 
-Pancha is a Techno and Electronica artist with 1 upcoming club date listed on soundcheck as of Mon, 14 Sept 2026, next at underiolo, Warsaw on Fri, 18 Sept 2026.
+Pancha is a Techno and Electronica artist with 1 upcoming club date listed on soundcheck as of Tue, 15 Sept 2026, next at underiolo, Warsaw on Fri, 18 Sept 2026.
 
 Pancha is a techno and electronica artist based in Poland, tracked on soundcheck, with 3 sets logged across Warsaw. Often billed alongside Łomża, Dynamic Goose and Dedenia. Next up: underiolo, Warsaw on Fri 18 Sept.
 
@@ -19,4 +19,4 @@ Pancha is a techno and electronica artist based in Poland, tracked on soundcheck
 
 Łomża, Dynamic Goose, Dedenia
 
-*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/pancha/)*
+*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/pancha/)*

@@ -1,8 +1,8 @@
 # Hreno
 
-Hreno is a Electronica and Disco artist with 1 upcoming club date listed on soundcheck as of Mon, 14 Sept 2026, next at Golden Gate, Berlin on Sat, 26 Sept 2026.
+Hreno is a Electronica and Disco artist with 1 upcoming club date listed on soundcheck as of Tue, 15 Sept 2026, next at Golden Gate, Berlin on Sat, 26 Sept 2026.
 
-Hreno is an electronica and disco artist based in Germany, tracked on soundcheck, with 7 sets logged across Berlin, Lisbon and Tokyo. Often billed alongside Mike Shannon, Deadbeat and NOB (1). Next up: Golden Gate, Berlin on Sat 26 Sept.
+Hreno is an electronica and disco artist based in Germany, tracked on soundcheck, with 7 sets logged across Berlin, Lisbon and Tokyo. Often billed alongside Mike Shannon, DJ NOB and Deadbeat. Next up: Golden Gate, Berlin on Sat 26 Sept.
 
 ## Upcoming shows
 
@@ -21,6 +21,6 @@ Hreno is an electronica and disco artist based in Germany, tracked on soundcheck
 
 ## Shares bills with
 
-Mike Shannon, Deadbeat, NOB (1)
+Mike Shannon, DJ NOB, Deadbeat
 
-*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/hreno/)*
+*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/hreno/)*

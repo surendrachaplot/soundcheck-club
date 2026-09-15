@@ -1,13 +1,14 @@
 # Minuc
 
-Minuc is a Minimal and House artist with 1 upcoming club date listed on soundcheck as of Mon, 14 Sept 2026, next at Atdge Seoul, Seoul on Fri, 25 Sept 2026.
+Minuc is a Minimal and House artist with 2 upcoming club dates listed on soundcheck as of Tue, 15 Sept 2026, next at teller, Seoul on Wed, 23 Sept 2026.
 
-Minuc is a minimal and house artist tracked on soundcheck, with 46 sets logged across Seoul. Often billed alongside Pseudobaul, Jongho and Yejinee. Next up: Atdge Seoul, Seoul on Fri 25 Sept.
+Minuc is a minimal and house artist tracked on soundcheck, with 47 sets logged across Seoul. Often billed alongside Jongho, Pseudobaul and Yejinee. Next up: teller, Seoul on Wed 23 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Wed, 23 Sept 2026 | teller | Seoul |
 | Fri, 25 Sept 2026 | Atdge Seoul | Seoul |
 
 ## Recently played
@@ -23,6 +24,6 @@ Minuc is a minimal and house artist tracked on soundcheck, with 46 sets logged a
 
 ## Shares bills with
 
-Pseudobaul, Jongho, Yejinee
+Jongho, Pseudobaul, Yejinee
 
-*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/minuc/)*
+*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/minuc/)*

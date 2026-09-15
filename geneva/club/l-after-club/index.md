@@ -1,6 +1,6 @@
 # L'after Club
 
-L'after Club is a music venue in Geneva with 1 upcoming night listed on soundcheck as of Mon, 14 Sept 2026; the next is "BASSCULT #005" on Fri, 27 Nov 2026.
+L'after Club is a music venue in Geneva with 1 upcoming night listed on soundcheck as of Tue, 15 Sept 2026; the next is "BASSCULT #005" on Fri, 27 Nov 2026.
 
 L'after Club is a music venue in Geneva listed on soundcheck. 1 upcoming night, with line-ups including fedelo and Raving Ninjas. Browse upcoming dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ L'after Club is a music venue in Geneva listed on soundcheck. 1 upcoming night, 
 | --- | --- | --- |
 | Fri, 27 Nov 2026 | BASSCULT #005 | Raving Ninjas, fedelo |
 
-*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/geneva/club/l-after-club/)*
+*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/geneva/club/l-after-club/)*

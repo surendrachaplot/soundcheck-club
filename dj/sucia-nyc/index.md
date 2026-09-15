@@ -1,14 +1,15 @@
 # SUCIA!
 
-SUCIA! is a Club and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 14 Sept 2026, next at Churchill's Pub, Miami on Fri, 18 Sept 2026.
+SUCIA! is a Club and House artist with 2 upcoming club dates listed on soundcheck as of Tue, 15 Sept 2026, next at Churchill's Pub, Miami on Fri, 18 Sept 2026.
 
-SUCIA! is a club and techno artist based in United States of America, tracked on soundcheck, with 21 sets logged across Chicago, Losangeles, Miami and Newyorkcity and 1 more. Often billed alongside Mars Kasei, Sel.6 and Chiara Noriko. Next up: Churchill's Pub, Miami on Fri 18 Sept.
+SUCIA! is a club and house artist based in United States of America, tracked on soundcheck, with 22 sets logged across Chicago, Losangeles, Miami and Newyorkcity and 1 more. Often billed alongside Mars Kasei, Sel.6 and Chiara Noriko. Next up: Churchill's Pub, Miami on Fri 18 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 18 Sept 2026 | Churchill's Pub | Miami |
+| Fri, 23 Oct 2026 | The Ground at Club Space | Miami |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ SUCIA! is a club and techno artist based in United States of America, tracked on
 
 Mars Kasei, Sel.6, Chiara Noriko
 
-*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sucia-nyc/)*
+*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sucia-nyc/)*

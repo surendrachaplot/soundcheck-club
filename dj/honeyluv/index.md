@@ -1,14 +1,13 @@
 # HoneyLuv
 
-HoneyLuv is a House and Tech House artist with 8 upcoming club dates listed on soundcheck as of Mon, 14 Sept 2026, next at Hï Ibiza, Ibiza on Mon, 14 Sept 2026.
+HoneyLuv is a House and Tech House artist with 7 upcoming club dates listed on soundcheck as of Tue, 15 Sept 2026, next at TBA, Los Angeles on Sun, 27 Sept 2026.
 
-HoneyLuv is a house and tech house artist tracked on soundcheck, with 167 sets logged across Amsterdam, Austin, Barcelona and Basel and 39 more. Often billed alongside Nic Fanciulli, Dennis Ferrer and Andrea Oliva. Next up: Hï Ibiza, Ibiza on Mon 14 Sept.
+HoneyLuv is a house and tech house artist tracked on soundcheck, with 167 sets logged across Amsterdam, Austin, Barcelona and Basel and 39 more. Often billed alongside Nic Fanciulli, Dennis Ferrer and Andrea Oliva. Next up: TBA, Losangeles on Sun 27 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Mon, 14 Sept 2026 | Hï Ibiza | Ibiza |
 | Sun, 27 Sept 2026 | TBA | Los Angeles |
 | Thu, 1 Oct 2026 | TBA - Various Venues | Malta |
 | Thu, 1 Oct 2026 | UNO MALTA | Malta |
@@ -19,6 +18,7 @@ HoneyLuv is a house and tech house artist tracked on soundcheck, with 167 sets l
 
 ## Recently played
 
+- Hï Ibiza, Ibiza — Mon, 14 Sept 2026
 - Night We Met, Nashville — Fri, 11 Sept 2026
 - Cova Santa, Ibiza — Sun, 30 Aug 2026
 - Studio Club Malaga, Malaga — Sat, 29 Aug 2026
@@ -26,10 +26,9 @@ HoneyLuv is a house and tech house artist tracked on soundcheck, with 167 sets l
 - Zürichsee, Zurich — Sat, 8 Aug 2026
 - Chinois Ibiza, Ibiza — Thu, 30 Jul 2026
 - Pacha New York, New York City — Sat, 27 Jun 2026
-- LAB theCLUB, Madrid — Sat, 13 Jun 2026
 
 ## Shares bills with
 
 Nic Fanciulli, Dennis Ferrer, Andrea Oliva
 
-*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/honeyluv/)*
+*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/honeyluv/)*

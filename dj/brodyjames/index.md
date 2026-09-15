@@ -1,14 +1,15 @@
 # Brody James
 
-Brody James is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 14 Sept 2026, next at The Buff Club, Glasgow on Wed, 16 Sept 2026.
+Brody James is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Tue, 15 Sept 2026, next at The Buff Club, Glasgow on Wed, 16 Sept 2026.
 
-Brody James is a techno and house artist based in United Kingdom, tracked on soundcheck, with 24 sets logged across Edinburgh and Glasgow. Often billed alongside Tosher, DRUMA and Babyccino. Next up: The Buff Club, Glasgow on Wed 16 Sept.
+Brody James is a house and techno artist based in United Kingdom, tracked on soundcheck, with 25 sets logged across Edinburgh and Glasgow. Often billed alongside Tosher, DRUMA and Babyccino. Next up: The Buff Club, Glasgow on Wed 16 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Wed, 16 Sept 2026 | The Buff Club | Glasgow |
+| Thu, 17 Sept 2026 | Tabac | Glasgow |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Brody James is a techno and house artist based in United Kingdom, tracked on sou
 
 Tosher, DRUMA, Babyccino
 
-*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/brodyjames/)*
+*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/brodyjames/)*

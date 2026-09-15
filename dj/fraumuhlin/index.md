@@ -1,6 +1,6 @@
 # fraumuhlin
 
-fraumuhlin is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 14 Sept 2026, next at Renate, Berlin on Fri, 16 Oct 2026.
+fraumuhlin is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 15 Sept 2026, next at Renate, Berlin on Fri, 16 Oct 2026.
 
 fraumuhlin is a house and techno artist based in Switzerland, tracked on soundcheck, with 6 sets logged across Berlin and Zurich. Often billed alongside Zsófi, Adri Tüde and Andreas Rauscher. Next up: Renate, Berlin on Fri 16 Oct.
 
@@ -22,4 +22,4 @@ fraumuhlin is a house and techno artist based in Switzerland, tracked on soundch
 
 Zsófi, Adri Tüde, Andreas Rauscher
 
-*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/fraumuhlin/)*
+*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/fraumuhlin/)*

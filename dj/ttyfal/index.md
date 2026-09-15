@@ -1,6 +1,6 @@
 # ttyfal
 
-ttyfal is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Mon, 14 Sept 2026, next at UMI, Brussels on Sat, 19 Sept 2026.
+ttyfal is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Tue, 15 Sept 2026, next at UMI, Brussels on Sat, 19 Sept 2026.
 
 ttyfal is a techno and house artist tracked on soundcheck, with 88 sets logged across Amsterdam, Antwerp, Berlin and Brussels and 7 more. Often billed alongside Fais Le Beau, AGY3NA and Cleo SNK. Next up: UMI, Brussels on Sat 19 Sept.
 
@@ -27,4 +27,4 @@ ttyfal is a techno and house artist tracked on soundcheck, with 88 sets logged a
 
 Fais Le Beau, AGY3NA, Cleo SNK
 
-*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ttyfal/)*
+*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ttyfal/)*

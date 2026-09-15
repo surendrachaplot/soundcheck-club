@@ -1,6 +1,6 @@
 # Gareth James
 
-Gareth James is a Disco and Deep House artist with 1 upcoming club date listed on soundcheck as of Mon, 14 Sept 2026, next at Mollies, Manchester on Fri, 18 Sept 2026.
+Gareth James is a Disco and Deep House artist with 1 upcoming club date listed on soundcheck as of Tue, 15 Sept 2026, next at Mollies, Manchester on Fri, 18 Sept 2026.
 
 Gareth James is a disco and deep house artist tracked on soundcheck, with 2 sets logged across Manchester. Often billed alongside Sam Pills. Next up: Mollies, Manchester on Fri 18 Sept.
 
@@ -18,4 +18,4 @@ Gareth James is a disco and deep house artist tracked on soundcheck, with 2 sets
 
 Sam Pills
 
-*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/garethjames/)*
+*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/garethjames/)*

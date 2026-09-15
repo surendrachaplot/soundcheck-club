@@ -1,6 +1,6 @@
 # Jackopo
 
-Jackopo is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Mon, 14 Sept 2026, next at Gallery, London on Fri, 2 Oct 2026.
+Jackopo is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Tue, 15 Sept 2026, next at Gallery, London on Fri, 2 Oct 2026.
 
 Jackopo is a house and deep house artist based in United Kingdom, tracked on soundcheck, with 9 sets logged across London. Often billed alongside AOB, Anil Aras and Bibiminor. Next up: Gallery, London on Fri 2 Oct.
 
@@ -25,4 +25,4 @@ Jackopo is a house and deep house artist based in United Kingdom, tracked on sou
 
 AOB, Anil Aras, Bibiminor
 
-*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jackopo/)*
+*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jackopo/)*

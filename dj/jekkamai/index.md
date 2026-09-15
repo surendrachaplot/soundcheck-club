@@ -1,8 +1,8 @@
 # JEKKAMAÏ
 
-JEKKAMAÏ is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Mon, 14 Sept 2026, next at Fuse, Brussels on Fri, 18 Sept 2026.
+JEKKAMAÏ is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Tue, 15 Sept 2026, next at Fuse, Brussels on Fri, 18 Sept 2026.
 
-JEKKAMAÏ is a techno and house artist based in Belgium, tracked on soundcheck, with 34 sets logged across Antwerp, Brussels and Ghent. Often billed alongside Hysope, ATARAXY and Oxtazz. Next up: Fuse, Brussels on Fri 18 Sept.
+JEKKAMAÏ is a techno and house artist based in Belgium, tracked on soundcheck, with 35 sets logged across Antwerp, Brussels and Ghent. Often billed alongside Hysope, ATARAXY and Oxtazz. Next up: Fuse, Brussels on Fri 18 Sept.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ JEKKAMAÏ is a techno and house artist based in Belgium, tracked on soundcheck, 
 | Fri, 18 Sept 2026 | Fuse | Brussels |
 | Sat, 26 Sept 2026 | C12 | Brussels |
 | Fri, 9 Oct 2026 | Chinastraat | Ghent |
+| Sat, 31 Oct 2026 | TRAUM | Antwerp |
 
 ## Recently played
 
@@ -27,4 +28,4 @@ JEKKAMAÏ is a techno and house artist based in Belgium, tracked on soundcheck, 
 
 Hysope, ATARAXY, Oxtazz
 
-*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jekkamai/)*
+*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jekkamai/)*

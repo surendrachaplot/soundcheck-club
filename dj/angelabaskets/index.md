@@ -1,6 +1,6 @@
 # angela baskets
 
-angela baskets is a Funk / Soul and House artist with 1 upcoming club date listed on soundcheck as of Mon, 14 Sept 2026, next at Spkrbox, Detroit on Tue, 15 Sept 2026.
+angela baskets is a Funk / Soul and House artist with 1 upcoming club date listed on soundcheck as of Tue, 15 Sept 2026, next at Spkrbox, Detroit on Tue, 15 Sept 2026.
 
 angela baskets is a funk / soul and house artist based in United States of America, tracked on soundcheck, with 4 sets logged across Detroit. Often billed alongside DJ Skeez, Eddie Logix and Jamie 3:26. Next up: Spkrbox, Detroit on Tue 15 Sept.
 
@@ -20,4 +20,4 @@ angela baskets is a funk / soul and house artist based in United States of Ameri
 
 DJ Skeez, Eddie Logix, Jamie 3:26
 
-*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/angelabaskets/)*
+*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/angelabaskets/)*

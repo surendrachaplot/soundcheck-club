@@ -1,6 +1,6 @@
 # Fideles
 
-Fideles is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Mon, 14 Sept 2026, next at TBA - Ticket Holders Only, Denver on Sat, 31 Oct 2026.
+Fideles is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Tue, 15 Sept 2026, next at TBA - Ticket Holders Only, Denver on Sat, 31 Oct 2026.
 
 Fideles is a techno and house artist tracked on soundcheck, with 121 sets logged across Amsterdam, Athens, Austin and Bali and 40 more. Often billed alongside Brina Knauss, Miss Monique and Mathame. Next up: TBA - Ticket Holders Only, Denver on Sat 31 Oct.
 
@@ -26,4 +26,4 @@ Fideles is a techno and house artist tracked on soundcheck, with 121 sets logged
 
 Brina Knauss, Miss Monique, Mathame
 
-*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/fideles/)*
+*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/fideles/)*

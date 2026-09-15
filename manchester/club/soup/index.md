@@ -1,6 +1,6 @@
 # Soup
 
-Soup is a music venue in Manchester with 14 upcoming nights listed on soundcheck as of Mon, 14 Sept 2026; the next is "No Boundaries presents: Coflo" on Fri, 18 Sept 2026.
+Soup is a music venue in Manchester with 14 upcoming nights listed on soundcheck as of Tue, 15 Sept 2026; the next is "No Boundaries presents: Coflo" on Fri, 18 Sept 2026.
 
 Soup is a music venue in Manchester listed on soundcheck. 14 upcoming nights, with line-ups including Abby Harris, ASIAN BRAT, atalaya and Ayy Den and 2 more. Browse upcoming dates, start times and who's playing. 31-33 Spear Street, Manchester, M1 1DF, United Kingdom.
 
@@ -23,4 +23,4 @@ Soup is a music venue in Manchester listed on soundcheck. 14 upcoming nights, wi
 
 31-33 Spear Street, Manchester, M1 1DF, United Kingdom, Manchester
 
-*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/soup/)*
+*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/soup/)*

@@ -1,8 +1,8 @@
 # Spekki Webu
 
-Spekki Webu is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Mon, 14 Sept 2026, next at The Glove That Fits, London on Fri, 18 Sept 2026.
+Spekki Webu is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Tue, 15 Sept 2026, next at The Glove That Fits, London on Fri, 18 Sept 2026.
 
-Spekki Webu is a techno and house artist tracked on soundcheck, with 203 sets logged across Amsterdam, Athens, Auckland and Bangkok and 43 more. Often billed alongside Mama Snake, OCCA and Kia (AU). Next up: The Glove That Fits, London on Fri 18 Sept.
+Spekki Webu is a techno and house artist tracked on soundcheck, with 204 sets logged across Amsterdam, Athens, Auckland and Bangkok and 43 more. Often billed alongside Mama Snake, OCCA and Kia (AU). Next up: The Glove That Fits, London on Fri 18 Sept.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ Spekki Webu is a techno and house artist tracked on soundcheck, with 203 sets lo
 | Fri, 18 Sept 2026 | The Glove That Fits | London |
 | Sat, 19 Sept 2026 | Chinese Laundry | Sydney |
 | Sat, 26 Sept 2026 | Sub Club Melbourne | Melbourne |
+| Sat, 3 Oct 2026 | Het Salon | Amsterdam |
 | Fri, 9 Oct 2026 | Bassiani | Tbilisi |
 
 ## Recently played
@@ -28,4 +29,4 @@ Spekki Webu is a techno and house artist tracked on soundcheck, with 203 sets lo
 
 Mama Snake, OCCA, Kia (AU)
 
-*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/spekkiwebu/)*
+*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/spekkiwebu/)*

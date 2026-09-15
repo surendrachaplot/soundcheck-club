@@ -1,6 +1,6 @@
 # dj sweet6teen
 
-dj sweet6teen is a House and Techno artist with 7 upcoming club dates listed on soundcheck as of Mon, 14 Sept 2026, next at TILLATEC, Amsterdam on Sat, 19 Sept 2026.
+dj sweet6teen is a House and Techno artist with 7 upcoming club dates listed on soundcheck as of Tue, 15 Sept 2026, next at TILLATEC, Amsterdam on Sat, 19 Sept 2026.
 
 dj sweet6teen is a house and techno artist tracked on soundcheck, with 241 sets logged across Amsterdam, Antwerp, Bangkok and Barcelona and 46 more. Often billed alongside Angel D'lite, Sansibar and Peach. Next up: TILLATEC, Amsterdam on Sat 19 Sept.
 
@@ -31,4 +31,4 @@ dj sweet6teen is a house and techno artist tracked on soundcheck, with 241 sets 
 
 Angel D'lite, Sansibar, Peach
 
-*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djsweet6teen/)*
+*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djsweet6teen/)*

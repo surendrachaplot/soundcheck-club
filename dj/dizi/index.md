@@ -1,6 +1,6 @@
 # DIZI
 
-DIZI is a Techno and Jungle artist with 1 upcoming club date listed on soundcheck as of Mon, 14 Sept 2026, next at TBA, Los Angeles on Fri, 25 Sept 2026.
+DIZI is a Techno and Jungle artist with 1 upcoming club date listed on soundcheck as of Tue, 15 Sept 2026, next at TBA, Los Angeles on Fri, 25 Sept 2026.
 
 DIZI is a techno and jungle artist based in United States of America, tracked on soundcheck, with 7 sets logged across London, Losangeles and Newyorkcity. Often billed alongside Baby Uniq, Interpretive Sound and Mansaf Mama. Next up: TBA, Losangeles on Fri 25 Sept.
 
@@ -23,4 +23,4 @@ DIZI is a techno and jungle artist based in United States of America, tracked on
 
 Baby Uniq, Interpretive Sound, Mansaf Mama
 
-*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dizi/)*
+*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dizi/)*

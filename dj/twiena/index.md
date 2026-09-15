@@ -1,6 +1,6 @@
 # TWIENA
 
-TWIENA is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Mon, 14 Sept 2026, next at KREUZWERK, Berlin on Sat, 19 Sept 2026.
+TWIENA is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Tue, 15 Sept 2026, next at KREUZWERK, Berlin on Sat, 19 Sept 2026.
 
 TWIENA is a techno and house artist tracked on soundcheck, with 122 sets logged across Amsterdam, Barcelona, Berlin and Brussels and 12 more. Often billed alongside Doppelgang, Mary Lake and Fafi Abdel Nour. Next up: KREUZWERK, Berlin on Sat 19 Sept.
 
@@ -30,4 +30,4 @@ TWIENA is a techno and house artist tracked on soundcheck, with 122 sets logged 
 
 Doppelgang, Mary Lake, Fafi Abdel Nour
 
-*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/twiena/)*
+*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/twiena/)*

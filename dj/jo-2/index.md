@@ -1,6 +1,6 @@
 # JØ (2)
 
-JØ (2) is a House and Garage artist with 1 upcoming club date listed on soundcheck as of Mon, 14 Sept 2026, next at Culture Lab LIC, New York City on Sat, 26 Sept 2026.
+JØ (2) is a House and Garage artist with 1 upcoming club date listed on soundcheck as of Tue, 15 Sept 2026, next at Culture Lab LIC, New York City on Sat, 26 Sept 2026.
 
 JØ (2) is a house and garage artist tracked on soundcheck, with 2 sets logged across Newyorkcity. Often billed alongside Astor Lux, CRSPY and Jubilee. Next up: Culture Lab LIC, Newyorkcity on Sat 26 Sept.
 
@@ -18,4 +18,4 @@ JØ (2) is a house and garage artist tracked on soundcheck, with 2 sets logged a
 
 Astor Lux, CRSPY, Jubilee
 
-*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jo-2/)*
+*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jo-2/)*

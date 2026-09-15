@@ -1,6 +1,6 @@
 # Dynamo
 
-Dynamo is a music venue in Zurich with 1 upcoming night listed on soundcheck as of Mon, 14 Sept 2026; the next is "lactose PRESENTS" on Fri, 18 Sept 2026.
+Dynamo is a music venue in Zurich with 1 upcoming night listed on soundcheck as of Tue, 15 Sept 2026; the next is "lactose PRESENTS" on Fri, 18 Sept 2026.
 
 Dynamo is a music venue in Zurich listed on soundcheck. 1 upcoming night, with line-ups including Task Horizon. Browse upcoming dates, start times and who's playing. Wasserwerkstrasse 21; 8006, Zürich; Switzerland.
 
@@ -14,4 +14,4 @@ Dynamo is a music venue in Zurich listed on soundcheck. 1 upcoming night, with l
 
 Wasserwerkstrasse 21; 8006, Zürich; Switzerland, Zurich
 
-*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/zurich/club/dynamo/)*
+*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/zurich/club/dynamo/)*

@@ -1,6 +1,6 @@
 # Liana
 
-Liana is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Mon, 14 Sept 2026, next at 303 Audiophile Bar, Barcelona on Sat, 19 Sept 2026.
+Liana is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Tue, 15 Sept 2026, next at 303 Audiophile Bar, Barcelona on Sat, 19 Sept 2026.
 
 Liana is a house and techno artist tracked on soundcheck, with 43 sets logged across Amsterdam, Barcelona, Ibiza and London and 4 more. Often billed alongside Pacome, Fer (ES) and A.M. Project. Next up: 303 Audiophile Bar, Barcelona on Sat 19 Sept.
 
@@ -26,4 +26,4 @@ Liana is a house and techno artist tracked on soundcheck, with 43 sets logged ac
 
 Pacome, Fer (ES), A.M. Project
 
-*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/liana/)*
+*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/liana/)*

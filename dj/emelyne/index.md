@@ -1,13 +1,14 @@
 # Emelyne
 
-Emelyne is a Bass and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 14 Sept 2026, next at Collingwood Children's Farm, Melbourne on Sat, 31 Oct 2026.
+Emelyne is a Bass and Techno artist with 2 upcoming club dates listed on soundcheck as of Tue, 15 Sept 2026, next at Arkaoda, Istanbul on Sat, 26 Sept 2026.
 
-Emelyne is a bass and techno artist tracked on soundcheck, with 76 sets logged across Melbourne and Sydney. Often billed alongside Kate Miller, Moopie and Darcy Justice. Next up: Collingwood Children's Farm, Melbourne on Sat 31 Oct.
+Emelyne is a bass and techno artist tracked on soundcheck, with 77 sets logged across Istanbul, Melbourne and Sydney. Often billed alongside Kate Miller, Moopie and Darcy Justice. Next up: Arkaoda, Istanbul on Sat 26 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 26 Sept 2026 | Arkaoda | Istanbul |
 | Sat, 31 Oct 2026 | Collingwood Children's Farm | Melbourne |
 
 ## Recently played
@@ -25,4 +26,4 @@ Emelyne is a bass and techno artist tracked on soundcheck, with 76 sets logged a
 
 Kate Miller, Moopie, Darcy Justice
 
-*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/emelyne/)*
+*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/emelyne/)*

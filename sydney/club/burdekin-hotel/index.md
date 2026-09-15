@@ -1,6 +1,6 @@
 # Burdekin Hotel
 
-Burdekin Hotel is a music venue in Sydney with 4 upcoming nights listed on soundcheck as of Mon, 14 Sept 2026; the next is "BAILAR" on Fri, 18 Sept 2026.
+Burdekin Hotel is a music venue in Sydney with 4 upcoming nights listed on soundcheck as of Tue, 15 Sept 2026; the next is "BAILAR" on Fri, 18 Sept 2026.
 
 Burdekin Hotel is a music venue in Sydney listed on soundcheck. 4 upcoming nights, with line-ups including Elina, Melt Unit and Xian. Browse upcoming dates, start times and who's playing. 2 Oxford St; Darlinghurst, NSW 2010; Australia.
 
@@ -17,4 +17,4 @@ Burdekin Hotel is a music venue in Sydney listed on soundcheck. 4 upcoming night
 
 2 Oxford St; Darlinghurst, NSW 2010; Australia, Sydney
 
-*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/sydney/club/burdekin-hotel/)*
+*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/sydney/club/burdekin-hotel/)*

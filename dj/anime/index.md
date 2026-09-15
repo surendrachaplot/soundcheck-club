@@ -1,14 +1,15 @@
 # Anime
 
-Anime is a Hardcore and Techno artist with 2 upcoming club dates listed on soundcheck as of Mon, 14 Sept 2026, next at P36 Terminal 1 Busparkplatz  / Sonic-Warrior Festival Tours Abfahrt, Frankfurt on Sat, 19 Sept 2026.
+Anime is a Hardcore and Techno artist with 3 upcoming club dates listed on soundcheck as of Tue, 15 Sept 2026, next at P36 Terminal 1 Busparkplatz  / Sonic-Warrior Festival Tours Abfahrt, Frankfurt on Sat, 19 Sept 2026.
 
-Anime is a hardcore and techno artist based in Italy, tracked on soundcheck, with 23 sets logged across Berlin, Frankfurt, Glasgow and Liverpool and 10 more. Often billed alongside Angerfist, Lil Texas and Mad Dog. Next up: P36 Terminal 1 Busparkplatz  / Sonic-Warrior Festival Tours Abfahrt, Frankfurt on Sat 19 Sept.
+Anime is a hardcore and techno artist based in Italy, tracked on soundcheck, with 24 sets logged across Berlin, Frankfurt, Glasgow and Liverpool and 10 more. Often billed alongside Angerfist, Lil Texas and Mad Dog. Next up: P36 Terminal 1 Busparkplatz  / Sonic-Warrior Festival Tours Abfahrt, Frankfurt on Sat 19 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 19 Sept 2026 | P36 Terminal 1 Busparkplatz  / Sonic-Warrior Festival Tours Abfahrt | Frankfurt |
+| Sat, 24 Oct 2026 | Mia Mao | Paris |
 | Fri, 30 Oct 2026 | NOS Event Center | Los Angeles |
 
 ## Recently played
@@ -26,4 +27,4 @@ Anime is a hardcore and techno artist based in Italy, tracked on soundcheck, wit
 
 Angerfist, Lil Texas, Mad Dog
 
-*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/anime/)*
+*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/anime/)*

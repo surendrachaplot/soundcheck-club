@@ -1,6 +1,6 @@
 # HumanbIAN & raey at Jade
 
-HumanbIAN & raey at Jade on Thu 17 Sept, Newyorkcity. 1 act on the bill: HumanbIAN. House and Electronica. Preview the line-up and save it on soundcheck.
+HumanbIAN & raey at Jade on Thu 17 Sept, Newyorkcity. 2 acts on the bill: HumanbIAN and raey. House and Electronica. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,5 +11,6 @@ HumanbIAN & raey at Jade on Thu 17 Sept, Newyorkcity. 1 act on the bill: HumanbI
 ## Line-up
 
 - HumanbIAN
+- raey
 
 *Source: [soundcheck](https://soundcheck.club/e/2534864-humanbian-raey-at-jade/)*

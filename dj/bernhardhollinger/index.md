@@ -1,6 +1,6 @@
 # Bernhard Hollinger
 
-Bernhard Hollinger is a Experimental and Techno artist with 2 upcoming club dates listed on soundcheck as of Mon, 14 Sept 2026, next at migas, a listening bar, Berlin on Wed, 16 Sept 2026.
+Bernhard Hollinger is a Experimental and Techno artist with 2 upcoming club dates listed on soundcheck as of Tue, 15 Sept 2026, next at migas, a listening bar, Berlin on Wed, 16 Sept 2026.
 
 Bernhard Hollinger is an experimental and techno artist tracked on soundcheck, with 10 sets logged across Amsterdam, Berlin, Nurnberg and Tokyo. Often billed alongside Hilary C/B, Karim Khelil and Reinartz. Next up: migas, a listening bar, Berlin on Wed 16 Sept.
 
@@ -26,4 +26,4 @@ Bernhard Hollinger is an experimental and techno artist tracked on soundcheck, w
 
 Hilary C/B, Karim Khelil, Reinartz
 
-*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bernhardhollinger/)*
+*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bernhardhollinger/)*

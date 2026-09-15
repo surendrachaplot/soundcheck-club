@@ -1,6 +1,6 @@
 # Selecta (ES)
 
-Selecta (ES) is a Drum & Bass and House artist with 1 upcoming club date listed on soundcheck as of Mon, 14 Sept 2026, next at Spook Club, Valencia on Fri, 18 Sept 2026.
+Selecta (ES) is a Drum & Bass and House artist with 1 upcoming club date listed on soundcheck as of Tue, 15 Sept 2026, next at Spook Club, Valencia on Fri, 18 Sept 2026.
 
 Selecta (ES) is a drum & bass and house artist based in Spain, tracked on soundcheck, with 28 sets logged across Bali, Barcelona, Birmingham and Cologne and 5 more. Often billed alongside Rayne (1), Badlokk and Bluntz. Next up: Spook Club, Valencia on Fri 18 Sept.
 
@@ -25,4 +25,4 @@ Selecta (ES) is a drum & bass and house artist based in Spain, tracked on soundc
 
 Rayne (1), Badlokk, Bluntz
 
-*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/selecta-es/)*
+*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/selecta-es/)*

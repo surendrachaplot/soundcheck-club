@@ -1,6 +1,6 @@
 # The Elastic Ball
 
-The Elastic Ball is a Experimental and Electronica artist with 1 upcoming club date listed on soundcheck as of Mon, 14 Sept 2026, next at Boomtown Brewery, Los Angeles on Thu, 17 Sept 2026.
+The Elastic Ball is a Experimental and Electronica artist with 1 upcoming club date listed on soundcheck as of Tue, 15 Sept 2026, next at Boomtown Brewery, Los Angeles on Thu, 17 Sept 2026.
 
 The Elastic Ball is an experimental and electronica artist based in United States of America, tracked on soundcheck, with 5 sets logged across Losangeles. Often billed alongside blanket forts, E.M. Bae and Hot Sound Injection. Next up: Boomtown Brewery, Losangeles on Thu 17 Sept.
 
@@ -21,4 +21,4 @@ The Elastic Ball is an experimental and electronica artist based in United State
 
 blanket forts, E.M. Bae, Hot Sound Injection
 
-*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/theelasticball/)*
+*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/theelasticball/)*

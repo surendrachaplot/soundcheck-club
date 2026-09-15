@@ -1,8 +1,8 @@
 # ØTTA
 
-ØTTA is a Techno and House artist with 14 upcoming club dates listed on soundcheck as of Mon, 14 Sept 2026, next at Westhafen, Leipzig on Sat, 19 Sept 2026.
+ØTTA is a Techno and House artist with 15 upcoming club dates listed on soundcheck as of Tue, 15 Sept 2026, next at Westhafen, Leipzig on Sat, 19 Sept 2026.
 
-ØTTA is a techno and house artist tracked on soundcheck, with 174 sets logged across Amsterdam, Antwerp, Athens and Austin and 57 more. Often billed alongside Nico Moreno, 999999999 and Alignment. Next up: Westhafen, Leipzig on Sat 19 Sept.
+ØTTA is a techno and house artist tracked on soundcheck, with 175 sets logged across Amsterdam, Antwerp, Athens and Austin and 57 more. Often billed alongside Nico Moreno, 999999999 and Alignment. Next up: Westhafen, Leipzig on Sat 19 Sept.
 
 ## Upcoming shows
 
@@ -18,8 +18,8 @@
 | Sat, 7 Nov 2026 | The Chocolate Factory | New York City |
 | Fri, 13 Nov 2026 | The Concourse Project | Austin |
 | Fri, 13 Nov 2026 | Concord Music Hall | Chicago |
+| Thu, 19 Nov 2026 | Studio1111 | Berlin |
 | Sat, 21 Nov 2026 | Colour Factory | London |
-| Wed, 25 Nov 2026 | Origin | Los Angeles |
 
 ## Recently played
 
@@ -36,4 +36,4 @@
 
 Nico Moreno, 999999999, Alignment
 
-*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/otta/)*
+*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/otta/)*

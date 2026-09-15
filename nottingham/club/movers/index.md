@@ -1,8 +1,8 @@
 # Movers
 
-Movers is a music venue in Nottingham with 26 upcoming nights listed on soundcheck as of Mon, 14 Sept 2026; the next is "Auramatic [Hardline, ATW Records] - All Night Long" on Thu, 17 Sept 2026.
+Movers is a music venue in Nottingham with 27 upcoming nights listed on soundcheck as of Tue, 15 Sept 2026; the next is "Auramatic [Hardline, ATW Records] - All Night Long" on Thu, 17 Sept 2026.
 
-Movers is a music venue in Nottingham listed on soundcheck. 26 upcoming nights, with line-ups including Aaron Dynamic, Alex Traska, Alien Communications and Auramatic and 2 more. Browse upcoming dates, start times and who's playing. 15 Hockley, Nottingham, NG1 1FH.
+Movers is a music venue in Nottingham listed on soundcheck. 27 upcoming nights, with line-ups including Aaron Dynamic, Alex Traska, Alien Communications and Auramatic and 2 more. Browse upcoming dates, start times and who's playing. 15 Hockley, Nottingham, NG1 1FH.
 
 ## What's on
 
@@ -23,4 +23,4 @@ Movers is a music venue in Nottingham listed on soundcheck. 26 upcoming nights, 
 
 15 Hockley, Nottingham, NG1 1FH, Nottingham
 
-*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/nottingham/club/movers/)*
+*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/nottingham/club/movers/)*

@@ -1,6 +1,6 @@
 # Oppidan
 
-Oppidan is a Garage and House artist with 8 upcoming club dates listed on soundcheck as of Mon, 14 Sept 2026, next at Openluchttheater Amersfoort, Amsterdam on Fri, 18 Sept 2026.
+Oppidan is a Garage and House artist with 8 upcoming club dates listed on soundcheck as of Tue, 15 Sept 2026, next at Openluchttheater Amersfoort, Amsterdam on Fri, 18 Sept 2026.
 
 Oppidan is a garage and house artist tracked on soundcheck, with 145 sets logged across Amsterdam, Antwerp, Austin and Barcelona and 45 more. Often billed alongside MPH (1), Sammy Virji and Notion. Next up: Openluchttheater Amersfoort, Amsterdam on Fri 18 Sept.
 
@@ -32,4 +32,4 @@ Oppidan is a garage and house artist tracked on soundcheck, with 145 sets logged
 
 MPH (1), Sammy Virji, Notion
 
-*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/oppidan/)*
+*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/oppidan/)*

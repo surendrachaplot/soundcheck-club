@@ -1,6 +1,6 @@
 # ErF Studios
 
-ErF Studios is a music venue in New York City with 2 upcoming nights listed on soundcheck as of Mon, 14 Sept 2026; the next is "SANCTUM" on Fri, 25 Sept 2026.
+ErF Studios is a music venue in New York City with 2 upcoming nights listed on soundcheck as of Tue, 15 Sept 2026; the next is "SANCTUM" on Fri, 25 Sept 2026.
 
 ErF Studios is a music venue in Newyorkcity listed on soundcheck. 2 upcoming nights, with line-ups including Akanbi, CYCLO BONETTE, estro and Leafy Greens and 2 more. Browse upcoming dates, start times and who's playing. 1 ingraham st, Brooklyn NY, 11206.
 
@@ -15,4 +15,4 @@ ErF Studios is a music venue in Newyorkcity listed on soundcheck. 2 upcoming nig
 
 1 ingraham st, Brooklyn NY, 11206, New York City
 
-*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/erf-studios/)*
+*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/erf-studios/)*

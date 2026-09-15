@@ -1,13 +1,14 @@
 # Scratcha DVA
 
-Scratcha DVA is a Bass and UK Funky artist with 1 upcoming club date listed on soundcheck as of Mon, 14 Sept 2026, next at Ninety One, London on Sat, 5 Dec 2026.
+Scratcha DVA is a Bass and UK Funky artist with 2 upcoming club dates listed on soundcheck as of Tue, 15 Sept 2026, next at Basing House, London on Sat, 3 Oct 2026.
 
-Scratcha DVA is a bass and uk funky artist based in United Kingdom, tracked on soundcheck, with 42 sets logged across Amsterdam, Antwerp, Berlin and Bristol and 15 more. Often billed alongside Tash LC, Ikonika and Nkisi. Next up: Ninety One, London on Sat 5 Dec.
+Scratcha DVA is a bass and uk funky artist based in United Kingdom, tracked on soundcheck, with 43 sets logged across Amsterdam, Antwerp, Berlin and Bristol and 15 more. Often billed alongside Tash LC, Ikonika and Nkisi. Next up: Basing House, London on Sat 3 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 3 Oct 2026 | Basing House | London |
 | Sat, 5 Dec 2026 | Ninety One | London |
 
 ## Recently played
@@ -25,4 +26,4 @@ Scratcha DVA is a bass and uk funky artist based in United Kingdom, tracked on s
 
 Tash LC, Ikonika, Nkisi
 
-*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/scratchadva/)*
+*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/scratchadva/)*

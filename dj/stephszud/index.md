@@ -1,6 +1,6 @@
 # steph szud
 
-steph szud is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 14 Sept 2026, next at Spkrbox, Detroit on Sun, 20 Sept 2026.
+steph szud is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 15 Sept 2026, next at Spkrbox, Detroit on Sun, 20 Sept 2026.
 
 steph szud is a techno and house artist tracked on soundcheck, with 3 sets logged across Detroit. Often billed alongside Tylr, Ataxia and Fusegrade. Next up: Spkrbox, Detroit on Sun 20 Sept.
 
@@ -19,4 +19,4 @@ steph szud is a techno and house artist tracked on soundcheck, with 3 sets logge
 
 Tylr, Ataxia, Fusegrade
 
-*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/stephszud/)*
+*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/stephszud/)*

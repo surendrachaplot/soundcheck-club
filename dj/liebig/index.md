@@ -1,6 +1,6 @@
 # Liebig
 
-Liebig is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Mon, 14 Sept 2026, next at Azul Rooftop Barceloneta, Barcelona on Fri, 18 Sept 2026.
+Liebig is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Tue, 15 Sept 2026, next at Azul Rooftop Barceloneta, Barcelona on Fri, 18 Sept 2026.
 
 Liebig is a house and deep house artist tracked on soundcheck, with 16 sets logged across Barcelona. Often billed alongside Marvio, Martin Cozar and Amadori. Next up: Azul Rooftop Barceloneta, Barcelona on Fri 18 Sept.
 
@@ -25,4 +25,4 @@ Liebig is a house and deep house artist tracked on soundcheck, with 16 sets logg
 
 Marvio, Martin Cozar, Amadori
 
-*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/liebig/)*
+*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/liebig/)*

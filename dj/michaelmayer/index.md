@@ -1,6 +1,6 @@
 # Michael Mayer
 
-Michael Mayer is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Mon, 14 Sept 2026, next at Specka, Madrid on Sat, 19 Sept 2026.
+Michael Mayer is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Tue, 15 Sept 2026, next at Specka, Madrid on Sat, 19 Sept 2026.
 
 Michael Mayer is a techno and house artist tracked on soundcheck, with 84 sets logged across Amsterdam, Bali, Barcelona and Berlin and 25 more. Often billed alongside Robag Wruhme, Reinhard Voigt and Ada. Next up: Specka, Madrid on Sat 19 Sept.
 
@@ -30,4 +30,4 @@ Michael Mayer is a techno and house artist tracked on soundcheck, with 84 sets l
 
 Robag Wruhme, Reinhard Voigt, Ada
 
-*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/michaelmayer/)*
+*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/michaelmayer/)*

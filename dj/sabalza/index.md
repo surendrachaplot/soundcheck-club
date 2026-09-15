@@ -1,6 +1,6 @@
 # SABALZA
 
-SABALZA is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 14 Sept 2026, next at Freedonia, Barcelona on Sat, 26 Sept 2026.
+SABALZA is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 15 Sept 2026, next at Freedonia, Barcelona on Sat, 26 Sept 2026.
 
 SABALZA is a house and techno artist tracked on soundcheck, with 37 sets logged across Barcelona. Often billed alongside Andrea Zarco, Cipy and ATMEN. Next up: Freedonia, Barcelona on Sat 26 Sept.
 
@@ -25,4 +25,4 @@ SABALZA is a house and techno artist tracked on soundcheck, with 37 sets logged 
 
 Andrea Zarco, Cipy, ATMEN
 
-*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sabalza/)*
+*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sabalza/)*

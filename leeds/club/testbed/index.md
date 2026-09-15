@@ -1,6 +1,6 @@
 # TESTBED
 
-TESTBED is a music venue in Leeds with 2 upcoming nights listed on soundcheck as of Mon, 14 Sept 2026; the next is "SlapFunk & Ruckus24 - Halloween" on Sat, 31 Oct 2026.
+TESTBED is a music venue in Leeds with 2 upcoming nights listed on soundcheck as of Tue, 15 Sept 2026; the next is "SlapFunk & Ruckus24 - Halloween" on Sat, 31 Oct 2026.
 
 TESTBED is a music venue in Leeds listed on soundcheck. 2 upcoming nights, with line-ups including Dr Banana, Dungeon Meat, Isabelle Koci and Josh Demello and 2 more. Browse upcoming dates, start times and who's playing. Butterley Street.
 
@@ -15,4 +15,4 @@ TESTBED is a music venue in Leeds listed on soundcheck. 2 upcoming nights, with 
 
 Butterley Street, Leeds
 
-*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/leeds/club/testbed/)*
+*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/leeds/club/testbed/)*

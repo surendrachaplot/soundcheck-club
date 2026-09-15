@@ -1,6 +1,6 @@
 # Aaron Paar
 
-Aaron Paar is a House and Deep House artist with 3 upcoming club dates listed on soundcheck as of Mon, 14 Sept 2026, next at The Air Conditioned Lounge, San Diego on Fri, 18 Sept 2026.
+Aaron Paar is a House and Deep House artist with 3 upcoming club dates listed on soundcheck as of Tue, 15 Sept 2026, next at The Air Conditioned Lounge, San Diego on Fri, 18 Sept 2026.
 
 Aaron Paar is a house and deep house artist based in United States of America, tracked on soundcheck, with 38 sets logged across Losangeles, Newyorkcity, Sandiego and Washingtondc. Often billed alongside SEEPS, Chloëdees and Juliet Mendoza. Next up: The Air Conditioned Lounge, Sandiego on Fri 18 Sept.
 
@@ -27,4 +27,4 @@ Aaron Paar is a house and deep house artist based in United States of America, t
 
 SEEPS, Chloëdees, Juliet Mendoza
 
-*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/aaronpaar/)*
+*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/aaronpaar/)*

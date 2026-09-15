@@ -1,6 +1,6 @@
 # Matin
 
-Matin is a Jungle and Breakbeat artist with 1 upcoming club date listed on soundcheck as of Mon, 14 Sept 2026, next at Milla - Live Club, Munich on Fri, 18 Sept 2026.
+Matin is a Jungle and Breakbeat artist with 1 upcoming club date listed on soundcheck as of Tue, 15 Sept 2026, next at Milla - Live Club, Munich on Fri, 18 Sept 2026.
 
 Matin is a jungle and breakbeat artist tracked on soundcheck, with 3 sets logged across Istanbul and Munich. Often billed alongside SARA. Next up: Milla - Live Club, Munich on Fri 18 Sept.
 
@@ -19,4 +19,4 @@ Matin is a jungle and breakbeat artist tracked on soundcheck, with 3 sets logged
 
 SARA
 
-*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/matin/)*
+*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/matin/)*

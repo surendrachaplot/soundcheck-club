@@ -1,6 +1,6 @@
 # Bsmnt
 
-Bsmnt is a music venue in Boston with 4 upcoming nights listed on soundcheck as of Mon, 14 Sept 2026; the next is "Bsmnt with Joe Tagessian (All Vinyl All Night)" on Thu, 17 Sept 2026.
+Bsmnt is a music venue in Boston with 4 upcoming nights listed on soundcheck as of Tue, 15 Sept 2026; the next is "Bsmnt with Joe Tagessian (All Vinyl All Night)" on Thu, 17 Sept 2026.
 
 Bsmnt is a music venue in Boston listed on soundcheck. 4 upcoming nights, with line-ups including Elizabëth, FJAAK, Joe Tagessian and Kasia (OFC) and 2 more. Browse upcoming dates, start times and who's playing. 100 stuart st, boston, ma.
 
@@ -17,4 +17,4 @@ Bsmnt is a music venue in Boston listed on soundcheck. 4 upcoming nights, with l
 
 100 stuart st, boston, ma, Boston
 
-*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/boston/club/bsmnt/)*
+*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/boston/club/bsmnt/)*

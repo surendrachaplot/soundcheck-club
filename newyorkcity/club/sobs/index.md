@@ -1,6 +1,6 @@
 # SOBs
 
-SOBs is a music venue in New York City with 11 upcoming nights listed on soundcheck as of Mon, 14 Sept 2026; the next is "Out Of Control Army" on Tue, 15 Sept 2026.
+SOBs is a music venue in New York City with 11 upcoming nights listed on soundcheck as of Tue, 15 Sept 2026; the next is "Out Of Control Army" on Tue, 15 Sept 2026.
 
 SOBs is a music venue in Newyorkcity listed on soundcheck. 11 upcoming nights, with line-ups including Joon and Token. Browse upcoming dates, start times and who's playing. 204 Varick Street, New York, NY 10014-4810, USA.
 
@@ -23,4 +23,4 @@ SOBs is a music venue in Newyorkcity listed on soundcheck. 11 upcoming nights, w
 
 204 Varick Street, New York, NY 10014-4810, USA, New York City
 
-*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/sobs/)*
+*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/sobs/)*

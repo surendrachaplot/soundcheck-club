@@ -1,6 +1,6 @@
 # TWOFACEDKIMMY
 
-TWOFACEDKIMMY is a Techno and Trance artist with 3 upcoming club dates listed on soundcheck as of Mon, 14 Sept 2026, next at Lokschuppen Berlin, Berlin on Fri, 18 Sept 2026.
+TWOFACEDKIMMY is a Techno and Trance artist with 3 upcoming club dates listed on soundcheck as of Tue, 15 Sept 2026, next at Lokschuppen Berlin, Berlin on Fri, 18 Sept 2026.
 
 TWOFACEDKIMMY is a techno and trance artist tracked on soundcheck, with 20 sets logged across Berlin and Hamburg. Often billed alongside Unromantic, TRYPTAJ and Cherries040. Next up: Lokschuppen Berlin, Berlin on Fri 18 Sept.
 
@@ -27,4 +27,4 @@ TWOFACEDKIMMY is a techno and trance artist tracked on soundcheck, with 20 sets 
 
 Unromantic, TRYPTAJ, Cherries040
 
-*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/twofacedkimmy/)*
+*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/twofacedkimmy/)*

@@ -1,6 +1,6 @@
 # The Brvtalist
 
-The Brvtalist is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 14 Sept 2026, next at ://about blank, Berlin on Sat, 31 Oct 2026.
+The Brvtalist is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 15 Sept 2026, next at ://about blank, Berlin on Sat, 31 Oct 2026.
 
 The Brvtalist is a techno and house artist tracked on soundcheck, with 88 sets logged across Barcelona, Berlin, Boston and Chicago and 21 more. Often billed alongside Melanie Havens, Inverse Element and BLACK ANTHEM RESTORE. Next up: ://about blank, Berlin on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ The Brvtalist is a techno and house artist tracked on soundcheck, with 88 sets l
 
 Melanie Havens, Inverse Element, BLACK ANTHEM RESTORE
 
-*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/thebrvtalist/)*
+*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/thebrvtalist/)*

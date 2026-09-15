@@ -1,6 +1,6 @@
 # Nicolas Lutz
 
-Nicolas Lutz is a Techno and House artist with 7 upcoming club dates listed on soundcheck as of Mon, 14 Sept 2026, next at Les Enfants Brillants, Barcelona on Fri, 18 Sept 2026.
+Nicolas Lutz is a Techno and House artist with 7 upcoming club dates listed on soundcheck as of Tue, 15 Sept 2026, next at Les Enfants Brillants, Barcelona on Fri, 18 Sept 2026.
 
 Nicolas Lutz is a techno and house artist tracked on soundcheck, with 164 sets logged across Amsterdam, Barcelona, Belgrade and Berlin and 39 more. Often billed alongside Binh, DJ Masda and Craig Richards. Next up: Les Enfants Brillants, Barcelona on Fri 18 Sept.
 
@@ -31,4 +31,4 @@ Nicolas Lutz is a techno and house artist tracked on soundcheck, with 164 sets l
 
 Binh, DJ Masda, Craig Richards
 
-*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nicolaslutz/)*
+*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nicolaslutz/)*

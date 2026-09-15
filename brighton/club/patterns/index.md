@@ -1,6 +1,6 @@
 # Patterns
 
-Patterns is a music venue in Brighton with 16 upcoming nights listed on soundcheck as of Mon, 14 Sept 2026; the next is "Memory Box: Disco in The House with Joe Goddard (Hot Chip)" on Sat, 19 Sept 2026.
+Patterns is a music venue in Brighton with 16 upcoming nights listed on soundcheck as of Tue, 15 Sept 2026; the next is "Memory Box: Disco in The House with Joe Goddard (Hot Chip)" on Sat, 19 Sept 2026.
 
 Patterns is a music venue in Brighton listed on soundcheck. 16 upcoming nights, with line-ups including Boris, Dusky, George FitzGerald and Girls of the Internet and 2 more. Browse upcoming dates, start times and who's playing. 10 Marine Parade, BN2 1TL, Brighton, United Kingdom.
 
@@ -23,4 +23,4 @@ Patterns is a music venue in Brighton listed on soundcheck. 16 upcoming nights, 
 
 10 Marine Parade, BN2 1TL, Brighton, United Kingdom, Brighton
 
-*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/brighton/club/patterns/)*
+*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/brighton/club/patterns/)*

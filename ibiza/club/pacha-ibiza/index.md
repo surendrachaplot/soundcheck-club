@@ -1,14 +1,13 @@
 # Pacha Ibiza
 
-Pacha Ibiza is a music venue in Ibiza with 24 upcoming nights listed on soundcheck as of Mon, 14 Sept 2026; the next is "Sonny Fodera" on Mon, 14 Sept 2026.
+Pacha Ibiza is a music venue in Ibiza with 23 upcoming nights listed on soundcheck as of Tue, 15 Sept 2026; the next is "Gordo - TARAKA" on Tue, 15 Sept 2026.
 
-Pacha Ibiza is a music venue in Ibiza listed on soundcheck. 24 upcoming nights, with line-ups including Adriatique, AJ Christou, Alle Farben and Âme and 2 more. Browse upcoming dates, start times and who's playing. Avenida 8 De Agosto, Ibiza Town, 07800 Ibiza, Islas Baleares, Spain.
+Pacha Ibiza is a music venue in Ibiza listed on soundcheck. 23 upcoming nights, with line-ups including Adriatique, AJ Christou, Alle Farben and Âme and 2 more. Browse upcoming dates, start times and who's playing. Avenida 8 De Agosto, Ibiza Town, 07800 Ibiza, Islas Baleares, Spain.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Mon, 14 Sept 2026 | Sonny Fodera | Danny Howard, Sonny Fodera |
 | Tue, 15 Sept 2026 | Gordo - TARAKA | Gordo |
 | Wed, 16 Sept 2026 | Mau P - BADDEST BEHAVIOUR | Mau P |
 | Thu, 17 Sept 2026 | Purple Disco Machine - PURE PACHA | Purple Disco Machine, david bay |
@@ -18,9 +17,10 @@ Pacha Ibiza is a music venue in Ibiza listed on soundcheck. 24 upcoming nights, 
 | Mon, 21 Sept 2026 | Sonny Fodera | Danny Howard, Roger Sanchez, Sonny Fodera |
 | Tue, 22 Sept 2026 | Gordo - TARAKA - CLOSING PARTY | Gordo |
 | Wed, 23 Sept 2026 | Mau P - BADDEST BEHAVIOUR | Mau P |
+| Thu, 24 Sept 2026 | Purple Disco Machine - PURE PACHA | Purple Disco Machine, Todd Terje, david bay |
 
 ## Address
 
 Avenida 8 De Agosto, Ibiza Town, 07800 Ibiza, Islas Baleares, Spain, Ibiza
 
-*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/ibiza/club/pacha-ibiza/)*
+*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/ibiza/club/pacha-ibiza/)*

@@ -1,13 +1,14 @@
 # DJ Slim Fit
 
-DJ Slim Fit is a House and Breakbeat artist with 1 upcoming club date listed on soundcheck as of Mon, 14 Sept 2026, next at Şahika, Istanbul on Sat, 7 Nov 2026.
+DJ Slim Fit is a House and Breakbeat artist with 2 upcoming club dates listed on soundcheck as of Tue, 15 Sept 2026, next at Hoppetosse, Berlin on Fri, 9 Oct 2026.
 
-DJ Slim Fit is a house and breakbeat artist tracked on soundcheck, with 14 sets logged across Amsterdam, Berlin, Bucharest and Istanbul and 1 more. Often billed alongside Alexandra, The Apricots and Enchanted Rhythms. Next up: Şahika, Istanbul on Sat 7 Nov.
+DJ Slim Fit is a house and breakbeat artist tracked on soundcheck, with 15 sets logged across Amsterdam, Berlin, Bucharest and Istanbul and 1 more. Often billed alongside Alexandra, The Apricots and Enchanted Rhythms. Next up: Hoppetosse, Berlin on Fri 9 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 9 Oct 2026 | Hoppetosse | Berlin |
 | Sat, 7 Nov 2026 | Şahika | Istanbul |
 
 ## Recently played
@@ -25,4 +26,4 @@ DJ Slim Fit is a house and breakbeat artist tracked on soundcheck, with 14 sets 
 
 Alexandra, The Apricots, Enchanted Rhythms
 
-*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djslimfit/)*
+*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djslimfit/)*

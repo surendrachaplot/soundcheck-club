@@ -1,6 +1,6 @@
 # Holding Patterns
 
-Holding Patterns is a music venue in Leeds with 3 upcoming nights listed on soundcheck as of Mon, 14 Sept 2026; the next is "Portal" on Wed, 16 Sept 2026.
+Holding Patterns is a music venue in Leeds with 3 upcoming nights listed on soundcheck as of Tue, 15 Sept 2026; the next is "Portal" on Wed, 16 Sept 2026.
 
 Holding Patterns is a music venue in Leeds listed on soundcheck. 3 upcoming nights. Browse upcoming dates, start times and who's playing. 2 Albion Place, LS1 6JL.
 
@@ -16,4 +16,4 @@ Holding Patterns is a music venue in Leeds listed on soundcheck. 3 upcoming nigh
 
 2 Albion Place, LS1 6JL, Leeds
 
-*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/leeds/club/holding-patterns/)*
+*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/leeds/club/holding-patterns/)*

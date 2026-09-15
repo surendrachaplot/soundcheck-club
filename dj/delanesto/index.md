@@ -1,6 +1,6 @@
 # Dela Nesto
 
-Dela Nesto is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Mon, 14 Sept 2026, next at Void Club, Berlin on Fri, 2 Oct 2026.
+Dela Nesto is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Tue, 15 Sept 2026, next at Void Club, Berlin on Fri, 2 Oct 2026.
 
 Dela Nesto is a house and techno artist based in Germany, tracked on soundcheck, with 47 sets logged across Berlin, Cologne, Hamburg and Leipzig and 2 more. Often billed alongside MARIE.MOON, Caro Vola and Dorsch. Next up: Void Club, Berlin on Fri 2 Oct.
 
@@ -27,4 +27,4 @@ Dela Nesto is a house and techno artist based in Germany, tracked on soundcheck,
 
 MARIE.MOON, Caro Vola, Dorsch
 
-*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/delanesto/)*
+*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/delanesto/)*

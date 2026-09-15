@@ -1,6 +1,6 @@
 # control
 
-control is a music venue in Bucharest with 8 upcoming nights listed on soundcheck as of Mon, 14 Sept 2026; the next is "PA!SA!KA! with ELIZABETE BALČUS feat. KnotK [LIVE], Katya Kóv, Monika Seta, Moteris" on Fri, 18 Sept 2026.
+control is a music venue in Bucharest with 8 upcoming nights listed on soundcheck as of Tue, 15 Sept 2026; the next is "PA!SA!KA! with ELIZABETE BALČUS feat. KnotK [LIVE], Katya Kóv, Monika Seta, Moteris" on Fri, 18 Sept 2026.
 
 control is a music venue in Bucharest listed on soundcheck. 8 upcoming nights, with line-ups including Acid Arab, AEREA, Alexandra (2) and ANIN and 2 more. Browse upcoming dates, start times and who's playing. Str. Constantin Mille, nr. 4, 010142 Bucharest, Romania.
 
@@ -21,4 +21,4 @@ control is a music venue in Bucharest listed on soundcheck. 8 upcoming nights, w
 
 Str. Constantin Mille, nr. 4, 010142 Bucharest, Romania, Bucharest
 
-*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/bucharest/club/control/)*
+*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/bucharest/club/control/)*

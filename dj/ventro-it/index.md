@@ -1,6 +1,6 @@
 # VENTRO
 
-VENTRO is a Techno and Acid artist with 1 upcoming club date listed on soundcheck as of Mon, 14 Sept 2026, next at CIRCOLO BOTULINO, Milan on Fri, 18 Sept 2026.
+VENTRO is a Techno and Acid artist with 1 upcoming club date listed on soundcheck as of Tue, 15 Sept 2026, next at CIRCOLO BOTULINO, Milan on Fri, 18 Sept 2026.
 
 VENTRO is a techno and acid artist based in Italy, tracked on soundcheck, with 3 sets logged across Milan and Rome. Often billed alongside ATTA__DJ, Arweenn and DJ PIRO. Next up: CIRCOLO BOTULINO, Milan on Fri 18 Sept.
 
@@ -19,4 +19,4 @@ VENTRO is a techno and acid artist based in Italy, tracked on soundcheck, with 3
 
 ATTA__DJ, Arweenn, DJ PIRO
 
-*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ventro-it/)*
+*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ventro-it/)*

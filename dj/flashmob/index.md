@@ -1,6 +1,6 @@
 # Flashmob
 
-Flashmob is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Mon, 14 Sept 2026, next at Eutopia Whs, London on Sat, 26 Sept 2026.
+Flashmob is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Tue, 15 Sept 2026, next at Eutopia Whs, London on Sat, 26 Sept 2026.
 
 Flashmob is a tech house and house artist based in Italy, tracked on soundcheck, with 30 sets logged across Amsterdam, Barcelona, Dublin and Ibiza and 7 more. Often billed alongside HYLO (IT), Alexis Raphael and Shadow Child. Next up: Eutopia Whs, London on Sat 26 Sept.
 
@@ -25,4 +25,4 @@ Flashmob is a tech house and house artist based in Italy, tracked on soundcheck,
 
 HYLO (IT), Alexis Raphael, Shadow Child
 
-*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/flashmob/)*
+*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/flashmob/)*

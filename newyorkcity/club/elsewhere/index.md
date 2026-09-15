@@ -1,6 +1,6 @@
 # Elsewhere
 
-Elsewhere is a music venue in New York City with 29 upcoming nights listed on soundcheck as of Mon, 14 Sept 2026; the next is "Sam Collins, Mona Matsuoka" on Thu, 17 Sept 2026.
+Elsewhere is a music venue in New York City with 29 upcoming nights listed on soundcheck as of Tue, 15 Sept 2026; the next is "Sam Collins, Mona Matsuoka" on Thu, 17 Sept 2026.
 
 Elsewhere is a music venue in Newyorkcity listed on soundcheck. 29 upcoming nights, with line-ups including 6 SENSE, 999ADJ, Aanandi and AEREA and 2 more. Browse upcoming dates, start times and who's playing. 599 Johnson Ave, Brooklyn, NY 11237 USA.
 
@@ -23,4 +23,4 @@ Elsewhere is a music venue in Newyorkcity listed on soundcheck. 29 upcoming nigh
 
 599 Johnson Ave, Brooklyn, NY 11237 USA, New York City
 
-*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/elsewhere/)*
+*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/elsewhere/)*

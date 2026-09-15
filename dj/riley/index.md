@@ -1,6 +1,6 @@
 # Riley
 
-Riley is a Tech House and House artist with 2 upcoming club dates listed on soundcheck as of Mon, 14 Sept 2026, next at Thuishaven, Amsterdam on Sun, 20 Sept 2026.
+Riley is a Tech House and House artist with 2 upcoming club dates listed on soundcheck as of Tue, 15 Sept 2026, next at Thuishaven, Amsterdam on Sun, 20 Sept 2026.
 
 Riley is a tech house and house artist tracked on soundcheck, with 41 sets logged across Amsterdam, Bristol, Cardiff and Dublin and 10 more. Often billed alongside Max Dean, ALISHA and East End Dubs. Next up: Thuishaven, Amsterdam on Sun 20 Sept.
 
@@ -26,4 +26,4 @@ Riley is a tech house and house artist tracked on soundcheck, with 41 sets logge
 
 Max Dean, ALISHA, East End Dubs
 
-*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/riley/)*
+*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/riley/)*

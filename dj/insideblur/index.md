@@ -1,6 +1,6 @@
 # Inside Blur
 
-Inside Blur is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Mon, 14 Sept 2026, next at Barbossa, Montreal on Fri, 25 Sept 2026.
+Inside Blur is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Tue, 15 Sept 2026, next at Barbossa, Montreal on Fri, 25 Sept 2026.
 
 Inside Blur is a techno and trance artist based in France, tracked on soundcheck, with 37 sets logged across Berlin, Brussels, Lyon and Montreal and 1 more. Often billed alongside Anatohl, Xaviera and MPHS. Next up: Barbossa, Montreal on Fri 25 Sept.
 
@@ -25,4 +25,4 @@ Inside Blur is a techno and trance artist based in France, tracked on soundcheck
 
 Anatohl, Xaviera, MPHS
 
-*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/insideblur/)*
+*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/insideblur/)*

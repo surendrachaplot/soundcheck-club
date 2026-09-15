@@ -1,6 +1,6 @@
 # ƑƩⱮӾႠӨⱤƩ: Ӈలҝลţల ርลไไĬתּဌ at Bike Jesus
 
-ƑƩⱮӾႠӨⱤƩ: Ӈలҝลţల ርลไไĬתּဌ at Bike Jesus on Sat 31 Oct, Prague. 2 acts on the bill: Mother Menace and XENEA LUMRA. Preview the line-up and save it on soundcheck.
+ƑƩⱮӾႠӨⱤƩ: Ӈలҝลţల ርลไไĬתּဌ at Bike Jesus on Sat 31 Oct, Prague. 2 acts on the bill: Mother Menace and XENEA LUMRA. Techno and Jazz. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

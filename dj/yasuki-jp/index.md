@@ -1,6 +1,6 @@
 # YASUKI
 
-YASUKI is a Drum & Bass and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 14 Sept 2026, next at ZEROTOKYO, Tokyo on Thu, 17 Sept 2026.
+YASUKI is a Drum & Bass and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 15 Sept 2026, next at ZEROTOKYO, Tokyo on Thu, 17 Sept 2026.
 
 YASUKI is a drum & bass and techno artist tracked on soundcheck, with 4 sets logged across Tokyo. Often billed alongside DJ AKi, Kulage and YELLOCK. Next up: ZEROTOKYO, Tokyo on Thu 17 Sept.
 
@@ -20,4 +20,4 @@ YASUKI is a drum & bass and techno artist tracked on soundcheck, with 4 sets log
 
 DJ AKi, Kulage, YELLOCK
 
-*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/yasuki-jp/)*
+*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/yasuki-jp/)*

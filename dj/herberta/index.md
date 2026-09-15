@@ -1,6 +1,6 @@
 # Herberta
 
-Herberta is a House and Minimal Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 14 Sept 2026, next at The Cause, London on Sat, 12 Dec 2026.
+Herberta is a House and Minimal Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 15 Sept 2026, next at The Cause, London on Sat, 12 Dec 2026.
 
 Herberta is a house and minimal techno artist based in United Kingdom, tracked on soundcheck, with 15 sets logged across London. Often billed alongside Hannah Thurlow, Tris (UK) and ellzyb. Next up: The Cause, London on Sat 12 Dec.
 
@@ -25,4 +25,4 @@ Herberta is a house and minimal techno artist based in United Kingdom, tracked o
 
 Hannah Thurlow, Tris (UK), ellzyb
 
-*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/herberta/)*
+*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/herberta/)*

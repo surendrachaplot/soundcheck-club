@@ -1,14 +1,15 @@
 # VIKk
 
-VIKk is a House and Electro artist with 1 upcoming club date listed on soundcheck as of Mon, 14 Sept 2026, next at Sunseabar Beach Club, Barcelona on Sat, 26 Sept 2026.
+VIKk is a House and Electro artist with 2 upcoming club dates listed on soundcheck as of Tue, 15 Sept 2026, next at Sunseabar Beach Club, Barcelona on Sat, 26 Sept 2026.
 
-VIKk is a house and electro artist based in Spain, tracked on soundcheck, with 74 sets logged across Barcelona, Berlin, Brussels and Budapest and 8 more. Often billed alongside Perro Jimbo, MATT.. and Lamache. Next up: Sunseabar Beach Club, Barcelona on Sat 26 Sept.
+VIKk is a house and electro artist based in Spain, tracked on soundcheck, with 75 sets logged across Barcelona, Berlin, Brussels and Budapest and 8 more. Often billed alongside Perro Jimbo, MATT.. and Lamache. Next up: Sunseabar Beach Club, Barcelona on Sat 26 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 26 Sept 2026 | Sunseabar Beach Club | Barcelona |
+| Sun, 4 Oct 2026 | TBA - Secret place | Berlin |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ VIKk is a house and electro artist based in Spain, tracked on soundcheck, with 7
 
 Perro Jimbo, MATT.., Lamache
 
-*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/vikk/)*
+*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/vikk/)*

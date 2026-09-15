@@ -1,6 +1,6 @@
 # VM Radio x Synesthesia - ADE with Argia, Jonathan Kaspar, Nandu at Generator
 
-VM Radio x Synesthesia - ADE with Argia, Jonathan Kaspar, Nandu at Generator on Fri 23 Oct, Amsterdam. 7 acts on the bill: Argia, Braketrack, Charles Mingles and Gavino Paglianti and 3 more. House and Electro. Preview the line-up and save it on soundcheck.
+VM Radio x Synesthesia - ADE with Argia, Jonathan Kaspar, Nandu at Generator on Fri 23 Oct, Amsterdam. 8 acts on the bill: Argia, Braketrack, Charles Mingles and Gavino Paglianti and 4 more. House and Electro. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -14,6 +14,7 @@ VM Radio x Synesthesia - ADE with Argia, Jonathan Kaspar, Nandu at Generator on 
 - Braketrack
 - Charles Mingles
 - Gavino Paglianti
+- Hightower
 - Ides of March
 - Jonathan Kaspar
 - Nandu

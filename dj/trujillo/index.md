@@ -1,6 +1,6 @@
 # Trujillo
 
-Trujillo is a Disco and House artist with 1 upcoming club date listed on soundcheck as of Mon, 14 Sept 2026, next at Klymax Discotheque, Bali on Fri, 18 Sept 2026.
+Trujillo is a Disco and House artist with 1 upcoming club date listed on soundcheck as of Tue, 15 Sept 2026, next at Klymax Discotheque, Bali on Fri, 18 Sept 2026.
 
 Trujillo is a disco and house artist based in Venezuela, tracked on soundcheck, with 18 sets logged across Bali, Barcelona, Berlin and Helsinki and 6 more. Often billed alongside Bayetë, Aleksandir and Alessia Lee. Next up: Klymax Discotheque, Bali on Fri 18 Sept.
 
@@ -25,4 +25,4 @@ Trujillo is a disco and house artist based in Venezuela, tracked on soundcheck, 
 
 Bayetë, Aleksandir, Alessia Lee
 
-*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/trujillo/)*
+*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/trujillo/)*

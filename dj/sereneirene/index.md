@@ -1,6 +1,6 @@
 # Serene Irene
 
-Serene Irene is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 14 Sept 2026, next at Madrone Art Bar, San Francisco/Oakland on Thu, 17 Sept 2026.
+Serene Irene is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 15 Sept 2026, next at Madrone Art Bar, San Francisco/Oakland on Thu, 17 Sept 2026.
 
 Serene Irene is a house and techno artist tracked on soundcheck, with 7 sets logged across Sanfrancisco. Often billed alongside mezaboy, AGROPOL and Ceci G. Next up: Madrone Art Bar, Sanfrancisco on Thu 17 Sept.
 
@@ -23,4 +23,4 @@ Serene Irene is a house and techno artist tracked on soundcheck, with 7 sets log
 
 mezaboy, AGROPOL, Ceci G
 
-*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sereneirene/)*
+*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sereneirene/)*

@@ -1,6 +1,6 @@
 # Kike Roldan
 
-Kike Roldan is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Mon, 14 Sept 2026, next at Mad Radio Miami, Miami on Wed, 16 Sept 2026.
+Kike Roldan is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Tue, 15 Sept 2026, next at Mad Radio Miami, Miami on Wed, 16 Sept 2026.
 
 Kike Roldan is a house and deep house artist tracked on soundcheck, with 120 sets logged across Miami. Often billed alongside Atomyard, Patrick M and Soto Music. Next up: Mad Radio Miami, Miami on Wed 16 Sept.
 
@@ -25,4 +25,4 @@ Kike Roldan is a house and deep house artist tracked on soundcheck, with 120 set
 
 Atomyard, Patrick M, Soto Music
 
-*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kikeroldan/)*
+*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kikeroldan/)*

@@ -1,6 +1,6 @@
 # RICHE
 
-RICHE is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Mon, 14 Sept 2026, next at Søpavillonen, Copenhagen on Fri, 18 Sept 2026.
+RICHE is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Tue, 15 Sept 2026, next at Søpavillonen, Copenhagen on Fri, 18 Sept 2026.
 
 RICHE is a house and techno artist based in United States of America, tracked on soundcheck, with 25 sets logged across Amsterdam, Berlin, Brussels and Copenhagen and 8 more. Often billed alongside ELIF, Mona Pirzad and OMRI.. Next up: Søpavillonen, Copenhagen on Fri 18 Sept.
 
@@ -26,4 +26,4 @@ RICHE is a house and techno artist based in United States of America, tracked on
 
 ELIF, Mona Pirzad, OMRI.
 
-*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/riche/)*
+*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/riche/)*

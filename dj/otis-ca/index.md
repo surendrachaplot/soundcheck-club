@@ -1,13 +1,14 @@
 # Otis (CA)
 
-Otis (CA) is a Amapiano and R&B artist with 1 upcoming club date listed on soundcheck as of Mon, 14 Sept 2026, next at TBA - Brussels, Brussels on Sat, 21 Nov 2026.
+Otis (CA) is a Amapiano and R&B artist with 2 upcoming club dates listed on soundcheck as of Tue, 15 Sept 2026, next at Simian, Copenhagen on Sat, 26 Sept 2026.
 
-Otis (CA) is an amapiano and r&b artist based in Canada, tracked on soundcheck, with 2 sets logged across Brussels and Montreal. Often billed alongside Adi, Amelia Holt and Angel D'lite. Next up: TBA - Brussels, Brussels on Sat 21 Nov.
+Otis (CA) is an amapiano and r&b artist based in Canada, tracked on soundcheck, with 3 sets logged across Brussels, Copenhagen and Montreal. Often billed alongside Adi, Alfredo92 and Amelia Holt. Next up: Simian, Copenhagen on Sat 26 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 26 Sept 2026 | Simian | Copenhagen |
 | Sat, 21 Nov 2026 | TBA - Brussels | Brussels |
 
 ## Recently played
@@ -16,6 +17,6 @@ Otis (CA) is an amapiano and r&b artist based in Canada, tracked on soundcheck, 
 
 ## Shares bills with
 
-Adi, Amelia Holt, Angel D'lite
+Adi, Alfredo92, Amelia Holt
 
-*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/otis-ca/)*
+*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/otis-ca/)*

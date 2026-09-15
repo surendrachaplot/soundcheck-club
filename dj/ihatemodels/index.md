@@ -1,6 +1,6 @@
 # I Hate Models
 
-I Hate Models is a Techno and House artist with 14 upcoming club dates listed on soundcheck as of Mon, 14 Sept 2026, next at Amnesia Ibiza, Ibiza on Wed, 16 Sept 2026.
+I Hate Models is a Techno and House artist with 14 upcoming club dates listed on soundcheck as of Tue, 15 Sept 2026, next at Amnesia Ibiza, Ibiza on Wed, 16 Sept 2026.
 
 I Hate Models is a techno and house artist tracked on soundcheck, with 274 sets logged across Aberdeen, Amsterdam, Antwerp and Athens and 72 more. Often billed alongside 999999999, Nico Moreno and Charlie Sparks. Next up: Amnesia Ibiza, Ibiza on Wed 16 Sept.
 
@@ -36,4 +36,4 @@ I Hate Models is a techno and house artist tracked on soundcheck, with 274 sets 
 
 999999999, Nico Moreno, Charlie Sparks
 
-*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ihatemodels/)*
+*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ihatemodels/)*

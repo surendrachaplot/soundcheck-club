@@ -1,6 +1,6 @@
 # James Lavelle
 
-James Lavelle is a Hip-Hop and House artist with 7 upcoming club dates listed on soundcheck as of Mon, 14 Sept 2026, next at 528 Ibiza, Ibiza on Sat, 19 Sept 2026.
+James Lavelle is a Hip-Hop and House artist with 7 upcoming club dates listed on soundcheck as of Tue, 15 Sept 2026, next at 528 Ibiza, Ibiza on Sat, 19 Sept 2026.
 
 James Lavelle is a hip-hop and house artist based in United Kingdom, tracked on soundcheck, with 37 sets logged across Amsterdam, Athens, Belfast and Birmingham and 13 more. Often billed alongside UNKLE, Elliot Schooling and Liam Palmer. Next up: 528 Ibiza, Ibiza on Sat 19 Sept.
 
@@ -31,4 +31,4 @@ James Lavelle is a hip-hop and house artist based in United Kingdom, tracked on 
 
 UNKLE, Elliot Schooling, Liam Palmer
 
-*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jameslavelle/)*
+*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jameslavelle/)*

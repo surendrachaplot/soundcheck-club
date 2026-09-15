@@ -1,6 +1,6 @@
 # KIRIHARA
 
-KIRIHARA is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 14 Sept 2026, next at Numm, Tokyo on Mon, 21 Sept 2026.
+KIRIHARA is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 15 Sept 2026, next at Numm, Tokyo on Mon, 21 Sept 2026.
 
 KIRIHARA is a techno and house artist tracked on soundcheck, with 12 sets logged across Tokyo. Often billed alongside BERLINER KINDL, Polkadot and Taishin Inoue. Next up: Numm, Tokyo on Mon 21 Sept.
 
@@ -25,4 +25,4 @@ KIRIHARA is a techno and house artist tracked on soundcheck, with 12 sets logged
 
 BERLINER KINDL, Polkadot, Taishin Inoue
 
-*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kirihara/)*
+*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kirihara/)*

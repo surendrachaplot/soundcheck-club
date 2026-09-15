@@ -1,6 +1,6 @@
 # Stereo
 
-Stereo is a music venue in Glasgow with 14 upcoming nights listed on soundcheck as of Mon, 14 Sept 2026; the next is "SCATTER 003" on Thu, 17 Sept 2026.
+Stereo is a music venue in Glasgow with 14 upcoming nights listed on soundcheck as of Tue, 15 Sept 2026; the next is "SCATTER 003" on Thu, 17 Sept 2026.
 
 Stereo is a music venue in Glasgow listed on soundcheck. 14 upcoming nights, with line-ups including AMBRR, Angel D'lite, Average Joe (2) and Bellarosa and 2 more. Browse upcoming dates, start times and who's playing. 20-28 Renfield Lane; Glasgow, G2 6PH; Scotland; United Kingdom.
 
@@ -23,4 +23,4 @@ Stereo is a music venue in Glasgow listed on soundcheck. 14 upcoming nights, wit
 
 20-28 Renfield Lane; Glasgow, G2 6PH; Scotland; United Kingdom, Glasgow
 
-*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/stereo/)*
+*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/stereo/)*

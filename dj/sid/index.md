@@ -1,6 +1,6 @@
 # SiD
 
-SiD is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 14 Sept 2026, next at Jonny Knüppel, Berlin on Fri, 18 Sept 2026.
+SiD is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 15 Sept 2026, next at Jonny Knüppel, Berlin on Fri, 18 Sept 2026.
 
 SiD is a techno and house artist based in Germany, tracked on soundcheck, with 16 sets logged across Amsterdam, Berlin, London and Tokyo. Often billed alongside Coco, Empro and AantiGen. Next up: Jonny Knüppel, Berlin on Fri 18 Sept.
 
@@ -25,4 +25,4 @@ SiD is a techno and house artist based in Germany, tracked on soundcheck, with 1
 
 Coco, Empro, AantiGen
 
-*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sid/)*
+*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sid/)*

@@ -1,6 +1,6 @@
 # Club Metro
 
-Club Metro is a music venue in Kyoto with 25 upcoming nights listed on soundcheck as of Mon, 14 Sept 2026; the next is "CLUB80's リクエスト大会" on Wed, 16 Sept 2026.
+Club Metro is a music venue in Kyoto with 25 upcoming nights listed on soundcheck as of Tue, 15 Sept 2026; the next is "CLUB80's リクエスト大会" on Wed, 16 Sept 2026.
 
 Club Metro is a music venue in Kyoto listed on soundcheck. 25 upcoming nights, with line-ups including Andy Vaz, AOKI takamasa, DJ KAZUMA and DMITRI ABSINTHE and 2 more. Browse upcoming dates, start times and who's playing. 82 Simodutsumicho, Kawabata Marutamachi, Sakyo-ku, Kyoto-shi, 606-8396 Japan.
 
@@ -23,4 +23,4 @@ Club Metro is a music venue in Kyoto listed on soundcheck. 25 upcoming nights, w
 
 82 Simodutsumicho, Kawabata Marutamachi, Sakyo-ku, Kyoto-shi, 606-8396 Japan, Kyoto
 
-*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/kyoto/club/club-metro/)*
+*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/kyoto/club/club-metro/)*

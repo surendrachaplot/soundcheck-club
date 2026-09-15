@@ -1,14 +1,13 @@
 # DC-10
 
-DC-10 is a music venue in Ibiza with 8 upcoming nights listed on soundcheck as of Mon, 14 Sept 2026; the next is "CircoLoco Ibiza - Week 21" on Mon, 14 Sept 2026.
+DC-10 is a music venue in Ibiza with 7 upcoming nights listed on soundcheck as of Tue, 15 Sept 2026; the next is "Solid Grooves - Week 16" on Thu, 17 Sept 2026.
 
-DC-10 is a music venue in Ibiza listed on soundcheck. 8 upcoming nights, with line-ups including Carl Craig, DJ Seinfeld, DJ Tennis and Francesco Del Garda and 2 more. Browse upcoming dates, start times and who's playing. PM-802, Sant Josep de sa Talaia, Ibiza Spain.
+DC-10 is a music venue in Ibiza listed on soundcheck. 7 upcoming nights, with line-ups including Carl Craig, DJ Seinfeld, DJ Tennis and Francesco Del Garda and 2 more. Browse upcoming dates, start times and who's playing. PM-802, Sant Josep de sa Talaia, Ibiza Spain.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Mon, 14 Sept 2026 | CircoLoco Ibiza - Week 21 |  |
 | Thu, 17 Sept 2026 | Solid Grooves - Week 16 |  |
 | Mon, 21 Sept 2026 | CircoLoco Ibiza - Week 22 |  |
 | Thu, 24 Sept 2026 | Solid Grooves - Week 17 |  |
@@ -21,4 +20,4 @@ DC-10 is a music venue in Ibiza listed on soundcheck. 8 upcoming nights, with li
 
 PM-802, Sant Josep de sa Talaia, Ibiza Spain, Ibiza
 
-*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/ibiza/club/dc-10/)*
+*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/ibiza/club/dc-10/)*

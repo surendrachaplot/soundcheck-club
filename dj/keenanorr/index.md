@@ -1,6 +1,6 @@
 # Keenan Orr
 
-Keenan Orr is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 14 Sept 2026, next at Eighteenth Street Lounge (ESL), Washington DC on Sat, 19 Sept 2026.
+Keenan Orr is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 15 Sept 2026, next at Eighteenth Street Lounge (ESL), Washington DC on Sat, 19 Sept 2026.
 
 Keenan Orr is a house and techno artist based in United States of America, tracked on soundcheck, with 62 sets logged across Boston, Denver, Newyorkcity and Philadelphia and 4 more. Often billed alongside Keenan, KayLaSoul and MAXIMILIANO (US). Next up: Eighteenth Street Lounge (ESL), Washingtondc on Sat 19 Sept.
 
@@ -25,4 +25,4 @@ Keenan Orr is a house and techno artist based in United States of America, track
 
 Keenan, KayLaSoul, MAXIMILIANO (US)
 
-*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/keenanorr/)*
+*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/keenanorr/)*

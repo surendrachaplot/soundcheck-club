@@ -1,6 +1,6 @@
 # DJ Mats
 
-DJ Mats is a Afro House and House artist with 1 upcoming club date listed on soundcheck as of Mon, 14 Sept 2026, next at TBA, Barcelona on Sun, 27 Sept 2026.
+DJ Mats is a Afro House and House artist with 1 upcoming club date listed on soundcheck as of Tue, 15 Sept 2026, next at TBA, Barcelona on Sun, 27 Sept 2026.
 
 DJ Mats is an afro house and house artist tracked on soundcheck, with 3 sets logged across Barcelona. Often billed alongside Charlins, DJ Tortuga and Alex Silva. Next up: TBA, Barcelona on Sun 27 Sept.
 
@@ -19,4 +19,4 @@ DJ Mats is an afro house and house artist tracked on soundcheck, with 3 sets log
 
 Charlins, DJ Tortuga, Alex Silva
 
-*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djmats/)*
+*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djmats/)*

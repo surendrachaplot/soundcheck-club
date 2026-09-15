@@ -1,6 +1,6 @@
 # Sam Bangura
 
-Sam Bangura is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 14 Sept 2026, next at NUMBER 90 LONDON, London on Sat, 3 Oct 2026.
+Sam Bangura is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 15 Sept 2026, next at NUMBER 90 LONDON, London on Sat, 3 Oct 2026.
 
 Sam Bangura is a house and techno artist tracked on soundcheck, with 115 sets logged across Amsterdam, Barcelona, Berlin and Birmingham and 19 more. Often billed alongside Harry McCanna, Dale Mussington and NorthSouth. Next up: NUMBER 90 LONDON, London on Sat 3 Oct.
 
@@ -25,4 +25,4 @@ Sam Bangura is a house and techno artist tracked on soundcheck, with 115 sets lo
 
 Harry McCanna, Dale Mussington, NorthSouth
 
-*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sambangura/)*
+*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sambangura/)*

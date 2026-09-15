@@ -1,6 +1,6 @@
 # Porter Brook
 
-Porter Brook is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 14 Sept 2026, next at Gut Level, Sheffield on Sat, 3 Oct 2026.
+Porter Brook is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 15 Sept 2026, next at Gut Level, Sheffield on Sat, 3 Oct 2026.
 
 Porter Brook is a techno and house artist based in United Kingdom, tracked on soundcheck, with 26 sets logged across Amsterdam, Berlin, Leipzig and London and 2 more. Often billed alongside LINTD, Kop-Z and Hames. Next up: Gut Level, Sheffield on Sat 3 Oct.
 
@@ -25,4 +25,4 @@ Porter Brook is a techno and house artist based in United Kingdom, tracked on so
 
 LINTD, Kop-Z, Hames
 
-*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/porterbrook/)*
+*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/porterbrook/)*

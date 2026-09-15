@@ -1,6 +1,6 @@
 # Gare Porto
 
-Gare Porto is a music venue in Porto with 6 upcoming nights listed on soundcheck as of Mon, 14 Sept 2026; the next is "Hardware [live] - all night long" on Fri, 18 Sept 2026.
+Gare Porto is a music venue in Porto with 6 upcoming nights listed on soundcheck as of Tue, 15 Sept 2026; the next is "Hardware [live] - all night long" on Fri, 18 Sept 2026.
 
 Gare Porto is a music venue in Porto listed on soundcheck. 6 upcoming nights, with line-ups including Amulador, Claudio PRC, dtekk and Forest Drive West and 2 more. Browse upcoming dates, start times and who's playing. Rua da Madeira 182, 4000 Porto, Portugal.
 
@@ -19,4 +19,4 @@ Gare Porto is a music venue in Porto listed on soundcheck. 6 upcoming nights, wi
 
 Rua da Madeira 182, 4000 Porto, Portugal, Porto
 
-*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/porto/club/gare-porto/)*
+*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/porto/club/gare-porto/)*

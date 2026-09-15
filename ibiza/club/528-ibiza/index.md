@@ -1,6 +1,6 @@
 # 528 Ibiza
 
-528 Ibiza is a music venue in Ibiza with 14 upcoming nights listed on soundcheck as of Mon, 14 Sept 2026; the next is "PIKES PRESENTS AT 528 X DETROIT LOVE" on Tue, 15 Sept 2026.
+528 Ibiza is a music venue in Ibiza with 14 upcoming nights listed on soundcheck as of Tue, 15 Sept 2026; the next is "PIKES PRESENTS AT 528 X DETROIT LOVE" on Tue, 15 Sept 2026.
 
 528 Ibiza is a music venue in Ibiza listed on soundcheck. 14 upcoming nights, with line-ups including Kepler, ALEXANDER M, Alex M.O.R.P.H. and Aly & Fila and 2 more. Browse upcoming dates, start times and who's playing. Carrer del Romaní, 07820 Sant Antoni de Portmany, Illes Balears, Spain.
 
@@ -8,9 +8,9 @@
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Tue, 15 Sept 2026 | PIKES PRESENTS AT 528 X DETROIT LOVE | Carl Craig, Forest (PL), Idriss D, Mirko Loko, Moodymann, Ryan O Gorman, Tin Tin, androosh |
+| Tue, 15 Sept 2026 | PIKES PRESENTS AT 528 X DETROIT LOVE | Carl Craig, Forest (PL), Idriss D, Mirko Loco, Mirko Loko, Moodymann, Ryan O Gorman, Tin Tin, androosh |
 | Fri, 18 Sept 2026 | CUE | Chopper (UK), Dennis Quin, Job de Jong, Kepler, Lucas Alexander, Ryan Resso, Stef Davidse |
-| Sat, 19 Sept 2026 | PIKES PRESENTS AT 528 x BUGGED OUT | Andy Baxter, Defex, Federico Grazzini, Felix Da Housecat, Flashbaxx, HAAi, James Lavelle, Milou, Mina |
+| Sat, 19 Sept 2026 | PIKES PRESENTS AT 528 x BUGGED OUT | Andy Baxter, Defex, Federico Grazzini, Felix Da Housecat, Flashbaxx, HAAi, James Lavelle, Milou, Mina, Young Marco |
 | Sun, 20 Sept 2026 | KALUKI IBIZA | Jamie Fielding, Kitty Hall, Pirate Copy, Ranger Trucco, Tommy Phillips |
 | Tue, 22 Sept 2026 | PIKES PRESENTS AT 528 WITH Hot Chip | Crazy P, Forest (PL), Hot Chip, Justin Robertson, Samsön, Santacreu, Zlata |
 | Wed, 23 Sept 2026 | Cocoon 528 Ibiza | Cassy, Cesar Vinzent, DJ Hell, Franziska Berns, Julya Karma, Marie Montexier, Richie Hawtin, Sublee, Sven Vath, Victoria Arena |
@@ -23,4 +23,4 @@
 
 Carrer del Romaní, 07820 Sant Antoni de Portmany, Illes Balears, Spain, Ibiza
 
-*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/ibiza/club/528-ibiza/)*
+*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/ibiza/club/528-ibiza/)*

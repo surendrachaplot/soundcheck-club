@@ -1,6 +1,6 @@
 # Le Son de la Terre
 
-Le Son de la Terre is a music venue in Paris with 1 upcoming night listed on soundcheck as of Mon, 14 Sept 2026; the next is "KAZ" on Fri, 25 Sept 2026.
+Le Son de la Terre is a music venue in Paris with 1 upcoming night listed on soundcheck as of Tue, 15 Sept 2026; the next is "KAZ" on Fri, 25 Sept 2026.
 
 Le Son de la Terre is a music venue in Paris listed on soundcheck. 1 upcoming night, with line-ups including DJ Ketchup Afro. Browse upcoming dates, start times and who's playing. 2 Port Montebello, 75005 Paris.
 
@@ -14,4 +14,4 @@ Le Son de la Terre is a music venue in Paris listed on soundcheck. 1 upcoming ni
 
 2 Port Montebello, 75005 Paris, Paris
 
-*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/paris/club/le-son-de-la-terre/)*
+*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/paris/club/le-son-de-la-terre/)*

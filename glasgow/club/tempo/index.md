@@ -1,6 +1,6 @@
 # Tempo
 
-Tempo is a music venue in Glasgow with 4 upcoming nights listed on soundcheck as of Mon, 14 Sept 2026; the next is "I Am A Raver presents Nanna Makina" on Sun, 27 Sept 2026.
+Tempo is a music venue in Glasgow with 4 upcoming nights listed on soundcheck as of Tue, 15 Sept 2026; the next is "I Am A Raver presents Nanna Makina" on Sun, 27 Sept 2026.
 
 Tempo is a music venue in Glasgow listed on soundcheck. 4 upcoming nights, with line-ups including Black Traffic, DJ Zitkus, Merki and Nanna Makina. Browse upcoming dates, start times and who's playing. 70 Dumbarton Rd, Clydebank G81 1UG.
 
@@ -17,4 +17,4 @@ Tempo is a music venue in Glasgow listed on soundcheck. 4 upcoming nights, with 
 
 70 Dumbarton Rd, Clydebank G81 1UG, Glasgow
 
-*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/tempo/)*
+*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/tempo/)*

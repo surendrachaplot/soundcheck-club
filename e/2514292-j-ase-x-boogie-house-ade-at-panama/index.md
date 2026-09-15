@@ -1,6 +1,6 @@
 # JØASE X Boogie House: ADE at Panama
 
-JØASE X Boogie House: ADE at Panama on Sun 25 Oct, Amsterdam. 5 acts on the bill: Becking, Drabes, Heritage Listed and JØASE and 1 more. Preview the line-up and save it on soundcheck.
+JØASE X Boogie House: ADE at Panama on Sun 25 Oct, Amsterdam. 7 acts on the bill: Becking, Drabes, Heritage Listed and Hunter Demase and 3 more. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -13,7 +13,9 @@ JØASE X Boogie House: ADE at Panama on Sun 25 Oct, Amsterdam. 5 acts on the bil
 - Becking
 - Drabes
 - Heritage Listed
+- Hunter Demase
 - JØASE
 - Kirilski
+- LIKE61
 
 *Source: [soundcheck](https://soundcheck.club/e/2514292-j-ase-x-boogie-house-ade-at-panama/)*

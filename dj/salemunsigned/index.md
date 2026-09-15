@@ -1,6 +1,6 @@
 # Salem Unsigned
 
-Salem Unsigned is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 14 Sept 2026, next at Crack Bellmer, Berlin on Sat, 17 Oct 2026.
+Salem Unsigned is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 15 Sept 2026, next at Crack Bellmer, Berlin on Sat, 17 Oct 2026.
 
 Salem Unsigned is a techno and house artist tracked on soundcheck, with 37 sets logged across Berlin, Lyon, Marseille and Paris and 1 more. Often billed alongside Istigkeit, Bad Boombox and Doruksen. Next up: Crack Bellmer, Berlin on Sat 17 Oct.
 
@@ -25,4 +25,4 @@ Salem Unsigned is a techno and house artist tracked on soundcheck, with 37 sets 
 
 Istigkeit, Bad Boombox, Doruksen
 
-*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/salemunsigned/)*
+*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/salemunsigned/)*

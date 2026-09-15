@@ -1,6 +1,6 @@
 # Wigwam
 
-Wigwam is a music venue in Dublin with 16 upcoming nights listed on soundcheck as of Mon, 14 Sept 2026; the next is "Culture Night x Echo Exchange: Puzzy Wrangler & Collie" on Fri, 18 Sept 2026.
+Wigwam is a music venue in Dublin with 16 upcoming nights listed on soundcheck as of Tue, 15 Sept 2026; the next is "Culture Night x Echo Exchange: Puzzy Wrangler & Collie" on Fri, 18 Sept 2026.
 
 Wigwam is a music venue in Dublin listed on soundcheck. 16 upcoming nights, with line-ups including ALPER SKR, Angel D'lite, BRANDI and Cailín and 2 more. Browse upcoming dates, start times and who's playing. 54 Abbey Street Middle, North City, Dublin, Ireland.
 
@@ -23,4 +23,4 @@ Wigwam is a music venue in Dublin listed on soundcheck. 16 upcoming nights, with
 
 54 Abbey Street Middle, North City, Dublin, Ireland, Dublin
 
-*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/dublin/club/wigwam/)*
+*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/dublin/club/wigwam/)*

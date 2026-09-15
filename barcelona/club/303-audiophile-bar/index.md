@@ -1,8 +1,8 @@
 # 303 Audiophile Bar
 
-303 Audiophile Bar is a music venue in Barcelona with 21 upcoming nights listed on soundcheck as of Mon, 14 Sept 2026; the next is "Recordeep pres. Flo Masse at 303" on Thu, 17 Sept 2026.
+303 Audiophile Bar is a music venue in Barcelona with 22 upcoming nights listed on soundcheck as of Tue, 15 Sept 2026; the next is "Recordeep pres. Flo Masse at 303" on Thu, 17 Sept 2026.
 
-303 Audiophile Bar is a music venue in Barcelona listed on soundcheck. 21 upcoming nights, with line-ups including 100 faces, Adria (ES), Alex Garcia (2) and Angel Mellado and 2 more. Browse upcoming dates, start times and who's playing. C/ de Casp, 33B, L'Eixample, 08010 Barcelona.
+303 Audiophile Bar is a music venue in Barcelona listed on soundcheck. 22 upcoming nights, with line-ups including 100 faces, Adria (ES), Alex (ES) and Alex Garcia (2) and 2 more. Browse upcoming dates, start times and who's playing. C/ de Casp, 33B, L'Eixample, 08010 Barcelona.
 
 ## What's on
 
@@ -15,12 +15,12 @@
 | Thu, 24 Sept 2026 | 303 pres. Liza / Brizas / Merlina | Brizas, Liza, Merlina P |
 | Fri, 25 Sept 2026 | Subliminal State x El Bassline pres. Marlie at 303 | Galu Bla, Marlie |
 | Sat, 26 Sept 2026 | Less Is More with Bassi at 303  | Guedes, Guedes (ES), Kid Moss |
+| Sun, 27 Sept 2026 | AFTER HOURS: ORBITAL 4TH ANNIVERSARY — CARRY ON AT 303 | Alex (ES), Enzo Leep |
 | Thu, 1 Oct 2026 | Wheel Up at 303 |  |
 | Fri, 2 Oct 2026 | Algorythm Records pres. Rob Pearson at 303 | FRAXA, Pol K, Rob Pearson |
-| Sat, 3 Oct 2026 | Medio Crew x Microdots at 303 | Diego Krause, TOT (BR) |
 
 ## Address
 
 C/ de Casp, 33B, L'Eixample, 08010 Barcelona, Barcelona
 
-*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/303-audiophile-bar/)*
+*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/303-audiophile-bar/)*

@@ -1,6 +1,6 @@
 # SBBS
 
-SBBS is a Techno and Tech House artist with 2 upcoming club dates listed on soundcheck as of Mon, 14 Sept 2026, next at The Glove That Fits, London on Sun, 20 Sept 2026.
+SBBS is a Techno and Tech House artist with 2 upcoming club dates listed on soundcheck as of Tue, 15 Sept 2026, next at The Glove That Fits, London on Sun, 20 Sept 2026.
 
 SBBS is a techno and tech house artist tracked on soundcheck, with 26 sets logged across Brighton, London, Manchester and Mexicocity. Often billed alongside Gridlock, Varanasi and RayRay. Next up: The Glove That Fits, London on Sun 20 Sept.
 
@@ -26,4 +26,4 @@ SBBS is a techno and tech house artist tracked on soundcheck, with 26 sets logge
 
 Gridlock, Varanasi, RayRay
 
-*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sbbs/)*
+*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sbbs/)*

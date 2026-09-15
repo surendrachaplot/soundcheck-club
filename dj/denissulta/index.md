@@ -1,6 +1,6 @@
 # Denis Sulta
 
-Denis Sulta is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Mon, 14 Sept 2026, next at Amnesia Ibiza, Ibiza on Mon, 21 Sept 2026.
+Denis Sulta is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Tue, 15 Sept 2026, next at Amnesia Ibiza, Ibiza on Mon, 21 Sept 2026.
 
 Denis Sulta is a house and techno artist tracked on soundcheck, with 145 sets logged across Amsterdam, Antwerp, Bali and Barcelona and 49 more. Often billed alongside Ben Hemsley, Sarah Story and Chris Stassy. Next up: Amnesia Ibiza, Ibiza on Mon 21 Sept.
 
@@ -29,4 +29,4 @@ Denis Sulta is a house and techno artist tracked on soundcheck, with 145 sets lo
 
 Ben Hemsley, Sarah Story, Chris Stassy
 
-*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/denissulta/)*
+*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/denissulta/)*

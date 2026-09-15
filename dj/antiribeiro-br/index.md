@@ -1,6 +1,6 @@
 # Anti Ribeiro
 
-Anti Ribeiro is a Hip-Hop and Club artist with 1 upcoming club date listed on soundcheck as of Mon, 14 Sept 2026, next at OHM, Berlin on Thu, 8 Oct 2026.
+Anti Ribeiro is a Hip-Hop and Club artist with 1 upcoming club date listed on soundcheck as of Tue, 15 Sept 2026, next at OHM, Berlin on Thu, 8 Oct 2026.
 
 Anti Ribeiro is a hip-hop and club artist tracked on soundcheck, with 2 sets logged across Berlin and Mexicocity. Often billed alongside Babybruise, Brujx Dmazapan and Dinamarca. Next up: OHM, Berlin on Thu 8 Oct.
 
@@ -18,4 +18,4 @@ Anti Ribeiro is a hip-hop and club artist tracked on soundcheck, with 2 sets log
 
 Babybruise, Brujx Dmazapan, Dinamarca
 
-*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/antiribeiro-br/)*
+*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/antiribeiro-br/)*

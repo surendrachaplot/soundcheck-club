@@ -1,6 +1,6 @@
 # underiolo
 
-underiolo is a music venue in Warsaw with 3 upcoming nights listed on soundcheck as of Mon, 14 Sept 2026; the next is "GROUND ZERO - WIREFRAME X Bełkot X BIESY" on Fri, 18 Sept 2026.
+underiolo is a music venue in Warsaw with 3 upcoming nights listed on soundcheck as of Tue, 15 Sept 2026; the next is "GROUND ZERO - WIREFRAME X Bełkot X BIESY" on Fri, 18 Sept 2026.
 
 underiolo is a music venue in Warsaw listed on soundcheck. 3 upcoming nights, with line-ups including Andy Soul, BROTHER TIM, Dedenia and Dynamic Goose and 2 more. Browse upcoming dates, start times and who's playing. Nowy Świat 22/28a, Pawilon 21/22, 00-373 Warszawa.
 
@@ -16,4 +16,4 @@ underiolo is a music venue in Warsaw listed on soundcheck. 3 upcoming nights, wi
 
 Nowy Świat 22/28a, Pawilon 21/22, 00-373 Warszawa, Warsaw
 
-*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/warsaw/club/underiolo/)*
+*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/warsaw/club/underiolo/)*

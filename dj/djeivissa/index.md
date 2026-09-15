@@ -1,6 +1,6 @@
 # DJ Eivissa
 
-DJ Eivissa is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 14 Sept 2026, next at Else, Berlin on Sat, 19 Sept 2026.
+DJ Eivissa is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 15 Sept 2026, next at Else, Berlin on Sat, 19 Sept 2026.
 
 DJ Eivissa is a house and techno artist tracked on soundcheck, with 66 sets logged across Amsterdam, Berlin, Cologne and Hamburg and 3 more. Often billed alongside FRÆNZ:, DJ Heartstring and limbic sis. Next up: Else, Berlin on Sat 19 Sept.
 
@@ -25,4 +25,4 @@ DJ Eivissa is a house and techno artist tracked on soundcheck, with 66 sets logg
 
 FRÆNZ:, DJ Heartstring, limbic sis
 
-*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djeivissa/)*
+*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djeivissa/)*

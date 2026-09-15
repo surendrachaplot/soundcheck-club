@@ -1,6 +1,6 @@
 # Adiel
 
-Adiel is a Techno and House artist with 11 upcoming club dates listed on soundcheck as of Mon, 14 Sept 2026, next at Amnesia Ibiza, Ibiza on Tue, 15 Sept 2026.
+Adiel is a Techno and House artist with 11 upcoming club dates listed on soundcheck as of Tue, 15 Sept 2026, next at Amnesia Ibiza, Ibiza on Tue, 15 Sept 2026.
 
 Adiel is a techno and house artist tracked on soundcheck, with 216 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 56 more. Often billed alongside Héctor Oaks, Nina Kraviz and Marcel Dettmann. Next up: Amnesia Ibiza, Ibiza on Tue 15 Sept.
 
@@ -35,4 +35,4 @@ Adiel is a techno and house artist tracked on soundcheck, with 216 sets logged a
 
 Héctor Oaks, Nina Kraviz, Marcel Dettmann
 
-*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/adiel/)*
+*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/adiel/)*

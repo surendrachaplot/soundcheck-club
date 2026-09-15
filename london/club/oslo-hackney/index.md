@@ -1,8 +1,8 @@
 # Oslo Hackney
 
-Oslo Hackney is a music venue in London with 5 upcoming nights listed on soundcheck as of Mon, 14 Sept 2026; the next is "heylucas (live)" on Wed, 16 Sept 2026.
+Oslo Hackney is a music venue in London with 7 upcoming nights listed on soundcheck as of Tue, 15 Sept 2026; the next is "heylucas (live)" on Wed, 16 Sept 2026.
 
-Oslo Hackney is a music venue in London listed on soundcheck. 5 upcoming nights. Browse upcoming dates, start times and who's playing. 1a Amhurst Road, Hackney, London,  E8 1LL.
+Oslo Hackney is a music venue in London listed on soundcheck. 7 upcoming nights. Browse upcoming dates, start times and who's playing. 1a Amhurst Road, Hackney, London,  E8 1LL.
 
 ## What's on
 
@@ -10,6 +10,8 @@ Oslo Hackney is a music venue in London listed on soundcheck. 5 upcoming nights.
 | --- | --- | --- |
 | Wed, 16 Sept 2026 | heylucas (live) |  |
 | Thu, 17 Sept 2026 | heylucas (live)  [SOLD OUT] |  |
+| Sat, 19 Sept 2026 | Locomotive Disco - House, Disco, Funk & Soul |  |
+| Sat, 26 Sept 2026 | Locomotive Disco - House, Disco, Funk & Boogie |  |
 | Thu, 8 Oct 2026 | Test Dept / Sophie Sirota |  |
 | Fri, 9 Oct 2026 | SYN LDN: Eliminate with special guest: RIOT |  |
 | Sat, 7 Nov 2026 | B&M presents: Therapy Sessions London |  |
@@ -18,4 +20,4 @@ Oslo Hackney is a music venue in London listed on soundcheck. 5 upcoming nights.
 
 1a Amhurst Road, Hackney, London,  E8 1LL, London
 
-*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/oslo-hackney/)*
+*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/oslo-hackney/)*

@@ -1,6 +1,6 @@
 # ASIA (DE)
 
-ASIA (DE) is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Mon, 14 Sept 2026, next at 90mil, Berlin on Thu, 17 Sept 2026.
+ASIA (DE) is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Tue, 15 Sept 2026, next at 90mil, Berlin on Thu, 17 Sept 2026.
 
 ASIA (DE) is a house and techno artist tracked on soundcheck, with 39 sets logged across Amsterdam, Barcelona, Berlin and Bucharest and 6 more. Often billed alongside DJ Koolt, Neik and Jorge Escribano. Next up: 90mil, Berlin on Thu 17 Sept.
 
@@ -27,4 +27,4 @@ ASIA (DE) is a house and techno artist tracked on soundcheck, with 39 sets logge
 
 DJ Koolt, Neik, Jorge Escribano
 
-*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/asia-de/)*
+*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/asia-de/)*

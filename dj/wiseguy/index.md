@@ -1,6 +1,6 @@
 # Wiseguy
 
-Wiseguy is a Tech House and Minimal artist with 1 upcoming club date listed on soundcheck as of Mon, 14 Sept 2026, next at Yamamori Tengu, Dublin on Sat, 10 Oct 2026.
+Wiseguy is a Tech House and Minimal artist with 1 upcoming club date listed on soundcheck as of Tue, 15 Sept 2026, next at Yamamori Tengu, Dublin on Sat, 10 Oct 2026.
 
 Wiseguy is a tech house and minimal artist based in Ireland, tracked on soundcheck, with 3 sets logged across Dublin. Often billed alongside EMMIE, Malin Genie and ROC.STAYDEADLY. Next up: Yamamori Tengu, Dublin on Sat 10 Oct.
 
@@ -19,4 +19,4 @@ Wiseguy is a tech house and minimal artist based in Ireland, tracked on soundche
 
 EMMIE, Malin Genie, ROC.STAYDEADLY
 
-*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/wiseguy/)*
+*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/wiseguy/)*

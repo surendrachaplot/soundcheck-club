@@ -1,6 +1,6 @@
 # AJNA
 
-AJNA is a Afro House and House artist with 5 upcoming club dates listed on soundcheck as of Mon, 14 Sept 2026, next at Hï Ibiza, Ibiza on Fri, 18 Sept 2026.
+AJNA is a Afro House and House artist with 5 upcoming club dates listed on soundcheck as of Tue, 15 Sept 2026, next at Hï Ibiza, Ibiza on Fri, 18 Sept 2026.
 
 AJNA is an afro house and house artist tracked on soundcheck, with 38 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 11 more. Often billed alongside Samm, Samm (BE) and Maxi Meraki. Next up: Hï Ibiza, Ibiza on Fri 18 Sept.
 
@@ -29,4 +29,4 @@ AJNA is an afro house and house artist tracked on soundcheck, with 38 sets logge
 
 Samm, Samm (BE), Maxi Meraki
 
-*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ajna/)*
+*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ajna/)*

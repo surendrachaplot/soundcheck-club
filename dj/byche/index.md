@@ -1,6 +1,6 @@
 # Byche
 
-Byche is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Mon, 14 Sept 2026, next at TBA - SECRET PLACE, Lyon on Sat, 17 Oct 2026.
+Byche is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Tue, 15 Sept 2026, next at TBA - SECRET PLACE, Lyon on Sat, 17 Oct 2026.
 
 Byche is a techno and trance artist tracked on soundcheck, with 9 sets logged across Lyon. Often billed alongside Binary Digit, Lumbago and Master c-fu. Next up: TBA - SECRET PLACE, Lyon on Sat 17 Oct.
 
@@ -25,4 +25,4 @@ Byche is a techno and trance artist tracked on soundcheck, with 9 sets logged ac
 
 Binary Digit, Lumbago, Master c-fu
 
-*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/byche/)*
+*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/byche/)*

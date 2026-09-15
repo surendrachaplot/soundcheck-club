@@ -1,6 +1,6 @@
 # R!ke
 
-R!ke is a House and Dub Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 14 Sept 2026, next at Distillery, Leipzig on Sat, 3 Oct 2026.
+R!ke is a House and Dub Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 15 Sept 2026, next at Distillery, Leipzig on Sat, 3 Oct 2026.
 
 R!ke is a house and dub techno artist tracked on soundcheck, with 5 sets logged across Leipzig. Often billed alongside Håstad, 1000kJulez and 50PHIE. Next up: Distillery, Leipzig on Sat 3 Oct.
 
@@ -21,4 +21,4 @@ R!ke is a house and dub techno artist tracked on soundcheck, with 5 sets logged 
 
 Håstad, 1000kJulez, 50PHIE
 
-*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/r!ke/)*
+*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/r!ke/)*

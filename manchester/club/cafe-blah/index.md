@@ -1,6 +1,6 @@
 # Cafe Blah
 
-Cafe Blah is a music venue in Manchester with 1 upcoming night listed on soundcheck as of Mon, 14 Sept 2026; the next is "Foundling featuring Jorhito Briseno + Old Sun New Moon + Emily Mercer" on Wed, 16 Sept 2026.
+Cafe Blah is a music venue in Manchester with 1 upcoming night listed on soundcheck as of Tue, 15 Sept 2026; the next is "Foundling featuring Jorhito Briseno + Old Sun New Moon + Emily Mercer" on Wed, 16 Sept 2026.
 
 Cafe Blah is a music venue in Manchester listed on soundcheck. 1 upcoming night. Browse upcoming dates, start times and who's playing. 445 Wilmslow Road Manchester M20 4AN.
 
@@ -14,4 +14,4 @@ Cafe Blah is a music venue in Manchester listed on soundcheck. 1 upcoming night.
 
 445 Wilmslow Road Manchester M20 4AN, Manchester
 
-*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/cafe-blah/)*
+*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/cafe-blah/)*

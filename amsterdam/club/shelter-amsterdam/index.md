@@ -1,6 +1,6 @@
 # Shelter Amsterdam
 
-Shelter Amsterdam is a music venue in Amsterdam with 19 upcoming nights listed on soundcheck as of Mon, 14 Sept 2026; the next is "Shelter presents: Signal NYC - Benny Rodrigues, Doudou MD" on Sat, 19 Sept 2026.
+Shelter Amsterdam is a music venue in Amsterdam with 19 upcoming nights listed on soundcheck as of Tue, 15 Sept 2026; the next is "Shelter presents: Signal NYC - Benny Rodrigues, Doudou MD" on Sat, 19 Sept 2026.
 
 Shelter Amsterdam is a music venue in Amsterdam listed on soundcheck. 19 upcoming nights, with line-ups including 36framez, A For Alpha, Ajuma and Ammé and 2 more. Browse upcoming dates, start times and who's playing. Overhoeksplein 3, 1031KS, Amsterdam.
 
@@ -23,4 +23,4 @@ Shelter Amsterdam is a music venue in Amsterdam listed on soundcheck. 19 upcomin
 
 Overhoeksplein 3, 1031KS, Amsterdam, Amsterdam
 
-*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/shelter-amsterdam/)*
+*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/shelter-amsterdam/)*

@@ -1,6 +1,6 @@
 # Cyber Glitter
 
-Cyber Glitter is a Electro and EBM artist with 1 upcoming club date listed on soundcheck as of Mon, 14 Sept 2026, next at Death Disco, Athens on Sat, 26 Sept 2026.
+Cyber Glitter is a Electro and EBM artist with 1 upcoming club date listed on soundcheck as of Tue, 15 Sept 2026, next at Death Disco, Athens on Sat, 26 Sept 2026.
 
 Cyber Glitter is an electro and ebm artist tracked on soundcheck, with 7 sets logged across Athens. Often billed alongside Fiyakidd, PJ MUGIWARA and Fiyahkidd. Next up: Death Disco, Athens on Sat 26 Sept.
 
@@ -23,4 +23,4 @@ Cyber Glitter is an electro and ebm artist tracked on soundcheck, with 7 sets lo
 
 Fiyakidd, PJ MUGIWARA, Fiyahkidd
 
-*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/cyberglitter/)*
+*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/cyberglitter/)*

@@ -1,6 +1,6 @@
 # Die Klar
 
-Die Klar is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Mon, 14 Sept 2026, next at La Java, Paris on Fri, 16 Oct 2026.
+Die Klar is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Tue, 15 Sept 2026, next at La Java, Paris on Fri, 16 Oct 2026.
 
 Die Klar is a techno and trance artist tracked on soundcheck, with 68 sets logged across Amsterdam, Barcelona, Berlin and Brussels and 13 more. Often billed alongside DJ Kwamē, DJ Caline and Dj Schnake. Next up: La Java, Paris on Fri 16 Oct.
 
@@ -25,4 +25,4 @@ Die Klar is a techno and trance artist tracked on soundcheck, with 68 sets logge
 
 DJ Kwamē, DJ Caline, Dj Schnake
 
-*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dieklar/)*
+*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dieklar/)*

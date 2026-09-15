@@ -1,6 +1,6 @@
 # BLAAQGOLD
 
-BLAAQGOLD is a R&B and Hip-Hop artist with 1 upcoming club date listed on soundcheck as of Mon, 14 Sept 2026, next at Spkrbox, Detroit on Wed, 16 Sept 2026.
+BLAAQGOLD is a R&B and Hip-Hop artist with 1 upcoming club date listed on soundcheck as of Tue, 15 Sept 2026, next at Spkrbox, Detroit on Wed, 16 Sept 2026.
 
 BLAAQGOLD is a r&b and hip-hop artist tracked on soundcheck, with 122 sets logged across Detroit. Often billed alongside Aboudi Issa, Delano Smith and Kindle. Next up: Spkrbox, Detroit on Wed 16 Sept.
 
@@ -25,4 +25,4 @@ BLAAQGOLD is a r&b and hip-hop artist tracked on soundcheck, with 122 sets logge
 
 Aboudi Issa, Delano Smith, Kindle
 
-*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/blaaqgold/)*
+*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/blaaqgold/)*

@@ -1,6 +1,6 @@
 # fabric
 
-fabric is a music venue in London with 26 upcoming nights listed on soundcheck as of Mon, 14 Sept 2026; the next is "fabric: Deborah De Luca, Bae Blade, Cera Khin, Noise Mafia, MarcelDune " on Fri, 18 Sept 2026.
+fabric is a music venue in London with 26 upcoming nights listed on soundcheck as of Tue, 15 Sept 2026; the next is "fabric: Deborah De Luca, Bae Blade, Cera Khin, Noise Mafia, MarcelDune " on Fri, 18 Sept 2026.
 
 fabric is a music venue in London listed on soundcheck. 26 upcoming nights, with line-ups including AANO, Aaron Hibell, A For Alpha and Alfie Aukett and 2 more. Browse upcoming dates, start times and who's playing. 77a Charterhouse St; Clerkenwell; London EC1M 6HJ; United Kingdom.
 
@@ -23,4 +23,4 @@ fabric is a music venue in London listed on soundcheck. 26 upcoming nights, with
 
 77a Charterhouse St; Clerkenwell; London EC1M 6HJ; United Kingdom, London
 
-*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/fabric/)*
+*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/fabric/)*

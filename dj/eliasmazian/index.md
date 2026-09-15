@@ -1,6 +1,6 @@
 # Elias Mazian
 
-Elias Mazian is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Mon, 14 Sept 2026, next at La Java, Paris on Fri, 2 Oct 2026.
+Elias Mazian is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Tue, 15 Sept 2026, next at La Java, Paris on Fri, 2 Oct 2026.
 
 Elias Mazian is a house and techno artist tracked on soundcheck, with 117 sets logged across Amsterdam, Antwerp, Berlin and Bristol and 21 more. Often billed alongside Suze Ijó, Doppelgang and Tsepo. Next up: La Java, Paris on Fri 2 Oct.
 
@@ -28,4 +28,4 @@ Elias Mazian is a house and techno artist tracked on soundcheck, with 117 sets l
 
 Suze Ijó, Doppelgang, Tsepo
 
-*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/eliasmazian/)*
+*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/eliasmazian/)*

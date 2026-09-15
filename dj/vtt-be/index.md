@@ -1,6 +1,6 @@
 # VTT (BE)
 
-VTT (BE) is a House and Electro artist with 2 upcoming club dates listed on soundcheck as of Mon, 14 Sept 2026, next at Circle Park, Brussels on Sun, 20 Sept 2026.
+VTT (BE) is a House and Electro artist with 2 upcoming club dates listed on soundcheck as of Tue, 15 Sept 2026, next at Circle Park, Brussels on Sun, 20 Sept 2026.
 
 VTT (BE) is a house and electro artist based in Vietnam, tracked on soundcheck, with 60 sets logged across Antwerp, Brussels and Paris. Often billed alongside Fais Le Beau, Kathleen C and Stanislawa. Next up: Circle Park, Brussels on Sun 20 Sept.
 
@@ -26,4 +26,4 @@ VTT (BE) is a house and electro artist based in Vietnam, tracked on soundcheck, 
 
 Fais Le Beau, Kathleen C, Stanislawa
 
-*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/vtt-be/)*
+*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/vtt-be/)*

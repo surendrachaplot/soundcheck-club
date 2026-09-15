@@ -1,6 +1,6 @@
 # L.zwo
 
-L.zwo is a Techno and Trance artist with 4 upcoming club dates listed on soundcheck as of Mon, 14 Sept 2026, next at Mystic Skatepark, Prague on Sat, 26 Sept 2026.
+L.zwo is a Techno and Trance artist with 4 upcoming club dates listed on soundcheck as of Tue, 15 Sept 2026, next at Mystic Skatepark, Prague on Sat, 26 Sept 2026.
 
 L.zwo is a techno and trance artist based in Germany, tracked on soundcheck, with 92 sets logged across Amsterdam, Antwerp, Barcelona and Basel and 16 more. Often billed alongside OCIN, Antonym and 2HOT2PLAY. Next up: Mystic Skatepark, Prague on Sat 26 Sept.
 
@@ -28,4 +28,4 @@ L.zwo is a techno and trance artist based in Germany, tracked on soundcheck, wit
 
 OCIN, Antonym, 2HOT2PLAY
 
-*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/l.zwo/)*
+*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/l.zwo/)*

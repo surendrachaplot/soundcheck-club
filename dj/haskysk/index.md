@@ -1,6 +1,6 @@
 # Hasky (SK)
 
-Hasky (SK) is a Psytrance and House artist with 1 upcoming club date listed on soundcheck as of Mon, 14 Sept 2026, next at Chapeau Rouge, Prague on Fri, 9 Oct 2026.
+Hasky (SK) is a Psytrance and House artist with 1 upcoming club date listed on soundcheck as of Tue, 15 Sept 2026, next at Chapeau Rouge, Prague on Fri, 9 Oct 2026.
 
 Hasky (SK) is a psytrance and house artist tracked on soundcheck, with 4 sets logged across Prague. Often billed alongside Ansea, Arturo Legorreta and Daniel Neighbour. Next up: Chapeau Rouge, Prague on Fri 9 Oct.
 
@@ -20,4 +20,4 @@ Hasky (SK) is a psytrance and house artist tracked on soundcheck, with 4 sets lo
 
 Ansea, Arturo Legorreta, Daniel Neighbour
 
-*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/haskysk/)*
+*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/haskysk/)*

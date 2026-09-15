@@ -1,6 +1,6 @@
 # Feierwerk
 
-Feierwerk is a music venue in Munich with 1 upcoming night listed on soundcheck as of Mon, 14 Sept 2026; the next is "Lynnic & ItsArius - SOMEWHERE TOUR 2026" on Wed, 2 Dec 2026.
+Feierwerk is a music venue in Munich with 1 upcoming night listed on soundcheck as of Tue, 15 Sept 2026; the next is "Lynnic & ItsArius - SOMEWHERE TOUR 2026" on Wed, 2 Dec 2026.
 
 Feierwerk is a music venue in Munich listed on soundcheck. 1 upcoming night, with line-ups including Lynnic. Browse upcoming dates, start times and who's playing. Hansastrasse 39, 81373 München.
 
@@ -14,4 +14,4 @@ Feierwerk is a music venue in Munich listed on soundcheck. 1 upcoming night, wit
 
 Hansastrasse 39, 81373 München, Munich
 
-*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/munich/club/feierwerk/)*
+*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/munich/club/feierwerk/)*

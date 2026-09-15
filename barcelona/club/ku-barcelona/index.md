@@ -1,6 +1,6 @@
 # Ku Barcelona
 
-Ku Barcelona is a music venue in Barcelona with 2 upcoming nights listed on soundcheck as of Mon, 14 Sept 2026; the next is "SIGHT pres. Marcel BS, Bora Uzer, CJ Jeff" on Sun, 20 Sept 2026.
+Ku Barcelona is a music venue in Barcelona with 2 upcoming nights listed on soundcheck as of Tue, 15 Sept 2026; the next is "SIGHT pres. Marcel BS, Bora Uzer, CJ Jeff" on Sun, 20 Sept 2026.
 
 Ku Barcelona is a music venue in Barcelona listed on soundcheck. 2 upcoming nights, with line-ups including Bora Uzer, CJ Jeff, Marcel BS and Sebastián Peña. Browse upcoming dates, start times and who's playing. Passeig Marítim de la Barceloneta 38, 08003, Barcelona, Spain.
 
@@ -15,4 +15,4 @@ Ku Barcelona is a music venue in Barcelona listed on soundcheck. 2 upcoming nigh
 
 Passeig Marítim de la Barceloneta 38, 08003, Barcelona, Spain, Barcelona
 
-*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/ku-barcelona/)*
+*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/ku-barcelona/)*

@@ -1,6 +1,6 @@
 # fU.impact
 
-fU.impact is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Mon, 14 Sept 2026, next at Sensorium, Berlin on Fri, 18 Sept 2026.
+fU.impact is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Tue, 15 Sept 2026, next at Sensorium, Berlin on Fri, 18 Sept 2026.
 
 fU.impact is a techno and trance artist based in Germany, tracked on soundcheck, with 4 sets logged across Berlin. Often billed alongside Dr . Mario, Thielking and nicole lukiys. Next up: Sensorium, Berlin on Fri 18 Sept.
 
@@ -20,4 +20,4 @@ fU.impact is a techno and trance artist based in Germany, tracked on soundcheck,
 
 Dr . Mario, Thielking, nicole lukiys
 
-*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/fu.impact/)*
+*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/fu.impact/)*

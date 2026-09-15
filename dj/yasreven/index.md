@@ -1,6 +1,6 @@
 # Yas Reven
 
-Yas Reven is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 14 Sept 2026, next at Gate Milano, Milan on Fri, 18 Sept 2026.
+Yas Reven is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 15 Sept 2026, next at Gate Milano, Milan on Fri, 18 Sept 2026.
 
 Yas Reven is a techno and house artist based in Italy, tracked on soundcheck, with 32 sets logged across Berlin, Lisbon, London and Milan and 4 more. Often billed alongside Simone de Kunovich, Nicola Mazzetti and Pascal Moscheni. Next up: Gate Milano, Milan on Fri 18 Sept.
 
@@ -25,4 +25,4 @@ Yas Reven is a techno and house artist based in Italy, tracked on soundcheck, wi
 
 Simone de Kunovich, Nicola Mazzetti, Pascal Moscheni
 
-*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/yasreven/)*
+*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/yasreven/)*

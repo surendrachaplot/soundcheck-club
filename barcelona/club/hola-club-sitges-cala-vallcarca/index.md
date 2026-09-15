@@ -1,6 +1,6 @@
 # Hola Club Sitges (Cala Vallcarca)
 
-Hola Club Sitges (Cala Vallcarca) is a music venue in Barcelona with 3 upcoming nights listed on soundcheck as of Mon, 14 Sept 2026; the next is "BLESS x HOLA CLUB SITGES" on Sat, 19 Sept 2026.
+Hola Club Sitges (Cala Vallcarca) is a music venue in Barcelona with 3 upcoming nights listed on soundcheck as of Tue, 15 Sept 2026; the next is "BLESS x HOLA CLUB SITGES" on Sat, 19 Sept 2026.
 
 Hola Club Sitges (Cala Vallcarca) is a music venue in Barcelona listed on soundcheck. 3 upcoming nights, with line-ups including Sven Vath. Browse upcoming dates, start times and who's playing. 08872 Sitges, Barcelona.
 
@@ -16,4 +16,4 @@ Hola Club Sitges (Cala Vallcarca) is a music venue in Barcelona listed on soundc
 
 08872 Sitges, Barcelona, Barcelona
 
-*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/hola-club-sitges-cala-vallcarca/)*
+*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/hola-club-sitges-cala-vallcarca/)*

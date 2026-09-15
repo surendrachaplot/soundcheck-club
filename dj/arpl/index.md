@@ -1,6 +1,6 @@
 # ARPL
 
-ARPL is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Mon, 14 Sept 2026, next at La Java, Paris on Fri, 18 Sept 2026.
+ARPL is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Tue, 15 Sept 2026, next at La Java, Paris on Fri, 18 Sept 2026.
 
 ARPL is a techno and trance artist based in France, tracked on soundcheck, with 32 sets logged across Berlin, Brussels, Lyon and Marseille and 4 more. Often billed alongside 1luu, DJ Reiz and SACID. Next up: La Java, Paris on Fri 18 Sept.
 
@@ -26,4 +26,4 @@ ARPL is a techno and trance artist based in France, tracked on soundcheck, with 
 
 1luu, DJ Reiz, SACID
 
-*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/arpl/)*
+*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/arpl/)*

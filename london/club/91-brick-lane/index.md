@@ -1,6 +1,6 @@
 # 91 Brick Lane
 
-91 Brick Lane is a music venue in London with 1 upcoming night listed on soundcheck as of Mon, 14 Sept 2026; the next is "Makin' Moves Live Session" on Fri, 18 Sept 2026.
+91 Brick Lane is a music venue in London with 1 upcoming night listed on soundcheck as of Tue, 15 Sept 2026; the next is "Makin' Moves Live Session" on Fri, 18 Sept 2026.
 
 91 Brick Lane is a music venue in London listed on soundcheck. 1 upcoming night, with line-ups including Jamesey and Matt L-S. Browse upcoming dates, start times and who's playing. 91 Brick Lane, London E1 6QL.
 
@@ -14,4 +14,4 @@
 
 91 Brick Lane, London E1 6QL, London
 
-*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/91-brick-lane/)*
+*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/91-brick-lane/)*

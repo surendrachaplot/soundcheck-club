@@ -1,6 +1,6 @@
 # Mishouju
 
-Mishouju is a Techno and Minimal Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 14 Sept 2026, next at Elsewhere, Bangkok on Fri, 18 Sept 2026.
+Mishouju is a Techno and Minimal Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 15 Sept 2026, next at Elsewhere, Bangkok on Fri, 18 Sept 2026.
 
 Mishouju is a techno and minimal techno artist tracked on soundcheck, with 4 sets logged across Bangkok and Hongkong. Often billed alongside E Nick, DOTT and Gaspray. Next up: Elsewhere, Bangkok on Fri 18 Sept.
 
@@ -20,4 +20,4 @@ Mishouju is a techno and minimal techno artist tracked on soundcheck, with 4 set
 
 E Nick, DOTT, Gaspray
 
-*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mishouju/)*
+*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mishouju/)*

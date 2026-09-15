@@ -1,6 +1,6 @@
 # 8MM
 
-8MM is a music venue in Berlin with 9 upcoming nights listed on soundcheck as of Mon, 14 Sept 2026; the next is "8MM & Shameless/Limitless present: miaw" on Tue, 15 Sept 2026.
+8MM is a music venue in Berlin with 9 upcoming nights listed on soundcheck as of Tue, 15 Sept 2026; the next is "8MM & Shameless/Limitless present: miaw" on Tue, 15 Sept 2026.
 
 8MM is a music venue in Berlin listed on soundcheck. 9 upcoming nights, with line-ups including Aleksandra Słyż, Circular Ruins, Devon Rexi and LINTD and 2 more. Browse upcoming dates, start times and who's playing. Schönhauser Allee 177b, 10119 Berlin.
 
@@ -22,4 +22,4 @@
 
 Schönhauser Allee 177b, 10119 Berlin, Berlin
 
-*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/8mm/)*
+*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/8mm/)*

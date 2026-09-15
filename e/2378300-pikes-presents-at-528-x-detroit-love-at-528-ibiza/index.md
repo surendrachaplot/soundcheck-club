@@ -1,6 +1,6 @@
 # PIKES PRESENTS AT 528 X DETROIT LOVE at 528 Ibiza
 
-PIKES PRESENTS AT 528 X DETROIT LOVE at 528 Ibiza on Tue 15 Sept, Ibiza. 8 acts on the bill: androosh, Carl Craig, Forest (PL) and Idriss D and 4 more. House. Preview the line-up and save it on soundcheck.
+PIKES PRESENTS AT 528 X DETROIT LOVE at 528 Ibiza on Tue 15 Sept, Ibiza. 9 acts on the bill: androosh, Carl Craig, Forest (PL) and Idriss D and 5 more. House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -14,6 +14,7 @@ PIKES PRESENTS AT 528 X DETROIT LOVE at 528 Ibiza on Tue 15 Sept, Ibiza. 8 acts 
 - Carl Craig
 - Forest (PL)
 - Idriss D
+- Mirko Loco
 - Mirko Loko
 - Moodymann
 - Ryan O Gorman

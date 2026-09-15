@@ -1,6 +1,6 @@
 # Syber
 
-Syber is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Mon, 14 Sept 2026, next at Azimut Club, Turin on Fri, 18 Sept 2026.
+Syber is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Tue, 15 Sept 2026, next at Azimut Club, Turin on Fri, 18 Sept 2026.
 
 Syber is a techno and trance artist tracked on soundcheck, with 12 sets logged across Lyon and Turin. Often billed alongside Mirko D'Antò, Whatsthepro and Hellson5. Next up: Azimut Club, Turin on Fri 18 Sept.
 
@@ -25,4 +25,4 @@ Syber is a techno and trance artist tracked on soundcheck, with 12 sets logged a
 
 Mirko D'Antò, Whatsthepro, Hellson5
 
-*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/syber/)*
+*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/syber/)*

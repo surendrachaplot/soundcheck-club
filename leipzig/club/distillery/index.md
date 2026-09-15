@@ -1,8 +1,8 @@
 # Distillery
 
-Distillery is a music venue in Leipzig with 12 upcoming nights listed on soundcheck as of Mon, 14 Sept 2026; the next is "Kollektiv Krumm & Schief × PANAM" on Fri, 18 Sept 2026.
+Distillery is a music venue in Leipzig with 13 upcoming nights listed on soundcheck as of Tue, 15 Sept 2026; the next is "Kollektiv Krumm & Schief × PANAM" on Fri, 18 Sept 2026.
 
-Distillery is a music venue in Leipzig listed on soundcheck. 12 upcoming nights, with line-ups including audite, Bephål, bertziherzi and BIGALKE and 2 more. Browse upcoming dates, start times and who's playing. Eggebrechtstraße 2, 04103 Leipzig, Germany.
+Distillery is a music venue in Leipzig listed on soundcheck. 13 upcoming nights, with line-ups including audite, Bephål, bertziherzi and BIGALKE and 2 more. Browse upcoming dates, start times and who's playing. Eggebrechtstraße 2, 04103 Leipzig, Germany.
 
 ## What's on
 
@@ -23,4 +23,4 @@ Distillery is a music venue in Leipzig listed on soundcheck. 12 upcoming nights,
 
 Eggebrechtstraße 2, 04103 Leipzig, Germany, Leipzig
 
-*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/leipzig/club/distillery/)*
+*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/leipzig/club/distillery/)*

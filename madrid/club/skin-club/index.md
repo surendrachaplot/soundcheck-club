@@ -1,6 +1,6 @@
 # Skin Club
 
-Skin Club is a music venue in Madrid with 5 upcoming nights listed on soundcheck as of Mon, 14 Sept 2026; the next is "SKIN ALPHA: alguien + DOFS + KLEYVER" on Fri, 18 Sept 2026.
+Skin Club is a music venue in Madrid with 5 upcoming nights listed on soundcheck as of Tue, 15 Sept 2026; the next is "SKIN ALPHA: alguien + DOFS + KLEYVER" on Fri, 18 Sept 2026.
 
 Skin Club is a music venue in Madrid listed on soundcheck. 5 upcoming nights, with line-ups including alguien, Buday, Cristian Marras and Djen and 2 more. Browse upcoming dates, start times and who's playing. C. de la Aduana, 21Centro, 28013 Madrid, Spain.
 
@@ -18,4 +18,4 @@ Skin Club is a music venue in Madrid listed on soundcheck. 5 upcoming nights, wi
 
 C. de la Aduana, 21Centro, 28013 Madrid, Spain, Madrid
 
-*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/skin-club/)*
+*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/skin-club/)*

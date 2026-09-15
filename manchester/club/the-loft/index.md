@@ -1,6 +1,6 @@
 # The Loft
 
-The Loft is a music venue in Manchester with 20 upcoming nights listed on soundcheck as of Mon, 14 Sept 2026; the next is "The Loft: Us Two (All Night Long)" on Thu, 17 Sept 2026.
+The Loft is a music venue in Manchester with 20 upcoming nights listed on soundcheck as of Tue, 15 Sept 2026; the next is "The Loft: Us Two (All Night Long)" on Thu, 17 Sept 2026.
 
 The Loft is a music venue in Manchester listed on soundcheck. 20 upcoming nights, with line-ups including Fastlove, Alexander Skancke, Alexia Glensy and Angel D'lite and 2 more. Browse upcoming dates, start times and who's playing. Unit 1, New Street, Manchester, M40 8AW.
 
@@ -23,4 +23,4 @@ The Loft is a music venue in Manchester listed on soundcheck. 20 upcoming nights
 
 Unit 1, New Street, Manchester, M40 8AW, Manchester
 
-*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/the-loft/)*
+*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/the-loft/)*

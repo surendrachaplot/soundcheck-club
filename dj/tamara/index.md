@@ -1,6 +1,6 @@
 # Tamara
 
-Tamara is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Mon, 14 Sept 2026, next at Culture Box, Copenhagen on Fri, 18 Sept 2026.
+Tamara is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Tue, 15 Sept 2026, next at Culture Box, Copenhagen on Fri, 18 Sept 2026.
 
 Tamara is a house and techno artist based in Denmark, tracked on soundcheck, with 13 sets logged across Copenhagen. Often billed alongside Harrison Heat, Danilo Plessow and Kawun. Next up: Culture Box, Copenhagen on Fri 18 Sept.
 
@@ -27,4 +27,4 @@ Tamara is a house and techno artist based in Denmark, tracked on soundcheck, wit
 
 Harrison Heat, Danilo Plessow, Kawun
 
-*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tamara/)*
+*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tamara/)*

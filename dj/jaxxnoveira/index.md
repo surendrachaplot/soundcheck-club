@@ -1,6 +1,6 @@
 # JAXX NOVEIRA
 
-JAXX NOVEIRA is a Tech House and Minimal artist with 1 upcoming club date listed on soundcheck as of Mon, 14 Sept 2026, next at Sigma, Ibiza on Wed, 16 Sept 2026.
+JAXX NOVEIRA is a Tech House and Minimal artist with 1 upcoming club date listed on soundcheck as of Tue, 15 Sept 2026, next at Sigma, Ibiza on Wed, 16 Sept 2026.
 
 JAXX NOVEIRA is a tech house and minimal artist tracked on soundcheck, with 12 sets logged across Amsterdam, Barcelona, Ibiza and Losangeles. Often billed alongside DLR, Dave Soul and Navider. Next up: Sigma, Ibiza on Wed 16 Sept.
 
@@ -25,4 +25,4 @@ JAXX NOVEIRA is a tech house and minimal artist tracked on soundcheck, with 12 s
 
 DLR, Dave Soul, Navider
 
-*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jaxxnoveira/)*
+*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jaxxnoveira/)*

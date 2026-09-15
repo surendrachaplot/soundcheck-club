@@ -1,6 +1,6 @@
 # B Heaven Roof BAR
 
-B Heaven Roof BAR is a music venue in Istanbul with 1 upcoming night listed on soundcheck as of Mon, 14 Sept 2026; the next is "LAST SUNSET ROOFTOP PARTY" on Fri, 18 Sept 2026.
+B Heaven Roof BAR is a music venue in Istanbul with 1 upcoming night listed on soundcheck as of Tue, 15 Sept 2026; the next is "LAST SUNSET ROOFTOP PARTY" on Fri, 18 Sept 2026.
 
 B Heaven Roof BAR is a music venue in Istanbul listed on soundcheck. 1 upcoming night. Browse upcoming dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ B Heaven Roof BAR is a music venue in Istanbul listed on soundcheck. 1 upcoming 
 | --- | --- | --- |
 | Fri, 18 Sept 2026 | LAST SUNSET ROOFTOP PARTY |  |
 
-*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/istanbul/club/b-heaven-roof-bar/)*
+*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/istanbul/club/b-heaven-roof-bar/)*

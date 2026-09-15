@@ -1,6 +1,6 @@
 # Laura Conant
 
-Laura Conant is a Experimental and Electro artist with 1 upcoming club date listed on soundcheck as of Mon, 14 Sept 2026, next at Funke, Ghent on Sat, 26 Sept 2026.
+Laura Conant is a Experimental and Electro artist with 1 upcoming club date listed on soundcheck as of Tue, 15 Sept 2026, next at Funke, Ghent on Sat, 26 Sept 2026.
 
 Laura Conant is an experimental and electro artist tracked on soundcheck, with 18 sets logged across Berlin, Brussels, Ghent and Paris and 1 more. Often billed alongside ojoo, iced lattina and Dela Savelli. Next up: Funke, Ghent on Sat 26 Sept.
 
@@ -25,4 +25,4 @@ Laura Conant is an experimental and electro artist tracked on soundcheck, with 1
 
 ojoo, iced lattina, Dela Savelli
 
-*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lauraconant/)*
+*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lauraconant/)*

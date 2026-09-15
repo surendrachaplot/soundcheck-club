@@ -1,8 +1,8 @@
 # Massimiliano Pagliara
 
-Massimiliano Pagliara is a House and Techno artist with 7 upcoming club dates listed on soundcheck as of Mon, 14 Sept 2026, next at Jolene Downtown Miami, Miami on Thu, 17 Sept 2026.
+Massimiliano Pagliara is a House and Techno artist with 8 upcoming club dates listed on soundcheck as of Tue, 15 Sept 2026, next at Jolene Downtown Miami, Miami on Thu, 17 Sept 2026.
 
-Massimiliano Pagliara is a house and techno artist tracked on soundcheck, with 241 sets logged across Amsterdam, Antwerp, Athens and Austin and 64 more. Often billed alongside Jorkes, Boris and Luigi Di Venere. Next up: Jolene Downtown Miami, Miami on Thu 17 Sept.
+Massimiliano Pagliara is a house and techno artist tracked on soundcheck, with 242 sets logged across Amsterdam, Antwerp, Athens and Austin and 64 more. Often billed alongside Jorkes, Boris and Luigi Di Venere. Next up: Jolene Downtown Miami, Miami on Thu 17 Sept.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Massimiliano Pagliara is a house and techno artist tracked on soundcheck, with 2
 | --- | --- | --- |
 | Thu, 17 Sept 2026 | Jolene Downtown Miami | Miami |
 | Sat, 19 Sept 2026 | BASEMENT | New York City |
+| Fri, 25 Sept 2026 | Virage | Paris |
 | Sat, 26 Sept 2026 | KALT | Strasbourg |
 | Sat, 3 Oct 2026 | Société des arts technologiques | Montreal |
 | Fri, 16 Oct 2026 | New Century Locker | Manchester |
@@ -31,4 +32,4 @@ Massimiliano Pagliara is a house and techno artist tracked on soundcheck, with 2
 
 Jorkes, Boris, Luigi Di Venere
 
-*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/massimilianopagliara/)*
+*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/massimilianopagliara/)*

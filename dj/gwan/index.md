@@ -1,6 +1,6 @@
 # gwän
 
-gwän is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Mon, 14 Sept 2026, next at Bassiani, Tbilisi on Sat, 19 Sept 2026.
+gwän is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Tue, 15 Sept 2026, next at Bassiani, Tbilisi on Sat, 19 Sept 2026.
 
 gwän is a techno and house artist tracked on soundcheck, with 76 sets logged across Athens, Basel, Berlin and Dusseldorf and 3 more. Often billed alongside Comethisfar, Uväll and VINVAR. Next up: Bassiani, Tbilisi on Sat 19 Sept.
 
@@ -26,4 +26,4 @@ gwän is a techno and house artist tracked on soundcheck, with 76 sets logged ac
 
 Comethisfar, Uväll, VINVAR
 
-*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/gwan/)*
+*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/gwan/)*

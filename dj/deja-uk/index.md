@@ -1,6 +1,6 @@
 # DEJA (UK)
 
-DEJA (UK) is a Drum & Bass and Jungle artist with 1 upcoming club date listed on soundcheck as of Mon, 14 Sept 2026, next at The Crown, Bristol on Fri, 18 Sept 2026.
+DEJA (UK) is a Drum & Bass and Jungle artist with 1 upcoming club date listed on soundcheck as of Tue, 15 Sept 2026, next at The Crown, Bristol on Fri, 18 Sept 2026.
 
 DEJA (UK) is a drum & bass and jungle artist based in United Kingdom, tracked on soundcheck, with 3 sets logged across Bristol and London. Often billed alongside Bedlam, DRIA and FLORA THA EXPLORA. Next up: The Crown, Bristol on Fri 18 Sept.
 
@@ -19,4 +19,4 @@ DEJA (UK) is a drum & bass and jungle artist based in United Kingdom, tracked on
 
 Bedlam, DRIA, FLORA THA EXPLORA
 
-*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/deja-uk/)*
+*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/deja-uk/)*

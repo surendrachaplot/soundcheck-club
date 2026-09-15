@@ -1,14 +1,13 @@
 # 88block
 
-88block is a music venue in Tokyo with 7 upcoming nights listed on soundcheck as of Mon, 14 Sept 2026; the next is "Disco 81 vol.08" on Sun, 13 Sept 2026.
+88block is a music venue in Tokyo with 6 upcoming nights listed on soundcheck as of Tue, 15 Sept 2026; the next is "UKSOUNDZ - JUNGLE/DNB/UKG/BREAKBEAT/TECHNO" on Mon, 14 Sept 2026.
 
-88block is a music venue in Tokyo listed on soundcheck. 7 upcoming nights, with line-ups including Diceman, Iori, MileZ and Sakuma and 1 more. Browse upcoming dates, start times and who's playing. B1F, 2-14-7, Takadanobaba,Shinjuku-ku,Tokyo 169-0075.
+88block is a music venue in Tokyo listed on soundcheck. 6 upcoming nights, with line-ups including Diceman, Iori, MileZ and Sakuma and 1 more. Browse upcoming dates, start times and who's playing. B1F, 2-14-7, Takadanobaba,Shinjuku-ku,Tokyo 169-0075.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sun, 13 Sept 2026 | Disco 81 vol.08 |  |
 | Mon, 14 Sept 2026 | UKSOUNDZ - JUNGLE/DNB/UKG/BREAKBEAT/TECHNO | MileZ |
 | Tue, 15 Sept 2026 | 3 Diggas |  |
 | Thu, 17 Sept 2026 | Night Rhythm BLOCK |  |
@@ -20,4 +19,4 @@
 
 B1F, 2-14-7, Takadanobaba,Shinjuku-ku,Tokyo 169-0075, Tokyo
 
-*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/88block/)*
+*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/88block/)*

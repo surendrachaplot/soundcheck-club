@@ -1,6 +1,6 @@
 # 83 Rivington Street
 
-83 Rivington Street is a music venue in London with 2 upcoming nights listed on soundcheck as of Mon, 14 Sept 2026; the next is "Arrivals: Club Night Fundraiser" on Thu, 17 Sept 2026.
+83 Rivington Street is a music venue in London with 2 upcoming nights listed on soundcheck as of Tue, 15 Sept 2026; the next is "Arrivals: Club Night Fundraiser" on Thu, 17 Sept 2026.
 
 83 Rivington Street is a music venue in London listed on soundcheck. 2 upcoming nights, with line-ups including Bok Bok, Kem Kem, Kikelomo and Sippin' T. Browse upcoming dates, start times and who's playing. 83 Rivington Street,  EC2A 3AY.
 
@@ -15,4 +15,4 @@
 
 83 Rivington Street,  EC2A 3AY, London
 
-*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/83-rivington-street/)*
+*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/83-rivington-street/)*

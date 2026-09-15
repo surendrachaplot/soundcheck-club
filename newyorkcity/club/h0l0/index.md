@@ -1,6 +1,6 @@
 # H0L0
 
-H0L0 is a music venue in New York City with 12 upcoming nights listed on soundcheck as of Mon, 14 Sept 2026; the next is "ReSolute x Aionia: Lena Willikens & Paula Tape + more " on Fri, 18 Sept 2026.
+H0L0 is a music venue in New York City with 12 upcoming nights listed on soundcheck as of Tue, 15 Sept 2026; the next is "ReSolute x Aionia: Lena Willikens & Paula Tape + more " on Fri, 18 Sept 2026.
 
 H0L0 is a music venue in Newyorkcity listed on soundcheck. 12 upcoming nights, with line-ups including Paula Tape, Amelia Holt, Anane and Armii1n and 2 more. Browse upcoming dates, start times and who's playing. 1090 Wyckoff Ave, Queens, NY 11385, United States.
 
@@ -23,4 +23,4 @@ H0L0 is a music venue in Newyorkcity listed on soundcheck. 12 upcoming nights, w
 
 1090 Wyckoff Ave, Queens, NY 11385, United States, New York City
 
-*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/h0l0/)*
+*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/h0l0/)*

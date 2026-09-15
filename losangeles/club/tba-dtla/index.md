@@ -1,6 +1,6 @@
 # TBA - DTLA
 
-TBA - DTLA is a music venue in Los Angeles with 13 upcoming nights listed on soundcheck as of Mon, 14 Sept 2026; the next is "IN BETWEEN: Secret Guests TBA" on Sat, 19 Sept 2026.
+TBA - DTLA is a music venue in Los Angeles with 13 upcoming nights listed on soundcheck as of Tue, 15 Sept 2026; the next is "IN BETWEEN: Secret Guests TBA" on Sat, 19 Sept 2026.
 
 TBA - DTLA is a music venue in Losangeles listed on soundcheck. 13 upcoming nights, with line-ups including 6 SENSE, MORENXXX, agraybé and Anenon and 2 more. Browse upcoming dates, start times and who's playing.
 
@@ -9,7 +9,7 @@ TBA - DTLA is a music venue in Losangeles listed on soundcheck. 13 upcoming nigh
 | Date | Night | Line-up |
 | --- | --- | --- |
 | Sat, 19 Sept 2026 | IN BETWEEN: Secret Guests TBA |  |
-| Sat, 19 Sept 2026 | CLUB PIVETE x LICKNDIP |  |
+| Sat, 19 Sept 2026 | CLUB PIVETE x LICKNDIP | Izella, LOVE, VICTORIA MOURA |
 | Fri, 25 Sept 2026 | Wellness Check presents: Daphni (All Night) | Daphni |
 | Sat, 26 Sept 2026 | Wellness Check presents: Jen Cardini, Konduku, Buttechno (live), Rachana | Buttechno, Jen Cardini, Konduku, Rachana |
 | Sun, 27 Sept 2026 | Wellness Check presents: Pavel Milyakov (live), Anenon (live), agraybé | Anenon, Buttechno, agraybé |
@@ -19,4 +19,4 @@ TBA - DTLA is a music venue in Losangeles listed on soundcheck. 13 upcoming nigh
 | Sat, 17 Oct 2026 | bodyshop | MORENXXX, Neueportrait, Noah Selene, REDLINERS |
 | Sat, 24 Oct 2026 | CLUB PIVETE |  |
 
-*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/tba-dtla/)*
+*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/tba-dtla/)*

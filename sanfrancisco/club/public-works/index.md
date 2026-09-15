@@ -1,8 +1,8 @@
 # Public Works
 
-Public Works is a music venue in San Francisco/Oakland with 18 upcoming nights listed on soundcheck as of Mon, 14 Sept 2026; the next is "Âme (Innervisions) Dj & Rodriguez Jr. Hybrid Live by SET, Safra & Konnekted" on Fri, 18 Sept 2026.
+Public Works is a music venue in San Francisco/Oakland with 19 upcoming nights listed on soundcheck as of Tue, 15 Sept 2026; the next is "Âme (Innervisions) Dj & Rodriguez Jr. Hybrid Live by SET, Safra & Konnekted" on Fri, 18 Sept 2026.
 
-Public Works is a music venue in Sanfrancisco listed on soundcheck. 18 upcoming nights, with line-ups including ALMAS, Âme, Ben UFO and Bonita Baby and 2 more. Browse upcoming dates, start times and who's playing. 161 Erie Street, San Francisco, CA 94103, United States.
+Public Works is a music venue in Sanfrancisco listed on soundcheck. 19 upcoming nights, with line-ups including ALMAS, Âme, Ben UFO and Bonita Baby and 2 more. Browse upcoming dates, start times and who's playing. 161 Erie Street, San Francisco, CA 94103, United States.
 
 ## What's on
 
@@ -23,4 +23,4 @@ Public Works is a music venue in Sanfrancisco listed on soundcheck. 18 upcoming 
 
 161 Erie Street, San Francisco, CA 94103, United States, San Francisco/Oakland
 
-*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/public-works/)*
+*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/public-works/)*

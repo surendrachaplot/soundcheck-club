@@ -1,6 +1,6 @@
 # CRISTI:ANA
 
-CRISTI:ANA is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Mon, 14 Sept 2026, next at Empress of Canada, Polson Pier, Toronto on Fri, 18 Sept 2026.
+CRISTI:ANA is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Tue, 15 Sept 2026, next at Empress of Canada, Polson Pier, Toronto on Fri, 18 Sept 2026.
 
 CRISTI:ANA is a techno and tech house artist tracked on soundcheck, with 38 sets logged across Montreal and Toronto. Often billed alongside SAMM DU, VARON and Cozmic Cat. Next up: Empress of Canada, Polson Pier, Toronto on Fri 18 Sept.
 
@@ -25,4 +25,4 @@ CRISTI:ANA is a techno and tech house artist tracked on soundcheck, with 38 sets
 
 SAMM DU, VARON, Cozmic Cat
 
-*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/cristiana/)*
+*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/cristiana/)*

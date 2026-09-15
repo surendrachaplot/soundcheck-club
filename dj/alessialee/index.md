@@ -1,6 +1,6 @@
 # Alessia Lee
 
-Alessia Lee is a UK Funky and Breakbeat artist with 1 upcoming club date listed on soundcheck as of Mon, 14 Sept 2026, next at Stidilä, Helsinki on Sat, 19 Sept 2026.
+Alessia Lee is a UK Funky and Breakbeat artist with 1 upcoming club date listed on soundcheck as of Tue, 15 Sept 2026, next at Stidilä, Helsinki on Sat, 19 Sept 2026.
 
 Alessia Lee is an uk funky and breakbeat artist based in United Kingdom, tracked on soundcheck, with 22 sets logged across Helsinki. Often billed alongside Cimac Sound, Exploited Body and Humanoid Target Practice. Next up: Stidilä, Helsinki on Sat 19 Sept.
 
@@ -25,4 +25,4 @@ Alessia Lee is an uk funky and breakbeat artist based in United Kingdom, tracked
 
 Cimac Sound, Exploited Body, Humanoid Target Practice
 
-*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/alessialee/)*
+*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/alessialee/)*

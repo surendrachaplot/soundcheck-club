@@ -1,6 +1,6 @@
 # Bridge 48
 
-Bridge 48 is a music venue in Barcelona with 8 upcoming nights listed on soundcheck as of Mon, 14 Sept 2026; the next is "AUDE Listening Session: FLEA, HONORA" on Wed, 16 Sept 2026.
+Bridge 48 is a music venue in Barcelona with 8 upcoming nights listed on soundcheck as of Tue, 15 Sept 2026; the next is "AUDE Listening Session: FLEA, HONORA" on Wed, 16 Sept 2026.
 
 Bridge 48 is a music venue in Barcelona listed on soundcheck. 8 upcoming nights, with line-ups including 21b (1), Alderaan, Babo and Devicious and 2 more. Browse upcoming dates, start times and who's playing. Carrer de Llull, 48, 08005 Barcelona, España.
 
@@ -21,4 +21,4 @@ Bridge 48 is a music venue in Barcelona listed on soundcheck. 8 upcoming nights,
 
 Carrer de Llull, 48, 08005 Barcelona, España, Barcelona
 
-*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/bridge-48/)*
+*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/bridge-48/)*

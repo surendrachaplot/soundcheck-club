@@ -1,6 +1,6 @@
 # Neueportrait
 
-Neueportrait is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 14 Sept 2026, next at TBA - DTLA, Los Angeles on Sat, 17 Oct 2026.
+Neueportrait is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 15 Sept 2026, next at TBA - DTLA, Los Angeles on Sat, 17 Oct 2026.
 
 Neueportrait is a techno and house artist tracked on soundcheck, with 11 sets logged across Losangeles and Newyorkcity. Often billed alongside ANTOJITO, Josh Steers and CHOQUE. Next up: TBA - DTLA, Losangeles on Sat 17 Oct.
 
@@ -25,4 +25,4 @@ Neueportrait is a techno and house artist tracked on soundcheck, with 11 sets lo
 
 ANTOJITO, Josh Steers, CHOQUE
 
-*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/neueportrait/)*
+*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/neueportrait/)*

@@ -1,6 +1,6 @@
 # GWEN DE LIEN
 
-GWEN DE LIEN is a House and Afro House artist with 1 upcoming club date listed on soundcheck as of Mon, 14 Sept 2026, next at Oliva, Amsterdam on Sun, 25 Oct 2026.
+GWEN DE LIEN is a House and Afro House artist with 1 upcoming club date listed on soundcheck as of Tue, 15 Sept 2026, next at Oliva, Amsterdam on Sun, 25 Oct 2026.
 
 GWEN DE LIEN is a house and afro house artist based in Turkey, tracked on soundcheck, with 6 sets logged across Amsterdam, Istanbul and Stuttgart. Often billed alongside Acid Pauli, Amethy and Antares (UK). Next up: Oliva, Amsterdam on Sun 25 Oct.
 
@@ -22,4 +22,4 @@ GWEN DE LIEN is a house and afro house artist based in Turkey, tracked on soundc
 
 Acid Pauli, Amethy, Antares (UK)
 
-*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/gwendelien/)*
+*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/gwendelien/)*

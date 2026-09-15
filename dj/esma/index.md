@@ -1,6 +1,6 @@
 # Esma
 
-Esma is a Techno and Deep House artist with 1 upcoming club date listed on soundcheck as of Mon, 14 Sept 2026, next at RADION, Amsterdam on Fri, 9 Oct 2026.
+Esma is a Techno and Deep House artist with 1 upcoming club date listed on soundcheck as of Tue, 15 Sept 2026, next at RADION, Amsterdam on Fri, 9 Oct 2026.
 
 Esma is a techno and deep house artist tracked on soundcheck, with 2 sets logged across Amsterdam and Naples. Often billed alongside Anabel Arroyo, DHÆÜR and Fantasie Safari. Next up: RADION, Amsterdam on Fri 9 Oct.
 
@@ -18,4 +18,4 @@ Esma is a techno and deep house artist tracked on soundcheck, with 2 sets logged
 
 Anabel Arroyo, DHÆÜR, Fantasie Safari
 
-*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/esma/)*
+*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/esma/)*

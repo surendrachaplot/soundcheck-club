@@ -1,6 +1,6 @@
 # Gallery
 
-Gallery is a music venue in London with 19 upcoming nights listed on soundcheck as of Mon, 14 Sept 2026; the next is "FAHLBERG X Gallery CLUB LONDON" on Wed, 16 Sept 2026.
+Gallery is a music venue in London with 19 upcoming nights listed on soundcheck as of Tue, 15 Sept 2026; the next is "FAHLBERG X Gallery CLUB LONDON" on Wed, 16 Sept 2026.
 
 Gallery is a music venue in London listed on soundcheck. 19 upcoming nights, with line-ups including Maqossa, AGELESS, Amy Os and Anna Tur and 2 more. Browse upcoming dates, start times and who's playing. 2A Kensington High Street, London, W8 4PT.
 
@@ -23,4 +23,4 @@ Gallery is a music venue in London listed on soundcheck. 19 upcoming nights, wit
 
 2A Kensington High Street, London, W8 4PT, London
 
-*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/gallery/)*
+*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/gallery/)*

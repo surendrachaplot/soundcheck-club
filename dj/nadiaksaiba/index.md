@@ -1,6 +1,6 @@
 # Nadia Ksaiba
 
-Nadia Ksaiba is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Mon, 14 Sept 2026, next at The Cause, London on Sat, 19 Sept 2026.
+Nadia Ksaiba is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Tue, 15 Sept 2026, next at The Cause, London on Sat, 19 Sept 2026.
 
 Nadia Ksaiba is a house and disco artist tracked on soundcheck, with 30 sets logged across London and Manchester. Often billed alongside Dan Beaumont, Bill Brewster and Macca.. Next up: The Cause, London on Sat 19 Sept.
 
@@ -25,4 +25,4 @@ Nadia Ksaiba is a house and disco artist tracked on soundcheck, with 30 sets log
 
 Dan Beaumont, Bill Brewster, Macca.
 
-*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nadiaksaiba/)*
+*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nadiaksaiba/)*

@@ -1,6 +1,6 @@
 # KOKO Electronic: Franky Rizardo [SOLD OUT] at KOKO
 
-KOKO Electronic: Franky Rizardo [SOLD OUT] on Fri 18 Sept, London. 1 act on the bill: Franky Rizardo. Preview the line-up and save it on soundcheck.
+KOKO Electronic: Franky Rizardo [SOLD OUT] on Fri 18 Sept, London. 3 acts on the bill: Chelina Manuhutu, Franky Rizardo and Toman. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,8 @@ KOKO Electronic: Franky Rizardo [SOLD OUT] on Fri 18 Sept, London. 1 act on the 
 
 ## Line-up
 
+- Chelina Manuhutu
 - Franky Rizardo
+- Toman
 
 *Source: [soundcheck](https://soundcheck.club/e/2516476-koko-electronic-franky-rizardo-sold-out-at-koko/)*

@@ -1,6 +1,6 @@
 # Jacinta
 
-Jacinta is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Mon, 14 Sept 2026, next at Kazimier Garden, Liverpool on Fri, 9 Oct 2026.
+Jacinta is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Tue, 15 Sept 2026, next at Kazimier Garden, Liverpool on Fri, 9 Oct 2026.
 
 Jacinta is a house and tech house artist tracked on soundcheck, with 54 sets logged across Liverpool, London and Manchester. Often billed alongside Dowd, Alien Izz and Luna Thee Frenchie. Next up: Kazimier Garden, Liverpool on Fri 9 Oct.
 
@@ -25,4 +25,4 @@ Jacinta is a house and tech house artist tracked on soundcheck, with 54 sets log
 
 Dowd, Alien Izz, Luna Thee Frenchie
 
-*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jacinta/)*
+*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jacinta/)*

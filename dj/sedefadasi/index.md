@@ -1,6 +1,6 @@
 # Sedef Adasï
 
-Sedef Adasï is a Techno and House artist with 12 upcoming club dates listed on soundcheck as of Mon, 14 Sept 2026, next at Nowadays, New York City on Sun, 20 Sept 2026.
+Sedef Adasï is a Techno and House artist with 12 upcoming club dates listed on soundcheck as of Tue, 15 Sept 2026, next at Nowadays, New York City on Sun, 20 Sept 2026.
 
 Sedef Adasï is a techno and house artist tracked on soundcheck, with 281 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 57 more. Often billed alongside BASHKKA, Gabrielle Kwarteng and Job Jobse. Next up: Nowadays, Newyorkcity on Sun 20 Sept.
 
@@ -36,4 +36,4 @@ Sedef Adasï is a techno and house artist tracked on soundcheck, with 281 sets l
 
 BASHKKA, Gabrielle Kwarteng, Job Jobse
 
-*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sedefadasi/)*
+*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sedefadasi/)*

@@ -1,6 +1,6 @@
 # DJ Plead
 
-DJ Plead is a Techno and Bass artist with 8 upcoming club dates listed on soundcheck as of Mon, 14 Sept 2026, next at OHM, Berlin on Fri, 18 Sept 2026.
+DJ Plead is a Techno and Bass artist with 8 upcoming club dates listed on soundcheck as of Tue, 15 Sept 2026, next at OHM, Berlin on Fri, 18 Sept 2026.
 
 DJ Plead is a techno and bass artist tracked on soundcheck, with 131 sets logged across Amsterdam, Barcelona, Basel and Berlin and 34 more. Often billed alongside rRoxymore, Azu Tiwaline and livwutang. Next up: OHM, Berlin on Fri 18 Sept.
 
@@ -32,4 +32,4 @@ DJ Plead is a techno and bass artist tracked on soundcheck, with 131 sets logged
 
 rRoxymore, Azu Tiwaline, livwutang
 
-*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djplead/)*
+*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djplead/)*

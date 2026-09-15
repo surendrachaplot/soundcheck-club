@@ -1,6 +1,6 @@
 # Yves B Golden
 
-Yves B Golden is a Experimental and Classical artist with 1 upcoming club date listed on soundcheck as of Mon, 14 Sept 2026, next at Silent Green, Berlin on Tue, 15 Sept 2026.
+Yves B Golden is a Experimental and Classical artist with 1 upcoming club date listed on soundcheck as of Tue, 15 Sept 2026, next at Silent Green, Berlin on Tue, 15 Sept 2026.
 
 Yves B Golden is an experimental and classical artist based in United States of America, tracked on soundcheck, with 9 sets logged across Berlin and Newyorkcity. Often billed alongside Ludwig Wandinger, Alex Savage and Amore Marco. Next up: Silent Green, Berlin on Tue 15 Sept.
 
@@ -25,4 +25,4 @@ Yves B Golden is an experimental and classical artist based in United States of 
 
 Ludwig Wandinger, Alex Savage, Amore Marco
 
-*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/yvesbgolden/)*
+*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/yvesbgolden/)*

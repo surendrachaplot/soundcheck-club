@@ -1,13 +1,14 @@
 # Meat
 
-Meat is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Mon, 14 Sept 2026, next at Kater, Berlin on Fri, 16 Oct 2026.
+Meat is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Tue, 15 Sept 2026, next at Hoppetosse, Berlin on Fri, 9 Oct 2026.
 
-Meat is a house and techno artist tracked on soundcheck, with 67 sets logged across Amsterdam, Berlin, Chicago and Cologne and 3 more. Often billed alongside Cinthie, Robert Drewek and Eva Crystaltips. Next up: Kater, Berlin on Fri 16 Oct.
+Meat is a house and techno artist tracked on soundcheck, with 68 sets logged across Amsterdam, Berlin, Chicago and Cologne and 3 more. Often billed alongside Cinthie, Robert Drewek and Eva Crystaltips. Next up: Hoppetosse, Berlin on Fri 9 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 9 Oct 2026 | Hoppetosse | Berlin |
 | Fri, 16 Oct 2026 | Kater | Berlin |
 | Sat, 24 Oct 2026 | Yellow House | Amsterdam |
 
@@ -26,4 +27,4 @@ Meat is a house and techno artist tracked on soundcheck, with 67 sets logged acr
 
 Cinthie, Robert Drewek, Eva Crystaltips
 
-*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djmeat/)*
+*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djmeat/)*

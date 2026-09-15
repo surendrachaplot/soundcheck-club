@@ -1,6 +1,6 @@
 # Sunny
 
-Sunny is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 14 Sept 2026, next at Gianca - Murazzi, Turin on Sat, 3 Oct 2026.
+Sunny is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 15 Sept 2026, next at Gianca - Murazzi, Turin on Sat, 3 Oct 2026.
 
 Sunny is a techno and house artist tracked on soundcheck, with 14 sets logged across Berlin, Budapest, Seattle and Tokyo and 2 more. Often billed alongside Vayna, Captain Knuckles and SCUM PRIEST. Next up: Gianca - Murazzi, Turin on Sat 3 Oct.
 
@@ -25,4 +25,4 @@ Sunny is a techno and house artist tracked on soundcheck, with 14 sets logged ac
 
 Vayna, Captain Knuckles, SCUM PRIEST
 
-*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sunny/)*
+*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sunny/)*

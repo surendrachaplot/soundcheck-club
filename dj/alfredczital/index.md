@@ -1,6 +1,6 @@
 # Alfred Czital
 
-Alfred Czital is a Techno and Trance artist with 3 upcoming club dates listed on soundcheck as of Mon, 14 Sept 2026, next at Fuchs2, Prague on Fri, 18 Sept 2026.
+Alfred Czital is a Techno and Trance artist with 3 upcoming club dates listed on soundcheck as of Tue, 15 Sept 2026, next at Fuchs2, Prague on Fri, 18 Sept 2026.
 
 Alfred Czital is a techno and trance artist tracked on soundcheck, with 118 sets logged across Bangkok, Berlin, Bristol and Copenhagen and 23 more. Often billed alongside Yan (CZ), Raleigh and Georgia Bird. Next up: Fuchs2, Prague on Fri 18 Sept.
 
@@ -27,4 +27,4 @@ Alfred Czital is a techno and trance artist tracked on soundcheck, with 118 sets
 
 Yan (CZ), Raleigh, Georgia Bird
 
-*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/alfredczital/)*
+*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/alfredczital/)*

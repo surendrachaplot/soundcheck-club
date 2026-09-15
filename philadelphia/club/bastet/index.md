@@ -1,6 +1,6 @@
 # Bastet
 
-Bastet is a music venue in Philadelphia with 5 upcoming nights listed on soundcheck as of Mon, 14 Sept 2026; the next is "El Bait Baitkum: Juana, has.san, Vicenta, Firestone" on Sat, 19 Sept 2026.
+Bastet is a music venue in Philadelphia with 5 upcoming nights listed on soundcheck as of Tue, 15 Sept 2026; the next is "El Bait Baitkum: Juana, has.san, Vicenta, Firestone" on Sat, 19 Sept 2026.
 
 Bastet is a music venue in Philadelphia listed on soundcheck. 5 upcoming nights, with line-ups including Baejawn, DJ Matpat, DJ Reezey and DJ Sega and 2 more. Browse upcoming dates, start times and who's playing. 601 Spring Garden St, Philadelphia PA 19123.
 
@@ -18,4 +18,4 @@ Bastet is a music venue in Philadelphia listed on soundcheck. 5 upcoming nights,
 
 601 Spring Garden St, Philadelphia PA 19123, Philadelphia
 
-*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/philadelphia/club/bastet/)*
+*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/philadelphia/club/bastet/)*

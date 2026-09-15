@@ -1,6 +1,6 @@
 # fumi (DE)
 
-fumi (DE) is a Techno and Trance artist with 4 upcoming club dates listed on soundcheck as of Mon, 14 Sept 2026, next at RSO.BERLIN, Berlin on Sat, 19 Sept 2026.
+fumi (DE) is a Techno and Trance artist with 4 upcoming club dates listed on soundcheck as of Tue, 15 Sept 2026, next at RSO.BERLIN, Berlin on Sat, 19 Sept 2026.
 
 fumi (DE) is a techno and trance artist tracked on soundcheck, with 134 sets logged across Amsterdam, Antwerp, Barcelona and Berlin and 37 more. Often billed alongside Serafina, Adrian Mills and Cloudy. Next up: RSO.BERLIN, Berlin on Sat 19 Sept.
 
@@ -28,4 +28,4 @@ fumi (DE) is a techno and trance artist tracked on soundcheck, with 134 sets log
 
 Serafina, Adrian Mills, Cloudy
 
-*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/fumi-de/)*
+*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/fumi-de/)*

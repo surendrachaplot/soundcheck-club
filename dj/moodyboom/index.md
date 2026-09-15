@@ -1,6 +1,6 @@
 # MOODYBOOM
 
-MOODYBOOM is a Techno and Minimal artist with 8 upcoming club dates listed on soundcheck as of Mon, 14 Sept 2026, next at Culture Cafe, Bangkok on Tue, 15 Sept 2026.
+MOODYBOOM is a Techno and Minimal artist with 8 upcoming club dates listed on soundcheck as of Tue, 15 Sept 2026, next at Culture Cafe, Bangkok on Tue, 15 Sept 2026.
 
 MOODYBOOM is a techno and minimal artist tracked on soundcheck, with 134 sets logged across Bali and Bangkok. Often billed alongside Kunanon, Jayja and DMT Disco. Next up: Culture Cafe, Bangkok on Tue 15 Sept.
 
@@ -32,4 +32,4 @@ MOODYBOOM is a techno and minimal artist tracked on soundcheck, with 134 sets lo
 
 Kunanon, Jayja, DMT Disco
 
-*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/moodyboom/)*
+*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/moodyboom/)*

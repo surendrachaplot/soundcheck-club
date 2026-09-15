@@ -1,6 +1,6 @@
 # Braxton
 
-Braxton is a Progressive House and Deep House artist with 3 upcoming club dates listed on soundcheck as of Mon, 14 Sept 2026, next at 93 Feet East, London on Sat, 26 Sept 2026.
+Braxton is a Progressive House and Deep House artist with 3 upcoming club dates listed on soundcheck as of Tue, 15 Sept 2026, next at 93 Feet East, London on Sat, 26 Sept 2026.
 
 Braxton is a progressive house and deep house artist tracked on soundcheck, with 41 sets logged across Austin, Berlin, Brighton and Bristol and 16 more. Often billed alongside Durante, Rezident and Hana. Next up: 93 Feet East, London on Sat 26 Sept.
 
@@ -27,4 +27,4 @@ Braxton is a progressive house and deep house artist tracked on soundcheck, with
 
 Durante, Rezident, Hana
 
-*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/braxton/)*
+*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/braxton/)*

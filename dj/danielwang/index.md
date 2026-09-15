@@ -1,6 +1,6 @@
 # Daniel Wang
 
-Daniel Wang is a Disco and House artist with 2 upcoming club dates listed on soundcheck as of Mon, 14 Sept 2026, next at 42 Marches, Paris on Fri, 9 Oct 2026.
+Daniel Wang is a Disco and House artist with 2 upcoming club dates listed on soundcheck as of Tue, 15 Sept 2026, next at 42 Marches, Paris on Fri, 9 Oct 2026.
 
 Daniel Wang is a disco and house artist tracked on soundcheck, with 94 sets logged across Athens, Barcelona, Belfast and Belgrade and 13 more. Often billed alongside ADAM MUNNINGS, AAguilAA and DJ Petite. Next up: 42 Marches, Paris on Fri 9 Oct.
 
@@ -26,4 +26,4 @@ Daniel Wang is a disco and house artist tracked on soundcheck, with 94 sets logg
 
 ADAM MUNNINGS, AAguilAA, DJ Petite
 
-*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/danielwang/)*
+*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/danielwang/)*

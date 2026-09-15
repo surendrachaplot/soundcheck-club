@@ -1,6 +1,6 @@
 # Merve
 
-Merve is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Mon, 14 Sept 2026, next at La Brisa, Bali on Sat, 19 Sept 2026.
+Merve is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Tue, 15 Sept 2026, next at La Brisa, Bali on Sat, 19 Sept 2026.
 
 Merve is a house and techno artist tracked on soundcheck, with 87 sets logged across Amsterdam, Antwerp, Athens and Bali and 30 more. Often billed alongside Fastlove, Sansibar and Fais Le Beau. Next up: La Brisa, Bali on Sat 19 Sept.
 
@@ -27,4 +27,4 @@ Merve is a house and techno artist tracked on soundcheck, with 87 sets logged ac
 
 Fastlove, Sansibar, Fais Le Beau
 
-*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/merve/)*
+*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/merve/)*

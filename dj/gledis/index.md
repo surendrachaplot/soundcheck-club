@@ -1,6 +1,6 @@
 # GLEDIS
 
-GLEDIS is a Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 14 Sept 2026, next at Tempio del Futuro Perduto, Milan on Thu, 8 Oct 2026.
+GLEDIS is a Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 15 Sept 2026, next at Tempio del Futuro Perduto, Milan on Thu, 8 Oct 2026.
 
 GLEDIS is a techno artist tracked on soundcheck, with 29 sets logged across Amsterdam, Milan and Turin. Often billed alongside Franz Bush, SYNN and Luca Armando. Next up: Tempio del Futuro Perduto, Milan on Thu 8 Oct.
 
@@ -25,4 +25,4 @@ GLEDIS is a techno artist tracked on soundcheck, with 29 sets logged across Amst
 
 Franz Bush, SYNN, Luca Armando
 
-*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/gledis/)*
+*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/gledis/)*

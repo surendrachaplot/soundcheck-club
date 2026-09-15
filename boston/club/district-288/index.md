@@ -1,6 +1,6 @@
 # District 288
 
-District 288 is a music venue in Boston with 1 upcoming night listed on soundcheck as of Mon, 14 Sept 2026; the next is "Generation Untitled: Aidn., Ejmonix & more" on Fri, 18 Sept 2026.
+District 288 is a music venue in Boston with 1 upcoming night listed on soundcheck as of Tue, 15 Sept 2026; the next is "Generation Untitled: Aidn., Ejmonix & more" on Fri, 18 Sept 2026.
 
 District 288 is a music venue in Boston listed on soundcheck. 1 upcoming night. Browse upcoming dates, start times and who's playing. 288 Green St, Cambridge, MA, 02139.
 
@@ -14,4 +14,4 @@ District 288 is a music venue in Boston listed on soundcheck. 1 upcoming night. 
 
 288 Green St, Cambridge, MA, 02139, Boston
 
-*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/boston/club/district-288/)*
+*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/boston/club/district-288/)*

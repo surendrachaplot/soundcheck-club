@@ -1,6 +1,6 @@
 # Moon Club
 
-Moon Club is a music venue in Bristol with 15 upcoming nights listed on soundcheck as of Mon, 14 Sept 2026; the next is "Harmonia presents: CASE" on Wed, 16 Sept 2026.
+Moon Club is a music venue in Bristol with 15 upcoming nights listed on soundcheck as of Tue, 15 Sept 2026; the next is "Harmonia presents: CASE" on Wed, 16 Sept 2026.
 
 Moon Club is a music venue in Bristol listed on soundcheck. 15 upcoming nights, with line-ups including BETH, Cristi Cons, DJ Perception and DJ Sarah Bonito and 2 more. Browse upcoming dates, start times and who's playing. 6 Upper York St, St Paul's, Bristol, BS2 8QN.
 
@@ -23,4 +23,4 @@ Moon Club is a music venue in Bristol listed on soundcheck. 15 upcoming nights, 
 
 6 Upper York St, St Paul's, Bristol, BS2 8QN, Bristol
 
-*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/bristol/club/moon-club/)*
+*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/bristol/club/moon-club/)*

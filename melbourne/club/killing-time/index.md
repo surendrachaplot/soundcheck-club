@@ -1,6 +1,6 @@
 # Killing Time
 
-Killing Time is a music venue in Melbourne with 3 upcoming nights listed on soundcheck as of Mon, 14 Sept 2026; the next is "UGENIUS & MAMA SAID PRESENTS GORGE" on Fri, 18 Sept 2026.
+Killing Time is a music venue in Melbourne with 3 upcoming nights listed on soundcheck as of Tue, 15 Sept 2026; the next is "UGENIUS & MAMA SAID PRESENTS GORGE" on Fri, 18 Sept 2026.
 
 Killing Time is a music venue in Melbourne listed on soundcheck. 3 upcoming nights, with line-ups including JPA, Stockholm Syndrome and Superhype. Browse upcoming dates, start times and who's playing. 11 Chapel St; Windsor, VIC 3181; Australia.
 
@@ -16,4 +16,4 @@ Killing Time is a music venue in Melbourne listed on soundcheck. 3 upcoming nigh
 
 11 Chapel St; Windsor, VIC 3181; Australia, Melbourne
 
-*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/killing-time/)*
+*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/killing-time/)*

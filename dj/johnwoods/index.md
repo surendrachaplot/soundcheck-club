@@ -1,6 +1,6 @@
 # John Woods
 
-John Woods is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Mon, 14 Sept 2026, next at Akasha Las Dalias Club - Ibiza, Ibiza on Sun, 11 Oct 2026.
+John Woods is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Tue, 15 Sept 2026, next at Akasha Las Dalias Club - Ibiza, Ibiza on Sun, 11 Oct 2026.
 
 John Woods is a house and tech house artist based in Portugal, tracked on soundcheck, with 47 sets logged across Amsterdam, Barcelona, Berlin and Ibiza and 8 more. Often billed alongside MËSTIZA, Omer Tayar and Awka. Next up: Akasha Las Dalias Club - Ibiza, Ibiza on Sun 11 Oct.
 
@@ -25,4 +25,4 @@ John Woods is a house and tech house artist based in Portugal, tracked on soundc
 
 MËSTIZA, Omer Tayar, Awka
 
-*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/johnwoods/)*
+*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/johnwoods/)*

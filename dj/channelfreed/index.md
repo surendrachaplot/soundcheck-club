@@ -1,6 +1,6 @@
 # Channel Freed
 
-Channel Freed is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Mon, 14 Sept 2026, next at Secret Grove, Portland on Thu, 17 Sept 2026.
+Channel Freed is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Tue, 15 Sept 2026, next at Secret Grove, Portland on Thu, 17 Sept 2026.
 
 Channel Freed is a house and deep house artist tracked on soundcheck, with 2 sets logged across Portland. Often billed alongside Stunner. Next up: Secret Grove, Portland on Thu 17 Sept.
 
@@ -18,4 +18,4 @@ Channel Freed is a house and deep house artist tracked on soundcheck, with 2 set
 
 Stunner
 
-*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/channelfreed/)*
+*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/channelfreed/)*

@@ -1,6 +1,6 @@
 # Ehua
 
-Ehua is a Techno and Bass artist with 3 upcoming club dates listed on soundcheck as of Mon, 14 Sept 2026, next at Fort Mifflin, Philadelphia on Fri, 18 Sept 2026.
+Ehua is a Techno and Bass artist with 3 upcoming club dates listed on soundcheck as of Tue, 15 Sept 2026, next at Fort Mifflin, Philadelphia on Fri, 18 Sept 2026.
 
 Ehua is a techno and bass artist tracked on soundcheck, with 121 sets logged across Amsterdam, Auckland, Barcelona and Basel and 32 more. Often billed alongside AliA, Bitter Babe and Flore. Next up: Fort Mifflin, Philadelphia on Fri 18 Sept.
 
@@ -27,4 +27,4 @@ Ehua is a techno and bass artist tracked on soundcheck, with 121 sets logged acr
 
 AliA, Bitter Babe, Flore
 
-*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ehua/)*
+*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ehua/)*

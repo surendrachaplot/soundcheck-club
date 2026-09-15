@@ -1,26 +1,26 @@
 # WaV
 
-WaV is a music venue in Liverpool with 10 upcoming nights listed on soundcheck as of Mon, 14 Sept 2026; the next is "909 x LTS presents Groove Garden w/ Dj Rush, Blasha & Allatt" on Sat, 19 Sept 2026.
+WaV is a music venue in Liverpool with 13 upcoming nights listed on soundcheck as of Tue, 15 Sept 2026; the next is "909 x LTS presents Groove Garden w/ Dj Rush, Blasha & Allatt" on Sat, 19 Sept 2026.
 
-WaV is a music venue in Liverpool listed on soundcheck. 10 upcoming nights, with line-ups including Aidyscape, Blasha & Allatt, Ciaran McAuley and Connor (UK) and 2 more. Browse upcoming dates, start times and who's playing. 8 Glegg Street, Liverpool , L3 7DX.
+WaV is a music venue in Liverpool listed on soundcheck. 13 upcoming nights, with line-ups including Aidyscape, Blasha & Allatt, Ciaran McAuley and Connor (UK) and 2 more. Browse upcoming dates, start times and who's playing. 8 Glegg Street, Liverpool , L3 7DX.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
 | Sat, 19 Sept 2026 | 909 x LTS presents Groove Garden w/ Dj Rush, Blasha & Allatt | Blasha & Allatt, DJ Rush, KUSP |
+| Sat, 19 Sept 2026 | 909 x LTS Techno After Party | KUSP, Tom Page |
 | Fri, 25 Sept 2026 | THE BACKROOMS PRESENT: HADES+OUTRAGE + more | Evan, Hades |
 | Sat, 26 Sept 2026 | QUADRANT PARK Autumn Party | John Kelly |
 | Sat, 3 Oct 2026 | TRIPNO X TÝWCH LIVERPOOL - Wav - Anoluxx |  |
+| Sat, 10 Oct 2026 | THE BACKROOMS presents: HADES + MORE | Hades |
 | Sat, 17 Oct 2026 | Paradisco at WAV | Dimitri From Paris, Paul Reynolds, Ross Whisper |
 | Fri, 23 Oct 2026 | More Trance - Chapter 4: The Journey | Aidyscape, Ciaran McAuley, Connor (UK) |
 | Sat, 24 Oct 2026 | 909 x WAV presents James Zabiela & Dmitry Molosh | Dmitry Molosh, Fidge, James Zabiela |
 | Fri, 30 Oct 2026 | David Rust presents Redline | David Rust |
-| Sat, 7 Nov 2026 | Seb Fontaine presents Prototype | Seb Fontaine |
-| Sat, 12 Dec 2026 | Genesis "Lost Frequency" | Aidyscape, Daxson |
 
 ## Address
 
 8 Glegg Street, Liverpool , L3 7DX, Liverpool
 
-*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/liverpool/club/wav/)*
+*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/liverpool/club/wav/)*

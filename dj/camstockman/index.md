@@ -1,13 +1,14 @@
 # Cam Stockman
 
-Cam Stockman is a House and Tech House artist with 10 upcoming club dates listed on soundcheck as of Mon, 14 Sept 2026, next at Amnesia Ibiza, Ibiza on Sun, 20 Sept 2026.
+Cam Stockman is a House and Tech House artist with 11 upcoming club dates listed on soundcheck as of Tue, 15 Sept 2026, next at Electric Studios, Sheffield on Fri, 18 Sept 2026.
 
-Cam Stockman is a house and tech house artist based in United Kingdom, tracked on soundcheck, with 64 sets logged across Aberdeen, Amsterdam, Auckland and Barcelona and 19 more. Often billed alongside Gaskin, Locky and Boss Priester. Next up: Amnesia Ibiza, Ibiza on Sun 20 Sept.
+Cam Stockman is a house and tech house artist based in United Kingdom, tracked on soundcheck, with 65 sets logged across Aberdeen, Amsterdam, Auckland and Barcelona and 19 more. Often billed alongside Gaskin, Locky and Boss Priester. Next up: Electric Studios, Sheffield on Fri 18 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 18 Sept 2026 | Electric Studios | Sheffield |
 | Sun, 20 Sept 2026 | Amnesia Ibiza | Ibiza |
 | Wed, 23 Sept 2026 | [UNVRS] | Ibiza |
 | Sat, 26 Sept 2026 | Blackstone Street Warehouse | Liverpool |
@@ -34,4 +35,4 @@ Cam Stockman is a house and tech house artist based in United Kingdom, tracked o
 
 Gaskin, Locky, Boss Priester
 
-*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/camstockman/)*
+*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/camstockman/)*

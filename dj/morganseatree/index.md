@@ -1,14 +1,15 @@
 # Morgan Seatree
 
-Morgan Seatree is a House and Tech House artist with 10 upcoming club dates listed on soundcheck as of Mon, 14 Sept 2026, next at Openluchttheater Amersfoort, Amsterdam on Fri, 18 Sept 2026.
+Morgan Seatree is a House and Tech House artist with 12 upcoming club dates listed on soundcheck as of Tue, 15 Sept 2026, next at Openluchttheater Amersfoort, Amsterdam on Fri, 18 Sept 2026.
 
-Morgan Seatree is a house and tech house artist tracked on soundcheck, with 89 sets logged across Amsterdam, Antwerp, Belfast and Birmingham and 26 more. Often billed alongside Kyle Starkey, Diffrent and DART. Next up: Openluchttheater Amersfoort, Amsterdam on Fri 18 Sept.
+Morgan Seatree is a house and tech house artist tracked on soundcheck, with 91 sets logged across Amsterdam, Antwerp, Belfast and Birmingham and 26 more. Often billed alongside Kyle Starkey, Diffrent and DART. Next up: Openluchttheater Amersfoort, Amsterdam on Fri 18 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 18 Sept 2026 | Openluchttheater Amersfoort | Amsterdam |
+| Sat, 19 Sept 2026 | Electric Studios | Sheffield |
 | Sat, 26 Sept 2026 | Luna Springs | Birmingham |
 | Thu, 8 Oct 2026 | Amnesia Ibiza | Ibiza |
 | Fri, 9 Oct 2026 | Culture | Washington DC |
@@ -18,6 +19,7 @@ Morgan Seatree is a house and tech house artist tracked on soundcheck, with 89 s
 | Sat, 14 Nov 2026 | Mint XL | Leeds |
 | Sat, 21 Nov 2026 | Fleet Steps - Mrs Macquaries Point | Sydney |
 | Fri, 27 Nov 2026 | Lardner Park | Melbourne |
+| Sat, 5 Dec 2026 | Blackstone Street Warehouse | Liverpool |
 
 ## Recently played
 
@@ -34,4 +36,4 @@ Morgan Seatree is a house and tech house artist tracked on soundcheck, with 89 s
 
 Kyle Starkey, Diffrent, DART
 
-*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/morganseatree/)*
+*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/morganseatree/)*

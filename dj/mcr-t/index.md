@@ -1,6 +1,6 @@
 # MCR-T
 
-MCR-T is a Techno and House artist with 14 upcoming club dates listed on soundcheck as of Mon, 14 Sept 2026, next at Trädgården, Stockholm on Fri, 18 Sept 2026.
+MCR-T is a Techno and House artist with 14 upcoming club dates listed on soundcheck as of Tue, 15 Sept 2026, next at Trädgården, Stockholm on Fri, 18 Sept 2026.
 
 MCR-T is a techno and house artist tracked on soundcheck, with 267 sets logged across Aberdeen, Amsterdam, Antwerp and Austin and 62 more. Often billed alongside DJ Gigola, Clara Cuvé and Bauernfeind. Next up: Trädgården, Stockholm on Fri 18 Sept.
 
@@ -36,4 +36,4 @@ MCR-T is a techno and house artist tracked on soundcheck, with 267 sets logged a
 
 DJ Gigola, Clara Cuvé, Bauernfeind
 
-*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mcr-t/)*
+*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mcr-t/)*

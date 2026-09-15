@@ -1,6 +1,6 @@
 # BOLT
 
-BOLT is a electronic artist with 1 upcoming club date listed on soundcheck as of Mon, 14 Sept 2026, next at Oxford Art Factory, Sydney on Fri, 30 Oct 2026.
+BOLT is a electronic artist with 1 upcoming club date listed on soundcheck as of Tue, 15 Sept 2026, next at Oxford Art Factory, Sydney on Fri, 30 Oct 2026.
 
 BOLT is an electronic artist tracked on soundcheck, with 2 sets logged across Melbourne and Sydney. Often billed alongside Andrew88, Beno Garcia and Dam Swindle. Next up: Oxford Art Factory, Sydney on Fri 30 Oct.
 
@@ -18,4 +18,4 @@ BOLT is an electronic artist tracked on soundcheck, with 2 sets logged across Me
 
 Andrew88, Beno Garcia, Dam Swindle
 
-*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bolt/)*
+*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bolt/)*

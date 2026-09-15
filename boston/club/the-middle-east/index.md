@@ -1,6 +1,6 @@
 # The Middle East
 
-The Middle East is a music venue in Boston with 2 upcoming nights listed on soundcheck as of Mon, 14 Sept 2026; the next is "SUPER ELYSIUM" on Sat, 19 Sept 2026.
+The Middle East is a music venue in Boston with 2 upcoming nights listed on soundcheck as of Tue, 15 Sept 2026; the next is "SUPER ELYSIUM" on Sat, 19 Sept 2026.
 
 The Middle East is a music venue in Boston listed on soundcheck. 2 upcoming nights, with line-ups including Asphodel Ivory, brazen, Noizcode and Pleasure Coffin and 1 more. Browse upcoming dates, start times and who's playing. 472-480 Massachusetts Avenue; Cambridge, MA 02139; United States.
 
@@ -15,4 +15,4 @@ The Middle East is a music venue in Boston listed on soundcheck. 2 upcoming nigh
 
 472-480 Massachusetts Avenue; Cambridge, MA 02139; United States, Boston
 
-*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/boston/club/the-middle-east/)*
+*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/boston/club/the-middle-east/)*

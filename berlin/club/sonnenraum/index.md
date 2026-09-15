@@ -1,6 +1,6 @@
 # Sonnenraum
 
-Sonnenraum is a music venue in Berlin with 2 upcoming nights listed on soundcheck as of Mon, 14 Sept 2026; the next is "Outer Place" on Sun, 1 Nov 2026.
+Sonnenraum is a music venue in Berlin with 2 upcoming nights listed on soundcheck as of Tue, 15 Sept 2026; the next is "Outer Place" on Sun, 1 Nov 2026.
 
 Sonnenraum is a music venue in Berlin listed on soundcheck. 2 upcoming nights. Browse upcoming dates, start times and who's playing. Eichenstraße 4A, 12435 Berlin, Germany.
 
@@ -15,4 +15,4 @@ Sonnenraum is a music venue in Berlin listed on soundcheck. 2 upcoming nights. B
 
 Eichenstraße 4A, 12435 Berlin, Germany, Berlin
 
-*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/sonnenraum/)*
+*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/sonnenraum/)*

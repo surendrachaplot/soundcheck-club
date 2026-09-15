@@ -1,14 +1,14 @@
 # Franzizca.
 
-Franzizca. is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Mon, 14 Sept 2026, next at TBA - Milan - Two Location, Milan on Sat, 19 Sept 2026.
+Franzizca. is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Tue, 15 Sept 2026, next at DURO, Milan on Sat, 19 Sept 2026.
 
-Franzizca. is a techno and house artist tracked on soundcheck, with 17 sets logged across Barcelona, Berlin, Buenosaires and Madrid and 3 more. Often billed alongside Leena, tINI and Bermani. Next up: TBA - Milan - Two Location, Milan on Sat 19 Sept.
+Franzizca. is a techno and house artist tracked on soundcheck, with 17 sets logged across Barcelona, Berlin, Buenosaires and Madrid and 3 more. Often billed alongside Leena, tINI and Bermani. Next up: DURO, Milan on Sat 19 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 19 Sept 2026 | TBA - Milan - Two Location | Milan |
+| Sat, 19 Sept 2026 | DURO | Milan |
 | Sat, 19 Sept 2026 | DURO | Milan |
 | Sat, 19 Sept 2026 | DURO | Milan |
 
@@ -27,4 +27,4 @@ Franzizca. is a techno and house artist tracked on soundcheck, with 17 sets logg
 
 Leena, tINI, Bermani
 
-*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/franzizca./)*
+*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/franzizca./)*

@@ -1,8 +1,8 @@
 # Boris
 
-Boris is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Mon, 14 Sept 2026, next at Petit CAB, Marseille on Fri, 18 Sept 2026.
+Boris is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Tue, 15 Sept 2026, next at Petit CAB, Marseille on Fri, 18 Sept 2026.
 
-Boris is a techno and house artist tracked on soundcheck, with 218 sets logged across Amsterdam, Athens, Auckland and Austin and 52 more. Often billed alongside BASHKKA, Massimiliano Pagliara and Roi Perez. Next up: Petit CAB, Marseille on Fri 18 Sept.
+Boris is a techno and house artist tracked on soundcheck, with 219 sets logged across Amsterdam, Athens, Auckland and Austin and 52 more. Often billed alongside BASHKKA, Massimiliano Pagliara and Roi Perez. Next up: Petit CAB, Marseille on Fri 18 Sept.
 
 ## Upcoming shows
 
@@ -13,6 +13,7 @@ Boris is a techno and house artist tracked on soundcheck, with 218 sets logged a
 | Sat, 26 Sept 2026 | Patterns | Brighton |
 | Fri, 2 Oct 2026 | TBA | Amsterdam |
 | Sun, 25 Oct 2026 | Signal | New York City |
+| Sat, 31 Oct 2026 | Paragon | New York City |
 
 ## Recently played
 
@@ -29,4 +30,4 @@ Boris is a techno and house artist tracked on soundcheck, with 218 sets logged a
 
 BASHKKA, Massimiliano Pagliara, Roi Perez
 
-*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/borisdj/)*
+*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/borisdj/)*

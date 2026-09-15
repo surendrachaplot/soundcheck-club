@@ -1,6 +1,6 @@
 # Time is the new space
 
-Time is the new space is a music venue in Rotterdam with 8 upcoming nights listed on soundcheck as of Mon, 14 Sept 2026; the next is "TONYZ CO.LAB OPEN BOOTH" on Thu, 17 Sept 2026.
+Time is the new space is a music venue in Rotterdam with 8 upcoming nights listed on soundcheck as of Tue, 15 Sept 2026; the next is "TONYZ CO.LAB OPEN BOOTH" on Thu, 17 Sept 2026.
 
 Time is the new space is a music venue in Rotterdam listed on soundcheck. 8 upcoming nights, with line-ups including AHIL, Human Space Machine, Leon and Lotus (2) and 2 more. Browse upcoming dates, start times and who's playing. Schiekade 185, 3013 BR, Rotterdam, Netherlands.
 
@@ -21,4 +21,4 @@ Time is the new space is a music venue in Rotterdam listed on soundcheck. 8 upco
 
 Schiekade 185, 3013 BR, Rotterdam, Netherlands, Rotterdam
 
-*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/rotterdam/club/time-is-the-new-space/)*
+*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/rotterdam/club/time-is-the-new-space/)*

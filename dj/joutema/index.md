@@ -1,6 +1,6 @@
 # Joutema
 
-Joutema is a Experimental and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 14 Sept 2026, next at Colour Factory, London on Fri, 23 Oct 2026.
+Joutema is a Experimental and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 15 Sept 2026, next at Colour Factory, London on Fri, 23 Oct 2026.
 
 Joutema is an experimental and techno artist tracked on soundcheck, with 2 sets logged across London. Often billed alongside DJ KIK0, Baptist (UK) and Oatmilkandcodeine. Next up: Colour Factory, London on Fri 23 Oct.
 
@@ -18,4 +18,4 @@ Joutema is an experimental and techno artist tracked on soundcheck, with 2 sets 
 
 DJ KIK0, Baptist (UK), Oatmilkandcodeine
 
-*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/joutema/)*
+*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/joutema/)*

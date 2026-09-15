@@ -1,6 +1,6 @@
 # EUGEN1O
 
-EUGEN1O is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Mon, 14 Sept 2026, next at Akasha Las Dalias Club - Ibiza, Ibiza on Tue, 15 Sept 2026.
+EUGEN1O is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Tue, 15 Sept 2026, next at Akasha Las Dalias Club - Ibiza, Ibiza on Tue, 15 Sept 2026.
 
 EUGEN1O is a house and minimal artist tracked on soundcheck, with 9 sets logged across Ibiza and Vienna. Often billed alongside Pornbugs, de larrechea and Angel Linde. Next up: Akasha Las Dalias Club - Ibiza, Ibiza on Tue 15 Sept.
 
@@ -25,4 +25,4 @@ EUGEN1O is a house and minimal artist tracked on soundcheck, with 9 sets logged 
 
 Pornbugs, de larrechea, Angel Linde
 
-*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/eugen1o/)*
+*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/eugen1o/)*

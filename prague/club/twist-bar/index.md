@@ -1,6 +1,6 @@
 # Twist Bar
 
-Twist Bar is a music venue in Prague with 6 upcoming nights listed on soundcheck as of Mon, 14 Sept 2026; the next is "Trance Kafka, Shurigen" on Thu, 17 Sept 2026.
+Twist Bar is a music venue in Prague with 6 upcoming nights listed on soundcheck as of Tue, 15 Sept 2026; the next is "Trance Kafka, Shurigen" on Thu, 17 Sept 2026.
 
 Twist Bar is a music venue in Prague listed on soundcheck. 6 upcoming nights, with line-ups including Atlaskin, Cosmodan, Madeleine and Pluge and 2 more. Browse upcoming dates, start times and who's playing.
 
@@ -15,4 +15,4 @@ Twist Bar is a music venue in Prague listed on soundcheck. 6 upcoming nights, wi
 | Fri, 25 Sept 2026 | VNNUK, Atlaskin | Atlaskin, VNNUK |
 | Sat, 26 Sept 2026 | x.m., Takē | Takē |
 
-*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/prague/club/twist-bar/)*
+*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/prague/club/twist-bar/)*

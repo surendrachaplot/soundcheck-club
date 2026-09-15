@@ -1,6 +1,6 @@
 # D|K|OXY
 
-D|K|OXY is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Mon, 14 Sept 2026, next at Drugstore Beograd, Belgrade on Sat, 19 Sept 2026.
+D|K|OXY is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Tue, 15 Sept 2026, next at Drugstore Beograd, Belgrade on Sat, 19 Sept 2026.
 
 D|K|OXY is a techno and industrial artist based in Ireland, tracked on soundcheck, with 46 sets logged across Amsterdam, Antwerp, Belgrade and Berlin and 11 more. Often billed alongside PARAPHER, Bildgewalt and Sørenga. Next up: Drugstore Beograd, Belgrade on Sat 19 Sept.
 
@@ -25,4 +25,4 @@ D|K|OXY is a techno and industrial artist based in Ireland, tracked on soundchec
 
 PARAPHER, Bildgewalt, Sørenga
 
-*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dkoxy/)*
+*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dkoxy/)*

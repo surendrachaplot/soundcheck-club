@@ -1,8 +1,8 @@
 # KNTRLVRLST
 
-KNTRLVRLST is a Techno and Trance artist with 4 upcoming club dates listed on soundcheck as of Mon, 14 Sept 2026, next at Story Toronto, Toronto on Fri, 18 Sept 2026.
+KNTRLVRLST is a Techno and Trance artist with 5 upcoming club dates listed on soundcheck as of Tue, 15 Sept 2026, next at Story Toronto, Toronto on Fri, 18 Sept 2026.
 
-KNTRLVRLST is a techno and trance artist tracked on soundcheck, with 66 sets logged across Antwerp, Barcelona, Belfast and Berlin and 23 more. Often billed alongside A.N.I., Vagabund and O.B.I. (DE). Next up: Story Toronto, Toronto on Fri 18 Sept.
+KNTRLVRLST is a techno and trance artist tracked on soundcheck, with 67 sets logged across Antwerp, Barcelona, Belfast and Berlin and 24 more. Often billed alongside A.N.I., Vagabund and O.B.I. (DE). Next up: Story Toronto, Toronto on Fri 18 Sept.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ KNTRLVRLST is a techno and trance artist tracked on soundcheck, with 66 sets log
 | --- | --- | --- |
 | Fri, 18 Sept 2026 | Story Toronto | Toronto |
 | Sat, 19 Sept 2026 | Roof 175 | Frankfurt |
+| Sat, 19 Sept 2026 | Domicile | Miami |
 | Sat, 3 Oct 2026 | Zinkbad Eventhalle | Zurich |
 | Fri, 16 Oct 2026 | Gate Milano | Milan |
 
@@ -28,4 +29,4 @@ KNTRLVRLST is a techno and trance artist tracked on soundcheck, with 66 sets log
 
 A.N.I., Vagabund, O.B.I. (DE)
 
-*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kntrlvrlst/)*
+*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kntrlvrlst/)*

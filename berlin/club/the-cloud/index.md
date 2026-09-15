@@ -1,6 +1,6 @@
 # The Cloud
 
-The Cloud is a music venue in Berlin with 3 upcoming nights listed on soundcheck as of Mon, 14 Sept 2026; the next is "WANTED: So Juice, Detailed, Zelecter (Hardstyle & Rawstyle)" on Sat, 19 Sept 2026.
+The Cloud is a music venue in Berlin with 3 upcoming nights listed on soundcheck as of Tue, 15 Sept 2026; the next is "WANTED: So Juice, Detailed, Zelecter (Hardstyle & Rawstyle)" on Sat, 19 Sept 2026.
 
 The Cloud is a music venue in Berlin listed on soundcheck. 3 upcoming nights, with line-ups including IvaNNa and YellowHeads. Browse upcoming dates, start times and who's playing. Alexanderstraße 7 / 10178 Berlin.
 
@@ -16,4 +16,4 @@ The Cloud is a music venue in Berlin listed on soundcheck. 3 upcoming nights, wi
 
 Alexanderstraße 7 / 10178 Berlin, Berlin
 
-*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/the-cloud/)*
+*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/the-cloud/)*

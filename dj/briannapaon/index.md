@@ -1,6 +1,6 @@
 # Brianna Paon
 
-Brianna Paon is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 14 Sept 2026, next at Phoenix Landing, Boston on Wed, 16 Sept 2026.
+Brianna Paon is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 15 Sept 2026, next at Phoenix Landing, Boston on Wed, 16 Sept 2026.
 
 Brianna Paon is a techno and house artist tracked on soundcheck, with 44 sets logged across Boston, Detroit, Newyorkcity and Sanfrancisco. Often billed alongside Trip Report, Jordan Graham and Wiersma. Next up: Phoenix Landing, Boston on Wed 16 Sept.
 
@@ -25,4 +25,4 @@ Brianna Paon is a techno and house artist tracked on soundcheck, with 44 sets lo
 
 Trip Report, Jordan Graham, Wiersma
 
-*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/briannapaon/)*
+*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/briannapaon/)*

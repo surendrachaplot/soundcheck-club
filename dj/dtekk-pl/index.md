@@ -1,6 +1,6 @@
 # dtekk
 
-dtekk is a Techno and Electro artist with 3 upcoming club dates listed on soundcheck as of Mon, 14 Sept 2026, next at Forum Horyzonty, Krakow on Sat, 19 Sept 2026.
+dtekk is a Techno and Electro artist with 3 upcoming club dates listed on soundcheck as of Tue, 15 Sept 2026, next at Forum Horyzonty, Krakow on Sat, 19 Sept 2026.
 
 dtekk is a techno and electro artist based in Poland, tracked on soundcheck, with 58 sets logged across Berlin, Krakow, Lisbon and Oslo and 2 more. Often billed alongside Kovvalsky, Blazej Malinowski and MATRIX3K. Next up: Forum Horyzonty, Krakow on Sat 19 Sept.
 
@@ -27,4 +27,4 @@ dtekk is a techno and electro artist based in Poland, tracked on soundcheck, wit
 
 Kovvalsky, Blazej Malinowski, MATRIX3K
 
-*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dtekk-pl/)*
+*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dtekk-pl/)*

@@ -1,6 +1,6 @@
 # DjRundfunk
 
-DjRundfunk is a Trance and Techno artist with 2 upcoming club dates listed on soundcheck as of Mon, 14 Sept 2026, next at Humboldthain Club, Berlin on Fri, 18 Sept 2026.
+DjRundfunk is a Trance and Techno artist with 2 upcoming club dates listed on soundcheck as of Tue, 15 Sept 2026, next at Humboldthain Club, Berlin on Fri, 18 Sept 2026.
 
 DjRundfunk is a trance and techno artist based in Germany, tracked on soundcheck, with 4 sets logged across Berlin, Cologne and Stuttgart. Often billed alongside 3LEEZA, AMO and Amo (IT). Next up: Humboldthain Club, Berlin on Fri 18 Sept.
 
@@ -20,4 +20,4 @@ DjRundfunk is a trance and techno artist based in Germany, tracked on soundcheck
 
 3LEEZA, AMO, Amo (IT)
 
-*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djrundfunk/)*
+*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djrundfunk/)*

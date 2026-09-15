@@ -1,6 +1,6 @@
 # Fredo
 
-Fredo is a Techno and Breakbeat artist with 1 upcoming club date listed on soundcheck as of Mon, 14 Sept 2026, next at TBA - 181 Orchard St , New York City on Fri, 25 Sept 2026.
+Fredo is a Techno and Breakbeat artist with 1 upcoming club date listed on soundcheck as of Tue, 15 Sept 2026, next at TBA - 181 Orchard St , New York City on Fri, 25 Sept 2026.
 
 Fredo is a techno and breakbeat artist tracked on soundcheck, with 4 sets logged across Denver, Losangeles and Newyorkcity. Often billed alongside BIFA01, Djgothqueen (3) and Friedberg. Next up: TBA - 181 Orchard St , Newyorkcity on Fri 25 Sept.
 
@@ -20,4 +20,4 @@ Fredo is a techno and breakbeat artist tracked on soundcheck, with 4 sets logged
 
 BIFA01, Djgothqueen (3), Friedberg
 
-*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/fredo/)*
+*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/fredo/)*

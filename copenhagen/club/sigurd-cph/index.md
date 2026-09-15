@@ -1,6 +1,6 @@
 # Sigurd CPH
 
-Sigurd CPH is a music venue in Copenhagen with 4 upcoming nights listed on soundcheck as of Mon, 14 Sept 2026; the next is "2200! Brazil Hiphop Edition" on Fri, 18 Sept 2026.
+Sigurd CPH is a music venue in Copenhagen with 4 upcoming nights listed on soundcheck as of Tue, 15 Sept 2026; the next is "2200! Brazil Hiphop Edition" on Fri, 18 Sept 2026.
 
 Sigurd CPH is a music venue in Copenhagen listed on soundcheck. 4 upcoming nights, with line-ups including Ave Maria, Caio Cenci, Carla Schack and Lisa Fosmark and 2 more. Browse upcoming dates, start times and who's playing. Sigurdsgade 39, Copenhagen, Denmark, 2200.
 
@@ -17,4 +17,4 @@ Sigurd CPH is a music venue in Copenhagen listed on soundcheck. 4 upcoming night
 
 Sigurdsgade 39, Copenhagen, Denmark, 2200, Copenhagen
 
-*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/copenhagen/club/sigurd-cph/)*
+*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/copenhagen/club/sigurd-cph/)*

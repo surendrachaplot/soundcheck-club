@@ -1,13 +1,14 @@
 # The Pearl
 
-The Pearl is a music venue in Vancouver with 4 upcoming nights listed on soundcheck as of Mon, 14 Sept 2026; the next is "DJ Assault" on Sat, 3 Oct 2026.
+The Pearl is a music venue in Vancouver with 5 upcoming nights listed on soundcheck as of Tue, 15 Sept 2026; the next is "Bilal" on Fri, 18 Sept 2026.
 
-The Pearl is a music venue in Vancouver listed on soundcheck. 4 upcoming nights, with line-ups including DJ Assault, EXPORT2MP3, Hitori Tori and Lizdek and 1 more. Browse upcoming dates, start times and who's playing. 881 Granville St, Vancouver, BC V6Z 1L1, Canada.
+The Pearl is a music venue in Vancouver listed on soundcheck. 5 upcoming nights, with line-ups including DJ Assault, EXPORT2MP3, Hitori Tori and Lizdek and 2 more. Browse upcoming dates, start times and who's playing. 881 Granville St, Vancouver, BC V6Z 1L1, Canada.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
+| Fri, 18 Sept 2026 | Bilal | Yaya Bey |
 | Sat, 3 Oct 2026 | DJ Assault | DJ Assault |
 | Mon, 5 Oct 2026 | Los Thuthanaka | Los Thuthanaka |
 | Fri, 9 Oct 2026 | Friend Request | EXPORT2MP3, Hitori Tori |
@@ -17,4 +18,4 @@ The Pearl is a music venue in Vancouver listed on soundcheck. 4 upcoming nights,
 
 881 Granville St, Vancouver, BC V6Z 1L1, Canada, Vancouver
 
-*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/vancouver/club/the-pearl/)*
+*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/vancouver/club/the-pearl/)*

@@ -1,6 +1,6 @@
 # Gene On Earth
 
-Gene On Earth is a House and Tech House artist with 13 upcoming club dates listed on soundcheck as of Mon, 14 Sept 2026, next at Floyd, Miami on Fri, 18 Sept 2026.
+Gene On Earth is a House and Tech House artist with 13 upcoming club dates listed on soundcheck as of Tue, 15 Sept 2026, next at Floyd, Miami on Fri, 18 Sept 2026.
 
 Gene On Earth is a house and tech house artist tracked on soundcheck, with 203 sets logged across Amsterdam, Austin, Bali and Bangkok and 50 more. Often billed alongside The Ghost, Dyed Soundorom and Coast 2 Coast. Next up: Floyd, Miami on Fri 18 Sept.
 
@@ -36,4 +36,4 @@ Gene On Earth is a house and tech house artist tracked on soundcheck, with 203 s
 
 The Ghost, Dyed Soundorom, Coast 2 Coast
 
-*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/geneonearth/)*
+*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/geneonearth/)*

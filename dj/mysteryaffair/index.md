@@ -1,6 +1,6 @@
 # Mystery Affair
 
-Mystery Affair is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Mon, 14 Sept 2026, next at YuYu Cine Club, Mexico City on Sat, 19 Sept 2026.
+Mystery Affair is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Tue, 15 Sept 2026, next at YuYu Cine Club, Mexico City on Sat, 19 Sept 2026.
 
 Mystery Affair is a house and techno artist tracked on soundcheck, with 96 sets logged across Amsterdam, Bali, Barcelona and Berlin and 16 more. Often billed alongside Ursula Prawn, Portugal and sadgal. Next up: YuYu Cine Club, Mexicocity on Sat 19 Sept.
 
@@ -26,4 +26,4 @@ Mystery Affair is a house and techno artist tracked on soundcheck, with 96 sets 
 
 Ursula Prawn, Portugal, sadgal
 
-*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mysteryaffair/)*
+*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mysteryaffair/)*

@@ -1,6 +1,6 @@
 # bradeazy
 
-bradeazy is a Tech House and House artist with 9 upcoming club dates listed on soundcheck as of Mon, 14 Sept 2026, next at MAX Watts, Melbourne on Thu, 24 Sept 2026.
+bradeazy is a Tech House and House artist with 9 upcoming club dates listed on soundcheck as of Tue, 15 Sept 2026, next at MAX Watts, Melbourne on Thu, 24 Sept 2026.
 
 bradeazy is a tech house and house artist based in United States of America, tracked on soundcheck, with 34 sets logged across Austin, Barcelona, Boston and Brisbane and 16 more. Often billed alongside Agents Of Time, Eelke Kleijn and Innellea. Next up: MAX Watts, Melbourne on Thu 24 Sept.
 
@@ -33,4 +33,4 @@ bradeazy is a tech house and house artist based in United States of America, tra
 
 Agents Of Time, Eelke Kleijn, Innellea
 
-*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bradeazy/)*
+*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bradeazy/)*

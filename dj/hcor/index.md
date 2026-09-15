@@ -1,6 +1,6 @@
 # HCOR
 
-HCOR is a Electro and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 14 Sept 2026, next at TBA - Lazo & Secret Location, Madrid on Sat, 10 Oct 2026.
+HCOR is a Electro and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 15 Sept 2026, next at TBA - Lazo & Secret Location, Madrid on Sat, 10 Oct 2026.
 
 HCOR is an electro and techno artist based in Spain, tracked on soundcheck, with 37 sets logged across Madrid and Malaga. Often billed alongside Semuta, Neurite and Irazu. Next up: TBA - Lazo & Secret Location, Madrid on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ HCOR is an electro and techno artist based in Spain, tracked on soundcheck, with
 
 Semuta, Neurite, Irazu
 
-*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/hcor/)*
+*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/hcor/)*

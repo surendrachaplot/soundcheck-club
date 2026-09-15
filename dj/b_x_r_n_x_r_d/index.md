@@ -1,6 +1,6 @@
 # B_X_R_N_X_R_D
 
-B_X_R_N_X_R_D is a Techno and Club artist with 1 upcoming club date listed on soundcheck as of Mon, 14 Sept 2026, next at Neptune Room, Washington DC on Sun, 20 Sept 2026.
+B_X_R_N_X_R_D is a Techno and Club artist with 1 upcoming club date listed on soundcheck as of Tue, 15 Sept 2026, next at Neptune Room, Washington DC on Sun, 20 Sept 2026.
 
 B_X_R_N_X_R_D is a techno and club artist based in United States of America, tracked on soundcheck, with 30 sets logged across Detroit, Losangeles, Portland and Washingtondc. Often billed alongside STUKES, Diyanna Monet and Jett. Next up: Neptune Room, Washingtondc on Sun 20 Sept.
 
@@ -25,4 +25,4 @@ B_X_R_N_X_R_D is a techno and club artist based in United States of America, tra
 
 STUKES, Diyanna Monet, Jett
 
-*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/b_x_r_n_x_r_d/)*
+*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/b_x_r_n_x_r_d/)*

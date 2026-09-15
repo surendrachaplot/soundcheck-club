@@ -1,6 +1,6 @@
 # Labrighli
 
-Labrighli is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Mon, 14 Sept 2026, next at Hall, Tallinn on Fri, 18 Sept 2026.
+Labrighli is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Tue, 15 Sept 2026, next at Hall, Tallinn on Fri, 18 Sept 2026.
 
 Labrighli is a techno and trance artist based in Estonia, tracked on soundcheck, with 32 sets logged across Berlin, Prague and Tallinn. Often billed alongside Lene Ma Rue, Katja Adrikova and Valdagger. Next up: Hall, Tallinn on Fri 18 Sept.
 
@@ -25,4 +25,4 @@ Labrighli is a techno and trance artist based in Estonia, tracked on soundcheck,
 
 Lene Ma Rue, Katja Adrikova, Valdagger
 
-*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/labrighli/)*
+*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/labrighli/)*

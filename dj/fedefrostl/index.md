@@ -1,6 +1,6 @@
 # Fede Frostl
 
-Fede Frostl is a Progressive House and Electronica artist with 5 upcoming club dates listed on soundcheck as of Mon, 14 Sept 2026, next at Zoku Hotel Vienna, Vienna on Wed, 16 Sept 2026.
+Fede Frostl is a Progressive House and Electronica artist with 5 upcoming club dates listed on soundcheck as of Tue, 15 Sept 2026, next at Zoku Hotel Vienna, Vienna on Wed, 16 Sept 2026.
 
 Fede Frostl is a progressive house and electronica artist tracked on soundcheck, with 97 sets logged across Amsterdam, Barcelona, Budapest and Buenosaires and 3 more. Often billed alongside Edictum, Noe Bortolussi and Daniel Darkhofer. Next up: Zoku Hotel Vienna, Vienna on Wed 16 Sept.
 
@@ -29,4 +29,4 @@ Fede Frostl is a progressive house and electronica artist tracked on soundcheck,
 
 Edictum, Noe Bortolussi, Daniel Darkhofer
 
-*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/fedefrostl/)*
+*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/fedefrostl/)*

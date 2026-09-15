@@ -1,6 +1,6 @@
 # Yderlandsvej 1
 
-Yderlandsvej 1 is a music venue in Copenhagen with 1 upcoming night listed on soundcheck as of Mon, 14 Sept 2026; the next is "Lessons" on Fri, 18 Sept 2026.
+Yderlandsvej 1 is a music venue in Copenhagen with 1 upcoming night listed on soundcheck as of Tue, 15 Sept 2026; the next is "Lessons" on Fri, 18 Sept 2026.
 
 Yderlandsvej 1 is a music venue in Copenhagen listed on soundcheck. 1 upcoming night, with line-ups including Bella Sarris, Tania Just and Téa. Browse upcoming dates, start times and who's playing. Yderlandsvej 1 2300 København S.
 
@@ -14,4 +14,4 @@ Yderlandsvej 1 is a music venue in Copenhagen listed on soundcheck. 1 upcoming n
 
 Yderlandsvej 1 2300 København S, Copenhagen
 
-*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/copenhagen/club/yderlandsvej-1/)*
+*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/copenhagen/club/yderlandsvej-1/)*

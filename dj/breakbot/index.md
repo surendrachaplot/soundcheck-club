@@ -1,6 +1,6 @@
 # Breakbot
 
-Breakbot is a House and Disco artist with 3 upcoming club dates listed on soundcheck as of Mon, 14 Sept 2026, next at Palazzo Delle Esposizioni, Rome on Thu, 17 Sept 2026.
+Breakbot is a House and Disco artist with 3 upcoming club dates listed on soundcheck as of Tue, 15 Sept 2026, next at Palazzo Delle Esposizioni, Rome on Thu, 17 Sept 2026.
 
 Breakbot is a house and disco artist based in France, tracked on soundcheck, with 75 sets logged across Amsterdam, Bangkok, Barcelona and Berlin and 26 more. Often billed alongside Irfane, Busy P and Myd. Next up: Palazzo Delle Esposizioni, Rome on Thu 17 Sept.
 
@@ -27,4 +27,4 @@ Breakbot is a house and disco artist based in France, tracked on soundcheck, wit
 
 Irfane, Busy P, Myd
 
-*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/breakbot/)*
+*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/breakbot/)*

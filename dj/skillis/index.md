@@ -1,13 +1,14 @@
 # Skillis
 
-Skillis is a Bass and Garage artist with 1 upcoming club date listed on soundcheck as of Mon, 14 Sept 2026, next at Argyle Arcade (Buchanan Street Entrance), Glasgow on Sat, 19 Sept 2026.
+Skillis is a Garage and Bass artist with 2 upcoming club dates listed on soundcheck as of Tue, 15 Sept 2026, next at Sneaky Pete's, Edinburgh on Fri, 18 Sept 2026.
 
-Skillis is a bass and garage artist based in United Kingdom, tracked on soundcheck, with 137 sets logged across Aberdeen, Bristol, Dundee and Edinburgh and 2 more. Often billed alongside Feena, Creep Woland and LWS. Next up: Argyle Arcade (Buchanan Street Entrance), Glasgow on Sat 19 Sept.
+Skillis is a garage and bass artist based in United Kingdom, tracked on soundcheck, with 138 sets logged across Aberdeen, Bristol, Dundee and Edinburgh and 2 more. Often billed alongside Feena, Creep Woland and LWS. Next up: Sneaky Pete's, Edinburgh on Fri 18 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 18 Sept 2026 | Sneaky Pete's | Edinburgh |
 | Sat, 19 Sept 2026 | Argyle Arcade (Buchanan Street Entrance) | Glasgow |
 
 ## Recently played
@@ -25,4 +26,4 @@ Skillis is a bass and garage artist based in United Kingdom, tracked on soundche
 
 Feena, Creep Woland, LWS
 
-*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/skillis/)*
+*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/skillis/)*

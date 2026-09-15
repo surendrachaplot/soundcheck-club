@@ -1,6 +1,6 @@
 # DJ ORDNUNGSAMT
 
-DJ ORDNUNGSAMT is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Mon, 14 Sept 2026, next at TBA - Temple Bar Essen , Dortmund-essen on Fri, 18 Sept 2026.
+DJ ORDNUNGSAMT is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Tue, 15 Sept 2026, next at TBA - Temple Bar Essen , Dortmund-essen on Fri, 18 Sept 2026.
 
 DJ ORDNUNGSAMT is a techno and trance artist based in Germany, tracked on soundcheck, with 30 sets logged across Berlin, Dortmund-essen, Hamburg and Munich and 1 more. Often billed alongside sterni (DE), 20_5_3_8_14_15 and Limoncello. Next up: TBA - Temple Bar Essen , Dortmund-essen on Fri 18 Sept.
 
@@ -25,4 +25,4 @@ DJ ORDNUNGSAMT is a techno and trance artist based in Germany, tracked on soundc
 
 sterni (DE), 20_5_3_8_14_15, Limoncello
 
-*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djordnungsamt/)*
+*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djordnungsamt/)*

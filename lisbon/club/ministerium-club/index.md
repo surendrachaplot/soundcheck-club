@@ -1,6 +1,6 @@
 # Ministerium Club
 
-Ministerium Club is a music venue in Lisbon with 8 upcoming nights listed on soundcheck as of Mon, 14 Sept 2026; the next is "Riktus - Double Trouble" on Thu, 17 Sept 2026.
+Ministerium Club is a music venue in Lisbon with 8 upcoming nights listed on soundcheck as of Tue, 15 Sept 2026; the next is "Riktus - Double Trouble" on Thu, 17 Sept 2026.
 
 Ministerium Club is a music venue in Lisbon listed on soundcheck. 8 upcoming nights, with line-ups including aalice, BLEID, Client and Dj Saliva and 2 more. Browse upcoming dates, start times and who's playing. Praça Comércio 72, 1100-148, Lisboa, Portugal.
 
@@ -21,4 +21,4 @@ Ministerium Club is a music venue in Lisbon listed on soundcheck. 8 upcoming nig
 
 Praça Comércio 72, 1100-148, Lisboa, Portugal, Lisbon
 
-*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/lisbon/club/ministerium-club/)*
+*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/lisbon/club/ministerium-club/)*

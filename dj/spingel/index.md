@@ -1,6 +1,6 @@
 # Spingel
 
-Spingel is a Techno and Experimental artist with 1 upcoming club date listed on soundcheck as of Mon, 14 Sept 2026, next at Doggy Klœb, Malaga on Sat, 3 Oct 2026.
+Spingel is a Techno and Experimental artist with 1 upcoming club date listed on soundcheck as of Tue, 15 Sept 2026, next at Doggy Klœb, Malaga on Sat, 3 Oct 2026.
 
 Spingel is a techno and experimental artist tracked on soundcheck, with 3 sets logged across Malaga. Often billed alongside Noctive, Reisender and Nitrile Affair. Next up: Doggy Klœb, Malaga on Sat 3 Oct.
 
@@ -19,4 +19,4 @@ Spingel is a techno and experimental artist tracked on soundcheck, with 3 sets l
 
 Noctive, Reisender, Nitrile Affair
 
-*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/spingel/)*
+*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/spingel/)*

@@ -1,6 +1,6 @@
 # KSSLR
 
-KSSLR is a House and Electro artist with 1 upcoming club date listed on soundcheck as of Mon, 14 Sept 2026, next at La Nube, Buenos Aires on Sat, 19 Sept 2026.
+KSSLR is a House and Electro artist with 1 upcoming club date listed on soundcheck as of Tue, 15 Sept 2026, next at La Nube, Buenos Aires on Sat, 19 Sept 2026.
 
 KSSLR is a house and electro artist tracked on soundcheck, with 6 sets logged across Buenosaires. Often billed alongside Ian Puchetti, ALOT and Ana Hagen. Next up: La Nube, Buenosaires on Sat 19 Sept.
 
@@ -22,4 +22,4 @@ KSSLR is a house and electro artist tracked on soundcheck, with 6 sets logged ac
 
 Ian Puchetti, ALOT, Ana Hagen
 
-*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ksslr/)*
+*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ksslr/)*

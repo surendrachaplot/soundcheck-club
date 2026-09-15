@@ -1,6 +1,6 @@
 # Dexon
 
-Dexon is a Techno and Minimal artist with 8 upcoming club dates listed on soundcheck as of Mon, 14 Sept 2026, next at Melkweg, Amsterdam on Tue, 15 Sept 2026.
+Dexon is a Techno and Minimal artist with 8 upcoming club dates listed on soundcheck as of Tue, 15 Sept 2026, next at Melkweg, Amsterdam on Tue, 15 Sept 2026.
 
 Dexon is a techno and minimal artist tracked on soundcheck, with 193 sets logged across Amsterdam. Often billed alongside Dauphin Åka, Inez Akker and Jayzo. Next up: Melkweg, Amsterdam on Tue 15 Sept.
 
@@ -32,4 +32,4 @@ Dexon is a techno and minimal artist tracked on soundcheck, with 193 sets logged
 
 Dauphin Åka, Inez Akker, Jayzo
 
-*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dexon/)*
+*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dexon/)*

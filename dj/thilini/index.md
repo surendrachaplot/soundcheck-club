@@ -1,0 +1,28 @@
+# Thilini
+
+Thilini is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 15 Sept 2026, next at Golden Gate, Berlin on Sat, 26 Sept 2026.
+
+Thilini is a house and techno artist based in Australia, tracked on soundcheck, with 41 sets logged across Barcelona, Berlin, Melbourne and Munich and 3 more. Often billed alongside Mike Shannon, Alexkid and DeWalta. Next up: Golden Gate, Berlin on Sat 26 Sept.
+
+## Upcoming shows
+
+| Date | Venue | City |
+| --- | --- | --- |
+| Sat, 26 Sept 2026 | Golden Gate | Berlin |
+
+## Recently played
+
+- Club der Visionaere, Berlin — Fri, 11 Sept 2026
+- TBA - Secret Location - Some of Us Instagram for Location, Berlin — Sat, 22 Aug 2026
+- Golden Gate, Berlin — Sat, 11 Jul 2026
+- Sonnenraum, Berlin — Sat, 23 May 2026
+- Coco Boule, Berlin — Thu, 14 May 2026
+- Golden Gate, Berlin — Wed, 13 May 2026
+- OneSixOne, Melbourne — Sun, 22 Feb 2026
+- Golden Gate, Berlin — Wed, 24 Dec 2025
+
+## Shares bills with
+
+Mike Shannon, Alexkid, DeWalta
+
+*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/thilini/)*

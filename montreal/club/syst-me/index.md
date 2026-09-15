@@ -1,6 +1,6 @@
 # Système
 
-Système is a music venue in Montreal with 10 upcoming nights listed on soundcheck as of Mon, 14 Sept 2026; the next is "Vayia + Laurence Matte + Prïa" on Thu, 17 Sept 2026.
+Système is a music venue in Montreal with 10 upcoming nights listed on soundcheck as of Tue, 15 Sept 2026; the next is "Vayia + Laurence Matte + Prïa" on Thu, 17 Sept 2026.
 
 Système is a music venue in Montreal listed on soundcheck. 10 upcoming nights, with line-ups including Anabasine, Barbara Boeing, Dave P and DJ Frog and 2 more. Browse upcoming dates, start times and who's playing. 7119 Saint Hubert, Montreal QC H2S2N1 Canada.
 
@@ -23,4 +23,4 @@ Système is a music venue in Montreal listed on soundcheck. 10 upcoming nights, 
 
 7119 Saint Hubert, Montreal QC H2S2N1 Canada, Montreal
 
-*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/montreal/club/syst-me/)*
+*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/montreal/club/syst-me/)*

@@ -1,14 +1,15 @@
 # DJ NOB
 
-DJ NOB is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Mon, 14 Sept 2026, next at migas, a listening bar, Berlin on Fri, 25 Sept 2026.
+DJ NOB is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Tue, 15 Sept 2026, next at migas, a listening bar, Berlin on Fri, 25 Sept 2026.
 
-DJ NOB is a house and disco artist tracked on soundcheck, with 22 sets logged across Berlin, Lisbon and Prague. Often billed alongside Cleymoore, rubi* and ALINA (3). Next up: migas, a listening bar, Berlin on Fri 25 Sept.
+DJ NOB is a house and disco artist tracked on soundcheck, with 23 sets logged across Berlin, Lisbon and Prague. Often billed alongside Cleymoore, rubi* and Mike Shannon. Next up: migas, a listening bar, Berlin on Fri 25 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 25 Sept 2026 | migas, a listening bar | Berlin |
+| Sat, 26 Sept 2026 | Golden Gate | Berlin |
 
 ## Recently played
 
@@ -23,6 +24,6 @@ DJ NOB is a house and disco artist tracked on soundcheck, with 22 sets logged ac
 
 ## Shares bills with
 
-Cleymoore, rubi*, ALINA (3)
+Cleymoore, rubi*, Mike Shannon
 
-*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djnob/)*
+*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djnob/)*

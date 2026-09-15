@@ -1,6 +1,6 @@
 # Pete K
 
-Pete K is a House and Electro artist with 2 upcoming club dates listed on soundcheck as of Mon, 14 Sept 2026, next at Rex Club, Paris on Sat, 17 Oct 2026.
+Pete K is a House and Electro artist with 2 upcoming club dates listed on soundcheck as of Tue, 15 Sept 2026, next at Rex Club, Paris on Sat, 17 Oct 2026.
 
 Pete K is a house and electro artist based in Portugal, tracked on soundcheck, with 9 sets logged across Amsterdam, London and Paris. Often billed alongside ALLKNIGHT, Alex Wackii and Corey James. Next up: Rex Club, Paris on Sat 17 Oct.
 
@@ -25,4 +25,4 @@ Pete K is a house and electro artist based in Portugal, tracked on soundcheck, w
 
 ALLKNIGHT, Alex Wackii, Corey James
 
-*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/petek/)*
+*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/petek/)*

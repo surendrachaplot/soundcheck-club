@@ -1,6 +1,6 @@
 # Tala Berg
 
-Tala Berg is a Techno and Downtempo artist with 1 upcoming club date listed on soundcheck as of Mon, 14 Sept 2026, next at gART.n, Berlin on Sun, 27 Sept 2026.
+Tala Berg is a Techno and Downtempo artist with 1 upcoming club date listed on soundcheck as of Tue, 15 Sept 2026, next at gART.n, Berlin on Sun, 27 Sept 2026.
 
 Tala Berg is a techno and downtempo artist based in Germany, tracked on soundcheck, with 4 sets logged across Berlin, Cologne and Munich. Often billed alongside Barnow, Elisa Elisa and Isabeau Fort. Next up: gART.n, Berlin on Sun 27 Sept.
 
@@ -20,4 +20,4 @@ Tala Berg is a techno and downtempo artist based in Germany, tracked on soundche
 
 Barnow, Elisa Elisa, Isabeau Fort
 
-*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/talaberg/)*
+*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/talaberg/)*

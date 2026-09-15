@@ -1,8 +1,8 @@
 # szoliver
 
-szoliver is a Techno and Trance artist with 3 upcoming club dates listed on soundcheck as of Mon, 14 Sept 2026, next at Toldi Klub, Budapest on Fri, 25 Sept 2026.
+szoliver is a Techno and Trance artist with 4 upcoming club dates listed on soundcheck as of Tue, 15 Sept 2026, next at Toldi Klub, Budapest on Fri, 25 Sept 2026.
 
-szoliver is a techno and trance artist tracked on soundcheck, with 102 sets logged across Bangkok, Basel, Berlin and Budapest and 4 more. Often billed alongside SLYM, Akác and Technokool. Next up: Toldi Klub, Budapest on Fri 25 Sept.
+szoliver is a techno and trance artist tracked on soundcheck, with 103 sets logged across Bangkok, Basel, Berlin and Budapest and 4 more. Often billed alongside SLYM, Akác and Technokool. Next up: Toldi Klub, Budapest on Fri 25 Sept.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ szoliver is a techno and trance artist tracked on soundcheck, with 102 sets logg
 | --- | --- | --- |
 | Fri, 25 Sept 2026 | Toldi Klub | Budapest |
 | Sat, 3 Oct 2026 | Turbina | Budapest |
+| Sat, 10 Oct 2026 | Textilgyár | Budapest |
 | Sat, 17 Oct 2026 | Turbina | Budapest |
 
 ## Recently played
@@ -27,4 +28,4 @@ szoliver is a techno and trance artist tracked on soundcheck, with 102 sets logg
 
 SLYM, Akác, Technokool
 
-*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/szoliver/)*
+*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/szoliver/)*

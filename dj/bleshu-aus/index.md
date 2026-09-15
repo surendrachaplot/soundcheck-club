@@ -1,6 +1,6 @@
 # bleshu
 
-bleshu is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 14 Sept 2026, next at Revolver Upstairs, Melbourne on Thu, 24 Sept 2026.
+bleshu is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 15 Sept 2026, next at Revolver Upstairs, Melbourne on Thu, 24 Sept 2026.
 
 bleshu is a techno and house artist based in Australia, tracked on soundcheck, with 4 sets logged across Melbourne. Often billed alongside Digital Network, Jo Chitty and Shani. Next up: Revolver Upstairs, Melbourne on Thu 24 Sept.
 
@@ -20,4 +20,4 @@ bleshu is a techno and house artist based in Australia, tracked on soundcheck, w
 
 Digital Network, Jo Chitty, Shani
 
-*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bleshu-aus/)*
+*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bleshu-aus/)*

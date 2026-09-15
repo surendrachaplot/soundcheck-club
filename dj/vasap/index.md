@@ -1,6 +1,6 @@
 # VASAP
 
-VASAP is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Mon, 14 Sept 2026, next at Azul Rooftop Barceloneta, Barcelona on Fri, 18 Sept 2026.
+VASAP is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Tue, 15 Sept 2026, next at Azul Rooftop Barceloneta, Barcelona on Fri, 18 Sept 2026.
 
 VASAP is a house and deep house artist tracked on soundcheck, with 29 sets logged across Barcelona. Often billed alongside NAC Oliver, Diego Montiel and Fede Roses. Next up: Azul Rooftop Barceloneta, Barcelona on Fri 18 Sept.
 
@@ -25,4 +25,4 @@ VASAP is a house and deep house artist tracked on soundcheck, with 29 sets logge
 
 NAC Oliver, Diego Montiel, Fede Roses
 
-*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/vasap/)*
+*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/vasap/)*

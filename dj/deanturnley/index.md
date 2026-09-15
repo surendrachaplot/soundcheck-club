@@ -1,6 +1,6 @@
 # Dean Turnley
 
-Dean Turnley is a House and Tech House artist with 8 upcoming club dates listed on soundcheck as of Mon, 14 Sept 2026, next at Spybar, Chicago on Fri, 18 Sept 2026.
+Dean Turnley is a House and Tech House artist with 8 upcoming club dates listed on soundcheck as of Tue, 15 Sept 2026, next at Spybar, Chicago on Fri, 18 Sept 2026.
 
 Dean Turnley is a house and tech house artist tracked on soundcheck, with 20 sets logged across Adelaide, Amsterdam, Belfast and Berlin and 15 more. Often billed alongside Prospa, Beltran and Ben Sterling. Next up: Spybar, Chicago on Fri 18 Sept.
 
@@ -32,4 +32,4 @@ Dean Turnley is a house and tech house artist tracked on soundcheck, with 20 set
 
 Prospa, Beltran, Ben Sterling
 
-*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/deanturnley/)*
+*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/deanturnley/)*

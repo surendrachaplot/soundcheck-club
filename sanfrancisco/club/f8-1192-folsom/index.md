@@ -1,6 +1,6 @@
 # F8 1192 Folsom
 
-F8 1192 Folsom is a music venue in San Francisco/Oakland with 19 upcoming nights listed on soundcheck as of Mon, 14 Sept 2026; the next is "INTERZONE - Darkwave Tuesdays - Guest DJ ERINYES" on Tue, 15 Sept 2026.
+F8 1192 Folsom is a music venue in San Francisco/Oakland with 19 upcoming nights listed on soundcheck as of Tue, 15 Sept 2026; the next is "INTERZONE - Darkwave Tuesdays - Guest DJ ERINYES" on Tue, 15 Sept 2026.
 
 F8 1192 Folsom is a music venue in Sanfrancisco listed on soundcheck. 19 upcoming nights, with line-ups including 888Thieves, Amino, bastiengoat and Bored Lord and 2 more. Browse upcoming dates, start times and who's playing. 1192 Folsom St, San Francisco, CA 94103.
 
@@ -9,7 +9,7 @@ F8 1192 Folsom is a music venue in Sanfrancisco listed on soundcheck. 19 upcomin
 | Date | Night | Line-up |
 | --- | --- | --- |
 | Tue, 15 Sept 2026 | INTERZONE - Darkwave Tuesdays - Guest DJ ERINYES | Byter, ERINYES, Hex Embrace |
-| Wed, 16 Sept 2026 | Strut SF and F8 present Jamie 3:26 | Ivan Ruiz, Jamie 3:26, Nesto Fuentez |
+| Wed, 16 Sept 2026 | Strut SF and F8 present Jamie 3:26 | CASPII, ELA MENTAL, Ivan Ruiz, Jamie 3:26, Just Tosh, Nesto Fuentez |
 | Thu, 17 Sept 2026 | Causmic Creative presents Fern's Bday Bash |  |
 | Thu, 17 Sept 2026 | Wayward: Dust Off | Matony, Yaz |
 | Fri, 18 Sept 2026 | Matt Jereza presents: PORTOLA PRE-PARTY | 888Thieves, HONEYD1P, saladbar |
@@ -23,4 +23,4 @@ F8 1192 Folsom is a music venue in Sanfrancisco listed on soundcheck. 19 upcomin
 
 1192 Folsom St, San Francisco, CA 94103, San Francisco/Oakland
 
-*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/f8-1192-folsom/)*
+*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/f8-1192-folsom/)*

@@ -1,6 +1,6 @@
 # Schmidde
 
-Schmidde is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 14 Sept 2026, next at Club Frau Holle, Hamburg on Fri, 18 Sept 2026.
+Schmidde is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 15 Sept 2026, next at Club Frau Holle, Hamburg on Fri, 18 Sept 2026.
 
 Schmidde is a techno and house artist tracked on soundcheck, with 3 sets logged across Hamburg. Often billed alongside Dellosen, DAVIDE (2) and Bjørn. Next up: Club Frau Holle, Hamburg on Fri 18 Sept.
 
@@ -19,4 +19,4 @@ Schmidde is a techno and house artist tracked on soundcheck, with 3 sets logged 
 
 Dellosen, DAVIDE (2), Bjørn
 
-*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/schmidde/)*
+*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/schmidde/)*

@@ -1,6 +1,6 @@
 # Akvárium Klub
 
-Akvárium Klub is a music venue in Budapest with 22 upcoming nights listed on soundcheck as of Mon, 14 Sept 2026; the next is "Only The Poets" on Fri, 18 Sept 2026.
+Akvárium Klub is a music venue in Budapest with 22 upcoming nights listed on soundcheck as of Tue, 15 Sept 2026; the next is "Only The Poets" on Fri, 18 Sept 2026.
 
 Akvárium Klub is a music venue in Budapest listed on soundcheck. 22 upcoming nights, with line-ups including Acid Arab, ALT8, Andrew Cairns and Arlo Parks and 2 more. Browse upcoming dates, start times and who's playing. Budapest Erzsébet tér, 1051 Hungary.
 
@@ -23,4 +23,4 @@ Akvárium Klub is a music venue in Budapest listed on soundcheck. 22 upcoming ni
 
 Budapest Erzsébet tér, 1051 Hungary, Budapest
 
-*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/budapest/club/akv-rium-klub/)*
+*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/budapest/club/akv-rium-klub/)*

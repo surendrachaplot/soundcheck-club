@@ -1,6 +1,6 @@
 # Flleur
 
-Flleur is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Mon, 14 Sept 2026, next at Bar Le Ritz PDB, Montreal on Fri, 18 Sept 2026.
+Flleur is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Tue, 15 Sept 2026, next at Bar Le Ritz PDB, Montreal on Fri, 18 Sept 2026.
 
 Flleur is a house and disco artist tracked on soundcheck, with 48 sets logged across Montreal. Often billed alongside dawny, Sherifsound and Cirque Cosmic. Next up: Bar Le Ritz PDB, Montreal on Fri 18 Sept.
 
@@ -25,4 +25,4 @@ Flleur is a house and disco artist tracked on soundcheck, with 48 sets logged ac
 
 dawny, Sherifsound, Cirque Cosmic
 
-*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/flleur/)*
+*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/flleur/)*

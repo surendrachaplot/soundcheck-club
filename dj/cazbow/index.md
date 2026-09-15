@@ -1,6 +1,6 @@
 # cazbow
 
-cazbow is a Techno and Bass artist with 3 upcoming club dates listed on soundcheck as of Mon, 14 Sept 2026, next at Circus Tokyo, Tokyo on Sat, 19 Sept 2026.
+cazbow is a Techno and Bass artist with 3 upcoming club dates listed on soundcheck as of Tue, 15 Sept 2026, next at Circus Tokyo, Tokyo on Sat, 19 Sept 2026.
 
 cazbow is a techno and bass artist based in Japan, tracked on soundcheck, with 38 sets logged across Osaka and Tokyo. Often billed alongside nazanael, TAKENOKO and kengotaki. Next up: Circus Tokyo, Tokyo on Sat 19 Sept.
 
@@ -27,4 +27,4 @@ cazbow is a techno and bass artist based in Japan, tracked on soundcheck, with 3
 
 nazanael, TAKENOKO, kengotaki
 
-*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/cazbow/)*
+*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/cazbow/)*

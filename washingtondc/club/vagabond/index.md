@@ -1,8 +1,8 @@
 # Vagabond
 
-Vagabond is a music venue in Washington DC with 2 upcoming nights listed on soundcheck as of Mon, 14 Sept 2026; the next is "Lost Nomads" on Fri, 18 Sept 2026.
+Vagabond is a music venue in Washington DC with 3 upcoming nights listed on soundcheck as of Tue, 15 Sept 2026; the next is "Lost Nomads" on Fri, 18 Sept 2026.
 
-Vagabond is a music venue in Washingtondc listed on soundcheck. 2 upcoming nights, with line-ups including Harley (US) and $et. Browse upcoming dates, start times and who's playing. 1836 18th Street NW, Washington, DC.
+Vagabond is a music venue in Washingtondc listed on soundcheck. 3 upcoming nights, with line-ups including D.O.S, Harley (US) and $et. Browse upcoming dates, start times and who's playing. 1836 18th Street NW, Washington, DC.
 
 ## What's on
 
@@ -10,9 +10,10 @@ Vagabond is a music venue in Washingtondc listed on soundcheck. 2 upcoming night
 | --- | --- | --- |
 | Fri, 18 Sept 2026 | Lost Nomads |  |
 | Sun, 27 Sept 2026 | Golden Hour | $et, Harley (US) |
+| Sat, 3 Oct 2026 | Legal Aliens | D.O.S |
 
 ## Address
 
 1836 18th Street NW, Washington, DC, Washington DC
 
-*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/washingtondc/club/vagabond/)*
+*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/washingtondc/club/vagabond/)*

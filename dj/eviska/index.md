@@ -1,6 +1,6 @@
 # EVIŠKA
 
-EVIŠKA is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Mon, 14 Sept 2026, next at Melt Underground, Buenos Aires on Fri, 18 Sept 2026.
+EVIŠKA is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Tue, 15 Sept 2026, next at Melt Underground, Buenos Aires on Fri, 18 Sept 2026.
 
 EVIŠKA is a techno and industrial artist tracked on soundcheck, with 8 sets logged across Buenosaires. Often billed alongside Fran Lezaun, Vanoni and Ariana Fedele. Next up: Melt Underground, Buenosaires on Fri 18 Sept.
 
@@ -24,4 +24,4 @@ EVIŠKA is a techno and industrial artist tracked on soundcheck, with 8 sets log
 
 Fran Lezaun, Vanoni, Ariana Fedele
 
-*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/eviska/)*
+*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/eviska/)*

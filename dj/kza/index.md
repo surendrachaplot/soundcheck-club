@@ -1,6 +1,6 @@
 # KZA
 
-KZA is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Mon, 14 Sept 2026, next at DJ Bar Bridge, Tokyo on Sat, 26 Sept 2026.
+KZA is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Tue, 15 Sept 2026, next at DJ Bar Bridge, Tokyo on Sat, 26 Sept 2026.
 
 KZA is a house and techno artist tracked on soundcheck, with 184 sets logged across Bali, Losangeles, Osaka and Portland and 4 more. Often billed alongside DJ Emma, Toshiyuki Goto and YOSHIROTTEN. Next up: DJ Bar Bridge, Tokyo on Sat 26 Sept.
 
@@ -28,4 +28,4 @@ KZA is a house and techno artist tracked on soundcheck, with 184 sets logged acr
 
 DJ Emma, Toshiyuki Goto, YOSHIROTTEN
 
-*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kza/)*
+*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kza/)*

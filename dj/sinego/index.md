@@ -1,6 +1,6 @@
 # Sinego
 
-Sinego is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Mon, 14 Sept 2026, next at TBA - Aeródromo Vilar de Luz - LPVL, 4425 Folgosa, Portugal, Porto on Fri, 18 Sept 2026.
+Sinego is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Tue, 15 Sept 2026, next at TBA - Aeródromo Vilar de Luz - LPVL, 4425 Folgosa, Portugal, Porto on Fri, 18 Sept 2026.
 
 Sinego is a house and techno artist based in Colombia, tracked on soundcheck, with 20 sets logged across Amsterdam, Brussels, Ibiza and Losangeles and 9 more. Often billed alongside Fiona Kraft, Jimi Jules and Xinobi. Next up: TBA - Aeródromo Vilar de Luz - LPVL, 4425 Folgosa, Portugal, Porto on Fri 18 Sept.
 
@@ -27,4 +27,4 @@ Sinego is a house and techno artist based in Colombia, tracked on soundcheck, wi
 
 Fiona Kraft, Jimi Jules, Xinobi
 
-*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sinego/)*
+*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sinego/)*

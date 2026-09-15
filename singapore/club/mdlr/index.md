@@ -1,6 +1,6 @@
 # Mdlr
 
-Mdlr is a music venue in Singapore with 4 upcoming nights listed on soundcheck as of Mon, 14 Sept 2026; the next is "Thugshop presents - Rebekah" on Fri, 18 Sept 2026.
+Mdlr is a music venue in Singapore with 4 upcoming nights listed on soundcheck as of Tue, 15 Sept 2026; the next is "Thugshop presents - Rebekah" on Fri, 18 Sept 2026.
 
 Mdlr is a music venue in Singapore listed on soundcheck. 4 upcoming nights, with line-ups including ARESHA, General Levy, Joshua Dillon and Lister (2) and 2 more. Browse upcoming dates, start times and who's playing. 62 Cecil Street #02-00, Singapore 049710.
 
@@ -17,4 +17,4 @@ Mdlr is a music venue in Singapore listed on soundcheck. 4 upcoming nights, with
 
 62 Cecil Street #02-00, Singapore 049710, Singapore
 
-*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/singapore/club/mdlr/)*
+*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/singapore/club/mdlr/)*

@@ -1,6 +1,6 @@
 # OK EG
 
-OK EG is a Techno and Electronica artist with 6 upcoming club dates listed on soundcheck as of Mon, 14 Sept 2026, next at TBA, New York City on Wed, 16 Sept 2026.
+OK EG is a Techno and Electronica artist with 6 upcoming club dates listed on soundcheck as of Tue, 15 Sept 2026, next at TBA, New York City on Wed, 16 Sept 2026.
 
 OK EG is a techno and electronica artist tracked on soundcheck, with 51 sets logged across Amsterdam, Barcelona, Berlin and Bristol and 15 more. Often billed alongside Kia (AU), Bambi (FR) and Priori. Next up: TBA, Newyorkcity on Wed 16 Sept.
 
@@ -30,4 +30,4 @@ OK EG is a techno and electronica artist tracked on soundcheck, with 51 sets log
 
 Kia (AU), Bambi (FR), Priori
 
-*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/okeg/)*
+*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/okeg/)*

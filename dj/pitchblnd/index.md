@@ -1,6 +1,6 @@
 # Pitchblnd
 
-Pitchblnd is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 14 Sept 2026, next at Corktown Tavern, Detroit on Sat, 17 Oct 2026.
+Pitchblnd is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 15 Sept 2026, next at Corktown Tavern, Detroit on Sat, 17 Oct 2026.
 
 Pitchblnd is a house and techno artist tracked on soundcheck, with 20 sets logged across Detroit. Often billed alongside Brent Shay, Smooth Llama and Andrea Kalajian. Next up: Corktown Tavern, Detroit on Sat 17 Oct.
 
@@ -25,4 +25,4 @@ Pitchblnd is a house and techno artist tracked on soundcheck, with 20 sets logge
 
 Brent Shay, Smooth Llama, Andrea Kalajian
 
-*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/pitchblnd/)*
+*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/pitchblnd/)*

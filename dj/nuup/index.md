@@ -1,6 +1,6 @@
 # NUUP
 
-NUUP is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 14 Sept 2026, next at Dr. Dou Social Club, Barcelona on Thu, 17 Sept 2026.
+NUUP is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 15 Sept 2026, next at Dr. Dou Social Club, Barcelona on Thu, 17 Sept 2026.
 
 NUUP is a house and techno artist based in Mexico, tracked on soundcheck, with 64 sets logged across Barcelona, Berlin, Brussels and Ibiza and 4 more. Often billed alongside Valderrama, Thomas Hernandez and JE·ROME. Next up: Dr. Dou Social Club, Barcelona on Thu 17 Sept.
 
@@ -25,4 +25,4 @@ NUUP is a house and techno artist based in Mexico, tracked on soundcheck, with 6
 
 Valderrama, Thomas Hernandez, JE·ROME
 
-*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nuup/)*
+*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nuup/)*

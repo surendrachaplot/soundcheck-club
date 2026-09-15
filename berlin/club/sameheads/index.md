@@ -1,6 +1,6 @@
 # Sameheads
 
-Sameheads is a music venue in Berlin with 9 upcoming nights listed on soundcheck as of Mon, 14 Sept 2026; the next is "GAFFATERIA" on Thu, 17 Sept 2026.
+Sameheads is a music venue in Berlin with 9 upcoming nights listed on soundcheck as of Tue, 15 Sept 2026; the next is "GAFFATERIA" on Thu, 17 Sept 2026.
 
 Sameheads is a music venue in Berlin listed on soundcheck. 9 upcoming nights, with line-ups including ALF CHAMPION, André Pahl, Anna Wall and Capablanca and 2 more. Browse upcoming dates, start times and who's playing. Richardstrasse 10; Neukölln; 12043 Berlin; Germany.
 
@@ -10,7 +10,7 @@ Sameheads is a music venue in Berlin listed on soundcheck. 9 upcoming nights, wi
 | --- | --- | --- |
 | Thu, 17 Sept 2026 | GAFFATERIA |  |
 | Fri, 18 Sept 2026 | Jack & Field | Dreimal T, Melizards, Sneaker |
-| Sat, 19 Sept 2026 | Sambol Grind - Sambol Foundation Fundraiser | Ike, MPeach, Nive, Perera Elsewhere, SETH DS |
+| Sat, 19 Sept 2026 | Sambol Grind - Sambol Foundation Fundraiser | Dj Mdizzey, Ike, MPeach, Nive, Perera Elsewhere, SETH DS |
 | Thu, 24 Sept 2026 | ZEPTER | André Pahl |
 | Fri, 25 Sept 2026 | ((echon)) pres. Morgan Buckley (Wah Wah Wino) Live | Capablanca, Diamin |
 | Sat, 26 Sept 2026 | Big Wide World of Smells | ALF CHAMPION, Ngly, Niklas Wandt, jewelry |
@@ -22,4 +22,4 @@ Sameheads is a music venue in Berlin listed on soundcheck. 9 upcoming nights, wi
 
 Richardstrasse 10; Neukölln; 12043 Berlin; Germany, Berlin
 
-*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/sameheads/)*
+*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/sameheads/)*

@@ -1,14 +1,15 @@
 # Sparky (AU)
 
-Sparky (AU) is a Electro and House artist with 1 upcoming club date listed on soundcheck as of Mon, 14 Sept 2026, next at TBA - Secret East London Location, London on Fri, 2 Oct 2026.
+Sparky (AU) is a House and Electro artist with 2 upcoming club dates listed on soundcheck as of Tue, 15 Sept 2026, next at TBA - Secret East London Location, London on Fri, 2 Oct 2026.
 
-Sparky (AU) is an electro and house artist based in Australia, tracked on soundcheck, with 11 sets logged across Kyoto, Liverpool and London. Often billed alongside Mr. Freeze, Daniel Pereira and Andy Kas. Next up: TBA - Secret East London Location, London on Fri 2 Oct.
+Sparky (AU) is a house and electro artist based in Australia, tracked on soundcheck, with 12 sets logged across Kyoto, Liverpool and London. Often billed alongside Mr. Freeze, Daniel Pereira and Andy Kas. Next up: TBA - Secret East London Location, London on Fri 2 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 2 Oct 2026 | TBA - Secret East London Location | London |
+| Sat, 7 Nov 2026 | TBA - Dalston | London |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Sparky (AU) is an electro and house artist based in Australia, tracked on soundc
 
 Mr. Freeze, Daniel Pereira, Andy Kas
 
-*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sparky-au/)*
+*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sparky-au/)*

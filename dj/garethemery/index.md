@@ -1,6 +1,6 @@
 # Gareth Emery
 
-Gareth Emery is a Trance and Progressive House artist with 3 upcoming club dates listed on soundcheck as of Mon, 14 Sept 2026, next at Echostage, Washington DC on Fri, 18 Sept 2026.
+Gareth Emery is a Trance and Progressive House artist with 3 upcoming club dates listed on soundcheck as of Tue, 15 Sept 2026, next at Echostage, Washington DC on Fri, 18 Sept 2026.
 
 Gareth Emery is a trance and progressive house artist tracked on soundcheck, with 36 sets logged across Austin, Boston, Chicago and London and 11 more. Often billed alongside Ferry Corsten, Billy Gillies and Cosmic Gate. Next up: Echostage, Washingtondc on Fri 18 Sept.
 
@@ -27,4 +27,4 @@ Gareth Emery is a trance and progressive house artist tracked on soundcheck, wit
 
 Ferry Corsten, Billy Gillies, Cosmic Gate
 
-*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/garethemery/)*
+*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/garethemery/)*

@@ -1,6 +1,6 @@
 # KARAH
 
-KARAH is a Techno and Industrial artist with 11 upcoming club dates listed on soundcheck as of Mon, 14 Sept 2026, next at Eden, Ibiza on Tue, 15 Sept 2026.
+KARAH is a Techno and Industrial artist with 10 upcoming club dates listed on soundcheck as of Tue, 15 Sept 2026, next at Eden, Ibiza on Tue, 15 Sept 2026.
 
 KARAH is a techno and industrial artist tracked on soundcheck, with 146 sets logged across Amsterdam, Antwerp, Barcelona and Berlin and 34 more. Often billed alongside KLOFAMA, 6EJOU and Raxeller. Next up: Eden, Ibiza on Tue 15 Sept.
 
@@ -8,7 +8,6 @@ KARAH is a techno and industrial artist tracked on soundcheck, with 146 sets log
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Tue, 15 Sept 2026 | Eden | Ibiza |
 | Tue, 15 Sept 2026 | Eden | Ibiza |
 | Fri, 9 Oct 2026 | TBA - SEKTOR6D | Warsaw |
 | Sat, 10 Oct 2026 | TBA | Barcelona |
@@ -35,4 +34,4 @@ KARAH is a techno and industrial artist tracked on soundcheck, with 146 sets log
 
 KLOFAMA, 6EJOU, Raxeller
 
-*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/karah/)*
+*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/karah/)*

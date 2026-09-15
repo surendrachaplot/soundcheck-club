@@ -1,6 +1,6 @@
 # FELI
 
-FELI is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 14 Sept 2026, next at Dockland, Munster on Sat, 31 Oct 2026.
+FELI is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 15 Sept 2026, next at Dockland, Munster on Sat, 31 Oct 2026.
 
 FELI is a techno and house artist tracked on soundcheck, with 3 sets logged across Berlin, Leipzig and Munster. Often billed alongside ACCUL, Alexa Fluor and BISOUX. Next up: Dockland, Munster on Sat 31 Oct.
 
@@ -19,4 +19,4 @@ FELI is a techno and house artist tracked on soundcheck, with 3 sets logged acro
 
 ACCUL, Alexa Fluor, BISOUX
 
-*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/feli-de/)*
+*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/feli-de/)*

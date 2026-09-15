@@ -1,6 +1,6 @@
 # DETROIT CLUB
 
-DETROIT CLUB is a music venue in Barcelona with 10 upcoming nights listed on soundcheck as of Mon, 14 Sept 2026; the next is "Techno_MINCODE_ NICOLAS CETINA Invites: SVRECA  - YULIËN" on Fri, 18 Sept 2026.
+DETROIT CLUB is a music venue in Barcelona with 10 upcoming nights listed on soundcheck as of Tue, 15 Sept 2026; the next is "Techno_MINCODE_ NICOLAS CETINA Invites: SVRECA  - YULIËN" on Fri, 18 Sept 2026.
 
 DETROIT CLUB is a music venue in Barcelona listed on soundcheck. 10 upcoming nights, with line-ups including CARGO (DE), Casanøva, Cobb Douglas and DIDIXX and 2 more. Browse upcoming dates, start times and who's playing. Passatge Can Polític, 13, b, 08907 Hospitalet de Llobregat, Barcelona.
 
@@ -23,4 +23,4 @@ DETROIT CLUB is a music venue in Barcelona listed on soundcheck. 10 upcoming nig
 
 Passatge Can Polític, 13, b, 08907 Hospitalet de Llobregat, Barcelona, Barcelona
 
-*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/detroit-club/)*
+*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/detroit-club/)*

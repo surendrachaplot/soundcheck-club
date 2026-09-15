@@ -1,6 +1,6 @@
 # Madarae San Francisco
 
-Madarae San Francisco is a music venue in San Francisco/Oakland with 4 upcoming nights listed on soundcheck as of Mon, 14 Sept 2026; the next is "Playa Dust Off with Alan Nieves (Tech House) at MadaRae" on Fri, 18 Sept 2026.
+Madarae San Francisco is a music venue in San Francisco/Oakland with 4 upcoming nights listed on soundcheck as of Tue, 15 Sept 2026; the next is "Playa Dust Off with Alan Nieves (Tech House) at MadaRae" on Fri, 18 Sept 2026.
 
 Madarae San Francisco is a music venue in Sanfrancisco listed on soundcheck. 4 upcoming nights, with line-ups including Alan Nieves, MAGA, Malive and Syd Gris and 1 more. Browse upcoming dates, start times and who's playing. 46 Minna St, San Francisco, CA 94105, United States.
 
@@ -17,4 +17,4 @@ Madarae San Francisco is a music venue in Sanfrancisco listed on soundcheck. 4 u
 
 46 Minna St, San Francisco, CA 94105, United States, San Francisco/Oakland
 
-*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/madarae-san-francisco/)*
+*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/madarae-san-francisco/)*

@@ -1,6 +1,6 @@
 # Webster Hall
 
-Webster Hall is a music venue in New York City with 6 upcoming nights listed on soundcheck as of Mon, 14 Sept 2026; the next is "Nooriyah" on Fri, 18 Sept 2026.
+Webster Hall is a music venue in New York City with 6 upcoming nights listed on soundcheck as of Tue, 15 Sept 2026; the next is "Nooriyah" on Fri, 18 Sept 2026.
 
 Webster Hall is a music venue in Newyorkcity listed on soundcheck. 6 upcoming nights, with line-ups including 444 (1), Amtrac, DJ Habibeats and MAIYA and 2 more. Browse upcoming dates, start times and who's playing. 125 East 11th Street; New York, NY 10003; United States.
 
@@ -19,4 +19,4 @@ Webster Hall is a music venue in Newyorkcity listed on soundcheck. 6 upcoming ni
 
 125 East 11th Street; New York, NY 10003; United States, New York City
 
-*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/webster-hall/)*
+*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/webster-hall/)*

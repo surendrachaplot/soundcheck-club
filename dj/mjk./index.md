@@ -1,6 +1,6 @@
 # MJK.
 
-MJK. is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 14 Sept 2026, next at Revolver Upstairs, Melbourne on Sun, 20 Sept 2026.
+MJK. is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 15 Sept 2026, next at Revolver Upstairs, Melbourne on Sun, 20 Sept 2026.
 
 MJK. is a techno and house artist based in Australia, tracked on soundcheck, with 17 sets logged across Melbourne, Seoul and Tokyo. Often billed alongside Christian Kamitsis, Steve Bleas and ANSR. Next up: Revolver Upstairs, Melbourne on Sun 20 Sept.
 
@@ -25,4 +25,4 @@ MJK. is a techno and house artist based in Australia, tracked on soundcheck, wit
 
 Christian Kamitsis, Steve Bleas, ANSR
 
-*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mjk./)*
+*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mjk./)*

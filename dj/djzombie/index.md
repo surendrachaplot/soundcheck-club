@@ -1,6 +1,6 @@
 # DJ Zombie
 
-DJ Zombie is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 14 Sept 2026, next at Dual, Bangkok on Fri, 18 Sept 2026.
+DJ Zombie is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 15 Sept 2026, next at Dual, Bangkok on Fri, 18 Sept 2026.
 
 DJ Zombie is a house and techno artist based in Thailand, tracked on soundcheck, with 42 sets logged across Amsterdam and Bangkok. Often billed alongside Yoongying, DZ GAS and Issasha. Next up: Dual, Bangkok on Fri 18 Sept.
 
@@ -25,4 +25,4 @@ DJ Zombie is a house and techno artist based in Thailand, tracked on soundcheck,
 
 Yoongying, DZ GAS, Issasha
 
-*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djzombie/)*
+*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djzombie/)*

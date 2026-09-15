@@ -1,8 +1,8 @@
 # San Antonios
 
-San Antonios is a music venue in New York City with 26 upcoming nights listed on soundcheck as of Mon, 14 Sept 2026; the next is "#1 REGGAETON BAR in Manhattan Party, Latin Thursday Night" on Thu, 17 Sept 2026.
+San Antonios is a music venue in New York City with 30 upcoming nights listed on soundcheck as of Tue, 15 Sept 2026; the next is "#1 REGGAETON BAR in Manhattan Party, Latin Thursday Night" on Thu, 17 Sept 2026.
 
-San Antonios is a music venue in Newyorkcity listed on soundcheck. 26 upcoming nights. Browse upcoming dates, start times and who's playing. 247 Eldridge St, New York, NY 10002, US.
+San Antonios is a music venue in Newyorkcity listed on soundcheck. 30 upcoming nights. Browse upcoming dates, start times and who's playing. 247 Eldridge St, New York, NY 10002, US.
 
 ## What's on
 
@@ -10,17 +10,17 @@ San Antonios is a music venue in Newyorkcity listed on soundcheck. 26 upcoming n
 | --- | --- | --- |
 | Thu, 17 Sept 2026 | #1 REGGAETON BAR in Manhattan Party, Latin Thursday Night |  |
 | Thu, 17 Sept 2026 | The Bichota Party at #1 Latin & Reggaeton Bar NYC (Thursday) |  |
+| Thu, 17 Sept 2026 | Reggaeton on Houston - Latin & Reggaeton Party NYC |  |
 | Fri, 18 Sept 2026 | Bichota Party Cocktail Reggaeton Bar NYC (Friday) |  |
 | Fri, 18 Sept 2026 | Medellin Fridays - Colombian Latin & Reggaeton Party NYC |  |
+| Fri, 18 Sept 2026 | Reggaeton on Houston - Latin & Reggaeton Party NYC |  |
+| Sat, 19 Sept 2026 | Reggaeton on Houston - Latin & Reggaeton Party NYC |  |
+| Sun, 20 Sept 2026 | Reggaeton on Houston - Latin & Reggaeton Party NYC |  |
 | Thu, 24 Sept 2026 | #1 REGGAETON BAR in Manhattan Party, Latin Thursday Night |  |
 | Fri, 25 Sept 2026 | Medellin Fridays - Colombian Latin & Reggaeton Party NYC |  |
-| Fri, 2 Oct 2026 | Medellin Fridays - Colombian Latin & Reggaeton Party NYC |  |
-| Sat, 3 Oct 2026 | Aventura Night - #1 Bachata Party NYC |  |
-| Sat, 3 Oct 2026 | SOY PEOR Reggaeton Party Cocktail Bar |  |
-| Fri, 9 Oct 2026 | Medellin Fridays - Colombian Latin & Reggaeton Party NYC |  |
 
 ## Address
 
 247 Eldridge St, New York, NY 10002, US, New York City
 
-*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/san-antonios/)*
+*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/san-antonios/)*

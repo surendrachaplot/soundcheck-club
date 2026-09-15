@@ -1,6 +1,6 @@
 # NIKITA (2)
 
-NIKITA (2) is a Electro and House artist with 1 upcoming club date listed on soundcheck as of Mon, 14 Sept 2026, next at UMI, Brussels on Sat, 3 Oct 2026.
+NIKITA (2) is a Electro and House artist with 1 upcoming club date listed on soundcheck as of Tue, 15 Sept 2026, next at UMI, Brussels on Sat, 3 Oct 2026.
 
 NIKITA (2) is an electro and house artist based in Russia, tracked on soundcheck, with 12 sets logged across Antwerp, Barcelona, Berlin and Brussels and 2 more. Often billed alongside Adi, Malo Z and Rick Baguette. Next up: UMI, Brussels on Sat 3 Oct.
 
@@ -25,4 +25,4 @@ NIKITA (2) is an electro and house artist based in Russia, tracked on soundcheck
 
 Adi, Malo Z, Rick Baguette
 
-*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nikita-2/)*
+*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nikita-2/)*

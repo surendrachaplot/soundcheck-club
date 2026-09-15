@@ -1,6 +1,6 @@
 # ROBOTRAN
 
-ROBOTRAN is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 14 Sept 2026, next at The Rose, New York City on Fri, 9 Oct 2026.
+ROBOTRAN is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 15 Sept 2026, next at The Rose, New York City on Fri, 9 Oct 2026.
 
 ROBOTRAN is a techno and house artist based in United States of America, tracked on soundcheck, with 22 sets logged across Newyorkcity and Sanfrancisco. Often billed alongside SurfingDJs, FTZGRLD and DJ Sauci Soni. Next up: The Rose, Newyorkcity on Fri 9 Oct.
 
@@ -25,4 +25,4 @@ ROBOTRAN is a techno and house artist based in United States of America, tracked
 
 SurfingDJs, FTZGRLD, DJ Sauci Soni
 
-*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/robotran/)*
+*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/robotran/)*

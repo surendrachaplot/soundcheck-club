@@ -1,6 +1,6 @@
 # MEEKS (2)
 
-MEEKS (2) is a Minimal and House artist with 1 upcoming club date listed on soundcheck as of Mon, 14 Sept 2026, next at Almar Beach Club, Barcelona on Sun, 20 Sept 2026.
+MEEKS (2) is a Minimal and House artist with 1 upcoming club date listed on soundcheck as of Tue, 15 Sept 2026, next at Almar Beach Club, Barcelona on Sun, 20 Sept 2026.
 
 MEEKS (2) is a minimal and house artist tracked on soundcheck, with 2 sets logged across Barcelona. Often billed alongside CAZOU, DISARLI and MNZR. Next up: Almar Beach Club, Barcelona on Sun 20 Sept.
 
@@ -18,4 +18,4 @@ MEEKS (2) is a minimal and house artist tracked on soundcheck, with 2 sets logge
 
 CAZOU, DISARLI, MNZR
 
-*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/meeks-2/)*
+*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/meeks-2/)*

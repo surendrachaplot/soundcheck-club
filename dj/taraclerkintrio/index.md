@@ -1,6 +1,6 @@
 # Tara Clerkin Trio
 
-Tara Clerkin Trio is a Ambient and House artist with 2 upcoming club dates listed on soundcheck as of Mon, 14 Sept 2026, next at Hallé St Peter's, Manchester on Thu, 22 Oct 2026.
+Tara Clerkin Trio is a Ambient and House artist with 2 upcoming club dates listed on soundcheck as of Tue, 15 Sept 2026, next at Hallé St Peter's, Manchester on Thu, 22 Oct 2026.
 
 Tara Clerkin Trio is an ambient and house artist based in United Kingdom, tracked on soundcheck, with 4 sets logged across Copenhagen, Manchester, Melbourne and Oslo. Often billed alongside DJ Seinfeld, Dijon and FCUKERS. Next up: Hallé St Peter's, Manchester on Thu 22 Oct.
 
@@ -20,4 +20,4 @@ Tara Clerkin Trio is an ambient and house artist based in United Kingdom, tracke
 
 DJ Seinfeld, Dijon, FCUKERS
 
-*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/taraclerkintrio/)*
+*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/taraclerkintrio/)*

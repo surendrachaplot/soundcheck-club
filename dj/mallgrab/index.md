@@ -1,6 +1,6 @@
 # Mall Grab
 
-Mall Grab is a Techno and House artist with 7 upcoming club dates listed on soundcheck as of Mon, 14 Sept 2026, next at Factory Town, Miami on Sun, 20 Sept 2026.
+Mall Grab is a Techno and House artist with 7 upcoming club dates listed on soundcheck as of Tue, 15 Sept 2026, next at Factory Town, Miami on Sun, 20 Sept 2026.
 
 Mall Grab is a techno and house artist tracked on soundcheck, with 208 sets logged across Aberdeen, Amsterdam, Antwerp and Athens and 65 more. Often billed alongside Effy, KETTAMA and Skin On Skin. Next up: Factory Town, Miami on Sun 20 Sept.
 
@@ -31,4 +31,4 @@ Mall Grab is a techno and house artist tracked on soundcheck, with 208 sets logg
 
 Effy, KETTAMA, Skin On Skin
 
-*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mallgrab/)*
+*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mallgrab/)*

@@ -1,6 +1,6 @@
 # THE OTHER SIDE
 
-THE OTHER SIDE is a music venue in Amsterdam with 11 upcoming nights listed on soundcheck as of Mon, 14 Sept 2026; the next is "Space Society" on Fri, 18 Sept 2026.
+THE OTHER SIDE is a music venue in Amsterdam with 11 upcoming nights listed on soundcheck as of Tue, 15 Sept 2026; the next is "Space Society" on Fri, 18 Sept 2026.
 
 THE OTHER SIDE is a music venue in Amsterdam listed on soundcheck. 11 upcoming nights, with line-ups including Absoluut, Alex (ES), Annett Gapstream and Aron Friedman and 2 more. Browse upcoming dates, start times and who's playing. Rigakade 10, 1013BC, Amsterdam, The Netherlands.
 
@@ -23,4 +23,4 @@ THE OTHER SIDE is a music venue in Amsterdam listed on soundcheck. 11 upcoming n
 
 Rigakade 10, 1013BC, Amsterdam, The Netherlands, Amsterdam
 
-*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/the-other-side/)*
+*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/the-other-side/)*

@@ -1,6 +1,6 @@
 # Hagglers Corner
 
-Hagglers Corner is a music venue in Sheffield with 2 upcoming nights listed on soundcheck as of Mon, 14 Sept 2026; the next is "Hagglers Tropical Takeover: Tonnau Community Gathering" on Sat, 19 Sept 2026.
+Hagglers Corner is a music venue in Sheffield with 2 upcoming nights listed on soundcheck as of Tue, 15 Sept 2026; the next is "Hagglers Tropical Takeover: Tonnau Community Gathering" on Sat, 19 Sept 2026.
 
 Hagglers Corner is a music venue in Sheffield listed on soundcheck. 2 upcoming nights. Browse upcoming dates, start times and who's playing. Queens Road, Sheffield, S2 4DU.
 
@@ -15,4 +15,4 @@ Hagglers Corner is a music venue in Sheffield listed on soundcheck. 2 upcoming n
 
 Queens Road, Sheffield, S2 4DU, Sheffield
 
-*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/sheffield/club/hagglers-corner/)*
+*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/sheffield/club/hagglers-corner/)*

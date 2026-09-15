@@ -1,6 +1,6 @@
 # El Chapo Cocktail Bar
 
-El Chapo Cocktail Bar is a music venue in Athens with 1 upcoming night listed on soundcheck as of Mon, 14 Sept 2026; the next is "EL CHAPO 10 YEARS ANNIVERSARY" on Sat, 19 Sept 2026.
+El Chapo Cocktail Bar is a music venue in Athens with 1 upcoming night listed on soundcheck as of Tue, 15 Sept 2026; the next is "EL CHAPO 10 YEARS ANNIVERSARY" on Sat, 19 Sept 2026.
 
 El Chapo Cocktail Bar is a music venue in Athens listed on soundcheck. 1 upcoming night, with line-ups including Manolaco, Modok, Ms.Lefki and Tanison. Browse upcoming dates, start times and who's playing. Filonos 95 Piraeus, Athens.
 
@@ -14,4 +14,4 @@ El Chapo Cocktail Bar is a music venue in Athens listed on soundcheck. 1 upcomin
 
 Filonos 95 Piraeus, Athens, Athens
 
-*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/athens/club/el-chapo-cocktail-bar/)*
+*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/athens/club/el-chapo-cocktail-bar/)*

@@ -1,6 +1,6 @@
 # xeon æon
 
-xeon æon is a Hardcore and Club artist with 2 upcoming club dates listed on soundcheck as of Mon, 14 Sept 2026, next at The Piston, Toronto on Mon, 21 Sept 2026.
+xeon æon is a Hardcore and Club artist with 2 upcoming club dates listed on soundcheck as of Tue, 15 Sept 2026, next at The Piston, Toronto on Mon, 21 Sept 2026.
 
 xeon æon is a hardcore and club artist tracked on soundcheck, with 19 sets logged across Toronto. Often billed alongside GUSSYEE, 666.pastel and Rareasfck. Next up: The Piston, Toronto on Mon 21 Sept.
 
@@ -26,4 +26,4 @@ xeon æon is a hardcore and club artist tracked on soundcheck, with 19 sets logg
 
 GUSSYEE, 666.pastel, Rareasfck
 
-*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/xeonæon/)*
+*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/xeonæon/)*

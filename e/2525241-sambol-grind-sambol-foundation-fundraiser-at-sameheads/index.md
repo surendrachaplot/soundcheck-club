@@ -1,6 +1,6 @@
 # Sambol Grind - Sambol Foundation Fundraiser at Sameheads
 
-Sambol Grind - Sambol Foundation Fundraiser at Sameheads on Sat 19 Sept, Berlin. 5 acts on the bill: Ike, MPeach, Nive and Perera Elsewhere and 1 more. Preview the line-up and save it on soundcheck.
+Sambol Grind - Sambol Foundation Fundraiser at Sameheads on Sat 19 Sept, Berlin. 6 acts on the bill: Dj Mdizzey, Ike, MPeach and Nive and 2 more. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ Sambol Grind - Sambol Foundation Fundraiser at Sameheads on Sat 19 Sept, Berlin.
 
 ## Line-up
 
+- Dj Mdizzey
 - Ike
 - MPeach
 - Nive

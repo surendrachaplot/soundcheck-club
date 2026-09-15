@@ -1,6 +1,6 @@
 # Brasserie de la Mule
 
-Brasserie de la Mule is a music venue in Brussels with 3 upcoming nights listed on soundcheck as of Mon, 14 Sept 2026; the next is "DANCEHALL RAVE" on Fri, 18 Sept 2026.
+Brasserie de la Mule is a music venue in Brussels with 3 upcoming nights listed on soundcheck as of Tue, 15 Sept 2026; the next is "DANCEHALL RAVE" on Fri, 18 Sept 2026.
 
 Brasserie de la Mule is a music venue in Brussels listed on soundcheck. 3 upcoming nights, with line-ups including EliseThere, Knurx, La Dame and SNKLS. Browse upcoming dates, start times and who's playing. Rue Rubens 95, 1030 Schaerbeek.
 
@@ -16,4 +16,4 @@ Brasserie de la Mule is a music venue in Brussels listed on soundcheck. 3 upcomi
 
 Rue Rubens 95, 1030 Schaerbeek, Brussels
 
-*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/brussels/club/brasserie-de-la-mule/)*
+*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/brussels/club/brasserie-de-la-mule/)*

@@ -1,6 +1,6 @@
 # Bello Bar
 
-Bello Bar is a music venue in Dublin with 1 upcoming night listed on soundcheck as of Mon, 14 Sept 2026; the next is "Local Resonance 5 - Big Bday Bash" on Sat, 19 Sept 2026.
+Bello Bar is a music venue in Dublin with 1 upcoming night listed on soundcheck as of Tue, 15 Sept 2026; the next is "Local Resonance 5 - Big Bday Bash" on Sat, 19 Sept 2026.
 
 Bello Bar is a music venue in Dublin listed on soundcheck. 1 upcoming night, with line-ups including Sam Kay. Browse upcoming dates, start times and who's playing. 1 Portobello Harbour, Dublin, Ireland.
 
@@ -14,4 +14,4 @@ Bello Bar is a music venue in Dublin listed on soundcheck. 1 upcoming night, wit
 
 1 Portobello Harbour, Dublin, Ireland, Dublin
 
-*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/dublin/club/bello-bar/)*
+*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/dublin/club/bello-bar/)*

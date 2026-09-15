@@ -1,6 +1,6 @@
 # Upstairs at the 700
 
-Upstairs at the 700 is a music venue in Philadelphia with 5 upcoming nights listed on soundcheck as of Mon, 14 Sept 2026; the next is "[KEEP FEELING] FASCINATION" on Sat, 19 Sept 2026.
+Upstairs at the 700 is a music venue in Philadelphia with 5 upcoming nights listed on soundcheck as of Tue, 15 Sept 2026; the next is "[KEEP FEELING] FASCINATION" on Sat, 19 Sept 2026.
 
 Upstairs at the 700 is a music venue in Philadelphia listed on soundcheck. 5 upcoming nights, with line-ups including El-D (USA), Headnod, Mike Textbeak and soundsofgreg. Browse upcoming dates, start times and who's playing. 700 N 2nd St, Philadelphia, PA 19123, United States.
 
@@ -18,4 +18,4 @@ Upstairs at the 700 is a music venue in Philadelphia listed on soundcheck. 5 upc
 
 700 N 2nd St, Philadelphia, PA 19123, United States, Philadelphia
 
-*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/philadelphia/club/upstairs-at-the-700/)*
+*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/philadelphia/club/upstairs-at-the-700/)*

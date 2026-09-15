@@ -1,6 +1,6 @@
 # EL SÓTANO
 
-EL SÓTANO is a music venue in Madrid with 21 upcoming nights listed on soundcheck as of Mon, 14 Sept 2026; the next is "KRYPT: Bipølar, Af7, Lyme, Krls B2B Inhø, Sheol, Gali " on Thu, 17 Sept 2026.
+EL SÓTANO is a music venue in Madrid with 21 upcoming nights listed on soundcheck as of Tue, 15 Sept 2026; the next is "KRYPT: Bipølar, Af7, Lyme, Krls B2B Inhø, Sheol, Gali " on Thu, 17 Sept 2026.
 
 EL SÓTANO is a music venue in Madrid listed on soundcheck. 21 upcoming nights, with line-ups including Alvaro Cabana, Arok Shiva, Brisa Then and Centurion One and 2 more. Browse upcoming dates, start times and who's playing. Calle de las Maldonadas, 6, 28005 Madrid, España.
 
@@ -23,4 +23,4 @@ EL SÓTANO is a music venue in Madrid listed on soundcheck. 21 upcoming nights, 
 
 Calle de las Maldonadas, 6, 28005 Madrid, España, Madrid
 
-*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/el-s-tano/)*
+*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/el-s-tano/)*

@@ -1,8 +1,8 @@
 # Mary Droppinz
 
-Mary Droppinz is a House and Bass artist with 4 upcoming club dates listed on soundcheck as of Mon, 14 Sept 2026, next at Mana Wynwood, Miami on Fri, 16 Oct 2026.
+Mary Droppinz is a House and Bass artist with 5 upcoming club dates listed on soundcheck as of Tue, 15 Sept 2026, next at Mana Wynwood, Miami on Fri, 16 Oct 2026.
 
-Mary Droppinz is a house and bass artist based in United States of America, tracked on soundcheck, with 52 sets logged across Austin, Boston, Chicago and Denver and 12 more. Often billed alongside Zeds Dead, Interplanetary Criminal and Matroda. Next up: Mana Wynwood, Miami on Fri 16 Oct.
+Mary Droppinz is a house and bass artist based in United States of America, tracked on soundcheck, with 53 sets logged across Austin, Boston, Chicago and Denver and 12 more. Often billed alongside Zeds Dead, Interplanetary Criminal and Matroda. Next up: Mana Wynwood, Miami on Fri 16 Oct.
 
 ## Upcoming shows
 
@@ -12,6 +12,7 @@ Mary Droppinz is a house and bass artist based in United States of America, trac
 | Fri, 30 Oct 2026 | Travis County Exposition Center | Austin |
 | Fri, 30 Oct 2026 | Factory Town | Miami |
 | Sat, 7 Nov 2026 | Elektricity | Detroit |
+| Sat, 21 Nov 2026 | BERHTA | Washington DC |
 
 ## Recently played
 
@@ -28,4 +29,4 @@ Mary Droppinz is a house and bass artist based in United States of America, trac
 
 Zeds Dead, Interplanetary Criminal, Matroda
 
-*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/marydroppinz/)*
+*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/marydroppinz/)*

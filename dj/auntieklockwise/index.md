@@ -1,6 +1,6 @@
 # Auntie Klockwise
 
-Auntie Klockwise is a Bass and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 14 Sept 2026, next at Aaja Basement, London on Fri, 16 Oct 2026.
+Auntie Klockwise is a Bass and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 15 Sept 2026, next at Aaja Basement, London on Fri, 16 Oct 2026.
 
 Auntie Klockwise is a bass and techno artist based in Taiwan, tracked on soundcheck, with 10 sets logged across London. Often billed alongside bejeebe, Vince Lam and classtraitor. Next up: Aaja Basement, London on Fri 16 Oct.
 
@@ -25,4 +25,4 @@ Auntie Klockwise is a bass and techno artist based in Taiwan, tracked on soundch
 
 bejeebe, Vince Lam, classtraitor
 
-*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/auntieklockwise/)*
+*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/auntieklockwise/)*

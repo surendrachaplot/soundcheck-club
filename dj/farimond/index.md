@@ -1,6 +1,6 @@
 # Fari Mond
 
-Fari Mond is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Mon, 14 Sept 2026, next at Duke Of Tokyo, Amsterdam on Thu, 22 Oct 2026.
+Fari Mond is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Tue, 15 Sept 2026, next at Duke Of Tokyo, Amsterdam on Thu, 22 Oct 2026.
 
 Fari Mond is a house and deep house artist based in United Kingdom, tracked on soundcheck, with 5 sets logged across Amsterdam and London. Often billed alongside Ceri, Joe Mellors and ARYA (3). Next up: Duke Of Tokyo, Amsterdam on Thu 22 Oct.
 
@@ -21,4 +21,4 @@ Fari Mond is a house and deep house artist based in United Kingdom, tracked on s
 
 Ceri, Joe Mellors, ARYA (3)
 
-*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/farimond/)*
+*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/farimond/)*

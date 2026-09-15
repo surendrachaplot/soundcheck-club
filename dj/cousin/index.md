@@ -1,6 +1,6 @@
 # Cousin
 
-Cousin is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Mon, 14 Sept 2026, next at Second Story Studios, Melbourne on Fri, 25 Sept 2026.
+Cousin is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Tue, 15 Sept 2026, next at Second Story Studios, Melbourne on Fri, 25 Sept 2026.
 
 Cousin is a techno and house artist tracked on soundcheck, with 89 sets logged across Amsterdam, Athens, Auckland and Berlin and 18 more. Often billed alongside DJ Fart in the Club, Kia (AU) and Ben Fester. Next up: Second Story Studios, Melbourne on Fri 25 Sept.
 
@@ -27,4 +27,4 @@ Cousin is a techno and house artist tracked on soundcheck, with 89 sets logged a
 
 DJ Fart in the Club, Kia (AU), Ben Fester
 
-*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/cousin/)*
+*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/cousin/)*

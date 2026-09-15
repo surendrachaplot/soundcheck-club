@@ -1,6 +1,6 @@
 # RICKY
 
-RICKY is a Techno and Gabber artist with 4 upcoming club dates listed on soundcheck as of Mon, 14 Sept 2026, next at Yodo Groove (Yodobashi Ikebukuro), Tokyo on Sun, 20 Sept 2026.
+RICKY is a Techno and Gabber artist with 4 upcoming club dates listed on soundcheck as of Tue, 15 Sept 2026, next at Yodo Groove (Yodobashi Ikebukuro), Tokyo on Sun, 20 Sept 2026.
 
 RICKY is a techno and gabber artist tracked on soundcheck, with 44 sets logged across London, Osaka, Sanfrancisco and Seoul and 1 more. Often billed alongside KYLE MIKASA, KAMIKAZE and egomania. Next up: Yodo Groove (Yodobashi Ikebukuro), Tokyo on Sun 20 Sept.
 
@@ -28,4 +28,4 @@ RICKY is a techno and gabber artist tracked on soundcheck, with 44 sets logged a
 
 KYLE MIKASA, KAMIKAZE, egomania
 
-*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ricky/)*
+*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ricky/)*

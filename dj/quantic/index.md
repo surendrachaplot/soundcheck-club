@@ -1,14 +1,15 @@
 # Quantic
 
-Quantic is a Jazz and Funk / Soul artist with 2 upcoming club dates listed on soundcheck as of Mon, 14 Sept 2026, next at Colour Factory, London on Thu, 17 Sept 2026.
+Quantic is a Jazz and Funk / Soul artist with 3 upcoming club dates listed on soundcheck as of Tue, 15 Sept 2026, next at Colour Factory, London on Thu, 17 Sept 2026.
 
-Quantic is a jazz and funk / soul artist tracked on soundcheck, with 36 sets logged across Amsterdam, Athens, Barcelona and Berlin and 16 more. Often billed alongside Alejandra Sabillón, Jamz Supernova and Mafalda. Next up: Colour Factory, London on Thu 17 Sept.
+Quantic is a jazz and funk / soul artist tracked on soundcheck, with 37 sets logged across Amsterdam, Athens, Barcelona and Berlin and 16 more. Often billed alongside Alejandra Sabillón, Jamz Supernova and Mafalda. Next up: Colour Factory, London on Thu 17 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Thu, 17 Sept 2026 | Colour Factory | London |
+| Fri, 18 Sept 2026 | Say No More Madrid | Madrid |
 | Thu, 1 Oct 2026 | Dahlia Stereo | Manchester |
 
 ## Recently played
@@ -26,4 +27,4 @@ Quantic is a jazz and funk / soul artist tracked on soundcheck, with 36 sets log
 
 Alejandra Sabillón, Jamz Supernova, Mafalda
 
-*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/quantic/)*
+*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/quantic/)*

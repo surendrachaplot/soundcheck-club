@@ -1,6 +1,6 @@
 # SEIichiro Mitsuma
 
-SEIichiro Mitsuma is a Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 14 Sept 2026, next at DeTour, Tokyo on Tue, 15 Sept 2026.
+SEIichiro Mitsuma is a Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 15 Sept 2026, next at DeTour, Tokyo on Tue, 15 Sept 2026.
 
 SEIichiro Mitsuma is a techno artist tracked on soundcheck, with 3 sets logged across Tokyo. Often billed alongside 35DH-1, K THE RATA and MOTOKA. Next up: DeTour, Tokyo on Tue 15 Sept.
 
@@ -19,4 +19,4 @@ SEIichiro Mitsuma is a techno artist tracked on soundcheck, with 3 sets logged a
 
 35DH-1, K THE RATA, MOTOKA
 
-*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/seiichiromitsuma/)*
+*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/seiichiromitsuma/)*

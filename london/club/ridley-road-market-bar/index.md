@@ -1,6 +1,6 @@
 # Ridley Road Market Bar
 
-Ridley Road Market Bar is a music venue in London with 29 upcoming nights listed on soundcheck as of Mon, 14 Sept 2026; the next is "Sticky Dancefloors" on Tue, 15 Sept 2026.
+Ridley Road Market Bar is a music venue in London with 29 upcoming nights listed on soundcheck as of Tue, 15 Sept 2026; the next is "Sticky Dancefloors" on Tue, 15 Sept 2026.
 
 Ridley Road Market Bar is a music venue in London listed on soundcheck. 29 upcoming nights. Browse upcoming dates, start times and who's playing. 49 Ridley Road; London E8 2NP; United Kingdom.
 
@@ -23,4 +23,4 @@ Ridley Road Market Bar is a music venue in London listed on soundcheck. 29 upcom
 
 49 Ridley Road; London E8 2NP; United Kingdom, London
 
-*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/ridley-road-market-bar/)*
+*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/ridley-road-market-bar/)*

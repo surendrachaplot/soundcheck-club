@@ -1,6 +1,6 @@
 # Apolonia
 
-Apolonia is a Downtempo and Electronica artist with 1 upcoming club date listed on soundcheck as of Mon, 14 Sept 2026, next at Renate, Berlin on Fri, 16 Oct 2026.
+Apolonia is a Downtempo and Electronica artist with 1 upcoming club date listed on soundcheck as of Tue, 15 Sept 2026, next at Renate, Berlin on Fri, 16 Oct 2026.
 
 Apolonia is a downtempo and electronica artist based in Germany, tracked on soundcheck, with 29 sets logged across Berlin, Hamburg, Munich and Warsaw. Often billed alongside Maurice Mino, Naicet and WIEK. Next up: Renate, Berlin on Fri 16 Oct.
 
@@ -25,4 +25,4 @@ Apolonia is a downtempo and electronica artist based in Germany, tracked on soun
 
 Maurice Mino, Naicet, WIEK
 
-*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/apolonia/)*
+*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/apolonia/)*

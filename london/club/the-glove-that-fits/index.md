@@ -1,6 +1,6 @@
 # The Glove That Fits
 
-The Glove That Fits is a music venue in London with 21 upcoming nights listed on soundcheck as of Mon, 14 Sept 2026; the next is "Miroku x iki" on Thu, 17 Sept 2026.
+The Glove That Fits is a music venue in London with 21 upcoming nights listed on soundcheck as of Tue, 15 Sept 2026; the next is "Miroku x iki" on Thu, 17 Sept 2026.
 
 The Glove That Fits is a music venue in London listed on soundcheck. 21 upcoming nights, with line-ups including Ailish, Aisling, AJ Manning and Alan Fitzpatrick and 2 more. Browse upcoming dates, start times and who's playing. 179 Morning Lane, Hackney, E96LH, United Kingdom.
 
@@ -23,4 +23,4 @@ The Glove That Fits is a music venue in London listed on soundcheck. 21 upcoming
 
 179 Morning Lane, Hackney, E96LH, United Kingdom, London
 
-*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/the-glove-that-fits/)*
+*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/the-glove-that-fits/)*

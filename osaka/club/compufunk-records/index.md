@@ -1,6 +1,6 @@
 # Compufunk Records
 
-Compufunk Records is a music venue in Osaka with 5 upcoming nights listed on soundcheck as of Mon, 14 Sept 2026; the next is "7TH GARDEN" on Thu, 17 Sept 2026.
+Compufunk Records is a music venue in Osaka with 5 upcoming nights listed on soundcheck as of Tue, 15 Sept 2026; the next is "7TH GARDEN" on Thu, 17 Sept 2026.
 
 Compufunk Records is a music venue in Osaka listed on soundcheck. 5 upcoming nights, with line-ups including 77Mushrooms, Andy Vaz, Daisuke Kakimoto and DJ Compufunk and 2 more. Browse upcoming dates, start times and who's playing. 1-29 Kitahama Higashi, Chuou-ku, Osaka, 540-0031 Japan.
 
@@ -18,4 +18,4 @@ Compufunk Records is a music venue in Osaka listed on soundcheck. 5 upcoming nig
 
 1-29 Kitahama Higashi, Chuou-ku, Osaka, 540-0031 Japan, Osaka
 
-*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/osaka/club/compufunk-records/)*
+*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/osaka/club/compufunk-records/)*

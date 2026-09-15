@@ -1,6 +1,6 @@
 # Aloysia
 
-Aloysia is a Experimental and Hardcore artist with 1 upcoming club date listed on soundcheck as of Mon, 14 Sept 2026, next at TBA - Warehouse Location, Philadelphia on Sat, 3 Oct 2026.
+Aloysia is a Experimental and Hardcore artist with 1 upcoming club date listed on soundcheck as of Tue, 15 Sept 2026, next at TBA - Warehouse Location, Philadelphia on Sat, 3 Oct 2026.
 
 Aloysia is an experimental and hardcore artist tracked on soundcheck, with 2 sets logged across Philadelphia. Often billed alongside 8623140518, Bacterial Lawn and Dani Rev. Next up: TBA - Warehouse Location, Philadelphia on Sat 3 Oct.
 
@@ -18,4 +18,4 @@ Aloysia is an experimental and hardcore artist tracked on soundcheck, with 2 set
 
 8623140518, Bacterial Lawn, Dani Rev
 
-*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/aloysia/)*
+*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/aloysia/)*

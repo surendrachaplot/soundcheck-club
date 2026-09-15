@@ -1,14 +1,13 @@
 # Spkrbox
 
-Spkrbox is a music venue in Detroit with 17 upcoming nights listed on soundcheck as of Mon, 14 Sept 2026; the next is "Música" on Mon, 14 Sept 2026.
+Spkrbox is a music venue in Detroit with 16 upcoming nights listed on soundcheck as of Tue, 15 Sept 2026; the next is "Bang Box" on Tue, 15 Sept 2026.
 
-Spkrbox is a music venue in Detroit listed on soundcheck. 17 upcoming nights, with line-ups including A. Garcia, angela baskets, BLAAQGOLD and Brent Shay and 2 more. Browse upcoming dates, start times and who's playing. 200 Grand River Ave, Detroit, MI 48226, United States.
+Spkrbox is a music venue in Detroit listed on soundcheck. 16 upcoming nights, with line-ups including A. Garcia, angela baskets, BLAAQGOLD and Brent Shay and 2 more. Browse upcoming dates, start times and who's playing. 200 Grand River Ave, Detroit, MI 48226, United States.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Mon, 14 Sept 2026 | Música | Disc Jockey George, Ivo (1), SWDEJAY, YerikODJ |
 | Tue, 15 Sept 2026 | Bang Box | DJ Skeez, angela baskets |
 | Wed, 16 Sept 2026 | Planet Funk |  |
 | Wed, 16 Sept 2026 | Nightcap Detroit | Isaac Prieto |
@@ -18,9 +17,10 @@ Spkrbox is a music venue in Detroit listed on soundcheck. 17 upcoming nights, wi
 | Fri, 18 Sept 2026 | Interface | Dj Disc |
 | Fri, 18 Sept 2026 | Ember | Stretch |
 | Sat, 19 Sept 2026 | Saturday Grind |  |
+| Sat, 19 Sept 2026 | Drama | Tylr |
 
 ## Address
 
 200 Grand River Ave, Detroit, MI 48226, United States, Detroit
 
-*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/detroit/club/spkrbox/)*
+*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/detroit/club/spkrbox/)*

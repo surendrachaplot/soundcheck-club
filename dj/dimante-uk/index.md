@@ -1,6 +1,6 @@
 # Dimanté
 
-Dimanté is a Techno and Progressive House artist with 5 upcoming club dates listed on soundcheck as of Mon, 14 Sept 2026, next at TBA - EAST LONDON - Announced to ticket holders on the day, London on Fri, 18 Sept 2026.
+Dimanté is a Techno and Progressive House artist with 5 upcoming club dates listed on soundcheck as of Tue, 15 Sept 2026, next at TBA - EAST LONDON - Announced to ticket holders on the day, London on Fri, 18 Sept 2026.
 
 Dimanté is a techno and progressive house artist based in Ukraine, tracked on soundcheck, with 8 sets logged across London. Often billed alongside Any Koh, Dimanté and Picep. Next up: TBA - EAST LONDON - Announced to ticket holders on the day, London on Fri 18 Sept.
 
@@ -24,4 +24,4 @@ Dimanté is a techno and progressive house artist based in Ukraine, tracked on s
 
 Any Koh, Dimanté, Picep
 
-*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dimante-uk/)*
+*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dimante-uk/)*

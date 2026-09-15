@@ -1,6 +1,6 @@
 # Lewis Knights
 
-Lewis Knights is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 14 Sept 2026, next at TBA - Carlisle, Newcastle on Sat, 10 Oct 2026.
+Lewis Knights is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 15 Sept 2026, next at TBA - Carlisle, Newcastle on Sat, 10 Oct 2026.
 
 Lewis Knights is a house and techno artist based in United Kingdom, tracked on soundcheck, with 3 sets logged across London and Newcastle. Often billed alongside HashR, Hoodwink and Ohmfield. Next up: TBA - Carlisle, Newcastle on Sat 10 Oct.
 
@@ -19,4 +19,4 @@ Lewis Knights is a house and techno artist based in United Kingdom, tracked on s
 
 HashR, Hoodwink, Ohmfield
 
-*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lewisknights/)*
+*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lewisknights/)*

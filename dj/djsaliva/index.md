@@ -1,6 +1,6 @@
 # Dj Saliva
 
-Dj Saliva is a Techno and Electro artist with 2 upcoming club dates listed on soundcheck as of Mon, 14 Sept 2026, next at Ministerium Club, Lisbon on Fri, 18 Sept 2026.
+Dj Saliva is a Techno and Electro artist with 2 upcoming club dates listed on soundcheck as of Tue, 15 Sept 2026, next at Ministerium Club, Lisbon on Fri, 18 Sept 2026.
 
 Dj Saliva is a techno and electro artist based in Portugal, tracked on soundcheck, with 114 sets logged across Amsterdam, Antwerp, Barcelona and Berlin and 27 more. Often billed alongside MCMLXXXV, CEM and JASSS. Next up: Ministerium Club, Lisbon on Fri 18 Sept.
 
@@ -26,4 +26,4 @@ Dj Saliva is a techno and electro artist based in Portugal, tracked on soundchec
 
 MCMLXXXV, CEM, JASSS
 
-*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djsaliva/)*
+*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djsaliva/)*

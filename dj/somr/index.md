@@ -1,6 +1,6 @@
 # SØMR
 
-SØMR is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Mon, 14 Sept 2026, next at The Flinders, Sydney on Sat, 10 Oct 2026.
+SØMR is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Tue, 15 Sept 2026, next at The Flinders, Sydney on Sat, 10 Oct 2026.
 
 SØMR is a techno and industrial artist tracked on soundcheck, with 7 sets logged across Sydney. Often billed alongside JUNN GULDUR, Kvrt and Airod. Next up: The Flinders, Sydney on Sat 10 Oct.
 
@@ -23,4 +23,4 @@ SØMR is a techno and industrial artist tracked on soundcheck, with 7 sets logge
 
 JUNN GULDUR, Kvrt, Airod
 
-*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/somr/)*
+*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/somr/)*

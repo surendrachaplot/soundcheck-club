@@ -1,6 +1,6 @@
 # TBA - La Biblioteca, San Telmo
 
-TBA - La Biblioteca, San Telmo is a music venue in Buenos Aires with 10 upcoming nights listed on soundcheck as of Mon, 14 Sept 2026; the next is "Patrice Bäumel x Somos Produce, La Biblioteca, San Telmo Buenos Aires" on Fri, 18 Sept 2026.
+TBA - La Biblioteca, San Telmo is a music venue in Buenos Aires with 10 upcoming nights listed on soundcheck as of Tue, 15 Sept 2026; the next is "Patrice Bäumel x Somos Produce, La Biblioteca, San Telmo Buenos Aires" on Fri, 18 Sept 2026.
 
 TBA - La Biblioteca, San Telmo is a music venue in Buenosaires listed on soundcheck. 10 upcoming nights, with line-ups including Eli Nissan, FRANCO BA, Marcelo Vasami and Nick Varon and 2 more. Browse upcoming dates, start times and who's playing.
 
@@ -19,4 +19,4 @@ TBA - La Biblioteca, San Telmo is a music venue in Buenosaires listed on soundch
 | Sun, 11 Oct 2026 | Shai T x Somos Produce – La Biblioteca, San Telmo Buenos Aires |  |
 | Sat, 17 Oct 2026 | Tantum - Somos Produce, La Biblioteca - ALLMusicParties | Tantum |
 
-*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/buenosaires/club/tba-la-biblioteca-san-telmo/)*
+*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/buenosaires/club/tba-la-biblioteca-san-telmo/)*

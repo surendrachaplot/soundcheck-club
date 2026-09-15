@@ -1,6 +1,6 @@
 # Marco Shuttle
 
-Marco Shuttle is a Techno and House artist with 8 upcoming club dates listed on soundcheck as of Mon, 14 Sept 2026, next at THE MAGICK BAR, Rome on Fri, 18 Sept 2026.
+Marco Shuttle is a Techno and House artist with 8 upcoming club dates listed on soundcheck as of Tue, 15 Sept 2026, next at THE MAGICK BAR, Rome on Fri, 18 Sept 2026.
 
 Marco Shuttle is a techno and house artist based in Italy, tracked on soundcheck, with 152 sets logged across Amsterdam, Antwerp, Barcelona and Belgrade and 34 more. Often billed alongside Jane Fitz, Erika and Paquita Gordon. Next up: THE MAGICK BAR, Rome on Fri 18 Sept.
 
@@ -32,4 +32,4 @@ Marco Shuttle is a techno and house artist based in Italy, tracked on soundcheck
 
 Jane Fitz, Erika, Paquita Gordon
 
-*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/marcoshuttle/)*
+*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/marcoshuttle/)*

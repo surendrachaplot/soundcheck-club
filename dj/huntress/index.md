@@ -1,6 +1,6 @@
 # HUNTRESS
 
-HUNTRESS is a Techno and Ballroom artist with 1 upcoming club date listed on soundcheck as of Mon, 14 Sept 2026, next at The Poetry Club, Glasgow on Sat, 17 Oct 2026.
+HUNTRESS is a Techno and Ballroom artist with 1 upcoming club date listed on soundcheck as of Tue, 15 Sept 2026, next at The Poetry Club, Glasgow on Sat, 17 Oct 2026.
 
 HUNTRESS is a techno and ballroom artist based in United Kingdom, tracked on soundcheck, with 36 sets logged across Dundee, Edinburgh, Glasgow and London. Often billed alongside Miss Cabbage, Babyjaii and Salam Kitty. Next up: The Poetry Club, Glasgow on Sat 17 Oct.
 
@@ -25,4 +25,4 @@ HUNTRESS is a techno and ballroom artist based in United Kingdom, tracked on sou
 
 Miss Cabbage, Babyjaii, Salam Kitty
 
-*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/huntress/)*
+*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/huntress/)*

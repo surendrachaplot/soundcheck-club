@@ -1,6 +1,6 @@
 # Liminal MX
 
-Liminal MX is a Techno and Progressive House artist with 1 upcoming club date listed on soundcheck as of Mon, 14 Sept 2026, next at Onder Hans, Amsterdam on Thu, 22 Oct 2026.
+Liminal MX is a Techno and Progressive House artist with 1 upcoming club date listed on soundcheck as of Tue, 15 Sept 2026, next at Onder Hans, Amsterdam on Thu, 22 Oct 2026.
 
 Liminal MX is a techno and progressive house artist based in Mexico, tracked on soundcheck, with 6 sets logged across Amsterdam, Malaga and Mexicocity. Often billed alongside ELIF, Alessio Cristiano and Alicia Hahn. Next up: Onder Hans, Amsterdam on Thu 22 Oct.
 
@@ -22,4 +22,4 @@ Liminal MX is a techno and progressive house artist based in Mexico, tracked on 
 
 ELIF, Alessio Cristiano, Alicia Hahn
 
-*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/liminalmx/)*
+*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/liminalmx/)*

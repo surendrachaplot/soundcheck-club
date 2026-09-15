@@ -1,6 +1,6 @@
 # Nilgün Özer
 
-Nilgün Özer is a Electronica and Experimental artist with 1 upcoming club date listed on soundcheck as of Mon, 14 Sept 2026, next at 90mil, Berlin on Fri, 25 Sept 2026.
+Nilgün Özer is a Electronica and Experimental artist with 1 upcoming club date listed on soundcheck as of Tue, 15 Sept 2026, next at 90mil, Berlin on Fri, 25 Sept 2026.
 
 Nilgün Özer is an electronica and experimental artist tracked on soundcheck, with 5 sets logged across Berlin. Often billed alongside Felicity Mangan, Martina Bertoni and 3rd Party Influence. Next up: 90mil, Berlin on Fri 25 Sept.
 
@@ -21,4 +21,4 @@ Nilgün Özer is an electronica and experimental artist tracked on soundcheck, w
 
 Felicity Mangan, Martina Bertoni, 3rd Party Influence
 
-*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nilgunozer/)*
+*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nilgunozer/)*

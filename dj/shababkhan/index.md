@@ -1,6 +1,6 @@
 # Shabab Khan
 
-Shabab Khan is a Progressive House and Techno artist with 2 upcoming club dates listed on soundcheck as of Mon, 14 Sept 2026, next at Tigullio, Malta on Sat, 19 Sept 2026.
+Shabab Khan is a Progressive House and Techno artist with 2 upcoming club dates listed on soundcheck as of Tue, 15 Sept 2026, next at Tigullio, Malta on Sat, 19 Sept 2026.
 
 Shabab Khan is a progressive house and techno artist based in Malta, tracked on soundcheck, with 35 sets logged across Malta. Often billed alongside Abdy, Daniel Blade and Adel dj. Next up: Tigullio, Malta on Sat 19 Sept.
 
@@ -26,4 +26,4 @@ Shabab Khan is a progressive house and techno artist based in Malta, tracked on 
 
 Abdy, Daniel Blade, Adel dj
 
-*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/shababkhan/)*
+*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/shababkhan/)*

@@ -1,6 +1,6 @@
 # TRANSMISSION DC
 
-TRANSMISSION DC is a music venue in Washington DC with 15 upcoming nights listed on soundcheck as of Mon, 14 Sept 2026; the next is "Substrate Pres. Binh, RHR, Sixx4Sixx" on Thu, 17 Sept 2026.
+TRANSMISSION DC is a music venue in Washington DC with 15 upcoming nights listed on soundcheck as of Tue, 15 Sept 2026; the next is "Substrate Pres. Binh, RHR, Sixx4Sixx" on Thu, 17 Sept 2026.
 
 TRANSMISSION DC is a music venue in Washingtondc listed on soundcheck. 15 upcoming nights, with line-ups including 1tbsp, Babypufff, Binh and blankphosphenes and 2 more. Browse upcoming dates, start times and who's playing. 1353 H st NE, Washington, DC, 20002.
 
@@ -23,4 +23,4 @@ TRANSMISSION DC is a music venue in Washingtondc listed on soundcheck. 15 upcomi
 
 1353 H st NE, Washington, DC, 20002, Washington DC
 
-*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/washingtondc/club/transmission-dc/)*
+*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/washingtondc/club/transmission-dc/)*

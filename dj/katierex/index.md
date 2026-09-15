@@ -1,6 +1,6 @@
 # Katie Rex
 
-Katie Rex is a Techno and Electronica artist with 4 upcoming club dates listed on soundcheck as of Mon, 14 Sept 2026, next at BASEMENT, New York City on Fri, 18 Sept 2026.
+Katie Rex is a Techno and Electronica artist with 4 upcoming club dates listed on soundcheck as of Tue, 15 Sept 2026, next at BASEMENT, New York City on Fri, 18 Sept 2026.
 
 Katie Rex is a techno and electronica artist based in United States of America, tracked on soundcheck, with 80 sets logged across Austin, Boston, Chicago and Losangeles and 7 more. Often billed alongside DJ Sharf, KYRUH and LISAS. Next up: BASEMENT, Newyorkcity on Fri 18 Sept.
 
@@ -28,4 +28,4 @@ Katie Rex is a techno and electronica artist based in United States of America, 
 
 DJ Sharf, KYRUH, LISAS
 
-*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/katierex/)*
+*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/katierex/)*

@@ -1,6 +1,6 @@
 # Koenji Cave
 
-Koenji Cave is a music venue in Tokyo with 6 upcoming nights listed on soundcheck as of Mon, 14 Sept 2026; the next is "- eureka moment - organized by EUREKA" on Fri, 18 Sept 2026.
+Koenji Cave is a music venue in Tokyo with 6 upcoming nights listed on soundcheck as of Tue, 15 Sept 2026; the next is "- eureka moment - organized by EUREKA" on Fri, 18 Sept 2026.
 
 Koenji Cave is a music venue in Tokyo listed on soundcheck. 6 upcoming nights, with line-ups including Bones, CATRONICA, CyberMoripy and Do Shock Booze and 2 more. Browse upcoming dates, start times and who's playing. 4-23-5 Koenjiminami, Suginami-ku, Tokyo, 166-0003 Japan.
 
@@ -19,4 +19,4 @@ Koenji Cave is a music venue in Tokyo listed on soundcheck. 6 upcoming nights, w
 
 4-23-5 Koenjiminami, Suginami-ku, Tokyo, 166-0003 Japan, Tokyo
 
-*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/koenji-cave/)*
+*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/koenji-cave/)*

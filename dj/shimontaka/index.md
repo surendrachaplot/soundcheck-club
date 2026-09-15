@@ -1,6 +1,6 @@
 # Shimon Taka
 
-Shimon Taka is a Techno and Bass artist with 1 upcoming club date listed on soundcheck as of Mon, 14 Sept 2026, next at UTOPIA / DYSTOPIA, Tokyo on Sat, 19 Sept 2026.
+Shimon Taka is a Techno and Bass artist with 1 upcoming club date listed on soundcheck as of Tue, 15 Sept 2026, next at UTOPIA / DYSTOPIA, Tokyo on Sat, 19 Sept 2026.
 
 Shimon Taka is a techno and bass artist based in Japan, tracked on soundcheck, with 10 sets logged across Tokyo. Often billed alongside Pokaska, chanai and --- mr ---. Next up: UTOPIA / DYSTOPIA, Tokyo on Sat 19 Sept.
 
@@ -25,4 +25,4 @@ Shimon Taka is a techno and bass artist based in Japan, tracked on soundcheck, w
 
 Pokaska, chanai, --- mr ---
 
-*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/shimontaka/)*
+*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/shimontaka/)*

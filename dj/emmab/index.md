@@ -1,6 +1,6 @@
 # Emma B
 
-Emma B is a House and Techno artist with 6 upcoming club dates listed on soundcheck as of Mon, 14 Sept 2026, next at La Felicita, Paris on Fri, 18 Sept 2026.
+Emma B is a House and Techno artist with 6 upcoming club dates listed on soundcheck as of Tue, 15 Sept 2026, next at La Felicita, Paris on Fri, 18 Sept 2026.
 
 Emma B is a house and techno artist tracked on soundcheck, with 98 sets logged across Amsterdam, Antwerp, Bali and Barcelona and 25 more. Often billed alongside Deborah Aime La Bagarre, Baccus and Solah. Next up: La Felicita, Paris on Fri 18 Sept.
 
@@ -30,4 +30,4 @@ Emma B is a house and techno artist tracked on soundcheck, with 98 sets logged a
 
 Deborah Aime La Bagarre, Baccus, Solah
 
-*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/emmab/)*
+*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/emmab/)*

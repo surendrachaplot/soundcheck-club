@@ -1,8 +1,8 @@
 # Kalabrese
 
-Kalabrese is a House and Electronica artist with 4 upcoming club dates listed on soundcheck as of Mon, 14 Sept 2026, next at Studio Zürich, Zurich on Sat, 19 Sept 2026.
+Kalabrese is a House and Electronica artist with 5 upcoming club dates listed on soundcheck as of Tue, 15 Sept 2026, next at Studio Zürich, Zurich on Sat, 19 Sept 2026.
 
-Kalabrese is a house and electronica artist tracked on soundcheck, with 113 sets logged across Amsterdam, Barcelona, Basel and Berlin and 12 more. Often billed alongside KAYYAK, Alex Dallas and Dejan. Next up: Studio Zürich, Zurich on Sat 19 Sept.
+Kalabrese is a house and electronica artist tracked on soundcheck, with 114 sets logged across Amsterdam, Barcelona, Basel and Berlin and 12 more. Often billed alongside KAYYAK, Alex Dallas and Dejan. Next up: Studio Zürich, Zurich on Sat 19 Sept.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ Kalabrese is a house and electronica artist tracked on soundcheck, with 113 sets
 | Sat, 19 Sept 2026 | Studio Zürich | Zurich |
 | Fri, 25 Sept 2026 | Teatro Bellini | Naples |
 | Sat, 26 Sept 2026 | Haus der Visionäre | Berlin |
+| Sat, 17 Oct 2026 | Kauz | Zurich |
 | Fri, 13 Nov 2026 | The Golden Lion | Manchester |
 
 ## Recently played
@@ -28,4 +29,4 @@ Kalabrese is a house and electronica artist tracked on soundcheck, with 113 sets
 
 KAYYAK, Alex Dallas, Dejan
 
-*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kalabrese/)*
+*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kalabrese/)*

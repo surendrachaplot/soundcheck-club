@@ -1,6 +1,6 @@
 # Henry Brooks
 
-Henry Brooks is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 14 Sept 2026, next at Phantom Bar Berlin, Berlin on Sat, 26 Sept 2026.
+Henry Brooks is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 15 Sept 2026, next at Phantom Bar Berlin, Berlin on Sat, 26 Sept 2026.
 
 Henry Brooks is a techno and house artist based in United States of America, tracked on soundcheck, with 48 sets logged across Berlin, Boston, Chicago and Denver and 8 more. Often billed alongside DJ I.V., The AM/AMX and Rebecca Goldberg. Next up: Phantom Bar Berlin, Berlin on Sat 26 Sept.
 
@@ -25,4 +25,4 @@ Henry Brooks is a techno and house artist based in United States of America, tra
 
 DJ I.V., The AM/AMX, Rebecca Goldberg
 
-*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/henrybrooks/)*
+*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/henrybrooks/)*

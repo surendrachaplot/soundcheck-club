@@ -1,6 +1,6 @@
 # Marsch
 
-Marsch is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 14 Sept 2026, next at Tresor / Globus, Berlin on Sat, 24 Oct 2026.
+Marsch is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 15 Sept 2026, next at Tresor / Globus, Berlin on Sat, 24 Oct 2026.
 
 Marsch is a techno and house artist based in Germany, tracked on soundcheck, with 42 sets logged across Amsterdam, Berlin, Leipzig and Manchester and 2 more. Often billed alongside KETCH, Black Mirror Park and MYRA (NL). Next up: Tresor / Globus, Berlin on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ Marsch is a techno and house artist based in Germany, tracked on soundcheck, wit
 
 KETCH, Black Mirror Park, MYRA (NL)
 
-*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/marsch/)*
+*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/marsch/)*

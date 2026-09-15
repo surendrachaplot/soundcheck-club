@@ -1,6 +1,6 @@
 # LILI
 
-LILI is a Tech House and House artist with 4 upcoming club dates listed on soundcheck as of Mon, 14 Sept 2026, next at Amnesia Ibiza, Ibiza on Thu, 17 Sept 2026.
+LILI is a Tech House and House artist with 4 upcoming club dates listed on soundcheck as of Tue, 15 Sept 2026, next at Amnesia Ibiza, Ibiza on Thu, 17 Sept 2026.
 
 LILI is a tech house and house artist tracked on soundcheck, with 28 sets logged across Berlin, Ibiza, Leeds and London and 3 more. Often billed alongside Lewis Carroll, Tommy Gold and ADMNTi. Next up: Amnesia Ibiza, Ibiza on Thu 17 Sept.
 
@@ -28,4 +28,4 @@ LILI is a tech house and house artist tracked on soundcheck, with 28 sets logged
 
 Lewis Carroll, Tommy Gold, ADMNTi
 
-*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lili/)*
+*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lili/)*

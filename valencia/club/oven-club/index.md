@@ -1,6 +1,6 @@
 # Oven Club
 
-Oven Club is a music venue in Valencia with 10 upcoming nights listed on soundcheck as of Mon, 14 Sept 2026; the next is "Giorgio Bonetti & Manu Barceló" on Wed, 16 Sept 2026.
+Oven Club is a music venue in Valencia with 10 upcoming nights listed on soundcheck as of Tue, 15 Sept 2026; the next is "Giorgio Bonetti & Manu Barceló" on Wed, 16 Sept 2026.
 
 Oven Club is a music venue in Valencia listed on soundcheck. 10 upcoming nights, with line-ups including BAR (DE), BEQA, blan.trrs and Blanch and 2 more. Browse upcoming dates, start times and who's playing. Gran Vía Germanías 31 Valencia.
 
@@ -23,4 +23,4 @@ Oven Club is a music venue in Valencia listed on soundcheck. 10 upcoming nights,
 
 Gran Vía Germanías 31 Valencia, Valencia
 
-*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/valencia/club/oven-club/)*
+*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/valencia/club/oven-club/)*

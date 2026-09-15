@@ -1,6 +1,6 @@
 # Side Quest
 
-Side Quest is a House and Acid artist with 1 upcoming club date listed on soundcheck as of Mon, 14 Sept 2026, next at I Mirador Rooftop, Milan on Tue, 15 Sept 2026.
+Side Quest is a House and Acid artist with 1 upcoming club date listed on soundcheck as of Tue, 15 Sept 2026, next at I Mirador Rooftop, Milan on Tue, 15 Sept 2026.
 
 Side Quest is a house and acid artist tracked on soundcheck, with 25 sets logged across Austin, Boston, Copenhagen and Detroit and 3 more. Often billed alongside Lovin Duo, Lvca and Sunrush. Next up: I Mirador Rooftop, Milan on Tue 15 Sept.
 
@@ -25,4 +25,4 @@ Side Quest is a house and acid artist tracked on soundcheck, with 25 sets logged
 
 Lovin Duo, Lvca, Sunrush
 
-*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sidequest/)*
+*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sidequest/)*

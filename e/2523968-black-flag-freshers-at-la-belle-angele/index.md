@@ -1,6 +1,6 @@
 # Black Flag - Freshers at La Belle Angele
 
-Black Flag - Freshers at La Belle Angele on Tue 15 Sept, Edinburgh. 4 acts on the bill: ELMOOSE, Fërb, Rossco and Sam Murray. Preview the line-up and save it on soundcheck.
+Black Flag - Freshers at La Belle Angele on Tue 15 Sept, Edinburgh. 5 acts on the bill: ELMOOSE, Fërb, Mixfits (2) and Rossco and 1 more. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -12,6 +12,7 @@ Black Flag - Freshers at La Belle Angele on Tue 15 Sept, Edinburgh. 4 acts on th
 
 - ELMOOSE
 - Fërb
+- Mixfits (2)
 - Rossco
 - Sam Murray
 

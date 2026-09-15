@@ -1,6 +1,6 @@
 # Amowia
 
-Amowia is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Mon, 14 Sept 2026, next at Renate, Berlin on Fri, 25 Sept 2026.
+Amowia is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Tue, 15 Sept 2026, next at Renate, Berlin on Fri, 25 Sept 2026.
 
 Amowia is a house and techno artist tracked on soundcheck, with 26 sets logged across Berlin, Hamburg and Leipzig. Often billed alongside LIL RISK, Hanaby and Kikelomo. Next up: Renate, Berlin on Fri 25 Sept.
 
@@ -27,4 +27,4 @@ Amowia is a house and techno artist tracked on soundcheck, with 26 sets logged a
 
 LIL RISK, Hanaby, Kikelomo
 
-*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/amowia/)*
+*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/amowia/)*

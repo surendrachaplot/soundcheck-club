@@ -1,14 +1,15 @@
 # anna(n)
 
-anna(n) is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Mon, 14 Sept 2026, next at Solace, Melbourne on Fri, 18 Sept 2026.
+anna(n) is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Tue, 15 Sept 2026, next at Solace, Melbourne on Fri, 18 Sept 2026.
 
-anna(n) is a techno and house artist based in Sweden, tracked on soundcheck, with 24 sets logged across Melbourne. Often billed alongside Charlotte Rooney, Hasvat Informant and ADMINISTRATOR. Next up: Solace, Melbourne on Fri 18 Sept.
+anna(n) is a techno and house artist based in Sweden, tracked on soundcheck, with 25 sets logged across Melbourne. Often billed alongside Charlotte Rooney, Hasvat Informant and ADMINISTRATOR. Next up: Solace, Melbourne on Fri 18 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 18 Sept 2026 | Solace | Melbourne |
+| Fri, 25 Sept 2026 | Dr Morse | Melbourne |
 | Fri, 9 Oct 2026 | QQQ ST. Park | Melbourne |
 
 ## Recently played
@@ -26,4 +27,4 @@ anna(n) is a techno and house artist based in Sweden, tracked on soundcheck, wit
 
 Charlotte Rooney, Hasvat Informant, ADMINISTRATOR
 
-*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/annan/)*
+*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/annan/)*

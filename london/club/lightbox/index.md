@@ -1,14 +1,13 @@
 # Lightbox
 
-Lightbox is a music venue in London with 3 upcoming nights listed on soundcheck as of Mon, 14 Sept 2026; the next is "The Freshers Initiation London" on Mon, 14 Sept 2026.
+Lightbox is a music venue in London with 2 upcoming nights listed on soundcheck as of Tue, 15 Sept 2026; the next is "THE BIG LONDON FRESHERS MASHUP - LONDON FRESHERS WEEK 2026" on Tue, 29 Sept 2026.
 
-Lightbox is a music venue in London listed on soundcheck. 3 upcoming nights. Browse upcoming dates, start times and who's playing. 6A S Lambeth Pl; Vauxhall; London SW8 1SP; United Kingdom.
+Lightbox is a music venue in London listed on soundcheck. 2 upcoming nights. Browse upcoming dates, start times and who's playing. 6A S Lambeth Pl; Vauxhall; London SW8 1SP; United Kingdom.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Mon, 14 Sept 2026 | The Freshers Initiation London |  |
 | Tue, 29 Sept 2026 | THE BIG LONDON FRESHERS MASHUP - LONDON FRESHERS WEEK 2026 |  |
 | Fri, 30 Oct 2026 | All Night Long - Halloween Special - 4 Rooms of Music |  |
 
@@ -16,4 +15,4 @@ Lightbox is a music venue in London listed on soundcheck. 3 upcoming nights. Bro
 
 6A S Lambeth Pl; Vauxhall; London SW8 1SP; United Kingdom, London
 
-*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/lightbox/)*
+*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/lightbox/)*

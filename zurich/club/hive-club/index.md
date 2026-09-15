@@ -1,6 +1,6 @@
 # Hive Club
 
-Hive Club is a music venue in Zurich with 8 upcoming nights listed on soundcheck as of Mon, 14 Sept 2026; the next is "RUND mit Urem (Tipping Point)" on Fri, 18 Sept 2026.
+Hive Club is a music venue in Zurich with 8 upcoming nights listed on soundcheck as of Tue, 15 Sept 2026; the next is "RUND mit Urem (Tipping Point)" on Fri, 18 Sept 2026.
 
 Hive Club is a music venue in Zurich listed on soundcheck. 8 upcoming nights, with line-ups including 1luu, ACID FLORA, Animal Trainer and Anthik and 2 more. Browse upcoming dates, start times and who's playing. Geroldstrasse 5; 8005, Zurich; Switzerland.
 
@@ -21,4 +21,4 @@ Hive Club is a music venue in Zurich listed on soundcheck. 8 upcoming nights, wi
 
 Geroldstrasse 5; 8005, Zurich; Switzerland, Zurich
 
-*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/zurich/club/hive-club/)*
+*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/zurich/club/hive-club/)*

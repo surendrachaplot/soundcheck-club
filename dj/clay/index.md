@@ -1,6 +1,6 @@
 # Clay
 
-Clay is a House and Downtempo artist with 1 upcoming club date listed on soundcheck as of Mon, 14 Sept 2026, next at OXI, Berlin on Sun, 27 Sept 2026.
+Clay is a House and Downtempo artist with 1 upcoming club date listed on soundcheck as of Tue, 15 Sept 2026, next at OXI, Berlin on Sun, 27 Sept 2026.
 
 Clay is a house and downtempo artist based in Italy, tracked on soundcheck, with 17 sets logged across Berlin, Mexicocity and Milan. Often billed alongside DJ EL, PATO WATSON and ArmaDisco. Next up: OXI, Berlin on Sun 27 Sept.
 
@@ -25,4 +25,4 @@ Clay is a house and downtempo artist based in Italy, tracked on soundcheck, with
 
 DJ EL, PATO WATSON, ArmaDisco
 
-*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/clay/)*
+*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/clay/)*

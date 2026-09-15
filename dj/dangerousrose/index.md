@@ -1,6 +1,6 @@
 # Dangerous Rose
 
-Dangerous Rose is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Mon, 14 Sept 2026, next at The Ground at Club Space, Miami on Fri, 18 Sept 2026.
+Dangerous Rose is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Tue, 15 Sept 2026, next at The Ground at Club Space, Miami on Fri, 18 Sept 2026.
 
 Dangerous Rose is a techno and house artist based in United States of America, tracked on soundcheck, with 36 sets logged across Amsterdam, Ibiza, Losangeles and Miami and 1 more. Often billed alongside Makadsi, FASHION (US) and Memphy. Next up: The Ground at Club Space, Miami on Fri 18 Sept.
 
@@ -26,4 +26,4 @@ Dangerous Rose is a techno and house artist based in United States of America, t
 
 Makadsi, FASHION (US), Memphy
 
-*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dangerousrose/)*
+*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dangerousrose/)*

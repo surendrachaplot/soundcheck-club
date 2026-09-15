@@ -1,6 +1,6 @@
 # DJ Skeez
 
-DJ Skeez is a House and Funk / Soul artist with 1 upcoming club date listed on soundcheck as of Mon, 14 Sept 2026, next at Spkrbox, Detroit on Tue, 15 Sept 2026.
+DJ Skeez is a House and Funk / Soul artist with 1 upcoming club date listed on soundcheck as of Tue, 15 Sept 2026, next at Spkrbox, Detroit on Tue, 15 Sept 2026.
 
 DJ Skeez is a house and funk / soul artist based in United States of America, tracked on soundcheck, with 56 sets logged across Detroit. Often billed alongside Stacey Hotwaxx Hale, dej.y and DJ Bet. Next up: Spkrbox, Detroit on Tue 15 Sept.
 
@@ -25,4 +25,4 @@ DJ Skeez is a house and funk / soul artist based in United States of America, tr
 
 Stacey Hotwaxx Hale, dej.y, DJ Bet
 
-*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djskeez/)*
+*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djskeez/)*

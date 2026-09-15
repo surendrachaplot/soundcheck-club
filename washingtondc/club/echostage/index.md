@@ -1,6 +1,6 @@
 # Echostage
 
-Echostage is a music venue in Washington DC with 15 upcoming nights listed on soundcheck as of Mon, 14 Sept 2026; the next is "LSR/CITY X by Gareth Emery w/ Andrea Botez, CVMRN, Dopastat" on Fri, 18 Sept 2026.
+Echostage is a music venue in Washington DC with 15 upcoming nights listed on soundcheck as of Tue, 15 Sept 2026; the next is "LSR/CITY X by Gareth Emery w/ Andrea Botez, CVMRN, Dopastat" on Fri, 18 Sept 2026.
 
 Echostage is a music venue in Washingtondc listed on soundcheck. 15 upcoming nights, with line-ups including 10cust, Afrojack, Andrea Botez and BENNETT and 2 more. Browse upcoming dates, start times and who's playing. 2135 Queens Chapel Road NE, Washington, DC 20018.
 
@@ -9,7 +9,7 @@ Echostage is a music venue in Washingtondc listed on soundcheck. 15 upcoming nig
 | Date | Night | Line-up |
 | --- | --- | --- |
 | Fri, 18 Sept 2026 | LSR/CITY X by Gareth Emery w/ Andrea Botez, CVMRN, Dopastat | Andrea Botez, Gareth Emery |
-| Sat, 26 Sept 2026 | Factory 93: I Hate Models with BENNETT | BENNETT, I Hate Models |
+| Sat, 26 Sept 2026 | Factory 93: I Hate Models with BENNETT, JADE CAO | BENNETT, I Hate Models, JADE CAO |
 | Sat, 26 Sept 2026 | Gorgon City with Hayden James, Soraya, House of JANE | Gorgon City, Hayden James, Soraya |
 | Fri, 2 Oct 2026 | Factory 93: Peggy Gou | Peggy Gou |
 | Sat, 3 Oct 2026 | Meduza³ (Live Set) | Meduza |
@@ -23,4 +23,4 @@ Echostage is a music venue in Washingtondc listed on soundcheck. 15 upcoming nig
 
 2135 Queens Chapel Road NE, Washington, DC 20018, Washington DC
 
-*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/washingtondc/club/echostage/)*
+*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/washingtondc/club/echostage/)*

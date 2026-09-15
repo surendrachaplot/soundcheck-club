@@ -1,6 +1,6 @@
 # ATRIP
 
-ATRIP is a House and Garage artist with 5 upcoming club dates listed on soundcheck as of Mon, 14 Sept 2026, next at The Foundry, San Francisco/Oakland on Fri, 18 Sept 2026.
+ATRIP is a House and Garage artist with 5 upcoming club dates listed on soundcheck as of Tue, 15 Sept 2026, next at The Foundry, San Francisco/Oakland on Fri, 18 Sept 2026.
 
 ATRIP is a house and garage artist tracked on soundcheck, with 83 sets logged across Amsterdam, Austin, Barcelona and Belfast and 37 more. Often billed alongside DJ BORING, Oppidan and salute. Next up: The Foundry, Sanfrancisco on Fri 18 Sept.
 
@@ -29,4 +29,4 @@ ATRIP is a house and garage artist tracked on soundcheck, with 83 sets logged ac
 
 DJ BORING, Oppidan, salute
 
-*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/atrip/)*
+*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/atrip/)*

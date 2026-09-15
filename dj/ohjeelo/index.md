@@ -1,6 +1,6 @@
 # ohjeelo
 
-ohjeelo is a Bass and Techno artist with 2 upcoming club dates listed on soundcheck as of Mon, 14 Sept 2026, next at Le Transbordeur, Lyon on Sat, 19 Sept 2026.
+ohjeelo is a Bass and Techno artist with 2 upcoming club dates listed on soundcheck as of Tue, 15 Sept 2026, next at Le Transbordeur, Lyon on Sat, 19 Sept 2026.
 
 ohjeelo is a bass and techno artist tracked on soundcheck, with 59 sets logged across Amsterdam, Barcelona, Belgrade and Berlin and 8 more. Often billed alongside Nico Adomako, Franssouax and Bamao Yendé. Next up: Le Transbordeur, Lyon on Sat 19 Sept.
 
@@ -26,4 +26,4 @@ ohjeelo is a bass and techno artist tracked on soundcheck, with 59 sets logged a
 
 Nico Adomako, Franssouax, Bamao Yendé
 
-*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ohjeelo/)*
+*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ohjeelo/)*

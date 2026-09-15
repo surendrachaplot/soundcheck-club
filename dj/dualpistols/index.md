@@ -1,6 +1,6 @@
 # Dual Pistols
 
-Dual Pistols is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 14 Sept 2026, next at Left Bank, Tbilisi on Fri, 18 Sept 2026.
+Dual Pistols is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 15 Sept 2026, next at Left Bank, Tbilisi on Fri, 18 Sept 2026.
 
 Dual Pistols is a house and techno artist tracked on soundcheck, with 67 sets logged across Athens, Berlin, Hamburg and Milan and 2 more. Often billed alongside Frequency Shifter, Knaughty and OTHR. Next up: Left Bank, Tbilisi on Fri 18 Sept.
 
@@ -25,4 +25,4 @@ Dual Pistols is a house and techno artist tracked on soundcheck, with 67 sets lo
 
 Frequency Shifter, Knaughty, OTHR
 
-*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dualpistols/)*
+*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dualpistols/)*

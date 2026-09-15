@@ -1,14 +1,15 @@
 # CARAVEL
 
-CARAVEL is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Mon, 14 Sept 2026, next at M7 Club, Barcelona on Wed, 23 Sept 2026.
+CARAVEL is a Techno and Industrial artist with 2 upcoming club dates listed on soundcheck as of Tue, 15 Sept 2026, next at M7 Club, Barcelona on Wed, 23 Sept 2026.
 
-CARAVEL is a techno and industrial artist tracked on soundcheck, with 121 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 40 more. Often billed alongside Tham, Cassie Raptor and KØZLØV. Next up: M7 Club, Barcelona on Wed 23 Sept.
+CARAVEL is a techno and industrial artist tracked on soundcheck, with 122 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 40 more. Often billed alongside Tham, Cassie Raptor and KØZLØV. Next up: M7 Club, Barcelona on Wed 23 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Wed, 23 Sept 2026 | M7 Club | Barcelona |
+| Sat, 24 Oct 2026 | Mia Mao | Paris |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ CARAVEL is a techno and industrial artist tracked on soundcheck, with 121 sets l
 
 Tham, Cassie Raptor, KØZLØV
 
-*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/caravel/)*
+*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/caravel/)*

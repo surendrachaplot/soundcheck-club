@@ -1,6 +1,6 @@
 # Tolo
 
-Tolo is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Mon, 14 Sept 2026, next at Turbina, Budapest on Sat, 10 Oct 2026.
+Tolo is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Tue, 15 Sept 2026, next at Turbina, Budapest on Sat, 10 Oct 2026.
 
 Tolo is a house and techno artist tracked on soundcheck, with 84 sets logged across Bangkok, Barcelona, Berlin and Budapest and 1 more. Often billed alongside Falcao, Adis Is OK and Daniel Moritz. Next up: Turbina, Budapest on Sat 10 Oct.
 
@@ -27,4 +27,4 @@ Tolo is a house and techno artist tracked on soundcheck, with 84 sets logged acr
 
 Falcao, Adis Is OK, Daniel Moritz
 
-*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tolo/)*
+*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tolo/)*

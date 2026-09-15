@@ -1,6 +1,6 @@
 # Mozhgan
 
-Mozhgan is a Techno and Acid artist with 9 upcoming club dates listed on soundcheck as of Mon, 14 Sept 2026, next at TBA - The Loom (2150 Livingston St, Oakland), San Francisco/Oakland on Fri, 18 Sept 2026.
+Mozhgan is a Techno and Acid artist with 9 upcoming club dates listed on soundcheck as of Tue, 15 Sept 2026, next at TBA - The Loom (2150 Livingston St, Oakland), San Francisco/Oakland on Fri, 18 Sept 2026.
 
 Mozhgan is a techno and acid artist tracked on soundcheck, with 94 sets logged across Amsterdam, Austin, Bali and Berlin and 20 more. Often billed alongside Solar, BMG and Carlos Souffront. Next up: TBA - The Loom (2150 Livingston St, Oakland), Sanfrancisco on Fri 18 Sept.
 
@@ -33,4 +33,4 @@ Mozhgan is a techno and acid artist tracked on soundcheck, with 94 sets logged a
 
 Solar, BMG, Carlos Souffront
 
-*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mozhgan-us/)*
+*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mozhgan-us/)*

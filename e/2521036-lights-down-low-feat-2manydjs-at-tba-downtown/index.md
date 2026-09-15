@@ -1,6 +1,6 @@
 # Lights Down Low feat 2ManyDJs at TBA - Downtown
 
-Lights Down Low feat 2ManyDJs at TBA - Downtown on Fri 18 Sept, Losangeles. 3 acts on the bill: 2ManyDJs, Corey Sizemore and Richie Panic. Preview the line-up and save it on soundcheck.
+Lights Down Low feat 2ManyDJs at TBA - Downtown on Fri 18 Sept, Losangeles. 4 acts on the bill: 2ManyDJs, Andi, Corey Sizemore and Richie Panic. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,6 +11,7 @@ Lights Down Low feat 2ManyDJs at TBA - Downtown on Fri 18 Sept, Losangeles. 3 ac
 ## Line-up
 
 - 2ManyDJs
+- Andi
 - Corey Sizemore
 - Richie Panic
 

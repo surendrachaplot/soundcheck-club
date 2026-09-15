@@ -1,6 +1,6 @@
 # Forward Sisters
 
-Forward Sisters is a Bass and Dub artist with 1 upcoming club date listed on soundcheck as of Mon, 14 Sept 2026, next at TBA - Secret Location (near Frankfurter Allee), London on Wed, 7 Oct 2026.
+Forward Sisters is a Bass and Dub artist with 1 upcoming club date listed on soundcheck as of Tue, 15 Sept 2026, next at TBA - Secret Location (near Frankfurter Allee), London on Wed, 7 Oct 2026.
 
 Forward Sisters is a bass and dub artist tracked on soundcheck, with 12 sets logged across Berlin and London. Often billed alongside Genoe, KaraKara and CHILDISH BAMBINO. Next up: TBA - Secret Location (near Frankfurter Allee), London on Wed 7 Oct.
 
@@ -25,4 +25,4 @@ Forward Sisters is a bass and dub artist tracked on soundcheck, with 12 sets log
 
 Genoe, KaraKara, CHILDISH BAMBINO
 
-*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/forwardsisters/)*
+*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/forwardsisters/)*

@@ -1,14 +1,15 @@
 # Mr. Freeze
 
-Mr. Freeze is a Electro and House artist with 1 upcoming club date listed on soundcheck as of Mon, 14 Sept 2026, next at TBA - Secret East London Location, London on Fri, 2 Oct 2026.
+Mr. Freeze is a House and Electro artist with 2 upcoming club dates listed on soundcheck as of Tue, 15 Sept 2026, next at TBA - Secret East London Location, London on Fri, 2 Oct 2026.
 
-Mr. Freeze is an electro and house artist based in United Kingdom, tracked on soundcheck, with 9 sets logged across London. Often billed alongside Sparky (AU), Daniel Pereira and Andy Kas. Next up: TBA - Secret East London Location, London on Fri 2 Oct.
+Mr. Freeze is a house and electro artist based in United Kingdom, tracked on soundcheck, with 10 sets logged across London. Often billed alongside Sparky (AU), Daniel Pereira and Andy Kas. Next up: TBA - Secret East London Location, London on Fri 2 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 2 Oct 2026 | TBA - Secret East London Location | London |
+| Sat, 7 Nov 2026 | TBA - Dalston | London |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Mr. Freeze is an electro and house artist based in United Kingdom, tracked on so
 
 Sparky (AU), Daniel Pereira, Andy Kas
 
-*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mr.freeze/)*
+*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mr.freeze/)*

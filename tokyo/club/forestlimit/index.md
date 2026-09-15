@@ -1,8 +1,8 @@
 # Forestlimit
 
-Forestlimit is a music venue in Tokyo with 27 upcoming nights listed on soundcheck as of Mon, 14 Sept 2026; the next is "Acid Pink 1st EP 'DPGK' release party 『Acid :Re Action!』" on Tue, 15 Sept 2026.
+Forestlimit is a music venue in Tokyo with 28 upcoming nights listed on soundcheck as of Tue, 15 Sept 2026; the next is "Acid Pink 1st EP 'DPGK' release party 『Acid :Re Action!』" on Tue, 15 Sept 2026.
 
-Forestlimit is a music venue in Tokyo listed on soundcheck. 27 upcoming nights, with line-ups including Acidclank, Aki Dolanikov, ANiIIIIiiiKii and arow and 2 more. Browse upcoming dates, start times and who's playing. 2-8-15 B15 Hatagaya K3 Building, Shibuya-ku Hatagaya, Tokyo.
+Forestlimit is a music venue in Tokyo listed on soundcheck. 28 upcoming nights, with line-ups including Acidclank, Aki Dolanikov, ANiIIIIiiiKii and arow and 2 more. Browse upcoming dates, start times and who's playing. 2-8-15 B15 Hatagaya K3 Building, Shibuya-ku Hatagaya, Tokyo.
 
 ## What's on
 
@@ -23,4 +23,4 @@ Forestlimit is a music venue in Tokyo listed on soundcheck. 27 upcoming nights, 
 
 2-8-15 B15 Hatagaya K3 Building, Shibuya-ku Hatagaya, Tokyo, Tokyo
 
-*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/forestlimit/)*
+*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/forestlimit/)*

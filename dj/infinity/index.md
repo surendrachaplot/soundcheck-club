@@ -1,6 +1,6 @@
 # INFINITY
 
-INFINITY is a Techno and Deep House artist with 1 upcoming club date listed on soundcheck as of Mon, 14 Sept 2026, next at Brown Alley, Melbourne on Fri, 16 Oct 2026.
+INFINITY is a Techno and Deep House artist with 1 upcoming club date listed on soundcheck as of Tue, 15 Sept 2026, next at Brown Alley, Melbourne on Fri, 16 Oct 2026.
 
 INFINITY is a techno and deep house artist based in Sri Lanka, tracked on soundcheck, with 2 sets logged across Melbourne. Often billed alongside Taglo, Gaston Gari and Kamilo Sanclemente. Next up: Brown Alley, Melbourne on Fri 16 Oct.
 
@@ -18,4 +18,4 @@ INFINITY is a techno and deep house artist based in Sri Lanka, tracked on soundc
 
 Taglo, Gaston Gari, Kamilo Sanclemente
 
-*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/infinity/)*
+*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/infinity/)*

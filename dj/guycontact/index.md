@@ -1,6 +1,6 @@
 # Guy Contact
 
-Guy Contact is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Mon, 14 Sept 2026, next at Second Story Studios, Melbourne on Fri, 25 Sept 2026.
+Guy Contact is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Tue, 15 Sept 2026, next at Second Story Studios, Melbourne on Fri, 25 Sept 2026.
 
 Guy Contact is a house and techno artist tracked on soundcheck, with 50 sets logged across Auckland, Berlin, Brussels and Dublin and 5 more. Often billed alongside Solar Suite, Bria and DJ Luv You. Next up: Second Story Studios, Melbourne on Fri 25 Sept.
 
@@ -26,4 +26,4 @@ Guy Contact is a house and techno artist tracked on soundcheck, with 50 sets log
 
 Solar Suite, Bria, DJ Luv You
 
-*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/guycontact/)*
+*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/guycontact/)*

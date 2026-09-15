@@ -1,8 +1,8 @@
 # Tunnel Club
 
-Tunnel Club is a music venue in Birmingham with 4 upcoming nights listed on soundcheck as of Mon, 14 Sept 2026; the next is "MODUL8 x A*S*Y*S - 100% Techno. 0% Compromise" on Fri, 25 Sept 2026.
+Tunnel Club is a music venue in Birmingham with 5 upcoming nights listed on soundcheck as of Tue, 15 Sept 2026; the next is "MODUL8 x A*S*Y*S - 100% Techno. 0% Compromise" on Fri, 25 Sept 2026.
 
-Tunnel Club is a music venue in Birmingham listed on soundcheck. 4 upcoming nights, with line-ups including ASLO, A*S*Y*S (2), Choronzon and DJ Pete and 2 more. Browse upcoming dates, start times and who's playing. Livery Street, Birmingham, B3 1HL, United Kingdom.
+Tunnel Club is a music venue in Birmingham listed on soundcheck. 5 upcoming nights, with line-ups including ASLO, A*S*Y*S (2), Choronzon and Chris Bayne and 2 more. Browse upcoming dates, start times and who's playing. Livery Street, Birmingham, B3 1HL, United Kingdom.
 
 ## What's on
 
@@ -12,9 +12,10 @@ Tunnel Club is a music venue in Birmingham listed on soundcheck. 4 upcoming nigh
 | Fri, 2 Oct 2026 | Regis invites @ Birmingham Techno: Tresor 35 with DJ Pete, Sleeparchive + more | Choronzon, DJ Pete, Gremlinz, Holsten, OAKE, Outer Heaven, Rangelova, Regis, Sleeparchive |
 | Fri, 30 Oct 2026 | HOUSE OF GOD HALLOWEEN 2026 |  |
 | Fri, 4 Dec 2026 | Birmingham Techno pres...2026 Finale (TBA) | Regis |
+| Sat, 12 Dec 2026 | Peach Legends UK Tour - Tunnel Club, Birmingham | Chris Bayne, Fisha, Signum |
 
 ## Address
 
 Livery Street, Birmingham, B3 1HL, United Kingdom, Birmingham
 
-*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/birmingham/club/tunnel-club/)*
+*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/birmingham/club/tunnel-club/)*

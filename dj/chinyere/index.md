@@ -1,6 +1,6 @@
 # Chinyere
 
-Chinyere is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 14 Sept 2026, next at KREUZWERK, Berlin on Fri, 16 Oct 2026.
+Chinyere is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 15 Sept 2026, next at KREUZWERK, Berlin on Fri, 16 Oct 2026.
 
 Chinyere is a house and techno artist based in Germany, tracked on soundcheck, with 34 sets logged across Berlin and Hamburg. Often billed alongside Cho Room, fluence and Laetizia. Next up: KREUZWERK, Berlin on Fri 16 Oct.
 
@@ -25,4 +25,4 @@ Chinyere is a house and techno artist based in Germany, tracked on soundcheck, w
 
 Cho Room, fluence, Laetizia
 
-*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/chinyere/)*
+*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/chinyere/)*

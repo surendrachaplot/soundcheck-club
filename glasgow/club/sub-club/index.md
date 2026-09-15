@@ -1,14 +1,13 @@
 # Sub Club
 
-Sub Club is a music venue in Glasgow with 34 upcoming nights listed on soundcheck as of Mon, 14 Sept 2026; the next is "BREATHE: MiNNA" on Mon, 14 Sept 2026.
+Sub Club is a music venue in Glasgow with 33 upcoming nights listed on soundcheck as of Tue, 15 Sept 2026; the next is "Freshers Drum & Bass + Jungle Special - Free Tickets" on Tue, 15 Sept 2026.
 
-Sub Club is a music venue in Glasgow listed on soundcheck. 34 upcoming nights, with line-ups including Alarico, Archie Hamilton, Avalon Emerson and AXION and 2 more. Browse upcoming dates, start times and who's playing. 22 Jamaica St; Glasgow, G1 4QD; Scotland; United Kingdom.
+Sub Club is a music venue in Glasgow listed on soundcheck. 33 upcoming nights, with line-ups including Alarico, Archie Hamilton, Avalon Emerson and AXION and 2 more. Browse upcoming dates, start times and who's playing. 22 Jamaica St; Glasgow, G1 4QD; Scotland; United Kingdom.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Mon, 14 Sept 2026 | BREATHE: MiNNA | Carmen Baía, Jamie Gunn, MiNNA |
 | Tue, 15 Sept 2026 | Freshers Drum & Bass + Jungle Special - Free Tickets |  |
 | Thu, 17 Sept 2026 | RARE Club // DJ Seinfeld | DJ Seinfeld, HAPOL |
 | Fri, 18 Sept 2026 | Céleste's End of Summer Rooftop Party + Afterparty | Céleste |
@@ -18,9 +17,10 @@ Sub Club is a music venue in Glasgow listed on soundcheck. 34 upcoming nights, w
 | Thu, 24 Sept 2026 | FLY / Patrick Mason - Glasgow | Patrick Mason, SKYLERMYLER |
 | Fri, 25 Sept 2026 | Polka Dot Disco Club invites La La ♡ Sub Club ‪‪♡ | Frankie Elyse, La La, Peeve |
 | Sat, 26 Sept 2026 | Subculture w/ Harri + Sedef Adasï | DJ Harri, Sedef Adasï |
+| Sun, 27 Sept 2026 | TBA | Frazi.er, Reece Pritchard |
 
 ## Address
 
 22 Jamaica St; Glasgow, G1 4QD; Scotland; United Kingdom, Glasgow
 
-*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/sub-club/)*
+*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/sub-club/)*

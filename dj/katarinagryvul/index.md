@@ -1,6 +1,6 @@
 # Katarina Gryvul
 
-Katarina Gryvul is a Experimental and Club artist with 1 upcoming club date listed on soundcheck as of Mon, 14 Sept 2026, next at Replika Teatro, Madrid on Sat, 19 Sept 2026.
+Katarina Gryvul is a Experimental and Club artist with 1 upcoming club date listed on soundcheck as of Tue, 15 Sept 2026, next at Replika Teatro, Madrid on Sat, 19 Sept 2026.
 
 Katarina Gryvul is an experimental and club artist based in Ukraine, tracked on soundcheck, with 12 sets logged across Amsterdam, Berlin, Geneva and Krakow and 7 more. Often billed alongside ABADIR, Diana Azzuz and Perila. Next up: Replika Teatro, Madrid on Sat 19 Sept.
 
@@ -25,4 +25,4 @@ Katarina Gryvul is an experimental and club artist based in Ukraine, tracked on 
 
 ABADIR, Diana Azzuz, Perila
 
-*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/katarinagryvul/)*
+*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/katarinagryvul/)*

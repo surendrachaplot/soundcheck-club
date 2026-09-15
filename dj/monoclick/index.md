@@ -1,6 +1,6 @@
 # Monoclick
 
-Monoclick is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Mon, 14 Sept 2026, next at Phonobar, San Francisco/Oakland on Sat, 26 Sept 2026.
+Monoclick is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Tue, 15 Sept 2026, next at Phonobar, San Francisco/Oakland on Sat, 26 Sept 2026.
 
 Monoclick is a house and minimal artist based in Hungary, tracked on soundcheck, with 85 sets logged across Budapest, Losangeles, Sandiego and Sanfrancisco. Often billed alongside Electric Boutique, Krane and James Houdini. Next up: Phonobar, Sanfrancisco on Sat 26 Sept.
 
@@ -25,4 +25,4 @@ Monoclick is a house and minimal artist based in Hungary, tracked on soundcheck,
 
 Electric Boutique, Krane, James Houdini
 
-*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/monoclick/)*
+*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/monoclick/)*

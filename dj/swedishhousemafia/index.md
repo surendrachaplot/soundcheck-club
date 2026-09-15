@@ -1,6 +1,6 @@
 # Swedish House Mafia
 
-Swedish House Mafia is a House and Progressive House artist with 1 upcoming club date listed on soundcheck as of Mon, 14 Sept 2026, next at TBA - Pier 80, San Francisco/Oakland on Sat, 26 Sept 2026.
+Swedish House Mafia is a House and Progressive House artist with 1 upcoming club date listed on soundcheck as of Tue, 15 Sept 2026, next at TBA - Pier 80, San Francisco/Oakland on Sat, 26 Sept 2026.
 
 Swedish House Mafia is a house and progressive house artist tracked on soundcheck, with 28 sets logged across Buenosaires, Ibiza, London and Madrid and 3 more. Often billed alongside AMÉMÉ, Arielle Free and Boys Noize. Next up: TBA - Pier 80, Sanfrancisco on Sat 26 Sept.
 
@@ -25,4 +25,4 @@ Swedish House Mafia is a house and progressive house artist tracked on soundchec
 
 AMÉMÉ, Arielle Free, Boys Noize
 
-*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/swedishhousemafia/)*
+*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/swedishhousemafia/)*

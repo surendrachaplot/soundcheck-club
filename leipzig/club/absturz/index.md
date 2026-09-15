@@ -1,6 +1,6 @@
 # Absturz
 
-Absturz is a music venue in Leipzig with 2 upcoming nights listed on soundcheck as of Mon, 14 Sept 2026; the next is "DOUBLE ERROR / B2B NIGHT" on Fri, 18 Sept 2026.
+Absturz is a music venue in Leipzig with 2 upcoming nights listed on soundcheck as of Tue, 15 Sept 2026; the next is "DOUBLE ERROR / B2B NIGHT" on Fri, 18 Sept 2026.
 
 Absturz is a music venue in Leipzig listed on soundcheck. 2 upcoming nights, with line-ups including isoSportler, Mariposa x Lyra, Oliotronix and SCHLAAKIII. Browse upcoming dates, start times and who's playing. Karl-Liebknecht-Str. 36, 04107 Leipzig.
 
@@ -15,4 +15,4 @@ Absturz is a music venue in Leipzig listed on soundcheck. 2 upcoming nights, wit
 
 Karl-Liebknecht-Str. 36, 04107 Leipzig, Leipzig
 
-*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/leipzig/club/absturz/)*
+*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/leipzig/club/absturz/)*

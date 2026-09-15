@@ -1,6 +1,6 @@
 # Yuka Sunflora
 
-Yuka Sunflora is a Breakbeat and House artist with 1 upcoming club date listed on soundcheck as of Mon, 14 Sept 2026, next at Bonobo, Tokyo on Fri, 18 Sept 2026.
+Yuka Sunflora is a Breakbeat and House artist with 1 upcoming club date listed on soundcheck as of Tue, 15 Sept 2026, next at Bonobo, Tokyo on Fri, 18 Sept 2026.
 
 Yuka Sunflora is a breakbeat and house artist tracked on soundcheck, with 7 sets logged across Tokyo. Often billed alongside HIZAT, Neon Noir and 35DH-1. Next up: Bonobo, Tokyo on Fri 18 Sept.
 
@@ -23,4 +23,4 @@ Yuka Sunflora is a breakbeat and house artist tracked on soundcheck, with 7 sets
 
 HIZAT, Neon Noir, 35DH-1
 
-*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/yukasunflora/)*
+*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/yukasunflora/)*

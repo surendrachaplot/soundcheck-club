@@ -1,6 +1,6 @@
 # Vjollca
 
-Vjollca is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 14 Sept 2026, next at Paradise Grapevine Winery, Toronto on Sat, 19 Sept 2026.
+Vjollca is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 15 Sept 2026, next at Paradise Grapevine Winery, Toronto on Sat, 19 Sept 2026.
 
 Vjollca is a house and techno artist based in Canada, tracked on soundcheck, with 22 sets logged across Toronto. Often billed alongside Kiki LeFreak, Milch (1) and Amedeo (CA). Next up: Paradise Grapevine Winery, Toronto on Sat 19 Sept.
 
@@ -25,4 +25,4 @@ Vjollca is a house and techno artist based in Canada, tracked on soundcheck, wit
 
 Kiki LeFreak, Milch (1), Amedeo (CA)
 
-*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/vjollca/)*
+*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/vjollca/)*

@@ -1,6 +1,6 @@
 # CRYME
 
-CRYME is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 14 Sept 2026, next at Fuse, Brussels on Sat, 3 Oct 2026.
+CRYME is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 15 Sept 2026, next at Fuse, Brussels on Sat, 3 Oct 2026.
 
 CRYME is a techno and house artist tracked on soundcheck, with 96 sets logged across Amsterdam, Athens, Berlin and Brussels and 21 more. Often billed alongside Rakans, VINVAR and SIBAST. Next up: Fuse, Brussels on Sat 3 Oct.
 
@@ -25,4 +25,4 @@ CRYME is a techno and house artist tracked on soundcheck, with 96 sets logged ac
 
 Rakans, VINVAR, SIBAST
 
-*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/cryme/)*
+*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/cryme/)*

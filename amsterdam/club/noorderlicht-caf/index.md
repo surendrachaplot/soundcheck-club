@@ -1,6 +1,6 @@
 # Noorderlicht Café
 
-Noorderlicht Café is a music venue in Amsterdam with 5 upcoming nights listed on soundcheck as of Mon, 14 Sept 2026; the next is "BHAE Festival" on Sat, 26 Sept 2026.
+Noorderlicht Café is a music venue in Amsterdam with 5 upcoming nights listed on soundcheck as of Tue, 15 Sept 2026; the next is "BHAE Festival" on Sat, 26 Sept 2026.
 
 Noorderlicht Café is a music venue in Amsterdam listed on soundcheck. 5 upcoming nights, with line-ups including Agustin Giri, Alden Tyrell, Alican and Andre Kronert and 2 more. Browse upcoming dates, start times and who's playing. NDSM-Plein 102, 1033 WB Amsterdam, Netherlands.
 
@@ -18,4 +18,4 @@ Noorderlicht Café is a music venue in Amsterdam listed on soundcheck. 5 upcomin
 
 NDSM-Plein 102, 1033 WB Amsterdam, Netherlands, Amsterdam
 
-*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/noorderlicht-caf/)*
+*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/noorderlicht-caf/)*

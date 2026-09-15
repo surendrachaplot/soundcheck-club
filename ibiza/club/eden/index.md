@@ -1,8 +1,8 @@
 # Eden
 
-Eden is a music venue in Ibiza with 10 upcoming nights listed on soundcheck as of Mon, 14 Sept 2026; the next is "ACTIN' BAD CLOSING PARTY (Presented by Holler At Me)" on Mon, 14 Sept 2026.
+Eden is a music venue in Ibiza with 9 upcoming nights listed on soundcheck as of Tue, 15 Sept 2026; the next is "ACTIN' BAD CLOSING PARTY (Presented by Holler At Me)" on Mon, 14 Sept 2026.
 
-Eden is a music venue in Ibiza listed on soundcheck. 10 upcoming nights, with line-ups including Fantasm, Gianni Di Bernardo, KARAH and Markus Schulz and 2 more. Browse upcoming dates, start times and who's playing. Carrer Salvador Espriu,  07820 San Antonio, Ibiza, Spain.
+Eden is a music venue in Ibiza listed on soundcheck. 9 upcoming nights, with line-ups including Fantasm, Gianni Di Bernardo, KARAH and Markus Schulz and 2 more. Browse upcoming dates, start times and who's playing. Carrer Salvador Espriu,  07820 San Antonio, Ibiza, Spain.
 
 ## What's on
 
@@ -10,7 +10,6 @@ Eden is a music venue in Ibiza listed on soundcheck. 10 upcoming nights, with li
 | --- | --- | --- |
 | Mon, 14 Sept 2026 | ACTIN' BAD CLOSING PARTY (Presented by Holler At Me) | Noel Holler |
 | Tue, 15 Sept 2026 | Galactica Ibiza closing with Fantasm, KARAH, Santos, Gianni Di Bernardo, Parsa Jafari | Fantasm, Gianni Di Bernardo, KARAH, Parsa Jafari, SANTØS |
-| Tue, 15 Sept 2026 | GALACTICA | KARAH |
 | Wed, 16 Sept 2026 | GARAGE NATION WEEK 6 |  |
 | Thu, 17 Sept 2026 | MARKUS SCHULZ - WEEK 4 | Markus Schulz |
 | Wed, 23 Sept 2026 | GARAGE NATION Closing Party |  |
@@ -23,4 +22,4 @@ Eden is a music venue in Ibiza listed on soundcheck. 10 upcoming nights, with li
 
 Carrer Salvador Espriu,  07820 San Antonio, Ibiza, Spain, Ibiza
 
-*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/ibiza/club/eden/)*
+*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/ibiza/club/eden/)*

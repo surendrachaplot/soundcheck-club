@@ -1,8 +1,8 @@
 # Blackstone Street Warehouse
 
-Blackstone Street Warehouse is a music venue in Liverpool with 9 upcoming nights listed on soundcheck as of Mon, 14 Sept 2026; the next is "Circus Birthday Liverpool Saturday 26th September" on Sat, 26 Sept 2026.
+Blackstone Street Warehouse is a music venue in Liverpool with 10 upcoming nights listed on soundcheck as of Tue, 15 Sept 2026; the next is "Circus Birthday Liverpool Saturday 26th September" on Sat, 26 Sept 2026.
 
-Blackstone Street Warehouse is a music venue in Liverpool listed on soundcheck. 9 upcoming nights, with line-ups including Above & Beyond, Amy Wiles, Black Traffic and blk. and 2 more. Browse upcoming dates, start times and who's playing. Blackstone Street, Liverpool, L5 9TL.
+Blackstone Street Warehouse is a music venue in Liverpool listed on soundcheck. 10 upcoming nights, with line-ups including Above & Beyond, Amy Wiles, Black Traffic and blk. and 2 more. Browse upcoming dates, start times and who's playing. Blackstone Street, Liverpool, L5 9TL.
 
 ## What's on
 
@@ -16,10 +16,11 @@ Blackstone Street Warehouse is a music venue in Liverpool listed on soundcheck. 
 | Sat, 7 Nov 2026 | Cloonee Presents Hellbent Liverpool | Cloonee |
 | Sat, 14 Nov 2026 | Glitterbox Liverpool |  |
 | Sun, 22 Nov 2026 | Circus presents Chris Stassy Sun 22nd Nov Liverpool | Chris Stassy, Jhobei, Marlie, Traumer |
+| Sat, 5 Dec 2026 | Morgan Seatree Liverpool | Morgan Seatree |
 | Sat, 12 Dec 2026 | Tiësto - Blackstone St Warehouse - Liverpool | Tiesto |
 
 ## Address
 
 Blackstone Street, Liverpool, L5 9TL, Liverpool
 
-*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/liverpool/club/blackstone-street-warehouse/)*
+*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/liverpool/club/blackstone-street-warehouse/)*

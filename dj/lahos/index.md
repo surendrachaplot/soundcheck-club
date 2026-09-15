@@ -1,13 +1,14 @@
 # Lahos
 
-Lahos is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 14 Sept 2026, next at Bootshaus, Cologne on Fri, 20 Nov 2026.
+Lahos is a Electro and Techno artist with 2 upcoming club dates listed on soundcheck as of Tue, 15 Sept 2026, next at Astra Kulturhaus, Berlin on Sat, 31 Oct 2026.
 
-Lahos is a techno and house artist based in Germany, tracked on soundcheck, with 9 sets logged across Berlin, Cologne and Hamburg. Often billed alongside Alle Farben, Damien N-Drix and Dennis Reif. Next up: Bootshaus, Cologne on Fri 20 Nov.
+Lahos is an electro and techno artist based in Germany, tracked on soundcheck, with 10 sets logged across Berlin, Cologne and Hamburg. Often billed alongside Alle Farben, Damien N-Drix and Dennis Reif. Next up: Astra Kulturhaus, Berlin on Sat 31 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 31 Oct 2026 | Astra Kulturhaus | Berlin |
 | Fri, 20 Nov 2026 | Bootshaus | Cologne |
 
 ## Recently played
@@ -25,4 +26,4 @@ Lahos is a techno and house artist based in Germany, tracked on soundcheck, with
 
 Alle Farben, Damien N-Drix, Dennis Reif
 
-*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lahos/)*
+*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lahos/)*

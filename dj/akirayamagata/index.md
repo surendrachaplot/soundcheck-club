@@ -1,6 +1,6 @@
 # Akira Yamagata
 
-Akira Yamagata is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Mon, 14 Sept 2026, next at Macadam, Nantes on Sun, 18 Oct 2026.
+Akira Yamagata is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Tue, 15 Sept 2026, next at Macadam, Nantes on Sun, 18 Oct 2026.
 
 Akira Yamagata is a techno and trance artist tracked on soundcheck, with 24 sets logged across Marseille, Nantes and Paris. Often billed alongside Combe, Youl and David David. Next up: Macadam, Nantes on Sun 18 Oct.
 
@@ -25,4 +25,4 @@ Akira Yamagata is a techno and trance artist tracked on soundcheck, with 24 sets
 
 Combe, Youl, David David
 
-*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/akirayamagata/)*
+*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/akirayamagata/)*

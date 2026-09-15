@@ -1,13 +1,15 @@
 # ZweiE
 
-ZweiE is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Mon, 14 Sept 2026, next at Odonien, Cologne on Sat, 14 Nov 2026.
+ZweiE is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Tue, 15 Sept 2026, next at TBA, Berlin on Sat, 19 Sept 2026.
 
-ZweiE is a techno and tech house artist based in Germany, tracked on soundcheck, with 22 sets logged across Berlin, Cologne and Warsaw. Often billed alongside Maurice Mino, Sin:port and Martin Ka. Next up: Odonien, Cologne on Sat 14 Nov.
+ZweiE is a techno and house artist based in Germany, tracked on soundcheck, with 24 sets logged across Berlin, Cologne and Warsaw. Often billed alongside Maurice Mino, Sin:port and Martin Ka. Next up: TBA, Berlin on Sat 19 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 19 Sept 2026 | TBA | Berlin |
+| Sat, 10 Oct 2026 | TBA | Berlin |
 | Sat, 14 Nov 2026 | Odonien | Cologne |
 
 ## Recently played
@@ -25,4 +27,4 @@ ZweiE is a techno and tech house artist based in Germany, tracked on soundcheck,
 
 Maurice Mino, Sin:port, Martin Ka
 
-*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/zweie/)*
+*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/zweie/)*

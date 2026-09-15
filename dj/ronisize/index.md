@@ -1,6 +1,6 @@
 # Roni Size
 
-Roni Size is a Drum & Bass and Jungle artist with 1 upcoming club date listed on soundcheck as of Mon, 14 Sept 2026, next at Outernet Live, London on Sat, 14 Nov 2026.
+Roni Size is a Drum & Bass and Jungle artist with 1 upcoming club date listed on soundcheck as of Tue, 15 Sept 2026, next at Outernet Live, London on Sat, 14 Nov 2026.
 
 Roni Size is a drum & bass and jungle artist tracked on soundcheck, with 73 sets logged across Amsterdam, Auckland, Barcelona and Birmingham and 26 more. Often billed alongside LTJ Bukem, Grooverider and Bryan Gee. Next up: Outernet Live, London on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ Roni Size is a drum & bass and jungle artist tracked on soundcheck, with 73 sets
 
 LTJ Bukem, Grooverider, Bryan Gee
 
-*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ronisize/)*
+*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ronisize/)*

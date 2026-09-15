@@ -1,6 +1,6 @@
 # Underground SF
 
-Underground SF is a music venue in San Francisco/Oakland with 5 upcoming nights listed on soundcheck as of Mon, 14 Sept 2026; the next is "IDP 11yr Anniversary" on Sat, 10 Oct 2026.
+Underground SF is a music venue in San Francisco/Oakland with 5 upcoming nights listed on soundcheck as of Tue, 15 Sept 2026; the next is "IDP 11yr Anniversary" on Sat, 10 Oct 2026.
 
 Underground SF is a music venue in Sanfrancisco listed on soundcheck. 5 upcoming nights, with line-ups including 9-System, Alexandernaut, ALICE STRIBLING and CHRI5PY and 2 more. Browse upcoming dates, start times and who's playing. 424 Haight St, San Francisco, CA 94117, United States.
 
@@ -18,4 +18,4 @@ Underground SF is a music venue in Sanfrancisco listed on soundcheck. 5 upcoming
 
 424 Haight St, San Francisco, CA 94117, United States, San Francisco/Oakland
 
-*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/underground-sf/)*
+*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/underground-sf/)*

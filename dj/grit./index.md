@@ -1,6 +1,6 @@
 # GRIT.
 
-GRIT. is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Mon, 14 Sept 2026, next at Hot Toddy's, London on Sat, 3 Oct 2026.
+GRIT. is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Tue, 15 Sept 2026, next at Hot Toddy's, London on Sat, 3 Oct 2026.
 
 GRIT. is a house and disco artist tracked on soundcheck, with 11 sets logged across London and Nottingham. Often billed alongside Danny Marx, DJ REz and Khoshekh. Next up: Hot Toddy's, London on Sat 3 Oct.
 
@@ -25,4 +25,4 @@ GRIT. is a house and disco artist tracked on soundcheck, with 11 sets logged acr
 
 Danny Marx, DJ REz, Khoshekh
 
-*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/grit./)*
+*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/grit./)*

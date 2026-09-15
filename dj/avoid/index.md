@@ -1,6 +1,6 @@
 # a//void
 
-a//void is a Minimal and House artist with 1 upcoming club date listed on soundcheck as of Mon, 14 Sept 2026, next at Minimüzikhol, Istanbul on Sat, 26 Sept 2026.
+a//void is a Minimal and House artist with 1 upcoming club date listed on soundcheck as of Tue, 15 Sept 2026, next at Minimüzikhol, Istanbul on Sat, 26 Sept 2026.
 
 a//void is a minimal and house artist tracked on soundcheck, with 3 sets logged across Istanbul. Often billed alongside Fault, Interval (2) and Kaan Keles. Next up: Minimüzikhol, Istanbul on Sat 26 Sept.
 
@@ -19,4 +19,4 @@ a//void is a minimal and house artist tracked on soundcheck, with 3 sets logged 
 
 Fault, Interval (2), Kaan Keles
 
-*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/avoid/)*
+*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/avoid/)*

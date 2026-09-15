@@ -1,8 +1,8 @@
 # M-BIA
 
-M-BIA is a music venue in Berlin with 13 upcoming nights listed on soundcheck as of Mon, 14 Sept 2026; the next is "Sanctus Harder Styles [Remzcore is back]" on Fri, 18 Sept 2026.
+M-BIA is a music venue in Berlin with 13 upcoming nights listed on soundcheck as of Tue, 15 Sept 2026; the next is "Sanctus Harder Styles [Remzcore is back]" on Fri, 18 Sept 2026.
 
-M-BIA is a music venue in Berlin listed on soundcheck. 13 upcoming nights, with line-ups including Deadly Guns, Holy Priest, K3VKO and Karamustan and 2 more. Browse upcoming dates, start times and who's playing. Dircksenstr. 123, 10178 Berlin.
+M-BIA is a music venue in Berlin listed on soundcheck. 13 upcoming nights, with line-ups including Deadly Guns, Gaya Carmeli, Holy Priest and K3VKO and 2 more. Browse upcoming dates, start times and who's playing. Dircksenstr. 123, 10178 Berlin.
 
 ## What's on
 
@@ -15,7 +15,7 @@ M-BIA is a music venue in Berlin listed on soundcheck. 13 upcoming nights, with 
 | Fri, 2 Oct 2026 | HARD SOLUTION with FURYAN • EYCER • CRACKY KOKSBERG • DISTRICT RED • PHIESI • REDMANN • ABZOCKA | Sei A, Techno Frühstück, Tekk, Tekk DJ'z |
 | Sat, 3 Oct 2026 | PsyLab Unity [Psytrance Rave] |  |
 | Fri, 9 Oct 2026 | SHØCC pres. Karamustan | Holy Priest, Karamustan |
-| Fri, 16 Oct 2026 | Bassquake by Vero |  |
+| Fri, 16 Oct 2026 | Bassquake by Vero | Gaya Carmeli, Vero_ |
 | Sat, 24 Oct 2026 | Goanautika w./ Bliss |  |
 | Fri, 30 Oct 2026 | Nyctophilia | NYXEA, SON!CA |
 
@@ -23,4 +23,4 @@ M-BIA is a music venue in Berlin listed on soundcheck. 13 upcoming nights, with 
 
 Dircksenstr. 123, 10178 Berlin, Berlin
 
-*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/m-bia/)*
+*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/m-bia/)*

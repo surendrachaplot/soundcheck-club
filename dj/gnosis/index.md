@@ -1,6 +1,6 @@
 # Gnosis
 
-Gnosis is a electronic artist with 1 upcoming club date listed on soundcheck as of Mon, 14 Sept 2026, next at Fuchs2, Prague on Thu, 24 Sept 2026.
+Gnosis is a electronic artist with 1 upcoming club date listed on soundcheck as of Tue, 15 Sept 2026, next at Fuchs2, Prague on Thu, 24 Sept 2026.
 
 Gnosis is an electronic artist tracked on soundcheck, with 2 sets logged across Budapest and Prague. Often billed alongside 96zen, Andre S. and Aurin. Next up: Fuchs2, Prague on Thu 24 Sept.
 
@@ -18,4 +18,4 @@ Gnosis is an electronic artist tracked on soundcheck, with 2 sets logged across 
 
 96zen, Andre S., Aurin
 
-*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/gnosis/)*
+*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/gnosis/)*

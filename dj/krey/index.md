@@ -1,6 +1,6 @@
 # Krey
 
-Krey is a electronic artist with 1 upcoming club date listed on soundcheck as of Mon, 14 Sept 2026, next at Klein Phönix, Istanbul on Fri, 25 Sept 2026.
+Krey is a electronic artist with 1 upcoming club date listed on soundcheck as of Tue, 15 Sept 2026, next at Klein Phönix, Istanbul on Fri, 25 Sept 2026.
 
 Krey is an electronic artist tracked on soundcheck, with 9 sets logged across Istanbul. Often billed alongside HZR (1), 19:26 and Adam Sellouk. Next up: Klein Phönix, Istanbul on Fri 25 Sept.
 
@@ -25,4 +25,4 @@ Krey is an electronic artist tracked on soundcheck, with 9 sets logged across Is
 
 HZR (1), 19:26, Adam Sellouk
 
-*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/krey/)*
+*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/krey/)*

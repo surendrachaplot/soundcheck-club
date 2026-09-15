@@ -1,6 +1,6 @@
 # Dave Clarke
 
-Dave Clarke is a Techno and Electro artist with 4 upcoming club dates listed on soundcheck as of Mon, 14 Sept 2026, next at Mia Mao, Paris on Sat, 19 Sept 2026.
+Dave Clarke is a Techno and Electro artist with 4 upcoming club dates listed on soundcheck as of Tue, 15 Sept 2026, next at Mia Mao, Paris on Sat, 19 Sept 2026.
 
 Dave Clarke is a techno and electro artist tracked on soundcheck, with 99 sets logged across Amsterdam, Antwerp, Barcelona and Belfast and 33 more. Often billed alongside Sama' Abdulhadi, Dasha Rush and Bloody Mary. Next up: Mia Mao, Paris on Sat 19 Sept.
 
@@ -28,4 +28,4 @@ Dave Clarke is a techno and electro artist tracked on soundcheck, with 99 sets l
 
 Sama' Abdulhadi, Dasha Rush, Bloody Mary
 
-*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/daveclarke/)*
+*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/daveclarke/)*

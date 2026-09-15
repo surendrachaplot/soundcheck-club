@@ -1,8 +1,8 @@
 # Standard Time
 
-Standard Time is a music venue in Toronto with 12 upcoming nights listed on soundcheck as of Mon, 14 Sept 2026; the next is "Vladimir Ivkovic b2b Yu Su - OPEN to CLOSE" on Fri, 18 Sept 2026.
+Standard Time is a music venue in Toronto with 13 upcoming nights listed on soundcheck as of Tue, 15 Sept 2026; the next is "Vladimir Ivkovic b2b Yu Su - OPEN to CLOSE" on Fri, 18 Sept 2026.
 
-Standard Time is a music venue in Toronto listed on soundcheck. 12 upcoming nights, with line-ups including CCL, Ciel, Dusky and HXF (JEEP MIX) and 2 more. Browse upcoming dates, start times and who's playing. 165 Geary Ave Toronto, ON M6H 2B8, Canada.
+Standard Time is a music venue in Toronto listed on soundcheck. 13 upcoming nights, with line-ups including Amedeo (CA), CCL, Ciel and Dusky and 2 more. Browse upcoming dates, start times and who's playing. 165 Geary Ave Toronto, ON M6H 2B8, Canada.
 
 ## What's on
 
@@ -14,13 +14,13 @@ Standard Time is a music venue in Toronto listed on soundcheck. 12 upcoming nigh
 | Thu, 1 Oct 2026 | MYRNE (3 Hour Set) at Standard Time | MYRNE |
 | Sun, 4 Oct 2026 | Ciel invites: CCL | CCL, Ciel |
 | Sun, 11 Oct 2026 | Dusky (Extended Set) at Standard Time | Dusky |
-| Fri, 16 Oct 2026 | Odd Soul featuring Keys N Krates and Guests TBA | Keys N Krates |
+| Fri, 16 Oct 2026 | Odd Soul featuring Keys N Krates b2b LOSTBOYJAY | Keys N Krates, LOSTBOYJAY |
 | Sat, 17 Oct 2026 | Shed presented by Cure x Standard Time | Oray, Shed |
 | Sat, 24 Oct 2026 | Rick Wilhite, HAF S  presented by Jeep Mix and Standard Time | HXF (JEEP MIX), Rick Wilhite |
-| Thu, 5 Nov 2026 | Teal (Live), Prince Nifty and DJ Snack Time presented by Not Dead Yet and Standard Time | Teal |
+| Fri, 30 Oct 2026 | An ASNM Halloween with Kanyon (NYC), Tony Price, Miss Kleio, & Amedeo | Amedeo (CA), Kanyon, Miss Kleio, Tony Price |
 
 ## Address
 
 165 Geary Ave Toronto, ON M6H 2B8, Canada, Toronto
 
-*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/standard-time/)*
+*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/standard-time/)*

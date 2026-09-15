@@ -1,6 +1,6 @@
 # Pascal Fischer
 
-Pascal Fischer is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 14 Sept 2026, next at OXI, Berlin on Sun, 20 Sept 2026.
+Pascal Fischer is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 15 Sept 2026, next at OXI, Berlin on Sun, 20 Sept 2026.
 
 Pascal Fischer is a techno and house artist based in Germany, tracked on soundcheck, with 24 sets logged across Berlin, Frankfurt and Helsinki. Often billed alongside Frankie Flowerz, Mischeel Amar and Monokultur. Next up: OXI, Berlin on Sun 20 Sept.
 
@@ -25,4 +25,4 @@ Pascal Fischer is a techno and house artist based in Germany, tracked on soundch
 
 Frankie Flowerz, Mischeel Amar, Monokultur
 
-*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/pascalfischer/)*
+*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/pascalfischer/)*

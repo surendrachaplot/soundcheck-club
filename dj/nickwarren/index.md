@@ -1,6 +1,6 @@
 # Nick Warren
 
-Nick Warren is a Progressive House and House artist with 12 upcoming club dates listed on soundcheck as of Mon, 14 Sept 2026, next at Q Nightclub, Seattle on Sat, 19 Sept 2026.
+Nick Warren is a Progressive House and House artist with 12 upcoming club dates listed on soundcheck as of Tue, 15 Sept 2026, next at Q Nightclub, Seattle on Sat, 19 Sept 2026.
 
 Nick Warren is a progressive house and house artist tracked on soundcheck, with 135 sets logged across Amsterdam, Athens, Bali and Barcelona and 35 more. Often billed alongside Hernan Cattaneo, Martin Fredes and Sasha. Next up: Q Nightclub, Seattle on Sat 19 Sept.
 
@@ -36,4 +36,4 @@ Nick Warren is a progressive house and house artist tracked on soundcheck, with 
 
 Hernan Cattaneo, Martin Fredes, Sasha
 
-*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nickwarren/)*
+*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nickwarren/)*

@@ -1,6 +1,6 @@
 # Juan aka grizzly
 
-Juan aka grizzly is a House and Baile Funk artist with 1 upcoming club date listed on soundcheck as of Mon, 14 Sept 2026, next at Podlasie Club, Chicago on Thu, 1 Oct 2026.
+Juan aka grizzly is a House and Baile Funk artist with 1 upcoming club date listed on soundcheck as of Tue, 15 Sept 2026, next at Podlasie Club, Chicago on Thu, 1 Oct 2026.
 
 Juan aka grizzly is a house and baile funk artist tracked on soundcheck, with 7 sets logged across Chicago. Often billed alongside BiLatinBby, DJ GayBash! and Glamour Cadaver. Next up: Podlasie Club, Chicago on Thu 1 Oct.
 
@@ -23,4 +23,4 @@ Juan aka grizzly is a house and baile funk artist tracked on soundcheck, with 7 
 
 BiLatinBby, DJ GayBash!, Glamour Cadaver
 
-*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/juanakagrizzly/)*
+*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/juanakagrizzly/)*

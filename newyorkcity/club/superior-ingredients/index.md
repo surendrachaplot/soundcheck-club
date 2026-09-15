@@ -1,6 +1,6 @@
 # Superior Ingredients
 
-Superior Ingredients is a music venue in New York City with 6 upcoming nights listed on soundcheck as of Mon, 14 Sept 2026; the next is "DOUBLEHEADER: ALT8 x Pawlowski" on Fri, 2 Oct 2026.
+Superior Ingredients is a music venue in New York City with 6 upcoming nights listed on soundcheck as of Tue, 15 Sept 2026; the next is "DOUBLEHEADER: ALT8 x Pawlowski" on Fri, 2 Oct 2026.
 
 Superior Ingredients is a music venue in Newyorkcity listed on soundcheck. 6 upcoming nights, with line-ups including ALT8, Collin Oliver, Cosmic Gate and Ford Scott and 2 more. Browse upcoming dates, start times and who's playing. 74 Wythe Avenue, Brooklyn, NY 11249.
 
@@ -19,4 +19,4 @@ Superior Ingredients is a music venue in Newyorkcity listed on soundcheck. 6 upc
 
 74 Wythe Avenue, Brooklyn, NY 11249, New York City
 
-*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/superior-ingredients/)*
+*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/superior-ingredients/)*

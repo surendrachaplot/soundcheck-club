@@ -1,14 +1,15 @@
 # Tommy The Cat
 
-Tommy The Cat is a Jungle and Hardcore artist with 1 upcoming club date listed on soundcheck as of Mon, 14 Sept 2026, next at OT301, Amsterdam on Fri, 2 Oct 2026.
+Tommy The Cat is a Jungle and Hardcore artist with 2 upcoming club dates listed on soundcheck as of Tue, 15 Sept 2026, next at OT301, Amsterdam on Fri, 2 Oct 2026.
 
-Tommy The Cat is a jungle and hardcore artist tracked on soundcheck, with 13 sets logged across Amsterdam, Antwerp and London. Often billed alongside Hughesee, Louise Plus One and Coco Bryce. Next up: OT301, Amsterdam on Fri 2 Oct.
+Tommy The Cat is a jungle and hardcore artist tracked on soundcheck, with 14 sets logged across Amsterdam, Antwerp and London. Often billed alongside Hughesee, Louise Plus One and Coco Bryce. Next up: OT301, Amsterdam on Fri 2 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 2 Oct 2026 | OT301 | Amsterdam |
+| Sat, 17 Oct 2026 | M.O.T | London |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Tommy The Cat is a jungle and hardcore artist tracked on soundcheck, with 13 set
 
 Hughesee, Louise Plus One, Coco Bryce
 
-*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tommythecat/)*
+*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tommythecat/)*

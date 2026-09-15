@@ -1,14 +1,13 @@
 # Hï Ibiza
 
-Hï Ibiza is a music venue in Ibiza with 24 upcoming nights listed on soundcheck as of Mon, 14 Sept 2026; the next is "Francis Mercier presents Solèy" on Mon, 14 Sept 2026.
+Hï Ibiza is a music venue in Ibiza with 23 upcoming nights listed on soundcheck as of Tue, 15 Sept 2026; the next is "East End Dubs presents Eastenderz" on Tue, 15 Sept 2026.
 
-Hï Ibiza is a music venue in Ibiza listed on soundcheck. 24 upcoming nights, with line-ups including Adam Beyer, Adam Ten, A For Alpha and AJNA and 2 more. Browse upcoming dates, start times and who's playing. Platja d''en Bossa s/n, 07817 Sant Josep de sa Talaia, Balearic Islands, Spain.
+Hï Ibiza is a music venue in Ibiza listed on soundcheck. 23 upcoming nights, with line-ups including Adam Beyer, Adam Ten, A For Alpha and AJNA and 2 more. Browse upcoming dates, start times and who's playing. Platja d''en Bossa s/n, 07817 Sant Josep de sa Talaia, Balearic Islands, Spain.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Mon, 14 Sept 2026 | Francis Mercier presents Solèy | Andrea Oliva, Bantu, Cincity, Francis Mercier, HoneyLuv, KILIMANJARO, Kolsch, Patrick Mason |
 | Tue, 15 Sept 2026 | East End Dubs presents Eastenderz | Chinonegro, East End Dubs, Gaskin, Lola Palmer, Luuk van Dijk, Marco Carola, Paco Osuna |
 | Wed, 16 Sept 2026 | MEDUZA & James Hype present OUR HOUSE | Butch, DREYA, James Hype (UK), Jonas Blue, Meduza, RUZE |
 | Thu, 17 Sept 2026 | Hugel presents Make The Girls Dance | AMÉMÉ, Benny Benassi, David Tort, Hugel, Miss Monique, NAUTIK, Volkoder |
@@ -18,9 +17,10 @@ Hï Ibiza is a music venue in Ibiza listed on soundcheck. 24 upcoming nights, wi
 | Mon, 21 Sept 2026 | Francis Mercier presents Solèy | Andrea Oliva, Francis Mercier, Michael Mayer, Nick Castle, Nitefreak, Raxon |
 | Tue, 22 Sept 2026 | East End Dubs presents Eastenderz | East End Dubs, Iglesias, Laidlaw, Luciano, Paco Osuna, Reeshy, bullet tooth |
 | Tue, 22 Sept 2026 | Eastenderz at HI IBIZA |  |
+| Wed, 23 Sept 2026 | MEDUZA & James Hype present OUR HOUSE | James Hype (UK), Jonas Blue, Meduza, The Blessed Madonna |
 
 ## Address
 
 Platja d''en Bossa s/n, 07817 Sant Josep de sa Talaia, Balearic Islands, Spain, Ibiza
 
-*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/ibiza/club/h-ibiza/)*
+*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/ibiza/club/h-ibiza/)*

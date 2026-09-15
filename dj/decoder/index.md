@@ -1,6 +1,6 @@
 # Decoder
 
-Decoder is a Techno and Minimal Techno artist with 6 upcoming club dates listed on soundcheck as of Mon, 14 Sept 2026, next at The Villa, Oslo on Fri, 25 Sept 2026.
+Decoder is a Techno and Minimal Techno artist with 6 upcoming club dates listed on soundcheck as of Tue, 15 Sept 2026, next at The Villa, Oslo on Fri, 25 Sept 2026.
 
 Decoder is a techno and minimal techno artist tracked on soundcheck, with 90 sets logged across Amsterdam, Athens, Austin and Barcelona and 33 more. Often billed alongside jay york, Barbosa and Lindsey Herbert. Next up: The Villa, Oslo on Fri 25 Sept.
 
@@ -30,4 +30,4 @@ Decoder is a techno and minimal techno artist tracked on soundcheck, with 90 set
 
 jay york, Barbosa, Lindsey Herbert
 
-*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/decoder/)*
+*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/decoder/)*

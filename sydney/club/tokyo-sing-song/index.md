@@ -1,6 +1,6 @@
 # Tokyo Sing Song
 
-Tokyo Sing Song is a music venue in Sydney with 1 upcoming night listed on soundcheck as of Mon, 14 Sept 2026; the next is "Hardwire / Mabel, Clem & Mina Tonic" on Sat, 19 Sept 2026.
+Tokyo Sing Song is a music venue in Sydney with 1 upcoming night listed on soundcheck as of Tue, 15 Sept 2026; the next is "Hardwire / Mabel, Clem & Mina Tonic" on Sat, 19 Sept 2026.
 
 Tokyo Sing Song is a music venue in Sydney listed on soundcheck. 1 upcoming night, with line-ups including Mabel and Mina Tonic. Browse upcoming dates, start times and who's playing. 145 King Street, Newtown NSW 2043, Australia.
 
@@ -14,4 +14,4 @@ Tokyo Sing Song is a music venue in Sydney listed on soundcheck. 1 upcoming nigh
 
 145 King Street, Newtown NSW 2043, Australia, Sydney
 
-*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/sydney/club/tokyo-sing-song/)*
+*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/sydney/club/tokyo-sing-song/)*

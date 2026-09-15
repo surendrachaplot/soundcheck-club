@@ -1,6 +1,6 @@
 # JPYE
 
-JPYE is a Disco and House artist with 1 upcoming club date listed on soundcheck as of Mon, 14 Sept 2026, next at Les Lionnes, Paris on Sun, 4 Oct 2026.
+JPYE is a Disco and House artist with 1 upcoming club date listed on soundcheck as of Tue, 15 Sept 2026, next at Les Lionnes, Paris on Sun, 4 Oct 2026.
 
 JPYE is a disco and house artist based in France, tracked on soundcheck, with 20 sets logged across Paris. Often billed alongside Yaël Ohayon, Alex From Tokyo and Danny Fortunato. Next up: Les Lionnes, Paris on Sun 4 Oct.
 
@@ -25,4 +25,4 @@ JPYE is a disco and house artist based in France, tracked on soundcheck, with 20
 
 Yaël Ohayon, Alex From Tokyo, Danny Fortunato
 
-*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jpye/)*
+*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jpye/)*

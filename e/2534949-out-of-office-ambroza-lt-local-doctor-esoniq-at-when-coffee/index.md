@@ -1,6 +1,6 @@
 # Out of Office: Ambroza /LT/ + Local: Doctor & Esoniq at When Coffee Meets Whisky
 
-Out of Office: Ambroza /LT/ + Local: Doctor & Esoniq at When Coffee Meets Whisky on Fri 18 Sept, Riga. 2 acts on the bill: Ambroza and Esoniq. Acid and Electro. Preview the line-up and save it on soundcheck.
+Out of Office: Ambroza /LT/ + Local: Doctor & Esoniq at When Coffee Meets Whisky on Fri 18 Sept, Riga. 2 acts on the bill: Ambroza and Esoniq. Electro and Acid. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

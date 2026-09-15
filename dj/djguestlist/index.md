@@ -1,6 +1,6 @@
 # DJ GUESTLIST
 
-DJ GUESTLIST is a Techno and Trance artist with 4 upcoming club dates listed on soundcheck as of Mon, 14 Sept 2026, next at Superordinary, Brisbane on Fri, 18 Sept 2026.
+DJ GUESTLIST is a Techno and Trance artist with 4 upcoming club dates listed on soundcheck as of Tue, 15 Sept 2026, next at Superordinary, Brisbane on Fri, 18 Sept 2026.
 
 DJ GUESTLIST is a techno and trance artist tracked on soundcheck, with 127 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 25 more. Often billed alongside Paraçek, DJ Traytex and KLING&KLANG. Next up: Superordinary, Brisbane on Fri 18 Sept.
 
@@ -28,4 +28,4 @@ DJ GUESTLIST is a techno and trance artist tracked on soundcheck, with 127 sets 
 
 Paraçek, DJ Traytex, KLING&KLANG
 
-*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djguestlist/)*
+*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djguestlist/)*

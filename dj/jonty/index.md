@@ -1,6 +1,6 @@
 # Jonty
 
-Jonty is a Tech House and Disco artist with 1 upcoming club date listed on soundcheck as of Mon, 14 Sept 2026, next at Brixton Radio, London on Sat, 19 Sept 2026.
+Jonty is a Tech House and Disco artist with 1 upcoming club date listed on soundcheck as of Tue, 15 Sept 2026, next at Brixton Radio, London on Sat, 19 Sept 2026.
 
 Jonty is a tech house and disco artist based in United Kingdom, tracked on soundcheck, with 5 sets logged across Bristol, Edinburgh and London. Often billed alongside Dezz, ADHDj (UK) and AMELITA (2). Next up: Brixton Radio, London on Sat 19 Sept.
 
@@ -21,4 +21,4 @@ Jonty is a tech house and disco artist based in United Kingdom, tracked on sound
 
 Dezz, ADHDj (UK), AMELITA (2)
 
-*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jonty/)*
+*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jonty/)*

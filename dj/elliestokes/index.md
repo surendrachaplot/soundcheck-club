@@ -1,6 +1,6 @@
 # Ellie Stokes
 
-Ellie Stokes is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 14 Sept 2026, next at Strange Brew, Bristol on Fri, 25 Sept 2026.
+Ellie Stokes is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 15 Sept 2026, next at Strange Brew, Bristol on Fri, 25 Sept 2026.
 
 Ellie Stokes is a house and techno artist tracked on soundcheck, with 90 sets logged across Athens, Barcelona, Belgrade and Berlin and 16 more. Often billed alongside Chez de Milo, Dave Harvey and Ivan Smagghe. Next up: Strange Brew, Bristol on Fri 25 Sept.
 
@@ -25,4 +25,4 @@ Ellie Stokes is a house and techno artist tracked on soundcheck, with 90 sets lo
 
 Chez de Milo, Dave Harvey, Ivan Smagghe
 
-*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/elliestokes/)*
+*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/elliestokes/)*

@@ -1,6 +1,6 @@
 # Coffintexts
 
-Coffintexts is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Mon, 14 Sept 2026, next at Refuge, New York City on Sat, 19 Sept 2026.
+Coffintexts is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Tue, 15 Sept 2026, next at Refuge, New York City on Sat, 19 Sept 2026.
 
 Coffintexts is a techno and house artist tracked on soundcheck, with 129 sets logged across Amsterdam, Austin, Barcelona and Berlin and 30 more. Often billed alongside Sister System, SATURNSARii and Berrakka. Next up: Refuge, Newyorkcity on Sat 19 Sept.
 
@@ -28,4 +28,4 @@ Coffintexts is a techno and house artist tracked on soundcheck, with 129 sets lo
 
 Sister System, SATURNSARii, Berrakka
 
-*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/coffintexts/)*
+*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/coffintexts/)*

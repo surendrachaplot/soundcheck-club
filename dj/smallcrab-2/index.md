@@ -1,6 +1,6 @@
 # Small Crab (2)
 
-Small Crab (2) is a Bass and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 14 Sept 2026, next at Cakeshop, Seoul on Sat, 26 Sept 2026.
+Small Crab (2) is a Bass and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 15 Sept 2026, next at Cakeshop, Seoul on Sat, 26 Sept 2026.
 
 Small Crab (2) is a bass and techno artist based in Germany, tracked on soundcheck, with 42 sets logged across Belfast, Berlin, Bristol and Dublin and 11 more. Often billed alongside Angel Cat, Syz and Jay Carder. Next up: Cakeshop, Seoul on Sat 26 Sept.
 
@@ -25,4 +25,4 @@ Small Crab (2) is a bass and techno artist based in Germany, tracked on soundche
 
 Angel Cat, Syz, Jay Carder
 
-*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/smallcrab-2/)*
+*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/smallcrab-2/)*

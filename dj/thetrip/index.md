@@ -1,6 +1,6 @@
 # The Trip
 
-The Trip is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Mon, 14 Sept 2026, next at Café Schöne Aussichten (CSA), Hamburg on Sat, 19 Sept 2026.
+The Trip is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Tue, 15 Sept 2026, next at Café Schöne Aussichten (CSA), Hamburg on Sat, 19 Sept 2026.
 
 The Trip is a house and techno artist tracked on soundcheck, with 84 sets logged across Amsterdam, Antwerp, Barcelona and Berlin and 21 more. Often billed alongside Phill de Janeiro, Sam Alfred and Benji King. Next up: Café Schöne Aussichten (CSA), Hamburg on Sat 19 Sept.
 
@@ -29,4 +29,4 @@ The Trip is a house and techno artist tracked on soundcheck, with 84 sets logged
 
 Phill de Janeiro, Sam Alfred, Benji King
 
-*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/thetrip/)*
+*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/thetrip/)*

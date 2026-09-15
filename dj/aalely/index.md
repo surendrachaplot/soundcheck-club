@@ -1,6 +1,6 @@
 # A'alely
 
-A'alely is a House and Electronica artist with 1 upcoming club date listed on soundcheck as of Mon, 14 Sept 2026, next at RASA, Singapore on Fri, 2 Oct 2026.
+A'alely is a House and Electronica artist with 1 upcoming club date listed on soundcheck as of Tue, 15 Sept 2026, next at RASA, Singapore on Fri, 2 Oct 2026.
 
 A'alely is a house and electronica artist tracked on soundcheck, with 3 sets logged across Singapore. Often billed alongside Dangdude, Dexter Colt and Interstellar Funk. Next up: RASA, Singapore on Fri 2 Oct.
 
@@ -19,4 +19,4 @@ A'alely is a house and electronica artist tracked on soundcheck, with 3 sets log
 
 Dangdude, Dexter Colt, Interstellar Funk
 
-*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/aalely/)*
+*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/aalely/)*

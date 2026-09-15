@@ -1,6 +1,6 @@
 # Rohaan
 
-Rohaan is a Drum & Bass and Bass artist with 4 upcoming club dates listed on soundcheck as of Mon, 14 Sept 2026, next at Village Studios, Vancouver on Fri, 18 Sept 2026.
+Rohaan is a Drum & Bass and Bass artist with 4 upcoming club dates listed on soundcheck as of Tue, 15 Sept 2026, next at Village Studios, Vancouver on Fri, 18 Sept 2026.
 
 Rohaan is a drum & bass and bass artist based in United Kingdom, tracked on soundcheck, with 29 sets logged across Auckland, Brighton, Brisbane and Bristol and 16 more. Often billed alongside Buunshin, Ivy Lab and D Double E. Next up: Village Studios, Vancouver on Fri 18 Sept.
 
@@ -28,4 +28,4 @@ Rohaan is a drum & bass and bass artist based in United Kingdom, tracked on soun
 
 Buunshin, Ivy Lab, D Double E
 
-*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/rohaan/)*
+*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/rohaan/)*

@@ -1,6 +1,6 @@
 # Secret Location
 
-Secret Location is a music venue in London with 6 upcoming nights listed on soundcheck as of Mon, 14 Sept 2026; the next is "The Yard x Maze pres. Le Derniere Goût d'Été" on Sat, 19 Sept 2026.
+Secret Location is a music venue in London with 6 upcoming nights listed on soundcheck as of Tue, 15 Sept 2026; the next is "The Yard x Maze pres. Le Derniere Goût d'Été" on Sat, 19 Sept 2026.
 
 Secret Location is a music venue in London listed on soundcheck. 6 upcoming nights, with line-ups including Andelet3, External Subway, James Shinra and Kakura and 2 more. Browse upcoming dates, start times and who's playing. To Be Announced.
 
@@ -19,4 +19,4 @@ Secret Location is a music venue in London listed on soundcheck. 6 upcoming nigh
 
 To Be Announced, London
 
-*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/secret-location/)*
+*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/secret-location/)*

@@ -1,6 +1,6 @@
 # The Racket Space
 
-The Racket Space is a music venue in Dublin with 12 upcoming nights listed on soundcheck as of Mon, 14 Sept 2026; the next is "Secret Cells Vol 1" on Thu, 17 Sept 2026.
+The Racket Space is a music venue in Dublin with 12 upcoming nights listed on soundcheck as of Tue, 15 Sept 2026; the next is "Secret Cells Vol 1" on Thu, 17 Sept 2026.
 
 The Racket Space is a music venue in Dublin listed on soundcheck. 12 upcoming nights, with line-ups including Blimp, Cailín, camoufly and Dan J. Wilcox and 2 more. Browse upcoming dates, start times and who's playing. Cross Guns Bridge, Drumcondra, Dublin 9, D09 XW44.
 
@@ -23,4 +23,4 @@ The Racket Space is a music venue in Dublin listed on soundcheck. 12 upcoming ni
 
 Cross Guns Bridge, Drumcondra, Dublin 9, D09 XW44, Dublin
 
-*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/dublin/club/the-racket-space/)*
+*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/dublin/club/the-racket-space/)*

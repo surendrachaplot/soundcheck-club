@@ -1,6 +1,6 @@
 # Jay Galligan
 
-Jay Galligan is a Techno and Electro artist with 2 upcoming club dates listed on soundcheck as of Mon, 14 Sept 2026, next at Cosies, Bristol on Fri, 25 Sept 2026.
+Jay Galligan is a Techno and Electro artist with 2 upcoming club dates listed on soundcheck as of Tue, 15 Sept 2026, next at Cosies, Bristol on Fri, 25 Sept 2026.
 
 Jay Galligan is a techno and electro artist based in Ireland, tracked on soundcheck, with 15 sets logged across Bristol, Cork, Dublin and London and 2 more. Often billed alongside Ario, Lynne and RS Tangent. Next up: Cosies, Bristol on Fri 25 Sept.
 
@@ -26,4 +26,4 @@ Jay Galligan is a techno and electro artist based in Ireland, tracked on soundch
 
 Ario, Lynne, RS Tangent
 
-*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jaygalligan/)*
+*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jaygalligan/)*

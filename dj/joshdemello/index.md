@@ -1,6 +1,6 @@
 # Josh Demello
 
-Josh Demello is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Mon, 14 Sept 2026, next at TESTBED, Leeds on Fri, 13 Nov 2026.
+Josh Demello is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Tue, 15 Sept 2026, next at TESTBED, Leeds on Fri, 13 Nov 2026.
 
 Josh Demello is a house and tech house artist tracked on soundcheck, with 19 sets logged across Leeds. Often billed alongside Reeshy, Holly Why and Kepler. Next up: TESTBED, Leeds on Fri 13 Nov.
 
@@ -25,4 +25,4 @@ Josh Demello is a house and tech house artist tracked on soundcheck, with 19 set
 
 Reeshy, Holly Why, Kepler
 
-*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/joshdemello/)*
+*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/joshdemello/)*

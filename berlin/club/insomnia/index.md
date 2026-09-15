@@ -1,6 +1,6 @@
 # Insomnia
 
-Insomnia is a music venue in Berlin with 21 upcoming nights listed on soundcheck as of Mon, 14 Sept 2026; the next is "FLASHBACK FRIDAY! Berlin's Hottest Kinky 90s–00s Throwback Party" on Fri, 18 Sept 2026.
+Insomnia is a music venue in Berlin with 21 upcoming nights listed on soundcheck as of Tue, 15 Sept 2026; the next is "FLASHBACK FRIDAY! Berlin's Hottest Kinky 90s–00s Throwback Party" on Fri, 18 Sept 2026.
 
 Insomnia is a music venue in Berlin listed on soundcheck. 21 upcoming nights, with line-ups including ANAMORPH_, BOOTHBUNNY, djst4rlight and ELEETE and 2 more. Browse upcoming dates, start times and who's playing. Alt-Tempelhof 17-19, 12099 Berlin.
 
@@ -23,4 +23,4 @@ Insomnia is a music venue in Berlin listed on soundcheck. 21 upcoming nights, wi
 
 Alt-Tempelhof 17-19, 12099 Berlin, Berlin
 
-*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/insomnia/)*
+*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/insomnia/)*

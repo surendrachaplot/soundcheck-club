@@ -1,6 +1,6 @@
 # High Tide
 
-High Tide is a music venue in Los Angeles with 3 upcoming nights listed on soundcheck as of Mon, 14 Sept 2026; the next is "Rich Medina: HOME (All Night Set) House, Rare Groove, Garage Classics" on Sat, 26 Sept 2026.
+High Tide is a music venue in Los Angeles with 3 upcoming nights listed on soundcheck as of Tue, 15 Sept 2026; the next is "Rich Medina: HOME (All Night Set) House, Rare Groove, Garage Classics" on Sat, 26 Sept 2026.
 
 High Tide is a music venue in Losangeles listed on soundcheck. 3 upcoming nights, with line-ups including Kyrxmi and Rich Medina. Browse upcoming dates, start times and who's playing. 605 E 4th St, Los Angeles, CA 90013.
 
@@ -16,4 +16,4 @@ High Tide is a music venue in Losangeles listed on soundcheck. 3 upcoming nights
 
 605 E 4th St, Los Angeles, CA 90013, Los Angeles
 
-*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/high-tide/)*
+*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/high-tide/)*

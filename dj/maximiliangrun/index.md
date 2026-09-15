@@ -1,6 +1,6 @@
 # Maximilian Grün
 
-Maximilian Grün is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Mon, 14 Sept 2026, next at Porto Pollo, Vienna on Sat, 19 Sept 2026.
+Maximilian Grün is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Tue, 15 Sept 2026, next at Porto Pollo, Vienna on Sat, 19 Sept 2026.
 
 Maximilian Grün is a house and deep house artist tracked on soundcheck, with 3 sets logged across Vienna. Often billed alongside Fabiano José, Annika Stein and Cleric. Next up: Porto Pollo, Vienna on Sat 19 Sept.
 
@@ -19,4 +19,4 @@ Maximilian Grün is a house and deep house artist tracked on soundcheck, with 3 
 
 Fabiano José, Annika Stein, Cleric
 
-*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/maximiliangrun/)*
+*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/maximiliangrun/)*

@@ -1,6 +1,6 @@
 # Sioni HiFi Soundsystem
 
-Sioni HiFi Soundsystem is a Dub and Drum & Bass artist with 1 upcoming club date listed on soundcheck as of Mon, 14 Sept 2026, next at The Glove That Fits, London on Thu, 17 Sept 2026.
+Sioni HiFi Soundsystem is a Dub and Drum & Bass artist with 1 upcoming club date listed on soundcheck as of Tue, 15 Sept 2026, next at The Glove That Fits, London on Thu, 17 Sept 2026.
 
 Sioni HiFi Soundsystem is a dub and drum & bass artist tracked on soundcheck, with 15 sets logged across London and Tbilisi. Often billed alongside sTia, SUMO and Double O. Next up: The Glove That Fits, London on Thu 17 Sept.
 
@@ -25,4 +25,4 @@ Sioni HiFi Soundsystem is a dub and drum & bass artist tracked on soundcheck, wi
 
 sTia, SUMO, Double O
 
-*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sionihifisoundsystem/)*
+*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sionihifisoundsystem/)*

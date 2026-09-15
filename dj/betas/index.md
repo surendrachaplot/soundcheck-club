@@ -1,13 +1,14 @@
 # Betas
 
-Betas is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Mon, 14 Sept 2026, next at Bulbul Berlin, Berlin on Thu, 17 Sept 2026.
+Betas is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Tue, 15 Sept 2026, next at Pavilon, Budapest on Wed, 16 Sept 2026.
 
-Betas is a house and disco artist based in Argentina, tracked on soundcheck, with 18 sets logged across Berlin, Budapest, Buenosaires and London. Often billed alongside Ilsa Wolf, Ana Helder and Camila Isabel. Next up: Bulbul Berlin, Berlin on Thu 17 Sept.
+Betas is a house and disco artist based in Argentina, tracked on soundcheck, with 19 sets logged across Berlin, Budapest, Buenosaires and London. Often billed alongside Ilsa Wolf, Ana Helder and Camila Isabel. Next up: Pavilon, Budapest on Wed 16 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Wed, 16 Sept 2026 | Pavilon | Budapest |
 | Thu, 17 Sept 2026 | Bulbul Berlin | Berlin |
 
 ## Recently played
@@ -25,4 +26,4 @@ Betas is a house and disco artist based in Argentina, tracked on soundcheck, wit
 
 Ilsa Wolf, Ana Helder, Camila Isabel
 
-*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/betas/)*
+*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/betas/)*

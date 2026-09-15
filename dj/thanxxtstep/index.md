@@ -1,6 +1,6 @@
 # THA NXXT STEP
 
-THA NXXT STEP is a Footwork and Ghetto Tech artist with 1 upcoming club date listed on soundcheck as of Mon, 14 Sept 2026, next at El Rio, San Francisco/Oakland on Sat, 26 Sept 2026.
+THA NXXT STEP is a Footwork and Ghetto Tech artist with 1 upcoming club date listed on soundcheck as of Tue, 15 Sept 2026, next at El Rio, San Francisco/Oakland on Sat, 26 Sept 2026.
 
 THA NXXT STEP is a footwork and ghetto tech artist tracked on soundcheck, with 3 sets logged across Sanfrancisco. Often billed alongside Mars Kasei, 40split and Ani Klang. Next up: El Rio, Sanfrancisco on Sat 26 Sept.
 
@@ -19,4 +19,4 @@ THA NXXT STEP is a footwork and ghetto tech artist tracked on soundcheck, with 3
 
 Mars Kasei, 40split, Ani Klang
 
-*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/thanxxtstep/)*
+*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/thanxxtstep/)*

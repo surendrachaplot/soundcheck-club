@@ -1,6 +1,6 @@
 # Rulers
 
-Rulers is a Tech House artist with 1 upcoming club date listed on soundcheck as of Mon, 14 Sept 2026, next at Club 44, Milan on Fri, 18 Sept 2026.
+Rulers is a Tech House artist with 1 upcoming club date listed on soundcheck as of Tue, 15 Sept 2026, next at Club 44, Milan on Fri, 18 Sept 2026.
 
 Rulers is a tech house artist tracked on soundcheck, with 3 sets logged across Frankfurt and Milan. Often billed alongside Bo Irion, Drag & Drop and AVEM. Next up: Club 44, Milan on Fri 18 Sept.
 
@@ -19,4 +19,4 @@ Rulers is a tech house artist tracked on soundcheck, with 3 sets logged across F
 
 Bo Irion, Drag & Drop, AVEM
 
-*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/rulers/)*
+*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/rulers/)*

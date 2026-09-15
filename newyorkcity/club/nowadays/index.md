@@ -1,6 +1,6 @@
 # Nowadays
 
-Nowadays is a music venue in New York City with 36 upcoming nights listed on soundcheck as of Mon, 14 Sept 2026; the next is "Intro to Ableton Lab: Building Chords, Basslines, & Melodies" on Tue, 15 Sept 2026.
+Nowadays is a music venue in New York City with 36 upcoming nights listed on soundcheck as of Tue, 15 Sept 2026; the next is "Intro to Ableton Lab: Building Chords, Basslines, & Melodies" on Tue, 15 Sept 2026.
 
 Nowadays is a music venue in Newyorkcity listed on soundcheck. 36 upcoming nights, with line-ups including 1tbsp, 5ive, LYDO and MORENXXX and 2 more. Browse upcoming dates, start times and who's playing. 56-06 Cooper Ave. Ridgewood, NY 11385 USA.
 
@@ -23,4 +23,4 @@ Nowadays is a music venue in Newyorkcity listed on soundcheck. 36 upcoming night
 
 56-06 Cooper Ave. Ridgewood, NY 11385 USA, New York City
 
-*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/nowadays/)*
+*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/nowadays/)*

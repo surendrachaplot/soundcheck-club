@@ -1,6 +1,6 @@
 # LUMINE
 
-LUMINE is a House and Trance artist with 3 upcoming club dates listed on soundcheck as of Mon, 14 Sept 2026, next at Toekomstmuziek, Amsterdam on Fri, 18 Sept 2026.
+LUMINE is a House and Trance artist with 3 upcoming club dates listed on soundcheck as of Tue, 15 Sept 2026, next at Toekomstmuziek, Amsterdam on Fri, 18 Sept 2026.
 
 LUMINE is a house and trance artist based in Netherlands, tracked on soundcheck, with 8 sets logged across Amsterdam, Hamburg and Utrecht. Often billed alongside S3PPA, 22 Interns and AUTOFLOWER. Next up: Toekomstmuziek, Amsterdam on Fri 18 Sept.
 
@@ -24,4 +24,4 @@ LUMINE is a house and trance artist based in Netherlands, tracked on soundcheck,
 
 S3PPA, 22 Interns, AUTOFLOWER
 
-*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lumine/)*
+*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lumine/)*

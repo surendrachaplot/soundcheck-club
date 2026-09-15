@@ -1,6 +1,6 @@
 # Jungla London
 
-Jungla London is a music venue in London with 2 upcoming nights listed on soundcheck as of Mon, 14 Sept 2026; the next is "AWAKEN V" on Fri, 2 Oct 2026.
+Jungla London is a music venue in London with 2 upcoming nights listed on soundcheck as of Tue, 15 Sept 2026; the next is "AWAKEN V" on Fri, 2 Oct 2026.
 
 Jungla London is a music venue in London listed on soundcheck. 2 upcoming nights, with line-ups including Areeb Abbasi, Arterapsy, Auseeb and Christian J and 2 more. Browse upcoming dates, start times and who's playing. 22 Inverness St, London NW1 7HJ.
 
@@ -15,4 +15,4 @@ Jungla London is a music venue in London listed on soundcheck. 2 upcoming nights
 
 22 Inverness St, London NW1 7HJ, London
 
-*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/jungla-london/)*
+*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/jungla-london/)*

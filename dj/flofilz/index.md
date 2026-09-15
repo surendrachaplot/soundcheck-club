@@ -1,6 +1,6 @@
 # FloFilz
 
-FloFilz is a electronic artist with 1 upcoming club date listed on soundcheck as of Mon, 14 Sept 2026, next at Atemporal, Berlin on Sat, 3 Oct 2026.
+FloFilz is a electronic artist with 1 upcoming club date listed on soundcheck as of Tue, 15 Sept 2026, next at Atemporal, Berlin on Sat, 3 Oct 2026.
 
 FloFilz is an electronic artist tracked on soundcheck, with 3 sets logged across Berlin and Hamburg. Often billed alongside Shatter Hands. Next up: Atemporal, Berlin on Sat 3 Oct.
 
@@ -19,4 +19,4 @@ FloFilz is an electronic artist tracked on soundcheck, with 3 sets logged across
 
 Shatter Hands
 
-*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/flofilz/)*
+*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/flofilz/)*

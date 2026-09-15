@@ -1,6 +1,6 @@
 # Night We Met
 
-Night We Met is a music venue in Nashville with 17 upcoming nights listed on soundcheck as of Mon, 14 Sept 2026; the next is "Main Phase" on Fri, 18 Sept 2026.
+Night We Met is a music venue in Nashville with 17 upcoming nights listed on soundcheck as of Tue, 15 Sept 2026; the next is "Main Phase" on Fri, 18 Sept 2026.
 
 Night We Met is a music venue in Nashville listed on soundcheck. 17 upcoming nights, with line-ups including Biscits, bradeazy, camoufly and CRi and 2 more. Browse upcoming dates, start times and who's playing. 114 12th Ave N, Nashville, TN 37203 USA.
 
@@ -23,4 +23,4 @@ Night We Met is a music venue in Nashville listed on soundcheck. 17 upcoming nig
 
 114 12th Ave N, Nashville, TN 37203 USA, Nashville
 
-*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/nashville/club/night-we-met/)*
+*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/nashville/club/night-we-met/)*

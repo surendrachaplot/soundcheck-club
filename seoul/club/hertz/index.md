@@ -1,6 +1,6 @@
 # Hertz
 
-Hertz is a music venue in Seoul with 3 upcoming nights listed on soundcheck as of Mon, 14 Sept 2026; the next is "'themuddshow' x 'Hertz' 머드쇼 x 헤르츠: Jesse You Soyo Jucid Rob Goodspeed" on Fri, 18 Sept 2026.
+Hertz is a music venue in Seoul with 3 upcoming nights listed on soundcheck as of Tue, 15 Sept 2026; the next is "'themuddshow' x 'Hertz' 머드쇼 x 헤르츠: Jesse You Soyo Jucid Rob Goodspeed" on Fri, 18 Sept 2026.
 
 Hertz is a music venue in Seoul listed on soundcheck. 3 upcoming nights, with line-ups including Acidwork, Baso, ildec and Jesse You and 2 more. Browse upcoming dates, start times and who's playing. 21, Usadan-ro 14-gil, Yongsan-gu, Seoul, Republic of Korea.
 
@@ -16,4 +16,4 @@ Hertz is a music venue in Seoul listed on soundcheck. 3 upcoming nights, with li
 
 21, Usadan-ro 14-gil, Yongsan-gu, Seoul, Republic of Korea, Seoul
 
-*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/seoul/club/hertz/)*
+*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/seoul/club/hertz/)*

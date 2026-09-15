@@ -1,6 +1,6 @@
 # EXIT Glasgow
 
-EXIT Glasgow is a music venue in Glasgow with 17 upcoming nights listed on soundcheck as of Mon, 14 Sept 2026; the next is "Tekhole presents: SIN " on Fri, 18 Sept 2026.
+EXIT Glasgow is a music venue in Glasgow with 17 upcoming nights listed on soundcheck as of Tue, 15 Sept 2026; the next is "Tekhole presents: SIN " on Fri, 18 Sept 2026.
 
 EXIT Glasgow is a music venue in Glasgow listed on soundcheck. 17 upcoming nights, with line-ups including 3SBAT, Angel Negrin, Blackeye MC and Brandon Lee Vear and 2 more. Browse upcoming dates, start times and who's playing. 96 Maxwell Street, Glasgow, G1 4EQ.
 
@@ -23,4 +23,4 @@ EXIT Glasgow is a music venue in Glasgow listed on soundcheck. 17 upcoming night
 
 96 Maxwell Street, Glasgow, G1 4EQ, Glasgow
 
-*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/exit-glasgow/)*
+*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/exit-glasgow/)*

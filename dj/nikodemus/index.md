@@ -1,6 +1,6 @@
 # Niko Demus
 
-Niko Demus is a Trance and Experimental artist with 1 upcoming club date listed on soundcheck as of Mon, 14 Sept 2026, next at Ääniwalli, Helsinki on Sat, 3 Oct 2026.
+Niko Demus is a Trance and Experimental artist with 1 upcoming club date listed on soundcheck as of Tue, 15 Sept 2026, next at Ääniwalli, Helsinki on Sat, 3 Oct 2026.
 
 Niko Demus is a trance and experimental artist based in Finland, tracked on soundcheck, with 36 sets logged across Amsterdam, Berlin, Bristol and Helsinki and 2 more. Often billed alongside MFM (FI), Glayden and Katerina. Next up: Ääniwalli, Helsinki on Sat 3 Oct.
 
@@ -25,4 +25,4 @@ Niko Demus is a trance and experimental artist based in Finland, tracked on soun
 
 MFM (FI), Glayden, Katerina
 
-*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nikodemus/)*
+*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nikodemus/)*

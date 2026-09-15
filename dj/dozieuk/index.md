@@ -1,6 +1,6 @@
 # dozie (uk)
 
-dozie (uk) is a House and Electronica artist with 3 upcoming club dates listed on soundcheck as of Mon, 14 Sept 2026, next at Glamorama, Melbourne on Sat, 19 Sept 2026.
+dozie (uk) is a House and Electronica artist with 3 upcoming club dates listed on soundcheck as of Tue, 15 Sept 2026, next at Glamorama, Melbourne on Sat, 19 Sept 2026.
 
 dozie (uk) is a house and electronica artist based in United Kingdom, tracked on soundcheck, with 25 sets logged across Melbourne. Often billed alongside Slumdog, Love, Jess and DJ Optimism. Next up: Glamorama, Melbourne on Sat 19 Sept.
 
@@ -27,4 +27,4 @@ dozie (uk) is a house and electronica artist based in United Kingdom, tracked on
 
 Slumdog, Love, Jess, DJ Optimism
 
-*Updated Mon, 14 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dozieuk/)*
+*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dozieuk/)*
