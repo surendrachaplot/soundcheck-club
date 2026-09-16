@@ -1,6 +1,6 @@
 # RAUL FOURNIER
 
-RAUL FOURNIER is a Techno and Minimal Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 15 Sept 2026, next at De Fik Garden, Amsterdam on Sat, 19 Sept 2026.
+RAUL FOURNIER is a Techno and Minimal Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 16 Sept 2026, next at De Fik Garden, Amsterdam on Sat, 19 Sept 2026.
 
 RAUL FOURNIER is a techno and minimal techno artist based in Spain, tracked on soundcheck, with 19 sets logged across Amsterdam, Munich and Utrecht. Often billed alongside Hashashin, Isaiah (NL) and Karina Schneider. Next up: De Fik Garden, Amsterdam on Sat 19 Sept.
 
@@ -25,4 +25,4 @@ RAUL FOURNIER is a techno and minimal techno artist based in Spain, tracked on s
 
 Hashashin, Isaiah (NL), Karina Schneider
 
-*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/raulfournier/)*
+*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/raulfournier/)*

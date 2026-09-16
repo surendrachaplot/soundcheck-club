@@ -1,6 +1,6 @@
 # The Flea Theater
 
-The Flea Theater is a music venue in New York City with 22 upcoming nights listed on soundcheck as of Tue, 15 Sept 2026; the next is "BEYOND THE STARDUST" on Wed, 16 Sept 2026.
+The Flea Theater is a music venue in New York City with 22 upcoming nights listed on soundcheck as of Wed, 16 Sept 2026; the next is "BEYOND THE STARDUST" on Wed, 16 Sept 2026.
 
 The Flea Theater is a music venue in Newyorkcity listed on soundcheck. 22 upcoming nights, with line-ups including Daniro, Naija Couture and The Illustrious Blacks. Browse upcoming dates, start times and who's playing. 20 Thomas St, New York, NY 10007.
 
@@ -23,4 +23,4 @@ The Flea Theater is a music venue in Newyorkcity listed on soundcheck. 22 upcomi
 
 20 Thomas St, New York, NY 10007, New York City
 
-*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/the-flea-theater/)*
+*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/the-flea-theater/)*

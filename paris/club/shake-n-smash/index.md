@@ -1,6 +1,6 @@
 # Shake n' Smash
 
-Shake n' Smash is a music venue in Paris with 1 upcoming night listed on soundcheck as of Tue, 15 Sept 2026; the next is "ONAM AFTER DARK" on Sat, 19 Sept 2026.
+Shake n' Smash is a music venue in Paris with 1 upcoming night listed on soundcheck as of Wed, 16 Sept 2026; the next is "ONAM AFTER DARK" on Sat, 19 Sept 2026.
 
 Shake n' Smash is a music venue in Paris listed on soundcheck. 1 upcoming night. Browse upcoming dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ Shake n' Smash is a music venue in Paris listed on soundcheck. 1 upcoming night.
 | --- | --- | --- |
 | Sat, 19 Sept 2026 | ONAM AFTER DARK |  |
 
-*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/paris/club/shake-n-smash/)*
+*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/paris/club/shake-n-smash/)*

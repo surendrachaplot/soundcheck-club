@@ -1,6 +1,6 @@
 # BRAD WATTS
 
-BRAD WATTS is a House and Deep House artist with 2 upcoming club dates listed on soundcheck as of Tue, 15 Sept 2026, next at TBA - SPICE CELLAR SYDNEY CITY, Sydney on Sat, 19 Sept 2026.
+BRAD WATTS is a House and Deep House artist with 2 upcoming club dates listed on soundcheck as of Wed, 16 Sept 2026, next at TBA - SPICE CELLAR SYDNEY CITY, Sydney on Sat, 19 Sept 2026.
 
 BRAD WATTS is a house and deep house artist tracked on soundcheck, with 33 sets logged across Bali, Melbourne and Sydney. Often billed alongside SOHAIL, Rowen Clark and Aidan Bega. Next up: TBA - SPICE CELLAR SYDNEY CITY, Sydney on Sat 19 Sept.
 
@@ -26,4 +26,4 @@ BRAD WATTS is a house and deep house artist tracked on soundcheck, with 33 sets 
 
 SOHAIL, Rowen Clark, Aidan Bega
 
-*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bradwatts/)*
+*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bradwatts/)*

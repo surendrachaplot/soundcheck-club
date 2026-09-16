@@ -1,6 +1,6 @@
 # Myyuh
 
-Myyuh is a House and Afrobeats artist with 1 upcoming club date listed on soundcheck as of Tue, 15 Sept 2026, next at H0L0, New York City on Sat, 19 Sept 2026.
+Myyuh is a House and Afrobeats artist with 1 upcoming club date listed on soundcheck as of Wed, 16 Sept 2026, next at H0L0, New York City on Sat, 19 Sept 2026.
 
 Myyuh is a house and afrobeats artist based in United States of America, tracked on soundcheck, with 20 sets logged across Losangeles, Montreal and Newyorkcity. Often billed alongside MNSA, Nadim Maghzal and Saphe. Next up: H0L0, Newyorkcity on Sat 19 Sept.
 
@@ -25,4 +25,4 @@ Myyuh is a house and afrobeats artist based in United States of America, tracked
 
 MNSA, Nadim Maghzal, Saphe
 
-*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/myyuh/)*
+*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/myyuh/)*

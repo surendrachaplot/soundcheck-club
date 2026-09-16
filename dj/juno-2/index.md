@@ -1,6 +1,6 @@
 # Juno (NY)
 
-Juno (NY) is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Tue, 15 Sept 2026, next at Bar Datcha, Montreal on Fri, 18 Sept 2026.
+Juno (NY) is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Wed, 16 Sept 2026, next at Bar Datcha, Montreal on Fri, 18 Sept 2026.
 
 Juno (NY) is a techno and house artist tracked on soundcheck, with 36 sets logged across Amsterdam, Berlin, Chicago and Cologne and 4 more. Often billed alongside LINDA (US), KYRUH and 1morning. Next up: Bar Datcha, Montreal on Fri 18 Sept.
 
@@ -29,4 +29,4 @@ Juno (NY) is a techno and house artist tracked on soundcheck, with 36 sets logge
 
 LINDA (US), KYRUH, 1morning
 
-*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/juno-2/)*
+*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/juno-2/)*

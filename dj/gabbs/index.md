@@ -1,6 +1,6 @@
 # Gabbs
 
-Gabbs is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Tue, 15 Sept 2026, next at Fünk, Mexico City on Fri, 18 Sept 2026.
+Gabbs is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Wed, 16 Sept 2026, next at Fünk, Mexico City on Fri, 18 Sept 2026.
 
 Gabbs is a house and techno artist tracked on soundcheck, with 182 sets logged across Amsterdam, Antwerp, Austin and Barcelona and 38 more. Often billed alongside Alexia Glensy, Christian AB and DJ Senc. Next up: Fünk, Mexicocity on Fri 18 Sept.
 
@@ -29,4 +29,4 @@ Gabbs is a house and techno artist tracked on soundcheck, with 182 sets logged a
 
 Alexia Glensy, Christian AB, DJ Senc
 
-*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/gabbs/)*
+*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/gabbs/)*

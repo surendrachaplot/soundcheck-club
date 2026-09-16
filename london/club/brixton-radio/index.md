@@ -1,6 +1,6 @@
 # Brixton Radio
 
-Brixton Radio is a music venue in London with 1 upcoming night listed on soundcheck as of Tue, 15 Sept 2026; the next is "Subsonic Events x Thick Groovy Casa" on Sat, 19 Sept 2026.
+Brixton Radio is a music venue in London with 1 upcoming night listed on soundcheck as of Wed, 16 Sept 2026; the next is "Subsonic Events x Thick Groovy Casa" on Sat, 19 Sept 2026.
 
 Brixton Radio is a music venue in London listed on soundcheck. 1 upcoming night, with line-ups including Bread & Butter, daaz, Dezz and Dimanté and 2 more. Browse upcoming dates, start times and who's playing. 23 Alphabet Mews, London SW9 0FN, UK.
 
@@ -14,4 +14,4 @@ Brixton Radio is a music venue in London listed on soundcheck. 1 upcoming night,
 
 23 Alphabet Mews, London SW9 0FN, UK, London
 
-*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/brixton-radio/)*
+*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/brixton-radio/)*

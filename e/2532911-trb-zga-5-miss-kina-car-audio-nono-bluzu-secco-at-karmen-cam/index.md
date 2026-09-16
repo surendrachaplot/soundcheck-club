@@ -1,6 +1,6 @@
 # trb! ZGA #5 [Miss Kina Car Audio, nono, bluzu, secco] at Karmen Camina
 
-trb! ZGA #5 [Miss Kina Car Audio, nono, bluzu, secco] at Karmen Camina on Thu 17 Sept, Strasbourg. Baile Funk and Electro. Preview the line-up and save it on soundcheck.
+trb! ZGA #5 [Miss Kina Car Audio, nono, bluzu, secco] at Karmen Camina on Thu 17 Sept, Strasbourg. Electro and Baile Funk. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

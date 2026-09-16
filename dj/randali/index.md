@@ -1,6 +1,6 @@
 # Randali
 
-Randali is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Tue, 15 Sept 2026, next at Fridas Pier, Stuttgart on Fri, 18 Sept 2026.
+Randali is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Wed, 16 Sept 2026, next at Fridas Pier, Stuttgart on Fri, 18 Sept 2026.
 
 Randali is a techno and house artist tracked on soundcheck, with 46 sets logged across Berlin, Hamburg, Leipzig and Munich and 1 more. Often billed alongside Konfusia, Sabura and Nikiija. Next up: Fridas Pier, Stuttgart on Fri 18 Sept.
 
@@ -26,4 +26,4 @@ Randali is a techno and house artist tracked on soundcheck, with 46 sets logged 
 
 Konfusia, Sabura, Nikiija
 
-*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/randali/)*
+*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/randali/)*

@@ -1,6 +1,6 @@
 # A For Alpha
 
-A For Alpha is a House and Garage artist with 12 upcoming club dates listed on soundcheck as of Tue, 15 Sept 2026, next at The Love Inn, Bristol on Fri, 25 Sept 2026.
+A For Alpha is a House and Garage artist with 12 upcoming club dates listed on soundcheck as of Wed, 16 Sept 2026, next at The Love Inn, Bristol on Fri, 25 Sept 2026.
 
 A For Alpha is a house and garage artist tracked on soundcheck, with 124 sets logged across Amsterdam, Barcelona, Berlin and Birmingham and 16 more. Often billed alongside Papa Nugs, Dr Dubplate and Ellie Stokes. Next up: The Love Inn, Bristol on Fri 25 Sept.
 
@@ -36,4 +36,4 @@ A For Alpha is a house and garage artist tracked on soundcheck, with 124 sets lo
 
 Papa Nugs, Dr Dubplate, Ellie Stokes
 
-*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/aforalpha/)*
+*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/aforalpha/)*

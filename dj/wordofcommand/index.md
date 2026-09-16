@@ -1,6 +1,6 @@
 # Word of Command
 
-Word of Command is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 15 Sept 2026, next at BASEMENT, New York City on Fri, 23 Oct 2026.
+Word of Command is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 16 Sept 2026, next at BASEMENT, New York City on Fri, 23 Oct 2026.
 
 Word of Command is a techno and house artist based in United States of America, tracked on soundcheck, with 79 sets logged across Austin, Barcelona, Berlin and Chicago and 8 more. Often billed alongside DJ Clone, Sevyn 0000 and flirty800. Next up: BASEMENT, Newyorkcity on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ Word of Command is a techno and house artist based in United States of America, 
 
 DJ Clone, Sevyn 0000, flirty800
 
-*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/wordofcommand/)*
+*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/wordofcommand/)*

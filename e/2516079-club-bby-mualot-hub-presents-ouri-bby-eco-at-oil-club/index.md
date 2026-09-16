@@ -1,6 +1,6 @@
-# Club Bby & mualot & hub presents: ouri+bby.eco at OIL Club
+# Club Bby & mualot & hub presents: Ouri+bby.eco at OIL Club
 
-Club Bby & mualot & hub presents: ouri+bby.eco at OIL Club on Sat 3 Oct, Shenzhen. 3 acts on the bill: hatemebaby, Manson and Replica.mp3. Experimental. Preview the line-up and save it on soundcheck.
+Club Bby & mualot & hub presents: Ouri+bby.eco at OIL Club on Sat 3 Oct, Shenzhen. 4 acts on the bill: hatemebaby, Manson, Ouri and Replica.mp3. Experimental and Club. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -12,6 +12,7 @@ Club Bby & mualot & hub presents: ouri+bby.eco at OIL Club on Sat 3 Oct, Shenzhe
 
 - hatemebaby
 - Manson
+- Ouri
 - Replica.mp3
 
 *Source: [soundcheck](https://soundcheck.club/e/2516079-club-bby-mualot-hub-presents-ouri-bby-eco-at-oil-club/)*

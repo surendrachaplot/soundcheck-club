@@ -1,6 +1,6 @@
 # IPPU
 
-IPPU is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 15 Sept 2026, next at ZEROTOKYO, Tokyo on Tue, 22 Sept 2026.
+IPPU is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 16 Sept 2026, next at ZEROTOKYO, Tokyo on Tue, 22 Sept 2026.
 
 IPPU is a techno and house artist tracked on soundcheck, with 17 sets logged across Tokyo. Often billed alongside I WON TRIBE, LienNaigel and HYOUKAI. Next up: ZEROTOKYO, Tokyo on Tue 22 Sept.
 
@@ -25,4 +25,4 @@ IPPU is a techno and house artist tracked on soundcheck, with 17 sets logged acr
 
 I WON TRIBE, LienNaigel, HYOUKAI
 
-*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ippu/)*
+*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ippu/)*

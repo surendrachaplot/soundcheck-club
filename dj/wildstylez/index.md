@@ -1,6 +1,6 @@
 # Wildstylez
 
-Wildstylez is a Hardcore and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 15 Sept 2026, next at Kaapelitehdas / The Cable Factory, Helsinki on Fri, 27 Nov 2026.
+Wildstylez is a Hardcore and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 16 Sept 2026, next at Kaapelitehdas / The Cable Factory, Helsinki on Fri, 27 Nov 2026.
 
 Wildstylez is a hardcore and techno artist based in Netherlands, tracked on soundcheck, with 14 sets logged across Cologne, Frankfurt, Helsinki and Madrid and 4 more. Often billed alongside Sound Rush, Angerfist and Code Black. Next up: Kaapelitehdas / The Cable Factory, Helsinki on Fri 27 Nov.
 
@@ -25,4 +25,4 @@ Wildstylez is a hardcore and techno artist based in Netherlands, tracked on soun
 
 Sound Rush, Angerfist, Code Black
 
-*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/wildstylez/)*
+*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/wildstylez/)*

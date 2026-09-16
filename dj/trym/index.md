@@ -1,6 +1,6 @@
 # Trym
 
-Trym is a Techno and Trance artist with 7 upcoming club dates listed on soundcheck as of Tue, 15 Sept 2026, next at Studio Duplex, Hong Kong on Sat, 19 Sept 2026.
+Trym is a Techno and Trance artist with 7 upcoming club dates listed on soundcheck as of Wed, 16 Sept 2026, next at Studio Duplex, Hong Kong on Sat, 19 Sept 2026.
 
 Trym is a techno and trance artist tracked on soundcheck, with 178 sets logged across Amsterdam, Antwerp, Athens and Austin and 60 more. Often billed alongside Shlømo, Nico Moreno and 999999999. Next up: Studio Duplex, Hongkong on Sat 19 Sept.
 
@@ -31,4 +31,4 @@ Trym is a techno and trance artist tracked on soundcheck, with 178 sets logged a
 
 Shlømo, Nico Moreno, 999999999
 
-*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/trym/)*
+*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/trym/)*

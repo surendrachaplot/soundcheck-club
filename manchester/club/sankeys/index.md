@@ -1,6 +1,6 @@
 # Sankeys
 
-Sankeys is a music venue in Manchester with 12 upcoming nights listed on soundcheck as of Tue, 15 Sept 2026; the next is "Sankeys Saturdays" on Sat, 26 Sept 2026.
+Sankeys is a music venue in Manchester with 12 upcoming nights listed on soundcheck as of Wed, 16 Sept 2026; the next is "Sankeys Saturdays" on Sat, 26 Sept 2026.
 
 Sankeys is a music venue in Manchester listed on soundcheck. 12 upcoming nights, with line-ups including Arapu, Darius Syrossian, George Smeddles and Grant Nelson and 2 more. Browse upcoming dates, start times and who's playing. Sidney Street, Manchester, M1 7HB.
 
@@ -23,4 +23,4 @@ Sankeys is a music venue in Manchester listed on soundcheck. 12 upcoming nights,
 
 Sidney Street, Manchester, M1 7HB, Manchester
 
-*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/sankeys/)*
+*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/sankeys/)*

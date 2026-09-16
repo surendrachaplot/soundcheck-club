@@ -1,6 +1,6 @@
 # Jerome Hill
 
-Jerome Hill is a Techno and Acid artist with 4 upcoming club dates listed on soundcheck as of Tue, 15 Sept 2026, next at Ormside Projects, London on Sat, 26 Sept 2026.
+Jerome Hill is a Techno and Acid artist with 4 upcoming club dates listed on soundcheck as of Wed, 16 Sept 2026, next at Ormside Projects, London on Sat, 26 Sept 2026.
 
 Jerome Hill is a techno and acid artist tracked on soundcheck, with 122 sets logged across Bangkok, Barcelona, Belfast and Berlin and 25 more. Often billed alongside Louise Plus One, Hughesee and Equinox (UK). Next up: Ormside Projects, London on Sat 26 Sept.
 
@@ -28,4 +28,4 @@ Jerome Hill is a techno and acid artist tracked on soundcheck, with 122 sets log
 
 Louise Plus One, Hughesee, Equinox (UK)
 
-*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jeromehill/)*
+*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jeromehill/)*

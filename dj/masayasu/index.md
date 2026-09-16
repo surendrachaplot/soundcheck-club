@@ -1,6 +1,6 @@
 # MASAYASU
 
-MASAYASU is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Tue, 15 Sept 2026, next at Z Maruyama, Tokyo on Sat, 19 Sept 2026.
+MASAYASU is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 16 Sept 2026, next at Z Maruyama, Tokyo on Sat, 19 Sept 2026.
 
 MASAYASU is a house and techno artist based in Japan, tracked on soundcheck, with 78 sets logged across Osaka and Tokyo. Often billed alongside DJ SHIKISAI, LIGHTING MIURA and Kamekawa. Next up: Z Maruyama, Tokyo on Sat 19 Sept.
 
@@ -26,4 +26,4 @@ MASAYASU is a house and techno artist based in Japan, tracked on soundcheck, wit
 
 DJ SHIKISAI, LIGHTING MIURA, Kamekawa
 
-*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/masayasu/)*
+*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/masayasu/)*

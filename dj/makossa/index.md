@@ -1,6 +1,6 @@
 # Makossa
 
-Makossa is a Afro House and Disco artist with 1 upcoming club date listed on soundcheck as of Tue, 15 Sept 2026, next at RONIN, Milan on Fri, 18 Sept 2026.
+Makossa is a Afro House and Disco artist with 1 upcoming club date listed on soundcheck as of Wed, 16 Sept 2026, next at RONIN, Milan on Fri, 18 Sept 2026.
 
 Makossa is an afro house and disco artist tracked on soundcheck, with 28 sets logged across Amsterdam, Losangeles, Miami and Milan and 2 more. Often billed alongside Vice Luna, ALDAVE and Landikhan. Next up: RONIN, Milan on Fri 18 Sept.
 
@@ -25,4 +25,4 @@ Makossa is an afro house and disco artist tracked on soundcheck, with 28 sets lo
 
 Vice Luna, ALDAVE, Landikhan
 
-*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/makossa/)*
+*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/makossa/)*

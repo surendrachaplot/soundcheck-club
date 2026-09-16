@@ -1,6 +1,6 @@
 # Fleur Amser
 
-Fleur Amser is a House and EBM artist with 1 upcoming club date listed on soundcheck as of Tue, 15 Sept 2026, next at Kaiku, Helsinki on Fri, 18 Sept 2026.
+Fleur Amser is a House and EBM artist with 1 upcoming club date listed on soundcheck as of Wed, 16 Sept 2026, next at Kaiku, Helsinki on Fri, 18 Sept 2026.
 
 Fleur Amser is a house and ebm artist based in Finland, tracked on soundcheck, with 13 sets logged across Helsinki. Often billed alongside DJ Aleksi, Humanoid Target Practice and Ojelma. Next up: Kaiku, Helsinki on Fri 18 Sept.
 
@@ -25,4 +25,4 @@ Fleur Amser is a house and ebm artist based in Finland, tracked on soundcheck, w
 
 DJ Aleksi, Humanoid Target Practice, Ojelma
 
-*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/fleuramser/)*
+*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/fleuramser/)*

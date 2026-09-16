@@ -1,6 +1,6 @@
 # Space Drum Meditation
 
-Space Drum Meditation is a Techno and Experimental artist with 2 upcoming club dates listed on soundcheck as of Tue, 15 Sept 2026, next at Fort Mifflin, Philadelphia on Fri, 18 Sept 2026.
+Space Drum Meditation is a Techno and Experimental artist with 2 upcoming club dates listed on soundcheck as of Wed, 16 Sept 2026, next at Fort Mifflin, Philadelphia on Fri, 18 Sept 2026.
 
 Space Drum Meditation is a techno and experimental artist based in Germany, tracked on soundcheck, with 35 sets logged across Amsterdam, Berlin, Brussels and Cologne and 12 more. Often billed alongside Spekki Webu, Woody92 and CCL. Next up: Fort Mifflin, Philadelphia on Fri 18 Sept.
 
@@ -26,4 +26,4 @@ Space Drum Meditation is a techno and experimental artist based in Germany, trac
 
 Spekki Webu, Woody92, CCL
 
-*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/spacedrummeditation/)*
+*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/spacedrummeditation/)*

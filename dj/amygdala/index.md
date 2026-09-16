@@ -1,6 +1,6 @@
 # Amygdala
 
-Amygdala is a Techno and Hardcore artist with 1 upcoming club date listed on soundcheck as of Tue, 15 Sept 2026, next at Cross Club, Prague on Fri, 18 Sept 2026.
+Amygdala is a Techno and Hardcore artist with 1 upcoming club date listed on soundcheck as of Wed, 16 Sept 2026, next at Cross Club, Prague on Fri, 18 Sept 2026.
 
 Amygdala is a techno and hardcore artist based in Italy, tracked on soundcheck, with 31 sets logged across Barcelona, Berlin, Brussels and Lyon and 10 more. Often billed alongside Mandragora, sellyourmania and 999999999. Next up: Cross Club, Prague on Fri 18 Sept.
 
@@ -25,4 +25,4 @@ Amygdala is a techno and hardcore artist based in Italy, tracked on soundcheck, 
 
 Mandragora, sellyourmania, 999999999
 
-*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/amygdala/)*
+*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/amygdala/)*

@@ -1,6 +1,6 @@
 # Tausend
 
-Tausend is a music venue in Berlin with 6 upcoming nights listed on soundcheck as of Tue, 15 Sept 2026; the next is "Tausend Electronica: Mitsuko" on Thu, 17 Sept 2026.
+Tausend is a music venue in Berlin with 6 upcoming nights listed on soundcheck as of Wed, 16 Sept 2026; the next is "Tausend Electronica: Mitsuko" on Thu, 17 Sept 2026.
 
 Tausend is a music venue in Berlin listed on soundcheck. 6 upcoming nights, with line-ups including C.M.A., Ceci Fierce, LIZZN and Mitsuko and 2 more. Browse upcoming dates, start times and who's playing. Schiffbauerdamm 11; Mitte; 10117 Berlin; Germany.
 
@@ -19,4 +19,4 @@ Tausend is a music venue in Berlin listed on soundcheck. 6 upcoming nights, with
 
 Schiffbauerdamm 11; Mitte; 10117 Berlin; Germany, Berlin
 
-*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/tausend/)*
+*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/tausend/)*

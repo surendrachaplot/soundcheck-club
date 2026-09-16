@@ -1,6 +1,6 @@
 # HYPERFEMME
 
-HYPERFEMME is a Club and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 15 Sept 2026, next at TBA - Announced After Ticket Purchase!, Houston on Thu, 17 Sept 2026.
+HYPERFEMME is a Club and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 16 Sept 2026, next at TBA - Announced After Ticket Purchase!, Houston on Thu, 17 Sept 2026.
 
 HYPERFEMME is a club and techno artist based in United States of America, tracked on soundcheck, with 54 sets logged across Austin, Houston, Losangeles and Miami and 3 more. Often billed alongside Amarji King, yunginternet and IDKRYAN. Next up: TBA - Announced After Ticket Purchase!, Houston on Thu 17 Sept.
 
@@ -25,4 +25,4 @@ HYPERFEMME is a club and techno artist based in United States of America, tracke
 
 Amarji King, yunginternet, IDKRYAN
 
-*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/hyperfemme/)*
+*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/hyperfemme/)*

@@ -1,6 +1,6 @@
 # D.Dan
 
-D.Dan is a Techno and House artist with 10 upcoming club dates listed on soundcheck as of Tue, 15 Sept 2026, next at Domicile, Miami on Fri, 18 Sept 2026.
+D.Dan is a Techno and House artist with 10 upcoming club dates listed on soundcheck as of Wed, 16 Sept 2026, next at Domicile, Miami on Fri, 18 Sept 2026.
 
 D.Dan is a techno and house artist tracked on soundcheck, with 201 sets logged across Amsterdam, Athens, Austin and Barcelona and 60 more. Often billed alongside DJ TOOL, Hyperaktivist and Yazzus. Next up: Domicile, Miami on Fri 18 Sept.
 
@@ -34,4 +34,4 @@ D.Dan is a techno and house artist tracked on soundcheck, with 201 sets logged a
 
 DJ TOOL, Hyperaktivist, Yazzus
 
-*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ddan/)*
+*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ddan/)*

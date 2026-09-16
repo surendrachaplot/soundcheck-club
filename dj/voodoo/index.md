@@ -1,6 +1,6 @@
 # Voodoo
 
-Voodoo is a House and Baile Funk artist with 1 upcoming club date listed on soundcheck as of Tue, 15 Sept 2026, next at Desterro, Lisbon on Thu, 17 Sept 2026.
+Voodoo is a House and Baile Funk artist with 1 upcoming club date listed on soundcheck as of Wed, 16 Sept 2026, next at Desterro, Lisbon on Thu, 17 Sept 2026.
 
 Voodoo is a house and baile funk artist tracked on soundcheck, with 4 sets logged across Barcelona, Detroit, Geneva and Lisbon. Often billed alongside Cin, Darren Shelton and Devin Jetski. Next up: Desterro, Lisbon on Thu 17 Sept.
 
@@ -20,4 +20,4 @@ Voodoo is a house and baile funk artist tracked on soundcheck, with 4 sets logge
 
 Cin, Darren Shelton, Devin Jetski
 
-*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/voodoo/)*
+*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/voodoo/)*

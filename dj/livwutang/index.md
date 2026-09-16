@@ -1,6 +1,6 @@
 # livwutang
 
-livwutang is a Techno and House artist with 8 upcoming club dates listed on soundcheck as of Tue, 15 Sept 2026, next at Nowadays, New York City on Wed, 16 Sept 2026.
+livwutang is a Techno and House artist with 8 upcoming club dates listed on soundcheck as of Wed, 16 Sept 2026, next at Nowadays, New York City on Wed, 16 Sept 2026.
 
 livwutang is a techno and house artist tracked on soundcheck, with 195 sets logged across Amsterdam, Barcelona, Berlin and Bristol and 40 more. Often billed alongside Kia (AU), Nick León and Richard Akingbehin. Next up: Nowadays, Newyorkcity on Wed 16 Sept.
 
@@ -32,4 +32,4 @@ livwutang is a techno and house artist tracked on soundcheck, with 195 sets logg
 
 Kia (AU), Nick León, Richard Akingbehin
 
-*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/livwutang/)*
+*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/livwutang/)*

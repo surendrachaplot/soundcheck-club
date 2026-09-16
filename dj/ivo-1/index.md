@@ -1,6 +1,6 @@
 # Ivo (1)
 
-Ivo (1) is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 15 Sept 2026, next at Triangle, Osaka on Tue, 22 Sept 2026.
+Ivo (1) is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 16 Sept 2026, next at Triangle, Osaka on Tue, 22 Sept 2026.
 
 Ivo (1) is a house and techno artist tracked on soundcheck, with 4 sets logged across Detroit, Osaka and Riga. Often billed alongside Casper (FIN), DJ :-) and Danjo. Next up: Triangle, Osaka on Tue 22 Sept.
 
@@ -20,4 +20,4 @@ Ivo (1) is a house and techno artist tracked on soundcheck, with 4 sets logged a
 
 Casper (FIN), DJ :-), Danjo
 
-*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ivo-1/)*
+*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ivo-1/)*

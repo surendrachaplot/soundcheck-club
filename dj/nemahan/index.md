@@ -1,6 +1,6 @@
 # Nema Hän
 
-Nema Hän is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 15 Sept 2026, next at TBA, Vancouver on Sat, 19 Sept 2026.
+Nema Hän is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 16 Sept 2026, next at TBA, Vancouver on Sat, 19 Sept 2026.
 
 Nema Hän is a house and techno artist tracked on soundcheck, with 62 sets logged across Detroit, Losangeles, Mexicocity and Montreal and 5 more. Often billed alongside aka-Sol, Shvili and Corrina. Next up: TBA, Vancouver on Sat 19 Sept.
 
@@ -25,4 +25,4 @@ Nema Hän is a house and techno artist tracked on soundcheck, with 62 sets logge
 
 aka-Sol, Shvili, Corrina
 
-*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nemahan/)*
+*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nemahan/)*

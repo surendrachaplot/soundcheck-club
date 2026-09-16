@@ -1,6 +1,6 @@
 # Wildish
 
-Wildish is a House and Tech House artist with 4 upcoming club dates listed on soundcheck as of Tue, 15 Sept 2026, next at The Warehouse, Leeds on Fri, 18 Sept 2026.
+Wildish is a House and Tech House artist with 4 upcoming club dates listed on soundcheck as of Wed, 16 Sept 2026, next at The Warehouse, Leeds on Fri, 18 Sept 2026.
 
 Wildish is a house and tech house artist tracked on soundcheck, with 7 sets logged across Amsterdam, Cardiff, Leeds and London and 2 more. Often billed alongside Ellia Jaya, BTAY and Gaskin. Next up: The Warehouse, Leeds on Fri 18 Sept.
 
@@ -23,4 +23,4 @@ Wildish is a house and tech house artist tracked on soundcheck, with 7 sets logg
 
 Ellia Jaya, BTAY, Gaskin
 
-*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/wildish/)*
+*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/wildish/)*

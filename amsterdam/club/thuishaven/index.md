@@ -1,6 +1,6 @@
 # Thuishaven
 
-Thuishaven is a music venue in Amsterdam with 19 upcoming nights listed on soundcheck as of Tue, 15 Sept 2026; the next is "The Gardens of Babylon: The Light of The Equinox (SOLD OUT)" on Sat, 19 Sept 2026.
+Thuishaven is a music venue in Amsterdam with 19 upcoming nights listed on soundcheck as of Wed, 16 Sept 2026; the next is "The Gardens of Babylon: The Light of The Equinox (SOLD OUT)" on Sat, 19 Sept 2026.
 
 Thuishaven is a music venue in Amsterdam listed on soundcheck. 19 upcoming nights, with line-ups including Kepler, AAT (NL), Abstract Division and A For Alpha and 2 more. Browse upcoming dates, start times and who's playing. Contactweg 68, 1014BW, Amsterdam, Nederland.
 
@@ -23,4 +23,4 @@ Thuishaven is a music venue in Amsterdam listed on soundcheck. 19 upcoming night
 
 Contactweg 68, 1014BW, Amsterdam, Nederland, Amsterdam
 
-*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/thuishaven/)*
+*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/thuishaven/)*

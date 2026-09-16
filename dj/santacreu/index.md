@@ -1,6 +1,6 @@
 # Santacreu
 
-Santacreu is a House and Electro artist with 3 upcoming club dates listed on soundcheck as of Tue, 15 Sept 2026, next at Almanac, Barcelona on Sat, 19 Sept 2026.
+Santacreu is a House and Electro artist with 3 upcoming club dates listed on soundcheck as of Wed, 16 Sept 2026, next at Almanac, Barcelona on Sat, 19 Sept 2026.
 
 Santacreu is a house and electro artist tracked on soundcheck, with 39 sets logged across Barcelona, Ibiza and Lisbon. Often billed alongside MostWanted, Pau Rosés and Daniel del Rio. Next up: Almanac, Barcelona on Sat 19 Sept.
 
@@ -27,4 +27,4 @@ Santacreu is a house and electro artist tracked on soundcheck, with 39 sets logg
 
 MostWanted, Pau Rosés, Daniel del Rio
 
-*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/santacreu/)*
+*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/santacreu/)*

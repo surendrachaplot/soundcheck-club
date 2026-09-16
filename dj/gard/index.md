@@ -1,6 +1,6 @@
 # Gard
 
-Gard is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 15 Sept 2026, next at Karmakoma, Belgrade on Sat, 19 Sept 2026.
+Gard is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 16 Sept 2026, next at Karmakoma, Belgrade on Sat, 19 Sept 2026.
 
 Gard is a house and techno artist based in Serbia, tracked on soundcheck, with 9 sets logged across Belgrade and Hamburg. Often billed alongside Dakman, Gostoja and Dakissa. Next up: Karmakoma, Belgrade on Sat 19 Sept.
 
@@ -25,4 +25,4 @@ Gard is a house and techno artist based in Serbia, tracked on soundcheck, with 9
 
 Dakman, Gostoja, Dakissa
 
-*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/gard/)*
+*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/gard/)*

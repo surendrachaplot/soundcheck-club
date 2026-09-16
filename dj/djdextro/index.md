@@ -1,6 +1,6 @@
 # DJ Dextro
 
-DJ Dextro is a Techno and Acid artist with 4 upcoming club dates listed on soundcheck as of Tue, 15 Sept 2026, next at Bunker, Turin on Sat, 3 Oct 2026.
+DJ Dextro is a Techno and Acid artist with 4 upcoming club dates listed on soundcheck as of Wed, 16 Sept 2026, next at Bunker, Turin on Sat, 3 Oct 2026.
 
 DJ Dextro is a techno and acid artist based in Portugal, tracked on soundcheck, with 33 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 15 more. Often billed alongside Marco Ramos, Industrialyzer and A.Paul. Next up: Bunker, Turin on Sat 3 Oct.
 
@@ -28,4 +28,4 @@ DJ Dextro is a techno and acid artist based in Portugal, tracked on soundcheck, 
 
 Marco Ramos, Industrialyzer, A.Paul
 
-*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djdextro/)*
+*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djdextro/)*

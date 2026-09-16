@@ -1,6 +1,6 @@
-# Hear Now presents Sugar Free All Night Long (Age 21+) ⋆˚꩜｡⋆ at Cobalt Studios
+# Hear Now presents Sugar Free All Night Long (Age 21+)     𖤓˚࿔ 𖤓˚࿔ at Cobalt Studios
 
-Hear Now presents Sugar Free All Night Long (Age 21+) ⋆˚꩜｡⋆ at Cobalt Studios on Sat 7 Nov, Newcastle. 1 act on the bill: Sugar Free. Progressive House and Trance. Preview the line-up and save it on soundcheck.
+Hear Now presents Sugar Free All Night Long (Age 21+)     𖤓˚࿔ 𖤓˚࿔ at Cobalt Studios on Sat 7 Nov, Newcastle. 1 act on the bill: Sugar Free. Progressive House and Trance. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

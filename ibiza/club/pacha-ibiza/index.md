@@ -1,14 +1,13 @@
 # Pacha Ibiza
 
-Pacha Ibiza is a music venue in Ibiza with 23 upcoming nights listed on soundcheck as of Tue, 15 Sept 2026; the next is "Gordo - TARAKA" on Tue, 15 Sept 2026.
+Pacha Ibiza is a music venue in Ibiza with 22 upcoming nights listed on soundcheck as of Wed, 16 Sept 2026; the next is "Mau P - BADDEST BEHAVIOUR" on Wed, 16 Sept 2026.
 
-Pacha Ibiza is a music venue in Ibiza listed on soundcheck. 23 upcoming nights, with line-ups including Adriatique, AJ Christou, Alle Farben and Âme and 2 more. Browse upcoming dates, start times and who's playing. Avenida 8 De Agosto, Ibiza Town, 07800 Ibiza, Islas Baleares, Spain.
+Pacha Ibiza is a music venue in Ibiza listed on soundcheck. 22 upcoming nights, with line-ups including Adriatique, AJ Christou, Alle Farben and Âme and 2 more. Browse upcoming dates, start times and who's playing. Avenida 8 De Agosto, Ibiza Town, 07800 Ibiza, Islas Baleares, Spain.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Tue, 15 Sept 2026 | Gordo - TARAKA | Gordo |
 | Wed, 16 Sept 2026 | Mau P - BADDEST BEHAVIOUR | Mau P |
 | Thu, 17 Sept 2026 | Purple Disco Machine - PURE PACHA | Purple Disco Machine, david bay |
 | Fri, 18 Sept 2026 | Marco Carola PRESENTS MUSIC ON | AJ Christou, Calvin Clarke, Jamie Jones, MEDNAS, Marco Carola, Mason Collective |
@@ -18,9 +17,10 @@ Pacha Ibiza is a music venue in Ibiza listed on soundcheck. 23 upcoming nights, 
 | Tue, 22 Sept 2026 | Gordo - TARAKA - CLOSING PARTY | Gordo |
 | Wed, 23 Sept 2026 | Mau P - BADDEST BEHAVIOUR | Mau P |
 | Thu, 24 Sept 2026 | Purple Disco Machine - PURE PACHA | Purple Disco Machine, Todd Terje, david bay |
+| Fri, 25 Sept 2026 | Marco Carola PRESENTS MUSIC ON | Chelina Manuhutu, Ilario Alicante, Leon, Marco Carola, Neverdogs, Seth Troxler |
 
 ## Address
 
 Avenida 8 De Agosto, Ibiza Town, 07800 Ibiza, Islas Baleares, Spain, Ibiza
 
-*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/ibiza/club/pacha-ibiza/)*
+*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/ibiza/club/pacha-ibiza/)*

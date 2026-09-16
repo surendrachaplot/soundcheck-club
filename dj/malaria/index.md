@@ -1,6 +1,6 @@
 # Marie Malarie
 
-Marie Malarie is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Tue, 15 Sept 2026, next at Phantom Bar Berlin, Berlin on Sat, 3 Oct 2026.
+Marie Malarie is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 16 Sept 2026, next at Phantom Bar Berlin, Berlin on Sat, 3 Oct 2026.
 
 Marie Malarie is a house and techno artist tracked on soundcheck, with 128 sets logged across Amsterdam, Athens, Bali and Barcelona and 31 more. Often billed alongside Byron Yeates, FAFF and Angel D'lite. Next up: Phantom Bar Berlin, Berlin on Sat 3 Oct.
 
@@ -26,4 +26,4 @@ Marie Malarie is a house and techno artist tracked on soundcheck, with 128 sets 
 
 Byron Yeates, FAFF, Angel D'lite
 
-*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/malaria/)*
+*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/malaria/)*

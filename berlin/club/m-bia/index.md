@@ -1,6 +1,6 @@
 # M-BIA
 
-M-BIA is a music venue in Berlin with 13 upcoming nights listed on soundcheck as of Tue, 15 Sept 2026; the next is "Sanctus Harder Styles [Remzcore is back]" on Fri, 18 Sept 2026.
+M-BIA is a music venue in Berlin with 13 upcoming nights listed on soundcheck as of Wed, 16 Sept 2026; the next is "Sanctus Harder Styles [Remzcore is back]" on Fri, 18 Sept 2026.
 
 M-BIA is a music venue in Berlin listed on soundcheck. 13 upcoming nights, with line-ups including Deadly Guns, Gaya Carmeli, Holy Priest and K3VKO and 2 more. Browse upcoming dates, start times and who's playing. Dircksenstr. 123, 10178 Berlin.
 
@@ -23,4 +23,4 @@ M-BIA is a music venue in Berlin listed on soundcheck. 13 upcoming nights, with 
 
 Dircksenstr. 123, 10178 Berlin, Berlin
 
-*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/m-bia/)*
+*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/m-bia/)*

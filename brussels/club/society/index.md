@@ -1,6 +1,6 @@
 # Society
 
-Society is a music venue in Brussels with 2 upcoming nights listed on soundcheck as of Tue, 15 Sept 2026; the next is "𝐒𝐎𝐂𝐈𝐄𝐓𝐘 / 𝘖𝘗𝘌𝘕𝘐𝘕𝘎 𝘚𝘌𝘈𝘚𝘖𝘕 with 𝗧𝗛𝗘 𝗠𝗔𝗚𝗜𝗖𝗜𝗔𝗡 / FRI 18.09" on Fri, 18 Sept 2026.
+Society is a music venue in Brussels with 2 upcoming nights listed on soundcheck as of Wed, 16 Sept 2026; the next is "𝐒𝐎𝐂𝐈𝐄𝐓𝐘 / 𝘖𝘗𝘌𝘕𝘐𝘕𝘎 𝘚𝘌𝘈𝘚𝘖𝘕 with 𝗧𝗛𝗘 𝗠𝗔𝗚𝗜𝗖𝗜𝗔𝗡 / FRI 18.09" on Fri, 18 Sept 2026.
 
 Society is a music venue in Brussels listed on soundcheck. 2 upcoming nights, with line-ups including Belben, Josh Gigante and The Magician. Browse upcoming dates, start times and who's playing. Rue Sainte-Anne 20, 1000 Bruxelles.
 
@@ -15,4 +15,4 @@ Society is a music venue in Brussels listed on soundcheck. 2 upcoming nights, wi
 
 Rue Sainte-Anne 20, 1000 Bruxelles, Brussels
 
-*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/brussels/club/society/)*
+*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/brussels/club/society/)*

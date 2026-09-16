@@ -1,6 +1,6 @@
 # Reformed Society
 
-Reformed Society is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 15 Sept 2026, next at TBA, Madrid on Sat, 10 Oct 2026.
+Reformed Society is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 16 Sept 2026, next at TBA, Madrid on Sat, 10 Oct 2026.
 
 Reformed Society is a techno and house artist tracked on soundcheck, with 29 sets logged across Barcelona and Madrid. Often billed alongside Arildo, Matteo Floris and Baffa. Next up: TBA, Madrid on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ Reformed Society is a techno and house artist tracked on soundcheck, with 29 set
 
 Arildo, Matteo Floris, Baffa
 
-*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/reformedsociety/)*
+*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/reformedsociety/)*

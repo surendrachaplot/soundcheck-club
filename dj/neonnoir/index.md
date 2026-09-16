@@ -1,6 +1,6 @@
 # Neon Noir
 
-Neon Noir is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 15 Sept 2026, next at Bonobo, Tokyo on Fri, 18 Sept 2026.
+Neon Noir is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 16 Sept 2026, next at Bonobo, Tokyo on Fri, 18 Sept 2026.
 
 Neon Noir is a techno and house artist tracked on soundcheck, with 63 sets logged across Tokyo. Often billed alongside HIZAT, RINALUCKY and ayaka. Next up: Bonobo, Tokyo on Fri 18 Sept.
 
@@ -25,4 +25,4 @@ Neon Noir is a techno and house artist tracked on soundcheck, with 63 sets logge
 
 HIZAT, RINALUCKY, ayaka
 
-*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/neonnoir/)*
+*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/neonnoir/)*

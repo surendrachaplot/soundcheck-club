@@ -1,6 +1,6 @@
 # Henry Greenleaf
 
-Henry Greenleaf is a Bass and Jungle artist with 1 upcoming club date listed on soundcheck as of Tue, 15 Sept 2026, next at Romantso, Athens on Fri, 18 Sept 2026.
+Henry Greenleaf is a Bass and Jungle artist with 1 upcoming club date listed on soundcheck as of Wed, 16 Sept 2026, next at Romantso, Athens on Fri, 18 Sept 2026.
 
 Henry Greenleaf is a bass and jungle artist tracked on soundcheck, with 30 sets logged across Athens, Berlin, Bristol and London and 2 more. Often billed alongside Axle, BABY MONET and Maliboo. Next up: Romantso, Athens on Fri 18 Sept.
 
@@ -25,4 +25,4 @@ Henry Greenleaf is a bass and jungle artist tracked on soundcheck, with 30 sets 
 
 Axle, BABY MONET, Maliboo
 
-*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/henrygreenleaf/)*
+*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/henrygreenleaf/)*

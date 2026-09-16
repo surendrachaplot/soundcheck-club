@@ -1,6 +1,6 @@
 # Jay Carder
 
-Jay Carder is a Bass and Garage artist with 5 upcoming club dates listed on soundcheck as of Tue, 15 Sept 2026, next at Romantso, Athens on Fri, 18 Sept 2026.
+Jay Carder is a Bass and Garage artist with 5 upcoming club dates listed on soundcheck as of Wed, 16 Sept 2026, next at Romantso, Athens on Fri, 18 Sept 2026.
 
 Jay Carder is a bass and garage artist tracked on soundcheck, with 111 sets logged across Aberdeen, Athens, Barcelona and Berlin and 21 more. Often billed alongside Neffa-T, Breaka and Lukas Wigflex. Next up: Romantso, Athens on Fri 18 Sept.
 
@@ -29,4 +29,4 @@ Jay Carder is a bass and garage artist tracked on soundcheck, with 111 sets logg
 
 Neffa-T, Breaka, Lukas Wigflex
 
-*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jaycarder/)*
+*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jaycarder/)*

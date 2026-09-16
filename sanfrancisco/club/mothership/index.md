@@ -1,6 +1,6 @@
 # Mothership
 
-Mothership is a music venue in San Francisco/Oakland with 3 upcoming nights listed on soundcheck as of Tue, 15 Sept 2026; the next is "Maja Blast feat. Panderer" on Sat, 19 Sept 2026.
+Mothership is a music venue in San Francisco/Oakland with 3 upcoming nights listed on soundcheck as of Wed, 16 Sept 2026; the next is "Maja Blast feat. Panderer" on Sat, 19 Sept 2026.
 
 Mothership is a music venue in Sanfrancisco listed on soundcheck. 3 upcoming nights, with line-ups including HIDRA and Justyn Myers. Browse upcoming dates, start times and who's playing. 3152 Mission Street San Francisco, CA 94110.
 
@@ -16,4 +16,4 @@ Mothership is a music venue in Sanfrancisco listed on soundcheck. 3 upcoming nig
 
 3152 Mission Street San Francisco, CA 94110, San Francisco/Oakland
 
-*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/mothership/)*
+*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/mothership/)*

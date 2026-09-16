@@ -1,6 +1,6 @@
 # LAVO (2)
 
-LAVO (2) is a Deep House and House artist with 1 upcoming club date listed on soundcheck as of Tue, 15 Sept 2026, next at Rhiz, Vienna on Fri, 18 Sept 2026.
+LAVO (2) is a Deep House and House artist with 1 upcoming club date listed on soundcheck as of Wed, 16 Sept 2026, next at Rhiz, Vienna on Fri, 18 Sept 2026.
 
 LAVO (2) is a deep house and house artist tracked on soundcheck, with 7 sets logged across Barcelona and Vienna. Often billed alongside Fede Frostl, Tash and ALOT. Next up: Rhiz, Vienna on Fri 18 Sept.
 
@@ -23,4 +23,4 @@ LAVO (2) is a deep house and house artist tracked on soundcheck, with 7 sets log
 
 Fede Frostl, Tash, ALOT
 
-*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lavo-2/)*
+*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lavo-2/)*

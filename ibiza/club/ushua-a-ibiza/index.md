@@ -1,6 +1,6 @@
 # Ushuaïa Ibiza
 
-Ushuaïa Ibiza is a music venue in Ibiza with 17 upcoming nights listed on soundcheck as of Tue, 15 Sept 2026; the next is "Tomorrowland and Dimitri Vegas & Like Mike" on Wed, 16 Sept 2026.
+Ushuaïa Ibiza is a music venue in Ibiza with 17 upcoming nights listed on soundcheck as of Wed, 16 Sept 2026; the next is "Tomorrowland and Dimitri Vegas & Like Mike" on Wed, 16 Sept 2026.
 
 Ushuaïa Ibiza is a music venue in Ibiza listed on soundcheck. 17 upcoming nights, with line-ups including Afrojack, Andrea Oliva, Antares and Bastian Bux and 2 more. Browse upcoming dates, start times and who's playing. Playa d'en Bossa 10, Sat Jordi de Ses Salines, 07817 Ibiza, Spain.
 
@@ -23,4 +23,4 @@ Ushuaïa Ibiza is a music venue in Ibiza listed on soundcheck. 17 upcoming night
 
 Playa d'en Bossa 10, Sat Jordi de Ses Salines, 07817 Ibiza, Spain, Ibiza
 
-*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/ibiza/club/ushua-a-ibiza/)*
+*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/ibiza/club/ushua-a-ibiza/)*

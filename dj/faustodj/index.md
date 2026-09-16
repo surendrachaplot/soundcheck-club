@@ -1,6 +1,6 @@
 # Faustø
 
-Faustø is a Techno and Electronica artist with 2 upcoming club dates listed on soundcheck as of Tue, 15 Sept 2026, next at Under Club, Buenos Aires on Fri, 25 Sept 2026.
+Faustø is a Techno and Electronica artist with 2 upcoming club dates listed on soundcheck as of Wed, 16 Sept 2026, next at Under Club, Buenos Aires on Fri, 25 Sept 2026.
 
 Faustø is a techno and electronica artist tracked on soundcheck, with 32 sets logged across Amsterdam, Barcelona, Berlin and Buenosaires and 3 more. Often billed alongside Mariano DC, JULIETA LAKE and Cia Rebeck. Next up: Under Club, Buenosaires on Fri 25 Sept.
 
@@ -26,4 +26,4 @@ Faustø is a techno and electronica artist tracked on soundcheck, with 32 sets l
 
 Mariano DC, JULIETA LAKE, Cia Rebeck
 
-*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/faustodj/)*
+*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/faustodj/)*

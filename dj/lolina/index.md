@@ -1,6 +1,6 @@
 # Lolina
 
-Lolina is a Experimental and Electronica artist with 1 upcoming club date listed on soundcheck as of Tue, 15 Sept 2026, next at Simian, Copenhagen on Sat, 26 Sept 2026.
+Lolina is a Experimental and Electronica artist with 1 upcoming club date listed on soundcheck as of Wed, 16 Sept 2026, next at Simian, Copenhagen on Sat, 26 Sept 2026.
 
 Lolina is an experimental and electronica artist tracked on soundcheck, with 40 sets logged across Amsterdam, Barcelona, Berlin and Bristol and 18 more. Often billed alongside John T. Gast, 7038634357 and Donato Dozzy. Next up: Simian, Copenhagen on Sat 26 Sept.
 
@@ -25,4 +25,4 @@ Lolina is an experimental and electronica artist tracked on soundcheck, with 40 
 
 John T. Gast, 7038634357, Donato Dozzy
 
-*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lolina/)*
+*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lolina/)*

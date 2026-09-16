@@ -1,6 +1,6 @@
 # Blond Felice
 
-Blond Felice is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 15 Sept 2026, next at ZIRKA, Munich on Sat, 26 Sept 2026.
+Blond Felice is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 16 Sept 2026, next at ZIRKA, Munich on Sat, 26 Sept 2026.
 
 Blond Felice is a house and techno artist based in Germany, tracked on soundcheck, with 16 sets logged across Leipzig and Munich. Often billed alongside DJ Aquaplaning, luxus and Clarity. Next up: ZIRKA, Munich on Sat 26 Sept.
 
@@ -25,4 +25,4 @@ Blond Felice is a house and techno artist based in Germany, tracked on soundchec
 
 DJ Aquaplaning, luxus, Clarity
 
-*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/blondfelice/)*
+*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/blondfelice/)*

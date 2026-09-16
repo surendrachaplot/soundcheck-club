@@ -1,6 +1,6 @@
 # ELA MENTAL
 
-ELA MENTAL is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Tue, 15 Sept 2026, next at F8 1192 Folsom, San Francisco/Oakland on Wed, 16 Sept 2026.
+ELA MENTAL is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Wed, 16 Sept 2026, next at F8 1192 Folsom, San Francisco/Oakland on Wed, 16 Sept 2026.
 
 ELA MENTAL is a techno and trance artist based in United States of America, tracked on soundcheck, with 15 sets logged across Sanfrancisco. Often billed alongside CASPII, Just Tosh and JustJovani. Next up: F8 1192 Folsom, Sanfrancisco on Wed 16 Sept.
 
@@ -25,4 +25,4 @@ ELA MENTAL is a techno and trance artist based in United States of America, trac
 
 CASPII, Just Tosh, JustJovani
 
-*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/elamental/)*
+*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/elamental/)*

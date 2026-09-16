@@ -1,6 +1,6 @@
 # Dirk Schot
 
-Dirk Schot is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Tue, 15 Sept 2026, next at Grand Café Heineken Hoek, Amsterdam on Wed, 21 Oct 2026.
+Dirk Schot is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Wed, 16 Sept 2026, next at Grand Café Heineken Hoek, Amsterdam on Wed, 21 Oct 2026.
 
 Dirk Schot is a house and disco artist based in Netherlands, tracked on soundcheck, with 22 sets logged across Amsterdam. Often billed alongside Black Legend, Charlie Brown and Claudius. Next up: Grand Café Heineken Hoek, Amsterdam on Wed 21 Oct.
 
@@ -25,4 +25,4 @@ Dirk Schot is a house and disco artist based in Netherlands, tracked on soundche
 
 Black Legend, Charlie Brown, Claudius
 
-*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dirkschot/)*
+*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dirkschot/)*

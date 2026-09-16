@@ -1,6 +1,6 @@
 # Salar Ansari
 
-Salar Ansari is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 15 Sept 2026, next at H0L0, New York City on Sat, 19 Sept 2026.
+Salar Ansari is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 16 Sept 2026, next at H0L0, New York City on Sat, 19 Sept 2026.
 
 Salar Ansari is a house and techno artist based in Iran, tracked on soundcheck, with 77 sets logged across Amsterdam, Berlin, Boston and Detroit and 9 more. Often billed alongside Shigeto, Aboudi Issa and O.BEE. Next up: H0L0, Newyorkcity on Sat 19 Sept.
 
@@ -25,4 +25,4 @@ Salar Ansari is a house and techno artist based in Iran, tracked on soundcheck, 
 
 Shigeto, Aboudi Issa, O.BEE
 
-*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/salaransari/)*
+*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/salaransari/)*

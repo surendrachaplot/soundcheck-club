@@ -1,6 +1,6 @@
 # Alam
 
-Alam is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Tue, 15 Sept 2026, next at TBA - JOLOKO KL , Kuala Lumpur on Sat, 19 Sept 2026.
+Alam is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Wed, 16 Sept 2026, next at TBA - JOLOKO KL , Kuala Lumpur on Sat, 19 Sept 2026.
 
 Alam is a house and tech house artist based in Malaysia, tracked on soundcheck, with 189 sets logged across Bali, Kualalumpur and Singapore. Often billed alongside Axel Groove, Victor G (MY) and Odd (MY). Next up: TBA - JOLOKO KL , Kualalumpur on Sat 19 Sept.
 
@@ -25,4 +25,4 @@ Alam is a house and tech house artist based in Malaysia, tracked on soundcheck, 
 
 Axel Groove, Victor G (MY), Odd (MY)
 
-*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/alam/)*
+*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/alam/)*

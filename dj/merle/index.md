@@ -1,6 +1,6 @@
 # Merle
 
-Merle is a House and Electronica artist with 1 upcoming club date listed on soundcheck as of Tue, 15 Sept 2026, next at Klunkerkranich, Berlin on Sat, 19 Sept 2026.
+Merle is a House and Electronica artist with 1 upcoming club date listed on soundcheck as of Wed, 16 Sept 2026, next at Klunkerkranich, Berlin on Sat, 19 Sept 2026.
 
 Merle is a house and electronica artist tracked on soundcheck, with 4 sets logged across Amsterdam, Berlin, Paris and Zurich. Often billed alongside AVALON, Adrija and BARIŞ BERBER. Next up: Klunkerkranich, Berlin on Sat 19 Sept.
 
@@ -20,4 +20,4 @@ Merle is a house and electronica artist tracked on soundcheck, with 4 sets logge
 
 AVALON, Adrija, BARIŞ BERBER
 
-*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/merle/)*
+*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/merle/)*

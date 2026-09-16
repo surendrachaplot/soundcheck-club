@@ -1,6 +1,6 @@
 # IDHAZ
 
-IDHAZ is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 15 Sept 2026, next at The Lab, San Francisco/Oakland on Thu, 24 Sept 2026.
+IDHAZ is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 16 Sept 2026, next at The Lab, San Francisco/Oakland on Thu, 24 Sept 2026.
 
 IDHAZ is a techno and house artist tracked on soundcheck, with 10 sets logged across Sanfrancisco. Often billed alongside Discnogirl, Tom Marsi and Tomu DJ. Next up: The Lab, Sanfrancisco on Thu 24 Sept.
 
@@ -25,4 +25,4 @@ IDHAZ is a techno and house artist tracked on soundcheck, with 10 sets logged ac
 
 Discnogirl, Tom Marsi, Tomu DJ
 
-*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/idhaz/)*
+*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/idhaz/)*

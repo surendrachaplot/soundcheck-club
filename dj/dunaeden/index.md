@@ -1,6 +1,6 @@
 # DUNA ËDEN
 
-DUNA ËDEN is a Techno and Acid artist with 1 upcoming club date listed on soundcheck as of Tue, 15 Sept 2026, next at TBA, Barcelona on Sat, 26 Sept 2026.
+DUNA ËDEN is a Techno and Acid artist with 1 upcoming club date listed on soundcheck as of Wed, 16 Sept 2026, next at TBA, Barcelona on Sat, 26 Sept 2026.
 
 DUNA ËDEN is a techno and acid artist tracked on soundcheck, with 34 sets logged across Barcelona. Often billed alongside Mahe, JOANNA COELHO and DIL KASHMIR. Next up: TBA, Barcelona on Sat 26 Sept.
 
@@ -25,4 +25,4 @@ DUNA ËDEN is a techno and acid artist tracked on soundcheck, with 34 sets logge
 
 Mahe, JOANNA COELHO, DIL KASHMIR
 
-*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dunaeden/)*
+*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dunaeden/)*

@@ -1,6 +1,6 @@
 # Sam Binga
 
-Sam Binga is a Bass and Garage artist with 4 upcoming club dates listed on soundcheck as of Tue, 15 Sept 2026, next at Club U, Vienna on Fri, 25 Sept 2026.
+Sam Binga is a Bass and Garage artist with 4 upcoming club dates listed on soundcheck as of Wed, 16 Sept 2026, next at Club U, Vienna on Fri, 25 Sept 2026.
 
 Sam Binga is a bass and garage artist tracked on soundcheck, with 87 sets logged across Auckland, Austin, Birmingham and Boston and 35 more. Often billed alongside Bianca Oblivion, Addison Groove and Amy Kisnorbo. Next up: Club U, Vienna on Fri 25 Sept.
 
@@ -28,4 +28,4 @@ Sam Binga is a bass and garage artist tracked on soundcheck, with 87 sets logged
 
 Bianca Oblivion, Addison Groove, Amy Kisnorbo
 
-*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sambinga/)*
+*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sambinga/)*

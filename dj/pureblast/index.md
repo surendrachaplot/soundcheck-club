@@ -1,6 +1,6 @@
 # Pureblast
 
-Pureblast is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Tue, 15 Sept 2026, next at Badaboum, Paris on Sat, 17 Oct 2026.
+Pureblast is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Wed, 16 Sept 2026, next at Badaboum, Paris on Sat, 17 Oct 2026.
 
 Pureblast is a techno and trance artist based in France, tracked on soundcheck, with 36 sets logged across Berlin, Brisbane, Brussels and Frankfurt and 14 more. Often billed alongside Audrey Danza, DJ Physical and MZA (FR). Next up: Badaboum, Paris on Sat 17 Oct.
 
@@ -25,4 +25,4 @@ Pureblast is a techno and trance artist based in France, tracked on soundcheck, 
 
 Audrey Danza, DJ Physical, MZA (FR)
 
-*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/pureblast/)*
+*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/pureblast/)*

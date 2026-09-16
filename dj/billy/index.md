@@ -1,6 +1,6 @@
 # BILLY
 
-BILLY is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Tue, 15 Sept 2026, next at Kavka Oudaan, Antwerp on Sat, 3 Oct 2026.
+BILLY is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Wed, 16 Sept 2026, next at Kavka Oudaan, Antwerp on Sat, 3 Oct 2026.
 
 BILLY is a techno and trance artist based in Peru, tracked on soundcheck, with 23 sets logged across Antwerp, Barcelona, Berlin and Brussels and 4 more. Often billed alongside Mario Ignacio, Skeletor Yogi and BISOUX. Next up: Kavka Oudaan, Antwerp on Sat 3 Oct.
 
@@ -25,4 +25,4 @@ BILLY is a techno and trance artist based in Peru, tracked on soundcheck, with 2
 
 Mario Ignacio, Skeletor Yogi, BISOUX
 
-*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/billy/)*
+*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/billy/)*

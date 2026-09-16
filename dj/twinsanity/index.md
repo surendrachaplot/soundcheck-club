@@ -1,6 +1,6 @@
 # Twinsanity
 
-Twinsanity is a Minimal and Tech House artist with 1 upcoming club date listed on soundcheck as of Tue, 15 Sept 2026, next at Abercrombie Hotel, Sydney on Fri, 18 Sept 2026.
+Twinsanity is a Minimal and Tech House artist with 1 upcoming club date listed on soundcheck as of Wed, 16 Sept 2026, next at Abercrombie Hotel, Sydney on Fri, 18 Sept 2026.
 
 Twinsanity is a minimal and tech house artist tracked on soundcheck, with 27 sets logged across Athens, Melbourne and Sydney. Often billed alongside Nat Salih, Rev Lon and Dasha SPRW. Next up: Abercrombie Hotel, Sydney on Fri 18 Sept.
 
@@ -25,4 +25,4 @@ Twinsanity is a minimal and tech house artist tracked on soundcheck, with 27 set
 
 Nat Salih, Rev Lon, Dasha SPRW
 
-*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/twinsanity/)*
+*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/twinsanity/)*

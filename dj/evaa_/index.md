@@ -1,6 +1,6 @@
 # Evaa_
 
-Evaa_ is a House and Electro artist with 1 upcoming club date listed on soundcheck as of Tue, 15 Sept 2026, next at MOGO, Milan on Fri, 18 Sept 2026.
+Evaa_ is a House and Electro artist with 1 upcoming club date listed on soundcheck as of Wed, 16 Sept 2026, next at MOGO, Milan on Fri, 18 Sept 2026.
 
 Evaa_ is a house and electro artist tracked on soundcheck, with 4 sets logged across Berlin, Milan and Rome. Often billed alongside Achieh, Alexia Glensy and Francesco Salvadori. Next up: MOGO, Milan on Fri 18 Sept.
 
@@ -20,4 +20,4 @@ Evaa_ is a house and electro artist tracked on soundcheck, with 4 sets logged ac
 
 Achieh, Alexia Glensy, Francesco Salvadori
 
-*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/evaa_/)*
+*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/evaa_/)*

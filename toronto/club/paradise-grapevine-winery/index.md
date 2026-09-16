@@ -1,6 +1,6 @@
 # Paradise Grapevine Winery
 
-Paradise Grapevine Winery is a music venue in Toronto with 1 upcoming night listed on soundcheck as of Tue, 15 Sept 2026; the next is "Sound On Geary" on Sat, 19 Sept 2026.
+Paradise Grapevine Winery is a music venue in Toronto with 1 upcoming night listed on soundcheck as of Wed, 16 Sept 2026; the next is "Sound On Geary" on Sat, 19 Sept 2026.
 
 Paradise Grapevine Winery is a music venue in Toronto listed on soundcheck. 1 upcoming night, with line-ups including Alister Johnson, badtrpboi, Chiara and City Dance Corporation and 2 more. Browse upcoming dates, start times and who's playing. 218 Geary Ave, M6H 2C3, Toronto, ON, Canada.
 
@@ -14,4 +14,4 @@ Paradise Grapevine Winery is a music venue in Toronto listed on soundcheck. 1 up
 
 218 Geary Ave, M6H 2C3, Toronto, ON, Canada, Toronto
 
-*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/paradise-grapevine-winery/)*
+*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/paradise-grapevine-winery/)*

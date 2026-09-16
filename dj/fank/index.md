@@ -1,6 +1,6 @@
 # FANK
 
-FANK is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Tue, 15 Sept 2026, next at RSO.BERLIN, Berlin on Sat, 19 Sept 2026.
+FANK is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Wed, 16 Sept 2026, next at RSO.BERLIN, Berlin on Sat, 19 Sept 2026.
 
 FANK is a techno and house artist based in Germany, tracked on soundcheck, with 15 sets logged across Berlin, Cologne and Zurich. Often billed alongside FILTRACK, MAURER and BENZA. Next up: RSO.BERLIN, Berlin on Sat 19 Sept.
 
@@ -27,4 +27,4 @@ FANK is a techno and house artist based in Germany, tracked on soundcheck, with 
 
 FILTRACK, MAURER, BENZA
 
-*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/fank/)*
+*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/fank/)*

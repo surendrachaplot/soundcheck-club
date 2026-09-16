@@ -1,6 +1,6 @@
 # Village Underground Lisboa
 
-Village Underground Lisboa is a music venue in Lisbon with 6 upcoming nights listed on soundcheck as of Tue, 15 Sept 2026; the next is "PARTY PEOPLE x RADIAL AV • September 17, 2026" on Thu, 17 Sept 2026.
+Village Underground Lisboa is a music venue in Lisbon with 6 upcoming nights listed on soundcheck as of Wed, 16 Sept 2026; the next is "PARTY PEOPLE x RADIAL AV • September 17, 2026" on Thu, 17 Sept 2026.
 
 Village Underground Lisboa is a music venue in Lisbon listed on soundcheck. 6 upcoming nights, with line-ups including Bryto, Camps (1), David Rodrigues and DJ Nox and 2 more. Browse upcoming dates, start times and who's playing. Avenida da India 52, 1300-299 Lisboa.
 
@@ -19,4 +19,4 @@ Village Underground Lisboa is a music venue in Lisbon listed on soundcheck. 6 up
 
 Avenida da India 52, 1300-299 Lisboa, Lisbon
 
-*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/lisbon/club/village-underground-lisboa/)*
+*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/lisbon/club/village-underground-lisboa/)*

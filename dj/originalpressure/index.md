@@ -1,6 +1,6 @@
 # Original Pressure
 
-Original Pressure is a Drum & Bass and Jungle artist with 1 upcoming club date listed on soundcheck as of Tue, 15 Sept 2026, next at Sigma, Ibiza on Fri, 18 Sept 2026.
+Original Pressure is a Drum & Bass and Jungle artist with 1 upcoming club date listed on soundcheck as of Wed, 16 Sept 2026, next at Sigma, Ibiza on Fri, 18 Sept 2026.
 
 Original Pressure is a drum & bass and jungle artist tracked on soundcheck, with 9 sets logged across Ibiza, London and Porto. Often billed alongside PIX.L, Able and Basic (2). Next up: Sigma, Ibiza on Fri 18 Sept.
 
@@ -25,4 +25,4 @@ Original Pressure is a drum & bass and jungle artist tracked on soundcheck, with
 
 PIX.L, Able, Basic (2)
 
-*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/originalpressure/)*
+*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/originalpressure/)*

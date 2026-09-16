@@ -1,6 +1,6 @@
 # Jozette
 
-Jozette is a House and Electro artist with 1 upcoming club date listed on soundcheck as of Tue, 15 Sept 2026, next at Gateshead Quayside, Newcastle on Sat, 26 Sept 2026.
+Jozette is a House and Electro artist with 1 upcoming club date listed on soundcheck as of Wed, 16 Sept 2026, next at Gateshead Quayside, Newcastle on Sat, 26 Sept 2026.
 
 Jozette is a house and electro artist tracked on soundcheck, with 14 sets logged across Aberdeen, Edinburgh, Glasgow and Newcastle. Often billed alongside Frankie Elyse, Corran and Just Beth. Next up: Gateshead Quayside, Newcastle on Sat 26 Sept.
 
@@ -25,4 +25,4 @@ Jozette is a house and electro artist tracked on soundcheck, with 14 sets logged
 
 Frankie Elyse, Corran, Just Beth
 
-*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jozette/)*
+*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jozette/)*

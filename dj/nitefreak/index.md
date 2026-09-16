@@ -1,8 +1,8 @@
 # Nitefreak
 
-Nitefreak is a Afro House and House artist with 5 upcoming club dates listed on soundcheck as of Tue, 15 Sept 2026, next at 99 Scott Ave, New York City on Fri, 18 Sept 2026.
+Nitefreak is a Afro House and House artist with 6 upcoming club dates listed on soundcheck as of Wed, 16 Sept 2026, next at 99 Scott Ave, New York City on Fri, 18 Sept 2026.
 
-Nitefreak is an afro house and house artist tracked on soundcheck, with 58 sets logged across Amsterdam, Athens, Austin and Bali and 20 more. Often billed alongside Francis Mercier, MoBlack and Bun Xapa. Next up: 99 Scott Ave, Newyorkcity on Fri 18 Sept.
+Nitefreak is an afro house and house artist tracked on soundcheck, with 59 sets logged across Amsterdam, Athens, Austin and Bali and 20 more. Often billed alongside Francis Mercier, MoBlack and Bun Xapa. Next up: 99 Scott Ave, Newyorkcity on Fri 18 Sept.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Nitefreak is an afro house and house artist tracked on soundcheck, with 58 sets 
 | --- | --- | --- |
 | Fri, 18 Sept 2026 | 99 Scott Ave | New York City |
 | Sat, 19 Sept 2026 | 620 Jones | San Francisco/Oakland |
+| Sat, 19 Sept 2026 | Audio SF | San Francisco/Oakland |
 | Mon, 21 Sept 2026 | Hï Ibiza | Ibiza |
 | Fri, 25 Sept 2026 | Culture | Washington DC |
 | Sat, 24 Oct 2026 | Afas Live | Amsterdam |
@@ -29,4 +30,4 @@ Nitefreak is an afro house and house artist tracked on soundcheck, with 58 sets 
 
 Francis Mercier, MoBlack, Bun Xapa
 
-*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nitefreak/)*
+*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nitefreak/)*

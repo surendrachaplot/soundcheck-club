@@ -1,6 +1,6 @@
 # La Gravière
 
-La Gravière is a music venue in Geneva with 5 upcoming nights listed on soundcheck as of Tue, 15 Sept 2026; the next is "[NOCTAMBAR] Pekodjinn" on Thu, 17 Sept 2026.
+La Gravière is a music venue in Geneva with 5 upcoming nights listed on soundcheck as of Wed, 16 Sept 2026; the next is "[NOCTAMBAR] Pekodjinn" on Thu, 17 Sept 2026.
 
 La Gravière is a music venue in Geneva listed on soundcheck. 5 upcoming nights, with line-ups including ALIASLOH, Mysthy, Pekodjinn and ugo2hell. Browse upcoming dates, start times and who's playing. Chemin de la Gravière 9, 1227 Genève, Switzerland.
 
@@ -18,4 +18,4 @@ La Gravière is a music venue in Geneva listed on soundcheck. 5 upcoming nights,
 
 Chemin de la Gravière 9, 1227 Genève, Switzerland, Geneva
 
-*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/geneva/club/la-gravi-re/)*
+*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/geneva/club/la-gravi-re/)*

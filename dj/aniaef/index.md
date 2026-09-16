@@ -1,6 +1,6 @@
 # Aniaef
 
-Aniaef is a Techno and Electro artist with 4 upcoming club dates listed on soundcheck as of Tue, 15 Sept 2026, next at Bar A Bar, London on Fri, 18 Sept 2026.
+Aniaef is a Techno and Electro artist with 4 upcoming club dates listed on soundcheck as of Wed, 16 Sept 2026, next at Bar A Bar, London on Fri, 18 Sept 2026.
 
 Aniaef is a techno and electro artist tracked on soundcheck, with 18 sets logged across London. Often billed alongside Ylia (UK), GIZZI and H Grade. Next up: Bar A Bar, London on Fri 18 Sept.
 
@@ -28,4 +28,4 @@ Aniaef is a techno and electro artist tracked on soundcheck, with 18 sets logged
 
 Ylia (UK), GIZZI, H Grade
 
-*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/aniaef/)*
+*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/aniaef/)*

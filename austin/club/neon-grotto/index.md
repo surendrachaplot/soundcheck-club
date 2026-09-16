@@ -1,6 +1,6 @@
 # Neon Grotto
 
-Neon Grotto is a music venue in Austin with 1 upcoming night listed on soundcheck as of Tue, 15 Sept 2026; the next is "All Things Deep w/Kadabra/Q/Knos" on Thu, 17 Sept 2026.
+Neon Grotto is a music venue in Austin with 1 upcoming night listed on soundcheck as of Wed, 16 Sept 2026; the next is "All Things Deep w/Kadabra/Q/Knos" on Thu, 17 Sept 2026.
 
 Neon Grotto is a music venue in Austin listed on soundcheck. 1 upcoming night, with line-ups including Kadabra and Knos. Browse upcoming dates, start times and who's playing. 318 Colorado St, Austin, TX 78701, United States.
 
@@ -14,4 +14,4 @@ Neon Grotto is a music venue in Austin listed on soundcheck. 1 upcoming night, w
 
 318 Colorado St, Austin, TX 78701, United States, Austin
 
-*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/austin/club/neon-grotto/)*
+*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/austin/club/neon-grotto/)*

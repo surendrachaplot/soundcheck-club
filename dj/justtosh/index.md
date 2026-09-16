@@ -1,6 +1,6 @@
 # Just Tosh
 
-Just Tosh is a Trance and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 15 Sept 2026, next at F8 1192 Folsom, San Francisco/Oakland on Wed, 16 Sept 2026.
+Just Tosh is a Trance and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 16 Sept 2026, next at F8 1192 Folsom, San Francisco/Oakland on Wed, 16 Sept 2026.
 
 Just Tosh is a trance and techno artist tracked on soundcheck, with 9 sets logged across Sanfrancisco. Often billed alongside ELA MENTAL, Olivia Lauren and AGROPOL. Next up: F8 1192 Folsom, Sanfrancisco on Wed 16 Sept.
 
@@ -25,4 +25,4 @@ Just Tosh is a trance and techno artist tracked on soundcheck, with 9 sets logge
 
 ELA MENTAL, Olivia Lauren, AGROPOL
 
-*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/justtosh/)*
+*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/justtosh/)*

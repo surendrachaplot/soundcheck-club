@@ -1,6 +1,6 @@
 # OFFGRID
 
-OFFGRID is a Techno and Garage artist with 1 upcoming club date listed on soundcheck as of Tue, 15 Sept 2026, next at The Mash House, Edinburgh on Fri, 25 Sept 2026.
+OFFGRID is a Techno and Garage artist with 1 upcoming club date listed on soundcheck as of Wed, 16 Sept 2026, next at The Mash House, Edinburgh on Fri, 25 Sept 2026.
 
 OFFGRID is a techno and garage artist based in United Kingdom, tracked on soundcheck, with 7 sets logged across Edinburgh. Often billed alongside Ryan Murphy (2), cara hegarty and BORLEY. Next up: The Mash House, Edinburgh on Fri 25 Sept.
 
@@ -23,4 +23,4 @@ OFFGRID is a techno and garage artist based in United Kingdom, tracked on soundc
 
 Ryan Murphy (2), cara hegarty, BORLEY
 
-*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/offgrid-uk/)*
+*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/offgrid-uk/)*

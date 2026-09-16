@@ -1,6 +1,6 @@
 # Max Data
 
-Max Data is a Electronica and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 15 Sept 2026, next at Desterro, Lisbon on Fri, 18 Sept 2026.
+Max Data is a Electronica and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 16 Sept 2026, next at Desterro, Lisbon on Fri, 18 Sept 2026.
 
 Max Data is an electronica and techno artist tracked on soundcheck, with 9 sets logged across Lisbon, Madrid and Porto. Often billed alongside Medallion Man, DJ Feet and Enkō. Next up: Desterro, Lisbon on Fri 18 Sept.
 
@@ -25,4 +25,4 @@ Max Data is an electronica and techno artist tracked on soundcheck, with 9 sets 
 
 Medallion Man, DJ Feet, Enkō
 
-*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/maxdata/)*
+*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/maxdata/)*

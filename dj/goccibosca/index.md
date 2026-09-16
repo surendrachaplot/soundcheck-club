@@ -1,6 +1,6 @@
 # Gocci Bosca
 
-Gocci Bosca is a Techno and EBM artist with 1 upcoming club date listed on soundcheck as of Tue, 15 Sept 2026, next at TBA - SECRET LOCATION, Buenos Aires on Sun, 20 Sept 2026.
+Gocci Bosca is a Techno and EBM artist with 1 upcoming club date listed on soundcheck as of Wed, 16 Sept 2026, next at TBA - SECRET LOCATION, Buenos Aires on Sun, 20 Sept 2026.
 
 Gocci Bosca is a techno and ebm artist tracked on soundcheck, with 6 sets logged across Buenosaires and Newyorkcity. Often billed alongside Fritz Ta, STEEN and Adam Hadari. Next up: TBA - SECRET LOCATION, Buenosaires on Sun 20 Sept.
 
@@ -22,4 +22,4 @@ Gocci Bosca is a techno and ebm artist tracked on soundcheck, with 6 sets logged
 
 Fritz Ta, STEEN, Adam Hadari
 
-*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/goccibosca/)*
+*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/goccibosca/)*

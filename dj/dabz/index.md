@@ -1,6 +1,6 @@
 # Dabz
 
-Dabz is a House and Afro House artist with 1 upcoming club date listed on soundcheck as of Tue, 15 Sept 2026, next at Flash, Washington DC on Fri, 18 Sept 2026.
+Dabz is a House and Afro House artist with 1 upcoming club date listed on soundcheck as of Wed, 16 Sept 2026, next at Flash, Washington DC on Fri, 18 Sept 2026.
 
 Dabz is a house and afro house artist based in United States of America, tracked on soundcheck, with 15 sets logged across Washingtondc. Often billed alongside Yasseen, G.E.N.E. and Jus Nowhere. Next up: Flash, Washingtondc on Fri 18 Sept.
 
@@ -25,4 +25,4 @@ Dabz is a house and afro house artist based in United States of America, tracked
 
 Yasseen, G.E.N.E., Jus Nowhere
 
-*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dabz/)*
+*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dabz/)*

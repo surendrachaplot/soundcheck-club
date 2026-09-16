@@ -1,6 +1,6 @@
 # CHAMOS
 
-CHAMOS is a Club and House artist with 4 upcoming club dates listed on soundcheck as of Tue, 15 Sept 2026, next at Fållan, Stockholm on Sat, 19 Sept 2026.
+CHAMOS is a Club and House artist with 4 upcoming club dates listed on soundcheck as of Wed, 16 Sept 2026, next at Fållan, Stockholm on Sat, 19 Sept 2026.
 
 CHAMOS is a club and house artist based in Netherlands, tracked on soundcheck, with 29 sets logged across Amsterdam, Bali, Barcelona and Berlin and 16 more. Often billed alongside Anish Kumar, Arthi and Bardia Ghobadi. Next up: Fållan, Stockholm on Sat 19 Sept.
 
@@ -28,4 +28,4 @@ CHAMOS is a club and house artist based in Netherlands, tracked on soundcheck, w
 
 Anish Kumar, Arthi, Bardia Ghobadi
 
-*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/chamos/)*
+*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/chamos/)*

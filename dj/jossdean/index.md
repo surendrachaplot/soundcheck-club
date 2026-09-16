@@ -1,6 +1,6 @@
 # Joss Dean
 
-Joss Dean is a House and Tech House artist with 12 upcoming club dates listed on soundcheck as of Tue, 15 Sept 2026, next at The Loft, Manchester on Fri, 18 Sept 2026.
+Joss Dean is a House and Tech House artist with 12 upcoming club dates listed on soundcheck as of Wed, 16 Sept 2026, next at The Loft, Manchester on Fri, 18 Sept 2026.
 
 Joss Dean is a house and tech house artist tracked on soundcheck, with 88 sets logged across Aberdeen, Amsterdam, Antwerp and Austin and 28 more. Often billed alongside Tommy Phillips, Max Dean and Ozzie Guven. Next up: The Loft, Manchester on Fri 18 Sept.
 
@@ -36,4 +36,4 @@ Joss Dean is a house and tech house artist tracked on soundcheck, with 88 sets l
 
 Tommy Phillips, Max Dean, Ozzie Guven
 
-*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jossdean/)*
+*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jossdean/)*

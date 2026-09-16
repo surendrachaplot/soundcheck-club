@@ -1,6 +1,6 @@
 # The Trinity Centre
 
-The Trinity Centre is a music venue in Bristol with 6 upcoming nights listed on soundcheck as of Tue, 15 Sept 2026; the next is "Pangea presents ~ Operation Joyful Behaviour" on Fri, 18 Sept 2026.
+The Trinity Centre is a music venue in Bristol with 6 upcoming nights listed on soundcheck as of Wed, 16 Sept 2026; the next is "Pangea presents ~ Operation Joyful Behaviour" on Fri, 18 Sept 2026.
 
 The Trinity Centre is a music venue in Bristol listed on soundcheck. 6 upcoming nights, with line-ups including ASIAN BRAT, Betsy Mae, Coki and Darcy and 2 more. Browse upcoming dates, start times and who's playing. Trinity Road; Bristol BS2 0NW; United Kingdom.
 
@@ -19,4 +19,4 @@ The Trinity Centre is a music venue in Bristol listed on soundcheck. 6 upcoming 
 
 Trinity Road; Bristol BS2 0NW; United Kingdom, Bristol
 
-*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/bristol/club/the-trinity-centre/)*
+*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/bristol/club/the-trinity-centre/)*

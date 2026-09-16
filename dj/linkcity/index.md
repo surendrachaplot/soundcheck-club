@@ -1,6 +1,6 @@
 # LinkCity
 
-LinkCity is a Techno and Garage artist with 1 upcoming club date listed on soundcheck as of Tue, 15 Sept 2026, next at Paradise Palms, Edinburgh on Wed, 16 Sept 2026.
+LinkCity is a Techno and Garage artist with 1 upcoming club date listed on soundcheck as of Wed, 16 Sept 2026, next at Paradise Palms, Edinburgh on Wed, 16 Sept 2026.
 
 LinkCity is a techno and garage artist based in United Kingdom, tracked on soundcheck, with 30 sets logged across Edinburgh, Glasgow and Melbourne. Often billed alongside Jodie Mooney, JI_2001 and Lara Sinclair. Next up: Paradise Palms, Edinburgh on Wed 16 Sept.
 
@@ -25,4 +25,4 @@ LinkCity is a techno and garage artist based in United Kingdom, tracked on sound
 
 Jodie Mooney, JI_2001, Lara Sinclair
 
-*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/linkcity/)*
+*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/linkcity/)*

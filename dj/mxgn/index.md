@@ -1,6 +1,6 @@
 # MXGN
 
-MXGN is a Techno and Trance artist with 3 upcoming club dates listed on soundcheck as of Tue, 15 Sept 2026, next at Mia Mao, Paris on Fri, 23 Oct 2026.
+MXGN is a Techno and Trance artist with 3 upcoming club dates listed on soundcheck as of Wed, 16 Sept 2026, next at Mia Mao, Paris on Fri, 23 Oct 2026.
 
 MXGN is a techno and trance artist tracked on soundcheck, with 16 sets logged across Berlin, Edinburgh, Ibiza and Istanbul and 3 more. Often billed alongside Alex Farell, Faster Horses and PALØ. Next up: Mia Mao, Paris on Fri 23 Oct.
 
@@ -27,4 +27,4 @@ MXGN is a techno and trance artist tracked on soundcheck, with 16 sets logged ac
 
 Alex Farell, Faster Horses, PALØ
 
-*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mxgn/)*
+*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mxgn/)*

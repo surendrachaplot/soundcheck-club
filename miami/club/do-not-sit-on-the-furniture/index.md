@@ -1,6 +1,6 @@
 # Do Not Sit On The Furniture
 
-Do Not Sit On The Furniture is a music venue in Miami with 27 upcoming nights listed on soundcheck as of Tue, 15 Sept 2026; the next is "Jessy & Friends" on Wed, 16 Sept 2026.
+Do Not Sit On The Furniture is a music venue in Miami with 27 upcoming nights listed on soundcheck as of Wed, 16 Sept 2026; the next is "Jessy & Friends" on Wed, 16 Sept 2026.
 
 Do Not Sit On The Furniture is a music venue in Miami listed on soundcheck. 27 upcoming nights, with line-ups including Armen Miran, baez, Basti Grub and George Vidal and 2 more. Browse upcoming dates, start times and who's playing. 423 16th St, Miami Beach, FL 33139.
 
@@ -23,4 +23,4 @@ Do Not Sit On The Furniture is a music venue in Miami listed on soundcheck. 27 u
 
 423 16th St, Miami Beach, FL 33139, Miami
 
-*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/miami/club/do-not-sit-on-the-furniture/)*
+*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/miami/club/do-not-sit-on-the-furniture/)*

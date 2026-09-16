@@ -1,14 +1,13 @@
 # Red Bar
 
-Red Bar is a music venue in Tokyo with 5 upcoming nights listed on soundcheck as of Tue, 15 Sept 2026; the next is "NEKTAR" on Tue, 15 Sept 2026.
+Red Bar is a music venue in Tokyo with 4 upcoming nights listed on soundcheck as of Wed, 16 Sept 2026; the next is "REDBAR WEDNESDAY" on Wed, 16 Sept 2026.
 
-Red Bar is a music venue in Tokyo listed on soundcheck. 5 upcoming nights, with line-ups including Atsuki, Daichi, DNG (1) and Good Company Broadcast Group and 2 more. Browse upcoming dates, start times and who's playing. 4-5-9 Shibuya, Shibuya-ku, Tokyo, 150-0043 Japan.
+Red Bar is a music venue in Tokyo listed on soundcheck. 4 upcoming nights, with line-ups including Atsuki, Daichi, DNG (1) and Good Company Broadcast Group and 2 more. Browse upcoming dates, start times and who's playing. 4-5-9 Shibuya, Shibuya-ku, Tokyo, 150-0043 Japan.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Tue, 15 Sept 2026 | NEKTAR |  |
 | Wed, 16 Sept 2026 | REDBAR WEDNESDAY |  |
 | Thu, 17 Sept 2026 | REDBAR THURSDAY | YELLOWUHURU, kengotaki |
 | Fri, 18 Sept 2026 | REDBAR FRIDAY | Atsuki, DNG (1), RIHO ASAEDA |
@@ -18,4 +17,4 @@ Red Bar is a music venue in Tokyo listed on soundcheck. 5 upcoming nights, with 
 
 4-5-9 Shibuya, Shibuya-ku, Tokyo, 150-0043 Japan, Tokyo
 
-*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/red-bar/)*
+*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/red-bar/)*

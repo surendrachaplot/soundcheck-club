@@ -1,6 +1,6 @@
 # JANEIN
 
-JANEIN is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 15 Sept 2026, next at Silent Studios, Auckland on Sat, 14 Nov 2026.
+JANEIN is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 16 Sept 2026, next at Silent Studios, Auckland on Sat, 14 Nov 2026.
 
 JANEIN is a techno and house artist tracked on soundcheck, with 85 sets logged across Auckland, Basel, Belgrade and Berlin and 15 more. Often billed alongside Stigmatique, Shaleen and Anna Hjalmarsson. Next up: Silent Studios, Auckland on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ JANEIN is a techno and house artist tracked on soundcheck, with 85 sets logged a
 
 Stigmatique, Shaleen, Anna Hjalmarsson
 
-*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/janein/)*
+*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/janein/)*

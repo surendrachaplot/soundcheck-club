@@ -1,6 +1,6 @@
 # After Dark
 
-After Dark is a music venue in Bristol with 5 upcoming nights listed on soundcheck as of Tue, 15 Sept 2026; the next is "BEG 2 DIFFER 002" on Thu, 17 Sept 2026.
+After Dark is a music venue in Bristol with 5 upcoming nights listed on soundcheck as of Wed, 16 Sept 2026; the next is "BEG 2 DIFFER 002" on Thu, 17 Sept 2026.
 
 After Dark is a music venue in Bristol listed on soundcheck. 5 upcoming nights, with line-ups including Dressed To Sweat, Hayliegh, Jawjee and Luke Brancaccio and 2 more. Browse upcoming dates, start times and who's playing. Crusader House, 12 St Stephen's St, Bristol BS1 1EL.
 
@@ -18,4 +18,4 @@ After Dark is a music venue in Bristol listed on soundcheck. 5 upcoming nights, 
 
 Crusader House, 12 St Stephen's St, Bristol BS1 1EL, Bristol
 
-*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/bristol/club/after-dark/)*
+*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/bristol/club/after-dark/)*

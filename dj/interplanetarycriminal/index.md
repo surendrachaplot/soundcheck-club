@@ -1,6 +1,6 @@
 # Interplanetary Criminal
 
-Interplanetary Criminal is a Garage and House artist with 13 upcoming club dates listed on soundcheck as of Tue, 15 Sept 2026, next at Amnesia Ibiza, Ibiza on Thu, 17 Sept 2026.
+Interplanetary Criminal is a Garage and House artist with 13 upcoming club dates listed on soundcheck as of Wed, 16 Sept 2026, next at Amnesia Ibiza, Ibiza on Thu, 17 Sept 2026.
 
 Interplanetary Criminal is a garage and house artist tracked on soundcheck, with 259 sets logged across Aberdeen, Amsterdam, Antwerp and Austin and 70 more. Often billed alongside Main Phase, MALUGI and DJ Heartstring. Next up: Amnesia Ibiza, Ibiza on Thu 17 Sept.
 
@@ -36,4 +36,4 @@ Interplanetary Criminal is a garage and house artist tracked on soundcheck, with
 
 Main Phase, MALUGI, DJ Heartstring
 
-*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/interplanetarycriminal/)*
+*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/interplanetarycriminal/)*

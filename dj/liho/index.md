@@ -1,6 +1,6 @@
 # Liho
 
-Liho is a Techno and Deep House artist with 3 upcoming club dates listed on soundcheck as of Tue, 15 Sept 2026, next at Artheater, Cologne on Fri, 18 Sept 2026.
+Liho is a Techno and Deep House artist with 3 upcoming club dates listed on soundcheck as of Wed, 16 Sept 2026, next at Artheater, Cologne on Fri, 18 Sept 2026.
 
 Liho is a techno and deep house artist based in Germany, tracked on soundcheck, with 39 sets logged across Cologne. Often billed alongside Max Blumen, Gutkind and Juan Del Chambo. Next up: Artheater, Cologne on Fri 18 Sept.
 
@@ -27,4 +27,4 @@ Liho is a techno and deep house artist based in Germany, tracked on soundcheck, 
 
 Max Blumen, Gutkind, Juan Del Chambo
 
-*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/liho/)*
+*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/liho/)*

@@ -1,6 +1,6 @@
 # The Whisper Room
 
-The Whisper Room is a music venue in Singapore with 1 upcoming night listed on soundcheck as of Tue, 15 Sept 2026; the next is "Aura presents: Collé" on Fri, 25 Sept 2026.
+The Whisper Room is a music venue in Singapore with 1 upcoming night listed on soundcheck as of Wed, 16 Sept 2026; the next is "Aura presents: Collé" on Fri, 25 Sept 2026.
 
 The Whisper Room is a music venue in Singapore listed on soundcheck. 1 upcoming night, with line-ups including Call Me Ben, Collé and NAYRA. Browse upcoming dates, start times and who's playing. 138 Market St, Level 38 CapitaGreen, Singapore 048946.
 
@@ -14,4 +14,4 @@ The Whisper Room is a music venue in Singapore listed on soundcheck. 1 upcoming 
 
 138 Market St, Level 38 CapitaGreen, Singapore 048946, Singapore
 
-*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/singapore/club/the-whisper-room/)*
+*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/singapore/club/the-whisper-room/)*

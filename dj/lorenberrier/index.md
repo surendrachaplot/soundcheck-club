@@ -1,6 +1,6 @@
 # Loren Berrier
 
-Loren Berrier is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 15 Sept 2026, next at Jupiter Disco, New York City on Fri, 16 Oct 2026.
+Loren Berrier is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 16 Sept 2026, next at Jupiter Disco, New York City on Fri, 16 Oct 2026.
 
 Loren Berrier is a house and techno artist tracked on soundcheck, with 9 sets logged across Newyorkcity. Often billed alongside Lily Ray, Andrey Trofimov and Carlo Sine. Next up: Jupiter Disco, Newyorkcity on Fri 16 Oct.
 
@@ -25,4 +25,4 @@ Loren Berrier is a house and techno artist tracked on soundcheck, with 9 sets lo
 
 Lily Ray, Andrey Trofimov, Carlo Sine
 
-*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lorenberrier/)*
+*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lorenberrier/)*

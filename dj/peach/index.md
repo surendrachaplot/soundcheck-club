@@ -1,6 +1,6 @@
 # Peach
 
-Peach is a House and Techno artist with 12 upcoming club dates listed on soundcheck as of Tue, 15 Sept 2026, next at Gut Level, Sheffield on Sat, 19 Sept 2026.
+Peach is a House and Techno artist with 12 upcoming club dates listed on soundcheck as of Wed, 16 Sept 2026, next at Gut Level, Sheffield on Sat, 19 Sept 2026.
 
 Peach is a house and techno artist tracked on soundcheck, with 218 sets logged across Amsterdam, Antwerp, Bali and Bangkok and 54 more. Often billed alongside Shanti Celeste, Gabrielle Kwarteng and Saoirse. Next up: Gut Level, Sheffield on Sat 19 Sept.
 
@@ -36,4 +36,4 @@ Peach is a house and techno artist tracked on soundcheck, with 218 sets logged a
 
 Shanti Celeste, Gabrielle Kwarteng, Saoirse
 
-*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/peach/)*
+*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/peach/)*

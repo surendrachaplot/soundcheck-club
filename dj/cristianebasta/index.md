@@ -1,6 +1,6 @@
 # Cristian Ebasta
 
-Cristian Ebasta is a Tech House and Techno artist with 2 upcoming club dates listed on soundcheck as of Tue, 15 Sept 2026, next at Mercato Metropolitano, London on Fri, 18 Sept 2026.
+Cristian Ebasta is a Tech House and Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 16 Sept 2026, next at Mercato Metropolitano, London on Fri, 18 Sept 2026.
 
 Cristian Ebasta is a tech house and techno artist tracked on soundcheck, with 47 sets logged across London and Madrid. Often billed alongside Enrico Chirchiello, Francesco Poggi and El Cassar. Next up: Mercato Metropolitano, London on Fri 18 Sept.
 
@@ -26,4 +26,4 @@ Cristian Ebasta is a tech house and techno artist tracked on soundcheck, with 47
 
 Enrico Chirchiello, Francesco Poggi, El Cassar
 
-*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/cristianebasta/)*
+*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/cristianebasta/)*

@@ -1,6 +1,6 @@
 # blanket forts
 
-blanket forts is a Experimental and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 15 Sept 2026, next at Boomtown Brewery, Los Angeles on Thu, 17 Sept 2026.
+blanket forts is a Experimental and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 16 Sept 2026, next at Boomtown Brewery, Los Angeles on Thu, 17 Sept 2026.
 
 blanket forts is an experimental and techno artist tracked on soundcheck, with 3 sets logged across Losangeles. Often billed alongside The Elastic Ball, HansiLa and Hot Sound Injection. Next up: Boomtown Brewery, Losangeles on Thu 17 Sept.
 
@@ -19,4 +19,4 @@ blanket forts is an experimental and techno artist tracked on soundcheck, with 3
 
 The Elastic Ball, HansiLa, Hot Sound Injection
 
-*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/blanketforts/)*
+*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/blanketforts/)*

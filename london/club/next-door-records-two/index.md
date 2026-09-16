@@ -1,6 +1,6 @@
 # Next Door Records Two
 
-Next Door Records Two is a music venue in London with 3 upcoming nights listed on soundcheck as of Tue, 15 Sept 2026; the next is "SOAP012: Christian Bonanata, batgirl, and Ruby SD" on Fri, 18 Sept 2026.
+Next Door Records Two is a music venue in London with 3 upcoming nights listed on soundcheck as of Wed, 16 Sept 2026; the next is "SOAP012: Christian Bonanata, batgirl, and Ruby SD" on Fri, 18 Sept 2026.
 
 Next Door Records Two is a music venue in London listed on soundcheck. 3 upcoming nights, with line-ups including Ruby SD, A.Wild, batgirl and DANCE PROTOCOL and 2 more. Browse upcoming dates, start times and who's playing. 182 Stoke Newington Rd, London N16 7UY.
 
@@ -16,4 +16,4 @@ Next Door Records Two is a music venue in London listed on soundcheck. 3 upcomin
 
 182 Stoke Newington Rd, London N16 7UY, London
 
-*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/next-door-records-two/)*
+*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/next-door-records-two/)*

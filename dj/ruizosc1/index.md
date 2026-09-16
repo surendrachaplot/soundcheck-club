@@ -1,6 +1,6 @@
 # RUIZ OSC1
 
-RUIZ OSC1 is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Tue, 15 Sept 2026, next at OIL Club, Shenzhen on Fri, 18 Sept 2026.
+RUIZ OSC1 is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Wed, 16 Sept 2026, next at OIL Club, Shenzhen on Fri, 18 Sept 2026.
 
 RUIZ OSC1 is a techno and house artist tracked on soundcheck, with 144 sets logged across Amsterdam, Athens, Barcelona and Belgrade and 40 more. Often billed alongside Carmen Electro, Beau Didier and Tarkno. Next up: OIL Club, Shenzhen on Fri 18 Sept.
 
@@ -28,4 +28,4 @@ RUIZ OSC1 is a techno and house artist tracked on soundcheck, with 144 sets logg
 
 Carmen Electro, Beau Didier, Tarkno
 
-*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ruizosc1/)*
+*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ruizosc1/)*

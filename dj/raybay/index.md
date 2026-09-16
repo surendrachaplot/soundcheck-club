@@ -1,6 +1,6 @@
 # RAYBAY
 
-RAYBAY is a Jungle and Breakbeat artist with 1 upcoming club date listed on soundcheck as of Tue, 15 Sept 2026, next at Green Works, Bristol on Fri, 18 Sept 2026.
+RAYBAY is a Jungle and Breakbeat artist with 1 upcoming club date listed on soundcheck as of Wed, 16 Sept 2026, next at Green Works, Bristol on Fri, 18 Sept 2026.
 
 RAYBAY is a jungle and breakbeat artist tracked on soundcheck, with 20 sets logged across Bristol. Often billed alongside Demetria, Burt Cope and Bodhi. Next up: Green Works, Bristol on Fri 18 Sept.
 
@@ -25,4 +25,4 @@ RAYBAY is a jungle and breakbeat artist tracked on soundcheck, with 20 sets logg
 
 Demetria, Burt Cope, Bodhi
 
-*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/raybay/)*
+*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/raybay/)*

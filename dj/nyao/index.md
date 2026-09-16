@@ -1,6 +1,6 @@
 # NYAO
 
-NYAO is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Tue, 15 Sept 2026, next at WOMB, Tokyo on Fri, 18 Sept 2026.
+NYAO is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Wed, 16 Sept 2026, next at WOMB, Tokyo on Fri, 18 Sept 2026.
 
 NYAO is a techno and house artist based in Japan, tracked on soundcheck, with 70 sets logged across Paris and Tokyo. Often billed alongside Taichi Kawahira, DANA NADA and DANDAN. Next up: WOMB, Tokyo on Fri 18 Sept.
 
@@ -27,4 +27,4 @@ NYAO is a techno and house artist based in Japan, tracked on soundcheck, with 70
 
 Taichi Kawahira, DANA NADA, DANDAN
 
-*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nyao/)*
+*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nyao/)*

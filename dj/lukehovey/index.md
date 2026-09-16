@@ -1,6 +1,6 @@
 # Luke Hovey
 
-Luke Hovey is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Tue, 15 Sept 2026, next at ark (Melb), Melbourne on Sat, 26 Sept 2026.
+Luke Hovey is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Wed, 16 Sept 2026, next at ark (Melb), Melbourne on Sat, 26 Sept 2026.
 
 Luke Hovey is a techno and trance artist tracked on soundcheck, with 38 sets logged across Amsterdam, Berlin, Hobart and Melbourne and 3 more. Often billed alongside Black Dave, franck and Emma Moon. Next up: ark (Melb), Melbourne on Sat 26 Sept.
 
@@ -26,4 +26,4 @@ Luke Hovey is a techno and trance artist tracked on soundcheck, with 38 sets log
 
 Black Dave, franck, Emma Moon
 
-*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lukehovey/)*
+*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lukehovey/)*

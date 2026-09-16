@@ -1,6 +1,6 @@
 # Dj Hermano
 
-Dj Hermano is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 15 Sept 2026, next at Salon Daomé, Montreal on Fri, 25 Sept 2026.
+Dj Hermano is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 16 Sept 2026, next at Salon Daomé, Montreal on Fri, 25 Sept 2026.
 
 Dj Hermano is a house and techno artist tracked on soundcheck, with 73 sets logged across Chicago, Losangeles, Mexicocity and Montreal and 8 more. Often billed alongside Pretty Gay Friendly, Mok-T and CUERPOS. Next up: Salon Daomé, Montreal on Fri 25 Sept.
 
@@ -25,4 +25,4 @@ Dj Hermano is a house and techno artist tracked on soundcheck, with 73 sets logg
 
 Pretty Gay Friendly, Mok-T, CUERPOS
 
-*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djhermano/)*
+*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djhermano/)*

@@ -1,6 +1,6 @@
 # Dylan Fly
 
-Dylan Fly is a Tech House and House artist with 2 upcoming club dates listed on soundcheck as of Tue, 15 Sept 2026, next at Evangeline, Toronto on Fri, 18 Sept 2026.
+Dylan Fly is a Tech House and House artist with 2 upcoming club dates listed on soundcheck as of Wed, 16 Sept 2026, next at Evangeline, Toronto on Fri, 18 Sept 2026.
 
 Dylan Fly is a tech house and house artist tracked on soundcheck, with 15 sets logged across Toronto. Often billed alongside Bretty Boop, Batiste and Gabe Katz. Next up: Evangeline, Toronto on Fri 18 Sept.
 
@@ -26,4 +26,4 @@ Dylan Fly is a tech house and house artist tracked on soundcheck, with 15 sets l
 
 Bretty Boop, Batiste, Gabe Katz
 
-*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dylanfly/)*
+*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dylanfly/)*

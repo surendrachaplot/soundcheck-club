@@ -1,6 +1,6 @@
 # Heritage Listed
 
-Heritage Listed is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Tue, 15 Sept 2026, next at Loop51, Amsterdam on Sat, 24 Oct 2026.
+Heritage Listed is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Wed, 16 Sept 2026, next at Loop51, Amsterdam on Sat, 24 Oct 2026.
 
 Heritage Listed is a house and disco artist tracked on soundcheck, with 31 sets logged across Amsterdam, Geneva, Melbourne and Paris. Often billed alongside Le Hutin, Kirilski and Emma Champagne Queen. Next up: Loop51, Amsterdam on Sat 24 Oct.
 
@@ -26,4 +26,4 @@ Heritage Listed is a house and disco artist tracked on soundcheck, with 31 sets 
 
 Le Hutin, Kirilski, Emma Champagne Queen
 
-*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/heritagelisted/)*
+*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/heritagelisted/)*

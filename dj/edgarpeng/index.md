@@ -1,6 +1,6 @@
 # Edgar Peng
 
-Edgar Peng is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 15 Sept 2026, next at Bike Jesus, Prague on Fri, 25 Sept 2026.
+Edgar Peng is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 16 Sept 2026, next at Bike Jesus, Prague on Fri, 25 Sept 2026.
 
 Edgar Peng is a house and techno artist tracked on soundcheck, with 87 sets logged across Amsterdam, Barcelona, Berlin and Cologne and 8 more. Often billed alongside Nils Ohrmann, Koljah and Empro. Next up: Bike Jesus, Prague on Fri 25 Sept.
 
@@ -25,4 +25,4 @@ Edgar Peng is a house and techno artist tracked on soundcheck, with 87 sets logg
 
 Nils Ohrmann, Koljah, Empro
 
-*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/edgarpeng/)*
+*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/edgarpeng/)*

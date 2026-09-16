@@ -1,6 +1,6 @@
 # Podlasie Club
 
-Podlasie Club is a music venue in Chicago with 12 upcoming nights listed on soundcheck as of Tue, 15 Sept 2026; the next is "Various Distractions 002" on Wed, 16 Sept 2026.
+Podlasie Club is a music venue in Chicago with 12 upcoming nights listed on soundcheck as of Wed, 16 Sept 2026; the next is "Various Distractions 002" on Wed, 16 Sept 2026.
 
 Podlasie Club is a music venue in Chicago listed on soundcheck. 12 upcoming nights, with line-ups including Beau Wanzer, Brendan Lemkin, Carré and Casper McFadden and 2 more. Browse upcoming dates, start times and who's playing. 2918 N Central Park Ave, Avondale, Chicago, IL, 60618.
 
@@ -23,4 +23,4 @@ Podlasie Club is a music venue in Chicago listed on soundcheck. 12 upcoming nigh
 
 2918 N Central Park Ave, Avondale, Chicago, IL, 60618, Chicago
 
-*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/chicago/club/podlasie-club/)*
+*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/chicago/club/podlasie-club/)*

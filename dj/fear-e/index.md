@@ -1,6 +1,6 @@
 # Fear-E
 
-Fear-E is a Techno and Acid artist with 3 upcoming club dates listed on soundcheck as of Tue, 15 Sept 2026, next at Argyle Arcade (Buchanan Street Entrance), Glasgow on Sat, 19 Sept 2026.
+Fear-E is a Techno and Acid artist with 3 upcoming club dates listed on soundcheck as of Wed, 16 Sept 2026, next at Argyle Arcade (Buchanan Street Entrance), Glasgow on Sat, 19 Sept 2026.
 
 Fear-E is a techno and acid artist based in United Kingdom, tracked on soundcheck, with 30 sets logged across Berlin, Bristol, Edinburgh and Glasgow and 4 more. Often billed alongside Jerome Hill, Co-Accused and Nightwave. Next up: Argyle Arcade (Buchanan Street Entrance), Glasgow on Sat 19 Sept.
 
@@ -27,4 +27,4 @@ Fear-E is a techno and acid artist based in United Kingdom, tracked on soundchec
 
 Jerome Hill, Co-Accused, Nightwave
 
-*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/fear-e/)*
+*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/fear-e/)*

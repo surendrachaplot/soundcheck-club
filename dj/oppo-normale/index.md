@@ -1,6 +1,6 @@
 # Oppo-Normalè
 
-Oppo-Normalè is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Tue, 15 Sept 2026, next at La Noxe Trinity, New York City on Fri, 25 Sept 2026.
+Oppo-Normalè is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 16 Sept 2026, next at La Noxe Trinity, New York City on Fri, 25 Sept 2026.
 
 Oppo-Normalè is a house and techno artist based in United States of America, tracked on soundcheck, with 16 sets logged across Newyorkcity. Often billed alongside hayden, Black Maij and kitkaths. Next up: La Noxe Trinity, Newyorkcity on Fri 25 Sept.
 
@@ -26,4 +26,4 @@ Oppo-Normalè is a house and techno artist based in United States of America, tr
 
 hayden, Black Maij, kitkaths
 
-*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/oppo-normale/)*
+*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/oppo-normale/)*

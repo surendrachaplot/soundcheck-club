@@ -1,6 +1,6 @@
 # Resume Valencia
 
-Resume Valencia is a music venue in Valencia with 7 upcoming nights listed on soundcheck as of Tue, 15 Sept 2026; the next is "KUBICK, SIMONE WELLE" on Fri, 18 Sept 2026.
+Resume Valencia is a music venue in Valencia with 7 upcoming nights listed on soundcheck as of Wed, 16 Sept 2026; the next is "KUBICK, SIMONE WELLE" on Fri, 18 Sept 2026.
 
 Resume Valencia is a music venue in Valencia listed on soundcheck. 7 upcoming nights, with line-ups including blan.trrs, Cristian Sarde, IKAKO and Sergio Manyez and 1 more. Browse upcoming dates, start times and who's playing. Carrer del Mestre Josep Serrano, 8, L'Eixample, 46005 València, Valencia.
 
@@ -20,4 +20,4 @@ Resume Valencia is a music venue in Valencia listed on soundcheck. 7 upcoming ni
 
 Carrer del Mestre Josep Serrano, 8, L'Eixample, 46005 València, Valencia, Valencia
 
-*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/valencia/club/resume-valencia/)*
+*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/valencia/club/resume-valencia/)*

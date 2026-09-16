@@ -1,6 +1,6 @@
 # SMG (UK)
 
-SMG (UK) is a Drum & Bass and Jungle artist with 4 upcoming club dates listed on soundcheck as of Tue, 15 Sept 2026, next at Grelle Forelle, Vienna on Sat, 19 Sept 2026.
+SMG (UK) is a Drum & Bass and Jungle artist with 4 upcoming club dates listed on soundcheck as of Wed, 16 Sept 2026, next at Grelle Forelle, Vienna on Sat, 19 Sept 2026.
 
 SMG (UK) is a drum & bass and jungle artist tracked on soundcheck, with 11 sets logged across Bristol, Leipzig, London and Madrid and 5 more. Often billed alongside Waeys, Calyx and Skantia. Next up: Grelle Forelle, Vienna on Sat 19 Sept.
 
@@ -27,4 +27,4 @@ SMG (UK) is a drum & bass and jungle artist tracked on soundcheck, with 11 sets 
 
 Waeys, Calyx, Skantia
 
-*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/smguk/)*
+*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/smguk/)*

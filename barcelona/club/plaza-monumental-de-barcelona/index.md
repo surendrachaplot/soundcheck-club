@@ -1,6 +1,6 @@
 # Plaza Monumental de Barcelona
 
-Plaza Monumental de Barcelona is a music venue in Barcelona with 5 upcoming nights listed on soundcheck as of Tue, 15 Sept 2026; the next is "SOUNDIT Plaza:Detroit Love:Carl Craig ft Mike Banks(live),Octave One(live), Laia,Klara Missyle" on Sat, 3 Oct 2026.
+Plaza Monumental de Barcelona is a music venue in Barcelona with 5 upcoming nights listed on soundcheck as of Wed, 16 Sept 2026; the next is "SOUNDIT Plaza:Detroit Love:Carl Craig ft Mike Banks(live),Octave One(live), Laia,Klara Missyle" on Sat, 3 Oct 2026.
 
 Plaza Monumental de Barcelona is a music venue in Barcelona listed on soundcheck. 5 upcoming nights, with line-ups including Aurora Halal, Carl Craig, EYRA and formica (ES) and 2 more. Browse upcoming dates, start times and who's playing. Gran Via de les Corts Catalanes, 749, 08013 Barcelona, España.
 
@@ -18,4 +18,4 @@ Plaza Monumental de Barcelona is a music venue in Barcelona listed on soundcheck
 
 Gran Via de les Corts Catalanes, 749, 08013 Barcelona, España, Barcelona
 
-*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/plaza-monumental-de-barcelona/)*
+*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/plaza-monumental-de-barcelona/)*

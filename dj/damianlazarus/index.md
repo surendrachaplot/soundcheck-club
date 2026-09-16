@@ -1,6 +1,6 @@
 # Damian Lazarus
 
-Damian Lazarus is a House and Techno artist with 10 upcoming club dates listed on soundcheck as of Tue, 15 Sept 2026, next at BORIS CLUB, Barcelona on Sat, 19 Sept 2026.
+Damian Lazarus is a House and Techno artist with 10 upcoming club dates listed on soundcheck as of Wed, 16 Sept 2026, next at BORIS CLUB, Barcelona on Sat, 19 Sept 2026.
 
 Damian Lazarus is a house and techno artist tracked on soundcheck, with 210 sets logged across Amsterdam, Antwerp, Athens and Bali and 33 more. Often billed alongside Black Coffee, Paul Reynolds and Cameron Jack. Next up: BORIS CLUB, Barcelona on Sat 19 Sept.
 
@@ -34,4 +34,4 @@ Damian Lazarus is a house and techno artist tracked on soundcheck, with 210 sets
 
 Black Coffee, Paul Reynolds, Cameron Jack
 
-*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/damianlazarus/)*
+*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/damianlazarus/)*

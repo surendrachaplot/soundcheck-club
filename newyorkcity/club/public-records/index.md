@@ -1,6 +1,6 @@
 # public records
 
-public records is a music venue in New York City with 41 upcoming nights listed on soundcheck as of Tue, 15 Sept 2026; the next is "Ballet: trickpony, Notte Infinita [Live], Yaki" on Thu, 17 Sept 2026.
+public records is a music venue in New York City with 41 upcoming nights listed on soundcheck as of Wed, 16 Sept 2026; the next is "Ballet: trickpony, Notte Infinita [Live], Yaki" on Thu, 17 Sept 2026.
 
 public records is a music venue in Newyorkcity listed on soundcheck. 41 upcoming nights, with line-ups including MORENXXX, AADJA, Aaron Dae and Abby Echiverri and 2 more. Browse upcoming dates, start times and who's playing. 233 Butler St, Brooklyn, NY 11217, USA.
 
@@ -23,4 +23,4 @@ public records is a music venue in Newyorkcity listed on soundcheck. 41 upcoming
 
 233 Butler St, Brooklyn, NY 11217, USA, New York City
 
-*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/public-records/)*
+*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/public-records/)*

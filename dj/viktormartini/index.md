@@ -1,6 +1,6 @@
 # Viktor Martini
 
-Viktor Martini is a Afro House and Afro Tech artist with 1 upcoming club date listed on soundcheck as of Tue, 15 Sept 2026, next at TBA - DERIENZO , Rome on Thu, 17 Sept 2026.
+Viktor Martini is a Afro House and Afro Tech artist with 1 upcoming club date listed on soundcheck as of Wed, 16 Sept 2026, next at TBA - DERIENZO , Rome on Thu, 17 Sept 2026.
 
 Viktor Martini is an afro house and afro tech artist tracked on soundcheck, with 9 sets logged across Rome. Often billed alongside Mimmo Errico, Frank Master and Aelita. Next up: TBA - DERIENZO , Rome on Thu 17 Sept.
 
@@ -25,4 +25,4 @@ Viktor Martini is an afro house and afro tech artist tracked on soundcheck, with
 
 Mimmo Errico, Frank Master, Aelita
 
-*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/viktormartini/)*
+*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/viktormartini/)*

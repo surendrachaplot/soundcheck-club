@@ -1,6 +1,6 @@
 # Freiya March
 
-Freiya March is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Tue, 15 Sept 2026, next at Kaņepes Kultūras Centrs, Riga on Sat, 19 Sept 2026.
+Freiya March is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Wed, 16 Sept 2026, next at Kaņepes Kultūras Centrs, Riga on Sat, 19 Sept 2026.
 
 Freiya March is a techno and house artist tracked on soundcheck, with 46 sets logged across Berlin and Riga. Often billed alongside Ikss, Giuseppe Amodeo and Ksenia Kamikaza. Next up: Kaņepes Kultūras Centrs, Riga on Sat 19 Sept.
 
@@ -27,4 +27,4 @@ Freiya March is a techno and house artist tracked on soundcheck, with 46 sets lo
 
 Ikss, Giuseppe Amodeo, Ksenia Kamikaza
 
-*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/freiyamarch/)*
+*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/freiyamarch/)*

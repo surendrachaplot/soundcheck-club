@@ -1,6 +1,6 @@
 # androgienia
 
-androgienia is a Techno and Experimental artist with 2 upcoming club dates listed on soundcheck as of Tue, 15 Sept 2026, next at TBA - Jana Zamoyskiego 20, Warsaw on Fri, 18 Sept 2026.
+androgienia is a Techno and Experimental artist with 2 upcoming club dates listed on soundcheck as of Wed, 16 Sept 2026, next at TBA - Jana Zamoyskiego 20, Warsaw on Fri, 18 Sept 2026.
 
 androgienia is a techno and experimental artist tracked on soundcheck, with 35 sets logged across Amsterdam, Berlin, Krakow and Warsaw. Often billed alongside PLATTER, DiV4 and KAROLINDA. Next up: TBA - Jana Zamoyskiego 20, Warsaw on Fri 18 Sept.
 
@@ -26,4 +26,4 @@ androgienia is a techno and experimental artist tracked on soundcheck, with 35 s
 
 PLATTER, DiV4, KAROLINDA
 
-*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/androgienia/)*
+*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/androgienia/)*

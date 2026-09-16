@@ -1,6 +1,6 @@
 # la Monz
 
-la Monz is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Tue, 15 Sept 2026, next at Commune, New York City on Sat, 19 Sept 2026.
+la Monz is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Wed, 16 Sept 2026, next at Commune, New York City on Sat, 19 Sept 2026.
 
 la Monz is a house and disco artist tracked on soundcheck, with 5 sets logged across Newyorkcity. Often billed alongside Supes Base and Harp la Monz. Next up: Commune, Newyorkcity on Sat 19 Sept.
 
@@ -21,4 +21,4 @@ la Monz is a house and disco artist tracked on soundcheck, with 5 sets logged ac
 
 Supes Base, Harp la Monz
 
-*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lamonz/)*
+*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lamonz/)*

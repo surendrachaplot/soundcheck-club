@@ -1,6 +1,6 @@
 # La Vega
 
-La Vega is a House and Deep House artist with 2 upcoming club dates listed on soundcheck as of Tue, 15 Sept 2026, next at Dead Letter No. 9, New York City on Sat, 19 Sept 2026.
+La Vega is a House and Deep House artist with 2 upcoming club dates listed on soundcheck as of Wed, 16 Sept 2026, next at Dead Letter No. 9, New York City on Sat, 19 Sept 2026.
 
 La Vega is a house and deep house artist based in United States of America, tracked on soundcheck, with 43 sets logged across Barcelona, Berlin, Detroit and Lisbon and 6 more. Often billed alongside Javier de la Vega, Marteen and Alma Linda. Next up: Dead Letter No. 9, Newyorkcity on Sat 19 Sept.
 
@@ -26,4 +26,4 @@ La Vega is a house and deep house artist based in United States of America, trac
 
 Javier de la Vega, Marteen, Alma Linda
 
-*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lavega/)*
+*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lavega/)*

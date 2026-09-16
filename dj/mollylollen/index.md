@@ -1,6 +1,6 @@
 # Molly Lollen
 
-Molly Lollen is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 15 Sept 2026, next at TBA - Storkower Straße 119, Berlin on Sat, 26 Sept 2026.
+Molly Lollen is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 16 Sept 2026, next at TBA - Storkower Straße 119, Berlin on Sat, 26 Sept 2026.
 
 Molly Lollen is a techno and house artist tracked on soundcheck, with 14 sets logged across Berlin, Copenhagen and Hamburg. Often billed alongside John Fick, 8-AN and GLIA. Next up: TBA - Storkower Straße 119, Berlin on Sat 26 Sept.
 
@@ -25,4 +25,4 @@ Molly Lollen is a techno and house artist tracked on soundcheck, with 14 sets lo
 
 John Fick, 8-AN, GLIA
 
-*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mollylollen/)*
+*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mollylollen/)*

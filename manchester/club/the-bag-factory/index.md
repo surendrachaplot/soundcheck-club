@@ -1,6 +1,6 @@
 # The Bag Factory
 
-The Bag Factory is a music venue in Manchester with 4 upcoming nights listed on soundcheck as of Tue, 15 Sept 2026; the next is "FUSION presents: Patient w/ Griser MC @ The Bag Factory" on Sat, 19 Sept 2026.
+The Bag Factory is a music venue in Manchester with 4 upcoming nights listed on soundcheck as of Wed, 16 Sept 2026; the next is "FUSION presents: Patient w/ Griser MC @ The Bag Factory" on Sat, 19 Sept 2026.
 
 The Bag Factory is a music venue in Manchester listed on soundcheck. 4 upcoming nights, with line-ups including Yonic. Browse upcoming dates, start times and who's playing. Dickinson St, Manchester M3 7LW.
 
@@ -17,4 +17,4 @@ The Bag Factory is a music venue in Manchester listed on soundcheck. 4 upcoming 
 
 Dickinson St, Manchester M3 7LW, Manchester
 
-*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/the-bag-factory/)*
+*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/the-bag-factory/)*

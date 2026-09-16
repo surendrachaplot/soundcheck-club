@@ -1,6 +1,6 @@
 # merlin bobb
 
-merlin bobb is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Tue, 15 Sept 2026, next at TBA - SpinnaVerse BK, New York City on Fri, 25 Sept 2026.
+merlin bobb is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Wed, 16 Sept 2026, next at TBA - SpinnaVerse BK, New York City on Fri, 25 Sept 2026.
 
 merlin bobb is a house and deep house artist based in United States of America, tracked on soundcheck, with 15 sets logged across Newyorkcity. Often billed alongside DJ Spinna, Mark Francis and Timmy Regisford. Next up: TBA - SpinnaVerse BK, Newyorkcity on Fri 25 Sept.
 
@@ -25,4 +25,4 @@ merlin bobb is a house and deep house artist based in United States of America, 
 
 DJ Spinna, Mark Francis, Timmy Regisford
 
-*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/merlinbobb/)*
+*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/merlinbobb/)*

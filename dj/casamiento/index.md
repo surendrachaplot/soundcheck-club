@@ -1,6 +1,6 @@
 # Casamiento
 
-Casamiento is a Reggaeton and Ghetto Tech artist with 1 upcoming club date listed on soundcheck as of Tue, 15 Sept 2026, next at TBA - DTLA Warehouse, Los Angeles on Fri, 18 Sept 2026.
+Casamiento is a Reggaeton and Ghetto Tech artist with 1 upcoming club date listed on soundcheck as of Wed, 16 Sept 2026, next at TBA - DTLA Warehouse, Los Angeles on Fri, 18 Sept 2026.
 
 Casamiento is a reggaeton and ghetto tech artist based in United States of America, tracked on soundcheck, with 15 sets logged across Chicago, Losangeles and Sanfrancisco. Often billed alongside henrryrza, Cquestt and Giselle Peppers. Next up: TBA - DTLA Warehouse, Losangeles on Fri 18 Sept.
 
@@ -25,4 +25,4 @@ Casamiento is a reggaeton and ghetto tech artist based in United States of Ameri
 
 henrryrza, Cquestt, Giselle Peppers
 
-*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/casamiento/)*
+*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/casamiento/)*

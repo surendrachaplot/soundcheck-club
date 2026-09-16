@@ -1,6 +1,6 @@
 # Myrtle
 
-Myrtle is a Bass and Dubstep artist with 1 upcoming club date listed on soundcheck as of Tue, 15 Sept 2026, next at Paradise Palms, Edinburgh on Thu, 17 Sept 2026.
+Myrtle is a Bass and Dubstep artist with 1 upcoming club date listed on soundcheck as of Wed, 16 Sept 2026, next at Paradise Palms, Edinburgh on Thu, 17 Sept 2026.
 
 Myrtle is a bass and dubstep artist based in United Kingdom, tracked on soundcheck, with 11 sets logged across Edinburgh. Often billed alongside Lara Sinclair, ZO3 (1) and Buckfast Barbie. Next up: Paradise Palms, Edinburgh on Thu 17 Sept.
 
@@ -25,4 +25,4 @@ Myrtle is a bass and dubstep artist based in United Kingdom, tracked on soundche
 
 Lara Sinclair, ZO3 (1), Buckfast Barbie
 
-*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/myrtle/)*
+*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/myrtle/)*

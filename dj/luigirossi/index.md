@@ -1,6 +1,6 @@
 # Luigi Rossi
 
-Luigi Rossi is a Minimal and House artist with 1 upcoming club date listed on soundcheck as of Tue, 15 Sept 2026, next at Sigma, Ibiza on Sat, 10 Oct 2026.
+Luigi Rossi is a Minimal and House artist with 1 upcoming club date listed on soundcheck as of Wed, 16 Sept 2026, next at Sigma, Ibiza on Sat, 10 Oct 2026.
 
 Luigi Rossi is a minimal and house artist based in Italy, tracked on soundcheck, with 56 sets logged across Berlin, Frankfurt, Ibiza and Prague and 1 more. Often billed alongside Eclud, The Liquid Dude and Cesar Vinzent. Next up: Sigma, Ibiza on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ Luigi Rossi is a minimal and house artist based in Italy, tracked on soundcheck,
 
 Eclud, The Liquid Dude, Cesar Vinzent
 
-*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/luigirossi/)*
+*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/luigirossi/)*

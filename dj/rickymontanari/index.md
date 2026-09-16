@@ -1,6 +1,6 @@
 # Ricky Montanari
 
-Ricky Montanari is a House and Italo Disco artist with 1 upcoming club date listed on soundcheck as of Tue, 15 Sept 2026, next at Gianca - Murazzi, Turin on Sat, 19 Sept 2026.
+Ricky Montanari is a House and Italo Disco artist with 1 upcoming club date listed on soundcheck as of Wed, 16 Sept 2026, next at Gianca - Murazzi, Turin on Sat, 19 Sept 2026.
 
 Ricky Montanari is a house and italo disco artist tracked on soundcheck, with 13 sets logged across Berlin, Milan, Paris and Rome and 1 more. Often billed alongside Simon T, Flavio Vecchi and Marcolino. Next up: Gianca - Murazzi, Turin on Sat 19 Sept.
 
@@ -25,4 +25,4 @@ Ricky Montanari is a house and italo disco artist tracked on soundcheck, with 13
 
 Simon T, Flavio Vecchi, Marcolino
 
-*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/rickymontanari/)*
+*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/rickymontanari/)*

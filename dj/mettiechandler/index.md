@@ -1,6 +1,6 @@
 # Mettie Chandler
 
-Mettie Chandler is a House artist with 1 upcoming club date listed on soundcheck as of Tue, 15 Sept 2026, next at Yan Gastro, Istanbul on Fri, 18 Sept 2026.
+Mettie Chandler is a House artist with 1 upcoming club date listed on soundcheck as of Wed, 16 Sept 2026, next at Yan Gastro, Istanbul on Fri, 18 Sept 2026.
 
 Mettie Chandler is a house artist based in Netherlands, tracked on soundcheck, with 4 sets logged across Istanbul. Often billed alongside Kia (DE) and Panthera. Next up: Yan Gastro, Istanbul on Fri 18 Sept.
 
@@ -20,4 +20,4 @@ Mettie Chandler is a house artist based in Netherlands, tracked on soundcheck, w
 
 Kia (DE), Panthera
 
-*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mettiechandler/)*
+*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mettiechandler/)*

@@ -1,8 +1,8 @@
 # Smoke & Mirrors
 
-Smoke & Mirrors is a music venue in Chicago with 8 upcoming nights listed on soundcheck as of Tue, 15 Sept 2026; the next is "STEM STUDIO: Blu:sh" on Fri, 18 Sept 2026.
+Smoke & Mirrors is a music venue in Chicago with 9 upcoming nights listed on soundcheck as of Wed, 16 Sept 2026; the next is "STEM STUDIO: Blu:sh" on Fri, 18 Sept 2026.
 
-Smoke & Mirrors is a music venue in Chicago listed on soundcheck. 8 upcoming nights, with line-ups including 6 SENSE, Blu:sh, DXNBY and HOTPRETTY and 2 more. Browse upcoming dates, start times and who's playing. 2045 N Milwaukee Ave, Chicago, IL 60647.
+Smoke & Mirrors is a music venue in Chicago listed on soundcheck. 9 upcoming nights, with line-ups including 6 SENSE, Blu:sh, Denham Audio and DXNBY and 2 more. Browse upcoming dates, start times and who's playing. 2045 N Milwaukee Ave, Chicago, IL 60647.
 
 ## What's on
 
@@ -16,9 +16,10 @@ Smoke & Mirrors is a music venue in Chicago listed on soundcheck. 8 upcoming nig
 | Fri, 2 Oct 2026 | Willo | Willo |
 | Thu, 8 Oct 2026 | Ivy Lab: A Farewell Tour | Ivy Lab |
 | Fri, 13 Nov 2026 | 6 SENSE | 6 SENSE |
+| Fri, 11 Dec 2026 | Denham Audio | Denham Audio |
 
 ## Address
 
 2045 N Milwaukee Ave, Chicago, IL 60647, Chicago
 
-*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/chicago/club/smoke-mirrors/)*
+*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/chicago/club/smoke-mirrors/)*

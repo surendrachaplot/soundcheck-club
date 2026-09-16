@@ -1,6 +1,6 @@
 # Inken
 
-Inken is a Experimental and Club artist with 1 upcoming club date listed on soundcheck as of Tue, 15 Sept 2026, next at Du Beast, Berlin on Fri, 18 Sept 2026.
+Inken is a Experimental and Club artist with 1 upcoming club date listed on soundcheck as of Wed, 16 Sept 2026, next at Du Beast, Berlin on Fri, 18 Sept 2026.
 
 Inken is an experimental and club artist tracked on soundcheck, with 6 sets logged across Berlin and Dusseldorf. Often billed alongside Marc Matter, Anna Butter and DON'T DJ. Next up: Du Beast, Berlin on Fri 18 Sept.
 
@@ -22,4 +22,4 @@ Inken is an experimental and club artist tracked on soundcheck, with 6 sets logg
 
 Marc Matter, Anna Butter, DON'T DJ
 
-*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/inken/)*
+*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/inken/)*

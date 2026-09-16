@@ -1,6 +1,6 @@
 # komunal
 
-komunal is a music venue in Birmingham with 3 upcoming nights listed on soundcheck as of Tue, 15 Sept 2026; the next is "Vettson b2b Ronnie, Whitburn + TySing" on Fri, 18 Sept 2026.
+komunal is a music venue in Birmingham with 3 upcoming nights listed on soundcheck as of Wed, 16 Sept 2026; the next is "Vettson b2b Ronnie, Whitburn + TySing" on Fri, 18 Sept 2026.
 
 komunal is a music venue in Birmingham listed on soundcheck. 3 upcoming nights. Browse upcoming dates, start times and who's playing. 11 Shaw's Passage, Digbeth, B5 5JG.
 
@@ -16,4 +16,4 @@ komunal is a music venue in Birmingham listed on soundcheck. 3 upcoming nights. 
 
 11 Shaw's Passage, Digbeth, B5 5JG, Birmingham
 
-*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/birmingham/club/komunal/)*
+*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/birmingham/club/komunal/)*

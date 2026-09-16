@@ -1,6 +1,6 @@
 # Hoppetosse
 
-Hoppetosse is a music venue in Berlin with 11 upcoming nights listed on soundcheck as of Tue, 15 Sept 2026; the next is "SZENETREFFEN Shameless + PBC Afterparty" on Sat, 19 Sept 2026.
+Hoppetosse is a music venue in Berlin with 11 upcoming nights listed on soundcheck as of Wed, 16 Sept 2026; the next is "SZENETREFFEN Shameless + PBC Afterparty" on Sat, 19 Sept 2026.
 
 Hoppetosse is a music venue in Berlin listed on soundcheck. 11 upcoming nights, with line-ups including Alexander Skancke, Alexandra, Alex Picone and Anaté and 2 more. Browse upcoming dates, start times and who's playing. Eichenstrasse 4; Treptow; 12435 Berlin; Germany.
 
@@ -23,4 +23,4 @@ Hoppetosse is a music venue in Berlin listed on soundcheck. 11 upcoming nights, 
 
 Eichenstrasse 4; Treptow; 12435 Berlin; Germany, Berlin
 
-*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/hoppetosse/)*
+*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/hoppetosse/)*

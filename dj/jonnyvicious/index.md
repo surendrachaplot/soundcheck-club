@@ -1,6 +1,6 @@
 # JonnyVicious
 
-JonnyVicious is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Tue, 15 Sept 2026, next at TBA - BOBO's KL (BANGSAR), Kuala Lumpur on Wed, 16 Sept 2026.
+JonnyVicious is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Wed, 16 Sept 2026, next at TBA - BOBO's KL (BANGSAR), Kuala Lumpur on Wed, 16 Sept 2026.
 
 JonnyVicious is a house and techno artist tracked on soundcheck, with 91 sets logged across Bali, Bangkok, Hongkong and Kualalumpur and 1 more. Often billed alongside LZZY, Alam and Roshan. Next up: TBA - BOBO's KL (BANGSAR), Kualalumpur on Wed 16 Sept.
 
@@ -28,4 +28,4 @@ JonnyVicious is a house and techno artist tracked on soundcheck, with 91 sets lo
 
 LZZY, Alam, Roshan
 
-*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jonnyvicious/)*
+*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jonnyvicious/)*

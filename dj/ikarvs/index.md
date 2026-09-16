@@ -1,6 +1,6 @@
 # IKARVS
 
-IKARVS is a Dembow and Trance artist with 1 upcoming club date listed on soundcheck as of Tue, 15 Sept 2026, next at OCZKI, Warsaw on Fri, 18 Sept 2026.
+IKARVS is a Dembow and Trance artist with 1 upcoming club date listed on soundcheck as of Wed, 16 Sept 2026, next at OCZKI, Warsaw on Fri, 18 Sept 2026.
 
 IKARVS is a dembow and trance artist based in Poland, tracked on soundcheck, with 17 sets logged across Krakow and Warsaw. Often billed alongside eylau, Abrew and Aslamin. Next up: OCZKI, Warsaw on Fri 18 Sept.
 
@@ -25,4 +25,4 @@ IKARVS is a dembow and trance artist based in Poland, tracked on soundcheck, wit
 
 eylau, Abrew, Aslamin
 
-*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ikarvs/)*
+*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ikarvs/)*

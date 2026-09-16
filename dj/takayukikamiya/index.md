@@ -1,6 +1,6 @@
 # Takayuki Kamiya
 
-Takayuki Kamiya is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Tue, 15 Sept 2026, next at R Lounge, Tokyo on Sat, 19 Sept 2026.
+Takayuki Kamiya is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Wed, 16 Sept 2026, next at R Lounge, Tokyo on Sat, 19 Sept 2026.
 
 Takayuki Kamiya is a techno and house artist based in Japan, tracked on soundcheck, with 50 sets logged across Osaka and Tokyo. Often billed alongside Wat, Spinnage and Takami. Next up: R Lounge, Tokyo on Sat 19 Sept.
 
@@ -27,4 +27,4 @@ Takayuki Kamiya is a techno and house artist based in Japan, tracked on soundche
 
 Wat, Spinnage, Takami
 
-*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/takayukikamiya/)*
+*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/takayukikamiya/)*

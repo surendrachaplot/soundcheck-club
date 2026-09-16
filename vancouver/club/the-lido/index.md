@@ -1,6 +1,6 @@
 # The Lido
 
-The Lido is a music venue in Vancouver with 4 upcoming nights listed on soundcheck as of Tue, 15 Sept 2026; the next is "Dairy Free & pearl & friends <3" on Wed, 16 Sept 2026.
+The Lido is a music venue in Vancouver with 4 upcoming nights listed on soundcheck as of Wed, 16 Sept 2026; the next is "Dairy Free & pearl & friends <3" on Wed, 16 Sept 2026.
 
 The Lido is a music venue in Vancouver listed on soundcheck. 4 upcoming nights, with line-ups including Dairy Free, Parmis and pearl. Browse upcoming dates, start times and who's playing. 518 East Broadway, Vancouver.
 
@@ -17,4 +17,4 @@ The Lido is a music venue in Vancouver listed on soundcheck. 4 upcoming nights, 
 
 518 East Broadway, Vancouver, Vancouver
 
-*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/vancouver/club/the-lido/)*
+*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/vancouver/club/the-lido/)*

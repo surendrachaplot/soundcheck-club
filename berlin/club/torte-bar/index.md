@@ -1,6 +1,6 @@
 # TORTE BAR
 
-TORTE BAR is a music venue in Berlin with 3 upcoming nights listed on soundcheck as of Tue, 15 Sept 2026; the next is "COMO" on Wed, 16 Sept 2026.
+TORTE BAR is a music venue in Berlin with 3 upcoming nights listed on soundcheck as of Wed, 16 Sept 2026; the next is "COMO" on Wed, 16 Sept 2026.
 
 TORTE BAR is a music venue in Berlin listed on soundcheck. 3 upcoming nights, with line-ups including Chaosmos, Hypnoize, Kidcat and lavv and 2 more. Browse upcoming dates, start times and who's playing. Brusendorferstraße 11-12, Siegfried-Aufhäuser Platz, 12055 Berlin.
 
@@ -16,4 +16,4 @@ TORTE BAR is a music venue in Berlin listed on soundcheck. 3 upcoming nights, wi
 
 Brusendorferstraße 11-12, Siegfried-Aufhäuser Platz, 12055 Berlin, Berlin
 
-*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/torte-bar/)*
+*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/torte-bar/)*

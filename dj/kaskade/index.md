@@ -1,14 +1,15 @@
 # Kaskade
 
-Kaskade is a House and Bass artist with 2 upcoming club dates listed on soundcheck as of Tue, 15 Sept 2026, next at Factory Town, Miami on Fri, 18 Sept 2026.
+Kaskade is a House and Bass artist with 3 upcoming club dates listed on soundcheck as of Wed, 16 Sept 2026, next at Factory Town, Miami on Fri, 18 Sept 2026.
 
-Kaskade is a house and bass artist tracked on soundcheck, with 51 sets logged across Austin, Chicago, Detroit and London and 9 more. Often billed alongside Green Velvet, Chris Lake and Eli Brown. Next up: Factory Town, Miami on Fri 18 Sept.
+Kaskade is a house and bass artist tracked on soundcheck, with 52 sets logged across Austin, Chicago, Detroit and London and 9 more. Often billed alongside Green Velvet, Chris Lake and Eli Brown. Next up: Factory Town, Miami on Fri 18 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 18 Sept 2026 | Factory Town | Miami |
+| Fri, 6 Nov 2026 | Radius | Chicago |
 | Fri, 20 Nov 2026 | The Concourse Project | Austin |
 
 ## Recently played
@@ -26,4 +27,4 @@ Kaskade is a house and bass artist tracked on soundcheck, with 51 sets logged ac
 
 Green Velvet, Chris Lake, Eli Brown
 
-*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kaskade/)*
+*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kaskade/)*

@@ -1,6 +1,6 @@
 # David Jackson
 
-David Jackson is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 15 Sept 2026, next at Carriageworks, Sydney on Sat, 10 Oct 2026.
+David Jackson is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 16 Sept 2026, next at Carriageworks, Sydney on Sat, 10 Oct 2026.
 
 David Jackson is a house and techno artist tracked on soundcheck, with 34 sets logged across Amsterdam, Berlin, Bucharest and Cork and 14 more. Often billed alongside Mall Grab, Effy and Claire O'Brien. Next up: Carriageworks, Sydney on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ David Jackson is a house and techno artist tracked on soundcheck, with 34 sets l
 
 Mall Grab, Effy, Claire O'Brien
 
-*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/davidjackson/)*
+*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/davidjackson/)*

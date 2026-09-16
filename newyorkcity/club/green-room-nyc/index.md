@@ -1,8 +1,8 @@
 # Green Room NYC
 
-Green Room NYC is a music venue in New York City with 9 upcoming nights listed on soundcheck as of Tue, 15 Sept 2026; the next is "Golden Record NYC x Misbehave presents Simon Heyliger, Mario Polanco, Just Martín" on Thu, 17 Sept 2026.
+Green Room NYC is a music venue in New York City with 10 upcoming nights listed on soundcheck as of Wed, 16 Sept 2026; the next is "Golden Record NYC x Misbehave presents Simon Heyliger, Mario Polanco, Just Martín" on Thu, 17 Sept 2026.
 
-Green Room NYC is a music venue in Newyorkcity listed on soundcheck. 9 upcoming nights, with line-ups including ABEILLE, Armii1n, Auphoria and Benny Soto and 2 more. Browse upcoming dates, start times and who's playing. 195 Morgan Ave, Brooklyn, NY 11237.
+Green Room NYC is a music venue in Newyorkcity listed on soundcheck. 10 upcoming nights, with line-ups including ABEILLE, Ali Coleman, Armii1n and Auphoria and 2 more. Browse upcoming dates, start times and who's playing. 195 Morgan Ave, Brooklyn, NY 11237.
 
 ## What's on
 
@@ -10,6 +10,7 @@ Green Room NYC is a music venue in Newyorkcity listed on soundcheck. 9 upcoming 
 | --- | --- | --- |
 | Thu, 17 Sept 2026 | Golden Record NYC x Misbehave presents Simon Heyliger, Mario Polanco, Just Martín | Mario Polanco, Simon Heyliger |
 | Fri, 18 Sept 2026 | Golden Record NYC x pregame presents Malika, Liquid Earth | Armii1n, DLR, Daizy, LIMBIC, Liquid Earth, Malika, Max Web, limbic sis |
+| Sat, 19 Sept 2026 | VOICE OF VOICE NYC: Let's Dance Brooklyn After Party | Ali Coleman, Bea Trinidad, TEE EM DEE |
 | Sun, 20 Sept 2026 | This is the Way x Golden Record NYC x Nomads Sunday Surprise Cookout | Gui Machado, Momo Trosman, Zayd Turk |
 | Fri, 25 Sept 2026 | IMPULSE CØNTROL // Carmen Electro | ABEILLE, Carmen Electro, Flight Mode (DE), Michelle Kay, N1NA, Ramsey Neville |
 | Fri, 25 Sept 2026 | Golden Record NYC x TAMED present D'Julz, Benny Soto & Miguel Gallardo | Benny Soto, Borak, D'Julz, Joiah, Miguel Gallardo |
@@ -22,4 +23,4 @@ Green Room NYC is a music venue in Newyorkcity listed on soundcheck. 9 upcoming 
 
 195 Morgan Ave, Brooklyn, NY 11237, New York City
 
-*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/green-room-nyc/)*
+*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/green-room-nyc/)*

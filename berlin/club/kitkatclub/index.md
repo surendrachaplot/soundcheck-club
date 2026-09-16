@@ -1,6 +1,6 @@
 # KitKatClub
 
-KitKatClub is a music venue in Berlin with 31 upcoming nights listed on soundcheck as of Tue, 15 Sept 2026; the next is "SYMBIOTIKKA at KitKat Club Berlin" on Wed, 16 Sept 2026.
+KitKatClub is a music venue in Berlin with 31 upcoming nights listed on soundcheck as of Wed, 16 Sept 2026; the next is "SYMBIOTIKKA at KitKat Club Berlin" on Wed, 16 Sept 2026.
 
 KitKatClub is a music venue in Berlin listed on soundcheck. 31 upcoming nights, with line-ups including Ale Castro, Alejandro Molinari, Alessio Collina and androgienia and 2 more. Browse upcoming dates, start times and who's playing. Köpenicker Strasse 76; Mitte; 10179 Berlin; Germany.
 
@@ -23,4 +23,4 @@ KitKatClub is a music venue in Berlin listed on soundcheck. 31 upcoming nights, 
 
 Köpenicker Strasse 76; Mitte; 10179 Berlin; Germany, Berlin
 
-*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/kitkatclub/)*
+*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/kitkatclub/)*

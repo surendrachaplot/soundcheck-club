@@ -1,6 +1,6 @@
 # Martin Garcia
 
-Martin Garcia is a Progressive House and House artist with 1 upcoming club date listed on soundcheck as of Tue, 15 Sept 2026, next at TBA - Autodromo de Buenos Aires, Buenos Aires on Sat, 19 Sept 2026.
+Martin Garcia is a Progressive House and House artist with 1 upcoming club date listed on soundcheck as of Wed, 16 Sept 2026, next at TBA - Autodromo de Buenos Aires, Buenos Aires on Sat, 19 Sept 2026.
 
 Martin Garcia is a progressive house and house artist based in Argentina, tracked on soundcheck, with 4 sets logged across Buenosaires. Often billed alongside Chicola, John Digweed and Mar Monzon. Next up: TBA - Autodromo de Buenos Aires, Buenosaires on Sat 19 Sept.
 
@@ -20,4 +20,4 @@ Martin Garcia is a progressive house and house artist based in Argentina, tracke
 
 Chicola, John Digweed, Mar Monzon
 
-*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/martingarcia/)*
+*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/martingarcia/)*

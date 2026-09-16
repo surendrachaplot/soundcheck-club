@@ -1,6 +1,6 @@
 # Jolene
 
-Jolene is a music venue in Copenhagen with 5 upcoming nights listed on soundcheck as of Tue, 15 Sept 2026; the next is "Some Traces Of House at Jolene" on Thu, 17 Sept 2026.
+Jolene is a music venue in Copenhagen with 5 upcoming nights listed on soundcheck as of Wed, 16 Sept 2026; the next is "Some Traces Of House at Jolene" on Thu, 17 Sept 2026.
 
 Jolene is a music venue in Copenhagen listed on soundcheck. 5 upcoming nights, with line-ups including DJ LoveCatt, Exilee, Ghosten and HAKEEM (2) and 2 more. Browse upcoming dates, start times and who's playing. Flaesketorvet 81; Copenhagen V. 1711; Denmark.
 
@@ -18,4 +18,4 @@ Jolene is a music venue in Copenhagen listed on soundcheck. 5 upcoming nights, w
 
 Flaesketorvet 81; Copenhagen V. 1711; Denmark, Copenhagen
 
-*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/copenhagen/club/jolene/)*
+*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/copenhagen/club/jolene/)*

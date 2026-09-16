@@ -1,6 +1,6 @@
 # Joline Scheffler
 
-Joline Scheffler is a Techno and Ambient artist with 3 upcoming club dates listed on soundcheck as of Tue, 15 Sept 2026, next at Berghain | Panorama Bar | Säule, Berlin on Sat, 26 Sept 2026.
+Joline Scheffler is a Techno and Ambient artist with 3 upcoming club dates listed on soundcheck as of Wed, 16 Sept 2026, next at Berghain | Panorama Bar | Säule, Berlin on Sat, 26 Sept 2026.
 
 Joline Scheffler is a techno and ambient artist based in Sweden, tracked on soundcheck, with 11 sets logged across Amsterdam, Berlin, Brussels and Leipzig and 4 more. Often billed alongside Altinbas, Darwin and Fergus Sweetland. Next up: Berghain | Panorama Bar | Säule, Berlin on Sat 26 Sept.
 
@@ -27,4 +27,4 @@ Joline Scheffler is a techno and ambient artist based in Sweden, tracked on soun
 
 Altinbas, Darwin, Fergus Sweetland
 
-*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jolinescheffler/)*
+*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jolinescheffler/)*

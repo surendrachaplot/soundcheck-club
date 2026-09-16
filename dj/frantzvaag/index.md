@@ -1,6 +1,6 @@
 # Frantzvaag
 
-Frantzvaag is a Grime and Electro artist with 1 upcoming club date listed on soundcheck as of Tue, 15 Sept 2026, next at Blå, Oslo on Fri, 18 Sept 2026.
+Frantzvaag is a Grime and Electro artist with 1 upcoming club date listed on soundcheck as of Wed, 16 Sept 2026, next at Blå, Oslo on Fri, 18 Sept 2026.
 
 Frantzvaag is a grime and electro artist based in Norway, tracked on soundcheck, with 24 sets logged across Oslo and Tokyo. Often billed alongside Annweiler, Actress and Casablanca 303. Next up: Blå, Oslo on Fri 18 Sept.
 
@@ -25,4 +25,4 @@ Frantzvaag is a grime and electro artist based in Norway, tracked on soundcheck,
 
 Annweiler, Actress, Casablanca 303
 
-*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/frantzvaag/)*
+*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/frantzvaag/)*

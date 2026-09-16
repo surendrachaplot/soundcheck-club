@@ -1,6 +1,6 @@
 # Salon Daomé
 
-Salon Daomé is a music venue in Montreal with 7 upcoming nights listed on soundcheck as of Tue, 15 Sept 2026; the next is "Kostello (All night Long)" on Thu, 17 Sept 2026.
+Salon Daomé is a music venue in Montreal with 7 upcoming nights listed on soundcheck as of Wed, 16 Sept 2026; the next is "Kostello (All night Long)" on Thu, 17 Sept 2026.
 
 Salon Daomé is a music venue in Montreal listed on soundcheck. 7 upcoming nights, with line-ups including Dj Hermano, Flytz, Jares and Jovonn and 2 more. Browse upcoming dates, start times and who's playing. 4465 St Laurent Blvd, Montreal, Quebec H2W 1Z8.
 
@@ -20,4 +20,4 @@ Salon Daomé is a music venue in Montreal listed on soundcheck. 7 upcoming night
 
 4465 St Laurent Blvd, Montreal, Quebec H2W 1Z8, Montreal
 
-*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/montreal/club/salon-daom/)*
+*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/montreal/club/salon-daom/)*

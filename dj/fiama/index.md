@@ -1,6 +1,6 @@
 # Fiama
 
-Fiama is a Techno and Acid artist with 1 upcoming club date listed on soundcheck as of Tue, 15 Sept 2026, next at TBA, Athens on Sat, 7 Nov 2026.
+Fiama is a Techno and Acid artist with 1 upcoming club date listed on soundcheck as of Wed, 16 Sept 2026, next at TBA, Athens on Sat, 7 Nov 2026.
 
 Fiama is a techno and acid artist based in Greece, tracked on soundcheck, with 23 sets logged across Athens and Buenosaires. Often billed alongside Fiama Molina, Troy Violens and Josefina Muñoz. Next up: TBA, Athens on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ Fiama is a techno and acid artist based in Greece, tracked on soundcheck, with 2
 
 Fiama Molina, Troy Violens, Josefina Muñoz
 
-*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/fiama/)*
+*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/fiama/)*

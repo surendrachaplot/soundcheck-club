@@ -1,6 +1,6 @@
 # Santa Bina
 
-Santa Bina is a Guaracha and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 15 Sept 2026, next at Abrazarnos, Mexico City on Thu, 1 Oct 2026.
+Santa Bina is a Guaracha and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 16 Sept 2026, next at Abrazarnos, Mexico City on Thu, 1 Oct 2026.
 
 Santa Bina is a guaracha and techno artist based in Mexico, tracked on soundcheck, with 11 sets logged across Mexicocity. Often billed alongside Amapola Rose, Choi and Alexandria (MX). Next up: Abrazarnos, Mexicocity on Thu 1 Oct.
 
@@ -25,4 +25,4 @@ Santa Bina is a guaracha and techno artist based in Mexico, tracked on soundchec
 
 Amapola Rose, Choi, Alexandria (MX)
 
-*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/santabina/)*
+*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/santabina/)*

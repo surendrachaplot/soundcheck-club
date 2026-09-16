@@ -1,13 +1,14 @@
 # Valium
 
-Valium is a Ambient and Experimental artist with 1 upcoming club date listed on soundcheck as of Tue, 15 Sept 2026, next at LFO.exp, Madrid on Sat, 31 Oct 2026.
+Valium is a House and Ambient artist with 2 upcoming club dates listed on soundcheck as of Wed, 16 Sept 2026, next at Cafe La Palma, Madrid on Sat, 19 Sept 2026.
 
-Valium is an ambient and experimental artist based in Spain, tracked on soundcheck, with 24 sets logged across Barcelona, Madrid and Rome. Often billed alongside DISTORT (ES), Juguete and Albal. Next up: LFO.exp, Madrid on Sat 31 Oct.
+Valium is a house and ambient artist based in Spain, tracked on soundcheck, with 25 sets logged across Barcelona, Madrid and Rome. Often billed alongside DISTORT (ES), Juguete and Albal. Next up: Cafe La Palma, Madrid on Sat 19 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 19 Sept 2026 | Cafe La Palma | Madrid |
 | Sat, 31 Oct 2026 | LFO.exp | Madrid |
 
 ## Recently played
@@ -25,4 +26,4 @@ Valium is an ambient and experimental artist based in Spain, tracked on soundche
 
 DISTORT (ES), Juguete, Albal
 
-*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/valium/)*
+*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/valium/)*

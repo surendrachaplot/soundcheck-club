@@ -1,6 +1,6 @@
 # Climax-Institutes
 
-Climax-Institutes is a music venue in Stuttgart with 10 upcoming nights listed on soundcheck as of Tue, 15 Sept 2026; the next is "APPETIZER - FAMMI BALLÀ" on Thu, 17 Sept 2026.
+Climax-Institutes is a music venue in Stuttgart with 10 upcoming nights listed on soundcheck as of Wed, 16 Sept 2026; the next is "APPETIZER - FAMMI BALLÀ" on Thu, 17 Sept 2026.
 
 Climax-Institutes is a music venue in Stuttgart listed on soundcheck. 10 upcoming nights, with line-ups including Adi Dassler, Chamelio 3000, Denno Matini and Juan Del Chambo and 2 more. Browse upcoming dates, start times and who's playing. Calwer Str. 25, 70173 Stuttgart.
 
@@ -23,4 +23,4 @@ Climax-Institutes is a music venue in Stuttgart listed on soundcheck. 10 upcomin
 
 Calwer Str. 25, 70173 Stuttgart, Stuttgart
 
-*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/stuttgart/club/climax-institutes/)*
+*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/stuttgart/club/climax-institutes/)*

@@ -1,6 +1,6 @@
 # OHM
 
-OHM is a music venue in Berlin with 23 upcoming nights listed on soundcheck as of Tue, 15 Sept 2026; the next is "Astral Industries" on Thu, 17 Sept 2026.
+OHM is a music venue in Berlin with 23 upcoming nights listed on soundcheck as of Wed, 16 Sept 2026; the next is "Astral Industries" on Thu, 17 Sept 2026.
 
 OHM is a music venue in Berlin listed on soundcheck. 23 upcoming nights, with line-ups including Aaronovsky, Afidissima, Alexy and Anja Schneider and 2 more. Browse upcoming dates, start times and who's playing. Köpenicker Str. 70, 10179 Berlin, Germany.
 
@@ -23,4 +23,4 @@ OHM is a music venue in Berlin listed on soundcheck. 23 upcoming nights, with li
 
 Köpenicker Str. 70, 10179 Berlin, Germany, Berlin
 
-*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/ohm/)*
+*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/ohm/)*

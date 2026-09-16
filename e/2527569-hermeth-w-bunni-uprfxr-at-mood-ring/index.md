@@ -1,6 +1,6 @@
 # Hermeth w/ Bunni & UPRFXR at Mood Ring
 
-Hermeth w/ Bunni & UPRFXR at Mood Ring on Thu 17 Sept, Newyorkcity. 3 acts on the bill: Bunni, Hermeth and UPRFXR. Electro and Acid. Preview the line-up and save it on soundcheck.
+Hermeth w/ Bunni & UPRFXR at Mood Ring on Thu 17 Sept, Newyorkcity. 3 acts on the bill: Bunni, Hermeth and UPRFXR. Acid and Electro. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

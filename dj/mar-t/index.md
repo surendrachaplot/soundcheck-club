@@ -1,6 +1,6 @@
 # Mar-T
 
-Mar-T is a Techno and Tech House artist with 2 upcoming club dates listed on soundcheck as of Tue, 15 Sept 2026, next at Cova Santa, Ibiza on Thu, 17 Sept 2026.
+Mar-T is a Techno and Tech House artist with 2 upcoming club dates listed on soundcheck as of Wed, 16 Sept 2026, next at Cova Santa, Ibiza on Thu, 17 Sept 2026.
 
 Mar-T is a techno and tech house artist tracked on soundcheck, with 63 sets logged across Amsterdam, Barcelona, Basel and Belgrade and 7 more. Often billed alongside Luca Donzelli, Marco Faraone and CAAL. Next up: Cova Santa, Ibiza on Thu 17 Sept.
 
@@ -26,4 +26,4 @@ Mar-T is a techno and tech house artist tracked on soundcheck, with 63 sets logg
 
 Luca Donzelli, Marco Faraone, CAAL
 
-*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mar-t/)*
+*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mar-t/)*

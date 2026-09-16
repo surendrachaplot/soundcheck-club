@@ -1,6 +1,6 @@
 # Yair
 
-Yair is a Minimal and House artist with 1 upcoming club date listed on soundcheck as of Tue, 15 Sept 2026, next at TBA - DTLA, Los Angeles on Sun, 1 Nov 2026.
+Yair is a Minimal and House artist with 1 upcoming club date listed on soundcheck as of Wed, 16 Sept 2026, next at TBA - DTLA, Los Angeles on Sun, 1 Nov 2026.
 
 Yair is a minimal and house artist tracked on soundcheck, with 24 sets logged across Losangeles, Mexicocity, Seattle and Seoul. Often billed alongside Enzo Muro, Artur (US) and Connor Mikami. Next up: TBA - DTLA, Losangeles on Sun 1 Nov.
 
@@ -25,4 +25,4 @@ Yair is a minimal and house artist tracked on soundcheck, with 24 sets logged ac
 
 Enzo Muro, Artur (US), Connor Mikami
 
-*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/yair/)*
+*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/yair/)*

@@ -1,6 +1,6 @@
 # cassandrah
 
-cassandrah is a Techno and Industrial artist with 2 upcoming club dates listed on soundcheck as of Tue, 15 Sept 2026, next at Drugstore Beograd, Belgrade on Sat, 19 Sept 2026.
+cassandrah is a Techno and Industrial artist with 2 upcoming club dates listed on soundcheck as of Wed, 16 Sept 2026, next at Drugstore Beograd, Belgrade on Sat, 19 Sept 2026.
 
 cassandrah is a techno and industrial artist tracked on soundcheck, with 34 sets logged across Antwerp, Barcelona, Belgrade and Berlin and 15 more. Often billed alongside Rian Wood, La Penderie Noire and PARAPHER. Next up: Drugstore Beograd, Belgrade on Sat 19 Sept.
 
@@ -26,4 +26,4 @@ cassandrah is a techno and industrial artist tracked on soundcheck, with 34 sets
 
 Rian Wood, La Penderie Noire, PARAPHER
 
-*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/cassandrah/)*
+*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/cassandrah/)*

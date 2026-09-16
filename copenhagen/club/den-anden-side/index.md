@@ -1,6 +1,6 @@
 # Den Anden Side
 
-Den Anden Side is a music venue in Copenhagen with 12 upcoming nights listed on soundcheck as of Tue, 15 Sept 2026; the next is "CUETIES: hot mess!" on Fri, 18 Sept 2026.
+Den Anden Side is a music venue in Copenhagen with 12 upcoming nights listed on soundcheck as of Wed, 16 Sept 2026; the next is "CUETIES: hot mess!" on Fri, 18 Sept 2026.
 
 Den Anden Side is a music venue in Copenhagen listed on soundcheck. 12 upcoming nights, with line-ups including Alarico, AMORAL, Anastasia Kristensen and Anders HP and 2 more. Browse upcoming dates, start times and who's playing. Axeltorv 5 1609 Copenhagen, Denmark.
 
@@ -23,4 +23,4 @@ Den Anden Side is a music venue in Copenhagen listed on soundcheck. 12 upcoming 
 
 Axeltorv 5 1609 Copenhagen, Denmark, Copenhagen
 
-*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/copenhagen/club/den-anden-side/)*
+*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/copenhagen/club/den-anden-side/)*

@@ -1,6 +1,6 @@
 # Gessnerallee
 
-Gessnerallee is a music venue in Zurich with 2 upcoming nights listed on soundcheck as of Tue, 15 Sept 2026; the next is "Backslash Festival 2026" on Fri, 2 Oct 2026.
+Gessnerallee is a music venue in Zurich with 2 upcoming nights listed on soundcheck as of Wed, 16 Sept 2026; the next is "Backslash Festival 2026" on Fri, 2 Oct 2026.
 
 Gessnerallee is a music venue in Zurich listed on soundcheck. 2 upcoming nights, with line-ups including 36birds, Aa Sudd, Buttechno and Marten Lou and 2 more. Browse upcoming dates, start times and who's playing. Gessnerallee 8, 8001 Zurich, Switzerland.
 
@@ -15,4 +15,4 @@ Gessnerallee is a music venue in Zurich listed on soundcheck. 2 upcoming nights,
 
 Gessnerallee 8, 8001 Zurich, Switzerland, Zurich
 
-*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/zurich/club/gessnerallee/)*
+*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/zurich/club/gessnerallee/)*

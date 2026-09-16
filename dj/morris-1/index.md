@@ -1,6 +1,6 @@
 # Morris (1)
 
-Morris (1) is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Tue, 15 Sept 2026, next at John Doe, Amsterdam on Tue, 29 Sept 2026.
+Morris (1) is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Wed, 16 Sept 2026, next at John Doe, Amsterdam on Tue, 29 Sept 2026.
 
 Morris (1) is a techno and house artist based in Spain, tracked on soundcheck, with 8 sets logged across Amsterdam, Losangeles, Malta and Paris. Often billed alongside Sudo (US), Billy Hills and Dekkatess. Next up: John Doe, Amsterdam on Tue 29 Sept.
 
@@ -24,4 +24,4 @@ Morris (1) is a techno and house artist based in Spain, tracked on soundcheck, w
 
 Sudo (US), Billy Hills, Dekkatess
 
-*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/morris-1/)*
+*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/morris-1/)*

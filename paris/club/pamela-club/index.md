@@ -1,6 +1,6 @@
 # Pamela Club
 
-Pamela Club is a music venue in Paris with 3 upcoming nights listed on soundcheck as of Tue, 15 Sept 2026; the next is "Studio B - Tonak, Monsamp, Nightchou" on Sat, 19 Sept 2026.
+Pamela Club is a music venue in Paris with 3 upcoming nights listed on soundcheck as of Wed, 16 Sept 2026; the next is "Studio B - Tonak, Monsamp, Nightchou" on Sat, 19 Sept 2026.
 
 Pamela Club is a music venue in Paris listed on soundcheck. 3 upcoming nights, with line-ups including Camporeale (FR), Nightchou, RestonsFlex and TONAK. Browse upcoming dates, start times and who's playing. 62 Rue Mazarine, 75006 Paris, France.
 
@@ -16,4 +16,4 @@ Pamela Club is a music venue in Paris listed on soundcheck. 3 upcoming nights, w
 
 62 Rue Mazarine, 75006 Paris, France, Paris
 
-*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/paris/club/pamela-club/)*
+*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/paris/club/pamela-club/)*

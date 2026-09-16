@@ -1,6 +1,6 @@
 # Rhadoo
 
-Rhadoo is a Minimal and House artist with 6 upcoming club dates listed on soundcheck as of Tue, 15 Sept 2026, next at TBA - East Williamsburg, New York City on Fri, 18 Sept 2026.
+Rhadoo is a Minimal and House artist with 6 upcoming club dates listed on soundcheck as of Wed, 16 Sept 2026, next at TBA - East Williamsburg, New York City on Fri, 18 Sept 2026.
 
 Rhadoo is a minimal and house artist tracked on soundcheck, with 180 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 32 more. Often billed alongside Petre Inspirescu, Raresh and RPR Soundsystem. Next up: TBA - East Williamsburg, Newyorkcity on Fri 18 Sept.
 
@@ -30,4 +30,4 @@ Rhadoo is a minimal and house artist tracked on soundcheck, with 180 sets logged
 
 Petre Inspirescu, Raresh, RPR Soundsystem
 
-*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/rhadoo/)*
+*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/rhadoo/)*

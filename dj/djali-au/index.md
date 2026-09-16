@@ -1,6 +1,6 @@
 # DJ ALI (AU)
 
-DJ ALI (AU) is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Tue, 15 Sept 2026, next at Sub Club Melbourne, Melbourne on Fri, 9 Oct 2026.
+DJ ALI (AU) is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Wed, 16 Sept 2026, next at Sub Club Melbourne, Melbourne on Fri, 9 Oct 2026.
 
 DJ ALI (AU) is a techno and trance artist based in Australia, tracked on soundcheck, with 26 sets logged across Berlin, Brisbane, Copenhagen and Melbourne and 1 more. Often billed alongside CLAIR (BAI), Hannah D and Hasvat Informant. Next up: Sub Club Melbourne, Melbourne on Fri 9 Oct.
 
@@ -25,4 +25,4 @@ DJ ALI (AU) is a techno and trance artist based in Australia, tracked on soundch
 
 CLAIR (BAI), Hannah D, Hasvat Informant
 
-*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djali-au/)*
+*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djali-au/)*

@@ -1,6 +1,6 @@
 # phanom
 
-phanom is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Tue, 15 Sept 2026, next at Het Salon, Amsterdam on Sat, 3 Oct 2026.
+phanom is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Wed, 16 Sept 2026, next at Het Salon, Amsterdam on Sat, 3 Oct 2026.
 
 phanom is a techno and electro artist tracked on soundcheck, with 43 sets logged across Amsterdam, Antwerp, Brussels and Ghent and 1 more. Often billed alongside Hadone, A. Brehme and Altinbas. Next up: Het Salon, Amsterdam on Sat 3 Oct.
 
@@ -25,4 +25,4 @@ phanom is a techno and electro artist tracked on soundcheck, with 43 sets logged
 
 Hadone, A. Brehme, Altinbas
 
-*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/phanom/)*
+*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/phanom/)*

@@ -1,6 +1,6 @@
 # Adx
 
-Adx is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Tue, 15 Sept 2026, next at Aether Club Budapest, Budapest on Sat, 26 Sept 2026.
+Adx is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Wed, 16 Sept 2026, next at Aether Club Budapest, Budapest on Sat, 26 Sept 2026.
 
 Adx is a house and minimal artist tracked on soundcheck, with 36 sets logged across Budapest and Valencia. Often billed alongside Captain Knuckles, Erro and Jaffa Surfa. Next up: Aether Club Budapest, Budapest on Sat 26 Sept.
 
@@ -25,4 +25,4 @@ Adx is a house and minimal artist tracked on soundcheck, with 36 sets logged acr
 
 Captain Knuckles, Erro, Jaffa Surfa
 
-*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/adx-hu/)*
+*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/adx-hu/)*

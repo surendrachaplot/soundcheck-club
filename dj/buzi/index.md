@@ -1,6 +1,6 @@
 # Buzi
 
-Buzi is a Footwork and Disco artist with 1 upcoming club date listed on soundcheck as of Tue, 15 Sept 2026, next at The High Dive, Detroit on Sat, 3 Oct 2026.
+Buzi is a Footwork and Disco artist with 1 upcoming club date listed on soundcheck as of Wed, 16 Sept 2026, next at The High Dive, Detroit on Sat, 3 Oct 2026.
 
 Buzi is a footwork and disco artist tracked on soundcheck, with 5 sets logged across Detroit and Newyorkcity. Often billed alongside Roni (2), Charles Moon and Eugenia. Next up: The High Dive, Detroit on Sat 3 Oct.
 
@@ -21,4 +21,4 @@ Buzi is a footwork and disco artist tracked on soundcheck, with 5 sets logged ac
 
 Roni (2), Charles Moon, Eugenia
 
-*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/buzi/)*
+*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/buzi/)*

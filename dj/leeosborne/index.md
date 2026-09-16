@@ -1,6 +1,6 @@
 # Lee Osborne
 
-Lee Osborne is a Techno and Electronica artist with 2 upcoming club dates listed on soundcheck as of Tue, 15 Sept 2026, next at TBA, Toronto on Sat, 3 Oct 2026.
+Lee Osborne is a Techno and Electronica artist with 2 upcoming club dates listed on soundcheck as of Wed, 16 Sept 2026, next at TBA, Toronto on Sat, 3 Oct 2026.
 
 Lee Osborne is a techno and electronica artist based in Canada, tracked on soundcheck, with 9 sets logged across Toronto. Often billed alongside Ian Guthrie, Jeremy P. Caulfield and Bailey Ibbs. Next up: TBA, Toronto on Sat 3 Oct.
 
@@ -25,4 +25,4 @@ Lee Osborne is a techno and electronica artist based in Canada, tracked on sound
 
 Ian Guthrie, Jeremy P. Caulfield, Bailey Ibbs
 
-*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/leeosborne/)*
+*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/leeosborne/)*

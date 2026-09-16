@@ -1,6 +1,6 @@
 # Hidden
 
-Hidden is a music venue in Manchester with 27 upcoming nights listed on soundcheck as of Tue, 15 Sept 2026; the next is "Start of Term Warehouse Rave: Joe Hunt, LLEAHDAVIES, Sofa, DJANGO" on Thu, 17 Sept 2026.
+Hidden is a music venue in Manchester with 27 upcoming nights listed on soundcheck as of Wed, 16 Sept 2026; the next is "Start of Term Warehouse Rave: Joe Hunt, LLEAHDAVIES, Sofa, DJANGO" on Thu, 17 Sept 2026.
 
 Hidden is a music venue in Manchester listed on soundcheck. 27 upcoming nights, with line-ups including Agnelli & Nelson, Amelia Leigh, Andre Zimmer and Arthi and 2 more. Browse upcoming dates, start times and who's playing. 17 DownTex Mill, Mary Street, Manchester, M3 1DZ, United Kingdom.
 
@@ -23,4 +23,4 @@ Hidden is a music venue in Manchester listed on soundcheck. 27 upcoming nights, 
 
 17 DownTex Mill, Mary Street, Manchester, M3 1DZ, United Kingdom, Manchester
 
-*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/hidden/)*
+*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/hidden/)*

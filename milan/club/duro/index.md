@@ -1,6 +1,6 @@
 # DURO
 
-DURO is a music venue in Milan with 31 upcoming nights listed on soundcheck as of Tue, 15 Sept 2026; the next is "The Naked Dance // Matisa b2b Ferg - Enness" on Fri, 18 Sept 2026.
+DURO is a music venue in Milan with 31 upcoming nights listed on soundcheck as of Wed, 16 Sept 2026; the next is "The Naked Dance // Matisa b2b Ferg - Enness" on Fri, 18 Sept 2026.
 
 DURO is a music venue in Milan listed on soundcheck. 31 upcoming nights, with line-ups including Aline Brooklyn, Caim, Carloalberto and Chloé and 2 more. Browse upcoming dates, start times and who's playing. Via Perin del Vaga, 8.
 
@@ -23,4 +23,4 @@ DURO is a music venue in Milan listed on soundcheck. 31 upcoming nights, with li
 
 Via Perin del Vaga, 8, Milan
 
-*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/milan/club/duro/)*
+*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/milan/club/duro/)*

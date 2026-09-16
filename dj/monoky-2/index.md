@@ -1,6 +1,6 @@
 # Monoky (2)
 
-Monoky (2) is a House and Tech House artist with 3 upcoming club dates listed on soundcheck as of Tue, 15 Sept 2026, next at Floyd, Miami on Sat, 10 Oct 2026.
+Monoky (2) is a House and Tech House artist with 3 upcoming club dates listed on soundcheck as of Wed, 16 Sept 2026, next at Floyd, Miami on Sat, 10 Oct 2026.
 
 Monoky (2) is a house and tech house artist based in United States of America, tracked on soundcheck, with 6 sets logged across Miami. Often billed alongside Berrakka, Cami di Marzo and ChaseWest. Next up: Floyd, Miami on Sat 10 Oct.
 
@@ -22,4 +22,4 @@ Monoky (2) is a house and tech house artist based in United States of America, t
 
 Berrakka, Cami di Marzo, ChaseWest
 
-*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/monoky-2/)*
+*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/monoky-2/)*

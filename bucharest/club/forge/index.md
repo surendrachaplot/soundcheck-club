@@ -1,6 +1,6 @@
 # Forge
 
-Forge is a music venue in Bucharest with 12 upcoming nights listed on soundcheck as of Tue, 15 Sept 2026; the next is "Motion Unit x Techno Diatom - invites: Lobster (NL)" on Sat, 26 Sept 2026.
+Forge is a music venue in Bucharest with 12 upcoming nights listed on soundcheck as of Wed, 16 Sept 2026; the next is "Motion Unit x Techno Diatom - invites: Lobster (NL)" on Sat, 26 Sept 2026.
 
 Forge is a music venue in Bucharest listed on soundcheck. 12 upcoming nights, with line-ups including BBUBU, Clast, DA NA and ESME and 2 more. Browse upcoming dates, start times and who's playing. Șoseaua Pantelimon 1A, Bucharest, Romania 022401.
 
@@ -23,4 +23,4 @@ Forge is a music venue in Bucharest listed on soundcheck. 12 upcoming nights, wi
 
 Șoseaua Pantelimon 1A, Bucharest, Romania 022401, Bucharest
 
-*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/bucharest/club/forge/)*
+*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/bucharest/club/forge/)*

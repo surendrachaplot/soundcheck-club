@@ -1,6 +1,6 @@
 # Niamh (2)
 
-Niamh (2) is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Tue, 15 Sept 2026, next at Depot Mayfield, Manchester on Fri, 18 Sept 2026.
+Niamh (2) is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Wed, 16 Sept 2026, next at Depot Mayfield, Manchester on Fri, 18 Sept 2026.
 
 Niamh (2) is a techno and house artist tracked on soundcheck, with 38 sets logged across Amsterdam, Edinburgh, Leeds and London and 2 more. Often billed alongside Aiden Francis, Boo and Aletha. Next up: Depot Mayfield, Manchester on Fri 18 Sept.
 
@@ -26,4 +26,4 @@ Niamh (2) is a techno and house artist tracked on soundcheck, with 38 sets logge
 
 Aiden Francis, Boo, Aletha
 
-*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/niamh-2/)*
+*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/niamh-2/)*

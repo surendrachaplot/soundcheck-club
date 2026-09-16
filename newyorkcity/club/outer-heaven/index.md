@@ -1,6 +1,6 @@
 # Outer Heaven
 
-Outer Heaven is a music venue in New York City with 9 upcoming nights listed on soundcheck as of Tue, 15 Sept 2026; the next is "Outer Heaven presents: RAAUL" on Wed, 16 Sept 2026.
+Outer Heaven is a music venue in New York City with 9 upcoming nights listed on soundcheck as of Wed, 16 Sept 2026; the next is "Outer Heaven presents: RAAUL" on Wed, 16 Sept 2026.
 
 Outer Heaven is a music venue in Newyorkcity listed on soundcheck. 9 upcoming nights, with line-ups including Armii1n, Auphoria, B.Love and DLR (nyc) and 2 more. Browse upcoming dates, start times and who's playing. 191 Chrystie Street, New York, NY 10002.
 
@@ -22,4 +22,4 @@ Outer Heaven is a music venue in Newyorkcity listed on soundcheck. 9 upcoming ni
 
 191 Chrystie Street, New York, NY 10002, New York City
 
-*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/outer-heaven/)*
+*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/outer-heaven/)*

@@ -1,6 +1,6 @@
 # Hyperfunk
 
-Hyperfunk is a House and Electro artist with 1 upcoming club date listed on soundcheck as of Tue, 15 Sept 2026, next at The Glove That Fits, London on Fri, 2 Oct 2026.
+Hyperfunk is a House and Electro artist with 1 upcoming club date listed on soundcheck as of Wed, 16 Sept 2026, next at The Glove That Fits, London on Fri, 2 Oct 2026.
 
 Hyperfunk is a house and electro artist tracked on soundcheck, with 15 sets logged across Dublin, London and Munich. Often billed alongside Sam Alfred, DJ SHORTKING and charlois. Next up: The Glove That Fits, London on Fri 2 Oct.
 
@@ -25,4 +25,4 @@ Hyperfunk is a house and electro artist tracked on soundcheck, with 15 sets logg
 
 Sam Alfred, DJ SHORTKING, charlois
 
-*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/hyperfunk/)*
+*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/hyperfunk/)*

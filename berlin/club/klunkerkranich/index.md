@@ -1,14 +1,13 @@
 # Klunkerkranich
 
-Klunkerkranich is a music venue in Berlin with 8 upcoming nights listed on soundcheck as of Tue, 15 Sept 2026; the next is "ELECTRIC BAILE w. Lancer, Robot Girl" on Tue, 15 Sept 2026.
+Klunkerkranich is a music venue in Berlin with 7 upcoming nights listed on soundcheck as of Wed, 16 Sept 2026; the next is "WOCHENMITTE w. Vlad Yaki" on Wed, 16 Sept 2026.
 
-Klunkerkranich is a music venue in Berlin listed on soundcheck. 8 upcoming nights, with line-ups including Adrija, Adron (DE), Bøgen and CATAWR and 2 more. Browse upcoming dates, start times and who's playing. Karl-Marx-Straße 66, 12043 Berlin.
+Klunkerkranich is a music venue in Berlin listed on soundcheck. 7 upcoming nights, with line-ups including Adrija, Adron (DE), Bøgen and CATAWR and 2 more. Browse upcoming dates, start times and who's playing. Karl-Marx-Straße 66, 12043 Berlin.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Tue, 15 Sept 2026 | ELECTRIC BAILE w. Lancer, Robot Girl | Lancer, Lancer (2), Robot Girl |
 | Wed, 16 Sept 2026 | WOCHENMITTE w. Vlad Yaki | Vlad Yaki |
 | Thu, 17 Sept 2026 | Live Band, DJs, Art & More hosted by CounterCult | MAD.MOD, Natasha Roze |
 | Thu, 17 Sept 2026 | ESPERANZA w. Niklaus Katzorke, Zehlendorfer Disco Squad, Shimanski | Niklaus Katzorke, Shimanski, Zehlendorfer Disco Squad |
@@ -21,4 +20,4 @@ Klunkerkranich is a music venue in Berlin listed on soundcheck. 8 upcoming night
 
 Karl-Marx-Straße 66, 12043 Berlin, Berlin
 
-*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/klunkerkranich/)*
+*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/klunkerkranich/)*

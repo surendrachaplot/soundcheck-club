@@ -1,6 +1,6 @@
 # Crystallmess
 
-Crystallmess is a Techno and Club artist with 4 upcoming club dates listed on soundcheck as of Tue, 15 Sept 2026, next at TBA - Multiple Historic Venues - Manhattan & Brooklyn, New York City on Fri, 25 Sept 2026.
+Crystallmess is a Techno and Club artist with 4 upcoming club dates listed on soundcheck as of Wed, 16 Sept 2026, next at TBA - Multiple Historic Venues - Manhattan & Brooklyn, New York City on Fri, 25 Sept 2026.
 
 Crystallmess is a techno and club artist based in France, tracked on soundcheck, with 115 sets logged across Amsterdam, Athens, Barcelona and Berlin and 28 more. Often billed alongside ojoo, Bill Kouligas and Blawan. Next up: TBA - Multiple Historic Venues - Manhattan & Brooklyn, Newyorkcity on Fri 25 Sept.
 
@@ -28,4 +28,4 @@ Crystallmess is a techno and club artist based in France, tracked on soundcheck,
 
 ojoo, Bill Kouligas, Blawan
 
-*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/crystallmess/)*
+*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/crystallmess/)*

@@ -1,6 +1,6 @@
 # Jacuzzi General
 
-Jacuzzi General is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Tue, 15 Sept 2026, next at Paradise Palms, Edinburgh on Thu, 17 Sept 2026.
+Jacuzzi General is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Wed, 16 Sept 2026, next at Paradise Palms, Edinburgh on Thu, 17 Sept 2026.
 
 Jacuzzi General is a house and disco artist tracked on soundcheck, with 108 sets logged across Berlin, Edinburgh and London. Often billed alongside Ann Tweak, Fierro Grande and Lara Sinclair. Next up: Paradise Palms, Edinburgh on Thu 17 Sept.
 
@@ -26,4 +26,4 @@ Jacuzzi General is a house and disco artist tracked on soundcheck, with 108 sets
 
 Ann Tweak, Fierro Grande, Lara Sinclair
 
-*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jacuzzigeneral/)*
+*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jacuzzigeneral/)*

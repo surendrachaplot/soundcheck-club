@@ -1,14 +1,13 @@
 # Xanadu
 
-Xanadu is a music venue in New York City with 7 upcoming nights listed on soundcheck as of Tue, 15 Sept 2026; the next is "Ferg 54 Wheels (skate)" on Tue, 15 Sept 2026.
+Xanadu is a music venue in New York City with 6 upcoming nights listed on soundcheck as of Wed, 16 Sept 2026; the next is "Sunday Skate Club: The Disco Express feat. Bustin' Loose, Roland & Brother Rich (skate)" on Sun, 20 Sept 2026.
 
-Xanadu is a music venue in Newyorkcity listed on soundcheck. 7 upcoming nights, with line-ups including Bustin' Loose, Andi, Marie Davidson and Roland & Brother Rich and 2 more. Browse upcoming dates, start times and who's playing. 262 Starr St, Brooklyn, NY 11237.
+Xanadu is a music venue in Newyorkcity listed on soundcheck. 6 upcoming nights, with line-ups including Bustin' Loose, Andi, Marie Davidson and Roland & Brother Rich and 2 more. Browse upcoming dates, start times and who's playing. 262 Starr St, Brooklyn, NY 11237.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Tue, 15 Sept 2026 | Ferg 54 Wheels (skate) |  |
 | Sun, 20 Sept 2026 | Sunday Skate Club: The Disco Express feat. Bustin' Loose, Roland & Brother Rich (skate) | Bustin' Loose, Roland & Brother Rich |
 | Thu, 24 Sept 2026 | Twin Shadow (concert) |  |
 | Sun, 27 Sept 2026 | Sunday Skate Club: DJ Big Bob vs 4AM NYC - Club Flush: Smurfo Udirty | SMURFOUDIRTY |
@@ -20,4 +19,4 @@ Xanadu is a music venue in Newyorkcity listed on soundcheck. 7 upcoming nights, 
 
 262 Starr St, Brooklyn, NY 11237, New York City
 
-*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/xanadu/)*
+*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/xanadu/)*

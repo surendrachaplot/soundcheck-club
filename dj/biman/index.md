@@ -1,6 +1,6 @@
 # Bi Män
 
-Bi Män is a Trance and Techno artist with 2 upcoming club dates listed on soundcheck as of Tue, 15 Sept 2026, next at KitKatClub, Berlin on Fri, 25 Sept 2026.
+Bi Män is a Trance and Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 16 Sept 2026, next at KitKatClub, Berlin on Fri, 25 Sept 2026.
 
 Bi Män is a trance and techno artist based in Germany, tracked on soundcheck, with 18 sets logged across Amsterdam, Berlin, Hamburg and Leipzig and 1 more. Often billed alongside AFAR, Baerbel and Bee Lincoln. Next up: KitKatClub, Berlin on Fri 25 Sept.
 
@@ -26,4 +26,4 @@ Bi Män is a trance and techno artist based in Germany, tracked on soundcheck, w
 
 AFAR, Baerbel, Bee Lincoln
 
-*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/biman/)*
+*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/biman/)*

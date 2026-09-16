@@ -1,6 +1,6 @@
 # Bonnefooi
 
-Bonnefooi is a music venue in Brussels with 2 upcoming nights listed on soundcheck as of Tue, 15 Sept 2026; the next is "SULFURIQUE - strictly vinyl" on Fri, 18 Sept 2026.
+Bonnefooi is a music venue in Brussels with 2 upcoming nights listed on soundcheck as of Wed, 16 Sept 2026; the next is "SULFURIQUE - strictly vinyl" on Fri, 18 Sept 2026.
 
 Bonnefooi is a music venue in Brussels listed on soundcheck. 2 upcoming nights. Browse upcoming dates, start times and who's playing. Steenstraat 8, 1000 Brussels, Belgium.
 
@@ -15,4 +15,4 @@ Bonnefooi is a music venue in Brussels listed on soundcheck. 2 upcoming nights. 
 
 Steenstraat 8, 1000 Brussels, Belgium, Brussels
 
-*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/brussels/club/bonnefooi/)*
+*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/brussels/club/bonnefooi/)*

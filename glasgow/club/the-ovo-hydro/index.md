@@ -1,6 +1,6 @@
 # The OVO Hydro
 
-The OVO Hydro is a music venue in Glasgow with 2 upcoming nights listed on soundcheck as of Tue, 15 Sept 2026; the next is "Adrián Mills B2B Cloudy [All Night Long] OVO HYDRO" on Sat, 19 Sept 2026.
+The OVO Hydro is a music venue in Glasgow with 2 upcoming nights listed on soundcheck as of Wed, 16 Sept 2026; the next is "Adrián Mills B2B Cloudy [All Night Long] OVO HYDRO" on Sat, 19 Sept 2026.
 
 The OVO Hydro is a music venue in Glasgow listed on soundcheck. 2 upcoming nights, with line-ups including Cloudy and Holy Priest. Browse upcoming dates, start times and who's playing. Exhibition Way, Glasgow G3 8YW, Scotland.
 
@@ -15,4 +15,4 @@ The OVO Hydro is a music venue in Glasgow listed on soundcheck. 2 upcoming night
 
 Exhibition Way, Glasgow G3 8YW, Scotland, Glasgow
 
-*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/the-ovo-hydro/)*
+*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/the-ovo-hydro/)*

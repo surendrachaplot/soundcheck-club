@@ -1,6 +1,6 @@
 # Y U QT
 
-Y U QT is a Garage and Bass artist with 7 upcoming club dates listed on soundcheck as of Tue, 15 Sept 2026, next at World Headquarters, Newcastle on Fri, 18 Sept 2026.
+Y U QT is a Garage and Bass artist with 7 upcoming club dates listed on soundcheck as of Wed, 16 Sept 2026, next at World Headquarters, Newcastle on Fri, 18 Sept 2026.
 
 Y U QT is a garage and bass artist tracked on soundcheck, with 114 sets logged across Amsterdam, Antwerp, Auckland and Bangkok and 27 more. Often billed alongside Dr Dubplate, Yung Singh and Bakey. Next up: World Headquarters, Newcastle on Fri 18 Sept.
 
@@ -31,4 +31,4 @@ Y U QT is a garage and bass artist tracked on soundcheck, with 114 sets logged a
 
 Dr Dubplate, Yung Singh, Bakey
 
-*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/yuqt/)*
+*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/yuqt/)*

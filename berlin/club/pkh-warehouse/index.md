@@ -1,6 +1,6 @@
 # PKH Warehouse
 
-PKH Warehouse is a music venue in Berlin with 1 upcoming night listed on soundcheck as of Tue, 15 Sept 2026; the next is "PKH Warehouse Opening Event with Trancecore, Sachsentrance, Tragedie, 44 Hertz, uvm" on Fri, 2 Oct 2026.
+PKH Warehouse is a music venue in Berlin with 1 upcoming night listed on soundcheck as of Wed, 16 Sept 2026; the next is "PKH Warehouse Opening Event with Trancecore, Sachsentrance, Tragedie, 44 Hertz, uvm" on Fri, 2 Oct 2026.
 
 PKH Warehouse is a music venue in Berlin listed on soundcheck. 1 upcoming night, with line-ups including Anechoic, August Kind, bbymeister and Danca and 2 more. Browse upcoming dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ PKH Warehouse is a music venue in Berlin listed on soundcheck. 1 upcoming night,
 | --- | --- | --- |
 | Fri, 2 Oct 2026 | PKH Warehouse Opening Event with Trancecore, Sachsentrance, Tragedie, 44 Hertz, uvm | Anechoic, August Kind, Danca, Daniel Neuland, Deltapeak, FEROTONINO, Kizu, Martin Ka, Naicet, Nettta, RaverPik, Sabu!, Teenage Mutants, Tocadisco, Tonino, bbymeister, jeanska, nordcorreia.mp3, phlipzee, sterni (DE) |
 
-*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/pkh-warehouse/)*
+*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/pkh-warehouse/)*

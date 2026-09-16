@@ -1,6 +1,6 @@
 # The BBE Store
 
-The BBE Store is a music venue in London with 3 upcoming nights listed on soundcheck as of Tue, 15 Sept 2026; the next is "SIGNAL: AKWA, FITSMEFUNNY, JOSH HURST, D1 [FREE PARTY + ALL VINYL]" on Fri, 18 Sept 2026.
+The BBE Store is a music venue in London with 3 upcoming nights listed on soundcheck as of Wed, 16 Sept 2026; the next is "SIGNAL: AKWA, FITSMEFUNNY, JOSH HURST, D1 [FREE PARTY + ALL VINYL]" on Fri, 18 Sept 2026.
 
 The BBE Store is a music venue in London listed on soundcheck. 3 upcoming nights, with line-ups including AKWA, FITS ME FUNNY, Manish and Zaki. Browse upcoming dates, start times and who's playing. 376 Helmsley Pl, London E8 3SB.
 
@@ -16,4 +16,4 @@ The BBE Store is a music venue in London listed on soundcheck. 3 upcoming nights
 
 376 Helmsley Pl, London E8 3SB, London
 
-*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/the-bbe-store/)*
+*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/the-bbe-store/)*

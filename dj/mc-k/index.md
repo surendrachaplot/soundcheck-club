@@ -1,6 +1,6 @@
 # MC-K
 
-MC-K is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Tue, 15 Sept 2026, next at Ritter Butzke, Berlin on Fri, 18 Sept 2026.
+MC-K is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 16 Sept 2026, next at Ritter Butzke, Berlin on Fri, 18 Sept 2026.
 
 MC-K is a house and techno artist tracked on soundcheck, with 13 sets logged across Berlin. Often billed alongside Ana Cover, LIZZN and MARIE.MOON. Next up: Ritter Butzke, Berlin on Fri 18 Sept.
 
@@ -26,4 +26,4 @@ MC-K is a house and techno artist tracked on soundcheck, with 13 sets logged acr
 
 Ana Cover, LIZZN, MARIE.MOON
 
-*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mc-k/)*
+*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mc-k/)*

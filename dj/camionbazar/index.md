@@ -1,6 +1,6 @@
 # Camion Bazar
 
-Camion Bazar is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Tue, 15 Sept 2026, next at Q Club, Milan on Fri, 18 Sept 2026.
+Camion Bazar is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Wed, 16 Sept 2026, next at Q Club, Milan on Fri, 18 Sept 2026.
 
 Camion Bazar is a house and techno artist tracked on soundcheck, with 66 sets logged across Bangkok, Barcelona, Berlin and Brussels and 14 more. Often billed alongside Romain Play, Benedetta and Mathilde Rocaboy. Next up: Q Club, Milan on Fri 18 Sept.
 
@@ -27,4 +27,4 @@ Camion Bazar is a house and techno artist tracked on soundcheck, with 66 sets lo
 
 Romain Play, Benedetta, Mathilde Rocaboy
 
-*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/camionbazar/)*
+*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/camionbazar/)*

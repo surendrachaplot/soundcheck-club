@@ -1,6 +1,6 @@
 # Jay Mitta
 
-Jay Mitta is a Experimental and Electronica artist with 2 upcoming club dates listed on soundcheck as of Tue, 15 Sept 2026, next at La Fabriek, Brussels on Fri, 25 Sept 2026.
+Jay Mitta is a Experimental and Electronica artist with 2 upcoming club dates listed on soundcheck as of Wed, 16 Sept 2026, next at La Fabriek, Brussels on Fri, 25 Sept 2026.
 
 Jay Mitta is an experimental and electronica artist tracked on soundcheck, with 13 sets logged across Amsterdam, Berlin, Brussels and Cologne and 3 more. Often billed alongside Authentically Plastic, Kampire and Nico Adomako. Next up: La Fabriek, Brussels on Fri 25 Sept.
 
@@ -26,4 +26,4 @@ Jay Mitta is an experimental and electronica artist tracked on soundcheck, with 
 
 Authentically Plastic, Kampire, Nico Adomako
 
-*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jaymitta/)*
+*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jaymitta/)*

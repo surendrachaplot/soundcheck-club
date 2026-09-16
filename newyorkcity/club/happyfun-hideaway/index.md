@@ -1,6 +1,6 @@
 # Happyfun Hideaway
 
-Happyfun Hideaway is a music venue in New York City with 3 upcoming nights listed on soundcheck as of Tue, 15 Sept 2026; the next is "TASTE THE RAINBOW with Rainbow Tutu" on Tue, 22 Sept 2026.
+Happyfun Hideaway is a music venue in New York City with 3 upcoming nights listed on soundcheck as of Wed, 16 Sept 2026; the next is "TASTE THE RAINBOW with Rainbow Tutu" on Tue, 22 Sept 2026.
 
 Happyfun Hideaway is a music venue in Newyorkcity listed on soundcheck. 3 upcoming nights, with line-ups including _briggs, Hidden Order, LUCIA. and Norty Cotto and 2 more. Browse upcoming dates, start times and who's playing. 1211 Myrtle Ave, Brooklyn, NY 11221, USA.
 
@@ -16,4 +16,4 @@ Happyfun Hideaway is a music venue in Newyorkcity listed on soundcheck. 3 upcomi
 
 1211 Myrtle Ave, Brooklyn, NY 11221, USA, New York City
 
-*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/happyfun-hideaway/)*
+*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/happyfun-hideaway/)*

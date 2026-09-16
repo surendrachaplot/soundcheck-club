@@ -1,6 +1,6 @@
 # MZKN
 
-MZKN is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Tue, 15 Sept 2026, next at VENT, Tokyo on Sat, 19 Sept 2026.
+MZKN is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Wed, 16 Sept 2026, next at VENT, Tokyo on Sat, 19 Sept 2026.
 
 MZKN is a techno and house artist based in Japan, tracked on soundcheck, with 8 sets logged across Tokyo. Often billed alongside SIGNAL (JP), Torus and ki (43). Next up: VENT, Tokyo on Sat 19 Sept.
 
@@ -24,4 +24,4 @@ MZKN is a techno and house artist based in Japan, tracked on soundcheck, with 8 
 
 SIGNAL (JP), Torus, ki (43)
 
-*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mzkn/)*
+*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mzkn/)*

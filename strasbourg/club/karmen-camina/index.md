@@ -1,6 +1,6 @@
 # Karmen Camina
 
-Karmen Camina is a music venue in Strasbourg with 8 upcoming nights listed on soundcheck as of Tue, 15 Sept 2026; the next is "trb! ZGA #5 [Miss Kina Car Audio, nono, bluzu, secco]" on Thu, 17 Sept 2026.
+Karmen Camina is a music venue in Strasbourg with 8 upcoming nights listed on soundcheck as of Wed, 16 Sept 2026; the next is "trb! ZGA #5 [Miss Kina Car Audio, nono, bluzu, secco]" on Thu, 17 Sept 2026.
 
 Karmen Camina is a music venue in Strasbourg listed on soundcheck. 8 upcoming nights, with line-ups including ALIS., Angioma, Dario Zenker and Deadbeat and 2 more. Browse upcoming dates, start times and who's playing. 4 cour des Cigarières 67000 Strasbourg.
 
@@ -21,4 +21,4 @@ Karmen Camina is a music venue in Strasbourg listed on soundcheck. 8 upcoming ni
 
 4 cour des Cigarières 67000 Strasbourg, Strasbourg
 
-*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/strasbourg/club/karmen-camina/)*
+*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/strasbourg/club/karmen-camina/)*

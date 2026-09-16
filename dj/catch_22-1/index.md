@@ -1,6 +1,6 @@
 # Catch_22 (1)
 
-Catch_22 (1) is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Tue, 15 Sept 2026, next at Sekta Selekta, Krakow on Thu, 17 Sept 2026.
+Catch_22 (1) is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Wed, 16 Sept 2026, next at Sekta Selekta, Krakow on Thu, 17 Sept 2026.
 
 Catch_22 (1) is a techno and electro artist tracked on soundcheck, with 17 sets logged across Krakow. Often billed alongside 4\4, Intyre and Badalian. Next up: Sekta Selekta, Krakow on Thu 17 Sept.
 
@@ -25,4 +25,4 @@ Catch_22 (1) is a techno and electro artist tracked on soundcheck, with 17 sets 
 
 4\4, Intyre, Badalian
 
-*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/catch_22-1/)*
+*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/catch_22-1/)*

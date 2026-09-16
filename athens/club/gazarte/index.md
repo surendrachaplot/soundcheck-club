@@ -1,6 +1,6 @@
 # Gazarte
 
-Gazarte is a music venue in Athens with 1 upcoming night listed on soundcheck as of Tue, 15 Sept 2026; the next is "EDEN LIVE presents HVOB" on Thu, 3 Dec 2026.
+Gazarte is a music venue in Athens with 1 upcoming night listed on soundcheck as of Wed, 16 Sept 2026; the next is "EDEN LIVE presents HVOB" on Thu, 3 Dec 2026.
 
 Gazarte is a music venue in Athens listed on soundcheck. 1 upcoming night, with line-ups including HVOB. Browse upcoming dates, start times and who's playing. Voutadon 34, Athina 118 54.
 
@@ -14,4 +14,4 @@ Gazarte is a music venue in Athens listed on soundcheck. 1 upcoming night, with 
 
 Voutadon 34, Athina 118 54, Athens
 
-*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/athens/club/gazarte/)*
+*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/athens/club/gazarte/)*

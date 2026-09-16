@@ -1,6 +1,6 @@
 # Emma Kearns
 
-Emma Kearns is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Tue, 15 Sept 2026, next at Pygmalion, Dublin on Fri, 18 Sept 2026.
+Emma Kearns is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 16 Sept 2026, next at Pygmalion, Dublin on Fri, 18 Sept 2026.
 
 Emma Kearns is a house and techno artist based in Ireland, tracked on soundcheck, with 2 sets logged across Dublin. Often billed alongside DIEBYVEG, Surferboy and Talinho. Next up: Pygmalion, Dublin on Fri 18 Sept.
 
@@ -15,4 +15,4 @@ Emma Kearns is a house and techno artist based in Ireland, tracked on soundcheck
 
 DIEBYVEG, Surferboy, Talinho
 
-*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/emmakearns/)*
+*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/emmakearns/)*

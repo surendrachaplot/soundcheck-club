@@ -1,6 +1,6 @@
 # Aether Club Budapest
 
-Aether Club Budapest is a music venue in Budapest with 4 upcoming nights listed on soundcheck as of Tue, 15 Sept 2026; the next is "AETHER BOUNCY - Blue Advance, Dumbo, 96zen, Raijin" on Fri, 18 Sept 2026.
+Aether Club Budapest is a music venue in Budapest with 4 upcoming nights listed on soundcheck as of Wed, 16 Sept 2026; the next is "AETHER BOUNCY - Blue Advance, Dumbo, 96zen, Raijin" on Fri, 18 Sept 2026.
 
 Aether Club Budapest is a music venue in Budapest listed on soundcheck. 4 upcoming nights, with line-ups including 3en, 96zen, Adx and AGA2L and 2 more. Browse upcoming dates, start times and who's playing. Király street 13, Budapest, 1075, Hungary.
 
@@ -17,4 +17,4 @@ Aether Club Budapest is a music venue in Budapest listed on soundcheck. 4 upcomi
 
 Király street 13, Budapest, 1075, Hungary, Budapest
 
-*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/budapest/club/aether-club-budapest/)*
+*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/budapest/club/aether-club-budapest/)*

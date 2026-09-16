@@ -1,6 +1,6 @@
 # Merel Helderman
 
-Merel Helderman is a House and Techno artist with 11 upcoming club dates listed on soundcheck as of Tue, 15 Sept 2026, next at Colorado Charlie, The Hague on Fri, 18 Sept 2026.
+Merel Helderman is a House and Techno artist with 11 upcoming club dates listed on soundcheck as of Wed, 16 Sept 2026, next at Colorado Charlie, The Hague on Fri, 18 Sept 2026.
 
 Merel Helderman is a house and techno artist tracked on soundcheck, with 72 sets logged across Amsterdam, Berlin, Melbourne and Thehague and 1 more. Often billed alongside Benny Rodrigues, Boris Coelman and Moody Mehran. Next up: Colorado Charlie, Thehague on Fri 18 Sept.
 
@@ -35,4 +35,4 @@ Merel Helderman is a house and techno artist tracked on soundcheck, with 72 sets
 
 Benny Rodrigues, Boris Coelman, Moody Mehran
 
-*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/merelhelderman/)*
+*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/merelhelderman/)*

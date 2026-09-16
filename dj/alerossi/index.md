@@ -1,6 +1,6 @@
 # Ale Rossi
 
-Ale Rossi is a Club and Afro House artist with 2 upcoming club dates listed on soundcheck as of Tue, 15 Sept 2026, next at Bolero, Seoul on Fri, 18 Sept 2026.
+Ale Rossi is a Club and Afro House artist with 2 upcoming club dates listed on soundcheck as of Wed, 16 Sept 2026, next at Bolero, Seoul on Fri, 18 Sept 2026.
 
 Ale Rossi is a club and afro house artist tracked on soundcheck, with 16 sets logged across Bangkok, Ghent, Madrid and Milan and 2 more. Often billed alongside Danny Finn, Youssef Giga and ANDOW. Next up: Bolero, Seoul on Fri 18 Sept.
 
@@ -26,4 +26,4 @@ Ale Rossi is a club and afro house artist tracked on soundcheck, with 16 sets lo
 
 Danny Finn, Youssef Giga, ANDOW
 
-*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/alerossi/)*
+*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/alerossi/)*

@@ -1,6 +1,6 @@
 # Abdallah and I
 
-Abdallah and I is a Psytrance and Downtempo artist with 1 upcoming club date listed on soundcheck as of Tue, 15 Sept 2026, next at Sensorium, Berlin on Sat, 26 Sept 2026.
+Abdallah and I is a Psytrance and Downtempo artist with 1 upcoming club date listed on soundcheck as of Wed, 16 Sept 2026, next at Sensorium, Berlin on Sat, 26 Sept 2026.
 
 Abdallah and I are a psytrance and downtempo duo tracked on soundcheck, with 7 sets logged across Berlin. Often billed alongside Andeel, Lara Elfara and Noor Sanchez. Next up: Sensorium, Berlin on Sat 26 Sept.
 
@@ -23,4 +23,4 @@ Abdallah and I are a psytrance and downtempo duo tracked on soundcheck, with 7 s
 
 Andeel, Lara Elfara, Noor Sanchez
 
-*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/abdallahandi/)*
+*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/abdallahandi/)*

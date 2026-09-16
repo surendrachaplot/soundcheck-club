@@ -1,8 +1,8 @@
 # Bassvictim
 
-Bassvictim is a Electro and Experimental artist with 2 upcoming club dates listed on soundcheck as of Tue, 15 Sept 2026, next at TBA - Pier 80, San Francisco/Oakland on Sat, 26 Sept 2026.
+Bassvictim is a Electro and Experimental artist with 3 upcoming club dates listed on soundcheck as of Wed, 16 Sept 2026, next at TBA - Pier 80, San Francisco/Oakland on Sat, 26 Sept 2026.
 
-Bassvictim is an electro and experimental artist based in United Kingdom, tracked on soundcheck, with 47 sets logged across Amsterdam, Barcelona, Berlin and Brussels and 16 more. Often billed alongside mMega, Evian Christ and Heartcoregirl. Next up: TBA - Pier 80, Sanfrancisco on Sat 26 Sept.
+Bassvictim is an electro and experimental artist based in United Kingdom, tracked on soundcheck, with 48 sets logged across Amsterdam, Barcelona, Berlin and Brussels and 17 more. Often billed alongside mMega, Evian Christ and Heartcoregirl. Next up: TBA - Pier 80, Sanfrancisco on Sat 26 Sept.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Bassvictim is an electro and experimental artist based in United Kingdom, tracke
 | --- | --- | --- |
 | Sat, 26 Sept 2026 | TBA - Pier 80 | San Francisco/Oakland |
 | Fri, 16 Oct 2026 | Mana Wynwood | Miami |
+| Tue, 27 Oct 2026 | Union Transfer | Philadelphia |
 
 ## Recently played
 
@@ -26,4 +27,4 @@ Bassvictim is an electro and experimental artist based in United Kingdom, tracke
 
 mMega, Evian Christ, Heartcoregirl
 
-*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bassvictim/)*
+*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bassvictim/)*

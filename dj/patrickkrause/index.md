@@ -1,6 +1,6 @@
 # Patrick Krause
 
-Patrick Krause is a Afro House and Progressive House artist with 2 upcoming club dates listed on soundcheck as of Tue, 15 Sept 2026, next at Kadinsky Cafe, Amsterdam on Sat, 3 Oct 2026.
+Patrick Krause is a Afro House and Progressive House artist with 2 upcoming club dates listed on soundcheck as of Wed, 16 Sept 2026, next at Kadinsky Cafe, Amsterdam on Sat, 3 Oct 2026.
 
 Patrick Krause is an afro house and progressive house artist tracked on soundcheck, with 6 sets logged across Amsterdam, Istanbul and Munich. Often billed alongside Usatov, Main Identity and AVALAN. Next up: Kadinsky Cafe, Amsterdam on Sat 3 Oct.
 
@@ -22,4 +22,4 @@ Patrick Krause is an afro house and progressive house artist tracked on soundche
 
 Usatov, Main Identity, AVALAN
 
-*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/patrickkrause/)*
+*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/patrickkrause/)*

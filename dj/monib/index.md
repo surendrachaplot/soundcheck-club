@@ -1,6 +1,6 @@
 # Monib
 
-Monib is a Techno and Club artist with 1 upcoming club date listed on soundcheck as of Tue, 15 Sept 2026, next at TBA, Los Angeles on Wed, 16 Sept 2026.
+Monib is a Techno and Club artist with 1 upcoming club date listed on soundcheck as of Wed, 16 Sept 2026, next at TBA, Los Angeles on Wed, 16 Sept 2026.
 
 Monib is a techno and club artist based in Canada, tracked on soundcheck, with 21 sets logged across Losangeles, Montreal, Newyorkcity and Toronto and 1 more. Often billed alongside Siren Mars, nastygloss and Katamina. Next up: TBA, Losangeles on Wed 16 Sept.
 
@@ -25,4 +25,4 @@ Monib is a techno and club artist based in Canada, tracked on soundcheck, with 2
 
 Siren Mars, nastygloss, Katamina
 
-*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/monib/)*
+*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/monib/)*

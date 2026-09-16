@@ -1,6 +1,6 @@
 # DANDAN
 
-DANDAN is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 15 Sept 2026, next at WOMB, Tokyo on Fri, 18 Sept 2026.
+DANDAN is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 16 Sept 2026, next at WOMB, Tokyo on Fri, 18 Sept 2026.
 
 DANDAN is a techno and house artist based in Japan, tracked on soundcheck, with 83 sets logged across Berlin, Hongkong, Lisbon and Melbourne and 5 more. Often billed alongside DANA NADA, TEI TEI and Kojiro. Next up: WOMB, Tokyo on Fri 18 Sept.
 
@@ -25,4 +25,4 @@ DANDAN is a techno and house artist based in Japan, tracked on soundcheck, with 
 
 DANA NADA, TEI TEI, Kojiro
 
-*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dandan/)*
+*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dandan/)*

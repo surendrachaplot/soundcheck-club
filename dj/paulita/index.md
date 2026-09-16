@@ -1,6 +1,6 @@
 # Paulita
 
-Paulita is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Tue, 15 Sept 2026, next at Paloma, Berlin on Fri, 30 Oct 2026.
+Paulita is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Wed, 16 Sept 2026, next at Paloma, Berlin on Fri, 30 Oct 2026.
 
 Paulita is a house and disco artist based in Germany, tracked on soundcheck, with 56 sets logged across Antwerp, Barcelona, Berlin and Brussels and 6 more. Often billed alongside Marian Tone, Simon C. and Viktor Roshu. Next up: Paloma, Berlin on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ Paulita is a house and disco artist based in Germany, tracked on soundcheck, wit
 
 Marian Tone, Simon C., Viktor Roshu
 
-*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/paulita/)*
+*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/paulita/)*

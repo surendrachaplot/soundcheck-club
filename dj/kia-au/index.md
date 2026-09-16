@@ -1,6 +1,6 @@
 # Kia (AU)
 
-Kia (AU) is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Tue, 15 Sept 2026, next at TBA - Out ‘n’ About Treesort, Portland on Thu, 24 Sept 2026.
+Kia (AU) is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Wed, 16 Sept 2026, next at TBA - Out ‘n’ About Treesort, Portland on Thu, 24 Sept 2026.
 
 Kia (AU) is a techno and house artist tracked on soundcheck, with 203 sets logged across Amsterdam, Auckland, Bangkok and Barcelona and 48 more. Often billed alongside Reptant, DjRUM and livwutang. Next up: TBA - Out ‘n’ About Treesort, Portland on Thu 24 Sept.
 
@@ -29,4 +29,4 @@ Kia (AU) is a techno and house artist tracked on soundcheck, with 203 sets logge
 
 Reptant, DjRUM, livwutang
 
-*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kia-au/)*
+*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kia-au/)*

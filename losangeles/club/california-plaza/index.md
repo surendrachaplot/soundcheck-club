@@ -1,6 +1,6 @@
 # California Plaza
 
-California Plaza is a music venue in Los Angeles with 1 upcoming night listed on soundcheck as of Tue, 15 Sept 2026; the next is "[CANCELLED] Marques Wyatt B2B Doc Martin - Imagine Luv presents: A Celebration of House Music" on Sat, 10 Oct 2026.
+California Plaza is a music venue in Los Angeles with 1 upcoming night listed on soundcheck as of Wed, 16 Sept 2026; the next is "[CANCELLED] Marques Wyatt B2B Doc Martin - Imagine Luv presents: A Celebration of House Music" on Sat, 10 Oct 2026.
 
 California Plaza is a music venue in Losangeles listed on soundcheck. 1 upcoming night, with line-ups including Big Cee, David Harness, Doc Martin and Marques Wyatt and 1 more. Browse upcoming dates, start times and who's playing. 340 S Grand Ave, Los Angeles, CA 90071, USA.
 
@@ -14,4 +14,4 @@ California Plaza is a music venue in Losangeles listed on soundcheck. 1 upcoming
 
 340 S Grand Ave, Los Angeles, CA 90071, USA, Los Angeles
 
-*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/california-plaza/)*
+*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/california-plaza/)*

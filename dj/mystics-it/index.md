@@ -1,6 +1,6 @@
 # Mystics
 
-Mystics is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Tue, 15 Sept 2026, next at Do Not Sit On The Furniture, Miami on Thu, 17 Sept 2026.
+Mystics is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Wed, 16 Sept 2026, next at Do Not Sit On The Furniture, Miami on Thu, 17 Sept 2026.
 
 Mystics is a house and deep house artist based in Italy, tracked on soundcheck, with 7 sets logged across Berlin, Miami and Utrecht. Often billed alongside Tommy Four Seven, AbueKev and Flaminia. Next up: Do Not Sit On The Furniture, Miami on Thu 17 Sept.
 
@@ -23,4 +23,4 @@ Mystics is a house and deep house artist based in Italy, tracked on soundcheck, 
 
 Tommy Four Seven, AbueKev, Flaminia
 
-*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mystics-it/)*
+*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mystics-it/)*

@@ -1,6 +1,6 @@
 # Yozu
 
-Yozu is a House and Dub artist with 1 upcoming club date listed on soundcheck as of Tue, 15 Sept 2026, next at Nué Seoul, Seoul on Sat, 19 Sept 2026.
+Yozu is a House and Dub artist with 1 upcoming club date listed on soundcheck as of Wed, 16 Sept 2026, next at Nué Seoul, Seoul on Sat, 19 Sept 2026.
 
 Yozu is a house and dub artist tracked on soundcheck, with 11 sets logged across Seoul. Often billed alongside Haemin Kim, Kimgundi and Pseudobaul. Next up: Nué Seoul, Seoul on Sat 19 Sept.
 
@@ -25,4 +25,4 @@ Yozu is a house and dub artist tracked on soundcheck, with 11 sets logged across
 
 Haemin Kim, Kimgundi, Pseudobaul
 
-*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/yozu/)*
+*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/yozu/)*

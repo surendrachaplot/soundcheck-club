@@ -1,6 +1,6 @@
 # Current
 
-Current is a Drum & Bass and Breakbeat artist with 1 upcoming club date listed on soundcheck as of Tue, 15 Sept 2026, next at TBA - Barcocina West Town, Chicago on Wed, 16 Sept 2026.
+Current is a Drum & Bass and Breakbeat artist with 1 upcoming club date listed on soundcheck as of Wed, 16 Sept 2026, next at TBA - Barcocina West Town, Chicago on Wed, 16 Sept 2026.
 
 Current is a drum & bass and breakbeat artist based in United States of America, tracked on soundcheck, with 21 sets logged across Chicago. Often billed alongside Renan, Chrissy Tee and Detach. Next up: TBA - Barcocina West Town, Chicago on Wed 16 Sept.
 
@@ -25,4 +25,4 @@ Current is a drum & bass and breakbeat artist based in United States of America,
 
 Renan, Chrissy Tee, Detach
 
-*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/current/)*
+*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/current/)*

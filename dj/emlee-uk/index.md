@@ -1,6 +1,6 @@
 # EMLEE
 
-EMLEE is a House and Afro House artist with 2 upcoming club dates listed on soundcheck as of Tue, 15 Sept 2026, next at Basing House, London on Fri, 25 Sept 2026.
+EMLEE is a House and Afro House artist with 2 upcoming club dates listed on soundcheck as of Wed, 16 Sept 2026, next at Basing House, London on Fri, 25 Sept 2026.
 
 EMLEE is a house and afro house artist based in United Kingdom, tracked on soundcheck, with 2 sets logged across London. Often billed alongside Azire, Boo and Dominique Danielle. Next up: Basing House, London on Fri 25 Sept.
 
@@ -15,4 +15,4 @@ EMLEE is a house and afro house artist based in United Kingdom, tracked on sound
 
 Azire, Boo, Dominique Danielle
 
-*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/emlee-uk/)*
+*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/emlee-uk/)*

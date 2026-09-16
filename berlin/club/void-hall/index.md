@@ -1,6 +1,6 @@
 # Void Hall
 
-Void Hall is a music venue in Berlin with 3 upcoming nights listed on soundcheck as of Tue, 15 Sept 2026; the next is "New Blood Sessions XI - Event for Newcomers" on Fri, 18 Sept 2026.
+Void Hall is a music venue in Berlin with 3 upcoming nights listed on soundcheck as of Wed, 16 Sept 2026; the next is "New Blood Sessions XI - Event for Newcomers" on Fri, 18 Sept 2026.
 
 Void Hall is a music venue in Berlin listed on soundcheck. 3 upcoming nights, with line-ups including Azur, Esterne Moog, fr. JPLA and Initia and 2 more. Browse upcoming dates, start times and who's playing. Wiesenweg 5-9, 10365 Berlin.
 
@@ -16,4 +16,4 @@ Void Hall is a music venue in Berlin listed on soundcheck. 3 upcoming nights, wi
 
 Wiesenweg 5-9, 10365 Berlin, Berlin
 
-*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/void-hall/)*
+*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/void-hall/)*

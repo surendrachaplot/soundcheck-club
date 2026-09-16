@@ -1,6 +1,6 @@
 # Autumns
 
-Autumns is a Industrial and Techno artist with 4 upcoming club dates listed on soundcheck as of Tue, 15 Sept 2026, next at feedbk, New York City on Wed, 16 Sept 2026.
+Autumns is a Industrial and Techno artist with 4 upcoming club dates listed on soundcheck as of Wed, 16 Sept 2026, next at feedbk, New York City on Wed, 16 Sept 2026.
 
 Autumns is an industrial and techno artist based in Ireland, tracked on soundcheck, with 33 sets logged across Berlin, Bristol, Cork and Dublin and 11 more. Often billed alongside Kahn, Batu and CCL. Next up: feedbk, Newyorkcity on Wed 16 Sept.
 
@@ -28,4 +28,4 @@ Autumns is an industrial and techno artist based in Ireland, tracked on soundche
 
 Kahn, Batu, CCL
 
-*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/autumns/)*
+*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/autumns/)*

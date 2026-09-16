@@ -1,6 +1,6 @@
 # Isaac Prieto
 
-Isaac Prieto is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 15 Sept 2026, next at Spkrbox, Detroit on Wed, 16 Sept 2026.
+Isaac Prieto is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 16 Sept 2026, next at Spkrbox, Detroit on Wed, 16 Sept 2026.
 
 Isaac Prieto is a house and techno artist tracked on soundcheck, with 119 sets logged across Chicago, Detroit, Mexicocity and Toronto. Often billed alongside Javonntte, Donna Gardner and MGUN. Next up: Spkrbox, Detroit on Wed 16 Sept.
 
@@ -25,4 +25,4 @@ Isaac Prieto is a house and techno artist tracked on soundcheck, with 119 sets l
 
 Javonntte, Donna Gardner, MGUN
 
-*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/isaacprieto/)*
+*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/isaacprieto/)*

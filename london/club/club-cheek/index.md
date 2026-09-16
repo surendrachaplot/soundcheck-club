@@ -1,6 +1,6 @@
 # Club Cheek
 
-Club Cheek is a music venue in London with 13 upcoming nights listed on soundcheck as of Tue, 15 Sept 2026; the next is "common room with Bianca Scout / NURSE / Mock Uncle / Seraph" on Thu, 17 Sept 2026.
+Club Cheek is a music venue in London with 13 upcoming nights listed on soundcheck as of Wed, 16 Sept 2026; the next is "common room with Bianca Scout / NURSE / Mock Uncle / Seraph" on Thu, 17 Sept 2026.
 
 Club Cheek is a music venue in London listed on soundcheck. 13 upcoming nights, with line-ups including Tadeusz, Alicia (UK), Amit and ANNX and 2 more. Browse upcoming dates, start times and who's playing. 302-304 Barrington Road, London, SW9 7JJ.
 
@@ -23,4 +23,4 @@ Club Cheek is a music venue in London listed on soundcheck. 13 upcoming nights, 
 
 302-304 Barrington Road, London, SW9 7JJ, London
 
-*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/club-cheek/)*
+*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/club-cheek/)*

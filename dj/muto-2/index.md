@@ -1,6 +1,6 @@
 # MUTO (2)
 
-MUTO (2) is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Tue, 15 Sept 2026, next at Oath, Tokyo on Fri, 18 Sept 2026.
+MUTO (2) is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Wed, 16 Sept 2026, next at Oath, Tokyo on Fri, 18 Sept 2026.
 
 MUTO (2) is a house and techno artist based in Singapore, tracked on soundcheck, with 36 sets logged across Hongkong, Seoul, Singapore and Tokyo. Often billed alongside Toppings, Bongomann and Daryl Knows. Next up: Oath, Tokyo on Fri 18 Sept.
 
@@ -27,4 +27,4 @@ MUTO (2) is a house and techno artist based in Singapore, tracked on soundcheck,
 
 Toppings, Bongomann, Daryl Knows
 
-*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/muto-2/)*
+*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/muto-2/)*

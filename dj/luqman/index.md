@@ -1,6 +1,6 @@
 # Luqman
 
-Luqman is a Techno and Electronica artist with 1 upcoming club date listed on soundcheck as of Tue, 15 Sept 2026, next at 24 Moons, Melbourne on Fri, 18 Sept 2026.
+Luqman is a Techno and Electronica artist with 1 upcoming club date listed on soundcheck as of Wed, 16 Sept 2026, next at 24 Moons, Melbourne on Fri, 18 Sept 2026.
 
 Luqman is a techno and electronica artist tracked on soundcheck, with 17 sets logged across Melbourne and Sydney. Often billed alongside DJ Matab, Minimale Fatale and RAMSEY (AU). Next up: 24 Moons, Melbourne on Fri 18 Sept.
 
@@ -25,4 +25,4 @@ Luqman is a techno and electronica artist tracked on soundcheck, with 17 sets lo
 
 DJ Matab, Minimale Fatale, RAMSEY (AU)
 
-*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/luqman/)*
+*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/luqman/)*

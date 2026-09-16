@@ -1,14 +1,13 @@
 # Innellea
 
-Innellea is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Tue, 15 Sept 2026, next at [UNVRS], Ibiza on Tue, 15 Sept 2026.
+Innellea is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Wed, 16 Sept 2026, next at TBA - Newcastle Australia, Newcastle on Fri, 25 Sept 2026.
 
-Innellea is a techno and house artist tracked on soundcheck, with 143 sets logged across Amsterdam, Antwerp, Athens and Auckland and 45 more. Often billed alongside Colyn, Mind Against and 8KAYS. Next up: [UNVRS], Ibiza on Tue 15 Sept.
+Innellea is a techno and house artist tracked on soundcheck, with 143 sets logged across Amsterdam, Antwerp, Athens and Auckland and 45 more. Often billed alongside Colyn, Mind Against and 8KAYS. Next up: TBA - Newcastle Australia, Newcastle on Fri 25 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Tue, 15 Sept 2026 | [UNVRS] | Ibiza |
 | Fri, 25 Sept 2026 | TBA - Newcastle Australia | Newcastle |
 | Fri, 25 Sept 2026 | Maitland Showground | Sydney |
 | Sat, 17 Oct 2026 | Savaya Bali | Bali |
@@ -17,6 +16,7 @@ Innellea is a techno and house artist tracked on soundcheck, with 143 sets logge
 
 ## Recently played
 
+- [UNVRS], Ibiza — Tue, 15 Sept 2026
 - Olympic Athletic Center of Athens, Athens — Sat, 5 Sept 2026
 - Amnesia Ibiza, Ibiza — Wed, 2 Sept 2026
 - Else, Berlin — Sat, 29 Aug 2026
@@ -24,10 +24,9 @@ Innellea is a techno and house artist tracked on soundcheck, with 143 sets logge
 - Hï Ibiza, Ibiza — Thu, 16 Jul 2026
 - Knockdown Center, New York City — Fri, 19 Jun 2026
 - [UNVRS], Ibiza — Mon, 15 Jun 2026
-- fabric, London — Sat, 30 May 2026
 
 ## Shares bills with
 
 Colyn, Mind Against, 8KAYS
 
-*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/innellea/)*
+*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/innellea/)*

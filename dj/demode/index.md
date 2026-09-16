@@ -1,6 +1,6 @@
 # De Mode
 
-De Mode is a Disco and Techno artist with 2 upcoming club dates listed on soundcheck as of Tue, 15 Sept 2026, next at Albright Boulevard, Prague on Sat, 19 Sept 2026.
+De Mode is a Disco and Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 16 Sept 2026, next at Albright Boulevard, Prague on Sat, 19 Sept 2026.
 
 De Mode is a disco and techno artist tracked on soundcheck, with 135 sets logged across Berlin, Losangeles, Prague and Vienna. Often billed alongside Ark3r, kuju and Anton Kubikov. Next up: Albright Boulevard, Prague on Sat 19 Sept.
 
@@ -26,4 +26,4 @@ De Mode is a disco and techno artist tracked on soundcheck, with 135 sets logged
 
 Ark3r, kuju, Anton Kubikov
 
-*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/demode/)*
+*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/demode/)*

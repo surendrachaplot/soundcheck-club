@@ -1,6 +1,6 @@
 # Fever Dream
 
-Fever Dream is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 15 Sept 2026, next at Korjaamo, Helsinki on Wed, 30 Sept 2026.
+Fever Dream is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 16 Sept 2026, next at Korjaamo, Helsinki on Wed, 30 Sept 2026.
 
 Fever Dream is a techno and house artist based in United States of America, tracked on soundcheck, with 24 sets logged across Helsinki, Newyorkcity, Nurnberg and Stuttgart. Often billed alongside Pleasure Jams, ANDATA and Speckled Egg. Next up: Korjaamo, Helsinki on Wed 30 Sept.
 
@@ -25,4 +25,4 @@ Fever Dream is a techno and house artist based in United States of America, trac
 
 Pleasure Jams, ANDATA, Speckled Egg
 
-*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/feverdream/)*
+*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/feverdream/)*

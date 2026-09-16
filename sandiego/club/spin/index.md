@@ -1,6 +1,6 @@
 # Spin
 
-Spin is a music venue in San Diego with 14 upcoming nights listed on soundcheck as of Tue, 15 Sept 2026; the next is "RISE: Trance Thursday Nightclub - Last Light, Mo0n Biscuits, Kailey Grace" on Thu, 17 Sept 2026.
+Spin is a music venue in San Diego with 14 upcoming nights listed on soundcheck as of Wed, 16 Sept 2026; the next is "RISE: Trance Thursday Nightclub - Last Light, Mo0n Biscuits, Kailey Grace" on Thu, 17 Sept 2026.
 
 Spin is a music venue in Sandiego listed on soundcheck. 14 upcoming nights, with line-ups including 6 SENSE, aali, Apache and BAUGRUPPE90 and 2 more. Browse upcoming dates, start times and who's playing. 2028 Hancock Street; San Diego, CA 92110, USA.
 
@@ -23,4 +23,4 @@ Spin is a music venue in Sandiego listed on soundcheck. 14 upcoming nights, with
 
 2028 Hancock Street; San Diego, CA 92110, USA, San Diego
 
-*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/sandiego/club/spin/)*
+*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/sandiego/club/spin/)*

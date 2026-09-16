@@ -1,6 +1,6 @@
 # Zehlendorfer Disco Squad
 
-Zehlendorfer Disco Squad is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Tue, 15 Sept 2026, next at Klunkerkranich, Berlin on Thu, 17 Sept 2026.
+Zehlendorfer Disco Squad is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 16 Sept 2026, next at Klunkerkranich, Berlin on Thu, 17 Sept 2026.
 
 Zehlendorfer Disco Squad is a house and techno artist based in Germany, tracked on soundcheck, with 39 sets logged across Berlin. Often billed alongside Shimanski, Fonkituur and plattenpunani. Next up: Klunkerkranich, Berlin on Thu 17 Sept.
 
@@ -26,4 +26,4 @@ Zehlendorfer Disco Squad is a house and techno artist based in Germany, tracked 
 
 Shimanski, Fonkituur, plattenpunani
 
-*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/zehlendorferdiscosquad/)*
+*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/zehlendorferdiscosquad/)*

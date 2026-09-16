@@ -1,6 +1,6 @@
 # Filippo Castiglioni
 
-Filippo Castiglioni is a Minimal and House artist with 1 upcoming club date listed on soundcheck as of Tue, 15 Sept 2026, next at Apollo Club Milano, Milan on Fri, 18 Sept 2026.
+Filippo Castiglioni is a Minimal and House artist with 1 upcoming club date listed on soundcheck as of Wed, 16 Sept 2026, next at Apollo Club Milano, Milan on Fri, 18 Sept 2026.
 
 Filippo Castiglioni is a minimal and house artist tracked on soundcheck, with 27 sets logged across Barcelona, Lisbon, Milan and Paris. Often billed alongside Coni (2), Francesco Peregalli and Guglielmo Morandini. Next up: Apollo Club Milano, Milan on Fri 18 Sept.
 
@@ -25,4 +25,4 @@ Filippo Castiglioni is a minimal and house artist tracked on soundcheck, with 27
 
 Coni (2), Francesco Peregalli, Guglielmo Morandini
 
-*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/filippocastiglioni/)*
+*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/filippocastiglioni/)*

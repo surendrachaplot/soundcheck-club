@@ -1,6 +1,6 @@
 # Roger Sanchez
 
-Roger Sanchez is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Tue, 15 Sept 2026, next at DRUMSHEDS, London on Sat, 19 Sept 2026.
+Roger Sanchez is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Wed, 16 Sept 2026, next at DRUMSHEDS, London on Sat, 19 Sept 2026.
 
 Roger Sanchez is a house and tech house artist tracked on soundcheck, with 127 sets logged across Auckland, Barcelona, Birmingham and Bristol and 28 more. Often billed alongside The Shapeshifters, Inner City and Carl Craig. Next up: DRUMSHEDS, London on Sat 19 Sept.
 
@@ -26,4 +26,4 @@ Roger Sanchez is a house and tech house artist tracked on soundcheck, with 127 s
 
 The Shapeshifters, Inner City, Carl Craig
 
-*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/rogersanchez/)*
+*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/rogersanchez/)*

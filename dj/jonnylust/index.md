@@ -1,6 +1,6 @@
 # Jonny Lust
 
-Jonny Lust is a Techno and Deep House artist with 1 upcoming club date listed on soundcheck as of Tue, 15 Sept 2026, next at Secret Location, London on Sat, 26 Sept 2026.
+Jonny Lust is a Techno and Deep House artist with 1 upcoming club date listed on soundcheck as of Wed, 16 Sept 2026, next at Secret Location, London on Sat, 26 Sept 2026.
 
 Jonny Lust is a techno and deep house artist based in Venezuela, tracked on soundcheck, with 8 sets logged across Berlin and London. Often billed alongside Max Muth, Nicolas Lorenzini and AHAB. Next up: Secret Location, London on Sat 26 Sept.
 
@@ -24,4 +24,4 @@ Jonny Lust is a techno and deep house artist based in Venezuela, tracked on soun
 
 Max Muth, Nicolas Lorenzini, AHAB
 
-*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jonnylust/)*
+*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jonnylust/)*

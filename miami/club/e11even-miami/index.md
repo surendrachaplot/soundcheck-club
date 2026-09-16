@@ -1,14 +1,13 @@
 # E11EVEN MIAMI
 
-E11EVEN MIAMI is a music venue in Miami with 16 upcoming nights listed on soundcheck as of Tue, 15 Sept 2026; the next is "Iron Lyon" on Tue, 15 Sept 2026.
+E11EVEN MIAMI is a music venue in Miami with 15 upcoming nights listed on soundcheck as of Wed, 16 Sept 2026; the next is "Fenix Flexin" on Wed, 16 Sept 2026.
 
-E11EVEN MIAMI is a music venue in Miami listed on soundcheck. 16 upcoming nights, with line-ups including Afrojack. Browse upcoming dates, start times and who's playing. 29 NE 11th St, Miami, FL 33132.
+E11EVEN MIAMI is a music venue in Miami listed on soundcheck. 15 upcoming nights, with line-ups including Afrojack. Browse upcoming dates, start times and who's playing. 29 NE 11th St, Miami, FL 33132.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Tue, 15 Sept 2026 | Iron Lyon |  |
 | Wed, 16 Sept 2026 | Fenix Flexin |  |
 | Fri, 18 Sept 2026 | Vice |  |
 | Sat, 19 Sept 2026 | DJ Pee Wee |  |
@@ -18,9 +17,10 @@ E11EVEN MIAMI is a music venue in Miami listed on soundcheck. 16 upcoming nights
 | Thu, 24 Sept 2026 | Chizzle at E11EVEN |  |
 | Fri, 25 Sept 2026 | Afrojack at E11EVEN | Afrojack |
 | Sat, 26 Sept 2026 | Ruckus at E11EVEN |  |
+| Sun, 27 Sept 2026 | Damaged Goods at E11EVEN |  |
 
 ## Address
 
 29 NE 11th St, Miami, FL 33132, Miami
 
-*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/miami/club/e11even-miami/)*
+*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/miami/club/e11even-miami/)*

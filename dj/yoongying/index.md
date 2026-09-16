@@ -1,6 +1,6 @@
 # Yoongying
 
-Yoongying is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Tue, 15 Sept 2026, next at 12 x 12, Bangkok on Sat, 19 Sept 2026.
+Yoongying is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Wed, 16 Sept 2026, next at 12 x 12, Bangkok on Sat, 19 Sept 2026.
 
 Yoongying is a techno and electro artist tracked on soundcheck, with 112 sets logged across Bangkok and Kualalumpur. Often billed alongside DJ Krit Morton, DJ Sweed and DJ Nava. Next up: 12 x 12, Bangkok on Sat 19 Sept.
 
@@ -25,4 +25,4 @@ Yoongying is a techno and electro artist tracked on soundcheck, with 112 sets lo
 
 DJ Krit Morton, DJ Sweed, DJ Nava
 
-*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/yoongying/)*
+*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/yoongying/)*

@@ -1,6 +1,6 @@
 # Renate
 
-Renate is a music venue in Berlin with 15 upcoming nights listed on soundcheck as of Tue, 15 Sept 2026; the next is "SENSUS w/ DJ Fuckoff, P.Vanillaboy, PAU and many more" on Fri, 18 Sept 2026.
+Renate is a music venue in Berlin with 15 upcoming nights listed on soundcheck as of Wed, 16 Sept 2026; the next is "SENSUS w/ DJ Fuckoff, P.Vanillaboy, PAU and many more" on Fri, 18 Sept 2026.
 
 Renate is a music venue in Berlin listed on soundcheck. 15 upcoming nights, with line-ups including 80HDJ, Adlas, Adri Tüde and Amowia and 2 more. Browse upcoming dates, start times and who's playing. Alt Stralau 70; Friedrichshain; 10245 Berlin; Germany.
 
@@ -23,4 +23,4 @@ Renate is a music venue in Berlin listed on soundcheck. 15 upcoming nights, with
 
 Alt Stralau 70; Friedrichshain; 10245 Berlin; Germany, Berlin
 
-*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/renate/)*
+*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/renate/)*

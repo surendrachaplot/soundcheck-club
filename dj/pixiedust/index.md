@@ -1,6 +1,6 @@
 # Pixie Dust
 
-Pixie Dust is a Techno and Trance artist with 6 upcoming club dates listed on soundcheck as of Tue, 15 Sept 2026, next at Azimut Club, Turin on Fri, 18 Sept 2026.
+Pixie Dust is a Techno and Trance artist with 6 upcoming club dates listed on soundcheck as of Wed, 16 Sept 2026, next at Azimut Club, Turin on Fri, 18 Sept 2026.
 
 Pixie Dust is a techno and trance artist based in United States of America, tracked on soundcheck, with 43 sets logged across Amsterdam, Barcelona, Berlin and Cologne and 10 more. Often billed alongside Morelia, YËDM and Amøn. Next up: Azimut Club, Turin on Fri 18 Sept.
 
@@ -30,4 +30,4 @@ Pixie Dust is a techno and trance artist based in United States of America, trac
 
 Morelia, YËDM, Amøn
 
-*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/pixiedust/)*
+*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/pixiedust/)*

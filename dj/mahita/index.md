@@ -1,6 +1,6 @@
 # Mahita
 
-Mahita is a Baile Funk and Electro artist with 1 upcoming club date listed on soundcheck as of Tue, 15 Sept 2026, next at 90mil, Berlin on Sat, 26 Sept 2026.
+Mahita is a Baile Funk and Electro artist with 1 upcoming club date listed on soundcheck as of Wed, 16 Sept 2026, next at 90mil, Berlin on Sat, 26 Sept 2026.
 
 Mahita is a baile funk and electro artist tracked on soundcheck, with 5 sets logged across Berlin. Often billed alongside Em Oshan, ADAM MUNNINGS and Ami Wokloni. Next up: 90mil, Berlin on Sat 26 Sept.
 
@@ -21,4 +21,4 @@ Mahita is a baile funk and electro artist tracked on soundcheck, with 5 sets log
 
 Em Oshan, ADAM MUNNINGS, Ami Wokloni
 
-*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mahita/)*
+*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mahita/)*

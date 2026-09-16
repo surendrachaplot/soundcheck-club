@@ -1,6 +1,6 @@
 # Skiis
 
-Skiis is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 15 Sept 2026, next at Monarch, San Francisco/Oakland on Sat, 14 Nov 2026.
+Skiis is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 16 Sept 2026, next at Monarch, San Francisco/Oakland on Sat, 14 Nov 2026.
 
 Skiis is a techno and house artist tracked on soundcheck, with 46 sets logged across Losangeles, Newyorkcity and Sanfrancisco. Often billed alongside Clearcast, Vertigo and BAD JUUJU. Next up: Monarch, Sanfrancisco on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ Skiis is a techno and house artist tracked on soundcheck, with 46 sets logged ac
 
 Clearcast, Vertigo, BAD JUUJU
 
-*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/skiis/)*
+*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/skiis/)*

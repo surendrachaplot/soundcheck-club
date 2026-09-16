@@ -1,6 +1,6 @@
 # Free Zing
 
-Free Zing is a Techno and Electro artist with 2 upcoming club dates listed on soundcheck as of Tue, 15 Sept 2026, next at Cadavra, Madrid on Fri, 25 Sept 2026.
+Free Zing is a Techno and Electro artist with 2 upcoming club dates listed on soundcheck as of Wed, 16 Sept 2026, next at Cadavra, Madrid on Fri, 25 Sept 2026.
 
 Free Zing is a techno and electro artist tracked on soundcheck, with 59 sets logged across Barcelona, Berlin, Birmingham and Bristol and 8 more. Often billed alongside Alien Communications, BAYS and Jos. Next up: Cadavra, Madrid on Fri 25 Sept.
 
@@ -26,4 +26,4 @@ Free Zing is a techno and electro artist tracked on soundcheck, with 59 sets log
 
 Alien Communications, BAYS, Jos
 
-*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/freezing/)*
+*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/freezing/)*

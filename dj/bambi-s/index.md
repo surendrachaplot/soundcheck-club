@@ -1,6 +1,6 @@
 # Bambi-S
 
-Bambi-S is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Tue, 15 Sept 2026, next at Yellow House, Amsterdam on Sat, 24 Oct 2026.
+Bambi-S is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Wed, 16 Sept 2026, next at Yellow House, Amsterdam on Sat, 24 Oct 2026.
 
 Bambi-S is a house and tech house artist based in Germany, tracked on soundcheck, with 38 sets logged across Amsterdam, Barcelona, Berlin and Frankfurt and 8 more. Often billed alongside Stipo, Cristina Lazic and It's George!. Next up: Yellow House, Amsterdam on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ Bambi-S is a house and tech house artist based in Germany, tracked on soundcheck
 
 Stipo, Cristina Lazic, It's George!
 
-*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bambi-s/)*
+*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bambi-s/)*

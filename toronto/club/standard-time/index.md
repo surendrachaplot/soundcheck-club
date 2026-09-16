@@ -1,6 +1,6 @@
 # Standard Time
 
-Standard Time is a music venue in Toronto with 13 upcoming nights listed on soundcheck as of Tue, 15 Sept 2026; the next is "Vladimir Ivkovic b2b Yu Su - OPEN to CLOSE" on Fri, 18 Sept 2026.
+Standard Time is a music venue in Toronto with 13 upcoming nights listed on soundcheck as of Wed, 16 Sept 2026; the next is "Vladimir Ivkovic b2b Yu Su - OPEN to CLOSE" on Fri, 18 Sept 2026.
 
 Standard Time is a music venue in Toronto listed on soundcheck. 13 upcoming nights, with line-ups including Amedeo (CA), CCL, Ciel and Dusky and 2 more. Browse upcoming dates, start times and who's playing. 165 Geary Ave Toronto, ON M6H 2B8, Canada.
 
@@ -23,4 +23,4 @@ Standard Time is a music venue in Toronto listed on soundcheck. 13 upcoming nigh
 
 165 Geary Ave Toronto, ON M6H 2B8, Canada, Toronto
 
-*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/standard-time/)*
+*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/standard-time/)*

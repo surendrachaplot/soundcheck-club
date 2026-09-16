@@ -1,6 +1,6 @@
 # Mike Larry
 
-Mike Larry is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Tue, 15 Sept 2026, next at ESC, Montreal on Thu, 17 Sept 2026.
+Mike Larry is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Wed, 16 Sept 2026, next at ESC, Montreal on Thu, 17 Sept 2026.
 
 Mike Larry is a techno and house artist based in Canada, tracked on soundcheck, with 64 sets logged across Barcelona, Boston, Montreal and Paris and 1 more. Often billed alongside Bianca Badita, Isabel Soto and Christø. Next up: ESC, Montreal on Thu 17 Sept.
 
@@ -26,4 +26,4 @@ Mike Larry is a techno and house artist based in Canada, tracked on soundcheck, 
 
 Bianca Badita, Isabel Soto, Christø
 
-*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mikelarry/)*
+*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mikelarry/)*

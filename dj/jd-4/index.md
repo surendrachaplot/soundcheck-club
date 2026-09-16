@@ -1,6 +1,6 @@
 # JD (4)
 
-JD (4) is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Tue, 15 Sept 2026, next at Dr Morse, Melbourne on Fri, 25 Sept 2026.
+JD (4) is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Wed, 16 Sept 2026, next at Dr Morse, Melbourne on Fri, 25 Sept 2026.
 
 JD (4) is a house and tech house artist based in Australia, tracked on soundcheck, with 11 sets logged across Melbourne. Often billed alongside Charlotte Rooney, Hannah D and Rev Lon. Next up: Dr Morse, Melbourne on Fri 25 Sept.
 
@@ -25,4 +25,4 @@ JD (4) is a house and tech house artist based in Australia, tracked on soundchec
 
 Charlotte Rooney, Hannah D, Rev Lon
 
-*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jd-4/)*
+*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jd-4/)*

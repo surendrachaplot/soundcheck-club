@@ -1,6 +1,6 @@
 # Cellarman
 
-Cellarman is a Drum & Bass artist with 3 upcoming club dates listed on soundcheck as of Tue, 15 Sept 2026, next at Continental, Brussels on Fri, 18 Sept 2026.
+Cellarman is a Drum & Bass artist with 3 upcoming club dates listed on soundcheck as of Wed, 16 Sept 2026, next at Continental, Brussels on Fri, 18 Sept 2026.
 
 Cellarman is a drum & bass artist based in Belgium, tracked on soundcheck, with 23 sets logged across Brussels. Often billed alongside Expensive KVR, Hyzno and Arthychoc. Next up: Continental, Brussels on Fri 18 Sept.
 
@@ -27,4 +27,4 @@ Cellarman is a drum & bass artist based in Belgium, tracked on soundcheck, with 
 
 Expensive KVR, Hyzno, Arthychoc
 
-*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/cellarman/)*
+*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/cellarman/)*

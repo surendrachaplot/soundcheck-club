@@ -1,6 +1,6 @@
 # Franky Rizardo
 
-Franky Rizardo is a House and Tech House artist with 12 upcoming club dates listed on soundcheck as of Tue, 15 Sept 2026, next at KOKO, London on Fri, 18 Sept 2026.
+Franky Rizardo is a House and Tech House artist with 12 upcoming club dates listed on soundcheck as of Wed, 16 Sept 2026, next at KOKO, London on Fri, 18 Sept 2026.
 
 Franky Rizardo is a house and tech house artist tracked on soundcheck, with 241 sets logged across Amsterdam, Austin, Bali and Barcelona and 45 more. Often billed alongside Marco Carola, East End Dubs and Mason Collective. Next up: KOKO, London on Fri 18 Sept.
 
@@ -36,4 +36,4 @@ Franky Rizardo is a house and tech house artist tracked on soundcheck, with 241 
 
 Marco Carola, East End Dubs, Mason Collective
 
-*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/frankyrizardo/)*
+*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/frankyrizardo/)*

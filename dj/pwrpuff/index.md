@@ -1,6 +1,6 @@
 # PWRPUFF
 
-PWRPUFF is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 15 Sept 2026, next at Zebbie's Garden, Washington DC on Sun, 11 Oct 2026.
+PWRPUFF is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 16 Sept 2026, next at Zebbie's Garden, Washington DC on Sun, 11 Oct 2026.
 
 PWRPUFF is a techno and house artist based in United States of America, tracked on soundcheck, with 26 sets logged across Newyorkcity and Washingtondc. Often billed alongside Gail Force One, Prince Rose and Joann Fabrixx. Next up: Zebbie's Garden, Washingtondc on Sun 11 Oct.
 
@@ -25,4 +25,4 @@ PWRPUFF is a techno and house artist based in United States of America, tracked 
 
 Gail Force One, Prince Rose, Joann Fabrixx
 
-*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/pwrpuff/)*
+*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/pwrpuff/)*

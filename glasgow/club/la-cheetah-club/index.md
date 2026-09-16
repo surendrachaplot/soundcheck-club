@@ -1,14 +1,13 @@
 # La Cheetah Club
 
-La Cheetah Club is a music venue in Glasgow with 22 upcoming nights listed on soundcheck as of Tue, 15 Sept 2026; the next is "CLUB CUT: FRESHERS" on Tue, 15 Sept 2026.
+La Cheetah Club is a music venue in Glasgow with 21 upcoming nights listed on soundcheck as of Wed, 16 Sept 2026; the next is "One Under: All Night Long" on Wed, 16 Sept 2026.
 
-La Cheetah Club is a music venue in Glasgow listed on soundcheck. 22 upcoming nights, with line-ups including Antal, Arlo Duke, ArthurDnB and Babyccino and 2 more. Browse upcoming dates, start times and who's playing. Basement, 73 Queen Street; Glasgow, G1 3BZ; Scotland; United Kingdom.
+La Cheetah Club is a music venue in Glasgow listed on soundcheck. 21 upcoming nights, with line-ups including Antal, Arlo Duke, ArthurDnB and Babyccino and 2 more. Browse upcoming dates, start times and who's playing. Basement, 73 Queen Street; Glasgow, G1 3BZ; Scotland; United Kingdom.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Tue, 15 Sept 2026 | CLUB CUT: FRESHERS | Tosher, djsmuz |
 | Wed, 16 Sept 2026 | One Under: All Night Long |  |
 | Thu, 17 Sept 2026 | NIGHTSHIFT: Babyccino, Surplus + SMK | Babyccino, SMK (1), Surplus |
 | Fri, 18 Sept 2026 | Elisco with Fourth Precinct & Craig Moog | Fourth Precinct |
@@ -18,9 +17,10 @@ La Cheetah Club is a music venue in Glasgow listed on soundcheck. 22 upcoming ni
 | Thu, 24 Sept 2026 | Deep Purple: Jade Seatle | Arlo Duke, Jade Seatle |
 | Fri, 25 Sept 2026 | Midnight Bass 9th Birthday with Janaway (Up Ya Archives / Da Demolition Squad) | ArthurDnB, Janaway, SOLECTA |
 | Sat, 26 Sept 2026 | La Cheetah presents: Antal (All Night - 5 Hour Set) | Antal |
+| Sun, 27 Sept 2026 | KEEP ON with ButhoTheWarrior | ButhoTheWarrior, David Barbarossa, OOFT |
 
 ## Address
 
 Basement, 73 Queen Street; Glasgow, G1 3BZ; Scotland; United Kingdom, Glasgow
 
-*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/la-cheetah-club/)*
+*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/la-cheetah-club/)*

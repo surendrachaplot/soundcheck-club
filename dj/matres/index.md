@@ -1,6 +1,6 @@
 # matres
 
-matres is a Jungle and Drum & Bass artist with 2 upcoming club dates listed on soundcheck as of Tue, 15 Sept 2026, next at rake?raka?, Osaka on Wed, 16 Sept 2026.
+matres is a Jungle and Drum & Bass artist with 2 upcoming club dates listed on soundcheck as of Wed, 16 Sept 2026, next at rake?raka?, Osaka on Wed, 16 Sept 2026.
 
 matres is a jungle and drum & bass artist based in Japan, tracked on soundcheck, with 51 sets logged across Bristol and Osaka. Often billed alongside kakepon, Savage States and TERU. Next up: rake?raka?, Osaka on Wed 16 Sept.
 
@@ -26,4 +26,4 @@ matres is a jungle and drum & bass artist based in Japan, tracked on soundcheck,
 
 kakepon, Savage States, TERU
 
-*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/matres/)*
+*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/matres/)*

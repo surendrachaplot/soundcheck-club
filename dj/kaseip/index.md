@@ -1,6 +1,6 @@
 # Kasei P
 
-Kasei P is a Electronica and Experimental artist with 1 upcoming club date listed on soundcheck as of Tue, 15 Sept 2026, next at 90mil, Berlin on Fri, 25 Sept 2026.
+Kasei P is a Electronica and Experimental artist with 1 upcoming club date listed on soundcheck as of Wed, 16 Sept 2026, next at 90mil, Berlin on Fri, 25 Sept 2026.
 
 Kasei P is an electronica and experimental artist based in Netherlands, tracked on soundcheck, with 16 sets logged across Amsterdam, Berlin, Krakow and Warsaw. Often billed alongside KULYENCHIKEV, xPOLLYx and Azemad. Next up: 90mil, Berlin on Fri 25 Sept.
 
@@ -25,4 +25,4 @@ Kasei P is an electronica and experimental artist based in Netherlands, tracked 
 
 KULYENCHIKEV, xPOLLYx, Azemad
 
-*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kaseip/)*
+*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kaseip/)*

@@ -1,6 +1,6 @@
 # Lewis OfMan
 
-Lewis OfMan is a Electro and Electronica artist with 2 upcoming club dates listed on soundcheck as of Tue, 15 Sept 2026, next at Rooftop Nijinsky, Paris on Fri, 18 Sept 2026.
+Lewis OfMan is a Electro and Electronica artist with 2 upcoming club dates listed on soundcheck as of Wed, 16 Sept 2026, next at Rooftop Nijinsky, Paris on Fri, 18 Sept 2026.
 
 Lewis OfMan is an electro and electronica artist tracked on soundcheck, with 24 sets logged across Berlin, Geneva, Hamburg and London and 10 more. Often billed alongside Anetha, CeeDeeGee and Laurent Garnier. Next up: Rooftop Nijinsky, Paris on Fri 18 Sept.
 
@@ -26,4 +26,4 @@ Lewis OfMan is an electro and electronica artist tracked on soundcheck, with 24 
 
 Anetha, CeeDeeGee, Laurent Garnier
 
-*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lewisofman/)*
+*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lewisofman/)*

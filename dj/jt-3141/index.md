@@ -1,6 +1,6 @@
 # JT (3.141)
 
-JT (3.141) is a R&B artist with 1 upcoming club date listed on soundcheck as of Tue, 15 Sept 2026, next at Outernet Live, London on Sat, 12 Dec 2026.
+JT (3.141) is a R&B artist with 1 upcoming club date listed on soundcheck as of Wed, 16 Sept 2026, next at Outernet Live, London on Sat, 12 Dec 2026.
 
 JT (3.141) is a r&b artist tracked on soundcheck, with 4 sets logged across London, Milan and Philadelphia. Often billed alongside AALIYAH, ALEC (2) and Andrea celano. Next up: Outernet Live, London on Sat 12 Dec.
 
@@ -20,4 +20,4 @@ JT (3.141) is a r&b artist tracked on soundcheck, with 4 sets logged across Lond
 
 AALIYAH, ALEC (2), Andrea celano
 
-*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jt-3141/)*
+*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jt-3141/)*

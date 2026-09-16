@@ -1,6 +1,6 @@
 # Carmo Rooftop
 
-Carmo Rooftop is a music venue in Lisbon with 5 upcoming nights listed on soundcheck as of Tue, 15 Sept 2026; the next is "SUNdays at Carmo w/" on Sun, 13 Sept 2026.
+Carmo Rooftop is a music venue in Lisbon with 5 upcoming nights listed on soundcheck as of Wed, 16 Sept 2026; the next is "SUNdays at Carmo w/" on Sun, 13 Sept 2026.
 
 Carmo Rooftop is a music venue in Lisbon listed on soundcheck. 5 upcoming nights, with line-ups including Alive, Arval, Carlos Regadas and DJ Senc and 2 more. Browse upcoming dates, start times and who's playing. Terraços do Carmo Lisboa.
 
@@ -18,4 +18,4 @@ Carmo Rooftop is a music venue in Lisbon listed on soundcheck. 5 upcoming nights
 
 Terraços do Carmo Lisboa, Lisbon
 
-*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/lisbon/club/carmo-rooftop/)*
+*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/lisbon/club/carmo-rooftop/)*

@@ -1,6 +1,6 @@
 # 30 Years of Mira at Hangaren
 
-30 Years of Mira at Hangaren on Fri 25 Sept, Copenhagen. 1 act on the bill: Mira. House and Tech House. Preview the line-up and save it on soundcheck.
+30 Years of Mira at Hangaren on Fri 25 Sept, Copenhagen. 2 acts on the bill: Emma Sø and Mira. House and Tech House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@
 
 ## Line-up
 
+- Emma Sø
 - Mira
 
 *Source: [soundcheck](https://soundcheck.club/e/2498347-30-years-of-mira-at-hangaren/)*

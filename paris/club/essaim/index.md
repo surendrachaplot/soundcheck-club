@@ -1,6 +1,6 @@
 # essaim
 
-essaim is a music venue in Paris with 18 upcoming nights listed on soundcheck as of Tue, 15 Sept 2026; the next is "tribalism - Reem Ari, Rene Wise" on Fri, 18 Sept 2026.
+essaim is a music venue in Paris with 18 upcoming nights listed on soundcheck as of Wed, 16 Sept 2026; the next is "tribalism - Reem Ari, Rene Wise" on Fri, 18 Sept 2026.
 
 essaim is a music venue in Paris listed on soundcheck. 18 upcoming nights, with line-ups including AgainstMe, Altinbas, Binh and Cabanne and 2 more. Browse upcoming dates, start times and who's playing. 14 Rue Philippe de Girard, 75010 Paris.
 
@@ -23,4 +23,4 @@ essaim is a music venue in Paris listed on soundcheck. 18 upcoming nights, with 
 
 14 Rue Philippe de Girard, 75010 Paris, Paris
 
-*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/paris/club/essaim/)*
+*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/paris/club/essaim/)*

@@ -1,6 +1,6 @@
 # ROOG
 
-ROOG is a House and Tech House artist with 9 upcoming club dates listed on soundcheck as of Tue, 15 Sept 2026, next at Freeze HiFi, Liverpool on Wed, 16 Sept 2026.
+ROOG is a House and Tech House artist with 9 upcoming club dates listed on soundcheck as of Wed, 16 Sept 2026, next at Freeze HiFi, Liverpool on Wed, 16 Sept 2026.
 
 ROOG is a house and tech house artist tracked on soundcheck, with 78 sets logged across Amsterdam, Ibiza, Liverpool and Rotterdam and 2 more. Often billed alongside Erick E, Alexander Koning and Lucien Foort. Next up: Freeze HiFi, Liverpool on Wed 16 Sept.
 
@@ -33,4 +33,4 @@ ROOG is a house and tech house artist tracked on soundcheck, with 78 sets logged
 
 Erick E, Alexander Koning, Lucien Foort
 
-*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/roog/)*
+*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/roog/)*

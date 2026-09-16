@@ -1,6 +1,6 @@
 # Chelina Manuhutu
 
-Chelina Manuhutu is a Tech House and House artist with 4 upcoming club dates listed on soundcheck as of Tue, 15 Sept 2026, next at KOKO, London on Fri, 18 Sept 2026.
+Chelina Manuhutu is a Tech House and House artist with 4 upcoming club dates listed on soundcheck as of Wed, 16 Sept 2026, next at KOKO, London on Fri, 18 Sept 2026.
 
 Chelina Manuhutu is a tech house and house artist tracked on soundcheck, with 146 sets logged across Amsterdam, Athens, Bali and Barcelona and 29 more. Often billed alongside Andrea Oliva, Marco Carola and Nic Fanciulli. Next up: KOKO, London on Fri 18 Sept.
 
@@ -28,4 +28,4 @@ Chelina Manuhutu is a tech house and house artist tracked on soundcheck, with 14
 
 Andrea Oliva, Marco Carola, Nic Fanciulli
 
-*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/chelinamanuhutu/)*
+*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/chelinamanuhutu/)*

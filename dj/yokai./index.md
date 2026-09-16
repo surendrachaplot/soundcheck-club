@@ -1,6 +1,6 @@
 # Yōkai.
 
-Yōkai. is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Tue, 15 Sept 2026, next at Nashaz, Brussels on Sun, 20 Sept 2026.
+Yōkai. is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Wed, 16 Sept 2026, next at Nashaz, Brussels on Sun, 20 Sept 2026.
 
 Yōkai. is a techno and trance artist based in Belgium, tracked on soundcheck, with 5 sets logged across Brussels and Paris. Often billed alongside TeaOtim and DND (BE). Next up: Nashaz, Brussels on Sun 20 Sept.
 
@@ -21,4 +21,4 @@ Yōkai. is a techno and trance artist based in Belgium, tracked on soundcheck, w
 
 TeaOtim, DND (BE)
 
-*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/yokai./)*
+*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/yokai./)*

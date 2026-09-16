@@ -1,6 +1,6 @@
 # Ciao 3lla
 
-Ciao 3lla is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Tue, 15 Sept 2026, next at Klunkerkranich, Berlin on Sat, 19 Sept 2026.
+Ciao 3lla is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 16 Sept 2026, next at Klunkerkranich, Berlin on Sat, 19 Sept 2026.
 
 Ciao 3lla is a house and techno artist based in Germany, tracked on soundcheck, with 62 sets logged across Berlin, Cologne, Frankfurt and Hamburg and 4 more. Often billed alongside Francis FF, lisa luka and Horst Haller. Next up: Klunkerkranich, Berlin on Sat 19 Sept.
 
@@ -26,4 +26,4 @@ Ciao 3lla is a house and techno artist based in Germany, tracked on soundcheck, 
 
 Francis FF, lisa luka, Horst Haller
 
-*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ciao3lla-2/)*
+*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ciao3lla-2/)*

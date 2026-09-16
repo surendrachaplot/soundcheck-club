@@ -1,6 +1,6 @@
 # Shimanski
 
-Shimanski is a Disco and House artist with 1 upcoming club date listed on soundcheck as of Tue, 15 Sept 2026, next at Klunkerkranich, Berlin on Thu, 17 Sept 2026.
+Shimanski is a Disco and House artist with 1 upcoming club date listed on soundcheck as of Wed, 16 Sept 2026, next at Klunkerkranich, Berlin on Thu, 17 Sept 2026.
 
 Shimanski is a disco and house artist based in Germany, tracked on soundcheck, with 71 sets logged across Amsterdam, Barcelona, Berlin and Dublin and 8 more. Often billed alongside Zehlendorfer Disco Squad, Bustin' Loose and Maltitz. Next up: Klunkerkranich, Berlin on Thu 17 Sept.
 
@@ -25,4 +25,4 @@ Shimanski is a disco and house artist based in Germany, tracked on soundcheck, w
 
 Zehlendorfer Disco Squad, Bustin' Loose, Maltitz
 
-*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/shimanski/)*
+*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/shimanski/)*

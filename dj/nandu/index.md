@@ -1,6 +1,6 @@
 # Nandu
 
-Nandu is a House and Deep House artist with 4 upcoming club dates listed on soundcheck as of Tue, 15 Sept 2026, next at TBA - MATRIARCH LA, Los Angeles on Fri, 18 Sept 2026.
+Nandu is a House and Deep House artist with 4 upcoming club dates listed on soundcheck as of Wed, 16 Sept 2026, next at TBA - MATRIARCH LA, Los Angeles on Fri, 18 Sept 2026.
 
 Nandu is a house and deep house artist based in Denmark, tracked on soundcheck, with 103 sets logged across Amsterdam, Athens, Barcelona and Brussels and 33 more. Often billed alongside Yet More, Ivory and Bedouin. Next up: TBA - MATRIARCH LA, Losangeles on Fri 18 Sept.
 
@@ -28,4 +28,4 @@ Nandu is a house and deep house artist based in Denmark, tracked on soundcheck, 
 
 Yet More, Ivory, Bedouin
 
-*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nandu/)*
+*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nandu/)*

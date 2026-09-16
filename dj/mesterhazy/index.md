@@ -1,6 +1,6 @@
 # Mesterhazy
 
-Mesterhazy is a Electro and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 15 Sept 2026, next at Viadukt Bar, Budapest on Wed, 16 Sept 2026.
+Mesterhazy is a Electro and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 16 Sept 2026, next at Viadukt Bar, Budapest on Wed, 16 Sept 2026.
 
 Mesterhazy is an electro and techno artist tracked on soundcheck, with 12 sets logged across Budapest. Often billed alongside Ben Dover, Galactic Jackson and AESZTETIK. Next up: Viadukt Bar, Budapest on Wed 16 Sept.
 
@@ -25,4 +25,4 @@ Mesterhazy is an electro and techno artist tracked on soundcheck, with 12 sets l
 
 Ben Dover, Galactic Jackson, AESZTETIK
 
-*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mesterhazy/)*
+*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mesterhazy/)*

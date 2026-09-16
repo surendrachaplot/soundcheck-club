@@ -1,6 +1,6 @@
 # Casper Weiss
 
-Casper Weiss is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Tue, 15 Sept 2026, next at Smolna, Warsaw on Wed, 16 Sept 2026.
+Casper Weiss is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 16 Sept 2026, next at Smolna, Warsaw on Wed, 16 Sept 2026.
 
 Casper Weiss is a house and techno artist tracked on soundcheck, with 4 sets logged across Warsaw. Often billed alongside Claude Degas, Granatka and Józef Keuner. Next up: Smolna, Warsaw on Wed 16 Sept.
 
@@ -20,4 +20,4 @@ Casper Weiss is a house and techno artist tracked on soundcheck, with 4 sets log
 
 Claude Degas, Granatka, Józef Keuner
 
-*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/casperweiss/)*
+*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/casperweiss/)*

@@ -1,6 +1,6 @@
 # B2G (1)
 
-B2G (1) is a House artist with 1 upcoming club date listed on soundcheck as of Tue, 15 Sept 2026, next at 303 Audiophile Bar, Barcelona on Thu, 22 Oct 2026.
+B2G (1) is a House artist with 1 upcoming club date listed on soundcheck as of Wed, 16 Sept 2026, next at 303 Audiophile Bar, Barcelona on Thu, 22 Oct 2026.
 
 B2G (1) is a house artist tracked on soundcheck, with 3 sets logged across Barcelona. Often billed alongside Breezywav, Milla Campollo and Psycius. Next up: 303 Audiophile Bar, Barcelona on Thu 22 Oct.
 
@@ -19,4 +19,4 @@ B2G (1) is a house artist tracked on soundcheck, with 3 sets logged across Barce
 
 Breezywav, Milla Campollo, Psycius
 
-*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/b2g-1/)*
+*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/b2g-1/)*

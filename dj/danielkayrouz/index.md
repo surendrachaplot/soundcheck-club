@@ -1,6 +1,6 @@
 # Daniel Kayrouz
 
-Daniel Kayrouz is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 15 Sept 2026, next at Post Bar, Helsinki on Sat, 26 Sept 2026.
+Daniel Kayrouz is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 16 Sept 2026, next at Post Bar, Helsinki on Sat, 26 Sept 2026.
 
 Daniel Kayrouz is a house and techno artist tracked on soundcheck, with 51 sets logged across Helsinki and Stockholm. Often billed alongside Justus Valtanen, Joni DJ and Denzel. Next up: Post Bar, Helsinki on Sat 26 Sept.
 
@@ -25,4 +25,4 @@ Daniel Kayrouz is a house and techno artist tracked on soundcheck, with 51 sets 
 
 Justus Valtanen, Joni DJ, Denzel
 
-*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/danielkayrouz/)*
+*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/danielkayrouz/)*

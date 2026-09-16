@@ -1,6 +1,6 @@
 # Siete Catorce
 
-Siete Catorce is a Latin Bass and Experimental artist with 2 upcoming club dates listed on soundcheck as of Tue, 15 Sept 2026, next at KW Studios, Vancouver on Sat, 19 Sept 2026.
+Siete Catorce is a Latin Bass and Experimental artist with 2 upcoming club dates listed on soundcheck as of Wed, 16 Sept 2026, next at KW Studios, Vancouver on Sat, 19 Sept 2026.
 
 Siete Catorce is a latin bass and experimental artist based in Mexico, tracked on soundcheck, with 18 sets logged across Berlin, Losangeles, Mexicocity and Montreal and 4 more. Often billed alongside SIETE, DJ JUANNY and Anna Morgan. Next up: KW Studios, Vancouver on Sat 19 Sept.
 
@@ -26,4 +26,4 @@ Siete Catorce is a latin bass and experimental artist based in Mexico, tracked o
 
 SIETE, DJ JUANNY, Anna Morgan
 
-*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sietecatorce/)*
+*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sietecatorce/)*

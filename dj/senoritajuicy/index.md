@@ -1,6 +1,6 @@
 # senoritajuicy
 
-senoritajuicy is a Techno and Club artist with 3 upcoming club dates listed on soundcheck as of Tue, 15 Sept 2026, next at Bossa Nova Civic Club, New York City on Thu, 17 Sept 2026.
+senoritajuicy is a Techno and Club artist with 3 upcoming club dates listed on soundcheck as of Wed, 16 Sept 2026, next at Bossa Nova Civic Club, New York City on Thu, 17 Sept 2026.
 
 senoritajuicy is a techno and club artist based in United States of America, tracked on soundcheck, with 23 sets logged across Newyorkcity. Often billed alongside CMD+JAZMINE, Nymphostar and Crush Club. Next up: Bossa Nova Civic Club, Newyorkcity on Thu 17 Sept.
 
@@ -27,4 +27,4 @@ senoritajuicy is a techno and club artist based in United States of America, tra
 
 CMD+JAZMINE, Nymphostar, Crush Club
 
-*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/senoritajuicy/)*
+*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/senoritajuicy/)*

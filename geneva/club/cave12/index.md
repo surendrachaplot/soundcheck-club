@@ -1,6 +1,6 @@
 # Cave12
 
-Cave12 is a music venue in Geneva with 1 upcoming night listed on soundcheck as of Tue, 15 Sept 2026; the next is "MERYLL AMPE + SETT + PASSAGE DE DISQUES" on Wed, 30 Sept 2026.
+Cave12 is a music venue in Geneva with 1 upcoming night listed on soundcheck as of Wed, 16 Sept 2026; the next is "MERYLL AMPE + SETT + PASSAGE DE DISQUES" on Wed, 30 Sept 2026.
 
 Cave12 is a music venue in Geneva listed on soundcheck. 1 upcoming night. Browse upcoming dates, start times and who's playing. Geneva, Switzerland.
 
@@ -14,4 +14,4 @@ Cave12 is a music venue in Geneva listed on soundcheck. 1 upcoming night. Browse
 
 Geneva, Switzerland, Geneva
 
-*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/geneva/club/cave12/)*
+*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/geneva/club/cave12/)*

@@ -1,6 +1,6 @@
 # Slipmatt
 
-Slipmatt is a House and Hardcore artist with 2 upcoming club dates listed on soundcheck as of Tue, 15 Sept 2026, next at Studio 338, London on Sat, 26 Sept 2026.
+Slipmatt is a House and Hardcore artist with 2 upcoming club dates listed on soundcheck as of Wed, 16 Sept 2026, next at Studio 338, London on Sat, 26 Sept 2026.
 
 Slipmatt is a house and hardcore artist tracked on soundcheck, with 60 sets logged across Amsterdam, Berlin, Birmingham and Brighton and 9 more. Often billed alongside Ratpack, Nicky Blackmarket and DJ SS. Next up: Studio 338, London on Sat 26 Sept.
 
@@ -26,4 +26,4 @@ Slipmatt is a house and hardcore artist tracked on soundcheck, with 60 sets logg
 
 Ratpack, Nicky Blackmarket, DJ SS
 
-*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/slipmatt/)*
+*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/slipmatt/)*

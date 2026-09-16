@@ -1,6 +1,6 @@
 # INVERTED (MT)
 
-INVERTED (MT) is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Tue, 15 Sept 2026, next at Aria Complex, Malta on Sat, 19 Sept 2026.
+INVERTED (MT) is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Wed, 16 Sept 2026, next at Aria Complex, Malta on Sat, 19 Sept 2026.
 
 INVERTED (MT) is a techno and trance artist based in Malta, tracked on soundcheck, with 60 sets logged across Berlin, Malta, Paris and Rotterdam. Often billed alongside Reactant, Damz and Scythe. Next up: Aria Complex, Malta on Sat 19 Sept.
 
@@ -26,4 +26,4 @@ INVERTED (MT) is a techno and trance artist based in Malta, tracked on soundchec
 
 Reactant, Damz, Scythe
 
-*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/inverted-mt/)*
+*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/inverted-mt/)*

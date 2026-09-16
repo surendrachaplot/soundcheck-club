@@ -1,6 +1,6 @@
 # aya
 
-aya is a Experimental and Techno artist with 3 upcoming club dates listed on soundcheck as of Tue, 15 Sept 2026, next at Nué Seoul, Seoul on Fri, 18 Sept 2026.
+aya is a Experimental and Techno artist with 3 upcoming club dates listed on soundcheck as of Wed, 16 Sept 2026, next at Nué Seoul, Seoul on Fri, 18 Sept 2026.
 
 aya is an experimental and techno artist tracked on soundcheck, with 130 sets logged across Amsterdam, Athens, Barcelona and Berlin and 43 more. Often billed alongside 96 Back, Jennifer Walton and upsammy. Next up: Nué Seoul, Seoul on Fri 18 Sept.
 
@@ -27,4 +27,4 @@ aya is an experimental and techno artist tracked on soundcheck, with 130 sets lo
 
 96 Back, Jennifer Walton, upsammy
 
-*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/aya/)*
+*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/aya/)*

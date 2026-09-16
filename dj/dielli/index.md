@@ -1,6 +1,6 @@
 # Dielli
 
-Dielli is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Tue, 15 Sept 2026, next at Le 211, Paris on Fri, 18 Sept 2026.
+Dielli is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 16 Sept 2026, next at Le 211, Paris on Fri, 18 Sept 2026.
 
 Dielli is a house and techno artist based in France, tracked on soundcheck, with 45 sets logged across Amsterdam, Liverpool, London and Madrid and 2 more. Often billed alongside Chinau, Larry G and Knuckle G. Next up: Le 211, Paris on Fri 18 Sept.
 
@@ -26,4 +26,4 @@ Dielli is a house and techno artist based in France, tracked on soundcheck, with
 
 Chinau, Larry G, Knuckle G
 
-*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dielli/)*
+*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dielli/)*

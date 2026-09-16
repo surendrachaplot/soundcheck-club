@@ -1,6 +1,6 @@
 # Cornetta
 
-Cornetta is a Techno and Acid artist with 1 upcoming club date listed on soundcheck as of Tue, 15 Sept 2026, next at The Bongo Club, Edinburgh on Sat, 26 Sept 2026.
+Cornetta is a Techno and Acid artist with 1 upcoming club date listed on soundcheck as of Wed, 16 Sept 2026, next at The Bongo Club, Edinburgh on Sat, 26 Sept 2026.
 
 Cornetta is a techno and acid artist tracked on soundcheck, with 14 sets logged across Aberdeen, Dundee and Edinburgh. Often billed alongside Acid Boner, FLIPSIDE. and Bash Man. Next up: The Bongo Club, Edinburgh on Sat 26 Sept.
 
@@ -25,4 +25,4 @@ Cornetta is a techno and acid artist tracked on soundcheck, with 14 sets logged 
 
 Acid Boner, FLIPSIDE., Bash Man
 
-*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/cornetta/)*
+*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/cornetta/)*

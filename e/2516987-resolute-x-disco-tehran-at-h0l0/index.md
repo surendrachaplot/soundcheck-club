@@ -1,6 +1,6 @@
 # ReSolute x Disco Tehran at H0L0
 
-ReSolute x Disco Tehran at H0L0 on Sat 19 Sept, Newyorkcity. 7 acts on the bill: Armii1n, Eshie, MIRZA and Myyuh and 3 more. House and Disco. Preview the line-up and save it on soundcheck.
+ReSolute x Disco Tehran at H0L0 on Sat 19 Sept, Newyorkcity. 8 acts on the bill: Armii1n, Eshie, MIRZA and Myyuh and 4 more. House and Disco. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -14,6 +14,7 @@ ReSolute x Disco Tehran at H0L0 on Sat 19 Sept, Newyorkcity. 7 acts on the bill:
 - Eshie
 - MIRZA
 - Myyuh
+- Nickodemus
 - Salar Ansari
 - Willy Soul
 - ራሄል (Rachel)

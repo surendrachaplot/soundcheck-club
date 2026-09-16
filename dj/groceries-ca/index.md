@@ -1,6 +1,6 @@
 # Groceries
 
-Groceries is a House and Electro artist with 1 upcoming club date listed on soundcheck as of Tue, 15 Sept 2026, next at Bar Datcha, Montreal on Sat, 19 Sept 2026.
+Groceries is a House and Electro artist with 1 upcoming club date listed on soundcheck as of Wed, 16 Sept 2026, next at Bar Datcha, Montreal on Sat, 19 Sept 2026.
 
 Groceries is a house and electro artist based in Canada, tracked on soundcheck, with 6 sets logged across Montreal. Often billed alongside Jordan Gardner, Martyn Bootyspoon and Neo Edo. Next up: Bar Datcha, Montreal on Sat 19 Sept.
 
@@ -22,4 +22,4 @@ Groceries is a house and electro artist based in Canada, tracked on soundcheck, 
 
 Jordan Gardner, Martyn Bootyspoon, Neo Edo
 
-*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/groceries-ca/)*
+*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/groceries-ca/)*

@@ -1,6 +1,6 @@
 # Daniel Dutts
 
-Daniel Dutts is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 15 Sept 2026, next at Bossa Nova Civic Club, New York City on Mon, 21 Sept 2026.
+Daniel Dutts is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 16 Sept 2026, next at Bossa Nova Civic Club, New York City on Mon, 21 Sept 2026.
 
 Daniel Dutts is a house and techno artist based in United States of America, tracked on soundcheck, with 82 sets logged across Boston, Chicago, London and Mexicocity and 4 more. Often billed alongside Pablo Romero, CAMILLA and Luciio. Next up: Bossa Nova Civic Club, Newyorkcity on Mon 21 Sept.
 
@@ -25,4 +25,4 @@ Daniel Dutts is a house and techno artist based in United States of America, tra
 
 Pablo Romero, CAMILLA, Luciio
 
-*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/danieldutts/)*
+*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/danieldutts/)*

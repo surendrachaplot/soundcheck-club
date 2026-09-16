@@ -1,6 +1,6 @@
 # Simzii
 
-Simzii is a Techno and Club artist with 1 upcoming club date listed on soundcheck as of Tue, 15 Sept 2026, next at Paragon, New York City on Sat, 24 Oct 2026.
+Simzii is a Techno and Club artist with 1 upcoming club date listed on soundcheck as of Wed, 16 Sept 2026, next at Paragon, New York City on Sat, 24 Oct 2026.
 
 Simzii is a techno and club artist tracked on soundcheck, with 6 sets logged across Berlin and Newyorkcity. Often billed alongside WTCHCRFT, Safety Trance and Cardopusher. Next up: Paragon, Newyorkcity on Sat 24 Oct.
 
@@ -22,4 +22,4 @@ Simzii is a techno and club artist tracked on soundcheck, with 6 sets logged acr
 
 WTCHCRFT, Safety Trance, Cardopusher
 
-*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/simzii/)*
+*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/simzii/)*

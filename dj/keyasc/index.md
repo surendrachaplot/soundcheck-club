@@ -1,6 +1,6 @@
 # Key Asc
 
-Key Asc is a Bass and Experimental artist with 1 upcoming club date listed on soundcheck as of Tue, 15 Sept 2026, next at Hydrozagadka, Warsaw on Fri, 18 Sept 2026.
+Key Asc is a Bass and Experimental artist with 1 upcoming club date listed on soundcheck as of Wed, 16 Sept 2026, next at Hydrozagadka, Warsaw on Fri, 18 Sept 2026.
 
 Key Asc is a bass and experimental artist based in Poland, tracked on soundcheck, with 5 sets logged across Warsaw. Often billed alongside dj neurospicy, KUXU and Adelix. Next up: Hydrozagadka, Warsaw on Fri 18 Sept.
 
@@ -21,4 +21,4 @@ Key Asc is a bass and experimental artist based in Poland, tracked on soundcheck
 
 dj neurospicy, KUXU, Adelix
 
-*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/keyasc/)*
+*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/keyasc/)*

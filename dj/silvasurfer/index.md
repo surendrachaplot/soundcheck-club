@@ -1,6 +1,6 @@
 # SILVASURFER
 
-SILVASURFER is a Baile Funk and Club artist with 2 upcoming club dates listed on soundcheck as of Tue, 15 Sept 2026, next at YAAM Berlin, Berlin on Sat, 19 Sept 2026.
+SILVASURFER is a Baile Funk and Club artist with 2 upcoming club dates listed on soundcheck as of Wed, 16 Sept 2026, next at YAAM Berlin, Berlin on Sat, 19 Sept 2026.
 
 SILVASURFER is a baile funk and club artist tracked on soundcheck, with 26 sets logged across Berlin, Brussels, Dublin and Paris and 1 more. Often billed alongside N3LYSTAR, Anthracene and JCVS. Next up: YAAM Berlin, Berlin on Sat 19 Sept.
 
@@ -26,4 +26,4 @@ SILVASURFER is a baile funk and club artist tracked on soundcheck, with 26 sets 
 
 N3LYSTAR, Anthracene, JCVS
 
-*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/silvasurfer/)*
+*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/silvasurfer/)*

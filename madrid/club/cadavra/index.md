@@ -1,6 +1,6 @@
 # Cadavra
 
-Cadavra is a music venue in Madrid with 24 upcoming nights listed on soundcheck as of Tue, 15 Sept 2026; the next is "Mario Blur, Jakka & Noot Noot at Anfang Fam Day" on Thu, 17 Sept 2026.
+Cadavra is a music venue in Madrid with 24 upcoming nights listed on soundcheck as of Wed, 16 Sept 2026; the next is "Mario Blur, Jakka & Noot Noot at Anfang Fam Day" on Thu, 17 Sept 2026.
 
 Cadavra is a music venue in Madrid listed on soundcheck. 24 upcoming nights, with line-ups including 2garlics, Alvaro Cabana, Amaliah and Anika Kunst and 2 more. Browse upcoming dates, start times and who's playing. C. del Caballero de Gracia, 10, Centro, 28013 Madrid, Spain.
 
@@ -23,4 +23,4 @@ Cadavra is a music venue in Madrid listed on soundcheck. 24 upcoming nights, wit
 
 C. del Caballero de Gracia, 10, Centro, 28013 Madrid, Spain, Madrid
 
-*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/cadavra/)*
+*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/cadavra/)*

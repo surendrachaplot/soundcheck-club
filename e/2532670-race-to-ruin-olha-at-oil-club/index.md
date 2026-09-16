@@ -1,6 +1,6 @@
 # Race to Ruin: OLHA at OIL Club
 
-Race to Ruin: OLHA at OIL Club on Fri 30 Oct, Shenzhen. 3 acts on the bill: NK100, OLHA and Warmchainss. Preview the line-up and save it on soundcheck.
+Race to Ruin: OLHA at OIL Club on Fri 30 Oct, Shenzhen. 3 acts on the bill: NK100, OLHA and Warmchainss. Trance and Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Jandro
 
-Jandro is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Tue, 15 Sept 2026, next at Flash, Washington DC on Fri, 25 Sept 2026.
+Jandro is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Wed, 16 Sept 2026, next at Flash, Washington DC on Fri, 25 Sept 2026.
 
 Jandro is a house and minimal artist based in United States of America, tracked on soundcheck, with 40 sets logged across Mexicocity and Washingtondc. Often billed alongside VINY, Alanapana and Katarina Especial. Next up: Flash, Washingtondc on Fri 25 Sept.
 
@@ -25,4 +25,4 @@ Jandro is a house and minimal artist based in United States of America, tracked 
 
 VINY, Alanapana, Katarina Especial
 
-*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jandro/)*
+*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jandro/)*

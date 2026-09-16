@@ -1,6 +1,6 @@
 # DJ Gigola
 
-DJ Gigola is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Tue, 15 Sept 2026, next at Depot Mayfield, Manchester on Sat, 26 Sept 2026.
+DJ Gigola is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Wed, 16 Sept 2026, next at Depot Mayfield, Manchester on Sat, 26 Sept 2026.
 
 DJ Gigola is a techno and house artist tracked on soundcheck, with 246 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 63 more. Often billed alongside MCR-T, KI/KI and Anetha. Next up: Depot Mayfield, Manchester on Sat 26 Sept.
 
@@ -27,4 +27,4 @@ DJ Gigola is a techno and house artist tracked on soundcheck, with 246 sets logg
 
 MCR-T, KI/KI, Anetha
 
-*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djgigola/)*
+*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djgigola/)*

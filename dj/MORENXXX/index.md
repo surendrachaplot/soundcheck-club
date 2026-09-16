@@ -1,6 +1,6 @@
 # MORENXXX
 
-MORENXXX is a Techno and Club artist with 5 upcoming club dates listed on soundcheck as of Tue, 15 Sept 2026, next at Nowadays, New York City on Sat, 19 Sept 2026.
+MORENXXX is a Techno and Club artist with 5 upcoming club dates listed on soundcheck as of Wed, 16 Sept 2026, next at Nowadays, New York City on Sat, 19 Sept 2026.
 
 MORENXXX is a techno and club artist based in United States of America, tracked on soundcheck, with 126 sets logged across Amsterdam, Austin, Berlin and Boston and 10 more. Often billed alongside LOKA (US), Shyboi and Juliana Huxtable. Next up: Nowadays, Newyorkcity on Sat 19 Sept.
 
@@ -29,4 +29,4 @@ MORENXXX is a techno and club artist based in United States of America, tracked 
 
 LOKA (US), Shyboi, Juliana Huxtable
 
-*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/MORENXXX/)*
+*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/MORENXXX/)*

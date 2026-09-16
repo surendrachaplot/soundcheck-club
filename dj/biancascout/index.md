@@ -1,6 +1,6 @@
 # Bianca Scout
 
-Bianca Scout is a Experimental and Post-Punk artist with 4 upcoming club dates listed on soundcheck as of Tue, 15 Sept 2026, next at Club Cheek, London on Thu, 17 Sept 2026.
+Bianca Scout is a Experimental and Post-Punk artist with 4 upcoming club dates listed on soundcheck as of Wed, 16 Sept 2026, next at Club Cheek, London on Thu, 17 Sept 2026.
 
 Bianca Scout is an experimental and post-punk artist tracked on soundcheck, with 47 sets logged across Amsterdam, Barcelona, Berlin and Bristol and 10 more. Often billed alongside Rainy Miller, 2K88 and Lauren Duffus. Next up: Club Cheek, London on Thu 17 Sept.
 
@@ -28,4 +28,4 @@ Bianca Scout is an experimental and post-punk artist tracked on soundcheck, with
 
 Rainy Miller, 2K88, Lauren Duffus
 
-*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/biancascout/)*
+*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/biancascout/)*

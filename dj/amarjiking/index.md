@@ -1,6 +1,6 @@
 # Amarji King
 
-Amarji King is a Club and Techno artist with 3 upcoming club dates listed on soundcheck as of Tue, 15 Sept 2026, next at TBA - Announced After Ticket Purchase!, Houston on Thu, 17 Sept 2026.
+Amarji King is a Club and Techno artist with 3 upcoming club dates listed on soundcheck as of Wed, 16 Sept 2026, next at TBA - Announced After Ticket Purchase!, Houston on Thu, 17 Sept 2026.
 
 Amarji King is a club and techno artist tracked on soundcheck, with 51 sets logged across Austin, Chicago, Detroit and Houston and 8 more. Often billed alongside HYPERFEMME, BLAIZE and Shy Margiela. Next up: TBA - Announced After Ticket Purchase!, Houston on Thu 17 Sept.
 
@@ -27,4 +27,4 @@ Amarji King is a club and techno artist tracked on soundcheck, with 51 sets logg
 
 HYPERFEMME, BLAIZE, Shy Margiela
 
-*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/amarjiking/)*
+*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/amarjiking/)*

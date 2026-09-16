@@ -1,6 +1,6 @@
 # Di Chiara Brothers
 
-Di Chiara Brothers is a Tech House and House artist with 4 upcoming club dates listed on soundcheck as of Tue, 15 Sept 2026, next at Electric Studios, Sheffield on Sat, 19 Sept 2026.
+Di Chiara Brothers is a Tech House and House artist with 4 upcoming club dates listed on soundcheck as of Wed, 16 Sept 2026, next at Electric Studios, Sheffield on Sat, 19 Sept 2026.
 
 Di Chiara Brothers is a tech house and house artist based in Italy, tracked on soundcheck, with 26 sets logged across Amsterdam, Barcelona, Buenosaires and Glasgow and 11 more. Often billed alongside Chiara B, East End Dubs and RUZE. Next up: Electric Studios, Sheffield on Sat 19 Sept.
 
@@ -28,4 +28,4 @@ Di Chiara Brothers is a tech house and house artist based in Italy, tracked on s
 
 Chiara B, East End Dubs, RUZE
 
-*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dichiarabrothers/)*
+*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dichiarabrothers/)*

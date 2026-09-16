@@ -1,6 +1,6 @@
 # DJ Lotos
 
-DJ Lotos is a Trance and Acid artist with 1 upcoming club date listed on soundcheck as of Tue, 15 Sept 2026, next at Kaskada, Warsaw on Fri, 18 Sept 2026.
+DJ Lotos is a Trance and Acid artist with 1 upcoming club date listed on soundcheck as of Wed, 16 Sept 2026, next at Kaskada, Warsaw on Fri, 18 Sept 2026.
 
 DJ Lotos is a trance and acid artist tracked on soundcheck, with 5 sets logged across Newyorkcity and Warsaw. Often billed alongside Sterilephobia, TORRENTZ and Abrew. Next up: Kaskada, Warsaw on Fri 18 Sept.
 
@@ -21,4 +21,4 @@ DJ Lotos is a trance and acid artist tracked on soundcheck, with 5 sets logged a
 
 Sterilephobia, TORRENTZ, Abrew
 
-*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djlotos/)*
+*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djlotos/)*

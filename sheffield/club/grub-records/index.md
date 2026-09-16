@@ -1,6 +1,6 @@
 # Grub Records
 
-Grub Records is a music venue in Sheffield with 4 upcoming nights listed on soundcheck as of Tue, 15 Sept 2026; the next is "Orange Room" on Thu, 17 Sept 2026.
+Grub Records is a music venue in Sheffield with 4 upcoming nights listed on soundcheck as of Wed, 16 Sept 2026; the next is "Orange Room" on Thu, 17 Sept 2026.
 
 Grub Records is a music venue in Sheffield listed on soundcheck. 4 upcoming nights, with line-ups including Backseat Driver, Bubbles (UK) and Paniolo. Browse upcoming dates, start times and who's playing. Grub Records, 586 Queens Road, Lowfield, Sheffield, S2 4DU.
 
@@ -17,4 +17,4 @@ Grub Records is a music venue in Sheffield listed on soundcheck. 4 upcoming nigh
 
 Grub Records, 586 Queens Road, Lowfield, Sheffield, S2 4DU, Sheffield
 
-*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/sheffield/club/grub-records/)*
+*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/sheffield/club/grub-records/)*

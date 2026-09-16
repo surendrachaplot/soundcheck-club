@@ -1,6 +1,6 @@
 # Breixo Martinez
 
-Breixo Martinez is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Tue, 15 Sept 2026, next at TBA - Outdoors Garden (30 Mins From Bcn), Barcelona on Sat, 10 Oct 2026.
+Breixo Martinez is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Wed, 16 Sept 2026, next at TBA - Outdoors Garden (30 Mins From Bcn), Barcelona on Sat, 10 Oct 2026.
 
 Breixo Martinez is a house and deep house artist tracked on soundcheck, with 33 sets logged across Barcelona, Lisbon, Madrid and Paris. Often billed alongside Pau Roca, Ivy Barkakati and Dadame. Next up: TBA - Outdoors Garden (30 Mins From Bcn), Barcelona on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ Breixo Martinez is a house and deep house artist tracked on soundcheck, with 33 
 
 Pau Roca, Ivy Barkakati, Dadame
 
-*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/breixomartinez/)*
+*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/breixomartinez/)*

@@ -1,6 +1,6 @@
 # TORRENTZ
 
-TORRENTZ is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Tue, 15 Sept 2026, next at Kaskada, Warsaw on Fri, 18 Sept 2026.
+TORRENTZ is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Wed, 16 Sept 2026, next at Kaskada, Warsaw on Fri, 18 Sept 2026.
 
 TORRENTZ is a techno and trance artist based in Poland, tracked on soundcheck, with 17 sets logged across Krakow, Newyorkcity, Prague and Warsaw. Often billed alongside Mikouaj Rejw / Wixapol S.A., Wixapol and PLATTER. Next up: Kaskada, Warsaw on Fri 18 Sept.
 
@@ -25,4 +25,4 @@ TORRENTZ is a techno and trance artist based in Poland, tracked on soundcheck, w
 
 Mikouaj Rejw / Wixapol S.A., Wixapol, PLATTER
 
-*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/torrentz/)*
+*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/torrentz/)*

@@ -1,6 +1,6 @@
 # BEEBA
 
-BEEBA is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 15 Sept 2026, next at TBA - Inland Empire (45min from LA), Los Angeles on Fri, 18 Sept 2026.
+BEEBA is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 16 Sept 2026, next at TBA - Inland Empire (45min from LA), Los Angeles on Fri, 18 Sept 2026.
 
 BEEBA is a techno and house artist tracked on soundcheck, with 19 sets logged across Losangeles, Sandiego and Sanfrancisco. Often billed alongside Disfu, FAUNA (2) and Oscar Osorio. Next up: TBA - Inland Empire (45min from LA), Losangeles on Fri 18 Sept.
 
@@ -25,4 +25,4 @@ BEEBA is a techno and house artist tracked on soundcheck, with 19 sets logged ac
 
 Disfu, FAUNA (2), Oscar Osorio
 
-*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/beeba/)*
+*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/beeba/)*

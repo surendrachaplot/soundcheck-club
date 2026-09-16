@@ -1,6 +1,6 @@
 # yyshuu
 
-yyshuu is a Minimal and House artist with 1 upcoming club date listed on soundcheck as of Tue, 15 Sept 2026, next at Suree, Tokyo on Sat, 26 Sept 2026.
+yyshuu is a Minimal and House artist with 1 upcoming club date listed on soundcheck as of Wed, 16 Sept 2026, next at Suree, Tokyo on Sat, 26 Sept 2026.
 
 yyshuu is a minimal and house artist tracked on soundcheck, with 44 sets logged across Barcelona, Prague, Seoul and Tokyo. Often billed alongside yoshiken, Yos. and Ariaray. Next up: Suree, Tokyo on Sat 26 Sept.
 
@@ -25,4 +25,4 @@ yyshuu is a minimal and house artist tracked on soundcheck, with 44 sets logged 
 
 yoshiken, Yos., Ariaray
 
-*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/yyshuu/)*
+*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/yyshuu/)*

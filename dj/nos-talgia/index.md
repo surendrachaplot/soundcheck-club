@@ -1,6 +1,6 @@
 # NOS-talgia
 
-NOS-talgia is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 15 Sept 2026, next at Paradise Grapevine Winery, Toronto on Sat, 19 Sept 2026.
+NOS-talgia is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 16 Sept 2026, next at Paradise Grapevine Winery, Toronto on Sat, 19 Sept 2026.
 
 NOS-talgia is a techno and house artist based in Canada, tracked on soundcheck, with 17 sets logged across Chicago, Montreal, Toronto and Vancouver. Often billed alongside Alister Johnson, Allterverse and Areeb Abbasi. Next up: Paradise Grapevine Winery, Toronto on Sat 19 Sept.
 
@@ -25,4 +25,4 @@ NOS-talgia is a techno and house artist based in Canada, tracked on soundcheck, 
 
 Alister Johnson, Allterverse, Areeb Abbasi
 
-*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nos-talgia/)*
+*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nos-talgia/)*

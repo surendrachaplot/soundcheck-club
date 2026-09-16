@@ -1,6 +1,6 @@
 # VXRGO
 
-VXRGO is a Jungle and Drum & Bass artist with 3 upcoming club dates listed on soundcheck as of Tue, 15 Sept 2026, next at The Croft, Bristol on Wed, 16 Sept 2026.
+VXRGO is a Jungle and Drum & Bass artist with 3 upcoming club dates listed on soundcheck as of Wed, 16 Sept 2026, next at The Croft, Bristol on Wed, 16 Sept 2026.
 
 VXRGO is a jungle and drum & bass artist tracked on soundcheck, with 97 sets logged across Brighton, Bristol, Copenhagen and Glasgow and 6 more. Often billed alongside Silva Snipa, Tim Reaper and The Bass Injector. Next up: The Croft, Bristol on Wed 16 Sept.
 
@@ -27,4 +27,4 @@ VXRGO is a jungle and drum & bass artist tracked on soundcheck, with 97 sets log
 
 Silva Snipa, Tim Reaper, The Bass Injector
 
-*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/vxrgo/)*
+*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/vxrgo/)*

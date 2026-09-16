@@ -1,6 +1,6 @@
 # Cornelius Doctor
 
-Cornelius Doctor is a Techno and Acid artist with 1 upcoming club date listed on soundcheck as of Tue, 15 Sept 2026, next at Super5, Lyon on Thu, 17 Sept 2026.
+Cornelius Doctor is a Techno and Acid artist with 1 upcoming club date listed on soundcheck as of Wed, 16 Sept 2026, next at Super5, Lyon on Thu, 17 Sept 2026.
 
 Cornelius Doctor is a techno and acid artist tracked on soundcheck, with 26 sets logged across Barcelona, Berlin, Ghent and Lyon and 4 more. Often billed alongside Tushen Raï, Warum and Ceyda Yagiz. Next up: Super5, Lyon on Thu 17 Sept.
 
@@ -25,4 +25,4 @@ Cornelius Doctor is a techno and acid artist tracked on soundcheck, with 26 sets
 
 Tushen Raï, Warum, Ceyda Yagiz
 
-*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/corneliusdoctor/)*
+*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/corneliusdoctor/)*

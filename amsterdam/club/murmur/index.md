@@ -1,6 +1,6 @@
 # murmur
 
-murmur is a music venue in Amsterdam with 7 upcoming nights listed on soundcheck as of Tue, 15 Sept 2026; the next is "orlok & habiiibiji (live)" on Fri, 18 Sept 2026.
+murmur is a music venue in Amsterdam with 7 upcoming nights listed on soundcheck as of Wed, 16 Sept 2026; the next is "orlok & habiiibiji (live)" on Fri, 18 Sept 2026.
 
 murmur is a music venue in Amsterdam listed on soundcheck. 7 upcoming nights, with line-ups including B Current, Carla dal Forno, Gres A and Orlok and 1 more. Browse upcoming dates, start times and who's playing. Johan van Hasseltweg 39 HS, 1021 KN Amsterdam.
 
@@ -20,4 +20,4 @@ murmur is a music venue in Amsterdam listed on soundcheck. 7 upcoming nights, wi
 
 Johan van Hasseltweg 39 HS, 1021 KN Amsterdam, Amsterdam
 
-*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/murmur/)*
+*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/murmur/)*

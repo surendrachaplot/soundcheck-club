@@ -1,6 +1,6 @@
 # Lauren Lo Sung
 
-Lauren Lo Sung is a House and Tech House artist with 3 upcoming club dates listed on soundcheck as of Tue, 15 Sept 2026, next at La Felicita, Paris on Fri, 18 Sept 2026.
+Lauren Lo Sung is a House and Tech House artist with 3 upcoming club dates listed on soundcheck as of Wed, 16 Sept 2026, next at La Felicita, Paris on Fri, 18 Sept 2026.
 
 Lauren Lo Sung is a house and tech house artist tracked on soundcheck, with 104 sets logged across Amsterdam, Barcelona, Berlin and Birmingham and 25 more. Often billed alongside Fabe, Luuk van Dijk and Prunk. Next up: La Felicita, Paris on Fri 18 Sept.
 
@@ -27,4 +27,4 @@ Lauren Lo Sung is a house and tech house artist tracked on soundcheck, with 104 
 
 Fabe, Luuk van Dijk, Prunk
 
-*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/laurenlosung/)*
+*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/laurenlosung/)*

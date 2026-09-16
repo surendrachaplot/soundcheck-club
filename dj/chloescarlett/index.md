@@ -1,6 +1,6 @@
 # Chloe Scarlett
 
-Chloe Scarlett is a Club and Electronica artist with 1 upcoming club date listed on soundcheck as of Tue, 15 Sept 2026, next at Le Bain, New York City on Fri, 18 Sept 2026.
+Chloe Scarlett is a Club and Electronica artist with 1 upcoming club date listed on soundcheck as of Wed, 16 Sept 2026, next at Le Bain, New York City on Fri, 18 Sept 2026.
 
 Chloe Scarlett is a club and electronica artist based in United States of America, tracked on soundcheck, with 8 sets logged across Newyorkcity. Often billed alongside espurr, Ali RQ and Certified Jesus Freak. Next up: Le Bain, Newyorkcity on Fri 18 Sept.
 
@@ -24,4 +24,4 @@ Chloe Scarlett is a club and electronica artist based in United States of Americ
 
 espurr, Ali RQ, Certified Jesus Freak
 
-*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/chloescarlett/)*
+*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/chloescarlett/)*

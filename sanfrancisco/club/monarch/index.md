@@ -1,6 +1,6 @@
 # Monarch
 
-Monarch is a music venue in San Francisco/Oakland with 8 upcoming nights listed on soundcheck as of Tue, 15 Sept 2026; the next is "Bump" on Thu, 17 Sept 2026.
+Monarch is a music venue in San Francisco/Oakland with 8 upcoming nights listed on soundcheck as of Wed, 16 Sept 2026; the next is "Bump" on Thu, 17 Sept 2026.
 
 Monarch is a music venue in Sanfrancisco listed on soundcheck. 8 upcoming nights, with line-ups including 1OO1O, 2AT, Anthony Mansfield and BAD JUUJU and 2 more. Browse upcoming dates, start times and who's playing. 101 6th Street, San Francisco, CA 94103, United States.
 
@@ -21,4 +21,4 @@ Monarch is a music venue in Sanfrancisco listed on soundcheck. 8 upcoming nights
 
 101 6th Street, San Francisco, CA 94103, United States, San Francisco/Oakland
 
-*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/monarch/)*
+*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/monarch/)*

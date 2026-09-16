@@ -1,6 +1,6 @@
 # A. Brehme
 
-A. Brehme is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 15 Sept 2026, next at Fuse, Brussels on Sat, 17 Oct 2026.
+A. Brehme is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 16 Sept 2026, next at Fuse, Brussels on Sat, 17 Oct 2026.
 
 A. Brehme is a techno and house artist tracked on soundcheck, with 40 sets logged across Antwerp, Brussels, Ghent and Malta and 4 more. Often billed alongside DJ Rino, Clara D and Sonhan. Next up: Fuse, Brussels on Sat 17 Oct.
 
@@ -25,4 +25,4 @@ A. Brehme is a techno and house artist tracked on soundcheck, with 40 sets logge
 
 DJ Rino, Clara D, Sonhan
 
-*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/a.brehme/)*
+*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/a.brehme/)*

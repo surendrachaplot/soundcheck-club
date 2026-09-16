@@ -1,6 +1,6 @@
 # Dosem
 
-Dosem is a Progressive House and Techno artist with 6 upcoming club dates listed on soundcheck as of Tue, 15 Sept 2026, next at Electric Bristol, Bristol on Fri, 2 Oct 2026.
+Dosem is a Progressive House and Techno artist with 6 upcoming club dates listed on soundcheck as of Wed, 16 Sept 2026, next at Electric Bristol, Bristol on Fri, 2 Oct 2026.
 
 Dosem is a progressive house and techno artist tracked on soundcheck, with 76 sets logged across Amsterdam, Austin, Bali and Barcelona and 30 more. Often billed alongside Jody Wisternoff, Marsh and Nicky Elisabeth. Next up: Electric Bristol, Bristol on Fri 2 Oct.
 
@@ -30,4 +30,4 @@ Dosem is a progressive house and techno artist tracked on soundcheck, with 76 se
 
 Jody Wisternoff, Marsh, Nicky Elisabeth
 
-*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dosem/)*
+*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dosem/)*

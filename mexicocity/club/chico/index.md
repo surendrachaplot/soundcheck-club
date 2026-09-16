@@ -1,6 +1,6 @@
 # CHICO
 
-CHICO is a music venue in Mexico City with 4 upcoming nights listed on soundcheck as of Tue, 15 Sept 2026; the next is "Casa Klub en CHICO" on Fri, 25 Sept 2026.
+CHICO is a music venue in Mexico City with 4 upcoming nights listed on soundcheck as of Wed, 16 Sept 2026; the next is "Casa Klub en CHICO" on Fri, 25 Sept 2026.
 
 CHICO is a music venue in Mexicocity listed on soundcheck. 4 upcoming nights, with line-ups including Dante Sin, dj sex (MX), Fortier and Hasel (1) and 2 more. Browse upcoming dates, start times and who's playing. Colima 367 Roma Nte., Cuauhtemoc, 06700 Ciudad de MÃ©xico, CDMX.
 
@@ -17,4 +17,4 @@ CHICO is a music venue in Mexicocity listed on soundcheck. 4 upcoming nights, wi
 
 Colima 367 Roma Nte., Cuauhtemoc, 06700 Ciudad de MÃ©xico, CDMX, Mexico City
 
-*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/mexicocity/club/chico/)*
+*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/mexicocity/club/chico/)*

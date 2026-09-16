@@ -1,6 +1,6 @@
 # WEIKUM
 
-WEIKUM is a Tech House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 15 Sept 2026, next at OCZKI, Warsaw on Sat, 19 Sept 2026.
+WEIKUM is a Tech House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 16 Sept 2026, next at OCZKI, Warsaw on Sat, 19 Sept 2026.
 
 WEIKUM is a tech house and techno artist tracked on soundcheck, with 62 sets logged across Krakow and Warsaw. Often billed alongside Jerry M, GiGi (PL) and Sincz. Next up: OCZKI, Warsaw on Sat 19 Sept.
 
@@ -25,4 +25,4 @@ WEIKUM is a tech house and techno artist tracked on soundcheck, with 62 sets log
 
 Jerry M, GiGi (PL), Sincz
 
-*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/weikum/)*
+*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/weikum/)*

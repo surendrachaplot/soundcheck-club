@@ -1,6 +1,6 @@
 # DJ Plant Texture
 
-DJ Plant Texture is a Techno and Breakbeat artist with 2 upcoming club dates listed on soundcheck as of Tue, 15 Sept 2026, next at The Mash House, Edinburgh on Fri, 25 Sept 2026.
+DJ Plant Texture is a Techno and Breakbeat artist with 2 upcoming club dates listed on soundcheck as of Wed, 16 Sept 2026, next at The Mash House, Edinburgh on Fri, 25 Sept 2026.
 
 DJ Plant Texture is a techno and breakbeat artist based in Italy, tracked on soundcheck, with 73 sets logged across Amsterdam, Antwerp, Barcelona and Belgrade and 28 more. Often billed alongside Ireen Amnes, SDN (1) and AliA. Next up: The Mash House, Edinburgh on Fri 25 Sept.
 
@@ -26,4 +26,4 @@ DJ Plant Texture is a techno and breakbeat artist based in Italy, tracked on sou
 
 Ireen Amnes, SDN (1), AliA
 
-*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djplanttexture/)*
+*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djplanttexture/)*

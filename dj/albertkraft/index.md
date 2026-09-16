@@ -1,6 +1,6 @@
 # Albert Kraft
 
-Albert Kraft is a Electronica and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 15 Sept 2026, next at Urban Spree, Berlin on Sat, 26 Sept 2026.
+Albert Kraft is a Electronica and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 16 Sept 2026, next at Urban Spree, Berlin on Sat, 26 Sept 2026.
 
 Albert Kraft is an electronica and techno artist tracked on soundcheck, with 3 sets logged across Berlin. Often billed alongside Daraio, DiskoTitties and Key Clef. Next up: Urban Spree, Berlin on Sat 26 Sept.
 
@@ -19,4 +19,4 @@ Albert Kraft is an electronica and techno artist tracked on soundcheck, with 3 s
 
 Daraio, DiskoTitties, Key Clef
 
-*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/albertkraft/)*
+*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/albertkraft/)*

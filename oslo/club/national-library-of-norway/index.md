@@ -1,6 +1,6 @@
 # National Library of Norway
 
-National Library of Norway is a music venue in Oslo with 1 upcoming night listed on soundcheck as of Tue, 15 Sept 2026; the next is "Kora Sounds: Unknown Mobile (CA / Live), Erik M. (Live), Simon Tyv (Live)" on Fri, 16 Oct 2026.
+National Library of Norway is a music venue in Oslo with 1 upcoming night listed on soundcheck as of Wed, 16 Sept 2026; the next is "Kora Sounds: Unknown Mobile (CA / Live), Erik M. (Live), Simon Tyv (Live)" on Fri, 16 Oct 2026.
 
 National Library of Norway is a music venue in Oslo listed on soundcheck. 1 upcoming night, with line-ups including Erik M., Simon Tyv and Unknown Mobile. Browse upcoming dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ National Library of Norway is a music venue in Oslo listed on soundcheck. 1 upco
 | --- | --- | --- |
 | Fri, 16 Oct 2026 | Kora Sounds: Unknown Mobile (CA / Live), Erik M. (Live), Simon Tyv (Live) | Erik M., Simon Tyv, Unknown Mobile |
 
-*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/oslo/club/national-library-of-norway/)*
+*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/oslo/club/national-library-of-norway/)*

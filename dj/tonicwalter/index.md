@@ -1,6 +1,6 @@
 # Tonic Walter
 
-Tonic Walter is a Techno and Deep House artist with 2 upcoming club dates listed on soundcheck as of Tue, 15 Sept 2026, next at NDSM Scheepsbouwloods, Amsterdam on Fri, 23 Oct 2026.
+Tonic Walter is a Techno and Deep House artist with 2 upcoming club dates listed on soundcheck as of Wed, 16 Sept 2026, next at NDSM Scheepsbouwloods, Amsterdam on Fri, 23 Oct 2026.
 
 Tonic Walter is a techno and deep house artist tracked on soundcheck, with 41 sets logged across Amsterdam, Athens, Barcelona and Basel and 19 more. Often billed alongside Montee, Angara and Philipp Wolf. Next up: NDSM Scheepsbouwloods, Amsterdam on Fri 23 Oct.
 
@@ -26,4 +26,4 @@ Tonic Walter is a techno and deep house artist tracked on soundcheck, with 41 se
 
 Montee, Angara, Philipp Wolf
 
-*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tonicwalter/)*
+*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tonicwalter/)*

@@ -1,6 +1,6 @@
 # Eli Escobar
 
-Eli Escobar is a House and Electro artist with 16 upcoming club dates listed on soundcheck as of Tue, 15 Sept 2026, next at Le Bain, New York City on Wed, 16 Sept 2026.
+Eli Escobar is a House and Electro artist with 16 upcoming club dates listed on soundcheck as of Wed, 16 Sept 2026, next at Le Bain, New York City on Wed, 16 Sept 2026.
 
 Eli Escobar is a house and electro artist tracked on soundcheck, with 549 sets logged across Barcelona, Berlin, Boston and Chicago and 18 more. Often billed alongside DJ Moma, Andi and The Carry Nation. Next up: Le Bain, Newyorkcity on Wed 16 Sept.
 
@@ -36,4 +36,4 @@ Eli Escobar is a house and electro artist tracked on soundcheck, with 549 sets l
 
 DJ Moma, Andi, The Carry Nation
 
-*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/eliescobar/)*
+*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/eliescobar/)*

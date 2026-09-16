@@ -1,6 +1,6 @@
 # House Of Silk - (OVER 25s) AUTUMN SPECIAL at Egg London
 
-House Of Silk - (OVER 25s) AUTUMN SPECIAL at Egg London on Sat 14 Nov, London. 3 acts on the bill: DJ S (UK), Shenin Amara and Supa D. Preview the line-up and save it on soundcheck.
+House Of Silk - (OVER 25s) AUTUMN SPECIAL at Egg London on Sat 14 Nov, London. 6 acts on the bill: B3, DJ Majesty, DJ S (UK) and Mark Radford and 2 more. Tech House and Afro House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,7 +10,10 @@ House Of Silk - (OVER 25s) AUTUMN SPECIAL at Egg London on Sat 14 Nov, London. 3
 
 ## Line-up
 
+- B3
+- DJ Majesty
 - DJ S (UK)
+- Mark Radford
 - Shenin Amara
 - Supa D
 

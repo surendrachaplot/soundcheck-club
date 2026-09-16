@@ -1,6 +1,6 @@
 # Gian Grassi
 
-Gian Grassi is a Progressive House artist with 1 upcoming club date listed on soundcheck as of Tue, 15 Sept 2026, next at Veronica Schip, Amsterdam on Fri, 18 Sept 2026.
+Gian Grassi is a Progressive House artist with 1 upcoming club date listed on soundcheck as of Wed, 16 Sept 2026, next at Veronica Schip, Amsterdam on Fri, 18 Sept 2026.
 
 Gian Grassi is a progressive house artist tracked on soundcheck, with 4 sets logged across Amsterdam. Often billed alongside PABLON and JUAN BELDARREIN. Next up: Veronica Schip, Amsterdam on Fri 18 Sept.
 
@@ -20,4 +20,4 @@ Gian Grassi is a progressive house artist tracked on soundcheck, with 4 sets log
 
 PABLON, JUAN BELDARREIN
 
-*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/giangrassi/)*
+*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/giangrassi/)*

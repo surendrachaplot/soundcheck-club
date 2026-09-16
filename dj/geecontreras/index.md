@@ -1,6 +1,6 @@
 # Gee Contreras
 
-Gee Contreras is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Tue, 15 Sept 2026, next at Say No More Madrid, Madrid on Thu, 17 Sept 2026.
+Gee Contreras is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Wed, 16 Sept 2026, next at Say No More Madrid, Madrid on Thu, 17 Sept 2026.
 
 Gee Contreras is a house and disco artist based in Colombia, tracked on soundcheck, with 12 sets logged across Madrid. Often billed alongside Certain People, El cuerpo del Disco and AKA Juan. Next up: Say No More Madrid, Madrid on Thu 17 Sept.
 
@@ -25,4 +25,4 @@ Gee Contreras is a house and disco artist based in Colombia, tracked on soundche
 
 Certain People, El cuerpo del Disco, AKA Juan
 
-*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/geecontreras/)*
+*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/geecontreras/)*

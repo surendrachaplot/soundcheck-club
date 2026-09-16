@@ -1,14 +1,13 @@
 # PARAMIDA
 
-PARAMIDA is a House and Techno artist with 10 upcoming club dates listed on soundcheck as of Tue, 15 Sept 2026, next at Amnesia Ibiza, Ibiza on Tue, 15 Sept 2026.
+PARAMIDA is a House and Techno artist with 9 upcoming club dates listed on soundcheck as of Wed, 16 Sept 2026, next at Openluchttheater Amersfoort, Amsterdam on Fri, 18 Sept 2026.
 
-PARAMIDA is a house and techno artist tracked on soundcheck, with 254 sets logged across Amsterdam, Antwerp, Athens and Bali and 48 more. Often billed alongside Alex Kassian, Ryan Elliott and tINI. Next up: Amnesia Ibiza, Ibiza on Tue 15 Sept.
+PARAMIDA is a house and techno artist tracked on soundcheck, with 254 sets logged across Amsterdam, Antwerp, Athens and Bali and 48 more. Often billed alongside Alex Kassian, Ryan Elliott and tINI. Next up: Openluchttheater Amersfoort, Amsterdam on Fri 18 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Tue, 15 Sept 2026 | Amnesia Ibiza | Ibiza |
 | Fri, 18 Sept 2026 | Openluchttheater Amersfoort | Amsterdam |
 | Sat, 19 Sept 2026 | Azimut Club | Turin |
 | Fri, 25 Sept 2026 | CLUB RAUM | Amsterdam |
@@ -21,6 +20,7 @@ PARAMIDA is a house and techno artist tracked on soundcheck, with 254 sets logge
 
 ## Recently played
 
+- Amnesia Ibiza, Ibiza — Tue, 15 Sept 2026
 - Jolene Downtown Miami, Miami — Sat, 12 Sept 2026
 - BASEMENT, New York City — Fri, 11 Sept 2026
 - Pylonen - Frizonen Langebro, Copenhagen — Fri, 4 Sept 2026
@@ -28,10 +28,9 @@ PARAMIDA is a house and techno artist tracked on soundcheck, with 254 sets logge
 - Chinois Ibiza, Ibiza — Tue, 25 Aug 2026
 - Motel Campo, Geneva — Sat, 15 Aug 2026
 - Parc del Fòrum, Barcelona — Fri, 7 Aug 2026
-- Burgess Park, London — Fri, 31 Jul 2026
 
 ## Shares bills with
 
 Alex Kassian, Ryan Elliott, tINI
 
-*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/paramida/)*
+*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/paramida/)*

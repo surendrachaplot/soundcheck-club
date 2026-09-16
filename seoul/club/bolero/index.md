@@ -1,6 +1,6 @@
 # Bolero
 
-Bolero is a music venue in Seoul with 5 upcoming nights listed on soundcheck as of Tue, 15 Sept 2026; the next is "Bolero: 808 Prince Apron Party" on Thu, 17 Sept 2026.
+Bolero is a music venue in Seoul with 5 upcoming nights listed on soundcheck as of Wed, 16 Sept 2026; the next is "Bolero: 808 Prince Apron Party" on Thu, 17 Sept 2026.
 
 Bolero is a music venue in Seoul listed on soundcheck. 5 upcoming nights, with line-ups including DJ Co.kr, Ale Rossi, ANDOW and BABYKOOOL and 2 more. Browse upcoming dates, start times and who's playing. B1, 220, Itaewon-ro, Yongsan-gu, Seoul, South Korea.
 
@@ -18,4 +18,4 @@ Bolero is a music venue in Seoul listed on soundcheck. 5 upcoming nights, with l
 
 B1, 220, Itaewon-ro, Yongsan-gu, Seoul, South Korea, Seoul
 
-*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/seoul/club/bolero/)*
+*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/seoul/club/bolero/)*

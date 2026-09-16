@@ -1,6 +1,6 @@
 # Olga Korol
 
-Olga Korol is a House and Minimal artist with 3 upcoming club dates listed on soundcheck as of Tue, 15 Sept 2026, next at D-EDGE, Sao Paulo on Fri, 18 Sept 2026.
+Olga Korol is a House and Minimal artist with 3 upcoming club dates listed on soundcheck as of Wed, 16 Sept 2026, next at D-EDGE, Sao Paulo on Fri, 18 Sept 2026.
 
 Olga Korol is a house and minimal artist tracked on soundcheck, with 98 sets logged across Amsterdam, Bali, Barcelona and Belgrade and 35 more. Often billed alongside Per Hammar, Elnur and Rossko. Next up: D-EDGE, Saopaulo on Fri 18 Sept.
 
@@ -27,4 +27,4 @@ Olga Korol is a house and minimal artist tracked on soundcheck, with 98 sets log
 
 Per Hammar, Elnur, Rossko
 
-*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/olgakorol-ru/)*
+*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/olgakorol-ru/)*

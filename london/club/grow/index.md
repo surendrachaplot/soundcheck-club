@@ -1,6 +1,6 @@
 # Grow
 
-Grow is a music venue in London with 10 upcoming nights listed on soundcheck as of Tue, 15 Sept 2026; the next is "Rook Records: Mr Redley, Jawa Jones, Tall Nico, Alfie Panaiotis" on Fri, 18 Sept 2026.
+Grow is a music venue in London with 10 upcoming nights listed on soundcheck as of Wed, 16 Sept 2026; the next is "Rook Records: Mr Redley, Jawa Jones, Tall Nico, Alfie Panaiotis" on Fri, 18 Sept 2026.
 
 Grow is a music venue in London listed on soundcheck. 10 upcoming nights, with line-ups including Alfie Panaiotis, Bena, Chameleonas and CSGRV and 2 more. Browse upcoming dates, start times and who's playing. 98C Wallis Road; Main Yard; London E9 5LN.
 
@@ -23,4 +23,4 @@ Grow is a music venue in London listed on soundcheck. 10 upcoming nights, with l
 
 98C Wallis Road; Main Yard; London E9 5LN, London
 
-*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/grow/)*
+*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/grow/)*

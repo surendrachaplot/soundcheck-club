@@ -1,6 +1,6 @@
 # Meteoro
 
-Meteoro is a music venue in Barcelona with 2 upcoming nights listed on soundcheck as of Tue, 15 Sept 2026; the next is "glamer: Chickenmilk dot com, Valeria Litvakov, shyweek, Julietta Ferrari, ga.dea" on Fri, 18 Sept 2026.
+Meteoro is a music venue in Barcelona with 2 upcoming nights listed on soundcheck as of Wed, 16 Sept 2026; the next is "glamer: Chickenmilk dot com, Valeria Litvakov, shyweek, Julietta Ferrari, ga.dea" on Fri, 18 Sept 2026.
 
 Meteoro is a music venue in Barcelona listed on soundcheck. 2 upcoming nights, with line-ups including Brianathegemini, Chickenmilk dot com, gitano del futuro and Julietta Ferrari and 2 more. Browse upcoming dates, start times and who's playing. Passeig de Montjuïc, 72, 08004 Barcelona, España.
 
@@ -15,4 +15,4 @@ Meteoro is a music venue in Barcelona listed on soundcheck. 2 upcoming nights, w
 
 Passeig de Montjuïc, 72, 08004 Barcelona, España, Barcelona
 
-*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/meteoro/)*
+*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/meteoro/)*

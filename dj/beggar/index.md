@@ -1,6 +1,6 @@
 # Beggar
 
-Beggar is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Tue, 15 Sept 2026, next at Apotheke, Los Angeles on Sat, 19 Sept 2026.
+Beggar is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Wed, 16 Sept 2026, next at Apotheke, Los Angeles on Sat, 19 Sept 2026.
 
 Beggar is a house and deep house artist tracked on soundcheck, with 35 sets logged across Losangeles and Sydney. Often billed alongside DJ Shroomie, Akumen and agraybé. Next up: Apotheke, Losangeles on Sat 19 Sept.
 
@@ -25,4 +25,4 @@ Beggar is a house and deep house artist tracked on soundcheck, with 35 sets logg
 
 DJ Shroomie, Akumen, agraybé
 
-*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/beggar/)*
+*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/beggar/)*

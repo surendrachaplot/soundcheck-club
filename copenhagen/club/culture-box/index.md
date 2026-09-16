@@ -1,6 +1,6 @@
 # Culture Box
 
-Culture Box is a music venue in Copenhagen with 18 upcoming nights listed on soundcheck as of Tue, 15 Sept 2026; the next is "Biesmans / Kawun / Tamara / Fluid Sound Collective" on Fri, 18 Sept 2026.
+Culture Box is a music venue in Copenhagen with 18 upcoming nights listed on soundcheck as of Wed, 16 Sept 2026; the next is "Biesmans / Kawun / Tamara / Fluid Sound Collective" on Fri, 18 Sept 2026.
 
 Culture Box is a music venue in Copenhagen listed on soundcheck. 18 upcoming nights, with line-ups including Aerocell, Aio, Aja Gulris and Albano Bastonero and 2 more. Browse upcoming dates, start times and who's playing. Kronprinsessegade 54; Copenhagen K. 1306; Denmark.
 
@@ -23,4 +23,4 @@ Culture Box is a music venue in Copenhagen listed on soundcheck. 18 upcoming nig
 
 Kronprinsessegade 54; Copenhagen K. 1306; Denmark, Copenhagen
 
-*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/copenhagen/club/culture-box/)*
+*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/copenhagen/club/culture-box/)*

@@ -1,6 +1,6 @@
 # Valks
 
-Valks is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 15 Sept 2026, next at Big Fan Studio, Auckland on Sat, 19 Sept 2026.
+Valks is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 16 Sept 2026, next at Big Fan Studio, Auckland on Sat, 19 Sept 2026.
 
 Valks is a techno and house artist tracked on soundcheck, with 16 sets logged across Auckland and Seoul. Often billed alongside Takydon, Concussion and Brett Bronze. Next up: Big Fan Studio, Auckland on Sat 19 Sept.
 
@@ -25,4 +25,4 @@ Valks is a techno and house artist tracked on soundcheck, with 16 sets logged ac
 
 Takydon, Concussion, Brett Bronze
 
-*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/valks/)*
+*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/valks/)*

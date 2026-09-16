@@ -1,6 +1,6 @@
 # Mark Farina
 
-Mark Farina is a House and Deep House artist with 3 upcoming club dates listed on soundcheck as of Tue, 15 Sept 2026, next at Brooklyn Roots Collective, New York City on Fri, 2 Oct 2026.
+Mark Farina is a House and Deep House artist with 3 upcoming club dates listed on soundcheck as of Wed, 16 Sept 2026, next at Brooklyn Roots Collective, New York City on Fri, 2 Oct 2026.
 
 Mark Farina is a house and deep house artist tracked on soundcheck, with 120 sets logged across Antwerp, Auckland, Chicago and Denver and 20 more. Often billed alongside DJ Heather, Derrick Carter and Doc Martin. Next up: Brooklyn Roots Collective, Newyorkcity on Fri 2 Oct.
 
@@ -27,4 +27,4 @@ Mark Farina is a house and deep house artist tracked on soundcheck, with 120 set
 
 DJ Heather, Derrick Carter, Doc Martin
 
-*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/markfarina/)*
+*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/markfarina/)*

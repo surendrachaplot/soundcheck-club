@@ -1,6 +1,6 @@
 # Ryan Sadorus
 
-Ryan Sadorus is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Tue, 15 Sept 2026, next at Spkrbox, Detroit on Sat, 10 Oct 2026.
+Ryan Sadorus is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Wed, 16 Sept 2026, next at Spkrbox, Detroit on Sat, 10 Oct 2026.
 
 Ryan Sadorus is a house and deep house artist tracked on soundcheck, with 64 sets logged across Detroit. Often billed alongside Gregboi, Brian Kage and Marcus NF Harris. Next up: Spkrbox, Detroit on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ Ryan Sadorus is a house and deep house artist tracked on soundcheck, with 64 set
 
 Gregboi, Brian Kage, Marcus NF Harris
 
-*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ryansadorus/)*
+*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ryansadorus/)*

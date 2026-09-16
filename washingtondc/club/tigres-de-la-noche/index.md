@@ -1,6 +1,6 @@
 # Tigres de la Noche
 
-Tigres de la Noche is a music venue in Washington DC with 23 upcoming nights listed on soundcheck as of Tue, 15 Sept 2026; the next is "Cezaire: Space Between Volume 3" on Fri, 18 Sept 2026.
+Tigres de la Noche is a music venue in Washington DC with 23 upcoming nights listed on soundcheck as of Wed, 16 Sept 2026; the next is "Cezaire: Space Between Volume 3" on Fri, 18 Sept 2026.
 
 Tigres de la Noche is a music venue in Washingtondc listed on soundcheck. 23 upcoming nights, with line-ups including AEREA, Cezaire, Chinonegro and Dublon and 2 more. Browse upcoming dates, start times and who's playing. Alley Entrance, 405 Morse Street Northeast 2nd Floor, Washington, DC 20002, USA.
 
@@ -23,4 +23,4 @@ Tigres de la Noche is a music venue in Washingtondc listed on soundcheck. 23 upc
 
 Alley Entrance, 405 Morse Street Northeast 2nd Floor, Washington, DC 20002, USA, Washington DC
 
-*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/washingtondc/club/tigres-de-la-noche/)*
+*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/washingtondc/club/tigres-de-la-noche/)*

@@ -1,6 +1,6 @@
 # Carrieondisco
 
-Carrieondisco is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Tue, 15 Sept 2026, next at H0L0, New York City on Sat, 24 Oct 2026.
+Carrieondisco is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Wed, 16 Sept 2026, next at H0L0, New York City on Sat, 24 Oct 2026.
 
 Carrieondisco is a house and disco artist based in United States of America, tracked on soundcheck, with 24 sets logged across Losangeles, Newyorkcity, Portland and Sanfrancisco and 1 more. Often billed alongside DJ M3, Chuck Gunn and Mark O'Brien. Next up: H0L0, Newyorkcity on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ Carrieondisco is a house and disco artist based in United States of America, tra
 
 DJ M3, Chuck Gunn, Mark O'Brien
 
-*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/carrieondisco/)*
+*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/carrieondisco/)*

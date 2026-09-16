@@ -1,6 +1,6 @@
 # Club Makossa
 
-Club Makossa is a music venue in London with 12 upcoming nights listed on soundcheck as of Tue, 15 Sept 2026; the next is "A Very Important House Party - Find Your House Mate Solo Rave" on Thu, 17 Sept 2026.
+Club Makossa is a music venue in London with 12 upcoming nights listed on soundcheck as of Wed, 16 Sept 2026; the next is "A Very Important House Party - Find Your House Mate Solo Rave" on Thu, 17 Sept 2026.
 
 Club Makossa is a music venue in London listed on soundcheck. 12 upcoming nights, with line-ups including Anna Kiss, Aruna, Bella Rysk and Carien and 2 more. Browse upcoming dates, start times and who's playing. 113 Kingsland High Street, London E8 2PB.
 
@@ -23,4 +23,4 @@ Club Makossa is a music venue in London listed on soundcheck. 12 upcoming nights
 
 113 Kingsland High Street, London E8 2PB, London
 
-*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/club-makossa/)*
+*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/club-makossa/)*

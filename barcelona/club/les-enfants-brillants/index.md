@@ -1,6 +1,6 @@
 # Les Enfants Brillants
 
-Les Enfants Brillants is a music venue in Barcelona with 24 upcoming nights listed on soundcheck as of Tue, 15 Sept 2026; the next is "Noizer pres. ABSIS + Fran Acosta" on Thu, 17 Sept 2026.
+Les Enfants Brillants is a music venue in Barcelona with 24 upcoming nights listed on soundcheck as of Wed, 16 Sept 2026; the next is "Noizer pres. ABSIS + Fran Acosta" on Thu, 17 Sept 2026.
 
 Les Enfants Brillants is a music venue in Barcelona listed on soundcheck. 24 upcoming nights, with line-ups including ABSIS, Adi, Alexander Skancke and Alex Dima and 2 more. Browse upcoming dates, start times and who's playing. Carrer de Guàrdia, 3, 08001 Barcelona.
 
@@ -23,4 +23,4 @@ Les Enfants Brillants is a music venue in Barcelona listed on soundcheck. 24 upc
 
 Carrer de Guàrdia, 3, 08001 Barcelona, Barcelona
 
-*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/les-enfants-brillants/)*
+*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/les-enfants-brillants/)*

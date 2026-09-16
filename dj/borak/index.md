@@ -1,6 +1,6 @@
 # Borak
 
-Borak is a Deep House and House artist with 1 upcoming club date listed on soundcheck as of Tue, 15 Sept 2026, next at Green Room NYC, New York City on Fri, 25 Sept 2026.
+Borak is a Deep House and House artist with 1 upcoming club date listed on soundcheck as of Wed, 16 Sept 2026, next at Green Room NYC, New York City on Fri, 25 Sept 2026.
 
 Borak is a deep house and house artist tracked on soundcheck, with 53 sets logged across Chicago, Istanbul, London and Losangeles and 2 more. Often billed alongside Ray Kash, Gru.di and IZIK. Next up: Green Room NYC, Newyorkcity on Fri 25 Sept.
 
@@ -25,4 +25,4 @@ Borak is a deep house and house artist tracked on soundcheck, with 53 sets logge
 
 Ray Kash, Gru.di, IZIK
 
-*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/borak/)*
+*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/borak/)*

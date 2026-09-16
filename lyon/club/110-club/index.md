@@ -1,6 +1,6 @@
 # 110.Club
 
-110.Club is a music venue in Lyon with 4 upcoming nights listed on soundcheck as of Tue, 15 Sept 2026; the next is "18/09/26 @110" on Fri, 18 Sept 2026.
+110.Club is a music venue in Lyon with 4 upcoming nights listed on soundcheck as of Wed, 16 Sept 2026; the next is "18/09/26 @110" on Fri, 18 Sept 2026.
 
 110.Club is a music venue in Lyon listed on soundcheck. 4 upcoming nights, with line-ups including MacManus and Vince Kuzanagi. Browse upcoming dates, start times and who's playing.
 
@@ -13,4 +13,4 @@
 | Fri, 2 Oct 2026 | Underground House | MacManus |
 | Fri, 30 Oct 2026 | 110: Vince Kuzanagi + Nadege Reve | Vince Kuzanagi |
 
-*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/lyon/club/110-club/)*
+*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/lyon/club/110-club/)*

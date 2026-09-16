@@ -1,6 +1,6 @@
 # Bar Gobo
 
-Bar Gobo is a music venue in Vancouver with 1 upcoming night listed on soundcheck as of Tue, 15 Sept 2026; the next is "Pacific Rhythm meets Bar Gobo" on Thu, 17 Sept 2026.
+Bar Gobo is a music venue in Vancouver with 1 upcoming night listed on soundcheck as of Wed, 16 Sept 2026; the next is "Pacific Rhythm meets Bar Gobo" on Thu, 17 Sept 2026.
 
 Bar Gobo is a music venue in Vancouver listed on soundcheck. 1 upcoming night, with line-ups including DJ D.Dee. Browse upcoming dates, start times and who's playing. 237 Union St, Vancouver, BC V6A 2B2.
 
@@ -14,4 +14,4 @@ Bar Gobo is a music venue in Vancouver listed on soundcheck. 1 upcoming night, w
 
 237 Union St, Vancouver, BC V6A 2B2, Vancouver
 
-*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/vancouver/club/bar-gobo/)*
+*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/vancouver/club/bar-gobo/)*

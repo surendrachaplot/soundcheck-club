@@ -1,6 +1,6 @@
 # Das Viertel
 
-Das Viertel is a music venue in Basel with 1 upcoming night listed on soundcheck as of Tue, 15 Sept 2026; the next is "Newstars Production with DJ Gregory" on Sat, 10 Oct 2026.
+Das Viertel is a music venue in Basel with 1 upcoming night listed on soundcheck as of Wed, 16 Sept 2026; the next is "Newstars Production with DJ Gregory" on Sat, 10 Oct 2026.
 
 Das Viertel is a music venue in Basel listed on soundcheck. 1 upcoming night, with line-ups including Cristian Tamborrini, DJ Gregory, Fred Linger and Robbie Romero. Browse upcoming dates, start times and who's playing. Münchensteinerstrasse 81, 4052 Basel, Switzerland.
 
@@ -14,4 +14,4 @@ Das Viertel is a music venue in Basel listed on soundcheck. 1 upcoming night, wi
 
 Münchensteinerstrasse 81, 4052 Basel, Switzerland, Basel
 
-*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/basel/club/das-viertel/)*
+*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/basel/club/das-viertel/)*

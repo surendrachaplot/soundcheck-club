@@ -1,6 +1,6 @@
 # Onsawa&tkc
 
-Onsawa&tkc is a House and Club artist with 1 upcoming club date listed on soundcheck as of Tue, 15 Sept 2026, next at BRAND SHIBUYA, Tokyo on Tue, 22 Sept 2026.
+Onsawa&tkc is a House and Club artist with 1 upcoming club date listed on soundcheck as of Wed, 16 Sept 2026, next at BRAND SHIBUYA, Tokyo on Tue, 22 Sept 2026.
 
 Onsawa&tkc is a house and club artist based in Japan, tracked on soundcheck, with 5 sets logged across Tokyo. Often billed alongside Ayantula, Kotono Shirai and Anri. Next up: BRAND SHIBUYA, Tokyo on Tue 22 Sept.
 
@@ -21,4 +21,4 @@ Onsawa&tkc is a house and club artist based in Japan, tracked on soundcheck, wit
 
 Ayantula, Kotono Shirai, Anri
 
-*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/onsawatkc/)*
+*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/onsawatkc/)*

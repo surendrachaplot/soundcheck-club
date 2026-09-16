@@ -1,6 +1,6 @@
 # ZEMA
 
-ZEMA is a Techno and Bass artist with 1 upcoming club date listed on soundcheck as of Tue, 15 Sept 2026, next at XOYO, London on Wed, 16 Sept 2026.
+ZEMA is a Techno and Bass artist with 1 upcoming club date listed on soundcheck as of Wed, 16 Sept 2026, next at XOYO, London on Wed, 16 Sept 2026.
 
 ZEMA is a techno and bass artist based in United Kingdom, tracked on soundcheck, with 19 sets logged across Aberdeen and London. Often billed alongside Mod-R, DJ FUNGHOUL and Dusty Dan. Next up: XOYO, London on Wed 16 Sept.
 
@@ -25,4 +25,4 @@ ZEMA is a techno and bass artist based in United Kingdom, tracked on soundcheck,
 
 Mod-R, DJ FUNGHOUL, Dusty Dan
 
-*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/zema/)*
+*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/zema/)*

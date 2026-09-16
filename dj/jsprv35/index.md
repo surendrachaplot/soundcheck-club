@@ -1,6 +1,6 @@
 # JSPRV35
 
-JSPRV35 is a Techno and Minimal Techno artist with 2 upcoming club dates listed on soundcheck as of Tue, 15 Sept 2026, next at Skatecafe, Amsterdam on Sat, 26 Sept 2026.
+JSPRV35 is a Techno and Minimal Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 16 Sept 2026, next at Skatecafe, Amsterdam on Sat, 26 Sept 2026.
 
 JSPRV35 is a techno and minimal techno artist based in Netherlands, tracked on soundcheck, with 51 sets logged across Amsterdam, Barcelona, Berlin and Glasgow and 12 more. Often billed alongside Beau Didier, Grace Dahl and Isaiah (NL). Next up: Skatecafe, Amsterdam on Sat 26 Sept.
 
@@ -26,4 +26,4 @@ JSPRV35 is a techno and minimal techno artist based in Netherlands, tracked on s
 
 Beau Didier, Grace Dahl, Isaiah (NL)
 
-*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jsprv35/)*
+*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jsprv35/)*

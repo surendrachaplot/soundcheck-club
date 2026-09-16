@@ -1,6 +1,6 @@
 # Mina (US)
 
-Mina (US) is a Tech House and House artist with 2 upcoming club dates listed on soundcheck as of Tue, 15 Sept 2026, next at Tigres de la Noche, Washington DC on Fri, 18 Sept 2026.
+Mina (US) is a Tech House and House artist with 2 upcoming club dates listed on soundcheck as of Wed, 16 Sept 2026, next at Tigres de la Noche, Washington DC on Fri, 18 Sept 2026.
 
 Mina (US) is a tech house and house artist tracked on soundcheck, with 23 sets logged across Lyon, Philadelphia, Sydney and Washingtondc. Often billed alongside NABŪ, Victor Calderone and ojoo. Next up: Tigres de la Noche, Washingtondc on Fri 18 Sept.
 
@@ -26,4 +26,4 @@ Mina (US) is a tech house and house artist tracked on soundcheck, with 23 sets l
 
 NABŪ, Victor Calderone, ojoo
 
-*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mina-us/)*
+*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mina-us/)*

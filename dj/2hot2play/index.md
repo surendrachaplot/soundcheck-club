@@ -1,6 +1,6 @@
 # 2HOT2PLAY
 
-2HOT2PLAY is a Techno and Trance artist with 6 upcoming club dates listed on soundcheck as of Tue, 15 Sept 2026, next at RSO.BERLIN, Berlin on Fri, 25 Sept 2026.
+2HOT2PLAY is a Techno and Trance artist with 6 upcoming club dates listed on soundcheck as of Wed, 16 Sept 2026, next at RSO.BERLIN, Berlin on Fri, 25 Sept 2026.
 
 2HOT2PLAY is a techno and trance artist tracked on soundcheck, with 98 sets logged across Amsterdam, Antwerp, Barcelona and Basel and 25 more. Often billed alongside Mika Heggemann, Cara Elizabeth and L.zwo. Next up: RSO.BERLIN, Berlin on Fri 25 Sept.
 
@@ -30,4 +30,4 @@
 
 Mika Heggemann, Cara Elizabeth, L.zwo
 
-*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/2hot2play/)*
+*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/2hot2play/)*

@@ -1,6 +1,6 @@
 # HD (US)
 
-HD (US) is a Latin Bass and Drum & Bass artist with 1 upcoming club date listed on soundcheck as of Tue, 15 Sept 2026, next at Gabriela, New York City on Sun, 4 Oct 2026.
+HD (US) is a Latin Bass and Drum & Bass artist with 1 upcoming club date listed on soundcheck as of Wed, 16 Sept 2026, next at Gabriela, New York City on Sun, 4 Oct 2026.
 
 HD (US) is a latin bass and drum & bass artist based in United States of America, tracked on soundcheck, with 7 sets logged across Newyorkcity. Often billed alongside Cisne, DREAMINSLOW and HONEY B. Next up: Gabriela, Newyorkcity on Sun 4 Oct.
 
@@ -23,4 +23,4 @@ HD (US) is a latin bass and drum & bass artist based in United States of America
 
 Cisne, DREAMINSLOW, HONEY B
 
-*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/hdus/)*
+*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/hdus/)*

@@ -1,6 +1,6 @@
 # AHURA
 
-AHURA is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 15 Sept 2026, next at Paloma, Berlin on Thu, 17 Sept 2026.
+AHURA is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 16 Sept 2026, next at Paloma, Berlin on Thu, 17 Sept 2026.
 
 AHURA is a techno and house artist based in Germany, tracked on soundcheck, with 54 sets logged across Berlin, Dusseldorf, Hamburg and Lisbon and 2 more. Often billed alongside Nazz, Jannis Maxim and SYMON. Next up: Paloma, Berlin on Thu 17 Sept.
 
@@ -25,4 +25,4 @@ AHURA is a techno and house artist based in Germany, tracked on soundcheck, with
 
 Nazz, Jannis Maxim, SYMON
 
-*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ahura/)*
+*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ahura/)*

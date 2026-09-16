@@ -1,6 +1,6 @@
 # Fred again..
 
-Fred again.. is a Electro and House artist with 1 upcoming club date listed on soundcheck as of Tue, 15 Sept 2026, next at FS., Tokyo on Fri, 18 Sept 2026.
+Fred again.. is a Electro and House artist with 1 upcoming club date listed on soundcheck as of Wed, 16 Sept 2026, next at FS., Tokyo on Fri, 18 Sept 2026.
 
 Fred again.. is an electro and house artist tracked on soundcheck, with 36 sets logged across Bali, Berlin, Bristol and Budapest and 14 more. Often billed alongside Nia Archives, Skrillex and Dom Dolla. Next up: FS., Tokyo on Fri 18 Sept.
 
@@ -25,4 +25,4 @@ Fred again.. is an electro and house artist tracked on soundcheck, with 36 sets 
 
 Nia Archives, Skrillex, Dom Dolla
 
-*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/fredagain/)*
+*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/fredagain/)*

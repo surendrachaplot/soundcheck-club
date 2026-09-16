@@ -1,6 +1,6 @@
 # I-F
 
-I-F is a Disco and Italo Disco artist with 5 upcoming club dates listed on soundcheck as of Tue, 15 Sept 2026, next at Lux Fragil, Lisbon on Fri, 18 Sept 2026.
+I-F is a Disco and Italo Disco artist with 5 upcoming club dates listed on soundcheck as of Wed, 16 Sept 2026, next at Lux Fragil, Lisbon on Fri, 18 Sept 2026.
 
 I-F is a disco and italo disco artist tracked on soundcheck, with 85 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 13 more. Often billed alongside Intergalactic Gary, Marsman and Esther Dune. Next up: Lux Fragil, Lisbon on Fri 18 Sept.
 
@@ -29,4 +29,4 @@ I-F is a disco and italo disco artist tracked on soundcheck, with 85 sets logged
 
 Intergalactic Gary, Marsman, Esther Dune
 
-*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/i-f/)*
+*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/i-f/)*

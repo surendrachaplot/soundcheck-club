@@ -1,6 +1,6 @@
 # Doka
 
-Doka is a music venue in Amsterdam with 15 upcoming nights listed on soundcheck as of Tue, 15 Sept 2026; the next is "Likeminded x Doka Studio with TBA" on Fri, 18 Sept 2026.
+Doka is a music venue in Amsterdam with 15 upcoming nights listed on soundcheck as of Wed, 16 Sept 2026; the next is "Likeminded x Doka Studio with TBA" on Fri, 18 Sept 2026.
 
 Doka is a music venue in Amsterdam listed on soundcheck. 15 upcoming nights, with line-ups including Anz, babyschön, CARISTA and Conrad Soundsystem and 2 more. Browse upcoming dates, start times and who's playing. Wibautstraat 150, 1091 GR Amsterdam, Netherlands.
 
@@ -23,4 +23,4 @@ Doka is a music venue in Amsterdam listed on soundcheck. 15 upcoming nights, wit
 
 Wibautstraat 150, 1091 GR Amsterdam, Netherlands, Amsterdam
 
-*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/doka/)*
+*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/doka/)*

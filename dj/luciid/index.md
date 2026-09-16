@@ -1,6 +1,6 @@
 # Luciid
 
-Luciid is a Techno and Hardcore artist with 6 upcoming club dates listed on soundcheck as of Tue, 15 Sept 2026, next at Club Exil, Vienna on Sat, 26 Sept 2026.
+Luciid is a Techno and Hardcore artist with 6 upcoming club dates listed on soundcheck as of Wed, 16 Sept 2026, next at Club Exil, Vienna on Sat, 26 Sept 2026.
 
 Luciid is a techno and hardcore artist tracked on soundcheck, with 115 sets logged across Amsterdam, Antwerp, Barcelona and Basel and 36 more. Often billed alongside Vendex, Dexphase and Skryption. Next up: Club Exil, Vienna on Sat 26 Sept.
 
@@ -30,4 +30,4 @@ Luciid is a techno and hardcore artist tracked on soundcheck, with 115 sets logg
 
 Vendex, Dexphase, Skryption
 
-*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/luciid/)*
+*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/luciid/)*

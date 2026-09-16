@@ -1,6 +1,6 @@
 # Catnapp
 
-Catnapp is a Techno and Experimental artist with 1 upcoming club date listed on soundcheck as of Tue, 15 Sept 2026, next at Panke, Berlin on Fri, 6 Nov 2026.
+Catnapp is a Techno and Experimental artist with 1 upcoming club date listed on soundcheck as of Wed, 16 Sept 2026, next at Panke, Berlin on Fri, 6 Nov 2026.
 
 Catnapp is a techno and experimental artist tracked on soundcheck, with 23 sets logged across Amsterdam, Berlin, Buenosaires and Hamburg and 8 more. Often billed alongside Assyouti, Container and Israfil. Next up: Panke, Berlin on Fri 6 Nov.
 
@@ -25,4 +25,4 @@ Catnapp is a techno and experimental artist tracked on soundcheck, with 23 sets 
 
 Assyouti, Container, Israfil
 
-*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/catnapp/)*
+*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/catnapp/)*

@@ -1,6 +1,6 @@
 # BASEMENT
 
-BASEMENT is a music venue in New York City with 14 upcoming nights listed on soundcheck as of Tue, 15 Sept 2026; the next is "Mama Snake / Anabel Arroyo / Katie Rex / Gabrielle Kwarteng / Jek" on Fri, 18 Sept 2026.
+BASEMENT is a music venue in New York City with 14 upcoming nights listed on soundcheck as of Wed, 16 Sept 2026; the next is "Mama Snake / Anabel Arroyo / Katie Rex / Gabrielle Kwarteng / Jek" on Fri, 18 Sept 2026.
 
 BASEMENT is a music venue in Newyorkcity listed on soundcheck. 14 upcoming nights, with line-ups including 98dots, Ade Kassim, Akua and ALEXIS DE LA ROSA and 2 more. Browse upcoming dates, start times and who's playing. 52-19 Flushing Ave., Maspeth, NY 11378 USA.
 
@@ -23,4 +23,4 @@ BASEMENT is a music venue in Newyorkcity listed on soundcheck. 14 upcoming night
 
 52-19 Flushing Ave., Maspeth, NY 11378 USA, New York City
 
-*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/basement/)*
+*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/basement/)*

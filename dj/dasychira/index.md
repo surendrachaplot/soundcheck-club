@@ -1,6 +1,6 @@
 # Dasychira
 
-Dasychira is a Experimental and Electronica artist with 1 upcoming club date listed on soundcheck as of Tue, 15 Sept 2026, next at XTC Bushwick, New York City on Sat, 26 Sept 2026.
+Dasychira is a Experimental and Electronica artist with 1 upcoming club date listed on soundcheck as of Wed, 16 Sept 2026, next at XTC Bushwick, New York City on Sat, 26 Sept 2026.
 
 Dasychira is an experimental and electronica artist tracked on soundcheck, with 21 sets logged across Amsterdam, Berlin, Glasgow and Losangeles and 3 more. Often billed alongside Qualiatik, Janus Rose and Jasmine Infiniti. Next up: XTC Bushwick, Newyorkcity on Sat 26 Sept.
 
@@ -25,4 +25,4 @@ Dasychira is an experimental and electronica artist tracked on soundcheck, with 
 
 Qualiatik, Janus Rose, Jasmine Infiniti
 
-*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dasychira/)*
+*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dasychira/)*

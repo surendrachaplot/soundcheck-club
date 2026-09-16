@@ -1,6 +1,6 @@
 # Waldo
 
-Waldo is a Bass and Dubstep artist with 2 upcoming club dates listed on soundcheck as of Tue, 15 Sept 2026, next at OT301, Amsterdam on Sat, 24 Oct 2026.
+Waldo is a Bass and Dubstep artist with 2 upcoming club dates listed on soundcheck as of Wed, 16 Sept 2026, next at OT301, Amsterdam on Sat, 24 Oct 2026.
 
 Waldo is a bass and dubstep artist based in Italy, tracked on soundcheck, with 64 sets logged across Amsterdam, Auckland, Berlin and Geneva and 1 more. Often billed alongside Dolce Potente, Industrial Romantico and Tania Kim. Next up: OT301, Amsterdam on Sat 24 Oct.
 
@@ -26,4 +26,4 @@ Waldo is a bass and dubstep artist based in Italy, tracked on soundcheck, with 6
 
 Dolce Potente, Industrial Romantico, Tania Kim
 
-*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/waldo/)*
+*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/waldo/)*

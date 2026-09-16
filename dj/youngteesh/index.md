@@ -1,14 +1,15 @@
 # Young Teesh
 
-Young Teesh is a Club and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 15 Sept 2026, next at 131 Mccormack St, Toronto on Fri, 25 Sept 2026.
+Young Teesh is a Club and Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 16 Sept 2026, next at 131 Mccormack St, Toronto on Fri, 25 Sept 2026.
 
-Young Teesh is a club and techno artist tracked on soundcheck, with 111 sets logged across Berlin, Losangeles, Montreal and Newyorkcity and 2 more. Often billed alongside Nino Brown (2), HVN (1) and Bambii. Next up: 131 Mccormack St, Toronto on Fri 25 Sept.
+Young Teesh is a club and techno artist tracked on soundcheck, with 112 sets logged across Berlin, Losangeles, Montreal and Newyorkcity and 2 more. Often billed alongside Nino Brown (2), HVN (1) and Bambii. Next up: 131 Mccormack St, Toronto on Fri 25 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 25 Sept 2026 | 131 Mccormack St | Toronto |
+| Sat, 26 Sept 2026 | TBA | Toronto |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Young Teesh is a club and techno artist tracked on soundcheck, with 111 sets log
 
 Nino Brown (2), HVN (1), Bambii
 
-*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/youngteesh/)*
+*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/youngteesh/)*

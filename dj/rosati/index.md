@@ -1,6 +1,6 @@
 # Rosati
 
-Rosati is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Tue, 15 Sept 2026, next at export, Rotterdam on Sat, 19 Sept 2026.
+Rosati is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Wed, 16 Sept 2026, next at export, Rotterdam on Sat, 19 Sept 2026.
 
 Rosati is a techno and house artist tracked on soundcheck, with 85 sets logged across Amsterdam, Athens, Berlin and Brussels and 21 more. Often billed alongside Steffi, Comrade Winston and DVS1. Next up: export, Rotterdam on Sat 19 Sept.
 
@@ -29,4 +29,4 @@ Rosati is a techno and house artist tracked on soundcheck, with 85 sets logged a
 
 Steffi, Comrade Winston, DVS1
 
-*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/rosati/)*
+*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/rosati/)*

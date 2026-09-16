@@ -1,6 +1,6 @@
 # Carla Schmitt
 
-Carla Schmitt is a Techno and Trance artist with 3 upcoming club dates listed on soundcheck as of Tue, 15 Sept 2026, next at La Machine Du Moulin Rouge, Paris on Fri, 18 Sept 2026.
+Carla Schmitt is a Techno and Trance artist with 3 upcoming club dates listed on soundcheck as of Wed, 16 Sept 2026, next at La Machine Du Moulin Rouge, Paris on Fri, 18 Sept 2026.
 
 Carla Schmitt is a techno and trance artist tracked on soundcheck, with 76 sets logged across Barcelona, Basel, Berlin and Cologne and 17 more. Often billed alongside DURDENHAUER, KTK (DE) and Yasmin Regisford. Next up: La Machine Du Moulin Rouge, Paris on Fri 18 Sept.
 
@@ -27,4 +27,4 @@ Carla Schmitt is a techno and trance artist tracked on soundcheck, with 76 sets 
 
 DURDENHAUER, KTK (DE), Yasmin Regisford
 
-*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/carlaschmitt/)*
+*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/carlaschmitt/)*

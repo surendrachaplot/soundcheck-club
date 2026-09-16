@@ -1,6 +1,6 @@
 # Tony Romera
 
-Tony Romera is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Tue, 15 Sept 2026, next at Le Sucre, Lyon on Sat, 26 Sept 2026.
+Tony Romera is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Wed, 16 Sept 2026, next at Le Sucre, Lyon on Sat, 26 Sept 2026.
 
 Tony Romera is a house and tech house artist tracked on soundcheck, with 31 sets logged across Austin, Boston, Chicago and Cologne and 14 more. Often billed alongside Crusy, CASSIMM and LOVRA. Next up: Le Sucre, Lyon on Sat 26 Sept.
 
@@ -25,4 +25,4 @@ Tony Romera is a house and tech house artist tracked on soundcheck, with 31 sets
 
 Crusy, CASSIMM, LOVRA
 
-*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tonyromera/)*
+*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tonyromera/)*

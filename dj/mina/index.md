@@ -1,6 +1,6 @@
 # Mina
 
-Mina is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Tue, 15 Sept 2026, next at 528 Ibiza, Ibiza on Sat, 19 Sept 2026.
+Mina is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Wed, 16 Sept 2026, next at 528 Ibiza, Ibiza on Sat, 19 Sept 2026.
 
 Mina is a techno and house artist tracked on soundcheck, with 90 sets logged across Amsterdam, Bangkok, Barcelona and Berlin and 29 more. Often billed alongside Bryte, SANA and Tash LC. Next up: 528 Ibiza, Ibiza on Sat 19 Sept.
 
@@ -27,4 +27,4 @@ Mina is a techno and house artist tracked on soundcheck, with 90 sets logged acr
 
 Bryte, SANA, Tash LC
 
-*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mina/)*
+*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mina/)*

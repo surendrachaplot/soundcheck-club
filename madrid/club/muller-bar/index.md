@@ -1,6 +1,6 @@
 # Muller Bar
 
-Muller Bar is a music venue in Madrid with 2 upcoming nights listed on soundcheck as of Tue, 15 Sept 2026; the next is "SOLAVA (SOund of LAVApies Music Kollektive)" on Sat, 19 Sept 2026.
+Muller Bar is a music venue in Madrid with 2 upcoming nights listed on soundcheck as of Wed, 16 Sept 2026; the next is "SOLAVA (SOund of LAVApies Music Kollektive)" on Sat, 19 Sept 2026.
 
 Muller Bar is a music venue in Madrid listed on soundcheck. 2 upcoming nights, with line-ups including MAMA LOVE, Sito and WO KEM. Browse upcoming dates, start times and who's playing. C. de las Huertas, 38, Centro, 28014 Madrid, Spain.
 
@@ -15,4 +15,4 @@ Muller Bar is a music venue in Madrid listed on soundcheck. 2 upcoming nights, w
 
 C. de las Huertas, 38, Centro, 28014 Madrid, Spain, Madrid
 
-*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/muller-bar/)*
+*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/muller-bar/)*

@@ -1,6 +1,6 @@
 # Neil V
 
-Neil V is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Tue, 15 Sept 2026, next at Noorderlicht Café, Amsterdam on Wed, 21 Oct 2026.
+Neil V is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Wed, 16 Sept 2026, next at Noorderlicht Café, Amsterdam on Wed, 21 Oct 2026.
 
 Neil V is a techno and house artist tracked on soundcheck, with 12 sets logged across Amsterdam and Detroit. Often billed alongside T.Linder, DJ Roach and DJ Seoul. Next up: Noorderlicht Café, Amsterdam on Wed 21 Oct.
 
@@ -26,4 +26,4 @@ Neil V is a techno and house artist tracked on soundcheck, with 12 sets logged a
 
 T.Linder, DJ Roach, DJ Seoul
 
-*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/neilv/)*
+*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/neilv/)*

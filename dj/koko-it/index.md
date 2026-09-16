@@ -1,6 +1,6 @@
 # KOKO (IT)
 
-KOKO (IT) is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Tue, 15 Sept 2026, next at Gallery, London on Fri, 2 Oct 2026.
+KOKO (IT) is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Wed, 16 Sept 2026, next at Gallery, London on Fri, 2 Oct 2026.
 
 KOKO (IT) is a house and deep house artist based in Italy, tracked on soundcheck, with 33 sets logged across Amsterdam, Barcelona, Ibiza and Leeds and 8 more. Often billed alongside Elliot Schooling, Liam Palmer and Locky. Next up: Gallery, London on Fri 2 Oct.
 
@@ -25,4 +25,4 @@ KOKO (IT) is a house and deep house artist based in Italy, tracked on soundcheck
 
 Elliot Schooling, Liam Palmer, Locky
 
-*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/koko-it/)*
+*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/koko-it/)*

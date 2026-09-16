@@ -1,6 +1,6 @@
 # ANIN
 
-ANIN is a Bass and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 15 Sept 2026, next at control, Bucharest on Sat, 19 Sept 2026.
+ANIN is a Bass and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 16 Sept 2026, next at control, Bucharest on Sat, 19 Sept 2026.
 
 ANIN is a bass and techno artist tracked on soundcheck, with 7 sets logged across Bucharest and Kyoto. Often billed alongside Drao, Low Freq and Riddim Bandits. Next up: control, Bucharest on Sat 19 Sept.
 
@@ -23,4 +23,4 @@ ANIN is a bass and techno artist tracked on soundcheck, with 7 sets logged acros
 
 Drao, Low Freq, Riddim Bandits
 
-*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/anin/)*
+*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/anin/)*

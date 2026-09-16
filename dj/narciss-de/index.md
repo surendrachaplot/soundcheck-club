@@ -1,14 +1,13 @@
 # Narciss
 
-Narciss is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Tue, 15 Sept 2026, next at Oran Mor, Glasgow on Tue, 15 Sept 2026.
+Narciss is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Wed, 16 Sept 2026, next at BASIS, Utrecht on Sat, 10 Oct 2026.
 
-Narciss is a techno and house artist tracked on soundcheck, with 195 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 54 more. Often billed alongside MALUGI, DJ Gigola and Morphena. Next up: Oran Mor, Glasgow on Tue 15 Sept.
+Narciss is a techno and house artist tracked on soundcheck, with 195 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 54 more. Often billed alongside MALUGI, DJ Gigola and Morphena. Next up: BASIS, Utrecht on Sat 10 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Tue, 15 Sept 2026 | Oran Mor | Glasgow |
 | Sat, 10 Oct 2026 | BASIS | Utrecht |
 | Sat, 17 Oct 2026 | Azimut Club | Turin |
 | Fri, 6 Nov 2026 | TBA - Los Angeles | Los Angeles |
@@ -16,6 +15,7 @@ Narciss is a techno and house artist tracked on soundcheck, with 195 sets logged
 
 ## Recently played
 
+- Oran Mor, Glasgow — Tue, 15 Sept 2026
 - Amp, Munster — Sat, 12 Sept 2026
 - Konijnenwei, Antwerp — Sat, 29 Aug 2026
 - essaim, Paris — Sat, 8 Aug 2026
@@ -23,10 +23,9 @@ Narciss is a techno and house artist tracked on soundcheck, with 195 sets logged
 - PRST, Vienna — Fri, 31 Jul 2026
 - ÆDEN x MARMORBAR: Fields & Spaces, Berlin — Sat, 25 Jul 2026
 - MS Artville, Hamburg — Sat, 18 Jul 2026
-- SMUT Athens, Athens — Sat, 13 Jun 2026
 
 ## Shares bills with
 
 MALUGI, DJ Gigola, Morphena
 
-*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/narciss-de/)*
+*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/narciss-de/)*

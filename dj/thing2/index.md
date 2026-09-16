@@ -1,6 +1,6 @@
 # thing2
 
-thing2 is a Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 15 Sept 2026, next at Moon Club, Lisbon on Fri, 25 Sept 2026.
+thing2 is a Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 16 Sept 2026, next at Moon Club, Lisbon on Fri, 25 Sept 2026.
 
 thing2 is a techno artist tracked on soundcheck, with 4 sets logged across Lisbon. Often billed alongside thing1, Ananda (BR) and BANU (2). Next up: Moon Club, Lisbon on Fri 25 Sept.
 
@@ -20,4 +20,4 @@ thing2 is a techno artist tracked on soundcheck, with 4 sets logged across Lisbo
 
 thing1, Ananda (BR), BANU (2)
 
-*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/thing2/)*
+*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/thing2/)*

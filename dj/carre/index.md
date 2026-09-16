@@ -1,6 +1,6 @@
 # Carré
 
-Carré is a Bass and Techno artist with 10 upcoming club dates listed on soundcheck as of Tue, 15 Sept 2026, next at The Love Inn, Bristol on Fri, 18 Sept 2026.
+Carré is a Bass and Techno artist with 10 upcoming club dates listed on soundcheck as of Wed, 16 Sept 2026, next at The Love Inn, Bristol on Fri, 18 Sept 2026.
 
 Carré is a bass and techno artist based in United States of America, tracked on soundcheck, with 76 sets logged across Amsterdam, Berlin, Brighton and Bristol and 19 more. Often billed alongside Samwise (US), Darwin and Seyer (UK). Next up: The Love Inn, Bristol on Fri 18 Sept.
 
@@ -34,4 +34,4 @@ Carré is a bass and techno artist based in United States of America, tracked on
 
 Samwise (US), Darwin, Seyer (UK)
 
-*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/carre/)*
+*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/carre/)*

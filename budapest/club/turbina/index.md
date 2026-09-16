@@ -1,6 +1,6 @@
 # Turbina
 
-Turbina is a music venue in Budapest with 8 upcoming nights listed on soundcheck as of Tue, 15 Sept 2026; the next is "KAKAÓ 016 with Auerbach, BALARAM, Flipo, Tündérke + Clubroom by Hardcore4Kidz" on Fri, 18 Sept 2026.
+Turbina is a music venue in Budapest with 8 upcoming nights listed on soundcheck as of Wed, 16 Sept 2026; the next is "KAKAÓ 016 with Auerbach, BALARAM, Flipo, Tündérke + Clubroom by Hardcore4Kidz" on Fri, 18 Sept 2026.
 
 Turbina is a music venue in Budapest listed on soundcheck. 8 upcoming nights, with line-ups including 96zen, Akác, Arash Ete and Auerbach and 2 more. Browse upcoming dates, start times and who's playing. Budapest, Vajdahunyad street 4., 1082.
 
@@ -21,4 +21,4 @@ Turbina is a music venue in Budapest listed on soundcheck. 8 upcoming nights, wi
 
 Budapest, Vajdahunyad street 4., 1082, Budapest
 
-*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/budapest/club/turbina/)*
+*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/budapest/club/turbina/)*

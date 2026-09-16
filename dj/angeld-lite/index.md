@@ -1,6 +1,6 @@
 # Angel D'lite
 
-Angel D'lite is a House and Techno artist with 9 upcoming club dates listed on soundcheck as of Tue, 15 Sept 2026, next at Stereo, Glasgow on Fri, 25 Sept 2026.
+Angel D'lite is a House and Techno artist with 9 upcoming club dates listed on soundcheck as of Wed, 16 Sept 2026, next at Stereo, Glasgow on Fri, 25 Sept 2026.
 
 Angel D'lite is a house and techno artist tracked on soundcheck, with 241 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 38 more. Often billed alongside dj sweet6teen, THC and FAFF. Next up: Stereo, Glasgow on Fri 25 Sept.
 
@@ -33,4 +33,4 @@ Angel D'lite is a house and techno artist tracked on soundcheck, with 241 sets l
 
 dj sweet6teen, THC, FAFF
 
-*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/angeld-lite/)*
+*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/angeld-lite/)*

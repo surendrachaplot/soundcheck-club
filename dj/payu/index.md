@@ -1,6 +1,6 @@
 # Payu
 
-Payu is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Tue, 15 Sept 2026, next at Elsewhere, Bangkok on Sat, 19 Sept 2026.
+Payu is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Wed, 16 Sept 2026, next at Elsewhere, Bangkok on Sat, 19 Sept 2026.
 
 Payu is a techno and house artist tracked on soundcheck, with 67 sets logged across Bali, Bangkok and Seoul. Often billed alongside JAKRIN, Jirus (MELA) and DJ TADA. Next up: Elsewhere, Bangkok on Sat 19 Sept.
 
@@ -28,4 +28,4 @@ Payu is a techno and house artist tracked on soundcheck, with 67 sets logged acr
 
 JAKRIN, Jirus (MELA), DJ TADA
 
-*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/payu/)*
+*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/payu/)*

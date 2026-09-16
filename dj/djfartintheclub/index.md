@@ -1,6 +1,6 @@
 # DJ Fart in the Club
 
-DJ Fart in the Club is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Tue, 15 Sept 2026, next at TBA - Out ‘n’ About Treesort, Portland on Thu, 24 Sept 2026.
+DJ Fart in the Club is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Wed, 16 Sept 2026, next at TBA - Out ‘n’ About Treesort, Portland on Thu, 24 Sept 2026.
 
 DJ Fart in the Club is a techno and house artist tracked on soundcheck, with 119 sets logged across Amsterdam, Barcelona, Berlin and Brisbane and 38 more. Often billed alongside deep creep, Kia (AU) and CCL. Next up: TBA - Out ‘n’ About Treesort, Portland on Thu 24 Sept.
 
@@ -28,4 +28,4 @@ DJ Fart in the Club is a techno and house artist tracked on soundcheck, with 119
 
 deep creep, Kia (AU), CCL
 
-*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djfartintheclub/)*
+*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djfartintheclub/)*

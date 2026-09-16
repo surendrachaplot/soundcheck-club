@@ -1,6 +1,6 @@
 # Erin O'Connor
 
-Erin O'Connor is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Tue, 15 Sept 2026, next at Orient Express, Seattle on Fri, 18 Sept 2026.
+Erin O'Connor is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Wed, 16 Sept 2026, next at Orient Express, Seattle on Fri, 18 Sept 2026.
 
 Erin O'Connor is a house and deep house artist tracked on soundcheck, with 7 sets logged across Seattle. Often billed alongside Trinitron, Brian Lyons and Eddie Lv. Next up: Orient Express, Seattle on Fri 18 Sept.
 
@@ -23,4 +23,4 @@ Erin O'Connor is a house and deep house artist tracked on soundcheck, with 7 set
 
 Trinitron, Brian Lyons, Eddie Lv
 
-*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/erinoconnor/)*
+*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/erinoconnor/)*

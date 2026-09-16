@@ -1,6 +1,6 @@
 # ANØMALY
 
-ANØMALY is a Techno and Acid artist with 1 upcoming club date listed on soundcheck as of Tue, 15 Sept 2026, next at Studio56, Paris on Sun, 13 Sept 2026.
+ANØMALY is a Techno and Acid artist with 1 upcoming club date listed on soundcheck as of Wed, 16 Sept 2026, next at Studio56, Paris on Sun, 13 Sept 2026.
 
 ANØMALY is a techno and acid artist tracked on soundcheck, with 12 sets logged across Paris. Often billed alongside A A V, Docteur Redrum and Hemei. Next up: Studio56, Paris on Sun 13 Sept.
 
@@ -25,4 +25,4 @@ ANØMALY is a techno and acid artist tracked on soundcheck, with 12 sets logged 
 
 A A V, Docteur Redrum, Hemei
 
-*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/anomaly/)*
+*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/anomaly/)*

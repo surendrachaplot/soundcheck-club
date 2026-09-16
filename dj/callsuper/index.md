@@ -1,6 +1,6 @@
 # Call Super
 
-Call Super is a House and Techno artist with 10 upcoming club dates listed on soundcheck as of Tue, 15 Sept 2026, next at UNO MALTA, Malta on Thu, 17 Sept 2026.
+Call Super is a House and Techno artist with 10 upcoming club dates listed on soundcheck as of Wed, 16 Sept 2026, next at UNO MALTA, Malta on Thu, 17 Sept 2026.
 
 Call Super is a house and techno artist tracked on soundcheck, with 212 sets logged across Amsterdam, Antwerp, Bali and Barcelona and 63 more. Often billed alongside Shanti Celeste, Anz and Objekt. Next up: UNO MALTA, Malta on Thu 17 Sept.
 
@@ -34,4 +34,4 @@ Call Super is a house and techno artist tracked on soundcheck, with 212 sets log
 
 Shanti Celeste, Anz, Objekt
 
-*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/callsuper/)*
+*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/callsuper/)*

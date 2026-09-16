@@ -1,8 +1,8 @@
 # PETERBLUE
 
-PETERBLUE is a Techno and Trance artist with 4 upcoming club dates listed on soundcheck as of Tue, 15 Sept 2026, next at Fuse, Brussels on Fri, 18 Sept 2026.
+PETERBLUE is a Techno and Trance artist with 5 upcoming club dates listed on soundcheck as of Wed, 16 Sept 2026, next at Fuse, Brussels on Fri, 18 Sept 2026.
 
-PETERBLUE is a techno and trance artist tracked on soundcheck, with 59 sets logged across Amsterdam, Austin, Barcelona and Berlin and 27 more. Often billed alongside Adrian Mills, Noise Mafia and fumi (DE). Next up: Fuse, Brussels on Fri 18 Sept.
+PETERBLUE is a techno and trance artist tracked on soundcheck, with 60 sets logged across Amsterdam, Austin, Barcelona and Berlin and 27 more. Often billed alongside Noise Mafia, Adrian Mills and fumi (DE). Next up: Fuse, Brussels on Fri 18 Sept.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ PETERBLUE is a techno and trance artist tracked on soundcheck, with 59 sets logg
 | Fri, 18 Sept 2026 | Fuse | Brussels |
 | Fri, 25 Sept 2026 | Nitsa Club | Barcelona |
 | Fri, 2 Oct 2026 | 99 Scott Ave | New York City |
+| Sat, 3 Oct 2026 | Radius | Chicago |
 | Sat, 24 Oct 2026 | H7 Warehouse | Amsterdam |
 
 ## Recently played
@@ -26,6 +27,6 @@ PETERBLUE is a techno and trance artist tracked on soundcheck, with 59 sets logg
 
 ## Shares bills with
 
-Adrian Mills, Noise Mafia, fumi (DE)
+Noise Mafia, Adrian Mills, fumi (DE)
 
-*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/peterblue/)*
+*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/peterblue/)*

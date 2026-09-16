@@ -1,6 +1,6 @@
 # Manuel Falardeau
 
-Manuel Falardeau is a House and Deep House artist with 2 upcoming club dates listed on soundcheck as of Tue, 15 Sept 2026, next at Vino Disco, Montreal on Fri, 25 Sept 2026.
+Manuel Falardeau is a House and Deep House artist with 2 upcoming club dates listed on soundcheck as of Wed, 16 Sept 2026, next at Vino Disco, Montreal on Fri, 25 Sept 2026.
 
 Manuel Falardeau is a house and deep house artist tracked on soundcheck, with 44 sets logged across Montreal. Often billed alongside Latour, DUZA and Lex Ferenda. Next up: Vino Disco, Montreal on Fri 25 Sept.
 
@@ -26,4 +26,4 @@ Manuel Falardeau is a house and deep house artist tracked on soundcheck, with 44
 
 Latour, DUZA, Lex Ferenda
 
-*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/manuelfalardeau/)*
+*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/manuelfalardeau/)*

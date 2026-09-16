@@ -1,14 +1,13 @@
 # Gaskin
 
-Gaskin is a House and Tech House artist with 12 upcoming club dates listed on soundcheck as of Tue, 15 Sept 2026, next at Hï Ibiza, Ibiza on Tue, 15 Sept 2026.
+Gaskin is a House and Tech House artist with 11 upcoming club dates listed on soundcheck as of Wed, 16 Sept 2026, next at UNO MALTA, Malta on Thu, 17 Sept 2026.
 
-Gaskin is a house and tech house artist tracked on soundcheck, with 184 sets logged across Aberdeen, Amsterdam, Antwerp and Austin and 34 more. Often billed alongside Ellia Jaya, L.P. Rhythm and Ellam. Next up: Hï Ibiza, Ibiza on Tue 15 Sept.
+Gaskin is a house and tech house artist tracked on soundcheck, with 184 sets logged across Aberdeen, Amsterdam, Antwerp and Austin and 34 more. Often billed alongside Ellia Jaya, L.P. Rhythm and Ellam. Next up: UNO MALTA, Malta on Thu 17 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Tue, 15 Sept 2026 | Hï Ibiza | Ibiza |
 | Thu, 17 Sept 2026 | UNO MALTA | Malta |
 | Fri, 18 Sept 2026 | UNO MALTA | Malta |
 | Fri, 18 Sept 2026 | Tunnel | Milan |
@@ -23,6 +22,7 @@ Gaskin is a house and tech house artist tracked on soundcheck, with 184 sets log
 
 ## Recently played
 
+- Hï Ibiza, Ibiza — Tue, 15 Sept 2026
 - Colorado Charlie, The Hague — Sun, 13 Sept 2026
 - Palmerstown House Estate, Dublin — Fri, 11 Sept 2026
 - Los Angeles State Historic Park, Los Angeles — Sun, 6 Sept 2026
@@ -30,10 +30,9 @@ Gaskin is a house and tech house artist tracked on soundcheck, with 184 sets log
 - Avalon Hollywood, Los Angeles — Sun, 6 Sept 2026
 - 528 Ibiza, Ibiza — Fri, 4 Sept 2026
 - Amnesia Ibiza, Ibiza — Sun, 30 Aug 2026
-- Thuishaven, Amsterdam — Sun, 16 Aug 2026
 
 ## Shares bills with
 
 Ellia Jaya, L.P. Rhythm, Ellam
 
-*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/gaskin/)*
+*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/gaskin/)*

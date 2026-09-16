@@ -1,6 +1,6 @@
 # Ruby Room
 
-Ruby Room is a music venue in Tokyo with 2 upcoming nights listed on soundcheck as of Tue, 15 Sept 2026; the next is "Groovy Ruby" on Fri, 18 Sept 2026.
+Ruby Room is a music venue in Tokyo with 2 upcoming nights listed on soundcheck as of Wed, 16 Sept 2026; the next is "Groovy Ruby" on Fri, 18 Sept 2026.
 
 Ruby Room is a music venue in Tokyo listed on soundcheck. 2 upcoming nights, with line-ups including Alba (2), DJason, Hang the DJ and Takumi's Afterparty. Browse upcoming dates, start times and who's playing. 2-25-17 Dogenzaka,  Shibuya-ku, Tokyo, 150-0043 Japan.
 
@@ -15,4 +15,4 @@ Ruby Room is a music venue in Tokyo listed on soundcheck. 2 upcoming nights, wit
 
 2-25-17 Dogenzaka,  Shibuya-ku, Tokyo, 150-0043 Japan, Tokyo
 
-*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/ruby-room/)*
+*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/ruby-room/)*

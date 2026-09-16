@@ -1,6 +1,6 @@
 # Supermarket
 
-Supermarket is a music venue in Zurich with 6 upcoming nights listed on soundcheck as of Tue, 15 Sept 2026; the next is "KURZ VOR TANZ" on Fri, 18 Sept 2026.
+Supermarket is a music venue in Zurich with 6 upcoming nights listed on soundcheck as of Wed, 16 Sept 2026; the next is "KURZ VOR TANZ" on Fri, 18 Sept 2026.
 
 Supermarket is a music venue in Zurich listed on soundcheck. 6 upcoming nights, with line-ups including FLETCH, Anthik, Benosah and BRAINDAAMAGE and 2 more. Browse upcoming dates, start times and who's playing. Geroldstrasse 17; 8005, Zürich; Switzerland.
 
@@ -19,4 +19,4 @@ Supermarket is a music venue in Zurich listed on soundcheck. 6 upcoming nights, 
 
 Geroldstrasse 17; 8005, Zürich; Switzerland, Zurich
 
-*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/zurich/club/supermarket/)*
+*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/zurich/club/supermarket/)*

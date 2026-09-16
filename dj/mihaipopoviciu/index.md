@@ -1,6 +1,6 @@
 # Mihai Popoviciu
 
-Mihai Popoviciu is a House and Deep House artist with 6 upcoming club dates listed on soundcheck as of Tue, 15 Sept 2026, next at Minimüzikhol, Istanbul on Fri, 18 Sept 2026.
+Mihai Popoviciu is a House and Deep House artist with 6 upcoming club dates listed on soundcheck as of Wed, 16 Sept 2026, next at Minimüzikhol, Istanbul on Fri, 18 Sept 2026.
 
 Mihai Popoviciu is a house and deep house artist tracked on soundcheck, with 73 sets logged across Amsterdam, Barcelona, Belgrade and Berlin and 30 more. Often billed alongside Lola Palmer, Andrey Pushkarev and Janeret. Next up: Minimüzikhol, Istanbul on Fri 18 Sept.
 
@@ -30,4 +30,4 @@ Mihai Popoviciu is a house and deep house artist tracked on soundcheck, with 73 
 
 Lola Palmer, Andrey Pushkarev, Janeret
 
-*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mihaipopoviciu/)*
+*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mihaipopoviciu/)*

@@ -1,6 +1,6 @@
 # Lady Vibrator
 
-Lady Vibrator is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 15 Sept 2026, next at TBA, Mexico City on Sat, 19 Sept 2026.
+Lady Vibrator is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 16 Sept 2026, next at TBA, Mexico City on Sat, 19 Sept 2026.
 
 Lady Vibrator is a house and techno artist based in United States of America, tracked on soundcheck, with 25 sets logged across Detroit and Mexicocity. Often billed alongside JEM (USA), Allbyna and DJ Good Evening. Next up: TBA, Mexicocity on Sat 19 Sept.
 
@@ -25,4 +25,4 @@ Lady Vibrator is a house and techno artist based in United States of America, tr
 
 JEM (USA), Allbyna, DJ Good Evening
 
-*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ladyvibrator/)*
+*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ladyvibrator/)*

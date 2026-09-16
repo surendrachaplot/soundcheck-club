@@ -1,6 +1,6 @@
 # SOLECTA
 
-SOLECTA is a Drum & Bass and Jungle artist with 2 upcoming club dates listed on soundcheck as of Tue, 15 Sept 2026, next at Inn Deep, Glasgow on Wed, 16 Sept 2026.
+SOLECTA is a Drum & Bass and Jungle artist with 2 upcoming club dates listed on soundcheck as of Wed, 16 Sept 2026, next at Inn Deep, Glasgow on Wed, 16 Sept 2026.
 
 SOLECTA is a drum & bass and jungle artist based in United Kingdom, tracked on soundcheck, with 23 sets logged across Edinburgh and Glasgow. Often billed alongside Corran, ArthurDnB and Amber Leith. Next up: Inn Deep, Glasgow on Wed 16 Sept.
 
@@ -26,4 +26,4 @@ SOLECTA is a drum & bass and jungle artist based in United Kingdom, tracked on s
 
 Corran, ArthurDnB, Amber Leith
 
-*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/solecta/)*
+*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/solecta/)*

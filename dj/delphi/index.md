@@ -1,6 +1,6 @@
 # Valerio Delphi
 
-Valerio Delphi is a Disco and House artist with 1 upcoming club date listed on soundcheck as of Tue, 15 Sept 2026, next at BARDO, Milan on Thu, 17 Sept 2026.
+Valerio Delphi is a Disco and House artist with 1 upcoming club date listed on soundcheck as of Wed, 16 Sept 2026, next at BARDO, Milan on Thu, 17 Sept 2026.
 
 Valerio Delphi is a disco and house artist tracked on soundcheck, with 11 sets logged across Milan, Naples and Rome. Often billed alongside Les Inferno, Antonio Aiello and Basically Ugly Covers. Next up: BARDO, Milan on Thu 17 Sept.
 
@@ -25,4 +25,4 @@ Valerio Delphi is a disco and house artist tracked on soundcheck, with 11 sets l
 
 Les Inferno, Antonio Aiello, Basically Ugly Covers
 
-*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/delphi/)*
+*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/delphi/)*

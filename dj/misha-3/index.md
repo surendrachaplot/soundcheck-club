@@ -1,6 +1,6 @@
 # Misha (3)
 
-Misha (3) is a Tech House and Club artist with 2 upcoming club dates listed on soundcheck as of Tue, 15 Sept 2026, next at Die Rakete, Nürnberg on Fri, 2 Oct 2026.
+Misha (3) is a Tech House and Club artist with 2 upcoming club dates listed on soundcheck as of Wed, 16 Sept 2026, next at Die Rakete, Nürnberg on Fri, 2 Oct 2026.
 
 Misha (3) is a tech house and club artist based in Germany, tracked on soundcheck, with 10 sets logged across Amsterdam, Berlin, London and Mexicocity and 3 more. Often billed alongside BOTHEN, Bailey Ibbs and Bambounou. Next up: Die Rakete, Nurnberg on Fri 2 Oct.
 
@@ -26,4 +26,4 @@ Misha (3) is a tech house and club artist based in Germany, tracked on soundchec
 
 BOTHEN, Bailey Ibbs, Bambounou
 
-*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/misha-3/)*
+*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/misha-3/)*

@@ -1,6 +1,6 @@
 # Alexia Glensy
 
-Alexia Glensy is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Tue, 15 Sept 2026, next at MOGO, Milan on Fri, 18 Sept 2026.
+Alexia Glensy is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Wed, 16 Sept 2026, next at MOGO, Milan on Fri, 18 Sept 2026.
 
 Alexia Glensy is a house and techno artist tracked on soundcheck, with 165 sets logged across Amsterdam, Barcelona, Berlin and Boston and 33 more. Often billed alongside Alex Dima, Gabbs and Christian AB. Next up: MOGO, Milan on Fri 18 Sept.
 
@@ -29,4 +29,4 @@ Alexia Glensy is a house and techno artist tracked on soundcheck, with 165 sets 
 
 Alex Dima, Gabbs, Christian AB
 
-*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/alexiaglensy/)*
+*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/alexiaglensy/)*

@@ -1,6 +1,6 @@
 # Tristan Arp
 
-Tristan Arp is a Bass and Techno artist with 2 upcoming club dates listed on soundcheck as of Tue, 15 Sept 2026, next at Ilion Plus, Athens on Sat, 26 Sept 2026.
+Tristan Arp is a Bass and Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 16 Sept 2026, next at Ilion Plus, Athens on Sat, 26 Sept 2026.
 
 Tristan Arp is a bass and techno artist tracked on soundcheck, with 33 sets logged across Athens, Austin, Bali and Barcelona and 14 more. Often billed alongside DJ DEADNAME, Daigos and E.O.U. Next up: Ilion Plus, Athens on Sat 26 Sept.
 
@@ -26,4 +26,4 @@ Tristan Arp is a bass and techno artist tracked on soundcheck, with 33 sets logg
 
 DJ DEADNAME, Daigos, E.O.U
 
-*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tristanarp/)*
+*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tristanarp/)*

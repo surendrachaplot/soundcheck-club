@@ -1,6 +1,6 @@
 # Audio Club
 
-Audio Club is a music venue in Geneva with 4 upcoming nights listed on soundcheck as of Tue, 15 Sept 2026; the next is "Birds of Mind · RIMBU · JON CERUTT" on Fri, 18 Sept 2026.
+Audio Club is a music venue in Geneva with 4 upcoming nights listed on soundcheck as of Wed, 16 Sept 2026; the next is "Birds of Mind · RIMBU · JON CERUTT" on Fri, 18 Sept 2026.
 
 Audio Club is a music venue in Geneva listed on soundcheck. 4 upcoming nights, with line-ups including Auguste Safar, Birds of Mind, Cesar Merveille and La Forêt and 2 more. Browse upcoming dates, start times and who's playing. Boissonnas 20,  1227 Les Acacias - Genève.
 
@@ -17,4 +17,4 @@ Audio Club is a music venue in Geneva listed on soundcheck. 4 upcoming nights, w
 
 Boissonnas 20,  1227 Les Acacias - Genève, Geneva
 
-*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/geneva/club/audio-club/)*
+*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/geneva/club/audio-club/)*

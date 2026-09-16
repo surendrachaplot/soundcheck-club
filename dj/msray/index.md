@@ -1,6 +1,6 @@
 # Ms Ray
 
-Ms Ray is a Pop and Electronica artist with 1 upcoming club date listed on soundcheck as of Tue, 15 Sept 2026, next at Various Venues, Bristol, Bristol on Sat, 7 Nov 2026.
+Ms Ray is a Pop and Electronica artist with 1 upcoming club date listed on soundcheck as of Wed, 16 Sept 2026, next at Various Venues, Bristol, Bristol on Sat, 7 Nov 2026.
 
 Ms Ray is a pop and electronica artist based in United Kingdom, tracked on soundcheck, with 4 sets logged across Berlin, Bristol, Leeds and London. Often billed alongside 96 Back, A Good Year and Alex Wilcox. Next up: Various Venues, Bristol, Bristol on Sat 7 Nov.
 
@@ -20,4 +20,4 @@ Ms Ray is a pop and electronica artist based in United Kingdom, tracked on sound
 
 96 Back, A Good Year, Alex Wilcox
 
-*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/msray/)*
+*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/msray/)*

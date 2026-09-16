@@ -1,6 +1,6 @@
 # Pier 14
 
-Pier 14 is a music venue in Amsterdam with 1 upcoming night listed on soundcheck as of Tue, 15 Sept 2026; the next is "ADE BOAT KICKOFF W/ Moody Mehran, ZUKE B2B Thijs Koning & Ticey" on Wed, 21 Oct 2026.
+Pier 14 is a music venue in Amsterdam with 1 upcoming night listed on soundcheck as of Wed, 16 Sept 2026; the next is "ADE BOAT KICKOFF W/ Moody Mehran, ZUKE B2B Thijs Koning & Ticey" on Wed, 21 Oct 2026.
 
 Pier 14 is a music venue in Amsterdam listed on soundcheck. 1 upcoming night, with line-ups including Moody Mehran. Browse upcoming dates, start times and who's playing. PIER 14.
 
@@ -14,4 +14,4 @@ Pier 14 is a music venue in Amsterdam listed on soundcheck. 1 upcoming night, wi
 
 PIER 14, Amsterdam
 
-*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/pier-14/)*
+*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/pier-14/)*

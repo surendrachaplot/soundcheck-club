@@ -1,6 +1,6 @@
 # Jetti
 
-Jetti is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 15 Sept 2026, next at Skatecafe, Amsterdam on Fri, 23 Oct 2026.
+Jetti is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 16 Sept 2026, next at Skatecafe, Amsterdam on Fri, 23 Oct 2026.
 
 Jetti is a techno and house artist tracked on soundcheck, with 57 sets logged across Amsterdam, Berlin, Cologne and Rotterdam and 2 more. Often billed alongside Post, Jeans (NL) and David Vunk. Next up: Skatecafe, Amsterdam on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ Jetti is a techno and house artist tracked on soundcheck, with 57 sets logged ac
 
 Post, Jeans (NL), David Vunk
 
-*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jetti/)*
+*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jetti/)*

@@ -1,6 +1,6 @@
 # REES
 
-REES is a Italo Disco and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 15 Sept 2026, next at Outlaws Yacht Club, Leeds on Sun, 11 Oct 2026.
+REES is a Italo Disco and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 16 Sept 2026, next at Outlaws Yacht Club, Leeds on Sun, 11 Oct 2026.
 
 REES is an italo disco and techno artist tracked on soundcheck, with 15 sets logged across Berlin, Geneva, Leeds and London and 4 more. Often billed alongside Abdul Raeva, Jon Cornbill and Megan Leo. Next up: Outlaws Yacht Club, Leeds on Sun 11 Oct.
 
@@ -25,4 +25,4 @@ REES is an italo disco and techno artist tracked on soundcheck, with 15 sets log
 
 Abdul Raeva, Jon Cornbill, Megan Leo
 
-*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/rees/)*
+*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/rees/)*

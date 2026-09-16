@@ -1,6 +1,6 @@
 # Saltyacid Space
 
-Saltyacid Space is a music venue in Berlin with 2 upcoming nights listed on soundcheck as of Tue, 15 Sept 2026; the next is "Shared Scapes" on Sat, 19 Sept 2026.
+Saltyacid Space is a music venue in Berlin with 2 upcoming nights listed on soundcheck as of Wed, 16 Sept 2026; the next is "Shared Scapes" on Sat, 19 Sept 2026.
 
 Saltyacid Space is a music venue in Berlin listed on soundcheck. 2 upcoming nights, with line-ups including Al Hut, Andriy K., Anna Ivchenko and Jea Bjea. Browse upcoming dates, start times and who's playing. Uferweg, 10245, Berlin.
 
@@ -15,4 +15,4 @@ Saltyacid Space is a music venue in Berlin listed on soundcheck. 2 upcoming nigh
 
 Uferweg, 10245, Berlin, Berlin
 
-*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/saltyacid-space/)*
+*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/saltyacid-space/)*

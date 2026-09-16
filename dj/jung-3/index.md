@@ -1,6 +1,6 @@
 # Jung (3)
 
-Jung (3) is a Bass and Garage artist with 1 upcoming club date listed on soundcheck as of Tue, 15 Sept 2026, next at Şahika, Istanbul on Fri, 18 Sept 2026.
+Jung (3) is a Bass and Garage artist with 1 upcoming club date listed on soundcheck as of Wed, 16 Sept 2026, next at Şahika, Istanbul on Fri, 18 Sept 2026.
 
 Jung (3) is a bass and garage artist tracked on soundcheck, with 4 sets logged across Istanbul. Often billed alongside Murteza, Particles and Rijekä. Next up: Şahika, Istanbul on Fri 18 Sept.
 
@@ -20,4 +20,4 @@ Jung (3) is a bass and garage artist tracked on soundcheck, with 4 sets logged a
 
 Murteza, Particles, Rijekä
 
-*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jung-3/)*
+*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jung-3/)*

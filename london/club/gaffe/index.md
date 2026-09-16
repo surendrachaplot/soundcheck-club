@@ -1,6 +1,6 @@
 # Gaffe
 
-Gaffe is a music venue in London with 18 upcoming nights listed on soundcheck as of Tue, 15 Sept 2026; the next is "Refractor On Tour: London ● 5th Anniversary ●" on Fri, 18 Sept 2026.
+Gaffe is a music venue in London with 18 upcoming nights listed on soundcheck as of Wed, 16 Sept 2026; the next is "Refractor On Tour: London ● 5th Anniversary ●" on Fri, 18 Sept 2026.
 
 Gaffe is a music venue in London listed on soundcheck. 18 upcoming nights, with line-ups including 1BYAKKO, 3 Minds, Alien Communications and Aniaef and 2 more. Browse upcoming dates, start times and who's playing. 1 Anthony Way, N18 3QT.
 
@@ -23,4 +23,4 @@ Gaffe is a music venue in London listed on soundcheck. 18 upcoming nights, with 
 
 1 Anthony Way, N18 3QT, London
 
-*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/gaffe/)*
+*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/gaffe/)*

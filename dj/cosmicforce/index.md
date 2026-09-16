@@ -1,6 +1,6 @@
 # Cosmic Force
 
-Cosmic Force is a House and Acid artist with 1 upcoming club date listed on soundcheck as of Tue, 15 Sept 2026, next at Tempio del Futuro Perduto, Milan on Sat, 12 Dec 2026.
+Cosmic Force is a House and Acid artist with 1 upcoming club date listed on soundcheck as of Wed, 16 Sept 2026, next at Tempio del Futuro Perduto, Milan on Sat, 12 Dec 2026.
 
 Cosmic Force is a house and acid artist tracked on soundcheck, with 10 sets logged across Amsterdam, Mexicocity, Milan and Rotterdam and 2 more. Often billed alongside Richelle Soigni, Alessandro Parisi and Aroy Dee. Next up: Tempio del Futuro Perduto, Milan on Sat 12 Dec.
 
@@ -25,4 +25,4 @@ Cosmic Force is a house and acid artist tracked on soundcheck, with 10 sets logg
 
 Richelle Soigni, Alessandro Parisi, Aroy Dee
 
-*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/cosmicforce/)*
+*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/cosmicforce/)*

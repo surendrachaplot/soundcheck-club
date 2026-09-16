@@ -1,6 +1,6 @@
 # Subway
 
-Subway is a music venue in Cologne with 1 upcoming night listed on soundcheck as of Tue, 15 Sept 2026; the next is "IMMERNOCH! TANZEN" on Sat, 3 Oct 2026.
+Subway is a music venue in Cologne with 1 upcoming night listed on soundcheck as of Wed, 16 Sept 2026; the next is "IMMERNOCH! TANZEN" on Sat, 3 Oct 2026.
 
 Subway is a music venue in Cologne listed on soundcheck. 1 upcoming night, with line-ups including Irwin Leschet. Browse upcoming dates, start times and who's playing. Aachenerstr. 82-84; 50674 Cologne; Germany.
 
@@ -14,4 +14,4 @@ Subway is a music venue in Cologne listed on soundcheck. 1 upcoming night, with 
 
 Aachenerstr. 82-84; 50674 Cologne; Germany, Cologne
 
-*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/cologne/club/subway/)*
+*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/cologne/club/subway/)*

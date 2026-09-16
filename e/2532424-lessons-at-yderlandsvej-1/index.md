@@ -1,6 +1,6 @@
 # Lessons at Yderlandsvej 1
 
-Lessons at Yderlandsvej 1 on Fri 18 Sept, Copenhagen. 3 acts on the bill: Bella Sarris, Tania Just and Téa. House and Tech House. Preview the line-up and save it on soundcheck.
+Lessons at Yderlandsvej 1 on Fri 18 Sept, Copenhagen. 4 acts on the bill: Bella Sarris, Stella Zekri, Tania Just and Téa. House and Tech House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,6 +11,7 @@ Lessons at Yderlandsvej 1 on Fri 18 Sept, Copenhagen. 3 acts on the bill: Bella 
 ## Line-up
 
 - Bella Sarris
+- Stella Zekri
 - Tania Just
 - Téa
 

@@ -1,6 +1,6 @@
 # NUSNOOM
 
-NUSNOOM is a Techno and Electro artist with 4 upcoming club dates listed on soundcheck as of Tue, 15 Sept 2026, next at Faust, Seoul on Fri, 18 Sept 2026.
+NUSNOOM is a Techno and Electro artist with 4 upcoming club dates listed on soundcheck as of Wed, 16 Sept 2026, next at Faust, Seoul on Fri, 18 Sept 2026.
 
 NUSNOOM is a techno and electro artist based in South Korea, tracked on soundcheck, with 97 sets logged across Amsterdam, Bangkok, Berlin and Seoul. Often billed alongside Stann Lumo, Mars Parck and Marcus L. Next up: Faust, Seoul on Fri 18 Sept.
 
@@ -28,4 +28,4 @@ NUSNOOM is a techno and electro artist based in South Korea, tracked on soundche
 
 Stann Lumo, Mars Parck, Marcus L
 
-*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nusnoom/)*
+*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nusnoom/)*

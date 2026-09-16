@@ -1,6 +1,6 @@
 # NATHALIA (2)
 
-NATHALIA (2) is a Breakbeat and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 15 Sept 2026, next at Monarch, San Francisco/Oakland on Sat, 14 Nov 2026.
+NATHALIA (2) is a Breakbeat and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 16 Sept 2026, next at Monarch, San Francisco/Oakland on Sat, 14 Nov 2026.
 
 NATHALIA (2) is a breakbeat and techno artist tracked on soundcheck, with 12 sets logged across London and Sanfrancisco. Often billed alongside BIIANCO, Elianne and Harry Gay. Next up: Monarch, Sanfrancisco on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ NATHALIA (2) is a breakbeat and techno artist tracked on soundcheck, with 12 set
 
 BIIANCO, Elianne, Harry Gay
 
-*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nathalia-2/)*
+*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nathalia-2/)*

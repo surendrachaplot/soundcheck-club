@@ -1,6 +1,6 @@
 # DJ Candor
 
-DJ Candor is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 15 Sept 2026, next at Marble Bar, Detroit on Fri, 18 Sept 2026.
+DJ Candor is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 16 Sept 2026, next at Marble Bar, Detroit on Fri, 18 Sept 2026.
 
 DJ Candor is a techno and house artist based in United States of America, tracked on soundcheck, with 36 sets logged across Detroit. Often billed alongside Hood (US), Redax and Zafar. Next up: Marble Bar, Detroit on Fri 18 Sept.
 
@@ -25,4 +25,4 @@ DJ Candor is a techno and house artist based in United States of America, tracke
 
 Hood (US), Redax, Zafar
 
-*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djcandor/)*
+*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djcandor/)*

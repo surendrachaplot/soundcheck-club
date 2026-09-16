@@ -1,6 +1,6 @@
 # The 86
 
-The 86 is a music venue in Melbourne with 1 upcoming night listed on soundcheck as of Tue, 15 Sept 2026; the next is "Piu Disco" on Sat, 10 Oct 2026.
+The 86 is a music venue in Melbourne with 1 upcoming night listed on soundcheck as of Wed, 16 Sept 2026; the next is "Piu Disco" on Sat, 10 Oct 2026.
 
 The 86 is a music venue in Melbourne listed on soundcheck. 1 upcoming night, with line-ups including Tanzer and The D Word. Browse upcoming dates, start times and who's playing. 185 Smith Street, Fitzroy, Victoria 3065.
 
@@ -14,4 +14,4 @@ The 86 is a music venue in Melbourne listed on soundcheck. 1 upcoming night, wit
 
 185 Smith Street, Fitzroy, Victoria 3065, Melbourne
 
-*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/the-86/)*
+*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/the-86/)*

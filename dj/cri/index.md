@@ -1,6 +1,6 @@
 # CRi
 
-CRi is a House and Deep House artist with 5 upcoming club dates listed on soundcheck as of Tue, 15 Sept 2026, next at Night We Met, Nashville on Fri, 25 Sept 2026.
+CRi is a House and Deep House artist with 5 upcoming club dates listed on soundcheck as of Wed, 16 Sept 2026, next at Night We Met, Nashville on Fri, 25 Sept 2026.
 
 CRi is a house and deep house artist based in Canada, tracked on soundcheck, with 48 sets logged across Austin, Berlin, Chicago and London and 14 more. Often billed alongside Nicky Elisabeth, Hana and Eli & Fur. Next up: Night We Met, Nashville on Fri 25 Sept.
 
@@ -29,4 +29,4 @@ CRi is a house and deep house artist based in Canada, tracked on soundcheck, wit
 
 Nicky Elisabeth, Hana, Eli & Fur
 
-*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/cri/)*
+*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/cri/)*

@@ -1,6 +1,6 @@
 # anamē
 
-anamē is a Progressive House and House artist with 1 upcoming club date listed on soundcheck as of Tue, 15 Sept 2026, next at E1, London on Sat, 10 Oct 2026.
+anamē is a Progressive House and House artist with 1 upcoming club date listed on soundcheck as of Wed, 16 Sept 2026, next at E1, London on Sat, 10 Oct 2026.
 
 anamē is a progressive house and house artist based in Sweden, tracked on soundcheck, with 25 sets logged across Amsterdam, Austin, Berlin and Brisbane and 16 more. Often billed alongside Above & Beyond, Amy Wiles and SONATA. Next up: E1, London on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ anamē is a progressive house and house artist based in Sweden, tracked on sound
 
 Above & Beyond, Amy Wiles, SONATA
 
-*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/aname/)*
+*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/aname/)*

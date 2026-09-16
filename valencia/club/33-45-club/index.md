@@ -1,6 +1,6 @@
 # 33/45 Club
 
-33/45 Club is a music venue in Valencia with 5 upcoming nights listed on soundcheck as of Tue, 15 Sept 2026; the next is "Astral Rhythms x 33/45 Club" on Fri, 18 Sept 2026.
+33/45 Club is a music venue in Valencia with 5 upcoming nights listed on soundcheck as of Wed, 16 Sept 2026; the next is "Astral Rhythms x 33/45 Club" on Fri, 18 Sept 2026.
 
 33/45 Club is a music venue in Valencia listed on soundcheck. 5 upcoming nights, with line-ups including Álvaro Reydez, Hexxe and Mindset Madness. Browse upcoming dates, start times and who's playing. C/ de l'Explorador Andrés, 29, Algirós, 46022 València, Valencia.
 
@@ -18,4 +18,4 @@
 
 C/ de l'Explorador Andrés, 29, Algirós, 46022 València, Valencia, Valencia
 
-*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/valencia/club/33-45-club/)*
+*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/valencia/club/33-45-club/)*

@@ -1,6 +1,6 @@
 # Basit Soomro
 
-Basit Soomro is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 15 Sept 2026, next at Post Bar, Helsinki on Fri, 25 Sept 2026.
+Basit Soomro is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 16 Sept 2026, next at Post Bar, Helsinki on Fri, 25 Sept 2026.
 
 Basit Soomro is a techno and house artist tracked on soundcheck, with 17 sets logged across Amsterdam and Helsinki. Often billed alongside Ryan Láng, babybel and Marju. Next up: Post Bar, Helsinki on Fri 25 Sept.
 
@@ -25,4 +25,4 @@ Basit Soomro is a techno and house artist tracked on soundcheck, with 17 sets lo
 
 Ryan Láng, babybel, Marju
 
-*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/basitsoomro/)*
+*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/basitsoomro/)*

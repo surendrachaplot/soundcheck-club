@@ -1,6 +1,6 @@
 # Razzmatazz
 
-Razzmatazz is a music venue in Barcelona with 11 upcoming nights listed on soundcheck as of Tue, 15 Sept 2026; the next is "FSTVL B & FUEGO presentan XTNDED" on Fri, 18 Sept 2026.
+Razzmatazz is a music venue in Barcelona with 11 upcoming nights listed on soundcheck as of Wed, 16 Sept 2026; the next is "FSTVL B & FUEGO presentan XTNDED" on Fri, 18 Sept 2026.
 
 Razzmatazz is a music venue in Barcelona listed on soundcheck. 11 upcoming nights, with line-ups including Anthony Linell, Antiribeiro, Art of Fighters and BADSISTA and 2 more. Browse upcoming dates, start times and who's playing. C Almogavers 122 - C Pamplona 88; Barcelona; Spain.
 
@@ -23,4 +23,4 @@ Razzmatazz is a music venue in Barcelona listed on soundcheck. 11 upcoming night
 
 C Almogavers 122 - C Pamplona 88; Barcelona; Spain, Barcelona
 
-*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/razzmatazz/)*
+*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/razzmatazz/)*

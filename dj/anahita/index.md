@@ -1,6 +1,6 @@
 # ANAHITA
 
-ANAHITA is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 15 Sept 2026, next at 24 Moons, Melbourne on Fri, 18 Sept 2026.
+ANAHITA is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 16 Sept 2026, next at 24 Moons, Melbourne on Fri, 18 Sept 2026.
 
 ANAHITA is a techno and house artist tracked on soundcheck, with 30 sets logged across Bangkok, Istanbul, London and Losangeles and 2 more. Often billed alongside Anahita Shamsaei, Milli and Somme Farris. Next up: 24 Moons, Melbourne on Fri 18 Sept.
 
@@ -25,4 +25,4 @@ ANAHITA is a techno and house artist tracked on soundcheck, with 30 sets logged 
 
 Anahita Shamsaei, Milli, Somme Farris
 
-*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/anahita/)*
+*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/anahita/)*

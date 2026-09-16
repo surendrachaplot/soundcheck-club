@@ -1,6 +1,6 @@
 # House of Yes
 
-House of Yes is a music venue in New York City with 14 upcoming nights listed on soundcheck as of Tue, 15 Sept 2026; the next is "Gasolina with Ultra Violet" on Thu, 17 Sept 2026.
+House of Yes is a music venue in New York City with 14 upcoming nights listed on soundcheck as of Wed, 16 Sept 2026; the next is "Gasolina with Ultra Violet" on Thu, 17 Sept 2026.
 
 House of Yes is a music venue in Newyorkcity listed on soundcheck. 14 upcoming nights, with line-ups including Alistair, Aluna, Bella Mutino and Bridge (NY) and 2 more. Browse upcoming dates, start times and who's playing. 2 Wyckoff Avenue; Brooklyn, NY 11237; USA.
 
@@ -23,4 +23,4 @@ House of Yes is a music venue in Newyorkcity listed on soundcheck. 14 upcoming n
 
 2 Wyckoff Avenue; Brooklyn, NY 11237; USA, New York City
 
-*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/house-of-yes/)*
+*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/house-of-yes/)*

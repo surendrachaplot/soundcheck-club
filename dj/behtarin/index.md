@@ -1,6 +1,6 @@
 # BehTarin
 
-BehTarin is a House and Deep House artist with 2 upcoming club dates listed on soundcheck as of Tue, 15 Sept 2026, next at Flash, Washington DC on Sat, 19 Sept 2026.
+BehTarin is a House and Deep House artist with 2 upcoming club dates listed on soundcheck as of Wed, 16 Sept 2026, next at Flash, Washington DC on Sat, 19 Sept 2026.
 
 BehTarin is a house and deep house artist based in United States of America, tracked on soundcheck, with 38 sets logged across Newyorkcity and Washingtondc. Often billed alongside Heather Luna, shilimili and KayLaSoul. Next up: Flash, Washingtondc on Sat 19 Sept.
 
@@ -26,4 +26,4 @@ BehTarin is a house and deep house artist based in United States of America, tra
 
 Heather Luna, shilimili, KayLaSoul
 
-*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/behtarin/)*
+*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/behtarin/)*

@@ -1,6 +1,6 @@
 # BugzB
 
-BugzB is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 15 Sept 2026, next at Mantra Bar, Kuala Lumpur on Sat, 19 Sept 2026.
+BugzB is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 16 Sept 2026, next at Mantra Bar, Kuala Lumpur on Sat, 19 Sept 2026.
 
 BugzB is a house and techno artist based in Malaysia, tracked on soundcheck, with 40 sets logged across Kualalumpur. Often billed alongside Alam, JonnyVicious and LZZY. Next up: Mantra Bar, Kualalumpur on Sat 19 Sept.
 
@@ -25,4 +25,4 @@ BugzB is a house and techno artist based in Malaysia, tracked on soundcheck, wit
 
 Alam, JonnyVicious, LZZY
 
-*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bugzb/)*
+*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bugzb/)*

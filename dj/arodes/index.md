@@ -1,6 +1,6 @@
 # ARODES
 
-ARODES is a House and Afro House artist with 9 upcoming club dates listed on soundcheck as of Tue, 15 Sept 2026, next at BCM, Mallorca on Sat, 19 Sept 2026.
+ARODES is a House and Afro House artist with 9 upcoming club dates listed on soundcheck as of Wed, 16 Sept 2026, next at BCM, Mallorca on Sat, 19 Sept 2026.
 
 ARODES is a house and afro house artist tracked on soundcheck, with 126 sets logged across Amsterdam, Athens, Austin and Barcelona and 28 more. Often billed alongside Andrea Oliva, Shimza and Marten Lou. Next up: BCM, Mallorca on Sat 19 Sept.
 
@@ -33,4 +33,4 @@ ARODES is a house and afro house artist tracked on soundcheck, with 126 sets log
 
 Andrea Oliva, Shimza, Marten Lou
 
-*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/arodes/)*
+*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/arodes/)*

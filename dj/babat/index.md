@@ -1,6 +1,6 @@
 # Baba T
 
-Baba T is a Afrobeats and House artist with 1 upcoming club date listed on soundcheck as of Tue, 15 Sept 2026, next at The Carpet Shop, London on Fri, 18 Sept 2026.
+Baba T is a Afrobeats and House artist with 1 upcoming club date listed on soundcheck as of Wed, 16 Sept 2026, next at The Carpet Shop, London on Fri, 18 Sept 2026.
 
 Baba T is an afrobeats and house artist based in United Kingdom, tracked on soundcheck, with 29 sets logged across Amsterdam, Berlin, Leeds and London and 1 more. Often billed alongside Tolu, Serenda and 2 Bad Mice. Next up: The Carpet Shop, London on Fri 18 Sept.
 
@@ -25,4 +25,4 @@ Baba T is an afrobeats and house artist based in United Kingdom, tracked on soun
 
 Tolu, Serenda, 2 Bad Mice
 
-*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/babat/)*
+*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/babat/)*

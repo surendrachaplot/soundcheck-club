@@ -1,6 +1,6 @@
 # Sam Alfred
 
-Sam Alfred is a House and Techno artist with 13 upcoming club dates listed on soundcheck as of Tue, 15 Sept 2026, next at The Cause, London on Sun, 20 Sept 2026.
+Sam Alfred is a House and Techno artist with 13 upcoming club dates listed on soundcheck as of Wed, 16 Sept 2026, next at The Cause, London on Sun, 20 Sept 2026.
 
 Sam Alfred is a house and techno artist tracked on soundcheck, with 138 sets logged across Amsterdam, Antwerp, Barcelona and Belfast and 47 more. Often billed alongside X CLUB., KETTAMA and SAIDAH. Next up: The Cause, London on Sun 20 Sept.
 
@@ -36,4 +36,4 @@ Sam Alfred is a house and techno artist tracked on soundcheck, with 138 sets log
 
 X CLUB., KETTAMA, SAIDAH
 
-*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/samalfred/)*
+*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/samalfred/)*

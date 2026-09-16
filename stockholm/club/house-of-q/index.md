@@ -1,6 +1,6 @@
 # House of Q
 
-House of Q is a music venue in Stockholm with 3 upcoming nights listed on soundcheck as of Tue, 15 Sept 2026; the next is "Exit - Hard Techno + Darkroom" on Sat, 26 Sept 2026.
+House of Q is a music venue in Stockholm with 3 upcoming nights listed on soundcheck as of Wed, 16 Sept 2026; the next is "Exit - Hard Techno + Darkroom" on Sat, 26 Sept 2026.
 
 House of Q is a music venue in Stockholm listed on soundcheck. 3 upcoming nights, with line-ups including Mira Iranpour. Browse upcoming dates, start times and who's playing. Malmvägen 1, 115 41 Stockholm.
 
@@ -16,4 +16,4 @@ House of Q is a music venue in Stockholm listed on soundcheck. 3 upcoming nights
 
 Malmvägen 1, 115 41 Stockholm, Stockholm
 
-*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/stockholm/club/house-of-q/)*
+*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/stockholm/club/house-of-q/)*

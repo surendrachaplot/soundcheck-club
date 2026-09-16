@@ -1,6 +1,6 @@
 # Kaskada
 
-Kaskada is a music venue in Warsaw with 2 upcoming nights listed on soundcheck as of Tue, 15 Sept 2026; the next is "WARSZAWA W TRANSIE | RAVE NA BARCE" on Fri, 18 Sept 2026.
+Kaskada is a music venue in Warsaw with 2 upcoming nights listed on soundcheck as of Wed, 16 Sept 2026; the next is "WARSZAWA W TRANSIE | RAVE NA BARCE" on Fri, 18 Sept 2026.
 
 Kaskada is a music venue in Warsaw listed on soundcheck. 2 upcoming nights, with line-ups including aist (LT), DJ Lotos, dtekk and Hozy and 2 more. Browse upcoming dates, start times and who's playing. Wybrzeże Kościuszkowskie 2, 00-390 Warszawa.
 
@@ -15,4 +15,4 @@ Kaskada is a music venue in Warsaw listed on soundcheck. 2 upcoming nights, with
 
 Wybrzeże Kościuszkowskie 2, 00-390 Warszawa, Warsaw
 
-*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/warsaw/club/kaskada/)*
+*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/warsaw/club/kaskada/)*

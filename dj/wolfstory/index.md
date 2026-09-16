@@ -1,6 +1,6 @@
 # Wolf Story
 
-Wolf Story is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 15 Sept 2026, next at TBA - Dockweiler Beach, Los Angeles on Sun, 20 Sept 2026.
+Wolf Story is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 16 Sept 2026, next at TBA - Dockweiler Beach, Los Angeles on Sun, 20 Sept 2026.
 
 Wolf Story is a house and techno artist tracked on soundcheck, with 55 sets logged across Denver, Kyoto, Losangeles and Miami and 3 more. Often billed alongside Sebastian Arreguin, Yury Black and Michael Toobz. Next up: TBA - Dockweiler Beach, Losangeles on Sun 20 Sept.
 
@@ -25,4 +25,4 @@ Wolf Story is a house and techno artist tracked on soundcheck, with 55 sets logg
 
 Sebastian Arreguin, Yury Black, Michael Toobz
 
-*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/wolfstory/)*
+*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/wolfstory/)*

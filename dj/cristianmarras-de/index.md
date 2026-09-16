@@ -1,6 +1,6 @@
 # Cristian Marras
 
-Cristian Marras is a Techno and House artist with 8 upcoming club dates listed on soundcheck as of Tue, 15 Sept 2026, next at Life Club Milano, Milan on Fri, 18 Sept 2026.
+Cristian Marras is a Techno and House artist with 8 upcoming club dates listed on soundcheck as of Wed, 16 Sept 2026, next at Life Club Milano, Milan on Fri, 18 Sept 2026.
 
 Cristian Marras is a techno and house artist based in Germany, tracked on soundcheck, with 71 sets logged across Amsterdam, Bangkok, Berlin and Brussels and 14 more. Often billed alongside Mar/us, Metaraph and OCD. Next up: Life Club Milano, Milan on Fri 18 Sept.
 
@@ -32,4 +32,4 @@ Cristian Marras is a techno and house artist based in Germany, tracked on soundc
 
 Mar/us, Metaraph, OCD
 
-*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/cristianmarras-de/)*
+*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/cristianmarras-de/)*

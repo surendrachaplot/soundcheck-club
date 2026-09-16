@@ -1,6 +1,6 @@
 # Toke12
 
-Toke12 is a Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 15 Sept 2026, next at Ritter Butzke, Berlin on Sat, 7 Nov 2026.
+Toke12 is a Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 16 Sept 2026, next at Ritter Butzke, Berlin on Sat, 7 Nov 2026.
 
 Toke12 is a techno artist tracked on soundcheck, with 4 sets logged across Berlin. Often billed alongside DJ Bude, Skinny Legend and fbi (1). Next up: Ritter Butzke, Berlin on Sat 7 Nov.
 
@@ -20,4 +20,4 @@ Toke12 is a techno artist tracked on soundcheck, with 4 sets logged across Berli
 
 DJ Bude, Skinny Legend, fbi (1)
 
-*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/toke12/)*
+*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/toke12/)*

@@ -1,6 +1,6 @@
 # Valkoinen sali
 
-Valkoinen sali is a music venue in Helsinki with 1 upcoming night listed on soundcheck as of Tue, 15 Sept 2026; the next is "Beverly Glenn-Copeland" on Mon, 26 Oct 2026.
+Valkoinen sali is a music venue in Helsinki with 1 upcoming night listed on soundcheck as of Wed, 16 Sept 2026; the next is "Beverly Glenn-Copeland" on Mon, 26 Oct 2026.
 
 Valkoinen sali is a music venue in Helsinki listed on soundcheck. 1 upcoming night, with line-ups including Beverly Glenn-Copeland. Browse upcoming dates, start times and who's playing. Aleksanterinkatu 16–18 (Senaatintori Square), 00170 Helsinki, Finland.
 
@@ -14,4 +14,4 @@ Valkoinen sali is a music venue in Helsinki listed on soundcheck. 1 upcoming nig
 
 Aleksanterinkatu 16–18 (Senaatintori Square), 00170 Helsinki, Finland, Helsinki
 
-*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/helsinki/club/valkoinen-sali/)*
+*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/helsinki/club/valkoinen-sali/)*

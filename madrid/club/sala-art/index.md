@@ -1,6 +1,6 @@
 # Sala ART
 
-Sala ART is a music venue in Madrid with 5 upcoming nights listed on soundcheck as of Tue, 15 Sept 2026; the next is "ART ELECTRONIC UNDERGROUND (LAST 500 FREE TICKETS)" on Sat, 19 Sept 2026.
+Sala ART is a music venue in Madrid with 5 upcoming nights listed on soundcheck as of Wed, 16 Sept 2026; the next is "ART ELECTRONIC UNDERGROUND (LAST 500 FREE TICKETS)" on Sat, 19 Sept 2026.
 
 Sala ART is a music venue in Madrid listed on soundcheck. 5 upcoming nights, with line-ups including Airod, Anna Jevills, CHEFFF and Costa (2) and 2 more. Browse upcoming dates, start times and who's playing. P.º de la Florida, 2, 28008 Madrid.
 
@@ -18,4 +18,4 @@ Sala ART is a music venue in Madrid listed on soundcheck. 5 upcoming nights, wit
 
 P.º de la Florida, 2, 28008 Madrid, Madrid
 
-*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/sala-art/)*
+*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/sala-art/)*

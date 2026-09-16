@@ -1,6 +1,6 @@
 # Pacome
 
-Pacome is a House and Minimal artist with 2 upcoming club dates listed on soundcheck as of Tue, 15 Sept 2026, next at 303 Audiophile Bar, Barcelona on Sat, 19 Sept 2026.
+Pacome is a House and Minimal artist with 2 upcoming club dates listed on soundcheck as of Wed, 16 Sept 2026, next at 303 Audiophile Bar, Barcelona on Sat, 19 Sept 2026.
 
 Pacome is a house and minimal artist tracked on soundcheck, with 45 sets logged across Amsterdam, Barcelona, Ibiza and London and 3 more. Often billed alongside Liana, Fer (ES) and bOIX. Next up: 303 Audiophile Bar, Barcelona on Sat 19 Sept.
 
@@ -26,4 +26,4 @@ Pacome is a house and minimal artist tracked on soundcheck, with 45 sets logged 
 
 Liana, Fer (ES), bOIX
 
-*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/pacome/)*
+*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/pacome/)*

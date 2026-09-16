@@ -1,6 +1,6 @@
 # Kathleen C
 
-Kathleen C is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Tue, 15 Sept 2026, next at Illegaal, Brussels on Sat, 3 Oct 2026.
+Kathleen C is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Wed, 16 Sept 2026, next at Illegaal, Brussels on Sat, 3 Oct 2026.
 
 Kathleen C is a techno and house artist based in Belgium, tracked on soundcheck, with 30 sets logged across Antwerp, Brussels, Strasbourg and Thehague. Often billed alongside Vera Moro, Azo and Stanislawa. Next up: Illegaal, Brussels on Sat 3 Oct.
 
@@ -26,4 +26,4 @@ Kathleen C is a techno and house artist based in Belgium, tracked on soundcheck,
 
 Vera Moro, Azo, Stanislawa
 
-*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kathleenc/)*
+*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kathleenc/)*

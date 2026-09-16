@@ -1,6 +1,6 @@
 # Urban Spree
 
-Urban Spree is a music venue in Berlin with 13 upcoming nights listed on soundcheck as of Tue, 15 Sept 2026; the next is "Urban Spree KLUBNACHT 004" on Fri, 18 Sept 2026.
+Urban Spree is a music venue in Berlin with 13 upcoming nights listed on soundcheck as of Wed, 16 Sept 2026; the next is "Urban Spree KLUBNACHT 004" on Fri, 18 Sept 2026.
 
 Urban Spree is a music venue in Berlin listed on soundcheck. 13 upcoming nights, with line-ups including Albert Kraft, Daraio, Deltagram and GB (2) and 2 more. Browse upcoming dates, start times and who's playing. Revaler Str. 99, 10245 Berlin, Germany.
 
@@ -23,4 +23,4 @@ Urban Spree is a music venue in Berlin listed on soundcheck. 13 upcoming nights,
 
 Revaler Str. 99, 10245 Berlin, Germany, Berlin
 
-*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/urban-spree/)*
+*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/urban-spree/)*

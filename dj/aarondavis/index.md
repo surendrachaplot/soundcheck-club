@@ -1,14 +1,15 @@
 # Aaron Davis
 
-Aaron Davis is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 15 Sept 2026, next at TBA - Out ‘n’ About Treesort, Portland on Thu, 24 Sept 2026.
+Aaron Davis is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 16 Sept 2026, next at TBA - Out ‘n’ About Treesort, Portland on Thu, 24 Sept 2026.
 
-Aaron Davis is a techno and house artist based in United States of America, tracked on soundcheck, with 13 sets logged across Losangeles, Newyorkcity, Portland and Sanfrancisco. Often billed alongside Ms. Ed, Peter Sheppard and Andy Warren. Next up: TBA - Out ‘n’ About Treesort, Portland on Thu 24 Sept.
+Aaron Davis is a house and techno artist based in United States of America, tracked on soundcheck, with 14 sets logged across Losangeles, Newyorkcity, Portland and Sanfrancisco. Often billed alongside Ms. Ed, Peter Sheppard and Trustfall. Next up: TBA - Out ‘n’ About Treesort, Portland on Thu 24 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Thu, 24 Sept 2026 | TBA - Out ‘n’ About Treesort | Portland |
+| Sat, 3 Oct 2026 | Process PDX | Portland |
 
 ## Recently played
 
@@ -23,6 +24,6 @@ Aaron Davis is a techno and house artist based in United States of America, trac
 
 ## Shares bills with
 
-Ms. Ed, Peter Sheppard, Andy Warren
+Ms. Ed, Peter Sheppard, Trustfall
 
-*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/aarondavis/)*
+*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/aarondavis/)*

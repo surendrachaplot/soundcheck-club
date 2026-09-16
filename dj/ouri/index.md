@@ -1,14 +1,15 @@
 # Ouri
 
-Ouri is a Experimental and Electro artist with 2 upcoming club dates listed on soundcheck as of Tue, 15 Sept 2026, next at Modeci, Seoul on Fri, 18 Sept 2026.
+Ouri is a Experimental and Club artist with 3 upcoming club dates listed on soundcheck as of Wed, 16 Sept 2026, next at Modeci, Seoul on Fri, 18 Sept 2026.
 
-Ouri is an experimental and electro artist tracked on soundcheck, with 18 sets logged across Berlin, Brussels, Losangeles and Mexicocity and 7 more. Often billed alongside Valentina Magaletti, Bby Eco and Chinnamasta. Next up: Modeci, Seoul on Fri 18 Sept.
+Ouri is an experimental and club artist tracked on soundcheck, with 19 sets logged across Berlin, Brussels, Losangeles and Mexicocity and 8 more. Often billed alongside Valentina Magaletti, Bby Eco and Chinnamasta. Next up: Modeci, Seoul on Fri 18 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 18 Sept 2026 | Modeci | Seoul |
+| Sat, 3 Oct 2026 | OIL Club | Shenzhen |
 | Thu, 5 Nov 2026 | TivoliVredenburg | Utrecht |
 
 ## Recently played
@@ -26,4 +27,4 @@ Ouri is an experimental and electro artist tracked on soundcheck, with 18 sets l
 
 Valentina Magaletti, Bby Eco, Chinnamasta
 
-*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ouri/)*
+*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ouri/)*

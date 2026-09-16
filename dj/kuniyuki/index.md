@@ -1,6 +1,6 @@
 # Kuniyuki
 
-Kuniyuki is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Tue, 15 Sept 2026, next at WOMB, Tokyo on Fri, 18 Sept 2026.
+Kuniyuki is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Wed, 16 Sept 2026, next at WOMB, Tokyo on Fri, 18 Sept 2026.
 
 Kuniyuki is a house and techno artist tracked on soundcheck, with 69 sets logged across Amsterdam, Bali, Denver and Hongkong and 16 more. Often billed alongside Toshiya Kawasaki, KZA and Christian AB. Next up: WOMB, Tokyo on Fri 18 Sept.
 
@@ -27,4 +27,4 @@ Kuniyuki is a house and techno artist tracked on soundcheck, with 69 sets logged
 
 Toshiya Kawasaki, KZA, Christian AB
 
-*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kuniyuki/)*
+*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kuniyuki/)*

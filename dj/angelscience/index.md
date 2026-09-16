@@ -1,6 +1,6 @@
 # Angel Science
 
-Angel Science is a Techno and Bass artist with 1 upcoming club date listed on soundcheck as of Tue, 15 Sept 2026, next at TBA - Private Location, Vancouver on Fri, 11 Dec 2026.
+Angel Science is a Techno and Bass artist with 1 upcoming club date listed on soundcheck as of Wed, 16 Sept 2026, next at TBA - Private Location, Vancouver on Fri, 11 Dec 2026.
 
 Angel Science is a techno and bass artist based in Canada, tracked on soundcheck, with 10 sets logged across Vancouver. Often billed alongside POPU, dj_2button and Behrad Tehrani. Next up: TBA - Private Location, Vancouver on Fri 11 Dec.
 
@@ -25,4 +25,4 @@ Angel Science is a techno and bass artist based in Canada, tracked on soundcheck
 
 POPU, dj_2button, Behrad Tehrani
 
-*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/angelscience/)*
+*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/angelscience/)*

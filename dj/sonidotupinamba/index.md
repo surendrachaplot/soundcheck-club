@@ -1,6 +1,6 @@
 # Sonido Tupinamba
 
-Sonido Tupinamba is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Tue, 15 Sept 2026, next at Say No More Madrid, Madrid on Thu, 17 Sept 2026.
+Sonido Tupinamba is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Wed, 16 Sept 2026, next at Say No More Madrid, Madrid on Thu, 17 Sept 2026.
 
 Sonido Tupinamba is a house and disco artist tracked on soundcheck, with 76 sets logged across Barcelona, Berlin, Buenosaires and Ibiza and 8 more. Often billed alongside Camilo Miranda, Zonzo and Sama Yax. Next up: Say No More Madrid, Madrid on Thu 17 Sept.
 
@@ -26,4 +26,4 @@ Sonido Tupinamba is a house and disco artist tracked on soundcheck, with 76 sets
 
 Camilo Miranda, Zonzo, Sama Yax
 
-*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sonidotupinamba/)*
+*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sonidotupinamba/)*

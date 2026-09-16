@@ -1,6 +1,6 @@
 # Shabba
 
-Shabba is a Jungle and Drum & Bass artist with 2 upcoming club dates listed on soundcheck as of Tue, 15 Sept 2026, next at EartH, London on Fri, 25 Sept 2026.
+Shabba is a Jungle and Drum & Bass artist with 2 upcoming club dates listed on soundcheck as of Wed, 16 Sept 2026, next at EartH, London on Fri, 25 Sept 2026.
 
 Shabba is a jungle and drum & bass artist based in United Kingdom, tracked on soundcheck, with 10 sets logged across Birmingham, Brighton and London. Often billed alongside DJ Brockie, MC Det and Beezo. Next up: EartH, London on Fri 25 Sept.
 
@@ -26,4 +26,4 @@ Shabba is a jungle and drum & bass artist based in United Kingdom, tracked on so
 
 DJ Brockie, MC Det, Beezo
 
-*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/shabba/)*
+*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/shabba/)*

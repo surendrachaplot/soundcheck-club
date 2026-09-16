@@ -1,6 +1,6 @@
 # JASHTECH
 
-JASHTECH is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 15 Sept 2026, next at Villa Viva, Hamburg on Fri, 18 Sept 2026.
+JASHTECH is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 16 Sept 2026, next at Villa Viva, Hamburg on Fri, 18 Sept 2026.
 
 JASHTECH is a house and techno artist based in Germany, tracked on soundcheck, with 15 sets logged across Hamburg. Often billed alongside Alexej, NELØ and CHICHO. Next up: Villa Viva, Hamburg on Fri 18 Sept.
 
@@ -25,4 +25,4 @@ JASHTECH is a house and techno artist based in Germany, tracked on soundcheck, w
 
 Alexej, NELØ, CHICHO
 
-*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jashtech/)*
+*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jashtech/)*

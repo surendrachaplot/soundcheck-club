@@ -1,6 +1,6 @@
 # King Kami
 
-King Kami is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Tue, 15 Sept 2026, next at Lux Fragil, Lisbon on Thu, 17 Sept 2026.
+King Kami is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 16 Sept 2026, next at Lux Fragil, Lisbon on Thu, 17 Sept 2026.
 
 King Kami is a house and techno artist based in Brazil, tracked on soundcheck, with 48 sets logged across Barcelona, Berlin, Bristol and Brussels and 7 more. Often billed alongside Nick León, BANU (2) and NOIA. Next up: Lux Fragil, Lisbon on Thu 17 Sept.
 
@@ -26,4 +26,4 @@ King Kami is a house and techno artist based in Brazil, tracked on soundcheck, w
 
 Nick León, BANU (2), NOIA
 
-*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kingkami/)*
+*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kingkami/)*

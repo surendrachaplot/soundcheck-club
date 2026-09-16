@@ -1,6 +1,6 @@
 # dUb
 
-dUb is a Dub and Funk / Soul artist with 2 upcoming club dates listed on soundcheck as of Tue, 15 Sept 2026, next at The Coup by BUNKERBUNKER!!, Singapore on Sat, 19 Sept 2026.
+dUb is a Dub and Funk / Soul artist with 2 upcoming club dates listed on soundcheck as of Wed, 16 Sept 2026, next at The Coup by BUNKERBUNKER!!, Singapore on Sat, 19 Sept 2026.
 
 dUb is a dub and funk / soul artist based in Greece, tracked on soundcheck, with 26 sets logged across Bali, Bangkok, Barcelona and Bristol and 12 more. Often billed alongside Bass, Jungle (UK) and AM (8). Next up: The Coup by BUNKERBUNKER!!, Singapore on Sat 19 Sept.
 
@@ -26,4 +26,4 @@ dUb is a dub and funk / soul artist based in Greece, tracked on soundcheck, with
 
 Bass, Jungle (UK), AM (8)
 
-*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dub/)*
+*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dub/)*

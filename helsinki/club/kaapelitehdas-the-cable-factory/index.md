@@ -1,6 +1,6 @@
 # Kaapelitehdas / The Cable Factory
 
-Kaapelitehdas / The Cable Factory is a music venue in Helsinki with 1 upcoming night listed on soundcheck as of Tue, 15 Sept 2026; the next is "Project One" on Fri, 27 Nov 2026.
+Kaapelitehdas / The Cable Factory is a music venue in Helsinki with 1 upcoming night listed on soundcheck as of Wed, 16 Sept 2026; the next is "Project One" on Fri, 27 Nov 2026.
 
 Kaapelitehdas / The Cable Factory is a music venue in Helsinki listed on soundcheck. 1 upcoming night, with line-ups including Code Black, Headhunterz, Ruthless and Wildstylez. Browse upcoming dates, start times and who's playing. Tallberginkatu 1, 00180 Helsinki, Finland.
 
@@ -14,4 +14,4 @@ Kaapelitehdas / The Cable Factory is a music venue in Helsinki listed on soundch
 
 Tallberginkatu 1, 00180 Helsinki, Finland, Helsinki
 
-*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/helsinki/club/kaapelitehdas-the-cable-factory/)*
+*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/helsinki/club/kaapelitehdas-the-cable-factory/)*

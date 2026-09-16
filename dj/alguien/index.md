@@ -1,6 +1,6 @@
 # alguien
 
-alguien is a Electro and Acid artist with 1 upcoming club date listed on soundcheck as of Tue, 15 Sept 2026, next at Skin Club, Madrid on Fri, 18 Sept 2026.
+alguien is a Electro and Acid artist with 1 upcoming club date listed on soundcheck as of Wed, 16 Sept 2026, next at Skin Club, Madrid on Fri, 18 Sept 2026.
 
 alguien is an electro and acid artist tracked on soundcheck, with 33 sets logged across Madrid. Often billed alongside Vulker, Reitze and Epileptik. Next up: Skin Club, Madrid on Fri 18 Sept.
 
@@ -25,4 +25,4 @@ alguien is an electro and acid artist tracked on soundcheck, with 33 sets logged
 
 Vulker, Reitze, Epileptik
 
-*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/alguien/)*
+*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/alguien/)*

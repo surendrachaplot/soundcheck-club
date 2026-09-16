@@ -1,6 +1,6 @@
 # Greick Jhøzsu
 
-Greick Jhøzsu is a Techno and Minimal Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 15 Sept 2026, next at Esbirra Ibiza, Ibiza on Fri, 2 Oct 2026.
+Greick Jhøzsu is a Techno and Minimal Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 16 Sept 2026, next at Esbirra Ibiza, Ibiza on Fri, 2 Oct 2026.
 
 Greick Jhøzsu is a techno and minimal techno artist based in Spain, tracked on soundcheck, with 16 sets logged across Ibiza and Madrid. Often billed alongside Jesus Riaño, SEMREH and Katnada. Next up: Esbirra Ibiza, Ibiza on Fri 2 Oct.
 
@@ -25,4 +25,4 @@ Greick Jhøzsu is a techno and minimal techno artist based in Spain, tracked on 
 
 Jesus Riaño, SEMREH, Katnada
 
-*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/greickjhozsu/)*
+*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/greickjhozsu/)*

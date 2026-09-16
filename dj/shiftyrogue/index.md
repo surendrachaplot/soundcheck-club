@@ -1,6 +1,6 @@
 # Shifty Rogue
 
-Shifty Rogue is a Jungle and Drum & Bass artist with 4 upcoming club dates listed on soundcheck as of Tue, 15 Sept 2026, next at Silbergold, Frankfurt on Sat, 19 Sept 2026.
+Shifty Rogue is a Jungle and Drum & Bass artist with 4 upcoming club dates listed on soundcheck as of Wed, 16 Sept 2026, next at Silbergold, Frankfurt on Sat, 19 Sept 2026.
 
 Shifty Rogue is a jungle and drum & bass artist based in United States of America, tracked on soundcheck, with 14 sets logged across Berlin, Frankfurt and London. Often billed alongside KaraKara, DJ Chromz and Hovercat. Next up: Silbergold, Frankfurt on Sat 19 Sept.
 
@@ -28,4 +28,4 @@ Shifty Rogue is a jungle and drum & bass artist based in United States of Americ
 
 KaraKara, DJ Chromz, Hovercat
 
-*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/shiftyrogue/)*
+*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/shiftyrogue/)*

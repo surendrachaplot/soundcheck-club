@@ -1,6 +1,6 @@
 # PONGPONG
 
-PONGPONG is a Techno and Hardcore artist with 1 upcoming club date listed on soundcheck as of Tue, 15 Sept 2026, next at Luka, Seoul on Sat, 19 Sept 2026.
+PONGPONG is a Techno and Hardcore artist with 1 upcoming club date listed on soundcheck as of Wed, 16 Sept 2026, next at Luka, Seoul on Sat, 19 Sept 2026.
 
 PONGPONG is a techno and hardcore artist tracked on soundcheck, with 68 sets logged across Seoul. Often billed alongside D.E.F, Rivako and NANAH. Next up: Luka, Seoul on Sat 19 Sept.
 
@@ -25,4 +25,4 @@ PONGPONG is a techno and hardcore artist tracked on soundcheck, with 68 sets log
 
 D.E.F, Rivako, NANAH
 
-*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/pongpong/)*
+*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/pongpong/)*

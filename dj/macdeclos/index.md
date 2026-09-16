@@ -1,6 +1,6 @@
 # Mac Declos
 
-Mac Declos is a Techno and House artist with 8 upcoming club dates listed on soundcheck as of Tue, 15 Sept 2026, next at 131 Mccormack St, Toronto on Fri, 25 Sept 2026.
+Mac Declos is a Techno and House artist with 8 upcoming club dates listed on soundcheck as of Wed, 16 Sept 2026, next at 131 Mccormack St, Toronto on Fri, 25 Sept 2026.
 
 Mac Declos is a techno and house artist tracked on soundcheck, with 189 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 49 more. Often billed alongside Anetha, Lacchesi and Blasha & Allatt. Next up: 131 Mccormack St, Toronto on Fri 25 Sept.
 
@@ -32,4 +32,4 @@ Mac Declos is a techno and house artist tracked on soundcheck, with 189 sets log
 
 Anetha, Lacchesi, Blasha & Allatt
 
-*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/macdeclos/)*
+*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/macdeclos/)*

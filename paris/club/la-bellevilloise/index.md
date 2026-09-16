@@ -1,6 +1,6 @@
 # La Bellevilloise
 
-La Bellevilloise is a music venue in Paris with 4 upcoming nights listed on soundcheck as of Tue, 15 Sept 2026; the next is "AFRO HEAVEN - Afro & Tropical vibes Part" on Fri, 18 Sept 2026.
+La Bellevilloise is a music venue in Paris with 4 upcoming nights listed on soundcheck as of Wed, 16 Sept 2026; the next is "AFRO HEAVEN - Afro & Tropical vibes Part" on Fri, 18 Sept 2026.
 
 La Bellevilloise is a music venue in Paris listed on soundcheck. 4 upcoming nights, with line-ups including Coflo, Darone Sassounian, Habibi Funk and Nick V and 2 more. Browse upcoming dates, start times and who's playing. 19-21 rue Boyer; 75020; Paris; France.
 
@@ -17,4 +17,4 @@ La Bellevilloise is a music venue in Paris listed on soundcheck. 4 upcoming nigh
 
 19-21 rue Boyer; 75020; Paris; France, Paris
 
-*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/paris/club/la-bellevilloise/)*
+*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/paris/club/la-bellevilloise/)*

@@ -1,6 +1,6 @@
 # The American
 
-The American is a music venue in Vancouver with 1 upcoming night listed on soundcheck as of Tue, 15 Sept 2026; the next is "ALI with Wack" on Sat, 19 Sept 2026.
+The American is a music venue in Vancouver with 1 upcoming night listed on soundcheck as of Wed, 16 Sept 2026; the next is "ALI with Wack" on Sat, 19 Sept 2026.
 
 The American is a music venue in Vancouver listed on soundcheck. 1 upcoming night. Browse upcoming dates, start times and who's playing. 926 Main St, Vancouver, BC V6A 2W1.
 
@@ -14,4 +14,4 @@ The American is a music venue in Vancouver listed on soundcheck. 1 upcoming nigh
 
 926 Main St, Vancouver, BC V6A 2W1, Vancouver
 
-*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/vancouver/club/the-american/)*
+*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/vancouver/club/the-american/)*

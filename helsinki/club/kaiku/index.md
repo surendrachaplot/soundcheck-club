@@ -1,6 +1,6 @@
 # Kaiku
 
-Kaiku is a music venue in Helsinki with 4 upcoming nights listed on soundcheck as of Tue, 15 Sept 2026; the next is "Kaiku presents: Danilo Plessow aka MCDE (DE)" on Fri, 18 Sept 2026.
+Kaiku is a music venue in Helsinki with 4 upcoming nights listed on soundcheck as of Wed, 16 Sept 2026; the next is "Kaiku presents: Danilo Plessow aka MCDE (DE)" on Fri, 18 Sept 2026.
 
 Kaiku is a music venue in Helsinki listed on soundcheck. 4 upcoming nights, with line-ups including CEB (FI), Danilo Plessow, DJ Aleksi and Fleur Amser and 2 more. Browse upcoming dates, start times and who's playing. Kaikukatu 4; 00530 Helsinki; Finland.
 
@@ -17,4 +17,4 @@ Kaiku is a music venue in Helsinki listed on soundcheck. 4 upcoming nights, with
 
 Kaikukatu 4; 00530 Helsinki; Finland, Helsinki
 
-*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/helsinki/club/kaiku/)*
+*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/helsinki/club/kaiku/)*

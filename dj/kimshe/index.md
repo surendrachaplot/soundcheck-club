@@ -1,6 +1,6 @@
 # Kim She
 
-Kim She is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Tue, 15 Sept 2026, next at Tokonoma Club, Frankfurt on Sat, 19 Sept 2026.
+Kim She is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Wed, 16 Sept 2026, next at Tokonoma Club, Frankfurt on Sat, 19 Sept 2026.
 
 Kim She is a techno and house artist based in Germany, tracked on soundcheck, with 87 sets logged across Amsterdam, Berlin, Cologne and Dusseldorf and 13 more. Often billed alongside Disguised, AYLIN IDAH and Cryptofauna. Next up: Tokonoma Club, Frankfurt on Sat 19 Sept.
 
@@ -27,4 +27,4 @@ Kim She is a techno and house artist based in Germany, tracked on soundcheck, wi
 
 Disguised, AYLIN IDAH, Cryptofauna
 
-*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kimshe/)*
+*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kimshe/)*

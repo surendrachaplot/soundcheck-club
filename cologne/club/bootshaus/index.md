@@ -1,6 +1,6 @@
 # Bootshaus
 
-Bootshaus is a music venue in Cologne with 16 upcoming nights listed on soundcheck as of Tue, 15 Sept 2026; the next is "Polyamor Bootshaus with davyboi, PRADA2000, Mika Heggemann & many more" on Fri, 18 Sept 2026.
+Bootshaus is a music venue in Cologne with 16 upcoming nights listed on soundcheck as of Wed, 16 Sept 2026; the next is "Polyamor Bootshaus with davyboi, PRADA2000, Mika Heggemann & many more" on Fri, 18 Sept 2026.
 
 Bootshaus is a music venue in Cologne listed on soundcheck. 16 upcoming nights, with line-ups including 2HOT2PLAY, 333CXT, ADEMES and Afem Syko and 2 more. Browse upcoming dates, start times and who's playing. Auenweg 173; 51063 Cologne; Germany.
 
@@ -23,4 +23,4 @@ Bootshaus is a music venue in Cologne listed on soundcheck. 16 upcoming nights, 
 
 Auenweg 173; 51063 Cologne; Germany, Cologne
 
-*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/cologne/club/bootshaus/)*
+*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/cologne/club/bootshaus/)*

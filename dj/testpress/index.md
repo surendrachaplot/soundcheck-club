@@ -1,6 +1,6 @@
 # t e s t p r e s s
 
-t e s t p r e s s is a Techno and Trance artist with 6 upcoming club dates listed on soundcheck as of Tue, 15 Sept 2026, next at Bootshaus, Cologne on Fri, 18 Sept 2026.
+t e s t p r e s s is a Techno and Trance artist with 6 upcoming club dates listed on soundcheck as of Wed, 16 Sept 2026, next at Bootshaus, Cologne on Fri, 18 Sept 2026.
 
 t e s t p r e s s is a techno and trance artist tracked on soundcheck, with 111 sets logged across Aberdeen, Amsterdam, Antwerp and Basel and 28 more. Often billed alongside Trancemaster Krause, Cleopard2000 and Céleste. Next up: Bootshaus, Cologne on Fri 18 Sept.
 
@@ -30,4 +30,4 @@ t e s t p r e s s is a techno and trance artist tracked on soundcheck, with 111 
 
 Trancemaster Krause, Cleopard2000, Céleste
 
-*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/testpress/)*
+*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/testpress/)*

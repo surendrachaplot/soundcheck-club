@@ -1,6 +1,6 @@
 # Otis (BE)
 
-Otis (BE) is a Club and Experimental artist with 4 upcoming club dates listed on soundcheck as of Tue, 15 Sept 2026, next at Vaux-Hall, Brussels on Sun, 20 Sept 2026.
+Otis (BE) is a Club and Experimental artist with 4 upcoming club dates listed on soundcheck as of Wed, 16 Sept 2026, next at Vaux-Hall, Brussels on Sun, 20 Sept 2026.
 
 Otis (BE) is a club and experimental artist based in Belgium, tracked on soundcheck, with 76 sets logged across Amsterdam, Bangkok, Barcelona and Berlin and 19 more. Often billed alongside Emma DJ, Erykah and Europa (1). Next up: Vaux-Hall, Brussels on Sun 20 Sept.
 
@@ -28,4 +28,4 @@ Otis (BE) is a club and experimental artist based in Belgium, tracked on soundch
 
 Emma DJ, Erykah, Europa (1)
 
-*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/otis-2/)*
+*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/otis-2/)*

@@ -1,6 +1,6 @@
 # Alex Casillas
 
-Alex Casillas is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 15 Sept 2026, next at TBA - Inland Empire (45min from LA), Los Angeles on Fri, 18 Sept 2026.
+Alex Casillas is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 16 Sept 2026, next at TBA - Inland Empire (45min from LA), Los Angeles on Fri, 18 Sept 2026.
 
 Alex Casillas is a techno and house artist tracked on soundcheck, with 24 sets logged across Losangeles. Often billed alongside Stephen Disario, Lake Hills and Barbosa. Next up: TBA - Inland Empire (45min from LA), Losangeles on Fri 18 Sept.
 
@@ -25,4 +25,4 @@ Alex Casillas is a techno and house artist tracked on soundcheck, with 24 sets l
 
 Stephen Disario, Lake Hills, Barbosa
 
-*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/alexcasillas/)*
+*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/alexcasillas/)*

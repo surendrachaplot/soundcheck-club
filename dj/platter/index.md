@@ -1,6 +1,6 @@
 # PLATTER
 
-PLATTER is a Techno and Bass artist with 2 upcoming club dates listed on soundcheck as of Tue, 15 Sept 2026, next at TBA - Jana Zamoyskiego 20, Warsaw on Fri, 18 Sept 2026.
+PLATTER is a Techno and Bass artist with 2 upcoming club dates listed on soundcheck as of Wed, 16 Sept 2026, next at TBA - Jana Zamoyskiego 20, Warsaw on Fri, 18 Sept 2026.
 
 PLATTER is a techno and bass artist tracked on soundcheck, with 34 sets logged across Amsterdam, Berlin and Warsaw. Often billed alongside androgienia, g3kko and MATRIX3K. Next up: TBA - Jana Zamoyskiego 20, Warsaw on Fri 18 Sept.
 
@@ -26,4 +26,4 @@ PLATTER is a techno and bass artist tracked on soundcheck, with 34 sets logged a
 
 androgienia, g3kko, MATRIX3K
 
-*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/platter/)*
+*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/platter/)*

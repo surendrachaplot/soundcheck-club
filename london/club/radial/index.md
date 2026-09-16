@@ -1,6 +1,6 @@
 # radial
 
-radial is a music venue in London with 14 upcoming nights listed on soundcheck as of Tue, 15 Sept 2026; the next is "STUDENT OF SOUND: AN INTRODUCTION" on Thu, 17 Sept 2026.
+radial is a music venue in London with 14 upcoming nights listed on soundcheck as of Wed, 16 Sept 2026; the next is "STUDENT OF SOUND: AN INTRODUCTION" on Thu, 17 Sept 2026.
 
 radial is a music venue in London listed on soundcheck. 14 upcoming nights, with line-ups including Seyer (UK), Aaron Burr (2), Abby Daze and Ac1d Vicious and 2 more. Browse upcoming dates, start times and who's playing. 39b Markfield Rd, N154QA, London, United Kingdom.
 
@@ -23,4 +23,4 @@ radial is a music venue in London listed on soundcheck. 14 upcoming nights, with
 
 39b Markfield Rd, N154QA, London, United Kingdom, London
 
-*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/radial/)*
+*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/radial/)*

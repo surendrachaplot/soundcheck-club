@@ -1,6 +1,6 @@
 # Holocene
 
-Holocene is a music venue in Portland with 6 upcoming nights listed on soundcheck as of Tue, 15 Sept 2026; the next is "Spend The Night presents: Ben UFO" on Sat, 19 Sept 2026.
+Holocene is a music venue in Portland with 6 upcoming nights listed on soundcheck as of Wed, 16 Sept 2026; the next is "Spend The Night presents: Ben UFO" on Sat, 19 Sept 2026.
 
 Holocene is a music venue in Portland listed on soundcheck. 6 upcoming nights, with line-ups including Ben Tactic, Ben UFO, Chippy Nonstop and Degs and 2 more. Browse upcoming dates, start times and who's playing. 1001 SE Morrison; Portland, OR 97214; United States.
 
@@ -19,4 +19,4 @@ Holocene is a music venue in Portland listed on soundcheck. 6 upcoming nights, w
 
 1001 SE Morrison; Portland, OR 97214; United States, Portland
 
-*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/portland/club/holocene/)*
+*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/portland/club/holocene/)*

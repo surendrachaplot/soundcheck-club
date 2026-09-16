@@ -1,6 +1,6 @@
 # SALOME
 
-SALOME is a Techno and Electro artist with 7 upcoming club dates listed on soundcheck as of Tue, 15 Sept 2026, next at Depot Mayfield, Manchester on Fri, 18 Sept 2026.
+SALOME is a Techno and Electro artist with 7 upcoming club dates listed on soundcheck as of Wed, 16 Sept 2026, next at Depot Mayfield, Manchester on Fri, 18 Sept 2026.
 
 SALOME is a techno and electro artist tracked on soundcheck, with 211 sets logged across Amsterdam, Antwerp, Athens and Austin and 59 more. Often billed alongside MCMLXXXV, CEM and SPFDJ. Next up: Depot Mayfield, Manchester on Fri 18 Sept.
 
@@ -31,4 +31,4 @@ SALOME is a techno and electro artist tracked on soundcheck, with 211 sets logge
 
 MCMLXXXV, CEM, SPFDJ
 
-*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/salome-de/)*
+*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/salome-de/)*

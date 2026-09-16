@@ -1,14 +1,13 @@
 # SANTØS
 
-SANTØS is a Techno and Industrial artist with 9 upcoming club dates listed on soundcheck as of Tue, 15 Sept 2026, next at Eden, Ibiza on Tue, 15 Sept 2026.
+SANTØS is a Techno and Industrial artist with 8 upcoming club dates listed on soundcheck as of Wed, 16 Sept 2026, next at Airport Würzburg, Nürnberg on Sat, 19 Sept 2026.
 
-SANTØS is a techno and industrial artist based in Netherlands, tracked on soundcheck, with 104 sets logged across Amsterdam, Antwerp, Barcelona and Belfast and 27 more. Often billed alongside KLOFAMA, KARAH and 6EJOU. Next up: Eden, Ibiza on Tue 15 Sept.
+SANTØS is a techno and industrial artist based in Netherlands, tracked on soundcheck, with 104 sets logged across Amsterdam, Antwerp, Barcelona and Belfast and 27 more. Often billed alongside KLOFAMA, KARAH and 6EJOU. Next up: Airport Würzburg, Nurnberg on Sat 19 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Tue, 15 Sept 2026 | Eden | Ibiza |
 | Sat, 19 Sept 2026 | Airport Würzburg | Nürnberg |
 | Fri, 2 Oct 2026 | BASIS | Utrecht |
 | Fri, 16 Oct 2026 | Edelfettwerk | Hamburg |
@@ -20,6 +19,7 @@ SANTØS is a techno and industrial artist based in Netherlands, tracked on sound
 
 ## Recently played
 
+- Eden, Ibiza — Tue, 15 Sept 2026
 - The Yard Vienna, Vienna — Sat, 12 Sept 2026
 - The Flinders, Sydney — Fri, 11 Sept 2026
 - Parc de la Serra de Mollerussa (Lérida), Barcelona — Sat, 5 Sept 2026
@@ -27,10 +27,9 @@ SANTØS is a techno and industrial artist based in Netherlands, tracked on sound
 - Essigfabrik, Cologne — Sat, 18 Jul 2026
 - Kilomètre25, Paris — Sat, 4 Jul 2026
 - Afas Live, Amsterdam — Sat, 27 Jun 2026
-- Strijkviertel, Utrecht — Sat, 6 Jun 2026
 
 ## Shares bills with
 
 KLOFAMA, KARAH, 6EJOU
 
-*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/santos-nl/)*
+*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/santos-nl/)*

@@ -1,6 +1,6 @@
 # Hansy
 
-Hansy is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 15 Sept 2026, next at Nyapi, Seoul on Wed, 23 Sept 2026.
+Hansy is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 16 Sept 2026, next at Nyapi, Seoul on Wed, 23 Sept 2026.
 
 Hansy is a techno and house artist based in South Korea, tracked on soundcheck, with 33 sets logged across Seoul. Often billed alongside S.Telecom, A.Attack and Rob Goodspeed. Next up: Nyapi, Seoul on Wed 23 Sept.
 
@@ -25,4 +25,4 @@ Hansy is a techno and house artist based in South Korea, tracked on soundcheck, 
 
 S.Telecom, A.Attack, Rob Goodspeed
 
-*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/hansy/)*
+*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/hansy/)*

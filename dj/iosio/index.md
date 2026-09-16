@@ -1,6 +1,6 @@
 # IOSIO
 
-IOSIO is a Techno and House artist with 7 upcoming club dates listed on soundcheck as of Tue, 15 Sept 2026, next at Openluchttheater Amersfoort, Amsterdam on Fri, 18 Sept 2026.
+IOSIO is a Techno and House artist with 7 upcoming club dates listed on soundcheck as of Wed, 16 Sept 2026, next at Openluchttheater Amersfoort, Amsterdam on Fri, 18 Sept 2026.
 
 IOSIO is a techno and house artist tracked on soundcheck, with 34 sets logged across Amsterdam, Antwerp, Berlin and London and 6 more. Often billed alongside Cynthia Spiering, davyboi and BØĘRY. Next up: Openluchttheater Amersfoort, Amsterdam on Fri 18 Sept.
 
@@ -31,4 +31,4 @@ IOSIO is a techno and house artist tracked on soundcheck, with 34 sets logged ac
 
 Cynthia Spiering, davyboi, BØĘRY
 
-*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/iosio/)*
+*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/iosio/)*

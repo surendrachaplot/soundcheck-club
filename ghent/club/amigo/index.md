@@ -1,6 +1,6 @@
 # Amigo
 
-Amigo is a music venue in Ghent with 4 upcoming nights listed on soundcheck as of Tue, 15 Sept 2026; the next is "Whispers Before Flight (In collab with Raw Code)" on Fri, 18 Sept 2026.
+Amigo is a music venue in Ghent with 4 upcoming nights listed on soundcheck as of Wed, 16 Sept 2026; the next is "Whispers Before Flight (In collab with Raw Code)" on Fri, 18 Sept 2026.
 
 Amigo is a music venue in Ghent listed on soundcheck. 4 upcoming nights, with line-ups including AliA, Be, Casper and clïo and 2 more. Browse upcoming dates, start times and who's playing. Stapelplein 31, 9000 Gent, Belgium.
 
@@ -17,4 +17,4 @@ Amigo is a music venue in Ghent listed on soundcheck. 4 upcoming nights, with li
 
 Stapelplein 31, 9000 Gent, Belgium, Ghent
 
-*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/ghent/club/amigo/)*
+*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/ghent/club/amigo/)*

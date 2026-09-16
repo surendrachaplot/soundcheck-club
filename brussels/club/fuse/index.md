@@ -1,6 +1,6 @@
 # Fuse
 
-Fuse is a music venue in Brussels with 11 upcoming nights listed on soundcheck as of Tue, 15 Sept 2026; the next is "Fuse presents: SESH with Clara Cuvé & PETERBLUE" on Fri, 18 Sept 2026.
+Fuse is a music venue in Brussels with 11 upcoming nights listed on soundcheck as of Wed, 16 Sept 2026; the next is "Fuse presents: SESH with Clara Cuvé & PETERBLUE" on Fri, 18 Sept 2026.
 
 Fuse is a music venue in Brussels listed on soundcheck. 11 upcoming nights, with line-ups including A. Brehme, Altinbas, Ben Klock and Blasha & Allatt and 2 more. Browse upcoming dates, start times and who's playing. Blaesstraat 208, 1000 Brussel, Belgium.
 
@@ -23,4 +23,4 @@ Fuse is a music venue in Brussels listed on soundcheck. 11 upcoming nights, with
 
 Blaesstraat 208, 1000 Brussel, Belgium, Brussels
 
-*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/brussels/club/fuse/)*
+*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/brussels/club/fuse/)*

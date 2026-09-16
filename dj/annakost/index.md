@@ -1,6 +1,6 @@
 # Anna Kost
 
-Anna Kost is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Tue, 15 Sept 2026, next at Poly, Lyon on Sat, 24 Oct 2026.
+Anna Kost is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Wed, 16 Sept 2026, next at Poly, Lyon on Sat, 24 Oct 2026.
 
 Anna Kost is a techno and house artist tracked on soundcheck, with 23 sets logged across Amsterdam, Berlin, Geneva and Lyon and 2 more. Often billed alongside Toni Dextor, Guava and Juri Heidemann. Next up: Poly, Lyon on Sat 24 Oct.
 
@@ -26,4 +26,4 @@ Anna Kost is a techno and house artist tracked on soundcheck, with 23 sets logge
 
 Toni Dextor, Guava, Juri Heidemann
 
-*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/annakost/)*
+*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/annakost/)*

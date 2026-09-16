@@ -1,6 +1,6 @@
 # Brad Alloc
 
-Brad Alloc is a Trance and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 15 Sept 2026, next at TBA, Rome on Sat, 19 Sept 2026.
+Brad Alloc is a Trance and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 16 Sept 2026, next at TBA, Rome on Sat, 19 Sept 2026.
 
 Brad Alloc is a trance and techno artist tracked on soundcheck, with 5 sets logged across Milan and Rome. Often billed alongside Giesse, Katatonic Silentio and Bluemarina. Next up: TBA, Rome on Sat 19 Sept.
 
@@ -21,4 +21,4 @@ Brad Alloc is a trance and techno artist tracked on soundcheck, with 5 sets logg
 
 Giesse, Katatonic Silentio, Bluemarina
 
-*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bradalloc/)*
+*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bradalloc/)*

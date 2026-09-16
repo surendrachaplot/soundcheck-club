@@ -1,6 +1,6 @@
 # Crowd Control
 
-Crowd Control is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Tue, 15 Sept 2026, next at Super5, Lyon on Wed, 23 Sept 2026.
+Crowd Control is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Wed, 16 Sept 2026, next at Super5, Lyon on Wed, 23 Sept 2026.
 
 Crowd Control is a house and disco artist based in France, tracked on soundcheck, with 88 sets logged across Amsterdam, Barcelona, Berlin and Cologne and 18 more. Often billed alongside Maggy Smiss, Baka G and Denyl Brook. Next up: Super5, Lyon on Wed 23 Sept.
 
@@ -26,4 +26,4 @@ Crowd Control is a house and disco artist based in France, tracked on soundcheck
 
 Maggy Smiss, Baka G, Denyl Brook
 
-*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/crowdcontrol/)*
+*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/crowdcontrol/)*

@@ -1,6 +1,6 @@
 # HERO SHIMOJI
 
-HERO SHIMOJI is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Tue, 15 Sept 2026, next at Artsect Gallery, London on Fri, 18 Sept 2026.
+HERO SHIMOJI is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Wed, 16 Sept 2026, next at Artsect Gallery, London on Fri, 18 Sept 2026.
 
 HERO SHIMOJI is a tech house and house artist tracked on soundcheck, with 6 sets logged across Hongkong, London and Milan. Often billed alongside AngeliKa, Debba and Jeremy Cheung. Next up: Artsect Gallery, London on Fri 18 Sept.
 
@@ -22,4 +22,4 @@ HERO SHIMOJI is a tech house and house artist tracked on soundcheck, with 6 sets
 
 AngeliKa, Debba, Jeremy Cheung
 
-*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/heroshimoji/)*
+*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/heroshimoji/)*

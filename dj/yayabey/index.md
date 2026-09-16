@@ -1,6 +1,6 @@
 # Yaya Bey
 
-Yaya Bey is a R&B and Hip-Hop artist with 1 upcoming club date listed on soundcheck as of Tue, 15 Sept 2026, next at The Pearl, Vancouver on Fri, 18 Sept 2026.
+Yaya Bey is a R&B and Hip-Hop artist with 1 upcoming club date listed on soundcheck as of Wed, 16 Sept 2026, next at The Pearl, Vancouver on Fri, 18 Sept 2026.
 
 Yaya Bey is a r&b and hip-hop artist tracked on soundcheck, with 4 sets logged across Berlin, Losangeles, Newyorkcity and Vancouver. Often billed alongside Exaktly. Next up: The Pearl, Vancouver on Fri 18 Sept.
 
@@ -20,4 +20,4 @@ Yaya Bey is a r&b and hip-hop artist tracked on soundcheck, with 4 sets logged a
 
 Exaktly
 
-*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/yayabey/)*
+*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/yayabey/)*

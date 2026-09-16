@@ -1,6 +1,6 @@
 # BALI G
 
-BALI G is a House and Balearic artist with 1 upcoming club date listed on soundcheck as of Tue, 15 Sept 2026, next at Funkhaus, Vienna on Sat, 19 Sept 2026.
+BALI G is a House and Balearic artist with 1 upcoming club date listed on soundcheck as of Wed, 16 Sept 2026, next at Funkhaus, Vienna on Sat, 19 Sept 2026.
 
 BALI G is a house and balearic artist based in Slovakia, tracked on soundcheck, with 4 sets logged across Edinburgh, Prague and Vienna. Often billed alongside Jimmie, Kidcat and Leona Jacewska. Next up: Funkhaus, Vienna on Sat 19 Sept.
 
@@ -20,4 +20,4 @@ BALI G is a house and balearic artist based in Slovakia, tracked on soundcheck, 
 
 Jimmie, Kidcat, Leona Jacewska
 
-*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/balig/)*
+*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/balig/)*

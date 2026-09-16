@@ -1,6 +1,6 @@
 # Uebel & Gefährlich
 
-Uebel & Gefährlich is a music venue in Hamburg with 13 upcoming nights listed on soundcheck as of Tue, 15 Sept 2026; the next is "Reeperbahn Festival – Track-ID x JUICY GANG RECORDS with NEWINFLUENZER b2b DJ MELL G" on Fri, 18 Sept 2026.
+Uebel & Gefährlich is a music venue in Hamburg with 13 upcoming nights listed on soundcheck as of Wed, 16 Sept 2026; the next is "Reeperbahn Festival – Track-ID x JUICY GANG RECORDS with NEWINFLUENZER b2b DJ MELL G" on Fri, 18 Sept 2026.
 
 Uebel & Gefährlich is a music venue in Hamburg listed on soundcheck. 13 upcoming nights, with line-ups including AEREA, Aiden (DE), Alignment and BNZN and 2 more. Browse upcoming dates, start times and who's playing. Feldstrasse 66; 20359 Hamburg; Germany.
 
@@ -23,4 +23,4 @@ Uebel & Gefährlich is a music venue in Hamburg listed on soundcheck. 13 upcomin
 
 Feldstrasse 66; 20359 Hamburg; Germany, Hamburg
 
-*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/hamburg/club/uebel-gef-hrlich/)*
+*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/hamburg/club/uebel-gef-hrlich/)*

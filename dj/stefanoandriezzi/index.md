@@ -1,6 +1,6 @@
 # Stefano Andriezzi
 
-Stefano Andriezzi is a House and Electro artist with 1 upcoming club date listed on soundcheck as of Tue, 15 Sept 2026, next at Almar Beach Club, Barcelona on Sat, 19 Sept 2026.
+Stefano Andriezzi is a House and Electro artist with 1 upcoming club date listed on soundcheck as of Wed, 16 Sept 2026, next at Almar Beach Club, Barcelona on Sat, 19 Sept 2026.
 
 Stefano Andriezzi is a house and electro artist based in Venezuela, tracked on soundcheck, with 54 sets logged across Barcelona, Brussels, Buenosaires and Cologne and 6 more. Often billed alongside Sampol, Brieela and LM. Next up: Almar Beach Club, Barcelona on Sat 19 Sept.
 
@@ -25,4 +25,4 @@ Stefano Andriezzi is a house and electro artist based in Venezuela, tracked on s
 
 Sampol, Brieela, LM
 
-*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/stefanoandriezzi/)*
+*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/stefanoandriezzi/)*

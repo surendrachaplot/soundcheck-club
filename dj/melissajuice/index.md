@@ -1,6 +1,6 @@
 # Melissa Juice
 
-Melissa Juice is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 15 Sept 2026, next at Illegaal, Brussels on Sat, 3 Oct 2026.
+Melissa Juice is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 16 Sept 2026, next at Illegaal, Brussels on Sat, 3 Oct 2026.
 
 Melissa Juice is a house and techno artist tracked on soundcheck, with 62 sets logged across Amsterdam, Antwerp, Brussels and Geneva and 1 more. Often billed alongside Fais Le Beau, DC Salas and Zouzibabe. Next up: Illegaal, Brussels on Sat 3 Oct.
 
@@ -25,4 +25,4 @@ Melissa Juice is a house and techno artist tracked on soundcheck, with 62 sets l
 
 Fais Le Beau, DC Salas, Zouzibabe
 
-*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/melissajuice/)*
+*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/melissajuice/)*

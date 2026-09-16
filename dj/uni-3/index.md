@@ -1,6 +1,6 @@
 # Uni (3)
 
-Uni (3) is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 15 Sept 2026, next at Faust, Seoul on Sun, 4 Oct 2026.
+Uni (3) is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 16 Sept 2026, next at Faust, Seoul on Sun, 4 Oct 2026.
 
 Uni (3) is a house and techno artist based in South Korea, tracked on soundcheck, with 40 sets logged across Bangkok, Newyorkcity and Seoul. Often billed alongside Bolm, YAREE and NUSNOOM. Next up: Faust, Seoul on Sun 4 Oct.
 
@@ -25,4 +25,4 @@ Uni (3) is a house and techno artist based in South Korea, tracked on soundcheck
 
 Bolm, YAREE, NUSNOOM
 
-*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/uni-3/)*
+*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/uni-3/)*

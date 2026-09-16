@@ -1,6 +1,6 @@
 # La Cité Fertile
 
-La Cité Fertile is a music venue in Paris with 5 upcoming nights listed on soundcheck as of Tue, 15 Sept 2026; the next is "P2z Fertile - Thomas Melchior, Lawrence & Cosmo" on Sat, 19 Sept 2026.
+La Cité Fertile is a music venue in Paris with 5 upcoming nights listed on soundcheck as of Wed, 16 Sept 2026; the next is "P2z Fertile - Thomas Melchior, Lawrence & Cosmo" on Sat, 19 Sept 2026.
 
 La Cité Fertile is a music venue in Paris listed on soundcheck. 5 upcoming nights, with line-ups including Abn - P2z, Alycia Bezgo, Cosmo (KR) and Deep Tears On Clamart and 2 more. Browse upcoming dates, start times and who's playing. 14 avenue Edouard Vaillant, 93500 Pantin.
 
@@ -18,4 +18,4 @@ La Cité Fertile is a music venue in Paris listed on soundcheck. 5 upcoming nigh
 
 14 avenue Edouard Vaillant, 93500 Pantin, Paris
 
-*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/paris/club/la-cit-fertile/)*
+*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/paris/club/la-cit-fertile/)*

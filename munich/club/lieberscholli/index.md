@@ -1,6 +1,6 @@
 # Lieberscholli
 
-Lieberscholli is a music venue in Munich with 5 upcoming nights listed on soundcheck as of Tue, 15 Sept 2026; the next is "VIERVIERTEL presents: ¥UB1K, Modul Kollektiv, QUIRIN, Nothing But Love, MOMO, BT, mystycs TBA" on Sat, 19 Sept 2026.
+Lieberscholli is a music venue in Munich with 5 upcoming nights listed on soundcheck as of Wed, 16 Sept 2026; the next is "VIERVIERTEL presents: ¥UB1K, Modul Kollektiv, QUIRIN, Nothing But Love, MOMO, BT, mystycs TBA" on Sat, 19 Sept 2026.
 
 Lieberscholli is a music venue in Munich listed on soundcheck. 5 upcoming nights, with line-ups including aemy, ALBA (3), Anna Reusch and diladï and 2 more. Browse upcoming dates, start times and who's playing. Landsberger Str. 212, 80687 München, Germany.
 
@@ -18,4 +18,4 @@ Lieberscholli is a music venue in Munich listed on soundcheck. 5 upcoming nights
 
 Landsberger Str. 212, 80687 München, Germany, Munich
 
-*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/munich/club/lieberscholli/)*
+*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/munich/club/lieberscholli/)*

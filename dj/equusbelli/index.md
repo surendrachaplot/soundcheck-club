@@ -1,6 +1,6 @@
 # Equus Belli
 
-Equus Belli is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Tue, 15 Sept 2026, next at La Java, Paris on Thu, 15 Oct 2026.
+Equus Belli is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Wed, 16 Sept 2026, next at La Java, Paris on Thu, 15 Oct 2026.
 
 Equus Belli is a techno and house artist tracked on soundcheck, with 22 sets logged across Berlin and Paris. Often billed alongside A.Litique, Litoshka and Maris Shilton. Next up: La Java, Paris on Thu 15 Oct.
 
@@ -26,4 +26,4 @@ Equus Belli is a techno and house artist tracked on soundcheck, with 22 sets log
 
 A.Litique, Litoshka, Maris Shilton
 
-*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/equusbelli/)*
+*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/equusbelli/)*

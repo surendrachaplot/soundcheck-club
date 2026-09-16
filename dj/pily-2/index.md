@@ -1,6 +1,6 @@
 # Pily (2)
 
-Pily (2) is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 15 Sept 2026, next at Club der Visionaere, Berlin on Sat, 19 Sept 2026.
+Pily (2) is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 16 Sept 2026, next at Club der Visionaere, Berlin on Sat, 19 Sept 2026.
 
 Pily (2) is a house and techno artist based in United States of America, tracked on soundcheck, with 22 sets logged across Berlin, Chicago, Losangeles and Mexicocity and 3 more. Often billed alongside Steingold, Andër and Chemtrail Johnny. Next up: Club der Visionaere, Berlin on Sat 19 Sept.
 
@@ -25,4 +25,4 @@ Pily (2) is a house and techno artist based in United States of America, tracked
 
 Steingold, Andër, Chemtrail Johnny
 
-*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/pily-2/)*
+*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/pily-2/)*

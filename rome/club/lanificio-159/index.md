@@ -1,6 +1,6 @@
 # Lanificio 159
 
-Lanificio 159 is a music venue in Rome with 1 upcoming night listed on soundcheck as of Tue, 15 Sept 2026; the next is "Juno World with Shakolin, Enrico Vivaldi, Lemonizz" on Fri, 9 Oct 2026.
+Lanificio 159 is a music venue in Rome with 1 upcoming night listed on soundcheck as of Wed, 16 Sept 2026; the next is "Juno World with Shakolin, Enrico Vivaldi, Lemonizz" on Fri, 9 Oct 2026.
 
 Lanificio 159 is a music venue in Rome listed on soundcheck. 1 upcoming night, with line-ups including Enrico Vivaldi and Shakolin. Browse upcoming dates, start times and who's playing. Via di Pietralata 159A, 00158 Roma (RM).
 
@@ -14,4 +14,4 @@ Lanificio 159 is a music venue in Rome listed on soundcheck. 1 upcoming night, w
 
 Via di Pietralata 159A, 00158 Roma (RM), Rome
 
-*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/rome/club/lanificio-159/)*
+*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/rome/club/lanificio-159/)*

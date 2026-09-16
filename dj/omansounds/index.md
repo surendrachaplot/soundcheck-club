@@ -1,6 +1,6 @@
 # Oman Sounds
 
-Oman Sounds is a Experimental and Electronica artist with 1 upcoming club date listed on soundcheck as of Tue, 15 Sept 2026, next at 90mil, Berlin on Fri, 25 Sept 2026.
+Oman Sounds is a Experimental and Electronica artist with 1 upcoming club date listed on soundcheck as of Wed, 16 Sept 2026, next at 90mil, Berlin on Fri, 25 Sept 2026.
 
 Oman Sounds is an experimental and electronica artist tracked on soundcheck, with 9 sets logged across Berlin. Often billed alongside Temple Rat, 11v151131_M06 and 3rd Party Influence. Next up: 90mil, Berlin on Fri 25 Sept.
 
@@ -25,4 +25,4 @@ Oman Sounds is an experimental and electronica artist tracked on soundcheck, wit
 
 Temple Rat, 11v151131_M06, 3rd Party Influence
 
-*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/omansounds/)*
+*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/omansounds/)*

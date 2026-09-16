@@ -1,6 +1,6 @@
 # LUPO PECE
 
-LUPO PECE is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 15 Sept 2026, next at BARDO, Milan on Wed, 16 Sept 2026.
+LUPO PECE is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 16 Sept 2026, next at BARDO, Milan on Wed, 16 Sept 2026.
 
 LUPO PECE is a techno and house artist based in Italy, tracked on soundcheck, with 24 sets logged across Lisbon, Milan and Rome. Often billed alongside Dove Quiete, Andrewww and Brillante. Next up: BARDO, Milan on Wed 16 Sept.
 
@@ -25,4 +25,4 @@ LUPO PECE is a techno and house artist based in Italy, tracked on soundcheck, wi
 
 Dove Quiete, Andrewww, Brillante
 
-*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lupopece/)*
+*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lupopece/)*

@@ -1,6 +1,6 @@
 # Fuzzbrain Studios
 
-Fuzzbrain Studios is a music venue in London with 1 upcoming night listed on soundcheck as of Tue, 15 Sept 2026; the next is "retropxssy: Into The Portal" on Sat, 10 Oct 2026.
+Fuzzbrain Studios is a music venue in London with 1 upcoming night listed on soundcheck as of Wed, 16 Sept 2026; the next is "retropxssy: Into The Portal" on Sat, 10 Oct 2026.
 
 Fuzzbrain Studios is a music venue in London listed on soundcheck. 1 upcoming night, with line-ups including JoeJas and retropxssy. Browse upcoming dates, start times and who's playing. Unit K, Blackhorse Mews, London E17 6SL.
 
@@ -14,4 +14,4 @@ Fuzzbrain Studios is a music venue in London listed on soundcheck. 1 upcoming ni
 
 Unit K, Blackhorse Mews, London E17 6SL, London
 
-*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/fuzzbrain-studios/)*
+*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/fuzzbrain-studios/)*

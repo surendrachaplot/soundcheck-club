@@ -1,6 +1,6 @@
 # Notte Infinita
 
-Notte Infinita is a Techno and Bass artist with 4 upcoming club dates listed on soundcheck as of Tue, 15 Sept 2026, next at public records, New York City on Thu, 17 Sept 2026.
+Notte Infinita is a Techno and Bass artist with 4 upcoming club dates listed on soundcheck as of Wed, 16 Sept 2026, next at public records, New York City on Thu, 17 Sept 2026.
 
 Notte Infinita is a techno and bass artist tracked on soundcheck, with 47 sets logged across Amsterdam, Athens, Barcelona and Berlin and 19 more. Often billed alongside Konduku, Marylou and OK EG. Next up: public records, Newyorkcity on Thu 17 Sept.
 
@@ -28,4 +28,4 @@ Notte Infinita is a techno and bass artist tracked on soundcheck, with 47 sets l
 
 Konduku, Marylou, OK EG
 
-*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/notteinfinita/)*
+*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/notteinfinita/)*

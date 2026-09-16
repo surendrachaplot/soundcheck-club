@@ -1,6 +1,6 @@
 # Jude Race
 
-Jude Race is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 15 Sept 2026, next at renae, Manchester on Thu, 29 Oct 2026.
+Jude Race is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 16 Sept 2026, next at renae, Manchester on Thu, 29 Oct 2026.
 
 Jude Race is a house and techno artist tracked on soundcheck, with 28 sets logged across Leeds, London, Manchester and Newcastle. Often billed alongside Weston, Connor Southerland and DMC.. Next up: renae, Manchester on Thu 29 Oct.
 
@@ -25,4 +25,4 @@ Jude Race is a house and techno artist tracked on soundcheck, with 28 sets logge
 
 Weston, Connor Southerland, DMC.
 
-*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/juderace/)*
+*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/juderace/)*

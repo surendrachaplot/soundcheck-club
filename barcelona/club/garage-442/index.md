@@ -1,6 +1,6 @@
 # Garage 442
 
-Garage 442 is a music venue in Barcelona with 5 upcoming nights listed on soundcheck as of Tue, 15 Sept 2026; the next is "(Free) SEVERAL Showcase" on Wed, 16 Sept 2026.
+Garage 442 is a music venue in Barcelona with 5 upcoming nights listed on soundcheck as of Wed, 16 Sept 2026; the next is "(Free) SEVERAL Showcase" on Wed, 16 Sept 2026.
 
 Garage 442 is a music venue in Barcelona listed on soundcheck. 5 upcoming nights, with line-ups including Inpulse, KARI (Ø), Matteo Floris and MKT (DE) and 1 more. Browse upcoming dates, start times and who's playing. Avinguda Diagonal, 442, 08037 Barcelona.
 
@@ -18,4 +18,4 @@ Garage 442 is a music venue in Barcelona listed on soundcheck. 5 upcoming nights
 
 Avinguda Diagonal, 442, 08037 Barcelona, Barcelona
 
-*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/garage-442/)*
+*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/garage-442/)*

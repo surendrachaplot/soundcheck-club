@@ -1,6 +1,6 @@
 # Yoshiko
 
-Yoshiko is a Techno and Hardcore artist with 9 upcoming club dates listed on soundcheck as of Tue, 15 Sept 2026, next at Airport Würzburg, Nürnberg on Fri, 16 Oct 2026.
+Yoshiko is a Techno and Hardcore artist with 9 upcoming club dates listed on soundcheck as of Wed, 16 Sept 2026, next at Airport Würzburg, Nürnberg on Fri, 16 Oct 2026.
 
 Yoshiko is a techno and hardcore artist tracked on soundcheck, with 38 sets logged across Amsterdam, Antwerp, Barcelona and Berlin and 22 more. Often billed alongside Dimitri K, The Dark Horror and Winson. Next up: Airport Würzburg, Nurnberg on Fri 16 Oct.
 
@@ -33,4 +33,4 @@ Yoshiko is a techno and hardcore artist tracked on soundcheck, with 38 sets logg
 
 Dimitri K, The Dark Horror, Winson
 
-*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/yoshiko/)*
+*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/yoshiko/)*

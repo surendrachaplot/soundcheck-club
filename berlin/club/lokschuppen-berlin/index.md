@@ -1,14 +1,13 @@
 # Lokschuppen Berlin
 
-Lokschuppen Berlin is a music venue in Berlin with 63 upcoming nights listed on soundcheck as of Tue, 15 Sept 2026; the next is "PHASE:ONE" on Tue, 15 Sept 2026.
+Lokschuppen Berlin is a music venue in Berlin with 62 upcoming nights listed on soundcheck as of Wed, 16 Sept 2026; the next is "SIGNALS - 5€ Tickets - with Unromantic, DJ EGOSHOOTER 10000, Bonzo & DJ Keyframe" on Wed, 16 Sept 2026.
 
-Lokschuppen Berlin is a music venue in Berlin listed on soundcheck. 63 upcoming nights, with line-ups including 1luu, 4NOUK, 5euroGoldi and YOVA and 2 more. Browse upcoming dates, start times and who's playing. Warschauer Brücke, Revaler Straße 99 Zugang über, 10245 Berlin, Germany.
+Lokschuppen Berlin is a music venue in Berlin listed on soundcheck. 62 upcoming nights, with line-ups including 1luu, 4NOUK, 5euroGoldi and YOVA and 2 more. Browse upcoming dates, start times and who's playing. Warschauer Brücke, Revaler Straße 99 Zugang über, 10245 Berlin, Germany.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Tue, 15 Sept 2026 | PHASE:ONE | STASIC |
 | Wed, 16 Sept 2026 | SIGNALS - 5€ Tickets - with Unromantic, DJ EGOSHOOTER 10000, Bonzo & DJ Keyframe | Bonzo (2), DJ Keyframe, Unromantic |
 | Thu, 17 Sept 2026 | Chantal's House of Shame |  |
 | Thu, 17 Sept 2026 | Chantal's House of Shame |  |
@@ -18,9 +17,10 @@ Lokschuppen Berlin is a music venue in Berlin listed on soundcheck. 63 upcoming 
 | Tue, 22 Sept 2026 | PHASE:ONE | Megaira |
 | Wed, 23 Sept 2026 | SIGNALS |  |
 | Wed, 23 Sept 2026 | SIGNALS - 5€ Tickets - with Anna Ullrich, bouncy cat, Tom Forelli | Anna Ullrich, Tom Forelli, bouncy cat |
+| Thu, 24 Sept 2026 | Chantal's House of Shame |  |
 
 ## Address
 
 Warschauer Brücke, Revaler Straße 99 Zugang über, 10245 Berlin, Germany, Berlin
 
-*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/lokschuppen-berlin/)*
+*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/lokschuppen-berlin/)*

@@ -1,6 +1,6 @@
 # Louise Plus One
 
-Louise Plus One is a Jungle and Hardcore artist with 6 upcoming club dates listed on soundcheck as of Tue, 15 Sept 2026, next at The Loco Klub, Bristol on Fri, 18 Sept 2026.
+Louise Plus One is a Jungle and Hardcore artist with 6 upcoming club dates listed on soundcheck as of Wed, 16 Sept 2026, next at The Loco Klub, Bristol on Fri, 18 Sept 2026.
 
 Louise Plus One is a jungle and hardcore artist tracked on soundcheck, with 119 sets logged across Amsterdam, Berlin, Bristol and Glasgow and 6 more. Often billed alongside Hughesee, Equinox (UK) and DJ Azure. Next up: The Loco Klub, Bristol on Fri 18 Sept.
 
@@ -30,4 +30,4 @@ Louise Plus One is a jungle and hardcore artist tracked on soundcheck, with 119 
 
 Hughesee, Equinox (UK), DJ Azure
 
-*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/louiseplusone/)*
+*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/louiseplusone/)*

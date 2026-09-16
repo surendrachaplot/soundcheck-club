@@ -1,6 +1,6 @@
 # TADI THE GREAT
 
-TADI THE GREAT is a Jazz and Funk / Soul artist with 1 upcoming club date listed on soundcheck as of Tue, 15 Sept 2026, next at Vespers Club, London on Fri, 18 Sept 2026.
+TADI THE GREAT is a Jazz and Funk / Soul artist with 1 upcoming club date listed on soundcheck as of Wed, 16 Sept 2026, next at Vespers Club, London on Fri, 18 Sept 2026.
 
 TADI THE GREAT is a jazz and funk / soul artist tracked on soundcheck, with 6 sets logged across London. Often billed alongside Dexter Dooley. Next up: Vespers Club, London on Fri 18 Sept.
 
@@ -22,4 +22,4 @@ TADI THE GREAT is a jazz and funk / soul artist tracked on soundcheck, with 6 se
 
 Dexter Dooley
 
-*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tadithegreat/)*
+*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tadithegreat/)*

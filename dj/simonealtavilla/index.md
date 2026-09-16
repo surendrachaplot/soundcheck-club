@@ -1,6 +1,6 @@
 # Simone Altavilla
 
-Simone Altavilla is a House and IDM artist with 1 upcoming club date listed on soundcheck as of Tue, 15 Sept 2026, next at Het Salon, Amsterdam on Sat, 3 Oct 2026.
+Simone Altavilla is a House and IDM artist with 1 upcoming club date listed on soundcheck as of Wed, 16 Sept 2026, next at Het Salon, Amsterdam on Sat, 3 Oct 2026.
 
 Simone Altavilla is a house and idm artist tracked on soundcheck, with 4 sets logged across Amsterdam, Dublin, Lisbon and Utrecht. Often billed alongside CON.R, CONCEPTUAL and Delikwe. Next up: Het Salon, Amsterdam on Sat 3 Oct.
 
@@ -20,4 +20,4 @@ Simone Altavilla is a house and idm artist tracked on soundcheck, with 4 sets lo
 
 CON.R, CONCEPTUAL, Delikwe
 
-*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/simonealtavilla/)*
+*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/simonealtavilla/)*

@@ -1,6 +1,6 @@
 # KUKO
 
-KUKO is a Techno and Trance artist with 17 upcoming club dates listed on soundcheck as of Tue, 15 Sept 2026, next at Radius, Chicago on Fri, 18 Sept 2026.
+KUKO is a Techno and Trance artist with 17 upcoming club dates listed on soundcheck as of Wed, 16 Sept 2026, next at Radius, Chicago on Fri, 18 Sept 2026.
 
 KUKO is a techno and trance artist tracked on soundcheck, with 214 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 52 more. Often billed alongside Cloudy, Adrian Mills and Johannes Schuster. Next up: Radius, Chicago on Fri 18 Sept.
 
@@ -36,4 +36,4 @@ KUKO is a techno and trance artist tracked on soundcheck, with 214 sets logged a
 
 Cloudy, Adrian Mills, Johannes Schuster
 
-*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kuko-de/)*
+*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kuko-de/)*

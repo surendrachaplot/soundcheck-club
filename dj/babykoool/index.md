@@ -1,6 +1,6 @@
 # BABYKOOOL
 
-BABYKOOOL is a Hip-Hop and Club artist with 1 upcoming club date listed on soundcheck as of Tue, 15 Sept 2026, next at Bolero, Seoul on Fri, 18 Sept 2026.
+BABYKOOOL is a Hip-Hop and Club artist with 1 upcoming club date listed on soundcheck as of Wed, 16 Sept 2026, next at Bolero, Seoul on Fri, 18 Sept 2026.
 
 BABYKOOOL is a hip-hop and club artist based in South Korea, tracked on soundcheck, with 43 sets logged across Seoul. Often billed alongside Daul, BILL.E and DOBERMAN. Next up: Bolero, Seoul on Fri 18 Sept.
 
@@ -25,4 +25,4 @@ BABYKOOOL is a hip-hop and club artist based in South Korea, tracked on soundche
 
 Daul, BILL.E, DOBERMAN
 
-*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/babykoool/)*
+*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/babykoool/)*

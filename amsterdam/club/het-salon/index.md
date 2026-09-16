@@ -1,6 +1,6 @@
 # Het Salon
 
-Het Salon is a music venue in Amsterdam with 4 upcoming nights listed on soundcheck as of Tue, 15 Sept 2026; the next is "Metamorphosis" on Sat, 3 Oct 2026.
+Het Salon is a music venue in Amsterdam with 4 upcoming nights listed on soundcheck as of Wed, 16 Sept 2026; the next is "Metamorphosis" on Sat, 3 Oct 2026.
 
 Het Salon is a music venue in Amsterdam listed on soundcheck. 4 upcoming nights, with line-ups including Craig Richards, Daan Donk, Hannecart and Idilay and 2 more. Browse upcoming dates, start times and who's playing. Condensatorweg 36, 1014 AX Amsterdam.
 
@@ -17,4 +17,4 @@ Het Salon is a music venue in Amsterdam listed on soundcheck. 4 upcoming nights,
 
 Condensatorweg 36, 1014 AX Amsterdam, Amsterdam
 
-*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/het-salon/)*
+*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/het-salon/)*

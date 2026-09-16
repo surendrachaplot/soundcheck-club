@@ -1,6 +1,6 @@
 # Taichi Nagayama
 
-Taichi Nagayama is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 15 Sept 2026, next at Azumaya, Tokyo on Sun, 20 Sept 2026.
+Taichi Nagayama is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 16 Sept 2026, next at Azumaya, Tokyo on Sun, 20 Sept 2026.
 
 Taichi Nagayama is a house and techno artist tracked on soundcheck, with 39 sets logged across Tokyo. Often billed alongside MIZUKI OGISU, Masahide Ohno and niwa. Next up: Azumaya, Tokyo on Sun 20 Sept.
 
@@ -25,4 +25,4 @@ Taichi Nagayama is a house and techno artist tracked on soundcheck, with 39 sets
 
 MIZUKI OGISU, Masahide Ohno, niwa
 
-*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/taichinagayama/)*
+*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/taichinagayama/)*

@@ -1,6 +1,6 @@
 # B2 Rīga
 
-B2 Rīga is a music venue in Riga with 7 upcoming nights listed on soundcheck as of Tue, 15 Sept 2026; the next is "HOIST 005" on Fri, 18 Sept 2026.
+B2 Rīga is a music venue in Riga with 7 upcoming nights listed on soundcheck as of Wed, 16 Sept 2026; the next is "HOIST 005" on Fri, 18 Sept 2026.
 
 B2 Rīga is a music venue in Riga listed on soundcheck. 7 upcoming nights, with line-ups including Aistelele, ANASI, DEEP DISTRICT and Diego Krause and 2 more. Browse upcoming dates, start times and who's playing. Bruņinieku iela 2, Rīga.
 
@@ -20,4 +20,4 @@ B2 Rīga is a music venue in Riga listed on soundcheck. 7 upcoming nights, with 
 
 Bruņinieku iela 2, Rīga, Riga
 
-*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/riga/club/b2-r-ga/)*
+*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/riga/club/b2-r-ga/)*

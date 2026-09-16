@@ -1,6 +1,6 @@
 # O'Briens Pub
 
-O'Briens Pub is a music venue in Boston with 1 upcoming night listed on soundcheck as of Tue, 15 Sept 2026; the next is "Content Brakes: PIG, Cyanotic, Biproduct" on Mon, 28 Sept 2026.
+O'Briens Pub is a music venue in Boston with 1 upcoming night listed on soundcheck as of Wed, 16 Sept 2026; the next is "Content Brakes: PIG, Cyanotic, Biproduct" on Mon, 28 Sept 2026.
 
 O'Briens Pub is a music venue in Boston listed on soundcheck. 1 upcoming night, with line-ups including Biproduct. Browse upcoming dates, start times and who's playing. 3 Harvard Ave, Allston MA 02134.
 
@@ -14,4 +14,4 @@ O'Briens Pub is a music venue in Boston listed on soundcheck. 1 upcoming night, 
 
 3 Harvard Ave, Allston MA 02134, Boston
 
-*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/boston/club/o-briens-pub/)*
+*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/boston/club/o-briens-pub/)*

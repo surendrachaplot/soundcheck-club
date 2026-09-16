@@ -1,6 +1,6 @@
 # skruba
 
-skruba is a Grime and Dubstep artist with 1 upcoming club date listed on soundcheck as of Tue, 15 Sept 2026, next at Club Makossa, London on Sat, 19 Sept 2026.
+skruba is a Grime and Dubstep artist with 1 upcoming club date listed on soundcheck as of Wed, 16 Sept 2026, next at Club Makossa, London on Sat, 19 Sept 2026.
 
 skruba is a grime and dubstep artist based in United Kingdom, tracked on soundcheck, with 4 sets logged across London. Often billed alongside Carien, Bread & Butter and DJ 2C. Next up: Club Makossa, London on Sat 19 Sept.
 
@@ -20,4 +20,4 @@ skruba is a grime and dubstep artist based in United Kingdom, tracked on soundch
 
 Carien, Bread & Butter, DJ 2C
 
-*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/skruba/)*
+*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/skruba/)*

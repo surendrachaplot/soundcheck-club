@@ -1,6 +1,6 @@
 # Omi on Acid
 
-Omi on Acid is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 15 Sept 2026, next at Secret Location, London on Sat, 26 Sept 2026.
+Omi on Acid is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 16 Sept 2026, next at Secret Location, London on Sat, 26 Sept 2026.
 
 Omi on Acid is a techno and house artist based in Germany, tracked on soundcheck, with 27 sets logged across Berlin, London, Munich and Vienna. Often billed alongside Rhast, Jose Puerto and Gino Kampari. Next up: Secret Location, London on Sat 26 Sept.
 
@@ -25,4 +25,4 @@ Omi on Acid is a techno and house artist based in Germany, tracked on soundcheck
 
 Rhast, Jose Puerto, Gino Kampari
 
-*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/omionacid/)*
+*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/omionacid/)*

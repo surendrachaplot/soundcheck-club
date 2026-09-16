@@ -1,8 +1,8 @@
 # STÜM
 
-STÜM is a Techno and House artist with 7 upcoming club dates listed on soundcheck as of Tue, 15 Sept 2026, next at The Liquid Room, Edinburgh on Sat, 17 Oct 2026.
+STÜM is a Techno and House artist with 8 upcoming club dates listed on soundcheck as of Wed, 16 Sept 2026, next at The Liquid Room, Edinburgh on Sat, 17 Oct 2026.
 
-STÜM is a techno and house artist tracked on soundcheck, with 65 sets logged across Amsterdam, Austin, Bali and Belfast and 19 more. Often billed alongside Kyle Starkey, Sam Alfred and 6 SENSE. Next up: The Liquid Room, Edinburgh on Sat 17 Oct.
+STÜM is a techno and house artist tracked on soundcheck, with 66 sets logged across Amsterdam, Austin, Bali and Belfast and 20 more. Often billed alongside Kyle Starkey, Sam Alfred and Benwal. Next up: The Liquid Room, Edinburgh on Sat 17 Oct.
 
 ## Upcoming shows
 
@@ -13,6 +13,7 @@ STÜM is a techno and house artist tracked on soundcheck, with 65 sets logged ac
 | Sat, 24 Oct 2026 | Pllek | Amsterdam |
 | Fri, 13 Nov 2026 | The Concourse Project | Austin |
 | Fri, 13 Nov 2026 | Spin | San Diego |
+| Sat, 14 Nov 2026 | Radius | Chicago |
 | Sat, 21 Nov 2026 | TBA - Matilo Park | Rotterdam |
 | Fri, 27 Nov 2026 | Lardner Park | Melbourne |
 
@@ -29,6 +30,6 @@ STÜM is a techno and house artist tracked on soundcheck, with 65 sets logged ac
 
 ## Shares bills with
 
-Kyle Starkey, Sam Alfred, 6 SENSE
+Kyle Starkey, Sam Alfred, Benwal
 
-*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/stum/)*
+*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/stum/)*

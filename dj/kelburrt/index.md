@@ -1,6 +1,6 @@
 # Kelburrt
 
-Kelburrt is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 15 Sept 2026, next at Paloma, Berlin on Sat, 24 Oct 2026.
+Kelburrt is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 16 Sept 2026, next at Paloma, Berlin on Sat, 24 Oct 2026.
 
 Kelburrt is a house and techno artist tracked on soundcheck, with 17 sets logged across Berlin, Copenhagen, Hamburg and Munich. Often billed alongside Stenny, tanjuesch and Packed Rich. Next up: Paloma, Berlin on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ Kelburrt is a house and techno artist tracked on soundcheck, with 17 sets logged
 
 Stenny, tanjuesch, Packed Rich
 
-*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kelburrt/)*
+*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kelburrt/)*

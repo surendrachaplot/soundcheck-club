@@ -1,6 +1,6 @@
 # Meg Ward
 
-Meg Ward is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Tue, 15 Sept 2026, next at M.O.T, London on Fri, 18 Sept 2026.
+Meg Ward is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Wed, 16 Sept 2026, next at M.O.T, London on Fri, 18 Sept 2026.
 
 Meg Ward is a house and techno artist tracked on soundcheck, with 55 sets logged across Brighton, Bristol, Edinburgh and Ibiza and 5 more. Often billed alongside Harry Gay, Junior Simba and Bklava. Next up: M.O.T, London on Fri 18 Sept.
 
@@ -27,4 +27,4 @@ Meg Ward is a house and techno artist tracked on soundcheck, with 55 sets logged
 
 Harry Gay, Junior Simba, Bklava
 
-*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/megward/)*
+*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/megward/)*

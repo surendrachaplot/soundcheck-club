@@ -1,6 +1,6 @@
 # Rovizz
 
-Rovizz is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Tue, 15 Sept 2026, next at Atno, Budapest on Fri, 2 Oct 2026.
+Rovizz is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Wed, 16 Sept 2026, next at Atno, Budapest on Fri, 2 Oct 2026.
 
 Rovizz is a techno and trance artist tracked on soundcheck, with 44 sets logged across Budapest. Often billed alongside schraeder, Daniel Moritz and CRB. Next up: Atno, Budapest on Fri 2 Oct.
 
@@ -25,4 +25,4 @@ Rovizz is a techno and trance artist tracked on soundcheck, with 44 sets logged 
 
 schraeder, Daniel Moritz, CRB
 
-*Updated Tue, 15 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/rovizz/)*
+*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/rovizz/)*
