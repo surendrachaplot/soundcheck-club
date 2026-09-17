@@ -1,6 +1,6 @@
 # Suree
 
-Suree is a music venue in Tokyo with 2 upcoming nights listed on soundcheck as of Wed, 16 Sept 2026; the next is "Re:Load" on Fri, 18 Sept 2026.
+Suree is a music venue in Tokyo with 2 upcoming nights listed on soundcheck as of Thu, 17 Sept 2026; the next is "Re:Load" on Fri, 18 Sept 2026.
 
 Suree is a music venue in Tokyo listed on soundcheck. 2 upcoming nights, with line-ups including 77Mushrooms, DAIY, Tokukazu and yyshuu. Browse upcoming dates, start times and who's playing. Arai Bldg 2F, 2-24-4 Higashi, Shibuya-ku, Tokyo, 150-0011 Japan.
 
@@ -15,4 +15,4 @@ Suree is a music venue in Tokyo listed on soundcheck. 2 upcoming nights, with li
 
 Arai Bldg 2F, 2-24-4 Higashi, Shibuya-ku, Tokyo, 150-0011 Japan, Tokyo
 
-*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/suree/)*
+*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/suree/)*

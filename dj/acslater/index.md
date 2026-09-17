@@ -1,6 +1,6 @@
 # AC Slater
 
-AC Slater is a House and Bass artist with 4 upcoming club dates listed on soundcheck as of Wed, 16 Sept 2026, next at Coda, Toronto on Sat, 19 Sept 2026.
+AC Slater is a House and Bass artist with 4 upcoming club dates listed on soundcheck as of Thu, 17 Sept 2026, next at Coda, Toronto on Sat, 19 Sept 2026.
 
 AC Slater is a house and bass artist tracked on soundcheck, with 46 sets logged across Austin, Boston, Chicago and Cologne and 13 more. Often billed alongside Tchami, Hotfire and Andruss. Next up: Coda, Toronto on Sat 19 Sept.
 
@@ -28,4 +28,4 @@ AC Slater is a house and bass artist tracked on soundcheck, with 46 sets logged 
 
 Tchami, Hotfire, Andruss
 
-*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/acslater/)*
+*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/acslater/)*

@@ -1,6 +1,6 @@
 # Stan Yaroslavsky
 
-Stan Yaroslavsky is a House and Breakbeat artist with 1 upcoming club date listed on soundcheck as of Wed, 16 Sept 2026, next at Golden Gate, Berlin on Thu, 17 Sept 2026.
+Stan Yaroslavsky is a House and Breakbeat artist with 1 upcoming club date listed on soundcheck as of Thu, 17 Sept 2026, next at Golden Gate, Berlin on Thu, 17 Sept 2026.
 
 Stan Yaroslavsky is a house and breakbeat artist tracked on soundcheck, with 14 sets logged across Berlin, Lisbon, London and Newyorkcity and 1 more. Often billed alongside Benjamin Fehr, Modebaku and Alex Celler. Next up: Golden Gate, Berlin on Thu 17 Sept.
 
@@ -25,4 +25,4 @@ Stan Yaroslavsky is a house and breakbeat artist tracked on soundcheck, with 14 
 
 Benjamin Fehr, Modebaku, Alex Celler
 
-*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/stanyaroslavsky/)*
+*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/stanyaroslavsky/)*

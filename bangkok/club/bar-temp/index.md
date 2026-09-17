@@ -1,14 +1,13 @@
 # Bar Temp.
 
-Bar Temp. is a music venue in Bangkok with 6 upcoming nights listed on soundcheck as of Wed, 16 Sept 2026; the next is "Midweek crisis with Jayja" on Wed, 16 Sept 2026.
+Bar Temp. is a music venue in Bangkok with 5 upcoming nights listed on soundcheck as of Thu, 17 Sept 2026; the next is "Queer Dance Wave with Krokakai, Mae Happyair & Krch.160" on Fri, 18 Sept 2026.
 
-Bar Temp. is a music venue in Bangkok listed on soundcheck. 6 upcoming nights, with line-ups including Brent Burns, DJ Fett Burger, DMT Disco and Eizu 映図 and 2 more. Browse upcoming dates, start times and who's playing. 695 Soi 2 Maitri Chit Rd, Pom Prap,Pom Prap Sattru Phai, Bangkok Thailand 10100.
+Bar Temp. is a music venue in Bangkok listed on soundcheck. 5 upcoming nights, with line-ups including Brent Burns, DJ Fett Burger, DMT Disco and Eizu 映図 and 2 more. Browse upcoming dates, start times and who's playing. 695 Soi 2 Maitri Chit Rd, Pom Prap,Pom Prap Sattru Phai, Bangkok Thailand 10100.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Wed, 16 Sept 2026 | Midweek crisis with Jayja |  |
 | Fri, 18 Sept 2026 | Queer Dance Wave with Krokakai, Mae Happyair & Krch.160 | Krokakai, Mae Happyair |
 | Sat, 19 Sept 2026 | HUH? We Dance with Lamache | DMT Disco, Lamache, SaoTeknik |
 | Thu, 24 Sept 2026 | Elektronik 1 | Eizu 映図, Esof |
@@ -19,4 +18,4 @@ Bar Temp. is a music venue in Bangkok listed on soundcheck. 6 upcoming nights, w
 
 695 Soi 2 Maitri Chit Rd, Pom Prap,Pom Prap Sattru Phai, Bangkok Thailand 10100, Bangkok
 
-*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/bangkok/club/bar-temp/)*
+*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/bangkok/club/bar-temp/)*

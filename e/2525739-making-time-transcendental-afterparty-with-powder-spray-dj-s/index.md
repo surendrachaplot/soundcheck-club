@@ -1,6 +1,6 @@
-# Making Time ∞ TRANSCENDENTAL Afterparty with Powder, Spray, DJ Sundae, oma totem + MORE at Warehouse on Watts
+# Making Time ∞ TRANSCENDENTAL Afterparty with Powder, Spray, DJ Sundae, Maara, oma totem + MORE at Warehouse on Watts
 
-Making Time ∞ TRANSCENDENTAL Afterparty with Powder, Spray, DJ Sundae, oma totem + MORE at Warehouse on Watts on Sun 20 Sept, Philadelphia. 7 acts on the bill: DJ Sundae, oma totem, Powder and QRTR and 3 more. Trance and Techno. Preview the line-up and save it on soundcheck.
+Making Time ∞ TRANSCENDENTAL Afterparty with Powder, Spray, DJ Sundae, Maara, oma totem + MORE at Warehouse on Watts on Sun 20 Sept, Philadelphia. 8 acts on the bill: DJ Sundae, Maara, oma totem and Powder and 4 more. Trance and Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,6 +11,7 @@ Making Time ∞ TRANSCENDENTAL Afterparty with Powder, Spray, DJ Sundae, oma to
 ## Line-up
 
 - DJ Sundae
+- Maara
 - oma totem
 - Powder
 - QRTR

@@ -1,6 +1,6 @@
 # Marmorbar
 
-Marmorbar is a music venue in Berlin with 5 upcoming nights listed on soundcheck as of Wed, 16 Sept 2026; the next is "7Fridays" on Fri, 18 Sept 2026.
+Marmorbar is a music venue in Berlin with 5 upcoming nights listed on soundcheck as of Thu, 17 Sept 2026; the next is "7Fridays" on Fri, 18 Sept 2026.
 
 Marmorbar is a music venue in Berlin listed on soundcheck. 5 upcoming nights, with line-ups including ALIS., benzii, bod [包家巷] and ALKARLINE and 2 more. Browse upcoming dates, start times and who's playing. Vor dem Schlesischen Tor 3  10997 Berlin.
 
@@ -18,4 +18,4 @@ Marmorbar is a music venue in Berlin listed on soundcheck. 5 upcoming nights, wi
 
 Vor dem Schlesischen Tor 3  10997 Berlin, Berlin
 
-*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/marmorbar/)*
+*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/marmorbar/)*

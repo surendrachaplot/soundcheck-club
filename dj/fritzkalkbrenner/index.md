@@ -1,14 +1,15 @@
 # Fritz Kalkbrenner
 
-Fritz Kalkbrenner is a House and Electronica artist with 1 upcoming club date listed on soundcheck as of Wed, 16 Sept 2026, next at Seaseaclub Barcelona, Barcelona on Sat, 19 Sept 2026.
+Fritz Kalkbrenner is a House and Electronica artist with 2 upcoming club dates listed on soundcheck as of Thu, 17 Sept 2026, next at Seaseaclub Barcelona, Barcelona on Sat, 19 Sept 2026.
 
-Fritz Kalkbrenner is a house and electronica artist tracked on soundcheck, with 41 sets logged across Amsterdam, Barcelona, Basel and Berlin and 13 more. Often billed alongside Agatha Pher, Einmusik and Floyd Lavine. Next up: Seaseaclub Barcelona, Barcelona on Sat 19 Sept.
+Fritz Kalkbrenner is a house and electronica artist tracked on soundcheck, with 42 sets logged across Amsterdam, Barcelona, Basel and Berlin and 14 more. Often billed alongside Agatha Pher, Einmusik and Floyd Lavine. Next up: Seaseaclub Barcelona, Barcelona on Sat 19 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 19 Sept 2026 | Seaseaclub Barcelona | Barcelona |
+| Fri, 30 Oct 2026 | Gewölbe | Cologne |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Fritz Kalkbrenner is a house and electronica artist tracked on soundcheck, with 
 
 Agatha Pher, Einmusik, Floyd Lavine
 
-*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/fritzkalkbrenner/)*
+*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/fritzkalkbrenner/)*

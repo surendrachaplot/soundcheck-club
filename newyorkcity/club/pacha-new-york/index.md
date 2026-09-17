@@ -1,6 +1,6 @@
 # Pacha New York
 
-Pacha New York is a music venue in New York City with 6 upcoming nights listed on soundcheck as of Wed, 16 Sept 2026; the next is "Indo Warehouse" on Fri, 18 Sept 2026.
+Pacha New York is a music venue in New York City with 6 upcoming nights listed on soundcheck as of Thu, 17 Sept 2026; the next is "Indo Warehouse" on Fri, 18 Sept 2026.
 
 Pacha New York is a music venue in Newyorkcity listed on soundcheck. 6 upcoming nights, with line-ups including Armand Van Helden, Black Coffee, BLOND:ISH and Jamie Jones and 2 more. Browse upcoming dates, start times and who's playing. 140 Stewart Ave, Brooklyn, NY 11237.
 
@@ -19,4 +19,4 @@ Pacha New York is a music venue in Newyorkcity listed on soundcheck. 6 upcoming 
 
 140 Stewart Ave, Brooklyn, NY 11237, New York City
 
-*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/pacha-new-york/)*
+*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/pacha-new-york/)*

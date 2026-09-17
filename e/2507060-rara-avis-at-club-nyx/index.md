@@ -1,6 +1,6 @@
 # RARA AVIS at Club NYX
 
-RARA AVIS at Club NYX on Sat 24 Oct, Amsterdam. 2 acts on the bill: Spikey Lee and TEKNA. Techno and House. Preview the line-up and save it on soundcheck.
+RARA AVIS at Club NYX on Sat 24 Oct, Amsterdam. 3 acts on the bill: Spikey Lee, TEKNA and The Groovejet. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -12,5 +12,6 @@ RARA AVIS at Club NYX on Sat 24 Oct, Amsterdam. 2 acts on the bill: Spikey Lee a
 
 - Spikey Lee
 - TEKNA
+- The Groovejet
 
 *Source: [soundcheck](https://soundcheck.club/e/2507060-rara-avis-at-club-nyx/)*

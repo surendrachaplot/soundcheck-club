@@ -1,8 +1,8 @@
 # The Cause
 
-The Cause is a music venue in London with 30 upcoming nights listed on soundcheck as of Wed, 16 Sept 2026; the next is "SG Lewis presents Forever Days" on Fri, 18 Sept 2026.
+The Cause is a music venue in London with 31 upcoming nights listed on soundcheck as of Thu, 17 Sept 2026; the next is "SG Lewis presents Forever Days" on Fri, 18 Sept 2026.
 
-The Cause is a music venue in London listed on soundcheck. 30 upcoming nights, with line-ups including 4000 Hz, KT, Adiel and A For Alpha and 2 more. Browse upcoming dates, start times and who's playing. 60 Dock Road, London, E16 1YZ.
+The Cause is a music venue in London listed on soundcheck. 31 upcoming nights, with line-ups including 4000 Hz, KT, Adiel and A For Alpha and 2 more. Browse upcoming dates, start times and who's playing. 60 Dock Road, London, E16 1YZ.
 
 ## What's on
 
@@ -23,4 +23,4 @@ The Cause is a music venue in London listed on soundcheck. 30 upcoming nights, w
 
 60 Dock Road, London, E16 1YZ, London
 
-*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/the-cause/)*
+*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/the-cause/)*

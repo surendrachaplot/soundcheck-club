@@ -1,8 +1,8 @@
 # Radius
 
-Radius is a music venue in Chicago with 33 upcoming nights listed on soundcheck as of Wed, 16 Sept 2026; the next is "Unreal Chicago" on Fri, 18 Sept 2026.
+Radius is a music venue in Chicago with 34 upcoming nights listed on soundcheck as of Thu, 17 Sept 2026; the next is "Unreal Chicago" on Fri, 18 Sept 2026.
 
-Radius is a music venue in Chicago listed on soundcheck. 33 upcoming nights, with line-ups including 10cust, Afrojack, AMAYAH and Ariel Zetina and 2 more. Browse upcoming dates, start times and who's playing. 640 West Cermak Road Chicago, Illinois 60616, USA.
+Radius is a music venue in Chicago listed on soundcheck. 34 upcoming nights, with line-ups including 10cust, Afrojack, AMAYAH and Ariel Zetina and 2 more. Browse upcoming dates, start times and who's playing. 640 West Cermak Road Chicago, Illinois 60616, USA.
 
 ## What's on
 
@@ -16,11 +16,11 @@ Radius is a music venue in Chicago listed on soundcheck. 33 upcoming nights, wit
 | Fri, 2 Oct 2026 | Indo Warehouse at Cermak Hall |  |
 | Fri, 2 Oct 2026 | Ben Böhmer | Ben Böhmer |
 | Sat, 3 Oct 2026 | RuPaul (DJ Set) |  |
-| Sat, 3 Oct 2026 | boost+++ returns to cermak hall | Eulalia, Noise Mafia, PETERBLUE, Sian, Vladimir Dubyshkin |
+| Sat, 3 Oct 2026 | boost+++ 005 at Cermak Hall | Eulalia, Noise Mafia, PETERBLUE, Sian, Vladimir Dubyshkin |
 | Thu, 8 Oct 2026 | Overmono at Cermak Hall | Overmono |
 
 ## Address
 
 640 West Cermak Road Chicago, Illinois 60616, USA, Chicago
 
-*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/chicago/club/radius/)*
+*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/chicago/club/radius/)*

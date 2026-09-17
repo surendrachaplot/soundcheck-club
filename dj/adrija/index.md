@@ -1,14 +1,15 @@
 # Adrija
 
-Adrija is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Wed, 16 Sept 2026, next at Klunkerkranich, Berlin on Sat, 19 Sept 2026.
+Adrija is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Thu, 17 Sept 2026, next at Klunkerkranich, Berlin on Sat, 19 Sept 2026.
 
-Adrija is a techno and house artist tracked on soundcheck, with 28 sets logged across Berlin and Leipzig. Often billed alongside Aio, apøllo and isl&. Next up: Klunkerkranich, Berlin on Sat 19 Sept.
+Adrija is a techno and house artist tracked on soundcheck, with 29 sets logged across Berlin and Leipzig. Often billed alongside Aio, apøllo and isl&. Next up: Klunkerkranich, Berlin on Sat 19 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 19 Sept 2026 | Klunkerkranich | Berlin |
+| Fri, 25 Sept 2026 | Kulturlounge | Leipzig |
 | Fri, 9 Oct 2026 | Beate Uwe | Berlin |
 
 ## Recently played
@@ -26,4 +27,4 @@ Adrija is a techno and house artist tracked on soundcheck, with 28 sets logged a
 
 Aio, apøllo, isl&
 
-*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/adrija/)*
+*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/adrija/)*

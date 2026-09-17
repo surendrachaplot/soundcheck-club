@@ -1,14 +1,15 @@
 # ADRIANNA.C
 
-ADRIANNA.C is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 16 Sept 2026, next at TBA, Hong Kong on Fri, 2 Oct 2026.
+ADRIANNA.C is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 17 Sept 2026, next at TBA, Hong Kong on Fri, 2 Oct 2026.
 
-ADRIANNA.C is a techno and house artist based in China, tracked on soundcheck, with 39 sets logged across Hongkong, Seoul, Shenzhen and Tokyo. Often billed alongside Mill.H, Faxtory and Konnection. Next up: TBA, Hongkong on Fri 2 Oct.
+ADRIANNA.C is a techno and house artist based in China, tracked on soundcheck, with 40 sets logged across Hongkong, Seoul, Shenzhen and Tokyo. Often billed alongside Mill.H, Faxtory and Konnection. Next up: TBA, Hongkong on Fri 2 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 2 Oct 2026 | TBA | Hong Kong |
+| Sat, 3 Oct 2026 | Acadana | Hong Kong |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ ADRIANNA.C is a techno and house artist based in China, tracked on soundcheck, w
 
 Mill.H, Faxtory, Konnection
 
-*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/adrianna.c/)*
+*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/adrianna.c/)*

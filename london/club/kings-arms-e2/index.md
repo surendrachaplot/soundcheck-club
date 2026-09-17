@@ -1,6 +1,6 @@
 # Kings Arms E2
 
-Kings Arms E2 is a music venue in London with 14 upcoming nights listed on soundcheck as of Wed, 16 Sept 2026; the next is "Kings Turntable: Gillian Wedderburn [19.09.2026]" on Sat, 19 Sept 2026.
+Kings Arms E2 is a music venue in London with 14 upcoming nights listed on soundcheck as of Thu, 17 Sept 2026; the next is "Kings Turntable: Gillian Wedderburn [19.09.2026]" on Sat, 19 Sept 2026.
 
 Kings Arms E2 is a music venue in London listed on soundcheck. 14 upcoming nights, with line-ups including DJ Migz, Foshay, NOYB and Nunonunonuno. Browse upcoming dates, start times and who's playing. 11A Buckfast St, London, E2 6EY.
 
@@ -23,4 +23,4 @@ Kings Arms E2 is a music venue in London listed on soundcheck. 14 upcoming night
 
 11A Buckfast St, London, E2 6EY, London
 
-*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/kings-arms-e2/)*
+*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/kings-arms-e2/)*

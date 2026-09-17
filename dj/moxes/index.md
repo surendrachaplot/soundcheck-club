@@ -1,14 +1,15 @@
 # Moxes
 
-Moxes is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Wed, 16 Sept 2026, next at Colorado Charlie, The Hague on Sat, 19 Sept 2026.
+Moxes is a House and Tech House artist with 3 upcoming club dates listed on soundcheck as of Thu, 17 Sept 2026, next at Colorado Charlie, The Hague on Sat, 19 Sept 2026.
 
-Moxes is a house and tech house artist tracked on soundcheck, with 64 sets logged across Amsterdam, Berlin, Dusseldorf and Ibiza and 3 more. Often billed alongside Emvae, Kyra Khaldi and D Stone. Next up: Colorado Charlie, Thehague on Sat 19 Sept.
+Moxes is a house and tech house artist tracked on soundcheck, with 65 sets logged across Amsterdam, Berlin, Dusseldorf and Ibiza and 3 more. Often billed alongside Emvae, Kyra Khaldi and D Stone. Next up: Colorado Charlie, Thehague on Sat 19 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 19 Sept 2026 | Colorado Charlie | The Hague |
+| Fri, 9 Oct 2026 | Doka | Amsterdam |
 | Sat, 24 Oct 2026 | Het Rijk van de Keizer | Amsterdam |
 
 ## Recently played
@@ -26,4 +27,4 @@ Moxes is a house and tech house artist tracked on soundcheck, with 64 sets logge
 
 Emvae, Kyra Khaldi, D Stone
 
-*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/moxes/)*
+*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/moxes/)*

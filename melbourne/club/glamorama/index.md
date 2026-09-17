@@ -1,6 +1,6 @@
 # Glamorama
 
-Glamorama is a music venue in Melbourne with 6 upcoming nights listed on soundcheck as of Wed, 16 Sept 2026; the next is "Interval - Nai + Friends [3 hours]" on Fri, 18 Sept 2026.
+Glamorama is a music venue in Melbourne with 6 upcoming nights listed on soundcheck as of Thu, 17 Sept 2026; the next is "Interval - Nai + Friends [3 hours]" on Fri, 18 Sept 2026.
 
 Glamorama is a music venue in Melbourne listed on soundcheck. 6 upcoming nights, with line-ups including Acid Jacks, CHARBINKS, dozie (uk) and Eddie Richards and 2 more. Browse upcoming dates, start times and who's playing. 393 Brunswick street, Fitzroy, Victoria 3065.
 
@@ -19,4 +19,4 @@ Glamorama is a music venue in Melbourne listed on soundcheck. 6 upcoming nights,
 
 393 Brunswick street, Fitzroy, Victoria 3065, Melbourne
 
-*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/glamorama/)*
+*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/glamorama/)*

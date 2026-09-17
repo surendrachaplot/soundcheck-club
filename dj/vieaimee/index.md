@@ -1,6 +1,6 @@
 # Vie Aimee
 
-Vie Aimee is a House and Baile Funk artist with 1 upcoming club date listed on soundcheck as of Wed, 16 Sept 2026, next at Radio Radio, Amsterdam on Thu, 24 Sept 2026.
+Vie Aimee is a House and Baile Funk artist with 1 upcoming club date listed on soundcheck as of Thu, 17 Sept 2026, next at Radio Radio, Amsterdam on Thu, 24 Sept 2026.
 
 Vie Aimee is a house and baile funk artist based in Netherlands, tracked on soundcheck, with 15 sets logged across Amsterdam and Rotterdam. Often billed alongside LAMMER, David Jackson and Esi (De Re). Next up: Radio Radio, Amsterdam on Thu 24 Sept.
 
@@ -25,4 +25,4 @@ Vie Aimee is a house and baile funk artist based in Netherlands, tracked on soun
 
 LAMMER, David Jackson, Esi (De Re)
 
-*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/vieaimee/)*
+*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/vieaimee/)*

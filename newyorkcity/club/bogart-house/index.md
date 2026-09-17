@@ -1,6 +1,6 @@
 # Bogart House
 
-Bogart House is a music venue in New York City with 3 upcoming nights listed on soundcheck as of Wed, 16 Sept 2026; the next is "Experts Only Merch Pop Up" on Thu, 17 Sept 2026.
+Bogart House is a music venue in New York City with 3 upcoming nights listed on soundcheck as of Thu, 17 Sept 2026; the next is "Experts Only Merch Pop Up" on Thu, 17 Sept 2026.
 
 Bogart House is a music venue in Newyorkcity listed on soundcheck. 3 upcoming nights, with line-ups including Corazón De Melon, Martín Y Corazón, Meilgaarden and Nita Aviance. Browse upcoming dates, start times and who's playing. 230 Bogart St, Brooklyn, 11206.
 
@@ -16,4 +16,4 @@ Bogart House is a music venue in Newyorkcity listed on soundcheck. 3 upcoming ni
 
 230 Bogart St, Brooklyn, 11206, New York City
 
-*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/bogart-house/)*
+*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/bogart-house/)*

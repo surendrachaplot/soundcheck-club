@@ -1,6 +1,6 @@
 # Neon Wasabi
 
-Neon Wasabi is a Trance and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 16 Sept 2026, next at EKKO, Utrecht on Sat, 26 Sept 2026.
+Neon Wasabi is a Trance and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 17 Sept 2026, next at EKKO, Utrecht on Sat, 26 Sept 2026.
 
 Neon Wasabi is a trance and techno artist tracked on soundcheck, with 6 sets logged across Amsterdam and Utrecht. Often billed alongside Emmz, Jelte and Ambu Bambu. Next up: EKKO, Utrecht on Sat 26 Sept.
 
@@ -22,4 +22,4 @@ Neon Wasabi is a trance and techno artist tracked on soundcheck, with 6 sets log
 
 Emmz, Jelte, Ambu Bambu
 
-*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/neonwasabi/)*
+*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/neonwasabi/)*

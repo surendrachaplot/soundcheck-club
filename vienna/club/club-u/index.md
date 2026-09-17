@@ -1,6 +1,6 @@
 # Club U
 
-Club U is a music venue in Vienna with 1 upcoming night listed on soundcheck as of Wed, 16 Sept 2026; the next is "10 Years Of BLVZE Pt II with Sam Binga, Pharma & Sedan" on Fri, 25 Sept 2026.
+Club U is a music venue in Vienna with 1 upcoming night listed on soundcheck as of Thu, 17 Sept 2026; the next is "10 Years Of BLVZE Pt II with Sam Binga, Pharma & Sedan" on Fri, 25 Sept 2026.
 
 Club U is a music venue in Vienna listed on soundcheck. 1 upcoming night, with line-ups including DJ Keshi and Sam Binga. Browse upcoming dates, start times and who's playing. Karlsplatz Objekt U26; 1010 Vienna; Austria.
 
@@ -14,4 +14,4 @@ Club U is a music venue in Vienna listed on soundcheck. 1 upcoming night, with l
 
 Karlsplatz Objekt U26; 1010 Vienna; Austria, Vienna
 
-*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/vienna/club/club-u/)*
+*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/vienna/club/club-u/)*

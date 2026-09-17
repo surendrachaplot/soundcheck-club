@@ -1,6 +1,6 @@
 # Perka
 
-Perka is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Wed, 16 Sept 2026, next at Lady T Bar Richmond, Melbourne on Sat, 19 Sept 2026.
+Perka is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Thu, 17 Sept 2026, next at Lady T Bar Richmond, Melbourne on Sat, 19 Sept 2026.
 
 Perka is a house and tech house artist based in Australia, tracked on soundcheck, with 9 sets logged across Melbourne. Often billed alongside Boogs, Ben Silver and Etwas. Next up: Lady T Bar Richmond, Melbourne on Sat 19 Sept.
 
@@ -25,4 +25,4 @@ Perka is a house and tech house artist based in Australia, tracked on soundcheck
 
 Boogs, Ben Silver, Etwas
 
-*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/perka/)*
+*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/perka/)*

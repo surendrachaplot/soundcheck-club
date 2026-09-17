@@ -1,6 +1,6 @@
 # KABUL à GoGo
 
-KABUL à GoGo is a music venue in Utrecht with 5 upcoming nights listed on soundcheck as of Wed, 16 Sept 2026; the next is "Club Season Opening ✧ KABUL à GoGo x ZORA ✦" on Sat, 19 Sept 2026.
+KABUL à GoGo is a music venue in Utrecht with 5 upcoming nights listed on soundcheck as of Thu, 17 Sept 2026; the next is "Club Season Opening ✧ KABUL à GoGo x ZORA ✦" on Sat, 19 Sept 2026.
 
 KABUL à GoGo is a music venue in Utrecht listed on soundcheck. 5 upcoming nights, with line-ups including 36framez, DJ SWISHA, Hannecart and Lola Edo and 2 more. Browse upcoming dates, start times and who's playing. Gietijzerstraat 3, 3534 AV, Utrecht, Netherlands.
 
@@ -18,4 +18,4 @@ KABUL à GoGo is a music venue in Utrecht listed on soundcheck. 5 upcoming night
 
 Gietijzerstraat 3, 3534 AV, Utrecht, Netherlands, Utrecht
 
-*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/utrecht/club/kabul-gogo/)*
+*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/utrecht/club/kabul-gogo/)*

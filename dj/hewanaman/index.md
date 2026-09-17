@@ -1,8 +1,8 @@
 # Hewan Aman
 
-Hewan Aman is a Techno and Trance artist with 3 upcoming club dates listed on soundcheck as of Wed, 16 Sept 2026, next at La Prairie du Canal, Paris on Fri, 18 Sept 2026.
+Hewan Aman is a Techno and Trance artist with 4 upcoming club dates listed on soundcheck as of Thu, 17 Sept 2026, next at La Prairie du Canal, Paris on Fri, 18 Sept 2026.
 
-Hewan Aman is a techno and trance artist tracked on soundcheck, with 82 sets logged across Amsterdam, Antwerp, Barcelona and Berlin and 18 more. Often billed alongside Kasper Marott, Lastvuska and Mama Snake. Next up: La Prairie du Canal, Paris on Fri 18 Sept.
+Hewan Aman is a techno and trance artist tracked on soundcheck, with 83 sets logged across Amsterdam, Antwerp, Barcelona and Berlin and 18 more. Often billed alongside Kasper Marott, Lastvuska and Mama Snake. Next up: La Prairie du Canal, Paris on Fri 18 Sept.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Hewan Aman is a techno and trance artist tracked on soundcheck, with 82 sets log
 | --- | --- | --- |
 | Fri, 18 Sept 2026 | La Prairie du Canal | Paris |
 | Fri, 25 Sept 2026 | Om Being | London |
+| Sat, 26 Sept 2026 | Sauna Social Club | London |
 | Sat, 3 Oct 2026 | TBA - Saint-Denis | Paris |
 
 ## Recently played
@@ -27,4 +28,4 @@ Hewan Aman is a techno and trance artist tracked on soundcheck, with 82 sets log
 
 Kasper Marott, Lastvuska, Mama Snake
 
-*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/hewanaman/)*
+*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/hewanaman/)*

@@ -1,8 +1,8 @@
 # Flash
 
-Flash is a music venue in Washington DC with 23 upcoming nights listed on soundcheck as of Wed, 16 Sept 2026; the next is "Headroom Listening Sessions: Washington, DC" on Thu, 17 Sept 2026.
+Flash is a music venue in Washington DC with 24 upcoming nights listed on soundcheck as of Thu, 17 Sept 2026; the next is "Headroom Listening Sessions: Washington, DC" on Thu, 17 Sept 2026.
 
-Flash is a music venue in Washingtondc listed on soundcheck. 23 upcoming nights, with line-ups including Alan Fitzpatrick, Anetha, Anthony Middleton and BASHKKA and 2 more. Browse upcoming dates, start times and who's playing. 645 Florida Ave, NW, Washington, D.C. 20001.
+Flash is a music venue in Washingtondc listed on soundcheck. 24 upcoming nights, with line-ups including Alan Fitzpatrick, Anetha, Anthony Middleton and BASHKKA and 2 more. Browse upcoming dates, start times and who's playing. 645 Florida Ave, NW, Washington, D.C. 20001.
 
 ## What's on
 
@@ -23,4 +23,4 @@ Flash is a music venue in Washingtondc listed on soundcheck. 23 upcoming nights,
 
 645 Florida Ave, NW, Washington, D.C. 20001, Washington DC
 
-*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/washingtondc/club/flash/)*
+*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/washingtondc/club/flash/)*

@@ -1,6 +1,6 @@
 # Shfoosja
 
-Shfoosja is a Bass and Techno artist with 3 upcoming club dates listed on soundcheck as of Wed, 16 Sept 2026, next at Badaboum, Paris on Fri, 18 Sept 2026.
+Shfoosja is a Bass and Techno artist with 3 upcoming club dates listed on soundcheck as of Thu, 17 Sept 2026, next at Badaboum, Paris on Fri, 18 Sept 2026.
 
 Shfoosja is a bass and techno artist tracked on soundcheck, with 15 sets logged across Berlin, London, Lyon and Marseille and 2 more. Often billed alongside MARIAD, MASSEILOT and Mafille. Next up: Badaboum, Paris on Fri 18 Sept.
 
@@ -27,4 +27,4 @@ Shfoosja is a bass and techno artist tracked on soundcheck, with 15 sets logged 
 
 MARIAD, MASSEILOT, Mafille
 
-*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/shfoosja/)*
+*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/shfoosja/)*

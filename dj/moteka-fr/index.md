@@ -1,6 +1,6 @@
 # Moteka
 
-Moteka is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 16 Sept 2026, next at Teritorija, Riga on Fri, 20 Nov 2026.
+Moteka is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 17 Sept 2026, next at Teritorija, Riga on Fri, 20 Nov 2026.
 
 Moteka is a techno and house artist tracked on soundcheck, with 9 sets logged across Amsterdam, Berlin, Copenhagen and London and 5 more. Often billed alongside Electric Rescue, Kmyle and Maxime Dangles. Next up: Teritorija, Riga on Fri 20 Nov.
 
@@ -25,4 +25,4 @@ Moteka is a techno and house artist tracked on soundcheck, with 9 sets logged ac
 
 Electric Rescue, Kmyle, Maxime Dangles
 
-*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/moteka-fr/)*
+*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/moteka-fr/)*

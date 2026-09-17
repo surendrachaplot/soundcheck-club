@@ -1,6 +1,6 @@
 # G33 (UK)
 
-G33 (UK) is a Garage and Bass artist with 3 upcoming club dates listed on soundcheck as of Wed, 16 Sept 2026, next at The Berkeley Suite, Glasgow on Thu, 17 Sept 2026.
+G33 (UK) is a Garage and Bass artist with 3 upcoming club dates listed on soundcheck as of Thu, 17 Sept 2026, next at The Berkeley Suite, Glasgow on Thu, 17 Sept 2026.
 
 G33 (UK) is a garage and bass artist based in United Kingdom, tracked on soundcheck, with 28 sets logged across Bristol, Glasgow, Helsinki and Ibiza and 6 more. Often billed alongside A.N.T, CITIZEN and Hanz. Next up: The Berkeley Suite, Glasgow on Thu 17 Sept.
 
@@ -27,4 +27,4 @@ G33 (UK) is a garage and bass artist based in United Kingdom, tracked on soundch
 
 A.N.T, CITIZEN, Hanz
 
-*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/g33-uk/)*
+*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/g33-uk/)*

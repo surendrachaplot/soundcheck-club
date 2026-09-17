@@ -1,6 +1,6 @@
 # Deekapz
 
-Deekapz is a House and Baile Funk artist with 1 upcoming club date listed on soundcheck as of Wed, 16 Sept 2026, next at SISSI'S Amsterdam, Amsterdam on Fri, 23 Oct 2026.
+Deekapz is a House and Baile Funk artist with 1 upcoming club date listed on soundcheck as of Thu, 17 Sept 2026, next at SISSI'S Amsterdam, Amsterdam on Fri, 23 Oct 2026.
 
 Deekapz is a house and baile funk artist tracked on soundcheck, with 35 sets logged across Amsterdam, Berlin, Lisbon and London and 2 more. Often billed alongside VHOOR, Peroli and Kaytranada. Next up: SISSI'S Amsterdam, Amsterdam on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ Deekapz is a house and baile funk artist tracked on soundcheck, with 35 sets log
 
 VHOOR, Peroli, Kaytranada
 
-*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/deekapz/)*
+*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/deekapz/)*

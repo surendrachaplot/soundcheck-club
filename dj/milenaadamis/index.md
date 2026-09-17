@@ -1,6 +1,6 @@
 # Milena Adamis
 
-Milena Adamis is a Techno and Electronica artist with 2 upcoming club dates listed on soundcheck as of Wed, 16 Sept 2026, next at Under Club, Buenos Aires on Fri, 18 Sept 2026.
+Milena Adamis is a Techno and Electronica artist with 2 upcoming club dates listed on soundcheck as of Thu, 17 Sept 2026, next at Under Club, Buenos Aires on Fri, 18 Sept 2026.
 
 Milena Adamis is a techno and electronica artist tracked on soundcheck, with 36 sets logged across Barcelona, Berlin, Buenosaires and Munich and 2 more. Often billed alongside Udolph, Cia Rebeck and Dist. Next up: Under Club, Buenosaires on Fri 18 Sept.
 
@@ -26,4 +26,4 @@ Milena Adamis is a techno and electronica artist tracked on soundcheck, with 36 
 
 Udolph, Cia Rebeck, Dist
 
-*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/milenaadamis/)*
+*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/milenaadamis/)*

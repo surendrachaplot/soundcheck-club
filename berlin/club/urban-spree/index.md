@@ -1,8 +1,8 @@
 # Urban Spree
 
-Urban Spree is a music venue in Berlin with 13 upcoming nights listed on soundcheck as of Wed, 16 Sept 2026; the next is "Urban Spree KLUBNACHT 004" on Fri, 18 Sept 2026.
+Urban Spree is a music venue in Berlin with 15 upcoming nights listed on soundcheck as of Thu, 17 Sept 2026; the next is "Urban Spree KLUBNACHT 004" on Fri, 18 Sept 2026.
 
-Urban Spree is a music venue in Berlin listed on soundcheck. 13 upcoming nights, with line-ups including Albert Kraft, Daraio, Deltagram and GB (2) and 2 more. Browse upcoming dates, start times and who's playing. Revaler Str. 99, 10245 Berlin, Germany.
+Urban Spree is a music venue in Berlin listed on soundcheck. 15 upcoming nights, with line-ups including Albert Kraft, Bam Bam's Boogie, Daraio and Delta Division and 2 more. Browse upcoming dates, start times and who's playing. Revaler Str. 99, 10245 Berlin, Germany.
 
 ## What's on
 
@@ -12,15 +12,15 @@ Urban Spree is a music venue in Berlin listed on soundcheck. 13 upcoming nights,
 | Wed, 23 Sept 2026 | GB | GB (2) |
 | Sat, 26 Sept 2026 | Urban Spree KLUBNACHT 005 | Albert Kraft, Daraio, Key Clef |
 | Wed, 7 Oct 2026 | Otha - Berlin **SOLD OUT** |  |
+| Thu, 8 Oct 2026 | WORKSHOP by Key Clef - Mental Continuum | Key Clef |
+| Fri, 9 Oct 2026 | Human Tree x Urban Spree Klubnacht | Bam Bam's Boogie, Delta Division, N ska |
 | Sat, 10 Oct 2026 | MU/SICK MINI FESTIVAL II |  |
 | Tue, 20 Oct 2026 | MAQUINA. (Fuzz Club / live) |  |
 | Wed, 28 Oct 2026 | LIP CRITIC |  |
 | Fri, 30 Oct 2026 | Escape with Romeo + The Calm Grey // Urban Spree, Berlin |  |
-| Thu, 19 Nov 2026 | Bragolin + Carrellee // Urban Spree, Berlin |  |
-| Sun, 22 Nov 2026 | Blood & Sun + Society Of The Silver Cross + Linnea Hjertén // Urban Spree, Berlin |  |
 
 ## Address
 
 Revaler Str. 99, 10245 Berlin, Germany, Berlin
 
-*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/urban-spree/)*
+*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/urban-spree/)*

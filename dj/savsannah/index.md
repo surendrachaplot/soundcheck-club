@@ -1,13 +1,14 @@
 # Savsannah
 
-Savsannah is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 16 Sept 2026, next at Gewölbe, Cologne on Sat, 3 Oct 2026.
+Savsannah is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 17 Sept 2026, next at JAKI, Cologne on Fri, 2 Oct 2026.
 
-Savsannah is a house and techno artist tracked on soundcheck, with 43 sets logged across Berlin, Cologne, Copenhagen and Hamburg. Often billed alongside Sedaction, Anna Cainelli and Nikity. Next up: Gewölbe, Cologne on Sat 3 Oct.
+Savsannah is a house and techno artist tracked on soundcheck, with 44 sets logged across Berlin, Cologne, Copenhagen and Hamburg. Often billed alongside Sedaction, Anna Cainelli and Nikity. Next up: JAKI, Cologne on Fri 2 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 2 Oct 2026 | JAKI | Cologne |
 | Sat, 3 Oct 2026 | Gewölbe | Cologne |
 
 ## Recently played
@@ -25,4 +26,4 @@ Savsannah is a house and techno artist tracked on soundcheck, with 43 sets logge
 
 Sedaction, Anna Cainelli, Nikity
 
-*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/savsannah/)*
+*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/savsannah/)*

@@ -1,6 +1,6 @@
 # Octoptic
 
-Octoptic is a Techno and Electronica artist with 2 upcoming club dates listed on soundcheck as of Wed, 16 Sept 2026, next at Renate, Berlin on Sat, 19 Sept 2026.
+Octoptic is a Techno and Electronica artist with 2 upcoming club dates listed on soundcheck as of Thu, 17 Sept 2026, next at Renate, Berlin on Sat, 19 Sept 2026.
 
 Octoptic is a techno and electronica artist tracked on soundcheck, with 82 sets logged across Barcelona, Berlin, Ghent and London and 1 more. Often billed alongside Ranma Entero, Dj Fucci and Bluecommand. Next up: Renate, Berlin on Sat 19 Sept.
 
@@ -26,4 +26,4 @@ Octoptic is a techno and electronica artist tracked on soundcheck, with 82 sets 
 
 Ranma Entero, Dj Fucci, Bluecommand
 
-*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/octoptic/)*
+*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/octoptic/)*

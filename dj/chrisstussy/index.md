@@ -1,8 +1,8 @@
-# Chris Stassy
+# CHRIS STASSY
 
-Chris Stassy is a House and Techno artist with 13 upcoming club dates listed on soundcheck as of Wed, 16 Sept 2026, next at Fabrique, Milan on Fri, 25 Sept 2026.
+CHRIS STASSY is a House and Techno artist with 13 upcoming club dates listed on soundcheck as of Thu, 17 Sept 2026, next at Fabrique, Milan on Fri, 25 Sept 2026.
 
-Chris Stassy is a house and techno artist tracked on soundcheck, with 282 sets logged across Amsterdam, Antwerp, Austin and Barcelona and 60 more. Often billed alongside Jamie Jones, Joseph Capriati and Marco Carola. Next up: Fabrique, Milan on Fri 25 Sept.
+CHRIS STASSY is a house and techno artist tracked on soundcheck, with 282 sets logged across Amsterdam, Antwerp, Austin and Barcelona and 60 more. Often billed alongside Jamie Jones, Joseph Capriati and Marco Carola. Next up: Fabrique, Milan on Fri 25 Sept.
 
 ## Upcoming shows
 
@@ -36,4 +36,4 @@ Chris Stassy is a house and techno artist tracked on soundcheck, with 282 sets l
 
 Jamie Jones, Joseph Capriati, Marco Carola
 
-*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/chrisstussy/)*
+*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/chrisstussy/)*

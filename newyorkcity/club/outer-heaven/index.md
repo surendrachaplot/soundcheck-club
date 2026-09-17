@@ -1,14 +1,13 @@
 # Outer Heaven
 
-Outer Heaven is a music venue in New York City with 9 upcoming nights listed on soundcheck as of Wed, 16 Sept 2026; the next is "Outer Heaven presents: RAAUL" on Wed, 16 Sept 2026.
+Outer Heaven is a music venue in New York City with 8 upcoming nights listed on soundcheck as of Thu, 17 Sept 2026; the next is "Resonyl presents: Nico Noir + Josh Shap" on Thu, 17 Sept 2026.
 
-Outer Heaven is a music venue in Newyorkcity listed on soundcheck. 9 upcoming nights, with line-ups including Armii1n, Auphoria, B.Love and DLR (nyc) and 2 more. Browse upcoming dates, start times and who's playing. 191 Chrystie Street, New York, NY 10002.
+Outer Heaven is a music venue in Newyorkcity listed on soundcheck. 8 upcoming nights, with line-ups including Armii1n, Auphoria, B.Love and DLR (nyc) and 2 more. Browse upcoming dates, start times and who's playing. 191 Chrystie Street, New York, NY 10002.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Wed, 16 Sept 2026 | Outer Heaven presents: RAAUL | RAAUL |
 | Thu, 17 Sept 2026 | Resonyl presents: Nico Noir + Josh Shap | Nico Noir, Tolga, Zayd |
 | Fri, 18 Sept 2026 | Outer Heaven presents: Tolga | Luca Lozano, Mr. Ho, Tolga, Zayd |
 | Sat, 19 Sept 2026 | Klasse Wrecks: Luca Lozano b2b Mr. Ho | Luca Lozano, Mr. Ho, Second Contact |
@@ -22,4 +21,4 @@ Outer Heaven is a music venue in Newyorkcity listed on soundcheck. 9 upcoming ni
 
 191 Chrystie Street, New York, NY 10002, New York City
 
-*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/outer-heaven/)*
+*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/outer-heaven/)*

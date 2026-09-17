@@ -1,6 +1,6 @@
 # Facundo Mohrr
 
-Facundo Mohrr is a Deep House and House artist with 2 upcoming club dates listed on soundcheck as of Wed, 16 Sept 2026, next at Cova Santa, Ibiza on Thu, 17 Sept 2026.
+Facundo Mohrr is a Deep House and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 17 Sept 2026, next at Cova Santa, Ibiza on Thu, 17 Sept 2026.
 
 Facundo Mohrr is a deep house and house artist tracked on soundcheck, with 65 sets logged across Barcelona, Berlin, Buenosaires and Denver and 13 more. Often billed alongside Lee Burridge, Tim Green and Maxi Degrassi. Next up: Cova Santa, Ibiza on Thu 17 Sept.
 
@@ -26,4 +26,4 @@ Facundo Mohrr is a deep house and house artist tracked on soundcheck, with 65 se
 
 Lee Burridge, Tim Green, Maxi Degrassi
 
-*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/facundomohrr/)*
+*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/facundomohrr/)*

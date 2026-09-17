@@ -1,14 +1,13 @@
 # Ciel
 
-Ciel is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Wed, 16 Sept 2026, next at The Berkeley Suite, Glasgow on Wed, 16 Sept 2026.
+Ciel is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Thu, 17 Sept 2026, next at Bassiani, Tbilisi on Fri, 18 Sept 2026.
 
-Ciel is a techno and house artist based in Canada, tracked on soundcheck, with 212 sets logged across Amsterdam, Antwerp, Austin and Bangkok and 50 more. Often billed alongside Milch (1), CCL and Venus in Foil. Next up: The Berkeley Suite, Glasgow on Wed 16 Sept.
+Ciel is a techno and house artist based in Canada, tracked on soundcheck, with 212 sets logged across Amsterdam, Antwerp, Austin and Bangkok and 50 more. Often billed alongside Milch (1), CCL and Venus in Foil. Next up: Bassiani, Tbilisi on Fri 18 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Wed, 16 Sept 2026 | The Berkeley Suite | Glasgow |
 | Fri, 18 Sept 2026 | Bassiani | Tbilisi |
 | Tue, 29 Sept 2026 | Rhythm | Toronto |
 | Sun, 4 Oct 2026 | Standard Time | Toronto |
@@ -16,6 +15,7 @@ Ciel is a techno and house artist based in Canada, tracked on soundcheck, with 2
 
 ## Recently played
 
+- The Berkeley Suite, Glasgow — Wed, 16 Sept 2026
 - Karmakoma, Belgrade — Fri, 11 Sept 2026
 - Blå, Oslo — Thu, 10 Sept 2026
 - Central 1926, Sao Paulo — Sat, 5 Sept 2026
@@ -23,10 +23,9 @@ Ciel is a techno and house artist based in Canada, tracked on soundcheck, with 2
 - TBA - Southwark Park, London — Sat, 29 Aug 2026
 - TBA, Vancouver — Sat, 22 Aug 2026
 - Smoke & Mirrors, Chicago — Sat, 15 Aug 2026
-- TBA - Bat Country, Portland — Fri, 7 Aug 2026
 
 ## Shares bills with
 
 Milch (1), CCL, Venus in Foil
 
-*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/cl-ca/)*
+*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/cl-ca/)*

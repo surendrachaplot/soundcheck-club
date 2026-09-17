@@ -1,14 +1,15 @@
 # NeoFX
 
-NeoFX is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Wed, 16 Sept 2026, next at The Loco Klub, Bristol on Fri, 18 Sept 2026.
+NeoFX is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Thu, 17 Sept 2026, next at The Loco Klub, Bristol on Fri, 18 Sept 2026.
 
-NeoFX is a techno and trance artist tracked on soundcheck, with 15 sets logged across Berlin, Bristol, Brussels and Newyorkcity and 2 more. Often billed alongside niclazik, TVNG and .JKM. Next up: The Loco Klub, Bristol on Fri 18 Sept.
+NeoFX is a techno and trance artist tracked on soundcheck, with 16 sets logged across Berlin, Bristol, Brussels and Newyorkcity and 2 more. Often billed alongside niclazik, TVNG and .JKM. Next up: The Loco Klub, Bristol on Fri 18 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 18 Sept 2026 | The Loco Klub | Bristol |
+| Fri, 23 Oct 2026 | Humboldthain Club | Berlin |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ NeoFX is a techno and trance artist tracked on soundcheck, with 15 sets logged a
 
 niclazik, TVNG, .JKM
 
-*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/neofx/)*
+*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/neofx/)*

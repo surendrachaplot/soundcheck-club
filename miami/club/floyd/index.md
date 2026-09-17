@@ -1,8 +1,8 @@
 # Floyd
 
-Floyd is a music venue in Miami with 19 upcoming nights listed on soundcheck as of Wed, 16 Sept 2026; the next is "Bak2DFuture: Gene On Earth + Momo Trosman" on Fri, 18 Sept 2026.
+Floyd is a music venue in Miami with 21 upcoming nights listed on soundcheck as of Thu, 17 Sept 2026; the next is "Bak2DFuture: Gene On Earth + Momo Trosman" on Fri, 18 Sept 2026.
 
-Floyd is a music venue in Miami listed on soundcheck. 19 upcoming nights, with line-ups including Bag Raiders, Bakke, Bort and Cole Knight and 2 more. Browse upcoming dates, start times and who's playing. 34 NE 11th Street Miami, FL 33132.
+Floyd is a music venue in Miami listed on soundcheck. 21 upcoming nights, with line-ups including Bag Raiders, Bakke, Bort and Cole Knight and 2 more. Browse upcoming dates, start times and who's playing. 34 NE 11th Street Miami, FL 33132.
 
 ## What's on
 
@@ -17,10 +17,10 @@ Floyd is a music venue in Miami listed on soundcheck. 19 upcoming nights, with l
 | Fri, 2 Oct 2026 | LuSiD + Samantha Loveridge | SIEGEL (2), Samantha Loveridge |
 | Sat, 3 Oct 2026 | Dublon | Dublon, Tiffy Vera, Will Buck |
 | Sun, 4 Oct 2026 | Jay de Lys | Jay de Lys, Ms. Mada |
-| Sat, 10 Oct 2026 | Jackie Hollander | Jackie Hollander, Lupe Fuentes, Monoky (2) |
+| Fri, 9 Oct 2026 | Laolu & KARABA | KARABA, Laolu, Nii Tei |
 
 ## Address
 
 34 NE 11th Street Miami, FL 33132, Miami
 
-*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/miami/club/floyd/)*
+*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/miami/club/floyd/)*

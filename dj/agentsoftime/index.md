@@ -1,6 +1,6 @@
 # Agents Of Time
 
-Agents Of Time is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Wed, 16 Sept 2026, next at TBA - Newcastle Australia, Newcastle on Fri, 25 Sept 2026.
+Agents Of Time is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Thu, 17 Sept 2026, next at TBA - Newcastle Australia, Newcastle on Fri, 25 Sept 2026.
 
 Agents Of Time is a techno and house artist tracked on soundcheck, with 122 sets logged across Amsterdam, Athens, Austin and Bali and 37 more. Often billed alongside Stephan Bodzin, Henri Bergmann and Artbat. Next up: TBA - Newcastle Australia, Newcastle on Fri 25 Sept.
 
@@ -28,4 +28,4 @@ Agents Of Time is a techno and house artist tracked on soundcheck, with 122 sets
 
 Stephan Bodzin, Henri Bergmann, Artbat
 
-*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/agentsoftime/)*
+*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/agentsoftime/)*

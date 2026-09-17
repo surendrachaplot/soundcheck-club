@@ -1,6 +1,6 @@
 # Joshua James
 
-Joshua James is a House and Disco artist with 3 upcoming club dates listed on soundcheck as of Wed, 16 Sept 2026, next at XOYO, London on Fri, 18 Sept 2026.
+Joshua James is a House and Disco artist with 3 upcoming club dates listed on soundcheck as of Thu, 17 Sept 2026, next at XOYO, London on Fri, 18 Sept 2026.
 
 Joshua James is a house and disco artist based in United Kingdom, tracked on soundcheck, with 230 sets logged across Barcelona, Brighton, Bristol and Ibiza and 5 more. Often billed alongside Mike Menace, Karlie Marx and Princess Julia. Next up: XOYO, London on Fri 18 Sept.
 
@@ -27,4 +27,4 @@ Joshua James is a house and disco artist based in United Kingdom, tracked on sou
 
 Mike Menace, Karlie Marx, Princess Julia
 
-*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/joshuajames/)*
+*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/joshuajames/)*

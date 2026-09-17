@@ -1,17 +1,18 @@
 # Les Halles de Schaerbeek
 
-Les Halles de Schaerbeek is a music venue in Brussels with 1 upcoming night listed on soundcheck as of Wed, 16 Sept 2026; the next is "VICIOSA x GELATINA with Akriila, Metrika, Bassista, NEGRACONDA" on Sat, 26 Sept 2026.
+Les Halles de Schaerbeek is a music venue in Brussels with 2 upcoming nights listed on soundcheck as of Thu, 17 Sept 2026; the next is "VICIOSA x GELATINA with Akriila, Metrika, Bassista, NEGRACONDA" on Sat, 26 Sept 2026.
 
-Les Halles de Schaerbeek is a music venue in Brussels listed on soundcheck. 1 upcoming night, with line-ups including BADSISTA, NEGRACONDA, Ricky Corazón and Vera Moro. Browse upcoming dates, start times and who's playing. 22b Rue Royale Ste Marie; 1030 Brussels; Belgium.
+Les Halles de Schaerbeek is a music venue in Brussels listed on soundcheck. 2 upcoming nights, with line-ups including BADSISTA, NEGRACONDA, Ricky Corazón and Vera Moro. Browse upcoming dates, start times and who's playing. 22b Rue Royale Ste Marie; 1030 Brussels; Belgium.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
 | Sat, 26 Sept 2026 | VICIOSA x GELATINA with Akriila, Metrika, Bassista, NEGRACONDA | BADSISTA, NEGRACONDA, Ricky Corazón, Vera Moro |
+| Fri, 30 Oct 2026 | QUEER MOUSSEM FESTIVAL BY GAZELLE L'HAFLA |  |
 
 ## Address
 
 22b Rue Royale Ste Marie; 1030 Brussels; Belgium, Brussels
 
-*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/brussels/club/les-halles-de-schaerbeek/)*
+*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/brussels/club/les-halles-de-schaerbeek/)*

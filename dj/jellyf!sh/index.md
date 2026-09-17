@@ -1,6 +1,6 @@
 # Jellyf!sh
 
-Jellyf!sh is a House and Hip-Hop artist with 3 upcoming club dates listed on soundcheck as of Wed, 16 Sept 2026, next at VENT, Tokyo on Sun, 20 Sept 2026.
+Jellyf!sh is a House and Hip-Hop artist with 3 upcoming club dates listed on soundcheck as of Thu, 17 Sept 2026, next at VENT, Tokyo on Sun, 20 Sept 2026.
 
 Jellyf!sh is a house and hip-hop artist tracked on soundcheck, with 52 sets logged across Tokyo. Often billed alongside FUJI TRILL, misa nakamura and kyuuu. Next up: VENT, Tokyo on Sun 20 Sept.
 
@@ -27,4 +27,4 @@ Jellyf!sh is a house and hip-hop artist tracked on soundcheck, with 52 sets logg
 
 FUJI TRILL, misa nakamura, kyuuu
 
-*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jellyf!sh/)*
+*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jellyf!sh/)*

@@ -1,6 +1,6 @@
 # Breakcheck
 
-Breakcheck is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 16 Sept 2026, next at TBA, Montreal on Fri, 25 Sept 2026.
+Breakcheck is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 17 Sept 2026, next at TBA, Montreal on Fri, 25 Sept 2026.
 
 Breakcheck is a techno and house artist tracked on soundcheck, with 19 sets logged across Bristol and Montreal. Often billed alongside Frankie Teardrop, s.talbot and Amy Kisnorbo. Next up: TBA, Montreal on Fri 25 Sept.
 
@@ -25,4 +25,4 @@ Breakcheck is a techno and house artist tracked on soundcheck, with 19 sets logg
 
 Frankie Teardrop, s.talbot, Amy Kisnorbo
 
-*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/breakcheck/)*
+*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/breakcheck/)*

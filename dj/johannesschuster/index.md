@@ -1,8 +1,8 @@
 # Johannes Schuster
 
-Johannes Schuster is a Techno and Trance artist with 14 upcoming club dates listed on soundcheck as of Wed, 16 Sept 2026, next at Radius, Chicago on Fri, 18 Sept 2026.
+Johannes Schuster is a Techno and Trance artist with 15 upcoming club dates listed on soundcheck as of Thu, 17 Sept 2026, next at Radius, Chicago on Fri, 18 Sept 2026.
 
-Johannes Schuster is a techno and trance artist tracked on soundcheck, with 199 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 44 more. Often billed alongside KUKO, Cloudy and Neon Graveyard. Next up: Radius, Chicago on Fri 18 Sept.
+Johannes Schuster is a techno and trance artist tracked on soundcheck, with 200 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 44 more. Often billed alongside KUKO, Cloudy and Neon Graveyard. Next up: Radius, Chicago on Fri 18 Sept.
 
 ## Upcoming shows
 
@@ -19,7 +19,7 @@ Johannes Schuster is a techno and trance artist tracked on soundcheck, with 199 
 | Fri, 9 Oct 2026 | OST | Berlin |
 | Fri, 16 Oct 2026 | Ääniwalli | Helsinki |
 | Sun, 25 Oct 2026 | Warehouse Elementenstraat | Amsterdam |
-| Sat, 21 Nov 2026 | Komplexo Tempo | Sao Paulo |
+| Sat, 14 Nov 2026 | OST | Berlin |
 
 ## Recently played
 
@@ -36,4 +36,4 @@ Johannes Schuster is a techno and trance artist tracked on soundcheck, with 199 
 
 KUKO, Cloudy, Neon Graveyard
 
-*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/johannesschuster/)*
+*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/johannesschuster/)*

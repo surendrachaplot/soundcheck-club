@@ -1,6 +1,6 @@
 # Lee Burridge
 
-Lee Burridge is a Deep House and House artist with 11 upcoming club dates listed on soundcheck as of Wed, 16 Sept 2026, next at Industry City, New York City on Sat, 19 Sept 2026.
+Lee Burridge is a Deep House and House artist with 11 upcoming club dates listed on soundcheck as of Thu, 17 Sept 2026, next at Industry City, New York City on Sat, 19 Sept 2026.
 
 Lee Burridge is a deep house and house artist tracked on soundcheck, with 144 sets logged across Austin, Bali, Barcelona and Belgrade and 32 more. Often billed alongside Jim Rider, Tim Green and Double Touch. Next up: Industry City, Newyorkcity on Sat 19 Sept.
 
@@ -35,4 +35,4 @@ Lee Burridge is a deep house and house artist tracked on soundcheck, with 144 se
 
 Jim Rider, Tim Green, Double Touch
 
-*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/leeburridge/)*
+*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/leeburridge/)*

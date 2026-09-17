@@ -1,13 +1,14 @@
 # Royce Larøca
 
-Royce Larøca is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Wed, 16 Sept 2026, next at Bad Bobs (Rooftop Terrace), Temple Bar, Dublin on Fri, 30 Oct 2026.
+Royce Larøca is a House and Minimal artist with 2 upcoming club dates listed on soundcheck as of Thu, 17 Sept 2026, next at La Chinesca, Philadelphia on Sun, 11 Oct 2026.
 
-Royce Larøca is a house and minimal artist tracked on soundcheck, with 70 sets logged across Dublin, Lisbon, London and Paris and 1 more. Often billed alongside Waximum, Hera (IE) and RealTalks Soundsystem. Next up: Bad Bobs (Rooftop Terrace), Temple Bar, Dublin on Fri 30 Oct.
+Royce Larøca is a house and minimal artist tracked on soundcheck, with 71 sets logged across Dublin, Lisbon, London and Paris and 1 more. Often billed alongside Waximum, Hera (IE) and RealTalks Soundsystem. Next up: La Chinesca, Philadelphia on Sun 11 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sun, 11 Oct 2026 | La Chinesca | Philadelphia |
 | Fri, 30 Oct 2026 | Bad Bobs (Rooftop Terrace), Temple Bar | Dublin |
 
 ## Recently played
@@ -25,4 +26,4 @@ Royce Larøca is a house and minimal artist tracked on soundcheck, with 70 sets 
 
 Waximum, Hera (IE), RealTalks Soundsystem
 
-*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/roycelaroca/)*
+*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/roycelaroca/)*

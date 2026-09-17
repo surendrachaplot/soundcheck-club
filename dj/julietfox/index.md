@@ -1,14 +1,13 @@
 # Juliet Fox
 
-Juliet Fox is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Wed, 16 Sept 2026, next at Amnesia Ibiza, Ibiza on Wed, 16 Sept 2026.
+Juliet Fox is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Thu, 17 Sept 2026, next at Akvárium Klub, Budapest on Sat, 19 Sept 2026.
 
-Juliet Fox is a techno and house artist tracked on soundcheck, with 112 sets logged across Amsterdam, Austin, Bangkok and Barcelona and 39 more. Often billed alongside Adam Beyer, Joyhauser and Layton Giordani. Next up: Amnesia Ibiza, Ibiza on Wed 16 Sept.
+Juliet Fox is a techno and house artist tracked on soundcheck, with 112 sets logged across Amsterdam, Austin, Bangkok and Barcelona and 39 more. Often billed alongside Adam Beyer, Joyhauser and Layton Giordani. Next up: Akvárium Klub, Budapest on Sat 19 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Wed, 16 Sept 2026 | Amnesia Ibiza | Ibiza |
 | Sat, 19 Sept 2026 | Akvárium Klub | Budapest |
 | Sat, 24 Oct 2026 | Oosterbar | Amsterdam |
 | Sun, 25 Oct 2026 | John Doe | Amsterdam |
@@ -16,6 +15,7 @@ Juliet Fox is a techno and house artist tracked on soundcheck, with 112 sets log
 
 ## Recently played
 
+- Amnesia Ibiza, Ibiza — Wed, 16 Sept 2026
 - Amnesia Ibiza, Ibiza — Sun, 23 Aug 2026
 - TBA - Straße des 17. Juni & Großer Stern, Berlin — Sat, 15 Aug 2026
 - Parc del Fòrum, Barcelona — Fri, 7 Aug 2026
@@ -23,10 +23,9 @@ Juliet Fox is a techno and house artist tracked on soundcheck, with 112 sets log
 - Fabrik, Madrid — Sat, 27 Jun 2026
 - Lokschuppen Berlin, Berlin — Sat, 13 Jun 2026
 - Casa Capitão, Lisbon — Wed, 29 Apr 2026
-- TBA - Ticket Holders will be sent the location at 6pmEST the day of the event.., Philadelphia — Sat, 25 Apr 2026
 
 ## Shares bills with
 
 Adam Beyer, Joyhauser, Layton Giordani
 
-*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/julietfox/)*
+*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/julietfox/)*

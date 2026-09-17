@@ -1,6 +1,6 @@
 # Hanna Hais
 
-Hanna Hais is a Afro House and Afro Tech artist with 1 upcoming club date listed on soundcheck as of Wed, 16 Sept 2026, next at Plat/Form, Paris on Sat, 19 Sept 2026.
+Hanna Hais is a Afro House and Afro Tech artist with 1 upcoming club date listed on soundcheck as of Thu, 17 Sept 2026, next at Plat/Form, Paris on Sat, 19 Sept 2026.
 
 Hanna Hais is an afro house and afro tech artist tracked on soundcheck, with 5 sets logged across Amsterdam, Losangeles and Paris. Often billed alongside ARYMÉ, Alois and Atsou. Next up: Plat/Form, Paris on Sat 19 Sept.
 
@@ -21,4 +21,4 @@ Hanna Hais is an afro house and afro tech artist tracked on soundcheck, with 5 s
 
 ARYMÉ, Alois, Atsou
 
-*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/hannahais/)*
+*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/hannahais/)*

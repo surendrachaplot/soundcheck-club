@@ -1,6 +1,6 @@
 # Rotbart
 
-Rotbart is a music venue in Berlin with 1 upcoming night listed on soundcheck as of Wed, 16 Sept 2026; the next is "La Casa! Sounds of the Hood" on Thu, 8 Oct 2026.
+Rotbart is a music venue in Berlin with 1 upcoming night listed on soundcheck as of Thu, 17 Sept 2026; the next is "La Casa! Sounds of the Hood" on Thu, 8 Oct 2026.
 
 Rotbart is a music venue in Berlin listed on soundcheck. 1 upcoming night, with line-ups including Boogie Dan and Dj Quien. Browse upcoming dates, start times and who's playing. Böhmische Straße 43, 12055 Berlin.
 
@@ -14,4 +14,4 @@ Rotbart is a music venue in Berlin listed on soundcheck. 1 upcoming night, with 
 
 Böhmische Straße 43, 12055 Berlin, Berlin
 
-*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/rotbart/)*
+*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/rotbart/)*

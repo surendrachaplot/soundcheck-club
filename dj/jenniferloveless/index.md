@@ -1,6 +1,6 @@
 # Jennifer Loveless
 
-Jennifer Loveless is a House and Techno artist with 13 upcoming club dates listed on soundcheck as of Wed, 16 Sept 2026, next at 3oz Dive Club, San Diego on Fri, 18 Sept 2026.
+Jennifer Loveless is a House and Techno artist with 13 upcoming club dates listed on soundcheck as of Thu, 17 Sept 2026, next at 3oz Dive Club, San Diego on Fri, 18 Sept 2026.
 
 Jennifer Loveless is a house and techno artist tracked on soundcheck, with 247 sets logged across Amsterdam, Austin, Bali and Barcelona and 55 more. Often billed alongside Fafi Abdel Nour, ISAbella and BASHKKA. Next up: 3oz Dive Club, Sandiego on Fri 18 Sept.
 
@@ -36,4 +36,4 @@ Jennifer Loveless is a house and techno artist tracked on soundcheck, with 247 s
 
 Fafi Abdel Nour, ISAbella, BASHKKA
 
-*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jenniferloveless/)*
+*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jenniferloveless/)*

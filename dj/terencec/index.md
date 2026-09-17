@@ -1,6 +1,6 @@
 # Terence C
 
-Terence C is a House and Progressive House artist with 1 upcoming club date listed on soundcheck as of Wed, 16 Sept 2026, next at Wet Deck at W Hotel, Kuala Lumpur on Sat, 19 Sept 2026.
+Terence C is a House and Progressive House artist with 1 upcoming club date listed on soundcheck as of Thu, 17 Sept 2026, next at Wet Deck at W Hotel, Kuala Lumpur on Sat, 19 Sept 2026.
 
 Terence C is a house and progressive house artist based in Malaysia, tracked on soundcheck, with 22 sets logged across Kualalumpur and Singapore. Often billed alongside Meliha, Alam and Biscuit (MY). Next up: Wet Deck at W Hotel, Kualalumpur on Sat 19 Sept.
 
@@ -25,4 +25,4 @@ Terence C is a house and progressive house artist based in Malaysia, tracked on 
 
 Meliha, Alam, Biscuit (MY)
 
-*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/terencec/)*
+*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/terencec/)*

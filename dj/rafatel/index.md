@@ -1,6 +1,6 @@
 # Rafatel
 
-Rafatel is a House and Deep House artist with 2 upcoming club dates listed on soundcheck as of Wed, 16 Sept 2026, next at 303 Audiophile Bar, Barcelona on Fri, 18 Sept 2026.
+Rafatel is a House and Deep House artist with 2 upcoming club dates listed on soundcheck as of Thu, 17 Sept 2026, next at 303 Audiophile Bar, Barcelona on Fri, 18 Sept 2026.
 
 Rafatel is a house and deep house artist tracked on soundcheck, with 99 sets logged across Barcelona, Berlin, Buenosaires and Hamburg and 5 more. Often billed alongside papa jazz, Valeriana and Dehesa. Next up: 303 Audiophile Bar, Barcelona on Fri 18 Sept.
 
@@ -9,7 +9,7 @@ Rafatel is a house and deep house artist tracked on soundcheck, with 99 sets log
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 18 Sept 2026 | 303 Audiophile Bar | Barcelona |
-| Sun, 20 Sept 2026 | Palais | London |
+| Sun, 20 Sept 2026 | Vittoria Wharf Studio | London |
 
 ## Recently played
 
@@ -26,4 +26,4 @@ Rafatel is a house and deep house artist tracked on soundcheck, with 99 sets log
 
 papa jazz, Valeriana, Dehesa
 
-*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/rafatel/)*
+*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/rafatel/)*

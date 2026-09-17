@@ -1,14 +1,13 @@
 # Amnesia Ibiza
 
-Amnesia Ibiza is a music venue in Ibiza with 20 upcoming nights listed on soundcheck as of Wed, 16 Sept 2026; the next is "Resistance Ibiza Closing Party" on Wed, 16 Sept 2026.
+Amnesia Ibiza is a music venue in Ibiza with 19 upcoming nights listed on soundcheck as of Thu, 17 Sept 2026; the next is "You&Me" on Thu, 17 Sept 2026.
 
-Amnesia Ibiza is a music venue in Ibiza listed on soundcheck. 20 upcoming nights, with line-ups including Kepler, Adam Beyer, Adrian Mills and Alarico and 2 more. Browse upcoming dates, start times and who's playing. Ctra. Ibiza a San Antonio, Km 5, 07816 San Rafael, Ibiza.
+Amnesia Ibiza is a music venue in Ibiza listed on soundcheck. 19 upcoming nights, with line-ups including Kepler, Adrian Mills, Alarico and Alexandria and 2 more. Browse upcoming dates, start times and who's playing. Ctra. Ibiza a San Antonio, Km 5, 07816 San Rafael, Ibiza.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Wed, 16 Sept 2026 | Resistance Ibiza Closing Party | Adam Beyer, Brina Knauss, Eric Prydz, Estella Boersma, I Hate Models, Juliet Fox, Mind Against, Nicole Moudaber, Stëh |
 | Thu, 17 Sept 2026 | You&Me | Interplanetary Criminal, Josh Baker, L.P. Rhythm, LILI, Sosa |
 | Fri, 18 Sept 2026 | Glitterbox | Armand Van Helden, Dan Shake, Floorplan, Melvo Baptiste, Mousse T., Natasha Diggs, Riva Starr, Spiller |
 | Sat, 19 Sept 2026 | FAC51: The Haçienda | DJ Paulette, David Morales, Graeme Park, Innercity (BE), Mike Pickering, Todd Terry |
@@ -18,9 +17,10 @@ Amnesia Ibiza is a music venue in Ibiza listed on soundcheck. 20 upcoming nights
 | Wed, 23 Sept 2026 | The Kevin & Perry Experience | Billy Gillies, Dale Castell, Dave Pearce, Lange, Rob Tissera, Seb Fontaine, Signum, Ultrabeat, VICKY |
 | Thu, 24 Sept 2026 | You&Me | ELVI (SE), Josh Baker, Julian Fijma, Luke Dean_ |
 | Fri, 25 Sept 2026 | Glitterbox | Basement Jaxx, Dan Shake, L3Ni, Luke Solomon, Makèz, Melvo Baptiste, MiNNA |
+| Sat, 26 Sept 2026 | Godskitchen | Fergie, Ferry Corsten, Jordan Nocturne, Lisa Lashes, Tall Paul |
 
 ## Address
 
 Ctra. Ibiza a San Antonio, Km 5, 07816 San Rafael, Ibiza, Ibiza
 
-*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/ibiza/club/amnesia-ibiza/)*
+*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/ibiza/club/amnesia-ibiza/)*

@@ -1,6 +1,6 @@
 # Tye Turner
 
-Tye Turner is a Baile Funk and Club artist with 2 upcoming club dates listed on soundcheck as of Wed, 16 Sept 2026, next at The Concourse Project, Austin on Fri, 18 Sept 2026.
+Tye Turner is a Baile Funk and Club artist with 2 upcoming club dates listed on soundcheck as of Thu, 17 Sept 2026, next at The Concourse Project, Austin on Fri, 18 Sept 2026.
 
 Tye Turner is a baile funk and club artist tracked on soundcheck, with 9 sets logged across Austin, Bristol, Kualalumpur and London and 5 more. Often billed alongside Baby J (2), LARISHKA (UK) and IN PARALLEL. Next up: The Concourse Project, Austin on Fri 18 Sept.
 
@@ -25,4 +25,4 @@ Tye Turner is a baile funk and club artist tracked on soundcheck, with 9 sets lo
 
 Baby J (2), LARISHKA (UK), IN PARALLEL
 
-*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tyeturner/)*
+*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tyeturner/)*

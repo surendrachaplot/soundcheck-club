@@ -1,6 +1,6 @@
 # Dj OmarO
 
-Dj OmarO is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 16 Sept 2026, next at ÆDEN, Berlin on Sat, 26 Sept 2026.
+Dj OmarO is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 17 Sept 2026, next at ÆDEN, Berlin on Sat, 26 Sept 2026.
 
 Dj OmarO is a house and techno artist based in Germany, tracked on soundcheck, with 13 sets logged across Berlin. Often billed alongside Amed Nheiro, NAIR (IN) and Acid.Foxy. Next up: ÆDEN, Berlin on Sat 26 Sept.
 
@@ -25,4 +25,4 @@ Dj OmarO is a house and techno artist based in Germany, tracked on soundcheck, w
 
 Amed Nheiro, NAIR (IN), Acid.Foxy
 
-*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djomaro-de/)*
+*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djomaro-de/)*

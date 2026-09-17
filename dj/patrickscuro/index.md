@@ -1,6 +1,6 @@
 # Patrick Scuro
 
-Patrick Scuro is a Techno and Psytrance artist with 2 upcoming club dates listed on soundcheck as of Wed, 16 Sept 2026, next at Void Club, Berlin on Fri, 25 Sept 2026.
+Patrick Scuro is a Techno and Psytrance artist with 2 upcoming club dates listed on soundcheck as of Thu, 17 Sept 2026, next at Void Club, Berlin on Fri, 25 Sept 2026.
 
 Patrick Scuro is a techno and psytrance artist tracked on soundcheck, with 65 sets logged across Berlin, Cologne, Copenhagen and Hamburg and 1 more. Often billed alongside DJ Jordan, Basstronauten and Daniel Boon. Next up: Void Club, Berlin on Fri 25 Sept.
 
@@ -26,4 +26,4 @@ Patrick Scuro is a techno and psytrance artist tracked on soundcheck, with 65 se
 
 DJ Jordan, Basstronauten, Daniel Boon
 
-*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/patrickscuro/)*
+*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/patrickscuro/)*

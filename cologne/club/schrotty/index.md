@@ -1,8 +1,8 @@
 # Schrotty
 
-Schrotty is a music venue in Cologne with 14 upcoming nights listed on soundcheck as of Wed, 16 Sept 2026; the next is "Feiern wie früher, nur früher by Anna Reusch & Thomas Schumacher" on Sat, 19 Sept 2026.
+Schrotty is a music venue in Cologne with 15 upcoming nights listed on soundcheck as of Thu, 17 Sept 2026; the next is "Feiern wie früher, nur früher by Anna Reusch & Thomas Schumacher" on Sat, 19 Sept 2026.
 
-Schrotty is a music venue in Cologne listed on soundcheck. 14 upcoming nights, with line-ups including A.D.H.S., Adrian Mills, Andreas Kraemer and Anna Reusch and 2 more. Browse upcoming dates, start times and who's playing. Vogelsanger Straße 406, 50827 Köln.
+Schrotty is a music venue in Cologne listed on soundcheck. 15 upcoming nights, with line-ups including A.D.H.S., Adrian Mills, Andreas Kraemer and Anna Reusch and 2 more. Browse upcoming dates, start times and who's playing. Vogelsanger Straße 406, 50827 Köln.
 
 ## What's on
 
@@ -23,4 +23,4 @@ Schrotty is a music venue in Cologne listed on soundcheck. 14 upcoming nights, w
 
 Vogelsanger Straße 406, 50827 Köln, Cologne
 
-*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/cologne/club/schrotty/)*
+*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/cologne/club/schrotty/)*

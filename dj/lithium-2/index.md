@@ -1,6 +1,6 @@
 # Lithium (2)
 
-Lithium (2) is a Post-Punk and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 16 Sept 2026, next at ://about blank, Berlin on Fri, 18 Sept 2026.
+Lithium (2) is a Post-Punk and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 17 Sept 2026, next at ://about blank, Berlin on Fri, 18 Sept 2026.
 
 Lithium (2) is a post-punk and techno artist tracked on soundcheck, with 6 sets logged across Berlin. Often billed alongside K1KO, ALKARLINE and Carl Bergé. Next up: ://about blank, Berlin on Fri 18 Sept.
 
@@ -22,4 +22,4 @@ Lithium (2) is a post-punk and techno artist tracked on soundcheck, with 6 sets 
 
 K1KO, ALKARLINE, Carl Bergé
 
-*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lithium-2/)*
+*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lithium-2/)*

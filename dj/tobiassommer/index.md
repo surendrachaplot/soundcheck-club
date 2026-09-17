@@ -1,14 +1,15 @@
 # Tobias Sommer
 
-Tobias Sommer is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Wed, 16 Sept 2026, next at KitKatClub, Berlin on Fri, 25 Sept 2026.
+Tobias Sommer is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Thu, 17 Sept 2026, next at KitKatClub, Berlin on Fri, 25 Sept 2026.
 
-Tobias Sommer is a techno and house artist based in Germany, tracked on soundcheck, with 47 sets logged across Berlin, Brussels and Hamburg. Often billed alongside KEN (DE), Chris Bekker and Enjoyvoid. Next up: KitKatClub, Berlin on Fri 25 Sept.
+Tobias Sommer is a techno and house artist based in Germany, tracked on soundcheck, with 48 sets logged across Berlin, Brussels, Hamburg and Leipzig. Often billed alongside KEN (DE), Chris Bekker and Enjoyvoid. Next up: KitKatClub, Berlin on Fri 25 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 25 Sept 2026 | KitKatClub | Berlin |
+| Fri, 16 Oct 2026 | elipamanoke | Leipzig |
 | Sat, 12 Dec 2026 | Café Flora | Brussels |
 
 ## Recently played
@@ -26,4 +27,4 @@ Tobias Sommer is a techno and house artist based in Germany, tracked on soundche
 
 KEN (DE), Chris Bekker, Enjoyvoid
 
-*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tobiassommer/)*
+*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tobiassommer/)*

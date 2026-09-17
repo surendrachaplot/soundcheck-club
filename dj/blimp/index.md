@@ -1,8 +1,8 @@
 # Blimp
 
-Blimp is a Noise and Pop artist with 2 upcoming club dates listed on soundcheck as of Wed, 16 Sept 2026, next at The Racket Space, Dublin on Sun, 20 Sept 2026.
+Blimp is a Noise and Pop artist with 2 upcoming club dates listed on soundcheck as of Thu, 17 Sept 2026, next at The Racket Space, Dublin on Sun, 20 Sept 2026.
 
-Blimp is a noise and pop artist tracked on soundcheck, with 11 sets logged across Chicago, Dublin, Newyorkcity and Sandiego and 1 more. Often billed alongside Boysinblush, Sémaé and Dan J. Wilcox. Next up: The Racket Space, Dublin on Sun 20 Sept.
+Blimp is a noise and pop artist tracked on soundcheck, with 11 sets logged across Chicago, Dublin, Newyorkcity and Sandiego and 1 more. Often billed alongside Boysinblush, LIAL and Sémaé. Next up: The Racket Space, Dublin on Sun 20 Sept.
 
 ## Upcoming shows
 
@@ -24,6 +24,6 @@ Blimp is a noise and pop artist tracked on soundcheck, with 11 sets logged acros
 
 ## Shares bills with
 
-Boysinblush, Sémaé, Dan J. Wilcox
+Boysinblush, LIAL, Sémaé
 
-*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/blimp/)*
+*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/blimp/)*

@@ -1,6 +1,6 @@
 # Usherenko
 
-Usherenko is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Wed, 16 Sept 2026, next at Pas Berlin, Berlin on Sat, 17 Oct 2026.
+Usherenko is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Thu, 17 Sept 2026, next at Pas Berlin, Berlin on Sat, 17 Oct 2026.
 
 Usherenko is a house and techno artist based in United States of America, tracked on soundcheck, with 82 sets logged across Amsterdam, Bangkok, Barcelona and Berlin and 16 more. Often billed alongside Ika (GE), Gio Shengelia and Julian Bomm. Next up: Pas Berlin, Berlin on Sat 17 Oct.
 
@@ -27,4 +27,4 @@ Usherenko is a house and techno artist based in United States of America, tracke
 
 Ika (GE), Gio Shengelia, Julian Bomm
 
-*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/usherenko/)*
+*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/usherenko/)*

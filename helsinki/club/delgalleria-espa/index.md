@@ -1,6 +1,6 @@
 # Delgalleria - Espa
 
-Delgalleria - Espa is a music venue in Helsinki with 2 upcoming nights listed on soundcheck as of Wed, 16 Sept 2026; the next is "'Here we go again'" on Fri, 18 Sept 2026.
+Delgalleria - Espa is a music venue in Helsinki with 2 upcoming nights listed on soundcheck as of Thu, 17 Sept 2026; the next is "'Here we go again'" on Fri, 18 Sept 2026.
 
 Delgalleria - Espa is a music venue in Helsinki listed on soundcheck. 2 upcoming nights, with line-ups including ANAHC and Man Jorge. Browse upcoming dates, start times and who's playing. Pohjoisesplanadi 19, 00100 Helsinki.
 
@@ -15,4 +15,4 @@ Delgalleria - Espa is a music venue in Helsinki listed on soundcheck. 2 upcoming
 
 Pohjoisesplanadi 19, 00100 Helsinki, Helsinki
 
-*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/helsinki/club/delgalleria-espa/)*
+*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/helsinki/club/delgalleria-espa/)*

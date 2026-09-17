@@ -1,6 +1,6 @@
 # Vespers Club
 
-Vespers Club is a music venue in London with 12 upcoming nights listed on soundcheck as of Wed, 16 Sept 2026; the next is "Alexi Shell & Friends" on Fri, 18 Sept 2026.
+Vespers Club is a music venue in London with 12 upcoming nights listed on soundcheck as of Thu, 17 Sept 2026; the next is "Alexi Shell & Friends" on Fri, 18 Sept 2026.
 
 Vespers Club is a music venue in London listed on soundcheck. 12 upcoming nights, with line-ups including AAKAARA, Alexi Shell, Cinna Peyghamy and Creep-P and 2 more. Browse upcoming dates, start times and who's playing. 133A Rye Lane, London, SE15 4BQ, UK.
 
@@ -23,4 +23,4 @@ Vespers Club is a music venue in London listed on soundcheck. 12 upcoming nights
 
 133A Rye Lane, London, SE15 4BQ, UK, London
 
-*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/vespers-club/)*
+*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/vespers-club/)*

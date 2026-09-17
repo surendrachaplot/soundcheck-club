@@ -1,6 +1,6 @@
 # Alousea
 
-Alousea is a Disco and House artist with 3 upcoming club dates listed on soundcheck as of Wed, 16 Sept 2026, next at Ernest, Newcastle on Thu, 17 Sept 2026.
+Alousea is a Disco and House artist with 3 upcoming club dates listed on soundcheck as of Thu, 17 Sept 2026, next at Ernest, Newcastle on Thu, 17 Sept 2026.
 
 Alousea is a disco and house artist tracked on soundcheck, with 18 sets logged across Newcastle. Often billed alongside Socialness, PHJ.WAV and FroD. Next up: Ernest, Newcastle on Thu 17 Sept.
 
@@ -27,4 +27,4 @@ Alousea is a disco and house artist tracked on soundcheck, with 18 sets logged a
 
 Socialness, PHJ.WAV, FroD
 
-*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/alousea/)*
+*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/alousea/)*

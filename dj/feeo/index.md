@@ -1,6 +1,6 @@
 # feeo
 
-feeo is a Experimental and Electronica artist with 3 upcoming club dates listed on soundcheck as of Wed, 16 Sept 2026, next at Hydrozagadka, Warsaw on Fri, 18 Sept 2026.
+feeo is a Experimental and Electronica artist with 3 upcoming club dates listed on soundcheck as of Thu, 17 Sept 2026, next at Hydrozagadka, Warsaw on Fri, 18 Sept 2026.
 
 feeo is an experimental and electronica artist based in United Kingdom, tracked on soundcheck, with 34 sets logged across Barcelona, Berlin, Bristol and Brussels and 9 more. Often billed alongside Lol K, Ugnė Uma and Valentina Magaletti. Next up: Hydrozagadka, Warsaw on Fri 18 Sept.
 
@@ -27,4 +27,4 @@ feeo is an experimental and electronica artist based in United Kingdom, tracked 
 
 Lol K, Ugnė Uma, Valentina Magaletti
 
-*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/feeo/)*
+*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/feeo/)*

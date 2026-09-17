@@ -1,6 +1,6 @@
 # MOGO
 
-MOGO is a music venue in Milan with 1 upcoming night listed on soundcheck as of Wed, 16 Sept 2026; the next is "Alzaya Records with Alexia Glensy, Evaa at MOGO" on Fri, 18 Sept 2026.
+MOGO is a music venue in Milan with 1 upcoming night listed on soundcheck as of Thu, 17 Sept 2026; the next is "Alzaya Records with Alexia Glensy, Evaa at MOGO" on Fri, 18 Sept 2026.
 
 MOGO is a music venue in Milan listed on soundcheck. 1 upcoming night, with line-ups including Alexia Glensy and Evaa_. Browse upcoming dates, start times and who's playing. Via Bernina, 1C, 20158 Milano MI.
 
@@ -14,4 +14,4 @@ MOGO is a music venue in Milan listed on soundcheck. 1 upcoming night, with line
 
 Via Bernina, 1C, 20158 Milano MI, Milan
 
-*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/milan/club/mogo/)*
+*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/milan/club/mogo/)*

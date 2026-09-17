@@ -1,6 +1,6 @@
 # Mimmo Errico
 
-Mimmo Errico is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Wed, 16 Sept 2026, next at TBA - DERIENZO , Rome on Thu, 17 Sept 2026.
+Mimmo Errico is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Thu, 17 Sept 2026, next at TBA - DERIENZO , Rome on Thu, 17 Sept 2026.
 
 Mimmo Errico is a house and tech house artist tracked on soundcheck, with 43 sets logged across Barcelona, Ibiza, Losangeles and Rome and 1 more. Often billed alongside Viktor Martini, Frank Master and Dexter. Next up: TBA - DERIENZO , Rome on Thu 17 Sept.
 
@@ -26,4 +26,4 @@ Mimmo Errico is a house and tech house artist tracked on soundcheck, with 43 set
 
 Viktor Martini, Frank Master, Dexter
 
-*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mimmoerrico/)*
+*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mimmoerrico/)*

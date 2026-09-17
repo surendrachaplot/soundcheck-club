@@ -1,6 +1,6 @@
 # Dresden
 
-Dresden is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Wed, 16 Sept 2026, next at Jasna 1, Warsaw on Fri, 25 Sept 2026.
+Dresden is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Thu, 17 Sept 2026, next at Jasna 1, Warsaw on Fri, 25 Sept 2026.
 
 Dresden is a techno and house artist based in Spain, tracked on soundcheck, with 18 sets logged across Amsterdam, Brussels, Liverpool and London and 6 more. Often billed alongside Ivan Smagghe, Manfredas and Christian AB. Next up: Jasna 1, Warsaw on Fri 25 Sept.
 
@@ -28,4 +28,4 @@ Dresden is a techno and house artist based in Spain, tracked on soundcheck, with
 
 Ivan Smagghe, Manfredas, Christian AB
 
-*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dresden/)*
+*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dresden/)*

@@ -1,6 +1,6 @@
 # Hall
 
-Hall is a music venue in Tallinn with 2 upcoming nights listed on soundcheck as of Wed, 16 Sept 2026; the next is "Halal Club invites: Stanislav Tolkachev" on Fri, 18 Sept 2026.
+Hall is a music venue in Tallinn with 2 upcoming nights listed on soundcheck as of Thu, 17 Sept 2026; the next is "Halal Club invites: Stanislav Tolkachev" on Fri, 18 Sept 2026.
 
 Hall is a music venue in Tallinn listed on soundcheck. 2 upcoming nights, with line-ups including Charch, FAKIGN, Labrighli and Lauri Villau and 2 more. Browse upcoming dates, start times and who's playing. Peetri 6, Põhja-Tallinn, Põhja-Tallinna, 10411 Harju maakond, Estonia.
 
@@ -15,4 +15,4 @@ Hall is a music venue in Tallinn listed on soundcheck. 2 upcoming nights, with l
 
 Peetri 6, Põhja-Tallinn, Põhja-Tallinna, 10411 Harju maakond, Estonia, Tallinn
 
-*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/tallinn/club/hall/)*
+*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/tallinn/club/hall/)*

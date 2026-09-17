@@ -1,8 +1,8 @@
 # Todd Edwards
 
-Todd Edwards is a House and Garage artist with 3 upcoming club dates listed on soundcheck as of Wed, 16 Sept 2026, next at Los Globos, Los Angeles on Sat, 3 Oct 2026.
+Todd Edwards is a House and Garage artist with 4 upcoming club dates listed on soundcheck as of Thu, 17 Sept 2026, next at Los Globos, Los Angeles on Sat, 3 Oct 2026.
 
-Todd Edwards is a house and garage artist tracked on soundcheck, with 123 sets logged across Amsterdam, Austin, Barcelona and Berlin and 30 more. Often billed alongside Conducta, Sam Divine and Rio Tashan. Next up: Los Globos, Losangeles on Sat 3 Oct.
+Todd Edwards is a house and garage artist tracked on soundcheck, with 124 sets logged across Amsterdam, Austin, Barcelona and Berlin and 30 more. Often billed alongside Conducta, Sam Divine and Rio Tashan. Next up: Los Globos, Losangeles on Sat 3 Oct.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Todd Edwards is a house and garage artist tracked on soundcheck, with 123 sets l
 | --- | --- | --- |
 | Sat, 3 Oct 2026 | Los Globos | Los Angeles |
 | Fri, 30 Oct 2026 | Factory Town | Miami |
+| Fri, 13 Nov 2026 | Electric Brixton | London |
 | Fri, 13 Nov 2026 | Volks | Brighton |
 
 ## Recently played
@@ -27,4 +28,4 @@ Todd Edwards is a house and garage artist tracked on soundcheck, with 123 sets l
 
 Conducta, Sam Divine, Rio Tashan
 
-*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/toddedwards/)*
+*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/toddedwards/)*

@@ -1,6 +1,6 @@
 # Last Arch
 
-Last Arch is a music venue in London with 13 upcoming nights listed on soundcheck as of Wed, 16 Sept 2026; the next is "HIJINX: Body Clinic" on Fri, 18 Sept 2026.
+Last Arch is a music venue in London with 13 upcoming nights listed on soundcheck as of Thu, 17 Sept 2026; the next is "HIJINX: Body Clinic" on Fri, 18 Sept 2026.
 
 Last Arch is a music venue in London listed on soundcheck. 13 upcoming nights, with line-ups including Archie Holmes, Arts of the Unknown, Body Clinic and Constratti and 2 more. Browse upcoming dates, start times and who's playing. 392 Wandsworth Road SW84PH (Through the black gates, last arch).
 
@@ -23,4 +23,4 @@ Last Arch is a music venue in London listed on soundcheck. 13 upcoming nights, w
 
 392 Wandsworth Road SW84PH (Through the black gates, last arch), London
 
-*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/last-arch/)*
+*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/last-arch/)*

@@ -1,6 +1,6 @@
 # Part Time Killer
 
-Part Time Killer is a Techno and Trance artist with 9 upcoming club dates listed on soundcheck as of Wed, 16 Sept 2026, next at RSO.BERLIN, Berlin on Sat, 19 Sept 2026.
+Part Time Killer is a Techno and Trance artist with 9 upcoming club dates listed on soundcheck as of Thu, 17 Sept 2026, next at RSO.BERLIN, Berlin on Sat, 19 Sept 2026.
 
 Part Time Killer is a techno and trance artist tracked on soundcheck, with 164 sets logged across Amsterdam, Antwerp, Barcelona and Basel and 33 more. Often billed alongside Frederic., KLING&KLANG and CAIVA. Next up: RSO.BERLIN, Berlin on Sat 19 Sept.
 
@@ -33,4 +33,4 @@ Part Time Killer is a techno and trance artist tracked on soundcheck, with 164 s
 
 Frederic., KLING&KLANG, CAIVA
 
-*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/parttimekiller/)*
+*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/parttimekiller/)*

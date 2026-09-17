@@ -1,6 +1,6 @@
 # Linien206
 
-Linien206 is a music venue in Berlin with 1 upcoming night listed on soundcheck as of Wed, 16 Sept 2026; the next is "Soli Party Berlin" on Sat, 3 Oct 2026.
+Linien206 is a music venue in Berlin with 1 upcoming night listed on soundcheck as of Thu, 17 Sept 2026; the next is "Soli Party Berlin" on Sat, 3 Oct 2026.
 
 Linien206 is a music venue in Berlin listed on soundcheck. 1 upcoming night. Browse upcoming dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ Linien206 is a music venue in Berlin listed on soundcheck. 1 upcoming night. Bro
 | --- | --- | --- |
 | Sat, 3 Oct 2026 | Soli Party Berlin |  |
 
-*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/linien206/)*
+*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/linien206/)*

@@ -1,6 +1,6 @@
-# PKH Warehouse Opening Event with Trancecore, Sachsentrance, Tragedie, 44 Hertz, uvm at PKH Warehouse
+# PKH Warehouse Opening Event with Trancecore, Sachsentrance, Tragedie, BerlinPoisonedMe, uvm at PKH Warehouse
 
-PKH Warehouse Opening Event with Trancecore, Sachsentrance, Tragedie, 44 Hertz, uvm on Fri 2 Oct, Berlin. 20 acts on the bill: Anechoic, August Kind, bbymeister and Danca and 16 more. Trance and Techno. Preview the line-up and save it on soundcheck.
+PKH Warehouse Opening Event with Trancecore, Sachsentrance, Tragedie, BerlinPoisonedMe, uvm on Fri 2 Oct, Berlin. 26 acts on the bill: Amøn, Anechoic, August Kind and bbymeister and 22 more. Trance and Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,23 +10,29 @@ PKH Warehouse Opening Event with Trancecore, Sachsentrance, Tragedie, 44 Hertz, 
 
 ## Line-up
 
+- Amøn
 - Anechoic
 - August Kind
 - bbymeister
+- BENITO (DE)
 - Danca
 - Daniel Neuland
 - Deltapeak
 - FEROTONINO
+- Fronsi
 - jeanska
 - Kizu
 - Martin Ka
 - Naicet
 - Nettta
 - nordcorreia.mp3
+- PADERKID
 - phlipzee
 - RaverPik
 - Sabu!
 - sterni (DE)
+- Symon Says
+- Tala Berg
 - Teenage Mutants
 - Tocadisco
 - Tonino

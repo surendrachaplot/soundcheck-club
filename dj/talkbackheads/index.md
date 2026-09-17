@@ -1,6 +1,6 @@
 # Talkback Heads
 
-Talkback Heads is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Wed, 16 Sept 2026, next at Hive Club, Zurich on Sat, 19 Sept 2026.
+Talkback Heads is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Thu, 17 Sept 2026, next at Hive Club, Zurich on Sat, 19 Sept 2026.
 
 Talkback Heads is a techno and tech house artist tracked on soundcheck, with 7 sets logged across Amsterdam, Tokyo and Zurich. Often billed alongside BRKN, Chemical Language and ATT. Next up: Hive Club, Zurich on Sat 19 Sept.
 
@@ -23,4 +23,4 @@ Talkback Heads is a techno and tech house artist tracked on soundcheck, with 7 s
 
 BRKN, Chemical Language, ATT
 
-*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/talkbackheads/)*
+*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/talkbackheads/)*

@@ -1,17 +1,20 @@
 # Stalin
 
-Stalin is a music venue in Prague with 1 upcoming night listed on soundcheck as of Wed, 16 Sept 2026; the next is "✦ Kitchen Collective ✦ at Letna Park (FREE PARTY)" on Sat, 19 Sept 2026.
+Stalin is a music venue in Prague with 4 upcoming nights listed on soundcheck as of Thu, 17 Sept 2026; the next is "Stalin Letná w/ Electro Rike, Techndaze and MLK:M" on Fri, 18 Sept 2026.
 
-Stalin is a music venue in Prague listed on soundcheck. 1 upcoming night, with line-ups including AVHD, DJames (2), ishka machina and Takē. Browse upcoming dates, start times and who's playing. Letesnsky Sady, Praha, 17000 Прага.
+Stalin is a music venue in Prague listed on soundcheck. 4 upcoming nights, with line-ups including Adrien Calvet, AVHD, DJames (2) and ishka machina and 2 more. Browse upcoming dates, start times and who's playing. Letesnsky Sady, Praha, 17000 Прага.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
+| Fri, 18 Sept 2026 | Stalin Letná w/ Electro Rike, Techndaze and MLK:M | MLK:M |
 | Sat, 19 Sept 2026 | ✦ Kitchen Collective ✦ at Letna Park (FREE PARTY) | AVHD, DJames (2), Takē, ishka machina |
+| Sat, 19 Sept 2026 | Stalin Letná w/ Kitchen |  |
+| Sat, 26 Sept 2026 | Part Time Locals - Stalin - Adrien Calvet + more | Adrien Calvet, KAWA, MIMA, Sam Gittis, Sebastian Paiza, Tatomed (2) |
 
 ## Address
 
 Letesnsky Sady, Praha, 17000 Прага, Prague
 
-*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/prague/club/stalin/)*
+*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/prague/club/stalin/)*

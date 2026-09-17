@@ -1,6 +1,6 @@
 # Jesus Riaño
 
-Jesus Riaño is a Techno and Dub Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 16 Sept 2026, next at TBA - Powered by: Void Acoustics, Madrid on Sat, 19 Sept 2026.
+Jesus Riaño is a Techno and Dub Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 17 Sept 2026, next at TBA - Powered by: Void Acoustics, Madrid on Sat, 19 Sept 2026.
 
 Jesus Riaño is a techno and dub techno artist based in Spain, tracked on soundcheck, with 91 sets logged across Ibiza and Madrid. Often billed alongside Kevin Matto, Sabino González and Greick Jhøzsu. Next up: TBA - Powered by: Void Acoustics, Madrid on Sat 19 Sept.
 
@@ -26,4 +26,4 @@ Jesus Riaño is a techno and dub techno artist based in Spain, tracked on soundc
 
 Kevin Matto, Sabino González, Greick Jhøzsu
 
-*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jesusriano/)*
+*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jesusriano/)*

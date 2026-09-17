@@ -1,6 +1,6 @@
 # DJ SOFÍDIA
 
-DJ SOFÍDIA is a Afro House and House artist with 2 upcoming club dates listed on soundcheck as of Wed, 16 Sept 2026, next at Macarena Club, Barcelona on Thu, 17 Sept 2026.
+DJ SOFÍDIA is a Afro House and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 17 Sept 2026, next at Macarena Club, Barcelona on Thu, 17 Sept 2026.
 
 DJ SOFÍDIA is an afro house and house artist based in Spain, tracked on soundcheck, with 16 sets logged across Barcelona. Often billed alongside DJ Marchello, pumbum and Bill Hates. Next up: Macarena Club, Barcelona on Thu 17 Sept.
 
@@ -26,4 +26,4 @@ DJ SOFÍDIA is an afro house and house artist based in Spain, tracked on soundch
 
 DJ Marchello, pumbum, Bill Hates
 
-*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djsofidia/)*
+*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djsofidia/)*

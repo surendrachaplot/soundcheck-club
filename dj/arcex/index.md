@@ -1,6 +1,6 @@
 # ArceX
 
-ArceX is a Techno and Hardcore artist with 1 upcoming club date listed on soundcheck as of Wed, 16 Sept 2026, next at M7 Club, Barcelona on Sat, 26 Sept 2026.
+ArceX is a Techno and Hardcore artist with 1 upcoming club date listed on soundcheck as of Thu, 17 Sept 2026, next at M7 Club, Barcelona on Sat, 26 Sept 2026.
 
 ArceX is a techno and hardcore artist based in Spain, tracked on soundcheck, with 29 sets logged across Barcelona, Madrid and Manchester. Often billed alongside Adviro, Koalaz and Noise Mafia. Next up: M7 Club, Barcelona on Sat 26 Sept.
 
@@ -25,4 +25,4 @@ ArceX is a techno and hardcore artist based in Spain, tracked on soundcheck, wit
 
 Adviro, Koalaz, Noise Mafia
 
-*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/arcex/)*
+*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/arcex/)*

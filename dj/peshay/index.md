@@ -1,14 +1,15 @@
 # Peshay
 
-Peshay is a electronic artist with 1 upcoming club date listed on soundcheck as of Wed, 16 Sept 2026, next at Phonox, London on Fri, 25 Sept 2026.
+Peshay is a Drum & Bass artist with 2 upcoming club dates listed on soundcheck as of Thu, 17 Sept 2026, next at Phonox, London on Fri, 25 Sept 2026.
 
-Peshay is an electronic artist tracked on soundcheck, with 9 sets logged across Bristol, Budapest and London. Often billed alongside Chris.SU, Dillinja and Goldie. Next up: Phonox, London on Fri 25 Sept.
+Peshay is a drum & bass artist tracked on soundcheck, with 10 sets logged across Bristol, Budapest and London. Often billed alongside Dillinja, Chris.SU and Goldie. Next up: Phonox, London on Fri 25 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 25 Sept 2026 | Phonox | London |
+| Sat, 14 Nov 2026 | fabric | London |
 
 ## Recently played
 
@@ -23,6 +24,6 @@ Peshay is an electronic artist tracked on soundcheck, with 9 sets logged across 
 
 ## Shares bills with
 
-Chris.SU, Dillinja, Goldie
+Dillinja, Chris.SU, Goldie
 
-*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/peshay/)*
+*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/peshay/)*

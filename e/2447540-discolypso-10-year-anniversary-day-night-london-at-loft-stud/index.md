@@ -1,6 +1,6 @@
 # Discolypso 10 Year Anniversary [Day + Night] - London at Loft Studios
 
-Discolypso 10 Year Anniversary [Day + Night] - London at Loft Studios on Sat 19 Sept, London. 11 acts on the bill: Discolypso Crew, Dombrance, Flying Mojito Bros and Idjut Boys and 7 more. House and Disco. Preview the line-up and save it on soundcheck.
+Discolypso 10 Year Anniversary [Day + Night] - London at Loft Studios on Sat 19 Sept, London. 12 acts on the bill: Discolypso Crew, Dombrance, Flying Mojito Bros and Idjut Boys and 8 more. House and Disco. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -16,6 +16,7 @@ Discolypso 10 Year Anniversary [Day + Night] - London at Loft Studios on Sat 19 
 - Idjut Boys
 - Isaac Ferry
 - Luigi Sambuy
+- Ray Mang
 - Ric Red
 - Rigopolar
 - Rufus Besterman

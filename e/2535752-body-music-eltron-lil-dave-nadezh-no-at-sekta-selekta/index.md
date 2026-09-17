@@ -1,6 +1,6 @@
 # Body Music: Eltron, Lil'Dave, Nadezh No at Sekta Selekta
 
-Body Music: Eltron, Lil'Dave, Nadezh No at Sekta Selekta on Fri 18 Sept, Krakow. 3 acts on the bill: Eltron, Lil'Dave and Nadezh No. Electro and Minimal. Preview the line-up and save it on soundcheck.
+Body Music: Eltron, Lil'Dave, Nadezh No at Sekta Selekta on Fri 18 Sept, Krakow. 4 acts on the bill: Eltron, Eltron (PL), Lil'Dave and Nadezh No. Electro and Minimal. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,6 +11,7 @@ Body Music: Eltron, Lil'Dave, Nadezh No at Sekta Selekta on Fri 18 Sept, Krakow.
 ## Line-up
 
 - Eltron
+- Eltron (PL)
 - Lil'Dave
 - Nadezh No
 

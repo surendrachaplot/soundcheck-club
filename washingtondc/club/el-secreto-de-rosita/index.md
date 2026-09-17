@@ -1,6 +1,6 @@
 # El Secreto De Rosita
 
-El Secreto De Rosita is a music venue in Washington DC with 2 upcoming nights listed on soundcheck as of Wed, 16 Sept 2026; the next is "Thursday Therapy" on Thu, 17 Sept 2026.
+El Secreto De Rosita is a music venue in Washington DC with 2 upcoming nights listed on soundcheck as of Thu, 17 Sept 2026; the next is "Thursday Therapy" on Thu, 17 Sept 2026.
 
 El Secreto De Rosita is a music venue in Washingtondc listed on soundcheck. 2 upcoming nights. Browse upcoming dates, start times and who's playing. 1624 U St NW, Washington, DC 20009.
 
@@ -15,4 +15,4 @@ El Secreto De Rosita is a music venue in Washingtondc listed on soundcheck. 2 up
 
 1624 U St NW, Washington, DC 20009, Washington DC
 
-*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/washingtondc/club/el-secreto-de-rosita/)*
+*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/washingtondc/club/el-secreto-de-rosita/)*

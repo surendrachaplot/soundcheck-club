@@ -1,6 +1,6 @@
 # GROUND ZERO - WIREFRAME X Bełkot X BIESY at underiolo
 
-GROUND ZERO - WIREFRAME X Bełkot X BIESY at underiolo on Fri 18 Sept, Warsaw. 9 acts on the bill: Dedenia, Dynamic Goose, JKO and Łomża and 5 more. Techno and House. Preview the line-up and save it on soundcheck.
+GROUND ZERO - WIREFRAME X Bełkot X BIESY at underiolo on Fri 18 Sept, Warsaw. 11 acts on the bill: Dedenia, Doga, Dynamic Goose and JKO and 7 more. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,8 +11,10 @@ GROUND ZERO - WIREFRAME X Bełkot X BIESY at underiolo on Fri 18 Sept, Warsaw. 9
 ## Line-up
 
 - Dedenia
+- Doga
 - Dynamic Goose
 - JKO
+- KUMITE
 - Łomża
 - Mohji
 - Pancha

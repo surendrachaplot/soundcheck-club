@@ -1,13 +1,15 @@
 # Lost Horizon
 
-Lost Horizon is a music venue in Bristol with 5 upcoming nights listed on soundcheck as of Wed, 16 Sept 2026; the next is "Anton Invicta presents: Be Your Alien #2" on Sat, 26 Sept 2026.
+Lost Horizon is a music venue in Bristol with 7 upcoming nights listed on soundcheck as of Thu, 17 Sept 2026; the next is "Papa Nugs 2HOUR SET / TBH / MENU MUSIC PRESENTD DJ Stolen AND WHOISJORDAN" on Fri, 18 Sept 2026.
 
-Lost Horizon is a music venue in Bristol listed on soundcheck. 5 upcoming nights, with line-ups including Bladerunner, Diagnostix, Fear-E and Jerome Hill and 2 more. Browse upcoming dates, start times and who's playing. 1-3 Elton Street BS2 9EH Bristol, UK.
+Lost Horizon is a music venue in Bristol listed on soundcheck. 7 upcoming nights, with line-ups including Bladerunner, Diagnostix, DJ Stolen and Eclair Fifi and 2 more. Browse upcoming dates, start times and who's playing. 1-3 Elton Street BS2 9EH Bristol, UK.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
+| Fri, 18 Sept 2026 | Papa Nugs 2HOUR SET / TBH / MENU MUSIC PRESENTD DJ Stolen AND WHOISJORDAN | DJ Stolen, Papa Nugs, tbh (2) |
+| Fri, 25 Sept 2026 | Kylie Wears Berghaus with Eclair Fifi | Eclair Fifi, Kylie Wears Berghaus |
 | Sat, 26 Sept 2026 | Anton Invicta presents: Be Your Alien #2 | Bladerunner, Diagnostix |
 | Fri, 9 Oct 2026 | FMS 6 Deck - Bristol | Licia |
 | Sat, 17 Oct 2026 | Lens: Moving Mad UK Tour - Bristol | Lens (2) |
@@ -18,4 +20,4 @@ Lost Horizon is a music venue in Bristol listed on soundcheck. 5 upcoming nights
 
 1-3 Elton Street BS2 9EH Bristol, UK, Bristol
 
-*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/bristol/club/lost-horizon/)*
+*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/bristol/club/lost-horizon/)*

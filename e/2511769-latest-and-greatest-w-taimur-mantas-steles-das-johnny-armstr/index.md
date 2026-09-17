@@ -1,0 +1,18 @@
+# Latest and Greatest w/ Taimur, Mantas Steles & DAS, Johnny Armstrong at TBA
+
+Latest and Greatest w/ Taimur, Mantas Steles & DAS, Johnny Armstrong at TBA on Sun 27 Sept, Chicago. 4 acts on the bill: D A S, Johnny Armstrong, Mantas Steles and Taimur. Techno and House. Preview the line-up and save it on soundcheck.
+
+| Field | Value |
+| --- | --- |
+| Date | Sun, 27 Sept 2026 |
+| Venue | TBA |
+| City | Chicago |
+
+## Line-up
+
+- D A S
+- Johnny Armstrong
+- Mantas Steles
+- Taimur
+
+*Source: [soundcheck](https://soundcheck.club/e/2511769-latest-and-greatest-w-taimur-mantas-steles-das-johnny-armstr/)*

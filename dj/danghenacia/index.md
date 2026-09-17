@@ -1,6 +1,6 @@
 # Dan Ghenacia
 
-Dan Ghenacia is a House and Tech House artist with 5 upcoming club dates listed on soundcheck as of Wed, 16 Sept 2026, next at Ouseburn Garden, Newcastle on Sat, 26 Sept 2026.
+Dan Ghenacia is a House and Tech House artist with 5 upcoming club dates listed on soundcheck as of Thu, 17 Sept 2026, next at Ouseburn Garden, Newcastle on Sat, 26 Sept 2026.
 
 Dan Ghenacia is a house and tech house artist tracked on soundcheck, with 151 sets logged across Amsterdam, Athens, Bali and Barcelona and 36 more. Often billed alongside Shonky, Apollonia and Dyed Soundorom. Next up: Ouseburn Garden, Newcastle on Sat 26 Sept.
 
@@ -29,4 +29,4 @@ Dan Ghenacia is a house and tech house artist tracked on soundcheck, with 151 se
 
 Shonky, Apollonia, Dyed Soundorom
 
-*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/danghenacia/)*
+*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/danghenacia/)*

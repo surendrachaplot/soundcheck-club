@@ -1,8 +1,8 @@
 # Gojnea76
 
-Gojnea76 is a House and Minimal artist with 2 upcoming club dates listed on soundcheck as of Wed, 16 Sept 2026, next at Europa Boat, Budapest on Sat, 19 Sept 2026.
+Gojnea76 is a House and Minimal artist with 3 upcoming club dates listed on soundcheck as of Thu, 17 Sept 2026, next at Europa Boat, Budapest on Sat, 19 Sept 2026.
 
-Gojnea76 is a house and minimal artist tracked on soundcheck, with 22 sets logged across Amsterdam, Barcelona, Berlin and Brussels and 11 more. Often billed alongside G76, Piticu and Alexander Skancke. Next up: Europa Boat, Budapest on Sat 19 Sept.
+Gojnea76 is a house and minimal artist tracked on soundcheck, with 23 sets logged across Amsterdam, Barcelona, Berlin and Brussels and 11 more. Often billed alongside G76, Piticu and Alexander Skancke. Next up: Europa Boat, Budapest on Sat 19 Sept.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Gojnea76 is a house and minimal artist tracked on soundcheck, with 22 sets logge
 | --- | --- | --- |
 | Sat, 19 Sept 2026 | Europa Boat | Budapest |
 | Sat, 19 Sept 2026 | Kassa Boat | Budapest |
+| Sat, 26 Sept 2026 | Club Guesthouse | Bucharest |
 
 ## Recently played
 
@@ -26,4 +27,4 @@ Gojnea76 is a house and minimal artist tracked on soundcheck, with 22 sets logge
 
 G76, Piticu, Alexander Skancke
 
-*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/gojnea76/)*
+*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/gojnea76/)*

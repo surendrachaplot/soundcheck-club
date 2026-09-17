@@ -1,6 +1,6 @@
 # DJ Räucherlaks
 
-DJ Räucherlaks is a Trance and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 16 Sept 2026, next at Rotunde, Bochum on Fri, 16 Oct 2026.
+DJ Räucherlaks is a Trance and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 17 Sept 2026, next at Rotunde, Bochum on Fri, 16 Oct 2026.
 
 DJ Räucherlaks is a trance and techno artist based in Germany, tracked on soundcheck, with 21 sets logged across Berlin, Bochum, Cologne and Hamburg and 2 more. Often billed alongside DJ Tallboy, KLING&KLANG and 9LALEY. Next up: Rotunde, Bochum on Fri 16 Oct.
 
@@ -25,4 +25,4 @@ DJ Räucherlaks is a trance and techno artist based in Germany, tracked on sound
 
 DJ Tallboy, KLING&KLANG, 9LALEY
 
-*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djraucherlaks/)*
+*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djraucherlaks/)*

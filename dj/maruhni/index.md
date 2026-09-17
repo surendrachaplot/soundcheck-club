@@ -1,6 +1,6 @@
 # Maruhni
 
-Maruhni is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 16 Sept 2026, next at Gewölbe, Cologne on Fri, 18 Sept 2026.
+Maruhni is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 17 Sept 2026, next at Gewölbe, Cologne on Fri, 18 Sept 2026.
 
 Maruhni is a techno and house artist tracked on soundcheck, with 13 sets logged across Berlin and Cologne. Often billed alongside paaradoxx, DJ Frank and no:elia. Next up: Gewölbe, Cologne on Fri 18 Sept.
 
@@ -25,4 +25,4 @@ Maruhni is a techno and house artist tracked on soundcheck, with 13 sets logged 
 
 paaradoxx, DJ Frank, no:elia
 
-*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/maruhni/)*
+*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/maruhni/)*

@@ -1,6 +1,6 @@
 # Cosmic Gate
 
-Cosmic Gate is a Trance and Progressive House artist with 7 upcoming club dates listed on soundcheck as of Wed, 16 Sept 2026, next at Binks Yard, Nottingham on Sat, 19 Sept 2026.
+Cosmic Gate is a Trance and Progressive House artist with 7 upcoming club dates listed on soundcheck as of Thu, 17 Sept 2026, next at Binks Yard, Nottingham on Sat, 19 Sept 2026.
 
 Cosmic Gate is a trance and progressive house artist tracked on soundcheck, with 63 sets logged across Amsterdam, Auckland, Austin and Belfast and 26 more. Often billed alongside Luccio, Ferry Corsten and Armin van Buuren. Next up: Binks Yard, Nottingham on Sat 19 Sept.
 
@@ -31,4 +31,4 @@ Cosmic Gate is a trance and progressive house artist tracked on soundcheck, with
 
 Luccio, Ferry Corsten, Armin van Buuren
 
-*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/cosmicgate/)*
+*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/cosmicgate/)*

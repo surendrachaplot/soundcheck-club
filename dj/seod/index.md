@@ -1,6 +1,6 @@
 # SEOD
 
-SEOD is a House and Club artist with 3 upcoming club dates listed on soundcheck as of Wed, 16 Sept 2026, next at Modeci, Seoul on Thu, 17 Sept 2026.
+SEOD is a House and Club artist with 3 upcoming club dates listed on soundcheck as of Thu, 17 Sept 2026, next at Modeci, Seoul on Thu, 17 Sept 2026.
 
 SEOD is a house and club artist based in South Korea, tracked on soundcheck, with 42 sets logged across Seoul and Tokyo. Often billed alongside Shinyoung, JAEHAN (2) and Youknowsong. Next up: Modeci, Seoul on Thu 17 Sept.
 
@@ -27,4 +27,4 @@ SEOD is a house and club artist based in South Korea, tracked on soundcheck, wit
 
 Shinyoung, JAEHAN (2), Youknowsong
 
-*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/seod/)*
+*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/seod/)*

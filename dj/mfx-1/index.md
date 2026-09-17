@@ -1,6 +1,6 @@
 # MFX (1)
 
-MFX (1) is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 16 Sept 2026, next at Monarch, Berlin on Sat, 3 Oct 2026.
+MFX (1) is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 17 Sept 2026, next at Monarch, Berlin on Sat, 3 Oct 2026.
 
 MFX (1) is a house and techno artist based in Germany, tracked on soundcheck, with 25 sets logged across Berlin, Leipzig, Munich and Warsaw. Often billed alongside theories, metaverde and Menzel. Next up: Monarch, Berlin on Sat 3 Oct.
 
@@ -25,4 +25,4 @@ MFX (1) is a house and techno artist based in Germany, tracked on soundcheck, wi
 
 theories, metaverde, Menzel
 
-*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mfx-1/)*
+*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mfx-1/)*

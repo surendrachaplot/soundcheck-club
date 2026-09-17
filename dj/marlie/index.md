@@ -1,6 +1,6 @@
 # Marlie
 
-Marlie is a House and Tech House artist with 13 upcoming club dates listed on soundcheck as of Wed, 16 Sept 2026, next at UNO MALTA, Malta on Fri, 18 Sept 2026.
+Marlie is a House and Tech House artist with 13 upcoming club dates listed on soundcheck as of Thu, 17 Sept 2026, next at UNO MALTA, Malta on Fri, 18 Sept 2026.
 
 Marlie is a house and tech house artist tracked on soundcheck, with 130 sets logged across Amsterdam, Auckland, Bali and Barcelona and 25 more. Often billed alongside Enzo Siragusa, Traumer and PACH. Next up: UNO MALTA, Malta on Fri 18 Sept.
 
@@ -36,4 +36,4 @@ Marlie is a house and tech house artist tracked on soundcheck, with 130 sets log
 
 Enzo Siragusa, Traumer, PACH
 
-*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/marlie/)*
+*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/marlie/)*

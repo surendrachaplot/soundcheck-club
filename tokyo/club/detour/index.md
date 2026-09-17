@@ -1,14 +1,13 @@
 # DeTour
 
-DeTour is a music venue in Tokyo with 12 upcoming nights listed on soundcheck as of Wed, 16 Sept 2026; the next is "club .2 - Midweek Groove" on Wed, 16 Sept 2026.
+DeTour is a music venue in Tokyo with 11 upcoming nights listed on soundcheck as of Thu, 17 Sept 2026; the next is "Psychedelic Stream" on Thu, 17 Sept 2026.
 
-DeTour is a music venue in Tokyo listed on soundcheck. 12 upcoming nights, with line-ups including ALLY, BEPPU, Calavera and CATRONICA and 2 more. Browse upcoming dates, start times and who's playing. B1 8-8 Uguisudani-Chu, Shibuya-Ku, Tokyo, 150-0032.
+DeTour is a music venue in Tokyo listed on soundcheck. 11 upcoming nights, with line-ups including ALLY, BEPPU, CATRONICA and COSMOGANG and 2 more. Browse upcoming dates, start times and who's playing. B1 8-8 Uguisudani-Chu, Shibuya-Ku, Tokyo, 150-0032.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Wed, 16 Sept 2026 | club .2 - Midweek Groove | Calavera |
 | Thu, 17 Sept 2026 | Psychedelic Stream |  |
 | Fri, 18 Sept 2026 | PULS | ALLY, Doom Tempo, TECSTONE |
 | Sat, 19 Sept 2026 | Le rendez-vous trance | Gilles de la Mare, Jay Turio |
@@ -18,9 +17,10 @@ DeTour is a music venue in Tokyo listed on soundcheck. 12 upcoming nights, with 
 | Wed, 23 Sept 2026 | meaningful | BEPPU, Kotatsu |
 | Fri, 25 Sept 2026 | TECHTRAIN | BEPPU, COSMOGANG, ksd6700 |
 | Sat, 26 Sept 2026 | TOGETHER AS | BEPPU |
+| Sun, 27 Sept 2026 | TRANCE DT | BEPPU, DJ 34, Jay Turio, NDK |
 
 ## Address
 
 B1 8-8 Uguisudani-Chu, Shibuya-Ku, Tokyo, 150-0032, Tokyo
 
-*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/detour/)*
+*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/detour/)*

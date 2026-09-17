@@ -1,6 +1,6 @@
 # avely
 
-avely is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Wed, 16 Sept 2026, next at Club Baggerbeest, Amsterdam on Mon, 21 Sept 2026.
+avely is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Thu, 17 Sept 2026, next at Club Baggerbeest, Amsterdam on Mon, 21 Sept 2026.
 
 avely is a techno and house artist based in Germany, tracked on soundcheck, with 3 sets logged across Amsterdam and Munich. Often billed alongside RIØ (DE), 9LALEY and Alicea. Next up: Club Baggerbeest, Amsterdam on Mon 21 Sept.
 
@@ -16,4 +16,4 @@ avely is a techno and house artist based in Germany, tracked on soundcheck, with
 
 RIØ (DE), 9LALEY, Alicea
 
-*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/avely-de/)*
+*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/avely-de/)*

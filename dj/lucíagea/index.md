@@ -1,6 +1,6 @@
 # Lucía Gea
 
-Lucía Gea is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Wed, 16 Sept 2026, next at Spook Club, Valencia on Sat, 31 Oct 2026.
+Lucía Gea is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Thu, 17 Sept 2026, next at Spook Club, Valencia on Sat, 31 Oct 2026.
 
 Lucía Gea is a techno and trance artist tracked on soundcheck, with 71 sets logged across Barcelona, Berlin, Hamburg and Ibiza and 3 more. Often billed alongside Dj badtrip, Finalversion3 and Ariezzz. Next up: Spook Club, Valencia on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Lucía Gea is a techno and trance artist tracked on soundcheck, with 71 sets log
 
 Dj badtrip, Finalversion3, Ariezzz
 
-*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lucíagea/)*
+*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lucíagea/)*

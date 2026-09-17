@@ -1,6 +1,6 @@
 # Rockin Moroccin
 
-Rockin Moroccin is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Wed, 16 Sept 2026, next at Savaya Bali, Bali on Sat, 19 Sept 2026.
+Rockin Moroccin is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Thu, 17 Sept 2026, next at Savaya Bali, Bali on Sat, 19 Sept 2026.
 
 Rockin Moroccin is a house and techno artist based in Morocco, tracked on soundcheck, with 36 sets logged across Amsterdam, Athens, Bali and Barcelona and 13 more. Often billed alongside C.M.A., Guy Gerber and ARODES. Next up: Savaya Bali, Bali on Sat 19 Sept.
 
@@ -28,4 +28,4 @@ Rockin Moroccin is a house and techno artist based in Morocco, tracked on soundc
 
 C.M.A., Guy Gerber, ARODES
 
-*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/rockinmoroccin/)*
+*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/rockinmoroccin/)*

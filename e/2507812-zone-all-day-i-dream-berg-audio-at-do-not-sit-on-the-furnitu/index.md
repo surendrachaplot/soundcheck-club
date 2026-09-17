@@ -1,6 +1,6 @@
 # Zone + [All Day i Dream / Berg Audio] at Do Not Sit On The Furniture
 
-Zone + [All Day i Dream / Berg Audio] at Do Not Sit On The Furniture on Fri 18 Sept, Miami. 1 act on the bill: Zone+. House and Deep House. Preview the line-up and save it on soundcheck.
+Zone + [All Day i Dream / Berg Audio] at Do Not Sit On The Furniture on Fri 18 Sept, Miami. 2 acts on the bill: Lucas Zarate and Zone+. House and Deep House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ Zone + [All Day i Dream / Berg Audio] at Do Not Sit On The Furniture on Fri 18 S
 
 ## Line-up
 
+- Lucas Zarate
 - Zone+
 
 *Source: [soundcheck](https://soundcheck.club/e/2507812-zone-all-day-i-dream-berg-audio-at-do-not-sit-on-the-furnitu/)*

@@ -1,6 +1,6 @@
 # Tangerine
 
-Tangerine is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Wed, 16 Sept 2026, next at ark (Melb), Melbourne on Sat, 19 Sept 2026.
+Tangerine is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Thu, 17 Sept 2026, next at ark (Melb), Melbourne on Sat, 19 Sept 2026.
 
 Tangerine is a techno and trance artist tracked on soundcheck, with 59 sets logged across Berlin, Copenhagen, Hobart and London and 5 more. Often billed alongside LOIF, Moopie and Kia (AU). Next up: ark (Melb), Melbourne on Sat 19 Sept.
 
@@ -25,4 +25,4 @@ Tangerine is a techno and trance artist tracked on soundcheck, with 59 sets logg
 
 LOIF, Moopie, Kia (AU)
 
-*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tangerine/)*
+*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tangerine/)*

@@ -1,6 +1,6 @@
 # Natxo
 
-Natxo is a Trance and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 16 Sept 2026, next at EL SÓTANO, Madrid on Thu, 29 Oct 2026.
+Natxo is a Trance and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 17 Sept 2026, next at EL SÓTANO, Madrid on Thu, 29 Oct 2026.
 
 Natxo is a trance and techno artist tracked on soundcheck, with 7 sets logged across Madrid and Paris. Often billed alongside Pickheras, ildec and Belkan. Next up: EL SÓTANO, Madrid on Thu 29 Oct.
 
@@ -23,4 +23,4 @@ Natxo is a trance and techno artist tracked on soundcheck, with 7 sets logged ac
 
 Pickheras, ildec, Belkan
 
-*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/natxo/)*
+*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/natxo/)*

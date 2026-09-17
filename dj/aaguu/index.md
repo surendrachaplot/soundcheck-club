@@ -1,14 +1,15 @@
 # AAGUU
 
-AAGUU is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 16 Sept 2026, next at Mitsuki, Tokyo on Sun, 20 Sept 2026.
+AAGUU is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 17 Sept 2026, next at Mitsuki, Tokyo on Sun, 20 Sept 2026.
 
-AAGUU is a house and techno artist tracked on soundcheck, with 9 sets logged across Bali, Bangkok, Berlin and Kualalumpur and 3 more. Often billed alongside DZ GAS, JAKRIN and DITA (ID). Next up: Mitsuki, Tokyo on Sun 20 Sept.
+AAGUU is a house and techno artist tracked on soundcheck, with 10 sets logged across Bali, Bangkok, Berlin and Kualalumpur and 3 more. Often billed alongside DZ GAS, Gonno and JAKRIN. Next up: Mitsuki, Tokyo on Sun 20 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sun, 20 Sept 2026 | Mitsuki | Tokyo |
+| Mon, 21 Sept 2026 | Aoyama Hachi | Tokyo |
 
 ## Recently played
 
@@ -23,6 +24,6 @@ AAGUU is a house and techno artist tracked on soundcheck, with 9 sets logged acr
 
 ## Shares bills with
 
-DZ GAS, JAKRIN, DITA (ID)
+DZ GAS, Gonno, JAKRIN
 
-*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/aaguu/)*
+*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/aaguu/)*

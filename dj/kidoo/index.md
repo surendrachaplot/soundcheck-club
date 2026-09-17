@@ -1,6 +1,6 @@
 # Kidoo
 
-Kidoo is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Wed, 16 Sept 2026, next at Vertigo, Toronto on Fri, 18 Sept 2026.
+Kidoo is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Thu, 17 Sept 2026, next at Vertigo, Toronto on Fri, 18 Sept 2026.
 
 Kidoo is a tech house and house artist tracked on soundcheck, with 53 sets logged across Amsterdam, Austin, Barcelona and Bucharest and 17 more. Often billed alongside Joseph Capriati, Marco Carola and Indira Paganotto. Next up: Vertigo, Toronto on Fri 18 Sept.
 
@@ -25,4 +25,4 @@ Kidoo is a tech house and house artist tracked on soundcheck, with 53 sets logge
 
 Joseph Capriati, Marco Carola, Indira Paganotto
 
-*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kidoo/)*
+*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kidoo/)*

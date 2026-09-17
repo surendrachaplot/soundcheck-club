@@ -1,6 +1,6 @@
 # Espai Salvadiscos
 
-Espai Salvadiscos is a music venue in Barcelona with 2 upcoming nights listed on soundcheck as of Wed, 16 Sept 2026; the next is "Float house party" on Fri, 25 Sept 2026.
+Espai Salvadiscos is a music venue in Barcelona with 2 upcoming nights listed on soundcheck as of Thu, 17 Sept 2026; the next is "Float house party" on Fri, 25 Sept 2026.
 
 Espai Salvadiscos is a music venue in Barcelona listed on soundcheck. 2 upcoming nights, with line-ups including Martyon. Browse upcoming dates, start times and who's playing. Plaça de Santa Madrona, 4, 08004 Barcelona, Spain.
 
@@ -15,4 +15,4 @@ Espai Salvadiscos is a music venue in Barcelona listed on soundcheck. 2 upcoming
 
 Plaça de Santa Madrona, 4, 08004 Barcelona, Spain, Barcelona
 
-*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/espai-salvadiscos/)*
+*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/espai-salvadiscos/)*

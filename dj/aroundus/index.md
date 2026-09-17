@@ -1,6 +1,6 @@
 # Around Us
 
-Around Us is a Progressive House and Techno artist with 3 upcoming club dates listed on soundcheck as of Wed, 16 Sept 2026, next at Kadinsky Cafe, Amsterdam on Sat, 26 Sept 2026.
+Around Us is a Progressive House and Techno artist with 3 upcoming club dates listed on soundcheck as of Thu, 17 Sept 2026, next at Kadinsky Cafe, Amsterdam on Sat, 26 Sept 2026.
 
 Around Us is a progressive house and techno artist based in Netherlands, tracked on soundcheck, with 43 sets logged across Amsterdam and Stockholm. Often billed alongside MC PPholl, Francesco Pico and Ras Paulus. Next up: Kadinsky Cafe, Amsterdam on Sat 26 Sept.
 
@@ -27,4 +27,4 @@ Around Us is a progressive house and techno artist based in Netherlands, tracked
 
 MC PPholl, Francesco Pico, Ras Paulus
 
-*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/aroundus/)*
+*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/aroundus/)*

@@ -1,6 +1,6 @@
 # Ada Luvv
 
-Ada Luvv is a Bass and Deep House artist with 1 upcoming club date listed on soundcheck as of Wed, 16 Sept 2026, next at Gewölbe, Cologne on Sun, 20 Sept 2026.
+Ada Luvv is a Bass and Deep House artist with 1 upcoming club date listed on soundcheck as of Thu, 17 Sept 2026, next at Gewölbe, Cologne on Sun, 20 Sept 2026.
 
 Ada Luvv is a bass and deep house artist tracked on soundcheck, with 23 sets logged across Cologne, Munich and Stuttgart. Often billed alongside low Ki, Aino DJ and Sedaction. Next up: Gewölbe, Cologne on Sun 20 Sept.
 
@@ -25,4 +25,4 @@ Ada Luvv is a bass and deep house artist tracked on soundcheck, with 23 sets log
 
 low Ki, Aino DJ, Sedaction
 
-*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/adaluvv/)*
+*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/adaluvv/)*

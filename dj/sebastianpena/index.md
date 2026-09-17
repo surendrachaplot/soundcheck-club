@@ -1,8 +1,8 @@
 # Sebastián Peña
 
-Sebastián Peña is a Tech House and Minimal artist with 2 upcoming club dates listed on soundcheck as of Wed, 16 Sept 2026, next at Ku Barcelona, Barcelona on Sun, 27 Sept 2026.
+Sebastián Peña is a Tech House and Minimal artist with 3 upcoming club dates listed on soundcheck as of Thu, 17 Sept 2026, next at Ku Barcelona, Barcelona on Sun, 27 Sept 2026.
 
-Sebastián Peña is a tech house and minimal artist based in Spain, tracked on soundcheck, with 4 sets logged across Barcelona. Often billed alongside ALBERTO DIMEO, Ale De Tuglie and Bassel Darwish. Next up: Ku Barcelona, Barcelona on Sun 27 Sept.
+Sebastián Peña is a tech house and minimal artist based in Spain, tracked on soundcheck, with 5 sets logged across Barcelona. Often billed alongside ALBERTO DIMEO, Ale De Tuglie and Bassel Darwish. Next up: Ku Barcelona, Barcelona on Sun 27 Sept.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Sebastián Peña is a tech house and minimal artist based in Spain, tracked on s
 | --- | --- | --- |
 | Sun, 27 Sept 2026 | Ku Barcelona | Barcelona |
 | Sat, 3 Oct 2026 | Cocoa Mataró | Barcelona |
+| Fri, 9 Oct 2026 | NIX Barcelon | Barcelona |
 
 ## Recently played
 
@@ -20,4 +21,4 @@ Sebastián Peña is a tech house and minimal artist based in Spain, tracked on s
 
 ALBERTO DIMEO, Ale De Tuglie, Bassel Darwish
 
-*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sebastianpena/)*
+*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sebastianpena/)*

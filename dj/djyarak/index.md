@@ -1,6 +1,6 @@
 # DJ YARAK
 
-DJ YARAK is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Wed, 16 Sept 2026, next at Schiffsanlegestelle Uber Arena, Berlin on Sat, 19 Sept 2026.
+DJ YARAK is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Thu, 17 Sept 2026, next at Schiffsanlegestelle Uber Arena, Berlin on Sat, 19 Sept 2026.
 
 DJ YARAK is a techno and trance artist tracked on soundcheck, with 86 sets logged across Amsterdam, Antwerp, Berlin and Cologne and 14 more. Often billed alongside EliaHaze, EARGASM GOD and Penglord. Next up: Schiffsanlegestelle Uber Arena, Berlin on Sat 19 Sept.
 
@@ -26,4 +26,4 @@ DJ YARAK is a techno and trance artist tracked on soundcheck, with 86 sets logge
 
 EliaHaze, EARGASM GOD, Penglord
 
-*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djyarak/)*
+*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djyarak/)*

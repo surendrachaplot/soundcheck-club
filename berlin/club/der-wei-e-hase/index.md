@@ -1,8 +1,8 @@
 # Der Weiße Hase
 
-Der Weiße Hase is a music venue in Berlin with 14 upcoming nights listed on soundcheck as of Wed, 16 Sept 2026; the next is "STRAFF ◢◤ Thursday Techno & Open Air Garden [ free tickets available ]" on Thu, 17 Sept 2026.
+Der Weiße Hase is a music venue in Berlin with 18 upcoming nights listed on soundcheck as of Thu, 17 Sept 2026; the next is "STRAFF ◢◤ Thursday Techno & Open Air Garden [ free tickets available ]" on Thu, 17 Sept 2026.
 
-Der Weiße Hase is a music venue in Berlin listed on soundcheck. 14 upcoming nights, with line-ups including Ari Denaro, August Kind, bbymeister and Bisk and 2 more. Browse upcoming dates, start times and who's playing. Revaler Str 99, 10245 Berlin.
+Der Weiße Hase is a music venue in Berlin listed on soundcheck. 18 upcoming nights, with line-ups including Ari Denaro, August Kind, bbymeister and Bisk and 2 more. Browse upcoming dates, start times and who's playing. Revaler Str 99, 10245 Berlin.
 
 ## What's on
 
@@ -17,10 +17,10 @@ Der Weiße Hase is a music venue in Berlin listed on soundcheck. 14 upcoming nig
 | Sat, 26 Sept 2026 | We Love Techno | Chaos Techno.Berlin, Dave, Disturbed Berlin, Fabian Fischbach, Sika Akis |
 | Tue, 29 Sept 2026 | Smash & HART ◢◤ Tuesday Rave & Open Air Garden [free entry until midnight*] | Felix Reichelt, Klangpusch, ZÖ (1) |
 | Sat, 3 Oct 2026 | Dämonenball |  |
-| Tue, 6 Oct 2026 | Smash & HART ◢◤ Tuesday Rave & Open Air Garden | DAZA, Tom Marten |
+| Tue, 6 Oct 2026 | Smash & HART ◢◤ Tuesday Rave & Open Air Garden [free entry until midnight*] | DAZA, Tom Marten |
 
 ## Address
 
 Revaler Str 99, 10245 Berlin, Berlin
 
-*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/der-wei-e-hase/)*
+*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/der-wei-e-hase/)*

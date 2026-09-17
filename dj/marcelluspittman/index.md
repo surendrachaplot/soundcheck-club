@@ -1,6 +1,6 @@
 # Marcellus Pittman
 
-Marcellus Pittman is a House and Techno artist with 7 upcoming club dates listed on soundcheck as of Wed, 16 Sept 2026, next at The Bernard Shaw, Dublin on Fri, 25 Sept 2026.
+Marcellus Pittman is a House and Techno artist with 7 upcoming club dates listed on soundcheck as of Thu, 17 Sept 2026, next at The Bernard Shaw, Dublin on Fri, 25 Sept 2026.
 
 Marcellus Pittman is a house and techno artist tracked on soundcheck, with 153 sets logged across Amsterdam, Antwerp, Athens and Auckland and 48 more. Often billed alongside Ash Lauryn, Antal and Dee Diggs. Next up: The Bernard Shaw, Dublin on Fri 25 Sept.
 
@@ -31,4 +31,4 @@ Marcellus Pittman is a house and techno artist tracked on soundcheck, with 153 s
 
 Ash Lauryn, Antal, Dee Diggs
 
-*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/marcelluspittman/)*
+*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/marcelluspittman/)*

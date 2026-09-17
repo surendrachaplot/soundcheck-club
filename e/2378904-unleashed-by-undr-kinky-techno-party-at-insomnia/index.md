@@ -1,6 +1,6 @@
 # UNLEASHED by UNDR - Kinky Techno Party at Insomnia
 
-UNLEASHED by UNDR - Kinky Techno Party at Insomnia on Sat 26 Sept, Berlin. 4 acts on the bill: ELEETE, Paula Hilton, Prismode and Solvane. Techno. Preview the line-up and save it on soundcheck.
+UNLEASHED by UNDR - Kinky Techno Party at Insomnia on Sat 26 Sept, Berlin. 5 acts on the bill: Andara Nox, ELEETE, Paula Hilton and Prismode and 1 more. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ UNLEASHED by UNDR - Kinky Techno Party at Insomnia on Sat 26 Sept, Berlin. 4 act
 
 ## Line-up
 
+- Andara Nox
 - ELEETE
 - Paula Hilton
 - Prismode

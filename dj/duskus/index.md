@@ -1,14 +1,15 @@
 # Duskus
 
-Duskus is a House and Garage artist with 1 upcoming club date listed on soundcheck as of Wed, 16 Sept 2026, next at Hangaren, Copenhagen on Fri, 9 Oct 2026.
+Duskus is a House and Garage artist with 2 upcoming club dates listed on soundcheck as of Thu, 17 Sept 2026, next at Hangaren, Copenhagen on Fri, 9 Oct 2026.
 
-Duskus is a house and garage artist tracked on soundcheck, with 51 sets logged across Amsterdam, Barcelona, Berlin and Brighton and 21 more. Often billed alongside ATRIP, Disclosure and Jasper Tygner. Next up: Hangaren, Copenhagen on Fri 9 Oct.
+Duskus is a house and garage artist tracked on soundcheck, with 52 sets logged across Amsterdam, Barcelona, Berlin and Brighton and 21 more. Often billed alongside ATRIP, Disclosure and Jasper Tygner. Next up: Hangaren, Copenhagen on Fri 9 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 9 Oct 2026 | Hangaren | Copenhagen |
+| Sat, 24 Oct 2026 | Wigwam | Dublin |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Duskus is a house and garage artist tracked on soundcheck, with 51 sets logged a
 
 ATRIP, Disclosure, Jasper Tygner
 
-*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/duskus/)*
+*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/duskus/)*

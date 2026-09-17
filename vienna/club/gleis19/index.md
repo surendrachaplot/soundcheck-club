@@ -1,6 +1,6 @@
 # Gleis19
 
-Gleis19 is a music venue in Vienna with 1 upcoming night listed on soundcheck as of Wed, 16 Sept 2026; the next is "PLACEBO EFFECT" on Fri, 18 Sept 2026.
+Gleis19 is a music venue in Vienna with 1 upcoming night listed on soundcheck as of Thu, 17 Sept 2026; the next is "PLACEBO EFFECT" on Fri, 18 Sept 2026.
 
 Gleis19 is a music venue in Vienna listed on soundcheck. 1 upcoming night. Browse upcoming dates, start times and who's playing. Gundoldstraße 12, 1190 Wien.
 
@@ -14,4 +14,4 @@ Gleis19 is a music venue in Vienna listed on soundcheck. 1 upcoming night. Brows
 
 Gundoldstraße 12, 1190 Wien, Vienna
 
-*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/vienna/club/gleis19/)*
+*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/vienna/club/gleis19/)*

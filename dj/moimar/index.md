@@ -1,6 +1,6 @@
 # moimar
 
-moimar is a Garage and Jungle artist with 1 upcoming club date listed on soundcheck as of Wed, 16 Sept 2026, next at Ääniwalli, Helsinki on Sat, 26 Sept 2026.
+moimar is a Garage and Jungle artist with 1 upcoming club date listed on soundcheck as of Thu, 17 Sept 2026, next at Ääniwalli, Helsinki on Sat, 26 Sept 2026.
 
 moimar is a garage and jungle artist based in Finland, tracked on soundcheck, with 8 sets logged across Helsinki. Often billed alongside Bucktooth T, KOFU and Capo Lee. Next up: Ääniwalli, Helsinki on Sat 26 Sept.
 
@@ -24,4 +24,4 @@ moimar is a garage and jungle artist based in Finland, tracked on soundcheck, wi
 
 Bucktooth T, KOFU, Capo Lee
 
-*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/moimar/)*
+*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/moimar/)*

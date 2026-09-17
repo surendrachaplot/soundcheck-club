@@ -1,6 +1,6 @@
 # Manolaco
 
-Manolaco is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Wed, 16 Sept 2026, next at El Chapo Cocktail Bar, Athens on Sat, 19 Sept 2026.
+Manolaco is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Thu, 17 Sept 2026, next at El Chapo Cocktail Bar, Athens on Sat, 19 Sept 2026.
 
 Manolaco is a techno and tech house artist tracked on soundcheck, with 77 sets logged across Athens, Bucharest, London and Milan and 1 more. Often billed alongside Mikee (Athens), Ilario Alicante and Viton. Next up: El Chapo Cocktail Bar, Athens on Sat 19 Sept.
 
@@ -25,4 +25,4 @@ Manolaco is a techno and tech house artist tracked on soundcheck, with 77 sets l
 
 Mikee (Athens), Ilario Alicante, Viton
 
-*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/manolaco/)*
+*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/manolaco/)*

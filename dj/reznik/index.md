@@ -1,8 +1,8 @@
 # Reznik
 
-Reznik is a House and Afro House artist with 4 upcoming club dates listed on soundcheck as of Wed, 16 Sept 2026, next at TBA - Aeródromo Vilar de Luz - LPVL, 4425 Folgosa, Portugal, Porto on Fri, 18 Sept 2026.
+Reznik is a House and Afro House artist with 4 upcoming club dates listed on soundcheck as of Thu, 17 Sept 2026, next at TBA - Aeródromo Vilar de Luz - LPVL, 4425 Folgosa, Portugal, Porto on Fri, 18 Sept 2026.
 
-Reznik is a house and afro house artist tracked on soundcheck, with 47 sets logged across Amsterdam, Antwerp, Barcelona and Basel and 19 more. Often billed alongside Samm (BE), Argia and Avangart Tabldot. Next up: TBA - Aeródromo Vilar de Luz - LPVL, 4425 Folgosa, Portugal, Porto on Fri 18 Sept.
+Reznik is a house and afro house artist tracked on soundcheck, with 47 sets logged across Amsterdam, Antwerp, Barcelona and Basel and 19 more. Often billed alongside Argia, Samm (BE) and Avangart Tabldot. Next up: TBA - Aeródromo Vilar de Luz - LPVL, 4425 Folgosa, Portugal, Porto on Fri 18 Sept.
 
 ## Upcoming shows
 
@@ -26,6 +26,6 @@ Reznik is a house and afro house artist tracked on soundcheck, with 47 sets logg
 
 ## Shares bills with
 
-Samm (BE), Argia, Avangart Tabldot
+Argia, Samm (BE), Avangart Tabldot
 
-*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/reznik/)*
+*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/reznik/)*

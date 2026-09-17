@@ -1,6 +1,6 @@
 # Leenie
 
-Leenie is a Techno and Club artist with 1 upcoming club date listed on soundcheck as of Wed, 16 Sept 2026, next at TBA - Haus Catz Warehouse, Denver on Sat, 17 Oct 2026.
+Leenie is a Techno and Club artist with 1 upcoming club date listed on soundcheck as of Thu, 17 Sept 2026, next at TBA - Haus Catz Warehouse, Denver on Sat, 17 Oct 2026.
 
 Leenie is a techno and club artist based in United States of America, tracked on soundcheck, with 24 sets logged across Denver, Losangeles, Newyorkcity and Sanfrancisco. Often billed alongside ethernetspirit, Alex Whittier and RITCHRD. Next up: TBA - Haus Catz Warehouse, Denver on Sat 17 Oct.
 
@@ -25,4 +25,4 @@ Leenie is a techno and club artist based in United States of America, tracked on
 
 ethernetspirit, Alex Whittier, RITCHRD
 
-*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/leenie/)*
+*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/leenie/)*

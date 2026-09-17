@@ -1,6 +1,6 @@
 # Glob
 
-Glob is a music venue in Denver with 4 upcoming nights listed on soundcheck as of Wed, 16 Sept 2026; the next is "Headroom presents: slowdancexo" on Sat, 19 Sept 2026.
+Glob is a music venue in Denver with 4 upcoming nights listed on soundcheck as of Thu, 17 Sept 2026; the next is "Headroom presents: slowdancexo" on Sat, 19 Sept 2026.
 
 Glob is a music venue in Denver listed on soundcheck. 4 upcoming nights, with line-ups including A1C3, Carl Stone, DJ Strawberry and Libuše and 1 more. Browse upcoming dates, start times and who's playing. 3551 Brighton Blvd, Denver, CO 80216, United States.
 
@@ -17,4 +17,4 @@ Glob is a music venue in Denver listed on soundcheck. 4 upcoming nights, with li
 
 3551 Brighton Blvd, Denver, CO 80216, United States, Denver
 
-*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/denver/club/glob/)*
+*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/denver/club/glob/)*

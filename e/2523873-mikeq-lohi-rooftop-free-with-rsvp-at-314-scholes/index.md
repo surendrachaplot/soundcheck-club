@@ -1,6 +1,6 @@
 # MikeQ: LoHi Rooftop [Free with RSVP] at 314 Scholes
 
-MikeQ: LoHi Rooftop [Free with RSVP] at 314 Scholes on Fri 18 Sept, Newyorkcity. 1 act on the bill: MikeQ. House and Ballroom. Preview the line-up and save it on soundcheck.
+MikeQ: LoHi Rooftop [Free with RSVP] at 314 Scholes on Fri 18 Sept, Newyorkcity. 2 acts on the bill: Jeremy Giros and MikeQ. House and Ballroom. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ MikeQ: LoHi Rooftop [Free with RSVP] at 314 Scholes on Fri 18 Sept, Newyorkcity.
 
 ## Line-up
 
+- Jeremy Giros
 - MikeQ
 
 *Source: [soundcheck](https://soundcheck.club/e/2523873-mikeq-lohi-rooftop-free-with-rsvp-at-314-scholes/)*

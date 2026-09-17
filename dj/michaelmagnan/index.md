@@ -1,6 +1,6 @@
 # Michael Magnan
 
-Michael Magnan is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 16 Sept 2026, next at Qncc, New York City on Sat, 10 Oct 2026.
+Michael Magnan is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 17 Sept 2026, next at Qncc, New York City on Sat, 10 Oct 2026.
 
 Michael Magnan is a house and techno artist based in United States of America, tracked on soundcheck, with 83 sets logged across Losangeles, Mexicocity, Newyorkcity and Sanfrancisco and 2 more. Often billed alongside Physical Therapy, Nita Aviance and Fatherhood. Next up: Qncc, Newyorkcity on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ Michael Magnan is a house and techno artist based in United States of America, t
 
 Physical Therapy, Nita Aviance, Fatherhood
 
-*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/michaelmagnan/)*
+*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/michaelmagnan/)*

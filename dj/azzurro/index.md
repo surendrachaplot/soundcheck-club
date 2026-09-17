@@ -1,6 +1,6 @@
 # Azzurro
 
-Azzurro is a Trance and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 16 Sept 2026, next at H7 Warehouse, Amsterdam on Fri, 23 Oct 2026.
+Azzurro is a Trance and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 17 Sept 2026, next at H7 Warehouse, Amsterdam on Fri, 23 Oct 2026.
 
 Azzurro is a trance and techno artist based in Netherlands, tracked on soundcheck, with 17 sets logged across Amsterdam, Berlin, Milan and Utrecht. Often billed alongside Joris Turenhout, Dark Circles (NL) and GavWhitehouse. Next up: H7 Warehouse, Amsterdam on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ Azzurro is a trance and techno artist based in Netherlands, tracked on soundchec
 
 Joris Turenhout, Dark Circles (NL), GavWhitehouse
 
-*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/azzurro/)*
+*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/azzurro/)*

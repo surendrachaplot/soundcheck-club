@@ -1,6 +1,6 @@
 # HANAA
 
-HANAA is a Techno and UK Funky artist with 4 upcoming club dates listed on soundcheck as of Wed, 16 Sept 2026, next at ROSA, Berlin on Sat, 19 Sept 2026.
+HANAA is a Techno and UK Funky artist with 4 upcoming club dates listed on soundcheck as of Thu, 17 Sept 2026, next at ROSA, Berlin on Sat, 19 Sept 2026.
 
 HANAA is a techno and uk funky artist based in Belgium, tracked on soundcheck, with 4 sets logged across Berlin, Manchester and Zurich. Often billed alongside ELOISA, 2FEL and 4000 Hz. Next up: ROSA, Berlin on Sat 19 Sept.
 
@@ -17,4 +17,4 @@ HANAA is a techno and uk funky artist based in Belgium, tracked on soundcheck, w
 
 ELOISA, 2FEL, 4000 Hz
 
-*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/hanaa-be/)*
+*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/hanaa-be/)*

@@ -1,8 +1,8 @@
 # Connor Wall
 
-Connor Wall is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Wed, 16 Sept 2026, next at SMUT Athens, Athens on Sat, 19 Sept 2026.
+Connor Wall is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Thu, 17 Sept 2026, next at SMUT Athens, Athens on Sat, 19 Sept 2026.
 
-Connor Wall is a techno and house artist based in Australia, tracked on soundcheck, with 37 sets logged across Amsterdam, Athens, Belgrade and Berlin and 17 more. Often billed alongside Alison Belle, Anthony Linell and Lilac. Next up: SMUT Athens, Athens on Sat 19 Sept.
+Connor Wall is a techno and house artist based in Australia, tracked on soundcheck, with 38 sets logged across Amsterdam, Athens, Belgrade and Berlin and 18 more. Often billed alongside Alison Belle, Anthony Linell and Lilac. Next up: SMUT Athens, Athens on Sat 19 Sept.
 
 ## Upcoming shows
 
@@ -12,6 +12,7 @@ Connor Wall is a techno and house artist based in Australia, tracked on soundche
 | Fri, 25 Sept 2026 | Ankali & Planeta Za | Prague |
 | Sat, 26 Sept 2026 | TILLATEC | Amsterdam |
 | Fri, 2 Oct 2026 | Astoria | Turin |
+| Fri, 9 Oct 2026 | Faust | Seoul |
 
 ## Recently played
 
@@ -28,4 +29,4 @@ Connor Wall is a techno and house artist based in Australia, tracked on soundche
 
 Alison Belle, Anthony Linell, Lilac
 
-*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/connorwall/)*
+*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/connorwall/)*

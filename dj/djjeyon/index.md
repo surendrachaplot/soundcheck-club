@@ -1,6 +1,6 @@
 # DJ Jeyon
 
-DJ Jeyon is a House and Club artist with 1 upcoming club date listed on soundcheck as of Wed, 16 Sept 2026, next at Bolero, Seoul on Thu, 17 Sept 2026.
+DJ Jeyon is a House and Club artist with 1 upcoming club date listed on soundcheck as of Thu, 17 Sept 2026, next at Bolero, Seoul on Thu, 17 Sept 2026.
 
 DJ Jeyon is a house and club artist tracked on soundcheck, with 40 sets logged across Osaka, Seoul and Tokyo. Often billed alongside DJ Soulscape, JADA MORAES and Steven Julien. Next up: Bolero, Seoul on Thu 17 Sept.
 
@@ -25,4 +25,4 @@ DJ Jeyon is a house and club artist tracked on soundcheck, with 40 sets logged a
 
 DJ Soulscape, JADA MORAES, Steven Julien
 
-*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djjeyon/)*
+*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djjeyon/)*

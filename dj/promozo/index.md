@@ -1,13 +1,14 @@
 # Promo ZO
 
-Promo ZO is a Drum & Bass and Jungle artist with 1 upcoming club date listed on soundcheck as of Wed, 16 Sept 2026, next at The Prospect Building, Bristol on Fri, 4 Dec 2026.
+Promo ZO is a Drum & Bass and Jungle artist with 2 upcoming club dates listed on soundcheck as of Thu, 17 Sept 2026, next at fabric, London on Sat, 14 Nov 2026.
 
-Promo ZO is a drum & bass and jungle artist based in United Kingdom, tracked on soundcheck, with 25 sets logged across Bristol, London and Malta. Often billed alongside Bryan Gee, Moose and 2Shy MC. Next up: The Prospect Building, Bristol on Fri 4 Dec.
+Promo ZO is a drum & bass and jungle artist based in United Kingdom, tracked on soundcheck, with 26 sets logged across Bristol, London and Malta. Often billed alongside Bryan Gee, Moose and Jumping Jack Frost. Next up: fabric, London on Sat 14 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 14 Nov 2026 | fabric | London |
 | Fri, 4 Dec 2026 | The Prospect Building | Bristol |
 
 ## Recently played
@@ -23,6 +24,6 @@ Promo ZO is a drum & bass and jungle artist based in United Kingdom, tracked on 
 
 ## Shares bills with
 
-Bryan Gee, Moose, 2Shy MC
+Bryan Gee, Moose, Jumping Jack Frost
 
-*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/promozo/)*
+*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/promozo/)*

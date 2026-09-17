@@ -1,6 +1,6 @@
 # Wodda
 
-Wodda is a House and Garage artist with 5 upcoming club dates listed on soundcheck as of Wed, 16 Sept 2026, next at UNO MALTA, Malta on Fri, 18 Sept 2026.
+Wodda is a House and Garage artist with 5 upcoming club dates listed on soundcheck as of Thu, 17 Sept 2026, next at UNO MALTA, Malta on Fri, 18 Sept 2026.
 
 Wodda is a house and garage artist tracked on soundcheck, with 61 sets logged across Aberdeen, Amsterdam, Barcelona and Birmingham and 15 more. Often billed alongside Locky, Just Jam and ADMNTi. Next up: UNO MALTA, Malta on Fri 18 Sept.
 
@@ -29,4 +29,4 @@ Wodda is a house and garage artist tracked on soundcheck, with 61 sets logged ac
 
 Locky, Just Jam, ADMNTi
 
-*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/wodda/)*
+*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/wodda/)*

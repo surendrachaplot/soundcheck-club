@@ -1,6 +1,6 @@
 # Bijon
 
-Bijon is a House and Balearic artist with 2 upcoming club dates listed on soundcheck as of Wed, 16 Sept 2026, next at Orangerie Neukölln, Berlin on Fri, 18 Sept 2026.
+Bijon is a House and Balearic artist with 2 upcoming club dates listed on soundcheck as of Thu, 17 Sept 2026, next at Orangerie Neukölln, Berlin on Fri, 18 Sept 2026.
 
 Bijon is a house and balearic artist based in Germany, tracked on soundcheck, with 31 sets logged across Berlin, London and Manchester. Often billed alongside Bobby Thorpe, Cardi-O and Olsvangèr. Next up: Orangerie Neukölln, Berlin on Fri 18 Sept.
 
@@ -26,4 +26,4 @@ Bijon is a house and balearic artist based in Germany, tracked on soundcheck, wi
 
 Bobby Thorpe, Cardi-O, Olsvangèr
 
-*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bijon/)*
+*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bijon/)*

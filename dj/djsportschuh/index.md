@@ -1,8 +1,8 @@
 # DJ SPORTSCHUH
 
-DJ SPORTSCHUH is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Wed, 16 Sept 2026, next at Ritter Butzke, Berlin on Fri, 18 Sept 2026.
+DJ SPORTSCHUH is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Thu, 17 Sept 2026, next at Ritter Butzke, Berlin on Fri, 18 Sept 2026.
 
-DJ SPORTSCHUH is a techno and house artist tracked on soundcheck, with 117 sets logged across Barcelona, Berlin, Cologne and Dusseldorf and 8 more. Often billed alongside Flavius (DE), BNZN and ATTA (GER). Next up: Ritter Butzke, Berlin on Fri 18 Sept.
+DJ SPORTSCHUH is a techno and house artist tracked on soundcheck, with 119 sets logged across Barcelona, Berlin, Cologne and Dusseldorf and 8 more. Often billed alongside Flavius (DE), BNZN and ATTA (GER). Next up: Ritter Butzke, Berlin on Fri 18 Sept.
 
 ## Upcoming shows
 
@@ -10,7 +10,9 @@ DJ SPORTSCHUH is a techno and house artist tracked on soundcheck, with 117 sets 
 | --- | --- | --- |
 | Fri, 18 Sept 2026 | Ritter Butzke | Berlin |
 | Sat, 19 Sept 2026 | Tokonoma Club | Frankfurt |
+| Sat, 26 Sept 2026 | Mellowpark | Berlin |
 | Fri, 2 Oct 2026 | Kater | Berlin |
+| Sat, 17 Oct 2026 | Coco Boule | Berlin |
 
 ## Recently played
 
@@ -27,4 +29,4 @@ DJ SPORTSCHUH is a techno and house artist tracked on soundcheck, with 117 sets 
 
 Flavius (DE), BNZN, ATTA (GER)
 
-*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djsportschuh/)*
+*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djsportschuh/)*

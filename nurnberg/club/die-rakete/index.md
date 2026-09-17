@@ -1,17 +1,19 @@
 # Die Rakete
 
-Die Rakete is a music venue in Nürnberg with 8 upcoming nights listed on soundcheck as of Wed, 16 Sept 2026; the next is "Nachtfalter" on Fri, 18 Sept 2026.
+Die Rakete is a music venue in Nürnberg with 10 upcoming nights listed on soundcheck as of Thu, 17 Sept 2026; the next is "Nachtfalter" on Fri, 18 Sept 2026.
 
-Die Rakete is a music venue in Nurnberg listed on soundcheck. 8 upcoming nights, with line-ups including AELVA K, Alex Stein, Annie O and Bernhard Groeger and 2 more. Browse upcoming dates, start times and who's playing. Vogelweiherstraße 64, 90441 Nürnberg.
+Die Rakete is a music venue in Nurnberg listed on soundcheck. 10 upcoming nights, with line-ups including AELVA K, Alex Stein, Annie O and Arp and 2 more. Browse upcoming dates, start times and who's playing. Vogelweiherstraße 64, 90441 Nürnberg.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
 | Fri, 18 Sept 2026 | Nachtfalter | AELVA K |
+| Sat, 19 Sept 2026 | 16 Y WSS feat. Avocado x Dirty Doering x | Dirty Doering, Gunnar Stiller, Julian Haffner |
 | Fri, 25 Sept 2026 | FUF Family x Praerie Festival at Rakete Nürnberg with Alex Stein, Konfusia uvm | Alex Stein, Konfusia, Maurice Mino, Sin:port |
 | Sat, 26 Sept 2026 | Elektrisch mit Tommahawk | Bernhard Groeger, MILAN MILANO, Tommahawk |
 | Fri, 2 Oct 2026 | Raw Frequencies | DJ SEXSTASY, Misha (3), Rishka |
+| Sat, 3 Oct 2026 | Die Rakete pres. Levt & FRIENDS | Arp, Bernhard Groeger, Levt |
 | Fri, 30 Oct 2026 | SCHRANZ is BACK Nürnberg with Felix Kröcher | Felix Kröcher |
 | Fri, 6 Nov 2026 | T78 All Night Long & Timo Mandl powered by Bassgeflüster | T78 |
 | Fri, 20 Nov 2026 | KINKY ON Tour Nürnberg | Annie O, Emina Helena, Ezio Aguiar, Illy Noize |
@@ -21,4 +23,4 @@ Die Rakete is a music venue in Nurnberg listed on soundcheck. 8 upcoming nights,
 
 Vogelweiherstraße 64, 90441 Nürnberg, Nürnberg
 
-*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/nurnberg/club/die-rakete/)*
+*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/nurnberg/club/die-rakete/)*

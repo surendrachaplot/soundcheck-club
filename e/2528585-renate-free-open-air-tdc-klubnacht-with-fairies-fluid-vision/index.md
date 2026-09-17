@@ -1,6 +1,6 @@
-# Renate Free Open Air (TDC) + Klubnacht with Fairies & Fluid Vision at Renate
+# Renate Free Open Air (TDC) + Klubnacht with Fairies, Fluid Vision & CUNTCORE at Renate
 
-Renate Free Open Air (TDC) + Klubnacht with Fairies & Fluid Vision on Sat 3 Oct, Berlin. 4 acts on the bill: Robin Flux, SENERGI, Tania Just and Tutti Frutti. Preview the line-up and save it on soundcheck.
+Renate Free Open Air (TDC) + Klubnacht with Fairies, Fluid Vision & CUNTCORE on Sat 3 Oct, Berlin. 5 acts on the bill: Dj handbag, Robin Flux, SENERGI and Tania Just and 1 more. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ Renate Free Open Air (TDC) + Klubnacht with Fairies & Fluid Vision on Sat 3 Oct,
 
 ## Line-up
 
+- Dj handbag
 - Robin Flux
 - SENERGI
 - Tania Just

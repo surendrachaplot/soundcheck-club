@@ -1,6 +1,6 @@
 # SOUNDGATE - TECHNO / HOUSE - at ZEROTOKYO
 
-SOUNDGATE - TECHNO / HOUSE - at ZEROTOKYO on Sat 10 Oct, Tokyo. 12 acts on the bill: Carpainter, DADO, FELINE (JP) and HATSUYUKI and 8 more. Techno and House. Preview the line-up and save it on soundcheck.
+SOUNDGATE - TECHNO / HOUSE - at ZEROTOKYO on Sat 10 Oct, Tokyo. 13 acts on the bill: Carpainter, DADO, FELINE (JP) and HATSUYUKI and 9 more. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -18,6 +18,7 @@ SOUNDGATE - TECHNO / HOUSE - at ZEROTOKYO on Sat 10 Oct, Tokyo. 12 acts on the b
 - KOTSU
 - Krankent
 - maikoo
+- Mary-chan
 - Ririko
 - Seimei
 - Sekitova

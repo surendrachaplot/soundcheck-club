@@ -1,6 +1,6 @@
 # Kito
 
-Kito is a Electro and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 16 Sept 2026, next at TCQ, Buenos Aires on Sat, 19 Sept 2026.
+Kito is a Electro and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 17 Sept 2026, next at TCQ, Buenos Aires on Sat, 19 Sept 2026.
 
 Kito is an electro and techno artist tracked on soundcheck, with 8 sets logged across Berlin, Buenosaires, Melbourne and Milan and 1 more. Often billed alongside AGUSTIN BARBEI, Aquenta and Brent Honey. Next up: TCQ, Buenosaires on Sat 19 Sept.
 
@@ -24,4 +24,4 @@ Kito is an electro and techno artist tracked on soundcheck, with 8 sets logged a
 
 AGUSTIN BARBEI, Aquenta, Brent Honey
 
-*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kito/)*
+*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kito/)*

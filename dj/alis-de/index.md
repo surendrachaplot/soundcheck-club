@@ -1,6 +1,6 @@
 # ALIS.
 
-ALIS. is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Wed, 16 Sept 2026, next at Karmen Camina, Strasbourg on Sat, 19 Sept 2026.
+ALIS. is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 17 Sept 2026, next at Karmen Camina, Strasbourg on Sat, 19 Sept 2026.
 
 ALIS. is a techno and house artist based in Germany, tracked on soundcheck, with 109 sets logged across Amsterdam, Antwerp, Basel and Berlin and 15 more. Often billed alongside Mika Heggemann, Cleopard2000 and Stanislawa. Next up: Karmen Camina, Strasbourg on Sat 19 Sept.
 
@@ -26,4 +26,4 @@ ALIS. is a techno and house artist based in Germany, tracked on soundcheck, with
 
 Mika Heggemann, Cleopard2000, Stanislawa
 
-*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/alis-de/)*
+*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/alis-de/)*

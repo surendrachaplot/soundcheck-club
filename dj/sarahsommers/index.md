@@ -1,15 +1,17 @@
 # Sarah Sommers
 
-Sarah Sommers is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Wed, 16 Sept 2026, next at Gewölbe, Cologne on Sat, 26 Sept 2026.
+Sarah Sommers is a Techno and Acid artist with 5 upcoming club dates listed on soundcheck as of Thu, 17 Sept 2026, next at Gewölbe, Cologne on Sat, 26 Sept 2026.
 
-Sarah Sommers is a techno and house artist tracked on soundcheck, with 54 sets logged across Amsterdam, Austin, Barcelona and Belgrade and 20 more. Often billed alongside Josef Kunz, Ellen Allien and Tomo in der Muhlen. Next up: Gewölbe, Cologne on Sat 26 Sept.
+Sarah Sommers is a techno and acid artist tracked on soundcheck, with 56 sets logged across Amsterdam, Austin, Barcelona and Belgrade and 21 more. Often billed alongside Josef Kunz, Ellen Allien and Tomo in der Muhlen. Next up: Gewölbe, Cologne on Sat 26 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 26 Sept 2026 | Gewölbe | Cologne |
+| Fri, 2 Oct 2026 | Fuchs2 | Prague |
 | Sat, 10 Oct 2026 | RSO.BERLIN | Berlin |
+| Sat, 24 Oct 2026 | Kilomètre25 | Paris |
 | Sat, 31 Oct 2026 | ZENNER | Berlin |
 
 ## Recently played
@@ -27,4 +29,4 @@ Sarah Sommers is a techno and house artist tracked on soundcheck, with 54 sets l
 
 Josef Kunz, Ellen Allien, Tomo in der Muhlen
 
-*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sarahsommers/)*
+*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sarahsommers/)*

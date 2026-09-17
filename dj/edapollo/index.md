@@ -1,8 +1,8 @@
 # edapollo
 
-edapollo is a Club and House artist with 2 upcoming club dates listed on soundcheck as of Wed, 16 Sept 2026, next at 1015 Folsom, San Francisco/Oakland on Fri, 18 Sept 2026.
+edapollo is a Club and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 17 Sept 2026, next at 1015 Folsom, San Francisco/Oakland on Fri, 18 Sept 2026.
 
-edapollo is a club and house artist tracked on soundcheck, with 3 sets logged across London and Sanfrancisco. Often billed alongside Indigo Eyes, Joe Turner and Juno Mamba. Next up: 1015 Folsom, Sanfrancisco on Fri 18 Sept.
+edapollo is a club and house artist tracked on soundcheck, with 3 sets logged across London and Sanfrancisco. Often billed alongside Aaron F, Amatric and DJ PlayStation. Next up: 1015 Folsom, Sanfrancisco on Fri 18 Sept.
 
 ## Upcoming shows
 
@@ -17,6 +17,6 @@ edapollo is a club and house artist tracked on soundcheck, with 3 sets logged ac
 
 ## Shares bills with
 
-Indigo Eyes, Joe Turner, Juno Mamba
+Aaron F, Amatric, DJ PlayStation
 
-*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/edapollo/)*
+*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/edapollo/)*

@@ -1,6 +1,6 @@
 # QQQ ST. Park
 
-QQQ ST. Park is a music venue in Melbourne with 7 upcoming nights listed on soundcheck as of Wed, 16 Sept 2026; the next is "X-RAY vol.1" on Sat, 19 Sept 2026.
+QQQ ST. Park is a music venue in Melbourne with 7 upcoming nights listed on soundcheck as of Thu, 17 Sept 2026; the next is "X-RAY vol.1" on Sat, 19 Sept 2026.
 
 QQQ ST. Park is a music venue in Melbourne listed on soundcheck. 7 upcoming nights, with line-ups including anna(n), Arktic, Common Tribe and Ish Anja and 2 more. Browse upcoming dates, start times and who's playing. 2 Peel St, Collingwood VIC 3066.
 
@@ -20,4 +20,4 @@ QQQ ST. Park is a music venue in Melbourne listed on soundcheck. 7 upcoming nigh
 
 2 Peel St, Collingwood VIC 3066, Melbourne
 
-*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/qqq-st-park/)*
+*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/qqq-st-park/)*

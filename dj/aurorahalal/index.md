@@ -1,6 +1,6 @@
 # Aurora Halal
 
-Aurora Halal is a Techno and House artist with 10 upcoming club dates listed on soundcheck as of Wed, 16 Sept 2026, next at Fort Mifflin, Philadelphia on Fri, 18 Sept 2026.
+Aurora Halal is a Techno and House artist with 10 upcoming club dates listed on soundcheck as of Thu, 17 Sept 2026, next at Fort Mifflin, Philadelphia on Fri, 18 Sept 2026.
 
 Aurora Halal is a techno and house artist tracked on soundcheck, with 226 sets logged across Amsterdam, Athens, Austin and Barcelona and 52 more. Often billed alongside Priori, Avalon Emerson and Kia (AU). Next up: Fort Mifflin, Philadelphia on Fri 18 Sept.
 
@@ -34,4 +34,4 @@ Aurora Halal is a techno and house artist tracked on soundcheck, with 226 sets l
 
 Priori, Avalon Emerson, Kia (AU)
 
-*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/aurorahalal/)*
+*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/aurorahalal/)*

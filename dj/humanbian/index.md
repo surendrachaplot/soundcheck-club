@@ -1,8 +1,8 @@
 # HumanbIAN
 
-HumanbIAN is a House and Hip-Hop artist with 2 upcoming club dates listed on soundcheck as of Wed, 16 Sept 2026, next at Jade, New York City on Thu, 17 Sept 2026.
+HumanbIAN is a House and Hip-Hop artist with 2 upcoming club dates listed on soundcheck as of Thu, 17 Sept 2026, next at Jade, New York City on Thu, 17 Sept 2026.
 
-HumanbIAN is a house and hip-hop artist tracked on soundcheck, with 7 sets logged across Newyorkcity. Often billed alongside Moist Briefs, Day Cart and Joopiter. Next up: Jade, Newyorkcity on Thu 17 Sept.
+HumanbIAN is a house and hip-hop artist tracked on soundcheck, with 7 sets logged across Newyorkcity. Often billed alongside Moist Briefs, BbbBbBB (2) and Day Cart. Next up: Jade, Newyorkcity on Thu 17 Sept.
 
 ## Upcoming shows
 
@@ -21,6 +21,6 @@ HumanbIAN is a house and hip-hop artist tracked on soundcheck, with 7 sets logge
 
 ## Shares bills with
 
-Moist Briefs, Day Cart, Joopiter
+Moist Briefs, BbbBbBB (2), Day Cart
 
-*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/humanbian/)*
+*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/humanbian/)*

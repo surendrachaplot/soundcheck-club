@@ -1,6 +1,6 @@
 # Hidde van Wee
 
-Hidde van Wee is a House and Tech House artist with 10 upcoming club dates listed on soundcheck as of Wed, 16 Sept 2026, next at Openluchttheater Amersfoort, Amsterdam on Fri, 18 Sept 2026.
+Hidde van Wee is a House and Tech House artist with 10 upcoming club dates listed on soundcheck as of Thu, 17 Sept 2026, next at Openluchttheater Amersfoort, Amsterdam on Fri, 18 Sept 2026.
 
 Hidde van Wee is a house and tech house artist tracked on soundcheck, with 71 sets logged across Amsterdam, Barcelona, Bristol and Dublin and 12 more. Often billed alongside Sidney Charles, Boss Priester and Benny Rodrigues. Next up: Openluchttheater Amersfoort, Amsterdam on Fri 18 Sept.
 
@@ -34,4 +34,4 @@ Hidde van Wee is a house and tech house artist tracked on soundcheck, with 71 se
 
 Sidney Charles, Boss Priester, Benny Rodrigues
 
-*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/hiddevanwee/)*
+*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/hiddevanwee/)*

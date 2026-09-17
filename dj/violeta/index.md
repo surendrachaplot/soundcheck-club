@@ -1,13 +1,14 @@
 # Violeta
 
-Violeta is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 16 Sept 2026, next at Mana Wynwood, Miami on Fri, 16 Oct 2026.
+Violeta is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Thu, 17 Sept 2026, next at TBA - DTLA, Los Angeles on Sun, 27 Sept 2026.
 
-Violeta is a house and techno artist based in United States of America, tracked on soundcheck, with 32 sets logged across Miami. Often billed alongside Spice Crime, KUJO (US) and Sel.6. Next up: Mana Wynwood, Miami on Fri 16 Oct.
+Violeta is a house and techno artist based in United States of America, tracked on soundcheck, with 33 sets logged across Losangeles and Miami. Often billed alongside Spice Crime, KUJO (US) and Sel.6. Next up: TBA - DTLA, Losangeles on Sun 27 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sun, 27 Sept 2026 | TBA - DTLA | Los Angeles |
 | Fri, 16 Oct 2026 | Mana Wynwood | Miami |
 | Fri, 13 Nov 2026 | The Ground at Club Space | Miami |
 
@@ -26,4 +27,4 @@ Violeta is a house and techno artist based in United States of America, tracked 
 
 Spice Crime, KUJO (US), Sel.6
 
-*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/violeta/)*
+*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/violeta/)*

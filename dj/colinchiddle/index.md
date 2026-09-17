@@ -1,6 +1,6 @@
 # Colin Chiddle
 
-Colin Chiddle is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 16 Sept 2026, next at FOLD, London on Fri, 30 Oct 2026.
+Colin Chiddle is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 17 Sept 2026, next at FOLD, London on Fri, 30 Oct 2026.
 
 Colin Chiddle is a house and techno artist based in United Kingdom, tracked on soundcheck, with 42 sets logged across Barcelona, Brussels, Leeds and Lisbon and 4 more. Often billed alongside Raphael Carrau, DMC. and Onur Özer. Next up: FOLD, London on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ Colin Chiddle is a house and techno artist based in United Kingdom, tracked on s
 
 Raphael Carrau, DMC., Onur Özer
 
-*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/colinchiddle/)*
+*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/colinchiddle/)*

@@ -1,14 +1,15 @@
 # Nautiluss
 
-Nautiluss is a House and Trance artist with 1 upcoming club date listed on soundcheck as of Wed, 16 Sept 2026, next at Standard Time, Toronto on Fri, 25 Sept 2026.
+Nautiluss is a House and Minimal artist with 2 upcoming club dates listed on soundcheck as of Thu, 17 Sept 2026, next at Standard Time, Toronto on Fri, 25 Sept 2026.
 
-Nautiluss is a house and trance artist based in Canada, tracked on soundcheck, with 21 sets logged across Toronto and Vancouver. Often billed alongside Rabzi, Chinelo and Ensoul. Next up: Standard Time, Toronto on Fri 25 Sept.
+Nautiluss is a house and minimal artist based in Canada, tracked on soundcheck, with 22 sets logged across Toronto and Vancouver. Often billed alongside Rabzi, Chinelo and DJ Frog. Next up: Standard Time, Toronto on Fri 25 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 25 Sept 2026 | Standard Time | Toronto |
+| Sat, 10 Oct 2026 | Bambi's | Toronto |
 
 ## Recently played
 
@@ -23,6 +24,6 @@ Nautiluss is a house and trance artist based in Canada, tracked on soundcheck, w
 
 ## Shares bills with
 
-Rabzi, Chinelo, Ensoul
+Rabzi, Chinelo, DJ Frog
 
-*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nautiluss/)*
+*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nautiluss/)*

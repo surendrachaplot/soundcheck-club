@@ -1,8 +1,8 @@
 # Forest
 
-Forest is a Techno and Trance artist with 3 upcoming club dates listed on soundcheck as of Wed, 16 Sept 2026, next at Club Cheek, London on Sun, 27 Sept 2026.
+Forest is a Techno and Trance artist with 4 upcoming club dates listed on soundcheck as of Thu, 17 Sept 2026, next at Club Cheek, London on Sun, 27 Sept 2026.
 
-Forest is a techno and trance artist tracked on soundcheck, with 48 sets logged across Barcelona, Brussels, Copenhagen and Ghent and 6 more. Often billed alongside Jolly (FR), Lastvuska and Domi (FR). Next up: Club Cheek, London on Sun 27 Sept.
+Forest is a techno and trance artist tracked on soundcheck, with 49 sets logged across Amsterdam, Barcelona, Brussels and Copenhagen and 7 more. Often billed alongside Jolly (FR), Lastvuska and Domi (FR). Next up: Club Cheek, London on Sun 27 Sept.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ Forest is a techno and trance artist tracked on soundcheck, with 48 sets logged 
 | Sun, 27 Sept 2026 | Club Cheek | London |
 | Sat, 3 Oct 2026 | TBA - Saint-Denis | Paris |
 | Sat, 17 Oct 2026 | TBA | Marseille |
+| Sun, 25 Oct 2026 | Hasta La Vista, Baby | Amsterdam |
 
 ## Recently played
 
@@ -27,4 +28,4 @@ Forest is a techno and trance artist tracked on soundcheck, with 48 sets logged 
 
 Jolly (FR), Lastvuska, Domi (FR)
 
-*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/forest/)*
+*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/forest/)*

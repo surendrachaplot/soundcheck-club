@@ -1,6 +1,6 @@
 # CHRANDY
 
-CHRANDY is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 16 Sept 2026, next at Lark, Berlin on Fri, 23 Oct 2026.
+CHRANDY is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 17 Sept 2026, next at Lark, Berlin on Fri, 23 Oct 2026.
 
 CHRANDY is a house and techno artist based in Germany, tracked on soundcheck, with 24 sets logged across Berlin and Hamburg. Often billed alongside Doctora Amor, Agua con gas and Femur. Next up: Lark, Berlin on Fri 23 Oct.
 
@@ -26,4 +26,4 @@ CHRANDY is a house and techno artist based in Germany, tracked on soundcheck, wi
 
 Doctora Amor, Agua con gas, Femur
 
-*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/chrandy/)*
+*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/chrandy/)*

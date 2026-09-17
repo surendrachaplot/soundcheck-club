@@ -1,6 +1,6 @@
 # ANJELIKA SAHAKIAN
 
-ANJELIKA SAHAKIAN is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 16 Sept 2026, next at Parc del Fòrum, Barcelona on Fri, 30 Oct 2026.
+ANJELIKA SAHAKIAN is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 17 Sept 2026, next at Parc del Fòrum, Barcelona on Fri, 30 Oct 2026.
 
 ANJELIKA SAHAKIAN is a techno and house artist based in Poland, tracked on soundcheck, with 11 sets logged across Barcelona and Madrid. Often billed alongside KSAL, DIDIXX and Miguel Rivas. Next up: Parc del Fòrum, Barcelona on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ ANJELIKA SAHAKIAN is a techno and house artist based in Poland, tracked on sound
 
 KSAL, DIDIXX, Miguel Rivas
 
-*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/anjelikasahakian/)*
+*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/anjelikasahakian/)*

@@ -1,6 +1,6 @@
 # Josh Tong
 
-Josh Tong is a Techno and Acid artist with 1 upcoming club date listed on soundcheck as of Wed, 16 Sept 2026, next at Swig, Chicago on Thu, 24 Sept 2026.
+Josh Tong is a Techno and Acid artist with 1 upcoming club date listed on soundcheck as of Thu, 17 Sept 2026, next at Swig, Chicago on Thu, 24 Sept 2026.
 
 Josh Tong is a techno and acid artist tracked on soundcheck, with 45 sets logged across Chicago and Detroit. Often billed alongside Shanti, barbuhh and Brenda. Next up: Swig, Chicago on Thu 24 Sept.
 
@@ -25,4 +25,4 @@ Josh Tong is a techno and acid artist tracked on soundcheck, with 45 sets logged
 
 Shanti, barbuhh, Brenda
 
-*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/joshtong/)*
+*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/joshtong/)*

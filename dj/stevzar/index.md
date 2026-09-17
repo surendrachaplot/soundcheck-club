@@ -1,6 +1,6 @@
 # Stev Zar
 
-Stev Zar is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 16 Sept 2026, next at 24 Moons, Melbourne on Fri, 18 Sept 2026.
+Stev Zar is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 17 Sept 2026, next at 24 Moons, Melbourne on Fri, 18 Sept 2026.
 
 Stev Zar is a house and techno artist tracked on soundcheck, with 60 sets logged across Melbourne and Sydney. Often billed alongside Caucasian Opportunities, DJ Luv You and MIRASIA. Next up: 24 Moons, Melbourne on Fri 18 Sept.
 
@@ -25,4 +25,4 @@ Stev Zar is a house and techno artist tracked on soundcheck, with 60 sets logged
 
 Caucasian Opportunities, DJ Luv You, MIRASIA
 
-*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/stevzar/)*
+*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/stevzar/)*

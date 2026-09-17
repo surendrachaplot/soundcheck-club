@@ -1,14 +1,15 @@
 # EMIRI TSUKUI
 
-EMIRI TSUKUI is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Wed, 16 Sept 2026, next at Blvck Water, Osaka on Wed, 23 Sept 2026.
+EMIRI TSUKUI is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Thu, 17 Sept 2026, next at Blvck Water, Osaka on Wed, 23 Sept 2026.
 
-EMIRI TSUKUI is a techno and trance artist tracked on soundcheck, with 15 sets logged across Osaka and Tokyo. Often billed alongside Kojiro, Taichi Kawahira and TEI TEI. Next up: Blvck Water, Osaka on Wed 23 Sept.
+EMIRI TSUKUI is a techno and trance artist tracked on soundcheck, with 16 sets logged across Berlin, Osaka and Tokyo. Often billed alongside Kojiro, Taichi Kawahira and TEI TEI. Next up: Blvck Water, Osaka on Wed 23 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Wed, 23 Sept 2026 | Blvck Water | Osaka |
+| Sat, 10 Oct 2026 | PKH Warehouse | Berlin |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ EMIRI TSUKUI is a techno and trance artist tracked on soundcheck, with 15 sets l
 
 Kojiro, Taichi Kawahira, TEI TEI
 
-*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/emiritsukui/)*
+*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/emiritsukui/)*

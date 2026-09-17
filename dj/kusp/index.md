@@ -1,6 +1,6 @@
 # KUSP
 
-KUSP is a Techno and Minimal Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 16 Sept 2026, next at WaV, Liverpool on Sat, 19 Sept 2026.
+KUSP is a Techno and Minimal Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 17 Sept 2026, next at WaV, Liverpool on Sat, 19 Sept 2026.
 
 KUSP is a techno and minimal techno artist based in United Kingdom, tracked on soundcheck, with 4 sets logged across Liverpool. Often billed alongside Tom Page, Blasha & Allatt and DJ Rush. Next up: WaV, Liverpool on Sat 19 Sept.
 
@@ -20,4 +20,4 @@ KUSP is a techno and minimal techno artist based in United Kingdom, tracked on s
 
 Tom Page, Blasha & Allatt, DJ Rush
 
-*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kusp/)*
+*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kusp/)*

@@ -1,6 +1,6 @@
 # Winson Ngoh
 
-Winson Ngoh is a Techno and Industrial artist with 8 upcoming club dates listed on soundcheck as of Wed, 16 Sept 2026, next at Radius, Chicago on Fri, 18 Sept 2026.
+Winson Ngoh is a Techno and Industrial artist with 8 upcoming club dates listed on soundcheck as of Thu, 17 Sept 2026, next at Radius, Chicago on Fri, 18 Sept 2026.
 
 Winson Ngoh is a techno and industrial artist tracked on soundcheck, with 33 sets logged across Amsterdam, Antwerp, Barcelona and Belfast and 21 more. Often billed alongside KUKO, Fantasm and Winson. Next up: Radius, Chicago on Fri 18 Sept.
 
@@ -32,4 +32,4 @@ Winson Ngoh is a techno and industrial artist tracked on soundcheck, with 33 set
 
 KUKO, Fantasm, Winson
 
-*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/winsonngoh/)*
+*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/winsonngoh/)*

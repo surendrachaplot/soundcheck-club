@@ -1,6 +1,6 @@
 # SISSI'S Amsterdam
 
-SISSI'S Amsterdam is a music venue in Amsterdam with 14 upcoming nights listed on soundcheck as of Wed, 16 Sept 2026; the next is "Toy Tonics Jam" on Fri, 18 Sept 2026.
+SISSI'S Amsterdam is a music venue in Amsterdam with 14 upcoming nights listed on soundcheck as of Thu, 17 Sept 2026; the next is "Toy Tonics Jam" on Fri, 18 Sept 2026.
 
 SISSI'S Amsterdam is a music venue in Amsterdam listed on soundcheck. 14 upcoming nights, with line-ups including A For Alpha, Ays (NL), Barbara Boeing and bebe bad and 2 more. Browse upcoming dates, start times and who's playing. Anthony Fokkerweg 3, 1059 CM Amsterdam.
 
@@ -8,7 +8,7 @@ SISSI'S Amsterdam is a music venue in Amsterdam listed on soundcheck. 14 upcomin
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 18 Sept 2026 | Toy Tonics Jam | Barbara Boeing, Kapote |
+| Fri, 18 Sept 2026 | Toy Tonics Jam | Barbara Boeing, Charmaine, Kapote, Nablijven Soundsystem |
 | Sat, 19 Sept 2026 | Sissi's Blockparty with Moody Mehran (all day) |  |
 | Fri, 25 Sept 2026 | [CANCELLED] De Binnenstad x Sissi's | Easttown, Gyatso, Rumi Jill, Spacer Woman |
 | Fri, 25 Sept 2026 | Sissi's Friday with Easttown, Jim Jua | Easttown |
@@ -23,4 +23,4 @@ SISSI'S Amsterdam is a music venue in Amsterdam listed on soundcheck. 14 upcomin
 
 Anthony Fokkerweg 3, 1059 CM Amsterdam, Amsterdam
 
-*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/sissi-s-amsterdam/)*
+*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/sissi-s-amsterdam/)*

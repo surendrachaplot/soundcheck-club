@@ -1,13 +1,14 @@
 # Natural Goofy
 
-Natural Goofy is a House and Club artist with 1 upcoming club date listed on soundcheck as of Wed, 16 Sept 2026, next at Ministerium Club, Lisbon on Sat, 19 Sept 2026.
+Natural Goofy is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 17 Sept 2026, next at Collect LX Factory, Lisbon on Fri, 18 Sept 2026.
 
-Natural Goofy is a house and club artist tracked on soundcheck, with 29 sets logged across Barcelona, Berlin, Hamburg and Lisbon and 5 more. Often billed alongside Comik Sans, Arista and Cortazar. Next up: Ministerium Club, Lisbon on Sat 19 Sept.
+Natural Goofy is a house and techno artist tracked on soundcheck, with 30 sets logged across Barcelona, Berlin, Hamburg and Lisbon and 5 more. Often billed alongside Comik Sans, Arista and Cortazar. Next up: Collect LX Factory, Lisbon on Fri 18 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 18 Sept 2026 | Collect LX Factory | Lisbon |
 | Sat, 19 Sept 2026 | Ministerium Club | Lisbon |
 
 ## Recently played
@@ -25,4 +26,4 @@ Natural Goofy is a house and club artist tracked on soundcheck, with 29 sets log
 
 Comik Sans, Arista, Cortazar
 
-*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/naturalgoofy/)*
+*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/naturalgoofy/)*

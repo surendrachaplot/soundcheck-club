@@ -1,6 +1,6 @@
 # HORS-SOL x Sentaku — ADE at Hasta La Vista, Baby
 
-HORS-SOL x Sentaku — ADE at Hasta La Vista, Baby on Sun 25 Oct, Amsterdam. 5 acts on the bill: Ill Spleen, Jolly (FR), LAMALICE and Massaï and 1 more. Preview the line-up and save it on soundcheck.
+HORS-SOL x Sentaku — ADE at Hasta La Vista, Baby on Sun 25 Oct, Amsterdam. 6 acts on the bill: Forest, Ill Spleen, Jolly (FR) and LAMALICE and 2 more. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ HORS-SOL x Sentaku — ADE at Hasta La Vista, Baby on Sun 25 Oct, Amsterdam. 5 a
 
 ## Line-up
 
+- Forest
 - Ill Spleen
 - Jolly (FR)
 - LAMALICE

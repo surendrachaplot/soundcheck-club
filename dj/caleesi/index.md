@@ -1,8 +1,8 @@
 # Caleesi
 
-Caleesi is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Wed, 16 Sept 2026, next at Openluchttheater Amersfoort, Amsterdam on Fri, 18 Sept 2026.
+Caleesi is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Thu, 17 Sept 2026, next at Openluchttheater Amersfoort, Amsterdam on Fri, 18 Sept 2026.
 
-Caleesi is a house and techno artist based in Germany, tracked on soundcheck, with 101 sets logged across Amsterdam, Basel, Berlin and Cologne and 24 more. Often billed alongside Sarah Kreis, Mira and Gina Sabatini. Next up: Openluchttheater Amersfoort, Amsterdam on Fri 18 Sept.
+Caleesi is a house and techno artist based in Germany, tracked on soundcheck, with 102 sets logged across Amsterdam, Basel, Berlin and Cologne and 24 more. Often billed alongside Sarah Kreis, Mira and Gina Sabatini. Next up: Openluchttheater Amersfoort, Amsterdam on Fri 18 Sept.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ Caleesi is a house and techno artist based in Germany, tracked on soundcheck, wi
 | Fri, 18 Sept 2026 | Openluchttheater Amersfoort | Amsterdam |
 | Fri, 9 Oct 2026 | Kater | Berlin |
 | Fri, 23 Oct 2026 | THE OTHER SIDE | Amsterdam |
+| Sat, 14 Nov 2026 | Omeara | London |
 
 ## Recently played
 
@@ -27,4 +28,4 @@ Caleesi is a house and techno artist based in Germany, tracked on soundcheck, wi
 
 Sarah Kreis, Mira, Gina Sabatini
 
-*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/caleesi/)*
+*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/caleesi/)*

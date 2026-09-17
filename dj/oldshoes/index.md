@@ -1,6 +1,6 @@
 # Oldshoes
 
-Oldshoes is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Wed, 16 Sept 2026, next at Stoked&stoned, Seoul on Mon, 14 Sept 2026.
+Oldshoes is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Thu, 17 Sept 2026, next at Stoked&stoned, Seoul on Mon, 14 Sept 2026.
 
 Oldshoes is a house and techno artist tracked on soundcheck, with 96 sets logged across Seoul and Tokyo. Often billed alongside denny, Acidwork and Jucid. Next up: Stoked&stoned, Seoul on Mon 14 Sept.
 
@@ -27,4 +27,4 @@ Oldshoes is a house and techno artist tracked on soundcheck, with 96 sets logged
 
 denny, Acidwork, Jucid
 
-*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/oldshoes/)*
+*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/oldshoes/)*

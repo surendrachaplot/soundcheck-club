@@ -1,8 +1,8 @@
 # Jade Seatle
 
-Jade Seatle is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Wed, 16 Sept 2026, next at THE MAGICK BAR, Rome on Thu, 17 Sept 2026.
+Jade Seatle is a House and Techno artist with 6 upcoming club dates listed on soundcheck as of Thu, 17 Sept 2026, next at THE MAGICK BAR, Rome on Thu, 17 Sept 2026.
 
-Jade Seatle is a house and techno artist tracked on soundcheck, with 51 sets logged across Amsterdam, Barcelona, Berlin and Bristol and 10 more. Often billed alongside Jane Fitz, NIGHT MOVES and DJ Rino. Next up: THE MAGICK BAR, Rome on Thu 17 Sept.
+Jade Seatle is a house and techno artist tracked on soundcheck, with 52 sets logged across Amsterdam, Barcelona, Berlin and Bristol and 10 more. Often billed alongside Jane Fitz, NIGHT MOVES and DJ Rino. Next up: THE MAGICK BAR, Rome on Thu 17 Sept.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Jade Seatle is a house and techno artist tracked on soundcheck, with 51 sets log
 | --- | --- | --- |
 | Thu, 17 Sept 2026 | THE MAGICK BAR | Rome |
 | Thu, 24 Sept 2026 | La Cheetah Club | Glasgow |
+| Thu, 1 Oct 2026 | 17 Little Portland Street | London |
 | Fri, 9 Oct 2026 | Gaffe | London |
 | Fri, 30 Oct 2026 | Signal | New York City |
 | Sat, 21 Nov 2026 | TBA | London |
@@ -29,4 +30,4 @@ Jade Seatle is a house and techno artist tracked on soundcheck, with 51 sets log
 
 Jane Fitz, NIGHT MOVES, DJ Rino
 
-*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jadeseatle/)*
+*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jadeseatle/)*

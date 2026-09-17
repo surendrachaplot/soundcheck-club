@@ -1,6 +1,6 @@
 # NuCasa
 
-NuCasa is a House and Afro House artist with 4 upcoming club dates listed on soundcheck as of Wed, 16 Sept 2026, next at Charlie Mokotowska, Warsaw on Sat, 19 Sept 2026.
+NuCasa is a House and Afro House artist with 4 upcoming club dates listed on soundcheck as of Thu, 17 Sept 2026, next at Charlie Mokotowska, Warsaw on Sat, 19 Sept 2026.
 
 NuCasa is a house and afro house artist based in Poland, tracked on soundcheck, with 52 sets logged across Berlin and Warsaw. Often billed alongside Angelo Mike, Konca and Kuvau. Next up: Charlie Mokotowska, Warsaw on Sat 19 Sept.
 
@@ -28,4 +28,4 @@ NuCasa is a house and afro house artist based in Poland, tracked on soundcheck, 
 
 Angelo Mike, Konca, Kuvau
 
-*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nucasa/)*
+*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nucasa/)*

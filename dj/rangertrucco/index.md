@@ -1,8 +1,8 @@
 # Ranger Trucco
 
-Ranger Trucco is a House and Tech House artist with 10 upcoming club dates listed on soundcheck as of Wed, 16 Sept 2026, next at World Headquarters, Newcastle on Sat, 19 Sept 2026.
+Ranger Trucco is a House and Tech House artist with 11 upcoming club dates listed on soundcheck as of Thu, 17 Sept 2026, next at World Headquarters, Newcastle on Sat, 19 Sept 2026.
 
-Ranger Trucco is a house and tech house artist tracked on soundcheck, with 92 sets logged across Amsterdam, Austin, Barcelona and Boston and 21 more. Often billed alongside Ms. Mada, Prunk and Ben Sterling. Next up: World Headquarters, Newcastle on Sat 19 Sept.
+Ranger Trucco is a house and tech house artist tracked on soundcheck, with 93 sets logged across Amsterdam, Austin, Barcelona and Birmingham and 22 more. Often billed alongside Ms. Mada, Prunk and Ben Sterling. Next up: World Headquarters, Newcastle on Sat 19 Sept.
 
 ## Upcoming shows
 
@@ -17,6 +17,7 @@ Ranger Trucco is a house and tech house artist tracked on soundcheck, with 92 se
 | Thu, 22 Oct 2026 | Thuishaven | Amsterdam |
 | Sat, 24 Oct 2026 | Oliva | Amsterdam |
 | Sun, 8 Nov 2026 | Thuishaven | Amsterdam |
+| Sat, 14 Nov 2026 | Lab11 | Birmingham |
 | Fri, 27 Nov 2026 | Depot Mayfield | Manchester |
 
 ## Recently played
@@ -34,4 +35,4 @@ Ranger Trucco is a house and tech house artist tracked on soundcheck, with 92 se
 
 Ms. Mada, Prunk, Ben Sterling
 
-*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/rangertrucco/)*
+*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/rangertrucco/)*

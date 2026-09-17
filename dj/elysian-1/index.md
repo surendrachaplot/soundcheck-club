@@ -1,6 +1,6 @@
 # Elysian (1)
 
-Elysian (1) is a Ghetto Tech and Club artist with 2 upcoming club dates listed on soundcheck as of Wed, 16 Sept 2026, next at Hart Bar, New York City on Fri, 18 Sept 2026.
+Elysian (1) is a Ghetto Tech and Club artist with 2 upcoming club dates listed on soundcheck as of Thu, 17 Sept 2026, next at Hart Bar, New York City on Fri, 18 Sept 2026.
 
 Elysian (1) is a ghetto tech and club artist based in United States of America, tracked on soundcheck, with 5 sets logged across Boston, Mykonos and Newyorkcity. Often billed alongside Christinathesaintt, 999ADJ and Adelaide (1). Next up: Hart Bar, Newyorkcity on Fri 18 Sept.
 
@@ -21,4 +21,4 @@ Elysian (1) is a ghetto tech and club artist based in United States of America, 
 
 Christinathesaintt, 999ADJ, Adelaide (1)
 
-*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/elysian-1/)*
+*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/elysian-1/)*

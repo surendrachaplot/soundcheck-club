@@ -1,6 +1,6 @@
 # Paul Wolsch
 
-Paul Wolsch is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 16 Sept 2026, next at Gibus Club, Paris on Sat, 3 Oct 2026.
+Paul Wolsch is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 17 Sept 2026, next at Gibus Club, Paris on Sat, 3 Oct 2026.
 
 Paul Wolsch is a house and techno artist based in Costa Rica, tracked on soundcheck, with 32 sets logged across Athens, Bangkok, Barcelona and Berlin and 16 more. Often billed alongside Al Jones, BOYCA and Mae Happyair. Next up: Gibus Club, Paris on Sat 3 Oct.
 
@@ -25,4 +25,4 @@ Paul Wolsch is a house and techno artist based in Costa Rica, tracked on soundch
 
 Al Jones, BOYCA, Mae Happyair
 
-*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/paulwolsch/)*
+*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/paulwolsch/)*

@@ -1,6 +1,6 @@
 # Ayshel
 
-Ayshel is a Techno and Club artist with 1 upcoming club date listed on soundcheck as of Wed, 16 Sept 2026, next at Ilion Plus, Athens on Fri, 18 Sept 2026.
+Ayshel is a Techno and Club artist with 1 upcoming club date listed on soundcheck as of Thu, 17 Sept 2026, next at Ilion Plus, Athens on Fri, 18 Sept 2026.
 
 Ayshel is a techno and club artist based in Greece, tracked on soundcheck, with 42 sets logged across Athens and Brussels. Often billed alongside GRETA (GR), Andreas Palmer and FlökosH. Next up: Ilion Plus, Athens on Fri 18 Sept.
 
@@ -25,4 +25,4 @@ Ayshel is a techno and club artist based in Greece, tracked on soundcheck, with 
 
 GRETA (GR), Andreas Palmer, FlökosH
 
-*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ayshel/)*
+*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ayshel/)*

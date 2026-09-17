@@ -1,8 +1,8 @@
 # Zero T
 
-Zero T is a Drum & Bass and Jungle artist with 2 upcoming club dates listed on soundcheck as of Wed, 16 Sept 2026, next at Wigwam, Dublin on Sat, 17 Oct 2026.
+Zero T is a Drum & Bass and Jungle artist with 3 upcoming club dates listed on soundcheck as of Thu, 17 Sept 2026, next at Wigwam, Dublin on Sat, 17 Oct 2026.
 
-Zero T is a drum & bass and jungle artist tracked on soundcheck, with 71 sets logged across Amsterdam, Antwerp, Auckland and Brighton and 24 more. Often billed alongside Lenzman, MC Fox and Fabio. Next up: Wigwam, Dublin on Sat 17 Oct.
+Zero T is a drum & bass and jungle artist tracked on soundcheck, with 72 sets logged across Amsterdam, Antwerp, Auckland and Brighton and 24 more. Often billed alongside Lenzman, MC Fox and Fabio. Next up: Wigwam, Dublin on Sat 17 Oct.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Zero T is a drum & bass and jungle artist tracked on soundcheck, with 71 sets lo
 | --- | --- | --- |
 | Sat, 17 Oct 2026 | Wigwam | Dublin |
 | Sat, 24 Oct 2026 | Phonox | London |
+| Sat, 14 Nov 2026 | fabric | London |
 
 ## Recently played
 
@@ -26,4 +27,4 @@ Zero T is a drum & bass and jungle artist tracked on soundcheck, with 71 sets lo
 
 Lenzman, MC Fox, Fabio
 
-*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/zerot/)*
+*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/zerot/)*

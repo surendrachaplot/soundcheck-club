@@ -1,14 +1,15 @@
 # Timo Lee
 
-Timo Lee is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Wed, 16 Sept 2026, next at Madrone Art Bar, San Francisco/Oakland on Sat, 26 Sept 2026.
+Timo Lee is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Thu, 17 Sept 2026, next at Madrone Art Bar, San Francisco/Oakland on Sat, 26 Sept 2026.
 
-Timo Lee is a house and disco artist based in United States of America, tracked on soundcheck, with 103 sets logged across Losangeles, Mexicocity, Miami and Newyorkcity and 5 more. Often billed alongside Yurk, Carozilla and Juan Maclean. Next up: Madrone Art Bar, Sanfrancisco on Sat 26 Sept.
+Timo Lee is a house and disco artist based in United States of America, tracked on soundcheck, with 104 sets logged across Losangeles, Mexicocity, Miami and Newyorkcity and 5 more. Often billed alongside Yurk, Armii1n and Carozilla. Next up: Madrone Art Bar, Sanfrancisco on Sat 26 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 26 Sept 2026 | Madrone Art Bar | San Francisco/Oakland |
+| Fri, 16 Oct 2026 | Green Room NYC | New York City |
 
 ## Recently played
 
@@ -23,6 +24,6 @@ Timo Lee is a house and disco artist based in United States of America, tracked 
 
 ## Shares bills with
 
-Yurk, Carozilla, Juan Maclean
+Yurk, Armii1n, Carozilla
 
-*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/timolee/)*
+*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/timolee/)*

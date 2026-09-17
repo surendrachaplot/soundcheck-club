@@ -1,6 +1,6 @@
 # Martello Give
 
-Martello Give is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Wed, 16 Sept 2026, next at TBA - Private Location (LUNA), Vancouver on Fri, 18 Sept 2026.
+Martello Give is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Thu, 17 Sept 2026, next at TBA - Private Location (LUNA), Vancouver on Fri, 18 Sept 2026.
 
 Martello Give is a techno and electro artist based in Ireland, tracked on soundcheck, with 7 sets logged across Vancouver. Often billed alongside Bronsön, Beiti and Xiumei. Next up: TBA - Private Location (LUNA), Vancouver on Fri 18 Sept.
 
@@ -23,4 +23,4 @@ Martello Give is a techno and electro artist based in Ireland, tracked on soundc
 
 Bronsön, Beiti, Xiumei
 
-*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/martellogive/)*
+*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/martellogive/)*

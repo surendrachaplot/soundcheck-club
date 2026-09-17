@@ -1,6 +1,6 @@
 # Ojelma
 
-Ojelma is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 16 Sept 2026, next at Kaiku, Helsinki on Sat, 19 Sept 2026.
+Ojelma is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 17 Sept 2026, next at Kaiku, Helsinki on Sat, 19 Sept 2026.
 
 Ojelma is a techno and house artist based in Finland, tracked on soundcheck, with 56 sets logged across Helsinki and Tallinn. Often billed alongside Carlina Carpelan, CEB (FI) and Lil Tony. Next up: Kaiku, Helsinki on Sat 19 Sept.
 
@@ -25,4 +25,4 @@ Ojelma is a techno and house artist based in Finland, tracked on soundcheck, wit
 
 Carlina Carpelan, CEB (FI), Lil Tony
 
-*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ojelma/)*
+*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ojelma/)*

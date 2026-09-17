@@ -1,6 +1,6 @@
 # KETTAMA
 
-KETTAMA is a Techno and House artist with 9 upcoming club dates listed on soundcheck as of Wed, 16 Sept 2026, next at Pacha Ibiza, Ibiza on Sun, 20 Sept 2026.
+KETTAMA is a Techno and House artist with 9 upcoming club dates listed on soundcheck as of Thu, 17 Sept 2026, next at Pacha Ibiza, Ibiza on Sun, 20 Sept 2026.
 
 KETTAMA is a techno and house artist tracked on soundcheck, with 246 sets logged across Aberdeen, Amsterdam, Antwerp and Austin and 65 more. Often billed alongside Partiboi69, Ben Hemsley and DJ Heartstring. Next up: Pacha Ibiza, Ibiza on Sun 20 Sept.
 
@@ -33,4 +33,4 @@ KETTAMA is a techno and house artist tracked on soundcheck, with 246 sets logged
 
 Partiboi69, Ben Hemsley, DJ Heartstring
 
-*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kettama/)*
+*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kettama/)*

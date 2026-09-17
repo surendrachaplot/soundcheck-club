@@ -1,14 +1,13 @@
 # Nice N Sleazy
 
-Nice N Sleazy is a music venue in Glasgow with 16 upcoming nights listed on soundcheck as of Wed, 16 Sept 2026; the next is "Shed presents: Usual Suspects + Demi1 // FREE ENTRY" on Wed, 16 Sept 2026.
+Nice N Sleazy is a music venue in Glasgow with 15 upcoming nights listed on soundcheck as of Thu, 17 Sept 2026; the next is "The 909 Society presents: BadBeat (FEAT SPECIAL LIVE GUITAR SET)" on Thu, 17 Sept 2026.
 
-Nice N Sleazy is a music venue in Glasgow listed on soundcheck. 16 upcoming nights, with line-ups including Angel Negrin, Casual Look, Corran and elcammgguod and 2 more. Browse upcoming dates, start times and who's playing. 421 Sauchiehall Street; Glasgow, G2 3LG; Scotland, United Kingdom.
+Nice N Sleazy is a music venue in Glasgow listed on soundcheck. 15 upcoming nights, with line-ups including Angel Negrin, Casual Look, Corran and elcammgguod and 2 more. Browse upcoming dates, start times and who's playing. 421 Sauchiehall Street; Glasgow, G2 3LG; Scotland, United Kingdom.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Wed, 16 Sept 2026 | Shed presents: Usual Suspects + Demi1 // FREE ENTRY |  |
 | Thu, 17 Sept 2026 | The 909 Society presents: BadBeat (FEAT SPECIAL LIVE GUITAR SET) |  |
 | Fri, 18 Sept 2026 | Queer Theory: Garden of Eden | Flava J, Gabor Matty |
 | Sat, 19 Sept 2026 | Gunk w/- Scissor Salad, Alice Austin & PASO | Corran, Marky Marbles, PASO, Temple Sniper, Yuzo |
@@ -18,9 +17,10 @@ Nice N Sleazy is a music venue in Glasgow listed on soundcheck. 16 upcoming nigh
 | Thu, 24 Sept 2026 | Great Grooves Better People |  |
 | Fri, 25 Sept 2026 | DUURTY TECHNO |  |
 | Sat, 26 Sept 2026 | <3<3 Y2K NITE - CASUAL LOOK B2B PEARL NECKLACE <3<3 | Casual Look |
+| Thu, 1 Oct 2026 | CTR: House & Garage |  |
 
 ## Address
 
 421 Sauchiehall Street; Glasgow, G2 3LG; Scotland, United Kingdom, Glasgow
 
-*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/nice-n-sleazy/)*
+*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/nice-n-sleazy/)*

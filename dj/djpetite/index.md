@@ -1,6 +1,6 @@
 # DJ Petite
 
-DJ Petite is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 16 Sept 2026, next at KREUZWERK, Berlin on Sat, 19 Sept 2026.
+DJ Petite is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 17 Sept 2026, next at KREUZWERK, Berlin on Sat, 19 Sept 2026.
 
 DJ Petite is a house and techno artist based in Ireland, tracked on soundcheck, with 56 sets logged across Amsterdam, Athens, Berlin and Brussels and 7 more. Often billed alongside ADAM MUNNINGS, Jonathan Apelbaum and Spikey Lee. Next up: KREUZWERK, Berlin on Sat 19 Sept.
 
@@ -25,4 +25,4 @@ DJ Petite is a house and techno artist based in Ireland, tracked on soundcheck, 
 
 ADAM MUNNINGS, Jonathan Apelbaum, Spikey Lee
 
-*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djpetite/)*
+*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djpetite/)*

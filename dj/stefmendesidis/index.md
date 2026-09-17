@@ -1,6 +1,6 @@
 # Stef Mendesidis
 
-Stef Mendesidis is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Wed, 16 Sept 2026, next at Nitsa Club, Barcelona on Fri, 25 Sept 2026.
+Stef Mendesidis is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Thu, 17 Sept 2026, next at Nitsa Club, Barcelona on Fri, 25 Sept 2026.
 
 Stef Mendesidis is a techno and house artist tracked on soundcheck, with 144 sets logged across Amsterdam, Athens, Barcelona and Belgrade and 43 more. Often billed alongside DAX J, Nastia and SHDW. Next up: Nitsa Club, Barcelona on Fri 25 Sept.
 
@@ -29,4 +29,4 @@ Stef Mendesidis is a techno and house artist tracked on soundcheck, with 144 set
 
 DAX J, Nastia, SHDW
 
-*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/stefmendesidis/)*
+*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/stefmendesidis/)*

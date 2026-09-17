@@ -1,6 +1,6 @@
 # Reeload Classics: The Origins of 140 at 93 Feet East
 
-Reeload Classics: The Origins of 140 at 93 Feet East on Fri 2 Oct, London. Garage and Dubstep. Preview the line-up and save it on soundcheck.
+Reeload Classics: The Origins of 140 at 93 Feet East on Fri 2 Oct, London. Dubstep and Grime. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

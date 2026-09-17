@@ -1,6 +1,6 @@
 # MADTING PRESENTS: GIALLO at Chunhee
 
-MADTING PRESENTS: GIALLO at Chunhee on Fri 18 Sept, Seoul. 2 acts on the bill: MAZE (KR) and Mixtre$$. Techno and Electro. Preview the line-up and save it on soundcheck.
+MADTING PRESENTS: GIALLO at Chunhee on Fri 18 Sept, Seoul. 3 acts on the bill: COOK SWEET, MAZE (KR) and Mixtre$$. Techno and Electro. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ MADTING PRESENTS: GIALLO at Chunhee on Fri 18 Sept, Seoul. 2 acts on the bill: M
 
 ## Line-up
 
+- COOK SWEET
 - MAZE (KR)
 - Mixtre$$
 

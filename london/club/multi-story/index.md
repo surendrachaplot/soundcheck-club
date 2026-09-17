@@ -1,6 +1,6 @@
 # Multi Story
 
-Multi Story is a music venue in London with 4 upcoming nights listed on soundcheck as of Wed, 16 Sept 2026; the next is "Friday Selector: iasc and Fabi (DJs)" on Fri, 18 Sept 2026.
+Multi Story is a music venue in London with 4 upcoming nights listed on soundcheck as of Thu, 17 Sept 2026; the next is "Friday Selector: iasc and Fabi (DJs)" on Fri, 18 Sept 2026.
 
 Multi Story is a music venue in London listed on soundcheck. 4 upcoming nights, with line-ups including AJ Couque, Connor Gray and iasc. Browse upcoming dates, start times and who's playing. Level 6, Peckham Levels, 95a Rye Ln, London SE15 4ST.
 
@@ -17,4 +17,4 @@ Multi Story is a music venue in London listed on soundcheck. 4 upcoming nights, 
 
 Level 6, Peckham Levels, 95a Rye Ln, London SE15 4ST, London
 
-*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/multi-story/)*
+*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/multi-story/)*

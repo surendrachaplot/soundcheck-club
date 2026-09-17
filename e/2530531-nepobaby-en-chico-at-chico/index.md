@@ -1,10 +1,10 @@
 # Nepobaby en CHICO at CHICO
 
-Nepobaby en CHICO on Sat 12 Sept, Mexicocity. Experimental and Electronica. Preview the line-up and save it on soundcheck.
+Nepobaby en CHICO on Fri 18 Sept, Mexicocity. Experimental and Electronica. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
-| Date | Sat, 12 Sept 2026 |
+| Date | Fri, 18 Sept 2026 |
 | Venue | CHICO |
 | City | Mexico City |
 

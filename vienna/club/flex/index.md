@@ -1,18 +1,18 @@
 # Flex
 
-Flex is a music venue in Vienna with 2 upcoming nights listed on soundcheck as of Wed, 16 Sept 2026; the next is "OAGE RAVE pres. ZEROSUM" on Fri, 18 Sept 2026.
+Flex is a music venue in Vienna with 2 upcoming nights listed on soundcheck as of Thu, 17 Sept 2026; the next is "OAGE RAVE pres. ZEROSUM" on Fri, 18 Sept 2026.
 
-Flex is a music venue in Vienna listed on soundcheck. 2 upcoming nights, with line-ups including DIAS and Edictum. Browse upcoming dates, start times and who's playing. Abgang Augartenbruecke; 1010 Vienna; Austria.
+Flex is a music venue in Vienna listed on soundcheck. 2 upcoming nights, with line-ups including DIAS, DJ DIAMOND (2), Edictum and esti.d and 2 more. Browse upcoming dates, start times and who's playing. Abgang Augartenbruecke; 1010 Vienna; Austria.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
 | Fri, 18 Sept 2026 | OAGE RAVE pres. ZEROSUM | DIAS, Edictum |
-| Sat, 3 Oct 2026 | HYPERTRASH - LOUD, QUEER & ANNOYING |  |
+| Sat, 3 Oct 2026 | ★ HYPERTRASH pres. umru ★ | DJ DIAMOND (2), Peter Puenktlich (2), esti.d, hapuk, umru, yarx |
 
 ## Address
 
 Abgang Augartenbruecke; 1010 Vienna; Austria, Vienna
 
-*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/vienna/club/flex/)*
+*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/vienna/club/flex/)*

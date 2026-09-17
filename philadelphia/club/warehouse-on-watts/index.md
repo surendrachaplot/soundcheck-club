@@ -1,6 +1,6 @@
 # Warehouse on Watts
 
-Warehouse on Watts is a music venue in Philadelphia with 14 upcoming nights listed on soundcheck as of Wed, 16 Sept 2026; the next is "Making Time ∞ TRANSCENDENTAL Afterparty with Powder, Spray, DJ Sundae, oma totem + MORE " on Sun, 20 Sept 2026.
+Warehouse on Watts is a music venue in Philadelphia with 14 upcoming nights listed on soundcheck as of Thu, 17 Sept 2026; the next is "Making Time ∞ TRANSCENDENTAL Afterparty with Powder, Spray, DJ Sundae, Maara, oma totem + MORE " on Sun, 20 Sept 2026.
 
 Warehouse on Watts is a music venue in Philadelphia listed on soundcheck. 14 upcoming nights, with line-ups including ANDi MANDi, ARTEMIX, DJ Love and DJ Sundae and 2 more. Browse upcoming dates, start times and who's playing. 923-29 N. Watts St. Philadelphia, PA 19123.
 
@@ -8,7 +8,7 @@ Warehouse on Watts is a music venue in Philadelphia listed on soundcheck. 14 upc
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sun, 20 Sept 2026 | Making Time ∞ TRANSCENDENTAL Afterparty with Powder, Spray, DJ Sundae, oma totem + MORE  | DJ Sundae, Powder, QRTR, Shai FM, Spray, Zillas on Acid, oma totem |
+| Sun, 20 Sept 2026 | Making Time ∞ TRANSCENDENTAL Afterparty with Powder, Spray, DJ Sundae, Maara, oma totem + MORE  | DJ Sundae, Maara, Powder, QRTR, Shai FM, Spray, Zillas on Acid, oma totem |
 | Fri, 25 Sept 2026 | EYE |  |
 | Sat, 26 Sept 2026 | Ravefurrest x The Machine |  |
 | Fri, 2 Oct 2026 | Madwrrld | MADGRRL |
@@ -23,4 +23,4 @@ Warehouse on Watts is a music venue in Philadelphia listed on soundcheck. 14 upc
 
 923-29 N. Watts St. Philadelphia, PA 19123, Philadelphia
 
-*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/philadelphia/club/warehouse-on-watts/)*
+*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/philadelphia/club/warehouse-on-watts/)*

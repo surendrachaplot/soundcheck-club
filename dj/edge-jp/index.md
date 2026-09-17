@@ -1,14 +1,15 @@
 # edge
 
-edge is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 16 Sept 2026, next at R Lounge, Tokyo on Sat, 26 Sept 2026.
+edge is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 17 Sept 2026, next at R Lounge, Tokyo on Sat, 26 Sept 2026.
 
-edge is a house and techno artist based in Japan, tracked on soundcheck, with 58 sets logged across London, Tbilisi and Tokyo. Often billed alongside 35DH-1, Kulage and Takami. Next up: R Lounge, Tokyo on Sat 26 Sept.
+edge is a house and techno artist based in Japan, tracked on soundcheck, with 59 sets logged across London, Tbilisi and Tokyo. Often billed alongside 35DH-1, Kulage and Takami. Next up: R Lounge, Tokyo on Sat 26 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 26 Sept 2026 | R Lounge | Tokyo |
+| Fri, 16 Oct 2026 | Bassiani | Tbilisi |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ edge is a house and techno artist based in Japan, tracked on soundcheck, with 58
 
 35DH-1, Kulage, Takami
 
-*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/edge-jp/)*
+*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/edge-jp/)*

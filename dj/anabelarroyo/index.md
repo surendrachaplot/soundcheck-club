@@ -1,6 +1,6 @@
 # Anabel Arroyo
 
-Anabel Arroyo is a Techno and Trance artist with 5 upcoming club dates listed on soundcheck as of Wed, 16 Sept 2026, next at BASEMENT, New York City on Fri, 18 Sept 2026.
+Anabel Arroyo is a Techno and Trance artist with 5 upcoming club dates listed on soundcheck as of Thu, 17 Sept 2026, next at BASEMENT, New York City on Fri, 18 Sept 2026.
 
 Anabel Arroyo is a techno and trance artist based in Spain, tracked on soundcheck, with 108 sets logged across Amsterdam, Athens, Barcelona and Berlin and 22 more. Often billed alongside James Newmarch, Voicedrone and Blasha & Allatt. Next up: BASEMENT, Newyorkcity on Fri 18 Sept.
 
@@ -29,4 +29,4 @@ Anabel Arroyo is a techno and trance artist based in Spain, tracked on soundchec
 
 James Newmarch, Voicedrone, Blasha & Allatt
 
-*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/anabelarroyo/)*
+*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/anabelarroyo/)*

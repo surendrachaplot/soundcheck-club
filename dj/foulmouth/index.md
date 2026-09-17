@@ -1,8 +1,8 @@
 # FOULMOUTH
 
-FOULMOUTH is a Trance and Experimental artist with 3 upcoming club dates listed on soundcheck as of Wed, 16 Sept 2026, next at Aatma, Manchester on Fri, 18 Sept 2026.
+FOULMOUTH is a Hardcore and Trance artist with 4 upcoming club dates listed on soundcheck as of Thu, 17 Sept 2026, next at Aatma, Manchester on Fri, 18 Sept 2026.
 
-FOULMOUTH is a trance and experimental artist tracked on soundcheck, with 28 sets logged across Leeds and Manchester. Often billed alongside Anop, Princess Elf Bar and Selvasolstice. Next up: Aatma, Manchester on Fri 18 Sept.
+FOULMOUTH is a hardcore and trance artist tracked on soundcheck, with 29 sets logged across Leeds and Manchester. Often billed alongside Anop, FKA Hardcore and Princess Elf Bar. Next up: Aatma, Manchester on Fri 18 Sept.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ FOULMOUTH is a trance and experimental artist tracked on soundcheck, with 28 set
 | --- | --- | --- |
 | Fri, 18 Sept 2026 | Aatma | Manchester |
 | Sat, 19 Sept 2026 | renae | Manchester |
+| Fri, 2 Oct 2026 | The Bag Factory | Manchester |
 | Thu, 8 Oct 2026 | The DBA | Manchester |
 
 ## Recently played
@@ -25,6 +26,6 @@ FOULMOUTH is a trance and experimental artist tracked on soundcheck, with 28 set
 
 ## Shares bills with
 
-Anop, Princess Elf Bar, Selvasolstice
+Anop, FKA Hardcore, Princess Elf Bar
 
-*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/foulmouth/)*
+*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/foulmouth/)*

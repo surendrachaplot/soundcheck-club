@@ -1,13 +1,14 @@
 # Traps N Trees
 
-Traps N Trees is a Club and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 16 Sept 2026, next at Bastet, Philadelphia on Fri, 25 Sept 2026.
+Traps N Trees is a Club and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 17 Sept 2026, next at Upstairs at the 700, Philadelphia on Thu, 17 Sept 2026.
 
-Traps N Trees is a club and techno artist based in United States of America, tracked on soundcheck, with 42 sets logged across Detroit, Newyorkcity, Philadelphia and Toronto. Often billed alongside DJ Sega, DJ Reezey and Hideyoshi. Next up: Bastet, Philadelphia on Fri 25 Sept.
+Traps N Trees is a club and techno artist based in United States of America, tracked on soundcheck, with 43 sets logged across Detroit, Newyorkcity, Philadelphia and Toronto. Often billed alongside DJ Sega, DJ Reezey and Hideyoshi. Next up: Upstairs at the 700, Philadelphia on Thu 17 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Thu, 17 Sept 2026 | Upstairs at the 700 | Philadelphia |
 | Fri, 25 Sept 2026 | Bastet | Philadelphia |
 
 ## Recently played
@@ -25,4 +26,4 @@ Traps N Trees is a club and techno artist based in United States of America, tra
 
 DJ Sega, DJ Reezey, Hideyoshi
 
-*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/trapsntrees/)*
+*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/trapsntrees/)*

@@ -1,6 +1,6 @@
 # Killoverjoy
 
-Killoverjoy is a electronic artist with 2 upcoming club dates listed on soundcheck as of Wed, 16 Sept 2026, next at Studio56, Paris on Fri, 18 Sept 2026.
+Killoverjoy is a electronic artist with 2 upcoming club dates listed on soundcheck as of Thu, 17 Sept 2026, next at Studio56, Paris on Fri, 18 Sept 2026.
 
 Killoverjoy is an electronic artist tracked on soundcheck, with 7 sets logged across Paris. Often billed alongside KAT (1), Sasa and Sasa (FR). Next up: Studio56, Paris on Fri 18 Sept.
 
@@ -23,4 +23,4 @@ Killoverjoy is an electronic artist tracked on soundcheck, with 7 sets logged ac
 
 KAT (1), Sasa, Sasa (FR)
 
-*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/killoverjoy/)*
+*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/killoverjoy/)*

@@ -1,6 +1,6 @@
 # ROHiNA
 
-ROHiNA is a Bass and Amapiano artist with 2 upcoming club dates listed on soundcheck as of Wed, 16 Sept 2026, next at Endeavour, London on Fri, 18 Sept 2026.
+ROHiNA is a Bass and Amapiano artist with 2 upcoming club dates listed on soundcheck as of Thu, 17 Sept 2026, next at Endeavour, London on Fri, 18 Sept 2026.
 
 ROHiNA is a bass and amapiano artist tracked on soundcheck, with 8 sets logged across London. Often billed alongside Olive Juice, Sippin' T and ThatGirlDee. Next up: Endeavour, London on Fri 18 Sept.
 
@@ -24,4 +24,4 @@ ROHiNA is a bass and amapiano artist tracked on soundcheck, with 8 sets logged a
 
 Olive Juice, Sippin' T, ThatGirlDee
 
-*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/rohina/)*
+*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/rohina/)*

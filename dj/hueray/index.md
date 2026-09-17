@@ -1,6 +1,6 @@
 # Hue Ray
 
-Hue Ray is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Wed, 16 Sept 2026, next at Saloon, Tokyo on Sat, 19 Sept 2026.
+Hue Ray is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Thu, 17 Sept 2026, next at Saloon, Tokyo on Sat, 19 Sept 2026.
 
 Hue Ray is a techno and house artist tracked on soundcheck, with 72 sets logged across Kyoto, Osaka and Tokyo. Often billed alongside E.O.U, Vís (1) and arow. Next up: Saloon, Tokyo on Sat 19 Sept.
 
@@ -29,4 +29,4 @@ Hue Ray is a techno and house artist tracked on soundcheck, with 72 sets logged 
 
 E.O.U, Vís (1), arow
 
-*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/hueray/)*
+*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/hueray/)*

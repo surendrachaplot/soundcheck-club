@@ -1,6 +1,6 @@
 # Roland Clark
 
-Roland Clark is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Wed, 16 Sept 2026, next at Do Not Sit On The Furniture, Miami on Wed, 30 Sept 2026.
+Roland Clark is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Thu, 17 Sept 2026, next at Do Not Sit On The Furniture, Miami on Wed, 30 Sept 2026.
 
 Roland Clark is a house and tech house artist tracked on soundcheck, with 13 sets logged across Amsterdam, London, Melbourne and Miami and 2 more. Often billed alongside Gettoblaster, Janika Tenn and Michael Moog. Next up: Do Not Sit On The Furniture, Miami on Wed 30 Sept.
 
@@ -25,4 +25,4 @@ Roland Clark is a house and tech house artist tracked on soundcheck, with 13 set
 
 Gettoblaster, Janika Tenn, Michael Moog
 
-*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/rolandclark/)*
+*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/rolandclark/)*

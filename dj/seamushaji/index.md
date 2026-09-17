@@ -1,6 +1,6 @@
 # Seamus Haji
 
-Seamus Haji is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Wed, 16 Sept 2026, next at Monarch, San Francisco/Oakland on Fri, 18 Sept 2026.
+Seamus Haji is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Thu, 17 Sept 2026, next at Monarch, San Francisco/Oakland on Fri, 18 Sept 2026.
 
 Seamus Haji is a house and disco artist tracked on soundcheck, with 48 sets logged across Amsterdam, Barcelona, Brighton and Bristol and 12 more. Often billed alongside Melvo Baptiste, Horse Meat Disco and Roger Sanchez. Next up: Monarch, Sanfrancisco on Fri 18 Sept.
 
@@ -26,4 +26,4 @@ Seamus Haji is a house and disco artist tracked on soundcheck, with 48 sets logg
 
 Melvo Baptiste, Horse Meat Disco, Roger Sanchez
 
-*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/seamushaji/)*
+*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/seamushaji/)*

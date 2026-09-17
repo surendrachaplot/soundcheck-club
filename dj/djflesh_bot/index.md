@@ -1,6 +1,6 @@
 # DJ Flesh_Bot
 
-DJ Flesh_Bot is a Industrial and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 16 Sept 2026, next at Subterrannean, Chicago on Sat, 19 Sept 2026.
+DJ Flesh_Bot is a Industrial and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 17 Sept 2026, next at Subterrannean, Chicago on Sat, 19 Sept 2026.
 
 DJ Flesh_Bot is an industrial and techno artist based in United States of America, tracked on soundcheck, with 45 sets logged across Chicago, London and Newyorkcity. Often billed alongside DJ Sprite, Dj Licious and Anarchotech. Next up: Subterrannean, Chicago on Sat 19 Sept.
 
@@ -25,4 +25,4 @@ DJ Flesh_Bot is an industrial and techno artist based in United States of Americ
 
 DJ Sprite, Dj Licious, Anarchotech
 
-*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djflesh_bot/)*
+*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djflesh_bot/)*

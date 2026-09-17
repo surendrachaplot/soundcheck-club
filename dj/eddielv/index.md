@@ -1,6 +1,6 @@
 # Eddie Lv
 
-Eddie Lv is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Wed, 16 Sept 2026, next at Orient Express, Seattle on Fri, 18 Sept 2026.
+Eddie Lv is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Thu, 17 Sept 2026, next at Orient Express, Seattle on Fri, 18 Sept 2026.
 
 Eddie Lv is a house and deep house artist tracked on soundcheck, with 5 sets logged across Seattle. Often billed alongside Adam Rose, Ana-Lucid and Chloe Harris. Next up: Orient Express, Seattle on Fri 18 Sept.
 
@@ -21,4 +21,4 @@ Eddie Lv is a house and deep house artist tracked on soundcheck, with 5 sets log
 
 Adam Rose, Ana-Lucid, Chloe Harris
 
-*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/eddielv/)*
+*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/eddielv/)*

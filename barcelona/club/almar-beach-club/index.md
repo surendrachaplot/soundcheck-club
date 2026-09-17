@@ -1,6 +1,6 @@
 # Almar Beach Club
 
-Almar Beach Club is a music venue in Barcelona with 5 upcoming nights listed on soundcheck as of Wed, 16 Sept 2026; the next is "EOK Special Edition - ELECTRO FONDA" on Fri, 18 Sept 2026.
+Almar Beach Club is a music venue in Barcelona with 5 upcoming nights listed on soundcheck as of Thu, 17 Sept 2026; the next is "EOK Special Edition - ELECTRO FONDA" on Fri, 18 Sept 2026.
 
 Almar Beach Club is a music venue in Barcelona listed on soundcheck. 5 upcoming nights, with line-ups including CAZOU, Civaro, Cosmo X and DC81 and 2 more. Browse upcoming dates, start times and who's playing. Carrer de Dolores Ibarruri Pasionaria, 08930 Sant Adrià de Besòs, Barcelona.
 
@@ -18,4 +18,4 @@ Almar Beach Club is a music venue in Barcelona listed on soundcheck. 5 upcoming 
 
 Carrer de Dolores Ibarruri Pasionaria, 08930 Sant Adrià de Besòs, Barcelona, Barcelona
 
-*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/almar-beach-club/)*
+*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/almar-beach-club/)*

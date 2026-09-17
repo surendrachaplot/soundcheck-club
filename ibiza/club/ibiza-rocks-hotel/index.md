@@ -1,14 +1,13 @@
 # Ibiza Rocks Hotel
 
-Ibiza Rocks Hotel is a music venue in Ibiza with 12 upcoming nights listed on soundcheck as of Wed, 16 Sept 2026; the next is "Bingo Brunch powered by Bongo’s Bingo" on Wed, 16 Sept 2026.
+Ibiza Rocks Hotel is a music venue in Ibiza with 11 upcoming nights listed on soundcheck as of Thu, 17 Sept 2026; the next is "ORIGINS" on Fri, 18 Sept 2026.
 
-Ibiza Rocks Hotel is a music venue in Ibiza listed on soundcheck. 12 upcoming nights. Browse upcoming dates, start times and who's playing. Calle Cervantes 27 07820, San Antonio, Ibiza.
+Ibiza Rocks Hotel is a music venue in Ibiza listed on soundcheck. 11 upcoming nights. Browse upcoming dates, start times and who's playing. Calle Cervantes 27 07820, San Antonio, Ibiza.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Wed, 16 Sept 2026 | Bingo Brunch powered by Bongo’s Bingo |  |
 | Fri, 18 Sept 2026 | ORIGINS |  |
 | Sat, 19 Sept 2026 | Ibiza Anthems with Switch Disco |  |
 | Sun, 20 Sept 2026 | R&B Affair Pool Party |  |
@@ -18,9 +17,10 @@ Ibiza Rocks Hotel is a music venue in Ibiza listed on soundcheck. 12 upcoming ni
 | Fri, 25 Sept 2026 | ORIGINS |  |
 | Sat, 26 Sept 2026 | Ibiza Anthems with Switch Disco |  |
 | Sun, 27 Sept 2026 | R&B Affair Pool Party |  |
+| Mon, 28 Sept 2026 | Nothing New Pool Party |  |
 
 ## Address
 
 Calle Cervantes 27 07820, San Antonio, Ibiza, Ibiza
 
-*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/ibiza/club/ibiza-rocks-hotel/)*
+*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/ibiza/club/ibiza-rocks-hotel/)*

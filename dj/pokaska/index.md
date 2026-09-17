@@ -1,13 +1,14 @@
 # Pokaska
 
-Pokaska is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 16 Sept 2026, next at Aoyama Hachi, Tokyo on Fri, 2 Oct 2026.
+Pokaska is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 17 Sept 2026, next at UTOPIA / DYSTOPIA, Tokyo on Fri, 18 Sept 2026.
 
-Pokaska is a techno and house artist based in Japan, tracked on soundcheck, with 34 sets logged across Tokyo. Often billed alongside chanai, uuu7 and Anapol. Next up: Aoyama Hachi, Tokyo on Fri 2 Oct.
+Pokaska is a techno and house artist based in Japan, tracked on soundcheck, with 35 sets logged across Tokyo. Often billed alongside chanai, uuu7 and Anapol. Next up: UTOPIA / DYSTOPIA, Tokyo on Fri 18 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 18 Sept 2026 | UTOPIA / DYSTOPIA | Tokyo |
 | Fri, 2 Oct 2026 | Aoyama Hachi | Tokyo |
 
 ## Recently played
@@ -25,4 +26,4 @@ Pokaska is a techno and house artist based in Japan, tracked on soundcheck, with
 
 chanai, uuu7, Anapol
 
-*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/pokaska/)*
+*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/pokaska/)*

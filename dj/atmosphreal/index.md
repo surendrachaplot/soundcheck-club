@@ -1,6 +1,6 @@
 # Atmosphreal
 
-Atmosphreal is a electronic artist with 2 upcoming club dates listed on soundcheck as of Wed, 16 Sept 2026, next at Tempio del Futuro Perduto, Milan on Sat, 3 Oct 2026.
+Atmosphreal is a electronic artist with 2 upcoming club dates listed on soundcheck as of Thu, 17 Sept 2026, next at Tempio del Futuro Perduto, Milan on Sat, 3 Oct 2026.
 
 Atmosphreal is an electronic artist based in Italy, tracked on soundcheck, with 25 sets logged across Milan. Often billed alongside DRUM THE SYSTEM live, Dolce Potente and Waldo. Next up: Tempio del Futuro Perduto, Milan on Sat 3 Oct.
 
@@ -26,4 +26,4 @@ Atmosphreal is an electronic artist based in Italy, tracked on soundcheck, with 
 
 DRUM THE SYSTEM live, Dolce Potente, Waldo
 
-*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/atmosphreal/)*
+*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/atmosphreal/)*

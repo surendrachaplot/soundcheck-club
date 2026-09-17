@@ -1,14 +1,15 @@
 # 8ULENTINA
 
-8ULENTINA is a Club and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 16 Sept 2026, next at Muziekgebouw aan t' IJ, Amsterdam on Sat, 19 Sept 2026.
+8ULENTINA is a Techno and Club artist with 2 upcoming club dates listed on soundcheck as of Thu, 17 Sept 2026, next at Muziekgebouw aan t' IJ, Amsterdam on Sat, 19 Sept 2026.
 
-8ULENTINA is a club and techno artist based in United States of America, tracked on soundcheck, with 49 sets logged across Amsterdam, Losangeles, Mexicocity and Newyorkcity and 4 more. Often billed alongside Embaci, Doula and DJ Haram. Next up: Muziekgebouw aan t' IJ, Amsterdam on Sat 19 Sept.
+8ULENTINA is a techno and club artist based in United States of America, tracked on soundcheck, with 50 sets logged across Amsterdam, Losangeles, Mexicocity and Newyorkcity and 4 more. Often billed alongside Embaci, Doula and DJ Haram. Next up: Muziekgebouw aan t' IJ, Amsterdam on Sat 19 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 19 Sept 2026 | Muziekgebouw aan t' IJ | Amsterdam |
+| Sun, 11 Oct 2026 | Bossa Nova Civic Club | New York City |
 
 ## Recently played
 
@@ -25,4 +26,4 @@
 
 Embaci, Doula, DJ Haram
 
-*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/8ulentina/)*
+*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/8ulentina/)*

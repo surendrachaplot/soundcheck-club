@@ -1,6 +1,6 @@
 # Azimut Club
 
-Azimut Club is a music venue in Turin with 15 upcoming nights listed on soundcheck as of Wed, 16 Sept 2026; the next is "Trance Italy: TORINO with Pixie Dust, NINNIDSLVX, Syber" on Fri, 18 Sept 2026.
+Azimut Club is a music venue in Turin with 15 upcoming nights listed on soundcheck as of Thu, 17 Sept 2026; the next is "Trance Italy: TORINO with Pixie Dust, NINNIDSLVX, Syber" on Fri, 18 Sept 2026.
 
 Azimut Club is a music venue in Turin listed on soundcheck. 15 upcoming nights, with line-ups including Aberra, Allegretti, Audrey Danza and BASHKKA and 2 more. Browse upcoming dates, start times and who's playing. Via Modena, 55 10153 Torino TO, Italy.
 
@@ -9,7 +9,7 @@ Azimut Club is a music venue in Turin listed on soundcheck. 15 upcoming nights, 
 | Date | Night | Line-up |
 | --- | --- | --- |
 | Fri, 18 Sept 2026 | Trance Italy: TORINO with Pixie Dust, NINNIDSLVX, Syber | NINNIDSLVX, Pixie Dust, Syber |
-| Sat, 19 Sept 2026 | PARAMIDA hosted by EAR\WAX opening night | PARAMIDA |
+| Sat, 19 Sept 2026 | PARAMIDA hosted by EAR\WAX opening night | PARAMIDA, Riverside (IT) |
 | Fri, 25 Sept 2026 | BASHKKA (Club RAUM, Blitz /DE), Rice Papers (Continua, WRD /IT) hosted by Continua | BASHKKA |
 | Sat, 26 Sept 2026 | Dustin Zahn ext set (Enemy Records /USA), Andrea Perna at Azimut Techno Series Opening | Dustin Zahn, Rytm |
 | Sat, 3 Oct 2026 | Moxie hosted by EAR\WAX | Moxie |
@@ -23,4 +23,4 @@ Azimut Club is a music venue in Turin listed on soundcheck. 15 upcoming nights, 
 
 Via Modena, 55 10153 Torino TO, Italy, Turin
 
-*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/turin/club/azimut-club/)*
+*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/turin/club/azimut-club/)*

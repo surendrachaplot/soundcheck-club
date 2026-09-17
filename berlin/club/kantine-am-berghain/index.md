@@ -1,6 +1,6 @@
 # Kantine am Berghain
 
-Kantine am Berghain is a music venue in Berlin with 9 upcoming nights listed on soundcheck as of Wed, 16 Sept 2026; the next is "Blockhead, ProleteR, Arms and Sleepers" on Fri, 25 Sept 2026.
+Kantine am Berghain is a music venue in Berlin with 9 upcoming nights listed on soundcheck as of Thu, 17 Sept 2026; the next is "Blockhead, ProleteR, Arms and Sleepers" on Fri, 25 Sept 2026.
 
 Kantine am Berghain is a music venue in Berlin listed on soundcheck. 9 upcoming nights, with line-ups including Aircraft, Alex P., Blockhead and Do you know Juno and 2 more. Browse upcoming dates, start times and who's playing. 70 Am Wriezener Bahnhof; Friedrichshain; 10243 Berlin; Germany.
 
@@ -22,4 +22,4 @@ Kantine am Berghain is a music venue in Berlin listed on soundcheck. 9 upcoming 
 
 70 Am Wriezener Bahnhof; Friedrichshain; 10243 Berlin; Germany, Berlin
 
-*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/kantine-am-berghain/)*
+*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/kantine-am-berghain/)*

@@ -1,6 +1,6 @@
 # Spriitzz
 
-Spriitzz is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 16 Sept 2026, next at Palladium, Geneva on Sat, 10 Oct 2026.
+Spriitzz is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 17 Sept 2026, next at Palladium, Geneva on Sat, 10 Oct 2026.
 
 Spriitzz is a techno and house artist tracked on soundcheck, with 13 sets logged across Amsterdam, Belfast, Brussels and Cork and 6 more. Often billed alongside Spray, Mall Grab and Sally C. Next up: Palladium, Geneva on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ Spriitzz is a techno and house artist tracked on soundcheck, with 13 sets logged
 
 Spray, Mall Grab, Sally C
 
-*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/spriitzz/)*
+*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/spriitzz/)*

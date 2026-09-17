@@ -1,6 +1,6 @@
 # Enamour
 
-Enamour is a House and Progressive House artist with 4 upcoming club dates listed on soundcheck as of Wed, 16 Sept 2026, next at Akasha Las Dalias Club - Ibiza, Ibiza on Sat, 26 Sept 2026.
+Enamour is a House and Progressive House artist with 4 upcoming club dates listed on soundcheck as of Thu, 17 Sept 2026, next at Akasha Las Dalias Club - Ibiza, Ibiza on Sat, 26 Sept 2026.
 
 Enamour is a house and progressive house artist tracked on soundcheck, with 83 sets logged across Amsterdam, Berlin, Brisbane and Chicago and 19 more. Often billed alongside Lee Burridge, Cassian and Dastan. Next up: Akasha Las Dalias Club - Ibiza, Ibiza on Sat 26 Sept.
 
@@ -28,4 +28,4 @@ Enamour is a house and progressive house artist tracked on soundcheck, with 83 s
 
 Lee Burridge, Cassian, Dastan
 
-*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/enamour/)*
+*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/enamour/)*

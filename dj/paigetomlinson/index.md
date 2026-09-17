@@ -1,6 +1,6 @@
 # Paige Tomlinson
 
-Paige Tomlinson is a House and Tech House artist with 10 upcoming club dates listed on soundcheck as of Wed, 16 Sept 2026, next at Openluchttheater Amersfoort, Amsterdam on Fri, 18 Sept 2026.
+Paige Tomlinson is a House and Tech House artist with 10 upcoming club dates listed on soundcheck as of Thu, 17 Sept 2026, next at Openluchttheater Amersfoort, Amsterdam on Fri, 18 Sept 2026.
 
 Paige Tomlinson is a house and tech house artist tracked on soundcheck, with 159 sets logged across Aberdeen, Amsterdam, Antwerp and Austin and 35 more. Often billed alongside Prunk, L.P. Rhythm and Gaskin. Next up: Openluchttheater Amersfoort, Amsterdam on Fri 18 Sept.
 
@@ -34,4 +34,4 @@ Paige Tomlinson is a house and tech house artist tracked on soundcheck, with 159
 
 Prunk, L.P. Rhythm, Gaskin
 
-*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/paigetomlinson/)*
+*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/paigetomlinson/)*

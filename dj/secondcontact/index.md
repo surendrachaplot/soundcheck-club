@@ -1,6 +1,6 @@
 # Second Contact
 
-Second Contact is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 16 Sept 2026, next at Signal, New York City on Thu, 17 Sept 2026.
+Second Contact is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 17 Sept 2026, next at Signal, New York City on Thu, 17 Sept 2026.
 
 Second Contact is a house and techno artist tracked on soundcheck, with 55 sets logged across Berlin, Dusseldorf, Helsinki and Mexicocity and 4 more. Often billed alongside Amelia Holt, 98dots and Elena Colombi. Next up: Signal, Newyorkcity on Thu 17 Sept.
 
@@ -26,4 +26,4 @@ Second Contact is a house and techno artist tracked on soundcheck, with 55 sets 
 
 Amelia Holt, 98dots, Elena Colombi
 
-*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/secondcontact/)*
+*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/secondcontact/)*

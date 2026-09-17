@@ -1,6 +1,6 @@
 # JLu (MX)
 
-JLu (MX) is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Wed, 16 Sept 2026, next at Dead Letter No. 9, New York City on Sat, 19 Sept 2026.
+JLu (MX) is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Thu, 17 Sept 2026, next at Dead Letter No. 9, New York City on Sat, 19 Sept 2026.
 
 JLu (MX) is a house and deep house artist based in United States of America, tracked on soundcheck, with 9 sets logged across Newyorkcity. Often billed alongside Jeny Michelle, Erin Page and Armen Miran. Next up: Dead Letter No. 9, Newyorkcity on Sat 19 Sept.
 
@@ -25,4 +25,4 @@ JLu (MX) is a house and deep house artist based in United States of America, tra
 
 Jeny Michelle, Erin Page, Armen Miran
 
-*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jlumx/)*
+*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jlumx/)*

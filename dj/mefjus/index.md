@@ -1,6 +1,6 @@
 # Mefjus
 
-Mefjus is a Drum & Bass and Bass artist with 5 upcoming club dates listed on soundcheck as of Wed, 16 Sept 2026, next at Phoenix Landing, Boston on Thu, 17 Sept 2026.
+Mefjus is a Drum & Bass and Bass artist with 5 upcoming club dates listed on soundcheck as of Thu, 17 Sept 2026, next at Phoenix Landing, Boston on Thu, 17 Sept 2026.
 
 Mefjus is a drum & bass and bass artist tracked on soundcheck, with 53 sets logged across Amsterdam, Auckland, Berlin and Boston and 22 more. Often billed alongside Camo & Krooked, Daxta and Black Sun Empire. Next up: Phoenix Landing, Boston on Thu 17 Sept.
 
@@ -29,4 +29,4 @@ Mefjus is a drum & bass and bass artist tracked on soundcheck, with 53 sets logg
 
 Camo & Krooked, Daxta, Black Sun Empire
 
-*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mefjus/)*
+*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mefjus/)*

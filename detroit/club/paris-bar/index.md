@@ -1,13 +1,14 @@
 # Paris Bar
 
-Paris Bar is a music venue in Detroit with 2 upcoming nights listed on soundcheck as of Wed, 16 Sept 2026; the next is "Dolls Night - Paranormal (Year 2)" on Fri, 23 Oct 2026.
+Paris Bar is a music venue in Detroit with 3 upcoming nights listed on soundcheck as of Thu, 17 Sept 2026; the next is "Siren: Venus In Furs" on Sat, 10 Oct 2026.
 
-Paris Bar is a music venue in Detroit listed on soundcheck. 2 upcoming nights, with line-ups including Doula, joycxi, Kenjiro and Tangle Garden (3) and 1 more. Browse upcoming dates, start times and who's playing. 2961 E McNichols Rd, Hamtramck, MI 48212, United States.
+Paris Bar is a music venue in Detroit listed on soundcheck. 3 upcoming nights, with line-ups including Ashton Swinton, Auntie Chanel, Doula and joycxi and 2 more. Browse upcoming dates, start times and who's playing. 2961 E McNichols Rd, Hamtramck, MI 48212, United States.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
+| Sat, 10 Oct 2026 | Siren: Venus In Furs | Ashton Swinton, Auntie Chanel, Kindle, X(S)INA |
 | Fri, 23 Oct 2026 | Dolls Night - Paranormal (Year 2) | Doula, Tangle Garden (3), Venn Diagramm, joycxi |
 | Sun, 1 Nov 2026 | Industrial Detroit - Mvtant, Pink Stiletto, Mechanatura, C.M. Samuels, Kenjiro | Kenjiro |
 
@@ -15,4 +16,4 @@ Paris Bar is a music venue in Detroit listed on soundcheck. 2 upcoming nights, w
 
 2961 E McNichols Rd, Hamtramck, MI 48212, United States, Detroit
 
-*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/detroit/club/paris-bar/)*
+*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/detroit/club/paris-bar/)*

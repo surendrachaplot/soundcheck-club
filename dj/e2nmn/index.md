@@ -1,14 +1,15 @@
 # E2NMN
 
-E2NMN is a Techno and Deep House artist with 1 upcoming club date listed on soundcheck as of Wed, 16 Sept 2026, next at ÆDEN, Berlin on Thu, 24 Sept 2026.
+E2NMN is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 17 Sept 2026, next at ÆDEN, Berlin on Thu, 24 Sept 2026.
 
-E2NMN is a techno and deep house artist tracked on soundcheck, with 35 sets logged across Berlin, Edinburgh, Madrid and Marseille and 4 more. Often billed alongside Jonas Xenon, APRS and Decoder. Next up: ÆDEN, Berlin on Thu 24 Sept.
+E2NMN is a techno and house artist tracked on soundcheck, with 36 sets logged across Berlin, Edinburgh, Madrid and Marseille and 4 more. Often billed alongside Jonas Xenon, APRS and Decoder. Next up: ÆDEN, Berlin on Thu 24 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Thu, 24 Sept 2026 | ÆDEN | Berlin |
+| Sat, 24 Oct 2026 | RSO.BERLIN | Berlin |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ E2NMN is a techno and deep house artist tracked on soundcheck, with 35 sets logg
 
 Jonas Xenon, APRS, Decoder
 
-*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/e2nmn/)*
+*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/e2nmn/)*

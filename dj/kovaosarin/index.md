@@ -1,14 +1,15 @@
 # Kova O' Sarin
 
-Kova O' Sarin is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 16 Sept 2026, next at Mitsuki, Tokyo on Sat, 24 Oct 2026.
+Kova O' Sarin is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 17 Sept 2026, next at Mitsuki, Tokyo on Sat, 24 Oct 2026.
 
-Kova O' Sarin is a techno and house artist based in Thailand, tracked on soundcheck, with 43 sets logged across Bangkok and Tokyo. Often billed alongside Jirus (MELA), DJ Krit Morton and DOTT. Next up: Mitsuki, Tokyo on Sat 24 Oct.
+Kova O' Sarin is a techno and house artist based in Thailand, tracked on soundcheck, with 44 sets logged across Bangkok and Tokyo. Often billed alongside Jirus (MELA), DJ Krit Morton and DOTT. Next up: Mitsuki, Tokyo on Sat 24 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 24 Oct 2026 | Mitsuki | Tokyo |
+| Sat, 31 Oct 2026 | Cloud 11 Hall | Bangkok |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Kova O' Sarin is a techno and house artist based in Thailand, tracked on soundch
 
 Jirus (MELA), DJ Krit Morton, DOTT
 
-*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kovaosarin/)*
+*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kovaosarin/)*

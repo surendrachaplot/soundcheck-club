@@ -1,6 +1,6 @@
 # Charles Hawthorne
 
-Charles Hawthorne is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Wed, 16 Sept 2026, next at 7th West, San Francisco/Oakland on Sun, 27 Sept 2026.
+Charles Hawthorne is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Thu, 17 Sept 2026, next at 7th West, San Francisco/Oakland on Sun, 27 Sept 2026.
 
 Charles Hawthorne is a house and disco artist based in United States of America, tracked on soundcheck, with 43 sets logged across Newyorkcity, Sanfrancisco and Seattle. Often billed alongside nina sol, David Harness and Bored Lord. Next up: 7th West, Sanfrancisco on Sun 27 Sept.
 
@@ -25,4 +25,4 @@ Charles Hawthorne is a house and disco artist based in United States of America,
 
 nina sol, David Harness, Bored Lord
 
-*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/charleshawthorne/)*
+*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/charleshawthorne/)*

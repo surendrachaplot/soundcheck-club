@@ -1,6 +1,6 @@
 # Miguel Gallardo
 
-Miguel Gallardo is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Wed, 16 Sept 2026, next at Green Room NYC, New York City on Fri, 25 Sept 2026.
+Miguel Gallardo is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Thu, 17 Sept 2026, next at Green Room NYC, New York City on Fri, 25 Sept 2026.
 
 Miguel Gallardo is a house and tech house artist based in United States of America, tracked on soundcheck, with 28 sets logged across Losangeles, Miami and Newyorkcity. Often billed alongside RAAUL, Raw Phonics and Sasta. Next up: Green Room NYC, Newyorkcity on Fri 25 Sept.
 
@@ -25,4 +25,4 @@ Miguel Gallardo is a house and tech house artist based in United States of Ameri
 
 RAAUL, Raw Phonics, Sasta
 
-*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/miguelgallardo/)*
+*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/miguelgallardo/)*

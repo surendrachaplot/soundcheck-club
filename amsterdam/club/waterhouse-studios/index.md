@@ -1,6 +1,6 @@
 # Waterhouse Studios
 
-Waterhouse Studios is a music venue in Amsterdam with 8 upcoming nights listed on soundcheck as of Wed, 16 Sept 2026; the next is "For The Rhythm presents: Fort Riddim Vol. 1" on Sat, 19 Sept 2026.
+Waterhouse Studios is a music venue in Amsterdam with 8 upcoming nights listed on soundcheck as of Thu, 17 Sept 2026; the next is "For The Rhythm presents: Fort Riddim Vol. 1" on Sat, 19 Sept 2026.
 
 Waterhouse Studios is a music venue in Amsterdam listed on soundcheck. 8 upcoming nights, with line-ups including After Affair, Alex Pi, André Galluzzi and Dana Ruh and 2 more. Browse upcoming dates, start times and who's playing. Danzigerkade 1, 1013 AP Amsterdam.
 
@@ -21,4 +21,4 @@ Waterhouse Studios is a music venue in Amsterdam listed on soundcheck. 8 upcomin
 
 Danzigerkade 1, 1013 AP Amsterdam, Amsterdam
 
-*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/waterhouse-studios/)*
+*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/waterhouse-studios/)*

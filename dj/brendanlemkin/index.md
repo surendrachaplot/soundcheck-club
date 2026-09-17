@@ -1,14 +1,15 @@
 # Brendan Lemkin
 
-Brendan Lemkin is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 16 Sept 2026, next at Podlasie Club, Chicago on Fri, 25 Sept 2026.
+Brendan Lemkin is a Techno and Psytrance artist with 2 upcoming club dates listed on soundcheck as of Thu, 17 Sept 2026, next at Podlasie Club, Chicago on Fri, 25 Sept 2026.
 
-Brendan Lemkin is a techno and house artist based in United States of America, tracked on soundcheck, with 19 sets logged across Chicago. Often billed alongside Hameedullah, Adam Pits and Aguila. Next up: Podlasie Club, Chicago on Fri 25 Sept.
+Brendan Lemkin is a techno and psytrance artist based in United States of America, tracked on soundcheck, with 20 sets logged across Chicago. Often billed alongside Hameedullah, Hot Take and Jaggy. Next up: Podlasie Club, Chicago on Fri 25 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 25 Sept 2026 | Podlasie Club | Chicago |
+| Sat, 24 Oct 2026 | TBA - Premises | Chicago |
 
 ## Recently played
 
@@ -23,6 +24,6 @@ Brendan Lemkin is a techno and house artist based in United States of America, t
 
 ## Shares bills with
 
-Hameedullah, Adam Pits, Aguila
+Hameedullah, Hot Take, Jaggy
 
-*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/brendanlemkin/)*
+*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/brendanlemkin/)*

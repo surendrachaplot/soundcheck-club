@@ -1,6 +1,6 @@
 # DJ Assault
 
-DJ Assault is a Ghetto Tech and Techno artist with 7 upcoming club dates listed on soundcheck as of Wed, 16 Sept 2026, next at Northern Lights Lounge, Detroit on Sat, 19 Sept 2026.
+DJ Assault is a Ghetto Tech and Techno artist with 7 upcoming club dates listed on soundcheck as of Thu, 17 Sept 2026, next at Northern Lights Lounge, Detroit on Sat, 19 Sept 2026.
 
 DJ Assault is a ghetto tech and techno artist tracked on soundcheck, with 170 sets logged across Amsterdam, Antwerp, Barcelona and Belfast and 43 more. Often billed alongside Fullbodydurag, Sheefy McFly and DJ AYA. Next up: Northern Lights Lounge, Detroit on Sat 19 Sept.
 
@@ -31,4 +31,4 @@ DJ Assault is a ghetto tech and techno artist tracked on soundcheck, with 170 se
 
 Fullbodydurag, Sheefy McFly, DJ AYA
 
-*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djassault/)*
+*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djassault/)*

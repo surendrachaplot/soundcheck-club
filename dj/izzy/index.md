@@ -1,6 +1,6 @@
 # Izzy
 
-Izzy is a House and Tech House artist with 3 upcoming club dates listed on soundcheck as of Wed, 16 Sept 2026, next at All My Friends, London on Sat, 26 Sept 2026.
+Izzy is a House and Tech House artist with 3 upcoming club dates listed on soundcheck as of Thu, 17 Sept 2026, next at All My Friends, London on Sat, 26 Sept 2026.
 
 Izzy is a house and tech house artist based in United States of America, tracked on soundcheck, with 22 sets logged across Amsterdam, Barcelona, Budapest and London and 6 more. Often billed alongside Comrage, Daniel Morgenstern and DANBERG. Next up: All My Friends, London on Sat 26 Sept.
 
@@ -27,4 +27,4 @@ Izzy is a house and tech house artist based in United States of America, tracked
 
 Comrage, Daniel Morgenstern, DANBERG
 
-*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/izzy/)*
+*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/izzy/)*

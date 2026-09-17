@@ -1,6 +1,6 @@
 # Bucktooth T
 
-Bucktooth T is a Garage and Jungle artist with 1 upcoming club date listed on soundcheck as of Wed, 16 Sept 2026, next at Ääniwalli, Helsinki on Sat, 26 Sept 2026.
+Bucktooth T is a Garage and Jungle artist with 1 upcoming club date listed on soundcheck as of Thu, 17 Sept 2026, next at Ääniwalli, Helsinki on Sat, 26 Sept 2026.
 
 Bucktooth T is a garage and jungle artist based in Finland, tracked on soundcheck, with 7 sets logged across Helsinki. Often billed alongside moimar, KOFU and Capo Lee. Next up: Ääniwalli, Helsinki on Sat 26 Sept.
 
@@ -23,4 +23,4 @@ Bucktooth T is a garage and jungle artist based in Finland, tracked on soundchec
 
 moimar, KOFU, Capo Lee
 
-*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bucktootht/)*
+*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bucktootht/)*

@@ -1,6 +1,6 @@
 # JakoJako
 
-JakoJako is a Techno and House artist with 8 upcoming club dates listed on soundcheck as of Wed, 16 Sept 2026, next at Berghain | Panorama Bar | Säule, Berlin on Sat, 19 Sept 2026.
+JakoJako is a Techno and House artist with 8 upcoming club dates listed on soundcheck as of Thu, 17 Sept 2026, next at Berghain | Panorama Bar | Säule, Berlin on Sat, 19 Sept 2026.
 
 JakoJako is a techno and house artist tracked on soundcheck, with 167 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 39 more. Often billed alongside Rødhåd, Barker and Fadi Mohem. Next up: Berghain | Panorama Bar | Säule, Berlin on Sat 19 Sept.
 
@@ -32,4 +32,4 @@ JakoJako is a techno and house artist tracked on soundcheck, with 167 sets logge
 
 Rødhåd, Barker, Fadi Mohem
 
-*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jakojako/)*
+*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jakojako/)*

@@ -1,6 +1,6 @@
 # Melkweg
 
-Melkweg is a music venue in Amsterdam with 48 upcoming nights listed on soundcheck as of Wed, 16 Sept 2026; the next is "SIDEQUEST" on Fri, 18 Sept 2026.
+Melkweg is a music venue in Amsterdam with 48 upcoming nights listed on soundcheck as of Thu, 17 Sept 2026; the next is "SIDEQUEST" on Fri, 18 Sept 2026.
 
 Melkweg is a music venue in Amsterdam listed on soundcheck. 48 upcoming nights, with line-ups including 2HOT2PLAY, Yulia Niko, ABOUT SOFIYA and ALT8 and 2 more. Browse upcoming dates, start times and who's playing. Lijnbaansgracht 234/a, 1017 Binnenstad, Amsterdam.
 
@@ -23,4 +23,4 @@ Melkweg is a music venue in Amsterdam listed on soundcheck. 48 upcoming nights, 
 
 Lijnbaansgracht 234/a, 1017 Binnenstad, Amsterdam, Amsterdam
 
-*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/melkweg/)*
+*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/melkweg/)*

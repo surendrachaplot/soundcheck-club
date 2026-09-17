@@ -1,6 +1,6 @@
 # WD40
 
-WD40 is a Bass and Dub artist with 2 upcoming club dates listed on soundcheck as of Wed, 16 Sept 2026, next at TBA - Secret Location Neukolln, Berlin on Fri, 18 Sept 2026.
+WD40 is a Bass and Dub artist with 2 upcoming club dates listed on soundcheck as of Thu, 17 Sept 2026, next at TBA - Secret Location Neukolln, Berlin on Fri, 18 Sept 2026.
 
 WD40 is a bass and dub artist tracked on soundcheck, with 24 sets logged across Berlin, Chicago, Hamburg and Leipzig. Often billed alongside Lily Haz, Mithra and Newinfluenzer. Next up: TBA - Secret Location Neukolln, Berlin on Fri 18 Sept.
 
@@ -26,4 +26,4 @@ WD40 is a bass and dub artist tracked on soundcheck, with 24 sets logged across 
 
 Lily Haz, Mithra, Newinfluenzer
 
-*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/wd40/)*
+*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/wd40/)*

@@ -1,6 +1,6 @@
 # Bar Fader
 
-Bar Fader is a music venue in Osaka with 3 upcoming nights listed on soundcheck as of Wed, 16 Sept 2026; the next is "HOUSE is HOUSE" on Sun, 27 Sept 2026.
+Bar Fader is a music venue in Osaka with 3 upcoming nights listed on soundcheck as of Thu, 17 Sept 2026; the next is "HOUSE is HOUSE" on Sun, 27 Sept 2026.
 
 Bar Fader is a music venue in Osaka listed on soundcheck. 3 upcoming nights, with line-ups including coolsurf, FUMiC, matres and Rëgret and 2 more. Browse upcoming dates, start times and who's playing. 〒541-0054 Osaka, Chuo Ward, Minamihonmachi, 2 Chome−6−8 メルパシオ本町ビル B1.
 
@@ -16,4 +16,4 @@ Bar Fader is a music venue in Osaka listed on soundcheck. 3 upcoming nights, wit
 
 〒541-0054 Osaka, Chuo Ward, Minamihonmachi, 2 Chome−6−8 メルパシオ本町ビル B1, Osaka
 
-*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/osaka/club/bar-fader/)*
+*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/osaka/club/bar-fader/)*

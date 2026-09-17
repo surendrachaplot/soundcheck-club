@@ -1,6 +1,6 @@
 # Wilman
 
-Wilman is a Drum & Bass and Garage artist with 1 upcoming club date listed on soundcheck as of Wed, 16 Sept 2026, next at Planet Wax, London on Thu, 24 Sept 2026.
+Wilman is a Drum & Bass and Garage artist with 1 upcoming club date listed on soundcheck as of Thu, 17 Sept 2026, next at Planet Wax, London on Thu, 24 Sept 2026.
 
 Wilman is a drum & bass and garage artist tracked on soundcheck, with 13 sets logged across Amsterdam, London, Sanfrancisco and Southampton. Often billed alongside Kara (UK), Randoma and JAY-MO. Next up: Planet Wax, London on Thu 24 Sept.
 
@@ -25,4 +25,4 @@ Wilman is a drum & bass and garage artist tracked on soundcheck, with 13 sets lo
 
 Kara (UK), Randoma, JAY-MO
 
-*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/wilman/)*
+*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/wilman/)*

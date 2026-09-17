@@ -1,14 +1,15 @@
 # Roya Brehl
 
-Roya Brehl is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Wed, 16 Sept 2026, next at The Doghouse bar & Record Store, Leeds on Fri, 18 Sept 2026.
+Roya Brehl is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Thu, 17 Sept 2026, next at The Doghouse bar & Record Store, Leeds on Fri, 18 Sept 2026.
 
-Roya Brehl is a house and tech house artist based in United Kingdom, tracked on soundcheck, with 100 sets logged across Berlin, Bristol, Leeds and London and 1 more. Often billed alongside Phil Warner, Pete Melba and LXK.. Next up: The Doghouse bar & Record Store, Leeds on Fri 18 Sept.
+Roya Brehl is a house and tech house artist based in United Kingdom, tracked on soundcheck, with 101 sets logged across Berlin, Bristol, Leeds and London and 1 more. Often billed alongside Phil Warner, Pete Melba and LXK.. Next up: The Doghouse bar & Record Store, Leeds on Fri 18 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 18 Sept 2026 | The Doghouse bar & Record Store | Leeds |
+| Sat, 17 Oct 2026 | The 212 Café & Bar | Leeds |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Roya Brehl is a house and tech house artist based in United Kingdom, tracked on 
 
 Phil Warner, Pete Melba, LXK.
 
-*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/royabrehl/)*
+*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/royabrehl/)*

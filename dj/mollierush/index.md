@@ -1,19 +1,19 @@
 # Mollie Rush
 
-Mollie Rush is a Hardcore and Techno artist with 3 upcoming club dates listed on soundcheck as of Wed, 16 Sept 2026, next at The Crown, Bristol on Wed, 16 Sept 2026.
+Mollie Rush is a Hardcore and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 17 Sept 2026, next at Hidden, Manchester on Fri, 18 Sept 2026.
 
-Mollie Rush is a hardcore and techno artist tracked on soundcheck, with 32 sets logged across Bristol, Edinburgh, Leeds and London and 3 more. Often billed alongside alterum, CBABY and K-Rush. Next up: The Crown, Bristol on Wed 16 Sept.
+Mollie Rush is a hardcore and techno artist tracked on soundcheck, with 32 sets logged across Bristol, Edinburgh, Leeds and London and 3 more. Often billed alongside alterum, CBABY and K-Rush. Next up: Hidden, Manchester on Fri 18 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Wed, 16 Sept 2026 | The Crown | Bristol |
 | Fri, 18 Sept 2026 | Hidden | Manchester |
 | Sat, 26 Sept 2026 | The Trinity Centre | Bristol |
 
 ## Recently played
 
+- The Crown, Bristol — Wed, 16 Sept 2026
 - Club360, London — Fri, 11 Sept 2026
 - The DBA, Manchester — Thu, 11 Jun 2026
 - Sidney & Matilda, Sheffield — Fri, 15 May 2026
@@ -21,10 +21,9 @@ Mollie Rush is a hardcore and techno artist tracked on soundcheck, with 32 sets 
 - Shredenhams, Bristol — Fri, 10 Apr 2026
 - The Loco Klub, Bristol — Sat, 10 Jan 2026
 - Beaver Works, Leeds — Wed, 31 Dec 2025
-- The Jam Jar, Bristol — Fri, 12 Dec 2025
 
 ## Shares bills with
 
 alterum, CBABY, K-Rush
 
-*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mollierush/)*
+*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mollierush/)*

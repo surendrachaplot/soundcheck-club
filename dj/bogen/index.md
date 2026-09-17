@@ -1,6 +1,6 @@
 # Bøgen
 
-Bøgen is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 16 Sept 2026, next at Klunkerkranich, Berlin on Fri, 18 Sept 2026.
+Bøgen is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 17 Sept 2026, next at Klunkerkranich, Berlin on Fri, 18 Sept 2026.
 
 Bøgen is a techno and house artist based in Chile, tracked on soundcheck, with 44 sets logged across Amsterdam, Berlin, Prague and Stockholm. Often billed alongside Vlad Yaki, Hugorieri and Leah Marie. Next up: Klunkerkranich, Berlin on Fri 18 Sept.
 
@@ -25,4 +25,4 @@ Bøgen is a techno and house artist based in Chile, tracked on soundcheck, with 
 
 Vlad Yaki, Hugorieri, Leah Marie
 
-*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bogen/)*
+*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bogen/)*

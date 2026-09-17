@@ -1,6 +1,6 @@
 # Guido Iacovitti
 
-Guido Iacovitti is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Wed, 16 Sept 2026, next at Banja Luka, Berlin on Fri, 9 Oct 2026.
+Guido Iacovitti is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 17 Sept 2026, next at Banja Luka, Berlin on Fri, 9 Oct 2026.
 
 Guido Iacovitti is a techno and house artist tracked on soundcheck, with 25 sets logged across Berlin. Often billed alongside Gforty, Bconscious and Sciarada. Next up: Banja Luka, Berlin on Fri 9 Oct.
 
@@ -26,4 +26,4 @@ Guido Iacovitti is a techno and house artist tracked on soundcheck, with 25 sets
 
 Gforty, Bconscious, Sciarada
 
-*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/guidoiacovitti/)*
+*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/guidoiacovitti/)*

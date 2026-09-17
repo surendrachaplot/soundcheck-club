@@ -1,6 +1,6 @@
 # Fitzroy
 
-Fitzroy is a music venue in Berlin with 11 upcoming nights listed on soundcheck as of Wed, 16 Sept 2026; the next is "CONNECT with Viikatory & Amy Dabbs" on Fri, 18 Sept 2026.
+Fitzroy is a music venue in Berlin with 11 upcoming nights listed on soundcheck as of Thu, 17 Sept 2026; the next is "CONNECT with Viikatory & Amy Dabbs" on Fri, 18 Sept 2026.
 
 Fitzroy is a music venue in Berlin listed on soundcheck. 11 upcoming nights, with line-ups including 3Hertz, 5RVZ, Akua and Amy Dabbs and 2 more. Browse upcoming dates, start times and who's playing. Holzmarktstraße 15, 10179 Berlin, Germany.
 
@@ -23,4 +23,4 @@ Fitzroy is a music venue in Berlin listed on soundcheck. 11 upcoming nights, wit
 
 Holzmarktstraße 15, 10179 Berlin, Germany, Berlin
 
-*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/fitzroy/)*
+*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/fitzroy/)*

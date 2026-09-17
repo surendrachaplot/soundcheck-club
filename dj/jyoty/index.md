@@ -1,6 +1,6 @@
 # Jyoty
 
-Jyoty is a House and Techno artist with 10 upcoming club dates listed on soundcheck as of Wed, 16 Sept 2026, next at TBA - DTLA Warehouse, Los Angeles on Fri, 18 Sept 2026.
+Jyoty is a House and Techno artist with 10 upcoming club dates listed on soundcheck as of Thu, 17 Sept 2026, next at TBA - DTLA Warehouse, Los Angeles on Fri, 18 Sept 2026.
 
 Jyoty is a house and techno artist tracked on soundcheck, with 138 sets logged across Amsterdam, Athens, Auckland and Bali and 42 more. Often billed alongside Skrillex, Overmono and Ben UFO. Next up: TBA - DTLA Warehouse, Losangeles on Fri 18 Sept.
 
@@ -34,4 +34,4 @@ Jyoty is a house and techno artist tracked on soundcheck, with 138 sets logged a
 
 Skrillex, Overmono, Ben UFO
 
-*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jyoty/)*
+*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jyoty/)*

@@ -1,6 +1,6 @@
 # Lady Witch
 
-Lady Witch is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 16 Sept 2026, next at TBA, San Francisco/Oakland on Fri, 18 Sept 2026.
+Lady Witch is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 17 Sept 2026, next at TBA, San Francisco/Oakland on Fri, 18 Sept 2026.
 
 Lady Witch is a techno and house artist based in United States of America, tracked on soundcheck, with 66 sets logged across Boston, Detroit and Sanfrancisco. Often billed alongside Misanthropia Narcissus, Lo Dazz and Kenjiro. Next up: TBA, Sanfrancisco on Fri 18 Sept.
 
@@ -25,4 +25,4 @@ Lady Witch is a techno and house artist based in United States of America, track
 
 Misanthropia Narcissus, Lo Dazz, Kenjiro
 
-*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ladywitch/)*
+*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ladywitch/)*

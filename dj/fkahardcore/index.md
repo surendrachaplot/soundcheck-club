@@ -1,14 +1,15 @@
 # FKA Hardcore
 
-FKA Hardcore is a Hardcore and Jungle artist with 2 upcoming club dates listed on soundcheck as of Wed, 16 Sept 2026, next at Plot 22, Sheffield on Fri, 18 Sept 2026.
+FKA Hardcore is a Hardcore and Jungle artist with 3 upcoming club dates listed on soundcheck as of Thu, 17 Sept 2026, next at Plot 22, Sheffield on Fri, 18 Sept 2026.
 
-FKA Hardcore is a hardcore and jungle artist based in United Kingdom, tracked on soundcheck, with 36 sets logged across Bristol, London, Manchester and Nottingham and 1 more. Often billed alongside Yyre, DJ Soyboi and djlaundrybasket. Next up: Plot 22, Sheffield on Fri 18 Sept.
+FKA Hardcore is a hardcore and jungle artist based in United Kingdom, tracked on soundcheck, with 37 sets logged across Bristol, London, Manchester and Nottingham and 1 more. Often billed alongside Yyre, DJ Soyboi and djlaundrybasket. Next up: Plot 22, Sheffield on Fri 18 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 18 Sept 2026 | Plot 22 | Sheffield |
+| Fri, 2 Oct 2026 | The Bag Factory | Manchester |
 | Sat, 3 Oct 2026 | Billy Bootleggers | Nottingham |
 
 ## Recently played
@@ -26,4 +27,4 @@ FKA Hardcore is a hardcore and jungle artist based in United Kingdom, tracked on
 
 Yyre, DJ Soyboi, djlaundrybasket
 
-*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/fkahardcore/)*
+*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/fkahardcore/)*

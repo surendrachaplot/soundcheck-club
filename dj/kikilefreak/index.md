@@ -1,6 +1,6 @@
 # Kiki LeFreak
 
-Kiki LeFreak is a House and Disco artist with 4 upcoming club dates listed on soundcheck as of Wed, 16 Sept 2026, next at Lee's Palace, Toronto on Fri, 18 Sept 2026.
+Kiki LeFreak is a House and Disco artist with 4 upcoming club dates listed on soundcheck as of Thu, 17 Sept 2026, next at Lee's Palace, Toronto on Fri, 18 Sept 2026.
 
 Kiki LeFreak is a house and disco artist tracked on soundcheck, with 122 sets logged across Chicago, Detroit, Mexicocity and Toronto. Often billed alongside Vjollca, Iced Misto and Jodie D. Next up: Lee's Palace, Toronto on Fri 18 Sept.
 
@@ -28,4 +28,4 @@ Kiki LeFreak is a house and disco artist tracked on soundcheck, with 122 sets lo
 
 Vjollca, Iced Misto, Jodie D
 
-*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kikilefreak/)*
+*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kikilefreak/)*

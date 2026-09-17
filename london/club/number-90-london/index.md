@@ -1,6 +1,6 @@
 # NUMBER 90 LONDON
 
-NUMBER 90 LONDON is a music venue in London with 22 upcoming nights listed on soundcheck as of Wed, 16 Sept 2026; the next is "Faem e Li" on Sat, 19 Sept 2026.
+NUMBER 90 LONDON is a music venue in London with 22 upcoming nights listed on soundcheck as of Thu, 17 Sept 2026; the next is "Faem e Li" on Sat, 19 Sept 2026.
 
 NUMBER 90 LONDON is a music venue in London listed on soundcheck. 22 upcoming nights, with line-ups including 1BYAKKO, Mariiin, Ruby SD and Alisdair and 2 more. Browse upcoming dates, start times and who's playing. 90 Main Yard; Wallis Road; London E9 5LN; United Kingdom.
 
@@ -10,7 +10,7 @@ NUMBER 90 LONDON is a music venue in London listed on soundcheck. 22 upcoming ni
 | --- | --- | --- |
 | Sat, 19 Sept 2026 | Faem e Li |  |
 | Thu, 24 Sept 2026 | Cosmo's Midnight |  |
-| Fri, 25 Sept 2026 | Sweet Greens Vol. III - No.90 | Darley, Dolce Verde |
+| Fri, 25 Sept 2026 | Sweet Greens Vol. III - No.90 | Ben E, Darley, Dolce Verde |
 | Sat, 26 Sept 2026 | Jonetsu | Colin Dale, Guido Nemola, Joe Smooth, MAEDON, Mike Anderson, Teknobrat, Wade Teo |
 | Sun, 27 Sept 2026 | Snooze After Hours | Blenk, Desiree', Field Case, LORKIK, SBBS, Silpagare, Slumber |
 | Sun, 27 Sept 2026 | ONE OF US Madz 'Madagascar' Saleem — A London Club Culture Celebration |  |
@@ -23,4 +23,4 @@ NUMBER 90 LONDON is a music venue in London listed on soundcheck. 22 upcoming ni
 
 90 Main Yard; Wallis Road; London E9 5LN; United Kingdom, London
 
-*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/number-90-london/)*
+*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/number-90-london/)*

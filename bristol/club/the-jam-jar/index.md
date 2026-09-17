@@ -1,6 +1,6 @@
 # The Jam Jar
 
-The Jam Jar is a music venue in Bristol with 7 upcoming nights listed on soundcheck as of Wed, 16 Sept 2026; the next is "Women of Wax w/ Norsicaa" on Thu, 17 Sept 2026.
+The Jam Jar is a music venue in Bristol with 7 upcoming nights listed on soundcheck as of Thu, 17 Sept 2026; the next is "Women of Wax w/ Norsicaa" on Thu, 17 Sept 2026.
 
 The Jam Jar is a music venue in Bristol listed on soundcheck. 7 upcoming nights, with line-ups including 2 Bad Mice, Abby Daze, Chamba and Charlie Stoic and 2 more. Browse upcoming dates, start times and who's playing. Little Ann St, Bristol BS2 9EB, United Kingdom.
 
@@ -20,4 +20,4 @@ The Jam Jar is a music venue in Bristol listed on soundcheck. 7 upcoming nights,
 
 Little Ann St, Bristol BS2 9EB, United Kingdom, Bristol
 
-*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/bristol/club/the-jam-jar/)*
+*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/bristol/club/the-jam-jar/)*

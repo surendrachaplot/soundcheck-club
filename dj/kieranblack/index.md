@@ -1,6 +1,6 @@
 # Kieran Black
 
-Kieran Black is a House and Electro artist with 1 upcoming club date listed on soundcheck as of Wed, 16 Sept 2026, next at The Doghouse bar & Record Store, Leeds on Fri, 18 Sept 2026.
+Kieran Black is a House and Electro artist with 1 upcoming club date listed on soundcheck as of Thu, 17 Sept 2026, next at The Doghouse bar & Record Store, Leeds on Fri, 18 Sept 2026.
 
 Kieran Black is a house and electro artist based in United Kingdom, tracked on soundcheck, with 12 sets logged across Leeds. Often billed alongside Roya Brehl, BP (1) and Joe Reece. Next up: The Doghouse bar & Record Store, Leeds on Fri 18 Sept.
 
@@ -25,4 +25,4 @@ Kieran Black is a house and electro artist based in United Kingdom, tracked on s
 
 Roya Brehl, BP (1), Joe Reece
 
-*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kieranblack/)*
+*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kieranblack/)*

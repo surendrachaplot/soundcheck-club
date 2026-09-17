@@ -1,6 +1,6 @@
 # The Eagle of Detroit
 
-The Eagle of Detroit is a music venue in Detroit with 3 upcoming nights listed on soundcheck as of Wed, 16 Sept 2026; the next is "TOP2BTTM presents: OPEN CALL (Sexy Underwear Contest, Drag Performers, + more)" on Fri, 18 Sept 2026.
+The Eagle of Detroit is a music venue in Detroit with 3 upcoming nights listed on soundcheck as of Thu, 17 Sept 2026; the next is "TOP2BTTM presents: OPEN CALL (Sexy Underwear Contest, Drag Performers, + more)" on Fri, 18 Sept 2026.
 
 The Eagle of Detroit is a music venue in Detroit listed on soundcheck. 3 upcoming nights, with line-ups including ang31t3ch, Fullbodydurag, Wax Assassin and we1sman. Browse upcoming dates, start times and who's playing. 950 West McNichols.
 
@@ -16,4 +16,4 @@ The Eagle of Detroit is a music venue in Detroit listed on soundcheck. 3 upcomin
 
 950 West McNichols, Detroit
 
-*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/detroit/club/the-eagle-of-detroit/)*
+*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/detroit/club/the-eagle-of-detroit/)*

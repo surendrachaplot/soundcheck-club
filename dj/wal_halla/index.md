@@ -1,6 +1,6 @@
 # Wal_Halla
 
-Wal_Halla is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Wed, 16 Sept 2026, next at FLUCC, Vienna on Fri, 2 Oct 2026.
+Wal_Halla is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Thu, 17 Sept 2026, next at FLUCC, Vienna on Fri, 2 Oct 2026.
 
 Wal_Halla is a techno and trance artist based in Austria, tracked on soundcheck, with 18 sets logged across Vienna. Often billed alongside MELIMEKO, Ele Luz and Ainhoa G. Next up: FLUCC, Vienna on Fri 2 Oct.
 
@@ -25,4 +25,4 @@ Wal_Halla is a techno and trance artist based in Austria, tracked on soundcheck,
 
 MELIMEKO, Ele Luz, Ainhoa G
 
-*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/wal_halla/)*
+*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/wal_halla/)*

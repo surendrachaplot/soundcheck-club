@@ -1,6 +1,6 @@
 # Angelo Mike
 
-Angelo Mike is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 16 Sept 2026, next at Reddo Warsaw Club, Warsaw on Fri, 9 Oct 2026.
+Angelo Mike is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 17 Sept 2026, next at Reddo Warsaw Club, Warsaw on Fri, 9 Oct 2026.
 
 Angelo Mike is a techno and house artist based in Poland, tracked on soundcheck, with 57 sets logged across Krakow and Warsaw. Often billed alongside Konca, Kuvau and NuCasa. Next up: Reddo Warsaw Club, Warsaw on Fri 9 Oct.
 
@@ -25,4 +25,4 @@ Angelo Mike is a techno and house artist based in Poland, tracked on soundcheck,
 
 Konca, Kuvau, NuCasa
 
-*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/angelomike/)*
+*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/angelomike/)*

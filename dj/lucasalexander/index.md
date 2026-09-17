@@ -1,8 +1,8 @@
 # Lucas Alexander
 
-Lucas Alexander is a Tech House and House artist with 3 upcoming club dates listed on soundcheck as of Wed, 16 Sept 2026, next at 528 Ibiza, Ibiza on Fri, 18 Sept 2026.
+Lucas Alexander is a Tech House and House artist with 4 upcoming club dates listed on soundcheck as of Thu, 17 Sept 2026, next at 528 Ibiza, Ibiza on Fri, 18 Sept 2026.
 
-Lucas Alexander is a tech house and house artist based in United Kingdom, tracked on soundcheck, with 44 sets logged across Brighton, Bristol, Cardiff and Dublin and 13 more. Often billed alongside Cut the Rug, Reeshy and Incus. Next up: 528 Ibiza, Ibiza on Fri 18 Sept.
+Lucas Alexander is a tech house and house artist based in United Kingdom, tracked on soundcheck, with 45 sets logged across Brighton, Bristol, Cardiff and Dublin and 13 more. Often billed alongside Cut the Rug, Reeshy and Incus. Next up: 528 Ibiza, Ibiza on Fri 18 Sept.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ Lucas Alexander is a tech house and house artist based in United Kingdom, tracke
 | Fri, 18 Sept 2026 | 528 Ibiza | Ibiza |
 | Sat, 19 Sept 2026 | Honey Street Studio | Manchester |
 | Sat, 17 Oct 2026 | The Dome | Liverpool |
+| Fri, 30 Oct 2026 | Patterns | Brighton |
 
 ## Recently played
 
@@ -27,4 +28,4 @@ Lucas Alexander is a tech house and house artist based in United Kingdom, tracke
 
 Cut the Rug, Reeshy, Incus
 
-*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lucasalexander/)*
+*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lucasalexander/)*

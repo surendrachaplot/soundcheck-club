@@ -1,6 +1,6 @@
 # M.I.L.K feat. 2H34RTB34TS present HARD R3S3T at Nether Club
 
-M.I.L.K feat. 2H34RTB34TS present HARD R3S3T at Nether Club on Fri 18 Sept, Bucharest. 9 acts on the bill: AMEDEUS, Amnesico, DA NA and GODINI and 5 more. Techno. Preview the line-up and save it on soundcheck.
+M.I.L.K feat. 2H34RTB34TS present HARD R3S3T at Nether Club on Fri 18 Sept, Bucharest. 10 acts on the bill: AMEDEUS, Amnesico, DA NA and GODINI and 6 more. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -16,6 +16,7 @@ M.I.L.K feat. 2H34RTB34TS present HARD R3S3T at Nether Club on Fri 18 Sept, Buch
 - GODINI
 - KATHERYNE
 - LVUR
+- Mthyas
 - Sandraz
 - Stefan Hernandez
 - Trancelate

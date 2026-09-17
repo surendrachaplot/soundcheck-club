@@ -1,6 +1,6 @@
 # Angel Linde
 
-Angel Linde is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Wed, 16 Sept 2026, next at Tipic., Ibiza on Sat, 19 Sept 2026.
+Angel Linde is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Thu, 17 Sept 2026, next at Tipic., Ibiza on Sat, 19 Sept 2026.
 
 Angel Linde is a house and minimal artist tracked on soundcheck, with 14 sets logged across Ibiza. Often billed alongside Carlos Vila, Ida Engberg and Kolsch. Next up: Tipic., Ibiza on Sat 19 Sept.
 
@@ -25,4 +25,4 @@ Angel Linde is a house and minimal artist tracked on soundcheck, with 14 sets lo
 
 Carlos Vila, Ida Engberg, Kolsch
 
-*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/angellinde/)*
+*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/angellinde/)*

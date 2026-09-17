@@ -1,6 +1,6 @@
 # RA25 x Tresor Berlin at Tresor / Globus
 
-RA25 x Tresor Berlin at Tresor / Globus on Sat 21 Nov, Berlin. 20 acts on the bill: Akua, Appleblim, Beatrice M. and Bored Lord and 16 more. Preview the line-up and save it on soundcheck.
+RA25 x Tresor Berlin at Tresor / Globus on Sat 21 Nov, Berlin. 21 acts on the bill: Akua, Appleblim, Bandulu and Beatrice M. and 17 more. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -12,6 +12,7 @@ RA25 x Tresor Berlin at Tresor / Globus on Sat 21 Nov, Berlin. 20 acts on the bi
 
 - Akua
 - Appleblim
+- Bandulu
 - Beatrice M.
 - Bored Lord
 - Buttechno

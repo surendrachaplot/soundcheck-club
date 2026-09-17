@@ -1,6 +1,6 @@
 # Knockdown Center
 
-Knockdown Center is a music venue in New York City with 19 upcoming nights listed on soundcheck as of Wed, 16 Sept 2026; the next is "Brunello presents Mellow Circus" on Sun, 20 Sept 2026.
+Knockdown Center is a music venue in New York City with 19 upcoming nights listed on soundcheck as of Thu, 17 Sept 2026; the next is "Brunello presents Mellow Circus" on Sun, 20 Sept 2026.
 
 Knockdown Center is a music venue in Newyorkcity listed on soundcheck. 19 upcoming nights, with line-ups including 19:26, Afem Syko, Anastazja and Bee Chapin and 2 more. Browse upcoming dates, start times and who's playing. 52-19 Flushing Ave., Queens, NY 11378 USA.
 
@@ -23,4 +23,4 @@ Knockdown Center is a music venue in Newyorkcity listed on soundcheck. 19 upcomi
 
 52-19 Flushing Ave., Queens, NY 11378 USA, New York City
 
-*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/knockdown-center/)*
+*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/knockdown-center/)*

@@ -1,6 +1,6 @@
 # Dydaa Forne
 
-Dydaa Forne is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Wed, 16 Sept 2026, next at Der Weiße Hase, Berlin on Fri, 18 Sept 2026.
+Dydaa Forne is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 17 Sept 2026, next at Der Weiße Hase, Berlin on Fri, 18 Sept 2026.
 
 Dydaa Forne is a techno and house artist based in Germany, tracked on soundcheck, with 50 sets logged across Berlin and Hamburg. Often billed alongside vom Feisten, Daniel Neuland and Martin Ka. Next up: Der Weiße Hase, Berlin on Fri 18 Sept.
 
@@ -26,4 +26,4 @@ Dydaa Forne is a techno and house artist based in Germany, tracked on soundcheck
 
 vom Feisten, Daniel Neuland, Martin Ka
 
-*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dydaaforne/)*
+*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dydaaforne/)*

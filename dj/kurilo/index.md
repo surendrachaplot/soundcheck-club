@@ -1,6 +1,6 @@
 # Kurilo
 
-Kurilo is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Wed, 16 Sept 2026, next at Silence Please, New York City on Thu, 17 Sept 2026.
+Kurilo is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Thu, 17 Sept 2026, next at Silence Please, New York City on Thu, 17 Sept 2026.
 
 Kurilo is a house and techno artist tracked on soundcheck, with 119 sets logged across Berlin, Boston, Detroit and Losangeles and 7 more. Often billed alongside J. Richards, Mazko A and CAMILLA. Next up: Silence Please, Newyorkcity on Thu 17 Sept.
 
@@ -29,4 +29,4 @@ Kurilo is a house and techno artist tracked on soundcheck, with 119 sets logged 
 
 J. Richards, Mazko A, CAMILLA
 
-*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kurilo/)*
+*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kurilo/)*

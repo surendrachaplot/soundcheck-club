@@ -1,6 +1,6 @@
 # LARIFARI
 
-LARIFARI is a Electronica and Funk / Soul artist with 1 upcoming club date listed on soundcheck as of Wed, 16 Sept 2026, next at Bahnwärter Thiel, Munich on Fri, 9 Oct 2026.
+LARIFARI is a Electronica and Funk / Soul artist with 1 upcoming club date listed on soundcheck as of Thu, 17 Sept 2026, next at Bahnwärter Thiel, Munich on Fri, 9 Oct 2026.
 
 LARIFARI is an electronica and funk / soul artist based in Austria, tracked on soundcheck, with 5 sets logged across Munich and Vienna. Often billed alongside DJ Nebelmaschine, Anna Lazer and Bi Män. Next up: Bahnwärter Thiel, Munich on Fri 9 Oct.
 
@@ -21,4 +21,4 @@ LARIFARI is an electronica and funk / soul artist based in Austria, tracked on s
 
 DJ Nebelmaschine, Anna Lazer, Bi Män
 
-*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/larifari/)*
+*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/larifari/)*

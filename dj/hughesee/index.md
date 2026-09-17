@@ -1,6 +1,6 @@
 # Hughesee
 
-Hughesee is a Jungle and Hardcore artist with 2 upcoming club dates listed on soundcheck as of Wed, 16 Sept 2026, next at The Loco Klub, Bristol on Fri, 18 Sept 2026.
+Hughesee is a Jungle and Hardcore artist with 2 upcoming club dates listed on soundcheck as of Thu, 17 Sept 2026, next at The Loco Klub, Bristol on Fri, 18 Sept 2026.
 
 Hughesee is a jungle and hardcore artist based in United Kingdom, tracked on soundcheck, with 107 sets logged across Amsterdam, Berlin, Bristol and Glasgow and 4 more. Often billed alongside Louise Plus One, Equinox (UK) and DJ Azure. Next up: The Loco Klub, Bristol on Fri 18 Sept.
 
@@ -26,4 +26,4 @@ Hughesee is a jungle and hardcore artist based in United Kingdom, tracked on sou
 
 Louise Plus One, Equinox (UK), DJ Azure
 
-*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/hughesee/)*
+*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/hughesee/)*

@@ -1,6 +1,6 @@
 # Signal
 
-Signal is a music venue in New York City with 20 upcoming nights listed on soundcheck as of Wed, 16 Sept 2026; the next is "Honey Trap with Blu:sh, Jane Margarette b2b Amelia Holt, Second Contact" on Thu, 17 Sept 2026.
+Signal is a music venue in New York City with 20 upcoming nights listed on soundcheck as of Thu, 17 Sept 2026; the next is "Honey Trap with Blu:sh, Jane Margarette b2b Amelia Holt, Second Contact" on Thu, 17 Sept 2026.
 
 Signal is a music venue in Newyorkcity listed on soundcheck. 20 upcoming nights, with line-ups including 1morning, 98dots, LYDO and AceMo and 2 more. Browse upcoming dates, start times and who's playing. 175 Morgan Ave, Brooklyn, NY 11237.
 
@@ -23,4 +23,4 @@ Signal is a music venue in Newyorkcity listed on soundcheck. 20 upcoming nights,
 
 175 Morgan Ave, Brooklyn, NY 11237, New York City
 
-*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/signal/)*
+*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/signal/)*

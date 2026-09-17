@@ -1,6 +1,6 @@
 # Herk
 
-Herk is a Drum & Bass and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 16 Sept 2026, next at Mad Radio, Barcelona on Sun, 20 Sept 2026.
+Herk is a Drum & Bass and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 17 Sept 2026, next at Mad Radio, Barcelona on Sun, 20 Sept 2026.
 
 Herk is a drum & bass and techno artist based in Argentina, tracked on soundcheck, with 14 sets logged across Barcelona. Often billed alongside Prime Bassound, MC Stormy and Meltman. Next up: Mad Radio, Barcelona on Sun 20 Sept.
 
@@ -25,4 +25,4 @@ Herk is a drum & bass and techno artist based in Argentina, tracked on soundchec
 
 Prime Bassound, MC Stormy, Meltman
 
-*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/herk/)*
+*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/herk/)*

@@ -1,6 +1,6 @@
 # Bby Eco
 
-Bby Eco is a Experimental and Electronica artist with 1 upcoming club date listed on soundcheck as of Wed, 16 Sept 2026, next at Modeci, Seoul on Fri, 18 Sept 2026.
+Bby Eco is a Experimental and Electronica artist with 1 upcoming club date listed on soundcheck as of Thu, 17 Sept 2026, next at Modeci, Seoul on Fri, 18 Sept 2026.
 
 Bby Eco is an experimental and electronica artist tracked on soundcheck, with 17 sets logged across Amsterdam, Barcelona, Berlin and Bristol and 8 more. Often billed alongside Ouri, Aaron Dilloway and Actress. Next up: Modeci, Seoul on Fri 18 Sept.
 
@@ -25,4 +25,4 @@ Bby Eco is an experimental and electronica artist tracked on soundcheck, with 17
 
 Ouri, Aaron Dilloway, Actress
 
-*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bbyeco/)*
+*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bbyeco/)*

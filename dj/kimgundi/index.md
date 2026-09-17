@@ -1,6 +1,6 @@
 # Kimgundi
 
-Kimgundi is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 16 Sept 2026, next at Stoked&stoned, Seoul on Mon, 14 Sept 2026.
+Kimgundi is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 17 Sept 2026, next at Stoked&stoned, Seoul on Mon, 14 Sept 2026.
 
 Kimgundi is a house and techno artist based in South Korea, tracked on soundcheck, with 70 sets logged across Barcelona, Berlin, Munich and Seoul and 1 more. Often billed alongside Haemin Kim, JNS and Gyusco. Next up: Stoked&stoned, Seoul on Mon 14 Sept.
 
@@ -26,4 +26,4 @@ Kimgundi is a house and techno artist based in South Korea, tracked on soundchec
 
 Haemin Kim, JNS, Gyusco
 
-*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kimgundi/)*
+*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kimgundi/)*

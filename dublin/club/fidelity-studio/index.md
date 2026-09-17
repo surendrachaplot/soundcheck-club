@@ -1,6 +1,6 @@
 # Fidelity Studio
 
-Fidelity Studio is a music venue in Dublin with 9 upcoming nights listed on soundcheck as of Wed, 16 Sept 2026; the next is "Cinthie & Pusher" on Fri, 18 Sept 2026.
+Fidelity Studio is a music venue in Dublin with 9 upcoming nights listed on soundcheck as of Thu, 17 Sept 2026; the next is "Cinthie & Pusher" on Fri, 18 Sept 2026.
 
 Fidelity Studio is a music venue in Dublin listed on soundcheck. 9 upcoming nights, with line-ups including Bridge (NY), Cinthie, Dr Banana and Horse Meat Disco and 2 more. Browse upcoming dates, start times and who's playing. 79 Queen Street, Smithfield, Dublin 7, D07 DW3R.
 
@@ -22,4 +22,4 @@ Fidelity Studio is a music venue in Dublin listed on soundcheck. 9 upcoming nigh
 
 79 Queen Street, Smithfield, Dublin 7, D07 DW3R, Dublin
 
-*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dublin/club/fidelity-studio/)*
+*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dublin/club/fidelity-studio/)*

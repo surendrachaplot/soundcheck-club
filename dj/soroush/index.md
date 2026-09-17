@@ -1,6 +1,6 @@
 # SOROUSH
 
-SOROUSH is a Techno and Club artist with 1 upcoming club date listed on soundcheck as of Wed, 16 Sept 2026, next at Supperclub, Amsterdam on Wed, 21 Oct 2026.
+SOROUSH is a Techno and Club artist with 1 upcoming club date listed on soundcheck as of Thu, 17 Sept 2026, next at Supperclub, Amsterdam on Wed, 21 Oct 2026.
 
 SOROUSH is a techno and club artist based in Netherlands, tracked on soundcheck, with 35 sets logged across Amsterdam, Barcelona, Thehague and Vienna. Often billed alongside Alex Sharp, MEMFIS and KARKÂDÉ. Next up: Supperclub, Amsterdam on Wed 21 Oct.
 
@@ -25,4 +25,4 @@ SOROUSH is a techno and club artist based in Netherlands, tracked on soundcheck,
 
 Alex Sharp, MEMFIS, KARKÂDÉ
 
-*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/soroush/)*
+*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/soroush/)*

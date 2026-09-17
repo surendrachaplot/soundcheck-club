@@ -1,6 +1,6 @@
 # Daphni
 
-Daphni is a House and Electronica artist with 9 upcoming club dates listed on soundcheck as of Wed, 16 Sept 2026, next at Fort Mifflin, Philadelphia on Fri, 18 Sept 2026.
+Daphni is a House and Electronica artist with 9 upcoming club dates listed on soundcheck as of Thu, 17 Sept 2026, next at Fort Mifflin, Philadelphia on Fri, 18 Sept 2026.
 
 Daphni is a house and electronica artist based in Canada, tracked on soundcheck, with 54 sets logged across Amsterdam, Athens, Barcelona and Berlin and 27 more. Often billed alongside Floating Points, Ben UFO and Four Tet. Next up: Fort Mifflin, Philadelphia on Fri 18 Sept.
 
@@ -33,4 +33,4 @@ Daphni is a house and electronica artist based in Canada, tracked on soundcheck,
 
 Floating Points, Ben UFO, Four Tet
 
-*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/daphni/)*
+*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/daphni/)*

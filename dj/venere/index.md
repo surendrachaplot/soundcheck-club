@@ -1,6 +1,6 @@
 # VENERE
 
-VENERE is a Deep House and House artist with 1 upcoming club date listed on soundcheck as of Wed, 16 Sept 2026, next at TBA - SOON, London on Fri, 30 Oct 2026.
+VENERE is a Deep House and House artist with 1 upcoming club date listed on soundcheck as of Thu, 17 Sept 2026, next at TBA - SOON, London on Fri, 30 Oct 2026.
 
 VENERE is a deep house and house artist based in United Kingdom, tracked on soundcheck, with 62 sets logged across Buenosaires, London and Tallinn. Often billed alongside Colaps, KOKOH and Lester Isaac. Next up: TBA - SOON, London on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ VENERE is a deep house and house artist based in United Kingdom, tracked on soun
 
 Colaps, KOKOH, Lester Isaac
 
-*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/venere/)*
+*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/venere/)*

@@ -1,14 +1,15 @@
 # Chickenmilk dot com
 
-Chickenmilk dot com is a Dancehall and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 16 Sept 2026, next at Meteoro, Barcelona on Fri, 18 Sept 2026.
+Chickenmilk dot com is a Experimental and Club artist with 2 upcoming club dates listed on soundcheck as of Thu, 17 Sept 2026, next at Meteoro, Barcelona on Fri, 18 Sept 2026.
 
-Chickenmilk dot com is a dancehall and techno artist based in Germany, tracked on soundcheck, with 15 sets logged across Barcelona, Berlin, Newyorkcity and Prague and 2 more. Often billed alongside blastah, Organ Tapes and Panasiagirl. Next up: Meteoro, Barcelona on Fri 18 Sept.
+Chickenmilk dot com is an experimental and club artist based in Germany, tracked on soundcheck, with 16 sets logged across Barcelona, Berlin, Newyorkcity and Prague and 2 more. Often billed alongside blastah, Organ Tapes and Panasiagirl. Next up: Meteoro, Barcelona on Fri 18 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 18 Sept 2026 | Meteoro | Barcelona |
+| Thu, 1 Oct 2026 | Lark | Berlin |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Chickenmilk dot com is a dancehall and techno artist based in Germany, tracked o
 
 blastah, Organ Tapes, Panasiagirl
 
-*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/chickenmilkdotcom/)*
+*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/chickenmilkdotcom/)*

@@ -1,6 +1,6 @@
 # AANO
 
-AANO is a Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 16 Sept 2026, next at fabric, London on Sat, 10 Oct 2026.
+AANO is a Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 17 Sept 2026, next at fabric, London on Sat, 10 Oct 2026.
 
 AANO is a techno artist tracked on soundcheck, with 12 sets logged across London. Often billed alongside Caroline Polachek, Himboy and Varanasi. Next up: fabric, London on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ AANO is a techno artist tracked on soundcheck, with 12 sets logged across London
 
 Caroline Polachek, Himboy, Varanasi
 
-*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/aano/)*
+*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/aano/)*

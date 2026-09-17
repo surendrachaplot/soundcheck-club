@@ -1,6 +1,6 @@
 # Imbas presents Blimp at Hen's Teeth
 
-Imbas presents Blimp at Hen's Teeth on Sat 17 Oct, Dublin. 2 acts on the bill: Blimp and Sémaé. House and Deep House. Preview the line-up and save it on soundcheck.
+Imbas presents Blimp at Hen's Teeth on Sat 17 Oct, Dublin. 3 acts on the bill: Blimp, LIAL and Sémaé. House and Deep House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,6 +11,7 @@ Imbas presents Blimp at Hen's Teeth on Sat 17 Oct, Dublin. 2 acts on the bill: B
 ## Line-up
 
 - Blimp
+- LIAL
 - Sémaé
 
 *Source: [soundcheck](https://soundcheck.club/e/2524526-imbas-presents-blimp-at-hen-s-teeth/)*

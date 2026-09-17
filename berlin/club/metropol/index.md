@@ -1,6 +1,6 @@
 # Metropol
 
-Metropol is a music venue in Berlin with 4 upcoming nights listed on soundcheck as of Wed, 16 Sept 2026; the next is "Torture Garden Berlin September Ball 2026" on Sat, 19 Sept 2026.
+Metropol is a music venue in Berlin with 4 upcoming nights listed on soundcheck as of Thu, 17 Sept 2026; the next is "Torture Garden Berlin September Ball 2026" on Sat, 19 Sept 2026.
 
 Metropol is a music venue in Berlin listed on soundcheck. 4 upcoming nights. Browse upcoming dates, start times and who's playing. Nollendorfplatz 5, 10777 Berlin.
 
@@ -17,4 +17,4 @@ Metropol is a music venue in Berlin listed on soundcheck. 4 upcoming nights. Bro
 
 Nollendorfplatz 5, 10777 Berlin, Berlin
 
-*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/metropol/)*
+*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/metropol/)*

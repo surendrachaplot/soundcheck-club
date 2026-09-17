@@ -1,6 +1,6 @@
 # VEL (MA)
 
-VEL (MA) is a Techno and Trance artist with 3 upcoming club dates listed on soundcheck as of Wed, 16 Sept 2026, next at Unité.22, Marseille on Fri, 18 Sept 2026.
+VEL (MA) is a Techno and Trance artist with 3 upcoming club dates listed on soundcheck as of Thu, 17 Sept 2026, next at Unité.22, Marseille on Fri, 18 Sept 2026.
 
 VEL (MA) is a techno and trance artist tracked on soundcheck, with 143 sets logged across Amsterdam, Athens, Barcelona and Basel and 38 more. Often billed alongside Anetha, A Strange Wedding and Mac Declos. Next up: Unité.22, Marseille on Fri 18 Sept.
 
@@ -27,4 +27,4 @@ VEL (MA) is a techno and trance artist tracked on soundcheck, with 143 sets logg
 
 Anetha, A Strange Wedding, Mac Declos
 
-*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/vel-ma/)*
+*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/vel-ma/)*

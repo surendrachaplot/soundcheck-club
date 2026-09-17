@@ -1,6 +1,6 @@
 # 6 SENSE
 
-6 SENSE is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Wed, 16 Sept 2026, next at Club Wintercircus, Ghent on Fri, 18 Sept 2026.
+6 SENSE is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Thu, 17 Sept 2026, next at Club Wintercircus, Ghent on Fri, 18 Sept 2026.
 
 6 SENSE is a techno and house artist based in Australia, tracked on soundcheck, with 49 sets logged across Amsterdam, Antwerp, Auckland and Berlin and 15 more. Often billed alongside Ned Bennett, KSMBA and Ollie Lishman. Next up: Club Wintercircus, Ghent on Fri 18 Sept.
 
@@ -30,4 +30,4 @@
 
 Ned Bennett, KSMBA, Ollie Lishman
 
-*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/6sense/)*
+*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/6sense/)*

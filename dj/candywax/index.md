@@ -1,6 +1,6 @@
 # Candywax
 
-Candywax is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Wed, 16 Sept 2026, next at 618 DC, Washington DC on Sat, 19 Sept 2026.
+Candywax is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Thu, 17 Sept 2026, next at 618 DC, Washington DC on Sat, 19 Sept 2026.
 
 Candywax is a house and tech house artist based in United States of America, tracked on soundcheck, with 43 sets logged across Detroit and Washingtondc. Often billed alongside DJ Goldblum, .Flag. and DJ Sexy Fresh. Next up: 618 DC, Washingtondc on Sat 19 Sept.
 
@@ -25,4 +25,4 @@ Candywax is a house and tech house artist based in United States of America, tra
 
 DJ Goldblum, .Flag., DJ Sexy Fresh
 
-*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/candywax/)*
+*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/candywax/)*

@@ -1,14 +1,14 @@
 # Rene LaVice
 
-Rene LaVice is a Drum & Bass and Jungle artist with 1 upcoming club date listed on soundcheck as of Wed, 16 Sept 2026, next at E1, London on Sat, 14 Nov 2026.
+Rene LaVice is a Drum & Bass and Jungle artist with 1 upcoming club date listed on soundcheck as of Thu, 17 Sept 2026, next at Onyx (E1), London on Sat, 14 Nov 2026.
 
-Rene LaVice is a drum & bass and jungle artist tracked on soundcheck, with 8 sets logged across Austin, London, Losangeles and Miami and 2 more. Often billed alongside Andy C, Kleu and Larnie Moles. Next up: E1, London on Sat 14 Nov.
+Rene LaVice is a drum & bass and jungle artist tracked on soundcheck, with 8 sets logged across Austin, London, Losangeles and Miami and 2 more. Often billed alongside Andy C, Kleu and Larnie Moles. Next up: Onyx (E1), London on Sat 14 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 14 Nov 2026 | E1 | London |
+| Sat, 14 Nov 2026 | Onyx (E1) | London |
 
 ## Recently played
 
@@ -24,4 +24,4 @@ Rene LaVice is a drum & bass and jungle artist tracked on soundcheck, with 8 set
 
 Andy C, Kleu, Larnie Moles
 
-*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/renelavice/)*
+*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/renelavice/)*

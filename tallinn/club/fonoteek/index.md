@@ -1,6 +1,6 @@
 # Fonoteek
 
-Fonoteek is a music venue in Tallinn with 4 upcoming nights listed on soundcheck as of Wed, 16 Sept 2026; the next is "Sublime" on Fri, 18 Sept 2026.
+Fonoteek is a music venue in Tallinn with 4 upcoming nights listed on soundcheck as of Thu, 17 Sept 2026; the next is "Sublime" on Fri, 18 Sept 2026.
 
 Fonoteek is a music venue in Tallinn listed on soundcheck. 4 upcoming nights, with line-ups including Degs. Browse upcoming dates, start times and who's playing. Telliskivi tn 62, 10412 ,Tallinn, Estonia.
 
@@ -17,4 +17,4 @@ Fonoteek is a music venue in Tallinn listed on soundcheck. 4 upcoming nights, wi
 
 Telliskivi tn 62, 10412 ,Tallinn, Estonia, Tallinn
 
-*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/tallinn/club/fonoteek/)*
+*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/tallinn/club/fonoteek/)*

@@ -1,6 +1,6 @@
 # BASEMENT
 
-BASEMENT is a music venue in New York City with 14 upcoming nights listed on soundcheck as of Wed, 16 Sept 2026; the next is "Mama Snake / Anabel Arroyo / Katie Rex / Gabrielle Kwarteng / Jek" on Fri, 18 Sept 2026.
+BASEMENT is a music venue in New York City with 14 upcoming nights listed on soundcheck as of Thu, 17 Sept 2026; the next is "Mama Snake / Anabel Arroyo / Katie Rex / Gabrielle Kwarteng / angelboy / Jek" on Fri, 18 Sept 2026.
 
 BASEMENT is a music venue in Newyorkcity listed on soundcheck. 14 upcoming nights, with line-ups including 98dots, Ade Kassim, Akua and ALEXIS DE LA ROSA and 2 more. Browse upcoming dates, start times and who's playing. 52-19 Flushing Ave., Maspeth, NY 11378 USA.
 
@@ -8,7 +8,7 @@ BASEMENT is a music venue in Newyorkcity listed on soundcheck. 14 upcoming night
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 18 Sept 2026 | Mama Snake / Anabel Arroyo / Katie Rex / Gabrielle Kwarteng / Jek | Anabel Arroyo, Fafi Abdel Nour, Gabrielle Kwarteng, Jek (US), Katie Rex, Mama Snake |
+| Fri, 18 Sept 2026 | Mama Snake / Anabel Arroyo / Katie Rex / Gabrielle Kwarteng / angelboy / Jek | Anabel Arroyo, Fafi Abdel Nour, Gabrielle Kwarteng, Jek (US), Katie Rex, Mama Snake, angelboy |
 | Sat, 19 Sept 2026 | DAY+NIGHT: D.Dan/ Mos/ Elle Dee/ Freddy K/ RonLikeHell/ cotton/ Massi Pagliara/ Heidi L/ KimAnh | D.Dan, Elle Dee, Freddy K, Heidi Lawden, Kim Anh, Massimiliano Pagliara, Mos (NYC), Ron Like Hell, cotton |
 | Fri, 25 Sept 2026 | MUTUAL RYTM: SHDW / Regent / Hemka / JADALAREIGN / Mike Servito / Saia | Hemka, JADALAREIGN, Mike Servito, Phil Berg, Regent, SHDW, Saia |
 | Sat, 26 Sept 2026 | Mac Declos / Marcal / Cora / Perfect Lovers / Victor Rodriguez / Chris Cruse / Kilopatrah Jones | Chris Cruse, Cora (CN), Kilopatrah Jones, Mac Declos, Marcal, Perfect Lovers, Victor Rodriguez |
@@ -23,4 +23,4 @@ BASEMENT is a music venue in Newyorkcity listed on soundcheck. 14 upcoming night
 
 52-19 Flushing Ave., Maspeth, NY 11378 USA, New York City
 
-*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/basement/)*
+*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/basement/)*

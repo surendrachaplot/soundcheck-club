@@ -1,8 +1,8 @@
 # Kenny Larkin
 
-Kenny Larkin is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Wed, 16 Sept 2026, next at Tortuga Beach, Malta on Sat, 10 Oct 2026.
+Kenny Larkin is a Techno and House artist with 7 upcoming club dates listed on soundcheck as of Thu, 17 Sept 2026, next at Tortuga Beach, Malta on Sat, 10 Oct 2026.
 
-Kenny Larkin is a techno and house artist based in United States of America, tracked on soundcheck, with 45 sets logged across Amsterdam, Berlin, Brussels and Buenosaires and 22 more. Often billed alongside Octave One, CESAR ALMENA and Carl Craig. Next up: Tortuga Beach, Malta on Sat 10 Oct.
+Kenny Larkin is a techno and house artist based in United States of America, tracked on soundcheck, with 46 sets logged across Amsterdam, Berlin, Brighton and Brussels and 23 more. Often billed alongside Octave One, CESAR ALMENA and Carl Craig. Next up: Tortuga Beach, Malta on Sat 10 Oct.
 
 ## Upcoming shows
 
@@ -12,6 +12,7 @@ Kenny Larkin is a techno and house artist based in United States of America, tra
 | Sun, 11 Oct 2026 | Fabrik | Madrid |
 | Fri, 23 Oct 2026 | Q-Factory | Amsterdam |
 | Fri, 30 Oct 2026 | Kater | Berlin |
+| Sat, 31 Oct 2026 | Quarters | Brighton |
 | Fri, 6 Nov 2026 | Petit CAB | Marseille |
 | Sun, 22 Nov 2026 | Under Club | Buenos Aires |
 
@@ -30,4 +31,4 @@ Kenny Larkin is a techno and house artist based in United States of America, tra
 
 Octave One, CESAR ALMENA, Carl Craig
 
-*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kennylarkin/)*
+*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kennylarkin/)*

@@ -1,8 +1,8 @@
 # BRET
 
-BRET is a music venue in Amsterdam with 20 upcoming nights listed on soundcheck as of Wed, 16 Sept 2026; the next is "LOLA - DAM SWINDLE, MIDAS FIELD, MEREL HELDERMAN, BIBI SECK, DRABES" on Fri, 18 Sept 2026.
+BRET is a music venue in Amsterdam with 21 upcoming nights listed on soundcheck as of Thu, 17 Sept 2026; the next is "LOLA - DAM SWINDLE, MIDAS FIELD, MEREL HELDERMAN, BIBI SECK, DRABES" on Fri, 18 Sept 2026.
 
-BRET is a music venue in Amsterdam listed on soundcheck. 20 upcoming nights, with line-ups including Anz, Arapu, Bailey Ibbs and Bastienne and 2 more. Browse upcoming dates, start times and who's playing. Orlyplein 76, 1043 DP Amsterdam, Netherlands.
+BRET is a music venue in Amsterdam listed on soundcheck. 21 upcoming nights, with line-ups including Anz, Arapu, Bailey Ibbs and Bastienne and 2 more. Browse upcoming dates, start times and who's playing. Orlyplein 76, 1043 DP Amsterdam, Netherlands.
 
 ## What's on
 
@@ -16,11 +16,11 @@ BRET is a music venue in Amsterdam listed on soundcheck. 20 upcoming nights, wit
 | Fri, 25 Sept 2026 | PILOT - Sidney Charles (5HRS) | Sidney Charles |
 | Sat, 26 Sept 2026 | SLPFNK Summer Closing |  |
 | Fri, 2 Oct 2026 | Arapu, Natalia Roth | Arapu, Natalia Roth |
+| Sun, 4 Oct 2026 | Jesse G, MARRØN, SHE/HER | Jesse G, MARRØN, SHE/HER |
 | Wed, 21 Oct 2026 | Lobster Invites - Free ADE Event | Kyra Khaldi, Lobster (NL), Mella Dee, Samuel Deep |
-| Thu, 22 Oct 2026 | SLACKER x BRET - ADE | Gaiser, Marc Houle, Olive F, Rio Tashan, Seth Troxler, Sindicato Del Baile, Tiga, Tom Trago |
 
 ## Address
 
 Orlyplein 76, 1043 DP Amsterdam, Netherlands, Amsterdam
 
-*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/bret/)*
+*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/bret/)*

@@ -1,6 +1,6 @@
 # ONIMAL
 
-ONIMAL is a Techno and Tech House artist with 2 upcoming club dates listed on soundcheck as of Wed, 16 Sept 2026, next at Odessa Club, Warsaw on Sat, 19 Sept 2026.
+ONIMAL is a Techno and Tech House artist with 2 upcoming club dates listed on soundcheck as of Thu, 17 Sept 2026, next at Odessa Club, Warsaw on Sat, 19 Sept 2026.
 
 ONIMAL is a techno and tech house artist based in Poland, tracked on soundcheck, with 7 sets logged across Warsaw. Often billed alongside Lyor Kalt, ATARMAL and BBN (1). Next up: Odessa Club, Warsaw on Sat 19 Sept.
 
@@ -23,4 +23,4 @@ ONIMAL is a techno and tech house artist based in Poland, tracked on soundcheck,
 
 Lyor Kalt, ATARMAL, BBN (1)
 
-*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/onimal/)*
+*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/onimal/)*

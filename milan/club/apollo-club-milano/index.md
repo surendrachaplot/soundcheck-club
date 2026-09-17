@@ -1,6 +1,6 @@
 # Apollo Club Milano
 
-Apollo Club Milano is a music venue in Milan with 5 upcoming nights listed on soundcheck as of Wed, 16 Sept 2026; the next is "TUTTI FRUTTI" on Fri, 18 Sept 2026.
+Apollo Club Milano is a music venue in Milan with 5 upcoming nights listed on soundcheck as of Thu, 17 Sept 2026; the next is "TUTTI FRUTTI" on Fri, 18 Sept 2026.
 
 Apollo Club Milano is a music venue in Milan listed on soundcheck. 5 upcoming nights, with line-ups including Alinka, Arpy Brown, Bitter Saint and Filippo Castiglioni and 2 more. Browse upcoming dates, start times and who's playing. via Giosuè Borsi, 9, 20143, Milan.
 
@@ -18,4 +18,4 @@ Apollo Club Milano is a music venue in Milan listed on soundcheck. 5 upcoming ni
 
 via Giosuè Borsi, 9, 20143, Milan, Milan
 
-*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/milan/club/apollo-club-milano/)*
+*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/milan/club/apollo-club-milano/)*

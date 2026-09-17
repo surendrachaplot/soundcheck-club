@@ -1,6 +1,6 @@
 # Ryan Licchelli
 
-Ryan Licchelli is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Wed, 16 Sept 2026, next at The Glove That Fits, London on Sat, 24 Oct 2026.
+Ryan Licchelli is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Thu, 17 Sept 2026, next at The Glove That Fits, London on Sat, 24 Oct 2026.
 
 Ryan Licchelli is a techno and electro artist based in United Kingdom, tracked on soundcheck, with 23 sets logged across London. Often billed alongside Arrosa, Odilon's Grip and Ricardo Castro. Next up: The Glove That Fits, London on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ Ryan Licchelli is a techno and electro artist based in United Kingdom, tracked o
 
 Arrosa, Odilon's Grip, Ricardo Castro
 
-*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ryanlicchelli/)*
+*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ryanlicchelli/)*

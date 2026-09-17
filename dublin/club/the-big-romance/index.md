@@ -1,14 +1,13 @@
 # The Big Romance
 
-The Big Romance is a music venue in Dublin with 8 upcoming nights listed on soundcheck as of Wed, 16 Sept 2026; the next is "Press Play: Bananarama " True Confessions"" on Wed, 16 Sept 2026.
+The Big Romance is a music venue in Dublin with 7 upcoming nights listed on soundcheck as of Thu, 17 Sept 2026; the next is "George Earnest" on Thu, 17 Sept 2026.
 
-The Big Romance is a music venue in Dublin listed on soundcheck. 8 upcoming nights, with line-ups including Bull Horris, Enclave (2), George Earnest and Kaycee and 2 more. Browse upcoming dates, start times and who's playing. 98 Parnell St, Rotunda, Dublin, D01 T2T3, Ireland.
+The Big Romance is a music venue in Dublin listed on soundcheck. 7 upcoming nights, with line-ups including Bull Horris, Enclave (2), George Earnest and Kaycee and 2 more. Browse upcoming dates, start times and who's playing. 98 Parnell St, Rotunda, Dublin, D01 T2T3, Ireland.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Wed, 16 Sept 2026 | Press Play: Bananarama " True Confessions" | Shrem |
 | Thu, 17 Sept 2026 | George Earnest | George Earnest |
 | Fri, 18 Sept 2026 | DJ Spooge |  |
 | Sat, 19 Sept 2026 | Soundglasses |  |
@@ -21,4 +20,4 @@ The Big Romance is a music venue in Dublin listed on soundcheck. 8 upcoming nigh
 
 98 Parnell St, Rotunda, Dublin, D01 T2T3, Ireland, Dublin
 
-*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dublin/club/the-big-romance/)*
+*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dublin/club/the-big-romance/)*

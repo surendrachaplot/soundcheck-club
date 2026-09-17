@@ -1,6 +1,6 @@
 # Meggy
 
-Meggy is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 16 Sept 2026, next at OXI, Berlin on Sat, 26 Sept 2026.
+Meggy is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 17 Sept 2026, next at OXI, Berlin on Sat, 26 Sept 2026.
 
 Meggy is a house and techno artist based in Germany, tracked on soundcheck, with 33 sets logged across Berlin, Copenhagen, Hamburg and Leipzig and 1 more. Often billed alongside Thabo, Thalo Santana and Black Loops. Next up: OXI, Berlin on Sat 26 Sept.
 
@@ -25,4 +25,4 @@ Meggy is a house and techno artist based in Germany, tracked on soundcheck, with
 
 Thabo, Thalo Santana, Black Loops
 
-*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/meggy/)*
+*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/meggy/)*

@@ -1,6 +1,6 @@
 # Sofia T
 
-Sofia T is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Wed, 16 Sept 2026, next at Tunnel, Milan on Sat, 19 Sept 2026.
+Sofia T is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 17 Sept 2026, next at Tunnel, Milan on Sat, 19 Sept 2026.
 
 Sofia T is a techno and house artist tracked on soundcheck, with 6 sets logged across Milan. Often billed alongside Andrea Isella, Richey V and anaire. Next up: Tunnel, Milan on Sat 19 Sept.
 
@@ -22,4 +22,4 @@ Sofia T is a techno and house artist tracked on soundcheck, with 6 sets logged a
 
 Andrea Isella, Richey V, anaire
 
-*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sofiat/)*
+*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sofiat/)*

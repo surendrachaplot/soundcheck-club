@@ -1,6 +1,6 @@
 # Daniel Avery
 
-Daniel Avery is a Techno and House artist with 12 upcoming club dates listed on soundcheck as of Wed, 16 Sept 2026, next at El Rey Theatre, Los Angeles on Thu, 17 Sept 2026.
+Daniel Avery is a Techno and House artist with 12 upcoming club dates listed on soundcheck as of Thu, 17 Sept 2026, next at El Rey Theatre, Los Angeles on Thu, 17 Sept 2026.
 
 Daniel Avery is a techno and house artist tracked on soundcheck, with 158 sets logged across Amsterdam, Bali, Barcelona and Belfast and 43 more. Often billed alongside Richard Fearless, Optimo (Espacio) and Tapefeed. Next up: El Rey Theatre, Losangeles on Thu 17 Sept.
 
@@ -36,4 +36,4 @@ Daniel Avery is a techno and house artist tracked on soundcheck, with 158 sets l
 
 Richard Fearless, Optimo (Espacio), Tapefeed
 
-*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/danielavery/)*
+*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/danielavery/)*

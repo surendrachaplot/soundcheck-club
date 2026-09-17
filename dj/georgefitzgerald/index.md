@@ -1,6 +1,6 @@
 # George FitzGerald
 
-George FitzGerald is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Wed, 16 Sept 2026, next at Radio Radio, Amsterdam on Sun, 25 Oct 2026.
+George FitzGerald is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Thu, 17 Sept 2026, next at Radio Radio, Amsterdam on Sun, 25 Oct 2026.
 
 George FitzGerald is a house and techno artist tracked on soundcheck, with 49 sets logged across Amsterdam, Barcelona, Berlin and Brighton and 16 more. Often billed alongside Lil Silva, Fold and Scuba. Next up: Radio Radio, Amsterdam on Sun 25 Oct.
 
@@ -27,4 +27,4 @@ George FitzGerald is a house and techno artist tracked on soundcheck, with 49 se
 
 Lil Silva, Fold, Scuba
 
-*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/georgefitzgerald/)*
+*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/georgefitzgerald/)*

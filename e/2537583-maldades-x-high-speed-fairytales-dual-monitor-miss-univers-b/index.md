@@ -1,6 +1,6 @@
 # MALDADES x HIGH SPEED FAIRYTALES: Dual Monitor ☆ Miss Univers b2b SJ Yellow ☆ patricccio ☆ Mars at Fuchs2
 
-MALDADES x HIGH SPEED FAIRYTALES: Dual Monitor ☆ Miss Univers b2b SJ Yellow ☆ patricccio ☆ Mars at Fuchs2 on Fri 25 Sept, Prague. 4 acts on the bill: Dual Monitor, Miss Univers, patricccio and SJ Yellow. Preview the line-up and save it on soundcheck.
+MALDADES x HIGH SPEED FAIRYTALES: Dual Monitor ☆ Miss Univers b2b SJ Yellow ☆ patricccio ☆ Mars at Fuchs2 on Fri 25 Sept, Prague. 5 acts on the bill: Dual Monitor, MARS (4), Miss Univers and patricccio and 1 more. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,6 +11,7 @@ MALDADES x HIGH SPEED FAIRYTALES: Dual Monitor ☆ Miss Univers b2b SJ Yellow �
 ## Line-up
 
 - Dual Monitor
+- MARS (4)
 - Miss Univers
 - patricccio
 - SJ Yellow

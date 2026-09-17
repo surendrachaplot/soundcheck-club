@@ -1,14 +1,16 @@
 # Delta Division
 
-Delta Division is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 16 Sept 2026, next at OHM, Berlin on Thu, 15 Oct 2026.
+Delta Division is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Thu, 17 Sept 2026, next at Urban Spree, Berlin on Fri, 9 Oct 2026.
 
-Delta Division is a techno and house artist tracked on soundcheck, with 17 sets logged across Berlin, Copenhagen, London and Zurich. Often billed alongside Air Protection Office, Mruda and N ska. Next up: OHM, Berlin on Thu 15 Oct.
+Delta Division is a techno and house artist tracked on soundcheck, with 19 sets logged across Berlin, Copenhagen, London and Zurich. Often billed alongside N ska, Air Protection Office and Mruda. Next up: Urban Spree, Berlin on Fri 9 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 9 Oct 2026 | Urban Spree | Berlin |
 | Thu, 15 Oct 2026 | OHM | Berlin |
+| Sat, 14 Nov 2026 | Paloma | Berlin |
 
 ## Recently played
 
@@ -23,6 +25,6 @@ Delta Division is a techno and house artist tracked on soundcheck, with 17 sets 
 
 ## Shares bills with
 
-Air Protection Office, Mruda, N ska
+N ska, Air Protection Office, Mruda
 
-*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/deltadivision/)*
+*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/deltadivision/)*

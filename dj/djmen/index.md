@@ -1,6 +1,6 @@
 # DJ MEN
 
-DJ MEN is a Techno artist with 3 upcoming club dates listed on soundcheck as of Wed, 16 Sept 2026, next at Moog Club, Barcelona on Fri, 18 Sept 2026.
+DJ MEN is a Techno artist with 3 upcoming club dates listed on soundcheck as of Thu, 17 Sept 2026, next at Moog Club, Barcelona on Fri, 18 Sept 2026.
 
 DJ MEN is a techno artist tracked on soundcheck, with 83 sets logged across Barcelona. Often billed alongside BACO, Deckard and MOTA. Next up: Moog Club, Barcelona on Fri 18 Sept.
 
@@ -27,4 +27,4 @@ DJ MEN is a techno artist tracked on soundcheck, with 83 sets logged across Barc
 
 BACO, Deckard, MOTA
 
-*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djmen/)*
+*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djmen/)*

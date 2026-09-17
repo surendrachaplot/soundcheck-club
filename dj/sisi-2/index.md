@@ -1,6 +1,6 @@
 # SiSi (2)
 
-SiSi (2) is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 16 Sept 2026, next at Paloma, Berlin on Fri, 18 Sept 2026.
+SiSi (2) is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 17 Sept 2026, next at Paloma, Berlin on Fri, 18 Sept 2026.
 
 SiSi (2) is a house and techno artist tracked on soundcheck, with 10 sets logged across Berlin, Brussels, Leeds and Miami and 3 more. Often billed alongside Amelia Holt, AARON and Adam Rose. Next up: Paloma, Berlin on Fri 18 Sept.
 
@@ -26,4 +26,4 @@ SiSi (2) is a house and techno artist tracked on soundcheck, with 10 sets logged
 
 Amelia Holt, AARON, Adam Rose
 
-*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sisi-2/)*
+*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sisi-2/)*

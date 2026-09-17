@@ -1,8 +1,8 @@
 # Lara Sinclair
 
-Lara Sinclair is a Bass and Jungle artist with 5 upcoming club dates listed on soundcheck as of Wed, 16 Sept 2026, next at Paradise Palms, Edinburgh on Thu, 17 Sept 2026.
+Lara Sinclair is a Bass and Jungle artist with 7 upcoming club dates listed on soundcheck as of Thu, 17 Sept 2026, next at Paradise Palms, Edinburgh on Thu, 17 Sept 2026.
 
-Lara Sinclair is a bass and jungle artist tracked on soundcheck, with 190 sets logged across Dundee, Edinburgh, Glasgow and London. Often billed alongside ZO3 (1), JI_2001 and DV60. Next up: Paradise Palms, Edinburgh on Thu 17 Sept.
+Lara Sinclair is a bass and jungle artist tracked on soundcheck, with 192 sets logged across Dundee, Edinburgh, Glasgow and London. Often billed alongside ZO3 (1), JI_2001 and DV60. Next up: Paradise Palms, Edinburgh on Thu 17 Sept.
 
 ## Upcoming shows
 
@@ -10,9 +10,11 @@ Lara Sinclair is a bass and jungle artist tracked on soundcheck, with 190 sets l
 | --- | --- | --- |
 | Thu, 17 Sept 2026 | Paradise Palms | Edinburgh |
 | Thu, 17 Sept 2026 | Paradise Palms | Edinburgh |
+| Fri, 18 Sept 2026 | West Port Oracle | Edinburgh |
 | Sat, 19 Sept 2026 | The Mash House | Edinburgh |
 | Fri, 25 Sept 2026 | The Mash House | Edinburgh |
 | Sat, 26 Sept 2026 | The Bongo Club | Edinburgh |
+| Sun, 27 Sept 2026 | Sneaky Pete's | Edinburgh |
 
 ## Recently played
 
@@ -29,4 +31,4 @@ Lara Sinclair is a bass and jungle artist tracked on soundcheck, with 190 sets l
 
 ZO3 (1), JI_2001, DV60
 
-*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/larasinclair/)*
+*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/larasinclair/)*

@@ -1,6 +1,6 @@
 # Sozie
 
-Sozie is a electronic artist with 1 upcoming club date listed on soundcheck as of Wed, 16 Sept 2026, next at TBA - Secret Location, London on Sat, 19 Sept 2026.
+Sozie is a electronic artist with 1 upcoming club date listed on soundcheck as of Thu, 17 Sept 2026, next at TBA - Secret Location, London on Sat, 19 Sept 2026.
 
 Sozie is an electronic artist tracked on soundcheck, with 10 sets logged across Athens and London. Often billed alongside Tammy Tsanaka, PJ MUGIWARA and 555ivas. Next up: TBA - Secret Location, London on Sat 19 Sept.
 
@@ -25,4 +25,4 @@ Sozie is an electronic artist tracked on soundcheck, with 10 sets logged across 
 
 Tammy Tsanaka, PJ MUGIWARA, 555ivas
 
-*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sozie/)*
+*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sozie/)*

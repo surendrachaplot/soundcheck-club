@@ -1,6 +1,6 @@
 # Stefan Rose
 
-Stefan Rose is a House and Progressive House artist with 1 upcoming club date listed on soundcheck as of Wed, 16 Sept 2026, next at The Cruise Club, Amsterdam on Sat, 24 Oct 2026.
+Stefan Rose is a House and Progressive House artist with 1 upcoming club date listed on soundcheck as of Thu, 17 Sept 2026, next at The Cruise Club, Amsterdam on Sat, 24 Oct 2026.
 
 Stefan Rose is a house and progressive house artist based in United States of America, tracked on soundcheck, with 6 sets logged across Amsterdam, Barcelona and London. Often billed alongside Saulo Pisa, Aka theo and DASHA (UK). Next up: The Cruise Club, Amsterdam on Sat 24 Oct.
 
@@ -22,4 +22,4 @@ Stefan Rose is a house and progressive house artist based in United States of Am
 
 Saulo Pisa, Aka theo, DASHA (UK)
 
-*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/stefanrose/)*
+*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/stefanrose/)*

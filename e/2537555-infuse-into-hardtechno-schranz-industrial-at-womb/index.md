@@ -1,6 +1,6 @@
 # INFUSE_INTO (HardTechno.Schranz & Industrial) at WOMB
 
-INFUSE_INTO (HardTechno.Schranz & Industrial) at WOMB on Wed 21 Oct, Tokyo. 4 acts on the bill: ASIN, CHIKA, YOXIKI and YURI VALEN. Techno and Industrial. Preview the line-up and save it on soundcheck.
+INFUSE_INTO (HardTechno.Schranz & Industrial) at WOMB on Wed 21 Oct, Tokyo. 5 acts on the bill: ASIN, CHIKA, SHO (10) and YOXIKI and 1 more. Techno and Industrial. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -12,6 +12,7 @@ INFUSE_INTO (HardTechno.Schranz & Industrial) at WOMB on Wed 21 Oct, Tokyo. 4 ac
 
 - ASIN
 - CHIKA
+- SHO (10)
 - YOXIKI
 - YURI VALEN
 

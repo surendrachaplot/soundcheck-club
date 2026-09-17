@@ -1,6 +1,6 @@
 # Laura MRLS
 
-Laura MRLS is a Techno and Ambient artist with 1 upcoming club date listed on soundcheck as of Wed, 16 Sept 2026, next at TBA - Secret Location, Berlin on Sat, 12 Dec 2026.
+Laura MRLS is a Techno and Ambient artist with 1 upcoming club date listed on soundcheck as of Thu, 17 Sept 2026, next at TBA - Secret Location, Berlin on Sat, 12 Dec 2026.
 
 Laura MRLS is a techno and ambient artist tracked on soundcheck, with 33 sets logged across Barcelona, Berlin, Helsinki and London and 1 more. Often billed alongside Exploited Body, JASSASS and MORA (FI). Next up: TBA - Secret Location, Berlin on Sat 12 Dec.
 
@@ -25,4 +25,4 @@ Laura MRLS is a techno and ambient artist tracked on soundcheck, with 33 sets lo
 
 Exploited Body, JASSASS, MORA (FI)
 
-*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lauramrls/)*
+*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lauramrls/)*

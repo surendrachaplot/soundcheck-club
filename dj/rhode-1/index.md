@@ -1,6 +1,6 @@
 # RHODE (1)
 
-RHODE (1) is a Club and Hip-Hop artist with 1 upcoming club date listed on soundcheck as of Wed, 16 Sept 2026, next at Bolero, Seoul on Fri, 18 Sept 2026.
+RHODE (1) is a Club and Hip-Hop artist with 1 upcoming club date listed on soundcheck as of Thu, 17 Sept 2026, next at Bolero, Seoul on Fri, 18 Sept 2026.
 
 RHODE (1) is a club and hip-hop artist based in United States of America, tracked on soundcheck, with 6 sets logged across London and Seoul. Often billed alongside BILL.E, ANDOW and DJ Co.kr. Next up: Bolero, Seoul on Fri 18 Sept.
 
@@ -22,4 +22,4 @@ RHODE (1) is a club and hip-hop artist based in United States of America, tracke
 
 BILL.E, ANDOW, DJ Co.kr
 
-*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/rhode-1/)*
+*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/rhode-1/)*

@@ -1,8 +1,8 @@
 # Lark
 
-Lark is a music venue in Berlin with 8 upcoming nights listed on soundcheck as of Wed, 16 Sept 2026; the next is "AN(8)X festival 2026: Love Village, Special Mooncake Club Night" on Fri, 25 Sept 2026.
+Lark is a music venue in Berlin with 9 upcoming nights listed on soundcheck as of Thu, 17 Sept 2026; the next is "AN(8)X festival 2026: Love Village, Special Mooncake Club Night" on Fri, 25 Sept 2026.
 
-Lark is a music venue in Berlin listed on soundcheck. 8 upcoming nights, with line-ups including 50JING, B3CKI, Bulma Brief and CHRANDY and 2 more. Browse upcoming dates, start times and who's playing. Holzmarktstrasse 15-18, 10179.
+Lark is a music venue in Berlin listed on soundcheck. 9 upcoming nights, with line-ups including 50JING, B3CKI, Bulma Brief and Chickenmilk dot com and 2 more. Browse upcoming dates, start times and who's playing. Holzmarktstrasse 15-18, 10179.
 
 ## What's on
 
@@ -10,6 +10,7 @@ Lark is a music venue in Berlin listed on soundcheck. 8 upcoming nights, with li
 | --- | --- | --- |
 | Fri, 25 Sept 2026 | AN(8)X festival 2026: Love Village, Special Mooncake Club Night | 50JING, B3CKI, kjjabber |
 | Sun, 27 Sept 2026 | Hum w/ Kyle Hall b2b K15, Mamalia'The first lady of modern funk'ft.Mauricio Fleury, Bulma Brief | Bulma Brief, K15, Kyle Hall, Mauricio Fleury |
+| Thu, 1 Oct 2026 | collective memory + low harvest | Chickenmilk dot com, Global, edeF. |
 | Sat, 3 Oct 2026 | Delírio 2nd Anniversary - Club Night | KALI., Miss Jay (RO), NEGRACONDA, Wahsabi, dj latinchat, sin serif |
 | Fri, 23 Oct 2026 | FEUCHT | CHRANDY, Doctora Amor |
 | Thu, 29 Oct 2026 | Loukeman | Loukeman |
@@ -21,4 +22,4 @@ Lark is a music venue in Berlin listed on soundcheck. 8 upcoming nights, with li
 
 Holzmarktstrasse 15-18, 10179, Berlin
 
-*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/lark/)*
+*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/lark/)*

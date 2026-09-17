@@ -1,14 +1,15 @@
 # Direkt
 
-Direkt is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Wed, 16 Sept 2026, next at Starlane Pizza Bar, London on Sun, 20 Sept 2026.
+Direkt is a House and Minimal artist with 2 upcoming club dates listed on soundcheck as of Thu, 17 Sept 2026, next at Starlane Pizza Bar, London on Sun, 20 Sept 2026.
 
-Direkt is a house and minimal artist tracked on soundcheck, with 37 sets logged across Barcelona, Berlin, Boston and Brussels and 17 more. Often billed alongside Enzo Muro, Ray Kash and ALKMST. Next up: Starlane Pizza Bar, London on Sun 20 Sept.
+Direkt is a house and minimal artist tracked on soundcheck, with 38 sets logged across Barcelona, Berlin, Boston and Brussels and 18 more. Often billed alongside Enzo Muro, Ray Kash and ALKMST. Next up: Starlane Pizza Bar, London on Sun 20 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sun, 20 Sept 2026 | Starlane Pizza Bar | London |
+| Fri, 25 Sept 2026 | Climax-Institutes | Stuttgart |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Direkt is a house and minimal artist tracked on soundcheck, with 37 sets logged 
 
 Enzo Muro, Ray Kash, ALKMST
 
-*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/direkt/)*
+*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/direkt/)*

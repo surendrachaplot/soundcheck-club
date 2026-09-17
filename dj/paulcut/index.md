@@ -1,6 +1,6 @@
 # Paul Cut
 
-Paul Cut is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Wed, 16 Sept 2026, next at Auber Garden, Paris on Sat, 19 Sept 2026.
+Paul Cut is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Thu, 17 Sept 2026, next at Auber Garden, Paris on Sat, 19 Sept 2026.
 
 Paul Cut is a house and deep house artist based in France, tracked on soundcheck, with 40 sets logged across Brussels, Lisbon, Madrid and Marseille and 2 more. Often billed alongside Flabaire, Sara Wual and DVDE. Next up: Auber Garden, Paris on Sat 19 Sept.
 
@@ -25,4 +25,4 @@ Paul Cut is a house and deep house artist based in France, tracked on soundcheck
 
 Flabaire, Sara Wual, DVDE
 
-*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/paulcut/)*
+*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/paulcut/)*

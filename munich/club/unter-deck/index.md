@@ -1,14 +1,13 @@
 # Unter Deck
 
-Unter Deck is a music venue in Munich with 6 upcoming nights listed on soundcheck as of Wed, 16 Sept 2026; the next is "Electroamore im Unter Deck" on Wed, 16 Sept 2026.
+Unter Deck is a music venue in Munich with 5 upcoming nights listed on soundcheck as of Thu, 17 Sept 2026; the next is "Tuesday in Love: DJ FREUND all night long" on Tue, 6 Oct 2026.
 
-Unter Deck is a music venue in Munich listed on soundcheck. 6 upcoming nights, with line-ups including Die Tektonische Plattenverschiebung, DJ FM & DJ FREUND, floor length skirts and Kim_Twiddle and 2 more. Browse upcoming dates, start times and who's playing. Oberanger 26, 80331 München.
+Unter Deck is a music venue in Munich listed on soundcheck. 5 upcoming nights, with line-ups including Die Tektonische Plattenverschiebung, DJ FM & DJ FREUND, floor length skirts and Kim_Twiddle and 2 more. Browse upcoming dates, start times and who's playing. Oberanger 26, 80331 München.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Wed, 16 Sept 2026 | Electroamore im Unter Deck | DJ FM & DJ FREUND, Die Tektonische Plattenverschiebung, Safahs |
 | Tue, 6 Oct 2026 | Tuesday in Love: DJ FREUND all night long | DJ FM & DJ FREUND |
 | Fri, 9 Oct 2026 | Off Supply with Zo Pea & floor length skirts | Off Supply, Zoe Pea, floor length skirts |
 | Wed, 21 Oct 2026 | 3 Jahre Electroamore Residency im Unter Deck | DJ FM & DJ FREUND, Die Tektonische Plattenverschiebung, Kim_Twiddle, RONNY, Safahs |
@@ -19,4 +18,4 @@ Unter Deck is a music venue in Munich listed on soundcheck. 6 upcoming nights, w
 
 Oberanger 26, 80331 München, Munich
 
-*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/munich/club/unter-deck/)*
+*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/munich/club/unter-deck/)*

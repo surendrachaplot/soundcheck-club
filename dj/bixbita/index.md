@@ -1,8 +1,8 @@
 # BIXBITA
 
-BIXBITA is a Techno and Trance artist with 3 upcoming club dates listed on soundcheck as of Wed, 16 Sept 2026, next at Den Anden Side, Copenhagen on Fri, 18 Sept 2026.
+BIXBITA is a Techno and Trance artist with 4 upcoming club dates listed on soundcheck as of Thu, 17 Sept 2026, next at Den Anden Side, Copenhagen on Fri, 18 Sept 2026.
 
-BIXBITA is a techno and trance artist tracked on soundcheck, with 74 sets logged across Barcelona, Berlin, Budapest and Cologne and 13 more. Often billed alongside Zomkrad, Juan Cernadas and Krash Cora. Next up: Den Anden Side, Copenhagen on Fri 18 Sept.
+BIXBITA is a techno and trance artist tracked on soundcheck, with 75 sets logged across Barcelona, Berlin, Budapest and Cologne and 13 more. Often billed alongside Zomkrad, Juan Cernadas and Krash Cora. Next up: Den Anden Side, Copenhagen on Fri 18 Sept.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ BIXBITA is a techno and trance artist tracked on soundcheck, with 74 sets logged
 | --- | --- | --- |
 | Fri, 18 Sept 2026 | Den Anden Side | Copenhagen |
 | Sat, 3 Oct 2026 | Mondo Open Air | Madrid |
+| Sat, 3 Oct 2026 | Mondo | Madrid |
 | Sat, 24 Oct 2026 | Spook Club | Valencia |
 
 ## Recently played
@@ -27,4 +28,4 @@ BIXBITA is a techno and trance artist tracked on soundcheck, with 74 sets logged
 
 Zomkrad, Juan Cernadas, Krash Cora
 
-*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bixbita/)*
+*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bixbita/)*

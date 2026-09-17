@@ -1,6 +1,6 @@
 # Ion Pananides
 
-Ion Pananides is a House and Tech House artist with 4 upcoming club dates listed on soundcheck as of Wed, 16 Sept 2026, next at Cova Santa, Ibiza on Thu, 17 Sept 2026.
+Ion Pananides is a House and Tech House artist with 4 upcoming club dates listed on soundcheck as of Thu, 17 Sept 2026, next at Cova Santa, Ibiza on Thu, 17 Sept 2026.
 
 Ion Pananides is a house and tech house artist based in Spain, tracked on soundcheck, with 76 sets logged across Barcelona, Ibiza, London and Madrid and 3 more. Often billed alongside Alex Pott, DJ Sandwich and IULS. Next up: Cova Santa, Ibiza on Thu 17 Sept.
 
@@ -28,4 +28,4 @@ Ion Pananides is a house and tech house artist based in Spain, tracked on soundc
 
 Alex Pott, DJ Sandwich, IULS
 
-*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ionpananides/)*
+*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ionpananides/)*

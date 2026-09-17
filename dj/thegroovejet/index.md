@@ -1,8 +1,8 @@
 # The Groovejet
 
-The Groovejet is a House and Pop artist with 2 upcoming club dates listed on soundcheck as of Wed, 16 Sept 2026, next at Club NYX, Amsterdam on Sat, 26 Sept 2026.
+The Groovejet is a House and Pop artist with 3 upcoming club dates listed on soundcheck as of Thu, 17 Sept 2026, next at Club NYX, Amsterdam on Sat, 26 Sept 2026.
 
-The Groovejet is a house and pop artist based in Netherlands, tracked on soundcheck, with 6 sets logged across Amsterdam. Often billed alongside Emma Champagne Queen, Kirilski and Aiscream. Next up: Club NYX, Amsterdam on Sat 26 Sept.
+The Groovejet is a house and pop artist based in Netherlands, tracked on soundcheck, with 7 sets logged across Amsterdam. Often billed alongside Emma Champagne Queen, Kirilski and Aiscream. Next up: Club NYX, Amsterdam on Sat 26 Sept.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ The Groovejet is a house and pop artist based in Netherlands, tracked on soundch
 | --- | --- | --- |
 | Sat, 26 Sept 2026 | Club NYX | Amsterdam |
 | Fri, 23 Oct 2026 | Badhuis Amsterdam | Amsterdam |
+| Sat, 24 Oct 2026 | Club NYX | Amsterdam |
 
 ## Recently played
 
@@ -22,4 +23,4 @@ The Groovejet is a house and pop artist based in Netherlands, tracked on soundch
 
 Emma Champagne Queen, Kirilski, Aiscream
 
-*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/thegroovejet/)*
+*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/thegroovejet/)*

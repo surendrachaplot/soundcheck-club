@@ -1,14 +1,14 @@
 # papa jazz
 
-papa jazz is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Wed, 16 Sept 2026, next at Palais, London on Sun, 20 Sept 2026.
+papa jazz is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Thu, 17 Sept 2026, next at Vittoria Wharf Studio, London on Sun, 20 Sept 2026.
 
-papa jazz is a house and deep house artist based in Canada, tracked on soundcheck, with 97 sets logged across Berlin, London, Mexicocity and Munich and 1 more. Often billed alongside Rafatel, Barreto and Valeriana. Next up: Palais, London on Sun 20 Sept.
+papa jazz is a house and deep house artist based in Canada, tracked on soundcheck, with 97 sets logged across Berlin, London, Mexicocity and Munich and 1 more. Often billed alongside Rafatel, Barreto and Valeriana. Next up: Vittoria Wharf Studio, London on Sun 20 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sun, 20 Sept 2026 | Palais | London |
+| Sun, 20 Sept 2026 | Vittoria Wharf Studio | London |
 
 ## Recently played
 
@@ -25,4 +25,4 @@ papa jazz is a house and deep house artist based in Canada, tracked on soundchec
 
 Rafatel, Barreto, Valeriana
 
-*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/papajazz/)*
+*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/papajazz/)*

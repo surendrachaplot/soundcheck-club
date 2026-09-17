@@ -1,14 +1,16 @@
 # HIDRA
 
-HIDRA is a House and Afro House artist with 1 upcoming club date listed on soundcheck as of Wed, 16 Sept 2026, next at Mothership, San Francisco/Oakland on Thu, 1 Oct 2026.
+HIDRA is a House and Afro House artist with 3 upcoming club dates listed on soundcheck as of Thu, 17 Sept 2026, next at F8 1192 Folsom, San Francisco/Oakland on Thu, 24 Sept 2026.
 
-HIDRA is a house and afro house artist based in Italy, tracked on soundcheck, with 102 sets logged across Buenosaires and Sanfrancisco. Often billed alongside Emanate, Jeff Straw and DJ M3. Next up: Mothership, Sanfrancisco on Thu 1 Oct.
+HIDRA is a house and afro house artist based in Italy, tracked on soundcheck, with 104 sets logged across Buenosaires and Sanfrancisco. Often billed alongside Emanate, Jeff Straw and DJ M3. Next up: F8 1192 Folsom, Sanfrancisco on Thu 24 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Thu, 24 Sept 2026 | F8 1192 Folsom | San Francisco/Oakland |
 | Thu, 1 Oct 2026 | Mothership | San Francisco/Oakland |
+| Thu, 29 Oct 2026 | F8 1192 Folsom | San Francisco/Oakland |
 
 ## Recently played
 
@@ -25,4 +27,4 @@ HIDRA is a house and afro house artist based in Italy, tracked on soundcheck, wi
 
 Emanate, Jeff Straw, DJ M3
 
-*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/hidra/)*
+*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/hidra/)*

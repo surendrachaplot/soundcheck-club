@@ -1,6 +1,6 @@
 # Evan Baggs
 
-Evan Baggs is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 16 Sept 2026, next at Signal, New York City on Fri, 25 Sept 2026.
+Evan Baggs is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 17 Sept 2026, next at Signal, New York City on Fri, 25 Sept 2026.
 
 Evan Baggs is a house and techno artist based in United States of America, tracked on soundcheck, with 141 sets logged across Amsterdam, Antwerp, Athens and Bali and 44 more. Often billed alongside DJ Masda, Binh and Andy Luff. Next up: Signal, Newyorkcity on Fri 25 Sept.
 
@@ -26,4 +26,4 @@ Evan Baggs is a house and techno artist based in United States of America, track
 
 DJ Masda, Binh, Andy Luff
 
-*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/evanbaggs/)*
+*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/evanbaggs/)*

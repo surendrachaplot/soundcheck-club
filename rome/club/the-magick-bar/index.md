@@ -1,6 +1,6 @@
 # THE MAGICK BAR
 
-THE MAGICK BAR is a music venue in Rome with 2 upcoming nights listed on soundcheck as of Wed, 16 Sept 2026; the next is "Scherzo al Magick: Jade Seatle, Joe Rosh" on Thu, 17 Sept 2026.
+THE MAGICK BAR is a music venue in Rome with 2 upcoming nights listed on soundcheck as of Thu, 17 Sept 2026; the next is "Scherzo al Magick: Jade Seatle, Joe Rosh" on Thu, 17 Sept 2026.
 
 THE MAGICK BAR is a music venue in Rome listed on soundcheck. 2 upcoming nights, with line-ups including Etta Simone, Jade Seatle, Joe Rosh and LPLPLP and 1 more. Browse upcoming dates, start times and who's playing. Via Lungotevere Oberdan, 2 Rome, Italy 00195.
 
@@ -15,4 +15,4 @@ THE MAGICK BAR is a music venue in Rome listed on soundcheck. 2 upcoming nights,
 
 Via Lungotevere Oberdan, 2 Rome, Italy 00195, Rome
 
-*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/rome/club/the-magick-bar/)*
+*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/rome/club/the-magick-bar/)*

@@ -1,6 +1,6 @@
 # The House On Locust
 
-The House On Locust is a music venue in New York City with 2 upcoming nights listed on soundcheck as of Wed, 16 Sept 2026; the next is "Common Ground" on Sat, 14 Nov 2026.
+The House On Locust is a music venue in New York City with 2 upcoming nights listed on soundcheck as of Thu, 17 Sept 2026; the next is "Common Ground" on Sat, 14 Nov 2026.
 
 The House On Locust is a music venue in Newyorkcity listed on soundcheck. 2 upcoming nights. Browse upcoming dates, start times and who's playing.
 
@@ -11,4 +11,4 @@ The House On Locust is a music venue in Newyorkcity listed on soundcheck. 2 upco
 | Sat, 14 Nov 2026 | Common Ground |  |
 | Sat, 14 Nov 2026 | Common Ground |  |
 
-*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/the-house-on-locust/)*
+*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/the-house-on-locust/)*

@@ -1,6 +1,6 @@
 # Nicole Lovera
 
-Nicole Lovera is a Techno and Downtempo artist with 1 upcoming club date listed on soundcheck as of Wed, 16 Sept 2026, next at Main Club, Milan on Thu, 17 Sept 2026.
+Nicole Lovera is a Techno and Downtempo artist with 1 upcoming club date listed on soundcheck as of Thu, 17 Sept 2026, next at Main Club, Milan on Thu, 17 Sept 2026.
 
 Nicole Lovera is a techno and downtempo artist based in Italy, tracked on soundcheck, with 12 sets logged across Milan and Turin. Often billed alongside sizing, Gandalf and Marbox. Next up: Main Club, Milan on Thu 17 Sept.
 
@@ -25,4 +25,4 @@ Nicole Lovera is a techno and downtempo artist based in Italy, tracked on soundc
 
 sizing, Gandalf, Marbox
 
-*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nicolelovera/)*
+*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nicolelovera/)*

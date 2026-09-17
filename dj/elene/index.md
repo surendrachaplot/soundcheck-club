@@ -1,6 +1,6 @@
 # Elene
 
-Elene is a House and Electronica artist with 1 upcoming club date listed on soundcheck as of Wed, 16 Sept 2026, next at L'ado, Tbilisi on Sat, 19 Sept 2026.
+Elene is a House and Electronica artist with 1 upcoming club date listed on soundcheck as of Thu, 17 Sept 2026, next at L'ado, Tbilisi on Sat, 19 Sept 2026.
 
 Elene is a house and electronica artist tracked on soundcheck, with 42 sets logged across Berlin, Tallinn and Tbilisi. Often billed alongside Obri, Bekuchi and Gio Shengelia. Next up: L'ado, Tbilisi on Sat 19 Sept.
 
@@ -25,4 +25,4 @@ Elene is a house and electronica artist tracked on soundcheck, with 42 sets logg
 
 Obri, Bekuchi, Gio Shengelia
 
-*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/elene/)*
+*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/elene/)*

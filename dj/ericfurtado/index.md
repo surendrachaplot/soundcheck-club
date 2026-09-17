@@ -1,13 +1,14 @@
 # Eric Furtado
 
-Eric Furtado is a House and Minimal Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 16 Sept 2026, next at Ministerium Club, Lisbon on Sat, 19 Sept 2026.
+Eric Furtado is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Thu, 17 Sept 2026, next at Collect LX Factory, Lisbon on Fri, 18 Sept 2026.
 
-Eric Furtado is a house and minimal techno artist tracked on soundcheck, with 16 sets logged across Lisbon. Often billed alongside Markov (cult), Kristina (2) and Alive. Next up: Ministerium Club, Lisbon on Sat 19 Sept.
+Eric Furtado is a house and techno artist tracked on soundcheck, with 17 sets logged across Lisbon. Often billed alongside Markov (cult), Kristina (2) and Natural Goofy. Next up: Collect LX Factory, Lisbon on Fri 18 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 18 Sept 2026 | Collect LX Factory | Lisbon |
 | Sat, 19 Sept 2026 | Ministerium Club | Lisbon |
 | Sun, 20 Sept 2026 | Carmo Rooftop | Lisbon |
 
@@ -24,6 +25,6 @@ Eric Furtado is a house and minimal techno artist tracked on soundcheck, with 16
 
 ## Shares bills with
 
-Markov (cult), Kristina (2), Alive
+Markov (cult), Kristina (2), Natural Goofy
 
-*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ericfurtado/)*
+*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ericfurtado/)*

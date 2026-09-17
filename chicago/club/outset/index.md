@@ -1,6 +1,6 @@
 # Outset
 
-Outset is a music venue in Chicago with 6 upcoming nights listed on soundcheck as of Wed, 16 Sept 2026; the next is "Satin Jackets" on Fri, 25 Sept 2026.
+Outset is a music venue in Chicago with 6 upcoming nights listed on soundcheck as of Thu, 17 Sept 2026; the next is "Satin Jackets" on Fri, 25 Sept 2026.
 
 Outset is a music venue in Chicago listed on soundcheck. 6 upcoming nights, with line-ups including Vegyn. Browse upcoming dates, start times and who's playing. 1675 N Elston Ave, Chicago, IL 60642.
 
@@ -19,4 +19,4 @@ Outset is a music venue in Chicago listed on soundcheck. 6 upcoming nights, with
 
 1675 N Elston Ave, Chicago, IL 60642, Chicago
 
-*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/chicago/club/outset/)*
+*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/chicago/club/outset/)*

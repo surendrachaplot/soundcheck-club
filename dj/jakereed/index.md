@@ -1,6 +1,6 @@
 # Jake Reed
 
-Jake Reed is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Wed, 16 Sept 2026, next at XOYO, London on Fri, 18 Sept 2026.
+Jake Reed is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Thu, 17 Sept 2026, next at XOYO, London on Fri, 18 Sept 2026.
 
 Jake Reed is a house and disco artist tracked on soundcheck, with 23 sets logged across London. Often billed alongside Joshua James, Chester Hayes and Ross Anderson. Next up: XOYO, London on Fri 18 Sept.
 
@@ -25,4 +25,4 @@ Jake Reed is a house and disco artist tracked on soundcheck, with 23 sets logged
 
 Joshua James, Chester Hayes, Ross Anderson
 
-*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jakereed/)*
+*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jakereed/)*

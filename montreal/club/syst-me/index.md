@@ -1,8 +1,8 @@
 # Système
 
-Système is a music venue in Montreal with 10 upcoming nights listed on soundcheck as of Wed, 16 Sept 2026; the next is "Vayia + Laurence Matte + Prïa" on Thu, 17 Sept 2026.
+Système is a music venue in Montreal with 11 upcoming nights listed on soundcheck as of Thu, 17 Sept 2026; the next is "Vayia + Laurence Matte + Prïa" on Thu, 17 Sept 2026.
 
-Système is a music venue in Montreal listed on soundcheck. 10 upcoming nights, with line-ups including Anabasine, Barbara Boeing, Dave P and DJ Frog and 2 more. Browse upcoming dates, start times and who's playing. 7119 Saint Hubert, Montreal QC H2S2N1 Canada.
+Système is a music venue in Montreal listed on soundcheck. 11 upcoming nights, with line-ups including Anabasine, anise, Barbara Boeing and Claire and 2 more. Browse upcoming dates, start times and who's playing. 7119 Saint Hubert, Montreal QC H2S2N1 Canada.
 
 ## What's on
 
@@ -15,7 +15,7 @@ Système is a music venue in Montreal listed on soundcheck. 10 upcoming nights, 
 | Sun, 20 Sept 2026 | Give It To 'Em Release Party | Kridelka |
 | Thu, 24 Sept 2026 | Système Soundsystem |  |
 | Fri, 25 Sept 2026 | Convida x Groovy Castle | Barbara Boeing, Jean Pascal Groove |
-| Sat, 26 Sept 2026 | Flush |  |
+| Sat, 26 Sept 2026 | Flush | Claire, newfriend, zi! |
 | Sun, 27 Sept 2026 | Causal Chain: Delian League 'Crush' Release Party | Anabasine, laced |
 | Fri, 2 Oct 2026 | Loose Screws | Dave P, Faux Sommets, Syd Woz |
 
@@ -23,4 +23,4 @@ Système is a music venue in Montreal listed on soundcheck. 10 upcoming nights, 
 
 7119 Saint Hubert, Montreal QC H2S2N1 Canada, Montreal
 
-*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/montreal/club/syst-me/)*
+*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/montreal/club/syst-me/)*

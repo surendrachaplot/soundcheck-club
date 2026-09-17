@@ -1,6 +1,6 @@
 # PORTAL - ADE Melodic Techno Journey at Bar Rouge
 
-PORTAL - ADE Melodic Techno Journey at Bar Rouge on Thu 22 Oct, Amsterdam. 2 acts on the bill: EL PADRE and Nathassia. Progressive House and Techno. Preview the line-up and save it on soundcheck.
+PORTAL - ADE Melodic Techno Journey at Bar Rouge on Thu 22 Oct, Amsterdam. 4 acts on the bill: EL PADRE, Nathassia, Terry Golden and VIGILANT. Progressive House and Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -12,5 +12,7 @@ PORTAL - ADE Melodic Techno Journey at Bar Rouge on Thu 22 Oct, Amsterdam. 2 act
 
 - EL PADRE
 - Nathassia
+- Terry Golden
+- VIGILANT
 
 *Source: [soundcheck](https://soundcheck.club/e/2485506-portal-ade-melodic-techno-journey-at-bar-rouge/)*

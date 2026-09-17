@@ -1,6 +1,6 @@
 # tsola
 
-tsola is a EBM and Electronica artist with 2 upcoming club dates listed on soundcheck as of Wed, 16 Sept 2026, next at Drugstore Beograd, Belgrade on Fri, 2 Oct 2026.
+tsola is a EBM and Electronica artist with 2 upcoming club dates listed on soundcheck as of Thu, 17 Sept 2026, next at Drugstore Beograd, Belgrade on Fri, 2 Oct 2026.
 
 tsola is an ebm and electronica artist tracked on soundcheck, with 26 sets logged across Belgrade. Often billed alongside illillillillill, lu:ka and Matej Rusmir. Next up: Drugstore Beograd, Belgrade on Fri 2 Oct.
 
@@ -26,4 +26,4 @@ tsola is an ebm and electronica artist tracked on soundcheck, with 26 sets logge
 
 illillillillill, lu:ka, Matej Rusmir
 
-*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tsola/)*
+*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tsola/)*

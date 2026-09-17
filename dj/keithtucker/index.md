@@ -1,6 +1,6 @@
 # Keith Tucker
 
-Keith Tucker is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Wed, 16 Sept 2026, next at Spkrbox, Detroit on Wed, 7 Oct 2026.
+Keith Tucker is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Thu, 17 Sept 2026, next at Spkrbox, Detroit on Wed, 7 Oct 2026.
 
 Keith Tucker is a techno and electro artist based in United States of America, tracked on soundcheck, with 33 sets logged across Amsterdam, Berlin, Detroit and Newyorkcity and 1 more. Often billed alongside Eddie Fowlkes, Shawescape Renegade and B. Bonds. Next up: Spkrbox, Detroit on Wed 7 Oct.
 
@@ -25,4 +25,4 @@ Keith Tucker is a techno and electro artist based in United States of America, t
 
 Eddie Fowlkes, Shawescape Renegade, B. Bonds
 
-*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/keithtucker/)*
+*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/keithtucker/)*

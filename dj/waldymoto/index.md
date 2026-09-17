@@ -1,6 +1,6 @@
 # Waldymoto
 
-Waldymoto is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 16 Sept 2026, next at Renate, Berlin on Fri, 30 Oct 2026.
+Waldymoto is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 17 Sept 2026, next at Renate, Berlin on Fri, 30 Oct 2026.
 
 Waldymoto is a techno and house artist tracked on soundcheck, with 30 sets logged across Antwerp, Berlin, Cologne and Dusseldorf and 2 more. Often billed alongside mojo (DE), Ariel (DE) and Anna Konda. Next up: Renate, Berlin on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ Waldymoto is a techno and house artist tracked on soundcheck, with 30 sets logge
 
 mojo (DE), Ariel (DE), Anna Konda
 
-*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/waldymoto/)*
+*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/waldymoto/)*

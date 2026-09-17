@@ -1,6 +1,6 @@
 # BOYPRINCESS
 
-BOYPRINCESS is a Industrial and Baile Funk artist with 2 upcoming club dates listed on soundcheck as of Wed, 16 Sept 2026, next at TBA, San Francisco/Oakland on Fri, 18 Sept 2026.
+BOYPRINCESS is a Industrial and Baile Funk artist with 2 upcoming club dates listed on soundcheck as of Thu, 17 Sept 2026, next at TBA, San Francisco/Oakland on Fri, 18 Sept 2026.
 
 BOYPRINCESS is an industrial and baile funk artist based in United States of America, tracked on soundcheck, with 2 sets logged across Sanfrancisco. Often billed alongside 2AT, BRIIZV and DE ALMA. Next up: TBA, Sanfrancisco on Fri 18 Sept.
 
@@ -15,4 +15,4 @@ BOYPRINCESS is an industrial and baile funk artist based in United States of Ame
 
 2AT, BRIIZV, DE ALMA
 
-*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/boyprincess/)*
+*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/boyprincess/)*

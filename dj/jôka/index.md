@@ -1,6 +1,6 @@
 # Jôka
 
-Jôka is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 16 Sept 2026, next at TBA - Margarethe-Danzi-Straße 29, Munich on Sat, 19 Sept 2026.
+Jôka is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 17 Sept 2026, next at TBA - Margarethe-Danzi-Straße 29, Munich on Sat, 19 Sept 2026.
 
 Jôka is a house and techno artist based in Germany, tracked on soundcheck, with 22 sets logged across Amsterdam and Munich. Often billed alongside David Hornung, Javier Gallardo and tanjuesch. Next up: TBA - Margarethe-Danzi-Straße 29, Munich on Sat 19 Sept.
 
@@ -25,4 +25,4 @@ Jôka is a house and techno artist based in Germany, tracked on soundcheck, with
 
 David Hornung, Javier Gallardo, tanjuesch
 
-*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jôka/)*
+*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jôka/)*

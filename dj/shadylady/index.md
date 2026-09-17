@@ -1,14 +1,15 @@
 # Shady Lady
 
-Shady Lady is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Wed, 16 Sept 2026, next at Fire & Lightbox, London on Sat, 31 Oct 2026.
+Shady Lady is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Thu, 17 Sept 2026, next at Fire & Lightbox, London on Sat, 31 Oct 2026.
 
-Shady Lady is a house and disco artist tracked on soundcheck, with 61 sets logged across Amsterdam, Antwerp, Auckland and Berlin and 5 more. Often billed alongside DJ Tracksuit, Huck Finn and MMIV. Next up: Fire & Lightbox, London on Sat 31 Oct.
+Shady Lady is a house and disco artist tracked on soundcheck, with 62 sets logged across Amsterdam, Antwerp, Auckland and Berlin and 5 more. Often billed alongside DJ Tracksuit, MMIV and Huck Finn. Next up: Fire & Lightbox, London on Sat 31 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 31 Oct 2026 | Fire & Lightbox | London |
+| Sat, 31 Oct 2026 | Doka | Amsterdam |
 
 ## Recently played
 
@@ -23,6 +24,6 @@ Shady Lady is a house and disco artist tracked on soundcheck, with 61 sets logge
 
 ## Shares bills with
 
-DJ Tracksuit, Huck Finn, MMIV
+DJ Tracksuit, MMIV, Huck Finn
 
-*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/shadylady/)*
+*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/shadylady/)*

@@ -1,6 +1,6 @@
 # Bread & Butter
 
-Bread & Butter is a Tech House and Afro House artist with 2 upcoming club dates listed on soundcheck as of Wed, 16 Sept 2026, next at Brixton Radio, London on Sat, 19 Sept 2026.
+Bread & Butter is a Tech House and Afro House artist with 2 upcoming club dates listed on soundcheck as of Thu, 17 Sept 2026, next at Brixton Radio, London on Sat, 19 Sept 2026.
 
 Bread & Butter are a tech house and afro house duo tracked on soundcheck, with 38 sets logged across Amsterdam, Berlin, Copenhagen and London. Often billed alongside William Quintero (2), TIME LVPSE and Itswilliamquintero. Next up: Brixton Radio, London on Sat 19 Sept.
 
@@ -26,4 +26,4 @@ Bread & Butter are a tech house and afro house duo tracked on soundcheck, with 3
 
 William Quintero (2), TIME LVPSE, Itswilliamquintero
 
-*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/breadbutter/)*
+*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/breadbutter/)*

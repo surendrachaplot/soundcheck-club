@@ -1,6 +1,6 @@
 # Solomun
 
-Solomun is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Wed, 16 Sept 2026, next at TBA - Palace of Justice , Brussels on Sat, 19 Sept 2026.
+Solomun is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Thu, 17 Sept 2026, next at TBA - Palace of Justice , Brussels on Sat, 19 Sept 2026.
 
 Solomun is a techno and house artist tracked on soundcheck, with 186 sets logged across Amsterdam, Athens, Bali and Barcelona and 35 more. Often billed alongside Chloé Caillet, DJ Tennis and Johannes Brecht. Next up: TBA - Palace of Justice , Brussels on Sat 19 Sept.
 
@@ -30,4 +30,4 @@ Solomun is a techno and house artist tracked on soundcheck, with 186 sets logged
 
 Chloé Caillet, DJ Tennis, Johannes Brecht
 
-*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/solomun/)*
+*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/solomun/)*

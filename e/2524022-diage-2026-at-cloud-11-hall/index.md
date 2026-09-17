@@ -1,6 +1,6 @@
 # DIAGE 2026 at Cloud 11 Hall
 
-DIAGE 2026 at Cloud 11 Hall on Sat 31 Oct, Bangkok. 8 acts on the bill: Evian Christ, Kim Laughton, Koichi Shimizu and MONOCOLOR and 4 more. Experimental and IDM. Preview the line-up and save it on soundcheck.
+DIAGE 2026 at Cloud 11 Hall on Sat 31 Oct, Bangkok. 23 acts on the bill: ahivar, Club Mascot, DJ Dragon and DJ Praw and 19 more. Experimental and IDM. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,13 +10,28 @@ DIAGE 2026 at Cloud 11 Hall on Sat 31 Oct, Bangkok. 8 acts on the bill: Evian Ch
 
 ## Line-up
 
+- ahivar
+- Club Mascot
+- DJ Dragon
+- DJ Praw
+- DJ Zombie
 - Evian Christ
 - Kim Laughton
 - Koichi Shimizu
+- Kova O' Sarin
+- KPODKPOD
+- Ludu
+- Mae Happyair
+- MAYTAE
+- MJMA
 - MONOCOLOR
 - Montonn Jira
 - Slikback
+- Soup snakeS
+- Takky
 - Tasya (2)
 - Tzusing
+- Yoongying
+- Yorsab
 
 *Source: [soundcheck](https://soundcheck.club/e/2524022-diage-2026-at-cloud-11-hall/)*

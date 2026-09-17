@@ -1,14 +1,13 @@
 # Naone
 
-Naone is a Techno and House artist with 7 upcoming club dates listed on soundcheck as of Wed, 16 Sept 2026, next at Bossa Nova Civic Club, New York City on Wed, 16 Sept 2026.
+Naone is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Thu, 17 Sept 2026, next at Fort Mifflin, Philadelphia on Fri, 18 Sept 2026.
 
-Naone is a techno and house artist tracked on soundcheck, with 180 sets logged across Amsterdam, Barcelona, Berlin and Brussels and 31 more. Often billed alongside Iggy P, Sansibar and mad miran. Next up: Bossa Nova Civic Club, Newyorkcity on Wed 16 Sept.
+Naone is a techno and house artist tracked on soundcheck, with 180 sets logged across Amsterdam, Barcelona, Berlin and Brussels and 31 more. Often billed alongside Iggy P, Sansibar and mad miran. Next up: Fort Mifflin, Philadelphia on Fri 18 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Wed, 16 Sept 2026 | Bossa Nova Civic Club | New York City |
 | Fri, 18 Sept 2026 | Fort Mifflin | Philadelphia |
 | Fri, 18 Sept 2026 | Signal | New York City |
 | Sat, 26 Sept 2026 | La Cité Fertile | Paris |
@@ -18,6 +17,7 @@ Naone is a techno and house artist tracked on soundcheck, with 180 sets logged a
 
 ## Recently played
 
+- Bossa Nova Civic Club, New York City — Wed, 16 Sept 2026
 - Camp Kennybrook, New York City — Thu, 10 Sept 2026
 - Gaffe, London — Sun, 6 Sept 2026
 - Tuinen van West, Amsterdam — Sat, 29 Aug 2026
@@ -25,10 +25,9 @@ Naone is a techno and house artist tracked on soundcheck, with 180 sets logged a
 - TBA - Klingemühle, Berlin — Fri, 14 Aug 2026
 - CLUB RAUM, Amsterdam — Sat, 11 Jul 2026
 - Blå, Oslo — Sat, 4 Jul 2026
-- Time is the new space, Rotterdam — Fri, 26 Jun 2026
 
 ## Shares bills with
 
 Iggy P, Sansibar, mad miran
 
-*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/naone-kr/)*
+*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/naone-kr/)*

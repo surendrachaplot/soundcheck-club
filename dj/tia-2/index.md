@@ -1,6 +1,6 @@
 # tia (2)
 
-tia (2) is a Breakbeat and Acid artist with 1 upcoming club date listed on soundcheck as of Wed, 16 Sept 2026, next at control, Bucharest on Sat, 19 Sept 2026.
+tia (2) is a Breakbeat and Acid artist with 1 upcoming club date listed on soundcheck as of Thu, 17 Sept 2026, next at control, Bucharest on Sat, 19 Sept 2026.
 
 tia (2) is a breakbeat and acid artist based in Romania, tracked on soundcheck, with 7 sets logged across Bucharest. Often billed alongside Bog (2), Gheordu and NTHR. Next up: control, Bucharest on Sat 19 Sept.
 
@@ -23,4 +23,4 @@ tia (2) is a breakbeat and acid artist based in Romania, tracked on soundcheck, 
 
 Bog (2), Gheordu, NTHR
 
-*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tia-2/)*
+*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tia-2/)*

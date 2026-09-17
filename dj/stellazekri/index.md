@@ -1,6 +1,6 @@
 # Stella Zekri
 
-Stella Zekri is a House and Techno artist with 8 upcoming club dates listed on soundcheck as of Wed, 16 Sept 2026, next at Yderlandsvej 1, Copenhagen on Fri, 18 Sept 2026.
+Stella Zekri is a House and Techno artist with 8 upcoming club dates listed on soundcheck as of Thu, 17 Sept 2026, next at Yderlandsvej 1, Copenhagen on Fri, 18 Sept 2026.
 
 Stella Zekri is a house and techno artist tracked on soundcheck, with 189 sets logged across Amsterdam, Antwerp, Barcelona and Berlin and 28 more. Often billed alongside Camilla Rae, 131bpm and CCL. Next up: Yderlandsvej 1, Copenhagen on Fri 18 Sept.
 
@@ -32,4 +32,4 @@ Stella Zekri is a house and techno artist tracked on soundcheck, with 189 sets l
 
 Camilla Rae, 131bpm, CCL
 
-*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/stellazekri/)*
+*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/stellazekri/)*

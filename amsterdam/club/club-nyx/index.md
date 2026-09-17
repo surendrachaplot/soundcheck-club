@@ -1,6 +1,6 @@
 # Club NYX
 
-Club NYX is a music venue in Amsterdam with 8 upcoming nights listed on soundcheck as of Wed, 16 Sept 2026; the next is "Vrijdag is NYX" on Fri, 18 Sept 2026.
+Club NYX is a music venue in Amsterdam with 8 upcoming nights listed on soundcheck as of Thu, 17 Sept 2026; the next is "Vrijdag is NYX" on Fri, 18 Sept 2026.
 
 Club NYX is a music venue in Amsterdam listed on soundcheck. 8 upcoming nights, with line-ups including Alexis Knox, Babs op de beat, Edward Meunier and FREY. and 2 more. Browse upcoming dates, start times and who's playing. Reguliersdwarsstraat 42, 1017BM Amsterdam.
 
@@ -14,11 +14,11 @@ Club NYX is a music venue in Amsterdam listed on soundcheck. 8 upcoming nights, 
 | Sat, 26 Sept 2026 | 3xNYX: Burn the House Down | Babs op de beat, Edward Meunier, MeRas, Soulfania, The Groovejet |
 | Fri, 2 Oct 2026 | Vrijdag is NYX: 14 jaar NYX | Turne |
 | Sat, 3 Oct 2026 | 3xNYX: 14 YEARS OF NYX | MeRas |
-| Sat, 24 Oct 2026 | RARA AVIS | Spikey Lee, TEKNA |
+| Sat, 24 Oct 2026 | RARA AVIS | Spikey Lee, TEKNA, The Groovejet |
 | Sat, 31 Oct 2026 | 3xNYX: HALLOQUEEN | Alexis Knox, FREY., Spikey Lee |
 
 ## Address
 
 Reguliersdwarsstraat 42, 1017BM Amsterdam, Amsterdam
 
-*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/club-nyx/)*
+*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/club-nyx/)*

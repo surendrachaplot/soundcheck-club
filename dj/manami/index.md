@@ -1,6 +1,6 @@
 # Manami
 
-Manami is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 16 Sept 2026, next at Gaffe, London on Sat, 19 Sept 2026.
+Manami is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 17 Sept 2026, next at Gaffe, London on Sat, 19 Sept 2026.
 
 Manami is a house and techno artist tracked on soundcheck, with 97 sets logged across Amsterdam, Barcelona, Belfast and Berlin and 24 more. Often billed alongside Amaliah, Beatrice M. and KT. Next up: Gaffe, London on Sat 19 Sept.
 
@@ -25,4 +25,4 @@ Manami is a house and techno artist tracked on soundcheck, with 97 sets logged a
 
 Amaliah, Beatrice M., KT
 
-*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/manami/)*
+*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/manami/)*

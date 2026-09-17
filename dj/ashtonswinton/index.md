@@ -1,8 +1,8 @@
 # Ashton Swinton
 
-Ashton Swinton is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Wed, 16 Sept 2026, next at Menjo's, Detroit on Sat, 26 Sept 2026.
+Ashton Swinton is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Thu, 17 Sept 2026, next at Menjo's, Detroit on Sat, 26 Sept 2026.
 
-Ashton Swinton is a techno and house artist based in United States of America, tracked on soundcheck, with 141 sets logged across Berlin, Chicago, Detroit and Newyorkcity and 1 more. Often billed alongside Loren, Garrison XR and Kindle. Next up: Menjo's, Detroit on Sat 26 Sept.
+Ashton Swinton is a techno and house artist based in United States of America, tracked on soundcheck, with 142 sets logged across Berlin, Chicago, Detroit and Newyorkcity and 1 more. Often billed alongside Loren, Garrison XR and Kindle. Next up: Menjo's, Detroit on Sat 26 Sept.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Ashton Swinton is a techno and house artist based in United States of America, t
 | --- | --- | --- |
 | Sat, 26 Sept 2026 | Menjo's | Detroit |
 | Sun, 4 Oct 2026 | TV Lounge | Detroit |
+| Sat, 10 Oct 2026 | Paris Bar | Detroit |
 
 ## Recently played
 
@@ -26,4 +27,4 @@ Ashton Swinton is a techno and house artist based in United States of America, t
 
 Loren, Garrison XR, Kindle
 
-*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ashtonswinton/)*
+*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ashtonswinton/)*

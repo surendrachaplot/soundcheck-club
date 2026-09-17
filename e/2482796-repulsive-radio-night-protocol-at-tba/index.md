@@ -1,6 +1,6 @@
 # REPULSIVE RADIO: NIGHT PROTOCOL at TBA
 
-REPULSIVE RADIO: NIGHT PROTOCOL at TBA on Sat 19 Sept, Toronto. 5 acts on the bill: 666.pastel, Ard1n, Curaga and Psyberix and 1 more. Hardcore and Gabber. Preview the line-up and save it on soundcheck.
+REPULSIVE RADIO: NIGHT PROTOCOL at TBA on Sat 19 Sept, Toronto. 6 acts on the bill: 666.pastel, Ard1n, Curaga and Prince Batrick and 2 more. Hardcore and Gabber. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -13,6 +13,7 @@ REPULSIVE RADIO: NIGHT PROTOCOL at TBA on Sat 19 Sept, Toronto. 5 acts on the bi
 - 666.pastel
 - Ard1n
 - Curaga
+- Prince Batrick
 - Psyberix
 - Rareasfck
 

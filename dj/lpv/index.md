@@ -1,6 +1,6 @@
 # LPV
 
-LPV is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Wed, 16 Sept 2026, next at AUX Club, Athens on Fri, 25 Sept 2026.
+LPV is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Thu, 17 Sept 2026, next at AUX Club, Athens on Fri, 25 Sept 2026.
 
 LPV is a techno and trance artist based in Italy, tracked on soundcheck, with 16 sets logged across Athens, Berlin, Cardiff and Helsinki and 5 more. Often billed alongside Fran LF, Lars Huismann and Parallx. Next up: AUX Club, Athens on Fri 25 Sept.
 
@@ -26,4 +26,4 @@ LPV is a techno and trance artist based in Italy, tracked on soundcheck, with 16
 
 Fran LF, Lars Huismann, Parallx
 
-*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lpv/)*
+*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lpv/)*

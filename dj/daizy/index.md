@@ -1,6 +1,6 @@
 # Daizy
 
-Daizy is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Wed, 16 Sept 2026, next at Silence Please, New York City on Thu, 17 Sept 2026.
+Daizy is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Thu, 17 Sept 2026, next at Silence Please, New York City on Thu, 17 Sept 2026.
 
 Daizy is a techno and house artist based in United States of America, tracked on soundcheck, with 34 sets logged across Athens, Losangeles, Miami and Newyorkcity and 1 more. Often billed alongside Max Stern, Bakke and Cole Knight. Next up: Silence Please, Newyorkcity on Thu 17 Sept.
 
@@ -29,4 +29,4 @@ Daizy is a techno and house artist based in United States of America, tracked on
 
 Max Stern, Bakke, Cole Knight
 
-*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/daizy/)*
+*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/daizy/)*

@@ -1,6 +1,6 @@
 # Dominique Danielle
 
-Dominique Danielle is a Deep House and House artist with 1 upcoming club date listed on soundcheck as of Wed, 16 Sept 2026, next at Basing House, London on Fri, 25 Sept 2026.
+Dominique Danielle is a Deep House and House artist with 1 upcoming club date listed on soundcheck as of Thu, 17 Sept 2026, next at Basing House, London on Fri, 25 Sept 2026.
 
 Dominique Danielle is a deep house and house artist tracked on soundcheck, with 28 sets logged across Birmingham and London. Often billed alongside Mark Radford, Lance Morgan and B3. Next up: Basing House, London on Fri 25 Sept.
 
@@ -25,4 +25,4 @@ Dominique Danielle is a deep house and house artist tracked on soundcheck, with 
 
 Mark Radford, Lance Morgan, B3
 
-*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dominiquedanielle/)*
+*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dominiquedanielle/)*

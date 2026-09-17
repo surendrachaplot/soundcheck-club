@@ -1,6 +1,6 @@
 # Victoria Arena
 
-Victoria Arena is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 16 Sept 2026, next at 528 Ibiza, Ibiza on Wed, 23 Sept 2026.
+Victoria Arena is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 17 Sept 2026, next at 528 Ibiza, Ibiza on Wed, 23 Sept 2026.
 
 Victoria Arena is a techno and house artist tracked on soundcheck, with 25 sets logged across Berlin, Buenosaires, Frankfurt and Ibiza. Often billed alongside Devil Rays, HIHATDANCER and Camila Isabel. Next up: 528 Ibiza, Ibiza on Wed 23 Sept.
 
@@ -25,4 +25,4 @@ Victoria Arena is a techno and house artist tracked on soundcheck, with 25 sets 
 
 Devil Rays, HIHATDANCER, Camila Isabel
 
-*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/victoriaarena/)*
+*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/victoriaarena/)*

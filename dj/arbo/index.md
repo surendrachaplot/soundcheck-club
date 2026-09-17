@@ -1,8 +1,8 @@
 # Arbo
 
-Arbo is a Techno and EBM artist with 2 upcoming club dates listed on soundcheck as of Wed, 16 Sept 2026, next at Groom, Lyon on Fri, 25 Sept 2026.
+Arbo is a Techno and Ambient artist with 3 upcoming club dates listed on soundcheck as of Thu, 17 Sept 2026, next at Groom, Lyon on Fri, 25 Sept 2026.
 
-Arbo is a techno and ebm artist based in France, tracked on soundcheck, with 11 sets logged across Lyon and Strasbourg. Often billed alongside ANNUN, FTFL and STU (FR). Next up: Groom, Lyon on Fri 25 Sept.
+Arbo is a techno and ambient artist based in France, tracked on soundcheck, with 12 sets logged across Lyon and Strasbourg. Often billed alongside ANNUN, FTFL and STU (FR). Next up: Groom, Lyon on Fri 25 Sept.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Arbo is a techno and ebm artist based in France, tracked on soundcheck, with 11 
 | --- | --- | --- |
 | Fri, 25 Sept 2026 | Groom | Lyon |
 | Fri, 2 Oct 2026 | LE Rafiot Club | Strasbourg |
+| Sat, 28 Nov 2026 | Karmen Camina | Strasbourg |
 
 ## Recently played
 
@@ -26,4 +27,4 @@ Arbo is a techno and ebm artist based in France, tracked on soundcheck, with 11 
 
 ANNUN, FTFL, STU (FR)
 
-*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/arbo/)*
+*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/arbo/)*

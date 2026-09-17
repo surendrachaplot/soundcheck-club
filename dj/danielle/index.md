@@ -1,14 +1,15 @@
 # Danielle
 
-Danielle is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Wed, 16 Sept 2026, next at Gut Level, Sheffield on Fri, 16 Oct 2026.
+Danielle is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Thu, 17 Sept 2026, next at Gut Level, Sheffield on Fri, 16 Oct 2026.
 
-Danielle is a techno and house artist tracked on soundcheck, with 143 sets logged across Amsterdam, Bangkok, Barcelona and Berlin and 32 more. Often billed alongside Amaliah, Ogazón and Ryan Elliott. Next up: Gut Level, Sheffield on Fri 16 Oct.
+Danielle is a techno and house artist tracked on soundcheck, with 144 sets logged across Amsterdam, Bangkok, Barcelona and Berlin and 32 more. Often billed alongside Amaliah, Ogazón and Ryan Elliott. Next up: Gut Level, Sheffield on Fri 16 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 16 Oct 2026 | Gut Level | Sheffield |
+| Sat, 7 Nov 2026 | World Headquarters | Newcastle |
 | Sat, 12 Dec 2026 | Cadavra | Madrid |
 
 ## Recently played
@@ -26,4 +27,4 @@ Danielle is a techno and house artist tracked on soundcheck, with 143 sets logge
 
 Amaliah, Ogazón, Ryan Elliott
 
-*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/danielle/)*
+*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/danielle/)*

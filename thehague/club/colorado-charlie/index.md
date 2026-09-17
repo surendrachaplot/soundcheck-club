@@ -1,6 +1,6 @@
 # Colorado Charlie
 
-Colorado Charlie is a music venue in The Hague with 4 upcoming nights listed on soundcheck as of Wed, 16 Sept 2026; the next is "Happy Feelings Scheveningen - Colorado Charlie Beach Closing W/ Luuk van Dijk" on Fri, 18 Sept 2026.
+Colorado Charlie is a music venue in The Hague with 4 upcoming nights listed on soundcheck as of Thu, 17 Sept 2026; the next is "Happy Feelings Scheveningen - Colorado Charlie Beach Closing W/ Luuk van Dijk" on Fri, 18 Sept 2026.
 
 Colorado Charlie is a music venue in Thehague listed on soundcheck. 4 upcoming nights, with line-ups including Ammé, Boris Coelman, Daughter In Law and D Stone and 2 more. Browse upcoming dates, start times and who's playing. Zwarte Pad 64, Scheveningen, Zuid Holland, Netherlands.
 
@@ -17,4 +17,4 @@ Colorado Charlie is a music venue in Thehague listed on soundcheck. 4 upcoming n
 
 Zwarte Pad 64, Scheveningen, Zuid Holland, Netherlands, The Hague
 
-*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/thehague/club/colorado-charlie/)*
+*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/thehague/club/colorado-charlie/)*

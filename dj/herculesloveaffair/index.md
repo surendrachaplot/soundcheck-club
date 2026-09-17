@@ -1,13 +1,14 @@
 # Hercules & Love Affair
 
-Hercules & Love Affair is a House and Disco artist with 4 upcoming club dates listed on soundcheck as of Wed, 16 Sept 2026, next at Loo Loo, Mexico City on Fri, 18 Sept 2026.
+Hercules & Love Affair is a House and Disco artist with 5 upcoming club dates listed on soundcheck as of Thu, 17 Sept 2026, next at Loo Loo, Mexico City on Fri, 18 Sept 2026.
 
-Hercules & Love Affair are a house and disco duo tracked on soundcheck, with 58 sets logged across Athens, Bali, Bangkok and Barcelona and 26 more. Often billed alongside COBRAH, HAAi and TAAHLIAH. Next up: Loo Loo, Mexicocity on Fri 18 Sept.
+Hercules & Love Affair are a house and disco duo tracked on soundcheck, with 59 sets logged across Athens, Bali, Bangkok and Barcelona and 26 more. Often billed alongside COBRAH, HAAi and TAAHLIAH. Next up: Loo Loo, Mexicocity on Fri 18 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 18 Sept 2026 | Loo Loo | Mexico City |
 | Fri, 18 Sept 2026 | Loo Loo | Mexico City |
 | Sat, 24 Oct 2026 | BASEMENT | New York City |
 | Sat, 14 Nov 2026 | The Night Cat | Melbourne |
@@ -28,4 +29,4 @@ Hercules & Love Affair are a house and disco duo tracked on soundcheck, with 58 
 
 COBRAH, HAAi, TAAHLIAH
 
-*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/herculesloveaffair/)*
+*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/herculesloveaffair/)*

@@ -1,14 +1,14 @@
 # Mojay
 
-Mojay is a Drum & Bass and House artist with 1 upcoming club date listed on soundcheck as of Wed, 16 Sept 2026, next at E1, London on Sat, 14 Nov 2026.
+Mojay is a Drum & Bass and House artist with 1 upcoming club date listed on soundcheck as of Thu, 17 Sept 2026, next at Onyx (E1), London on Sat, 14 Nov 2026.
 
-Mojay is a drum & bass and house artist tracked on soundcheck, with 7 sets logged across Bristol and London. Often billed alongside Kaizah, Mollie Collins and Rene LaVice. Next up: E1, London on Sat 14 Nov.
+Mojay is a drum & bass and house artist tracked on soundcheck, with 7 sets logged across Bristol and London. Often billed alongside Kaizah, Mollie Collins and Rene LaVice. Next up: Onyx (E1), London on Sat 14 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 14 Nov 2026 | E1 | London |
+| Sat, 14 Nov 2026 | Onyx (E1) | London |
 
 ## Recently played
 
@@ -23,4 +23,4 @@ Mojay is a drum & bass and house artist tracked on soundcheck, with 7 sets logge
 
 Kaizah, Mollie Collins, Rene LaVice
 
-*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mojay/)*
+*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mojay/)*

@@ -1,6 +1,6 @@
 # Walker & Royce
 
-Walker & Royce is a House and Tech House artist with 5 upcoming club dates listed on soundcheck as of Wed, 16 Sept 2026, next at Academy LA, Los Angeles on Fri, 18 Sept 2026.
+Walker & Royce is a House and Tech House artist with 5 upcoming club dates listed on soundcheck as of Thu, 17 Sept 2026, next at Academy LA, Los Angeles on Fri, 18 Sept 2026.
 
 Walker & Royce are a house and tech house duo tracked on soundcheck, with 81 sets logged across Austin, Boston, Chicago and Detroit and 13 more. Often billed alongside Vnssa, Kyle Watson and Sara Landry. Next up: Academy LA, Losangeles on Fri 18 Sept.
 
@@ -29,4 +29,4 @@ Walker & Royce are a house and tech house duo tracked on soundcheck, with 81 set
 
 Vnssa, Kyle Watson, Sara Landry
 
-*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/walkerroyce/)*
+*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/walkerroyce/)*

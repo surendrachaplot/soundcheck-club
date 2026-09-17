@@ -1,6 +1,6 @@
 # Tabac
 
-Tabac is a music venue in Glasgow with 1 upcoming night listed on soundcheck as of Wed, 16 Sept 2026; the next is "Brody James & Chicha - Sub Club Pop Up" on Thu, 17 Sept 2026.
+Tabac is a music venue in Glasgow with 1 upcoming night listed on soundcheck as of Thu, 17 Sept 2026; the next is "Brody James & Chicha - Sub Club Pop Up" on Thu, 17 Sept 2026.
 
 Tabac is a music venue in Glasgow listed on soundcheck. 1 upcoming night, with line-ups including Brody James. Browse upcoming dates, start times and who's playing. 10 Mitchell Lane, Glasgow, G1 3NU.
 
@@ -14,4 +14,4 @@ Tabac is a music venue in Glasgow listed on soundcheck. 1 upcoming night, with l
 
 10 Mitchell Lane, Glasgow, G1 3NU, Glasgow
 
-*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/tabac/)*
+*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/tabac/)*

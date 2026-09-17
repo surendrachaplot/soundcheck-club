@@ -1,6 +1,6 @@
 # Loner Tennis Club
 
-Loner Tennis Club is a Techno and Afro Tech artist with 1 upcoming club date listed on soundcheck as of Wed, 16 Sept 2026, next at Malaga Sin City, Milan on Sun, 20 Sept 2026.
+Loner Tennis Club is a Techno and Afro Tech artist with 1 upcoming club date listed on soundcheck as of Thu, 17 Sept 2026, next at Malaga Sin City, Milan on Sun, 20 Sept 2026.
 
 Loner Tennis Club is a techno and afro tech artist based in Italy, tracked on soundcheck, with 13 sets logged across Milan, Nottingham and Turin. Often billed alongside AMRED, Cntrl_space and Mark Wark. Next up: Malaga Sin City, Milan on Sun 20 Sept.
 
@@ -25,4 +25,4 @@ Loner Tennis Club is a techno and afro tech artist based in Italy, tracked on so
 
 AMRED, Cntrl_space, Mark Wark
 
-*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lonertennisclub/)*
+*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lonertennisclub/)*

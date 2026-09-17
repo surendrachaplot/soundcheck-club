@@ -1,6 +1,6 @@
 # E11EVEN MIAMI
 
-E11EVEN MIAMI is a music venue in Miami with 15 upcoming nights listed on soundcheck as of Wed, 16 Sept 2026; the next is "Fenix Flexin" on Wed, 16 Sept 2026.
+E11EVEN MIAMI is a music venue in Miami with 15 upcoming nights listed on soundcheck as of Thu, 17 Sept 2026; the next is "The Romantic After Hours: Hosted by Bruno Mars at E11EVEN" on Thu, 17 Sept 2026.
 
 E11EVEN MIAMI is a music venue in Miami listed on soundcheck. 15 upcoming nights, with line-ups including Afrojack. Browse upcoming dates, start times and who's playing. 29 NE 11th St, Miami, FL 33132.
 
@@ -8,7 +8,7 @@ E11EVEN MIAMI is a music venue in Miami listed on soundcheck. 15 upcoming nights
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Wed, 16 Sept 2026 | Fenix Flexin |  |
+| Thu, 17 Sept 2026 | The Romantic After Hours: Hosted by Bruno Mars at E11EVEN |  |
 | Fri, 18 Sept 2026 | Vice |  |
 | Sat, 19 Sept 2026 | DJ Pee Wee |  |
 | Sun, 20 Sept 2026 | Prankstisci at E11EVEN |  |
@@ -23,4 +23,4 @@ E11EVEN MIAMI is a music venue in Miami listed on soundcheck. 15 upcoming nights
 
 29 NE 11th St, Miami, FL 33132, Miami
 
-*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/miami/club/e11even-miami/)*
+*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/miami/club/e11even-miami/)*

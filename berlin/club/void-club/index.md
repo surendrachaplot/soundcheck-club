@@ -1,6 +1,6 @@
 # Void Club
 
-Void Club is a music venue in Berlin with 15 upcoming nights listed on soundcheck as of Wed, 16 Sept 2026; the next is "Drum and Bass w/Codex (SRB), Datalog (HU), Zorkow (SLO) - human_made 006" on Fri, 18 Sept 2026.
+Void Club is a music venue in Berlin with 15 upcoming nights listed on soundcheck as of Thu, 17 Sept 2026; the next is "Drum and Bass w/Codex (SRB), Datalog (HU), Zorkow (SLO) - human_made 006" on Fri, 18 Sept 2026.
 
 Void Club is a music venue in Berlin listed on soundcheck. 15 upcoming nights, with line-ups including Agem, Alex Xandra, Alienata and alllone and 2 more. Browse upcoming dates, start times and who's playing. Wiesenweg 5-9, 10365.
 
@@ -23,4 +23,4 @@ Void Club is a music venue in Berlin listed on soundcheck. 15 upcoming nights, w
 
 Wiesenweg 5-9, 10365, Berlin
 
-*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/void-club/)*
+*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/void-club/)*

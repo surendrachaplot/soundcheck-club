@@ -1,6 +1,6 @@
 # Felix Cartal
 
-Felix Cartal is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Wed, 16 Sept 2026, next at House of Yes, New York City on Sat, 26 Sept 2026.
+Felix Cartal is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Thu, 17 Sept 2026, next at House of Yes, New York City on Sat, 26 Sept 2026.
 
 Felix Cartal is a house and tech house artist tracked on soundcheck, with 11 sets logged across Chicago, Losangeles, Miami and Newyorkcity and 4 more. Often billed alongside N2N (US), Alistair and Jeny Michelle. Next up: House of Yes, Newyorkcity on Sat 26 Sept.
 
@@ -25,4 +25,4 @@ Felix Cartal is a house and tech house artist tracked on soundcheck, with 11 set
 
 N2N (US), Alistair, Jeny Michelle
 
-*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/felixcartal/)*
+*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/felixcartal/)*

@@ -1,6 +1,6 @@
 # milliyen
 
-milliyen is a Club and Experimental artist with 1 upcoming club date listed on soundcheck as of Wed, 16 Sept 2026, next at Skatecafe, Amsterdam on Sat, 26 Sept 2026.
+milliyen is a Club and Experimental artist with 1 upcoming club date listed on soundcheck as of Thu, 17 Sept 2026, next at Skatecafe, Amsterdam on Sat, 26 Sept 2026.
 
 milliyen is a club and experimental artist based in Netherlands, tracked on soundcheck, with 6 sets logged across Amsterdam, Antwerp and Rotterdam. Often billed alongside Kaikaina, Poison Ivy and emssoleil. Next up: Skatecafe, Amsterdam on Sat 26 Sept.
 
@@ -22,4 +22,4 @@ milliyen is a club and experimental artist based in Netherlands, tracked on soun
 
 Kaikaina, Poison Ivy, emssoleil
 
-*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/milliyen/)*
+*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/milliyen/)*

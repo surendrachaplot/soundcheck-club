@@ -1,6 +1,6 @@
 # Parc del Fòrum
 
-Parc del Fòrum is a music venue in Barcelona with 6 upcoming nights listed on soundcheck as of Wed, 16 Sept 2026; the next is "FSTVL B" on Thu, 17 Sept 2026.
+Parc del Fòrum is a music venue in Barcelona with 6 upcoming nights listed on soundcheck as of Thu, 17 Sept 2026; the next is "FSTVL B" on Thu, 17 Sept 2026.
 
 Parc del Fòrum is a music venue in Barcelona listed on soundcheck. 6 upcoming nights, with line-ups including 6EJOU, ANJELIKA SAHAKIAN, Claptone and Cristobal Pesce and 2 more. Browse upcoming dates, start times and who's playing. Rambla Prim, 2-4; 08019 Barcelona; Spain.
 
@@ -19,4 +19,4 @@ Parc del Fòrum is a music venue in Barcelona listed on soundcheck. 6 upcoming n
 
 Rambla Prim, 2-4; 08019 Barcelona; Spain, Barcelona
 
-*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/parc-del-f-rum/)*
+*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/parc-del-f-rum/)*

@@ -1,6 +1,6 @@
 # Vienna's
 
-Vienna's is a music venue in Glasgow with 4 upcoming nights listed on soundcheck as of Wed, 16 Sept 2026; the next is "GBX Day Party" on Sat, 26 Sept 2026.
+Vienna's is a music venue in Glasgow with 4 upcoming nights listed on soundcheck as of Thu, 17 Sept 2026; the next is "GBX Day Party" on Sat, 26 Sept 2026.
 
 Vienna's is a music venue in Glasgow listed on soundcheck. 4 upcoming nights, with line-ups including George Bowie and Nanna Makina. Browse upcoming dates, start times and who's playing. 20 New St, Paisley PA1 1YB.
 
@@ -17,4 +17,4 @@ Vienna's is a music venue in Glasgow listed on soundcheck. 4 upcoming nights, wi
 
 20 New St, Paisley PA1 1YB, Glasgow
 
-*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/vienna-s/)*
+*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/vienna-s/)*

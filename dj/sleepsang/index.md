@@ -1,6 +1,6 @@
 # sleepsang
 
-sleepsang is a Experimental and Electronica artist with 2 upcoming club dates listed on soundcheck as of Wed, 16 Sept 2026, next at Factory Floor, Sheffield on Thu, 17 Sept 2026.
+sleepsang is a Experimental and Electronica artist with 2 upcoming club dates listed on soundcheck as of Thu, 17 Sept 2026, next at Factory Floor, Sheffield on Thu, 17 Sept 2026.
 
 sleepsang is an experimental and electronica artist tracked on soundcheck, with 12 sets logged across Sheffield. Often billed alongside Chris Jackson, Damu and Holon._. Next up: Factory Floor, Sheffield on Thu 17 Sept.
 
@@ -26,4 +26,4 @@ sleepsang is an experimental and electronica artist tracked on soundcheck, with 
 
 Chris Jackson, Damu, Holon._
 
-*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sleepsang/)*
+*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sleepsang/)*

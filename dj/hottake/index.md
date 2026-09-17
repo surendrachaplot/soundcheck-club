@@ -1,14 +1,15 @@
 # Hot Take
 
-Hot Take is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 16 Sept 2026, next at Podlasie Club, Chicago on Sat, 10 Oct 2026.
+Hot Take is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 17 Sept 2026, next at Podlasie Club, Chicago on Sat, 10 Oct 2026.
 
-Hot Take is a house and techno artist based in United States of America, tracked on soundcheck, with 28 sets logged across Chicago, Losangeles, Montreal and Newyorkcity and 1 more. Often billed alongside Jack Galactic, Darwin and Etari. Next up: Podlasie Club, Chicago on Sat 10 Oct.
+Hot Take is a house and techno artist based in United States of America, tracked on soundcheck, with 29 sets logged across Chicago, Losangeles, Montreal and Newyorkcity and 1 more. Often billed alongside Jack Galactic, Jaggy and Brendan Lemkin. Next up: Podlasie Club, Chicago on Sat 10 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 10 Oct 2026 | Podlasie Club | Chicago |
+| Sat, 24 Oct 2026 | TBA - Premises | Chicago |
 
 ## Recently played
 
@@ -23,6 +24,6 @@ Hot Take is a house and techno artist based in United States of America, tracked
 
 ## Shares bills with
 
-Jack Galactic, Darwin, Etari
+Jack Galactic, Jaggy, Brendan Lemkin
 
-*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/hottake/)*
+*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/hottake/)*

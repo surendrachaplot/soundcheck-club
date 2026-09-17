@@ -1,8 +1,8 @@
 # Faust
 
-Faust is a music venue in Seoul with 7 upcoming nights listed on soundcheck as of Wed, 16 Sept 2026; the next is "Faust 12 YEARS - DAY 01" on Fri, 18 Sept 2026.
+Faust is a music venue in Seoul with 8 upcoming nights listed on soundcheck as of Thu, 17 Sept 2026; the next is "Faust 12 YEARS - DAY 01" on Fri, 18 Sept 2026.
 
-Faust is a music venue in Seoul listed on soundcheck. 7 upcoming nights, with line-ups including Cristian Marras, Dadachoe, Frazi.er and Ginger (KR) and 2 more. Browse upcoming dates, start times and who's playing. 3F, 127-15, Itaewon, Yongsan, Seoul 04406, South Korea.
+Faust is a music venue in Seoul listed on soundcheck. 8 upcoming nights, with line-ups including Connor Wall, Cristian Marras, Dadachoe and Frazi.er and 2 more. Browse upcoming dates, start times and who's playing. 3F, 127-15, Itaewon, Yongsan, Seoul 04406, South Korea.
 
 ## What's on
 
@@ -14,10 +14,11 @@ Faust is a music venue in Seoul listed on soundcheck. 7 upcoming nights, with li
 | Fri, 25 Sept 2026 | nacht | Harivo, NUKiD, NUSNOOM, Stann Lumo, Suman |
 | Sat, 26 Sept 2026 | nacht | Kim Bo Yeon, Nocturnal (KR), Sol (KR), Suman, Yomi |
 | Sun, 4 Oct 2026 | KIMYO Night Invites: Yonti ( Berlin ) | Mars Parck, NUSNOOM, TYSN, Uni (3), YAREE, Yonti |
+| Fri, 9 Oct 2026 | PARISH INVITES: Connor Wall (DE) ꧁The First Ritual꧂ | Connor Wall, Lyumin, NUSNOOM, Siot, Soyo |
 | Fri, 23 Oct 2026 | GEGEN x Faust | Cristian Marras, Mar/us |
 
 ## Address
 
 3F, 127-15, Itaewon, Yongsan, Seoul 04406, South Korea, Seoul
 
-*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/seoul/club/faust/)*
+*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/seoul/club/faust/)*

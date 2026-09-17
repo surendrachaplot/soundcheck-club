@@ -1,6 +1,6 @@
 # Silly Silky
 
-Silly Silky is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Wed, 16 Sept 2026, next at Flac, Seoul on Fri, 18 Sept 2026.
+Silly Silky is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Thu, 17 Sept 2026, next at Flac, Seoul on Fri, 18 Sept 2026.
 
 Silly Silky is a tech house and house artist based in South Korea, tracked on soundcheck, with 7 sets logged across Seoul. Often billed alongside Departs, Jaebin and Davico. Next up: Flac, Seoul on Fri 18 Sept.
 
@@ -23,4 +23,4 @@ Silly Silky is a tech house and house artist based in South Korea, tracked on so
 
 Departs, Jaebin, Davico
 
-*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sillysilky/)*
+*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sillysilky/)*

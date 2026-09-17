@@ -1,6 +1,6 @@
 # ALGORHYTHM x Fixate: Bailey Ibbs, INKLING GIRLZ, Flock + more at Sidney & Matilda
 
-ALGORHYTHM x Fixate: Bailey Ibbs, INKLING GIRLZ, Flock + more at Sidney & Matilda on Fri 18 Sept, Sheffield. 5 acts on the bill: Bailey Ibbs, Cimmerian, Harrison (UK) and Move Elusive and 1 more. Techno and House. Preview the line-up and save it on soundcheck.
+ALGORHYTHM x Fixate: Bailey Ibbs, INKLING GIRLZ, Flock + more at Sidney & Matilda on Fri 18 Sept, Sheffield. 6 acts on the bill: Bailey Ibbs, Cimmerian, Harrison (UK) and INKLING GIRLZ and 2 more. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -13,6 +13,7 @@ ALGORHYTHM x Fixate: Bailey Ibbs, INKLING GIRLZ, Flock + more at Sidney & Matild
 - Bailey Ibbs
 - Cimmerian
 - Harrison (UK)
+- INKLING GIRLZ
 - Move Elusive
 - Olórin
 

@@ -1,6 +1,6 @@
 # Nova Varnrable
 
-Nova Varnrable is a Experimental and Club artist with 1 upcoming club date listed on soundcheck as of Wed, 16 Sept 2026, next at Simian, Copenhagen on Sat, 26 Sept 2026.
+Nova Varnrable is a Experimental and Club artist with 1 upcoming club date listed on soundcheck as of Thu, 17 Sept 2026, next at Simian, Copenhagen on Sat, 26 Sept 2026.
 
 Nova Varnrable is an experimental and club artist tracked on soundcheck, with 11 sets logged across Belgrade, Berlin, Copenhagen and London and 3 more. Often billed alongside Alfredo92, Ciro Vitiello and Cliché Toupée. Next up: Simian, Copenhagen on Sat 26 Sept.
 
@@ -25,4 +25,4 @@ Nova Varnrable is an experimental and club artist tracked on soundcheck, with 11
 
 Alfredo92, Ciro Vitiello, Cliché Toupée
 
-*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/novavarnrable/)*
+*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/novavarnrable/)*

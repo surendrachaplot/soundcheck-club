@@ -1,6 +1,6 @@
 # Maldita Vaina
 
-Maldita Vaina is a Reggaeton and Dembow artist with 2 upcoming club dates listed on soundcheck as of Wed, 16 Sept 2026, next at Kauz, Zurich on Fri, 18 Sept 2026.
+Maldita Vaina is a Reggaeton and Dembow artist with 2 upcoming club dates listed on soundcheck as of Thu, 17 Sept 2026, next at Kauz, Zurich on Fri, 18 Sept 2026.
 
 Maldita Vaina is a reggaeton and dembow artist based in Dominican Republic, tracked on soundcheck, with 10 sets logged across Houston, Leeds, London and Newyorkcity and 1 more. Often billed alongside Total XTC, ARMANA KHAN and ASHTREY. Next up: Kauz, Zurich on Fri 18 Sept.
 
@@ -26,4 +26,4 @@ Maldita Vaina is a reggaeton and dembow artist based in Dominican Republic, trac
 
 Total XTC, ARMANA KHAN, ASHTREY
 
-*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/malditavaina/)*
+*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/malditavaina/)*

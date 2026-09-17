@@ -1,6 +1,6 @@
 # e.nzo
 
-e.nzo is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 16 Sept 2026, next at SAM Sampling Moods, Milan on Sat, 26 Sept 2026.
+e.nzo is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 17 Sept 2026, next at SAM Sampling Moods, Milan on Sat, 26 Sept 2026.
 
 e.nzo is a techno and house artist based in Uruguay, tracked on soundcheck, with 6 sets logged across Barcelona, Lisbon, Milan and Turin and 1 more. Often billed alongside Alex Dima, Alexia Glensy and Bakked. Next up: SAM Sampling Moods, Milan on Sat 26 Sept.
 
@@ -22,4 +22,4 @@ e.nzo is a techno and house artist based in Uruguay, tracked on soundcheck, with
 
 Alex Dima, Alexia Glensy, Bakked
 
-*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/e.nzo/)*
+*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/e.nzo/)*

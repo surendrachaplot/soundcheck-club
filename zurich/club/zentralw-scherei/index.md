@@ -1,8 +1,8 @@
 # Zentralwäscherei
 
-Zentralwäscherei is a music venue in Zurich with 2 upcoming nights listed on soundcheck as of Wed, 16 Sept 2026; the next is "ZW-Concert Zulu / I-vye" on Fri, 18 Sept 2026.
+Zentralwäscherei is a music venue in Zurich with 3 upcoming nights listed on soundcheck as of Thu, 17 Sept 2026; the next is "ZW-Concert Zulu / I-vye" on Fri, 18 Sept 2026.
 
-Zentralwäscherei is a music venue in Zurich listed on soundcheck. 2 upcoming nights, with line-ups including Elena Colombi, Fantastic Twins and Zulu (FR). Browse upcoming dates, start times and who's playing. Neue Hard 12, Verein Zentralwaescherei, 8005 Zurich.
+Zentralwäscherei is a music venue in Zurich listed on soundcheck. 3 upcoming nights, with line-ups including CRi, Elena Colombi, F1-PV and Fantastic Twins and 2 more. Browse upcoming dates, start times and who's playing. Neue Hard 12, Verein Zentralwaescherei, 8005 Zurich.
 
 ## What's on
 
@@ -10,9 +10,10 @@ Zentralwäscherei is a music venue in Zurich listed on soundcheck. 2 upcoming ni
 | --- | --- | --- |
 | Fri, 18 Sept 2026 | ZW-Concert Zulu / I-vye | Zulu (FR) |
 | Sat, 26 Sept 2026 | TILT / 20 YRS SAMEHEADS ANNIVERSARY TOUR | Elena Colombi, Fantastic Twins |
+| Sat, 10 Oct 2026 | Dubtopia 15 years in ZW | CRi, F1-PV, Phrex, Timnah, ojoo |
 
 ## Address
 
 Neue Hard 12, Verein Zentralwaescherei, 8005 Zurich, Zurich
 
-*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/zurich/club/zentralw-scherei/)*
+*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/zurich/club/zentralw-scherei/)*

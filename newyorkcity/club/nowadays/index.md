@@ -1,14 +1,13 @@
 # Nowadays
 
-Nowadays is a music venue in New York City with 35 upcoming nights listed on soundcheck as of Wed, 16 Sept 2026; the next is "OST x Peak Oil: Paperclip Minimiser, Mike Midnight, Stone, livwutang" on Wed, 16 Sept 2026.
+Nowadays is a music venue in New York City with 34 upcoming nights listed on soundcheck as of Thu, 17 Sept 2026; the next is "Dripping: Axine M, Matük (live), OKO DJ, Oso Feo b2b Lychee, Topdown Dialectic (live)" on Thu, 17 Sept 2026.
 
-Nowadays is a music venue in Newyorkcity listed on soundcheck. 35 upcoming nights, with line-ups including 1tbsp, 5ive, LYDO and MORENXXX and 2 more. Browse upcoming dates, start times and who's playing. 56-06 Cooper Ave. Ridgewood, NY 11385 USA.
+Nowadays is a music venue in Newyorkcity listed on soundcheck. 34 upcoming nights, with line-ups including 1tbsp, 5ive, LYDO and MORENXXX and 2 more. Browse upcoming dates, start times and who's playing. 56-06 Cooper Ave. Ridgewood, NY 11385 USA.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Wed, 16 Sept 2026 | OST x Peak Oil: Paperclip Minimiser, Mike Midnight, Stone, livwutang | Mike Midnight, Stone, livwutang |
 | Thu, 17 Sept 2026 | Dripping: Axine M, Matük (live), OKO DJ, Oso Feo b2b Lychee, Topdown Dialectic (live) | Axine M, Lychee, Matük, OKO DJ, Oso Feo (2) |
 | Fri, 18 Sept 2026 | Label Night: Thinner Groove with Powder, 5ive & CZ Wang | 5ive, CZ Wang, Powder |
 | Sat, 19 Sept 2026 | Let's Dance Brooklyn x UPLIFTED: Season 13 Kick-Off + Back 2 Skool Edition | Ali Coleman, Bridge (NY) |
@@ -18,9 +17,10 @@ Nowadays is a music venue in Newyorkcity listed on soundcheck. 35 upcoming night
 | Thu, 24 Sept 2026 | Body Hack |  |
 | Fri, 25 Sept 2026 | Label Night: Time Passages: Binh, Tal Fussman & Shvili | Binh, Shvili, Tal Fussman |
 | Sat, 26 Sept 2026 | Nonstop: Andy Martin, Introspekt, OK Williams, RHR, Shonky, Tano | Andy Martin, Introspekt, OK Williams, RHR, Shonky, Tano |
+| Sat, 26 Sept 2026 | Waxed.Market Record Fair | Frankie Bones, Juana, Rose Kourts |
 
 ## Address
 
 56-06 Cooper Ave. Ridgewood, NY 11385 USA, New York City
 
-*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/nowadays/)*
+*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/nowadays/)*

@@ -1,6 +1,6 @@
 # Ticcle
 
-Ticcle is a music venue in Hobart with 5 upcoming nights listed on soundcheck as of Wed, 16 Sept 2026; the next is "ticcle sundays" on Sun, 27 Sept 2026.
+Ticcle is a music venue in Hobart with 5 upcoming nights listed on soundcheck as of Thu, 17 Sept 2026; the next is "ticcle sundays" on Sun, 27 Sept 2026.
 
 Ticcle is a music venue in Hobart listed on soundcheck. 5 upcoming nights, with line-ups including DJ Fett Burger, Marcellus Pittman, Telephones and Tim Heaney. Browse upcoming dates, start times and who's playing. 64 Warwick Street Hobart 7000.
 
@@ -18,4 +18,4 @@ Ticcle is a music venue in Hobart listed on soundcheck. 5 upcoming nights, with 
 
 64 Warwick Street Hobart 7000, Hobart
 
-*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/hobart/club/ticcle/)*
+*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/hobart/club/ticcle/)*

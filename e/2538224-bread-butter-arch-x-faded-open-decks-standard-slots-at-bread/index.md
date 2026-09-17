@@ -1,10 +1,10 @@
 # Bread & Butter Arch x Faded: OPEN DECKS (Standard slots) at Bread & Butter Arch
 
-Bread & Butter Arch x Faded: OPEN DECKS (Standard slots) on Wed 7 Oct, London. 1 act on the bill: Faded Society. Preview the line-up and save it on soundcheck.
+Bread & Butter Arch x Faded: OPEN DECKS (Standard slots) on Wed 11 Nov, London. 1 act on the bill: Faded Society. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
-| Date | Wed, 7 Oct 2026 |
+| Date | Wed, 11 Nov 2026 |
 | Venue | Bread & Butter Arch |
 | City | London |
 

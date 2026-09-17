@@ -1,6 +1,6 @@
 # Moodymann
 
-Moodymann is a House and Techno artist with 10 upcoming club dates listed on soundcheck as of Wed, 16 Sept 2026, next at Umoya, Naples on Sun, 20 Sept 2026.
+Moodymann is a House and Techno artist with 10 upcoming club dates listed on soundcheck as of Thu, 17 Sept 2026, next at Umoya, Naples on Sun, 20 Sept 2026.
 
 Moodymann is a house and techno artist tracked on soundcheck, with 163 sets logged across Amsterdam, Antwerp, Athens and Bali and 36 more. Often billed alongside Carl Craig, DJ Holographic and Flo Real. Next up: Umoya, Naples on Sun 20 Sept.
 
@@ -34,4 +34,4 @@ Moodymann is a house and techno artist tracked on soundcheck, with 163 sets logg
 
 Carl Craig, DJ Holographic, Flo Real
 
-*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/moodymann/)*
+*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/moodymann/)*

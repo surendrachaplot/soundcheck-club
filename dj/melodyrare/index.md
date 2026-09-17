@@ -1,6 +1,6 @@
 # Melody RA+RE
 
-Melody RA+RE is a House and Electro artist with 7 upcoming club dates listed on soundcheck as of Wed, 16 Sept 2026, next at UNO MALTA, Malta on Fri, 18 Sept 2026.
+Melody RA+RE is a House and Electro artist with 7 upcoming club dates listed on soundcheck as of Thu, 17 Sept 2026, next at UNO MALTA, Malta on Fri, 18 Sept 2026.
 
 Melody RA+RE is a house and electro artist tracked on soundcheck, with 126 sets logged across Amsterdam, Bali, Barcelona and Berlin and 29 more. Often billed alongside Dr Banana, The Ghost and Truly Madly. Next up: UNO MALTA, Malta on Fri 18 Sept.
 
@@ -31,4 +31,4 @@ Melody RA+RE is a house and electro artist tracked on soundcheck, with 126 sets 
 
 Dr Banana, The Ghost, Truly Madly
 
-*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/melodyrare/)*
+*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/melodyrare/)*

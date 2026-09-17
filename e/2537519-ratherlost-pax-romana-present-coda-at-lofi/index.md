@@ -1,6 +1,6 @@
-# Ratherlost & PAX ROMANA PRESENT: CODA at Lofi
+# Ratherlost & PAX-ROMANA PRESENT: CODA at Lofi
 
-Ratherlost & PAX ROMANA PRESENT: CODA at Lofi on Sun 25 Oct, Amsterdam. Preview the line-up and save it on soundcheck.
+Ratherlost & PAX-ROMANA PRESENT: CODA at Lofi on Sun 25 Oct, Amsterdam. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

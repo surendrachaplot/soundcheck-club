@@ -1,6 +1,6 @@
 # Jyoty at Centre Point
 
-Jyoty at Centre Point on Fri 9 Oct, Dublin. 1 act on the bill: Jyoty. Preview the line-up and save it on soundcheck.
+Jyoty at Centre Point on Fri 9 Oct, Dublin. 2 acts on the bill: JWY (1) and Jyoty. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ Jyoty at Centre Point on Fri 9 Oct, Dublin. 1 act on the bill: Jyoty. Preview th
 
 ## Line-up
 
+- JWY (1)
 - Jyoty
 
 *Source: [soundcheck](https://soundcheck.club/e/2532513-jyoty-at-centre-point/)*

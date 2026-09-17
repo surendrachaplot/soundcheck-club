@@ -1,6 +1,6 @@
 # Natta
 
-Natta is a Techno and Dancehall artist with 2 upcoming club dates listed on soundcheck as of Wed, 16 Sept 2026, next at Ritter Butzke, Berlin on Fri, 18 Sept 2026.
+Natta is a Techno and Dancehall artist with 2 upcoming club dates listed on soundcheck as of Thu, 17 Sept 2026, next at Ritter Butzke, Berlin on Fri, 18 Sept 2026.
 
 Natta is a techno and dancehall artist tracked on soundcheck, with 6 sets logged across Berlin, Hamburg and Lyon. Often billed alongside KISSA, TZO (1) and AH-N!CE. Next up: Ritter Butzke, Berlin on Fri 18 Sept.
 
@@ -22,4 +22,4 @@ Natta is a techno and dancehall artist tracked on soundcheck, with 6 sets logged
 
 KISSA, TZO (1), AH-N!CE
 
-*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/natta/)*
+*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/natta/)*

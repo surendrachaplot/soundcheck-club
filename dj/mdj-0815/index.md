@@ -1,6 +1,6 @@
 # mdj (0815)
 
-mdj (0815) is a House and Dub artist with 1 upcoming club date listed on soundcheck as of Wed, 16 Sept 2026, next at Sameheads, Berlin on Sat, 19 Sept 2026.
+mdj (0815) is a House and Dub artist with 1 upcoming club date listed on soundcheck as of Thu, 17 Sept 2026, next at Sameheads, Berlin on Sat, 19 Sept 2026.
 
 mdj (0815) is a house and dub artist based in Sri Lanka, tracked on soundcheck, with 6 sets logged across Amsterdam, Berlin, London and Sheffield. Often billed alongside Holon._, Perera Elsewhere and SETH DS. Next up: Sameheads, Berlin on Sat 19 Sept.
 
@@ -22,4 +22,4 @@ mdj (0815) is a house and dub artist based in Sri Lanka, tracked on soundcheck, 
 
 Holon._, Perera Elsewhere, SETH DS
 
-*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mdj-0815/)*
+*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mdj-0815/)*

@@ -1,6 +1,6 @@
 # AGUSTIN BARBEI
 
-AGUSTIN BARBEI is a Electronica and Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 16 Sept 2026, next at TCQ, Buenos Aires on Sat, 19 Sept 2026.
+AGUSTIN BARBEI is a Electronica and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 17 Sept 2026, next at TCQ, Buenos Aires on Sat, 19 Sept 2026.
 
 AGUSTIN BARBEI is an electronica and techno artist tracked on soundcheck, with 15 sets logged across Barcelona, Buenosaires, Lisbon and London and 1 more. Often billed alongside Alessandro Miranda, Alyhas and Forello. Next up: TCQ, Buenosaires on Sat 19 Sept.
 
@@ -26,4 +26,4 @@ AGUSTIN BARBEI is an electronica and techno artist tracked on soundcheck, with 1
 
 Alessandro Miranda, Alyhas, Forello
 
-*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/agustinbarbei/)*
+*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/agustinbarbei/)*

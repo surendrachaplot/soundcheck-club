@@ -1,6 +1,6 @@
 # Ka Baird
 
-Ka Baird is a Experimental and Electronica artist with 1 upcoming club date listed on soundcheck as of Wed, 16 Sept 2026, next at Usine C, Montreal on Wed, 21 Oct 2026.
+Ka Baird is a Experimental and Electronica artist with 1 upcoming club date listed on soundcheck as of Thu, 17 Sept 2026, next at Usine C, Montreal on Wed, 21 Oct 2026.
 
 Ka Baird is an experimental and electronica artist tracked on soundcheck, with 12 sets logged across Berlin, Krakow, Losangeles and Milan and 3 more. Often billed alongside Actress, 2K88 and Antonina Nowacka. Next up: Usine C, Montreal on Wed 21 Oct.
 
@@ -25,4 +25,4 @@ Ka Baird is an experimental and electronica artist tracked on soundcheck, with 1
 
 Actress, 2K88, Antonina Nowacka
 
-*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kabaird/)*
+*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kabaird/)*

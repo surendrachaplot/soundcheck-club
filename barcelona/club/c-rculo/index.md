@@ -1,6 +1,6 @@
 # Círculo
 
-Círculo is a music venue in Barcelona with 7 upcoming nights listed on soundcheck as of Wed, 16 Sept 2026; the next is "MEET & GREET GUE' PEQUENO" on Sun, 13 Sept 2026.
+Círculo is a music venue in Barcelona with 7 upcoming nights listed on soundcheck as of Thu, 17 Sept 2026; the next is "MEET & GREET GUE' PEQUENO" on Sun, 13 Sept 2026.
 
 Círculo is a music venue in Barcelona listed on soundcheck. 7 upcoming nights. Browse upcoming dates, start times and who's playing. Carrer del Rec, 62, 08003, Barcelona, Spain.
 
@@ -20,4 +20,4 @@ Círculo is a music venue in Barcelona listed on soundcheck. 7 upcoming nights. 
 
 Carrer del Rec, 62, 08003, Barcelona, Spain, Barcelona
 
-*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/c-rculo/)*
+*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/c-rculo/)*

@@ -1,6 +1,6 @@
 # David Tort
 
-David Tort is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Wed, 16 Sept 2026, next at Hï Ibiza, Ibiza on Thu, 17 Sept 2026.
+David Tort is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Thu, 17 Sept 2026, next at Hï Ibiza, Ibiza on Thu, 17 Sept 2026.
 
 David Tort is a house and tech house artist based in Spain, tracked on soundcheck, with 16 sets logged across Amsterdam, Barcelona, Chicago and Ibiza and 8 more. Often billed alongside Discommon, Junior Lopez and Markem. Next up: Hï Ibiza, Ibiza on Thu 17 Sept.
 
@@ -26,4 +26,4 @@ David Tort is a house and tech house artist based in Spain, tracked on soundchec
 
 Discommon, Junior Lopez, Markem
 
-*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/davidtort/)*
+*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/davidtort/)*

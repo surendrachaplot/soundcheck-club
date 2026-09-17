@@ -1,13 +1,14 @@
 # YOSHI KANOU
 
-YOSHI KANOU is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 16 Sept 2026, next at HVEN, Tokyo on Mon, 9 Nov 2026.
+YOSHI KANOU is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 17 Sept 2026, next at UTOPIA / DYSTOPIA, Tokyo on Mon, 21 Sept 2026.
 
-YOSHI KANOU is a techno and house artist based in Japan, tracked on soundcheck, with 211 sets logged across Amsterdam, London, Seoul and Tokyo. Often billed alongside WAKA XINXI, AiMii and DJason. Next up: HVEN, Tokyo on Mon 9 Nov.
+YOSHI KANOU is a techno and house artist based in Japan, tracked on soundcheck, with 212 sets logged across Amsterdam, London, Seoul and Tokyo. Often billed alongside WAKA XINXI, AiMii and DJason. Next up: UTOPIA / DYSTOPIA, Tokyo on Mon 21 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Mon, 21 Sept 2026 | UTOPIA / DYSTOPIA | Tokyo |
 | Mon, 9 Nov 2026 | HVEN | Tokyo |
 
 ## Recently played
@@ -25,4 +26,4 @@ YOSHI KANOU is a techno and house artist based in Japan, tracked on soundcheck, 
 
 WAKA XINXI, AiMii, DJason
 
-*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/yoshikanou/)*
+*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/yoshikanou/)*

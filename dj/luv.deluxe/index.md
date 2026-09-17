@@ -1,6 +1,6 @@
 # LUV.DELUXE
 
-LUV.DELUXE is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 16 Sept 2026, next at DNA. CLUB, Berlin on Sat, 26 Sept 2026.
+LUV.DELUXE is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 17 Sept 2026, next at DNA. CLUB, Berlin on Sat, 26 Sept 2026.
 
 LUV.DELUXE is a house and techno artist tracked on soundcheck, with 9 sets logged across Berlin. Often billed alongside HNX (030), Cobb Douglas and SPEEDO (2). Next up: DNA. CLUB, Berlin on Sat 26 Sept.
 
@@ -25,4 +25,4 @@ LUV.DELUXE is a house and techno artist tracked on soundcheck, with 9 sets logge
 
 HNX (030), Cobb Douglas, SPEEDO (2)
 
-*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/luv.deluxe/)*
+*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/luv.deluxe/)*

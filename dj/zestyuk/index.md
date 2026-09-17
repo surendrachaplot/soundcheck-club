@@ -1,6 +1,6 @@
 # ZESTY (UK)
 
-ZESTY (UK) is a Garage and Bass artist with 2 upcoming club dates listed on soundcheck as of Wed, 16 Sept 2026, next at The DBA, Manchester on Sat, 19 Sept 2026.
+ZESTY (UK) is a Garage and Bass artist with 2 upcoming club dates listed on soundcheck as of Thu, 17 Sept 2026, next at The DBA, Manchester on Sat, 19 Sept 2026.
 
 ZESTY (UK) is a garage and bass artist tracked on soundcheck, with 22 sets logged across Leeds, Manchester and Sheffield. Often billed alongside Anop, ASHTYLR and DJ LUMBRIDGE. Next up: The DBA, Manchester on Sat 19 Sept.
 
@@ -26,4 +26,4 @@ ZESTY (UK) is a garage and bass artist tracked on soundcheck, with 22 sets logge
 
 Anop, ASHTYLR, DJ LUMBRIDGE
 
-*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/zestyuk/)*
+*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/zestyuk/)*

@@ -1,6 +1,6 @@
 # Experiment 625
 
-Experiment 625 is a music venue in Liverpool with 4 upcoming nights listed on soundcheck as of Wed, 16 Sept 2026; the next is "Alinea presents Dorsal & Friends - Live / DJ Sets" on Fri, 18 Sept 2026.
+Experiment 625 is a music venue in Liverpool with 4 upcoming nights listed on soundcheck as of Thu, 17 Sept 2026; the next is "Alinea presents Dorsal & Friends - Live / DJ Sets" on Fri, 18 Sept 2026.
 
 Experiment 625 is a music venue in Liverpool listed on soundcheck. 4 upcoming nights, with line-ups including J. Conley and Sakers. Browse upcoming dates, start times and who's playing. 77 Lark Ln, Aigburth, Liverpool L17 8UP.
 
@@ -17,4 +17,4 @@ Experiment 625 is a music venue in Liverpool listed on soundcheck. 4 upcoming ni
 
 77 Lark Ln, Aigburth, Liverpool L17 8UP, Liverpool
 
-*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/liverpool/club/experiment-625/)*
+*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/liverpool/club/experiment-625/)*

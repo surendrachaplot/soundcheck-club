@@ -1,6 +1,6 @@
 # Yola Rennt
 
-Yola Rennt is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 16 Sept 2026, next at Renate, Berlin on Fri, 16 Oct 2026.
+Yola Rennt is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 17 Sept 2026, next at Renate, Berlin on Fri, 16 Oct 2026.
 
 Yola Rennt is a techno and house artist tracked on soundcheck, with 8 sets logged across Berlin and Hamburg. Often billed alongside Dela Nesto, Miss Kitchen and kluntje. Next up: Renate, Berlin on Fri 16 Oct.
 
@@ -24,4 +24,4 @@ Yola Rennt is a techno and house artist tracked on soundcheck, with 8 sets logge
 
 Dela Nesto, Miss Kitchen, kluntje
 
-*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/yolarennt/)*
+*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/yolarennt/)*

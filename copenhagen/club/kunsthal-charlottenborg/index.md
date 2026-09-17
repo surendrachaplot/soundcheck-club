@@ -1,6 +1,6 @@
 # Kunsthal Charlottenborg
 
-Kunsthal Charlottenborg is a music venue in Copenhagen with 1 upcoming night listed on soundcheck as of Wed, 16 Sept 2026; the next is "Kunsthal Charlottenborg Season Opening" on Fri, 25 Sept 2026.
+Kunsthal Charlottenborg is a music venue in Copenhagen with 1 upcoming night listed on soundcheck as of Thu, 17 Sept 2026; the next is "Kunsthal Charlottenborg Season Opening" on Fri, 25 Sept 2026.
 
 Kunsthal Charlottenborg is a music venue in Copenhagen listed on soundcheck. 1 upcoming night, with line-ups including Atusa and Mads Axelsen. Browse upcoming dates, start times and who's playing. Nyhavn 2, 1051 København K, Denmark.
 
@@ -14,4 +14,4 @@ Kunsthal Charlottenborg is a music venue in Copenhagen listed on soundcheck. 1 u
 
 Nyhavn 2, 1051 København K, Denmark, Copenhagen
 
-*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/copenhagen/club/kunsthal-charlottenborg/)*
+*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/copenhagen/club/kunsthal-charlottenborg/)*

@@ -1,6 +1,6 @@
 # not|or|ius Club
 
-not|or|ius Club is a music venue in Turin with 4 upcoming nights listed on soundcheck as of Wed, 16 Sept 2026; the next is "GENAU: Kaiser (K S R / IT)" on Sat, 26 Sept 2026.
+not|or|ius Club is a music venue in Turin with 4 upcoming nights listed on soundcheck as of Thu, 17 Sept 2026; the next is "GENAU: Kaiser (K S R / IT)" on Sat, 26 Sept 2026.
 
 not|or|ius Club is a music venue in Turin listed on soundcheck. 4 upcoming nights, with line-ups including Freddy K, Kaiser (K S R), Luke Slater and Nastia. Browse upcoming dates, start times and who's playing. via stradella 10/d, Torino, Italy.
 
@@ -17,4 +17,4 @@ not|or|ius Club is a music venue in Turin listed on soundcheck. 4 upcoming night
 
 via stradella 10/d, Torino, Italy, Turin
 
-*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/turin/club/not-or-ius-club/)*
+*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/turin/club/not-or-ius-club/)*

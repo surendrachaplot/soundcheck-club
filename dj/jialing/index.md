@@ -1,14 +1,15 @@
 # JIALING
 
-JIALING is a Club and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 16 Sept 2026, next at Warehouse on Watts, Philadelphia on Sat, 24 Oct 2026.
+JIALING is a Club and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 17 Sept 2026, next at Warehouse on Watts, Philadelphia on Sat, 24 Oct 2026.
 
-JIALING is a club and techno artist tracked on soundcheck, with 116 sets logged across Berlin, Chicago, Denver and Detroit and 14 more. Often billed alongside Mui Mui, PHANTAZN and Korea Town Acid. Next up: Warehouse on Watts, Philadelphia on Sat 24 Oct.
+JIALING is a club and techno artist tracked on soundcheck, with 117 sets logged across Berlin, Chicago, Denver and Detroit and 14 more. Often billed alongside Mui Mui, PHANTAZN and Seimei. Next up: Warehouse on Watts, Philadelphia on Sat 24 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 24 Oct 2026 | Warehouse on Watts | Philadelphia |
+| Sat, 21 Nov 2026 | clubasia | Tokyo |
 
 ## Recently played
 
@@ -23,6 +24,6 @@ JIALING is a club and techno artist tracked on soundcheck, with 116 sets logged 
 
 ## Shares bills with
 
-Mui Mui, PHANTAZN, Korea Town Acid
+Mui Mui, PHANTAZN, Seimei
 
-*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jialing/)*
+*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jialing/)*

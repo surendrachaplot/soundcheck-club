@@ -1,8 +1,8 @@
 # Gretchen
 
-Gretchen is a music venue in Berlin with 49 upcoming nights listed on soundcheck as of Wed, 16 Sept 2026; the next is "DOV'È LIANA *live" on Sat, 19 Sept 2026.
+Gretchen is a music venue in Berlin with 50 upcoming nights listed on soundcheck as of Thu, 17 Sept 2026; the next is "DOV'È LIANA *live" on Sat, 19 Sept 2026.
 
-Gretchen is a music venue in Berlin listed on soundcheck. 49 upcoming nights, with line-ups including Acid Arab, Alley Cat, alllone and Allynx and 2 more. Browse upcoming dates, start times and who's playing. Obentrautstr.19-21; 10963 Kreuzberg; Berlin; Germany.
+Gretchen is a music venue in Berlin listed on soundcheck. 50 upcoming nights, with line-ups including Acid Arab, Alley Cat, alllone and Allynx and 2 more. Browse upcoming dates, start times and who's playing. Obentrautstr.19-21; 10963 Kreuzberg; Berlin; Germany.
 
 ## What's on
 
@@ -23,4 +23,4 @@ Gretchen is a music venue in Berlin listed on soundcheck. 49 upcoming nights, wi
 
 Obentrautstr.19-21; 10963 Kreuzberg; Berlin; Germany, Berlin
 
-*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/gretchen/)*
+*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/gretchen/)*

@@ -1,6 +1,6 @@
 # BLUR with Chaos In The CBD, Dorisburg (live), Sarah Wanita, Poppy, Nikita at UMI
 
-BLUR with Chaos In The CBD, Dorisburg (live), Sarah Wanita, Poppy, Nikita at UMI on Sat 3 Oct, Brussels. 5 acts on the bill: Chaos In The CBD, Dorisburg, NIKITA (2) and Poppy and 1 more. House and Electro. Preview the line-up and save it on soundcheck.
+BLUR with Chaos In The CBD, Dorisburg (live), Sarah Wanita, Poppy, Nikita at UMI on Sat 3 Oct, Brussels. 6 acts on the bill: Chaos In The CBD, Dorisburg, NIKITA (2) and Poppy and 2 more. House and Electro. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -14,6 +14,7 @@ BLUR with Chaos In The CBD, Dorisburg (live), Sarah Wanita, Poppy, Nikita at UMI
 - Dorisburg
 - NIKITA (2)
 - Poppy
+- Poppy (BE)
 - Sarah Wanita
 
 *Source: [soundcheck](https://soundcheck.club/e/2527516-blur-with-chaos-in-the-cbd-dorisburg-live-sarah-wanita-poppy/)*

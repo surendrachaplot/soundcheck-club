@@ -1,6 +1,6 @@
 # Nooriyah
 
-Nooriyah is a House and Club artist with 3 upcoming club dates listed on soundcheck as of Wed, 16 Sept 2026, next at Webster Hall, New York City on Fri, 18 Sept 2026.
+Nooriyah is a House and Club artist with 3 upcoming club dates listed on soundcheck as of Thu, 17 Sept 2026, next at Webster Hall, New York City on Fri, 18 Sept 2026.
 
 Nooriyah is a house and club artist based in United Kingdom, tracked on soundcheck, with 61 sets logged across Amsterdam, Barcelona, Berlin and Birmingham and 30 more. Often billed alongside Jyoty, NIKS and Soichi Terada. Next up: Webster Hall, Newyorkcity on Fri 18 Sept.
 
@@ -27,4 +27,4 @@ Nooriyah is a house and club artist based in United Kingdom, tracked on soundche
 
 Jyoty, NIKS, Soichi Terada
 
-*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nooriyah/)*
+*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nooriyah/)*

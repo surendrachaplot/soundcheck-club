@@ -1,8 +1,8 @@
 # Ormside Projects
 
-Ormside Projects is a music venue in London with 15 upcoming nights listed on soundcheck as of Wed, 16 Sept 2026; the next is "Event D - Alphabet and Dumb Club presents Ayegy & Palmistry" on Fri, 18 Sept 2026.
+Ormside Projects is a music venue in London with 16 upcoming nights listed on soundcheck as of Thu, 17 Sept 2026; the next is "Event D - Alphabet and Dumb Club presents Ayegy & Palmistry" on Fri, 18 Sept 2026.
 
-Ormside Projects is a music venue in London listed on soundcheck. 15 upcoming nights, with line-ups including Angel D'lite, Appleblim, Authentically Plastic and AYEGY and 2 more. Browse upcoming dates, start times and who's playing. 32 Ormside St, London SE15 1TR, UK.
+Ormside Projects is a music venue in London listed on soundcheck. 16 upcoming nights, with line-ups including Angel D'lite, Appleblim, Authentically Plastic and AYEGY and 2 more. Browse upcoming dates, start times and who's playing. 32 Ormside St, London SE15 1TR, UK.
 
 ## What's on
 
@@ -23,4 +23,4 @@ Ormside Projects is a music venue in London listed on soundcheck. 15 upcoming ni
 
 32 Ormside St, London SE15 1TR, UK, London
 
-*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/ormside-projects/)*
+*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/ormside-projects/)*

@@ -1,6 +1,6 @@
 # GOODLIFE feat. Rebekah at Joule
 
-GOODLIFE feat. Rebekah at Joule on Sat 19 Sept, Osaka. 2 acts on the bill: O-MAN and Rebekah. Techno. Preview the line-up and save it on soundcheck.
+GOODLIFE feat. Rebekah at Joule on Sat 19 Sept, Osaka. 3 acts on the bill: FENGX2, O-MAN and Rebekah. Techno and Industrial. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ GOODLIFE feat. Rebekah at Joule on Sat 19 Sept, Osaka. 2 acts on the bill: O-MAN
 
 ## Line-up
 
+- FENGX2
 - O-MAN
 - Rebekah
 

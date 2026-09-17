@@ -1,14 +1,13 @@
 # Rex Club
 
-Rex Club is a music venue in Paris with 18 upcoming nights listed on soundcheck as of Wed, 16 Sept 2026; the next is "Vortex Invite: FUMI, VICØ, Keyklau" on Wed, 16 Sept 2026.
+Rex Club is a music venue in Paris with 18 upcoming nights listed on soundcheck as of Thu, 17 Sept 2026; the next is "Bavardages & friends all night long" on Thu, 17 Sept 2026.
 
-Rex Club is a music venue in Paris listed on soundcheck. 18 upcoming nights, with line-ups including 2ManyDJs, Anja Sugar, Antal and Canelle Doublekick and 2 more. Browse upcoming dates, start times and who's playing. 5 boulevard Poissonnière; 75002; Paris; France.
+Rex Club is a music venue in Paris listed on soundcheck. 18 upcoming nights, with line-ups including 2ManyDJs, Anja Sugar, Antal and Bours? and 2 more. Browse upcoming dates, start times and who's playing. 5 boulevard Poissonnière; 75002; Paris; France.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Wed, 16 Sept 2026 | Vortex Invite: FUMI, VICØ, Keyklau | FUMI, Keyklau, VICØ |
 | Thu, 17 Sept 2026 | Bavardages & friends all night long |  |
 | Fri, 18 Sept 2026 | Rex Club presents: Max Cooper (djset) all night long | Max Cooper |
 | Sat, 19 Sept 2026 | La Scarlette - Back to Club: Canelle Doublekick, Lisa More, Himeiji b2b Alzeda | Canelle Doublekick, Lisa More |
@@ -18,9 +17,10 @@ Rex Club is a music venue in Paris listed on soundcheck. 18 upcoming nights, wit
 | Sat, 26 Sept 2026 | VÉNUS CLUB INVITE Elkka | Elkka, Sainte Exp, Vickies |
 | Thu, 1 Oct 2026 | Rex Club presents: Joris Delacroix all night long | Joris Delacroix |
 | Fri, 2 Oct 2026 | Rex Club presents: Dam Swindle all night long | Dam Swindle |
+| Wed, 7 Oct 2026 | Tape: Maudux, PEAKSOU, Vespera, Naïs | Maudux, Naïs, PEAKSOU |
 
 ## Address
 
 5 boulevard Poissonnière; 75002; Paris; France, Paris
 
-*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/paris/club/rex-club/)*
+*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/paris/club/rex-club/)*

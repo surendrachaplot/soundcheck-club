@@ -1,6 +1,6 @@
 # JONE OF ARX
 
-JONE OF ARX is a Techno and Latin Bass artist with 2 upcoming club dates listed on soundcheck as of Wed, 16 Sept 2026, next at Phantom Bar Berlin, Berlin on Sat, 19 Sept 2026.
+JONE OF ARX is a Techno and Latin Bass artist with 2 upcoming club dates listed on soundcheck as of Thu, 17 Sept 2026, next at Phantom Bar Berlin, Berlin on Sat, 19 Sept 2026.
 
 JONE OF ARX is a techno and latin bass artist tracked on soundcheck, with 49 sets logged across Amsterdam, Barcelona, Berlin and Leeds and 2 more. Often billed alongside TEDESCO, Ivicore and LOVECAT. Next up: Phantom Bar Berlin, Berlin on Sat 19 Sept.
 
@@ -26,4 +26,4 @@ JONE OF ARX is a techno and latin bass artist tracked on soundcheck, with 49 set
 
 TEDESCO, Ivicore, LOVECAT
 
-*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/joneofarx/)*
+*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/joneofarx/)*

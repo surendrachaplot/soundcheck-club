@@ -1,6 +1,6 @@
 # Harbour Music Shelter
 
-Harbour Music Shelter is a music venue in Lisbon with 3 upcoming nights listed on soundcheck as of Wed, 16 Sept 2026; the next is "Harbour Sundaze Gear convida Johan" on Sun, 20 Sept 2026.
+Harbour Music Shelter is a music venue in Lisbon with 3 upcoming nights listed on soundcheck as of Thu, 17 Sept 2026; the next is "Harbour Sundaze Gear convida Johan" on Sun, 20 Sept 2026.
 
 Harbour Music Shelter is a music venue in Lisbon listed on soundcheck. 3 upcoming nights, with line-ups including Bruno Curtis, Gear and Marco Shuttle. Browse upcoming dates, start times and who's playing. Cais do Gás Armazém A 1900-109 Lisboa, Portugal.
 
@@ -16,4 +16,4 @@ Harbour Music Shelter is a music venue in Lisbon listed on soundcheck. 3 upcomin
 
 Cais do Gás Armazém A 1900-109 Lisboa, Portugal, Lisbon
 
-*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/lisbon/club/harbour-music-shelter/)*
+*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/lisbon/club/harbour-music-shelter/)*

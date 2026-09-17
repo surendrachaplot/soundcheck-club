@@ -1,14 +1,15 @@
 # Lindsey Herbert
 
-Lindsey Herbert is a Techno and House artist with 7 upcoming club dates listed on soundcheck as of Wed, 16 Sept 2026, next at The Bassement, Madrid on Sat, 26 Sept 2026.
+Lindsey Herbert is a Techno and House artist with 8 upcoming club dates listed on soundcheck as of Thu, 17 Sept 2026, next at The Bassement, Madrid on Sat, 26 Sept 2026.
 
-Lindsey Herbert is a techno and house artist tracked on soundcheck, with 113 sets logged across Amsterdam, Austin, Barcelona and Berlin and 26 more. Often billed alongside Richie Hawtin, PLEASURES (US) and Decoder. Next up: The Bassement, Madrid on Sat 26 Sept.
+Lindsey Herbert is a techno and house artist tracked on soundcheck, with 114 sets logged across Amsterdam, Austin, Barcelona and Berlin and 26 more. Often billed alongside Richie Hawtin, PLEASURES (US) and Decoder. Next up: The Bassement, Madrid on Sat 26 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 26 Sept 2026 | The Bassement | Madrid |
+| Fri, 2 Oct 2026 | Fuchs2 | Prague |
 | Fri, 9 Oct 2026 | Tresor / Globus | Berlin |
 | Fri, 16 Oct 2026 | Marble Bar | Detroit |
 | Sat, 17 Oct 2026 | TBA - 16915 Darnestown Road, Boyds, Maryland 20841 | Washington DC |
@@ -31,4 +32,4 @@ Lindsey Herbert is a techno and house artist tracked on soundcheck, with 113 set
 
 Richie Hawtin, PLEASURES (US), Decoder
 
-*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lindseyherbert/)*
+*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lindseyherbert/)*

@@ -1,13 +1,14 @@
 # STAFFY
 
-STAFFY is a Techno and Trance artist with 3 upcoming club dates listed on soundcheck as of Wed, 16 Sept 2026, next at Maitland Showground, Sydney on Fri, 25 Sept 2026.
+STAFFY is a Techno and Trance artist with 4 upcoming club dates listed on soundcheck as of Thu, 17 Sept 2026, next at Revolver Upstairs, Melbourne on Sun, 20 Sept 2026.
 
-STAFFY is a techno and trance artist based in Australia, tracked on soundcheck, with 27 sets logged across Amsterdam, Manchester, Melbourne and Saopaulo and 1 more. Often billed alongside HIJCKD, Gabriella Spritz and Allen Cedano. Next up: Maitland Showground, Sydney on Fri 25 Sept.
+STAFFY is a techno and trance artist based in Australia, tracked on soundcheck, with 28 sets logged across Amsterdam, Manchester, Melbourne and Saopaulo and 1 more. Often billed alongside HIJCKD, Gabriella Spritz and Allen Cedano. Next up: Revolver Upstairs, Melbourne on Sun 20 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sun, 20 Sept 2026 | Revolver Upstairs | Melbourne |
 | Fri, 25 Sept 2026 | Maitland Showground | Sydney |
 | Sat, 24 Oct 2026 | NDSM Scheepsbouwloods | Amsterdam |
 | Fri, 27 Nov 2026 | Lardner Park | Melbourne |
@@ -27,4 +28,4 @@ STAFFY is a techno and trance artist based in Australia, tracked on soundcheck, 
 
 HIJCKD, Gabriella Spritz, Allen Cedano
 
-*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/staffy/)*
+*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/staffy/)*

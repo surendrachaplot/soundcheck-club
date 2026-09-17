@@ -1,6 +1,6 @@
 # Joseph Capriati
 
-Joseph Capriati is a Techno and House artist with 11 upcoming club dates listed on soundcheck as of Wed, 16 Sept 2026, next at Parc d’Atraccions del Tibidabo, Barcelona on Fri, 18 Sept 2026.
+Joseph Capriati is a Techno and House artist with 11 upcoming club dates listed on soundcheck as of Thu, 17 Sept 2026, next at Parc d’Atraccions del Tibidabo, Barcelona on Fri, 18 Sept 2026.
 
 Joseph Capriati is a techno and house artist tracked on soundcheck, with 222 sets logged across Amsterdam, Athens, Austin and Bali and 44 more. Often billed alongside Jamie Jones, Indira Paganotto and Dennis Cruz. Next up: Parc d’Atraccions del Tibidabo, Barcelona on Fri 18 Sept.
 
@@ -35,4 +35,4 @@ Joseph Capriati is a techno and house artist tracked on soundcheck, with 222 set
 
 Jamie Jones, Indira Paganotto, Dennis Cruz
 
-*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/josephcapriati/)*
+*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/josephcapriati/)*

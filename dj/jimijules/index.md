@@ -1,6 +1,6 @@
 # Jimi Jules
 
-Jimi Jules is a House and Techno artist with 6 upcoming club dates listed on soundcheck as of Wed, 16 Sept 2026, next at Hï Ibiza, Ibiza on Fri, 18 Sept 2026.
+Jimi Jules is a House and Techno artist with 6 upcoming club dates listed on soundcheck as of Thu, 17 Sept 2026, next at Hï Ibiza, Ibiza on Fri, 18 Sept 2026.
 
 Jimi Jules is a house and techno artist tracked on soundcheck, with 193 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 43 more. Often billed alongside Dixon, Âme and Trikk. Next up: Hï Ibiza, Ibiza on Fri 18 Sept.
 
@@ -30,4 +30,4 @@ Jimi Jules is a house and techno artist tracked on soundcheck, with 193 sets log
 
 Dixon, Âme, Trikk
 
-*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jimijules/)*
+*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jimijules/)*

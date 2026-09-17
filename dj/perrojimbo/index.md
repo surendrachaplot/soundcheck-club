@@ -1,6 +1,6 @@
 # Perro Jimbo
 
-Perro Jimbo is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 16 Sept 2026, next at Sunseabar Beach Club, Barcelona on Sat, 26 Sept 2026.
+Perro Jimbo is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 17 Sept 2026, next at Sunseabar Beach Club, Barcelona on Sat, 26 Sept 2026.
 
 Perro Jimbo is a house and techno artist tracked on soundcheck, with 86 sets logged across Barcelona, Berlin, Dublin and Lyon and 4 more. Often billed alongside VIKk, Family Matters and Fatal. Next up: Sunseabar Beach Club, Barcelona on Sat 26 Sept.
 
@@ -25,4 +25,4 @@ Perro Jimbo is a house and techno artist tracked on soundcheck, with 86 sets log
 
 VIKk, Family Matters, Fatal
 
-*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/perrojimbo/)*
+*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/perrojimbo/)*

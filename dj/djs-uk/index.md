@@ -1,6 +1,6 @@
 # DJ S (UK)
 
-DJ S (UK) is a Tech House and House artist with 5 upcoming club dates listed on soundcheck as of Wed, 16 Sept 2026, next at Panke Social, Sheffield on Sat, 19 Sept 2026.
+DJ S (UK) is a Tech House and House artist with 5 upcoming club dates listed on soundcheck as of Thu, 17 Sept 2026, next at Panke Social, Sheffield on Sat, 19 Sept 2026.
 
 DJ S (UK) is a tech house and house artist tracked on soundcheck, with 171 sets logged across Amsterdam, Athens, Bangkok and Belfast and 29 more. Often billed alongside Shenin Amara, Jerome Six and JAYDAA. Next up: Panke Social, Sheffield on Sat 19 Sept.
 
@@ -29,4 +29,4 @@ DJ S (UK) is a tech house and house artist tracked on soundcheck, with 171 sets 
 
 Shenin Amara, Jerome Six, JAYDAA
 
-*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djs-uk/)*
+*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djs-uk/)*

@@ -1,6 +1,6 @@
 # Rickshinmi
 
-Rickshinmi is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 16 Sept 2026, next at WOMB, Tokyo on Fri, 18 Sept 2026.
+Rickshinmi is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 17 Sept 2026, next at WOMB, Tokyo on Fri, 18 Sept 2026.
 
 Rickshinmi is a techno and house artist tracked on soundcheck, with 60 sets logged across Seoul and Tokyo. Often billed alongside EMILIO (3), EVE (1) and Kojiro. Next up: WOMB, Tokyo on Fri 18 Sept.
 
@@ -25,4 +25,4 @@ Rickshinmi is a techno and house artist tracked on soundcheck, with 60 sets logg
 
 EMILIO (3), EVE (1), Kojiro
 
-*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/rickshinmi/)*
+*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/rickshinmi/)*

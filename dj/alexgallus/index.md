@@ -1,6 +1,6 @@
 # Alex Gallus
 
-Alex Gallus is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 16 Sept 2026, next at Georgia Bar, Berlin on Sat, 19 Sept 2026.
+Alex Gallus is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 17 Sept 2026, next at Georgia Bar, Berlin on Sat, 19 Sept 2026.
 
 Alex Gallus is a house and techno artist based in Germany, tracked on soundcheck, with 25 sets logged across Berlin. Often billed alongside Zettka, AWSM and Coss. Next up: Georgia Bar, Berlin on Sat 19 Sept.
 
@@ -26,4 +26,4 @@ Alex Gallus is a house and techno artist based in Germany, tracked on soundcheck
 
 Zettka, AWSM, Coss
 
-*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/alexgallus/)*
+*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/alexgallus/)*

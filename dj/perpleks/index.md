@@ -1,6 +1,6 @@
 # Per Pleks
 
-Per Pleks is a Techno and Industrial artist with 3 upcoming club dates listed on soundcheck as of Wed, 16 Sept 2026, next at Domicile, Miami on Sat, 19 Sept 2026.
+Per Pleks is a Techno and Industrial artist with 3 upcoming club dates listed on soundcheck as of Thu, 17 Sept 2026, next at Domicile, Miami on Sat, 19 Sept 2026.
 
 Per Pleks is a techno and industrial artist tracked on soundcheck, with 93 sets logged across Amsterdam, Antwerp, Barcelona and Belfast and 36 more. Often billed alongside Luciid, Aphøtic and Alignment. Next up: Domicile, Miami on Sat 19 Sept.
 
@@ -27,4 +27,4 @@ Per Pleks is a techno and industrial artist tracked on soundcheck, with 93 sets 
 
 Luciid, Aphøtic, Alignment
 
-*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/perpleks/)*
+*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/perpleks/)*

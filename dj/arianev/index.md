@@ -1,13 +1,14 @@
 # Ariane V
 
-Ariane V is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 16 Sept 2026, next at EartH Kitchen, London on Fri, 20 Nov 2026.
+Ariane V is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 17 Sept 2026, next at Ballroom at Palais, London on Fri, 18 Sept 2026.
 
-Ariane V is a house and techno artist tracked on soundcheck, with 101 sets logged across Amsterdam, Barcelona, Berlin and Leeds and 4 more. Often billed alongside Ben Gomori, Gaucho (UK) and Liv Ayers. Next up: EartH Kitchen, London on Fri 20 Nov.
+Ariane V is a house and techno artist tracked on soundcheck, with 102 sets logged across Amsterdam, Barcelona, Berlin and Leeds and 4 more. Often billed alongside Ben Gomori, Gaucho (UK) and Liv Ayers. Next up: Ballroom at Palais, London on Fri 18 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 18 Sept 2026 | Ballroom at Palais | London |
 | Fri, 20 Nov 2026 | EartH Kitchen | London |
 
 ## Recently played
@@ -25,4 +26,4 @@ Ariane V is a house and techno artist tracked on soundcheck, with 101 sets logge
 
 Ben Gomori, Gaucho (UK), Liv Ayers
 
-*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/arianev/)*
+*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/arianev/)*

@@ -1,6 +1,6 @@
 # Club Baggerbeest
 
-Club Baggerbeest is a music venue in Amsterdam with 6 upcoming nights listed on soundcheck as of Wed, 16 Sept 2026; the next is "Groove Raiderz Amsterdam Dance Event Showcase at Baggerbeest Club" on Mon, 21 Sept 2026.
+Club Baggerbeest is a music venue in Amsterdam with 6 upcoming nights listed on soundcheck as of Thu, 17 Sept 2026; the next is "Groove Raiderz Amsterdam Dance Event Showcase at Baggerbeest Club" on Mon, 21 Sept 2026.
 
 Club Baggerbeest is a music venue in Amsterdam listed on soundcheck. 6 upcoming nights, with line-ups including Adellic, Adnan Jakubovic, ALADAG and Arrakis (GER) and 2 more. Browse upcoming dates, start times and who's playing. Rudi van Dantzigstraat 1, 1095 PK Amsterdam.
 
@@ -19,4 +19,4 @@ Club Baggerbeest is a music venue in Amsterdam listed on soundcheck. 6 upcoming 
 
 Rudi van Dantzigstraat 1, 1095 PK Amsterdam, Amsterdam
 
-*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/club-baggerbeest/)*
+*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/club-baggerbeest/)*

@@ -1,6 +1,6 @@
 # Andy Martin
 
-Andy Martin is a Techno and House artist with 9 upcoming club dates listed on soundcheck as of Wed, 16 Sept 2026, next at Process PDX, Portland on Fri, 18 Sept 2026.
+Andy Martin is a Techno and House artist with 9 upcoming club dates listed on soundcheck as of Thu, 17 Sept 2026, next at Process PDX, Portland on Fri, 18 Sept 2026.
 
 Andy Martin is a techno and house artist tracked on soundcheck, with 71 sets logged across Amsterdam, Athens, Barcelona and Berlin and 25 more. Often billed alongside Niño Arbol, Blasha & Allatt and DJ MARIA.. Next up: Process PDX, Portland on Fri 18 Sept.
 
@@ -33,4 +33,4 @@ Andy Martin is a techno and house artist tracked on soundcheck, with 71 sets log
 
 Niño Arbol, Blasha & Allatt, DJ MARIA.
 
-*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/andymartin/)*
+*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/andymartin/)*

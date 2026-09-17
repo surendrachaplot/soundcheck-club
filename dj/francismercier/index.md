@@ -1,6 +1,6 @@
 # Francis Mercier
 
-Francis Mercier is a Afro House and House artist with 7 upcoming club dates listed on soundcheck as of Wed, 16 Sept 2026, next at Reframe Studios Indoors, Los Angeles on Sat, 19 Sept 2026.
+Francis Mercier is a Afro House and House artist with 7 upcoming club dates listed on soundcheck as of Thu, 17 Sept 2026, next at Reframe Studios Indoors, Los Angeles on Sat, 19 Sept 2026.
 
 Francis Mercier is an afro house and house artist tracked on soundcheck, with 169 sets logged across Amsterdam, Antwerp, Athens and Austin and 41 more. Often billed alongside Andrea Oliva, Nadrums and ARYMÉ. Next up: Reframe Studios Indoors, Losangeles on Sat 19 Sept.
 
@@ -31,4 +31,4 @@ Francis Mercier is an afro house and house artist tracked on soundcheck, with 16
 
 Andrea Oliva, Nadrums, ARYMÉ
 
-*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/francismercier/)*
+*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/francismercier/)*

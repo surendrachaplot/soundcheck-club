@@ -1,6 +1,6 @@
 # Calamidades Lola
 
-Calamidades Lola is a Reggaeton and Latin Bass artist with 2 upcoming club dates listed on soundcheck as of Wed, 16 Sept 2026, next at ÆDEN, Berlin on Sat, 19 Sept 2026.
+Calamidades Lola is a Reggaeton and Latin Bass artist with 2 upcoming club dates listed on soundcheck as of Thu, 17 Sept 2026, next at ÆDEN, Berlin on Sat, 19 Sept 2026.
 
 Calamidades Lola is a reggaeton and latin bass artist based in Colombia, tracked on soundcheck, with 25 sets logged across Amsterdam and Berlin. Often billed alongside Amuleto Manuela, D'Monk and Coco Maria. Next up: ÆDEN, Berlin on Sat 19 Sept.
 
@@ -26,4 +26,4 @@ Calamidades Lola is a reggaeton and latin bass artist based in Colombia, tracked
 
 Amuleto Manuela, D'Monk, Coco Maria
 
-*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/calamidadeslola/)*
+*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/calamidadeslola/)*

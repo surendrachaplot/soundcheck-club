@@ -1,6 +1,6 @@
 # ketia
 
-ketia is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Wed, 16 Sept 2026, next at KREUZWERK, Berlin on Sat, 19 Sept 2026.
+ketia is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Thu, 17 Sept 2026, next at KREUZWERK, Berlin on Sat, 19 Sept 2026.
 
 ketia is a techno and house artist based in Portugal, tracked on soundcheck, with 144 sets logged across Amsterdam, Antwerp, Barcelona and Berlin and 32 more. Often billed alongside Angel D'lite, ADAM MUNNINGS and DJ Petite. Next up: KREUZWERK, Berlin on Sat 19 Sept.
 
@@ -30,4 +30,4 @@ ketia is a techno and house artist based in Portugal, tracked on soundcheck, wit
 
 Angel D'lite, ADAM MUNNINGS, DJ Petite
 
-*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ketia/)*
+*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ketia/)*

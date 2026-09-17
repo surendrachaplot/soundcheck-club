@@ -1,6 +1,6 @@
 # RENDERS_002 at Mood Ring
 
-RENDERS_002 at Mood Ring on Thu 8 Oct, Newyorkcity. 4 acts on the bill: Bella Hex, elle xxo, entity_A and JOHNNY O. Preview the line-up and save it on soundcheck.
+RENDERS_002 at Mood Ring on Thu 8 Oct, Newyorkcity. 5 acts on the bill: Bella Hex, elle xxo, entity_A and JOHNNY O and 1 more. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -14,5 +14,6 @@ RENDERS_002 at Mood Ring on Thu 8 Oct, Newyorkcity. 4 acts on the bill: Bella He
 - elle xxo
 - entity_A
 - JOHNNY O
+- Remniqe
 
 *Source: [soundcheck](https://soundcheck.club/e/2523814-renders-002-at-mood-ring/)*

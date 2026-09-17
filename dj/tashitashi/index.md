@@ -1,6 +1,6 @@
 # Tashi Tashi
 
-Tashi Tashi is a Techno and Electro artist with 2 upcoming club dates listed on soundcheck as of Wed, 16 Sept 2026, next at Sensorium, Berlin on Fri, 18 Sept 2026.
+Tashi Tashi is a Techno and Electro artist with 2 upcoming club dates listed on soundcheck as of Thu, 17 Sept 2026, next at Sensorium, Berlin on Fri, 18 Sept 2026.
 
 Tashi Tashi is a techno and electro artist tracked on soundcheck, with 7 sets logged across Berlin. Often billed alongside Alex Grebe, Aras and DJ YumYum. Next up: Sensorium, Berlin on Fri 18 Sept.
 
@@ -23,4 +23,4 @@ Tashi Tashi is a techno and electro artist tracked on soundcheck, with 7 sets lo
 
 Alex Grebe, Aras, DJ YumYum
 
-*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tashitashi/)*
+*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tashitashi/)*

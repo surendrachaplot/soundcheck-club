@@ -1,6 +1,6 @@
 # Beatrice Dillon
 
-Beatrice Dillon is a Experimental and Electro artist with 1 upcoming club date listed on soundcheck as of Wed, 16 Sept 2026, next at Munch, Oslo on Thu, 17 Sept 2026.
+Beatrice Dillon is a Experimental and Electro artist with 1 upcoming club date listed on soundcheck as of Thu, 17 Sept 2026, next at Munch, Oslo on Thu, 17 Sept 2026.
 
 Beatrice Dillon is an experimental and electro artist tracked on soundcheck, with 14 sets logged across Bristol, Lisbon, London and Milan and 5 more. Often billed alongside Actress, Batu and Deena Abdelwahed. Next up: Munch, Oslo on Thu 17 Sept.
 
@@ -25,4 +25,4 @@ Beatrice Dillon is an experimental and electro artist tracked on soundcheck, wit
 
 Actress, Batu, Deena Abdelwahed
 
-*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/beatricedillon/)*
+*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/beatricedillon/)*

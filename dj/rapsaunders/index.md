@@ -1,13 +1,14 @@
 # Rap Saunders
 
-Rap Saunders is a House and Deep House artist with 2 upcoming club dates listed on soundcheck as of Wed, 16 Sept 2026, next at People's Leisure Club, Edinburgh on Sat, 7 Nov 2026.
+Rap Saunders is a House and Deep House artist with 3 upcoming club dates listed on soundcheck as of Thu, 17 Sept 2026, next at radial, London on Sat, 17 Oct 2026.
 
-Rap Saunders is a house and deep house artist based in United Kingdom, tracked on soundcheck, with 21 sets logged across Edinburgh, London and Stockholm. Often billed alongside Kojay, Will B and A Guy Called Gerald. Next up: People's Leisure Club, Edinburgh on Sat 7 Nov.
+Rap Saunders is a house and deep house artist based in United Kingdom, tracked on soundcheck, with 22 sets logged across Edinburgh, London and Stockholm. Often billed alongside Dennis Christensen, Kojay and Will B. Next up: radial, London on Sat 17 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 17 Oct 2026 | radial | London |
 | Sat, 7 Nov 2026 | People's Leisure Club | Edinburgh |
 | Sun, 29 Nov 2026 | The Timber Loft | London |
 
@@ -24,6 +25,6 @@ Rap Saunders is a house and deep house artist based in United Kingdom, tracked o
 
 ## Shares bills with
 
-Kojay, Will B, A Guy Called Gerald
+Dennis Christensen, Kojay, Will B
 
-*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/rapsaunders/)*
+*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/rapsaunders/)*

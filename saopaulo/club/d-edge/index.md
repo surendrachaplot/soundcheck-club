@@ -1,6 +1,6 @@
 # D-EDGE
 
-D-EDGE is a music venue in Sao Paulo with 8 upcoming nights listed on soundcheck as of Wed, 16 Sept 2026; the next is "MOVING D-EDGE SP pres.: AMMIT. DJ Murphy. Lost my Keys. Vallas Martins" on Thu, 17 Sept 2026.
+D-EDGE is a music venue in Sao Paulo with 8 upcoming nights listed on soundcheck as of Thu, 17 Sept 2026; the next is "MOVING D-EDGE SP pres.: AMMIT. DJ Murphy. Lost my Keys. Vallas Martins" on Thu, 17 Sept 2026.
 
 D-EDGE is a music venue in Saopaulo listed on soundcheck. 8 upcoming nights, with line-ups including Acid Asian, Adnan Sharif, BALDACCI and Bervon and 2 more. Browse upcoming dates, start times and who's playing. Av. Auro Soares de Moura Andrade, 141. 01155-040 São Paulo , Brazil.
 
@@ -21,4 +21,4 @@ D-EDGE is a music venue in Saopaulo listed on soundcheck. 8 upcoming nights, wit
 
 Av. Auro Soares de Moura Andrade, 141. 01155-040 São Paulo , Brazil, Sao Paulo
 
-*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/saopaulo/club/d-edge/)*
+*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/saopaulo/club/d-edge/)*

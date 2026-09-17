@@ -1,6 +1,6 @@
 # Invisible Wind Factory
 
-Invisible Wind Factory is a music venue in Liverpool with 9 upcoming nights listed on soundcheck as of Wed, 16 Sept 2026; the next is "Circus Birthday Official After Party Sat 26 Sept at IWF" on Sat, 26 Sept 2026.
+Invisible Wind Factory is a music venue in Liverpool with 9 upcoming nights listed on soundcheck as of Thu, 17 Sept 2026; the next is "Circus Birthday Official After Party Sat 26 Sept at IWF" on Sat, 26 Sept 2026.
 
 Invisible Wind Factory is a music venue in Liverpool listed on soundcheck. 9 upcoming nights, with line-ups including Annie Mac, Benji King, blvk.velvet and Bridge (NY) and 2 more. Browse upcoming dates, start times and who's playing. 3 Regent Rd, Liverpool L3 7DS, United Kingdom.
 
@@ -22,4 +22,4 @@ Invisible Wind Factory is a music venue in Liverpool listed on soundcheck. 9 upc
 
 3 Regent Rd, Liverpool L3 7DS, United Kingdom, Liverpool
 
-*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/liverpool/club/invisible-wind-factory/)*
+*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/liverpool/club/invisible-wind-factory/)*

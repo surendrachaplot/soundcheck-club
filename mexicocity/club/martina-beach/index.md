@@ -1,6 +1,6 @@
 # Martina Beach
 
-Martina Beach is a music venue in Mexico City with 1 upcoming night listed on soundcheck as of Wed, 16 Sept 2026; the next is "HERNAN CATTANEO" on Wed, 28 Oct 2026.
+Martina Beach is a music venue in Mexico City with 1 upcoming night listed on soundcheck as of Thu, 17 Sept 2026; the next is "HERNAN CATTANEO" on Wed, 28 Oct 2026.
 
 Martina Beach is a music venue in Mexicocity listed on soundcheck. 1 upcoming night. Browse upcoming dates, start times and who's playing. Calle Albatros con Calle 44, Playa Del Carmen, Mexico.
 
@@ -14,4 +14,4 @@ Martina Beach is a music venue in Mexicocity listed on soundcheck. 1 upcoming ni
 
 Calle Albatros con Calle 44, Playa Del Carmen, Mexico, Mexico City
 
-*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/mexicocity/club/martina-beach/)*
+*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/mexicocity/club/martina-beach/)*

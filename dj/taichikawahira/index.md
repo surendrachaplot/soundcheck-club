@@ -1,6 +1,6 @@
 # Taichi Kawahira
 
-Taichi Kawahira is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 16 Sept 2026, next at WOMB, Tokyo on Fri, 18 Sept 2026.
+Taichi Kawahira is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 17 Sept 2026, next at WOMB, Tokyo on Fri, 18 Sept 2026.
 
 Taichi Kawahira is a techno and house artist tracked on soundcheck, with 68 sets logged across Osaka and Tokyo. Often billed alongside Kojiro, Da Yama and POPPO. Next up: WOMB, Tokyo on Fri 18 Sept.
 
@@ -25,4 +25,4 @@ Taichi Kawahira is a techno and house artist tracked on soundcheck, with 68 sets
 
 Kojiro, Da Yama, POPPO
 
-*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/taichikawahira/)*
+*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/taichikawahira/)*

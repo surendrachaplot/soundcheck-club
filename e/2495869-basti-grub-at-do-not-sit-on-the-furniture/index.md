@@ -1,6 +1,6 @@
 # Basti Grub at Do Not Sit On The Furniture
 
-Basti Grub at Do Not Sit On The Furniture on Fri 23 Oct, Miami. 1 act on the bill: Basti Grub. House and Deep House. Preview the line-up and save it on soundcheck.
+Basti Grub at Do Not Sit On The Furniture on Fri 23 Oct, Miami. 2 acts on the bill: Basti Grub and Lucas Zarate. House and Deep House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,5 +11,6 @@ Basti Grub at Do Not Sit On The Furniture on Fri 23 Oct, Miami. 1 act on the bil
 ## Line-up
 
 - Basti Grub
+- Lucas Zarate
 
 *Source: [soundcheck](https://soundcheck.club/e/2495869-basti-grub-at-do-not-sit-on-the-furniture/)*

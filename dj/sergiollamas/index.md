@@ -1,6 +1,6 @@
 # Sergio LLamas
 
-Sergio LLamas is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 16 Sept 2026, next at Nobu Hotel, Barcelona on Fri, 18 Sept 2026.
+Sergio LLamas is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 17 Sept 2026, next at Nobu Hotel, Barcelona on Fri, 18 Sept 2026.
 
 Sergio LLamas is a house and techno artist tracked on soundcheck, with 51 sets logged across Barcelona and Madrid. Often billed alongside VITALI (1), Violeta Reynal and Bill Hates. Next up: Nobu Hotel, Barcelona on Fri 18 Sept.
 
@@ -25,4 +25,4 @@ Sergio LLamas is a house and techno artist tracked on soundcheck, with 51 sets l
 
 VITALI (1), Violeta Reynal, Bill Hates
 
-*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sergiollamas/)*
+*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sergiollamas/)*

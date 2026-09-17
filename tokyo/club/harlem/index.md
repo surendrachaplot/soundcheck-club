@@ -1,6 +1,6 @@
 # Harlem
 
-Harlem is a music venue in Tokyo with 1 upcoming night listed on soundcheck as of Wed, 16 Sept 2026; the next is "CARNIVAL SPECIAL" on Sun, 20 Sept 2026.
+Harlem is a music venue in Tokyo with 1 upcoming night listed on soundcheck as of Thu, 17 Sept 2026; the next is "CARNIVAL SPECIAL" on Sun, 20 Sept 2026.
 
 Harlem is a music venue in Tokyo listed on soundcheck. 1 upcoming night. Browse upcoming dates, start times and who's playing. Dr. Jeekahn's 2F, 3F, 2-4, Maruyamacho, Shibuya-ku, Tokyo JAPAN.
 
@@ -14,4 +14,4 @@ Harlem is a music venue in Tokyo listed on soundcheck. 1 upcoming night. Browse 
 
 Dr. Jeekahn's 2F, 3F, 2-4, Maruyamacho, Shibuya-ku, Tokyo JAPAN, Tokyo
 
-*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/harlem/)*
+*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/harlem/)*

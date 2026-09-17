@@ -1,8 +1,8 @@
 # Dead Letter No. 9
 
-Dead Letter No. 9 is a music venue in New York City with 15 upcoming nights listed on soundcheck as of Wed, 16 Sept 2026; the next is "Barangay presents: Jasmine Li, Jay Dawala, Gabriel Etrata, LANSUH, Niyah West, Chelsea" on Thu, 17 Sept 2026.
+Dead Letter No. 9 is a music venue in New York City with 16 upcoming nights listed on soundcheck as of Thu, 17 Sept 2026; the next is "Barangay presents: Jasmine Li, Jay Dawala, Gabriel Etrata, LANSUH, Niyah West, Chelsea" on Thu, 17 Sept 2026.
 
-Dead Letter No. 9 is a music venue in Newyorkcity listed on soundcheck. 15 upcoming nights, with line-ups including Acid Mama, Bea Hardy, beewack and Bendito and 2 more. Browse upcoming dates, start times and who's playing. 63 Grand St, Brooklyn, NY 11249, USA.
+Dead Letter No. 9 is a music venue in Newyorkcity listed on soundcheck. 16 upcoming nights, with line-ups including Acid Mama, Bea Hardy, beewack and Bendito and 2 more. Browse upcoming dates, start times and who's playing. 63 Grand St, Brooklyn, NY 11249, USA.
 
 ## What's on
 
@@ -23,4 +23,4 @@ Dead Letter No. 9 is a music venue in Newyorkcity listed on soundcheck. 15 upcom
 
 63 Grand St, Brooklyn, NY 11249, USA, New York City
 
-*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/dead-letter-no-9/)*
+*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/dead-letter-no-9/)*

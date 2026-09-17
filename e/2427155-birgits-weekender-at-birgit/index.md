@@ -1,6 +1,6 @@
 # Birgits WEEKENDER at Birgit
 
-Birgits WEEKENDER on Fri 18 Sept, Berlin. 1 act on the bill: Vivi Wonder. Techno and House. Preview the line-up and save it on soundcheck.
+Birgits WEEKENDER on Fri 18 Sept, Berlin. 2 acts on the bill: Miss Kitchen and Vivi Wonder. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ Birgits WEEKENDER on Fri 18 Sept, Berlin. 1 act on the bill: Vivi Wonder. Techno
 
 ## Line-up
 
+- Miss Kitchen
 - Vivi Wonder
 
 *Source: [soundcheck](https://soundcheck.club/e/2427155-birgits-weekender-at-birgit/)*

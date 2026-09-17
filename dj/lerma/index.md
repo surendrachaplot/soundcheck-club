@@ -1,6 +1,6 @@
 # Lerma
 
-Lerma is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 16 Sept 2026, next at Gorg-O-Mish, Vancouver on Fri, 18 Sept 2026.
+Lerma is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 17 Sept 2026, next at Gorg-O-Mish, Vancouver on Fri, 18 Sept 2026.
 
 Lerma is a techno and house artist tracked on soundcheck, with 25 sets logged across Vancouver. Often billed alongside DJ dood, INNEZZ and Kozue. Next up: Gorg-O-Mish, Vancouver on Fri 18 Sept.
 
@@ -25,4 +25,4 @@ Lerma is a techno and house artist tracked on soundcheck, with 25 sets logged ac
 
 DJ dood, INNEZZ, Kozue
 
-*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lerma/)*
+*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lerma/)*

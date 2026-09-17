@@ -1,6 +1,6 @@
 # Coco (2)
 
-Coco (2) is a Techno and Electronica artist with 1 upcoming club date listed on soundcheck as of Wed, 16 Sept 2026, next at Jonny Knüppel, Berlin on Sat, 19 Sept 2026.
+Coco (2) is a Techno and Electronica artist with 1 upcoming club date listed on soundcheck as of Thu, 17 Sept 2026, next at Jonny Knüppel, Berlin on Sat, 19 Sept 2026.
 
 Coco (2) is a techno and electronica artist based in Germany, tracked on soundcheck, with 7 sets logged across Berlin, Hamburg, London and Melbourne and 2 more. Often billed alongside Alicea, Ayres and Blood Orange. Next up: Jonny Knüppel, Berlin on Sat 19 Sept.
 
@@ -23,4 +23,4 @@ Coco (2) is a techno and electronica artist based in Germany, tracked on soundch
 
 Alicea, Ayres, Blood Orange
 
-*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/coco-2/)*
+*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/coco-2/)*

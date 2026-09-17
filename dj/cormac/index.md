@@ -1,6 +1,6 @@
 # Cormac
 
-Cormac is a House and Disco artist with 8 upcoming club dates listed on soundcheck as of Wed, 16 Sept 2026, next at Le Sucre, Lyon on Sat, 19 Sept 2026.
+Cormac is a House and Disco artist with 8 upcoming club dates listed on soundcheck as of Thu, 17 Sept 2026, next at Le Sucre, Lyon on Sat, 19 Sept 2026.
 
 Cormac is a house and disco artist tracked on soundcheck, with 180 sets logged across Amsterdam, Antwerp, Athens and Bali and 50 more. Often billed alongside BASHKKA, Roi Perez and Massimiliano Pagliara. Next up: Le Sucre, Lyon on Sat 19 Sept.
 
@@ -32,4 +32,4 @@ Cormac is a house and disco artist tracked on soundcheck, with 180 sets logged a
 
 BASHKKA, Roi Perez, Massimiliano Pagliara
 
-*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/cormac/)*
+*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/cormac/)*

@@ -1,6 +1,6 @@
 # Lexy & K-Paul (live) at Ritter Butzke
 
-Lexy & K-Paul (live) at Ritter Butzke on Sat 28 Nov, Berlin. 1 act on the bill: Lexy & K-Paul. Techno. Preview the line-up and save it on soundcheck.
+Lexy & K-Paul (live) at Ritter Butzke on Sat 28 Nov, Berlin. 2 acts on the bill: Lexy & K-Paul and Matchy. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,5 +11,6 @@ Lexy & K-Paul (live) at Ritter Butzke on Sat 28 Nov, Berlin. 1 act on the bill: 
 ## Line-up
 
 - Lexy & K-Paul
+- Matchy
 
 *Source: [soundcheck](https://soundcheck.club/e/2330201-lexy-k-paul-live-at-ritter-butzke/)*

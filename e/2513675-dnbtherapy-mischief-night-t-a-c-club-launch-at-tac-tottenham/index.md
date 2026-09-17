@@ -1,6 +1,6 @@
-# dnbtherapy Mischief Night [T.A.C. Club Launch] at TAC (Tottenham Arts Collective)
+# dnbtherapy: Mischief Night [T.A.C. Club Launch] at TAC (Tottenham Arts Collective)
 
-dnbtherapy Mischief Night [T.A.C. Club Launch] at TAC (Tottenham Arts Collective) on Fri 30 Oct, London. 10 acts on the bill: Congo Natty, DJ Kane (1), DJ Stretch and DJRon and 6 more. Drum & Bass and Jungle. Preview the line-up and save it on soundcheck.
+dnbtherapy: Mischief Night [T.A.C. Club Launch] at TAC (Tottenham Arts Collective) on Fri 30 Oct, London. 11 acts on the bill: Abby Daze, Congo Natty, DJ Kane (1) and DJ Stretch and 7 more. Drum & Bass and Jungle. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ dnbtherapy Mischief Night [T.A.C. Club Launch] at TAC (Tottenham Arts Collective
 
 ## Line-up
 
+- Abby Daze
 - Congo Natty
 - DJ Kane (1)
 - DJ Stretch

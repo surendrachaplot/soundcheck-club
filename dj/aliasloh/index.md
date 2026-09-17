@@ -1,6 +1,6 @@
 # ALIASLOH
 
-ALIASLOH is a Techno and Club artist with 1 upcoming club date listed on soundcheck as of Wed, 16 Sept 2026, next at La Gravière, Geneva on Fri, 18 Sept 2026.
+ALIASLOH is a Techno and Club artist with 1 upcoming club date listed on soundcheck as of Thu, 17 Sept 2026, next at La Gravière, Geneva on Fri, 18 Sept 2026.
 
 ALIASLOH is a techno and club artist tracked on soundcheck, with 16 sets logged across Berlin and Geneva. Often billed alongside Mysthy, Herone and Reita D Russo. Next up: La Gravière, Geneva on Fri 18 Sept.
 
@@ -25,4 +25,4 @@ ALIASLOH is a techno and club artist tracked on soundcheck, with 16 sets logged 
 
 Mysthy, Herone, Reita D Russo
 
-*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/aliasloh/)*
+*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/aliasloh/)*

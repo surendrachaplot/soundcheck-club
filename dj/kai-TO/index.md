@@ -1,6 +1,6 @@
 # Kai (TO)
 
-Kai (TO) is a Techno and Club artist with 1 upcoming club date listed on soundcheck as of Wed, 16 Sept 2026, next at The Jama, Toronto on Sat, 19 Sept 2026.
+Kai (TO) is a Techno and Club artist with 1 upcoming club date listed on soundcheck as of Thu, 17 Sept 2026, next at The Jama, Toronto on Sat, 19 Sept 2026.
 
 Kai (TO) is a techno and club artist based in Canada, tracked on soundcheck, with 47 sets logged across Barcelona, Montreal and Toronto. Often billed alongside Critter, moody.cn.man and Jaw Jones. Next up: The Jama, Toronto on Sat 19 Sept.
 
@@ -25,4 +25,4 @@ Kai (TO) is a techno and club artist based in Canada, tracked on soundcheck, wit
 
 Critter, moody.cn.man, Jaw Jones
 
-*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kai-TO/)*
+*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kai-TO/)*

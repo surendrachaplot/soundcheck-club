@@ -1,6 +1,6 @@
 # Ryuga Nomoto
 
-Ryuga Nomoto is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 16 Sept 2026, next at UTOPIA / DYSTOPIA, Tokyo on Sat, 19 Sept 2026.
+Ryuga Nomoto is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 17 Sept 2026, next at UTOPIA / DYSTOPIA, Tokyo on Sat, 19 Sept 2026.
 
 Ryuga Nomoto is a house and techno artist based in Japan, tracked on soundcheck, with 31 sets logged across Tokyo. Often billed alongside wargh, tuzuRa and SIGNAL (JP). Next up: UTOPIA / DYSTOPIA, Tokyo on Sat 19 Sept.
 
@@ -25,4 +25,4 @@ Ryuga Nomoto is a house and techno artist based in Japan, tracked on soundcheck,
 
 wargh, tuzuRa, SIGNAL (JP)
 
-*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ryuganomoto/)*
+*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ryuganomoto/)*

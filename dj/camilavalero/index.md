@@ -1,14 +1,14 @@
 # Camila Valero
 
-Camila Valero is a House and Electronica artist with 1 upcoming club date listed on soundcheck as of Wed, 16 Sept 2026, next at Palais, London on Sun, 20 Sept 2026.
+Camila Valero is a House and Electronica artist with 1 upcoming club date listed on soundcheck as of Thu, 17 Sept 2026, next at Vittoria Wharf Studio, London on Sun, 20 Sept 2026.
 
-Camila Valero is a house and electronica artist based in Mexico, tracked on soundcheck, with 24 sets logged across London, Mexicocity and Newyorkcity. Often billed alongside GOLDEN PINEAPPLE, AGSULO and Barreto. Next up: Palais, London on Sun 20 Sept.
+Camila Valero is a house and electronica artist based in Mexico, tracked on soundcheck, with 24 sets logged across London, Mexicocity and Newyorkcity. Often billed alongside GOLDEN PINEAPPLE, AGSULO and Barreto. Next up: Vittoria Wharf Studio, London on Sun 20 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sun, 20 Sept 2026 | Palais | London |
+| Sun, 20 Sept 2026 | Vittoria Wharf Studio | London |
 
 ## Recently played
 
@@ -25,4 +25,4 @@ Camila Valero is a house and electronica artist based in Mexico, tracked on soun
 
 GOLDEN PINEAPPLE, AGSULO, Barreto
 
-*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/camilavalero/)*
+*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/camilavalero/)*

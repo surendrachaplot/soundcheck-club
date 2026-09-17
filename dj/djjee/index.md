@@ -1,14 +1,15 @@
 # DJ Jee
 
-DJ Jee is a Techno and Bass artist with 1 upcoming club date listed on soundcheck as of Wed, 16 Sept 2026, next at La Cité Fertile, Paris on Sat, 10 Oct 2026.
+DJ Jee is a Techno and Bass artist with 2 upcoming club dates listed on soundcheck as of Thu, 17 Sept 2026, next at La Cité Fertile, Paris on Sat, 10 Oct 2026.
 
-DJ Jee is a techno and bass artist based in France, tracked on soundcheck, with 39 sets logged across Paris. Often billed alongside Ekum, A.mo and Pepperpot. Next up: La Cité Fertile, Paris on Sat 10 Oct.
+DJ Jee is a techno and bass artist based in France, tracked on soundcheck, with 40 sets logged across Paris. Often billed alongside Ekum, A.mo and Pepperpot. Next up: La Cité Fertile, Paris on Sat 10 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 10 Oct 2026 | La Cité Fertile | Paris |
+| Sat, 24 Oct 2026 | Kilomètre25 | Paris |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ DJ Jee is a techno and bass artist based in France, tracked on soundcheck, with 
 
 Ekum, A.mo, Pepperpot
 
-*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djjee/)*
+*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djjee/)*

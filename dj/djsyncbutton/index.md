@@ -1,6 +1,6 @@
 # DJ Syncbutton
 
-DJ Syncbutton is a EBM and House artist with 1 upcoming club date listed on soundcheck as of Wed, 16 Sept 2026, next at Toldi Klub, Budapest on Fri, 18 Sept 2026.
+DJ Syncbutton is a EBM and House artist with 1 upcoming club date listed on soundcheck as of Thu, 17 Sept 2026, next at Toldi Klub, Budapest on Fri, 18 Sept 2026.
 
 DJ Syncbutton is an ebm and house artist based in Hungary, tracked on soundcheck, with 21 sets logged across Budapest. Often billed alongside Sobek, Arash Ete and Galactic Jackson. Next up: Toldi Klub, Budapest on Fri 18 Sept.
 
@@ -25,4 +25,4 @@ DJ Syncbutton is an ebm and house artist based in Hungary, tracked on soundcheck
 
 Sobek, Arash Ete, Galactic Jackson
 
-*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djsyncbutton/)*
+*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djsyncbutton/)*

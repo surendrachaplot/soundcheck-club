@@ -1,14 +1,15 @@
 # Nastya Muravyova
 
-Nastya Muravyova is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 16 Sept 2026, next at TBA - Secret Location, Amsterdam on Sat, 19 Sept 2026.
+Nastya Muravyova is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 17 Sept 2026, next at TBA - Secret Location, Amsterdam on Sat, 19 Sept 2026.
 
-Nastya Muravyova is a techno and house artist based in Ukraine, tracked on soundcheck, with 97 sets logged across Amsterdam, Berlin, Brussels and Krakow and 6 more. Often billed alongside SJ Yellow, Nina Farrina and Tweeman. Next up: TBA - Secret Location, Amsterdam on Sat 19 Sept.
+Nastya Muravyova is a techno and house artist based in Ukraine, tracked on soundcheck, with 98 sets logged across Amsterdam, Berlin, Brussels and Krakow and 6 more. Often billed alongside SJ Yellow, Nina Farrina and Tweeman. Next up: TBA - Secret Location, Amsterdam on Sat 19 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 19 Sept 2026 | TBA - Secret Location | Amsterdam |
+| Fri, 2 Oct 2026 | Fuchs2 | Prague |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Nastya Muravyova is a techno and house artist based in Ukraine, tracked on sound
 
 SJ Yellow, Nina Farrina, Tweeman
 
-*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nastyamuravyova/)*
+*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nastyamuravyova/)*

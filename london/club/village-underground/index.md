@@ -1,6 +1,6 @@
 # Village Underground
 
-Village Underground is a music venue in London with 19 upcoming nights listed on soundcheck as of Wed, 16 Sept 2026; the next is "Big Squeeze" on Sat, 19 Sept 2026.
+Village Underground is a music venue in London with 19 upcoming nights listed on soundcheck as of Thu, 17 Sept 2026; the next is "Big Squeeze" on Sat, 19 Sept 2026.
 
 Village Underground is a music venue in London listed on soundcheck. 19 upcoming nights, with line-ups including 1-800 GIRLS, Adam Chapman, Amy Wiles and anu and 2 more. Browse upcoming dates, start times and who's playing. 54 Holywell Lane; Shoreditch; London EC2A 3PQ; United Kingdom.
 
@@ -17,10 +17,10 @@ Village Underground is a music venue in London listed on soundcheck. 19 upcoming
 | Sat, 3 Oct 2026 | Origins: Bushbaby [All Night Long] | Bushbaby |
 | Sat, 3 Oct 2026 | Amy Wiles presents Eternity | Amy Wiles, Body Clinic, DOREY |
 | Fri, 9 Oct 2026 | Faster Horses (Extended Set) | Faster Horses, Lola So, Vivace (UK) |
-| Sat, 10 Oct 2026 | Young Marco + Elkka play all the hits at Village Underground | Elkka, Young Marco |
+| Sat, 10 Oct 2026 | Young Marco & Elkka - Village Underground | Elkka, Young Marco |
 
 ## Address
 
 54 Holywell Lane; Shoreditch; London EC2A 3PQ; United Kingdom, London
 
-*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/village-underground/)*
+*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/village-underground/)*

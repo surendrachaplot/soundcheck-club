@@ -1,8 +1,8 @@
 # Maher Daniel
 
-Maher Daniel is a House and Techno artist with 6 upcoming club dates listed on soundcheck as of Wed, 16 Sept 2026, next at Sophie Festival, Malaga on Sat, 19 Sept 2026.
+Maher Daniel is a House and Techno artist with 7 upcoming club dates listed on soundcheck as of Thu, 17 Sept 2026, next at Sophie Festival, Malaga on Sat, 19 Sept 2026.
 
-Maher Daniel is a house and techno artist tracked on soundcheck, with 106 sets logged across Amsterdam, Barcelona, Belgrade and Berlin and 25 more. Often billed alongside Danyelino, Ricardo Villalobos and Raresh. Next up: Sophie Festival, Malaga on Sat 19 Sept.
+Maher Daniel is a house and techno artist tracked on soundcheck, with 107 sets logged across Amsterdam, Barcelona, Belgrade and Berlin and 25 more. Often billed alongside Danyelino, Ricardo Villalobos and Raresh. Next up: Sophie Festival, Malaga on Sat 19 Sept.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Maher Daniel is a house and techno artist tracked on soundcheck, with 106 sets l
 | --- | --- | --- |
 | Sat, 19 Sept 2026 | Sophie Festival | Malaga |
 | Sat, 26 Sept 2026 | Piknic Électronik / Parc Jean Drapeau | Montreal |
+| Sat, 26 Sept 2026 | Société des arts technologiques | Montreal |
 | Sat, 26 Sept 2026 | Société des arts technologiques | Montreal |
 | Wed, 30 Sept 2026 | Chinois Ibiza | Ibiza |
 | Sat, 3 Oct 2026 | PRST | Vienna |
@@ -30,4 +31,4 @@ Maher Daniel is a house and techno artist tracked on soundcheck, with 106 sets l
 
 Danyelino, Ricardo Villalobos, Raresh
 
-*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/maherdaniel/)*
+*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/maherdaniel/)*

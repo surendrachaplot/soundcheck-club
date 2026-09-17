@@ -1,6 +1,6 @@
 # Alex Neri
 
-Alex Neri is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 16 Sept 2026, next at Palazzo Delle Esposizioni, Rome on Thu, 17 Sept 2026.
+Alex Neri is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 17 Sept 2026, next at Palazzo Delle Esposizioni, Rome on Thu, 17 Sept 2026.
 
 Alex Neri is a house and techno artist tracked on soundcheck, with 69 sets logged across Amsterdam, Barcelona, Belgrade and Berlin and 18 more. Often billed alongside GNMR, Giammarco Orsini and Brasi. Next up: Palazzo Delle Esposizioni, Rome on Thu 17 Sept.
 
@@ -26,4 +26,4 @@ Alex Neri is a house and techno artist tracked on soundcheck, with 69 sets logge
 
 GNMR, Giammarco Orsini, Brasi
 
-*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/alexneri/)*
+*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/alexneri/)*

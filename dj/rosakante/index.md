@@ -1,14 +1,15 @@
 # Rosa Kante
 
-Rosa Kante is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 16 Sept 2026, next at Kater, Berlin on Fri, 2 Oct 2026.
+Rosa Kante is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 17 Sept 2026, next at Kater, Berlin on Fri, 2 Oct 2026.
 
-Rosa Kante is a techno and house artist based in Germany, tracked on soundcheck, with 72 sets logged across Berlin, Hamburg, Leipzig and Munich. Often billed alongside Leon Licht, Fast (DE) and Kaufmann. Next up: Kater, Berlin on Fri 2 Oct.
+Rosa Kante is a techno and house artist based in Germany, tracked on soundcheck, with 73 sets logged across Berlin, Hamburg, Leipzig and Munich. Often billed alongside Leon Licht, Fast (DE) and Kaufmann. Next up: Kater, Berlin on Fri 2 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 2 Oct 2026 | Kater | Berlin |
+| Sat, 17 Oct 2026 | Hoppetosse | Berlin |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Rosa Kante is a techno and house artist based in Germany, tracked on soundcheck,
 
 Leon Licht, Fast (DE), Kaufmann
 
-*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/rosakante/)*
+*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/rosakante/)*

@@ -1,6 +1,6 @@
 # Rii5
 
-Rii5 is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 16 Sept 2026, next at Pontoon Budapest, Budapest on Thu, 17 Sept 2026.
+Rii5 is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 17 Sept 2026, next at Pontoon Budapest, Budapest on Thu, 17 Sept 2026.
 
 Rii5 is a techno and house artist based in Hungary, tracked on soundcheck, with 9 sets logged across Budapest. Often billed alongside Acsa, Dorota and Klayman. Next up: Pontoon Budapest, Budapest on Thu 17 Sept.
 
@@ -25,4 +25,4 @@ Rii5 is a techno and house artist based in Hungary, tracked on soundcheck, with 
 
 Acsa, Dorota, Klayman
 
-*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/rii5/)*
+*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/rii5/)*

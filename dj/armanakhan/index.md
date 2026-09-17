@@ -1,8 +1,8 @@
 # ARMANA KHAN
 
-ARMANA KHAN is a Club and Techno artist with 3 upcoming club dates listed on soundcheck as of Wed, 16 Sept 2026, next at Colour Factory, London on Fri, 25 Sept 2026.
+ARMANA KHAN is a Club and Techno artist with 4 upcoming club dates listed on soundcheck as of Thu, 17 Sept 2026, next at Colour Factory, London on Fri, 25 Sept 2026.
 
-ARMANA KHAN is a club and techno artist based in United States of America, tracked on soundcheck, with 71 sets logged across Barcelona, Berlin, Chicago and Frankfurt and 24 more. Often billed alongside ARCHANGEL (US), Manuka Honey and Meg10. Next up: Colour Factory, London on Fri 25 Sept.
+ARMANA KHAN is a club and techno artist based in United States of America, tracked on soundcheck, with 72 sets logged across Barcelona, Berlin, Chicago and Frankfurt and 24 more. Often billed alongside ARCHANGEL (US), Meg10 and Manuka Honey. Next up: Colour Factory, London on Fri 25 Sept.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ ARMANA KHAN is a club and techno artist based in United States of America, track
 | Fri, 25 Sept 2026 | Colour Factory | London |
 | Sat, 26 Sept 2026 | Depot Mayfield | Manchester |
 | Sat, 3 Oct 2026 | Moon Club | Lisbon |
+| Sat, 31 Oct 2026 | KREUZWERK | Berlin |
 
 ## Recently played
 
@@ -25,6 +26,6 @@ ARMANA KHAN is a club and techno artist based in United States of America, track
 
 ## Shares bills with
 
-ARCHANGEL (US), Manuka Honey, Meg10
+ARCHANGEL (US), Meg10, Manuka Honey
 
-*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/armanakhan/)*
+*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/armanakhan/)*

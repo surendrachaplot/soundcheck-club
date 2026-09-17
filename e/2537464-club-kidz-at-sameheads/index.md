@@ -1,6 +1,6 @@
 # CLUB KIDZ at Sameheads
 
-CLUB KIDZ at Sameheads on Thu 8 Oct, Berlin. 2 acts on the bill: Karolina Bnv and Novo Line. Preview the line-up and save it on soundcheck.
+CLUB KIDZ at Sameheads on Thu 8 Oct, Berlin. 3 acts on the bill: Chikiss, Karolina Bnv and Novo Line. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ CLUB KIDZ at Sameheads on Thu 8 Oct, Berlin. 2 acts on the bill: Karolina Bnv an
 
 ## Line-up
 
+- Chikiss
 - Karolina Bnv
 - Novo Line
 

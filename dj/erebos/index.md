@@ -1,6 +1,6 @@
 # Erebos
 
-Erebos is a Trance and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 16 Sept 2026, next at ROSA, Berlin on Sat, 19 Sept 2026.
+Erebos is a Trance and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 17 Sept 2026, next at ROSA, Berlin on Sat, 19 Sept 2026.
 
 Erebos is a trance and techno artist based in Germany, tracked on soundcheck, with 31 sets logged across Berlin, Glasgow, Leipzig and Vienna and 1 more. Often billed alongside MARRE, ME & her and Patrik Widmer. Next up: ROSA, Berlin on Sat 19 Sept.
 
@@ -25,4 +25,4 @@ Erebos is a trance and techno artist based in Germany, tracked on soundcheck, wi
 
 MARRE, ME & her, Patrik Widmer
 
-*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/erebos/)*
+*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/erebos/)*

@@ -1,6 +1,6 @@
 # Rivoli
 
-Rivoli is a music venue in Toronto with 2 upcoming nights listed on soundcheck as of Wed, 16 Sept 2026; the next is "Rub A Dub: Andru Branch & Halfway Tree, Reggaddiction & DJ Friendlyness" on Fri, 18 Sept 2026.
+Rivoli is a music venue in Toronto with 2 upcoming nights listed on soundcheck as of Thu, 17 Sept 2026; the next is "Rub A Dub: Andru Branch & Halfway Tree, Reggaddiction & DJ Friendlyness" on Fri, 18 Sept 2026.
 
 Rivoli is a music venue in Toronto listed on soundcheck. 2 upcoming nights, with line-ups including FRANCO (CAN). Browse upcoming dates, start times and who's playing. 334 Queen Street W; Toronto, ON M5V 2A2; Canada.
 
@@ -15,4 +15,4 @@ Rivoli is a music venue in Toronto listed on soundcheck. 2 upcoming nights, with
 
 334 Queen Street W; Toronto, ON M5V 2A2; Canada, Toronto
 
-*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/rivoli/)*
+*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/rivoli/)*

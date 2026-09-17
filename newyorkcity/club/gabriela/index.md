@@ -1,6 +1,6 @@
 # Gabriela
 
-Gabriela is a music venue in New York City with 8 upcoming nights listed on soundcheck as of Wed, 16 Sept 2026; the next is "ROMANCE w Eli Escobar" on Thu, 17 Sept 2026.
+Gabriela is a music venue in New York City with 8 upcoming nights listed on soundcheck as of Thu, 17 Sept 2026; the next is "ROMANCE w Eli Escobar" on Thu, 17 Sept 2026.
 
 Gabriela is a music venue in Newyorkcity listed on soundcheck. 8 upcoming nights, with line-ups including Andi, Eli Escobar, HD (US) and Jubilee and 2 more. Browse upcoming dates, start times and who's playing. 90 Wythe Ave, Brooklyn, NY 11249.
 
@@ -21,4 +21,4 @@ Gabriela is a music venue in Newyorkcity listed on soundcheck. 8 upcoming nights
 
 90 Wythe Ave, Brooklyn, NY 11249, New York City
 
-*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/gabriela/)*
+*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/gabriela/)*

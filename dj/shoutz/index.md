@@ -1,6 +1,6 @@
 # shoutz
 
-shoutz is a Hardcore and Industrial artist with 1 upcoming club date listed on soundcheck as of Wed, 16 Sept 2026, next at Ministerium Club, Lisbon on Thu, 17 Sept 2026.
+shoutz is a Hardcore and Industrial artist with 1 upcoming club date listed on soundcheck as of Thu, 17 Sept 2026, next at Ministerium Club, Lisbon on Thu, 17 Sept 2026.
 
 shoutz is a hardcore and industrial artist tracked on soundcheck, with 8 sets logged across Lisbon. Often billed alongside MakeCatBleed, Pharah and Anastasiya Ty. Next up: Ministerium Club, Lisbon on Thu 17 Sept.
 
@@ -24,4 +24,4 @@ shoutz is a hardcore and industrial artist tracked on soundcheck, with 8 sets lo
 
 MakeCatBleed, Pharah, Anastasiya Ty
 
-*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/shoutz/)*
+*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/shoutz/)*

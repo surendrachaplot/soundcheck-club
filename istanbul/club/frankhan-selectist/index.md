@@ -1,8 +1,8 @@
 # Frankhan Selectist
 
-Frankhan Selectist is a music venue in Istanbul with 7 upcoming nights listed on soundcheck as of Wed, 16 Sept 2026; the next is "Gop Radio x Analog Kültür Pres. #FAM01" on Fri, 18 Sept 2026.
+Frankhan Selectist is a music venue in Istanbul with 8 upcoming nights listed on soundcheck as of Thu, 17 Sept 2026; the next is "Gop Radio x Analog Kültür Pres. #FAM01" on Fri, 18 Sept 2026.
 
-Frankhan Selectist is a music venue in Istanbul listed on soundcheck. 7 upcoming nights, with line-ups including BOOSAY, Deetron, DJ Tennis and GARAN GARAN and 2 more. Browse upcoming dates, start times and who's playing. Kemankeş Karamustafa Paşa, Kemankeş Cd. No:73, 34425 Beyoğlu/İstanbul.
+Frankhan Selectist is a music venue in Istanbul listed on soundcheck. 8 upcoming nights, with line-ups including BOOSAY, Deetron, DJ Tennis and Ferhat Albayrak and 2 more. Browse upcoming dates, start times and who's playing. Kemankeş Karamustafa Paşa, Kemankeş Cd. No:73, 34425 Beyoğlu/İstanbul.
 
 ## What's on
 
@@ -15,9 +15,10 @@ Frankhan Selectist is a music venue in Istanbul listed on soundcheck. 7 upcoming
 | Sat, 17 Oct 2026 | Satoshi Tomiie b2b Tomoki Tamura | Satoshi Tomiie, Tomoki Tamura |
 | Sat, 17 Oct 2026 | Slum Vilage |  |
 | Fri, 6 Nov 2026 | DJ Tennis | DJ Tennis |
+| Sat, 7 Nov 2026 | Ferhat Albayrak 'All Night Long' | Ferhat Albayrak |
 
 ## Address
 
 Kemankeş Karamustafa Paşa, Kemankeş Cd. No:73, 34425 Beyoğlu/İstanbul, Istanbul
 
-*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/istanbul/club/frankhan-selectist/)*
+*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/istanbul/club/frankhan-selectist/)*

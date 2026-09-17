@@ -1,6 +1,6 @@
 # 1990
 
-1990 is a music venue in Glasgow with 5 upcoming nights listed on soundcheck as of Wed, 16 Sept 2026; the next is "High Demand // BCK2SKLPRTY" on Fri, 18 Sept 2026.
+1990 is a music venue in Glasgow with 5 upcoming nights listed on soundcheck as of Thu, 17 Sept 2026; the next is "High Demand // BCK2SKLPRTY" on Fri, 18 Sept 2026.
 
 1990 is a music venue in Glasgow listed on soundcheck. 5 upcoming nights, with line-ups including Babyccino, Belle DeHell, David Power and F Kay and 2 more. Browse upcoming dates, start times and who's playing. 427 Sauchiehall Street G2 3LG.
 
@@ -18,4 +18,4 @@
 
 427 Sauchiehall Street G2 3LG, Glasgow
 
-*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/1990/)*
+*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/1990/)*

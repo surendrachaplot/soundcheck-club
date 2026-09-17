@@ -1,6 +1,6 @@
 # AB Club (Ancienne Belgique)
 
-AB Club (Ancienne Belgique) is a music venue in Brussels with 5 upcoming nights listed on soundcheck as of Wed, 16 Sept 2026; the next is "Mosfet Club" on Fri, 18 Sept 2026.
+AB Club (Ancienne Belgique) is a music venue in Brussels with 5 upcoming nights listed on soundcheck as of Thu, 17 Sept 2026; the next is "Mosfet Club" on Fri, 18 Sept 2026.
 
 AB Club (Ancienne Belgique) is a music venue in Brussels listed on soundcheck. 5 upcoming nights, with line-ups including corto.alto, Das Firmament, Eze k and Hysope. Browse upcoming dates, start times and who's playing. Anspachlaan 110, 1000 Brussel.
 
@@ -18,4 +18,4 @@ AB Club (Ancienne Belgique) is a music venue in Brussels listed on soundcheck. 5
 
 Anspachlaan 110, 1000 Brussel, Brussels
 
-*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/brussels/club/ab-club-ancienne-belgique/)*
+*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/brussels/club/ab-club-ancienne-belgique/)*

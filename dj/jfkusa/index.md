@@ -1,6 +1,6 @@
 # JFK (USA)
 
-JFK (USA) is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 16 Sept 2026, next at Killacutz, Amsterdam on Thu, 22 Oct 2026.
+JFK (USA) is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 17 Sept 2026, next at Killacutz, Amsterdam on Thu, 22 Oct 2026.
 
 JFK (USA) is a techno and house artist tracked on soundcheck, with 22 sets logged across Amsterdam, Detroit and Philadelphia. Often billed alongside De León, ANDi MANDi and DJ Kalin. Next up: Killacutz, Amsterdam on Thu 22 Oct.
 
@@ -25,4 +25,4 @@ JFK (USA) is a techno and house artist tracked on soundcheck, with 22 sets logge
 
 De León, ANDi MANDi, DJ Kalin
 
-*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jfkusa/)*
+*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jfkusa/)*

@@ -1,6 +1,6 @@
 # Find Your Own Records ADE Party at Duke Of Tokyo
 
-Find Your Own Records ADE Party at Duke Of Tokyo on Thu 22 Oct, Amsterdam. 2 acts on the bill: Ceri and Zombies In Miami. House and Deep House. Preview the line-up and save it on soundcheck.
+Find Your Own Records ADE Party at Duke Of Tokyo on Thu 22 Oct, Amsterdam. 4 acts on the bill: Alex Arnout, Ceri, Dee Diggs and Zombies In Miami. House and Deep House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,7 +10,9 @@ Find Your Own Records ADE Party at Duke Of Tokyo on Thu 22 Oct, Amsterdam. 2 act
 
 ## Line-up
 
+- Alex Arnout
 - Ceri
+- Dee Diggs
 - Zombies In Miami
 
 *Source: [soundcheck](https://soundcheck.club/e/2530992-find-your-own-records-ade-party-at-duke-of-tokyo/)*

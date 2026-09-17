@@ -1,13 +1,14 @@
 # KAITO.
 
-KAITO. is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 16 Sept 2026, next at Noon + Cafe, Osaka on Sat, 10 Oct 2026.
+KAITO. is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 17 Sept 2026, next at Club Metro, Kyoto on Mon, 21 Sept 2026.
 
-KAITO. is a house and techno artist based in Japan, tracked on soundcheck, with 39 sets logged across Kyoto, Osaka, Seoul and Tokyo and 1 more. Often billed alongside TETSUO (2), Lomax and AKIHIRO. Next up: Noon + Cafe, Osaka on Sat 10 Oct.
+KAITO. is a house and techno artist based in Japan, tracked on soundcheck, with 40 sets logged across Kyoto, Osaka, Seoul and Tokyo and 1 more. Often billed alongside TETSUO (2), Lomax and AKIHIRO. Next up: Club Metro, Kyoto on Mon 21 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Mon, 21 Sept 2026 | Club Metro | Kyoto |
 | Sat, 10 Oct 2026 | Noon + Cafe | Osaka |
 
 ## Recently played
@@ -25,4 +26,4 @@ KAITO. is a house and techno artist based in Japan, tracked on soundcheck, with 
 
 TETSUO (2), Lomax, AKIHIRO
 
-*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kaito-jp/)*
+*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kaito-jp/)*

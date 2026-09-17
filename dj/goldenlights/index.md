@@ -1,6 +1,6 @@
 # Golden Lights
 
-Golden Lights is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 16 Sept 2026, next at Movers, Nottingham on Sat, 17 Oct 2026.
+Golden Lights is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 17 Sept 2026, next at Movers, Nottingham on Sat, 17 Oct 2026.
 
 Golden Lights is a house and techno artist tracked on soundcheck, with 9 sets logged across Nottingham. Often billed alongside Brad Bradley, Evil Woman and Lvcky. Next up: Movers, Nottingham on Sat 17 Oct.
 
@@ -25,4 +25,4 @@ Golden Lights is a house and techno artist tracked on soundcheck, with 9 sets lo
 
 Brad Bradley, Evil Woman, Lvcky
 
-*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/goldenlights/)*
+*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/goldenlights/)*

@@ -1,8 +1,8 @@
 # Miley Serious
 
-Miley Serious is a Techno and House artist with 8 upcoming club dates listed on soundcheck as of Wed, 16 Sept 2026, next at The Croft, Bristol on Sat, 19 Sept 2026.
+Miley Serious is a Techno and House artist with 9 upcoming club dates listed on soundcheck as of Thu, 17 Sept 2026, next at The Croft, Bristol on Sat, 19 Sept 2026.
 
-Miley Serious is a techno and house artist tracked on soundcheck, with 170 sets logged across Amsterdam, Antwerp, Austin and Barcelona and 52 more. Often billed alongside Lu2k, Dr Dubplate and Shampain. Next up: The Croft, Bristol on Sat 19 Sept.
+Miley Serious is a techno and house artist tracked on soundcheck, with 171 sets logged across Amsterdam, Antwerp, Austin and Barcelona and 52 more. Often billed alongside Lu2k, Dr Dubplate and Shampain. Next up: The Croft, Bristol on Sat 19 Sept.
 
 ## Upcoming shows
 
@@ -13,6 +13,7 @@ Miley Serious is a techno and house artist tracked on soundcheck, with 170 sets 
 | Fri, 25 Sept 2026 | TRANSMISSION DC | Washington DC |
 | Sat, 26 Sept 2026 | Paragon | New York City |
 | Wed, 21 Oct 2026 | Radio Radio | Amsterdam |
+| Sat, 31 Oct 2026 | nachbar | Amsterdam |
 | Sat, 14 Nov 2026 | Hangaren | Copenhagen |
 | Fri, 27 Nov 2026 | Stinsen | Stockholm |
 | Sat, 28 Nov 2026 | Stinsen | Stockholm |
@@ -32,4 +33,4 @@ Miley Serious is a techno and house artist tracked on soundcheck, with 170 sets 
 
 Lu2k, Dr Dubplate, Shampain
 
-*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mileyserious/)*
+*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mileyserious/)*

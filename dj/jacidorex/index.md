@@ -1,6 +1,6 @@
 # Jacidorex
 
-Jacidorex is a Techno and Trance artist with 5 upcoming club dates listed on soundcheck as of Wed, 16 Sept 2026, next at Club Exil, Vienna on Fri, 18 Sept 2026.
+Jacidorex is a Techno and Trance artist with 5 upcoming club dates listed on soundcheck as of Thu, 17 Sept 2026, next at Club Exil, Vienna on Fri, 18 Sept 2026.
 
 Jacidorex is a techno and trance artist tracked on soundcheck, with 107 sets logged across Amsterdam, Antwerp, Barcelona and Basel and 35 more. Often billed alongside Airod, LESSSS and Nico Moreno. Next up: Club Exil, Vienna on Fri 18 Sept.
 
@@ -29,4 +29,4 @@ Jacidorex is a techno and trance artist tracked on soundcheck, with 107 sets log
 
 Airod, LESSSS, Nico Moreno
 
-*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jacidorex/)*
+*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jacidorex/)*

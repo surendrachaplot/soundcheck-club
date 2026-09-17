@@ -1,6 +1,6 @@
 # Kota
 
-Kota is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 16 Sept 2026, next at UTOPIA / DYSTOPIA, Tokyo on Sun, 20 Sept 2026.
+Kota is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 17 Sept 2026, next at UTOPIA / DYSTOPIA, Tokyo on Sun, 20 Sept 2026.
 
 Kota is a techno and house artist based in Japan, tracked on soundcheck, with 27 sets logged across Bali, Melbourne, Osaka and Tokyo and 1 more. Often billed alongside ATAMI, MOOTOE and OPTIMIST. Next up: UTOPIA / DYSTOPIA, Tokyo on Sun 20 Sept.
 
@@ -25,4 +25,4 @@ Kota is a techno and house artist based in Japan, tracked on soundcheck, with 27
 
 ATAMI, MOOTOE, OPTIMIST
 
-*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kota/)*
+*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kota/)*

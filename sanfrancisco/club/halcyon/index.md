@@ -1,6 +1,6 @@
 # Halcyon
 
-Halcyon is a music venue in San Francisco/Oakland with 16 upcoming nights listed on soundcheck as of Wed, 16 Sept 2026; the next is "SAM COLLINS" on Fri, 18 Sept 2026.
+Halcyon is a music venue in San Francisco/Oakland with 16 upcoming nights listed on soundcheck as of Thu, 17 Sept 2026; the next is "SAM COLLINS" on Fri, 18 Sept 2026.
 
 Halcyon is a music venue in Sanfrancisco listed on soundcheck. 16 upcoming nights, with line-ups including Anyasa, Charles D (US), Chus & Ceballos and Konstantin Sibold and 2 more. Browse upcoming dates, start times and who's playing. 314 11th St, San Francisco, California, 94103.
 
@@ -23,4 +23,4 @@ Halcyon is a music venue in Sanfrancisco listed on soundcheck. 16 upcoming night
 
 314 11th St, San Francisco, California, 94103, San Francisco/Oakland
 
-*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/halcyon/)*
+*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/halcyon/)*

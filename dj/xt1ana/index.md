@@ -1,6 +1,6 @@
 # XT1ANA
 
-XT1ANA is a Club and Hip-Hop artist with 2 upcoming club dates listed on soundcheck as of Wed, 16 Sept 2026, next at The Haggerston, London on Fri, 18 Sept 2026.
+XT1ANA is a Club and Hip-Hop artist with 2 upcoming club dates listed on soundcheck as of Thu, 17 Sept 2026, next at The Haggerston, London on Fri, 18 Sept 2026.
 
 XT1ANA is a club and hip-hop artist tracked on soundcheck, with 25 sets logged across Brussels and London. Often billed alongside BBSHKALES, Jean Blaire and SALD3E. Next up: The Haggerston, London on Fri 18 Sept.
 
@@ -26,4 +26,4 @@ XT1ANA is a club and hip-hop artist tracked on soundcheck, with 25 sets logged a
 
 BBSHKALES, Jean Blaire, SALD3E
 
-*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/xt1ana/)*
+*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/xt1ana/)*

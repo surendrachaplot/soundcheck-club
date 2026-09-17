@@ -1,13 +1,14 @@
 # angelboy
 
-angelboy is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Wed, 16 Sept 2026, next at TILLATEC, Amsterdam on Fri, 25 Sept 2026.
+angelboy is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Thu, 17 Sept 2026, next at BASEMENT, New York City on Fri, 18 Sept 2026.
 
-angelboy is a techno and house artist tracked on soundcheck, with 112 sets logged across Amsterdam, Barcelona, Berlin and Cologne and 12 more. Often billed alongside Slimfit, DIORA and Lola Edo. Next up: TILLATEC, Amsterdam on Fri 25 Sept.
+angelboy is a techno and house artist tracked on soundcheck, with 113 sets logged across Amsterdam, Barcelona, Berlin and Cologne and 12 more. Often billed alongside Slimfit, DIORA and Lola Edo. Next up: BASEMENT, Newyorkcity on Fri 18 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 18 Sept 2026 | BASEMENT | New York City |
 | Fri, 25 Sept 2026 | TILLATEC | Amsterdam |
 | Fri, 6 Nov 2026 | TBA | Los Angeles |
 
@@ -26,4 +27,4 @@ angelboy is a techno and house artist tracked on soundcheck, with 112 sets logge
 
 Slimfit, DIORA, Lola Edo
 
-*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/angelboy/)*
+*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/angelboy/)*

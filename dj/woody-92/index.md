@@ -1,13 +1,14 @@
 # Woody92
 
-Woody92 is a Techno and Experimental artist with 4 upcoming club dates listed on soundcheck as of Wed, 16 Sept 2026, next at OIL Club, Shenzhen on Thu, 1 Oct 2026.
+Woody92 is a Techno and Experimental artist with 5 upcoming club dates listed on soundcheck as of Thu, 17 Sept 2026, next at Garage Noord, Amsterdam on Sat, 26 Sept 2026.
 
-Woody92 is a techno and experimental artist tracked on soundcheck, with 137 sets logged across Amsterdam, Athens, Barcelona and Berlin and 32 more. Often billed alongside Loek Frey, Jeans (NL) and Konduku. Next up: OIL Club, Shenzhen on Thu 1 Oct.
+Woody92 is a techno and experimental artist tracked on soundcheck, with 138 sets logged across Amsterdam, Athens, Barcelona and Berlin and 32 more. Often billed alongside Loek Frey, Jeans (NL) and Konduku. Next up: Garage Noord, Amsterdam on Sat 26 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 26 Sept 2026 | Garage Noord | Amsterdam |
 | Thu, 1 Oct 2026 | OIL Club | Shenzhen |
 | Fri, 2 Oct 2026 | TBA | Hong Kong |
 | Thu, 22 Oct 2026 | Oude Kerk | Amsterdam |
@@ -28,4 +29,4 @@ Woody92 is a techno and experimental artist tracked on soundcheck, with 137 sets
 
 Loek Frey, Jeans (NL), Konduku
 
-*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/woody-92/)*
+*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/woody-92/)*

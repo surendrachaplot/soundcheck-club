@@ -1,14 +1,14 @@
 # Lukas Leigh
 
-Lukas Leigh is a House artist with 1 upcoming club date listed on soundcheck as of Wed, 16 Sept 2026, next at Palais, London on Sun, 20 Sept 2026.
+Lukas Leigh is a House artist with 1 upcoming club date listed on soundcheck as of Thu, 17 Sept 2026, next at Vittoria Wharf Studio, London on Sun, 20 Sept 2026.
 
-Lukas Leigh is a house artist tracked on soundcheck, with 8 sets logged across London. Often billed alongside Li Causi, Farrant and Larushkin. Next up: Palais, London on Sun 20 Sept.
+Lukas Leigh is a house artist tracked on soundcheck, with 8 sets logged across London. Often billed alongside Li Causi, Farrant and Larushkin. Next up: Vittoria Wharf Studio, London on Sun 20 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sun, 20 Sept 2026 | Palais | London |
+| Sun, 20 Sept 2026 | Vittoria Wharf Studio | London |
 
 ## Recently played
 
@@ -24,4 +24,4 @@ Lukas Leigh is a house artist tracked on soundcheck, with 8 sets logged across L
 
 Li Causi, Farrant, Larushkin
 
-*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lukasleigh/)*
+*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lukasleigh/)*

@@ -1,6 +1,6 @@
 # Jenst
 
-Jenst is a electronic artist with 1 upcoming club date listed on soundcheck as of Wed, 16 Sept 2026, next at Left Bank, Tbilisi on Sat, 19 Sept 2026.
+Jenst is a electronic artist with 1 upcoming club date listed on soundcheck as of Thu, 17 Sept 2026, next at Left Bank, Tbilisi on Sat, 19 Sept 2026.
 
 Jenst is an electronic artist tracked on soundcheck, with 7 sets logged across Amsterdam and Tbilisi. Often billed alongside Yòp, Bastienne and Byron Yeates. Next up: Left Bank, Tbilisi on Sat 19 Sept.
 
@@ -23,4 +23,4 @@ Jenst is an electronic artist tracked on soundcheck, with 7 sets logged across A
 
 Yòp, Bastienne, Byron Yeates
 
-*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jenst/)*
+*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jenst/)*

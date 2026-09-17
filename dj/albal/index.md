@@ -1,8 +1,8 @@
 # Albal
 
-Albal is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Wed, 16 Sept 2026, next at Sala Upload Barcelona, Barcelona on Fri, 18 Sept 2026.
+Albal is a Techno and Tech House artist with 3 upcoming club dates listed on soundcheck as of Thu, 17 Sept 2026, next at Sala Upload Barcelona, Barcelona on Fri, 18 Sept 2026.
 
-Albal is a techno and house artist tracked on soundcheck, with 48 sets logged across Amsterdam, Barcelona, Berlin and Madrid and 2 more. Often billed alongside Juguete, ISAbella and acidheaven. Next up: Sala Upload Barcelona, Barcelona on Fri 18 Sept.
+Albal is a techno and tech house artist tracked on soundcheck, with 49 sets logged across Amsterdam, Barcelona, Berlin and Madrid and 2 more. Often billed alongside Juguete, ISAbella and acidheaven. Next up: Sala Upload Barcelona, Barcelona on Fri 18 Sept.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Albal is a techno and house artist tracked on soundcheck, with 48 sets logged ac
 | --- | --- | --- |
 | Fri, 18 Sept 2026 | Sala Upload Barcelona | Barcelona |
 | Sat, 19 Sept 2026 | Village Underground Barcelona | Barcelona |
+| Sat, 26 Sept 2026 | Core | Madrid |
 
 ## Recently played
 
@@ -26,4 +27,4 @@ Albal is a techno and house artist tracked on soundcheck, with 48 sets logged ac
 
 Juguete, ISAbella, acidheaven
 
-*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/albal/)*
+*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/albal/)*

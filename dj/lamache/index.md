@@ -1,6 +1,6 @@
 # Lamache
 
-Lamache is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Wed, 16 Sept 2026, next at Bar Temp., Bangkok on Sat, 19 Sept 2026.
+Lamache is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Thu, 17 Sept 2026, next at Bar Temp., Bangkok on Sat, 19 Sept 2026.
 
 Lamache is a house and techno artist tracked on soundcheck, with 113 sets logged across Amsterdam, Antwerp, Athens and Bangkok and 35 more. Often billed alongside Aline Umber, Automatic Writing and Aline Brooklyn. Next up: Bar Temp., Bangkok on Sat 19 Sept.
 
@@ -28,4 +28,4 @@ Lamache is a house and techno artist tracked on soundcheck, with 113 sets logged
 
 Aline Umber, Automatic Writing, Aline Brooklyn
 
-*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lamache/)*
+*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lamache/)*

@@ -1,6 +1,6 @@
 # Sweet Greens Vol. III - No.90 at NUMBER 90 LONDON
 
-Sweet Greens Vol. III - No.90 at NUMBER 90 LONDON on Fri 25 Sept, London. 2 acts on the bill: Darley and Dolce Verde. Preview the line-up and save it on soundcheck.
+Sweet Greens Vol. III - No.90 at NUMBER 90 LONDON on Fri 25 Sept, London. 3 acts on the bill: Ben E, Darley and Dolce Verde. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ Sweet Greens Vol. III - No.90 at NUMBER 90 LONDON on Fri 25 Sept, London. 2 acts
 
 ## Line-up
 
+- Ben E
 - Darley
 - Dolce Verde
 

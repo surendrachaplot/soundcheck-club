@@ -1,6 +1,6 @@
 # Greg Wilson
 
-Greg Wilson is a House and Disco artist with 5 upcoming club dates listed on soundcheck as of Wed, 16 Sept 2026, next at Le Bain, New York City on Sun, 20 Sept 2026.
+Greg Wilson is a House and Disco artist with 5 upcoming club dates listed on soundcheck as of Thu, 17 Sept 2026, next at Le Bain, New York City on Sun, 20 Sept 2026.
 
 Greg Wilson is a house and disco artist tracked on soundcheck, with 66 sets logged across Birmingham, Brighton, Bristol and Brussels and 15 more. Often billed alongside Graeme Park, Todd Terry and DJ Paulette. Next up: Le Bain, Newyorkcity on Sun 20 Sept.
 
@@ -29,4 +29,4 @@ Greg Wilson is a house and disco artist tracked on soundcheck, with 66 sets logg
 
 Graeme Park, Todd Terry, DJ Paulette
 
-*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/gregwilson/)*
+*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/gregwilson/)*

@@ -1,8 +1,8 @@
 # Gewölbe
 
-Gewölbe is a music venue in Cologne with 12 upcoming nights listed on soundcheck as of Wed, 16 Sept 2026; the next is "Klubnacht with Gerd Janson, lyzanne" on Fri, 18 Sept 2026.
+Gewölbe is a music venue in Cologne with 13 upcoming nights listed on soundcheck as of Thu, 17 Sept 2026; the next is "Klubnacht with Gerd Janson, lyzanne" on Fri, 18 Sept 2026.
 
-Gewölbe is a music venue in Cologne listed on soundcheck. 12 upcoming nights, with line-ups including Ada Luvv, Adiel, Aino DJ and Andy Garvey and 2 more. Browse upcoming dates, start times and who's playing. Hans-Böckler Platz 2, 50672; Cologne; Germany.
+Gewölbe is a music venue in Cologne listed on soundcheck. 13 upcoming nights, with line-ups including Ada Luvv, Adiel, Aino DJ and Andy Garvey and 2 more. Browse upcoming dates, start times and who's playing. Hans-Böckler Platz 2, 50672; Cologne; Germany.
 
 ## What's on
 
@@ -23,4 +23,4 @@ Gewölbe is a music venue in Cologne listed on soundcheck. 12 upcoming nights, w
 
 Hans-Böckler Platz 2, 50672; Cologne; Germany, Cologne
 
-*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/cologne/club/gew-lbe/)*
+*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/cologne/club/gew-lbe/)*

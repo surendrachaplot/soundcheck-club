@@ -1,6 +1,6 @@
 # Ghosten
 
-Ghosten is a Deep House and House artist with 1 upcoming club date listed on soundcheck as of Wed, 16 Sept 2026, next at Jolene, Copenhagen on Fri, 18 Sept 2026.
+Ghosten is a Deep House and House artist with 1 upcoming club date listed on soundcheck as of Thu, 17 Sept 2026, next at Jolene, Copenhagen on Fri, 18 Sept 2026.
 
 Ghosten is a deep house and house artist tracked on soundcheck, with 8 sets logged across Amsterdam and Copenhagen. Often billed alongside DJ LoveCatt, Jesper Lemke and Anna Wall. Next up: Jolene, Copenhagen on Fri 18 Sept.
 
@@ -24,4 +24,4 @@ Ghosten is a deep house and house artist tracked on soundcheck, with 8 sets logg
 
 DJ LoveCatt, Jesper Lemke, Anna Wall
 
-*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ghosten/)*
+*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ghosten/)*

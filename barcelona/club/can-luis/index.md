@@ -1,6 +1,6 @@
 # Can Luis
 
-Can Luis is a music venue in Barcelona with 1 upcoming night listed on soundcheck as of Wed, 16 Sept 2026; the next is "LEIT_KONTROL" on Fri, 18 Sept 2026.
+Can Luis is a music venue in Barcelona with 1 upcoming night listed on soundcheck as of Thu, 17 Sept 2026; the next is "LEIT_KONTROL" on Fri, 18 Sept 2026.
 
 Can Luis is a music venue in Barcelona listed on soundcheck. 1 upcoming night. Browse upcoming dates, start times and who's playing. Carrer del Portal Nou, 18, 08003 Barcelona.
 
@@ -14,4 +14,4 @@ Can Luis is a music venue in Barcelona listed on soundcheck. 1 upcoming night. B
 
 Carrer del Portal Nou, 18, 08003 Barcelona, Barcelona
 
-*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/can-luis/)*
+*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/can-luis/)*

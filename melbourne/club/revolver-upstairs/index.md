@@ -1,6 +1,6 @@
 # Revolver Upstairs
 
-Revolver Upstairs is a music venue in Melbourne with 13 upcoming nights listed on soundcheck as of Wed, 16 Sept 2026; the next is "Tilt Shift Wednesdays — 99 PRBLMZ Takeover" on Wed, 16 Sept 2026.
+Revolver Upstairs is a music venue in Melbourne with 13 upcoming nights listed on soundcheck as of Thu, 17 Sept 2026; the next is "Clôture presents — Caleb Jay [LIVE] + Guests" on Fri, 18 Sept 2026.
 
 Revolver Upstairs is a music venue in Melbourne listed on soundcheck. 13 upcoming nights, with line-ups including Alex Wann, Amity, bbsanii and bellxsxs and 2 more. Browse upcoming dates, start times and who's playing. 229 Chapel St, Prahran VIC 3181, Australia.
 
@@ -8,9 +8,9 @@ Revolver Upstairs is a music venue in Melbourne listed on soundcheck. 13 upcomin
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Wed, 16 Sept 2026 | Tilt Shift Wednesdays — 99 PRBLMZ Takeover |  |
 | Fri, 18 Sept 2026 | Clôture presents — Caleb Jay [LIVE] + Guests | CHARBINKS, Caleb Jay, Lisa May, Max Glyde |
 | Sun, 20 Sept 2026 | Dazed – Hard Dance Therapy | CAGED, MJK., WISER |
+| Sun, 20 Sept 2026 | Restricted (AU) - Winter Series pres. by Thick As Thieves | Boogs, KELLY TEE, PAUL LE BÁY, Restricted, Rory Marshall, STAFFY, weirdtechnogirlfriend |
 | Wed, 23 Sept 2026 | Tilt Shift Wednesdays — Proponent Records Takeover | Common Tribe, Eric Stark |
 | Thu, 24 Sept 2026 | REVOLVER BANDROOM: hide & seek |  |
 | Thu, 24 Sept 2026 | Public Holiday Eve — LOVED, Midway Point & 3181 Thursdays | Shani, bleshu |
@@ -23,4 +23,4 @@ Revolver Upstairs is a music venue in Melbourne listed on soundcheck. 13 upcomin
 
 229 Chapel St, Prahran VIC 3181, Australia, Melbourne
 
-*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/revolver-upstairs/)*
+*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/revolver-upstairs/)*

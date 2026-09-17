@@ -1,6 +1,6 @@
 # Marble Bar
 
-Marble Bar is a music venue in Detroit with 10 upcoming nights listed on soundcheck as of Wed, 16 Sept 2026; the next is "small talk with britty. & BeatLoaf" on Thu, 17 Sept 2026.
+Marble Bar is a music venue in Detroit with 10 upcoming nights listed on soundcheck as of Thu, 17 Sept 2026; the next is "small talk with britty. & BeatLoaf" on Thu, 17 Sept 2026.
 
 Marble Bar is a music venue in Detroit listed on soundcheck. 10 upcoming nights, with line-ups including BeatLoaf, BRALLE, britty. and CAM GIRL and 2 more. Browse upcoming dates, start times and who's playing. 1501 Holden St, Detroit, MI 48208, USA.
 
@@ -23,4 +23,4 @@ Marble Bar is a music venue in Detroit listed on soundcheck. 10 upcoming nights,
 
 1501 Holden St, Detroit, MI 48208, USA, Detroit
 
-*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/detroit/club/marble-bar/)*
+*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/detroit/club/marble-bar/)*

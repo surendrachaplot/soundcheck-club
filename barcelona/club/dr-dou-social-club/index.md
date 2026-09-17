@@ -1,14 +1,13 @@
 # Dr. Dou Social Club
 
-Dr. Dou Social Club is a music venue in Barcelona with 9 upcoming nights listed on soundcheck as of Wed, 16 Sept 2026; the next is "Wednesday's Prescription - MAF" on Wed, 16 Sept 2026.
+Dr. Dou Social Club is a music venue in Barcelona with 8 upcoming nights listed on soundcheck as of Thu, 17 Sept 2026; the next is "Thursday's Prescription - NUUP" on Thu, 17 Sept 2026.
 
-Dr. Dou Social Club is a music venue in Barcelona listed on soundcheck. 9 upcoming nights, with line-ups including DiSALAZAR, Inpulse, MAF and Mazón and 2 more. Browse upcoming dates, start times and who's playing. Carrer del Dr. Dou, 7, local 2, 08001 Barcelona, Spain.
+Dr. Dou Social Club is a music venue in Barcelona listed on soundcheck. 8 upcoming nights, with line-ups including DiSALAZAR, Inpulse, Mazón and NUUP and 2 more. Browse upcoming dates, start times and who's playing. Carrer del Dr. Dou, 7, local 2, 08001 Barcelona, Spain.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Wed, 16 Sept 2026 | Wednesday's Prescription - MAF | MAF |
 | Thu, 17 Sept 2026 | Thursday's Prescription - NUUP | NUUP |
 | Fri, 18 Sept 2026 | Friday's Prescription - Mazon | Mazón |
 | Sat, 19 Sept 2026 | Saturday's Prescription - Inpulse | Inpulse |
@@ -22,4 +21,4 @@ Dr. Dou Social Club is a music venue in Barcelona listed on soundcheck. 9 upcomi
 
 Carrer del Dr. Dou, 7, local 2, 08001 Barcelona, Spain, Barcelona
 
-*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/dr-dou-social-club/)*
+*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/dr-dou-social-club/)*

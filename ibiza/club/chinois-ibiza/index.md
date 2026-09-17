@@ -1,6 +1,6 @@
 # Chinois Ibiza
 
-Chinois Ibiza is a music venue in Ibiza with 22 upcoming nights listed on soundcheck as of Wed, 16 Sept 2026; the next is "Defected: Darius Syrossian, Deetron, Harry Romero b2b Cinthie, Lil Louis, Manu Gonzalez" on Thu, 17 Sept 2026.
+Chinois Ibiza is a music venue in Ibiza with 22 upcoming nights listed on soundcheck as of Thu, 17 Sept 2026; the next is "Defected: Darius Syrossian, Deetron, Harry Romero b2b Cinthie, Lil Louis, Manu Gonzalez" on Thu, 17 Sept 2026.
 
 Chinois Ibiza is a music venue in Ibiza listed on soundcheck. 22 upcoming nights, with line-ups including Andrea Oliva, Antdot, Anthony James and Artche and 2 more. Browse upcoming dates, start times and who's playing. Passeig Joan Carles I, 17, 07800 Eivissa, Illes Balears, Spain.
 
@@ -23,4 +23,4 @@ Chinois Ibiza is a music venue in Ibiza listed on soundcheck. 22 upcoming nights
 
 Passeig Joan Carles I, 17, 07800 Eivissa, Illes Balears, Spain, Ibiza
 
-*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/ibiza/club/chinois-ibiza/)*
+*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/ibiza/club/chinois-ibiza/)*

@@ -1,6 +1,6 @@
 # clubasia
 
-clubasia is a music venue in Tokyo with 14 upcoming nights listed on soundcheck as of Wed, 16 Sept 2026; the next is "EXODUS vol. 250" on Wed, 16 Sept 2026.
+clubasia is a music venue in Tokyo with 14 upcoming nights listed on soundcheck as of Thu, 17 Sept 2026; the next is "club asia THURSDAY - ryuu ALL NIGHT LONG -" on Thu, 17 Sept 2026.
 
 clubasia is a music venue in Tokyo listed on soundcheck. 14 upcoming nights, with line-ups including Acrocanthosaurus, AMIDAdrive, Bass and BLACK(JP) and 2 more. Browse upcoming dates, start times and who's playing. 1-8 Maruyamacho, Shibuya-ku, Tokyo, 150-0044 Japan.
 
@@ -8,7 +8,6 @@ clubasia is a music venue in Tokyo listed on soundcheck. 14 upcoming nights, wit
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Wed, 16 Sept 2026 | EXODUS vol. 250 | FUJI TRILL, Hirosson, KANT, misa nakamura |
 | Thu, 17 Sept 2026 | club asia THURSDAY - ryuu ALL NIGHT LONG - | ryuu (2) |
 | Sun, 20 Sept 2026 | VITA 11th Anniversary -A New Chapter- | Karsten Sollors |
 | Mon, 21 Sept 2026 | Doc Martin *ALL NIGHT LONG 『THE HOUSE TOKYO』 | Doc Martin |
@@ -18,9 +17,10 @@ clubasia is a music venue in Tokyo listed on soundcheck. 14 upcoming nights, wit
 | Sat, 26 Sept 2026 | Back To Chill 20th Anniversary | Acrocanthosaurus, BLUEMEW, CITY1, Dx, Goth-Trad, HELKTRAM, Jungle Rock, Keihin, Ken (2), Lowki, MAREAM, MIDI War, O.N.O, yuitty |
 | Wed, 30 Sept 2026 | EXODUS vol. 252 | FUJI TRILL, Jellyf!sh, KANT, kyuuu |
 | Sat, 3 Oct 2026 | AFTERVOID presents EXE vol.1 | FUJI TRILL, Yess |
+| Fri, 9 Oct 2026 | NEBULA × OTO × BLACK NOIR - TECHNO / HARD TECHNO / HARD TRANCE | Calavera, EMILIO (3), Goss, I-SO, ILONA, LYOM, Merco Ben, O.Goo, STRATAH, Soluna, YURI VALEN, uuu7 |
 
 ## Address
 
 1-8 Maruyamacho, Shibuya-ku, Tokyo, 150-0044 Japan, Tokyo
 
-*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/clubasia/)*
+*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/clubasia/)*

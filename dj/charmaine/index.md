@@ -1,0 +1,28 @@
+# Charmaine
+
+Charmaine is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 17 Sept 2026, next at SISSI'S Amsterdam, Amsterdam on Fri, 18 Sept 2026.
+
+Charmaine is a house and techno artist tracked on soundcheck, with 65 sets logged across Amsterdam, Antwerp, Berlin and Brussels and 4 more. Often billed alongside Ays (NL), CARISTA and David Vunk. Next up: SISSI'S Amsterdam, Amsterdam on Fri 18 Sept.
+
+## Upcoming shows
+
+| Date | Venue | City |
+| --- | --- | --- |
+| Fri, 18 Sept 2026 | SISSI'S Amsterdam | Amsterdam |
+
+## Recently played
+
+- Doka, Amsterdam — Sun, 13 Sept 2026
+- NAR, Utrecht — Sat, 12 Sept 2026
+- SISSI'S Amsterdam, Amsterdam — Sat, 4 Jul 2026
+- Doka, Amsterdam — Sat, 27 Jun 2026
+- TBA - Paradise City Festival, Brussels — Fri, 26 Jun 2026
+- Het Dorp, Amsterdam — Sat, 20 Jun 2026
+- Paal69, Amsterdam — Sat, 6 Jun 2026
+- Inter-City, The Hague — Thu, 14 May 2026
+
+## Shares bills with
+
+Ays (NL), CARISTA, David Vunk
+
+*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/charmaine/)*

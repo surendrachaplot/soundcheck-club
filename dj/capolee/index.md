@@ -1,8 +1,8 @@
 # Capo Lee
 
-Capo Lee is a Garage and Bass artist with 4 upcoming club dates listed on soundcheck as of Wed, 16 Sept 2026, next at Colour Factory, London on Sat, 19 Sept 2026.
+Capo Lee is a Garage and Bass artist with 5 upcoming club dates listed on soundcheck as of Thu, 17 Sept 2026, next at Colour Factory, London on Sat, 19 Sept 2026.
 
-Capo Lee is a garage and bass artist tracked on soundcheck, with 95 sets logged across Amsterdam, Auckland, Barcelona and Birmingham and 23 more. Often billed alongside Bakey, Izco and bullet tooth. Next up: Colour Factory, London on Sat 19 Sept.
+Capo Lee is a garage and bass artist tracked on soundcheck, with 96 sets logged across Amsterdam, Auckland, Barcelona and Birmingham and 23 more. Often billed alongside Bakey, Izco and bullet tooth. Next up: Colour Factory, London on Sat 19 Sept.
 
 ## Upcoming shows
 
@@ -12,6 +12,7 @@ Capo Lee is a garage and bass artist tracked on soundcheck, with 95 sets logged 
 | Thu, 8 Oct 2026 | The Bongo Club | Edinburgh |
 | Sat, 31 Oct 2026 | The Clock Factory | Bristol |
 | Sat, 7 Nov 2026 | DRUMSHEDS | London |
+| Sat, 5 Dec 2026 | Headrow House | Leeds |
 
 ## Recently played
 
@@ -28,4 +29,4 @@ Capo Lee is a garage and bass artist tracked on soundcheck, with 95 sets logged 
 
 Bakey, Izco, bullet tooth
 
-*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/capolee/)*
+*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/capolee/)*

@@ -1,6 +1,6 @@
 # Itswilliamquintero
 
-Itswilliamquintero is a electronic artist with 1 upcoming club date listed on soundcheck as of Wed, 16 Sept 2026, next at K West Hotel & Spa, London on Sat, 3 Oct 2026.
+Itswilliamquintero is a electronic artist with 1 upcoming club date listed on soundcheck as of Thu, 17 Sept 2026, next at K West Hotel & Spa, London on Sat, 3 Oct 2026.
 
 Itswilliamquintero is an electronic artist tracked on soundcheck, with 9 sets logged across London. Often billed alongside Bread & Butter, P2UYA and TIME LVPSE. Next up: K West Hotel & Spa, London on Sat 3 Oct.
 
@@ -25,4 +25,4 @@ Itswilliamquintero is an electronic artist tracked on soundcheck, with 9 sets lo
 
 Bread & Butter, P2UYA, TIME LVPSE
 
-*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/itswilliamquintero/)*
+*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/itswilliamquintero/)*

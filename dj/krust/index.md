@@ -1,8 +1,8 @@
 # Krust
 
-Krust is a Drum & Bass and Jungle artist with 2 upcoming club dates listed on soundcheck as of Wed, 16 Sept 2026, next at The Croft, Bristol on Sat, 26 Sept 2026.
+Krust is a Drum & Bass and Jungle artist with 3 upcoming club dates listed on soundcheck as of Thu, 17 Sept 2026, next at The Croft, Bristol on Sat, 26 Sept 2026.
 
-Krust is a drum & bass and jungle artist based in United Kingdom, tracked on soundcheck, with 35 sets logged across Birmingham, Brighton, Bristol and Ibiza and 3 more. Often billed alongside Jumping Jack Frost, DJ Die and Bryan Gee. Next up: The Croft, Bristol on Sat 26 Sept.
+Krust is a drum & bass and jungle artist based in United Kingdom, tracked on soundcheck, with 36 sets logged across Birmingham, Brighton, Bristol and Ibiza and 3 more. Often billed alongside Jumping Jack Frost, Bryan Gee and DJ Die. Next up: The Croft, Bristol on Sat 26 Sept.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Krust is a drum & bass and jungle artist based in United Kingdom, tracked on sou
 | --- | --- | --- |
 | Sat, 26 Sept 2026 | The Croft | Bristol |
 | Sat, 26 Sept 2026 | Studio 338 | London |
+| Sat, 14 Nov 2026 | fabric | London |
 
 ## Recently played
 
@@ -24,6 +25,6 @@ Krust is a drum & bass and jungle artist based in United Kingdom, tracked on sou
 
 ## Shares bills with
 
-Jumping Jack Frost, DJ Die, Bryan Gee
+Jumping Jack Frost, Bryan Gee, DJ Die
 
-*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/krust/)*
+*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/krust/)*

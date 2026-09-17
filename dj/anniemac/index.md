@@ -1,6 +1,6 @@
 # Annie Mac
 
-Annie Mac is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Wed, 16 Sept 2026, next at NX Newcastle, Newcastle on Fri, 18 Sept 2026.
+Annie Mac is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Thu, 17 Sept 2026, next at NX Newcastle, Newcastle on Fri, 18 Sept 2026.
 
 Annie Mac is a house and techno artist tracked on soundcheck, with 29 sets logged across Belfast, Cardiff, Dublin and Glasgow and 6 more. Often billed alongside DJ Paulette, Gina Breeze and Honey Dijon. Next up: NX Newcastle, Newcastle on Fri 18 Sept.
 
@@ -28,4 +28,4 @@ Annie Mac is a house and techno artist tracked on soundcheck, with 29 sets logge
 
 DJ Paulette, Gina Breeze, Honey Dijon
 
-*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/anniemac/)*
+*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/anniemac/)*

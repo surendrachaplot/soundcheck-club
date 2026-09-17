@@ -1,8 +1,8 @@
 # CCL
 
-CCL is a Techno and Bass artist with 11 upcoming club dates listed on soundcheck as of Wed, 16 Sept 2026, next at Fort Mifflin, Philadelphia on Fri, 18 Sept 2026.
+CCL is a Techno and House artist with 12 upcoming club dates listed on soundcheck as of Thu, 17 Sept 2026, next at Fort Mifflin, Philadelphia on Fri, 18 Sept 2026.
 
-CCL is a techno and bass artist tracked on soundcheck, with 210 sets logged across Amsterdam, Auckland, Austin and Barcelona and 57 more. Often billed alongside Objekt, Eris Drew and Octo Octa. Next up: Fort Mifflin, Philadelphia on Fri 18 Sept.
+CCL is a techno and house artist tracked on soundcheck, with 211 sets logged across Amsterdam, Auckland, Austin and Barcelona and 57 more. Often billed alongside Objekt, Eris Drew and Octo Octa. Next up: Fort Mifflin, Philadelphia on Fri 18 Sept.
 
 ## Upcoming shows
 
@@ -17,6 +17,7 @@ CCL is a techno and bass artist tracked on soundcheck, with 210 sets logged acro
 | Fri, 16 Oct 2026 | CLUB RAUM | Amsterdam |
 | Sun, 18 Oct 2026 | OHM | Berlin |
 | Fri, 30 Oct 2026 | NAMA - Nuovo Anfiteatro Martesana | Milan |
+| Sat, 31 Oct 2026 | UMI | Brussels |
 | Sat, 14 Nov 2026 | TBA | Sydney |
 | Sun, 6 Dec 2026 | OHM | Berlin |
 
@@ -35,4 +36,4 @@ CCL is a techno and bass artist tracked on soundcheck, with 210 sets logged acro
 
 Objekt, Eris Drew, Octo Octa
 
-*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ccl/)*
+*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ccl/)*

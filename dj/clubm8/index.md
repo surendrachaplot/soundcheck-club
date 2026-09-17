@@ -1,8 +1,8 @@
 # clubm8
 
-clubm8 is a Techno and Pop artist with 3 upcoming club dates listed on soundcheck as of Wed, 16 Sept 2026, next at Club Bahnhof Ehrenfeld, Cologne on Fri, 2 Oct 2026.
+clubm8 is a Techno and Pop artist with 3 upcoming club dates listed on soundcheck as of Thu, 17 Sept 2026, next at Club Bahnhof Ehrenfeld, Cologne on Fri, 2 Oct 2026.
 
-clubm8 is a techno and pop artist based in Germany, tracked on soundcheck, with 3 sets logged across Berlin and Cologne. Often billed alongside Anna Hoeber, Bae Blade and Bambii. Next up: Club Bahnhof Ehrenfeld, Cologne on Fri 2 Oct.
+clubm8 is a techno and pop artist based in Germany, tracked on soundcheck, with 3 sets logged across Berlin and Cologne. Often billed alongside Andara Nox, Anna Hoeber and Bae Blade. Next up: Club Bahnhof Ehrenfeld, Cologne on Fri 2 Oct.
 
 ## Upcoming shows
 
@@ -14,6 +14,6 @@ clubm8 is a techno and pop artist based in Germany, tracked on soundcheck, with 
 
 ## Shares bills with
 
-Anna Hoeber, Bae Blade, Bambii
+Andara Nox, Anna Hoeber, Bae Blade
 
-*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/clubm8/)*
+*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/clubm8/)*

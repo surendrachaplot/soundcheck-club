@@ -1,8 +1,8 @@
 # Zero_null
 
-Zero_null is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 16 Sept 2026, next at underiolo, Warsaw on Fri, 18 Sept 2026.
+Zero_null is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 17 Sept 2026, next at underiolo, Warsaw on Fri, 18 Sept 2026.
 
-Zero_null is a techno and house artist tracked on soundcheck, with 18 sets logged across Warsaw. Often billed alongside Yaris, Doga and Mohji. Next up: underiolo, Warsaw on Fri 18 Sept.
+Zero_null is a techno and house artist tracked on soundcheck, with 18 sets logged across Warsaw. Often billed alongside Doga, Yaris and Mohji. Next up: underiolo, Warsaw on Fri 18 Sept.
 
 ## Upcoming shows
 
@@ -23,6 +23,6 @@ Zero_null is a techno and house artist tracked on soundcheck, with 18 sets logge
 
 ## Shares bills with
 
-Yaris, Doga, Mohji
+Doga, Yaris, Mohji
 
-*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/zero_null/)*
+*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/zero_null/)*

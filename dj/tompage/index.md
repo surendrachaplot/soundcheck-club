@@ -1,6 +1,6 @@
 # Tom Page
 
-Tom Page is a Techno and Minimal artist with 1 upcoming club date listed on soundcheck as of Wed, 16 Sept 2026, next at WaV, Liverpool on Sat, 19 Sept 2026.
+Tom Page is a Techno and Minimal artist with 1 upcoming club date listed on soundcheck as of Thu, 17 Sept 2026, next at WaV, Liverpool on Sat, 19 Sept 2026.
 
 Tom Page is a techno and minimal artist tracked on soundcheck, with 5 sets logged across Liverpool and Manchester. Often billed alongside KUSP, Ben Sims and CEEKAY. Next up: WaV, Liverpool on Sat 19 Sept.
 
@@ -21,4 +21,4 @@ Tom Page is a techno and minimal artist tracked on soundcheck, with 5 sets logge
 
 KUSP, Ben Sims, CEEKAY
 
-*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tompage/)*
+*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tompage/)*

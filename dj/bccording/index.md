@@ -1,8 +1,8 @@
 # Bccording
 
-Bccording is a Ambient and Experimental artist with 1 upcoming club date listed on soundcheck as of Wed, 16 Sept 2026, next at Andy Arts, Detroit on Fri, 18 Sept 2026.
+Bccording is a Ambient and Experimental artist with 1 upcoming club date listed on soundcheck as of Thu, 17 Sept 2026, next at Andy Arts, Detroit on Fri, 18 Sept 2026.
 
-Bccording is an ambient and experimental artist tracked on soundcheck, with 6 sets logged across Chicago and Detroit. Often billed alongside Kaho Matsui, 11111111111 and 7038634357. Next up: Andy Arts, Detroit on Fri 18 Sept.
+Bccording is an ambient and experimental artist tracked on soundcheck, with 6 sets logged across Chicago and Detroit. Often billed alongside Kaho Matsui, caitlin c. harvey and 11111111111. Next up: Andy Arts, Detroit on Fri 18 Sept.
 
 ## Upcoming shows
 
@@ -20,6 +20,6 @@ Bccording is an ambient and experimental artist tracked on soundcheck, with 6 se
 
 ## Shares bills with
 
-Kaho Matsui, 11111111111, 7038634357
+Kaho Matsui, caitlin c. harvey, 11111111111
 
-*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bccording/)*
+*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bccording/)*

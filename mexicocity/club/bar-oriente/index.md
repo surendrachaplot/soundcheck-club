@@ -1,6 +1,6 @@
 # Bar Oriente
 
-Bar Oriente is a music venue in Mexico City with 7 upcoming nights listed on soundcheck as of Wed, 16 Sept 2026; the next is "suite musique fest vol 001" on Thu, 17 Sept 2026.
+Bar Oriente is a music venue in Mexico City with 7 upcoming nights listed on soundcheck as of Thu, 17 Sept 2026; the next is "suite musique fest vol 001" on Thu, 17 Sept 2026.
 
 Bar Oriente is a music venue in Mexicocity listed on soundcheck. 7 upcoming nights, with line-ups including AEREA, c3rpa and Motel Flamingo. Browse upcoming dates, start times and who's playing. Calle de Durango 181, Roma Nte., 06700 Ciudad de MÃ©xico, CDMX.
 
@@ -20,4 +20,4 @@ Bar Oriente is a music venue in Mexicocity listed on soundcheck. 7 upcoming nigh
 
 Calle de Durango 181, Roma Nte., 06700 Ciudad de MÃ©xico, CDMX, Mexico City
 
-*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/mexicocity/club/bar-oriente/)*
+*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/mexicocity/club/bar-oriente/)*

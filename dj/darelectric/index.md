@@ -1,6 +1,6 @@
 # Darelectric
 
-Darelectric is a House and Electronica artist with 1 upcoming club date listed on soundcheck as of Wed, 16 Sept 2026, next at MAD Radio NYC, New York City on Thu, 17 Sept 2026.
+Darelectric is a House and Electronica artist with 1 upcoming club date listed on soundcheck as of Thu, 17 Sept 2026, next at MAD Radio NYC, New York City on Thu, 17 Sept 2026.
 
 Darelectric is a house and electronica artist based in United States of America, tracked on soundcheck, with 7 sets logged across Miami and Newyorkcity. Often billed alongside Israel Sunshine, Atomyard and Cristobal ON. Next up: MAD Radio NYC, Newyorkcity on Thu 17 Sept.
 
@@ -23,4 +23,4 @@ Darelectric is a house and electronica artist based in United States of America,
 
 Israel Sunshine, Atomyard, Cristobal ON
 
-*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/darelectric/)*
+*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/darelectric/)*

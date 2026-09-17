@@ -1,6 +1,6 @@
 # Verraco
 
-Verraco is a Techno and Bass artist with 9 upcoming club dates listed on soundcheck as of Wed, 16 Sept 2026, next at Fort Mifflin, Philadelphia on Fri, 18 Sept 2026.
+Verraco is a Techno and Bass artist with 9 upcoming club dates listed on soundcheck as of Thu, 17 Sept 2026, next at Fort Mifflin, Philadelphia on Fri, 18 Sept 2026.
 
 Verraco is a techno and bass artist tracked on soundcheck, with 137 sets logged across Amsterdam, Athens, Barcelona and Berlin and 42 more. Often billed alongside Bitter Babe, CCL and Batu. Next up: Fort Mifflin, Philadelphia on Fri 18 Sept.
 
@@ -33,4 +33,4 @@ Verraco is a techno and bass artist tracked on soundcheck, with 137 sets logged 
 
 Bitter Babe, CCL, Batu
 
-*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/verraco/)*
+*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/verraco/)*

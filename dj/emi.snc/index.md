@@ -1,6 +1,6 @@
 # EMI.SNC
 
-EMI.SNC is a House and Garage artist with 1 upcoming club date listed on soundcheck as of Wed, 16 Sept 2026, next at Paloma, Berlin on Sat, 31 Oct 2026.
+EMI.SNC is a House and Garage artist with 1 upcoming club date listed on soundcheck as of Thu, 17 Sept 2026, next at Paloma, Berlin on Sat, 31 Oct 2026.
 
 EMI.SNC is a house and garage artist tracked on soundcheck, with 10 sets logged across Berlin and Cologne. Often billed alongside Fufi.SNC, 0megavybe and ATZENPUNK. Next up: Paloma, Berlin on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ EMI.SNC is a house and garage artist tracked on soundcheck, with 10 sets logged 
 
 Fufi.SNC, 0megavybe, ATZENPUNK
 
-*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/emi.snc/)*
+*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/emi.snc/)*

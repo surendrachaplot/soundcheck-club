@@ -1,6 +1,6 @@
 # user228322
 
-user228322 is a Electro and Tech House artist with 1 upcoming club date listed on soundcheck as of Wed, 16 Sept 2026, next at Wesola Immersive, Krakow on Fri, 2 Oct 2026.
+user228322 is a Electro and Tech House artist with 1 upcoming club date listed on soundcheck as of Thu, 17 Sept 2026, next at Wesola Immersive, Krakow on Fri, 2 Oct 2026.
 
 user228322 is an electro and tech house artist tracked on soundcheck, with 55 sets logged across Krakow and Warsaw. Often billed alongside Boreichuk, Badalian and Slowmode. Next up: Wesola Immersive, Krakow on Fri 2 Oct.
 
@@ -25,4 +25,4 @@ user228322 is an electro and tech house artist tracked on soundcheck, with 55 se
 
 Boreichuk, Badalian, Slowmode
 
-*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/user228322/)*
+*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/user228322/)*

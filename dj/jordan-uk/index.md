@@ -1,6 +1,6 @@
 # Jordan Nocturne
 
-Jordan Nocturne is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Wed, 16 Sept 2026, next at Le Sucre, Lyon on Sat, 19 Sept 2026.
+Jordan Nocturne is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Thu, 17 Sept 2026, next at Le Sucre, Lyon on Sat, 19 Sept 2026.
 
 Jordan Nocturne is a house and techno artist tracked on soundcheck, with 78 sets logged across Amsterdam, Antwerp, Belfast and Berlin and 19 more. Often billed alongside Timmy Stewart, Marion Hawkes and Danse Intermission. Next up: Le Sucre, Lyon on Sat 19 Sept.
 
@@ -28,4 +28,4 @@ Jordan Nocturne is a house and techno artist tracked on soundcheck, with 78 sets
 
 Timmy Stewart, Marion Hawkes, Danse Intermission
 
-*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jordan-uk/)*
+*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jordan-uk/)*

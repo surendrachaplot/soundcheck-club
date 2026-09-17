@@ -1,13 +1,19 @@
 # TBA - Pç. Luis Camões (B. Alto) 1200-243 Lisbon, Portugal
 
-TBA - Pç. Luis Camões (B. Alto) 1200-243 Lisbon, Portugal is a music venue in Lisbon with 1 upcoming night listed on soundcheck as of Wed, 16 Sept 2026; the next is "Halloween Haunts: Lisbon Pub Crawl Experience" on Sat, 31 Oct 2026.
+TBA - Pç. Luis Camões (B. Alto) 1200-243 Lisbon, Portugal is a music venue in Lisbon with 7 upcoming nights listed on soundcheck as of Thu, 17 Sept 2026; the next is "Pub Crawl" on Fri, 18 Sept 2026.
 
-TBA - Pç. Luis Camões (B. Alto) 1200-243 Lisbon, Portugal is a music venue in Lisbon listed on soundcheck. 1 upcoming night. Browse upcoming dates, start times and who's playing.
+TBA - Pç. Luis Camões (B. Alto) 1200-243 Lisbon, Portugal is a music venue in Lisbon listed on soundcheck. 7 upcoming nights. Browse upcoming dates, start times and who's playing.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
+| Fri, 18 Sept 2026 | Pub Crawl |  |
+| Sat, 19 Sept 2026 | Pub Crawl |  |
+| Sun, 20 Sept 2026 | Pub Crawl |  |
+| Mon, 21 Sept 2026 | Pub Crawl |  |
+| Tue, 22 Sept 2026 | Pub Crawl |  |
+| Wed, 23 Sept 2026 | Pub Crawl |  |
 | Sat, 31 Oct 2026 | Halloween Haunts: Lisbon Pub Crawl Experience |  |
 
-*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/lisbon/club/tba-p-luis-cam-es-b-alto-1200-243-lisbon-portugal/)*
+*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/lisbon/club/tba-p-luis-cam-es-b-alto-1200-243-lisbon-portugal/)*

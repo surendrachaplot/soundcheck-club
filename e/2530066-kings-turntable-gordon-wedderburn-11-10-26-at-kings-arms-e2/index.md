@@ -1,6 +1,6 @@
 # Kings Turntable: Gordon Wedderburn [11.10.26] at Kings Arms E2
 
-Kings Turntable: Gordon Wedderburn [11.10.26] at Kings Arms E2 on Sun 11 Oct, London. Jazz and Broken Beat. Preview the line-up and save it on soundcheck.
+Kings Turntable: Gordon Wedderburn [11.10.26] at Kings Arms E2 on Sun 11 Oct, London. Downtempo and Jazz. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

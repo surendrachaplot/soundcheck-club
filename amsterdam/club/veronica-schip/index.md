@@ -1,6 +1,6 @@
 # Veronica Schip
 
-Veronica Schip is a music venue in Amsterdam with 7 upcoming nights listed on soundcheck as of Wed, 16 Sept 2026; the next is "OPEN-FRIDAY - Progressive Hub X Mareah" on Fri, 18 Sept 2026.
+Veronica Schip is a music venue in Amsterdam with 7 upcoming nights listed on soundcheck as of Thu, 17 Sept 2026; the next is "OPEN-FRIDAY - Progressive Hub X Mareah" on Fri, 18 Sept 2026.
 
 Veronica Schip is a music venue in Amsterdam listed on soundcheck. 7 upcoming nights, with line-ups including Akira, ArioVistus, Baliology and Belocca and 2 more. Browse upcoming dates, start times and who's playing. NDSM-Pier 1, 1033 RG Amsterdam, Netherlands.
 
@@ -20,4 +20,4 @@ Veronica Schip is a music venue in Amsterdam listed on soundcheck. 7 upcoming ni
 
 NDSM-Pier 1, 1033 RG Amsterdam, Netherlands, Amsterdam
 
-*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/veronica-schip/)*
+*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/veronica-schip/)*

@@ -1,6 +1,6 @@
 # Quartyard
 
-Quartyard is a music venue in San Diego with 6 upcoming nights listed on soundcheck as of Wed, 16 Sept 2026; the next is "LED presents Indo Warehouse" on Fri, 9 Oct 2026.
+Quartyard is a music venue in San Diego with 6 upcoming nights listed on soundcheck as of Thu, 17 Sept 2026; the next is "LED presents Indo Warehouse" on Fri, 9 Oct 2026.
 
 Quartyard is a music venue in Sandiego listed on soundcheck. 6 upcoming nights, with line-ups including Bag Raiders, Riordan, Shermanology and Sina Bathaie. Browse upcoming dates, start times and who's playing. 1301 Market Street, San Diego, CA.
 
@@ -19,4 +19,4 @@ Quartyard is a music venue in Sandiego listed on soundcheck. 6 upcoming nights, 
 
 1301 Market Street, San Diego, CA, San Diego
 
-*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/sandiego/club/quartyard/)*
+*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/sandiego/club/quartyard/)*

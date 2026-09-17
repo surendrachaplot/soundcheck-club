@@ -1,6 +1,6 @@
 # Counter Culture Side Club at Club Metro
 
-Counter Culture Side Club at Club Metro on Mon 21 Sept, Kyoto. 2 acts on the bill: Kaito and YELLOWUHURU. House. Preview the line-up and save it on soundcheck.
+Counter Culture Side Club at Club Metro on Mon 21 Sept, Kyoto. 3 acts on the bill: Kaito, KAITO. and YELLOWUHURU. House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,6 +11,7 @@ Counter Culture Side Club at Club Metro on Mon 21 Sept, Kyoto. 2 acts on the bil
 ## Line-up
 
 - Kaito
+- KAITO.
 - YELLOWUHURU
 
 *Source: [soundcheck](https://soundcheck.club/e/2524946-counter-culture-side-club-at-club-metro/)*

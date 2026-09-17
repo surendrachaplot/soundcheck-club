@@ -1,6 +1,6 @@
 # Laboratorio Octogon
 
-Laboratorio Octogon is a music venue in Madrid with 4 upcoming nights listed on soundcheck as of Wed, 16 Sept 2026; the next is "REC presents — Pergo (drei vinyl) ONLY VINYL NIGHT" on Fri, 18 Sept 2026.
+Laboratorio Octogon is a music venue in Madrid with 4 upcoming nights listed on soundcheck as of Thu, 17 Sept 2026; the next is "REC presents — Pergo (drei vinyl) ONLY VINYL NIGHT" on Fri, 18 Sept 2026.
 
 Laboratorio Octogon is a music venue in Madrid listed on soundcheck. 4 upcoming nights, with line-ups including Alviker, DAVID MENA, Driusaki and Fluss and 2 more. Browse upcoming dates, start times and who's playing. Calle Cerámica, 16, 28038 Madrid.
 
@@ -17,4 +17,4 @@ Laboratorio Octogon is a music venue in Madrid listed on soundcheck. 4 upcoming 
 
 Calle Cerámica, 16, 28038 Madrid, Madrid
 
-*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/laboratorio-octogon/)*
+*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/laboratorio-octogon/)*

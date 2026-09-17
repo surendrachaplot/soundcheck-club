@@ -1,6 +1,6 @@
 # Julio Machicado
 
-Julio Machicado is a Tech House and Minimal artist with 3 upcoming club dates listed on soundcheck as of Wed, 16 Sept 2026, next at EL SÓTANO, Madrid on Sun, 4 Oct 2026.
+Julio Machicado is a Tech House and Minimal artist with 3 upcoming club dates listed on soundcheck as of Thu, 17 Sept 2026, next at EL SÓTANO, Madrid on Sun, 4 Oct 2026.
 
 Julio Machicado is a tech house and minimal artist tracked on soundcheck, with 32 sets logged across Madrid and Sydney. Often billed alongside Héctor Pericet, Grau and Grau (ES). Next up: EL SÓTANO, Madrid on Sun 4 Oct.
 
@@ -27,4 +27,4 @@ Julio Machicado is a tech house and minimal artist tracked on soundcheck, with 3
 
 Héctor Pericet, Grau, Grau (ES)
 
-*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/juliomachicado/)*
+*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/juliomachicado/)*

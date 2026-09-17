@@ -1,6 +1,6 @@
 # The Model
 
-The Model is a music venue in Nottingham with 14 upcoming nights listed on soundcheck as of Wed, 16 Sept 2026; the next is "CHOPPED #1" on Wed, 16 Sept 2026.
+The Model is a music venue in Nottingham with 14 upcoming nights listed on soundcheck as of Thu, 17 Sept 2026; the next is "Kylie Wears Berghaus (Nottingham Debut)" on Fri, 18 Sept 2026.
 
 The Model is a music venue in Nottingham listed on soundcheck. 14 upcoming nights, with line-ups including Brad Bradley, Burly Chassis, CHEZA LUCINA and CONFLICT BUREAU and 2 more. Browse upcoming dates, start times and who's playing. 23 Goose Gate, Nottingham, NG1 3FE.
 
@@ -8,7 +8,6 @@ The Model is a music venue in Nottingham listed on soundcheck. 14 upcoming night
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Wed, 16 Sept 2026 | CHOPPED #1 | dj come |
 | Fri, 18 Sept 2026 | Kylie Wears Berghaus (Nottingham Debut) | Kylie Wears Berghaus |
 | Sat, 19 Sept 2026 | Oktoberfest + afterparty with BIBLIOTECH |  |
 | Fri, 25 Sept 2026 | Duty Free #5 |  |
@@ -18,9 +17,10 @@ The Model is a music venue in Nottingham listed on soundcheck. 14 upcoming night
 | Fri, 9 Oct 2026 | Cold Brewed 2nd Birthday w/ k means, Toura, Jimmy Rocket & M75 | Jimmy Rocket, M75 (1), Toura, k means |
 | Fri, 16 Oct 2026 | The Witching Hours with Evil Woman + Kay Fabe [All Night Long] | Evil Woman, Kay Fabe |
 | Sat, 17 Oct 2026 | Lost In Music with SAM REDMORE |  |
+| Fri, 23 Oct 2026 | Weighteh X Ground Under Sound - WINTOUR B2B CONTACT GHOST, PLUS MORE |  |
 
 ## Address
 
 23 Goose Gate, Nottingham, NG1 3FE, Nottingham
 
-*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/nottingham/club/the-model/)*
+*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/nottingham/club/the-model/)*

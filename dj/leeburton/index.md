@@ -1,6 +1,6 @@
 # Lee Burton
 
-Lee Burton is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 16 Sept 2026, next at Club der Visionaere, Berlin on Thu, 17 Sept 2026.
+Lee Burton is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 17 Sept 2026, next at Club der Visionaere, Berlin on Thu, 17 Sept 2026.
 
 Lee Burton is a house and techno artist tracked on soundcheck, with 30 sets logged across Amsterdam, Athens, Barcelona and Berlin and 8 more. Often billed alongside Nekes, Federico Molinari and Giuliano Lomonte. Next up: Club der Visionaere, Berlin on Thu 17 Sept.
 
@@ -26,4 +26,4 @@ Lee Burton is a house and techno artist tracked on soundcheck, with 30 sets logg
 
 Nekes, Federico Molinari, Giuliano Lomonte
 
-*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/leeburton/)*
+*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/leeburton/)*

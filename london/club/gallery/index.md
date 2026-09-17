@@ -1,14 +1,13 @@
 # Gallery
 
-Gallery is a music venue in London with 19 upcoming nights listed on soundcheck as of Wed, 16 Sept 2026; the next is "FAHLBERG X Gallery CLUB LONDON" on Wed, 16 Sept 2026.
+Gallery is a music venue in London with 18 upcoming nights listed on soundcheck as of Thu, 17 Sept 2026; the next is "Paradox Nexus: GJIN - Thursdays at Gallery" on Thu, 17 Sept 2026.
 
-Gallery is a music venue in London listed on soundcheck. 19 upcoming nights, with line-ups including Maqossa, AGELESS, Amy Os and Anna Tur and 2 more. Browse upcoming dates, start times and who's playing. 2A Kensington High Street, London, W8 4PT.
+Gallery is a music venue in London listed on soundcheck. 18 upcoming nights, with line-ups including Maqossa, AGELESS, Amy Os and Anna Tur and 2 more. Browse upcoming dates, start times and who's playing. 2A Kensington High Street, London, W8 4PT.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Wed, 16 Sept 2026 | FAHLBERG X Gallery CLUB LONDON |  |
 | Thu, 17 Sept 2026 | Paradox Nexus: GJIN - Thursdays at Gallery | Amy Os |
 | Thu, 17 Sept 2026 | Gallery presents: GJIN | Amy Os |
 | Fri, 18 Sept 2026 | Maqossa & Friends (London Fashion Week) | AGELESS, Maqossa, SPIKA |
@@ -18,9 +17,10 @@ Gallery is a music venue in London listed on soundcheck. 19 upcoming nights, wit
 | Sat, 26 Sept 2026 | Cash Only presents: Chronicles | Carly Carmen, Dj Cash Only, Matt Dawson, Ned Spencer, Philip George, Rue Jay |
 | Thu, 1 Oct 2026 | Paradox Nexus - Thursdays |  |
 | Fri, 2 Oct 2026 | MIROIR: KOKO (IT) | Jackopo, KOKO (IT) |
+| Sat, 3 Oct 2026 |  MVSON PRESENTS: Mason Collective, Marian B2B VITO (UK) & Ramoss | Marian BR, Mason Collective, Ramoss, VITO (UK) |
 
 ## Address
 
 2A Kensington High Street, London, W8 4PT, London
 
-*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/gallery/)*
+*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/gallery/)*

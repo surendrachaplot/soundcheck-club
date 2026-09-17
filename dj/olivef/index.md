@@ -1,14 +1,13 @@
 # Olive F
 
-Olive F is a House and Tech House artist with 9 upcoming club dates listed on soundcheck as of Wed, 16 Sept 2026, next at [UNVRS], Ibiza on Wed, 16 Sept 2026.
+Olive F is a House and Tech House artist with 8 upcoming club dates listed on soundcheck as of Thu, 17 Sept 2026, next at Spybar, Chicago on Fri, 2 Oct 2026.
 
-Olive F is a house and tech house artist tracked on soundcheck, with 130 sets logged across Amsterdam, Bali, Barcelona and Berlin and 25 more. Often billed alongside Darius Syrossian, Eats Everything and Nic Fanciulli. Next up: [UNVRS], Ibiza on Wed 16 Sept.
+Olive F is a house and tech house artist tracked on soundcheck, with 130 sets logged across Amsterdam, Bali, Barcelona and Berlin and 25 more. Often billed alongside Darius Syrossian, Eats Everything and Nic Fanciulli. Next up: Spybar, Chicago on Fri 2 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Wed, 16 Sept 2026 | [UNVRS] | Ibiza |
 | Fri, 2 Oct 2026 | Spybar | Chicago |
 | Sat, 3 Oct 2026 | BERHTA | Washington DC |
 | Sun, 4 Oct 2026 | Superior Ingredients | New York City |
@@ -20,6 +19,7 @@ Olive F is a house and tech house artist tracked on soundcheck, with 130 sets lo
 
 ## Recently played
 
+- [UNVRS], Ibiza — Wed, 16 Sept 2026
 - [UNVRS], Ibiza — Sat, 5 Sept 2026
 - Van Nelle Fabriek, Rotterdam — Sat, 29 Aug 2026
 - Amnesia Ibiza, Ibiza — Thu, 27 Aug 2026
@@ -27,10 +27,9 @@ Olive F is a house and tech house artist tracked on soundcheck, with 130 sets lo
 - Hï Ibiza, Ibiza — Wed, 5 Aug 2026
 - Cova Santa, Ibiza — Tue, 28 Jul 2026
 - [UNVRS], Ibiza — Wed, 8 Jul 2026
-- Jolene Downtown Miami, Miami — Fri, 26 Jun 2026
 
 ## Shares bills with
 
 Darius Syrossian, Eats Everything, Nic Fanciulli
 
-*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/olivef/)*
+*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/olivef/)*

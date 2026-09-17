@@ -1,6 +1,6 @@
 # Anubix
 
-Anubix is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Wed, 16 Sept 2026, next at City Hall, Barcelona on Thu, 17 Sept 2026.
+Anubix is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Thu, 17 Sept 2026, next at City Hall, Barcelona on Thu, 17 Sept 2026.
 
 Anubix is a techno and tech house artist tracked on soundcheck, with 46 sets logged across Barcelona and Berlin. Often billed alongside Epicx, DJ Jordan and Emma (8). Next up: City Hall, Barcelona on Thu 17 Sept.
 
@@ -25,4 +25,4 @@ Anubix is a techno and tech house artist tracked on soundcheck, with 46 sets log
 
 Epicx, DJ Jordan, Emma (8)
 
-*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/anubix/)*
+*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/anubix/)*

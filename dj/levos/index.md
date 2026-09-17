@@ -1,14 +1,16 @@
 # LEVOS
 
-LEVOS is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 16 Sept 2026, next at Angel Music Bar, Melbourne on Thu, 17 Sept 2026.
+LEVOS is a House and Breakbeat artist with 3 upcoming club dates listed on soundcheck as of Thu, 17 Sept 2026, next at Angel Music Bar, Melbourne on Thu, 17 Sept 2026.
 
-LEVOS is a house and techno artist based in Australia, tracked on soundcheck, with 14 sets logged across London, Melbourne and Sydney. Often billed alongside Bouki, Mimi J and Middle James. Next up: Angel Music Bar, Melbourne on Thu 17 Sept.
+LEVOS is a house and breakbeat artist based in Australia, tracked on soundcheck, with 16 sets logged across Brisbane, London, Melbourne and Sydney. Often billed alongside Bouki, Mimi J and Middle James. Next up: Angel Music Bar, Melbourne on Thu 17 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Thu, 17 Sept 2026 | Angel Music Bar | Melbourne |
+| Fri, 18 Sept 2026 | QUIVR | Brisbane |
+| Sat, 19 Sept 2026 | TBA | Sydney |
 
 ## Recently played
 
@@ -25,4 +27,4 @@ LEVOS is a house and techno artist based in Australia, tracked on soundcheck, wi
 
 Bouki, Mimi J, Middle James
 
-*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/levos/)*
+*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/levos/)*

@@ -1,6 +1,6 @@
 # Yuca Frita
 
-Yuca Frita is a Club and Latin Bass artist with 3 upcoming club dates listed on soundcheck as of Wed, 16 Sept 2026, next at El Rio, San Francisco/Oakland on Fri, 18 Sept 2026.
+Yuca Frita is a Club and Latin Bass artist with 3 upcoming club dates listed on soundcheck as of Thu, 17 Sept 2026, next at El Rio, San Francisco/Oakland on Fri, 18 Sept 2026.
 
 Yuca Frita is a club and latin bass artist based in United States of America, tracked on soundcheck, with 49 sets logged across Sanfrancisco. Often billed alongside DJ JUANNY, Discnogirl and RITCHRD. Next up: El Rio, Sanfrancisco on Fri 18 Sept.
 
@@ -27,4 +27,4 @@ Yuca Frita is a club and latin bass artist based in United States of America, tr
 
 DJ JUANNY, Discnogirl, RITCHRD
 
-*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/yucafrita/)*
+*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/yucafrita/)*

@@ -1,6 +1,6 @@
 # Perc
 
-Perc is a Techno and Industrial artist with 4 upcoming club dates listed on soundcheck as of Wed, 16 Sept 2026, next at Fuchs2, Prague on Fri, 18 Sept 2026.
+Perc is a Techno and Industrial artist with 4 upcoming club dates listed on soundcheck as of Thu, 17 Sept 2026, next at Fuchs2, Prague on Fri, 18 Sept 2026.
 
 Perc is a techno and industrial artist tracked on soundcheck, with 159 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 54 more. Often billed alongside Somniac One, Ansome and DAX J. Next up: Fuchs2, Prague on Fri 18 Sept.
 
@@ -28,4 +28,4 @@ Perc is a techno and industrial artist tracked on soundcheck, with 159 sets logg
 
 Somniac One, Ansome, DAX J
 
-*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/perc/)*
+*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/perc/)*

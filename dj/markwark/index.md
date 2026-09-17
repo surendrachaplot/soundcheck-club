@@ -1,6 +1,6 @@
 # Mark Wark
 
-Mark Wark is a Techno and Downtempo artist with 1 upcoming club date listed on soundcheck as of Wed, 16 Sept 2026, next at Malaga Sin City, Milan on Sun, 20 Sept 2026.
+Mark Wark is a Techno and Downtempo artist with 1 upcoming club date listed on soundcheck as of Thu, 17 Sept 2026, next at Malaga Sin City, Milan on Sun, 20 Sept 2026.
 
 Mark Wark is a techno and downtempo artist tracked on soundcheck, with 41 sets logged across Houston and Milan. Often billed alongside Zirko, Re Pigi and AllaDerivaLontano. Next up: Malaga Sin City, Milan on Sun 20 Sept.
 
@@ -25,4 +25,4 @@ Mark Wark is a techno and downtempo artist tracked on soundcheck, with 41 sets l
 
 Zirko, Re Pigi, AllaDerivaLontano
 
-*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/markwark/)*
+*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/markwark/)*

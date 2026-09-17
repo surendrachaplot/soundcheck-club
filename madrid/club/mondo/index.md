@@ -1,6 +1,6 @@
 # Mondo
 
-Mondo is a music venue in Madrid with 16 upcoming nights listed on soundcheck as of Wed, 16 Sept 2026; the next is "Alarico pres. KENJI HINA / DJ SWISHERMAN" on Thu, 17 Sept 2026.
+Mondo is a music venue in Madrid with 16 upcoming nights listed on soundcheck as of Thu, 17 Sept 2026; the next is "Alarico pres. KENJI HINA / DJ SWISHERMAN" on Thu, 17 Sept 2026.
 
 Mondo is a music venue in Madrid listed on soundcheck. 16 upcoming nights, with line-ups including Alarico, Alignment, Andres Campo and Bad Boombox and 2 more. Browse upcoming dates, start times and who's playing. Sala But, C. de Barceló, 11, Local B, Centro, 28004 Madrid.
 
@@ -13,7 +13,7 @@ Mondo is a music venue in Madrid listed on soundcheck. 16 upcoming nights, with 
 | Thu, 24 Sept 2026 | southstar B2B DJ SWISHERMAN  /  Gerardo Niva  /  doccudder   | DJ SWISHERMAN, Gerardo Niva, doccudder, southstar |
 | Sat, 26 Sept 2026 | AFTERPARTY: Gerardo Niva / Kara Okay / Freddi | Freddi, Gerardo Niva, Kara Okay |
 | Thu, 1 Oct 2026 | DJ Fuckoff / Gerardo Niva / doccudder | DJ Fuckoff, Gerardo Niva, doccudder |
-| Sat, 3 Oct 2026 | AFTERPARTY: Andres Campo B2B Gerardo Niva / Ollie Lishman / DJ SWISHERMAN | Andres Campo, DJ SWISHERMAN, Gerardo Niva, Ollie Lishman |
+| Sat, 3 Oct 2026 | AFTERPARTY: Andres Campo B2B Gerardo Niva / Ollie Lishman / BIXBITA B2B pavvvvvvlo | Andres Campo, BIXBITA, DJ SWISHERMAN, Gerardo Niva, Ollie Lishman, pavvvvvvlo |
 | Thu, 8 Oct 2026 | Alignment / Barbara Lago / pavvvvvvlo | Alignment, Bárbara Lago, pavvvvvvlo |
 | Sat, 10 Oct 2026 | Carl Craig / DJ SWISHERMAN B2B Emi Koto / Maruwa | Carl Craig, DJ SWISHERMAN, Emi Koto, Gerardo Niva, Maruwa |
 | Sun, 11 Oct 2026 | AFTERPARTY EXTENDED: Bad Boombox B2B Club Angel / salute / Gerardo Niva B2B TBA / doccudder | Bad Boombox, Club Angel, Gerardo Niva, doccudder, salute |
@@ -23,4 +23,4 @@ Mondo is a music venue in Madrid listed on soundcheck. 16 upcoming nights, with 
 
 Sala But, C. de Barceló, 11, Local B, Centro, 28004 Madrid, Madrid
 
-*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/mondo/)*
+*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/mondo/)*

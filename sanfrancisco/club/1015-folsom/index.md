@@ -1,14 +1,14 @@
 # 1015 Folsom
 
-1015 Folsom is a music venue in San Francisco/Oakland with 15 upcoming nights listed on soundcheck as of Wed, 16 Sept 2026; the next is "Mild Minds (DJ Set)" on Fri, 18 Sept 2026.
+1015 Folsom is a music venue in San Francisco/Oakland with 15 upcoming nights listed on soundcheck as of Thu, 17 Sept 2026; the next is "Mild Minds (DJ Set)" on Fri, 18 Sept 2026.
 
-1015 Folsom is a music venue in Sanfrancisco listed on soundcheck. 15 upcoming nights, with line-ups including 2ManyDJs, DJ Stingray 313, edapollo and Eli & Fur and 2 more. Browse upcoming dates, start times and who's playing. 1015 Folsom Street; San Francisco, CA 94103; United States.
+1015 Folsom is a music venue in Sanfrancisco listed on soundcheck. 15 upcoming nights, with line-ups including 2ManyDJs, Aaron F, Amatric and DJ PlayStation and 2 more. Browse upcoming dates, start times and who's playing. 1015 Folsom Street; San Francisco, CA 94103; United States.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 18 Sept 2026 | Mild Minds (DJ Set) | edapollo |
+| Fri, 18 Sept 2026 | Mild Minds (DJ Set) | Aaron F, Amatric, DJ PlayStation, Jehnee, edapollo |
 | Thu, 24 Sept 2026 | TUFF SF: Folsom Street Kick Off |  |
 | Fri, 25 Sept 2026 | 2ManyDJs | 2ManyDJs |
 | Fri, 2 Oct 2026 | DJ Smokey + ilykimchi |  |
@@ -23,4 +23,4 @@
 
 1015 Folsom Street; San Francisco, CA 94103; United States, San Francisco/Oakland
 
-*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/1015-folsom/)*
+*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/1015-folsom/)*

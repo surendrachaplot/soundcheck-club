@@ -1,14 +1,13 @@
 # The Croft
 
-The Croft is a music venue in Bristol with 10 upcoming nights listed on soundcheck as of Wed, 16 Sept 2026; the next is "Blak 2 Future: VXRGO + HEYZA B2B KUSHTEE + JAS MYLA" on Wed, 16 Sept 2026.
+The Croft is a music venue in Bristol with 9 upcoming nights listed on soundcheck as of Thu, 17 Sept 2026; the next is "Bad Cabaret: Grace Sands + Support" on Thu, 17 Sept 2026.
 
-The Croft is a music venue in Bristol listed on soundcheck. 10 upcoming nights, with line-ups including Buckley (UK), Captain Wallop, Deselecta and Duality and 2 more. Browse upcoming dates, start times and who's playing. 117-119 Stokes Croft, Bristol, BS1 3RW, United Kingdom.
+The Croft is a music venue in Bristol listed on soundcheck. 9 upcoming nights, with line-ups including Buckley (UK), Captain Wallop, Deselecta and Duality and 2 more. Browse upcoming dates, start times and who's playing. 117-119 Stokes Croft, Bristol, BS1 3RW, United Kingdom.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Wed, 16 Sept 2026 | Blak 2 Future: VXRGO + HEYZA B2B KUSHTEE + JAS MYLA | VXRGO |
 | Thu, 17 Sept 2026 | Bad Cabaret: Grace Sands + Support | Grace Sands |
 | Fri, 18 Sept 2026 | Sad 2 see u go: Captain Wallop + Support | Captain Wallop, Neev |
 | Sat, 19 Sept 2026 | The Croft Presents: Miley Serious [All Night Long] | Miley Serious |
@@ -23,4 +22,4 @@ The Croft is a music venue in Bristol listed on soundcheck. 10 upcoming nights, 
 
 117-119 Stokes Croft, Bristol, BS1 3RW, United Kingdom, Bristol
 
-*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/bristol/club/the-croft/)*
+*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/bristol/club/the-croft/)*

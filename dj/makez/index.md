@@ -1,6 +1,6 @@
 # Makèz
 
-Makèz is a House and Disco artist with 6 upcoming club dates listed on soundcheck as of Wed, 16 Sept 2026, next at DRUMSHEDS, London on Sat, 19 Sept 2026.
+Makèz is a House and Disco artist with 6 upcoming club dates listed on soundcheck as of Thu, 17 Sept 2026, next at DRUMSHEDS, London on Sat, 19 Sept 2026.
 
 Makèz is a house and disco artist based in Netherlands, tracked on soundcheck, with 80 sets logged across Amsterdam, Antwerp, Barcelona and Chicago and 17 more. Often billed alongside ANOTR, Dan Shake and MiNNA. Next up: DRUMSHEDS, London on Sat 19 Sept.
 
@@ -30,4 +30,4 @@ Makèz is a house and disco artist based in Netherlands, tracked on soundcheck, 
 
 ANOTR, Dan Shake, MiNNA
 
-*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/makez/)*
+*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/makez/)*

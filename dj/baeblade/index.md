@@ -1,6 +1,6 @@
 # Bae Blade
 
-Bae Blade is a Techno and Trance artist with 4 upcoming club dates listed on soundcheck as of Wed, 16 Sept 2026, next at fabric, London on Fri, 18 Sept 2026.
+Bae Blade is a Techno and Trance artist with 4 upcoming club dates listed on soundcheck as of Thu, 17 Sept 2026, next at fabric, London on Fri, 18 Sept 2026.
 
 Bae Blade is a techno and trance artist tracked on soundcheck, with 104 sets logged across Amsterdam, Antwerp, Basel and Berlin and 21 more. Often billed alongside Janis Zielinski, Cleopard2000 and Juicy Romance. Next up: fabric, London on Fri 18 Sept.
 
@@ -28,4 +28,4 @@ Bae Blade is a techno and trance artist tracked on soundcheck, with 104 sets log
 
 Janis Zielinski, Cleopard2000, Juicy Romance
 
-*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/baeblade/)*
+*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/baeblade/)*

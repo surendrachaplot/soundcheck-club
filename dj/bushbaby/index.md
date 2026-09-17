@@ -1,8 +1,8 @@
 # Bushbaby
 
-Bushbaby is a Garage and House artist with 5 upcoming club dates listed on soundcheck as of Wed, 16 Sept 2026, next at Village Underground, London on Sat, 3 Oct 2026.
+Bushbaby is a Garage and House artist with 5 upcoming club dates listed on soundcheck as of Thu, 17 Sept 2026, next at Village Underground, London on Sat, 3 Oct 2026.
 
-Bushbaby is a garage and house artist tracked on soundcheck, with 88 sets logged across Aberdeen, Amsterdam, Auckland and Barcelona and 31 more. Often billed alongside MPH (1), Chris Stassy and Conducta. Next up: Village Underground, London on Sat 3 Oct.
+Bushbaby is a garage and house artist tracked on soundcheck, with 88 sets logged across Aberdeen, Amsterdam, Auckland and Barcelona and 31 more. Often billed alongside MPH (1), CHRIS STASSY and Conducta. Next up: Village Underground, London on Sat 3 Oct.
 
 ## Upcoming shows
 
@@ -27,6 +27,6 @@ Bushbaby is a garage and house artist tracked on soundcheck, with 88 sets logged
 
 ## Shares bills with
 
-MPH (1), Chris Stassy, Conducta
+MPH (1), CHRIS STASSY, Conducta
 
-*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bushbaby/)*
+*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bushbaby/)*

@@ -1,13 +1,14 @@
 # TRUSTEE
 
-TRUSTEE is a Garage and Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 16 Sept 2026, next at Warehouse 25, Brisbane on Fri, 25 Sept 2026.
+TRUSTEE is a Garage and Techno artist with 3 upcoming club dates listed on soundcheck as of Thu, 17 Sept 2026, next at TBA, Sydney on Sat, 19 Sept 2026.
 
-TRUSTEE is a garage and techno artist based in Australia, tracked on soundcheck, with 37 sets logged across Australiancapitalterritory, Brisbane, Hobart and Melbourne and 1 more. Often billed alongside KJONES, Prizefight and IsGwan. Next up: Warehouse 25, Brisbane on Fri 25 Sept.
+TRUSTEE is a garage and techno artist based in Australia, tracked on soundcheck, with 38 sets logged across Australiancapitalterritory, Brisbane, Hobart and Melbourne and 1 more. Often billed alongside KJONES, Prizefight and IsGwan. Next up: TBA, Sydney on Sat 19 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 19 Sept 2026 | TBA | Sydney |
 | Fri, 25 Sept 2026 | Warehouse 25 | Brisbane |
 | Sat, 10 Oct 2026 | Carriageworks | Sydney |
 
@@ -26,4 +27,4 @@ TRUSTEE is a garage and techno artist based in Australia, tracked on soundcheck,
 
 KJONES, Prizefight, IsGwan
 
-*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/trustee/)*
+*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/trustee/)*

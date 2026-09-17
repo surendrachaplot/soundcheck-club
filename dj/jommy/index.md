@@ -1,6 +1,6 @@
 # JOMMY
 
-JOMMY is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 16 Sept 2026, next at WOMB, Tokyo on Sat, 19 Sept 2026.
+JOMMY is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 17 Sept 2026, next at WOMB, Tokyo on Sat, 19 Sept 2026.
 
 JOMMY is a house and techno artist tracked on soundcheck, with 63 sets logged across Kyoto, Osaka, Seoul and Tokyo. Often billed alongside KINGMCK, DJ SHINTARO and YUVIE. Next up: WOMB, Tokyo on Sat 19 Sept.
 
@@ -25,4 +25,4 @@ JOMMY is a house and techno artist tracked on soundcheck, with 63 sets logged ac
 
 KINGMCK, DJ SHINTARO, YUVIE
 
-*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jommy/)*
+*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jommy/)*

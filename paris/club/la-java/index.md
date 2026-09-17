@@ -1,6 +1,6 @@
 # La Java
 
-La Java is a music venue in Paris with 13 upcoming nights listed on soundcheck as of Wed, 16 Sept 2026; the next is "ARPL, CH4Ï, FANIBARDS & MORE: GEN.006" on Fri, 18 Sept 2026.
+La Java is a music venue in Paris with 13 upcoming nights listed on soundcheck as of Thu, 17 Sept 2026; the next is "ARPL, CH4Ï, FANIBARDS & MORE: GEN.006" on Fri, 18 Sept 2026.
 
 La Java is a music venue in Paris listed on soundcheck. 13 upcoming nights, with line-ups including Aleqs Notal, ARPL, C.LYYA and Chinau and 2 more. Browse upcoming dates, start times and who's playing. 105 rue du faubourg du Temple; 75010; Paris; France.
 
@@ -23,4 +23,4 @@ La Java is a music venue in Paris listed on soundcheck. 13 upcoming nights, with
 
 105 rue du faubourg du Temple; 75010; Paris; France, Paris
 
-*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/paris/club/la-java/)*
+*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/paris/club/la-java/)*

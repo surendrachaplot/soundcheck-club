@@ -1,6 +1,6 @@
 # Mogra
 
-Mogra is a music venue in Tokyo with 5 upcoming nights listed on soundcheck as of Wed, 16 Sept 2026; the next is "elemog vol.180" on Fri, 18 Sept 2026.
+Mogra is a music venue in Tokyo with 5 upcoming nights listed on soundcheck as of Thu, 17 Sept 2026; the next is "elemog vol.180" on Fri, 18 Sept 2026.
 
 Mogra is a music venue in Tokyo listed on soundcheck. 5 upcoming nights, with line-ups including Astro aka Akihisa Takahashi, Hiroshi Watanabe, Ken Ishii and Kulage and 2 more. Browse upcoming dates, start times and who's playing. 3-11 Akihabara, Taitou-ku, Tokyo, 101-0021.
 
@@ -18,4 +18,4 @@ Mogra is a music venue in Tokyo listed on soundcheck. 5 upcoming nights, with li
 
 3-11 Akihabara, Taitou-ku, Tokyo, 101-0021, Tokyo
 
-*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/mogra/)*
+*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/mogra/)*

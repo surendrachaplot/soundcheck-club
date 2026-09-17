@@ -1,6 +1,6 @@
 # Stereogamous
 
-Stereogamous is a House and Club artist with 1 upcoming club date listed on soundcheck as of Wed, 16 Sept 2026, next at TBA - Museum of Contemporary Art Australia, Sydney on Thu, 8 Oct 2026.
+Stereogamous is a House and Club artist with 1 upcoming club date listed on soundcheck as of Thu, 17 Sept 2026, next at TBA - Museum of Contemporary Art Australia, Sydney on Thu, 8 Oct 2026.
 
 Stereogamous is a house and club artist tracked on soundcheck, with 14 sets logged across Sydney. Often billed alongside Matt Vaughan, Annabelle Gaspar and Dan Azzo. Next up: TBA - Museum of Contemporary Art Australia, Sydney on Thu 8 Oct.
 
@@ -25,4 +25,4 @@ Stereogamous is a house and club artist tracked on soundcheck, with 14 sets logg
 
 Matt Vaughan, Annabelle Gaspar, Dan Azzo
 
-*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/stereogamous/)*
+*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/stereogamous/)*

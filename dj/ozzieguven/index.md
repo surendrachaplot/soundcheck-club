@@ -1,6 +1,6 @@
 # Ozzie Guven
 
-Ozzie Guven is a House and Tech House artist with 3 upcoming club dates listed on soundcheck as of Wed, 16 Sept 2026, next at [UNVRS], Ibiza on Wed, 23 Sept 2026.
+Ozzie Guven is a House and Tech House artist with 3 upcoming club dates listed on soundcheck as of Thu, 17 Sept 2026, next at [UNVRS], Ibiza on Wed, 23 Sept 2026.
 
 Ozzie Guven is a house and tech house artist tracked on soundcheck, with 116 sets logged across Aberdeen, Amsterdam, Auckland and Barcelona and 25 more. Often billed alongside DXNBY, Sidney Charles and Ellia Jaya. Next up: [UNVRS], Ibiza on Wed 23 Sept.
 
@@ -27,4 +27,4 @@ Ozzie Guven is a house and tech house artist tracked on soundcheck, with 116 set
 
 DXNBY, Sidney Charles, Ellia Jaya
 
-*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ozzieguven/)*
+*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ozzieguven/)*

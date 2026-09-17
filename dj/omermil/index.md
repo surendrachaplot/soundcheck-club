@@ -1,6 +1,6 @@
 # Omer Mil
 
-Omer Mil is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 16 Sept 2026, next at Elsewhere, New York City on Sun, 4 Oct 2026.
+Omer Mil is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 17 Sept 2026, next at Elsewhere, New York City on Sun, 4 Oct 2026.
 
 Omer Mil is a house and techno artist based in United States of America, tracked on soundcheck, with 79 sets logged across Mexicocity, Naples and Newyorkcity. Often billed alongside Morgan, Disgonuts and Gui Machado. Next up: Elsewhere, Newyorkcity on Sun 4 Oct.
 
@@ -26,4 +26,4 @@ Omer Mil is a house and techno artist based in United States of America, tracked
 
 Morgan, Disgonuts, Gui Machado
 
-*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/omermil/)*
+*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/omermil/)*

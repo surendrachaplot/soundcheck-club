@@ -1,6 +1,6 @@
 # Yubik
 
-Yubik is a Techno and House artist with 7 upcoming club dates listed on soundcheck as of Wed, 16 Sept 2026, next at Lieberscholli, Munich on Sat, 19 Sept 2026.
+Yubik is a Techno and House artist with 7 upcoming club dates listed on soundcheck as of Thu, 17 Sept 2026, next at Lieberscholli, Munich on Sat, 19 Sept 2026.
 
 Yubik is a techno and house artist tracked on soundcheck, with 46 sets logged across Amsterdam, Barcelona, Berlin and Brussels and 19 more. Often billed alongside 19:26, Davko and Denes Toth. Next up: Lieberscholli, Munich on Sat 19 Sept.
 
@@ -31,4 +31,4 @@ Yubik is a techno and house artist tracked on soundcheck, with 46 sets logged ac
 
 19:26, Davko, Denes Toth
 
-*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/yubik/)*
+*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/yubik/)*

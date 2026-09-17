@@ -1,6 +1,6 @@
 # IT Athens
 
-IT Athens is a music venue in Athens with 9 upcoming nights listed on soundcheck as of Wed, 16 Sept 2026; the next is "After Dark: Red Room by Elegrand" on Fri, 18 Sept 2026.
+IT Athens is a music venue in Athens with 9 upcoming nights listed on soundcheck as of Thu, 17 Sept 2026; the next is "After Dark: Red Room by Elegrand" on Fri, 18 Sept 2026.
 
 IT Athens is a music venue in Athens listed on soundcheck. 9 upcoming nights, with line-ups including 16G., Dom K, Jacopo Sb and LEFTYT and 2 more. Browse upcoming dates, start times and who's playing. Solomou 30 and Mpotasi 9 Street, Athens,10682.
 
@@ -22,4 +22,4 @@ IT Athens is a music venue in Athens listed on soundcheck. 9 upcoming nights, wi
 
 Solomou 30 and Mpotasi 9 Street, Athens,10682, Athens
 
-*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/athens/club/it-athens/)*
+*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/athens/club/it-athens/)*

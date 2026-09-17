@@ -1,6 +1,6 @@
 # Pablo Ruizgalan
 
-Pablo Ruizgalan is a Club and Electronica artist with 1 upcoming club date listed on soundcheck as of Wed, 16 Sept 2026, next at Lasociaciøn, Madrid on Sat, 21 Nov 2026.
+Pablo Ruizgalan is a Club and Electronica artist with 1 upcoming club date listed on soundcheck as of Thu, 17 Sept 2026, next at Lasociaciøn, Madrid on Sat, 21 Nov 2026.
 
 Pablo Ruizgalan is a club and electronica artist tracked on soundcheck, with 16 sets logged across Barcelona and Madrid. Often billed alongside Babu, Betamax_ and Avo (ES). Next up: Lasociaciøn, Madrid on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ Pablo Ruizgalan is a club and electronica artist tracked on soundcheck, with 16 
 
 Babu, Betamax_, Avo (ES)
 
-*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/pabloruizgalan/)*
+*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/pabloruizgalan/)*

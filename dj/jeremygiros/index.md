@@ -1,13 +1,14 @@
 # Jeremy Giros
 
-Jeremy Giros is a House and Afro House artist with 1 upcoming club date listed on soundcheck as of Wed, 16 Sept 2026, next at Dead Letter No. 9, New York City on Sat, 19 Sept 2026.
+Jeremy Giros is a House and Afro House artist with 2 upcoming club dates listed on soundcheck as of Thu, 17 Sept 2026, next at 314 Scholes, New York City on Fri, 18 Sept 2026.
 
-Jeremy Giros is a house and afro house artist tracked on soundcheck, with 68 sets logged across Chicago, Houston, Montreal and Newyorkcity and 2 more. Often billed alongside Bendito, Veecio and Ali Coleman. Next up: Dead Letter No. 9, Newyorkcity on Sat 19 Sept.
+Jeremy Giros is a house and afro house artist tracked on soundcheck, with 69 sets logged across Chicago, Houston, Montreal and Newyorkcity and 2 more. Often billed alongside Bendito, Veecio and Ali Coleman. Next up: 314 Scholes, Newyorkcity on Fri 18 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 18 Sept 2026 | 314 Scholes | New York City |
 | Sat, 19 Sept 2026 | Dead Letter No. 9 | New York City |
 
 ## Recently played
@@ -25,4 +26,4 @@ Jeremy Giros is a house and afro house artist tracked on soundcheck, with 68 set
 
 Bendito, Veecio, Ali Coleman
 
-*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jeremygiros/)*
+*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jeremygiros/)*

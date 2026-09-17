@@ -1,14 +1,14 @@
 # Will Sass
 
-Will Sass is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Wed, 16 Sept 2026, next at H0l0 Yard, New York City on Sun, 27 Sept 2026.
+Will Sass is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Thu, 17 Sept 2026, next at Refuge, New York City on Sun, 27 Sept 2026.
 
-Will Sass is a house and tech house artist tracked on soundcheck, with 7 sets logged across Newyorkcity. Often billed alongside Amtrac, Bastian Bux and Cour T.. Next up: H0l0 Yard, Newyorkcity on Sun 27 Sept.
+Will Sass is a house and tech house artist tracked on soundcheck, with 7 sets logged across Newyorkcity. Often billed alongside Amtrac, Bastian Bux and Cour T.. Next up: Refuge, Newyorkcity on Sun 27 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sun, 27 Sept 2026 | H0l0 Yard | New York City |
+| Sun, 27 Sept 2026 | Refuge | New York City |
 
 ## Recently played
 
@@ -23,4 +23,4 @@ Will Sass is a house and tech house artist tracked on soundcheck, with 7 sets lo
 
 Amtrac, Bastian Bux, Cour T.
 
-*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/willsass/)*
+*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/willsass/)*

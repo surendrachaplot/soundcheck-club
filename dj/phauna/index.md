@@ -1,14 +1,15 @@
 # Phauna
 
-Phauna is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 16 Sept 2026, next at Kater, Berlin on Fri, 18 Sept 2026.
+Phauna is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 17 Sept 2026, next at Kater, Berlin on Fri, 18 Sept 2026.
 
-Phauna is a techno and house artist based in Germany, tracked on soundcheck, with 44 sets logged across Berlin, Hamburg, Leipzig and Munich and 1 more. Often billed alongside Schwirri, BARTi and Rosa Kante. Next up: Kater, Berlin on Fri 18 Sept.
+Phauna is a techno and house artist based in Germany, tracked on soundcheck, with 45 sets logged across Berlin, Hamburg, Leipzig and Munich and 1 more. Often billed alongside Schwirri, BARTi and Rosa Kante. Next up: Kater, Berlin on Fri 18 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 18 Sept 2026 | Kater | Berlin |
+| Sat, 26 Sept 2026 | Mellowpark | Berlin |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Phauna is a techno and house artist based in Germany, tracked on soundcheck, wit
 
 Schwirri, BARTi, Rosa Kante
 
-*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/phauna/)*
+*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/phauna/)*

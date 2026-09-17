@@ -1,6 +1,6 @@
 # Henrik Schwarz
 
-Henrik Schwarz is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Wed, 16 Sept 2026, next at Savaya Bali, Bali on Sat, 19 Sept 2026.
+Henrik Schwarz is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Thu, 17 Sept 2026, next at Savaya Bali, Bali on Sat, 19 Sept 2026.
 
 Henrik Schwarz is a house and techno artist tracked on soundcheck, with 112 sets logged across Amsterdam, Bali, Barcelona and Berlin and 29 more. Often billed alongside Âme, Mano Le Tough and Black Coffee. Next up: Savaya Bali, Bali on Sat 19 Sept.
 
@@ -29,4 +29,4 @@ Henrik Schwarz is a house and techno artist tracked on soundcheck, with 112 sets
 
 Âme, Mano Le Tough, Black Coffee
 
-*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/henrikschwarz/)*
+*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/henrikschwarz/)*

@@ -1,14 +1,15 @@
 # Simon Heyliger
 
-Simon Heyliger is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 16 Sept 2026, next at Green Room NYC, New York City on Thu, 17 Sept 2026.
+Simon Heyliger is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 17 Sept 2026, next at Green Room NYC, New York City on Thu, 17 Sept 2026.
 
-Simon Heyliger is a house and techno artist tracked on soundcheck, with 64 sets logged across Miami, Newyorkcity and Philadelphia. Often billed alongside Morgan, Kiyoshi and Martín Y Corazón. Next up: Green Room NYC, Newyorkcity on Thu 17 Sept.
+Simon Heyliger is a house and techno artist tracked on soundcheck, with 65 sets logged across Miami, Newyorkcity and Philadelphia. Often billed alongside Morgan, Kiyoshi and Martín Y Corazón. Next up: Green Room NYC, Newyorkcity on Thu 17 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Thu, 17 Sept 2026 | Green Room NYC | New York City |
+| Sat, 3 Oct 2026 | Dead Letter No. 9 | New York City |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Simon Heyliger is a house and techno artist tracked on soundcheck, with 64 sets 
 
 Morgan, Kiyoshi, Martín Y Corazón
 
-*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/simonheyliger/)*
+*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/simonheyliger/)*

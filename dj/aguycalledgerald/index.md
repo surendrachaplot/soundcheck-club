@@ -1,6 +1,6 @@
 # A Guy Called Gerald
 
-A Guy Called Gerald is a House and Acid artist with 4 upcoming club dates listed on soundcheck as of Wed, 16 Sept 2026, next at Lux Fragil, Lisbon on Fri, 18 Sept 2026.
+A Guy Called Gerald is a House and Acid artist with 4 upcoming club dates listed on soundcheck as of Thu, 17 Sept 2026, next at Lux Fragil, Lisbon on Fri, 18 Sept 2026.
 
 A Guy Called Gerald is a house and acid artist tracked on soundcheck, with 111 sets logged across Amsterdam, Bali, Bangkok and Barcelona and 35 more. Often billed alongside Will B, gyrofield and Ben UFO. Next up: Lux Fragil, Lisbon on Fri 18 Sept.
 
@@ -28,4 +28,4 @@ A Guy Called Gerald is a house and acid artist tracked on soundcheck, with 111 s
 
 Will B, gyrofield, Ben UFO
 
-*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/aguycalledgerald/)*
+*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/aguycalledgerald/)*

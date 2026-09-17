@@ -1,6 +1,6 @@
 # Patrice Bäumel
 
-Patrice Bäumel is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Wed, 16 Sept 2026, next at TBA - La Biblioteca, San Telmo, Buenos Aires on Fri, 18 Sept 2026.
+Patrice Bäumel is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Thu, 17 Sept 2026, next at TBA - La Biblioteca, San Telmo, Buenos Aires on Fri, 18 Sept 2026.
 
 Patrice Bäumel is a techno and house artist tracked on soundcheck, with 149 sets logged across Amsterdam, Antwerp, Barcelona and Belgrade and 39 more. Often billed alongside Patrice, Sasha and Hernan Cattaneo. Next up: TBA - La Biblioteca, San Telmo, Buenosaires on Fri 18 Sept.
 
@@ -30,4 +30,4 @@ Patrice Bäumel is a techno and house artist tracked on soundcheck, with 149 set
 
 Patrice, Sasha, Hernan Cattaneo
 
-*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/patricebaumel/)*
+*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/patricebaumel/)*

@@ -1,6 +1,6 @@
 # Esther Summer
 
-Esther Summer is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Wed, 16 Sept 2026, next at TBA - ENTITY powered by VOID ACOUSTCS, Madrid on Fri, 18 Sept 2026.
+Esther Summer is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Thu, 17 Sept 2026, next at TBA - ENTITY powered by VOID ACOUSTCS, Madrid on Fri, 18 Sept 2026.
 
 Esther Summer is a techno and tech house artist based in Spain, tracked on soundcheck, with 12 sets logged across Madrid. Often billed alongside Pulpix, 3polar and ADRI.G. Next up: TBA - ENTITY powered by VOID ACOUSTCS, Madrid on Fri 18 Sept.
 
@@ -25,4 +25,4 @@ Esther Summer is a techno and tech house artist based in Spain, tracked on sound
 
 Pulpix, 3polar, ADRI.G
 
-*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/esthersummer/)*
+*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/esthersummer/)*

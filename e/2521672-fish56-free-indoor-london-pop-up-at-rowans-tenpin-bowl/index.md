@@ -1,6 +1,6 @@
 # Fish56 Free indoor London Pop Up at Rowans Tenpin Bowl
 
-Fish56 Free indoor London Pop Up at Rowans Tenpin Bowl on Thu 17 Sept, London. 5 acts on the bill: Fish56Octagon, Gem Precious, Positive_Con and Sharpson and 1 more. House and Garage. Preview the line-up and save it on soundcheck.
+Fish56 Free indoor London Pop Up at Rowans Tenpin Bowl on Thu 17 Sept, London. 6 acts on the bill: Fish56Octagon, Gem Precious, Positive_Con and SAM PHONIC and 2 more. House and Garage. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -13,6 +13,7 @@ Fish56 Free indoor London Pop Up at Rowans Tenpin Bowl on Thu 17 Sept, London. 5
 - Fish56Octagon
 - Gem Precious
 - Positive_Con
+- SAM PHONIC
 - Sharpson
 - tasha.mp4
 

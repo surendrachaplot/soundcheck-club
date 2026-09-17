@@ -1,6 +1,6 @@
 # Praslesh
 
-Praslesh is a Minimal and Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 16 Sept 2026, next at FOLD, London on Fri, 30 Oct 2026.
+Praslesh is a Minimal and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 17 Sept 2026, next at FOLD, London on Fri, 30 Oct 2026.
 
 Praslesh is a minimal and techno artist tracked on soundcheck, with 22 sets logged across Amsterdam, Antwerp, Barcelona and Bucharest and 5 more. Often billed alongside Praslea, Raresh and Colin Chiddle. Next up: FOLD, London on Fri 30 Oct.
 
@@ -26,4 +26,4 @@ Praslesh is a minimal and techno artist tracked on soundcheck, with 22 sets logg
 
 Praslea, Raresh, Colin Chiddle
 
-*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/praslesh/)*
+*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/praslesh/)*

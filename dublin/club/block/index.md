@@ -1,6 +1,6 @@
 # block.
 
-block. is a music venue in Dublin with 9 upcoming nights listed on soundcheck as of Wed, 16 Sept 2026; the next is "Block x Soundmate: Janeret, Bernie & Vandi" on Sat, 19 Sept 2026.
+block. is a music venue in Dublin with 9 upcoming nights listed on soundcheck as of Thu, 17 Sept 2026; the next is "Block x Soundmate: Janeret, Bernie & Vandi" on Sat, 19 Sept 2026.
 
 block. is a music venue in Dublin listed on soundcheck. 9 upcoming nights, with line-ups including bernie soundmate, Ejeca, Enzo Siragusa and Jake Fitz and 2 more. Browse upcoming dates, start times and who's playing. 13-14, Liberty Ln, Portobello.
 
@@ -22,4 +22,4 @@ block. is a music venue in Dublin listed on soundcheck. 9 upcoming nights, with 
 
 13-14, Liberty Ln, Portobello, Dublin
 
-*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dublin/club/block/)*
+*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dublin/club/block/)*

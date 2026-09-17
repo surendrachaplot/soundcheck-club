@@ -1,8 +1,8 @@
 # Eclair Fifi
 
-Eclair Fifi is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Wed, 16 Sept 2026, next at Palais, London on Fri, 18 Sept 2026.
+Eclair Fifi is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Thu, 17 Sept 2026, next at Palais, London on Fri, 18 Sept 2026.
 
-Eclair Fifi is a house and techno artist based in United Kingdom, tracked on soundcheck, with 108 sets logged across Amsterdam, Antwerp, Auckland and Barcelona and 24 more. Often billed alongside TSHA, LWS and Optimo (Espacio). Next up: Palais, London on Fri 18 Sept.
+Eclair Fifi is a house and techno artist based in United Kingdom, tracked on soundcheck, with 109 sets logged across Amsterdam, Antwerp, Auckland and Barcelona and 24 more. Often billed alongside TSHA, LWS and Optimo (Espacio). Next up: Palais, London on Fri 18 Sept.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Eclair Fifi is a house and techno artist based in United Kingdom, tracked on sou
 | --- | --- | --- |
 | Fri, 18 Sept 2026 | Palais | London |
 | Sat, 19 Sept 2026 | TBA - Secret Location, Edinburgh | Edinburgh |
+| Fri, 25 Sept 2026 | Lost Horizon | Bristol |
 | Fri, 2 Oct 2026 | La Cheetah Club | Glasgow |
 
 ## Recently played
@@ -27,4 +28,4 @@ Eclair Fifi is a house and techno artist based in United Kingdom, tracked on sou
 
 TSHA, LWS, Optimo (Espacio)
 
-*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/eclairfifi/)*
+*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/eclairfifi/)*

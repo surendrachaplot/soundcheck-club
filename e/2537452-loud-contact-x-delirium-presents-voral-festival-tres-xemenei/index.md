@@ -1,6 +1,6 @@
-# Loud-Contact X Delirium presents Voral Festival-Tres Xemeneies at Las Tres Chimeneas
+# Loud-Contact X Delirium presents VORAL festival-Tres Xemeneis at Las Tres Chimeneas
 
-Loud-Contact X Delirium presents Voral Festival-Tres Xemeneies at Las Tres Chimeneas on Sat 31 Oct, Barcelona. 10 acts on the bill: C.ru.z, Christian AB, John Talabot and Lumiere and 6 more. Preview the line-up and save it on soundcheck.
+Loud-Contact X Delirium presents VORAL festival-Tres Xemeneis at Las Tres Chimeneas on Sat 31 Oct, Barcelona. 10 acts on the bill: C.ru.z, Christian AB, John Talabot and Lumiere and 6 more. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

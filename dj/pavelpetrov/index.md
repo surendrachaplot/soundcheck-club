@@ -1,6 +1,6 @@
 # Pavel Petrov
 
-Pavel Petrov is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Wed, 16 Sept 2026, next at TBA - Club Araoz, Palermo, Buenos Aires on Fri, 25 Sept 2026.
+Pavel Petrov is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Thu, 17 Sept 2026, next at TBA - Club Araoz, Palermo, Buenos Aires on Fri, 25 Sept 2026.
 
 Pavel Petrov is a techno and tech house artist tracked on soundcheck, with 38 sets logged across Amsterdam, Belgrade, Berlin and Buenosaires and 20 more. Often billed alongside Korenberg, Oliver Koletzki and Undercatt. Next up: TBA - Club Araoz, Palermo, Buenosaires on Fri 25 Sept.
 
@@ -25,4 +25,4 @@ Pavel Petrov is a techno and tech house artist tracked on soundcheck, with 38 se
 
 Korenberg, Oliver Koletzki, Undercatt
 
-*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/pavelpetrov/)*
+*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/pavelpetrov/)*

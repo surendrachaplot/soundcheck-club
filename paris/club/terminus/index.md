@@ -1,6 +1,6 @@
 # Terminus
 
-Terminus is a music venue in Paris with 1 upcoming night listed on soundcheck as of Wed, 16 Sept 2026; the next is "Terminus INVITE SAPHIRELEFLEUR - ZAZA - 1FAM & MORE" on Sat, 19 Sept 2026.
+Terminus is a music venue in Paris with 1 upcoming night listed on soundcheck as of Thu, 17 Sept 2026; the next is "Terminus INVITE SAPHIRELEFLEUR - ZAZA - 1FAM & MORE" on Sat, 19 Sept 2026.
 
 Terminus is a music venue in Paris listed on soundcheck. 1 upcoming night. Browse upcoming dates, start times and who's playing. 100 av du general Leclerc, Pantin.
 
@@ -14,4 +14,4 @@ Terminus is a music venue in Paris listed on soundcheck. 1 upcoming night. Brows
 
 100 av du general Leclerc, Pantin, Paris
 
-*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/paris/club/terminus/)*
+*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/paris/club/terminus/)*

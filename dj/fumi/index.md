@@ -1,19 +1,19 @@
 # FUMI
 
-FUMI is a Techno and Industrial artist with 3 upcoming club dates listed on soundcheck as of Wed, 16 Sept 2026, next at Rex Club, Paris on Wed, 16 Sept 2026.
+FUMI is a Techno and Industrial artist with 2 upcoming club dates listed on soundcheck as of Thu, 17 Sept 2026, next at Theata, London on Sat, 26 Sept 2026.
 
-FUMI is a techno and industrial artist tracked on soundcheck, with 96 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 26 more. Often billed alongside EVE (1), Monk000 and Adrian Mills. Next up: Rex Club, Paris on Wed 16 Sept.
+FUMI is a techno and industrial artist tracked on soundcheck, with 96 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 26 more. Often billed alongside EVE (1), Monk000 and Adrian Mills. Next up: Theata, London on Sat 26 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Wed, 16 Sept 2026 | Rex Club | Paris |
 | Sat, 26 Sept 2026 | Theata | London |
 | Fri, 16 Oct 2026 | Arzenal | Budapest |
 
 ## Recently played
 
+- Rex Club, Paris — Wed, 16 Sept 2026
 - Eden, Ibiza — Tue, 1 Sept 2026
 - Camelot, Tokyo — Sat, 29 Aug 2026
 - Dürener Badesee, Cologne — Fri, 28 Aug 2026
@@ -21,10 +21,9 @@ FUMI is a techno and industrial artist tracked on soundcheck, with 96 sets logge
 - ZEROTOKYO, Tokyo — Mon, 10 Aug 2026
 - Munich Beach Resort, Munich — Sat, 8 Aug 2026
 - Lion Super Club, Seoul — Sat, 8 Aug 2026
-- TBA - Paradies Garten Festival - Schloß Prugg 2, 2460 Gemeinde Bruck an der Leitha, Vienna — Fri, 31 Jul 2026
 
 ## Shares bills with
 
 EVE (1), Monk000, Adrian Mills
 
-*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/fumi/)*
+*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/fumi/)*

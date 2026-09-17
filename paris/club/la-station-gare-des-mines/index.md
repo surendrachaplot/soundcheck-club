@@ -1,8 +1,8 @@
 # La Station - Gare des Mines
 
-La Station - Gare des Mines is a music venue in Paris with 13 upcoming nights listed on soundcheck as of Wed, 16 Sept 2026; the next is "PUNK ISSUES #4 · Leona Jacewska LIVE + Lila Ehjä LIVE" on Fri, 18 Sept 2026.
+La Station - Gare des Mines is a music venue in Paris with 14 upcoming nights listed on soundcheck as of Thu, 17 Sept 2026; the next is "PUNK ISSUES #4 · Leona Jacewska LIVE + Lila Ehjä LIVE" on Fri, 18 Sept 2026.
 
-La Station - Gare des Mines is a music venue in Paris listed on soundcheck. 13 upcoming nights, with line-ups including 1LDK, Amnesia Scanner, Bambii and Brodinski and 2 more. Browse upcoming dates, start times and who's playing. 29 avenue de la Porte d’Aubervilliers Paris.
+La Station - Gare des Mines is a music venue in Paris listed on soundcheck. 14 upcoming nights, with line-ups including 1LDK, A.Litique, Amnesia Scanner and Bambii and 2 more. Browse upcoming dates, start times and who's playing. 29 avenue de la Porte d’Aubervilliers Paris.
 
 ## What's on
 
@@ -23,4 +23,4 @@ La Station - Gare des Mines is a music venue in Paris listed on soundcheck. 13 u
 
 29 avenue de la Porte d’Aubervilliers Paris, Paris
 
-*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/paris/club/la-station-gare-des-mines/)*
+*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/paris/club/la-station-gare-des-mines/)*

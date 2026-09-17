@@ -1,6 +1,6 @@
 # Strange Brew
 
-Strange Brew is a music venue in Bristol with 12 upcoming nights listed on soundcheck as of Wed, 16 Sept 2026; the next is "James Ruskin: 30 Years of Blueprint" on Fri, 18 Sept 2026.
+Strange Brew is a music venue in Bristol with 12 upcoming nights listed on soundcheck as of Thu, 17 Sept 2026; the next is "James Ruskin: 30 Years of Blueprint" on Fri, 18 Sept 2026.
 
 Strange Brew is a music venue in Bristol listed on soundcheck. 12 upcoming nights, with line-ups including Aba Shanti-I, Addsound, Anina and Burly Chassis and 2 more. Browse upcoming dates, start times and who's playing. 10-12 Fairfax Street, Bristol, BS1 3DB.
 
@@ -23,4 +23,4 @@ Strange Brew is a music venue in Bristol listed on soundcheck. 12 upcoming night
 
 10-12 Fairfax Street, Bristol, BS1 3DB, Bristol
 
-*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/bristol/club/strange-brew/)*
+*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/bristol/club/strange-brew/)*

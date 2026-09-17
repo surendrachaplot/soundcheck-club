@@ -1,6 +1,6 @@
 # Surferboy
 
-Surferboy is a House and Garage artist with 2 upcoming club dates listed on soundcheck as of Wed, 16 Sept 2026, next at Yamamori Tengu, Dublin on Thu, 15 Oct 2026.
+Surferboy is a House and Garage artist with 2 upcoming club dates listed on soundcheck as of Thu, 17 Sept 2026, next at Yamamori Tengu, Dublin on Thu, 15 Oct 2026.
 
 Surferboy is a house and garage artist tracked on soundcheck, with 25 sets logged across Dublin, London, Paris and Utrecht. Often billed alongside Neo Cortex, Enclave (2) and Jenn Hession. Next up: Yamamori Tengu, Dublin on Thu 15 Oct.
 
@@ -26,4 +26,4 @@ Surferboy is a house and garage artist tracked on soundcheck, with 25 sets logge
 
 Neo Cortex, Enclave (2), Jenn Hession
 
-*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/surferboy/)*
+*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/surferboy/)*

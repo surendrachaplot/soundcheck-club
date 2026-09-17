@@ -1,6 +1,6 @@
 # Rosie's Bar
 
-Rosie's Bar is a music venue in Berlin with 1 upcoming night listed on soundcheck as of Wed, 16 Sept 2026; the next is "!FREE ENTRY! Rosie's Bar presents: NTT Records X Rosie's Bar - Guyrot (All Night Long)" on Fri, 18 Sept 2026.
+Rosie's Bar is a music venue in Berlin with 1 upcoming night listed on soundcheck as of Thu, 17 Sept 2026; the next is "!FREE ENTRY! Rosie's Bar presents: NTT Records X Rosie's Bar - Guyrot (All Night Long)" on Fri, 18 Sept 2026.
 
 Rosie's Bar is a music venue in Berlin listed on soundcheck. 1 upcoming night. Browse upcoming dates, start times and who's playing. Weinbergsweg 1a, Rosenthaler Platz, 10119 Berlin.
 
@@ -14,4 +14,4 @@ Rosie's Bar is a music venue in Berlin listed on soundcheck. 1 upcoming night. B
 
 Weinbergsweg 1a, Rosenthaler Platz, 10119 Berlin, Berlin
 
-*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/rosie-s-bar/)*
+*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/rosie-s-bar/)*

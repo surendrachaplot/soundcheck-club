@@ -1,14 +1,13 @@
 # Locky
 
-Locky is a House and Tech House artist with 11 upcoming club dates listed on soundcheck as of Wed, 16 Sept 2026, next at [UNVRS], Ibiza on Wed, 16 Sept 2026.
+Locky is a House and Tech House artist with 10 upcoming club dates listed on soundcheck as of Thu, 17 Sept 2026, next at Openluchttheater Amersfoort, Amsterdam on Fri, 18 Sept 2026.
 
-Locky is a house and tech house artist tracked on soundcheck, with 145 sets logged across Amsterdam, Barcelona, Belgrade and Birmingham and 26 more. Often billed alongside Mad.Again (2), Luke Dean_ and Liam Palmer. Next up: [UNVRS], Ibiza on Wed 16 Sept.
+Locky is a house and tech house artist tracked on soundcheck, with 145 sets logged across Amsterdam, Barcelona, Belgrade and Birmingham and 26 more. Often billed alongside Mad.Again (2), Luke Dean_ and Liam Palmer. Next up: Openluchttheater Amersfoort, Amsterdam on Fri 18 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Wed, 16 Sept 2026 | [UNVRS] | Ibiza |
 | Fri, 18 Sept 2026 | Openluchttheater Amersfoort | Amsterdam |
 | Fri, 18 Sept 2026 | UNO MALTA | Malta |
 | Sat, 26 Sept 2026 | Blackstone Street Warehouse | Liverpool |
@@ -22,6 +21,7 @@ Locky is a house and tech house artist tracked on soundcheck, with 145 sets logg
 
 ## Recently played
 
+- [UNVRS], Ibiza — Wed, 16 Sept 2026
 - Beach House San Diego, San Diego — Sun, 13 Sept 2026
 - Descent, Boston — Sat, 12 Sept 2026
 - Descent, Boston — Sat, 12 Sept 2026
@@ -29,10 +29,9 @@ Locky is a house and tech house artist tracked on soundcheck, with 145 sets logg
 - 528 Ibiza, Ibiza — Fri, 4 Sept 2026
 - [UNVRS], Ibiza — Wed, 2 Sept 2026
 - fabric, London — Sun, 30 Aug 2026
-- Kelvedon Hall, London — Sat, 29 Aug 2026
 
 ## Shares bills with
 
 Mad.Again (2), Luke Dean_, Liam Palmer
 
-*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/locky/)*
+*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/locky/)*

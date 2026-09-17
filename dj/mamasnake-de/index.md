@@ -1,6 +1,6 @@
 # Mama Snake
 
-Mama Snake is a Techno and Trance artist with 5 upcoming club dates listed on soundcheck as of Wed, 16 Sept 2026, next at BASEMENT, New York City on Fri, 18 Sept 2026.
+Mama Snake is a Techno and Trance artist with 5 upcoming club dates listed on soundcheck as of Thu, 17 Sept 2026, next at BASEMENT, New York City on Fri, 18 Sept 2026.
 
 Mama Snake is a techno and trance artist tracked on soundcheck, with 202 sets logged across Amsterdam, Antwerp, Barcelona and Basel and 52 more. Often billed alongside Spekki Webu, BASHKKA and DJ TOOL. Next up: BASEMENT, Newyorkcity on Fri 18 Sept.
 
@@ -29,4 +29,4 @@ Mama Snake is a techno and trance artist tracked on soundcheck, with 202 sets lo
 
 Spekki Webu, BASHKKA, DJ TOOL
 
-*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mamasnake-de/)*
+*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mamasnake-de/)*

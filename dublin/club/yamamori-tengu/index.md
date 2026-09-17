@@ -1,6 +1,6 @@
 # Yamamori Tengu
 
-Yamamori Tengu is a music venue in Dublin with 27 upcoming nights listed on soundcheck as of Wed, 16 Sept 2026; the next is "IADT Freshers Ball" on Thu, 17 Sept 2026.
+Yamamori Tengu is a music venue in Dublin with 27 upcoming nights listed on soundcheck as of Thu, 17 Sept 2026; the next is "IADT Freshers Ball" on Thu, 17 Sept 2026.
 
 Yamamori Tengu is a music venue in Dublin listed on soundcheck. 27 upcoming nights, with line-ups including 2manycolours, A For Alpha, Alba (2) and Ambit and 2 more. Browse upcoming dates, start times and who's playing. 37 Strand Street Great, North City, Dublin 1, Ireland.
 
@@ -23,4 +23,4 @@ Yamamori Tengu is a music venue in Dublin listed on soundcheck. 27 upcoming nigh
 
 37 Strand Street Great, North City, Dublin 1, Ireland, Dublin
 
-*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dublin/club/yamamori-tengu/)*
+*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dublin/club/yamamori-tengu/)*

@@ -1,6 +1,6 @@
 # Fire
 
-Fire is a music venue in London with 8 upcoming nights listed on soundcheck as of Wed, 16 Sept 2026; the next is "Sin featuring the Contact Room Play zone" on Fri, 18 Sept 2026.
+Fire is a music venue in London with 8 upcoming nights listed on soundcheck as of Thu, 17 Sept 2026; the next is "Sin featuring the Contact Room Play zone" on Fri, 18 Sept 2026.
 
 Fire is a music venue in London listed on soundcheck. 8 upcoming nights, with line-ups including DJ Millz, Fatman D, Harry Shotta and Majistrate and 2 more. Browse upcoming dates, start times and who's playing. 39 Parry Street, South Lambeth Road, London, SW8 1RT.
 
@@ -21,4 +21,4 @@ Fire is a music venue in London listed on soundcheck. 8 upcoming nights, with li
 
 39 Parry Street, South Lambeth Road, London, SW8 1RT, London
 
-*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/fire/)*
+*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/fire/)*

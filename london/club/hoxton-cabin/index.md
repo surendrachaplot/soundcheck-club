@@ -1,6 +1,6 @@
 # Hoxton Cabin
 
-Hoxton Cabin is a music venue in London with 6 upcoming nights listed on soundcheck as of Wed, 16 Sept 2026; the next is "Groovin' Moovin'" on Fri, 18 Sept 2026.
+Hoxton Cabin is a music venue in London with 6 upcoming nights listed on soundcheck as of Thu, 17 Sept 2026; the next is "Groovin' Moovin'" on Fri, 18 Sept 2026.
 
 Hoxton Cabin is a music venue in London listed on soundcheck. 6 upcoming nights, with line-ups including Benebe, Calypso High, Cecilia Ena and DJ Migz and 2 more. Browse upcoming dates, start times and who's playing. 132 Kingsland Rd, London E2 8DP, United Kingdom.
 
@@ -19,4 +19,4 @@ Hoxton Cabin is a music venue in London listed on soundcheck. 6 upcoming nights,
 
 132 Kingsland Rd, London E2 8DP, United Kingdom, London
 
-*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/hoxton-cabin/)*
+*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/hoxton-cabin/)*

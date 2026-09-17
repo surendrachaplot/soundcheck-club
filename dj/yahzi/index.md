@@ -1,6 +1,6 @@
 # Yahzi
 
-Yahzi is a Tech House and Minimal Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 16 Sept 2026, next at La Java, Paris on Sat, 10 Oct 2026.
+Yahzi is a Tech House and Minimal Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 17 Sept 2026, next at La Java, Paris on Sat, 10 Oct 2026.
 
 Yahzi is a tech house and minimal techno artist tracked on soundcheck, with 17 sets logged across London and Paris. Often billed alongside Vons (FR), Hottwins and Alex Geslin. Next up: La Java, Paris on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ Yahzi is a tech house and minimal techno artist tracked on soundcheck, with 17 s
 
 Vons (FR), Hottwins, Alex Geslin
 
-*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/yahzi/)*
+*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/yahzi/)*

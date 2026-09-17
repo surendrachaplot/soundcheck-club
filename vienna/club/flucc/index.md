@@ -1,6 +1,6 @@
 # FLUCC
 
-FLUCC is a music venue in Vienna with 7 upcoming nights listed on soundcheck as of Wed, 16 Sept 2026; the next is "Sniffin´ Glue" on Fri, 25 Sept 2026.
+FLUCC is a music venue in Vienna with 7 upcoming nights listed on soundcheck as of Thu, 17 Sept 2026; the next is "Sniffin´ Glue" on Fri, 25 Sept 2026.
 
 FLUCC is a music venue in Vienna listed on soundcheck. 7 upcoming nights, with line-ups including A.Pringle, Ele Luz, Franjazzco and KAROLINA and 2 more. Browse upcoming dates, start times and who's playing. Praterstern 5; Vienna 1020; Austria.
 
@@ -20,4 +20,4 @@ FLUCC is a music venue in Vienna listed on soundcheck. 7 upcoming nights, with l
 
 Praterstern 5; Vienna 1020; Austria, Vienna
 
-*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/vienna/club/flucc/)*
+*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/vienna/club/flucc/)*

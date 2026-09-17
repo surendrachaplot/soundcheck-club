@@ -1,13 +1,14 @@
 # Restricted
 
-Restricted is a Techno and Hardcore artist with 8 upcoming club dates listed on soundcheck as of Wed, 16 Sept 2026, next at Royale, Boston on Sat, 17 Oct 2026.
+Restricted is a Techno and Hardcore artist with 9 upcoming club dates listed on soundcheck as of Thu, 17 Sept 2026, next at Revolver Upstairs, Melbourne on Sun, 20 Sept 2026.
 
-Restricted is a techno and hardcore artist tracked on soundcheck, with 73 sets logged across Amsterdam, Antwerp, Athens and Austin and 41 more. Often billed alongside Azyr, JAZZY (2) and Nikolina. Next up: Royale, Boston on Sat 17 Oct.
+Restricted is a techno and hardcore artist tracked on soundcheck, with 74 sets logged across Amsterdam, Antwerp, Athens and Austin and 42 more. Often billed alongside Azyr, JAZZY (2) and Nikolina. Next up: Revolver Upstairs, Melbourne on Sun 20 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sun, 20 Sept 2026 | Revolver Upstairs | Melbourne |
 | Sat, 17 Oct 2026 | Royale | Boston |
 | Fri, 23 Oct 2026 | SOMA | San Diego |
 | Fri, 30 Oct 2026 | Travis County Exposition Center | Austin |
@@ -32,4 +33,4 @@ Restricted is a techno and hardcore artist tracked on soundcheck, with 73 sets l
 
 Azyr, JAZZY (2), Nikolina
 
-*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/restricted/)*
+*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/restricted/)*

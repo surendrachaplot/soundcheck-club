@@ -1,6 +1,6 @@
 # kasetakumi (2)
 
-kasetakumi (2) is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 16 Sept 2026, next at Azumaya, Tokyo on Tue, 22 Sept 2026.
+kasetakumi (2) is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 17 Sept 2026, next at Azumaya, Tokyo on Tue, 22 Sept 2026.
 
 kasetakumi (2) is a house and techno artist based in Japan, tracked on soundcheck, with 28 sets logged across Kyoto and Tokyo. Often billed alongside YELLOWUHURU, arow and DJ melody. Next up: Azumaya, Tokyo on Tue 22 Sept.
 
@@ -25,4 +25,4 @@ kasetakumi (2) is a house and techno artist based in Japan, tracked on soundchec
 
 YELLOWUHURU, arow, DJ melody
 
-*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kasetakumi-2/)*
+*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kasetakumi-2/)*

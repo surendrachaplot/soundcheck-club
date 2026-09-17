@@ -1,6 +1,6 @@
 # M-Cecile
 
-M-Cecile is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 16 Sept 2026, next at Noorderlicht Café, Amsterdam on Wed, 21 Oct 2026.
+M-Cecile is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 17 Sept 2026, next at Noorderlicht Café, Amsterdam on Wed, 21 Oct 2026.
 
 M-Cecile is a techno and house artist based in Netherlands, tracked on soundcheck, with 5 sets logged across Amsterdam. Often billed alongside Brian S., sucre. and Angelo D'onorio. Next up: Noorderlicht Café, Amsterdam on Wed 21 Oct.
 
@@ -21,4 +21,4 @@ M-Cecile is a techno and house artist based in Netherlands, tracked on soundchec
 
 Brian S., sucre., Angelo D'onorio
 
-*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/m-cecile/)*
+*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/m-cecile/)*

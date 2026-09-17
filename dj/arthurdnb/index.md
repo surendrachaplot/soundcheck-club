@@ -1,18 +1,18 @@
 # ArthurDnB
 
-ArthurDnB is a Drum & Bass and Jungle artist with 2 upcoming club dates listed on soundcheck as of Wed, 16 Sept 2026, next at Inn Deep, Glasgow on Wed, 16 Sept 2026.
+ArthurDnB is a Drum & Bass and Jungle artist with 1 upcoming club date listed on soundcheck as of Thu, 17 Sept 2026, next at La Cheetah Club, Glasgow on Fri, 25 Sept 2026.
 
-ArthurDnB is a drum & bass and jungle artist based in United Kingdom, tracked on soundcheck, with 8 sets logged across Glasgow. Often billed alongside SOLECTA, Corran and Hex (UK). Next up: Inn Deep, Glasgow on Wed 16 Sept.
+ArthurDnB is a drum & bass and jungle artist based in United Kingdom, tracked on soundcheck, with 8 sets logged across Glasgow. Often billed alongside SOLECTA, Corran and Hex (UK). Next up: La Cheetah Club, Glasgow on Fri 25 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Wed, 16 Sept 2026 | Inn Deep | Glasgow |
 | Fri, 25 Sept 2026 | La Cheetah Club | Glasgow |
 
 ## Recently played
 
+- Inn Deep, Glasgow — Wed, 16 Sept 2026
 - The Art School, Glasgow — Sat, 20 Jun 2026
 - Sub Club, Glasgow — Fri, 5 Jun 2026
 - Sub Club, Glasgow — Fri, 3 Apr 2026
@@ -24,4 +24,4 @@ ArthurDnB is a drum & bass and jungle artist based in United Kingdom, tracked on
 
 SOLECTA, Corran, Hex (UK)
 
-*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/arthurdnb/)*
+*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/arthurdnb/)*

@@ -1,8 +1,8 @@
 # KARISH
 
-KARISH is a Trance and Techno artist with 3 upcoming club dates listed on soundcheck as of Wed, 16 Sept 2026, next at Lokschuppen Berlin, Berlin on Fri, 2 Oct 2026.
+KARISH is a Trance and Techno artist with 4 upcoming club dates listed on soundcheck as of Thu, 17 Sept 2026, next at Lokschuppen Berlin, Berlin on Fri, 2 Oct 2026.
 
-KARISH is a trance and techno artist based in Netherlands, tracked on soundcheck, with 18 sets logged across Amsterdam, Barcelona, Berlin and Cologne and 2 more. Often billed alongside Niotech, 3LEEZA and VAENT. Next up: Lokschuppen Berlin, Berlin on Fri 2 Oct.
+KARISH is a trance and techno artist based in Netherlands, tracked on soundcheck, with 19 sets logged across Amsterdam, Barcelona, Berlin and Cologne and 2 more. Often billed alongside Niotech, two girls one mom and 3LEEZA. Next up: Lokschuppen Berlin, Berlin on Fri 2 Oct.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ KARISH is a trance and techno artist based in Netherlands, tracked on soundcheck
 | --- | --- | --- |
 | Fri, 2 Oct 2026 | Lokschuppen Berlin | Berlin |
 | Fri, 6 Nov 2026 | RSO.BERLIN | Berlin |
+| Tue, 10 Nov 2026 | Mia Mao | Paris |
 | Fri, 20 Nov 2026 | OST | Berlin |
 
 ## Recently played
@@ -25,6 +26,6 @@ KARISH is a trance and techno artist based in Netherlands, tracked on soundcheck
 
 ## Shares bills with
 
-Niotech, 3LEEZA, VAENT
+Niotech, two girls one mom, 3LEEZA
 
-*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/karish/)*
+*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/karish/)*

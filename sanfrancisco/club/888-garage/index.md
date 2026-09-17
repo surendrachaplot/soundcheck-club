@@ -1,6 +1,6 @@
 # 888 Garage
 
-888 Garage is a music venue in San Francisco/Oakland with 4 upcoming nights listed on soundcheck as of Wed, 16 Sept 2026; the next is "Da Tweekaz" on Sat, 19 Sept 2026.
+888 Garage is a music venue in San Francisco/Oakland with 4 upcoming nights listed on soundcheck as of Thu, 17 Sept 2026; the next is "Da Tweekaz" on Sat, 19 Sept 2026.
 
 888 Garage is a music venue in Sanfrancisco listed on soundcheck. 4 upcoming nights, with line-ups including ANDYLAND, DJ SEXSTASY, Fatboy Slim and Neil Frances and 2 more. Browse upcoming dates, start times and who's playing. 888 Marin St, San Francisco, CA 94124.
 
@@ -17,4 +17,4 @@
 
 888 Marin St, San Francisco, CA 94124, San Francisco/Oakland
 
-*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/888-garage/)*
+*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/888-garage/)*

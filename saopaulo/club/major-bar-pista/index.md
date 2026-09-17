@@ -1,14 +1,13 @@
 # Major Bar & Pista
 
-Major Bar & Pista is a music venue in Sao Paulo with 9 upcoming nights listed on soundcheck as of Wed, 16 Sept 2026; the next is "Major recebe L_cio" on Wed, 16 Sept 2026.
+Major Bar & Pista is a music venue in Sao Paulo with 8 upcoming nights listed on soundcheck as of Thu, 17 Sept 2026; the next is "Major recebe Soul Diggin" on Thu, 17 Sept 2026.
 
-Major Bar & Pista is a music venue in Saopaulo listed on soundcheck. 9 upcoming nights. Browse upcoming dates, start times and who's playing. Rua Major Sertório, 347.
+Major Bar & Pista is a music venue in Saopaulo listed on soundcheck. 8 upcoming nights. Browse upcoming dates, start times and who's playing. Rua Major Sertório, 347.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Wed, 16 Sept 2026 | Major recebe L_cio |  |
 | Thu, 17 Sept 2026 | Major recebe Soul Diggin |  |
 | Fri, 18 Sept 2026 | Major recebe Moita |  |
 | Sat, 19 Sept 2026 | Major recebe Chãnce da Silva |  |
@@ -22,4 +21,4 @@ Major Bar & Pista is a music venue in Saopaulo listed on soundcheck. 9 upcoming 
 
 Rua Major Sertório, 347, Sao Paulo
 
-*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/saopaulo/club/major-bar-pista/)*
+*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/saopaulo/club/major-bar-pista/)*

@@ -1,6 +1,6 @@
 # Alexej
 
-Alexej is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 16 Sept 2026, next at Villa Viva, Hamburg on Fri, 18 Sept 2026.
+Alexej is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 17 Sept 2026, next at Villa Viva, Hamburg on Fri, 18 Sept 2026.
 
 Alexej is a house and techno artist based in Germany, tracked on soundcheck, with 16 sets logged across Hamburg. Often billed alongside CHICHO, JASHTECH and Pamadii. Next up: Villa Viva, Hamburg on Fri 18 Sept.
 
@@ -25,4 +25,4 @@ Alexej is a house and techno artist based in Germany, tracked on soundcheck, wit
 
 CHICHO, JASHTECH, Pamadii
 
-*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/alexej/)*
+*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/alexej/)*

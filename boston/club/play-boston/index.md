@@ -1,6 +1,6 @@
 # Play Boston
 
-Play Boston is a music venue in Boston with 2 upcoming nights listed on soundcheck as of Wed, 16 Sept 2026; the next is "F*CK MONDAYS Pt 3 (18+)" on Mon, 21 Sept 2026.
+Play Boston is a music venue in Boston with 2 upcoming nights listed on soundcheck as of Thu, 17 Sept 2026; the next is "F*CK MONDAYS Pt 3 (18+)" on Mon, 21 Sept 2026.
 
 Play Boston is a music venue in Boston listed on soundcheck. 2 upcoming nights. Browse upcoming dates, start times and who's playing. 110 Causeway St, Boston, MA 02114.
 
@@ -15,4 +15,4 @@ Play Boston is a music venue in Boston listed on soundcheck. 2 upcoming nights. 
 
 110 Causeway St, Boston, MA 02114, Boston
 
-*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/boston/club/play-boston/)*
+*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/boston/club/play-boston/)*

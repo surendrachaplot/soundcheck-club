@@ -1,14 +1,15 @@
 # Ricardo Roessel
 
-Ricardo Roessel is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 16 Sept 2026, next at TBA, Chicago on Sat, 26 Sept 2026.
+Ricardo Roessel is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Thu, 17 Sept 2026, next at TBA, Chicago on Sat, 26 Sept 2026.
 
-Ricardo Roessel is a house and techno artist tracked on soundcheck, with 72 sets logged across Berlin, Chicago, Copenhagen and Denver and 10 more. Often billed alongside Crisco, Ika (GE) and Usherenko. Next up: TBA, Chicago on Sat 26 Sept.
+Ricardo Roessel is a house and techno artist tracked on soundcheck, with 73 sets logged across Berlin, Chicago, Copenhagen and Denver and 10 more. Often billed alongside Crisco, Ika (GE) and Usherenko. Next up: TBA, Chicago on Sat 26 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 26 Sept 2026 | TBA | Chicago |
+| Sun, 11 Oct 2026 | La Chinesca | Philadelphia |
 | Sat, 31 Oct 2026 | TBA - Arts District LA | Los Angeles |
 
 ## Recently played
@@ -26,4 +27,4 @@ Ricardo Roessel is a house and techno artist tracked on soundcheck, with 72 sets
 
 Crisco, Ika (GE), Usherenko
 
-*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ricardoroessel-us/)*
+*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ricardoroessel-us/)*

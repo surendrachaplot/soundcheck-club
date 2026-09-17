@@ -1,6 +1,6 @@
 # Funke
 
-Funke is a music venue in Ghent with 4 upcoming nights listed on soundcheck as of Wed, 16 Sept 2026; the next is "Funke_Lefto all night long" on Fri, 18 Sept 2026.
+Funke is a music venue in Ghent with 4 upcoming nights listed on soundcheck as of Thu, 17 Sept 2026; the next is "Funke_Lefto all night long" on Fri, 18 Sept 2026.
 
 Funke is a music venue in Ghent listed on soundcheck. 4 upcoming nights, with line-ups including Ampe, Berthold (1), BLANKA and Bobbi Watson and 2 more. Browse upcoming dates, start times and who's playing. Bij Sint-Jacobs 13, 9000 Gent.
 
@@ -17,4 +17,4 @@ Funke is a music venue in Ghent listed on soundcheck. 4 upcoming nights, with li
 
 Bij Sint-Jacobs 13, 9000 Gent, Ghent
 
-*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/ghent/club/funke/)*
+*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/ghent/club/funke/)*

@@ -1,6 +1,6 @@
 # DJ Majesty
 
-DJ Majesty is a Tech House and Afro House artist with 5 upcoming club dates listed on soundcheck as of Wed, 16 Sept 2026, next at The Cause, London on Sun, 27 Sept 2026.
+DJ Majesty is a Tech House and Afro House artist with 5 upcoming club dates listed on soundcheck as of Thu, 17 Sept 2026, next at The Cause, London on Sun, 27 Sept 2026.
 
 DJ Majesty is a tech house and afro house artist tracked on soundcheck, with 81 sets logged across London. Often billed alongside JAYDAA, Jerome Six and Steven Cee. Next up: The Cause, London on Sun 27 Sept.
 
@@ -29,4 +29,4 @@ DJ Majesty is a tech house and afro house artist tracked on soundcheck, with 81 
 
 JAYDAA, Jerome Six, Steven Cee
 
-*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djmajesty/)*
+*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djmajesty/)*

@@ -1,6 +1,6 @@
 # Low Steppa
 
-Low Steppa is a House and Tech House artist with 5 upcoming club dates listed on soundcheck as of Wed, 16 Sept 2026, next at Ushuaïa Ibiza, Ibiza on Thu, 17 Sept 2026.
+Low Steppa is a House and Tech House artist with 5 upcoming club dates listed on soundcheck as of Thu, 17 Sept 2026, next at Ushuaïa Ibiza, Ibiza on Thu, 17 Sept 2026.
 
 Low Steppa is a house and tech house artist based in United Kingdom, tracked on soundcheck, with 81 sets logged across Amsterdam, Bali, Brisbane and Bristol and 22 more. Often billed alongside Sam Divine, Arielle Free and Ferreck Dawn. Next up: Ushuaïa Ibiza, Ibiza on Thu 17 Sept.
 
@@ -29,4 +29,4 @@ Low Steppa is a house and tech house artist based in United Kingdom, tracked on 
 
 Sam Divine, Arielle Free, Ferreck Dawn
 
-*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lowsteppa-uk/)*
+*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lowsteppa-uk/)*

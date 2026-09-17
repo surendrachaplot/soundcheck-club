@@ -1,6 +1,6 @@
 # Kelly B
 
-Kelly B is a Trance and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 16 Sept 2026, next at EL SÓTANO, Madrid on Sun, 11 Oct 2026.
+Kelly B is a Trance and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 17 Sept 2026, next at EL SÓTANO, Madrid on Sun, 11 Oct 2026.
 
 Kelly B is a trance and techno artist tracked on soundcheck, with 7 sets logged across London, Madrid and Milan. Often billed alongside Arok Shiva, BADBOX and Billy Cocks. Next up: EL SÓTANO, Madrid on Sun 11 Oct.
 
@@ -23,4 +23,4 @@ Kelly B is a trance and techno artist tracked on soundcheck, with 7 sets logged 
 
 Arok Shiva, BADBOX, Billy Cocks
 
-*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kellyb/)*
+*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kellyb/)*

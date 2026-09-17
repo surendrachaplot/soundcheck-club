@@ -1,6 +1,6 @@
 # Emanuele Barilli
 
-Emanuele Barilli is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 16 Sept 2026, next at Dedaena Bar, Tbilisi on Thu, 17 Sept 2026.
+Emanuele Barilli is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 17 Sept 2026, next at Dedaena Bar, Tbilisi on Thu, 17 Sept 2026.
 
 Emanuele Barilli is a house and techno artist tracked on soundcheck, with 55 sets logged across Amsterdam, Berlin, Istanbul and Milan and 2 more. Often billed alongside HolyU, Nephews and Black Loops. Next up: Dedaena Bar, Tbilisi on Thu 17 Sept.
 
@@ -25,4 +25,4 @@ Emanuele Barilli is a house and techno artist tracked on soundcheck, with 55 set
 
 HolyU, Nephews, Black Loops
 
-*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/emanuelebarilli/)*
+*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/emanuelebarilli/)*

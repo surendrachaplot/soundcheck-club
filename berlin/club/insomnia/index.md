@@ -1,8 +1,8 @@
 # Insomnia
 
-Insomnia is a music venue in Berlin with 25 upcoming nights listed on soundcheck as of Wed, 16 Sept 2026; the next is "FLASHBACK FRIDAY! Berlin's Hottest Kinky 90s–00s Throwback Party" on Fri, 18 Sept 2026.
+Insomnia is a music venue in Berlin with 25 upcoming nights listed on soundcheck as of Thu, 17 Sept 2026; the next is "FLASHBACK FRIDAY! Berlin's Hottest Kinky 90s–00s Throwback Party" on Fri, 18 Sept 2026.
 
-Insomnia is a music venue in Berlin listed on soundcheck. 25 upcoming nights, with line-ups including ANAMORPH_, BOOTHBUNNY, djst4rlight and ELEETE and 2 more. Browse upcoming dates, start times and who's playing. Alt-Tempelhof 17-19, 12099 Berlin.
+Insomnia is a music venue in Berlin listed on soundcheck. 25 upcoming nights, with line-ups including ANAMORPH_, Andara Nox, BOOTHBUNNY and djst4rlight and 2 more. Browse upcoming dates, start times and who's playing. Alt-Tempelhof 17-19, 12099 Berlin.
 
 ## What's on
 
@@ -12,7 +12,7 @@ Insomnia is a music venue in Berlin listed on soundcheck. 25 upcoming nights, wi
 | Sat, 19 Sept 2026 | 24K Kink | Sika Akis |
 | Thu, 24 Sept 2026 | Berlin Kink |  |
 | Fri, 25 Sept 2026 | DIRTY DISCO Berlin |  |
-| Sat, 26 Sept 2026 | UNLEASHED by UNDR - Kinky Techno Party | ELEETE, Paula Hilton, Prismode, Solvane |
+| Sat, 26 Sept 2026 | UNLEASHED by UNDR - Kinky Techno Party | Andara Nox, ELEETE, Paula Hilton, Prismode, Solvane |
 | Fri, 2 Oct 2026 | Slave to Rock | The Shredder |
 | Fri, 2 Oct 2026 | Milk & Honey: Prague in Berlin | ANAMORPH_, Marie Pravda, Miss Unleashed, SJ Yellow |
 | Sat, 3 Oct 2026 | Goa Liebe |  |
@@ -23,4 +23,4 @@ Insomnia is a music venue in Berlin listed on soundcheck. 25 upcoming nights, wi
 
 Alt-Tempelhof 17-19, 12099 Berlin, Berlin
 
-*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/insomnia/)*
+*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/insomnia/)*

@@ -1,6 +1,6 @@
-# Teksupport: Âme live b2b Trikk, JAMIIE & Clüb de Combat (Rooftop closing party) at Sunset Park Rooftop
+# Teksupport: Âme live b2b Trikk, JAMIIE & Clüb de Combat (Rooftop closing party) SOLD OUT at Sunset Park Rooftop
 
-Teksupport: Âme live b2b Trikk, JAMIIE & Clüb de Combat (Rooftop closing party) at Sunset Park Rooftop on Fri 18 Sept, Newyorkcity. 3 acts on the bill: Âme, JAMIIE and Trikk. Techno and Deep House. Preview the line-up and save it on soundcheck.
+Teksupport: Âme live b2b Trikk, JAMIIE & Clüb de Combat (Rooftop closing party) SOLD OUT at Sunset Park Rooftop on Fri 18 Sept, Newyorkcity. 3 acts on the bill: Âme, JAMIIE and Trikk. Techno and Deep House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

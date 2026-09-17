@@ -1,8 +1,8 @@
 # Silvie Loto
 
-Silvie Loto is a Tech House and House artist with 5 upcoming club dates listed on soundcheck as of Wed, 16 Sept 2026, next at TBA - Estadio Nacional, Ezeiza, Buenos Aires on Sun, 11 Oct 2026.
+Silvie Loto is a Tech House and House artist with 5 upcoming club dates listed on soundcheck as of Thu, 17 Sept 2026, next at TBA - Estadio Nacional, Ezeiza, Buenos Aires on Sun, 11 Oct 2026.
 
-Silvie Loto is a tech house and house artist tracked on soundcheck, with 87 sets logged across Amsterdam, Austin, Barcelona and Basel and 29 more. Often billed alongside PAWSA, Dennis Cruz and Chris Stassy. Next up: TBA - Estadio Nacional, Ezeiza, Buenosaires on Sun 11 Oct.
+Silvie Loto is a tech house and house artist tracked on soundcheck, with 87 sets logged across Amsterdam, Austin, Barcelona and Basel and 29 more. Often billed alongside PAWSA, Dennis Cruz and CHRIS STASSY. Next up: TBA - Estadio Nacional, Ezeiza, Buenosaires on Sun 11 Oct.
 
 ## Upcoming shows
 
@@ -27,6 +27,6 @@ Silvie Loto is a tech house and house artist tracked on soundcheck, with 87 sets
 
 ## Shares bills with
 
-PAWSA, Dennis Cruz, Chris Stassy
+PAWSA, Dennis Cruz, CHRIS STASSY
 
-*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/silvieloto/)*
+*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/silvieloto/)*

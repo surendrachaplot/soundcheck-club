@@ -1,6 +1,6 @@
 # Artlab
 
-Artlab is a music venue in Buenos Aires with 1 upcoming night listed on soundcheck as of Wed, 16 Sept 2026; the next is "Highlife pres. Esa Williams (SA/UK)" on Sat, 3 Oct 2026.
+Artlab is a music venue in Buenos Aires with 1 upcoming night listed on soundcheck as of Thu, 17 Sept 2026; the next is "Highlife pres. Esa Williams (SA/UK)" on Sat, 3 Oct 2026.
 
 Artlab is a music venue in Buenosaires listed on soundcheck. 1 upcoming night, with line-ups including Esa and Harari. Browse upcoming dates, start times and who's playing. Roseti 93.
 
@@ -14,4 +14,4 @@ Artlab is a music venue in Buenosaires listed on soundcheck. 1 upcoming night, w
 
 Roseti 93, Buenos Aires
 
-*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/buenosaires/club/artlab/)*
+*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/buenosaires/club/artlab/)*

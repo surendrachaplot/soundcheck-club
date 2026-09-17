@@ -1,6 +1,6 @@
 # Helitehas
 
-Helitehas is a music venue in Tallinn with 2 upcoming nights listed on soundcheck as of Wed, 16 Sept 2026; the next is "HEVI: Teddy Killerz & Tantrum Desire" on Fri, 6 Nov 2026.
+Helitehas is a music venue in Tallinn with 2 upcoming nights listed on soundcheck as of Thu, 17 Sept 2026; the next is "HEVI: Teddy Killerz & Tantrum Desire" on Fri, 6 Nov 2026.
 
 Helitehas is a music venue in Tallinn listed on soundcheck. 2 upcoming nights, with line-ups including Tantrum Desire and Teddy Killerz. Browse upcoming dates, start times and who's playing. Madara 22, 10613 Tallinn, Estonia.
 
@@ -15,4 +15,4 @@ Helitehas is a music venue in Tallinn listed on soundcheck. 2 upcoming nights, w
 
 Madara 22, 10613 Tallinn, Estonia, Tallinn
 
-*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/tallinn/club/helitehas/)*
+*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/tallinn/club/helitehas/)*

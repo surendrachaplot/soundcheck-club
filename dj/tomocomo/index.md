@@ -1,14 +1,15 @@
 # Tomocomo
 
-Tomocomo is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Wed, 16 Sept 2026, next at Ooba Camping Village, Tokyo on Mon, 21 Sept 2026.
+Tomocomo is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Thu, 17 Sept 2026, next at Ooba Camping Village, Tokyo on Mon, 21 Sept 2026.
 
-Tomocomo is a techno and trance artist based in Japan, tracked on soundcheck, with 27 sets logged across Tokyo. Often billed alongside Jun Jikooha, Funky Gong and Do Shock Booze. Next up: Ooba Camping Village, Tokyo on Mon 21 Sept.
+Tomocomo is a techno and trance artist based in Japan, tracked on soundcheck, with 28 sets logged across Tokyo. Often billed alongside Jun Jikooha, Do Shock Booze and Funky Gong. Next up: Ooba Camping Village, Tokyo on Mon 21 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Mon, 21 Sept 2026 | Ooba Camping Village | Tokyo |
+| Sat, 7 Nov 2026 | 7th Floor | Tokyo |
 
 ## Recently played
 
@@ -23,6 +24,6 @@ Tomocomo is a techno and trance artist based in Japan, tracked on soundcheck, wi
 
 ## Shares bills with
 
-Jun Jikooha, Funky Gong, Do Shock Booze
+Jun Jikooha, Do Shock Booze, Funky Gong
 
-*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tomocomo/)*
+*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tomocomo/)*

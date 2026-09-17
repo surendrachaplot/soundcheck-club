@@ -1,13 +1,14 @@
 # Bustin' Loose
 
-Bustin' Loose is a House and Disco artist with 5 upcoming club dates listed on soundcheck as of Wed, 16 Sept 2026, next at Xanadu, New York City on Sun, 20 Sept 2026.
+Bustin' Loose is a House and Disco artist with 6 upcoming club dates listed on soundcheck as of Thu, 17 Sept 2026, next at ZeyZey, Miami on Fri, 18 Sept 2026.
 
-Bustin' Loose is a house and disco artist tracked on soundcheck, with 154 sets logged across Aberdeen, Amsterdam, Antwerp and Berlin and 15 more. Often billed alongside Tatiana, Magnolia_ and Roland & Brother Rich. Next up: Xanadu, Newyorkcity on Sun 20 Sept.
+Bustin' Loose is a house and disco artist tracked on soundcheck, with 155 sets logged across Aberdeen, Amsterdam, Antwerp and Berlin and 15 more. Often billed alongside Tatiana, Roland & Brother Rich and Magnolia_. Next up: ZeyZey, Miami on Fri 18 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 18 Sept 2026 | ZeyZey | Miami |
 | Sun, 20 Sept 2026 | Xanadu | New York City |
 | Fri, 23 Oct 2026 | Art''otel Amsterdam | Amsterdam |
 | Sat, 24 Oct 2026 | Amsterdam Central Station | Amsterdam |
@@ -27,6 +28,6 @@ Bustin' Loose is a house and disco artist tracked on soundcheck, with 154 sets l
 
 ## Shares bills with
 
-Tatiana, Magnolia_, Roland & Brother Rich
+Tatiana, Roland & Brother Rich, Magnolia_
 
-*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bustinloose/)*
+*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bustinloose/)*

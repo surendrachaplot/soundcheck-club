@@ -1,6 +1,6 @@
 # Glazart
 
-Glazart is a music venue in Paris with 4 upcoming nights listed on soundcheck as of Wed, 16 Sept 2026; the next is "After O'clock X La Plage Open Air: Anechoic, Joton, Noise Catalog B2B Fortnum" on Sat, 19 Sept 2026.
+Glazart is a music venue in Paris with 4 upcoming nights listed on soundcheck as of Thu, 17 Sept 2026; the next is "After O'clock X La Plage Open Air: Anechoic, Joton, Noise Catalog B2B Fortnum" on Sat, 19 Sept 2026.
 
 Glazart is a music venue in Paris listed on soundcheck. 4 upcoming nights, with line-ups including A-440, Anechoic, DjFREDDY and Fortnum and 2 more. Browse upcoming dates, start times and who's playing. 7-15 av de la Porte de la Villette; 75019; Paris; France.
 
@@ -17,4 +17,4 @@ Glazart is a music venue in Paris listed on soundcheck. 4 upcoming nights, with 
 
 7-15 av de la Porte de la Villette; 75019; Paris; France, Paris
 
-*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/paris/club/glazart/)*
+*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/paris/club/glazart/)*

@@ -1,6 +1,6 @@
 # Allan Strange
 
-Allan Strange is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 16 Sept 2026, next at Jonny Knüppel, Berlin on Fri, 18 Sept 2026.
+Allan Strange is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 17 Sept 2026, next at Jonny Knüppel, Berlin on Fri, 18 Sept 2026.
 
 Allan Strange is a techno and house artist tracked on soundcheck, with 5 sets logged across Berlin and Newcastle. Often billed alongside Nihiloxica, Alexkid and Allan. Next up: Jonny Knüppel, Berlin on Fri 18 Sept.
 
@@ -21,4 +21,4 @@ Allan Strange is a techno and house artist tracked on soundcheck, with 5 sets lo
 
 Nihiloxica, Alexkid, Allan
 
-*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/allanstrange/)*
+*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/allanstrange/)*

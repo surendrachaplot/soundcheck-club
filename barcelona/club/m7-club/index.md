@@ -1,6 +1,6 @@
 # M7 Club
 
-M7 Club is a music venue in Barcelona with 13 upcoming nights listed on soundcheck as of Wed, 16 Sept 2026; the next is "HARD BOUNCE [Adviro & Leqsa]" on Thu, 17 Sept 2026.
+M7 Club is a music venue in Barcelona with 13 upcoming nights listed on soundcheck as of Thu, 17 Sept 2026; the next is "HARD BOUNCE [XEXO & Leqsa]" on Thu, 17 Sept 2026.
 
 M7 Club is a music venue in Barcelona listed on soundcheck. 13 upcoming nights, with line-ups including HANI DAKIN, Adviro, Ana Lilia and ArceX and 2 more. Browse upcoming dates, start times and who's playing. Carrer de Mèxic, 7, 08004 Barcelona, Spain.
 
@@ -8,7 +8,7 @@ M7 Club is a music venue in Barcelona listed on soundcheck. 13 upcoming nights, 
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Thu, 17 Sept 2026 | HARD BOUNCE [Adviro & Leqsa] | Adviro |
+| Thu, 17 Sept 2026 | HARD BOUNCE [XEXO & Leqsa] | Adviro |
 | Fri, 18 Sept 2026 | M7 presenta: Yerai, Marc Fx, Adviro, Dannae, SuttleK & Darkcutz | Adviro, SuttleK |
 | Sat, 19 Sept 2026 | M7 presenta: HANI DAKIN, Ana Lilia, Charlotte Pearl, Dxpe, Eds & Marc Fx | Ana Lilia, Dxpe, EDS (ESP), HANI DAKIN |
 | Sun, 20 Sept 2026 | HARD BOUNCE [Mëss & KSTX] | Adviro |
@@ -23,4 +23,4 @@ M7 Club is a music venue in Barcelona listed on soundcheck. 13 upcoming nights, 
 
 Carrer de Mèxic, 7, 08004 Barcelona, Spain, Barcelona
 
-*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/m7-club/)*
+*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/m7-club/)*

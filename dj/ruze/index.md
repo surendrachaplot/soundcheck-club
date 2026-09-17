@@ -1,14 +1,13 @@
 # RUZE
 
-RUZE is a House and Tech House artist with 13 upcoming club dates listed on soundcheck as of Wed, 16 Sept 2026, next at Hï Ibiza, Ibiza on Wed, 16 Sept 2026.
+RUZE is a House and Tech House artist with 12 upcoming club dates listed on soundcheck as of Thu, 17 Sept 2026, next at DRUMSHEDS, London on Sat, 19 Sept 2026.
 
-RUZE is a house and tech house artist tracked on soundcheck, with 122 sets logged across Amsterdam, Austin, Bali and Barcelona and 27 more. Often billed alongside Prunk, Kellie Allen and Robbie Doherty. Next up: Hï Ibiza, Ibiza on Wed 16 Sept.
+RUZE is a house and tech house artist tracked on soundcheck, with 122 sets logged across Amsterdam, Austin, Bali and Barcelona and 27 more. Often billed alongside Prunk, Kellie Allen and Robbie Doherty. Next up: DRUMSHEDS, London on Sat 19 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Wed, 16 Sept 2026 | Hï Ibiza | Ibiza |
 | Sat, 19 Sept 2026 | DRUMSHEDS | London |
 | Fri, 25 Sept 2026 | World Headquarters | Newcastle |
 | Sat, 26 Sept 2026 | Binks Yard | Nottingham |
@@ -20,9 +19,11 @@ RUZE is a house and tech house artist tracked on soundcheck, with 122 sets logge
 | Sat, 31 Oct 2026 | Chelmsford City Racecourse | London |
 | Sat, 31 Oct 2026 | The Nest | Nottingham |
 | Sat, 7 Nov 2026 | Mint XL | Leeds |
+| Sat, 14 Nov 2026 | Thuishaven | Amsterdam |
 
 ## Recently played
 
+- Hï Ibiza, Ibiza — Wed, 16 Sept 2026
 - FORGE, Sheffield — Sat, 5 Sept 2026
 - Chinois Ibiza, Ibiza — Thu, 3 Sept 2026
 - Hornblower Spirit, San Francisco/Oakland — Sat, 22 Aug 2026
@@ -30,10 +31,9 @@ RUZE is a house and tech house artist tracked on soundcheck, with 122 sets logge
 - UNLOCKED, London — Thu, 16 Jul 2026
 - Cova Santa, Ibiza — Tue, 14 Jul 2026
 - Hembrugterrein, Amsterdam — Sat, 11 Jul 2026
-- Cova Santa, Ibiza — Tue, 23 Jun 2026
 
 ## Shares bills with
 
 Prunk, Kellie Allen, Robbie Doherty
 
-*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ruze/)*
+*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ruze/)*

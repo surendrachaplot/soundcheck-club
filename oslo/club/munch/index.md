@@ -1,6 +1,6 @@
 # Munch
 
-Munch is a music venue in Oslo with 2 upcoming nights listed on soundcheck as of Wed, 16 Sept 2026; the next is "Ultima 2026 / Beatrice Dillon & Explore Ensemble: Where Never" on Thu, 17 Sept 2026.
+Munch is a music venue in Oslo with 2 upcoming nights listed on soundcheck as of Thu, 17 Sept 2026; the next is "Ultima 2026 / Beatrice Dillon & Explore Ensemble: Where Never" on Thu, 17 Sept 2026.
 
 Munch is a music venue in Oslo listed on soundcheck. 2 upcoming nights, with line-ups including Beatrice Dillon and Merzbow. Browse upcoming dates, start times and who's playing. Edvard Munchs Plass 1, 0194 Oslo, Norway.
 
@@ -15,4 +15,4 @@ Munch is a music venue in Oslo listed on soundcheck. 2 upcoming nights, with lin
 
 Edvard Munchs Plass 1, 0194 Oslo, Norway, Oslo
 
-*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/oslo/club/munch/)*
+*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/oslo/club/munch/)*

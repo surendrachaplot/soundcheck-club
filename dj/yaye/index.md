@@ -1,6 +1,6 @@
 # YAYE
 
-YAYE is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 16 Sept 2026, next at La Cigale, Buenos Aires on Thu, 17 Sept 2026.
+YAYE is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 17 Sept 2026, next at La Cigale, Buenos Aires on Thu, 17 Sept 2026.
 
 YAYE is a techno and house artist based in Ecuador, tracked on soundcheck, with 14 sets logged across Buenosaires. Often billed alongside Najor, Basso Mata and Berger Muzik. Next up: La Cigale, Buenosaires on Thu 17 Sept.
 
@@ -25,4 +25,4 @@ YAYE is a techno and house artist based in Ecuador, tracked on soundcheck, with 
 
 Najor, Basso Mata, Berger Muzik
 
-*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/yaye/)*
+*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/yaye/)*

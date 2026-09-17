@@ -1,6 +1,6 @@
 # DJ LoveCatt
 
-DJ LoveCatt is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 16 Sept 2026, next at Jolene, Copenhagen on Fri, 18 Sept 2026.
+DJ LoveCatt is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 17 Sept 2026, next at Jolene, Copenhagen on Fri, 18 Sept 2026.
 
 DJ LoveCatt is a house and techno artist based in Denmark, tracked on soundcheck, with 67 sets logged across Amsterdam, Berlin and Copenhagen. Often billed alongside Robin Flux, CAYOOTEE and Ghosten. Next up: Jolene, Copenhagen on Fri 18 Sept.
 
@@ -25,4 +25,4 @@ DJ LoveCatt is a house and techno artist based in Denmark, tracked on soundcheck
 
 Robin Flux, CAYOOTEE, Ghosten
 
-*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djlovecatt/)*
+*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djlovecatt/)*

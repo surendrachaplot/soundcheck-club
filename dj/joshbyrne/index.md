@@ -1,6 +1,6 @@
 # Josh Byrne
 
-Josh Byrne is a House and Garage artist with 1 upcoming club date listed on soundcheck as of Wed, 16 Sept 2026, next at Beatfabriek, Amsterdam on Fri, 23 Oct 2026.
+Josh Byrne is a House and Garage artist with 1 upcoming club date listed on soundcheck as of Thu, 17 Sept 2026, next at Beatfabriek, Amsterdam on Fri, 23 Oct 2026.
 
 Josh Byrne is a house and garage artist tracked on soundcheck, with 8 sets logged across Amsterdam and London. Often billed alongside Bear Winder, CHANNE and Delonte Rivers. Next up: Beatfabriek, Amsterdam on Fri 23 Oct.
 
@@ -24,4 +24,4 @@ Josh Byrne is a house and garage artist tracked on soundcheck, with 8 sets logge
 
 Bear Winder, CHANNE, Delonte Rivers
 
-*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/joshbyrne/)*
+*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/joshbyrne/)*

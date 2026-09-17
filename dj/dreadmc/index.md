@@ -1,8 +1,8 @@
 # DREAD MC
 
-DREAD MC is a Drum & Bass and Jungle artist with 3 upcoming club dates listed on soundcheck as of Wed, 16 Sept 2026, next at Namura Zosenjo Atochi / Creative Center Osaka, Osaka on Mon, 21 Sept 2026.
+DREAD MC is a Drum & Bass and Jungle artist with 4 upcoming club dates listed on soundcheck as of Thu, 17 Sept 2026, next at Namura Zosenjo Atochi / Creative Center Osaka, Osaka on Mon, 21 Sept 2026.
 
-DREAD MC is a drum & bass and jungle artist based in United Kingdom, tracked on soundcheck, with 40 sets logged across Brighton, Bristol, Cardiff and Ibiza and 8 more. Often billed alongside Harriet Jaxxon, K Motionz and Voltage. Next up: Namura Zosenjo Atochi / Creative Center Osaka, Osaka on Mon 21 Sept.
+DREAD MC is a drum & bass and jungle artist based in United Kingdom, tracked on soundcheck, with 41 sets logged across Brighton, Bristol, Cardiff and Ibiza and 8 more. Often billed alongside Harriet Jaxxon, K Motionz and Voltage. Next up: Namura Zosenjo Atochi / Creative Center Osaka, Osaka on Mon 21 Sept.
 
 ## Upcoming shows
 
@@ -10,7 +10,8 @@ DREAD MC is a drum & bass and jungle artist based in United Kingdom, tracked on 
 | --- | --- | --- |
 | Mon, 21 Sept 2026 | Namura Zosenjo Atochi / Creative Center Osaka | Osaka |
 | Tue, 22 Sept 2026 | Odaiba | Tokyo |
-| Sat, 14 Nov 2026 | E1 | London |
+| Sat, 14 Nov 2026 | Onyx (E1) | London |
+| Sat, 14 Nov 2026 | fabric | London |
 
 ## Recently played
 
@@ -27,4 +28,4 @@ DREAD MC is a drum & bass and jungle artist based in United Kingdom, tracked on 
 
 Harriet Jaxxon, K Motionz, Voltage
 
-*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dreadmc/)*
+*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dreadmc/)*

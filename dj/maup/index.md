@@ -1,14 +1,13 @@
 # Mau P
 
-Mau P is a House and Tech House artist with 8 upcoming club dates listed on soundcheck as of Wed, 16 Sept 2026, next at Pacha Ibiza, Ibiza on Wed, 16 Sept 2026.
+Mau P is a House and Tech House artist with 7 upcoming club dates listed on soundcheck as of Thu, 17 Sept 2026, next at IFEMA, Madrid on Fri, 18 Sept 2026.
 
-Mau P is a house and tech house artist tracked on soundcheck, with 155 sets logged across Amsterdam, Austin, Barcelona and Bristol and 36 more. Often billed alongside Joseph Capriati, DJ Tennis and Dom Dolla. Next up: Pacha Ibiza, Ibiza on Wed 16 Sept.
+Mau P is a house and tech house artist tracked on soundcheck, with 155 sets logged across Amsterdam, Austin, Barcelona and Bristol and 36 more. Often billed alongside Joseph Capriati, DJ Tennis and Dom Dolla. Next up: IFEMA, Madrid on Fri 18 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Wed, 16 Sept 2026 | Pacha Ibiza | Ibiza |
 | Fri, 18 Sept 2026 | IFEMA | Madrid |
 | Fri, 18 Sept 2026 | IFEMA | Madrid |
 | Wed, 23 Sept 2026 | Pacha Ibiza | Ibiza |
@@ -19,6 +18,7 @@ Mau P is a house and tech house artist tracked on soundcheck, with 155 sets logg
 
 ## Recently played
 
+- Pacha Ibiza, Ibiza — Wed, 16 Sept 2026
 - Brooklyn Army Terminal, New York City — Sun, 13 Sept 2026
 - Brooklyn Army Terminal, New York City — Sat, 12 Sept 2026
 - Pacha Ibiza, Ibiza — Wed, 9 Sept 2026
@@ -26,10 +26,9 @@ Mau P is a house and tech house artist tracked on soundcheck, with 155 sets logg
 - Union Park, Chicago — Fri, 4 Sept 2026
 - Pacha Ibiza, Ibiza — Wed, 2 Sept 2026
 - Kiesgrube, Düsseldorf — Sun, 30 Aug 2026
-- Pacha Ibiza, Ibiza — Wed, 26 Aug 2026
 
 ## Shares bills with
 
 Joseph Capriati, DJ Tennis, Dom Dolla
 
-*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/maup/)*
+*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/maup/)*

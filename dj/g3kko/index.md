@@ -1,6 +1,6 @@
 # g3kko
 
-g3kko is a Techno and Club artist with 2 upcoming club dates listed on soundcheck as of Wed, 16 Sept 2026, next at TBA - Jana Zamoyskiego 20, Warsaw on Fri, 18 Sept 2026.
+g3kko is a Techno and Club artist with 2 upcoming club dates listed on soundcheck as of Thu, 17 Sept 2026, next at TBA - Jana Zamoyskiego 20, Warsaw on Fri, 18 Sept 2026.
 
 g3kko is a techno and club artist based in Poland, tracked on soundcheck, with 11 sets logged across Amsterdam, Berlin and Warsaw. Often billed alongside androgienia, PLATTER and BOYCA. Next up: TBA - Jana Zamoyskiego 20, Warsaw on Fri 18 Sept.
 
@@ -26,4 +26,4 @@ g3kko is a techno and club artist based in Poland, tracked on soundcheck, with 1
 
 androgienia, PLATTER, BOYCA
 
-*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/g3kko/)*
+*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/g3kko/)*

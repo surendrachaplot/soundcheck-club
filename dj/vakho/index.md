@@ -1,6 +1,6 @@
 # Vakho
 
-Vakho is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 16 Sept 2026, next at Meteor Studio, Tbilisi on Fri, 18 Sept 2026.
+Vakho is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 17 Sept 2026, next at Meteor Studio, Tbilisi on Fri, 18 Sept 2026.
 
 Vakho is a house and techno artist tracked on soundcheck, with 35 sets logged across Berlin, Copenhagen, Hamburg and Oslo and 1 more. Often billed alongside Zurkin, IAMEA and Sandro Jorbenadze. Next up: Meteor Studio, Tbilisi on Fri 18 Sept.
 
@@ -26,4 +26,4 @@ Vakho is a house and techno artist tracked on soundcheck, with 35 sets logged ac
 
 Zurkin, IAMEA, Sandro Jorbenadze
 
-*Updated Wed, 16 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/vakho/)*
+*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/vakho/)*

@@ -1,0 +1,11 @@
+# Listening Workshop with Sonia Killman at The Listening House | Pollok House
+
+Listening Workshop with Sonia Killman at The Listening House | Pollok House on Sat 26 Sept, Glasgow. Preview the line-up and save it on soundcheck.
+
+| Field | Value |
+| --- | --- |
+| Date | Sat, 26 Sept 2026 |
+| Venue | The Listening House / Pollok House |
+| City | Glasgow |
+
+*Source: [soundcheck](https://soundcheck.club/e/2505178-listening-workshop-with-sonia-killman-at-the-listening-house/)*
