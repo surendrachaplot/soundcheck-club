@@ -1,6 +1,6 @@
 # Carl Craig
 
-Carl Craig is a House and Techno artist with 12 upcoming club dates listed on soundcheck as of Thu, 17 Sept 2026, next at FOLD, London on Fri, 18 Sept 2026.
+Carl Craig is a House and Techno artist with 12 upcoming club dates listed on soundcheck as of Fri, 18 Sept 2026, next at FOLD, London on Fri, 18 Sept 2026.
 
 Carl Craig is a house and techno artist tracked on soundcheck, with 273 sets logged across Amsterdam, Antwerp, Athens and Austin and 47 more. Often billed alongside Moodymann, DJ Holographic and Seth Troxler. Next up: FOLD, London on Fri 18 Sept.
 
@@ -36,4 +36,4 @@ Carl Craig is a house and techno artist tracked on soundcheck, with 273 sets log
 
 Moodymann, DJ Holographic, Seth Troxler
 
-*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/carlcraig/)*
+*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/carlcraig/)*

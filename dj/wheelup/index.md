@@ -1,6 +1,6 @@
 # WheelUP
 
-WheelUP is a Funk / Soul and Drum & Bass artist with 1 upcoming club date listed on soundcheck as of Thu, 17 Sept 2026, next at Patterns, Brighton on Sun, 4 Oct 2026.
+WheelUP is a Funk / Soul and Drum & Bass artist with 1 upcoming club date listed on soundcheck as of Fri, 18 Sept 2026, next at Patterns, Brighton on Sun, 4 Oct 2026.
 
 WheelUP is a funk / soul and drum & bass artist tracked on soundcheck, with 22 sets logged across Brighton, Bristol, London and Paris and 1 more. Often billed alongside Robert Luis, Cengiz and Kojay. Next up: Patterns, Brighton on Sun 4 Oct.
 
@@ -25,4 +25,4 @@ WheelUP is a funk / soul and drum & bass artist tracked on soundcheck, with 22 s
 
 Robert Luis, Cengiz, Kojay
 
-*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/wheelup/)*
+*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/wheelup/)*

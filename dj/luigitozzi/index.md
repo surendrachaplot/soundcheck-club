@@ -1,6 +1,6 @@
 # Luigi Tozzi
 
-Luigi Tozzi is a Techno and House artist with 10 upcoming club dates listed on soundcheck as of Thu, 17 Sept 2026, next at TBA - Secret Location, Amsterdam on Sat, 19 Sept 2026.
+Luigi Tozzi is a Techno and House artist with 10 upcoming club dates listed on soundcheck as of Fri, 18 Sept 2026, next at TBA - Secret Location, Amsterdam on Sat, 19 Sept 2026.
 
 Luigi Tozzi is a techno and house artist tracked on soundcheck, with 104 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 30 more. Often billed alongside Laura BCR, Claudio PRC and Feral. Next up: TBA - Secret Location, Amsterdam on Sat 19 Sept.
 
@@ -34,4 +34,4 @@ Luigi Tozzi is a techno and house artist tracked on soundcheck, with 104 sets lo
 
 Laura BCR, Claudio PRC, Feral
 
-*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/luigitozzi/)*
+*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/luigitozzi/)*

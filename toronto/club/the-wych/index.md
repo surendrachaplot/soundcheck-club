@@ -1,18 +1,17 @@
 # The Wych
 
-The Wych is a music venue in Toronto with 2 upcoming nights listed on soundcheck as of Thu, 17 Sept 2026; the next is "GET BUSS: Garage & Dubstep" on Thu, 17 Sept 2026.
+The Wych is a music venue in Toronto with 1 upcoming night listed on soundcheck as of Fri, 18 Sept 2026; the next is "Urban Hour 2 local DJ spotlight" on Sat, 26 Sept 2026.
 
-The Wych is a music venue in Toronto listed on soundcheck. 2 upcoming nights, with line-ups including briandemodulated, CHNTEL., In Depth Subject and SB (4) and 1 more. Browse upcoming dates, start times and who's playing. 1150 Davenport Road, Toronto, Ontario M6H 2G5, Canada.
+The Wych is a music venue in Toronto listed on soundcheck. 1 upcoming night, with line-ups including briandemodulated and SB (4). Browse upcoming dates, start times and who's playing. 1150 Davenport Road, Toronto, Ontario M6H 2G5, Canada.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Thu, 17 Sept 2026 | GET BUSS: Garage & Dubstep | CHNTEL., In Depth Subject, Sigil |
 | Sat, 26 Sept 2026 | Urban Hour 2 local DJ spotlight | SB (4), briandemodulated |
 
 ## Address
 
 1150 Davenport Road, Toronto, Ontario M6H 2G5, Canada, Toronto
 
-*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/the-wych/)*
+*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/the-wych/)*

@@ -1,6 +1,6 @@
 # Kadeejah Streets
 
-Kadeejah Streets is a House and Acid artist with 3 upcoming club dates listed on soundcheck as of Thu, 17 Sept 2026, next at Pony, Seattle on Sat, 10 Oct 2026.
+Kadeejah Streets is a House and Acid artist with 3 upcoming club dates listed on soundcheck as of Fri, 18 Sept 2026, next at Pony, Seattle on Sat, 10 Oct 2026.
 
 Kadeejah Streets is a house and acid artist based in United States of America, tracked on soundcheck, with 54 sets logged across Austin, Osaka, Portland and Sanfrancisco and 2 more. Often billed alongside Sharlese, DJ SH1-TR and Lord Phatrick. Next up: Pony, Seattle on Sat 10 Oct.
 
@@ -27,4 +27,4 @@ Kadeejah Streets is a house and acid artist based in United States of America, t
 
 Sharlese, DJ SH1-TR, Lord Phatrick
 
-*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kadeejahstreets/)*
+*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kadeejahstreets/)*

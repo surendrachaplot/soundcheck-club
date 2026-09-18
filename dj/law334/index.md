@@ -1,6 +1,6 @@
 # LAW 334
 
-LAW 334 is a Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 17 Sept 2026, next at Republik Club, Madrid on Fri, 18 Sept 2026.
+LAW 334 is a Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 18 Sept 2026, next at Republik Club, Madrid on Fri, 18 Sept 2026.
 
 LAW 334 is a techno artist tracked on soundcheck, with 12 sets logged across Berlin, London, Madrid and Tbilisi and 1 more. Often billed alongside Art.Our, Choronzon and Vulker. Next up: Republik Club, Madrid on Fri 18 Sept.
 
@@ -25,4 +25,4 @@ LAW 334 is a techno artist tracked on soundcheck, with 12 sets logged across Ber
 
 Art.Our, Choronzon, Vulker
 
-*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/law334/)*
+*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/law334/)*

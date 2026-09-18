@@ -1,6 +1,6 @@
 # Humboldthain Club
 
-Humboldthain Club is a music venue in Berlin with 22 upcoming nights listed on soundcheck as of Thu, 17 Sept 2026; the next is "Trance'n'Dance x Yokai" on Fri, 18 Sept 2026.
+Humboldthain Club is a music venue in Berlin with 22 upcoming nights listed on soundcheck as of Fri, 18 Sept 2026; the next is "Trance'n'Dance x Yokai" on Fri, 18 Sept 2026.
 
 Humboldthain Club is a music venue in Berlin listed on soundcheck. 22 upcoming nights, with line-ups including YOVA, __iwana__, Anne-Sophie Selig and Arnaud Denzler and 2 more. Browse upcoming dates, start times and who's playing. Hochstraße 46; 13357 Berlin; Germany.
 
@@ -23,4 +23,4 @@ Humboldthain Club is a music venue in Berlin listed on soundcheck. 22 upcoming n
 
 Hochstraße 46; 13357 Berlin; Germany, Berlin
 
-*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/humboldthain-club/)*
+*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/humboldthain-club/)*

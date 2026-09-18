@@ -1,6 +1,6 @@
 # rzt
 
-rzt is a Drum & Bass and R&B artist with 1 upcoming club date listed on soundcheck as of Thu, 17 Sept 2026, next at Slakthuset, Stockholm on Fri, 18 Sept 2026.
+rzt is a Drum & Bass and R&B artist with 1 upcoming club date listed on soundcheck as of Fri, 18 Sept 2026, next at Slakthuset, Stockholm on Fri, 18 Sept 2026.
 
 rzt is a drum & bass and r&b artist tracked on soundcheck, with 23 sets logged across Stockholm. Often billed alongside JNB, charlie.pxls and ItsOk. Next up: Slakthuset, Stockholm on Fri 18 Sept.
 
@@ -25,4 +25,4 @@ rzt is a drum & bass and r&b artist tracked on soundcheck, with 23 sets logged a
 
 JNB, charlie.pxls, ItsOk
 
-*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/rzt/)*
+*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/rzt/)*

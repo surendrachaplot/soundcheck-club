@@ -1,0 +1,28 @@
+# .Fro.
+
+.Fro. is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Fri, 18 Sept 2026, next at B side Athens, Athens on Fri, 18 Sept 2026.
+
+.Fro. is a techno and electro artist tracked on soundcheck, with 91 sets logged across Athens. Often billed alongside ClubKid, Rlct and Extase Urbaine. Next up: B side Athens, Athens on Fri 18 Sept.
+
+## Upcoming shows
+
+| Date | Venue | City |
+| --- | --- | --- |
+| Fri, 18 Sept 2026 | B side Athens | Athens |
+
+## Recently played
+
+- Romantso, Athens — Sat, 12 Sept 2026
+- B side Athens, Athens — Sat, 29 Aug 2026
+- Astron Club, Athens — Sun, 19 Jul 2026
+- B side Athens, Athens — Thu, 16 Jul 2026
+- Cantina Social, Athens — Sat, 13 Jun 2026
+- TBA - B side Athens & SkullBar, Athens — Sat, 6 Jun 2026
+- Astron Club, Athens — Sat, 30 May 2026
+- B side Athens, Athens — Thu, 21 May 2026
+
+## Shares bills with
+
+ClubKid, Rlct, Extase Urbaine
+
+*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/.fro./)*

@@ -1,6 +1,6 @@
 # DJ Limbica
 
-DJ Limbica is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Thu, 17 Sept 2026, next at Fabrique im Gängeviertel, Hamburg on Fri, 18 Sept 2026.
+DJ Limbica is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Fri, 18 Sept 2026, next at Fabrique im Gängeviertel, Hamburg on Fri, 18 Sept 2026.
 
 DJ Limbica is a house and disco artist based in Germany, tracked on soundcheck, with 16 sets logged across Hamburg. Often billed alongside Nina Hepburn, Crew Ombrelle and Dom (1). Next up: Fabrique im Gängeviertel, Hamburg on Fri 18 Sept.
 
@@ -25,4 +25,4 @@ DJ Limbica is a house and disco artist based in Germany, tracked on soundcheck, 
 
 Nina Hepburn, Crew Ombrelle, Dom (1)
 
-*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djlimbica/)*
+*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djlimbica/)*

@@ -1,6 +1,6 @@
 # Inbal
 
-Inbal is a House and Disco artist with 3 upcoming club dates listed on soundcheck as of Thu, 17 Sept 2026, next at Mad Radio Miami, Miami on Fri, 18 Sept 2026.
+Inbal is a House and Disco artist with 3 upcoming club dates listed on soundcheck as of Fri, 18 Sept 2026, next at Mad Radio Miami, Miami on Fri, 18 Sept 2026.
 
 Inbal is a house and disco artist tracked on soundcheck, with 53 sets logged across Austin, Berlin, Detroit and Ibiza and 5 more. Often billed alongside Rimaye, Terence Tabeau and Will Renuart. Next up: Mad Radio Miami, Miami on Fri 18 Sept.
 
@@ -27,4 +27,4 @@ Inbal is a house and disco artist tracked on soundcheck, with 53 sets logged acr
 
 Rimaye, Terence Tabeau, Will Renuart
 
-*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/inbal/)*
+*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/inbal/)*

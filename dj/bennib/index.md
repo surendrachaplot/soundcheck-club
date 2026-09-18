@@ -1,6 +1,6 @@
 # Benni B
 
-Benni B is a House artist with 1 upcoming club date listed on soundcheck as of Thu, 17 Sept 2026, next at Skateschule München - Spaceforskate, Munich on Fri, 9 Oct 2026.
+Benni B is a House artist with 1 upcoming club date listed on soundcheck as of Fri, 18 Sept 2026, next at Skateschule München - Spaceforskate, Munich on Fri, 9 Oct 2026.
 
 Benni B is a house artist tracked on soundcheck, with 10 sets logged across Munich. Often billed alongside Spinneck, Maggie Jane and luxus. Next up: Skateschule München - Spaceforskate, Munich on Fri 9 Oct.
 
@@ -25,4 +25,4 @@ Benni B is a house artist tracked on soundcheck, with 10 sets logged across Muni
 
 Spinneck, Maggie Jane, luxus
 
-*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bennib/)*
+*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bennib/)*

@@ -1,6 +1,6 @@
 # Le Chapiteau - Marseille
 
-Le Chapiteau - Marseille is a music venue in Marseille with 2 upcoming nights listed on soundcheck as of Thu, 17 Sept 2026; the next is "GROOVE SOLAIRE / Bande de Filles, LUCE, SAN P & SOUTHWAX" on Fri, 18 Sept 2026.
+Le Chapiteau - Marseille is a music venue in Marseille with 2 upcoming nights listed on soundcheck as of Fri, 18 Sept 2026; the next is "GROOVE SOLAIRE / Bande de Filles, LUCE, SAN P & SOUTHWAX" on Fri, 18 Sept 2026.
 
 Le Chapiteau - Marseille is a music venue in Marseille listed on soundcheck. 2 upcoming nights, with line-ups including Bande de Filles. Browse upcoming dates, start times and who's playing. 38 TVS Notre Dame De Bon Secours.
 
@@ -15,4 +15,4 @@ Le Chapiteau - Marseille is a music venue in Marseille listed on soundcheck. 2 u
 
 38 TVS Notre Dame De Bon Secours, Marseille
 
-*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/marseille/club/le-chapiteau-marseille/)*
+*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/marseille/club/le-chapiteau-marseille/)*

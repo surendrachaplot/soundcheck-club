@@ -1,14 +1,13 @@
 # The Sound House
 
-The Sound House is a music venue in Dublin with 11 upcoming nights listed on soundcheck as of Thu, 17 Sept 2026; the next is "THE NIGHT SHIFT: RAVE IN AID OF PIETA" on Thu, 17 Sept 2026.
+The Sound House is a music venue in Dublin with 10 upcoming nights listed on soundcheck as of Fri, 18 Sept 2026; the next is "RATHAUS 039 - RATHAUS RETIREMENT HOME" on Fri, 18 Sept 2026.
 
-The Sound House is a music venue in Dublin listed on soundcheck. 11 upcoming nights, with line-ups including Bláthnaid, Bronwyn., cälpol and eskay and 2 more. Browse upcoming dates, start times and who's playing. 28 Eden Quay, Dublin, Ireland..
+The Sound House is a music venue in Dublin listed on soundcheck. 10 upcoming nights, with line-ups including Bronwyn., Girls of the Internet, JWY (1) and Nymed and 2 more. Browse upcoming dates, start times and who's playing. 28 Eden Quay, Dublin, Ireland..
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Thu, 17 Sept 2026 | THE NIGHT SHIFT: RAVE IN AID OF PIETA | Bláthnaid, SMS (IE), cälpol, eskay |
 | Fri, 18 Sept 2026 | RATHAUS 039 - RATHAUS RETIREMENT HOME | Bronwyn., JWY (1) |
 | Fri, 25 Sept 2026 | APOKRIFA | Seqta, Sémaé |
 | Sat, 26 Sept 2026 | FACE 2 FACE WITH ISR |  |
@@ -18,9 +17,10 @@ The Sound House is a music venue in Dublin listed on soundcheck. 11 upcoming nig
 | Fri, 16 Oct 2026 | ISR PRESENTS ØRPHIC B2B ANL |  |
 | Fri, 23 Oct 2026 | GLIMMER 001: Queer Techno Party with Nymed | Nymed, Sémaé |
 | Sat, 31 Oct 2026 | RATHAUS HALLOWEEN |  |
+| Fri, 13 Nov 2026 | A Love From Outer Space | Sean Johnston |
 
 ## Address
 
 28 Eden Quay, Dublin, Ireland., Dublin
 
-*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dublin/club/the-sound-house/)*
+*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dublin/club/the-sound-house/)*

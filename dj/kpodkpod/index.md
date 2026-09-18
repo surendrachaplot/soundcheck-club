@@ -1,6 +1,6 @@
 # KPODKPOD
 
-KPODKPOD is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 17 Sept 2026, next at Cloud 11 Hall, Bangkok on Sat, 31 Oct 2026.
+KPODKPOD is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 18 Sept 2026, next at Cloud 11 Hall, Bangkok on Sat, 31 Oct 2026.
 
 KPODKPOD is a house and techno artist based in Thailand, tracked on soundcheck, with 31 sets logged across Bangkok, Seoul and Tokyo. Often billed alongside KWH (DE), DJ Krit Morton and Sunju Hargun. Next up: Cloud 11 Hall, Bangkok on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ KPODKPOD is a house and techno artist based in Thailand, tracked on soundcheck, 
 
 KWH (DE), DJ Krit Morton, Sunju Hargun
 
-*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kpodkpod/)*
+*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kpodkpod/)*

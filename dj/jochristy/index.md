@@ -1,14 +1,15 @@
 # Jo Christy
 
-Jo Christy is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 17 Sept 2026, next at Glamorama, Melbourne on Sat, 19 Sept 2026.
+Jo Christy is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 18 Sept 2026, next at Glamorama, Melbourne on Sat, 19 Sept 2026.
 
-Jo Christy is a house and techno artist tracked on soundcheck, with 40 sets logged across Melbourne and Sydney. Often billed alongside Jesse DM, Simonetti and Slumdog. Next up: Glamorama, Melbourne on Sat 19 Sept.
+Jo Christy is a house and techno artist tracked on soundcheck, with 41 sets logged across Melbourne and Sydney. Often billed alongside Jesse DM, Simonetti and Slumdog. Next up: Glamorama, Melbourne on Sat 19 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 19 Sept 2026 | Glamorama | Melbourne |
+| Sun, 11 Oct 2026 | Club 77 | Sydney |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Jo Christy is a house and techno artist tracked on soundcheck, with 40 sets logg
 
 Jesse DM, Simonetti, Slumdog
 
-*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jochristy/)*
+*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jochristy/)*

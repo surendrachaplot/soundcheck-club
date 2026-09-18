@@ -1,6 +1,6 @@
 # Peter de Grote
 
-Peter de Grote is a music venue in Amsterdam with 1 upcoming night listed on soundcheck as of Thu, 17 Sept 2026; the next is "Alci invites" on Fri, 23 Oct 2026.
+Peter de Grote is a music venue in Amsterdam with 1 upcoming night listed on soundcheck as of Fri, 18 Sept 2026; the next is "Alci invites" on Fri, 23 Oct 2026.
 
 Peter de Grote is a music venue in Amsterdam listed on soundcheck. 1 upcoming night, with line-ups including Alci. Browse upcoming dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ Peter de Grote is a music venue in Amsterdam listed on soundcheck. 1 upcoming ni
 | --- | --- | --- |
 | Fri, 23 Oct 2026 | Alci invites | Alci |
 
-*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/peter-de-grote/)*
+*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/peter-de-grote/)*

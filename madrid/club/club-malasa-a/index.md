@@ -1,6 +1,6 @@
 # Club Malasaña
 
-Club Malasaña is a music venue in Madrid with 7 upcoming nights listed on soundcheck as of Thu, 17 Sept 2026; the next is "Blasé con TSVI y Miqui Brightside" on Fri, 18 Sept 2026.
+Club Malasaña is a music venue in Madrid with 7 upcoming nights listed on soundcheck as of Fri, 18 Sept 2026; the next is "Blasé con TSVI y Miqui Brightside" on Fri, 18 Sept 2026.
 
 Club Malasaña is a music venue in Madrid listed on soundcheck. 7 upcoming nights, with line-ups including 1Night Only, David Cabrera, Dj Homie and Federico Molinari and 2 more. Browse upcoming dates, start times and who's playing. Calle de San Vicente Ferrer, 23, 28004 Madrid, Spain.
 
@@ -20,4 +20,4 @@ Club Malasaña is a music venue in Madrid listed on soundcheck. 7 upcoming night
 
 Calle de San Vicente Ferrer, 23, 28004 Madrid, Spain, Madrid
 
-*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/club-malasa-a/)*
+*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/club-malasa-a/)*

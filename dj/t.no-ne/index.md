@@ -1,14 +1,15 @@
 # T.NO
 
-T.NO is a Bass and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 17 Sept 2026, next at Golden Pudel Club, Hamburg on Sat, 19 Sept 2026.
+T.NO is a Bass and Techno artist with 3 upcoming club dates listed on soundcheck as of Fri, 18 Sept 2026, next at Golden Pudel Club, Hamburg on Sat, 19 Sept 2026.
 
-T.NO is a bass and techno artist based in Netherlands, tracked on soundcheck, with 55 sets logged across Amsterdam, Berlin, Bristol and Glasgow and 9 more. Often billed alongside Styn, Rozaly and Shinshan Salazar. Next up: Golden Pudel Club, Hamburg on Sat 19 Sept.
+T.NO is a bass and techno artist based in Netherlands, tracked on soundcheck, with 56 sets logged across Amsterdam, Berlin, Bristol and Glasgow and 9 more. Often billed alongside Styn, Rozaly and Shinshan Salazar. Next up: Golden Pudel Club, Hamburg on Sat 19 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 19 Sept 2026 | Golden Pudel Club | Hamburg |
+| Fri, 16 Oct 2026 | Garage Noord | Amsterdam |
 | Sat, 31 Oct 2026 | Saloon | Tokyo |
 
 ## Recently played
@@ -26,4 +27,4 @@ T.NO is a bass and techno artist based in Netherlands, tracked on soundcheck, wi
 
 Styn, Rozaly, Shinshan Salazar
 
-*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/t.no-ne/)*
+*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/t.no-ne/)*

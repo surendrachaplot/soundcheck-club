@@ -1,14 +1,13 @@
 # Alarico
 
-Alarico is a Techno and House artist with 15 upcoming club dates listed on soundcheck as of Thu, 17 Sept 2026, next at Mondo, Madrid on Thu, 17 Sept 2026.
+Alarico is a Techno and House artist with 15 upcoming club dates listed on soundcheck as of Fri, 18 Sept 2026, next at IFEMA, Madrid on Fri, 18 Sept 2026.
 
-Alarico is a techno and house artist tracked on soundcheck, with 269 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 70 more. Often billed alongside Chlär, Funk Assault and Yanamaste. Next up: Mondo, Madrid on Thu 17 Sept.
+Alarico is a techno and house artist tracked on soundcheck, with 270 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 70 more. Often billed alongside Chlär, Funk Assault and Yanamaste. Next up: IFEMA, Madrid on Fri 18 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Thu, 17 Sept 2026 | Mondo | Madrid |
 | Fri, 18 Sept 2026 | IFEMA | Madrid |
 | Fri, 18 Sept 2026 | IFEMA | Madrid |
 | Sat, 19 Sept 2026 | Fiducial Asteria | Lyon |
@@ -20,9 +19,11 @@ Alarico is a techno and house artist tracked on soundcheck, with 269 sets logged
 | Thu, 22 Oct 2026 | Flint Space | Amsterdam |
 | Sat, 24 Oct 2026 | Bajes Amsterdam | Amsterdam |
 | Sun, 25 Oct 2026 | RADION | Amsterdam |
+| Fri, 30 Oct 2026 | Factory Town | Miami |
 
 ## Recently played
 
+- Mondo, Madrid — Thu, 17 Sept 2026
 - Amnesia Ibiza, Ibiza — Tue, 15 Sept 2026
 - BASIS, Utrecht — Fri, 11 Sept 2026
 - Amnesia Ibiza, Ibiza — Sun, 6 Sept 2026
@@ -30,10 +31,9 @@ Alarico is a techno and house artist tracked on soundcheck, with 269 sets logged
 - Junkyard Dortmund, Dortmund-essen — Sat, 5 Sept 2026
 - Odonien, Cologne — Fri, 4 Sept 2026
 - RSO.BERLIN, Berlin — Sat, 29 Aug 2026
-- Amnesia Ibiza, Ibiza — Tue, 25 Aug 2026
 
 ## Shares bills with
 
 Chlär, Funk Assault, Yanamaste
 
-*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/alarico/)*
+*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/alarico/)*

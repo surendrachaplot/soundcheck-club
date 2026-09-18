@@ -1,6 +1,6 @@
 # Green Room NYC
 
-Green Room NYC is a music venue in New York City with 14 upcoming nights listed on soundcheck as of Thu, 17 Sept 2026; the next is "Golden Record NYC x Misbehave presents Simon Heyliger, Mario Polanco, Just Martín" on Thu, 17 Sept 2026.
+Green Room NYC is a music venue in New York City with 14 upcoming nights listed on soundcheck as of Fri, 18 Sept 2026; the next is "Golden Record NYC x pregame presents Malika, Liquid Earth" on Fri, 18 Sept 2026.
 
 Green Room NYC is a music venue in Newyorkcity listed on soundcheck. 14 upcoming nights, with line-ups including ABEILLE, Ali Coleman, Armii1n and Auphoria and 2 more. Browse upcoming dates, start times and who's playing. 195 Morgan Ave, Brooklyn, NY 11237.
 
@@ -8,10 +8,10 @@ Green Room NYC is a music venue in Newyorkcity listed on soundcheck. 14 upcoming
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Thu, 17 Sept 2026 | Golden Record NYC x Misbehave presents Simon Heyliger, Mario Polanco, Just Martín | Mario Polanco, Simon Heyliger |
 | Fri, 18 Sept 2026 | Golden Record NYC x pregame presents Malika, Liquid Earth | Armii1n, DLR, Daizy, LIMBIC, Liquid Earth, Malika, Max Web, limbic sis |
 | Sat, 19 Sept 2026 | VOICE OF VOICE NYC: Let's Dance Brooklyn After Party | Ali Coleman, Bea Trinidad, TEE EM DEE |
 | Sun, 20 Sept 2026 | This is the Way x Golden Record NYC x Nomads Sunday Surprise Cookout | Gui Machado, Momo Trosman, Zayd Turk |
+| Sun, 20 Sept 2026 | Misbehave x Green Room presents Dale | Justin Martin, Seven Minaya |
 | Thu, 24 Sept 2026 | Golden Record NYC presents Bruno Schmidt, Emsho | Bruno Schmidt, Emsho |
 | Fri, 25 Sept 2026 | IMPULSE CØNTROL // Carmen Electro | ABEILLE, Carmen Electro, Flight Mode (DE), Michelle Kay, N1NA, Ramsey Neville |
 | Fri, 25 Sept 2026 | Golden Record NYC x TAMED present D'Julz, Benny Soto & Miguel Gallardo | Benny Soto, Borak, D'Julz, Joiah, Miguel Gallardo |
@@ -23,4 +23,4 @@ Green Room NYC is a music venue in Newyorkcity listed on soundcheck. 14 upcoming
 
 195 Morgan Ave, Brooklyn, NY 11237, New York City
 
-*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/green-room-nyc/)*
+*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/green-room-nyc/)*

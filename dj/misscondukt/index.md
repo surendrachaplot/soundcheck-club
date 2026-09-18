@@ -1,6 +1,6 @@
 # misscondukt
 
-misscondukt is a Afro House and Tech House artist with 1 upcoming club date listed on soundcheck as of Thu, 17 Sept 2026, next at Brixton Radio, London on Sat, 19 Sept 2026.
+misscondukt is a Afro House and Tech House artist with 1 upcoming club date listed on soundcheck as of Fri, 18 Sept 2026, next at Brixton Radio, London on Sat, 19 Sept 2026.
 
 misscondukt is an afro house and tech house artist tracked on soundcheck, with 18 sets logged across London. Often billed alongside KOKOH, Groom Armada and Nicola (UK). Next up: Brixton Radio, London on Sat 19 Sept.
 
@@ -25,4 +25,4 @@ misscondukt is an afro house and tech house artist tracked on soundcheck, with 1
 
 KOKOH, Groom Armada, Nicola (UK)
 
-*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/misscondukt/)*
+*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/misscondukt/)*

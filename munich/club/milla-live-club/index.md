@@ -1,6 +1,6 @@
 # Milla - Live Club
 
-Milla - Live Club is a music venue in Munich with 4 upcoming nights listed on soundcheck as of Thu, 17 Sept 2026; the next is "BAM BAM – BREAKBEAT & JUNGLE with Matin" on Fri, 18 Sept 2026.
+Milla - Live Club is a music venue in Munich with 4 upcoming nights listed on soundcheck as of Fri, 18 Sept 2026; the next is "BAM BAM – BREAKBEAT & JUNGLE with Matin" on Fri, 18 Sept 2026.
 
 Milla - Live Club is a music venue in Munich listed on soundcheck. 4 upcoming nights, with line-ups including Matin. Browse upcoming dates, start times and who's playing. Holzstr. 28, 80469 München.
 
@@ -17,4 +17,4 @@ Milla - Live Club is a music venue in Munich listed on soundcheck. 4 upcoming ni
 
 Holzstr. 28, 80469 München, Munich
 
-*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/munich/club/milla-live-club/)*
+*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/munich/club/milla-live-club/)*

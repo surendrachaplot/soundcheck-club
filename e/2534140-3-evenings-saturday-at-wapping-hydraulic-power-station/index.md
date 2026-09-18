@@ -1,6 +1,6 @@
 # 3 Evenings: Saturday at Wapping Hydraulic Power Station
 
-3 Evenings: Saturday at Wapping Hydraulic Power Station on Sat 17 Oct, London. 1 act on the bill: Zein Majali. Experimental. Preview the line-up and save it on soundcheck.
+3 Evenings: Saturday at Wapping Hydraulic Power Station on Sat 17 Oct, London. 2 acts on the bill: GFOTY and Zein Majali. Experimental. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@
 
 ## Line-up
 
+- GFOTY
 - Zein Majali
 
 *Source: [soundcheck](https://soundcheck.club/e/2534140-3-evenings-saturday-at-wapping-hydraulic-power-station/)*

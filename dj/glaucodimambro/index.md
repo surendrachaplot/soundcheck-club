@@ -1,6 +1,6 @@
 # Glauco Di Mambro
 
-Glauco Di Mambro is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Thu, 17 Sept 2026, next at Utopia Open Air, Rome on Fri, 18 Sept 2026.
+Glauco Di Mambro is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Fri, 18 Sept 2026, next at Utopia Open Air, Rome on Fri, 18 Sept 2026.
 
 Glauco Di Mambro is a house and deep house artist based in Italy, tracked on soundcheck, with 59 sets logged across Amsterdam, Berlin, Ibiza and London and 11 more. Often billed alongside Omer Tayar, Vice Luna and Afrotrace. Next up: Utopia Open Air, Rome on Fri 18 Sept.
 
@@ -25,4 +25,4 @@ Glauco Di Mambro is a house and deep house artist based in Italy, tracked on sou
 
 Omer Tayar, Vice Luna, Afrotrace
 
-*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/glaucodimambro/)*
+*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/glaucodimambro/)*

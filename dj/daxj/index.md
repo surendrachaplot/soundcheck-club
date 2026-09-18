@@ -1,8 +1,8 @@
 # DAX J
 
-DAX J is a Techno and House artist with 11 upcoming club dates listed on soundcheck as of Thu, 17 Sept 2026, next at Nitsa Club, Barcelona on Fri, 18 Sept 2026.
+DAX J is a Techno and House artist with 13 upcoming club dates listed on soundcheck as of Fri, 18 Sept 2026, next at Nitsa Club, Barcelona on Fri, 18 Sept 2026.
 
-DAX J is a techno and house artist tracked on soundcheck, with 258 sets logged across Amsterdam, Athens, Barcelona and Basel and 67 more. Often billed alongside SPFDJ, Daria Kolosova and 999999999. Next up: Nitsa Club, Barcelona on Fri 18 Sept.
+DAX J is a techno and house artist tracked on soundcheck, with 260 sets logged across Amsterdam, Athens, Barcelona and Basel and 67 more. Often billed alongside SPFDJ, Daria Kolosova and Chlär. Next up: Nitsa Club, Barcelona on Fri 18 Sept.
 
 ## Upcoming shows
 
@@ -18,7 +18,8 @@ DAX J is a techno and house artist tracked on soundcheck, with 258 sets logged a
 | Sat, 24 Oct 2026 | Havenpark | Amsterdam |
 | Sat, 24 Oct 2026 | Havenpark | Amsterdam |
 | Fri, 30 Oct 2026 | Factory Town | Miami |
-| Sat, 28 Nov 2026 | Lofi | Amsterdam |
+| Sat, 14 Nov 2026 | Knockdown Center | New York City |
+| Fri, 20 Nov 2026 | Expo Santa Fe | Mexico City |
 
 ## Recently played
 
@@ -33,6 +34,6 @@ DAX J is a techno and house artist tracked on soundcheck, with 258 sets logged a
 
 ## Shares bills with
 
-SPFDJ, Daria Kolosova, 999999999
+SPFDJ, Daria Kolosova, Chlär
 
-*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/daxj/)*
+*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/daxj/)*

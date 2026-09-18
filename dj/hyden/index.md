@@ -1,14 +1,15 @@
 # Hyden
 
-Hyden is a Techno and Electro artist with 2 upcoming club dates listed on soundcheck as of Thu, 17 Sept 2026, next at H26, Cologne on Sat, 19 Sept 2026.
+Hyden is a Techno and Electro artist with 3 upcoming club dates listed on soundcheck as of Fri, 18 Sept 2026, next at H26, Cologne on Sat, 19 Sept 2026.
 
-Hyden is a techno and electro artist based in France, tracked on soundcheck, with 48 sets logged across Amsterdam, Berlin, Buenosaires and Cologne and 9 more. Often billed alongside Cleric, Félicie and Koboyo. Next up: H26, Cologne on Sat 19 Sept.
+Hyden is a techno and electro artist based in France, tracked on soundcheck, with 49 sets logged across Amsterdam, Berlin, Buenosaires and Cologne and 9 more. Often billed alongside Cleric, Félicie and Koboyo. Next up: H26, Cologne on Sat 19 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 19 Sept 2026 | H26 | Cologne |
+| Fri, 25 Sept 2026 | AMT | Berlin |
 | Thu, 22 Oct 2026 | TILLATEC | Amsterdam |
 
 ## Recently played
@@ -26,4 +27,4 @@ Hyden is a techno and electro artist based in France, tracked on soundcheck, wit
 
 Cleric, Félicie, Koboyo
 
-*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/hyden/)*
+*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/hyden/)*

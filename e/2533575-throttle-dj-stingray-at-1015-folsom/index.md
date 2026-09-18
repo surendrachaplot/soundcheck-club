@@ -1,6 +1,6 @@
 # THROTTLE: DJ Stingray at 1015 Folsom
 
-THROTTLE: DJ Stingray at 1015 Folsom on Thu 19 Nov, Sanfrancisco. 1 act on the bill: DJ Stingray 313. Techno. Preview the line-up and save it on soundcheck.
+THROTTLE: DJ Stingray at 1015 Folsom on Thu 19 Nov, Sanfrancisco. 4 acts on the bill: DE ALMA, Discnogirl, DJ Stingray 313 and sfcowboy. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,9 @@ THROTTLE: DJ Stingray at 1015 Folsom on Thu 19 Nov, Sanfrancisco. 1 act on the b
 
 ## Line-up
 
+- DE ALMA
+- Discnogirl
 - DJ Stingray 313
+- sfcowboy
 
 *Source: [soundcheck](https://soundcheck.club/e/2533575-throttle-dj-stingray-at-1015-folsom/)*

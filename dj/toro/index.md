@@ -1,6 +1,6 @@
 # Toro
 
-Toro is a Techno and Acid artist with 2 upcoming club dates listed on soundcheck as of Thu, 17 Sept 2026, next at City Hall, Barcelona on Wed, 23 Sept 2026.
+Toro is a Techno and Acid artist with 2 upcoming club dates listed on soundcheck as of Fri, 18 Sept 2026, next at City Hall, Barcelona on Wed, 23 Sept 2026.
 
 Toro is a techno and acid artist tracked on soundcheck, with 6 sets logged across Barcelona, Kualalumpur, Lisbon and Madrid and 2 more. Often billed alongside Blank, CFCF and Cadeem LaMarr. Next up: City Hall, Barcelona on Wed 23 Sept.
 
@@ -22,4 +22,4 @@ Toro is a techno and acid artist tracked on soundcheck, with 6 sets logged acros
 
 Blank, CFCF, Cadeem LaMarr
 
-*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/toro/)*
+*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/toro/)*

@@ -1,6 +1,6 @@
 # L KAE F
 
-L KAE F is a Ambient and House artist with 1 upcoming club date listed on soundcheck as of Thu, 17 Sept 2026, next at Artsect Gallery, London on Fri, 18 Sept 2026.
+L KAE F is a Ambient and House artist with 1 upcoming club date listed on soundcheck as of Fri, 18 Sept 2026, next at Artsect Gallery, London on Fri, 18 Sept 2026.
 
 L KAE F is an ambient and house artist tracked on soundcheck, with 22 sets logged across London and Vienna. Often billed alongside Rosy Ross, Medallion Man and Pavline. Next up: Artsect Gallery, London on Fri 18 Sept.
 
@@ -25,4 +25,4 @@ L KAE F is an ambient and house artist tracked on soundcheck, with 22 sets logge
 
 Rosy Ross, Medallion Man, Pavline
 
-*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lkaef/)*
+*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lkaef/)*

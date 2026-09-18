@@ -1,8 +1,8 @@
 # Rrose
 
-Rrose is a Techno and Experimental artist with 10 upcoming club dates listed on soundcheck as of Thu, 17 Sept 2026, next at The Lab, San Francisco/Oakland on Thu, 24 Sept 2026.
+Rrose is a Techno and Experimental artist with 12 upcoming club dates listed on soundcheck as of Fri, 18 Sept 2026, next at The Lab, San Francisco/Oakland on Thu, 24 Sept 2026.
 
-Rrose is a techno and experimental artist tracked on soundcheck, with 142 sets logged across Amsterdam, Athens, Barcelona and Basel and 45 more. Often billed alongside DJ Nobu, Wata Igarashi and Polygonia. Next up: The Lab, Sanfrancisco on Thu 24 Sept.
+Rrose is a techno and experimental artist tracked on soundcheck, with 144 sets logged across Amsterdam, Athens, Barcelona and Basel and 45 more. Often billed alongside Wata Igarashi, DJ Nobu and Polygonia. Next up: The Lab, Sanfrancisco on Thu 24 Sept.
 
 ## Upcoming shows
 
@@ -17,6 +17,8 @@ Rrose is a techno and experimental artist tracked on soundcheck, with 142 sets l
 | Sat, 10 Oct 2026 | SMUT Athens | Athens |
 | Sun, 11 Oct 2026 | Razzmatazz | Barcelona |
 | Thu, 22 Oct 2026 | Levenslang Amsterdam | Amsterdam |
+| Thu, 22 Oct 2026 | Loods6 | Amsterdam |
+| Thu, 22 Oct 2026 | Loods6 | Amsterdam |
 | Sat, 24 Oct 2026 | RADION | Amsterdam |
 
 ## Recently played
@@ -32,6 +34,6 @@ Rrose is a techno and experimental artist tracked on soundcheck, with 142 sets l
 
 ## Shares bills with
 
-DJ Nobu, Wata Igarashi, Polygonia
+Wata Igarashi, DJ Nobu, Polygonia
 
-*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/rrose/)*
+*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/rrose/)*

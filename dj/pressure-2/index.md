@@ -1,6 +1,6 @@
 # Pressure (2)
 
-Pressure (2) is a Latin Bass and House artist with 3 upcoming club dates listed on soundcheck as of Thu, 17 Sept 2026, next at Spkrbox, Detroit on Sun, 20 Sept 2026.
+Pressure (2) is a Latin Bass and House artist with 3 upcoming club dates listed on soundcheck as of Fri, 18 Sept 2026, next at Spkrbox, Detroit on Sun, 20 Sept 2026.
 
 Pressure (2) is a latin bass and house artist based in Poland, tracked on soundcheck, with 7 sets logged across Detroit, Liverpool, Stuttgart and Warsaw. Often billed alongside SWDEJAY, Adobo (PL) and DJ Kobieta. Next up: Spkrbox, Detroit on Sun 20 Sept.
 
@@ -23,4 +23,4 @@ Pressure (2) is a latin bass and house artist based in Poland, tracked on soundc
 
 SWDEJAY, Adobo (PL), DJ Kobieta
 
-*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/pressure-2/)*
+*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/pressure-2/)*

@@ -1,8 +1,8 @@
 # Tatyana Jane
 
-Tatyana Jane is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Thu, 17 Sept 2026, next at Palazzo Delle Esposizioni, Rome on Thu, 17 Sept 2026.
+Tatyana Jane is a Techno and Electro artist with 3 upcoming club dates listed on soundcheck as of Fri, 18 Sept 2026, next at Palazzo Delle Esposizioni, Rome on Thu, 17 Sept 2026.
 
-Tatyana Jane is a techno and house artist tracked on soundcheck, with 76 sets logged across Amsterdam, Barcelona, Berlin and Brussels and 13 more. Often billed alongside Busy P, Greg (2) and Skrillex. Next up: Palazzo Delle Esposizioni, Rome on Thu 17 Sept.
+Tatyana Jane is a techno and electro artist tracked on soundcheck, with 76 sets logged across Amsterdam, Barcelona, Berlin and Brussels and 13 more. Often billed alongside Busy P, Greg (2) and Skrillex. Next up: Palazzo Delle Esposizioni, Rome on Thu 17 Sept.
 
 ## Upcoming shows
 
@@ -14,6 +14,7 @@ Tatyana Jane is a techno and house artist tracked on soundcheck, with 76 sets lo
 
 ## Recently played
 
+- Palazzo Delle Esposizioni, Rome — Thu, 17 Sept 2026
 - La Gravière, Geneva — Fri, 24 Jul 2026
 - Fvtvr, Paris — Fri, 10 Jul 2026
 - Nitsa Club, Barcelona — Sat, 4 Jul 2026
@@ -21,10 +22,9 @@ Tatyana Jane is a techno and house artist tracked on soundcheck, with 76 sets lo
 - TBA - Castello di Rivoli - Museo di Arte Contemporanea, Turin — Thu, 2 Jul 2026
 - TBA - Paradise City Festival, Brussels — Fri, 26 Jun 2026
 - Bois de Vincennes, Paris — Fri, 5 Jun 2026
-- Kraftwerk Berlin, Berlin — Sat, 30 May 2026
 
 ## Shares bills with
 
 Busy P, Greg (2), Skrillex
 
-*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tatyanajane/)*
+*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tatyanajane/)*

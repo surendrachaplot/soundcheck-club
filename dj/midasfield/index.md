@@ -1,8 +1,8 @@
 # Midas Field
 
-Midas Field is a House and Deep House artist with 9 upcoming club dates listed on soundcheck as of Thu, 17 Sept 2026, next at BRET, Amsterdam on Fri, 18 Sept 2026.
+Midas Field is a House and Tech House artist with 10 upcoming club dates listed on soundcheck as of Fri, 18 Sept 2026, next at BRET, Amsterdam on Fri, 18 Sept 2026.
 
-Midas Field is a house and deep house artist based in Netherlands, tracked on soundcheck, with 28 sets logged across Amsterdam, Dublin, Ibiza and Melbourne and 3 more. Often billed alongside Drabes, Dam Swindle and Laura Meester. Next up: BRET, Amsterdam on Fri 18 Sept.
+Midas Field is a house and tech house artist based in Netherlands, tracked on soundcheck, with 29 sets logged across Amsterdam, Dublin, Ibiza and Melbourne and 3 more. Often billed alongside Drabes, Dam Swindle and Laura Meester. Next up: BRET, Amsterdam on Fri 18 Sept.
 
 ## Upcoming shows
 
@@ -15,6 +15,7 @@ Midas Field is a house and deep house artist based in Netherlands, tracked on so
 | Sat, 3 Oct 2026 | Madam | Amsterdam |
 | Thu, 22 Oct 2026 | KIT Royal Tropical Institute | Amsterdam |
 | Thu, 22 Oct 2026 | KIT Royal Tropical Institute | Amsterdam |
+| Thu, 22 Oct 2026 | Basement (Amsterdam) | Amsterdam |
 | Fri, 23 Oct 2026 | Ijland | Amsterdam |
 | Fri, 23 Oct 2026 | TBA - FRODA'S, De Clercqstraat 40H, 1052 NG Amsterdam | Amsterdam |
 
@@ -33,4 +34,4 @@ Midas Field is a house and deep house artist based in Netherlands, tracked on so
 
 Drabes, Dam Swindle, Laura Meester
 
-*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/midasfield/)*
+*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/midasfield/)*

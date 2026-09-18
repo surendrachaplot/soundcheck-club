@@ -1,6 +1,6 @@
 # Sangarang
 
-Sangarang is a House and Garage artist with 1 upcoming club date listed on soundcheck as of Thu, 17 Sept 2026, next at Bourbon On Division, Chicago on Sat, 3 Oct 2026.
+Sangarang is a House and Garage artist with 1 upcoming club date listed on soundcheck as of Fri, 18 Sept 2026, next at Bourbon On Division, Chicago on Sat, 3 Oct 2026.
 
 Sangarang is a house and garage artist tracked on soundcheck, with 17 sets logged across Chicago and Newyorkcity. Often billed alongside DJ Squid, NICHE (2) and $EJ. Next up: Bourbon On Division, Chicago on Sat 3 Oct.
 
@@ -25,4 +25,4 @@ Sangarang is a house and garage artist tracked on soundcheck, with 17 sets logge
 
 DJ Squid, NICHE (2), $EJ
 
-*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sangarang/)*
+*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sangarang/)*

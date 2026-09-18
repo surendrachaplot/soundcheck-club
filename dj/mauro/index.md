@@ -1,6 +1,6 @@
 # MAURO
 
-MAURO is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Thu, 17 Sept 2026, next at Nido Cocktailbar, Amsterdam on Fri, 23 Oct 2026.
+MAURO is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Fri, 18 Sept 2026, next at Nido Cocktailbar, Amsterdam on Fri, 23 Oct 2026.
 
 MAURO is a techno and trance artist based in Germany, tracked on soundcheck, with 27 sets logged across Amsterdam, Berlin, Brussels and Cologne and 3 more. Often billed alongside Th.is Fake, OXOPOHA and LSG. Next up: Nido Cocktailbar, Amsterdam on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ MAURO is a techno and trance artist based in Germany, tracked on soundcheck, wit
 
 Th.is Fake, OXOPOHA, LSG
 
-*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mauro/)*
+*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mauro/)*

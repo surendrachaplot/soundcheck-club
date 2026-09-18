@@ -1,6 +1,6 @@
 # Jenn Gunn (2)
 
-Jenn Gunn (2) is a House and Garage artist with 1 upcoming club date listed on soundcheck as of Thu, 17 Sept 2026, next at King Tut's Wah Wah Hut, Glasgow on Thu, 3 Dec 2026.
+Jenn Gunn (2) is a House and Garage artist with 1 upcoming club date listed on soundcheck as of Fri, 18 Sept 2026, next at King Tut's Wah Wah Hut, Glasgow on Thu, 3 Dec 2026.
 
 Jenn Gunn (2) is a house and garage artist based in United Kingdom, tracked on soundcheck, with 52 sets logged across Aberdeen, Dundee, Edinburgh and Glasgow and 1 more. Often billed alongside C Frame, Gourlay and Et Al (1). Next up: King Tut's Wah Wah Hut, Glasgow on Thu 3 Dec.
 
@@ -25,4 +25,4 @@ Jenn Gunn (2) is a house and garage artist based in United Kingdom, tracked on s
 
 C Frame, Gourlay, Et Al (1)
 
-*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jenngunn-2/)*
+*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jenngunn-2/)*

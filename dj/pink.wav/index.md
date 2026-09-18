@@ -1,6 +1,6 @@
 # pink.wav
 
-pink.wav is a Techno and Bass artist with 2 upcoming club dates listed on soundcheck as of Thu, 17 Sept 2026, next at Ilion Plus, Athens on Sat, 26 Sept 2026.
+pink.wav is a Techno and Bass artist with 2 upcoming club dates listed on soundcheck as of Fri, 18 Sept 2026, next at Ilion Plus, Athens on Sat, 26 Sept 2026.
 
 pink.wav is a techno and bass artist tracked on soundcheck, with 46 sets logged across Athens, Brussels and Prague. Often billed alongside Andreas Palmer, Poor J’Darr and A. Square. Next up: Ilion Plus, Athens on Sat 26 Sept.
 
@@ -26,4 +26,4 @@ pink.wav is a techno and bass artist tracked on soundcheck, with 46 sets logged 
 
 Andreas Palmer, Poor J’Darr, A. Square
 
-*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/pink.wav/)*
+*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/pink.wav/)*

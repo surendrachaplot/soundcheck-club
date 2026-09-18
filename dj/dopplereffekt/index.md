@@ -1,8 +1,8 @@
 # Dopplereffekt
 
-Dopplereffekt is a Techno and Electro artist with 7 upcoming club dates listed on soundcheck as of Thu, 17 Sept 2026, next at Fort Mifflin, Philadelphia on Fri, 18 Sept 2026.
+Dopplereffekt is a Techno and Electro artist with 8 upcoming club dates listed on soundcheck as of Fri, 18 Sept 2026, next at Fort Mifflin, Philadelphia on Fri, 18 Sept 2026.
 
-Dopplereffekt is a techno and electro artist tracked on soundcheck, with 39 sets logged across Amsterdam, Berlin, Bristol and Chicago and 18 more. Often billed alongside Aurora Halal, Octo Octa and Skee Mask. Next up: Fort Mifflin, Philadelphia on Fri 18 Sept.
+Dopplereffekt is a techno and electro artist tracked on soundcheck, with 40 sets logged across Amsterdam, Berlin, Bristol and Chicago and 19 more. Often billed alongside Aurora Halal, Octo Octa and Skee Mask. Next up: Fort Mifflin, Philadelphia on Fri 18 Sept.
 
 ## Upcoming shows
 
@@ -14,6 +14,7 @@ Dopplereffekt is a techno and electro artist tracked on soundcheck, with 39 sets
 | Fri, 2 Oct 2026 | SFU Goldcorp Centre for the Arts | Vancouver |
 | Sat, 3 Oct 2026 | Société des arts technologiques | Montreal |
 | Thu, 8 Oct 2026 | L'Alhambra | Geneva |
+| Thu, 5 Nov 2026 | Stadtgarten Konzertsaal / Cafe | Cologne |
 | Fri, 13 Nov 2026 | Hidden | Manchester |
 
 ## Recently played
@@ -31,4 +32,4 @@ Dopplereffekt is a techno and electro artist tracked on soundcheck, with 39 sets
 
 Aurora Halal, Octo Octa, Skee Mask
 
-*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dopplereffekt/)*
+*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dopplereffekt/)*

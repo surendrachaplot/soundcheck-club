@@ -1,18 +1,18 @@
 # Cosy (2)
 
-Cosy (2) is a Garage and UK Funky artist with 2 upcoming club dates listed on soundcheck as of Thu, 17 Sept 2026, next at Angel Music Bar, Melbourne on Thu, 17 Sept 2026.
+Cosy (2) is a Garage and UK Funky artist with 1 upcoming club date listed on soundcheck as of Fri, 18 Sept 2026, next at Bahnwärter Thiel, Munich on Fri, 18 Sept 2026.
 
-Cosy (2) is a garage and uk funky artist based in Australia, tracked on soundcheck, with 11 sets logged across Melbourne and Munich. Often billed alongside KJONES, Safe and FAF (1). Next up: Angel Music Bar, Melbourne on Thu 17 Sept.
+Cosy (2) is a garage and uk funky artist based in Australia, tracked on soundcheck, with 11 sets logged across Melbourne and Munich. Often billed alongside KJONES, Safe and FAF (1). Next up: Bahnwärter Thiel, Munich on Fri 18 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Thu, 17 Sept 2026 | Angel Music Bar | Melbourne |
 | Fri, 18 Sept 2026 | Bahnwärter Thiel | Munich |
 
 ## Recently played
 
+- Angel Music Bar, Melbourne — Thu, 17 Sept 2026
 - Revolver Upstairs, Melbourne — Fri, 7 Aug 2026
 - QQQ ST. Park, Melbourne — Sat, 25 Jul 2026
 - Sooki Lounge, Melbourne — Sat, 13 Jun 2026
@@ -20,10 +20,9 @@ Cosy (2) is a garage and uk funky artist based in Australia, tracked on soundche
 - Bahnwärter Thiel, Munich — Fri, 15 May 2026
 - Section 8, Melbourne — Thu, 9 Apr 2026
 - New Guernica, Melbourne — Fri, 6 Mar 2026
-- Section 8, Melbourne — Thu, 4 Dec 2025
 
 ## Shares bills with
 
 KJONES, Safe, FAF (1)
 
-*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/cosy-2/)*
+*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/cosy-2/)*

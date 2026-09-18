@@ -1,8 +1,8 @@
 # Doudou MD
 
-Doudou MD is a House and Techno artist with 11 upcoming club dates listed on soundcheck as of Thu, 17 Sept 2026, next at UNO MALTA, Malta on Fri, 18 Sept 2026.
+Doudou MD is a House and Techno artist with 12 upcoming club dates listed on soundcheck as of Fri, 18 Sept 2026, next at UNO MALTA, Malta on Fri, 18 Sept 2026.
 
-Doudou MD is a house and techno artist tracked on soundcheck, with 222 sets logged across Amsterdam, Austin, Bali and Barcelona and 46 more. Often billed alongside Samuel Deep, DJ Senc and Fumiya Tanaka. Next up: UNO MALTA, Malta on Fri 18 Sept.
+Doudou MD is a house and techno artist tracked on soundcheck, with 223 sets logged across Amsterdam, Austin, Bali and Barcelona and 47 more. Often billed alongside Samuel Deep, DJ Senc and Fumiya Tanaka. Next up: UNO MALTA, Malta on Fri 18 Sept.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ Doudou MD is a house and techno artist tracked on soundcheck, with 222 sets logg
 | Fri, 18 Sept 2026 | UNO MALTA | Malta |
 | Fri, 18 Sept 2026 | export | Rotterdam |
 | Sat, 19 Sept 2026 | Shelter Amsterdam | Amsterdam |
+| Sat, 3 Oct 2026 | Wigwam | Dublin |
 | Thu, 22 Oct 2026 | Skatecafe | Amsterdam |
 | Sat, 24 Oct 2026 | Levenslang Amsterdam | Amsterdam |
 | Sat, 24 Oct 2026 | TILLATEC | Amsterdam |
@@ -35,4 +36,4 @@ Doudou MD is a house and techno artist tracked on soundcheck, with 222 sets logg
 
 Samuel Deep, DJ Senc, Fumiya Tanaka
 
-*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/doudoumd/)*
+*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/doudoumd/)*

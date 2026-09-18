@@ -1,8 +1,8 @@
 # sim0ne
 
-sim0ne is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Thu, 17 Sept 2026, next at Aria Complex, Malta on Sat, 19 Sept 2026.
+sim0ne is a Techno and House artist with 7 upcoming club dates listed on soundcheck as of Fri, 18 Sept 2026, next at Aria Complex, Malta on Sat, 19 Sept 2026.
 
-sim0ne is a techno and house artist tracked on soundcheck, with 108 sets logged across Aberdeen, Amsterdam, Antwerp and Auckland and 37 more. Often billed alongside Juicy Romance, DJ Heartstring and MALUGI. Next up: Aria Complex, Malta on Sat 19 Sept.
+sim0ne is a techno and house artist tracked on soundcheck, with 109 sets logged across Aberdeen, Amsterdam, Antwerp and Auckland and 37 more. Often billed alongside Juicy Romance, DJ Heartstring and MALUGI. Next up: Aria Complex, Malta on Sat 19 Sept.
 
 ## Upcoming shows
 
@@ -14,6 +14,7 @@ sim0ne is a techno and house artist tracked on soundcheck, with 108 sets logged 
 | Fri, 13 Nov 2026 | The Cause | London |
 | Fri, 27 Nov 2026 | Lardner Park | Melbourne |
 | Sat, 5 Dec 2026 | The Metro Theatre | Sydney |
+| Thu, 17 Dec 2026 | Sub Club | Glasgow |
 
 ## Recently played
 
@@ -30,4 +31,4 @@ sim0ne is a techno and house artist tracked on soundcheck, with 108 sets logged 
 
 Juicy Romance, DJ Heartstring, MALUGI
 
-*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sim0ne/)*
+*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sim0ne/)*

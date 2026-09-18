@@ -1,6 +1,6 @@
 # Carlo Lio
 
-Carlo Lio is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Thu, 17 Sept 2026, next at The Comfort Zone, Toronto on Sat, 31 Oct 2026.
+Carlo Lio is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Fri, 18 Sept 2026, next at The Comfort Zone, Toronto on Sat, 31 Oct 2026.
 
 Carlo Lio is a techno and tech house artist based in Canada, tracked on soundcheck, with 44 sets logged across Barcelona, Boston, Chicago and Istanbul and 10 more. Often billed alongside Nathan Barato, Lexlay and Anthony Attalla. Next up: The Comfort Zone, Toronto on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Carlo Lio is a techno and tech house artist based in Canada, tracked on soundche
 
 Nathan Barato, Lexlay, Anthony Attalla
 
-*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/carlolio/)*
+*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/carlolio/)*

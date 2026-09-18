@@ -1,6 +1,6 @@
 # berlinClub
 
-berlinClub is a music venue in Madrid with 4 upcoming nights listed on soundcheck as of Thu, 17 Sept 2026; the next is "Le Gap · Papaia Club + Le Nomad" on Fri, 18 Sept 2026.
+berlinClub is a music venue in Madrid with 4 upcoming nights listed on soundcheck as of Fri, 18 Sept 2026; the next is "Le Gap · Papaia Club + Le Nomad" on Fri, 18 Sept 2026.
 
 berlinClub is a music venue in Madrid listed on soundcheck. 4 upcoming nights, with line-ups including Breezy S, Cabin Luv Affair, El cuerpo del Disco and Gaspar Antuña and 2 more. Browse upcoming dates, start times and who's playing. Costanilla de los Ángeles, 20, 28013 Madrid.
 
@@ -17,4 +17,4 @@ berlinClub is a music venue in Madrid listed on soundcheck. 4 upcoming nights, w
 
 Costanilla de los Ángeles, 20, 28013 Madrid, Madrid
 
-*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/berlinclub/)*
+*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/berlinclub/)*

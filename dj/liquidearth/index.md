@@ -1,6 +1,6 @@
 # Liquid Earth
 
-Liquid Earth is a House and Techno artist with 6 upcoming club dates listed on soundcheck as of Thu, 17 Sept 2026, next at Green Room NYC, New York City on Fri, 18 Sept 2026.
+Liquid Earth is a House and Techno artist with 6 upcoming club dates listed on soundcheck as of Fri, 18 Sept 2026, next at Green Room NYC, New York City on Fri, 18 Sept 2026.
 
 Liquid Earth is a house and techno artist tracked on soundcheck, with 183 sets logged across Amsterdam, Antwerp, Austin and Bangkok and 49 more. Often billed alongside Mari.te, tINI and Hamish & Toby. Next up: Green Room NYC, Newyorkcity on Fri 18 Sept.
 
@@ -30,4 +30,4 @@ Liquid Earth is a house and techno artist tracked on soundcheck, with 183 sets l
 
 Mari.te, tINI, Hamish & Toby
 
-*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/liquidearth/)*
+*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/liquidearth/)*

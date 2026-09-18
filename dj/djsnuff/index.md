@@ -1,6 +1,6 @@
 # DJ Snuff
 
-DJ Snuff is a Jazz and Dub artist with 1 upcoming club date listed on soundcheck as of Thu, 17 Sept 2026, next at Bureau of Silly Ideas, London on Thu, 1 Oct 2026.
+DJ Snuff is a Jazz and Dub artist with 1 upcoming club date listed on soundcheck as of Fri, 18 Sept 2026, next at Bureau of Silly Ideas, London on Thu, 1 Oct 2026.
 
 DJ Snuff is a jazz and dub artist tracked on soundcheck, with 31 sets logged across London. Often billed alongside Slick N Bobby, Congo Natty and Sammseed. Next up: Bureau of Silly Ideas, London on Thu 1 Oct.
 
@@ -25,4 +25,4 @@ DJ Snuff is a jazz and dub artist tracked on soundcheck, with 31 sets logged acr
 
 Slick N Bobby, Congo Natty, Sammseed
 
-*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djsnuff/)*
+*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djsnuff/)*

@@ -1,13 +1,14 @@
 # Borisov Amsterdam
 
-Borisov Amsterdam is a music venue in Amsterdam with 2 upcoming nights listed on soundcheck as of Thu, 17 Sept 2026; the next is "Pintai (ADE)" on Fri, 23 Oct 2026.
+Borisov Amsterdam is a music venue in Amsterdam with 3 upcoming nights listed on soundcheck as of Fri, 18 Sept 2026; the next is "Vessel presents Kenny Dope & Todd Terry" on Thu, 22 Oct 2026.
 
-Borisov Amsterdam is a music venue in Amsterdam listed on soundcheck. 2 upcoming nights, with line-ups including Gizem, Hafa, Hame (1) and Lb Honne and 1 more. Browse upcoming dates, start times and who's playing. Rigakade 10 1013 BC Amsterdam, Netherlands.
+Borisov Amsterdam is a music venue in Amsterdam listed on soundcheck. 3 upcoming nights, with line-ups including Gizem, Hafa, Hame (1) and Jason Merle and 2 more. Browse upcoming dates, start times and who's playing. Rigakade 10 1013 BC Amsterdam, Netherlands.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
+| Thu, 22 Oct 2026 | Vessel presents Kenny Dope & Todd Terry | Jason Merle, Kenny Dope, Michael Moog, Nonfiction, Roland Clark, Todd Terry |
 | Fri, 23 Oct 2026 | Pintai (ADE) | Gizem, Hafa, Hame (1), Lb Honne, ORION (IT) |
 | Sat, 24 Oct 2026 | Nous'klaer Audio at Borisov / ADE 2026 |  |
 
@@ -15,4 +16,4 @@ Borisov Amsterdam is a music venue in Amsterdam listed on soundcheck. 2 upcoming
 
 Rigakade 10 1013 BC Amsterdam, Netherlands, Amsterdam
 
-*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/borisov-amsterdam/)*
+*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/borisov-amsterdam/)*

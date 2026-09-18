@@ -1,6 +1,6 @@
 # Sacré
 
-Sacré is a music venue in Paris with 13 upcoming nights listed on soundcheck as of Thu, 17 Sept 2026; the next is "Sacré présente: Frappé Takeover with Irfane, Basile de Suresnes & Ten Fingerz" on Fri, 18 Sept 2026.
+Sacré is a music venue in Paris with 13 upcoming nights listed on soundcheck as of Fri, 18 Sept 2026; the next is "Sacré présente: Frappé Takeover with Irfane, Basile de Suresnes & Ten Fingerz" on Fri, 18 Sept 2026.
 
 Sacré is a music venue in Paris listed on soundcheck. 13 upcoming nights, with line-ups including Bag Raiders, Basile de Suresnes, Bridge (NY) and Bubs and 2 more. Browse upcoming dates, start times and who's playing. 142 rue montmartre 75002 Paris.
 
@@ -23,4 +23,4 @@ Sacré is a music venue in Paris listed on soundcheck. 13 upcoming nights, with 
 
 142 rue montmartre 75002 Paris, Paris
 
-*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/paris/club/sacr/)*
+*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/paris/club/sacr/)*

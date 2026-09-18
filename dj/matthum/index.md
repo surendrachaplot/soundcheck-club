@@ -1,6 +1,6 @@
 # Matt Hum
 
-Matt Hum is a Electronica and House artist with 1 upcoming club date listed on soundcheck as of Thu, 17 Sept 2026, next at Sidney & Matilda, Sheffield on Sat, 17 Oct 2026.
+Matt Hum is a Electronica and House artist with 1 upcoming club date listed on soundcheck as of Fri, 18 Sept 2026, next at Sidney & Matilda, Sheffield on Sat, 17 Oct 2026.
 
 Matt Hum is an electronica and house artist tracked on soundcheck, with 35 sets logged across Leeds, London, Manchester and Sheffield. Often billed alongside Syd Minsky, Duncan Gray and Erol Alkan. Next up: Sidney & Matilda, Sheffield on Sat 17 Oct.
 
@@ -25,4 +25,4 @@ Matt Hum is an electronica and house artist tracked on soundcheck, with 35 sets 
 
 Syd Minsky, Duncan Gray, Erol Alkan
 
-*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/matthum/)*
+*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/matthum/)*

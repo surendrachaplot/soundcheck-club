@@ -1,6 +1,6 @@
 # Fatboy Slim at 888 Garage
 
-Fatboy Slim at 888 Garage on Sun 27 Sept, Sanfrancisco. 1 act on the bill: Fatboy Slim. Preview the line-up and save it on soundcheck.
+Fatboy Slim at 888 Garage on Sun 27 Sept, Sanfrancisco. 2 acts on the bill: Fatboy Slim and RIRIA. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,5 +11,6 @@ Fatboy Slim at 888 Garage on Sun 27 Sept, Sanfrancisco. 1 act on the bill: Fatbo
 ## Line-up
 
 - Fatboy Slim
+- RIRIA
 
 *Source: [soundcheck](https://soundcheck.club/e/2525578-fatboy-slim-at-888-garage/)*

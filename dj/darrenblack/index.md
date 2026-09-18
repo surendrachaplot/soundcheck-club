@@ -1,6 +1,6 @@
 # Darren Black
 
-Darren Black is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 17 Sept 2026, next at KREUZWERK, Berlin on Fri, 25 Sept 2026.
+Darren Black is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 18 Sept 2026, next at KREUZWERK, Berlin on Fri, 25 Sept 2026.
 
 Darren Black is a techno and house artist based in United Kingdom, tracked on soundcheck, with 48 sets logged across Berlin, Leipzig, London and Paris. Often billed alongside Jaycap, Ben Manson and Feel .MA. Next up: KREUZWERK, Berlin on Fri 25 Sept.
 
@@ -26,4 +26,4 @@ Darren Black is a techno and house artist based in United Kingdom, tracked on so
 
 Jaycap, Ben Manson, Feel .MA
 
-*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/darrenblack/)*
+*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/darrenblack/)*

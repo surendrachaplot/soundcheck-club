@@ -1,6 +1,6 @@
 # Soreab
 
-Soreab is a Techno and Bass artist with 1 upcoming club date listed on soundcheck as of Thu, 17 Sept 2026, next at Sauna Social Club, London on Fri, 18 Sept 2026.
+Soreab is a Techno and Bass artist with 1 upcoming club date listed on soundcheck as of Fri, 18 Sept 2026, next at Sauna Social Club, London on Fri, 18 Sept 2026.
 
 Soreab is a techno and bass artist tracked on soundcheck, with 23 sets logged across Kyoto, London, Milan and Osaka and 4 more. Often billed alongside Big Hands, Flore and Ehua. Next up: Sauna Social Club, London on Fri 18 Sept.
 
@@ -25,4 +25,4 @@ Soreab is a techno and bass artist tracked on soundcheck, with 23 sets logged ac
 
 Big Hands, Flore, Ehua
 
-*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/soreab/)*
+*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/soreab/)*

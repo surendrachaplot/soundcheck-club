@@ -1,6 +1,6 @@
 # Bambi (FR)
 
-Bambi (FR) is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 17 Sept 2026, next at TBA - Premises, Chicago on Sat, 24 Oct 2026.
+Bambi (FR) is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 18 Sept 2026, next at TBA - Premises, Chicago on Sat, 24 Oct 2026.
 
 Bambi (FR) is a techno and house artist tracked on soundcheck, with 77 sets logged across Amsterdam, Antwerp, Barcelona and Berlin and 18 more. Often billed alongside Lastvuska, GTI and Jolly (FR). Next up: TBA - Premises, Chicago on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ Bambi (FR) is a techno and house artist tracked on soundcheck, with 77 sets logg
 
 Lastvuska, GTI, Jolly (FR)
 
-*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bambi-fr/)*
+*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bambi-fr/)*

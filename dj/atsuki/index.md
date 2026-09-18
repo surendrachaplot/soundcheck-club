@@ -1,14 +1,15 @@
 # Atsuki
 
-Atsuki is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 17 Sept 2026, next at Red Bar, Tokyo on Fri, 18 Sept 2026.
+Atsuki is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 18 Sept 2026, next at Red Bar, Tokyo on Fri, 18 Sept 2026.
 
-Atsuki is a house and techno artist tracked on soundcheck, with 84 sets logged across Bali, Osaka, Seoul and Tokyo. Often billed alongside Karuta, Celter and Wada Yosuke. Next up: Red Bar, Tokyo on Fri 18 Sept.
+Atsuki is a house and techno artist tracked on soundcheck, with 85 sets logged across Bali, Osaka, Seoul and Tokyo. Often billed alongside Karuta, Celter and Wada Yosuke. Next up: Red Bar, Tokyo on Fri 18 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 18 Sept 2026 | Red Bar | Tokyo |
+| Fri, 9 Oct 2026 | WOMB | Tokyo |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Atsuki is a house and techno artist tracked on soundcheck, with 84 sets logged a
 
 Karuta, Celter, Wada Yosuke
 
-*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/atsuki/)*
+*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/atsuki/)*

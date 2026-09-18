@@ -1,8 +1,8 @@
 # The Foundry
 
-The Foundry is a music venue in San Francisco/Oakland with 5 upcoming nights listed on soundcheck as of Thu, 17 Sept 2026; the next is "Atrip & DJ Boring" on Fri, 18 Sept 2026.
+The Foundry is a music venue in San Francisco/Oakland with 6 upcoming nights listed on soundcheck as of Fri, 18 Sept 2026; the next is "Atrip & DJ Boring" on Fri, 18 Sept 2026.
 
-The Foundry is a music venue in Sanfrancisco listed on soundcheck. 5 upcoming nights, with line-ups including ATRIP, DJ BORING, Jojo Lorenzo and Tinzo. Browse upcoming dates, start times and who's playing. 1425 Folsom St, San Francisco, CA 94103.
+The Foundry is a music venue in Sanfrancisco listed on soundcheck. 6 upcoming nights, with line-ups including ATRIP, DJ BORING, Jojo Lorenzo and Petit Biscuit and 1 more. Browse upcoming dates, start times and who's playing. 1425 Folsom St, San Francisco, CA 94103.
 
 ## What's on
 
@@ -11,6 +11,7 @@ The Foundry is a music venue in Sanfrancisco listed on soundcheck. 5 upcoming ni
 | Fri, 18 Sept 2026 | Atrip & DJ Boring | ATRIP, DJ BORING |
 | Sat, 19 Sept 2026 | KYBBA |  |
 | Sat, 19 Sept 2026 | Kybba |  |
+| Fri, 23 Oct 2026 | Petit Biscuit in San Francisco | Petit Biscuit |
 | Sat, 24 Oct 2026 | Tinzo + Jojo: Dark Library Tour | Jojo Lorenzo, Tinzo |
 | Sun, 25 Oct 2026 | Tinzo + Jojo: Dark Library Tour SF (Second Party Added) | Jojo Lorenzo, Tinzo |
 
@@ -18,4 +19,4 @@ The Foundry is a music venue in Sanfrancisco listed on soundcheck. 5 upcoming ni
 
 1425 Folsom St, San Francisco, CA 94103, San Francisco/Oakland
 
-*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/the-foundry/)*
+*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/the-foundry/)*

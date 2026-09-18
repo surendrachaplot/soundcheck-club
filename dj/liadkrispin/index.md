@@ -1,6 +1,6 @@
 # Liad Krispin
 
-Liad Krispin is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 17 Sept 2026, next at TBA, Berlin on Fri, 25 Sept 2026.
+Liad Krispin is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 18 Sept 2026, next at TBA, Berlin on Fri, 25 Sept 2026.
 
 Liad Krispin is a techno and house artist tracked on soundcheck, with 37 sets logged across Berlin, Brussels, Copenhagen and Hamburg and 6 more. Often billed alongside Luigi Di Venere, Budino and DSGNRPSSY. Next up: TBA, Berlin on Fri 25 Sept.
 
@@ -26,4 +26,4 @@ Liad Krispin is a techno and house artist tracked on soundcheck, with 37 sets lo
 
 Luigi Di Venere, Budino, DSGNRPSSY
 
-*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/liadkrispin/)*
+*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/liadkrispin/)*

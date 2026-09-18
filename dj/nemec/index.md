@@ -1,6 +1,6 @@
 # Nemec
 
-Nemec is a House and Electro artist with 1 upcoming club date listed on soundcheck as of Thu, 17 Sept 2026, next at El Internacional, Madrid on Sat, 19 Sept 2026.
+Nemec is a House and Electro artist with 1 upcoming club date listed on soundcheck as of Fri, 18 Sept 2026, next at El Internacional, Madrid on Sat, 19 Sept 2026.
 
 Nemec is a house and electro artist based in Colombia, tracked on soundcheck, with 13 sets logged across Barcelona and Madrid. Often billed alongside Bttologic, F.E.X and John Karam. Next up: El Internacional, Madrid on Sat 19 Sept.
 
@@ -25,4 +25,4 @@ Nemec is a house and electro artist based in Colombia, tracked on soundcheck, wi
 
 Bttologic, F.E.X, John Karam
 
-*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nemec/)*
+*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nemec/)*

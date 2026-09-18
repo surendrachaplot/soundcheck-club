@@ -1,14 +1,13 @@
 # [UNVRS]
 
-[UNVRS] is a music venue in Ibiza with 22 upcoming nights listed on soundcheck as of Thu, 17 Sept 2026; the next is "Adriatique presents X" on Thu, 17 Sept 2026.
+[UNVRS] is a music venue in Ibiza with 21 upcoming nights listed on soundcheck as of Fri, 18 Sept 2026; the next is "David Guetta presents Galactic Circus" on Fri, 18 Sept 2026.
 
-[UNVRS] is a music venue in Ibiza listed on soundcheck. 22 upcoming nights, with line-ups including Adriatique, Alan Fitzpatrick, AMÉMÉ and Anna Unusyan and 2 more. Browse upcoming dates, start times and who's playing. Urbanización San Rafael, s/n, 07816 Sant Antoni de Portmany, Balearic Islands.
+[UNVRS] is a music venue in Ibiza listed on soundcheck. 21 upcoming nights, with line-ups including Adriatique, Alan Fitzpatrick, AMÉMÉ and Anna Unusyan and 2 more. Browse upcoming dates, start times and who's playing. Urbanización San Rafael, s/n, 07816 Sant Antoni de Portmany, Balearic Islands.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Thu, 17 Sept 2026 | Adriatique presents X | Adriatique |
 | Fri, 18 Sept 2026 | David Guetta presents Galactic Circus | David Guetta, Rivo |
 | Sat, 19 Sept 2026 | elrow Ibiza | Bora Uzer, De La Swing, Joëlla Jackson, Wade |
 | Sun, 20 Sept 2026 | Carl Cox | Carl Cox, Dennis Cruz, Karretero, Loco Dice, Melon Bomb, Mita Gami, PAUZA |
@@ -18,9 +17,10 @@
 | Thu, 24 Sept 2026 | Adriatique presents X | Adriatique |
 | Fri, 25 Sept 2026 | David Guetta presents Galactic Circus | David Guetta, Miss Monique |
 | Sat, 26 Sept 2026 | elrow Ibiza | Joris Voorn, Kolsch, Rendher, Tini Gessler |
+| Sun, 27 Sept 2026 | Carl Cox | Alan Fitzpatrick, Carl Cox, Melon Bomb, Nicole Moudaber, PAUZA |
 
 ## Address
 
 Urbanización San Rafael, s/n, 07816 Sant Antoni de Portmany, Balearic Islands, Ibiza
 
-*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/ibiza/club/unvrs/)*
+*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/ibiza/club/unvrs/)*

@@ -1,8 +1,8 @@
 # Fejká
 
-Fejká is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Thu, 17 Sept 2026, next at Toekomstmuziek, Amsterdam on Thu, 22 Oct 2026.
+Fejká is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Fri, 18 Sept 2026, next at Toekomstmuziek, Amsterdam on Thu, 22 Oct 2026.
 
-Fejká is a house and techno artist tracked on soundcheck, with 60 sets logged across Amsterdam, Berlin, Budapest and Cologne and 21 more. Often billed alongside Estiva, ALLKNIGHT and Kalipo. Next up: Toekomstmuziek, Amsterdam on Thu 22 Oct.
+Fejká is a house and techno artist tracked on soundcheck, with 61 sets logged across Amsterdam, Berlin, Budapest and Cologne and 21 more. Often billed alongside Estiva, ALLKNIGHT and Kalipo. Next up: Toekomstmuziek, Amsterdam on Thu 22 Oct.
 
 ## Upcoming shows
 
@@ -12,6 +12,7 @@ Fejká is a house and techno artist tracked on soundcheck, with 60 sets logged a
 | Sat, 21 Nov 2026 | Blique by Nobis Rooftop | Stockholm |
 | Fri, 27 Nov 2026 | Wigwam | Dublin |
 | Wed, 2 Dec 2026 | Bike Jesus | Prague |
+| Thu, 17 Dec 2026 | Werk 21 | Zurich |
 
 ## Recently played
 
@@ -28,4 +29,4 @@ Fejká is a house and techno artist tracked on soundcheck, with 60 sets logged a
 
 Estiva, ALLKNIGHT, Kalipo
 
-*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/fejka/)*
+*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/fejka/)*

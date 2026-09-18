@@ -1,6 +1,6 @@
 # Emisopa
 
-Emisopa is a Reggaeton and Latin Bass artist with 1 upcoming club date listed on soundcheck as of Thu, 17 Sept 2026, next at Frappant, Hamburg on Fri, 18 Sept 2026.
+Emisopa is a Reggaeton and Latin Bass artist with 1 upcoming club date listed on soundcheck as of Fri, 18 Sept 2026, next at Frappant, Hamburg on Fri, 18 Sept 2026.
 
 Emisopa is a reggaeton and latin bass artist based in Mexico, tracked on soundcheck, with 19 sets logged across Hamburg and Mexicocity. Often billed alongside KBZON, AHNDO and Akoree. Next up: Frappant, Hamburg on Fri 18 Sept.
 
@@ -25,4 +25,4 @@ Emisopa is a reggaeton and latin bass artist based in Mexico, tracked on soundch
 
 KBZON, AHNDO, Akoree
 
-*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/emisopa/)*
+*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/emisopa/)*

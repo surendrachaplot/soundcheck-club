@@ -1,20 +1,20 @@
 # ferrari rot
 
-ferrari rot is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Thu, 17 Sept 2026, next at Mansions, New York City on Thu, 17 Sept 2026.
+ferrari rot is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Fri, 18 Sept 2026, next at TBA - Secret Venue, Berlin on Fri, 25 Sept 2026.
 
-ferrari rot is a techno and house artist tracked on soundcheck, with 137 sets logged across Amsterdam, Antwerp, Barcelona and Berlin and 23 more. Often billed alongside evin, MALUGI and Surf 2 Glory. Next up: Mansions, Newyorkcity on Thu 17 Sept.
+ferrari rot is a techno and house artist tracked on soundcheck, with 137 sets logged across Amsterdam, Antwerp, Barcelona and Berlin and 23 more. Often billed alongside evin, MALUGI and Surf 2 Glory. Next up: TBA - Secret Venue, Berlin on Fri 25 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Thu, 17 Sept 2026 | Mansions | New York City |
 | Fri, 25 Sept 2026 | TBA - Secret Venue | Berlin |
 | Sat, 26 Sept 2026 | nachbar | Amsterdam |
 | Sat, 28 Nov 2026 | Schrotty | Cologne |
 
 ## Recently played
 
+- Mansions, New York City — Thu, 17 Sept 2026
 - RSO.BERLIN, Berlin — Sat, 12 Sept 2026
 - Phoxxi Green Area, Hamburg — Sat, 22 Aug 2026
 - MS Stubnitz, Hamburg — Sat, 11 Jul 2026
@@ -22,10 +22,9 @@ ferrari rot is a techno and house artist tracked on soundcheck, with 137 sets lo
 - Tokonoma Club, Frankfurt — Sat, 20 Jun 2026
 - Phantom Bar Berlin, Berlin — Fri, 19 Jun 2026
 - Wanderlust, Paris — Thu, 11 Jun 2026
-- OHM, Berlin — Sat, 6 Jun 2026
 
 ## Shares bills with
 
 evin, MALUGI, Surf 2 Glory
 
-*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ferrarirot/)*
+*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ferrarirot/)*

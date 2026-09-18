@@ -1,6 +1,6 @@
 # Teen Daze
 
-Teen Daze is a House and Balearic artist with 1 upcoming club date listed on soundcheck as of Thu, 17 Sept 2026, next at Pizza Coming Soon, Vancouver on Fri, 18 Sept 2026.
+Teen Daze is a House and Balearic artist with 1 upcoming club date listed on soundcheck as of Fri, 18 Sept 2026, next at Pizza Coming Soon, Vancouver on Fri, 18 Sept 2026.
 
 Teen Daze is a house and balearic artist based in Canada, tracked on soundcheck, with 38 sets logged across Austin, Denver, Losangeles and Montreal and 5 more. Often billed alongside Pacific Coliseum, DJ D.Dee and Kozue. Next up: Pizza Coming Soon, Vancouver on Fri 18 Sept.
 
@@ -25,4 +25,4 @@ Teen Daze is a house and balearic artist based in Canada, tracked on soundcheck,
 
 Pacific Coliseum, DJ D.Dee, Kozue
 
-*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/teendaze/)*
+*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/teendaze/)*

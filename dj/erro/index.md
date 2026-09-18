@@ -1,6 +1,6 @@
 # Erro
 
-Erro is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Thu, 17 Sept 2026, next at Aether Club Budapest, Budapest on Sat, 26 Sept 2026.
+Erro is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Fri, 18 Sept 2026, next at Aether Club Budapest, Budapest on Sat, 26 Sept 2026.
 
 Erro is a house and tech house artist tracked on soundcheck, with 54 sets logged across Budapest. Often billed alongside Adx, BACO and Captain Knuckles. Next up: Aether Club Budapest, Budapest on Sat 26 Sept.
 
@@ -25,4 +25,4 @@ Erro is a house and tech house artist tracked on soundcheck, with 54 sets logged
 
 Adx, BACO, Captain Knuckles
 
-*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/erro/)*
+*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/erro/)*

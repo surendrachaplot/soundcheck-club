@@ -1,6 +1,6 @@
 # Madison Moore
 
-Madison Moore is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 17 Sept 2026, next at Qncc, New York City on Tue, 22 Sept 2026.
+Madison Moore is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 18 Sept 2026, next at Qncc, New York City on Tue, 22 Sept 2026.
 
 Madison Moore is a techno and house artist based in United States of America, tracked on soundcheck, with 20 sets logged across Brussels, Losangeles, Newyorkcity and Washingtondc. Often billed alongside Juana, DVONNE and Nita Aviance. Next up: Qncc, Newyorkcity on Tue 22 Sept.
 
@@ -25,4 +25,4 @@ Madison Moore is a techno and house artist based in United States of America, tr
 
 Juana, DVONNE, Nita Aviance
 
-*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/madisonmoore/)*
+*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/madisonmoore/)*

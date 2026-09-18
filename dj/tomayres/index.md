@@ -1,6 +1,6 @@
 # Tom Ayres
 
-Tom Ayres is a Tech House and Deep House artist with 1 upcoming club date listed on soundcheck as of Thu, 17 Sept 2026, next at Two More Years, London on Sat, 10 Oct 2026.
+Tom Ayres is a Tech House and Deep House artist with 1 upcoming club date listed on soundcheck as of Fri, 18 Sept 2026, next at Two More Years, London on Sat, 10 Oct 2026.
 
 Tom Ayres is a tech house and deep house artist tracked on soundcheck, with 9 sets logged across London. Often billed alongside Daydream Disco, LEV (UK) and Late Night Disco. Next up: Two More Years, London on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ Tom Ayres is a tech house and deep house artist tracked on soundcheck, with 9 se
 
 Daydream Disco, LEV (UK), Late Night Disco
 
-*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tomayres/)*
+*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tomayres/)*

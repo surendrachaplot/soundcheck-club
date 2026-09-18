@@ -1,6 +1,6 @@
 # Fred P
 
-Fred P is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Thu, 17 Sept 2026, next at Fvtvr, Paris on Fri, 18 Sept 2026.
+Fred P is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Fri, 18 Sept 2026, next at Fvtvr, Paris on Fri, 18 Sept 2026.
 
 Fred P is a house and techno artist tracked on soundcheck, with 90 sets logged across Amsterdam, Bali, Barcelona and Berlin and 28 more. Often billed alongside DJ Nobu, DJ Dustin and Lakuti. Next up: Fvtvr, Paris on Fri 18 Sept.
 
@@ -27,4 +27,4 @@ Fred P is a house and techno artist tracked on soundcheck, with 90 sets logged a
 
 DJ Nobu, DJ Dustin, Lakuti
 
-*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/fredp/)*
+*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/fredp/)*

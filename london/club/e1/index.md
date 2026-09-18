@@ -1,6 +1,6 @@
 # E1
 
-E1 is a music venue in London with 43 upcoming nights listed on soundcheck as of Thu, 17 Sept 2026; the next is "ALIVE: southstar" on Fri, 18 Sept 2026.
+E1 is a music venue in London with 43 upcoming nights listed on soundcheck as of Fri, 18 Sept 2026; the next is "ALIVE: southstar, ASHTREY, LIL DARK ONE, J:DC" on Fri, 18 Sept 2026.
 
 E1 is a music venue in London listed on soundcheck. 43 upcoming nights, with line-ups including 2HOT2PLAY, 8KAYS, Paolo Ferrara and ABEL (UK) and 2 more. Browse upcoming dates, start times and who's playing. 110 Pennington Street, Wapping, London E1W 2BB.
 
@@ -8,7 +8,7 @@ E1 is a music venue in London listed on soundcheck. 43 upcoming nights, with lin
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 18 Sept 2026 | ALIVE: southstar | ASHTREY, J:DC, LIL DARK ONE, southstar |
+| Fri, 18 Sept 2026 | ALIVE: southstar, ASHTREY, LIL DARK ONE, J:DC | ASHTREY, J:DC, LIL DARK ONE, southstar |
 | Sat, 19 Sept 2026 | Robert Hood (Extended 3 Hour Set) presented by PATRÓN | Livid (UK), NEUX, Robert Hood, Unhuman |
 | Sat, 19 Sept 2026 | I Will Be There In The Asylum: Coldsteps Birthday | Beezo, DJ Decimal, Pioneer, Shenin Amara, Supa D |
 | Fri, 25 Sept 2026 | ALIVE: DYEN (ALL NIGHT LONG) + LeStrange | DYEN, LeStrange |
@@ -23,4 +23,4 @@ E1 is a music venue in London listed on soundcheck. 43 upcoming nights, with lin
 
 110 Pennington Street, Wapping, London E1W 2BB, London
 
-*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/e1/)*
+*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/e1/)*

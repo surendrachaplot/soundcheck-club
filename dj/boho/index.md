@@ -1,8 +1,8 @@
 # BOHO
 
-BOHO is a Techno and Electro artist with 4 upcoming club dates listed on soundcheck as of Thu, 17 Sept 2026, next at Weekend, Berlin on Fri, 18 Sept 2026.
+BOHO is a Techno and Electro artist with 5 upcoming club dates listed on soundcheck as of Fri, 18 Sept 2026, next at Weekend, Berlin on Fri, 18 Sept 2026.
 
-BOHO is a techno and electro artist tracked on soundcheck, with 108 sets logged across Amsterdam, Berlin, Cologne and Copenhagen and 16 more. Often billed alongside Rad.Lez, Bianka Banks and Bonnie Spacey. Next up: Weekend, Berlin on Fri 18 Sept.
+BOHO is a techno and electro artist tracked on soundcheck, with 109 sets logged across Amsterdam, Berlin, Cologne and Copenhagen and 16 more. Often billed alongside Rad.Lez, Bianka Banks and Bonnie Spacey. Next up: Weekend, Berlin on Fri 18 Sept.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ BOHO is a techno and electro artist tracked on soundcheck, with 108 sets logged 
 | Fri, 18 Sept 2026 | Weekend | Berlin |
 | Fri, 16 Oct 2026 | elipamanoke | Leipzig |
 | Fri, 23 Oct 2026 | E1 | London |
+| Sat, 31 Oct 2026 | Insomnia | Berlin |
 | Fri, 6 Nov 2026 | Weekend | Berlin |
 
 ## Recently played
@@ -28,4 +29,4 @@ BOHO is a techno and electro artist tracked on soundcheck, with 108 sets logged 
 
 Rad.Lez, Bianka Banks, Bonnie Spacey
 
-*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/boho/)*
+*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/boho/)*

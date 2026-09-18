@@ -1,6 +1,6 @@
 # Demi Riquisimo
 
-Demi Riquisimo is a House and Techno artist with 10 upcoming club dates listed on soundcheck as of Thu, 17 Sept 2026, next at UNO MALTA, Malta on Fri, 18 Sept 2026.
+Demi Riquisimo is a House and Techno artist with 10 upcoming club dates listed on soundcheck as of Fri, 18 Sept 2026, next at UNO MALTA, Malta on Fri, 18 Sept 2026.
 
 Demi Riquisimo is a house and techno artist tracked on soundcheck, with 177 sets logged across Amsterdam, Antwerp, Auckland and Austin and 51 more. Often billed alongside Lulah Francs, DJ Tennis and Enzo Siragusa. Next up: UNO MALTA, Malta on Fri 18 Sept.
 
@@ -34,4 +34,4 @@ Demi Riquisimo is a house and techno artist tracked on soundcheck, with 177 sets
 
 Lulah Francs, DJ Tennis, Enzo Siragusa
 
-*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/demiriquisimo/)*
+*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/demiriquisimo/)*

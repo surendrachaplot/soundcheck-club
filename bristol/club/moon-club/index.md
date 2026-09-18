@@ -1,15 +1,13 @@
 # Moon Club
 
-Moon Club is a music venue in Bristol with 14 upcoming nights listed on soundcheck as of Thu, 17 Sept 2026; the next is "Klub Kaos" on Thu, 17 Sept 2026.
+Moon Club is a music venue in Bristol with 12 upcoming nights listed on soundcheck as of Fri, 18 Sept 2026; the next is "BCKSPIN 001: DJ Perception + Wodda" on Thu, 24 Sept 2026.
 
-Moon Club is a music venue in Bristol listed on soundcheck. 14 upcoming nights, with line-ups including BETH, Cristi Cons, DJ Perception and DJ Sarah Bonito and 2 more. Browse upcoming dates, start times and who's playing. 6 Upper York St, St Paul's, Bristol, BS2 8QN.
+Moon Club is a music venue in Bristol listed on soundcheck. 12 upcoming nights, with line-ups including BETH, Cristi Cons, DJ Perception and DJ Sarah Bonito and 2 more. Browse upcoming dates, start times and who's playing. 6 Upper York St, St Paul's, Bristol, BS2 8QN.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Thu, 17 Sept 2026 | Klub Kaos | Kyle Starkey, MTOM, Neil And I, ROWANA, STYLI |
-| Thu, 17 Sept 2026 | Analogue Lounge w/ Donsurf |  |
 | Thu, 24 Sept 2026 | BCKSPIN 001: DJ Perception + Wodda | DJ Perception, Wodda |
 | Fri, 25 Sept 2026 | Hamish and Toby, Willow | Hamish & Toby, Willow |
 | Wed, 30 Sept 2026 | Caution Dancefloor 2: Moon Club |  |
@@ -18,9 +16,11 @@ Moon Club is a music venue in Bristol listed on soundcheck. 14 upcoming nights, 
 | Sat, 10 Oct 2026 | CRAVE HER: HEXED |  |
 | Fri, 16 Oct 2026 | Mas Que Nada | BETH, Hywel Gregory, Mas Que Nada Brothers, Tibasko |
 | Sat, 17 Oct 2026 | Quanto presents Cristi Cons, Eksish & Jake Moree + residents | Cristi Cons |
+| Fri, 23 Oct 2026 | Donkline Deluxe | DJ Sarah Bonito |
+| Sat, 7 Nov 2026 | UN.KNOWN |  |
 
 ## Address
 
 6 Upper York St, St Paul's, Bristol, BS2 8QN, Bristol
 
-*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/bristol/club/moon-club/)*
+*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/bristol/club/moon-club/)*

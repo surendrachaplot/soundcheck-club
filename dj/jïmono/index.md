@@ -1,19 +1,19 @@
 # JÏMONO
 
-JÏMONO is a Afro House and Afro Tech artist with 3 upcoming club dates listed on soundcheck as of Thu, 17 Sept 2026, next at radial, London on Thu, 17 Sept 2026.
+JÏMONO is a Afro House and Afro Tech artist with 2 upcoming club dates listed on soundcheck as of Fri, 18 Sept 2026, next at fabric, London on Fri, 25 Sept 2026.
 
-JÏMONO is an afro house and afro tech artist tracked on soundcheck, with 8 sets logged across London and Manchester. Often billed alongside Bushman (UK), MYDIR and Ankhoï. Next up: radial, London on Thu 17 Sept.
+JÏMONO is an afro house and afro tech artist tracked on soundcheck, with 8 sets logged across London and Manchester. Often billed alongside Bushman (UK), MYDIR and Ankhoï. Next up: fabric, London on Fri 25 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Thu, 17 Sept 2026 | radial | London |
 | Fri, 25 Sept 2026 | fabric | London |
 | Sat, 31 Oct 2026 | Bread and Butter | London |
 
 ## Recently played
 
+- radial, London — Thu, 17 Sept 2026
 - Paloma, London — Sat, 22 Aug 2026
 - Bricks, London — Sat, 18 Oct 2025
 - Rolling Stock, London — Fri, 19 Sept 2025
@@ -24,4 +24,4 @@ JÏMONO is an afro house and afro tech artist tracked on soundcheck, with 8 sets
 
 Bushman (UK), MYDIR, Ankhoï
 
-*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jïmono/)*
+*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jïmono/)*

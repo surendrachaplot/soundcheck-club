@@ -1,6 +1,6 @@
 # DJ Howard
 
-DJ Howard is a Tech House and Pop artist with 1 upcoming club date listed on soundcheck as of Thu, 17 Sept 2026, next at TBA, Barcelona on Fri, 2 Oct 2026.
+DJ Howard is a Tech House and Pop artist with 1 upcoming club date listed on soundcheck as of Fri, 18 Sept 2026, next at TBA, Barcelona on Fri, 2 Oct 2026.
 
 DJ Howard is a tech house and pop artist based in Spain, tracked on soundcheck, with 17 sets logged across Barcelona. Often billed alongside DJ DMG, bankrow and ARGAN. Next up: TBA, Barcelona on Fri 2 Oct.
 
@@ -25,4 +25,4 @@ DJ Howard is a tech house and pop artist based in Spain, tracked on soundcheck, 
 
 DJ DMG, bankrow, ARGAN
 
-*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djhoward/)*
+*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djhoward/)*

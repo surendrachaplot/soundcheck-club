@@ -1,6 +1,6 @@
 # Switch
 
-Switch is a music venue in Porto with 5 upcoming nights listed on soundcheck as of Thu, 17 Sept 2026; the next is "Dimitri From Paris - Switch PORT" on Sat, 19 Sept 2026.
+Switch is a music venue in Porto with 5 upcoming nights listed on soundcheck as of Fri, 18 Sept 2026; the next is "Dimitri From Paris - Switch PORT" on Sat, 19 Sept 2026.
 
 Switch is a music venue in Porto listed on soundcheck. 5 upcoming nights, with line-ups including Boys Noize, Cuba (PT), Dimitri From Paris and Marco Shuttle and 2 more. Browse upcoming dates, start times and who's playing.
 
@@ -14,4 +14,4 @@ Switch is a music venue in Porto listed on soundcheck. 5 upcoming nights, with l
 | Fri, 2 Oct 2026 | Boys Noize | Boys Noize |
 | Sat, 3 Oct 2026 | Marco Shuttle - Switch Porto | Marco Shuttle |
 
-*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/porto/club/switch/)*
+*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/porto/club/switch/)*

@@ -1,6 +1,6 @@
 # Nikki Guild
 
-Nikki Guild is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 17 Sept 2026, next at Paradise Palms, Edinburgh on Tue, 29 Sept 2026.
+Nikki Guild is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 18 Sept 2026, next at Paradise Palms, Edinburgh on Tue, 29 Sept 2026.
 
 Nikki Guild is a house and techno artist tracked on soundcheck, with 13 sets logged across Edinburgh. Often billed alongside ona:v, Iona.Violet and Bartek. Next up: Paradise Palms, Edinburgh on Tue 29 Sept.
 
@@ -25,4 +25,4 @@ Nikki Guild is a house and techno artist tracked on soundcheck, with 13 sets log
 
 ona:v, Iona.Violet, Bartek
 
-*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nikkiguild/)*
+*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nikkiguild/)*

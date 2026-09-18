@@ -1,8 +1,8 @@
 # Skee Mask
 
-Skee Mask is a Techno and Bass artist with 7 upcoming club dates listed on soundcheck as of Thu, 17 Sept 2026, next at Fort Mifflin, Philadelphia on Fri, 18 Sept 2026.
+Skee Mask is a Techno and Bass artist with 8 upcoming club dates listed on soundcheck as of Fri, 18 Sept 2026, next at Fort Mifflin, Philadelphia on Fri, 18 Sept 2026.
 
-Skee Mask is a techno and bass artist tracked on soundcheck, with 159 sets logged across Amsterdam, Antwerp, Barcelona and Belfast and 42 more. Often billed alongside Zenker Brothers, DjRUM and Mia Koden. Next up: Fort Mifflin, Philadelphia on Fri 18 Sept.
+Skee Mask is a techno and bass artist tracked on soundcheck, with 160 sets logged across Amsterdam, Antwerp, Barcelona and Belfast and 42 more. Often billed alongside Zenker Brothers, DjRUM and Mia Koden. Next up: Fort Mifflin, Philadelphia on Fri 18 Sept.
 
 ## Upcoming shows
 
@@ -15,6 +15,7 @@ Skee Mask is a techno and bass artist tracked on soundcheck, with 159 sets logge
 | Fri, 2 Oct 2026 | Nowadays | New York City |
 | Fri, 16 Oct 2026 | fabric | London |
 | Sat, 31 Oct 2026 | ZENNER | Berlin |
+| Fri, 27 Nov 2026 | Blå | Oslo |
 
 ## Recently played
 
@@ -31,4 +32,4 @@ Skee Mask is a techno and bass artist tracked on soundcheck, with 159 sets logge
 
 Zenker Brothers, DjRUM, Mia Koden
 
-*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/skeemask/)*
+*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/skeemask/)*

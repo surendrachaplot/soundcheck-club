@@ -1,14 +1,15 @@
 # TEHOTU
 
-TEHOTU is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 17 Sept 2026, next at ÆDEN, Berlin on Thu, 1 Oct 2026.
+TEHOTU is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 18 Sept 2026, next at ÆDEN, Berlin on Thu, 1 Oct 2026.
 
-TEHOTU is a techno and house artist tracked on soundcheck, with 26 sets logged across Amsterdam, Berlin, Frankfurt and Lyon and 4 more. Often billed alongside Maris Shilton, Jessie Granqvist and T-RAIL. Next up: ÆDEN, Berlin on Thu 1 Oct.
+TEHOTU is a techno and house artist tracked on soundcheck, with 27 sets logged across Amsterdam, Berlin, Frankfurt and Lyon and 4 more. Often billed alongside Maris Shilton, Jessie Granqvist and T-RAIL. Next up: ÆDEN, Berlin on Thu 1 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Thu, 1 Oct 2026 | ÆDEN | Berlin |
+| Sat, 10 Oct 2026 | Paloma | Berlin |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ TEHOTU is a techno and house artist tracked on soundcheck, with 26 sets logged a
 
 Maris Shilton, Jessie Granqvist, T-RAIL
 
-*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tehotu/)*
+*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tehotu/)*

@@ -1,6 +1,6 @@
 # Disgusting: Neophoria at Handlebar
 
-Disgusting: Neophoria at Handlebar on Sat 10 Oct, Toronto. 4 acts on the bill: D.ITTO, digital polyglot, Disthene and ENSIDER (2). Club. Preview the line-up and save it on soundcheck.
+Disgusting: Neophoria at Handlebar on Sat 10 Oct, Toronto. 4 acts on the bill: D.ITTO, digital polyglot, Disthene and ENSIDER (2). Bass and Club. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

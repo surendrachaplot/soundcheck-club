@@ -1,6 +1,6 @@
 # QUIVR
 
-QUIVR is a music venue in Brisbane with 3 upcoming nights listed on soundcheck as of Thu, 17 Sept 2026; the next is "Terra Audio & TwoStep present: LEVOS - 'Pulse' EP Launch" on Fri, 18 Sept 2026.
+QUIVR is a music venue in Brisbane with 3 upcoming nights listed on soundcheck as of Fri, 18 Sept 2026; the next is "Terra Audio & TwoStep present: LEVOS - 'Pulse' EP Launch" on Fri, 18 Sept 2026.
 
 QUIVR is a music venue in Brisbane listed on soundcheck. 3 upcoming nights, with line-ups including Bouki and LEVOS. Browse upcoming dates, start times and who's playing. 5m Winn Lane, Fortitude Valley QLD 4006.
 
@@ -16,4 +16,4 @@ QUIVR is a music venue in Brisbane listed on soundcheck. 3 upcoming nights, with
 
 5m Winn Lane, Fortitude Valley QLD 4006, Brisbane
 
-*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/brisbane/club/quivr/)*
+*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/brisbane/club/quivr/)*

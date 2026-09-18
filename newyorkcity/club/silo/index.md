@@ -1,14 +1,13 @@
 # SILO
 
-SILO is a music venue in New York City with 28 upcoming nights listed on soundcheck as of Thu, 17 Sept 2026; the next is "Techno Thursday [Melodic2Hard] (Main Room Event, Free with RSVP)" on Thu, 17 Sept 2026.
+SILO is a music venue in New York City with 27 upcoming nights listed on soundcheck as of Fri, 18 Sept 2026; the next is "Machine Thirst: Bollmann / Firebunny" on Fri, 18 Sept 2026.
 
-SILO is a music venue in Newyorkcity listed on soundcheck. 28 upcoming nights, with line-ups including Amiti, Anthony Romano, Anyasa and Baauer and 2 more. Browse upcoming dates, start times and who's playing. 90 Scott Ave, East Williamsburg, Brooklyn.
+SILO is a music venue in Newyorkcity listed on soundcheck. 27 upcoming nights, with line-ups including Amiti, Anthony Romano, Anyasa and Baauer and 2 more. Browse upcoming dates, start times and who's playing. 90 Scott Ave, East Williamsburg, Brooklyn.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Thu, 17 Sept 2026 | Techno Thursday [Melodic2Hard] (Main Room Event, Free with RSVP) | Bruce Wayne (US) |
 | Fri, 18 Sept 2026 | Machine Thirst: Bollmann / Firebunny | Bollmann, ELIVVATE, Firebunny, Nikitaurech |
 | Sat, 19 Sept 2026 | Baauer: The 'U' Experience | Baauer |
 | Tue, 22 Sept 2026 | Open Decks with Ceviché | ceviché |
@@ -18,9 +17,10 @@ SILO is a music venue in Newyorkcity listed on soundcheck. 28 upcoming nights, w
 | Sat, 26 Sept 2026 | Anyasa [Anjunadeep], Joseph Ray [Anjunadeep], & Harji B2B Firungi | Anyasa, Firungi, Harji |
 | Sat, 26 Sept 2026 | Sufi Sessions NYC |  |
 | Tue, 29 Sept 2026 | Open Decks with ceviché | ceviché |
+| Wed, 30 Sept 2026 | Open Decks with ceviché, Tunnel Studios, and Party Right Here | ceviché |
 
 ## Address
 
 90 Scott Ave, East Williamsburg, Brooklyn, New York City
 
-*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/silo/)*
+*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/silo/)*

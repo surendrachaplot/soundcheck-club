@@ -1,13 +1,14 @@
 # Leejunghyuk
 
-Leejunghyuk is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 17 Sept 2026, next at Casa Dao, Hong Kong on Sat, 19 Sept 2026.
+Leejunghyuk is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 18 Sept 2026, next at TBA - Somewhere in Central, Hong Kong on Fri, 18 Sept 2026.
 
-Leejunghyuk is a techno and house artist tracked on soundcheck, with 50 sets logged across Hongkong and Seoul. Often billed alongside Kim.Qna, Cy Nico and ANSR. Next up: Casa Dao, Hongkong on Sat 19 Sept.
+Leejunghyuk is a techno and house artist tracked on soundcheck, with 51 sets logged across Hongkong and Seoul. Often billed alongside Kim.Qna, Cy Nico and ANSR. Next up: TBA - Somewhere in Central, Hongkong on Fri 18 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 18 Sept 2026 | TBA - Somewhere in Central | Hong Kong |
 | Sat, 19 Sept 2026 | Casa Dao | Hong Kong |
 
 ## Recently played
@@ -25,4 +26,4 @@ Leejunghyuk is a techno and house artist tracked on soundcheck, with 50 sets log
 
 Kim.Qna, Cy Nico, ANSR
 
-*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/leejunghyuk/)*
+*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/leejunghyuk/)*

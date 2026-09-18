@@ -1,6 +1,6 @@
 # Renate Klubnacht + Open Air (Free Entry) with Tecnica x Foggy x Silly Little Sunday Club at Renate
 
-Renate Klubnacht + Open Air (Free Entry) with Tecnica x Foggy x Silly Little Sunday Club on Sat 19 Sept, Berlin. 16 acts on the bill: 80HDJ, Camilla Rae, DJ Sterni and Elvin and 12 more. Preview the line-up and save it on soundcheck.
+Renate Klubnacht + Open Air (Free Entry) with Tecnica x Foggy x Silly Little Sunday Club on Sat 19 Sept, Berlin. 17 acts on the bill: 80HDJ, Camilla Rae, CSILLA and DJ Sterni and 13 more. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -12,6 +12,7 @@ Renate Klubnacht + Open Air (Free Entry) with Tecnica x Foggy x Silly Little Sun
 
 - 80HDJ
 - Camilla Rae
+- CSILLA
 - DJ Sterni
 - Elvin
 - IDA

@@ -1,6 +1,6 @@
 # HARD SOLUTION with FURYAN • EYCER • CRACKY KOKSBERG • DISTRICT RED • PHIESI • REDMANN • ABZOCKA at M-BIA
 
-HARD SOLUTION with FURYAN • EYCER • CRACKY KOKSBERG • DISTRICT RED • PHIESI • REDMANN • ABZOCKA at M-BIA on Fri 2 Oct, Berlin. 4 acts on the bill: Sei A, Techno Frühstück, Tekk and Tekk DJ'z. Techno and Hardcore. Preview the line-up and save it on soundcheck.
+HARD SOLUTION with FURYAN • EYCER • CRACKY KOKSBERG • DISTRICT RED • PHIESI • REDMANN • ABZOCKA at M-BIA on Fri 2 Oct, Berlin. 5 acts on the bill: Sei A, Techno Frühstück, Tekk and Tekk DJ'z and 1 more. Techno and Hardcore. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -14,5 +14,6 @@ HARD SOLUTION with FURYAN • EYCER • CRACKY KOKSBERG • DISTRICT RED • PHI
 - Techno Frühstück
 - Tekk
 - Tekk DJ'z
+- Tekknik
 
 *Source: [soundcheck](https://soundcheck.club/e/2530108-hard-solution-with-furyan-eycer-cracky-koksberg-district-red/)*

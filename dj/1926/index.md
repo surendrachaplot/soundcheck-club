@@ -1,6 +1,6 @@
 # 19:26
 
-19:26 is a Techno and Electronica artist with 5 upcoming club dates listed on soundcheck as of Thu, 17 Sept 2026, next at Klein Phönix, Istanbul on Fri, 18 Sept 2026.
+19:26 is a Techno and Electronica artist with 5 upcoming club dates listed on soundcheck as of Fri, 18 Sept 2026, next at Klein Phönix, Istanbul on Fri, 18 Sept 2026.
 
 19:26 is a techno and electronica artist tracked on soundcheck, with 66 sets logged across Amsterdam, Bali, Barcelona and Basel and 22 more. Often billed alongside Tale Of Us, Chris Avantgarde and Kevin de Vries. Next up: Klein Phönix, Istanbul on Fri 18 Sept.
 
@@ -29,4 +29,4 @@
 
 Tale Of Us, Chris Avantgarde, Kevin de Vries
 
-*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/1926/)*
+*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/1926/)*

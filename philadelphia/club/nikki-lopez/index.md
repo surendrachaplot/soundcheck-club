@@ -1,6 +1,6 @@
 # Nikki Lopez
 
-Nikki Lopez is a music venue in Philadelphia with 2 upcoming nights listed on soundcheck as of Thu, 17 Sept 2026; the next is "Lost in Space" on Fri, 18 Sept 2026.
+Nikki Lopez is a music venue in Philadelphia with 2 upcoming nights listed on soundcheck as of Fri, 18 Sept 2026; the next is "Lost in Space" on Fri, 18 Sept 2026.
 
 Nikki Lopez is a music venue in Philadelphia listed on soundcheck. 2 upcoming nights, with line-ups including DJ Paul T and Kontravoid. Browse upcoming dates, start times and who's playing. 304 South St, Philadelphia, PA 19147.
 
@@ -15,4 +15,4 @@ Nikki Lopez is a music venue in Philadelphia listed on soundcheck. 2 upcoming ni
 
 304 South St, Philadelphia, PA 19147, Philadelphia
 
-*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/philadelphia/club/nikki-lopez/)*
+*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/philadelphia/club/nikki-lopez/)*

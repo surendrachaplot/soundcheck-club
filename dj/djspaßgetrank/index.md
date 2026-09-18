@@ -1,13 +1,14 @@
 # DJ Spaßgetränk
 
-DJ Spaßgetränk is a Trance and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 17 Sept 2026, next at ://about blank, Berlin on Fri, 30 Oct 2026.
+DJ Spaßgetränk is a Trance and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 18 Sept 2026, next at Lokschuppen Berlin, Berlin on Tue, 6 Oct 2026.
 
-DJ Spaßgetränk is a trance and techno artist based in Germany, tracked on soundcheck, with 17 sets logged across Berlin. Often billed alongside Konsument, EZA (DE) and Paul Bauhaus. Next up: ://about blank, Berlin on Fri 30 Oct.
+DJ Spaßgetränk is a trance and techno artist based in Germany, tracked on soundcheck, with 18 sets logged across Berlin. Often billed alongside EZA (DE), Konsument and Paul Bauhaus. Next up: Lokschuppen Berlin, Berlin on Tue 6 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Tue, 6 Oct 2026 | Lokschuppen Berlin | Berlin |
 | Fri, 30 Oct 2026 | ://about blank | Berlin |
 
 ## Recently played
@@ -23,6 +24,6 @@ DJ Spaßgetränk is a trance and techno artist based in Germany, tracked on soun
 
 ## Shares bills with
 
-Konsument, EZA (DE), Paul Bauhaus
+EZA (DE), Konsument, Paul Bauhaus
 
-*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djspaßgetrank/)*
+*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djspaßgetrank/)*

@@ -1,8 +1,8 @@
 # Night Owl
 
-Night Owl is a Techno and Industrial artist with 2 upcoming club dates listed on soundcheck as of Thu, 17 Sept 2026, next at Mia Mao, Paris on Sat, 26 Sept 2026.
+Night Owl is a Techno and Industrial artist with 3 upcoming club dates listed on soundcheck as of Fri, 18 Sept 2026, next at Mia Mao, Paris on Sat, 26 Sept 2026.
 
-Night Owl is a techno and industrial artist tracked on soundcheck, with 5 sets logged across Paris and Sydney. Often billed alongside A.N.I., Alex Nantaya and Audiophile. Next up: Mia Mao, Paris on Sat 26 Sept.
+Night Owl is a techno and industrial artist tracked on soundcheck, with 6 sets logged across Paris and Sydney. Often billed alongside A.N.I., Alex Nantaya and Audiophile. Next up: Mia Mao, Paris on Sat 26 Sept.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Night Owl is a techno and industrial artist tracked on soundcheck, with 5 sets l
 | --- | --- | --- |
 | Sat, 26 Sept 2026 | Mia Mao | Paris |
 | Sat, 10 Oct 2026 | Mia Mao | Paris |
+| Sat, 7 Nov 2026 | Mia Mao | Paris |
 
 ## Recently played
 
@@ -21,4 +22,4 @@ Night Owl is a techno and industrial artist tracked on soundcheck, with 5 sets l
 
 A.N.I., Alex Nantaya, Audiophile
 
-*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nightowl/)*
+*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nightowl/)*

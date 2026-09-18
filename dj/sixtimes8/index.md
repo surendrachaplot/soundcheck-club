@@ -1,6 +1,6 @@
 # sixtimes8
 
-sixtimes8 is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Thu, 17 Sept 2026, next at Reineke Fuchs, Cologne on Fri, 18 Sept 2026.
+sixtimes8 is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Fri, 18 Sept 2026, next at Reineke Fuchs, Cologne on Fri, 18 Sept 2026.
 
 sixtimes8 is a techno and trance artist based in Germany, tracked on soundcheck, with 7 sets logged across Berlin and Cologne. Often billed alongside DJ Spaßgetränk, Bélavie and Leenberger. Next up: Reineke Fuchs, Cologne on Fri 18 Sept.
 
@@ -23,4 +23,4 @@ sixtimes8 is a techno and trance artist based in Germany, tracked on soundcheck,
 
 DJ Spaßgetränk, Bélavie, Leenberger
 
-*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sixtimes8/)*
+*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sixtimes8/)*

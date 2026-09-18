@@ -1,8 +1,8 @@
 # Stef Davidse
 
-Stef Davidse is a House and Tech House artist with 9 upcoming club dates listed on soundcheck as of Thu, 17 Sept 2026, next at 528 Ibiza, Ibiza on Fri, 18 Sept 2026.
+Stef Davidse is a House and Tech House artist with 10 upcoming club dates listed on soundcheck as of Fri, 18 Sept 2026, next at 528 Ibiza, Ibiza on Fri, 18 Sept 2026.
 
-Stef Davidse is a house and tech house artist tracked on soundcheck, with 98 sets logged across Amsterdam, Barcelona, Birmingham and Cardiff and 16 more. Often billed alongside Ryan Resso, Chopper (UK) and FINKY. Next up: 528 Ibiza, Ibiza on Fri 18 Sept.
+Stef Davidse is a house and tech house artist tracked on soundcheck, with 99 sets logged across Amsterdam, Barcelona, Birmingham and Cardiff and 16 more. Often billed alongside Ryan Resso, Chopper (UK) and FINKY. Next up: 528 Ibiza, Ibiza on Fri 18 Sept.
 
 ## Upcoming shows
 
@@ -17,6 +17,7 @@ Stef Davidse is a house and tech house artist tracked on soundcheck, with 98 set
 | Sat, 24 Oct 2026 | Db55 | Amsterdam |
 | Sat, 31 Oct 2026 | Maassilo | Rotterdam |
 | Fri, 13 Nov 2026 | Glamorama | Melbourne |
+| Fri, 27 Nov 2026 | Shelter Amsterdam | Amsterdam |
 
 ## Recently played
 
@@ -33,4 +34,4 @@ Stef Davidse is a house and tech house artist tracked on soundcheck, with 98 set
 
 Ryan Resso, Chopper (UK), FINKY
 
-*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/stefdavidse/)*
+*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/stefdavidse/)*

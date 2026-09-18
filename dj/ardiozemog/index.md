@@ -1,6 +1,6 @@
 # Ardio Zemog
 
-Ardio Zemog is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Thu, 17 Sept 2026, next at Jupiter Disco, New York City on Thu, 15 Oct 2026.
+Ardio Zemog is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Fri, 18 Sept 2026, next at Jupiter Disco, New York City on Thu, 15 Oct 2026.
 
 Ardio Zemog is a house and deep house artist based in United States of America, tracked on soundcheck, with 38 sets logged across Newyorkcity. Often billed alongside Blvck Truffle, Elephantglasses and Kold Kutz. Next up: Jupiter Disco, Newyorkcity on Thu 15 Oct.
 
@@ -25,4 +25,4 @@ Ardio Zemog is a house and deep house artist based in United States of America, 
 
 Blvck Truffle, Elephantglasses, Kold Kutz
 
-*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ardiozemog/)*
+*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ardiozemog/)*

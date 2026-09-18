@@ -1,6 +1,6 @@
 # Clara Da Costa
 
-Clara Da Costa is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Thu, 17 Sept 2026, next at Tipic., Ibiza on Sat, 19 Sept 2026.
+Clara Da Costa is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Fri, 18 Sept 2026, next at Tipic., Ibiza on Sat, 19 Sept 2026.
 
 Clara Da Costa is a house and minimal artist based in Spain, tracked on soundcheck, with 15 sets logged across Helsinki, Ibiza, Leeds and Prague. Often billed alongside Jason Bye, Adiel and Allister Whitehead. Next up: Tipic., Ibiza on Sat 19 Sept.
 
@@ -25,4 +25,4 @@ Clara Da Costa is a house and minimal artist based in Spain, tracked on soundche
 
 Jason Bye, Adiel, Allister Whitehead
 
-*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/claradacosta/)*
+*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/claradacosta/)*

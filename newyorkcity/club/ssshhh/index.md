@@ -1,6 +1,6 @@
 # Ssshhh
 
-Ssshhh is a music venue in New York City with 1 upcoming night listed on soundcheck as of Thu, 17 Sept 2026; the next is "+1-(833)-246-4622 - Iberia Airlines Head Office" on Sat, 19 Sept 2026.
+Ssshhh is a music venue in New York City with 1 upcoming night listed on soundcheck as of Fri, 18 Sept 2026; the next is "+1-(833)-246-4622 - Iberia Airlines Head Office" on Sat, 19 Sept 2026.
 
 Ssshhh is a music venue in Newyorkcity listed on soundcheck. 1 upcoming night, with line-ups including STEEN. Browse upcoming dates, start times and who's playing. Sssshhh.
 
@@ -14,4 +14,4 @@ Ssshhh is a music venue in Newyorkcity listed on soundcheck. 1 upcoming night, w
 
 Sssshhh, New York City
 
-*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/ssshhh/)*
+*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/ssshhh/)*

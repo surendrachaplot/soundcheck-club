@@ -1,6 +1,6 @@
 # Yolanda Be Cool
 
-Yolanda Be Cool is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Thu, 17 Sept 2026, next at Camelot, Tokyo on Sun, 20 Sept 2026.
+Yolanda Be Cool is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Fri, 18 Sept 2026, next at Camelot, Tokyo on Sun, 20 Sept 2026.
 
 Yolanda Be Cool is a house and tech house artist tracked on soundcheck, with 23 sets logged across Auckland, Bali, Losangeles and Melbourne and 6 more. Often billed alongside Bella Backe, Chris Lake and HoneyLuv. Next up: Camelot, Tokyo on Sun 20 Sept.
 
@@ -26,4 +26,4 @@ Yolanda Be Cool is a house and tech house artist tracked on soundcheck, with 23 
 
 Bella Backe, Chris Lake, HoneyLuv
 
-*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/yolandabecool/)*
+*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/yolandabecool/)*

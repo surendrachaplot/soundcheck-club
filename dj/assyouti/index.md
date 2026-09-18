@@ -1,6 +1,6 @@
 # Assyouti
 
-Assyouti is a Bass and Experimental artist with 2 upcoming club dates listed on soundcheck as of Thu, 17 Sept 2026, next at Post Bar, Helsinki on Fri, 18 Sept 2026.
+Assyouti is a Bass and Experimental artist with 2 upcoming club dates listed on soundcheck as of Fri, 18 Sept 2026, next at Post Bar, Helsinki on Fri, 18 Sept 2026.
 
 Assyouti is a bass and experimental artist tracked on soundcheck, with 74 sets logged across Amsterdam, Barcelona, Belgrade and Berlin and 17 more. Often billed alongside Sara Persico, Jehia and Rafush. Next up: Post Bar, Helsinki on Fri 18 Sept.
 
@@ -26,4 +26,4 @@ Assyouti is a bass and experimental artist tracked on soundcheck, with 74 sets l
 
 Sara Persico, Jehia, Rafush
 
-*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/assyouti/)*
+*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/assyouti/)*

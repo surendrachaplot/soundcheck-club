@@ -1,8 +1,8 @@
 # Chinonegro
 
-Chinonegro is a Tech House and House artist with 4 upcoming club dates listed on soundcheck as of Thu, 17 Sept 2026, next at TBA - Club Morocco, Costa Salguero, Buenos Aires on Fri, 18 Sept 2026.
+Chinonegro is a Tech House and House artist with 5 upcoming club dates listed on soundcheck as of Fri, 18 Sept 2026, next at TBA - Club Morocco, Costa Salguero, Buenos Aires on Fri, 18 Sept 2026.
 
-Chinonegro is a tech house and house artist tracked on soundcheck, with 27 sets logged across Amsterdam, Barcelona, Buenosaires and Dusseldorf and 10 more. Often billed alongside Luuk van Dijk, Sidney Charles and BLOND:ISH. Next up: TBA - Club Morocco, Costa Salguero, Buenosaires on Fri 18 Sept.
+Chinonegro is a tech house and house artist tracked on soundcheck, with 28 sets logged across Amsterdam, Austin, Barcelona and Buenosaires and 11 more. Often billed alongside Luuk van Dijk, Sidney Charles and BLOND:ISH. Next up: TBA - Club Morocco, Costa Salguero, Buenosaires on Fri 18 Sept.
 
 ## Upcoming shows
 
@@ -12,6 +12,7 @@ Chinonegro is a tech house and house artist tracked on soundcheck, with 27 sets 
 | Sun, 20 Sept 2026 | TBA - Estadio Nacional, Ezeiza | Buenos Aires |
 | Sat, 26 Sept 2026 | Tigres de la Noche | Washington DC |
 | Sun, 27 Sept 2026 | Stratus Lounge | Philadelphia |
+| Fri, 2 Oct 2026 | THE BATHS | Austin |
 
 ## Recently played
 
@@ -28,4 +29,4 @@ Chinonegro is a tech house and house artist tracked on soundcheck, with 27 sets 
 
 Luuk van Dijk, Sidney Charles, BLOND:ISH
 
-*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/chinonegro/)*
+*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/chinonegro/)*

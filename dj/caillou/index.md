@@ -1,14 +1,15 @@
 # Caillou
 
-Caillou is a House and Post-Punk artist with 1 upcoming club date listed on soundcheck as of Thu, 17 Sept 2026, next at Lavallée, Brussels on Fri, 9 Oct 2026.
+Caillou is a House and Post-Punk artist with 2 upcoming club dates listed on soundcheck as of Fri, 18 Sept 2026, next at Lavallée, Brussels on Fri, 9 Oct 2026.
 
-Caillou is a house and post-punk artist tracked on soundcheck, with 14 sets logged across Amsterdam, Berlin, Brussels and Melbourne and 4 more. Often billed alongside Joshua Murphy, Acid Washed and Aircraft. Next up: Lavallée, Brussels on Fri 9 Oct.
+Caillou is a house and post-punk artist tracked on soundcheck, with 15 sets logged across Amsterdam, Berlin, Brussels and Melbourne and 4 more. Often billed alongside Joshua Murphy, Paty Vapor and Acid Washed. Next up: Lavallée, Brussels on Fri 9 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 9 Oct 2026 | Lavallée | Brussels |
+| Fri, 16 Oct 2026 | Sameheads | Berlin |
 
 ## Recently played
 
@@ -23,6 +24,6 @@ Caillou is a house and post-punk artist tracked on soundcheck, with 14 sets logg
 
 ## Shares bills with
 
-Joshua Murphy, Acid Washed, Aircraft
+Joshua Murphy, Paty Vapor, Acid Washed
 
-*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/caillou/)*
+*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/caillou/)*

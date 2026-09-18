@@ -1,6 +1,6 @@
 # Jupiter Gatling
 
-Jupiter Gatling is a Pop and Club artist with 1 upcoming club date listed on soundcheck as of Thu, 17 Sept 2026, next at Camelot, Tokyo on Sun, 20 Sept 2026.
+Jupiter Gatling is a Pop and Club artist with 1 upcoming club date listed on soundcheck as of Fri, 18 Sept 2026, next at Camelot, Tokyo on Sun, 20 Sept 2026.
 
 Jupiter Gatling is a pop and club artist tracked on soundcheck, with 17 sets logged across Berlin, Sanfrancisco and Tokyo. Often billed alongside Adriana A, KEN (DE) and DJ PayPaul. Next up: Camelot, Tokyo on Sun 20 Sept.
 
@@ -25,4 +25,4 @@ Jupiter Gatling is a pop and club artist tracked on soundcheck, with 17 sets log
 
 Adriana A, KEN (DE), DJ PayPaul
 
-*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jupitergatling/)*
+*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jupitergatling/)*

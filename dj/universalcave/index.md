@@ -1,19 +1,19 @@
 # Universal Cave
 
-Universal Cave is a House and Disco artist with 3 upcoming club dates listed on soundcheck as of Thu, 17 Sept 2026, next at The Dolphin, Philadelphia on Thu, 17 Sept 2026.
+Universal Cave is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Fri, 18 Sept 2026, next at Fort Mifflin, Philadelphia on Fri, 18 Sept 2026.
 
-Universal Cave is a house and disco artist based in United States of America, tracked on soundcheck, with 38 sets logged across Newyorkcity, Philadelphia, Sanfrancisco and Washingtondc. Often billed alongside Shawn Ryan, Zillas on Acid and JEWELSSEA. Next up: The Dolphin, Philadelphia on Thu 17 Sept.
+Universal Cave is a house and disco artist based in United States of America, tracked on soundcheck, with 38 sets logged across Newyorkcity, Philadelphia, Sanfrancisco and Washingtondc. Often billed alongside Shawn Ryan, Zillas on Acid and JEWELSSEA. Next up: Fort Mifflin, Philadelphia on Fri 18 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Thu, 17 Sept 2026 | The Dolphin | Philadelphia |
 | Fri, 18 Sept 2026 | Fort Mifflin | Philadelphia |
 | Sat, 24 Oct 2026 | Good Room | New York City |
 
 ## Recently played
 
+- The Dolphin, Philadelphia — Thu, 17 Sept 2026
 - Jupiter Disco, New York City — Sat, 29 Aug 2026
 - LMNO Outdoor Courtyard, Philadelphia — Sat, 15 Aug 2026
 - New York Avenue Beach, Philadelphia — Sat, 25 Jul 2026
@@ -21,10 +21,9 @@ Universal Cave is a house and disco artist based in United States of America, tr
 - The Dolphin, Philadelphia — Sat, 25 Apr 2026
 - Suns Cinema, Washington DC — Sat, 15 Nov 2025
 - TBA - Call the Making Time PURE HALLOWEEN Haunted Hotline at 267-225-0603 for the THRILLING TRANSCENDENTAL Secret Location !!!, Philadelphia — Fri, 31 Oct 2025
-- Fort Mifflin, Philadelphia — Fri, 19 Sept 2025
 
 ## Shares bills with
 
 Shawn Ryan, Zillas on Acid, JEWELSSEA
 
-*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/universalcave/)*
+*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/universalcave/)*

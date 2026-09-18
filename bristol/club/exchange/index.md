@@ -1,6 +1,6 @@
 # Exchange
 
-Exchange is a music venue in Bristol with 3 upcoming nights listed on soundcheck as of Thu, 17 Sept 2026; the next is "Midas Soul club" on Fri, 18 Sept 2026.
+Exchange is a music venue in Bristol with 3 upcoming nights listed on soundcheck as of Fri, 18 Sept 2026; the next is "Midas Soul club" on Fri, 18 Sept 2026.
 
 Exchange is a music venue in Bristol listed on soundcheck. 3 upcoming nights. Browse upcoming dates, start times and who's playing. 72-73 Old Market; Bristol BS2 0EJ; United Kingdom.
 
@@ -16,4 +16,4 @@ Exchange is a music venue in Bristol listed on soundcheck. 3 upcoming nights. Br
 
 72-73 Old Market; Bristol BS2 0EJ; United Kingdom, Bristol
 
-*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/bristol/club/exchange/)*
+*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/bristol/club/exchange/)*

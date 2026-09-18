@@ -1,6 +1,6 @@
 # RAINVILLE
 
-RAINVILLE is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Thu, 17 Sept 2026, next at Sahara, Rotterdam on Sat, 3 Oct 2026.
+RAINVILLE is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Fri, 18 Sept 2026, next at Sahara, Rotterdam on Sat, 3 Oct 2026.
 
 RAINVILLE is a tech house and house artist based in Netherlands, tracked on soundcheck, with 16 sets logged across Amsterdam, Barcelona and Rotterdam. Often billed alongside Karim Soliman, Shermanology and hitty. Next up: Sahara, Rotterdam on Sat 3 Oct.
 
@@ -25,4 +25,4 @@ RAINVILLE is a tech house and house artist based in Netherlands, tracked on soun
 
 Karim Soliman, Shermanology, hitty
 
-*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/rainville/)*
+*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/rainville/)*

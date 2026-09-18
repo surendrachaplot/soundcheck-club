@@ -1,6 +1,6 @@
 # Nebula Estudio
 
-Nebula Estudio is a House and Balearic artist with 1 upcoming club date listed on soundcheck as of Thu, 17 Sept 2026, next at La Nube, Buenos Aires on Sat, 19 Sept 2026.
+Nebula Estudio is a House and Balearic artist with 1 upcoming club date listed on soundcheck as of Fri, 18 Sept 2026, next at La Nube, Buenos Aires on Sat, 19 Sept 2026.
 
 Nebula Estudio is a house and balearic artist tracked on soundcheck, with 6 sets logged across Buenosaires. Often billed alongside ALOT, Franie Smith and Furz. Next up: La Nube, Buenosaires on Sat 19 Sept.
 
@@ -22,4 +22,4 @@ Nebula Estudio is a house and balearic artist tracked on soundcheck, with 6 sets
 
 ALOT, Franie Smith, Furz
 
-*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nebulaestudio/)*
+*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nebulaestudio/)*

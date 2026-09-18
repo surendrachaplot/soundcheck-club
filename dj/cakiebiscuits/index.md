@@ -1,6 +1,6 @@
 # Cakiebiscuits
 
-Cakiebiscuits is a Hip-Hop and Grime artist with 2 upcoming club dates listed on soundcheck as of Thu, 17 Sept 2026, next at Bramble, Edinburgh on Fri, 18 Sept 2026.
+Cakiebiscuits is a Hip-Hop and Grime artist with 2 upcoming club dates listed on soundcheck as of Fri, 18 Sept 2026, next at Bramble, Edinburgh on Fri, 18 Sept 2026.
 
 Cakiebiscuits is a hip-hop and grime artist based in United Kingdom, tracked on soundcheck, with 7 sets logged across Edinburgh. Often billed alongside Humza, m1 (1) and monicat. Next up: Bramble, Edinburgh on Fri 18 Sept.
 
@@ -23,4 +23,4 @@ Cakiebiscuits is a hip-hop and grime artist based in United Kingdom, tracked on 
 
 Humza, m1 (1), monicat
 
-*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/cakiebiscuits/)*
+*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/cakiebiscuits/)*

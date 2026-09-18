@@ -1,6 +1,6 @@
 # 2QUID
 
-2QUID is a Jungle and Drum & Bass artist with 2 upcoming club dates listed on soundcheck as of Thu, 17 Sept 2026, next at The Loco Klub, Bristol on Fri, 18 Sept 2026.
+2QUID is a Jungle and Drum & Bass artist with 2 upcoming club dates listed on soundcheck as of Fri, 18 Sept 2026, next at The Loco Klub, Bristol on Fri, 18 Sept 2026.
 
 2QUID is a jungle and drum & bass artist tracked on soundcheck, with 36 sets logged across Amsterdam, Bristol, Leeds and Liverpool and 2 more. Often billed alongside Janaway, Phia500 and Samurai Breaks. Next up: The Loco Klub, Bristol on Fri 18 Sept.
 
@@ -26,4 +26,4 @@
 
 Janaway, Phia500, Samurai Breaks
 
-*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/2quid/)*
+*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/2quid/)*

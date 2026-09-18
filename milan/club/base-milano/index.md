@@ -1,6 +1,6 @@
 # BASE Milano
 
-BASE Milano is a music venue in Milan with 2 upcoming nights listed on soundcheck as of Thu, 17 Sept 2026; the next is "CANCELLED - Le Cannibale x Farout Festival - NZIRIA, Monica Witty" on Sat, 19 Sept 2026.
+BASE Milano is a music venue in Milan with 2 upcoming nights listed on soundcheck as of Fri, 18 Sept 2026; the next is "CANCELLED - Le Cannibale x Farout Festival - NZIRIA, Monica Witty" on Sat, 19 Sept 2026.
 
 BASE Milano is a music venue in Milan listed on soundcheck. 2 upcoming nights, with line-ups including Monica Witty and NZIRIA. Browse upcoming dates, start times and who's playing. via Bergognone, 34 20144 Milan, Italy.
 
@@ -9,10 +9,10 @@ BASE Milano is a music venue in Milan listed on soundcheck. 2 upcoming nights, w
 | Date | Night | Line-up |
 | --- | --- | --- |
 | Sat, 19 Sept 2026 | CANCELLED - Le Cannibale x Farout Festival - NZIRIA, Monica Witty | Monica Witty, NZIRIA |
-| Sat, 19 Sept 2026 | Le Cannibale x Farout Festival - Davide Boosta Dileo |  |
+| Fri, 9 Oct 2026 | Le Cannibale x Farout Festival - Davide Boosta Dileo |  |
 
 ## Address
 
 via Bergognone, 34 20144 Milan, Italy, Milan
 
-*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/milan/club/base-milano/)*
+*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/milan/club/base-milano/)*

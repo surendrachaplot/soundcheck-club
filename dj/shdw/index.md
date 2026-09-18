@@ -1,8 +1,8 @@
 # SHDW
 
-SHDW is a Techno and House artist with 13 upcoming club dates listed on soundcheck as of Thu, 17 Sept 2026, next at Hangaren, Copenhagen on Fri, 18 Sept 2026.
+SHDW is a Techno and House artist with 14 upcoming club dates listed on soundcheck as of Fri, 18 Sept 2026, next at Hangaren, Copenhagen on Fri, 18 Sept 2026.
 
-SHDW is a techno and house artist tracked on soundcheck, with 206 sets logged across Amsterdam, Antwerp, Athens and Austin and 63 more. Often billed alongside ANNĒ, Alarico and Lars Huismann. Next up: Hangaren, Copenhagen on Fri 18 Sept.
+SHDW is a techno and house artist tracked on soundcheck, with 207 sets logged across Amsterdam, Antwerp, Athens and Austin and 63 more. Often billed alongside ANNĒ, Alarico and Lars Huismann. Next up: Hangaren, Copenhagen on Fri 18 Sept.
 
 ## Upcoming shows
 
@@ -36,4 +36,4 @@ SHDW is a techno and house artist tracked on soundcheck, with 206 sets logged ac
 
 ANNĒ, Alarico, Lars Huismann
 
-*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/shdw/)*
+*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/shdw/)*

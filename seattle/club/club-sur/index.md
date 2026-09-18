@@ -1,6 +1,6 @@
 # Club Sur
 
-Club Sur is a music venue in Seattle with 1 upcoming night listed on soundcheck as of Thu, 17 Sept 2026; the next is "Illuminaughty" on Sat, 26 Sept 2026.
+Club Sur is a music venue in Seattle with 1 upcoming night listed on soundcheck as of Fri, 18 Sept 2026; the next is "Illuminaughty" on Sat, 26 Sept 2026.
 
 Club Sur is a music venue in Seattle listed on soundcheck. 1 upcoming night, with line-ups including Kyle Douglas. Browse upcoming dates, start times and who's playing. 2901 1st Ave S, Seattle, WA 98134.
 
@@ -14,4 +14,4 @@ Club Sur is a music venue in Seattle listed on soundcheck. 1 upcoming night, wit
 
 2901 1st Ave S, Seattle, WA 98134, Seattle
 
-*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/seattle/club/club-sur/)*
+*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/seattle/club/club-sur/)*

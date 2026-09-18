@@ -1,14 +1,13 @@
 # Bulbul Berlin
 
-Bulbul Berlin is a music venue in Berlin with 10 upcoming nights listed on soundcheck as of Thu, 17 Sept 2026; the next is "House of Others (Vol.12): Betas, Mer Esnal" on Thu, 17 Sept 2026.
+Bulbul Berlin is a music venue in Berlin with 9 upcoming nights listed on soundcheck as of Fri, 18 Sept 2026; the next is "Reboot Record Label: Szew, Rina Katen, Mati Espina, Juan Neira" on Fri, 18 Sept 2026.
 
-Bulbul Berlin is a music venue in Berlin listed on soundcheck. 10 upcoming nights, with line-ups including Almost Famous, Barée Masse, Betas and Better Call Paul and 2 more. Browse upcoming dates, start times and who's playing. Skalitzer str. 114, 10999 Berlin, Germany.
+Bulbul Berlin is a music venue in Berlin listed on soundcheck. 9 upcoming nights, with line-ups including Almost Famous, Barée Masse, Better Call Paul and boyyyish and 2 more. Browse upcoming dates, start times and who's playing. Skalitzer str. 114, 10999 Berlin, Germany.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Thu, 17 Sept 2026 | House of Others (Vol.12): Betas, Mer Esnal | Betas, Mer Esnal |
 | Fri, 18 Sept 2026 | Reboot Record Label: Szew, Rina Katen, Mati Espina, Juan Neira | Juan Neira, Mati Espina, Rina Katen, Szew |
 | Sat, 19 Sept 2026 | N'Sekt Vielleicht: Bruder Jakob, Wallat Wallat, Kat_Es | Bruder Jakob, Kat_Es, Wallat Wallat |
 | Thu, 24 Sept 2026 | mita records showcase: Flor Coto b2b PILAR MOLINERO, materia hache, Manu Barcelo | Flor Coto, Manu Barcelo, PILAR MOLINERO, materia hache |
@@ -23,4 +22,4 @@ Bulbul Berlin is a music venue in Berlin listed on soundcheck. 10 upcoming night
 
 Skalitzer str. 114, 10999 Berlin, Germany, Berlin
 
-*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/bulbul-berlin/)*
+*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/bulbul-berlin/)*

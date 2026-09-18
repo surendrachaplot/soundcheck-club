@@ -1,8 +1,8 @@
-# Her Mans
+# Hermans
 
-Her Mans is a Tech House and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 17 Sept 2026, next at Dahlia Denver, Denver on Fri, 18 Sept 2026.
+Hermans is a Tech House and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 18 Sept 2026, next at Dahlia Denver, Denver on Fri, 18 Sept 2026.
 
-Her Mans is a tech house and house artist based in Canada, tracked on soundcheck, with 10 sets logged across Denver. Often billed alongside AM (8), Billy Bevevino and Brittz. Next up: Dahlia Denver, Denver on Fri 18 Sept.
+Hermans is a tech house and house artist based in Canada, tracked on soundcheck, with 10 sets logged across Denver. Often billed alongside AM (8), Billy Bevevino and Brittz. Next up: Dahlia Denver, Denver on Fri 18 Sept.
 
 ## Upcoming shows
 
@@ -26,4 +26,4 @@ Her Mans is a tech house and house artist based in Canada, tracked on soundcheck
 
 AM (8), Billy Bevevino, Brittz
 
-*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/hermans/)*
+*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/hermans/)*

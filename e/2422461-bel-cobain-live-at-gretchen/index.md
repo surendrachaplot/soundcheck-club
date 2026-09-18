@@ -1,6 +1,6 @@
 # BEL COBAIN *live at Gretchen
 
-BEL COBAIN *live at Gretchen on Mon 2 Nov, Berlin. 1 act on the bill: Bel Cobain. R&B. Preview the line-up and save it on soundcheck.
+BEL COBAIN *live at Gretchen on Mon 2 Nov, Berlin. 1 act on the bill: Bel Cobain. R&B and Electronica. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

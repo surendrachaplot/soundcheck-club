@@ -1,6 +1,6 @@
 # Afrodite (2)
 
-Afrodite (2) is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 17 Sept 2026, next at Yless, Seoul on Sat, 19 Sept 2026.
+Afrodite (2) is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 18 Sept 2026, next at Yless, Seoul on Sat, 19 Sept 2026.
 
 Afrodite (2) is a house and techno artist tracked on soundcheck, with 100 sets logged across Hongkong, Seoul and Tokyo. Often billed alongside Gumi, Moeuv and Doyeon. Next up: Yless, Seoul on Sat 19 Sept.
 
@@ -25,4 +25,4 @@ Afrodite (2) is a house and techno artist tracked on soundcheck, with 100 sets l
 
 Gumi, Moeuv, Doyeon
 
-*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/afrodite-2/)*
+*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/afrodite-2/)*

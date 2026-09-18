@@ -1,6 +1,6 @@
 # ZEEMUFFIN
 
-ZEEMUFFIN is a Hip-Hop and Club artist with 2 upcoming club dates listed on soundcheck as of Thu, 17 Sept 2026, next at Night Tales Loft, London on Fri, 13 Nov 2026.
+ZEEMUFFIN is a Hip-Hop and Club artist with 2 upcoming club dates listed on soundcheck as of Fri, 18 Sept 2026, next at Night Tales Loft, London on Fri, 13 Nov 2026.
 
 ZEEMUFFIN is a hip-hop and club artist tracked on soundcheck, with 37 sets logged across Chicago, Copenhagen, Hongkong and London and 9 more. Often billed alongside MNSA, Nadim Maghzal and Arianna Danae. Next up: Night Tales Loft, London on Fri 13 Nov.
 
@@ -26,4 +26,4 @@ ZEEMUFFIN is a hip-hop and club artist tracked on soundcheck, with 37 sets logge
 
 MNSA, Nadim Maghzal, Arianna Danae
 
-*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/zeemuffin/)*
+*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/zeemuffin/)*

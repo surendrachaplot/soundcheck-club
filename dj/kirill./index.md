@@ -1,6 +1,6 @@
 # Kirill.
 
-Kirill. is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Thu, 17 Sept 2026, next at Pontoon Budapest, Budapest on Fri, 18 Sept 2026.
+Kirill. is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Fri, 18 Sept 2026, next at Pontoon Budapest, Budapest on Fri, 18 Sept 2026.
 
 Kirill. is a house and minimal artist based in Hungary, tracked on soundcheck, with 12 sets logged across Budapest. Often billed alongside Electric Boutique, Lost in Details and Monoclick. Next up: Pontoon Budapest, Budapest on Fri 18 Sept.
 
@@ -25,4 +25,4 @@ Kirill. is a house and minimal artist based in Hungary, tracked on soundcheck, w
 
 Electric Boutique, Lost in Details, Monoclick
 
-*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kirill./)*
+*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kirill./)*

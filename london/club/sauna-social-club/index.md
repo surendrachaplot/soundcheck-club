@@ -1,6 +1,6 @@
 # Sauna Social Club
 
-Sauna Social Club is a music venue in London with 5 upcoming nights listed on soundcheck as of Thu, 17 Sept 2026; the next is "Ambient Sauna • Bodily with Big Hands and Soreab (Hybrid Set) & FYI Robyn" on Fri, 18 Sept 2026.
+Sauna Social Club is a music venue in London with 5 upcoming nights listed on soundcheck as of Fri, 18 Sept 2026; the next is "Ambient Sauna • Bodily with Big Hands and Soreab (Hybrid Set) & FYI Robyn" on Fri, 18 Sept 2026.
 
 Sauna Social Club is a music venue in London listed on soundcheck. 5 upcoming nights, with line-ups including Anjali (2), Big Hands, ex.sses and FYI Robyn and 2 more. Browse upcoming dates, start times and who's playing. Railway Arch 842 Brayards Road, Peckham, SE15 2AG.
 
@@ -18,4 +18,4 @@ Sauna Social Club is a music venue in London listed on soundcheck. 5 upcoming ni
 
 Railway Arch 842 Brayards Road, Peckham, SE15 2AG, London
 
-*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/sauna-social-club/)*
+*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/sauna-social-club/)*

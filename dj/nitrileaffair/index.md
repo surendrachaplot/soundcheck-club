@@ -1,6 +1,6 @@
 # Nitrile Affair
 
-Nitrile Affair is a Electronica and Minimal artist with 1 upcoming club date listed on soundcheck as of Thu, 17 Sept 2026, next at Doggy Klœb, Malaga on Sat, 3 Oct 2026.
+Nitrile Affair is a Electronica and Minimal artist with 1 upcoming club date listed on soundcheck as of Fri, 18 Sept 2026, next at Doggy Klœb, Malaga on Sat, 3 Oct 2026.
 
 Nitrile Affair is an electronica and minimal artist based in Spain, tracked on soundcheck, with 18 sets logged across Malaga. Often billed alongside Arval, Unreal Vibes and Noctive. Next up: Doggy Klœb, Malaga on Sat 3 Oct.
 
@@ -25,4 +25,4 @@ Nitrile Affair is an electronica and minimal artist based in Spain, tracked on s
 
 Arval, Unreal Vibes, Noctive
 
-*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nitrileaffair/)*
+*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nitrileaffair/)*

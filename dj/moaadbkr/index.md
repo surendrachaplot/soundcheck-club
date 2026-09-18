@@ -1,6 +1,6 @@
 # Moaad BKR
 
-Moaad BKR is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 17 Sept 2026, next at Starlane Pizza Bar, London on Fri, 18 Sept 2026.
+Moaad BKR is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 18 Sept 2026, next at Starlane Pizza Bar, London on Fri, 18 Sept 2026.
 
 Moaad BKR is a house and techno artist tracked on soundcheck, with 65 sets logged across Barcelona, Berlin, Boston and Leeds and 10 more. Often billed alongside CPR Annie, Metizo and Daura. Next up: Starlane Pizza Bar, London on Fri 18 Sept.
 
@@ -26,4 +26,4 @@ Moaad BKR is a house and techno artist tracked on soundcheck, with 65 sets logge
 
 CPR Annie, Metizo, Daura
 
-*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/moaadbkr/)*
+*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/moaadbkr/)*

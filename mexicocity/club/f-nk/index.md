@@ -1,14 +1,13 @@
 # Fünk
 
-Fünk is a music venue in Mexico City with 7 upcoming nights listed on soundcheck as of Thu, 17 Sept 2026; the next is "Rat Back Crew x Fünk" on Thu, 17 Sept 2026.
+Fünk is a music venue in Mexico City with 6 upcoming nights listed on soundcheck as of Fri, 18 Sept 2026; the next is "Gabbs + Masmoudi + Vane Vepe" on Fri, 18 Sept 2026.
 
-Fünk is a music venue in Mexicocity listed on soundcheck. 7 upcoming nights, with line-ups including Baby Mango, BADSISTA, Bluecommand and Blu:sh and 2 more. Browse upcoming dates, start times and who's playing. Av. Insurgentes Sur 377, Hipódromo, Cuauhtémoc, 06100 Ciudad de México, CDMX, Mexico.
+Fünk is a music venue in Mexicocity listed on soundcheck. 6 upcoming nights, with line-ups including Baby Mango, BADSISTA, Bluecommand and Blu:sh and 2 more. Browse upcoming dates, start times and who's playing. Av. Insurgentes Sur 377, Hipódromo, Cuauhtémoc, 06100 Ciudad de México, CDMX, Mexico.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Thu, 17 Sept 2026 | Rat Back Crew x Fünk | SAUANI |
 | Fri, 18 Sept 2026 | Gabbs + Masmoudi + Vane Vepe | Gabbs, Sami Masmoudi, Vane Vepe |
 | Sat, 19 Sept 2026 | Rated R: Rebolledo + Cabizbajo + Baby Mango | Baby Mango, Cabizbajo, Rebolledo |
 | Thu, 24 Sept 2026 | SVB DRÆMZ x Fünk | Blu:sh, Deejay Energy, Enya Botello, Maseriche |
@@ -20,4 +19,4 @@ Fünk is a music venue in Mexicocity listed on soundcheck. 7 upcoming nights, wi
 
 Av. Insurgentes Sur 377, Hipódromo, Cuauhtémoc, 06100 Ciudad de México, CDMX, Mexico, Mexico City
 
-*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/mexicocity/club/f-nk/)*
+*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/mexicocity/club/f-nk/)*

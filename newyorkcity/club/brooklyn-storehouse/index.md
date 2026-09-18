@@ -1,14 +1,13 @@
 # Brooklyn Storehouse
 
-Brooklyn Storehouse is a music venue in New York City with 4 upcoming nights listed on soundcheck as of Thu, 17 Sept 2026; the next is "Teksupport: Four Tet (SOLD OUT)" on Thu, 17 Sept 2026.
+Brooklyn Storehouse is a music venue in New York City with 3 upcoming nights listed on soundcheck as of Fri, 18 Sept 2026; the next is "Teksupport: Four Tet (2nd show added)" on Fri, 18 Sept 2026.
 
-Brooklyn Storehouse is a music venue in Newyorkcity listed on soundcheck. 4 upcoming nights, with line-ups including Aline Umber, ANOTR, Beltran and Carlita and 2 more. Browse upcoming dates, start times and who's playing. Brooklyn Navy Yard.
+Brooklyn Storehouse is a music venue in Newyorkcity listed on soundcheck. 3 upcoming nights, with line-ups including Aline Umber, ANOTR, Beltran and Carlita and 2 more. Browse upcoming dates, start times and who's playing. Brooklyn Navy Yard.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Thu, 17 Sept 2026 | Teksupport: Four Tet (SOLD OUT) | Four Tet |
 | Fri, 18 Sept 2026 | Teksupport: Four Tet (2nd show added) | Four Tet |
 | Fri, 30 Oct 2026 | CircoLoco New York | &ME, Beltran, Carlita, Konstantin, Map.ache, Mochakk, Rampa, Seth Troxler |
 | Sat, 31 Oct 2026 | CircoLoco New York | ANOTR, Aline Umber, Dixon, Jamback, Jimi Jules, Krol, Rossi |
@@ -17,4 +16,4 @@ Brooklyn Storehouse is a music venue in Newyorkcity listed on soundcheck. 4 upco
 
 Brooklyn Navy Yard, New York City
 
-*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/brooklyn-storehouse/)*
+*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/brooklyn-storehouse/)*

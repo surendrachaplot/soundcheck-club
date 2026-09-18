@@ -1,6 +1,6 @@
 # The Bag Factory
 
-The Bag Factory is a music venue in Manchester with 5 upcoming nights listed on soundcheck as of Thu, 17 Sept 2026; the next is "FUSION presents: Patient w/ Griser MC @ The Bag Factory" on Sat, 19 Sept 2026.
+The Bag Factory is a music venue in Manchester with 5 upcoming nights listed on soundcheck as of Fri, 18 Sept 2026; the next is "FUSION presents: Patient w/ Griser MC @ The Bag Factory" on Sat, 19 Sept 2026.
 
 The Bag Factory is a music venue in Manchester listed on soundcheck. 5 upcoming nights, with line-ups including 3DMA, FKA Hardcore, FOULMOUTH and mamba.exe and 2 more. Browse upcoming dates, start times and who's playing. Dickinson St, Manchester M3 7LW.
 
@@ -18,4 +18,4 @@ The Bag Factory is a music venue in Manchester listed on soundcheck. 5 upcoming 
 
 Dickinson St, Manchester M3 7LW, Manchester
 
-*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/the-bag-factory/)*
+*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/the-bag-factory/)*

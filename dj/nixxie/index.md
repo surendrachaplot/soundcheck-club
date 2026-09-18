@@ -1,6 +1,6 @@
 # Nixxie
 
-Nixxie is a Deep House and Afro House artist with 1 upcoming club date listed on soundcheck as of Thu, 17 Sept 2026, next at Moon Warsaw, Warsaw on Sat, 19 Sept 2026.
+Nixxie is a Deep House and Afro House artist with 1 upcoming club date listed on soundcheck as of Fri, 18 Sept 2026, next at Moon Warsaw, Warsaw on Sat, 19 Sept 2026.
 
 Nixxie is a deep house and afro house artist tracked on soundcheck, with 6 sets logged across Athens, Mykonos and Warsaw. Often billed alongside Abana, Alex Dallas and Dest. Next up: Moon Warsaw, Warsaw on Sat 19 Sept.
 
@@ -22,4 +22,4 @@ Nixxie is a deep house and afro house artist tracked on soundcheck, with 6 sets 
 
 Abana, Alex Dallas, Dest
 
-*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nixxie/)*
+*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nixxie/)*

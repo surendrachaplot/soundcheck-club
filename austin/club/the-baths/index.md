@@ -1,18 +1,22 @@
 # THE BATHS
 
-THE BATHS is a music venue in Austin with 2 upcoming nights listed on soundcheck as of Thu, 17 Sept 2026; the next is "Auricle Recordings presents: Nox Vahn, Nick Stoynoff" on Fri, 16 Oct 2026.
+THE BATHS is a music venue in Austin with 6 upcoming nights listed on soundcheck as of Fri, 18 Sept 2026; the next is "Selector Series Vol III" on Sat, 19 Sept 2026.
 
-THE BATHS is a music venue in Austin listed on soundcheck. 2 upcoming nights. Browse upcoming dates, start times and who's playing. 207 San Jacinto Blvd #100, Austin, TX 78701.
+THE BATHS is a music venue in Austin listed on soundcheck. 6 upcoming nights, with line-ups including Chinonegro, Julian Fijma and Toman. Browse upcoming dates, start times and who's playing. 207 San Jacinto Blvd #100, Austin, TX 78701.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
+| Sat, 19 Sept 2026 | Selector Series Vol III |  |
+| Fri, 2 Oct 2026 | Chinonegro | Chinonegro |
 | Fri, 16 Oct 2026 | Auricle Recordings presents: Nox Vahn, Nick Stoynoff |  |
+| Sat, 17 Oct 2026 | Julian Fijma | Julian Fijma |
+| Fri, 6 Nov 2026 | Toman | Toman |
 | Fri, 13 Nov 2026 | Situations with Wenzday |  |
 
 ## Address
 
 207 San Jacinto Blvd #100, Austin, TX 78701, Austin
 
-*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/austin/club/the-baths/)*
+*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/austin/club/the-baths/)*

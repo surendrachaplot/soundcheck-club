@@ -1,6 +1,6 @@
 # Daniel Jaramillo
 
-Daniel Jaramillo is a Minimal and Deep House artist with 2 upcoming club dates listed on soundcheck as of Thu, 17 Sept 2026, next at Eschschloraque, Berlin on Fri, 25 Sept 2026.
+Daniel Jaramillo is a Minimal and Deep House artist with 2 upcoming club dates listed on soundcheck as of Fri, 18 Sept 2026, next at Eschschloraque, Berlin on Fri, 25 Sept 2026.
 
 Daniel Jaramillo is a minimal and deep house artist based in Ecuador, tracked on soundcheck, with 62 sets logged across Berlin and Paris. Often billed alongside DAZA, Culo Sucio and Marko Cardona. Next up: Eschschloraque, Berlin on Fri 25 Sept.
 
@@ -26,4 +26,4 @@ Daniel Jaramillo is a minimal and deep house artist based in Ecuador, tracked on
 
 DAZA, Culo Sucio, Marko Cardona
 
-*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/danieljaramillo/)*
+*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/danieljaramillo/)*

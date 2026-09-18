@@ -1,6 +1,6 @@
 # T.I.M.E.F.A.L.L at DSTRKT Club Berlin
 
-T.I.M.E.F.A.L.L at DSTRKT Club Berlin on Sat 28 Nov, Berlin. 8 acts on the bill: André Galluzzi, Andreas Henneberg, DJ Hell and Jil Tanner and 4 more. Techno and Hardcore. Preview the line-up and save it on soundcheck.
+T.I.M.E.F.A.L.L at DSTRKT Club Berlin on Sat 28 Nov, Berlin. 9 acts on the bill: André Galluzzi, Andreas Henneberg, DJ Hell and Jil Tanner and 5 more. Techno and Hardcore. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -15,6 +15,7 @@ T.I.M.E.F.A.L.L at DSTRKT Club Berlin on Sat 28 Nov, Berlin. 8 acts on the bill:
 - DJ Hell
 - Jil Tanner
 - JOANNA COELHO
+- Rose
 - TBA
 - Teenage Mutants
 - Umek

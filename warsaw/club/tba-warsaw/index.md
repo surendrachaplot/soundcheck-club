@@ -1,6 +1,6 @@
 # TBA - Warsaw
 
-TBA - Warsaw is a music venue in Warsaw with 1 upcoming night listed on soundcheck as of Thu, 17 Sept 2026; the next is "Ecdysis: 2033" on Sat, 12 Dec 2026.
+TBA - Warsaw is a music venue in Warsaw with 1 upcoming night listed on soundcheck as of Fri, 18 Sept 2026; the next is "Ecdysis: 2033" on Sat, 12 Dec 2026.
 
 TBA - Warsaw is a music venue in Warsaw listed on soundcheck. 1 upcoming night. Browse upcoming dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ TBA - Warsaw is a music venue in Warsaw listed on soundcheck. 1 upcoming night. 
 | --- | --- | --- |
 | Sat, 12 Dec 2026 | Ecdysis: 2033 |  |
 
-*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/warsaw/club/tba-warsaw/)*
+*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/warsaw/club/tba-warsaw/)*

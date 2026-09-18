@@ -1,8 +1,8 @@
 # Sanaz
 
-Sanaz is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Thu, 17 Sept 2026, next at fabric, London on Sat, 10 Oct 2026.
+Sanaz is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Fri, 18 Sept 2026, next at fabric, London on Sat, 10 Oct 2026.
 
-Sanaz is a house and techno artist based in Germany, tracked on soundcheck, with 37 sets logged across Berlin, Bristol, Cologne and Copenhagen and 4 more. Often billed alongside Immy, Jessica Nightlife and Dornika. Next up: fabric, London on Sat 10 Oct.
+Sanaz is a house and techno artist based in Germany, tracked on soundcheck, with 38 sets logged across Berlin, Bristol, Cologne and Copenhagen and 4 more. Often billed alongside Immy, Jessica Nightlife and Dornika. Next up: fabric, London on Sat 10 Oct.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ Sanaz is a house and techno artist based in Germany, tracked on soundcheck, with
 | Sat, 10 Oct 2026 | fabric | London |
 | Sat, 24 Oct 2026 | Gaswrx Birmingham | London |
 | Fri, 30 Oct 2026 | The Prospect Building | Bristol |
+| Sat, 14 Nov 2026 | Kater | Berlin |
 
 ## Recently played
 
@@ -27,4 +28,4 @@ Sanaz is a house and techno artist based in Germany, tracked on soundcheck, with
 
 Immy, Jessica Nightlife, Dornika
 
-*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sanaz/)*
+*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sanaz/)*

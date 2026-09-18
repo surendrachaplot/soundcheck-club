@@ -1,6 +1,6 @@
 # Mira Vivian
 
-Mira Vivian is a Bass and Electronica artist with 1 upcoming club date listed on soundcheck as of Thu, 17 Sept 2026, next at Monk Club, Rome on Sat, 19 Sept 2026.
+Mira Vivian is a Bass and Electronica artist with 1 upcoming club date listed on soundcheck as of Fri, 18 Sept 2026, next at Monk Club, Rome on Sat, 19 Sept 2026.
 
 Mira Vivian is a bass and electronica artist tracked on soundcheck, with 15 sets logged across Berlin and Rome. Often billed alongside 42 Cent Hotline, Leonardo Metz and Luca Fitzgerald. Next up: Monk Club, Rome on Sat 19 Sept.
 
@@ -25,4 +25,4 @@ Mira Vivian is a bass and electronica artist tracked on soundcheck, with 15 sets
 
 42 Cent Hotline, Leonardo Metz, Luca Fitzgerald
 
-*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/miravivian/)*
+*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/miravivian/)*

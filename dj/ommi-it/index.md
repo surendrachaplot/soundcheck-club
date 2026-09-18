@@ -1,6 +1,6 @@
 # ØMMI
 
-ØMMI is a Hard Drum and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 17 Sept 2026, next at Super Club, Milan on Sat, 19 Sept 2026.
+ØMMI is a Hard Drum and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 18 Sept 2026, next at Super Club, Milan on Sat, 19 Sept 2026.
 
 ØMMI is a hard drum and techno artist tracked on soundcheck, with 13 sets logged across Milan. Often billed alongside ANTONIO TIMIS, BL3CKSMITH and HIISAK. Next up: Super Club, Milan on Sat 19 Sept.
 
@@ -25,4 +25,4 @@
 
 ANTONIO TIMIS, BL3CKSMITH, HIISAK
 
-*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ommi-it/)*
+*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ommi-it/)*

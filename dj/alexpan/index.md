@@ -1,6 +1,6 @@
 # ALEX PAN
 
-ALEX PAN is a Garage and Disco artist with 1 upcoming club date listed on soundcheck as of Thu, 17 Sept 2026, next at Hart Bar, New York City on Fri, 25 Sept 2026.
+ALEX PAN is a Garage and Disco artist with 1 upcoming club date listed on soundcheck as of Fri, 18 Sept 2026, next at Hart Bar, New York City on Fri, 25 Sept 2026.
 
 ALEX PAN is a garage and disco artist based in United States of America, tracked on soundcheck, with 8 sets logged across Detroit and Newyorkcity. Often billed alongside Abril IRL, Boydell and Scribble. Next up: Hart Bar, Newyorkcity on Fri 25 Sept.
 
@@ -24,4 +24,4 @@ ALEX PAN is a garage and disco artist based in United States of America, tracked
 
 Abril IRL, Boydell, Scribble
 
-*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/alexpan/)*
+*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/alexpan/)*

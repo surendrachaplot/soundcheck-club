@@ -1,8 +1,8 @@
 # Club 77
 
-Club 77 is a music venue in Sydney with 14 upcoming nights listed on soundcheck as of Thu, 17 Sept 2026; the next is "Fridays at 77 x Konti Lang: Ciara b2b Setwun, Mango, Disco Dora" on Fri, 18 Sept 2026.
+Club 77 is a music venue in Sydney with 19 upcoming nights listed on soundcheck as of Fri, 18 Sept 2026; the next is "Fridays at 77 x Konti Lang: Ciara b2b Setwun, Mango, Disco Dora" on Fri, 18 Sept 2026.
 
-Club 77 is a music venue in Sydney listed on soundcheck. 14 upcoming nights, with line-ups including Alex Diwa, Attu, Ben Fester and CC:DISCO! and 2 more. Browse upcoming dates, start times and who's playing. 77 William St, Darlinghurst NSW 2010.
+Club 77 is a music venue in Sydney listed on soundcheck. 19 upcoming nights, with line-ups including Alex Diwa, Attu, b_man (AU) and Ben Fester and 2 more. Browse upcoming dates, start times and who's playing. 77 William St, Darlinghurst NSW 2010.
 
 ## What's on
 
@@ -23,4 +23,4 @@ Club 77 is a music venue in Sydney listed on soundcheck. 14 upcoming nights, wit
 
 77 William St, Darlinghurst NSW 2010, Sydney
 
-*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/sydney/club/club-77/)*
+*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/sydney/club/club-77/)*

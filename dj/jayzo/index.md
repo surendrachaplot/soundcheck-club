@@ -1,14 +1,13 @@
 # Jayzo
 
-Jayzo is a Techno and Tech House artist with 6 upcoming club dates listed on soundcheck as of Thu, 17 Sept 2026, next at OIL Club, Shenzhen on Thu, 17 Sept 2026.
+Jayzo is a Techno and Tech House artist with 5 upcoming club dates listed on soundcheck as of Fri, 18 Sept 2026, next at clubasia, Tokyo on Fri, 25 Sept 2026.
 
-Jayzo is a techno and tech house artist based in Netherlands, tracked on soundcheck, with 132 sets logged across Amsterdam, Barcelona, Berlin and Bucharest and 18 more. Often billed alongside Dexon, Soothsayer and Compound Rhythm. Next up: OIL Club, Shenzhen on Thu 17 Sept.
+Jayzo is a techno and tech house artist based in Netherlands, tracked on soundcheck, with 132 sets logged across Amsterdam, Barcelona, Berlin and Bucharest and 18 more. Often billed alongside Dexon, Soothsayer and Compound Rhythm. Next up: clubasia, Tokyo on Fri 25 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Thu, 17 Sept 2026 | OIL Club | Shenzhen |
 | Fri, 25 Sept 2026 | clubasia | Tokyo |
 | Fri, 2 Oct 2026 | Melkweg | Amsterdam |
 | Tue, 6 Oct 2026 | Melkweg | Amsterdam |
@@ -17,6 +16,7 @@ Jayzo is a techno and tech house artist based in Netherlands, tracked on soundch
 
 ## Recently played
 
+- OIL Club, Shenzhen — Thu, 17 Sept 2026
 - Strijkviertel, Utrecht — Sat, 5 Sept 2026
 - Melkweg, Amsterdam — Tue, 4 Aug 2026
 - De Fik Garden, Amsterdam — Sat, 1 Aug 2026
@@ -24,10 +24,9 @@ Jayzo is a techno and tech house artist based in Netherlands, tracked on soundch
 - Melkweg, Amsterdam — Fri, 17 Jul 2026
 - Das Werk, Vienna — Sat, 4 Jul 2026
 - Ohjo Bldg, Tokyo — Sat, 27 Jun 2026
-- Joule, Osaka — Fri, 26 Jun 2026
 
 ## Shares bills with
 
 Dexon, Soothsayer, Compound Rhythm
 
-*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jayzo/)*
+*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jayzo/)*

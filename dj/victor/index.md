@@ -1,6 +1,6 @@
 # Victor
 
-Victor is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Thu, 17 Sept 2026, next at BRET, Amsterdam on Sun, 20 Sept 2026.
+Victor is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Fri, 18 Sept 2026, next at BRET, Amsterdam on Sun, 20 Sept 2026.
 
 Victor is a house and disco artist based in United Kingdom, tracked on soundcheck, with 13 sets logged across Amsterdam, Berlin, London and Munich. Often billed alongside Dan Zero, Day & Mycoe and Jack De Vito. Next up: BRET, Amsterdam on Sun 20 Sept.
 
@@ -25,4 +25,4 @@ Victor is a house and disco artist based in United Kingdom, tracked on soundchec
 
 Dan Zero, Day & Mycoe, Jack De Vito
 
-*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/victor/)*
+*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/victor/)*

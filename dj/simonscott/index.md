@@ -1,6 +1,6 @@
 # Simon Scott
 
-Simon Scott is a Downtempo and Ambient artist with 8 upcoming club dates listed on soundcheck as of Thu, 17 Sept 2026, next at The Hifi Club, Leeds on Thu, 24 Sept 2026.
+Simon Scott is a Downtempo and Ambient artist with 8 upcoming club dates listed on soundcheck as of Fri, 18 Sept 2026, next at The Hifi Club, Leeds on Thu, 24 Sept 2026.
 
 Simon Scott is a downtempo and ambient artist based in United Kingdom, tracked on soundcheck, with 123 sets logged across Belgrade, Brighton, Leeds and London and 2 more. Often billed alongside Mike BC, Iration Steppas and Cosmikuro. Next up: The Hifi Club, Leeds on Thu 24 Sept.
 
@@ -32,4 +32,4 @@ Simon Scott is a downtempo and ambient artist based in United Kingdom, tracked o
 
 Mike BC, Iration Steppas, Cosmikuro
 
-*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/simonscott/)*
+*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/simonscott/)*

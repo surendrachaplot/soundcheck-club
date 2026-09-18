@@ -1,8 +1,8 @@
 # Gibbo
 
-Gibbo is a Drum & Bass and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 17 Sept 2026, next at Waterhouse Studios, Amsterdam on Sat, 19 Sept 2026.
+Gibbo is a Drum & Bass and Techno artist with 3 upcoming club dates listed on soundcheck as of Fri, 18 Sept 2026, next at Waterhouse Studios, Amsterdam on Sat, 19 Sept 2026.
 
-Gibbo is a drum & bass and techno artist based in Netherlands, tracked on soundcheck, with 66 sets logged across Amsterdam, Brighton and Cardiff. Often billed alongside Insom, Gino Lightner and Ant TC1. Next up: Waterhouse Studios, Amsterdam on Sat 19 Sept.
+Gibbo is a drum & bass and techno artist based in Netherlands, tracked on soundcheck, with 67 sets logged across Amsterdam, Brighton and Cardiff. Often billed alongside Insom, Gino Lightner and Ant TC1. Next up: Waterhouse Studios, Amsterdam on Sat 19 Sept.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Gibbo is a drum & bass and techno artist based in Netherlands, tracked on soundc
 | --- | --- | --- |
 | Sat, 19 Sept 2026 | Waterhouse Studios | Amsterdam |
 | Mon, 28 Sept 2026 | Melkweg | Amsterdam |
+| Sat, 10 Oct 2026 | Waterhouse Studios | Amsterdam |
 
 ## Recently played
 
@@ -26,4 +27,4 @@ Gibbo is a drum & bass and techno artist based in Netherlands, tracked on soundc
 
 Insom, Gino Lightner, Ant TC1
 
-*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/gibbo/)*
+*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/gibbo/)*

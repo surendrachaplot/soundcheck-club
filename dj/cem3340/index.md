@@ -1,8 +1,8 @@
 # CEM3340
 
-CEM3340 is a Electro and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 17 Sept 2026, next at Tresor / Globus, Berlin on Fri, 16 Oct 2026.
+CEM3340 is a Electro and Techno artist with 3 upcoming club dates listed on soundcheck as of Fri, 18 Sept 2026, next at Tresor / Globus, Berlin on Fri, 16 Oct 2026.
 
-CEM3340 is an electro and techno artist tracked on soundcheck, with 13 sets logged across Amsterdam, Barcelona, Berlin and Madrid and 5 more. Often billed alongside ARMANDO, Acida Dominga and Afra. Next up: Tresor / Globus, Berlin on Fri 16 Oct.
+CEM3340 is an electro and techno artist tracked on soundcheck, with 14 sets logged across Amsterdam, Barcelona, Berlin and Madrid and 5 more. Often billed alongside ARMANDO, Acida Dominga and Afra. Next up: Tresor / Globus, Berlin on Fri 16 Oct.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ CEM3340 is an electro and techno artist tracked on soundcheck, with 13 sets logg
 | --- | --- | --- |
 | Fri, 16 Oct 2026 | Tresor / Globus | Berlin |
 | Fri, 23 Oct 2026 | Q-Factory | Amsterdam |
+| Fri, 13 Nov 2026 | TBA - Powered by: Void Acoustics | Madrid |
 
 ## Recently played
 
@@ -26,4 +27,4 @@ CEM3340 is an electro and techno artist tracked on soundcheck, with 13 sets logg
 
 ARMANDO, Acida Dominga, Afra
 
-*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/cem3340/)*
+*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/cem3340/)*

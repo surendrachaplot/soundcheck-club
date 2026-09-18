@@ -1,8 +1,8 @@
 # Tommy Chikara
 
-Tommy Chikara is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Thu, 17 Sept 2026, next at TILLATEC, Amsterdam on Sat, 19 Sept 2026.
+Tommy Chikara is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Fri, 18 Sept 2026, next at TILLATEC, Amsterdam on Sat, 19 Sept 2026.
 
-Tommy Chikara is a techno and house artist based in Netherlands, tracked on soundcheck, with 36 sets logged across Amsterdam, Berlin, Newyorkcity and Paris. Often billed alongside Benjamin Berg, Hannecart and Reiss. Next up: TILLATEC, Amsterdam on Sat 19 Sept.
+Tommy Chikara is a house and techno artist based in Netherlands, tracked on soundcheck, with 37 sets logged across Amsterdam, Berlin, Newyorkcity and Paris. Often billed alongside Benjamin Berg, Hannecart and Kyra Khaldi. Next up: TILLATEC, Amsterdam on Sat 19 Sept.
 
 ## Upcoming shows
 
@@ -12,6 +12,7 @@ Tommy Chikara is a techno and house artist based in Netherlands, tracked on soun
 | Thu, 22 Oct 2026 | THE OTHER SIDE | Amsterdam |
 | Fri, 23 Oct 2026 | De Thomaskerk | Amsterdam |
 | Fri, 30 Oct 2026 | Signal | New York City |
+| Fri, 27 Nov 2026 | Shelter Amsterdam | Amsterdam |
 
 ## Recently played
 
@@ -26,6 +27,6 @@ Tommy Chikara is a techno and house artist based in Netherlands, tracked on soun
 
 ## Shares bills with
 
-Benjamin Berg, Hannecart, Reiss
+Benjamin Berg, Hannecart, Kyra Khaldi
 
-*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tommychikara/)*
+*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tommychikara/)*

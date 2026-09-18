@@ -1,6 +1,6 @@
 # KYOTO
 
-KYOTO is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 17 Sept 2026, next at Motor Oil Cocktail Garage, Barcelona on Thu, 17 Sept 2026.
+KYOTO is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 18 Sept 2026, next at Motor Oil Cocktail Garage, Barcelona on Thu, 17 Sept 2026.
 
 KYOTO is a techno and house artist based in Mexico, tracked on soundcheck, with 6 sets logged across Barcelona and Budapest. Often billed alongside Mylet.Mihail, Yeison M and ANESI. Next up: Motor Oil Cocktail Garage, Barcelona on Thu 17 Sept.
 
@@ -12,6 +12,7 @@ KYOTO is a techno and house artist based in Mexico, tracked on soundcheck, with 
 
 ## Recently played
 
+- Motor Oil Cocktail Garage, Barcelona — Thu, 17 Sept 2026
 - City Hall, Barcelona — Wed, 26 Aug 2026
 - Almar Beach Club, Barcelona — Fri, 3 Jul 2026
 - Almar Beach Club, Barcelona — Sat, 27 Jun 2026
@@ -22,4 +23,4 @@ KYOTO is a techno and house artist based in Mexico, tracked on soundcheck, with 
 
 Mylet.Mihail, Yeison M, ANESI
 
-*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kyoto/)*
+*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kyoto/)*

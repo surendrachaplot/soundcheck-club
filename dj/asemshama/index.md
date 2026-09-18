@@ -1,6 +1,6 @@
 # Asem Shama
 
-Asem Shama is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 17 Sept 2026, next at PKH Warehouse, Berlin on Mon, 12 Oct 2026.
+Asem Shama is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 18 Sept 2026, next at PKH Warehouse, Berlin on Mon, 12 Oct 2026.
 
 Asem Shama is a techno and house artist based in Germany, tracked on soundcheck, with 38 sets logged across Berlin. Often billed alongside Ilyas S, Jens Schwan and Simon Stiglmeier. Next up: PKH Warehouse, Berlin on Mon 12 Oct.
 
@@ -25,4 +25,4 @@ Asem Shama is a techno and house artist based in Germany, tracked on soundcheck,
 
 Ilyas S, Jens Schwan, Simon Stiglmeier
 
-*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/asemshama/)*
+*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/asemshama/)*

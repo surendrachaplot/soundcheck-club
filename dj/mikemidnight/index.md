@@ -1,18 +1,18 @@
 # Mike Midnight
 
-Mike Midnight is a Downtempo and Electronica artist with 2 upcoming club dates listed on soundcheck as of Thu, 17 Sept 2026, next at public records, New York City on Thu, 17 Sept 2026.
+Mike Midnight is a Downtempo and Electronica artist with 1 upcoming club date listed on soundcheck as of Fri, 18 Sept 2026, next at Fort Mifflin, Philadelphia on Fri, 18 Sept 2026.
 
-Mike Midnight is a downtempo and electronica artist based in Australia, tracked on soundcheck, with 39 sets logged across Athens, Berlin, Copenhagen and Helsinki and 10 more. Often billed alongside Paper-Cuts, Roza Terenzi and Miscmeg. Next up: public records, Newyorkcity on Thu 17 Sept.
+Mike Midnight is a downtempo and electronica artist based in Australia, tracked on soundcheck, with 39 sets logged across Athens, Berlin, Copenhagen and Helsinki and 10 more. Often billed alongside Paper-Cuts, Roza Terenzi and Miscmeg. Next up: Fort Mifflin, Philadelphia on Fri 18 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Thu, 17 Sept 2026 | public records | New York City |
 | Fri, 18 Sept 2026 | Fort Mifflin | Philadelphia |
 
 ## Recently played
 
+- public records, New York City — Thu, 17 Sept 2026
 - Nowadays, New York City — Wed, 16 Sept 2026
 - Camp Kennybrook, New York City — Thu, 10 Sept 2026
 - TBA - Secret Location, Berlin — Sun, 30 Aug 2026
@@ -20,10 +20,9 @@ Mike Midnight is a downtempo and electronica artist based in Australia, tracked 
 - The Villa, Oslo — Sat, 8 Aug 2026
 - Fitzroy, Berlin — Fri, 24 Jul 2026
 - Kwia, Berlin — Thu, 9 Jul 2026
-- Kwia, Berlin — Wed, 8 Jul 2026
 
 ## Shares bills with
 
 Paper-Cuts, Roza Terenzi, Miscmeg
 
-*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mikemidnight/)*
+*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mikemidnight/)*

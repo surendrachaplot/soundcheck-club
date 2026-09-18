@@ -1,8 +1,8 @@
 # Abdy
 
-Abdy is a Progressive House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 17 Sept 2026, next at Tigullio, Malta on Sat, 19 Sept 2026.
+Abdy is a Progressive House and Techno artist with 3 upcoming club dates listed on soundcheck as of Fri, 18 Sept 2026, next at Tigullio, Malta on Sat, 19 Sept 2026.
 
-Abdy is a progressive house and techno artist based in Malta, tracked on soundcheck, with 41 sets logged across London, Malta and Zurich. Often billed alongside Shabab Khan, Philip Ackowsky and LEM (IT). Next up: Tigullio, Malta on Sat 19 Sept.
+Abdy is a progressive house and techno artist based in Malta, tracked on soundcheck, with 42 sets logged across London, Malta and Zurich. Often billed alongside Shabab Khan, Philip Ackowsky and LEM (IT). Next up: Tigullio, Malta on Sat 19 Sept.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Abdy is a progressive house and techno artist based in Malta, tracked on soundch
 | --- | --- | --- |
 | Sat, 19 Sept 2026 | Tigullio | Malta |
 | Fri, 25 Sept 2026 | Vita - Hotel & Rooftop | Malta |
+| Sat, 10 Oct 2026 | Groove Gardens | Malta |
 
 ## Recently played
 
@@ -26,4 +27,4 @@ Abdy is a progressive house and techno artist based in Malta, tracked on soundch
 
 Shabab Khan, Philip Ackowsky, LEM (IT)
 
-*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/abdy/)*
+*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/abdy/)*

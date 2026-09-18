@@ -1,6 +1,6 @@
 # MLK:M
 
-MLK:M is a Acid and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 17 Sept 2026, next at Stalin, Prague on Fri, 18 Sept 2026.
+MLK:M is a Acid and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 18 Sept 2026, next at Stalin, Prague on Fri, 18 Sept 2026.
 
 MLK:M is an acid and techno artist tracked on soundcheck, with 13 sets logged across Berlin, Krakow and Prague. Often billed alongside Technadze, Kavkaz Widow and 2NDRA. Next up: Stalin, Prague on Fri 18 Sept.
 
@@ -25,4 +25,4 @@ MLK:M is an acid and techno artist tracked on soundcheck, with 13 sets logged ac
 
 Technadze, Kavkaz Widow, 2NDRA
 
-*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mlkm/)*
+*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mlkm/)*

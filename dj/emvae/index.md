@@ -1,6 +1,6 @@
 # Emvae
 
-Emvae is a House and Progressive House artist with 2 upcoming club dates listed on soundcheck as of Thu, 17 Sept 2026, next at nachbar, Amsterdam on Sat, 19 Sept 2026.
+Emvae is a House and Progressive House artist with 2 upcoming club dates listed on soundcheck as of Fri, 18 Sept 2026, next at nachbar, Amsterdam on Sat, 19 Sept 2026.
 
 Emvae is a house and progressive house artist tracked on soundcheck, with 70 sets logged across Amsterdam, Berlin, Ibiza and Thehague and 1 more. Often billed alongside Moxes, SAIDAH and Doppelgang. Next up: nachbar, Amsterdam on Sat 19 Sept.
 
@@ -26,4 +26,4 @@ Emvae is a house and progressive house artist tracked on soundcheck, with 70 set
 
 Moxes, SAIDAH, Doppelgang
 
-*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/emvae/)*
+*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/emvae/)*

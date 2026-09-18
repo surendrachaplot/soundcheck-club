@@ -1,6 +1,6 @@
 # Paramat
 
-Paramat is a Techno and Electro artist with 3 upcoming club dates listed on soundcheck as of Thu, 17 Sept 2026, next at Abercrombie Hotel, Sydney on Fri, 18 Sept 2026.
+Paramat is a Techno and Electro artist with 3 upcoming club dates listed on soundcheck as of Fri, 18 Sept 2026, next at Abercrombie Hotel, Sydney on Fri, 18 Sept 2026.
 
 Paramat is a techno and electro artist based in Australia, tracked on soundcheck, with 30 sets logged across Melbourne and Sydney. Often billed alongside Paramat (2), D-Grade and au4r33y. Next up: Abercrombie Hotel, Sydney on Fri 18 Sept.
 
@@ -27,4 +27,4 @@ Paramat is a techno and electro artist based in Australia, tracked on soundcheck
 
 Paramat (2), D-Grade, au4r33y
 
-*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/paramat/)*
+*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/paramat/)*

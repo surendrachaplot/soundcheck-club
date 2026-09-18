@@ -1,6 +1,6 @@
 # Liquid Club
 
-Liquid Club is a music venue in Malta with 13 upcoming nights listed on soundcheck as of Thu, 17 Sept 2026; the next is "Techno Agency Malta Liquid Club POSTREPOND FOR 28 AUGUST" on Fri, 18 Sept 2026.
+Liquid Club is a music venue in Malta with 13 upcoming nights listed on soundcheck as of Fri, 18 Sept 2026; the next is "Techno Agency Malta Liquid Club POSTREPOND FOR 28 AUGUST" on Fri, 18 Sept 2026.
 
 Liquid Club is a music venue in Malta listed on soundcheck. 13 upcoming nights, with line-ups including Billy Hills, BOA (1), Cheech and Chopper and 2 more. Browse upcoming dates, start times and who's playing. Triq Hal-Gharghur, San Ġwann, Malta.
 
@@ -23,4 +23,4 @@ Liquid Club is a music venue in Malta listed on soundcheck. 13 upcoming nights, 
 
 Triq Hal-Gharghur, San Ġwann, Malta, Malta
 
-*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/malta/club/liquid-club/)*
+*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/malta/club/liquid-club/)*

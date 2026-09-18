@@ -1,6 +1,6 @@
 # The Independent
 
-The Independent is a music venue in San Francisco/Oakland with 8 upcoming nights listed on soundcheck as of Thu, 17 Sept 2026; the next is "Daniel Avery Live" on Fri, 18 Sept 2026.
+The Independent is a music venue in San Francisco/Oakland with 8 upcoming nights listed on soundcheck as of Fri, 18 Sept 2026; the next is "Daniel Avery Live" on Fri, 18 Sept 2026.
 
 The Independent is a music venue in Sanfrancisco listed on soundcheck. 8 upcoming nights, with line-ups including Cut Chemist, Daniel Avery, Dublon and Hot Chip and 1 more. Browse upcoming dates, start times and who's playing. 628 Divisadero Street, San Francisco, CA, United States.
 
@@ -21,4 +21,4 @@ The Independent is a music venue in Sanfrancisco listed on soundcheck. 8 upcomin
 
 628 Divisadero Street, San Francisco, CA, United States, San Francisco/Oakland
 
-*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/the-independent/)*
+*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/the-independent/)*

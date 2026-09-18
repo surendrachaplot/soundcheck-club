@@ -1,6 +1,6 @@
 # Mandora X Move Infinity pres. KNTRLVRLST & Nyra | Zinkbad Zürich at Zinkbad Eventhalle
 
-Mandora X Move Infinity pres. KNTRLVRLST & Nyra | Zinkbad Zürich at Zinkbad Eventhalle on Sat 3 Oct, Zurich. 5 acts on the bill: KNTRLVRLST, Luzy, Mad Fusion and Nyra and 1 more. Techno and Industrial. Preview the line-up and save it on soundcheck.
+Mandora X Move Infinity pres. KNTRLVRLST & Nyra | Zinkbad Zürich at Zinkbad Eventhalle on Sat 3 Oct, Zurich. 6 acts on the bill: K4Y Official, KNTRLVRLST, Luzy and Mad Fusion and 2 more. Techno and Industrial. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ Mandora X Move Infinity pres. KNTRLVRLST & Nyra | Zinkbad Zürich at Zinkbad Eve
 
 ## Line-up
 
+- K4Y Official
 - KNTRLVRLST
 - Luzy
 - Mad Fusion

@@ -1,6 +1,6 @@
 # Maex
 
-Maex is a House and Tech House artist with 3 upcoming club dates listed on soundcheck as of Thu, 17 Sept 2026, next at Pracht, Frankfurt on Sat, 19 Sept 2026.
+Maex is a House and Tech House artist with 3 upcoming club dates listed on soundcheck as of Fri, 18 Sept 2026, next at Pracht, Frankfurt on Sat, 19 Sept 2026.
 
 Maex is a house and tech house artist based in Germany, tracked on soundcheck, with 29 sets logged across Amsterdam, Bali and Frankfurt. Often billed alongside Claudius (DE), James Taylor (AU) and Juliet Sikora. Next up: Pracht, Frankfurt on Sat 19 Sept.
 
@@ -27,4 +27,4 @@ Maex is a house and tech house artist based in Germany, tracked on soundcheck, w
 
 Claudius (DE), James Taylor (AU), Juliet Sikora
 
-*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/maex/)*
+*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/maex/)*

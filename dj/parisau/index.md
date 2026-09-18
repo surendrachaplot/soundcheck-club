@@ -1,6 +1,6 @@
 # PARIS (AU)
 
-PARIS (AU) is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 17 Sept 2026, next at Babour Sauvage, Paris on Sat, 19 Sept 2026.
+PARIS (AU) is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 18 Sept 2026, next at Babour Sauvage, Paris on Sat, 19 Sept 2026.
 
 PARIS (AU) is a techno and house artist tracked on soundcheck, with 44 sets logged across Barcelona, Brisbane, Cologne and Geneva and 6 more. Often billed alongside TBA, Moulin and After X. Next up: Babour Sauvage, Paris on Sat 19 Sept.
 
@@ -25,4 +25,4 @@ PARIS (AU) is a techno and house artist tracked on soundcheck, with 44 sets logg
 
 TBA, Moulin, After X
 
-*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/parisau/)*
+*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/parisau/)*

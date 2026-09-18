@@ -1,14 +1,13 @@
 # Blvck Water
 
-Blvck Water is a music venue in Osaka with 10 upcoming nights listed on soundcheck as of Thu, 17 Sept 2026; the next is "AWAKING THE UNKNOWN" on Thu, 17 Sept 2026.
+Blvck Water is a music venue in Osaka with 9 upcoming nights listed on soundcheck as of Fri, 18 Sept 2026; the next is "HARD TECHNO 'CRACKS' with neqr, FENGX2, Kaoll, ANKHofLIFE, ZAGUN, Shuk00, inudog system" on Fri, 18 Sept 2026.
 
-Blvck Water is a music venue in Osaka listed on soundcheck. 10 upcoming nights, with line-ups including 死者蘇生CH, _goodbyeforever_, amor (JP) and dyn (JP) and 2 more. Browse upcoming dates, start times and who's playing. B1F Grace Soemoncho Bldg., 7-6 Soemoncho, Chuo-ku, Osaka.
+Blvck Water is a music venue in Osaka listed on soundcheck. 9 upcoming nights, with line-ups including 死者蘇生CH, _goodbyeforever_, amor (JP) and dyn (JP) and 2 more. Browse upcoming dates, start times and who's playing. B1F Grace Soemoncho Bldg., 7-6 Soemoncho, Chuo-ku, Osaka.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Thu, 17 Sept 2026 | AWAKING THE UNKNOWN |  |
 | Fri, 18 Sept 2026 | HARD TECHNO 'CRACKS' with neqr, FENGX2, Kaoll, ANKHofLIFE, ZAGUN, Shuk00, inudog system | FENGX2, Kaoll, ZAGUN, inudog system, 死者蘇生CH |
 | Tue, 22 Sept 2026 | 'sutura'×DELTA TECHNO ADDICT at Night Club Blvck Water SPECIAL COLLABORATION | LIZA (6), Liza, ZAGUN, amor (JP) |
 | Wed, 23 Sept 2026 | RHYTHM SHIFT Vol.19 with EMIRI (Zenon Records) | EMIRI TSUKUI, WOLT |
@@ -23,4 +22,4 @@ Blvck Water is a music venue in Osaka listed on soundcheck. 10 upcoming nights, 
 
 B1F Grace Soemoncho Bldg., 7-6 Soemoncho, Chuo-ku, Osaka, Osaka
 
-*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/osaka/club/blvck-water/)*
+*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/osaka/club/blvck-water/)*

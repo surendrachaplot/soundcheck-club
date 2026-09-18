@@ -1,6 +1,6 @@
 # Zone+
 
-Zone+ is a Deep House and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 17 Sept 2026, next at Do Not Sit On The Furniture, Miami on Fri, 18 Sept 2026.
+Zone+ is a Deep House and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 18 Sept 2026, next at Do Not Sit On The Furniture, Miami on Fri, 18 Sept 2026.
 
 Zone+ is a deep house and house artist tracked on soundcheck, with 7 sets logged across Amsterdam, Ibiza, Losangeles and Miami and 1 more. Often billed alongside Jim Rider, Lee Burridge and Brawther. Next up: Do Not Sit On The Furniture, Miami on Fri 18 Sept.
 
@@ -23,4 +23,4 @@ Zone+ is a deep house and house artist tracked on soundcheck, with 7 sets logged
 
 Jim Rider, Lee Burridge, Brawther
 
-*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/zone-ae/)*
+*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/zone-ae/)*

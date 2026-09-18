@@ -1,6 +1,6 @@
 # Sean Lyles
 
-Sean Lyles is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Thu, 17 Sept 2026, next at MAD Radio NYC, New York City on Fri, 18 Sept 2026.
+Sean Lyles is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Fri, 18 Sept 2026, next at MAD Radio NYC, New York City on Fri, 18 Sept 2026.
 
 Sean Lyles is a house and disco artist tracked on soundcheck, with 19 sets logged across Detroit, Newyorkcity and Philadelphia. Often billed alongside Jay Esko, Stonie Blue and Very J. Next up: MAD Radio NYC, Newyorkcity on Fri 18 Sept.
 
@@ -25,4 +25,4 @@ Sean Lyles is a house and disco artist tracked on soundcheck, with 19 sets logge
 
 Jay Esko, Stonie Blue, Very J
 
-*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/seanlyles/)*
+*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/seanlyles/)*

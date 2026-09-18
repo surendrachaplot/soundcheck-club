@@ -1,8 +1,8 @@
 # Anna Cainelli
 
-Anna Cainelli is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Thu, 17 Sept 2026, next at JAKI, Cologne on Fri, 2 Oct 2026.
+Anna Cainelli is a House and Disco artist with 3 upcoming club dates listed on soundcheck as of Fri, 18 Sept 2026, next at JAKI, Cologne on Fri, 2 Oct 2026.
 
-Anna Cainelli is a house and disco artist based in Germany, tracked on soundcheck, with 33 sets logged across Berlin, Cologne, Copenhagen and Dusseldorf. Often billed alongside Savsannah, Nikity and Sedaction. Next up: JAKI, Cologne on Fri 2 Oct.
+Anna Cainelli is a house and disco artist based in Germany, tracked on soundcheck, with 34 sets logged across Berlin, Cologne, Copenhagen and Dusseldorf. Often billed alongside Savsannah, Sedaction and Nikity. Next up: JAKI, Cologne on Fri 2 Oct.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Anna Cainelli is a house and disco artist based in Germany, tracked on soundchec
 | --- | --- | --- |
 | Fri, 2 Oct 2026 | JAKI | Cologne |
 | Fri, 30 Oct 2026 | Gewölbe | Cologne |
+| Sat, 7 Nov 2026 | Stadtgarten Konzertsaal / Cafe | Cologne |
 
 ## Recently played
 
@@ -24,6 +25,6 @@ Anna Cainelli is a house and disco artist based in Germany, tracked on soundchec
 
 ## Shares bills with
 
-Savsannah, Nikity, Sedaction
+Savsannah, Sedaction, Nikity
 
-*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/annacainelli/)*
+*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/annacainelli/)*

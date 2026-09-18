@@ -1,6 +1,6 @@
 # Valeria Litvakov
 
-Valeria Litvakov is a Experimental and Club artist with 1 upcoming club date listed on soundcheck as of Thu, 17 Sept 2026, next at Meteoro, Barcelona on Fri, 18 Sept 2026.
+Valeria Litvakov is a Experimental and Club artist with 1 upcoming club date listed on soundcheck as of Fri, 18 Sept 2026, next at Meteoro, Barcelona on Fri, 18 Sept 2026.
 
 Valeria Litvakov is an experimental and club artist based in Germany, tracked on soundcheck, with 16 sets logged across Barcelona, Berlin, Brussels and Hamburg and 2 more. Often billed alongside Oli XL, 300SkullsAndCounting and Europa (1). Next up: Meteoro, Barcelona on Fri 18 Sept.
 
@@ -25,4 +25,4 @@ Valeria Litvakov is an experimental and club artist based in Germany, tracked on
 
 Oli XL, 300SkullsAndCounting, Europa (1)
 
-*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/valerialitvakov/)*
+*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/valerialitvakov/)*

@@ -1,6 +1,6 @@
 # Esoniq
 
-Esoniq is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 17 Sept 2026, next at When Coffee Meets Whisky, Riga on Fri, 18 Sept 2026.
+Esoniq is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 18 Sept 2026, next at When Coffee Meets Whisky, Riga on Fri, 18 Sept 2026.
 
 Esoniq is a house and techno artist tracked on soundcheck, with 49 sets logged across Riga. Often billed alongside Ksenia Kamikaza, Waxid and HP-82. Next up: When Coffee Meets Whisky, Riga on Fri 18 Sept.
 
@@ -25,4 +25,4 @@ Esoniq is a house and techno artist tracked on soundcheck, with 49 sets logged a
 
 Ksenia Kamikaza, Waxid, HP-82
 
-*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/esoniq/)*
+*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/esoniq/)*

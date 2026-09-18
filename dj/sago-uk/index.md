@@ -1,14 +1,15 @@
 # Sago
 
-Sago is a Trance and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 17 Sept 2026, next at Super Club, Milan on Sat, 19 Sept 2026.
+Sago is a Trance and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 18 Sept 2026, next at Super Club, Milan on Sat, 19 Sept 2026.
 
-Sago is a trance and techno artist tracked on soundcheck, with 9 sets logged across Amsterdam, Liverpool, London and Milan. Often billed alongside C-systems, DJMrB and Thiago Genez. Next up: Super Club, Milan on Sat 19 Sept.
+Sago is a trance and techno artist tracked on soundcheck, with 10 sets logged across Amsterdam, Liverpool, London and Milan. Often billed alongside C-systems, DJMrB and Thiago Genez. Next up: Super Club, Milan on Sat 19 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 19 Sept 2026 | Super Club | Milan |
+| Wed, 21 Oct 2026 | Café Restaurant De Kroon | Amsterdam |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Sago is a trance and techno artist tracked on soundcheck, with 9 sets logged acr
 
 C-systems, DJMrB, Thiago Genez
 
-*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sago-uk/)*
+*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sago-uk/)*

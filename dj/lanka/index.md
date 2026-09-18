@@ -1,6 +1,6 @@
 # Lanka
 
-Lanka is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Thu, 17 Sept 2026, next at Renate, Berlin on Fri, 16 Oct 2026.
+Lanka is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Fri, 18 Sept 2026, next at Renate, Berlin on Fri, 16 Oct 2026.
 
 Lanka is a techno and trance artist tracked on soundcheck, with 3 sets logged across Berlin and Hamburg. Often billed alongside Teenage Mutants, Adri Tüde and Andreas Rauscher. Next up: Renate, Berlin on Fri 16 Oct.
 
@@ -19,4 +19,4 @@ Lanka is a techno and trance artist tracked on soundcheck, with 3 sets logged ac
 
 Teenage Mutants, Adri Tüde, Andreas Rauscher
 
-*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lanka/)*
+*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lanka/)*

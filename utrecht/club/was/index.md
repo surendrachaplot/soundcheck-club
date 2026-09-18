@@ -1,6 +1,6 @@
 # WAS.
 
-WAS. is a music venue in Utrecht with 1 upcoming night listed on soundcheck as of Thu, 17 Sept 2026; the next is "WAS. x Le Guess Who? // Eris Drew b2b Octo Octa • Hervé • jannah" on Sat, 7 Nov 2026.
+WAS. is a music venue in Utrecht with 1 upcoming night listed on soundcheck as of Fri, 18 Sept 2026; the next is "WAS. x Le Guess Who? // Eris Drew b2b Octo Octa • Hervé • jannah" on Sat, 7 Nov 2026.
 
 WAS. is a music venue in Utrecht listed on soundcheck. 1 upcoming night, with line-ups including Eris Drew, Hervé, jannah and Octo Octa. Browse upcoming dates, start times and who's playing. Tractieweg 41, 3534 AP Utrecht.
 
@@ -14,4 +14,4 @@ WAS. is a music venue in Utrecht listed on soundcheck. 1 upcoming night, with li
 
 Tractieweg 41, 3534 AP Utrecht, Utrecht
 
-*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/utrecht/club/was/)*
+*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/utrecht/club/was/)*

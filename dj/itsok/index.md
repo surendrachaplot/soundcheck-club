@@ -1,6 +1,6 @@
 # ItsOk
 
-ItsOk is a Drum & Bass and Bass artist with 1 upcoming club date listed on soundcheck as of Thu, 17 Sept 2026, next at Slakthuset, Stockholm on Fri, 18 Sept 2026.
+ItsOk is a Drum & Bass and Bass artist with 1 upcoming club date listed on soundcheck as of Fri, 18 Sept 2026, next at Slakthuset, Stockholm on Fri, 18 Sept 2026.
 
 ItsOk is a drum & bass and bass artist tracked on soundcheck, with 17 sets logged across Stockholm. Often billed alongside rzt, charlie.pxls and JNB. Next up: Slakthuset, Stockholm on Fri 18 Sept.
 
@@ -25,4 +25,4 @@ ItsOk is a drum & bass and bass artist tracked on soundcheck, with 17 sets logge
 
 rzt, charlie.pxls, JNB
 
-*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/itsok/)*
+*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/itsok/)*

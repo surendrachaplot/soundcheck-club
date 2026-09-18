@@ -1,6 +1,6 @@
 # Ricardo Castro
 
-Ricardo Castro is a Techno and EBM artist with 4 upcoming club dates listed on soundcheck as of Thu, 17 Sept 2026, next at Colours Hoxton, London on Fri, 25 Sept 2026.
+Ricardo Castro is a Techno and EBM artist with 4 upcoming club dates listed on soundcheck as of Fri, 18 Sept 2026, next at Colours Hoxton, London on Fri, 25 Sept 2026.
 
 Ricardo Castro is a techno and ebm artist tracked on soundcheck, with 106 sets logged across Berlin and London. Often billed alongside Steve Weeks, Arrosa and Elander Ziggy. Next up: Colours Hoxton, London on Fri 25 Sept.
 
@@ -28,4 +28,4 @@ Ricardo Castro is a techno and ebm artist tracked on soundcheck, with 106 sets l
 
 Steve Weeks, Arrosa, Elander Ziggy
 
-*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ricardocastro/)*
+*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ricardocastro/)*

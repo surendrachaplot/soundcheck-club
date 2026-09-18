@@ -1,6 +1,6 @@
 # Maggie Jane
 
-Maggie Jane is a electronic artist with 1 upcoming club date listed on soundcheck as of Thu, 17 Sept 2026, next at Skateschule München - Spaceforskate, Munich on Fri, 9 Oct 2026.
+Maggie Jane is a electronic artist with 1 upcoming club date listed on soundcheck as of Fri, 18 Sept 2026, next at Skateschule München - Spaceforskate, Munich on Fri, 9 Oct 2026.
 
 Maggie Jane is an electronic artist tracked on soundcheck, with 11 sets logged across Munich. Often billed alongside Spinneck, Benni B and Inspektor Lenny. Next up: Skateschule München - Spaceforskate, Munich on Fri 9 Oct.
 
@@ -25,4 +25,4 @@ Maggie Jane is an electronic artist tracked on soundcheck, with 11 sets logged a
 
 Spinneck, Benni B, Inspektor Lenny
 
-*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/maggiejane/)*
+*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/maggiejane/)*

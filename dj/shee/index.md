@@ -1,6 +1,6 @@
 # SHEE
 
-SHEE is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Thu, 17 Sept 2026, next at TESTBED, Leeds on Sat, 3 Oct 2026.
+SHEE is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Fri, 18 Sept 2026, next at TESTBED, Leeds on Sat, 3 Oct 2026.
 
 SHEE is a house and techno artist tracked on soundcheck, with 53 sets logged across Amsterdam, Belfast, Berlin and Brighton and 17 more. Often billed alongside Prospa, salute and DJ Heartstring. Next up: TESTBED, Leeds on Sat 3 Oct.
 
@@ -27,4 +27,4 @@ SHEE is a house and techno artist tracked on soundcheck, with 53 sets logged acr
 
 Prospa, salute, DJ Heartstring
 
-*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/shee/)*
+*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/shee/)*

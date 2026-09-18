@@ -1,6 +1,6 @@
 # Afakasi Papi
 
-Afakasi Papi is a Club and Ghetto Tech artist with 2 upcoming club dates listed on soundcheck as of Thu, 17 Sept 2026, next at El Rio, San Francisco/Oakland on Fri, 18 Sept 2026.
+Afakasi Papi is a Club and Ghetto Tech artist with 2 upcoming club dates listed on soundcheck as of Fri, 18 Sept 2026, next at El Rio, San Francisco/Oakland on Fri, 18 Sept 2026.
 
 Afakasi Papi is a club and ghetto tech artist based in United States of America, tracked on soundcheck, with 6 sets logged across Sanfrancisco. Often billed alongside QUEENIE (US), Yuca Frita and Amarji King. Next up: El Rio, Sanfrancisco on Fri 18 Sept.
 
@@ -22,4 +22,4 @@ Afakasi Papi is a club and ghetto tech artist based in United States of America,
 
 QUEENIE (US), Yuca Frita, Amarji King
 
-*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/afakasipapi/)*
+*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/afakasipapi/)*

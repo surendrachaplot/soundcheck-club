@@ -1,6 +1,6 @@
 # Palm House
 
-Palm House is a music venue in Liverpool with 6 upcoming nights listed on soundcheck as of Thu, 17 Sept 2026; the next is "303 Presents The Soundgarden" on Sat, 3 Oct 2026.
+Palm House is a music venue in Liverpool with 6 upcoming nights listed on soundcheck as of Fri, 18 Sept 2026; the next is "303 Presents The Soundgarden" on Sat, 3 Oct 2026.
 
 Palm House is a music venue in Liverpool listed on soundcheck. 6 upcoming nights, with line-ups including Danny Howells, Greg Wilson, Gustin and Nick Warren and 2 more. Browse upcoming dates, start times and who's playing. Sefton Park; Liverpool; L17 1AP; United Kingdom.
 
@@ -19,4 +19,4 @@ Palm House is a music venue in Liverpool listed on soundcheck. 6 upcoming nights
 
 Sefton Park; Liverpool; L17 1AP; United Kingdom, Liverpool
 
-*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/liverpool/club/palm-house/)*
+*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/liverpool/club/palm-house/)*

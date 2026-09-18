@@ -1,6 +1,6 @@
 # Shhhhh
 
-Shhhhh is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 17 Sept 2026, next at Upsidedown, Osaka on Sat, 19 Sept 2026.
+Shhhhh is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 18 Sept 2026, next at Upsidedown, Osaka on Sat, 19 Sept 2026.
 
 Shhhhh is a techno and house artist tracked on soundcheck, with 101 sets logged across Bali, Hongkong, Kyoto and Mexicocity and 6 more. Often billed alongside AKIRAM EN, Compuma and Shinsuke Goto. Next up: Upsidedown, Osaka on Sat 19 Sept.
 
@@ -26,4 +26,4 @@ Shhhhh is a techno and house artist tracked on soundcheck, with 101 sets logged 
 
 AKIRAM EN, Compuma, Shinsuke Goto
 
-*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/shhhhh/)*
+*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/shhhhh/)*

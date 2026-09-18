@@ -1,6 +1,6 @@
 # Gianca - Murazzi
 
-Gianca - Murazzi is a music venue in Turin with 4 upcoming nights listed on soundcheck as of Thu, 17 Sept 2026; the next is "WE ARE FAMILY" on Fri, 18 Sept 2026.
+Gianca - Murazzi is a music venue in Turin with 4 upcoming nights listed on soundcheck as of Fri, 18 Sept 2026; the next is "WE ARE FAMILY" on Fri, 18 Sept 2026.
 
 Gianca - Murazzi is a music venue in Turin listed on soundcheck. 4 upcoming nights, with line-ups including Andrea Introvigne, Lorenzo Aribone, Paul Acquaviva and Paul Lution and 2 more. Browse upcoming dates, start times and who's playing. Torino, 10123, Murazzi del Po Gipo Farassino.
 
@@ -17,4 +17,4 @@ Gianca - Murazzi is a music venue in Turin listed on soundcheck. 4 upcoming nigh
 
 Torino, 10123, Murazzi del Po Gipo Farassino, Turin
 
-*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/turin/club/gianca-murazzi/)*
+*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/turin/club/gianca-murazzi/)*

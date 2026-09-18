@@ -1,6 +1,6 @@
 # DJ Storm
 
-DJ Storm is a Drum & Bass and Jungle artist with 2 upcoming club dates listed on soundcheck as of Thu, 17 Sept 2026, next at Palais, London on Sat, 19 Sept 2026.
+DJ Storm is a Drum & Bass and Jungle artist with 2 upcoming club dates listed on soundcheck as of Fri, 18 Sept 2026, next at Palais, London on Sat, 19 Sept 2026.
 
 DJ Storm is a drum & bass and jungle artist tracked on soundcheck, with 79 sets logged across Amsterdam, Antwerp, Berlin and Birmingham and 24 more. Often billed alongside Blackeye MC, Doc Scott and Ant TC1. Next up: Palais, London on Sat 19 Sept.
 
@@ -26,4 +26,4 @@ DJ Storm is a drum & bass and jungle artist tracked on soundcheck, with 79 sets 
 
 Blackeye MC, Doc Scott, Ant TC1
 
-*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djstorm/)*
+*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djstorm/)*

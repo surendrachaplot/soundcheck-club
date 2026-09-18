@@ -1,8 +1,8 @@
 # The Lab
 
-The Lab is a music venue in San Francisco/Oakland with 1 upcoming night listed on soundcheck as of Thu, 17 Sept 2026; the next is "SF Electronic Music Festival" on Thu, 24 Sept 2026.
+The Lab is a music venue in San Francisco/Oakland with 1 upcoming night listed on soundcheck as of Fri, 18 Sept 2026; the next is "SF Electronic Music Festival" on Thu, 24 Sept 2026.
 
-The Lab is a music venue in Sanfrancisco listed on soundcheck. 1 upcoming night, with line-ups including Blevin Blectum, IDHAZ, Moor Mother and Rrose. Browse upcoming dates, start times and who's playing.
+The Lab is a music venue in Sanfrancisco listed on soundcheck. 1 upcoming night, with line-ups including Blevin Blectum, IDHAZ, Moor Mother and Rrose. Browse upcoming dates, start times and who's playing. 2948 16th Street, San Francisco, CA 94103.
 
 ## What's on
 
@@ -10,4 +10,8 @@ The Lab is a music venue in Sanfrancisco listed on soundcheck. 1 upcoming night,
 | --- | --- | --- |
 | Thu, 24 Sept 2026 | SF Electronic Music Festival | Blevin Blectum, IDHAZ, Moor Mother, Rrose |
 
-*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/the-lab/)*
+## Address
+
+2948 16th Street, San Francisco, CA 94103, San Francisco/Oakland
+
+*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/the-lab/)*

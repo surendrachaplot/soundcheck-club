@@ -1,6 +1,6 @@
 # Isaac Frost
 
-Isaac Frost is a House and Electro artist with 2 upcoming club dates listed on soundcheck as of Thu, 17 Sept 2026, next at Brixton Radio, London on Sat, 19 Sept 2026.
+Isaac Frost is a House and Electro artist with 2 upcoming club dates listed on soundcheck as of Fri, 18 Sept 2026, next at Brixton Radio, London on Sat, 19 Sept 2026.
 
 Isaac Frost is a house and electro artist based in United Kingdom, tracked on soundcheck, with 23 sets logged across Brighton, Leeds, London and Manchester. Often billed alongside Oliver Kristian, Torin Grady and Oldfield. Next up: Brixton Radio, London on Sat 19 Sept.
 
@@ -26,4 +26,4 @@ Isaac Frost is a house and electro artist based in United Kingdom, tracked on so
 
 Oliver Kristian, Torin Grady, Oldfield
 
-*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/isaacfrost/)*
+*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/isaacfrost/)*

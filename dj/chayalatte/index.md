@@ -1,6 +1,6 @@
 # Chayalatte
 
-Chayalatte is a House and Breakbeat artist with 1 upcoming club date listed on soundcheck as of Thu, 17 Sept 2026, next at Fabrique im Gängeviertel, Hamburg on Fri, 18 Sept 2026.
+Chayalatte is a House and Breakbeat artist with 1 upcoming club date listed on soundcheck as of Fri, 18 Sept 2026, next at Fabrique im Gängeviertel, Hamburg on Fri, 18 Sept 2026.
 
 Chayalatte is a house and breakbeat artist based in Germany, tracked on soundcheck, with 5 sets logged across Hamburg. Often billed alongside Schott (2), Anne-Lu and FI3BER. Next up: Fabrique im Gängeviertel, Hamburg on Fri 18 Sept.
 
@@ -21,4 +21,4 @@ Chayalatte is a house and breakbeat artist based in Germany, tracked on soundche
 
 Schott (2), Anne-Lu, FI3BER
 
-*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/chayalatte/)*
+*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/chayalatte/)*

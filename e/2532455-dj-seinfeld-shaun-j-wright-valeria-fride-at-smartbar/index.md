@@ -1,6 +1,6 @@
 # DJ Seinfeld - Shaun J Wright - Valeria Fride at smartbar
 
-DJ Seinfeld - Shaun J Wright - Valeria Fride at smartbar on Sat 24 Oct, Chicago. 2 acts on the bill: DJ Seinfeld and Shaun J. Wright. Techno and House. Preview the line-up and save it on soundcheck.
+DJ Seinfeld - Shaun J Wright - Valeria Fride at smartbar on Sat 24 Oct, Chicago. 3 acts on the bill: DJ Seinfeld, Shaun J. Wright and Valeria Fride. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -12,5 +12,6 @@ DJ Seinfeld - Shaun J Wright - Valeria Fride at smartbar on Sat 24 Oct, Chicago.
 
 - DJ Seinfeld
 - Shaun J. Wright
+- Valeria Fride
 
 *Source: [soundcheck](https://soundcheck.club/e/2532455-dj-seinfeld-shaun-j-wright-valeria-fride-at-smartbar/)*

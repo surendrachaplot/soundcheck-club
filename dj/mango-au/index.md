@@ -1,6 +1,6 @@
 # Mango
 
-Mango is a Techno and Latin Bass artist with 3 upcoming club dates listed on soundcheck as of Thu, 17 Sept 2026, next at Club 77, Sydney on Fri, 18 Sept 2026.
+Mango is a Techno and Latin Bass artist with 3 upcoming club dates listed on soundcheck as of Fri, 18 Sept 2026, next at Club 77, Sydney on Fri, 18 Sept 2026.
 
 Mango is a techno and latin bass artist based in Australia, tracked on soundcheck, with 9 sets logged across Amsterdam, Berlin, Brussels and Budapest and 3 more. Often billed alongside Setwun, 619! and 999999999. Next up: Club 77, Sydney on Fri 18 Sept.
 
@@ -25,4 +25,4 @@ Mango is a techno and latin bass artist based in Australia, tracked on soundchec
 
 Setwun, 619!, 999999999
 
-*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mango-au/)*
+*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mango-au/)*

@@ -1,6 +1,6 @@
 # Golden Record NYC presents ARPO with Call Super & Shanti Celeste at TBA - East Williamsburg
 
-Golden Record NYC presents ARPO with Call Super & Shanti Celeste at TBA - East Williamsburg on Sat 17 Oct, Newyorkcity. 2 acts on the bill: Call Super and Shanti Celeste. House and Tech House. Preview the line-up and save it on soundcheck.
+Golden Record NYC presents ARPO with Call Super & Shanti Celeste at TBA - East Williamsburg on Sat 17 Oct, Newyorkcity. 4 acts on the bill: Call Super, Kilopatrah Jones, Morgan and Shanti Celeste. House and Tech House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,6 +11,8 @@ Golden Record NYC presents ARPO with Call Super & Shanti Celeste at TBA - East W
 ## Line-up
 
 - Call Super
+- Kilopatrah Jones
+- Morgan
 - Shanti Celeste
 
 *Source: [soundcheck](https://soundcheck.club/e/2509499-golden-record-nyc-presents-arpo-with-call-super-shanti-celes/)*

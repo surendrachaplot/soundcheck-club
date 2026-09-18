@@ -1,6 +1,6 @@
 # Quartiere Intelligente
 
-Quartiere Intelligente is a music venue in Naples with 1 upcoming night listed on soundcheck as of Thu, 17 Sept 2026; the next is "Q.I. RE:OPENING" on Sat, 19 Sept 2026.
+Quartiere Intelligente is a music venue in Naples with 1 upcoming night listed on soundcheck as of Fri, 18 Sept 2026; the next is "Q.I. RE:OPENING" on Sat, 19 Sept 2026.
 
 Quartiere Intelligente is a music venue in Naples listed on soundcheck. 1 upcoming night. Browse upcoming dates, start times and who's playing. Scala Montesanto, 3, 80135, Naples.
 
@@ -14,4 +14,4 @@ Quartiere Intelligente is a music venue in Naples listed on soundcheck. 1 upcomi
 
 Scala Montesanto, 3, 80135, Naples, Naples
 
-*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/naples/club/quartiere-intelligente/)*
+*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/naples/club/quartiere-intelligente/)*

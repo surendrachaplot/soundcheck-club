@@ -1,6 +1,6 @@
 # Anz
 
-Anz is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Thu, 17 Sept 2026, next at Depot Mayfield, Manchester on Sat, 10 Oct 2026.
+Anz is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Fri, 18 Sept 2026, next at Depot Mayfield, Manchester on Sat, 10 Oct 2026.
 
 Anz is a house and techno artist tracked on soundcheck, with 106 sets logged across Amsterdam, Antwerp, Barcelona and Belfast and 29 more. Often billed alongside Call Super, Special Request and Sedef Adasï. Next up: Depot Mayfield, Manchester on Sat 10 Oct.
 
@@ -29,4 +29,4 @@ Anz is a house and techno artist tracked on soundcheck, with 106 sets logged acr
 
 Call Super, Special Request, Sedef Adasï
 
-*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/anz/)*
+*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/anz/)*

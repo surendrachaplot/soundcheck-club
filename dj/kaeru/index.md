@@ -1,6 +1,6 @@
 # Kaeru
 
-Kaeru is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Thu, 17 Sept 2026, next at Casa Corona Seoul, Seoul on Fri, 18 Sept 2026.
+Kaeru is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Fri, 18 Sept 2026, next at Casa Corona Seoul, Seoul on Fri, 18 Sept 2026.
 
 Kaeru is a house and deep house artist based in Spain, tracked on soundcheck, with 57 sets logged across Amsterdam, Barcelona, Madrid and Seoul. Often billed alongside Juarez, Gee Beat and Abas. Next up: Casa Corona Seoul, Seoul on Fri 18 Sept.
 
@@ -25,4 +25,4 @@ Kaeru is a house and deep house artist based in Spain, tracked on soundcheck, wi
 
 Juarez, Gee Beat, Abas
 
-*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kaeru/)*
+*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kaeru/)*

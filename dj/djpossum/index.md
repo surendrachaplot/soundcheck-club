@@ -1,6 +1,6 @@
 # DJ Possum
 
-DJ Possum is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Thu, 17 Sept 2026, next at Solace, Melbourne on Thu, 24 Sept 2026.
+DJ Possum is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Fri, 18 Sept 2026, next at Solace, Melbourne on Thu, 24 Sept 2026.
 
 DJ Possum is a house and techno artist tracked on soundcheck, with 87 sets logged across Amsterdam, Berlin, Copenhagen and London and 5 more. Often billed alongside Myles Mac, Bex and Terri (2). Next up: Solace, Melbourne on Thu 24 Sept.
 
@@ -27,4 +27,4 @@ DJ Possum is a house and techno artist tracked on soundcheck, with 87 sets logge
 
 Myles Mac, Bex, Terri (2)
 
-*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djpossum/)*
+*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djpossum/)*

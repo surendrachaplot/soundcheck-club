@@ -1,14 +1,15 @@
 # Andhim
 
-Andhim is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 17 Sept 2026, next at Vera Cocina & بار, Washington DC on Sat, 24 Oct 2026.
+Andhim is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Fri, 18 Sept 2026, next at Vera Cocina & بار, Washington DC on Sat, 24 Oct 2026.
 
-Andhim is a house and techno artist based in Germany, tracked on soundcheck, with 115 sets logged across Amsterdam, Athens, Barcelona and Basel and 33 more. Often billed alongside Rafael Da Cruz, Claptone and HOSH. Next up: Vera Cocina & بار, Washingtondc on Sat 24 Oct.
+Andhim is a house and techno artist based in Germany, tracked on soundcheck, with 116 sets logged across Amsterdam, Athens, Barcelona and Basel and 33 more. Often billed alongside Rafael Da Cruz, Claptone and HOSH. Next up: Vera Cocina & بار, Washingtondc on Sat 24 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 24 Oct 2026 | Vera Cocina & بار | Washington DC |
+| Fri, 30 Oct 2026 | Industry City | New York City |
 | Fri, 20 Nov 2026 | UNLOCKED | London |
 
 ## Recently played
@@ -26,4 +27,4 @@ Andhim is a house and techno artist based in Germany, tracked on soundcheck, wit
 
 Rafael Da Cruz, Claptone, HOSH
 
-*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/andhim/)*
+*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/andhim/)*

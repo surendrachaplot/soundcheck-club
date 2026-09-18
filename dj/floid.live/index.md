@@ -1,6 +1,6 @@
 # Floid.live
 
-Floid.live is a Experimental and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 17 Sept 2026, next at Oude Kerk, Amsterdam on Thu, 22 Oct 2026.
+Floid.live is a Experimental and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 18 Sept 2026, next at Oude Kerk, Amsterdam on Thu, 22 Oct 2026.
 
 Floid.live is an experimental and techno artist tracked on soundcheck, with 5 sets logged across Amsterdam, Berlin and Prague. Often billed alongside Woody92, Nelly (NL) and Avsluta. Next up: Oude Kerk, Amsterdam on Thu 22 Oct.
 
@@ -21,4 +21,4 @@ Floid.live is an experimental and techno artist tracked on soundcheck, with 5 se
 
 Woody92, Nelly (NL), Avsluta
 
-*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/floid.live/)*
+*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/floid.live/)*

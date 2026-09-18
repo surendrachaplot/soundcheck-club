@@ -1,13 +1,14 @@
 # D-Nox
 
-D-Nox is a Progressive House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 17 Sept 2026, next at Watsons EQ, Sydney on Sat, 31 Oct 2026.
+D-Nox is a Progressive House and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 18 Sept 2026, next at TBA, Mexico City on Sat, 19 Sept 2026.
 
-D-Nox is a progressive house and techno artist tracked on soundcheck, with 36 sets logged across Amsterdam, Barcelona, Berlin and Buenosaires and 16 more. Often billed alongside ERIMIYA, Analodjica and Astrix. Next up: Watsons EQ, Sydney on Sat 31 Oct.
+D-Nox is a progressive house and techno artist tracked on soundcheck, with 37 sets logged across Amsterdam, Barcelona, Berlin and Buenosaires and 17 more. Often billed alongside ERIMIYA, Analodjica and Astrix. Next up: TBA, Mexicocity on Sat 19 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 19 Sept 2026 | TBA | Mexico City |
 | Sat, 31 Oct 2026 | Watsons EQ | Sydney |
 
 ## Recently played
@@ -25,4 +26,4 @@ D-Nox is a progressive house and techno artist tracked on soundcheck, with 36 se
 
 ERIMIYA, Analodjica, Astrix
 
-*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dnox/)*
+*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dnox/)*

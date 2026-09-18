@@ -1,6 +1,6 @@
 # sianza
 
-sianza is a House and Electronica artist with 2 upcoming club dates listed on soundcheck as of Thu, 17 Sept 2026, next at Paloma, Berlin on Sat, 26 Sept 2026.
+sianza is a House and Electronica artist with 2 upcoming club dates listed on soundcheck as of Fri, 18 Sept 2026, next at Paloma, Berlin on Sat, 26 Sept 2026.
 
 sianza is a house and electronica artist tracked on soundcheck, with 103 sets logged across Amsterdam, Berlin, Cologne and Frankfurt and 10 more. Often billed alongside Benjamin Roeder, Bogus Trumper and DJoy. Next up: Paloma, Berlin on Sat 26 Sept.
 
@@ -26,4 +26,4 @@ sianza is a house and electronica artist tracked on soundcheck, with 103 sets lo
 
 Benjamin Roeder, Bogus Trumper, DJoy
 
-*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sianza/)*
+*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sianza/)*

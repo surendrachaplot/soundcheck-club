@@ -1,6 +1,6 @@
 # Prichindel
 
-Prichindel is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Thu, 17 Sept 2026, next at Tomodachi, Ibiza on Tue, 29 Sept 2026.
+Prichindel is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Fri, 18 Sept 2026, next at Tomodachi, Ibiza on Tue, 29 Sept 2026.
 
 Prichindel is a house and minimal artist tracked on soundcheck, with 67 sets logged across Barcelona, Berlin, Boston and Brussels and 16 more. Often billed alongside Dragos Ilici, Mark Dumitrescu and Cap. Next up: Tomodachi, Ibiza on Tue 29 Sept.
 
@@ -25,4 +25,4 @@ Prichindel is a house and minimal artist tracked on soundcheck, with 67 sets log
 
 Dragos Ilici, Mark Dumitrescu, Cap
 
-*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/prichindel/)*
+*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/prichindel/)*

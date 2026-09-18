@@ -1,13 +1,14 @@
 # Stella K
 
-Stella K is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 17 Sept 2026, next at C12, Brussels on Sat, 3 Oct 2026.
+Stella K is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Fri, 18 Sept 2026, next at Botanique, Brussels on Fri, 2 Oct 2026.
 
-Stella K is a techno and house artist based in France, tracked on soundcheck, with 32 sets logged across Berlin, Brussels, Geneva and Ghent and 3 more. Often billed alongside NMSS, Vera Moro and Casper. Next up: C12, Brussels on Sat 3 Oct.
+Stella K is a techno and house artist based in France, tracked on soundcheck, with 33 sets logged across Berlin, Brussels, Geneva and Ghent and 3 more. Often billed alongside NMSS, Vera Moro and Casper. Next up: Botanique, Brussels on Fri 2 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 2 Oct 2026 | Botanique | Brussels |
 | Sat, 3 Oct 2026 | C12 | Brussels |
 | Sat, 21 Nov 2026 | TBA - Brussels | Brussels |
 
@@ -26,4 +27,4 @@ Stella K is a techno and house artist based in France, tracked on soundcheck, wi
 
 NMSS, Vera Moro, Casper
 
-*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/stellak/)*
+*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/stellak/)*

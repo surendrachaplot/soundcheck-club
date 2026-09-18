@@ -1,6 +1,6 @@
-# Sepehr [Live]𓇢𓆸UNDRGRND x OONO at Rhythm
+# Sepehr [Live]𓇢𓆸 UNDRGRND x OONO at Rhythm
 
-Sepehr [Live]𓇢𓆸UNDRGRND x OONO at Rhythm on Fri 18 Sept, Toronto. 3 acts on the bill: anise, Negin and Sepehr. Techno and EBM. Preview the line-up and save it on soundcheck.
+Sepehr [Live]𓇢𓆸 UNDRGRND x OONO at Rhythm on Fri 18 Sept, Toronto. 3 acts on the bill: anise, Negin and Sepehr. Techno and EBM. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

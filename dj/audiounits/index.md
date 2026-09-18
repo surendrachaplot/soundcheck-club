@@ -1,14 +1,15 @@
 # Audio Units
 
-Audio Units is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Thu, 17 Sept 2026, next at Para Klub Beograd, Belgrade on Sun, 20 Sept 2026.
+Audio Units is a Techno and Trance artist with 3 upcoming club dates listed on soundcheck as of Fri, 18 Sept 2026, next at Para Klub Beograd, Belgrade on Sun, 20 Sept 2026.
 
-Audio Units is a techno and trance artist tracked on soundcheck, with 9 sets logged across Amsterdam, Barcelona, Belgrade and Berlin and 4 more. Often billed alongside 7e, Anna Haleta and BORGBORG. Next up: Para Klub Beograd, Belgrade on Sun 20 Sept.
+Audio Units is a techno and trance artist tracked on soundcheck, with 10 sets logged across Amsterdam, Barcelona, Belgrade and Berlin and 4 more. Often billed alongside 7e, Anna Haleta and BORGBORG. Next up: Para Klub Beograd, Belgrade on Sun 20 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sun, 20 Sept 2026 | Para Klub Beograd | Belgrade |
+| Thu, 24 Sept 2026 | John Doe | Amsterdam |
 | Fri, 25 Sept 2026 | ://about blank | Berlin |
 
 ## Recently played
@@ -25,4 +26,4 @@ Audio Units is a techno and trance artist tracked on soundcheck, with 9 sets log
 
 7e, Anna Haleta, BORGBORG
 
-*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/audiounits/)*
+*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/audiounits/)*

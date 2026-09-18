@@ -1,18 +1,18 @@
 # M!a Wallace
 
-M!a Wallace is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 17 Sept 2026, next at Angel Music Bar, Melbourne on Thu, 17 Sept 2026.
+M!a Wallace is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 18 Sept 2026, next at Smith St Hotel, Melbourne on Fri, 25 Sept 2026.
 
-M!a Wallace is a house and techno artist based in Australia, tracked on soundcheck, with 7 sets logged across Melbourne. Often billed alongside 3LOAR, AKEYLAH and Ben Silver (AUS). Next up: Angel Music Bar, Melbourne on Thu 17 Sept.
+M!a Wallace is a house and techno artist based in Australia, tracked on soundcheck, with 7 sets logged across Melbourne. Often billed alongside 3LOAR, AKEYLAH and Ben Silver (AUS). Next up: Smith St Hotel, Melbourne on Fri 25 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Thu, 17 Sept 2026 | Angel Music Bar | Melbourne |
 | Fri, 25 Sept 2026 | Smith St Hotel | Melbourne |
 
 ## Recently played
 
+- Angel Music Bar, Melbourne — Thu, 17 Sept 2026
 - Revolver Upstairs, Melbourne — Thu, 13 Aug 2026
 - Revolver Upstairs, Melbourne — Sun, 9 Aug 2026
 - Glamorama, Melbourne — Fri, 31 Jul 2026
@@ -23,4 +23,4 @@ M!a Wallace is a house and techno artist based in Australia, tracked on soundche
 
 3LOAR, AKEYLAH, Ben Silver (AUS)
 
-*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/m!awallace/)*
+*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/m!awallace/)*

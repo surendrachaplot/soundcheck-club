@@ -1,6 +1,6 @@
 # TBA - OSAKA SIGNAL 
 
-TBA - OSAKA SIGNAL  is a music venue in Osaka with 1 upcoming night listed on soundcheck as of Thu, 17 Sept 2026; the next is "The BESTEST X Service" on Fri, 18 Sept 2026.
+TBA - OSAKA SIGNAL  is a music venue in Osaka with 1 upcoming night listed on soundcheck as of Fri, 18 Sept 2026; the next is "The BESTEST X Service" on Fri, 18 Sept 2026.
 
 TBA - OSAKA SIGNAL  is a music venue in Osaka listed on soundcheck. 1 upcoming night. Browse upcoming dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ TBA - OSAKA SIGNAL  is a music venue in Osaka listed on soundcheck. 1 upcoming n
 | --- | --- | --- |
 | Fri, 18 Sept 2026 | The BESTEST X Service |  |
 
-*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/osaka/club/tba-osaka-signal/)*
+*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/osaka/club/tba-osaka-signal/)*

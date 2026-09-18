@@ -1,6 +1,6 @@
 # Bongoat
 
-Bongoat is a electronic artist with 1 upcoming club date listed on soundcheck as of Thu, 17 Sept 2026, next at Garage Noord, Amsterdam on Fri, 18 Sept 2026.
+Bongoat is a electronic artist with 1 upcoming club date listed on soundcheck as of Fri, 18 Sept 2026, next at Garage Noord, Amsterdam on Fri, 18 Sept 2026.
 
 Bongoat is an electronic artist tracked on soundcheck, with 7 sets logged across Amsterdam. Often billed alongside CyberFairy777, Slimfit and AMANTRA. Next up: Garage Noord, Amsterdam on Fri 18 Sept.
 
@@ -23,4 +23,4 @@ Bongoat is an electronic artist tracked on soundcheck, with 7 sets logged across
 
 CyberFairy777, Slimfit, AMANTRA
 
-*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bongoat/)*
+*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bongoat/)*

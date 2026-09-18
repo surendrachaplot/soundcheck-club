@@ -1,6 +1,6 @@
 # Labar
 
-Labar is a music venue in Osaka with 1 upcoming night listed on soundcheck as of Thu, 17 Sept 2026; the next is "Far = Reaching" on Sun, 20 Sept 2026.
+Labar is a music venue in Osaka with 1 upcoming night listed on soundcheck as of Fri, 18 Sept 2026; the next is "Far = Reaching" on Sun, 20 Sept 2026.
 
 Labar is a music venue in Osaka listed on soundcheck. 1 upcoming night. Browse upcoming dates, start times and who's playing. 3F,AMESON SQUARE OSAKA CENTER BLDG,2-8-3,Nishishinsaibashi,Chuo-ku, Osaka-shi,542-0086,Japan.
 
@@ -14,4 +14,4 @@ Labar is a music venue in Osaka listed on soundcheck. 1 upcoming night. Browse u
 
 3F,AMESON SQUARE OSAKA CENTER BLDG,2-8-3,Nishishinsaibashi,Chuo-ku, Osaka-shi,542-0086,Japan, Osaka
 
-*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/osaka/club/labar/)*
+*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/osaka/club/labar/)*

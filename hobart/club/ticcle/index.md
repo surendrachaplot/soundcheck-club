@@ -1,21 +1,21 @@
 # Ticcle
 
-Ticcle is a music venue in Hobart with 5 upcoming nights listed on soundcheck as of Thu, 17 Sept 2026; the next is "ticcle sundays" on Sun, 27 Sept 2026.
+Ticcle is a music venue in Hobart with 5 upcoming nights listed on soundcheck as of Fri, 18 Sept 2026; the next is "ticcle sundays with Grace Green, Asami One, Damien Groundrie" on Sun, 27 Sept 2026.
 
-Ticcle is a music venue in Hobart listed on soundcheck. 5 upcoming nights, with line-ups including DJ Fett Burger, Marcellus Pittman, Telephones and Tim Heaney. Browse upcoming dates, start times and who's playing. 64 Warwick Street Hobart 7000.
+Ticcle is a music venue in Hobart listed on soundcheck. 5 upcoming nights, with line-ups including Damien Goundrie, DJ Fett Burger, Evan Baggs and Marcellus Pittman and 2 more. Browse upcoming dates, start times and who's playing. 64 Warwick Street Hobart 7000.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sun, 27 Sept 2026 | ticcle sundays |  |
+| Sun, 27 Sept 2026 | ticcle sundays with Grace Green, Asami One, Damien Groundrie | Damien Goundrie |
 | Sun, 11 Oct 2026 | ticcle presents Telephones (NOR/DE) & DJ Fett Burger (NOR/BER) | DJ Fett Burger, Telephones |
-| Sun, 25 Oct 2026 | ticcle sundays |  |
-| Sun, 29 Nov 2026 | ticcle Sundays with Tim Heaney (all day long) | Tim Heaney |
-| Fri, 11 Dec 2026 | ticcle presents Marcellus Pittman (Detroit) | Marcellus Pittman |
+| Sun, 25 Oct 2026 | ticcle sundays with Evan Baggs (NYC/Berlin) | Evan Baggs |
+| Sun, 29 Nov 2026 | ticcle sundays with Tim Heaney (CBR/Vessel Records) (all day long) | Tim Heaney |
+| Fri, 11 Dec 2026 | ticcle presents Marcellus Pittman (Detroit) (all night long) | Marcellus Pittman |
 
 ## Address
 
 64 Warwick Street Hobart 7000, Hobart
 
-*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/hobart/club/ticcle/)*
+*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/hobart/club/ticcle/)*

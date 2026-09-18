@@ -1,6 +1,6 @@
 # fem*vak - The Fall of Patriarchy at elipamanoke
 
-fem*vak - The Fall of Patriarchy at elipamanoke on Fri 9 Oct, Leipzig. Trance and Breakbeat. Preview the line-up and save it on soundcheck.
+fem*vak - The Fall of Patriarchy at elipamanoke on Fri 9 Oct, Leipzig. Techno and Bass. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Ivaldo Gino
 
-Ivaldo Gino is a Breakbeat and Electro artist with 1 upcoming club date listed on soundcheck as of Thu, 17 Sept 2026, next at Golden Pudel Club, Hamburg on Thu, 1 Oct 2026.
+Ivaldo Gino is a Breakbeat and Electro artist with 1 upcoming club date listed on soundcheck as of Fri, 18 Sept 2026, next at Golden Pudel Club, Hamburg on Thu, 1 Oct 2026.
 
 Ivaldo Gino is a breakbeat and electro artist tracked on soundcheck, with 34 sets logged across Hamburg. Often billed alongside Ring41, Christian Kluge and Suzi Mystique. Next up: Golden Pudel Club, Hamburg on Thu 1 Oct.
 
@@ -25,4 +25,4 @@ Ivaldo Gino is a breakbeat and electro artist tracked on soundcheck, with 34 set
 
 Ring41, Christian Kluge, Suzi Mystique
 
-*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ivaldogino/)*
+*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ivaldogino/)*

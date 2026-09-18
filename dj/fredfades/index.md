@@ -1,6 +1,6 @@
 # Fredfades
 
-Fredfades is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 17 Sept 2026, next at Blå, Oslo on Fri, 25 Sept 2026.
+Fredfades is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 18 Sept 2026, next at Blå, Oslo on Fri, 25 Sept 2026.
 
 Fredfades is a house and techno artist based in Norway, tracked on soundcheck, with 54 sets logged across Amsterdam, Berlin, Bucharest and Helsinki and 7 more. Often billed alongside CHEWCHEW, DJ Jese and Darone Sassounian. Next up: Blå, Oslo on Fri 25 Sept.
 
@@ -25,4 +25,4 @@ Fredfades is a house and techno artist based in Norway, tracked on soundcheck, w
 
 CHEWCHEW, DJ Jese, Darone Sassounian
 
-*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/fredfades/)*
+*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/fredfades/)*

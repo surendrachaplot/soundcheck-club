@@ -1,14 +1,15 @@
 # Vyper
 
-Vyper is a Techno and Hardcore artist with 1 upcoming club date listed on soundcheck as of Thu, 17 Sept 2026, next at Massive, Seattle on Fri, 18 Sept 2026.
+Vyper is a Techno and Hardcore artist with 2 upcoming club dates listed on soundcheck as of Fri, 18 Sept 2026, next at Massive, Seattle on Fri, 18 Sept 2026.
 
-Vyper is a techno and hardcore artist tracked on soundcheck, with 99 sets logged across Barcelona, Berlin, Chicago and Edinburgh and 6 more. Often billed alongside Stealthy, Xana 101 and Cyb3r Bull. Next up: Massive, Seattle on Fri 18 Sept.
+Vyper is a techno and hardcore artist tracked on soundcheck, with 100 sets logged across Barcelona, Berlin, Chicago and Edinburgh and 6 more. Often billed alongside Stealthy, Xana 101 and Cyb3r Bull. Next up: Massive, Seattle on Fri 18 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 18 Sept 2026 | Massive | Seattle |
+| Sat, 19 Sept 2026 | Electric Room | New York City |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Vyper is a techno and hardcore artist tracked on soundcheck, with 99 sets logged
 
 Stealthy, Xana 101, Cyb3r Bull
 
-*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/vyper/)*
+*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/vyper/)*

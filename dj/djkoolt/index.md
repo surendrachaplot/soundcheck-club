@@ -1,6 +1,6 @@
 # DJ Koolt
 
-DJ Koolt is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 17 Sept 2026, next at Nowadays, New York City on Fri, 30 Oct 2026.
+DJ Koolt is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 18 Sept 2026, next at Nowadays, New York City on Fri, 30 Oct 2026.
 
 DJ Koolt is a house and techno artist tracked on soundcheck, with 96 sets logged across Amsterdam, Bali, Barcelona and Belgrade and 28 more. Often billed alongside Sugar Free, ASIA (DE) and Christian AB. Next up: Nowadays, Newyorkcity on Fri 30 Oct.
 
@@ -26,4 +26,4 @@ DJ Koolt is a house and techno artist tracked on soundcheck, with 96 sets logged
 
 Sugar Free, ASIA (DE), Christian AB
 
-*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djkoolt/)*
+*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djkoolt/)*

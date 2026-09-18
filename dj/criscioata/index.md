@@ -1,6 +1,6 @@
 # Cris Cioata
 
-Cris Cioata is a Tech House and Deep House artist with 1 upcoming club date listed on soundcheck as of Thu, 17 Sept 2026, next at Itzel Club, London on Fri, 2 Oct 2026.
+Cris Cioata is a Tech House and Deep House artist with 1 upcoming club date listed on soundcheck as of Fri, 18 Sept 2026, next at Itzel Club, London on Fri, 2 Oct 2026.
 
 Cris Cioata is a tech house and deep house artist based in Romania, tracked on soundcheck, with 5 sets logged across London. Often billed alongside AJNA, Anthony P. (CH) and Billa Bazz. Next up: Itzel Club, London on Fri 2 Oct.
 
@@ -21,4 +21,4 @@ Cris Cioata is a tech house and deep house artist based in Romania, tracked on s
 
 AJNA, Anthony P. (CH), Billa Bazz
 
-*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/criscioata/)*
+*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/criscioata/)*

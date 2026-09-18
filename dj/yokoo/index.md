@@ -1,13 +1,14 @@
 # YokoO
 
-YokoO is a Deep House and House artist with 3 upcoming club dates listed on soundcheck as of Thu, 17 Sept 2026, next at Veronica Schip, Amsterdam on Thu, 24 Sept 2026.
+YokoO is a Deep House and House artist with 4 upcoming club dates listed on soundcheck as of Fri, 18 Sept 2026, next at Rūmu, Lisbon on Sat, 19 Sept 2026.
 
-YokoO is a deep house and house artist tracked on soundcheck, with 96 sets logged across Amsterdam, Antwerp, Barcelona and Brussels and 18 more. Often billed alongside Matthew Dekay, Kokeshi and Lee Burridge. Next up: Veronica Schip, Amsterdam on Thu 24 Sept.
+YokoO is a deep house and house artist tracked on soundcheck, with 97 sets logged across Amsterdam, Antwerp, Barcelona and Brussels and 18 more. Often billed alongside Matthew Dekay, Kokeshi and Lee Burridge. Next up: Rūmu, Lisbon on Sat 19 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 19 Sept 2026 | Rūmu | Lisbon |
 | Thu, 24 Sept 2026 | Veronica Schip | Amsterdam |
 | Sat, 26 Sept 2026 | Buda BXL | Brussels |
 | Fri, 9 Oct 2026 | Do Not Sit On The Furniture | Miami |
@@ -27,4 +28,4 @@ YokoO is a deep house and house artist tracked on soundcheck, with 96 sets logge
 
 Matthew Dekay, Kokeshi, Lee Burridge
 
-*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/yokoo/)*
+*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/yokoo/)*

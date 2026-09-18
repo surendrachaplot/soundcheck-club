@@ -1,6 +1,6 @@
 # Vertigo
 
-Vertigo is a music venue in Toronto with 2 upcoming nights listed on soundcheck as of Thu, 17 Sept 2026; the next is "Kidoo" on Fri, 18 Sept 2026.
+Vertigo is a music venue in Toronto with 2 upcoming nights listed on soundcheck as of Fri, 18 Sept 2026; the next is "Kidoo" on Fri, 18 Sept 2026.
 
 Vertigo is a music venue in Toronto listed on soundcheck. 2 upcoming nights, with line-ups including Kidoo. Browse upcoming dates, start times and who's playing. 66 Gerrard Street East, M5B2M2.
 
@@ -15,4 +15,4 @@ Vertigo is a music venue in Toronto listed on soundcheck. 2 upcoming nights, wit
 
 66 Gerrard Street East, M5B2M2, Toronto
 
-*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/vertigo/)*
+*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/vertigo/)*

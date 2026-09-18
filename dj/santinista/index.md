@@ -1,6 +1,6 @@
 # santinista
 
-santinista is a Techno and Bass artist with 1 upcoming club date listed on soundcheck as of Thu, 17 Sept 2026, next at Bar Datcha, Montreal on Fri, 2 Oct 2026.
+santinista is a Techno and Bass artist with 1 upcoming club date listed on soundcheck as of Fri, 18 Sept 2026, next at Bar Datcha, Montreal on Fri, 2 Oct 2026.
 
 santinista is a techno and bass artist tracked on soundcheck, with 34 sets logged across Montreal and Toronto. Often billed alongside Ana Luisa, Guthrie and Lis Dalton. Next up: Bar Datcha, Montreal on Fri 2 Oct.
 
@@ -25,4 +25,4 @@ santinista is a techno and bass artist tracked on soundcheck, with 34 sets logge
 
 Ana Luisa, Guthrie, Lis Dalton
 
-*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/santinista/)*
+*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/santinista/)*

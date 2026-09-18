@@ -1,6 +1,6 @@
 # DXNBY
 
-DXNBY is a House and Tech House artist with 9 upcoming club dates listed on soundcheck as of Thu, 17 Sept 2026, next at Club Vinyl, Denver on Fri, 18 Sept 2026.
+DXNBY is a House and Tech House artist with 9 upcoming club dates listed on soundcheck as of Fri, 18 Sept 2026, next at Club Vinyl, Denver on Fri, 18 Sept 2026.
 
 DXNBY is a house and tech house artist tracked on soundcheck, with 118 sets logged across Amsterdam, Barcelona, Birmingham and Brighton and 23 more. Often billed alongside Ozzie Guven, ALISHA and East End Dubs. Next up: Club Vinyl, Denver on Fri 18 Sept.
 
@@ -33,4 +33,4 @@ DXNBY is a house and tech house artist tracked on soundcheck, with 118 sets logg
 
 Ozzie Guven, ALISHA, East End Dubs
 
-*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dxnby/)*
+*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dxnby/)*

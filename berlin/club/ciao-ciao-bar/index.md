@@ -1,6 +1,6 @@
 # ciao ciao Bar
 
-ciao ciao Bar is a music venue in Berlin with 4 upcoming nights listed on soundcheck as of Thu, 17 Sept 2026; the next is "Orbita x ciao ciao Bar" on Sat, 19 Sept 2026.
+ciao ciao Bar is a music venue in Berlin with 4 upcoming nights listed on soundcheck as of Fri, 18 Sept 2026; the next is "Orbita x ciao ciao Bar" on Sat, 19 Sept 2026.
 
 ciao ciao Bar is a music venue in Berlin listed on soundcheck. 4 upcoming nights, with line-ups including boyyyish, Danda, DJ Aficionado and Dj Karies and 2 more. Browse upcoming dates, start times and who's playing. Falckensteinstr. 47 / 48, 10997 Berlin.
 
@@ -17,4 +17,4 @@ ciao ciao Bar is a music venue in Berlin listed on soundcheck. 4 upcoming nights
 
 Falckensteinstr. 47 / 48, 10997 Berlin, Berlin
 
-*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/ciao-ciao-bar/)*
+*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/ciao-ciao-bar/)*

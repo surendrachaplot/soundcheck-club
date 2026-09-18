@@ -1,8 +1,8 @@
 # SPFDJ
 
-SPFDJ is a Techno and House artist with 7 upcoming club dates listed on soundcheck as of Thu, 17 Sept 2026, next at The Bongo Club, Edinburgh on Fri, 25 Sept 2026.
+SPFDJ is a Techno and House artist with 8 upcoming club dates listed on soundcheck as of Fri, 18 Sept 2026, next at The Bongo Club, Edinburgh on Fri, 25 Sept 2026.
 
-SPFDJ is a techno and house artist tracked on soundcheck, with 229 sets logged across Amsterdam, Antwerp, Athens and Austin and 70 more. Often billed alongside DAX J, Anetha and MCMLXXXV. Next up: The Bongo Club, Edinburgh on Fri 25 Sept.
+SPFDJ is a techno and house artist tracked on soundcheck, with 230 sets logged across Amsterdam, Antwerp, Athens and Austin and 70 more. Often billed alongside DAX J, Anetha and MCMLXXXV. Next up: The Bongo Club, Edinburgh on Fri 25 Sept.
 
 ## Upcoming shows
 
@@ -15,6 +15,7 @@ SPFDJ is a techno and house artist tracked on soundcheck, with 229 sets logged a
 | Thu, 22 Oct 2026 | RAWFACTORY | Amsterdam |
 | Sat, 24 Oct 2026 | H7 Warehouse | Amsterdam |
 | Fri, 13 Nov 2026 | The Concourse Project | Austin |
+| Fri, 20 Nov 2026 | Expo Santa Fe | Mexico City |
 
 ## Recently played
 
@@ -31,4 +32,4 @@ SPFDJ is a techno and house artist tracked on soundcheck, with 229 sets logged a
 
 DAX J, Anetha, MCMLXXXV
 
-*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/spfdj/)*
+*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/spfdj/)*

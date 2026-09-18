@@ -1,13 +1,14 @@
 # Lehar
 
-Lehar is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Thu, 17 Sept 2026, next at Waterhouse Studios, Amsterdam on Sat, 24 Oct 2026.
+Lehar is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Fri, 18 Sept 2026, next at Crane Hotel Faralda, Amsterdam on Fri, 23 Oct 2026.
 
-Lehar is a house and techno artist tracked on soundcheck, with 70 sets logged across Amsterdam, Athens, Barcelona and Berlin and 27 more. Often billed alongside Musumeci, Denis Horvat and CENKK. Next up: Waterhouse Studios, Amsterdam on Sat 24 Oct.
+Lehar is a house and techno artist tracked on soundcheck, with 71 sets logged across Amsterdam, Athens, Barcelona and Berlin and 27 more. Often billed alongside Musumeci, Denis Horvat and CENKK. Next up: Crane Hotel Faralda, Amsterdam on Fri 23 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 23 Oct 2026 | Crane Hotel Faralda | Amsterdam |
 | Sat, 24 Oct 2026 | Waterhouse Studios | Amsterdam |
 | Fri, 30 Oct 2026 | Do Not Sit On The Furniture | Miami |
 | Sat, 31 Oct 2026 | Do Not Sit On The Furniture | Miami |
@@ -27,4 +28,4 @@ Lehar is a house and techno artist tracked on soundcheck, with 70 sets logged ac
 
 Musumeci, Denis Horvat, CENKK
 
-*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lehar/)*
+*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lehar/)*

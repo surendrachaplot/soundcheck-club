@@ -1,6 +1,6 @@
 # Main Phase
 
-Main Phase is a Garage and Bass artist with 8 upcoming club dates listed on soundcheck as of Thu, 17 Sept 2026, next at Fort Mifflin, Philadelphia on Fri, 18 Sept 2026.
+Main Phase is a Garage and Bass artist with 8 upcoming club dates listed on soundcheck as of Fri, 18 Sept 2026, next at Fort Mifflin, Philadelphia on Fri, 18 Sept 2026.
 
 Main Phase is a garage and bass artist tracked on soundcheck, with 200 sets logged across Aberdeen, Amsterdam, Antwerp and Auckland and 56 more. Often billed alongside Interplanetary Criminal, Silva Bumpa and Dr Dubplate. Next up: Fort Mifflin, Philadelphia on Fri 18 Sept.
 
@@ -32,4 +32,4 @@ Main Phase is a garage and bass artist tracked on soundcheck, with 200 sets logg
 
 Interplanetary Criminal, Silva Bumpa, Dr Dubplate
 
-*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mainphase/)*
+*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mainphase/)*

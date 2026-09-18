@@ -1,8 +1,8 @@
 # Roxanne Roll
 
-Roxanne Roll is a Disco and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 17 Sept 2026, next at The Social, London on Fri, 25 Sept 2026.
+Roxanne Roll is a Disco and House artist with 4 upcoming club dates listed on soundcheck as of Fri, 18 Sept 2026, next at The Social, London on Fri, 25 Sept 2026.
 
-Roxanne Roll is a disco and house artist based in United States of America, tracked on soundcheck, with 91 sets logged across Auckland, Austin, Bali and Berlin and 31 more. Often billed alongside Fleetmac Wood, Alex Oxley and Horror Hi-Fi. Next up: The Social, London on Fri 25 Sept.
+Roxanne Roll is a disco and house artist based in United States of America, tracked on soundcheck, with 93 sets logged across Auckland, Austin, Bali and Berlin and 31 more. Often billed alongside Fleetmac Wood, Alex Oxley and Horror Hi-Fi. Next up: The Social, London on Fri 25 Sept.
 
 ## Upcoming shows
 
@@ -10,6 +10,8 @@ Roxanne Roll is a disco and house artist based in United States of America, trac
 | --- | --- | --- |
 | Fri, 25 Sept 2026 | The Social | London |
 | Fri, 30 Oct 2026 | ZeyZey | Miami |
+| Fri, 6 Nov 2026 | Kantine am Berghain | Berlin |
+| Sun, 15 Nov 2026 | Holocene | Portland |
 
 ## Recently played
 
@@ -26,4 +28,4 @@ Roxanne Roll is a disco and house artist based in United States of America, trac
 
 Fleetmac Wood, Alex Oxley, Horror Hi-Fi
 
-*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/roxanneroll/)*
+*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/roxanneroll/)*

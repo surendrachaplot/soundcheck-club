@@ -1,6 +1,6 @@
 # JSMN
 
-JSMN is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 17 Sept 2026, next at 821 Runnymede Rd, Toronto on Sat, 19 Sept 2026.
+JSMN is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 18 Sept 2026, next at 821 Runnymede Rd, Toronto on Sat, 19 Sept 2026.
 
 JSMN is a techno and house artist based in United States of America, tracked on soundcheck, with 53 sets logged across Chicago, London, Losangeles and Newyorkcity and 4 more. Often billed alongside 999999999, AC Slater and AIDA (CA). Next up: 821 Runnymede Rd, Toronto on Sat 19 Sept.
 
@@ -26,4 +26,4 @@ JSMN is a techno and house artist based in United States of America, tracked on 
 
 999999999, AC Slater, AIDA (CA)
 
-*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jsmn/)*
+*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jsmn/)*

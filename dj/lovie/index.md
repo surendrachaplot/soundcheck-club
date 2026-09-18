@@ -1,6 +1,6 @@
 # Lovie
 
-Lovie is a House and Deep House artist with 3 upcoming club dates listed on soundcheck as of Thu, 17 Sept 2026, next at Barn Radio, Portland on Sat, 19 Sept 2026.
+Lovie is a House and Deep House artist with 3 upcoming club dates listed on soundcheck as of Fri, 18 Sept 2026, next at Barn Radio, Portland on Sat, 19 Sept 2026.
 
 Lovie is a house and deep house artist based in United States of America, tracked on soundcheck, with 128 sets logged across Athens, Berlin, Brighton and Detroit and 12 more. Often billed alongside Honey Bun, JADALAREIGN and Kfeelz. Next up: Barn Radio, Portland on Sat 19 Sept.
 
@@ -27,4 +27,4 @@ Lovie is a house and deep house artist based in United States of America, tracke
 
 Honey Bun, JADALAREIGN, Kfeelz
 
-*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lovie/)*
+*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lovie/)*

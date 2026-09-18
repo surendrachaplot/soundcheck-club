@@ -1,6 +1,6 @@
 # Yotu Meneo
 
-Yotu Meneo is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Thu, 17 Sept 2026, next at Las Tres Chimeneas, Barcelona on Sat, 31 Oct 2026.
+Yotu Meneo is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Fri, 18 Sept 2026, next at Las Tres Chimeneas, Barcelona on Sat, 31 Oct 2026.
 
 Yotu Meneo is a house and disco artist tracked on soundcheck, with 42 sets logged across Barcelona, Ibiza and Paris. Often billed alongside Cucut, Adria (ES) and Pau Rosés. Next up: Las Tres Chimeneas, Barcelona on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Yotu Meneo is a house and disco artist tracked on soundcheck, with 42 sets logge
 
 Cucut, Adria (ES), Pau Rosés
 
-*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/yotumeneo/)*
+*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/yotumeneo/)*

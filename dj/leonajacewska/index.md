@@ -1,14 +1,15 @@
 # Leona Jacewska
 
-Leona Jacewska is a Techno and Electro artist with 2 upcoming club dates listed on soundcheck as of Thu, 17 Sept 2026, next at La Station - Gare des Mines, Paris on Fri, 18 Sept 2026.
+Leona Jacewska is a Techno and Electro artist with 3 upcoming club dates listed on soundcheck as of Fri, 18 Sept 2026, next at La Station - Gare des Mines, Paris on Fri, 18 Sept 2026.
 
-Leona Jacewska is a techno and electro artist based in Poland, tracked on soundcheck, with 14 sets logged across Berlin, Frankfurt, Helsinki and Paris and 4 more. Often billed alongside Charlie, Buchan and Franz Scala. Next up: La Station - Gare des Mines, Paris on Fri 18 Sept.
+Leona Jacewska is a techno and electro artist based in Poland, tracked on soundcheck, with 15 sets logged across Berlin, Frankfurt, Helsinki and Paris and 4 more. Often billed alongside Charlie, Buchan and Franz Scala. Next up: La Station - Gare des Mines, Paris on Fri 18 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 18 Sept 2026 | La Station - Gare des Mines | Paris |
+| Thu, 8 Oct 2026 | Sameheads | Berlin |
 | Fri, 9 Oct 2026 | OXI | Berlin |
 
 ## Recently played
@@ -26,4 +27,4 @@ Leona Jacewska is a techno and electro artist based in Poland, tracked on soundc
 
 Charlie, Buchan, Franz Scala
 
-*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/leonajacewska/)*
+*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/leonajacewska/)*

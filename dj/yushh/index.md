@@ -1,8 +1,8 @@
 # Yushh
 
-Yushh is a Bass and Techno artist with 3 upcoming club dates listed on soundcheck as of Thu, 17 Sept 2026, next at Process PDX, Portland on Fri, 18 Sept 2026.
+Yushh is a Bass and Techno artist with 4 upcoming club dates listed on soundcheck as of Fri, 18 Sept 2026, next at Process PDX, Portland on Fri, 18 Sept 2026.
 
-Yushh is a bass and techno artist tracked on soundcheck, with 111 sets logged across Adelaide, Amsterdam, Athens and Basel and 28 more. Often billed alongside Breaka, Dubrunner and Batu. Next up: Process PDX, Portland on Fri 18 Sept.
+Yushh is a bass and techno artist tracked on soundcheck, with 112 sets logged across Adelaide, Amsterdam, Athens and Basel and 28 more. Often billed alongside Breaka, Dubrunner and Batu. Next up: Process PDX, Portland on Fri 18 Sept.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ Yushh is a bass and techno artist tracked on soundcheck, with 111 sets logged ac
 | Fri, 18 Sept 2026 | Process PDX | Portland |
 | Sat, 3 Oct 2026 | Post Bar | Helsinki |
 | Fri, 30 Oct 2026 | radial | London |
+| Fri, 6 Nov 2026 | Soup | Manchester |
 
 ## Recently played
 
@@ -27,4 +28,4 @@ Yushh is a bass and techno artist tracked on soundcheck, with 111 sets logged ac
 
 Breaka, Dubrunner, Batu
 
-*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/yushh/)*
+*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/yushh/)*

@@ -1,0 +1,24 @@
+# Earthdog presents: Evan Baggs, Inner Zone, Iggy P, djfix b2b Emkay, Mariposa, + more at Signal
+
+Earthdog presents: Evan Baggs, Inner Zone, Iggy P, djfix b2b Emkay, Mariposa, + more at Signal on Fri 25 Sept, Newyorkcity. 10 acts on the bill: adobeprincess, djfix, Emkay and Emsho and 6 more. Preview the line-up and save it on soundcheck.
+
+| Field | Value |
+| --- | --- |
+| Date | Fri, 25 Sept 2026 |
+| Venue | Signal |
+| City | New York City |
+
+## Line-up
+
+- adobeprincess
+- djfix
+- Emkay
+- Emsho
+- Evan Baggs
+- Iggy P
+- Inner Zone
+- Jek (US)
+- Mariposa
+- Matas
+
+*Source: [soundcheck](https://soundcheck.club/e/2510481-earthdog-presents-evan-baggs-inner-zone-iggy-p-djfix-b2b-emk/)*

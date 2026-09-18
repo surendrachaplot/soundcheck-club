@@ -1,6 +1,6 @@
 # I-SO
 
-I-SO is a Techno and Industrial artist with 2 upcoming club dates listed on soundcheck as of Thu, 17 Sept 2026, next at clubasia, Tokyo on Fri, 9 Oct 2026.
+I-SO is a Techno and Industrial artist with 2 upcoming club dates listed on soundcheck as of Fri, 18 Sept 2026, next at clubasia, Tokyo on Fri, 9 Oct 2026.
 
 I-SO is a techno and industrial artist tracked on soundcheck, with 75 sets logged across Auckland, Melbourne, Milan and Osaka and 2 more. Often billed alongside LeStrange, Madsync and ART IS HARD. Next up: clubasia, Tokyo on Fri 9 Oct.
 
@@ -26,4 +26,4 @@ I-SO is a techno and industrial artist tracked on soundcheck, with 75 sets logge
 
 LeStrange, Madsync, ART IS HARD
 
-*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/i-so/)*
+*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/i-so/)*

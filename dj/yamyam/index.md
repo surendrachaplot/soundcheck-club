@@ -1,6 +1,6 @@
 # yamyam
 
-yamyam is a Techno and Electronica artist with 1 upcoming club date listed on soundcheck as of Thu, 17 Sept 2026, next at Frappant, Hamburg on Fri, 18 Sept 2026.
+yamyam is a Techno and Electronica artist with 1 upcoming club date listed on soundcheck as of Fri, 18 Sept 2026, next at Frappant, Hamburg on Fri, 18 Sept 2026.
 
 yamyam is a techno and electronica artist based in Germany, tracked on soundcheck, with 28 sets logged across Hamburg. Often billed alongside Newinfluenzer, 11Schnull and Loi (1). Next up: Frappant, Hamburg on Fri 18 Sept.
 
@@ -25,4 +25,4 @@ yamyam is a techno and electronica artist based in Germany, tracked on soundchec
 
 Newinfluenzer, 11Schnull, Loi (1)
 
-*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/yamyam/)*
+*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/yamyam/)*

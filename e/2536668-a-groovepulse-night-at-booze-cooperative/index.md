@@ -1,6 +1,6 @@
 # A Groovepulse Night at Booze Cooperative
 
-A Groovepulse Night at Booze Cooperative on Fri 2 Oct, Athens. 4 acts on the bill: EMPERØR, L.N.T.S, Petal and Ther3min. Techno. Preview the line-up and save it on soundcheck.
+A Groovepulse Night at Booze Cooperative on Fri 2 Oct, Athens. 5 acts on the bill: EMPERØR, L.N.T.S, Petal and Pètal and 1 more. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -13,6 +13,7 @@ A Groovepulse Night at Booze Cooperative on Fri 2 Oct, Athens. 4 acts on the bil
 - EMPERØR
 - L.N.T.S
 - Petal
+- Pètal
 - Ther3min
 
 *Source: [soundcheck](https://soundcheck.club/e/2536668-a-groovepulse-night-at-booze-cooperative/)*

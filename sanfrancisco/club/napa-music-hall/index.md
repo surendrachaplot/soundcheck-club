@@ -1,8 +1,8 @@
 # Napa Music Hall
 
-Napa Music Hall is a music venue in San Francisco/Oakland with 2 upcoming nights listed on soundcheck as of Thu, 17 Sept 2026; the next is "Tara Brooks - Salty Residency" on Fri, 25 Sept 2026.
+Napa Music Hall is a music venue in San Francisco/Oakland with 3 upcoming nights listed on soundcheck as of Fri, 18 Sept 2026; the next is "Tara Brooks - Salty Residency" on Fri, 25 Sept 2026.
 
-Napa Music Hall is a music venue in Sanfrancisco listed on soundcheck. 2 upcoming nights, with line-ups including SAAND and Tara Brooks. Browse upcoming dates, start times and who's playing. 1030 Main St, Napa, CA 94559, United States.
+Napa Music Hall is a music venue in Sanfrancisco listed on soundcheck. 3 upcoming nights, with line-ups including Illich Mujica, SAAND and Tara Brooks. Browse upcoming dates, start times and who's playing. 1030 Main St, Napa, CA 94559, United States.
 
 ## What's on
 
@@ -10,9 +10,10 @@ Napa Music Hall is a music venue in Sanfrancisco listed on soundcheck. 2 upcomin
 | --- | --- | --- |
 | Fri, 25 Sept 2026 | Tara Brooks - Salty Residency | Tara Brooks |
 | Fri, 9 Oct 2026 | SAAND - Salty Residency | SAAND |
+| Fri, 30 Oct 2026 | Illich Mujica - Haunted Ballroom | Illich Mujica |
 
 ## Address
 
 1030 Main St, Napa, CA 94559, United States, San Francisco/Oakland
 
-*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/napa-music-hall/)*
+*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/napa-music-hall/)*

@@ -1,8 +1,8 @@
 # Hoppetosse
 
-Hoppetosse is a music venue in Berlin with 11 upcoming nights listed on soundcheck as of Thu, 17 Sept 2026; the next is "SZENETREFFEN Shameless + PBC Afterparty" on Sat, 19 Sept 2026.
+Hoppetosse is a music venue in Berlin with 13 upcoming nights listed on soundcheck as of Fri, 18 Sept 2026; the next is "SZENETREFFEN Shameless + PBC Afterparty" on Sat, 19 Sept 2026.
 
-Hoppetosse is a music venue in Berlin listed on soundcheck. 11 upcoming nights, with line-ups including Alexander Skancke, Alexandra, Alex Picone and Anaté and 2 more. Browse upcoming dates, start times and who's playing. Eichenstrasse 4; Treptow; 12435 Berlin; Germany.
+Hoppetosse is a music venue in Berlin listed on soundcheck. 13 upcoming nights, with line-ups including Alexander Skancke, Alexandra, Alex Picone and Anaté and 2 more. Browse upcoming dates, start times and who's playing. Eichenstrasse 4; Treptow; 12435 Berlin; Germany.
 
 ## What's on
 
@@ -14,13 +14,13 @@ Hoppetosse is a music venue in Berlin listed on soundcheck. 11 upcoming nights, 
 | Fri, 2 Oct 2026 | Juno x Hoppetosse: Alex Picone, Robin Ordell, Kamyar Keramati, Bonza, Frankiee | Alex Picone, Bonza, Kamyar Keramati, Robin Ordell |
 | Sat, 3 Oct 2026 | Yellow Mellow Invites: Legowelt | Legowelt, Purita D, St.Eggs, Stamina (DE), Turk Turkelton |
 | Fri, 9 Oct 2026 | Apricots' Jam | Alexandra, DJ Slim Fit, Enchanted Rhythms, Meat, metaverde |
+| Sat, 10 Oct 2026 | Mission: Hajdar's Bday | Dorian Paic, Franco Cinelli, Tobi Neumann |
 | Sun, 11 Oct 2026 | Analog meets Digital: Reboot Records x djay Pro | DJ ZBB, Flor Coto, Franz Scala, Robosonic, Szew |
 | Sat, 17 Oct 2026 | Sekt&Brezeln - 4 YEARS ANNIVERSARY | Berto (DE), Fab Massimo, Fast (DE), Kaufmann, Leon Licht, Roman Adam, Rosa Kante, Sarah Wild, unDs |
-| Sat, 7 Nov 2026 | Slow Life Showcase | Cecilio, GNMR, Laurine, Rafon (2) |
-| Fri, 27 Nov 2026 | Betriebsfeier | Coco, Empro |
+| Fri, 23 Oct 2026 | OFF THE GRID x IKIGAI | Diamin, Kithers, Levat, Onirik, Royston Bassmann |
 
 ## Address
 
 Eichenstrasse 4; Treptow; 12435 Berlin; Germany, Berlin
 
-*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/hoppetosse/)*
+*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/hoppetosse/)*

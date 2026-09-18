@@ -1,6 +1,6 @@
 # Javi Redondo
 
-Javi Redondo is a House and Electronica artist with 1 upcoming club date listed on soundcheck as of Thu, 17 Sept 2026, next at Drama Radio Bar, Mexico City on Tue, 15 Sept 2026.
+Javi Redondo is a House and Electronica artist with 1 upcoming club date listed on soundcheck as of Fri, 18 Sept 2026, next at Drama Radio Bar, Mexico City on Tue, 15 Sept 2026.
 
 Javi Redondo is a house and electronica artist based in Spain, tracked on soundcheck, with 43 sets logged across Barcelona, Losangeles, Madrid and Mexicocity and 2 more. Often billed alongside Alvaro Cabana, Certain People and David Ponziano. Next up: Drama Radio Bar, Mexicocity on Tue 15 Sept.
 
@@ -25,4 +25,4 @@ Javi Redondo is a house and electronica artist based in Spain, tracked on soundc
 
 Alvaro Cabana, Certain People, David Ponziano
 
-*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/javiredondo/)*
+*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/javiredondo/)*

@@ -1,6 +1,6 @@
 # The Evelyn Hotel
 
-The Evelyn Hotel is a music venue in Melbourne with 2 upcoming nights listed on soundcheck as of Thu, 17 Sept 2026; the next is "In the Moment presents The Evelyn Reimagined with Silent Jay (Live, Jnett & Tuff Trax" on Fri, 18 Sept 2026.
+The Evelyn Hotel is a music venue in Melbourne with 2 upcoming nights listed on soundcheck as of Fri, 18 Sept 2026; the next is "In the Moment presents The Evelyn Reimagined with Silent Jay (Live, Jnett & Tuff Trax" on Fri, 18 Sept 2026.
 
 The Evelyn Hotel is a music venue in Melbourne listed on soundcheck. 2 upcoming nights, with line-ups including DJ JNETT, Kuzco, Mike Gurrieri and Silentjay and 2 more. Browse upcoming dates, start times and who's playing. 351 Brunswick St; Fitzroy, VIC 3065; Australia.
 
@@ -15,4 +15,4 @@ The Evelyn Hotel is a music venue in Melbourne listed on soundcheck. 2 upcoming 
 
 351 Brunswick St; Fitzroy, VIC 3065; Australia, Melbourne
 
-*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/the-evelyn-hotel/)*
+*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/the-evelyn-hotel/)*

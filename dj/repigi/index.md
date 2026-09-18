@@ -1,6 +1,6 @@
 # Re Pigi
 
-Re Pigi is a Techno and Electronica artist with 1 upcoming club date listed on soundcheck as of Thu, 17 Sept 2026, next at Malaga Sin City, Milan on Sun, 20 Sept 2026.
+Re Pigi is a Techno and Electronica artist with 1 upcoming club date listed on soundcheck as of Fri, 18 Sept 2026, next at Malaga Sin City, Milan on Sun, 20 Sept 2026.
 
 Re Pigi is a techno and electronica artist based in Italy, tracked on soundcheck, with 48 sets logged across Milan. Often billed alongside AllaDerivaLontano, Hi/Fi and Hutchee. Next up: Malaga Sin City, Milan on Sun 20 Sept.
 
@@ -25,4 +25,4 @@ Re Pigi is a techno and electronica artist based in Italy, tracked on soundcheck
 
 AllaDerivaLontano, Hi/Fi, Hutchee
 
-*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/repigi/)*
+*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/repigi/)*

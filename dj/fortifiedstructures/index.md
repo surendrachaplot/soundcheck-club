@@ -1,6 +1,6 @@
 # FortifiedStructures
 
-FortifiedStructures is a Techno and Hardcore artist with 3 upcoming club dates listed on soundcheck as of Thu, 17 Sept 2026, next at F8 1192 Folsom, San Francisco/Oakland on Sat, 19 Sept 2026.
+FortifiedStructures is a Techno and Hardcore artist with 3 upcoming club dates listed on soundcheck as of Fri, 18 Sept 2026, next at F8 1192 Folsom, San Francisco/Oakland on Sat, 19 Sept 2026.
 
 FortifiedStructures is a techno and hardcore artist based in Canada, tracked on soundcheck, with 15 sets logged across Boston, Losangeles, Montreal and Newyorkcity and 2 more. Often billed alongside Dazegxd, Dev/Null and HARDKORE. Next up: F8 1192 Folsom, Sanfrancisco on Sat 19 Sept.
 
@@ -27,4 +27,4 @@ FortifiedStructures is a techno and hardcore artist based in Canada, tracked on 
 
 Dazegxd, Dev/Null, HARDKORE
 
-*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/fortifiedstructures/)*
+*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/fortifiedstructures/)*

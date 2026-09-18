@@ -1,6 +1,6 @@
 # Joni DJ
 
-Joni DJ is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 17 Sept 2026, next at Signal, New York City on Fri, 18 Sept 2026.
+Joni DJ is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 18 Sept 2026, next at Signal, New York City on Fri, 18 Sept 2026.
 
 Joni DJ is a house and techno artist tracked on soundcheck, with 86 sets logged across Barcelona, Berlin, Helsinki and Newyorkcity and 5 more. Often billed alongside Denzel, Daniel Kayrouz and Justus Valtanen. Next up: Signal, Newyorkcity on Fri 18 Sept.
 
@@ -26,4 +26,4 @@ Joni DJ is a house and techno artist tracked on soundcheck, with 86 sets logged 
 
 Denzel, Daniel Kayrouz, Justus Valtanen
 
-*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jonidj/)*
+*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jonidj/)*

@@ -1,6 +1,6 @@
 # PSL
 
-PSL is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 17 Sept 2026, next at Frappant, Hamburg on Fri, 18 Sept 2026.
+PSL is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 18 Sept 2026, next at Frappant, Hamburg on Fri, 18 Sept 2026.
 
 PSL is a techno and house artist based in Germany, tracked on soundcheck, with 40 sets logged across Amsterdam, Barcelona, Berlin and Copenhagen and 3 more. Often billed alongside Carly Zeng, Hanaby and Berenice. Next up: Frappant, Hamburg on Fri 18 Sept.
 
@@ -25,4 +25,4 @@ PSL is a techno and house artist based in Germany, tracked on soundcheck, with 4
 
 Carly Zeng, Hanaby, Berenice
 
-*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/psl/)*
+*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/psl/)*

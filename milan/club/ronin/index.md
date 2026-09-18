@@ -1,6 +1,6 @@
 # RONIN
 
-RONIN is a music venue in Milan with 1 upcoming night listed on soundcheck as of Thu, 17 Sept 2026; the next is "M&M Microclubbing with Makossa & Friends" on Fri, 18 Sept 2026.
+RONIN is a music venue in Milan with 1 upcoming night listed on soundcheck as of Fri, 18 Sept 2026; the next is "M&M Microclubbing with Makossa & Friends" on Fri, 18 Sept 2026.
 
 RONIN is a music venue in Milan listed on soundcheck. 1 upcoming night, with line-ups including Makossa. Browse upcoming dates, start times and who's playing. Via Vittorio Alfieri, 17, 20154 Milano MI.
 
@@ -14,4 +14,4 @@ RONIN is a music venue in Milan listed on soundcheck. 1 upcoming night, with lin
 
 Via Vittorio Alfieri, 17, 20154 Milano MI, Milan
 
-*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/milan/club/ronin/)*
+*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/milan/club/ronin/)*

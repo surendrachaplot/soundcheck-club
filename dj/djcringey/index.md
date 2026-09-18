@@ -1,6 +1,6 @@
 # DJ Cringey
 
-DJ Cringey is a Techno and Trance artist with 8 upcoming club dates listed on soundcheck as of Thu, 17 Sept 2026, next at Openluchttheater Amersfoort, Amsterdam on Fri, 18 Sept 2026.
+DJ Cringey is a Techno and Trance artist with 8 upcoming club dates listed on soundcheck as of Fri, 18 Sept 2026, next at Openluchttheater Amersfoort, Amsterdam on Fri, 18 Sept 2026.
 
 DJ Cringey is a techno and trance artist tracked on soundcheck, with 100 sets logged across Amsterdam, Antwerp, Basel and Belfast and 22 more. Often billed alongside TOXIMAMI, DJ Hyperdrive and ANTHRAZIT. Next up: Openluchttheater Amersfoort, Amsterdam on Fri 18 Sept.
 
@@ -32,4 +32,4 @@ DJ Cringey is a techno and trance artist tracked on soundcheck, with 100 sets lo
 
 TOXIMAMI, DJ Hyperdrive, ANTHRAZIT
 
-*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djcringey/)*
+*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djcringey/)*

@@ -1,18 +1,18 @@
 # MALICIEL
 
-MALICIEL is a Techno and Club artist with 2 upcoming club dates listed on soundcheck as of Thu, 17 Sept 2026, next at The Cafe, San Francisco/Oakland on Thu, 17 Sept 2026.
+MALICIEL is a Techno and Club artist with 1 upcoming club date listed on soundcheck as of Fri, 18 Sept 2026, next at TBA - SECRET SF LOCATION, San Francisco/Oakland on Fri, 25 Sept 2026.
 
-MALICIEL is a techno and club artist based in Brazil, tracked on soundcheck, with 11 sets logged across Sanfrancisco. Often billed alongside ANDYLAND, QUEENIE (US) and arktoi. Next up: The Cafe, Sanfrancisco on Thu 17 Sept.
+MALICIEL is a techno and club artist based in Brazil, tracked on soundcheck, with 11 sets logged across Sanfrancisco. Often billed alongside ANDYLAND, QUEENIE (US) and arktoi. Next up: TBA - SECRET SF LOCATION, Sanfrancisco on Fri 25 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Thu, 17 Sept 2026 | The Cafe | San Francisco/Oakland |
 | Fri, 25 Sept 2026 | TBA - SECRET SF LOCATION | San Francisco/Oakland |
 
 ## Recently played
 
+- The Cafe, San Francisco/Oakland — Thu, 17 Sept 2026
 - F8 1192 Folsom, San Francisco/Oakland — Sat, 5 Sept 2026
 - Monarch, San Francisco/Oakland — Fri, 28 Aug 2026
 - The Great Northern, San Francisco/Oakland — Fri, 7 Aug 2026
@@ -20,10 +20,9 @@ MALICIEL is a techno and club artist based in Brazil, tracked on soundcheck, wit
 - Monarch, San Francisco/Oakland — Fri, 3 Jul 2026
 - F8 1192 Folsom, San Francisco/Oakland — Fri, 19 Jun 2026
 - Delirium San Francisco, San Francisco/Oakland — Sat, 30 May 2026
-- The Great Northern, San Francisco/Oakland — Fri, 24 Apr 2026
 
 ## Shares bills with
 
 ANDYLAND, QUEENIE (US), arktoi
 
-*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/maliciel/)*
+*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/maliciel/)*

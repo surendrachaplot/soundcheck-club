@@ -1,6 +1,6 @@
 # Tui (1)
 
-Tui (1) is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Thu, 17 Sept 2026, next at Noon + Cafe, Osaka on Sat, 19 Sept 2026.
+Tui (1) is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Fri, 18 Sept 2026, next at Noon + Cafe, Osaka on Sat, 19 Sept 2026.
 
 Tui (1) is a techno and house artist based in Japan, tracked on soundcheck, with 28 sets logged across Kyoto, Osaka and Tokyo. Often billed alongside Eichi Abe, GAKUTO(TOKYO) and Lewo Chyba. Next up: Noon + Cafe, Osaka on Sat 19 Sept.
 
@@ -27,4 +27,4 @@ Tui (1) is a techno and house artist based in Japan, tracked on soundcheck, with
 
 Eichi Abe, GAKUTO(TOKYO), Lewo Chyba
 
-*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tui-1/)*
+*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tui-1/)*

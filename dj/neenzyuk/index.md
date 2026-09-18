@@ -1,6 +1,6 @@
 # NEENZY (UK)
 
-NEENZY (UK) is a Bass and Jungle artist with 2 upcoming club dates listed on soundcheck as of Thu, 17 Sept 2026, next at M.O.T, London on Fri, 25 Sept 2026.
+NEENZY (UK) is a Bass and Jungle artist with 2 upcoming club dates listed on soundcheck as of Fri, 18 Sept 2026, next at M.O.T, London on Fri, 25 Sept 2026.
 
 NEENZY (UK) is a bass and jungle artist tracked on soundcheck, with 28 sets logged across Leeds, London, Manchester and Newcastle. Often billed alongside DJ BootyShake, Amelia Leigh and PB (UK). Next up: M.O.T, London on Fri 25 Sept.
 
@@ -9,7 +9,7 @@ NEENZY (UK) is a bass and jungle artist tracked on soundcheck, with 28 sets logg
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 25 Sept 2026 | M.O.T | London |
-| Sat, 26 Sept 2026 | Gateshead Quayside | Newcastle |
+| Sat, 26 Sept 2026 | The Clayshed | Newcastle |
 
 ## Recently played
 
@@ -26,4 +26,4 @@ NEENZY (UK) is a bass and jungle artist tracked on soundcheck, with 28 sets logg
 
 DJ BootyShake, Amelia Leigh, PB (UK)
 
-*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/neenzyuk/)*
+*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/neenzyuk/)*

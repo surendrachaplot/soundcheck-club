@@ -1,8 +1,8 @@
 # Djammin
 
-Djammin is a Afro House and Tech House artist with 4 upcoming club dates listed on soundcheck as of Thu, 17 Sept 2026, next at UNO MALTA, Malta on Thu, 1 Oct 2026.
+Djammin is a House and Afro House artist with 5 upcoming club dates listed on soundcheck as of Fri, 18 Sept 2026, next at UNO MALTA, Malta on Thu, 1 Oct 2026.
 
-Djammin is an afro house and tech house artist tracked on soundcheck, with 34 sets logged across Amsterdam, Bristol, Ibiza and London and 4 more. Often billed alongside Meeshy, Ossie and Skepta. Next up: UNO MALTA, Malta on Thu 1 Oct.
+Djammin is a house and afro house artist tracked on soundcheck, with 35 sets logged across Amsterdam, Bristol, Ibiza and London and 5 more. Often billed alongside Meeshy, Ossie and Skepta. Next up: UNO MALTA, Malta on Thu 1 Oct.
 
 ## Upcoming shows
 
@@ -12,6 +12,7 @@ Djammin is an afro house and tech house artist tracked on soundcheck, with 34 se
 | Fri, 9 Oct 2026 | Hï Ibiza | Ibiza |
 | Sat, 17 Oct 2026 | E1 | London |
 | Fri, 30 Oct 2026 | Phonox | London |
+| Sat, 7 Nov 2026 | LAB theCLUB | Madrid |
 
 ## Recently played
 
@@ -28,4 +29,4 @@ Djammin is an afro house and tech house artist tracked on soundcheck, with 34 se
 
 Meeshy, Ossie, Skepta
 
-*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djammin/)*
+*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djammin/)*

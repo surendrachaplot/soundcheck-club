@@ -1,6 +1,6 @@
 # LOVELL
 
-LOVELL is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Thu, 17 Sept 2026, next at The Leith Depot, Edinburgh on Fri, 18 Sept 2026.
+LOVELL is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Fri, 18 Sept 2026, next at The Leith Depot, Edinburgh on Fri, 18 Sept 2026.
 
 LOVELL is a house and techno artist based in United Kingdom, tracked on soundcheck, with 20 sets logged across Aberdeen, Dundee, Edinburgh and Glasgow and 1 more. Often billed alongside Acid Boner, Angel Negrin and Illogical Operator. Next up: The Leith Depot, Edinburgh on Fri 18 Sept.
 
@@ -28,4 +28,4 @@ LOVELL is a house and techno artist based in United Kingdom, tracked on soundche
 
 Acid Boner, Angel Negrin, Illogical Operator
 
-*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lovell/)*
+*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lovell/)*

@@ -1,8 +1,8 @@
 # Village Studios
 
-Village Studios is a music venue in Vancouver with 8 upcoming nights listed on soundcheck as of Thu, 17 Sept 2026; the next is "Stacked pres Rohaan x Denham Audio" on Fri, 18 Sept 2026.
+Village Studios is a music venue in Vancouver with 9 upcoming nights listed on soundcheck as of Fri, 18 Sept 2026; the next is "Stacked pres Rohaan x Denham Audio" on Fri, 18 Sept 2026.
 
-Village Studios is a music venue in Vancouver listed on soundcheck. 8 upcoming nights, with line-ups including BINKY, Brendocha, camoufly and Dean Turnley and 2 more. Browse upcoming dates, start times and who's playing. 1024 Davie Street, Vancouver, BC, V6E 1M, Canada.
+Village Studios is a music venue in Vancouver listed on soundcheck. 9 upcoming nights, with line-ups including BINKY, Brendocha, camoufly and Dean Turnley and 2 more. Browse upcoming dates, start times and who's playing. 1024 Davie Street, Vancouver, BC, V6E 1M, Canada.
 
 ## What's on
 
@@ -15,10 +15,11 @@ Village Studios is a music venue in Vancouver listed on soundcheck. 8 upcoming n
 | Sat, 3 Oct 2026 | Stacked pres. camoufly | camoufly |
 | Sun, 11 Oct 2026 | Jazzy | Jazzy (IRL) |
 | Thu, 22 Oct 2026 | Propagate pres. EQ | BINKY, Brendocha, EQ (Estratosfera + Qiri) |
+| Fri, 20 Nov 2026 | Stacked pres. Dennett |  |
 | Sat, 21 Nov 2026 | Daniel Allan |  |
 
 ## Address
 
 1024 Davie Street, Vancouver, BC, V6E 1M, Canada, Vancouver
 
-*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/vancouver/club/village-studios/)*
+*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/vancouver/club/village-studios/)*

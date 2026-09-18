@@ -1,6 +1,6 @@
 # Varo (ES)
 
-Varo (ES) is a House and Electronica artist with 2 upcoming club dates listed on soundcheck as of Thu, 17 Sept 2026, next at El Internacional, Madrid on Fri, 18 Sept 2026.
+Varo (ES) is a House and Electronica artist with 2 upcoming club dates listed on soundcheck as of Fri, 18 Sept 2026, next at El Internacional, Madrid on Fri, 18 Sept 2026.
 
 Varo (ES) is a house and electronica artist tracked on soundcheck, with 3 sets logged across Madrid. Often billed alongside Bassywax, Ben Kamal and Dorisburg. Next up: El Internacional, Madrid on Fri 18 Sept.
 
@@ -19,4 +19,4 @@ Varo (ES) is a house and electronica artist tracked on soundcheck, with 3 sets l
 
 Bassywax, Ben Kamal, Dorisburg
 
-*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/varoes/)*
+*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/varoes/)*

@@ -1,6 +1,6 @@
 # K1KO
 
-K1KO is a Techno and Hardcore artist with 1 upcoming club date listed on soundcheck as of Thu, 17 Sept 2026, next at ://about blank, Berlin on Fri, 18 Sept 2026.
+K1KO is a Techno and Hardcore artist with 1 upcoming club date listed on soundcheck as of Fri, 18 Sept 2026, next at ://about blank, Berlin on Fri, 18 Sept 2026.
 
 K1KO is a techno and hardcore artist based in Germany, tracked on soundcheck, with 35 sets logged across Berlin and Munich. Often billed alongside SPEEDFREAK, UNT3N and FLUCC. Next up: ://about blank, Berlin on Fri 18 Sept.
 
@@ -25,4 +25,4 @@ K1KO is a techno and hardcore artist based in Germany, tracked on soundcheck, wi
 
 SPEEDFREAK, UNT3N, FLUCC
 
-*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/k1ko/)*
+*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/k1ko/)*

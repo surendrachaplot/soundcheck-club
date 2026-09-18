@@ -1,8 +1,8 @@
 # Ede
 
-Ede is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Thu, 17 Sept 2026, next at Botanico Tbilisi, Tbilisi on Sat, 19 Sept 2026.
+Ede is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Fri, 18 Sept 2026, next at Botanico Tbilisi, Tbilisi on Sat, 19 Sept 2026.
 
-Ede is a techno and house artist based in Germany, tracked on soundcheck, with 89 sets logged across Amsterdam, Athens, Barcelona and Berlin and 22 more. Often billed alongside Skatman, julës jay and JAMIIE. Next up: Botanico Tbilisi, Tbilisi on Sat 19 Sept.
+Ede is a techno and house artist based in Germany, tracked on soundcheck, with 90 sets logged across Amsterdam, Athens, Barcelona and Berlin and 22 more. Often billed alongside Skatman, julës jay and JAMIIE. Next up: Botanico Tbilisi, Tbilisi on Sat 19 Sept.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ Ede is a techno and house artist based in Germany, tracked on soundcheck, with 8
 | Sat, 19 Sept 2026 | Botanico Tbilisi | Tbilisi |
 | Sat, 26 Sept 2026 | TBA - Málaga Forum | Malaga |
 | Thu, 22 Oct 2026 | Onder Hans | Amsterdam |
+| Fri, 20 Nov 2026 | Expo Santa Fe | Mexico City |
 
 ## Recently played
 
@@ -27,4 +28,4 @@ Ede is a techno and house artist based in Germany, tracked on soundcheck, with 8
 
 Skatman, julës jay, JAMIIE
 
-*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ede/)*
+*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ede/)*

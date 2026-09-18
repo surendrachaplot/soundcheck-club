@@ -1,6 +1,6 @@
 # Glasse
 
-Glasse is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 17 Sept 2026, next at OCZKI, Warsaw on Sat, 19 Sept 2026.
+Glasse is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 18 Sept 2026, next at OCZKI, Warsaw on Sat, 19 Sept 2026.
 
 Glasse is a techno and house artist tracked on soundcheck, with 19 sets logged across Vancouver and Warsaw. Often billed alongside WEIKUM, Angelo Mike and Deas. Next up: OCZKI, Warsaw on Sat 19 Sept.
 
@@ -25,4 +25,4 @@ Glasse is a techno and house artist tracked on soundcheck, with 19 sets logged a
 
 WEIKUM, Angelo Mike, Deas
 
-*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/glasse/)*
+*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/glasse/)*

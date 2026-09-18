@@ -1,6 +1,6 @@
 # Bogus Trumper
 
-Bogus Trumper is a House and Downtempo artist with 1 upcoming club date listed on soundcheck as of Thu, 17 Sept 2026, next at TBA - Margarethe-Danzi-Straße 29, Munich on Sat, 19 Sept 2026.
+Bogus Trumper is a House and Downtempo artist with 1 upcoming club date listed on soundcheck as of Fri, 18 Sept 2026, next at TBA - Margarethe-Danzi-Straße 29, Munich on Sat, 19 Sept 2026.
 
 Bogus Trumper is a house and downtempo artist based in Germany, tracked on soundcheck, with 40 sets logged across Athens, Berlin, Munich and Stuttgart and 1 more. Often billed alongside 600-cell, DJoy and Benjamin Roeder. Next up: TBA - Margarethe-Danzi-Straße 29, Munich on Sat 19 Sept.
 
@@ -25,4 +25,4 @@ Bogus Trumper is a house and downtempo artist based in Germany, tracked on sound
 
 600-cell, DJoy, Benjamin Roeder
 
-*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bogustrumper/)*
+*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bogustrumper/)*

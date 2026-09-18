@@ -1,6 +1,6 @@
 # Amatric
 
-Amatric is a Disco and Italo Disco artist with 1 upcoming club date listed on soundcheck as of Thu, 17 Sept 2026, next at 1015 Folsom, San Francisco/Oakland on Fri, 18 Sept 2026.
+Amatric is a Disco and Italo Disco artist with 1 upcoming club date listed on soundcheck as of Fri, 18 Sept 2026, next at 1015 Folsom, San Francisco/Oakland on Fri, 18 Sept 2026.
 
 Amatric is a disco and italo disco artist tracked on soundcheck, with 51 sets logged across Sanfrancisco. Often billed alongside Evbot, lord_of_the_rats and DJ PlayStation. Next up: 1015 Folsom, Sanfrancisco on Fri 18 Sept.
 
@@ -25,4 +25,4 @@ Amatric is a disco and italo disco artist tracked on soundcheck, with 51 sets lo
 
 Evbot, lord_of_the_rats, DJ PlayStation
 
-*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/amatric/)*
+*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/amatric/)*

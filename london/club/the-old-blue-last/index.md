@@ -1,6 +1,6 @@
 # The Old Blue Last
 
-The Old Blue Last is a music venue in London with 11 upcoming nights listed on soundcheck as of Thu, 17 Sept 2026; the next is "Memento" on Fri, 18 Sept 2026.
+The Old Blue Last is a music venue in London with 11 upcoming nights listed on soundcheck as of Fri, 18 Sept 2026; the next is "Memento" on Fri, 18 Sept 2026.
 
 The Old Blue Last is a music venue in London listed on soundcheck. 11 upcoming nights, with line-ups including Bempah, Craig Richards, Howie B and L-Vis 1990 and 2 more. Browse upcoming dates, start times and who's playing. 39 Great Eastern Road; Shoreditch; London EC2A 3ES; United Kingdom.
 
@@ -23,4 +23,4 @@ The Old Blue Last is a music venue in London listed on soundcheck. 11 upcoming n
 
 39 Great Eastern Road; Shoreditch; London EC2A 3ES; United Kingdom, London
 
-*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/the-old-blue-last/)*
+*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/the-old-blue-last/)*

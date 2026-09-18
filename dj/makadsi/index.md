@@ -1,8 +1,8 @@
 # Makadsi
 
-Makadsi is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Thu, 17 Sept 2026, next at Paragon, New York City on Sat, 19 Sept 2026.
+Makadsi is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Fri, 18 Sept 2026, next at Paragon, New York City on Sat, 19 Sept 2026.
 
-Makadsi is a house and techno artist based in Lebanon, tracked on soundcheck, with 87 sets logged across Barcelona, Berlin, Brussels and Ibiza and 7 more. Often billed alongside Sterling Juan Diaz, Dangerous Rose and FASHION (US). Next up: Paragon, Newyorkcity on Sat 19 Sept.
+Makadsi is a house and techno artist based in Lebanon, tracked on soundcheck, with 88 sets logged across Barcelona, Berlin, Brussels and Ibiza and 7 more. Often billed alongside Dangerous Rose, Sterling Juan Diaz and FASHION (US). Next up: Paragon, Newyorkcity on Sat 19 Sept.
 
 ## Upcoming shows
 
@@ -12,6 +12,7 @@ Makadsi is a house and techno artist based in Lebanon, tracked on soundcheck, wi
 | Fri, 25 Sept 2026 | TBA | New York City |
 | Fri, 2 Oct 2026 | Fvtvr | Paris |
 | Fri, 9 Oct 2026 | TBA | Los Angeles |
+| Fri, 30 Oct 2026 | Xanadu | New York City |
 
 ## Recently played
 
@@ -26,6 +27,6 @@ Makadsi is a house and techno artist based in Lebanon, tracked on soundcheck, wi
 
 ## Shares bills with
 
-Sterling Juan Diaz, Dangerous Rose, FASHION (US)
+Dangerous Rose, Sterling Juan Diaz, FASHION (US)
 
-*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/makadsi/)*
+*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/makadsi/)*

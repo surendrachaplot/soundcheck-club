@@ -1,6 +1,6 @@
 # Wayne Snow
 
-Wayne Snow is a Electronica and House artist with 1 upcoming club date listed on soundcheck as of Thu, 17 Sept 2026, next at Gretchen, Berlin on Sat, 3 Oct 2026.
+Wayne Snow is a Electronica and House artist with 1 upcoming club date listed on soundcheck as of Fri, 18 Sept 2026, next at Gretchen, Berlin on Sat, 3 Oct 2026.
 
 Wayne Snow is an electronica and house artist based in Nigeria, tracked on soundcheck, with 14 sets logged across Berlin, London, Milan and Paris and 1 more. Often billed alongside Jazzanova, Alex Rita and Aline Umber. Next up: Gretchen, Berlin on Sat 3 Oct.
 
@@ -25,4 +25,4 @@ Wayne Snow is an electronica and house artist based in Nigeria, tracked on sound
 
 Jazzanova, Alex Rita, Aline Umber
 
-*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/waynesnow/)*
+*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/waynesnow/)*

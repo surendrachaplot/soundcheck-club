@@ -1,6 +1,6 @@
 # Worakls & friends ADE at WestWeelde
 
-Worakls & friends ADE at WestWeelde on Thu 22 Oct, Amsterdam. 1 act on the bill: Worakls. Progressive House and House. Preview the line-up and save it on soundcheck.
+Worakls & friends ADE at WestWeelde on Thu 22 Oct, Amsterdam. 3 acts on the bill: Rodriguez Jr., Susan Right and Worakls. Progressive House and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,8 @@ Worakls & friends ADE at WestWeelde on Thu 22 Oct, Amsterdam. 1 act on the bill:
 
 ## Line-up
 
+- Rodriguez Jr.
+- Susan Right
 - Worakls
 
 *Source: [soundcheck](https://soundcheck.club/e/2442149-worakls-friends-ade-at-westweelde/)*

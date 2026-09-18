@@ -1,6 +1,6 @@
 # Nebu Mitte
 
-Nebu Mitte is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 17 Sept 2026, next at Klunkerkranich, Berlin on Fri, 18 Sept 2026.
+Nebu Mitte is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 18 Sept 2026, next at Klunkerkranich, Berlin on Fri, 18 Sept 2026.
 
 Nebu Mitte is a house and techno artist tracked on soundcheck, with 17 sets logged across Barcelona, Berlin, Lisbon and London and 2 more. Often billed alongside Cherry Pie, Jaroman and Onelia. Next up: Klunkerkranich, Berlin on Fri 18 Sept.
 
@@ -25,4 +25,4 @@ Nebu Mitte is a house and techno artist tracked on soundcheck, with 17 sets logg
 
 Cherry Pie, Jaroman, Onelia
 
-*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nebumitte/)*
+*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nebumitte/)*

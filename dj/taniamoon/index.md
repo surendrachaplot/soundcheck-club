@@ -1,18 +1,18 @@
 # Tania Moon
 
-Tania Moon is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 17 Sept 2026, next at Space Eat & Dance, Ibiza on Thu, 17 Sept 2026.
+Tania Moon is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 18 Sept 2026, next at TBA - Málaga Forum, Malaga on Sat, 26 Sept 2026.
 
-Tania Moon is a techno and house artist based in Spain, tracked on soundcheck, with 8 sets logged across Amsterdam, Ibiza, Madrid and Malaga. Often billed alongside Aktor Se, Ede and Esin. Next up: Space Eat & Dance, Ibiza on Thu 17 Sept.
+Tania Moon is a techno and house artist based in Spain, tracked on soundcheck, with 8 sets logged across Amsterdam, Ibiza, Madrid and Malaga. Often billed alongside Aktor Se, Ede and Esin. Next up: TBA - Málaga Forum, Malaga on Sat 26 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Thu, 17 Sept 2026 | Space Eat & Dance | Ibiza |
 | Sat, 26 Sept 2026 | TBA - Málaga Forum | Malaga |
 
 ## Recently played
 
+- Space Eat & Dance, Ibiza — Thu, 17 Sept 2026
 - Madam, Amsterdam — Fri, 4 Sept 2026
 - Tomorrowland Store Ibiza, Ibiza — Mon, 22 Jun 2026
 - Chinois Ibiza, Ibiza — Mon, 1 Jun 2026
@@ -24,4 +24,4 @@ Tania Moon is a techno and house artist based in Spain, tracked on soundcheck, w
 
 Aktor Se, Ede, Esin
 
-*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/taniamoon/)*
+*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/taniamoon/)*

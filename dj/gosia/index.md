@@ -1,14 +1,15 @@
 # Gosia
 
-Gosia is a Techno and Deep House artist with 1 upcoming club date listed on soundcheck as of Thu, 17 Sept 2026, next at Hare & Hounds, Brighton on Sat, 31 Oct 2026.
+Gosia is a Techno and Deep House artist with 2 upcoming club dates listed on soundcheck as of Fri, 18 Sept 2026, next at Hare & Hounds, Brighton on Sat, 31 Oct 2026.
 
-Gosia is a techno and deep house artist tracked on soundcheck, with 12 sets logged across Brighton. Often billed alongside Ross Harper, Nathan Godolphin and SuperCLAUD. Next up: Hare & Hounds, Brighton on Sat 31 Oct.
+Gosia is a techno and deep house artist tracked on soundcheck, with 13 sets logged across Brighton. Often billed alongside Ross Harper, Nathan Godolphin and Acid Carbon. Next up: Hare & Hounds, Brighton on Sat 31 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 31 Oct 2026 | Hare & Hounds | Brighton |
+| Fri, 11 Dec 2026 | Quarters | Brighton |
 
 ## Recently played
 
@@ -23,6 +24,6 @@ Gosia is a techno and deep house artist tracked on soundcheck, with 12 sets logg
 
 ## Shares bills with
 
-Ross Harper, Nathan Godolphin, SuperCLAUD
+Ross Harper, Nathan Godolphin, Acid Carbon
 
-*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/gosia/)*
+*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/gosia/)*

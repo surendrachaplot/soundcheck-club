@@ -1,8 +1,8 @@
 # Lizdek
 
-Lizdek is a electronic artist with 2 upcoming club dates listed on soundcheck as of Thu, 17 Sept 2026, next at Mood Ring, New York City on Fri, 18 Sept 2026.
+Lizdek is a electronic artist with 2 upcoming club dates listed on soundcheck as of Fri, 18 Sept 2026, next at Mood Ring, New York City on Fri, 18 Sept 2026.
 
-Lizdek is an electronic artist based in Canada, tracked on soundcheck, with 2 sets logged across Newyorkcity and Vancouver. Often billed alongside Max Parkinson, Prince S. and oomfhaver. Next up: Mood Ring, Newyorkcity on Fri 18 Sept.
+Lizdek is an electronic artist based in Canada, tracked on soundcheck, with 2 sets logged across Newyorkcity and Vancouver. Often billed alongside Max Parkinson, Prince S and Prince S.. Next up: Mood Ring, Newyorkcity on Fri 18 Sept.
 
 ## Upcoming shows
 
@@ -13,6 +13,6 @@ Lizdek is an electronic artist based in Canada, tracked on soundcheck, with 2 se
 
 ## Shares bills with
 
-Max Parkinson, Prince S., oomfhaver
+Max Parkinson, Prince S, Prince S.
 
-*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lizdek/)*
+*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lizdek/)*

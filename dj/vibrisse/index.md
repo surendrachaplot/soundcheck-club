@@ -1,6 +1,6 @@
 # VIBRISSE
 
-VIBRISSE is a Hardcore and Club artist with 1 upcoming club date listed on soundcheck as of Thu, 17 Sept 2026, next at Cripta747, Turin on Sat, 3 Oct 2026.
+VIBRISSE is a Hardcore and Club artist with 1 upcoming club date listed on soundcheck as of Fri, 18 Sept 2026, next at Cripta747, Turin on Sat, 3 Oct 2026.
 
 VIBRISSE is a hardcore and club artist tracked on soundcheck, with 11 sets logged across Berlin, Dublin, Prague and Turin. Often billed alongside Nahshi, Kaa Glo and VIPRA. Next up: Cripta747, Turin on Sat 3 Oct.
 
@@ -25,4 +25,4 @@ VIBRISSE is a hardcore and club artist tracked on soundcheck, with 11 sets logge
 
 Nahshi, Kaa Glo, VIPRA
 
-*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/vibrisse/)*
+*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/vibrisse/)*

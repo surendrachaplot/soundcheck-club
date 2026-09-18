@@ -1,6 +1,6 @@
 # Dazegxd
 
-Dazegxd is a Jungle and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 17 Sept 2026, next at Terminal 5, New York City on Tue, 22 Sept 2026.
+Dazegxd is a Jungle and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 18 Sept 2026, next at Terminal 5, New York City on Tue, 22 Sept 2026.
 
 Dazegxd is a jungle and house artist tracked on soundcheck, with 103 sets logged across Austin, Boston, Bristol and Chicago and 15 more. Often billed alongside Yesterdayneverhappened, gum.mp3 and Swami Sound. Next up: Terminal 5, Newyorkcity on Tue 22 Sept.
 
@@ -26,4 +26,4 @@ Dazegxd is a jungle and house artist tracked on soundcheck, with 103 sets logged
 
 Yesterdayneverhappened, gum.mp3, Swami Sound
 
-*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dazegxd/)*
+*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dazegxd/)*

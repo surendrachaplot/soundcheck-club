@@ -1,6 +1,6 @@
 # Admo
 
-Admo is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Thu, 17 Sept 2026, next at Nido Marseille, Marseille on Fri, 25 Sept 2026.
+Admo is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Fri, 18 Sept 2026, next at Nido Marseille, Marseille on Fri, 25 Sept 2026.
 
 Admo is a house and tech house artist tracked on soundcheck, with 71 sets logged across Amsterdam, Barcelona, Berlin and Brussels and 21 more. Often billed alongside International Mac, Gene On Earth and Kirill Astra. Next up: Nido Marseille, Marseille on Fri 25 Sept.
 
@@ -25,4 +25,4 @@ Admo is a house and tech house artist tracked on soundcheck, with 71 sets logged
 
 International Mac, Gene On Earth, Kirill Astra
 
-*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/admo/)*
+*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/admo/)*

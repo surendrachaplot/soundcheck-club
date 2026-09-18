@@ -1,6 +1,6 @@
 # Joe Lewandowski
 
-Joe Lewandowski is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Thu, 17 Sept 2026, next at La Felicita, Paris on Fri, 18 Sept 2026.
+Joe Lewandowski is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Fri, 18 Sept 2026, next at La Felicita, Paris on Fri, 18 Sept 2026.
 
 Joe Lewandowski is a house and techno artist based in France, tracked on soundcheck, with 83 sets logged across Amsterdam, Barcelona, Berlin and Frankfurt and 9 more. Often billed alongside Valentine Groove, Adam Spielman and Hardrock Striker. Next up: La Felicita, Paris on Fri 18 Sept.
 
@@ -27,4 +27,4 @@ Joe Lewandowski is a house and techno artist based in France, tracked on soundch
 
 Valentine Groove, Adam Spielman, Hardrock Striker
 
-*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/joelewandowski-fr/)*
+*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/joelewandowski-fr/)*

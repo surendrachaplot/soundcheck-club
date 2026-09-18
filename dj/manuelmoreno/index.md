@@ -1,6 +1,6 @@
 # Manuel Moreno
 
-Manuel Moreno is a House and Deep House artist with 2 upcoming club dates listed on soundcheck as of Thu, 17 Sept 2026, next at Frau Gerolds Garten, Zurich on Sat, 19 Sept 2026.
+Manuel Moreno is a House and Deep House artist with 2 upcoming club dates listed on soundcheck as of Fri, 18 Sept 2026, next at Frau Gerolds Garten, Zurich on Sat, 19 Sept 2026.
 
 Manuel Moreno is a house and deep house artist tracked on soundcheck, with 21 sets logged across Amsterdam, Basel, Berlin and Zurich. Often billed alongside Caromelle, AANN and Felix E. Next up: Frau Gerolds Garten, Zurich on Sat 19 Sept.
 
@@ -26,4 +26,4 @@ Manuel Moreno is a house and deep house artist tracked on soundcheck, with 21 se
 
 Caromelle, AANN, Felix E
 
-*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/manuelmoreno/)*
+*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/manuelmoreno/)*

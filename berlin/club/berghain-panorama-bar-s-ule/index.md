@@ -1,14 +1,13 @@
 # Berghain | Panorama Bar | Säule
 
-Berghain | Panorama Bar | Säule is a music venue in Berlin with 24 upcoming nights listed on soundcheck as of Thu, 17 Sept 2026; the next is "MÄZEN" on Thu, 17 Sept 2026.
+Berghain | Panorama Bar | Säule is a music venue in Berlin with 23 upcoming nights listed on soundcheck as of Fri, 18 Sept 2026; the next is "Italorama Bar" on Fri, 18 Sept 2026.
 
-Berghain | Panorama Bar | Säule is a music venue in Berlin listed on soundcheck. 24 upcoming nights, with line-ups including Justine Perry, Aba Shanti-I, abs8lute and Acronym and 2 more. Browse upcoming dates, start times and who's playing. 70 Am Wriezener Bahnhof; Friedrichshain; 10243 Berlin; Germany.
+Berghain | Panorama Bar | Säule is a music venue in Berlin listed on soundcheck. 23 upcoming nights, with line-ups including Justine Perry, Aba Shanti-I, abs8lute and Adi and 2 more. Browse upcoming dates, start times and who's playing. 70 Am Wriezener Bahnhof; Friedrichshain; 10243 Berlin; Germany.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Thu, 17 Sept 2026 | MÄZEN | Acronym, Nadia Struiwigh, Pre Silent, THIRTEEN DOZE |
 | Fri, 18 Sept 2026 | Italorama Bar | Curses, DASH (SLO), Franz Scala, Giulia Gutterer, Intergalactic Gary, Lennart, Lennart (NL), N.O.I.A. |
 | Sat, 19 Sept 2026 | Klubnacht | Alinka, Ben Klock, Budino, Cinthie, DHÆÜR, Fadi Mohem, Francesco Del Garda, JakoJako, Marie Montexier, Mary Yuzovskaya, Mike Starr, OPH, Prom Night, Rex the Dog, Tal Fussman |
 | Thu, 24 Sept 2026 | Terenor | Agata, Agata (PL), CUNT REMEMBER, Egregore, Jolly (2), Jolly (FR), Ninon |
@@ -18,9 +17,10 @@ Berghain | Panorama Bar | Säule is a music venue in Berlin listed on soundcheck
 | Fri, 2 Oct 2026 | Hamam Nights | Eoin DJ, Kevin Aviance, Rumi de Baires, Sedef Adasï |
 | Sat, 3 Oct 2026 | Klubnacht | AMORAL, Answer Code Request, BLANKA, Barbara Preisinger, Barker, Biesmans, Carlos Valdes, Cormac, DVS1, Mano Le Tough, PARAMIDA, Ryan Elliott, Shonky, The Lady Machine, abs8lute |
 | Thu, 8 Oct 2026 | weeeirdos | BRALLE, Budino, LOLSNAKE, SALOME, VINVAR |
+| Fri, 9 Oct 2026 | HYPERSOFT | Adi, Andrea Dama, DJ TEETH, Ekkel, Krijka, Marco Shuttle, Pyramid of Knowledge |
 
 ## Address
 
 70 Am Wriezener Bahnhof; Friedrichshain; 10243 Berlin; Germany, Berlin
 
-*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/berghain-panorama-bar-s-ule/)*
+*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/berghain-panorama-bar-s-ule/)*

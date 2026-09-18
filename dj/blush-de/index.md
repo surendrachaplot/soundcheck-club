@@ -1,14 +1,13 @@
 # Blu:sh
 
-Blu:sh is a Techno and Trance artist with 5 upcoming club dates listed on soundcheck as of Thu, 17 Sept 2026, next at Signal, New York City on Thu, 17 Sept 2026.
+Blu:sh is a Techno and Trance artist with 4 upcoming club dates listed on soundcheck as of Fri, 18 Sept 2026, next at Smoke & Mirrors, Chicago on Fri, 18 Sept 2026.
 
-Blu:sh is a techno and trance artist based in France, tracked on soundcheck, with 57 sets logged across Athens, Barcelona, Berlin and Brussels and 20 more. Often billed alongside Zeynep, Marie Malarie and Von Riu. Next up: Signal, Newyorkcity on Thu 17 Sept.
+Blu:sh is a techno and trance artist based in France, tracked on soundcheck, with 57 sets logged across Athens, Barcelona, Berlin and Brussels and 20 more. Often billed alongside Zeynep, Marie Malarie and Von Riu. Next up: Smoke & Mirrors, Chicago on Fri 18 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Thu, 17 Sept 2026 | Signal | New York City |
 | Fri, 18 Sept 2026 | Smoke & Mirrors | Chicago |
 | Thu, 24 Sept 2026 | Fünk | Mexico City |
 | Fri, 9 Oct 2026 | Bar Datcha | Montreal |
@@ -16,6 +15,7 @@ Blu:sh is a techno and trance artist based in France, tracked on soundcheck, wit
 
 ## Recently played
 
+- Signal, New York City — Thu, 17 Sept 2026
 - Giri, Berlin — Fri, 21 Aug 2026
 - TBA - secret location - NEUKÖLLN, Berlin — Sat, 15 Aug 2026
 - Kater, Berlin — Fri, 31 Jul 2026
@@ -23,10 +23,9 @@ Blu:sh is a techno and trance artist based in France, tracked on soundcheck, wit
 - Kwia, Berlin — Tue, 14 Jul 2026
 - TBA, Paris — Sat, 4 Jul 2026
 - MS Club, Marseille — Sat, 27 Jun 2026
-- Skull Bar, Athens — Sun, 14 Jun 2026
 
 ## Shares bills with
 
 Zeynep, Marie Malarie, Von Riu
 
-*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/blush-de/)*
+*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/blush-de/)*

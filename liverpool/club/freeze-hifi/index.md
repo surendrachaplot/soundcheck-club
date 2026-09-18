@@ -1,15 +1,13 @@
 # Freeze HiFi
 
-Freeze HiFi is a music venue in Liverpool with 8 upcoming nights listed on soundcheck as of Thu, 17 Sept 2026; the next is "Josh Butler at Freeze Project" on Thu, 17 Sept 2026.
+Freeze HiFi is a music venue in Liverpool with 6 upcoming nights listed on soundcheck as of Fri, 18 Sept 2026; the next is "Freeze Project: Marshall Jefferson" on Sat, 19 Sept 2026.
 
-Freeze HiFi is a music venue in Liverpool listed on soundcheck. 8 upcoming nights, with line-ups including Graeme Park, Greg Wilson, Josh Butler and K-Klass and 2 more. Browse upcoming dates, start times and who's playing. 82 Wood Street, Liverpool, United Kingdom, L1 4DQ.
+Freeze HiFi is a music venue in Liverpool listed on soundcheck. 6 upcoming nights, with line-ups including Graeme Park, Greg Wilson, K-Klass and Marshall Jefferson and 1 more. Browse upcoming dates, start times and who's playing. 82 Wood Street, Liverpool, United Kingdom, L1 4DQ.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Thu, 17 Sept 2026 | Josh Butler at Freeze Project | Josh Butler |
-| Thu, 17 Sept 2026 | Freeze HiFi presents | Josh Butler |
 | Sat, 19 Sept 2026 | Freeze Project: Marshall Jefferson | Marshall Jefferson, Todd Terry |
 | Wed, 23 Sept 2026 | Freeze HiFi presents Greg Wilson & Todd Terry | Greg Wilson, Todd Terry |
 | Sat, 26 Sept 2026 | Freeze HiFi Saturday Nights - Ian Longo Classic House Vinyl Set plus Residents |  |
@@ -21,4 +19,4 @@ Freeze HiFi is a music venue in Liverpool listed on soundcheck. 8 upcoming night
 
 82 Wood Street, Liverpool, United Kingdom, L1 4DQ, Liverpool
 
-*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/liverpool/club/freeze-hifi/)*
+*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/liverpool/club/freeze-hifi/)*

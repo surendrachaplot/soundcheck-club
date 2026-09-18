@@ -1,6 +1,6 @@
 # ABSOLUTE BOUNCE 2000: NSLZ (DE) at MODULE
 
-ABSOLUTE BOUNCE 2000: NSLZ (DE) at MODULE on Fri 18 Sept, Copenhagen. 6 acts on the bill: DJ Dopamina, Emma Priis, FA999 and Frida(y) and 2 more. Trance and Techno. Preview the line-up and save it on soundcheck.
+ABSOLUTE BOUNCE 2000: NSLZ (DE) at MODULE on Fri 18 Sept, Copenhagen. 7 acts on the bill: DJ Dopamina, DJ Spice, Emma Priis and FA999 and 3 more. Trance and Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,6 +11,7 @@ ABSOLUTE BOUNCE 2000: NSLZ (DE) at MODULE on Fri 18 Sept, Copenhagen. 6 acts on 
 ## Line-up
 
 - DJ Dopamina
+- DJ Spice
 - Emma Priis
 - FA999
 - Frida(y)

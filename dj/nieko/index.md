@@ -1,6 +1,6 @@
 # NIEKO
 
-NIEKO is a House and Breakbeat artist with 1 upcoming club date listed on soundcheck as of Thu, 17 Sept 2026, next at Fabrique im Gängeviertel, Hamburg on Fri, 18 Sept 2026.
+NIEKO is a House and Breakbeat artist with 1 upcoming club date listed on soundcheck as of Fri, 18 Sept 2026, next at Fabrique im Gängeviertel, Hamburg on Fri, 18 Sept 2026.
 
 NIEKO is a house and breakbeat artist based in Germany, tracked on soundcheck, with 6 sets logged across Hamburg. Often billed alongside Schott (2), Chayalatte and KLARYOKO. Next up: Fabrique im Gängeviertel, Hamburg on Fri 18 Sept.
 
@@ -22,4 +22,4 @@ NIEKO is a house and breakbeat artist based in Germany, tracked on soundcheck, w
 
 Schott (2), Chayalatte, KLARYOKO
 
-*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nieko/)*
+*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nieko/)*

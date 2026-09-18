@@ -1,6 +1,6 @@
 # Kobosil
 
-Kobosil is a Techno and House artist with 9 upcoming club dates listed on soundcheck as of Thu, 17 Sept 2026, next at Radius, Chicago on Fri, 18 Sept 2026.
+Kobosil is a Techno and House artist with 9 upcoming club dates listed on soundcheck as of Fri, 18 Sept 2026, next at Radius, Chicago on Fri, 18 Sept 2026.
 
 Kobosil is a techno and house artist tracked on soundcheck, with 228 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 59 more. Often billed alongside Somewhen, Clara Cuvé and I Hate Models. Next up: Radius, Chicago on Fri 18 Sept.
 
@@ -33,4 +33,4 @@ Kobosil is a techno and house artist tracked on soundcheck, with 228 sets logged
 
 Somewhen, Clara Cuvé, I Hate Models
 
-*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kobosil/)*
+*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kobosil/)*

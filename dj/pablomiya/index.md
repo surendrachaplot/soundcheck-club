@@ -1,6 +1,6 @@
 # Pablo Miya
 
-Pablo Miya is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Thu, 17 Sept 2026, next at Café de Nadie, Mexico City on Wed, 16 Sept 2026.
+Pablo Miya is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Fri, 18 Sept 2026, next at Café de Nadie, Mexico City on Wed, 16 Sept 2026.
 
 Pablo Miya is a house and deep house artist tracked on soundcheck, with 67 sets logged across Mexicocity. Often billed alongside Miss Voltaghe, Duke Skylocker (Disco Dust) and Lake Chalco. Next up: Café de Nadie, Mexicocity on Wed 16 Sept.
 
@@ -25,4 +25,4 @@ Pablo Miya is a house and deep house artist tracked on soundcheck, with 67 sets 
 
 Miss Voltaghe, Duke Skylocker (Disco Dust), Lake Chalco
 
-*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/pablomiya/)*
+*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/pablomiya/)*

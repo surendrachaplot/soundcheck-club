@@ -1,6 +1,6 @@
 # Acid Attack at Cha Cha Lounge
 
-Acid Attack at Cha Cha Lounge on Sat 19 Sept, Losangeles. Acid and Disco. Preview the line-up and save it on soundcheck.
+Acid Attack at Cha Cha Lounge on Sat 19 Sept, Losangeles. Disco and Acid. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

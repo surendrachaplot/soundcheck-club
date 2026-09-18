@@ -1,6 +1,6 @@
 # OT301
 
-OT301 is a music venue in Amsterdam with 15 upcoming nights listed on soundcheck as of Thu, 17 Sept 2026; the next is "Break-Out x Stoic Music Berlin" on Fri, 18 Sept 2026.
+OT301 is a music venue in Amsterdam with 15 upcoming nights listed on soundcheck as of Fri, 18 Sept 2026; the next is "Break-Out x Stoic Music Berlin" on Fri, 18 Sept 2026.
 
 OT301 is a music venue in Amsterdam listed on soundcheck. 15 upcoming nights, with line-ups including Aili, Alberta Balsam, Anton Quasi and baby ganoush and 2 more. Browse upcoming dates, start times and who's playing. Overtoom 301; 1054 Oud-West; Amsterdam; Netherlands.
 
@@ -23,4 +23,4 @@ OT301 is a music venue in Amsterdam listed on soundcheck. 15 upcoming nights, wi
 
 Overtoom 301; 1054 Oud-West; Amsterdam; Netherlands, Amsterdam
 
-*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/ot301/)*
+*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/ot301/)*

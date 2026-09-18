@@ -1,13 +1,14 @@
 # deBasement
 
-deBasement is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Thu, 17 Sept 2026, next at Radius, Chicago on Fri, 30 Oct 2026.
+deBasement is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Fri, 18 Sept 2026, next at Industry City, New York City on Fri, 30 Oct 2026.
 
-deBasement is a techno and house artist tracked on soundcheck, with 38 sets logged across Amsterdam, Antwerp, Barcelona and Berlin and 16 more. Often billed alongside Marie Davidson, OZA and ARMANA KHAN. Next up: Radius, Chicago on Fri 30 Oct.
+deBasement is a techno and house artist tracked on soundcheck, with 39 sets logged across Amsterdam, Antwerp, Barcelona and Berlin and 16 more. Often billed alongside Marie Davidson, LSDXOXO and OZA. Next up: Industry City, Newyorkcity on Fri 30 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 30 Oct 2026 | Industry City | New York City |
 | Fri, 30 Oct 2026 | Radius | Chicago |
 | Thu, 19 Nov 2026 | Shrine Auditorium and Expo Hall | Los Angeles |
 | Sat, 21 Nov 2026 | The Warfield | San Francisco/Oakland |
@@ -25,6 +26,6 @@ deBasement is a techno and house artist tracked on soundcheck, with 38 sets logg
 
 ## Shares bills with
 
-Marie Davidson, OZA, ARMANA KHAN
+Marie Davidson, LSDXOXO, OZA
 
-*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/debasement/)*
+*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/debasement/)*

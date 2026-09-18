@@ -1,14 +1,15 @@
 # ALTRAX
 
-ALTRAX is a Hardcore and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 17 Sept 2026, next at City Hall, Barcelona on Thu, 24 Sept 2026.
+ALTRAX is a Hardcore and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 18 Sept 2026, next at City Hall, Barcelona on Thu, 24 Sept 2026.
 
-ALTRAX is a hardcore and techno artist based in Spain, tracked on soundcheck, with 7 sets logged across Barcelona. Often billed alongside Hysteria, BreakStyle and CUTIE. Next up: City Hall, Barcelona on Thu 24 Sept.
+ALTRAX is a hardcore and techno artist based in Spain, tracked on soundcheck, with 8 sets logged across Barcelona. Often billed alongside Hysteria, BreakStyle and CUTIE. Next up: City Hall, Barcelona on Thu 24 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Thu, 24 Sept 2026 | City Hall | Barcelona |
+| Sat, 17 Oct 2026 | DETROIT CLUB | Barcelona |
 
 ## Recently played
 
@@ -23,4 +24,4 @@ ALTRAX is a hardcore and techno artist based in Spain, tracked on soundcheck, wi
 
 Hysteria, BreakStyle, CUTIE
 
-*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/altrax/)*
+*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/altrax/)*

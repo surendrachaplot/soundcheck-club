@@ -1,8 +1,8 @@
 # Toman
 
-Toman is a House and Tech House artist with 5 upcoming club dates listed on soundcheck as of Thu, 17 Sept 2026, next at KOKO, London on Fri, 18 Sept 2026.
+Toman is a House and Tech House artist with 6 upcoming club dates listed on soundcheck as of Fri, 18 Sept 2026, next at KOKO, London on Fri, 18 Sept 2026.
 
-Toman is a house and tech house artist tracked on soundcheck, with 160 sets logged across Amsterdam, Barcelona, Basel and Belgrade and 37 more. Often billed alongside ANOTR, Ben Sterling and CHRIS STASSY. Next up: KOKO, London on Fri 18 Sept.
+Toman is a house and tech house artist tracked on soundcheck, with 161 sets logged across Amsterdam, Austin, Barcelona and Basel and 38 more. Often billed alongside ANOTR, Ben Sterling and CHRIS STASSY. Next up: KOKO, London on Fri 18 Sept.
 
 ## Upcoming shows
 
@@ -12,6 +12,7 @@ Toman is a house and tech house artist tracked on soundcheck, with 160 sets logg
 | Sat, 19 Sept 2026 | Cova Santa | Ibiza |
 | Fri, 16 Oct 2026 | Chinois Ibiza | Ibiza |
 | Fri, 23 Oct 2026 | Camarat | Amsterdam |
+| Fri, 6 Nov 2026 | THE BATHS | Austin |
 | Sat, 7 Nov 2026 | Radius | Chicago |
 
 ## Recently played
@@ -29,4 +30,4 @@ Toman is a house and tech house artist tracked on soundcheck, with 160 sets logg
 
 ANOTR, Ben Sterling, CHRIS STASSY
 
-*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/toman/)*
+*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/toman/)*

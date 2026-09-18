@@ -1,8 +1,8 @@
 # CLUB RAUM
 
-CLUB RAUM is a music venue in Amsterdam with 12 upcoming nights listed on soundcheck as of Thu, 17 Sept 2026; the next is "RAUM invites One Eye Witness" on Fri, 18 Sept 2026.
+CLUB RAUM is a music venue in Amsterdam with 13 upcoming nights listed on soundcheck as of Fri, 18 Sept 2026; the next is "RAUM invites One Eye Witness" on Fri, 18 Sept 2026.
 
-CLUB RAUM is a music venue in Amsterdam listed on soundcheck. 12 upcoming nights, with line-ups including Afra, Aldonna, Alex Kassian and annalogue and 2 more. Browse upcoming dates, start times and who's playing. Humberweg 3, 1043 AC Amsterdam.
+CLUB RAUM is a music venue in Amsterdam listed on soundcheck. 13 upcoming nights, with line-ups including Afra, Aldonna, Alex Kassian and annalogue and 2 more. Browse upcoming dates, start times and who's playing. Humberweg 3, 1043 AC Amsterdam.
 
 ## What's on
 
@@ -23,4 +23,4 @@ CLUB RAUM is a music venue in Amsterdam listed on soundcheck. 12 upcoming nights
 
 Humberweg 3, 1043 AC Amsterdam, Amsterdam
 
-*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/club-raum/)*
+*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/club-raum/)*

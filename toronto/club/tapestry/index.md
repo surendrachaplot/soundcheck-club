@@ -1,6 +1,6 @@
 # Tapestry
 
-Tapestry is a music venue in Toronto with 1 upcoming night listed on soundcheck as of Thu, 17 Sept 2026; the next is "Blood Moon" on Fri, 25 Sept 2026.
+Tapestry is a music venue in Toronto with 1 upcoming night listed on soundcheck as of Fri, 18 Sept 2026; the next is "Blood Moon" on Fri, 25 Sept 2026.
 
 Tapestry is a music venue in Toronto listed on soundcheck. 1 upcoming night, with line-ups including XD3SIGN. Browse upcoming dates, start times and who's playing. 224 Augusta Ave..
 
@@ -14,4 +14,4 @@ Tapestry is a music venue in Toronto listed on soundcheck. 1 upcoming night, wit
 
 224 Augusta Ave., Toronto
 
-*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/tapestry/)*
+*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/tapestry/)*

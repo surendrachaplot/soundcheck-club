@@ -1,6 +1,6 @@
 # DJ Semisecco
 
-DJ Semisecco is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 17 Sept 2026, next at ://about blank, Berlin on Fri, 9 Oct 2026.
+DJ Semisecco is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 18 Sept 2026, next at ://about blank, Berlin on Fri, 9 Oct 2026.
 
 DJ Semisecco is a techno and house artist based in Germany, tracked on soundcheck, with 13 sets logged across Berlin and Hamburg. Often billed alongside Anne-Lu, FI3BER and LEAN MARIS. Next up: ://about blank, Berlin on Fri 9 Oct.
 
@@ -25,4 +25,4 @@ DJ Semisecco is a techno and house artist based in Germany, tracked on soundchec
 
 Anne-Lu, FI3BER, LEAN MARIS
 
-*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djsemisecco/)*
+*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djsemisecco/)*

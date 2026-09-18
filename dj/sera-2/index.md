@@ -1,13 +1,14 @@
 # SERA (2)
 
-SERA (2) is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 17 Sept 2026, next at Odonien, Cologne on Sun, 20 Sept 2026.
+SERA (2) is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 18 Sept 2026, next at The Henz Club, Seoul on Fri, 18 Sept 2026.
 
-SERA (2) is a techno and house artist tracked on soundcheck, with 38 sets logged across Berlin, Cologne and Seoul. Often billed alongside Francesco Passantino, KARAYAN and ANDOW. Next up: Odonien, Cologne on Sun 20 Sept.
+SERA (2) is a techno and house artist tracked on soundcheck, with 39 sets logged across Berlin, Cologne and Seoul. Often billed alongside Francesco Passantino, KARAYAN and ANDOW. Next up: The Henz Club, Seoul on Fri 18 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 18 Sept 2026 | The Henz Club | Seoul |
 | Sun, 20 Sept 2026 | Odonien | Cologne |
 
 ## Recently played
@@ -25,4 +26,4 @@ SERA (2) is a techno and house artist tracked on soundcheck, with 38 sets logged
 
 Francesco Passantino, KARAYAN, ANDOW
 
-*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sera-2/)*
+*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sera-2/)*

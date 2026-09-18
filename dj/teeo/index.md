@@ -1,6 +1,6 @@
 # Teeo
 
-Teeo is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Thu, 17 Sept 2026, next at Q35 WAREHOUSE, Turin on Sat, 19 Sept 2026.
+Teeo is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Fri, 18 Sept 2026, next at Q35 WAREHOUSE, Turin on Sat, 19 Sept 2026.
 
 Teeo is a techno and house artist based in Albania, tracked on soundcheck, with 31 sets logged across Milan and Turin. Often billed alongside Allegretti, Aberra and Mike Esse. Next up: Q35 WAREHOUSE, Turin on Sat 19 Sept.
 
@@ -28,4 +28,4 @@ Teeo is a techno and house artist based in Albania, tracked on soundcheck, with 
 
 Allegretti, Aberra, Mike Esse
 
-*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/teeo/)*
+*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/teeo/)*

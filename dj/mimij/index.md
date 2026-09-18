@@ -1,6 +1,6 @@
 # Mimi J
 
-Mimi J is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 17 Sept 2026, next at TBA, Sydney on Sat, 19 Sept 2026.
+Mimi J is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 18 Sept 2026, next at TBA, Sydney on Sat, 19 Sept 2026.
 
 Mimi J is a house and techno artist tracked on soundcheck, with 64 sets logged across Sydney. Often billed alongside Bouki, LEVOS and DAUG. Next up: TBA, Sydney on Sat 19 Sept.
 
@@ -26,4 +26,4 @@ Mimi J is a house and techno artist tracked on soundcheck, with 64 sets logged a
 
 Bouki, LEVOS, DAUG
 
-*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mimij/)*
+*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mimij/)*

@@ -1,8 +1,8 @@
 # Shelter Amsterdam
 
-Shelter Amsterdam is a music venue in Amsterdam with 20 upcoming nights listed on soundcheck as of Thu, 17 Sept 2026; the next is "Prunk ALL NIGHT LONG" on Fri, 18 Sept 2026.
+Shelter Amsterdam is a music venue in Amsterdam with 28 upcoming nights listed on soundcheck as of Fri, 18 Sept 2026; the next is "Prunk ALL NIGHT LONG" on Fri, 18 Sept 2026.
 
-Shelter Amsterdam is a music venue in Amsterdam listed on soundcheck. 20 upcoming nights, with line-ups including 36framez, A For Alpha, Ajuma and Ammé and 2 more. Browse upcoming dates, start times and who's playing. Overhoeksplein 3, 1031KS, Amsterdam.
+Shelter Amsterdam is a music venue in Amsterdam listed on soundcheck. 28 upcoming nights, with line-ups including 36framez, A'DAM, A For Alpha and Ajuma and 2 more. Browse upcoming dates, start times and who's playing. Overhoeksplein 3, 1031KS, Amsterdam.
 
 ## What's on
 
@@ -23,4 +23,4 @@ Shelter Amsterdam is a music venue in Amsterdam listed on soundcheck. 20 upcomin
 
 Overhoeksplein 3, 1031KS, Amsterdam, Amsterdam
 
-*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/shelter-amsterdam/)*
+*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/shelter-amsterdam/)*

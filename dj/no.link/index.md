@@ -1,8 +1,8 @@
 # NO.LINK
 
-NO.LINK is a Techno and Electro artist with 3 upcoming club dates listed on soundcheck as of Thu, 17 Sept 2026, next at Stoked&stoned, Seoul on Mon, 14 Sept 2026.
+NO.LINK is a Techno and Electro artist with 4 upcoming club dates listed on soundcheck as of Fri, 18 Sept 2026, next at Stoked&stoned, Seoul on Mon, 14 Sept 2026.
 
-NO.LINK is a techno and electro artist tracked on soundcheck, with 100 sets logged across Seoul. Often billed alongside Honn, MOVIN.KR and Apachi. Next up: Stoked&stoned, Seoul on Mon 14 Sept.
+NO.LINK is a techno and electro artist tracked on soundcheck, with 101 sets logged across Seoul. Often billed alongside Honn, MOVIN.KR and Apachi. Next up: Stoked&stoned, Seoul on Mon 14 Sept.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ NO.LINK is a techno and electro artist tracked on soundcheck, with 100 sets logg
 | --- | --- | --- |
 | Mon, 14 Sept 2026 | Stoked&stoned | Seoul |
 | Fri, 18 Sept 2026 | Stoked&stoned | Seoul |
+| Fri, 25 Sept 2026 | Bolero | Seoul |
 | Fri, 25 Sept 2026 | Bolero | Seoul |
 
 ## Recently played
@@ -27,4 +28,4 @@ NO.LINK is a techno and electro artist tracked on soundcheck, with 100 sets logg
 
 Honn, MOVIN.KR, Apachi
 
-*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/no.link/)*
+*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/no.link/)*

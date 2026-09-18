@@ -1,6 +1,6 @@
 # JM Moser
 
-JM Moser is a Techno and Club artist with 2 upcoming club dates listed on soundcheck as of Thu, 17 Sept 2026, next at TBA - NK, Berlin on Sun, 20 Sept 2026.
+JM Moser is a Techno and Club artist with 2 upcoming club dates listed on soundcheck as of Fri, 18 Sept 2026, next at TBA - NK, Berlin on Sun, 20 Sept 2026.
 
 JM Moser is a techno and club artist tracked on soundcheck, with 14 sets logged across Berlin, London and Newyorkcity. Often billed alongside DJ Fart in the Club, Bell Towers and DJ CHICHI. Next up: TBA - NK, Berlin on Sun 20 Sept.
 
@@ -26,4 +26,4 @@ JM Moser is a techno and club artist tracked on soundcheck, with 14 sets logged 
 
 DJ Fart in the Club, Bell Towers, DJ CHICHI
 
-*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jmmoser/)*
+*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jmmoser/)*

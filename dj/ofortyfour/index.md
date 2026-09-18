@@ -1,14 +1,15 @@
 # O'FortyFour
 
-O'FortyFour is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Thu, 17 Sept 2026, next at Kaskada, Warsaw on Fri, 25 Sept 2026.
+O'FortyFour is a House and Minimal artist with 2 upcoming club dates listed on soundcheck as of Fri, 18 Sept 2026, next at Kaskada, Warsaw on Fri, 25 Sept 2026.
 
-O'FortyFour is a house and minimal artist tracked on soundcheck, with 11 sets logged across Barcelona, Berlin, Newyorkcity and Warsaw. Often billed alongside Noizar, pahatam and Alex Picone. Next up: Kaskada, Warsaw on Fri 25 Sept.
+O'FortyFour is a house and minimal artist tracked on soundcheck, with 12 sets logged across Barcelona, Berlin, Krakow and Newyorkcity and 1 more. Often billed alongside Kurilo, Noizar and pahatam. Next up: Kaskada, Warsaw on Fri 25 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 25 Sept 2026 | Kaskada | Warsaw |
+| Sat, 26 Sept 2026 | Sekta Selekta | Krakow |
 
 ## Recently played
 
@@ -23,6 +24,6 @@ O'FortyFour is a house and minimal artist tracked on soundcheck, with 11 sets lo
 
 ## Shares bills with
 
-Noizar, pahatam, Alex Picone
+Kurilo, Noizar, pahatam
 
-*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ofortyfour/)*
+*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ofortyfour/)*

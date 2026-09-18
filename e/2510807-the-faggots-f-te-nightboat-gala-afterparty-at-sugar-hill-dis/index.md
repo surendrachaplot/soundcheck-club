@@ -1,6 +1,6 @@
 # The Faggots Fête: Nightboat Gala Afterparty at Sugar Hill Disco
 
-The Faggots Fête: Nightboat Gala Afterparty at Sugar Hill Disco on Tue 6 Oct, Newyorkcity. 1 act on the bill: Juliana Huxtable. Techno. Preview the line-up and save it on soundcheck.
+The Faggots Fête: Nightboat Gala Afterparty at Sugar Hill Disco on Tue 6 Oct, Newyorkcity. 3 acts on the bill: DJPT, Juliana Huxtable and Soo Intoit. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,8 @@ The Faggots Fête: Nightboat Gala Afterparty at Sugar Hill Disco on Tue 6 Oct, N
 
 ## Line-up
 
+- DJPT
 - Juliana Huxtable
+- Soo Intoit
 
 *Source: [soundcheck](https://soundcheck.club/e/2510807-the-faggots-f-te-nightboat-gala-afterparty-at-sugar-hill-dis/)*

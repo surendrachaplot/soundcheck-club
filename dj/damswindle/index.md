@@ -1,6 +1,6 @@
 # Dam Swindle
 
-Dam Swindle is a House and Disco artist with 12 upcoming club dates listed on soundcheck as of Thu, 17 Sept 2026, next at BRET, Amsterdam on Fri, 18 Sept 2026.
+Dam Swindle is a House and Disco artist with 12 upcoming club dates listed on soundcheck as of Fri, 18 Sept 2026, next at BRET, Amsterdam on Fri, 18 Sept 2026.
 
 Dam Swindle is a house and disco artist tracked on soundcheck, with 189 sets logged across Amsterdam, Antwerp, Austin and Bali and 42 more. Often billed alongside D Stone, BELLA (NL) and Cinthie. Next up: BRET, Amsterdam on Fri 18 Sept.
 
@@ -36,4 +36,4 @@ Dam Swindle is a house and disco artist tracked on soundcheck, with 189 sets log
 
 D Stone, BELLA (NL), Cinthie
 
-*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/damswindle/)*
+*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/damswindle/)*

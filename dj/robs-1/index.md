@@ -1,13 +1,14 @@
 # Robs (1)
 
-Robs (1) is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 17 Sept 2026, next at B2 Rīga, Riga on Fri, 9 Oct 2026.
+Robs (1) is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 18 Sept 2026, next at TBA - Secret Location, Berlin on Sat, 3 Oct 2026.
 
-Robs (1) is a house and techno artist tracked on soundcheck, with 19 sets logged across Berlin, Frankfurt, Ghent and London and 5 more. Often billed alongside Rickie (Overground), Rickie and Binh. Next up: B2 Rīga, Riga on Fri 9 Oct.
+Robs (1) is a techno and house artist tracked on soundcheck, with 20 sets logged across Berlin, Frankfurt, Ghent and London and 5 more. Often billed alongside Rickie (Overground), Rickie and Ancut. Next up: TBA - Secret Location, Berlin on Sat 3 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 3 Oct 2026 | TBA - Secret Location | Berlin |
 | Fri, 9 Oct 2026 | B2 Rīga | Riga |
 
 ## Recently played
@@ -23,6 +24,6 @@ Robs (1) is a house and techno artist tracked on soundcheck, with 19 sets logged
 
 ## Shares bills with
 
-Rickie (Overground), Rickie, Binh
+Rickie (Overground), Rickie, Ancut
 
-*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/robs-1/)*
+*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/robs-1/)*

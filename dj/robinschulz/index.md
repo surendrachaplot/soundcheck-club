@@ -1,8 +1,8 @@
 # Robin Schulz
 
-Robin Schulz is a House and Electro artist with 3 upcoming club dates listed on soundcheck as of Thu, 17 Sept 2026, next at Pacha Ibiza, Ibiza on Sat, 19 Sept 2026.
+Robin Schulz is a House and Electro artist with 4 upcoming club dates listed on soundcheck as of Fri, 18 Sept 2026, next at Pacha Ibiza, Ibiza on Sat, 19 Sept 2026.
 
-Robin Schulz is a house and electro artist based in Germany, tracked on soundcheck, with 73 sets logged across Barcelona, Bucharest, Cologne and Denver and 14 more. Often billed alongside LOVRA, Sunnery James & Ryan Marciano and MistaJam. Next up: Pacha Ibiza, Ibiza on Sat 19 Sept.
+Robin Schulz is a house and electro artist based in Germany, tracked on soundcheck, with 74 sets logged across Barcelona, Bucharest, Cologne and Denver and 14 more. Often billed alongside LOVRA, Sunnery James & Ryan Marciano and MistaJam. Next up: Pacha Ibiza, Ibiza on Sat 19 Sept.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ Robin Schulz is a house and electro artist based in Germany, tracked on soundche
 | Sat, 19 Sept 2026 | Pacha Ibiza | Ibiza |
 | Sat, 26 Sept 2026 | Pacha Ibiza | Ibiza |
 | Sat, 3 Oct 2026 | Pacha Ibiza | Ibiza |
+| Fri, 16 Oct 2026 | Kaufleuten | Zurich |
 
 ## Recently played
 
@@ -27,4 +28,4 @@ Robin Schulz is a house and electro artist based in Germany, tracked on soundche
 
 LOVRA, Sunnery James & Ryan Marciano, MistaJam
 
-*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/robinschulz/)*
+*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/robinschulz/)*

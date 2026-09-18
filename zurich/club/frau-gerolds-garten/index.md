@@ -1,6 +1,6 @@
 # Frau Gerolds Garten
 
-Frau Gerolds Garten is a music venue in Zurich with 1 upcoming night listed on soundcheck as of Thu, 17 Sept 2026; the next is "Frau Gerolds Garten - SEASON CLOSING" on Sat, 19 Sept 2026.
+Frau Gerolds Garten is a music venue in Zurich with 1 upcoming night listed on soundcheck as of Fri, 18 Sept 2026; the next is "Frau Gerolds Garten - SEASON CLOSING" on Sat, 19 Sept 2026.
 
 Frau Gerolds Garten is a music venue in Zurich listed on soundcheck. 1 upcoming night, with line-ups including Caromelle, KEKURA, Manuel Moreno and YOTAKHI. Browse upcoming dates, start times and who's playing. Geroldstrasse 23, 8005 Zürich, Switzerland.
 
@@ -14,4 +14,4 @@ Frau Gerolds Garten is a music venue in Zurich listed on soundcheck. 1 upcoming 
 
 Geroldstrasse 23, 8005 Zürich, Switzerland, Zurich
 
-*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/zurich/club/frau-gerolds-garten/)*
+*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/zurich/club/frau-gerolds-garten/)*

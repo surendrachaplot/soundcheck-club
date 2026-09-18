@@ -1,6 +1,6 @@
 # THE OTHER SIDE
 
-THE OTHER SIDE is a music venue in Amsterdam with 11 upcoming nights listed on soundcheck as of Thu, 17 Sept 2026; the next is "Space Society" on Fri, 18 Sept 2026.
+THE OTHER SIDE is a music venue in Amsterdam with 11 upcoming nights listed on soundcheck as of Fri, 18 Sept 2026; the next is "Space Society" on Fri, 18 Sept 2026.
 
 THE OTHER SIDE is a music venue in Amsterdam listed on soundcheck. 11 upcoming nights, with line-ups including Absoluut, Alberta Balsam, Alex (ES) and Annett Gapstream and 2 more. Browse upcoming dates, start times and who's playing. Rigakade 10, 1013BC, Amsterdam, The Netherlands.
 
@@ -12,7 +12,7 @@ THE OTHER SIDE is a music venue in Amsterdam listed on soundcheck. 11 upcoming n
 | Fri, 25 Sept 2026 | Drum 'n Babes Amsterdam with Adi-J ft. Rhode, Hexter, Ili, Lirios and Odyssey |  |
 | Sat, 3 Oct 2026 | Closer presents Miss Melera Mitch de Klein Thysma |  |
 | Wed, 21 Oct 2026 | Hardt Antoine pres. TGTHER: Trikk, MĪMĪ x FY, Pattn | Hardt Antoine, MĪMĪ x FY, Pattn, Trikk |
-| Wed, 21 Oct 2026 | FULL CYCLE: A# + Nadia Struiwigh [[Spatial Audio Live Concerts] | Alberta Balsam, Bastian Benjamin, French II, Milio, Nadia Struiwigh |
+| Wed, 21 Oct 2026 | FULL CYCLE: A# + Nadia Struiwigh [Spatial Audio Live Concerts] | Alberta Balsam, Bastian Benjamin, French II, Milio, Nadia Struiwigh |
 | Thu, 22 Oct 2026 | SLPFNK X THE OTHERSIDE | Beste Hira, DJ Spence, Idilay, Kyra Khaldi, Loradeniz, PLO Man, Samuel Deep, TAFKAMP, Tommy Chikara |
 | Thu, 22 Oct 2026 | FULL CYCLE: Giorgia Angiuli + Natascha Polké [Spatial Audio Live Concert] | Giorgia Angiuli, Natascha Polké |
 | Fri, 23 Oct 2026 | Kater on THE OTHER SIDE | Aron Friedman, Borella, Britta Arnold, Caleesi, Chris Schwarzwälder, Franca, Mira, Sarah Kreis |
@@ -23,4 +23,4 @@ THE OTHER SIDE is a music venue in Amsterdam listed on soundcheck. 11 upcoming n
 
 Rigakade 10, 1013BC, Amsterdam, The Netherlands, Amsterdam
 
-*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/the-other-side/)*
+*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/the-other-side/)*

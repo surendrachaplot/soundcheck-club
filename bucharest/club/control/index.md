@@ -1,6 +1,6 @@
 # control
 
-control is a music venue in Bucharest with 9 upcoming nights listed on soundcheck as of Thu, 17 Sept 2026; the next is "PA!SA!KA! with ELIZABETE BALČUS feat. KnotK [LIVE], Katya Kóv, Monika Seta, Moteris" on Fri, 18 Sept 2026.
+control is a music venue in Bucharest with 9 upcoming nights listed on soundcheck as of Fri, 18 Sept 2026; the next is "PA!SA!KA! with ELIZABETE BALČUS feat. KnotK [LIVE], Katya Kóv, Monika Seta, Moteris" on Fri, 18 Sept 2026.
 
 control is a music venue in Bucharest listed on soundcheck. 9 upcoming nights, with line-ups including Acid Arab, AEREA, A Guy Called Gerald and aim+wall and 2 more. Browse upcoming dates, start times and who's playing. Str. Constantin Mille, nr. 4, 010142 Bucharest, Romania.
 
@@ -11,7 +11,7 @@ control is a music venue in Bucharest listed on soundcheck. 9 upcoming nights, w
 | Fri, 18 Sept 2026 | PA!SA!KA! with ELIZABETE BALČUS feat. KnotK [LIVE], Katya Kóv, Monika Seta, Moteris | ELIZABETE BALČUS, Katya Kóv, Monika Seta, Moteris |
 | Sat, 19 Sept 2026 | Black Rhino Residency: Neighbourhood Warriors | ANIN, Alexandra, Alexandra (2), Drao, Gheordu, Low Freq, Riddim Bandits, tia (2) |
 | Thu, 24 Sept 2026 | ctrl x aim+wall present: A Guy Called Gerald [UK][LIVE] | A Guy Called Gerald, aim+wall |
-| Fri, 25 Sept 2026 | AEREA [DE/ES] [LIVE] | AEREA |
+| Fri, 25 Sept 2026 | AEREA [DE/ES] [LIVE], DA NA, 2H34RTB34TS | AEREA |
 | Fri, 2 Oct 2026 | ctrl18: Acid Arab [FR] | Acid Arab |
 | Sat, 3 Oct 2026 | ctrl18: Roman Flügel [DE], Khidja [RO/DE], Baron P., Corvin, Von Bülove, Iulian Morar | Khidja, Roman Flügel, Von Bülove |
 | Fri, 23 Oct 2026 | System Olympia [UK] | System Olympia |
@@ -22,4 +22,4 @@ control is a music venue in Bucharest listed on soundcheck. 9 upcoming nights, w
 
 Str. Constantin Mille, nr. 4, 010142 Bucharest, Romania, Bucharest
 
-*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/bucharest/club/control/)*
+*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/bucharest/club/control/)*

@@ -1,6 +1,6 @@
 # THE WIRE: SECRET LONDON AFTERHOURS - PRIVATE EVENT at TBA - EAST LONDON - Announced to ticket holders on the day
 
-THE WIRE: SECRET LONDON AFTERHOURS - PRIVATE EVENT at TBA - EAST LONDON - Announced to ticket holders on the day on Fri 18 Sept, London. 6 acts on the bill: Any Koh, Dimanté, Moonz and Phåro (2) and 2 more. Preview the line-up and save it on soundcheck.
+THE WIRE: SECRET LONDON AFTERHOURS - PRIVATE EVENT at TBA - EAST LONDON - Announced to ticket holders on the day on Fri 18 Sept, London. 6 acts on the bill: Any Koh, Dimanté, Moonz and Phåro (2) and 2 more. Progressive House and Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

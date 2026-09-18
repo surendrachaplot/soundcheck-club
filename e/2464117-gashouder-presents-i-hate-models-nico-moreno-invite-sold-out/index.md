@@ -1,6 +1,6 @@
 # GASHOUDER presents: I Hate Models & Nico Moreno Invite [Sold Out] at GASHOUDER
 
-GASHOUDER presents: I Hate Models & Nico Moreno Invite [Sold Out] on Thu 22 Oct, Amsterdam. 3 acts on the bill: I Hate Models, Maudux and Nico Moreno. Techno. Preview the line-up and save it on soundcheck.
+GASHOUDER presents: I Hate Models & Nico Moreno Invite [Sold Out] on Thu 22 Oct, Amsterdam. 4 acts on the bill: EMILIJA, I Hate Models, Maudux and Nico Moreno. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ GASHOUDER presents: I Hate Models & Nico Moreno Invite [Sold Out] on Thu 22 Oct,
 
 ## Line-up
 
+- EMILIJA
 - I Hate Models
 - Maudux
 - Nico Moreno

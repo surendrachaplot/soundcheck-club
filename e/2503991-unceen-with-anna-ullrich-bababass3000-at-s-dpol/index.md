@@ -1,6 +1,6 @@
 # unceen with Anna Ullrich & BabaBass3000 at Südpol
 
-unceen with Anna Ullrich & BabaBass3000 at Südpol on Fri 25 Sept, Hamburg. 5 acts on the bill: Anna Ullrich, BabaBass3000, Rittmus and Shilo and 1 more. Trance and House. Preview the line-up and save it on soundcheck.
+unceen with Anna Ullrich & BabaBass3000 at Südpol on Fri 25 Sept, Hamburg. 7 acts on the bill: Anna Ullrich, BabaBass3000, Filou (DE) and milène and 3 more. Trance and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -12,6 +12,8 @@ unceen with Anna Ullrich & BabaBass3000 at Südpol on Fri 25 Sept, Hamburg. 5 ac
 
 - Anna Ullrich
 - BabaBass3000
+- Filou (DE)
+- milène
 - Rittmus
 - Shilo
 - Suay Aenna

@@ -1,6 +1,6 @@
 # OBSCITHEA - 'The Sun will rise' at TBA
 
-OBSCITHEA - 'The Sun will rise' at TBA on Fri 2 Oct, Berlin. Trance and Dub Techno. Preview the line-up and save it on soundcheck.
+OBSCITHEA - 'The Sun will rise' at TBA on Fri 2 Oct, Berlin. Dub and Dub Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

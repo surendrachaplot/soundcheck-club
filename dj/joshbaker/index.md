@@ -1,14 +1,13 @@
 # Josh Baker
 
-Josh Baker is a House and Tech House artist with 13 upcoming club dates listed on soundcheck as of Thu, 17 Sept 2026, next at Amnesia Ibiza, Ibiza on Thu, 17 Sept 2026.
+Josh Baker is a House and Tech House artist with 12 upcoming club dates listed on soundcheck as of Fri, 18 Sept 2026, next at TBA, Lisbon on Fri, 18 Sept 2026.
 
-Josh Baker is a house and tech house artist tracked on soundcheck, with 229 sets logged across Aberdeen, Amsterdam, Austin and Bali and 52 more. Often billed alongside Max Dean, Rossi and Prospa. Next up: Amnesia Ibiza, Ibiza on Thu 17 Sept.
+Josh Baker is a house and tech house artist tracked on soundcheck, with 229 sets logged across Aberdeen, Amsterdam, Austin and Bali and 52 more. Often billed alongside Max Dean, Rossi and Prospa. Next up: TBA, Lisbon on Fri 18 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Thu, 17 Sept 2026 | Amnesia Ibiza | Ibiza |
 | Fri, 18 Sept 2026 | TBA | Lisbon |
 | Sat, 19 Sept 2026 | Riithalle | Zurich |
 | Sun, 20 Sept 2026 | Amnesia Ibiza | Ibiza |
@@ -20,9 +19,11 @@ Josh Baker is a house and tech house artist tracked on soundcheck, with 229 sets
 | Sun, 25 Oct 2026 | GASHOUDER | Amsterdam |
 | Thu, 19 Nov 2026 | Substation | Seattle |
 | Sun, 22 Nov 2026 | Beach House San Diego | San Diego |
+| Fri, 27 Nov 2026 | Radius | Chicago |
 
 ## Recently played
 
+- Amnesia Ibiza, Ibiza — Thu, 17 Sept 2026
 - Jardins de Joan Brossa, Barcelona — Sun, 13 Sept 2026
 - Amnesia Ibiza, Ibiza — Thu, 10 Sept 2026
 - A.i Warehouse, Washington DC — Sat, 5 Sept 2026
@@ -30,10 +31,9 @@ Josh Baker is a house and tech house artist tracked on soundcheck, with 229 sets
 - Amnesia Ibiza, Ibiza — Thu, 3 Sept 2026
 - Amnesia Ibiza, Ibiza — Tue, 1 Sept 2026
 - Amnesia Ibiza, Ibiza — Thu, 27 Aug 2026
-- Amnesia Ibiza, Ibiza — Thu, 20 Aug 2026
 
 ## Shares bills with
 
 Max Dean, Rossi, Prospa
 
-*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/joshbaker/)*
+*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/joshbaker/)*

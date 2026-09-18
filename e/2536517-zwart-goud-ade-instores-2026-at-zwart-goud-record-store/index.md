@@ -1,6 +1,6 @@
 # Zwart Goud ADE INSTORES 2026 at Zwart Goud Record Store
 
-Zwart Goud ADE INSTORES 2026 at Zwart Goud Record Store on Wed 21 Oct, Amsterdam. 12 acts on the bill: BASHKKA, Bradley Zero, Emerald and Jasmín and 8 more. Preview the line-up and save it on soundcheck.
+Zwart Goud ADE INSTORES 2026 at Zwart Goud Record Store on Wed 21 Oct, Amsterdam. 13 acts on the bill: ANNĒ, BASHKKA, Bradley Zero and Emerald and 9 more. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ Zwart Goud ADE INSTORES 2026 at Zwart Goud Record Store on Wed 21 Oct, Amsterdam
 
 ## Line-up
 
+- ANNĒ
 - BASHKKA
 - Bradley Zero
 - Emerald

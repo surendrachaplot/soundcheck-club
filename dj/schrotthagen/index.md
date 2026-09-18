@@ -1,6 +1,6 @@
 # Schrotthagen
 
-Schrotthagen is a Techno and Trance artist with 13 upcoming club dates listed on soundcheck as of Thu, 17 Sept 2026, next at Het Sieraad, Amsterdam on Fri, 18 Sept 2026.
+Schrotthagen is a Techno and Trance artist with 13 upcoming club dates listed on soundcheck as of Fri, 18 Sept 2026, next at Het Sieraad, Amsterdam on Fri, 18 Sept 2026.
 
 Schrotthagen is a techno and trance artist tracked on soundcheck, with 51 sets logged across Amsterdam, Barcelona, Basel and Berlin and 19 more. Often billed alongside A.N.I., PRADA2000 and Somewhen. Next up: Het Sieraad, Amsterdam on Fri 18 Sept.
 
@@ -36,4 +36,4 @@ Schrotthagen is a techno and trance artist tracked on soundcheck, with 51 sets l
 
 A.N.I., PRADA2000, Somewhen
 
-*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/schrotthagen/)*
+*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/schrotthagen/)*

@@ -1,6 +1,6 @@
 # WaterBear Venue
 
-WaterBear Venue is a music venue in Brighton with 3 upcoming nights listed on soundcheck as of Thu, 17 Sept 2026; the next is "Berlin presents Juliet Sikora" on Sat, 19 Sept 2026.
+WaterBear Venue is a music venue in Brighton with 3 upcoming nights listed on soundcheck as of Fri, 18 Sept 2026; the next is "Berlin presents Juliet Sikora" on Sat, 19 Sept 2026.
 
 WaterBear Venue is a music venue in Brighton listed on soundcheck. 3 upcoming nights, with line-ups including Caroline Banx, Dave Angel, Heiko Geritzmann and Juliet Sikora and 2 more. Browse upcoming dates, start times and who's playing. Kings Road Arches, 169-170, Brighton, BN1 1NB.
 
@@ -16,4 +16,4 @@ WaterBear Venue is a music venue in Brighton listed on soundcheck. 3 upcoming ni
 
 Kings Road Arches, 169-170, Brighton, BN1 1NB, Brighton
 
-*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/brighton/club/waterbear-venue/)*
+*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/brighton/club/waterbear-venue/)*

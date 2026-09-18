@@ -1,6 +1,6 @@
 # Love Connection
 
-Love Connection is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Thu, 17 Sept 2026, next at Arca, Milan on Sat, 3 Oct 2026.
+Love Connection is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Fri, 18 Sept 2026, next at Arca, Milan on Sat, 3 Oct 2026.
 
 Love Connection is a house and disco artist tracked on soundcheck, with 18 sets logged across London, Madrid, Milan and Tbilisi. Often billed alongside JOSH FB, Adriano Scopece and Dirty Channels. Next up: Arca, Milan on Sat 3 Oct.
 
@@ -25,4 +25,4 @@ Love Connection is a house and disco artist tracked on soundcheck, with 18 sets 
 
 JOSH FB, Adriano Scopece, Dirty Channels
 
-*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/loveconnection/)*
+*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/loveconnection/)*

@@ -1,8 +1,8 @@
 # Funk Tribu
 
-Funk Tribu is a Techno and Trance artist with 11 upcoming club dates listed on soundcheck as of Thu, 17 Sept 2026, next at SWG3, Glasgow on Fri, 18 Sept 2026.
+Funk Tribu is a Techno and Trance artist with 12 upcoming club dates listed on soundcheck as of Fri, 18 Sept 2026, next at SWG3, Glasgow on Fri, 18 Sept 2026.
 
-Funk Tribu is a techno and trance artist tracked on soundcheck, with 172 sets logged across Amsterdam, Antwerp, Athens and Austin and 55 more. Often billed alongside Bad Boombox, 999999999 and Azyr. Next up: SWG3, Glasgow on Fri 18 Sept.
+Funk Tribu is a techno and trance artist tracked on soundcheck, with 173 sets logged across Amsterdam, Antwerp, Athens and Austin and 55 more. Often billed alongside Bad Boombox, 999999999 and Azyr. Next up: SWG3, Glasgow on Fri 18 Sept.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ Funk Tribu is a techno and trance artist tracked on soundcheck, with 172 sets lo
 | Fri, 18 Sept 2026 | SWG3 | Glasgow |
 | Fri, 25 Sept 2026 | Studio Club Malaga | Malaga |
 | Sat, 26 Sept 2026 | Mondo Open Air | Madrid |
+| Sat, 26 Sept 2026 | Mondo | Madrid |
 | Mon, 28 Sept 2026 | [UNVRS] | Ibiza |
 | Sat, 10 Oct 2026 | Factory Town | Miami |
 | Thu, 15 Oct 2026 | The Concourse Project | Austin |
@@ -35,4 +36,4 @@ Funk Tribu is a techno and trance artist tracked on soundcheck, with 172 sets lo
 
 Bad Boombox, 999999999, Azyr
 
-*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/funktribu/)*
+*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/funktribu/)*

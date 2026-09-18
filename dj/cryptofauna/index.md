@@ -1,6 +1,6 @@
 # Cryptofauna
 
-Cryptofauna is a Techno and Trance artist with 3 upcoming club dates listed on soundcheck as of Thu, 17 Sept 2026, next at Tokonoma Club, Frankfurt on Sat, 19 Sept 2026.
+Cryptofauna is a Techno and Trance artist with 3 upcoming club dates listed on soundcheck as of Fri, 18 Sept 2026, next at Tokonoma Club, Frankfurt on Sat, 19 Sept 2026.
 
 Cryptofauna is a techno and trance artist tracked on soundcheck, with 134 sets logged across Amsterdam, Berlin, Cologne and Copenhagen and 17 more. Often billed alongside Carly Zeng, Faerber and ENNIO. Next up: Tokonoma Club, Frankfurt on Sat 19 Sept.
 
@@ -27,4 +27,4 @@ Cryptofauna is a techno and trance artist tracked on soundcheck, with 134 sets l
 
 Carly Zeng, Faerber, ENNIO
 
-*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/cryptofauna/)*
+*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/cryptofauna/)*

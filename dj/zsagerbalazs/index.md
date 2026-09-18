@@ -1,6 +1,6 @@
 # ZSÁGER BALÁZS
 
-ZSÁGER BALÁZS is a Experimental and Ambient artist with 1 upcoming club date listed on soundcheck as of Thu, 17 Sept 2026, next at ÆDEN, Berlin on Fri, 18 Sept 2026.
+ZSÁGER BALÁZS is a Experimental and Ambient artist with 1 upcoming club date listed on soundcheck as of Fri, 18 Sept 2026, next at ÆDEN, Berlin on Fri, 18 Sept 2026.
 
 ZSÁGER BALÁZS is an experimental and ambient artist based in Hungary, tracked on soundcheck, with 15 sets logged across Berlin, Budapest and Malta. Often billed alongside Disandat, Garpo and Kalumet. Next up: ÆDEN, Berlin on Fri 18 Sept.
 
@@ -25,4 +25,4 @@ ZSÁGER BALÁZS is an experimental and ambient artist based in Hungary, tracked 
 
 Disandat, Garpo, Kalumet
 
-*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/zsagerbalazs/)*
+*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/zsagerbalazs/)*

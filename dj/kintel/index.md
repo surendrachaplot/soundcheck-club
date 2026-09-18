@@ -1,6 +1,6 @@
 # KINTEL
 
-KINTEL is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Thu, 17 Sept 2026, next at Tempio del Futuro Perduto, Milan on Fri, 25 Sept 2026.
+KINTEL is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Fri, 18 Sept 2026, next at Tempio del Futuro Perduto, Milan on Fri, 25 Sept 2026.
 
 KINTEL is a house and deep house artist based in Germany, tracked on soundcheck, with 15 sets logged across Berlin and Milan. Often billed alongside cliff, BUTZ and Fletchy Boy. Next up: Tempio del Futuro Perduto, Milan on Fri 25 Sept.
 
@@ -25,4 +25,4 @@ KINTEL is a house and deep house artist based in Germany, tracked on soundcheck,
 
 cliff, BUTZ, Fletchy Boy
 
-*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kintel/)*
+*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kintel/)*

@@ -1,8 +1,8 @@
 # AUX Club
 
-AUX Club is a music venue in Athens with 8 upcoming nights listed on soundcheck as of Thu, 17 Sept 2026; the next is "FOMO w\ Danny Wabbit" on Fri, 18 Sept 2026.
+AUX Club is a music venue in Athens with 9 upcoming nights listed on soundcheck as of Fri, 18 Sept 2026; the next is "FOMO w\ Danny Wabbit" on Fri, 18 Sept 2026.
 
-AUX Club is a music venue in Athens listed on soundcheck. 8 upcoming nights, with line-ups including Alma Libre, Archangel (2), Até. and BIIA and 2 more. Browse upcoming dates, start times and who's playing. Agiou Orous 15, Athina 104 47, Greece.
+AUX Club is a music venue in Athens listed on soundcheck. 9 upcoming nights, with line-ups including Alma Libre, Archangel (2), Até. and BASS VIP and 2 more. Browse upcoming dates, start times and who's playing. Agiou Orous 15, Athina 104 47, Greece.
 
 ## What's on
 
@@ -14,6 +14,7 @@ AUX Club is a music venue in Athens listed on soundcheck. 8 upcoming nights, wit
 | Sat, 26 Sept 2026 | VLCT x SIGNAL w/ SPFDJ & KTK at aux: club | KTK (DE), SALIN, SPFDJ |
 | Fri, 2 Oct 2026 | aux: velocity opening with Speedy J | Até., Cirkle, Speedy J |
 | Sat, 3 Oct 2026 | 422:Mass Season Opening & 2 Years Anniversary  Saturday, 3 October — AUX Club | Imperium, MATEA, siasios |
+| Sat, 10 Oct 2026 | 20 years Urban Danja with Current Value (DE) | BASS VIP, Current Value, Insom, Type Zero, Unified Method |
 | Sat, 24 Oct 2026 | VLCT x BOILER HOUSE pres. BIIA ALL NIGHT LONG | BIIA |
 | Tue, 27 Oct 2026 | VLCT ZERO x SIGNAL 12 HOURS w/ Function, Philippa Pacho, BLANKA | BLANKA, Cirkle, Danya (DE), Function, Phil Berg, Philippa Pacho, Toobris |
 
@@ -21,4 +22,4 @@ AUX Club is a music venue in Athens listed on soundcheck. 8 upcoming nights, wit
 
 Agiou Orous 15, Athina 104 47, Greece, Athens
 
-*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/athens/club/aux-club/)*
+*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/athens/club/aux-club/)*

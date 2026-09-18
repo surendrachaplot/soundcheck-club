@@ -1,6 +1,6 @@
 # YETPET
 
-YETPET is a Techno and Electronica artist with 2 upcoming club dates listed on soundcheck as of Thu, 17 Sept 2026, next at The Coup by BUNKERBUNKER!!, Singapore on Sat, 19 Sept 2026.
+YETPET is a Techno and Electronica artist with 2 upcoming club dates listed on soundcheck as of Fri, 18 Sept 2026, next at The Coup by BUNKERBUNKER!!, Singapore on Sat, 19 Sept 2026.
 
 YETPET is a techno and electronica artist based in Singapore, tracked on soundcheck, with 26 sets logged across Hongkong, Seoul and Singapore. Often billed alongside Yadin Moha, DONN and Dexter Colt. Next up: The Coup by BUNKERBUNKER!!, Singapore on Sat 19 Sept.
 
@@ -26,4 +26,4 @@ YETPET is a techno and electronica artist based in Singapore, tracked on soundch
 
 Yadin Moha, DONN, Dexter Colt
 
-*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/yetpet/)*
+*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/yetpet/)*

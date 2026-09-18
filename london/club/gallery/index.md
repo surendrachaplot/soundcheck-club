@@ -1,15 +1,13 @@
 # Gallery
 
-Gallery is a music venue in London with 18 upcoming nights listed on soundcheck as of Thu, 17 Sept 2026; the next is "Paradox Nexus: GJIN - Thursdays at Gallery" on Thu, 17 Sept 2026.
+Gallery is a music venue in London with 17 upcoming nights listed on soundcheck as of Fri, 18 Sept 2026; the next is "Maqossa & Friends (London Fashion Week)" on Fri, 18 Sept 2026.
 
-Gallery is a music venue in London listed on soundcheck. 18 upcoming nights, with line-ups including Maqossa, AGELESS, Amy Os and Anna Tur and 2 more. Browse upcoming dates, start times and who's playing. 2A Kensington High Street, London, W8 4PT.
+Gallery is a music venue in London listed on soundcheck. 17 upcoming nights, with line-ups including Maqossa, AGELESS, Anna Tur and Carly Carmen and 2 more. Browse upcoming dates, start times and who's playing. 2A Kensington High Street, London, W8 4PT.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Thu, 17 Sept 2026 | Paradox Nexus: GJIN - Thursdays at Gallery | Amy Os |
-| Thu, 17 Sept 2026 | Gallery presents: GJIN | Amy Os |
 | Fri, 18 Sept 2026 | Maqossa & Friends (London Fashion Week) | AGELESS, Maqossa, SPIKA |
 | Sat, 19 Sept 2026 | POPUP presents: Lazare (LFW SPECIAL) | Lazare |
 | Thu, 24 Sept 2026 | Paradox Nexus: Anna Tur - Thursdays at Gallery | Anna Tur, DEFILE, NOFEX |
@@ -18,9 +16,11 @@ Gallery is a music venue in London listed on soundcheck. 18 upcoming nights, wit
 | Thu, 1 Oct 2026 | Paradox Nexus - Thursdays |  |
 | Fri, 2 Oct 2026 | MIROIR: KOKO (IT) | Jackopo, KOKO (IT) |
 | Sat, 3 Oct 2026 |  MVSON PRESENTS: Mason Collective, Marian B2B VITO (UK) & Ramoss | Marian BR, Mason Collective, Ramoss, VITO (UK) |
+| Thu, 8 Oct 2026 | Paradox Nexus - Thursdays |  |
+| Sat, 10 Oct 2026 | Mantrasociety X Gallery |  |
 
 ## Address
 
 2A Kensington High Street, London, W8 4PT, London
 
-*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/gallery/)*
+*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/gallery/)*

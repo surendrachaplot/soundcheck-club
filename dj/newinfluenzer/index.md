@@ -1,14 +1,15 @@
 # Newinfluenzer
 
-Newinfluenzer is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Thu, 17 Sept 2026, next at Uebel & Gefährlich, Hamburg on Fri, 18 Sept 2026.
+Newinfluenzer is a Techno and Electro artist with 2 upcoming club dates listed on soundcheck as of Fri, 18 Sept 2026, next at Uebel & Gefährlich, Hamburg on Fri, 18 Sept 2026.
 
-Newinfluenzer is a techno and electro artist tracked on soundcheck, with 86 sets logged across Berlin, Hamburg, Leipzig and London and 2 more. Often billed alongside yamyam, DJ MELL G and DJ SOURCE. Next up: Uebel & Gefährlich, Hamburg on Fri 18 Sept.
+Newinfluenzer is a techno and electro artist tracked on soundcheck, with 87 sets logged across Berlin, Hamburg, Leipzig and London and 2 more. Often billed alongside yamyam, DJ MELL G and DJ SOURCE. Next up: Uebel & Gefährlich, Hamburg on Fri 18 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 18 Sept 2026 | Uebel & Gefährlich | Hamburg |
+| Fri, 2 Oct 2026 | TBA | Hamburg |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Newinfluenzer is a techno and electro artist tracked on soundcheck, with 86 sets
 
 yamyam, DJ MELL G, DJ SOURCE
 
-*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/newinfluenzer/)*
+*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/newinfluenzer/)*

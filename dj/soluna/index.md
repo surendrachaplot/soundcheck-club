@@ -1,6 +1,6 @@
 # Soluna
 
-Soluna is a Techno and Industrial artist with 2 upcoming club dates listed on soundcheck as of Thu, 17 Sept 2026, next at Yodo Groove (Yodobashi Ikebukuro), Tokyo on Sun, 20 Sept 2026.
+Soluna is a Techno and Industrial artist with 2 upcoming club dates listed on soundcheck as of Fri, 18 Sept 2026, next at Yodo Groove (Yodobashi Ikebukuro), Tokyo on Sun, 20 Sept 2026.
 
 Soluna is a techno and industrial artist based in United States of America, tracked on soundcheck, with 22 sets logged across Newyorkcity, Paris and Tokyo. Often billed alongside DALJAE, DICE and EMILIO (3). Next up: Yodo Groove (Yodobashi Ikebukuro), Tokyo on Sun 20 Sept.
 
@@ -26,4 +26,4 @@ Soluna is a techno and industrial artist based in United States of America, trac
 
 DALJAE, DICE, EMILIO (3)
 
-*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/soluna/)*
+*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/soluna/)*

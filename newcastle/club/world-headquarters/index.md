@@ -1,14 +1,13 @@
 # World Headquarters
 
-World Headquarters is a music venue in Newcastle with 26 upcoming nights listed on soundcheck as of Thu, 17 Sept 2026; the next is "Daisy Roots Movement - D'n'B/Jungle Dance Workshop" on Wed, 16 Sept 2026.
+World Headquarters is a music venue in Newcastle with 25 upcoming nights listed on soundcheck as of Fri, 18 Sept 2026; the next is "BLITZ - Techno/Hardgroove/Trance/Hard Dance - FREE RAVE" on Fri, 18 Sept 2026.
 
-World Headquarters is a music venue in Newcastle listed on soundcheck. 26 upcoming nights, with line-ups including A.M.C., Alousea, CICELY and Dan Fresco and 2 more. Browse upcoming dates, start times and who's playing. Curtis Mayfield House, Carliol Square, East, Pilgrim St, Newcastle upon Tyne NE1 6UF.
+World Headquarters is a music venue in Newcastle listed on soundcheck. 25 upcoming nights, with line-ups including A.M.C., Alousea, CICELY and Dan Fresco and 2 more. Browse upcoming dates, start times and who's playing. Curtis Mayfield House, Carliol Square, East, Pilgrim St, Newcastle upon Tyne NE1 6UF.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Wed, 16 Sept 2026 | Daisy Roots Movement - D'n'B/Jungle Dance Workshop |  |
 | Fri, 18 Sept 2026 | BLITZ - Techno/Hardgroove/Trance/Hard Dance - FREE RAVE |  |
 | Fri, 18 Sept 2026 | World HQ presents Y U QT | Y U QT |
 | Sat, 19 Sept 2026 | Infusion presents Ranger Trucco & Danny Snowden | Danny Snowden, Ranger Trucco |
@@ -18,9 +17,10 @@ World Headquarters is a music venue in Newcastle listed on soundcheck. 26 upcomi
 | Sat, 26 Sept 2026 | BLITZ - Techno/Hardgroove/Trance/Hard Dance - FREE RAVE |  |
 | Sat, 26 Sept 2026 | NRG CRU: UP NORTH | CICELY, melba |
 | Wed, 30 Sept 2026 | Daisy Roots Movement - D'n'B/Jungle Dance Workshop |  |
+| Fri, 2 Oct 2026 | Dan Fresco presents Vienna X Infusion | DXNBY, Dan Fresco, Reuben Valentine |
 
 ## Address
 
 Curtis Mayfield House, Carliol Square, East, Pilgrim St, Newcastle upon Tyne NE1 6UF, Newcastle
 
-*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/newcastle/club/world-headquarters/)*
+*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/newcastle/club/world-headquarters/)*

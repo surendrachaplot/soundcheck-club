@@ -1,6 +1,6 @@
 # CosmiKat
 
-CosmiKat is a Techno and Tech House artist with 3 upcoming club dates listed on soundcheck as of Thu, 17 Sept 2026, next at PKH Warehouse, Berlin on Tue, 13 Oct 2026.
+CosmiKat is a Techno and Tech House artist with 3 upcoming club dates listed on soundcheck as of Fri, 18 Sept 2026, next at PKH Warehouse, Berlin on Tue, 13 Oct 2026.
 
 CosmiKat is a techno and tech house artist based in Germany, tracked on soundcheck, with 24 sets logged across Berlin and Hamburg. Often billed alongside Nat SuPrise, ZweiE and Andrea Marino. Next up: PKH Warehouse, Berlin on Tue 13 Oct.
 
@@ -27,4 +27,4 @@ CosmiKat is a techno and tech house artist based in Germany, tracked on soundche
 
 Nat SuPrise, ZweiE, Andrea Marino
 
-*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/cosmikat/)*
+*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/cosmikat/)*

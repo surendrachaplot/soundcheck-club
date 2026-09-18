@@ -1,6 +1,6 @@
 # Orion (FI)
 
-Orion (FI) is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 17 Sept 2026, next at Ääniwalli, Helsinki on Fri, 9 Oct 2026.
+Orion (FI) is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 18 Sept 2026, next at Ääniwalli, Helsinki on Fri, 9 Oct 2026.
 
 Orion (FI) is a techno and house artist based in Finland, tracked on soundcheck, with 14 sets logged across Amsterdam, Berlin, Hamburg and Helsinki and 2 more. Often billed alongside ROOB, Squaric and *Tia*. Next up: Ääniwalli, Helsinki on Fri 9 Oct.
 
@@ -25,4 +25,4 @@ Orion (FI) is a techno and house artist based in Finland, tracked on soundcheck,
 
 ROOB, Squaric, *Tia*
 
-*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/orionfi-fi/)*
+*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/orionfi-fi/)*

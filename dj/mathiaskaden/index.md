@@ -1,6 +1,6 @@
 # Mathias Kaden
 
-Mathias Kaden is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 17 Sept 2026, next at Club Frau Holle, Hamburg on Fri, 18 Sept 2026.
+Mathias Kaden is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 18 Sept 2026, next at Club Frau Holle, Hamburg on Fri, 18 Sept 2026.
 
 Mathias Kaden is a techno and house artist tracked on soundcheck, with 69 sets logged across Amsterdam, Bali, Bangkok and Barcelona and 19 more. Often billed alongside Chris Liebing, VNTM and Annina. Next up: Club Frau Holle, Hamburg on Fri 18 Sept.
 
@@ -26,4 +26,4 @@ Mathias Kaden is a techno and house artist tracked on soundcheck, with 69 sets l
 
 Chris Liebing, VNTM, Annina
 
-*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mathiaskaden/)*
+*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mathiaskaden/)*

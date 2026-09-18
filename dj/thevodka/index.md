@@ -1,6 +1,6 @@
 # thevodka
 
-thevodka is a Trance and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 17 Sept 2026, next at K-Bar Powiśle, Warsaw on Fri, 18 Sept 2026.
+thevodka is a Trance and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 18 Sept 2026, next at K-Bar Powiśle, Warsaw on Fri, 18 Sept 2026.
 
 thevodka is a trance and techno artist tracked on soundcheck, with 12 sets logged across Krakow and Warsaw. Often billed alongside ADHARDER, AZDRA and Theviacya. Next up: K-Bar Powiśle, Warsaw on Fri 18 Sept.
 
@@ -25,4 +25,4 @@ thevodka is a trance and techno artist tracked on soundcheck, with 12 sets logge
 
 ADHARDER, AZDRA, Theviacya
 
-*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/thevodka/)*
+*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/thevodka/)*

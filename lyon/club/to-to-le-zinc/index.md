@@ -1,8 +1,8 @@
 # Toï Toï, Le Zinc
 
-Toï Toï, Le Zinc is a music venue in Lyon with 6 upcoming nights listed on soundcheck as of Thu, 17 Sept 2026; the next is "Zermatt - EP Release Show" on Sat, 19 Sept 2026.
+Toï Toï, Le Zinc is a music venue in Lyon with 7 upcoming nights listed on soundcheck as of Fri, 18 Sept 2026; the next is "Zermatt - EP Release Show" on Sat, 19 Sept 2026.
 
-Toï Toï, Le Zinc is a music venue in Lyon listed on soundcheck. 6 upcoming nights. Browse upcoming dates, start times and who's playing. 17 - 19, rue Marcel Dutartre 69 100 Villeurbanne.
+Toï Toï, Le Zinc is a music venue in Lyon listed on soundcheck. 7 upcoming nights. Browse upcoming dates, start times and who's playing. 17 - 19, rue Marcel Dutartre 69 100 Villeurbanne.
 
 ## What's on
 
@@ -14,9 +14,10 @@ Toï Toï, Le Zinc is a music venue in Lyon listed on soundcheck. 6 upcoming nig
 | Thu, 1 Oct 2026 | Uzak Taraf // Qatifa |  |
 | Fri, 2 Oct 2026 | DESORDRE + JACQUELINE + TOUCCAN |  |
 | Sat, 3 Oct 2026 | HORIZON NUIT - LIGNES DE FUITE et points de rencontre - RELEAZ PARTY |  |
+| Fri, 9 Oct 2026 | Samba Toy ² « Les meufs font la teuf' |  |
 
 ## Address
 
 17 - 19, rue Marcel Dutartre 69 100 Villeurbanne, Lyon
 
-*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/lyon/club/to-to-le-zinc/)*
+*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/lyon/club/to-to-le-zinc/)*

@@ -1,6 +1,6 @@
 # Manifesto Disappunto
 
-Manifesto Disappunto is a Electronica and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 17 Sept 2026, next at TBA - Via di Monte Testaccio 67, Rome, Rome on Sat, 19 Sept 2026.
+Manifesto Disappunto is a Electronica and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 18 Sept 2026, next at TBA - Via di Monte Testaccio 67, Rome, Rome on Sat, 19 Sept 2026.
 
 Manifesto Disappunto is an electronica and techno artist based in Italy, tracked on soundcheck, with 35 sets logged across Milan, Naples, Rome and Turin. Often billed alongside Pearl River Sound, Her Nice Too and Luca Viola. Next up: TBA - Via di Monte Testaccio 67, Rome, Rome on Sat 19 Sept.
 
@@ -25,4 +25,4 @@ Manifesto Disappunto is an electronica and techno artist based in Italy, tracked
 
 Pearl River Sound, Her Nice Too, Luca Viola
 
-*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/manifestodisappunto/)*
+*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/manifestodisappunto/)*

@@ -1,15 +1,14 @@
 # Jolene Downtown Miami
 
-Jolene Downtown Miami is a music venue in Miami with 11 upcoming nights listed on soundcheck as of Thu, 17 Sept 2026; the next is "John Tejada, Massimiliano," on Thu, 17 Sept 2026.
+Jolene Downtown Miami is a music venue in Miami with 10 upcoming nights listed on soundcheck as of Fri, 18 Sept 2026; the next is "John Tejada, Massimiliano Pagliara, Sister System b2b Terence Tabeau" on Fri, 18 Sept 2026.
 
-Jolene Downtown Miami is a music venue in Miami listed on soundcheck. 11 upcoming nights, with line-ups including Beltran, Danyelino, DIFFER and Enamour and 2 more. Browse upcoming dates, start times and who's playing. 200 E Flagler Street Miami, FL 33131.
+Jolene Downtown Miami is a music venue in Miami listed on soundcheck. 10 upcoming nights, with line-ups including Beltran, Danyelino, DIFFER and Enamour and 2 more. Browse upcoming dates, start times and who's playing. 200 E Flagler Street Miami, FL 33131.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Thu, 17 Sept 2026 | John Tejada, Massimiliano, | John Tejada, Massimiliano Pagliara, Sister System, Terence Tabeau |
-| Thu, 17 Sept 2026 | The Groove Palace | maux |
+| Fri, 18 Sept 2026 | John Tejada, Massimiliano Pagliara, Sister System b2b Terence Tabeau | John Tejada, Massimiliano Pagliara, Sister System, Terence Tabeau |
 | Fri, 25 Sept 2026 | Yoyaku: Satoshi Tomiie | Kian OK, Lis Sarroca, Mari.te, Satoshi Tomiie |
 | Sat, 26 Sept 2026 | Nick Warren | DIFFER, Nick Warren, SIEGEL (2) |
 | Sat, 26 Sept 2026 | Nick Warren | Nick Warren, SIEGEL (2) |
@@ -18,9 +17,10 @@ Jolene Downtown Miami is a music venue in Miami listed on soundcheck. 11 upcomin
 | Thu, 15 Oct 2026 | III Points Satellite: Shanti Celeste b2b Peach | Gio Elia, Peach, Shanti Celeste, Sister System |
 | Fri, 16 Oct 2026 | III Points Satellite: OMRI | Danyelino, Mai iachetti, OMRI. |
 | Sat, 17 Oct 2026 | III Points Satellite: Beltran | Beltran, Idriss D |
+| Sat, 24 Oct 2026 | Ida Engberg & ONYVAA | Ida Engberg, KUJO (US), ONYVAA |
 
 ## Address
 
 200 E Flagler Street Miami, FL 33131, Miami
 
-*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/miami/club/jolene-downtown-miami/)*
+*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/miami/club/jolene-downtown-miami/)*

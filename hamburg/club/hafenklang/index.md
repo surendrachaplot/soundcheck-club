@@ -1,6 +1,6 @@
 # Hafenklang
 
-Hafenklang is a music venue in Hamburg with 3 upcoming nights listed on soundcheck as of Thu, 17 Sept 2026; the next is "MUSIC FRONTIERS 2026 Official Afterparty" on Fri, 18 Sept 2026.
+Hafenklang is a music venue in Hamburg with 3 upcoming nights listed on soundcheck as of Fri, 18 Sept 2026; the next is "MUSIC FRONTIERS 2026 Official Afterparty" on Fri, 18 Sept 2026.
 
 Hafenklang is a music venue in Hamburg listed on soundcheck. 3 upcoming nights, with line-ups including ABADIR, Dylan Kerr, JMK (1) and Kataya and 2 more. Browse upcoming dates, start times and who's playing. Große Elbstrasse 84; 22767 Hamburg; Germany.
 
@@ -16,4 +16,4 @@ Hafenklang is a music venue in Hamburg listed on soundcheck. 3 upcoming nights, 
 
 Große Elbstrasse 84; 22767 Hamburg; Germany, Hamburg
 
-*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/hamburg/club/hafenklang/)*
+*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/hamburg/club/hafenklang/)*

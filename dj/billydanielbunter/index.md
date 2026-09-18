@@ -1,6 +1,6 @@
 # Billy Daniel Bunter
 
-Billy Daniel Bunter is a Hardcore and Jungle artist with 5 upcoming club dates listed on soundcheck as of Thu, 17 Sept 2026, next at People's Leisure Club, Edinburgh on Sat, 19 Sept 2026.
+Billy Daniel Bunter is a Hardcore and Jungle artist with 5 upcoming club dates listed on soundcheck as of Fri, 18 Sept 2026, next at People's Leisure Club, Edinburgh on Sat, 19 Sept 2026.
 
 Billy Daniel Bunter is a hardcore and jungle artist tracked on soundcheck, with 51 sets logged across Amsterdam, Brighton, Edinburgh and Leeds and 6 more. Often billed alongside Nicky Blackmarket, Ratpack and Shades Of Rhythm. Next up: People's Leisure Club, Edinburgh on Sat 19 Sept.
 
@@ -29,4 +29,4 @@ Billy Daniel Bunter is a hardcore and jungle artist tracked on soundcheck, with 
 
 Nicky Blackmarket, Ratpack, Shades Of Rhythm
 
-*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/billydanielbunter/)*
+*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/billydanielbunter/)*

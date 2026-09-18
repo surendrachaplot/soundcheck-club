@@ -1,6 +1,6 @@
 # When Coffee Meets Whisky
 
-When Coffee Meets Whisky is a music venue in Riga with 1 upcoming night listed on soundcheck as of Thu, 17 Sept 2026; the next is "Out of Office: Ambroza /LT/ + Local: Doctor & Esoniq" on Fri, 18 Sept 2026.
+When Coffee Meets Whisky is a music venue in Riga with 1 upcoming night listed on soundcheck as of Fri, 18 Sept 2026; the next is "Out of Office: Ambroza /LT/ + Local: Doctor & Esoniq" on Fri, 18 Sept 2026.
 
 When Coffee Meets Whisky is a music venue in Riga listed on soundcheck. 1 upcoming night, with line-ups including Ambroza and Esoniq. Browse upcoming dates, start times and who's playing. Baznīcas iela 20/22, LV-1010.
 
@@ -14,4 +14,4 @@ When Coffee Meets Whisky is a music venue in Riga listed on soundcheck. 1 upcomi
 
 Baznīcas iela 20/22, LV-1010, Riga
 
-*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/riga/club/when-coffee-meets-whisky/)*
+*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/riga/club/when-coffee-meets-whisky/)*

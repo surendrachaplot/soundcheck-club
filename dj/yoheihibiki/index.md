@@ -1,6 +1,6 @@
 # Yohei Hibiki
 
-Yohei Hibiki is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 17 Sept 2026, next at R Lounge, Tokyo on Sat, 19 Sept 2026.
+Yohei Hibiki is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 18 Sept 2026, next at R Lounge, Tokyo on Sat, 19 Sept 2026.
 
 Yohei Hibiki is a techno and house artist based in Japan, tracked on soundcheck, with 53 sets logged across Osaka and Tokyo. Often billed alongside SIGNAL (JP), Ayana Pattra and MOTOKA. Next up: R Lounge, Tokyo on Sat 19 Sept.
 
@@ -25,4 +25,4 @@ Yohei Hibiki is a techno and house artist based in Japan, tracked on soundcheck,
 
 SIGNAL (JP), Ayana Pattra, MOTOKA
 
-*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/yoheihibiki/)*
+*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/yoheihibiki/)*

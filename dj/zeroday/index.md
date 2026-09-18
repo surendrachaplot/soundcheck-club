@@ -1,6 +1,6 @@
 # zeroday
 
-zeroday is a Electronica and Minimal artist with 1 upcoming club date listed on soundcheck as of Thu, 17 Sept 2026, next at Mastak, Warsaw on Sun, 20 Sept 2026.
+zeroday is a Electronica and Minimal artist with 1 upcoming club date listed on soundcheck as of Fri, 18 Sept 2026, next at Mastak, Warsaw on Sun, 20 Sept 2026.
 
 zeroday is an electronica and minimal artist tracked on soundcheck, with 46 sets logged across Berlin, Krakow and Warsaw. Often billed alongside Slowmode, JESS.mp5 and Salat. Next up: Mastak, Warsaw on Sun 20 Sept.
 
@@ -25,4 +25,4 @@ zeroday is an electronica and minimal artist tracked on soundcheck, with 46 sets
 
 Slowmode, JESS.mp5, Salat
 
-*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/zeroday/)*
+*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/zeroday/)*

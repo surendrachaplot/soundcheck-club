@@ -1,6 +1,6 @@
 # Hyde Park Book Club
 
-Hyde Park Book Club is a music venue in Leeds with 4 upcoming nights listed on soundcheck as of Thu, 17 Sept 2026; the next is "Rootikal Expression Session" on Sun, 20 Sept 2026.
+Hyde Park Book Club is a music venue in Leeds with 4 upcoming nights listed on soundcheck as of Fri, 18 Sept 2026; the next is "Rootikal Expression Session" on Sun, 20 Sept 2026.
 
 Hyde Park Book Club is a music venue in Leeds listed on soundcheck. 4 upcoming nights, with line-ups including Being One, Ga-briel, Harry Rook and Lucy Locket. Browse upcoming dates, start times and who's playing. 27-29 Headingley Ln, Leeds LS6 1BL.
 
@@ -17,4 +17,4 @@ Hyde Park Book Club is a music venue in Leeds listed on soundcheck. 4 upcoming n
 
 27-29 Headingley Ln, Leeds LS6 1BL, Leeds
 
-*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/leeds/club/hyde-park-book-club/)*
+*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/leeds/club/hyde-park-book-club/)*

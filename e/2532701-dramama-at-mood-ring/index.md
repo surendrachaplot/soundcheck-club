@@ -1,6 +1,6 @@
 # DRAMAMA at Mood Ring
 
-DRAMAMA at Mood Ring on Thu 24 Sept, Newyorkcity. 2 acts on the bill: Gagbert and zyrox. Preview the line-up and save it on soundcheck.
+DRAMAMA at Mood Ring on Thu 24 Sept, Newyorkcity. 3 acts on the bill: Gagbert, hàobèi and zyrox. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,6 +11,7 @@ DRAMAMA at Mood Ring on Thu 24 Sept, Newyorkcity. 2 acts on the bill: Gagbert an
 ## Line-up
 
 - Gagbert
+- hàobèi
 - zyrox
 
 *Source: [soundcheck](https://soundcheck.club/e/2532701-dramama-at-mood-ring/)*

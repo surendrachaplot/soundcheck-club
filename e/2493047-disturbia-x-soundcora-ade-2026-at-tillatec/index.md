@@ -1,6 +1,6 @@
 # Disturbia x Soundcora - ADE 2026 at TILLATEC
 
-Disturbia x Soundcora - ADE 2026 at TILLATEC on Fri 23 Oct, Amsterdam. 17 acts on the bill: Andy Garvey, Andy Martin, Anika Kunst and Cassy and 13 more. Techno and House. Preview the line-up and save it on soundcheck.
+Disturbia x Soundcora - ADE 2026 at TILLATEC on Fri 23 Oct, Amsterdam. 18 acts on the bill: Andy Garvey, Andy Martin, Anika Kunst and Cassy and 14 more. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -23,6 +23,7 @@ Disturbia x Soundcora - ADE 2026 at TILLATEC on Fri 23 Oct, Amsterdam. 17 acts o
 - Konduku
 - Makam
 - Mario Picosso
+- Mystral
 - Nacho
 - Raquel Cruz
 - Shoal

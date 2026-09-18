@@ -1,6 +1,6 @@
 # KOPY
 
-KOPY is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 17 Sept 2026, next at Mitsuki, Tokyo on Wed, 16 Sept 2026.
+KOPY is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 18 Sept 2026, next at Mitsuki, Tokyo on Wed, 16 Sept 2026.
 
 KOPY is a techno and house artist based in Japan, tracked on soundcheck, with 39 sets logged across Dusseldorf, Hamburg, London and Osaka and 1 more. Often billed alongside HIMAWARI, yodel and AKIRAM EN. Next up: Mitsuki, Tokyo on Wed 16 Sept.
 
@@ -25,4 +25,4 @@ KOPY is a techno and house artist based in Japan, tracked on soundcheck, with 39
 
 HIMAWARI, yodel, AKIRAM EN
 
-*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kopy/)*
+*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kopy/)*

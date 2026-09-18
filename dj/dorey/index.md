@@ -1,6 +1,6 @@
 # DOREY
 
-DOREY is a House and Trance artist with 1 upcoming club date listed on soundcheck as of Thu, 17 Sept 2026, next at Village Underground, London on Sat, 3 Oct 2026.
+DOREY is a House and Trance artist with 1 upcoming club date listed on soundcheck as of Fri, 18 Sept 2026, next at Village Underground, London on Sat, 3 Oct 2026.
 
 DOREY is a house and trance artist tracked on soundcheck, with 12 sets logged across Aberdeen, Amsterdam, Dundee and Glasgow and 1 more. Often billed alongside Céleste, AKA DISPLAY and Amy Wiles. Next up: Village Underground, London on Sat 3 Oct.
 
@@ -25,4 +25,4 @@ DOREY is a house and trance artist tracked on soundcheck, with 12 sets logged ac
 
 Céleste, AKA DISPLAY, Amy Wiles
 
-*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dorey/)*
+*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dorey/)*

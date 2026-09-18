@@ -1,6 +1,6 @@
 # Bieu
 
-Bieu is a Baile Funk and Rio Funk artist with 1 upcoming club date listed on soundcheck as of Thu, 17 Sept 2026, next at La Fabriek, Brussels on Fri, 2 Oct 2026.
+Bieu is a Baile Funk and Rio Funk artist with 1 upcoming club date listed on soundcheck as of Fri, 18 Sept 2026, next at La Fabriek, Brussels on Fri, 2 Oct 2026.
 
 Bieu is a baile funk and rio funk artist tracked on soundcheck, with 39 sets logged across Berlin, Brussels, Dublin and Geneva and 3 more. Often billed alongside S4DO, Maribell and xavbeatz. Next up: La Fabriek, Brussels on Fri 2 Oct.
 
@@ -25,4 +25,4 @@ Bieu is a baile funk and rio funk artist tracked on soundcheck, with 39 sets log
 
 S4DO, Maribell, xavbeatz
 
-*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bieu/)*
+*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bieu/)*

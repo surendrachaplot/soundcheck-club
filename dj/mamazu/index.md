@@ -1,6 +1,6 @@
 # Mamazu
 
-Mamazu is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Thu, 17 Sept 2026, next at WOMB, Tokyo on Sat, 19 Sept 2026.
+Mamazu is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Fri, 18 Sept 2026, next at WOMB, Tokyo on Sat, 19 Sept 2026.
 
 Mamazu is a house and techno artist tracked on soundcheck, with 98 sets logged across Barcelona, Brussels, Kyoto and Osaka and 1 more. Often billed alongside Sunga, YO.AN and REO MATSUMOTO. Next up: WOMB, Tokyo on Sat 19 Sept.
 
@@ -27,4 +27,4 @@ Mamazu is a house and techno artist tracked on soundcheck, with 98 sets logged a
 
 Sunga, YO.AN, REO MATSUMOTO
 
-*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mamazu/)*
+*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mamazu/)*

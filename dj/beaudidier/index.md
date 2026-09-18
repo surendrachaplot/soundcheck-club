@@ -1,8 +1,8 @@
 # Beau Didier
 
-Beau Didier is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Thu, 17 Sept 2026, next at RADION, Amsterdam on Sat, 26 Sept 2026.
+Beau Didier is a Techno and House artist with 7 upcoming club dates listed on soundcheck as of Fri, 18 Sept 2026, next at RADION, Amsterdam on Sat, 26 Sept 2026.
 
-Beau Didier is a techno and house artist tracked on soundcheck, with 156 sets logged across Amsterdam, Antwerp, Bangkok and Barcelona and 39 more. Often billed alongside Isaiah (NL), Flits and Lasse. Next up: RADION, Amsterdam on Sat 26 Sept.
+Beau Didier is a techno and house artist tracked on soundcheck, with 157 sets logged across Amsterdam, Antwerp, Bangkok and Barcelona and 39 more. Often billed alongside Isaiah (NL), Flits and Lasse. Next up: RADION, Amsterdam on Sat 26 Sept.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ Beau Didier is a techno and house artist tracked on soundcheck, with 156 sets lo
 | Sat, 26 Sept 2026 | RADION | Amsterdam |
 | Sat, 26 Sept 2026 | RADION | Amsterdam |
 | Sat, 10 Oct 2026 | Oma Doris | Dortmund-essen |
+| Fri, 16 Oct 2026 | Kaiku | Helsinki |
 | Wed, 21 Oct 2026 | RADION | Amsterdam |
 | Thu, 22 Oct 2026 | RADION | Amsterdam |
 | Sat, 7 Nov 2026 | RADION | Amsterdam |
@@ -30,4 +31,4 @@ Beau Didier is a techno and house artist tracked on soundcheck, with 156 sets lo
 
 Isaiah (NL), Flits, Lasse
 
-*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/beaudidier/)*
+*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/beaudidier/)*

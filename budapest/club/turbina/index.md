@@ -1,8 +1,8 @@
 # Turbina
 
-Turbina is a music venue in Budapest with 8 upcoming nights listed on soundcheck as of Thu, 17 Sept 2026; the next is "KAKAÓ 016 with Auerbach, BALARAM, Flipo, Tündérke + Clubroom by Hardcore4Kidz" on Fri, 18 Sept 2026.
+Turbina is a music venue in Budapest with 9 upcoming nights listed on soundcheck as of Fri, 18 Sept 2026; the next is "KAKAÓ 016 with Auerbach, BALARAM, Flipo, Tündérke + Clubroom by Hardcore4Kidz" on Fri, 18 Sept 2026.
 
-Turbina is a music venue in Budapest listed on soundcheck. 8 upcoming nights, with line-ups including 96zen, Akác, Arash Ete and Auerbach and 2 more. Browse upcoming dates, start times and who's playing. Budapest, Vajdahunyad street 4., 1082.
+Turbina is a music venue in Budapest listed on soundcheck. 9 upcoming nights, with line-ups including 96zen, Akác, Arash Ete and Auerbach and 2 more. Browse upcoming dates, start times and who's playing. Budapest, Vajdahunyad street 4., 1082.
 
 ## What's on
 
@@ -10,6 +10,7 @@ Turbina is a music venue in Budapest listed on soundcheck. 8 upcoming nights, wi
 | --- | --- | --- |
 | Fri, 18 Sept 2026 | KAKAÓ 016 with Auerbach, BALARAM, Flipo, Tündérke + Clubroom by Hardcore4Kidz | Auerbach, BALARAM, Dink |
 | Sat, 19 Sept 2026 | DEAD END season opening with ninnidslvx, Paralich | NINNIDSLVX, Paralich |
+| Sat, 19 Sept 2026 | Bloc with Dé, Indirect Movement, Korodi | Indirect Movement |
 | Fri, 25 Sept 2026 | 5 Years of Memphis x The Balance with Fabe (Fashion Show) | Arash Ete, CRB, Fabe, Kiqo, Kiuz, Melody RA+RE, Stark (2), U-Seph, schraeder |
 | Sat, 3 Oct 2026 | techlab.bp invites Matriark (DK), Intuition - LIVE (SP), Main Hall | IMMATERIÆ, Intuition, Matriark, SLYM, Schierke, szoliver |
 | Sat, 3 Oct 2026 | Valenthin All Nigh Long at Turbina Clubroom | 96zen, Daniel Moritz, Valenthin |
@@ -21,4 +22,4 @@ Turbina is a music venue in Budapest listed on soundcheck. 8 upcoming nights, wi
 
 Budapest, Vajdahunyad street 4., 1082, Budapest
 
-*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/budapest/club/turbina/)*
+*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/budapest/club/turbina/)*

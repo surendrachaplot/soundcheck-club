@@ -1,6 +1,6 @@
 # Beard2Beard
 
-Beard2Beard is a Deep House and Electronica artist with 1 upcoming club date listed on soundcheck as of Thu, 17 Sept 2026, next at Thuishaven, Amsterdam on Sat, 19 Sept 2026.
+Beard2Beard is a Deep House and Electronica artist with 1 upcoming club date listed on soundcheck as of Fri, 18 Sept 2026, next at Thuishaven, Amsterdam on Sat, 19 Sept 2026.
 
 Beard2Beard is a deep house and electronica artist tracked on soundcheck, with 24 sets logged across Amsterdam, Athens, Berlin and Geneva and 6 more. Often billed alongside Omer Tayar, Philou Louzolo and Animal Trainer. Next up: Thuishaven, Amsterdam on Sat 19 Sept.
 
@@ -25,4 +25,4 @@ Beard2Beard is a deep house and electronica artist tracked on soundcheck, with 2
 
 Omer Tayar, Philou Louzolo, Animal Trainer
 
-*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/beard2beard/)*
+*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/beard2beard/)*

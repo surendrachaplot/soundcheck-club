@@ -1,6 +1,6 @@
 # Gianni Di Bernardo
 
-Gianni Di Bernardo is a Techno and Industrial artist with 2 upcoming club dates listed on soundcheck as of Thu, 17 Sept 2026, next at The Wall Club, Naples on Sat, 19 Sept 2026.
+Gianni Di Bernardo is a Techno and Industrial artist with 2 upcoming club dates listed on soundcheck as of Fri, 18 Sept 2026, next at The Wall Club, Naples on Sat, 19 Sept 2026.
 
 Gianni Di Bernardo is a techno and industrial artist tracked on soundcheck, with 48 sets logged across Amsterdam, Antwerp, Barcelona and Cologne and 17 more. Often billed alongside Luca Agnelli, Mattia Trani and PISAPIA (IT). Next up: The Wall Club, Naples on Sat 19 Sept.
 
@@ -26,4 +26,4 @@ Gianni Di Bernardo is a techno and industrial artist tracked on soundcheck, with
 
 Luca Agnelli, Mattia Trani, PISAPIA (IT)
 
-*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/giannidibernardo/)*
+*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/giannidibernardo/)*

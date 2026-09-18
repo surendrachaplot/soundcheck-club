@@ -1,6 +1,6 @@
 # DJ Ant (US)
 
-DJ Ant (US) is a Techno and Club artist with 1 upcoming club date listed on soundcheck as of Thu, 17 Sept 2026, next at Mood Ring, New York City on Sat, 3 Oct 2026.
+DJ Ant (US) is a Techno and Club artist with 1 upcoming club date listed on soundcheck as of Fri, 18 Sept 2026, next at Mood Ring, New York City on Sat, 3 Oct 2026.
 
 DJ Ant (US) is a techno and club artist tracked on soundcheck, with 18 sets logged across Newyorkcity and Seattle. Often billed alongside BUNZ, Peregrine (US) and egavas. Next up: Mood Ring, Newyorkcity on Sat 3 Oct.
 
@@ -25,4 +25,4 @@ DJ Ant (US) is a techno and club artist tracked on soundcheck, with 18 sets logg
 
 BUNZ, Peregrine (US), egavas
 
-*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djant-us/)*
+*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djant-us/)*

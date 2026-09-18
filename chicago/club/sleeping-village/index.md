@@ -1,6 +1,6 @@
 # Sleeping Village
 
-Sleeping Village is a music venue in Chicago with 3 upcoming nights listed on soundcheck as of Thu, 17 Sept 2026; the next is "Industry Night" on Mon, 21 Sept 2026.
+Sleeping Village is a music venue in Chicago with 3 upcoming nights listed on soundcheck as of Fri, 18 Sept 2026; the next is "Industry Night" on Mon, 21 Sept 2026.
 
 Sleeping Village is a music venue in Chicago listed on soundcheck. 3 upcoming nights, with line-ups including Ariel Zetina, Lawn Brutic, Miss Twink USA and Olof Dreijer and 1 more. Browse upcoming dates, start times and who's playing. 3734 W Belmont Ave, Chicago, IL 60618, USA.
 
@@ -16,4 +16,4 @@ Sleeping Village is a music venue in Chicago listed on soundcheck. 3 upcoming ni
 
 3734 W Belmont Ave, Chicago, IL 60618, USA, Chicago
 
-*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/chicago/club/sleeping-village/)*
+*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/chicago/club/sleeping-village/)*

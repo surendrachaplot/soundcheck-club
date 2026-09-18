@@ -1,6 +1,6 @@
 # J.A.K.A.M.
 
-J.A.K.A.M. is a Bass and House artist with 1 upcoming club date listed on soundcheck as of Thu, 17 Sept 2026, next at Numm, Tokyo on Fri, 18 Sept 2026.
+J.A.K.A.M. is a Bass and House artist with 1 upcoming club date listed on soundcheck as of Fri, 18 Sept 2026, next at Numm, Tokyo on Fri, 18 Sept 2026.
 
 J.A.K.A.M. is a bass and house artist based in Japan, tracked on soundcheck, with 11 sets logged across Tokyo. Often billed alongside Do Shock Booze, Leefia and Akie. Next up: Numm, Tokyo on Fri 18 Sept.
 
@@ -25,4 +25,4 @@ J.A.K.A.M. is a bass and house artist based in Japan, tracked on soundcheck, wit
 
 Do Shock Booze, Leefia, Akie
 
-*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jakam/)*
+*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jakam/)*

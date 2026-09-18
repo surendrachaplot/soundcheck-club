@@ -1,6 +1,6 @@
 # Chriscendo
 
-Chriscendo is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Thu, 17 Sept 2026, next at Bootleg Bar NYC, New York City on Sat, 19 Sept 2026.
+Chriscendo is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Fri, 18 Sept 2026, next at Bootleg Bar NYC, New York City on Sat, 19 Sept 2026.
 
 Chriscendo is a techno and trance artist tracked on soundcheck, with 6 sets logged across Newyorkcity. Often billed alongside ASTER (DJ), ANDRÉS GARCIL and An Chen. Next up: Bootleg Bar NYC, Newyorkcity on Sat 19 Sept.
 
@@ -22,4 +22,4 @@ Chriscendo is a techno and trance artist tracked on soundcheck, with 6 sets logg
 
 ASTER (DJ), ANDRÉS GARCIL, An Chen
 
-*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/chriscendo/)*
+*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/chriscendo/)*

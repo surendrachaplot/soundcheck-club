@@ -1,6 +1,6 @@
 # Lift Beograd
 
-Lift Beograd is a music venue in Belgrade with 3 upcoming nights listed on soundcheck as of Thu, 17 Sept 2026; the next is "Miloš Vuković at LIFT" on Fri, 18 Sept 2026.
+Lift Beograd is a music venue in Belgrade with 3 upcoming nights listed on soundcheck as of Fri, 18 Sept 2026; the next is "Miloš Vuković at LIFT" on Fri, 18 Sept 2026.
 
 Lift Beograd is a music venue in Belgrade listed on soundcheck. 3 upcoming nights, with line-ups including Feloneezy. Browse upcoming dates, start times and who's playing. Cetinjska 15.
 
@@ -16,4 +16,4 @@ Lift Beograd is a music venue in Belgrade listed on soundcheck. 3 upcoming night
 
 Cetinjska 15, Belgrade
 
-*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/belgrade/club/lift-beograd/)*
+*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/belgrade/club/lift-beograd/)*

@@ -1,6 +1,6 @@
 # Spriteeyez
 
-Spriteeyez is a Hip-Hop and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 17 Sept 2026, next at Golden Pudel Club, Hamburg on Fri, 18 Sept 2026.
+Spriteeyez is a Hip-Hop and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 18 Sept 2026, next at Golden Pudel Club, Hamburg on Fri, 18 Sept 2026.
 
 Spriteeyez is a hip-hop and techno artist based in Germany, tracked on soundcheck, with 39 sets logged across Berlin, Hamburg and Stuttgart. Often billed alongside DJ SOURCE, Haaizey and Cho Room. Next up: Golden Pudel Club, Hamburg on Fri 18 Sept.
 
@@ -25,4 +25,4 @@ Spriteeyez is a hip-hop and techno artist based in Germany, tracked on soundchec
 
 DJ SOURCE, Haaizey, Cho Room
 
-*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/spriteeyez/)*
+*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/spriteeyez/)*

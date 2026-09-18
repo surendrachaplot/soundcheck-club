@@ -1,6 +1,6 @@
 # TOC Hostel
 
-TOC Hostel is a music venue in Barcelona with 2 upcoming nights listed on soundcheck as of Thu, 17 Sept 2026; the next is "ATYPICAL: Afterwork + Open Mixer + Other Side Boiler Eves b2b BECCA SORANA" on Fri, 18 Sept 2026.
+TOC Hostel is a music venue in Barcelona with 2 upcoming nights listed on soundcheck as of Fri, 18 Sept 2026; the next is "ATYPICAL: Afterwork + Open Mixer + Other Side Boiler Eves b2b BECCA SORANA" on Fri, 18 Sept 2026.
 
 TOC Hostel is a music venue in Barcelona listed on soundcheck. 2 upcoming nights, with line-ups including BECCA SORANA and EVES DJ. Browse upcoming dates, start times and who's playing. Gran Via de les Corts Catalanes, 580, 08011 Barcelona.
 
@@ -15,4 +15,4 @@ TOC Hostel is a music venue in Barcelona listed on soundcheck. 2 upcoming nights
 
 Gran Via de les Corts Catalanes, 580, 08011 Barcelona, Barcelona
 
-*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/toc-hostel/)*
+*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/toc-hostel/)*

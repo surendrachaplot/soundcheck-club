@@ -1,14 +1,13 @@
 # OIL Club
 
-OIL Club is a music venue in Shenzhen with 30 upcoming nights listed on soundcheck as of Thu, 17 Sept 2026; the next is "SCREW IT LET'S RAVE" on Thu, 17 Sept 2026.
+OIL Club is a music venue in Shenzhen with 29 upcoming nights listed on soundcheck as of Fri, 18 Sept 2026; the next is "競速地獄 Race to Ruin: RUIZ OSC1" on Fri, 18 Sept 2026.
 
-OIL Club is a music venue in Shenzhen listed on soundcheck. 30 upcoming nights, with line-ups including ADEAD, ADRIANNA, Alex Banks and Alion and 2 more. Browse upcoming dates, start times and who's playing. 11A Ground Floor, Tairan Mansion, Tairan 8th Rd, Futian District Shenzhen.
+OIL Club is a music venue in Shenzhen listed on soundcheck. 29 upcoming nights, with line-ups including ADEAD, ADRIANNA, Alex Banks and Alion and 2 more. Browse upcoming dates, start times and who's playing. 11A Ground Floor, Tairan Mansion, Tairan 8th Rd, Futian District Shenzhen.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Thu, 17 Sept 2026 | SCREW IT LET'S RAVE | Blame the Booker, Fischmonger, Jayzo, LISTORIO |
 | Fri, 18 Sept 2026 | 競速地獄 Race to Ruin: RUIZ OSC1 | ADRIANNA, RUIZ OSC1, Sirens |
 | Sat, 19 Sept 2026 | 曲率驱动 Curvature-driven: K.O.P. 32 (Live) | Fengshui, TiaNT |
 | Thu, 24 Sept 2026 | 小计划呈现 Alex Banks A/V live 中国巡演 with 吴卓玲 live | Alex Banks |
@@ -18,9 +17,10 @@ OIL Club is a music venue in Shenzhen listed on soundcheck. 30 upcoming nights, 
 | Sat, 26 Sept 2026 | 续油计划 PROJECT REFUEL by OIL: Héctor Oaks (Vinyl Set) +HWA aka. ELVIS.T | Héctor Oaks, Jascer, Yangyang |
 | Sun, 27 Sept 2026 | BASSKICK 特邀嘉宾：铁汉Tiehan（Hybrid Set）+Ziyi |  |
 | Wed, 30 Sept 2026 | D1S x TURMOIL: Pluko+purp | Beibeilon, DJ 86, TiaNT, purp, zzm (2) |
+| Thu, 1 Oct 2026 | NOIR: Woody92 + Xiorro | Sulk, Woody92, Xiorro |
 
 ## Address
 
 11A Ground Floor, Tairan Mansion, Tairan 8th Rd, Futian District Shenzhen, Shenzhen
 
-*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/shenzhen/club/oil-club/)*
+*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/shenzhen/club/oil-club/)*

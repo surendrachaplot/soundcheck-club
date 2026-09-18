@@ -1,14 +1,15 @@
 # Gala (ES)
 
-Gala (ES) is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 17 Sept 2026, next at Heave Festival, Madrid on Fri, 25 Sept 2026.
+Gala (ES) is a Techno and Electronica artist with 2 upcoming club dates listed on soundcheck as of Fri, 18 Sept 2026, next at Heave Festival, Madrid on Fri, 25 Sept 2026.
 
-Gala (ES) is a techno and house artist based in Spain, tracked on soundcheck, with 19 sets logged across Amsterdam, Berlin and Madrid. Often billed alongside SYSTEMA, Baldman and Certain People. Next up: Heave Festival, Madrid on Fri 25 Sept.
+Gala (ES) is a techno and electronica artist based in Spain, tracked on soundcheck, with 20 sets logged across Amsterdam, Berlin and Madrid. Often billed alongside SYSTEMA, Baldman and Certain People. Next up: Heave Festival, Madrid on Fri 25 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 25 Sept 2026 | Heave Festival | Madrid |
+| Fri, 16 Oct 2026 | Cadavra | Madrid |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Gala (ES) is a techno and house artist based in Spain, tracked on soundcheck, wi
 
 SYSTEMA, Baldman, Certain People
 
-*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/gala-es/)*
+*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/gala-es/)*

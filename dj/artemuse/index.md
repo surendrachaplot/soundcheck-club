@@ -1,6 +1,6 @@
 # Artemuse
 
-Artemuse is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Thu, 17 Sept 2026, next at Pratersauna, Vienna on Sat, 19 Sept 2026.
+Artemuse is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Fri, 18 Sept 2026, next at Pratersauna, Vienna on Sat, 19 Sept 2026.
 
 Artemuse is a house and tech house artist based in Austria, tracked on soundcheck, with 32 sets logged across Berlin and Vienna. Often billed alongside MELIMEKO, Reinhard Zach and Stipo. Next up: Pratersauna, Vienna on Sat 19 Sept.
 
@@ -25,4 +25,4 @@ Artemuse is a house and tech house artist based in Austria, tracked on soundchec
 
 MELIMEKO, Reinhard Zach, Stipo
 
-*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/artemuse/)*
+*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/artemuse/)*

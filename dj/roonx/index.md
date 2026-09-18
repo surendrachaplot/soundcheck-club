@@ -1,6 +1,6 @@
 # Roonx
 
-Roonx is a Club and Tech House artist with 4 upcoming club dates listed on soundcheck as of Thu, 17 Sept 2026, next at O'Reilly's Nua, Brussels on Fri, 18 Sept 2026.
+Roonx is a Club and Tech House artist with 4 upcoming club dates listed on soundcheck as of Fri, 18 Sept 2026, next at O'Reilly's Nua, Brussels on Fri, 18 Sept 2026.
 
 Roonx is a club and tech house artist tracked on soundcheck, with 21 sets logged across Brussels. Next up: O'Reilly's Nua, Brussels on Fri 18 Sept.
 
@@ -24,4 +24,4 @@ Roonx is a club and tech house artist tracked on soundcheck, with 21 sets logged
 - O'Reilly's Nua, Brussels — Sat, 13 Jun 2026
 - O'Reilly's Nua, Brussels — Fri, 12 Jun 2026
 
-*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/roonx/)*
+*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/roonx/)*

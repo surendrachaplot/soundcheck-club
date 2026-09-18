@@ -1,6 +1,6 @@
 # Tania Atyabi
 
-Tania Atyabi is a Electro and Italo Disco artist with 2 upcoming club dates listed on soundcheck as of Thu, 17 Sept 2026, next at Freedonia, Barcelona on Fri, 18 Sept 2026.
+Tania Atyabi is a Electro and Italo Disco artist with 2 upcoming club dates listed on soundcheck as of Fri, 18 Sept 2026, next at Freedonia, Barcelona on Fri, 18 Sept 2026.
 
 Tania Atyabi is an electro and italo disco artist tracked on soundcheck, with 24 sets logged across Barcelona, London and Manchester. Often billed alongside Medallion Man, YouYou (2) and ARA-U. Next up: Freedonia, Barcelona on Fri 18 Sept.
 
@@ -26,4 +26,4 @@ Tania Atyabi is an electro and italo disco artist tracked on soundcheck, with 24
 
 Medallion Man, YouYou (2), ARA-U
 
-*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/taniaatyabi/)*
+*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/taniaatyabi/)*

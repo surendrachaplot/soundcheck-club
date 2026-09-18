@@ -1,6 +1,6 @@
 # TBA - WAX CAFE
 
-TBA - WAX CAFE is a music venue in Ibiza with 1 upcoming night listed on soundcheck as of Thu, 17 Sept 2026; the next is "MASTERCLASS: Techno From Zero with Joton" on Fri, 9 Oct 2026.
+TBA - WAX CAFE is a music venue in Ibiza with 1 upcoming night listed on soundcheck as of Fri, 18 Sept 2026; the next is "MASTERCLASS: Techno From Zero with Joton" on Fri, 9 Oct 2026.
 
 TBA - WAX CAFE is a music venue in Ibiza listed on soundcheck. 1 upcoming night, with line-ups including Joton. Browse upcoming dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ TBA - WAX CAFE is a music venue in Ibiza listed on soundcheck. 1 upcoming night,
 | --- | --- | --- |
 | Fri, 9 Oct 2026 | MASTERCLASS: Techno From Zero with Joton | Joton |
 
-*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/ibiza/club/tba-wax-cafe/)*
+*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/ibiza/club/tba-wax-cafe/)*

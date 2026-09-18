@@ -1,6 +1,6 @@
 # Vivace (UK)
 
-Vivace (UK) is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Thu, 17 Sept 2026, next at Cabaret Voltaire, Edinburgh on Sat, 19 Sept 2026.
+Vivace (UK) is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Fri, 18 Sept 2026, next at Cabaret Voltaire, Edinburgh on Sat, 19 Sept 2026.
 
 Vivace (UK) is a house and techno artist tracked on soundcheck, with 5 sets logged across Belfast, Edinburgh, Leeds and London. Often billed alongside Faster Horses, STÜM and BAUGRUPPE90. Next up: Cabaret Voltaire, Edinburgh on Sat 19 Sept.
 
@@ -21,4 +21,4 @@ Vivace (UK) is a house and techno artist tracked on soundcheck, with 5 sets logg
 
 Faster Horses, STÜM, BAUGRUPPE90
 
-*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/vivace-uk/)*
+*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/vivace-uk/)*

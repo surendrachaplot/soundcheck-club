@@ -1,8 +1,8 @@
 # DJ ASS TITS
 
-DJ ASS TITS is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Thu, 17 Sept 2026, next at Gewölbe, Cologne on Sat, 26 Sept 2026.
+DJ ASS TITS is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Fri, 18 Sept 2026, next at Gewölbe, Cologne on Sat, 26 Sept 2026.
 
-DJ ASS TITS is a house and techno artist tracked on soundcheck, with 56 sets logged across Berlin, Cologne, Dusseldorf and Frankfurt and 4 more. Often billed alongside HiHat, DJ Palga and paaradoxx. Next up: Gewölbe, Cologne on Sat 26 Sept.
+DJ ASS TITS is a techno and house artist tracked on soundcheck, with 57 sets logged across Berlin, Cologne, Dusseldorf and Frankfurt and 4 more. Often billed alongside HiHat, DJ Palga and paaradoxx. Next up: Gewölbe, Cologne on Sat 26 Sept.
 
 ## Upcoming shows
 
@@ -12,6 +12,7 @@ DJ ASS TITS is a house and techno artist tracked on soundcheck, with 56 sets log
 | Fri, 2 Oct 2026 | Renate | Berlin |
 | Sat, 3 Oct 2026 | fi | Cologne |
 | Fri, 23 Oct 2026 | JAKI | Cologne |
+| Thu, 5 Nov 2026 | Stadtgarten Konzertsaal / Cafe | Cologne |
 
 ## Recently played
 
@@ -28,4 +29,4 @@ DJ ASS TITS is a house and techno artist tracked on soundcheck, with 56 sets log
 
 HiHat, DJ Palga, paaradoxx
 
-*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djasstits/)*
+*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djasstits/)*

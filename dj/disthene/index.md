@@ -1,8 +1,8 @@
 # Disthene
 
-Disthene is a Club and Bass artist with 2 upcoming club dates listed on soundcheck as of Thu, 17 Sept 2026, next at The Jama, Toronto on Fri, 25 Sept 2026.
+Disthene is a Bass and Club artist with 2 upcoming club dates listed on soundcheck as of Fri, 18 Sept 2026, next at The Jama, Toronto on Fri, 25 Sept 2026.
 
-Disthene is a club and bass artist tracked on soundcheck, with 21 sets logged across Toronto. Often billed alongside Stella Maise, ESCOBUTT and GRRLCRRSH. Next up: The Jama, Toronto on Fri 25 Sept.
+Disthene is a bass and club artist tracked on soundcheck, with 21 sets logged across Toronto. Often billed alongside Stella Maise, ESCOBUTT and GRRLCRRSH. Next up: The Jama, Toronto on Fri 25 Sept.
 
 ## Upcoming shows
 
@@ -26,4 +26,4 @@ Disthene is a club and bass artist tracked on soundcheck, with 21 sets logged ac
 
 Stella Maise, ESCOBUTT, GRRLCRRSH
 
-*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/disthene/)*
+*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/disthene/)*

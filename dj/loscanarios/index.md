@@ -1,6 +1,6 @@
 # Los Canarios
 
-Los Canarios is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Thu, 17 Sept 2026, next at Opium Barcelona, Barcelona on Wed, 23 Sept 2026.
+Los Canarios is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Fri, 18 Sept 2026, next at Opium Barcelona, Barcelona on Wed, 23 Sept 2026.
 
 Los Canarios is a house and tech house artist based in Spain, tracked on soundcheck, with 24 sets logged across Barcelona, Belgrade, Ibiza and Madrid and 1 more. Often billed alongside BizZa, Fran Hernandez and Classmatic. Next up: Opium Barcelona, Barcelona on Wed 23 Sept.
 
@@ -25,4 +25,4 @@ Los Canarios is a house and tech house artist based in Spain, tracked on soundch
 
 BizZa, Fran Hernandez, Classmatic
 
-*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/loscanarios/)*
+*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/loscanarios/)*

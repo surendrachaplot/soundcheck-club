@@ -1,6 +1,6 @@
 # Reza
 
-Reza is a House and Drum & Bass artist with 1 upcoming club date listed on soundcheck as of Thu, 17 Sept 2026, next at Viadukt Bar, Budapest on Sat, 19 Sept 2026.
+Reza is a House and Drum & Bass artist with 1 upcoming club date listed on soundcheck as of Fri, 18 Sept 2026, next at Viadukt Bar, Budapest on Sat, 19 Sept 2026.
 
 Reza is a house and drum & bass artist tracked on soundcheck, with 15 sets logged across Berlin, Budapest, Leipzig and Losangeles and 3 more. Often billed alongside Markov, Aidin (KR) and Annika Wolfe. Next up: Viadukt Bar, Budapest on Sat 19 Sept.
 
@@ -25,4 +25,4 @@ Reza is a house and drum & bass artist tracked on soundcheck, with 15 sets logge
 
 Markov, Aidin (KR), Annika Wolfe
 
-*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/reza/)*
+*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/reza/)*

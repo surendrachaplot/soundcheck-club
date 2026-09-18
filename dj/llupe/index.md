@@ -1,6 +1,6 @@
 # Llupe
 
-Llupe is a House and Acid artist with 2 upcoming club dates listed on soundcheck as of Thu, 17 Sept 2026, next at ciao ciao Bar, Berlin on Sat, 19 Sept 2026.
+Llupe is a House and Acid artist with 2 upcoming club dates listed on soundcheck as of Fri, 18 Sept 2026, next at ciao ciao Bar, Berlin on Sat, 19 Sept 2026.
 
 Llupe is a house and acid artist tracked on soundcheck, with 30 sets logged across Berlin, Madrid, Mexicocity and Prague. Often billed alongside DJ Aficionado, Eleonora K and Frinda di Lanco. Next up: ciao ciao Bar, Berlin on Sat 19 Sept.
 
@@ -26,4 +26,4 @@ Llupe is a house and acid artist tracked on soundcheck, with 30 sets logged acro
 
 DJ Aficionado, Eleonora K, Frinda di Lanco
 
-*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/llupe/)*
+*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/llupe/)*

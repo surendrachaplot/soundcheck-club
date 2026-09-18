@@ -1,6 +1,6 @@
 # Aury
 
-Aury is a Electronica and Tech House artist with 1 upcoming club date listed on soundcheck as of Thu, 17 Sept 2026, next at Core, Madrid on Sat, 19 Sept 2026.
+Aury is a Electronica and Tech House artist with 1 upcoming club date listed on soundcheck as of Fri, 18 Sept 2026, next at Core, Madrid on Sat, 19 Sept 2026.
 
 Aury is an electronica and tech house artist based in Spain, tracked on soundcheck, with 7 sets logged across Barcelona, Ibiza and Madrid. Often billed alongside 4Pleasure, A.M. Project and Alex Pott. Next up: Core, Madrid on Sat 19 Sept.
 
@@ -23,4 +23,4 @@ Aury is an electronica and tech house artist based in Spain, tracked on soundche
 
 4Pleasure, A.M. Project, Alex Pott
 
-*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/aury/)*
+*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/aury/)*

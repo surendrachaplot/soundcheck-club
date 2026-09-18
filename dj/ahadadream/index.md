@@ -1,8 +1,8 @@
 # Ahadadream
 
-Ahadadream is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Thu, 17 Sept 2026, next at Refuge, New York City on Sat, 19 Sept 2026.
+Ahadadream is a House and Techno artist with 6 upcoming club dates listed on soundcheck as of Fri, 18 Sept 2026, next at Refuge, New York City on Sat, 19 Sept 2026.
 
-Ahadadream is a house and techno artist tracked on soundcheck, with 114 sets logged across Amsterdam, Antwerp, Barcelona and Berlin and 40 more. Often billed alongside SHERELLE, salute and Interplanetary Criminal. Next up: Refuge, Newyorkcity on Sat 19 Sept.
+Ahadadream is a house and techno artist tracked on soundcheck, with 115 sets logged across Amsterdam, Antwerp, Barcelona and Berlin and 40 more. Often billed alongside SHERELLE, salute and Interplanetary Criminal. Next up: Refuge, Newyorkcity on Sat 19 Sept.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ Ahadadream is a house and techno artist tracked on soundcheck, with 114 sets log
 | Sat, 19 Sept 2026 | Refuge | New York City |
 | Fri, 25 Sept 2026 | 131 Mccormack St | Toronto |
 | Sat, 26 Sept 2026 | Waterfront Park in San Diego | San Diego |
+| Sun, 27 Sept 2026 | Audio SF | San Francisco/Oakland |
 | Fri, 2 Oct 2026 | Club Vinyl | Denver |
 | Sat, 24 Oct 2026 | Lincoln Factory | Detroit |
 
@@ -29,4 +30,4 @@ Ahadadream is a house and techno artist tracked on soundcheck, with 114 sets log
 
 SHERELLE, salute, Interplanetary Criminal
 
-*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ahadadream/)*
+*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ahadadream/)*

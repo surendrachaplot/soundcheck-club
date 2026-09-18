@@ -1,6 +1,6 @@
 # Lily London
 
-Lily London is a Bass and Broken Beat artist with 4 upcoming club dates listed on soundcheck as of Thu, 17 Sept 2026, next at The Cause, London on Sat, 19 Sept 2026.
+Lily London is a Bass and Broken Beat artist with 4 upcoming club dates listed on soundcheck as of Fri, 18 Sept 2026, next at The Cause, London on Sat, 19 Sept 2026.
 
 Lily London is a bass and broken beat artist tracked on soundcheck, with 34 sets logged across Brighton and London. Often billed alongside Dreamrdreamr, Earful of Wax and Joe Milli. Next up: The Cause, London on Sat 19 Sept.
 
@@ -28,4 +28,4 @@ Lily London is a bass and broken beat artist tracked on soundcheck, with 34 sets
 
 Dreamrdreamr, Earful of Wax, Joe Milli
 
-*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lilylondon/)*
+*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lilylondon/)*

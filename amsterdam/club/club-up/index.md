@@ -1,6 +1,6 @@
 # Club Up
 
-Club Up is a music venue in Amsterdam with 7 upcoming nights listed on soundcheck as of Thu, 17 Sept 2026; the next is "KOOPAVOND" on Thu, 17 Sept 2026.
+Club Up is a music venue in Amsterdam with 7 upcoming nights listed on soundcheck as of Fri, 18 Sept 2026; the next is "Boyos Wonderland" on Fri, 18 Sept 2026.
 
 Club Up is a music venue in Amsterdam listed on soundcheck. 7 upcoming nights, with line-ups including Becking, Boyos Soundsystem, Chunky and Danny Snowden and 2 more. Browse upcoming dates, start times and who's playing. Korte Leidsedwarsstraat 26-1; 1017  Binnenstad; Amsterdam; Netherlands.
 
@@ -8,10 +8,10 @@ Club Up is a music venue in Amsterdam listed on soundcheck. 7 upcoming nights, w
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Thu, 17 Sept 2026 | KOOPAVOND |  |
 | Fri, 18 Sept 2026 | Boyos Wonderland | Boyos Soundsystem |
 | Sat, 19 Sept 2026 | VONK x Club Up | Ive Lovers, Julian Wijn |
 | Fri, 25 Sept 2026 | SKINNYJEANS |  |
+| Fri, 2 Oct 2026 | Afro Slush |  |
 | Wed, 21 Oct 2026 | Re'Mind invites DJ Q & Douvelle19 - ADE edition | Becking, DART, DJ Q, Douvelle19, Mar'One, Yemi |
 | Thu, 22 Oct 2026 | ADE Club Up Take-over with Stef Davidse, Danny Snowden, Ryan Nicholls, TBA, TBA | Danny Snowden, Lauren Steel, Micky Hurts, Ryan Nicholls, Stef Davidse, Timmy P |
 | Sat, 24 Oct 2026 | That Garage Sound x Ghosts of Garage - ADE | Chunky, Ive Lovers, Jeremy Sylvester, LARISHKA (UK), Mattik (UK), Michael Pieterse, Rich Reason, Tiffany Quinn, Xamount |
@@ -20,4 +20,4 @@ Club Up is a music venue in Amsterdam listed on soundcheck. 7 upcoming nights, w
 
 Korte Leidsedwarsstraat 26-1; 1017  Binnenstad; Amsterdam; Netherlands, Amsterdam
 
-*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/club-up/)*
+*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/club-up/)*

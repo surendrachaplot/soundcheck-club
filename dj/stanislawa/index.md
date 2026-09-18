@@ -1,6 +1,6 @@
 # Stanislawa
 
-Stanislawa is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 17 Sept 2026, next at La Prairie du Canal, Paris on Sat, 19 Sept 2026.
+Stanislawa is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 18 Sept 2026, next at La Prairie du Canal, Paris on Sat, 19 Sept 2026.
 
 Stanislawa is a techno and house artist tracked on soundcheck, with 88 sets logged across Amsterdam, Antwerp, Berlin and Brussels and 6 more. Often billed alongside Vera Moro, EMILIJA and Helena Lauwaert. Next up: La Prairie du Canal, Paris on Sat 19 Sept.
 
@@ -26,4 +26,4 @@ Stanislawa is a techno and house artist tracked on soundcheck, with 88 sets logg
 
 Vera Moro, EMILIJA, Helena Lauwaert
 
-*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/stanislawa/)*
+*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/stanislawa/)*

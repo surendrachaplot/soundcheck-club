@@ -1,6 +1,6 @@
 # Autograf
 
-Autograf is a House and Afro House artist with 1 upcoming club date listed on soundcheck as of Thu, 17 Sept 2026, next at Future Nightlife, Toronto on Fri, 25 Sept 2026.
+Autograf is a House and Afro House artist with 1 upcoming club date listed on soundcheck as of Fri, 18 Sept 2026, next at Future Nightlife, Toronto on Fri, 25 Sept 2026.
 
 Autograf is a house and afro house artist based in United States of America, tracked on soundcheck, with 31 sets logged across Austin, Barcelona, Boston and Chicago and 11 more. Often billed alongside Blindstares, Coyote Cat and David Ardila. Next up: Future Nightlife, Toronto on Fri 25 Sept.
 
@@ -25,4 +25,4 @@ Autograf is a house and afro house artist based in United States of America, tra
 
 Blindstares, Coyote Cat, David Ardila
 
-*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/autograf/)*
+*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/autograf/)*

@@ -1,6 +1,6 @@
 # KÆS
 
-KÆS is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Thu, 17 Sept 2026, next at Letnisko Żoliborz, Warsaw on Sat, 19 Sept 2026.
+KÆS is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Fri, 18 Sept 2026, next at Letnisko Żoliborz, Warsaw on Sat, 19 Sept 2026.
 
 KÆS is a techno and tech house artist tracked on soundcheck, with 32 sets logged across Warsaw. Often billed alongside KEVS, Mabu and FVBN. Next up: Letnisko Żoliborz, Warsaw on Sat 19 Sept.
 
@@ -25,4 +25,4 @@ KÆS is a techno and tech house artist tracked on soundcheck, with 32 sets logge
 
 KEVS, Mabu, FVBN
 
-*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kæs/)*
+*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kæs/)*

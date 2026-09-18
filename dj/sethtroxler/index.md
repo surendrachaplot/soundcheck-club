@@ -1,8 +1,8 @@
 # Seth Troxler
 
-Seth Troxler is a House and Techno artist with 17 upcoming club dates listed on soundcheck as of Thu, 17 Sept 2026, next at TBA - Aeródromo Vilar de Luz - LPVL, 4425 Folgosa, Portugal, Porto on Fri, 18 Sept 2026.
+Seth Troxler is a House and Techno artist with 18 upcoming club dates listed on soundcheck as of Fri, 18 Sept 2026, next at TBA - Aeródromo Vilar de Luz - LPVL, 4425 Folgosa, Portugal, Porto on Fri, 18 Sept 2026.
 
-Seth Troxler is a house and techno artist tracked on soundcheck, with 314 sets logged across Amsterdam, Athens, Austin and Bali and 50 more. Often billed alongside DJ Tennis, Sossa and Prospa. Next up: TBA - Aeródromo Vilar de Luz - LPVL, 4425 Folgosa, Portugal, Porto on Fri 18 Sept.
+Seth Troxler is a house and techno artist tracked on soundcheck, with 315 sets logged across Amsterdam, Athens, Austin and Bali and 50 more. Often billed alongside DJ Tennis, Sossa and Prospa. Next up: TBA - Aeródromo Vilar de Luz - LPVL, 4425 Folgosa, Portugal, Porto on Fri 18 Sept.
 
 ## Upcoming shows
 
@@ -36,4 +36,4 @@ Seth Troxler is a house and techno artist tracked on soundcheck, with 314 sets l
 
 DJ Tennis, Sossa, Prospa
 
-*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sethtroxler/)*
+*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sethtroxler/)*

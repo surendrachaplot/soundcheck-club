@@ -1,6 +1,6 @@
 # Matthew Cha
 
-Matthew Cha is a Techno and Experimental artist with 2 upcoming club dates listed on soundcheck as of Thu, 17 Sept 2026, next at Neptune Room, Washington DC on Sun, 20 Sept 2026.
+Matthew Cha is a Techno and Experimental artist with 2 upcoming club dates listed on soundcheck as of Fri, 18 Sept 2026, next at Neptune Room, Washington DC on Sun, 20 Sept 2026.
 
 Matthew Cha is a techno and experimental artist tracked on soundcheck, with 30 sets logged across Berlin, Boston, Newyorkcity and Seoul and 1 more. Often billed alongside Marteka Fair, JADE CAO and Adrian Hex. Next up: Neptune Room, Washingtondc on Sun 20 Sept.
 
@@ -26,4 +26,4 @@ Matthew Cha is a techno and experimental artist tracked on soundcheck, with 30 s
 
 Marteka Fair, JADE CAO, Adrian Hex
 
-*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/matthewcha/)*
+*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/matthewcha/)*

@@ -1,8 +1,8 @@
 # Sala Siroco
 
-Sala Siroco is a music venue in Madrid with 8 upcoming nights listed on soundcheck as of Thu, 17 Sept 2026; the next is "TUMBALA" on Sat, 19 Sept 2026.
+Sala Siroco is a music venue in Madrid with 9 upcoming nights listed on soundcheck as of Fri, 18 Sept 2026; the next is "TUMBALA" on Sat, 19 Sept 2026.
 
-Sala Siroco is a music venue in Madrid listed on soundcheck. 8 upcoming nights, with line-ups including Betamax_, Buraye, Chris Gorrie and Inertial Theory and 2 more. Browse upcoming dates, start times and who's playing. Calle San Dimas, 3, 28015 Madrid, Spain.
+Sala Siroco is a music venue in Madrid listed on soundcheck. 9 upcoming nights, with line-ups including Betamax_, Buraye, Chris Gorrie and CRKS290 and 2 more. Browse upcoming dates, start times and who's playing. Calle San Dimas, 3, 28015 Madrid, Spain.
 
 ## What's on
 
@@ -10,6 +10,7 @@ Sala Siroco is a music venue in Madrid listed on soundcheck. 8 upcoming nights, 
 | --- | --- | --- |
 | Sat, 19 Sept 2026 | TUMBALA | Sany Delitos |
 | Fri, 2 Oct 2026 | Quinoa Experience: Buraye (Live), Betamax, Chris Gorrie | Betamax_, Buraye, Chris Gorrie |
+| Fri, 9 Oct 2026 | MAD BLOCK PARTY | CRKS290, Flextime |
 | Sun, 11 Oct 2026 | GRLS - Sala Siroco, Madrid |  |
 | Thu, 15 Oct 2026 | DIEGALES - Sala Siroco |  |
 | Wed, 4 Nov 2026 | Belladonna SEED's | Leofix, Satori |
@@ -21,4 +22,4 @@ Sala Siroco is a music venue in Madrid listed on soundcheck. 8 upcoming nights, 
 
 Calle San Dimas, 3, 28015 Madrid, Spain, Madrid
 
-*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/sala-siroco/)*
+*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/sala-siroco/)*

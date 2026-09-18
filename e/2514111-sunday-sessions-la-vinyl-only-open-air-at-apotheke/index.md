@@ -1,6 +1,6 @@
 # Sunday Sessions LA (Vinyl Only) Open Air at Apotheke
 
-Sunday Sessions LA (Vinyl Only) Open Air at Apotheke on Sun 20 Sept, Losangeles. 2 acts on the bill: Adam Rose and ALKMST. House and Deep House. Preview the line-up and save it on soundcheck.
+Sunday Sessions LA (Vinyl Only) Open Air at Apotheke on Sun 20 Sept, Losangeles. 3 acts on the bill: Adam Rose, ALKMST and Mesmé. House and Deep House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -12,5 +12,6 @@ Sunday Sessions LA (Vinyl Only) Open Air at Apotheke on Sun 20 Sept, Losangeles.
 
 - Adam Rose
 - ALKMST
+- Mesmé
 
 *Source: [soundcheck](https://soundcheck.club/e/2514111-sunday-sessions-la-vinyl-only-open-air-at-apotheke/)*

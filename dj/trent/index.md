@@ -1,6 +1,6 @@
 # Trent
 
-Trent is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Thu, 17 Sept 2026, next at Giri, Berlin on Fri, 25 Sept 2026.
+Trent is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Fri, 18 Sept 2026, next at Giri, Berlin on Fri, 25 Sept 2026.
 
 Trent is a house and disco artist tracked on soundcheck, with 39 sets logged across Bangkok, Berlin, Chicago and Geneva and 12 more. Often billed alongside Juan Ramos, GreenVision and YAMARCHY. Next up: Giri, Berlin on Fri 25 Sept.
 
@@ -25,4 +25,4 @@ Trent is a house and disco artist tracked on soundcheck, with 39 sets logged acr
 
 Juan Ramos, GreenVision, YAMARCHY
 
-*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/trent/)*
+*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/trent/)*

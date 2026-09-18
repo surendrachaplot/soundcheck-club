@@ -1,8 +1,8 @@
 # Todd Terry
 
-Todd Terry is a House and Disco artist with 12 upcoming club dates listed on soundcheck as of Thu, 17 Sept 2026, next at The Fox and Firkin, London on Fri, 18 Sept 2026.
+Todd Terry is a House and Disco artist with 13 upcoming club dates listed on soundcheck as of Fri, 18 Sept 2026, next at The Fox and Firkin, London on Fri, 18 Sept 2026.
 
-Todd Terry is a house and disco artist tracked on soundcheck, with 151 sets logged across Amsterdam, Bali, Barcelona and Bristol and 29 more. Often billed alongside Janika Tenn, Ferreck Dawn and Melvo Baptiste. Next up: The Fox and Firkin, London on Fri 18 Sept.
+Todd Terry is a house and disco artist tracked on soundcheck, with 152 sets logged across Amsterdam, Bali, Barcelona and Bristol and 29 more. Often billed alongside Janika Tenn, Ferreck Dawn and Melvo Baptiste. Next up: The Fox and Firkin, London on Fri 18 Sept.
 
 ## Upcoming shows
 
@@ -16,10 +16,10 @@ Todd Terry is a house and disco artist tracked on soundcheck, with 151 sets logg
 | Thu, 1 Oct 2026 | UNO MALTA | Malta |
 | Fri, 2 Oct 2026 | Amnesia Ibiza | Ibiza |
 | Sat, 10 Oct 2026 | The Pitt Market | Edinburgh |
+| Thu, 22 Oct 2026 | Borisov Amsterdam | Amsterdam |
 | Sun, 25 Oct 2026 | Het Sieraad | Amsterdam |
 | Fri, 30 Oct 2026 | Palm House | Liverpool |
 | Fri, 30 Oct 2026 | Freeze HiFi | Liverpool |
-| Sat, 31 Oct 2026 | Freeze HiFi | Liverpool |
 
 ## Recently played
 
@@ -36,4 +36,4 @@ Todd Terry is a house and disco artist tracked on soundcheck, with 151 sets logg
 
 Janika Tenn, Ferreck Dawn, Melvo Baptiste
 
-*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/toddterry/)*
+*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/toddterry/)*

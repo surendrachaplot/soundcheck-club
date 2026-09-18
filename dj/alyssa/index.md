@@ -1,6 +1,6 @@
 # Alyssa
 
-Alyssa is a Bass and Industrial artist with 1 upcoming club date listed on soundcheck as of Thu, 17 Sept 2026, next at The Lubber Fiend, Newcastle on Thu, 17 Sept 2026.
+Alyssa is a Bass and Industrial artist with 1 upcoming club date listed on soundcheck as of Fri, 18 Sept 2026, next at The Lubber Fiend, Newcastle on Thu, 17 Sept 2026.
 
 Alyssa is a bass and industrial artist based in Mexico, tracked on soundcheck, with 5 sets logged across Berlin, Newcastle, Vienna and Washingtondc. Often billed alongside BØRT, Children of Zeus and Cowper. Next up: The Lubber Fiend, Newcastle on Thu 17 Sept.
 
@@ -12,6 +12,7 @@ Alyssa is a bass and industrial artist based in Mexico, tracked on soundcheck, w
 
 ## Recently played
 
+- The Lubber Fiend, Newcastle — Thu, 17 Sept 2026
 - Festsaal Kreuzberg, Berlin — Sat, 9 Nov 2024
 - Panke, Berlin — Thu, 7 Mar 2024
 - Mexikoplatz (Mexikopark), Vienna — Sat, 9 Sept 2023
@@ -21,4 +22,4 @@ Alyssa is a bass and industrial artist based in Mexico, tracked on soundcheck, w
 
 BØRT, Children of Zeus, Cowper
 
-*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/alyssa/)*
+*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/alyssa/)*

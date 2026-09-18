@@ -1,14 +1,15 @@
 # Tai Lokun
 
-Tai Lokun is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 17 Sept 2026, next at The Carpet Shop, London on Fri, 18 Sept 2026.
+Tai Lokun is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 18 Sept 2026, next at The Carpet Shop, London on Fri, 18 Sept 2026.
 
-Tai Lokun is a house and techno artist based in United Kingdom, tracked on soundcheck, with 70 sets logged across Amsterdam, Antwerp, Berlin and Bristol and 11 more. Often billed alongside Amaliah, Heléna Star and Hunee. Next up: The Carpet Shop, London on Fri 18 Sept.
+Tai Lokun is a house and techno artist based in United Kingdom, tracked on soundcheck, with 71 sets logged across Amsterdam, Antwerp, Berlin and Bristol and 11 more. Often billed alongside Amaliah, Heléna Star and Hunee. Next up: The Carpet Shop, London on Fri 18 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 18 Sept 2026 | The Carpet Shop | London |
+| Sat, 14 Nov 2026 | fabric | London |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Tai Lokun is a house and techno artist based in United Kingdom, tracked on sound
 
 Amaliah, Heléna Star, Hunee
 
-*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tailokun/)*
+*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tailokun/)*

@@ -1,6 +1,6 @@
 # Voiski
 
-Voiski is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 17 Sept 2026, next at TBA - Secret Location, Amsterdam on Sat, 19 Sept 2026.
+Voiski is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 18 Sept 2026, next at TBA - Secret Location, Amsterdam on Sat, 19 Sept 2026.
 
 Voiski is a techno and house artist based in France, tracked on soundcheck, with 63 sets logged across Amsterdam, Bali, Barcelona and Berlin and 22 more. Often billed alongside Eliott Litrowski, Altinbas and Newa. Next up: TBA - Secret Location, Amsterdam on Sat 19 Sept.
 
@@ -25,4 +25,4 @@ Voiski is a techno and house artist based in France, tracked on soundcheck, with
 
 Eliott Litrowski, Altinbas, Newa
 
-*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/voiski/)*
+*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/voiski/)*

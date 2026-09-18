@@ -1,6 +1,6 @@
 # bloobeer
 
-bloobeer is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 17 Sept 2026, next at The Doghouse, Edinburgh on Fri, 18 Sept 2026.
+bloobeer is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 18 Sept 2026, next at The Doghouse, Edinburgh on Fri, 18 Sept 2026.
 
 bloobeer is a house and techno artist tracked on soundcheck, with 8 sets logged across Edinburgh. Often billed alongside Chameleon (1), Jacuzzi General and Lara Sinclair. Next up: The Doghouse, Edinburgh on Fri 18 Sept.
 
@@ -24,4 +24,4 @@ bloobeer is a house and techno artist tracked on soundcheck, with 8 sets logged 
 
 Chameleon (1), Jacuzzi General, Lara Sinclair
 
-*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bloobeer/)*
+*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bloobeer/)*

@@ -1,13 +1,14 @@
 # Eva Myra May
 
-Eva Myra May is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 17 Sept 2026, next at TBA - Hollywood, Los Angeles on Fri, 2 Oct 2026.
+Eva Myra May is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 18 Sept 2026, next at TBA - Frogtown, Los Angeles on Sat, 19 Sept 2026.
 
-Eva Myra May is a house and techno artist based in United States of America, tracked on soundcheck, with 29 sets logged across Losangeles and Sandiego. Often billed alongside Pretty Gay Friendly, coldsweat and gloworm. Next up: TBA - Hollywood, Losangeles on Fri 2 Oct.
+Eva Myra May is a house and techno artist based in United States of America, tracked on soundcheck, with 30 sets logged across Losangeles and Sandiego. Often billed alongside Pretty Gay Friendly, coldsweat and gloworm. Next up: TBA - Frogtown, Losangeles on Sat 19 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 19 Sept 2026 | TBA - Frogtown | Los Angeles |
 | Fri, 2 Oct 2026 | TBA - Hollywood | Los Angeles |
 
 ## Recently played
@@ -25,4 +26,4 @@ Eva Myra May is a house and techno artist based in United States of America, tra
 
 Pretty Gay Friendly, coldsweat, gloworm
 
-*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/evamyramay/)*
+*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/evamyramay/)*

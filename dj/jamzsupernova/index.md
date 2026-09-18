@@ -1,14 +1,13 @@
 # Jamz Supernova
 
-Jamz Supernova is a House and Funk / Soul artist with 9 upcoming club dates listed on soundcheck as of Thu, 17 Sept 2026, next at Colour Factory, London on Thu, 17 Sept 2026.
+Jamz Supernova is a House and Funk / Soul artist with 9 upcoming club dates listed on soundcheck as of Fri, 18 Sept 2026, next at Various Venues, London on Thu, 24 Sept 2026.
 
-Jamz Supernova is a house and funk / soul artist tracked on soundcheck, with 102 sets logged across Amsterdam, Bali, Bangkok and Barcelona and 23 more. Often billed alongside Tash LC, Ezra Collective and Gilles Peterson. Next up: Colour Factory, London on Thu 17 Sept.
+Jamz Supernova is a house and funk / soul artist tracked on soundcheck, with 103 sets logged across Amsterdam, Bali, Bangkok and Barcelona and 23 more. Often billed alongside Tash LC, Ezra Collective and Gilles Peterson. Next up: Various Venues, London on Thu 24 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Thu, 17 Sept 2026 | Colour Factory | London |
 | Thu, 24 Sept 2026 | Various Venues | London |
 | Thu, 24 Sept 2026 | Dahlia Stereo | Manchester |
 | Sat, 3 Oct 2026 | Carriageworks | Sydney |
@@ -17,9 +16,11 @@ Jamz Supernova is a house and funk / soul artist tracked on soundcheck, with 102
 | Sat, 24 Oct 2026 | Movers | Nottingham |
 | Fri, 30 Oct 2026 | The Jazz Cafe | London |
 | Fri, 6 Nov 2026 | Headrow House | Leeds |
+| Fri, 27 Nov 2026 | People's Leisure Club | Edinburgh |
 
 ## Recently played
 
+- Colour Factory, London — Thu, 17 Sept 2026
 - Hackney Bridge, London — Sat, 29 Aug 2026
 - The Downs, Bristol, Bristol — Sat, 29 Aug 2026
 - SWG3, Glasgow — Sun, 26 Jul 2026
@@ -27,10 +28,9 @@ Jamz Supernova is a house and funk / soul artist tracked on soundcheck, with 102
 - Queen Elizabeth Olympic Park, London — Sat, 11 Jul 2026
 - Moseley Park, Birmingham — Fri, 10 Jul 2026
 - First Light Festival, London — Sat, 20 Jun 2026
-- Jumbi, London — Sat, 16 May 2026
 
 ## Shares bills with
 
 Tash LC, Ezra Collective, Gilles Peterson
 
-*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jamzsupernova/)*
+*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jamzsupernova/)*

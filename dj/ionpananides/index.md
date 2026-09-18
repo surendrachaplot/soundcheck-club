@@ -1,20 +1,20 @@
 # Ion Pananides
 
-Ion Pananides is a House and Tech House artist with 4 upcoming club dates listed on soundcheck as of Thu, 17 Sept 2026, next at Cova Santa, Ibiza on Thu, 17 Sept 2026.
+Ion Pananides is a House and Tech House artist with 3 upcoming club dates listed on soundcheck as of Fri, 18 Sept 2026, next at Sophie Festival, Malaga on Sat, 19 Sept 2026.
 
-Ion Pananides is a house and tech house artist based in Spain, tracked on soundcheck, with 76 sets logged across Barcelona, Ibiza, London and Madrid and 3 more. Often billed alongside Alex Pott, DJ Sandwich and IULS. Next up: Cova Santa, Ibiza on Thu 17 Sept.
+Ion Pananides is a house and tech house artist based in Spain, tracked on soundcheck, with 76 sets logged across Barcelona, Ibiza, London and Madrid and 3 more. Often billed alongside Alex Pott, DJ Sandwich and IULS. Next up: Sophie Festival, Malaga on Sat 19 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Thu, 17 Sept 2026 | Cova Santa | Ibiza |
 | Sat, 19 Sept 2026 | Sophie Festival | Malaga |
 | Sat, 26 Sept 2026 | Sunseabar Beach Club | Barcelona |
 | Sat, 7 Nov 2026 | Les Enfants Brillants | Barcelona |
 
 ## Recently played
 
+- Cova Santa, Ibiza — Thu, 17 Sept 2026
 - Hola Club Sitges (Cala Vallcarca), Barcelona — Sun, 13 Sept 2026
 - Sunseabar Beach Club, Barcelona — Sat, 15 Aug 2026
 - Hola Club Sitges (Cala Vallcarca), Barcelona — Sat, 1 Aug 2026
@@ -22,10 +22,9 @@ Ion Pananides is a house and tech house artist based in Spain, tracked on soundc
 - Hola Club Sitges (Cala Vallcarca), Barcelona — Tue, 23 Jun 2026
 - Gilda Club, Madrid — Sat, 30 May 2026
 - Akasha Las Dalias Club - Ibiza, Ibiza — Fri, 22 May 2026
-- TBA - San Antonio, Sa Punta des Molí, Ibiza — Sat, 2 May 2026
 
 ## Shares bills with
 
 Alex Pott, DJ Sandwich, IULS
 
-*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ionpananides/)*
+*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ionpananides/)*

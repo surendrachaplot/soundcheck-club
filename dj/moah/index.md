@@ -1,13 +1,14 @@
 # MOAH
 
-MOAH is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 17 Sept 2026, next at Bolero, Seoul on Fri, 25 Sept 2026.
+MOAH is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 18 Sept 2026, next at Bolero, Seoul on Fri, 25 Sept 2026.
 
-MOAH is a techno and house artist tracked on soundcheck, with 11 sets logged across Bangkok and Seoul. Often billed alongside lucii, BYOL and KIMNA. Next up: Bolero, Seoul on Fri 25 Sept.
+MOAH is a techno and house artist tracked on soundcheck, with 12 sets logged across Bangkok and Seoul. Often billed alongside lucii, BYOL and DJ Co.kr. Next up: Bolero, Seoul on Fri 25 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 25 Sept 2026 | Bolero | Seoul |
 | Fri, 25 Sept 2026 | Bolero | Seoul |
 
 ## Recently played
@@ -23,6 +24,6 @@ MOAH is a techno and house artist tracked on soundcheck, with 11 sets logged acr
 
 ## Shares bills with
 
-lucii, BYOL, KIMNA
+lucii, BYOL, DJ Co.kr
 
-*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/moah/)*
+*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/moah/)*

@@ -1,6 +1,6 @@
 # 400 Vinyl Room
 
-400 Vinyl Room is a music venue in Miami with 2 upcoming nights listed on soundcheck as of Thu, 17 Sept 2026; the next is "Friday Grooves" on Fri, 18 Sept 2026.
+400 Vinyl Room is a music venue in Miami with 2 upcoming nights listed on soundcheck as of Fri, 18 Sept 2026; the next is "Friday Grooves" on Fri, 18 Sept 2026.
 
 400 Vinyl Room is a music venue in Miami listed on soundcheck. 2 upcoming nights. Browse upcoming dates, start times and who's playing. 159 NE 6th St fl 9, Miami, FL 33132.
 
@@ -15,4 +15,4 @@
 
 159 NE 6th St fl 9, Miami, FL 33132, Miami
 
-*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/miami/club/400-vinyl-room/)*
+*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/miami/club/400-vinyl-room/)*

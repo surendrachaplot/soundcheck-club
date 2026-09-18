@@ -1,8 +1,8 @@
 # vurt.
 
-vurt. is a music venue in Seoul with 6 upcoming nights listed on soundcheck as of Thu, 17 Sept 2026; the next is "SYCONIUM" on Fri, 18 Sept 2026.
+vurt. is a music venue in Seoul with 8 upcoming nights listed on soundcheck as of Fri, 18 Sept 2026; the next is "SYCONIUM" on Fri, 18 Sept 2026.
 
-vurt. is a music venue in Seoul listed on soundcheck. 6 upcoming nights, with line-ups including Andreas Tilliander, Anthony Linell, Djilogue and Dong and 2 more. Browse upcoming dates, start times and who's playing. 11, Dongmak-ro, Mapo-gu, Seoul, South Korea..
+vurt. is a music venue in Seoul listed on soundcheck. 8 upcoming nights, with line-ups including Andreas Tilliander, Anthony Linell, Djilogue and Dong and 2 more. Browse upcoming dates, start times and who's playing. 11, Dongmak-ro, Mapo-gu, Seoul, South Korea..
 
 ## What's on
 
@@ -14,9 +14,11 @@ vurt. is a music venue in Seoul listed on soundcheck. 6 upcoming nights, with li
 | Fri, 25 Sept 2026 | vurtnight Efdemin | Djilogue, Efdemin, SUNA |
 | Sat, 26 Sept 2026 | vurtnight Octo Åeterna | GOBI, Octo Åeterna, SUZAN (2) |
 | Sat, 3 Oct 2026 | Kontra-Musik Records 20 years | Andreas Tilliander, Ulf Eriksson |
+| Sat, 10 Oct 2026 | vurtnight Woody92 | Woody92 |
+| Fri, 16 Oct 2026 | vurtnight Toki Fuko Live | Toki Fuko |
 
 ## Address
 
 11, Dongmak-ro, Mapo-gu, Seoul, South Korea., Seoul
 
-*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/seoul/club/vurt/)*
+*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/seoul/club/vurt/)*

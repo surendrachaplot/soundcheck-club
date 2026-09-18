@@ -1,6 +1,6 @@
 # Pla de Palau
 
-Pla de Palau is a music venue in Barcelona with 1 upcoming night listed on soundcheck as of Thu, 17 Sept 2026; the next is "La Portenya DJ at Born Street Food 2026" on Fri, 18 Sept 2026.
+Pla de Palau is a music venue in Barcelona with 1 upcoming night listed on soundcheck as of Fri, 18 Sept 2026; the next is "La Portenya DJ at Born Street Food 2026" on Fri, 18 Sept 2026.
 
 Pla de Palau is a music venue in Barcelona listed on soundcheck. 1 upcoming night, with line-ups including La Portenya DJ. Browse upcoming dates, start times and who's playing. Pla de Palau 1 08003 Barcelona, Spain.
 
@@ -14,4 +14,4 @@ Pla de Palau is a music venue in Barcelona listed on soundcheck. 1 upcoming nigh
 
 Pla de Palau 1 08003 Barcelona, Spain, Barcelona
 
-*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/pla-de-palau/)*
+*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/pla-de-palau/)*

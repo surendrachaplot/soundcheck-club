@@ -1,6 +1,6 @@
 # Socrates Antypas
 
-Socrates Antypas is a electronic artist with 1 upcoming club date listed on soundcheck as of Thu, 17 Sept 2026, next at Ilion Plus, Athens on Fri, 18 Sept 2026.
+Socrates Antypas is a electronic artist with 1 upcoming club date listed on soundcheck as of Fri, 18 Sept 2026, next at Ilion Plus, Athens on Fri, 18 Sept 2026.
 
 Socrates Antypas is an electronic artist tracked on soundcheck, with 20 sets logged across Athens. Often billed alongside Apu Nanu, Andreas Palmer and Miss Trouli. Next up: Ilion Plus, Athens on Fri 18 Sept.
 
@@ -25,4 +25,4 @@ Socrates Antypas is an electronic artist tracked on soundcheck, with 20 sets log
 
 Apu Nanu, Andreas Palmer, Miss Trouli
 
-*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/socratesantypas/)*
+*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/socratesantypas/)*

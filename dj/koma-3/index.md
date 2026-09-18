@@ -1,6 +1,6 @@
 # KŌMA (3)
 
-KŌMA (3) is a Techno and Bass artist with 2 upcoming club dates listed on soundcheck as of Thu, 17 Sept 2026, next at La Fabriek, Brussels on Fri, 9 Oct 2026.
+KŌMA (3) is a Techno and Bass artist with 2 upcoming club dates listed on soundcheck as of Fri, 18 Sept 2026, next at La Fabriek, Brussels on Fri, 9 Oct 2026.
 
 KŌMA (3) is a techno and bass artist tracked on soundcheck, with 45 sets logged across Antwerp, Berlin, Bristol and Brussels and 6 more. Often billed alongside Shoplifter, VCR (1) and Erykah. Next up: La Fabriek, Brussels on Fri 9 Oct.
 
@@ -26,4 +26,4 @@ KŌMA (3) is a techno and bass artist tracked on soundcheck, with 45 sets logged
 
 Shoplifter, VCR (1), Erykah
 
-*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/koma-3/)*
+*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/koma-3/)*

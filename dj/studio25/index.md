@@ -1,6 +1,6 @@
 # Studio25
 
-Studio25 is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Thu, 17 Sept 2026, next at Gianca - Murazzi, Turin on Fri, 18 Sept 2026.
+Studio25 is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Fri, 18 Sept 2026, next at Gianca - Murazzi, Turin on Fri, 18 Sept 2026.
 
 Studio25 is a house and tech house artist based in Italy, tracked on soundcheck, with 24 sets logged across Turin. Often billed alongside F'AL, AGELESS and Alex Mine. Next up: Gianca - Murazzi, Turin on Fri 18 Sept.
 
@@ -25,4 +25,4 @@ Studio25 is a house and tech house artist based in Italy, tracked on soundcheck,
 
 F'AL, AGELESS, Alex Mine
 
-*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/studio25/)*
+*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/studio25/)*

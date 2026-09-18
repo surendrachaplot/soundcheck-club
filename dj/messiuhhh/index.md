@@ -1,14 +1,15 @@
 # messiuhhh
 
-messiuhhh is a Techno and Electronica artist with 2 upcoming club dates listed on soundcheck as of Thu, 17 Sept 2026, next at TBA - SECRET SF LOCATION, San Francisco/Oakland on Fri, 25 Sept 2026.
+messiuhhh is a Techno and Club artist with 3 upcoming club dates listed on soundcheck as of Fri, 18 Sept 2026, next at TBA - SECRET SF LOCATION, San Francisco/Oakland on Fri, 25 Sept 2026.
 
-messiuhhh is a techno and electronica artist tracked on soundcheck, with 5 sets logged across Sanfrancisco. Often billed alongside MALICIEL, @djlobottomy and CHRI5PY. Next up: TBA - SECRET SF LOCATION, Sanfrancisco on Fri 25 Sept.
+messiuhhh is a techno and club artist tracked on soundcheck, with 6 sets logged across Sanfrancisco. Often billed alongside MALICIEL, @djlobottomy and Booty Juice. Next up: TBA - SECRET SF LOCATION, Sanfrancisco on Fri 25 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 25 Sept 2026 | TBA - SECRET SF LOCATION | San Francisco/Oakland |
+| Thu, 1 Oct 2026 | Monarch | San Francisco/Oakland |
 | Fri, 16 Oct 2026 | Underground SF | San Francisco/Oakland |
 
 ## Recently played
@@ -19,6 +20,6 @@ messiuhhh is a techno and electronica artist tracked on soundcheck, with 5 sets 
 
 ## Shares bills with
 
-MALICIEL, @djlobottomy, CHRI5PY
+MALICIEL, @djlobottomy, Booty Juice
 
-*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/messiuhhh/)*
+*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/messiuhhh/)*

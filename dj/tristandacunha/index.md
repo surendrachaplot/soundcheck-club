@@ -1,6 +1,6 @@
 # Tristan da Cunha
 
-Tristan da Cunha is a House and Garage artist with 3 upcoming club dates listed on soundcheck as of Thu, 17 Sept 2026, next at UNO MALTA, Malta on Fri, 18 Sept 2026.
+Tristan da Cunha is a House and Garage artist with 3 upcoming club dates listed on soundcheck as of Fri, 18 Sept 2026, next at UNO MALTA, Malta on Fri, 18 Sept 2026.
 
 Tristan da Cunha is a house and garage artist tracked on soundcheck, with 103 sets logged across Amsterdam, Barcelona, Berlin and Birmingham and 17 more. Often billed alongside Brawther, Dungeon Meat and Samuel Deep. Next up: UNO MALTA, Malta on Fri 18 Sept.
 
@@ -27,4 +27,4 @@ Tristan da Cunha is a house and garage artist tracked on soundcheck, with 103 se
 
 Brawther, Dungeon Meat, Samuel Deep
 
-*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tristandacunha/)*
+*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tristandacunha/)*

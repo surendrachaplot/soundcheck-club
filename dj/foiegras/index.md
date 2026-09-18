@@ -1,6 +1,6 @@
 # Foie Gras
 
-Foie Gras is a House and Balearic artist with 2 upcoming club dates listed on soundcheck as of Thu, 17 Sept 2026, next at Club Malasaña, Madrid on Sat, 19 Sept 2026.
+Foie Gras is a House and Balearic artist with 2 upcoming club dates listed on soundcheck as of Fri, 18 Sept 2026, next at Club Malasaña, Madrid on Sat, 19 Sept 2026.
 
 Foie Gras is a house and balearic artist based in Spain, tracked on soundcheck, with 78 sets logged across Barcelona, Budapest, Madrid and Milan and 1 more. Often billed alongside Le Nomad, 1Night Only and Antoine.. Next up: Club Malasaña, Madrid on Sat 19 Sept.
 
@@ -26,4 +26,4 @@ Foie Gras is a house and balearic artist based in Spain, tracked on soundcheck, 
 
 Le Nomad, 1Night Only, Antoine.
 
-*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/foiegras/)*
+*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/foiegras/)*

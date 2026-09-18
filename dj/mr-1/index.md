@@ -1,6 +1,6 @@
 # M/R
 
-M/R is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Thu, 17 Sept 2026, next at ROCA HIFI, Mexico City on Fri, 18 Sept 2026.
+M/R is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Fri, 18 Sept 2026, next at ROCA HIFI, Mexico City on Fri, 18 Sept 2026.
 
 M/R is a house and disco artist tracked on soundcheck, with 37 sets logged across Berlin, Mexicocity, Miami and Newyorkcity. Often billed alongside Mike Terra and Myroslaw Bytz. Next up: ROCA HIFI, Mexicocity on Fri 18 Sept.
 
@@ -25,4 +25,4 @@ M/R is a house and disco artist tracked on soundcheck, with 37 sets logged acros
 
 Mike Terra, Myroslaw Bytz
 
-*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mr-1/)*
+*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mr-1/)*

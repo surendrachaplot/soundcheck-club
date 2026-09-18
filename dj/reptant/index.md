@@ -1,6 +1,6 @@
 # Reptant
 
-Reptant is a Electro and Techno artist with 8 upcoming club dates listed on soundcheck as of Thu, 17 Sept 2026, next at TBA - Paris, Paris on Fri, 18 Sept 2026.
+Reptant is a Electro and Techno artist with 8 upcoming club dates listed on soundcheck as of Fri, 18 Sept 2026, next at TBA - Paris, Paris on Fri, 18 Sept 2026.
 
 Reptant is an electro and techno artist tracked on soundcheck, with 135 sets logged across Amsterdam, Barcelona, Berlin and Bristol and 36 more. Often billed alongside Kia (AU), Miscmeg and Moopie. Next up: TBA - Paris, Paris on Fri 18 Sept.
 
@@ -32,4 +32,4 @@ Reptant is an electro and techno artist tracked on soundcheck, with 135 sets log
 
 Kia (AU), Miscmeg, Moopie
 
-*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/reptant/)*
+*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/reptant/)*

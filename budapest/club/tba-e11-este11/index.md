@@ -1,6 +1,6 @@
 # TBA - E11 - Este11
 
-TBA - E11 - Este11 is a music venue in Budapest with 1 upcoming night listed on soundcheck as of Thu, 17 Sept 2026; the next is "Disco Sauce: First Edition" on Sat, 19 Sept 2026.
+TBA - E11 - Este11 is a music venue in Budapest with 1 upcoming night listed on soundcheck as of Fri, 18 Sept 2026; the next is "Disco Sauce: First Edition" on Sat, 19 Sept 2026.
 
 TBA - E11 - Este11 is a music venue in Budapest listed on soundcheck. 1 upcoming night. Browse upcoming dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ TBA - E11 - Este11 is a music venue in Budapest listed on soundcheck. 1 upcoming
 | --- | --- | --- |
 | Sat, 19 Sept 2026 | Disco Sauce: First Edition |  |
 
-*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/budapest/club/tba-e11-este11/)*
+*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/budapest/club/tba-e11-este11/)*

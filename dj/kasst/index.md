@@ -1,6 +1,6 @@
 # KAS:ST
 
-KAS:ST is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Thu, 17 Sept 2026, next at Waterfront Park in San Diego, San Diego on Sat, 26 Sept 2026.
+KAS:ST is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Fri, 18 Sept 2026, next at Waterfront Park in San Diego, San Diego on Sat, 26 Sept 2026.
 
 KAS:ST is a techno and house artist tracked on soundcheck, with 91 sets logged across Amsterdam, Antwerp, Athens and Austin and 37 more. Often billed alongside Mathame, Henri Bergmann and Enrico Sangiuliano. Next up: Waterfront Park in San Diego, Sandiego on Sat 26 Sept.
 
@@ -28,4 +28,4 @@ KAS:ST is a techno and house artist tracked on soundcheck, with 91 sets logged a
 
 Mathame, Henri Bergmann, Enrico Sangiuliano
 
-*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kasst/)*
+*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kasst/)*

@@ -1,6 +1,6 @@
 # NO1ELSE
 
-NO1ELSE is a Industrial and Hardcore artist with 6 upcoming club dates listed on soundcheck as of Thu, 17 Sept 2026, next at John Doe, Amsterdam on Mon, 21 Sept 2026.
+NO1ELSE is a Industrial and Hardcore artist with 6 upcoming club dates listed on soundcheck as of Fri, 18 Sept 2026, next at John Doe, Amsterdam on Mon, 21 Sept 2026.
 
 NO1ELSE is an industrial and hardcore artist tracked on soundcheck, with 155 sets logged across Amsterdam and Lisbon. Often billed alongside RTDV, Messiahwaits and MINDMISTAKE. Next up: John Doe, Amsterdam on Mon 21 Sept.
 
@@ -30,4 +30,4 @@ NO1ELSE is an industrial and hardcore artist tracked on soundcheck, with 155 set
 
 RTDV, Messiahwaits, MINDMISTAKE
 
-*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/no1else/)*
+*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/no1else/)*

@@ -1,8 +1,8 @@
 # Elli Acula
 
-Elli Acula is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Thu, 17 Sept 2026, next at Jaeger, Oslo on Fri, 18 Sept 2026.
+Elli Acula is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Fri, 18 Sept 2026, next at Jaeger, Oslo on Fri, 18 Sept 2026.
 
-Elli Acula is a techno and house artist tracked on soundcheck, with 214 sets logged across Amsterdam, Athens, Barcelona and Basel and 58 more. Often billed alongside FJAAK, 999999999 and Anna Z.. Next up: Jaeger, Oslo on Fri 18 Sept.
+Elli Acula is a techno and house artist tracked on soundcheck, with 215 sets logged across Amsterdam, Athens, Barcelona and Basel and 58 more. Often billed alongside FJAAK, 999999999 and Anna Z.. Next up: Jaeger, Oslo on Fri 18 Sept.
 
 ## Upcoming shows
 
@@ -13,6 +13,7 @@ Elli Acula is a techno and house artist tracked on soundcheck, with 214 sets log
 | Fri, 2 Oct 2026 | Gate Milano | Milan |
 | Sat, 17 Oct 2026 | RSO.BERLIN | Berlin |
 | Sat, 7 Nov 2026 | RADION | Amsterdam |
+| Sat, 14 Nov 2026 | fabric | London |
 
 ## Recently played
 
@@ -29,4 +30,4 @@ Elli Acula is a techno and house artist tracked on soundcheck, with 214 sets log
 
 FJAAK, 999999999, Anna Z.
 
-*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/elliacula/)*
+*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/elliacula/)*

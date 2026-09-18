@@ -1,6 +1,6 @@
 # HAUSU_OF_BUBBLE T: COSPL_A_ZIA 2026 at Paragon
 
-HAUSU_OF_BUBBLE T: COSPL_A_ZIA 2026 at Paragon on Sat 17 Oct, Newyorkcity. 1 act on the bill: LANSUH. Tech House and Club. Preview the line-up and save it on soundcheck.
+HAUSU_OF_BUBBLE T: COSPL_A_ZIA 2026 at Paragon on Sat 17 Oct, Newyorkcity. 2 acts on the bill: LANSUH and Ly Tran. Tech House and Club. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,5 +11,6 @@ HAUSU_OF_BUBBLE T: COSPL_A_ZIA 2026 at Paragon on Sat 17 Oct, Newyorkcity. 1 act
 ## Line-up
 
 - LANSUH
+- Ly Tran
 
 *Source: [soundcheck](https://soundcheck.club/e/2536147-hausu-of-bubble-t-cospl-a-zia-2026-at-paragon/)*

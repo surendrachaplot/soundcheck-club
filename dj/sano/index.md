@@ -1,6 +1,6 @@
 # Sano
 
-Sano is a Afro House and R&B artist with 1 upcoming club date listed on soundcheck as of Thu, 17 Sept 2026, next at Bella Veranda, Zurich on Sat, 19 Sept 2026.
+Sano is a Afro House and R&B artist with 1 upcoming club date listed on soundcheck as of Fri, 18 Sept 2026, next at Bella Veranda, Zurich on Sat, 19 Sept 2026.
 
 Sano is an afro house and r&b artist tracked on soundcheck, with 7 sets logged across Amsterdam, Milan, Tokyo and Zurich. Often billed alongside DJ B2B, Ethan and Gibbo. Next up: Bella Veranda, Zurich on Sat 19 Sept.
 
@@ -23,4 +23,4 @@ Sano is an afro house and r&b artist tracked on soundcheck, with 7 sets logged a
 
 DJ B2B, Ethan, Gibbo
 
-*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sano/)*
+*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sano/)*

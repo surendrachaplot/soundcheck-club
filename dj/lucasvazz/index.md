@@ -1,14 +1,15 @@
 # Lucas Vazz
 
-Lucas Vazz is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 17 Sept 2026, next at Almar Beach Club, Barcelona on Fri, 18 Sept 2026.
+Lucas Vazz is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 18 Sept 2026, next at Almar Beach Club, Barcelona on Fri, 18 Sept 2026.
 
-Lucas Vazz is a techno and house artist based in Chile, tracked on soundcheck, with 19 sets logged across Barcelona, Berlin and Ibiza. Often billed alongside Miguel Silva, Civaro and Elwei. Next up: Almar Beach Club, Barcelona on Fri 18 Sept.
+Lucas Vazz is a techno and house artist based in Chile, tracked on soundcheck, with 20 sets logged across Barcelona, Berlin and Ibiza. Often billed alongside Miguel Silva, Civaro and Elwei. Next up: Almar Beach Club, Barcelona on Fri 18 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 18 Sept 2026 | Almar Beach Club | Barcelona |
+| Fri, 2 Oct 2026 | Sigma | Ibiza |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Lucas Vazz is a techno and house artist based in Chile, tracked on soundcheck, w
 
 Miguel Silva, Civaro, Elwei
 
-*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lucasvazz/)*
+*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lucasvazz/)*

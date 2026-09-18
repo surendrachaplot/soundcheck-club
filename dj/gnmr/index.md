@@ -1,6 +1,6 @@
 # GNMR
 
-GNMR is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 17 Sept 2026, next at TBA, Rome on Sat, 19 Sept 2026.
+GNMR is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 18 Sept 2026, next at TBA, Rome on Sat, 19 Sept 2026.
 
 GNMR is a techno and house artist tracked on soundcheck, with 141 sets logged across Amsterdam, Bali, Barcelona and Berlin and 21 more. Often billed alongside Marcolino, IRIDE and Giammarco Orsini. Next up: TBA, Rome on Sat 19 Sept.
 
@@ -26,4 +26,4 @@ GNMR is a techno and house artist tracked on soundcheck, with 141 sets logged ac
 
 Marcolino, IRIDE, Giammarco Orsini
 
-*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/gnmr/)*
+*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/gnmr/)*

@@ -1,6 +1,6 @@
 # Minehero
 
-Minehero is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Thu, 17 Sept 2026, next at Shelter, Seoul on Fri, 18 Sept 2026.
+Minehero is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Fri, 18 Sept 2026, next at Shelter, Seoul on Fri, 18 Sept 2026.
 
 Minehero is a techno and electro artist based in South Korea, tracked on soundcheck, with 28 sets logged across Seoul and Tokyo. Often billed alongside Soraere Brocken, Honn and Kuro. Next up: Shelter, Seoul on Fri 18 Sept.
 
@@ -25,4 +25,4 @@ Minehero is a techno and electro artist based in South Korea, tracked on soundch
 
 Soraere Brocken, Honn, Kuro
 
-*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/minehero/)*
+*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/minehero/)*

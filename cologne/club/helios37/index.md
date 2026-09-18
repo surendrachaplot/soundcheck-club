@@ -1,8 +1,8 @@
 # Helios37
 
-Helios37 is a music venue in Cologne with 6 upcoming nights listed on soundcheck as of Thu, 17 Sept 2026; the next is "sacred x BLOOM:CAST" on Fri, 25 Sept 2026.
+Helios37 is a music venue in Cologne with 7 upcoming nights listed on soundcheck as of Fri, 18 Sept 2026; the next is "sacred x BLOOM:CAST" on Fri, 25 Sept 2026.
 
-Helios37 is a music venue in Cologne listed on soundcheck. 6 upcoming nights, with line-ups including Felix Kröcher, Jon Void, kichererbsenstampf and LSG and 2 more. Browse upcoming dates, start times and who's playing. Heliosstr. 37, 50825 Köln, Deutschland.
+Helios37 is a music venue in Cologne listed on soundcheck. 7 upcoming nights, with line-ups including Backyard Mix, DJ VENUSSS, Felix Kröcher and HENNESY and 2 more. Browse upcoming dates, start times and who's playing. Heliosstr. 37, 50825 Köln, Deutschland.
 
 ## What's on
 
@@ -10,6 +10,7 @@ Helios37 is a music venue in Cologne listed on soundcheck. 6 upcoming nights, wi
 | --- | --- | --- |
 | Fri, 25 Sept 2026 | sacred x BLOOM:CAST | LSG, VINYA, kichererbsenstampf |
 | Sat, 26 Sept 2026 | 10 years of Techno Allianz with Sofie Sapuna, Rian Wood & Matthias Olck | Matthias Olck, Rian Wood, Ropemaker, Sofie Sapuna |
+| Sat, 10 Oct 2026 | BZZBZZ TECHNO X RCL | Backyard Mix, DJ VENUSSS, HENNESY, SPEEDO (2), Trancestrudel |
 | Sat, 31 Oct 2026 | ELECTRONIC HALLOWEEN by Helios37 |  |
 | Sat, 7 Nov 2026 | Voicians Invites: MUZZ | Jon Void, Voicians |
 | Fri, 20 Nov 2026 | (sold out) SCHRANZ is BACK Köln with Felix Kröcher | Felix Kröcher |
@@ -19,4 +20,4 @@ Helios37 is a music venue in Cologne listed on soundcheck. 6 upcoming nights, wi
 
 Heliosstr. 37, 50825 Köln, Deutschland, Cologne
 
-*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/cologne/club/helios37/)*
+*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/cologne/club/helios37/)*

@@ -1,6 +1,6 @@
 # Izella
 
-Izella is a Club and Baile Funk artist with 1 upcoming club date listed on soundcheck as of Thu, 17 Sept 2026, next at TBA - DTLA, Los Angeles on Sat, 19 Sept 2026.
+Izella is a Club and Baile Funk artist with 1 upcoming club date listed on soundcheck as of Fri, 18 Sept 2026, next at TBA - DTLA, Los Angeles on Sat, 19 Sept 2026.
 
 Izella is a club and baile funk artist based in United States of America, tracked on soundcheck, with 31 sets logged across Losangeles. Often billed alongside BAE BAE, MIÑIN and VICTORIA MOURA. Next up: TBA - DTLA, Losangeles on Sat 19 Sept.
 
@@ -25,4 +25,4 @@ Izella is a club and baile funk artist based in United States of America, tracke
 
 BAE BAE, MIÑIN, VICTORIA MOURA
 
-*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/izella/)*
+*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/izella/)*

@@ -1,14 +1,15 @@
 # NETN
 
-NETN is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 17 Sept 2026, next at Araña Club, Madrid on Fri, 18 Sept 2026.
+NETN is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 18 Sept 2026, next at Araña Club, Madrid on Fri, 18 Sept 2026.
 
-NETN is a techno and house artist based in Spain, tracked on soundcheck, with 41 sets logged across Barcelona, Berlin and Madrid. Often billed alongside Theia Daja, DJ TURBO and Diskoan. Next up: Araña Club, Madrid on Fri 18 Sept.
+NETN is a techno and house artist based in Spain, tracked on soundcheck, with 42 sets logged across Barcelona, Berlin and Madrid. Often billed alongside Theia Daja, DJ TURBO and Alejandro Gata. Next up: Araña Club, Madrid on Fri 18 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 18 Sept 2026 | Araña Club | Madrid |
+| Fri, 25 Sept 2026 | Skin Club | Madrid |
 
 ## Recently played
 
@@ -23,6 +24,6 @@ NETN is a techno and house artist based in Spain, tracked on soundcheck, with 41
 
 ## Shares bills with
 
-Theia Daja, DJ TURBO, Diskoan
+Theia Daja, DJ TURBO, Alejandro Gata
 
-*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/netn/)*
+*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/netn/)*

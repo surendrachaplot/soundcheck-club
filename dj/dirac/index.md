@@ -1,6 +1,6 @@
 # Dirac
 
-Dirac is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Thu, 17 Sept 2026, next at Meteor Studio, Tbilisi on Fri, 18 Sept 2026.
+Dirac is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Fri, 18 Sept 2026, next at Meteor Studio, Tbilisi on Fri, 18 Sept 2026.
 
 Dirac is a house and tech house artist based in Georgia, tracked on soundcheck, with 52 sets logged across Berlin, Paris, Sanfrancisco and Tbilisi and 1 more. Often billed alongside OLLY (2), Generali Minerali and Razhden. Next up: Meteor Studio, Tbilisi on Fri 18 Sept.
 
@@ -25,4 +25,4 @@ Dirac is a house and tech house artist based in Georgia, tracked on soundcheck, 
 
 OLLY (2), Generali Minerali, Razhden
 
-*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dirac/)*
+*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dirac/)*

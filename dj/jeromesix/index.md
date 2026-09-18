@@ -1,8 +1,8 @@
 # Jerome Six
 
-Jerome Six is a Tech House and House artist with 4 upcoming club dates listed on soundcheck as of Thu, 17 Sept 2026, next at Basing House, London on Sat, 10 Oct 2026.
+Jerome Six is a Tech House and House artist with 6 upcoming club dates listed on soundcheck as of Fri, 18 Sept 2026, next at Basing House, London on Sat, 10 Oct 2026.
 
-Jerome Six is a tech house and house artist tracked on soundcheck, with 158 sets logged across Amsterdam, Birmingham, Ibiza and London and 3 more. Often billed alongside JAYDAA, Shenin Amara and Brian Smith. Next up: Basing House, London on Sat 10 Oct.
+Jerome Six is a tech house and house artist tracked on soundcheck, with 160 sets logged across Amsterdam, Birmingham, Ibiza and London and 3 more. Often billed alongside JAYDAA, Shenin Amara and Brian Smith. Next up: Basing House, London on Sat 10 Oct.
 
 ## Upcoming shows
 
@@ -11,7 +11,9 @@ Jerome Six is a tech house and house artist tracked on soundcheck, with 158 sets
 | Sat, 10 Oct 2026 | Basing House | London |
 | Sat, 24 Oct 2026 | LDN East | London |
 | Sat, 24 Oct 2026 | The Steel Yard | London |
+| Sat, 31 Oct 2026 | E1 | London |
 | Sat, 31 Oct 2026 | Eutopia Warehouse | London |
+| Sat, 7 Nov 2026 | 93 Feet East | London |
 
 ## Recently played
 
@@ -28,4 +30,4 @@ Jerome Six is a tech house and house artist tracked on soundcheck, with 158 sets
 
 JAYDAA, Shenin Amara, Brian Smith
 
-*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jeromesix/)*
+*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jeromesix/)*

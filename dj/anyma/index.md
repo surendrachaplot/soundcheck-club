@@ -1,6 +1,6 @@
 # Anyma
 
-Anyma is a Techno and Progressive House artist with 4 upcoming club dates listed on soundcheck as of Thu, 17 Sept 2026, next at Fiera Milano, Milan on Sat, 19 Sept 2026.
+Anyma is a Techno and Progressive House artist with 4 upcoming club dates listed on soundcheck as of Fri, 18 Sept 2026, next at Fiera Milano, Milan on Sat, 19 Sept 2026.
 
 Anyma is a techno and progressive house artist tracked on soundcheck, with 65 sets logged across Amsterdam, Barcelona, Brussels and Budapest and 17 more. Often billed alongside Kevin de Vries, Tale Of Us and Chris Avantgarde. Next up: Fiera Milano, Milan on Sat 19 Sept.
 
@@ -28,4 +28,4 @@ Anyma is a techno and progressive house artist tracked on soundcheck, with 65 se
 
 Kevin de Vries, Tale Of Us, Chris Avantgarde
 
-*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/anyma/)*
+*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/anyma/)*

@@ -1,6 +1,6 @@
 # olasconola
 
-olasconola is a Funk / Soul and Experimental artist with 1 upcoming club date listed on soundcheck as of Thu, 17 Sept 2026, next at Cafeteria, Toronto on Fri, 25 Sept 2026.
+olasconola is a Funk / Soul and Experimental artist with 1 upcoming club date listed on soundcheck as of Fri, 18 Sept 2026, next at Cafeteria, Toronto on Fri, 25 Sept 2026.
 
 olasconola is a funk / soul and experimental artist based in Canada, tracked on soundcheck, with 10 sets logged across Toronto. Often billed alongside Ana Luisa, Anzola and Carlos Estebban. Next up: Cafeteria, Toronto on Fri 25 Sept.
 
@@ -25,4 +25,4 @@ olasconola is a funk / soul and experimental artist based in Canada, tracked on 
 
 Ana Luisa, Anzola, Carlos Estebban
 
-*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/olasconola/)*
+*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/olasconola/)*

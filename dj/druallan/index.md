@@ -1,6 +1,6 @@
 # Dru Allan
 
-Dru Allan is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 17 Sept 2026, next at Bossa Nova Civic Club, New York City on Fri, 18 Sept 2026.
+Dru Allan is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 18 Sept 2026, next at Bossa Nova Civic Club, New York City on Fri, 18 Sept 2026.
 
 Dru Allan is a house and techno artist based in United States of America, tracked on soundcheck, with 31 sets logged across Barcelona, Detroit and Newyorkcity. Often billed alongside Medha Achar, Rootsin and DIRT ROOM. Next up: Bossa Nova Civic Club, Newyorkcity on Fri 18 Sept.
 
@@ -25,4 +25,4 @@ Dru Allan is a house and techno artist based in United States of America, tracke
 
 Medha Achar, Rootsin, DIRT ROOM
 
-*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/druallan/)*
+*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/druallan/)*

@@ -1,6 +1,6 @@
 # The System
 
-The System is a music venue in Sheffield with 12 upcoming nights listed on soundcheck as of Thu, 17 Sept 2026; the next is "Footprints Jazz Club: Rumbi Tauro + Malah Palinka" on Fri, 18 Sept 2026.
+The System is a music venue in Sheffield with 12 upcoming nights listed on soundcheck as of Fri, 18 Sept 2026; the next is "Footprints Jazz Club: Rumbi Tauro + Malah Palinka" on Fri, 18 Sept 2026.
 
 The System is a music venue in Sheffield listed on soundcheck. 12 upcoming nights, with line-ups including Ashley Holmes, Esmé, Joi L.F and Joi La Frique and 2 more. Browse upcoming dates, start times and who's playing.
 
@@ -17,6 +17,6 @@ The System is a music venue in Sheffield listed on soundcheck. 12 upcoming night
 | Thu, 22 Oct 2026 | Sound Service Station: Cambodian Music with KomKom |  |
 | Fri, 23 Oct 2026 | Club Rez 010: Swimful | Omašta, Swimful, Zeki |
 | Sat, 24 Oct 2026 | Absolute Body Control: Red Rack'em All Night Long | Red Rack'em |
-| Fri, 13 Nov 2026 | Puzzle Pieces - Jpeg, Esmé, Joi L.F, Ol.G | Esmé, JPEG (3), Joi L.F |
+| Fri, 13 Nov 2026 | Puzzle Pieces - Jpeg, Esmé, Joi L.F, Ol.G | Esmé, JPEG (3), Joi L.F, Ol.G |
 
-*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/sheffield/club/the-system/)*
+*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/sheffield/club/the-system/)*

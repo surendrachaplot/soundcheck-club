@@ -1,8 +1,8 @@
 # lizaliza
 
-lizaliza is a Trance and Techno artist with 4 upcoming club dates listed on soundcheck as of Thu, 17 Sept 2026, next at Else, Berlin on Sat, 19 Sept 2026.
+lizaliza is a Trance and Techno artist with 5 upcoming club dates listed on soundcheck as of Fri, 18 Sept 2026, next at Else, Berlin on Sat, 19 Sept 2026.
 
-lizaliza is a trance and techno artist based in Germany, tracked on soundcheck, with 23 sets logged across Amsterdam, Berlin, Budapest and Munich and 5 more. Often billed alongside Bad Boombox, Pijus and Shaolin Cowboy. Next up: Else, Berlin on Sat 19 Sept.
+lizaliza is a trance and techno artist based in Germany, tracked on soundcheck, with 24 sets logged across Amsterdam, Berlin, Budapest and Munich and 5 more. Often billed alongside Bad Boombox, Pijus and Shaolin Cowboy. Next up: Else, Berlin on Sat 19 Sept.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ lizaliza is a trance and techno artist based in Germany, tracked on soundcheck, 
 | Sat, 19 Sept 2026 | Else | Berlin |
 | Thu, 22 Oct 2026 | Lofi | Amsterdam |
 | Sat, 7 Nov 2026 | BASIS | Utrecht |
+| Sat, 21 Nov 2026 | Mia Mao | Paris |
 | Sat, 28 Nov 2026 | MUENZE | Berlin |
 
 ## Recently played
@@ -28,4 +29,4 @@ lizaliza is a trance and techno artist based in Germany, tracked on soundcheck, 
 
 Bad Boombox, Pijus, Shaolin Cowboy
 
-*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lizaliza/)*
+*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lizaliza/)*

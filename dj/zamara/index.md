@@ -1,6 +1,6 @@
 # zamara
 
-zamara is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Thu, 17 Sept 2026, next at Crack Bellmer, Berlin on Fri, 2 Oct 2026.
+zamara is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Fri, 18 Sept 2026, next at Crack Bellmer, Berlin on Fri, 2 Oct 2026.
 
 zamara is a techno and trance artist based in Sweden, tracked on soundcheck, with 24 sets logged across Berlin and Copenhagen. Often billed alongside Ayham, Blck-Swan and J.A.S. Next up: Crack Bellmer, Berlin on Fri 2 Oct.
 
@@ -25,4 +25,4 @@ zamara is a techno and trance artist based in Sweden, tracked on soundcheck, wit
 
 Ayham, Blck-Swan, J.A.S
 
-*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/zamara/)*
+*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/zamara/)*

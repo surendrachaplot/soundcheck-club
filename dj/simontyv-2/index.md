@@ -1,6 +1,6 @@
 # Simon Tyv
 
-Simon Tyv is a House and Experimental artist with 2 upcoming club dates listed on soundcheck as of Thu, 17 Sept 2026, next at The Villa, Oslo on Fri, 18 Sept 2026.
+Simon Tyv is a House and Experimental artist with 2 upcoming club dates listed on soundcheck as of Fri, 18 Sept 2026, next at The Villa, Oslo on Fri, 18 Sept 2026.
 
 Simon Tyv is a house and experimental artist tracked on soundcheck, with 14 sets logged across Copenhagen and Oslo. Often billed alongside Anémi, DJ JM and Olefonken. Next up: The Villa, Oslo on Fri 18 Sept.
 
@@ -26,4 +26,4 @@ Simon Tyv is a house and experimental artist tracked on soundcheck, with 14 sets
 
 Anémi, DJ JM, Olefonken
 
-*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/simontyv-2/)*
+*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/simontyv-2/)*

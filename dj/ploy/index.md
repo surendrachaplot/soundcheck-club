@@ -1,14 +1,15 @@
 # Ploy
 
-Ploy is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Thu, 17 Sept 2026, next at FOLD, London on Fri, 18 Sept 2026.
+Ploy is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Fri, 18 Sept 2026, next at FOLD, London on Fri, 18 Sept 2026.
 
-Ploy is a techno and house artist tracked on soundcheck, with 127 sets logged across Amsterdam, Austin, Bangkok and Barcelona and 32 more. Often billed alongside Batu, Parris and Ayesha. Next up: FOLD, London on Fri 18 Sept.
+Ploy is a techno and house artist tracked on soundcheck, with 128 sets logged across Amsterdam, Austin, Bangkok and Barcelona and 32 more. Often billed alongside Batu, Parris and Ayesha. Next up: FOLD, London on Fri 18 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 18 Sept 2026 | FOLD | London |
+| Sat, 19 Sept 2026 | TILLATEC | Amsterdam |
 | Sat, 17 Oct 2026 | Radio Radio | Amsterdam |
 | Fri, 23 Oct 2026 | C115 | Berlin |
 | Sat, 31 Oct 2026 | TBA - East Williamsburg | New York City |
@@ -29,4 +30,4 @@ Ploy is a techno and house artist tracked on soundcheck, with 127 sets logged ac
 
 Batu, Parris, Ayesha
 
-*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ploy/)*
+*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ploy/)*

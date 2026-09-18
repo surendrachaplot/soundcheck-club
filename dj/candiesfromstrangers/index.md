@@ -1,6 +1,6 @@
 # Candies from Strangers
 
-Candies from Strangers is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Thu, 17 Sept 2026, next at CIRCOLO BOTULINO, Milan on Fri, 25 Sept 2026.
+Candies from Strangers is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Fri, 18 Sept 2026, next at CIRCOLO BOTULINO, Milan on Fri, 25 Sept 2026.
 
 Candies from Strangers is a techno and industrial artist tracked on soundcheck, with 10 sets logged across Bucharest and Milan. Often billed alongside ANKKH, Dshock and IRVØ. Next up: CIRCOLO BOTULINO, Milan on Fri 25 Sept.
 
@@ -25,4 +25,4 @@ Candies from Strangers is a techno and industrial artist tracked on soundcheck, 
 
 ANKKH, Dshock, IRVØ
 
-*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/candiesfromstrangers/)*
+*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/candiesfromstrangers/)*

@@ -1,6 +1,6 @@
 # NIKS
 
-NIKS is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 17 Sept 2026, next at TRAUM, Antwerp on Sat, 17 Oct 2026.
+NIKS is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 18 Sept 2026, next at TRAUM, Antwerp on Sat, 17 Oct 2026.
 
 NIKS is a house and techno artist tracked on soundcheck, with 157 sets logged across Amsterdam, Antwerp, Barcelona and Berlin and 35 more. Often billed alongside Amaliah, Josh Caffé and Moxie. Next up: TRAUM, Antwerp on Sat 17 Oct.
 
@@ -25,4 +25,4 @@ NIKS is a house and techno artist tracked on soundcheck, with 157 sets logged ac
 
 Amaliah, Josh Caffé, Moxie
 
-*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/niks/)*
+*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/niks/)*

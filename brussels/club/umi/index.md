@@ -1,6 +1,6 @@
 # UMI
 
-UMI is a music venue in Brussels with 9 upcoming nights listed on soundcheck as of Thu, 17 Sept 2026; the next is "Planète House & Bonne Nuit Take Over : Demuja, Bibi Seck, Zouzibabe, Loulou Ferrari & EG" on Fri, 18 Sept 2026.
+UMI is a music venue in Brussels with 9 upcoming nights listed on soundcheck as of Fri, 18 Sept 2026; the next is "Planète House & Bonne Nuit Take Over : Demuja, Bibi Seck, Zouzibabe, Loulou Ferrari & EG" on Fri, 18 Sept 2026.
 
 UMI is a music venue in Brussels listed on soundcheck. 9 upcoming nights, with line-ups including Adi, Adi (CO), Ava Eva and Ben Kamal and 2 more. Browse upcoming dates, start times and who's playing. Rue du Marché aux Fromages 10, 1000 Bruxelles.
 
@@ -22,4 +22,4 @@ UMI is a music venue in Brussels listed on soundcheck. 9 upcoming nights, with l
 
 Rue du Marché aux Fromages 10, 1000 Bruxelles, Brussels
 
-*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/brussels/club/umi/)*
+*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/brussels/club/umi/)*

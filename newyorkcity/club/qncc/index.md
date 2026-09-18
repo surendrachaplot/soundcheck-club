@@ -1,6 +1,6 @@
 # Qncc
 
-Qncc is a music venue in New York City with 9 upcoming nights listed on soundcheck as of Thu, 17 Sept 2026; the next is "Examining Accessibility in Queer Nightlife" on Tue, 22 Sept 2026.
+Qncc is a music venue in New York City with 9 upcoming nights listed on soundcheck as of Fri, 18 Sept 2026; the next is "Examining Accessibility in Queer Nightlife" on Tue, 22 Sept 2026.
 
 Qncc is a music venue in Newyorkcity listed on soundcheck. 9 upcoming nights, with line-ups including ALEXIS DE LA ROSA, BASSBEAR!!, Kim Ann Foxman and Lauren Flax and 2 more. Browse upcoming dates, start times and who's playing. 100 Hinsdale Street, Brooklyn, NY.
 
@@ -22,4 +22,4 @@ Qncc is a music venue in Newyorkcity listed on soundcheck. 9 upcoming nights, wi
 
 100 Hinsdale Street, Brooklyn, NY, New York City
 
-*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/qncc/)*
+*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/qncc/)*

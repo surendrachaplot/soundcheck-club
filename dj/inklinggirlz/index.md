@@ -1,6 +1,6 @@
 # INKLING GIRLZ
 
-INKLING GIRLZ is a Drum & Bass and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 17 Sept 2026, next at Sidney & Matilda, Sheffield on Fri, 18 Sept 2026.
+INKLING GIRLZ is a Drum & Bass and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 18 Sept 2026, next at Sidney & Matilda, Sheffield on Fri, 18 Sept 2026.
 
 INKLING GIRLZ is a drum & bass and house artist based in United Kingdom, tracked on soundcheck, with 2 sets logged across Sheffield. Often billed alongside Bailey Ibbs, Cimmerian and F3rg13. Next up: Sidney & Matilda, Sheffield on Fri 18 Sept.
 
@@ -15,4 +15,4 @@ INKLING GIRLZ is a drum & bass and house artist based in United Kingdom, tracked
 
 Bailey Ibbs, Cimmerian, F3rg13
 
-*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/inklinggirlz/)*
+*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/inklinggirlz/)*

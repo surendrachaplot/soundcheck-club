@@ -1,6 +1,6 @@
 # nharo
 
-nharo is a Ambient and Drone artist with 1 upcoming club date listed on soundcheck as of Thu, 17 Sept 2026, next at Passevite, Lisbon on Thu, 17 Sept 2026.
+nharo is a Ambient and Drone artist with 1 upcoming club date listed on soundcheck as of Fri, 18 Sept 2026, next at Passevite, Lisbon on Thu, 17 Sept 2026.
 
 nharo is an ambient and drone artist tracked on soundcheck, with 11 sets logged across Lisbon. Often billed alongside Mar710, Imberbe and Melina Blanco. Next up: Passevite, Lisbon on Thu 17 Sept.
 
@@ -12,6 +12,7 @@ nharo is an ambient and drone artist tracked on soundcheck, with 11 sets logged 
 
 ## Recently played
 
+- Passevite, Lisbon — Thu, 17 Sept 2026
 - Outra Cena, Lisbon — Fri, 8 May 2026
 - Desterro, Lisbon — Sat, 17 Jan 2026
 - Passevite, Lisbon — Sun, 30 Nov 2025
@@ -19,10 +20,9 @@ nharo is an ambient and drone artist tracked on soundcheck, with 11 sets logged 
 - Damas, Lisbon — Fri, 26 Sept 2025
 - Cosmos Campolide, Lisbon — Sat, 20 Sept 2025
 - Ministerium Club, Lisbon — Fri, 29 Aug 2025
-- Prisma Estúdio Lisboa, Lisbon — Sun, 18 May 2025
 
 ## Shares bills with
 
 Mar710, Imberbe, Melina Blanco
 
-*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nharo/)*
+*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nharo/)*

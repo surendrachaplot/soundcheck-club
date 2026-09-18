@@ -1,6 +1,6 @@
 # Jody Wisternoff
 
-Jody Wisternoff is a Progressive House and House artist with 11 upcoming club dates listed on soundcheck as of Thu, 17 Sept 2026, next at or, Tokyo on Sat, 26 Sept 2026.
+Jody Wisternoff is a Progressive House and House artist with 11 upcoming club dates listed on soundcheck as of Fri, 18 Sept 2026, next at or, Tokyo on Sat, 26 Sept 2026.
 
 Jody Wisternoff is a progressive house and house artist tracked on soundcheck, with 104 sets logged across Amsterdam, Auckland, Austin and Barcelona and 35 more. Often billed alongside Marsh, Nicky Elisabeth and Dosem. Next up: or, Tokyo on Sat 26 Sept.
 
@@ -35,4 +35,4 @@ Jody Wisternoff is a progressive house and house artist tracked on soundcheck, w
 
 Marsh, Nicky Elisabeth, Dosem
 
-*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jodywisternoff/)*
+*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jodywisternoff/)*

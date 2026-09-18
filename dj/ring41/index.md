@@ -1,6 +1,6 @@
 # Ring41
 
-Ring41 is a Breakbeat and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 17 Sept 2026, next at Fabrique im Gängeviertel, Hamburg on Fri, 18 Sept 2026.
+Ring41 is a Breakbeat and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 18 Sept 2026, next at Fabrique im Gängeviertel, Hamburg on Fri, 18 Sept 2026.
 
 Ring41 is a breakbeat and house artist tracked on soundcheck, with 27 sets logged across Hamburg. Often billed alongside Ivaldo Gino, L.A.tifa and Suzi Mystique. Next up: Fabrique im Gängeviertel, Hamburg on Fri 18 Sept.
 
@@ -26,4 +26,4 @@ Ring41 is a breakbeat and house artist tracked on soundcheck, with 27 sets logge
 
 Ivaldo Gino, L.A.tifa, Suzi Mystique
 
-*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ring41/)*
+*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ring41/)*

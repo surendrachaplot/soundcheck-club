@@ -1,6 +1,6 @@
 # Innuendo
 
-Innuendo is a Techno and Progressive House artist with 3 upcoming club dates listed on soundcheck as of Thu, 17 Sept 2026, next at Super5, Lyon on Fri, 25 Sept 2026.
+Innuendo is a Techno and Progressive House artist with 3 upcoming club dates listed on soundcheck as of Fri, 18 Sept 2026, next at Super5, Lyon on Fri, 25 Sept 2026.
 
 Innuendo is a techno and progressive house artist based in Belgium, tracked on soundcheck, with 12 sets logged across Basel, Berlin, Brussels and Lyon and 2 more. Often billed alongside DJ Rino, Exkursion and Sanctus Libido. Next up: Super5, Lyon on Fri 25 Sept.
 
@@ -27,4 +27,4 @@ Innuendo is a techno and progressive house artist based in Belgium, tracked on s
 
 DJ Rino, Exkursion, Sanctus Libido
 
-*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/innuendo/)*
+*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/innuendo/)*

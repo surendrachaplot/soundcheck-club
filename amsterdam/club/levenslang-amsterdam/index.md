@@ -1,8 +1,8 @@
 # Levenslang Amsterdam
 
-Levenslang Amsterdam is a music venue in Amsterdam with 8 upcoming nights listed on soundcheck as of Thu, 17 Sept 2026; the next is "Intercell ADE Kickoff | ADE By Day" on Wed, 21 Oct 2026.
+Levenslang Amsterdam is a music venue in Amsterdam with 9 upcoming nights listed on soundcheck as of Fri, 18 Sept 2026; the next is "Intercell ADE Kickoff | ADE By Day" on Wed, 21 Oct 2026.
 
-Levenslang Amsterdam is a music venue in Amsterdam listed on soundcheck. 8 upcoming nights, with line-ups including Kepler, Adriana Lopez, Alex Di Stefano and camoufly and 2 more. Browse upcoming dates, start times and who's playing. H.J.E. Wenckebachweg 48, 1096AN, Amsterdam.
+Levenslang Amsterdam is a music venue in Amsterdam listed on soundcheck. 9 upcoming nights, with line-ups including Kepler, Adriana Lopez, Alex Di Stefano and Amy Os and 2 more. Browse upcoming dates, start times and who's playing. H.J.E. Wenckebachweg 48, 1096AN, Amsterdam.
 
 ## What's on
 
@@ -12,6 +12,7 @@ Levenslang Amsterdam is a music venue in Amsterdam listed on soundcheck. 8 upcom
 | Thu, 22 Oct 2026 | Somov at Levenslang (ADE) | Fadi Mohem, Ignez, Polygonia, Rrose, Wala |
 | Thu, 22 Oct 2026 | Intercell x Silva Bumpa pres. STERLING - ADE By Night | Kepler, Laura Meester, Prozak (IRL), Silva Bumpa, Soul Mass Transit System |
 | Fri, 23 Oct 2026 | Intercell x Oscar Mulero Invites / ADE By Night | Adriana Lopez, Claudio PRC, Isabel Soto, Laura van Hal, Oscar Mulero, Phara |
+| Fri, 23 Oct 2026 | Overbruggen x Lab54 - ADE | Amy Os, Boss Priester, Dennis Quin, Kepler, Nafe Smallz, Robbie Doherty |
 | Sat, 24 Oct 2026 | Intercell x Skin On Skin Invites - ADE By Day | EYCEE, Ned Bennett, Oppidan, Skin On Skin, THELMA, camoufly |
 | Sat, 24 Oct 2026 | SLPFNK - LEVENSLANG ADE | Doudou MD, Dyed Soundorom, Sonja Moonear, Volkan Akin |
 | Sun, 25 Oct 2026 | Intercell x fumi Invites - ADE By Day | Daria Kolosova, HUJUS, Lacchesi, fumi (DE), ines isla, ÜBERKIKZ |
@@ -21,4 +22,4 @@ Levenslang Amsterdam is a music venue in Amsterdam listed on soundcheck. 8 upcom
 
 H.J.E. Wenckebachweg 48, 1096AN, Amsterdam, Amsterdam
 
-*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/levenslang-amsterdam/)*
+*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/levenslang-amsterdam/)*

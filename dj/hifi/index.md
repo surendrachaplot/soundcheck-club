@@ -1,6 +1,6 @@
 # Hi/Fi
 
-Hi/Fi is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 17 Sept 2026, next at Superlove, Milan on Fri, 25 Sept 2026.
+Hi/Fi is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 18 Sept 2026, next at Superlove, Milan on Fri, 25 Sept 2026.
 
 Hi/Fi is a techno and house artist based in Italy, tracked on soundcheck, with 30 sets logged across Milan. Often billed alongside Hutchee, Pietro Fantin and Crissaf. Next up: Superlove, Milan on Fri 25 Sept.
 
@@ -25,4 +25,4 @@ Hi/Fi is a techno and house artist based in Italy, tracked on soundcheck, with 3
 
 Hutchee, Pietro Fantin, Crissaf
 
-*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/hifi/)*
+*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/hifi/)*

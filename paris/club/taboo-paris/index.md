@@ -1,6 +1,6 @@
 # Taboo Paris
 
-Taboo Paris is a music venue in Paris with 1 upcoming night listed on soundcheck as of Thu, 17 Sept 2026; the next is "Hush x Taboo Paris with Simon Kidzoo & More" on Fri, 9 Oct 2026.
+Taboo Paris is a music venue in Paris with 1 upcoming night listed on soundcheck as of Fri, 18 Sept 2026; the next is "Hush x Taboo Paris with Simon Kidzoo & More" on Fri, 9 Oct 2026.
 
 Taboo Paris is a music venue in Paris listed on soundcheck. 1 upcoming night, with line-ups including Simon Kidzoo. Browse upcoming dates, start times and who's playing. 42 rue du Colisée, 75008 Paris.
 
@@ -14,4 +14,4 @@ Taboo Paris is a music venue in Paris listed on soundcheck. 1 upcoming night, wi
 
 42 rue du Colisée, 75008 Paris, Paris
 
-*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/paris/club/taboo-paris/)*
+*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/paris/club/taboo-paris/)*

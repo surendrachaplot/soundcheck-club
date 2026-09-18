@@ -1,6 +1,6 @@
 # Duszne Granie
 
-Duszne Granie is a Drum & Bass and House artist with 1 upcoming club date listed on soundcheck as of Thu, 17 Sept 2026, next at OCZKI, Warsaw on Sat, 19 Sept 2026.
+Duszne Granie is a Drum & Bass and House artist with 1 upcoming club date listed on soundcheck as of Fri, 18 Sept 2026, next at OCZKI, Warsaw on Sat, 19 Sept 2026.
 
 Duszne Granie is a drum & bass and house artist tracked on soundcheck, with 9 sets logged across Krakow and Warsaw. Often billed alongside Glasse, Deas and Edvvin. Next up: OCZKI, Warsaw on Sat 19 Sept.
 
@@ -25,4 +25,4 @@ Duszne Granie is a drum & bass and house artist tracked on soundcheck, with 9 se
 
 Glasse, Deas, Edvvin
 
-*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dusznegranie/)*
+*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dusznegranie/)*

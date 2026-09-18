@@ -1,6 +1,6 @@
 # The Night Cat
 
-The Night Cat is a music venue in Melbourne with 13 upcoming nights listed on soundcheck as of Thu, 17 Sept 2026; the next is "James Massiah (UK)" on Thu, 24 Sept 2026.
+The Night Cat is a music venue in Melbourne with 13 upcoming nights listed on soundcheck as of Fri, 18 Sept 2026; the next is "James Massiah (UK)" on Thu, 24 Sept 2026.
 
 The Night Cat is a music venue in Melbourne listed on soundcheck. 13 upcoming nights, with line-ups including Alan Fitzpatrick, Chris Luno, Dam Swindle and dozie (uk) and 2 more. Browse upcoming dates, start times and who's playing. 137-141 Johnston St, Fitzroy VIC 3065, Australia.
 
@@ -23,4 +23,4 @@ The Night Cat is a music venue in Melbourne listed on soundcheck. 13 upcoming ni
 
 137-141 Johnston St, Fitzroy VIC 3065, Australia, Melbourne
 
-*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/the-night-cat/)*
+*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/the-night-cat/)*

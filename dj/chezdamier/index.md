@@ -1,6 +1,6 @@
 # Chez Damier
 
-Chez Damier is a House and Techno artist with 6 upcoming club dates listed on soundcheck as of Thu, 17 Sept 2026, next at H0L0, New York City on Sat, 26 Sept 2026.
+Chez Damier is a House and Techno artist with 6 upcoming club dates listed on soundcheck as of Fri, 18 Sept 2026, next at H0L0, New York City on Sat, 26 Sept 2026.
 
 Chez Damier is a house and techno artist tracked on soundcheck, with 148 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 43 more. Often billed alongside Eddie Leader, DJ Deep and Dennis Ferrer. Next up: H0L0, Newyorkcity on Sat 26 Sept.
 
@@ -30,4 +30,4 @@ Chez Damier is a house and techno artist tracked on soundcheck, with 148 sets lo
 
 Eddie Leader, DJ Deep, Dennis Ferrer
 
-*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/chezdamier/)*
+*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/chezdamier/)*

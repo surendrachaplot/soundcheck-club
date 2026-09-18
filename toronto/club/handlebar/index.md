@@ -1,6 +1,6 @@
 # Handlebar
 
-Handlebar is a music venue in Toronto with 3 upcoming nights listed on soundcheck as of Thu, 17 Sept 2026; the next is "Frequencies: Venus in Foil, Astrolope, Peacocking, Cryptlord" on Fri, 18 Sept 2026.
+Handlebar is a music venue in Toronto with 3 upcoming nights listed on soundcheck as of Fri, 18 Sept 2026; the next is "Frequencies: Venus in Foil, Astrolope, Peacocking, Cryptlord" on Fri, 18 Sept 2026.
 
 Handlebar is a music venue in Toronto listed on soundcheck. 3 upcoming nights, with line-ups including D.ITTO, digital polyglot, Disthene and ENSIDER (2) and 2 more. Browse upcoming dates, start times and who's playing. 159 Augusta, Ave, Toronto, Canada, M5T 2L4.
 
@@ -16,4 +16,4 @@ Handlebar is a music venue in Toronto listed on soundcheck. 3 upcoming nights, w
 
 159 Augusta, Ave, Toronto, Canada, M5T 2L4, Toronto
 
-*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/handlebar/)*
+*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/handlebar/)*

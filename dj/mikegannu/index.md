@@ -1,6 +1,6 @@
 # Mike Gannu
 
-Mike Gannu is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 17 Sept 2026, next at Pracht, Frankfurt on Sat, 19 Sept 2026.
+Mike Gannu is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 18 Sept 2026, next at Pracht, Frankfurt on Sat, 19 Sept 2026.
 
 Mike Gannu is a techno and house artist tracked on soundcheck, with 38 sets logged across Amsterdam, Barcelona, Berlin and Brussels and 10 more. Often billed alongside Edu Imbernon, Oriol Calvo and Claudius (DE). Next up: Pracht, Frankfurt on Sat 19 Sept.
 
@@ -25,4 +25,4 @@ Mike Gannu is a techno and house artist tracked on soundcheck, with 38 sets logg
 
 Edu Imbernon, Oriol Calvo, Claudius (DE)
 
-*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mikegannu/)*
+*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mikegannu/)*

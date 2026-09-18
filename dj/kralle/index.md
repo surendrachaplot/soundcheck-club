@@ -1,6 +1,6 @@
 # kralle
 
-kralle is a Techno and Acid artist with 1 upcoming club date listed on soundcheck as of Thu, 17 Sept 2026, next at Paloma, Berlin on Fri, 18 Sept 2026.
+kralle is a Techno and Acid artist with 1 upcoming club date listed on soundcheck as of Fri, 18 Sept 2026, next at Paloma, Berlin on Fri, 18 Sept 2026.
 
 kralle is a techno and acid artist tracked on soundcheck, with 9 sets logged across Berlin, Hamburg, Leipzig and Strasbourg and 1 more. Often billed alongside 7CIRCLE, Chill (FR) and Irini Kefalas. Next up: Paloma, Berlin on Fri 18 Sept.
 
@@ -25,4 +25,4 @@ kralle is a techno and acid artist tracked on soundcheck, with 9 sets logged acr
 
 7CIRCLE, Chill (FR), Irini Kefalas
 
-*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kralle/)*
+*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kralle/)*

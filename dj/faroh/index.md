@@ -1,6 +1,6 @@
 # FAROH
 
-FAROH is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 17 Sept 2026, next at Horn, Bangkok on Sat, 19 Sept 2026.
+FAROH is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 18 Sept 2026, next at Horn, Bangkok on Sat, 19 Sept 2026.
 
 FAROH is a techno and house artist tracked on soundcheck, with 13 sets logged across Bangkok. Often billed alongside IYY (TH), Takky and DANI8L. Next up: Horn, Bangkok on Sat 19 Sept.
 
@@ -25,4 +25,4 @@ FAROH is a techno and house artist tracked on soundcheck, with 13 sets logged ac
 
 IYY (TH), Takky, DANI8L
 
-*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/faroh/)*
+*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/faroh/)*

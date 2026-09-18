@@ -1,8 +1,8 @@
 # Roland & Brother Rich
 
-Roland & Brother Rich is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Thu, 17 Sept 2026, next at ZeyZey, Miami on Fri, 18 Sept 2026.
+Roland & Brother Rich is a House and Disco artist with 4 upcoming club dates listed on soundcheck as of Fri, 18 Sept 2026, next at ZeyZey, Miami on Fri, 18 Sept 2026.
 
-Roland & Brother Rich are a house and disco duo based in United States of America, tracked on soundcheck, with 33 sets logged across Amsterdam, London, Miami and Newyorkcity. Often billed alongside Bustin' Loose, Monsieur Van Pratt and Poppi. Next up: ZeyZey, Miami on Fri 18 Sept.
+Roland & Brother Rich are a house and disco duo based in United States of America, tracked on soundcheck, with 35 sets logged across Amsterdam, London, Miami and Newyorkcity. Often billed alongside Bustin' Loose, Monsieur Van Pratt and Poppi. Next up: ZeyZey, Miami on Fri 18 Sept.
 
 ## Upcoming shows
 
@@ -10,6 +10,8 @@ Roland & Brother Rich are a house and disco duo based in United States of Americ
 | --- | --- | --- |
 | Fri, 18 Sept 2026 | ZeyZey | Miami |
 | Sun, 20 Sept 2026 | Xanadu | New York City |
+| Thu, 8 Oct 2026 | Jean’s | New York City |
+| Sat, 31 Oct 2026 | Ciao Ciao | New York City |
 
 ## Recently played
 
@@ -26,4 +28,4 @@ Roland & Brother Rich are a house and disco duo based in United States of Americ
 
 Bustin' Loose, Monsieur Van Pratt, Poppi
 
-*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/rolandbrotherrich-us/)*
+*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/rolandbrotherrich-us/)*

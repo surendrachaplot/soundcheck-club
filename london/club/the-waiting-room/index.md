@@ -1,6 +1,6 @@
 # The Waiting Room
 
-The Waiting Room is a music venue in London with 5 upcoming nights listed on soundcheck as of Thu, 17 Sept 2026; the next is "HARD CANDY FM: PICK&MIX 1" on Fri, 18 Sept 2026.
+The Waiting Room is a music venue in London with 5 upcoming nights listed on soundcheck as of Fri, 18 Sept 2026; the next is "HARD CANDY FM: PICK&MIX 1" on Fri, 18 Sept 2026.
 
 The Waiting Room is a music venue in London listed on soundcheck. 5 upcoming nights, with line-ups including DJ-CK, Facets, Fasme and Graftak and 2 more. Browse upcoming dates, start times and who's playing. 175 Stoke Newington High Street; Stoke Newington; London N16 0LH; United Kingdom.
 
@@ -18,4 +18,4 @@ The Waiting Room is a music venue in London listed on soundcheck. 5 upcoming nig
 
 175 Stoke Newington High Street; Stoke Newington; London N16 0LH; United Kingdom, London
 
-*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/the-waiting-room/)*
+*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/the-waiting-room/)*

@@ -1,6 +1,6 @@
 # NewTone
 
-NewTone is a House and Techno artist with 13 upcoming club dates listed on soundcheck as of Thu, 17 Sept 2026, next at Mondo Open Air, Madrid on Sat, 19 Sept 2026.
+NewTone is a House and Techno artist with 13 upcoming club dates listed on soundcheck as of Fri, 18 Sept 2026, next at Mondo Open Air, Madrid on Sat, 19 Sept 2026.
 
 NewTone is a house and techno artist tracked on soundcheck, with 105 sets logged across Amsterdam, Antwerp, Bali and Barcelona and 11 more. Often billed alongside Boris Coelman, TINS and DART. Next up: Mondo Open Air, Madrid on Sat 19 Sept.
 
@@ -36,4 +36,4 @@ NewTone is a house and techno artist tracked on soundcheck, with 105 sets logged
 
 Boris Coelman, TINS, DART
 
-*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/newtone/)*
+*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/newtone/)*

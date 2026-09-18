@@ -1,6 +1,6 @@
 # Harold mp1
 
-Harold mp1 is a Electro and House artist with 1 upcoming club date listed on soundcheck as of Thu, 17 Sept 2026, next at Circle Park, Brussels on Sat, 19 Sept 2026.
+Harold mp1 is a Electro and House artist with 1 upcoming club date listed on soundcheck as of Fri, 18 Sept 2026, next at Circle Park, Brussels on Sat, 19 Sept 2026.
 
 Harold mp1 is an electro and house artist tracked on soundcheck, with 20 sets logged across Brussels and Ghent. Often billed alongside Ava Eva, Bapow and Bon Public. Next up: Circle Park, Brussels on Sat 19 Sept.
 
@@ -25,4 +25,4 @@ Harold mp1 is an electro and house artist tracked on soundcheck, with 20 sets lo
 
 Ava Eva, Bapow, Bon Public
 
-*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/haroldmp1/)*
+*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/haroldmp1/)*

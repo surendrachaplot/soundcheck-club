@@ -1,6 +1,6 @@
 # Brutalismus 3000
 
-Brutalismus 3000 is a Techno and House artist with 7 upcoming club dates listed on soundcheck as of Thu, 17 Sept 2026, next at Under the K Bridge, New York City on Fri, 25 Sept 2026.
+Brutalismus 3000 is a Techno and House artist with 7 upcoming club dates listed on soundcheck as of Fri, 18 Sept 2026, next at Under the K Bridge, New York City on Fri, 25 Sept 2026.
 
 Brutalismus 3000 is a techno and house artist tracked on soundcheck, with 74 sets logged across Amsterdam, Antwerp, Austin and Barcelona and 34 more. Often billed alongside DJ Gigola, MCR-T and 999999999. Next up: Under the K Bridge, Newyorkcity on Fri 25 Sept.
 
@@ -31,4 +31,4 @@ Brutalismus 3000 is a techno and house artist tracked on soundcheck, with 74 set
 
 DJ Gigola, MCR-T, 999999999
 
-*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/brutalismus3000/)*
+*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/brutalismus3000/)*

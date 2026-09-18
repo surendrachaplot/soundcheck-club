@@ -1,14 +1,15 @@
 # Elizabëth
 
-Elizabëth is a Techno and Minimal artist with 1 upcoming club date listed on soundcheck as of Thu, 17 Sept 2026, next at Bsmnt, Boston on Thu, 24 Sept 2026.
+Elizabëth is a Techno and Minimal artist with 2 upcoming club dates listed on soundcheck as of Fri, 18 Sept 2026, next at Bsmnt, Boston on Thu, 24 Sept 2026.
 
-Elizabëth is a techno and minimal artist tracked on soundcheck, with 25 sets logged across Berlin, Boston, Detroit and Miami. Often billed alongside prekuro, Màrelle and The Consciousness. Next up: Bsmnt, Boston on Thu 24 Sept.
+Elizabëth is a techno and minimal artist tracked on soundcheck, with 26 sets logged across Berlin, Boston, Detroit and Miami. Often billed alongside prekuro, Màrelle and The Consciousness. Next up: Bsmnt, Boston on Thu 24 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Thu, 24 Sept 2026 | Bsmnt | Boston |
+| Sat, 10 Oct 2026 | TBA - Miami | Miami |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Elizabëth is a techno and minimal artist tracked on soundcheck, with 25 sets lo
 
 prekuro, Màrelle, The Consciousness
 
-*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/elizabeth-us/)*
+*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/elizabeth-us/)*

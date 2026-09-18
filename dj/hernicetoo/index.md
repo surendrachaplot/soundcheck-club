@@ -1,6 +1,6 @@
 # Her Nice Too
 
-Her Nice Too is a Bass and Dub artist with 1 upcoming club date listed on soundcheck as of Thu, 17 Sept 2026, next at TBA - Via di Monte Testaccio 67, Rome, Rome on Sat, 19 Sept 2026.
+Her Nice Too is a Bass and Dub artist with 1 upcoming club date listed on soundcheck as of Fri, 18 Sept 2026, next at TBA - Via di Monte Testaccio 67, Rome, Rome on Sat, 19 Sept 2026.
 
 Her Nice Too is a bass and dub artist based in Italy, tracked on soundcheck, with 21 sets logged across Rome. Often billed alongside Prest, VSC (1) and F L V X X X. Next up: TBA - Via di Monte Testaccio 67, Rome, Rome on Sat 19 Sept.
 
@@ -25,4 +25,4 @@ Her Nice Too is a bass and dub artist based in Italy, tracked on soundcheck, wit
 
 Prest, VSC (1), F L V X X X
 
-*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/hernicetoo/)*
+*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/hernicetoo/)*

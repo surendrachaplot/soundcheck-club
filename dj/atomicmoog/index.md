@@ -1,6 +1,6 @@
 # Atomic moog
 
-Atomic moog is a Techno and Experimental artist with 4 upcoming club dates listed on soundcheck as of Thu, 17 Sept 2026, next at TBA - Secret Location, Amsterdam on Sat, 19 Sept 2026.
+Atomic moog is a Techno and Experimental artist with 4 upcoming club dates listed on soundcheck as of Fri, 18 Sept 2026, next at TBA - Secret Location, Amsterdam on Sat, 19 Sept 2026.
 
 Atomic moog is a techno and experimental artist tracked on soundcheck, with 16 sets logged across Amsterdam, London, Madrid and Nantes and 5 more. Often billed alongside Maemm, .VRIL and Aaron J. Next up: TBA - Secret Location, Amsterdam on Sat 19 Sept.
 
@@ -28,4 +28,4 @@ Atomic moog is a techno and experimental artist tracked on soundcheck, with 16 s
 
 Maemm, .VRIL, Aaron J
 
-*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/atomicmoog/)*
+*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/atomicmoog/)*

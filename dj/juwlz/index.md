@@ -1,6 +1,6 @@
 # JUWLZ
 
-JUWLZ is a Techno and Trance artist with 4 upcoming club dates listed on soundcheck as of Thu, 17 Sept 2026, next at Humboldthain Club, Berlin on Fri, 18 Sept 2026.
+JUWLZ is a Techno and Trance artist with 4 upcoming club dates listed on soundcheck as of Fri, 18 Sept 2026, next at Humboldthain Club, Berlin on Fri, 18 Sept 2026.
 
 JUWLZ is a techno and trance artist based in Germany, tracked on soundcheck, with 28 sets logged across Amsterdam, Berlin, Brussels and Ghent and 1 more. Often billed alongside Lisatrix, cell1 and Ravejezuz. Next up: Humboldthain Club, Berlin on Fri 18 Sept.
 
@@ -28,4 +28,4 @@ JUWLZ is a techno and trance artist based in Germany, tracked on soundcheck, wit
 
 Lisatrix, cell1, Ravejezuz
 
-*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/juwlz/)*
+*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/juwlz/)*

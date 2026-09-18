@@ -1,6 +1,6 @@
 # DJ MARIA.
 
-DJ MARIA. is a Techno and Trance artist with 8 upcoming club dates listed on soundcheck as of Thu, 17 Sept 2026, next at Fort Mifflin, Philadelphia on Fri, 18 Sept 2026.
+DJ MARIA. is a Techno and Trance artist with 8 upcoming club dates listed on soundcheck as of Fri, 18 Sept 2026, next at Fort Mifflin, Philadelphia on Fri, 18 Sept 2026.
 
 DJ MARIA. is a techno and trance artist tracked on soundcheck, with 147 sets logged across Amsterdam, Athens, Bali and Barcelona and 34 more. Often billed alongside DJ Yazi, DJ Nobu and Haruka. Next up: Fort Mifflin, Philadelphia on Fri 18 Sept.
 
@@ -32,4 +32,4 @@ DJ MARIA. is a techno and trance artist tracked on soundcheck, with 147 sets log
 
 DJ Yazi, DJ Nobu, Haruka
 
-*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djmaria./)*
+*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djmaria./)*

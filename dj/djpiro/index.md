@@ -1,6 +1,6 @@
 # DJ PIRO
 
-DJ PIRO is a Techno and Gabber artist with 1 upcoming club date listed on soundcheck as of Thu, 17 Sept 2026, next at CIRCOLO BOTULINO, Milan on Fri, 18 Sept 2026.
+DJ PIRO is a Techno and Gabber artist with 1 upcoming club date listed on soundcheck as of Fri, 18 Sept 2026, next at CIRCOLO BOTULINO, Milan on Fri, 18 Sept 2026.
 
 DJ PIRO is a techno and gabber artist tracked on soundcheck, with 10 sets logged across Milan and Turin. Often billed alongside PACKAPUNCH909, heresiana and ANKKH. Next up: CIRCOLO BOTULINO, Milan on Fri 18 Sept.
 
@@ -25,4 +25,4 @@ DJ PIRO is a techno and gabber artist tracked on soundcheck, with 10 sets logged
 
 PACKAPUNCH909, heresiana, ANKKH
 
-*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djpiro/)*
+*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djpiro/)*

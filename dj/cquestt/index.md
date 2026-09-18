@@ -1,6 +1,6 @@
 # Cquestt
 
-Cquestt is a Reggaeton and Club artist with 3 upcoming club dates listed on soundcheck as of Thu, 17 Sept 2026, next at TBA - DTLA Warehouse, Los Angeles on Fri, 18 Sept 2026.
+Cquestt is a Reggaeton and Club artist with 3 upcoming club dates listed on soundcheck as of Fri, 18 Sept 2026, next at TBA - DTLA Warehouse, Los Angeles on Fri, 18 Sept 2026.
 
 Cquestt is a reggaeton and club artist based in United States of America, tracked on soundcheck, with 123 sets logged across Chicago, Detroit, London and Losangeles and 7 more. Often billed alongside DINABN, CHRYSALIS and Alxander Ivey. Next up: TBA - DTLA Warehouse, Losangeles on Fri 18 Sept.
 
@@ -27,4 +27,4 @@ Cquestt is a reggaeton and club artist based in United States of America, tracke
 
 DINABN, CHRYSALIS, Alxander Ivey
 
-*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/cquestt/)*
+*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/cquestt/)*

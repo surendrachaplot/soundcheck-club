@@ -1,6 +1,6 @@
 # ÆDEN
 
-ÆDEN is a music venue in Berlin with 24 upcoming nights listed on soundcheck as of Thu, 17 Sept 2026; the next is "ＬＩＬＩＴＨ ✦ Karim Alkhayat ALL NIGHT LONG PSYGROOVE SPECIAL W/ Kate Hex, Taberia & MORE" on Fri, 18 Sept 2026.
+ÆDEN is a music venue in Berlin with 24 upcoming nights listed on soundcheck as of Fri, 18 Sept 2026; the next is "ＬＩＬＩＴＨ ✦ Karim Alkhayat ALL NIGHT LONG PSYGROOVE SPECIAL W/ Kate Hex, Taberia & MORE" on Fri, 18 Sept 2026.
 
 ÆDEN is a music venue in Berlin listed on soundcheck. 24 upcoming nights, with line-ups including 4NOUK, YOVA, Acierate and Amo (IT) and 2 more. Browse upcoming dates, start times and who's playing. Schleusenufer 2, 10997 Berlin.
 
@@ -23,4 +23,4 @@
 
 Schleusenufer 2, 10997 Berlin, Berlin
 
-*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/den/)*
+*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/den/)*

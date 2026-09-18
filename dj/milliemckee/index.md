@@ -1,6 +1,6 @@
 # Millie McKee
 
-Millie McKee is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Thu, 17 Sept 2026, next at Starlane Pizza Bar, London on Fri, 18 Sept 2026.
+Millie McKee is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Fri, 18 Sept 2026, next at Starlane Pizza Bar, London on Fri, 18 Sept 2026.
 
 Millie McKee is a house and techno artist tracked on soundcheck, with 68 sets logged across Amsterdam, Barcelona, Berlin and Bristol and 11 more. Often billed alongside Kyle Toole, DAR DISKU and Joi La Frique. Next up: Starlane Pizza Bar, London on Fri 18 Sept.
 
@@ -27,4 +27,4 @@ Millie McKee is a house and techno artist tracked on soundcheck, with 68 sets lo
 
 Kyle Toole, DAR DISKU, Joi La Frique
 
-*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/milliemckee/)*
+*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/milliemckee/)*

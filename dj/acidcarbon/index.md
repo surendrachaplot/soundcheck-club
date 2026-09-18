@@ -1,14 +1,15 @@
 # Acid Carbon
 
-Acid Carbon is a Techno and Acid artist with 1 upcoming club date listed on soundcheck as of Thu, 17 Sept 2026, next at Volks, Brighton on Fri, 18 Sept 2026.
+Acid Carbon is a Techno and Acid artist with 2 upcoming club dates listed on soundcheck as of Fri, 18 Sept 2026, next at Volks, Brighton on Fri, 18 Sept 2026.
 
-Acid Carbon is a techno and acid artist tracked on soundcheck, with 26 sets logged across Brighton and London. Often billed alongside Jack Jeffrey, DSD uk and Florence.. Next up: Volks, Brighton on Fri 18 Sept.
+Acid Carbon is a techno and acid artist tracked on soundcheck, with 27 sets logged across Brighton and London. Often billed alongside Jack Jeffrey, DSD uk and Ross Harper. Next up: Volks, Brighton on Fri 18 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 18 Sept 2026 | Volks | Brighton |
+| Fri, 11 Dec 2026 | Quarters | Brighton |
 
 ## Recently played
 
@@ -23,6 +24,6 @@ Acid Carbon is a techno and acid artist tracked on soundcheck, with 26 sets logg
 
 ## Shares bills with
 
-Jack Jeffrey, DSD uk, Florence.
+Jack Jeffrey, DSD uk, Ross Harper
 
-*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/acidcarbon/)*
+*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/acidcarbon/)*

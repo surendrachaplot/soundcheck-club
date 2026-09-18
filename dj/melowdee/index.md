@@ -1,13 +1,14 @@
 # Melowdee
 
-Melowdee is a Deep House and House artist with 1 upcoming club date listed on soundcheck as of Thu, 17 Sept 2026, next at Hotel Butterfly, Rome on Wed, 23 Sept 2026.
+Melowdee is a Deep House and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 18 Sept 2026, next at The Exley, New York City on Sun, 20 Sept 2026.
 
-Melowdee is a deep house and house artist based in United States of America, tracked on soundcheck, with 23 sets logged across Newyorkcity and Rome. Often billed alongside RIVKA R3 NYC, Rebel Fusion NYC and RUBI (R3, NYC). Next up: Hotel Butterfly, Rome on Wed 23 Sept.
+Melowdee is a deep house and house artist based in United States of America, tracked on soundcheck, with 24 sets logged across Newyorkcity and Rome. Often billed alongside RIVKA R3 NYC, Rebel Fusion NYC and RUBI (R3, NYC). Next up: The Exley, Newyorkcity on Sun 20 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sun, 20 Sept 2026 | The Exley | New York City |
 | Wed, 23 Sept 2026 | Hotel Butterfly | Rome |
 
 ## Recently played
@@ -25,4 +26,4 @@ Melowdee is a deep house and house artist based in United States of America, tra
 
 RIVKA R3 NYC, Rebel Fusion NYC, RUBI (R3, NYC)
 
-*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/melowdee/)*
+*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/melowdee/)*

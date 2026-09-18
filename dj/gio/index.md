@@ -1,14 +1,15 @@
 # GI.O
 
-GI.O is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Thu, 17 Sept 2026, next at elipamanoke, Leipzig on Fri, 18 Sept 2026.
+GI.O is a Techno and Trance artist with 3 upcoming club dates listed on soundcheck as of Fri, 18 Sept 2026, next at elipamanoke, Leipzig on Fri, 18 Sept 2026.
 
-GI.O is a techno and trance artist based in Brazil, tracked on soundcheck, with 74 sets logged across Amsterdam, Berlin, Cologne and Frankfurt and 14 more. Often billed alongside Cara Elizabeth, The Jakob Sister and A.N.I.. Next up: elipamanoke, Leipzig on Fri 18 Sept.
+GI.O is a techno and trance artist based in Brazil, tracked on soundcheck, with 75 sets logged across Amsterdam, Berlin, Cologne and Frankfurt and 14 more. Often billed alongside Cara Elizabeth, The Jakob Sister and A.N.I.. Next up: elipamanoke, Leipzig on Fri 18 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 18 Sept 2026 | elipamanoke | Leipzig |
+| Wed, 14 Oct 2026 | Lokschuppen Berlin | Berlin |
 | Fri, 16 Oct 2026 | Renate | Berlin |
 
 ## Recently played
@@ -26,4 +27,4 @@ GI.O is a techno and trance artist based in Brazil, tracked on soundcheck, with 
 
 Cara Elizabeth, The Jakob Sister, A.N.I.
 
-*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/gio/)*
+*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/gio/)*

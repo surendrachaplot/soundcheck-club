@@ -1,22 +1,21 @@
 # The Sound Lounge at Percy
 
-The Sound Lounge at Percy is a music venue in Philadelphia with 6 upcoming nights listed on soundcheck as of Thu, 17 Sept 2026; the next is "Spatial Awareness - Doll.Redacted" on Thu, 17 Sept 2026.
+The Sound Lounge at Percy is a music venue in Philadelphia with 5 upcoming nights listed on soundcheck as of Fri, 18 Sept 2026; the next is "All The Way Down with Nine of Wands" on Fri, 18 Sept 2026.
 
-The Sound Lounge at Percy is a music venue in Philadelphia listed on soundcheck. 6 upcoming nights, with line-ups including Doll.Redacted, Nine of Wands and Skeme Richards. Browse upcoming dates, start times and who's playing. 1700 N Front Street, Philadelphia, PA. 19122.
+The Sound Lounge at Percy is a music venue in Philadelphia listed on soundcheck. 5 upcoming nights, with line-ups including Nine of Wands and Skeme Richards. Browse upcoming dates, start times and who's playing. 1700 N Front Street, Philadelphia, PA. 19122.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Thu, 17 Sept 2026 | Spatial Awareness - Doll.Redacted | Doll.Redacted |
 | Fri, 18 Sept 2026 | All The Way Down with Nine of Wands | Nine of Wands |
 | Tue, 22 Sept 2026 | PITCHBLACK PREMIER:  JOHN COLTRANE'S 'COLTRANE 100 - HIGHLIGHTS FROM 1957-1964 |  |
 | Thu, 24 Sept 2026 | STEVIE WONDER - SONGS IN THE KEY OF LIFE: LISTENING SESSION |  |
 | Thu, 24 Sept 2026 | Spatial Awareness - Lifted Guilt |  |
-| Fri, 25 Sept 2026 | Snacks & Sounds + Disco Diner with Skeme Richards | Skeme Richards |
+| Fri, 25 Sept 2026 | Disco Diner with Skeme Richards | Skeme Richards |
 
 ## Address
 
 1700 N Front Street, Philadelphia, PA. 19122, Philadelphia
 
-*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/philadelphia/club/the-sound-lounge-at-percy/)*
+*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/philadelphia/club/the-sound-lounge-at-percy/)*

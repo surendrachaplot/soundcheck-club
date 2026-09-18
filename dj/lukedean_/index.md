@@ -1,6 +1,6 @@
 # Luke Dean_
 
-Luke Dean_ is a House and Tech House artist with 10 upcoming club dates listed on soundcheck as of Thu, 17 Sept 2026, next at UNO MALTA, Malta on Fri, 18 Sept 2026.
+Luke Dean_ is a House and Tech House artist with 10 upcoming club dates listed on soundcheck as of Fri, 18 Sept 2026, next at UNO MALTA, Malta on Fri, 18 Sept 2026.
 
 Luke Dean_ is a house and tech house artist tracked on soundcheck, with 110 sets logged across Amsterdam, Barcelona, Belfast and Brighton and 29 more. Often billed alongside Max Dean, Locky and L.P. Rhythm. Next up: UNO MALTA, Malta on Fri 18 Sept.
 
@@ -34,4 +34,4 @@ Luke Dean_ is a house and tech house artist tracked on soundcheck, with 110 sets
 
 Max Dean, Locky, L.P. Rhythm
 
-*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lukedean_/)*
+*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lukedean_/)*

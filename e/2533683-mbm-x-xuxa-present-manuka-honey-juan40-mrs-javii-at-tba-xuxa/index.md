@@ -1,6 +1,6 @@
 # MBM X XuXa present: Manuka Honey  Juan40   Mrs. Javii at TBA - XuXa - 6910 Shirley Ave
 
-MBM X XuXa present: Manuka Honey  Juan40   Mrs. Javii at TBA - XuXa - 6910 Shirley Ave on Fri 18 Sept, Austin. 3 acts on the bill: JAViii, Juan40 and Manuka Honey. Techno and Latin Bass. Preview the line-up and save it on soundcheck.
+MBM X XuXa present: Manuka Honey  Juan40   Mrs. Javii at TBA - XuXa - 6910 Shirley Ave on Fri 18 Sept, Austin. 3 acts on the bill: JAViii, Juan40 and Manuka Honey. Techno and Bass. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

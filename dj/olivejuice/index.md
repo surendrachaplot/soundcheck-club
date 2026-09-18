@@ -1,6 +1,6 @@
 # Olive Juice
 
-Olive Juice is a Bass and Baile Funk artist with 2 upcoming club dates listed on soundcheck as of Thu, 17 Sept 2026, next at Endeavour, London on Fri, 18 Sept 2026.
+Olive Juice is a Bass and Baile Funk artist with 2 upcoming club dates listed on soundcheck as of Fri, 18 Sept 2026, next at Endeavour, London on Fri, 18 Sept 2026.
 
 Olive Juice is a bass and baile funk artist tracked on soundcheck, with 13 sets logged across London. Often billed alongside ROHiNA, limi and Kafn. Next up: Endeavour, London on Fri 18 Sept.
 
@@ -26,4 +26,4 @@ Olive Juice is a bass and baile funk artist tracked on soundcheck, with 13 sets 
 
 ROHiNA, limi, Kafn
 
-*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/olivejuice/)*
+*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/olivejuice/)*

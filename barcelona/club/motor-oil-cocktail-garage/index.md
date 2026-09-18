@@ -1,6 +1,6 @@
 # Motor Oil Cocktail Garage
 
-Motor Oil Cocktail Garage is a music venue in Barcelona with 7 upcoming nights listed on soundcheck as of Thu, 17 Sept 2026; the next is "Loco Local by studio79" on Thu, 17 Sept 2026.
+Motor Oil Cocktail Garage is a music venue in Barcelona with 7 upcoming nights listed on soundcheck as of Fri, 18 Sept 2026; the next is "Loco Local by studio79" on Thu, 17 Sept 2026.
 
 Motor Oil Cocktail Garage is a music venue in Barcelona listed on soundcheck. 7 upcoming nights, with line-ups including KYOTO, PILOT B, SABALZA and Sergi Delgado and 1 more. Browse upcoming dates, start times and who's playing. Calle  Ample 46, 08002, Barcelona, ES.
 
@@ -20,4 +20,4 @@ Motor Oil Cocktail Garage is a music venue in Barcelona listed on soundcheck. 7 
 
 Calle  Ample 46, 08002, Barcelona, ES, Barcelona
 
-*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/motor-oil-cocktail-garage/)*
+*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/motor-oil-cocktail-garage/)*

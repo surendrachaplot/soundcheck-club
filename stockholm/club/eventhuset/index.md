@@ -1,6 +1,6 @@
 # Eventhuset
 
-Eventhuset is a music venue in Stockholm with 5 upcoming nights listed on soundcheck as of Thu, 17 Sept 2026; the next is "BRONX ☆ HOLTTER, UNNA, GABBO BAP, RAVEMAN, The Host, RD1, Ron, also known as Ranadeep Saha, Ty" on Sat, 19 Sept 2026.
+Eventhuset is a music venue in Stockholm with 5 upcoming nights listed on soundcheck as of Fri, 18 Sept 2026; the next is "BRONX ☆ HOLTTER, UNNA, GABBO BAP, RAVEMAN, The Host, RD1, Ron, also known as Ranadeep Saha, Ty" on Sat, 19 Sept 2026.
 
 Eventhuset is a music venue in Stockholm listed on soundcheck. 5 upcoming nights, with line-ups including DJ Godfather, DJ KILLING, DJ Hell and LOLSNAKE and 2 more. Browse upcoming dates, start times and who's playing. Vretensborgsvägen 5, 12630 Hägersten.
 
@@ -18,4 +18,4 @@ Eventhuset is a music venue in Stockholm listed on soundcheck. 5 upcoming nights
 
 Vretensborgsvägen 5, 12630 Hägersten, Stockholm
 
-*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/stockholm/club/eventhuset/)*
+*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/stockholm/club/eventhuset/)*

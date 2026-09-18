@@ -1,6 +1,6 @@
 # FEROTO
 
-FEROTO is a House and Downtempo artist with 1 upcoming club date listed on soundcheck as of Thu, 17 Sept 2026, next at ROCA HIFI, Mexico City on Tue, 15 Sept 2026.
+FEROTO is a House and Downtempo artist with 1 upcoming club date listed on soundcheck as of Fri, 18 Sept 2026, next at ROCA HIFI, Mexico City on Tue, 15 Sept 2026.
 
 FEROTO is a house and downtempo artist tracked on soundcheck, with 38 sets logged across Mexicocity, Seoul and Tokyo. Often billed alongside Barreto, DJ Milka and Future Feelings. Next up: ROCA HIFI, Mexicocity on Tue 15 Sept.
 
@@ -25,4 +25,4 @@ FEROTO is a house and downtempo artist tracked on soundcheck, with 38 sets logge
 
 Barreto, DJ Milka, Future Feelings
 
-*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/feroto/)*
+*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/feroto/)*

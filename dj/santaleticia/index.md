@@ -1,6 +1,6 @@
 # Santa Leticia
 
-Santa Leticia is a Disco and Latin Bass artist with 1 upcoming club date listed on soundcheck as of Thu, 17 Sept 2026, next at Miso, Newcastle on Fri, 16 Oct 2026.
+Santa Leticia is a Disco and Latin Bass artist with 1 upcoming club date listed on soundcheck as of Fri, 18 Sept 2026, next at Miso, Newcastle on Fri, 16 Oct 2026.
 
 Santa Leticia is a disco and latin bass artist tracked on soundcheck, with 45 sets logged across Barcelona, Bristol, Edinburgh and Glasgow and 4 more. Often billed alongside Lovellious, Chris Astrojazz and Pierre Antoine. Next up: Miso, Newcastle on Fri 16 Oct.
 
@@ -25,4 +25,4 @@ Santa Leticia is a disco and latin bass artist tracked on soundcheck, with 45 se
 
 Lovellious, Chris Astrojazz, Pierre Antoine
 
-*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/santaleticia/)*
+*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/santaleticia/)*

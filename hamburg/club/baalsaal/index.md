@@ -1,14 +1,15 @@
 # Baalsaal
 
-Baalsaal is a music venue in Hamburg with 13 upcoming nights listed on soundcheck as of Thu, 17 Sept 2026; the next is "NONCHALANT  W/ SECRET ACT (BERLIN) & BAUER (BERLIN) (Sophisticated Techno)" on Fri, 18 Sept 2026.
+Baalsaal is a music venue in Hamburg with 14 upcoming nights listed on soundcheck as of Fri, 18 Sept 2026; the next is "DOORS OPEN 1AM  NONCHALANT  W/ SECRET ACT (BERLIN) & BAUER (BERLIN) (Sophisticated Techno)" on Fri, 18 Sept 2026.
 
-Baalsaal is a music venue in Hamburg listed on soundcheck. 13 upcoming nights, with line-ups including BAUER (DE), formula303, Linh (2) and ROOB and 2 more. Browse upcoming dates, start times and who's playing. Reeperbahn 25; 20359 Hamburg; Germany.
+Baalsaal is a music venue in Hamburg listed on soundcheck. 14 upcoming nights, with line-ups including BAUER (DE), formula303, Linh (2) and ROOB and 2 more. Browse upcoming dates, start times and who's playing. Reeperbahn 25; 20359 Hamburg; Germany.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 18 Sept 2026 | NONCHALANT  W/ SECRET ACT (BERLIN) & BAUER (BERLIN) (Sophisticated Techno) | BAUER (DE), ROOB |
+| Fri, 18 Sept 2026 | DOORS OPEN 1AM  NONCHALANT  W/ SECRET ACT (BERLIN) & BAUER (BERLIN) (Sophisticated Techno) | BAUER (DE), ROOB |
+| Sat, 19 Sept 2026 | WE ARE ONE |  |
 | Fri, 25 Sept 2026 | GR:IT | Linh (2), formula303, shaccø |
 | Fri, 2 Oct 2026 | Move to Groove |  |
 | Sat, 3 Oct 2026 | 2HARD4U (HARDTECHNO) |  |
@@ -17,10 +18,9 @@ Baalsaal is a music venue in Hamburg listed on soundcheck. 13 upcoming nights, w
 | Sat, 31 Oct 2026 | Structures with ROOB | ROOB |
 | Sat, 7 Nov 2026 | Blocked |  |
 | Fri, 13 Nov 2026 | GR:IT |  |
-| Sat, 14 Nov 2026 | blocked |  |
 
 ## Address
 
 Reeperbahn 25; 20359 Hamburg; Germany, Hamburg
 
-*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/hamburg/club/baalsaal/)*
+*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/hamburg/club/baalsaal/)*

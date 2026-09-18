@@ -1,6 +1,6 @@
 # Forte Antenne
 
-Forte Antenne is a music venue in Rome with 4 upcoming nights listed on soundcheck as of Thu, 17 Sept 2026; the next is "Dixon - 18|09" on Fri, 18 Sept 2026.
+Forte Antenne is a music venue in Rome with 4 upcoming nights listed on soundcheck as of Fri, 18 Sept 2026; the next is "Dixon - 18|09" on Fri, 18 Sept 2026.
 
 Forte Antenne is a music venue in Rome listed on soundcheck. 4 upcoming nights, with line-ups including Adiel, Bakked, Cristian Sarde and Dante (H501) and 2 more. Browse upcoming dates, start times and who's playing. Via del Forte Antenne, 12, 00199 Roma RM, Italy.
 
@@ -17,4 +17,4 @@ Forte Antenne is a music venue in Rome listed on soundcheck. 4 upcoming nights, 
 
 Via del Forte Antenne, 12, 00199 Roma RM, Italy, Rome
 
-*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/rome/club/forte-antenne/)*
+*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/rome/club/forte-antenne/)*

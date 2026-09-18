@@ -1,11 +1,11 @@
-# DeVice ft goddard. René LaVice, Mollie Collins, Jessee, Jolliffe, Kaizah, Mojay, Porther at E1
+# DeVice ft goddard. René LaVice, Mollie Collins, Jessee, Jolliffe, DREAD MC at Onyx (E1)
 
-DeVice ft goddard. René LaVice, Mollie Collins, Jessee, Jolliffe, Kaizah, Mojay, Porther at E1 on Sat 14 Nov, London. 8 acts on the bill: DREAD MC, goddard., Jessee and Jolliffe and 4 more. Drum & Bass. Preview the line-up and save it on soundcheck.
+DeVice ft goddard. René LaVice, Mollie Collins, Jessee, Jolliffe, DREAD MC at Onyx (E1) on Sat 14 Nov, London. 8 acts on the bill: DREAD MC, goddard., Jessee and Jolliffe and 4 more. Drum & Bass. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
 | Date | Sat, 14 Nov 2026 |
-| Venue | E1 |
+| Venue | Onyx (E1) |
 | City | London |
 
 ## Line-up

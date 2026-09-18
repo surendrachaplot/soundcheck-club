@@ -1,6 +1,6 @@
 # DJ Migz
 
-DJ Migz is a Disco and Funk / Soul artist with 2 upcoming club dates listed on soundcheck as of Thu, 17 Sept 2026, next at Hoxton Cabin, London on Fri, 18 Sept 2026.
+DJ Migz is a Disco and Funk / Soul artist with 2 upcoming club dates listed on soundcheck as of Fri, 18 Sept 2026, next at Hoxton Cabin, London on Fri, 18 Sept 2026.
 
 DJ Migz is a disco and funk / soul artist tracked on soundcheck, with 18 sets logged across London. Often billed alongside Cristian Sirica, Benebe and DJ Caru. Next up: Hoxton Cabin, London on Fri 18 Sept.
 
@@ -26,4 +26,4 @@ DJ Migz is a disco and funk / soul artist tracked on soundcheck, with 18 sets lo
 
 Cristian Sirica, Benebe, DJ Caru
 
-*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djmigz/)*
+*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djmigz/)*

@@ -1,6 +1,6 @@
-# POSTPONED - Agora x ISC present: DeepChord (live) + Photay (live) at Agora Records
+# POSTPONED: Agora x ISC present: DeepChord (live) + Photay (live) at Agora Records
 
-POSTPONED - Agora x ISC present: DeepChord (live) + Photay (live) at Agora Records on Fri 18 Sept, Losangeles. 2 acts on the bill: DeepChord and Photay. Experimental and Dub Techno. Preview the line-up and save it on soundcheck.
+POSTPONED: Agora x ISC present: DeepChord (live) + Photay (live) at Agora Records on Fri 18 Sept, Losangeles. 2 acts on the bill: DeepChord and Photay. Experimental and Dub Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

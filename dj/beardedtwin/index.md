@@ -1,6 +1,6 @@
 # Bearded Twin
 
-Bearded Twin is a Drone and Ambient artist with 1 upcoming club date listed on soundcheck as of Thu, 17 Sept 2026, next at Delight Factory, New York City on Sat, 26 Sept 2026.
+Bearded Twin is a Drone and Ambient artist with 1 upcoming club date listed on soundcheck as of Fri, 18 Sept 2026, next at Delight Factory, New York City on Sat, 26 Sept 2026.
 
 Bearded Twin is a drone and ambient artist based in United States of America, tracked on soundcheck, with 14 sets logged across Newyorkcity. Often billed alongside Tiny Techno, Ezekiel Honig and Todd Polenberg. Next up: Delight Factory, Newyorkcity on Sat 26 Sept.
 
@@ -25,4 +25,4 @@ Bearded Twin is a drone and ambient artist based in United States of America, tr
 
 Tiny Techno, Ezekiel Honig, Todd Polenberg
 
-*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/beardedtwin/)*
+*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/beardedtwin/)*

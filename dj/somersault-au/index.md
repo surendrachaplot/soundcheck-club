@@ -1,6 +1,6 @@
 # Somersault
 
-Somersault is a House and Deep House artist with 2 upcoming club dates listed on soundcheck as of Thu, 17 Sept 2026, next at OneSixOne, Melbourne on Fri, 18 Sept 2026.
+Somersault is a House and Deep House artist with 2 upcoming club dates listed on soundcheck as of Fri, 18 Sept 2026, next at OneSixOne, Melbourne on Fri, 18 Sept 2026.
 
 Somersault is a house and deep house artist tracked on soundcheck, with 6 sets logged across Melbourne. Often billed alongside Amber Ferraro, Dasha SPRW and Adam Trace. Next up: OneSixOne, Melbourne on Fri 18 Sept.
 
@@ -22,4 +22,4 @@ Somersault is a house and deep house artist tracked on soundcheck, with 6 sets l
 
 Amber Ferraro, Dasha SPRW, Adam Trace
 
-*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/somersault-au/)*
+*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/somersault-au/)*

@@ -1,13 +1,14 @@
 # GS.ELLE
 
-GS.ELLE is a Latin Bass and Reggaeton artist with 1 upcoming club date listed on soundcheck as of Thu, 17 Sept 2026, next at Apollo Club Milano, Milan on Fri, 25 Sept 2026.
+GS.ELLE is a Latin Bass and Reggaeton artist with 2 upcoming club dates listed on soundcheck as of Fri, 18 Sept 2026, next at Climbing District Milano, Milan on Sat, 19 Sept 2026.
 
-GS.ELLE is a latin bass and reggaeton artist tracked on soundcheck, with 22 sets logged across Amsterdam, Barcelona, Brussels and Milan and 2 more. Often billed alongside Amazon, Evissimax and Luwei. Next up: Apollo Club Milano, Milan on Fri 25 Sept.
+GS.ELLE is a latin bass and reggaeton artist tracked on soundcheck, with 23 sets logged across Amsterdam, Barcelona, Brussels and Milan and 2 more. Often billed alongside Amazon, Evissimax and Luwei. Next up: Climbing District Milano, Milan on Sat 19 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 19 Sept 2026 | Climbing District Milano | Milan |
 | Fri, 25 Sept 2026 | Apollo Club Milano | Milan |
 
 ## Recently played
@@ -25,4 +26,4 @@ GS.ELLE is a latin bass and reggaeton artist tracked on soundcheck, with 22 sets
 
 Amazon, Evissimax, Luwei
 
-*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/gs.elle/)*
+*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/gs.elle/)*

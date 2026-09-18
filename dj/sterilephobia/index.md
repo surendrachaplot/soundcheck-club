@@ -1,6 +1,6 @@
 # Sterilephobia
 
-Sterilephobia is a Trance and Acid artist with 1 upcoming club date listed on soundcheck as of Thu, 17 Sept 2026, next at Kaskada, Warsaw on Fri, 18 Sept 2026.
+Sterilephobia is a Trance and Acid artist with 1 upcoming club date listed on soundcheck as of Fri, 18 Sept 2026, next at Kaskada, Warsaw on Fri, 18 Sept 2026.
 
 Sterilephobia is a trance and acid artist tracked on soundcheck, with 12 sets logged across Warsaw. Often billed alongside Luisido, Abrew and DJ Lotos. Next up: Kaskada, Warsaw on Fri 18 Sept.
 
@@ -25,4 +25,4 @@ Sterilephobia is a trance and acid artist tracked on soundcheck, with 12 sets lo
 
 Luisido, Abrew, DJ Lotos
 
-*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sterilephobia/)*
+*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sterilephobia/)*

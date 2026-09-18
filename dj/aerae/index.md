@@ -1,6 +1,6 @@
 # AERAE
 
-AERAE is a Techno and Drum & Bass artist with 3 upcoming club dates listed on soundcheck as of Thu, 17 Sept 2026, next at La Fabriek, Brussels on Sat, 19 Sept 2026.
+AERAE is a Techno and Drum & Bass artist with 3 upcoming club dates listed on soundcheck as of Fri, 18 Sept 2026, next at La Fabriek, Brussels on Sat, 19 Sept 2026.
 
 AERAE is a techno and drum & bass artist based in France, tracked on soundcheck, with 26 sets logged across Amsterdam, Barcelona, Berlin and Brussels and 14 more. Often billed alongside upsammy, Aaron J and Konduku. Next up: La Fabriek, Brussels on Sat 19 Sept.
 
@@ -27,4 +27,4 @@ AERAE is a techno and drum & bass artist based in France, tracked on soundcheck,
 
 upsammy, Aaron J, Konduku
 
-*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/aerae/)*
+*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/aerae/)*

@@ -1,6 +1,6 @@
 # oskar med k
 
-oskar med k is a House and Deep House artist with 8 upcoming club dates listed on soundcheck as of Thu, 17 Sept 2026, next at Terminal 5, New York City on Sat, 19 Sept 2026.
+oskar med k is a House and Deep House artist with 8 upcoming club dates listed on soundcheck as of Fri, 18 Sept 2026, next at Terminal 5, New York City on Sat, 19 Sept 2026.
 
 oskar med k is a house and deep house artist tracked on soundcheck, with 21 sets logged across Barcelona, Berlin, Budapest and Chicago and 15 more. Often billed alongside Ben UFO, Boys Noize and Dean Turnley. Next up: Terminal 5, Newyorkcity on Sat 19 Sept.
 
@@ -32,4 +32,4 @@ oskar med k is a house and deep house artist tracked on soundcheck, with 21 sets
 
 Ben UFO, Boys Noize, Dean Turnley
 
-*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/oskarmedk/)*
+*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/oskarmedk/)*

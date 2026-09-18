@@ -1,6 +1,6 @@
 # Turbo422
 
-Turbo422 is a music venue in Melbourne with 1 upcoming night listed on soundcheck as of Thu, 17 Sept 2026; the next is "Turbo422 > 19.09" on Sat, 19 Sept 2026.
+Turbo422 is a music venue in Melbourne with 1 upcoming night listed on soundcheck as of Fri, 18 Sept 2026; the next is "Turbo422 > 19.09" on Sat, 19 Sept 2026.
 
 Turbo422 is a music venue in Melbourne listed on soundcheck. 1 upcoming night, with line-ups including Benjamin (3), Ejeckt and Ketris. Browse upcoming dates, start times and who's playing. 422 little collins street, melbourne, victoria 3000.
 
@@ -14,4 +14,4 @@ Turbo422 is a music venue in Melbourne listed on soundcheck. 1 upcoming night, w
 
 422 little collins street, melbourne, victoria 3000, Melbourne
 
-*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/turbo422/)*
+*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/turbo422/)*

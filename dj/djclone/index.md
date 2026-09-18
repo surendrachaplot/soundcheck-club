@@ -1,13 +1,14 @@
 # DJ Clone
 
-DJ Clone is a Techno and Club artist with 2 upcoming club dates listed on soundcheck as of Thu, 17 Sept 2026, next at 314 Scholes, New York City on Sat, 26 Sept 2026.
+DJ Clone is a Techno and Club artist with 3 upcoming club dates listed on soundcheck as of Fri, 18 Sept 2026, next at Electric Room, New York City on Sat, 19 Sept 2026.
 
-DJ Clone is a techno and club artist based in United States of America, tracked on soundcheck, with 50 sets logged across Austin, Barcelona, Berlin and Miami and 3 more. Often billed alongside Word of Command, Miss Parker and flirty800. Next up: 314 Scholes, Newyorkcity on Sat 26 Sept.
+DJ Clone is a techno and club artist based in United States of America, tracked on soundcheck, with 51 sets logged across Austin, Barcelona, Berlin and Miami and 3 more. Often billed alongside Word of Command, Miss Parker and flirty800. Next up: Electric Room, Newyorkcity on Sat 19 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 19 Sept 2026 | Electric Room | New York City |
 | Sat, 26 Sept 2026 | 314 Scholes | New York City |
 | Fri, 23 Oct 2026 | BASEMENT | New York City |
 
@@ -26,4 +27,4 @@ DJ Clone is a techno and club artist based in United States of America, tracked 
 
 Word of Command, Miss Parker, flirty800
 
-*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djclone/)*
+*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djclone/)*

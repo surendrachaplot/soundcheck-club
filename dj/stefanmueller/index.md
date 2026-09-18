@@ -1,6 +1,6 @@
 # stefan mueller
 
-stefan mueller is a Electronica and Progressive House artist with 1 upcoming club date listed on soundcheck as of Thu, 17 Sept 2026, next at Pracht, Frankfurt on Sat, 19 Sept 2026.
+stefan mueller is a Electronica and Progressive House artist with 1 upcoming club date listed on soundcheck as of Fri, 18 Sept 2026, next at Pracht, Frankfurt on Sat, 19 Sept 2026.
 
 stefan mueller is an electronica and progressive house artist tracked on soundcheck, with 17 sets logged across Berlin and Frankfurt. Often billed alongside Claudius (DE), Calypsis and Pauli Pocket. Next up: Pracht, Frankfurt on Sat 19 Sept.
 
@@ -25,4 +25,4 @@ stefan mueller is an electronica and progressive house artist tracked on soundch
 
 Claudius (DE), Calypsis, Pauli Pocket
 
-*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/stefanmueller/)*
+*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/stefanmueller/)*

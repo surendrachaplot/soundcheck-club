@@ -1,8 +1,8 @@
 # Dengue Dengue Dengue
 
-Dengue Dengue Dengue is a Latin Bass and Bass artist with 4 upcoming club dates listed on soundcheck as of Thu, 17 Sept 2026, next at ÆDEN, Berlin on Fri, 25 Sept 2026.
+Dengue Dengue Dengue is a Latin Bass and Bass artist with 5 upcoming club dates listed on soundcheck as of Fri, 18 Sept 2026, next at ÆDEN, Berlin on Fri, 25 Sept 2026.
 
-Dengue Dengue Dengue is a latin bass and bass artist based in Germany, tracked on soundcheck, with 53 sets logged across Amsterdam, Barcelona, Berlin and Brussels and 15 more. Often billed alongside Florentino, Basy Tropikalne and Phran. Next up: ÆDEN, Berlin on Fri 25 Sept.
+Dengue Dengue Dengue is a latin bass and bass artist based in Germany, tracked on soundcheck, with 54 sets logged across Amsterdam, Barcelona, Berlin and Bristol and 16 more. Often billed alongside Florentino, Basy Tropikalne and Phran. Next up: ÆDEN, Berlin on Fri 25 Sept.
 
 ## Upcoming shows
 
@@ -12,6 +12,7 @@ Dengue Dengue Dengue is a latin bass and bass artist based in Germany, tracked o
 | Fri, 16 Oct 2026 | Stereo | Glasgow |
 | Sat, 17 Oct 2026 | The White Hotel | Manchester |
 | Fri, 23 Oct 2026 | M.O.T | London |
+| Sat, 24 Oct 2026 | Strange Brew | Bristol |
 
 ## Recently played
 
@@ -28,4 +29,4 @@ Dengue Dengue Dengue is a latin bass and bass artist based in Germany, tracked o
 
 Florentino, Basy Tropikalne, Phran
 
-*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/denguedenguedengue/)*
+*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/denguedenguedengue/)*

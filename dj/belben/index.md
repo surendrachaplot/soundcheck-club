@@ -1,6 +1,6 @@
 # Belben
 
-Belben is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 17 Sept 2026, next at Society, Brussels on Fri, 18 Sept 2026.
+Belben is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 18 Sept 2026, next at Society, Brussels on Fri, 18 Sept 2026.
 
 Belben is a house and techno artist tracked on soundcheck, with 115 sets logged across Amsterdam, Antwerp, Bangkok and Brussels. Often billed alongside MAKII, Fools Sound Machine and Maxim Lany. Next up: Society, Brussels on Fri 18 Sept.
 
@@ -26,4 +26,4 @@ Belben is a house and techno artist tracked on soundcheck, with 115 sets logged 
 
 MAKII, Fools Sound Machine, Maxim Lany
 
-*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/belben/)*
+*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/belben/)*

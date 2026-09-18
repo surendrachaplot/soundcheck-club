@@ -1,16 +1,17 @@
 # Monarch
 
-Monarch is a music venue in San Francisco/Oakland with 9 upcoming nights listed on soundcheck as of Thu, 17 Sept 2026; the next is "Bump" on Thu, 17 Sept 2026.
+Monarch is a music venue in San Francisco/Oakland with 10 upcoming nights listed on soundcheck as of Fri, 18 Sept 2026; the next is "Felix Dickinson (UK), Anthony Mansfield, Fusion, Seamus Haji (UK), Geo Stasi, and Mr. Matias" on Fri, 18 Sept 2026.
 
-Monarch is a music venue in Sanfrancisco listed on soundcheck. 9 upcoming nights, with line-ups including 1OO1O, 2AT, Anthony Mansfield and arktoi and 2 more. Browse upcoming dates, start times and who's playing. 101 6th Street, San Francisco, CA 94103, United States.
+Monarch is a music venue in Sanfrancisco listed on soundcheck. 10 upcoming nights, with line-ups including 1OO1O, 2AT, Anthony Mansfield and arktoi and 2 more. Browse upcoming dates, start times and who's playing. 101 6th Street, San Francisco, CA 94103, United States.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Thu, 17 Sept 2026 | Bump | Camillionaire, Huffy (2) |
 | Fri, 18 Sept 2026 | Felix Dickinson (UK), Anthony Mansfield, Fusion, Seamus Haji (UK), Geo Stasi, and Mr. Matias | Anthony Mansfield, Felix Dickinson, Fusion, Seamus Haji |
 | Sat, 19 Sept 2026 | Revolutions: Staxx of Wax feat. Phleck | Duserock, Phleck |
+| Thu, 1 Oct 2026 | Welcome to the Jungle | Booty Juice, Isobel, Maximilian, messiuhhh, vRok |
+| Fri, 2 Oct 2026 | Prosumer - Carrieondisco - DJ M3 | Carrieondisco, DJ M3, Prosumer |
 | Fri, 9 Oct 2026 | Linska | Linska |
 | Fri, 16 Oct 2026 | THEMATIC ENTERTAINMENT x PROPER TINGS PRESENT: DR. USHŪU & TWO SWORDS |  |
 | Fri, 23 Oct 2026 | Psyched! Fest 2026 | 2AT, BOYPRINCESS, Femme Jatale, GHOST MILK, Lobottomy, Louie El Ser, Moonpie, Pondi Map, Profesito, Queermom, Robertitx, Rose Thorns, WOCKIE, Yari (VE) |
@@ -22,4 +23,4 @@ Monarch is a music venue in Sanfrancisco listed on soundcheck. 9 upcoming nights
 
 101 6th Street, San Francisco, CA 94103, United States, San Francisco/Oakland
 
-*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/monarch/)*
+*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/monarch/)*

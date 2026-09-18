@@ -1,6 +1,6 @@
 # Yuzo Iwata
 
-Yuzo Iwata is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 17 Sept 2026, next at Unkompress, Berlin on Sat, 26 Sept 2026.
+Yuzo Iwata is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 18 Sept 2026, next at Unkompress, Berlin on Sat, 26 Sept 2026.
 
 Yuzo Iwata is a house and techno artist tracked on soundcheck, with 43 sets logged across Bangkok, Berlin, Kyoto and Milan and 4 more. Often billed alongside Courtney Bailey, Alicia Carrera and David Fogarty. Next up: Unkompress, Berlin on Sat 26 Sept.
 
@@ -25,4 +25,4 @@ Yuzo Iwata is a house and techno artist tracked on soundcheck, with 43 sets logg
 
 Courtney Bailey, Alicia Carrera, David Fogarty
 
-*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/yuzoiwata/)*
+*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/yuzoiwata/)*

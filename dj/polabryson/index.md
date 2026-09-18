@@ -1,6 +1,6 @@
 # Pola & Bryson
 
-Pola & Bryson is a Drum & Bass and Bass artist with 4 upcoming club dates listed on soundcheck as of Thu, 17 Sept 2026, next at Uebel & Gefährlich, Hamburg on Fri, 25 Sept 2026.
+Pola & Bryson is a Drum & Bass and Bass artist with 4 upcoming club dates listed on soundcheck as of Fri, 18 Sept 2026, next at Uebel & Gefährlich, Hamburg on Fri, 25 Sept 2026.
 
 Pola & Bryson are a drum & bass and bass duo tracked on soundcheck, with 69 sets logged across Auckland, Barcelona, Berlin and Brighton and 33 more. Often billed alongside Emily Makis, Camo & Krooked and Hybrid Minds. Next up: Uebel & Gefährlich, Hamburg on Fri 25 Sept.
 
@@ -28,4 +28,4 @@ Pola & Bryson are a drum & bass and bass duo tracked on soundcheck, with 69 sets
 
 Emily Makis, Camo & Krooked, Hybrid Minds
 
-*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/polabryson/)*
+*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/polabryson/)*

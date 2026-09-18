@@ -1,6 +1,6 @@
 # Mild Minds (DJ Set) at 1015 Folsom
 
-Mild Minds (DJ Set) at 1015 Folsom on Fri 18 Sept, Sanfrancisco. 5 acts on the bill: Aaron F, Amatric, DJ PlayStation and edapollo and 1 more. Preview the line-up and save it on soundcheck.
+Mild Minds (DJ Set) at 1015 Folsom on Fri 18 Sept, Sanfrancisco. 6 acts on the bill: Aaron F, Amatric, DJ PlayStation and edapollo and 2 more. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -14,6 +14,7 @@ Mild Minds (DJ Set) at 1015 Folsom on Fri 18 Sept, Sanfrancisco. 5 acts on the b
 - Amatric
 - DJ PlayStation
 - edapollo
+- From Dust
 - Jehnee
 
 *Source: [soundcheck](https://soundcheck.club/e/2468632-mild-minds-dj-set-at-1015-folsom/)*

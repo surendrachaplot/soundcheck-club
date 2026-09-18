@@ -1,6 +1,6 @@
 # Toldi Klub
 
-Toldi Klub is a music venue in Budapest with 15 upcoming nights listed on soundcheck as of Thu, 17 Sept 2026; the next is "MAJO // TOLDI" on Fri, 18 Sept 2026.
+Toldi Klub is a music venue in Budapest with 15 upcoming nights listed on soundcheck as of Fri, 18 Sept 2026; the next is "MAJO // TOLDI" on Fri, 18 Sept 2026.
 
 Toldi Klub is a music venue in Budapest listed on soundcheck. 15 upcoming nights, with line-ups including Atashi, BELLITTA, Bencsama and Daniel Santiago and 2 more. Browse upcoming dates, start times and who's playing. Bajcsy-Zsilinszky út 36-38, 1054 Budapest.
 
@@ -23,4 +23,4 @@ Toldi Klub is a music venue in Budapest listed on soundcheck. 15 upcoming nights
 
 Bajcsy-Zsilinszky út 36-38, 1054 Budapest, Budapest
 
-*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/budapest/club/toldi-klub/)*
+*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/budapest/club/toldi-klub/)*

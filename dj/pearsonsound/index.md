@@ -1,6 +1,6 @@
 # Pearson Sound
 
-Pearson Sound is a Techno and Bass artist with 5 upcoming club dates listed on soundcheck as of Thu, 17 Sept 2026, next at Kaiku, Helsinki on Sat, 19 Sept 2026.
+Pearson Sound is a Techno and Bass artist with 5 upcoming club dates listed on soundcheck as of Fri, 18 Sept 2026, next at Kaiku, Helsinki on Sat, 19 Sept 2026.
 
 Pearson Sound is a techno and bass artist tracked on soundcheck, with 96 sets logged across Amsterdam, Antwerp, Barcelona and Belfast and 39 more. Often billed alongside Ben UFO, Pangaea and Peach. Next up: Kaiku, Helsinki on Sat 19 Sept.
 
@@ -29,4 +29,4 @@ Pearson Sound is a techno and bass artist tracked on soundcheck, with 96 sets lo
 
 Ben UFO, Pangaea, Peach
 
-*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/pearsonsound/)*
+*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/pearsonsound/)*

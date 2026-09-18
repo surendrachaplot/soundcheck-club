@@ -1,6 +1,6 @@
 # Juliet Fox
 
-Juliet Fox is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Thu, 17 Sept 2026, next at Akvárium Klub, Budapest on Sat, 19 Sept 2026.
+Juliet Fox is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Fri, 18 Sept 2026, next at Akvárium Klub, Budapest on Sat, 19 Sept 2026.
 
 Juliet Fox is a techno and house artist tracked on soundcheck, with 112 sets logged across Amsterdam, Austin, Bangkok and Barcelona and 39 more. Often billed alongside Adam Beyer, Joyhauser and Layton Giordani. Next up: Akvárium Klub, Budapest on Sat 19 Sept.
 
@@ -28,4 +28,4 @@ Juliet Fox is a techno and house artist tracked on soundcheck, with 112 sets log
 
 Adam Beyer, Joyhauser, Layton Giordani
 
-*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/julietfox/)*
+*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/julietfox/)*

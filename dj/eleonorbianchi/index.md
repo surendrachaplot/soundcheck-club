@@ -1,6 +1,6 @@
 # Eleonor Bianchi
 
-Eleonor Bianchi is a Techno and Tech House artist with 2 upcoming club dates listed on soundcheck as of Thu, 17 Sept 2026, next at The B Side Berlin, Berlin on Wed, 30 Sept 2026.
+Eleonor Bianchi is a Techno and Tech House artist with 2 upcoming club dates listed on soundcheck as of Fri, 18 Sept 2026, next at The B Side Berlin, Berlin on Wed, 30 Sept 2026.
 
 Eleonor Bianchi is a techno and tech house artist tracked on soundcheck, with 10 sets logged across Berlin. Often billed alongside Anika Maculangan, UniKhatu and BUTENKØ. Next up: The B Side Berlin, Berlin on Wed 30 Sept.
 
@@ -26,4 +26,4 @@ Eleonor Bianchi is a techno and tech house artist tracked on soundcheck, with 10
 
 Anika Maculangan, UniKhatu, BUTENKØ
 
-*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/eleonorbianchi/)*
+*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/eleonorbianchi/)*

@@ -1,6 +1,6 @@
 # RaW
 
-RaW is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 17 Sept 2026, next at Climax-Institutes, Stuttgart on Fri, 25 Sept 2026.
+RaW is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 18 Sept 2026, next at Climax-Institutes, Stuttgart on Fri, 25 Sept 2026.
 
 RaW is a techno and house artist based in Germany, tracked on soundcheck, with 30 sets logged across Amsterdam, Bangkok, Birmingham and Cologne and 13 more. Often billed alongside Alternate State, Jakob (BE) and Justin Muscat. Next up: Climax-Institutes, Stuttgart on Fri 25 Sept.
 
@@ -26,4 +26,4 @@ RaW is a techno and house artist based in Germany, tracked on soundcheck, with 3
 
 Alternate State, Jakob (BE), Justin Muscat
 
-*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/raw/)*
+*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/raw/)*

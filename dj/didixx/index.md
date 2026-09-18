@@ -1,14 +1,14 @@
 # DIDIXX
 
-DIDIXX is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 17 Sept 2026, next at DETROIT CLUB, Barcelona on Fri, 2 Oct 2026.
+DIDIXX is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 18 Sept 2026, next at TBA - SECRET LOCATION (BARCELONA), Barcelona on Fri, 2 Oct 2026.
 
-DIDIXX is a techno and house artist tracked on soundcheck, with 40 sets logged across Barcelona and Ibiza. Often billed alongside KARELBLADE, Rowsi and GIVIO. Next up: DETROIT CLUB, Barcelona on Fri 2 Oct.
+DIDIXX is a techno and house artist tracked on soundcheck, with 40 sets logged across Barcelona and Ibiza. Often billed alongside KARELBLADE, Rowsi and GIVIO. Next up: TBA - SECRET LOCATION (BARCELONA), Barcelona on Fri 2 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 2 Oct 2026 | DETROIT CLUB | Barcelona |
+| Fri, 2 Oct 2026 | TBA - SECRET LOCATION (BARCELONA) | Barcelona |
 | Fri, 30 Oct 2026 | Parc del Fòrum | Barcelona |
 
 ## Recently played
@@ -26,4 +26,4 @@ DIDIXX is a techno and house artist tracked on soundcheck, with 40 sets logged a
 
 KARELBLADE, Rowsi, GIVIO
 
-*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/didixx/)*
+*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/didixx/)*

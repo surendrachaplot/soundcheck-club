@@ -1,6 +1,6 @@
 # Matteo Floris
 
-Matteo Floris is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 17 Sept 2026, next at Garage 442, Barcelona on Sat, 19 Sept 2026.
+Matteo Floris is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 18 Sept 2026, next at Garage 442, Barcelona on Sat, 19 Sept 2026.
 
 Matteo Floris is a house and techno artist based in Italy, tracked on soundcheck, with 46 sets logged across Barcelona, Brighton, Seoul and Tokyo. Often billed alongside Baffa, Paolo Meloni and Ale Carniel. Next up: Garage 442, Barcelona on Sat 19 Sept.
 
@@ -26,4 +26,4 @@ Matteo Floris is a house and techno artist based in Italy, tracked on soundcheck
 
 Baffa, Paolo Meloni, Ale Carniel
 
-*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/matteofloris/)*
+*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/matteofloris/)*

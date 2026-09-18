@@ -1,8 +1,8 @@
 # Geary Avenue Warehouse Project
 
-Geary Avenue Warehouse Project is a music venue in Toronto with 4 upcoming nights listed on soundcheck as of Thu, 17 Sept 2026; the next is "PASSPORT RAVE: 17-Hour Worldwide Sounds" on Sat, 19 Sept 2026.
+Geary Avenue Warehouse Project is a music venue in Toronto with 5 upcoming nights listed on soundcheck as of Fri, 18 Sept 2026; the next is "PASSPORT RAVE: 17-Hour Worldwide Sounds" on Sat, 19 Sept 2026.
 
-Geary Avenue Warehouse Project is a music venue in Toronto listed on soundcheck. 4 upcoming nights, with line-ups including Yubik. Browse upcoming dates, start times and who's playing. 209 Geary Ave, Toronto, ON, M6H2C1.
+Geary Avenue Warehouse Project is a music venue in Toronto listed on soundcheck. 5 upcoming nights, with line-ups including ANTON BASHKOV and Yubik. Browse upcoming dates, start times and who's playing. 209 Geary Ave, Toronto, ON, M6H2C1.
 
 ## What's on
 
@@ -11,10 +11,11 @@ Geary Avenue Warehouse Project is a music venue in Toronto listed on soundcheck.
 | Sat, 19 Sept 2026 | PASSPORT RAVE: 17-Hour Worldwide Sounds |  |
 | Sat, 26 Sept 2026 | K-pop Warehouse Rave |  |
 | Fri, 2 Oct 2026 | Nocturne Rave: White Night |  |
+| Fri, 6 Nov 2026 | MONOLITH 004: RELOADED | ANTON BASHKOV |
 | Sat, 21 Nov 2026 | Yubik in Toronto: Warehouse Rave Experience | Yubik |
 
 ## Address
 
 209 Geary Ave, Toronto, ON, M6H2C1, Toronto
 
-*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/geary-avenue-warehouse-project/)*
+*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/geary-avenue-warehouse-project/)*

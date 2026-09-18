@@ -1,6 +1,6 @@
 # 23 OCT - Friday Day with salute / Diffrent & Bella Claxton at Thuishaven
 
-23 OCT - Friday Day with salute / Diffrent & Bella Claxton at Thuishaven on Fri 23 Oct, Amsterdam. 13 acts on the bill: Bella Claxton, Deborah Aime La Bagarre, Diffrent and Emma B and 9 more. Preview the line-up and save it on soundcheck.
+23 OCT - Friday Day with salute / Diffrent & Bella Claxton at Thuishaven on Fri 23 Oct, Amsterdam. 14 acts on the bill: Bella Claxton, Call Super, Deborah Aime La Bagarre and Diffrent and 10 more. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,6 +11,7 @@
 ## Line-up
 
 - Bella Claxton
+- Call Super
 - Deborah Aime La Bagarre
 - Diffrent
 - Emma B

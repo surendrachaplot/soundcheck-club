@@ -1,6 +1,6 @@
 # saladbar
 
-saladbar is a Garage and Bass artist with 1 upcoming club date listed on soundcheck as of Thu, 17 Sept 2026, next at F8 1192 Folsom, San Francisco/Oakland on Fri, 18 Sept 2026.
+saladbar is a Garage and Bass artist with 1 upcoming club date listed on soundcheck as of Fri, 18 Sept 2026, next at F8 1192 Folsom, San Francisco/Oakland on Fri, 18 Sept 2026.
 
 saladbar is a garage and bass artist tracked on soundcheck, with 9 sets logged across Austin and Sanfrancisco. Often billed alongside Tripleset, Zkosta and 888Thieves. Next up: F8 1192 Folsom, Sanfrancisco on Fri 18 Sept.
 
@@ -25,4 +25,4 @@ saladbar is a garage and bass artist tracked on soundcheck, with 9 sets logged a
 
 Tripleset, Zkosta, 888Thieves
 
-*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/saladbar/)*
+*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/saladbar/)*

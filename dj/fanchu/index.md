@@ -1,6 +1,6 @@
 # Fanchu
 
-Fanchu is a Drum & Bass and Jungle artist with 1 upcoming club date listed on soundcheck as of Thu, 17 Sept 2026, next at The Fenton, Leeds on Sat, 31 Oct 2026.
+Fanchu is a Drum & Bass and Jungle artist with 1 upcoming club date listed on soundcheck as of Fri, 18 Sept 2026, next at The Fenton, Leeds on Sat, 31 Oct 2026.
 
 Fanchu is a drum & bass and jungle artist tracked on soundcheck, with 26 sets logged across Leeds, London and Manchester. Often billed alongside Diverge, Ebz and AC13. Next up: The Fenton, Leeds on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Fanchu is a drum & bass and jungle artist tracked on soundcheck, with 26 sets lo
 
 Diverge, Ebz, AC13
 
-*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/fanchu/)*
+*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/fanchu/)*

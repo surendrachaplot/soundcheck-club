@@ -1,14 +1,16 @@
 # Julia Toporek
 
-Julia Toporek is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 17 Sept 2026, next at Drama Radio Bar, Mexico City on Tue, 15 Sept 2026.
+Julia Toporek is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Fri, 18 Sept 2026, next at Drama Radio Bar, Mexico City on Tue, 15 Sept 2026.
 
-Julia Toporek is a house and techno artist based in Mexico, tracked on soundcheck, with 89 sets logged across Mexicocity. Often billed alongside Remille, Valeriana and Alby Esc. Next up: Drama Radio Bar, Mexicocity on Tue 15 Sept.
+Julia Toporek is a house and techno artist based in Mexico, tracked on soundcheck, with 91 sets logged across Mexicocity. Often billed alongside Remille, Valeriana and Alby Esc. Next up: Drama Radio Bar, Mexicocity on Tue 15 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Tue, 15 Sept 2026 | Drama Radio Bar | Mexico City |
+| Fri, 18 Sept 2026 | Departamento | Mexico City |
+| Sat, 19 Sept 2026 | Departamento | Mexico City |
 
 ## Recently played
 
@@ -25,4 +27,4 @@ Julia Toporek is a house and techno artist based in Mexico, tracked on soundchec
 
 Remille, Valeriana, Alby Esc
 
-*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/juliatoporek/)*
+*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/juliatoporek/)*

@@ -1,13 +1,14 @@
 # Sam Supplier
 
-Sam Supplier is a Tech House and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 17 Sept 2026, next at E1, London on Thu, 29 Oct 2026.
+Sam Supplier is a Tech House and House artist with 3 upcoming club dates listed on soundcheck as of Fri, 18 Sept 2026, next at Rolling Stock, London on Sat, 19 Sept 2026.
 
-Sam Supplier is a tech house and house artist tracked on soundcheck, with 72 sets logged across Brighton, Ibiza and London. Often billed alongside JAYDAA, DJ S (UK) and Jerome Six. Next up: E1, London on Thu 29 Oct.
+Sam Supplier is a tech house and house artist tracked on soundcheck, with 73 sets logged across Brighton, Ibiza and London. Often billed alongside JAYDAA, DJ S (UK) and Jerome Six. Next up: Rolling Stock, London on Sat 19 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 19 Sept 2026 | Rolling Stock | London |
 | Thu, 29 Oct 2026 | E1 | London |
 | Sat, 31 Oct 2026 | Chelmsford City Racecourse | London |
 
@@ -26,4 +27,4 @@ Sam Supplier is a tech house and house artist tracked on soundcheck, with 72 set
 
 JAYDAA, DJ S (UK), Jerome Six
 
-*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/samsupplier/)*
+*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/samsupplier/)*

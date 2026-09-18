@@ -1,6 +1,6 @@
 # Jana Falcon
 
-Jana Falcon is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 17 Sept 2026, next at MS Stubnitz, Hamburg on Fri, 25 Sept 2026.
+Jana Falcon is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 18 Sept 2026, next at MS Stubnitz, Hamburg on Fri, 25 Sept 2026.
 
 Jana Falcon is a house and techno artist tracked on soundcheck, with 142 sets logged across Berlin, Cologne, Copenhagen and Frankfurt and 10 more. Often billed alongside Flemish.Fetish, Benedict and Immy. Next up: MS Stubnitz, Hamburg on Fri 25 Sept.
 
@@ -26,4 +26,4 @@ Jana Falcon is a house and techno artist tracked on soundcheck, with 142 sets lo
 
 Flemish.Fetish, Benedict, Immy
 
-*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/janafalcon/)*
+*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/janafalcon/)*

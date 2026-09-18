@@ -1,8 +1,8 @@
 # VIL (PT)
 
-VIL (PT) is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Thu, 17 Sept 2026, next at Lofi, Amsterdam on Sat, 19 Sept 2026.
+VIL (PT) is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Fri, 18 Sept 2026, next at Lofi, Amsterdam on Sat, 19 Sept 2026.
 
-VIL (PT) is a techno and house artist based in Portugal, tracked on soundcheck, with 112 sets logged across Amsterdam, Athens, Barcelona and Berlin and 28 more. Often billed alongside CRAVO, Temudo and Nørbak. Next up: Lofi, Amsterdam on Sat 19 Sept.
+VIL (PT) is a techno and house artist based in Portugal, tracked on soundcheck, with 113 sets logged across Amsterdam, Athens, Barcelona and Berlin and 28 more. Often billed alongside CRAVO, Temudo and Nørbak. Next up: Lofi, Amsterdam on Sat 19 Sept.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ VIL (PT) is a techno and house artist based in Portugal, tracked on soundcheck, 
 | --- | --- | --- |
 | Sat, 19 Sept 2026 | Lofi | Amsterdam |
 | Sat, 26 Sept 2026 | Spook Club | Valencia |
+| Wed, 30 Sept 2026 | Collect LX Factory | Lisbon |
 | Fri, 23 Oct 2026 | RADION | Amsterdam |
 | Sat, 31 Oct 2026 | Tresor / Globus | Berlin |
 
@@ -28,4 +29,4 @@ VIL (PT) is a techno and house artist based in Portugal, tracked on soundcheck, 
 
 CRAVO, Temudo, Nørbak
 
-*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/vil-pt/)*
+*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/vil-pt/)*

@@ -1,6 +1,6 @@
 # Jana
 
-Jana is a Bass and Club artist with 3 upcoming club dates listed on soundcheck as of Thu, 17 Sept 2026, next at Panke, Berlin on Sat, 19 Sept 2026.
+Jana is a Bass and Club artist with 3 upcoming club dates listed on soundcheck as of Fri, 18 Sept 2026, next at Panke, Berlin on Sat, 19 Sept 2026.
 
 Jana is a bass and club artist based in Egypt, tracked on soundcheck, with 9 sets logged across Amsterdam and Berlin. Often billed alongside Taradud, A7ba L Jelly and C.FRIM. Next up: Panke, Berlin on Sat 19 Sept.
 
@@ -25,4 +25,4 @@ Jana is a bass and club artist based in Egypt, tracked on soundcheck, with 9 set
 
 Taradud, A7ba L Jelly, C.FRIM
 
-*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jana/)*
+*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jana/)*

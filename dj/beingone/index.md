@@ -1,6 +1,6 @@
 # Being One
 
-Being One is a Dub and Experimental artist with 2 upcoming club dates listed on soundcheck as of Thu, 17 Sept 2026, next at Hyde Park Book Club, Leeds on Sun, 20 Sept 2026.
+Being One is a Dub and Experimental artist with 2 upcoming club dates listed on soundcheck as of Fri, 18 Sept 2026, next at Hyde Park Book Club, Leeds on Sun, 20 Sept 2026.
 
 Being One is a dub and experimental artist based in United Kingdom, tracked on soundcheck, with 17 sets logged across Leeds and London. Often billed alongside Anatta Sound, Lioness Power and Biome. Next up: Hyde Park Book Club, Leeds on Sun 20 Sept.
 
@@ -26,4 +26,4 @@ Being One is a dub and experimental artist based in United Kingdom, tracked on s
 
 Anatta Sound, Lioness Power, Biome
 
-*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/beingone/)*
+*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/beingone/)*

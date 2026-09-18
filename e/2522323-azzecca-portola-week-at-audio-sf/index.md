@@ -1,6 +1,6 @@
 # Azzecca - Portola Week at Audio SF
 
-Azzecca - Portola Week at Audio SF on Sun 27 Sept, Sanfrancisco. 1 act on the bill: Azzecca. Preview the line-up and save it on soundcheck.
+Azzecca - Portola Week at Audio SF on Sun 27 Sept, Sanfrancisco. 2 acts on the bill: Ahadadream and Azzecca. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ Azzecca - Portola Week at Audio SF on Sun 27 Sept, Sanfrancisco. 1 act on the bi
 
 ## Line-up
 
+- Ahadadream
 - Azzecca
 
 *Source: [soundcheck](https://soundcheck.club/e/2522323-azzecca-portola-week-at-audio-sf/)*

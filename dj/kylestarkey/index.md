@@ -1,14 +1,13 @@
 # Kyle Starkey
 
-Kyle Starkey is a Techno and House artist with 18 upcoming club dates listed on soundcheck as of Thu, 17 Sept 2026, next at Moon Club, Bristol on Thu, 17 Sept 2026.
+Kyle Starkey is a Techno and House artist with 17 upcoming club dates listed on soundcheck as of Fri, 18 Sept 2026, next at SWG3, Glasgow on Sat, 19 Sept 2026.
 
-Kyle Starkey is a techno and house artist tracked on soundcheck, with 170 sets logged across Aberdeen, Amsterdam, Antwerp and Austin and 37 more. Often billed alongside DART, Benwal and Faster Horses. Next up: Moon Club, Bristol on Thu 17 Sept.
+Kyle Starkey is a techno and house artist tracked on soundcheck, with 170 sets logged across Aberdeen, Amsterdam, Antwerp and Austin and 37 more. Often billed alongside DART, Benwal and Faster Horses. Next up: SWG3, Glasgow on Sat 19 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Thu, 17 Sept 2026 | Moon Club | Bristol |
 | Sat, 19 Sept 2026 | SWG3 | Glasgow |
 | Sat, 19 Sept 2026 | SWG3 | Glasgow |
 | Mon, 21 Sept 2026 | Amnesia Ibiza | Ibiza |
@@ -20,9 +19,11 @@ Kyle Starkey is a techno and house artist tracked on soundcheck, with 170 sets l
 | Sat, 10 Oct 2026 | Mint XL | Leeds |
 | Sat, 17 Oct 2026 | The Liquid Room | Edinburgh |
 | Fri, 23 Oct 2026 | Ndsm Wharf | Amsterdam |
+| Sat, 24 Oct 2026 | Pllek | Amsterdam |
 
 ## Recently played
 
+- Moon Club, Bristol — Thu, 17 Sept 2026
 - Amnesia Ibiza, Ibiza — Mon, 14 Sept 2026
 - Laagravense Plas, Utrecht — Sat, 12 Sept 2026
 - BASIS, Utrecht — Sat, 12 Sept 2026
@@ -30,10 +31,9 @@ Kyle Starkey is a techno and house artist tracked on soundcheck, with 170 sets l
 - Mondo, Madrid — Sat, 5 Sept 2026
 - block., Dublin — Fri, 4 Sept 2026
 - Amnesia Ibiza, Ibiza — Mon, 31 Aug 2026
-- Hangaren, Copenhagen — Fri, 28 Aug 2026
 
 ## Shares bills with
 
 DART, Benwal, Faster Horses
 
-*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kylestarkey/)*
+*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kylestarkey/)*

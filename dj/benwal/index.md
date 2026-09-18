@@ -1,6 +1,6 @@
 # Benwal
 
-Benwal is a Techno and House artist with 14 upcoming club dates listed on soundcheck as of Thu, 17 Sept 2026, next at Cabaret Voltaire, Edinburgh on Fri, 18 Sept 2026.
+Benwal is a Techno and House artist with 14 upcoming club dates listed on soundcheck as of Fri, 18 Sept 2026, next at Cabaret Voltaire, Edinburgh on Fri, 18 Sept 2026.
 
 Benwal is a techno and house artist tracked on soundcheck, with 176 sets logged across Amsterdam, Antwerp, Austin and Bali and 41 more. Often billed alongside Kyle Starkey, MALUGI and Pegassi. Next up: Cabaret Voltaire, Edinburgh on Fri 18 Sept.
 
@@ -36,4 +36,4 @@ Benwal is a techno and house artist tracked on soundcheck, with 176 sets logged 
 
 Kyle Starkey, MALUGI, Pegassi
 
-*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/benwal/)*
+*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/benwal/)*

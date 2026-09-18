@@ -1,6 +1,6 @@
 # Marisa Joyce
 
-Marisa Joyce is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 17 Sept 2026, next at Humboldthain Club, Berlin on Fri, 18 Sept 2026.
+Marisa Joyce is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 18 Sept 2026, next at Humboldthain Club, Berlin on Fri, 18 Sept 2026.
 
 Marisa Joyce is a techno and house artist based in Switzerland, tracked on soundcheck, with 15 sets logged across Basel, Berlin and Zurich. Often billed alongside MARCISM, GCOD and Galopp. Next up: Humboldthain Club, Berlin on Fri 18 Sept.
 
@@ -26,4 +26,4 @@ Marisa Joyce is a techno and house artist based in Switzerland, tracked on sound
 
 MARCISM, GCOD, Galopp
 
-*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/marisajoyce/)*
+*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/marisajoyce/)*

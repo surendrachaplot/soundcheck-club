@@ -1,6 +1,6 @@
 # Linapary
 
-Linapary is a Reggaeton and Guaracha artist with 1 upcoming club date listed on soundcheck as of Thu, 17 Sept 2026, next at Core, Madrid on Fri, 18 Sept 2026.
+Linapary is a Reggaeton and Guaracha artist with 1 upcoming club date listed on soundcheck as of Fri, 18 Sept 2026, next at Core, Madrid on Fri, 18 Sept 2026.
 
 Linapary is a reggaeton and guaracha artist tracked on soundcheck, with 120 sets logged across Barcelona, Belgrade, Berlin and Boston and 21 more. Often billed alongside BZZHOUND, Don Amor and DJ2D2. Next up: Core, Madrid on Fri 18 Sept.
 
@@ -25,4 +25,4 @@ Linapary is a reggaeton and guaracha artist tracked on soundcheck, with 120 sets
 
 BZZHOUND, Don Amor, DJ2D2
 
-*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/linapary/)*
+*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/linapary/)*

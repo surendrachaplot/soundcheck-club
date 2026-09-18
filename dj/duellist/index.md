@@ -1,6 +1,6 @@
 # Duellist
 
-Duellist is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Thu, 17 Sept 2026, next at People's Leisure Club, Edinburgh on Sat, 21 Nov 2026.
+Duellist is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Fri, 18 Sept 2026, next at People's Leisure Club, Edinburgh on Sat, 21 Nov 2026.
 
 Duellist is a techno and industrial artist tracked on soundcheck, with 24 sets logged across Berlin, Detroit, Edinburgh and Lisbon and 6 more. Often billed alongside Axkan, K.ARMA and VMBRA. Next up: People's Leisure Club, Edinburgh on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ Duellist is a techno and industrial artist tracked on soundcheck, with 24 sets l
 
 Axkan, K.ARMA, VMBRA
 
-*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/duellist/)*
+*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/duellist/)*

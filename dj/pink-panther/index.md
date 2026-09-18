@@ -1,6 +1,6 @@
 # pink-panther
 
-pink-panther is a Techno and Tech House artist with 5 upcoming club dates listed on soundcheck as of Thu, 17 Sept 2026, next at ÆDEN, Berlin on Fri, 18 Sept 2026.
+pink-panther is a Techno and Tech House artist with 5 upcoming club dates listed on soundcheck as of Fri, 18 Sept 2026, next at ÆDEN, Berlin on Fri, 18 Sept 2026.
 
 pink-panther is a techno and tech house artist tracked on soundcheck, with 47 sets logged across Berlin. Often billed alongside UniKhatu, Rovin and Ilyas S. Next up: ÆDEN, Berlin on Fri 18 Sept.
 
@@ -29,4 +29,4 @@ pink-panther is a techno and tech house artist tracked on soundcheck, with 47 se
 
 UniKhatu, Rovin, Ilyas S
 
-*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/pink-panther/)*
+*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/pink-panther/)*

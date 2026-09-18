@@ -1,6 +1,6 @@
 # Jamesey
 
-Jamesey is a Deep House and Disco artist with 1 upcoming club date listed on soundcheck as of Thu, 17 Sept 2026, next at 91 Brick Lane, London on Fri, 18 Sept 2026.
+Jamesey is a Deep House and Disco artist with 1 upcoming club date listed on soundcheck as of Fri, 18 Sept 2026, next at 91 Brick Lane, London on Fri, 18 Sept 2026.
 
 Jamesey is a deep house and disco artist tracked on soundcheck, with 55 sets logged across London and Paris. Often billed alongside Matt L-S, Davide Del Vecchio and Kojay. Next up: 91 Brick Lane, London on Fri 18 Sept.
 
@@ -25,4 +25,4 @@ Jamesey is a deep house and disco artist tracked on soundcheck, with 55 sets log
 
 Matt L-S, Davide Del Vecchio, Kojay
 
-*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jamesey/)*
+*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jamesey/)*

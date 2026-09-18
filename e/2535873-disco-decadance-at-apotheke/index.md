@@ -1,6 +1,6 @@
 # Disco Decadance at Apotheke
 
-Disco Decadance at Apotheke on Sat 3 Oct, Losangeles. 1 act on the bill: Dirtie Blonde. House and Disco. Preview the line-up and save it on soundcheck.
+Disco Decadance at Apotheke on Sat 3 Oct, Losangeles. 2 acts on the bill: Dirtie Blonde and JESSICA JANE. House and Disco. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,5 +11,6 @@ Disco Decadance at Apotheke on Sat 3 Oct, Losangeles. 1 act on the bill: Dirtie 
 ## Line-up
 
 - Dirtie Blonde
+- JESSICA JANE
 
 *Source: [soundcheck](https://soundcheck.club/e/2535873-disco-decadance-at-apotheke/)*

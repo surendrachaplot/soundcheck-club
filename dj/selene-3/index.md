@@ -1,6 +1,6 @@
 # SELENE (3)
 
-SELENE (3) is a Club and Techno artist with 3 upcoming club dates listed on soundcheck as of Thu, 17 Sept 2026, next at Paragon, New York City on Fri, 18 Sept 2026.
+SELENE (3) is a Club and Techno artist with 3 upcoming club dates listed on soundcheck as of Fri, 18 Sept 2026, next at Paragon, New York City on Fri, 18 Sept 2026.
 
 SELENE (3) is a club and techno artist based in United States of America, tracked on soundcheck, with 5 sets logged across Newyorkcity and Washingtondc. Often billed alongside L4RV4, Xana 101 and ARCHANGEL (US). Next up: Paragon, Newyorkcity on Fri 18 Sept.
 
@@ -21,4 +21,4 @@ SELENE (3) is a club and techno artist based in United States of America, tracke
 
 L4RV4, Xana 101, ARCHANGEL (US)
 
-*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/selene-3/)*
+*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/selene-3/)*

@@ -1,6 +1,6 @@
 # DJ Flight
 
-DJ Flight is a Drum & Bass and Jungle artist with 6 upcoming club dates listed on soundcheck as of Thu, 17 Sept 2026, next at The Carpet Shop, London on Sun, 20 Sept 2026.
+DJ Flight is a Drum & Bass and Jungle artist with 6 upcoming club dates listed on soundcheck as of Fri, 18 Sept 2026, next at The Carpet Shop, London on Sun, 20 Sept 2026.
 
 DJ Flight is a drum & bass and jungle artist tracked on soundcheck, with 112 sets logged across Amsterdam, Barcelona, Berlin and Brighton and 25 more. Often billed alongside Mantra, SP:MC and MC GQ. Next up: The Carpet Shop, London on Sun 20 Sept.
 
@@ -30,4 +30,4 @@ DJ Flight is a drum & bass and jungle artist tracked on soundcheck, with 112 set
 
 Mantra, SP:MC, MC GQ
 
-*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djflight/)*
+*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djflight/)*

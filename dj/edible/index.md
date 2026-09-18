@@ -1,8 +1,8 @@
 # Edible
 
-Edible is a Funk / Soul and Afro House artist with 1 upcoming club date listed on soundcheck as of Thu, 17 Sept 2026, next at Bermondsey Social Club, London on Fri, 25 Sept 2026.
+Edible is a Funk / Soul and House artist with 1 upcoming club date listed on soundcheck as of Fri, 18 Sept 2026, next at Bermondsey Social Club, London on Fri, 25 Sept 2026.
 
-Edible is a funk / soul and afro house artist based in United Kingdom, tracked on soundcheck, with 6 sets logged across London. Often billed alongside Gilkinspoon, Shabba and DREY (UK). Next up: Bermondsey Social Club, London on Fri 25 Sept.
+Edible is a funk / soul and house artist based in United Kingdom, tracked on soundcheck, with 6 sets logged across London. Often billed alongside Gilkinspoon, Shabba and DREY (UK). Next up: Bermondsey Social Club, London on Fri 25 Sept.
 
 ## Upcoming shows
 
@@ -22,4 +22,4 @@ Edible is a funk / soul and afro house artist based in United Kingdom, tracked o
 
 Gilkinspoon, Shabba, DREY (UK)
 
-*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/edible/)*
+*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/edible/)*

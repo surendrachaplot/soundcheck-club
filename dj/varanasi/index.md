@@ -1,13 +1,14 @@
 # Varanasi
 
-Varanasi is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Thu, 17 Sept 2026, next at Eutopia Warehouse, London on Fri, 30 Oct 2026.
+Varanasi is a Techno and Electro artist with 2 upcoming club dates listed on soundcheck as of Fri, 18 Sept 2026, next at Distillery N17, London on Sat, 24 Oct 2026.
 
-Varanasi is a techno and electro artist tracked on soundcheck, with 36 sets logged across Berlin, Brighton, London and Manchester. Often billed alongside Himboy, RayRay and SBBS. Next up: Eutopia Warehouse, London on Fri 30 Oct.
+Varanasi is a techno and electro artist tracked on soundcheck, with 37 sets logged across Berlin, Brighton, London and Manchester. Often billed alongside Himboy, RayRay and SBBS. Next up: Distillery N17, London on Sat 24 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 24 Oct 2026 | Distillery N17 | London |
 | Fri, 30 Oct 2026 | Eutopia Warehouse | London |
 
 ## Recently played
@@ -25,4 +26,4 @@ Varanasi is a techno and electro artist tracked on soundcheck, with 36 sets logg
 
 Himboy, RayRay, SBBS
 
-*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/varanasi/)*
+*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/varanasi/)*

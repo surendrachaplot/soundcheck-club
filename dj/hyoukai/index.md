@@ -1,6 +1,6 @@
 # HYOUKAI
 
-HYOUKAI is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 17 Sept 2026, next at ZEROTOKYO, Tokyo on Tue, 22 Sept 2026.
+HYOUKAI is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 18 Sept 2026, next at ZEROTOKYO, Tokyo on Tue, 22 Sept 2026.
 
 HYOUKAI is a techno and house artist based in Japan, tracked on soundcheck, with 14 sets logged across Tokyo. Often billed alongside I WON TRIBE, LienNaigel and IPPU. Next up: ZEROTOKYO, Tokyo on Tue 22 Sept.
 
@@ -25,4 +25,4 @@ HYOUKAI is a techno and house artist based in Japan, tracked on soundcheck, with
 
 I WON TRIBE, LienNaigel, IPPU
 
-*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/hyoukai/)*
+*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/hyoukai/)*

@@ -1,6 +1,6 @@
 # harpriya
 
-harpriya is a Garage and Bass artist with 2 upcoming club dates listed on soundcheck as of Thu, 17 Sept 2026, next at Ballroom at Palais, London on Sat, 19 Sept 2026.
+harpriya is a Garage and Bass artist with 2 upcoming club dates listed on soundcheck as of Fri, 18 Sept 2026, next at Ballroom at Palais, London on Sat, 19 Sept 2026.
 
 harpriya is a garage and bass artist based in United Kingdom, tracked on soundcheck, with 80 sets logged across Berlin, Bristol, Edinburgh and Leeds and 3 more. Often billed alongside Buckley (UK), REA (UK) and Buckley. Next up: Ballroom at Palais, London on Sat 19 Sept.
 
@@ -26,4 +26,4 @@ harpriya is a garage and bass artist based in United Kingdom, tracked on soundch
 
 Buckley (UK), REA (UK), Buckley
 
-*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/harpriya/)*
+*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/harpriya/)*

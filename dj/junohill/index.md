@@ -1,6 +1,6 @@
 # Juno Hill
 
-Juno Hill is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 17 Sept 2026, next at Sinners and Saints, Washington DC on Sat, 3 Oct 2026.
+Juno Hill is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 18 Sept 2026, next at Sinners and Saints, Washington DC on Sat, 3 Oct 2026.
 
 Juno Hill is a house and techno artist based in United States of America, tracked on soundcheck, with 11 sets logged across Washingtondc. Often billed alongside Clamazon, Ether Pleaser and belizenotbrazil. Next up: Sinners and Saints, Washingtondc on Sat 3 Oct.
 
@@ -25,4 +25,4 @@ Juno Hill is a house and techno artist based in United States of America, tracke
 
 Clamazon, Ether Pleaser, belizenotbrazil
 
-*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/junohill/)*
+*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/junohill/)*

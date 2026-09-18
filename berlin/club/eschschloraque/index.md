@@ -1,6 +1,6 @@
 # Eschschloraque
 
-Eschschloraque is a music venue in Berlin with 13 upcoming nights listed on soundcheck as of Thu, 17 Sept 2026; the next is "Effetto Notte presents METHODS OF DANCE - 2 Act" on Fri, 18 Sept 2026.
+Eschschloraque is a music venue in Berlin with 13 upcoming nights listed on soundcheck as of Fri, 18 Sept 2026; the next is "Effetto Notte presents METHODS OF DANCE - 2 Act" on Fri, 18 Sept 2026.
 
 Eschschloraque is a music venue in Berlin listed on soundcheck. 13 upcoming nights, with line-ups including Blame (EC), Daniel Jaramillo, DAZA and MissVergnügen and 1 more. Browse upcoming dates, start times and who's playing. Rosenthaler Str. 39, 10178 Berlin, Germany.
 
@@ -23,4 +23,4 @@ Eschschloraque is a music venue in Berlin listed on soundcheck. 13 upcoming nigh
 
 Rosenthaler Str. 39, 10178 Berlin, Germany, Berlin
 
-*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/eschschloraque/)*
+*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/eschschloraque/)*

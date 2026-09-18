@@ -1,14 +1,15 @@
 # RoomToo
 
-RoomToo is a House and Acid artist with 2 upcoming club dates listed on soundcheck as of Thu, 17 Sept 2026, next at Kapsule, Liverpool on Sat, 24 Oct 2026.
+RoomToo is a House and Acid artist with 3 upcoming club dates listed on soundcheck as of Fri, 18 Sept 2026, next at Kapsule, Liverpool on Sat, 24 Oct 2026.
 
-RoomToo is a house and acid artist tracked on soundcheck, with 21 sets logged across Amsterdam, Belfast, Dublin and Liverpool and 2 more. Often billed alongside Olly Luiz, Taylor Taylor and Phill de Janeiro. Next up: Kapsule, Liverpool on Sat 24 Oct.
+RoomToo is a house and acid artist tracked on soundcheck, with 22 sets logged across Amsterdam, Belfast, Dublin and Liverpool and 2 more. Often billed alongside Olly Luiz, Phill de Janeiro and Taylor Taylor. Next up: Kapsule, Liverpool on Sat 24 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 24 Oct 2026 | Kapsule | Liverpool |
+| Sat, 5 Dec 2026 | Invisible Wind Factory | Liverpool |
 | Sat, 5 Dec 2026 | Invisible Wind Factory | Liverpool |
 
 ## Recently played
@@ -24,6 +25,6 @@ RoomToo is a house and acid artist tracked on soundcheck, with 21 sets logged ac
 
 ## Shares bills with
 
-Olly Luiz, Taylor Taylor, Phill de Janeiro
+Olly Luiz, Phill de Janeiro, Taylor Taylor
 
-*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/roomtoo/)*
+*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/roomtoo/)*

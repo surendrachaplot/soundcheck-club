@@ -1,6 +1,6 @@
 # Nectar - The Harvest OPEN AIR at TBA - Secret Location - Infos on our socials 
 
-Nectar - The Harvest OPEN AIR at TBA - Secret Location - Infos on our socials  on Sat 19 Sept, Berlin. 5 acts on the bill: Cara Carpaccio, Marianno, R1D1 and Rabat and 1 more. House and Experimental. Preview the line-up and save it on soundcheck.
+Nectar - The Harvest OPEN AIR at TBA - Secret Location - Infos on our socials  on Sat 19 Sept, Berlin. 6 acts on the bill: Cara Carpaccio, Jeremy J, Marianno and R1D1 and 2 more. House and Experimental. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,6 +11,7 @@ Nectar - The Harvest OPEN AIR at TBA - Secret Location - Infos on our socials  o
 ## Line-up
 
 - Cara Carpaccio
+- Jeremy J
 - Marianno
 - R1D1
 - Rabat

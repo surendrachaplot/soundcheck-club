@@ -1,13 +1,14 @@
 # ANCARCO
 
-ANCARCO is a Afro House and House artist with 1 upcoming club date listed on soundcheck as of Thu, 17 Sept 2026, next at F8 1192 Folsom, San Francisco/Oakland on Thu, 29 Oct 2026.
+ANCARCO is a Afro House and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 18 Sept 2026, next at Chi Lounge, San Francisco/Oakland on Sun, 27 Sept 2026.
 
-ANCARCO is an afro house and house artist tracked on soundcheck, with 6 sets logged across Sanfrancisco. Often billed alongside MONĪ, Alkemiss Erika and Camillionaire. Next up: F8 1192 Folsom, Sanfrancisco on Thu 29 Oct.
+ANCARCO is an afro house and house artist tracked on soundcheck, with 7 sets logged across Sanfrancisco. Often billed alongside Kamu Kamu, MONĪ and MOSTASH. Next up: Chi Lounge, Sanfrancisco on Sun 27 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sun, 27 Sept 2026 | Chi Lounge | San Francisco/Oakland |
 | Thu, 29 Oct 2026 | F8 1192 Folsom | San Francisco/Oakland |
 
 ## Recently played
@@ -20,6 +21,6 @@ ANCARCO is an afro house and house artist tracked on soundcheck, with 6 sets log
 
 ## Shares bills with
 
-MONĪ, Alkemiss Erika, Camillionaire
+Kamu Kamu, MONĪ, MOSTASH
 
-*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ancarco/)*
+*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ancarco/)*

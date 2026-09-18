@@ -1,8 +1,8 @@
 # The Greyhound
 
-The Greyhound is a music venue in London with 16 upcoming nights listed on soundcheck as of Thu, 17 Sept 2026; the next is "All At Once #4 - edm 4 queer ppl" on Sat, 19 Sept 2026.
+The Greyhound is a music venue in London with 17 upcoming nights listed on soundcheck as of Fri, 18 Sept 2026; the next is "All At Once #4 - edm 4 queer ppl" on Sat, 19 Sept 2026.
 
-The Greyhound is a music venue in London listed on soundcheck. 16 upcoming nights, with line-ups including Alex Wilcox, Bobby Mac, datSIM and Dylan Forbes and 2 more. Browse upcoming dates, start times and who's playing. 109 Peckham High St, London SE15 5SE.
+The Greyhound is a music venue in London listed on soundcheck. 17 upcoming nights, with line-ups including Alex Wilcox, Azire, Bobby Mac and datSIM and 2 more. Browse upcoming dates, start times and who's playing. 109 Peckham High St, London SE15 5SE.
 
 ## What's on
 
@@ -14,13 +14,13 @@ The Greyhound is a music venue in London listed on soundcheck. 16 upcoming night
 | Fri, 25 Sept 2026 | Ohm Syndikaat (Upstairs Bar) |  |
 | Sat, 26 Sept 2026 | Gazebo (Day Party) | Gazebo DJs, datSIM |
 | Sat, 26 Sept 2026 | After Hours x NRG CRU: 160 & Beyond III |  |
+| Sun, 4 Oct 2026 | EXTENDED IN THE PUB  PRESENT (SUNDAY ROAST) | Azire, Vlad Ioachimescu |
 | Fri, 9 Oct 2026 | SLVA: The Greyhound | Bobby Mac, lorcan_ |
 | Sat, 10 Oct 2026 | Otik - The Greyhound | Otik |
 | Fri, 16 Oct 2026 | Slippy 005: Mimi, Per, Terry Cotta, Wiseman, Woodwerk, Wyndham | Terry Cotta, Woodwerk, Wyndham |
-| Fri, 30 Oct 2026 | TWO STEP 004 - HALLOWEEN DANCE |  |
 
 ## Address
 
 109 Peckham High St, London SE15 5SE, London
 
-*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/the-greyhound/)*
+*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/the-greyhound/)*

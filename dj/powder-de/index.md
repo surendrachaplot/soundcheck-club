@@ -1,6 +1,6 @@
 # Powder (DE)
 
-Powder (DE) is a Electronica and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 17 Sept 2026, next at Fort Mifflin, Philadelphia on Fri, 18 Sept 2026.
+Powder (DE) is a Electronica and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 18 Sept 2026, next at Fort Mifflin, Philadelphia on Fri, 18 Sept 2026.
 
 Powder (DE) is an electronica and techno artist tracked on soundcheck, with 6 sets logged across Bali, Helsinki, Philadelphia and Sydney and 1 more. Often billed alongside upsammy, x3butterfly and Avalon Emerson. Next up: Fort Mifflin, Philadelphia on Fri 18 Sept.
 
@@ -22,4 +22,4 @@ Powder (DE) is an electronica and techno artist tracked on soundcheck, with 6 se
 
 upsammy, x3butterfly, Avalon Emerson
 
-*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/powder-de/)*
+*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/powder-de/)*

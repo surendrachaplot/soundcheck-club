@@ -1,6 +1,6 @@
 # O'Flynn
 
-O'Flynn is a House and Garage artist with 8 upcoming club dates listed on soundcheck as of Thu, 17 Sept 2026, next at Neck of the Woods, Auckland on Fri, 18 Sept 2026.
+O'Flynn is a House and Garage artist with 8 upcoming club dates listed on soundcheck as of Fri, 18 Sept 2026, next at Neck of the Woods, Auckland on Fri, 18 Sept 2026.
 
 O'Flynn is a house and garage artist based in United Kingdom, tracked on soundcheck, with 80 sets logged across Auckland, Barcelona, Berlin and Brighton and 27 more. Often billed alongside Dan Shake, Eliza Rose and Jasper Tygner. Next up: Neck of the Woods, Auckland on Fri 18 Sept.
 
@@ -32,4 +32,4 @@ O'Flynn is a house and garage artist based in United Kingdom, tracked on soundch
 
 Dan Shake, Eliza Rose, Jasper Tygner
 
-*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/oflynn/)*
+*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/oflynn/)*

@@ -1,6 +1,6 @@
 # Obscure Shape
 
-Obscure Shape is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Thu, 17 Sept 2026, next at 1520, Manchester on Fri, 25 Sept 2026.
+Obscure Shape is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Fri, 18 Sept 2026, next at 1520, Manchester on Fri, 25 Sept 2026.
 
 Obscure Shape is a techno and house artist tracked on soundcheck, with 90 sets logged across Amsterdam, Athens, Barcelona and Basel and 31 more. Often billed alongside SHDW, Isaiah (NL) and Beau Didier. Next up: 1520, Manchester on Fri 25 Sept.
 
@@ -29,4 +29,4 @@ Obscure Shape is a techno and house artist tracked on soundcheck, with 90 sets l
 
 SHDW, Isaiah (NL), Beau Didier
 
-*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/obscureshape/)*
+*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/obscureshape/)*

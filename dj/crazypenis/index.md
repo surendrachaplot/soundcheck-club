@@ -1,6 +1,6 @@
 # Crazy P
 
-Crazy P is a Disco and House artist with 7 upcoming club dates listed on soundcheck as of Thu, 17 Sept 2026, next at Brick Street, Liverpool on Sat, 19 Sept 2026.
+Crazy P is a Disco and House artist with 7 upcoming club dates listed on soundcheck as of Fri, 18 Sept 2026, next at Brick Street, Liverpool on Sat, 19 Sept 2026.
 
 Crazy P is a disco and house artist tracked on soundcheck, with 133 sets logged across Amsterdam, Barcelona, Basel and Birmingham and 28 more. Often billed alongside DJ Paulette, Luke Una and MiNNA. Next up: Brick Street, Liverpool on Sat 19 Sept.
 
@@ -31,4 +31,4 @@ Crazy P is a disco and house artist tracked on soundcheck, with 133 sets logged 
 
 DJ Paulette, Luke Una, MiNNA
 
-*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/crazypenis/)*
+*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/crazypenis/)*

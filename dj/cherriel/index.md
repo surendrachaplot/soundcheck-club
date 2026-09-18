@@ -1,6 +1,6 @@
 # Cherriel
 
-Cherriel is a Techno and Experimental artist with 1 upcoming club date listed on soundcheck as of Thu, 17 Sept 2026, next at Andy Arts, Detroit on Fri, 18 Sept 2026.
+Cherriel is a Techno and Experimental artist with 1 upcoming club date listed on soundcheck as of Fri, 18 Sept 2026, next at Andy Arts, Detroit on Fri, 18 Sept 2026.
 
 Cherriel is a techno and experimental artist based in United States of America, tracked on soundcheck, with 64 sets logged across Chicago, Detroit, Newyorkcity and Seattle. Often billed alongside Auntie Chanel, otodojo and Sapphyre. Next up: Andy Arts, Detroit on Fri 18 Sept.
 
@@ -25,4 +25,4 @@ Cherriel is a techno and experimental artist based in United States of America, 
 
 Auntie Chanel, otodojo, Sapphyre
 
-*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/cherriel/)*
+*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/cherriel/)*

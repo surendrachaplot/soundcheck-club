@@ -1,6 +1,6 @@
 # Martyna Basta
 
-Martyna Basta is a Experimental and Electronica artist with 2 upcoming club dates listed on soundcheck as of Thu, 17 Sept 2026, next at TBA - Fort Sokolnickiego, Czarnieckiego 51, Warsaw on Fri, 18 Sept 2026.
+Martyna Basta is a Experimental and Electronica artist with 2 upcoming club dates listed on soundcheck as of Fri, 18 Sept 2026, next at TBA - Fort Sokolnickiego, Czarnieckiego 51, Warsaw on Fri, 18 Sept 2026.
 
 Martyna Basta is an experimental and electronica artist tracked on soundcheck, with 15 sets logged across Barcelona, Berlin, Brussels and Frankfurt and 6 more. Often billed alongside Heinali, Kitty Sarcasm and Nídia. Next up: TBA - Fort Sokolnickiego, Czarnieckiego 51, Warsaw on Fri 18 Sept.
 
@@ -26,4 +26,4 @@ Martyna Basta is an experimental and electronica artist tracked on soundcheck, w
 
 Heinali, Kitty Sarcasm, Nídia
 
-*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/martynabasta/)*
+*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/martynabasta/)*

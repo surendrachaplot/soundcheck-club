@@ -1,6 +1,6 @@
 # G Livelab
 
-G Livelab is a music venue in Helsinki with 1 upcoming night listed on soundcheck as of Thu, 17 Sept 2026; the next is "Kelly Moran (US)" on Wed, 30 Sept 2026.
+G Livelab is a music venue in Helsinki with 1 upcoming night listed on soundcheck as of Fri, 18 Sept 2026; the next is "Kelly Moran (US)" on Wed, 30 Sept 2026.
 
 G Livelab is a music venue in Helsinki listed on soundcheck. 1 upcoming night. Browse upcoming dates, start times and who's playing. Yrjönkatu 3, 00120 Helsinki.
 
@@ -14,4 +14,4 @@ G Livelab is a music venue in Helsinki listed on soundcheck. 1 upcoming night. B
 
 Yrjönkatu 3, 00120 Helsinki, Helsinki
 
-*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/helsinki/club/g-livelab/)*
+*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/helsinki/club/g-livelab/)*

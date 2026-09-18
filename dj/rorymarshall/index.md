@@ -1,6 +1,6 @@
 # Rory Marshall
 
-Rory Marshall is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 17 Sept 2026, next at Revolver Upstairs, Melbourne on Sun, 20 Sept 2026.
+Rory Marshall is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 18 Sept 2026, next at Revolver Upstairs, Melbourne on Sun, 20 Sept 2026.
 
 Rory Marshall is a techno and house artist tracked on soundcheck, with 39 sets logged across Brisbane, London, Melbourne and Sydney. Often billed alongside Boogs, Andrea Guadalupi and GavWhitehouse. Next up: Revolver Upstairs, Melbourne on Sun 20 Sept.
 
@@ -25,4 +25,4 @@ Rory Marshall is a techno and house artist tracked on soundcheck, with 39 sets l
 
 Boogs, Andrea Guadalupi, GavWhitehouse
 
-*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/rorymarshall/)*
+*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/rorymarshall/)*

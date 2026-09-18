@@ -1,14 +1,15 @@
 # DJ Stolen
 
-DJ Stolen is a House and Amapiano artist with 1 upcoming club date listed on soundcheck as of Thu, 17 Sept 2026, next at Lost Horizon, Bristol on Fri, 18 Sept 2026.
+DJ Stolen is a House and Amapiano artist with 2 upcoming club dates listed on soundcheck as of Fri, 18 Sept 2026, next at Lost Horizon, Bristol on Fri, 18 Sept 2026.
 
-DJ Stolen is a house and amapiano artist based in United Kingdom, tracked on soundcheck, with 29 sets logged across Bristol and London. Often billed alongside DJ Polo, Wilfy D and Chiedza. Next up: Lost Horizon, Bristol on Fri 18 Sept.
+DJ Stolen is a house and amapiano artist based in United Kingdom, tracked on soundcheck, with 30 sets logged across Bristol and London. Often billed alongside DJ Polo, Wilfy D and Chiedza. Next up: Lost Horizon, Bristol on Fri 18 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 18 Sept 2026 | Lost Horizon | Bristol |
+| Sat, 31 Oct 2026 | The Love Inn | Bristol |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ DJ Stolen is a house and amapiano artist based in United Kingdom, tracked on sou
 
 DJ Polo, Wilfy D, Chiedza
 
-*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djstolen/)*
+*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djstolen/)*

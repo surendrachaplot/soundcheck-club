@@ -1,6 +1,6 @@
 # BOABOA (DK)
 
-BOABOA (DK) is a House and Club artist with 1 upcoming club date listed on soundcheck as of Thu, 17 Sept 2026, next at La Terrrazza, Barcelona on Fri, 18 Sept 2026.
+BOABOA (DK) is a House and Club artist with 1 upcoming club date listed on soundcheck as of Fri, 18 Sept 2026, next at La Terrrazza, Barcelona on Fri, 18 Sept 2026.
 
 BOABOA (DK) is a house and club artist tracked on soundcheck, with 6 sets logged across Barcelona, Copenhagen, Leeds and London and 1 more. Often billed alongside Junior Simba, 909 RACING TEAM and Albi.. Next up: La Terrrazza, Barcelona on Fri 18 Sept.
 
@@ -22,4 +22,4 @@ BOABOA (DK) is a house and club artist tracked on soundcheck, with 6 sets logged
 
 Junior Simba, 909 RACING TEAM, Albi.
 
-*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/boaboadk/)*
+*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/boaboadk/)*

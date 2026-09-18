@@ -1,6 +1,6 @@
 # Adam Sellouk
 
-Adam Sellouk is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 17 Sept 2026, next at Waterfront Park in San Diego, San Diego on Sat, 26 Sept 2026.
+Adam Sellouk is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 18 Sept 2026, next at Waterfront Park in San Diego, San Diego on Sat, 26 Sept 2026.
 
 Adam Sellouk is a techno and house artist tracked on soundcheck, with 63 sets logged across Amsterdam, Athens, Austin and Barcelona and 21 more. Often billed alongside Zamna Soundsystem, 19:26 and Kasia (OFC). Next up: Waterfront Park in San Diego, Sandiego on Sat 26 Sept.
 
@@ -26,4 +26,4 @@ Adam Sellouk is a techno and house artist tracked on soundcheck, with 63 sets lo
 
 Zamna Soundsystem, 19:26, Kasia (OFC)
 
-*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/adamsellouk/)*
+*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/adamsellouk/)*

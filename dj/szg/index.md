@@ -1,8 +1,8 @@
 # SZG
 
-SZG is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Thu, 17 Sept 2026, next at Club Exil, Vienna on Fri, 18 Sept 2026.
+SZG is a Techno and Trance artist with 3 upcoming club dates listed on soundcheck as of Fri, 18 Sept 2026, next at Club Exil, Vienna on Fri, 18 Sept 2026.
 
-SZG is a techno and trance artist based in Germany, tracked on soundcheck, with 114 sets logged across Amsterdam, Barcelona, Basel and Berlin and 22 more. Often billed alongside Arman John, Cara Elizabeth and DJ GUESTLIST. Next up: Club Exil, Vienna on Fri 18 Sept.
+SZG is a techno and trance artist based in Germany, tracked on soundcheck, with 115 sets logged across Amsterdam, Barcelona, Basel and Berlin and 22 more. Often billed alongside Arman John, Cara Elizabeth and DJ GUESTLIST. Next up: Club Exil, Vienna on Fri 18 Sept.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ SZG is a techno and trance artist based in Germany, tracked on soundcheck, with 
 | --- | --- | --- |
 | Fri, 18 Sept 2026 | Club Exil | Vienna |
 | Sat, 19 Sept 2026 | Airport Würzburg | Nürnberg |
+| Sat, 31 Oct 2026 | Sala Cocó | Madrid |
 
 ## Recently played
 
@@ -26,4 +27,4 @@ SZG is a techno and trance artist based in Germany, tracked on soundcheck, with 
 
 Arman John, Cara Elizabeth, DJ GUESTLIST
 
-*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/szg/)*
+*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/szg/)*

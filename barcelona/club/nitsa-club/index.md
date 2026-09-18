@@ -1,8 +1,8 @@
 # Nitsa Club
 
-Nitsa Club is a music venue in Barcelona with 11 upcoming nights listed on soundcheck as of Thu, 17 Sept 2026; the next is "DAX J · Wallis Live · Dj Fra · NiZ / Ivan Smagghe · Z@p · Anah" on Fri, 18 Sept 2026.
+Nitsa Club is a music venue in Barcelona with 12 upcoming nights listed on soundcheck as of Fri, 18 Sept 2026; the next is "DAX J · Wallis Live · Dj Fra · NiZ / Ivan Smagghe · Z@p · Anah" on Fri, 18 Sept 2026.
 
-Nitsa Club is a music venue in Barcelona listed on soundcheck. 11 upcoming nights, with line-ups including acidheaven, Alan Braxe, Altinbas and Anah and 2 more. Browse upcoming dates, start times and who's playing. Carrer Nou de la Rambla, 113; 08004 Barcelona; Spain.
+Nitsa Club is a music venue in Barcelona listed on soundcheck. 12 upcoming nights, with line-ups including acidheaven, Alan Braxe, Altinbas and Anah and 2 more. Browse upcoming dates, start times and who's playing. Carrer Nou de la Rambla, 113; 08004 Barcelona; Spain.
 
 ## What's on
 
@@ -15,12 +15,12 @@ Nitsa Club is a music venue in Barcelona listed on soundcheck. 11 upcoming night
 | Sat, 26 Sept 2026 | Modeselektor DJ Set · Dzeko / DJ AYA · Supergloss · acidheaven | DJ AYA, Dzeko, Modeselektor, Supergloss, acidheaven |
 | Fri, 2 Oct 2026 | Pegassi / Ignez | Ignez, Pegassi |
 | Sat, 3 Oct 2026 | Anetha | Anetha |
+| Fri, 9 Oct 2026 | Jimi Jules All Night Long | Jimi Jules |
 | Sat, 10 Oct 2026 | DJ Tennis | DJ Tennis |
 | Fri, 16 Oct 2026 | Silva Bumpa | Silva Bumpa |
-| Sat, 31 Oct 2026 | Oscar Mulero | Oscar Mulero |
 
 ## Address
 
 Carrer Nou de la Rambla, 113; 08004 Barcelona; Spain, Barcelona
 
-*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/nitsa-club/)*
+*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/nitsa-club/)*

@@ -1,6 +1,6 @@
 # Sina Bathaie
 
-Sina Bathaie is a Downtempo and Deep House artist with 5 upcoming club dates listed on soundcheck as of Thu, 17 Sept 2026, next at IF Performance Hall Beşiktaş, Istanbul on Fri, 18 Sept 2026.
+Sina Bathaie is a Downtempo and Deep House artist with 5 upcoming club dates listed on soundcheck as of Fri, 18 Sept 2026, next at IF Performance Hall Beşiktaş, Istanbul on Fri, 18 Sept 2026.
 
 Sina Bathaie is a downtempo and deep house artist tracked on soundcheck, with 93 sets logged across Amsterdam, Athens, Auckland and Austin and 42 more. Often billed alongside DJ Joeski, Facundo Mohrr and Kora (CA). Next up: IF Performance Hall Beşiktaş, Istanbul on Fri 18 Sept.
 
@@ -29,4 +29,4 @@ Sina Bathaie is a downtempo and deep house artist tracked on soundcheck, with 93
 
 DJ Joeski, Facundo Mohrr, Kora (CA)
 
-*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sinabathaie/)*
+*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sinabathaie/)*

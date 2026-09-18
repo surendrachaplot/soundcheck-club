@@ -1,14 +1,13 @@
 # Arts Club
 
-Arts Club is a music venue in Liverpool with 10 upcoming nights listed on soundcheck as of Thu, 17 Sept 2026; the next is "Tek Noire - BAPTISM" on Thu, 17 Sept 2026.
+Arts Club is a music venue in Liverpool with 9 upcoming nights listed on soundcheck as of Fri, 18 Sept 2026; the next is "Harder Disørder: Intimate Hard Rave 360 GO$PEL + OUTRAGE" on Fri, 18 Sept 2026.
 
-Arts Club is a music venue in Liverpool listed on soundcheck. 10 upcoming nights, with line-ups including 1-800 GIRLS, Basswell, Beaux and Dom Townsend and 2 more. Browse upcoming dates, start times and who's playing. 90 Seel Street; Liverpool; L1 4BH; United Kingdom.
+Arts Club is a music venue in Liverpool listed on soundcheck. 9 upcoming nights, with line-ups including 1-800 GIRLS, Basswell, Beaux and Dom Townsend and 2 more. Browse upcoming dates, start times and who's playing. 90 Seel Street; Liverpool; L1 4BH; United Kingdom.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Thu, 17 Sept 2026 | Tek Noire - BAPTISM |  |
 | Fri, 18 Sept 2026 | Harder Disørder: Intimate Hard Rave 360 GO$PEL + OUTRAGE |  |
 | Fri, 18 Sept 2026 | Mr Traumatik tour 2026 ft Elro |  |
 | Wed, 23 Sept 2026 | 1-800 Girls | 1-800 GIRLS |
@@ -23,4 +22,4 @@ Arts Club is a music venue in Liverpool listed on soundcheck. 10 upcoming nights
 
 90 Seel Street; Liverpool; L1 4BH; United Kingdom, Liverpool
 
-*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/liverpool/club/arts-club/)*
+*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/liverpool/club/arts-club/)*

@@ -1,6 +1,6 @@
 # RONNY
 
-RONNY is a Electro and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 17 Sept 2026, next at Palais, Munich on Fri, 9 Oct 2026.
+RONNY is a Electro and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 18 Sept 2026, next at Palais, Munich on Fri, 9 Oct 2026.
 
 RONNY is an electro and techno artist based in Germany, tracked on soundcheck, with 14 sets logged across Mexicocity and Munich. Often billed alongside DJ FM & DJ FREUND, Die Tektonische Plattenverschiebung and Safahs. Next up: Palais, Munich on Fri 9 Oct.
 
@@ -26,4 +26,4 @@ RONNY is an electro and techno artist based in Germany, tracked on soundcheck, w
 
 DJ FM & DJ FREUND, Die Tektonische Plattenverschiebung, Safahs
 
-*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ronny/)*
+*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ronny/)*

@@ -1,8 +1,8 @@
 # Vera Logdanidi
 
-Vera Logdanidi is a Techno and Ambient artist with 3 upcoming club dates listed on soundcheck as of Thu, 17 Sept 2026, next at Tresor / Globus, Berlin on Fri, 25 Sept 2026.
+Vera Logdanidi is a Techno and Ambient artist with 4 upcoming club dates listed on soundcheck as of Fri, 18 Sept 2026, next at Tresor / Globus, Berlin on Fri, 25 Sept 2026.
 
-Vera Logdanidi is a techno and ambient artist tracked on soundcheck, with 61 sets logged across Amsterdam, Antwerp, Barcelona and Basel and 18 more. Often billed alongside Na Nich, Altinbas and Efdemin. Next up: Tresor / Globus, Berlin on Fri 25 Sept.
+Vera Logdanidi is a techno and ambient artist tracked on soundcheck, with 62 sets logged across Amsterdam, Antwerp, Barcelona and Basel and 18 more. Often billed alongside Na Nich, Efdemin and Altinbas. Next up: Tresor / Globus, Berlin on Fri 25 Sept.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ Vera Logdanidi is a techno and ambient artist tracked on soundcheck, with 61 set
 | Fri, 25 Sept 2026 | Tresor / Globus | Berlin |
 | Sat, 26 Sept 2026 | Lofi | Amsterdam |
 | Sat, 7 Nov 2026 | DURO | Milan |
+| Fri, 13 Nov 2026 | CLUB RAUM | Amsterdam |
 
 ## Recently played
 
@@ -25,6 +26,6 @@ Vera Logdanidi is a techno and ambient artist tracked on soundcheck, with 61 set
 
 ## Shares bills with
 
-Na Nich, Altinbas, Efdemin
+Na Nich, Efdemin, Altinbas
 
-*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/veralogdanidi/)*
+*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/veralogdanidi/)*

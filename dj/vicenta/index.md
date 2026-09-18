@@ -1,6 +1,6 @@
 # Vicenta
 
-Vicenta is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 17 Sept 2026, next at Bastet, Philadelphia on Sat, 19 Sept 2026.
+Vicenta is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 18 Sept 2026, next at Bastet, Philadelphia on Sat, 19 Sept 2026.
 
 Vicenta is a techno and house artist tracked on soundcheck, with 39 sets logged across London, Newyorkcity and Philadelphia. Often billed alongside Chancleta, DeJota and ADAB. Next up: Bastet, Philadelphia on Sat 19 Sept.
 
@@ -26,4 +26,4 @@ Vicenta is a techno and house artist tracked on soundcheck, with 39 sets logged 
 
 Chancleta, DeJota, ADAB
 
-*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/vicenta/)*
+*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/vicenta/)*

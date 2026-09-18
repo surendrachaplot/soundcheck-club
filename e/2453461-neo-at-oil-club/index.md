@@ -1,6 +1,6 @@
 # 【东北神炖局】NEO at OIL Club
 
-【东北神炖局】NEO at OIL Club on Sun 25 Oct, Shenzhen. Baile Funk and Hardcore. Preview the line-up and save it on soundcheck.
+【东北神炖局】NEO at OIL Club on Sun 25 Oct, Shenzhen. Hardcore and Baile Funk. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

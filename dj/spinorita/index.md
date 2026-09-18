@@ -1,6 +1,6 @@
 # Spiñorita
 
-Spiñorita is a House and Disco artist with 3 upcoming club dates listed on soundcheck as of Thu, 17 Sept 2026, next at The Airliner, Los Angeles on Fri, 25 Sept 2026.
+Spiñorita is a House and Disco artist with 3 upcoming club dates listed on soundcheck as of Fri, 18 Sept 2026, next at The Airliner, Los Angeles on Fri, 25 Sept 2026.
 
 Spiñorita is a house and disco artist based in United States of America, tracked on soundcheck, with 58 sets logged across Chicago, Detroit, Losangeles and Mexicocity and 3 more. Often billed alongside BAE BAE, Daddy Kev and SEEPS. Next up: The Airliner, Losangeles on Fri 25 Sept.
 
@@ -27,4 +27,4 @@ Spiñorita is a house and disco artist based in United States of America, tracke
 
 BAE BAE, Daddy Kev, SEEPS
 
-*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/spinorita/)*
+*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/spinorita/)*

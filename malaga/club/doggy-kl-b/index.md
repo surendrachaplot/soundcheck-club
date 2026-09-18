@@ -1,14 +1,13 @@
 # Doggy Klœb
 
-Doggy Klœb is a music venue in Malaga with 7 upcoming nights listed on soundcheck as of Thu, 17 Sept 2026; the next is "Doggy & Friends: Cebrian" on Thu, 17 Sept 2026.
+Doggy Klœb is a music venue in Malaga with 6 upcoming nights listed on soundcheck as of Fri, 18 Sept 2026; the next is "Creatures of the Night" on Fri, 18 Sept 2026.
 
-Doggy Klœb is a music venue in Malaga listed on soundcheck. 7 upcoming nights, with line-ups including Arval, Catania, Cavilla and Certain People and 2 more. Browse upcoming dates, start times and who's playing. C. Casablanca, 13, 29620 Torremolinos, Málaga, Spain.
+Doggy Klœb is a music venue in Malaga listed on soundcheck. 6 upcoming nights, with line-ups including Arval, Catania, Cavilla and Certain People and 2 more. Browse upcoming dates, start times and who's playing. C. Casablanca, 13, 29620 Torremolinos, Málaga, Spain.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Thu, 17 Sept 2026 | Doggy & Friends: Cebrian |  |
 | Fri, 18 Sept 2026 | Creatures of the Night | Catania, Cavilla, Unreal Vibes, rubbio |
 | Sat, 19 Sept 2026 | Benny Yasoto & Co |  |
 | Thu, 24 Sept 2026 | Doggy & Friends: Rvbbio | rubbio |
@@ -20,4 +19,4 @@ Doggy Klœb is a music venue in Malaga listed on soundcheck. 7 upcoming nights, 
 
 C. Casablanca, 13, 29620 Torremolinos, Málaga, Spain, Malaga
 
-*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/malaga/club/doggy-kl-b/)*
+*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/malaga/club/doggy-kl-b/)*

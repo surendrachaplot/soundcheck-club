@@ -1,14 +1,15 @@
 # GRRLCRRSH
 
-GRRLCRRSH is a Techno and Bass artist with 1 upcoming club date listed on soundcheck as of Thu, 17 Sept 2026, next at The Garrison, Toronto on Fri, 18 Sept 2026.
+GRRLCRRSH is a Techno and Bass artist with 2 upcoming club dates listed on soundcheck as of Fri, 18 Sept 2026, next at The Garrison, Toronto on Fri, 18 Sept 2026.
 
-GRRLCRRSH is a techno and bass artist tracked on soundcheck, with 46 sets logged across Newyorkcity and Toronto. Often billed alongside Sappho.XD, Zellers and Hycastle. Next up: The Garrison, Toronto on Fri 18 Sept.
+GRRLCRRSH is a techno and bass artist tracked on soundcheck, with 47 sets logged across Newyorkcity and Toronto. Often billed alongside Sappho.XD, Zellers and Hycastle. Next up: The Garrison, Toronto on Fri 18 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 18 Sept 2026 | The Garrison | Toronto |
+| Fri, 16 Oct 2026 | The Jama | Toronto |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ GRRLCRRSH is a techno and bass artist tracked on soundcheck, with 46 sets logged
 
 Sappho.XD, Zellers, Hycastle
 
-*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/grrlcrrsh/)*
+*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/grrlcrrsh/)*

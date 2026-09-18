@@ -1,13 +1,14 @@
 # Millz
 
-Millz is a Drum & Bass and Club artist with 1 upcoming club date listed on soundcheck as of Thu, 17 Sept 2026, next at Planet Wax, London on Thu, 24 Sept 2026.
+Millz is a Drum & Bass and Club artist with 2 upcoming club dates listed on soundcheck as of Fri, 18 Sept 2026, next at The Steel Yard, London on Fri, 18 Sept 2026.
 
-Millz is a drum & bass and club artist based in United States of America, tracked on soundcheck, with 23 sets logged across Amsterdam, Bangkok, Bristol and Detroit and 5 more. Often billed alongside Nicky Blackmarket, Marvelito and Nicky B. Next up: Planet Wax, London on Thu 24 Sept.
+Millz is a drum & bass and club artist based in United States of America, tracked on soundcheck, with 24 sets logged across Amsterdam, Bangkok, Bristol and Detroit and 5 more. Often billed alongside Nicky Blackmarket, Marvelito and Nicky B. Next up: The Steel Yard, London on Fri 18 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 18 Sept 2026 | The Steel Yard | London |
 | Thu, 24 Sept 2026 | Planet Wax | London |
 
 ## Recently played
@@ -25,4 +26,4 @@ Millz is a drum & bass and club artist based in United States of America, tracke
 
 Nicky Blackmarket, Marvelito, Nicky B
 
-*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/millz/)*
+*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/millz/)*

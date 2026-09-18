@@ -1,18 +1,18 @@
 # Petal Supply
 
-Petal Supply is a Club and Pop artist with 2 upcoming club dates listed on soundcheck as of Thu, 17 Sept 2026, next at The Cafe, San Francisco/Oakland on Thu, 17 Sept 2026.
+Petal Supply is a Club and Pop artist with 1 upcoming club date listed on soundcheck as of Fri, 18 Sept 2026, next at Elsewhere, New York City on Sat, 31 Oct 2026.
 
-Petal Supply is a club and pop artist tracked on soundcheck, with 61 sets logged across Amsterdam, Barcelona, Berlin and Boston and 21 more. Often billed alongside umru, HVN (1) and Ard1n. Next up: The Cafe, Sanfrancisco on Thu 17 Sept.
+Petal Supply is a club and pop artist tracked on soundcheck, with 61 sets logged across Amsterdam, Barcelona, Berlin and Boston and 21 more. Often billed alongside umru, HVN (1) and Ard1n. Next up: Elsewhere, Newyorkcity on Sat 31 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Thu, 17 Sept 2026 | The Cafe | San Francisco/Oakland |
 | Sat, 31 Oct 2026 | Elsewhere | New York City |
 
 ## Recently played
 
+- The Cafe, San Francisco/Oakland — Thu, 17 Sept 2026
 - TBA - LOCATION ANNOUNCED DAY OF VIA EMAIL, Chicago — Fri, 3 Apr 2026
 - public records, New York City — Thu, 19 Mar 2026
 - Meow Wolf Denver, Denver — Fri, 27 Feb 2026
@@ -20,10 +20,9 @@ Petal Supply is a club and pop artist tracked on soundcheck, with 61 sets logged
 - SILO, New York City — Sat, 3 Jan 2026
 - TBA - Brooklyn Brewery, New York City — Wed, 31 Dec 2025
 - Dx, Boston — Fri, 12 Dec 2025
-- Elsewhere, New York City — Sat, 6 Dec 2025
 
 ## Shares bills with
 
 umru, HVN (1), Ard1n
 
-*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/petalsupply/)*
+*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/petalsupply/)*

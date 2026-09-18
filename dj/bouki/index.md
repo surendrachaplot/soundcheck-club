@@ -1,6 +1,6 @@
 # Bouki
 
-Bouki is a Garage and Bass artist with 2 upcoming club dates listed on soundcheck as of Thu, 17 Sept 2026, next at QUIVR, Brisbane on Fri, 18 Sept 2026.
+Bouki is a Garage and Bass artist with 2 upcoming club dates listed on soundcheck as of Fri, 18 Sept 2026, next at QUIVR, Brisbane on Fri, 18 Sept 2026.
 
 Bouki is a garage and bass artist tracked on soundcheck, with 61 sets logged across Brisbane, Lyon, Melbourne and Strasbourg and 1 more. Often billed alongside Obeido, Bella Bella and Mimi J. Next up: QUIVR, Brisbane on Fri 18 Sept.
 
@@ -26,4 +26,4 @@ Bouki is a garage and bass artist tracked on soundcheck, with 61 sets logged acr
 
 Obeido, Bella Bella, Mimi J
 
-*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bouki/)*
+*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bouki/)*

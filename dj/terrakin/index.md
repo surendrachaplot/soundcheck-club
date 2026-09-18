@@ -1,6 +1,6 @@
 # Terrakin
 
-Terrakin is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Thu, 17 Sept 2026, next at nachbar, Amsterdam on Fri, 18 Sept 2026.
+Terrakin is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Fri, 18 Sept 2026, next at nachbar, Amsterdam on Fri, 18 Sept 2026.
 
 Terrakin is a house and techno artist based in Netherlands, tracked on soundcheck, with 13 sets logged across Amsterdam, Berlin and Glasgow. Often billed alongside Vinz Sosa, annalogue and Freddy (2). Next up: nachbar, Amsterdam on Fri 18 Sept.
 
@@ -27,4 +27,4 @@ Terrakin is a house and techno artist based in Netherlands, tracked on soundchec
 
 Vinz Sosa, annalogue, Freddy (2)
 
-*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/terrakin/)*
+*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/terrakin/)*

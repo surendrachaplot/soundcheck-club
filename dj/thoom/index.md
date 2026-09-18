@@ -1,6 +1,6 @@
 # Thoom
 
-Thoom is a Hardcore and Experimental artist with 1 upcoming club date listed on soundcheck as of Thu, 17 Sept 2026, next at Union Transfer, Philadelphia on Tue, 27 Oct 2026.
+Thoom is a Hardcore and Experimental artist with 1 upcoming club date listed on soundcheck as of Fri, 18 Sept 2026, next at Union Transfer, Philadelphia on Tue, 27 Oct 2026.
 
 Thoom is a hardcore and experimental artist tracked on soundcheck, with 11 sets logged across London, Losangeles, Newyorkcity and Paris and 1 more. Often billed alongside dj listen to ur heart, sydfalls and Bassvictim. Next up: Union Transfer, Philadelphia on Tue 27 Oct.
 
@@ -25,4 +25,4 @@ Thoom is a hardcore and experimental artist tracked on soundcheck, with 11 sets 
 
 dj listen to ur heart, sydfalls, Bassvictim
 
-*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/thoom/)*
+*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/thoom/)*

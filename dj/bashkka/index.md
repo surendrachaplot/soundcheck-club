@@ -1,6 +1,6 @@
 # BASHKKA
 
-BASHKKA is a Techno and House artist with 15 upcoming club dates listed on soundcheck as of Thu, 17 Sept 2026, next at Fort Mifflin, Philadelphia on Fri, 18 Sept 2026.
+BASHKKA is a Techno and House artist with 15 upcoming club dates listed on soundcheck as of Fri, 18 Sept 2026, next at Fort Mifflin, Philadelphia on Fri, 18 Sept 2026.
 
 BASHKKA is a techno and house artist tracked on soundcheck, with 308 sets logged across Amsterdam, Antwerp, Athens and Bali and 58 more. Often billed alongside Sedef Adasï, Gabrielle Kwarteng and Ogazón. Next up: Fort Mifflin, Philadelphia on Fri 18 Sept.
 
@@ -36,4 +36,4 @@ BASHKKA is a techno and house artist tracked on soundcheck, with 308 sets logged
 
 Sedef Adasï, Gabrielle Kwarteng, Ogazón
 
-*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bashkka/)*
+*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bashkka/)*

@@ -1,6 +1,6 @@
 # feedbk
 
-feedbk is a music venue in New York City with 6 upcoming nights listed on soundcheck as of Thu, 17 Sept 2026; the next is "feedbk - soft opening season with oma totem & Hugo" on Fri, 18 Sept 2026.
+feedbk is a music venue in New York City with 6 upcoming nights listed on soundcheck as of Fri, 18 Sept 2026; the next is "feedbk - soft opening season with oma totem & Hugo" on Fri, 18 Sept 2026.
 
 feedbk is a music venue in Newyorkcity listed on soundcheck. 6 upcoming nights, with line-ups including Avo (ES), CAMILLA, Carlos Souffront and Dardenne and 2 more. Browse upcoming dates, start times and who's playing. 153 Morgan Avenue.
 
@@ -19,4 +19,4 @@ feedbk is a music venue in Newyorkcity listed on soundcheck. 6 upcoming nights, 
 
 153 Morgan Avenue, New York City
 
-*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/feedbk/)*
+*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/feedbk/)*

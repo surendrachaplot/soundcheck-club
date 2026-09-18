@@ -1,6 +1,6 @@
 # Post Bar
 
-Post Bar is a music venue in Helsinki with 9 upcoming nights listed on soundcheck as of Thu, 17 Sept 2026; the next is "Changeless: Exploited Body & Assyouti + more" on Fri, 18 Sept 2026.
+Post Bar is a music venue in Helsinki with 9 upcoming nights listed on soundcheck as of Fri, 18 Sept 2026; the next is "Changeless: Exploited Body & Assyouti + more" on Fri, 18 Sept 2026.
 
 Post Bar is a music venue in Helsinki listed on soundcheck. 9 upcoming nights, with line-ups including Assyouti, babybel, Basit Soomro and CEB (FI) and 2 more. Browse upcoming dates, start times and who's playing. Kaikukatu 2.
 
@@ -22,4 +22,4 @@ Post Bar is a music venue in Helsinki listed on soundcheck. 9 upcoming nights, w
 
 Kaikukatu 2, Helsinki
 
-*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/helsinki/club/post-bar/)*
+*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/helsinki/club/post-bar/)*

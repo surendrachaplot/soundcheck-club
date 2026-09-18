@@ -1,6 +1,6 @@
 # Vaccaro
 
-Vaccaro is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 17 Sept 2026, next at Renate, Berlin on Sat, 19 Sept 2026.
+Vaccaro is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 18 Sept 2026, next at Renate, Berlin on Sat, 19 Sept 2026.
 
 Vaccaro is a techno and house artist tracked on soundcheck, with 34 sets logged across Berlin. Often billed alongside MXC, Tinco and No Auer. Next up: Renate, Berlin on Sat 19 Sept.
 
@@ -26,4 +26,4 @@ Vaccaro is a techno and house artist tracked on soundcheck, with 34 sets logged 
 
 MXC, Tinco, No Auer
 
-*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/vaccaro/)*
+*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/vaccaro/)*

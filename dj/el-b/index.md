@@ -1,6 +1,6 @@
 # El-B
 
-El-B is a Garage and Dubstep artist with 1 upcoming club date listed on soundcheck as of Thu, 17 Sept 2026, next at The Cause, London on Sat, 31 Oct 2026.
+El-B is a Garage and Dubstep artist with 1 upcoming club date listed on soundcheck as of Fri, 18 Sept 2026, next at The Cause, London on Sat, 31 Oct 2026.
 
 El-B is a garage and dubstep artist tracked on soundcheck, with 45 sets logged across Amsterdam, Barcelona, Bristol and Copenhagen and 9 more. Often billed alongside Mantra, Plastician and Zed Bias. Next up: The Cause, London on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ El-B is a garage and dubstep artist tracked on soundcheck, with 45 sets logged a
 
 Mantra, Plastician, Zed Bias
 
-*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/el-b/)*
+*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/el-b/)*

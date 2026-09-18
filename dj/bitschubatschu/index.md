@@ -1,13 +1,14 @@
 # Bitschu Batschu
 
-Bitschu Batschu is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Thu, 17 Sept 2026, next at OST, Berlin on Sat, 5 Dec 2026.
+Bitschu Batschu is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Fri, 18 Sept 2026, next at T7 Paris, Paris on Fri, 9 Oct 2026.
 
-Bitschu Batschu is a techno and trance artist tracked on soundcheck, with 73 sets logged across Antwerp, Basel, Berlin and Cologne and 14 more. Often billed alongside Dream DJ Team, Mika Heggemann and 1luu. Next up: OST, Berlin on Sat 5 Dec.
+Bitschu Batschu is a techno and trance artist tracked on soundcheck, with 74 sets logged across Antwerp, Basel, Berlin and Cologne and 14 more. Often billed alongside Dream DJ Team, Mika Heggemann and 1luu. Next up: T7 Paris, Paris on Fri 9 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 9 Oct 2026 | T7 Paris | Paris |
 | Sat, 5 Dec 2026 | OST | Berlin |
 
 ## Recently played
@@ -25,4 +26,4 @@ Bitschu Batschu is a techno and trance artist tracked on soundcheck, with 73 set
 
 Dream DJ Team, Mika Heggemann, 1luu
 
-*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bitschubatschu/)*
+*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bitschubatschu/)*

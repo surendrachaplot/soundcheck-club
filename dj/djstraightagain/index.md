@@ -1,14 +1,15 @@
 # DJ Straight Again
 
-DJ Straight Again is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 17 Sept 2026, next at Circle Park, Brussels on Sun, 20 Sept 2026.
+DJ Straight Again is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 18 Sept 2026, next at Circle Park, Brussels on Sun, 20 Sept 2026.
 
-DJ Straight Again is a house and techno artist based in Belgium, tracked on soundcheck, with 5 sets logged across Antwerp and Brussels. Often billed alongside Asian Sal, Azo and CAÑITA. Next up: Circle Park, Brussels on Sun 20 Sept.
+DJ Straight Again is a house and techno artist based in Belgium, tracked on soundcheck, with 6 sets logged across Antwerp and Brussels. Often billed alongside Vera Moro, 131bpm and Asian Sal. Next up: Circle Park, Brussels on Sun 20 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sun, 20 Sept 2026 | Circle Park | Brussels |
+| Sat, 28 Nov 2026 | ASIAT Park | Brussels |
 
 ## Recently played
 
@@ -19,6 +20,6 @@ DJ Straight Again is a house and techno artist based in Belgium, tracked on soun
 
 ## Shares bills with
 
-Asian Sal, Azo, CAÑITA
+Vera Moro, 131bpm, Asian Sal
 
-*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djstraightagain/)*
+*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djstraightagain/)*

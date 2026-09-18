@@ -1,14 +1,15 @@
 # David Löhlein
 
-David Löhlein is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Thu, 17 Sept 2026, next at La Nube, Buenos Aires on Fri, 16 Oct 2026.
+David Löhlein is a Techno and Trance artist with 3 upcoming club dates listed on soundcheck as of Fri, 18 Sept 2026, next at La Nube, Buenos Aires on Fri, 16 Oct 2026.
 
-David Löhlein is a techno and trance artist tracked on soundcheck, with 150 sets logged across Amsterdam, Antwerp, Barcelona and Basel and 45 more. Often billed alongside Raphael Dincsoy, Rove Ranger and AHURA. Next up: La Nube, Buenosaires on Fri 16 Oct.
+David Löhlein is a techno and trance artist tracked on soundcheck, with 151 sets logged across Amsterdam, Antwerp, Barcelona and Basel and 45 more. Often billed alongside Raphael Dincsoy, Rove Ranger and AHURA. Next up: La Nube, Buenosaires on Fri 16 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 16 Oct 2026 | La Nube | Buenos Aires |
+| Fri, 20 Nov 2026 | Expo Santa Fe | Mexico City |
 | Sat, 28 Nov 2026 | MUENZE | Berlin |
 
 ## Recently played
@@ -26,4 +27,4 @@ David Löhlein is a techno and trance artist tracked on soundcheck, with 150 set
 
 Raphael Dincsoy, Rove Ranger, AHURA
 
-*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/davidlohlein/)*
+*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/davidlohlein/)*

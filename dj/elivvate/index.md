@@ -1,6 +1,6 @@
 # ELIVVATE
 
-ELIVVATE is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Thu, 17 Sept 2026, next at SILO, New York City on Fri, 18 Sept 2026.
+ELIVVATE is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Fri, 18 Sept 2026, next at SILO, New York City on Fri, 18 Sept 2026.
 
 ELIVVATE is a techno and trance artist based in United States of America, tracked on soundcheck, with 8 sets logged across Newyorkcity and Philadelphia. Often billed alongside Pablo Vitale, a.gar and Amado. Next up: SILO, Newyorkcity on Fri 18 Sept.
 
@@ -24,4 +24,4 @@ ELIVVATE is a techno and trance artist based in United States of America, tracke
 
 Pablo Vitale, a.gar, Amado
 
-*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/elivvate/)*
+*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/elivvate/)*

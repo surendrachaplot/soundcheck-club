@@ -1,6 +1,6 @@
 # Vlad Caia
 
-Vlad Caia is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Thu, 17 Sept 2026, next at Kassa Boat, Budapest on Sat, 19 Sept 2026.
+Vlad Caia is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Fri, 18 Sept 2026, next at Kassa Boat, Budapest on Sat, 19 Sept 2026.
 
 Vlad Caia is a house and minimal artist based in Romania, tracked on soundcheck, with 50 sets logged across Amsterdam, Barcelona, Berlin and Brussels and 13 more. Often billed alongside Cristi Cons, SIT Amphia and DeWalta. Next up: Kassa Boat, Budapest on Sat 19 Sept.
 
@@ -25,4 +25,4 @@ Vlad Caia is a house and minimal artist based in Romania, tracked on soundcheck,
 
 Cristi Cons, SIT Amphia, DeWalta
 
-*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/vladcaia/)*
+*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/vladcaia/)*

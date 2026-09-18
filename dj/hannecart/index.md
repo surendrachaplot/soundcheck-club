@@ -1,6 +1,6 @@
 # Hannecart
 
-Hannecart is a House and Tech House artist with 6 upcoming club dates listed on soundcheck as of Thu, 17 Sept 2026, next at Openluchttheater Amersfoort, Amsterdam on Fri, 18 Sept 2026.
+Hannecart is a House and Tech House artist with 6 upcoming club dates listed on soundcheck as of Fri, 18 Sept 2026, next at Openluchttheater Amersfoort, Amsterdam on Fri, 18 Sept 2026.
 
 Hannecart is a house and tech house artist based in Dominican Republic, tracked on soundcheck, with 98 sets logged across Amsterdam, Athens, Berlin and Brussels and 5 more. Often billed alongside Reiss, Emvae and Kyra Khaldi. Next up: Openluchttheater Amersfoort, Amsterdam on Fri 18 Sept.
 
@@ -30,4 +30,4 @@ Hannecart is a house and tech house artist based in Dominican Republic, tracked 
 
 Reiss, Emvae, Kyra Khaldi
 
-*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/hannecart/)*
+*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/hannecart/)*

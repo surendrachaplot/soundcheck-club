@@ -1,14 +1,13 @@
 # Eli Escobar
 
-Eli Escobar is a House and Electro artist with 15 upcoming club dates listed on soundcheck as of Thu, 17 Sept 2026, next at Gabriela, New York City on Thu, 17 Sept 2026.
+Eli Escobar is a House and Electro artist with 15 upcoming club dates listed on soundcheck as of Fri, 18 Sept 2026, next at Good Room, New York City on Fri, 18 Sept 2026.
 
-Eli Escobar is a house and electro artist tracked on soundcheck, with 549 sets logged across Barcelona, Berlin, Boston and Chicago and 18 more. Often billed alongside DJ Moma, Andi and The Carry Nation. Next up: Gabriela, Newyorkcity on Thu 17 Sept.
+Eli Escobar is a house and electro artist tracked on soundcheck, with 550 sets logged across Barcelona, Berlin, Boston and Chicago and 18 more. Often billed alongside DJ Moma, Andi and The Carry Nation. Next up: Good Room, Newyorkcity on Fri 18 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Thu, 17 Sept 2026 | Gabriela | New York City |
 | Fri, 18 Sept 2026 | Good Room | New York City |
 | Sat, 19 Sept 2026 | Floyd | Miami |
 | Thu, 24 Sept 2026 | Gabriela | New York City |
@@ -20,9 +19,11 @@ Eli Escobar is a house and electro artist tracked on soundcheck, with 549 sets l
 | Fri, 23 Oct 2026 | Tigres de la Noche | Washington DC |
 | Sat, 24 Oct 2026 | BASEMENT | New York City |
 | Fri, 30 Oct 2026 | Factory Town | Miami |
+| Fri, 30 Oct 2026 | Industry City | New York City |
 
 ## Recently played
 
+- Gabriela, New York City — Thu, 17 Sept 2026
 - Le Bain, New York City — Wed, 16 Sept 2026
 - Gabriela, New York City — Thu, 10 Sept 2026
 - public records, New York City — Mon, 7 Sept 2026
@@ -30,10 +31,9 @@ Eli Escobar is a house and electro artist tracked on soundcheck, with 549 sets l
 - House of Yes, New York City — Fri, 4 Sept 2026
 - Gabriela, New York City — Thu, 3 Sept 2026
 - Jolene Downtown Miami, Miami — Sat, 29 Aug 2026
-- Signal, New York City — Fri, 28 Aug 2026
 
 ## Shares bills with
 
 DJ Moma, Andi, The Carry Nation
 
-*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/eliescobar/)*
+*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/eliescobar/)*

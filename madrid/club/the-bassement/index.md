@@ -1,14 +1,13 @@
 # The Bassement
 
-The Bassement is a music venue in Madrid with 12 upcoming nights listed on soundcheck as of Thu, 17 Sept 2026; the next is "Laster Club presents Yanamaste [Extended Set], Laia & Shadow Hrym" on Thu, 17 Sept 2026.
+The Bassement is a music venue in Madrid with 11 upcoming nights listed on soundcheck as of Fri, 18 Sept 2026; the next is "Laster presents Ben Sims & Oscar Mulero" on Fri, 18 Sept 2026.
 
-The Bassement is a music venue in Madrid listed on soundcheck. 12 upcoming nights, with line-ups including Ben Sims, DJ AMAZING, DVS1 and DXPE (ES) and 2 more. Browse upcoming dates, start times and who's playing. C. de Galileo, 2628015 Madrid.
+The Bassement is a music venue in Madrid listed on soundcheck. 11 upcoming nights, with line-ups including Ben Sims, DJ AMAZING, DVS1 and DXPE (ES) and 2 more. Browse upcoming dates, start times and who's playing. C. de Galileo, 2628015 Madrid.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Thu, 17 Sept 2026 | Laster Club presents Yanamaste [Extended Set], Laia & Shadow Hrym | Laia, Shadow Hrym (ES), Yanamaste |
 | Fri, 18 Sept 2026 | Laster presents Ben Sims & Oscar Mulero | Ben Sims, Oscar Mulero |
 | Sat, 19 Sept 2026 | BASSMNT CLUB presents SVEN VÄTH - V ANNIVERSARY I | Sven Vath |
 | Thu, 24 Sept 2026 | Sintetic Club: The Opening | @n3opapi, Legiøn, Sora Éke |
@@ -18,9 +17,10 @@ The Bassement is a music venue in Madrid listed on soundcheck. 12 upcoming night
 | Sat, 3 Oct 2026 | Hop on The Top MADRID - Hip Hop / R&B / Funk / Soul - The Bassement Club | DJ AMAZING |
 | Fri, 9 Oct 2026 | Laster Club presents INTERNATIONAL RESIDENTS NIGHT with The Lady Machine & Setaoc Mass | Setaoc Mass, The Lady Machine |
 | Fri, 30 Oct 2026 | Laster Club presents FRIDAY SPECIAL HALLOWEEN WEEKENDER x NON SERIES SHOWCASE | Feral, Nastia Reigel, Psyk, Wata Igarashi |
+| Sun, 1 Nov 2026 | Laster Club presents KANTINA SPECIAL HALLOWEEN WEEKENDER | JakoJako, Kameliia, Roll Dann, Rødhåd |
 
 ## Address
 
 C. de Galileo, 2628015 Madrid, Madrid
 
-*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/the-bassement/)*
+*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/the-bassement/)*

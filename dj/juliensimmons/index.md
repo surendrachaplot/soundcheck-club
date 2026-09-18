@@ -1,14 +1,15 @@
 # Julien Simmons
 
-Julien Simmons is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Thu, 17 Sept 2026, next at Oliva, Amsterdam on Thu, 22 Oct 2026.
+Julien Simmons is a House and Minimal artist with 2 upcoming club dates listed on soundcheck as of Fri, 18 Sept 2026, next at Oliva, Amsterdam on Thu, 22 Oct 2026.
 
-Julien Simmons is a house and minimal artist tracked on soundcheck, with 89 sets logged across Amsterdam and Rotterdam. Often billed alongside Mino Abadier, Michel de Hey and De Sluwe Vos. Next up: Oliva, Amsterdam on Thu 22 Oct.
+Julien Simmons is a house and minimal artist tracked on soundcheck, with 90 sets logged across Amsterdam and Rotterdam. Often billed alongside Mino Abadier, Michel de Hey and De Sluwe Vos. Next up: Oliva, Amsterdam on Thu 22 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Thu, 22 Oct 2026 | Oliva | Amsterdam |
+| Sat, 21 Nov 2026 | Shelter Amsterdam | Amsterdam |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Julien Simmons is a house and minimal artist tracked on soundcheck, with 89 sets
 
 Mino Abadier, Michel de Hey, De Sluwe Vos
 
-*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/juliensimmons/)*
+*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/juliensimmons/)*

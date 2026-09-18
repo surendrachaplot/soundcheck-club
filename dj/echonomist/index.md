@@ -1,6 +1,6 @@
 # Echonomist
 
-Echonomist is a House and Techno artist with 6 upcoming club dates listed on soundcheck as of Thu, 17 Sept 2026, next at House of Yes, New York City on Sat, 19 Sept 2026.
+Echonomist is a House and Techno artist with 6 upcoming club dates listed on soundcheck as of Fri, 18 Sept 2026, next at House of Yes, New York City on Sat, 19 Sept 2026.
 
 Echonomist is a house and techno artist tracked on soundcheck, with 127 sets logged across Amsterdam, Antwerp, Athens and Bangkok and 34 more. Often billed alongside Jenia Tarsol, ARODES and Avangart Tabldot. Next up: House of Yes, Newyorkcity on Sat 19 Sept.
 
@@ -30,4 +30,4 @@ Echonomist is a house and techno artist tracked on soundcheck, with 127 sets log
 
 Jenia Tarsol, ARODES, Avangart Tabldot
 
-*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/echonomist/)*
+*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/echonomist/)*

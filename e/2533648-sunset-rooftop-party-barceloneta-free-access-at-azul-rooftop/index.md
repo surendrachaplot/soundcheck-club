@@ -1,6 +1,6 @@
 # Sunset Rooftop Party - Barceloneta [Free Access] at Azul Rooftop Barceloneta
 
-Sunset Rooftop Party - Barceloneta [Free Access] at Azul Rooftop Barceloneta on Sun 20 Sept, Barcelona. 2 acts on the bill: BERNOUT and Djoan. House. Preview the line-up and save it on soundcheck.
+Sunset Rooftop Party - Barceloneta [Free Access] at Azul Rooftop Barceloneta on Sun 20 Sept, Barcelona. 4 acts on the bill: BERNOUT, Dimarziio, Djoan and PILAR MOLINERO. House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,6 +11,8 @@ Sunset Rooftop Party - Barceloneta [Free Access] at Azul Rooftop Barceloneta on 
 ## Line-up
 
 - BERNOUT
+- Dimarziio
 - Djoan
+- PILAR MOLINERO
 
 *Source: [soundcheck](https://soundcheck.club/e/2533648-sunset-rooftop-party-barceloneta-free-access-at-azul-rooftop/)*

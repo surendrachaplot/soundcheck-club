@@ -1,6 +1,6 @@
 # Eris Drew
 
-Eris Drew is a House and Techno artist with 10 upcoming club dates listed on soundcheck as of Thu, 17 Sept 2026, next at Fort Mifflin, Philadelphia on Fri, 18 Sept 2026.
+Eris Drew is a House and Techno artist with 10 upcoming club dates listed on soundcheck as of Fri, 18 Sept 2026, next at Fort Mifflin, Philadelphia on Fri, 18 Sept 2026.
 
 Eris Drew is a house and techno artist tracked on soundcheck, with 187 sets logged across Amsterdam, Antwerp, Bali and Barcelona and 51 more. Often billed alongside Octo Octa, CCL and Mike Servito. Next up: Fort Mifflin, Philadelphia on Fri 18 Sept.
 
@@ -34,4 +34,4 @@ Eris Drew is a house and techno artist tracked on soundcheck, with 187 sets logg
 
 Octo Octa, CCL, Mike Servito
 
-*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/erisdrew/)*
+*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/erisdrew/)*

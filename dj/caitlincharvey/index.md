@@ -1,6 +1,6 @@
 # caitlin c. harvey
 
-caitlin c. harvey is a Experimental and Ambient artist with 1 upcoming club date listed on soundcheck as of Thu, 17 Sept 2026, next at Andy Arts, Detroit on Fri, 18 Sept 2026.
+caitlin c. harvey is a Experimental and Ambient artist with 1 upcoming club date listed on soundcheck as of Fri, 18 Sept 2026, next at Andy Arts, Detroit on Fri, 18 Sept 2026.
 
 caitlin c. harvey is an experimental and ambient artist tracked on soundcheck, with 11 sets logged across Detroit. Often billed alongside otodojo, Bccording and King Sophia. Next up: Andy Arts, Detroit on Fri 18 Sept.
 
@@ -25,4 +25,4 @@ caitlin c. harvey is an experimental and ambient artist tracked on soundcheck, w
 
 otodojo, Bccording, King Sophia
 
-*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/caitlincharvey/)*
+*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/caitlincharvey/)*

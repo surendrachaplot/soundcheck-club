@@ -1,6 +1,6 @@
 # juandjj
 
-juandjj is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 17 Sept 2026, next at Versalles 64, Mexico City on Sat, 19 Sept 2026.
+juandjj is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 18 Sept 2026, next at Versalles 64, Mexico City on Sat, 19 Sept 2026.
 
 juandjj is a house and techno artist based in Colombia, tracked on soundcheck, with 13 sets logged across Mexicocity. Often billed alongside Alby Esc, Kodemul and NEGRACONDA. Next up: Versalles 64, Mexicocity on Sat 19 Sept.
 
@@ -25,4 +25,4 @@ juandjj is a house and techno artist based in Colombia, tracked on soundcheck, w
 
 Alby Esc, Kodemul, NEGRACONDA
 
-*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/juandjj/)*
+*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/juandjj/)*

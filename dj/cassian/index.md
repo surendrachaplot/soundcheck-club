@@ -1,6 +1,6 @@
 # Cassian
 
-Cassian is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 17 Sept 2026, next at BERHTA, Washington DC on Fri, 25 Sept 2026.
+Cassian is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 18 Sept 2026, next at BERHTA, Washington DC on Fri, 25 Sept 2026.
 
 Cassian is a techno and house artist tracked on soundcheck, with 131 sets logged across Amsterdam, Austin, Barcelona and Berlin and 31 more. Often billed alongside Tale Of Us, Kevin de Vries and Mathame. Next up: BERHTA, Washingtondc on Fri 25 Sept.
 
@@ -26,4 +26,4 @@ Cassian is a techno and house artist tracked on soundcheck, with 131 sets logged
 
 Tale Of Us, Kevin de Vries, Mathame
 
-*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/cassian/)*
+*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/cassian/)*

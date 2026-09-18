@@ -1,14 +1,13 @@
 # KitKatClub
 
-KitKatClub is a music venue in Berlin with 30 upcoming nights listed on soundcheck as of Thu, 17 Sept 2026; the next is "UNITY AT KITKAT CLUB" on Thu, 17 Sept 2026.
+KitKatClub is a music venue in Berlin with 29 upcoming nights listed on soundcheck as of Fri, 18 Sept 2026; the next is "The Mystic Rose meets Liquid Soul & Dr. Motte" on Fri, 18 Sept 2026.
 
-KitKatClub is a music venue in Berlin listed on soundcheck. 30 upcoming nights, with line-ups including Ale Castro, Alejandro Molinari, Alessio Collina and androgienia and 2 more. Browse upcoming dates, start times and who's playing. Köpenicker Strasse 76; Mitte; 10179 Berlin; Germany.
+KitKatClub is a music venue in Berlin listed on soundcheck. 29 upcoming nights, with line-ups including Ale Castro, Alejandro Molinari, Alessio Collina and androgienia and 2 more. Browse upcoming dates, start times and who's playing. Köpenicker Strasse 76; Mitte; 10179 Berlin; Germany.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Thu, 17 Sept 2026 | UNITY AT KITKAT CLUB | DJ Henk |
 | Fri, 18 Sept 2026 | The Mystic Rose meets Liquid Soul & Dr. Motte | BERLIN, Dr. Motte, Liquid Soul |
 | Sun, 20 Sept 2026 | Nachspiel |  |
 | Mon, 21 Sept 2026 | Electric Monday@KitKat Club | Ale Castro, Frankie Flowerz, Yahaira |
@@ -18,9 +17,10 @@ KitKatClub is a music venue in Berlin listed on soundcheck. 30 upcoming nights, 
 | Sun, 27 Sept 2026 | Nachspiel | Chris Veron |
 | Mon, 28 Sept 2026 | Electric Monday@KitKat  | Alejandro Molinari, Frankie Flowerz, Funk D'Void, Pornbugs |
 | Wed, 30 Sept 2026 | SYMBIOTIKKA at KitKat Club Berlin | DJ Jordan, Diana May, Grace Thompson, RHAPSODIE |
+| Fri, 2 Oct 2026 | Four Play |  |
 
 ## Address
 
 Köpenicker Strasse 76; Mitte; 10179 Berlin; Germany, Berlin
 
-*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/kitkatclub/)*
+*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/kitkatclub/)*

@@ -1,6 +1,6 @@
 # otodojo
 
-otodojo is a Techno and Experimental artist with 1 upcoming club date listed on soundcheck as of Thu, 17 Sept 2026, next at Andy Arts, Detroit on Fri, 18 Sept 2026.
+otodojo is a Techno and Experimental artist with 1 upcoming club date listed on soundcheck as of Fri, 18 Sept 2026, next at Andy Arts, Detroit on Fri, 18 Sept 2026.
 
 otodojo is a techno and experimental artist based in United States of America, tracked on soundcheck, with 59 sets logged across Detroit and Newyorkcity. Often billed alongside Cherriel, Tammy Lakkis and Erika. Next up: Andy Arts, Detroit on Fri 18 Sept.
 
@@ -25,4 +25,4 @@ otodojo is a techno and experimental artist based in United States of America, t
 
 Cherriel, Tammy Lakkis, Erika
 
-*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/otodojo/)*
+*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/otodojo/)*

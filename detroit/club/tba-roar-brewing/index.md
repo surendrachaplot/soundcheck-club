@@ -1,6 +1,6 @@
 # TBA - Roar Brewing
 
-TBA - Roar Brewing is a music venue in Detroit with 1 upcoming night listed on soundcheck as of Thu, 17 Sept 2026; the next is "BerettaMusic & Roar Brewing - Pop-up Market" on Sat, 26 Sept 2026.
+TBA - Roar Brewing is a music venue in Detroit with 1 upcoming night listed on soundcheck as of Fri, 18 Sept 2026; the next is "BerettaMusic & Roar Brewing - Pop-up Market" on Sat, 26 Sept 2026.
 
 TBA - Roar Brewing is a music venue in Detroit listed on soundcheck. 1 upcoming night, with line-ups including Dj Ryte Nou, Marcus NF Harris and Ryan Sadorus. Browse upcoming dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ TBA - Roar Brewing is a music venue in Detroit listed on soundcheck. 1 upcoming 
 | --- | --- | --- |
 | Sat, 26 Sept 2026 | BerettaMusic & Roar Brewing - Pop-up Market | Dj Ryte Nou, Marcus NF Harris, Ryan Sadorus |
 
-*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/detroit/club/tba-roar-brewing/)*
+*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/detroit/club/tba-roar-brewing/)*

@@ -1,6 +1,6 @@
 # SORIANO
 
-SORIANO is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 17 Sept 2026, next at Azul Rooftop Barceloneta, Barcelona on Fri, 18 Sept 2026.
+SORIANO is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 18 Sept 2026, next at Azul Rooftop Barceloneta, Barcelona on Fri, 18 Sept 2026.
 
 SORIANO is a house and techno artist based in Spain, tracked on soundcheck, with 19 sets logged across Bangkok, Barcelona, Frankfurt and Mexicocity and 3 more. Often billed alongside Alphanova, Jo Kazan and ALTRAX. Next up: Azul Rooftop Barceloneta, Barcelona on Fri 18 Sept.
 
@@ -26,4 +26,4 @@ SORIANO is a house and techno artist based in Spain, tracked on soundcheck, with
 
 Alphanova, Jo Kazan, ALTRAX
 
-*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/soriano/)*
+*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/soriano/)*

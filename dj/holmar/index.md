@@ -1,6 +1,6 @@
 # Holmar
 
-Holmar is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Thu, 17 Sept 2026, next at The Sultan Room, New York City on Sun, 27 Sept 2026.
+Holmar is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Fri, 18 Sept 2026, next at The Sultan Room, New York City on Sun, 27 Sept 2026.
 
 Holmar is a house and deep house artist based in Iceland, tracked on soundcheck, with 29 sets logged across Berlin, Lisbon, Losangeles and Miami and 5 more. Often billed alongside Eddy Ali, Shane One and Dax Lee. Next up: The Sultan Room, Newyorkcity on Sun 27 Sept.
 
@@ -25,4 +25,4 @@ Holmar is a house and deep house artist based in Iceland, tracked on soundcheck,
 
 Eddy Ali, Shane One, Dax Lee
 
-*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/holmar/)*
+*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/holmar/)*

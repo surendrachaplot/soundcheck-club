@@ -1,8 +1,8 @@
 # Radio Slave
 
-Radio Slave is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Thu, 17 Sept 2026, next at Bikini Club, Barcelona on Sat, 19 Sept 2026.
+Radio Slave is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Fri, 18 Sept 2026, next at Bikini Club, Barcelona on Sat, 19 Sept 2026.
 
-Radio Slave is a house and techno artist tracked on soundcheck, with 117 sets logged across Amsterdam, Antwerp, Athens and Bali and 42 more. Often billed alongside Tal Fussman, Anja Schneider and DJ Minx. Next up: Bikini Club, Barcelona on Sat 19 Sept.
+Radio Slave is a house and techno artist tracked on soundcheck, with 118 sets logged across Amsterdam, Antwerp, Athens and Bali and 42 more. Often billed alongside Tal Fussman, Anja Schneider and Khadija (DE). Next up: Bikini Club, Barcelona on Sat 19 Sept.
 
 ## Upcoming shows
 
@@ -12,6 +12,7 @@ Radio Slave is a house and techno artist tracked on soundcheck, with 117 sets lo
 | Sat, 26 Sept 2026 | Frankhan Selectist | Istanbul |
 | Sat, 3 Oct 2026 | Studio Club Malaga | Malaga |
 | Sat, 10 Oct 2026 | Omeara | London |
+| Thu, 22 Oct 2026 | Basement (Amsterdam) | Amsterdam |
 
 ## Recently played
 
@@ -26,6 +27,6 @@ Radio Slave is a house and techno artist tracked on soundcheck, with 117 sets lo
 
 ## Shares bills with
 
-Tal Fussman, Anja Schneider, DJ Minx
+Tal Fussman, Anja Schneider, Khadija (DE)
 
-*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/radioslave/)*
+*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/radioslave/)*

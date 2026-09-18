@@ -1,6 +1,6 @@
 # Rafael
 
-Rafael is a House and Tech House artist with 3 upcoming club dates listed on soundcheck as of Thu, 17 Sept 2026, next at TBA, Lisbon on Fri, 18 Sept 2026.
+Rafael is a House and Tech House artist with 3 upcoming club dates listed on soundcheck as of Fri, 18 Sept 2026, next at TBA, Lisbon on Fri, 18 Sept 2026.
 
 Rafael is a house and tech house artist tracked on soundcheck, with 36 sets logged across Austin, Berlin, Chicago and Dublin and 11 more. Often billed alongside Flor Coto, OMRI. and Szew. Next up: TBA, Lisbon on Fri 18 Sept.
 
@@ -27,4 +27,4 @@ Rafael is a house and tech house artist tracked on soundcheck, with 36 sets logg
 
 Flor Coto, OMRI., Szew
 
-*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/rafael/)*
+*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/rafael/)*

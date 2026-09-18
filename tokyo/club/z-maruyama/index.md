@@ -1,14 +1,13 @@
 # Z Maruyama
 
-Z Maruyama is a music venue in Tokyo with 12 upcoming nights listed on soundcheck as of Thu, 17 Sept 2026; the next is "Flat 401: The Neighbors (TECHNO)" on Thu, 17 Sept 2026.
+Z Maruyama is a music venue in Tokyo with 11 upcoming nights listed on soundcheck as of Fri, 18 Sept 2026; the next is "NERO PRESENTS Paolo Ferrara (HARD TECHNO/TECHNO)" on Fri, 18 Sept 2026.
 
-Z Maruyama is a music venue in Tokyo listed on soundcheck. 12 upcoming nights, with line-ups including 80KIDZ, Paolo Ferrara, ACHIRI and AHREUM and 2 more. Browse upcoming dates, start times and who's playing. 1F 2-4 Maruyamacho Shibuya-ku Tokyo 150-0044.
+Z Maruyama is a music venue in Tokyo listed on soundcheck. 11 upcoming nights, with line-ups including 80KIDZ, Paolo Ferrara, AHREUM and ALEXANDER M and 2 more. Browse upcoming dates, start times and who's playing. 1F 2-4 Maruyamacho Shibuya-ku Tokyo 150-0044.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Thu, 17 Sept 2026 | Flat 401: The Neighbors (TECHNO) | ACHIRI, MYUMA |
 | Fri, 18 Sept 2026 | NERO PRESENTS Paolo Ferrara (HARD TECHNO/TECHNO) | CHIKA, Calavera, DALJAE, KAITO (5), Paolo Ferrara |
 | Sat, 19 Sept 2026 | AMN | Genick, MASAYASU |
 | Sun, 20 Sept 2026 | WHOLE (TECHNO) | 80KIDZ, Shinichi Osawa, Terax |
@@ -18,9 +17,10 @@ Z Maruyama is a music venue in Tokyo listed on soundcheck. 12 upcoming nights, w
 | Sat, 26 Sept 2026 | Quiddity | AHREUM, Kris Fuji, Miel |
 | Fri, 2 Oct 2026 | PAXPROJECT | ALEXANDER M, Sunga |
 | Sat, 10 Oct 2026 | SHEAR (TECHNO) | Kaori Watt, Nakadia, SENNY D, Shogo Ito |
+| Thu, 29 Oct 2026 | FILAMENT (HOUSE/DEEP HOUSE/ELECTRONIC) | ISSA, RIHO ASAEDA, judgeman |
 
 ## Address
 
 1F 2-4 Maruyamacho Shibuya-ku Tokyo 150-0044, Tokyo
 
-*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/z-maruyama/)*
+*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/z-maruyama/)*

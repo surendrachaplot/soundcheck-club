@@ -1,14 +1,13 @@
 # OHM
 
-OHM is a music venue in Berlin with 24 upcoming nights listed on soundcheck as of Thu, 17 Sept 2026; the next is "Astral Industries" on Thu, 17 Sept 2026.
+OHM is a music venue in Berlin with 23 upcoming nights listed on soundcheck as of Fri, 18 Sept 2026; the next is "MERGER" on Fri, 18 Sept 2026.
 
-OHM is a music venue in Berlin listed on soundcheck. 24 upcoming nights, with line-ups including Aaronovsky, aeriform, Afidissima and Alexy and 2 more. Browse upcoming dates, start times and who's playing. Köpenicker Str. 70, 10179 Berlin, Germany.
+OHM is a music venue in Berlin listed on soundcheck. 23 upcoming nights, with line-ups including Aaronovsky, aeriform, Afidissima and Alexy and 2 more. Browse upcoming dates, start times and who's playing. Köpenicker Str. 70, 10179 Berlin, Germany.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Thu, 17 Sept 2026 | Astral Industries | Ario, F-on, Jessie Granqvist, moss (IR) |
 | Fri, 18 Sept 2026 | MERGER | Afidissima, Carl Luis, DJ Plead, Giouann |
 | Sat, 19 Sept 2026 | PuMp Berlin Daytime hosted by Anja Schneider with Skatman | Anja Schneider, Skatman |
 | Sat, 19 Sept 2026 | Life Classics with Antal | Antal, Sanctuary |
@@ -18,9 +17,10 @@ OHM is a music venue in Berlin listed on soundcheck. 24 upcoming nights, with li
 | Thu, 1 Oct 2026 | ARA x OHM |  |
 | Fri, 2 Oct 2026 | Body Language pres. Body Talk | Manolo. (DE), Stella Zekri, Tam Tam |
 | Sat, 3 Oct 2026 | PuMp Berlin daytime hosted by Anja Schneider with Karotte | Anja Schneider, Karotte |
+| Sat, 3 Oct 2026 | BRAINDANCE | Makam, TAFKAMP |
 
 ## Address
 
 Köpenicker Str. 70, 10179 Berlin, Germany, Berlin
 
-*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/ohm/)*
+*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/ohm/)*

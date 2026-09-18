@@ -1,14 +1,13 @@
 # Cova Santa
 
-Cova Santa is a music venue in Ibiza with 10 upcoming nights listed on soundcheck as of Thu, 17 Sept 2026; the next is "MUTE" on Thu, 17 Sept 2026.
+Cova Santa is a music venue in Ibiza with 9 upcoming nights listed on soundcheck as of Fri, 18 Sept 2026; the next is "WooMooN" on Fri, 18 Sept 2026.
 
-Cova Santa is a music venue in Ibiza listed on soundcheck. 10 upcoming nights, with line-ups including Kepler, Abdon, Aca [RO] and Archie Hamilton and 2 more. Browse upcoming dates, start times and who's playing. Ctra. San Jose, km 7, 07817 Ibiza, Spain.
+Cova Santa is a music venue in Ibiza listed on soundcheck. 9 upcoming nights, with line-ups including Kepler, Abdon, Aca [RO] and Archie Hamilton and 2 more. Browse upcoming dates, start times and who's playing. Ctra. San Jose, km 7, 07817 Ibiza, Spain.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Thu, 17 Sept 2026 | MUTE | Bob Tosh, CAAL, Don Bellanton, ETEREA, Enzo Leep, Facundo Mohrr, Ion Pananides, Mar-T, Massano, Tania Vulcano |
 | Fri, 18 Sept 2026 | WooMooN | Frida, Landikhan, Rampue |
 | Sat, 19 Sept 2026 | Cova Santa presents Joseph Capriati | Joseph Capriati, Murphy's Law, Simon Kidzoo, Toman |
 | Tue, 22 Sept 2026 | PIV IBIZA TUESDAYS - September 22 | Ella Knight, Jansons, Job de Jong, Paisley Jensen, Prunk, Rich NXT |
@@ -23,4 +22,4 @@ Cova Santa is a music venue in Ibiza listed on soundcheck. 10 upcoming nights, w
 
 Ctra. San Jose, km 7, 07817 Ibiza, Spain, Ibiza
 
-*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/ibiza/club/cova-santa/)*
+*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/ibiza/club/cova-santa/)*

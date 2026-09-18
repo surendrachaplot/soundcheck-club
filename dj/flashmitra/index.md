@@ -1,6 +1,6 @@
 # Flash Mitra
 
-Flash Mitra is a Acid and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 17 Sept 2026, next at TBA - Secret Location, London on Sat, 19 Sept 2026.
+Flash Mitra is a Acid and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 18 Sept 2026, next at TBA - Secret Location, London on Sat, 19 Sept 2026.
 
 Flash Mitra is an acid and techno artist tracked on soundcheck, with 44 sets logged across Edinburgh, Glasgow, Leeds and London and 2 more. Often billed alongside Ellie Anderson, Torin Grady and Defunked. Next up: TBA - Secret Location, London on Sat 19 Sept.
 
@@ -25,4 +25,4 @@ Flash Mitra is an acid and techno artist tracked on soundcheck, with 44 sets log
 
 Ellie Anderson, Torin Grady, Defunked
 
-*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/flashmitra/)*
+*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/flashmitra/)*

@@ -1,8 +1,8 @@
 # Robbie Doherty
 
-Robbie Doherty is a House and Tech House artist with 5 upcoming club dates listed on soundcheck as of Thu, 17 Sept 2026, next at Floyd, Miami on Sun, 20 Sept 2026.
+Robbie Doherty is a House and Tech House artist with 6 upcoming club dates listed on soundcheck as of Fri, 18 Sept 2026, next at Floyd, Miami on Sun, 20 Sept 2026.
 
-Robbie Doherty is a house and tech house artist tracked on soundcheck, with 157 sets logged across Aberdeen, Amsterdam, Antwerp and Auckland and 35 more. Often billed alongside Prunk, Dennis Quin and Jamback. Next up: Floyd, Miami on Sun 20 Sept.
+Robbie Doherty is a house and tech house artist tracked on soundcheck, with 158 sets logged across Aberdeen, Amsterdam, Antwerp and Auckland and 35 more. Often billed alongside Prunk, Dennis Quin and Jamback. Next up: Floyd, Miami on Sun 20 Sept.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Robbie Doherty is a house and tech house artist tracked on soundcheck, with 157 
 | --- | --- | --- |
 | Sun, 20 Sept 2026 | Floyd | Miami |
 | Fri, 25 Sept 2026 | SWG3 | Glasgow |
+| Fri, 23 Oct 2026 | Levenslang Amsterdam | Amsterdam |
 | Sat, 24 Oct 2026 | Pllek | Amsterdam |
 | Fri, 6 Nov 2026 | Depot Mayfield | Manchester |
 | Sat, 7 Nov 2026 | Mint XL | Leeds |
@@ -29,4 +30,4 @@ Robbie Doherty is a house and tech house artist tracked on soundcheck, with 157 
 
 Prunk, Dennis Quin, Jamback
 
-*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/robbiedoherty/)*
+*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/robbiedoherty/)*

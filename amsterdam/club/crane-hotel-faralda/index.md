@@ -1,8 +1,8 @@
 # Crane Hotel Faralda
 
-Crane Hotel Faralda is a music venue in Amsterdam with 8 upcoming nights listed on soundcheck as of Thu, 17 Sept 2026; the next is "Do Not Sit On ADE" on Wed, 21 Oct 2026.
+Crane Hotel Faralda is a music venue in Amsterdam with 9 upcoming nights listed on soundcheck as of Fri, 18 Sept 2026; the next is "Do Not Sit On ADE" on Wed, 21 Oct 2026.
 
-Crane Hotel Faralda is a music venue in Amsterdam listed on soundcheck. 8 upcoming nights, with line-ups including Alex Micca, ADRIANNA, Alex Stein and Alice DiMar and 2 more. Browse upcoming dates, start times and who's playing. NDSM-Plein 78, 1033 WB Amsterdam, Netherlands.
+Crane Hotel Faralda is a music venue in Amsterdam listed on soundcheck. 9 upcoming nights, with line-ups including Alex Micca, ADRIANNA, Alex Stein and Alice DiMar and 2 more. Browse upcoming dates, start times and who's playing. NDSM-Plein 78, 1033 WB Amsterdam, Netherlands.
 
 ## What's on
 
@@ -12,13 +12,14 @@ Crane Hotel Faralda is a music venue in Amsterdam listed on soundcheck. 8 upcomi
 | Thu, 22 Oct 2026 | TNWM: Crane Sessions - Ivory, Tim Engelhardt, Tommy Farrow (ADE 2026) | Ivory, Tim Engelhardt, Tommy Farrow |
 | Thu, 22 Oct 2026 | Insomniac Records x ADE 2026 |  |
 | Fri, 23 Oct 2026 | TMPL MUSIC at The Crane: ADE 2026 | ADRIANNA, Alex Micca, Alex Stein, Christian Smith, SOLE LLORENTE, T78, Wehbba, YellowHeads |
+| Fri, 23 Oct 2026 | MINDGAME x MULTINOTES present: Birds of Mind & Lehar at The Crane - ADE 2026 | Birds of Mind, Lehar |
 | Sat, 24 Oct 2026 | friends. THE VIEW - ADE - AMSTERDAM | Alice DiMar, Artur Bredo, Human Rias, Super Flu, ZARE, Zamna Soundsystem, diskoheinz |
 | Sat, 24 Oct 2026 | THE CRANE by Unreleased Recods | ARODES |
 | Sun, 25 Oct 2026 | SLAPPED X CraneSessions • ADE 2026 |  |
-| Sun, 25 Oct 2026 | Anywherelse presents: Bedouin at Faralda Crane — ADE 2026 | Baron, Bedouin, Birds of Mind, Collé, Dorian Craft, Rockin Moroccin |
+| Sun, 25 Oct 2026 | Anywherelse presents: Bedouin at Faralda Crane — ADE 2026 [ SOLD OUT ] | Baron, Bedouin, Birds of Mind, Collé, Dorian Craft, Rockin Moroccin |
 
 ## Address
 
 NDSM-Plein 78, 1033 WB Amsterdam, Netherlands, Amsterdam
 
-*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/crane-hotel-faralda/)*
+*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/crane-hotel-faralda/)*

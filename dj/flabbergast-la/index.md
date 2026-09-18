@@ -1,14 +1,15 @@
 # Flabbergast (LA)
 
-Flabbergast (LA) is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 17 Sept 2026, next at District 7, Los Angeles on Fri, 18 Sept 2026.
+Flabbergast (LA) is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 18 Sept 2026, next at District 7, Los Angeles on Fri, 18 Sept 2026.
 
-Flabbergast (LA) is a house and techno artist based in United States of America, tracked on soundcheck, with 35 sets logged across Losangeles and Newyorkcity. Often billed alongside BUCK/OFF, Naté and Soul Purpose (LA). Next up: District 7, Losangeles on Fri 18 Sept.
+Flabbergast (LA) is a house and techno artist based in United States of America, tracked on soundcheck, with 36 sets logged across Losangeles and Newyorkcity. Often billed alongside BUCK/OFF, Naté and Soul Purpose (LA). Next up: District 7, Losangeles on Fri 18 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 18 Sept 2026 | District 7 | Los Angeles |
+| Sat, 3 Oct 2026 | TBA - DTLA | Los Angeles |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Flabbergast (LA) is a house and techno artist based in United States of America,
 
 BUCK/OFF, Naté, Soul Purpose (LA)
 
-*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/flabbergast-la/)*
+*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/flabbergast-la/)*

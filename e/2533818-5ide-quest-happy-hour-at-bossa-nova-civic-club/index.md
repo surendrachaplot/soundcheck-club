@@ -1,6 +1,6 @@
 # .5ide Quest Happy Hour at Bossa Nova Civic Club
 
-.5ide Quest Happy Hour at Bossa Nova Civic Club on Wed 23 Sept, Newyorkcity. 2 acts on the bill: Constructible and Perrin Grace. Techno and Ambient. Preview the line-up and save it on soundcheck.
+.5ide Quest Happy Hour at Bossa Nova Civic Club on Wed 23 Sept, Newyorkcity. 3 acts on the bill: Constructible, Peace Ramen and Perrin Grace. Techno and Ambient. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,6 +11,7 @@
 ## Line-up
 
 - Constructible
+- Peace Ramen
 - Perrin Grace
 
 *Source: [soundcheck](https://soundcheck.club/e/2533818-5ide-quest-happy-hour-at-bossa-nova-civic-club/)*

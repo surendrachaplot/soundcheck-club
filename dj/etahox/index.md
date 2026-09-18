@@ -1,6 +1,6 @@
 # Eta Hox
 
-Eta Hox is a Techno and Acid artist with 3 upcoming club dates listed on soundcheck as of Thu, 17 Sept 2026, next at Noce KRK, Krakow on Fri, 18 Sept 2026.
+Eta Hox is a Techno and Acid artist with 3 upcoming club dates listed on soundcheck as of Fri, 18 Sept 2026, next at Noce KRK, Krakow on Fri, 18 Sept 2026.
 
 Eta Hox is a techno and acid artist based in Poland, tracked on soundcheck, with 29 sets logged across Krakow and Warsaw. Often billed alongside Aetha, Gabi Bury and Hellix. Next up: Noce KRK, Krakow on Fri 18 Sept.
 
@@ -27,4 +27,4 @@ Eta Hox is a techno and acid artist based in Poland, tracked on soundcheck, with
 
 Aetha, Gabi Bury, Hellix
 
-*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/etahox/)*
+*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/etahox/)*

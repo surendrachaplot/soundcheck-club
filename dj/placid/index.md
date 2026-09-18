@@ -1,6 +1,6 @@
 # Placid
 
-Placid is a Acid and House artist with 1 upcoming club date listed on soundcheck as of Thu, 17 Sept 2026, next at The Pipe & Slippers, Bristol on Fri, 9 Oct 2026.
+Placid is a Acid and House artist with 1 upcoming club date listed on soundcheck as of Fri, 18 Sept 2026, next at The Pipe & Slippers, Bristol on Fri, 9 Oct 2026.
 
 Placid is an acid and house artist based in United Kingdom, tracked on soundcheck, with 41 sets logged across Bristol, Glasgow, Leeds and London. Often billed alongside Owain K, Zobol and Posthuman. Next up: The Pipe & Slippers, Bristol on Fri 9 Oct.
 
@@ -25,4 +25,4 @@ Placid is an acid and house artist based in United Kingdom, tracked on soundchec
 
 Owain K, Zobol, Posthuman
 
-*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/placid/)*
+*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/placid/)*

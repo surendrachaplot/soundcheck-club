@@ -1,14 +1,15 @@
 # edapollo
 
-edapollo is a Club and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 17 Sept 2026, next at 1015 Folsom, San Francisco/Oakland on Fri, 18 Sept 2026.
+edapollo is a House and Club artist with 3 upcoming club dates listed on soundcheck as of Fri, 18 Sept 2026, next at 1015 Folsom, San Francisco/Oakland on Fri, 18 Sept 2026.
 
-edapollo is a club and house artist tracked on soundcheck, with 3 sets logged across London and Sanfrancisco. Often billed alongside Aaron F, Amatric and DJ PlayStation. Next up: 1015 Folsom, Sanfrancisco on Fri 18 Sept.
+edapollo is a house and club artist tracked on soundcheck, with 4 sets logged across Amsterdam, London and Sanfrancisco. Often billed alongside Aaron F, Amatric and BAILE. Next up: 1015 Folsom, Sanfrancisco on Fri 18 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 18 Sept 2026 | 1015 Folsom | San Francisco/Oakland |
+| Thu, 22 Oct 2026 | Volta | Amsterdam |
 | Fri, 6 Nov 2026 | The Jazz Cafe | London |
 
 ## Recently played
@@ -17,6 +18,6 @@ edapollo is a club and house artist tracked on soundcheck, with 3 sets logged ac
 
 ## Shares bills with
 
-Aaron F, Amatric, DJ PlayStation
+Aaron F, Amatric, BAILE
 
-*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/edapollo/)*
+*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/edapollo/)*

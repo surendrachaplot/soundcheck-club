@@ -1,6 +1,6 @@
 # K Motionz
 
-K Motionz is a Drum & Bass and Bass artist with 8 upcoming club dates listed on soundcheck as of Thu, 17 Sept 2026, next at The Red Room, Vancouver on Sat, 19 Sept 2026.
+K Motionz is a Drum & Bass and Bass artist with 8 upcoming club dates listed on soundcheck as of Fri, 18 Sept 2026, next at The Red Room, Vancouver on Sat, 19 Sept 2026.
 
 K Motionz is a drum & bass and bass artist tracked on soundcheck, with 86 sets logged across Amsterdam, Antwerp, Auckland and Birmingham and 27 more. Often billed alongside Hybrid Minds, IC3 and Mozey. Next up: The Red Room, Vancouver on Sat 19 Sept.
 
@@ -32,4 +32,4 @@ K Motionz is a drum & bass and bass artist tracked on soundcheck, with 86 sets l
 
 Hybrid Minds, IC3, Mozey
 
-*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kmotionz/)*
+*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kmotionz/)*

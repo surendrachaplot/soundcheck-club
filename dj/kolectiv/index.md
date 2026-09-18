@@ -1,6 +1,6 @@
 # Kolectiv
 
-Kolectiv is a Drum & Bass and Jungle artist with 1 upcoming club date listed on soundcheck as of Thu, 17 Sept 2026, next at Tekniikan Museo, Helsinki on Fri, 18 Sept 2026.
+Kolectiv is a Drum & Bass and Jungle artist with 1 upcoming club date listed on soundcheck as of Fri, 18 Sept 2026, next at Tekniikan Museo, Helsinki on Fri, 18 Sept 2026.
 
 Kolectiv is a drum & bass and jungle artist tracked on soundcheck, with 17 sets logged across Brighton, Helsinki, London and Zurich. Often billed alongside OB1, Codebreaker and Zero T. Next up: Tekniikan Museo, Helsinki on Fri 18 Sept.
 
@@ -25,4 +25,4 @@ Kolectiv is a drum & bass and jungle artist tracked on soundcheck, with 17 sets 
 
 OB1, Codebreaker, Zero T
 
-*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kolectiv/)*
+*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kolectiv/)*

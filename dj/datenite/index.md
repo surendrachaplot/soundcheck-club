@@ -1,6 +1,6 @@
 # DateNite
 
-DateNite is a Techno and Drum & Bass artist with 1 upcoming club date listed on soundcheck as of Thu, 17 Sept 2026, next at TBA - SECRET LOCATION RSVP ONLY, Los Angeles on Sat, 19 Sept 2026.
+DateNite is a Techno and Drum & Bass artist with 1 upcoming club date listed on soundcheck as of Fri, 18 Sept 2026, next at TBA - SECRET LOCATION RSVP ONLY, Los Angeles on Sat, 19 Sept 2026.
 
 DateNite is a techno and drum & bass artist based in United States of America, tracked on soundcheck, with 19 sets logged across Denver and Losangeles. Often billed alongside Motorist, Terabyte and ALX-106. Next up: TBA - SECRET LOCATION RSVP ONLY, Losangeles on Sat 19 Sept.
 
@@ -25,4 +25,4 @@ DateNite is a techno and drum & bass artist based in United States of America, t
 
 Motorist, Terabyte, ALX-106
 
-*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/datenite/)*
+*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/datenite/)*

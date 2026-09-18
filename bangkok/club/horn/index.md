@@ -1,14 +1,13 @@
 # Horn
 
-Horn is a music venue in Bangkok with 10 upcoming nights listed on soundcheck as of Thu, 17 Sept 2026; the next is "REBELS with kaïa / elila.b / Wisarut" on Thu, 17 Sept 2026.
+Horn is a music venue in Bangkok with 9 upcoming nights listed on soundcheck as of Fri, 18 Sept 2026; the next is "IsBurning x Horn (Bangkok, Thailand)" on Fri, 18 Sept 2026.
 
-Horn is a music venue in Bangkok listed on soundcheck. 10 upcoming nights, with line-ups including 5.5MM, Aöcram, Cardi L and Cristian Marras and 2 more. Browse upcoming dates, start times and who's playing. 4th floor, 71 -73 Silom 4 Alley, Suriya Wong, Bang Rak, Bangkok 10500, Thailand.
+Horn is a music venue in Bangkok listed on soundcheck. 9 upcoming nights, with line-ups including 5.5MM, Aöcram, Cardi L and Cristian Marras and 2 more. Browse upcoming dates, start times and who's playing. 4th floor, 71 -73 Silom 4 Alley, Suriya Wong, Bang Rak, Bangkok 10500, Thailand.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Thu, 17 Sept 2026 | REBELS with kaïa / elila.b / Wisarut | Wisarut |
 | Fri, 18 Sept 2026 | IsBurning x Horn (Bangkok, Thailand) |  |
 | Sat, 19 Sept 2026 | BUNKER: DANI8L / FAROH / OLLE | DANI8L, FAROH, OLLE (TH) |
 | Fri, 25 Sept 2026 | Horn presents Yonti with 5.5MM & Josh Bobzin | 5.5MM, Josh Bobzin, Yonti |
@@ -23,4 +22,4 @@ Horn is a music venue in Bangkok listed on soundcheck. 10 upcoming nights, with 
 
 4th floor, 71 -73 Silom 4 Alley, Suriya Wong, Bang Rak, Bangkok 10500, Thailand, Bangkok
 
-*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/bangkok/club/horn/)*
+*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/bangkok/club/horn/)*

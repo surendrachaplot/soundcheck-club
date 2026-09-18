@@ -1,6 +1,6 @@
 # Super Club
 
-Super Club is a music venue in Milan with 2 upcoming nights listed on soundcheck as of Thu, 17 Sept 2026; the next is "Super Club Opening - The Quest" on Sat, 19 Sept 2026.
+Super Club is a music venue in Milan with 2 upcoming nights listed on soundcheck as of Fri, 18 Sept 2026; the next is "Super Club Opening - The Quest" on Sat, 19 Sept 2026.
 
 Super Club is a music venue in Milan listed on soundcheck. 2 upcoming nights, with line-ups including BL3CKSMITH, Daniel L, ØMMI and Sago. Browse upcoming dates, start times and who's playing. Via Tortona 27, 20144, Milano.
 
@@ -15,4 +15,4 @@ Super Club is a music venue in Milan listed on soundcheck. 2 upcoming nights, wi
 
 Via Tortona 27, 20144, Milano, Milan
 
-*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/milan/club/super-club/)*
+*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/milan/club/super-club/)*

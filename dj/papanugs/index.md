@@ -1,6 +1,6 @@
 # Papa Nugs
 
-Papa Nugs is a House and Techno artist with 12 upcoming club dates listed on soundcheck as of Thu, 17 Sept 2026, next at Lost Horizon, Bristol on Fri, 18 Sept 2026.
+Papa Nugs is a House and Techno artist with 12 upcoming club dates listed on soundcheck as of Fri, 18 Sept 2026, next at Lost Horizon, Bristol on Fri, 18 Sept 2026.
 
 Papa Nugs is a house and techno artist tracked on soundcheck, with 164 sets logged across Aberdeen, Amsterdam, Auckland and Barcelona and 24 more. Often billed alongside A For Alpha, KT and DJ ADHD. Next up: Lost Horizon, Bristol on Fri 18 Sept.
 
@@ -36,4 +36,4 @@ Papa Nugs is a house and techno artist tracked on soundcheck, with 164 sets logg
 
 A For Alpha, KT, DJ ADHD
 
-*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/papanugs/)*
+*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/papanugs/)*

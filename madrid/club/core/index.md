@@ -1,6 +1,6 @@
 # Core
 
-Core is a music venue in Madrid with 4 upcoming nights listed on soundcheck as of Thu, 17 Sept 2026; the next is "FELINA con João Lágrima De Ouro, Canina, BZZHOUND y Linapary" on Fri, 18 Sept 2026.
+Core is a music venue in Madrid with 4 upcoming nights listed on soundcheck as of Fri, 18 Sept 2026; the next is "FELINA con João Lágrima De Ouro, Canina, BZZHOUND y Linapary" on Fri, 18 Sept 2026.
 
 Core is a music venue in Madrid listed on soundcheck. 4 upcoming nights, with line-ups including Albal, Aury, BZZHOUND and Canina and 2 more. Browse upcoming dates, start times and who's playing. Madrid, 28013, Calle de Tetuán, 27, España.
 
@@ -17,4 +17,4 @@ Core is a music venue in Madrid listed on soundcheck. 4 upcoming nights, with li
 
 Madrid, 28013, Calle de Tetuán, 27, España, Madrid
 
-*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/core/)*
+*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/core/)*

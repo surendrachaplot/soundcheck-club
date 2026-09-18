@@ -1,6 +1,6 @@
 # PIØTR
 
-PIØTR is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 17 Sept 2026, next at Bazzart, Warsaw on Sat, 19 Sept 2026.
+PIØTR is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 18 Sept 2026, next at Bazzart, Warsaw on Sat, 19 Sept 2026.
 
 PIØTR is a techno and house artist based in Poland, tracked on soundcheck, with 7 sets logged across Warsaw. Often billed alongside TAMIRISS, BBN (1) and BarTech. Next up: Bazzart, Warsaw on Sat 19 Sept.
 
@@ -23,4 +23,4 @@ PIØTR is a techno and house artist based in Poland, tracked on soundcheck, with
 
 TAMIRISS, BBN (1), BarTech
 
-*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/piotr-pl/)*
+*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/piotr-pl/)*

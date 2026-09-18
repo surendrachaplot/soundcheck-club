@@ -1,6 +1,6 @@
 # Bjørn
 
-Bjørn is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 17 Sept 2026, next at Club Frau Holle, Hamburg on Fri, 18 Sept 2026.
+Bjørn is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 18 Sept 2026, next at Club Frau Holle, Hamburg on Fri, 18 Sept 2026.
 
 Bjørn is a techno and house artist tracked on soundcheck, with 3 sets logged across Hamburg and Sanfrancisco. Often billed alongside Claire Short, DAVIDE (2) and Dellosen. Next up: Club Frau Holle, Hamburg on Fri 18 Sept.
 
@@ -19,4 +19,4 @@ Bjørn is a techno and house artist tracked on soundcheck, with 3 sets logged ac
 
 Claire Short, DAVIDE (2), Dellosen
 
-*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bjorn-us/)*
+*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bjorn-us/)*

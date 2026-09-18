@@ -1,14 +1,13 @@
 # BTAY
 
-BTAY is a House and Tech House artist with 6 upcoming club dates listed on soundcheck as of Thu, 17 Sept 2026, next at XOYO, London on Thu, 17 Sept 2026.
+BTAY is a House and Tech House artist with 5 upcoming club dates listed on soundcheck as of Fri, 18 Sept 2026, next at The Warehouse, Leeds on Fri, 18 Sept 2026.
 
-BTAY is a house and tech house artist based in United Kingdom, tracked on soundcheck, with 12 sets logged across Leeds and London. Often billed alongside Wildish, Enzo is Burning and Goosey. Next up: XOYO, London on Thu 17 Sept.
+BTAY is a house and tech house artist based in United Kingdom, tracked on soundcheck, with 12 sets logged across Leeds and London. Often billed alongside Wildish, Enzo is Burning and Goosey. Next up: The Warehouse, Leeds on Fri 18 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Thu, 17 Sept 2026 | XOYO | London |
 | Fri, 18 Sept 2026 | The Warehouse | Leeds |
 | Fri, 18 Sept 2026 | The Warehouse | Leeds |
 | Sat, 19 Sept 2026 | XOYO | London |
@@ -17,6 +16,7 @@ BTAY is a house and tech house artist based in United Kingdom, tracked on soundc
 
 ## Recently played
 
+- XOYO, London — Thu, 17 Sept 2026
 - XOYO, London — Thu, 10 Sept 2026
 - XOYO, London — Thu, 3 Sept 2026
 - XOYO, London — Sat, 16 May 2026
@@ -28,4 +28,4 @@ BTAY is a house and tech house artist based in United Kingdom, tracked on soundc
 
 Wildish, Enzo is Burning, Goosey
 
-*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/btay/)*
+*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/btay/)*

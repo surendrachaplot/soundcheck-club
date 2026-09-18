@@ -1,6 +1,6 @@
 # Time is the new space
 
-Time is the new space is a music venue in Rotterdam with 9 upcoming nights listed on soundcheck as of Thu, 17 Sept 2026; the next is "TONYZ CO.LAB OPEN BOOTH" on Thu, 17 Sept 2026.
+Time is the new space is a music venue in Rotterdam with 9 upcoming nights listed on soundcheck as of Fri, 18 Sept 2026; the next is "TIME2CLUB – SPITE VOL. 1" on Fri, 18 Sept 2026.
 
 Time is the new space is a music venue in Rotterdam listed on soundcheck. 9 upcoming nights, with line-ups including AHIL, Helmond Lang, Human Space Machine and Leon and 2 more. Browse upcoming dates, start times and who's playing. Schiekade 185, 3013 BR, Rotterdam, Netherlands.
 
@@ -8,7 +8,6 @@ Time is the new space is a music venue in Rotterdam listed on soundcheck. 9 upco
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Thu, 17 Sept 2026 | TONYZ CO.LAB OPEN BOOTH |  |
 | Fri, 18 Sept 2026 | TIME2CLUB – SPITE VOL. 1 |  |
 | Sat, 19 Sept 2026 | MOVING CLOSER X HYPNOSIS | AHIL, Human Space Machine |
 | Wed, 23 Sept 2026 | HIDDEN BEHIND X TITNS VOL. 22 |  |
@@ -16,10 +15,11 @@ Time is the new space is a music venue in Rotterdam listed on soundcheck. 9 upco
 | Sat, 26 Sept 2026 | Pims ALL NIGHT LONG | Pims |
 | Wed, 30 Sept 2026 | HIDDEN BEHIND X TITNS VOL. 23 |  |
 | Fri, 2 Oct 2026 | TIME2CLUB – YoungWoman CLUB VOL. 1 | Helmond Lang, YoungWoman, Zohar, prekeris |
+| Sat, 10 Oct 2026 | Pontoon Bookings 5-Year Anniversary |  |
 | Fri, 6 Nov 2026 | Intergalactic FM presents All Stars |  |
 
 ## Address
 
 Schiekade 185, 3013 BR, Rotterdam, Netherlands, Rotterdam
 
-*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/rotterdam/club/time-is-the-new-space/)*
+*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/rotterdam/club/time-is-the-new-space/)*

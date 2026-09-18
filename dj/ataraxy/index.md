@@ -1,14 +1,15 @@
 # ATARAXY
 
-ATARAXY is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Thu, 17 Sept 2026, next at Illegaal, Brussels on Fri, 25 Sept 2026.
+ATARAXY is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Fri, 18 Sept 2026, next at Illegaal, Brussels on Fri, 25 Sept 2026.
 
-ATARAXY is a techno and trance artist tracked on soundcheck, with 25 sets logged across Antwerp and Brussels. Often billed alongside JEKKAMAÏ, Maëlle and bemira. Next up: Illegaal, Brussels on Fri 25 Sept.
+ATARAXY is a techno and trance artist tracked on soundcheck, with 26 sets logged across Antwerp and Brussels. Often billed alongside JEKKAMAÏ, Maëlle and bemira. Next up: Illegaal, Brussels on Fri 25 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 25 Sept 2026 | Illegaal | Brussels |
+| Sat, 3 Oct 2026 | B21 | Brussels |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ ATARAXY is a techno and trance artist tracked on soundcheck, with 25 sets logged
 
 JEKKAMAÏ, Maëlle, bemira
 
-*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ataraxy/)*
+*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ataraxy/)*

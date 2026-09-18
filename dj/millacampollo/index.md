@@ -1,6 +1,6 @@
 # Milla Campollo
 
-Milla Campollo is a House and Electronica artist with 1 upcoming club date listed on soundcheck as of Thu, 17 Sept 2026, next at 303 Audiophile Bar, Barcelona on Thu, 22 Oct 2026.
+Milla Campollo is a House and Electronica artist with 1 upcoming club date listed on soundcheck as of Fri, 18 Sept 2026, next at 303 Audiophile Bar, Barcelona on Thu, 22 Oct 2026.
 
 Milla Campollo is a house and electronica artist based in Guatemala, tracked on soundcheck, with 18 sets logged across Barcelona and Madrid. Often billed alongside Ludviq, Ale Hope and Intruso. Next up: 303 Audiophile Bar, Barcelona on Thu 22 Oct.
 
@@ -25,4 +25,4 @@ Milla Campollo is a house and electronica artist based in Guatemala, tracked on 
 
 Ludviq, Ale Hope, Intruso
 
-*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/millacampollo/)*
+*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/millacampollo/)*

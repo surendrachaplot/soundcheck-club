@@ -1,6 +1,6 @@
 # ALIBI
 
-ALIBI is a Drum & Bass and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 17 Sept 2026, next at fabric, London on Sat, 14 Nov 2026.
+ALIBI is a Drum & Bass and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 18 Sept 2026, next at fabric, London on Sat, 14 Nov 2026.
 
 ALIBI is a drum & bass and techno artist tracked on soundcheck, with 14 sets logged across Brighton, Brisbane, Bristol and Budapest and 4 more. Often billed alongside Bryan Gee, Bladerunner and S.P.Y. Next up: fabric, London on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ ALIBI is a drum & bass and techno artist tracked on soundcheck, with 14 sets log
 
 Bryan Gee, Bladerunner, S.P.Y
 
-*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/alibi/)*
+*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/alibi/)*

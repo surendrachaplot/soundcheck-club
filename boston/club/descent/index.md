@@ -1,14 +1,13 @@
 # Descent
 
-Descent is a music venue in Boston with 5 upcoming nights listed on soundcheck as of Thu, 17 Sept 2026; the next is "Club Culture: MARRØN & Alejandro Franco" on Thu, 17 Sept 2026.
+Descent is a music venue in Boston with 4 upcoming nights listed on soundcheck as of Fri, 18 Sept 2026; the next is "PROVINCE 44 presents Archie Hamilton" on Sat, 3 Oct 2026.
 
-Descent is a music venue in Boston listed on soundcheck. 5 upcoming nights, with line-ups including Alejandro Franco, Archie Hamilton, D.Dan and DVS1 and 2 more. Browse upcoming dates, start times and who's playing. 33 Dunster St, Camridge MA,02138.
+Descent is a music venue in Boston listed on soundcheck. 4 upcoming nights, with line-ups including Archie Hamilton, D.Dan, DVS1 and Meschwitz and 2 more. Browse upcoming dates, start times and who's playing. 33 Dunster St, Camridge MA,02138.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Thu, 17 Sept 2026 | Club Culture: MARRØN & Alejandro Franco | Alejandro Franco, MARRØN |
 | Sat, 3 Oct 2026 | PROVINCE 44 presents Archie Hamilton | Archie Hamilton |
 | Sat, 17 Oct 2026 | PROVINCE 44 presents Ranger Trucco | Ranger Trucco |
 | Thu, 19 Nov 2026 | Club Culture: DVS1 & Meschwitz | DVS1, Meschwitz |
@@ -18,4 +17,4 @@ Descent is a music venue in Boston listed on soundcheck. 5 upcoming nights, with
 
 33 Dunster St, Camridge MA,02138, Boston
 
-*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/boston/club/descent/)*
+*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/boston/club/descent/)*

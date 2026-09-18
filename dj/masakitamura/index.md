@@ -1,14 +1,15 @@
 # Masaki Tamura
 
-Masaki Tamura is a Jazz and Club artist with 2 upcoming club dates listed on soundcheck as of Thu, 17 Sept 2026, next at Club Metro, Kyoto on Sat, 19 Sept 2026.
+Masaki Tamura is a Jazz and Club artist with 3 upcoming club dates listed on soundcheck as of Fri, 18 Sept 2026, next at Club Metro, Kyoto on Sat, 19 Sept 2026.
 
-Masaki Tamura is a jazz and club artist tracked on soundcheck, with 42 sets logged across Kyoto, Osaka and Tokyo. Often billed alongside Kyoto Jazz Massive, Naoki Yoda and Yoshihiro Okino. Next up: Club Metro, Kyoto on Sat 19 Sept.
+Masaki Tamura is a jazz and club artist tracked on soundcheck, with 43 sets logged across Kyoto, Osaka and Tokyo. Often billed alongside Kyoto Jazz Massive, Naoki Yoda and Yoshihiro Okino. Next up: Club Metro, Kyoto on Sat 19 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 19 Sept 2026 | Club Metro | Kyoto |
+| Fri, 9 Oct 2026 | Club Metro | Kyoto |
 | Sun, 29 Nov 2026 | Club Metro | Kyoto |
 
 ## Recently played
@@ -26,4 +27,4 @@ Masaki Tamura is a jazz and club artist tracked on soundcheck, with 42 sets logg
 
 Kyoto Jazz Massive, Naoki Yoda, Yoshihiro Okino
 
-*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/masakitamura/)*
+*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/masakitamura/)*

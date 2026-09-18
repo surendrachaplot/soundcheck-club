@@ -1,6 +1,6 @@
 # Melé
 
-Melé is a House and Tech House artist with 6 upcoming club dates listed on soundcheck as of Thu, 17 Sept 2026, next at TBA - 30 Maud Street, Toronto on Sat, 19 Sept 2026.
+Melé is a House and Tech House artist with 6 upcoming club dates listed on soundcheck as of Fri, 18 Sept 2026, next at TBA - 30 Maud Street, Toronto on Sat, 19 Sept 2026.
 
 Melé is a house and tech house artist tracked on soundcheck, with 123 sets logged across Amsterdam, Bali, Barcelona and Bristol and 29 more. Often billed alongside Sam Divine, Eats Everything and Olive F. Next up: TBA - 30 Maud Street, Toronto on Sat 19 Sept.
 
@@ -30,4 +30,4 @@ Melé is a house and tech house artist tracked on soundcheck, with 123 sets logg
 
 Sam Divine, Eats Everything, Olive F
 
-*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mele/)*
+*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mele/)*

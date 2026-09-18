@@ -1,6 +1,6 @@
 # Bloom at Northcote Theatre
 
-Bloom at Northcote Theatre on Sat 19 Sept, Melbourne. 2 acts on the bill: FAF (1) and Zjoso. Garage and Electronica. Preview the line-up and save it on soundcheck.
+Bloom at Northcote Theatre on Sat 19 Sept, Melbourne. 2 acts on the bill: FAF (1) and Zjoso. House and Garage. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

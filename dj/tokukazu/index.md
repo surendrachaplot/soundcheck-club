@@ -1,6 +1,6 @@
 # Tokukazu
 
-Tokukazu is a House and Minimal artist with 2 upcoming club dates listed on soundcheck as of Thu, 17 Sept 2026, next at Numm, Tokyo on Wed, 23 Sept 2026.
+Tokukazu is a House and Minimal artist with 2 upcoming club dates listed on soundcheck as of Fri, 18 Sept 2026, next at Numm, Tokyo on Wed, 23 Sept 2026.
 
 Tokukazu is a house and minimal artist tracked on soundcheck, with 47 sets logged across Tokyo. Often billed alongside DAIY, Incarnated Sound and Masayoshi Kimura. Next up: Numm, Tokyo on Wed 23 Sept.
 
@@ -26,4 +26,4 @@ Tokukazu is a house and minimal artist tracked on soundcheck, with 47 sets logge
 
 DAIY, Incarnated Sound, Masayoshi Kimura
 
-*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tokukazu/)*
+*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tokukazu/)*

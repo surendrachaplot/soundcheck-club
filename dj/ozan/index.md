@@ -1,6 +1,6 @@
 # Ozan
 
-Ozan is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 17 Sept 2026, next at Slakthuset, Stockholm on Sat, 19 Sept 2026.
+Ozan is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 18 Sept 2026, next at Slakthuset, Stockholm on Sat, 19 Sept 2026.
 
 Ozan is a techno and house artist tracked on soundcheck, with 54 sets logged across Helsinki, Istanbul, Munich and Stockholm and 2 more. Often billed alongside CEB (FI), Katerina and Lil Tony. Next up: Slakthuset, Stockholm on Sat 19 Sept.
 
@@ -25,4 +25,4 @@ Ozan is a techno and house artist tracked on soundcheck, with 54 sets logged acr
 
 CEB (FI), Katerina, Lil Tony
 
-*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ozan/)*
+*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ozan/)*

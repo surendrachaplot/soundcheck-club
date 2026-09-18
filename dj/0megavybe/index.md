@@ -1,6 +1,6 @@
 # 0megavybe
 
-0megavybe is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Thu, 17 Sept 2026, next at fi, Cologne on Sat, 10 Oct 2026.
+0megavybe is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Fri, 18 Sept 2026, next at fi, Cologne on Sat, 10 Oct 2026.
 
 0megavybe is a techno and trance artist tracked on soundcheck, with 64 sets logged across Basel, Berlin, Cologne and Frankfurt and 5 more. Often billed alongside HEDDA, Multifun and Pavelo Promillo. Next up: fi, Cologne on Sat 10 Oct.
 
@@ -25,4 +25,4 @@
 
 HEDDA, Multifun, Pavelo Promillo
 
-*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/0megavybe/)*
+*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/0megavybe/)*

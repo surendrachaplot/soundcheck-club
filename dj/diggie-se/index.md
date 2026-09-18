@@ -1,6 +1,6 @@
 # Diggie
 
-Diggie is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Thu, 17 Sept 2026, next at TBA - PUBERAJ, Belgrade on Fri, 18 Sept 2026.
+Diggie is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Fri, 18 Sept 2026, next at TBA - PUBERAJ, Belgrade on Fri, 18 Sept 2026.
 
 Diggie is a tech house and house artist tracked on soundcheck, with 30 sets logged across Barcelona and Belgrade. Often billed alongside Dimitri J, Un Padre and Mene. Next up: TBA - PUBERAJ, Belgrade on Fri 18 Sept.
 
@@ -25,4 +25,4 @@ Diggie is a tech house and house artist tracked on soundcheck, with 30 sets logg
 
 Dimitri J, Un Padre, Mene
 
-*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/diggie-se/)*
+*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/diggie-se/)*

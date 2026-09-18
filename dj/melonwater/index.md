@@ -1,6 +1,6 @@
 # Melonwater
 
-Melonwater is a Club and Hardcore artist with 2 upcoming club dates listed on soundcheck as of Thu, 17 Sept 2026, next at TBA, Toronto on Sat, 19 Sept 2026.
+Melonwater is a Club and Hardcore artist with 2 upcoming club dates listed on soundcheck as of Fri, 18 Sept 2026, next at TBA, Toronto on Sat, 19 Sept 2026.
 
 Melonwater is a club and hardcore artist based in Canada, tracked on soundcheck, with 15 sets logged across Montreal and Toronto. Often billed alongside SEXMP3, 999ADJ and /ASYNC. Next up: TBA, Toronto on Sat 19 Sept.
 
@@ -26,4 +26,4 @@ Melonwater is a club and hardcore artist based in Canada, tracked on soundcheck,
 
 SEXMP3, 999ADJ, /ASYNC
 
-*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/melonwater/)*
+*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/melonwater/)*

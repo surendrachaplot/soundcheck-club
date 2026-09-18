@@ -1,6 +1,6 @@
 # NEBULA: HARDGROOVE UNTIL MORNING at TBA - Secret Location 
 
-NEBULA: HARDGROOVE UNTIL MORNING at TBA - Secret Location  on Fri 18 Sept, Tokyo. 7 acts on the bill: EMILIO (3), Liza, LYOM and manato and 3 more. Techno. Preview the line-up and save it on soundcheck.
+NEBULA: HARDGROOVE UNTIL MORNING at TBA - Secret Location  on Fri 18 Sept, Tokyo. 8 acts on the bill: EMILIO (3), Liza, LYOM and manato and 4 more. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -15,6 +15,7 @@ NEBULA: HARDGROOVE UNTIL MORNING at TBA - Secret Location  on Fri 18 Sept, Tokyo
 - LYOM
 - manato
 - STRATAH
+- TECHNO_TARITERU?
 - VÏVÏ
 - XINOVI
 

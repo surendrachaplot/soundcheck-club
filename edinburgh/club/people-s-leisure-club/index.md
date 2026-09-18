@@ -1,6 +1,6 @@
 # People's Leisure Club
 
-People's Leisure Club is a music venue in Edinburgh with 20 upcoming nights listed on soundcheck as of Thu, 17 Sept 2026; the next is "ELEMENTS: SURPRISE" on Thu, 17 Sept 2026.
+People's Leisure Club is a music venue in Edinburgh with 20 upcoming nights listed on soundcheck as of Fri, 18 Sept 2026; the next is "Microsteria with Auntie Flo & more…" on Fri, 18 Sept 2026.
 
 People's Leisure Club is a music venue in Edinburgh listed on soundcheck. 20 upcoming nights, with line-ups including damside, Accident Machine, Alec Falconer and Astro and 2 more. Browse upcoming dates, start times and who's playing. 45 Lothian Street, Edinburgh, EH1 1HB.
 
@@ -8,7 +8,6 @@ People's Leisure Club is a music venue in Edinburgh listed on soundcheck. 20 upc
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Thu, 17 Sept 2026 | ELEMENTS: SURPRISE | BORLEY |
 | Fri, 18 Sept 2026 | Microsteria with Auntie Flo & more… | Auntie Flo |
 | Sat, 19 Sept 2026 | LIKE THIS #028 | Main Ingredient, Marti-Time! |
 | Sat, 19 Sept 2026 | Spectrum Presents: Billy Daniel Bunter | Billy Daniel Bunter |
@@ -18,9 +17,10 @@ People's Leisure Club is a music venue in Edinburgh listed on soundcheck. 20 upc
 | Thu, 1 Oct 2026 | Not Waiting | Accident Machine, DMG Music |
 | Fri, 2 Oct 2026 | neurosignal: damside, noodle + Telfort | Telfort, damside, noodle |
 | Sat, 3 Oct 2026 | Maniatrix: 'Body Build Rate' Album Launch Party | Maniatrix |
+| Sat, 3 Oct 2026 | TEESH - Eyes Of Others (Live), DJ Cheers, Chrissy G | Chrissy G (2), DJ Cheers, Eyes of Others |
 
 ## Address
 
 45 Lothian Street, Edinburgh, EH1 1HB, Edinburgh
 
-*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/edinburgh/club/people-s-leisure-club/)*
+*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/edinburgh/club/people-s-leisure-club/)*

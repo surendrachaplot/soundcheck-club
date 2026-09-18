@@ -1,6 +1,6 @@
 # Ido Plumes
 
-Ido Plumes is a Club and Bass artist with 1 upcoming club date listed on soundcheck as of Thu, 17 Sept 2026, next at The Love Inn, Bristol on Fri, 18 Sept 2026.
+Ido Plumes is a Club and Bass artist with 1 upcoming club date listed on soundcheck as of Fri, 18 Sept 2026, next at The Love Inn, Bristol on Fri, 18 Sept 2026.
 
 Ido Plumes is a club and bass artist tracked on soundcheck, with 32 sets logged across Bristol, London and Sheffield. Often billed alongside Chez de Milo, Lukas Wigflex and Willow. Next up: The Love Inn, Bristol on Fri 18 Sept.
 
@@ -25,4 +25,4 @@ Ido Plumes is a club and bass artist tracked on soundcheck, with 32 sets logged 
 
 Chez de Milo, Lukas Wigflex, Willow
 
-*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/idoplumes/)*
+*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/idoplumes/)*

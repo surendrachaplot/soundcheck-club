@@ -1,6 +1,6 @@
 # Rhythm
 
-Rhythm is a music venue in Toronto with 10 upcoming nights listed on soundcheck as of Thu, 17 Sept 2026; the next is "Sepehr [Live]𓇢𓆸UNDRGRND x OONO" on Fri, 18 Sept 2026.
+Rhythm is a music venue in Toronto with 10 upcoming nights listed on soundcheck as of Fri, 18 Sept 2026; the next is "Sepehr [Live]𓇢𓆸 UNDRGRND x OONO" on Fri, 18 Sept 2026.
 
 Rhythm is a music venue in Toronto listed on soundcheck. 10 upcoming nights, with line-ups including Alexis Cabrera, Andre Zimmer, anise and Ciel and 2 more. Browse upcoming dates, start times and who's playing. 141 Bathurst Street, Toronto, Ontario, M5V 2R2, CANADA.
 
@@ -8,7 +8,7 @@ Rhythm is a music venue in Toronto listed on soundcheck. 10 upcoming nights, wit
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 18 Sept 2026 | Sepehr [Live]𓇢𓆸UNDRGRND x OONO | Negin, Sepehr, anise |
+| Fri, 18 Sept 2026 | Sepehr [Live]𓇢𓆸 UNDRGRND x OONO | Negin, Sepehr, anise |
 | Sat, 19 Sept 2026 | RAW CUTS Toronto: Andre Zimmer After Party | Andre Zimmer, Corinne, EREZ.JPG, shanty mane |
 | Tue, 22 Sept 2026 | Long Play: Kraftwerk | Ficilio |
 | Wed, 23 Sept 2026 | Rhythm Workshop Series: Intro to Digital DJing | Zellers |
@@ -23,4 +23,4 @@ Rhythm is a music venue in Toronto listed on soundcheck. 10 upcoming nights, wit
 
 141 Bathurst Street, Toronto, Ontario, M5V 2R2, CANADA, Toronto
 
-*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/rhythm/)*
+*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/rhythm/)*

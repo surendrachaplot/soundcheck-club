@@ -1,14 +1,14 @@
 # John Tejada
 
-John Tejada is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Thu, 17 Sept 2026, next at Jolene Downtown Miami, Miami on Thu, 17 Sept 2026.
+John Tejada is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Fri, 18 Sept 2026, next at Jolene Downtown Miami, Miami on Fri, 18 Sept 2026.
 
-John Tejada is a house and techno artist tracked on soundcheck, with 33 sets logged across Amsterdam, Barcelona, Berlin and Denver and 8 more. Often billed alongside DJ Sneak, Danny Goliger and Dj Kerry. Next up: Jolene Downtown Miami, Miami on Thu 17 Sept.
+John Tejada is a house and techno artist tracked on soundcheck, with 34 sets logged across Amsterdam, Barcelona, Berlin and Denver and 8 more. Often billed alongside DJ Sneak, Danny Goliger and Dj Kerry. Next up: Jolene Downtown Miami, Miami on Fri 18 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Thu, 17 Sept 2026 | Jolene Downtown Miami | Miami |
+| Fri, 18 Sept 2026 | Jolene Downtown Miami | Miami |
 | Sat, 26 Sept 2026 | Radio Radio | Amsterdam |
 | Fri, 2 Oct 2026 | La Terrrazza | Barcelona |
 | Sat, 3 Oct 2026 | Night Tales Loft | London |
@@ -16,6 +16,7 @@ John Tejada is a house and techno artist tracked on soundcheck, with 33 sets log
 
 ## Recently played
 
+- Jolene Downtown Miami, Miami — Thu, 17 Sept 2026
 - TBA - Downtown Los Angeles, Los Angeles — Sat, 15 Aug 2026
 - public records, New York City — Fri, 31 Jul 2026
 - Berghain | Panorama Bar | Säule, Berlin — Sat, 23 May 2026
@@ -23,10 +24,9 @@ John Tejada is a house and techno artist tracked on soundcheck, with 33 sets log
 - Catch One, Los Angeles — Fri, 13 Feb 2026
 - Regent Theater, DTLA, Los Angeles — Tue, 18 Nov 2025
 - null, New York City — Sat, 15 Nov 2025
-- TBA, Los Angeles — Sat, 16 Aug 2025
 
 ## Shares bills with
 
 DJ Sneak, Danny Goliger, Dj Kerry
 
-*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/johntejada/)*
+*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/johntejada/)*

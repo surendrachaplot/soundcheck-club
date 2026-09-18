@@ -1,6 +1,6 @@
 # Mia Mai
 
-Mia Mai is a Techno and Electronica artist with 2 upcoming club dates listed on soundcheck as of Thu, 17 Sept 2026, next at Lost Art Shop, Liverpool on Fri, 18 Sept 2026.
+Mia Mai is a Techno and Electronica artist with 2 upcoming club dates listed on soundcheck as of Fri, 18 Sept 2026, next at Lost Art Shop, Liverpool on Fri, 18 Sept 2026.
 
 Mia Mai is a techno and electronica artist based in United Kingdom, tracked on soundcheck, with 29 sets logged across Liverpool and London. Often billed alongside MYOHMY, All Trades and Aly P. Next up: Lost Art Shop, Liverpool on Fri 18 Sept.
 
@@ -26,4 +26,4 @@ Mia Mai is a techno and electronica artist based in United Kingdom, tracked on s
 
 MYOHMY, All Trades, Aly P
 
-*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/miamai/)*
+*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/miamai/)*

@@ -1,6 +1,6 @@
 # Daniro
 
-Daniro is a Club and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 17 Sept 2026, next at Paragon, New York City on Fri, 18 Sept 2026.
+Daniro is a Club and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 18 Sept 2026, next at Paragon, New York City on Fri, 18 Sept 2026.
 
 Daniro is a club and techno artist based in United States of America, tracked on soundcheck, with 100 sets logged across Chicago, Helsinki, Losangeles and Miami and 3 more. Often billed alongside Bodegaparty, PINKYY and shekdash. Next up: Paragon, Newyorkcity on Fri 18 Sept.
 
@@ -25,4 +25,4 @@ Daniro is a club and techno artist based in United States of America, tracked on
 
 Bodegaparty, PINKYY, shekdash
 
-*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/daniro/)*
+*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/daniro/)*

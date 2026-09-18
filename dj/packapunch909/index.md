@@ -1,6 +1,6 @@
 # PACKAPUNCH909
 
-PACKAPUNCH909 is a Techno and Industrial artist with 2 upcoming club dates listed on soundcheck as of Thu, 17 Sept 2026, next at CIRCOLO BOTULINO, Milan on Fri, 18 Sept 2026.
+PACKAPUNCH909 is a Techno and Industrial artist with 2 upcoming club dates listed on soundcheck as of Fri, 18 Sept 2026, next at CIRCOLO BOTULINO, Milan on Fri, 18 Sept 2026.
 
 PACKAPUNCH909 is a techno and industrial artist tracked on soundcheck, with 16 sets logged across Milan and Turin. Often billed alongside DJ PIRO, AllaDerivaLontano and Flaiv Đarkø. Next up: CIRCOLO BOTULINO, Milan on Fri 18 Sept.
 
@@ -26,4 +26,4 @@ PACKAPUNCH909 is a techno and industrial artist tracked on soundcheck, with 16 s
 
 DJ PIRO, AllaDerivaLontano, Flaiv Đarkø
 
-*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/packapunch909/)*
+*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/packapunch909/)*

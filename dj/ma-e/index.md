@@ -1,6 +1,6 @@
 # MA\E
 
-MA\E is a Electronica and Bass artist with 1 upcoming club date listed on soundcheck as of Thu, 17 Sept 2026, next at Tempio del Futuro Perduto, Milan on Thu, 15 Oct 2026.
+MA\E is a Electronica and Bass artist with 1 upcoming club date listed on soundcheck as of Fri, 18 Sept 2026, next at Tempio del Futuro Perduto, Milan on Thu, 15 Oct 2026.
 
 MA\E is an electronica and bass artist based in Italy, tracked on soundcheck, with 17 sets logged across Milan and Rome. Often billed alongside Fennec III, Blunderr and Collider. Next up: Tempio del Futuro Perduto, Milan on Thu 15 Oct.
 
@@ -25,4 +25,4 @@ MA\E is an electronica and bass artist based in Italy, tracked on soundcheck, wi
 
 Fennec III, Blunderr, Collider
 
-*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ma-e/)*
+*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ma-e/)*

@@ -1,6 +1,6 @@
 # Tommy Farrow
 
-Tommy Farrow is a House and Progressive House artist with 1 upcoming club date listed on soundcheck as of Thu, 17 Sept 2026, next at Crane Hotel Faralda, Amsterdam on Thu, 22 Oct 2026.
+Tommy Farrow is a House and Progressive House artist with 1 upcoming club date listed on soundcheck as of Fri, 18 Sept 2026, next at Crane Hotel Faralda, Amsterdam on Thu, 22 Oct 2026.
 
 Tommy Farrow is a house and progressive house artist tracked on soundcheck, with 29 sets logged across Amsterdam, Brighton, Leeds and Lisbon and 5 more. Often billed alongside Leena Punks, Asch Pintura and Nour (UK). Next up: Crane Hotel Faralda, Amsterdam on Thu 22 Oct.
 
@@ -25,4 +25,4 @@ Tommy Farrow is a house and progressive house artist tracked on soundcheck, with
 
 Leena Punks, Asch Pintura, Nour (UK)
 
-*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tommyfarrow/)*
+*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tommyfarrow/)*

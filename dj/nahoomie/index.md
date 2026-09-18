@@ -1,6 +1,6 @@
 # Nahoomie
 
-Nahoomie is a House and Electronica artist with 2 upcoming club dates listed on soundcheck as of Thu, 17 Sept 2026, next at Cafe La Palma, Madrid on Sat, 19 Sept 2026.
+Nahoomie is a House and Electronica artist with 2 upcoming club dates listed on soundcheck as of Fri, 18 Sept 2026, next at Cafe La Palma, Madrid on Sat, 19 Sept 2026.
 
 Nahoomie is a house and electronica artist based in Spain, tracked on soundcheck, with 61 sets logged across Barcelona, Berlin, Madrid and Mexicocity. Often billed alongside Verushka, Alvva and Gazzi. Next up: Cafe La Palma, Madrid on Sat 19 Sept.
 
@@ -26,4 +26,4 @@ Nahoomie is a house and electronica artist based in Spain, tracked on soundcheck
 
 Verushka, Alvva, Gazzi
 
-*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nahoomie/)*
+*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nahoomie/)*

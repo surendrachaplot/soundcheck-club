@@ -1,6 +1,6 @@
 # MXV (1)
 
-MXV (1) is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 17 Sept 2026, next at RSO.BERLIN, Berlin on Sat, 3 Oct 2026.
+MXV (1) is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 18 Sept 2026, next at RSO.BERLIN, Berlin on Sat, 3 Oct 2026.
 
 MXV (1) is a techno and house artist based in Netherlands, tracked on soundcheck, with 4 sets logged across Amsterdam and Berlin. Often billed alongside ANNĒ, AYIM and Andy Garvey. Next up: RSO.BERLIN, Berlin on Sat 3 Oct.
 
@@ -20,4 +20,4 @@ MXV (1) is a techno and house artist based in Netherlands, tracked on soundcheck
 
 ANNĒ, AYIM, Andy Garvey
 
-*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mxv-1/)*
+*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mxv-1/)*

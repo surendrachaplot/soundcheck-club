@@ -1,6 +1,6 @@
 # Nymed
 
-Nymed is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 17 Sept 2026, next at The Sound House, Dublin on Fri, 23 Oct 2026.
+Nymed is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 18 Sept 2026, next at The Sound House, Dublin on Fri, 23 Oct 2026.
 
 Nymed is a techno and house artist tracked on soundcheck, with 71 sets logged across Amsterdam, Athens, Berlin and Brussels and 10 more. Often billed alongside Boris, Mar/us and DMN DJ. Next up: The Sound House, Dublin on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ Nymed is a techno and house artist tracked on soundcheck, with 71 sets logged ac
 
 Boris, Mar/us, DMN DJ
 
-*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nymed/)*
+*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nymed/)*

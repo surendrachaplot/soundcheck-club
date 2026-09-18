@@ -1,13 +1,14 @@
 # Blue Hour
 
-Blue Hour is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Thu, 17 Sept 2026, next at public records, New York City on Fri, 30 Oct 2026.
+Blue Hour is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Fri, 18 Sept 2026, next at AMT, Berlin on Fri, 25 Sept 2026.
 
-Blue Hour is a techno and trance artist tracked on soundcheck, with 101 sets logged across Amsterdam, Athens, Barcelona and Berlin and 33 more. Often billed alongside Philippa Pacho, Alpha Tracks and LDS. Next up: public records, Newyorkcity on Fri 30 Oct.
+Blue Hour is a techno and trance artist tracked on soundcheck, with 102 sets logged across Amsterdam, Athens, Barcelona and Berlin and 33 more. Often billed alongside Philippa Pacho, Alpha Tracks and LDS. Next up: AMT, Berlin on Fri 25 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 25 Sept 2026 | AMT | Berlin |
 | Fri, 30 Oct 2026 | public records | New York City |
 
 ## Recently played
@@ -25,4 +26,4 @@ Blue Hour is a techno and trance artist tracked on soundcheck, with 101 sets log
 
 Philippa Pacho, Alpha Tracks, LDS
 
-*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bluehour/)*
+*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bluehour/)*

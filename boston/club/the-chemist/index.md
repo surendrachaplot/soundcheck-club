@@ -1,6 +1,6 @@
 # The Chemist
 
-The Chemist is a music venue in Boston with 5 upcoming nights listed on soundcheck as of Thu, 17 Sept 2026; the next is "Stereo33: Lineup TBA" on Fri, 18 Sept 2026.
+The Chemist is a music venue in Boston with 5 upcoming nights listed on soundcheck as of Fri, 18 Sept 2026; the next is "Stereo33: Lineup TBA" on Fri, 18 Sept 2026.
 
 The Chemist is a music venue in Boston listed on soundcheck. 5 upcoming nights, with line-ups including Anthony Pappa, Brian Gravel and Patchwork. Browse upcoming dates, start times and who's playing. 109 High St, Boston, MA, 02110.
 
@@ -18,4 +18,4 @@ The Chemist is a music venue in Boston listed on soundcheck. 5 upcoming nights, 
 
 109 High St, Boston, MA, 02110, Boston
 
-*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/boston/club/the-chemist/)*
+*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/boston/club/the-chemist/)*

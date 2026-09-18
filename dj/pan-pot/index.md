@@ -1,14 +1,13 @@
 # Pan-Pot
 
-Pan-Pot is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Thu, 17 Sept 2026, next at Noto Philadelphia, Philadelphia on Thu, 17 Sept 2026.
+Pan-Pot is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Fri, 18 Sept 2026, next at 821 Runnymede Rd, Toronto on Sat, 19 Sept 2026.
 
-Pan-Pot is a techno and house artist tracked on soundcheck, with 175 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 54 more. Often billed alongside Adam Beyer, Anfisa Letyago and Enrico Sangiuliano. Next up: Noto Philadelphia, Philadelphia on Thu 17 Sept.
+Pan-Pot is a techno and house artist tracked on soundcheck, with 175 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 54 more. Often billed alongside Adam Beyer, Anfisa Letyago and Enrico Sangiuliano. Next up: 821 Runnymede Rd, Toronto on Sat 19 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Thu, 17 Sept 2026 | Noto Philadelphia | Philadelphia |
 | Sat, 19 Sept 2026 | 821 Runnymede Rd | Toronto |
 | Sun, 4 Oct 2026 | Hï Ibiza | Ibiza |
 | Fri, 16 Oct 2026 | Hangar Luke Beograd | Belgrade |
@@ -17,6 +16,7 @@ Pan-Pot is a techno and house artist tracked on soundcheck, with 175 sets logged
 
 ## Recently played
 
+- Noto Philadelphia, Philadelphia — Thu, 17 Sept 2026
 - Bolivar Beach Bar, Athens — Sat, 12 Sept 2026
 - Hamburg Cruise Center Altona, Hamburg — Fri, 28 Aug 2026
 - TBA - Straße des 17. Juni & Großer Stern, Berlin — Sat, 15 Aug 2026
@@ -24,10 +24,9 @@ Pan-Pot is a techno and house artist tracked on soundcheck, with 175 sets logged
 - Obudai Island, Budapest — Tue, 11 Aug 2026
 - Galopprennbahn, Munich — Sat, 1 Aug 2026
 - Fridas Pier, Stuttgart — Sat, 1 Aug 2026
-- Sparta Schwimmclub, Frankfurt — Sat, 18 Jul 2026
 
 ## Shares bills with
 
 Adam Beyer, Anfisa Letyago, Enrico Sangiuliano
 
-*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/pan-pot/)*
+*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/pan-pot/)*

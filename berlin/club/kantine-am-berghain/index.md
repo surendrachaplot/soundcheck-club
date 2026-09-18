@@ -1,14 +1,15 @@
 # Kantine am Berghain
 
-Kantine am Berghain is a music venue in Berlin with 9 upcoming nights listed on soundcheck as of Thu, 17 Sept 2026; the next is "Blockhead, ProleteR, Arms and Sleepers" on Fri, 25 Sept 2026.
+Kantine am Berghain is a music venue in Berlin with 11 upcoming nights listed on soundcheck as of Fri, 18 Sept 2026; the next is "Blockhead, ProleteR, Arms and Sleepers" on Fri, 25 Sept 2026.
 
-Kantine am Berghain is a music venue in Berlin listed on soundcheck. 9 upcoming nights, with line-ups including Aircraft, Alex P., Blockhead and Do you know Juno and 2 more. Browse upcoming dates, start times and who's playing. 70 Am Wriezener Bahnhof; Friedrichshain; 10243 Berlin; Germany.
+Kantine am Berghain is a music venue in Berlin listed on soundcheck. 11 upcoming nights, with line-ups including Aircraft, Alex Oxley, Alex P. and Blockhead and 2 more. Browse upcoming dates, start times and who's playing. 70 Am Wriezener Bahnhof; Friedrichshain; 10243 Berlin; Germany.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
 | Fri, 25 Sept 2026 | Blockhead, ProleteR, Arms and Sleepers | Blockhead |
+| Sat, 26 Sept 2026 | Club Animalz Berlin | BOOTHBUNNY, NØVEX |
 | Mon, 28 Sept 2026 | Aircraft in Kantine am Berghain | Aircraft |
 | Thu, 1 Oct 2026 | Young Widows (US), Aicher, LVFT |  |
 | Tue, 6 Oct 2026 | Obsimo (live set) - Berlin | Obsimo |
@@ -16,10 +17,10 @@ Kantine am Berghain is a music venue in Berlin listed on soundcheck. 9 upcoming 
 | Thu, 15 Oct 2026 | Girls of the Internet (Live) | Girls of the Internet |
 | Wed, 28 Oct 2026 | Sound Metaphors Festival Opening Concerts | Marylou, Mohammad Reza Mortazavi, Okkyung Lee, Olga Anna Markowska |
 | Sun, 1 Nov 2026 | Flowgeist - Live in Berlin | Alex P., Flowgeist, Pareal |
-| Sat, 21 Nov 2026 | 60 juno (US / live) |  |
+| Fri, 6 Nov 2026 | Fleetmac Wood presents Chiffon Frenzy - Berlin | Alex Oxley, Fleetmac Wood, Roxanne Roll |
 
 ## Address
 
 70 Am Wriezener Bahnhof; Friedrichshain; 10243 Berlin; Germany, Berlin
 
-*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/kantine-am-berghain/)*
+*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/kantine-am-berghain/)*

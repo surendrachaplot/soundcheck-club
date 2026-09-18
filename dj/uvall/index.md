@@ -1,6 +1,6 @@
 # Uväll
 
-Uväll is a Techno and Trance artist with 3 upcoming club dates listed on soundcheck as of Thu, 17 Sept 2026, next at Bassiani, Tbilisi on Sat, 19 Sept 2026.
+Uväll is a Techno and Trance artist with 3 upcoming club dates listed on soundcheck as of Fri, 18 Sept 2026, next at Bassiani, Tbilisi on Sat, 19 Sept 2026.
 
 Uväll is a techno and trance artist tracked on soundcheck, with 49 sets logged across Amsterdam, Berlin, Dusseldorf and Hamburg and 9 more. Often billed alongside gwän, Script (GE) and WINDFUHR. Next up: Bassiani, Tbilisi on Sat 19 Sept.
 
@@ -27,4 +27,4 @@ Uväll is a techno and trance artist tracked on soundcheck, with 49 sets logged 
 
 gwän, Script (GE), WINDFUHR
 
-*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/uvall/)*
+*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/uvall/)*

@@ -1,6 +1,6 @@
 # Omašta
 
-Omašta is a Grime and Club artist with 1 upcoming club date listed on soundcheck as of Thu, 17 Sept 2026, next at The System, Sheffield on Fri, 23 Oct 2026.
+Omašta is a Grime and Club artist with 1 upcoming club date listed on soundcheck as of Fri, 18 Sept 2026, next at The System, Sheffield on Fri, 23 Oct 2026.
 
 Omašta is a grime and club artist tracked on soundcheck, with 13 sets logged across London and Sheffield. Often billed alongside Eze, Zeki and MYNA. Next up: The System, Sheffield on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ Omašta is a grime and club artist tracked on soundcheck, with 13 sets logged ac
 
 Eze, Zeki, MYNA
 
-*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/omašta/)*
+*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/omašta/)*

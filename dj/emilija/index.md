@@ -1,8 +1,8 @@
 # EMILIJA
 
-EMILIJA is a Techno and Trance artist with 10 upcoming club dates listed on soundcheck as of Thu, 17 Sept 2026, next at Mondo Open Air, Madrid on Sat, 19 Sept 2026.
+EMILIJA is a Techno and Trance artist with 11 upcoming club dates listed on soundcheck as of Fri, 18 Sept 2026, next at Mondo Open Air, Madrid on Sat, 19 Sept 2026.
 
-EMILIJA is a techno and trance artist tracked on soundcheck, with 140 sets logged across Amsterdam, Antwerp, Barcelona and Basel and 26 more. Often billed alongside Fenrick, Helena Lauwaert and Odymel. Next up: Mondo Open Air, Madrid on Sat 19 Sept.
+EMILIJA is a techno and trance artist tracked on soundcheck, with 141 sets logged across Amsterdam, Antwerp, Barcelona and Basel and 26 more. Often billed alongside Fenrick, Helena Lauwaert and Odymel. Next up: Mondo Open Air, Madrid on Sat 19 Sept.
 
 ## Upcoming shows
 
@@ -16,6 +16,7 @@ EMILIJA is a techno and trance artist tracked on soundcheck, with 140 sets logge
 | Sun, 27 Sept 2026 | TBA | Los Angeles |
 | Thu, 8 Oct 2026 | Amnesia Ibiza | Ibiza |
 | Sat, 17 Oct 2026 | De Flesjesfabriek | Ghent |
+| Thu, 22 Oct 2026 | GASHOUDER | Amsterdam |
 | Sat, 24 Oct 2026 | NDSM Scheepsbouwloods | Amsterdam |
 | Sat, 14 Nov 2026 | KALT | Strasbourg |
 
@@ -34,4 +35,4 @@ EMILIJA is a techno and trance artist tracked on soundcheck, with 140 sets logge
 
 Fenrick, Helena Lauwaert, Odymel
 
-*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/emilija/)*
+*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/emilija/)*

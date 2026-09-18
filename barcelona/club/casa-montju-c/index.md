@@ -1,14 +1,13 @@
 # Casa Montjuïc
 
-Casa Montjuïc is a music venue in Barcelona with 3 upcoming nights listed on soundcheck as of Thu, 17 Sept 2026; the next is "Milkweed + Auri Fulgenci" on Thu, 17 Sept 2026.
+Casa Montjuïc is a music venue in Barcelona with 2 upcoming nights listed on soundcheck as of Fri, 18 Sept 2026; the next is "Raisa K" on Fri, 18 Sept 2026.
 
-Casa Montjuïc is a music venue in Barcelona listed on soundcheck. 3 upcoming nights, with line-ups including Lemna. Browse upcoming dates, start times and who's playing. Vila i Vilà 65, 08004, Barcelona.
+Casa Montjuïc is a music venue in Barcelona listed on soundcheck. 2 upcoming nights, with line-ups including Lemna. Browse upcoming dates, start times and who's playing. Vila i Vilà 65, 08004, Barcelona.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Thu, 17 Sept 2026 | Milkweed + Auri Fulgenci |  |
 | Fri, 18 Sept 2026 | Raisa K |  |
 | Sat, 10 Oct 2026 | ONYRO presents Ichigo Ichie | Lemna |
 
@@ -16,4 +15,4 @@ Casa Montjuïc is a music venue in Barcelona listed on soundcheck. 3 upcoming ni
 
 Vila i Vilà 65, 08004, Barcelona, Barcelona
 
-*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/casa-montju-c/)*
+*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/casa-montju-c/)*

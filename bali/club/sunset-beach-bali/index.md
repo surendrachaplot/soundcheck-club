@@ -1,6 +1,6 @@
 # Sunset Beach Bali
 
-Sunset Beach Bali is a music venue in Bali with 3 upcoming nights listed on soundcheck as of Thu, 17 Sept 2026; the next is "Sunday Club feat. Gorge" on Sun, 20 Sept 2026.
+Sunset Beach Bali is a music venue in Bali with 3 upcoming nights listed on soundcheck as of Fri, 18 Sept 2026; the next is "Sunday Club feat. Gorge" on Sun, 20 Sept 2026.
 
 Sunset Beach Bali is a music venue in Bali listed on soundcheck. 3 upcoming nights, with line-ups including Gorge and Lunar Disco. Browse upcoming dates, start times and who's playing.
 
@@ -12,4 +12,4 @@ Sunset Beach Bali is a music venue in Bali listed on soundcheck. 3 upcoming nigh
 | Sat, 3 Oct 2026 | Sunset Beach Party | Lunar Disco |
 | Sun, 18 Oct 2026 | RITUAL (Bali) with Naughty Corner, Bali Live Sessions & Lunar Disco | Lunar Disco |
 
-*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/bali/club/sunset-beach-bali/)*
+*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/bali/club/sunset-beach-bali/)*

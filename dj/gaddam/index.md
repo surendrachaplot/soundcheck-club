@@ -1,0 +1,28 @@
+# GADDAM
+
+GADDAM is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Fri, 18 Sept 2026, next at Ministerium Club, Lisbon on Thu, 15 Oct 2026.
+
+GADDAM is a techno and trance artist based in Portugal, tracked on soundcheck, with 65 sets logged across Barcelona, Lisbon and Porto. Often billed alongside DIMENSION 9, ophell and GTH (FR). Next up: Ministerium Club, Lisbon on Thu 15 Oct.
+
+## Upcoming shows
+
+| Date | Venue | City |
+| --- | --- | --- |
+| Thu, 15 Oct 2026 | Ministerium Club | Lisbon |
+
+## Recently played
+
+- Ministerium Club, Lisbon — Thu, 10 Sept 2026
+- Quinta Mira Rio, Lisbon — Sun, 6 Sept 2026
+- M7 Club, Barcelona — Fri, 28 Aug 2026
+- Kømplex Lisbon, Lisbon — Sat, 22 Aug 2026
+- Village Underground Lisboa, Lisbon — Sun, 16 Aug 2026
+- Quinta Mira Rio, Lisbon — Fri, 31 Jul 2026
+- Kømplex Lisbon, Lisbon — Sat, 27 Jun 2026
+- Kømplex Lisbon, Lisbon — Sat, 6 Jun 2026
+
+## Shares bills with
+
+DIMENSION 9, ophell, GTH (FR)
+
+*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/gaddam/)*

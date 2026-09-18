@@ -1,6 +1,6 @@
 # Nickodemus
 
-Nickodemus is a House and Afro House artist with 2 upcoming club dates listed on soundcheck as of Thu, 17 Sept 2026, next at H0L0, New York City on Sat, 19 Sept 2026.
+Nickodemus is a House and Afro House artist with 2 upcoming club dates listed on soundcheck as of Fri, 18 Sept 2026, next at H0L0, New York City on Sat, 19 Sept 2026.
 
 Nickodemus is a house and afro house artist based in United States of America, tracked on soundcheck, with 59 sets logged across Barcelona, Boston, Dundee and Geneva and 10 more. Often billed alongside Willy Soul, 2melo and Disgonuts. Next up: H0L0, Newyorkcity on Sat 19 Sept.
 
@@ -26,4 +26,4 @@ Nickodemus is a house and afro house artist based in United States of America, t
 
 Willy Soul, 2melo, Disgonuts
 
-*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nickodemus/)*
+*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nickodemus/)*

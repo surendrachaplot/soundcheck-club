@@ -1,14 +1,15 @@
 # Baby J (2)
 
-Baby J (2) is a Baile Funk and Bass artist with 2 upcoming club dates listed on soundcheck as of Thu, 17 Sept 2026, next at Concord Music Hall, Chicago on Sat, 10 Oct 2026.
+Baby J (2) is a Baile Funk and Bass artist with 3 upcoming club dates listed on soundcheck as of Fri, 18 Sept 2026, next at Concord Music Hall, Chicago on Sat, 10 Oct 2026.
 
-Baby J (2) is a baile funk and bass artist based in Australia, tracked on soundcheck, with 17 sets logged across Birmingham, Bristol, Chicago and Hongkong and 8 more. Often billed alongside Tye Turner, LARISHKA (UK) and IN PARALLEL. Next up: Concord Music Hall, Chicago on Sat 10 Oct.
+Baby J (2) is a baile funk and bass artist based in Australia, tracked on soundcheck, with 18 sets logged across Birmingham, Bristol, Chicago and Hongkong and 9 more. Often billed alongside Tye Turner, LARISHKA (UK) and IN PARALLEL. Next up: Concord Music Hall, Chicago on Sat 10 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 10 Oct 2026 | Concord Music Hall | Chicago |
+| Sat, 17 Oct 2026 | Gallagher Square | San Diego |
 | Fri, 23 Oct 2026 | The Ground at Club Space | Miami |
 
 ## Recently played
@@ -26,4 +27,4 @@ Baby J (2) is a baile funk and bass artist based in Australia, tracked on soundc
 
 Tye Turner, LARISHKA (UK), IN PARALLEL
 
-*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/babyj-2/)*
+*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/babyj-2/)*

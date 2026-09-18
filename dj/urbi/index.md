@@ -1,6 +1,6 @@
 # Urbi
 
-Urbi is a House and Deep House artist with 3 upcoming club dates listed on soundcheck as of Thu, 17 Sept 2026, next at renae, Manchester on Fri, 18 Sept 2026.
+Urbi is a House and Deep House artist with 3 upcoming club dates listed on soundcheck as of Fri, 18 Sept 2026, next at renae, Manchester on Fri, 18 Sept 2026.
 
 Urbi is a house and deep house artist based in United Kingdom, tracked on soundcheck, with 57 sets logged across Amsterdam, Budapest, Glasgow and Leeds and 3 more. Often billed alongside Hayley Zalassi, SAVANNAHH and Levi Love. Next up: renae, Manchester on Fri 18 Sept.
 
@@ -27,4 +27,4 @@ Urbi is a house and deep house artist based in United Kingdom, tracked on soundc
 
 Hayley Zalassi, SAVANNAHH, Levi Love
 
-*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/urbi/)*
+*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/urbi/)*

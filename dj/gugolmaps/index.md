@@ -1,6 +1,6 @@
 # gugol maps
 
-gugol maps is a Bass and House artist with 1 upcoming club date listed on soundcheck as of Thu, 17 Sept 2026, next at 90mil, Berlin on Sat, 26 Sept 2026.
+gugol maps is a Bass and House artist with 1 upcoming club date listed on soundcheck as of Fri, 18 Sept 2026, next at 90mil, Berlin on Sat, 26 Sept 2026.
 
 gugol maps is a bass and house artist based in Colombia, tracked on soundcheck, with 16 sets logged across Barcelona and Berlin. Often billed alongside sin serif, Triana and 11v151131_M06. Next up: 90mil, Berlin on Sat 26 Sept.
 
@@ -25,4 +25,4 @@ gugol maps is a bass and house artist based in Colombia, tracked on soundcheck, 
 
 sin serif, Triana, 11v151131_M06
 
-*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/gugolmaps/)*
+*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/gugolmaps/)*

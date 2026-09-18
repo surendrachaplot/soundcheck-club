@@ -1,6 +1,6 @@
 # ASIN
 
-ASIN is a Techno and Industrial artist with 2 upcoming club dates listed on soundcheck as of Thu, 17 Sept 2026, next at Shelter, Seoul on Fri, 18 Sept 2026.
+ASIN is a Techno and Industrial artist with 2 upcoming club dates listed on soundcheck as of Fri, 18 Sept 2026, next at Shelter, Seoul on Fri, 18 Sept 2026.
 
 ASIN is a techno and industrial artist based in Japan, tracked on soundcheck, with 10 sets logged across Seoul and Tokyo. Often billed alongside YOXIKI, CHIKA and YURI VALEN. Next up: Shelter, Seoul on Fri 18 Sept.
 
@@ -26,4 +26,4 @@ ASIN is a techno and industrial artist based in Japan, tracked on soundcheck, wi
 
 YOXIKI, CHIKA, YURI VALEN
 
-*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/asin/)*
+*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/asin/)*

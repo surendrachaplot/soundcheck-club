@@ -1,6 +1,6 @@
 # SAMO (JP)
 
-SAMO (JP) is a House and Techno artist with 6 upcoming club dates listed on soundcheck as of Thu, 17 Sept 2026, next at Circus Tokyo, Tokyo on Sat, 19 Sept 2026.
+SAMO (JP) is a House and Techno artist with 6 upcoming club dates listed on soundcheck as of Fri, 18 Sept 2026, next at Circus Tokyo, Tokyo on Sat, 19 Sept 2026.
 
 SAMO (JP) is a house and techno artist tracked on soundcheck, with 179 sets logged across Kyoto, Osaka, Sanfrancisco and Seoul and 2 more. Often billed alongside r1ku, kengotaki and YUVIE. Next up: Circus Tokyo, Tokyo on Sat 19 Sept.
 
@@ -30,4 +30,4 @@ SAMO (JP) is a house and techno artist tracked on soundcheck, with 179 sets logg
 
 r1ku, kengotaki, YUVIE
 
-*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/samojp/)*
+*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/samojp/)*

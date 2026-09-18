@@ -1,6 +1,6 @@
 # multivitaminmarie
 
-multivitaminmarie is a Trance and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 17 Sept 2026, next at Humboldthain Club, Berlin on Fri, 18 Sept 2026.
+multivitaminmarie is a Trance and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 18 Sept 2026, next at Humboldthain Club, Berlin on Fri, 18 Sept 2026.
 
 multivitaminmarie is a trance and techno artist based in Germany, tracked on soundcheck, with 25 sets logged across Berlin and Stuttgart. Often billed alongside MIMI404, A.N.I. and Blame the Booker. Next up: Humboldthain Club, Berlin on Fri 18 Sept.
 
@@ -26,4 +26,4 @@ multivitaminmarie is a trance and techno artist based in Germany, tracked on sou
 
 MIMI404, A.N.I., Blame the Booker
 
-*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/multivitaminmarie/)*
+*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/multivitaminmarie/)*

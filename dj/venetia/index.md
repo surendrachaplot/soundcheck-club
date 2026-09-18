@@ -1,6 +1,6 @@
 # Venetia
 
-Venetia is a House and Electro artist with 1 upcoming club date listed on soundcheck as of Thu, 17 Sept 2026, next at Le Chinois, Paris on Fri, 18 Sept 2026.
+Venetia is a House and Electro artist with 1 upcoming club date listed on soundcheck as of Fri, 18 Sept 2026, next at Le Chinois, Paris on Fri, 18 Sept 2026.
 
 Venetia is a house and electro artist tracked on soundcheck, with 33 sets logged across Barcelona, Berlin, Nantes and Paris. Often billed alongside Alich (1), Gabriel Belabbas and Hicham. Next up: Le Chinois, Paris on Fri 18 Sept.
 
@@ -25,4 +25,4 @@ Venetia is a house and electro artist tracked on soundcheck, with 33 sets logged
 
 Alich (1), Gabriel Belabbas, Hicham
 
-*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/venetia/)*
+*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/venetia/)*

@@ -1,8 +1,8 @@
 # Lea Occhi
 
-Lea Occhi is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Thu, 17 Sept 2026, next at Fuchs2, Prague on Sat, 19 Sept 2026.
+Lea Occhi is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Fri, 18 Sept 2026, next at Fuchs2, Prague on Sat, 19 Sept 2026.
 
-Lea Occhi is a techno and house artist tracked on soundcheck, with 185 sets logged across Amsterdam, Athens, Barcelona and Basel and 39 more. Often billed alongside Toscan Haas, Amotik and Lobster (NL). Next up: Fuchs2, Prague on Sat 19 Sept.
+Lea Occhi is a techno and house artist tracked on soundcheck, with 186 sets logged across Amsterdam, Athens, Barcelona and Basel and 39 more. Often billed alongside Toscan Haas, Amotik and Lobster (NL). Next up: Fuchs2, Prague on Sat 19 Sept.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Lea Occhi is a techno and house artist tracked on soundcheck, with 185 sets logg
 | --- | --- | --- |
 | Sat, 19 Sept 2026 | Fuchs2 | Prague |
 | Thu, 24 Sept 2026 | HHV.de Store | Berlin |
+| Sat, 26 Sept 2026 | Le Trabendo | Paris |
 | Thu, 22 Oct 2026 | TILLATEC | Amsterdam |
 | Sat, 31 Oct 2026 | Berghain / Panorama Bar / Säule | Berlin |
 | Sat, 21 Nov 2026 | TBA - Brussels | Brussels |
@@ -29,4 +30,4 @@ Lea Occhi is a techno and house artist tracked on soundcheck, with 185 sets logg
 
 Toscan Haas, Amotik, Lobster (NL)
 
-*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/leaocchi/)*
+*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/leaocchi/)*

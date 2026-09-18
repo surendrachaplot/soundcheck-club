@@ -1,6 +1,6 @@
 # pik (1)
 
-pik (1) is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 17 Sept 2026, next at Amp, Munster on Sat, 19 Sept 2026.
+pik (1) is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 18 Sept 2026, next at Amp, Munster on Sat, 19 Sept 2026.
 
 pik (1) is a techno and house artist tracked on soundcheck, with 10 sets logged across Berlin, Cologne and Munster. Often billed alongside Nick Deeken, makahaun and Aino DJ. Next up: Amp, Munster on Sat 19 Sept.
 
@@ -25,4 +25,4 @@ pik (1) is a techno and house artist tracked on soundcheck, with 10 sets logged 
 
 Nick Deeken, makahaun, Aino DJ
 
-*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/pik-1/)*
+*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/pik-1/)*

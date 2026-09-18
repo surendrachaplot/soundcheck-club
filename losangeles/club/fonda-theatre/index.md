@@ -1,15 +1,13 @@
 # Fonda Theatre
 
-Fonda Theatre is a music venue in Los Angeles with 9 upcoming nights listed on soundcheck as of Thu, 17 Sept 2026; the next is "Soulwax at The Fonda Theatre" on Thu, 17 Sept 2026.
+Fonda Theatre is a music venue in Los Angeles with 7 upcoming nights listed on soundcheck as of Fri, 18 Sept 2026; the next is "Soulwax" on Thu, 17 Sept 2026.
 
-Fonda Theatre is a music venue in Losangeles listed on soundcheck. 9 upcoming nights, with line-ups including DJ MANDY, oskar med k, Six Sex and Soulwax and 1 more. Browse upcoming dates, start times and who's playing. 6126 Hollywood Blvd, Hollywood, CA 90028.
+Fonda Theatre is a music venue in Losangeles listed on soundcheck. 7 upcoming nights, with line-ups including DJ MANDY, oskar med k, Six Sex and Soulwax and 1 more. Browse upcoming dates, start times and who's playing. 6126 Hollywood Blvd, Hollywood, CA 90028.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Thu, 17 Sept 2026 | Soulwax at The Fonda Theatre | Soulwax |
-| Thu, 17 Sept 2026 | KCRW presents Soulwax |  |
 | Thu, 17 Sept 2026 | Soulwax | Soulwax |
 | Tue, 22 Sept 2026 | Six Sex | Six Sex |
 | Wed, 23 Sept 2026 | Melanie C (Live) |  |
@@ -22,4 +20,4 @@ Fonda Theatre is a music venue in Losangeles listed on soundcheck. 9 upcoming ni
 
 6126 Hollywood Blvd, Hollywood, CA 90028, Los Angeles
 
-*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/fonda-theatre/)*
+*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/fonda-theatre/)*

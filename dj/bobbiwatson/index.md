@@ -1,6 +1,6 @@
 # Bobbi Watson
 
-Bobbi Watson is a Techno and Dub Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 17 Sept 2026, next at TBA - Secret Location, Amsterdam on Sat, 19 Sept 2026.
+Bobbi Watson is a Techno and Dub Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 18 Sept 2026, next at TBA - Secret Location, Amsterdam on Sat, 19 Sept 2026.
 
 Bobbi Watson is a techno and dub techno artist tracked on soundcheck, with 38 sets logged across Amsterdam, Antwerp, Brussels and Ghent and 6 more. Often billed alongside Jessen, UNOS and trillosta. Next up: TBA - Secret Location, Amsterdam on Sat 19 Sept.
 
@@ -26,4 +26,4 @@ Bobbi Watson is a techno and dub techno artist tracked on soundcheck, with 38 se
 
 Jessen, UNOS, trillosta
 
-*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bobbiwatson/)*
+*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bobbiwatson/)*

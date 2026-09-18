@@ -1,6 +1,6 @@
 # Alex (ES)
 
-Alex (ES) is a Minimal and House artist with 4 upcoming club dates listed on soundcheck as of Thu, 17 Sept 2026, next at Spook Club, Valencia on Sat, 19 Sept 2026.
+Alex (ES) is a Minimal and House artist with 4 upcoming club dates listed on soundcheck as of Fri, 18 Sept 2026, next at Spook Club, Valencia on Sat, 19 Sept 2026.
 
 Alex (ES) is a minimal and house artist tracked on soundcheck, with 99 sets logged across Amsterdam, Barcelona, Berlin and Bucharest and 4 more. Often billed alongside Hitch, Sampol and De La Swing. Next up: Spook Club, Valencia on Sat 19 Sept.
 
@@ -28,4 +28,4 @@ Alex (ES) is a minimal and house artist tracked on soundcheck, with 99 sets logg
 
 Hitch, Sampol, De La Swing
 
-*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/alexes-es/)*
+*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/alexes-es/)*

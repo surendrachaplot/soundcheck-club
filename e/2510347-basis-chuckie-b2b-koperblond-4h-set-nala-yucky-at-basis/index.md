@@ -1,6 +1,6 @@
 # BASIS/ Chuckie b2b Koperblond [4h set]/ Nala/ Yucky at BASIS
 
-BASIS/ Chuckie b2b Koperblond [4h set]/ Nala/ Yucky on Sat 19 Sept, Utrecht. 4 acts on the bill: DJ Chuckie, Koperblond, Nala and Yucky. Techno. Preview the line-up and save it on soundcheck.
+BASIS/ Chuckie b2b Koperblond [4h set]/ Nala/ Yucky on Sat 19 Sept, Utrecht. 4 acts on the bill: DJ Chuckie, Koperblond, Nala and Yucky. Club. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

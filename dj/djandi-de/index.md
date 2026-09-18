@@ -1,6 +1,6 @@
 # Dj Andi
 
-Dj Andi is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 17 Sept 2026, next at Puma Käfig Berlin, Berlin on Fri, 2 Oct 2026.
+Dj Andi is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 18 Sept 2026, next at Puma Käfig Berlin, Berlin on Fri, 2 Oct 2026.
 
 Dj Andi is a techno and house artist tracked on soundcheck, with 19 sets logged across Berlin, Bucharest, Cologne and Saopaulo. Often billed alongside Ravejezuz, Thielking and GM1 (IT). Next up: Puma Käfig Berlin, Berlin on Fri 2 Oct.
 
@@ -25,4 +25,4 @@ Dj Andi is a techno and house artist tracked on soundcheck, with 19 sets logged 
 
 Ravejezuz, Thielking, GM1 (IT)
 
-*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djandi-de/)*
+*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djandi-de/)*

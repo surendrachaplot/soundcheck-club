@@ -1,6 +1,6 @@
 # Badly Drawn Banana
 
-Badly Drawn Banana is a Garage and Jungle artist with 1 upcoming club date listed on soundcheck as of Thu, 17 Sept 2026, next at Four Quarters, London on Thu, 1 Oct 2026.
+Badly Drawn Banana is a Garage and Jungle artist with 1 upcoming club date listed on soundcheck as of Fri, 18 Sept 2026, next at Four Quarters, London on Thu, 1 Oct 2026.
 
 Badly Drawn Banana is a garage and jungle artist based in United Kingdom, tracked on soundcheck, with 12 sets logged across London. Often billed alongside sbfmRADIO, Steeziskey and Hickey. Next up: Four Quarters, London on Thu 1 Oct.
 
@@ -25,4 +25,4 @@ Badly Drawn Banana is a garage and jungle artist based in United Kingdom, tracke
 
 sbfmRADIO, Steeziskey, Hickey
 
-*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/badlydrawnbanana/)*
+*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/badlydrawnbanana/)*

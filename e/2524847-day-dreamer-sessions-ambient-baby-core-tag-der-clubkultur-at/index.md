@@ -1,6 +1,6 @@
 # DAY DREAMER SESSIONS × AMBIENT BABY: CORE - TAG DER CLUBKULTUR at Zemin Art Gallery
 
-DAY DREAMER SESSIONS × AMBIENT BABY: CORE - TAG DER CLUBKULTUR at Zemin Art Gallery on Sun 4 Oct, Berlin. 1 act on the bill: Joa Luna. Ambient and Electronica. Preview the line-up and save it on soundcheck.
+DAY DREAMER SESSIONS × AMBIENT BABY: CORE - TAG DER CLUBKULTUR at Zemin Art Gallery on Sun 4 Oct, Berlin. 2 acts on the bill: FridaY (DE) and Joa Luna. Ambient and Electronica. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ DAY DREAMER SESSIONS × AMBIENT BABY: CORE - TAG DER CLUBKULTUR at Zemin Art Gal
 
 ## Line-up
 
+- FridaY (DE)
 - Joa Luna
 
 *Source: [soundcheck](https://soundcheck.club/e/2524847-day-dreamer-sessions-ambient-baby-core-tag-der-clubkultur-at/)*

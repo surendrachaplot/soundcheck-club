@@ -1,6 +1,6 @@
 # Disk Cartel
 
-Disk Cartel is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 17 Sept 2026, next at Bossa Nova Civic Club, New York City on Fri, 18 Sept 2026.
+Disk Cartel is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 18 Sept 2026, next at Bossa Nova Civic Club, New York City on Fri, 18 Sept 2026.
 
 Disk Cartel is a house and techno artist based in Germany, tracked on soundcheck, with 10 sets logged across Amsterdam, Berlin, Helsinki and Leipzig and 3 more. Often billed alongside THC, S-candalo and Byron Yeates. Next up: Bossa Nova Civic Club, Newyorkcity on Fri 18 Sept.
 
@@ -25,4 +25,4 @@ Disk Cartel is a house and techno artist based in Germany, tracked on soundcheck
 
 THC, S-candalo, Byron Yeates
 
-*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/diskcartel/)*
+*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/diskcartel/)*

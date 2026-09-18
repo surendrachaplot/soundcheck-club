@@ -1,6 +1,6 @@
 # Grow
 
-Grow is a music venue in London with 11 upcoming nights listed on soundcheck as of Thu, 17 Sept 2026; the next is "Rook Records: Mr Redley, Jawa Jones, Tall Nico, Alfie Panaiotis" on Fri, 18 Sept 2026.
+Grow is a music venue in London with 11 upcoming nights listed on soundcheck as of Fri, 18 Sept 2026; the next is "Rook Records: Mr Redley, Jawa Jones, Tall Nico, Alfie Panaiotis" on Fri, 18 Sept 2026.
 
 Grow is a music venue in London listed on soundcheck. 11 upcoming nights, with line-ups including Alfie Panaiotis, Bena, Chameleonas and CSGRV and 2 more. Browse upcoming dates, start times and who's playing. 98C Wallis Road; Main Yard; London E9 5LN.
 
@@ -10,7 +10,7 @@ Grow is a music venue in London listed on soundcheck. 11 upcoming nights, with l
 | --- | --- | --- |
 | Fri, 18 Sept 2026 | Rook Records: Mr Redley, Jawa Jones, Tall Nico, Alfie Panaiotis | Alfie Panaiotis, Mr. Redley, Tall Nico |
 | Sat, 19 Sept 2026 | Soul Satisfaction: Max Sinàl // Maria Hanlon | Maria Hanlon, Max Sinàl |
-| Fri, 25 Sept 2026 | DUBMERGE: Moontalk // OKAMI // THEMPRESS | Moontalk, OKAMI, THEMPRESS |
+| Fri, 25 Sept 2026 | DUBMERGE: Moontalk // OKAMI // Goh Well | Goh Well, Moontalk, OKAMI, THEMPRESS |
 | Sat, 26 Sept 2026 | Kula Collective: Sticky Dub, donwella, Zafeer | Sticky Dub, donwella |
 | Fri, 2 Oct 2026 | OONTS: Kojay B2B P-Lucas // DREY B2B Kanem // Rich B2B Last Nubian | DREY, Kanem, Kojay, Last Nubian, P-Lucas, Rich |
 | Sat, 3 Oct 2026 | Grow PRESENTS: CSGRV & DEMACQUE + SPECIAL GUEST RICK VAYO [LIVE] | CSGRV, Tapefeed |
@@ -23,4 +23,4 @@ Grow is a music venue in London listed on soundcheck. 11 upcoming nights, with l
 
 98C Wallis Road; Main Yard; London E9 5LN, London
 
-*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/grow/)*
+*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/grow/)*

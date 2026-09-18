@@ -1,6 +1,6 @@
 # Rap Saunders
 
-Rap Saunders is a House and Deep House artist with 3 upcoming club dates listed on soundcheck as of Thu, 17 Sept 2026, next at radial, London on Sat, 17 Oct 2026.
+Rap Saunders is a House and Deep House artist with 3 upcoming club dates listed on soundcheck as of Fri, 18 Sept 2026, next at radial, London on Sat, 17 Oct 2026.
 
 Rap Saunders is a house and deep house artist based in United Kingdom, tracked on soundcheck, with 22 sets logged across Edinburgh, London and Stockholm. Often billed alongside Dennis Christensen, Kojay and Will B. Next up: radial, London on Sat 17 Oct.
 
@@ -27,4 +27,4 @@ Rap Saunders is a house and deep house artist based in United Kingdom, tracked o
 
 Dennis Christensen, Kojay, Will B
 
-*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/rapsaunders/)*
+*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/rapsaunders/)*

@@ -1,6 +1,6 @@
 # Isaac Carter
 
-Isaac Carter is a House and Tech House artist with 8 upcoming club dates listed on soundcheck as of Thu, 17 Sept 2026, next at UNO MALTA, Malta on Fri, 18 Sept 2026.
+Isaac Carter is a House and Tech House artist with 8 upcoming club dates listed on soundcheck as of Fri, 18 Sept 2026, next at UNO MALTA, Malta on Fri, 18 Sept 2026.
 
 Isaac Carter is a house and tech house artist tracked on soundcheck, with 93 sets logged across Amsterdam, Bali, Berlin and Brisbane and 23 more. Often billed alongside Laidlaw, Ella Knight and Enzo Siragusa. Next up: UNO MALTA, Malta on Fri 18 Sept.
 
@@ -32,4 +32,4 @@ Isaac Carter is a house and tech house artist tracked on soundcheck, with 93 set
 
 Laidlaw, Ella Knight, Enzo Siragusa
 
-*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/isaaccarter/)*
+*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/isaaccarter/)*

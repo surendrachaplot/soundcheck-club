@@ -1,8 +1,8 @@
 # SOBs
 
-SOBs is a music venue in New York City with 15 upcoming nights listed on soundcheck as of Thu, 17 Sept 2026; the next is "Karol G Listening Party: NO ME ARREPIENTO DE SENTIR TANTO" on Fri, 18 Sept 2026.
+SOBs is a music venue in New York City with 21 upcoming nights listed on soundcheck as of Fri, 18 Sept 2026; the next is "Karol G Listening Party: NO ME ARREPIENTO DE SENTIR TANTO" on Fri, 18 Sept 2026.
 
-SOBs is a music venue in Newyorkcity listed on soundcheck. 15 upcoming nights, with line-ups including Joon and Token. Browse upcoming dates, start times and who's playing. 204 Varick Street, New York, NY 10014-4810, USA.
+SOBs is a music venue in Newyorkcity listed on soundcheck. 21 upcoming nights, with line-ups including Joon and Token. Browse upcoming dates, start times and who's playing. 204 Varick Street, New York, NY 10014-4810, USA.
 
 ## What's on
 
@@ -23,4 +23,4 @@ SOBs is a music venue in Newyorkcity listed on soundcheck. 15 upcoming nights, w
 
 204 Varick Street, New York, NY 10014-4810, USA, New York City
 
-*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/sobs/)*
+*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/sobs/)*

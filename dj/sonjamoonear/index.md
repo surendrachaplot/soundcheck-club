@@ -1,6 +1,6 @@
 # Sonja Moonear
 
-Sonja Moonear is a House and Techno artist with 7 upcoming club dates listed on soundcheck as of Thu, 17 Sept 2026, next at UNO MALTA, Malta on Fri, 18 Sept 2026.
+Sonja Moonear is a House and Techno artist with 7 upcoming club dates listed on soundcheck as of Fri, 18 Sept 2026, next at UNO MALTA, Malta on Fri, 18 Sept 2026.
 
 Sonja Moonear is a house and techno artist tracked on soundcheck, with 192 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 54 more. Often billed alongside Raresh, Ricardo Villalobos and Tomas Station. Next up: UNO MALTA, Malta on Fri 18 Sept.
 
@@ -31,4 +31,4 @@ Sonja Moonear is a house and techno artist tracked on soundcheck, with 192 sets 
 
 Raresh, Ricardo Villalobos, Tomas Station
 
-*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sonjamoonear/)*
+*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sonjamoonear/)*

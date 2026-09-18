@@ -1,6 +1,6 @@
 # Stretch
 
-Stretch is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 17 Sept 2026, next at Spkrbox, Detroit on Fri, 18 Sept 2026.
+Stretch is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 18 Sept 2026, next at Spkrbox, Detroit on Fri, 18 Sept 2026.
 
 Stretch is a house and techno artist based in South Africa, tracked on soundcheck, with 22 sets logged across Berlin, Brighton, Bristol and Detroit and 7 more. Often billed alongside Billy Daniel Bunter, Decibella and Djinn. Next up: Spkrbox, Detroit on Fri 18 Sept.
 
@@ -25,4 +25,4 @@ Stretch is a house and techno artist based in South Africa, tracked on soundchec
 
 Billy Daniel Bunter, Decibella, Djinn
 
-*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/stretch/)*
+*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/stretch/)*

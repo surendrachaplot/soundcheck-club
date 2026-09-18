@@ -1,6 +1,6 @@
 # Araña Club
 
-Araña Club is a music venue in Madrid with 3 upcoming nights listed on soundcheck as of Thu, 17 Sept 2026; the next is "ORGANIC COMMUNITY: OPENING SEASON (Tickets Fourvenues)" on Fri, 18 Sept 2026.
+Araña Club is a music venue in Madrid with 3 upcoming nights listed on soundcheck as of Fri, 18 Sept 2026; the next is "ORGANIC COMMUNITY: OPENING SEASON (Tickets Fourvenues)" on Fri, 18 Sept 2026.
 
 Araña Club is a music venue in Madrid listed on soundcheck. 3 upcoming nights, with line-ups including DISTORT (ES), NETN, Theia Daja and Tina Technotic and 1 more. Browse upcoming dates, start times and who's playing. Madrid, Centro 28013, Calle Flor Baja 6, , Madrid.
 
@@ -16,4 +16,4 @@ Araña Club is a music venue in Madrid listed on soundcheck. 3 upcoming nights, 
 
 Madrid, Centro 28013, Calle Flor Baja 6, , Madrid, Madrid
 
-*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/ara-a-club/)*
+*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/ara-a-club/)*

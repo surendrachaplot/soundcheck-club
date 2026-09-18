@@ -1,6 +1,6 @@
 # Villa Viva
 
-Villa Viva is a music venue in Hamburg with 2 upcoming nights listed on soundcheck as of Thu, 17 Sept 2026; the next is "Frame Sommer Closing" on Fri, 18 Sept 2026.
+Villa Viva is a music venue in Hamburg with 2 upcoming nights listed on soundcheck as of Fri, 18 Sept 2026; the next is "Frame Sommer Closing /W Alexej, JASHTECH, VI:LA, Mr. Maggio" on Fri, 18 Sept 2026.
 
 Villa Viva is a music venue in Hamburg listed on soundcheck. 2 upcoming nights, with line-ups including Alexej, JASHTECH and Mr. Maggio. Browse upcoming dates, start times and who's playing. Schultzweg 4, 20097 Hamburg, Germany.
 
@@ -8,11 +8,11 @@ Villa Viva is a music venue in Hamburg listed on soundcheck. 2 upcoming nights, 
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 18 Sept 2026 | Frame Sommer Closing | Alexej, JASHTECH, Mr. Maggio |
+| Fri, 18 Sept 2026 | Frame Sommer Closing /W Alexej, JASHTECH, VI:LA, Mr. Maggio | Alexej, JASHTECH, Mr. Maggio |
 | Sat, 19 Sept 2026 | NINA HEPBURN - ALL DAY LONG - OPEN AIR |  |
 
 ## Address
 
 Schultzweg 4, 20097 Hamburg, Germany, Hamburg
 
-*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/hamburg/club/villa-viva/)*
+*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/hamburg/club/villa-viva/)*

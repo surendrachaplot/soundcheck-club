@@ -1,6 +1,6 @@
 # Cristoph
 
-Cristoph is a Techno and Progressive House artist with 4 upcoming club dates listed on soundcheck as of Thu, 17 Sept 2026, next at Klein Phönix, Istanbul on Fri, 25 Sept 2026.
+Cristoph is a Techno and Progressive House artist with 4 upcoming club dates listed on soundcheck as of Fri, 18 Sept 2026, next at Klein Phönix, Istanbul on Fri, 25 Sept 2026.
 
 Cristoph is a techno and progressive house artist tracked on soundcheck, with 144 sets logged across Auckland, Austin, Bali and Berlin and 34 more. Often billed alongside Eric Prydz, Adam Beyer and Patrick Topping. Next up: Klein Phönix, Istanbul on Fri 25 Sept.
 
@@ -28,4 +28,4 @@ Cristoph is a techno and progressive house artist tracked on soundcheck, with 14
 
 Eric Prydz, Adam Beyer, Patrick Topping
 
-*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/cristoph/)*
+*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/cristoph/)*

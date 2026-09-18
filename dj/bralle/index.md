@@ -1,6 +1,6 @@
 # BRALLE
 
-BRALLE is a Techno and Minimal Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 17 Sept 2026, next at Berghain | Panorama Bar | Säule, Berlin on Thu, 8 Oct 2026.
+BRALLE is a Techno and Minimal Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 18 Sept 2026, next at Berghain | Panorama Bar | Säule, Berlin on Thu, 8 Oct 2026.
 
 BRALLE is a techno and minimal techno artist based in United States of America, tracked on soundcheck, with 19 sets logged across Barcelona, Berlin, Buenosaires and Denver and 7 more. Often billed alongside Annie Lew, Lindsey Herbert and A.M.D.. Next up: Berghain | Panorama Bar | Säule, Berlin on Thu 8 Oct.
 
@@ -26,4 +26,4 @@ BRALLE is a techno and minimal techno artist based in United States of America, 
 
 Annie Lew, Lindsey Herbert, A.M.D.
 
-*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bralle/)*
+*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bralle/)*

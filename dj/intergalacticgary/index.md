@@ -1,6 +1,6 @@
 # Intergalactic Gary
 
-Intergalactic Gary is a Disco and Techno artist with 6 upcoming club dates listed on soundcheck as of Thu, 17 Sept 2026, next at Berghain | Panorama Bar | Säule, Berlin on Fri, 18 Sept 2026.
+Intergalactic Gary is a Disco and Techno artist with 6 upcoming club dates listed on soundcheck as of Fri, 18 Sept 2026, next at Berghain | Panorama Bar | Säule, Berlin on Fri, 18 Sept 2026.
 
 Intergalactic Gary is a disco and techno artist tracked on soundcheck, with 65 sets logged across Amsterdam, Antwerp, Athens and Belgrade and 16 more. Often billed alongside I-F, Marsman and Mowgli (NL). Next up: Berghain | Panorama Bar | Säule, Berlin on Fri 18 Sept.
 
@@ -30,4 +30,4 @@ Intergalactic Gary is a disco and techno artist tracked on soundcheck, with 65 s
 
 I-F, Marsman, Mowgli (NL)
 
-*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/intergalacticgary/)*
+*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/intergalacticgary/)*

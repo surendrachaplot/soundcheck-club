@@ -1,8 +1,8 @@
 # nowah
 
-nowah is a Bass and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 17 Sept 2026, next at Eastern Bloc Records, Manchester on Thu, 8 Oct 2026.
+nowah is a Bass and Techno artist with 3 upcoming club dates listed on soundcheck as of Fri, 18 Sept 2026, next at Eastern Bloc Records, Manchester on Thu, 8 Oct 2026.
 
-nowah is a bass and techno artist tracked on soundcheck, with 15 sets logged across London and Manchester. Often billed alongside MURGA, Gwardy and Zivvy. Next up: Eastern Bloc Records, Manchester on Thu 8 Oct.
+nowah is a bass and techno artist tracked on soundcheck, with 16 sets logged across London and Manchester. Often billed alongside MURGA, Gwardy and Zivvy. Next up: Eastern Bloc Records, Manchester on Thu 8 Oct.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ nowah is a bass and techno artist tracked on soundcheck, with 15 sets logged acr
 | --- | --- | --- |
 | Thu, 8 Oct 2026 | Eastern Bloc Records | Manchester |
 | Thu, 22 Oct 2026 | M.O.T | London |
+| Fri, 6 Nov 2026 | Soup | Manchester |
 
 ## Recently played
 
@@ -26,4 +27,4 @@ nowah is a bass and techno artist tracked on soundcheck, with 15 sets logged acr
 
 MURGA, Gwardy, Zivvy
 
-*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nowah/)*
+*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nowah/)*

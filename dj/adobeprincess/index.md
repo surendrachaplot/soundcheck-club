@@ -1,8 +1,8 @@
 # adobeprincess
 
-adobeprincess is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Thu, 17 Sept 2026, next at Signal, New York City on Fri, 25 Sept 2026.
+adobeprincess is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Fri, 18 Sept 2026, next at Signal, New York City on Fri, 25 Sept 2026.
 
-adobeprincess is a techno and house artist tracked on soundcheck, with 60 sets logged across Berlin, Brussels, Dublin and London and 9 more. Often billed alongside Jek (US), deep creep and djfix. Next up: Signal, Newyorkcity on Fri 25 Sept.
+adobeprincess is a techno and house artist tracked on soundcheck, with 61 sets logged across Berlin, Brussels, Dublin and London and 9 more. Often billed alongside Jek (US), deep creep and djfix. Next up: Signal, Newyorkcity on Fri 25 Sept.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ adobeprincess is a techno and house artist tracked on soundcheck, with 60 sets l
 | Fri, 25 Sept 2026 | Signal | New York City |
 | Fri, 9 Oct 2026 | Good Room | New York City |
 | Fri, 16 Oct 2026 | public records | New York City |
+| Sat, 31 Oct 2026 | TBA - East Williamsburg | New York City |
 | Fri, 4 Dec 2026 | Uus Laine | Tallinn |
 
 ## Recently played
@@ -28,4 +29,4 @@ adobeprincess is a techno and house artist tracked on soundcheck, with 60 sets l
 
 Jek (US), deep creep, djfix
 
-*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/adobeprincess/)*
+*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/adobeprincess/)*

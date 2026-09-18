@@ -1,6 +1,6 @@
 # Carlos Regadas
 
-Carlos Regadas is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Thu, 17 Sept 2026, next at Carmo Rooftop, Lisbon on Sun, 20 Sept 2026.
+Carlos Regadas is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Fri, 18 Sept 2026, next at Carmo Rooftop, Lisbon on Sun, 20 Sept 2026.
 
 Carlos Regadas is a house and minimal artist based in Portugal, tracked on soundcheck, with 38 sets logged across Barcelona, Lisbon and Porto. Often billed alongside Pedro Tabuada, DJ Nox and 9T2. Next up: Carmo Rooftop, Lisbon on Sun 20 Sept.
 
@@ -25,4 +25,4 @@ Carlos Regadas is a house and minimal artist based in Portugal, tracked on sound
 
 Pedro Tabuada, DJ Nox, 9T2
 
-*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/carlosregadas/)*
+*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/carlosregadas/)*

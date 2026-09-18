@@ -1,6 +1,6 @@
 # David Morales
 
-David Morales is a House and Disco artist with 13 upcoming club dates listed on soundcheck as of Thu, 17 Sept 2026, next at Amnesia Ibiza, Ibiza on Sat, 19 Sept 2026.
+David Morales is a House and Disco artist with 13 upcoming club dates listed on soundcheck as of Fri, 18 Sept 2026, next at Amnesia Ibiza, Ibiza on Sat, 19 Sept 2026.
 
 David Morales is a house and disco artist tracked on soundcheck, with 198 sets logged across Amsterdam, Athens, Bangkok and Basel and 39 more. Often billed alongside Melvo Baptiste, Louie Vega and Todd Terry. Next up: Amnesia Ibiza, Ibiza on Sat 19 Sept.
 
@@ -36,4 +36,4 @@ David Morales is a house and disco artist tracked on soundcheck, with 198 sets l
 
 Melvo Baptiste, Louie Vega, Todd Terry
 
-*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/davidmorales/)*
+*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/davidmorales/)*

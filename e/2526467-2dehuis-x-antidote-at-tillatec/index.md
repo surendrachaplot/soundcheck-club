@@ -1,6 +1,6 @@
 # 2DEHUIS X ANTIDOTE at TILLATEC
 
-2DEHUIS X ANTIDOTE at TILLATEC on Sat 26 Sept, Amsterdam. 8 acts on the bill: Connor Wall, Kameliia, Luigi Madonna and PHARRISM and 4 more. Techno. Preview the line-up and save it on soundcheck.
+2DEHUIS X ANTIDOTE at TILLATEC on Sat 26 Sept, Amsterdam. 9 acts on the bill: Connor Wall, Kameliia, Luigi Madonna and Mystral and 5 more. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -13,6 +13,7 @@
 - Connor Wall
 - Kameliia
 - Luigi Madonna
+- Mystral
 - PHARRISM
 - Rebecca Delle Piane
 - THEBODYKNOWS

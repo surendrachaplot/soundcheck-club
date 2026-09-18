@@ -1,8 +1,8 @@
 # Kater
 
-Kater is a music venue in Berlin with 15 upcoming nights listed on soundcheck as of Thu, 17 Sept 2026; the next is "Praerie Festival Reboot" on Fri, 18 Sept 2026.
+Kater is a music venue in Berlin with 16 upcoming nights listed on soundcheck as of Fri, 18 Sept 2026; the next is "Praerie Festival Reboot" on Fri, 18 Sept 2026.
 
-Kater is a music venue in Berlin listed on soundcheck. 15 upcoming nights, with line-ups including AALIYAH, A.D.H.S., Adri Tüde and Agustin Giri and 2 more. Browse upcoming dates, start times and who's playing. Holzmarktstrasse 25, 10243 Berlin.
+Kater is a music venue in Berlin listed on soundcheck. 16 upcoming nights, with line-ups including AALIYAH, A.D.H.S., Adri Tüde and Agustin Giri and 2 more. Browse upcoming dates, start times and who's playing. Holzmarktstrasse 25, 10243 Berlin.
 
 ## What's on
 
@@ -17,10 +17,10 @@ Kater is a music venue in Berlin listed on soundcheck. 15 upcoming nights, with 
 | Fri, 16 Oct 2026 | Kater x 23XI | Ana Molina, Black Mirror Park, Chris Ku, KENZA, Lydia Eisenblätter, Meat, Spencer Parker |
 | Sat, 17 Oct 2026 | Katernacht with Magda, Redfreya, Tripmastaz, Alexkid + more | Alessia Ceruti, Alexkid, DASH (SLO), Jimmie, Joséphine de Retour, Magda, Peter Schumann, Redfreya, Stella Fiore, Tripmastaz |
 | Fri, 23 Oct 2026 | Kater x Iptamenos Discos | ATTA, Alejandro Paz, Duncan Thomas, Jeremy Reinhard, Kotelett, Local Suicide, Ludmila Houben, sianza |
-| Sat, 24 Oct 2026 | Katernacht with Confidential Recipe, Viikatory, E-Talking, Franz Scala + more | Clemente (DE), Confidential Recipe, E-Talking, Franz Scala, Juan Ferreyra, Juli Gago, Maltitz, Moretz, Viikatory |
+| Sat, 24 Oct 2026 | Katernacht with Confidential Recipe, Viikatory, E-Talking, Franz Scala + more | Charlie Vaux, Clemente (DE), Confidential Recipe, E-Talking, Franz Scala, Juan Ferreyra, Juli Gago, Maltitz, Moretz, Viikatory |
 
 ## Address
 
 Holzmarktstrasse 25, 10243 Berlin, Berlin
 
-*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/kater/)*
+*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/kater/)*

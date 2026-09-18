@@ -1,6 +1,6 @@
 # New Era sessions - Local Legends All Night Long - Comrade Winston - 12 hours vinyl at ISOamsterdam
 
-New Era sessions - Local Legends All Night Long - Comrade Winston - 12 hours vinyl at ISOamsterdam on Sat 3 Oct, Amsterdam. 1 act on the bill: Comrade Winston. Techno. Preview the line-up and save it on soundcheck.
+New Era sessions - Local Legends All Night Long - Comrade Winston - 12 hours vinyl at ISOamsterdam on Sat 3 Oct, Amsterdam. 1 act on the bill: Comrade Winston. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Groovemami
 
-Groovemami is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 17 Sept 2026, next at Core, Madrid on Sat, 19 Sept 2026.
+Groovemami is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 18 Sept 2026, next at Core, Madrid on Sat, 19 Sept 2026.
 
 Groovemami is a house and techno artist based in Spain, tracked on soundcheck, with 22 sets logged across Barcelona and Madrid. Often billed alongside CH3LO, Rozzer and 00kYx!!. Next up: Core, Madrid on Sat 19 Sept.
 
@@ -26,4 +26,4 @@ Groovemami is a house and techno artist based in Spain, tracked on soundcheck, w
 
 CH3LO, Rozzer, 00kYx!!
 
-*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/groovemami/)*
+*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/groovemami/)*

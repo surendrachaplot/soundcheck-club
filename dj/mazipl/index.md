@@ -1,6 +1,6 @@
 # Mazi (PL)
 
-Mazi (PL) is a House and Drum & Bass artist with 1 upcoming club date listed on soundcheck as of Thu, 17 Sept 2026, next at OCZKI, Warsaw on Sat, 19 Sept 2026.
+Mazi (PL) is a House and Drum & Bass artist with 1 upcoming club date listed on soundcheck as of Fri, 18 Sept 2026, next at OCZKI, Warsaw on Sat, 19 Sept 2026.
 
 Mazi (PL) is a house and drum & bass artist tracked on soundcheck, with 28 sets logged across Warsaw. Often billed alongside GiGi (PL), Korenberg and WEIKUM. Next up: OCZKI, Warsaw on Sat 19 Sept.
 
@@ -25,4 +25,4 @@ Mazi (PL) is a house and drum & bass artist tracked on soundcheck, with 28 sets 
 
 GiGi (PL), Korenberg, WEIKUM
 
-*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mazipl/)*
+*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mazipl/)*

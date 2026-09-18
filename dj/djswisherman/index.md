@@ -1,14 +1,13 @@
 # DJ SWISHERMAN
 
-DJ SWISHERMAN is a Techno and House artist with 12 upcoming club dates listed on soundcheck as of Thu, 17 Sept 2026, next at Mondo, Madrid on Thu, 17 Sept 2026.
+DJ SWISHERMAN is a Techno and House artist with 11 upcoming club dates listed on soundcheck as of Fri, 18 Sept 2026, next at Mondo, Madrid on Thu, 24 Sept 2026.
 
-DJ SWISHERMAN is a techno and house artist tracked on soundcheck, with 125 sets logged across Amsterdam, Antwerp, Barcelona and Belfast and 28 more. Often billed alongside Gerardo Niva, RUIZ OSC1 and Benwal. Next up: Mondo, Madrid on Thu 17 Sept.
+DJ SWISHERMAN is a techno and house artist tracked on soundcheck, with 125 sets logged across Amsterdam, Antwerp, Barcelona and Belfast and 28 more. Often billed alongside Gerardo Niva, RUIZ OSC1 and Benwal. Next up: Mondo, Madrid on Thu 24 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Thu, 17 Sept 2026 | Mondo | Madrid |
 | Thu, 24 Sept 2026 | Mondo | Madrid |
 | Sat, 26 Sept 2026 | Preston Warehouse | Melbourne |
 | Sat, 3 Oct 2026 | Mondo Open Air | Madrid |
@@ -23,6 +22,7 @@ DJ SWISHERMAN is a techno and house artist tracked on soundcheck, with 125 sets 
 
 ## Recently played
 
+- Mondo, Madrid — Thu, 17 Sept 2026
 - Mondo, Madrid — Thu, 27 Aug 2026
 - Mondo, Madrid — Thu, 20 Aug 2026
 - Rote Sonne, Munich — Fri, 14 Aug 2026
@@ -30,10 +30,9 @@ DJ SWISHERMAN is a techno and house artist tracked on soundcheck, with 125 sets 
 - Mondo, Madrid — Sat, 8 Aug 2026
 - Else, Berlin — Fri, 31 Jul 2026
 - Mondo, Madrid — Sat, 25 Jul 2026
-- Mondo Open Air, Madrid — Sat, 20 Jun 2026
 
 ## Shares bills with
 
 Gerardo Niva, RUIZ OSC1, Benwal
 
-*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djswisherman/)*
+*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djswisherman/)*

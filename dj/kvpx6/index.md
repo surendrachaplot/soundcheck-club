@@ -1,6 +1,6 @@
 # kvpx6
 
-kvpx6 is a Drum & Bass and Electronica artist with 1 upcoming club date listed on soundcheck as of Thu, 17 Sept 2026, next at Przystań Kawiarnia, Warsaw on Sat, 19 Sept 2026.
+kvpx6 is a Drum & Bass and Electronica artist with 1 upcoming club date listed on soundcheck as of Fri, 18 Sept 2026, next at Przystań Kawiarnia, Warsaw on Sat, 19 Sept 2026.
 
 kvpx6 is a drum & bass and electronica artist tracked on soundcheck, with 6 sets logged across Krakow and Warsaw. Often billed alongside zuzaOK and I Say Mikey. Next up: Przystań Kawiarnia, Warsaw on Sat 19 Sept.
 
@@ -22,4 +22,4 @@ kvpx6 is a drum & bass and electronica artist tracked on soundcheck, with 6 sets
 
 zuzaOK, I Say Mikey
 
-*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kvpx6/)*
+*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kvpx6/)*

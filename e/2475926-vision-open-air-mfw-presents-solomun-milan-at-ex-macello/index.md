@@ -1,6 +1,6 @@
 # VISION open air MFW presents Solomun Milan at Ex Macello
 
-VISION open air MFW presents Solomun Milan at Ex Macello on Sat 26 Sept, Milan. 1 act on the bill: Solomun. Preview the line-up and save it on soundcheck.
+VISION open air MFW presents Solomun Milan at Ex Macello on Sat 26 Sept, Milan. 2 acts on the bill: Fedele and Solomun. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ VISION open air MFW presents Solomun Milan at Ex Macello on Sat 26 Sept, Milan. 
 
 ## Line-up
 
+- Fedele
 - Solomun
 
 *Source: [soundcheck](https://soundcheck.club/e/2475926-vision-open-air-mfw-presents-solomun-milan-at-ex-macello/)*

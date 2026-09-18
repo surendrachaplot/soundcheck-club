@@ -1,8 +1,8 @@
 # Distillery N17
 
-Distillery N17 is a music venue in London with 16 upcoming nights listed on soundcheck as of Thu, 17 Sept 2026; the next is "Planet Techno present: Biri's 50th Birthday celebration" on Fri, 18 Sept 2026.
+Distillery N17 is a music venue in London with 17 upcoming nights listed on soundcheck as of Fri, 18 Sept 2026; the next is "Planet Techno present: Biri's 50th Birthday celebration" on Fri, 18 Sept 2026.
 
-Distillery N17 is a music venue in London listed on soundcheck. 16 upcoming nights, with line-ups including 69DB, Acerbic, Acid Steve and Adam Pits and 2 more. Browse upcoming dates, start times and who's playing. Unit 25, Millmead Industrial Estate.
+Distillery N17 is a music venue in London listed on soundcheck. 17 upcoming nights, with line-ups including 69DB, Acerbic, Acid Steve and Adam Pits and 2 more. Browse upcoming dates, start times and who's playing. Unit 25, Millmead Industrial Estate.
 
 ## What's on
 
@@ -23,4 +23,4 @@ Distillery N17 is a music venue in London listed on soundcheck. 16 upcoming nigh
 
 Unit 25, Millmead Industrial Estate, London
 
-*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/distillery-n17/)*
+*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/distillery-n17/)*

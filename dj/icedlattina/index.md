@@ -1,14 +1,15 @@
 # iced lattina
 
-iced lattina is a Club and Experimental artist with 2 upcoming club dates listed on soundcheck as of Thu, 17 Sept 2026, next at La Station - Gare des Mines, Paris on Fri, 18 Sept 2026.
+iced lattina is a Club and Experimental artist with 3 upcoming club dates listed on soundcheck as of Fri, 18 Sept 2026, next at La Station - Gare des Mines, Paris on Fri, 18 Sept 2026.
 
-iced lattina is a club and experimental artist based in Portugal, tracked on soundcheck, with 52 sets logged across Amsterdam, Antwerp, Belgrade and Berlin and 10 more. Often billed alongside VINESSETT, Brodinski and Dangermami. Next up: La Station - Gare des Mines, Paris on Fri 18 Sept.
+iced lattina is a club and experimental artist based in Portugal, tracked on soundcheck, with 53 sets logged across Amsterdam, Antwerp, Belgrade and Berlin and 10 more. Often billed alongside VINESSETT, Brodinski and Dangermami. Next up: La Station - Gare des Mines, Paris on Fri 18 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 18 Sept 2026 | La Station - Gare des Mines | Paris |
+| Wed, 21 Oct 2026 | Garage Noord | Amsterdam |
 | Sat, 31 Oct 2026 | Strange Brew | Bristol |
 
 ## Recently played
@@ -26,4 +27,4 @@ iced lattina is a club and experimental artist based in Portugal, tracked on sou
 
 VINESSETT, Brodinski, Dangermami
 
-*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/icedlattina/)*
+*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/icedlattina/)*

@@ -1,13 +1,14 @@
 # Paty Vapor
 
-Paty Vapor is a EBM and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 17 Sept 2026, next at Fuse, Brussels on Sat, 17 Oct 2026.
+Paty Vapor is a EBM and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 18 Sept 2026, next at Sameheads, Berlin on Fri, 16 Oct 2026.
 
-Paty Vapor is an ebm and techno artist based in Brazil, tracked on soundcheck, with 86 sets logged across Barcelona, Berlin, Brussels and Buenosaires and 9 more. Often billed alongside Paty, Franz Scala and Berlin Bunny. Next up: Fuse, Brussels on Sat 17 Oct.
+Paty Vapor is an ebm and techno artist based in Brazil, tracked on soundcheck, with 87 sets logged across Barcelona, Berlin, Brussels and Buenosaires and 9 more. Often billed alongside Paty, Franz Scala and Melanie Havens. Next up: Sameheads, Berlin on Fri 16 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 16 Oct 2026 | Sameheads | Berlin |
 | Sat, 17 Oct 2026 | Fuse | Brussels |
 
 ## Recently played
@@ -23,6 +24,6 @@ Paty Vapor is an ebm and techno artist based in Brazil, tracked on soundcheck, w
 
 ## Shares bills with
 
-Paty, Franz Scala, Berlin Bunny
+Paty, Franz Scala, Melanie Havens
 
-*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/patyvapor/)*
+*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/patyvapor/)*

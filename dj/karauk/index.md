@@ -1,6 +1,6 @@
 # Kara (UK)
 
-Kara (UK) is a Drum & Bass and Jungle artist with 4 upcoming club dates listed on soundcheck as of Thu, 17 Sept 2026, next at The Clock Factory, Bristol on Fri, 18 Sept 2026.
+Kara (UK) is a Drum & Bass and Jungle artist with 4 upcoming club dates listed on soundcheck as of Fri, 18 Sept 2026, next at The Clock Factory, Bristol on Fri, 18 Sept 2026.
 
 Kara (UK) is a drum & bass and jungle artist tracked on soundcheck, with 64 sets logged across Amsterdam, Bangkok, Birmingham and Brighton and 22 more. Often billed alongside Dillinja, IC3 and K Motionz. Next up: The Clock Factory, Bristol on Fri 18 Sept.
 
@@ -28,4 +28,4 @@ Kara (UK) is a drum & bass and jungle artist tracked on soundcheck, with 64 sets
 
 Dillinja, IC3, K Motionz
 
-*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/karauk/)*
+*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/karauk/)*

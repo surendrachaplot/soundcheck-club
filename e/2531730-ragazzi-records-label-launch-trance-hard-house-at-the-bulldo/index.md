@@ -1,6 +1,6 @@
 # RAGAZZI Records - Label Launch [TRANCE / HARD HOUSE] at The Bulldog Palace
 
-RAGAZZI Records - Label Launch [TRANCE / HARD HOUSE] at The Bulldog Palace on Sat 24 Oct, Amsterdam. 4 acts on the bill: O/H/M, OnlyWithYou, Shake Daddy and snoritz. Trance and House. Preview the line-up and save it on soundcheck.
+RAGAZZI Records - Label Launch [TRANCE / HARD HOUSE] at The Bulldog Palace on Sat 24 Oct, Amsterdam. 6 acts on the bill: HOESEPHINE, O/H/M, OnlyWithYou and Shake Daddy and 2 more. Trance and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,9 +10,11 @@ RAGAZZI Records - Label Launch [TRANCE / HARD HOUSE] at The Bulldog Palace on Sa
 
 ## Line-up
 
+- HOESEPHINE
 - O/H/M
 - OnlyWithYou
 - Shake Daddy
 - snoritz
+- Trancemaster Krause
 
 *Source: [soundcheck](https://soundcheck.club/e/2531730-ragazzi-records-label-launch-trance-hard-house-at-the-bulldo/)*

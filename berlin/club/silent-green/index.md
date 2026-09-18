@@ -1,6 +1,6 @@
 # Silent Green
 
-Silent Green is a music venue in Berlin with 24 upcoming nights listed on soundcheck as of Thu, 17 Sept 2026; the next is "Burnt Friedman pres. Secret Rhythms" on Sat, 19 Sept 2026.
+Silent Green is a music venue in Berlin with 24 upcoming nights listed on soundcheck as of Fri, 18 Sept 2026; the next is "Burnt Friedman pres. Secret Rhythms" on Sat, 19 Sept 2026.
 
 Silent Green is a music venue in Berlin listed on soundcheck. 24 upcoming nights, with line-ups including Abul Mogard, Ana Roxanne, Andriy K. and Angelo Harmsworth and 2 more. Browse upcoming dates, start times and who's playing. Gerichtstraße 35, 13347 Berlin, Germany.
 
@@ -23,4 +23,4 @@ Silent Green is a music venue in Berlin listed on soundcheck. 24 upcoming nights
 
 Gerichtstraße 35, 13347 Berlin, Germany, Berlin
 
-*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/silent-green/)*
+*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/silent-green/)*

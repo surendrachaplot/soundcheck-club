@@ -1,6 +1,6 @@
 # Odyssey
 
-Odyssey is a Techno and Club artist with 1 upcoming club date listed on soundcheck as of Thu, 17 Sept 2026, next at TBA - RSVP for free tickets + address , New York City on Sat, 19 Sept 2026.
+Odyssey is a Techno and Club artist with 1 upcoming club date listed on soundcheck as of Fri, 18 Sept 2026, next at TBA - RSVP for free tickets + address , New York City on Sat, 19 Sept 2026.
 
 Odyssey is a techno and club artist tracked on soundcheck, with 18 sets logged across Amsterdam, Manchester, Melbourne and Newyorkcity and 2 more. Often billed alongside cyb0rrrg, cybr.nova and Soo Intoit. Next up: TBA - RSVP for free tickets + address , Newyorkcity on Sat 19 Sept.
 
@@ -25,4 +25,4 @@ Odyssey is a techno and club artist tracked on soundcheck, with 18 sets logged a
 
 cyb0rrrg, cybr.nova, Soo Intoit
 
-*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/odyssey-us/)*
+*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/odyssey-us/)*

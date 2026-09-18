@@ -1,6 +1,6 @@
 # PuMp Berlin Daytime hosted by Monty Luke at OHM
 
-PuMp Berlin Daytime hosted by Monty Luke at OHM on Sat 7 Nov, Berlin. 2 acts on the bill: Anja Schneider and Monty Luke. Techno and Deep House. Preview the line-up and save it on soundcheck.
+PuMp Berlin Daytime hosted by Monty Luke at OHM on Sat 7 Nov, Berlin. 3 acts on the bill: Anja Schneider, Kat Davids and Monty Luke. Techno and Deep House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,6 +11,7 @@ PuMp Berlin Daytime hosted by Monty Luke at OHM on Sat 7 Nov, Berlin. 2 acts on 
 ## Line-up
 
 - Anja Schneider
+- Kat Davids
 - Monty Luke
 
 *Source: [soundcheck](https://soundcheck.club/e/2479508-pump-berlin-daytime-hosted-by-monty-luke-at-ohm/)*

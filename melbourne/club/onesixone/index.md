@@ -1,14 +1,13 @@
 # OneSixOne
 
-OneSixOne is a music venue in Melbourne with 8 upcoming nights listed on soundcheck as of Thu, 17 Sept 2026; the next is "Coupla Selectaz + Deep Cargo & Friends - onesixone Thursday's" on Thu, 17 Sept 2026.
+OneSixOne is a music venue in Melbourne with 7 upcoming nights listed on soundcheck as of Fri, 18 Sept 2026; the next is "Somersault - onesixone" on Fri, 18 Sept 2026.
 
-OneSixOne is a music venue in Melbourne listed on soundcheck. 8 upcoming nights, with line-ups including Adam Trace, Agent 86, Amber Ferraro and Cara Murphy and 2 more. Browse upcoming dates, start times and who's playing. 161 High St; Prahran, VIC 3181; Australia.
+OneSixOne is a music venue in Melbourne listed on soundcheck. 7 upcoming nights, with line-ups including Adam Trace, Agent 86, Amber Ferraro and Cara Murphy and 2 more. Browse upcoming dates, start times and who's playing. 161 High St; Prahran, VIC 3181; Australia.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Thu, 17 Sept 2026 | Coupla Selectaz + Deep Cargo & Friends - onesixone Thursday's | Crozier, Jordan Corey |
 | Fri, 18 Sept 2026 | Somersault - onesixone | Adam Trace, Amber Ferraro, Jay Ramon, Somersault |
 | Sat, 19 Sept 2026 | Audio Porn - onesixone Saturday's | Agent 86, Cara Murphy, Jay Ramon |
 | Thu, 24 Sept 2026 | International Guest (TBA) - Public Holiday Eve at onesixone | Adam Trace, Amber Ferraro, Cara Murphy, Jay Ramon |
@@ -21,4 +20,4 @@ OneSixOne is a music venue in Melbourne listed on soundcheck. 8 upcoming nights,
 
 161 High St; Prahran, VIC 3181; Australia, Melbourne
 
-*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/onesixone/)*
+*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/onesixone/)*

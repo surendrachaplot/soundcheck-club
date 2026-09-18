@@ -1,6 +1,6 @@
 # Spencer FM
 
-Spencer FM is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 17 Sept 2026, next at TBA - Out ‘n’ About Treesort, Portland on Thu, 24 Sept 2026.
+Spencer FM is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 18 Sept 2026, next at TBA - Out ‘n’ About Treesort, Portland on Thu, 24 Sept 2026.
 
 Spencer FM is a house and techno artist based in United States of America, tracked on soundcheck, with 6 sets logged across Portland and Tokyo. Often billed alongside Aaron Davis, Andy Warren and DJ DISSOLVE. Next up: TBA - Out ‘n’ About Treesort, Portland on Thu 24 Sept.
 
@@ -22,4 +22,4 @@ Spencer FM is a house and techno artist based in United States of America, track
 
 Aaron Davis, Andy Warren, DJ DISSOLVE
 
-*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/spencerfm/)*
+*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/spencerfm/)*

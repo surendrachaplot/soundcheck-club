@@ -1,6 +1,6 @@
 # RosieCpt
 
-RosieCpt is a Minimal and Downtempo artist with 1 upcoming club date listed on soundcheck as of Thu, 17 Sept 2026, next at Jolene, Copenhagen on Sat, 19 Sept 2026.
+RosieCpt is a Minimal and Downtempo artist with 1 upcoming club date listed on soundcheck as of Fri, 18 Sept 2026, next at Jolene, Copenhagen on Sat, 19 Sept 2026.
 
 RosieCpt is a minimal and downtempo artist based in Italy, tracked on soundcheck, with 16 sets logged across Berlin, Copenhagen and Rome. Often billed alongside Appleblim, Dalga and Travis or Alice. Next up: Jolene, Copenhagen on Sat 19 Sept.
 
@@ -25,4 +25,4 @@ RosieCpt is a minimal and downtempo artist based in Italy, tracked on soundcheck
 
 Appleblim, Dalga, Travis or Alice
 
-*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/rosiecpt-it/)*
+*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/rosiecpt-it/)*

@@ -1,6 +1,6 @@
 # Denzel
 
-Denzel is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 17 Sept 2026, next at Signal, New York City on Fri, 18 Sept 2026.
+Denzel is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 18 Sept 2026, next at Signal, New York City on Fri, 18 Sept 2026.
 
 Denzel is a techno and house artist based in Finland, tracked on soundcheck, with 114 sets logged across Amsterdam, Berlin, Bristol and Helsinki and 8 more. Often billed alongside Joni DJ, Justus Valtanen and Daniel Kayrouz. Next up: Signal, Newyorkcity on Fri 18 Sept.
 
@@ -26,4 +26,4 @@ Denzel is a techno and house artist based in Finland, tracked on soundcheck, wit
 
 Joni DJ, Justus Valtanen, Daniel Kayrouz
 
-*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/denzel/)*
+*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/denzel/)*

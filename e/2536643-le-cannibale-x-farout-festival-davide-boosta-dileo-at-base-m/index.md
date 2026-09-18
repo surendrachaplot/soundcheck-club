@@ -1,10 +1,10 @@
 # Le Cannibale x Farout Festival - Davide Boosta Dileo at BASE Milano
 
-Le Cannibale x Farout Festival - Davide Boosta Dileo at BASE Milano on Sat 19 Sept, Milan. Preview the line-up and save it on soundcheck.
+Le Cannibale x Farout Festival - Davide Boosta Dileo at BASE Milano on Fri 9 Oct, Milan. Classical and Electronica. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
-| Date | Sat, 19 Sept 2026 |
+| Date | Fri, 9 Oct 2026 |
 | Venue | BASE Milano |
 | City | Milan |
 

@@ -1,6 +1,6 @@
 # CyberFairy777
 
-CyberFairy777 is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 17 Sept 2026, next at Garage Noord, Amsterdam on Fri, 18 Sept 2026.
+CyberFairy777 is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 18 Sept 2026, next at Garage Noord, Amsterdam on Fri, 18 Sept 2026.
 
 CyberFairy777 is a techno and house artist tracked on soundcheck, with 31 sets logged across Amsterdam, Frankfurt, London and Rotterdam and 1 more. Often billed alongside Slimfit, DEROZAN and HyperLili. Next up: Garage Noord, Amsterdam on Fri 18 Sept.
 
@@ -25,4 +25,4 @@ CyberFairy777 is a techno and house artist tracked on soundcheck, with 31 sets l
 
 Slimfit, DEROZAN, HyperLili
 
-*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/cyberfairy777/)*
+*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/cyberfairy777/)*

@@ -1,6 +1,6 @@
 # DJ Kane (1)
 
-DJ Kane (1) is a Drum & Bass and Jungle artist with 1 upcoming club date listed on soundcheck as of Thu, 17 Sept 2026, next at TAC (Tottenham Arts Collective), London on Fri, 30 Oct 2026.
+DJ Kane (1) is a Drum & Bass and Jungle artist with 1 upcoming club date listed on soundcheck as of Fri, 18 Sept 2026, next at TAC (Tottenham Arts Collective), London on Fri, 30 Oct 2026.
 
 DJ Kane (1) is a drum & bass and jungle artist based in United Kingdom, tracked on soundcheck, with 17 sets logged across London. Often billed alongside MC Gusto, Abby Daze and Congo Natty. Next up: TAC (Tottenham Arts Collective), London on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ DJ Kane (1) is a drum & bass and jungle artist based in United Kingdom, tracked 
 
 MC Gusto, Abby Daze, Congo Natty
 
-*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djkane-1/)*
+*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djkane-1/)*

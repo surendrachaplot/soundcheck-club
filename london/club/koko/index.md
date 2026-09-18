@@ -1,6 +1,6 @@
 # KOKO
 
-KOKO is a music venue in London with 16 upcoming nights listed on soundcheck as of Thu, 17 Sept 2026; the next is "KOKO Electronic: Franky Rizardo [SOLD OUT]" on Fri, 18 Sept 2026.
+KOKO is a music venue in London with 16 upcoming nights listed on soundcheck as of Fri, 18 Sept 2026; the next is "KOKO Electronic: Franky Rizardo [SOLD OUT]" on Fri, 18 Sept 2026.
 
 KOKO is a music venue in London listed on soundcheck. 16 upcoming nights, with line-ups including Yulia Niko, ARODES, Benji B and Birds of Mind and 2 more. Browse upcoming dates, start times and who's playing. 1a Camden High Street; Camden Town; London NW1 7JE; United Kingdom.
 
@@ -23,4 +23,4 @@ KOKO is a music venue in London listed on soundcheck. 16 upcoming nights, with l
 
 1a Camden High Street; Camden Town; London NW1 7JE; United Kingdom, London
 
-*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/koko/)*
+*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/koko/)*

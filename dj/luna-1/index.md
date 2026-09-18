@@ -1,8 +1,8 @@
 # Luna (1)
 
-Luna (1) is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 17 Sept 2026, next at Angel Music Bar, Melbourne on Sat, 26 Sept 2026.
+Luna (1) is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Fri, 18 Sept 2026, next at Angel Music Bar, Melbourne on Sat, 26 Sept 2026.
 
-Luna (1) is a house and techno artist tracked on soundcheck, with 35 sets logged across Amsterdam, Austin, Bangkok and Budapest and 13 more. Often billed alongside Pavo, Franky Jones and Alexander Koning. Next up: Angel Music Bar, Melbourne on Sat 26 Sept.
+Luna (1) is a house and techno artist tracked on soundcheck, with 36 sets logged across Amsterdam, Austin, Bangkok and Budapest and 14 more. Often billed alongside Pavo, Franky Jones and Alexander Koning. Next up: Angel Music Bar, Melbourne on Sat 26 Sept.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Luna (1) is a house and techno artist tracked on soundcheck, with 35 sets logged
 | --- | --- | --- |
 | Sat, 26 Sept 2026 | Angel Music Bar | Melbourne |
 | Sat, 3 Oct 2026 | Lofi | Amsterdam |
+| Sat, 17 Oct 2026 | Spin | San Diego |
 
 ## Recently played
 
@@ -26,4 +27,4 @@ Luna (1) is a house and techno artist tracked on soundcheck, with 35 sets logged
 
 Pavo, Franky Jones, Alexander Koning
 
-*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/luna-1/)*
+*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/luna-1/)*

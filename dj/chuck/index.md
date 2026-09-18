@@ -1,6 +1,6 @@
 # Chuck
 
-Chuck is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Thu, 17 Sept 2026, next at Burza #4, Prague on Sat, 19 Sept 2026.
+Chuck is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Fri, 18 Sept 2026, next at Burza #4, Prague on Sat, 19 Sept 2026.
 
 Chuck is a house and deep house artist tracked on soundcheck, with 5 sets logged across Mexicocity and Prague. Often billed alongside Icarian PB1, Adriana Roma and Azok. Next up: Burza #4, Prague on Sat 19 Sept.
 
@@ -21,4 +21,4 @@ Chuck is a house and deep house artist tracked on soundcheck, with 5 sets logged
 
 Icarian PB1, Adriana Roma, Azok
 
-*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/chuck/)*
+*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/chuck/)*

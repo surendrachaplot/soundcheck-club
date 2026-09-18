@@ -1,8 +1,8 @@
 # DESIREE (RSA)
 
-DESIREE (RSA) is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Thu, 17 Sept 2026, next at Petra Theater, Athens on Fri, 18 Sept 2026.
+DESIREE (RSA) is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Fri, 18 Sept 2026, next at Petra Theater, Athens on Fri, 18 Sept 2026.
 
-DESIREE (RSA) is a house and techno artist tracked on soundcheck, with 114 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 39 more. Often billed alongside Sossa, Âme and Carlita. Next up: Petra Theater, Athens on Fri 18 Sept.
+DESIREE (RSA) is a house and techno artist tracked on soundcheck, with 115 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 39 more. Often billed alongside Sossa, Âme and Carlita. Next up: Petra Theater, Athens on Fri 18 Sept.
 
 ## Upcoming shows
 
@@ -12,6 +12,7 @@ DESIREE (RSA) is a house and techno artist tracked on soundcheck, with 114 sets 
 | Sat, 26 Sept 2026 | KOKO | London |
 | Sat, 17 Oct 2026 | Pavilhão Carlos Lopes | Lisbon |
 | Sat, 24 Oct 2026 | NDSM Scheepsbouwloods | Amsterdam |
+| Fri, 20 Nov 2026 | Expo Santa Fe | Mexico City |
 
 ## Recently played
 
@@ -28,4 +29,4 @@ DESIREE (RSA) is a house and techno artist tracked on soundcheck, with 114 sets 
 
 Sossa, Âme, Carlita
 
-*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/desiree-rsa/)*
+*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/desiree-rsa/)*

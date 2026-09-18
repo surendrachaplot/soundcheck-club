@@ -1,6 +1,6 @@
 # Lo Ds
 
-Lo Ds is a House and Minimal Techno artist with 4 upcoming club dates listed on soundcheck as of Thu, 17 Sept 2026, next at BRET, Amsterdam on Sun, 20 Sept 2026.
+Lo Ds is a House and Minimal Techno artist with 4 upcoming club dates listed on soundcheck as of Fri, 18 Sept 2026, next at BRET, Amsterdam on Sun, 20 Sept 2026.
 
 Lo Ds is a house and minimal techno artist based in Netherlands, tracked on soundcheck, with 19 sets logged across Amsterdam, Mexicocity and Thehague. Often billed alongside Noach, Reiss and Byron Yeates. Next up: BRET, Amsterdam on Sun 20 Sept.
 
@@ -28,4 +28,4 @@ Lo Ds is a house and minimal techno artist based in Netherlands, tracked on soun
 
 Noach, Reiss, Byron Yeates
 
-*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lods/)*
+*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lods/)*

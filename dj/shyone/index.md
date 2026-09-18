@@ -1,6 +1,6 @@
 # Shy One
 
-Shy One is a House and Techno artist with 7 upcoming club dates listed on soundcheck as of Thu, 17 Sept 2026, next at Open Ground, Wuppertal on Sat, 19 Sept 2026.
+Shy One is a House and Techno artist with 7 upcoming club dates listed on soundcheck as of Fri, 18 Sept 2026, next at Open Ground, Wuppertal on Sat, 19 Sept 2026.
 
 Shy One is a house and techno artist tracked on soundcheck, with 127 sets logged across Amsterdam, Antwerp, Bali and Barcelona and 25 more. Often billed alongside Ruby Savage, NIKS and OK Williams. Next up: Open Ground, Wuppertal on Sat 19 Sept.
 
@@ -31,4 +31,4 @@ Shy One is a house and techno artist tracked on soundcheck, with 127 sets logged
 
 Ruby Savage, NIKS, OK Williams
 
-*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/shyone/)*
+*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/shyone/)*

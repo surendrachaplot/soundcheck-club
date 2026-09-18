@@ -1,6 +1,6 @@
 # Alexandra
 
-Alexandra is a House and Electro artist with 3 upcoming club dates listed on soundcheck as of Thu, 17 Sept 2026, next at control, Bucharest on Sat, 19 Sept 2026.
+Alexandra is a House and Electro artist with 3 upcoming club dates listed on soundcheck as of Fri, 18 Sept 2026, next at control, Bucharest on Sat, 19 Sept 2026.
 
 Alexandra is a house and electro artist tracked on soundcheck, with 36 sets logged across Amsterdam, Berlin, Brussels and Bucharest and 7 more. Often billed alongside DJ Slim Fit, The Apricots and Pîrvu. Next up: control, Bucharest on Sat 19 Sept.
 
@@ -27,4 +27,4 @@ Alexandra is a house and electro artist tracked on soundcheck, with 36 sets logg
 
 DJ Slim Fit, The Apricots, Pîrvu
 
-*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/alexandra/)*
+*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/alexandra/)*

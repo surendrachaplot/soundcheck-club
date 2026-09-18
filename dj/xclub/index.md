@@ -1,6 +1,6 @@
 # X CLUB.
 
-X CLUB. is a Techno and House artist with 11 upcoming club dates listed on soundcheck as of Thu, 17 Sept 2026, next at Depot Mayfield, Manchester on Fri, 18 Sept 2026.
+X CLUB. is a Techno and House artist with 11 upcoming club dates listed on soundcheck as of Fri, 18 Sept 2026, next at Depot Mayfield, Manchester on Fri, 18 Sept 2026.
 
 X CLUB. is a techno and house artist tracked on soundcheck, with 223 sets logged across Aberdeen, Amsterdam, Austin and Barcelona and 63 more. Often billed alongside KETTAMA, DJ Heartstring and VTSS. Next up: Depot Mayfield, Manchester on Fri 18 Sept.
 
@@ -35,4 +35,4 @@ X CLUB. is a techno and house artist tracked on soundcheck, with 223 sets logged
 
 KETTAMA, DJ Heartstring, VTSS
 
-*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/xclub/)*
+*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/xclub/)*

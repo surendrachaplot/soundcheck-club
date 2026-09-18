@@ -1,6 +1,6 @@
 # CC Club
 
-CC Club is a music venue in London with 1 upcoming night listed on soundcheck as of Thu, 17 Sept 2026; the next is "+1 833 246 4622 - Iberia Airlines Head Office" on Sat, 19 Sept 2026.
+CC Club is a music venue in London with 1 upcoming night listed on soundcheck as of Fri, 18 Sept 2026; the next is "+1 833 246 4622 - Iberia Airlines Head Office" on Sat, 19 Sept 2026.
 
 CC Club is a music venue in London listed on soundcheck. 1 upcoming night, with line-ups including Cleveland. Browse upcoming dates, start times and who's playing. 13 Coventry Street; Soho; London W1D 7DH; United Kingdom.
 
@@ -14,4 +14,4 @@ CC Club is a music venue in London listed on soundcheck. 1 upcoming night, with 
 
 13 Coventry Street; Soho; London W1D 7DH; United Kingdom, London
 
-*Updated Thu, 17 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/cc-club/)*
+*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/cc-club/)*
