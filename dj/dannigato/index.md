@@ -1,14 +1,15 @@
 # Danni Gato
 
-Danni Gato is a Afro House and Afro Tech artist with 2 upcoming club dates listed on soundcheck as of Sat, 19 Sept 2026, next at Praia de Esmoriz Beach, Porto on Sun, 27 Sept 2026.
+Danni Gato is a Afro House and Afro Tech artist with 3 upcoming club dates listed on soundcheck as of Sat, 19 Sept 2026, next at Praia de Esmoriz Beach, Porto on Sun, 27 Sept 2026.
 
-Danni Gato is an afro house and afro tech artist based in Portugal, tracked on soundcheck, with 17 sets logged across Amsterdam, Basel, Berlin and Lisbon and 7 more. Often billed alongside Alex Clap, Alma Negra and CASSIMM. Next up: Praia de Esmoriz Beach, Porto on Sun 27 Sept.
+Danni Gato is an afro house and afro tech artist based in Portugal, tracked on soundcheck, with 18 sets logged across Amsterdam, Basel, Berlin and Lisbon and 7 more. Often billed alongside Alex Clap, Alma Negra and CASSIMM. Next up: Praia de Esmoriz Beach, Porto on Sun 27 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sun, 27 Sept 2026 | Praia de Esmoriz Beach | Porto |
+| Fri, 16 Oct 2026 | 99 Scott Ave | New York City |
 | Sat, 24 Oct 2026 | Melkweg | Amsterdam |
 
 ## Recently played

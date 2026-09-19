@@ -9,7 +9,7 @@ Funkhaus is a music venue in Vienna listed on soundcheck. 3 upcoming gigs, with 
 | Date | Gig | Line-up |
 | --- | --- | --- |
 | Sat, 19 Sept 2026 | BRAVO invites | BALI G, Nizar Sarakbi |
-| Fri, 25 Sept 2026 | Levin goes Lightly x Institut für Schattenarbeit. | NEUER DEUTSCHER ACID |
+| Fri, 25 Sept 2026 | LIVE: Levin goes Lightly x Institut für Schattenarbeit x NEUER DEUTSCHER ACID  | NEUER DEUTSCHER ACID |
 | Fri, 18 Dec 2026 | LOVEDANCIN' Vienna | Gerd Janson, Tom Kutsche |
 
 *Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/vienna/club/funkhaus/)*

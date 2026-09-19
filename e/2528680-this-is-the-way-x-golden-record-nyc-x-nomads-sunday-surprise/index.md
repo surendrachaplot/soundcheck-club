@@ -1,6 +1,6 @@
 # This is the Way x Golden Record NYC x Nomads Sunday Surprise Cookout at Green Room NYC
 
-This is the Way x Golden Record NYC x Nomads Sunday Surprise Cookout at Green Room NYC on Sun 20 Sept, Newyorkcity. 3 acts on the bill: Gui Machado, Momo Trosman and Zayd Turk. Techno and House. Preview the line-up and save it on soundcheck.
+This is the Way x Golden Record NYC x Nomads Sunday Surprise Cookout at Green Room NYC on Sun 20 Sept, Newyorkcity. 4 acts on the bill: Gui Machado, Malika, Momo Trosman and Zayd Turk. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,6 +11,7 @@ This is the Way x Golden Record NYC x Nomads Sunday Surprise Cookout at Green Ro
 ## Line-up
 
 - Gui Machado
+- Malika
 - Momo Trosman
 - Zayd Turk
 

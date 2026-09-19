@@ -1,8 +1,8 @@
 # DRS
 
-DRS is a Drum & Bass and Jungle artist with 5 upcoming club dates listed on soundcheck as of Sat, 19 Sept 2026, next at Gretchen, Berlin on Sat, 19 Sept 2026.
+DRS is a Drum & Bass and Jungle artist with 6 upcoming club dates listed on soundcheck as of Sat, 19 Sept 2026, next at Gretchen, Berlin on Sat, 19 Sept 2026.
 
-DRS is a drum & bass and jungle artist based in United Kingdom, tracked on soundcheck, with 83 sets logged across Amsterdam, Antwerp, Auckland and Berlin and 26 more. Often billed alongside LSB, dogger and LSB (UK). Next up: Gretchen, Berlin on Sat 19 Sept.
+DRS is a drum & bass and jungle artist based in United Kingdom, tracked on soundcheck, with 84 sets logged across Amsterdam, Antwerp, Auckland and Berlin and 26 more. Often billed alongside LSB, dogger and LSB (UK). Next up: Gretchen, Berlin on Sat 19 Sept.
 
 ## Upcoming shows
 
@@ -13,6 +13,7 @@ DRS is a drum & bass and jungle artist based in United Kingdom, tracked on sound
 | Sat, 10 Oct 2026 | Ampere | Antwerp |
 | Sat, 17 Oct 2026 | Sound Machine | Toronto |
 | Fri, 11 Dec 2026 | TBA - Los Angeles (Warehouse) | Los Angeles |
+| Sat, 12 Dec 2026 | Public Works | San Francisco/Oakland |
 
 ## Recently played
 

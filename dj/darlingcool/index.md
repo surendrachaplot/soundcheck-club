@@ -1,13 +1,14 @@
 # Darling Cool
 
-Darling Cool is a House and Afro House artist with 2 upcoming club dates listed on soundcheck as of Sat, 19 Sept 2026, next at TRANSMISSION DC, Washington DC on Fri, 2 Oct 2026.
+Darling Cool is a House and Afro House artist with 3 upcoming club dates listed on soundcheck as of Sat, 19 Sept 2026, next at Mood Ring, New York City on Fri, 2 Oct 2026.
 
-Darling Cool is a house and afro house artist based in United States of America, tracked on soundcheck, with 13 sets logged across Losangeles, Newyorkcity, Philadelphia and Sanfrancisco and 1 more. Often billed alongside Chriz Javey, 2theT and Aluna. Next up: TRANSMISSION DC, Washingtondc on Fri 2 Oct.
+Darling Cool is a house and afro house artist based in United States of America, tracked on soundcheck, with 14 sets logged across Losangeles, Newyorkcity, Philadelphia and Sanfrancisco and 1 more. Often billed alongside Chriz Javey, JAMBALAYA and Joogmac. Next up: Mood Ring, Newyorkcity on Fri 2 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 2 Oct 2026 | Mood Ring | New York City |
 | Fri, 2 Oct 2026 | TRANSMISSION DC | Washington DC |
 | Sat, 10 Oct 2026 | House of Yes | New York City |
 
@@ -24,6 +25,6 @@ Darling Cool is a house and afro house artist based in United States of America,
 
 ## Shares bills with
 
-Chriz Javey, 2theT, Aluna
+Chriz Javey, JAMBALAYA, Joogmac
 
 *Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/darlingcool/)*

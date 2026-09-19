@@ -1,6 +1,6 @@
 # Kim.Qna
 
-Kim.Qna is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Sat, 19 Sept 2026, next at Casa Dao, Hong Kong on Sat, 19 Sept 2026.
+Kim.Qna is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Sat, 19 Sept 2026, next at Casa Dao, Hong Kong on Sat, 19 Sept 2026.
 
 Kim.Qna is a techno and house artist tracked on soundcheck, with 187 sets logged across Bangkok, Hongkong, Osaka and Seoul and 2 more. Often billed alongside Zeemen, DJ Funny and Gumi. Next up: Casa Dao, Hongkong on Sat 19 Sept.
 
@@ -9,7 +9,6 @@ Kim.Qna is a techno and house artist tracked on soundcheck, with 187 sets logged
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 19 Sept 2026 | Casa Dao | Hong Kong |
-| Sat, 19 Sept 2026 | TBA - PIER 10 | Hong Kong |
 | Tue, 22 Sept 2026 | Traffic | Tokyo |
 | Fri, 25 Sept 2026 | Blank Site | Seoul |
 | Sat, 26 Sept 2026 | Upsidedown | Osaka |

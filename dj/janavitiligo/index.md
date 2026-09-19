@@ -1,14 +1,13 @@
 # Jana Vitiligo
 
-Jana Vitiligo is a House and Progressive House artist with 3 upcoming club dates listed on soundcheck as of Sat, 19 Sept 2026, next at TBA - Passion Cat Catamaran Ibiza - San Antonio, Ibiza on Sat, 19 Sept 2026.
+Jana Vitiligo is a House and Progressive House artist with 2 upcoming club dates listed on soundcheck as of Sat, 19 Sept 2026, next at Nicholas Groente & Fruit, Amsterdam on Thu, 22 Oct 2026.
 
-Jana Vitiligo is a house and progressive house artist based in Belgium, tracked on soundcheck, with 9 sets logged across Amsterdam, Antwerp, Ghent and Ibiza. Often billed alongside Major K, Femmebot Grooves and Judoc. Next up: TBA - Passion Cat Catamaran Ibiza - San Antonio, Ibiza on Sat 19 Sept.
+Jana Vitiligo is a house and progressive house artist based in Belgium, tracked on soundcheck, with 9 sets logged across Amsterdam, Antwerp, Ghent and Ibiza. Often billed alongside Major K, Femmebot Grooves and Judoc. Next up: Nicholas Groente & Fruit, Amsterdam on Thu 22 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 19 Sept 2026 | TBA - Passion Cat Catamaran Ibiza - San Antonio | Ibiza |
 | Thu, 22 Oct 2026 | Nicholas Groente & Fruit | Amsterdam |
 | Thu, 22 Oct 2026 | CREA | Amsterdam |
 

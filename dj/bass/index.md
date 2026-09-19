@@ -1,14 +1,13 @@
 # Bass
 
-Bass is a Drum & Bass and Jazz artist with 7 upcoming club dates listed on soundcheck as of Sat, 19 Sept 2026, next at The Coup by BUNKERBUNKER!!, Singapore on Sat, 19 Sept 2026.
+Bass is a Drum & Bass and Jazz artist with 6 upcoming club dates listed on soundcheck as of Sat, 19 Sept 2026, next at The Button Factory, Auckland on Sat, 26 Sept 2026.
 
-Bass is a drum & bass and jazz artist tracked on soundcheck, with 116 sets logged across Amsterdam, Auckland, Bali and Bangkok and 39 more. Often billed alongside Jungle (UK), Tekk and A². Next up: The Coup by BUNKERBUNKER!!, Singapore on Sat 19 Sept.
+Bass is a drum & bass and jazz artist tracked on soundcheck, with 116 sets logged across Amsterdam, Auckland, Bali and Bangkok and 39 more. Often billed alongside Jungle (UK), Tekk and A². Next up: The Button Factory, Auckland on Sat 26 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 19 Sept 2026 | The Coup by BUNKERBUNKER!! | Singapore |
 | Sat, 26 Sept 2026 | The Button Factory | Auckland |
 | Sat, 26 Sept 2026 | Das Lot | Vienna |
 | Mon, 28 Sept 2026 | Lccm | London |

@@ -9,7 +9,7 @@ Green Room NYC is a music venue in Newyorkcity listed on soundcheck. 13 upcoming
 | Date | Gig | Line-up |
 | --- | --- | --- |
 | Sat, 19 Sept 2026 | VOICE OF VOICE NYC: Let's Dance Brooklyn After Party | Ali Coleman, Bea Trinidad, TEE EM DEE |
-| Sun, 20 Sept 2026 | This is the Way x Golden Record NYC x Nomads Sunday Surprise Cookout | Gui Machado, Momo Trosman, Zayd Turk |
+| Sun, 20 Sept 2026 | This is the Way x Golden Record NYC x Nomads Sunday Surprise Cookout | Gui Machado, Malika, Momo Trosman, Zayd Turk |
 | Sun, 20 Sept 2026 | Misbehave x Green Room presents Dale | Justin Martin, Seven Minaya |
 | Thu, 24 Sept 2026 | Golden Record NYC presents Bruno Schmidt, Emsho | Bruno Schmidt, Emsho |
 | Fri, 25 Sept 2026 | IMPULSE CØNTROL // Carmen Electro | ABEILLE, Carmen Electro, Flight Mode (DE), Michelle Kay, N1NA, Ramsey Neville |

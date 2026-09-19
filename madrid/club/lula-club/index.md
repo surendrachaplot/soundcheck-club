@@ -8,7 +8,7 @@ Lula Club is a music venue in Madrid listed on soundcheck. 20 upcoming gigs, wit
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 19 Sept 2026 | COLLIDE |  |
+| Sat, 19 Sept 2026 | COLLIDE | COLLISION, Torrione |
 | Thu, 24 Sept 2026 | NO NAME | Djon, Kevin Sanchez, Matta |
 | Fri, 25 Sept 2026 | SCENARIOS - Emanuel Satie, MAGA, Sean Doron | Emanuel Satie, MAGA, Sean Doron |
 | Sat, 26 Sept 2026 | BARBOSSA & FRIENDS | Sparrow & Barbossa |
