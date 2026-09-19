@@ -1,14 +1,13 @@
 # Petit CAB
 
-Petit CAB is a music venue in Marseille with 13 upcoming nights listed on soundcheck as of Fri, 18 Sept 2026; the next is "Dérapage invite Boris + Feroui b2b Hunkut @ Petit Cab" on Fri, 18 Sept 2026.
+Petit CAB is a music venue in Marseille with 13 upcoming nights listed on soundcheck as of Sat, 19 Sept 2026; the next is "Abstraxion × Encore Encore - Pour Correns @ Petit Cab" on Fri, 2 Oct 2026.
 
-Petit CAB is a music venue in Marseille listed on soundcheck. 13 upcoming nights, with line-ups including Abstraxion, Boris, Feroui and Hunkut and 2 more. Browse upcoming dates, start times and who's playing. 41 rue Jobin, 13003 MARSEILLE.
+Petit CAB is a music venue in Marseille listed on soundcheck. 13 upcoming nights, with line-ups including Abstraxion, Kendal, Kenny Larkin and Mad Rey and 2 more. Browse upcoming dates, start times and who's playing. 41 rue Jobin, 13003 MARSEILLE.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 18 Sept 2026 | Dérapage invite Boris + Feroui b2b Hunkut @ Petit Cab | Boris, Feroui, Hunkut |
 | Fri, 2 Oct 2026 | Abstraxion × Encore Encore - Pour Correns @ Petit Cab | Abstraxion |
 | Sun, 4 Oct 2026 | After Stand High Patrol : Mac Gyver SHP + Hmenou @ Petit Cab |  |
 | Fri, 9 Oct 2026 | Al Beyt au Petit CAB: Bu Nasser's live @ Petit Cab |  |
@@ -18,9 +17,10 @@ Petit CAB is a music venue in Marseille listed on soundcheck. 13 upcoming nights
 | Fri, 6 Nov 2026 | Kenny Larkin [All Night Long] @ Petit Cab | Kenny Larkin |
 | Sat, 7 Nov 2026 | Rakata invite N0l 4.44 + DJ Lina @ Petit Cab |  |
 | Sat, 14 Nov 2026 | Kendal [All Night Long] @ Petit Cab | Kendal |
+| Sat, 21 Nov 2026 | Dreamachine Festival @ Petit Cab |  |
 
 ## Address
 
 41 rue Jobin, 13003 MARSEILLE, Marseille
 
-*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/marseille/club/petit-cab/)*
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/marseille/club/petit-cab/)*

@@ -1,6 +1,6 @@
 # YOTAKHI
 
-YOTAKHI is a Afro House and Deep House artist with 1 upcoming club date listed on soundcheck as of Fri, 18 Sept 2026, next at Frau Gerolds Garten, Zurich on Sat, 19 Sept 2026.
+YOTAKHI is a Afro House and Deep House artist with 1 upcoming club date listed on soundcheck as of Sat, 19 Sept 2026, next at Frau Gerolds Garten, Zurich on Sat, 19 Sept 2026.
 
 YOTAKHI is an afro house and deep house artist based in Switzerland, tracked on soundcheck, with 19 sets logged across Basel and Zurich. Often billed alongside whereisvero, Dejan and Ronny Grauer. Next up: Frau Gerolds Garten, Zurich on Sat 19 Sept.
 
@@ -25,4 +25,4 @@ YOTAKHI is an afro house and deep house artist based in Switzerland, tracked on 
 
 whereisvero, Dejan, Ronny Grauer
 
-*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/yotakhi/)*
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/yotakhi/)*

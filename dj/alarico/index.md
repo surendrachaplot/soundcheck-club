@@ -1,6 +1,6 @@
 # Alarico
 
-Alarico is a Techno and House artist with 15 upcoming club dates listed on soundcheck as of Fri, 18 Sept 2026, next at IFEMA, Madrid on Fri, 18 Sept 2026.
+Alarico is a Techno and House artist with 14 upcoming club dates listed on soundcheck as of Sat, 19 Sept 2026, next at IFEMA, Madrid on Fri, 18 Sept 2026.
 
 Alarico is a techno and house artist tracked on soundcheck, with 270 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 70 more. Often billed alongside Chlär, Funk Assault and Yanamaste. Next up: IFEMA, Madrid on Fri 18 Sept.
 
@@ -8,7 +8,6 @@ Alarico is a techno and house artist tracked on soundcheck, with 270 sets logged
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 18 Sept 2026 | IFEMA | Madrid |
 | Fri, 18 Sept 2026 | IFEMA | Madrid |
 | Sat, 19 Sept 2026 | Fiducial Asteria | Lyon |
 | Tue, 22 Sept 2026 | Amnesia Ibiza | Ibiza |
@@ -20,20 +19,21 @@ Alarico is a techno and house artist tracked on soundcheck, with 270 sets logged
 | Sat, 24 Oct 2026 | Bajes Amsterdam | Amsterdam |
 | Sun, 25 Oct 2026 | RADION | Amsterdam |
 | Fri, 30 Oct 2026 | Factory Town | Miami |
+| Fri, 20 Nov 2026 | Expo Santa Fe | Mexico City |
 
 ## Recently played
 
+- IFEMA, Madrid — Fri, 18 Sept 2026
+- IFEMA, Madrid — Fri, 18 Sept 2026
 - Mondo, Madrid — Thu, 17 Sept 2026
 - Amnesia Ibiza, Ibiza — Tue, 15 Sept 2026
 - BASIS, Utrecht — Fri, 11 Sept 2026
 - Amnesia Ibiza, Ibiza — Sun, 6 Sept 2026
 - Gate Milano, Milan — Sat, 5 Sept 2026
 - Junkyard Dortmund, Dortmund-essen — Sat, 5 Sept 2026
-- Odonien, Cologne — Fri, 4 Sept 2026
-- RSO.BERLIN, Berlin — Sat, 29 Aug 2026
 
 ## Shares bills with
 
 Chlär, Funk Assault, Yanamaste
 
-*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/alarico/)*
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/alarico/)*

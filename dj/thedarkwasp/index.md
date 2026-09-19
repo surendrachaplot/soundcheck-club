@@ -1,6 +1,6 @@
 # The Dark Wasp
 
-The Dark Wasp is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Fri, 18 Sept 2026, next at TBA - Info in Telegram, Berlin on Sat, 19 Sept 2026.
+The Dark Wasp is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Sat, 19 Sept 2026, next at TBA - Info in Telegram, Berlin on Sat, 19 Sept 2026.
 
 The Dark Wasp is a techno and electro artist tracked on soundcheck, with 14 sets logged across Berlin and Lisbon. Often billed alongside ATZENPUNK, Professor Dictabeat and Sholinger. Next up: TBA - Info in Telegram, Berlin on Sat 19 Sept.
 
@@ -25,4 +25,4 @@ The Dark Wasp is a techno and electro artist tracked on soundcheck, with 14 sets
 
 ATZENPUNK, Professor Dictabeat, Sholinger
 
-*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/thedarkwasp/)*
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/thedarkwasp/)*

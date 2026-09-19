@@ -1,6 +1,6 @@
 # Lastriko
 
-Lastriko is a music venue in Krakow with 1 upcoming night listed on soundcheck as of Fri, 18 Sept 2026; the next is "ESSENCE - House - Melodic Techno - Techno" on Sat, 17 Oct 2026.
+Lastriko is a music venue in Krakow with 1 upcoming night listed on soundcheck as of Sat, 19 Sept 2026; the next is "ESSENCE - House - Melodic Techno - Techno" on Sat, 17 Oct 2026.
 
 Lastriko is a music venue in Krakow listed on soundcheck. 1 upcoming night, with line-ups including Oscar Thous and SA:FIR. Browse upcoming dates, start times and who's playing. Gołębia 6, 31-007 Kraków, Poland.
 
@@ -14,4 +14,4 @@ Lastriko is a music venue in Krakow listed on soundcheck. 1 upcoming night, with
 
 Gołębia 6, 31-007 Kraków, Poland, Krakow
 
-*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/krakow/club/lastriko/)*
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/krakow/club/lastriko/)*

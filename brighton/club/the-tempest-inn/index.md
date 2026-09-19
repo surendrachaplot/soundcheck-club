@@ -1,6 +1,6 @@
 # The Tempest Inn
 
-The Tempest Inn is a music venue in Brighton with 3 upcoming nights listed on soundcheck as of Fri, 18 Sept 2026; the next is "Uncut Jams Open Air - Last Dance of the Summer" on Fri, 25 Sept 2026.
+The Tempest Inn is a music venue in Brighton with 3 upcoming nights listed on soundcheck as of Sat, 19 Sept 2026; the next is "Uncut Jams Open Air - Last Dance of the Summer" on Fri, 25 Sept 2026.
 
 The Tempest Inn is a music venue in Brighton listed on soundcheck. 3 upcoming nights, with line-ups including Adam Romo, boogielou, Lebby and Meg Ward and 1 more. Browse upcoming dates, start times and who's playing. 159-161 Kings Road Arches, Brighton BN1 1NB.
 
@@ -16,4 +16,4 @@ The Tempest Inn is a music venue in Brighton listed on soundcheck. 3 upcoming ni
 
 159-161 Kings Road Arches, Brighton BN1 1NB, Brighton
 
-*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/brighton/club/the-tempest-inn/)*
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/brighton/club/the-tempest-inn/)*

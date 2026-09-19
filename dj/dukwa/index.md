@@ -1,20 +1,20 @@
 # Dukwa
 
-Dukwa is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Fri, 18 Sept 2026, next at Barco Sound House, Madrid on Fri, 18 Sept 2026.
+Dukwa is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Sat, 19 Sept 2026, next at The Berkeley Suite, Glasgow on Thu, 22 Oct 2026.
 
-Dukwa is a house and techno artist based in Italy, tracked on soundcheck, with 20 sets logged across Berlin, Dublin, Edinburgh and Glasgow and 8 more. Often billed alongside Seth Troxler, AGELESS and ANOTR. Next up: Barco Sound House, Madrid on Fri 18 Sept.
+Dukwa is a house and techno artist based in Italy, tracked on soundcheck, with 20 sets logged across Berlin, Dublin, Edinburgh and Glasgow and 8 more. Often billed alongside Seth Troxler, AGELESS and ANOTR. Next up: The Berkeley Suite, Glasgow on Thu 22 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 18 Sept 2026 | Barco Sound House | Madrid |
 | Thu, 22 Oct 2026 | The Berkeley Suite | Glasgow |
 | Sat, 24 Oct 2026 | Cabaret Voltaire | Edinburgh |
 | Sat, 31 Oct 2026 | Azimut Club | Turin |
 
 ## Recently played
 
+- Barco Sound House, Madrid — Fri, 18 Sept 2026
 - Q35 WAREHOUSE, Turin — Fri, 3 Jul 2026
 - DC-10, Ibiza — Mon, 8 Jun 2026
 - Circolo Magnolia, Milan — Sat, 23 May 2026
@@ -22,10 +22,9 @@ Dukwa is a house and techno artist based in Italy, tracked on soundcheck, with 2
 - fabric, London — Sat, 20 Dec 2025
 - Sub Club, Glasgow — Fri, 19 Dec 2025
 - Auditorium Parco della Musica, Rome — Sat, 20 Sept 2025
-- Silencio, Paris — Thu, 3 Jul 2025
 
 ## Shares bills with
 
 Seth Troxler, AGELESS, ANOTR
 
-*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dukwa/)*
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dukwa/)*

@@ -1,6 +1,6 @@
 # Silent Studios
 
-Silent Studios is a music venue in Auckland with 11 upcoming nights listed on soundcheck as of Fri, 18 Sept 2026; the next is "End of an Era: Locals" on Fri, 2 Oct 2026.
+Silent Studios is a music venue in Auckland with 11 upcoming nights listed on soundcheck as of Sat, 19 Sept 2026; the next is "End of an Era: Locals" on Fri, 2 Oct 2026.
 
 Silent Studios is a music venue in Auckland listed on soundcheck. 11 upcoming nights, with line-ups including Cameron Morris, Cam Harris, Connor Tomoana and Cosmjn and 2 more. Browse upcoming dates, start times and who's playing. 6 Patrick St, Onehunga, Auckland 1061.
 
@@ -23,4 +23,4 @@ Silent Studios is a music venue in Auckland listed on soundcheck. 11 upcoming ni
 
 6 Patrick St, Onehunga, Auckland 1061, Auckland
 
-*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/auckland/club/silent-studios/)*
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/auckland/club/silent-studios/)*

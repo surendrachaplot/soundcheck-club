@@ -1,6 +1,6 @@
 # Roberto Lodola
 
-Roberto Lodola is a Afro House and Balearic artist with 2 upcoming club dates listed on soundcheck as of Fri, 18 Sept 2026, next at Space Eat & Dance, Ibiza on Wed, 23 Sept 2026.
+Roberto Lodola is a Afro House and Balearic artist with 2 upcoming club dates listed on soundcheck as of Sat, 19 Sept 2026, next at Space Eat & Dance, Ibiza on Wed, 23 Sept 2026.
 
 Roberto Lodola is an afro house and balearic artist tracked on soundcheck, with 12 sets logged across Berlin, Ibiza and Milan. Often billed alongside Alex Neri, Birds Of Rhythm and Camilo Miranda. Next up: Space Eat & Dance, Ibiza on Wed 23 Sept.
 
@@ -26,4 +26,4 @@ Roberto Lodola is an afro house and balearic artist tracked on soundcheck, with 
 
 Alex Neri, Birds Of Rhythm, Camilo Miranda
 
-*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/robertolodola/)*
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/robertolodola/)*

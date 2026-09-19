@@ -1,6 +1,6 @@
 # Deetron
 
-Deetron is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Fri, 18 Sept 2026, next at Motel Campo, Geneva on Sat, 19 Sept 2026.
+Deetron is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Sat, 19 Sept 2026, next at Motel Campo, Geneva on Sat, 19 Sept 2026.
 
 Deetron is a techno and house artist tracked on soundcheck, with 57 sets logged across Amsterdam, Antwerp, Belfast and Berlin and 25 more. Often billed alongside Zenker Brothers, SG Lewis and AMMARA. Next up: Motel Campo, Geneva on Sat 19 Sept.
 
@@ -29,4 +29,4 @@ Deetron is a techno and house artist tracked on soundcheck, with 57 sets logged 
 
 Zenker Brothers, SG Lewis, AMMARA
 
-*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/deetron/)*
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/deetron/)*

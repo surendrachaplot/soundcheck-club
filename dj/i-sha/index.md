@@ -1,8 +1,8 @@
 # i-sha
 
-i-sha is a Experimental and Techno artist with 3 upcoming club dates listed on soundcheck as of Fri, 18 Sept 2026, next at The Lubber Fiend, Newcastle on Thu, 17 Sept 2026.
+i-sha is a Experimental and Techno artist with 4 upcoming club dates listed on soundcheck as of Sat, 19 Sept 2026, next at The Lubber Fiend, Newcastle on Thu, 17 Sept 2026.
 
-i-sha is an experimental and techno artist based in United Kingdom, tracked on soundcheck, with 77 sets logged across Amsterdam, Barcelona, Berlin and Bristol and 10 more. Often billed alongside k means, Batu and Anina. Next up: The Lubber Fiend, Newcastle on Thu 17 Sept.
+i-sha is an experimental and techno artist based in United Kingdom, tracked on soundcheck, with 78 sets logged across Amsterdam, Barcelona, Berlin and Bristol and 11 more. Often billed alongside k means, Batu and Anina. Next up: The Lubber Fiend, Newcastle on Thu 17 Sept.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ i-sha is an experimental and techno artist based in United Kingdom, tracked on s
 | --- | --- | --- |
 | Thu, 17 Sept 2026 | The Lubber Fiend | Newcastle |
 | Sat, 19 Sept 2026 | M.O.T | London |
+| Fri, 30 Oct 2026 | WOMB | Tokyo |
 | Fri, 6 Nov 2026 | The Island | Bristol |
 
 ## Recently played
@@ -27,4 +28,4 @@ i-sha is an experimental and techno artist based in United Kingdom, tracked on s
 
 k means, Batu, Anina
 
-*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/i-sha/)*
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/i-sha/)*

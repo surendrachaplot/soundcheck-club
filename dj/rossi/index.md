@@ -1,6 +1,6 @@
 # Rossi
 
-Rossi is a House and Tech House artist with 14 upcoming club dates listed on soundcheck as of Fri, 18 Sept 2026, next at UNO MALTA, Malta on Fri, 18 Sept 2026.
+Rossi is a House and Tech House artist with 14 upcoming club dates listed on soundcheck as of Sat, 19 Sept 2026, next at UNO MALTA, Malta on Fri, 18 Sept 2026.
 
 Rossi is a house and tech house artist tracked on soundcheck, with 235 sets logged across Amsterdam, Auckland, Austin and Barcelona and 49 more. Often billed alongside Josh Baker, Enzo Siragusa and Traumer. Next up: UNO MALTA, Malta on Fri 18 Sept.
 
@@ -23,6 +23,7 @@ Rossi is a house and tech house artist tracked on soundcheck, with 235 sets logg
 
 ## Recently played
 
+- UNO MALTA, Malta — Fri, 18 Sept 2026
 - NDSM Docklands, Amsterdam — Sun, 13 Sept 2026
 - TBA - Secret location announced only to ticket holders, Ibiza — Fri, 11 Sept 2026
 - [UNVRS], Ibiza — Wed, 9 Sept 2026
@@ -30,10 +31,9 @@ Rossi is a house and tech house artist tracked on soundcheck, with 235 sets logg
 - Pacha Ibiza, Ibiza — Fri, 28 Aug 2026
 - Expo Lawn West, Los Angeles — Sat, 22 Aug 2026
 - Brooklyn Storehouse, New York City — Fri, 21 Aug 2026
-- 528 Ibiza, Ibiza — Sun, 9 Aug 2026
 
 ## Shares bills with
 
 Josh Baker, Enzo Siragusa, Traumer
 
-*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/rossi/)*
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/rossi/)*

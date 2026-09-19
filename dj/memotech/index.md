@@ -1,6 +1,6 @@
 # Memotech
 
-Memotech is a Bass and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 18 Sept 2026, next at KHIDI, Tbilisi on Fri, 18 Sept 2026.
+Memotech is a Bass and Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 19 Sept 2026, next at KHIDI, Tbilisi on Fri, 18 Sept 2026.
 
 Memotech is a bass and techno artist tracked on soundcheck, with 92 sets logged across Cologne, Copenhagen, Istanbul and Tbilisi and 1 more. Often billed alongside Kraumur, Routes Not Roots and Wesley Wise. Next up: KHIDI, Tbilisi on Fri 18 Sept.
 
@@ -13,6 +13,7 @@ Memotech is a bass and techno artist tracked on soundcheck, with 92 sets logged 
 
 ## Recently played
 
+- KHIDI, Tbilisi — Fri, 18 Sept 2026
 - Left Bank, Tbilisi — Fri, 11 Sept 2026
 - Mtkvarze, Tbilisi — Sat, 5 Sept 2026
 - Bassiani, Tbilisi — Sat, 29 Aug 2026
@@ -20,10 +21,9 @@ Memotech is a bass and techno artist tracked on soundcheck, with 92 sets logged 
 - Jasna 1, Warsaw — Sat, 8 Aug 2026
 - Left Bank, Tbilisi — Fri, 24 Jul 2026
 - Mtkvarze, Tbilisi — Fri, 17 Jul 2026
-- Pluto's Records, Tbilisi — Sun, 5 Jul 2026
 
 ## Shares bills with
 
 Kraumur, Routes Not Roots, Wesley Wise
 
-*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/memotech/)*
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/memotech/)*

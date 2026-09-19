@@ -1,6 +1,6 @@
 # Nosedrip
 
-Nosedrip is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Fri, 18 Sept 2026, next at TILLATEC, Amsterdam on Sat, 19 Sept 2026.
+Nosedrip is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Sat, 19 Sept 2026, next at TILLATEC, Amsterdam on Sat, 19 Sept 2026.
 
 Nosedrip is a techno and house artist tracked on soundcheck, with 129 sets logged across Amsterdam, Antwerp, Barcelona and Belgrade and 35 more. Often billed alongside OKO DJ, CJ Bolland and Vlada. Next up: TILLATEC, Amsterdam on Sat 19 Sept.
 
@@ -28,4 +28,4 @@ Nosedrip is a techno and house artist tracked on soundcheck, with 129 sets logge
 
 OKO DJ, CJ Bolland, Vlada
 
-*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nosedrip/)*
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nosedrip/)*

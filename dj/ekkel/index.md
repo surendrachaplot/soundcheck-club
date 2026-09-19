@@ -1,6 +1,6 @@
 # Ekkel
 
-Ekkel is a Trance and Techno artist with 6 upcoming club dates listed on soundcheck as of Fri, 18 Sept 2026, next at Signal, New York City on Fri, 18 Sept 2026.
+Ekkel is a Trance and Techno artist with 6 upcoming club dates listed on soundcheck as of Sat, 19 Sept 2026, next at Signal, New York City on Fri, 18 Sept 2026.
 
 Ekkel is a trance and techno artist tracked on soundcheck, with 59 sets logged across Amsterdam, Antwerp, Barcelona and Berlin and 22 more. Often billed alongside Marius Bø, Mikkel Rev and Nelly (NL). Next up: Signal, Newyorkcity on Fri 18 Sept.
 
@@ -17,6 +17,7 @@ Ekkel is a trance and techno artist tracked on soundcheck, with 59 sets logged a
 
 ## Recently played
 
+- Signal, New York City — Fri, 18 Sept 2026
 - Camp Kennybrook, New York City — Thu, 10 Sept 2026
 - FOLD, London — Sat, 22 Aug 2026
 - Gehør, Oslo — Sat, 18 Jul 2026
@@ -24,10 +25,9 @@ Ekkel is a trance and techno artist tracked on soundcheck, with 59 sets logged a
 - TBA, Oslo — Fri, 12 Jun 2026
 - Gehør, Oslo — Sat, 30 May 2026
 - TBA - Floraliënlaan 111, 2020 Antwerpen, België, Antwerp — Wed, 20 May 2026
-- The Villa, Oslo — Fri, 8 May 2026
 
 ## Shares bills with
 
 Marius Bø, Mikkel Rev, Nelly (NL)
 
-*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ekkel/)*
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ekkel/)*

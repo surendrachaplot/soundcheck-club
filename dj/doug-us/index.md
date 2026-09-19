@@ -1,6 +1,6 @@
 # DOUG
 
-DOUG is a Afro House and House artist with 1 upcoming club date listed on soundcheck as of Fri, 18 Sept 2026, next at 600 Pennsylvania Ave NW, Washington DC on Sat, 17 Oct 2026.
+DOUG is a Afro House and House artist with 1 upcoming club date listed on soundcheck as of Sat, 19 Sept 2026, next at 600 Pennsylvania Ave NW, Washington DC on Sat, 17 Oct 2026.
 
 DOUG is an afro house and house artist based in United States of America, tracked on soundcheck, with 8 sets logged across Amsterdam, Newyorkcity and Washingtondc. Often billed alongside Andre Power, Vonnie Mack and Aldonna. Next up: 600 Pennsylvania Ave NW, Washingtondc on Sat 17 Oct.
 
@@ -24,4 +24,4 @@ DOUG is an afro house and house artist based in United States of America, tracke
 
 Andre Power, Vonnie Mack, Aldonna
 
-*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/doug-us/)*
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/doug-us/)*

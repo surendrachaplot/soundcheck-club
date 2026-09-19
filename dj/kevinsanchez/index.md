@@ -1,6 +1,6 @@
 # Kevin Sanchez
 
-Kevin Sanchez is a Tech House artist with 1 upcoming club date listed on soundcheck as of Fri, 18 Sept 2026, next at Lula Club, Madrid on Thu, 24 Sept 2026.
+Kevin Sanchez is a Tech House artist with 1 upcoming club date listed on soundcheck as of Sat, 19 Sept 2026, next at Lula Club, Madrid on Thu, 24 Sept 2026.
 
 Kevin Sanchez is a tech house artist tracked on soundcheck, with 8 sets logged across Barcelona and Madrid. Often billed alongside ATMEN, Andrey Solo and Djon. Next up: Lula Club, Madrid on Thu 24 Sept.
 
@@ -24,4 +24,4 @@ Kevin Sanchez is a tech house artist tracked on soundcheck, with 8 sets logged a
 
 ATMEN, Andrey Solo, Djon
 
-*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kevinsanchez/)*
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kevinsanchez/)*

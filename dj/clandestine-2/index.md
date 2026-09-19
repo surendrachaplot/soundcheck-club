@@ -1,6 +1,6 @@
 # CLANDESTINE (2)
 
-CLANDESTINE (2) is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Fri, 18 Sept 2026, next at La Terrrazza, Barcelona on Thu, 1 Oct 2026.
+CLANDESTINE (2) is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Sat, 19 Sept 2026, next at La Terrrazza, Barcelona on Thu, 1 Oct 2026.
 
 CLANDESTINE (2) is a house and minimal artist based in Spain, tracked on soundcheck, with 58 sets logged across Barcelona. Often billed alongside INEXXSTABLE, Derovio and ANYA (2). Next up: La Terrrazza, Barcelona on Thu 1 Oct.
 
@@ -25,4 +25,4 @@ CLANDESTINE (2) is a house and minimal artist based in Spain, tracked on soundch
 
 INEXXSTABLE, Derovio, ANYA (2)
 
-*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/clandestine-2/)*
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/clandestine-2/)*

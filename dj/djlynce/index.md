@@ -1,6 +1,6 @@
 # Dj Lynce
 
-Dj Lynce is a Techno and Experimental artist with 1 upcoming club date listed on soundcheck as of Fri, 18 Sept 2026, next at TBA - Porto (Vila Nova de Gaia), Porto on Sat, 19 Sept 2026.
+Dj Lynce is a Techno and Experimental artist with 1 upcoming club date listed on soundcheck as of Sat, 19 Sept 2026, next at TBA - Porto (Vila Nova de Gaia), Porto on Sat, 19 Sept 2026.
 
 Dj Lynce is a techno and experimental artist tracked on soundcheck, with 36 sets logged across Berlin, Lisbon and Porto. Often billed alongside Nuno Beats, Nídia and Pisitakun. Next up: TBA - Porto (Vila Nova de Gaia), Porto on Sat 19 Sept.
 
@@ -25,4 +25,4 @@ Dj Lynce is a techno and experimental artist tracked on soundcheck, with 36 sets
 
 Nuno Beats, Nídia, Pisitakun
 
-*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djlynce/)*
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djlynce/)*

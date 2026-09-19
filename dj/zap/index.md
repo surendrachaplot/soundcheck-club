@@ -1,14 +1,13 @@
 # Z@p
 
-Z@p is a Techno and House artist with 7 upcoming club dates listed on soundcheck as of Fri, 18 Sept 2026, next at Nitsa Club, Barcelona on Fri, 18 Sept 2026.
+Z@p is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Sat, 19 Sept 2026, next at Le 211, Paris on Sat, 19 Sept 2026.
 
-Z@p is a techno and house artist based in Uruguay, tracked on soundcheck, with 121 sets logged across Amsterdam, Athens, Bangkok and Barcelona and 32 more. Often billed alongside Unai Trotti, Junki Inoue and Vass. Next up: Nitsa Club, Barcelona on Fri 18 Sept.
+Z@p is a techno and house artist based in Uruguay, tracked on soundcheck, with 121 sets logged across Amsterdam, Athens, Bangkok and Barcelona and 32 more. Often billed alongside Unai Trotti, Junki Inoue and Vass. Next up: Le 211, Paris on Sat 19 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 18 Sept 2026 | Nitsa Club | Barcelona |
 | Sat, 19 Sept 2026 | Le 211 | Paris |
 | Sat, 26 Sept 2026 | FOLD | London |
 | Sat, 10 Oct 2026 | Buda BXL | Brussels |
@@ -18,6 +17,7 @@ Z@p is a techno and house artist based in Uruguay, tracked on soundcheck, with 1
 
 ## Recently played
 
+- Nitsa Club, Barcelona — Fri, 18 Sept 2026
 - TBA - East Williamsburg, New York City — Fri, 4 Sept 2026
 - FOLD, London — Fri, 21 Aug 2026
 - Blow, Buenos Aires — Sat, 25 Jul 2026
@@ -25,10 +25,9 @@ Z@p is a techno and house artist based in Uruguay, tracked on soundcheck, with 1
 - Studio Stereo, Barcelona — Sat, 4 Jul 2026
 - Platforma Wolff, Bucharest — Fri, 3 Jul 2026
 - Sunseabar Beach Club, Barcelona — Sat, 20 Jun 2026
-- LAUT, Barcelona — Fri, 5 Jun 2026
 
 ## Shares bills with
 
 Unai Trotti, Junki Inoue, Vass
 
-*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/zap/)*
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/zap/)*

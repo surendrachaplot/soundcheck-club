@@ -1,6 +1,6 @@
 # SANTZZ
 
-SANTZZ is a Guaracha and Latin Bass artist with 1 upcoming club date listed on soundcheck as of Fri, 18 Sept 2026, next at Meteoro, Barcelona on Sat, 26 Sept 2026.
+SANTZZ is a Guaracha and Latin Bass artist with 1 upcoming club date listed on soundcheck as of Sat, 19 Sept 2026, next at Meteoro, Barcelona on Sat, 26 Sept 2026.
 
 SANTZZ is a guaracha and latin bass artist based in Spain, tracked on soundcheck, with 14 sets logged across Barcelona, London and Madrid. Often billed alongside XS BULLY, Skybxrn and Brianathegemini. Next up: Meteoro, Barcelona on Sat 26 Sept.
 
@@ -25,4 +25,4 @@ SANTZZ is a guaracha and latin bass artist based in Spain, tracked on soundcheck
 
 XS BULLY, Skybxrn, Brianathegemini
 
-*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/santzz/)*
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/santzz/)*

@@ -1,6 +1,6 @@
 # BUS Hexperience
 
-BUS Hexperience is a music venue in Barcelona with 5 upcoming nights listed on soundcheck as of Fri, 18 Sept 2026; the next is "Plethoric x Secret Location" on Sat, 19 Sept 2026.
+BUS Hexperience is a music venue in Barcelona with 5 upcoming nights listed on soundcheck as of Sat, 19 Sept 2026; the next is "Plethoric x Secret Location" on Sat, 19 Sept 2026.
 
 BUS Hexperience is a music venue in Barcelona listed on soundcheck. 5 upcoming nights, with line-ups including Frucula, Lucas Frank, Nahuel Di Pasquale and PINI and 1 more. Browse upcoming dates, start times and who's playing. C/ Port Esportiu, 14, 08930 Sant Adrià de Besòs, Barcelona.
 
@@ -18,4 +18,4 @@ BUS Hexperience is a music venue in Barcelona listed on soundcheck. 5 upcoming n
 
 C/ Port Esportiu, 14, 08930 Sant Adrià de Besòs, Barcelona, Barcelona
 
-*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/bus-hexperience/)*
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/bus-hexperience/)*

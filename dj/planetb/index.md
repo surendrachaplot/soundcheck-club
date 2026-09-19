@@ -1,6 +1,6 @@
 # Planet B
 
-Planet B is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Fri, 18 Sept 2026, next at Refuge, New York City on Sat, 19 Sept 2026.
+Planet B is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Sat, 19 Sept 2026, next at Refuge, New York City on Sat, 19 Sept 2026.
 
 Planet B is a house and disco artist tracked on soundcheck, with 144 sets logged across Mexicocity, Miami, Montreal and Munich and 5 more. Often billed alongside beewack, Eli Escobar and Toribio. Next up: Refuge, Newyorkcity on Sat 19 Sept.
 
@@ -26,4 +26,4 @@ Planet B is a house and disco artist tracked on soundcheck, with 144 sets logged
 
 beewack, Eli Escobar, Toribio
 
-*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/planetb/)*
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/planetb/)*

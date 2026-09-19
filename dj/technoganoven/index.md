@@ -1,6 +1,6 @@
 # Techno Ganoven
 
-Techno Ganoven is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Fri, 18 Sept 2026, next at PRST, Vienna on Sat, 19 Sept 2026.
+Techno Ganoven is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Sat, 19 Sept 2026, next at PRST, Vienna on Sat, 19 Sept 2026.
 
 Techno Ganoven is a house and tech house artist based in Austria, tracked on soundcheck, with 39 sets logged across Berlin and Vienna. Often billed alongside It's George!, RED GROOVE SYSTEM and Bambi-S. Next up: PRST, Vienna on Sat 19 Sept.
 
@@ -25,4 +25,4 @@ Techno Ganoven is a house and tech house artist based in Austria, tracked on sou
 
 It's George!, RED GROOVE SYSTEM, Bambi-S
 
-*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/technoganoven/)*
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/technoganoven/)*

@@ -1,6 +1,6 @@
 # TBA - Frogtown
 
-TBA - Frogtown is a music venue in Los Angeles with 1 upcoming night listed on soundcheck as of Fri, 18 Sept 2026; the next is "touch & release" on Sat, 19 Sept 2026.
+TBA - Frogtown is a music venue in Los Angeles with 1 upcoming night listed on soundcheck as of Sat, 19 Sept 2026; the next is "touch & release" on Sat, 19 Sept 2026.
 
 TBA - Frogtown is a music venue in Losangeles listed on soundcheck. 1 upcoming night, with line-ups including Eva Myra May. Browse upcoming dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ TBA - Frogtown is a music venue in Losangeles listed on soundcheck. 1 upcoming n
 | --- | --- | --- |
 | Sat, 19 Sept 2026 | touch & release | Eva Myra May |
 
-*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/tba-frogtown/)*
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/tba-frogtown/)*

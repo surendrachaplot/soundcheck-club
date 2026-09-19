@@ -1,6 +1,6 @@
 # Quinten McKee
 
-Quinten McKee is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Fri, 18 Sept 2026, next at Klunkerkranich, Berlin on Tue, 22 Sept 2026.
+Quinten McKee is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Sat, 19 Sept 2026, next at Klunkerkranich, Berlin on Tue, 22 Sept 2026.
 
 Quinten McKee is a techno and tech house artist tracked on soundcheck, with 10 sets logged across Berlin. Often billed alongside HAUSBRAND, .Cheka and 1000kJulez. Next up: Klunkerkranich, Berlin on Tue 22 Sept.
 
@@ -25,4 +25,4 @@ Quinten McKee is a techno and tech house artist tracked on soundcheck, with 10 s
 
 HAUSBRAND, .Cheka, 1000kJulez
 
-*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/quintenmckee/)*
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/quintenmckee/)*

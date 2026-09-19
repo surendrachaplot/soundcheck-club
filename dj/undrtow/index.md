@@ -1,6 +1,6 @@
 # undrtow
 
-undrtow is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Fri, 18 Sept 2026, next at Flux, Istanbul on Sat, 10 Oct 2026.
+undrtow is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Sat, 19 Sept 2026, next at Flux, Istanbul on Sat, 10 Oct 2026.
 
 undrtow is a techno and industrial artist tracked on soundcheck, with 33 sets logged across Athens, Helsinki, Istanbul and Munich and 1 more. Often billed alongside MATT., Ozan and XMRXLLXH. Next up: Flux, Istanbul on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ undrtow is a techno and industrial artist tracked on soundcheck, with 33 sets lo
 
 MATT., Ozan, XMRXLLXH
 
-*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/undrtow/)*
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/undrtow/)*

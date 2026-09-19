@@ -1,6 +1,6 @@
 # Rodriguez Jr.
 
-Rodriguez Jr. is a House and Techno artist with 7 upcoming club dates listed on soundcheck as of Fri, 18 Sept 2026, next at Public Works, San Francisco/Oakland on Fri, 18 Sept 2026.
+Rodriguez Jr. is a House and Techno artist with 7 upcoming club dates listed on soundcheck as of Sat, 19 Sept 2026, next at Public Works, San Francisco/Oakland on Fri, 18 Sept 2026.
 
 Rodriguez Jr. is a house and techno artist tracked on soundcheck, with 133 sets logged across Amsterdam, Auckland, Austin and Bali and 40 more. Often billed alongside Nick Warren, Ralf Kollmann and Francesca Lombardo. Next up: Public Works, Sanfrancisco on Fri 18 Sept.
 
@@ -18,6 +18,7 @@ Rodriguez Jr. is a house and techno artist tracked on soundcheck, with 133 sets 
 
 ## Recently played
 
+- Public Works, San Francisco/Oakland — Fri, 18 Sept 2026
 - Refuge, New York City — Sat, 12 Sept 2026
 - Luz De Gas, Barcelona — Fri, 21 Aug 2026
 - Story Toronto, Toronto — Fri, 7 Aug 2026
@@ -25,10 +26,9 @@ Rodriguez Jr. is a house and techno artist tracked on soundcheck, with 133 sets 
 - Else, Berlin — Sat, 11 Jul 2026
 - Wanderlust, Paris — Sun, 5 Jul 2026
 - Industry City, New York City — Sat, 20 Jun 2026
-- Audio Club, Geneva — Sat, 6 Jun 2026
 
 ## Shares bills with
 
 Nick Warren, Ralf Kollmann, Francesca Lombardo
 
-*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/rodriguezjr/)*
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/rodriguezjr/)*

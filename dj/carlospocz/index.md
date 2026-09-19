@@ -1,6 +1,6 @@
 # Carlos Pocz
 
-Carlos Pocz is a House and Downtempo artist with 1 upcoming club date listed on soundcheck as of Fri, 18 Sept 2026, next at Café de Nadie, Mexico City on Wed, 16 Sept 2026.
+Carlos Pocz is a House and Downtempo artist with 1 upcoming club date listed on soundcheck as of Sat, 19 Sept 2026, next at Café de Nadie, Mexico City on Wed, 16 Sept 2026.
 
 Carlos Pocz is a house and downtempo artist based in Venezuela, tracked on soundcheck, with 48 sets logged across Mexicocity and Miami. Often billed alongside Miss Voltaghe, Astro and Barreto. Next up: Café de Nadie, Mexicocity on Wed 16 Sept.
 
@@ -25,4 +25,4 @@ Carlos Pocz is a house and downtempo artist based in Venezuela, tracked on sound
 
 Miss Voltaghe, Astro, Barreto
 
-*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/carlospocz/)*
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/carlospocz/)*

@@ -1,14 +1,13 @@
 # BAR Inc
 
-BAR Inc is a music venue in Osaka with 22 upcoming nights listed on soundcheck as of Fri, 18 Sept 2026; the next is "WEEKEND SELECTERS" on Fri, 18 Sept 2026.
+BAR Inc is a music venue in Osaka with 21 upcoming nights listed on soundcheck as of Sat, 19 Sept 2026; the next is "WEEKEND SELECTERS" on Sat, 19 Sept 2026.
 
-BAR Inc is a music venue in Osaka listed on soundcheck. 22 upcoming nights, with line-ups including ANCHIN, AOKI takamasa, Benedek and Bloody Cheeki $odz and 2 more. Browse upcoming dates, start times and who's playing. B1F, 3-10-19 Minamisenba, Chuo-ku, Osaka 542-0081, Japan.
+BAR Inc is a music venue in Osaka listed on soundcheck. 21 upcoming nights, with line-ups including ANCHIN, AOKI takamasa, Benedek and Bloody Cheeki $odz and 2 more. Browse upcoming dates, start times and who's playing. B1F, 3-10-19 Minamisenba, Chuo-ku, Osaka 542-0081, Japan.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 18 Sept 2026 | WEEKEND SELECTERS | AOKI takamasa, Itou |
 | Sat, 19 Sept 2026 | WEEKEND SELECTERS |  |
 | Sun, 20 Sept 2026 | WEEKEND SELECTERS | ANCHIN, Steven Julien |
 | Mon, 21 Sept 2026 | WEEKEND SELECTERS |  |
@@ -18,9 +17,10 @@ BAR Inc is a music venue in Osaka listed on soundcheck. 22 upcoming nights, with
 | Fri, 25 Sept 2026 | WEEKEND SELECTERS | Doc Martin |
 | Sat, 26 Sept 2026 | WEEKEND SELECTERS |  |
 | Sun, 27 Sept 2026 | HOLIDAY ORDERS -SLOWMOTIONの夜- | AOKI takamasa, Endurance, Loe (JP) |
+| Wed, 30 Sept 2026 | WEEKDAY ORDERS |  |
 
 ## Address
 
 B1F, 3-10-19 Minamisenba, Chuo-ku, Osaka 542-0081, Japan, Osaka
 
-*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/osaka/club/bar-inc/)*
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/osaka/club/bar-inc/)*

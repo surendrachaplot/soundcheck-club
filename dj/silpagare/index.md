@@ -1,6 +1,6 @@
 # Silpagare
 
-Silpagare is a Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 18 Sept 2026, next at Crack Bellmer, Berlin on Fri, 25 Sept 2026.
+Silpagare is a Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 19 Sept 2026, next at Crack Bellmer, Berlin on Fri, 25 Sept 2026.
 
 Silpagare is a techno artist based in United Kingdom, tracked on soundcheck, with 11 sets logged across Berlin and London. Often billed alongside DREIAN, Deranged and Desiree'. Next up: Crack Bellmer, Berlin on Fri 25 Sept.
 
@@ -26,4 +26,4 @@ Silpagare is a techno artist based in United Kingdom, tracked on soundcheck, wit
 
 DREIAN, Deranged, Desiree'
 
-*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/silpagare/)*
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/silpagare/)*

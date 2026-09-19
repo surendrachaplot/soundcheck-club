@@ -1,14 +1,15 @@
 # Holywanderer
 
-Holywanderer is a EBM and Electro artist with 1 upcoming club date listed on soundcheck as of Fri, 18 Sept 2026, next at Madame Claude, Berlin on Sat, 19 Sept 2026.
+Holywanderer is a Electro and EBM artist with 2 upcoming club dates listed on soundcheck as of Sat, 19 Sept 2026, next at Madame Claude, Berlin on Sat, 19 Sept 2026.
 
-Holywanderer is an ebm and electro artist tracked on soundcheck, with 9 sets logged across Berlin. Often billed alongside Heshumi, dOctOr doms and nuarrrrr. Next up: Madame Claude, Berlin on Sat 19 Sept.
+Holywanderer is an electro and ebm artist tracked on soundcheck, with 10 sets logged across Berlin. Often billed alongside Heshumi, dOctOr doms and nuarrrrr. Next up: Madame Claude, Berlin on Sat 19 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 19 Sept 2026 | Madame Claude | Berlin |
+| Sat, 31 Oct 2026 | ://about blank | Berlin |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Holywanderer is an ebm and electro artist tracked on soundcheck, with 9 sets log
 
 Heshumi, dOctOr doms, nuarrrrr
 
-*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/holywanderer/)*
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/holywanderer/)*

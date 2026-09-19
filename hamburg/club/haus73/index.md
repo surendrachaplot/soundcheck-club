@@ -1,14 +1,13 @@
 # Haus73
 
-Haus73 is a music venue in Hamburg with 5 upcoming nights listed on soundcheck as of Fri, 18 Sept 2026; the next is "FREAKY SUMMER CLOSING" on Fri, 18 Sept 2026.
+Haus73 is a music venue in Hamburg with 4 upcoming nights listed on soundcheck as of Sat, 19 Sept 2026; the next is "PL4STIC WORLD" on Sat, 19 Sept 2026.
 
-Haus73 is a music venue in Hamburg listed on soundcheck. 5 upcoming nights, with line-ups including ACID B4RBIE, aitch, eira haul and G-Lamour and 2 more. Browse upcoming dates, start times and who's playing. Schulterblatt 73, 20357 Hamburg, Germany.
+Haus73 is a music venue in Hamburg listed on soundcheck. 4 upcoming nights, with line-ups including ACID B4RBIE, aitch, eira haul and G-Lamour and 2 more. Browse upcoming dates, start times and who's playing. Schulterblatt 73, 20357 Hamburg, Germany.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 18 Sept 2026 | FREAKY SUMMER CLOSING |  |
 | Sat, 19 Sept 2026 | PL4STIC WORLD | ACID B4RBIE, PILEA, aitch |
 | Sat, 26 Sept 2026 | Operation Electro | TBA |
 | Sat, 3 Oct 2026 | Torture the Artist pres. eDEMi with Swin (Magic Carpet, Canny Records / UK) | G-Lamour, Swin |
@@ -18,4 +17,4 @@ Haus73 is a music venue in Hamburg listed on soundcheck. 5 upcoming nights, with
 
 Schulterblatt 73, 20357 Hamburg, Germany, Hamburg
 
-*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/hamburg/club/haus73/)*
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/hamburg/club/haus73/)*

@@ -1,14 +1,13 @@
 # The Art School
 
-The Art School is a music venue in Glasgow with 15 upcoming nights listed on soundcheck as of Fri, 18 Sept 2026; the next is "BASS INVADERS - Hill52 Radio x Subcity Radio" on Fri, 18 Sept 2026.
+The Art School is a music venue in Glasgow with 14 upcoming nights listed on soundcheck as of Sat, 19 Sept 2026; the next is "Midnight Riot! with Hayley Zalassi" on Wed, 23 Sept 2026.
 
-The Art School is a music venue in Glasgow listed on soundcheck. 15 upcoming nights, with line-ups including ACHIRĀ, Bash Man, Bonzai Bonner and Bristol Luke and 2 more. Browse upcoming dates, start times and who's playing. 20 Scott Street, Glasgow, G3 6RQ, Scotland, United Kingdom.
+The Art School is a music venue in Glasgow listed on soundcheck. 14 upcoming nights, with line-ups including ACHIRĀ, Bash Man, Bonzai Bonner and Bristol Luke and 2 more. Browse upcoming dates, start times and who's playing. 20 Scott Street, Glasgow, G3 6RQ, Scotland, United Kingdom.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 18 Sept 2026 | BASS INVADERS - Hill52 Radio x Subcity Radio |  |
 | Wed, 23 Sept 2026 | Midnight Riot! with Hayley Zalassi | Hayley Zalassi, JDJ (1), Jude Natural, Just Rory |
 | Thu, 24 Sept 2026 | NIGHTCLUB FUNDRAISER FOR THE UK AIDS MEMORIAL QUILT | Bonzai Bonner, Colin, Gabor Matty, Junglehussi, Prosumer |
 | Fri, 25 Sept 2026 | PRTY: SLVL - Glasgow | SLVL |
@@ -18,9 +17,10 @@ The Art School is a music venue in Glasgow listed on soundcheck. 15 upcoming nig
 | Fri, 9 Oct 2026 | Original Sin \\\ Pray To Good | Bristol Luke, Divergence, Jurnalist, Original Sin |
 | Sat, 10 Oct 2026 | 9 Years of Taikano with DJ Assault // DJ Hell // AJAY C | DJ Assault, DJ Hell |
 | Wed, 21 Oct 2026 | PILOT |  |
+| Sat, 24 Oct 2026 | SQIFF 2026 Closing Night Party: Paparazzi |  |
 
 ## Address
 
 20 Scott Street, Glasgow, G3 6RQ, Scotland, United Kingdom, Glasgow
 
-*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/the-art-school/)*
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/the-art-school/)*

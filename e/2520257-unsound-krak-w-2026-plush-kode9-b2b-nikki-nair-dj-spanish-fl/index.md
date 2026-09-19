@@ -1,6 +1,6 @@
 # Unsound Kraków 2026 PLUSH: Kode9 b2b Nikki Nair, DJ Spanish Fly, Lorenzo Senni, K Wata + more at Hotel Forum
 
-Unsound Kraków 2026 PLUSH: Kode9 b2b Nikki Nair, DJ Spanish Fly, Lorenzo Senni, K Wata + more at Hotel Forum on Sat 10 Oct, Krakow. 9 acts on the bill: Dawuna, Dj Danifox, DJ Firmeza and DJ Nigga Fox and 5 more. Preview the line-up and save it on soundcheck.
+Unsound Kraków 2026 PLUSH: Kode9 b2b Nikki Nair, DJ Spanish Fly, Lorenzo Senni, K Wata + more at Hotel Forum on Sat 10 Oct, Krakow. 17 acts on the bill: ABADIR, bijū, CCL and Dawuna and 13 more. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,14 +10,22 @@ Unsound Kraków 2026 PLUSH: Kode9 b2b Nikki Nair, DJ Spanish Fly, Lorenzo Senni,
 
 ## Line-up
 
+- ABADIR
+- bijū
+- CCL
 - Dawuna
+- DiV4
 - Dj Danifox
 - DJ Firmeza
 - DJ Nigga Fox
+- Errorsmith
+- Glassz
 - K Wata
 - Kode9
+- Lolina
 - Lorenzo Senni
 - Nikki Nair
 - Rabit
+- Xexa
 
 *Source: [soundcheck](https://soundcheck.club/e/2520257-unsound-krak-w-2026-plush-kode9-b2b-nikki-nair-dj-spanish-fl/)*

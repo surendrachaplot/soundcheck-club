@@ -1,6 +1,6 @@
 # Fadi Mohem
 
-Fadi Mohem is a Techno and House artist with 11 upcoming club dates listed on soundcheck as of Fri, 18 Sept 2026, next at Fvtvr, Paris on Fri, 18 Sept 2026.
+Fadi Mohem is a Techno and House artist with 11 upcoming club dates listed on soundcheck as of Sat, 19 Sept 2026, next at Fvtvr, Paris on Fri, 18 Sept 2026.
 
 Fadi Mohem is a techno and house artist tracked on soundcheck, with 228 sets logged across Amsterdam, Antwerp, Athens and Bali and 53 more. Often billed alongside Ben Klock, Ogazón and JakoJako. Next up: Fvtvr, Paris on Fri 18 Sept.
 
@@ -22,6 +22,7 @@ Fadi Mohem is a techno and house artist tracked on soundcheck, with 228 sets log
 
 ## Recently played
 
+- Fvtvr, Paris — Fri, 18 Sept 2026
 - Barragem da Queimadela, Porto — Thu, 10 Sept 2026
 - Suvilahti Power Plant, Helsinki — Fri, 14 Aug 2026
 - Berghain | Panorama Bar | Säule, Berlin — Sat, 8 Aug 2026
@@ -29,10 +30,9 @@ Fadi Mohem is a techno and house artist tracked on soundcheck, with 228 sets log
 - BLITZ, Munich — Fri, 31 Jul 2026
 - Motel Campo, Geneva — Sat, 18 Jul 2026
 - Berghain | Panorama Bar | Säule, Berlin — Fri, 19 Jun 2026
-- Flux, Istanbul — Sat, 13 Jun 2026
 
 ## Shares bills with
 
 Ben Klock, Ogazón, JakoJako
 
-*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/fadimohem/)*
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/fadimohem/)*

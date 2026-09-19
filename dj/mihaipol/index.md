@@ -1,13 +1,14 @@
 # Mihai Pol
 
-Mihai Pol is a Minimal and House artist with 1 upcoming club date listed on soundcheck as of Fri, 18 Sept 2026, next at Last Arch, London on Sat, 10 Oct 2026.
+Mihai Pol is a Minimal and House artist with 2 upcoming club dates listed on soundcheck as of Sat, 19 Sept 2026, next at berlinClub, Madrid on Fri, 2 Oct 2026.
 
-Mihai Pol is a minimal and house artist tracked on soundcheck, with 67 sets logged across Amsterdam, Auckland, Bali and Barcelona and 25 more. Often billed alongside Constratti, Daescu and Prichindel. Next up: Last Arch, London on Sat 10 Oct.
+Mihai Pol is a minimal and house artist tracked on soundcheck, with 68 sets logged across Amsterdam, Auckland, Bali and Barcelona and 25 more. Often billed alongside Constratti, Daescu and Prichindel. Next up: berlinClub, Madrid on Fri 2 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 2 Oct 2026 | berlinClub | Madrid |
 | Sat, 10 Oct 2026 | Last Arch | London |
 
 ## Recently played
@@ -25,4 +26,4 @@ Mihai Pol is a minimal and house artist tracked on soundcheck, with 67 sets logg
 
 Constratti, Daescu, Prichindel
 
-*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mihaipol/)*
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mihaipol/)*

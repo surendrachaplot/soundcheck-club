@@ -1,14 +1,13 @@
 # Monarch
 
-Monarch is a music venue in San Francisco/Oakland with 10 upcoming nights listed on soundcheck as of Fri, 18 Sept 2026; the next is "Felix Dickinson (UK), Anthony Mansfield, Fusion, Seamus Haji (UK), Geo Stasi, and Mr. Matias" on Fri, 18 Sept 2026.
+Monarch is a music venue in San Francisco/Oakland with 9 upcoming nights listed on soundcheck as of Sat, 19 Sept 2026; the next is "Revolutions: Staxx of Wax feat. Phleck" on Sat, 19 Sept 2026.
 
-Monarch is a music venue in Sanfrancisco listed on soundcheck. 10 upcoming nights, with line-ups including 1OO1O, 2AT, Anthony Mansfield and arktoi and 2 more. Browse upcoming dates, start times and who's playing. 101 6th Street, San Francisco, CA 94103, United States.
+Monarch is a music venue in Sanfrancisco listed on soundcheck. 9 upcoming nights, with line-ups including 1OO1O, 2AT, arktoi and BAD JUUJU and 2 more. Browse upcoming dates, start times and who's playing. 101 6th Street, San Francisco, CA 94103, United States.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 18 Sept 2026 | Felix Dickinson (UK), Anthony Mansfield, Fusion, Seamus Haji (UK), Geo Stasi, and Mr. Matias | Anthony Mansfield, Felix Dickinson, Fusion, Seamus Haji |
 | Sat, 19 Sept 2026 | Revolutions: Staxx of Wax feat. Phleck | Duserock, Phleck |
 | Thu, 1 Oct 2026 | Welcome to the Jungle | Booty Juice, Isobel, Maximilian, messiuhhh, vRok |
 | Fri, 2 Oct 2026 | Prosumer - Carrieondisco - DJ M3 | Carrieondisco, DJ M3, Prosumer |
@@ -23,4 +22,4 @@ Monarch is a music venue in Sanfrancisco listed on soundcheck. 10 upcoming night
 
 101 6th Street, San Francisco, CA 94103, United States, San Francisco/Oakland
 
-*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/monarch/)*
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/monarch/)*

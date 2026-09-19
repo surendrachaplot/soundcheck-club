@@ -1,6 +1,6 @@
 # Kamu Kamu
 
-Kamu Kamu is a Afro House and House artist with 1 upcoming club date listed on soundcheck as of Fri, 18 Sept 2026, next at Chi Lounge, San Francisco/Oakland on Sun, 27 Sept 2026.
+Kamu Kamu is a Afro House and House artist with 1 upcoming club date listed on soundcheck as of Sat, 19 Sept 2026, next at Chi Lounge, San Francisco/Oakland on Sun, 27 Sept 2026.
 
 Kamu Kamu is an afro house and house artist based in Uganda, tracked on soundcheck, with 28 sets logged across Sanfrancisco. Often billed alongside ANCARCO, Another Human Red and Black Panda. Next up: Chi Lounge, Sanfrancisco on Sun 27 Sept.
 
@@ -25,4 +25,4 @@ Kamu Kamu is an afro house and house artist based in Uganda, tracked on soundche
 
 ANCARCO, Another Human Red, Black Panda
 
-*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kamukamu/)*
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kamukamu/)*

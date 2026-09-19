@@ -1,6 +1,6 @@
 # BIANKA
 
-BIANKA is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Fri, 18 Sept 2026, next at Lofi, Amsterdam on Sat, 19 Sept 2026.
+BIANKA is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Sat, 19 Sept 2026, next at Lofi, Amsterdam on Sat, 19 Sept 2026.
 
 BIANKA is a techno and house artist tracked on soundcheck, with 38 sets logged across Amsterdam, Berlin, Bucharest and Cologne and 6 more. Often billed alongside Hashashin, DAX J and Maria Cue. Next up: Lofi, Amsterdam on Sat 19 Sept.
 
@@ -28,4 +28,4 @@ BIANKA is a techno and house artist tracked on soundcheck, with 38 sets logged a
 
 Hashashin, DAX J, Maria Cue
 
-*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bianka/)*
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bianka/)*

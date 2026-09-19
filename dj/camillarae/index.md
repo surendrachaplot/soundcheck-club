@@ -1,6 +1,6 @@
 # Camilla Rae
 
-Camilla Rae is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Fri, 18 Sept 2026, next at TBA, Berlin on Sat, 19 Sept 2026.
+Camilla Rae is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Sat, 19 Sept 2026, next at TBA, Berlin on Sat, 19 Sept 2026.
 
 Camilla Rae is a house and techno artist tracked on soundcheck, with 83 sets logged across Berlin, Brussels, Bucharest and Glasgow and 5 more. Often billed alongside 131bpm, Stella Zekri and ābnamā. Next up: TBA, Berlin on Sat 19 Sept.
 
@@ -27,4 +27,4 @@ Camilla Rae is a house and techno artist tracked on soundcheck, with 83 sets log
 
 131bpm, Stella Zekri, ābnamā
 
-*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/camillarae/)*
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/camillarae/)*

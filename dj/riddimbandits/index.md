@@ -1,6 +1,6 @@
 # Riddim Bandits
 
-Riddim Bandits is a Dub and Bass artist with 1 upcoming club date listed on soundcheck as of Fri, 18 Sept 2026, next at control, Bucharest on Sat, 19 Sept 2026.
+Riddim Bandits is a Dub and Bass artist with 1 upcoming club date listed on soundcheck as of Sat, 19 Sept 2026, next at control, Bucharest on Sat, 19 Sept 2026.
 
 Riddim Bandits is a dub and bass artist tracked on soundcheck, with 10 sets logged across Bucharest. Often billed alongside Low Freq, ANIN and Drao. Next up: control, Bucharest on Sat 19 Sept.
 
@@ -25,4 +25,4 @@ Riddim Bandits is a dub and bass artist tracked on soundcheck, with 10 sets logg
 
 Low Freq, ANIN, Drao
 
-*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/riddimbandits/)*
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/riddimbandits/)*

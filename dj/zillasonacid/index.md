@@ -1,6 +1,6 @@
 # Zillas on Acid
 
-Zillas on Acid is a Acid and House artist with 3 upcoming club dates listed on soundcheck as of Fri, 18 Sept 2026, next at Fort Mifflin, Philadelphia on Fri, 18 Sept 2026.
+Zillas on Acid is a Acid and House artist with 3 upcoming club dates listed on soundcheck as of Sat, 19 Sept 2026, next at Fort Mifflin, Philadelphia on Fri, 18 Sept 2026.
 
 Zillas on Acid is an acid and house artist tracked on soundcheck, with 55 sets logged across Barcelona, Berlin, Glasgow and London and 6 more. Often billed alongside keekee, Mario Cotto and Dave P. Next up: Fort Mifflin, Philadelphia on Fri 18 Sept.
 
@@ -14,6 +14,7 @@ Zillas on Acid is an acid and house artist tracked on soundcheck, with 55 sets l
 
 ## Recently played
 
+- Fort Mifflin, Philadelphia — Fri, 18 Sept 2026
 - Philamoca, Philadelphia — Sat, 15 Aug 2026
 - The Dolphin, Philadelphia — Fri, 31 Jul 2026
 - Bastet, Philadelphia — Fri, 3 Jul 2026
@@ -21,10 +22,9 @@ Zillas on Acid is an acid and house artist tracked on soundcheck, with 55 sets l
 - 7833 Soundlab, Barcelona — Sat, 6 Jun 2026
 - The Waiting Room, London — Fri, 5 Jun 2026
 - Good Room, New York City — Sat, 9 May 2026
-- Warehouse on Watts, Philadelphia — Fri, 8 May 2026
 
 ## Shares bills with
 
 keekee, Mario Cotto, Dave P
 
-*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/zillasonacid/)*
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/zillasonacid/)*

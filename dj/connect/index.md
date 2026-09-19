@@ -1,6 +1,6 @@
 # Connect
 
-Connect is a Techno and Electronica artist with 2 upcoming club dates listed on soundcheck as of Fri, 18 Sept 2026, next at The Woodshop, New York City on Sat, 19 Sept 2026.
+Connect is a Techno and Electronica artist with 2 upcoming club dates listed on soundcheck as of Sat, 19 Sept 2026, next at The Woodshop, New York City on Sat, 19 Sept 2026.
 
 Connect is a techno and electronica artist based in Brazil, tracked on soundcheck, with 26 sets logged across Barcelona, Berlin, Cologne and Cork and 3 more. Often billed alongside Romanetto, Phil Bass and Leo Cardi. Next up: The Woodshop, Newyorkcity on Sat 19 Sept.
 
@@ -26,4 +26,4 @@ Connect is a techno and electronica artist based in Brazil, tracked on soundchec
 
 Romanetto, Phil Bass, Leo Cardi
 
-*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/connect/)*
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/connect/)*

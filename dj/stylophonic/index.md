@@ -1,6 +1,6 @@
 # STYLOPHONIC
 
-STYLOPHONIC is a Tech House artist with 1 upcoming club date listed on soundcheck as of Fri, 18 Sept 2026, next at Ex Macello, Milan on Sat, 3 Oct 2026.
+STYLOPHONIC is a Tech House artist with 1 upcoming club date listed on soundcheck as of Sat, 19 Sept 2026, next at Ex Macello, Milan on Sat, 3 Oct 2026.
 
 STYLOPHONIC is a tech house artist based in Italy, tracked on soundcheck, with 10 sets logged across Milan. Often billed alongside Y-DAPT, MAGNVM! and Gumbelly. Next up: Ex Macello, Milan on Sat 3 Oct.
 
@@ -25,4 +25,4 @@ STYLOPHONIC is a tech house artist based in Italy, tracked on soundcheck, with 1
 
 Y-DAPT, MAGNVM!, Gumbelly
 
-*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/stylophonic/)*
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/stylophonic/)*

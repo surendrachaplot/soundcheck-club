@@ -1,14 +1,15 @@
 # Yulia Niko
 
-Yulia Niko is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 18 Sept 2026, next at KOKO, London on Sat, 19 Sept 2026.
+Yulia Niko is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Sat, 19 Sept 2026, next at KOKO, London on Sat, 19 Sept 2026.
 
-Yulia Niko is a house and techno artist tracked on soundcheck, with 113 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 37 more. Often billed alongside ARODES, Damian Lazarus and Ida Engberg. Next up: KOKO, London on Sat 19 Sept.
+Yulia Niko is a house and techno artist tracked on soundcheck, with 114 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 37 more. Often billed alongside ARODES, Damian Lazarus and Ida Engberg. Next up: KOKO, London on Sat 19 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 19 Sept 2026 | KOKO | London |
+| Thu, 22 Oct 2026 | Amsterdam Central Station | Amsterdam |
 | Fri, 23 Oct 2026 | Melkweg | Amsterdam |
 
 ## Recently played
@@ -26,4 +27,4 @@ Yulia Niko is a house and techno artist tracked on soundcheck, with 113 sets log
 
 ARODES, Damian Lazarus, Ida Engberg
 
-*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/YuliaNiko/)*
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/YuliaNiko/)*

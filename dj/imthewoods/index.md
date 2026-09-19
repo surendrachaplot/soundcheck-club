@@ -1,6 +1,6 @@
 # Imthewoods
 
-Imthewoods is a Electronica and Downtempo artist with 1 upcoming club date listed on soundcheck as of Fri, 18 Sept 2026, next at Drama Radio Bar, Mexico City on Tue, 15 Sept 2026.
+Imthewoods is a Electronica and Downtempo artist with 1 upcoming club date listed on soundcheck as of Sat, 19 Sept 2026, next at Drama Radio Bar, Mexico City on Tue, 15 Sept 2026.
 
 Imthewoods is an electronica and downtempo artist tracked on soundcheck, with 17 sets logged across Mexicocity. Often billed alongside Bluecommand, Astro and Crjs. Next up: Drama Radio Bar, Mexicocity on Tue 15 Sept.
 
@@ -25,4 +25,4 @@ Imthewoods is an electronica and downtempo artist tracked on soundcheck, with 17
 
 Bluecommand, Astro, Crjs
 
-*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/imthewoods/)*
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/imthewoods/)*

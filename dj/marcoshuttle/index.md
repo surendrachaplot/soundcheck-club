@@ -1,14 +1,14 @@
 # Marco Shuttle
 
-Marco Shuttle is a Techno and House artist with 10 upcoming club dates listed on soundcheck as of Fri, 18 Sept 2026, next at THE MAGICK BAR, Rome on Fri, 18 Sept 2026.
+Marco Shuttle is a Techno and House artist with 10 upcoming club dates listed on soundcheck as of Sat, 19 Sept 2026, next at Shunter, Rotterdam on Fri, 18 Sept 2026.
 
-Marco Shuttle is a techno and house artist based in Italy, tracked on soundcheck, with 154 sets logged across Amsterdam, Antwerp, Barcelona and Belgrade and 34 more. Often billed alongside Jane Fitz, Erika and Paquita Gordon. Next up: THE MAGICK BAR, Rome on Fri 18 Sept.
+Marco Shuttle is a techno and house artist based in Italy, tracked on soundcheck, with 155 sets logged across Amsterdam, Antwerp, Barcelona and Belgrade and 34 more. Often billed alongside Jane Fitz, Erika and Paquita Gordon. Next up: Shunter, Rotterdam on Fri 18 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 18 Sept 2026 | THE MAGICK BAR | Rome |
+| Fri, 18 Sept 2026 | Shunter | Rotterdam |
 | Fri, 25 Sept 2026 | Les Enfants Brillants | Barcelona |
 | Sat, 26 Sept 2026 | CLUB RAUM | Amsterdam |
 | Sat, 3 Oct 2026 | Switch | Porto |
@@ -21,17 +21,17 @@ Marco Shuttle is a techno and house artist based in Italy, tracked on soundcheck
 
 ## Recently played
 
+- Shunter, Rotterdam — Fri, 18 Sept 2026
+- THE MAGICK BAR, Rome — Fri, 18 Sept 2026
 - Altrove, Milan — Sat, 5 Sept 2026
 - Gaffe, London — Sun, 16 Aug 2026
 - TBA - Secret Place, Marseille — Fri, 7 Aug 2026
 - RADION, Amsterdam — Sun, 2 Aug 2026
 - Port del Comte, Barcelona — Fri, 24 Jul 2026
 - Parco Dora, Turin — Fri, 3 Jul 2026
-- MaHalla, Berlin — Fri, 3 Jul 2026
-- TBA - Paradise City Festival, Brussels — Fri, 26 Jun 2026
 
 ## Shares bills with
 
 Jane Fitz, Erika, Paquita Gordon
 
-*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/marcoshuttle/)*
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/marcoshuttle/)*

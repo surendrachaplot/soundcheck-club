@@ -1,6 +1,6 @@
 # Karena
 
-Karena is a Techno and Deep House artist with 1 upcoming club date listed on soundcheck as of Fri, 18 Sept 2026, next at TBA, Mexico City on Sat, 19 Sept 2026.
+Karena is a Techno and Deep House artist with 1 upcoming club date listed on soundcheck as of Sat, 19 Sept 2026, next at TBA, Mexico City on Sat, 19 Sept 2026.
 
 Karena is a techno and deep house artist tracked on soundcheck, with 25 sets logged across Berlin, Madrid, Mexicocity and Valencia. Often billed alongside NDSTPS, Johan Sebastian and BENZA. Next up: TBA, Mexicocity on Sat 19 Sept.
 
@@ -25,4 +25,4 @@ Karena is a techno and deep house artist tracked on soundcheck, with 25 sets log
 
 NDSTPS, Johan Sebastian, BENZA
 
-*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/karena/)*
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/karena/)*

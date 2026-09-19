@@ -1,6 +1,6 @@
 # egomania
 
-egomania is a Hardcore and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 18 Sept 2026, next at Razzmatazz, Barcelona on Fri, 25 Sept 2026.
+egomania is a Hardcore and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 19 Sept 2026, next at Razzmatazz, Barcelona on Fri, 25 Sept 2026.
 
 egomania is a hardcore and techno artist tracked on soundcheck, with 44 sets logged across Barcelona and Tokyo. Often billed alongside KAMIKAZE, KYLE MIKASA and Sonia Lagoon (2). Next up: Razzmatazz, Barcelona on Fri 25 Sept.
 
@@ -25,4 +25,4 @@ egomania is a hardcore and techno artist tracked on soundcheck, with 44 sets log
 
 KAMIKAZE, KYLE MIKASA, Sonia Lagoon (2)
 
-*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/egomania/)*
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/egomania/)*

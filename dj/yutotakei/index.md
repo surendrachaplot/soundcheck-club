@@ -1,6 +1,6 @@
 # Yuto Takei
 
-Yuto Takei is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Fri, 18 Sept 2026, next at Forestlimit, Tokyo on Sun, 20 Sept 2026.
+Yuto Takei is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Sat, 19 Sept 2026, next at Forestlimit, Tokyo on Sun, 20 Sept 2026.
 
 Yuto Takei is a house and techno artist tracked on soundcheck, with 78 sets logged across Amsterdam, Brussels, Ghent and Helsinki and 6 more. Often billed alongside Ario, Dihi and HiToshi. Next up: Forestlimit, Tokyo on Sun 20 Sept.
 
@@ -27,4 +27,4 @@ Yuto Takei is a house and techno artist tracked on soundcheck, with 78 sets logg
 
 Ario, Dihi, HiToshi
 
-*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/yutotakei/)*
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/yutotakei/)*

@@ -1,14 +1,13 @@
 # Insomnia
 
-Insomnia is a music venue in Berlin with 25 upcoming nights listed on soundcheck as of Fri, 18 Sept 2026; the next is "FLASHBACK FRIDAY! Berlin's Hottest Kinky 90s–00s Throwback Party" on Fri, 18 Sept 2026.
+Insomnia is a music venue in Berlin with 24 upcoming nights listed on soundcheck as of Sat, 19 Sept 2026; the next is "24K Kink" on Sat, 19 Sept 2026.
 
-Insomnia is a music venue in Berlin listed on soundcheck. 25 upcoming nights, with line-ups including ANAMORPH_, Andara Nox, BOHO and BOOTHBUNNY and 2 more. Browse upcoming dates, start times and who's playing. Alt-Tempelhof 17-19, 12099 Berlin.
+Insomnia is a music venue in Berlin listed on soundcheck. 24 upcoming nights, with line-ups including ANAMORPH_, Andara Nox, BOHO and BOOTHBUNNY and 2 more. Browse upcoming dates, start times and who's playing. Alt-Tempelhof 17-19, 12099 Berlin.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 18 Sept 2026 | FLASHBACK FRIDAY! Berlin's Hottest Kinky 90s–00s Throwback Party |  |
 | Sat, 19 Sept 2026 | 24K Kink | Sika Akis |
 | Thu, 24 Sept 2026 | Berlin Kink |  |
 | Fri, 25 Sept 2026 | DIRTY DISCO Berlin |  |
@@ -18,9 +17,10 @@ Insomnia is a music venue in Berlin listed on soundcheck. 25 upcoming nights, wi
 | Sat, 3 Oct 2026 | Goa Liebe |  |
 | Fri, 9 Oct 2026 | YOUNG LOVE | Monty |
 | Sat, 10 Oct 2026 | Kinktastisch! Techno. Kink. Play |  |
+| Wed, 14 Oct 2026 | Hello Insomnia |  |
 
 ## Address
 
 Alt-Tempelhof 17-19, 12099 Berlin, Berlin
 
-*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/insomnia/)*
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/insomnia/)*

@@ -1,6 +1,6 @@
 # Ika (GE)
 
-Ika (GE) is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Fri, 18 Sept 2026, next at Pas Berlin, Berlin on Sat, 17 Oct 2026.
+Ika (GE) is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Sat, 19 Sept 2026, next at Pas Berlin, Berlin on Sat, 17 Oct 2026.
 
 Ika (GE) is a house and techno artist based in Georgia, tracked on soundcheck, with 121 sets logged across Amsterdam, Bangkok, Barcelona and Berlin and 18 more. Often billed alongside Usherenko, Gio Shengelia and Generali Minerali. Next up: Pas Berlin, Berlin on Sat 17 Oct.
 
@@ -10,7 +10,7 @@ Ika (GE) is a house and techno artist based in Georgia, tracked on soundcheck, w
 | --- | --- | --- |
 | Sat, 17 Oct 2026 | Pas Berlin | Berlin |
 | Sat, 31 Oct 2026 | TBA - Arts District LA | Los Angeles |
-| Sun, 1 Nov 2026 | TBA - DTLA | Los Angeles |
+| Sun, 1 Nov 2026 | TBA - Outdoor Location - DTLA  | Los Angeles |
 
 ## Recently played
 
@@ -27,4 +27,4 @@ Ika (GE) is a house and techno artist based in Georgia, tracked on soundcheck, w
 
 Usherenko, Gio Shengelia, Generali Minerali
 
-*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ika/)*
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ika/)*

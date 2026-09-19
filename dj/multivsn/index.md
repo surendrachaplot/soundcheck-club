@@ -1,6 +1,6 @@
 # Multivsn
 
-Multivsn is a Hip-Hop and Club artist with 1 upcoming club date listed on soundcheck as of Fri, 18 Sept 2026, next at The Henz Club, Seoul on Sat, 19 Sept 2026.
+Multivsn is a Hip-Hop and Club artist with 1 upcoming club date listed on soundcheck as of Sat, 19 Sept 2026, next at The Henz Club, Seoul on Sat, 19 Sept 2026.
 
 Multivsn is a hip-hop and club artist based in South Korea, tracked on soundcheck, with 73 sets logged across Seoul. Often billed alongside DOBERMAN, SKiiDA and SUJINPAAK. Next up: The Henz Club, Seoul on Sat 19 Sept.
 
@@ -25,4 +25,4 @@ Multivsn is a hip-hop and club artist based in South Korea, tracked on soundchec
 
 DOBERMAN, SKiiDA, SUJINPAAK
 
-*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/multivsn/)*
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/multivsn/)*

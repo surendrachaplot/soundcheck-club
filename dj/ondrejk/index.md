@@ -1,6 +1,6 @@
 # Ondrej K
 
-Ondrej K is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 18 Sept 2026, next at TBA -  Hanavsky Pavilon , Prague on Sat, 19 Sept 2026.
+Ondrej K is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 19 Sept 2026, next at TBA -  Hanavsky Pavilon , Prague on Sat, 19 Sept 2026.
 
 Ondrej K is a house and techno artist based in Czech Republic, tracked on soundcheck, with 76 sets logged across Prague. Often billed alongside Identic, Hugorieri and DJ Lumiere. Next up: TBA -  Hanavsky Pavilon , Prague on Sat 19 Sept.
 
@@ -26,4 +26,4 @@ Ondrej K is a house and techno artist based in Czech Republic, tracked on soundc
 
 Identic, Hugorieri, DJ Lumiere
 
-*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ondrejk/)*
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ondrejk/)*

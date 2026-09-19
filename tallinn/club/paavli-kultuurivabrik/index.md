@@ -1,6 +1,6 @@
 # Paavli Kultuurivabrik
 
-Paavli Kultuurivabrik is a music venue in Tallinn with 6 upcoming nights listed on soundcheck as of Fri, 18 Sept 2026; the next is "Martin Dupont (FR) & Bedless Bones" on Sat, 19 Sept 2026.
+Paavli Kultuurivabrik is a music venue in Tallinn with 6 upcoming nights listed on soundcheck as of Sat, 19 Sept 2026; the next is "Martin Dupont (FR) & Bedless Bones" on Sat, 19 Sept 2026.
 
 Paavli Kultuurivabrik is a music venue in Tallinn listed on soundcheck. 6 upcoming nights, with line-ups including Aïsha Devi, Ekitech, Gary Gwadera and Introversion and 2 more. Browse upcoming dates, start times and who's playing. Paavli 7a, 10412 Tallinn, Estonia.
 
@@ -19,4 +19,4 @@ Paavli Kultuurivabrik is a music venue in Tallinn listed on soundcheck. 6 upcomi
 
 Paavli 7a, 10412 Tallinn, Estonia, Tallinn
 
-*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/tallinn/club/paavli-kultuurivabrik/)*
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/tallinn/club/paavli-kultuurivabrik/)*

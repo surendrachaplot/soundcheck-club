@@ -1,14 +1,13 @@
 # La Paloma
 
-La Paloma is a music venue in Barcelona with 7 upcoming nights listed on soundcheck as of Fri, 18 Sept 2026; the next is "POLENTA Solo Pop" on Fri, 18 Sept 2026.
+La Paloma is a music venue in Barcelona with 6 upcoming nights listed on soundcheck as of Sat, 19 Sept 2026; the next is "La Paloma presents Moltes Mercès: Me Siento Extraña x Planet Venus" on Fri, 25 Sept 2026.
 
-La Paloma is a music venue in Barcelona listed on soundcheck. 7 upcoming nights, with line-ups including acidheaven, Acidnena, Ale Hope and ALOT and 2 more. Browse upcoming dates, start times and who's playing. Calle Tigre 27, 08001 Barcelona.
+La Paloma is a music venue in Barcelona listed on soundcheck. 6 upcoming nights, with line-ups including acidheaven, Acidnena, Ale Hope and ALOT and 2 more. Browse upcoming dates, start times and who's playing. Calle Tigre 27, 08001 Barcelona.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 18 Sept 2026 | POLENTA Solo Pop |  |
 | Fri, 25 Sept 2026 | La Paloma presents Moltes Mercès: Me Siento Extraña x Planet Venus | Acidnena, Ale Hope, Nahoomie, ONA (SP), Verushka, acidheaven |
 | Sat, 26 Sept 2026 | La Paloma presents Moltes Mercès: Discos Paradiso x Rhythm Control x Ultra-Local | DJ Bruce Lee, DJ Cobo, Dafunkas, diggm’clua |
 | Fri, 2 Oct 2026 | La Paloma meets Toy Tonics: Stump Valley, ALOT, Sam Ruffillo, Gee Lane | ALOT, Gee Lane, Sam Ruffillo, Stump Valley |
@@ -20,4 +19,4 @@ La Paloma is a music venue in Barcelona listed on soundcheck. 7 upcoming nights,
 
 Calle Tigre 27, 08001 Barcelona, Barcelona
 
-*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/la-paloma/)*
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/la-paloma/)*

@@ -1,6 +1,6 @@
 # Sibil (1)
 
-Sibil (1) is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Fri, 18 Sept 2026, next at Auber Garden, Paris on Sat, 19 Sept 2026.
+Sibil (1) is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Sat, 19 Sept 2026, next at Auber Garden, Paris on Sat, 19 Sept 2026.
 
 Sibil (1) is a house and techno artist based in France, tracked on soundcheck, with 126 sets logged across Amsterdam, Barcelona, Berlin and Boston and 31 more. Often billed alongside Mayell, Tau Car and O.BEE. Next up: Auber Garden, Paris on Sat 19 Sept.
 
@@ -28,4 +28,4 @@ Sibil (1) is a house and techno artist based in France, tracked on soundcheck, w
 
 Mayell, Tau Car, O.BEE
 
-*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sibil-1/)*
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sibil-1/)*

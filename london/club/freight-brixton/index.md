@@ -1,8 +1,8 @@
 # Freight Brixton
 
-Freight Brixton is a music venue in London with 8 upcoming nights listed on soundcheck as of Fri, 18 Sept 2026; the next is "Craig Charles Funk N Soul Rooftop Takeover" on Sat, 19 Sept 2026.
+Freight Brixton is a music venue in London with 9 upcoming nights listed on soundcheck as of Sat, 19 Sept 2026; the next is "Craig Charles Funk N Soul Rooftop Takeover" on Sat, 19 Sept 2026.
 
-Freight Brixton is a music venue in London listed on soundcheck. 8 upcoming nights, with line-ups including CHÉ WAX, Craig Charles, ELSA (UK) and Marvin Humes and 1 more. Browse upcoming dates, start times and who's playing. 33 Brixton Station Road, SW9 8PB.
+Freight Brixton is a music venue in London listed on soundcheck. 9 upcoming nights, with line-ups including CHÉ WAX, Craig Charles, ELSA (UK) and Marvin Humes and 2 more. Browse upcoming dates, start times and who's playing. 33 Brixton Station Road, SW9 8PB.
 
 ## What's on
 
@@ -11,6 +11,7 @@ Freight Brixton is a music venue in London listed on soundcheck. 8 upcoming nigh
 | Sat, 19 Sept 2026 | Craig Charles Funk N Soul Rooftop Takeover | Craig Charles |
 | Thu, 24 Sept 2026 | Ashley Henry - Freight Brixton presents: Soul of the South |  |
 | Sat, 3 Oct 2026 | The Big RnB Quiz | Nana B |
+| Sun, 4 Oct 2026 | ***JUST ADDED*** Jika FRIENDS: GRILLYARD pres. GL_CEEJAY Live in London (DAY PARTY) | Mixolis |
 | Thu, 15 Oct 2026 | Freight Brixton PRESENTS SOUL OF THE SOUTH: ELSA | ELSA (UK) |
 | Sat, 17 Oct 2026 | Brixton Oktoberfest |  |
 | Fri, 23 Oct 2026 | Lost Tape x Broken Soul, Mixed by Che Wax: Kendrick Lamar & Gil Scott Heron | CHÉ WAX |
@@ -21,4 +22,4 @@ Freight Brixton is a music venue in London listed on soundcheck. 8 upcoming nigh
 
 33 Brixton Station Road, SW9 8PB, London
 
-*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/freight-brixton/)*
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/freight-brixton/)*

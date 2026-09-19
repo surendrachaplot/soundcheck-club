@@ -1,8 +1,8 @@
 # k means
 
-k means is a Techno and Experimental artist with 4 upcoming club dates listed on soundcheck as of Fri, 18 Sept 2026, next at Ormside Projects, London on Sat, 26 Sept 2026.
+k means is a Techno and Experimental artist with 5 upcoming club dates listed on soundcheck as of Sat, 19 Sept 2026, next at Ormside Projects, London on Sat, 26 Sept 2026.
 
-k means is a techno and experimental artist based in Sweden, tracked on soundcheck, with 101 sets logged across Amsterdam, Berlin, Bristol and Edinburgh and 19 more. Often billed alongside i-sha, Batu and Jon K. Next up: Ormside Projects, London on Sat 26 Sept.
+k means is a techno and experimental artist based in Sweden, tracked on soundcheck, with 102 sets logged across Amsterdam, Berlin, Bristol and Edinburgh and 19 more. Often billed alongside i-sha, Batu and Jon K. Next up: Ormside Projects, London on Sat 26 Sept.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ k means is a techno and experimental artist based in Sweden, tracked on soundche
 | --- | --- | --- |
 | Sat, 26 Sept 2026 | Ormside Projects | London |
 | Sat, 3 Oct 2026 | La Station - Gare des Mines | Paris |
+| Thu, 8 Oct 2026 | Hotel Forum | Krakow |
 | Fri, 9 Oct 2026 | The Model | Nottingham |
 | Sat, 24 Oct 2026 | De Sering | Amsterdam |
 
@@ -28,4 +29,4 @@ k means is a techno and experimental artist based in Sweden, tracked on soundche
 
 i-sha, Batu, Jon K
 
-*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kmeans/)*
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kmeans/)*

@@ -1,14 +1,13 @@
 # OHM
 
-OHM is a music venue in Berlin with 23 upcoming nights listed on soundcheck as of Fri, 18 Sept 2026; the next is "MERGER" on Fri, 18 Sept 2026.
+OHM is a music venue in Berlin with 23 upcoming nights listed on soundcheck as of Sat, 19 Sept 2026; the next is "PuMp Berlin Daytime hosted by Anja Schneider with Skatman" on Sat, 19 Sept 2026.
 
-OHM is a music venue in Berlin listed on soundcheck. 23 upcoming nights, with line-ups including Aaronovsky, aeriform, Afidissima and Alexy and 2 more. Browse upcoming dates, start times and who's playing. Köpenicker Str. 70, 10179 Berlin, Germany.
+OHM is a music venue in Berlin listed on soundcheck. 23 upcoming nights, with line-ups including Aaronovsky, aeriform, Alexy and Anja Schneider and 2 more. Browse upcoming dates, start times and who's playing. Köpenicker Str. 70, 10179 Berlin, Germany.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 18 Sept 2026 | MERGER | Afidissima, Carl Luis, DJ Plead, Giouann |
 | Sat, 19 Sept 2026 | PuMp Berlin Daytime hosted by Anja Schneider with Skatman | Anja Schneider, Skatman |
 | Sat, 19 Sept 2026 | Life Classics with Antal | Antal, Sanctuary |
 | Thu, 24 Sept 2026 | LA CASITA presents: Banu, CH3LO b2b HUAMMANISER, V.(Live), SPICY LAB & Much More | Alexy, Banu, CH3LO, Huamaniser, S.O.N.O.S, THIRTEEN DOZE, VCO |
@@ -18,9 +17,10 @@ OHM is a music venue in Berlin listed on soundcheck. 23 upcoming nights, with li
 | Fri, 2 Oct 2026 | Body Language pres. Body Talk | Manolo. (DE), Stella Zekri, Tam Tam |
 | Sat, 3 Oct 2026 | PuMp Berlin daytime hosted by Anja Schneider with Karotte | Anja Schneider, Karotte |
 | Sat, 3 Oct 2026 | BRAINDANCE | Makam, TAFKAMP |
+| Thu, 8 Oct 2026 | Ouch | Anti Ribeiro, Dj Fucci, Dj Goodboy, Rafush |
 
 ## Address
 
 Köpenicker Str. 70, 10179 Berlin, Germany, Berlin
 
-*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/ohm/)*
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/ohm/)*

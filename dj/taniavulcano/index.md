@@ -1,6 +1,6 @@
 # Tania Vulcano
 
-Tania Vulcano is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 18 Sept 2026, next at Ouseburn Garden, Newcastle on Sat, 19 Sept 2026.
+Tania Vulcano is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 19 Sept 2026, next at Ouseburn Garden, Newcastle on Sat, 19 Sept 2026.
 
 Tania Vulcano is a house and techno artist tracked on soundcheck, with 125 sets logged across Barcelona, Brussels, Bucharest and Buenosaires and 14 more. Often billed alongside Sossa, Seth Troxler and DJ Tennis. Next up: Ouseburn Garden, Newcastle on Sat 19 Sept.
 
@@ -26,4 +26,4 @@ Tania Vulcano is a house and techno artist tracked on soundcheck, with 125 sets 
 
 Sossa, Seth Troxler, DJ Tennis
 
-*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/taniavulcano/)*
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/taniavulcano/)*

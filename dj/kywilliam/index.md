@@ -1,6 +1,6 @@
 # Ky William
 
-Ky William is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Fri, 18 Sept 2026, next at Bibliotheque, Toronto on Sat, 31 Oct 2026.
+Ky William is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Sat, 19 Sept 2026, next at Bibliotheque, Toronto on Sat, 31 Oct 2026.
 
 Ky William is a house and tech house artist based in United States of America, tracked on soundcheck, with 58 sets logged across Amsterdam, Austin, Boston and Chicago and 15 more. Often billed alongside Ms. Mada, Danyelino and Lilly Palmer. Next up: Bibliotheque, Toronto on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Ky William is a house and tech house artist based in United States of America, t
 
 Ms. Mada, Danyelino, Lilly Palmer
 
-*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kywilliam/)*
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kywilliam/)*

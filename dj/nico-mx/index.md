@@ -1,6 +1,6 @@
 # Nico (MX)
 
-Nico (MX) is a Downtempo and Funk / Soul artist with 1 upcoming club date listed on soundcheck as of Fri, 18 Sept 2026, next at Drama Radio Bar, Mexico City on Tue, 15 Sept 2026.
+Nico (MX) is a Downtempo and Funk / Soul artist with 1 upcoming club date listed on soundcheck as of Sat, 19 Sept 2026, next at Drama Radio Bar, Mexico City on Tue, 15 Sept 2026.
 
 Nico (MX) is a downtempo and funk / soul artist tracked on soundcheck, with 25 sets logged across Mexicocity. Often billed alongside MOOD HSM, rodman and Bluecommand. Next up: Drama Radio Bar, Mexicocity on Tue 15 Sept.
 
@@ -25,4 +25,4 @@ Nico (MX) is a downtempo and funk / soul artist tracked on soundcheck, with 25 s
 
 MOOD HSM, rodman, Bluecommand
 
-*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nico-mx/)*
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nico-mx/)*

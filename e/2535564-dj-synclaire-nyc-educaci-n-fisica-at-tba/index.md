@@ -1,6 +1,6 @@
 # DJ SYNCLAIRE (NYC) & Educación Fisica at TBA
 
-DJ SYNCLAIRE (NYC) & Educación Fisica at TBA on Sat 19 Sept, Vancouver. 3 acts on the bill: aka-Sol, educación física and Nema Hän. Techno and House. Preview the line-up and save it on soundcheck.
+DJ SYNCLAIRE (NYC) & Educación Fisica at TBA on Sat 19 Sept, Vancouver. 4 acts on the bill: aka-Sol, Dairy Free, educación física and Nema Hän. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,6 +11,7 @@ DJ SYNCLAIRE (NYC) & Educación Fisica at TBA on Sat 19 Sept, Vancouver. 3 acts 
 ## Line-up
 
 - aka-Sol
+- Dairy Free
 - educación física
 - Nema Hän
 

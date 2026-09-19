@@ -1,6 +1,6 @@
 # Timmerman
 
-Timmerman is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 18 Sept 2026, next at Funke, Ghent on Sat, 19 Sept 2026.
+Timmerman is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 19 Sept 2026, next at Funke, Ghent on Sat, 19 Sept 2026.
 
 Timmerman is a house and techno artist tracked on soundcheck, with 35 sets logged across Amsterdam, Antwerp, Brussels and Ghent and 1 more. Often billed alongside Ampe, Fais Le Beau and Sixsixsixties. Next up: Funke, Ghent on Sat 19 Sept.
 
@@ -25,4 +25,4 @@ Timmerman is a house and techno artist tracked on soundcheck, with 35 sets logge
 
 Ampe, Fais Le Beau, Sixsixsixties
 
-*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/timmerman/)*
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/timmerman/)*

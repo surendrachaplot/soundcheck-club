@@ -1,6 +1,6 @@
 # Marina Antih
 
-Marina Antih is a Electronica and Electro artist with 1 upcoming club date listed on soundcheck as of Fri, 18 Sept 2026, next at Cadavra, Madrid on Sat, 19 Sept 2026.
+Marina Antih is a Electronica and Electro artist with 1 upcoming club date listed on soundcheck as of Sat, 19 Sept 2026, next at Cadavra, Madrid on Sat, 19 Sept 2026.
 
 Marina Antih is an electronica and electro artist based in Spain, tracked on soundcheck, with 22 sets logged across Madrid. Often billed alongside Conio, Fer Xplosion and Kamboya. Next up: Cadavra, Madrid on Sat 19 Sept.
 
@@ -25,4 +25,4 @@ Marina Antih is an electronica and electro artist based in Spain, tracked on sou
 
 Conio, Fer Xplosion, Kamboya
 
-*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/marinaantih/)*
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/marinaantih/)*

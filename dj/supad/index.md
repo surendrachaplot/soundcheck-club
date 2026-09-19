@@ -1,14 +1,13 @@
 # Supa D
 
-Supa D is a Afro House and House artist with 11 upcoming club dates listed on soundcheck as of Fri, 18 Sept 2026, next at Basing House, London on Fri, 18 Sept 2026.
+Supa D is a Afro House and House artist with 11 upcoming club dates listed on soundcheck as of Sat, 19 Sept 2026, next at E1, London on Sat, 19 Sept 2026.
 
-Supa D is an afro house and house artist tracked on soundcheck, with 179 sets logged across Berlin, Birmingham, Bristol and Ibiza and 2 more. Often billed alongside Shenin Amara, Pioneer and Beezo. Next up: Basing House, London on Fri 18 Sept.
+Supa D is an afro house and house artist tracked on soundcheck, with 180 sets logged across Berlin, Birmingham, Bristol and Ibiza and 2 more. Often billed alongside Shenin Amara, Pioneer and Beezo. Next up: E1, London on Sat 19 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 18 Sept 2026 | Basing House | London |
 | Sat, 19 Sept 2026 | E1 | London |
 | Fri, 2 Oct 2026 | 77 | London |
 | Sat, 10 Oct 2026 | Egg London | London |
@@ -19,9 +18,11 @@ Supa D is an afro house and house artist tracked on soundcheck, with 179 sets lo
 | Sat, 14 Nov 2026 | Egg London | London |
 | Fri, 20 Nov 2026 | Egg London | London |
 | Sat, 21 Nov 2026 | DRUMSHEDS | London |
+| Sat, 21 Nov 2026 | Setlist @ Somerset House | London |
 
 ## Recently played
 
+- Basing House, London — Fri, 18 Sept 2026
 - Studio 338, London — Sun, 13 Sept 2026
 - XOYO, London — Sat, 12 Sept 2026
 - Egg London, London — Sat, 5 Sept 2026
@@ -29,10 +30,9 @@ Supa D is an afro house and house artist tracked on soundcheck, with 179 sets lo
 - Setlist @ Somerset House, London — Sun, 30 Aug 2026
 - Setlist @ Somerset House, London — Sat, 29 Aug 2026
 - Ministry Of Sound, London — Fri, 28 Aug 2026
-- Egg London, London — Fri, 28 Aug 2026
 
 ## Shares bills with
 
 Shenin Amara, Pioneer, Beezo
 
-*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/supad/)*
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/supad/)*

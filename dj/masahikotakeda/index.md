@@ -1,6 +1,6 @@
 # Masahiko Takeda
 
-Masahiko Takeda is a Techno and Minimal Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 18 Sept 2026, next at Club Metro, Kyoto on Sat, 24 Oct 2026.
+Masahiko Takeda is a Techno and Minimal Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 19 Sept 2026, next at Club Metro, Kyoto on Sat, 24 Oct 2026.
 
 Masahiko Takeda is a techno and minimal techno artist based in Japan, tracked on soundcheck, with 33 sets logged across Kyoto and Osaka. Often billed alongside Ken'ichi Itoi, SAITO and kafuka. Next up: Club Metro, Kyoto on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ Masahiko Takeda is a techno and minimal techno artist based in Japan, tracked on
 
 Ken'ichi Itoi, SAITO, kafuka
 
-*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/masahikotakeda/)*
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/masahikotakeda/)*

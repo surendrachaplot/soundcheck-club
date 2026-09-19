@@ -1,6 +1,6 @@
 # PARTIGIRL
 
-PARTIGIRL is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 18 Sept 2026, next at Chinese Laundry, Sydney on Fri, 25 Sept 2026.
+PARTIGIRL is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 19 Sept 2026, next at Chinese Laundry, Sydney on Fri, 25 Sept 2026.
 
 PARTIGIRL is a house and techno artist tracked on soundcheck, with 30 sets logged across Sydney. Often billed alongside RHINESTONE COWGIRL, Deens and Digi Doll. Next up: Chinese Laundry, Sydney on Fri 25 Sept.
 
@@ -25,4 +25,4 @@ PARTIGIRL is a house and techno artist tracked on soundcheck, with 30 sets logge
 
 RHINESTONE COWGIRL, Deens, Digi Doll
 
-*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/partigirl/)*
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/partigirl/)*

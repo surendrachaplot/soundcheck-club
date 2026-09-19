@@ -1,6 +1,6 @@
 # Mirage
 
-Mirage is a music venue in Paris with 1 upcoming night listed on soundcheck as of Fri, 18 Sept 2026; the next is "Paris Night Session - Mirage" on Sat, 19 Sept 2026.
+Mirage is a music venue in Paris with 1 upcoming night listed on soundcheck as of Sat, 19 Sept 2026; the next is "Paris Night Session - Mirage" on Sat, 19 Sept 2026.
 
 Mirage is a music venue in Paris listed on soundcheck. 1 upcoming night. Browse upcoming dates, start times and who's playing. 65 rue Pierre Charron, 75008 Paris, France.
 
@@ -14,4 +14,4 @@ Mirage is a music venue in Paris listed on soundcheck. 1 upcoming night. Browse 
 
 65 rue Pierre Charron, 75008 Paris, France, Paris
 
-*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/paris/club/mirage/)*
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/paris/club/mirage/)*

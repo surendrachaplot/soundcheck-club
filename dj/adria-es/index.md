@@ -1,6 +1,6 @@
 # Adria (ES)
 
-Adria (ES) is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 18 Sept 2026, next at 303 Audiophile Bar, Barcelona on Sat, 19 Sept 2026.
+Adria (ES) is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 19 Sept 2026, next at 303 Audiophile Bar, Barcelona on Sat, 19 Sept 2026.
 
 Adria (ES) is a house and techno artist tracked on soundcheck, with 136 sets logged across Barcelona, Bucharest, Ibiza and Lisbon and 3 more. Often billed alongside Pau Rosés, Vince Void and Alex Garcia (2). Next up: 303 Audiophile Bar, Barcelona on Sat 19 Sept.
 
@@ -26,4 +26,4 @@ Adria (ES) is a house and techno artist tracked on soundcheck, with 136 sets log
 
 Pau Rosés, Vince Void, Alex Garcia (2)
 
-*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/adria-es/)*
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/adria-es/)*

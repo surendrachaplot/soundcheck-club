@@ -1,13 +1,14 @@
 # discopants
 
-discopants is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 18 Sept 2026, next at WOMB, Tokyo on Sat, 3 Oct 2026.
+discopants is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Sat, 19 Sept 2026, next at Azumaya, Tokyo on Fri, 2 Oct 2026.
 
-discopants is a house and techno artist based in Japan, tracked on soundcheck, with 92 sets logged across Kyoto and Tokyo. Often billed alongside Celter, AMANE and KOTSU. Next up: WOMB, Tokyo on Sat 3 Oct.
+discopants is a house and techno artist based in Japan, tracked on soundcheck, with 93 sets logged across Kyoto and Tokyo. Often billed alongside Celter, AMANE and KOTSU. Next up: Azumaya, Tokyo on Fri 2 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 2 Oct 2026 | Azumaya | Tokyo |
 | Sat, 3 Oct 2026 | WOMB | Tokyo |
 | Fri, 16 Oct 2026 | clubasia | Tokyo |
 
@@ -26,4 +27,4 @@ discopants is a house and techno artist based in Japan, tracked on soundcheck, w
 
 Celter, AMANE, KOTSU
 
-*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/discopants/)*
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/discopants/)*

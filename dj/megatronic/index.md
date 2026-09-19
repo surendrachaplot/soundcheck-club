@@ -1,8 +1,8 @@
 # Megatronic
 
-Megatronic is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Fri, 18 Sept 2026, next at Lux Fragil, Lisbon on Thu, 24 Sept 2026.
+Megatronic is a House and Disco artist with 3 upcoming club dates listed on soundcheck as of Sat, 19 Sept 2026, next at Lux Fragil, Lisbon on Thu, 24 Sept 2026.
 
-Megatronic is a house and disco artist based in United Kingdom, tracked on soundcheck, with 57 sets logged across Amsterdam, Barcelona, Berlin and Chicago and 10 more. Often billed alongside JKriv, Disgonuts and Aaron Dae. Next up: Lux Fragil, Lisbon on Thu 24 Sept.
+Megatronic is a house and disco artist based in United Kingdom, tracked on soundcheck, with 58 sets logged across Amsterdam, Barcelona, Berlin and Chicago and 10 more. Often billed alongside JKriv, Disgonuts and Aaron Dae. Next up: Lux Fragil, Lisbon on Thu 24 Sept.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Megatronic is a house and disco artist based in United Kingdom, tracked on sound
 | --- | --- | --- |
 | Thu, 24 Sept 2026 | Lux Fragil | Lisbon |
 | Thu, 22 Oct 2026 | Transit | Amsterdam |
+| Thu, 22 Oct 2026 | Amsterdam Central Station | Amsterdam |
 
 ## Recently played
 
@@ -26,4 +27,4 @@ Megatronic is a house and disco artist based in United Kingdom, tracked on sound
 
 JKriv, Disgonuts, Aaron Dae
 
-*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/megatronic/)*
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/megatronic/)*

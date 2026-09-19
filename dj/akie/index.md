@@ -1,6 +1,6 @@
 # Akie
 
-Akie is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 18 Sept 2026, next at Numm, Tokyo on Fri, 18 Sept 2026.
+Akie is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sat, 19 Sept 2026, next at Numm, Tokyo on Fri, 18 Sept 2026.
 
 Akie is a techno and house artist tracked on soundcheck, with 58 sets logged across Kyoto, Osaka and Tokyo. Often billed alongside YAMARCHY, CHIDA and DJ Nobu. Next up: Numm, Tokyo on Fri 18 Sept.
 
@@ -13,6 +13,7 @@ Akie is a techno and house artist tracked on soundcheck, with 58 sets logged acr
 
 ## Recently played
 
+- Numm, Tokyo — Fri, 18 Sept 2026
 - WOMB, Tokyo — Sat, 12 Sept 2026
 - Grassroots, Tokyo — Sat, 8 Aug 2026
 - Area_osaka, Osaka — Sat, 25 Jul 2026
@@ -20,10 +21,9 @@ Akie is a techno and house artist tracked on soundcheck, with 58 sets logged acr
 - WOMB, Tokyo — Sat, 27 Jun 2026
 - WWWβ, Tokyo — Sat, 13 Jun 2026
 - Enter Shibuya, Tokyo — Sat, 23 May 2026
-- West Harlem, Kyoto — Fri, 22 May 2026
 
 ## Shares bills with
 
 YAMARCHY, CHIDA, DJ Nobu
 
-*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/akie/)*
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/akie/)*

@@ -1,6 +1,6 @@
 # Club Privé
 
-Club Privé is a music venue in Tallinn with 2 upcoming nights listed on soundcheck as of Fri, 18 Sept 2026; the next is "Reggaeton Party (Tallinn) October 2026" on Sat, 3 Oct 2026.
+Club Privé is a music venue in Tallinn with 2 upcoming nights listed on soundcheck as of Sat, 19 Sept 2026; the next is "Reggaeton Party (Tallinn) October 2026" on Sat, 3 Oct 2026.
 
 Club Privé is a music venue in Tallinn listed on soundcheck. 2 upcoming nights, with line-ups including Carbon Based Lifeforms. Browse upcoming dates, start times and who's playing. Harju 6 (Old Town); Tallinn; Estonia.
 
@@ -15,4 +15,4 @@ Club Privé is a music venue in Tallinn listed on soundcheck. 2 upcoming nights,
 
 Harju 6 (Old Town); Tallinn; Estonia, Tallinn
 
-*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/tallinn/club/club-priv/)*
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/tallinn/club/club-priv/)*

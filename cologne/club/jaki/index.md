@@ -1,14 +1,13 @@
 # JAKI
 
-JAKI is a music venue in Cologne with 7 upcoming nights listed on soundcheck as of Fri, 18 Sept 2026; the next is "JAKI presents: Visky & c00lm8" on Fri, 18 Sept 2026.
+JAKI is a music venue in Cologne with 6 upcoming nights listed on soundcheck as of Sat, 19 Sept 2026; the next is "Tom-Tom Discotec - Yours Truly presents: Femdelic" on Sat, 19 Sept 2026.
 
-JAKI is a music venue in Cologne listed on soundcheck. 7 upcoming nights, with line-ups including AMSL, Anna Cainelli, Back2Bass and BUTTMONEY and 2 more. Browse upcoming dates, start times and who's playing. Venloer Str. 40,  50672 Cologne.
+JAKI is a music venue in Cologne listed on soundcheck. 6 upcoming nights, with line-ups including AMSL, Anna Cainelli, Back2Bass and BUTTMONEY and 2 more. Browse upcoming dates, start times and who's playing. Venloer Str. 40,  50672 Cologne.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 18 Sept 2026 | JAKI presents: Visky & c00lm8 | Visky, c00lm8 |
 | Sat, 19 Sept 2026 | Tom-Tom Discotec - Yours Truly presents: Femdelic | Femdelic |
 | Sat, 26 Sept 2026 | Tom-Tom Discotec presents: Analog Africa |  |
 | Fri, 2 Oct 2026 | E.P.I.Q Nights: 5th Birthday Special | AMSL, Anna Cainelli, Nikity, Savsannah, Sedaction |
@@ -20,4 +19,4 @@ JAKI is a music venue in Cologne listed on soundcheck. 7 upcoming nights, with l
 
 Venloer Str. 40,  50672 Cologne, Cologne
 
-*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/cologne/club/jaki/)*
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/cologne/club/jaki/)*

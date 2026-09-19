@@ -1,6 +1,6 @@
 # Simzii
 
-Simzii is a Techno and Club artist with 2 upcoming club dates listed on soundcheck as of Fri, 18 Sept 2026, next at Bossa Nova Civic Club, New York City on Sun, 11 Oct 2026.
+Simzii is a Techno and Club artist with 2 upcoming club dates listed on soundcheck as of Sat, 19 Sept 2026, next at Bossa Nova Civic Club, New York City on Sun, 11 Oct 2026.
 
 Simzii is a techno and club artist tracked on soundcheck, with 7 sets logged across Berlin and Newyorkcity. Often billed alongside WTCHCRFT, Safety Trance and 8ULENTINA. Next up: Bossa Nova Civic Club, Newyorkcity on Sun 11 Oct.
 
@@ -23,4 +23,4 @@ Simzii is a techno and club artist tracked on soundcheck, with 7 sets logged acr
 
 WTCHCRFT, Safety Trance, 8ULENTINA
 
-*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/simzii/)*
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/simzii/)*

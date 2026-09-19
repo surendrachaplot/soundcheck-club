@@ -1,14 +1,13 @@
 # Macky Gee
 
-Macky Gee is a Drum & Bass and Bass artist with 5 upcoming club dates listed on soundcheck as of Fri, 18 Sept 2026, next at The Steel Yard, London on Fri, 18 Sept 2026.
+Macky Gee is a Drum & Bass and Bass artist with 4 upcoming club dates listed on soundcheck as of Sat, 19 Sept 2026, next at Hangar 34, Liverpool on Sat, 3 Oct 2026.
 
-Macky Gee is a drum & bass and bass artist based in United Kingdom, tracked on soundcheck, with 23 sets logged across Amsterdam, Auckland, Birmingham and Brisbane and 11 more. Often billed alongside Basstripper, Logan D and b-line. Next up: The Steel Yard, London on Fri 18 Sept.
+Macky Gee is a drum & bass and bass artist based in United Kingdom, tracked on soundcheck, with 23 sets logged across Amsterdam, Auckland, Birmingham and Brisbane and 11 more. Often billed alongside Basstripper, Logan D and b-line. Next up: Hangar 34, Liverpool on Sat 3 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 18 Sept 2026 | The Steel Yard | London |
 | Sat, 3 Oct 2026 | Hangar 34 | Liverpool |
 | Fri, 30 Oct 2026 | Kompass Klub | Ghent |
 | Fri, 20 Nov 2026 | TBA - The Other Side (Friday) - Warehouse Elementenstraat (Saturday) | Amsterdam |
@@ -16,6 +15,7 @@ Macky Gee is a drum & bass and bass artist based in United Kingdom, tracked on s
 
 ## Recently played
 
+- The Steel Yard, London — Fri, 18 Sept 2026
 - Studio the Venue, Auckland — Fri, 28 Aug 2026
 - Beaver Works, Leeds — Sat, 16 May 2026
 - Brussels Expo, Brussels — Tue, 30 Dec 2025
@@ -23,10 +23,9 @@ Macky Gee is a drum & bass and bass artist based in United Kingdom, tracked on s
 - The Clock Factory, Bristol — Fri, 21 Nov 2025
 - The Warehouse, Leeds — Sat, 8 Nov 2025
 - Poseidons, Riga — Fri, 19 Sept 2025
-- Lakota, Bristol — Sat, 19 Apr 2025
 
 ## Shares bills with
 
 Basstripper, Logan D, b-line
 
-*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mackygee/)*
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mackygee/)*

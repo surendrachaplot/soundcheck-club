@@ -1,14 +1,13 @@
 # Grub Records
 
-Grub Records is a music venue in Sheffield with 3 upcoming nights listed on soundcheck as of Fri, 18 Sept 2026; the next is "The Soft Drop" on Fri, 18 Sept 2026.
+Grub Records is a music venue in Sheffield with 2 upcoming nights listed on soundcheck as of Sat, 19 Sept 2026; the next is "MCS" on Fri, 25 Sept 2026.
 
-Grub Records is a music venue in Sheffield listed on soundcheck. 3 upcoming nights. Browse upcoming dates, start times and who's playing. Grub Records, 586 Queens Road, Lowfield, Sheffield, S2 4DU.
+Grub Records is a music venue in Sheffield listed on soundcheck. 2 upcoming nights. Browse upcoming dates, start times and who's playing. Grub Records, 586 Queens Road, Lowfield, Sheffield, S2 4DU.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 18 Sept 2026 | The Soft Drop |  |
 | Fri, 25 Sept 2026 | MCS |  |
 | Sat, 26 Sept 2026 | Polyphonic Pop-Up |  |
 
@@ -16,4 +15,4 @@ Grub Records is a music venue in Sheffield listed on soundcheck. 3 upcoming nigh
 
 Grub Records, 586 Queens Road, Lowfield, Sheffield, S2 4DU, Sheffield
 
-*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/sheffield/club/grub-records/)*
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/sheffield/club/grub-records/)*

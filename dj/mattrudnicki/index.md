@@ -1,6 +1,6 @@
 # Matt Rudnicki
 
-Matt Rudnicki is a House and Deep House artist with 2 upcoming club dates listed on soundcheck as of Fri, 18 Sept 2026, next at Prozak 2.0, Krakow on Thu, 17 Sept 2026.
+Matt Rudnicki is a House and Deep House artist with 2 upcoming club dates listed on soundcheck as of Sat, 19 Sept 2026, next at Prozak 2.0, Krakow on Thu, 17 Sept 2026.
 
 Matt Rudnicki is a house and deep house artist based in Poland, tracked on soundcheck, with 30 sets logged across Krakow and Warsaw. Often billed alongside Djaa (PL), Robek and Bartman. Next up: Prozak 2.0, Krakow on Thu 17 Sept.
 
@@ -26,4 +26,4 @@ Matt Rudnicki is a house and deep house artist based in Poland, tracked on sound
 
 Djaa (PL), Robek, Bartman
 
-*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mattrudnicki/)*
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mattrudnicki/)*

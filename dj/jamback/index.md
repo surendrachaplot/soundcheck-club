@@ -1,6 +1,6 @@
 # Jamback
 
-Jamback is a House and Tech House artist with 12 upcoming club dates listed on soundcheck as of Fri, 18 Sept 2026, next at UNO MALTA, Malta on Fri, 18 Sept 2026.
+Jamback is a House and Tech House artist with 12 upcoming club dates listed on soundcheck as of Sat, 19 Sept 2026, next at UNO MALTA, Malta on Fri, 18 Sept 2026.
 
 Jamback is a house and tech house artist tracked on soundcheck, with 184 sets logged across Amsterdam, Antwerp, Austin and Barcelona and 37 more. Often billed alongside East End Dubs, Marsolo and ALISHA. Next up: UNO MALTA, Malta on Fri 18 Sept.
 
@@ -23,6 +23,7 @@ Jamback is a house and tech house artist tracked on soundcheck, with 184 sets lo
 
 ## Recently played
 
+- UNO MALTA, Malta — Fri, 18 Sept 2026
 - NDSM Docklands, Amsterdam — Sun, 13 Sept 2026
 - Laagravense Plas, Utrecht — Sat, 12 Sept 2026
 - Spybar, Chicago — Sun, 6 Sept 2026
@@ -30,10 +31,9 @@ Jamback is a house and tech house artist tracked on soundcheck, with 184 sets lo
 - Club Vinyl, Denver — Fri, 4 Sept 2026
 - The Concourse Project, Austin — Thu, 3 Sept 2026
 - Kelvedon Hall, London — Sat, 29 Aug 2026
-- fabric, London — Sat, 29 Aug 2026
 
 ## Shares bills with
 
 East End Dubs, Marsolo, ALISHA
 
-*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jamback/)*
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jamback/)*

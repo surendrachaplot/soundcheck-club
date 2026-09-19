@@ -1,14 +1,13 @@
 # IT Athens
 
-IT Athens is a music venue in Athens with 9 upcoming nights listed on soundcheck as of Fri, 18 Sept 2026; the next is "After Dark: Red Room by Elegrand" on Fri, 18 Sept 2026.
+IT Athens is a music venue in Athens with 8 upcoming nights listed on soundcheck as of Sat, 19 Sept 2026; the next is "KINETICA: SEASON OPENING" on Sat, 19 Sept 2026.
 
-IT Athens is a music venue in Athens listed on soundcheck. 9 upcoming nights, with line-ups including 16G., Dom K, Jacopo Sb and LEFTYT and 2 more. Browse upcoming dates, start times and who's playing. Solomou 30 and Mpotasi 9 Street, Athens,10682.
+IT Athens is a music venue in Athens listed on soundcheck. 8 upcoming nights, with line-ups including Jacopo Sb, LEFTYT, Nico Kass and Paluma Sound and 2 more. Browse upcoming dates, start times and who's playing. Solomou 30 and Mpotasi 9 Street, Athens,10682.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 18 Sept 2026 | After Dark: Red Room by Elegrand | 16G., Dom K, NEFARIOUS |
 | Sat, 19 Sept 2026 | KINETICA: SEASON OPENING | LEFTYT, R4ST |
 | Fri, 25 Sept 2026 | atomwerk 01 | Nico Kass |
 | Sat, 26 Sept 2026 | Phasma Collective Return | zøntanos |
@@ -22,4 +21,4 @@ IT Athens is a music venue in Athens listed on soundcheck. 9 upcoming nights, wi
 
 Solomou 30 and Mpotasi 9 Street, Athens,10682, Athens
 
-*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/athens/club/it-athens/)*
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/athens/club/it-athens/)*

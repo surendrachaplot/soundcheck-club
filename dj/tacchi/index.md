@@ -1,6 +1,6 @@
 # Tacchi
 
-Tacchi is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 18 Sept 2026, next at Motor Oil Cocktail Garage, Barcelona on Thu, 17 Sept 2026.
+Tacchi is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 19 Sept 2026, next at Motor Oil Cocktail Garage, Barcelona on Thu, 17 Sept 2026.
 
 Tacchi is a house and techno artist based in Spain, tracked on soundcheck, with 32 sets logged across Barcelona and Valencia. Often billed alongside Devicious, ATMEN and Cesar Martino. Next up: Motor Oil Cocktail Garage, Barcelona on Thu 17 Sept.
 
@@ -26,4 +26,4 @@ Tacchi is a house and techno artist based in Spain, tracked on soundcheck, with 
 
 Devicious, ATMEN, Cesar Martino
 
-*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tacchi/)*
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tacchi/)*

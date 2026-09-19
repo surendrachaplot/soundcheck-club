@@ -1,18 +1,18 @@
 # Bonnie Spacey
 
-Bonnie Spacey is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 18 Sept 2026, next at Weekend, Berlin on Fri, 18 Sept 2026.
+Bonnie Spacey is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 19 Sept 2026, next at elipamanoke, Leipzig on Fri, 16 Oct 2026.
 
-Bonnie Spacey is a techno and house artist tracked on soundcheck, with 58 sets logged across Berlin, Brussels, Frankfurt and Leipzig and 7 more. Often billed alongside Franz Matthews, BOHO and gizA djs. Next up: Weekend, Berlin on Fri 18 Sept.
+Bonnie Spacey is a techno and house artist tracked on soundcheck, with 58 sets logged across Berlin, Brussels, Frankfurt and Leipzig and 7 more. Often billed alongside Franz Matthews, BOHO and gizA djs. Next up: elipamanoke, Leipzig on Fri 16 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 18 Sept 2026 | Weekend | Berlin |
 | Fri, 16 Oct 2026 | elipamanoke | Leipzig |
 
 ## Recently played
 
+- Weekend, Berlin — Fri, 18 Sept 2026
 - Jonny Knüppel, Berlin — Sat, 12 Sept 2026
 - Signal, New York City — Sat, 1 Aug 2026
 - Petit CAB, Marseille — Sat, 25 Jul 2026
@@ -20,10 +20,9 @@ Bonnie Spacey is a techno and house artist tracked on soundcheck, with 58 sets l
 - Ritter Butzke, Berlin — Sat, 30 May 2026
 - Birgit, Berlin — Fri, 29 May 2026
 - Birgit, Berlin — Fri, 29 May 2026
-- Friche Belle de Mai, Marseille — Fri, 22 May 2026
 
 ## Shares bills with
 
 Franz Matthews, BOHO, gizA djs
 
-*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bonniespacey/)*
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bonniespacey/)*

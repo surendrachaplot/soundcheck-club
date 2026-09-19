@@ -1,19 +1,19 @@
 # Ilja Franz
 
-Ilja Franz is a House and Downtempo artist with 3 upcoming club dates listed on soundcheck as of Fri, 18 Sept 2026, next at Golden Pudel Club, Hamburg on Fri, 18 Sept 2026.
+Ilja Franz is a House and Downtempo artist with 2 upcoming club dates listed on soundcheck as of Sat, 19 Sept 2026, next at Lilli Escher, Hamburg on Sat, 19 Sept 2026.
 
-Ilja Franz is a house and downtempo artist based in Germany, tracked on soundcheck, with 36 sets logged across Berlin, Frankfurt and Hamburg. Often billed alongside Finona Rider, Sasha Zlykh and Aii PS. Next up: Golden Pudel Club, Hamburg on Fri 18 Sept.
+Ilja Franz is a house and downtempo artist based in Germany, tracked on soundcheck, with 36 sets logged across Berlin, Frankfurt and Hamburg. Often billed alongside Finona Rider, Sasha Zlykh and Aii PS. Next up: Lilli Escher, Hamburg on Sat 19 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 18 Sept 2026 | Golden Pudel Club | Hamburg |
 | Sat, 19 Sept 2026 | Lilli Escher | Hamburg |
 | Sat, 26 Sept 2026 | MS Stubnitz | Hamburg |
 
 ## Recently played
 
+- Golden Pudel Club, Hamburg — Fri, 18 Sept 2026
 - Phoxxi Green Area, Hamburg — Sat, 22 Aug 2026
 - TBA - VIVALABERNIE, Hamburg — Sat, 4 Jul 2026
 - Lilli Escher, Hamburg — Wed, 24 Jun 2026
@@ -21,10 +21,9 @@ Ilja Franz is a house and downtempo artist based in Germany, tracked on soundche
 - Studio1111, Berlin — Fri, 8 May 2026
 - Nachtasyl, Hamburg — Sat, 11 Apr 2026
 - Goldener Salon, Hamburg — Sun, 5 Apr 2026
-- Frappant, Hamburg — Sat, 7 Mar 2026
 
 ## Shares bills with
 
 Finona Rider, Sasha Zlykh, Aii PS
 
-*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/iljafranz/)*
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/iljafranz/)*

@@ -1,17 +1,18 @@
 # frachtkante
 
-frachtkante is a music venue in Berlin with 1 upcoming night listed on soundcheck as of Fri, 18 Sept 2026; the next is "khisdapaze Open Air: Sägewerk After Party" on Sat, 26 Sept 2026.
+frachtkante is a music venue in Berlin with 2 upcoming nights listed on soundcheck as of Sat, 19 Sept 2026; the next is "khisdapaze Open Air: Sägewerk After Party" on Sat, 26 Sept 2026.
 
-frachtkante is a music venue in Berlin listed on soundcheck. 1 upcoming night. Browse upcoming dates, start times and who's playing. Urban Tech Republic, 13405 Berlin, Germany.
+frachtkante is a music venue in Berlin listed on soundcheck. 2 upcoming nights, with line-ups including Carl Hang, Carlo Karacho, Christa K and jojogigirl and 2 more. Browse upcoming dates, start times and who's playing. Urban Tech Republic, 13405 Berlin, Germany.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 26 Sept 2026 | khisdapaze Open Air: Sägewerk After Party |  |
+| Sat, 26 Sept 2026 | khisdapaze Open Air: Sägewerk After Party | Carl Hang, Carlo Karacho, Christa K, Mimimosa, SACID, Sophti, jojogigirl |
+| Sat, 17 Oct 2026 | khisdapaze Open Air: Summer Closing |  |
 
 ## Address
 
 Urban Tech Republic, 13405 Berlin, Germany, Berlin
 
-*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/frachtkante/)*
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/frachtkante/)*

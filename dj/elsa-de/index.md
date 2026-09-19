@@ -1,14 +1,15 @@
 # ELSA (DE)
 
-ELSA (DE) is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 18 Sept 2026, next at Romantica, Stuttgart on Sat, 26 Sept 2026.
+ELSA (DE) is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sat, 19 Sept 2026, next at Romantica, Stuttgart on Sat, 26 Sept 2026.
 
-ELSA (DE) is a techno and house artist based in Germany, tracked on soundcheck, with 7 sets logged across Berlin, Frankfurt and Stuttgart. Often billed alongside BA’AL, Connor Wall and Cynthia Matisse. Next up: Romantica, Stuttgart on Sat 26 Sept.
+ELSA (DE) is a techno and house artist based in Germany, tracked on soundcheck, with 8 sets logged across Berlin, Frankfurt and Stuttgart. Often billed alongside Tobi Lack, BA’AL and Connor Wall. Next up: Romantica, Stuttgart on Sat 26 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 26 Sept 2026 | Romantica | Stuttgart |
+| Fri, 9 Oct 2026 | Tokonoma Club | Frankfurt |
 
 ## Recently played
 
@@ -21,6 +22,6 @@ ELSA (DE) is a techno and house artist based in Germany, tracked on soundcheck, 
 
 ## Shares bills with
 
-BA’AL, Connor Wall, Cynthia Matisse
+Tobi Lack, BA’AL, Connor Wall
 
-*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/elsa-de/)*
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/elsa-de/)*

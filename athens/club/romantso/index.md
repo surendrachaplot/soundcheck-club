@@ -1,18 +1,18 @@
 # Romantso
 
-Romantso is a music venue in Athens with 2 upcoming nights listed on soundcheck as of Fri, 18 Sept 2026; the next is "KAIZEN 'end of' KALOKAIRI with Henry Greenleaf, Madam X, Jay Carder, Elbarto & Poor J'Darr" on Fri, 18 Sept 2026.
+Romantso is a music venue in Athens with 2 upcoming nights listed on soundcheck as of Sat, 19 Sept 2026; the next is "Romantso TAKEOVER" on Fri, 25 Sept 2026.
 
-Romantso is a music venue in Athens listed on soundcheck. 2 upcoming nights, with line-ups including Benny Ill, Elbarto, Henry Greenleaf and Horsepower Productions and 2 more. Browse upcoming dates, start times and who's playing. Αnaxagora 3-5, Athens 10552, Greece.
+Romantso is a music venue in Athens listed on soundcheck. 2 upcoming nights, with line-ups including Benny Ill, CHEX, Horsepower Productions and Nivk Jane and 2 more. Browse upcoming dates, start times and who's playing. Αnaxagora 3-5, Athens 10552, Greece.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 18 Sept 2026 | KAIZEN 'end of' KALOKAIRI with Henry Greenleaf, Madam X, Jay Carder, Elbarto & Poor J'Darr | Elbarto, Henry Greenleaf, Jay Carder, Madam X, Poor J’Darr |
+| Fri, 25 Sept 2026 | Romantso TAKEOVER | CHEX, Nivk Jane, VSSLS |
 | Sat, 3 Oct 2026 | Horsepower Productions with Raw Future Sound & Saber Rider | Benny Ill, Horsepower Productions, Saber Rider |
 
 ## Address
 
 Αnaxagora 3-5, Athens 10552, Greece, Athens
 
-*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/athens/club/romantso/)*
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/athens/club/romantso/)*

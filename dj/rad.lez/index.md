@@ -1,8 +1,8 @@
 # Rad.Lez
 
-Rad.Lez is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Fri, 18 Sept 2026, next at Gestrandet An Der Jannowitzbrücke, Berlin on Sat, 19 Sept 2026.
+Rad.Lez is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Sat, 19 Sept 2026, next at Gestrandet An Der Jannowitzbrücke, Berlin on Sat, 19 Sept 2026.
 
-Rad.Lez is a techno and house artist based in Venezuela, tracked on soundcheck, with 106 sets logged across Amsterdam, Berlin, Cologne and Copenhagen and 3 more. Often billed alongside Lazykid, Shabiki and HNGT. Next up: Gestrandet An Der Jannowitzbrücke, Berlin on Sat 19 Sept.
+Rad.Lez is a techno and house artist based in Venezuela, tracked on soundcheck, with 108 sets logged across Amsterdam, Berlin, Cologne and Copenhagen and 3 more. Often billed alongside Lazykid, Shabiki and HNGT. Next up: Gestrandet An Der Jannowitzbrücke, Berlin on Sat 19 Sept.
 
 ## Upcoming shows
 
@@ -10,8 +10,10 @@ Rad.Lez is a techno and house artist based in Venezuela, tracked on soundcheck, 
 | --- | --- | --- |
 | Sat, 19 Sept 2026 | Gestrandet An Der Jannowitzbrücke | Berlin |
 | Fri, 16 Oct 2026 | Renate | Berlin |
+| Sat, 17 Oct 2026 | Nachtigall | Cologne |
 | Fri, 23 Oct 2026 | Ruby Emma Hotel & Bar | Amsterdam |
 | Fri, 30 Oct 2026 | Ritter Butzke | Berlin |
+| Fri, 18 Dec 2026 | Ritter Butzke | Berlin |
 
 ## Recently played
 
@@ -28,4 +30,4 @@ Rad.Lez is a techno and house artist based in Venezuela, tracked on soundcheck, 
 
 Lazykid, Shabiki, HNGT
 
-*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/rad.lez/)*
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/rad.lez/)*

@@ -1,6 +1,6 @@
 # Blame Anthony
 
-Blame Anthony is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 18 Sept 2026, next at Dante's Hifi Ibiza, Ibiza on Wed, 23 Sept 2026.
+Blame Anthony is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 19 Sept 2026, next at Dante's Hifi Ibiza, Ibiza on Wed, 23 Sept 2026.
 
 Blame Anthony is a house and techno artist tracked on soundcheck, with 13 sets logged across Amsterdam, Barcelona, Berlin and Ibiza and 1 more. Often billed alongside Thabo, Butterhands and Thalo Santana. Next up: Dante's Hifi Ibiza, Ibiza on Wed 23 Sept.
 
@@ -26,4 +26,4 @@ Blame Anthony is a house and techno artist tracked on soundcheck, with 13 sets l
 
 Thabo, Butterhands, Thalo Santana
 
-*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/blameanthony/)*
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/blameanthony/)*

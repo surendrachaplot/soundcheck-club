@@ -1,14 +1,13 @@
 # INPUT High Fidelity Dance Club
 
-INPUT High Fidelity Dance Club is a music venue in Barcelona with 21 upcoming nights listed on soundcheck as of Fri, 18 Sept 2026; the next is "PRISM pres Adiel" on Fri, 18 Sept 2026.
+INPUT High Fidelity Dance Club is a music venue in Barcelona with 21 upcoming nights listed on soundcheck as of Sat, 19 Sept 2026; the next is "INPUT pres Schrotthagen" on Sat, 19 Sept 2026.
 
-INPUT High Fidelity Dance Club is a music venue in Barcelona listed on soundcheck. 21 upcoming nights, with line-ups including Adiel, ART NO LOGIA, Beste Hira and Chris Avantgarde and 2 more. Browse upcoming dates, start times and who's playing. Avenida de Francesc Ferrer i Guàrdia, 13-27; 08038 Barcelona; Spain.
+INPUT High Fidelity Dance Club is a music venue in Barcelona listed on soundcheck. 21 upcoming nights, with line-ups including ART NO LOGIA, Beste Hira, Chris Avantgarde and Colin Benders and 2 more. Browse upcoming dates, start times and who's playing. Avenida de Francesc Ferrer i Guàrdia, 13-27; 08038 Barcelona; Spain.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 18 Sept 2026 | PRISM pres Adiel | Adiel, Hitch |
 | Sat, 19 Sept 2026 | INPUT pres Schrotthagen | Schrotthagen |
 | Wed, 23 Sept 2026 | ONíRICA pres Colyn | Colyn, LIZA., Rivellino |
 | Fri, 25 Sept 2026 | LOAD pres Harvy Valencia | ART NO LOGIA, Harvy Valencia, Jorgesyn, VITO (UK) |
@@ -18,9 +17,10 @@ INPUT High Fidelity Dance Club is a music venue in Barcelona listed on soundchec
 | Fri, 9 Oct 2026 | INPUT pres Deborah De Luca | Deborah De Luca |
 | Sat, 10 Oct 2026 | INPUT pres Kolter All Night Long | Kolter |
 | Sun, 11 Oct 2026 | INPUT pres Jamback | INDRA TRAFERRI, Jamback |
+| Fri, 16 Oct 2026 | INPUT pres OGAZON | Francesco Carvetta, Ogazón |
 
 ## Address
 
 Avenida de Francesc Ferrer i Guàrdia, 13-27; 08038 Barcelona; Spain, Barcelona
 
-*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/input-high-fidelity-dance-club/)*
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/input-high-fidelity-dance-club/)*

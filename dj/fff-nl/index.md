@@ -1,6 +1,6 @@
 # FFF (NL)
 
-FFF (NL) is a Jungle and Drum & Bass artist with 1 upcoming club date listed on soundcheck as of Fri, 18 Sept 2026, next at OT301, Amsterdam on Fri, 2 Oct 2026.
+FFF (NL) is a Jungle and Drum & Bass artist with 1 upcoming club date listed on soundcheck as of Sat, 19 Sept 2026, next at OT301, Amsterdam on Fri, 2 Oct 2026.
 
 FFF (NL) is a jungle and drum & bass artist tracked on soundcheck, with 20 sets logged across Amsterdam, Antwerp, Barcelona and Berlin and 8 more. Often billed alongside Coco Bryce, Tim Reaper and Equinox (UK). Next up: OT301, Amsterdam on Fri 2 Oct.
 
@@ -25,4 +25,4 @@ FFF (NL) is a jungle and drum & bass artist tracked on soundcheck, with 20 sets 
 
 Coco Bryce, Tim Reaper, Equinox (UK)
 
-*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/fff-nl/)*
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/fff-nl/)*

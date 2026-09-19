@@ -1,14 +1,13 @@
 # Liquid Earth
 
-Liquid Earth is a House and Techno artist with 6 upcoming club dates listed on soundcheck as of Fri, 18 Sept 2026, next at Green Room NYC, New York City on Fri, 18 Sept 2026.
+Liquid Earth is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Sat, 19 Sept 2026, next at Village Underground, London on Fri, 25 Sept 2026.
 
-Liquid Earth is a house and techno artist tracked on soundcheck, with 183 sets logged across Amsterdam, Antwerp, Austin and Bangkok and 49 more. Often billed alongside Mari.te, tINI and Hamish & Toby. Next up: Green Room NYC, Newyorkcity on Fri 18 Sept.
+Liquid Earth is a house and techno artist tracked on soundcheck, with 183 sets logged across Amsterdam, Antwerp, Austin and Bangkok and 49 more. Often billed alongside Mari.te, tINI and Hamish & Toby. Next up: Village Underground, London on Fri 25 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 18 Sept 2026 | Green Room NYC | New York City |
 | Fri, 25 Sept 2026 | Village Underground | London |
 | Sat, 26 Sept 2026 | Sunseabar Beach Club | Barcelona |
 | Sun, 27 Sept 2026 | Audiodise Park Montjuic | Barcelona |
@@ -17,6 +16,7 @@ Liquid Earth is a house and techno artist tracked on soundcheck, with 183 sets l
 
 ## Recently played
 
+- Green Room NYC, New York City — Fri, 18 Sept 2026
 - Oven Club, Valencia — Fri, 11 Sept 2026
 - Audiodise Park Montjuic, Barcelona — Sun, 16 Aug 2026
 - Fünk, Mexico City — Sat, 11 Jul 2026
@@ -24,10 +24,9 @@ Liquid Earth is a house and techno artist tracked on soundcheck, with 183 sets l
 - Berghain | Panorama Bar | Säule, Berlin — Sat, 4 Jul 2026
 - Hackney Wick Multiple Venues, London — Sat, 27 Jun 2026
 - Colour Factory, London — Sat, 27 Jun 2026
-- La Terrrazza, Barcelona — Sun, 21 Jun 2026
 
 ## Shares bills with
 
 Mari.te, tINI, Hamish & Toby
 
-*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/liquidearth/)*
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/liquidearth/)*

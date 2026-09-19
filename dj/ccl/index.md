@@ -1,8 +1,8 @@
 # CCL
 
-CCL is a Techno and House artist with 12 upcoming club dates listed on soundcheck as of Fri, 18 Sept 2026, next at Fort Mifflin, Philadelphia on Fri, 18 Sept 2026.
+CCL is a Techno and House artist with 13 upcoming club dates listed on soundcheck as of Sat, 19 Sept 2026, next at Fort Mifflin, Philadelphia on Fri, 18 Sept 2026.
 
-CCL is a techno and house artist tracked on soundcheck, with 211 sets logged across Amsterdam, Auckland, Austin and Barcelona and 57 more. Often billed alongside Objekt, Eris Drew and Octo Octa. Next up: Fort Mifflin, Philadelphia on Fri 18 Sept.
+CCL is a techno and house artist tracked on soundcheck, with 212 sets logged across Amsterdam, Auckland, Austin and Barcelona and 57 more. Often billed alongside Objekt, Eris Drew and Octo Octa. Next up: Fort Mifflin, Philadelphia on Fri 18 Sept.
 
 ## Upcoming shows
 
@@ -14,26 +14,26 @@ CCL is a techno and house artist tracked on soundcheck, with 211 sets logged acr
 | Thu, 24 Sept 2026 | TBA - Out ‘n’ About Treesort | Portland |
 | Fri, 2 Oct 2026 | The Loom | San Francisco/Oakland |
 | Sun, 4 Oct 2026 | Standard Time | Toronto |
+| Sat, 10 Oct 2026 | Hotel Forum | Krakow |
 | Fri, 16 Oct 2026 | CLUB RAUM | Amsterdam |
 | Sun, 18 Oct 2026 | OHM | Berlin |
 | Fri, 30 Oct 2026 | NAMA - Nuovo Anfiteatro Martesana | Milan |
 | Sat, 31 Oct 2026 | UMI | Brussels |
 | Sat, 14 Nov 2026 | TBA | Sydney |
-| Sun, 6 Dec 2026 | OHM | Berlin |
 
 ## Recently played
 
+- Fort Mifflin, Philadelphia — Fri, 18 Sept 2026
+- Signal, New York City — Fri, 18 Sept 2026
 - Camp Kennybrook, New York City — Thu, 10 Sept 2026
 - Sonnenraum, Berlin — Sun, 30 Aug 2026
 - TBA - Klingemühle, Berlin — Fri, 14 Aug 2026
 - Amsterdamse Bos, Amsterdam — Sun, 2 Aug 2026
 - Garage Noord, Amsterdam — Sun, 2 Aug 2026
 - Amsterdamse Bos, Amsterdam — Sat, 1 Aug 2026
-- Amsterdamse Bos, Amsterdam — Wed, 29 Jul 2026
-- OXI, Berlin — Fri, 24 Jul 2026
 
 ## Shares bills with
 
 Objekt, Eris Drew, Octo Octa
 
-*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ccl/)*
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ccl/)*

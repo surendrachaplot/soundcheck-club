@@ -1,14 +1,13 @@
 # Nowadays
 
-Nowadays is a music venue in New York City with 34 upcoming nights listed on soundcheck as of Fri, 18 Sept 2026; the next is "Label Night: Thinner Groove with Powder, 5ive & CZ Wang" on Fri, 18 Sept 2026.
+Nowadays is a music venue in New York City with 33 upcoming nights listed on soundcheck as of Sat, 19 Sept 2026; the next is "Let's Dance Brooklyn x UPLIFTED: Season 13 Kick-Off + Back 2 Skool Edition" on Sat, 19 Sept 2026.
 
-Nowadays is a music venue in Newyorkcity listed on soundcheck. 34 upcoming nights, with line-ups including 1tbsp, 5ive, LYDO and MORENXXX and 2 more. Browse upcoming dates, start times and who's playing. 56-06 Cooper Ave. Ridgewood, NY 11385 USA.
+Nowadays is a music venue in Newyorkcity listed on soundcheck. 33 upcoming nights, with line-ups including 1tbsp, LYDO, MORENXXX and ābnamā and 2 more. Browse upcoming dates, start times and who's playing. 56-06 Cooper Ave. Ridgewood, NY 11385 USA.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 18 Sept 2026 | Label Night: Thinner Groove with Powder, 5ive & CZ Wang | 5ive, CZ Wang, Powder |
 | Sat, 19 Sept 2026 | Let's Dance Brooklyn x UPLIFTED: Season 13 Kick-Off + Back 2 Skool Edition | Ali Coleman, Bridge (NY) |
 | Sat, 19 Sept 2026 | Nonstop: Batu, DJ Masda, JASSS b2b MORENXXX, Mariposa, Roza Terenzi, Vlada b2b Vaahzer | Batu, DJ Masda, JASSS, MORENXXX, Mariposa, Max Vaahs, Roza Terenzi, Vaahzer, Vlada |
 | Sun, 20 Sept 2026 | Mister Sunday: Sedef Adasï Takeover | Sedef Adasï |
@@ -18,9 +17,10 @@ Nowadays is a music venue in Newyorkcity listed on soundcheck. 34 upcoming night
 | Fri, 25 Sept 2026 | Label Night: Time Passages: Binh, Tal Fussman & Shvili | Binh, Shvili, Tal Fussman |
 | Sat, 26 Sept 2026 | Nonstop: Andy Martin, Introspekt, OK Williams, RHR, Shonky, Tano | Andy Martin, Introspekt, OK Williams, RHR, Shonky, Tano |
 | Sat, 26 Sept 2026 | Waxed.Market Record Fair | Frankie Bones, Juana, Rose Kourts |
+| Sun, 27 Sept 2026 | Mister Sunday: Cassy and Eamon Harkin | Cassy, Eamon Harkin |
 
 ## Address
 
 56-06 Cooper Ave. Ridgewood, NY 11385 USA, New York City
 
-*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/nowadays/)*
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/nowadays/)*

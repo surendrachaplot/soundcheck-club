@@ -1,14 +1,15 @@
 # Dj Goodboy
 
-Dj Goodboy is a Downtempo and Hip-Hop artist with 1 upcoming club date listed on soundcheck as of Fri, 18 Sept 2026, next at OHM, Berlin on Thu, 8 Oct 2026.
+Dj Goodboy is a Bass and Downtempo artist with 2 upcoming club dates listed on soundcheck as of Sat, 19 Sept 2026, next at OHM, Berlin on Thu, 8 Oct 2026.
 
-Dj Goodboy is a downtempo and hip-hop artist tracked on soundcheck, with 26 sets logged across Berlin, Mexicocity and Newyorkcity. Often billed alongside Rafush, ABRAMOV and ASA 808. Next up: OHM, Berlin on Thu 8 Oct.
+Dj Goodboy is a bass and downtempo artist tracked on soundcheck, with 27 sets logged across Berlin, Mexicocity and Newyorkcity. Often billed alongside Rafush, ABRAMOV and ASA 808. Next up: OHM, Berlin on Thu 8 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Thu, 8 Oct 2026 | OHM | Berlin |
+| Thu, 17 Dec 2026 | OHM | Berlin |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Dj Goodboy is a downtempo and hip-hop artist tracked on soundcheck, with 26 sets
 
 Rafush, ABRAMOV, ASA 808
 
-*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djgoodboy/)*
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djgoodboy/)*

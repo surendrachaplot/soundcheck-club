@@ -1,6 +1,6 @@
 # Baalti
 
-Baalti is a House and Bass artist with 4 upcoming club dates listed on soundcheck as of Fri, 18 Sept 2026, next at Fort Mifflin, Philadelphia on Fri, 18 Sept 2026.
+Baalti is a House and Bass artist with 4 upcoming club dates listed on soundcheck as of Sat, 19 Sept 2026, next at Fort Mifflin, Philadelphia on Fri, 18 Sept 2026.
 
 Baalti is a house and bass artist tracked on soundcheck, with 60 sets logged across Amsterdam, Austin, Berlin and Brisbane and 19 more. Often billed alongside Seb Wildblood, Tom VR and Ahadadream. Next up: Fort Mifflin, Philadelphia on Fri 18 Sept.
 
@@ -15,6 +15,7 @@ Baalti is a house and bass artist tracked on soundcheck, with 60 sets logged acr
 
 ## Recently played
 
+- Fort Mifflin, Philadelphia — Fri, 18 Sept 2026
 - Colour Factory, London — Sat, 5 Sept 2026
 - Nowadays, New York City — Sat, 15 Aug 2026
 - New York Avenue Beach, Philadelphia — Sat, 25 Jul 2026
@@ -22,10 +23,9 @@ Baalti is a house and bass artist tracked on soundcheck, with 60 sets logged acr
 - 314 Scholes, New York City — Sat, 11 Jul 2026
 - The Cause, London — Sat, 20 Jun 2026
 - Virage, Paris — Fri, 19 Jun 2026
-- TBA - Les Grandes Locos , Lyon — Wed, 13 May 2026
 
 ## Shares bills with
 
 Seb Wildblood, Tom VR, Ahadadream
 
-*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/baalti/)*
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/baalti/)*

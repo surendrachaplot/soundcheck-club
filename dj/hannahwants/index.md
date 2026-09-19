@@ -1,6 +1,6 @@
 # Hannah Wants
 
-Hannah Wants is a House and Tech House artist with 3 upcoming club dates listed on soundcheck as of Fri, 18 Sept 2026, next at Chinois Ibiza, Ibiza on Mon, 21 Sept 2026.
+Hannah Wants is a House and Tech House artist with 3 upcoming club dates listed on soundcheck as of Sat, 19 Sept 2026, next at Chinois Ibiza, Ibiza on Mon, 21 Sept 2026.
 
 Hannah Wants is a house and tech house artist tracked on soundcheck, with 99 sets logged across Amsterdam, Auckland, Austin and Bali and 31 more. Often billed alongside Arielle Free, Sam Divine and Claptone. Next up: Chinois Ibiza, Ibiza on Mon 21 Sept.
 
@@ -27,4 +27,4 @@ Hannah Wants is a house and tech house artist tracked on soundcheck, with 99 set
 
 Arielle Free, Sam Divine, Claptone
 
-*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/hannahwants/)*
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/hannahwants/)*

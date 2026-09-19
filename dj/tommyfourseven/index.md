@@ -1,14 +1,13 @@
 # Tommy Four Seven
 
-Tommy Four Seven is a Techno and Industrial artist with 7 upcoming club dates listed on soundcheck as of Fri, 18 Sept 2026, next at TBA, Denver on Fri, 18 Sept 2026.
+Tommy Four Seven is a Techno and Industrial artist with 6 upcoming club dates listed on soundcheck as of Sat, 19 Sept 2026, next at Frankie's, Vancouver on Sat, 19 Sept 2026.
 
-Tommy Four Seven is a techno and industrial artist tracked on soundcheck, with 139 sets logged across Amsterdam, Athens, Austin and Bali and 51 more. Often billed alongside Tauceti (FR), Adriana Lopez and CESAR ALMENA. Next up: TBA, Denver on Fri 18 Sept.
+Tommy Four Seven is a techno and industrial artist tracked on soundcheck, with 139 sets logged across Amsterdam, Athens, Austin and Bali and 51 more. Often billed alongside Tauceti (FR), Adriana Lopez and CESAR ALMENA. Next up: Frankie's, Vancouver on Sat 19 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 18 Sept 2026 | TBA | Denver |
 | Sat, 19 Sept 2026 | Frankie's | Vancouver |
 | Fri, 25 Sept 2026 | ART Madrid Club | Madrid |
 | Sat, 3 Oct 2026 | Tresor.West | Dortmund-essen |
@@ -18,6 +17,7 @@ Tommy Four Seven is a techno and industrial artist tracked on soundcheck, with 1
 
 ## Recently played
 
+- TBA, Denver — Fri, 18 Sept 2026
 - Europa Boat, Budapest — Sat, 5 Sept 2026
 - Tresor / Globus, Berlin — Sat, 29 Aug 2026
 - RASA, Singapore — Sat, 15 Aug 2026
@@ -25,10 +25,9 @@ Tommy Four Seven is a techno and industrial artist tracked on soundcheck, with 1
 - Karmen Camina, Strasbourg — Sat, 8 Aug 2026
 - Fvtvr, Paris — Fri, 7 Aug 2026
 - Flux, Istanbul — Sat, 1 Aug 2026
-- NWHR, Montreal — Sat, 25 Jul 2026
 
 ## Shares bills with
 
 Tauceti (FR), Adriana Lopez, CESAR ALMENA
 
-*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tommyfourseven/)*
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tommyfourseven/)*

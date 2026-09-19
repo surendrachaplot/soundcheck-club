@@ -1,6 +1,6 @@
 # Alfredo92
 
-Alfredo92 is a Techno and Experimental artist with 1 upcoming club date listed on soundcheck as of Fri, 18 Sept 2026, next at Simian, Copenhagen on Sat, 26 Sept 2026.
+Alfredo92 is a Techno and Experimental artist with 1 upcoming club date listed on soundcheck as of Sat, 19 Sept 2026, next at Simian, Copenhagen on Sat, 26 Sept 2026.
 
 Alfredo92 is a techno and experimental artist based in Denmark, tracked on soundcheck, with 34 sets logged across Copenhagen and Dusseldorf. Often billed alongside Kasper Marott, Popmix and Søren Kinch. Next up: Simian, Copenhagen on Sat 26 Sept.
 
@@ -25,4 +25,4 @@ Alfredo92 is a techno and experimental artist based in Denmark, tracked on sound
 
 Kasper Marott, Popmix, Søren Kinch
 
-*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/alfredo92/)*
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/alfredo92/)*

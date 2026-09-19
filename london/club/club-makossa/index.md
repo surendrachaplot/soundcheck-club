@@ -1,14 +1,13 @@
 # Club Makossa
 
-Club Makossa is a music venue in London with 11 upcoming nights listed on soundcheck as of Fri, 18 Sept 2026; the next is "FRIYAYS at MAKOSSA (House, Tech House, UK Bass, Drum & Bass)" on Fri, 18 Sept 2026.
+Club Makossa is a music venue in London with 10 upcoming nights listed on soundcheck as of Sat, 19 Sept 2026; the next is "Dub Loft v2 with Live MC's" on Sat, 19 Sept 2026.
 
-Club Makossa is a music venue in London listed on soundcheck. 11 upcoming nights, with line-ups including Bella Rysk, Carien, DAMO and Don Julia and 2 more. Browse upcoming dates, start times and who's playing. 113 Kingsland High Street, London E8 2PB.
+Club Makossa is a music venue in London listed on soundcheck. 10 upcoming nights, with line-ups including Carien, DAMO, Don Julia and EWERED and 2 more. Browse upcoming dates, start times and who's playing. 113 Kingsland High Street, London E8 2PB.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 18 Sept 2026 | FRIYAYS at MAKOSSA (House, Tech House, UK Bass, Drum & Bass) | Bella Rysk, PICKY |
 | Sat, 19 Sept 2026 | Dub Loft v2 with Live MC's | Carien, Don Julia, skruba |
 | Thu, 24 Sept 2026 | BUSS IT (Dancehall, Bashment, Jersey Club + MORE) - Free Entry | M4YA |
 | Fri, 25 Sept 2026 | FRIYAYS at MAKOSSA (House, Tech House, UK Bass, Drum & Bass) | EWERED |
@@ -18,9 +17,10 @@ Club Makossa is a music venue in London listed on soundcheck. 11 upcoming nights
 | Sat, 10 Oct 2026 | POSITIVE_PRESENTS: 21 | Faded Society, Noizfiend, Positive_Con, tasha.mp4 |
 | Thu, 15 Oct 2026 | AFRO In Da Endz: Afro House, Afro Tech & Gqom |  |
 | Thu, 29 Oct 2026 | FUTURE: DJ Competition & Games |  |
+| Thu, 19 Nov 2026 | No Name Given - FLINTA* BASS / GRIME / JUNGLE NIGHT | NK47, miss jas |
 
 ## Address
 
 113 Kingsland High Street, London E8 2PB, London
 
-*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/club-makossa/)*
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/club-makossa/)*

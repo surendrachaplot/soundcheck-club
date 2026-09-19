@@ -1,6 +1,6 @@
 # Kamboya
 
-Kamboya is a House and Downtempo artist with 1 upcoming club date listed on soundcheck as of Fri, 18 Sept 2026, next at Skin Club, Madrid on Sun, 20 Sept 2026.
+Kamboya is a House and Downtempo artist with 1 upcoming club date listed on soundcheck as of Sat, 19 Sept 2026, next at Skin Club, Madrid on Sun, 20 Sept 2026.
 
 Kamboya is a house and downtempo artist based in Spain, tracked on soundcheck, with 94 sets logged across Barcelona and Madrid. Often billed alongside Sarcophago, Alvaro Cabana and Valleyk. Next up: Skin Club, Madrid on Sun 20 Sept.
 
@@ -25,4 +25,4 @@ Kamboya is a house and downtempo artist based in Spain, tracked on soundcheck, w
 
 Sarcophago, Alvaro Cabana, Valleyk
 
-*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kamboya/)*
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kamboya/)*

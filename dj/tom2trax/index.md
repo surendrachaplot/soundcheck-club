@@ -1,6 +1,6 @@
 # Tom2trax
 
-Tom2trax is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Fri, 18 Sept 2026, next at Bar Shrimp, Manchester on Sat, 19 Sept 2026.
+Tom2trax is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Sat, 19 Sept 2026, next at Bar Shrimp, Manchester on Sat, 19 Sept 2026.
 
 Tom2trax is a house and disco artist based in United Kingdom, tracked on soundcheck, with 30 sets logged across Liverpool and Manchester. Often billed alongside Liam Oliver, James Greenwood and Kickin Pigeon. Next up: Bar Shrimp, Manchester on Sat 19 Sept.
 
@@ -26,4 +26,4 @@ Tom2trax is a house and disco artist based in United Kingdom, tracked on soundch
 
 Liam Oliver, James Greenwood, Kickin Pigeon
 
-*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tom2trax/)*
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tom2trax/)*

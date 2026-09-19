@@ -1,6 +1,6 @@
 # Janeret
 
-Janeret is a House and Minimal artist with 4 upcoming club dates listed on soundcheck as of Fri, 18 Sept 2026, next at block., Dublin on Sat, 19 Sept 2026.
+Janeret is a House and Minimal artist with 4 upcoming club dates listed on soundcheck as of Sat, 19 Sept 2026, next at block., Dublin on Sat, 19 Sept 2026.
 
 Janeret is a house and minimal artist tracked on soundcheck, with 132 sets logged across Amsterdam, Athens, Bali and Barcelona and 41 more. Often billed alongside Traumer, Alex (ES) and Miroloja. Next up: block., Dublin on Sat 19 Sept.
 
@@ -28,4 +28,4 @@ Janeret is a house and minimal artist tracked on soundcheck, with 132 sets logge
 
 Traumer, Alex (ES), Miroloja
 
-*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/janeret/)*
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/janeret/)*

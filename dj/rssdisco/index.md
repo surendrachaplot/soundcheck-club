@@ -1,6 +1,6 @@
 # RSS Disco
 
-RSS Disco is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 18 Sept 2026, next at Südpol, Hamburg on Fri, 18 Sept 2026.
+RSS Disco is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 19 Sept 2026, next at Südpol, Hamburg on Fri, 18 Sept 2026.
 
 RSS Disco is a house and techno artist based in Germany, tracked on soundcheck, with 51 sets logged across Amsterdam, Berlin, Cologne and Copenhagen and 10 more. Often billed alongside Anja Schneider, Mira and Foolik. Next up: Südpol, Hamburg on Fri 18 Sept.
 
@@ -13,6 +13,7 @@ RSS Disco is a house and techno artist based in Germany, tracked on soundcheck, 
 
 ## Recently played
 
+- Südpol, Hamburg — Fri, 18 Sept 2026
 - Kater, Berlin — Fri, 11 Sept 2026
 - Jonny Knüppel, Berlin — Sat, 8 Aug 2026
 - gART.n, Berlin — Sat, 11 Jul 2026
@@ -20,10 +21,9 @@ RSS Disco is a house and techno artist based in Germany, tracked on soundcheck, 
 - BBCB: Beton Brut+Concrete Bar, Seoul — Sun, 24 May 2026
 - Café Schöne Aussichten (CSA), Hamburg — Sat, 9 May 2026
 - Nachtasyl, Hamburg — Sat, 21 Mar 2026
-- Golden Pudel Club, Hamburg — Thu, 1 Jan 2026
 
 ## Shares bills with
 
 Anja Schneider, Mira, Foolik
 
-*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/rssdisco/)*
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/rssdisco/)*

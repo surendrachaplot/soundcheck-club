@@ -1,6 +1,6 @@
 # VBX SUMMER CLOSING AFTER at BRET
 
-VBX SUMMER CLOSING AFTER at BRET on Sun 20 Sept, Amsterdam. 4 acts on the bill: Frank Haag, Lo Ds, Noach and Victor. Preview the line-up and save it on soundcheck.
+VBX SUMMER CLOSING AFTER at BRET on Sun 20 Sept, Amsterdam. 5 acts on the bill: Frank Haag, Lo Ds, Noach and Victor and 1 more. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -14,5 +14,6 @@ VBX SUMMER CLOSING AFTER at BRET on Sun 20 Sept, Amsterdam. 4 acts on the bill: 
 - Lo Ds
 - Noach
 - Victor
+- Victor (DE)
 
 *Source: [soundcheck](https://soundcheck.club/e/2528830-vbx-summer-closing-after-at-bret/)*

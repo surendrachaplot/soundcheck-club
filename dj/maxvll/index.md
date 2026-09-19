@@ -1,14 +1,15 @@
 # Maxvll
 
-Maxvll is a Hip-Hop and Baile Funk artist with 1 upcoming club date listed on soundcheck as of Fri, 18 Sept 2026, next at Club Magno, Madrid on Thu, 15 Oct 2026.
+Maxvll is a Hip-Hop and Afrobeats artist with 2 upcoming club dates listed on soundcheck as of Sat, 19 Sept 2026, next at Club Magno, Madrid on Thu, 15 Oct 2026.
 
-Maxvll is a hip-hop and baile funk artist tracked on soundcheck, with 129 sets logged across Amsterdam, Barcelona, Geneva and Lisbon and 4 more. Often billed alongside Diego Armando, Yosef (ES) and Yosef. Next up: Club Magno, Madrid on Thu 15 Oct.
+Maxvll is a hip-hop and afrobeats artist tracked on soundcheck, with 130 sets logged across Amsterdam, Barcelona, Geneva and Lisbon and 4 more. Often billed alongside Diego Armando, Yosef (ES) and Yosef. Next up: Club Magno, Madrid on Thu 15 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Thu, 15 Oct 2026 | Club Magno | Madrid |
+| Thu, 17 Dec 2026 | Club Magno | Madrid |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Maxvll is a hip-hop and baile funk artist tracked on soundcheck, with 129 sets l
 
 Diego Armando, Yosef (ES), Yosef
 
-*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/maxvll/)*
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/maxvll/)*

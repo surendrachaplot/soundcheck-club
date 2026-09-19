@@ -1,15 +1,16 @@
 # Carlo Karacho
 
-Carlo Karacho is a Breakbeat and Electronica artist with 2 upcoming club dates listed on soundcheck as of Fri, 18 Sept 2026, next at TBA - CAFÉ BAR JARDIN BENSHEIM, Frankfurt on Sat, 19 Sept 2026.
+Carlo Karacho is a Breakbeat and Electronica artist with 3 upcoming club dates listed on soundcheck as of Sat, 19 Sept 2026, next at TBA - CAFÉ BAR JARDIN BENSHEIM, Frankfurt on Sat, 19 Sept 2026.
 
-Carlo Karacho is a breakbeat and electronica artist tracked on soundcheck, with 31 sets logged across Berlin, Cologne, Frankfurt and Hamburg and 4 more. Often billed alongside SQF2000, 3LNA and BBetriebswirt. Next up: TBA - CAFÉ BAR JARDIN BENSHEIM, Frankfurt on Sat 19 Sept.
+Carlo Karacho is a breakbeat and electronica artist tracked on soundcheck, with 32 sets logged across Berlin, Cologne, Frankfurt and Hamburg and 4 more. Often billed alongside SQF2000, 3LNA and BBetriebswirt. Next up: TBA - CAFÉ BAR JARDIN BENSHEIM, Frankfurt on Sat 19 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 19 Sept 2026 | TBA - CAFÉ BAR JARDIN BENSHEIM | Frankfurt |
-| Fri, 2 Oct 2026 | TBA | Hamburg |
+| Sat, 26 Sept 2026 | frachtkante | Berlin |
+| Fri, 2 Oct 2026 | TBA - Glimmer,  Stockmeyerstraße 43, 20457 Hamburg | Hamburg |
 
 ## Recently played
 
@@ -26,4 +27,4 @@ Carlo Karacho is a breakbeat and electronica artist tracked on soundcheck, with 
 
 SQF2000, 3LNA, BBetriebswirt
 
-*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/carlokaracho/)*
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/carlokaracho/)*

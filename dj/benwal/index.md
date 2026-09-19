@@ -1,14 +1,13 @@
 # Benwal
 
-Benwal is a Techno and House artist with 14 upcoming club dates listed on soundcheck as of Fri, 18 Sept 2026, next at Cabaret Voltaire, Edinburgh on Fri, 18 Sept 2026.
+Benwal is a Techno and House artist with 13 upcoming club dates listed on soundcheck as of Sat, 19 Sept 2026, next at SWG3, Glasgow on Sat, 19 Sept 2026.
 
-Benwal is a techno and house artist tracked on soundcheck, with 176 sets logged across Amsterdam, Antwerp, Austin and Bali and 41 more. Often billed alongside Kyle Starkey, MALUGI and Pegassi. Next up: Cabaret Voltaire, Edinburgh on Fri 18 Sept.
+Benwal is a techno and house artist tracked on soundcheck, with 176 sets logged across Amsterdam, Antwerp, Austin and Bali and 41 more. Often billed alongside Kyle Starkey, MALUGI and Pegassi. Next up: SWG3, Glasgow on Sat 19 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 18 Sept 2026 | Cabaret Voltaire | Edinburgh |
 | Sat, 19 Sept 2026 | SWG3 | Glasgow |
 | Sat, 19 Sept 2026 | SWG3 | Glasgow |
 | Fri, 25 Sept 2026 | The Warehouse | Leeds |
@@ -20,9 +19,11 @@ Benwal is a techno and house artist tracked on soundcheck, with 176 sets logged 
 | Sun, 1 Nov 2026 | Mondo Open Air | Madrid |
 | Sun, 1 Nov 2026 | Mondo | Madrid |
 | Fri, 6 Nov 2026 | Club Vinyl | Denver |
+| Fri, 13 Nov 2026 | The Concourse Project | Austin |
 
 ## Recently played
 
+- Cabaret Voltaire, Edinburgh — Fri, 18 Sept 2026
 - Place Noord, Brussels — Sat, 5 Sept 2026
 - Amnesia Ibiza, Ibiza — Mon, 31 Aug 2026
 - Tuinen van West, Amsterdam — Sat, 29 Aug 2026
@@ -30,10 +31,9 @@ Benwal is a techno and house artist tracked on soundcheck, with 176 sets logged 
 - Gianpula Village, Malta — Wed, 12 Aug 2026
 - [UNVRS], Ibiza — Mon, 10 Aug 2026
 - Nitsa Club, Barcelona — Fri, 7 Aug 2026
-- Burgess Park, London — Sat, 1 Aug 2026
 
 ## Shares bills with
 
 Kyle Starkey, MALUGI, Pegassi
 
-*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/benwal/)*
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/benwal/)*

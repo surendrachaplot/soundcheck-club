@@ -1,18 +1,18 @@
 # widdows95
 
-widdows95 is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 18 Sept 2026, next at Skylight Warehouse, Vancouver on Fri, 18 Sept 2026.
+widdows95 is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 19 Sept 2026, next at The Jama, Toronto on Sat, 17 Oct 2026.
 
-widdows95 is a house and techno artist based in Canada, tracked on soundcheck, with 8 sets logged across Newyorkcity, Toronto and Vancouver. Often billed alongside Blkvirgo, Carbajal and Critter. Next up: Skylight Warehouse, Vancouver on Fri 18 Sept.
+widdows95 is a house and techno artist based in Canada, tracked on soundcheck, with 8 sets logged across Newyorkcity, Toronto and Vancouver. Often billed alongside Blkvirgo, Carbajal and Critter. Next up: The Jama, Toronto on Sat 17 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 18 Sept 2026 | Skylight Warehouse | Vancouver |
 | Sat, 17 Oct 2026 | The Jama | Toronto |
 
 ## Recently played
 
+- Skylight Warehouse, Vancouver — Fri, 18 Sept 2026
 - The Lido, Vancouver — Thu, 3 Sept 2026
 - TBA - Toronto, Toronto — Fri, 24 Jul 2026
 - Mood Ring, New York City — Sat, 25 Apr 2026
@@ -24,4 +24,4 @@ widdows95 is a house and techno artist based in Canada, tracked on soundcheck, w
 
 Blkvirgo, Carbajal, Critter
 
-*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/widdows95/)*
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/widdows95/)*

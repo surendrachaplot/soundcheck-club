@@ -1,6 +1,6 @@
 # sizing
 
-sizing is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Fri, 18 Sept 2026, next at Audiodrome, Turin on Fri, 25 Sept 2026.
+sizing is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Sat, 19 Sept 2026, next at Audiodrome, Turin on Fri, 25 Sept 2026.
 
 sizing is a techno and house artist tracked on soundcheck, with 85 sets logged across Ibiza, Malta, Milan and Turin. Often billed alongside Gandalf, Marbox and Mirko Motta. Next up: Audiodrome, Turin on Fri 25 Sept.
 
@@ -28,4 +28,4 @@ sizing is a techno and house artist tracked on soundcheck, with 85 sets logged a
 
 Gandalf, Marbox, Mirko Motta
 
-*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sizing/)*
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sizing/)*

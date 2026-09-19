@@ -1,14 +1,13 @@
 # Plano B
 
-Plano B is a music venue in Porto with 10 upcoming nights listed on soundcheck as of Fri, 18 Sept 2026; the next is "Rompante + Semedo" on Fri, 18 Sept 2026.
+Plano B is a music venue in Porto with 9 upcoming nights listed on soundcheck as of Sat, 19 Sept 2026; the next is "Tiago Cruz + PIMENTTA" on Sat, 19 Sept 2026.
 
-Plano B is a music venue in Porto listed on soundcheck. 10 upcoming nights, with line-ups including Jen Cardini, Joao Semedo, John Talabot and Objekt and 2 more. Browse upcoming dates, start times and who's playing. Rua Cândido dos Reis nº30 Porto (aos clérigos).
+Plano B is a music venue in Porto listed on soundcheck. 9 upcoming nights, with line-ups including Jen Cardini, John Talabot, Objekt and Ogazón and 2 more. Browse upcoming dates, start times and who's playing. Rua Cândido dos Reis nº30 Porto (aos clérigos).
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 18 Sept 2026 | Rompante + Semedo | Joao Semedo, Rompante |
 | Sat, 19 Sept 2026 | Tiago Cruz + PIMENTTA | PIMENTTA |
 | Thu, 24 Sept 2026 | NIGHTSHIFT - Sara Gil | Rúben Costa |
 | Fri, 25 Sept 2026 | John Talabot (ES) | John Talabot |
@@ -23,4 +22,4 @@ Plano B is a music venue in Porto listed on soundcheck. 10 upcoming nights, with
 
 Rua Cândido dos Reis nº30 Porto (aos clérigos), Porto
 
-*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/porto/club/plano-b/)*
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/porto/club/plano-b/)*

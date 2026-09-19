@@ -1,6 +1,6 @@
 # Philipp Strobel
 
-Philipp Strobel is a EBM and Techno artist with 5 upcoming club dates listed on soundcheck as of Fri, 18 Sept 2026, next at Urban Spree, Berlin on Sat, 3 Oct 2026.
+Philipp Strobel is a EBM and Techno artist with 5 upcoming club dates listed on soundcheck as of Sat, 19 Sept 2026, next at Urban Spree, Berlin on Sat, 3 Oct 2026.
 
 Philipp Strobel is an ebm and techno artist based in Germany, tracked on soundcheck, with 63 sets logged across Amsterdam, Barcelona, Berlin and Krakow and 7 more. Often billed alongside Incendie, Caillou (DE) and Ancient Methods. Next up: Urban Spree, Berlin on Sat 3 Oct.
 
@@ -29,4 +29,4 @@ Philipp Strobel is an ebm and techno artist based in Germany, tracked on soundch
 
 Incendie, Caillou (DE), Ancient Methods
 
-*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/philippstrobel/)*
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/philippstrobel/)*

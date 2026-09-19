@@ -1,6 +1,6 @@
 # Akiï
 
-Akiï is a Bass and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 18 Sept 2026, next at Monk Club, Rome on Sat, 19 Sept 2026.
+Akiï is a Bass and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 19 Sept 2026, next at Monk Club, Rome on Sat, 19 Sept 2026.
 
 Akiï is a bass and techno artist tracked on soundcheck, with 26 sets logged across Berlin and Rome. Often billed alongside Lyndon Lewis, FISK and Fukinsei. Next up: Monk Club, Rome on Sat 19 Sept.
 
@@ -25,4 +25,4 @@ Akiï is a bass and techno artist tracked on soundcheck, with 26 sets logged acr
 
 Lyndon Lewis, FISK, Fukinsei
 
-*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/akiï/)*
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/akiï/)*

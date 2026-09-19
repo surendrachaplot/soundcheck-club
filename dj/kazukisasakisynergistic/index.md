@@ -1,6 +1,6 @@
 # Kazuki Sasaki(SYNERGISTIC)
 
-Kazuki Sasaki(SYNERGISTIC) is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 18 Sept 2026, next at Azumaya, Tokyo on Sat, 19 Sept 2026.
+Kazuki Sasaki(SYNERGISTIC) is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 19 Sept 2026, next at Azumaya, Tokyo on Sat, 19 Sept 2026.
 
 Kazuki Sasaki(SYNERGISTIC) is a house and techno artist based in Japan, tracked on soundcheck, with 21 sets logged across Tokyo. Often billed alongside Frankie $, OPTIMIST and VECSILLE. Next up: Azumaya, Tokyo on Sat 19 Sept.
 
@@ -25,4 +25,4 @@ Kazuki Sasaki(SYNERGISTIC) is a house and techno artist based in Japan, tracked 
 
 Frankie $, OPTIMIST, VECSILLE
 
-*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kazukisasakisynergistic/)*
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kazukisasakisynergistic/)*

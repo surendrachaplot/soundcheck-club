@@ -1,30 +1,28 @@
 # ANDOW
 
-ANDOW is a Club and Hip-Hop artist with 3 upcoming club dates listed on soundcheck as of Fri, 18 Sept 2026, next at Bolero, Seoul on Fri, 18 Sept 2026.
+ANDOW is a Club and Hip-Hop artist with 1 upcoming club date listed on soundcheck as of Sat, 19 Sept 2026, next at Bolero, Seoul on Sat, 26 Sept 2026.
 
-ANDOW is a club and hip-hop artist tracked on soundcheck, with 162 sets logged across Seoul. Often billed alongside DJ Co.kr, DOBERMAN and DJ Soulscape. Next up: Bolero, Seoul on Fri 18 Sept.
+ANDOW is a club and hip-hop artist tracked on soundcheck, with 162 sets logged across Seoul. Often billed alongside DJ Co.kr, DOBERMAN and DJ Soulscape. Next up: Bolero, Seoul on Sat 26 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 18 Sept 2026 | Bolero | Seoul |
-| Fri, 18 Sept 2026 | The Henz Club | Seoul |
 | Sat, 26 Sept 2026 | Bolero | Seoul |
 
 ## Recently played
 
+- Bolero, Seoul — Fri, 18 Sept 2026
+- The Henz Club, Seoul — Fri, 18 Sept 2026
 - Bolero, Seoul — Sat, 12 Sept 2026
 - Soap Seoul., Seoul — Sat, 5 Sept 2026
 - Bolero, Seoul — Fri, 4 Sept 2026
 - J.J. Mahoney's Bar, Seoul — Fri, 4 Sept 2026
 - Times, Seoul — Fri, 28 Aug 2026
 - Modeci, Seoul — Sat, 22 Aug 2026
-- Soap Seoul, Seoul — Sun, 16 Aug 2026
-- Times, Seoul — Fri, 14 Aug 2026
 
 ## Shares bills with
 
 DJ Co.kr, DOBERMAN, DJ Soulscape
 
-*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/andow/)*
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/andow/)*

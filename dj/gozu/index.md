@@ -1,6 +1,6 @@
 # gozu
 
-gozu is a Jungle and Drum & Bass artist with 1 upcoming club date listed on soundcheck as of Fri, 18 Sept 2026, next at TBA - NAMELESS, Philadelphia on Sat, 26 Sept 2026.
+gozu is a Jungle and Drum & Bass artist with 1 upcoming club date listed on soundcheck as of Sat, 19 Sept 2026, next at TBA - NAMELESS, Philadelphia on Sat, 26 Sept 2026.
 
 gozu is a jungle and drum & bass artist based in United States of America, tracked on soundcheck, with 11 sets logged across Philadelphia. Often billed alongside Asat, ADAB and Art Cuebik. Next up: TBA - NAMELESS, Philadelphia on Sat 26 Sept.
 
@@ -25,4 +25,4 @@ gozu is a jungle and drum & bass artist based in United States of America, track
 
 Asat, ADAB, Art Cuebik
 
-*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/gozu/)*
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/gozu/)*

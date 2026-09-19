@@ -1,6 +1,6 @@
 # HONEY TRAP at TBA - NW DC 
 
-HONEY TRAP at TBA - NW DC  on Sat 26 Sept, Washingtondc. 3 acts on the bill: Allanit, BehTarin and KayLaSoul. Minimal and Deep House. Preview the line-up and save it on soundcheck.
+HONEY TRAP at TBA - NW DC  on Sat 26 Sept, Washingtondc. 4 acts on the bill: Allanit, BehTarin, Demimonde and KayLaSoul. Minimal and Deep House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -12,6 +12,7 @@ HONEY TRAP at TBA - NW DC  on Sat 26 Sept, Washingtondc. 3 acts on the bill: All
 
 - Allanit
 - BehTarin
+- Demimonde
 - KayLaSoul
 
 *Source: [soundcheck](https://soundcheck.club/e/2522432-honey-trap-at-tba-nw-dc/)*

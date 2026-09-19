@@ -1,6 +1,6 @@
 # Hayley Zalassi
 
-Hayley Zalassi is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Fri, 18 Sept 2026, next at Ramona, Manchester on Sat, 19 Sept 2026.
+Hayley Zalassi is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Sat, 19 Sept 2026, next at Ramona, Manchester on Sat, 19 Sept 2026.
 
 Hayley Zalassi is a house and techno artist tracked on soundcheck, with 91 sets logged across Aberdeen, Amsterdam, Barcelona and Brighton and 14 more. Often billed alongside KILIMANJARO, Big Miz and Danse Atmos. Next up: Ramona, Manchester on Sat 19 Sept.
 
@@ -27,4 +27,4 @@ Hayley Zalassi is a house and techno artist tracked on soundcheck, with 91 sets 
 
 KILIMANJARO, Big Miz, Danse Atmos
 
-*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/hayleyzalassi/)*
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/hayleyzalassi/)*

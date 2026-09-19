@@ -1,6 +1,6 @@
 # wngdu
 
-wngdu is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 18 Sept 2026, next at Subspace, Denver on Sat, 19 Sept 2026.
+wngdu is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 19 Sept 2026, next at Subspace, Denver on Sat, 19 Sept 2026.
 
 wngdu is a house and techno artist tracked on soundcheck, with 29 sets logged across Boston, Denver, Miami and Newyorkcity and 1 more. Often billed alongside Mitch Smith, Nico Tobón and 'nohup'. Next up: Subspace, Denver on Sat 19 Sept.
 
@@ -26,4 +26,4 @@ wngdu is a house and techno artist tracked on soundcheck, with 29 sets logged ac
 
 Mitch Smith, Nico Tobón, 'nohup'
 
-*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/wngdu/)*
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/wngdu/)*

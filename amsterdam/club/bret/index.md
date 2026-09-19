@@ -1,26 +1,26 @@
 # BRET
 
-BRET is a music venue in Amsterdam with 21 upcoming nights listed on soundcheck as of Fri, 18 Sept 2026; the next is "LOLA - DAM SWINDLE, MIDAS FIELD, MEREL HELDERMAN, BIBI SECK, DRABES" on Fri, 18 Sept 2026.
+BRET is a music venue in Amsterdam with 20 upcoming nights listed on soundcheck as of Sat, 19 Sept 2026; the next is "SPADES 12 HOURS" on Sat, 19 Sept 2026.
 
-BRET is a music venue in Amsterdam listed on soundcheck. 21 upcoming nights, with line-ups including Anz, Arapu, Bailey Ibbs and Bastienne and 2 more. Browse upcoming dates, start times and who's playing. Orlyplein 76, 1043 DP Amsterdam, Netherlands.
+BRET is a music venue in Amsterdam listed on soundcheck. 20 upcoming nights, with line-ups including Al Ex, Alex Dima, Alexia Glensy and Andy Luff and 2 more. Browse upcoming dates, start times and who's playing. Orlyplein 76, 1043 DP Amsterdam, Netherlands.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 18 Sept 2026 | LOLA - DAM SWINDLE, MIDAS FIELD, MEREL HELDERMAN, BIBI SECK, DRABES | Bibi Seck, Dam Swindle, Drabes, Merel Helderman, Midas Field |
-| Fri, 18 Sept 2026 | Lola x BRET - Midas Field Curates | Dam Swindle, Drabes, Merel Helderman, Midas Field |
-| Fri, 18 Sept 2026 | LOLA - Dam Swindle, Midas Field, Merel Helderman, BIBI SECK, Drabes | Dam Swindle, Drabes, Merel Helderman, Midas Field |
 | Sat, 19 Sept 2026 | SPADES 12 HOURS |  |
-| Sun, 20 Sept 2026 | VBX SUMMER CLOSING AFTER | Frank Haag, Lo Ds, Noach, Victor |
+| Sun, 20 Sept 2026 | VBX SUMMER CLOSING AFTER | Frank Haag, Lo Ds, Noach, Victor, Victor (DE) |
 | Fri, 25 Sept 2026 | PILOT - Sidney Charles (5HRS) | Sidney Charles |
 | Sat, 26 Sept 2026 | SLPFNK Summer Closing |  |
 | Fri, 2 Oct 2026 | Arapu, Natalia Roth | Arapu, Natalia Roth |
+| Sat, 3 Oct 2026 | EASTTOWN - EXTENDED SET (18+) | Easttown |
 | Sun, 4 Oct 2026 | Jesse G, MARRØN, SHE/HER | Jesse G, MARRØN, SHE/HER |
 | Wed, 21 Oct 2026 | Lobster Invites - Free ADE Event | Kyra Khaldi, Lobster (NL), Mella Dee, Samuel Deep |
+| Thu, 22 Oct 2026 | SLACKER x BRET - ADE | Gaiser, Marc Houle, Olive F, Rio Tashan, Seth Troxler, Sindicato Del Baile, Tiga, Tom Trago |
+| Fri, 23 Oct 2026 | Mano Le Tough pres. Maeve x ADE | Carlos Valdes, Cassy, Luke Alessi, Mano Le Tough, The Drifter |
 
 ## Address
 
 Orlyplein 76, 1043 DP Amsterdam, Netherlands, Amsterdam
 
-*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/bret/)*
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/bret/)*

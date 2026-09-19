@@ -1,14 +1,13 @@
 # Système
 
-Système is a music venue in Montreal with 9 upcoming nights listed on soundcheck as of Fri, 18 Sept 2026; the next is "Greenbeam ++ " on Fri, 18 Sept 2026.
+Système is a music venue in Montreal with 8 upcoming nights listed on soundcheck as of Sat, 19 Sept 2026; the next is "DéCaDANSE: celebrating Michael Terzian's 30 yrs behind the turntables" on Sat, 19 Sept 2026.
 
-Système is a music venue in Montreal listed on soundcheck. 9 upcoming nights, with line-ups including Anabasine, anise, Barbara Boeing and Claire and 2 more. Browse upcoming dates, start times and who's playing. 7119 Saint Hubert, Montreal QC H2S2N1 Canada.
+Système is a music venue in Montreal listed on soundcheck. 8 upcoming nights, with line-ups including Anabasine, anise, Barbara Boeing and Claire and 2 more. Browse upcoming dates, start times and who's playing. 7119 Saint Hubert, Montreal QC H2S2N1 Canada.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 18 Sept 2026 | Greenbeam ++  | DJ Frog, Excalibur, SnP 500 |
 | Sat, 19 Sept 2026 | DéCaDANSE: celebrating Michael Terzian's 30 yrs behind the turntables | DJ Michael Terzian, Don Barbarino |
 | Sun, 20 Sept 2026 | Give It To 'Em Release Party | Kridelka |
 | Thu, 24 Sept 2026 | Système Soundsystem |  |
@@ -22,4 +21,4 @@ Système is a music venue in Montreal listed on soundcheck. 9 upcoming nights, w
 
 7119 Saint Hubert, Montreal QC H2S2N1 Canada, Montreal
 
-*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/montreal/club/syst-me/)*
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/montreal/club/syst-me/)*

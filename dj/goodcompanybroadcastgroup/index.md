@@ -1,6 +1,6 @@
 # Good Company Broadcast Group
 
-Good Company Broadcast Group is a House and Deep House artist with 2 upcoming club dates listed on soundcheck as of Fri, 18 Sept 2026, next at Red Bar, Tokyo on Sat, 19 Sept 2026.
+Good Company Broadcast Group is a House and Deep House artist with 2 upcoming club dates listed on soundcheck as of Sat, 19 Sept 2026, next at Red Bar, Tokyo on Sat, 19 Sept 2026.
 
 Good Company Broadcast Group is a house and deep house artist tracked on soundcheck, with 36 sets logged across Tokyo. Often billed alongside Joe O, CHIDA and FU (JP). Next up: Red Bar, Tokyo on Sat 19 Sept.
 
@@ -26,4 +26,4 @@ Good Company Broadcast Group is a house and deep house artist tracked on soundch
 
 Joe O, CHIDA, FU (JP)
 
-*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/goodcompanybroadcastgroup/)*
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/goodcompanybroadcastgroup/)*

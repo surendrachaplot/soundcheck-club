@@ -1,14 +1,15 @@
 # Star Amerasu
 
-Star Amerasu is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 18 Sept 2026, next at TBA, Los Angeles on Sun, 27 Sept 2026.
+Star Amerasu is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 19 Sept 2026, next at TBA, Los Angeles on Sun, 27 Sept 2026.
 
-Star Amerasu is a house and techno artist based in United States of America, tracked on soundcheck, with 25 sets logged across Austin, Chicago, Losangeles and Montreal and 4 more. Often billed alongside Shane Thomas, Banoffee and KNOXDOTMP3. Next up: TBA, Losangeles on Sun 27 Sept.
+Star Amerasu is a house and techno artist based in United States of America, tracked on soundcheck, with 26 sets logged across Austin, Chicago, Losangeles and Montreal and 4 more. Often billed alongside Shane Thomas, Banoffee and KNOXDOTMP3. Next up: TBA, Losangeles on Sun 27 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sun, 27 Sept 2026 | TBA | Los Angeles |
+| Fri, 6 Nov 2026 | Don Quixote | Los Angeles |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Star Amerasu is a house and techno artist based in United States of America, tra
 
 Shane Thomas, Banoffee, KNOXDOTMP3
 
-*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/staramerasu/)*
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/staramerasu/)*

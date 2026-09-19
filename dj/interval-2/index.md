@@ -1,6 +1,6 @@
 # Interval (2)
 
-Interval (2) is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 18 Sept 2026, next at Şahika, Istanbul on Sat, 3 Oct 2026.
+Interval (2) is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 19 Sept 2026, next at Şahika, Istanbul on Sat, 3 Oct 2026.
 
 Interval (2) is a house and techno artist tracked on soundcheck, with 12 sets logged across Istanbul. Often billed alongside 4-i, jtamul and BasicDisarm. Next up: Şahika, Istanbul on Sat 3 Oct.
 
@@ -25,4 +25,4 @@ Interval (2) is a house and techno artist tracked on soundcheck, with 12 sets lo
 
 4-i, jtamul, BasicDisarm
 
-*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/interval-2/)*
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/interval-2/)*

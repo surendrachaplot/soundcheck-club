@@ -1,14 +1,15 @@
 # SaPu
 
-SaPu is a Tech House and Minimal artist with 1 upcoming club date listed on soundcheck as of Fri, 18 Sept 2026, next at Duke Of Tokyo, Amsterdam on Wed, 21 Oct 2026.
+SaPu is a Tech House and Minimal artist with 2 upcoming club dates listed on soundcheck as of Sat, 19 Sept 2026, next at Duke Of Tokyo, Amsterdam on Wed, 21 Oct 2026.
 
-SaPu is a tech house and minimal artist based in Germany, tracked on soundcheck, with 13 sets logged across Amsterdam, Berlin and Lisbon. Often billed alongside Alex Grebe, Tripmastaz and Alessia Ceruti. Next up: Duke Of Tokyo, Amsterdam on Wed 21 Oct.
+SaPu is a tech house and minimal artist based in Germany, tracked on soundcheck, with 14 sets logged across Amsterdam, Berlin and Lisbon. Often billed alongside Tripmastaz, Alex Grebe and Alessia Ceruti. Next up: Duke Of Tokyo, Amsterdam on Wed 21 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Wed, 21 Oct 2026 | Duke Of Tokyo | Amsterdam |
+| Sat, 21 Nov 2026 | Hoppetosse | Berlin |
 
 ## Recently played
 
@@ -23,6 +24,6 @@ SaPu is a tech house and minimal artist based in Germany, tracked on soundcheck,
 
 ## Shares bills with
 
-Alex Grebe, Tripmastaz, Alessia Ceruti
+Tripmastaz, Alex Grebe, Alessia Ceruti
 
-*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sapu/)*
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sapu/)*

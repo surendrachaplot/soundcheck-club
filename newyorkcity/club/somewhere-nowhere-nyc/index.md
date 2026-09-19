@@ -1,6 +1,6 @@
 # Somewhere Nowhere NYC
 
-Somewhere Nowhere NYC is a music venue in New York City with 1 upcoming night listed on soundcheck as of Fri, 18 Sept 2026; the next is "David Tort - Cristian Arango and More" on Sat, 19 Sept 2026.
+Somewhere Nowhere NYC is a music venue in New York City with 1 upcoming night listed on soundcheck as of Sat, 19 Sept 2026; the next is "David Tort - Cristian Arango and More" on Sat, 19 Sept 2026.
 
 Somewhere Nowhere NYC is a music venue in Newyorkcity listed on soundcheck. 1 upcoming night, with line-ups including Cristian Arango and David Tort. Browse upcoming dates, start times and who's playing. 112 W 25TH ST, NY, NY, 10001.
 
@@ -14,4 +14,4 @@ Somewhere Nowhere NYC is a music venue in Newyorkcity listed on soundcheck. 1 up
 
 112 W 25TH ST, NY, NY, 10001, New York City
 
-*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/somewhere-nowhere-nyc/)*
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/somewhere-nowhere-nyc/)*

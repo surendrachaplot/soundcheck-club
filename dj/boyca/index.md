@@ -1,6 +1,6 @@
 # BOYCA
 
-BOYCA is a Techno and Acid artist with 2 upcoming club dates listed on soundcheck as of Fri, 18 Sept 2026, next at Le Sucre, Lyon on Fri, 25 Sept 2026.
+BOYCA is a Techno and Acid artist with 2 upcoming club dates listed on soundcheck as of Sat, 19 Sept 2026, next at Le Sucre, Lyon on Fri, 25 Sept 2026.
 
 BOYCA is a techno and acid artist tracked on soundcheck, with 35 sets logged across Amsterdam, Bangkok, Berlin and Brussels and 10 more. Often billed alongside Mar/us, Cristian Marras and Shadysnack. Next up: Le Sucre, Lyon on Fri 25 Sept.
 
@@ -26,4 +26,4 @@ BOYCA is a techno and acid artist tracked on soundcheck, with 35 sets logged acr
 
 Mar/us, Cristian Marras, Shadysnack
 
-*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/boyca/)*
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/boyca/)*

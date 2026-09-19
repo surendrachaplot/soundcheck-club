@@ -1,6 +1,6 @@
 # General Lee’s Bamboo Room
 
-General Lee’s Bamboo Room is a music venue in Los Angeles with 1 upcoming night listed on soundcheck as of Fri, 18 Sept 2026; the next is "NewLife + Jeremy Sole" on Thu, 24 Sept 2026.
+General Lee’s Bamboo Room is a music venue in Los Angeles with 1 upcoming night listed on soundcheck as of Sat, 19 Sept 2026; the next is "NewLife + Jeremy Sole" on Thu, 24 Sept 2026.
 
 General Lee’s Bamboo Room is a music venue in Losangeles listed on soundcheck. 1 upcoming night, with line-ups including Jeremy Sole. Browse upcoming dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ General Lee’s Bamboo Room is a music venue in Losangeles listed on soundcheck.
 | --- | --- | --- |
 | Thu, 24 Sept 2026 | NewLife + Jeremy Sole | Jeremy Sole |
 
-*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/general-lee-s-bamboo-room/)*
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/general-lee-s-bamboo-room/)*

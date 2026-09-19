@@ -1,15 +1,15 @@
 # Yu Su
 
-Yu Su is a House and Techno artist with 11 upcoming club dates listed on soundcheck as of Fri, 18 Sept 2026, next at Fort Mifflin, Philadelphia on Fri, 18 Sept 2026.
+Yu Su is a House and Techno artist with 11 upcoming club dates listed on soundcheck as of Sat, 19 Sept 2026, next at Fort Mifflin, Philadelphia on Fri, 18 Sept 2026.
 
-Yu Su is a house and techno artist tracked on soundcheck, with 150 sets logged across Amsterdam, Austin, Bali and Barcelona and 45 more. Often billed alongside Leon Vynehall, DJ Python and Paula Tape. Next up: Fort Mifflin, Philadelphia on Fri 18 Sept.
+Yu Su is a house and techno artist tracked on soundcheck, with 151 sets logged across Amsterdam, Austin, Bali and Barcelona and 45 more. Often billed alongside Leon Vynehall, DJ Python and Paula Tape. Next up: Fort Mifflin, Philadelphia on Fri 18 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 18 Sept 2026 | Fort Mifflin | Philadelphia |
-| Fri, 18 Sept 2026 | Standard Time | Toronto |
+| Thu, 24 Sept 2026 | The Cross | London |
 | Sun, 27 Sept 2026 | St. Bartholomew's Church | New York City |
 | Sat, 3 Oct 2026 | Open Ground | Wuppertal |
 | Wed, 7 Oct 2026 | Strange Brew | Bristol |
@@ -22,17 +22,17 @@ Yu Su is a house and techno artist tracked on soundcheck, with 150 sets logged a
 
 ## Recently played
 
+- Fort Mifflin, Philadelphia — Fri, 18 Sept 2026
+- Standard Time, Toronto — Fri, 18 Sept 2026
 - Soffio Fregene, Rome — Sun, 13 Sept 2026
 - Auditorium Parco della Musica, Rome — Sat, 12 Sept 2026
 - fabric, London — Sat, 12 Sept 2026
 - Landesmuseum, Zurich — Tue, 1 Sept 2026
 - Landesmuseum, Zurich — Mon, 31 Aug 2026
 - Hagglers Corner, Sheffield — Sun, 30 Aug 2026
-- Parc del Fòrum, Barcelona — Fri, 7 Aug 2026
-- Berghain | Panorama Bar | Säule, Berlin — Fri, 31 Jul 2026
 
 ## Shares bills with
 
 Leon Vynehall, DJ Python, Paula Tape
 
-*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/yusu/)*
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/yusu/)*

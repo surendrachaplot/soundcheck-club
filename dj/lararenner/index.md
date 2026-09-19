@@ -1,6 +1,6 @@
 # Lara Renner
 
-Lara Renner is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Fri, 18 Sept 2026, next at De Fik Garden, Amsterdam on Sat, 19 Sept 2026.
+Lara Renner is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Sat, 19 Sept 2026, next at De Fik Garden, Amsterdam on Sat, 19 Sept 2026.
 
 Lara Renner is a techno and trance artist based in Netherlands, tracked on soundcheck, with 27 sets logged across Amsterdam, Brussels, Istanbul and Vienna. Often billed alongside Delano Legito, Floris Fahrenheit and AfroNinja. Next up: De Fik Garden, Amsterdam on Sat 19 Sept.
 
@@ -26,4 +26,4 @@ Lara Renner is a techno and trance artist based in Netherlands, tracked on sound
 
 Delano Legito, Floris Fahrenheit, AfroNinja
 
-*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lararenner/)*
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lararenner/)*

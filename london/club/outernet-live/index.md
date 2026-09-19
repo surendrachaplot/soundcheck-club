@@ -1,14 +1,13 @@
 # Outernet Live
 
-Outernet Live is a music venue in London with 19 upcoming nights listed on soundcheck as of Fri, 18 Sept 2026; the next is "Robot Rock Alive (Daft Punk Tribute)" on Fri, 18 Sept 2026.
+Outernet Live is a music venue in London with 18 upcoming nights listed on soundcheck as of Sat, 19 Sept 2026; the next is "MORTEN - London Takeover" on Sat, 19 Sept 2026.
 
-Outernet Live is a music venue in London listed on soundcheck. 19 upcoming nights, with line-ups including AALIYAH, AJNA, AliA and ALISHA and 2 more. Browse upcoming dates, start times and who's playing. Denmark Street, London WC2H.
+Outernet Live is a music venue in London listed on soundcheck. 18 upcoming nights, with line-ups including AALIYAH, AJNA, AliA and ALISHA and 2 more. Browse upcoming dates, start times and who's playing. Denmark Street, London WC2H.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 18 Sept 2026 | Robot Rock Alive (Daft Punk Tribute) |  |
 | Sat, 19 Sept 2026 | MORTEN - London Takeover |  |
 | Fri, 25 Sept 2026 | AVA London x RA25 - Blawan Live, Mala, Bitter Babe Live AV feat. Koch.a, AliA | AliA, Bitter Babe, Blawan, Mala |
 | Sat, 26 Sept 2026 | Shogun Sessions: HERE at Outernet | DRIIA, Duskee, GLXY, Gardna, LSB (UK), Larnie Moles, LowQui, S.P.Y, Sabrina, Stamina MC, Sustance, Technimatic, Workforce |
@@ -18,9 +17,10 @@ Outernet Live is a music venue in London listed on soundcheck. 19 upcoming night
 | Fri, 23 Oct 2026 | Cristoph | Cristoph, Jeremy Olander, Michael Anthony, Pretty Pink |
 | Sat, 24 Oct 2026 | AFRODESI London | MR SAJ |
 | Sat, 31 Oct 2026 | Labyrinth presents: Cassius Club London | Cassius |
+| Sat, 7 Nov 2026 | Two Shell (with Weirdcore) — HERE @ Outernet, London | Two Shell |
 
 ## Address
 
 Denmark Street, London WC2H, London
 
-*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/outernet-live/)*
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/outernet-live/)*

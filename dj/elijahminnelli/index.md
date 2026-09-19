@@ -1,6 +1,6 @@
 # Elijah Minnelli
 
-Elijah Minnelli is a Dub and Experimental artist with 2 upcoming club dates listed on soundcheck as of Fri, 18 Sept 2026, next at Filth, Amsterdam on Sat, 19 Sept 2026.
+Elijah Minnelli is a Dub and Experimental artist with 2 upcoming club dates listed on soundcheck as of Sat, 19 Sept 2026, next at Filth, Amsterdam on Sat, 19 Sept 2026.
 
 Elijah Minnelli is a dub and experimental artist tracked on soundcheck, with 20 sets logged across Amsterdam, Bristol, Brussels and Edinburgh and 4 more. Often billed alongside i-sha, Dennis Bovell and Hermeneia. Next up: Filth, Amsterdam on Sat 19 Sept.
 
@@ -26,4 +26,4 @@ Elijah Minnelli is a dub and experimental artist tracked on soundcheck, with 20 
 
 i-sha, Dennis Bovell, Hermeneia
 
-*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/elijahminnelli/)*
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/elijahminnelli/)*

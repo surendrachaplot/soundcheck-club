@@ -1,8 +1,8 @@
 # Farius
 
-Farius is a Trance and Progressive House artist with 5 upcoming club dates listed on soundcheck as of Fri, 18 Sept 2026, next at Bunker Toronto, Toronto on Fri, 16 Oct 2026.
+Farius is a Trance and Progressive House artist with 6 upcoming club dates listed on soundcheck as of Sat, 19 Sept 2026, next at Bunker Toronto, Toronto on Fri, 16 Oct 2026.
 
-Farius is a trance and progressive house artist based in United Kingdom, tracked on soundcheck, with 27 sets logged across Amsterdam, Chicago, Cologne and Denver and 12 more. Often billed alongside Estiva, Cosmic Gate and Tritonal. Next up: Bunker Toronto, Toronto on Fri 16 Oct.
+Farius is a trance and progressive house artist based in United Kingdom, tracked on soundcheck, with 28 sets logged across Amsterdam, Chicago, Cologne and Denver and 12 more. Often billed alongside Estiva, Cosmic Gate and Tritonal. Next up: Bunker Toronto, Toronto on Fri 16 Oct.
 
 ## Upcoming shows
 
@@ -13,6 +13,7 @@ Farius is a trance and progressive house artist based in United Kingdom, tracked
 | Fri, 13 Nov 2026 | Skylight Warehouse | Vancouver |
 | Sat, 14 Nov 2026 | Public Works | San Francisco/Oakland |
 | Sat, 21 Nov 2026 | The Jackhammer Chicago | Chicago |
+| Sun, 29 Nov 2026 | Nachtflug & Starz | Cologne |
 
 ## Recently played
 
@@ -29,4 +30,4 @@ Farius is a trance and progressive house artist based in United Kingdom, tracked
 
 Estiva, Cosmic Gate, Tritonal
 
-*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/farius/)*
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/farius/)*

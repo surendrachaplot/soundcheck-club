@@ -1,6 +1,6 @@
 # Hagva
 
-Hagva is a IDM and Dub Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 18 Sept 2026, next at Club Cheek, London on Sat, 10 Oct 2026.
+Hagva is a IDM and Dub Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 19 Sept 2026, next at Club Cheek, London on Sat, 10 Oct 2026.
 
 Hagva is an idm and dub techno artist based in Italy, tracked on soundcheck, with 24 sets logged across Amsterdam, Berlin, Copenhagen and London and 5 more. Often billed alongside CP1, Not Mass and Woody92. Next up: Club Cheek, London on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ Hagva is an idm and dub techno artist based in Italy, tracked on soundcheck, wit
 
 CP1, Not Mass, Woody92
 
-*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/hagva/)*
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/hagva/)*

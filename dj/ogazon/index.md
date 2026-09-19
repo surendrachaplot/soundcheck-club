@@ -1,8 +1,8 @@
 # Ogazón
 
-Ogazón is a Techno and House artist with 20 upcoming club dates listed on soundcheck as of Fri, 18 Sept 2026, next at UNO MALTA, Malta on Fri, 18 Sept 2026.
+Ogazón is a Techno and House artist with 21 upcoming club dates listed on soundcheck as of Sat, 19 Sept 2026, next at UNO MALTA, Malta on Fri, 18 Sept 2026.
 
-Ogazón is a techno and house artist tracked on soundcheck, with 281 sets logged across Amsterdam, Antwerp, Athens and Bali and 64 more. Often billed alongside Ryan Elliott, Marcel Dettmann and BASHKKA. Next up: UNO MALTA, Malta on Fri 18 Sept.
+Ogazón is a techno and house artist tracked on soundcheck, with 282 sets logged across Amsterdam, Antwerp, Athens and Bali and 64 more. Often billed alongside Ryan Elliott, Marcel Dettmann and BASHKKA. Next up: UNO MALTA, Malta on Fri 18 Sept.
 
 ## Upcoming shows
 
@@ -15,14 +15,15 @@ Ogazón is a techno and house artist tracked on soundcheck, with 281 sets logged
 | Sat, 26 Sept 2026 | Klymax Discotheque | Bali |
 | Sat, 3 Oct 2026 | Sidney Myer Music Bowl | Melbourne |
 | Sun, 4 Oct 2026 | Cockatoo Island | Sydney |
+| Sun, 4 Oct 2026 | Sub Club Melbourne | Melbourne |
 | Sat, 10 Oct 2026 | Berghain / Panorama Bar / Säule | Berlin |
 | Fri, 16 Oct 2026 | INPUT High Fidelity Dance Club | Barcelona |
 | Sat, 17 Oct 2026 | Post Bar | Helsinki |
 | Fri, 23 Oct 2026 | BRET | Amsterdam |
-| Sun, 25 Oct 2026 | Bajes Amsterdam | Amsterdam |
 
 ## Recently played
 
+- UNO MALTA, Malta — Fri, 18 Sept 2026
 - BASEMENT, New York City — Fri, 11 Sept 2026
 - Camp Kennybrook, New York City — Thu, 10 Sept 2026
 - Hive Club, Zurich — Fri, 28 Aug 2026
@@ -30,10 +31,9 @@ Ogazón is a techno and house artist tracked on soundcheck, with 281 sets logged
 - Berghain | Panorama Bar | Säule, Berlin — Sat, 15 Aug 2026
 - Parc des Etangs/Vijverspark, Brussels — Fri, 14 Aug 2026
 - Jaeger, Oslo — Fri, 14 Aug 2026
-- TBA - Deventer Outdoor | Molbergsweg 3c , Amsterdam — Fri, 7 Aug 2026
 
 ## Shares bills with
 
 Ryan Elliott, Marcel Dettmann, BASHKKA
 
-*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ogazon/)*
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ogazon/)*

@@ -1,6 +1,6 @@
 # JANADONNA
 
-JANADONNA is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 18 Sept 2026, next at Romantica, Stuttgart on Tue, 22 Sept 2026.
+JANADONNA is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 19 Sept 2026, next at Romantica, Stuttgart on Tue, 22 Sept 2026.
 
 JANADONNA is a techno and house artist based in Germany, tracked on soundcheck, with 39 sets logged across Stuttgart. Often billed alongside Femcat, Marco Bastone and Tamara Wirth. Next up: Romantica, Stuttgart on Tue 22 Sept.
 
@@ -25,4 +25,4 @@ JANADONNA is a techno and house artist based in Germany, tracked on soundcheck, 
 
 Femcat, Marco Bastone, Tamara Wirth
 
-*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/janadonna/)*
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/janadonna/)*

@@ -1,6 +1,6 @@
 # Pixel Grip
 
-Pixel Grip is a Experimental and Electro artist with 1 upcoming club date listed on soundcheck as of Fri, 18 Sept 2026, next at Radius, Chicago on Fri, 30 Oct 2026.
+Pixel Grip is a Experimental and Electro artist with 1 upcoming club date listed on soundcheck as of Sat, 19 Sept 2026, next at Radius, Chicago on Fri, 30 Oct 2026.
 
 Pixel Grip is an experimental and electro artist based in United States of America, tracked on soundcheck, with 7 sets logged across Chicago, Detroit, Losangeles and Sanfrancisco and 1 more. Often billed alongside Peaches, Alessandro Adriani and Arabian Panther. Next up: Radius, Chicago on Fri 30 Oct.
 
@@ -23,4 +23,4 @@ Pixel Grip is an experimental and electro artist based in United States of Ameri
 
 Peaches, Alessandro Adriani, Arabian Panther
 
-*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/pixelgrip/)*
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/pixelgrip/)*

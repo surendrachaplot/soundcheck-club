@@ -1,13 +1,14 @@
 # Desirée Falessi
 
-Desirée Falessi is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 18 Sept 2026, next at Cadavra, Madrid on Sat, 3 Oct 2026.
+Desirée Falessi is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sat, 19 Sept 2026, next at TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona, Barcelona on Fri, 2 Oct 2026.
 
-Desirée Falessi is a techno and house artist tracked on soundcheck, with 65 sets logged across Amsterdam, Barcelona, Berlin and Brussels and 16 more. Often billed alongside Magda, Monile and Enrica Falqui. Next up: Cadavra, Madrid on Sat 3 Oct.
+Desirée Falessi is a techno and house artist tracked on soundcheck, with 66 sets logged across Amsterdam, Barcelona, Berlin and Brussels and 16 more. Often billed alongside Magda, Monile and Enrica Falqui. Next up: TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona, Barcelona on Fri 2 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 2 Oct 2026 | TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona | Barcelona |
 | Sat, 3 Oct 2026 | Cadavra | Madrid |
 
 ## Recently played
@@ -25,4 +26,4 @@ Desirée Falessi is a techno and house artist tracked on soundcheck, with 65 set
 
 Magda, Monile, Enrica Falqui
 
-*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/desireefalessi/)*
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/desireefalessi/)*

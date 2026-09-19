@@ -1,14 +1,15 @@
 # Ard1n
 
-Ard1n is a Club and Bass artist with 2 upcoming club dates listed on soundcheck as of Fri, 18 Sept 2026, next at TBA, Toronto on Sat, 19 Sept 2026.
+Ard1n is a Club and Bass artist with 3 upcoming club dates listed on soundcheck as of Sat, 19 Sept 2026, next at TBA, Toronto on Sat, 19 Sept 2026.
 
-Ard1n is a club and bass artist based in Canada, tracked on soundcheck, with 85 sets logged across Montreal, Newyorkcity and Toronto. Often billed alongside HVN (1), OGQT and Litney. Next up: TBA, Toronto on Sat 19 Sept.
+Ard1n is a club and bass artist based in Canada, tracked on soundcheck, with 86 sets logged across Montreal, Newyorkcity and Toronto. Often billed alongside HVN (1), OGQT and Litney. Next up: TBA, Toronto on Sat 19 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 19 Sept 2026 | TBA | Toronto |
+| Fri, 25 Sept 2026 | TBA | Toronto |
 | Fri, 16 Oct 2026 | TBA | Toronto |
 
 ## Recently played
@@ -26,4 +27,4 @@ Ard1n is a club and bass artist based in Canada, tracked on soundcheck, with 85 
 
 HVN (1), OGQT, Litney
 
-*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ard1n/)*
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ard1n/)*

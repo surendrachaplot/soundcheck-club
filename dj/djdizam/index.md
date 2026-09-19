@@ -1,18 +1,18 @@
 # Dj Dizam
 
-Dj Dizam is a Hip-Hop and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 18 Sept 2026, next at TBA - Mimi´s Disco - Reforma 333 8th Floor, Mexico City on Fri, 18 Sept 2026.
+Dj Dizam is a Hip-Hop and House artist with 1 upcoming club date listed on soundcheck as of Sat, 19 Sept 2026, next at Maison Artemisia, Mexico City on Sun, 27 Sept 2026.
 
-Dj Dizam is a hip-hop and house artist based in United States of America, tracked on soundcheck, with 71 sets logged across Mexicocity and Newyorkcity. Often billed alongside Black Daria, LOVERGRL and Bastian Bell. Next up: TBA - Mimi´s Disco - Reforma 333 8th Floor, Mexicocity on Fri 18 Sept.
+Dj Dizam is a hip-hop and house artist based in United States of America, tracked on soundcheck, with 71 sets logged across Mexicocity and Newyorkcity. Often billed alongside Black Daria, LOVERGRL and Bastian Bell. Next up: Maison Artemisia, Mexicocity on Sun 27 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 18 Sept 2026 | TBA - Mimi´s Disco - Reforma 333 8th Floor | Mexico City |
 | Sun, 27 Sept 2026 | Maison Artemisia | Mexico City |
 
 ## Recently played
 
+- TBA - Mimi´s Disco - Reforma 333 8th Floor, Mexico City — Fri, 18 Sept 2026
 - Carmelita Club, Mexico City — Fri, 11 Sept 2026
 - un club bonito, Mexico City — Sat, 5 Sept 2026
 - Tonal, Mexico City — Fri, 21 Aug 2026
@@ -20,10 +20,9 @@ Dj Dizam is a hip-hop and house artist based in United States of America, tracke
 - Bardo Speakeasy, Mexico City — Sat, 18 Jul 2026
 - Bardo Speakeasy, Mexico City — Sat, 27 Jun 2026
 - ZUZU, Mexico City — Fri, 26 Jun 2026
-- Tonal, Mexico City — Sat, 20 Jun 2026
 
 ## Shares bills with
 
 Black Daria, LOVERGRL, Bastian Bell
 
-*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djdizam/)*
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djdizam/)*

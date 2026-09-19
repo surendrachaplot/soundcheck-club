@@ -1,6 +1,6 @@
 # Lisa More
 
-Lisa More is a Techno and Electro artist with 2 upcoming club dates listed on soundcheck as of Fri, 18 Sept 2026, next at Rex Club, Paris on Sat, 19 Sept 2026.
+Lisa More is a Techno and Electro artist with 2 upcoming club dates listed on soundcheck as of Sat, 19 Sept 2026, next at Rex Club, Paris on Sat, 19 Sept 2026.
 
 Lisa More is a techno and electro artist tracked on soundcheck, with 88 sets logged across Amsterdam, Berlin, Brussels and Geneva and 6 more. Often billed alongside TTristana, RONI and NVST. Next up: Rex Club, Paris on Sat 19 Sept.
 
@@ -26,4 +26,4 @@ Lisa More is a techno and electro artist tracked on soundcheck, with 88 sets log
 
 TTristana, RONI, NVST
 
-*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lisamore/)*
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lisamore/)*

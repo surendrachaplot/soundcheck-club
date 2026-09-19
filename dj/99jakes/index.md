@@ -1,6 +1,6 @@
 # 99jakes
 
-99jakes is a Hardcore and Gabber artist with 1 upcoming club date listed on soundcheck as of Fri, 18 Sept 2026, next at TBA - Premises, Chicago on Sat, 26 Sept 2026.
+99jakes is a Hardcore and Gabber artist with 1 upcoming club date listed on soundcheck as of Sat, 19 Sept 2026, next at TBA - Premises, Chicago on Sat, 26 Sept 2026.
 
 99jakes is a hardcore and gabber artist tracked on soundcheck, with 32 sets logged across Amsterdam, Austin, Barcelona and Berlin and 14 more. Often billed alongside Lexxy Jax, Casper McFadden and Replicator. Next up: TBA - Premises, Chicago on Sat 26 Sept.
 
@@ -25,4 +25,4 @@
 
 Lexxy Jax, Casper McFadden, Replicator
 
-*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/99jakes/)*
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/99jakes/)*

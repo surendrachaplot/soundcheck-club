@@ -1,13 +1,14 @@
 # Sholim Eso
 
-Sholim Eso is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 18 Sept 2026, next at The Great Northern, San Francisco/Oakland on Fri, 30 Oct 2026.
+Sholim Eso is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Sat, 19 Sept 2026, next at The Foundry, San Francisco/Oakland on Sun, 27 Sept 2026.
 
-Sholim Eso is a techno and house artist tracked on soundcheck, with 30 sets logged across Mexicocity and Sanfrancisco. Often billed alongside Fawks, Jumpr and likeholywine. Next up: The Great Northern, Sanfrancisco on Fri 30 Oct.
+Sholim Eso is a techno and house artist tracked on soundcheck, with 31 sets logged across Mexicocity and Sanfrancisco. Often billed alongside Fawks, Jumpr and likeholywine. Next up: The Foundry, Sanfrancisco on Sun 27 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sun, 27 Sept 2026 | The Foundry | San Francisco/Oakland |
 | Fri, 30 Oct 2026 | The Great Northern | San Francisco/Oakland |
 | Sat, 14 Nov 2026 | Monument SF | San Francisco/Oakland |
 
@@ -26,4 +27,4 @@ Sholim Eso is a techno and house artist tracked on soundcheck, with 30 sets logg
 
 Fawks, Jumpr, likeholywine
 
-*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sholimeso/)*
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sholimeso/)*

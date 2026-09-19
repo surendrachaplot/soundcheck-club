@@ -1,6 +1,6 @@
 # Louiv
 
-Louiv is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Fri, 18 Sept 2026, next at Phonobar, San Francisco/Oakland on Sat, 19 Sept 2026.
+Louiv is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Sat, 19 Sept 2026, next at Phonobar, San Francisco/Oakland on Sat, 19 Sept 2026.
 
 Louiv is a house and tech house artist tracked on soundcheck, with 71 sets logged across Austin, Boston, Chicago and Losangeles and 3 more. Often billed alongside Combover, Philco and zacky. Next up: Phonobar, Sanfrancisco on Sat 19 Sept.
 
@@ -25,4 +25,4 @@ Louiv is a house and tech house artist tracked on soundcheck, with 71 sets logge
 
 Combover, Philco, zacky
 
-*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/louiv/)*
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/louiv/)*

@@ -1,8 +1,8 @@
 # Dawuna
 
-Dawuna is a Experimental and R&B artist with 1 upcoming club date listed on soundcheck as of Fri, 18 Sept 2026, next at Hotel Forum, Krakow on Sat, 10 Oct 2026.
+Dawuna is a Experimental and R&B artist with 1 upcoming club date listed on soundcheck as of Sat, 19 Sept 2026, next at Hotel Forum, Krakow on Sat, 10 Oct 2026.
 
-Dawuna is an experimental and r&b artist tracked on soundcheck, with 17 sets logged across Berlin, Dublin, Glasgow and Krakow and 7 more. Often billed alongside 3Phaz, Ale Hop and Ana Roxanne. Next up: Hotel Forum, Krakow on Sat 10 Oct.
+Dawuna is an experimental and r&b artist tracked on soundcheck, with 17 sets logged across Berlin, Dublin, Glasgow and Krakow and 7 more. Often billed alongside 3Phaz, ABADIR and Ale Hop. Next up: Hotel Forum, Krakow on Sat 10 Oct.
 
 ## Upcoming shows
 
@@ -23,6 +23,6 @@ Dawuna is an experimental and r&b artist tracked on soundcheck, with 17 sets log
 
 ## Shares bills with
 
-3Phaz, Ale Hop, Ana Roxanne
+3Phaz, ABADIR, Ale Hop
 
-*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dawuna/)*
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dawuna/)*

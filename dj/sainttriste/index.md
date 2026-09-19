@@ -1,6 +1,6 @@
 # Saint Triste
 
-Saint Triste is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Fri, 18 Sept 2026, next at DNA Lounge, San Francisco/Oakland on Sat, 26 Sept 2026.
+Saint Triste is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Sat, 19 Sept 2026, next at DNA Lounge, San Francisco/Oakland on Sat, 26 Sept 2026.
 
 Saint Triste is a house and tech house artist based in United States of America, tracked on soundcheck, with 18 sets logged across Sanfrancisco. Often billed alongside Digital KitKat, Miss Gia and GOMEZZY. Next up: DNA Lounge, Sanfrancisco on Sat 26 Sept.
 
@@ -26,4 +26,4 @@ Saint Triste is a house and tech house artist based in United States of America,
 
 Digital KitKat, Miss Gia, GOMEZZY
 
-*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sainttriste/)*
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sainttriste/)*

@@ -1,14 +1,13 @@
 # Neue Zukunft
 
-Neue Zukunft is a music venue in Berlin with 10 upcoming nights listed on soundcheck as of Fri, 18 Sept 2026; the next is "Black Market Karma (UK / Fuzz Club), Sacred Buzz, Miss Mellow" on Fri, 18 Sept 2026.
+Neue Zukunft is a music venue in Berlin with 9 upcoming nights listed on soundcheck as of Sat, 19 Sept 2026; the next is "Zoon Phonanta, Cobra Killer" on Sun, 20 Sept 2026.
 
-Neue Zukunft is a music venue in Berlin listed on soundcheck. 10 upcoming nights. Browse upcoming dates, start times and who's playing. Alt-Stralau 68, 10245 Berlin.
+Neue Zukunft is a music venue in Berlin listed on soundcheck. 9 upcoming nights. Browse upcoming dates, start times and who's playing. Alt-Stralau 68, 10245 Berlin.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 18 Sept 2026 | Black Market Karma (UK / Fuzz Club), Sacred Buzz, Miss Mellow |  |
 | Sun, 20 Sept 2026 | Zoon Phonanta, Cobra Killer |  |
 | Fri, 25 Sept 2026 | MILK ME presents: Frustration + Nochteff 'Crecer y Decrecer' Single Release Show |  |
 | Mon, 5 Oct 2026 | The Asteroid No.4 (US), Acid Rooster |  |
@@ -23,4 +22,4 @@ Neue Zukunft is a music venue in Berlin listed on soundcheck. 10 upcoming nights
 
 Alt-Stralau 68, 10245 Berlin, Berlin
 
-*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/neue-zukunft/)*
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/neue-zukunft/)*

@@ -1,14 +1,15 @@
 # Maybe Laura
 
-Maybe Laura is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 18 Sept 2026, next at The Timber Loft, London on Sun, 4 Oct 2026.
+Maybe Laura is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 19 Sept 2026, next at The Timber Loft, London on Sun, 4 Oct 2026.
 
-Maybe Laura is a house and techno artist tracked on soundcheck, with 42 sets logged across Leeds, London and Newyorkcity. Often billed alongside Remi Mazet, Alien Communications and Avsluta. Next up: The Timber Loft, London on Sun 4 Oct.
+Maybe Laura is a house and techno artist tracked on soundcheck, with 43 sets logged across Leeds, London and Newyorkcity. Often billed alongside Remi Mazet, Alien Communications and Secretsundaze. Next up: The Timber Loft, London on Sun 4 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sun, 4 Oct 2026 | The Timber Loft | London |
+| Sat, 31 Oct 2026 | East London Brewing Company | London |
 
 ## Recently played
 
@@ -23,6 +24,6 @@ Maybe Laura is a house and techno artist tracked on soundcheck, with 42 sets log
 
 ## Shares bills with
 
-Remi Mazet, Alien Communications, Avsluta
+Remi Mazet, Alien Communications, Secretsundaze
 
-*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/maybelaura/)*
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/maybelaura/)*

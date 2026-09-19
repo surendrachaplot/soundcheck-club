@@ -1,18 +1,18 @@
 # Aaron F
 
-Aaron F is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Fri, 18 Sept 2026, next at 1015 Folsom, San Francisco/Oakland on Fri, 18 Sept 2026.
+Aaron F is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Sat, 19 Sept 2026, next at Phonobar, San Francisco/Oakland on Fri, 20 Nov 2026.
 
-Aaron F is a house and disco artist tracked on soundcheck, with 22 sets logged across Sanfrancisco. Often billed alongside Jimmy B, DJ PlayStation and Anthony Mansfield. Next up: 1015 Folsom, Sanfrancisco on Fri 18 Sept.
+Aaron F is a house and disco artist tracked on soundcheck, with 22 sets logged across Sanfrancisco. Often billed alongside Jimmy B, DJ PlayStation and Anthony Mansfield. Next up: Phonobar, Sanfrancisco on Fri 20 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 18 Sept 2026 | 1015 Folsom | San Francisco/Oakland |
 | Fri, 20 Nov 2026 | Phonobar | San Francisco/Oakland |
 
 ## Recently played
 
+- 1015 Folsom, San Francisco/Oakland — Fri, 18 Sept 2026
 - Monarch, San Francisco/Oakland — Fri, 17 Oct 2025
 - Phonobar, San Francisco/Oakland — Fri, 12 Sept 2025
 - Phonobar, San Francisco/Oakland — Sat, 16 Aug 2025
@@ -20,10 +20,9 @@ Aaron F is a house and disco artist tracked on soundcheck, with 22 sets logged a
 - Belden Town, San Francisco/Oakland — Fri, 20 Jun 2025
 - Monarch, San Francisco/Oakland — Fri, 13 Jun 2025
 - Monarch, San Francisco/Oakland — Thu, 12 Jun 2025
-- Phonobar, San Francisco/Oakland — Thu, 6 Feb 2025
 
 ## Shares bills with
 
 Jimmy B, DJ PlayStation, Anthony Mansfield
 
-*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/aaronf/)*
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/aaronf/)*

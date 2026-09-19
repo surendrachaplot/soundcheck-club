@@ -1,6 +1,6 @@
 # Sany Delitos
 
-Sany Delitos is a Reggaeton and Guaracha artist with 1 upcoming club date listed on soundcheck as of Fri, 18 Sept 2026, next at Sala Siroco, Madrid on Sat, 19 Sept 2026.
+Sany Delitos is a Reggaeton and Guaracha artist with 1 upcoming club date listed on soundcheck as of Sat, 19 Sept 2026, next at Sala Siroco, Madrid on Sat, 19 Sept 2026.
 
 Sany Delitos is a reggaeton and guaracha artist based in Spain, tracked on soundcheck, with 52 sets logged across Barcelona, Madrid, Malaga and Newyorkcity. Often billed alongside Nukki, Diego Armando and Maxvll. Next up: Sala Siroco, Madrid on Sat 19 Sept.
 
@@ -25,4 +25,4 @@ Sany Delitos is a reggaeton and guaracha artist based in Spain, tracked on sound
 
 Nukki, Diego Armando, Maxvll
 
-*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sanydelitos/)*
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sanydelitos/)*

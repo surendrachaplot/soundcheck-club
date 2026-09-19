@@ -1,6 +1,6 @@
 # VENERE
 
-VENERE is a Deep House and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 18 Sept 2026, next at The Cross, London on Fri, 2 Oct 2026.
+VENERE is a Deep House and House artist with 2 upcoming club dates listed on soundcheck as of Sat, 19 Sept 2026, next at The Cross, London on Fri, 2 Oct 2026.
 
 VENERE is a deep house and house artist based in United Kingdom, tracked on soundcheck, with 63 sets logged across Buenosaires, London and Tallinn. Often billed alongside Colaps, KOKOH and Lester Isaac. Next up: The Cross, London on Fri 2 Oct.
 
@@ -26,4 +26,4 @@ VENERE is a deep house and house artist based in United Kingdom, tracked on soun
 
 Colaps, KOKOH, Lester Isaac
 
-*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/venere/)*
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/venere/)*

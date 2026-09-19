@@ -1,6 +1,6 @@
 # Avalon Emerson
 
-Avalon Emerson is a Techno and House artist with 11 upcoming club dates listed on soundcheck as of Fri, 18 Sept 2026, next at Fort Mifflin, Philadelphia on Fri, 18 Sept 2026.
+Avalon Emerson is a Techno and House artist with 11 upcoming club dates listed on soundcheck as of Sat, 19 Sept 2026, next at Fort Mifflin, Philadelphia on Fri, 18 Sept 2026.
 
 Avalon Emerson is a techno and house artist tracked on soundcheck, with 182 sets logged across Amsterdam, Antwerp, Athens and Austin and 48 more. Often billed alongside Sedef Adasï, BASHKKA and Aurora Halal. Next up: Fort Mifflin, Philadelphia on Fri 18 Sept.
 
@@ -22,6 +22,7 @@ Avalon Emerson is a techno and house artist tracked on soundcheck, with 182 sets
 
 ## Recently played
 
+- Fort Mifflin, Philadelphia — Fri, 18 Sept 2026
 - Sleeping Village, Chicago — Tue, 15 Sept 2026
 - Fortune Sound Club, Vancouver — Thu, 6 Aug 2026
 - MS Artville, Hamburg — Sat, 18 Jul 2026
@@ -29,10 +30,9 @@ Avalon Emerson is a techno and house artist tracked on soundcheck, with 182 sets
 - Berghain | Panorama Bar | Säule, Berlin — Sat, 11 Jul 2026
 - Nitsa Club, Barcelona — Fri, 10 Jul 2026
 - Parco Dora, Turin — Fri, 3 Jul 2026
-- The Great Northern, San Francisco/Oakland — Sun, 28 Jun 2026
 
 ## Shares bills with
 
 Sedef Adasï, BASHKKA, Aurora Halal
 
-*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/avalonemerson/)*
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/avalonemerson/)*

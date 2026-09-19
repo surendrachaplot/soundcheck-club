@@ -1,14 +1,13 @@
 # Tanzhaus West
 
-Tanzhaus West is a music venue in Frankfurt with 8 upcoming nights listed on soundcheck as of Fri, 18 Sept 2026; the next is "3 Years HYPERTRANCE" on Fri, 18 Sept 2026.
+Tanzhaus West is a music venue in Frankfurt with 7 upcoming nights listed on soundcheck as of Sat, 19 Sept 2026; the next is "BERLINER NAECHTE" on Sat, 19 Sept 2026.
 
-Tanzhaus West is a music venue in Frankfurt listed on soundcheck. 8 upcoming nights, with line-ups including AMBAM, Andrale, assena and Bait and Switch and 2 more. Browse upcoming dates, start times and who's playing. Gutleutstrasse 294; 60327 Frankfurt; Germany.
+Tanzhaus West is a music venue in Frankfurt listed on soundcheck. 7 upcoming nights, with line-ups including AMBAM, Andrale, Bait and Switch and Danjo and 2 more. Browse upcoming dates, start times and who's playing. Gutleutstrasse 294; 60327 Frankfurt; Germany.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 18 Sept 2026 | 3 Years HYPERTRANCE | CARGO (DE), DJ 069, Jacky Ickx, Millie Forsberg, assena, cravings320 |
 | Sat, 19 Sept 2026 | BERLINER NAECHTE | Andrale, Bait and Switch, Frida Darko, Oliver Koletzki |
 | Fri, 25 Sept 2026 | Hard Bock DRAUF 10Y Pt. II | AMBAM, DeGuzman, HOTBOI2300, Kacy, Luca Agnelli, NIKOLINA_, PLOYZZ, SANDRA ROMINA |
 | Fri, 2 Oct 2026 | Toxic Family Anniversary | Gunman |
@@ -21,4 +20,4 @@ Tanzhaus West is a music venue in Frankfurt listed on soundcheck. 8 upcoming nig
 
 Gutleutstrasse 294; 60327 Frankfurt; Germany, Frankfurt
 
-*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/frankfurt/club/tanzhaus-west/)*
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/frankfurt/club/tanzhaus-west/)*

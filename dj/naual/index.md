@@ -1,6 +1,6 @@
 # NAUAL
 
-NAUAL is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Fri, 18 Sept 2026, next at TBA - Powered by: Void Acoustics, Madrid on Fri, 13 Nov 2026.
+NAUAL is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Sat, 19 Sept 2026, next at TBA - Powered by: Void Acoustics, Madrid on Fri, 13 Nov 2026.
 
 NAUAL is a techno and electro artist tracked on soundcheck, with 24 sets logged across Barcelona and Madrid. Often billed alongside Rabent, Giusseppi and Felinae. Next up: TBA - Powered by: Void Acoustics, Madrid on Fri 13 Nov.
 
@@ -25,4 +25,4 @@ NAUAL is a techno and electro artist tracked on soundcheck, with 24 sets logged 
 
 Rabent, Giusseppi, Felinae
 
-*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/naual/)*
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/naual/)*

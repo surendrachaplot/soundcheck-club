@@ -1,6 +1,6 @@
 # DUSKGROOVE pres. Secret Rooftop at Safestay Rooftop
 
-DUSKGROOVE pres. Secret Rooftop at Safestay Rooftop on Sat 10 Oct, Barcelona. 1 act on the bill: Howard. House. Preview the line-up and save it on soundcheck.
+DUSKGROOVE pres. Secret Rooftop at Safestay Rooftop on Sat 10 Oct, Barcelona. 4 acts on the bill: DJ Howard, HollowFate, Howard and NOCD. House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,9 @@ DUSKGROOVE pres. Secret Rooftop at Safestay Rooftop on Sat 10 Oct, Barcelona. 1 
 
 ## Line-up
 
+- DJ Howard
+- HollowFate
 - Howard
+- NOCD
 
 *Source: [soundcheck](https://soundcheck.club/e/2539880-duskgroove-pres-secret-rooftop-at-safestay-rooftop/)*

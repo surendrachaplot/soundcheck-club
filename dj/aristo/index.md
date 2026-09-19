@@ -1,6 +1,6 @@
 # Aristo
 
-Aristo is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 18 Sept 2026, next at Eleusis LFC Music Studio, Athens on Sat, 19 Sept 2026.
+Aristo is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 19 Sept 2026, next at Eleusis LFC Music Studio, Athens on Sat, 19 Sept 2026.
 
 Aristo is a house and techno artist tracked on soundcheck, with 13 sets logged across Athens and Melbourne. Often billed alongside Bonso, Louie Dimá and Mikee (Athens). Next up: Eleusis LFC Music Studio, Athens on Sat 19 Sept.
 
@@ -25,4 +25,4 @@ Aristo is a house and techno artist tracked on soundcheck, with 13 sets logged a
 
 Bonso, Louie Dimá, Mikee (Athens)
 
-*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/aristo/)*
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/aristo/)*

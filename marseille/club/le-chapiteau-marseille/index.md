@@ -1,18 +1,19 @@
 # Le Chapiteau - Marseille
 
-Le Chapiteau - Marseille is a music venue in Marseille with 2 upcoming nights listed on soundcheck as of Fri, 18 Sept 2026; the next is "GROOVE SOLAIRE / Bande de Filles, LUCE, SAN P & SOUTHWAX" on Fri, 18 Sept 2026.
+Le Chapiteau - Marseille is a music venue in Marseille with 3 upcoming nights listed on soundcheck as of Sat, 19 Sept 2026; the next is "EARTHQUAKE W/ MENDI, KSU, RV2000 & TUMULTE" on Sat, 19 Sept 2026.
 
-Le Chapiteau - Marseille is a music venue in Marseille listed on soundcheck. 2 upcoming nights, with line-ups including Bande de Filles. Browse upcoming dates, start times and who's playing. 38 TVS Notre Dame De Bon Secours.
+Le Chapiteau - Marseille is a music venue in Marseille listed on soundcheck. 3 upcoming nights, with line-ups including KHALK, Marija and Ortega (2). Browse upcoming dates, start times and who's playing. 38 TVS Notre Dame De Bon Secours.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 18 Sept 2026 | GROOVE SOLAIRE / Bande de Filles, LUCE, SAN P & SOUTHWAX | Bande de Filles |
 | Sat, 19 Sept 2026 | EARTHQUAKE W/ MENDI, KSU, RV2000 & TUMULTE |  |
+| Fri, 25 Sept 2026 | Re:Son Vol.2 W/ Marija, Pechko, Moonee, Khalk & More | KHALK, Marija, Ortega (2) |
+| Fri, 2 Oct 2026 | Chourave Blasty Invite : Pür, Evänder, David Bouts & 2hot4u |  |
 
 ## Address
 
 38 TVS Notre Dame De Bon Secours, Marseille
 
-*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/marseille/club/le-chapiteau-marseille/)*
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/marseille/club/le-chapiteau-marseille/)*

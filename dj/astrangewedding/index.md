@@ -1,6 +1,6 @@
 # A Strange Wedding
 
-A Strange Wedding is a Techno and Bass artist with 1 upcoming club date listed on soundcheck as of Fri, 18 Sept 2026, next at WOMB, Tokyo on Mon, 21 Sept 2026.
+A Strange Wedding is a Techno and Bass artist with 1 upcoming club date listed on soundcheck as of Sat, 19 Sept 2026, next at WOMB, Tokyo on Mon, 21 Sept 2026.
 
 A Strange Wedding is a techno and bass artist tracked on soundcheck, with 70 sets logged across Amsterdam, Athens, Berlin and Brussels and 22 more. Often billed alongside Anetha, VEL (MA) and Spekki Webu. Next up: WOMB, Tokyo on Mon 21 Sept.
 
@@ -25,4 +25,4 @@ A Strange Wedding is a techno and bass artist tracked on soundcheck, with 70 set
 
 Anetha, VEL (MA), Spekki Webu
 
-*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/astrangewedding/)*
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/astrangewedding/)*

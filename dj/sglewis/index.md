@@ -1,14 +1,13 @@
 # SG Lewis
 
-SG Lewis is a House and Electronica artist with 7 upcoming club dates listed on soundcheck as of Fri, 18 Sept 2026, next at The Cause, London on Fri, 18 Sept 2026.
+SG Lewis is a House and Electronica artist with 6 upcoming club dates listed on soundcheck as of Sat, 19 Sept 2026, next at Index, Dublin on Sat, 19 Sept 2026.
 
-SG Lewis is a house and electronica artist tracked on soundcheck, with 89 sets logged across Amsterdam, Austin, Bali and Barcelona and 26 more. Often billed alongside Gorgon City, Dom Dolla and Eliza Rose. Next up: The Cause, London on Fri 18 Sept.
+SG Lewis is a house and electronica artist tracked on soundcheck, with 89 sets logged across Amsterdam, Austin, Bali and Barcelona and 26 more. Often billed alongside Gorgon City, Dom Dolla and Eliza Rose. Next up: Index, Dublin on Sat 19 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 18 Sept 2026 | The Cause | London |
 | Sat, 19 Sept 2026 | Index | Dublin |
 | Fri, 25 Sept 2026 | FS. | Tokyo |
 | Sat, 26 Sept 2026 | TBA - Pier 80 | San Francisco/Oakland |
@@ -18,6 +17,7 @@ SG Lewis is a house and electronica artist tracked on soundcheck, with 89 sets l
 
 ## Recently played
 
+- The Cause, London — Fri, 18 Sept 2026
 - Hï Ibiza, Ibiza — Sat, 12 Sept 2026
 - Valby Parken, Copenhagen — Fri, 11 Sept 2026
 - Kelvedon Hall, London — Sat, 29 Aug 2026
@@ -25,10 +25,9 @@ SG Lewis is a house and electronica artist tracked on soundcheck, with 89 sets l
 - Elsewhere, New York City — Sat, 22 Aug 2026
 - FS., Tokyo — Sat, 22 Aug 2026
 - FS., Tokyo — Sat, 22 Aug 2026
-- Knockdown Center, New York City — Fri, 21 Aug 2026
 
 ## Shares bills with
 
 Gorgon City, Dom Dolla, Eliza Rose
 
-*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sglewis/)*
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sglewis/)*

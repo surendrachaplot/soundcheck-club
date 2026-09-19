@@ -1,6 +1,6 @@
 # Daikanyama ORD.
 
-Daikanyama ORD. is a music venue in Tokyo with 5 upcoming nights listed on soundcheck as of Fri, 18 Sept 2026; the next is "MATRICARIA in the city" on Sat, 19 Sept 2026.
+Daikanyama ORD. is a music venue in Tokyo with 5 upcoming nights listed on soundcheck as of Sat, 19 Sept 2026; the next is "MATRICARIA in the city" on Sat, 19 Sept 2026.
 
 Daikanyama ORD. is a music venue in Tokyo listed on soundcheck. 5 upcoming nights, with line-ups including DJason, DJ Sodeyama, Hackmarkt and Maemm and 2 more. Browse upcoming dates, start times and who's playing. za HOUSE 2F 1-34-17 ebisu-nishi shibuyaku tokyo.
 
@@ -18,4 +18,4 @@ Daikanyama ORD. is a music venue in Tokyo listed on soundcheck. 5 upcoming night
 
 za HOUSE 2F 1-34-17 ebisu-nishi shibuyaku tokyo, Tokyo
 
-*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/daikanyama-ord/)*
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/daikanyama-ord/)*

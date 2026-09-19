@@ -1,13 +1,14 @@
 # Davide D'Amico
 
-Davide D'Amico is a Disco and House artist with 1 upcoming club date listed on soundcheck as of Fri, 18 Sept 2026, next at Djoon, Paris on Fri, 6 Nov 2026.
+Davide D'Amico is a Disco and House artist with 2 upcoming club dates listed on soundcheck as of Sat, 19 Sept 2026, next at Basic Club, Naples on Sat, 26 Sept 2026.
 
-Davide D'Amico is a disco and house artist tracked on soundcheck, with 57 sets logged across Amsterdam, Belgrade, Berlin and Madrid and 8 more. Often billed alongside Gigi Testa, Danilo Plessow and Angelo Perna. Next up: Djoon, Paris on Fri 6 Nov.
+Davide D'Amico is a disco and house artist tracked on soundcheck, with 58 sets logged across Amsterdam, Belgrade, Berlin and Madrid and 8 more. Often billed alongside Gigi Testa, Danilo Plessow and Angelo Perna. Next up: Basic Club, Naples on Sat 26 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 26 Sept 2026 | Basic Club | Naples |
 | Fri, 6 Nov 2026 | Djoon | Paris |
 
 ## Recently played
@@ -25,4 +26,4 @@ Davide D'Amico is a disco and house artist tracked on soundcheck, with 57 sets l
 
 Gigi Testa, Danilo Plessow, Angelo Perna
 
-*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/davidedamico/)*
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/davidedamico/)*

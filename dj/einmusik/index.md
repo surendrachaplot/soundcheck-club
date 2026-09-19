@@ -1,8 +1,8 @@
 # Einmusik
 
-Einmusik is a Techno and Progressive House artist with 4 upcoming club dates listed on soundcheck as of Fri, 18 Sept 2026, next at Seaseaclub Barcelona, Barcelona on Sat, 19 Sept 2026.
+Einmusik is a Techno and Progressive House artist with 5 upcoming club dates listed on soundcheck as of Sat, 19 Sept 2026, next at Seaseaclub Barcelona, Barcelona on Sat, 19 Sept 2026.
 
-Einmusik is a techno and progressive house artist tracked on soundcheck, with 129 sets logged across Amsterdam, Barcelona, Basel and Berlin and 37 more. Often billed alongside Prismode, Solvane and Markus Klee. Next up: Seaseaclub Barcelona, Barcelona on Sat 19 Sept.
+Einmusik is a techno and progressive house artist tracked on soundcheck, with 130 sets logged across Amsterdam, Barcelona, Basel and Berlin and 37 more. Often billed alongside Prismode, Solvane and Markus Klee. Next up: Seaseaclub Barcelona, Barcelona on Sat 19 Sept.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ Einmusik is a techno and progressive house artist tracked on soundcheck, with 12
 | Sat, 19 Sept 2026 | Seaseaclub Barcelona | Barcelona |
 | Sat, 10 Oct 2026 | E1 | London |
 | Fri, 16 Oct 2026 | Jaeger | Oslo |
+| Sat, 17 Oct 2026 | Pracht | Frankfurt |
 | Fri, 23 Oct 2026 | Supperclub Cruise | Amsterdam |
 
 ## Recently played
@@ -28,4 +29,4 @@ Einmusik is a techno and progressive house artist tracked on soundcheck, with 12
 
 Prismode, Solvane, Markus Klee
 
-*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/einmusik/)*
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/einmusik/)*

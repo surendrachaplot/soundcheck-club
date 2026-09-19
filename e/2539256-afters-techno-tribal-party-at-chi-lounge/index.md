@@ -1,6 +1,6 @@
 # AFTERS: TECHNO TRIBAL PARTY at Chi Lounge
 
-AFTERS: TECHNO TRIBAL PARTY at Chi Lounge on Sun 27 Sept, Sanfrancisco. 4 acts on the bill: ANCARCO, Another Human Red, Kamu Kamu and MOSTASH. Techno. Preview the line-up and save it on soundcheck.
+AFTERS: TECHNO TRIBAL PARTY at Chi Lounge on Sun 27 Sept, Sanfrancisco. 4 acts on the bill: ANCARCO, Another Human Red, Kamu Kamu and MOSTASH. Techno and Afro House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # DJ Keshi
 
-DJ Keshi is a Bass and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 18 Sept 2026, next at Club U, Vienna on Fri, 25 Sept 2026.
+DJ Keshi is a Bass and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 19 Sept 2026, next at Club U, Vienna on Fri, 25 Sept 2026.
 
 DJ Keshi is a bass and techno artist based in Austria, tracked on soundcheck, with 23 sets logged across Vienna. Often billed alongside Thao, neon.kotze and yarx. Next up: Club U, Vienna on Fri 25 Sept.
 
@@ -25,4 +25,4 @@ DJ Keshi is a bass and techno artist based in Austria, tracked on soundcheck, wi
 
 Thao, neon.kotze, yarx
 
-*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djkeshi/)*
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djkeshi/)*

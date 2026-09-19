@@ -1,6 +1,6 @@
 # POIZN
 
-POIZN is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Fri, 18 Sept 2026, next at Tokonoma Club, Frankfurt on Sat, 19 Sept 2026.
+POIZN is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Sat, 19 Sept 2026, next at Tokonoma Club, Frankfurt on Sat, 19 Sept 2026.
 
 POIZN is a techno and trance artist tracked on soundcheck, with 22 sets logged across Cologne and Frankfurt. Often billed alongside Harmann, VILLA (DE) and AUHAM. Next up: Tokonoma Club, Frankfurt on Sat 19 Sept.
 
@@ -25,4 +25,4 @@ POIZN is a techno and trance artist tracked on soundcheck, with 22 sets logged a
 
 Harmann, VILLA (DE), AUHAM
 
-*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/poizn/)*
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/poizn/)*

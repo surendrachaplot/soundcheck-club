@@ -1,14 +1,13 @@
 # LOLSNAKE
 
-LOLSNAKE is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Fri, 18 Sept 2026, next at TILLATEC, Amsterdam on Fri, 18 Sept 2026.
+LOLSNAKE is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Sat, 19 Sept 2026, next at C12, Brussels on Sat, 19 Sept 2026.
 
-LOLSNAKE is a techno and house artist tracked on soundcheck, with 223 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 53 more. Often billed alongside VINVAR, Juliana Huxtable and Rakans. Next up: TILLATEC, Amsterdam on Fri 18 Sept.
+LOLSNAKE is a techno and house artist tracked on soundcheck, with 223 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 53 more. Often billed alongside VINVAR, Juliana Huxtable and Rakans. Next up: C12, Brussels on Sat 19 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 18 Sept 2026 | TILLATEC | Amsterdam |
 | Sat, 19 Sept 2026 | C12 | Brussels |
 | Fri, 25 Sept 2026 | Laska V21 | Riga |
 | Sat, 26 Sept 2026 | SMUT Athens | Athens |
@@ -17,6 +16,7 @@ LOLSNAKE is a techno and house artist tracked on soundcheck, with 223 sets logge
 
 ## Recently played
 
+- TILLATEC, Amsterdam — Fri, 18 Sept 2026
 - Berghain | Panorama Bar | Säule, Berlin — Sat, 12 Sept 2026
 - The Ground at Club Space, Miami — Sat, 22 Aug 2026
 - BASEMENT, New York City — Sat, 15 Aug 2026
@@ -24,10 +24,9 @@ LOLSNAKE is a techno and house artist tracked on soundcheck, with 223 sets logge
 - Phoxxi Green Area, Hamburg — Sat, 1 Aug 2026
 - Ferropolis, Leipzig — Fri, 17 Jul 2026
 - Life Park, Istanbul — Sun, 12 Jul 2026
-- Virage, Paris — Sat, 11 Jul 2026
 
 ## Shares bills with
 
 VINVAR, Juliana Huxtable, Rakans
 
-*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lolsnake/)*
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lolsnake/)*

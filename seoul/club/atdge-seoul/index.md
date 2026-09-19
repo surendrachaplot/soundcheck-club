@@ -1,14 +1,13 @@
 # Atdge Seoul
 
-Atdge Seoul is a music venue in Seoul with 5 upcoming nights listed on soundcheck as of Fri, 18 Sept 2026; the next is "KYVU, NON IDENTITY, Recy" on Fri, 18 Sept 2026.
+Atdge Seoul is a music venue in Seoul with 4 upcoming nights listed on soundcheck as of Sat, 19 Sept 2026; the next is "J.bin, Hwiah, Sookyung" on Sat, 19 Sept 2026.
 
-Atdge Seoul is a music venue in Seoul listed on soundcheck. 5 upcoming nights, with line-ups including Asllan, Gangmin Kim, GUMGO and Haemi Park and 2 more. Browse upcoming dates, start times and who's playing. 29, Bogwang-ro 59-gil, Yongsan-gu, Seoul.
+Atdge Seoul is a music venue in Seoul listed on soundcheck. 4 upcoming nights, with line-ups including Asllan, Gangmin Kim, GUMGO and Haemi Park and 2 more. Browse upcoming dates, start times and who's playing. 29, Bogwang-ro 59-gil, Yongsan-gu, Seoul.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 18 Sept 2026 | KYVU, NON IDENTITY, Recy | KYVU, NON IDENTITY, Recy |
 | Sat, 19 Sept 2026 | J.bin, Hwiah, Sookyung | Hwiah, J.bin (2) |
 | Wed, 23 Sept 2026 | Haemi Park, Kim Gangmin | Gangmin Kim, Haemi Park |
 | Fri, 25 Sept 2026 | GUMGO, Rocket, Minuc | GUMGO, Minuc |
@@ -18,4 +17,4 @@ Atdge Seoul is a music venue in Seoul listed on soundcheck. 5 upcoming nights, w
 
 29, Bogwang-ro 59-gil, Yongsan-gu, Seoul, Seoul
 
-*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/seoul/club/atdge-seoul/)*
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/seoul/club/atdge-seoul/)*

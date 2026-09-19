@@ -1,6 +1,6 @@
 # Delano Legito
 
-Delano Legito is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Fri, 18 Sept 2026, next at Openluchttheater Amersfoort, Amsterdam on Fri, 18 Sept 2026.
+Delano Legito is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Sat, 19 Sept 2026, next at Openluchttheater Amersfoort, Amsterdam on Fri, 18 Sept 2026.
 
 Delano Legito is a techno and house artist tracked on soundcheck, with 105 sets logged across Amsterdam, Athens, Barcelona and Berlin and 16 more. Often billed alongside Julie, Amotik and Serti. Next up: Openluchttheater Amersfoort, Amsterdam on Fri 18 Sept.
 
@@ -15,6 +15,7 @@ Delano Legito is a techno and house artist tracked on soundcheck, with 105 sets 
 
 ## Recently played
 
+- Openluchttheater Amersfoort, Amsterdam — Fri, 18 Sept 2026
 - CLUB RAUM, Amsterdam — Sat, 22 Aug 2026
 - La Station - Gare des Mines, Paris — Sat, 15 Aug 2026
 - TBA, Amsterdam — Sun, 19 Jul 2026
@@ -22,10 +23,9 @@ Delano Legito is a techno and house artist tracked on soundcheck, with 105 sets 
 - Tresor / Globus, Berlin — Fri, 26 Jun 2026
 - TBA - Brooklyn, New York City — Fri, 29 May 2026
 - TILLATEC, Amsterdam — Sun, 17 May 2026
-- export, Rotterdam — Sat, 16 May 2026
 
 ## Shares bills with
 
 Julie, Amotik, Serti
 
-*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/delanolegito/)*
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/delanolegito/)*

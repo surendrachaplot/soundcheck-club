@@ -1,6 +1,6 @@
 # Luke Slater
 
-Luke Slater is a Techno and House artist with 9 upcoming club dates listed on soundcheck as of Fri, 18 Sept 2026, next at Openluchttheater Amersfoort, Amsterdam on Fri, 18 Sept 2026.
+Luke Slater is a Techno and House artist with 9 upcoming club dates listed on soundcheck as of Sat, 19 Sept 2026, next at Openluchttheater Amersfoort, Amsterdam on Fri, 18 Sept 2026.
 
 Luke Slater is a techno and house artist based in United Kingdom, tracked on soundcheck, with 123 sets logged across Amsterdam, Athens, Barcelona and Belgrade and 42 more. Often billed alongside JakoJako, Rene Wise and Steffi. Next up: Openluchttheater Amersfoort, Amsterdam on Fri 18 Sept.
 
@@ -20,6 +20,7 @@ Luke Slater is a techno and house artist based in United Kingdom, tracked on sou
 
 ## Recently played
 
+- Openluchttheater Amersfoort, Amsterdam — Fri, 18 Sept 2026
 - La Pinilla Ski Resort, Madrid — Mon, 10 Aug 2026
 - Berghain | Panorama Bar | Säule, Berlin — Sat, 8 Aug 2026
 - Amsterdamse Bos, Amsterdam — Sat, 1 Aug 2026
@@ -27,10 +28,9 @@ Luke Slater is a techno and house artist based in United Kingdom, tracked on sou
 - Boomtown (Kouter), Ghent — Thu, 23 Jul 2026
 - Fabrik, Madrid — Sat, 11 Jul 2026
 - Moog Club, Barcelona — Sun, 21 Jun 2026
-- The Chocolate Factory, New York City — Sat, 13 Jun 2026
 
 ## Shares bills with
 
 JakoJako, Rene Wise, Steffi
 
-*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lukeslater/)*
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lukeslater/)*

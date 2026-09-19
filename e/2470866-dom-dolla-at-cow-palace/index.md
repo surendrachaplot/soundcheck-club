@@ -1,6 +1,6 @@
 # Dom Dolla at Cow Palace
 
-Dom Dolla at Cow Palace on Fri 16 Oct, Sanfrancisco. 3 acts on the bill: Dom Dolla, Saint Ludo and Sam Gellaitry. House and Tech House. Preview the line-up and save it on soundcheck.
+Dom Dolla at Cow Palace on Fri 16 Oct, Sanfrancisco. 7 acts on the bill: Clearcast, DJ Seinfeld, Dom Dolla and HAAi and 3 more. House and Tech House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,8 +10,12 @@ Dom Dolla at Cow Palace on Fri 16 Oct, Sanfrancisco. 3 acts on the bill: Dom Dol
 
 ## Line-up
 
+- Clearcast
+- DJ Seinfeld
 - Dom Dolla
+- HAAi
 - Saint Ludo
 - Sam Gellaitry
+- Skiis
 
 *Source: [soundcheck](https://soundcheck.club/e/2470866-dom-dolla-at-cow-palace/)*

@@ -1,6 +1,6 @@
 # The New York Record Club for The Advancement of The Arts
 
-The New York Record Club for The Advancement of The Arts is a electronic artist with 4 upcoming club dates listed on soundcheck as of Fri, 18 Sept 2026, next at Now & Then NYC, New York City on Sat, 19 Sept 2026.
+The New York Record Club for The Advancement of The Arts is a electronic artist with 4 upcoming club dates listed on soundcheck as of Sat, 19 Sept 2026, next at Now & Then NYC, New York City on Sat, 19 Sept 2026.
 
 The New York Record Club for The Advancement of The Arts is an electronic artist based in United States of America, tracked on soundcheck, with 50 sets logged across Newyorkcity. Often billed alongside JP Solis. Next up: Now & Then NYC, Newyorkcity on Sat 19 Sept.
 
@@ -28,4 +28,4 @@ The New York Record Club for The Advancement of The Arts is an electronic artist
 
 JP Solis
 
-*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/thenewyorkrecordclubfortheadvancementofthearts/)*
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/thenewyorkrecordclubfortheadvancementofthearts/)*

@@ -1,6 +1,6 @@
 # Birrell
 
-Birrell is a Progressive House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 18 Sept 2026, next at Soup, Manchester on Fri, 9 Oct 2026.
+Birrell is a Progressive House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 19 Sept 2026, next at Soup, Manchester on Fri, 9 Oct 2026.
 
 Birrell is a progressive house and techno artist tracked on soundcheck, with 28 sets logged across London and Manchester. Often billed alongside Slim Shae, Front Bench and Jovak. Next up: Soup, Manchester on Fri 9 Oct.
 
@@ -25,4 +25,4 @@ Birrell is a progressive house and techno artist tracked on soundcheck, with 28 
 
 Slim Shae, Front Bench, Jovak
 
-*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/birrell/)*
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/birrell/)*

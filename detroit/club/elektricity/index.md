@@ -1,14 +1,13 @@
 # Elektricity
 
-Elektricity is a music venue in Detroit with 18 upcoming nights listed on soundcheck as of Fri, 18 Sept 2026; the next is "DJ MANDY: FALL TOUR 2026" on Fri, 18 Sept 2026.
+Elektricity is a music venue in Detroit with 17 upcoming nights listed on soundcheck as of Sat, 19 Sept 2026; the next is "DNB DEPOT" on Sat, 19 Sept 2026.
 
-Elektricity is a music venue in Detroit listed on soundcheck. 18 upcoming nights, with line-ups including ARCS, Casey Club, DJ MANDY and Johnny Malek and 2 more. Browse upcoming dates, start times and who's playing. 15 South Saginaw Street; Pontiac, MI 48342; United States.
+Elektricity is a music venue in Detroit listed on soundcheck. 17 upcoming nights, with line-ups including ARCS, Casey Club, Johnny Malek and Mary Droppinz and 2 more. Browse upcoming dates, start times and who's playing. 15 South Saginaw Street; Pontiac, MI 48342; United States.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 18 Sept 2026 | DJ MANDY: FALL TOUR 2026 | DJ MANDY, juicy |
 | Sat, 19 Sept 2026 | DNB DEPOT | Parallax, Sinister Dosage |
 | Fri, 25 Sept 2026 | RIDDIM RESTAURANT | Melt (CA), The General |
 | Fri, 2 Oct 2026 | NIIKO X SWAE | ARCS, Johnny Malek |
@@ -18,9 +17,10 @@ Elektricity is a music venue in Detroit listed on soundcheck. 18 upcoming nights
 | Fri, 16 Oct 2026 | TSU NAMI: LIMERENCE TOUR (360° DJ EXPERIENCE) |  |
 | Sat, 17 Oct 2026 | WEIRD & ODD FT. WODD |  |
 | Fri, 23 Oct 2026 | Anime Rave: Halloween Edition |  |
+| Sat, 24 Oct 2026 | WONKYWEEN |  |
 
 ## Address
 
 15 South Saginaw Street; Pontiac, MI 48342; United States, Detroit
 
-*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/detroit/club/elektricity/)*
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/detroit/club/elektricity/)*

@@ -1,14 +1,13 @@
 # Club Exil
 
-Club Exil is a music venue in Vienna with 7 upcoming nights listed on soundcheck as of Fri, 18 Sept 2026; the next is "TUFF opening with Fake_Friends, two girls one mom, SZG, Airod, Jacidorex, Serafin" on Fri, 18 Sept 2026.
+Club Exil is a music venue in Vienna with 6 upcoming nights listed on soundcheck as of Sat, 19 Sept 2026; the next is "OXYDICE FESTIVAL" on Fri, 25 Sept 2026.
 
-Club Exil is a music venue in Vienna listed on soundcheck. 7 upcoming nights, with line-ups including Airod, Albin Brezlan, Aleta and Anaïs and 2 more. Browse upcoming dates, start times and who's playing. Marktstrasse 13A 2331 Vösendorf.
+Club Exil is a music venue in Vienna listed on soundcheck. 6 upcoming nights, with line-ups including Anaïs, Anna Ullrich, DJ DIAMOND (2) and DORAH and 2 more. Browse upcoming dates, start times and who's playing. Marktstrasse 13A 2331 Vösendorf.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 18 Sept 2026 | TUFF opening with Fake_Friends, two girls one mom, SZG, Airod, Jacidorex, Serafin | Airod, Albin Brezlan, Aleta, BRX (2), Huebl, Jacidorex, SZG, Serafin (AT), Telicho, Vanessa Sa |
 | Fri, 25 Sept 2026 | OXYDICE FESTIVAL | DJ DIAMOND (2), Kat Ze, WO.IZZY |
 | Sat, 26 Sept 2026 | VERKNALLT w/ KLOUD, Luciid, Lola Cerise | KLOUD, Luciid, ORYMA, Sutter Cane |
 | Fri, 2 Oct 2026 | RITUAL II with Felicie, Phara, Truncate, Uncertain | Félicie, Phara, Truncate, Uncertain |
@@ -20,4 +19,4 @@ Club Exil is a music venue in Vienna listed on soundcheck. 7 upcoming nights, wi
 
 Marktstrasse 13A 2331 Vösendorf, Vienna
 
-*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/vienna/club/club-exil/)*
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/vienna/club/club-exil/)*

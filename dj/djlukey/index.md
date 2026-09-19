@@ -1,6 +1,6 @@
 # DJ Lukey
 
-DJ Lukey is a House and Breakbeat artist with 1 upcoming club date listed on soundcheck as of Fri, 18 Sept 2026, next at MODULE, Copenhagen on Sat, 19 Sept 2026.
+DJ Lukey is a House and Breakbeat artist with 1 upcoming club date listed on soundcheck as of Sat, 19 Sept 2026, next at MODULE, Copenhagen on Sat, 19 Sept 2026.
 
 DJ Lukey is a house and breakbeat artist based in United Kingdom, tracked on soundcheck, with 34 sets logged across Copenhagen. Often billed alongside Sound and Fury, Gavnlig and Boogie Rookie. Next up: MODULE, Copenhagen on Sat 19 Sept.
 
@@ -25,4 +25,4 @@ DJ Lukey is a house and breakbeat artist based in United Kingdom, tracked on sou
 
 Sound and Fury, Gavnlig, Boogie Rookie
 
-*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djlukey/)*
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djlukey/)*

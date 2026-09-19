@@ -1,14 +1,13 @@
 # Todd Terry
 
-Todd Terry is a House and Disco artist with 13 upcoming club dates listed on soundcheck as of Fri, 18 Sept 2026, next at The Fox and Firkin, London on Fri, 18 Sept 2026.
+Todd Terry is a House and Disco artist with 13 upcoming club dates listed on soundcheck as of Sat, 19 Sept 2026, next at Amnesia Ibiza, Ibiza on Sat, 19 Sept 2026.
 
-Todd Terry is a house and disco artist tracked on soundcheck, with 152 sets logged across Amsterdam, Bali, Barcelona and Bristol and 29 more. Often billed alongside Janika Tenn, Ferreck Dawn and Melvo Baptiste. Next up: The Fox and Firkin, London on Fri 18 Sept.
+Todd Terry is a house and disco artist tracked on soundcheck, with 153 sets logged across Amsterdam, Bali, Barcelona and Bristol and 29 more. Often billed alongside Janika Tenn, Ferreck Dawn and Melvo Baptiste. Next up: Amnesia Ibiza, Ibiza on Sat 19 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 18 Sept 2026 | The Fox and Firkin | London |
 | Sat, 19 Sept 2026 | Amnesia Ibiza | Ibiza |
 | Sat, 19 Sept 2026 | Freeze HiFi | Liverpool |
 | Wed, 23 Sept 2026 | Freeze HiFi | Liverpool |
@@ -17,12 +16,14 @@ Todd Terry is a house and disco artist tracked on soundcheck, with 152 sets logg
 | Fri, 2 Oct 2026 | Amnesia Ibiza | Ibiza |
 | Sat, 10 Oct 2026 | The Pitt Market | Edinburgh |
 | Thu, 22 Oct 2026 | Borisov Amsterdam | Amsterdam |
+| Thu, 22 Oct 2026 | Borisov Amsterdam | Amsterdam |
 | Sun, 25 Oct 2026 | Het Sieraad | Amsterdam |
 | Fri, 30 Oct 2026 | Palm House | Liverpool |
 | Fri, 30 Oct 2026 | Freeze HiFi | Liverpool |
 
 ## Recently played
 
+- The Fox and Firkin, London — Fri, 18 Sept 2026
 - Freeze HiFi, Liverpool — Wed, 16 Sept 2026
 - TBA - THE STRAY, HARROGATE, Leeds — Sat, 5 Sept 2026
 - Paragon, New York City — Sat, 29 Aug 2026
@@ -30,10 +31,9 @@ Todd Terry is a house and disco artist tracked on soundcheck, with 152 sets logg
 - Freeze HiFi, Liverpool — Wed, 19 Aug 2026
 - Joshua Brooks, Manchester — Sat, 1 Aug 2026
 - Amnesia Ibiza, Ibiza — Fri, 31 Jul 2026
-- BLITZ, Munich — Fri, 31 Jul 2026
 
 ## Shares bills with
 
 Janika Tenn, Ferreck Dawn, Melvo Baptiste
 
-*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/toddterry/)*
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/toddterry/)*

@@ -1,6 +1,6 @@
 # Nathan Alzon
 
-Nathan Alzon is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Fri, 18 Sept 2026, next at Shelter Amsterdam, Amsterdam on Fri, 2 Oct 2026.
+Nathan Alzon is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Sat, 19 Sept 2026, next at Shelter Amsterdam, Amsterdam on Fri, 2 Oct 2026.
 
 Nathan Alzon is a house and tech house artist tracked on soundcheck, with 37 sets logged across Amsterdam, Frankfurt, Milan and Porto and 3 more. Often billed alongside Benjamin Berg, Benny Rodrigues and Prunk. Next up: Shelter Amsterdam, Amsterdam on Fri 2 Oct.
 
@@ -26,4 +26,4 @@ Nathan Alzon is a house and tech house artist tracked on soundcheck, with 37 set
 
 Benjamin Berg, Benny Rodrigues, Prunk
 
-*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nathanalzon/)*
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nathanalzon/)*

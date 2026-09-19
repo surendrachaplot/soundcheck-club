@@ -1,15 +1,13 @@
 # Trancemaster Krause
 
-Trancemaster Krause is a Techno and Trance artist with 9 upcoming club dates listed on soundcheck as of Fri, 18 Sept 2026, next at Bootshaus, Cologne on Fri, 18 Sept 2026.
+Trancemaster Krause is a Techno and Trance artist with 7 upcoming club dates listed on soundcheck as of Sat, 19 Sept 2026, next at RSO.BERLIN, Berlin on Sat, 19 Sept 2026.
 
-Trancemaster Krause is a techno and trance artist tracked on soundcheck, with 193 sets logged across Amsterdam, Antwerp, Barcelona and Basel and 34 more. Often billed alongside Cleopard2000, Mika Heggemann and Justin Tinderdate. Next up: Bootshaus, Cologne on Fri 18 Sept.
+Trancemaster Krause is a techno and trance artist tracked on soundcheck, with 193 sets logged across Amsterdam, Antwerp, Barcelona and Basel and 34 more. Often billed alongside Cleopard2000, Mika Heggemann and Justin Tinderdate. Next up: RSO.BERLIN, Berlin on Sat 19 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 18 Sept 2026 | Bootshaus | Cologne |
-| Fri, 18 Sept 2026 | Bootshaus | Cologne |
 | Sat, 19 Sept 2026 | RSO.BERLIN | Berlin |
 | Fri, 25 Sept 2026 | Grelle Forelle | Vienna |
 | Sat, 10 Oct 2026 | Junkyard Dortmund | Dortmund-essen |
@@ -20,17 +18,17 @@ Trancemaster Krause is a techno and trance artist tracked on soundcheck, with 19
 
 ## Recently played
 
+- Bootshaus, Cologne — Fri, 18 Sept 2026
+- Bootshaus, Cologne — Fri, 18 Sept 2026
 - Fabrik, Madrid — Sat, 12 Sept 2026
 - Lehmann Club, Stuttgart — Fri, 11 Sept 2026
 - TBA, Melbourne — Sat, 5 Sept 2026
 - Home The Venue, Sydney — Fri, 4 Sept 2026
 - Revolver Upstairs, Melbourne — Thu, 3 Sept 2026
 - Schrotty, Cologne — Sat, 29 Aug 2026
-- Dürener Badesee, Cologne — Fri, 28 Aug 2026
-- INPUT High Fidelity Dance Club, Barcelona — Fri, 21 Aug 2026
 
 ## Shares bills with
 
 Cleopard2000, Mika Heggemann, Justin Tinderdate
 
-*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/trancemasterkrause/)*
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/trancemasterkrause/)*

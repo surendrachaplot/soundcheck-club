@@ -1,6 +1,6 @@
 # Chasing Dreams ADE Charity Fundraiser at Café Restaurant De Kroon
 
-Chasing Dreams ADE Charity Fundraiser at Café Restaurant De Kroon on Wed 21 Oct, Amsterdam. 3 acts on the bill: C-systems, Sago and SOMMA. Trance and Techno. Preview the line-up and save it on soundcheck.
+Chasing Dreams ADE Charity Fundraiser at Café Restaurant De Kroon on Wed 21 Oct, Amsterdam. 7 acts on the bill: BLR (NL), Boro, C-systems and Hel:Brg and 3 more. Trance and Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,8 +10,12 @@ Chasing Dreams ADE Charity Fundraiser at Café Restaurant De Kroon on Wed 21 Oct
 
 ## Line-up
 
+- BLR (NL)
+- Boro
 - C-systems
+- Hel:Brg
 - Sago
 - SOMMA
+- Xijaro & Pitch
 
 *Source: [soundcheck](https://soundcheck.club/e/2539668-chasing-dreams-ade-charity-fundraiser-at-caf-restaurant-de-k/)*

@@ -1,6 +1,6 @@
 # Locky
 
-Locky is a House and Tech House artist with 10 upcoming club dates listed on soundcheck as of Fri, 18 Sept 2026, next at Openluchttheater Amersfoort, Amsterdam on Fri, 18 Sept 2026.
+Locky is a House and Tech House artist with 10 upcoming club dates listed on soundcheck as of Sat, 19 Sept 2026, next at Openluchttheater Amersfoort, Amsterdam on Fri, 18 Sept 2026.
 
 Locky is a house and tech house artist tracked on soundcheck, with 145 sets logged across Amsterdam, Barcelona, Belgrade and Birmingham and 26 more. Often billed alongside Mad.Again (2), Luke Dean_ and Liam Palmer. Next up: Openluchttheater Amersfoort, Amsterdam on Fri 18 Sept.
 
@@ -21,17 +21,17 @@ Locky is a house and tech house artist tracked on soundcheck, with 145 sets logg
 
 ## Recently played
 
+- Openluchttheater Amersfoort, Amsterdam — Fri, 18 Sept 2026
+- UNO MALTA, Malta — Fri, 18 Sept 2026
 - [UNVRS], Ibiza — Wed, 16 Sept 2026
 - Beach House San Diego, San Diego — Sun, 13 Sept 2026
 - Descent, Boston — Sat, 12 Sept 2026
 - Descent, Boston — Sat, 12 Sept 2026
 - Floyd, Miami — Fri, 11 Sept 2026
 - 528 Ibiza, Ibiza — Fri, 4 Sept 2026
-- [UNVRS], Ibiza — Wed, 2 Sept 2026
-- fabric, London — Sun, 30 Aug 2026
 
 ## Shares bills with
 
 Mad.Again (2), Luke Dean_, Liam Palmer
 
-*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/locky/)*
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/locky/)*

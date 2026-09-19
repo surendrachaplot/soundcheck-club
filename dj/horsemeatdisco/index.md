@@ -1,8 +1,8 @@
 # Horse Meat Disco
 
-Horse Meat Disco is a House and Disco artist with 11 upcoming club dates listed on soundcheck as of Fri, 18 Sept 2026, next at The Cause, London on Sat, 19 Sept 2026.
+Horse Meat Disco is a House and Disco artist with 12 upcoming club dates listed on soundcheck as of Sat, 19 Sept 2026, next at The Cause, London on Sat, 19 Sept 2026.
 
-Horse Meat Disco is a house and disco artist tracked on soundcheck, with 390 sets logged across Amsterdam, Antwerp, Athens and Austin and 54 more. Often billed alongside Luke Howard, James Hillard and Severino. Next up: The Cause, London on Sat 19 Sept.
+Horse Meat Disco is a house and disco artist tracked on soundcheck, with 391 sets logged across Amsterdam, Antwerp, Athens and Austin and 54 more. Often billed alongside Luke Howard, James Hillard and Severino. Next up: The Cause, London on Sat 19 Sept.
 
 ## Upcoming shows
 
@@ -19,6 +19,7 @@ Horse Meat Disco is a house and disco artist tracked on soundcheck, with 390 set
 | Thu, 22 Oct 2026 | Thuishaven | Amsterdam |
 | Sun, 25 Oct 2026 | Stereo | Montreal |
 | Sat, 14 Nov 2026 | Hare & Hounds | Birmingham |
+| Fri, 18 Dec 2026 | Sala Villanos | Madrid |
 
 ## Recently played
 
@@ -35,4 +36,4 @@ Horse Meat Disco is a house and disco artist tracked on soundcheck, with 390 set
 
 Luke Howard, James Hillard, Severino
 
-*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/horsemeatdisco/)*
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/horsemeatdisco/)*

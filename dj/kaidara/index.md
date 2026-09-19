@@ -1,6 +1,6 @@
 # Kaidara
 
-Kaidara is a Bass and Club artist with 2 upcoming club dates listed on soundcheck as of Fri, 18 Sept 2026, next at Razzmatazz, Barcelona on Sat, 19 Sept 2026.
+Kaidara is a Bass and Club artist with 2 upcoming club dates listed on soundcheck as of Sat, 19 Sept 2026, next at Razzmatazz, Barcelona on Sat, 19 Sept 2026.
 
 Kaidara is a bass and club artist based in Spain, tracked on soundcheck, with 27 sets logged across Barcelona, Ghent, Madrid and Newyorkcity and 1 more. Often billed alongside DJ2D2, Umami and Alvva. Next up: Razzmatazz, Barcelona on Sat 19 Sept.
 
@@ -26,4 +26,4 @@ Kaidara is a bass and club artist based in Spain, tracked on soundcheck, with 27
 
 DJ2D2, Umami, Alvva
 
-*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kaidara/)*
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kaidara/)*

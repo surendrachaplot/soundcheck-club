@@ -1,6 +1,6 @@
 # Ava Blank
 
-Ava Blank is a House and Deep House artist with 3 upcoming club dates listed on soundcheck as of Fri, 18 Sept 2026, next at TBA - IYKYK , Los Angeles on Sat, 19 Sept 2026.
+Ava Blank is a House and Deep House artist with 3 upcoming club dates listed on soundcheck as of Sat, 19 Sept 2026, next at TBA - IYKYK , Los Angeles on Sat, 19 Sept 2026.
 
 Ava Blank is a house and deep house artist based in United States of America, tracked on soundcheck, with 30 sets logged across Losangeles and Sanfrancisco. Often billed alongside Dazegxd, Akumen and Andy Oro. Next up: TBA - IYKYK , Losangeles on Sat 19 Sept.
 
@@ -10,7 +10,7 @@ Ava Blank is a house and deep house artist based in United States of America, tr
 | --- | --- | --- |
 | Sat, 19 Sept 2026 | TBA - IYKYK  | Los Angeles |
 | Fri, 2 Oct 2026 | TBA - Hollywood | Los Angeles |
-| Sat, 17 Oct 2026 | Casita Hollywood | Los Angeles |
+| Sat, 17 Oct 2026 | The Airliner | Los Angeles |
 
 ## Recently played
 
@@ -27,4 +27,4 @@ Ava Blank is a house and deep house artist based in United States of America, tr
 
 Dazegxd, Akumen, Andy Oro
 
-*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/avablank/)*
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/avablank/)*

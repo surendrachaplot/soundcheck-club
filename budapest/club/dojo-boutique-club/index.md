@@ -1,6 +1,6 @@
 # Dojo Boutique Club
 
-Dojo Boutique Club is a music venue in Budapest with 4 upcoming nights listed on soundcheck as of Fri, 18 Sept 2026; the next is "DOJO SEASON OPENING WEEKEND" on Fri, 18 Sept 2026.
+Dojo Boutique Club is a music venue in Budapest with 4 upcoming nights listed on soundcheck as of Sat, 19 Sept 2026; the next is "DOJO SEASON OPENING WEEKEND" on Fri, 18 Sept 2026.
 
 Dojo Boutique Club is a music venue in Budapest listed on soundcheck. 4 upcoming nights, with line-ups including Amour Propre, EWERSEEN, LŪCIEN (HU) and Ramyen. Browse upcoming dates, start times and who's playing. Budapest, Zrínyi u. 4/a, 1051, Hungary.
 
@@ -17,4 +17,4 @@ Dojo Boutique Club is a music venue in Budapest listed on soundcheck. 4 upcoming
 
 Budapest, Zrínyi u. 4/a, 1051, Hungary, Budapest
 
-*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/budapest/club/dojo-boutique-club/)*
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/budapest/club/dojo-boutique-club/)*

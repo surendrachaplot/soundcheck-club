@@ -1,6 +1,6 @@
 # Phase Fatale
 
-Phase Fatale is a Techno and EBM artist with 5 upcoming club dates listed on soundcheck as of Fri, 18 Sept 2026, next at TBA - The Loom (2150 Livingston St, Oakland), San Francisco/Oakland on Fri, 18 Sept 2026.
+Phase Fatale is a Techno and EBM artist with 5 upcoming club dates listed on soundcheck as of Sat, 19 Sept 2026, next at TBA - The Loom (2150 Livingston St, Oakland), San Francisco/Oakland on Fri, 18 Sept 2026.
 
 Phase Fatale is a techno and ebm artist tracked on soundcheck, with 201 sets logged across Amsterdam, Athens, Barcelona and Berlin and 54 more. Often billed alongside Pablo Bozzi, Unhuman and Soft Crash. Next up: TBA - The Loom (2150 Livingston St, Oakland), Sanfrancisco on Fri 18 Sept.
 
@@ -16,6 +16,7 @@ Phase Fatale is a techno and ebm artist tracked on soundcheck, with 201 sets log
 
 ## Recently played
 
+- TBA - The Loom (2150 Livingston St, Oakland), San Francisco/Oakland — Fri, 18 Sept 2026
 - Paragon, New York City — Sat, 22 Aug 2026
 - Red Roof Church, Montreal — Fri, 21 Aug 2026
 - Berghain | Panorama Bar | Säule, Berlin — Fri, 14 Aug 2026
@@ -23,10 +24,9 @@ Phase Fatale is a techno and ebm artist tracked on soundcheck, with 201 sets log
 - RADION, Amsterdam — Fri, 31 Jul 2026
 - Berghain | Panorama Bar | Säule, Berlin — Sat, 25 Jul 2026
 - Fvtvr, Paris — Fri, 17 Jul 2026
-- RADION, Amsterdam — Sat, 4 Jul 2026
 
 ## Shares bills with
 
 Pablo Bozzi, Unhuman, Soft Crash
 
-*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/phasefatale/)*
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/phasefatale/)*

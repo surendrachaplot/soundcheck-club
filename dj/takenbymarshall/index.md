@@ -1,6 +1,6 @@
 # Takenbymarshall
 
-Takenbymarshall is a Breakcore and Electro artist with 3 upcoming club dates listed on soundcheck as of Fri, 18 Sept 2026, next at The Greyhound, London on Sat, 19 Sept 2026.
+Takenbymarshall is a Breakcore and Electro artist with 3 upcoming club dates listed on soundcheck as of Sat, 19 Sept 2026, next at The Greyhound, London on Sat, 19 Sept 2026.
 
 Takenbymarshall is a breakcore and electro artist tracked on soundcheck, with 44 sets logged across Glasgow, London and Manchester. Often billed alongside Compulsive Leia, alterum and it_dont_Matt.er. Next up: The Greyhound, London on Sat 19 Sept.
 
@@ -27,4 +27,4 @@ Takenbymarshall is a breakcore and electro artist tracked on soundcheck, with 44
 
 Compulsive Leia, alterum, it_dont_Matt.er
 
-*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/takenbymarshall/)*
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/takenbymarshall/)*

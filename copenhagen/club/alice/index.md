@@ -1,6 +1,6 @@
 # ALICE
 
-ALICE is a music venue in Copenhagen with 7 upcoming nights listed on soundcheck as of Fri, 18 Sept 2026; the next is "Safety Trance (VE) at ALICE" on Sat, 19 Sept 2026.
+ALICE is a music venue in Copenhagen with 7 upcoming nights listed on soundcheck as of Sat, 19 Sept 2026; the next is "Safety Trance (VE) at ALICE" on Sat, 19 Sept 2026.
 
 ALICE is a music venue in Copenhagen listed on soundcheck. 7 upcoming nights, with line-ups including Laryssa Kim, Mykki Blanco and Safety Trance. Browse upcoming dates, start times and who's playing. Nørre Allé 7, 2200 København N, Denmark.
 
@@ -20,4 +20,4 @@ ALICE is a music venue in Copenhagen listed on soundcheck. 7 upcoming nights, wi
 
 Nørre Allé 7, 2200 København N, Denmark, Copenhagen
 
-*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/copenhagen/club/alice/)*
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/copenhagen/club/alice/)*

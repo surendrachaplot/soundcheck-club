@@ -1,14 +1,13 @@
 # Momo Trosman
 
-Momo Trosman is a House and Tech House artist with 6 upcoming club dates listed on soundcheck as of Fri, 18 Sept 2026, next at Floyd, Miami on Fri, 18 Sept 2026.
+Momo Trosman is a House and Tech House artist with 5 upcoming club dates listed on soundcheck as of Sat, 19 Sept 2026, next at Green Room NYC, New York City on Sun, 20 Sept 2026.
 
-Momo Trosman is a house and tech house artist tracked on soundcheck, with 100 sets logged across Amsterdam, Austin, Barcelona and Berlin and 23 more. Often billed alongside Franco Cinelli, Felipe Valenzuela and tINI. Next up: Floyd, Miami on Fri 18 Sept.
+Momo Trosman is a house and tech house artist tracked on soundcheck, with 100 sets logged across Amsterdam, Austin, Barcelona and Berlin and 23 more. Often billed alongside Franco Cinelli, Felipe Valenzuela and tINI. Next up: Green Room NYC, Newyorkcity on Sun 20 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 18 Sept 2026 | Floyd | Miami |
 | Sun, 20 Sept 2026 | Green Room NYC | New York City |
 | Fri, 25 Sept 2026 | TBA - Downtown Los Angeles | Los Angeles |
 | Sat, 26 Sept 2026 | Outer Heaven | New York City |
@@ -17,6 +16,7 @@ Momo Trosman is a house and tech house artist tracked on soundcheck, with 100 se
 
 ## Recently played
 
+- Floyd, Miami — Fri, 18 Sept 2026
 - Crobar - Buenos Aires, Buenos Aires — Fri, 21 Aug 2026
 - Deseo BS AS, Buenos Aires — Fri, 7 Aug 2026
 - Avant Garten, Buenos Aires — Fri, 26 Jun 2026
@@ -24,10 +24,9 @@ Momo Trosman is a house and tech house artist tracked on soundcheck, with 100 se
 - Rumore Nightclub Capri, Naples — Sat, 6 Jun 2026
 - TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona, Barcelona — Fri, 5 Jun 2026
 - Bunker, Turin — Mon, 1 Jun 2026
-- Studio Club Malaga, Malaga — Sat, 23 May 2026
 
 ## Shares bills with
 
 Franco Cinelli, Felipe Valenzuela, tINI
 
-*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/momotrosman/)*
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/momotrosman/)*

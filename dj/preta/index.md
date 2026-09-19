@@ -1,13 +1,14 @@
 # Preta
 
-Preta is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 18 Sept 2026, next at Tresor / Globus, Berlin on Wed, 14 Oct 2026.
+Preta is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sat, 19 Sept 2026, next at Tokonoma Club, Frankfurt on Fri, 9 Oct 2026.
 
-Preta is a techno and house artist tracked on soundcheck, with 15 sets logged across Berlin, Frankfurt and Vienna. Often billed alongside Heepmann, Faraz Shin and 0megavybe. Next up: Tresor / Globus, Berlin on Wed 14 Oct.
+Preta is a techno and house artist tracked on soundcheck, with 16 sets logged across Berlin, Frankfurt and Vienna. Often billed alongside Heepmann, Faraz Shin and 0megavybe. Next up: Tokonoma Club, Frankfurt on Fri 9 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 9 Oct 2026 | Tokonoma Club | Frankfurt |
 | Wed, 14 Oct 2026 | Tresor / Globus | Berlin |
 
 ## Recently played
@@ -25,4 +26,4 @@ Preta is a techno and house artist tracked on soundcheck, with 15 sets logged ac
 
 Heepmann, Faraz Shin, 0megavybe
 
-*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/preta/)*
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/preta/)*

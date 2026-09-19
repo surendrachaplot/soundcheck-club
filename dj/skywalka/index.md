@@ -1,19 +1,19 @@
 # skywalka
 
-skywalka is a Techno and Trance artist with 3 upcoming club dates listed on soundcheck as of Fri, 18 Sept 2026, next at Aatma, Manchester on Fri, 18 Sept 2026.
+skywalka is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Sat, 19 Sept 2026, next at renae, Manchester on Fri, 25 Sept 2026.
 
-skywalka is a techno and trance artist based in United Kingdom, tracked on soundcheck, with 54 sets logged across Brighton, Bristol, Leeds and London and 1 more. Often billed alongside Sleazebag, Rodney and Krash Dubs. Next up: Aatma, Manchester on Fri 18 Sept.
+skywalka is a techno and trance artist based in United Kingdom, tracked on soundcheck, with 54 sets logged across Brighton, Bristol, Leeds and London and 1 more. Often billed alongside Sleazebag, Rodney and Krash Dubs. Next up: renae, Manchester on Fri 25 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 18 Sept 2026 | Aatma | Manchester |
 | Fri, 25 Sept 2026 | renae | Manchester |
 | Fri, 2 Oct 2026 | Rebellion | Manchester |
 
 ## Recently played
 
+- Aatma, Manchester — Fri, 18 Sept 2026
 - Honey Street Studio, Manchester — Sat, 12 Sept 2026
 - Daltons Brighton, Brighton — Sun, 23 Aug 2026
 - Stage and Radio, Manchester — Thu, 4 Jun 2026
@@ -21,10 +21,9 @@ skywalka is a techno and trance artist based in United Kingdom, tracked on sound
 - Eastern Bloc Records, Manchester — Sat, 2 May 2026
 - Soup, Manchester — Sat, 2 May 2026
 - M.O.T, London — Sat, 25 Apr 2026
-- Stage and Radio, Manchester — Sat, 18 Apr 2026
 
 ## Shares bills with
 
 Sleazebag, Rodney, Krash Dubs
 
-*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/skywalka/)*
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/skywalka/)*

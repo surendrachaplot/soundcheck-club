@@ -1,14 +1,13 @@
 # Razzmatazz
 
-Razzmatazz is a music venue in Barcelona with 11 upcoming nights listed on soundcheck as of Fri, 18 Sept 2026; the next is "FSTVL B & FUEGO presentan XTNDED" on Fri, 18 Sept 2026.
+Razzmatazz is a music venue in Barcelona with 10 upcoming nights listed on soundcheck as of Sat, 19 Sept 2026; the next is "Pre-human 8BM: Esplendor Geométrico, Drew McDowall, Die Anstalt, The Hacker, SDH & many more" on Sat, 19 Sept 2026.
 
-Razzmatazz is a music venue in Barcelona listed on soundcheck. 11 upcoming nights, with line-ups including Anthony Linell, Antiribeiro, Art of Fighters and BADSISTA and 2 more. Browse upcoming dates, start times and who's playing. C Almogavers 122 - C Pamplona 88; Barcelona; Spain.
+Razzmatazz is a music venue in Barcelona listed on soundcheck. 10 upcoming nights, with line-ups including Anthony Linell, Antiribeiro, Art of Fighters and BADSISTA and 2 more. Browse upcoming dates, start times and who's playing. C Almogavers 122 - C Pamplona 88; Barcelona; Spain.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 18 Sept 2026 | FSTVL B & FUEGO presentan XTNDED | BADSISTA, ENGALANAN, Sofy Suars |
 | Sat, 19 Sept 2026 | Pre-human 8BM: Esplendor Geométrico, Drew McDowall, Die Anstalt, The Hacker, SDH & many more | Drew McDowall, Pedro Maia, Shakti, The Hacker, Years of Denial |
 | Sat, 19 Sept 2026 | RAZZCLUBS: Drea b2b Keyrah + TBA | Canina, Drea (ES), Kaidara, Keyrah, L'Miranda |
 | Fri, 25 Sept 2026 | RAZZCLUBS: Lizz presenta La Chismoteka: Dale Mami + BADSISTA The residency & MORE | Antiribeiro, BADSISTA, M8NSE, ORFIGYAL, Sonia Lagoon (2), Sushinigami, egomania |
@@ -18,9 +17,10 @@ Razzmatazz is a music venue in Barcelona listed on soundcheck. 11 upcoming night
 | Sun, 11 Oct 2026 | Torax x Journeys: Anthony Linell, Claudio PRC, Philippa Pacho, Rrose, mad miran, oma totem | Anthony Linell, Claudio PRC, Jhort, Philippa Pacho, Rrose, Verushka, mad miran, oma totem |
 | Sun, 1 Nov 2026 | Fury 3rd Anniversary [DAY 2] x Halloween (Fury / Madhouse / KINYXX / Hardcore Maniaks) | Art of Fighters, Lady Dammage, Pinotello, Revenja, Samuel Moriero (2), Vortek's |
 | Fri, 13 Nov 2026 | SPORTS |  |
+| Thu, 26 Nov 2026 | COBRAH | COBRAH |
 
 ## Address
 
 C Almogavers 122 - C Pamplona 88; Barcelona; Spain, Barcelona
 
-*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/razzmatazz/)*
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/razzmatazz/)*

@@ -1,6 +1,6 @@
 # Danny Grisa
 
-Danny Grisa is a House and Progressive House artist with 1 upcoming club date listed on soundcheck as of Fri, 18 Sept 2026, next at Office Bar, San Diego on Wed, 16 Sept 2026.
+Danny Grisa is a House and Progressive House artist with 1 upcoming club date listed on soundcheck as of Sat, 19 Sept 2026, next at Office Bar, San Diego on Wed, 16 Sept 2026.
 
 Danny Grisa is a house and progressive house artist based in United States of America, tracked on soundcheck, with 6 sets logged across Sandiego. Often billed alongside Matthew Brian, Megalina and DJ Dazy. Next up: Office Bar, Sandiego on Wed 16 Sept.
 
@@ -23,4 +23,4 @@ Danny Grisa is a house and progressive house artist based in United States of Am
 
 Matthew Brian, Megalina, DJ Dazy
 
-*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dannygrisa/)*
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dannygrisa/)*

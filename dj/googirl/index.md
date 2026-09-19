@@ -1,6 +1,6 @@
 # GooGirl
 
-GooGirl is a Club and Drum & Bass artist with 1 upcoming club date listed on soundcheck as of Fri, 18 Sept 2026, next at The Piston, Toronto on Mon, 21 Sept 2026.
+GooGirl is a Club and Drum & Bass artist with 1 upcoming club date listed on soundcheck as of Sat, 19 Sept 2026, next at The Piston, Toronto on Mon, 21 Sept 2026.
 
 GooGirl is a club and drum & bass artist tracked on soundcheck, with 10 sets logged across Toronto. Often billed alongside Vaughan (2), Zellers and Sofia Fly. Next up: The Piston, Toronto on Mon 21 Sept.
 
@@ -25,4 +25,4 @@ GooGirl is a club and drum & bass artist tracked on soundcheck, with 10 sets log
 
 Vaughan (2), Zellers, Sofia Fly
 
-*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/googirl/)*
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/googirl/)*

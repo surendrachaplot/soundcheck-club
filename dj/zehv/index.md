@@ -1,6 +1,6 @@
 # Zehv
 
-Zehv is a Progressive House and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 18 Sept 2026, next at TEMPLE, Lisbon on Sat, 26 Sept 2026.
+Zehv is a Progressive House and House artist with 2 upcoming club dates listed on soundcheck as of Sat, 19 Sept 2026, next at TEMPLE, Lisbon on Sat, 26 Sept 2026.
 
 Zehv is a progressive house and house artist based in United States of America, tracked on soundcheck, with 25 sets logged across Amsterdam, Chicago, Lisbon and Newyorkcity and 2 more. Often billed alongside Emanate, Miles Alexander and Staysis. Next up: TEMPLE, Lisbon on Sat 26 Sept.
 
@@ -26,4 +26,4 @@ Zehv is a progressive house and house artist based in United States of America, 
 
 Emanate, Miles Alexander, Staysis
 
-*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/zehv/)*
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/zehv/)*

@@ -1,14 +1,13 @@
 # Het Sieraad
 
-Het Sieraad is a music venue in Amsterdam with 19 upcoming nights listed on soundcheck as of Fri, 18 Sept 2026; the next is "Free Your Mind x Schrotthagen" on Fri, 18 Sept 2026.
+Het Sieraad is a music venue in Amsterdam with 18 upcoming nights listed on soundcheck as of Sat, 19 Sept 2026; the next is "I-F - EILEEN - 5 hour sets" on Fri, 25 Sept 2026.
 
-Het Sieraad is a music venue in Amsterdam listed on soundcheck. 19 upcoming nights, with line-ups including Adam Ten, Adapter, Anthony Middleton and [ares] and 2 more. Browse upcoming dates, start times and who's playing. Postjesweg 1, 1057 DT Amsterdam.
+Het Sieraad is a music venue in Amsterdam listed on soundcheck. 18 upcoming nights, with line-ups including Adam Ten, Adapter, Anthony Middleton and [ares] and 2 more. Browse upcoming dates, start times and who's playing. Postjesweg 1, 1057 DT Amsterdam.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 18 Sept 2026 | Free Your Mind x Schrotthagen | Schrotthagen |
 | Fri, 25 Sept 2026 | I-F - EILEEN - 5 hour sets | Eileen (NL), I-F |
 | Sat, 26 Sept 2026 | ZENZELE AMSTERDAM W BUN XAPA, FNX OMAR, SAFFOU & MANY MORE |  |
 | Fri, 2 Oct 2026 | SLAPPED Amsterdam | Anthony Middleton, Cristina Lazic, Mitch Oliver, [ares] |
@@ -18,9 +17,10 @@ Het Sieraad is a music venue in Amsterdam listed on soundcheck. 19 upcoming nigh
 | Sat, 17 Oct 2026 | Throwback - Back to 80s, 90s & 00s - Amsterdam |  |
 | Thu, 22 Oct 2026 | Adam Ten b2b Mita Gami - Yamagucci - Tom Zeta | Adam Ten, Mita Gami, Tom Zeta, Yamagucci (2) |
 | Thu, 22 Oct 2026 | Miss Monique presents Siona ADE | Adapter, Genesi (IT), Kiko, Mia Mendi, Miss Monique, Olivier Giacomotto, SKIY, TH;EN |
+| Fri, 23 Oct 2026 | ADE - HRMNY W/ Rose Ringed & More | Julia Linkogel, Nils Hoffmann, Rex the Dog, Rose Ringed |
 
 ## Address
 
 Postjesweg 1, 1057 DT Amsterdam, Amsterdam
 
-*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/het-sieraad/)*
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/het-sieraad/)*

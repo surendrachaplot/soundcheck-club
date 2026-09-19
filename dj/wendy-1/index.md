@@ -1,6 +1,6 @@
 # Wendy (1)
 
-Wendy (1) is a Techno and Gabber artist with 1 upcoming club date listed on soundcheck as of Fri, 18 Sept 2026, next at Baggen, Copenhagen on Sat, 19 Sept 2026.
+Wendy (1) is a Techno and Gabber artist with 1 upcoming club date listed on soundcheck as of Sat, 19 Sept 2026, next at Baggen, Copenhagen on Sat, 19 Sept 2026.
 
 Wendy (1) is a techno and gabber artist based in France, tracked on soundcheck, with 6 sets logged across Berlin, Brussels, Copenhagen and Geneva and 1 more. Often billed alongside A.Morgan, Aliar and Anika Kunst. Next up: Baggen, Copenhagen on Sat 19 Sept.
 
@@ -22,4 +22,4 @@ Wendy (1) is a techno and gabber artist based in France, tracked on soundcheck, 
 
 A.Morgan, Aliar, Anika Kunst
 
-*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/wendy-1/)*
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/wendy-1/)*

@@ -1,6 +1,6 @@
 # SHARE (NL)
 
-SHARE (NL) is a House and Deep House artist with 2 upcoming club dates listed on soundcheck as of Fri, 18 Sept 2026, next at KOKO, London on Fri, 25 Sept 2026.
+SHARE (NL) is a House and Deep House artist with 2 upcoming club dates listed on soundcheck as of Sat, 19 Sept 2026, next at KOKO, London on Fri, 25 Sept 2026.
 
 SHARE (NL) is a house and deep house artist based in Netherlands, tracked on soundcheck, with 39 sets logged across Amsterdam, Barcelona, Basel and Berlin and 11 more. Often billed alongside BOHEM, KAHMEYA and Mira. Next up: KOKO, London on Fri 25 Sept.
 
@@ -26,4 +26,4 @@ SHARE (NL) is a house and deep house artist based in Netherlands, tracked on sou
 
 BOHEM, KAHMEYA, Mira
 
-*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sharenl/)*
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sharenl/)*

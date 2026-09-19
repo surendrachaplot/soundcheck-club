@@ -1,8 +1,8 @@
 # FLUCC
 
-FLUCC is a music venue in Vienna with 8 upcoming nights listed on soundcheck as of Fri, 18 Sept 2026; the next is "MUTED // Fashionshow + Rave" on Sat, 19 Sept 2026.
+FLUCC is a music venue in Vienna with 9 upcoming nights listed on soundcheck as of Sat, 19 Sept 2026; the next is "MUTED // Fashionshow + Rave" on Sat, 19 Sept 2026.
 
-FLUCC is a music venue in Vienna listed on soundcheck. 8 upcoming nights, with line-ups including A.Pringle, Dj Wifi (3), Ele Luz and Franjazzco and 2 more. Browse upcoming dates, start times and who's playing. Praterstern 5; Vienna 1020; Austria.
+FLUCC is a music venue in Vienna listed on soundcheck. 9 upcoming nights, with line-ups including A.Pringle, Dcascallana, Dj Wifi (3) and Ele Luz and 2 more. Browse upcoming dates, start times and who's playing. Praterstern 5; Vienna 1020; Austria.
 
 ## What's on
 
@@ -15,10 +15,11 @@ FLUCC is a music venue in Vienna listed on soundcheck. 8 upcoming nights, with l
 | Fri, 2 Oct 2026 | Art Attech - Special Edition #15 - Kunst küsst Techno | Ele Luz, KAROLINA, MELIMEKO, SAMDMA, Violetta (1), Wal_Halla |
 | Sat, 3 Oct 2026 | Gassen aus Zucker - go with the slow | kolobok |
 | Sat, 10 Oct 2026 | techNOage, from three o`clock Clubbing | SNDR_Xone |
+| Fri, 23 Oct 2026 | KONZEPT | Dcascallana, REIKA_DJ, Techflex |
 | Sun, 25 Oct 2026 | Skofi & Band 'HALT MICH FEST' Album Releaseshow |  |
 
 ## Address
 
 Praterstern 5; Vienna 1020; Austria, Vienna
 
-*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/vienna/club/flucc/)*
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/vienna/club/flucc/)*

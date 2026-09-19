@@ -1,18 +1,18 @@
 # rom (6)
 
-rom (6) is a Club and Garage artist with 2 upcoming club dates listed on soundcheck as of Fri, 18 Sept 2026, next at Soap Seoul., Seoul on Fri, 18 Sept 2026.
+rom (6) is a Club and Garage artist with 1 upcoming club date listed on soundcheck as of Sat, 19 Sept 2026, next at Cakeshop, Seoul on Fri, 25 Sept 2026.
 
-rom (6) is a club and garage artist tracked on soundcheck, with 32 sets logged across Bristol, Hongkong, London and Seoul. Often billed alongside BAAWLA, AEIDA and Coziest. Next up: Soap Seoul., Seoul on Fri 18 Sept.
+rom (6) is a club and garage artist tracked on soundcheck, with 32 sets logged across Bristol, Hongkong, London and Seoul. Often billed alongside BAAWLA, AEIDA and Coziest. Next up: Cakeshop, Seoul on Fri 25 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 18 Sept 2026 | Soap Seoul. | Seoul |
 | Fri, 25 Sept 2026 | Cakeshop | Seoul |
 
 ## Recently played
 
+- Soap Seoul., Seoul — Fri, 18 Sept 2026
 - Pistil, Seoul — Fri, 28 Aug 2026
 - Planet Wax, London — Sat, 27 Jun 2026
 - The Love Inn, Bristol — Thu, 25 Jun 2026
@@ -20,10 +20,9 @@ rom (6) is a club and garage artist tracked on soundcheck, with 32 sets logged a
 - Aaja Basement, London — Sun, 7 Jun 2026
 - Bolero, Seoul — Thu, 28 May 2026
 - Cakeshop, Seoul — Sat, 9 May 2026
-- Grain Haus, Seoul — Sat, 2 May 2026
 
 ## Shares bills with
 
 BAAWLA, AEIDA, Coziest
 
-*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/rom-6/)*
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/rom-6/)*

@@ -1,6 +1,6 @@
 # Grog
 
-Grog is a House and Garage artist with 1 upcoming club date listed on soundcheck as of Fri, 18 Sept 2026, next at Munster Munch, London on Fri, 25 Sept 2026.
+Grog is a House and Garage artist with 1 upcoming club date listed on soundcheck as of Sat, 19 Sept 2026, next at Munster Munch, London on Fri, 25 Sept 2026.
 
 Grog is a house and garage artist tracked on soundcheck, with 6 sets logged across Berlin and London. Often billed alongside ADHDj (UK), Alec Falconer and Anthea. Next up: Munster Munch, London on Fri 25 Sept.
 
@@ -22,4 +22,4 @@ Grog is a house and garage artist tracked on soundcheck, with 6 sets logged acro
 
 ADHDj (UK), Alec Falconer, Anthea
 
-*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/grog/)*
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/grog/)*

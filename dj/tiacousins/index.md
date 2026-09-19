@@ -1,6 +1,6 @@
 # Tia Cousins
 
-Tia Cousins is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 18 Sept 2026, next at The Glove That Fits, London on Sat, 19 Sept 2026.
+Tia Cousins is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 19 Sept 2026, next at The Glove That Fits, London on Sat, 19 Sept 2026.
 
 Tia Cousins is a house and techno artist tracked on soundcheck, with 106 sets logged across Amsterdam, Bangkok, Belfast and Belgrade and 22 more. Often billed alongside Matt Cowell, Ruf Dug and babyschön. Next up: The Glove That Fits, London on Sat 19 Sept.
 
@@ -25,4 +25,4 @@ Tia Cousins is a house and techno artist tracked on soundcheck, with 106 sets lo
 
 Matt Cowell, Ruf Dug, babyschön
 
-*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tiacousins/)*
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tiacousins/)*

@@ -1,13 +1,14 @@
 # Aho Ssan
 
-Aho Ssan is a Experimental and Ambient artist with 1 upcoming club date listed on soundcheck as of Fri, 18 Sept 2026, next at TivoliVredenburg, Utrecht on Thu, 5 Nov 2026.
+Aho Ssan is a Experimental and Ambient artist with 2 upcoming club dates listed on soundcheck as of Sat, 19 Sept 2026, next at Auditorium San Fedele, Milan on Mon, 19 Oct 2026.
 
-Aho Ssan is an experimental and ambient artist based in France, tracked on soundcheck, with 32 sets logged across Berlin, Brussels, Cologne and London and 9 more. Often billed alongside KMRU, Carmen Villain and Caterina Barbieri. Next up: TivoliVredenburg, Utrecht on Thu 5 Nov.
+Aho Ssan is an experimental and ambient artist based in France, tracked on soundcheck, with 33 sets logged across Berlin, Brussels, Cologne and London and 9 more. Often billed alongside KMRU, Carmen Villain and Caterina Barbieri. Next up: Auditorium San Fedele, Milan on Mon 19 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Mon, 19 Oct 2026 | Auditorium San Fedele | Milan |
 | Thu, 5 Nov 2026 | TivoliVredenburg | Utrecht |
 
 ## Recently played
@@ -25,4 +26,4 @@ Aho Ssan is an experimental and ambient artist based in France, tracked on sound
 
 KMRU, Carmen Villain, Caterina Barbieri
 
-*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ahossan/)*
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ahossan/)*

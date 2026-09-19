@@ -1,14 +1,16 @@
 # Super Venus
 
-Super Venus is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 18 Sept 2026, next at Paloma, Berlin on Fri, 2 Oct 2026.
+Super Venus is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Sat, 19 Sept 2026, next at Paloma, Berlin on Fri, 2 Oct 2026.
 
-Super Venus is a techno and house artist tracked on soundcheck, with 43 sets logged across Amsterdam, Barcelona, Berlin and Brussels and 16 more. Often billed alongside Walrus, Alex Picone and DJ Rino. Next up: Paloma, Berlin on Fri 2 Oct.
+Super Venus is a techno and house artist tracked on soundcheck, with 45 sets logged across Amsterdam, Barcelona, Berlin and Brussels and 17 more. Often billed alongside Walrus, Alex Picone and DJ Rino. Next up: Paloma, Berlin on Fri 2 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 2 Oct 2026 | Paloma | Berlin |
+| Sat, 31 Oct 2026 | TBA | Lyon |
+| Sat, 21 Nov 2026 | Nido Marseille | Marseille |
 
 ## Recently played
 
@@ -25,4 +27,4 @@ Super Venus is a techno and house artist tracked on soundcheck, with 43 sets log
 
 Walrus, Alex Picone, DJ Rino
 
-*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/supervenus/)*
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/supervenus/)*

@@ -1,14 +1,15 @@
 # MVKO
 
-MVKO is a Hardcore and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 18 Sept 2026, next at Teritorija, Riga on Sat, 19 Sept 2026.
+MVKO is a Hardcore and Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 19 Sept 2026, next at Teritorija, Riga on Sat, 19 Sept 2026.
 
-MVKO is a hardcore and techno artist based in Latvia, tracked on soundcheck, with 42 sets logged across Riga. Often billed alongside hitomori, maniken05 and oshigakill. Next up: Teritorija, Riga on Sat 19 Sept.
+MVKO is a hardcore and techno artist based in Latvia, tracked on soundcheck, with 43 sets logged across Riga. Often billed alongside hitomori, oshigakill and maniken05. Next up: Teritorija, Riga on Sat 19 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 19 Sept 2026 | Teritorija | Riga |
+| Sat, 31 Oct 2026 | Teritorija | Riga |
 
 ## Recently played
 
@@ -23,6 +24,6 @@ MVKO is a hardcore and techno artist based in Latvia, tracked on soundcheck, wit
 
 ## Shares bills with
 
-hitomori, maniken05, oshigakill
+hitomori, oshigakill, maniken05
 
-*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mvko/)*
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mvko/)*

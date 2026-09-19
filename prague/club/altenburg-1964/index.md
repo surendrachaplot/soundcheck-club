@@ -1,6 +1,6 @@
 # Altenburg 1964
 
-Altenburg 1964 is a music venue in Prague with 4 upcoming nights listed on soundcheck as of Fri, 18 Sept 2026; the next is "ATG x QUEER BAZAAR: ishka machina, Takē, Etienn Grey, Fatty M, Shurigen, Marc000, Ayiaa" on Fri, 25 Sept 2026.
+Altenburg 1964 is a music venue in Prague with 4 upcoming nights listed on soundcheck as of Sat, 19 Sept 2026; the next is "ATG x QUEER BAZAAR: ishka machina, Takē, Etienn Grey, Fatty M, Shurigen, Marc000, Ayiaa" on Fri, 25 Sept 2026.
 
 Altenburg 1964 is a music venue in Prague listed on soundcheck. 4 upcoming nights, with line-ups including Ayiaa, Etienn Grey, Fatty M and HKKPTR and 2 more. Browse upcoming dates, start times and who's playing. Partyzánská 18/23, 17000 Praha 7.
 
@@ -17,4 +17,4 @@ Altenburg 1964 is a music venue in Prague listed on soundcheck. 4 upcoming night
 
 Partyzánská 18/23, 17000 Praha 7, Prague
 
-*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/prague/club/altenburg-1964/)*
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/prague/club/altenburg-1964/)*

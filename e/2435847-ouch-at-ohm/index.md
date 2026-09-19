@@ -1,6 +1,6 @@
 # Ouch at OHM
 
-Ouch at OHM on Thu 8 Oct, Berlin. 3 acts on the bill: Anti Ribeiro, Dj Fucci and Dj Goodboy. Hip-Hop and Latin Bass. Preview the line-up and save it on soundcheck.
+Ouch at OHM on Thu 8 Oct, Berlin. 4 acts on the bill: Anti Ribeiro, Dj Fucci, Dj Goodboy and Rafush. Hip-Hop and Latin Bass. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -13,5 +13,6 @@ Ouch at OHM on Thu 8 Oct, Berlin. 3 acts on the bill: Anti Ribeiro, Dj Fucci and
 - Anti Ribeiro
 - Dj Fucci
 - Dj Goodboy
+- Rafush
 
 *Source: [soundcheck](https://soundcheck.club/e/2435847-ouch-at-ohm/)*

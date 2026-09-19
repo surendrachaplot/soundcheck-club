@@ -1,6 +1,6 @@
 # Kyle Starkey
 
-Kyle Starkey is a Techno and House artist with 17 upcoming club dates listed on soundcheck as of Fri, 18 Sept 2026, next at SWG3, Glasgow on Sat, 19 Sept 2026.
+Kyle Starkey is a Techno and House artist with 17 upcoming club dates listed on soundcheck as of Sat, 19 Sept 2026, next at SWG3, Glasgow on Sat, 19 Sept 2026.
 
 Kyle Starkey is a techno and house artist tracked on soundcheck, with 170 sets logged across Aberdeen, Amsterdam, Antwerp and Austin and 37 more. Often billed alongside DART, Benwal and Faster Horses. Next up: SWG3, Glasgow on Sat 19 Sept.
 
@@ -36,4 +36,4 @@ Kyle Starkey is a techno and house artist tracked on soundcheck, with 170 sets l
 
 DART, Benwal, Faster Horses
 
-*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kylestarkey/)*
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kylestarkey/)*

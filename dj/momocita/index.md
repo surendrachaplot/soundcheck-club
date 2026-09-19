@@ -1,6 +1,6 @@
 # Momocita
 
-Momocita is a Latin Bass and Club artist with 2 upcoming club dates listed on soundcheck as of Fri, 18 Sept 2026, next at Cafeteria, Toronto on Fri, 25 Sept 2026.
+Momocita is a Latin Bass and Club artist with 2 upcoming club dates listed on soundcheck as of Sat, 19 Sept 2026, next at Cafeteria, Toronto on Fri, 25 Sept 2026.
 
 Momocita is a latin bass and club artist based in Mexico, tracked on soundcheck, with 13 sets logged across Toronto. Often billed alongside Ana Luisa, Sofia Fly and mo.fede. Next up: Cafeteria, Toronto on Fri 25 Sept.
 
@@ -26,4 +26,4 @@ Momocita is a latin bass and club artist based in Mexico, tracked on soundcheck,
 
 Ana Luisa, Sofia Fly, mo.fede
 
-*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/momocita/)*
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/momocita/)*

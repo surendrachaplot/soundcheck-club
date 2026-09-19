@@ -1,8 +1,8 @@
 # Rainbow Tutu
 
-Rainbow Tutu is a Club and Balearic artist with 2 upcoming club dates listed on soundcheck as of Fri, 18 Sept 2026, next at Happyfun Hideaway, New York City on Tue, 22 Sept 2026.
+Rainbow Tutu is a Club and House artist with 2 upcoming club dates listed on soundcheck as of Sat, 19 Sept 2026, next at Happyfun Hideaway, New York City on Tue, 22 Sept 2026.
 
-Rainbow Tutu is a club and balearic artist based in United States of America, tracked on soundcheck, with 41 sets logged across Newyorkcity. Often billed alongside MAXWELL HöUSE, DJ Shoe and ivaindistress. Next up: Happyfun Hideaway, Newyorkcity on Tue 22 Sept.
+Rainbow Tutu is a club and house artist based in United States of America, tracked on soundcheck, with 41 sets logged across Newyorkcity. Often billed alongside MAXWELL HöUSE, DJ Shoe and ivaindistress. Next up: Happyfun Hideaway, Newyorkcity on Tue 22 Sept.
 
 ## Upcoming shows
 
@@ -26,4 +26,4 @@ Rainbow Tutu is a club and balearic artist based in United States of America, tr
 
 MAXWELL HöUSE, DJ Shoe, ivaindistress
 
-*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/rainbowtutu/)*
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/rainbowtutu/)*

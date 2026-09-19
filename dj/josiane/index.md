@@ -1,6 +1,6 @@
 # Josiane
 
-Josiane is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Fri, 18 Sept 2026, next at Lokschuppen Berlin, Berlin on Sat, 19 Sept 2026.
+Josiane is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Sat, 19 Sept 2026, next at Lokschuppen Berlin, Berlin on Sat, 19 Sept 2026.
 
 Josiane is a house and techno artist tracked on soundcheck, with 122 sets logged across Berlin, Cologne, Dortmund-essen and Dusseldorf and 2 more. Often billed alongside Lena Brecht, LeVe and Mad Shivers. Next up: Lokschuppen Berlin, Berlin on Sat 19 Sept.
 
@@ -28,4 +28,4 @@ Josiane is a house and techno artist tracked on soundcheck, with 122 sets logged
 
 Lena Brecht, LeVe, Mad Shivers
 
-*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/josiane/)*
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/josiane/)*

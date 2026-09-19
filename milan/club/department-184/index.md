@@ -1,6 +1,6 @@
 # Department 184
 
-Department 184 is a music venue in Milan with 7 upcoming nights listed on soundcheck as of Fri, 18 Sept 2026; the next is "DUB Musik showcase w/Andrei Ciubuc" on Sat, 19 Sept 2026.
+Department 184 is a music venue in Milan with 7 upcoming nights listed on soundcheck as of Sat, 19 Sept 2026; the next is "DUB Musik showcase w/Andrei Ciubuc" on Sat, 19 Sept 2026.
 
 Department 184 is a music venue in Milan listed on soundcheck. 7 upcoming nights, with line-ups including Alex Brasile, AllaDerivaLontano, ALXV and Andrei Ciubuc and 2 more. Browse upcoming dates, start times and who's playing. Via Varesina, 184, 20156 Milano MI.
 
@@ -20,4 +20,4 @@ Department 184 is a music venue in Milan listed on soundcheck. 7 upcoming nights
 
 Via Varesina, 184, 20156 Milano MI, Milan
 
-*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/milan/club/department-184/)*
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/milan/club/department-184/)*

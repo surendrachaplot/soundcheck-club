@@ -1,6 +1,6 @@
 # Max Sprauer
 
-Max Sprauer is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 18 Sept 2026, next at Secret Location, London on Sat, 19 Sept 2026.
+Max Sprauer is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 19 Sept 2026, next at Secret Location, London on Sat, 19 Sept 2026.
 
 Max Sprauer is a house and techno artist tracked on soundcheck, with 105 sets logged across Berlin, Boston, Brussels and Chicago and 10 more. Often billed alongside Shvili, Rama NYC and CAMILLA. Next up: Secret Location, London on Sat 19 Sept.
 
@@ -25,4 +25,4 @@ Max Sprauer is a house and techno artist tracked on soundcheck, with 105 sets lo
 
 Shvili, Rama NYC, CAMILLA
 
-*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/maxsprauer/)*
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/maxsprauer/)*

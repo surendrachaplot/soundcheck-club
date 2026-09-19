@@ -1,6 +1,6 @@
 # Rich Reason
 
-Rich Reason is a Garage and Disco artist with 5 upcoming club dates listed on soundcheck as of Fri, 18 Sept 2026, next at Hidden, Manchester on Mon, 21 Sept 2026.
+Rich Reason is a Garage and Disco artist with 5 upcoming club dates listed on soundcheck as of Sat, 19 Sept 2026, next at Hidden, Manchester on Mon, 21 Sept 2026.
 
 Rich Reason is a garage and disco artist tracked on soundcheck, with 172 sets logged across Amsterdam, Bristol, Istanbul and Leeds and 4 more. Often billed alongside LARISHKA (UK), T-Man (UK) and Chunky. Next up: Hidden, Manchester on Mon 21 Sept.
 
@@ -29,4 +29,4 @@ Rich Reason is a garage and disco artist tracked on soundcheck, with 172 sets lo
 
 LARISHKA (UK), T-Man (UK), Chunky
 
-*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/richreason/)*
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/richreason/)*

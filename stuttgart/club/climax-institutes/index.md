@@ -1,14 +1,13 @@
 # Climax-Institutes
 
-Climax-Institutes is a music venue in Stuttgart with 10 upcoming nights listed on soundcheck as of Fri, 18 Sept 2026; the next is "1 Jahr This !s" on Fri, 18 Sept 2026.
+Climax-Institutes is a music venue in Stuttgart with 9 upcoming nights listed on soundcheck as of Sat, 19 Sept 2026; the next is "WORN-OUT" on Sat, 19 Sept 2026.
 
-Climax-Institutes is a music venue in Stuttgart listed on soundcheck. 10 upcoming nights, with line-ups including Chamelio 3000, Denno Matini, Direkt and Juan Del Chambo and 2 more. Browse upcoming dates, start times and who's playing. Calwer Str. 25, 70173 Stuttgart.
+Climax-Institutes is a music venue in Stuttgart listed on soundcheck. 9 upcoming nights, with line-ups including Chamelio 3000, Denno Matini, Direkt and Juan Del Chambo and 2 more. Browse upcoming dates, start times and who's playing. Calwer Str. 25, 70173 Stuttgart.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 18 Sept 2026 | 1 Jahr This !s |  |
 | Sat, 19 Sept 2026 | WORN-OUT |  |
 | Thu, 24 Sept 2026 | THURSDAZE | Michael Clash Gottschalk |
 | Fri, 25 Sept 2026 | Powerhouse: Raphael Dincsoy (all night long) | Direkt, Pressure (2), RaW, Raphael Dincsoy |
@@ -23,4 +22,4 @@ Climax-Institutes is a music venue in Stuttgart listed on soundcheck. 10 upcomin
 
 Calwer Str. 25, 70173 Stuttgart, Stuttgart
 
-*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/stuttgart/club/climax-institutes/)*
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/stuttgart/club/climax-institutes/)*

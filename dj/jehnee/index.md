@@ -1,18 +1,18 @@
 # Jehnee
 
-Jehnee is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 18 Sept 2026, next at 1015 Folsom, San Francisco/Oakland on Fri, 18 Sept 2026.
+Jehnee is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 19 Sept 2026, next at Underground SF, San Francisco/Oakland on Fri, 16 Oct 2026.
 
-Jehnee is a techno and house artist based in United States of America, tracked on soundcheck, with 10 sets logged across Sanfrancisco. Often billed alongside Aaron F, Amatric and CHRI5PY. Next up: 1015 Folsom, Sanfrancisco on Fri 18 Sept.
+Jehnee is a techno and house artist based in United States of America, tracked on soundcheck, with 10 sets logged across Sanfrancisco. Often billed alongside Aaron F, Amatric and CHRI5PY. Next up: Underground SF, Sanfrancisco on Fri 16 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 18 Sept 2026 | 1015 Folsom | San Francisco/Oakland |
 | Fri, 16 Oct 2026 | Underground SF | San Francisco/Oakland |
 
 ## Recently played
 
+- 1015 Folsom, San Francisco/Oakland — Fri, 18 Sept 2026
 - F8 1192 Folsom, San Francisco/Oakland — Thu, 10 Sept 2026
 - Noc Noc, San Francisco/Oakland — Sat, 20 Jun 2026
 - Underground SF, San Francisco/Oakland — Sat, 6 Jun 2026
@@ -20,10 +20,9 @@ Jehnee is a techno and house artist based in United States of America, tracked o
 - Makeout Room, San Francisco/Oakland — Tue, 17 Mar 2026
 - Hard Rock Cafe, San Francisco/Oakland — Sat, 14 Mar 2026
 - Mr. Mahjong’s, San Francisco/Oakland — Fri, 27 Feb 2026
-- The Valencia Room, San Francisco/Oakland — Mon, 12 Jan 2026
 
 ## Shares bills with
 
 Aaron F, Amatric, CHRI5PY
 
-*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jehnee/)*
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jehnee/)*

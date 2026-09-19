@@ -1,6 +1,6 @@
 # Aoi Kurihara
 
-Aoi Kurihara is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Fri, 18 Sept 2026, next at Whitehart Bar, Melbourne on Sat, 19 Sept 2026.
+Aoi Kurihara is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Sat, 19 Sept 2026, next at Whitehart Bar, Melbourne on Sat, 19 Sept 2026.
 
 Aoi Kurihara is a house and techno artist tracked on soundcheck, with 42 sets logged across Melbourne and Tokyo. Often billed alongside FLEDtokyo, YAI. and Yuta Yamada. Next up: Whitehart Bar, Melbourne on Sat 19 Sept.
 
@@ -27,4 +27,4 @@ Aoi Kurihara is a house and techno artist tracked on soundcheck, with 42 sets lo
 
 FLEDtokyo, YAI., Yuta Yamada
 
-*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/aoikurihara/)*
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/aoikurihara/)*

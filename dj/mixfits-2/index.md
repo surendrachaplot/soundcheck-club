@@ -1,14 +1,16 @@
 # Mixfits (2)
 
-Mixfits (2) is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Fri, 18 Sept 2026, next at Cabaret Voltaire, Edinburgh on Sat, 19 Sept 2026.
+Mixfits (2) is a House and Techno artist with 6 upcoming club dates listed on soundcheck as of Sat, 19 Sept 2026, next at Cabaret Voltaire, Edinburgh on Sat, 19 Sept 2026.
 
-Mixfits (2) is a house and techno artist tracked on soundcheck, with 42 sets logged across Edinburgh and Glasgow. Often billed alongside Jodie Mooney, TOOKAST and CLEAR UK. Next up: Cabaret Voltaire, Edinburgh on Sat 19 Sept.
+Mixfits (2) is a house and techno artist tracked on soundcheck, with 44 sets logged across Edinburgh and Glasgow. Often billed alongside Jodie Mooney, TOOKAST and CLEAR UK. Next up: Cabaret Voltaire, Edinburgh on Sat 19 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 19 Sept 2026 | Cabaret Voltaire | Edinburgh |
+| Tue, 22 Sept 2026 | La Cheetah Club | Glasgow |
+| Sat, 26 Sept 2026 | People's Leisure Club | Edinburgh |
 | Mon, 28 Sept 2026 | Sneaky Pete's | Edinburgh |
 | Mon, 26 Oct 2026 | Sneaky Pete's | Edinburgh |
 | Mon, 30 Nov 2026 | Sneaky Pete's | Edinburgh |
@@ -28,4 +30,4 @@ Mixfits (2) is a house and techno artist tracked on soundcheck, with 42 sets log
 
 Jodie Mooney, TOOKAST, CLEAR UK
 
-*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mixfits-2/)*
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mixfits-2/)*

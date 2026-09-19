@@ -1,14 +1,13 @@
 # Ivan Smagghe
 
-Ivan Smagghe is a House and Techno artist with 10 upcoming club dates listed on soundcheck as of Fri, 18 Sept 2026, next at Nitsa Club, Barcelona on Fri, 18 Sept 2026.
+Ivan Smagghe is a House and Techno artist with 9 upcoming club dates listed on soundcheck as of Sat, 19 Sept 2026, next at Jasna 1, Warsaw on Fri, 25 Sept 2026.
 
-Ivan Smagghe is a house and techno artist tracked on soundcheck, with 188 sets logged across Amsterdam, Antwerp, Athens and Bali and 50 more. Often billed alongside Manfredas, Craig Richards and Chez de Milo. Next up: Nitsa Club, Barcelona on Fri 18 Sept.
+Ivan Smagghe is a house and techno artist tracked on soundcheck, with 188 sets logged across Amsterdam, Antwerp, Athens and Bali and 50 more. Often billed alongside Manfredas, Craig Richards and Chez de Milo. Next up: Jasna 1, Warsaw on Fri 25 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 18 Sept 2026 | Nitsa Club | Barcelona |
 | Fri, 25 Sept 2026 | Jasna 1 | Warsaw |
 | Sat, 26 Sept 2026 | Jaeger | Oslo |
 | Fri, 2 Oct 2026 | Kapsule | Liverpool |
@@ -21,6 +20,7 @@ Ivan Smagghe is a house and techno artist tracked on soundcheck, with 188 sets l
 
 ## Recently played
 
+- Nitsa Club, Barcelona — Fri, 18 Sept 2026
 - The Cause, London — Sat, 12 Sept 2026
 - Hotel Butterfly, Rome — Thu, 10 Sept 2026
 - Sonnenraum, Berlin — Sat, 29 Aug 2026
@@ -28,10 +28,9 @@ Ivan Smagghe is a house and techno artist tracked on soundcheck, with 188 sets l
 - Signal, New York City — Fri, 14 Aug 2026
 - Islington Assembly Hall, London — Sat, 1 Aug 2026
 - Silencio, Paris — Fri, 31 Jul 2026
-- TBA - Secret Location, London — Fri, 17 Jul 2026
 
 ## Shares bills with
 
 Manfredas, Craig Richards, Chez de Milo
 
-*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ivansmagghe/)*
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ivansmagghe/)*

@@ -1,6 +1,6 @@
 # Zafiro
 
-Zafiro is a Reggaeton and Breakbeat artist with 2 upcoming club dates listed on soundcheck as of Fri, 18 Sept 2026, next at Runner Up Rooftop Bar, Melbourne on Sun, 20 Sept 2026.
+Zafiro is a Reggaeton and Breakbeat artist with 2 upcoming club dates listed on soundcheck as of Sat, 19 Sept 2026, next at Runner Up Rooftop Bar, Melbourne on Sun, 20 Sept 2026.
 
 Zafiro is a reggaeton and breakbeat artist based in Colombia, tracked on soundcheck, with 8 sets logged across Melbourne. Often billed alongside Aoi Kurihara, Chris NG and Cuerpo Negro. Next up: Runner Up Rooftop Bar, Melbourne on Sun 20 Sept.
 
@@ -24,4 +24,4 @@ Zafiro is a reggaeton and breakbeat artist based in Colombia, tracked on soundch
 
 Aoi Kurihara, Chris NG, Cuerpo Negro
 
-*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/zafiro/)*
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/zafiro/)*

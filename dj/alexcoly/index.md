@@ -1,6 +1,6 @@
 # Alex Coly
 
-Alex Coly is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Fri, 18 Sept 2026, next at Radio Radio, Amsterdam on Thu, 24 Sept 2026.
+Alex Coly is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Sat, 19 Sept 2026, next at Radio Radio, Amsterdam on Thu, 24 Sept 2026.
 
 Alex Coly is a house and deep house artist tracked on soundcheck, with 9 sets logged across Amsterdam and Stockholm. Often billed alongside Rob Black, Travis Allen and Cezaire. Next up: Radio Radio, Amsterdam on Thu 24 Sept.
 
@@ -25,4 +25,4 @@ Alex Coly is a house and deep house artist tracked on soundcheck, with 9 sets lo
 
 Rob Black, Travis Allen, Cezaire
 
-*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/alexcoly/)*
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/alexcoly/)*

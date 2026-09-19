@@ -1,6 +1,6 @@
 # Spicy Sofi
 
-Spicy Sofi is a House and Progressive House artist with 2 upcoming club dates listed on soundcheck as of Fri, 18 Sept 2026, next at Babour Sauvage, Paris on Sun, 20 Sept 2026.
+Spicy Sofi is a House and Progressive House artist with 2 upcoming club dates listed on soundcheck as of Sat, 19 Sept 2026, next at Babour Sauvage, Paris on Sun, 20 Sept 2026.
 
 Spicy Sofi is a house and progressive house artist tracked on soundcheck, with 20 sets logged across Miami and Paris. Often billed alongside Ploum, Chtak. and Daly. Next up: Babour Sauvage, Paris on Sun 20 Sept.
 
@@ -26,4 +26,4 @@ Spicy Sofi is a house and progressive house artist tracked on soundcheck, with 2
 
 Ploum, Chtak., Daly
 
-*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/spicysofi/)*
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/spicysofi/)*

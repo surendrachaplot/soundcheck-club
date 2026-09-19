@@ -1,6 +1,6 @@
 # Area Manchester
 
-Area Manchester is a music venue in Manchester with 4 upcoming nights listed on soundcheck as of Fri, 18 Sept 2026; the next is "VIVA Reggaeton Manchester" on Sat, 19 Sept 2026.
+Area Manchester is a music venue in Manchester with 4 upcoming nights listed on soundcheck as of Sat, 19 Sept 2026; the next is "VIVA Reggaeton Manchester" on Sat, 19 Sept 2026.
 
 Area Manchester is a music venue in Manchester listed on soundcheck. 4 upcoming nights, with line-ups including D'joozt, MAD Beats and Warren Scott. Browse upcoming dates, start times and who's playing. 50 Sackville St, Manchester M1 3WF.
 
@@ -17,4 +17,4 @@ Area Manchester is a music venue in Manchester listed on soundcheck. 4 upcoming 
 
 50 Sackville St, Manchester M1 3WF, Manchester
 
-*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/area-manchester/)*
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/area-manchester/)*

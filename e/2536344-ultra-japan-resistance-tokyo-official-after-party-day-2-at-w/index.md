@@ -1,6 +1,6 @@
 # ULTRA JAPAN RESISTANCE TOKYO OFFICIAL AFTER PARTY DAY 2 at WOMB
 
-ULTRA JAPAN RESISTANCE TOKYO OFFICIAL AFTER PARTY DAY 2 at WOMB on Sun 20 Sept, Tokyo. 4 acts on the bill: DJ Bin, Osamu M, Ren Yokoi and Risa Taniguchi. Techno. Preview the line-up and save it on soundcheck.
+ULTRA JAPAN RESISTANCE TOKYO OFFICIAL AFTER PARTY DAY 2 at WOMB on Sun 20 Sept, Tokyo. 5 acts on the bill: DJ Bin, Osamu M, Ren Yokoi and Risa Taniguchi and 1 more. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -14,5 +14,6 @@ ULTRA JAPAN RESISTANCE TOKYO OFFICIAL AFTER PARTY DAY 2 at WOMB on Sun 20 Sept, 
 - Osamu M
 - Ren Yokoi
 - Risa Taniguchi
+- Sara Landry
 
 *Source: [soundcheck](https://soundcheck.club/e/2536344-ultra-japan-resistance-tokyo-official-after-party-day-2-at-w/)*

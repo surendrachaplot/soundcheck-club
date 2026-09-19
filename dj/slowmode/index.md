@@ -1,6 +1,6 @@
 # Slowmode
 
-Slowmode is a Electronica and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 18 Sept 2026, next at B-SIDE, Warsaw on Sat, 19 Sept 2026.
+Slowmode is a Electronica and Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 19 Sept 2026, next at B-SIDE, Warsaw on Sat, 19 Sept 2026.
 
 Slowmode is an electronica and techno artist tracked on soundcheck, with 63 sets logged across Krakow and Warsaw. Often billed alongside zeroday, Salat and Pean. Next up: B-SIDE, Warsaw on Sat 19 Sept.
 
@@ -26,4 +26,4 @@ Slowmode is an electronica and techno artist tracked on soundcheck, with 63 sets
 
 zeroday, Salat, Pean
 
-*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/slowmode/)*
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/slowmode/)*

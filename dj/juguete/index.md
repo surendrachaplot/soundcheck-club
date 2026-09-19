@@ -1,6 +1,6 @@
 # Juguete
 
-Juguete is a Tech House and Club artist with 2 upcoming club dates listed on soundcheck as of Fri, 18 Sept 2026, next at Club Magno, Madrid on Sat, 19 Sept 2026.
+Juguete is a Tech House and Club artist with 2 upcoming club dates listed on soundcheck as of Sat, 19 Sept 2026, next at Club Magno, Madrid on Sat, 19 Sept 2026.
 
 Juguete is a tech house and club artist tracked on soundcheck, with 54 sets logged across Barcelona, Berlin, Madrid and Paris and 1 more. Often billed alongside Albal, DISTORT (ES) and Nile Fee. Next up: Club Magno, Madrid on Sat 19 Sept.
 
@@ -26,4 +26,4 @@ Juguete is a tech house and club artist tracked on soundcheck, with 54 sets logg
 
 Albal, DISTORT (ES), Nile Fee
 
-*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/juguete/)*
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/juguete/)*

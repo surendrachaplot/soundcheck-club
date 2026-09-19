@@ -1,6 +1,6 @@
 # Akos V
 
-Akos V is a House and Electro artist with 1 upcoming club date listed on soundcheck as of Fri, 18 Sept 2026, next at Pontoon Budapest, Budapest on Sat, 19 Sept 2026.
+Akos V is a House and Electro artist with 1 upcoming club date listed on soundcheck as of Sat, 19 Sept 2026, next at Pontoon Budapest, Budapest on Sat, 19 Sept 2026.
 
 Akos V is a house and electro artist tracked on soundcheck, with 17 sets logged across Budapest. Often billed alongside Adis Is OK, Vatsanah and Acsa. Next up: Pontoon Budapest, Budapest on Sat 19 Sept.
 
@@ -25,4 +25,4 @@ Akos V is a house and electro artist tracked on soundcheck, with 17 sets logged 
 
 Adis Is OK, Vatsanah, Acsa
 
-*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/akosv-hu/)*
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/akosv-hu/)*

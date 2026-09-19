@@ -1,15 +1,13 @@
 # Yellow House
 
-Yellow House is a music venue in Amsterdam with 5 upcoming nights listed on soundcheck as of Fri, 18 Sept 2026; the next is "DEEP TISSUE X Yellow House - COMMUNITY GATHERING" on Fri, 18 Sept 2026.
+Yellow House is a music venue in Amsterdam with 3 upcoming nights listed on soundcheck as of Sat, 19 Sept 2026; the next is "Soul Syndicate" on Sat, 19 Sept 2026.
 
-Yellow House is a music venue in Amsterdam listed on soundcheck. 5 upcoming nights, with line-ups including Bambi-S, Bérou, BIIANCO and Cinthie and 2 more. Browse upcoming dates, start times and who's playing. 1013AM Amsterdam, Danzigerbocht 45-R.
+Yellow House is a music venue in Amsterdam listed on soundcheck. 3 upcoming nights, with line-ups including Bambi-S, Bérou, BIIANCO and Cinthie and 2 more. Browse upcoming dates, start times and who's playing. 1013AM Amsterdam, Danzigerbocht 45-R.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 18 Sept 2026 | DEEP TISSUE X Yellow House - COMMUNITY GATHERING | Saladiaga |
-| Fri, 18 Sept 2026 | Deep Tissue: Community Event | Saladiaga, Special Guest (US) |
 | Sat, 19 Sept 2026 | Soul Syndicate | Pascal Morais |
 | Wed, 21 Oct 2026 | EMBER ARTISTS x ADE | BIIANCO, Bérou, DJ Hyperdrive, DURDENHAUER, FJUSHA, Fenrick, KTK (DE), L.zwo, VEL (MA) |
 | Sat, 24 Oct 2026 | b:wired presents: Bondage-Music x Paracou | Bambi-S, Cinthie, Cristina Lazic, Danilo Kupfernagel, LEENI, Lola Palmer, Lolu Menayed, Mathias Kaden, Meat, Mihai Popoviciu, Norman Weber, Pornbugs, Steve Bug, Thomas Stieler |
@@ -18,4 +16,4 @@ Yellow House is a music venue in Amsterdam listed on soundcheck. 5 upcoming nigh
 
 1013AM Amsterdam, Danzigerbocht 45-R, Amsterdam
 
-*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/yellow-house/)*
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/yellow-house/)*

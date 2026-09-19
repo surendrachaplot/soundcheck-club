@@ -1,6 +1,6 @@
 # Anna Hjalmarsson
 
-Anna Hjalmarsson is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 18 Sept 2026, next at Tokonoma Club, Frankfurt on Sat, 19 Sept 2026.
+Anna Hjalmarsson is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 19 Sept 2026, next at Tokonoma Club, Frankfurt on Sat, 19 Sept 2026.
 
 Anna Hjalmarsson is a techno and house artist based in Sweden, tracked on soundcheck, with 21 sets logged across Berlin, Frankfurt, Leipzig and Munich and 1 more. Often billed alongside JANEIN, Stigmatique and Shaleen. Next up: Tokonoma Club, Frankfurt on Sat 19 Sept.
 
@@ -25,4 +25,4 @@ Anna Hjalmarsson is a techno and house artist based in Sweden, tracked on soundc
 
 JANEIN, Stigmatique, Shaleen
 
-*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/annahjalmarsson/)*
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/annahjalmarsson/)*

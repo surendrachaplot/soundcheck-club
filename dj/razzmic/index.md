@@ -1,6 +1,6 @@
 # Razzmic
 
-Razzmic is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Fri, 18 Sept 2026, next at EKKO, Utrecht on Sat, 3 Oct 2026.
+Razzmic is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Sat, 19 Sept 2026, next at EKKO, Utrecht on Sat, 3 Oct 2026.
 
 Razzmic is a house and disco artist based in Netherlands, tracked on soundcheck, with 27 sets logged across Amsterdam, Thehague and Utrecht. Often billed alongside Leroy Rey, Mo Wrights and BELLA (NL). Next up: EKKO, Utrecht on Sat 3 Oct.
 
@@ -25,4 +25,4 @@ Razzmic is a house and disco artist based in Netherlands, tracked on soundcheck,
 
 Leroy Rey, Mo Wrights, BELLA (NL)
 
-*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/razzmic/)*
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/razzmic/)*

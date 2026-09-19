@@ -1,6 +1,6 @@
 # YerikODJ
 
-YerikODJ is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 18 Sept 2026, next at Spkrbox, Detroit on Sat, 19 Sept 2026.
+YerikODJ is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 19 Sept 2026, next at Spkrbox, Detroit on Sat, 19 Sept 2026.
 
 YerikODJ is a house and techno artist tracked on soundcheck, with 59 sets logged across Detroit. Often billed alongside Duck Trash, NK-Ultra and PixCie. Next up: Spkrbox, Detroit on Sat 19 Sept.
 
@@ -25,4 +25,4 @@ YerikODJ is a house and techno artist tracked on soundcheck, with 59 sets logged
 
 Duck Trash, NK-Ultra, PixCie
 
-*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/yerikodj/)*
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/yerikodj/)*

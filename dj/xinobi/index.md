@@ -1,8 +1,8 @@
 # Xinobi
 
-Xinobi is a House and Deep House artist with 5 upcoming club dates listed on soundcheck as of Fri, 18 Sept 2026, next at TBA - Aeródromo Vilar de Luz - LPVL, 4425 Folgosa, Portugal, Porto on Fri, 18 Sept 2026.
+Xinobi is a House and Techno artist with 6 upcoming club dates listed on soundcheck as of Sat, 19 Sept 2026, next at TBA - Aeródromo Vilar de Luz - LPVL, 4425 Folgosa, Portugal, Porto on Fri, 18 Sept 2026.
 
-Xinobi is a house and deep house artist based in Portugal, tracked on soundcheck, with 68 sets logged across Amsterdam, Bangkok, Barcelona and Brussels and 22 more. Often billed alongside Moullinex, Klin Klop and GPU Panic. Next up: TBA - Aeródromo Vilar de Luz - LPVL, 4425 Folgosa, Portugal, Porto on Fri 18 Sept.
+Xinobi is a house and techno artist based in Portugal, tracked on soundcheck, with 69 sets logged across Amsterdam, Bangkok, Barcelona and Brussels and 22 more. Often billed alongside Moullinex, Klin Klop and GPU Panic. Next up: TBA - Aeródromo Vilar de Luz - LPVL, 4425 Folgosa, Portugal, Porto on Fri 18 Sept.
 
 ## Upcoming shows
 
@@ -11,11 +11,13 @@ Xinobi is a house and deep house artist based in Portugal, tracked on soundcheck
 | Fri, 18 Sept 2026 | TBA - Aeródromo Vilar de Luz - LPVL, 4425 Folgosa, Portugal | Porto |
 | Fri, 25 Sept 2026 | Teatro Bellini | Naples |
 | Sun, 4 Oct 2026 | Flash | Washington DC |
+| Sun, 11 Oct 2026 | Circus Tokyo | Tokyo |
 | Fri, 23 Oct 2026 | Culture Box | Copenhagen |
 | Sat, 24 Oct 2026 | WestWeelde | Amsterdam |
 
 ## Recently played
 
+- TBA - Aeródromo Vilar de Luz - LPVL, 4425 Folgosa, Portugal, Porto — Fri, 18 Sept 2026
 - BORIS CLUB, Barcelona — Fri, 5 Jun 2026
 - Santa Monica Pier, Los Angeles — Sat, 30 May 2026
 - Cinemagic Lab, Vancouver — Fri, 29 May 2026
@@ -23,10 +25,9 @@ Xinobi is a house and deep house artist based in Portugal, tracked on soundcheck
 - Paloma, London — Sat, 9 May 2026
 - Hive Club, Zurich — Sat, 11 Apr 2026
 - Plano B, Porto — Sat, 28 Feb 2026
-- Estúdio Time Out, Lisbon — Sat, 21 Feb 2026
 
 ## Shares bills with
 
 Moullinex, Klin Klop, GPU Panic
 
-*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/xinobi/)*
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/xinobi/)*

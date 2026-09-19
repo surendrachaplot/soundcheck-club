@@ -1,6 +1,6 @@
 # WANTED: So Juice, Detailed, Zelecter (Hardstyle & Rawstyle) at The Cloud
 
-WANTED: So Juice, Detailed, Zelecter (Hardstyle & Rawstyle) at The Cloud on Sat 19 Sept, Berlin. Techno and Hardcore. Preview the line-up and save it on soundcheck.
+WANTED: So Juice, Detailed, Zelecter (Hardstyle & Rawstyle) at The Cloud on Sat 19 Sept, Berlin. Hardcore and Gabber. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

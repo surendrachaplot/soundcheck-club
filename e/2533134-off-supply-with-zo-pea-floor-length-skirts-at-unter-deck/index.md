@@ -1,6 +1,6 @@
 # Off Supply with Zo Pea & floor length skirts at Unter Deck
 
-Off Supply with Zo Pea & floor length skirts at Unter Deck on Fri 9 Oct, Munich. 3 acts on the bill: floor length skirts, Off Supply and Zoe Pea. House and Dub. Preview the line-up and save it on soundcheck.
+Off Supply with Zo Pea & floor length skirts at Unter Deck on Fri 9 Oct, Munich. 3 acts on the bill: floor length skirts, Off Supply and Zoe Pea. Electro and Dub. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

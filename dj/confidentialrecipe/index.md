@@ -1,6 +1,6 @@
 # Confidential Recipe
 
-Confidential Recipe is a Techno and Club artist with 2 upcoming club dates listed on soundcheck as of Fri, 18 Sept 2026, next at Basement (Amsterdam), Amsterdam on Thu, 22 Oct 2026.
+Confidential Recipe is a Techno and Club artist with 2 upcoming club dates listed on soundcheck as of Sat, 19 Sept 2026, next at Basement (Amsterdam), Amsterdam on Thu, 22 Oct 2026.
 
 Confidential Recipe is a techno and club artist tracked on soundcheck, with 22 sets logged across Amsterdam, Barcelona, Berlin and Budapest and 4 more. Often billed alongside Marcos in Dub, CARAVEL and CESAR ALMENA. Next up: Basement (Amsterdam), Amsterdam on Thu 22 Oct.
 
@@ -26,4 +26,4 @@ Confidential Recipe is a techno and club artist tracked on soundcheck, with 22 s
 
 Marcos in Dub, CARAVEL, CESAR ALMENA
 
-*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/confidentialrecipe/)*
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/confidentialrecipe/)*

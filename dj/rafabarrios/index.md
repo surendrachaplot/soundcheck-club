@@ -1,13 +1,14 @@
 # Rafa Barrios
 
-Rafa Barrios is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Fri, 18 Sept 2026, next at Fabrik, Madrid on Sat, 10 Oct 2026.
+Rafa Barrios is a Tech House and House artist with 2 upcoming club dates listed on soundcheck as of Sat, 19 Sept 2026, next at Ritter Butzke, Berlin on Fri, 9 Oct 2026.
 
-Rafa Barrios is a tech house and house artist tracked on soundcheck, with 77 sets logged across Austin, Barcelona, Boston and Buenosaires and 17 more. Often billed alongside Paco Osuna, Chelina Manuhutu and Daniel Orpi. Next up: Fabrik, Madrid on Sat 10 Oct.
+Rafa Barrios is a tech house and house artist tracked on soundcheck, with 78 sets logged across Austin, Barcelona, Berlin and Boston and 18 more. Often billed alongside Paco Osuna, Chelina Manuhutu and Daniel Orpi. Next up: Ritter Butzke, Berlin on Fri 9 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 9 Oct 2026 | Ritter Butzke | Berlin |
 | Sat, 10 Oct 2026 | Fabrik | Madrid |
 
 ## Recently played
@@ -25,4 +26,4 @@ Rafa Barrios is a tech house and house artist tracked on soundcheck, with 77 set
 
 Paco Osuna, Chelina Manuhutu, Daniel Orpi
 
-*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/rafabarrios/)*
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/rafabarrios/)*

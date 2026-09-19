@@ -1,6 +1,6 @@
 # TESTBED
 
-TESTBED is a music venue in Leeds with 4 upcoming nights listed on soundcheck as of Fri, 18 Sept 2026; the next is "TESTBED Presents: Annie Mac" on Sat, 3 Oct 2026.
+TESTBED is a music venue in Leeds with 4 upcoming nights listed on soundcheck as of Sat, 19 Sept 2026; the next is "TESTBED Presents: Annie Mac" on Sat, 3 Oct 2026.
 
 TESTBED is a music venue in Leeds listed on soundcheck. 4 upcoming nights, with line-ups including Annie Mac, Dr Banana, Dungeon Meat and Horse Meat Disco and 2 more. Browse upcoming dates, start times and who's playing. Butterley Street.
 
@@ -17,4 +17,4 @@ TESTBED is a music venue in Leeds listed on soundcheck. 4 upcoming nights, with 
 
 Butterley Street, Leeds
 
-*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/leeds/club/testbed/)*
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/leeds/club/testbed/)*

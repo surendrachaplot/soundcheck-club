@@ -1,6 +1,6 @@
 # Sully Sounds
 
-Sully Sounds is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 18 Sept 2026, next at TBA - EAST LONDON - Announced to ticket holders on the day, London on Fri, 18 Sept 2026.
+Sully Sounds is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 19 Sept 2026, next at TBA - EAST LONDON - Announced to ticket holders on the day, London on Fri, 18 Sept 2026.
 
 Sully Sounds is a house and techno artist tracked on soundcheck, with 13 sets logged across London. Often billed alongside antSocial, Moonz and Al Gray. Next up: TBA - EAST LONDON - Announced to ticket holders on the day, London on Fri 18 Sept.
 
@@ -12,6 +12,7 @@ Sully Sounds is a house and techno artist tracked on soundcheck, with 13 sets lo
 
 ## Recently played
 
+- TBA - EAST LONDON - Announced to ticket holders on the day, London — Fri, 18 Sept 2026
 - TBA -  E18 2**, London — Sun, 4 May 2025
 - Club Makossa, London — Thu, 28 Nov 2024
 - Four Quarters, London — Thu, 19 Sept 2024
@@ -19,10 +20,9 @@ Sully Sounds is a house and techno artist tracked on soundcheck, with 13 sets lo
 - Egg London, London — Fri, 17 May 2024
 - Unit 58, London — Sat, 11 May 2024
 - Kizuna, London — Wed, 14 Feb 2024
-- The Star Of Kings, London — Sat, 11 Nov 2023
 
 ## Shares bills with
 
 antSocial, Moonz, Al Gray
 
-*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sullysounds/)*
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sullysounds/)*

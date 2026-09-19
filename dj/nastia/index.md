@@ -1,6 +1,6 @@
 # Nastia
 
-Nastia is a Techno and House artist with 13 upcoming club dates listed on soundcheck as of Fri, 18 Sept 2026, next at Fiducial Asteria, Lyon on Sat, 19 Sept 2026.
+Nastia is a Techno and House artist with 13 upcoming club dates listed on soundcheck as of Sat, 19 Sept 2026, next at Fiducial Asteria, Lyon on Sat, 19 Sept 2026.
 
 Nastia is a techno and house artist tracked on soundcheck, with 168 sets logged across Amsterdam, Athens, Austin and Barcelona and 58 more. Often billed alongside Stef Mendesidis, The Advent and DJ Bone. Next up: Fiducial Asteria, Lyon on Sat 19 Sept.
 
@@ -36,4 +36,4 @@ Nastia is a techno and house artist tracked on soundcheck, with 168 sets logged 
 
 Stef Mendesidis, The Advent, DJ Bone
 
-*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nastia/)*
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nastia/)*

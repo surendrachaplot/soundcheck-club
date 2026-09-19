@@ -1,6 +1,6 @@
 # francesca (DE)
 
-francesca (DE) is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 18 Sept 2026, next at Mellowpark, Berlin on Sat, 26 Sept 2026.
+francesca (DE) is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 19 Sept 2026, next at Mellowpark, Berlin on Sat, 26 Sept 2026.
 
 francesca (DE) is a house and techno artist tracked on soundcheck, with 19 sets logged across Berlin, Hamburg and Munich. Often billed alongside Maria Theresia von Eberg, 2 Girls 1 Club and Apolonia. Next up: Mellowpark, Berlin on Sat 26 Sept.
 
@@ -26,4 +26,4 @@ francesca (DE) is a house and techno artist tracked on soundcheck, with 19 sets 
 
 Maria Theresia von Eberg, 2 Girls 1 Club, Apolonia
 
-*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/francesca-de/)*
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/francesca-de/)*

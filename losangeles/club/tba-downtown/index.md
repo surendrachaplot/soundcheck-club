@@ -1,16 +1,14 @@
 # TBA - Downtown
 
-TBA - Downtown is a music venue in Los Angeles with 4 upcoming nights listed on soundcheck as of Fri, 18 Sept 2026; the next is "ACT of RAGE [NL] - HARD + RAW + 88MPH, Sixtroke, B7, DAMO " on Fri, 18 Sept 2026.
+TBA - Downtown is a music venue in Los Angeles with 2 upcoming nights listed on soundcheck as of Sat, 19 Sept 2026; the next is "CSW - Andy Martin [3hr], OK EG [live], sysk" on Sat, 19 Sept 2026.
 
-TBA - Downtown is a music venue in Losangeles listed on soundcheck. 4 upcoming nights, with line-ups including 2ManyDJs, 88 MPH, Act of Rage and Akanbi and 2 more. Browse upcoming dates, start times and who's playing.
+TBA - Downtown is a music venue in Losangeles listed on soundcheck. 2 upcoming nights, with line-ups including Akanbi, Andy Martin, DjRUM and Mark Ernestus and 2 more. Browse upcoming dates, start times and who's playing.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 18 Sept 2026 | ACT of RAGE [NL] - HARD + RAW + 88MPH, Sixtroke, B7, DAMO  | 88 MPH, Act of Rage, Sixtroke |
-| Fri, 18 Sept 2026 | Lights Down Low feat 2ManyDJs | 2ManyDJs, Andi, Corey Sizemore, Richie Panic |
 | Sat, 19 Sept 2026 | CSW - Andy Martin [3hr], OK EG [live], sysk | Andy Martin, OK EG, sysk |
 | Sat, 3 Oct 2026 | CSW Open Air: DjRUM [4hr], Mark Ernestus [3hr], Akanbi b2b The Large [Double set] | Akanbi, DjRUM, Mark Ernestus, The Large |
 
-*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/tba-downtown/)*
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/tba-downtown/)*

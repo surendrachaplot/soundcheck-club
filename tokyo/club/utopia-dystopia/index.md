@@ -1,14 +1,13 @@
 # UTOPIA / DYSTOPIA
 
-UTOPIA / DYSTOPIA is a music venue in Tokyo with 8 upcoming nights listed on soundcheck as of Fri, 18 Sept 2026; the next is "BAB" on Fri, 18 Sept 2026.
+UTOPIA / DYSTOPIA is a music venue in Tokyo with 7 upcoming nights listed on soundcheck as of Sat, 19 Sept 2026; the next is "Monadology feat. Tokyo Wine Rave After Party" on Sat, 19 Sept 2026.
 
-UTOPIA / DYSTOPIA is a music venue in Tokyo listed on soundcheck. 8 upcoming nights, with line-ups including 雷庵(RYan), Anri, Da Yama and DJason and 2 more. Browse upcoming dates, start times and who's playing. 〒150-0044 Tokyo, Shibuya, Maruyamacho, 4−6 QLINK渋谷神泉 B1F B2F.
+UTOPIA / DYSTOPIA is a music venue in Tokyo listed on soundcheck. 7 upcoming nights, with line-ups including 雷庵(RYan), Anri, Da Yama and DJason and 2 more. Browse upcoming dates, start times and who's playing. 〒150-0044 Tokyo, Shibuya, Maruyamacho, 4−6 QLINK渋谷神泉 B1F B2F.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 18 Sept 2026 | BAB | Pokaska, Shimon Taka, ovrrride |
 | Sat, 19 Sept 2026 | Monadology feat. Tokyo Wine Rave After Party | Da Yama, FUJIMON, Kento Kumazaki, Ryuga Nomoto, Shimon Taka |
 | Sun, 20 Sept 2026 | 渋谷いけだまこと祭'26 | Kota, MARINA, MARO (MA), Riri, Shimon, Shuta, Toxic, Woo (3), omeme_gangimari |
 | Mon, 21 Sept 2026 | MUSIK OF LIVING | DJason, YOSHI KANOU |
@@ -21,4 +20,4 @@ UTOPIA / DYSTOPIA is a music venue in Tokyo listed on soundcheck. 8 upcoming nig
 
 〒150-0044 Tokyo, Shibuya, Maruyamacho, 4−6 QLINK渋谷神泉 B1F B2F, Tokyo
 
-*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/utopia-dystopia/)*
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/utopia-dystopia/)*

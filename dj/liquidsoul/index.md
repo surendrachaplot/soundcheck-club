@@ -1,6 +1,6 @@
 # Liquid Soul
 
-Liquid Soul is a Psytrance and Techno artist with 4 upcoming club dates listed on soundcheck as of Fri, 18 Sept 2026, next at KitKatClub, Berlin on Fri, 18 Sept 2026.
+Liquid Soul is a Psytrance and Techno artist with 4 upcoming club dates listed on soundcheck as of Sat, 19 Sept 2026, next at KitKatClub, Berlin on Fri, 18 Sept 2026.
 
 Liquid Soul is a psytrance and techno artist based in Switzerland, tracked on soundcheck, with 30 sets logged across Berlin, Budapest, Cologne and Losangeles and 7 more. Often billed alongside Ambient Pino, Animato and Astrix. Next up: KitKatClub, Berlin on Fri 18 Sept.
 
@@ -15,6 +15,7 @@ Liquid Soul is a psytrance and techno artist based in Switzerland, tracked on so
 
 ## Recently played
 
+- KitKatClub, Berlin — Fri, 18 Sept 2026
 - Dürener Badesee, Cologne — Fri, 28 Aug 2026
 - TBA - OPEN AIR SAINT OUEN, Paris — Sat, 27 Jun 2026
 - Bain Mathieu, Montreal — Sat, 4 Apr 2026
@@ -22,10 +23,9 @@ Liquid Soul is a psytrance and techno artist based in Switzerland, tracked on so
 - Riviera Beach Club, Melbourne — Fri, 27 Feb 2026
 - X-Tra, Zurich — Sat, 20 Dec 2025
 - KitKatClub, Berlin — Fri, 24 Oct 2025
-- Alte Kaserne, Zurich — Sat, 2 Aug 2025
 
 ## Shares bills with
 
 Ambient Pino, Animato, Astrix
 
-*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/liquidsoul/)*
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/liquidsoul/)*

@@ -1,6 +1,6 @@
 # TWO EX
 
-TWO EX is a Electronica and House artist with 4 upcoming club dates listed on soundcheck as of Fri, 18 Sept 2026, next at Cadavra, Madrid on Sat, 26 Sept 2026.
+TWO EX is a Electronica and House artist with 4 upcoming club dates listed on soundcheck as of Sat, 19 Sept 2026, next at Cadavra, Madrid on Sat, 26 Sept 2026.
 
 TWO EX is an electronica and house artist tracked on soundcheck, with 67 sets logged across Berlin, Brussels, Madrid and Tokyo. Often billed alongside frankydrama, Eder Croket and BOTHER. Next up: Cadavra, Madrid on Sat 26 Sept.
 
@@ -28,4 +28,4 @@ TWO EX is an electronica and house artist tracked on soundcheck, with 67 sets lo
 
 frankydrama, Eder Croket, BOTHER
 
-*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/twoex/)*
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/twoex/)*

@@ -1,6 +1,6 @@
 # Jen Cardini
 
-Jen Cardini is a Techno and House artist with 10 upcoming club dates listed on soundcheck as of Fri, 18 Sept 2026, next at Drama Radio Bar, Mexico City on Tue, 15 Sept 2026.
+Jen Cardini is a Techno and House artist with 10 upcoming club dates listed on soundcheck as of Sat, 19 Sept 2026, next at Drama Radio Bar, Mexico City on Tue, 15 Sept 2026.
 
 Jen Cardini is a techno and house artist tracked on soundcheck, with 255 sets logged across Amsterdam, Antwerp, Athens and Auckland and 58 more. Often billed alongside Pablo Bozzi, BASHKKA and KI/KI. Next up: Drama Radio Bar, Mexicocity on Tue 15 Sept.
 
@@ -11,7 +11,7 @@ Jen Cardini is a techno and house artist tracked on soundcheck, with 255 sets lo
 | Tue, 15 Sept 2026 | Drama Radio Bar | Mexico City |
 | Sat, 19 Sept 2026 | YuYu Cine Club | Mexico City |
 | Thu, 24 Sept 2026 | 3oz Dive Club | San Diego |
-| Fri, 25 Sept 2026 | TBA - sf warehouse | San Francisco/Oakland |
+| Fri, 25 Sept 2026 | TBA - San Francisco | San Francisco/Oakland |
 | Sat, 26 Sept 2026 | TBA - DTLA | Los Angeles |
 | Fri, 9 Oct 2026 | FOLD | London |
 | Thu, 22 Oct 2026 | Klaproos | Amsterdam |
@@ -34,4 +34,4 @@ Jen Cardini is a techno and house artist tracked on soundcheck, with 255 sets lo
 
 Pablo Bozzi, BASHKKA, KI/KI
 
-*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jencardini/)*
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jencardini/)*

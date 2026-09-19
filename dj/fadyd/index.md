@@ -1,6 +1,6 @@
 # Fady D
 
-Fady D is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Fri, 18 Sept 2026, next at The Green Zone, Washington DC on Thu, 24 Sept 2026.
+Fady D is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Sat, 19 Sept 2026, next at The Green Zone, Washington DC on Thu, 24 Sept 2026.
 
 Fady D is a house and disco artist tracked on soundcheck, with 21 sets logged across Newyorkcity and Washingtondc. Often billed alongside Arianna Danae, Boshoco and DJ B-SIDE. Next up: The Green Zone, Washingtondc on Thu 24 Sept.
 
@@ -25,4 +25,4 @@ Fady D is a house and disco artist tracked on soundcheck, with 21 sets logged ac
 
 Arianna Danae, Boshoco, DJ B-SIDE
 
-*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/fadyd/)*
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/fadyd/)*

@@ -1,6 +1,6 @@
 # Shibuya OTO
 
-Shibuya OTO is a music venue in Tokyo with 6 upcoming nights listed on soundcheck as of Fri, 18 Sept 2026; the next is "OTO 31st Anniversary DAY.1" on Sat, 19 Sept 2026.
+Shibuya OTO is a music venue in Tokyo with 6 upcoming nights listed on soundcheck as of Sat, 19 Sept 2026; the next is "OTO 31st Anniversary DAY.1" on Sat, 19 Sept 2026.
 
 Shibuya OTO is a music venue in Tokyo listed on soundcheck. 6 upcoming nights, with line-ups including EIJI, Hironobu Jyounai, Kenta Tominaga and Licaxxx and 1 more. Browse upcoming dates, start times and who's playing. Japan, 〒150-0002 Tokyo, Shibuya City, Shibuya, 3 Chome−18−7 渋谷東一号館ビル５F.
 
@@ -19,4 +19,4 @@ Shibuya OTO is a music venue in Tokyo listed on soundcheck. 6 upcoming nights, w
 
 Japan, 〒150-0002 Tokyo, Shibuya City, Shibuya, 3 Chome−18−7 渋谷東一号館ビル５F, Tokyo
 
-*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/shibuya-oto/)*
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/shibuya-oto/)*

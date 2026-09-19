@@ -1,14 +1,15 @@
 # Archie Hamilton
 
-Archie Hamilton is a House and Tech House artist with 10 upcoming club dates listed on soundcheck as of Fri, 18 Sept 2026, next at Shelter Amsterdam, Amsterdam on Sat, 26 Sept 2026.
+Archie Hamilton is a House and Tech House artist with 11 upcoming club dates listed on soundcheck as of Sat, 19 Sept 2026, next at Shelter Amsterdam, Amsterdam on Sat, 26 Sept 2026.
 
-Archie Hamilton is a house and tech house artist tracked on soundcheck, with 210 sets logged across Amsterdam, Athens, Barcelona and Basel and 44 more. Often billed alongside Jamie Jones, East End Dubs and Prunk. Next up: Shelter Amsterdam, Amsterdam on Sat 26 Sept.
+Archie Hamilton is a house and tech house artist tracked on soundcheck, with 211 sets logged across Amsterdam, Athens, Barcelona and Basel and 44 more. Often billed alongside Jamie Jones, East End Dubs and Prunk. Next up: Shelter Amsterdam, Amsterdam on Sat 26 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 26 Sept 2026 | Shelter Amsterdam | Amsterdam |
+| Fri, 2 Oct 2026 | Prysm Nightclub | Chicago |
 | Sat, 3 Oct 2026 | Descent | Boston |
 | Tue, 6 Oct 2026 | Cova Santa | Ibiza |
 | Thu, 22 Oct 2026 | RAWFACTORY | Amsterdam |
@@ -34,4 +35,4 @@ Archie Hamilton is a house and tech house artist tracked on soundcheck, with 210
 
 Jamie Jones, East End Dubs, Prunk
 
-*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/archiehamilton/)*
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/archiehamilton/)*

@@ -1,6 +1,6 @@
 # Housequake
 
-Housequake is a House and Tech House artist with 3 upcoming club dates listed on soundcheck as of Fri, 18 Sept 2026, next at Grand Hotel Amrâth Kurhaus, The Hague on Sat, 31 Oct 2026.
+Housequake is a House and Tech House artist with 3 upcoming club dates listed on soundcheck as of Sat, 19 Sept 2026, next at Grand Hotel Amrâth Kurhaus, The Hague on Sat, 31 Oct 2026.
 
 Housequake is a house and tech house artist based in Netherlands, tracked on soundcheck, with 18 sets logged across Amsterdam, Nashville, Rotterdam and Thehague and 1 more. Often billed alongside Erick E, ROOG and Benny Rodrigues. Next up: Grand Hotel Amrâth Kurhaus, Thehague on Sat 31 Oct.
 
@@ -27,4 +27,4 @@ Housequake is a house and tech house artist based in Netherlands, tracked on sou
 
 Erick E, ROOG, Benny Rodrigues
 
-*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/housequake/)*
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/housequake/)*

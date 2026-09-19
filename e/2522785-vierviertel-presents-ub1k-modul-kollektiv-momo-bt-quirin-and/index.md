@@ -1,6 +1,6 @@
 # VIERVIERTEL presents: ¥UB1K, Modul Kollektiv, MOMO & BT, QUIRIN and many more at Lieberscholli
 
-VIERVIERTEL presents: ¥UB1K, Modul Kollektiv, MOMO & BT, QUIRIN and many more at Lieberscholli on Sat 19 Sept, Munich. 7 acts on the bill: aemy, melting the people, Modul Kollektiv and Nothing But Love and 3 more. Techno and House. Preview the line-up and save it on soundcheck.
+VIERVIERTEL presents: ¥UB1K, Modul Kollektiv, MOMO & BT, QUIRIN and many more at Lieberscholli on Sat 19 Sept, Munich. 9 acts on the bill: aemy, Giovanni Geltino, melting the people and Modul Kollektiv and 5 more. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,8 +11,10 @@ VIERVIERTEL presents: ¥UB1K, Modul Kollektiv, MOMO & BT, QUIRIN and many more a
 ## Line-up
 
 - aemy
+- Giovanni Geltino
 - melting the people
 - Modul Kollektiv
+- mystycs
 - Nothing But Love
 - Quirin (DE)
 - Sabrina Hawk

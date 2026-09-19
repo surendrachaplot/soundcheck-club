@@ -1,6 +1,6 @@
 # SEELEN. Pop-Up Community Event at TBA - SEELEN. HQ 
 
-SEELEN. Pop-Up Community Event at TBA - SEELEN. HQ  on Sat 24 Oct, Leipzig. 3 acts on the bill: JANEIN, Medha and Stigmatique. Techno. Preview the line-up and save it on soundcheck.
+SEELEN. Pop-Up Community Event at TBA - SEELEN. HQ  on Sat 24 Oct, Leipzig. 4 acts on the bill: Carlotta Jacobi, JANEIN, Medha and Stigmatique. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ SEELEN. Pop-Up Community Event at TBA - SEELEN. HQ  on Sat 24 Oct, Leipzig. 3 ac
 
 ## Line-up
 
+- Carlotta Jacobi
 - JANEIN
 - Medha
 - Stigmatique

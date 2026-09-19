@@ -1,6 +1,6 @@
 # DarcSounds
 
-DarcSounds is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 18 Sept 2026, next at Void Hall, Berlin on Sat, 10 Oct 2026.
+DarcSounds is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 19 Sept 2026, next at Void Hall, Berlin on Sat, 10 Oct 2026.
 
 DarcSounds is a techno and house artist tracked on soundcheck, with 10 sets logged across Berlin. Often billed alongside Dillon Lucas, Indigo Plateaux and laserdong. Next up: Void Hall, Berlin on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ DarcSounds is a techno and house artist tracked on soundcheck, with 10 sets logg
 
 Dillon Lucas, Indigo Plateaux, laserdong
 
-*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/darcsounds/)*
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/darcsounds/)*

@@ -1,14 +1,13 @@
 # Temple Rat
 
-Temple Rat is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Fri, 18 Sept 2026, next at CLUB RAUM, Amsterdam on Fri, 18 Sept 2026.
+Temple Rat is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Sat, 19 Sept 2026, next at Club Cheek, London on Sun, 27 Sept 2026.
 
-Temple Rat is a techno and house artist based in China, tracked on soundcheck, with 51 sets logged across Amsterdam, Bangkok, Berlin and Copenhagen and 7 more. Often billed alongside David Fogarty, Sound Metaphors Djs and Alicia Carrera. Next up: CLUB RAUM, Amsterdam on Fri 18 Sept.
+Temple Rat is a techno and house artist based in China, tracked on soundcheck, with 51 sets logged across Amsterdam, Bangkok, Berlin and Copenhagen and 7 more. Often billed alongside David Fogarty, Sound Metaphors Djs and Alicia Carrera. Next up: Club Cheek, London on Sun 27 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 18 Sept 2026 | CLUB RAUM | Amsterdam |
 | Sun, 27 Sept 2026 | Club Cheek | London |
 | Wed, 7 Oct 2026 | Morphine Raum | Berlin |
 | Fri, 16 Oct 2026 | ZENNER | Berlin |
@@ -17,6 +16,7 @@ Temple Rat is a techno and house artist based in China, tracked on soundcheck, w
 
 ## Recently played
 
+- CLUB RAUM, Amsterdam — Fri, 18 Sept 2026
 - TBA - Near S+U Jannowitzbrücke, Berlin — Thu, 17 Sept 2026
 - TBA - secret location, Copenhagen — Fri, 11 Sept 2026
 - Giri, Berlin — Thu, 10 Sept 2026
@@ -24,10 +24,9 @@ Temple Rat is a techno and house artist based in China, tracked on soundcheck, w
 - OHM, Berlin — Sat, 18 Jul 2026
 - Sameheads, Berlin — Fri, 15 May 2026
 - Tresor / Globus, Berlin — Wed, 13 May 2026
-- MaHalla, Berlin — Sun, 3 May 2026
 
 ## Shares bills with
 
 David Fogarty, Sound Metaphors Djs, Alicia Carrera
 
-*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/templerat/)*
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/templerat/)*

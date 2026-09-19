@@ -1,6 +1,6 @@
 # Steve Dekay
 
-Steve Dekay is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Fri, 18 Sept 2026, next at The Tequila Club | Amsterdam, Amsterdam on Fri, 23 Oct 2026.
+Steve Dekay is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Sat, 19 Sept 2026, next at The Tequila Club | Amsterdam, Amsterdam on Fri, 23 Oct 2026.
 
 Steve Dekay is a techno and trance artist tracked on soundcheck, with 6 sets logged across Amsterdam, Barcelona, Edinburgh and Losangeles and 1 more. Often billed alongside Allen Watts, A.N.I. and Aaron Hibell. Next up: The Tequila Club | Amsterdam, Amsterdam on Fri 23 Oct.
 
@@ -22,4 +22,4 @@ Steve Dekay is a techno and trance artist tracked on soundcheck, with 6 sets log
 
 Allen Watts, A.N.I., Aaron Hibell
 
-*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/stevedekay/)*
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/stevedekay/)*

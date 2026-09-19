@@ -1,6 +1,6 @@
 # Sharnie
 
-Sharnie is a Garage and Dubstep artist with 2 upcoming club dates listed on soundcheck as of Fri, 18 Sept 2026, next at Ballroom at Palais, London on Sat, 19 Sept 2026.
+Sharnie is a Garage and Dubstep artist with 2 upcoming club dates listed on soundcheck as of Sat, 19 Sept 2026, next at Ballroom at Palais, London on Sat, 19 Sept 2026.
 
 Sharnie is a garage and dubstep artist tracked on soundcheck, with 55 sets logged across Birmingham, Bristol, Edinburgh and London and 4 more. Often billed alongside Axle, Beatrice M. and Bluetoof. Next up: Ballroom at Palais, London on Sat 19 Sept.
 
@@ -26,4 +26,4 @@ Sharnie is a garage and dubstep artist tracked on soundcheck, with 55 sets logge
 
 Axle, Beatrice M., Bluetoof
 
-*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sharnie/)*
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sharnie/)*

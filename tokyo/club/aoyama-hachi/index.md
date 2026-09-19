@@ -1,26 +1,26 @@
 # Aoyama Hachi
 
-Aoyama Hachi is a music venue in Tokyo with 19 upcoming nights listed on soundcheck as of Fri, 18 Sept 2026; the next is "CULTURE CLUB" on Fri, 18 Sept 2026.
+Aoyama Hachi is a music venue in Tokyo with 22 upcoming nights listed on soundcheck as of Sat, 19 Sept 2026; the next is "End of summer with VRIJ" on Sat, 19 Sept 2026.
 
-Aoyama Hachi is a music venue in Tokyo listed on soundcheck. 19 upcoming nights, with line-ups including 35DH-1, AAGUU, ANiIIIIiiiKii and Anri (2) and 2 more. Browse upcoming dates, start times and who's playing. 4-5-9 Aoyama Building, Shibuya, Shibuya-ku, Tokyo, Japan.
+Aoyama Hachi is a music venue in Tokyo listed on soundcheck. 22 upcoming nights, with line-ups including AAGUU, ANiIIIIiiiKii, Anri (2) and Ayana Pattra and 2 more. Browse upcoming dates, start times and who's playing. 4-5-9 Aoyama Building, Shibuya, Shibuya-ku, Tokyo, Japan.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 18 Sept 2026 | CULTURE CLUB | 35DH-1, DJ Yogurt, Katz 25, ODD, YU-MA |
 | Sat, 19 Sept 2026 | End of summer with VRIJ | Peter Bruno, Ruling Planet, SG Sound Collective, frndj |
-| Mon, 21 Sept 2026 | WAX WAGGLE 1st Anniversary |  |
+| Sat, 19 Sept 2026 | Asa-Hachi | Fushiming, OG Militant B, YO.AN |
+| Sun, 20 Sept 2026 | Asa-Hachi | DJ Sodeyama |
+| Sun, 20 Sept 2026 | ATA -A-Trip Advisor- | fýsia |
+| Mon, 21 Sept 2026 | WAX WAGGLE 1st Anniversary | DJ RS, KAKERU, Kim Laughton, Oyubi, PortaL(JP), Sojourna, ifax!, monielu.h |
 | Mon, 21 Sept 2026 | Asa-Hachi | AAGUU, Gonno, Sunga |
 | Tue, 22 Sept 2026 | 極楽 -GOKURAKU- | ANiIIIIiiiKii, KEI_DJ, Riku Takahashi, SINZIN, YouForgot |
+| Tue, 22 Sept 2026 | Asa-Hachi | CHIDA, imus |
 | Wed, 23 Sept 2026 | Asa-Hachi | Celter, KAKERU |
 | Fri, 25 Sept 2026 | Jazz'N'Bass -Drum'n'Bass174/87 & Jazzy Jungle | EIJI, Kenta Tominaga, vinylDJ Eiji Takehana |
-| Sun, 27 Sept 2026 | Motion | Anri (2), Fox (US), KUBOTA, RReona, SIGNAL (JP), TAIYO (2) |
-| Fri, 2 Oct 2026 | SOUND AGENT Vol.10 Final | Pokaska |
-| Sat, 3 Oct 2026 | STAN vol.3 |  |
 
 ## Address
 
 4-5-9 Aoyama Building, Shibuya, Shibuya-ku, Tokyo, Japan, Tokyo
 
-*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/aoyama-hachi/)*
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/aoyama-hachi/)*

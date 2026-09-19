@@ -1,6 +1,6 @@
 # Alenaudio
 
-Alenaudio is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 18 Sept 2026, next at Boston Manor Park, London on Sat, 19 Sept 2026.
+Alenaudio is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 19 Sept 2026, next at Boston Manor Park, London on Sat, 19 Sept 2026.
 
 Alenaudio is a house and techno artist tracked on soundcheck, with 8 sets logged across London and Newyorkcity. Often billed alongside Sweater On Polo, Johnny Panga and Russell E.L. Butler. Next up: Boston Manor Park, London on Sat 19 Sept.
 
@@ -24,4 +24,4 @@ Alenaudio is a house and techno artist tracked on soundcheck, with 8 sets logged
 
 Sweater On Polo, Johnny Panga, Russell E.L. Butler
 
-*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/alenaudio/)*
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/alenaudio/)*

@@ -1,6 +1,6 @@
 # Mauro Ferno
 
-Mauro Ferno is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 18 Sept 2026, next at fabric, London on Sat, 14 Nov 2026.
+Mauro Ferno is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 19 Sept 2026, next at fabric, London on Sat, 14 Nov 2026.
 
 Mauro Ferno is a house and techno artist based in United Kingdom, tracked on soundcheck, with 62 sets logged across Barcelona and London. Often billed alongside Andre King, Trixie (UK) and Junki Inoue. Next up: fabric, London on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ Mauro Ferno is a house and techno artist based in United Kingdom, tracked on sou
 
 Andre King, Trixie (UK), Junki Inoue
 
-*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mauroferno/)*
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mauroferno/)*

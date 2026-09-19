@@ -1,6 +1,6 @@
 # Luca Agnelli
 
-Luca Agnelli is a Techno and Hardcore artist with 2 upcoming club dates listed on soundcheck as of Fri, 18 Sept 2026, next at Tanzhaus West, Frankfurt on Fri, 25 Sept 2026.
+Luca Agnelli is a Techno and Hardcore artist with 2 upcoming club dates listed on soundcheck as of Sat, 19 Sept 2026, next at Tanzhaus West, Frankfurt on Fri, 25 Sept 2026.
 
 Luca Agnelli is a techno and hardcore artist based in Italy, tracked on soundcheck, with 95 sets logged across Amsterdam, Antwerp, Barcelona and Basel and 35 more. Often billed alongside Gianni Di Bernardo, OMAKS and ANXHELA. Next up: Tanzhaus West, Frankfurt on Fri 25 Sept.
 
@@ -26,4 +26,4 @@ Luca Agnelli is a techno and hardcore artist based in Italy, tracked on soundche
 
 Gianni Di Bernardo, OMAKS, ANXHELA
 
-*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lucaagnelli/)*
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lucaagnelli/)*

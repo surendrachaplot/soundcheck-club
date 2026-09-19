@@ -1,14 +1,13 @@
 # Aldonna
 
-Aldonna is a House and Techno artist with 7 upcoming club dates listed on soundcheck as of Fri, 18 Sept 2026, next at CLUB RAUM, Amsterdam on Fri, 18 Sept 2026.
+Aldonna is a House and Techno artist with 6 upcoming club dates listed on soundcheck as of Sat, 19 Sept 2026, next at Den Anden Side, Copenhagen on Sat, 10 Oct 2026.
 
-Aldonna is a house and techno artist tracked on soundcheck, with 134 sets logged across Amsterdam, Bali, Berlin and Brisbane and 26 more. Often billed alongside Tjade, D Stone and DAWS. Next up: CLUB RAUM, Amsterdam on Fri 18 Sept.
+Aldonna is a house and techno artist tracked on soundcheck, with 134 sets logged across Amsterdam, Bali, Berlin and Brisbane and 26 more. Often billed alongside Tjade, D Stone and DAWS. Next up: Den Anden Side, Copenhagen on Sat 10 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 18 Sept 2026 | CLUB RAUM | Amsterdam |
 | Sat, 10 Oct 2026 | Den Anden Side | Copenhagen |
 | Fri, 16 Oct 2026 | Radio Radio | Amsterdam |
 | Sat, 17 Oct 2026 | Vittoria Wharf Studio | London |
@@ -18,6 +17,7 @@ Aldonna is a house and techno artist tracked on soundcheck, with 134 sets logged
 
 ## Recently played
 
+- CLUB RAUM, Amsterdam — Fri, 18 Sept 2026
 - Lofi, Amsterdam — Sat, 12 Sept 2026
 - Radio Radio, Amsterdam — Fri, 11 Sept 2026
 - Sneaky Pete's, Edinburgh — Sat, 5 Sept 2026
@@ -25,10 +25,9 @@ Aldonna is a house and techno artist tracked on soundcheck, with 134 sets logged
 - TBA - Schwing und Stampf Festival, Zurich — Thu, 27 Aug 2026
 - BRET, Amsterdam — Fri, 7 Aug 2026
 - Gaffe, London — Sat, 25 Jul 2026
-- Berghain | Panorama Bar | Säule, Berlin — Sat, 18 Jul 2026
 
 ## Shares bills with
 
 Tjade, D Stone, DAWS
 
-*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/aldonna/)*
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/aldonna/)*

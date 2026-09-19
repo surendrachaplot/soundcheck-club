@@ -1,14 +1,13 @@
 # Academy LA
 
-Academy LA is a music venue in Los Angeles with 11 upcoming nights listed on soundcheck as of Fri, 18 Sept 2026; the next is "Walker & Royce" on Fri, 18 Sept 2026.
+Academy LA is a music venue in Los Angeles with 10 upcoming nights listed on soundcheck as of Sat, 19 Sept 2026; the next is "Marcel Dettmann, Sol Ortega, Perel, John Bryars" on Sat, 19 Sept 2026.
 
-Academy LA is a music venue in Losangeles listed on soundcheck. 11 upcoming nights, with line-ups including AC Slater, Cosmic Gate, Desert Hearts and John Bryars and 2 more. Browse upcoming dates, start times and who's playing. 6021 Hollywood Blvd.  Los Angeles, CA 90028, USA.
+Academy LA is a music venue in Losangeles listed on soundcheck. 10 upcoming nights, with line-ups including AC Slater, Cosmic Gate, Desert Hearts and John Bryars and 2 more. Browse upcoming dates, start times and who's playing. 6021 Hollywood Blvd.  Los Angeles, CA 90028, USA.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 18 Sept 2026 | Walker & Royce | Walker & Royce |
 | Sat, 19 Sept 2026 | Marcel Dettmann, Sol Ortega, Perel, John Bryars | John Bryars, Marcel Dettmann, Perel, Sol Ortega |
 | Sat, 26 Sept 2026 | Cosmic Gate | Cosmic Gate |
 | Sat, 3 Oct 2026 | Rebūke |  |
@@ -18,9 +17,10 @@ Academy LA is a music venue in Losangeles listed on soundcheck. 11 upcoming nigh
 | Fri, 30 Oct 2026 | AC Slater (Halloween Weekend) | AC Slater |
 | Sat, 31 Oct 2026 | Morten (Halloween Night) | Morten |
 | Fri, 13 Nov 2026 | Angrybaby |  |
+| Sat, 14 Nov 2026 | Desert Hearts & Justin Martin All Night Long | Desert Hearts, Justin Martin |
 
 ## Address
 
 6021 Hollywood Blvd.  Los Angeles, CA 90028, USA, Los Angeles
 
-*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/academy-la/)*
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/academy-la/)*

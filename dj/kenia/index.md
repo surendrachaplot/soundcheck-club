@@ -1,6 +1,6 @@
 # Kenia
 
-Kenia is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 18 Sept 2026, next at Dead Letter No. 9, New York City on Fri, 30 Oct 2026.
+Kenia is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 19 Sept 2026, next at Dead Letter No. 9, New York City on Fri, 30 Oct 2026.
 
 Kenia is a house and techno artist tracked on soundcheck, with 84 sets logged across London, Madrid, Miami and Milan and 3 more. Often billed alongside Vithz, Rakim Under and David Triana. Next up: Dead Letter No. 9, Newyorkcity on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ Kenia is a house and techno artist tracked on soundcheck, with 84 sets logged ac
 
 Vithz, Rakim Under, David Triana
 
-*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kenia/)*
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kenia/)*

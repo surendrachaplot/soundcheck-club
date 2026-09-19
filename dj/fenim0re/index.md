@@ -1,14 +1,13 @@
 # FENIM0RE
 
-FENIM0RE is a Techno and Trance artist with 10 upcoming club dates listed on soundcheck as of Fri, 18 Sept 2026, next at BASIS, Utrecht on Fri, 18 Sept 2026.
+FENIM0RE is a Techno and Trance artist with 9 upcoming club dates listed on soundcheck as of Sat, 19 Sept 2026, next at Lehmann Club, Stuttgart on Sat, 19 Sept 2026.
 
-FENIM0RE is a techno and trance artist tracked on soundcheck, with 54 sets logged across Amsterdam, Antwerp, Athens and Berlin and 22 more. Often billed alongside future.666, ÜBERKIKZ and Pōnky. Next up: BASIS, Utrecht on Fri 18 Sept.
+FENIM0RE is a techno and trance artist tracked on soundcheck, with 54 sets logged across Amsterdam, Antwerp, Athens and Berlin and 22 more. Often billed alongside future.666, ÜBERKIKZ and Pōnky. Next up: Lehmann Club, Stuttgart on Sat 19 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 18 Sept 2026 | BASIS | Utrecht |
 | Sat, 19 Sept 2026 | Lehmann Club | Stuttgart |
 | Sat, 26 Sept 2026 | Grelle Forelle | Vienna |
 | Sat, 3 Oct 2026 | TBA - glimmer, Stockmeyerstraße 43, 20457 Hamburg | Hamburg |
@@ -21,6 +20,7 @@ FENIM0RE is a techno and trance artist tracked on soundcheck, with 54 sets logge
 
 ## Recently played
 
+- BASIS, Utrecht — Fri, 18 Sept 2026
 - TILLATEC, Amsterdam — Sat, 12 Sept 2026
 - EXIL, Zurich — Fri, 4 Sept 2026
 - Gianpula Village, Malta — Wed, 12 Aug 2026
@@ -28,10 +28,9 @@ FENIM0RE is a techno and trance artist tracked on soundcheck, with 54 sets logge
 - TBA - Near Berlin (Secret Forest), Berlin — Thu, 6 Aug 2026
 - C12, Brussels — Sat, 25 Jul 2026
 - RADION, Amsterdam — Sat, 11 Jul 2026
-- Klein, Istanbul — Fri, 10 Jul 2026
 
 ## Shares bills with
 
 future.666, ÜBERKIKZ, Pōnky
 
-*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/fenim0re/)*
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/fenim0re/)*

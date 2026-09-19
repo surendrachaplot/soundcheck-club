@@ -1,6 +1,6 @@
 # Clast
 
-Clast is a Techno and Hardcore artist with 2 upcoming club dates listed on soundcheck as of Fri, 18 Sept 2026, next at Nether Club, Bucharest on Sat, 19 Sept 2026.
+Clast is a Techno and Hardcore artist with 2 upcoming club dates listed on soundcheck as of Sat, 19 Sept 2026, next at Nether Club, Bucharest on Sat, 19 Sept 2026.
 
 Clast is a techno and hardcore artist based in Romania, tracked on soundcheck, with 14 sets logged across Bucharest and Newyorkcity. Often billed alongside Sitra Akhra, TRIXIÉ and GRVYWRLD. Next up: Nether Club, Bucharest on Sat 19 Sept.
 
@@ -26,4 +26,4 @@ Clast is a techno and hardcore artist based in Romania, tracked on soundcheck, w
 
 Sitra Akhra, TRIXIÉ, GRVYWRLD
 
-*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/clast/)*
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/clast/)*

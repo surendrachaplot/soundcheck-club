@@ -1,6 +1,6 @@
 # ://about blank
 
-://about blank is a music venue in Berlin with 28 upcoming nights listed on soundcheck as of Fri, 18 Sept 2026; the next is "Antifa.Weiter.Machen. Soliparty" on Fri, 18 Sept 2026.
+://about blank is a music venue in Berlin with 28 upcoming nights listed on soundcheck as of Sat, 19 Sept 2026; the next is "DUALISM with SPEEDBOYS LIVE, CARGO, YOVA" on Sat, 19 Sept 2026.
 
 ://about blank is a music venue in Berlin listed on soundcheck. 28 upcoming nights, with line-ups including 4NOUK, 5euroGoldi, YOVA and alemiko and 2 more. Browse upcoming dates, start times and who's playing. Markgrafendamm 24c, 10245 Berlin, Germany.
 
@@ -8,7 +8,6 @@
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 18 Sept 2026 | Antifa.Weiter.Machen. Soliparty | ALKARLINE, Carl Bergé, Eluzid, Julie Marghilano, K1KO, Lithium (2), MELATRONIX, Tactile, lisa tba |
 | Sat, 19 Sept 2026 | DUALISM with SPEEDBOYS LIVE, CARGO, YOVA | 5euroGoldi, Alex.Do, CARGO (DE), DJ Flink, DJ Zugzwang, Hanna Baertig, M4RY, Mareike Bautz, Nastaran, SPEEDBOYS, YOVA |
 | Sat, 19 Sept 2026 | Daytime department by tam ias (14-22 Uhr) | kluntje |
 | Fri, 25 Sept 2026 | Expeditions | Anna Haleta, Audio Units, BORGBORG, Bobaz Lobster, LISTORIO, maniaclina |
@@ -18,9 +17,10 @@
 | Sat, 3 Oct 2026 | Always ON TOP | Bamela Paywatch, CHOREOPHILA, Carl Hang, DJ Ferrari (2), Dr.Sun, Ini Lamborghini, Multifun, Schorli |
 | Sun, 4 Oct 2026 | STAUB XS_Familydisco_TREE OF THE CORE |  |
 | Fri, 9 Oct 2026 | PUDDING ∞ LETZTE WIESE × TRANSCENDÆNCE | DJ Semisecco, Droughtwerk, FI3BER, Flotte Motte, MATHILDA (2), Philena |
+| Sat, 10 Oct 2026 | ://elements | Biocym, Casual Treatment, Cia Rebeck, Electric Visionary, Shia LaBiff, THNTS, Vanta (DE), deliora |
 
 ## Address
 
 Markgrafendamm 24c, 10245 Berlin, Germany, Berlin
 
-*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/about-blank/)*
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/about-blank/)*

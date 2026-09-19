@@ -1,14 +1,13 @@
 # Bolero
 
-Bolero is a music venue in Seoul with 8 upcoming nights listed on soundcheck as of Fri, 18 Sept 2026; the next is "Bolero: WAV INVITES: Ale Rossi" on Fri, 18 Sept 2026.
+Bolero is a music venue in Seoul with 7 upcoming nights listed on soundcheck as of Sat, 19 Sept 2026; the next is "Pasa Passa 4YEARS ANNIVERSARY" on Sat, 19 Sept 2026.
 
-Bolero is a music venue in Seoul listed on soundcheck. 8 upcoming nights, with line-ups including DJ Co.kr, Ale Rossi, ANDOW and AUS10 and 2 more. Browse upcoming dates, start times and who's playing. B1, 220, Itaewon-ro, Yongsan-gu, Seoul, South Korea.
+Bolero is a music venue in Seoul listed on soundcheck. 7 upcoming nights, with line-ups including DJ Co.kr, ANDOW, AUS10 and bojvck and 2 more. Browse upcoming dates, start times and who's playing. B1, 220, Itaewon-ro, Yongsan-gu, Seoul, South Korea.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 18 Sept 2026 | Bolero: WAV INVITES: Ale Rossi | ANDOW, Ale Rossi, BABYKOOOL, BILL.E, RHODE (1) |
 | Sat, 19 Sept 2026 | Pasa Passa 4YEARS ANNIVERSARY | NAFIY, Xena (KR), Y1VB0, YENN (2), Zion |
 | Sun, 20 Sept 2026 | Bolero: PMG ARTIST WELCOME PARTY with PARTY NEXT DOORLOCK | McCOL |
 | Wed, 23 Sept 2026 | Bolero: UNBORN SOUNDS presents EXIT 4 | AUS10, CHANXER, KINGMCK, SKiiDA |
@@ -21,4 +20,4 @@ Bolero is a music venue in Seoul listed on soundcheck. 8 upcoming nights, with l
 
 B1, 220, Itaewon-ro, Yongsan-gu, Seoul, South Korea, Seoul
 
-*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/seoul/club/bolero/)*
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/seoul/club/bolero/)*

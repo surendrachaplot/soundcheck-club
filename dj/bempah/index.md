@@ -1,6 +1,6 @@
 # Bempah
 
-Bempah is a Hip-Hop and Drill artist with 1 upcoming club date listed on soundcheck as of Fri, 18 Sept 2026, next at The Old Blue Last, London on Sat, 31 Oct 2026.
+Bempah is a Hip-Hop and Drill artist with 1 upcoming club date listed on soundcheck as of Sat, 19 Sept 2026, next at The Old Blue Last, London on Sat, 31 Oct 2026.
 
 Bempah is a hip-hop and drill artist tracked on soundcheck, with 6 sets logged across London. Often billed alongside AAA, AMBRR and AyChibs. Next up: The Old Blue Last, London on Sat 31 Oct.
 
@@ -22,4 +22,4 @@ Bempah is a hip-hop and drill artist tracked on soundcheck, with 6 sets logged a
 
 AAA, AMBRR, AyChibs
 
-*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bempah/)*
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bempah/)*

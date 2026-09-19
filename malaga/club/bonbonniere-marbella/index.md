@@ -1,6 +1,6 @@
 # Bonbonniere Marbella
 
-Bonbonniere Marbella is a music venue in Malaga with 1 upcoming night listed on soundcheck as of Fri, 18 Sept 2026; the next is "NEVERMIND by TEN Ibiza" on Sun, 20 Sept 2026.
+Bonbonniere Marbella is a music venue in Malaga with 1 upcoming night listed on soundcheck as of Sat, 19 Sept 2026; the next is "NEVERMIND by TEN Ibiza" on Sun, 20 Sept 2026.
 
 Bonbonniere Marbella is a music venue in Malaga listed on soundcheck. 1 upcoming night. Browse upcoming dates, start times and who's playing. Carr. Istán, 29600 Marbella, Malaga.
 
@@ -14,4 +14,4 @@ Bonbonniere Marbella is a music venue in Malaga listed on soundcheck. 1 upcoming
 
 Carr. Istán, 29600 Marbella, Malaga, Malaga
 
-*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/malaga/club/bonbonniere-marbella/)*
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/malaga/club/bonbonniere-marbella/)*

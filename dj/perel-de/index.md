@@ -1,8 +1,8 @@
 # Perel
 
-Perel is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Fri, 18 Sept 2026, next at Academy LA, Los Angeles on Sat, 19 Sept 2026.
+Perel is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Sat, 19 Sept 2026, next at Academy LA, Los Angeles on Sat, 19 Sept 2026.
 
-Perel is a house and techno artist based in Germany, tracked on soundcheck, with 101 sets logged across Amsterdam, Barcelona, Berlin and Bristol and 32 more. Often billed alongside Erol Alkan, Tiga and VTSS. Next up: Academy LA, Losangeles on Sat 19 Sept.
+Perel is a house and techno artist based in Germany, tracked on soundcheck, with 102 sets logged across Amsterdam, Barcelona, Berlin and Bristol and 32 more. Often billed alongside Tiga, Erol Alkan and VTSS. Next up: Academy LA, Losangeles on Sat 19 Sept.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ Perel is a house and techno artist based in Germany, tracked on soundcheck, with
 | Sat, 19 Sept 2026 | Academy LA | Los Angeles |
 | Sun, 20 Sept 2026 | Elsewhere | New York City |
 | Sat, 31 Oct 2026 | Berghain / Panorama Bar / Säule | Berlin |
+| Fri, 18 Dec 2026 | 104 CENTQUATRE | Paris |
 
 ## Recently played
 
@@ -25,6 +26,6 @@ Perel is a house and techno artist based in Germany, tracked on soundcheck, with
 
 ## Shares bills with
 
-Erol Alkan, Tiga, VTSS
+Tiga, Erol Alkan, VTSS
 
-*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/perel-de/)*
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/perel-de/)*

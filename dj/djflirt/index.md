@@ -1,6 +1,6 @@
 # DJ Flirt
 
-DJ Flirt is a House and Club artist with 2 upcoming club dates listed on soundcheck as of Fri, 18 Sept 2026, next at Homage Brewing, Los Angeles on Sat, 19 Sept 2026.
+DJ Flirt is a House and Club artist with 2 upcoming club dates listed on soundcheck as of Sat, 19 Sept 2026, next at Homage Brewing, Los Angeles on Sat, 19 Sept 2026.
 
 DJ Flirt is a house and club artist tracked on soundcheck, with 19 sets logged across Losangeles, Madrid, Mexicocity and Newyorkcity and 1 more. Often billed alongside Damar Davis, 88. (1) and Adult Hits. Next up: Homage Brewing, Losangeles on Sat 19 Sept.
 
@@ -26,4 +26,4 @@ DJ Flirt is a house and club artist tracked on soundcheck, with 19 sets logged a
 
 Damar Davis, 88. (1), Adult Hits
 
-*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djflirt/)*
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djflirt/)*

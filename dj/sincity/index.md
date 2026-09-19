@@ -1,6 +1,6 @@
 # Sin City
 
-Sin City is a Electronica and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 18 Sept 2026, next at Paradise Grapevine Winery, Toronto on Sat, 19 Sept 2026.
+Sin City is a Electronica and House artist with 2 upcoming club dates listed on soundcheck as of Sat, 19 Sept 2026, next at Paradise Grapevine Winery, Toronto on Sat, 19 Sept 2026.
 
 Sin City is an electronica and house artist tracked on soundcheck, with 4 sets logged across Toronto. Often billed alongside Alister Johnson, Vjollca and Chiara. Next up: Paradise Grapevine Winery, Toronto on Sat 19 Sept.
 
@@ -20,4 +20,4 @@ Sin City is an electronica and house artist tracked on soundcheck, with 4 sets l
 
 Alister Johnson, Vjollca, Chiara
 
-*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sincity/)*
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sincity/)*

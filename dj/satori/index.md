@@ -1,14 +1,13 @@
 # Satori
 
-Satori is a House and Deep House artist with 7 upcoming club dates listed on soundcheck as of Fri, 18 Sept 2026, next at Ace Hotel & Swim Club Athens, Athens on Fri, 18 Sept 2026.
+Satori is a House and Deep House artist with 6 upcoming club dates listed on soundcheck as of Sat, 19 Sept 2026, next at Zumana Bali, Bali on Sat, 26 Sept 2026.
 
-Satori is a house and deep house artist based in Netherlands, tracked on soundcheck, with 82 sets logged across Amsterdam, Antwerp, Athens and Bali and 27 more. Often billed alongside Sorä, Cera Khin and Dixon. Next up: Ace Hotel & Swim Club Athens, Athens on Fri 18 Sept.
+Satori is a house and deep house artist based in Netherlands, tracked on soundcheck, with 82 sets logged across Amsterdam, Antwerp, Athens and Bali and 27 more. Often billed alongside Sorä, Cera Khin and Dixon. Next up: Zumana Bali, Bali on Sat 26 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 18 Sept 2026 | Ace Hotel & Swim Club Athens | Athens |
 | Sat, 26 Sept 2026 | Zumana Bali | Bali |
 | Mon, 5 Oct 2026 | Hï Ibiza | Ibiza |
 | Fri, 30 Oct 2026 | Public Works | San Francisco/Oakland |
@@ -18,6 +17,7 @@ Satori is a house and deep house artist based in Netherlands, tracked on soundch
 
 ## Recently played
 
+- Ace Hotel & Swim Club Athens, Athens — Fri, 18 Sept 2026
 - Scorpios, Mykonos — Thu, 17 Sept 2026
 - Cova Santa, Ibiza — Wed, 2 Sept 2026
 - Scorpios, Mykonos — Thu, 13 Aug 2026
@@ -25,10 +25,9 @@ Satori is a house and deep house artist based in Netherlands, tracked on soundch
 - 528 Ibiza, Ibiza — Wed, 8 Jul 2026
 - Next Clubbing, Madrid — Tue, 2 Jun 2026
 - Teatro Pereyra, Ibiza — Fri, 22 May 2026
-- YoYo - Palais de Tokyo, Paris — Thu, 30 Apr 2026
 
 ## Shares bills with
 
 Sorä, Cera Khin, Dixon
 
-*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/satori/)*
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/satori/)*

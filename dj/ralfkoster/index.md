@@ -1,6 +1,6 @@
 # Ralf Köster
 
-Ralf Köster is a electronic artist with 1 upcoming club date listed on soundcheck as of Fri, 18 Sept 2026, next at Golden Pudel Club, Hamburg on Sun, 20 Sept 2026.
+Ralf Köster is a electronic artist with 1 upcoming club date listed on soundcheck as of Sat, 19 Sept 2026, next at Golden Pudel Club, Hamburg on Sun, 20 Sept 2026.
 
 Ralf Köster is an electronic artist tracked on soundcheck, with 6 sets logged across Hamburg. Often billed alongside Alex Wilcox, Finona Rider and Higher Intelligence Agency. Next up: Golden Pudel Club, Hamburg on Sun 20 Sept.
 
@@ -22,4 +22,4 @@ Ralf Köster is an electronic artist tracked on soundcheck, with 6 sets logged a
 
 Alex Wilcox, Finona Rider, Higher Intelligence Agency
 
-*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ralfkoster/)*
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ralfkoster/)*

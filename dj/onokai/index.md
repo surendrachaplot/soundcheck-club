@@ -1,6 +1,6 @@
 # Onokai
 
-Onokai is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Fri, 18 Sept 2026, next at THE MAGICK BAR, Rome on Sun, 20 Sept 2026.
+Onokai is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Sat, 19 Sept 2026, next at THE MAGICK BAR, Rome on Sun, 20 Sept 2026.
 
 Onokai is a techno and electro artist based in Italy, tracked on soundcheck, with 17 sets logged across London and Rome. Often billed alongside Fabrizio Sala, Ancut and DANAE. Next up: THE MAGICK BAR, Rome on Sun 20 Sept.
 
@@ -25,4 +25,4 @@ Onokai is a techno and electro artist based in Italy, tracked on soundcheck, wit
 
 Fabrizio Sala, Ancut, DANAE
 
-*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/onokai/)*
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/onokai/)*

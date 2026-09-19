@@ -1,14 +1,13 @@
 # Oven Club
 
-Oven Club is a music venue in Valencia with 8 upcoming nights listed on soundcheck as of Fri, 18 Sept 2026; the next is "BEQA + IKAKO + Caballeri/ Bar: Discos Oldies Dj ́s" on Fri, 18 Sept 2026.
+Oven Club is a music venue in Valencia with 7 upcoming nights listed on soundcheck as of Sat, 19 Sept 2026; the next is "Nekoza Records invites: DJ Senc" on Sat, 19 Sept 2026.
 
-Oven Club is a music venue in Valencia listed on soundcheck. 8 upcoming nights, with line-ups including BAR (DE), BEQA, blan.trrs and Blanch and 2 more. Browse upcoming dates, start times and who's playing. Gran Vía Germanías 31 Valencia.
+Oven Club is a music venue in Valencia listed on soundcheck. 7 upcoming nights, with line-ups including BAR (DE), blan.trrs, Blanch and Cross and 2 more. Browse upcoming dates, start times and who's playing. Gran Vía Germanías 31 Valencia.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 18 Sept 2026 | BEQA + IKAKO + Caballeri/ Bar: Discos Oldies Dj ́s | BEQA, IKAKO |
 | Sat, 19 Sept 2026 | Nekoza Records invites: DJ Senc | DJ Senc, Tommaso Pizzelli |
 | Sat, 19 Sept 2026 | Nekoza Records invites: DJ Senc + Tommaso Pizzelli / Bar: Delabasa & Sr. Sam (Roof, showcase) | DJ Senc, Tommaso Pizzelli |
 | Wed, 23 Sept 2026 | Soumz b2b Will Mellor | Will Mellor |
@@ -21,4 +20,4 @@ Oven Club is a music venue in Valencia listed on soundcheck. 8 upcoming nights, 
 
 Gran Vía Germanías 31 Valencia, Valencia
 
-*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/valencia/club/oven-club/)*
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/valencia/club/oven-club/)*

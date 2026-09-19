@@ -1,6 +1,6 @@
 # Ele Luz
 
-Ele Luz is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Fri, 18 Sept 2026, next at FLUCC, Vienna on Fri, 2 Oct 2026.
+Ele Luz is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Sat, 19 Sept 2026, next at FLUCC, Vienna on Fri, 2 Oct 2026.
 
 Ele Luz is a techno and house artist tracked on soundcheck, with 123 sets logged across Berlin, Cologne, Copenhagen and Frankfurt and 7 more. Often billed alongside Horst Haller, Maurice Mino and Leon Licht. Next up: FLUCC, Vienna on Fri 2 Oct.
 
@@ -27,4 +27,4 @@ Ele Luz is a techno and house artist tracked on soundcheck, with 123 sets logged
 
 Horst Haller, Maurice Mino, Leon Licht
 
-*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/eleluz/)*
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/eleluz/)*

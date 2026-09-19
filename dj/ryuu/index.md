@@ -1,6 +1,6 @@
 # RYUU
 
-RYUU is a Bass and Hip-Hop artist with 2 upcoming club dates listed on soundcheck as of Fri, 18 Sept 2026, next at Enter Shibuya, Tokyo on Sat, 19 Sept 2026.
+RYUU is a Bass and Hip-Hop artist with 2 upcoming club dates listed on soundcheck as of Sat, 19 Sept 2026, next at Enter Shibuya, Tokyo on Sat, 19 Sept 2026.
 
 RYUU is a bass and hip-hop artist based in Georgia, tracked on soundcheck, with 15 sets logged across Tokyo. Often billed alongside Astro Boy, MoEPiKA and ACKERMAN. Next up: Enter Shibuya, Tokyo on Sat 19 Sept.
 
@@ -26,4 +26,4 @@ RYUU is a bass and hip-hop artist based in Georgia, tracked on soundcheck, with 
 
 Astro Boy, MoEPiKA, ACKERMAN
 
-*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ryuu/)*
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ryuu/)*

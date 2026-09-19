@@ -1,6 +1,6 @@
 # Julian Haffner
 
-Julian Haffner is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Fri, 18 Sept 2026, next at Die Rakete, Nürnberg on Sat, 19 Sept 2026.
+Julian Haffner is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Sat, 19 Sept 2026, next at Die Rakete, Nürnberg on Sat, 19 Sept 2026.
 
 Julian Haffner is a techno and tech house artist tracked on soundcheck, with 31 sets logged across Munich and Nurnberg. Often billed alongside MILAN MILANO, Bernhard Groeger and Ray Okpara. Next up: Die Rakete, Nurnberg on Sat 19 Sept.
 
@@ -25,4 +25,4 @@ Julian Haffner is a techno and tech house artist tracked on soundcheck, with 31 
 
 MILAN MILANO, Bernhard Groeger, Ray Okpara
 
-*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/julianhaffner/)*
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/julianhaffner/)*

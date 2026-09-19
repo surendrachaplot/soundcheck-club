@@ -1,6 +1,6 @@
 # Acadana
 
-Acadana is a music venue in Hong Kong with 2 upcoming nights listed on soundcheck as of Fri, 18 Sept 2026; the next is "DROPSOUND 3RD ANNIVERSARY" on Sat, 3 Oct 2026.
+Acadana is a music venue in Hong Kong with 2 upcoming nights listed on soundcheck as of Sat, 19 Sept 2026; the next is "DROPSOUND 3RD ANNIVERSARY" on Sat, 3 Oct 2026.
 
 Acadana is a music venue in Hongkong listed on soundcheck. 2 upcoming nights, with line-ups including ADRIANNA.C, Charlieowo, Dan-neo and Francis_kkk and 2 more. Browse upcoming dates, start times and who's playing. B22, B23, Blk B, New Territories, Hong Kong.
 
@@ -15,4 +15,4 @@ Acadana is a music venue in Hongkong listed on soundcheck. 2 upcoming nights, wi
 
 B22, B23, Blk B, New Territories, Hong Kong, Hong Kong
 
-*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/hongkong/club/acadana/)*
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/hongkong/club/acadana/)*

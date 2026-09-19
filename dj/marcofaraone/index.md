@@ -1,8 +1,8 @@
 # Marco Faraone
 
-Marco Faraone is a Techno and Tech House artist with 3 upcoming club dates listed on soundcheck as of Fri, 18 Sept 2026, next at fabric, London on Sat, 19 Sept 2026.
+Marco Faraone is a Techno and Tech House artist with 4 upcoming club dates listed on soundcheck as of Sat, 19 Sept 2026, next at fabric, London on Sat, 19 Sept 2026.
 
-Marco Faraone is a techno and tech house artist tracked on soundcheck, with 136 sets logged across Amsterdam, Antwerp, Austin and Barcelona and 32 more. Often billed alongside Mar-T, Luca Donzelli and CAAL. Next up: fabric, London on Sat 19 Sept.
+Marco Faraone is a techno and tech house artist tracked on soundcheck, with 137 sets logged across Amsterdam, Antwerp, Austin and Barcelona and 32 more. Often billed alongside Mar-T, Luca Donzelli and CAAL. Next up: fabric, London on Sat 19 Sept.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Marco Faraone is a techno and tech house artist tracked on soundcheck, with 136 
 | --- | --- | --- |
 | Sat, 19 Sept 2026 | fabric | London |
 | Sun, 20 Sept 2026 | Amnesia Ibiza | Ibiza |
+| Fri, 25 Sept 2026 | Baby Club | Marseille |
 | Tue, 29 Sept 2026 | Amnesia Ibiza | Ibiza |
 
 ## Recently played
@@ -27,4 +28,4 @@ Marco Faraone is a techno and tech house artist tracked on soundcheck, with 136 
 
 Mar-T, Luca Donzelli, CAAL
 
-*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/marcofaraone/)*
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/marcofaraone/)*

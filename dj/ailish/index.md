@@ -1,18 +1,18 @@
 # Ailish
 
-Ailish is a Experimental and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 18 Sept 2026, next at The Glove That Fits, London on Fri, 18 Sept 2026.
+Ailish is a Experimental and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 19 Sept 2026, next at Spanners, London on Fri, 16 Oct 2026.
 
-Ailish is an experimental and techno artist tracked on soundcheck, with 16 sets logged across Glasgow and London. Often billed alongside Allecto, dj peanut and ex.sses. Next up: The Glove That Fits, London on Fri 18 Sept.
+Ailish is an experimental and techno artist tracked on soundcheck, with 16 sets logged across Glasgow and London. Often billed alongside Allecto, dj peanut and ex.sses. Next up: Spanners, London on Fri 16 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 18 Sept 2026 | The Glove That Fits | London |
 | Fri, 16 Oct 2026 | Spanners | London |
 
 ## Recently played
 
+- The Glove That Fits, London — Fri, 18 Sept 2026
 - Spanners, London — Thu, 18 Jun 2026
 - Algha's Plantroom, London — Sat, 28 Mar 2026
 - Deptford Junction, London — Sat, 1 Nov 2025
@@ -20,10 +20,9 @@ Ailish is an experimental and techno artist tracked on soundcheck, with 16 sets 
 - TBA - Enfield, London — Sat, 12 Jul 2025
 - Avalon Cafe Bermondsey, London — Fri, 25 Apr 2025
 - SET Vault, London — Sat, 31 Aug 2024
-- TBA - Portico Studios, 6 Beadman St, West Norwood SE27 0DN, London — Sat, 31 Aug 2024
 
 ## Shares bills with
 
 Allecto, dj peanut, ex.sses
 
-*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ailish/)*
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ailish/)*

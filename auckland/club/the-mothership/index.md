@@ -1,14 +1,13 @@
 # The Mothership
 
-The Mothership is a music venue in Auckland with 8 upcoming nights listed on soundcheck as of Fri, 18 Sept 2026; the next is "EDDIE RICHARDS (UK) w/ Isaac Denny & More" on Fri, 18 Sept 2026.
+The Mothership is a music venue in Auckland with 7 upcoming nights listed on soundcheck as of Sat, 19 Sept 2026; the next is "Timmy Regisford" on Sat, 19 Sept 2026.
 
-The Mothership is a music venue in Auckland listed on soundcheck. 8 upcoming nights, with line-ups including Cam Harris, Eddie Richards, Gorge and Isaac Denny and 2 more. Browse upcoming dates, start times and who's playing. 7 Shortland Street, Auckland CBD, Auckland 1010, New Zealand.
+The Mothership is a music venue in Auckland listed on soundcheck. 7 upcoming nights, with line-ups including Cam Harris, Gorge, Mariano Mellino and Mha iri and 2 more. Browse upcoming dates, start times and who's playing. 7 Shortland Street, Auckland CBD, Auckland 1010, New Zealand.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 18 Sept 2026 | EDDIE RICHARDS (UK) w/ Isaac Denny & More | Eddie Richards, Isaac Denny |
 | Sat, 19 Sept 2026 | Timmy Regisford | Timmy Regisford |
 | Fri, 25 Sept 2026 | Sunset New Zealand presents: Mha Iri + Matty Ralph / Auckland | Mha iri |
 | Sat, 26 Sept 2026 | Collude & Mothership present: Gorge | Cam Harris, Gorge |
@@ -21,4 +20,4 @@ The Mothership is a music venue in Auckland listed on soundcheck. 8 upcoming nig
 
 7 Shortland Street, Auckland CBD, Auckland 1010, New Zealand, Auckland
 
-*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/auckland/club/the-mothership/)*
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/auckland/club/the-mothership/)*

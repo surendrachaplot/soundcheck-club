@@ -1,6 +1,6 @@
 # PIECE OF CAKE Vol.8 at West Harlem
 
-PIECE OF CAKE Vol.8 at West Harlem on Sat 19 Sept, Kyoto. 2 acts on the bill: droove and ntank. House and Afrobeats. Preview the line-up and save it on soundcheck.
+PIECE OF CAKE Vol.8 at West Harlem on Sat 19 Sept, Kyoto. 3 acts on the bill: Andrew (TREKKIE TRAX), droove and ntank. House and Afrobeats. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ PIECE OF CAKE Vol.8 at West Harlem on Sat 19 Sept, Kyoto. 2 acts on the bill: dr
 
 ## Line-up
 
+- Andrew (TREKKIE TRAX)
 - droove
 - ntank
 

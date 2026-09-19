@@ -1,14 +1,13 @@
 # Walker & Royce
 
-Walker & Royce is a House and Tech House artist with 5 upcoming club dates listed on soundcheck as of Fri, 18 Sept 2026, next at Academy LA, Los Angeles on Fri, 18 Sept 2026.
+Walker & Royce is a House and Tech House artist with 4 upcoming club dates listed on soundcheck as of Sat, 19 Sept 2026, next at Glen Helen Regional Park, Los Angeles on Sat, 19 Sept 2026.
 
-Walker & Royce are a house and tech house duo tracked on soundcheck, with 81 sets logged across Austin, Boston, Chicago and Detroit and 13 more. Often billed alongside Vnssa, Kyle Watson and Sara Landry. Next up: Academy LA, Losangeles on Fri 18 Sept.
+Walker & Royce are a house and tech house duo tracked on soundcheck, with 81 sets logged across Austin, Boston, Chicago and Detroit and 13 more. Often billed alongside Vnssa, Kyle Watson and Sara Landry. Next up: Glen Helen Regional Park, Losangeles on Sat 19 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 18 Sept 2026 | Academy LA | Los Angeles |
 | Sat, 19 Sept 2026 | Glen Helen Regional Park | Los Angeles |
 | Fri, 16 Oct 2026 | Royale | Boston |
 | Sat, 17 Oct 2026 | Lincoln Factory | Detroit |
@@ -16,6 +15,7 @@ Walker & Royce are a house and tech house duo tracked on soundcheck, with 81 set
 
 ## Recently played
 
+- Academy LA, Los Angeles — Fri, 18 Sept 2026
 - BERHTA, Washington DC — Fri, 11 Sept 2026
 - Union Park, Chicago — Fri, 4 Sept 2026
 - Beach House San Diego, San Diego — Sun, 26 Jul 2026
@@ -23,10 +23,9 @@ Walker & Royce are a house and tech house duo tracked on soundcheck, with 81 set
 - The Concourse Project, Austin — Sat, 13 Jun 2026
 - BK Backyard, New York City — Fri, 12 Jun 2026
 - Bauhaus, Houston — Fri, 30 Jan 2026
-- Academy LA, Los Angeles — Sat, 24 Jan 2026
 
 ## Shares bills with
 
 Vnssa, Kyle Watson, Sara Landry
 
-*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/walkerroyce/)*
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/walkerroyce/)*

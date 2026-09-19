@@ -1,6 +1,6 @@
 # Omar Souleyman
 
-Omar Souleyman is a House and Electro artist with 1 upcoming club date listed on soundcheck as of Fri, 18 Sept 2026, next at Paavli Kultuurivabrik, Tallinn on Sun, 27 Sept 2026.
+Omar Souleyman is a House and Electro artist with 1 upcoming club date listed on soundcheck as of Sat, 19 Sept 2026, next at Paavli Kultuurivabrik, Tallinn on Sun, 27 Sept 2026.
 
 Omar Souleyman is a house and electro artist tracked on soundcheck, with 29 sets logged across Athens, Bali, Barcelona and Brussels and 15 more. Often billed alongside Ben UFO, Ehua and Folamour. Next up: Paavli Kultuurivabrik, Tallinn on Sun 27 Sept.
 
@@ -25,4 +25,4 @@ Omar Souleyman is a house and electro artist tracked on soundcheck, with 29 sets
 
 Ben UFO, Ehua, Folamour
 
-*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/omarsouleyman/)*
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/omarsouleyman/)*

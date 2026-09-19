@@ -1,8 +1,8 @@
 # Chunky
 
-Chunky is a Garage and House artist with 6 upcoming club dates listed on soundcheck as of Fri, 18 Sept 2026, next at The White Hotel, Manchester on Sun, 20 Sept 2026.
+Chunky is a Garage and House artist with 7 upcoming club dates listed on soundcheck as of Sat, 19 Sept 2026, next at The White Hotel, Manchester on Sun, 20 Sept 2026.
 
-Chunky is a garage and house artist tracked on soundcheck, with 103 sets logged across Amsterdam, Antwerp, Barcelona and Brisbane and 10 more. Often billed alongside Rich Reason, LARISHKA (UK) and Tom Boogizm. Next up: The White Hotel, Manchester on Sun 20 Sept.
+Chunky is a garage and house artist tracked on soundcheck, with 104 sets logged across Amsterdam, Antwerp, Barcelona and Brisbane and 10 more. Often billed alongside Rich Reason, LARISHKA (UK) and Tom Boogizm. Next up: The White Hotel, Manchester on Sun 20 Sept.
 
 ## Upcoming shows
 
@@ -12,6 +12,7 @@ Chunky is a garage and house artist tracked on soundcheck, with 103 sets logged 
 | Mon, 21 Sept 2026 | Hidden | Manchester |
 | Sat, 26 Sept 2026 | The Refuge | Manchester |
 | Sat, 3 Oct 2026 | The Golden Lion | Manchester |
+| Thu, 8 Oct 2026 | renae | Manchester |
 | Fri, 23 Oct 2026 | Şahika | Istanbul |
 | Sat, 24 Oct 2026 | Club Up | Amsterdam |
 
@@ -30,4 +31,4 @@ Chunky is a garage and house artist tracked on soundcheck, with 103 sets logged 
 
 Rich Reason, LARISHKA (UK), Tom Boogizm
 
-*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/chunky/)*
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/chunky/)*

@@ -1,14 +1,13 @@
 # Podlasie Club
 
-Podlasie Club is a music venue in Chicago with 11 upcoming nights listed on soundcheck as of Fri, 18 Sept 2026; the next is "DAYBREAK" on Fri, 18 Sept 2026.
+Podlasie Club is a music venue in Chicago with 10 upcoming nights listed on soundcheck as of Sat, 19 Sept 2026; the next is "Mouse in a Flower" on Sat, 19 Sept 2026.
 
-Podlasie Club is a music venue in Chicago listed on soundcheck. 11 upcoming nights, with line-ups including avas, Bok Bok, Brendan Lemkin and Carré and 2 more. Browse upcoming dates, start times and who's playing. 2918 N Central Park Ave, Avondale, Chicago, IL, 60618.
+Podlasie Club is a music venue in Chicago listed on soundcheck. 10 upcoming nights, with line-ups including avas, Bok Bok, Brendan Lemkin and Carré and 2 more. Browse upcoming dates, start times and who's playing. 2918 N Central Park Ave, Avondale, Chicago, IL, 60618.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 18 Sept 2026 | DAYBREAK | Casper McFadden, DJ Paypal, Loqum |
 | Sat, 19 Sept 2026 | Mouse in a Flower | Fergus Jones, My Flower, k.oz |
 | Thu, 24 Sept 2026 | MOTIONSICK PRESENTS: TRANSPORT | KIMBÄ |
 | Fri, 25 Sept 2026 | STRICTLY 90's | Czboogie, Gant-Man, John Simmons |
@@ -18,9 +17,10 @@ Podlasie Club is a music venue in Chicago listed on soundcheck. 11 upcoming nigh
 | Fri, 2 Oct 2026 | Rrose, frail808, CEJ | CEJ, Rrose, frail808 |
 | Sat, 3 Oct 2026 | ASHAWO |  |
 | Sat, 10 Oct 2026 | Flow State with Carré and Hot Take | Carré, Hot Take |
+| Fri, 16 Oct 2026 | Club Initiative | Bok Bok, Jace Inman, avas |
 
 ## Address
 
 2918 N Central Park Ave, Avondale, Chicago, IL, 60618, Chicago
 
-*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/chicago/club/podlasie-club/)*
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/chicago/club/podlasie-club/)*

@@ -1,6 +1,6 @@
 # MYTHTAPES
 
-MYTHTAPES is a Deep House and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 18 Sept 2026, next at Whitehart Bar, Melbourne on Sat, 19 Sept 2026.
+MYTHTAPES is a Deep House and House artist with 2 upcoming club dates listed on soundcheck as of Sat, 19 Sept 2026, next at Whitehart Bar, Melbourne on Sat, 19 Sept 2026.
 
 MYTHTAPES is a deep house and house artist tracked on soundcheck, with 19 sets logged across Melbourne. Often billed alongside Brother Julian, pHinioUS and Aoi Kurihara. Next up: Whitehart Bar, Melbourne on Sat 19 Sept.
 
@@ -26,4 +26,4 @@ MYTHTAPES is a deep house and house artist tracked on soundcheck, with 19 sets l
 
 Brother Julian, pHinioUS, Aoi Kurihara
 
-*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mythtapes/)*
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mythtapes/)*

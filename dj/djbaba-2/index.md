@@ -1,6 +1,6 @@
 # Dj Babatr
 
-Dj Babatr is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 18 Sept 2026, next at Maassilo, Rotterdam on Sat, 14 Nov 2026.
+Dj Babatr is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 19 Sept 2026, next at Maassilo, Rotterdam on Sat, 14 Nov 2026.
 
 Dj Babatr is a techno and house artist tracked on soundcheck, with 101 sets logged across Amsterdam, Barcelona, Berlin and Brussels and 21 more. Often billed alongside Ruiseñor, Dj Deep RH and Blawan. Next up: Maassilo, Rotterdam on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ Dj Babatr is a techno and house artist tracked on soundcheck, with 101 sets logg
 
 Ruiseñor, Dj Deep RH, Blawan
 
-*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djbaba-2/)*
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djbaba-2/)*

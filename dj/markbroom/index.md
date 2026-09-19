@@ -1,20 +1,20 @@
 # Mark Broom
 
-Mark Broom is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Fri, 18 Sept 2026, next at CLUB RAUM, Amsterdam on Fri, 18 Sept 2026.
+Mark Broom is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Sat, 19 Sept 2026, next at Decadance, Ghent on Sat, 19 Sept 2026.
 
-Mark Broom is a techno and house artist tracked on soundcheck, with 110 sets logged across Amsterdam, Austin, Bali and Barcelona and 46 more. Often billed alongside Autechre, CESAR ALMENA and Nuke. Next up: CLUB RAUM, Amsterdam on Fri 18 Sept.
+Mark Broom is a techno and house artist tracked on soundcheck, with 110 sets logged across Amsterdam, Austin, Bali and Barcelona and 46 more. Often billed alongside Autechre, CESAR ALMENA and Nuke. Next up: Decadance, Ghent on Sat 19 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 18 Sept 2026 | CLUB RAUM | Amsterdam |
 | Sat, 19 Sept 2026 | Decadance | Ghent |
 | Fri, 30 Oct 2026 | public records | New York City |
 | Fri, 11 Dec 2026 | Quarters | Brighton |
 
 ## Recently played
 
+- CLUB RAUM, Amsterdam — Fri, 18 Sept 2026
 - The Old Blue Last, London — Sat, 12 Sept 2026
 - RSO.BERLIN, Berlin — Fri, 17 Jul 2026
 - Fabrik, Madrid — Sat, 11 Jul 2026
@@ -22,10 +22,9 @@ Mark Broom is a techno and house artist tracked on soundcheck, with 110 sets log
 - TBA - Strasbourg various venues, Strasbourg — Thu, 18 Jun 2026
 - Flava Beach, Naples — Tue, 2 Jun 2026
 - Flava Beach, Naples — Tue, 2 Jun 2026
-- Mia Mao, Paris — Sat, 30 May 2026
 
 ## Shares bills with
 
 Autechre, CESAR ALMENA, Nuke
 
-*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/markbroom/)*
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/markbroom/)*

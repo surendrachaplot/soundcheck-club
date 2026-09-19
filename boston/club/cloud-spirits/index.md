@@ -1,6 +1,6 @@
 # Cloud & Spirits
 
-Cloud & Spirits is a music venue in Boston with 2 upcoming nights listed on soundcheck as of Fri, 18 Sept 2026; the next is ".wavPOOL: AMBZ, Moe Wavy & more" on Sat, 19 Sept 2026.
+Cloud & Spirits is a music venue in Boston with 2 upcoming nights listed on soundcheck as of Sat, 19 Sept 2026; the next is ".wavPOOL: AMBZ, Moe Wavy & more" on Sat, 19 Sept 2026.
 
 Cloud & Spirits is a music venue in Boston listed on soundcheck. 2 upcoming nights, with line-ups including DJ Bookworm. Browse upcoming dates, start times and who's playing. 795 Main St, Cambridge, MA 02139.
 
@@ -15,4 +15,4 @@ Cloud & Spirits is a music venue in Boston listed on soundcheck. 2 upcoming nigh
 
 795 Main St, Cambridge, MA 02139, Boston
 
-*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/boston/club/cloud-spirits/)*
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/boston/club/cloud-spirits/)*

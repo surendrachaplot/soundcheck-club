@@ -1,6 +1,6 @@
 # Gersound
 
-Gersound is a House and Afro House artist with 1 upcoming club date listed on soundcheck as of Fri, 18 Sept 2026, next at Sunseabar Beach Club, Barcelona on Fri, 25 Sept 2026.
+Gersound is a House and Afro House artist with 1 upcoming club date listed on soundcheck as of Sat, 19 Sept 2026, next at Sunseabar Beach Club, Barcelona on Fri, 25 Sept 2026.
 
 Gersound is a house and afro house artist based in Spain, tracked on soundcheck, with 25 sets logged across Barcelona and Ibiza. Often billed alongside Lancaster, Derovio and Adrian Grösser. Next up: Sunseabar Beach Club, Barcelona on Fri 25 Sept.
 
@@ -25,4 +25,4 @@ Gersound is a house and afro house artist based in Spain, tracked on soundcheck,
 
 Lancaster, Derovio, Adrian Grösser
 
-*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/gersound/)*
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/gersound/)*

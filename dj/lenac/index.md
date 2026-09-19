@@ -1,6 +1,6 @@
 # Léna C
 
-Léna C is a Disco and House artist with 1 upcoming club date listed on soundcheck as of Fri, 18 Sept 2026, next at renae, Manchester on Sat, 19 Sept 2026.
+Léna C is a Disco and House artist with 1 upcoming club date listed on soundcheck as of Sat, 19 Sept 2026, next at renae, Manchester on Sat, 19 Sept 2026.
 
 Léna C is a disco and house artist tracked on soundcheck, with 23 sets logged across Liverpool, London, Manchester and Sheffield. Often billed alongside JOSH FB, Joi La Frique and Nonna Fab. Next up: renae, Manchester on Sat 19 Sept.
 
@@ -25,4 +25,4 @@ Léna C is a disco and house artist tracked on soundcheck, with 23 sets logged a
 
 JOSH FB, Joi La Frique, Nonna Fab
 
-*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lenac/)*
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lenac/)*

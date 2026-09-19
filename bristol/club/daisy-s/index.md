@@ -1,19 +1,17 @@
 # Daisy's
 
-Daisy's is a music venue in Bristol with 3 upcoming nights listed on soundcheck as of Fri, 18 Sept 2026; the next is "Sweet Escape - Every Friday" on Fri, 18 Sept 2026.
+Daisy's is a music venue in Bristol with 1 upcoming night listed on soundcheck as of Sat, 19 Sept 2026; the next is "Sweet Escape - Every Friday" on Fri, 25 Sept 2026.
 
-Daisy's is a music venue in Bristol listed on soundcheck. 3 upcoming nights. Browse upcoming dates, start times and who's playing. 38-40 Triangle W, Clifton, Bristol BS8 1ER.
+Daisy's is a music venue in Bristol listed on soundcheck. 1 upcoming night. Browse upcoming dates, start times and who's playing. 38-40 Triangle W, Clifton, Bristol BS8 1ER.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 18 Sept 2026 | Sweet Escape - Every Friday |  |
-| Fri, 18 Sept 2026 | UWE Bristol Official Freshers - Sweet Escape |  |
 | Fri, 25 Sept 2026 | Sweet Escape - Every Friday |  |
 
 ## Address
 
 38-40 Triangle W, Clifton, Bristol BS8 1ER, Bristol
 
-*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/bristol/club/daisy-s/)*
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/bristol/club/daisy-s/)*

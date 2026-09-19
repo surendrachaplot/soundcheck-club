@@ -1,20 +1,20 @@
 # Daft Funk Live
 
-Daft Funk Live is a Electro and House artist with 4 upcoming club dates listed on soundcheck as of Fri, 18 Sept 2026, next at O2 Academy Bristol, Bristol on Fri, 18 Sept 2026.
+Daft Funk Live is a Electro and House artist with 3 upcoming club dates listed on soundcheck as of Sat, 19 Sept 2026, next at Melkweg, Amsterdam on Wed, 30 Sept 2026.
 
-Daft Funk Live is an electro and house artist based in United Kingdom, tracked on soundcheck, with 34 sets logged across Amsterdam, Birmingham, Brighton and Bristol and 14 more. Often billed alongside Andy Mac, Armand Van Helden and Ben Santiago. Next up: O2 Academy Bristol, Bristol on Fri 18 Sept.
+Daft Funk Live is an electro and house artist based in United Kingdom, tracked on soundcheck, with 34 sets logged across Amsterdam, Birmingham, Brighton and Bristol and 14 more. Often billed alongside Andy Mac, Armand Van Helden and Ben Santiago. Next up: Melkweg, Amsterdam on Wed 30 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 18 Sept 2026 | O2 Academy Bristol | Bristol |
 | Wed, 30 Sept 2026 | Melkweg | Amsterdam |
 | Fri, 2 Oct 2026 | TivoliVredenburg | Utrecht |
 | Thu, 15 Oct 2026 | TBA - Börsen | Stockholm |
 
 ## Recently played
 
+- O2 Academy Bristol, Bristol — Fri, 18 Sept 2026
 - Handelsbeurs Concertzaal, Ghent — Sat, 12 Sept 2026
 - O2 Academy Birmingham, Birmingham — Sat, 9 May 2026
 - O2 Academy Liverpool, Liverpool — Sat, 25 Apr 2026
@@ -22,10 +22,9 @@ Daft Funk Live is an electro and house artist based in United Kingdom, tracked o
 - Tramshed, Cardiff — Fri, 27 Mar 2026
 - Vulkan Arena, Oslo — Sat, 21 Mar 2026
 - O2 City Hall Newcastle, Newcastle — Sat, 3 Jan 2026
-- The Ferry, Glasgow — Sun, 14 Sept 2025
 
 ## Shares bills with
 
 Andy Mac, Armand Van Helden, Ben Santiago
 
-*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/daftfunklive/)*
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/daftfunklive/)*

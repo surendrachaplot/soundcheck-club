@@ -1,6 +1,6 @@
 # ROT
 
-ROT is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Fri, 18 Sept 2026, next at TBA - Info in Telegram, Berlin on Sat, 19 Sept 2026.
+ROT is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Sat, 19 Sept 2026, next at TBA - Info in Telegram, Berlin on Sat, 19 Sept 2026.
 
 ROT is a techno and industrial artist tracked on soundcheck, with 17 sets logged across Berlin, Budapest, Leipzig and London and 1 more. Often billed alongside And/Or, CRB and Cry Later. Next up: TBA - Info in Telegram, Berlin on Sat 19 Sept.
 
@@ -25,4 +25,4 @@ ROT is a techno and industrial artist tracked on soundcheck, with 17 sets logged
 
 And/Or, CRB, Cry Later
 
-*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/rot/)*
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/rot/)*

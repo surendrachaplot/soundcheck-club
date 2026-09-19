@@ -1,6 +1,6 @@
 # Mejia
 
-Mejia is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Fri, 18 Sept 2026, next at TBA - Greenhouse, Mexico City on Sun, 4 Oct 2026.
+Mejia is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Sat, 19 Sept 2026, next at TBA - Greenhouse, Mexico City on Sun, 4 Oct 2026.
 
 Mejia is a house and minimal artist based in Mexico, tracked on soundcheck, with 130 sets logged across Barcelona, Berlin, Lisbon and Losangeles and 3 more. Often billed alongside Bastard Love, Louie Fresco and Sami Masmoudi. Next up: TBA - Greenhouse, Mexicocity on Sun 4 Oct.
 
@@ -25,4 +25,4 @@ Mejia is a house and minimal artist based in Mexico, tracked on soundcheck, with
 
 Bastard Love, Louie Fresco, Sami Masmoudi
 
-*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mejia/)*
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mejia/)*

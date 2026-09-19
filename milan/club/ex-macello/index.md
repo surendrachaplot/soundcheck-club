@@ -1,6 +1,6 @@
 # Ex Macello
 
-Ex Macello is a music venue in Milan with 3 upcoming nights listed on soundcheck as of Fri, 18 Sept 2026; the next is "VISION open air MFW presents Michael Bibi, Dennis Cruz, Not From Here" on Thu, 24 Sept 2026.
+Ex Macello is a music venue in Milan with 3 upcoming nights listed on soundcheck as of Sat, 19 Sept 2026; the next is "VISION open air MFW presents Michael Bibi, Dennis Cruz, Not From Here" on Thu, 24 Sept 2026.
 
 Ex Macello is a music venue in Milan listed on soundcheck. 3 upcoming nights, with line-ups including Dennis Cruz, Fedele, Futuro Tropicale and HYLO (IT) and 2 more. Browse upcoming dates, start times and who's playing. Viale Molise, 62, 20137 Milano MI.
 
@@ -16,4 +16,4 @@ Ex Macello is a music venue in Milan listed on soundcheck. 3 upcoming nights, wi
 
 Viale Molise, 62, 20137 Milano MI, Milan
 
-*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/milan/club/ex-macello/)*
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/milan/club/ex-macello/)*

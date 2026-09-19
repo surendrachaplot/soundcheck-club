@@ -1,6 +1,6 @@
 # Loidis
 
-Loidis is a Techno and Minimal artist with 10 upcoming club dates listed on soundcheck as of Fri, 18 Sept 2026, next at Fort Mifflin, Philadelphia on Fri, 18 Sept 2026.
+Loidis is a Techno and Minimal artist with 10 upcoming club dates listed on soundcheck as of Sat, 19 Sept 2026, next at Fort Mifflin, Philadelphia on Fri, 18 Sept 2026.
 
 Loidis is a techno and minimal artist tracked on soundcheck, with 64 sets logged across Amsterdam, Austin, Barcelona and Berlin and 29 more. Often billed alongside Huerco S., Skee Mask and DJ Python. Next up: Fort Mifflin, Philadelphia on Fri 18 Sept.
 
@@ -21,6 +21,7 @@ Loidis is a techno and minimal artist tracked on soundcheck, with 64 sets logged
 
 ## Recently played
 
+- Fort Mifflin, Philadelphia — Fri, 18 Sept 2026
 - Signal, New York City — Fri, 4 Sept 2026
 - Berghain | Panorama Bar | Säule, Berlin — Sat, 15 Aug 2026
 - TBA - Secret Location, New York City — Sat, 1 Aug 2026
@@ -28,10 +29,9 @@ Loidis is a techno and minimal artist tracked on soundcheck, with 64 sets logged
 - Rukatunturi, Helsinki — Thu, 18 Jun 2026
 - Centro Cultural Conde Duque, Madrid — Fri, 12 Jun 2026
 - H0L0, New York City — Sat, 6 Jun 2026
-- Nowadays, New York City — Fri, 22 May 2026
 
 ## Shares bills with
 
 Huerco S., Skee Mask, DJ Python
 
-*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/loidis/)*
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/loidis/)*

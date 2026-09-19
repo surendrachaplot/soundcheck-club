@@ -1,6 +1,6 @@
 # Freddy Gardens
 
-Freddy Gardens is a House and Balearic artist with 2 upcoming club dates listed on soundcheck as of Fri, 18 Sept 2026, next at Revolver Upstairs, Melbourne on Sat, 19 Sept 2026.
+Freddy Gardens is a House and Balearic artist with 2 upcoming club dates listed on soundcheck as of Sat, 19 Sept 2026, next at Revolver Upstairs, Melbourne on Sat, 19 Sept 2026.
 
 Freddy Gardens is a house and balearic artist based in Australia, tracked on soundcheck, with 20 sets logged across Melbourne, Seoul and Sydney. Often billed alongside Princey, Proto-Exotica and Porcelain Prince. Next up: Revolver Upstairs, Melbourne on Sat 19 Sept.
 
@@ -26,4 +26,4 @@ Freddy Gardens is a house and balearic artist based in Australia, tracked on sou
 
 Princey, Proto-Exotica, Porcelain Prince
 
-*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/freddygardens/)*
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/freddygardens/)*

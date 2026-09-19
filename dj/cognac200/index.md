@@ -1,6 +1,6 @@
 # COGNAC200
 
-COGNAC200 is a House and Bass artist with 1 upcoming club date listed on soundcheck as of Fri, 18 Sept 2026, next at TBA - Baergarten, Berlin on Sun, 20 Sept 2026.
+COGNAC200 is a House and Bass artist with 1 upcoming club date listed on soundcheck as of Sat, 19 Sept 2026, next at TBA - Baergarten, Berlin on Sun, 20 Sept 2026.
 
 COGNAC200 is a house and bass artist based in Germany, tracked on soundcheck, with 6 sets logged across Berlin. Often billed alongside 2 Girls 1 Club, ANDI A. and Anselmus. Next up: TBA - Baergarten, Berlin on Sun 20 Sept.
 
@@ -22,4 +22,4 @@ COGNAC200 is a house and bass artist based in Germany, tracked on soundcheck, wi
 
 2 Girls 1 Club, ANDI A., Anselmus
 
-*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/cognac200/)*
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/cognac200/)*

@@ -1,18 +1,18 @@
 # cfds
 
-cfds is a Electro and EBM artist with 2 upcoming club dates listed on soundcheck as of Fri, 18 Sept 2026, next at La Station - Gare des Mines, Paris on Fri, 18 Sept 2026.
+cfds is a Electro and EBM artist with 1 upcoming club date listed on soundcheck as of Sat, 19 Sept 2026, next at Badaboum, Paris on Sat, 26 Sept 2026.
 
-cfds is an electro and ebm artist tracked on soundcheck, with 25 sets logged across Brussels and Paris. Often billed alongside Studerkel, Kalyug Citizen and NairLess. Next up: La Station - Gare des Mines, Paris on Fri 18 Sept.
+cfds is an electro and ebm artist tracked on soundcheck, with 25 sets logged across Brussels and Paris. Often billed alongside Studerkel, Kalyug Citizen and NairLess. Next up: Badaboum, Paris on Sat 26 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 18 Sept 2026 | La Station - Gare des Mines | Paris |
 | Sat, 26 Sept 2026 | Badaboum | Paris |
 
 ## Recently played
 
+- La Station - Gare des Mines, Paris — Fri, 18 Sept 2026
 - Le Chinois, Paris — Sat, 25 Jul 2026
 - FOLIA, Paris — Fri, 12 Jun 2026
 - Le Chinois, Paris — Fri, 20 Feb 2026
@@ -20,10 +20,9 @@ cfds is an electro and ebm artist tracked on soundcheck, with 25 sets logged acr
 - La Station - Gare des Mines, Paris — Thu, 18 Sept 2025
 - Cafe Central, Brussels — Sat, 23 Aug 2025
 - Virage, Paris — Wed, 4 Jun 2025
-- La Marbrerie, Paris — Fri, 4 Apr 2025
 
 ## Shares bills with
 
 Studerkel, Kalyug Citizen, NairLess
 
-*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/cfds/)*
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/cfds/)*

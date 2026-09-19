@@ -1,6 +1,6 @@
 # Nelly (NL)
 
-Nelly (NL) is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Fri, 18 Sept 2026, next at Shunter, Rotterdam on Fri, 18 Sept 2026.
+Nelly (NL) is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Sat, 19 Sept 2026, next at Shunter, Rotterdam on Fri, 18 Sept 2026.
 
 Nelly (NL) is a techno and house artist tracked on soundcheck, with 89 sets logged across Amsterdam, Barcelona, Berlin and Brussels and 15 more. Often billed alongside Spekki Webu, Oceanic and Woody92. Next up: Shunter, Rotterdam on Fri 18 Sept.
 
@@ -14,6 +14,7 @@ Nelly (NL) is a techno and house artist tracked on soundcheck, with 89 sets logg
 
 ## Recently played
 
+- Shunter, Rotterdam — Fri, 18 Sept 2026
 - export, Rotterdam — Sat, 27 Jun 2026
 - Berghain | Panorama Bar | Säule, Berlin — Thu, 18 Jun 2026
 - TBA, Oslo — Fri, 12 Jun 2026
@@ -21,10 +22,9 @@ Nelly (NL) is a techno and house artist tracked on soundcheck, with 89 sets logg
 - TILLATEC, Amsterdam — Sat, 9 May 2026
 - Perron, Rotterdam — Fri, 27 Mar 2026
 - Botanique, Brussels — Sat, 28 Feb 2026
-- Bassiani, Tbilisi — Fri, 30 Jan 2026
 
 ## Shares bills with
 
 Spekki Webu, Oceanic, Woody92
 
-*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nelly-nl/)*
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nelly-nl/)*

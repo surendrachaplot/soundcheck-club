@@ -1,6 +1,6 @@
 # VILAIN
 
-VILAIN is a Techno and Hardcore artist with 1 upcoming club date listed on soundcheck as of Fri, 18 Sept 2026, next at C12, Brussels on Fri, 25 Sept 2026.
+VILAIN is a Techno and Hardcore artist with 1 upcoming club date listed on soundcheck as of Sat, 19 Sept 2026, next at C12, Brussels on Fri, 25 Sept 2026.
 
 VILAIN is a techno and hardcore artist tracked on soundcheck, with 9 sets logged across Berlin, Brussels, Lyon and Nantes and 2 more. Often billed alongside Jacidorex, Lolalita and Lolo (2). Next up: C12, Brussels on Fri 25 Sept.
 
@@ -25,4 +25,4 @@ VILAIN is a techno and hardcore artist tracked on soundcheck, with 9 sets logged
 
 Jacidorex, Lolalita, Lolo (2)
 
-*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/vilain/)*
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/vilain/)*

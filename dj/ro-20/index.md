@@ -1,6 +1,6 @@
 # RO (20)
 
-RO (20) is a Broken Beat and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 18 Sept 2026, next at TBA, Tokyo on Sun, 20 Sept 2026.
+RO (20) is a Broken Beat and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 19 Sept 2026, next at TBA, Tokyo on Sun, 20 Sept 2026.
 
 RO (20) is a broken beat and techno artist tracked on soundcheck, with 7 sets logged across Ibiza, Krakow, Madrid and Nottingham and 1 more. Often billed alongside 4am Kru, ACT ON and AD (BR). Next up: TBA, Tokyo on Sun 20 Sept.
 
@@ -23,4 +23,4 @@ RO (20) is a broken beat and techno artist tracked on soundcheck, with 7 sets lo
 
 4am Kru, ACT ON, AD (BR)
 
-*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ro-20/)*
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ro-20/)*

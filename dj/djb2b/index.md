@@ -1,14 +1,15 @@
 # DJ B2B
 
-DJ B2B is a Hip-Hop and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 18 Sept 2026, next at Wesola Immersive, Krakow on Sat, 19 Sept 2026.
+DJ B2B is a Hip-Hop and House artist with 3 upcoming club dates listed on soundcheck as of Sat, 19 Sept 2026, next at Wesola Immersive, Krakow on Sat, 19 Sept 2026.
 
-DJ B2B is a hip-hop and house artist tracked on soundcheck, with 209 sets logged across Amsterdam, Athens, Bangkok and Barcelona and 24 more. Often billed alongside Mori, ATAMI and Fig (DYN). Next up: Wesola Immersive, Krakow on Sat 19 Sept.
+DJ B2B is a hip-hop and house artist tracked on soundcheck, with 210 sets logged across Amsterdam, Athens, Bangkok and Barcelona and 24 more. Often billed alongside Mori, ATAMI and Fig (DYN). Next up: Wesola Immersive, Krakow on Sat 19 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 19 Sept 2026 | Wesola Immersive | Krakow |
+| Wed, 23 Sept 2026 | Harlem | Tokyo |
 | Fri, 2 Oct 2026 | RADION | Amsterdam |
 
 ## Recently played
@@ -26,4 +27,4 @@ DJ B2B is a hip-hop and house artist tracked on soundcheck, with 209 sets logged
 
 Mori, ATAMI, Fig (DYN)
 
-*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djb2b/)*
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djb2b/)*

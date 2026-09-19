@@ -1,6 +1,6 @@
 # Touré
 
-Touré is a Electro and House artist with 5 upcoming club dates listed on soundcheck as of Fri, 18 Sept 2026, next at Tola, London on Sat, 19 Sept 2026.
+Touré is a Electro and House artist with 5 upcoming club dates listed on soundcheck as of Sat, 19 Sept 2026, next at Tola, London on Sat, 19 Sept 2026.
 
 Touré is an electro and house artist tracked on soundcheck, with 39 sets logged across Glasgow, Leeds, London and Manchester and 3 more. Often billed alongside Larushkin, Sleepy Jean and Antoin KMA. Next up: Tola, London on Sat 19 Sept.
 
@@ -29,4 +29,4 @@ Touré is an electro and house artist tracked on soundcheck, with 39 sets logged
 
 Larushkin, Sleepy Jean, Antoin KMA
 
-*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/toure/)*
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/toure/)*

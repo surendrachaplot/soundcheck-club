@@ -1,6 +1,6 @@
 # Wigbert
 
-Wigbert is a Techno and Vaporwave artist with 1 upcoming club date listed on soundcheck as of Fri, 18 Sept 2026, next at Tokonoma Club, Frankfurt on Sat, 19 Sept 2026.
+Wigbert is a Techno and Vaporwave artist with 1 upcoming club date listed on soundcheck as of Sat, 19 Sept 2026, next at Tokonoma Club, Frankfurt on Sat, 19 Sept 2026.
 
 Wigbert is a techno and vaporwave artist tracked on soundcheck, with 14 sets logged across Frankfurt, Hamburg and London. Often billed alongside Dussmann, Anna Hjalmarsson and Kim She. Next up: Tokonoma Club, Frankfurt on Sat 19 Sept.
 
@@ -25,4 +25,4 @@ Wigbert is a techno and vaporwave artist tracked on soundcheck, with 14 sets log
 
 Dussmann, Anna Hjalmarsson, Kim She
 
-*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/wigbert/)*
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/wigbert/)*

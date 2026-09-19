@@ -1,6 +1,6 @@
 # Tommy Sharp
 
-Tommy Sharp is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 18 Sept 2026, next at Solace, Melbourne on Fri, 25 Sept 2026.
+Tommy Sharp is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 19 Sept 2026, next at Solace, Melbourne on Fri, 25 Sept 2026.
 
 Tommy Sharp is a techno and house artist based in Australia, tracked on soundcheck, with 20 sets logged across Melbourne. Often billed alongside DJ Wise, Black Dave and Emma Moon. Next up: Solace, Melbourne on Fri 25 Sept.
 
@@ -25,4 +25,4 @@ Tommy Sharp is a techno and house artist based in Australia, tracked on soundche
 
 DJ Wise, Black Dave, Emma Moon
 
-*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tommysharp/)*
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tommysharp/)*

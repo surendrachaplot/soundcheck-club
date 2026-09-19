@@ -1,14 +1,13 @@
 # D-EDGE
 
-D-EDGE is a music venue in Sao Paulo with 7 upcoming nights listed on soundcheck as of Fri, 18 Sept 2026; the next is "FREAK CHIC D-EDGE SP pres.: P1: Olga Korol B2B PER (UA). Cesare vs Disorder. Gartzzea " on Fri, 18 Sept 2026.
+D-EDGE is a music venue in Sao Paulo with 6 upcoming nights listed on soundcheck as of Sat, 19 Sept 2026; the next is "NAVE D-EDGE SP pres.: P1: JULIETA KÜHNLE (AR). Gui Boratto. Junior C. RAY // P2: BALDACCI " on Sat, 19 Sept 2026.
 
-D-EDGE is a music venue in Saopaulo listed on soundcheck. 7 upcoming nights, with line-ups including Acid Asian, Adnan Sharif, BALDACCI and Bervon and 2 more. Browse upcoming dates, start times and who's playing. Av. Auro Soares de Moura Andrade, 141. 01155-040 São Paulo , Brazil.
+D-EDGE is a music venue in Saopaulo listed on soundcheck. 6 upcoming nights, with line-ups including Acid Asian, Adnan Sharif, BALDACCI and Bervon and 2 more. Browse upcoming dates, start times and who's playing. Av. Auro Soares de Moura Andrade, 141. 01155-040 São Paulo , Brazil.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 18 Sept 2026 | FREAK CHIC D-EDGE SP pres.: P1: Olga Korol B2B PER (UA). Cesare vs Disorder. Gartzzea  | Cesare vs Disorder, Gartzzea, Olga Korol, Per Hammar |
 | Sat, 19 Sept 2026 | NAVE D-EDGE SP pres.: P1: JULIETA KÜHNLE (AR). Gui Boratto. Junior C. RAY // P2: BALDACCI  | BALDACCI, Gui Boratto, John Hood, Junior C, ZXNX |
 | Sun, 20 Sept 2026 | SUPERAFTER D-EDGE SP pres.: P2: DESSANTI. JOTA // LOUNGE: Gabi Fischer b2b MILKY | DESSANTI, Gabi Fischer |
 | Thu, 24 Sept 2026 | MOVING D-EDGE SP pres.: P2: BLEMMES. JOVIQUE. MERIVA |  |
@@ -20,4 +19,4 @@ D-EDGE is a music venue in Saopaulo listed on soundcheck. 7 upcoming nights, wit
 
 Av. Auro Soares de Moura Andrade, 141. 01155-040 São Paulo , Brazil, Sao Paulo
 
-*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/saopaulo/club/d-edge/)*
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/saopaulo/club/d-edge/)*

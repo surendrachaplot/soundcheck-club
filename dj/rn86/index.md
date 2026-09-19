@@ -1,6 +1,6 @@
 # Rn86
 
-Rn86 is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 18 Sept 2026, next at Kulturlounge, Leipzig on Fri, 25 Sept 2026.
+Rn86 is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sat, 19 Sept 2026, next at Kulturlounge, Leipzig on Fri, 25 Sept 2026.
 
 Rn86 is a techno and house artist tracked on soundcheck, with 64 sets logged across Berlin, Cologne, Frankfurt and Hamburg and 3 more. Often billed alongside nøvae, Simon Phil.ter and Ri0D.. Next up: Kulturlounge, Leipzig on Fri 25 Sept.
 
@@ -26,4 +26,4 @@ Rn86 is a techno and house artist tracked on soundcheck, with 64 sets logged acr
 
 nøvae, Simon Phil.ter, Ri0D.
 
-*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/rn86/)*
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/rn86/)*

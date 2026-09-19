@@ -1,6 +1,6 @@
 # Dada Disco
 
-Dada Disco is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Fri, 18 Sept 2026, next at L'ado, Tbilisi on Sat, 19 Sept 2026.
+Dada Disco is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Sat, 19 Sept 2026, next at L'ado, Tbilisi on Sat, 19 Sept 2026.
 
 Dada Disco is a house and disco artist tracked on soundcheck, with 28 sets logged across Barcelona, Berlin, Istanbul and Lisbon and 2 more. Often billed alongside Frozilla, Johannes Albert and Ady Toledano. Next up: L'ado, Tbilisi on Sat 19 Sept.
 
@@ -25,4 +25,4 @@ Dada Disco is a house and disco artist tracked on soundcheck, with 28 sets logge
 
 Frozilla, Johannes Albert, Ady Toledano
 
-*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dadadisco/)*
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dadadisco/)*

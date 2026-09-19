@@ -1,6 +1,6 @@
 # ATMOS
 
-ATMOS is a Drum & Bass and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 18 Sept 2026, next at Madame Claude, Berlin on Sat, 19 Sept 2026.
+ATMOS is a Drum & Bass and Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 19 Sept 2026, next at Madame Claude, Berlin on Sat, 19 Sept 2026.
 
 ATMOS is a drum & bass and techno artist based in Germany, tracked on soundcheck, with 24 sets logged across Amsterdam, Antwerp, Athens and Berlin and 12 more. Often billed alongside T & Sugah, Maze (FR) and AC13. Next up: Madame Claude, Berlin on Sat 19 Sept.
 
@@ -26,4 +26,4 @@ ATMOS is a drum & bass and techno artist based in Germany, tracked on soundcheck
 
 T & Sugah, Maze (FR), AC13
 
-*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/atmos-de/)*
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/atmos-de/)*

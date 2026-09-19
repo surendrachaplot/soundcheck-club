@@ -1,6 +1,6 @@
 # Canelle Doublekick
 
-Canelle Doublekick is a Trance and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 18 Sept 2026, next at Rex Club, Paris on Sat, 19 Sept 2026.
+Canelle Doublekick is a Trance and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 19 Sept 2026, next at Rex Club, Paris on Sat, 19 Sept 2026.
 
 Canelle Doublekick is a trance and techno artist tracked on soundcheck, with 46 sets logged across Amsterdam, Berlin, Brussels and Geneva and 8 more. Often billed alongside Die Klar, DJ Kwamē and Esteban Desigual. Next up: Rex Club, Paris on Sat 19 Sept.
 
@@ -25,4 +25,4 @@ Canelle Doublekick is a trance and techno artist tracked on soundcheck, with 46 
 
 Die Klar, DJ Kwamē, Esteban Desigual
 
-*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/canelledoublekick/)*
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/canelledoublekick/)*

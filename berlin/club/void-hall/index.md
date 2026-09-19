@@ -1,14 +1,13 @@
 # Void Hall
 
-Void Hall is a music venue in Berlin with 4 upcoming nights listed on soundcheck as of Fri, 18 Sept 2026; the next is "New Blood Sessions XI - Event for Newcomers with preSchuRR, peak2soon, Passaddhi, aqwapi" on Fri, 18 Sept 2026.
+Void Hall is a music venue in Berlin with 3 upcoming nights listed on soundcheck as of Sat, 19 Sept 2026; the next is "WUCHT Party" on Fri, 2 Oct 2026.
 
-Void Hall is a music venue in Berlin listed on soundcheck. 4 upcoming nights, with line-ups including aqwapi, Azur, DarcSounds and Esterne Moog and 2 more. Browse upcoming dates, start times and who's playing. Wiesenweg 5-9, 10365 Berlin.
+Void Hall is a music venue in Berlin listed on soundcheck. 3 upcoming nights, with line-ups including Azur, DarcSounds, Esterne Moog and fr. JPLA and 2 more. Browse upcoming dates, start times and who's playing. Wiesenweg 5-9, 10365 Berlin.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 18 Sept 2026 | New Blood Sessions XI - Event for Newcomers with preSchuRR, peak2soon, Passaddhi, aqwapi | aqwapi, peak2soon |
 | Fri, 2 Oct 2026 | WUCHT Party | Esterne Moog, Koromoto, fr. JPLA |
 | Sat, 10 Oct 2026 | SOUP | DarcSounds, Jacob Meehan, Madalba |
 | Sat, 17 Oct 2026 | Stoic Music presents. Overview Music (UK) with Klinical, Rizzle, Ewol, Ambion, Sub-Antics | Azur, Initia, Rizzle |
@@ -17,4 +16,4 @@ Void Hall is a music venue in Berlin listed on soundcheck. 4 upcoming nights, wi
 
 Wiesenweg 5-9, 10365 Berlin, Berlin
 
-*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/void-hall/)*
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/void-hall/)*

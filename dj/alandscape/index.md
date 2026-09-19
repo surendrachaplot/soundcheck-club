@@ -1,13 +1,14 @@
 # a landscape
 
-a landscape is a Minimal Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 18 Sept 2026, next at TBA - Downtown Bellas Artes, Mexico City on Sun, 4 Oct 2026.
+a landscape is a Minimal Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sat, 19 Sept 2026, next at TBA - Downtown Bellas Artes, Mexico City on Sun, 4 Oct 2026.
 
-a landscape is a minimal techno and house artist based in Mexico, tracked on soundcheck, with 7 sets logged across Berlin and Mexicocity. Often billed alongside O/Y, Onai and Alejandro Veneno. Next up: TBA - Downtown Bellas Artes, Mexicocity on Sun 4 Oct.
+a landscape is a minimal techno and house artist based in Mexico, tracked on soundcheck, with 8 sets logged across Berlin and Mexicocity. Often billed alongside Daniel Alanís, O/Y and Onai. Next up: TBA - Downtown Bellas Artes, Mexicocity on Sun 4 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sun, 4 Oct 2026 | TBA - Downtown Bellas Artes | Mexico City |
 | Sun, 4 Oct 2026 | TBA - Downtown Bellas Artes | Mexico City |
 
 ## Recently played
@@ -21,6 +22,6 @@ a landscape is a minimal techno and house artist based in Mexico, tracked on sou
 
 ## Shares bills with
 
-O/Y, Onai, Alejandro Veneno
+Daniel Alanís, O/Y, Onai
 
-*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/alandscape/)*
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/alandscape/)*

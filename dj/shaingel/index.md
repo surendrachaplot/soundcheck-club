@@ -1,6 +1,6 @@
 # Shaingel
 
-Shaingel is a Techno and Club artist with 1 upcoming club date listed on soundcheck as of Fri, 18 Sept 2026, next at The Comfort Zone, Toronto on Fri, 25 Sept 2026.
+Shaingel is a Techno and Club artist with 1 upcoming club date listed on soundcheck as of Sat, 19 Sept 2026, next at The Comfort Zone, Toronto on Fri, 25 Sept 2026.
 
 Shaingel is a techno and club artist based in Canada, tracked on soundcheck, with 17 sets logged across Toronto. Often billed alongside TRINIDADDY, VUHNNY and TJ Traxx. Next up: The Comfort Zone, Toronto on Fri 25 Sept.
 
@@ -25,4 +25,4 @@ Shaingel is a techno and club artist based in Canada, tracked on soundcheck, wit
 
 TRINIDADDY, VUHNNY, TJ Traxx
 
-*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/shaingel/)*
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/shaingel/)*

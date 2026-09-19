@@ -1,6 +1,6 @@
 # Rick Wilhite
 
-Rick Wilhite is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 18 Sept 2026, next at Flash, Washington DC on Fri, 25 Sept 2026.
+Rick Wilhite is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 19 Sept 2026, next at Flash, Washington DC on Fri, 25 Sept 2026.
 
 Rick Wilhite is a house and techno artist based in United States of America, tracked on soundcheck, with 60 sets logged across Amsterdam, Chicago, Detroit and Melbourne and 4 more. Often billed alongside Delano Smith, Bruce Bailey and Jesse Cory. Next up: Flash, Washingtondc on Fri 25 Sept.
 
@@ -26,4 +26,4 @@ Rick Wilhite is a house and techno artist based in United States of America, tra
 
 Delano Smith, Bruce Bailey, Jesse Cory
 
-*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/rickwilhite/)*
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/rickwilhite/)*

@@ -1,6 +1,6 @@
 # Parmis
 
-Parmis is a Disco and Experimental artist with 1 upcoming club date listed on soundcheck as of Fri, 18 Sept 2026, next at The Lido, Vancouver on Thu, 24 Sept 2026.
+Parmis is a Disco and Experimental artist with 1 upcoming club date listed on soundcheck as of Sat, 19 Sept 2026, next at The Lido, Vancouver on Thu, 24 Sept 2026.
 
 Parmis is a disco and experimental artist based in Canada, tracked on soundcheck, with 13 sets logged across Vancouver. Often billed alongside Roxy Motorola and Bebetta. Next up: The Lido, Vancouver on Thu 24 Sept.
 
@@ -25,4 +25,4 @@ Parmis is a disco and experimental artist based in Canada, tracked on soundcheck
 
 Roxy Motorola, Bebetta
 
-*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/parmis/)*
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/parmis/)*

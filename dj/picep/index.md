@@ -1,6 +1,6 @@
 # Picep
 
-Picep is a Tech House and Afro House artist with 3 upcoming club dates listed on soundcheck as of Fri, 18 Sept 2026, next at Brixton Radio, London on Sat, 19 Sept 2026.
+Picep is a Tech House and Afro House artist with 3 upcoming club dates listed on soundcheck as of Sat, 19 Sept 2026, next at Brixton Radio, London on Sat, 19 Sept 2026.
 
 Picep is a tech house and afro house artist based in United Kingdom, tracked on soundcheck, with 31 sets logged across London. Often billed alongside Dimanté, MEERA (UK) and Aur0m. Next up: Brixton Radio, London on Sat 19 Sept.
 
@@ -27,4 +27,4 @@ Picep is a tech house and afro house artist based in United Kingdom, tracked on 
 
 Dimanté, MEERA (UK), Aur0m
 
-*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/picep/)*
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/picep/)*

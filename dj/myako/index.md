@@ -1,6 +1,6 @@
 # Myako
 
-Myako is a Bass and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 18 Sept 2026, next at Club Cheek, London on Sun, 20 Sept 2026.
+Myako is a Bass and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 19 Sept 2026, next at Club Cheek, London on Sun, 20 Sept 2026.
 
 Myako is a bass and techno artist tracked on soundcheck, with 20 sets logged across Berlin, Geneva, London and Lyon and 3 more. Often billed alongside A Strange Wedding, Belaria and Maxye. Next up: Club Cheek, London on Sun 20 Sept.
 
@@ -25,4 +25,4 @@ Myako is a bass and techno artist tracked on soundcheck, with 20 sets logged acr
 
 A Strange Wedding, Belaria, Maxye
 
-*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/myako/)*
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/myako/)*

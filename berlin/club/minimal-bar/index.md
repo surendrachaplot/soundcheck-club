@@ -1,14 +1,13 @@
 # Minimal Bar
 
-Minimal Bar is a music venue in Berlin with 89 upcoming nights listed on soundcheck as of Fri, 18 Sept 2026; the next is "luca.and.friends. mit Luca ( Minimal Bar) & Freunde" on Fri, 18 Sept 2026.
+Minimal Bar is a music venue in Berlin with 90 upcoming nights listed on soundcheck as of Sat, 19 Sept 2026; the next is "friends.zone mit Jørnemann & Freunde" on Sat, 19 Sept 2026.
 
-Minimal Bar is a music venue in Berlin listed on soundcheck. 89 upcoming nights, with line-ups including Andi de Luxe, Beshy, Beta Basti and Bin Okin and 2 more. Browse upcoming dates, start times and who's playing. Rigaer Strasse 31; Friedrichshain; 10247 Berlin; Germany.
+Minimal Bar is a music venue in Berlin listed on soundcheck. 90 upcoming nights, with line-ups including Andi de Luxe, Beshy, Beta Basti and Bin Okin and 2 more. Browse upcoming dates, start times and who's playing. Rigaer Strasse 31; Friedrichshain; 10247 Berlin; Germany.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 18 Sept 2026 | luca.and.friends. mit Luca ( Minimal Bar) & Freunde |  |
 | Sat, 19 Sept 2026 | friends.zone mit Jørnemann & Freunde | Jørnemann |
 | Sun, 20 Sept 2026 | lazy.sunday mit CEEE & Freunde | CEEE |
 | Mon, 21 Sept 2026 | Deep Mondays w/ .katja & clarence | Clarence, Clarence (2), katja. |
@@ -18,9 +17,10 @@ Minimal Bar is a music venue in Berlin listed on soundcheck. 89 upcoming nights,
 | Fri, 25 Sept 2026 | friends.zone mit Deacon Frost Jr. & freunde |  |
 | Sat, 26 Sept 2026 | sturmfrei mit Bin Okin & Freunde b-day | Bin Okin |
 | Sun, 27 Sept 2026 | lazy.sunday mit Skinny Duchamp | Skinny Duchamp |
+| Mon, 28 Sept 2026 | manic.monday mit Pablo Cornejo (Chile) | Pablo Cornejo |
 
 ## Address
 
 Rigaer Strasse 31; Friedrichshain; 10247 Berlin; Germany, Berlin
 
-*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/minimal-bar/)*
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/minimal-bar/)*

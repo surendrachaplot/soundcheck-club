@@ -1,6 +1,6 @@
 # Danesholme
 
-Danesholme is a House and Italo Disco artist with 1 upcoming club date listed on soundcheck as of Fri, 18 Sept 2026, next at Sunday Sunday, Mexico City on Sun, 20 Sept 2026.
+Danesholme is a House and Italo Disco artist with 1 upcoming club date listed on soundcheck as of Sat, 19 Sept 2026, next at Sunday Sunday, Mexico City on Sun, 20 Sept 2026.
 
 Danesholme is a house and italo disco artist tracked on soundcheck, with 37 sets logged across Barcelona, Ibiza and Mexicocity. Often billed alongside Soni Ceron, Duke Skylocker (Disco Dust) and Miss Voltaghe. Next up: Sunday Sunday, Mexicocity on Sun 20 Sept.
 
@@ -25,4 +25,4 @@ Danesholme is a house and italo disco artist tracked on soundcheck, with 37 sets
 
 Soni Ceron, Duke Skylocker (Disco Dust), Miss Voltaghe
 
-*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/danesholme/)*
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/danesholme/)*

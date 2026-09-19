@@ -1,6 +1,6 @@
 # Dirt Vibes
 
-Dirt Vibes is a House and Deep House artist with 2 upcoming club dates listed on soundcheck as of Fri, 18 Sept 2026, next at Apotheke, Los Angeles on Sat, 19 Sept 2026.
+Dirt Vibes is a House and Deep House artist with 2 upcoming club dates listed on soundcheck as of Sat, 19 Sept 2026, next at Apotheke, Los Angeles on Sat, 19 Sept 2026.
 
 Dirt Vibes is a house and deep house artist based in Colombia, tracked on soundcheck, with 12 sets logged across Losangeles. Often billed alongside Beggar, Choopsie and Wolf Story. Next up: Apotheke, Losangeles on Sat 19 Sept.
 
@@ -26,4 +26,4 @@ Dirt Vibes is a house and deep house artist based in Colombia, tracked on soundc
 
 Beggar, Choopsie, Wolf Story
 
-*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dirtvibes/)*
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dirtvibes/)*

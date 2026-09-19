@@ -1,6 +1,6 @@
 # YVI
 
-YVI is a Jungle and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 18 Sept 2026, next at Sneaky Pete's, Edinburgh on Sun, 20 Sept 2026.
+YVI is a Jungle and House artist with 2 upcoming club dates listed on soundcheck as of Sat, 19 Sept 2026, next at Sneaky Pete's, Edinburgh on Sun, 20 Sept 2026.
 
 YVI is a jungle and house artist tracked on soundcheck, with 14 sets logged across Berlin, Edinburgh, Glasgow and London. Often billed alongside Dan Jakson, Mixfits (2) and SINN3R. Next up: Sneaky Pete's, Edinburgh on Sun 20 Sept.
 
@@ -26,4 +26,4 @@ YVI is a jungle and house artist tracked on soundcheck, with 14 sets logged acro
 
 Dan Jakson, Mixfits (2), SINN3R
 
-*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/YVI-uk/)*
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/YVI-uk/)*

@@ -1,6 +1,6 @@
 # DJ Chuckie
 
-DJ Chuckie is a House and Dancehall artist with 1 upcoming club date listed on soundcheck as of Fri, 18 Sept 2026, next at BASIS, Utrecht on Sat, 19 Sept 2026.
+DJ Chuckie is a House and Dancehall artist with 1 upcoming club date listed on soundcheck as of Sat, 19 Sept 2026, next at BASIS, Utrecht on Sat, 19 Sept 2026.
 
 DJ Chuckie is a house and dancehall artist based in Netherlands, tracked on soundcheck, with 25 sets logged across Amsterdam, Miami, Rotterdam and Thehague and 1 more. Often billed alongside Benny Rodrigues, Elias Mazian and Koperblond. Next up: BASIS, Utrecht on Sat 19 Sept.
 
@@ -25,4 +25,4 @@ DJ Chuckie is a house and dancehall artist based in Netherlands, tracked on soun
 
 Benny Rodrigues, Elias Mazian, Koperblond
 
-*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/chuckie/)*
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/chuckie/)*

@@ -1,6 +1,6 @@
 # From the Tropics
 
-From the Tropics is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Fri, 18 Sept 2026, next at Lady T Bar Richmond, Melbourne on Sat, 19 Sept 2026.
+From the Tropics is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Sat, 19 Sept 2026, next at Lady T Bar Richmond, Melbourne on Sat, 19 Sept 2026.
 
 From the Tropics is a house and tech house artist based in Australia, tracked on soundcheck, with 10 sets logged across Melbourne. Often billed alongside Roja (2) and Perka. Next up: Lady T Bar Richmond, Melbourne on Sat 19 Sept.
 
@@ -25,4 +25,4 @@ From the Tropics is a house and tech house artist based in Australia, tracked on
 
 Roja (2), Perka
 
-*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/fromthetropics/)*
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/fromthetropics/)*

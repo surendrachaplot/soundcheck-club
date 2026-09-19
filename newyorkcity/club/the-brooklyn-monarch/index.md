@@ -1,6 +1,6 @@
 # The Brooklyn Monarch
 
-The Brooklyn Monarch is a music venue in New York City with 3 upcoming nights listed on soundcheck as of Fri, 18 Sept 2026; the next is "Reggaeton Rave - Sep 26 - Brooklyn, NY (21+)" on Sat, 26 Sept 2026.
+The Brooklyn Monarch is a music venue in New York City with 3 upcoming nights listed on soundcheck as of Sat, 19 Sept 2026; the next is "Reggaeton Rave - Sep 26 - Brooklyn, NY (21+)" on Sat, 26 Sept 2026.
 
 The Brooklyn Monarch is a music venue in Newyorkcity listed on soundcheck. 3 upcoming nights. Browse upcoming dates, start times and who's playing. 23 Meadow Street, Brooklyn, NY 11206 USA.
 
@@ -16,4 +16,4 @@ The Brooklyn Monarch is a music venue in Newyorkcity listed on soundcheck. 3 upc
 
 23 Meadow Street, Brooklyn, NY 11206 USA, New York City
 
-*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/the-brooklyn-monarch/)*
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/the-brooklyn-monarch/)*

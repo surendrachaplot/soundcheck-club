@@ -1,14 +1,13 @@
 # KAVARI
 
-KAVARI is a Experimental and Techno artist with 7 upcoming club dates listed on soundcheck as of Fri, 18 Sept 2026, next at Cafeteria, Toronto on Fri, 18 Sept 2026.
+KAVARI is a Experimental and Techno artist with 6 upcoming club dates listed on soundcheck as of Sat, 19 Sept 2026, next at ESC, Montreal on Sat, 19 Sept 2026.
 
-KAVARI is an experimental and techno artist tracked on soundcheck, with 105 sets logged across Amsterdam, Auckland, Austin and Barcelona and 34 more. Often billed alongside Blood of Aza, KLAUDIO and Mvcoko. Next up: Cafeteria, Toronto on Fri 18 Sept.
+KAVARI is an experimental and techno artist tracked on soundcheck, with 105 sets logged across Amsterdam, Auckland, Austin and Barcelona and 34 more. Often billed alongside Blood of Aza, Blawan and KLAUDIO. Next up: ESC, Montreal on Sat 19 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 18 Sept 2026 | Cafeteria | Toronto |
 | Sat, 19 Sept 2026 | ESC | Montreal |
 | Sun, 27 Sept 2026 | The Midway | San Francisco/Oakland |
 | Sat, 3 Oct 2026 | Tunelowa | Warsaw |
@@ -18,6 +17,7 @@ KAVARI is an experimental and techno artist tracked on soundcheck, with 105 sets
 
 ## Recently played
 
+- Cafeteria, Toronto — Fri, 18 Sept 2026
 - The Pearl, Vancouver — Sat, 12 Sept 2026
 - The White Hotel, Manchester — Sat, 22 Aug 2026
 - Wigwam, Dublin — Sat, 25 Jul 2026
@@ -25,10 +25,9 @@ KAVARI is an experimental and techno artist tracked on soundcheck, with 105 sets
 - TBA - SAFEHOUSE 1, 139 COPELAND RD SE15 3SN, London — Fri, 10 Jul 2026
 - Cakeshop, Seoul — Sat, 27 Jun 2026
 - Miscellania, Melbourne — Fri, 19 Jun 2026
-- Whammy Bar, Auckland — Fri, 19 Jun 2026
 
 ## Shares bills with
 
-Blood of Aza, KLAUDIO, Mvcoko
+Blood of Aza, Blawan, KLAUDIO
 
-*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kavari/)*
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kavari/)*

@@ -1,6 +1,6 @@
 # Dan Jakson
 
-Dan Jakson is a electronic artist with 1 upcoming club date listed on soundcheck as of Fri, 18 Sept 2026, next at Sneaky Pete's, Edinburgh on Sun, 20 Sept 2026.
+Dan Jakson is a electronic artist with 1 upcoming club date listed on soundcheck as of Sat, 19 Sept 2026, next at Sneaky Pete's, Edinburgh on Sun, 20 Sept 2026.
 
 Dan Jakson is an electronic artist tracked on soundcheck, with 6 sets logged across Edinburgh. Often billed alongside ROXAN (UK), SINN3R and Rònan White. Next up: Sneaky Pete's, Edinburgh on Sun 20 Sept.
 
@@ -22,4 +22,4 @@ Dan Jakson is an electronic artist tracked on soundcheck, with 6 sets logged acr
 
 ROXAN (UK), SINN3R, Rònan White
 
-*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/danjakson/)*
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/danjakson/)*

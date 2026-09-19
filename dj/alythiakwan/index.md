@@ -1,6 +1,6 @@
 # Alythia Kwan
 
-Alythia Kwan is a Progressive House and Deep House artist with 3 upcoming club dates listed on soundcheck as of Fri, 18 Sept 2026, next at The Timber Loft, London on Fri, 25 Sept 2026.
+Alythia Kwan is a Progressive House and Deep House artist with 3 upcoming club dates listed on soundcheck as of Sat, 19 Sept 2026, next at The Timber Loft, London on Fri, 25 Sept 2026.
 
 Alythia Kwan is a progressive house and deep house artist tracked on soundcheck, with 18 sets logged across London. Often billed alongside MARIUS SEBASTIAN, Fernweh (2) and MEAKIN. Next up: The Timber Loft, London on Fri 25 Sept.
 
@@ -27,4 +27,4 @@ Alythia Kwan is a progressive house and deep house artist tracked on soundcheck,
 
 MARIUS SEBASTIAN, Fernweh (2), MEAKIN
 
-*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/alythiakwan/)*
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/alythiakwan/)*

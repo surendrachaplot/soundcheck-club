@@ -1,6 +1,6 @@
 # Craig Gonzalez
 
-Craig Gonzalez is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 18 Sept 2026, next at TBA - The Loom (2150 Livingston St, Oakland), San Francisco/Oakland on Fri, 18 Sept 2026.
+Craig Gonzalez is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sat, 19 Sept 2026, next at TBA - The Loom (2150 Livingston St, Oakland), San Francisco/Oakland on Fri, 18 Sept 2026.
 
 Craig Gonzalez is a techno and house artist based in United States of America, tracked on soundcheck, with 69 sets logged across Berlin, Chicago, Detroit and Newyorkcity and 2 more. Often billed alongside Erika, DJ SPHiNX and Patrick Russell. Next up: TBA - The Loom (2150 Livingston St, Oakland), Sanfrancisco on Fri 18 Sept.
 
@@ -13,6 +13,7 @@ Craig Gonzalez is a techno and house artist based in United States of America, t
 
 ## Recently played
 
+- TBA - The Loom (2150 Livingston St, Oakland), San Francisco/Oakland — Fri, 18 Sept 2026
 - Tangent Gallery, Detroit — Sun, 24 May 2026
 - Tangent Gallery, Detroit — Sat, 23 May 2026
 - Lincoln Factory, Detroit — Fri, 22 May 2026
@@ -20,10 +21,9 @@ Craig Gonzalez is a techno and house artist based in United States of America, t
 - Spkrbox, Detroit — Sun, 29 Mar 2026
 - Spkrbox, Detroit — Sat, 31 Jan 2026
 - Mudgies, Detroit — Sat, 17 Jan 2026
-- Northern Lights Lounge, Detroit — Sat, 8 Nov 2025
 
 ## Shares bills with
 
 Erika, DJ SPHiNX, Patrick Russell
 
-*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/craiggonzalez/)*
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/craiggonzalez/)*

@@ -1,6 +1,6 @@
 # Medha
 
-Medha is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 18 Sept 2026, next at TBA - SEELEN. HQ , Leipzig on Sat, 24 Oct 2026.
+Medha is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 19 Sept 2026, next at TBA - SEELEN. HQ , Leipzig on Sat, 24 Oct 2026.
 
 Medha is a techno and house artist tracked on soundcheck, with 31 sets logged across Berlin, Hamburg and Leipzig. Often billed alongside n.akin, JANEIN and Stigmatique. Next up: TBA - SEELEN. HQ , Leipzig on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ Medha is a techno and house artist tracked on soundcheck, with 31 sets logged ac
 
 n.akin, JANEIN, Stigmatique
 
-*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/medha/)*
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/medha/)*

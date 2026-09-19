@@ -1,15 +1,13 @@
 # Le Bain
 
-Le Bain is a music venue in New York City with 8 upcoming nights listed on soundcheck as of Fri, 18 Sept 2026; the next is "Virgo's Anniversary with ClayNation & Friends" on Fri, 18 Sept 2026.
+Le Bain is a music venue in New York City with 6 upcoming nights listed on soundcheck as of Sat, 19 Sept 2026; the next is "Nulu Movement X Le Bain" on Sat, 19 Sept 2026.
 
-Le Bain is a music venue in Newyorkcity listed on soundcheck. 8 upcoming nights, with line-ups including Anane, Ash, boyyyish and Chloe Scarlett and 2 more. Browse upcoming dates, start times and who's playing. 444 W 13th Street, New York, NY 10014.
+Le Bain is a music venue in Newyorkcity listed on soundcheck. 6 upcoming nights, with line-ups including Anane, Ash, boyyyish and Duneska and 2 more. Browse upcoming dates, start times and who's playing. 444 W 13th Street, New York, NY 10014.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 18 Sept 2026 | Virgo's Anniversary with ClayNation & Friends | Chloe Scarlett |
-| Fri, 18 Sept 2026 | Sunset with LISAS | LISAS |
 | Sat, 19 Sept 2026 | Nulu Movement X Le Bain | Anane |
 | Sat, 19 Sept 2026 | Sunset with Fulano Librizzi |  |
 | Sun, 20 Sept 2026 | WORLD OF ECHOES by François K with Greg Wilson | Francois K, Greg Wilson |
@@ -21,4 +19,4 @@ Le Bain is a music venue in Newyorkcity listed on soundcheck. 8 upcoming nights,
 
 444 W 13th Street, New York, NY 10014, New York City
 
-*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/le-bain/)*
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/le-bain/)*

@@ -1,6 +1,6 @@
 # Masked raver
 
-Masked raver is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Fri, 18 Sept 2026, next at Levu VIP, Mexico City on Fri, 25 Sept 2026.
+Masked raver is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Sat, 19 Sept 2026, next at Levu VIP, Mexico City on Fri, 25 Sept 2026.
 
 Masked raver is a techno and industrial artist tracked on soundcheck, with 9 sets logged across Mexicocity. Often billed alongside Fuckboyzo, Mademoiselle Chérie and NICEGU¥. Next up: Levu VIP, Mexicocity on Fri 25 Sept.
 
@@ -25,4 +25,4 @@ Masked raver is a techno and industrial artist tracked on soundcheck, with 9 set
 
 Fuckboyzo, Mademoiselle Chérie, NICEGU¥
 
-*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/maskedraver/)*
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/maskedraver/)*

@@ -1,14 +1,13 @@
 # Gerd Janson
 
-Gerd Janson is a House and Techno artist with 12 upcoming club dates listed on soundcheck as of Fri, 18 Sept 2026, next at Gewölbe, Cologne on Fri, 18 Sept 2026.
+Gerd Janson is a House and Techno artist with 12 upcoming club dates listed on soundcheck as of Sat, 19 Sept 2026, next at Pacha Ibiza, Ibiza on Thu, 1 Oct 2026.
 
-Gerd Janson is a house and techno artist tracked on soundcheck, with 302 sets logged across Amsterdam, Antwerp, Athens and Austin and 68 more. Often billed alongside Marcel Dettmann, DJ Tennis and Âme. Next up: Gewölbe, Cologne on Fri 18 Sept.
+Gerd Janson is a house and techno artist tracked on soundcheck, with 303 sets logged across Amsterdam, Antwerp, Athens and Austin and 69 more. Often billed alongside Marcel Dettmann, DJ Tennis and Âme. Next up: Pacha Ibiza, Ibiza on Thu 1 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 18 Sept 2026 | Gewölbe | Cologne |
 | Thu, 1 Oct 2026 | Pacha Ibiza | Ibiza |
 | Sun, 4 Oct 2026 | Hito Scheveningen | The Hague |
 | Thu, 22 Oct 2026 | WestWeelde | Amsterdam |
@@ -20,9 +19,11 @@ Gerd Janson is a house and techno artist tracked on soundcheck, with 302 sets lo
 | Sat, 21 Nov 2026 | TBA | Melbourne |
 | Sat, 5 Dec 2026 | DRUMSHEDS | London |
 | Sat, 5 Dec 2026 | DRUMSHEDS | London |
+| Fri, 18 Dec 2026 | Funkhaus | Vienna |
 
 ## Recently played
 
+- Gewölbe, Cologne — Fri, 18 Sept 2026
 - Karmakoma, Belgrade — Fri, 11 Sept 2026
 - La Terrrazza, Barcelona — Sat, 5 Sept 2026
 - Are You Affiliated, Newcastle — Sun, 30 Aug 2026
@@ -30,10 +31,9 @@ Gerd Janson is a house and techno artist tracked on soundcheck, with 302 sets lo
 - Jaeger, Oslo — Fri, 28 Aug 2026
 - public records, New York City — Sun, 23 Aug 2026
 - Jolene Downtown Miami, Miami — Sat, 22 Aug 2026
-- YuYu Cine Club, Mexico City — Fri, 21 Aug 2026
 
 ## Shares bills with
 
 Marcel Dettmann, DJ Tennis, Âme
 
-*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/gerdjanson/)*
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/gerdjanson/)*

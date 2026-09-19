@@ -1,6 +1,6 @@
 # The Pickle
 
-The Pickle is a music venue in Miami with 11 upcoming nights listed on soundcheck as of Fri, 18 Sept 2026; the next is "The Pickle" on Fri, 18 Sept 2026.
+The Pickle is a music venue in Miami with 11 upcoming nights listed on soundcheck as of Sat, 19 Sept 2026; the next is "The Pickle" on Fri, 2 Oct 2026.
 
 The Pickle is a music venue in Miami listed on soundcheck. 11 upcoming nights, with line-ups including Danny Daze, Desyn, Edward and Fumiya Tanaka and 2 more. Browse upcoming dates, start times and who's playing. 1395 NW 57th Ave.
 
@@ -8,7 +8,6 @@ The Pickle is a music venue in Miami listed on soundcheck. 11 upcoming nights, w
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 18 Sept 2026 | The Pickle |  |
 | Fri, 2 Oct 2026 | The Pickle |  |
 | Fri, 16 Oct 2026 | The Pickle |  |
 | Sun, 18 Oct 2026 | Satellite: The Pickle x III Points |  |
@@ -18,9 +17,10 @@ The Pickle is a music venue in Miami listed on soundcheck. 11 upcoming nights, w
 | Fri, 20 Nov 2026 | The Pickle |  |
 | Wed, 25 Nov 2026 | The Pickle |  |
 | Thu, 3 Dec 2026 | Where Are My Keys - Miami Basel (4 Days) | Danny Daze, Desyn, Edward, Fumiya Tanaka, Raphael Carrau, Ricardo Villalobos, Will Renuart, tINI |
+| Fri, 11 Dec 2026 | The Pickle |  |
 
 ## Address
 
 1395 NW 57th Ave, Miami
 
-*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/miami/club/the-pickle/)*
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/miami/club/the-pickle/)*

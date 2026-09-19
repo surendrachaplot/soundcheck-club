@@ -1,6 +1,6 @@
 # Xena (KR)
 
-Xena (KR) is a Club and Afrobeats artist with 1 upcoming club date listed on soundcheck as of Fri, 18 Sept 2026, next at Bolero, Seoul on Sat, 19 Sept 2026.
+Xena (KR) is a Club and Afrobeats artist with 1 upcoming club date listed on soundcheck as of Sat, 19 Sept 2026, next at Bolero, Seoul on Sat, 19 Sept 2026.
 
 Xena (KR) is a club and afrobeats artist tracked on soundcheck, with 50 sets logged across Hongkong and Seoul. Often billed alongside Zion, Yuzo and Y1VB0. Next up: Bolero, Seoul on Sat 19 Sept.
 
@@ -25,4 +25,4 @@ Xena (KR) is a club and afrobeats artist tracked on soundcheck, with 50 sets log
 
 Zion, Yuzo, Y1VB0
 
-*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/xena-4/)*
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/xena-4/)*

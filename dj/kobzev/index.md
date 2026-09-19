@@ -1,6 +1,6 @@
 # Kobzev
 
-Kobzev is a Techno and Acid artist with 1 upcoming club date listed on soundcheck as of Fri, 18 Sept 2026, next at Crack Bellmer, Berlin on Fri, 25 Sept 2026.
+Kobzev is a Techno and Acid artist with 1 upcoming club date listed on soundcheck as of Sat, 19 Sept 2026, next at Crack Bellmer, Berlin on Fri, 25 Sept 2026.
 
 Kobzev is a techno and acid artist based in Ukraine, tracked on soundcheck, with 27 sets logged across Berlin, Milan, Paris and Prague. Often billed alongside Flight Mode (DE), G.oss and LUISELLE. Next up: Crack Bellmer, Berlin on Fri 25 Sept.
 
@@ -25,4 +25,4 @@ Kobzev is a techno and acid artist based in Ukraine, tracked on soundcheck, with
 
 Flight Mode (DE), G.oss, LUISELLE
 
-*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kobzev/)*
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kobzev/)*

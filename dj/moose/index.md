@@ -1,6 +1,6 @@
 # Moose
 
-Moose is a Drum & Bass and Jungle artist with 1 upcoming club date listed on soundcheck as of Fri, 18 Sept 2026, next at The Prospect Building, Bristol on Fri, 4 Dec 2026.
+Moose is a Drum & Bass and Jungle artist with 1 upcoming club date listed on soundcheck as of Sat, 19 Sept 2026, next at The Prospect Building, Bristol on Fri, 4 Dec 2026.
 
 Moose is a drum & bass and jungle artist tracked on soundcheck, with 50 sets logged across Brighton, Bristol, London and Manchester and 2 more. Often billed alongside Jumping Jack Frost, Funsta and Bryan Gee. Next up: The Prospect Building, Bristol on Fri 4 Dec.
 
@@ -25,4 +25,4 @@ Moose is a drum & bass and jungle artist tracked on soundcheck, with 50 sets log
 
 Jumping Jack Frost, Funsta, Bryan Gee
 
-*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/moose/)*
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/moose/)*

@@ -1,13 +1,14 @@
 # Kili (3)
 
-Kili (3) is a Hardcore and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 18 Sept 2026, next at Zenith - Die Kulturhalle, Munich on Fri, 4 Dec 2026.
+Kili (3) is a Hardcore and Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 19 Sept 2026, next at Roof 175, Frankfurt on Fri, 25 Sept 2026.
 
-Kili (3) is a hardcore and techno artist based in Netherlands, tracked on soundcheck, with 9 sets logged across Cologne, Frankfurt, Glasgow and Madrid and 3 more. Often billed alongside Angerfist, Lekkerfaces and Noxiouz. Next up: Zenith - Die Kulturhalle, Munich on Fri 4 Dec.
+Kili (3) is a hardcore and techno artist based in Netherlands, tracked on soundcheck, with 10 sets logged across Cologne, Frankfurt, Glasgow and Madrid and 3 more. Often billed alongside Angerfist, Lekkerfaces and Noxiouz. Next up: Roof 175, Frankfurt on Fri 25 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 25 Sept 2026 | Roof 175 | Frankfurt |
 | Fri, 4 Dec 2026 | Zenith - Die Kulturhalle | Munich |
 
 ## Recently played
@@ -25,4 +26,4 @@ Kili (3) is a hardcore and techno artist based in Netherlands, tracked on soundc
 
 Angerfist, Lekkerfaces, Noxiouz
 
-*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kili-3/)*
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kili-3/)*

@@ -1,6 +1,6 @@
 # Spacer Woman
 
-Spacer Woman is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Fri, 18 Sept 2026, next at SISSI'S Amsterdam, Amsterdam on Fri, 25 Sept 2026.
+Spacer Woman is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Sat, 19 Sept 2026, next at SISSI'S Amsterdam, Amsterdam on Fri, 25 Sept 2026.
 
 Spacer Woman is a techno and trance artist tracked on soundcheck, with 135 sets logged across Amsterdam, Antwerp, Athens and Bangkok and 28 more. Often billed alongside MALUGI, Justin Tinderdate and Marlon Hoffstadt. Next up: SISSI'S Amsterdam, Amsterdam on Fri 25 Sept.
 
@@ -9,7 +9,7 @@ Spacer Woman is a techno and trance artist tracked on soundcheck, with 135 sets 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 25 Sept 2026 | SISSI'S Amsterdam | Amsterdam |
-| Fri, 2 Oct 2026 | TBA | Hamburg |
+| Fri, 2 Oct 2026 | TBA - Glimmer,  Stockmeyerstraße 43, 20457 Hamburg | Hamburg |
 
 ## Recently played
 
@@ -26,4 +26,4 @@ Spacer Woman is a techno and trance artist tracked on soundcheck, with 135 sets 
 
 MALUGI, Justin Tinderdate, Marlon Hoffstadt
 
-*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/spacerwoman/)*
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/spacerwoman/)*

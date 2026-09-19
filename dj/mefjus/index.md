@@ -1,6 +1,6 @@
 # Mefjus
 
-Mefjus is a Drum & Bass and Bass artist with 4 upcoming club dates listed on soundcheck as of Fri, 18 Sept 2026, next at The Black Box, Denver on Thu, 24 Sept 2026.
+Mefjus is a Drum & Bass and Bass artist with 4 upcoming club dates listed on soundcheck as of Sat, 19 Sept 2026, next at The Black Box, Denver on Thu, 24 Sept 2026.
 
 Mefjus is a drum & bass and bass artist tracked on soundcheck, with 53 sets logged across Amsterdam, Auckland, Berlin and Boston and 22 more. Often billed alongside Camo & Krooked, Daxta and Black Sun Empire. Next up: The Black Box, Denver on Thu 24 Sept.
 
@@ -28,4 +28,4 @@ Mefjus is a drum & bass and bass artist tracked on soundcheck, with 53 sets logg
 
 Camo & Krooked, Daxta, Black Sun Empire
 
-*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mefjus/)*
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mefjus/)*

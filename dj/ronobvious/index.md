@@ -1,8 +1,8 @@
 # Ron Obvious
 
-Ron Obvious is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Fri, 18 Sept 2026, next at Village Underground, London on Fri, 25 Sept 2026.
+Ron Obvious is a House and Tech House artist with 3 upcoming club dates listed on soundcheck as of Sat, 19 Sept 2026, next at Village Underground, London on Fri, 25 Sept 2026.
 
-Ron Obvious is a house and tech house artist based in United Kingdom, tracked on soundcheck, with 33 sets logged across Amsterdam, Barcelona, Berlin and Ibiza and 6 more. Often billed alongside Samuel Deep, DJ Senc and Doudou MD. Next up: Village Underground, London on Fri 25 Sept.
+Ron Obvious is a house and tech house artist based in United Kingdom, tracked on soundcheck, with 34 sets logged across Amsterdam, Barcelona, Berlin and Ibiza and 6 more. Often billed alongside Samuel Deep, DJ Senc and Doudou MD. Next up: Village Underground, London on Fri 25 Sept.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Ron Obvious is a house and tech house artist based in United Kingdom, tracked on
 | --- | --- | --- |
 | Fri, 25 Sept 2026 | Village Underground | London |
 | Sun, 4 Oct 2026 | Home The Venue | Sydney |
+| Fri, 16 Oct 2026 | Hoppetosse | Berlin |
 
 ## Recently played
 
@@ -26,4 +27,4 @@ Ron Obvious is a house and tech house artist based in United Kingdom, tracked on
 
 Samuel Deep, DJ Senc, Doudou MD
 
-*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ronobvious/)*
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ronobvious/)*

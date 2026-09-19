@@ -1,14 +1,13 @@
 # Daizy
 
-Daizy is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Fri, 18 Sept 2026, next at Green Room NYC, New York City on Fri, 18 Sept 2026.
+Daizy is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Sat, 19 Sept 2026, next at Factory Town, Miami on Fri, 25 Sept 2026.
 
-Daizy is a techno and house artist based in United States of America, tracked on soundcheck, with 35 sets logged across Athens, Losangeles, Miami and Newyorkcity and 1 more. Often billed alongside Max Stern, Bakke and Cole Knight. Next up: Green Room NYC, Newyorkcity on Fri 18 Sept.
+Daizy is a techno and house artist based in United States of America, tracked on soundcheck, with 35 sets logged across Athens, Losangeles, Miami and Newyorkcity and 1 more. Often billed alongside Max Stern, Bakke and Cole Knight. Next up: Factory Town, Miami on Fri 25 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 18 Sept 2026 | Green Room NYC | New York City |
 | Fri, 25 Sept 2026 | Factory Town | Miami |
 | Sat, 10 Oct 2026 | TBA - Miami | Miami |
 | Sat, 10 Oct 2026 | Roberta's | New York City |
@@ -16,6 +15,7 @@ Daizy is a techno and house artist based in United States of America, tracked on
 
 ## Recently played
 
+- Green Room NYC, New York City — Fri, 18 Sept 2026
 - Silence Please, New York City — Thu, 17 Sept 2026
 - Jolene Downtown Miami, Miami — Sun, 6 Sept 2026
 - Lion's Den, Miami — Fri, 21 Aug 2026
@@ -23,10 +23,9 @@ Daizy is a techno and house artist based in United States of America, tracked on
 - Skull Bar, Athens — Sun, 12 Jul 2026
 - Jolene Downtown Miami, Miami — Wed, 25 Mar 2026
 - Floyd, Miami — Sat, 14 Mar 2026
-- Jolene Downtown Miami, Miami — Fri, 13 Mar 2026
 
 ## Shares bills with
 
 Max Stern, Bakke, Cole Knight
 
-*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/daizy/)*
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/daizy/)*

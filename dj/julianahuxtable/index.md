@@ -1,6 +1,6 @@
 # Juliana Huxtable
 
-Juliana Huxtable is a Techno and House artist with 9 upcoming club dates listed on soundcheck as of Fri, 18 Sept 2026, next at Allan Gardens Conservatory, Toronto on Sat, 19 Sept 2026.
+Juliana Huxtable is a Techno and House artist with 9 upcoming club dates listed on soundcheck as of Sat, 19 Sept 2026, next at Allan Gardens Conservatory, Toronto on Sat, 19 Sept 2026.
 
 Juliana Huxtable is a techno and house artist tracked on soundcheck, with 202 sets logged across Amsterdam, Antwerp, Athens and Austin and 35 more. Often billed alongside JASSS, Shyboi and Via App. Next up: Allan Gardens Conservatory, Toronto on Sat 19 Sept.
 
@@ -33,4 +33,4 @@ Juliana Huxtable is a techno and house artist tracked on soundcheck, with 202 se
 
 JASSS, Shyboi, Via App
 
-*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/julianahuxtable/)*
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/julianahuxtable/)*

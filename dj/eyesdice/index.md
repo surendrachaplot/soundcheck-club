@@ -1,6 +1,6 @@
 # Eyesdice
 
-Eyesdice is a Techno and Italo Disco artist with 4 upcoming club dates listed on soundcheck as of Fri, 18 Sept 2026, next at FOLD, London on Sat, 19 Sept 2026.
+Eyesdice is a Techno and Italo Disco artist with 4 upcoming club dates listed on soundcheck as of Sat, 19 Sept 2026, next at FOLD, London on Sat, 19 Sept 2026.
 
 Eyesdice is a techno and italo disco artist based in Poland, tracked on soundcheck, with 58 sets logged across Amsterdam, Barcelona, Berlin and Krakow and 9 more. Often billed alongside Berlin Bunny, Franz Scala and Paty Vapor. Next up: FOLD, London on Sat 19 Sept.
 
@@ -28,4 +28,4 @@ Eyesdice is a techno and italo disco artist based in Poland, tracked on soundche
 
 Berlin Bunny, Franz Scala, Paty Vapor
 
-*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/eyesdice/)*
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/eyesdice/)*

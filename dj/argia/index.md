@@ -1,6 +1,6 @@
 # Argia
 
-Argia is a House and Techno artist with 6 upcoming club dates listed on soundcheck as of Fri, 18 Sept 2026, next at Thuishaven, Amsterdam on Sat, 19 Sept 2026.
+Argia is a House and Techno artist with 6 upcoming club dates listed on soundcheck as of Sat, 19 Sept 2026, next at Thuishaven, Amsterdam on Sat, 19 Sept 2026.
 
 Argia is a house and techno artist tracked on soundcheck, with 73 sets logged across Amsterdam, Athens, Barcelona and Berlin and 21 more. Often billed alongside Alican, Murat Uncuoglu and Âme. Next up: Thuishaven, Amsterdam on Sat 19 Sept.
 
@@ -30,4 +30,4 @@ Argia is a house and techno artist tracked on soundcheck, with 73 sets logged ac
 
 Alican, Murat Uncuoglu, Âme
 
-*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/argia/)*
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/argia/)*

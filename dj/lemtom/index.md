@@ -1,18 +1,18 @@
 # Lemtom
 
-Lemtom is a Garage and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 18 Sept 2026, next at Lakota, Bristol on Fri, 18 Sept 2026.
+Lemtom is a Garage and House artist with 1 upcoming club date listed on soundcheck as of Sat, 19 Sept 2026, next at Hidden, Manchester on Mon, 21 Sept 2026.
 
-Lemtom is a garage and house artist based in United Kingdom, tracked on soundcheck, with 33 sets logged across Bangkok, Brighton, Bristol and Chicago and 11 more. Often billed alongside JACK MARLOW, GEE LEE and salameh. Next up: Lakota, Bristol on Fri 18 Sept.
+Lemtom is a garage and house artist based in United Kingdom, tracked on soundcheck, with 33 sets logged across Bangkok, Brighton, Bristol and Chicago and 11 more. Often billed alongside JACK MARLOW, GEE LEE and salameh. Next up: Hidden, Manchester on Mon 21 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 18 Sept 2026 | Lakota | Bristol |
 | Mon, 21 Sept 2026 | Hidden | Manchester |
 
 ## Recently played
 
+- Lakota, Bristol — Fri, 18 Sept 2026
 - Ministry Of Sound, London — Sat, 6 Jun 2026
 - Spybar, Chicago — Sat, 23 May 2026
 - Elsewhere, New York City — Sat, 16 May 2026
@@ -20,10 +20,9 @@ Lemtom is a garage and house artist based in United Kingdom, tracked on soundche
 - Stage and Radio, Manchester — Fri, 20 Mar 2026
 - Bricks, London — Fri, 27 Feb 2026
 - The Croft, Bristol — Wed, 18 Feb 2026
-- Patterns, Brighton — Fri, 6 Feb 2026
 
 ## Shares bills with
 
 JACK MARLOW, GEE LEE, salameh
 
-*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lemtom/)*
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lemtom/)*

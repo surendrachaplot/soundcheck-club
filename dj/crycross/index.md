@@ -1,6 +1,6 @@
 # cry$cross
 
-cry$cross is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 18 Sept 2026, next at Mood Ring, New York City on Sat, 3 Oct 2026.
+cry$cross is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 19 Sept 2026, next at Mood Ring, New York City on Sat, 3 Oct 2026.
 
 cry$cross is a house and techno artist based in United States of America, tracked on soundcheck, with 74 sets logged across Losangeles, Newyorkcity and Philadelphia. Often billed alongside Swaya, BOJAQ and Daniro. Next up: Mood Ring, Newyorkcity on Sat 3 Oct.
 
@@ -25,4 +25,4 @@ cry$cross is a house and techno artist based in United States of America, tracke
 
 Swaya, BOJAQ, Daniro
 
-*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/crycross/)*
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/crycross/)*

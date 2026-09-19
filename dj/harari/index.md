@@ -1,6 +1,6 @@
 # Harari
 
-Harari is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Fri, 18 Sept 2026, next at La Nube, Buenos Aires on Sat, 19 Sept 2026.
+Harari is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Sat, 19 Sept 2026, next at La Nube, Buenos Aires on Sat, 19 Sept 2026.
 
 Harari is a house and disco artist tracked on soundcheck, with 17 sets logged across Berlin, Buenosaires, London and Saopaulo. Often billed alongside Dobao, Ric Piccolo and Pabels. Next up: La Nube, Buenosaires on Sat 19 Sept.
 
@@ -26,4 +26,4 @@ Harari is a house and disco artist tracked on soundcheck, with 17 sets logged ac
 
 Dobao, Ric Piccolo, Pabels
 
-*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/harari/)*
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/harari/)*

@@ -1,14 +1,13 @@
 # Depot Mayfield
 
-Depot Mayfield is a music venue in Manchester with 20 upcoming nights listed on soundcheck as of Fri, 18 Sept 2026; the next is "KI/KI Manchester" on Fri, 18 Sept 2026.
+Depot Mayfield is a music venue in Manchester with 21 upcoming nights listed on soundcheck as of Sat, 19 Sept 2026; the next is "WHP26 /// Rampa  &ME (Keinemusik)" on Sat, 19 Sept 2026.
 
-Depot Mayfield is a music venue in Manchester listed on soundcheck. 20 upcoming nights, with line-ups including 2FEL, 2Shy MC, 4000 Hz and 4am Kru and 2 more. Browse upcoming dates, start times and who's playing. 11 Baring St, Manchester, M1 2PY.
+Depot Mayfield is a music venue in Manchester listed on soundcheck. 21 upcoming nights, with line-ups including 2FEL, 2Shy MC, 4000 Hz and 4am Kru and 2 more. Browse upcoming dates, start times and who's playing. 11 Baring St, Manchester, M1 2PY.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 18 Sept 2026 | KI/KI Manchester | KI/KI, Niamh (2), SALOME, X CLUB. |
 | Sat, 19 Sept 2026 | WHP26 /// Rampa  &ME (Keinemusik) | &ME, Rampa |
 | Fri, 25 Sept 2026 | WHP presents: Solomun | Solomun |
 | Sat, 26 Sept 2026 | HOMOBLOC | ALCATRAZ, ARMANA KHAN, Aiden Francis, BASHKKA, Banksie, COBRAH, DJ Gigola, DJ Paulette, Dandy, Danny Tenaglia, Derrick Carter, Erol Alkan, Fat Tony, Fattony, Gina Breeze, Girls Don't Sync, Guy Williams, Hannah Holland, Honey Dijon, Horse Meat Disco, I. JORDAN, ISAbella, Jamie Bull, Job Jobse, LSDXOXO, Lady Shaka, Lill, Luca Eck, MCR-T, Meg10, Miss Bashful, Moxie, Palms Trax, Peach, Perra Inmunda, Ponyboy, Saoirse, Shanti Celeste, Shimrise, T4T B2B |
@@ -18,9 +17,10 @@ Depot Mayfield is a music venue in Manchester listed on soundcheck. 20 upcoming 
 | Fri, 16 Oct 2026 | WHP + Teletech presents DOOF - Hannah Laing | Hannah Laing |
 | Sat, 17 Oct 2026 | WHP26 /// Eric Prydz [Concourse Only] | Eric Prydz |
 | Sat, 24 Oct 2026 | Duke Dumont, Manchester | Duke Dumont |
+| Fri, 30 Oct 2026 | Overmono presents Pure Devotion - World Tour, Manchester | Andy C, Ash Lauryn, Aurora Halal, Blackhaine, Blawan, Cersy, DJ Bone, DJ SET (Uk), DR MYSTERY, Helena Hauff, James Blake, Joy Orbison, KAVARI, Lee Gamble, Moodymann, Nkisi, Overmono, Rainy Miller, Space Afrika, Special Guest (US) |
 
 ## Address
 
 11 Baring St, Manchester, M1 2PY, Manchester
 
-*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/depot-mayfield/)*
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/depot-mayfield/)*

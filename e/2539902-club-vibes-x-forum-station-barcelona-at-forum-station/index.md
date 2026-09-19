@@ -1,6 +1,6 @@
 # Club Vibes x Forum Station Barcelona at Forum Station
 
-Club Vibes x Forum Station Barcelona on Thu 24 Sept, Barcelona. 1 act on the bill: Gianmarco Limenta. House and Deep House. Preview the line-up and save it on soundcheck.
+Club Vibes x Forum Station Barcelona on Thu 24 Sept, Barcelona. 2 acts on the bill: Anikha and Gianmarco Limenta. House and Deep House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ Club Vibes x Forum Station Barcelona on Thu 24 Sept, Barcelona. 1 act on the bil
 
 ## Line-up
 
+- Anikha
 - Gianmarco Limenta
 
 *Source: [soundcheck](https://soundcheck.club/e/2539902-club-vibes-x-forum-station-barcelona-at-forum-station/)*

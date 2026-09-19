@@ -1,6 +1,6 @@
 # Zepha
 
-Zepha is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Fri, 18 Sept 2026, next at ROCA HIFI, Mexico City on Tue, 15 Sept 2026.
+Zepha is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Sat, 19 Sept 2026, next at ROCA HIFI, Mexico City on Tue, 15 Sept 2026.
 
 Zepha is a house and minimal artist tracked on soundcheck, with 33 sets logged across Mexicocity, Montreal and Paris. Often billed alongside Rig Thrall, Claire and GOLDEN PINEAPPLE. Next up: ROCA HIFI, Mexicocity on Tue 15 Sept.
 
@@ -25,4 +25,4 @@ Zepha is a house and minimal artist tracked on soundcheck, with 33 sets logged a
 
 Rig Thrall, Claire, GOLDEN PINEAPPLE
 
-*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/zepha/)*
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/zepha/)*

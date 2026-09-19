@@ -1,6 +1,6 @@
 # badtongUe
 
-badtongUe is a Ghetto Tech and Breakbeat artist with 1 upcoming club date listed on soundcheck as of Fri, 18 Sept 2026, next at 3oz Dive Club, San Diego on Sat, 3 Oct 2026.
+badtongUe is a Ghetto Tech and Breakbeat artist with 1 upcoming club date listed on soundcheck as of Sat, 19 Sept 2026, next at 3oz Dive Club, San Diego on Sat, 3 Oct 2026.
 
 badtongUe is a ghetto tech and breakbeat artist based in United States of America, tracked on soundcheck, with 9 sets logged across Losangeles, Newyorkcity, Sandiego and Sanfrancisco. Often billed alongside 1905, DJ Godfather and Kale. Next up: 3oz Dive Club, Sandiego on Sat 3 Oct.
 
@@ -25,4 +25,4 @@ badtongUe is a ghetto tech and breakbeat artist based in United States of Americ
 
 1905, DJ Godfather, Kale
 
-*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/badtongue/)*
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/badtongue/)*

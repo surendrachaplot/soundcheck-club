@@ -1,6 +1,6 @@
 # Von Riu
 
-Von Riu is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Fri, 18 Sept 2026, next at Bike Jesus, Prague on Sat, 26 Sept 2026.
+Von Riu is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Sat, 19 Sept 2026, next at Bike Jesus, Prague on Sat, 26 Sept 2026.
 
 Von Riu is a techno and trance artist tracked on soundcheck, with 69 sets logged across Amsterdam, Basel, Berlin and Geneva and 11 more. Often billed alongside Maté, Amor Satyr and Jacky Jeane. Next up: Bike Jesus, Prague on Sat 26 Sept.
 
@@ -25,4 +25,4 @@ Von Riu is a techno and trance artist tracked on soundcheck, with 69 sets logged
 
 Maté, Amor Satyr, Jacky Jeane
 
-*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/vonriu/)*
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/vonriu/)*

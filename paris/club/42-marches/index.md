@@ -1,6 +1,6 @@
 # 42 Marches
 
-42 Marches is a music venue in Paris with 4 upcoming nights listed on soundcheck as of Fri, 18 Sept 2026; the next is "La Onda" on Sun, 4 Oct 2026.
+42 Marches is a music venue in Paris with 4 upcoming nights listed on soundcheck as of Sat, 19 Sept 2026; the next is "La Onda" on Sun, 4 Oct 2026.
 
 42 Marches is a music venue in Paris listed on soundcheck. 4 upcoming nights, with line-ups including AGUSTIN BARBEI, Alyhas, Anas. and Barée Masse and 2 more. Browse upcoming dates, start times and who's playing. Esplanade Johnny Hallyday, 75012 Paris.
 
@@ -17,4 +17,4 @@
 
 Esplanade Johnny Hallyday, 75012 Paris, Paris
 
-*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/paris/club/42-marches/)*
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/paris/club/42-marches/)*

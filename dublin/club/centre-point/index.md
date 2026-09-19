@@ -1,6 +1,6 @@
 # Centre Point
 
-Centre Point is a music venue in Dublin with 6 upcoming nights listed on soundcheck as of Fri, 18 Sept 2026; the next is "Mount Kimbie DJ pres. TunnelVision with upsammy" on Sat, 3 Oct 2026.
+Centre Point is a music venue in Dublin with 6 upcoming nights listed on soundcheck as of Sat, 19 Sept 2026; the next is "Mount Kimbie DJ pres. TunnelVision with upsammy" on Sat, 3 Oct 2026.
 
 Centre Point is a music venue in Dublin listed on soundcheck. 6 upcoming nights, with line-ups including charlois, Club Angel, JWY (1) and Jyoty and 2 more. Browse upcoming dates, start times and who's playing. Temple Lane Street, Temple Bar, Dublin.
 
@@ -19,4 +19,4 @@ Centre Point is a music venue in Dublin listed on soundcheck. 6 upcoming nights,
 
 Temple Lane Street, Temple Bar, Dublin, Dublin
 
-*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dublin/club/centre-point/)*
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dublin/club/centre-point/)*

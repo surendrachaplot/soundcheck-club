@@ -1,19 +1,19 @@
 # Sally C
 
-Sally C is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Fri, 18 Sept 2026, next at Palais, London on Fri, 18 Sept 2026.
+Sally C is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 19 Sept 2026, next at Quinta Mira Rio, Lisbon on Sat, 26 Sept 2026.
 
-Sally C is a house and techno artist tracked on soundcheck, with 264 sets logged across Amsterdam, Antwerp, Auckland and Austin and 64 more. Often billed alongside Spray, DJ BORING and Eliza Rose. Next up: Palais, London on Fri 18 Sept.
+Sally C is a house and techno artist tracked on soundcheck, with 264 sets logged across Amsterdam, Antwerp, Auckland and Austin and 64 more. Often billed alongside Spray, DJ BORING and Eliza Rose. Next up: Quinta Mira Rio, Lisbon on Sat 26 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 18 Sept 2026 | Palais | London |
 | Sat, 26 Sept 2026 | Quinta Mira Rio | Lisbon |
 | Sat, 3 Oct 2026 | Depot Mayfield | Manchester |
 
 ## Recently played
 
+- Palais, London — Fri, 18 Sept 2026
 - Berghain | Panorama Bar | Säule, Berlin — Fri, 11 Sept 2026
 - Union Park, Chicago — Fri, 4 Sept 2026
 - 528 Ibiza, Ibiza — Tue, 1 Sept 2026
@@ -21,10 +21,9 @@ Sally C is a house and techno artist tracked on soundcheck, with 264 sets logged
 - Ushuaïa Ibiza, Ibiza — Sat, 22 Aug 2026
 - Hï Ibiza, Ibiza — Fri, 14 Aug 2026
 - Gianpula Village, Malta — Wed, 12 Aug 2026
-- Parc del Fòrum, Barcelona — Fri, 7 Aug 2026
 
 ## Shares bills with
 
 Spray, DJ BORING, Eliza Rose
 
-*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sallyc/)*
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sallyc/)*

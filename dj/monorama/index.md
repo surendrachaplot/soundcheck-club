@@ -1,18 +1,18 @@
 # monorama
 
-monorama is a House and Deep House artist with 2 upcoming club dates listed on soundcheck as of Fri, 18 Sept 2026, next at Black Sheep Toronto, Toronto on Fri, 18 Sept 2026.
+monorama is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Sat, 19 Sept 2026, next at Paradise Grapevine Winery, Toronto on Sun, 20 Sept 2026.
 
-monorama is a house and deep house artist tracked on soundcheck, with 9 sets logged across Toronto. Often billed alongside ATJUNGLE, ARJ (IR) and Persis. Next up: Black Sheep Toronto, Toronto on Fri 18 Sept.
+monorama is a house and deep house artist tracked on soundcheck, with 9 sets logged across Toronto. Often billed alongside ATJUNGLE, ARJ (IR) and Persis. Next up: Paradise Grapevine Winery, Toronto on Sun 20 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 18 Sept 2026 | Black Sheep Toronto | Toronto |
 | Sun, 20 Sept 2026 | Paradise Grapevine Winery | Toronto |
 
 ## Recently played
 
+- Black Sheep Toronto, Toronto — Fri, 18 Sept 2026
 - Tapestry, Toronto — Sat, 6 Jun 2026
 - Reverie at the Park, Toronto — Fri, 6 Mar 2026
 - IDK Social BAR, Toronto — Fri, 7 Nov 2025
@@ -25,4 +25,4 @@ monorama is a house and deep house artist tracked on soundcheck, with 9 sets log
 
 ATJUNGLE, ARJ (IR), Persis
 
-*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/monorama/)*
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/monorama/)*

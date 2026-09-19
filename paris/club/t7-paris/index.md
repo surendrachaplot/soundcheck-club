@@ -1,6 +1,6 @@
 # T7 Paris
 
-T7 Paris is a music venue in Paris with 6 upcoming nights listed on soundcheck as of Fri, 18 Sept 2026; the next is "ATARASHI Paris at T7 with Seth Troxler, Dennis Cruz, Miguelle & Tons & Co" on Fri, 2 Oct 2026.
+T7 Paris is a music venue in Paris with 6 upcoming nights listed on soundcheck as of Sat, 19 Sept 2026; the next is "ATARASHI Paris at T7 with Seth Troxler, Dennis Cruz, Miguelle & Tons & Co" on Fri, 2 Oct 2026.
 
 T7 Paris is a music venue in Paris listed on soundcheck. 6 upcoming nights, with line-ups including Angel Karel, Bitschu Batschu, Carla Schmitt and Dennis Cruz and 2 more. Browse upcoming dates, start times and who's playing. Place des Insurgés de Varsovie, 75015 Paris.
 
@@ -19,4 +19,4 @@ T7 Paris is a music venue in Paris listed on soundcheck. 6 upcoming nights, with
 
 Place des Insurgés de Varsovie, 75015 Paris, Paris
 
-*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/paris/club/t7-paris/)*
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/paris/club/t7-paris/)*

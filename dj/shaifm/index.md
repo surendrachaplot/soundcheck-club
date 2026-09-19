@@ -1,6 +1,6 @@
 # Shai FM
 
-Shai FM is a Bass and Techno artist with 3 upcoming club dates listed on soundcheck as of Fri, 18 Sept 2026, next at Fort Mifflin, Philadelphia on Fri, 18 Sept 2026.
+Shai FM is a Bass and Techno artist with 3 upcoming club dates listed on soundcheck as of Sat, 19 Sept 2026, next at Fort Mifflin, Philadelphia on Fri, 18 Sept 2026.
 
 Shai FM is a bass and techno artist based in United States of America, tracked on soundcheck, with 29 sets logged across Chicago, Newyorkcity, Philadelphia and Sanfrancisco and 2 more. Often billed alongside DJ Papaya, Mario Cotto and Zillas on Acid. Next up: Fort Mifflin, Philadelphia on Fri 18 Sept.
 
@@ -14,6 +14,7 @@ Shai FM is a bass and techno artist based in United States of America, tracked o
 
 ## Recently played
 
+- Fort Mifflin, Philadelphia — Fri, 18 Sept 2026
 - TBA - Camp Tall Timbers, WV, Washington DC — Fri, 4 Sept 2026
 - Bastet, Philadelphia — Fri, 21 Aug 2026
 - The Barbary, Philadelphia — Sat, 27 Jun 2026
@@ -21,10 +22,9 @@ Shai FM is a bass and techno artist based in United States of America, tracked o
 - TBA - 2041 Coral St Suite 2, Philadelphia, PA 19125, Philadelphia — Sat, 2 May 2026
 - F8 1192 Folsom, San Francisco/Oakland — Fri, 10 Apr 2026
 - TBA - Toronto, Toronto — Sat, 28 Mar 2026
-- Podlasie Club, Chicago — Sat, 21 Mar 2026
 
 ## Shares bills with
 
 DJ Papaya, Mario Cotto, Zillas on Acid
 
-*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/shaifm/)*
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/shaifm/)*

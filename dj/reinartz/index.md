@@ -1,8 +1,8 @@
 # Reinartz
 
-Reinartz is a Ambient and Experimental artist with 3 upcoming club dates listed on soundcheck as of Fri, 18 Sept 2026, next at TBA, Berlin on Sat, 19 Sept 2026.
+Reinartz is a Ambient and Experimental artist with 4 upcoming club dates listed on soundcheck as of Sat, 19 Sept 2026, next at TBA, Berlin on Sat, 19 Sept 2026.
 
-Reinartz is an ambient and experimental artist tracked on soundcheck, with 25 sets logged across Berlin. Often billed alongside Triana, King Softy and BLUME. Next up: TBA, Berlin on Sat 19 Sept.
+Reinartz is an ambient and experimental artist tracked on soundcheck, with 26 sets logged across Berlin. Often billed alongside Triana, King Softy and BLUME. Next up: TBA, Berlin on Sat 19 Sept.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ Reinartz is an ambient and experimental artist tracked on soundcheck, with 25 se
 | Sat, 19 Sept 2026 | TBA | Berlin |
 | Sat, 19 Sept 2026 | Renate | Berlin |
 | Fri, 25 Sept 2026 | 90mil | Berlin |
+| Sun, 11 Oct 2026 | ciao ciao Bar | Berlin |
 
 ## Recently played
 
@@ -27,4 +28,4 @@ Reinartz is an ambient and experimental artist tracked on soundcheck, with 25 se
 
 Triana, King Softy, BLUME
 
-*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/reinartz/)*
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/reinartz/)*

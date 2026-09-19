@@ -1,6 +1,6 @@
 # Expressions w/ GK Machine, Miles J Paralysis & LOVELL at Stereo
 
-Expressions w/ GK Machine, Miles J Paralysis & LOVELL at Stereo on Fri 2 Oct, Glasgow. 3 acts on the bill: GK Machine, LOVELL and Miles J Paralysis. Techno and Dub Techno. Preview the line-up and save it on soundcheck.
+Expressions w/ GK Machine, Miles J Paralysis & LOVELL at Stereo on Fri 2 Oct, Glasgow. 3 acts on the bill: GK Machine, LOVELL and Miles J Paralysis. Downtempo and Dub Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

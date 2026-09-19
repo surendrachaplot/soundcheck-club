@@ -1,14 +1,13 @@
 # Shelter Amsterdam
 
-Shelter Amsterdam is a music venue in Amsterdam with 28 upcoming nights listed on soundcheck as of Fri, 18 Sept 2026; the next is "Prunk ALL NIGHT LONG" on Fri, 18 Sept 2026.
+Shelter Amsterdam is a music venue in Amsterdam with 27 upcoming nights listed on soundcheck as of Sat, 19 Sept 2026; the next is "Shelter presents: Signal NYC - Benny Rodrigues, Doudou MD" on Sat, 19 Sept 2026.
 
-Shelter Amsterdam is a music venue in Amsterdam listed on soundcheck. 28 upcoming nights, with line-ups including 36framez, A'DAM, A For Alpha and Ajuma and 2 more. Browse upcoming dates, start times and who's playing. Overhoeksplein 3, 1031KS, Amsterdam.
+Shelter Amsterdam is a music venue in Amsterdam listed on soundcheck. 27 upcoming nights, with line-ups including 36framez, A'DAM, A For Alpha and Ajuma and 2 more. Browse upcoming dates, start times and who's playing. Overhoeksplein 3, 1031KS, Amsterdam.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 18 Sept 2026 | Prunk ALL NIGHT LONG | Cici Daze, Prunk, Simon Kidzoo |
 | Sat, 19 Sept 2026 | Shelter presents: Signal NYC - Benny Rodrigues, Doudou MD | Benny Rodrigues, Doudou MD, Foghan, Gian-Paul, J. Richards, Nathan Homan |
 | Fri, 25 Sept 2026 | 10SERIES by Shelter - Hidde van Wee (all night long) | Hidde van Wee, zondagskind |
 | Sat, 26 Sept 2026 | Archie Hamilton, DXNBY, Jhobei | A For Alpha, Archie Hamilton, DXNBY, Elvi (1), Jhobei, Kim April |
@@ -18,9 +17,10 @@ Shelter Amsterdam is a music venue in Amsterdam listed on soundcheck. 28 upcomin
 | Sat, 10 Oct 2026 | Entasia b2b Freddi, Moody Mehran b2b OLIVIA LENSEN | Entasia, Freddi, Gate 9, Moody Mehran, OLIVIA LENSEN, Saul |
 | Fri, 16 Oct 2026 | Crits Agency W/ nik-ey b2b Ammé, Sun Sol b2b Luis Ripa | Ammé, Capra (2), DORA, ETERNAL JOE, GLEM, Khun, Luis Ripa, Mees Mattern, Renceau, nik-ey |
 | Sat, 17 Oct 2026 | 10SERIES by Shelter - Stef Davidse (all night long) | KINETIKS, Stef Davidse |
+| Wed, 21 Oct 2026 | Modern Funktion x Shelter | Benji King, James Lavelle, Job de Jong, Jude Lenihan, Laidlaw, Locklead, Marsolo, Mya (1), Phill de Janeiro, Tom Da Silva, Truly Madly, bullet tooth, j:me |
 
 ## Address
 
 Overhoeksplein 3, 1031KS, Amsterdam, Amsterdam
 
-*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/shelter-amsterdam/)*
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/shelter-amsterdam/)*

@@ -1,6 +1,6 @@
 # gART.n
 
-gART.n is a music venue in Berlin with 4 upcoming nights listed on soundcheck as of Fri, 18 Sept 2026; the next is "Rebellion der Träumer* X Afterhour Sounds - Sticky Sunset Soli Rave Syndicate" on Sat, 19 Sept 2026.
+gART.n is a music venue in Berlin with 4 upcoming nights listed on soundcheck as of Sat, 19 Sept 2026; the next is "Rebellion der Träumer* X Afterhour Sounds - Sticky Sunset Soli Rave Syndicate" on Sat, 19 Sept 2026.
 
 gART.n is a music venue in Berlin listed on soundcheck. 4 upcoming nights, with line-ups including 7heads, Bonfante, CIOZ and Corpino and 2 more. Browse upcoming dates, start times and who's playing. Blockdammweg 1, 10317 Berlin.
 
@@ -17,4 +17,4 @@ gART.n is a music venue in Berlin listed on soundcheck. 4 upcoming nights, with 
 
 Blockdammweg 1, 10317 Berlin, Berlin
 
-*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/gart-n/)*
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/gart-n/)*

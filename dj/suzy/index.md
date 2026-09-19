@@ -1,6 +1,6 @@
 # su:zy
 
-su:zy is a Techno and Progressive House artist with 2 upcoming club dates listed on soundcheck as of Fri, 18 Sept 2026, next at Jalousy, Brussels on Sat, 19 Sept 2026.
+su:zy is a Techno and Progressive House artist with 2 upcoming club dates listed on soundcheck as of Sat, 19 Sept 2026, next at Jalousy, Brussels on Sat, 19 Sept 2026.
 
 su:zy is a techno and progressive house artist based in Belgium, tracked on soundcheck, with 24 sets logged across Antwerp, Brussels, Ghent and Paris and 1 more. Often billed alongside Ampe, Fais Le Beau and STDJ. Next up: Jalousy, Brussels on Sat 19 Sept.
 
@@ -26,4 +26,4 @@ su:zy is a techno and progressive house artist based in Belgium, tracked on soun
 
 Ampe, Fais Le Beau, STDJ
 
-*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/suzy/)*
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/suzy/)*

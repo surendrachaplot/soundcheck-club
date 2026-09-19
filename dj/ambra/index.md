@@ -1,6 +1,6 @@
 # AMBRA
 
-AMBRA is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 18 Sept 2026, next at Circolo Amelia, Milan on Sun, 27 Sept 2026.
+AMBRA is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 19 Sept 2026, next at Circolo Amelia, Milan on Sun, 27 Sept 2026.
 
 AMBRA is a techno and house artist based in Italy, tracked on soundcheck, with 12 sets logged across Berlin, Madrid and Milan. Often billed alongside IKIIR, Lady Goccia and ARMANDO. Next up: Circolo Amelia, Milan on Sun 27 Sept.
 
@@ -25,4 +25,4 @@ AMBRA is a techno and house artist based in Italy, tracked on soundcheck, with 1
 
 IKIIR, Lady Goccia, ARMANDO
 
-*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ambra/)*
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ambra/)*

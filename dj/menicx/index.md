@@ -1,6 +1,6 @@
 # menicx
 
-menicx is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Fri, 18 Sept 2026, next at Sensorium, Berlin on Fri, 9 Oct 2026.
+menicx is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Sat, 19 Sept 2026, next at Sensorium, Berlin on Fri, 9 Oct 2026.
 
 menicx is a techno and electro artist based in United States of America, tracked on soundcheck, with 7 sets logged across Berlin, Losangeles and Sandiego. Often billed alongside Jovella, Lady Afrodisiac and TOKEONETOKA. Next up: Sensorium, Berlin on Fri 9 Oct.
 
@@ -23,4 +23,4 @@ menicx is a techno and electro artist based in United States of America, tracked
 
 Jovella, Lady Afrodisiac, TOKEONETOKA
 
-*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/menicx/)*
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/menicx/)*

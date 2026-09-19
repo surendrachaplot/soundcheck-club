@@ -1,6 +1,6 @@
 # FLETCH
 
-FLETCH is a House and Tech House artist with 3 upcoming club dates listed on soundcheck as of Fri, 18 Sept 2026, next at Supermarket, Zurich on Sat, 19 Sept 2026.
+FLETCH is a House and Tech House artist with 3 upcoming club dates listed on soundcheck as of Sat, 19 Sept 2026, next at Supermarket, Zurich on Sat, 19 Sept 2026.
 
 FLETCH is a house and tech house artist tracked on soundcheck, with 61 sets logged across Amsterdam, Barcelona, Birmingham and Boston and 20 more. Often billed alongside Mason Collective, Max Dean and REME. Next up: Supermarket, Zurich on Sat 19 Sept.
 
@@ -27,4 +27,4 @@ FLETCH is a house and tech house artist tracked on soundcheck, with 61 sets logg
 
 Mason Collective, Max Dean, REME
 
-*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/FLETCH/)*
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/FLETCH/)*

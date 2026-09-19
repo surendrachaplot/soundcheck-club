@@ -1,14 +1,15 @@
 # Samantha Blackburn
 
-Samantha Blackburn is a House and Minimal Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 18 Sept 2026, next at Starlane Pizza Bar, London on Sun, 20 Sept 2026.
+Samantha Blackburn is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Sat, 19 Sept 2026, next at Starlane Pizza Bar, London on Sun, 20 Sept 2026.
 
-Samantha Blackburn is a house and minimal techno artist tracked on soundcheck, with 42 sets logged across London. Often billed alongside Kat Richmond, La Gosse and Guy Herman. Next up: Starlane Pizza Bar, London on Sun 20 Sept.
+Samantha Blackburn is a house and tech house artist tracked on soundcheck, with 43 sets logged across London. Often billed alongside Kat Richmond, La Gosse and Guy Herman. Next up: Starlane Pizza Bar, London on Sun 20 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sun, 20 Sept 2026 | Starlane Pizza Bar | London |
+| Sun, 27 Sept 2026 | NUMBER 90 LONDON | London |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Samantha Blackburn is a house and minimal techno artist tracked on soundcheck, w
 
 Kat Richmond, La Gosse, Guy Herman
 
-*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/samanthablackburn/)*
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/samanthablackburn/)*

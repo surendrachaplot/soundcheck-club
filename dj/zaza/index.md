@@ -1,6 +1,6 @@
 # Zaza
 
-Zaza is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Fri, 18 Sept 2026, next at Smolna, Warsaw on Wed, 23 Sept 2026.
+Zaza is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Sat, 19 Sept 2026, next at Smolna, Warsaw on Wed, 23 Sept 2026.
 
 Zaza is a house and tech house artist based in Netherlands, tracked on soundcheck, with 6 sets logged across Brussels, Madrid, Newyorkcity and Warsaw. Often billed alongside Kasia DVD, No:mad and PNST. Next up: Smolna, Warsaw on Wed 23 Sept.
 
@@ -22,4 +22,4 @@ Zaza is a house and tech house artist based in Netherlands, tracked on soundchec
 
 Kasia DVD, No:mad, PNST
 
-*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/zaza/)*
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/zaza/)*

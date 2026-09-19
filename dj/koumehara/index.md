@@ -1,6 +1,6 @@
 # Ko Umehara
 
-Ko Umehara is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Fri, 18 Sept 2026, next at Mitsuki, Tokyo on Wed, 16 Sept 2026.
+Ko Umehara is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Sat, 19 Sept 2026, next at Mitsuki, Tokyo on Wed, 16 Sept 2026.
 
 Ko Umehara is a techno and house artist based in Japan, tracked on soundcheck, with 52 sets logged across Tokyo. Often billed alongside Iori Wakasa, Haruka and IRON. Next up: Mitsuki, Tokyo on Wed 16 Sept.
 
@@ -9,12 +9,12 @@ Ko Umehara is a techno and house artist based in Japan, tracked on soundcheck, w
 | Date | Venue | City |
 | --- | --- | --- |
 | Wed, 16 Sept 2026 | Mitsuki | Tokyo |
-| Fri, 18 Sept 2026 | Bonobo | Tokyo |
 | Mon, 21 Sept 2026 | Numm | Tokyo |
 | Tue, 22 Sept 2026 | Solfa | Tokyo |
 
 ## Recently played
 
+- Bonobo, Tokyo — Fri, 18 Sept 2026
 - Mitsuki, Tokyo — Wed, 16 Sept 2026
 - DUNGEON akihabara, Tokyo — Sat, 5 Sept 2026
 - Heavy Sick Zero, Tokyo — Sat, 29 Aug 2026
@@ -22,10 +22,9 @@ Ko Umehara is a techno and house artist based in Japan, tracked on soundcheck, w
 - Kagurane, Tokyo — Sat, 1 Aug 2026
 - Débris, Tokyo — Fri, 26 Jun 2026
 - Azumaya, Tokyo — Mon, 8 Jun 2026
-- Heavy Sick Zero, Tokyo — Sat, 6 Jun 2026
 
 ## Shares bills with
 
 Iori Wakasa, Haruka, IRON
 
-*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/koumehara/)*
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/koumehara/)*

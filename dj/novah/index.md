@@ -1,8 +1,8 @@
 # NOVAH
 
-NOVAH is a Techno and Trance artist with 13 upcoming club dates listed on soundcheck as of Fri, 18 Sept 2026, next at Tapada da Ajuda, Lisbon on Sat, 19 Sept 2026.
+NOVAH is a Techno and Trance artist with 14 upcoming club dates listed on soundcheck as of Sat, 19 Sept 2026, next at Tapada da Ajuda, Lisbon on Sat, 19 Sept 2026.
 
-NOVAH is a techno and trance artist tracked on soundcheck, with 172 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 47 more. Often billed alongside Cloudy, Nico Moreno and Onlynumbers. Next up: Tapada da Ajuda, Lisbon on Sat 19 Sept.
+NOVAH is a techno and trance artist tracked on soundcheck, with 173 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 48 more. Often billed alongside Cloudy, Nico Moreno and KUKO. Next up: Tapada da Ajuda, Lisbon on Sat 19 Sept.
 
 ## Upcoming shows
 
@@ -34,6 +34,6 @@ NOVAH is a techno and trance artist tracked on soundcheck, with 172 sets logged 
 
 ## Shares bills with
 
-Cloudy, Nico Moreno, Onlynumbers
+Cloudy, Nico Moreno, KUKO
 
-*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/novah/)*
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/novah/)*

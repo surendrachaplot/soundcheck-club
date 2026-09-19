@@ -1,14 +1,13 @@
 # Moog Club
 
-Moog Club is a music venue in Barcelona with 42 upcoming nights listed on soundcheck as of Fri, 18 Sept 2026; the next is "Men (L-Men-T)" on Fri, 18 Sept 2026.
+Moog Club is a music venue in Barcelona with 41 upcoming nights listed on soundcheck as of Sat, 19 Sept 2026; the next is "BLACK KOKO + HECTOR GRUNT + J.GÓMEZ + CAROL NYX" on Sat, 19 Sept 2026.
 
-Moog Club is a music venue in Barcelona listed on soundcheck. 42 upcoming nights, with line-ups including Ángel Molina, BAMBI (BE), carlota. and Deckard and 2 more. Browse upcoming dates, start times and who's playing. Arc del Teatre, 3; 08001 Barcelona; Spain.
+Moog Club is a music venue in Barcelona listed on soundcheck. 41 upcoming nights, with line-ups including Ángel Molina, BAMBI (BE), carlota. and Deckard and 2 more. Browse upcoming dates, start times and who's playing. Arc del Teatre, 3; 08001 Barcelona; Spain.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 18 Sept 2026 | Men (L-Men-T) | DJ MEN |
 | Sat, 19 Sept 2026 | BLACK KOKO + HECTOR GRUNT + J.GÓMEZ + CAROL NYX |  |
 | Sun, 20 Sept 2026 | Carol Nyx |  |
 | Mon, 21 Sept 2026 | uroz | uroz |
@@ -18,9 +17,10 @@ Moog Club is a music venue in Barcelona listed on soundcheck. 42 upcoming nights
 | Fri, 25 Sept 2026 | Ross + uroz | ROSS z, uroz |
 | Sat, 26 Sept 2026 | Javi gOn | Javi gOn |
 | Sun, 27 Sept 2026 | Carol Nyx |  |
+| Mon, 28 Sept 2026 | uroz | uroz |
 
 ## Address
 
 Arc del Teatre, 3; 08001 Barcelona; Spain, Barcelona
 
-*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/moog-club/)*
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/moog-club/)*

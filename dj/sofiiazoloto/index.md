@@ -1,6 +1,6 @@
 # Sofiia Zoloto
 
-Sofiia Zoloto is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Fri, 18 Sept 2026, next at Giselle, Düsseldorf on Fri, 25 Sept 2026.
+Sofiia Zoloto is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Sat, 19 Sept 2026, next at Giselle, Düsseldorf on Fri, 25 Sept 2026.
 
 Sofiia Zoloto is a house and tech house artist tracked on soundcheck, with 46 sets logged across Berlin, Brussels, Dusseldorf and Munich and 4 more. Often billed alongside 9LALEY, Miran N and Muallem. Next up: Giselle, Dusseldorf on Fri 25 Sept.
 
@@ -26,4 +26,4 @@ Sofiia Zoloto is a house and tech house artist tracked on soundcheck, with 46 se
 
 9LALEY, Miran N, Muallem
 
-*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sofiiazoloto/)*
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sofiiazoloto/)*

@@ -1,14 +1,13 @@
 # Jyoty
 
-Jyoty is a House and Techno artist with 10 upcoming club dates listed on soundcheck as of Fri, 18 Sept 2026, next at TBA - DTLA Warehouse, Los Angeles on Fri, 18 Sept 2026.
+Jyoty is a House and Techno artist with 9 upcoming club dates listed on soundcheck as of Sat, 19 Sept 2026, next at The Regency Ballroom, San Francisco/Oakland on Fri, 25 Sept 2026.
 
-Jyoty is a house and techno artist tracked on soundcheck, with 138 sets logged across Amsterdam, Athens, Auckland and Bali and 42 more. Often billed alongside Skrillex, Overmono and Ben UFO. Next up: TBA - DTLA Warehouse, Losangeles on Fri 18 Sept.
+Jyoty is a house and techno artist tracked on soundcheck, with 138 sets logged across Amsterdam, Athens, Auckland and Bali and 42 more. Often billed alongside Skrillex, Overmono and Ben UFO. Next up: The Regency Ballroom, Sanfrancisco on Fri 25 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 18 Sept 2026 | TBA - DTLA Warehouse | Los Angeles |
 | Fri, 25 Sept 2026 | The Regency Ballroom | San Francisco/Oakland |
 | Sat, 26 Sept 2026 | TBA - Pier 80 | San Francisco/Oakland |
 | Fri, 9 Oct 2026 | Centre Point | Dublin |
@@ -21,6 +20,7 @@ Jyoty is a house and techno artist tracked on soundcheck, with 138 sets logged a
 
 ## Recently played
 
+- TBA - DTLA Warehouse, Los Angeles — Fri, 18 Sept 2026
 - Signal, New York City — Sat, 12 Sept 2026
 - Nowadays, New York City — Fri, 11 Sept 2026
 - 3fifty Terrace, Detroit — Mon, 7 Sept 2026
@@ -28,10 +28,9 @@ Jyoty is a house and techno artist tracked on soundcheck, with 138 sets logged a
 - Burgess Park, London — Sat, 8 Aug 2026
 - Amsterdamse Bos, Amsterdam — Fri, 31 Jul 2026
 - Amsterdamse Bos, Amsterdam — Wed, 29 Jul 2026
-- Fort Vechten, Utrecht — Sat, 25 Jul 2026
 
 ## Shares bills with
 
 Skrillex, Overmono, Ben UFO
 
-*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jyoty/)*
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jyoty/)*

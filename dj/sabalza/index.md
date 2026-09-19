@@ -1,6 +1,6 @@
 # SABALZA
 
-SABALZA is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 18 Sept 2026, next at Motor Oil Cocktail Garage, Barcelona on Thu, 17 Sept 2026.
+SABALZA is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 19 Sept 2026, next at Motor Oil Cocktail Garage, Barcelona on Thu, 17 Sept 2026.
 
 SABALZA is a house and techno artist tracked on soundcheck, with 39 sets logged across Barcelona. Often billed alongside Andrea Zarco, Cipy and ATMEN. Next up: Motor Oil Cocktail Garage, Barcelona on Thu 17 Sept.
 
@@ -26,4 +26,4 @@ SABALZA is a house and techno artist tracked on soundcheck, with 39 sets logged 
 
 Andrea Zarco, Cipy, ATMEN
 
-*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sabalza/)*
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sabalza/)*

@@ -1,8 +1,8 @@
 # OXI
 
-OXI is a music venue in Berlin with 23 upcoming nights listed on soundcheck as of Fri, 18 Sept 2026; the next is "Toy Tonics presents ITALOMANIA (OPEN AIR & INDOOR 18 hours)" on Sat, 19 Sept 2026.
+OXI is a music venue in Berlin with 24 upcoming nights listed on soundcheck as of Sat, 19 Sept 2026; the next is "Toy Tonics presents ITALOMANIA (OPEN AIR & INDOOR 18 hours)" on Sat, 19 Sept 2026.
 
-OXI is a music venue in Berlin listed on soundcheck. 23 upcoming nights, with line-ups including Gio Goltara, Anaté, Anja Schneider and Aria Santillana and 2 more. Browse upcoming dates, start times and who's playing. Wiesenweg 1-4, 10365 Berlin.
+OXI is a music venue in Berlin listed on soundcheck. 24 upcoming nights, with line-ups including Gio Goltara, Anaté, Anja Schneider and Aria Santillana and 2 more. Browse upcoming dates, start times and who's playing. Wiesenweg 1-4, 10365 Berlin.
 
 ## What's on
 
@@ -23,4 +23,4 @@ OXI is a music venue in Berlin listed on soundcheck. 23 upcoming nights, with li
 
 Wiesenweg 1-4, 10365 Berlin, Berlin
 
-*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/oxi/)*
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/oxi/)*

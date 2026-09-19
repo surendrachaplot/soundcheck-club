@@ -1,15 +1,13 @@
 # Mika Heggemann
 
-Mika Heggemann is a Techno and Trance artist with 9 upcoming club dates listed on soundcheck as of Fri, 18 Sept 2026, next at Bootshaus, Cologne on Fri, 18 Sept 2026.
+Mika Heggemann is a Techno and Trance artist with 7 upcoming club dates listed on soundcheck as of Sat, 19 Sept 2026, next at Uebel & Gefährlich, Hamburg on Fri, 9 Oct 2026.
 
-Mika Heggemann is a techno and trance artist tracked on soundcheck, with 166 sets logged across Amsterdam, Antwerp, Barcelona and Basel and 32 more. Often billed alongside Cleopard2000, Trancemaster Krause and davyboi. Next up: Bootshaus, Cologne on Fri 18 Sept.
+Mika Heggemann is a techno and trance artist tracked on soundcheck, with 166 sets logged across Amsterdam, Antwerp, Barcelona and Basel and 32 more. Often billed alongside Cleopard2000, Trancemaster Krause and davyboi. Next up: Uebel & Gefährlich, Hamburg on Fri 9 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 18 Sept 2026 | Bootshaus | Cologne |
-| Fri, 18 Sept 2026 | Bootshaus | Cologne |
 | Fri, 9 Oct 2026 | Uebel & Gefährlich | Hamburg |
 | Sat, 10 Oct 2026 | Plage Privée Parc de Miribel | Lyon |
 | Fri, 16 Oct 2026 | Ääniwalli | Helsinki |
@@ -20,17 +18,17 @@ Mika Heggemann is a techno and trance artist tracked on soundcheck, with 166 set
 
 ## Recently played
 
+- Bootshaus, Cologne — Fri, 18 Sept 2026
+- Bootshaus, Cologne — Fri, 18 Sept 2026
 - TBA, Melbourne — Sat, 5 Sept 2026
 - Home The Venue, Sydney — Fri, 4 Sept 2026
 - Colorado Charlie, The Hague — Sun, 30 Aug 2026
 - Dürener Badesee, Cologne — Fri, 28 Aug 2026
 - Lokschuppen Berlin, Berlin — Fri, 21 Aug 2026
 - Escala25, Lisbon — Sun, 16 Aug 2026
-- Gianpula Village, Malta — Wed, 12 Aug 2026
-- Studio Club Malaga, Malaga — Fri, 7 Aug 2026
 
 ## Shares bills with
 
 Cleopard2000, Trancemaster Krause, davyboi
 
-*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/heggemann/)*
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/heggemann/)*

@@ -1,6 +1,6 @@
 # Seta Loto
 
-Seta Loto is a Bass and Electronica artist with 1 upcoming club date listed on soundcheck as of Fri, 18 Sept 2026, next at Spread, Tokyo on Sun, 20 Sept 2026.
+Seta Loto is a Bass and Electronica artist with 1 upcoming club date listed on soundcheck as of Sat, 19 Sept 2026, next at Spread, Tokyo on Sun, 20 Sept 2026.
 
 Seta Loto is a bass and electronica artist based in Germany, tracked on soundcheck, with 12 sets logged across Berlin, Kyoto, Milan and Tokyo and 1 more. Often billed alongside Claude B, ALNITHRA.incidents and Abo Abo. Next up: Spread, Tokyo on Sun 20 Sept.
 
@@ -25,4 +25,4 @@ Seta Loto is a bass and electronica artist based in Germany, tracked on soundche
 
 Claude B, ALNITHRA.incidents, Abo Abo
 
-*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/setaloto/)*
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/setaloto/)*

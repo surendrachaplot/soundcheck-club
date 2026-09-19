@@ -1,6 +1,6 @@
 # Hakim.
 
-Hakim. is a Techno and Electro artist with 2 upcoming club dates listed on soundcheck as of Fri, 18 Sept 2026, next at TBA, Seoul on Sat, 19 Sept 2026.
+Hakim. is a Techno and Electro artist with 2 upcoming club dates listed on soundcheck as of Sat, 19 Sept 2026, next at TBA, Seoul on Sat, 19 Sept 2026.
 
 Hakim. is a techno and electro artist tracked on soundcheck, with 28 sets logged across Bangkok, Hongkong, Newyorkcity and Seoul and 1 more. Often billed alongside Kyuchan, .2ndfloor and Minkyu. Next up: TBA, Seoul on Sat 19 Sept.
 
@@ -26,4 +26,4 @@ Hakim. is a techno and electro artist tracked on soundcheck, with 28 sets logged
 
 Kyuchan, .2ndfloor, Minkyu
 
-*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/hakim./)*
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/hakim./)*

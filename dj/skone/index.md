@@ -1,6 +1,6 @@
 # Sköne
 
-Sköne is a Techno and Hardcore artist with 3 upcoming club dates listed on soundcheck as of Fri, 18 Sept 2026, next at Studio Saglio, Strasbourg on Sat, 26 Sept 2026.
+Sköne is a Techno and Hardcore artist with 3 upcoming club dates listed on soundcheck as of Sat, 19 Sept 2026, next at Studio Saglio, Strasbourg on Sat, 26 Sept 2026.
 
 Sköne is a techno and hardcore artist based in France, tracked on soundcheck, with 31 sets logged across Bangkok, Barcelona, Brussels and Frankfurt and 8 more. Often billed alongside Protokseed, EARGASM GOD and billx. Next up: Studio Saglio, Strasbourg on Sat 26 Sept.
 
@@ -27,4 +27,4 @@ Sköne is a techno and hardcore artist based in France, tracked on soundcheck, w
 
 Protokseed, EARGASM GOD, billx
 
-*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/skone/)*
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/skone/)*

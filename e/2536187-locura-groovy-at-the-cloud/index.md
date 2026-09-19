@@ -1,6 +1,6 @@
 # Locura Groovy at The Cloud
 
-Locura Groovy at The Cloud on Fri 9 Oct, Berlin. 3 acts on the bill: Basstronauten, IvaNNa and YellowHeads. Techno and Industrial. Preview the line-up and save it on soundcheck.
+Locura Groovy at The Cloud on Fri 9 Oct, Berlin. 4 acts on the bill: Basstronauten, IvaNNa, Mosher and YellowHeads. Techno and Industrial. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -12,6 +12,7 @@ Locura Groovy at The Cloud on Fri 9 Oct, Berlin. 3 acts on the bill: Basstronaut
 
 - Basstronauten
 - IvaNNa
+- Mosher
 - YellowHeads
 
 *Source: [soundcheck](https://soundcheck.club/e/2536187-locura-groovy-at-the-cloud/)*

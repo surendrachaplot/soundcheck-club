@@ -1,6 +1,6 @@
 # Malou (NL)
 
-Malou (NL) is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Fri, 18 Sept 2026, next at Openluchttheater Amersfoort, Amsterdam on Fri, 18 Sept 2026.
+Malou (NL) is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Sat, 19 Sept 2026, next at Openluchttheater Amersfoort, Amsterdam on Fri, 18 Sept 2026.
 
 Malou (NL) is a house and disco artist based in Netherlands, tracked on soundcheck, with 39 sets logged across Amsterdam, Antwerp, Rotterdam and Thehague and 1 more. Often billed alongside David Vunk, Marsman and Gerd Janson. Next up: Openluchttheater Amersfoort, Amsterdam on Fri 18 Sept.
 
@@ -12,6 +12,7 @@ Malou (NL) is a house and disco artist based in Netherlands, tracked on soundche
 
 ## Recently played
 
+- Openluchttheater Amersfoort, Amsterdam — Fri, 18 Sept 2026
 - RADION, Amsterdam — Sat, 5 Sept 2026
 - NAR, Utrecht — Sat, 29 Aug 2026
 - PIP Den Haag, The Hague — Sat, 29 Aug 2026
@@ -19,10 +20,9 @@ Malou (NL) is a house and disco artist based in Netherlands, tracked on soundche
 - Boeienweide Linkeroever, Antwerp — Sat, 9 May 2026
 - nachbar, Amsterdam — Fri, 1 May 2026
 - WAS., Utrecht — Sun, 26 Apr 2026
-- Het Sieraad, Amsterdam — Fri, 27 Mar 2026
 
 ## Shares bills with
 
 David Vunk, Marsman, Gerd Janson
 
-*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/malou-2/)*
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/malou-2/)*

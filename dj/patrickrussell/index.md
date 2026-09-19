@@ -1,6 +1,6 @@
 # Patrick Russell
 
-Patrick Russell is a Techno and Acid artist with 1 upcoming club date listed on soundcheck as of Fri, 18 Sept 2026, next at TBA - The Loom (2150 Livingston St, Oakland), San Francisco/Oakland on Fri, 18 Sept 2026.
+Patrick Russell is a Techno and Acid artist with 1 upcoming club date listed on soundcheck as of Sat, 19 Sept 2026, next at TBA - The Loom (2150 Livingston St, Oakland), San Francisco/Oakland on Fri, 18 Sept 2026.
 
 Patrick Russell is a techno and acid artist based in United States of America, tracked on soundcheck, with 86 sets logged across Amsterdam, Barcelona, Berlin and Boston and 16 more. Often billed alongside Erika, Mike Servito and BMG. Next up: TBA - The Loom (2150 Livingston St, Oakland), Sanfrancisco on Fri 18 Sept.
 
@@ -12,6 +12,7 @@ Patrick Russell is a techno and acid artist based in United States of America, t
 
 ## Recently played
 
+- TBA - The Loom (2150 Livingston St, Oakland), San Francisco/Oakland — Fri, 18 Sept 2026
 - OHM, Berlin — Thu, 10 Sept 2026
 - Signal, New York City — Fri, 14 Aug 2026
 - public records, New York City — Fri, 7 Aug 2026
@@ -19,10 +20,9 @@ Patrick Russell is a techno and acid artist based in United States of America, t
 - Club Rawhide, New York City — Fri, 17 Jul 2026
 - Lincoln Factory, Detroit — Fri, 10 Jul 2026
 - Xanadu, New York City — Sun, 31 May 2026
-- Tangent Gallery, Detroit — Sun, 24 May 2026
 
 ## Shares bills with
 
 Erika, Mike Servito, BMG
 
-*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/patrickrussell/)*
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/patrickrussell/)*

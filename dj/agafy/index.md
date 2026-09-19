@@ -1,6 +1,6 @@
 # Agafy
 
-Agafy is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Fri, 18 Sept 2026, next at Tokonoma Club, Frankfurt on Sat, 19 Sept 2026.
+Agafy is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Sat, 19 Sept 2026, next at Tokonoma Club, Frankfurt on Sat, 19 Sept 2026.
 
 Agafy is a techno and trance artist tracked on soundcheck, with 12 sets logged across Boston, Frankfurt and Lisbon. Often billed alongside GERKE, Paul Pahn and ADHASS. Next up: Tokonoma Club, Frankfurt on Sat 19 Sept.
 
@@ -25,4 +25,4 @@ Agafy is a techno and trance artist tracked on soundcheck, with 12 sets logged a
 
 GERKE, Paul Pahn, ADHASS
 
-*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/agafy/)*
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/agafy/)*

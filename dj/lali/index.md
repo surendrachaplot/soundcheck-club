@@ -1,6 +1,6 @@
 # lali:
 
-lali: is a House and Acid artist with 1 upcoming club date listed on soundcheck as of Fri, 18 Sept 2026, next at Ormside Projects, London on Sat, 17 Oct 2026.
+lali: is a House and Acid artist with 1 upcoming club date listed on soundcheck as of Sat, 19 Sept 2026, next at Ormside Projects, London on Sat, 17 Oct 2026.
 
 lali: is a house and acid artist tracked on soundcheck, with 12 sets logged across London, Manchester and Tokyo. Often billed alongside A Psychic Yes, YELLOWUHURU and YAMARCHY. Next up: Ormside Projects, London on Sat 17 Oct.
 
@@ -25,4 +25,4 @@ lali: is a house and acid artist tracked on soundcheck, with 12 sets logged acro
 
 A Psychic Yes, YELLOWUHURU, YAMARCHY
 
-*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lali/)*
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lali/)*

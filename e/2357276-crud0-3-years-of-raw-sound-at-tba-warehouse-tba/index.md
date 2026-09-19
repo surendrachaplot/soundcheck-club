@@ -1,6 +1,6 @@
 # CRUD0 3 YEARS OF RAW SOUND at TBA - WAREHOUSE TBA 
 
-CRUD0 3 YEARS OF RAW SOUND at TBA - WAREHOUSE TBA  on Sat 31 Oct, Newyorkcity. 1 act on the bill: DLV. Techno. Preview the line-up and save it on soundcheck.
+CRUD0 3 YEARS OF RAW SOUND at TBA - WAREHOUSE TBA  on Sat 31 Oct, Newyorkcity. 4 acts on the bill: Cleric, DLV, Q:BX and TonalTheory. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,9 @@ CRUD0 3 YEARS OF RAW SOUND at TBA - WAREHOUSE TBA  on Sat 31 Oct, Newyorkcity. 1
 
 ## Line-up
 
+- Cleric
 - DLV
+- Q:BX
+- TonalTheory
 
 *Source: [soundcheck](https://soundcheck.club/e/2357276-crud0-3-years-of-raw-sound-at-tba-warehouse-tba/)*

@@ -1,6 +1,6 @@
 # Kendal
 
-Kendal is a Italo Disco and Techno artist with 4 upcoming club dates listed on soundcheck as of Fri, 18 Sept 2026, next at Openluchttheater Amersfoort, Amsterdam on Fri, 18 Sept 2026.
+Kendal is a Italo Disco and Techno artist with 4 upcoming club dates listed on soundcheck as of Sat, 19 Sept 2026, next at Openluchttheater Amersfoort, Amsterdam on Fri, 18 Sept 2026.
 
 Kendal is an italo disco and techno artist tracked on soundcheck, with 106 sets logged across Amsterdam, Antwerp, Barcelona and Belgrade and 26 more. Often billed alongside Andi, Miguel De Bois and Belaria. Next up: Openluchttheater Amersfoort, Amsterdam on Fri 18 Sept.
 
@@ -15,6 +15,7 @@ Kendal is an italo disco and techno artist tracked on soundcheck, with 106 sets 
 
 ## Recently played
 
+- Openluchttheater Amersfoort, Amsterdam — Fri, 18 Sept 2026
 - Virage, Paris — Fri, 21 Aug 2026
 - Colorado Charlie, The Hague — Sun, 16 Aug 2026
 - Liberty Point, Philadelphia — Sun, 9 Aug 2026
@@ -22,10 +23,9 @@ Kendal is an italo disco and techno artist tracked on soundcheck, with 106 sets 
 - Paléo Festival, Geneva — Tue, 21 Jul 2026
 - Le Transbordeur, Lyon — Sat, 18 Jul 2026
 - Lofi, Amsterdam — Sat, 20 Jun 2026
-- Macadam, Nantes — Sat, 13 Jun 2026
 
 ## Shares bills with
 
 Andi, Miguel De Bois, Belaria
 
-*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kendal/)*
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kendal/)*

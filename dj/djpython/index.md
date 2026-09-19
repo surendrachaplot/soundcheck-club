@@ -1,6 +1,6 @@
 # DJ Python
 
-DJ Python is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Fri, 18 Sept 2026, next at Fort Mifflin, Philadelphia on Fri, 18 Sept 2026.
+DJ Python is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Sat, 19 Sept 2026, next at Fort Mifflin, Philadelphia on Fri, 18 Sept 2026.
 
 DJ Python is a techno and house artist tracked on soundcheck, with 185 sets logged across Amsterdam, Austin, Barcelona and Belfast and 44 more. Often billed alongside Nick León, Ana Roxanne and Loidis. Next up: Fort Mifflin, Philadelphia on Fri 18 Sept.
 
@@ -14,6 +14,7 @@ DJ Python is a techno and house artist tracked on soundcheck, with 185 sets logg
 
 ## Recently played
 
+- Fort Mifflin, Philadelphia — Fri, 18 Sept 2026
 - fabric, London — Sat, 12 Sept 2026
 - RSO.BERLIN, Berlin — Sat, 8 Aug 2026
 - TBA - Apiro, Marche IT, Milan — Thu, 30 Jul 2026
@@ -21,10 +22,9 @@ DJ Python is a techno and house artist tracked on soundcheck, with 185 sets logg
 - 131 Mccormack St, Toronto — Sat, 18 Jul 2026
 - Jolene Downtown Miami, Miami — Fri, 17 Jul 2026
 - Nowadays, New York City — Sat, 4 Jul 2026
-- Hackney Wick Multiple Venues, London — Sat, 27 Jun 2026
 
 ## Shares bills with
 
 Nick León, Ana Roxanne, Loidis
 
-*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djpython/)*
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djpython/)*

@@ -1,14 +1,15 @@
 # Franko
 
-Franko is a Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 18 Sept 2026, next at The Villa, Oslo on Fri, 25 Sept 2026.
+Franko is a Techno and Electronica artist with 2 upcoming club dates listed on soundcheck as of Sat, 19 Sept 2026, next at The Villa, Oslo on Fri, 25 Sept 2026.
 
-Franko is a techno artist based in Norway, tracked on soundcheck, with 29 sets logged across London and Oslo. Often billed alongside Aydin Imani, Javel and Keran Olsen. Next up: The Villa, Oslo on Fri 25 Sept.
+Franko is a techno and electronica artist based in Norway, tracked on soundcheck, with 30 sets logged across London, Oslo and Porto. Often billed alongside Aydin Imani, Javel and Keran Olsen. Next up: The Villa, Oslo on Fri 25 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 25 Sept 2026 | The Villa | Oslo |
+| Sat, 10 Oct 2026 | Gare Porto | Porto |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Franko is a techno artist based in Norway, tracked on soundcheck, with 29 sets l
 
 Aydin Imani, Javel, Keran Olsen
 
-*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/franko-no/)*
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/franko-no/)*

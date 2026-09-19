@@ -1,6 +1,6 @@
 # Dunnings 2
 
-Dunnings 2 is a music venue in London with 1 upcoming night listed on soundcheck as of Fri, 18 Sept 2026; the next is "The big watford reunion part 2" on Sat, 3 Oct 2026.
+Dunnings 2 is a music venue in London with 1 upcoming night listed on soundcheck as of Sat, 19 Sept 2026; the next is "The big watford reunion part 2" on Sat, 3 Oct 2026.
 
 Dunnings 2 is a music venue in London listed on soundcheck. 1 upcoming night, with line-ups including Kaz Daniels, Matt Jam Lamont, MC Creed and MC PSG and 1 more. Browse upcoming dates, start times and who's playing. 76 The Parade, Watford High Street, WD17 1AW.
 
@@ -14,4 +14,4 @@ Dunnings 2 is a music venue in London listed on soundcheck. 1 upcoming night, wi
 
 76 The Parade, Watford High Street, WD17 1AW, London
 
-*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/dunnings-2/)*
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/dunnings-2/)*

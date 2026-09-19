@@ -1,6 +1,6 @@
 # MATHILDA (2)
 
-MATHILDA (2) is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Fri, 18 Sept 2026, next at Amp, Munster on Fri, 25 Sept 2026.
+MATHILDA (2) is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Sat, 19 Sept 2026, next at Amp, Munster on Fri, 25 Sept 2026.
 
 MATHILDA (2) is a house and techno artist based in Germany, tracked on soundcheck, with 37 sets logged across Berlin, Cologne, Hamburg and Leipzig and 3 more. Often billed alongside Carluschka, DJ SPORTSCHUH and Talia Dorr. Next up: Amp, Munster on Fri 25 Sept.
 
@@ -27,4 +27,4 @@ MATHILDA (2) is a house and techno artist based in Germany, tracked on soundchec
 
 Carluschka, DJ SPORTSCHUH, Talia Dorr
 
-*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mathilda-2/)*
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mathilda-2/)*

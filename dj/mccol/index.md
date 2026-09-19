@@ -1,6 +1,6 @@
 # McCOL
 
-McCOL is a Club and Hip-Hop artist with 1 upcoming club date listed on soundcheck as of Fri, 18 Sept 2026, next at Bolero, Seoul on Sun, 20 Sept 2026.
+McCOL is a Club and Hip-Hop artist with 1 upcoming club date listed on soundcheck as of Sat, 19 Sept 2026, next at Bolero, Seoul on Sun, 20 Sept 2026.
 
 McCOL is a club and hip-hop artist based in South Korea, tracked on soundcheck, with 21 sets logged across Seoul. Often billed alongside KARAYAN, BIGTER and BABYKOOOL. Next up: Bolero, Seoul on Sun 20 Sept.
 
@@ -25,4 +25,4 @@ McCOL is a club and hip-hop artist based in South Korea, tracked on soundcheck, 
 
 KARAYAN, BIGTER, BABYKOOOL
 
-*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mccol/)*
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mccol/)*

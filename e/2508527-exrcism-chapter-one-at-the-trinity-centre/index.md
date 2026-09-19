@@ -1,6 +1,6 @@
 # EXRCISM: Chapter One at The Trinity Centre
 
-EXRCISM: Chapter One at The Trinity Centre on Sat 26 Sept, Bristol. 3 acts on the bill: Krista Bourgeois, Mollie Rush and The Teknoist. Breakcore and Gabber. Preview the line-up and save it on soundcheck.
+EXRCISM: Chapter One at The Trinity Centre on Sat 26 Sept, Bristol. 4 acts on the bill: Breakforce One, Krista Bourgeois, Mollie Rush and The Teknoist. Drum & Bass and Breakcore. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ EXRCISM: Chapter One at The Trinity Centre on Sat 26 Sept, Bristol. 3 acts on th
 
 ## Line-up
 
+- Breakforce One
 - Krista Bourgeois
 - Mollie Rush
 - The Teknoist

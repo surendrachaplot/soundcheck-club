@@ -1,19 +1,19 @@
 # Rúadh
 
-Rúadh is a Techno and Breakbeat artist with 3 upcoming club dates listed on soundcheck as of Fri, 18 Sept 2026, next at The DBA, Manchester on Fri, 18 Sept 2026.
+Rúadh is a Techno and Breakbeat artist with 2 upcoming club dates listed on soundcheck as of Sat, 19 Sept 2026, next at Honey Street Studio, Manchester on Sat, 26 Sept 2026.
 
-Rúadh is a techno and breakbeat artist tracked on soundcheck, with 8 sets logged across Manchester. Often billed alongside Deventi, Connor (UK) and FXCKBOUT. Next up: The DBA, Manchester on Fri 18 Sept.
+Rúadh is a techno and breakbeat artist tracked on soundcheck, with 8 sets logged across Manchester. Often billed alongside Deventi, Connor (UK) and FXCKBOUT. Next up: Honey Street Studio, Manchester on Sat 26 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 18 Sept 2026 | The DBA | Manchester |
 | Sat, 26 Sept 2026 | Honey Street Studio | Manchester |
 | Thu, 15 Oct 2026 | The DBA | Manchester |
 
 ## Recently played
 
+- The DBA, Manchester — Fri, 18 Sept 2026
 - The DBA, Manchester — Thu, 10 Sept 2026
 - TBA - Fountain Records | King Street, Stretford, Manchester — Sat, 15 Aug 2026
 - The DBA, Manchester — Sat, 30 May 2026
@@ -24,4 +24,4 @@ Rúadh is a techno and breakbeat artist tracked on soundcheck, with 8 sets logge
 
 Deventi, Connor (UK), FXCKBOUT
 
-*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/rúadh/)*
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/rúadh/)*

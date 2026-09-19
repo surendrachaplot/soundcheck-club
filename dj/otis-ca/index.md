@@ -1,6 +1,6 @@
 # Otis (CA)
 
-Otis (CA) is a Amapiano and R&B artist with 2 upcoming club dates listed on soundcheck as of Fri, 18 Sept 2026, next at Simian, Copenhagen on Sat, 26 Sept 2026.
+Otis (CA) is a Amapiano and R&B artist with 2 upcoming club dates listed on soundcheck as of Sat, 19 Sept 2026, next at Simian, Copenhagen on Sat, 26 Sept 2026.
 
 Otis (CA) is an amapiano and r&b artist based in Canada, tracked on soundcheck, with 3 sets logged across Brussels, Copenhagen and Montreal. Often billed alongside Otis (BE), Adi and Alfredo92. Next up: Simian, Copenhagen on Sat 26 Sept.
 
@@ -19,4 +19,4 @@ Otis (CA) is an amapiano and r&b artist based in Canada, tracked on soundcheck, 
 
 Otis (BE), Adi, Alfredo92
 
-*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/otis-ca/)*
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/otis-ca/)*

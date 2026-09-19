@@ -1,6 +1,6 @@
 # Huijari
 
-Huijari is a Techno and Experimental artist with 1 upcoming club date listed on soundcheck as of Fri, 18 Sept 2026, next at Slakthuset, Stockholm on Sat, 19 Sept 2026.
+Huijari is a Techno and Experimental artist with 1 upcoming club date listed on soundcheck as of Sat, 19 Sept 2026, next at Slakthuset, Stockholm on Sat, 19 Sept 2026.
 
 Huijari is a techno and experimental artist tracked on soundcheck, with 13 sets logged across Helsinki, London, Riga and Stockholm. Often billed alongside Katvyl, €TOM and C4KE. Next up: Slakthuset, Stockholm on Sat 19 Sept.
 
@@ -25,4 +25,4 @@ Huijari is a techno and experimental artist tracked on soundcheck, with 13 sets 
 
 Katvyl, €TOM, C4KE
 
-*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/huijari/)*
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/huijari/)*

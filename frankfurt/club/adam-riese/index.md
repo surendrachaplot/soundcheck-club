@@ -1,14 +1,15 @@
 # Adam Riese
 
-Adam Riese is a music venue in Frankfurt with 4 upcoming nights listed on soundcheck as of Fri, 18 Sept 2026; the next is "Elysium x Adam Riese Frankfurt with MR TECHNO & BISHALBACHT" on Fri, 9 Oct 2026.
+Adam Riese is a music venue in Frankfurt with 5 upcoming nights listed on soundcheck as of Sat, 19 Sept 2026; the next is "Elysium x Adam Riese Frankfurt with MR TECHNO & BISHALBACHT" on Fri, 9 Oct 2026.
 
-Adam Riese is a music venue in Frankfurt listed on soundcheck. 4 upcoming nights, with line-ups including ADAN and Calamity (2). Browse upcoming dates, start times and who's playing. Mainzer Landstraße 229, 60326 Frankfurt am Main, Deutschland.
+Adam Riese is a music venue in Frankfurt listed on soundcheck. 5 upcoming nights, with line-ups including ADAN, Calamity (2), Lora (1) and OKO (1). Browse upcoming dates, start times and who's playing. Mainzer Landstraße 229, 60326 Frankfurt am Main, Deutschland.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
 | Fri, 9 Oct 2026 | Elysium x Adam Riese Frankfurt with MR TECHNO & BISHALBACHT | ADAN, Calamity (2) |
+| Fri, 16 Oct 2026 | DnBaddies - Loras BDAY BASH - with OKO (UK) | Lora (1), OKO (1) |
 | Fri, 20 Nov 2026 | HEAT X OGUZ SCHRANZ SESH |  |
 | Sat, 21 Nov 2026 | FASTER X ZWILLING. ALL NIGHT LONG |  |
 | Fri, 11 Dec 2026 | BCCO X FASTER with Future666 |  |
@@ -17,4 +18,4 @@ Adam Riese is a music venue in Frankfurt listed on soundcheck. 4 upcoming nights
 
 Mainzer Landstraße 229, 60326 Frankfurt am Main, Deutschland, Frankfurt
 
-*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/frankfurt/club/adam-riese/)*
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/frankfurt/club/adam-riese/)*

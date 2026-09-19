@@ -1,14 +1,13 @@
 # SHDW
 
-SHDW is a Techno and House artist with 14 upcoming club dates listed on soundcheck as of Fri, 18 Sept 2026, next at Hangaren, Copenhagen on Fri, 18 Sept 2026.
+SHDW is a Techno and House artist with 14 upcoming club dates listed on soundcheck as of Sat, 19 Sept 2026, next at BASEMENT, New York City on Fri, 25 Sept 2026.
 
-SHDW is a techno and house artist tracked on soundcheck, with 207 sets logged across Amsterdam, Antwerp, Athens and Austin and 63 more. Often billed alongside ANNĒ, Alarico and Lars Huismann. Next up: Hangaren, Copenhagen on Fri 18 Sept.
+SHDW is a techno and house artist tracked on soundcheck, with 208 sets logged across Amsterdam, Antwerp, Athens and Austin and 64 more. Often billed alongside ANNĒ, Alarico and Lars Huismann. Next up: BASEMENT, Newyorkcity on Fri 25 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 18 Sept 2026 | Hangaren | Copenhagen |
 | Fri, 25 Sept 2026 | BASEMENT | New York City |
 | Sat, 26 Sept 2026 | Tangent Gallery | Detroit |
 | Fri, 2 Oct 2026 | INPUT High Fidelity Dance Club | Barcelona |
@@ -20,9 +19,11 @@ SHDW is a techno and house artist tracked on soundcheck, with 207 sets logged ac
 | Fri, 27 Nov 2026 | Lardner Park | Melbourne |
 | Sat, 28 Nov 2026 | Manning Bar | Sydney |
 | Fri, 4 Dec 2026 | fi | Cologne |
+| Sat, 5 Dec 2026 | Zenith - Die Kulturhalle | Munich |
 
 ## Recently played
 
+- Hangaren, Copenhagen — Fri, 18 Sept 2026
 - SMUT Athens, Athens — Sat, 12 Sept 2026
 - ART Madrid Club, Madrid — Fri, 11 Sept 2026
 - Junkyard Dortmund, Dortmund-essen — Sat, 5 Sept 2026
@@ -30,10 +31,9 @@ SHDW is a techno and house artist tracked on soundcheck, with 207 sets logged ac
 - Ampere, Antwerp — Sat, 5 Sept 2026
 - Dürener Badesee, Cologne — Fri, 28 Aug 2026
 - Dürener Badesee, Cologne — Fri, 28 Aug 2026
-- Fridas Pier, Stuttgart — Fri, 21 Aug 2026
 
 ## Shares bills with
 
 ANNĒ, Alarico, Lars Huismann
 
-*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/shdw/)*
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/shdw/)*

@@ -1,6 +1,6 @@
 # Sakrum
 
-Sakrum is a Electro and Electronica artist with 2 upcoming club dates listed on soundcheck as of Fri, 18 Sept 2026, next at Madame Claude, Berlin on Sat, 19 Sept 2026.
+Sakrum is a Electro and Electronica artist with 2 upcoming club dates listed on soundcheck as of Sat, 19 Sept 2026, next at Madame Claude, Berlin on Sat, 19 Sept 2026.
 
 Sakrum is an electro and electronica artist tracked on soundcheck, with 49 sets logged across Berlin, Krakow and Warsaw. Often billed alongside Chugajstra, vagt and Aim Ana. Next up: Madame Claude, Berlin on Sat 19 Sept.
 
@@ -26,4 +26,4 @@ Sakrum is an electro and electronica artist tracked on soundcheck, with 49 sets 
 
 Chugajstra, vagt, Aim Ana
 
-*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sakrum/)*
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sakrum/)*

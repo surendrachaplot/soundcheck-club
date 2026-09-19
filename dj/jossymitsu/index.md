@@ -1,6 +1,6 @@
 # Jossy Mitsu
 
-Jossy Mitsu is a Techno and Bass artist with 1 upcoming club date listed on soundcheck as of Fri, 18 Sept 2026, next at Ormside Projects, London on Sat, 19 Sept 2026.
+Jossy Mitsu is a Techno and Bass artist with 1 upcoming club date listed on soundcheck as of Sat, 19 Sept 2026, next at Ormside Projects, London on Sat, 19 Sept 2026.
 
 Jossy Mitsu is a techno and bass artist tracked on soundcheck, with 103 sets logged across Amsterdam, Auckland, Bangkok and Belfast and 27 more. Often billed alongside Bluetoof, BLUMITSU and Neffa-T. Next up: Ormside Projects, London on Sat 19 Sept.
 
@@ -25,4 +25,4 @@ Jossy Mitsu is a techno and bass artist tracked on soundcheck, with 103 sets log
 
 Bluetoof, BLUMITSU, Neffa-T
 
-*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jossymitsu/)*
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jossymitsu/)*

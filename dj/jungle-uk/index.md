@@ -1,6 +1,6 @@
 # Jungle (UK)
 
-Jungle (UK) is a Drum & Bass and Jungle artist with 4 upcoming club dates listed on soundcheck as of Fri, 18 Sept 2026, next at Refuge, New York City on Sat, 19 Sept 2026.
+Jungle (UK) is a Drum & Bass and Jungle artist with 4 upcoming club dates listed on soundcheck as of Sat, 19 Sept 2026, next at Refuge, New York City on Sat, 19 Sept 2026.
 
 Jungle (UK) is a drum & bass and jungle artist tracked on soundcheck, with 81 sets logged across Amsterdam, Bali, Barcelona and Belfast and 36 more. Often billed alongside Bass, Bassline and Carlita. Next up: Refuge, Newyorkcity on Sat 19 Sept.
 
@@ -28,4 +28,4 @@ Jungle (UK) is a drum & bass and jungle artist tracked on soundcheck, with 81 se
 
 Bass, Bassline, Carlita
 
-*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jungle-uk/)*
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jungle-uk/)*

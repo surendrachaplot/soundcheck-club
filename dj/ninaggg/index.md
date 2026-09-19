@@ -1,19 +1,19 @@
 # Nina GGG
 
-Nina GGG is a Club and Electronica artist with 3 upcoming club dates listed on soundcheck as of Fri, 18 Sept 2026, next at Madreams, Madrid on Fri, 18 Sept 2026.
+Nina GGG is a Club and Electronica artist with 2 upcoming club dates listed on soundcheck as of Sat, 19 Sept 2026, next at Club Magno, Madrid on Sat, 19 Sept 2026.
 
-Nina GGG is a club and electronica artist tracked on soundcheck, with 8 sets logged across Barcelona, Madrid and Milan. Often billed alongside TOM CHIESA, Rubén Secaduras and JESUZ X. Next up: Madreams, Madrid on Fri 18 Sept.
+Nina GGG is a club and electronica artist tracked on soundcheck, with 8 sets logged across Barcelona, Madrid and Milan. Often billed alongside TOM CHIESA, Rubén Secaduras and JESUZ X. Next up: Club Magno, Madrid on Sat 19 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 18 Sept 2026 | Madreams | Madrid |
 | Sat, 19 Sept 2026 | Club Magno | Madrid |
 | Sat, 10 Oct 2026 | El Pumarejo Barcelona | Barcelona |
 
 ## Recently played
 
+- Madreams, Madrid — Fri, 18 Sept 2026
 - Club Magno, Madrid — Fri, 3 Jul 2026
 - Fira Gran Via, Barcelona — Mon, 15 Jun 2026
 - Circolo Amelia, Milan — Sat, 25 Apr 2026
@@ -24,4 +24,4 @@ Nina GGG is a club and electronica artist tracked on soundcheck, with 8 sets log
 
 TOM CHIESA, Rubén Secaduras, JESUZ X
 
-*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ninaggg/)*
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ninaggg/)*

@@ -1,14 +1,15 @@
 # LAMALICE
 
-LAMALICE is a House and Electro artist with 2 upcoming club dates listed on soundcheck as of Fri, 18 Sept 2026, next at Badaboum, Paris on Fri, 16 Oct 2026.
+LAMALICE is a House and Electro artist with 3 upcoming club dates listed on soundcheck as of Sat, 19 Sept 2026, next at Badaboum, Paris on Fri, 16 Oct 2026.
 
-LAMALICE is a house and electro artist tracked on soundcheck, with 113 sets logged across Amsterdam, Athens, Bali and Barcelona and 27 more. Often billed alongside Massaï, ABI (FR) and Alyhas. Next up: Badaboum, Paris on Fri 16 Oct.
+LAMALICE is a house and electro artist tracked on soundcheck, with 114 sets logged across Amsterdam, Athens, Bali and Barcelona and 27 more. Often billed alongside Massaï, ABI (FR) and Alyhas. Next up: Badaboum, Paris on Fri 16 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 16 Oct 2026 | Badaboum | Paris |
+| Sat, 24 Oct 2026 | Nido Marseille | Marseille |
 | Sun, 25 Oct 2026 | Hasta La Vista, Baby | Amsterdam |
 
 ## Recently played
@@ -26,4 +27,4 @@ LAMALICE is a house and electro artist tracked on soundcheck, with 113 sets logg
 
 Massaï, ABI (FR), Alyhas
 
-*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lamalice/)*
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lamalice/)*

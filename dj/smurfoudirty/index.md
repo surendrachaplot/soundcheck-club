@@ -1,6 +1,6 @@
 # SMURFOUDIRTY
 
-SMURFOUDIRTY is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Fri, 18 Sept 2026, next at Xanadu, New York City on Sun, 27 Sept 2026.
+SMURFOUDIRTY is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Sat, 19 Sept 2026, next at Xanadu, New York City on Sun, 27 Sept 2026.
 
 SMURFOUDIRTY is a house and disco artist based in United States of America, tracked on soundcheck, with 45 sets logged across Newyorkcity. Often billed alongside Regis Noir, Deo'jorge and Anna Collecta. Next up: Xanadu, Newyorkcity on Sun 27 Sept.
 
@@ -26,4 +26,4 @@ SMURFOUDIRTY is a house and disco artist based in United States of America, trac
 
 Regis Noir, Deo'jorge, Anna Collecta
 
-*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/smurfoudirty/)*
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/smurfoudirty/)*

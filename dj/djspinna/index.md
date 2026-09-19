@@ -1,8 +1,8 @@
 # DJ Spinna
 
-DJ Spinna is a House and Funk / Soul artist with 2 upcoming club dates listed on soundcheck as of Fri, 18 Sept 2026, next at TBA - SpinnaVerse BK, New York City on Fri, 25 Sept 2026.
+DJ Spinna is a House and Funk / Soul artist with 3 upcoming club dates listed on soundcheck as of Sat, 19 Sept 2026, next at TBA - SpinnaVerse BK, New York City on Fri, 25 Sept 2026.
 
-DJ Spinna is a house and funk / soul artist tracked on soundcheck, with 108 sets logged across Amsterdam, Auckland, Bali and Barcelona and 18 more. Often billed alongside merlin bobb, Francois K and Kenny Dope. Next up: TBA - SpinnaVerse BK, Newyorkcity on Fri 25 Sept.
+DJ Spinna is a house and funk / soul artist tracked on soundcheck, with 109 sets logged across Amsterdam, Auckland, Bali and Barcelona and 18 more. Often billed alongside merlin bobb, Francois K and Kenny Dope. Next up: TBA - SpinnaVerse BK, Newyorkcity on Fri 25 Sept.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ DJ Spinna is a house and funk / soul artist tracked on soundcheck, with 108 sets
 | --- | --- | --- |
 | Fri, 25 Sept 2026 | TBA - SpinnaVerse BK | New York City |
 | Sun, 18 Oct 2026 | Mess Hall | Washington DC |
+| Sat, 14 Nov 2026 | La Bellevilloise | Paris |
 
 ## Recently played
 
@@ -26,4 +27,4 @@ DJ Spinna is a house and funk / soul artist tracked on soundcheck, with 108 sets
 
 merlin bobb, Francois K, Kenny Dope
 
-*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djspinna/)*
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djspinna/)*

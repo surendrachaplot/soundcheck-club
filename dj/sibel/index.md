@@ -1,6 +1,6 @@
 # Sibel
 
-Sibel is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Fri, 18 Sept 2026, next at Fridas Pier, Stuttgart on Sat, 19 Sept 2026.
+Sibel is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Sat, 19 Sept 2026, next at Fridas Pier, Stuttgart on Sat, 19 Sept 2026.
 
 Sibel is a techno and house artist tracked on soundcheck, with 69 sets logged across Berlin, Lyon, Munich and Stuttgart and 1 more. Often billed alongside Marco Bastone, Raphael Dincsoy and Alexander Maier. Next up: Fridas Pier, Stuttgart on Sat 19 Sept.
 
@@ -28,4 +28,4 @@ Sibel is a techno and house artist tracked on soundcheck, with 69 sets logged ac
 
 Marco Bastone, Raphael Dincsoy, Alexander Maier
 
-*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sibel/)*
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sibel/)*

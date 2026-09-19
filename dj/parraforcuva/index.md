@@ -1,8 +1,8 @@
 # Parra for Cuva
 
-Parra for Cuva is a House and Electronica artist with 8 upcoming club dates listed on soundcheck as of Fri, 18 Sept 2026, next at Vrachon Theater, Athens on Thu, 24 Sept 2026.
+Parra for Cuva is a House and Electronica artist with 9 upcoming club dates listed on soundcheck as of Sat, 19 Sept 2026, next at Vrachon Theater, Athens on Thu, 24 Sept 2026.
 
-Parra for Cuva is a house and electronica artist tracked on soundcheck, with 70 sets logged across Amsterdam, Athens, Barcelona and Berlin and 30 more. Often billed alongside Christian Löffler, Natascha Polké and Deer Jade. Next up: Vrachon Theater, Athens on Thu 24 Sept.
+Parra for Cuva is a house and electronica artist tracked on soundcheck, with 71 sets logged across Amsterdam, Athens, Barcelona and Berlin and 30 more. Often billed alongside Christian Löffler, Natascha Polké and Deer Jade. Next up: Vrachon Theater, Athens on Thu 24 Sept.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ Parra for Cuva is a house and electronica artist tracked on soundcheck, with 70 
 | Thu, 24 Sept 2026 | Vrachon Theater | Athens |
 | Tue, 29 Sept 2026 | Docks | Hamburg |
 | Thu, 1 Oct 2026 | Carlswerk Victoria | Cologne |
+| Fri, 2 Oct 2026 | La Cigale | Paris |
 | Sun, 4 Oct 2026 | Komplex Klub | Zurich |
 | Thu, 8 Oct 2026 | Akropolis | Prague |
 | Sat, 31 Oct 2026 | The Bellwether | Los Angeles |
@@ -32,4 +33,4 @@ Parra for Cuva is a house and electronica artist tracked on soundcheck, with 70 
 
 Christian Löffler, Natascha Polké, Deer Jade
 
-*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/parraforcuva/)*
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/parraforcuva/)*

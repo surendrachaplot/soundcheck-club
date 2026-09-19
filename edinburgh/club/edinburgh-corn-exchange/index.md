@@ -1,6 +1,6 @@
 # Edinburgh Corn Exchange
 
-Edinburgh Corn Exchange is a music venue in Edinburgh with 2 upcoming nights listed on soundcheck as of Fri, 18 Sept 2026; the next is "Nightvision Halloween: Natte Visstick, Vendex, KIRSTY & GALLØ" on Fri, 30 Oct 2026.
+Edinburgh Corn Exchange is a music venue in Edinburgh with 2 upcoming nights listed on soundcheck as of Sat, 19 Sept 2026; the next is "Nightvision Halloween: Natte Visstick, Vendex, KIRSTY & GALLØ" on Fri, 30 Oct 2026.
 
 Edinburgh Corn Exchange is a music venue in Edinburgh listed on soundcheck. 2 upcoming nights, with line-ups including KIRSTY and Vendex. Browse upcoming dates, start times and who's playing. 11 New Market Road EH14 1RJ Edinburgh, United Kingdom.
 
@@ -15,4 +15,4 @@ Edinburgh Corn Exchange is a music venue in Edinburgh listed on soundcheck. 2 up
 
 11 New Market Road EH14 1RJ Edinburgh, United Kingdom, Edinburgh
 
-*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/edinburgh/club/edinburgh-corn-exchange/)*
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/edinburgh/club/edinburgh-corn-exchange/)*

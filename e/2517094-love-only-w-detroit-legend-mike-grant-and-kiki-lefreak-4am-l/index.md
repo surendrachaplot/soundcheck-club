@@ -1,6 +1,6 @@
-# LOVE ONLY W/ Detroit legend Mike Grant and Kiki LeFreak (4am last call) at Bambi's
+# LOVE ONLY W/ Detroit Legend Mike Grant and Kiki LeFreak (4am last call) at Bambi's
 
-LOVE ONLY W/ Detroit legend Mike Grant and Kiki LeFreak (4am last call) at Bambi's on Sat 19 Sept, Toronto. 2 acts on the bill: Kiki LeFreak and Mike Grant. Techno and House. Preview the line-up and save it on soundcheck.
+LOVE ONLY W/ Detroit Legend Mike Grant and Kiki LeFreak (4am last call) at Bambi's on Sat 19 Sept, Toronto. 2 acts on the bill: Kiki LeFreak and Mike Grant. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # wizer
 
-wizer is a Electronica and House artist with 1 upcoming club date listed on soundcheck as of Fri, 18 Sept 2026, next at Departamento, Mexico City on Sat, 19 Sept 2026.
+wizer is a Electronica and House artist with 1 upcoming club date listed on soundcheck as of Sat, 19 Sept 2026, next at Departamento, Mexico City on Sat, 19 Sept 2026.
 
 wizer is an electronica and house artist tracked on soundcheck, with 27 sets logged across Mexicocity. Often billed alongside Bastian Bell, ED (MX) and Sandunga. Next up: Departamento, Mexicocity on Sat 19 Sept.
 
@@ -25,4 +25,4 @@ wizer is an electronica and house artist tracked on soundcheck, with 27 sets log
 
 Bastian Bell, ED (MX), Sandunga
 
-*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/wizer/)*
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/wizer/)*

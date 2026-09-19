@@ -1,6 +1,6 @@
 # EM2K
 
-EM2K is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 18 Sept 2026, next at TBA, Mexico City on Sat, 19 Sept 2026.
+EM2K is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 19 Sept 2026, next at TBA, Mexico City on Sat, 19 Sept 2026.
 
 EM2K is a house and techno artist based in Mexico, tracked on soundcheck, with 68 sets logged across Mexicocity. Often billed alongside AGSULO, allangrank and Mejia. Next up: TBA, Mexicocity on Sat 19 Sept.
 
@@ -26,4 +26,4 @@ EM2K is a house and techno artist based in Mexico, tracked on soundcheck, with 6
 
 AGSULO, allangrank, Mejia
 
-*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/em2k/)*
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/em2k/)*

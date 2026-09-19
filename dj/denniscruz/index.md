@@ -1,6 +1,6 @@
 # Dennis Cruz
 
-Dennis Cruz is a Tech House and House artist with 11 upcoming club dates listed on soundcheck as of Fri, 18 Sept 2026, next at TBA - Aeródromo Vilar de Luz - LPVL, 4425 Folgosa, Portugal, Porto on Fri, 18 Sept 2026.
+Dennis Cruz is a Tech House and House artist with 11 upcoming club dates listed on soundcheck as of Sat, 19 Sept 2026, next at TBA - Aeródromo Vilar de Luz - LPVL, 4425 Folgosa, Portugal, Porto on Fri, 18 Sept 2026.
 
 Dennis Cruz is a tech house and house artist tracked on soundcheck, with 183 sets logged across Amsterdam, Athens, Barcelona and Basel and 39 more. Often billed alongside PAWSA, Marco Carola and ANOTR. Next up: TBA - Aeródromo Vilar de Luz - LPVL, 4425 Folgosa, Portugal, Porto on Fri 18 Sept.
 
@@ -22,6 +22,7 @@ Dennis Cruz is a tech house and house artist tracked on soundcheck, with 183 set
 
 ## Recently played
 
+- TBA - Aeródromo Vilar de Luz - LPVL, 4425 Folgosa, Portugal, Porto — Fri, 18 Sept 2026
 - Jardins de Joan Brossa, Barcelona — Sun, 13 Sept 2026
 - TBA - Löwenpalais Berlin Grunewald   Koenigsallee 30 - 32, 14193 Berlin, Berlin — Fri, 11 Sept 2026
 - Fulton Fish Market - Hunts Point, New York City — Sat, 5 Sept 2026
@@ -29,10 +30,9 @@ Dennis Cruz is a tech house and house artist tracked on soundcheck, with 183 set
 - Else, Berlin — Fri, 21 Aug 2026
 - Burgess Park, London — Sun, 9 Aug 2026
 - Pacha Ibiza, Ibiza — Fri, 7 Aug 2026
-- Santanna Mykonos, Mykonos — Wed, 5 Aug 2026
 
 ## Shares bills with
 
 PAWSA, Marco Carola, ANOTR
 
-*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/denniscruz/)*
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/denniscruz/)*

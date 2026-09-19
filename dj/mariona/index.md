@@ -1,6 +1,6 @@
 # Mariona
 
-Mariona is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 18 Sept 2026, next at TRAUM, Antwerp on Sat, 14 Nov 2026.
+Mariona is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 19 Sept 2026, next at TRAUM, Antwerp on Sat, 14 Nov 2026.
 
 Mariona is a house and techno artist based in Spain, tracked on soundcheck, with 11 sets logged across Antwerp, Barcelona and Brussels. Often billed alongside Tweeman, Dana Montana and Disjoli. Next up: TRAUM, Antwerp on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ Mariona is a house and techno artist based in Spain, tracked on soundcheck, with
 
 Tweeman, Dana Montana, Disjoli
 
-*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mariona/)*
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mariona/)*

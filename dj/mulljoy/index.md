@@ -1,6 +1,6 @@
 # Mulljoy
 
-Mulljoy is a Deep House and Progressive House artist with 1 upcoming club date listed on soundcheck as of Fri, 18 Sept 2026, next at Wigwam, Dublin on Fri, 27 Nov 2026.
+Mulljoy is a Deep House and Progressive House artist with 1 upcoming club date listed on soundcheck as of Sat, 19 Sept 2026, next at Wigwam, Dublin on Fri, 27 Nov 2026.
 
 Mulljoy is a deep house and progressive house artist tracked on soundcheck, with 12 sets logged across Berlin and Dublin. Often billed alongside Ste Flynn, Paul Gill and EVE (IE). Next up: Wigwam, Dublin on Fri 27 Nov.
 
@@ -25,4 +25,4 @@ Mulljoy is a deep house and progressive house artist tracked on soundcheck, with
 
 Ste Flynn, Paul Gill, EVE (IE)
 
-*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mulljoy/)*
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mulljoy/)*

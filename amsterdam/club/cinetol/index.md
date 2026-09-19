@@ -1,14 +1,13 @@
 # Cinetol
 
-Cinetol is a music venue in Amsterdam with 23 upcoming nights listed on soundcheck as of Fri, 18 Sept 2026; the next is "Too Martian" on Fri, 18 Sept 2026.
+Cinetol is a music venue in Amsterdam with 22 upcoming nights listed on soundcheck as of Sat, 19 Sept 2026; the next is "GB" on Thu, 24 Sept 2026.
 
-Cinetol is a music venue in Amsterdam listed on soundcheck. 23 upcoming nights, with line-ups including AFAR, Camy Huot, Deep Forest and Dublon and 2 more. Browse upcoming dates, start times and who's playing. Tolstraat 182, 1074VM Amsterdam.
+Cinetol is a music venue in Amsterdam listed on soundcheck. 22 upcoming nights, with line-ups including AFAR, Camy Huot, Deep Forest and Dublon and 2 more. Browse upcoming dates, start times and who's playing. Tolstraat 182, 1074VM Amsterdam.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 18 Sept 2026 | Too Martian |  |
 | Thu, 24 Sept 2026 | GB |  |
 | Fri, 25 Sept 2026 | HALLOWS + Orus Boris + Grauzone DJ team |  |
 | Sat, 26 Sept 2026 | Shadowfall Festival 2026 | Camy Huot, Entrp |
@@ -18,9 +17,10 @@ Cinetol is a music venue in Amsterdam listed on soundcheck. 23 upcoming nights, 
 | Wed, 14 Oct 2026 | Roomer |  |
 | Sat, 17 Oct 2026 | Sergeant |  |
 | Sun, 18 Oct 2026 | Born at Midnite |  |
+| Mon, 19 Oct 2026 | $quib + Chris Olsen |  |
 
 ## Address
 
 Tolstraat 182, 1074VM Amsterdam, Amsterdam
 
-*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/cinetol/)*
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/cinetol/)*

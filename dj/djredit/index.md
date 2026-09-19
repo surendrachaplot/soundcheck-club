@@ -1,6 +1,6 @@
 # DJ Red
 
-DJ Red is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 18 Sept 2026, next at CLUB RAUM, Amsterdam on Fri, 23 Oct 2026.
+DJ Red is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sat, 19 Sept 2026, next at CLUB RAUM, Amsterdam on Fri, 23 Oct 2026.
 
 DJ Red is a techno and house artist tracked on soundcheck, with 72 sets logged across Amsterdam, Barcelona, Berlin and Bristol and 13 more. Often billed alongside Efdemin, DVS1 and DjRUM. Next up: CLUB RAUM, Amsterdam on Fri 23 Oct.
 
@@ -26,4 +26,4 @@ DJ Red is a techno and house artist tracked on soundcheck, with 72 sets logged a
 
 Efdemin, DVS1, DjRUM
 
-*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djredit/)*
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djredit/)*

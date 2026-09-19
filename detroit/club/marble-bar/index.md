@@ -1,14 +1,13 @@
 # Marble Bar
 
-Marble Bar is a music venue in Detroit with 9 upcoming nights listed on soundcheck as of Fri, 18 Sept 2026; the next is "thrg pres. CAM GIRL, Spray, Father Dukes, Candor, SYD, & Nico" on Fri, 18 Sept 2026.
+Marble Bar is a music venue in Detroit with 8 upcoming nights listed on soundcheck as of Sat, 19 Sept 2026; the next is "FIESTA HOUSE" on Sat, 19 Sept 2026.
 
-Marble Bar is a music venue in Detroit listed on soundcheck. 9 upcoming nights, with line-ups including BRALLE, CAM GIRL, Craze and DJ Ace and 2 more. Browse upcoming dates, start times and who's playing. 1501 Holden St, Detroit, MI 48208, USA.
+Marble Bar is a music venue in Detroit listed on soundcheck. 8 upcoming nights, with line-ups including BRALLE, Craze, DJ Ace and DJ IZA and 2 more. Browse upcoming dates, start times and who's playing. 1501 Holden St, Detroit, MI 48208, USA.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 18 Sept 2026 | thrg pres. CAM GIRL, Spray, Father Dukes, Candor, SYD, & Nico | CAM GIRL, DJ Candor, Father Dukes, Spray, Syd (2), nico dj |
 | Sat, 19 Sept 2026 | FIESTA HOUSE | DJ IZA, Planet KaiA, SWDEJAY |
 | Thu, 24 Sept 2026 | Techno Thursday: 313 Trenches | DJ Ace, Shawescape Renegade, Tommie Cool |
 | Fri, 25 Sept 2026 | 12 Hour Party |  |
@@ -22,4 +21,4 @@ Marble Bar is a music venue in Detroit listed on soundcheck. 9 upcoming nights, 
 
 1501 Holden St, Detroit, MI 48208, USA, Detroit
 
-*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/detroit/club/marble-bar/)*
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/detroit/club/marble-bar/)*

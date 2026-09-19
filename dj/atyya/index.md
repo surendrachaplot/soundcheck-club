@@ -1,6 +1,6 @@
 # ATYYA
 
-ATYYA is a Bass and Downtempo artist with 2 upcoming club dates listed on soundcheck as of Fri, 18 Sept 2026, next at Gorg-O-Mish, Vancouver on Sat, 19 Sept 2026.
+ATYYA is a Bass and Downtempo artist with 2 upcoming club dates listed on soundcheck as of Sat, 19 Sept 2026, next at Gorg-O-Mish, Vancouver on Sat, 19 Sept 2026.
 
 ATYYA is a bass and downtempo artist tracked on soundcheck, with 9 sets logged across Denver, Sandiego, Seattle and Vancouver. Often billed alongside Michael James (2), Supertask and Christine Michelle. Next up: Gorg-O-Mish, Vancouver on Sat 19 Sept.
 
@@ -25,4 +25,4 @@ ATYYA is a bass and downtempo artist tracked on soundcheck, with 9 sets logged a
 
 Michael James (2), Supertask, Christine Michelle
 
-*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/atyya/)*
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/atyya/)*

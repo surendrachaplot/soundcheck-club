@@ -1,6 +1,6 @@
 # Basement (Amsterdam)
 
-Basement (Amsterdam) is a music venue in Amsterdam with 5 upcoming nights listed on soundcheck as of Fri, 18 Sept 2026; the next is "Killacutz invites SWAG Records" on Thu, 22 Oct 2026.
+Basement (Amsterdam) is a music venue in Amsterdam with 5 upcoming nights listed on soundcheck as of Sat, 19 Sept 2026; the next is "Killacutz invites SWAG Records" on Thu, 22 Oct 2026.
 
 Basement (Amsterdam) is a music venue in Amsterdam listed on soundcheck. 5 upcoming nights, with line-ups including Adam Collins, Anthony Godfather (2), Boris Werner and camoufly and 2 more. Browse upcoming dates, start times and who's playing. 19 Leidseplein, Amsterdam, 1017 PS, Netherlands.
 
@@ -18,4 +18,4 @@ Basement (Amsterdam) is a music venue in Amsterdam listed on soundcheck. 5 upcom
 
 19 Leidseplein, Amsterdam, 1017 PS, Netherlands, Amsterdam
 
-*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/basement-amsterdam/)*
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/basement-amsterdam/)*

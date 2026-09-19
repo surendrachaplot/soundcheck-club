@@ -1,6 +1,6 @@
 # Steve Lawler
 
-Steve Lawler is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Fri, 18 Sept 2026, next at TBA, Mexico City on Sat, 19 Sept 2026.
+Steve Lawler is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Sat, 19 Sept 2026, next at TBA, Mexico City on Sat, 19 Sept 2026.
 
 Steve Lawler is a house and tech house artist tracked on soundcheck, with 63 sets logged across Barcelona, Buenosaires, Ibiza and London and 9 more. Often billed alongside gaeb, Will Taylor and Andrew Kay. Next up: TBA, Mexicocity on Sat 19 Sept.
 
@@ -25,4 +25,4 @@ Steve Lawler is a house and tech house artist tracked on soundcheck, with 63 set
 
 gaeb, Will Taylor, Andrew Kay
 
-*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/stevelawler/)*
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/stevelawler/)*

@@ -1,6 +1,6 @@
-# Unsound Kraków 2026: FUZZ - Actress / Marina Herlop / Liars feat. Macio Moretti & Tymek Papior at Teatr Łaźnia Nowa
+# Unsound Kraków 2026: FUZZ Actress / Marina Herlop / Liars feat. Macio Moretti&Jacek Prościński at Teatr Łaźnia Nowa
 
-Unsound Kraków 2026: FUZZ - Actress / Marina Herlop / Liars feat. Macio Moretti & Tymek Papior at Teatr Łaźnia Nowa on Fri 9 Oct, Krakow. 2 acts on the bill: Marina Herlop and Tymek Papior. Preview the line-up and save it on soundcheck.
+Unsound Kraków 2026: FUZZ Actress / Marina Herlop / Liars feat. Macio Moretti&Jacek Prościński at Teatr Łaźnia Nowa on Fri 9 Oct, Krakow. 2 acts on the bill: Marina Herlop and Tymek Papior. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

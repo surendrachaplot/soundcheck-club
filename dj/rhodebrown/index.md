@@ -1,18 +1,18 @@
 # Rhode & Brown
 
-Rhode & Brown is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Fri, 18 Sept 2026, next at Djoon, Paris on Fri, 18 Sept 2026.
+Rhode & Brown is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Sat, 19 Sept 2026, next at nachbar, Amsterdam on Sun, 25 Oct 2026.
 
-Rhode & Brown are a house and disco duo based in Germany, tracked on soundcheck, with 47 sets logged across Amsterdam, Bangkok, Berlin and London and 4 more. Often billed alongside Benjamin Fröhlich, Jeyrototo and Rosa Red. Next up: Djoon, Paris on Fri 18 Sept.
+Rhode & Brown are a house and disco duo based in Germany, tracked on soundcheck, with 47 sets logged across Amsterdam, Bangkok, Berlin and London and 4 more. Often billed alongside Benjamin Fröhlich, Jeyrototo and Rosa Red. Next up: nachbar, Amsterdam on Sun 25 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 18 Sept 2026 | Djoon | Paris |
 | Sun, 25 Oct 2026 | nachbar | Amsterdam |
 
 ## Recently played
 
+- Djoon, Paris — Fri, 18 Sept 2026
 - Legal, Munich — Fri, 4 Sept 2026
 - Charlie, Munich — Sat, 4 Jul 2026
 - Goldener Reiter, Munich — Sat, 20 Jun 2026
@@ -20,10 +20,9 @@ Rhode & Brown are a house and disco duo based in Germany, tracked on soundcheck,
 - Goldener Reiter, Munich — Fri, 17 Apr 2026
 - Bar Temp., Bangkok — Fri, 30 Jan 2026
 - Goldener Reiter, Munich — Fri, 14 Nov 2025
-- Goldener Reiter, Munich — Fri, 22 Aug 2025
 
 ## Shares bills with
 
 Benjamin Fröhlich, Jeyrototo, Rosa Red
 
-*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/rhodebrown/)*
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/rhodebrown/)*

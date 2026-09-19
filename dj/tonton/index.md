@@ -1,14 +1,15 @@
 # tonton
 
-tonton is a Garage and House artist with 1 upcoming club date listed on soundcheck as of Fri, 18 Sept 2026, next at Akasha Las Dalias Club - Ibiza, Ibiza on Sun, 20 Sept 2026.
+tonton is a Garage and House artist with 2 upcoming club dates listed on soundcheck as of Sat, 19 Sept 2026, next at Akasha Las Dalias Club - Ibiza, Ibiza on Sun, 20 Sept 2026.
 
-tonton is a garage and house artist tracked on soundcheck, with 27 sets logged across Berlin, Ibiza and Newyorkcity. Often billed alongside Alfonso Ares, Amine K and Ares (IT). Next up: Akasha Las Dalias Club - Ibiza, Ibiza on Sun 20 Sept.
+tonton is a garage and house artist tracked on soundcheck, with 28 sets logged across Berlin, Ibiza and Newyorkcity. Often billed alongside Alfonso Ares, Amine K and Ares (IT). Next up: Akasha Las Dalias Club - Ibiza, Ibiza on Sun 20 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sun, 20 Sept 2026 | Akasha Las Dalias Club - Ibiza | Ibiza |
+| Sun, 18 Oct 2026 | Akasha Las Dalias Club - Ibiza | Ibiza |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ tonton is a garage and house artist tracked on soundcheck, with 27 sets logged a
 
 Alfonso Ares, Amine K, Ares (IT)
 
-*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tonton/)*
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tonton/)*

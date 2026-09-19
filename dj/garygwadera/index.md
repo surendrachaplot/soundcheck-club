@@ -1,6 +1,6 @@
 # Gary Gwadera
 
-Gary Gwadera is a Footwork and Experimental artist with 1 upcoming club date listed on soundcheck as of Fri, 18 Sept 2026, next at Paavli Kultuurivabrik, Tallinn on Fri, 13 Nov 2026.
+Gary Gwadera is a Footwork and Experimental artist with 1 upcoming club date listed on soundcheck as of Sat, 19 Sept 2026, next at Paavli Kultuurivabrik, Tallinn on Fri, 13 Nov 2026.
 
 Gary Gwadera is a footwork and experimental artist tracked on soundcheck, with 9 sets logged across Berlin, Krakow, Osaka and Tallinn and 1 more. Often billed alongside 2K88, Eiko Ishibashi and RP Boo. Next up: Paavli Kultuurivabrik, Tallinn on Fri 13 Nov.
 
@@ -25,4 +25,4 @@ Gary Gwadera is a footwork and experimental artist tracked on soundcheck, with 9
 
 2K88, Eiko Ishibashi, RP Boo
 
-*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/garygwadera/)*
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/garygwadera/)*

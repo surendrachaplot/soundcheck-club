@@ -1,8 +1,8 @@
 # J. Aria
 
-J. Aria is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 18 Sept 2026, next at Algha's Plantroom, London on Sat, 19 Sept 2026.
+J. Aria is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Sat, 19 Sept 2026, next at Algha's Plantroom, London on Sat, 19 Sept 2026.
 
-J. Aria is a house and techno artist tracked on soundcheck, with 48 sets logged across Berlin, Bristol, London and Newyorkcity. Often billed alongside Joshua James, Nadine Noor and ASHTREY. Next up: Algha's Plantroom, London on Sat 19 Sept.
+J. Aria is a house and techno artist tracked on soundcheck, with 49 sets logged across Berlin, Bristol, London and Newyorkcity. Often billed alongside Joshua James, Nadine Noor and ASHTREY. Next up: Algha's Plantroom, London on Sat 19 Sept.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ J. Aria is a house and techno artist tracked on soundcheck, with 48 sets logged 
 | --- | --- | --- |
 | Sat, 19 Sept 2026 | Algha's Plantroom | London |
 | Fri, 25 Sept 2026 | The Scala | London |
+| Sun, 11 Oct 2026 | radial | London |
 
 ## Recently played
 
@@ -26,4 +27,4 @@ J. Aria is a house and techno artist tracked on soundcheck, with 48 sets logged 
 
 Joshua James, Nadine Noor, ASHTREY
 
-*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/j.aria/)*
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/j.aria/)*

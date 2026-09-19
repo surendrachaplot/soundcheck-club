@@ -1,18 +1,18 @@
 # Mr. Bobby
 
-Mr. Bobby is a Tech House and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 18 Sept 2026, next at Bourbon On Division, Chicago on Fri, 18 Sept 2026.
+Mr. Bobby is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Sat, 19 Sept 2026, next at TBA - Logan Square Chicago, Chicago on Sat, 31 Oct 2026.
 
-Mr. Bobby is a tech house and house artist tracked on soundcheck, with 81 sets logged across Chicago. Often billed alongside Flores Negras, Jimmie Page and Blu9. Next up: Bourbon On Division, Chicago on Fri 18 Sept.
+Mr. Bobby is a tech house and house artist tracked on soundcheck, with 81 sets logged across Chicago. Often billed alongside Flores Negras, Jimmie Page and Blu9. Next up: TBA - Logan Square Chicago, Chicago on Sat 31 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 18 Sept 2026 | Bourbon On Division | Chicago |
 | Sat, 31 Oct 2026 | TBA - Logan Square Chicago | Chicago |
 
 ## Recently played
 
+- Bourbon On Division, Chicago — Fri, 18 Sept 2026
 - TBA - Chicago, Chicago — Fri, 11 Sept 2026
 - Bourbon On Division, Chicago — Fri, 21 Aug 2026
 - Subterrannean, Chicago — Thu, 6 Aug 2026
@@ -20,10 +20,9 @@ Mr. Bobby is a tech house and house artist tracked on soundcheck, with 81 sets l
 - TBA - RSVP FOR LOCATION, Chicago — Sat, 11 Jul 2026
 - Bourbon On Division, Chicago — Fri, 19 Jun 2026
 - TBA, Chicago — Sat, 6 Jun 2026
-- Bourbon On Division, Chicago — Sat, 23 May 2026
 
 ## Shares bills with
 
 Flores Negras, Jimmie Page, Blu9
 
-*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mr.bobby/)*
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mr.bobby/)*

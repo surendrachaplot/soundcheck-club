@@ -1,6 +1,6 @@
 # Péniche Loupika
 
-Péniche Loupika is a music venue in Lyon with 1 upcoming night listed on soundcheck as of Fri, 18 Sept 2026; the next is "Sunset Gift Loupika" on Sun, 20 Sept 2026.
+Péniche Loupika is a music venue in Lyon with 1 upcoming night listed on soundcheck as of Sat, 19 Sept 2026; the next is "Sunset Gift Loupika" on Sun, 20 Sept 2026.
 
 Péniche Loupika is a music venue in Lyon listed on soundcheck. 1 upcoming night. Browse upcoming dates, start times and who's playing. 47 Quai Rambaud, 69002 Lyon, France.
 
@@ -14,4 +14,4 @@ Péniche Loupika is a music venue in Lyon listed on soundcheck. 1 upcoming night
 
 47 Quai Rambaud, 69002 Lyon, France, Lyon
 
-*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/lyon/club/p-niche-loupika/)*
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/lyon/club/p-niche-loupika/)*

@@ -1,6 +1,6 @@
 # ROÜGE
 
-ROÜGE is a Techno and Trance artist with 4 upcoming club dates listed on soundcheck as of Fri, 18 Sept 2026, next at Cabaret  Aléatoire, Marseille on Fri, 25 Sept 2026.
+ROÜGE is a Techno and Trance artist with 4 upcoming club dates listed on soundcheck as of Sat, 19 Sept 2026, next at Cabaret  Aléatoire, Marseille on Fri, 25 Sept 2026.
 
 ROÜGE is a techno and trance artist tracked on soundcheck, with 103 sets logged across Amsterdam, Athens, Barcelona and Belgrade and 33 more. Often billed alongside Bours?, EARGASM GOD and I Hate Models. Next up: Cabaret  Aléatoire, Marseille on Fri 25 Sept.
 
@@ -28,4 +28,4 @@ ROÜGE is a techno and trance artist tracked on soundcheck, with 103 sets logged
 
 Bours?, EARGASM GOD, I Hate Models
 
-*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/rouge/)*
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/rouge/)*

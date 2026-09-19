@@ -1,6 +1,6 @@
 # Carl Cox
 
-Carl Cox is a Techno and House artist with 9 upcoming club dates listed on soundcheck as of Fri, 18 Sept 2026, next at Carroponte, Milan on Sat, 19 Sept 2026.
+Carl Cox is a Techno and House artist with 9 upcoming club dates listed on soundcheck as of Sat, 19 Sept 2026, next at Carroponte, Milan on Sat, 19 Sept 2026.
 
 Carl Cox is a techno and house artist tracked on soundcheck, with 133 sets logged across Amsterdam, Antwerp, Auckland and Austin and 43 more. Often billed alongside Melon Bomb, Chelina Manuhutu and Christopher Coe. Next up: Carroponte, Milan on Sat 19 Sept.
 
@@ -33,4 +33,4 @@ Carl Cox is a techno and house artist tracked on soundcheck, with 133 sets logge
 
 Melon Bomb, Chelina Manuhutu, Christopher Coe
 
-*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/carlcox/)*
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/carlcox/)*

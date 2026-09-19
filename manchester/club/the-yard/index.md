@@ -1,6 +1,6 @@
 # The Yard
 
-The Yard is a music venue in Manchester with 7 upcoming nights listed on soundcheck as of Fri, 18 Sept 2026; the next is "Mukes Carnival" on Sat, 19 Sept 2026.
+The Yard is a music venue in Manchester with 7 upcoming nights listed on soundcheck as of Sat, 19 Sept 2026; the next is "Mukes Carnival" on Sat, 19 Sept 2026.
 
 The Yard is a music venue in Manchester listed on soundcheck. 7 upcoming nights, with line-ups including 13Ø4, Adam Freeland, Aisling and Alex Q (3) and 2 more. Browse upcoming dates, start times and who's playing. 11 Bent Street, Manchester M8 8NF.
 
@@ -20,4 +20,4 @@ The Yard is a music venue in Manchester listed on soundcheck. 7 upcoming nights,
 
 11 Bent Street, Manchester M8 8NF, Manchester
 
-*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/the-yard/)*
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/the-yard/)*

@@ -1,14 +1,13 @@
 # Gewölbe
 
-Gewölbe is a music venue in Cologne with 13 upcoming nights listed on soundcheck as of Fri, 18 Sept 2026; the next is "Klubnacht with Gerd Janson, lyzanne" on Fri, 18 Sept 2026.
+Gewölbe is a music venue in Cologne with 12 upcoming nights listed on soundcheck as of Sat, 19 Sept 2026; the next is "Klubnacht with Anuli, Maruhni, paaradoxx" on Fri, 18 Sept 2026.
 
-Gewölbe is a music venue in Cologne listed on soundcheck. 13 upcoming nights, with line-ups including Ada Luvv, Adiel, Aino DJ and Andy Garvey and 2 more. Browse upcoming dates, start times and who's playing. Hans-Böckler Platz 2, 50672; Cologne; Germany.
+Gewölbe is a music venue in Cologne listed on soundcheck. 12 upcoming nights, with line-ups including Ada Luvv, Adiel, Aino DJ and Andy Garvey and 2 more. Browse upcoming dates, start times and who's playing. Hans-Böckler Platz 2, 50672; Cologne; Germany.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 18 Sept 2026 | Klubnacht with Gerd Janson, lyzanne | Gerd Janson, lyzanne |
 | Fri, 18 Sept 2026 | Klubnacht with Anuli, Maruhni, paaradoxx | Anuli, Maruhni, paaradoxx |
 | Sat, 19 Sept 2026 | Klubnacht with Adiel, Di², EPHIE | Adiel, Di² (1), EPHIE |
 | Sun, 20 Sept 2026 | Research with Ada Luvv, Aino, Clifford & Simon Hein | Ada Luvv, Aino DJ |
@@ -18,9 +17,10 @@ Gewölbe is a music venue in Cologne listed on soundcheck. 13 upcoming nights, w
 | Sat, 3 Oct 2026 | Im Fokus with Habben & Sandilé, salmjak, Savsannah & Philo | Philo_, Sandilé, Savsannah, Sebastian Habben, salmjak |
 | Sat, 10 Oct 2026 | Feines Tier with Franca & Philipp Fein | Franca, Philipp Fein |
 | Sat, 17 Oct 2026 | krakelee club with Andy Garvey, a:tok, oskø | Andy Garvey, a:tok, oskø |
+| Sat, 24 Oct 2026 | breakfest with Leyla & tanjuesch, lu.wicked, Zenker Brothers | Leyla (3), Zenker Brothers, lu.wicked, tanjuesch |
 
 ## Address
 
 Hans-Böckler Platz 2, 50672; Cologne; Germany, Cologne
 
-*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/cologne/club/gew-lbe/)*
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/cologne/club/gew-lbe/)*

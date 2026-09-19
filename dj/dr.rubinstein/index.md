@@ -1,6 +1,6 @@
 # Dr. Rubinstein
 
-Dr. Rubinstein is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Fri, 18 Sept 2026, next at RSO.BERLIN, Berlin on Fri, 2 Oct 2026.
+Dr. Rubinstein is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Sat, 19 Sept 2026, next at RSO.BERLIN, Berlin on Fri, 2 Oct 2026.
 
 Dr. Rubinstein is a techno and house artist tracked on soundcheck, with 204 sets logged across Amsterdam, Antwerp, Barcelona and Belgrade and 60 more. Often billed alongside Ellen Allien, Freddy K and Akua. Next up: RSO.BERLIN, Berlin on Fri 2 Oct.
 
@@ -29,4 +29,4 @@ Dr. Rubinstein is a techno and house artist tracked on soundcheck, with 204 sets
 
 Ellen Allien, Freddy K, Akua
 
-*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dr.rubinstein/)*
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dr.rubinstein/)*

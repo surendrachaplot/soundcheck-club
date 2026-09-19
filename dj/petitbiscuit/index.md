@@ -1,6 +1,6 @@
 # Petit Biscuit
 
-Petit Biscuit is a House and Ambient artist with 5 upcoming club dates listed on soundcheck as of Fri, 18 Sept 2026, next at Prince Bandroom, Melbourne on Sat, 19 Sept 2026.
+Petit Biscuit is a House and Ambient artist with 5 upcoming club dates listed on soundcheck as of Sat, 19 Sept 2026, next at Prince Bandroom, Melbourne on Sat, 19 Sept 2026.
 
 Petit Biscuit is a house and ambient artist tracked on soundcheck, with 7 sets logged across Losangeles, Melbourne, Nantes and Sanfrancisco and 1 more. Often billed alongside Forester, Hutcher and Jofes. Next up: Prince Bandroom, Melbourne on Sat 19 Sept.
 
@@ -23,4 +23,4 @@ Petit Biscuit is a house and ambient artist tracked on soundcheck, with 7 sets l
 
 Forester, Hutcher, Jofes
 
-*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/petitbiscuit/)*
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/petitbiscuit/)*

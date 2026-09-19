@@ -1,19 +1,19 @@
 # Marc Matter
 
-Marc Matter is a Experimental and Techno artist with 3 upcoming club dates listed on soundcheck as of Fri, 18 Sept 2026, next at Du Beast, Berlin on Fri, 18 Sept 2026.
+Marc Matter is a Experimental and Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 19 Sept 2026, next at TBA - check telegram, Berlin on Sat, 26 Sept 2026.
 
-Marc Matter is an experimental and techno artist tracked on soundcheck, with 14 sets logged across Berlin, Dusseldorf and Hamburg. Often billed alongside Anna Butter, DON'T DJ and Inken. Next up: Du Beast, Berlin on Fri 18 Sept.
+Marc Matter is an experimental and techno artist tracked on soundcheck, with 14 sets logged across Berlin, Dusseldorf and Hamburg. Often billed alongside Anna Butter, DON'T DJ and Inken. Next up: TBA - check telegram, Berlin on Sat 26 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 18 Sept 2026 | Du Beast | Berlin |
 | Sat, 26 Sept 2026 | TBA - check telegram | Berlin |
 | Sat, 28 Nov 2026 | TBA | Berlin |
 
 ## Recently played
 
+- Du Beast, Berlin — Fri, 18 Sept 2026
 - Salon des Amateurs, Düsseldorf — Sat, 22 Aug 2026
 - Salon des Amateurs, Düsseldorf — Sat, 6 Jun 2026
 - Beek, Hamburg — Sat, 23 May 2026
@@ -21,10 +21,9 @@ Marc Matter is an experimental and techno artist tracked on soundcheck, with 14 
 - TBA - Private Event, Berlin — Sat, 25 Apr 2026
 - Bar Neun, Berlin — Thu, 9 Apr 2026
 - Salon des Amateurs, Düsseldorf — Sat, 4 Apr 2026
-- Bar Neun, Berlin — Sat, 31 Jan 2026
 
 ## Shares bills with
 
 Anna Butter, DON'T DJ, Inken
 
-*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/marcmatter/)*
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/marcmatter/)*

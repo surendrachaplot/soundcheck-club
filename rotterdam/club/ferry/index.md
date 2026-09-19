@@ -1,6 +1,6 @@
 # Ferry
 
-Ferry is a music venue in Rotterdam with 1 upcoming night listed on soundcheck as of Fri, 18 Sept 2026; the next is "HAREM, HABIBI 3" on Fri, 20 Nov 2026.
+Ferry is a music venue in Rotterdam with 1 upcoming night listed on soundcheck as of Sat, 19 Sept 2026; the next is "HAREM, HABIBI 3" on Fri, 20 Nov 2026.
 
 Ferry is a music venue in Rotterdam listed on soundcheck. 1 upcoming night. Browse upcoming dates, start times and who's playing. Westblaak 127, 3012KJ Rotterdam.
 
@@ -14,4 +14,4 @@ Ferry is a music venue in Rotterdam listed on soundcheck. 1 upcoming night. Brow
 
 Westblaak 127, 3012KJ Rotterdam, Rotterdam
 
-*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/rotterdam/club/ferry/)*
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/rotterdam/club/ferry/)*

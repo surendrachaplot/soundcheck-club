@@ -1,14 +1,13 @@
 # Panic Room
 
-Panic Room is a music venue in Paris with 11 upcoming nights listed on soundcheck as of Fri, 18 Sept 2026; the next is "WAAG" on Fri, 18 Sept 2026.
+Panic Room is a music venue in Paris with 10 upcoming nights listed on soundcheck as of Sat, 19 Sept 2026; the next is "ESSENCE" on Sat, 19 Sept 2026.
 
-Panic Room is a music venue in Paris listed on soundcheck. 11 upcoming nights, with line-ups including Perdu, Shonen Bat and Vice Experience. Browse upcoming dates, start times and who's playing. 101 rue Amelot; 75011; Paris; France.
+Panic Room is a music venue in Paris listed on soundcheck. 10 upcoming nights, with line-ups including Perdu, Shonen Bat and Vice Experience. Browse upcoming dates, start times and who's playing. 101 rue Amelot; 75011; Paris; France.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 18 Sept 2026 | WAAG |  |
 | Sat, 19 Sept 2026 | ESSENCE |  |
 | Wed, 23 Sept 2026 | BAZAAR |  |
 | Thu, 24 Sept 2026 | HIT THE GROUND |  |
@@ -18,9 +17,10 @@ Panic Room is a music venue in Paris listed on soundcheck. 11 upcoming nights, w
 | Thu, 1 Oct 2026 | BASSCULE |  |
 | Fri, 2 Oct 2026 | NECTAR COLLECTIF |  |
 | Sat, 3 Oct 2026 | AGOYA |  |
+| Wed, 14 Oct 2026 | Panic Room x Double Phoque | Vice Experience |
 
 ## Address
 
 101 rue Amelot; 75011; Paris; France, Paris
 
-*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/paris/club/panic-room/)*
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/paris/club/panic-room/)*

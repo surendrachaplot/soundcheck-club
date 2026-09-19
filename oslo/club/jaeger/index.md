@@ -1,14 +1,13 @@
 # Jaeger
 
-Jaeger is a music venue in Oslo with 9 upcoming nights listed on soundcheck as of Fri, 18 Sept 2026; the next is "Frædag: Elli Acula + Olanskii (Tekno set) + g-HA + Øyvind Morken" on Fri, 18 Sept 2026.
+Jaeger is a music venue in Oslo with 8 upcoming nights listed on soundcheck as of Sat, 19 Sept 2026; the next is "Lyd: Olle Abstract + Source of Nature" on Sat, 19 Sept 2026.
 
-Jaeger is a music venue in Oslo listed on soundcheck. 9 upcoming nights, with line-ups including Anders Hajem, Einmusik, Elli Acula and Finnebassen and 2 more. Browse upcoming dates, start times and who's playing. Grensen 9; 0159 Oslo; Norway,.
+Jaeger is a music venue in Oslo listed on soundcheck. 8 upcoming nights, with line-ups including Anders Hajem, Einmusik, Finnebassen and G-HA and 2 more. Browse upcoming dates, start times and who's playing. Grensen 9; 0159 Oslo; Norway,.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 18 Sept 2026 | Frædag: Elli Acula + Olanskii (Tekno set) + g-HA + Øyvind Morken | Elli Acula, G-HA, Olanskii, Øyvind Morken |
 | Sat, 19 Sept 2026 | Lyd: Olle Abstract + Source of Nature | Anders Hajem |
 | Fri, 25 Sept 2026 | Frædag: Tony Humphries + G-HA & Olanskii + Øyvind Morken | G-HA, Olanskii, Tony Humphries, Øyvind Morken |
 | Sat, 26 Sept 2026 | Sunkissed: Ivan Smagghe + Vinny Villbass + Sirkus Sunkissed | G-HA, Ivan Smagghe, Olanskii, Vinny Villbass |
@@ -22,4 +21,4 @@ Jaeger is a music venue in Oslo listed on soundcheck. 9 upcoming nights, with li
 
 Grensen 9; 0159 Oslo; Norway,, Oslo
 
-*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/oslo/club/jaeger/)*
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/oslo/club/jaeger/)*

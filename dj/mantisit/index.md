@@ -1,6 +1,6 @@
 # Mantis (IT)
 
-Mantis (IT) is a Techno and Bass artist with 1 upcoming club date listed on soundcheck as of Fri, 18 Sept 2026, next at TBA - Via di Monte Testaccio 67, Rome, Rome on Sat, 19 Sept 2026.
+Mantis (IT) is a Techno and Bass artist with 1 upcoming club date listed on soundcheck as of Sat, 19 Sept 2026, next at TBA - Via di Monte Testaccio 67, Rome, Rome on Sat, 19 Sept 2026.
 
 Mantis (IT) is a techno and bass artist tracked on soundcheck, with 11 sets logged across Rome. Often billed alongside VSC (1), Her Nice Too and Manifesto Disappunto. Next up: TBA - Via di Monte Testaccio 67, Rome, Rome on Sat 19 Sept.
 
@@ -25,4 +25,4 @@ Mantis (IT) is a techno and bass artist tracked on soundcheck, with 11 sets logg
 
 VSC (1), Her Nice Too, Manifesto Disappunto
 
-*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mantisit/)*
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mantisit/)*

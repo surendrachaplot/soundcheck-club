@@ -1,14 +1,13 @@
 # Bar Oriente
 
-Bar Oriente is a music venue in Mexico City with 7 upcoming nights listed on soundcheck as of Fri, 18 Sept 2026; the next is "Husa & Zeyada (LIVE), Antaares, Senzs" on Fri, 18 Sept 2026.
+Bar Oriente is a music venue in Mexico City with 6 upcoming nights listed on soundcheck as of Sat, 19 Sept 2026; the next is "Silueta vs PranaMusik" on Sat, 19 Sept 2026.
 
-Bar Oriente is a music venue in Mexicocity listed on soundcheck. 7 upcoming nights, with line-ups including AEREA, Andre VII, Antaares and c3rpa and 2 more. Browse upcoming dates, start times and who's playing. Calle de Durango 181, Roma Nte., 06700 Ciudad de MÃ©xico, CDMX.
+Bar Oriente is a music venue in Mexicocity listed on soundcheck. 6 upcoming nights, with line-ups including AEREA, Andre VII, c3rpa and Jason Peters and 2 more. Browse upcoming dates, start times and who's playing. Calle de Durango 181, Roma Nte., 06700 Ciudad de MÃ©xico, CDMX.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 18 Sept 2026 | Husa & Zeyada (LIVE), Antaares, Senzs | Antaares, Husa & Zeyada |
 | Sat, 19 Sept 2026 | Silueta vs PranaMusik |  |
 | Thu, 24 Sept 2026 | Mucha Discoteca | Motel Flamingo |
 | Fri, 16 Oct 2026 | La Plazuela (Dj Set) |  |
@@ -20,4 +19,4 @@ Bar Oriente is a music venue in Mexicocity listed on soundcheck. 7 upcoming nigh
 
 Calle de Durango 181, Roma Nte., 06700 Ciudad de MÃ©xico, CDMX, Mexico City
 
-*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/mexicocity/club/bar-oriente/)*
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/mexicocity/club/bar-oriente/)*

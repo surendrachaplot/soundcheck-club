@@ -1,6 +1,6 @@
 # Beach House San Diego
 
-Beach House San Diego is a music venue in San Diego with 8 upcoming nights listed on soundcheck as of Fri, 18 Sept 2026; the next is "LED Day Club with Biscits + Willo" on Fri, 9 Oct 2026.
+Beach House San Diego is a music venue in San Diego with 8 upcoming nights listed on soundcheck as of Sat, 19 Sept 2026; the next is "LED Day Club with Biscits + Willo" on Fri, 9 Oct 2026.
 
 Beach House San Diego is a music venue in Sandiego listed on soundcheck. 8 upcoming nights, with line-ups including FLETCH, Biscits, ChaseWest and Josh Baker and 2 more. Browse upcoming dates, start times and who's playing. 3125 Ocean Front Walk.
 
@@ -21,4 +21,4 @@ Beach House San Diego is a music venue in Sandiego listed on soundcheck. 8 upcom
 
 3125 Ocean Front Walk, San Diego
 
-*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/sandiego/club/beach-house-san-diego/)*
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/sandiego/club/beach-house-san-diego/)*

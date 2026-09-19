@@ -1,6 +1,6 @@
 # KEKURA
 
-KEKURA is a Deep House and Afro House artist with 1 upcoming club date listed on soundcheck as of Fri, 18 Sept 2026, next at Frau Gerolds Garten, Zurich on Sat, 19 Sept 2026.
+KEKURA is a Deep House and Afro House artist with 1 upcoming club date listed on soundcheck as of Sat, 19 Sept 2026, next at Frau Gerolds Garten, Zurich on Sat, 19 Sept 2026.
 
 KEKURA is a deep house and afro house artist tracked on soundcheck, with 26 sets logged across Berlin, Istanbul, Milan and Zurich. Often billed alongside Ukãi Ndame, REMEN and SHANNIN. Next up: Frau Gerolds Garten, Zurich on Sat 19 Sept.
 
@@ -25,4 +25,4 @@ KEKURA is a deep house and afro house artist tracked on soundcheck, with 26 sets
 
 Ukãi Ndame, REMEN, SHANNIN
 
-*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kekura/)*
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kekura/)*

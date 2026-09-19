@@ -1,14 +1,13 @@
 # Arzenal
 
-Arzenal is a music venue in Budapest with 9 upcoming nights listed on soundcheck as of Fri, 18 Sept 2026; the next is "TKWT invites: AEREA live" on Fri, 18 Sept 2026.
+Arzenal is a music venue in Budapest with 8 upcoming nights listed on soundcheck as of Sat, 19 Sept 2026; the next is "Arzenal pres.: Onlynumbers & SPEEDLIMITER" on Sat, 19 Sept 2026.
 
-Arzenal is a music venue in Budapest listed on soundcheck. 9 upcoming nights, with line-ups including AEREA, AESZTETIK, Cloudy and Cvrdwell and 2 more. Browse upcoming dates, start times and who's playing. Soroksári út 158/C Budapest, Hungary 1095.
+Arzenal is a music venue in Budapest listed on soundcheck. 8 upcoming nights, with line-ups including AESZTETIK, Cloudy, FUMI and Hot Since 82 and 2 more. Browse upcoming dates, start times and who's playing. Soroksári út 158/C Budapest, Hungary 1095.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 18 Sept 2026 | TKWT invites: AEREA live | AEREA, Cvrdwell, Daniel Moritz, Detective Kelly, THIRD 2HIFT |
 | Sat, 19 Sept 2026 | Arzenal pres.: Onlynumbers & SPEEDLIMITER | Onlynumbers |
 | Sat, 3 Oct 2026 | Avatar & VégrePéntek! & Arzenál pres. Liquid Soul - FREE EVENT | Liquid Soul |
 | Fri, 9 Oct 2026 | UNREAL x ARZENÁL: Cloudy ALL NIGHT LONG | Cloudy |
@@ -22,4 +21,4 @@ Arzenal is a music venue in Budapest listed on soundcheck. 9 upcoming nights, wi
 
 Soroksári út 158/C Budapest, Hungary 1095, Budapest
 
-*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/budapest/club/arzenal/)*
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/budapest/club/arzenal/)*

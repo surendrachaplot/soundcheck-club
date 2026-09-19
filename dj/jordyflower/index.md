@@ -1,6 +1,6 @@
 # Jordyflower
 
-Jordyflower is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Fri, 18 Sept 2026, next at Bossa Nova Civic Club, New York City on Fri, 25 Sept 2026.
+Jordyflower is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Sat, 19 Sept 2026, next at Bossa Nova Civic Club, New York City on Fri, 25 Sept 2026.
 
 Jordyflower is a techno and electro artist tracked on soundcheck, with 11 sets logged across Newyorkcity. Often billed alongside Zarina, Don-Ri and Mariposa. Next up: Bossa Nova Civic Club, Newyorkcity on Fri 25 Sept.
 
@@ -25,4 +25,4 @@ Jordyflower is a techno and electro artist tracked on soundcheck, with 11 sets l
 
 Zarina, Don-Ri, Mariposa
 
-*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jordyflower/)*
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jordyflower/)*

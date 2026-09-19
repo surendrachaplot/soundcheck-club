@@ -1,14 +1,14 @@
 # Zagal
 
-Zagal is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Fri, 18 Sept 2026, next at TBA - Secret Location, Madrid on Sat, 17 Oct 2026.
+Zagal is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Sat, 19 Sept 2026, next at TBA - Secret Location (Madrid), Madrid on Sat, 17 Oct 2026.
 
-Zagal is a house and minimal artist tracked on soundcheck, with 9 sets logged across Barcelona, Brussels and Madrid. Often billed alongside Killo, Cristal Roto and Ana Alves. Next up: TBA - Secret Location, Madrid on Sat 17 Oct.
+Zagal is a house and minimal artist tracked on soundcheck, with 9 sets logged across Barcelona, Brussels and Madrid. Often billed alongside Killo, Cristal Roto and Ana Alves. Next up: TBA - Secret Location (Madrid), Madrid on Sat 17 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 17 Oct 2026 | TBA - Secret Location | Madrid |
+| Sat, 17 Oct 2026 | TBA - Secret Location (Madrid) | Madrid |
 
 ## Recently played
 
@@ -25,4 +25,4 @@ Zagal is a house and minimal artist tracked on soundcheck, with 9 sets logged ac
 
 Killo, Cristal Roto, Ana Alves
 
-*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/zagal/)*
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/zagal/)*

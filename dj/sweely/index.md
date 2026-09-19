@@ -1,6 +1,6 @@
 # Sweely
 
-Sweely is a House and Techno artist with 6 upcoming club dates listed on soundcheck as of Fri, 18 Sept 2026, next at UNO MALTA, Malta on Fri, 18 Sept 2026.
+Sweely is a House and Techno artist with 6 upcoming club dates listed on soundcheck as of Sat, 19 Sept 2026, next at UNO MALTA, Malta on Fri, 18 Sept 2026.
 
 Sweely is a house and techno artist tracked on soundcheck, with 175 sets logged across Amsterdam, Athens, Barcelona and Belgrade and 46 more. Often billed alongside Enzo Siragusa, The Ghost and Traumer. Next up: UNO MALTA, Malta on Fri 18 Sept.
 
@@ -17,6 +17,7 @@ Sweely is a house and techno artist tracked on soundcheck, with 175 sets logged 
 
 ## Recently played
 
+- UNO MALTA, Malta — Fri, 18 Sept 2026
 - Nido Marseille, Marseille — Sat, 12 Sept 2026
 - Nido Marseille, Marseille — Sat, 12 Sept 2026
 - La Terrrazza, Barcelona — Sat, 5 Sept 2026
@@ -24,10 +25,9 @@ Sweely is a house and techno artist tracked on soundcheck, with 175 sets logged 
 - La Cité des Arts de la Rue, Marseille — Sat, 25 Jul 2026
 - TBA - SECRET LOCATION 45 min from BCN , Barcelona — Fri, 10 Jul 2026
 - Jolene Downtown Miami, Miami — Sun, 5 Jul 2026
-- Club Space Miami, Miami — Sat, 4 Jul 2026
 
 ## Shares bills with
 
 Enzo Siragusa, The Ghost, Traumer
 
-*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sweely/)*
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sweely/)*

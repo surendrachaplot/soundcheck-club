@@ -1,15 +1,15 @@
 # Beursschouwburg
 
-Beursschouwburg is a music venue in Brussels with 11 upcoming nights listed on soundcheck as of Fri, 18 Sept 2026; the next is "Bubbling Night w/ Tsunamy + prvne + Laryssa Kim & NMSS" on Fri, 18 Sept 2026.
+Beursschouwburg is a music venue in Brussels with 11 upcoming nights listed on soundcheck as of Sat, 19 Sept 2026; the next is "Music on a whim presents Folk Futures w/ Sarathy Korwar & Cinna Peyghamy + Monopoly of Bells" on Thu, 24 Sept 2026.
 
-Beursschouwburg is a music venue in Brussels listed on soundcheck. 11 upcoming nights, with line-ups including Carmilla Sioux, Cinna Peyghamy, DJ Bisou and Dj LovePills and 2 more. Browse upcoming dates, start times and who's playing. Auguste Ortsstraat 20-28; 1000 Brussel; Belgium.
+Beursschouwburg is a music venue in Brussels listed on soundcheck. 11 upcoming nights, with line-ups including Carmilla Sioux, Cinna, Cinna Peyghamy and DJ Bisou and 2 more. Browse upcoming dates, start times and who's playing. Auguste Ortsstraat 20-28; 1000 Brussel; Belgium.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 18 Sept 2026 | Bubbling Night w/ Tsunamy + prvne + Laryssa Kim & NMSS | Laryssa Kim, NMSS, Prvne, Tsunamy |
 | Thu, 24 Sept 2026 | Music on a whim presents Folk Futures w/ Sarathy Korwar & Cinna Peyghamy + Monopoly of Bells | Cinna Peyghamy |
+| Thu, 24 Sept 2026 | Music On A Whim presents Folk Futures with Sarathy Korwar & Cinna Peyghamy + Monopoly of Bells | Cinna |
 | Sat, 26 Sept 2026 | Futura Resistenza w/ De Kloe + Venus Tropicaux + Fanny Alizée + Sheree & Bob |  |
 | Wed, 30 Sept 2026 | SLAGADER | Slagader |
 | Fri, 9 Oct 2026 | Radio Hito + Suzan Peeters | Radio Hito |
@@ -23,4 +23,4 @@ Beursschouwburg is a music venue in Brussels listed on soundcheck. 11 upcoming n
 
 Auguste Ortsstraat 20-28; 1000 Brussel; Belgium, Brussels
 
-*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/brussels/club/beursschouwburg/)*
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/brussels/club/beursschouwburg/)*

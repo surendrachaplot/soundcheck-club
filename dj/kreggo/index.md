@@ -1,0 +1,28 @@
+# Kreggo
+
+Kreggo is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 19 Sept 2026, next at Combo Milano, Milan on Sun, 4 Oct 2026.
+
+Kreggo is a techno and house artist tracked on soundcheck, with 22 sets logged across Kyoto, Madrid, Milan and Osaka and 6 more. Often billed alongside Gambo, XIII and passEnger. Next up: Combo Milano, Milan on Sun 4 Oct.
+
+## Upcoming shows
+
+| Date | Venue | City |
+| --- | --- | --- |
+| Sun, 4 Oct 2026 | Combo Milano | Milan |
+
+## Recently played
+
+- Piedicavallo, Turin — Fri, 21 Aug 2026
+- MOGO, Milan — Fri, 23 Jan 2026
+- Combo Torino, Turin — Sun, 23 Nov 2025
+- Bunker, Turin — Fri, 30 May 2025
+- Saloon, Tokyo — Fri, 16 May 2025
+- West Harlem, Kyoto — Thu, 15 May 2025
+- BAR Inc, Osaka — Sun, 11 May 2025
+- Circolo dei Cerchi, Rome — Sat, 29 Mar 2025
+
+## Shares bills with
+
+Gambo, XIII, passEnger
+
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kreggo/)*

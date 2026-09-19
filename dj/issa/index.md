@@ -1,6 +1,6 @@
 # ISSA
 
-ISSA is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 18 Sept 2026, next at Circus Tokyo, Tokyo on Sat, 19 Sept 2026.
+ISSA is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 19 Sept 2026, next at Circus Tokyo, Tokyo on Sat, 19 Sept 2026.
 
 ISSA is a house and techno artist based in United States of America, tracked on soundcheck, with 32 sets logged across Sanfrancisco and Tokyo. Often billed alongside r1ku, YUVIE and kengotaki. Next up: Circus Tokyo, Tokyo on Sat 19 Sept.
 
@@ -26,4 +26,4 @@ ISSA is a house and techno artist based in United States of America, tracked on 
 
 r1ku, YUVIE, kengotaki
 
-*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/issa/)*
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/issa/)*

@@ -1,6 +1,6 @@
 # Adriatique
 
-Adriatique is a Techno and House artist with 8 upcoming club dates listed on soundcheck as of Fri, 18 Sept 2026, next at IFEMA, Madrid on Fri, 18 Sept 2026.
+Adriatique is a Techno and House artist with 7 upcoming club dates listed on soundcheck as of Sat, 19 Sept 2026, next at IFEMA, Madrid on Fri, 18 Sept 2026.
 
 Adriatique is a techno and house artist tracked on soundcheck, with 154 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 36 more. Often billed alongside Mind Against, Colyn and Âme. Next up: IFEMA, Madrid on Fri 18 Sept.
 
@@ -8,7 +8,6 @@ Adriatique is a techno and house artist tracked on soundcheck, with 154 sets log
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 18 Sept 2026 | IFEMA | Madrid |
 | Fri, 18 Sept 2026 | IFEMA | Madrid |
 | Sun, 20 Sept 2026 | TBA -  The Ditch, Valletta | Malta |
 | Thu, 24 Sept 2026 | [UNVRS] | Ibiza |
@@ -19,17 +18,17 @@ Adriatique is a techno and house artist tracked on soundcheck, with 154 sets log
 
 ## Recently played
 
+- IFEMA, Madrid — Fri, 18 Sept 2026
+- IFEMA, Madrid — Fri, 18 Sept 2026
 - [UNVRS], Ibiza — Thu, 17 Sept 2026
 - Dolder Wellenbad, Zurich — Sat, 5 Sept 2026
 - Piknic Électronik / Parc Jean Drapeau, Montreal — Fri, 28 Aug 2026
 - Old Royal Naval College, London — Sat, 8 Aug 2026
 - fabric, London — Sat, 8 Aug 2026
 - Brooklyn Army Terminal, New York City — Sun, 19 Jul 2026
-- Brooklyn Storehouse, New York City — Sat, 18 Jul 2026
-- Union Park, Chicago — Fri, 17 Jul 2026
 
 ## Shares bills with
 
 Mind Against, Colyn, Âme
 
-*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/adriatique/)*
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/adriatique/)*

@@ -1,14 +1,13 @@
 # Music Box
 
-Music Box is a music venue in San Diego with 6 upcoming nights listed on soundcheck as of Fri, 18 Sept 2026; the next is "Satin Jackets" on Fri, 18 Sept 2026.
+Music Box is a music venue in San Diego with 5 upcoming nights listed on soundcheck as of Sat, 19 Sept 2026; the next is "EVAN GIIA" on Sat, 10 Oct 2026.
 
-Music Box is a music venue in Sandiego listed on soundcheck. 6 upcoming nights, with line-ups including Paul Oakenfold, O'Flynn, Satin Jackets and Takuya Nakamura and 1 more. Browse upcoming dates, start times and who's playing. 1337 India St, San Diego, CA 92101.
+Music Box is a music venue in Sandiego listed on soundcheck. 5 upcoming nights, with line-ups including Paul Oakenfold, O'Flynn, Takuya Nakamura and The Crystal Method. Browse upcoming dates, start times and who's playing. 1337 India St, San Diego, CA 92101.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 18 Sept 2026 | Satin Jackets | Satin Jackets |
 | Sat, 10 Oct 2026 | EVAN GIIA |  |
 | Fri, 6 Nov 2026 | Paul Oakenfold + The Crystal Method | Paul Oakenfold, The Crystal Method |
 | Fri, 20 Nov 2026 | Minty Boi Presents: Takuya Nakamura in San Diego | Takuya Nakamura |
@@ -19,4 +18,4 @@ Music Box is a music venue in Sandiego listed on soundcheck. 6 upcoming nights, 
 
 1337 India St, San Diego, CA 92101, San Diego
 
-*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/sandiego/club/music-box/)*
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/sandiego/club/music-box/)*

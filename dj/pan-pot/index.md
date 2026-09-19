@@ -1,6 +1,6 @@
 # Pan-Pot
 
-Pan-Pot is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Fri, 18 Sept 2026, next at 821 Runnymede Rd, Toronto on Sat, 19 Sept 2026.
+Pan-Pot is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Sat, 19 Sept 2026, next at 821 Runnymede Rd, Toronto on Sat, 19 Sept 2026.
 
 Pan-Pot is a techno and house artist tracked on soundcheck, with 175 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 54 more. Often billed alongside Adam Beyer, Anfisa Letyago and Enrico Sangiuliano. Next up: 821 Runnymede Rd, Toronto on Sat 19 Sept.
 
@@ -29,4 +29,4 @@ Pan-Pot is a techno and house artist tracked on soundcheck, with 175 sets logged
 
 Adam Beyer, Anfisa Letyago, Enrico Sangiuliano
 
-*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/pan-pot/)*
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/pan-pot/)*

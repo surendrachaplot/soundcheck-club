@@ -1,6 +1,6 @@
 # Steve Aoki
 
-Steve Aoki is a House and Electro artist with 4 upcoming club dates listed on soundcheck as of Fri, 18 Sept 2026, next at Bill Graham Civic Auditorium, San Francisco/Oakland on Sat, 19 Sept 2026.
+Steve Aoki is a House and Electro artist with 4 upcoming club dates listed on soundcheck as of Sat, 19 Sept 2026, next at Bill Graham Civic Auditorium, San Francisco/Oakland on Sat, 19 Sept 2026.
 
 Steve Aoki is a house and electro artist tracked on soundcheck, with 65 sets logged across Austin, Barcelona, Boston and Budapest and 22 more. Often billed alongside Dimitri Vegas & Like Mike, Alesso and Alok. Next up: Bill Graham Civic Auditorium, Sanfrancisco on Sat 19 Sept.
 
@@ -28,4 +28,4 @@ Steve Aoki is a house and electro artist tracked on soundcheck, with 65 sets log
 
 Dimitri Vegas & Like Mike, Alesso, Alok
 
-*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/steveaoki/)*
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/steveaoki/)*

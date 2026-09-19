@@ -1,6 +1,6 @@
 # Ricky Nord
 
-Ricky Nord is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 18 Sept 2026, next at Solace, Melbourne on Sat, 19 Sept 2026.
+Ricky Nord is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sat, 19 Sept 2026, next at Solace, Melbourne on Sat, 19 Sept 2026.
 
 Ricky Nord is a techno and house artist tracked on soundcheck, with 54 sets logged across Melbourne and Sydney. Often billed alongside Charlotte Rooney, Mabel and Hannah D. Next up: Solace, Melbourne on Sat 19 Sept.
 
@@ -26,4 +26,4 @@ Ricky Nord is a techno and house artist tracked on soundcheck, with 54 sets logg
 
 Charlotte Rooney, Mabel, Hannah D
 
-*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/rickynord/)*
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/rickynord/)*

@@ -1,14 +1,15 @@
 # Evanora Unlimited
 
-Evanora Unlimited is a Experimental and Industrial artist with 1 upcoming club date listed on soundcheck as of Fri, 18 Sept 2026, next at MTELUS, Montreal on Tue, 29 Sept 2026.
+Evanora Unlimited is a Experimental and Industrial artist with 2 upcoming club dates listed on soundcheck as of Sat, 19 Sept 2026, next at MTELUS, Montreal on Tue, 29 Sept 2026.
 
-Evanora Unlimited is an experimental and industrial artist tracked on soundcheck, with 29 sets logged across Amsterdam, Basel, Berlin and Budapest and 12 more. Often billed alongside Taraneh, Heartcoregirl and Oatmilkandcodeine. Next up: MTELUS, Montreal on Tue 29 Sept.
+Evanora Unlimited is an experimental and industrial artist tracked on soundcheck, with 30 sets logged across Amsterdam, Basel, Berlin and Budapest and 13 more. Often billed alongside Taraneh, Heartcoregirl and Oatmilkandcodeine. Next up: MTELUS, Montreal on Tue 29 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Tue, 29 Sept 2026 | MTELUS | Montreal |
+| Wed, 30 Sept 2026 | Danforth Music Hall | Toronto |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Evanora Unlimited is an experimental and industrial artist tracked on soundcheck
 
 Taraneh, Heartcoregirl, Oatmilkandcodeine
 
-*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/evanoraunlimited/)*
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/evanoraunlimited/)*

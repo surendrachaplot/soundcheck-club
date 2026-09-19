@@ -1,6 +1,6 @@
 # Fizch
 
-Fizch is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Fri, 18 Sept 2026, next at Frankie's, Vancouver on Sat, 19 Sept 2026.
+Fizch is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Sat, 19 Sept 2026, next at Frankie's, Vancouver on Sat, 19 Sept 2026.
 
 Fizch is a techno and house artist tracked on soundcheck, with 79 sets logged across Amsterdam, Losangeles, Toronto and Vancouver. Often billed alongside DK PAU, C-Star and POPU. Next up: Frankie's, Vancouver on Sat 19 Sept.
 
@@ -28,4 +28,4 @@ Fizch is a techno and house artist tracked on soundcheck, with 79 sets logged ac
 
 DK PAU, C-Star, POPU
 
-*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/fizch/)*
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/fizch/)*

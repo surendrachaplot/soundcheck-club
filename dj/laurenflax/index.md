@@ -1,13 +1,14 @@
 # Lauren Flax
 
-Lauren Flax is a Techno and House artist with 13 upcoming club dates listed on soundcheck as of Fri, 18 Sept 2026, next at Qncc, New York City on Thu, 24 Sept 2026.
+Lauren Flax is a Techno and House artist with 14 upcoming club dates listed on soundcheck as of Sat, 19 Sept 2026, next at Club Rawhide, New York City on Sat, 19 Sept 2026.
 
-Lauren Flax is a techno and house artist based in United States of America, tracked on soundcheck, with 170 sets logged across Amsterdam, Birmingham, Boston and Chicago and 15 more. Often billed alongside Mike Servito, Shaun J. Wright and Justin Cudmore. Next up: Qncc, Newyorkcity on Thu 24 Sept.
+Lauren Flax is a techno and house artist based in United States of America, tracked on soundcheck, with 171 sets logged across Amsterdam, Birmingham, Boston and Chicago and 15 more. Often billed alongside Mike Servito, Shaun J. Wright and Justin Cudmore. Next up: Club Rawhide, Newyorkcity on Sat 19 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 19 Sept 2026 | Club Rawhide | New York City |
 | Thu, 24 Sept 2026 | Qncc | New York City |
 | Fri, 25 Sept 2026 | TBA - LOCATION EMAILED TO TICKETHOLDERS | Chicago |
 | Fri, 25 Sept 2026 | Qncc | New York City |
@@ -19,7 +20,6 @@ Lauren Flax is a techno and house artist based in United States of America, trac
 | Sat, 10 Oct 2026 | Signal | New York City |
 | Sat, 17 Oct 2026 | BASEMENT | New York City |
 | Fri, 23 Oct 2026 | Dead Letter No. 9 | New York City |
-| Fri, 30 Oct 2026 | The Dolphin | Philadelphia |
 
 ## Recently played
 
@@ -36,4 +36,4 @@ Lauren Flax is a techno and house artist based in United States of America, trac
 
 Mike Servito, Shaun J. Wright, Justin Cudmore
 
-*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/laurenflax/)*
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/laurenflax/)*

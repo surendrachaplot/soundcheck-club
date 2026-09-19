@@ -1,15 +1,13 @@
 # Winson
 
-Winson is a Techno and Deep House artist with 8 upcoming club dates listed on soundcheck as of Fri, 18 Sept 2026, next at Radius, Chicago on Fri, 18 Sept 2026.
+Winson is a Techno and Deep House artist with 6 upcoming club dates listed on soundcheck as of Sat, 19 Sept 2026, next at TBA - Pabellón Oeste del Palacio de los Deportes, Mexico City on Sat, 19 Sept 2026.
 
-Winson is a techno and deep house artist tracked on soundcheck, with 73 sets logged across Amsterdam, Barcelona, Basel and Brussels and 28 more. Often billed alongside KUKO, KLOFAMA and KARAH. Next up: Radius, Chicago on Fri 18 Sept.
+Winson is a techno and deep house artist tracked on soundcheck, with 73 sets logged across Amsterdam, Barcelona, Basel and Brussels and 28 more. Often billed alongside KUKO, KLOFAMA and KARAH. Next up: TBA - Pabellón Oeste del Palacio de los Deportes, Mexicocity on Sat 19 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 18 Sept 2026 | Radius | Chicago |
-| Fri, 18 Sept 2026 | Radius | Chicago |
 | Sat, 19 Sept 2026 | TBA - Pabellón Oeste del Palacio de los Deportes | Mexico City |
 | Thu, 8 Oct 2026 | Amnesia Ibiza | Ibiza |
 | Sat, 17 Oct 2026 | La Nuit | Paris |
@@ -19,17 +17,17 @@ Winson is a techno and deep house artist tracked on soundcheck, with 73 sets log
 
 ## Recently played
 
+- Radius, Chicago — Fri, 18 Sept 2026
+- Radius, Chicago — Fri, 18 Sept 2026
 - Knockdown Center, New York City — Sat, 12 Sept 2026
 - 131 Mccormack St, Toronto — Fri, 11 Sept 2026
 - TBA - Wasteland Festival, Cologne — Sat, 5 Sept 2026
 - Echostage, Washington DC — Fri, 4 Sept 2026
 - Echostage, Washington DC — Fri, 4 Sept 2026
 - Ahoy Rotterdam, Rotterdam — Sat, 29 Aug 2026
-- Dürener Badesee, Cologne — Fri, 28 Aug 2026
-- Amnesia Ibiza, Ibiza — Mon, 17 Aug 2026
 
 ## Shares bills with
 
 KUKO, KLOFAMA, KARAH
 
-*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/winson/)*
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/winson/)*

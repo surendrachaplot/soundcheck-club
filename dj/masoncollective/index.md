@@ -1,14 +1,13 @@
 # Mason Collective
 
-Mason Collective is a Tech House and House artist with 7 upcoming club dates listed on soundcheck as of Fri, 18 Sept 2026, next at Pacha Ibiza, Ibiza on Fri, 18 Sept 2026.
+Mason Collective is a Tech House and House artist with 6 upcoming club dates listed on soundcheck as of Sat, 19 Sept 2026, next at Cocoa Mataró, Barcelona on Sat, 19 Sept 2026.
 
-Mason Collective is a tech house and house artist tracked on soundcheck, with 217 sets logged across Amsterdam, Barcelona, Basel and Birmingham and 36 more. Often billed alongside Jamie Jones, Franky Rizardo and Marco Carola. Next up: Pacha Ibiza, Ibiza on Fri 18 Sept.
+Mason Collective is a tech house and house artist tracked on soundcheck, with 217 sets logged across Amsterdam, Barcelona, Basel and Birmingham and 36 more. Often billed alongside Jamie Jones, Franky Rizardo and Marco Carola. Next up: Cocoa Mataró, Barcelona on Sat 19 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 18 Sept 2026 | Pacha Ibiza | Ibiza |
 | Sat, 19 Sept 2026 | Cocoa Mataró | Barcelona |
 | Sat, 3 Oct 2026 | Gallery | London |
 | Thu, 8 Oct 2026 | Pacha Ibiza | Ibiza |
@@ -18,6 +17,7 @@ Mason Collective is a tech house and house artist tracked on soundcheck, with 21
 
 ## Recently played
 
+- Pacha Ibiza, Ibiza — Fri, 18 Sept 2026
 - Fabrik, Madrid — Sat, 5 Sept 2026
 - Pacha New York, New York City — Sat, 29 Aug 2026
 - KOKO, London — Fri, 28 Aug 2026
@@ -25,10 +25,9 @@ Mason Collective is a tech house and house artist tracked on soundcheck, with 21
 - Sloterpark, Amsterdam — Sat, 8 Aug 2026
 - Malta Fairs & Conventions Centre, Malta — Sat, 1 Aug 2026
 - Jolene Downtown Miami, Miami — Fri, 10 Jul 2026
-- Chinois Ibiza, Ibiza — Tue, 7 Jul 2026
 
 ## Shares bills with
 
 Jamie Jones, Franky Rizardo, Marco Carola
 
-*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/masoncollective/)*
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/masoncollective/)*

@@ -1,8 +1,8 @@
 # Cu
 
-Cu is a music venue in London with 9 upcoming nights listed on soundcheck as of Fri, 18 Sept 2026; the next is "21 years of keysound" on Sat, 19 Sept 2026.
+Cu is a music venue in London with 9 upcoming nights listed on soundcheck as of Sat, 19 Sept 2026; the next is "21 years of keysound" on Sat, 19 Sept 2026.
 
-Cu is a music venue in London listed on soundcheck. 9 upcoming nights, with line-ups including babybear (2), BIG REG, Blackdown and Cardinal Sin and 2 more. Browse upcoming dates, start times and who's playing. 574, 576 Kingsland Rd, London E8 4AP, United Kingdom.
+Cu is a music venue in London listed on soundcheck. 9 upcoming nights, with line-ups including babybear (2), BIG REG, Bisect and Blackdown and 2 more. Browse upcoming dates, start times and who's playing. 574, 576 Kingsland Rd, London E8 4AP, United Kingdom.
 
 ## What's on
 
@@ -14,7 +14,7 @@ Cu is a music venue in London listed on soundcheck. 9 upcoming nights, with line
 | Sat, 3 Oct 2026 | Frozen Tempo presents: Soukah (UK Debut) | Deep Tempo |
 | Fri, 9 Oct 2026 | TUSH: Bass, Breaks & Techno (Rethink Fundraiser) | Kassita, Rebekah Abdeen, babybear (2), inda Flo |
 | Sun, 11 Oct 2026 | HOLY | Richard Fearless, Tom Dubwise, Wrecked Lightship |
-| Sat, 17 Oct 2026 | Grooves #17: Propulsion, Hickey, Tombs, Merlin, Renfer, Bisect [turntable-only, DnB & jungle] | ETHICS, Hickey |
+| Sat, 17 Oct 2026 | Grooves #17: Propulsion, Hickey, Tombs, Merlin, Renfer, Bisect [turntable-only, DnB & jungle] | Bisect, ETHICS, Hickey |
 | Sat, 24 Oct 2026 | clockwork: dj ladle, dj fynn, corchuelo, something good |  |
 | Fri, 30 Oct 2026 | Get On - London | Cathal, Horne, Luun |
 
@@ -22,4 +22,4 @@ Cu is a music venue in London listed on soundcheck. 9 upcoming nights, with line
 
 574, 576 Kingsland Rd, London E8 4AP, United Kingdom, London
 
-*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/cu/)*
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/cu/)*

@@ -1,6 +1,6 @@
 # Krystal Klear
 
-Krystal Klear is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Fri, 18 Sept 2026, next at Kaiku, Helsinki on Sat, 26 Sept 2026.
+Krystal Klear is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Sat, 19 Sept 2026, next at Kaiku, Helsinki on Sat, 26 Sept 2026.
 
 Krystal Klear is a house and techno artist tracked on soundcheck, with 114 sets logged across Amsterdam, Antwerp, Bali and Barcelona and 39 more. Often billed alongside Gerd Janson, Seth Troxler and Skream. Next up: Kaiku, Helsinki on Sat 26 Sept.
 
@@ -27,4 +27,4 @@ Krystal Klear is a house and techno artist tracked on soundcheck, with 114 sets 
 
 Gerd Janson, Seth Troxler, Skream
 
-*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/krystalklear/)*
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/krystalklear/)*

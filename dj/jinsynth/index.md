@@ -1,14 +1,13 @@
 # Jin Synth
 
-Jin Synth is a Techno and Experimental artist with 5 upcoming club dates listed on soundcheck as of Fri, 18 Sept 2026, next at Very Small Club, Budapest on Fri, 18 Sept 2026.
+Jin Synth is a Techno and Experimental artist with 4 upcoming club dates listed on soundcheck as of Sat, 19 Sept 2026, next at RSO.BERLIN, Berlin on Sat, 26 Sept 2026.
 
-Jin Synth is a techno and experimental artist tracked on soundcheck, with 51 sets logged across Amsterdam, Athens, Barcelona and Berlin and 17 more. Often billed alongside Efdemin, Fadi Mohem and Luigi Tozzi. Next up: Very Small Club, Budapest on Fri 18 Sept.
+Jin Synth is a techno and experimental artist tracked on soundcheck, with 51 sets logged across Amsterdam, Athens, Barcelona and Berlin and 17 more. Often billed alongside Efdemin, Fadi Mohem and Luigi Tozzi. Next up: RSO.BERLIN, Berlin on Sat 26 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 18 Sept 2026 | Very Small Club | Budapest |
 | Sat, 26 Sept 2026 | RSO.BERLIN | Berlin |
 | Fri, 9 Oct 2026 | The Island | Bristol |
 | Fri, 6 Nov 2026 | Astoria | Turin |
@@ -16,6 +15,7 @@ Jin Synth is a techno and experimental artist tracked on soundcheck, with 51 set
 
 ## Recently played
 
+- Very Small Club, Budapest — Fri, 18 Sept 2026
 - Razzmatazz, Barcelona — Sun, 6 Sept 2026
 - The White Hotel, Manchester — Fri, 21 Aug 2026
 - Gare Porto, Porto — Fri, 14 Aug 2026
@@ -23,10 +23,9 @@ Jin Synth is a techno and experimental artist tracked on soundcheck, with 51 set
 - TBA, Oslo — Fri, 12 Jun 2026
 - TILLATEC, Amsterdam — Sat, 9 May 2026
 - Circolo degli Illuminati, Rome — Fri, 17 Apr 2026
-- FOLD, London — Thu, 2 Apr 2026
 
 ## Shares bills with
 
 Efdemin, Fadi Mohem, Luigi Tozzi
 
-*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jinsynth/)*
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jinsynth/)*

@@ -1,6 +1,6 @@
 # Daniel Orpi
 
-Daniel Orpi is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Fri, 18 Sept 2026, next at Edge Miami, Miami on Sat, 26 Sept 2026.
+Daniel Orpi is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Sat, 19 Sept 2026, next at Edge Miami, Miami on Sat, 26 Sept 2026.
 
 Daniel Orpi is a tech house and house artist tracked on soundcheck, with 72 sets logged across Amsterdam, Barcelona, Belgrade and Boston and 19 more. Often billed alongside Cuartero, De La Swing and Pirate Copy. Next up: Edge Miami, Miami on Sat 26 Sept.
 
@@ -25,4 +25,4 @@ Daniel Orpi is a tech house and house artist tracked on soundcheck, with 72 sets
 
 Cuartero, De La Swing, Pirate Copy
 
-*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/danielorpi/)*
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/danielorpi/)*

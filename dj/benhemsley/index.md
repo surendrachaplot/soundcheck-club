@@ -1,6 +1,6 @@
 # Ben Hemsley
 
-Ben Hemsley is a Techno and Trance artist with 6 upcoming club dates listed on soundcheck as of Fri, 18 Sept 2026, next at The Warehouse, Leeds on Sat, 19 Sept 2026.
+Ben Hemsley is a Techno and Trance artist with 6 upcoming club dates listed on soundcheck as of Sat, 19 Sept 2026, next at The Warehouse, Leeds on Sat, 19 Sept 2026.
 
 Ben Hemsley is a techno and trance artist tracked on soundcheck, with 167 sets logged across Aberdeen, Amsterdam, Antwerp and Austin and 37 more. Often billed alongside KETTAMA, Hannah Laing and Kyle Starkey. Next up: The Warehouse, Leeds on Sat 19 Sept.
 
@@ -30,4 +30,4 @@ Ben Hemsley is a techno and trance artist tracked on soundcheck, with 167 sets l
 
 KETTAMA, Hannah Laing, Kyle Starkey
 
-*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/benhemsley/)*
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/benhemsley/)*

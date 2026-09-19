@@ -1,8 +1,8 @@
 # Honeydrip
 
-Honeydrip is a Bass and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 18 Sept 2026, next at Allan Gardens Conservatory, Toronto on Sat, 19 Sept 2026.
+Honeydrip is a Bass and Techno artist with 3 upcoming club dates listed on soundcheck as of Sat, 19 Sept 2026, next at Allan Gardens Conservatory, Toronto on Sat, 19 Sept 2026.
 
-Honeydrip is a bass and techno artist based in Canada, tracked on soundcheck, with 66 sets logged across Barcelona, Berlin, Bristol and Brussels and 14 more. Often billed alongside Deadbeat, Mossy Mugler and Nick León. Next up: Allan Gardens Conservatory, Toronto on Sat 19 Sept.
+Honeydrip is a bass and techno artist based in Canada, tracked on soundcheck, with 67 sets logged across Barcelona, Berlin, Bristol and Brussels and 14 more. Often billed alongside Deadbeat, Mossy Mugler and Nick León. Next up: Allan Gardens Conservatory, Toronto on Sat 19 Sept.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Honeydrip is a bass and techno artist based in Canada, tracked on soundcheck, wi
 | --- | --- | --- |
 | Sat, 19 Sept 2026 | Allan Gardens Conservatory | Toronto |
 | Fri, 2 Oct 2026 | SFU Goldcorp Centre for the Arts | Vancouver |
+| Wed, 21 Oct 2026 | Bermondsey Social Club | London |
 
 ## Recently played
 
@@ -26,4 +27,4 @@ Honeydrip is a bass and techno artist based in Canada, tracked on soundcheck, wi
 
 Deadbeat, Mossy Mugler, Nick León
 
-*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/honeydrip/)*
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/honeydrip/)*

@@ -1,6 +1,6 @@
 # kraftwitch
 
-kraftwitch is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Fri, 18 Sept 2026, next at TBA, Portland on Sat, 19 Sept 2026.
+kraftwitch is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Sat, 19 Sept 2026, next at TBA, Portland on Sat, 19 Sept 2026.
 
 kraftwitch is a techno and house artist based in United States of America, tracked on soundcheck, with 32 sets logged across London, Newyorkcity, Paris and Philadelphia and 2 more. Often billed alongside Carl Michaels, ROJO and Andrew Lenox. Next up: TBA, Portland on Sat 19 Sept.
 
@@ -28,4 +28,4 @@ kraftwitch is a techno and house artist based in United States of America, track
 
 Carl Michaels, ROJO, Andrew Lenox
 
-*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kraftwitch/)*
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kraftwitch/)*

@@ -1,14 +1,13 @@
 # Jasmín
 
-Jasmín is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Fri, 18 Sept 2026, next at TILLATEC, Amsterdam on Fri, 18 Sept 2026.
+Jasmín is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Sat, 19 Sept 2026, next at fabric, London on Sat, 3 Oct 2026.
 
-Jasmín is a techno and house artist tracked on soundcheck, with 109 sets logged across Amsterdam, Antwerp, Barcelona and Berlin and 19 more. Often billed alongside mad miran, Fafi Abdel Nour and Nèna. Next up: TILLATEC, Amsterdam on Fri 18 Sept.
+Jasmín is a techno and house artist tracked on soundcheck, with 109 sets logged across Amsterdam, Antwerp, Barcelona and Berlin and 19 more. Often billed alongside mad miran, Fafi Abdel Nour and Nèna. Next up: fabric, London on Sat 3 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 18 Sept 2026 | TILLATEC | Amsterdam |
 | Sat, 3 Oct 2026 | fabric | London |
 | Wed, 21 Oct 2026 | Zwart Goud Record Store | Amsterdam |
 | Sun, 25 Oct 2026 | Radio Radio | Amsterdam |
@@ -16,6 +15,7 @@ Jasmín is a techno and house artist tracked on soundcheck, with 109 sets logged
 
 ## Recently played
 
+- TILLATEC, Amsterdam — Fri, 18 Sept 2026
 - Blå, Oslo — Thu, 10 Sept 2026
 - TBA - Deventer Outdoor | Molbergsweg 3c , Amsterdam — Fri, 7 Aug 2026
 - Amsterdamse Bos, Amsterdam — Sun, 2 Aug 2026
@@ -23,10 +23,9 @@ Jasmín is a techno and house artist tracked on soundcheck, with 109 sets logged
 - Amsterdamse Bos, Amsterdam — Wed, 29 Jul 2026
 - vurt., Seoul — Sat, 27 Jun 2026
 - RSO.BERLIN, Berlin — Sat, 30 May 2026
-- Odds and Ends, Copenhagen — Sun, 24 May 2026
 
 ## Shares bills with
 
 mad miran, Fafi Abdel Nour, Nèna
 
-*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jasmin-NL/)*
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jasmin-NL/)*

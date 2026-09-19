@@ -1,14 +1,13 @@
 # KNTRLVRLST
 
-KNTRLVRLST is a Techno and Trance artist with 5 upcoming club dates listed on soundcheck as of Fri, 18 Sept 2026, next at Story Toronto, Toronto on Fri, 18 Sept 2026.
+KNTRLVRLST is a Techno and Trance artist with 4 upcoming club dates listed on soundcheck as of Sat, 19 Sept 2026, next at Roof 175, Frankfurt on Sat, 19 Sept 2026.
 
-KNTRLVRLST is a techno and trance artist tracked on soundcheck, with 67 sets logged across Antwerp, Barcelona, Belfast and Berlin and 24 more. Often billed alongside A.N.I., Vagabund and O.B.I. (DE). Next up: Story Toronto, Toronto on Fri 18 Sept.
+KNTRLVRLST is a techno and trance artist tracked on soundcheck, with 67 sets logged across Antwerp, Barcelona, Belfast and Berlin and 24 more. Often billed alongside A.N.I., Vagabund and O.B.I. (DE). Next up: Roof 175, Frankfurt on Sat 19 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 18 Sept 2026 | Story Toronto | Toronto |
 | Sat, 19 Sept 2026 | Roof 175 | Frankfurt |
 | Sat, 19 Sept 2026 | Domicile | Miami |
 | Sat, 3 Oct 2026 | Zinkbad Eventhalle | Zurich |
@@ -16,6 +15,7 @@ KNTRLVRLST is a techno and trance artist tracked on soundcheck, with 67 sets log
 
 ## Recently played
 
+- Story Toronto, Toronto — Fri, 18 Sept 2026
 - Dürener Badesee, Cologne — Fri, 28 Aug 2026
 - Waschhaus, Berlin — Fri, 7 Aug 2026
 - Lehmann Club, Stuttgart — Fri, 26 Jun 2026
@@ -23,10 +23,9 @@ KNTRLVRLST is a techno and trance artist tracked on soundcheck, with 67 sets log
 - Kilomètre25, Paris — Sat, 6 Jun 2026
 - IDRA, Manchester — Sat, 30 May 2026
 - DSTRKT Club Berlin, Berlin — Fri, 29 May 2026
-- Airport Würzburg, Nürnberg — Sun, 24 May 2026
 
 ## Shares bills with
 
 A.N.I., Vagabund, O.B.I. (DE)
 
-*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kntrlvrlst/)*
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kntrlvrlst/)*

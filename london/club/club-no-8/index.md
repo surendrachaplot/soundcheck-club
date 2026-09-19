@@ -1,6 +1,6 @@
 # Club no.8
 
-Club no.8 is a music venue in London with 1 upcoming night listed on soundcheck as of Fri, 18 Sept 2026; the next is "Melomania presents: Celine Dijon, Luun, Jim Bow and Ben Weston" on Sat, 21 Nov 2026.
+Club no.8 is a music venue in London with 1 upcoming night listed on soundcheck as of Sat, 19 Sept 2026; the next is "Melomania presents: Celine Dijon, Luun, Jim Bow and Ben Weston" on Sat, 21 Nov 2026.
 
 Club no.8 is a music venue in London listed on soundcheck. 1 upcoming night, with line-ups including Jim Bow and Luun. Browse upcoming dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ Club no.8 is a music venue in London listed on soundcheck. 1 upcoming night, wit
 | --- | --- | --- |
 | Sat, 21 Nov 2026 | Melomania presents: Celine Dijon, Luun, Jim Bow and Ben Weston | Jim Bow, Luun |
 
-*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/club-no-8/)*
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/club-no-8/)*

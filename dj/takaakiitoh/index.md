@@ -1,8 +1,8 @@
 # Takaaki Itoh
 
-Takaaki Itoh is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Fri, 18 Sept 2026, next at RADION, Amsterdam on Sat, 3 Oct 2026.
+Takaaki Itoh is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Sat, 19 Sept 2026, next at RADION, Amsterdam on Sat, 3 Oct 2026.
 
-Takaaki Itoh is a techno and house artist tracked on soundcheck, with 108 sets logged across Amsterdam, Athens, Barcelona and Belgrade and 31 more. Often billed alongside DANA NADA, DANDAN and Vulkanski. Next up: RADION, Amsterdam on Sat 3 Oct.
+Takaaki Itoh is a techno and house artist tracked on soundcheck, with 109 sets logged across Amsterdam, Athens, Barcelona and Belgrade and 31 more. Often billed alongside DANA NADA, DANDAN and Vulkanski. Next up: RADION, Amsterdam on Sat 3 Oct.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ Takaaki Itoh is a techno and house artist tracked on soundcheck, with 108 sets l
 | Sat, 3 Oct 2026 | RADION | Amsterdam |
 | Sat, 3 Oct 2026 | RADION | Amsterdam |
 | Sat, 10 Oct 2026 | Azimut Club | Turin |
+| Fri, 16 Oct 2026 | Cross Club | Prague |
 | Sat, 31 Oct 2026 | VENT | Tokyo |
 
 ## Recently played
@@ -28,4 +29,4 @@ Takaaki Itoh is a techno and house artist tracked on soundcheck, with 108 sets l
 
 DANA NADA, DANDAN, Vulkanski
 
-*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/takaakiitoh/)*
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/takaakiitoh/)*

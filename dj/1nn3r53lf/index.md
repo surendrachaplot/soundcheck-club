@@ -1,6 +1,6 @@
 # 1NN3R53LF
 
-1NN3R53LF is a Club and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 18 Sept 2026, next at Revolver Upstairs, Melbourne on Fri, 9 Oct 2026.
+1NN3R53LF is a Club and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 19 Sept 2026, next at Revolver Upstairs, Melbourne on Fri, 9 Oct 2026.
 
 1NN3R53LF is a club and techno artist tracked on soundcheck, with 7 sets logged across Brisbane, Melbourne and Sydney. Often billed alongside Doss, Ninajirachi and AKEYLAH. Next up: Revolver Upstairs, Melbourne on Fri 9 Oct.
 
@@ -23,4 +23,4 @@
 
 Doss, Ninajirachi, AKEYLAH
 
-*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/1nn3r53lf/)*
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/1nn3r53lf/)*

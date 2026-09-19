@@ -1,6 +1,6 @@
 # Do Shock Booze
 
-Do Shock Booze is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Fri, 18 Sept 2026, next at Koenji Cave, Tokyo on Mon, 21 Sept 2026.
+Do Shock Booze is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Sat, 19 Sept 2026, next at Koenji Cave, Tokyo on Mon, 21 Sept 2026.
 
 Do Shock Booze is a techno and house artist based in Japan, tracked on soundcheck, with 66 sets logged across Tokyo. Often billed alongside Taichi Kawahira, Drunken Kong and Remi Ohsugi. Next up: Koenji Cave, Tokyo on Mon 21 Sept.
 
@@ -27,4 +27,4 @@ Do Shock Booze is a techno and house artist based in Japan, tracked on soundchec
 
 Taichi Kawahira, Drunken Kong, Remi Ohsugi
 
-*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/doshockbooze/)*
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/doshockbooze/)*

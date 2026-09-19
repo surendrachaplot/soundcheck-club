@@ -1,6 +1,6 @@
 # Leon
 
-Leon is a Tech House and Techno artist with 5 upcoming club dates listed on soundcheck as of Fri, 18 Sept 2026, next at Pacha Ibiza, Ibiza on Fri, 25 Sept 2026.
+Leon is a Tech House and Techno artist with 5 upcoming club dates listed on soundcheck as of Sat, 19 Sept 2026, next at Pacha Ibiza, Ibiza on Fri, 25 Sept 2026.
 
 Leon is a tech house and techno artist tracked on soundcheck, with 65 sets logged across Amsterdam, Athens, Barcelona and Basel and 21 more. Often billed alongside Marco Carola, Kulage and Pirate Copy. Next up: Pacha Ibiza, Ibiza on Fri 25 Sept.
 
@@ -29,4 +29,4 @@ Leon is a tech house and techno artist tracked on soundcheck, with 65 sets logge
 
 Marco Carola, Kulage, Pirate Copy
 
-*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/leonitaly/)*
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/leonitaly/)*

@@ -1,18 +1,17 @@
 # Lowkey Seoul
 
-Lowkey Seoul is a music venue in Seoul with 2 upcoming nights listed on soundcheck as of Fri, 18 Sept 2026; the next is "Lowkey" on Fri, 18 Sept 2026.
+Lowkey Seoul is a music venue in Seoul with 1 upcoming night listed on soundcheck as of Sat, 19 Sept 2026; the next is "NYC TO SEOUL MASHUPS" on Sat, 19 Sept 2026.
 
-Lowkey Seoul is a music venue in Seoul listed on soundcheck. 2 upcoming nights, with line-ups including Jamflat and REDBUTSOBER. Browse upcoming dates, start times and who's playing. Seoul, Gangnam-gu, Apgujeong-ro, 46 gil 75 B1.
+Lowkey Seoul is a music venue in Seoul listed on soundcheck. 1 upcoming night, with line-ups including REDBUTSOBER. Browse upcoming dates, start times and who's playing. Seoul, Gangnam-gu, Apgujeong-ro, 46 gil 75 B1.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 18 Sept 2026 | Lowkey | Jamflat, REDBUTSOBER |
 | Sat, 19 Sept 2026 | NYC TO SEOUL MASHUPS | REDBUTSOBER |
 
 ## Address
 
 Seoul, Gangnam-gu, Apgujeong-ro, 46 gil 75 B1, Seoul
 
-*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/seoul/club/lowkey-seoul/)*
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/seoul/club/lowkey-seoul/)*

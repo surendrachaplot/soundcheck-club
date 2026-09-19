@@ -1,19 +1,20 @@
 # Nils Hoffmann
 
-Nils Hoffmann is a Deep House and Progressive House artist with 3 upcoming club dates listed on soundcheck as of Fri, 18 Sept 2026, next at Westlight Rooftop at The William Vale, New York City on Fri, 18 Sept 2026.
+Nils Hoffmann is a Deep House and Progressive House artist with 3 upcoming club dates listed on soundcheck as of Sat, 19 Sept 2026, next at ZeyZey, Miami on Sat, 19 Sept 2026.
 
-Nils Hoffmann is a deep house and progressive house artist based in Germany, tracked on soundcheck, with 86 sets logged across Amsterdam, Austin, Bali and Barcelona and 36 more. Often billed alongside Marsh, Nicky Elisabeth and Romain Garcia. Next up: Westlight Rooftop at The William Vale, Newyorkcity on Fri 18 Sept.
+Nils Hoffmann is a deep house and progressive house artist based in Germany, tracked on soundcheck, with 87 sets logged across Amsterdam, Austin, Bali and Barcelona and 36 more. Often billed alongside Marsh, Nicky Elisabeth and Romain Garcia. Next up: ZeyZey, Miami on Sat 19 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 18 Sept 2026 | Westlight Rooftop at The William Vale | New York City |
 | Sat, 19 Sept 2026 | ZeyZey | Miami |
+| Fri, 23 Oct 2026 | Het Sieraad | Amsterdam |
 | Fri, 20 Nov 2026 | Russell Industrial Center | Detroit |
 
 ## Recently played
 
+- Westlight Rooftop at The William Vale, New York City — Fri, 18 Sept 2026
 - Echostage, Washington DC — Sat, 29 Aug 2026
 - Harriet's Rooftop Nashville, Nashville — Fri, 7 Aug 2026
 - Spin, San Diego — Fri, 5 Jun 2026
@@ -21,10 +22,9 @@ Nils Hoffmann is a deep house and progressive house artist based in Germany, tra
 - Lido Berlin, Berlin — Sat, 4 Apr 2026
 - Bike Jesus, Prague — Thu, 2 Apr 2026
 - 26 Leake Street, London — Sat, 28 Mar 2026
-- Sala Villanos, Madrid — Thu, 19 Mar 2026
 
 ## Shares bills with
 
 Marsh, Nicky Elisabeth, Romain Garcia
 
-*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nilshoffmann/)*
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nilshoffmann/)*

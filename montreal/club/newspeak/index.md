@@ -1,14 +1,13 @@
 # Newspeak
 
-Newspeak is a music venue in Montreal with 14 upcoming nights listed on soundcheck as of Fri, 18 Sept 2026; the next is "SARAH DE WARREN" on Fri, 18 Sept 2026.
+Newspeak is a music venue in Montreal with 13 upcoming nights listed on soundcheck as of Sat, 19 Sept 2026; the next is "Linska - Montréal" on Sat, 19 Sept 2026.
 
-Newspeak is a music venue in Montreal listed on soundcheck. 14 upcoming nights, with line-ups including Ali RQ, Baauer, Claireyy and Cult Member and 2 more. Browse upcoming dates, start times and who's playing. 1403 Rue Sainte-Elisabeth, Montréal, QC H2X 3C5.
+Newspeak is a music venue in Montreal listed on soundcheck. 13 upcoming nights, with line-ups including Ali RQ, Baauer, Claireyy and Cult Member and 2 more. Browse upcoming dates, start times and who's playing. 1403 Rue Sainte-Elisabeth, Montréal, QC H2X 3C5.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 18 Sept 2026 | SARAH DE WARREN |  |
 | Sat, 19 Sept 2026 | Linska - Montréal | Linska, Shirlee |
 | Fri, 25 Sept 2026 | Isla Den - Montréal | Ali RQ, Claireyy, Isla Den, Sportress |
 | Fri, 2 Oct 2026 | Cult Member - Montréal | Cult Member |
@@ -18,9 +17,10 @@ Newspeak is a music venue in Montreal listed on soundcheck. 14 upcoming nights, 
 | Fri, 16 Oct 2026 | L.P. Rhythm - Montréal | L.P. Rhythm |
 | Fri, 23 Oct 2026 | WHIPPED CREAM - Montréal |  |
 | Sat, 24 Oct 2026 | Nick Cheo - Montréal |  |
+| Fri, 30 Oct 2026 | Baauer - Montréal | Baauer |
 
 ## Address
 
 1403 Rue Sainte-Elisabeth, Montréal, QC H2X 3C5, Montreal
 
-*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/montreal/club/newspeak/)*
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/montreal/club/newspeak/)*

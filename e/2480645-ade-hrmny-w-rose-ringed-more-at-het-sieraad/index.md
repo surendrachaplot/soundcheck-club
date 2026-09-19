@@ -1,6 +1,6 @@
 # ADE - HRMNY W/ Rose Ringed & More at Het Sieraad
 
-ADE - HRMNY W/ Rose Ringed & More at Het Sieraad on Fri 23 Oct, Amsterdam. 1 act on the bill: Rose Ringed. Trance. Preview the line-up and save it on soundcheck.
+ADE - HRMNY W/ Rose Ringed & More at Het Sieraad on Fri 23 Oct, Amsterdam. 4 acts on the bill: Julia Linkogel, Nils Hoffmann, Rex the Dog and Rose Ringed. Trance. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,9 @@ ADE - HRMNY W/ Rose Ringed & More at Het Sieraad on Fri 23 Oct, Amsterdam. 1 act
 
 ## Line-up
 
+- Julia Linkogel
+- Nils Hoffmann
+- Rex the Dog
 - Rose Ringed
 
 *Source: [soundcheck](https://soundcheck.club/e/2480645-ade-hrmny-w-rose-ringed-more-at-het-sieraad/)*

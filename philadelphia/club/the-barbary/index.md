@@ -1,6 +1,6 @@
 # The Barbary
 
-The Barbary is a music venue in Philadelphia with 4 upcoming nights listed on soundcheck as of Fri, 18 Sept 2026; the next is "BEN MILLER x ALL MY FRIENDS DJ" on Fri, 18 Sept 2026.
+The Barbary is a music venue in Philadelphia with 4 upcoming nights listed on soundcheck as of Sat, 19 Sept 2026; the next is "BEN MILLER x ALL MY FRIENDS DJ" on Fri, 18 Sept 2026.
 
 The Barbary is a music venue in Philadelphia listed on soundcheck. 4 upcoming nights, with line-ups including AC Slater and DELACOUR. Browse upcoming dates, start times and who's playing. 951 Frankford Avenue; Philadelphia, PA 19125; United States.
 
@@ -17,4 +17,4 @@ The Barbary is a music venue in Philadelphia listed on soundcheck. 4 upcoming ni
 
 951 Frankford Avenue; Philadelphia, PA 19125; United States, Philadelphia
 
-*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/philadelphia/club/the-barbary/)*
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/philadelphia/club/the-barbary/)*

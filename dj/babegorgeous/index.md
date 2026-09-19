@@ -1,6 +1,6 @@
 # Babe Gorgeous
 
-Babe Gorgeous is a Bass and Experimental artist with 2 upcoming club dates listed on soundcheck as of Fri, 18 Sept 2026, next at TBA - Info in Telegram, Berlin on Sat, 19 Sept 2026.
+Babe Gorgeous is a Bass and Experimental artist with 2 upcoming club dates listed on soundcheck as of Sat, 19 Sept 2026, next at TBA - Info in Telegram, Berlin on Sat, 19 Sept 2026.
 
 Babe Gorgeous is a bass and experimental artist tracked on soundcheck, with 23 sets logged across Berlin. Often billed alongside jass:minute, Ubax and DJ STRAIGHT GIRL. Next up: TBA - Info in Telegram, Berlin on Sat 19 Sept.
 
@@ -26,4 +26,4 @@ Babe Gorgeous is a bass and experimental artist tracked on soundcheck, with 23 s
 
 jass:minute, Ubax, DJ STRAIGHT GIRL
 
-*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/babegorgeous/)*
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/babegorgeous/)*

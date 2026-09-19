@@ -1,8 +1,8 @@
 # Whistle Stop
 
-Whistle Stop is a music venue in San Diego with 1 upcoming night listed on soundcheck as of Fri, 18 Sept 2026; the next is "Sweat Dot Biz - Vaporwave Dance Night" on Sun, 27 Sept 2026.
+Whistle Stop is a music venue in San Diego with 1 upcoming night listed on soundcheck as of Sat, 19 Sept 2026; the next is "Sweat Dot Biz - Vaporwave Dance Night" on Sun, 27 Sept 2026.
 
-Whistle Stop is a music venue in Sandiego listed on soundcheck. 1 upcoming night. Browse upcoming dates, start times and who's playing.
+Whistle Stop is a music venue in Sandiego listed on soundcheck. 1 upcoming night. Browse upcoming dates, start times and who's playing. 2236 Fern St, San Diego, CA 92104.
 
 ## What's on
 
@@ -10,4 +10,8 @@ Whistle Stop is a music venue in Sandiego listed on soundcheck. 1 upcoming night
 | --- | --- | --- |
 | Sun, 27 Sept 2026 | Sweat Dot Biz - Vaporwave Dance Night |  |
 
-*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/sandiego/club/whistle-stop/)*
+## Address
+
+2236 Fern St, San Diego, CA 92104, San Diego
+
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/sandiego/club/whistle-stop/)*

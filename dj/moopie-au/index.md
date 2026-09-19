@@ -1,8 +1,8 @@
 # Moopie
 
-Moopie is a House and Techno artist with 10 upcoming club dates listed on soundcheck as of Fri, 18 Sept 2026, next at Fort Mifflin, Philadelphia on Fri, 18 Sept 2026.
+Moopie is a House and Techno artist with 11 upcoming club dates listed on soundcheck as of Sat, 19 Sept 2026, next at Fort Mifflin, Philadelphia on Fri, 18 Sept 2026.
 
-Moopie is a house and techno artist tracked on soundcheck, with 204 sets logged across Amsterdam, Bali, Berlin and Bristol and 19 more. Often billed alongside Kia (AU), Hannah D and DJ PGZ. Next up: Fort Mifflin, Philadelphia on Fri 18 Sept.
+Moopie is a house and techno artist tracked on soundcheck, with 205 sets logged across Amsterdam, Bali, Barcelona and Berlin and 20 more. Often billed alongside Kia (AU), Hannah D and DJ PGZ. Next up: Fort Mifflin, Philadelphia on Fri 18 Sept.
 
 ## Upcoming shows
 
@@ -13,6 +13,7 @@ Moopie is a house and techno artist tracked on soundcheck, with 204 sets logged 
 | Fri, 2 Oct 2026 | OneSixOne | Melbourne |
 | Sat, 10 Oct 2026 | Nowadays | New York City |
 | Fri, 16 Oct 2026 | Under Bron | Stockholm |
+| Sat, 17 Oct 2026 | LAUT | Barcelona |
 | Sat, 24 Oct 2026 | Het Rijk van de Keizer | Amsterdam |
 | Sat, 24 Oct 2026 | Klaproos | Amsterdam |
 | Sat, 31 Oct 2026 | Collingwood Children's Farm | Melbourne |
@@ -21,6 +22,7 @@ Moopie is a house and techno artist tracked on soundcheck, with 204 sets logged 
 
 ## Recently played
 
+- Fort Mifflin, Philadelphia — Fri, 18 Sept 2026
 - M.O.T, London — Sat, 12 Sept 2026
 - CLUB RAUM, Amsterdam — Fri, 11 Sept 2026
 - Berghain | Panorama Bar | Säule, Berlin — Sat, 5 Sept 2026
@@ -28,10 +30,9 @@ Moopie is a house and techno artist tracked on soundcheck, with 204 sets logged 
 - Bassiani, Tbilisi — Fri, 21 Aug 2026
 - BRET, Amsterdam — Sat, 15 Aug 2026
 - BRET, Amsterdam — Sat, 15 Aug 2026
-- The Love Inn, Bristol — Fri, 7 Aug 2026
 
 ## Shares bills with
 
 Kia (AU), Hannah D, DJ PGZ
 
-*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/moopie-au/)*
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/moopie-au/)*

@@ -1,6 +1,6 @@
 # Better Late
 
-Better Late is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Fri, 18 Sept 2026, next at Duke Of Tokyo, Amsterdam on Thu, 22 Oct 2026.
+Better Late is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Sat, 19 Sept 2026, next at Duke Of Tokyo, Amsterdam on Thu, 22 Oct 2026.
 
 Better Late is a house and disco artist based in United Kingdom, tracked on soundcheck, with 75 sets logged across Amsterdam, Barcelona and London. Often billed alongside HannahLuyah, Mimsy and DJ Will Grant. Next up: Duke Of Tokyo, Amsterdam on Thu 22 Oct.
 
@@ -25,4 +25,4 @@ Better Late is a house and disco artist based in United Kingdom, tracked on soun
 
 HannahLuyah, Mimsy, DJ Will Grant
 
-*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/betterlate/)*
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/betterlate/)*

@@ -1,6 +1,6 @@
 # Prosumer
 
-Prosumer is a House and Techno artist with 6 upcoming club dates listed on soundcheck as of Fri, 18 Sept 2026, next at Night Tales Loft, London on Sat, 19 Sept 2026.
+Prosumer is a House and Techno artist with 6 upcoming club dates listed on soundcheck as of Sat, 19 Sept 2026, next at Night Tales Loft, London on Sat, 19 Sept 2026.
 
 Prosumer is a house and techno artist tracked on soundcheck, with 172 sets logged across Amsterdam, Athens, Barcelona and Belfast and 47 more. Often billed alongside Horse Meat Disco, Peach and Job Jobse. Next up: Night Tales Loft, London on Sat 19 Sept.
 
@@ -30,4 +30,4 @@ Prosumer is a house and techno artist tracked on soundcheck, with 172 sets logge
 
 Horse Meat Disco, Peach, Job Jobse
 
-*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/prosumer/)*
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/prosumer/)*

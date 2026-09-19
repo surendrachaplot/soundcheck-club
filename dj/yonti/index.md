@@ -1,6 +1,6 @@
 # Yonti
 
-Yonti is a Techno and House artist with 7 upcoming club dates listed on soundcheck as of Fri, 18 Sept 2026, next at House of Yes, New York City on Sat, 19 Sept 2026.
+Yonti is a Techno and House artist with 7 upcoming club dates listed on soundcheck as of Sat, 19 Sept 2026, next at House of Yes, New York City on Sat, 19 Sept 2026.
 
 Yonti is a techno and house artist based in Germany, tracked on soundcheck, with 80 sets logged across Amsterdam, Athens, Bangkok and Barcelona and 28 more. Often billed alongside Roi Perez, Blasha & Allatt and Fadi Mohem. Next up: House of Yes, Newyorkcity on Sat 19 Sept.
 
@@ -31,4 +31,4 @@ Yonti is a techno and house artist based in Germany, tracked on soundcheck, with
 
 Roi Perez, Blasha & Allatt, Fadi Mohem
 
-*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/yonti/)*
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/yonti/)*

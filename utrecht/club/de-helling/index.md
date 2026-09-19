@@ -1,6 +1,6 @@
 # De Helling
 
-De Helling is a music venue in Utrecht with 3 upcoming nights listed on soundcheck as of Fri, 18 Sept 2026; the next is "Earthdance Utrecht 2026 hosted by Psychedelic Grateful Punks" on Sat, 19 Sept 2026.
+De Helling is a music venue in Utrecht with 3 upcoming nights listed on soundcheck as of Sat, 19 Sept 2026; the next is "Earthdance Utrecht 2026 hosted by Psychedelic Grateful Punks" on Sat, 19 Sept 2026.
 
 De Helling is a music venue in Utrecht listed on soundcheck. 3 upcoming nights. Browse upcoming dates, start times and who's playing. Helling 7, 3523 CB, Utrecht, Netherlands.
 
@@ -16,4 +16,4 @@ De Helling is a music venue in Utrecht listed on soundcheck. 3 upcoming nights. 
 
 Helling 7, 3523 CB, Utrecht, Netherlands, Utrecht
 
-*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/utrecht/club/de-helling/)*
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/utrecht/club/de-helling/)*

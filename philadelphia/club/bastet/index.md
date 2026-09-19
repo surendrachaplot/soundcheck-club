@@ -1,6 +1,6 @@
 # Bastet
 
-Bastet is a music venue in Philadelphia with 6 upcoming nights listed on soundcheck as of Fri, 18 Sept 2026; the next is "Anshi the Rae, Afrvbz || Black To The Future" on Fri, 18 Sept 2026.
+Bastet is a music venue in Philadelphia with 6 upcoming nights listed on soundcheck as of Sat, 19 Sept 2026; the next is "Anshi the Rae, Afrvbz || Black To The Future" on Fri, 18 Sept 2026.
 
 Bastet is a music venue in Philadelphia listed on soundcheck. 6 upcoming nights, with line-ups including Baejawn, DJ Matpat, DJ Reezey and DJ Sega and 2 more. Browse upcoming dates, start times and who's playing. 601 Spring Garden St, Philadelphia PA 19123.
 
@@ -19,4 +19,4 @@ Bastet is a music venue in Philadelphia listed on soundcheck. 6 upcoming nights,
 
 601 Spring Garden St, Philadelphia PA 19123, Philadelphia
 
-*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/philadelphia/club/bastet/)*
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/philadelphia/club/bastet/)*

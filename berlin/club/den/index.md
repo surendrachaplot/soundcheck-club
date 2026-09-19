@@ -1,6 +1,6 @@
 # ÆDEN
 
-ÆDEN is a music venue in Berlin with 24 upcoming nights listed on soundcheck as of Fri, 18 Sept 2026; the next is "ＬＩＬＩＴＨ ✦ Karim Alkhayat ALL NIGHT LONG PSYGROOVE SPECIAL W/ Kate Hex, Taberia & MORE" on Fri, 18 Sept 2026.
+ÆDEN is a music venue in Berlin with 24 upcoming nights listed on soundcheck as of Sat, 19 Sept 2026; the next is "ＬＩＬＩＴＨ ✦ Karim Alkhayat ALL NIGHT LONG [10€ PRE-SALE] TICKETS NOW AT THE DOOR" on Fri, 18 Sept 2026.
 
 ÆDEN is a music venue in Berlin listed on soundcheck. 24 upcoming nights, with line-ups including 4NOUK, YOVA, Acierate and Amo (IT) and 2 more. Browse upcoming dates, start times and who's playing. Schleusenufer 2, 10997 Berlin.
 
@@ -8,7 +8,7 @@
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 18 Sept 2026 | ＬＩＬＩＴＨ ✦ Karim Alkhayat ALL NIGHT LONG PSYGROOVE SPECIAL W/ Kate Hex, Taberia & MORE | Karim Alkhayat, Kate Hex, Taberia, ZSÁGER BALÁZS, pink-panther |
+| Fri, 18 Sept 2026 | ＬＩＬＩＴＨ ✦ Karim Alkhayat ALL NIGHT LONG [10€ PRE-SALE] TICKETS NOW AT THE DOOR | Karim Alkhayat, Kate Hex, Taberia, ZSÁGER BALÁZS, pink-panther |
 | Sat, 19 Sept 2026 | Sachsentrance |  |
 | Sat, 19 Sept 2026 | Puticlub presents La Guachafita with Rosa Pistola | Calamidades Lola, Isa GT, Lazy Rosario, Rosa Pistola |
 | Sun, 20 Sept 2026 | [CANCELLED] Sunday Service by schnellschwimmer |  |
@@ -23,4 +23,4 @@
 
 Schleusenufer 2, 10997 Berlin, Berlin
 
-*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/den/)*
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/den/)*

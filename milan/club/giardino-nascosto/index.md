@@ -1,6 +1,6 @@
 # Giardino Nascosto
 
-Giardino Nascosto is a music venue in Milan with 1 upcoming night listed on soundcheck as of Fri, 18 Sept 2026; the next is "Saturnalia presenta FRIENDS FOREVER" on Sun, 20 Sept 2026.
+Giardino Nascosto is a music venue in Milan with 1 upcoming night listed on soundcheck as of Sat, 19 Sept 2026; the next is "Saturnalia presenta FRIENDS FOREVER" on Sun, 20 Sept 2026.
 
 Giardino Nascosto is a music venue in Milan listed on soundcheck. 1 upcoming night, with line-ups including fuoco amico, m.nuella, Piezo and Sense Fracture. Browse upcoming dates, start times and who's playing. Via Luigi Bertelli 44, Milan, Italy 20127.
 
@@ -14,4 +14,4 @@ Giardino Nascosto is a music venue in Milan listed on soundcheck. 1 upcoming nig
 
 Via Luigi Bertelli 44, Milan, Italy 20127, Milan
 
-*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/milan/club/giardino-nascosto/)*
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/milan/club/giardino-nascosto/)*

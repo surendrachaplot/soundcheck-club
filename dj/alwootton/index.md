@@ -1,6 +1,6 @@
 # Al Wootton
 
-Al Wootton is a Techno and Dub artist with 2 upcoming club dates listed on soundcheck as of Fri, 18 Sept 2026, next at Garage Noord, Amsterdam on Sat, 19 Sept 2026.
+Al Wootton is a Techno and Dub artist with 2 upcoming club dates listed on soundcheck as of Sat, 19 Sept 2026, next at Garage Noord, Amsterdam on Sat, 19 Sept 2026.
 
 Al Wootton is a techno and dub artist tracked on soundcheck, with 64 sets logged across Amsterdam, Barcelona, Berlin and Birmingham and 23 more. Often billed alongside Valentina Magaletti, Azu Tiwaline and upsammy. Next up: Garage Noord, Amsterdam on Sat 19 Sept.
 
@@ -26,4 +26,4 @@ Al Wootton is a techno and dub artist tracked on soundcheck, with 64 sets logged
 
 Valentina Magaletti, Azu Tiwaline, upsammy
 
-*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/alwootton/)*
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/alwootton/)*

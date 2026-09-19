@@ -1,14 +1,15 @@
 # KENZA KAYATI
 
-KENZA KAYATI is a Techno and Electronica artist with 4 upcoming club dates listed on soundcheck as of Fri, 18 Sept 2026, next at TBA - Málaga Forum, Malaga on Sat, 26 Sept 2026.
+KENZA KAYATI is a Techno and Electronica artist with 5 upcoming club dates listed on soundcheck as of Sat, 19 Sept 2026, next at TBA - Málaga Forum, Malaga on Sat, 26 Sept 2026.
 
-KENZA KAYATI is a techno and electronica artist based in Germany, tracked on soundcheck, with 9 sets logged across Amsterdam, Berlin, Malaga and Milan and 2 more. Often billed alongside Ede, Echonomist and ALADAG. Next up: TBA - Málaga Forum, Malaga on Sat 26 Sept.
+KENZA KAYATI is a techno and electronica artist based in Germany, tracked on soundcheck, with 10 sets logged across Amsterdam, Berlin, Malaga and Milan and 2 more. Often billed alongside Ede, Echonomist and ALADAG. Next up: TBA - Málaga Forum, Malaga on Sat 26 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 26 Sept 2026 | TBA - Málaga Forum | Malaga |
+| Thu, 22 Oct 2026 | Amsterdam Central Station | Amsterdam |
 | Fri, 23 Oct 2026 | Club Baggerbeest | Amsterdam |
 | Sat, 24 Oct 2026 | Ritter Butzke | Berlin |
 | Sat, 24 Oct 2026 | Kaap Amsterdam | Amsterdam |
@@ -25,4 +26,4 @@ KENZA KAYATI is a techno and electronica artist based in Germany, tracked on sou
 
 Ede, Echonomist, ALADAG
 
-*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kenzakayati/)*
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kenzakayati/)*

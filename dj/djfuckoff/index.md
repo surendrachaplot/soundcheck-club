@@ -1,14 +1,13 @@
 # DJ Fuckoff
 
-DJ Fuckoff is a Techno and House artist with 9 upcoming club dates listed on soundcheck as of Fri, 18 Sept 2026, next at Renate, Berlin on Fri, 18 Sept 2026.
+DJ Fuckoff is a Techno and House artist with 8 upcoming club dates listed on soundcheck as of Sat, 19 Sept 2026, next at C12, Brussels on Sat, 26 Sept 2026.
 
-DJ Fuckoff is a techno and house artist tracked on soundcheck, with 182 sets logged across Amsterdam, Antwerp, Athens and Auckland and 57 more. Often billed alongside DJ AYA, Anetha and DJ Gigola. Next up: Renate, Berlin on Fri 18 Sept.
+DJ Fuckoff is a techno and house artist tracked on soundcheck, with 182 sets logged across Amsterdam, Antwerp, Athens and Auckland and 57 more. Often billed alongside DJ AYA, Anetha and DJ Gigola. Next up: C12, Brussels on Sat 26 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 18 Sept 2026 | Renate | Berlin |
 | Sat, 26 Sept 2026 | C12 | Brussels |
 | Thu, 1 Oct 2026 | Mondo | Madrid |
 | Fri, 9 Oct 2026 | The Berkeley Suite | Glasgow |
@@ -20,6 +19,7 @@ DJ Fuckoff is a techno and house artist tracked on soundcheck, with 182 sets log
 
 ## Recently played
 
+- Renate, Berlin — Fri, 18 Sept 2026
 - The Cause, London — Sat, 12 Sept 2026
 - TBA, Vienna — Sat, 5 Sept 2026
 - Mono, Rotterdam — Sat, 29 Aug 2026
@@ -27,10 +27,9 @@ DJ Fuckoff is a techno and house artist tracked on soundcheck, with 182 sets log
 - La Pinilla Ski Resort, Madrid — Mon, 10 Aug 2026
 - Signal, New York City — Sat, 8 Aug 2026
 - Smoke & Mirrors, Chicago — Fri, 7 Aug 2026
-- TBA - Hollywood Park adjacent to SoFi Stadium, Los Angeles — Sat, 1 Aug 2026
 
 ## Shares bills with
 
 DJ AYA, Anetha, DJ Gigola
 
-*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djfuckoff/)*
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djfuckoff/)*

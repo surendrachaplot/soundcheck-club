@@ -1,6 +1,6 @@
 # Ac1d Vicious
 
-Ac1d Vicious is a Hardcore and Jungle artist with 1 upcoming club date listed on soundcheck as of Fri, 18 Sept 2026, next at radial, London on Fri, 9 Oct 2026.
+Ac1d Vicious is a Hardcore and Jungle artist with 1 upcoming club date listed on soundcheck as of Sat, 19 Sept 2026, next at radial, London on Fri, 9 Oct 2026.
 
 Ac1d Vicious is a hardcore and jungle artist based in United Kingdom, tracked on soundcheck, with 10 sets logged across London. Often billed alongside Medallion Man, Deep Practice and Sunden. Next up: radial, London on Fri 9 Oct.
 
@@ -25,4 +25,4 @@ Ac1d Vicious is a hardcore and jungle artist based in United Kingdom, tracked on
 
 Medallion Man, Deep Practice, Sunden
 
-*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ac1dvicious/)*
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ac1dvicious/)*

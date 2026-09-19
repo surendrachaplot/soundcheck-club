@@ -1,6 +1,6 @@
 # Callèn
 
-Callèn is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 18 Sept 2026, next at Glen Helen Regional Park, Los Angeles on Sat, 19 Sept 2026.
+Callèn is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 19 Sept 2026, next at Glen Helen Regional Park, Los Angeles on Sat, 19 Sept 2026.
 
 Callèn is a techno and house artist tracked on soundcheck, with 6 sets logged across Losangeles and Strasbourg. Often billed alongside A Strange Wedding, Andy Garvey and Audrey Danza. Next up: Glen Helen Regional Park, Losangeles on Sat 19 Sept.
 
@@ -22,4 +22,4 @@ Callèn is a techno and house artist tracked on soundcheck, with 6 sets logged a
 
 A Strange Wedding, Andy Garvey, Audrey Danza
 
-*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/callen/)*
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/callen/)*

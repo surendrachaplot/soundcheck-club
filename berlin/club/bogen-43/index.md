@@ -1,6 +1,6 @@
 # Bogen 43
 
-Bogen 43 is a music venue in Berlin with 1 upcoming night listed on soundcheck as of Fri, 18 Sept 2026; the next is "Bogen 43 listening sessions" on Thu, 24 Sept 2026.
+Bogen 43 is a music venue in Berlin with 1 upcoming night listed on soundcheck as of Sat, 19 Sept 2026; the next is "Bogen 43 listening sessions" on Thu, 24 Sept 2026.
 
 Bogen 43 is a music venue in Berlin listed on soundcheck. 1 upcoming night, with line-ups including baby ganoush and Seaina. Browse upcoming dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ Bogen 43 is a music venue in Berlin listed on soundcheck. 1 upcoming night, with
 | --- | --- | --- |
 | Thu, 24 Sept 2026 | Bogen 43 listening sessions | Seaina, baby ganoush |
 
-*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/bogen-43/)*
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/bogen-43/)*

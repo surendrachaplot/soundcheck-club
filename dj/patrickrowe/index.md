@@ -1,6 +1,6 @@
 # Patrick Rowe
 
-Patrick Rowe is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 18 Sept 2026, next at Gaffe, London on Sat, 14 Nov 2026.
+Patrick Rowe is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 19 Sept 2026, next at Gaffe, London on Sat, 14 Nov 2026.
 
 Patrick Rowe is a techno and house artist based in United Kingdom, tracked on soundcheck, with 13 sets logged across London. Often billed alongside Gabriel Rai, Craig Richards and Enrica Falqui. Next up: Gaffe, London on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ Patrick Rowe is a techno and house artist based in United Kingdom, tracked on so
 
 Gabriel Rai, Craig Richards, Enrica Falqui
 
-*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/patrickrowe/)*
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/patrickrowe/)*

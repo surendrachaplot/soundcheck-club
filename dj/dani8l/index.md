@@ -1,6 +1,6 @@
 # DANI8L
 
-DANI8L is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 18 Sept 2026, next at Horn, Bangkok on Sat, 19 Sept 2026.
+DANI8L is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 19 Sept 2026, next at Horn, Bangkok on Sat, 19 Sept 2026.
 
 DANI8L is a techno and house artist tracked on soundcheck, with 40 sets logged across Bangkok, Singapore and Zurich. Often billed alongside Sam Laxton, Mojack and OLLE (TH). Next up: Horn, Bangkok on Sat 19 Sept.
 
@@ -25,4 +25,4 @@ DANI8L is a techno and house artist tracked on soundcheck, with 40 sets logged a
 
 Sam Laxton, Mojack, OLLE (TH)
 
-*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dani8l/)*
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dani8l/)*

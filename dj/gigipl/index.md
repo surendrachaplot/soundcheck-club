@@ -1,6 +1,6 @@
 # GiGi (PL)
 
-GiGi (PL) is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Fri, 18 Sept 2026, next at OCZKI, Warsaw on Sat, 19 Sept 2026.
+GiGi (PL) is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Sat, 19 Sept 2026, next at OCZKI, Warsaw on Sat, 19 Sept 2026.
 
 GiGi (PL) is a house and tech house artist tracked on soundcheck, with 22 sets logged across Warsaw. Often billed alongside Mazi (PL), WEIKUM and Korenberg. Next up: OCZKI, Warsaw on Sat 19 Sept.
 
@@ -25,4 +25,4 @@ GiGi (PL) is a house and tech house artist tracked on soundcheck, with 22 sets l
 
 Mazi (PL), WEIKUM, Korenberg
 
-*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/gigipl/)*
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/gigipl/)*

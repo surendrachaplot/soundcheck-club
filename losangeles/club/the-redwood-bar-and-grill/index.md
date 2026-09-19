@@ -1,14 +1,13 @@
 # The Redwood Bar And Grill
 
-The Redwood Bar And Grill is a music venue in Los Angeles with 30 upcoming nights listed on soundcheck as of Fri, 18 Sept 2026; the next is "The Hangmen" on Fri, 18 Sept 2026.
+The Redwood Bar And Grill is a music venue in Los Angeles with 29 upcoming nights listed on soundcheck as of Sat, 19 Sept 2026; the next is "Ritual" on Sat, 19 Sept 2026.
 
-The Redwood Bar And Grill is a music venue in Losangeles listed on soundcheck. 30 upcoming nights. Browse upcoming dates, start times and who's playing. 316 W. 2nd Street, Los Angeles, CA  90012.
+The Redwood Bar And Grill is a music venue in Losangeles listed on soundcheck. 29 upcoming nights. Browse upcoming dates, start times and who's playing. 316 W. 2nd Street, Los Angeles, CA  90012.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 18 Sept 2026 | The Hangmen |  |
 | Sat, 19 Sept 2026 | Ritual |  |
 | Fri, 25 Sept 2026 | Stax Johnson & Company |  |
 | Sat, 26 Sept 2026 | Arcane Grace |  |
@@ -18,9 +17,10 @@ The Redwood Bar And Grill is a music venue in Losangeles listed on soundcheck. 3
 | Fri, 2 Oct 2026 | Thelma and the Sleaze |  |
 | Sat, 3 Oct 2026 | The Drool Brothers |  |
 | Sat, 3 Oct 2026 | Jacob The Horse |  |
+| Sun, 4 Oct 2026 | Smokey Lonesome |  |
 
 ## Address
 
 316 W. 2nd Street, Los Angeles, CA  90012, Los Angeles
 
-*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/the-redwood-bar-and-grill/)*
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/the-redwood-bar-and-grill/)*

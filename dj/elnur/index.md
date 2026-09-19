@@ -1,18 +1,18 @@
 # Elnur
 
-Elnur is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 18 Sept 2026, next at Club der Visionaere, Berlin on Fri, 18 Sept 2026.
+Elnur is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 19 Sept 2026, next at RSO.BERLIN, Berlin on Sat, 31 Oct 2026.
 
-Elnur is a house and techno artist tracked on soundcheck, with 20 sets logged across Berlin, Copenhagen, Krakow and Prague and 2 more. Often billed alongside Andrii., Eric (UA) and Olga Korol. Next up: Club der Visionaere, Berlin on Fri 18 Sept.
+Elnur is a house and techno artist tracked on soundcheck, with 20 sets logged across Berlin, Copenhagen, Krakow and Prague and 2 more. Often billed alongside Andrii., Eric (UA) and Olga Korol. Next up: RSO.BERLIN, Berlin on Sat 31 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 18 Sept 2026 | Club der Visionaere | Berlin |
 | Sat, 31 Oct 2026 | RSO.BERLIN | Berlin |
 
 ## Recently played
 
+- Club der Visionaere, Berlin — Fri, 18 Sept 2026
 - Baggen, Copenhagen — Sat, 12 Sept 2026
 - Sekta Selekta, Krakow — Sat, 28 Feb 2026
 - Hoppetosse, Berlin — Fri, 13 Feb 2026
@@ -20,10 +20,9 @@ Elnur is a house and techno artist tracked on soundcheck, with 20 sets logged ac
 - AVA Club, Berlin — Thu, 1 May 2025
 - Hoppetosse, Berlin — Sat, 1 Feb 2025
 - Golden Gate, Berlin — Fri, 16 Aug 2024
-- Club der Visionaere, Berlin — Thu, 1 Aug 2024
 
 ## Shares bills with
 
 Andrii., Eric (UA), Olga Korol
 
-*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/elnur/)*
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/elnur/)*

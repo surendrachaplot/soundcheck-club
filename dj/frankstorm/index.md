@@ -1,6 +1,6 @@
 # Frank Storm
 
-Frank Storm is a Tech House and Techno artist with 3 upcoming club dates listed on soundcheck as of Fri, 18 Sept 2026, next at Café del Mar Malta, Malta on Sat, 19 Sept 2026.
+Frank Storm is a Tech House and Techno artist with 3 upcoming club dates listed on soundcheck as of Sat, 19 Sept 2026, next at Café del Mar Malta, Malta on Sat, 19 Sept 2026.
 
 Frank Storm is a tech house and techno artist tracked on soundcheck, with 41 sets logged across Amsterdam, Bali, Barcelona and Buenosaires and 7 more. Often billed alongside Marco Carola, Ale De Tuglie and Wade. Next up: Café del Mar Malta, Malta on Sat 19 Sept.
 
@@ -27,4 +27,4 @@ Frank Storm is a tech house and techno artist tracked on soundcheck, with 41 set
 
 Marco Carola, Ale De Tuglie, Wade
 
-*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/frankstorm/)*
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/frankstorm/)*

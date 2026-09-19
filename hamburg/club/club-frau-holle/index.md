@@ -1,6 +1,6 @@
 # Club Frau Holle
 
-Club Frau Holle is a music venue in Hamburg with 2 upcoming nights listed on soundcheck as of Fri, 18 Sept 2026; the next is "BROKEN FORMS -MATHIAS KADEN (Rekids,Diynamic,Heideton), VABU, DELLOSEN, DAVIDE, SCHMIDDE, Bjørn" on Fri, 18 Sept 2026.
+Club Frau Holle is a music venue in Hamburg with 2 upcoming nights listed on soundcheck as of Sat, 19 Sept 2026; the next is "BROKEN FORMS -MATHIAS KADEN (Rekids,Diynamic,Heideton), VABU, DELLOSEN, DAVIDE, SCHMIDDE, Bjørn" on Fri, 18 Sept 2026.
 
 Club Frau Holle is a music venue in Hamburg listed on soundcheck. 2 upcoming nights, with line-ups including Bjørn, DAVIDE (2), Dellosen and Mathias Kaden and 2 more. Browse upcoming dates, start times and who's playing. Friedrichsstrasse 9, 20359 Hamburg.
 
@@ -15,4 +15,4 @@ Club Frau Holle is a music venue in Hamburg listed on soundcheck. 2 upcoming nig
 
 Friedrichsstrasse 9, 20359 Hamburg, Hamburg
 
-*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/hamburg/club/club-frau-holle/)*
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/hamburg/club/club-frau-holle/)*

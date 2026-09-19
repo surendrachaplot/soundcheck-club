@@ -1,8 +1,8 @@
 # FAFF
 
-FAFF is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 18 Sept 2026, next at TBA - Secret Location, London on Sat, 19 Sept 2026.
+FAFF is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Sat, 19 Sept 2026, next at TBA - Secret Location, London on Sat, 19 Sept 2026.
 
-FAFF is a house and techno artist tracked on soundcheck, with 110 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 20 more. Often billed alongside Angel D'lite, Michelle Manetti and Marie Malarie. Next up: TBA - Secret Location, London on Sat 19 Sept.
+FAFF is a house and techno artist tracked on soundcheck, with 111 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 20 more. Often billed alongside Angel D'lite, Michelle Manetti and Marie Malarie. Next up: TBA - Secret Location, London on Sat 19 Sept.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ FAFF is a house and techno artist tracked on soundcheck, with 110 sets logged ac
 | --- | --- | --- |
 | Sat, 19 Sept 2026 | TBA - Secret Location | London |
 | Sat, 26 Sept 2026 | Algha's Plantroom | London |
+| Sun, 11 Oct 2026 | radial | London |
 
 ## Recently played
 
@@ -26,4 +27,4 @@ FAFF is a house and techno artist tracked on soundcheck, with 110 sets logged ac
 
 Angel D'lite, Michelle Manetti, Marie Malarie
 
-*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/faff/)*
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/faff/)*

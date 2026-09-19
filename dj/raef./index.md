@@ -1,6 +1,6 @@
 # Raef.
 
-Raef. is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Fri, 18 Sept 2026, next at TBA - Secret Location, London on Sat, 19 Sept 2026.
+Raef. is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Sat, 19 Sept 2026, next at TBA - Secret Location, London on Sat, 19 Sept 2026.
 
 Raef. is a house and tech house artist based in United Kingdom, tracked on soundcheck, with 15 sets logged across Birmingham, Leeds, London and Manchester. Often billed alongside Farrant, Larushkin and Revstreet. Next up: TBA - Secret Location, London on Sat 19 Sept.
 
@@ -25,4 +25,4 @@ Raef. is a house and tech house artist based in United Kingdom, tracked on sound
 
 Farrant, Larushkin, Revstreet
 
-*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/raef./)*
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/raef./)*

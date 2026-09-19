@@ -1,8 +1,8 @@
 # Alien Communications
 
-Alien Communications is a Electro and Techno artist with 5 upcoming club dates listed on soundcheck as of Fri, 18 Sept 2026, next at TBA - Secret Location, Edinburgh, Edinburgh on Sat, 19 Sept 2026.
+Alien Communications is a Electro and Techno artist with 6 upcoming club dates listed on soundcheck as of Sat, 19 Sept 2026, next at TBA - Secret Location, Edinburgh, Edinburgh on Sat, 19 Sept 2026.
 
-Alien Communications is an electro and techno artist based in United Kingdom, tracked on soundcheck, with 123 sets logged across Amsterdam, Barcelona, Berlin and Birmingham and 18 more. Often billed alongside Jos, Ste Roberts and Domenic Cappello. Next up: TBA - Secret Location, Edinburgh, Edinburgh on Sat 19 Sept.
+Alien Communications is an electro and techno artist based in United Kingdom, tracked on soundcheck, with 124 sets logged across Amsterdam, Barcelona, Berlin and Birmingham and 18 more. Often billed alongside Jos, Ste Roberts and Domenic Cappello. Next up: TBA - Secret Location, Edinburgh, Edinburgh on Sat 19 Sept.
 
 ## Upcoming shows
 
@@ -13,6 +13,7 @@ Alien Communications is an electro and techno artist based in United Kingdom, tr
 | Sat, 24 Oct 2026 | Café Café Bar Amsterdam | Amsterdam |
 | Fri, 30 Oct 2026 | Movers | Nottingham |
 | Sat, 31 Oct 2026 | Vittoria Wharf Studio | London |
+| Sat, 31 Oct 2026 | East London Brewing Company | London |
 
 ## Recently played
 
@@ -29,4 +30,4 @@ Alien Communications is an electro and techno artist based in United Kingdom, tr
 
 Jos, Ste Roberts, Domenic Cappello
 
-*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/aliencommunications/)*
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/aliencommunications/)*

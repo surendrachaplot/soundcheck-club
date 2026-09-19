@@ -1,14 +1,13 @@
 # Club 69
 
-Club 69 is a music venue in Glasgow with 7 upcoming nights listed on soundcheck as of Fri, 18 Sept 2026; the next is "AHpromotions presents: SMR B2B Meister" on Fri, 18 Sept 2026.
+Club 69 is a music venue in Glasgow with 6 upcoming nights listed on soundcheck as of Sat, 19 Sept 2026; the next is "20 Years of Gary McF" on Fri, 25 Sept 2026.
 
-Club 69 is a music venue in Glasgow listed on soundcheck. 7 upcoming nights, with line-ups including Daz Scott, Elliott Skeoch, Gabriel Padrevita and Good Times With Friends and 2 more. Browse upcoming dates, start times and who's playing. 40 New Sneddon St; Paisley, PA3 2AZ.
+Club 69 is a music venue in Glasgow listed on soundcheck. 6 upcoming nights, with line-ups including Daz Scott, Elliott Skeoch, Gabriel Padrevita and Good Times With Friends and 1 more. Browse upcoming dates, start times and who's playing. 40 New Sneddon St; Paisley, PA3 2AZ.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 18 Sept 2026 | AHpromotions presents: SMR B2B Meister | Meister, PM, Tech Support |
 | Fri, 25 Sept 2026 | 20 Years of Gary McF |  |
 | Sat, 26 Sept 2026 | Pink presentz |  |
 | Sat, 3 Oct 2026 | KHAOTIC x DESTRUKT presents: A FINAL SERVICE FOR CLUB69 |  |
@@ -20,4 +19,4 @@ Club 69 is a music venue in Glasgow listed on soundcheck. 7 upcoming nights, wit
 
 40 New Sneddon St; Paisley, PA3 2AZ, Glasgow
 
-*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/club-69/)*
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/club-69/)*

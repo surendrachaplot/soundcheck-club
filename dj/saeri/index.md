@@ -1,14 +1,15 @@
 # Saeri
 
-Saeri is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Fri, 18 Sept 2026, next at Z Maruyama, Tokyo on Mon, 21 Sept 2026.
+Saeri is a Tech House and House artist with 2 upcoming club dates listed on soundcheck as of Sat, 19 Sept 2026, next at Z Maruyama, Tokyo on Mon, 21 Sept 2026.
 
-Saeri is a tech house and house artist based in Japan, tracked on soundcheck, with 29 sets logged across Tokyo. Often billed alongside Amps, CLESENT and Yamariki. Next up: Z Maruyama, Tokyo on Mon 21 Sept.
+Saeri is a tech house and house artist based in Japan, tracked on soundcheck, with 30 sets logged across Tokyo. Often billed alongside Amps, CLESENT and Yamariki. Next up: Z Maruyama, Tokyo on Mon 21 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Mon, 21 Sept 2026 | Z Maruyama | Tokyo |
+| Fri, 25 Sept 2026 | Débris | Tokyo |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Saeri is a tech house and house artist based in Japan, tracked on soundcheck, wi
 
 Amps, CLESENT, Yamariki
 
-*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/saeri/)*
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/saeri/)*

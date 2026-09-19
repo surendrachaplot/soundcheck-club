@@ -1,6 +1,6 @@
 # DITA (ID)
 
-DITA (ID) is a House and Balearic artist with 4 upcoming club dates listed on soundcheck as of Fri, 18 Sept 2026, next at La Brisa, Bali on Sat, 19 Sept 2026.
+DITA (ID) is a House and Balearic artist with 4 upcoming club dates listed on soundcheck as of Sat, 19 Sept 2026, next at La Brisa, Bali on Sat, 19 Sept 2026.
 
 DITA (ID) is a house and balearic artist tracked on soundcheck, with 109 sets logged across Amsterdam, Bali, Bangkok and Berlin and 13 more. Often billed alongside PNNY, Archie Dennis and Avalon Emerson. Next up: La Brisa, Bali on Sat 19 Sept.
 
@@ -28,4 +28,4 @@ DITA (ID) is a house and balearic artist tracked on soundcheck, with 109 sets lo
 
 PNNY, Archie Dennis, Avalon Emerson
 
-*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dita-id/)*
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dita-id/)*

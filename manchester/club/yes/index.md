@@ -1,6 +1,6 @@
 # Yes
 
-Yes is a music venue in Manchester with 14 upcoming nights listed on soundcheck as of Fri, 18 Sept 2026; the next is "Deptford Northern Soul Club" on Sat, 19 Sept 2026.
+Yes is a music venue in Manchester with 14 upcoming nights listed on soundcheck as of Sat, 19 Sept 2026; the next is "Deptford Northern Soul Club" on Sat, 19 Sept 2026.
 
 Yes is a music venue in Manchester listed on soundcheck. 14 upcoming nights, with line-ups including Digitalism, Girls of the Internet, Harry Hayes and KD22LR and 2 more. Browse upcoming dates, start times and who's playing. 38 Charles Street Manchester, M1 7BD, United Kingdom.
 
@@ -23,4 +23,4 @@ Yes is a music venue in Manchester listed on soundcheck. 14 upcoming nights, wit
 
 38 Charles Street Manchester, M1 7BD, United Kingdom, Manchester
 
-*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/yes/)*
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/yes/)*

@@ -1,6 +1,6 @@
 # J.Rocc
 
-J.Rocc is a Hip-Hop and House artist with 1 upcoming club date listed on soundcheck as of Fri, 18 Sept 2026, next at The Chan Centre for the Performing Arts, Vancouver on Tue, 22 Sept 2026.
+J.Rocc is a Hip-Hop and House artist with 1 upcoming club date listed on soundcheck as of Sat, 19 Sept 2026, next at The Chan Centre for the Performing Arts, Vancouver on Tue, 22 Sept 2026.
 
 J.Rocc is a hip-hop and house artist based in United States of America, tracked on soundcheck, with 15 sets logged across Hamburg, London, Losangeles and Miami and 7 more. Often billed alongside Muro, Gara and Peanut Butter Wolf. Next up: The Chan Centre for the Performing Arts, Vancouver on Tue 22 Sept.
 
@@ -25,4 +25,4 @@ J.Rocc is a hip-hop and house artist based in United States of America, tracked 
 
 Muro, Gara, Peanut Butter Wolf
 
-*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/j-rocc-us/)*
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/j-rocc-us/)*

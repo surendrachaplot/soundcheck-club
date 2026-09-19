@@ -1,6 +1,6 @@
 # Will Jack
 
-Will Jack is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 18 Sept 2026, next at C'mon Everybody, New York City on Sat, 19 Sept 2026.
+Will Jack is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 19 Sept 2026, next at C'mon Everybody, New York City on Sat, 19 Sept 2026.
 
 Will Jack is a house and techno artist based in United States of America, tracked on soundcheck, with 42 sets logged across Newyorkcity and Portland. Often billed alongside Giovannii, Sevyn Love and DJ DEADNAME. Next up: C'mon Everybody, Newyorkcity on Sat 19 Sept.
 
@@ -26,4 +26,4 @@ Will Jack is a house and techno artist based in United States of America, tracke
 
 Giovannii, Sevyn Love, DJ DEADNAME
 
-*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/willjack/)*
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/willjack/)*

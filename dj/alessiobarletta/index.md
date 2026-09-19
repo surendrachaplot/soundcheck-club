@@ -1,6 +1,6 @@
 # Alessio Barletta
 
-Alessio Barletta is a Electro and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 18 Sept 2026, next at THE MAGICK BAR, Rome on Sun, 20 Sept 2026.
+Alessio Barletta is a Electro and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 19 Sept 2026, next at THE MAGICK BAR, Rome on Sun, 20 Sept 2026.
 
 Alessio Barletta is an electro and techno artist based in Italy, tracked on soundcheck, with 16 sets logged across Milan, Munich and Rome. Often billed alongside Lavandonia, Alles Andere and Marcel Dettmann. Next up: THE MAGICK BAR, Rome on Sun 20 Sept.
 
@@ -25,4 +25,4 @@ Alessio Barletta is an electro and techno artist based in Italy, tracked on soun
 
 Lavandonia, Alles Andere, Marcel Dettmann
 
-*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/alessiobarletta/)*
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/alessiobarletta/)*

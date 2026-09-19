@@ -1,14 +1,13 @@
 # Fugaz Bar
 
-Fugaz Bar is a music venue in Sao Paulo with 7 upcoming nights listed on soundcheck as of Fri, 18 Sept 2026; the next is "Fugaz recebe Charlie Thunder" on Fri, 18 Sept 2026.
+Fugaz Bar is a music venue in Sao Paulo with 6 upcoming nights listed on soundcheck as of Sat, 19 Sept 2026; the next is "Fugaz recebe Selecta Brasil" on Sat, 19 Sept 2026.
 
-Fugaz Bar is a music venue in Saopaulo listed on soundcheck. 7 upcoming nights. Browse upcoming dates, start times and who's playing. Rua Cardeal Arcoverde, 1479.
+Fugaz Bar is a music venue in Saopaulo listed on soundcheck. 6 upcoming nights. Browse upcoming dates, start times and who's playing. Rua Cardeal Arcoverde, 1479.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 18 Sept 2026 | Fugaz recebe Charlie Thunder |  |
 | Sat, 19 Sept 2026 | Fugaz recebe Selecta Brasil |  |
 | Wed, 23 Sept 2026 | Fugaz recebe Leo Machert |  |
 | Thu, 24 Sept 2026 | Fugaz recebe Bernardo Pinheiro |  |
@@ -20,4 +19,4 @@ Fugaz Bar is a music venue in Saopaulo listed on soundcheck. 7 upcoming nights. 
 
 Rua Cardeal Arcoverde, 1479, Sao Paulo
 
-*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/saopaulo/club/fugaz-bar/)*
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/saopaulo/club/fugaz-bar/)*

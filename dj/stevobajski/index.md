@@ -1,6 +1,6 @@
 # Stevo Bajski
 
-Stevo Bajski is a Ambient and Dub artist with 1 upcoming club date listed on soundcheck as of Fri, 18 Sept 2026, next at Ikii, Berlin on Sun, 20 Sept 2026.
+Stevo Bajski is a Ambient and Dub artist with 1 upcoming club date listed on soundcheck as of Sat, 19 Sept 2026, next at Ikii, Berlin on Sun, 20 Sept 2026.
 
 Stevo Bajski is an ambient and dub artist based in Germany, tracked on soundcheck, with 11 sets logged across Berlin and Vienna. Often billed alongside Cecilia Tosh, Mystigrix and Annie Farmer. Next up: Ikii, Berlin on Sun 20 Sept.
 
@@ -25,4 +25,4 @@ Stevo Bajski is an ambient and dub artist based in Germany, tracked on soundchec
 
 Cecilia Tosh, Mystigrix, Annie Farmer
 
-*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/stevobajski/)*
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/stevobajski/)*

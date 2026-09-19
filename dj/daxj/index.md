@@ -1,14 +1,13 @@
 # DAX J
 
-DAX J is a Techno and House artist with 13 upcoming club dates listed on soundcheck as of Fri, 18 Sept 2026, next at Nitsa Club, Barcelona on Fri, 18 Sept 2026.
+DAX J is a Techno and House artist with 12 upcoming club dates listed on soundcheck as of Sat, 19 Sept 2026, next at Circolo Amelia, Milan on Sat, 19 Sept 2026.
 
-DAX J is a techno and house artist tracked on soundcheck, with 260 sets logged across Amsterdam, Athens, Barcelona and Basel and 67 more. Often billed alongside SPFDJ, Daria Kolosova and Chlär. Next up: Nitsa Club, Barcelona on Fri 18 Sept.
+DAX J is a techno and house artist tracked on soundcheck, with 260 sets logged across Amsterdam, Athens, Barcelona and Basel and 67 more. Often billed alongside SPFDJ, Daria Kolosova and Chlär. Next up: Circolo Amelia, Milan on Sat 19 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 18 Sept 2026 | Nitsa Club | Barcelona |
 | Sat, 19 Sept 2026 | Circolo Amelia | Milan |
 | Sat, 26 Sept 2026 | Spook Club | Valencia |
 | Sun, 27 Sept 2026 | Hï Ibiza | Ibiza |
@@ -20,9 +19,11 @@ DAX J is a techno and house artist tracked on soundcheck, with 260 sets logged a
 | Fri, 30 Oct 2026 | Factory Town | Miami |
 | Sat, 14 Nov 2026 | Knockdown Center | New York City |
 | Fri, 20 Nov 2026 | Expo Santa Fe | Mexico City |
+| Sat, 28 Nov 2026 | Lofi | Amsterdam |
 
 ## Recently played
 
+- Nitsa Club, Barcelona — Fri, 18 Sept 2026
 - TBA - Los Angeles, Los Angeles — Sun, 6 Sept 2026
 - Radius, Chicago — Sat, 5 Sept 2026
 - TBA - Secret Location, Toronto — Fri, 4 Sept 2026
@@ -30,10 +31,9 @@ DAX J is a techno and house artist tracked on soundcheck, with 260 sets logged a
 - Dürener Badesee, Cologne — Fri, 28 Aug 2026
 - Dürener Badesee, Cologne — Fri, 28 Aug 2026
 - Magazine Open–Air, London — Fri, 21 Aug 2026
-- Parc des Etangs/Vijverspark, Brussels — Fri, 14 Aug 2026
 
 ## Shares bills with
 
 SPFDJ, Daria Kolosova, Chlär
 
-*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/daxj/)*
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/daxj/)*

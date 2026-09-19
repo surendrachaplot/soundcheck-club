@@ -1,8 +1,8 @@
 # YAM YAMS
 
-YAM YAMS is a Techno and Hardcore artist with 2 upcoming club dates listed on soundcheck as of Fri, 18 Sept 2026, next at Foro Normandie, Mexico City on Fri, 25 Sept 2026.
+YAM YAMS is a Techno and Hardcore artist with 3 upcoming club dates listed on soundcheck as of Sat, 19 Sept 2026, next at Foro Normandie, Mexico City on Fri, 25 Sept 2026.
 
-YAM YAMS is a techno and hardcore artist based in Mexico, tracked on soundcheck, with 15 sets logged across Mexicocity and Sanfrancisco. Often billed alongside Fuckboyzo, JHAXIE and DJLOVETHEPARTY. Next up: Foro Normandie, Mexicocity on Fri 25 Sept.
+YAM YAMS is a techno and hardcore artist based in Mexico, tracked on soundcheck, with 16 sets logged across Mexicocity and Sanfrancisco. Often billed alongside Diego Saaz, Fuckboyzo and JHAXIE. Next up: Foro Normandie, Mexicocity on Fri 25 Sept.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ YAM YAMS is a techno and hardcore artist based in Mexico, tracked on soundcheck,
 | --- | --- | --- |
 | Fri, 25 Sept 2026 | Foro Normandie | Mexico City |
 | Sat, 24 Oct 2026 | TBA - Ainā Rooftop, Vermont 29, Nápoles, CDMX  | Mexico City |
+| Sat, 24 Oct 2026 | TBA - Playa Condesa Insurgentes Sur 516 | Mexico City |
 
 ## Recently played
 
@@ -24,6 +25,6 @@ YAM YAMS is a techno and hardcore artist based in Mexico, tracked on soundcheck,
 
 ## Shares bills with
 
-Fuckboyzo, JHAXIE, DJLOVETHEPARTY
+Diego Saaz, Fuckboyzo, JHAXIE
 
-*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/yamyams/)*
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/yamyams/)*

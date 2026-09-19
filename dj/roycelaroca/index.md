@@ -1,6 +1,6 @@
 # Royce Larøca
 
-Royce Larøca is a House and Minimal artist with 2 upcoming club dates listed on soundcheck as of Fri, 18 Sept 2026, next at La Chinesca, Philadelphia on Sun, 11 Oct 2026.
+Royce Larøca is a House and Minimal artist with 2 upcoming club dates listed on soundcheck as of Sat, 19 Sept 2026, next at La Chinesca, Philadelphia on Sun, 11 Oct 2026.
 
 Royce Larøca is a house and minimal artist tracked on soundcheck, with 71 sets logged across Dublin, Lisbon, London and Paris and 1 more. Often billed alongside Waximum, Hera (IE) and RealTalks Soundsystem. Next up: La Chinesca, Philadelphia on Sun 11 Oct.
 
@@ -26,4 +26,4 @@ Royce Larøca is a house and minimal artist tracked on soundcheck, with 71 sets 
 
 Waximum, Hera (IE), RealTalks Soundsystem
 
-*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/roycelaroca/)*
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/roycelaroca/)*

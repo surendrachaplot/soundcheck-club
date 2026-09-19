@@ -1,6 +1,6 @@
 # Wellzee
 
-Wellzee is a Tech House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 18 Sept 2026, next at Union Club, Vauxhall, London on Sun, 20 Sept 2026.
+Wellzee is a Tech House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 19 Sept 2026, next at Union Club, Vauxhall, London on Sun, 20 Sept 2026.
 
 Wellzee is a tech house and techno artist based in United Kingdom, tracked on soundcheck, with 22 sets logged across Amsterdam, Ibiza, London and Miami. Often billed alongside Thomas Galbardi, Diana Loredana and Juandez. Next up: Union Club, Vauxhall, London on Sun 20 Sept.
 
@@ -25,4 +25,4 @@ Wellzee is a tech house and techno artist based in United Kingdom, tracked on so
 
 Thomas Galbardi, Diana Loredana, Juandez
 
-*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/wellzee/)*
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/wellzee/)*

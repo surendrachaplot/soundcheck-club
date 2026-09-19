@@ -1,6 +1,6 @@
 # ZANNT
 
-ZANNT is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 18 Sept 2026, next at AMT, Berlin on Fri, 18 Sept 2026.
+ZANNT is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sat, 19 Sept 2026, next at AMT, Berlin on Fri, 18 Sept 2026.
 
 ZANNT is a techno and house artist based in Greece, tracked on soundcheck, with 17 sets logged across Athens, Berlin and Hamburg. Often billed alongside Cherry Distress, 131bpm and ADAM MUNNINGS. Next up: AMT, Berlin on Fri 18 Sept.
 
@@ -13,6 +13,7 @@ ZANNT is a techno and house artist based in Greece, tracked on soundcheck, with 
 
 ## Recently played
 
+- AMT, Berlin — Fri, 18 Sept 2026
 - TBA - Secret Location NK, Berlin — Sat, 15 Aug 2026
 - Renate, Berlin — Sat, 25 Jul 2026
 - KREUZWERK, Berlin — Sat, 30 May 2026
@@ -20,10 +21,9 @@ ZANNT is a techno and house artist based in Greece, tracked on soundcheck, with 
 - Sameheads, Berlin — Sat, 28 Mar 2026
 - Renate, Berlin — Sat, 7 Feb 2026
 - Zur Klappe, Berlin — Fri, 12 Dec 2025
-- Hafenklang, Hamburg — Fri, 31 Oct 2025
 
 ## Shares bills with
 
 Cherry Distress, 131bpm, ADAM MUNNINGS
 
-*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/zannt/)*
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/zannt/)*

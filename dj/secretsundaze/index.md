@@ -1,14 +1,15 @@
 # Secretsundaze
 
-Secretsundaze is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 18 Sept 2026, next at The Timber Loft, London on Sun, 4 Oct 2026.
+Secretsundaze is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 19 Sept 2026, next at The Timber Loft, London on Sun, 4 Oct 2026.
 
-Secretsundaze is a house and techno artist tracked on soundcheck, with 78 sets logged across Amsterdam, Bangkok, Barcelona and Berlin and 16 more. Often billed alongside Ariane V, Certain People and Manuel Darquart. Next up: The Timber Loft, London on Sun 4 Oct.
+Secretsundaze is a house and techno artist tracked on soundcheck, with 79 sets logged across Amsterdam, Bangkok, Barcelona and Berlin and 16 more. Often billed alongside Ariane V, Certain People and Manuel Darquart. Next up: The Timber Loft, London on Sun 4 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sun, 4 Oct 2026 | The Timber Loft | London |
+| Sat, 31 Oct 2026 | East London Brewing Company | London |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Secretsundaze is a house and techno artist tracked on soundcheck, with 78 sets l
 
 Ariane V, Certain People, Manuel Darquart
 
-*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/secretsundaze/)*
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/secretsundaze/)*

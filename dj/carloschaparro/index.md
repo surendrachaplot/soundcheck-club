@@ -1,13 +1,14 @@
 # Carlos Chaparro
 
-Carlos Chaparro is a Tech House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 18 Sept 2026, next at Fabrik, Madrid on Sat, 10 Oct 2026.
+Carlos Chaparro is a Tech House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 19 Sept 2026, next at Ritter Butzke, Berlin on Fri, 9 Oct 2026.
 
-Carlos Chaparro is a tech house and techno artist tracked on soundcheck, with 20 sets logged across Bali, Barcelona, Buenosaires and Hongkong and 7 more. Often billed alongside Alex Clap, Andrea Giudice and FISHER. Next up: Fabrik, Madrid on Sat 10 Oct.
+Carlos Chaparro is a tech house and techno artist tracked on soundcheck, with 21 sets logged across Bali, Barcelona, Berlin and Buenosaires and 8 more. Often billed alongside Alex Clap, Andrea Giudice and FISHER. Next up: Ritter Butzke, Berlin on Fri 9 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 9 Oct 2026 | Ritter Butzke | Berlin |
 | Sat, 10 Oct 2026 | Fabrik | Madrid |
 
 ## Recently played
@@ -25,4 +26,4 @@ Carlos Chaparro is a tech house and techno artist tracked on soundcheck, with 20
 
 Alex Clap, Andrea Giudice, FISHER
 
-*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/carloschaparro/)*
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/carloschaparro/)*

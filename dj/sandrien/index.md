@@ -1,14 +1,13 @@
 # Sandrien
 
-Sandrien is a Techno and House artist with 9 upcoming club dates listed on soundcheck as of Fri, 18 Sept 2026, next at Paradiso, Amsterdam on Fri, 18 Sept 2026.
+Sandrien is a Techno and House artist with 8 upcoming club dates listed on soundcheck as of Sat, 19 Sept 2026, next at Razzmatazz, Barcelona on Sat, 26 Sept 2026.
 
-Sandrien is a techno and house artist tracked on soundcheck, with 172 sets logged across Amsterdam, Athens, Barcelona and Berlin and 31 more. Often billed alongside JakoJako, DVS1 and Fafi Abdel Nour. Next up: Paradiso, Amsterdam on Fri 18 Sept.
+Sandrien is a techno and house artist tracked on soundcheck, with 172 sets logged across Amsterdam, Athens, Barcelona and Berlin and 31 more. Often billed alongside JakoJako, DVS1 and Fafi Abdel Nour. Next up: Razzmatazz, Barcelona on Sat 26 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 18 Sept 2026 | Paradiso | Amsterdam |
 | Sat, 26 Sept 2026 | Razzmatazz | Barcelona |
 | Fri, 2 Oct 2026 | Bike Jesus | Prague |
 | Fri, 9 Oct 2026 | Shelter Amsterdam | Amsterdam |
@@ -20,6 +19,7 @@ Sandrien is a techno and house artist tracked on soundcheck, with 172 sets logge
 
 ## Recently played
 
+- Paradiso, Amsterdam — Fri, 18 Sept 2026
 - essaim, Paris — Sat, 12 Sept 2026
 - RSO.BERLIN, Berlin — Sat, 29 Aug 2026
 - C12, Brussels — Sat, 15 Aug 2026
@@ -27,10 +27,9 @@ Sandrien is a techno and house artist tracked on soundcheck, with 172 sets logge
 - Lofi, Amsterdam — Sat, 8 Aug 2026
 - TBA - Deventer Outdoor | Molbergsweg 3c , Amsterdam — Fri, 7 Aug 2026
 - Amsterdamse Bos, Amsterdam — Sat, 1 Aug 2026
-- RADION, Amsterdam — Sat, 1 Aug 2026
 
 ## Shares bills with
 
 JakoJako, DVS1, Fafi Abdel Nour
 
-*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sandrien/)*
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sandrien/)*

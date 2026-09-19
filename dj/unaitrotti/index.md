@@ -1,6 +1,6 @@
 # Unai Trotti
 
-Unai Trotti is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Fri, 18 Sept 2026, next at Fort Mifflin, Philadelphia on Fri, 18 Sept 2026.
+Unai Trotti is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Sat, 19 Sept 2026, next at Fort Mifflin, Philadelphia on Fri, 18 Sept 2026.
 
 Unai Trotti is a techno and house artist tracked on soundcheck, with 163 sets logged across Amsterdam, Antwerp, Austin and Bali and 47 more. Often billed alongside Z@p, Vass and Junki Inoue. Next up: Fort Mifflin, Philadelphia on Fri 18 Sept.
 
@@ -17,17 +17,17 @@ Unai Trotti is a techno and house artist tracked on soundcheck, with 163 sets lo
 
 ## Recently played
 
+- Fort Mifflin, Philadelphia — Fri, 18 Sept 2026
+- Signal, New York City — Fri, 18 Sept 2026
 - Bunker, Turin — Sat, 12 Sept 2026
 - Coco Boule, Berlin — Fri, 11 Sept 2026
 - TBA - Naples, Naples — Sat, 5 Sept 2026
 - Palais, London — Fri, 14 Aug 2026
 - Hall, Tallinn — Fri, 14 Aug 2026
 - Cherry Beach, Toronto — Sun, 19 Jul 2026
-- The Jama, Toronto — Sun, 19 Jul 2026
-- StereoBar, Montreal — Sat, 18 Jul 2026
 
 ## Shares bills with
 
 Z@p, Vass, Junki Inoue
 
-*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/unaitrotti/)*
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/unaitrotti/)*

@@ -1,6 +1,6 @@
 # Griffin Maxwell Brooks
 
-Griffin Maxwell Brooks is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 18 Sept 2026, next at Green Room NYC, New York City on Sat, 3 Oct 2026.
+Griffin Maxwell Brooks is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 19 Sept 2026, next at Green Room NYC, New York City on Sat, 3 Oct 2026.
 
 Griffin Maxwell Brooks is a house and techno artist tracked on soundcheck, with 59 sets logged across Chicago, Losangeles, Miami and Newyorkcity and 2 more. Often billed alongside Amber Valentine, Jojo Lorenzo and SKYWALKER (US). Next up: Green Room NYC, Newyorkcity on Sat 3 Oct.
 
@@ -26,4 +26,4 @@ Griffin Maxwell Brooks is a house and techno artist tracked on soundcheck, with 
 
 Amber Valentine, Jojo Lorenzo, SKYWALKER (US)
 
-*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/griffinmaxwellbrooks/)*
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/griffinmaxwellbrooks/)*

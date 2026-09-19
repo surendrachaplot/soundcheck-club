@@ -1,14 +1,13 @@
 # Amnesia Ibiza
 
-Amnesia Ibiza is a music venue in Ibiza with 18 upcoming nights listed on soundcheck as of Fri, 18 Sept 2026; the next is "Glitterbox" on Fri, 18 Sept 2026.
+Amnesia Ibiza is a music venue in Ibiza with 17 upcoming nights listed on soundcheck as of Sat, 19 Sept 2026; the next is "FAC51: The Haçienda" on Sat, 19 Sept 2026.
 
-Amnesia Ibiza is a music venue in Ibiza listed on soundcheck. 18 upcoming nights, with line-ups including Kepler, Adrian Mills, Alarico and Alexandria and 2 more. Browse upcoming dates, start times and who's playing. Ctra. Ibiza a San Antonio, Km 5, 07816 San Rafael, Ibiza.
+Amnesia Ibiza is a music venue in Ibiza listed on soundcheck. 17 upcoming nights, with line-ups including Kepler, Adrian Mills, Alarico and Alexandria and 2 more. Browse upcoming dates, start times and who's playing. Ctra. Ibiza a San Antonio, Km 5, 07816 San Rafael, Ibiza.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 18 Sept 2026 | Glitterbox | Armand Van Helden, Dan Shake, Floorplan, Melvo Baptiste, Mousse T., Natasha Diggs, Riva Starr, Spiller |
 | Sat, 19 Sept 2026 | FAC51: The Haçienda | DJ Paulette, David Morales, Graeme Park, Innercity (BE), Mike Pickering, Todd Terry |
 | Sun, 20 Sept 2026 | Pyramid | Andres Campo, Cam Stockman, Charlie Sparks, Deborah De Luca, Demi Riquisimo, Fleur Shore, Josh Baker, Kolter, Luca Donzelli, Marco Faraone, Marsolo |
 | Mon, 21 Sept 2026 | NRG | Ben Hemsley, DART, Denis Sulta, Faster Horses, Kyle Starkey |
@@ -18,9 +17,10 @@ Amnesia Ibiza is a music venue in Ibiza listed on soundcheck. 18 upcoming nights
 | Fri, 25 Sept 2026 | Glitterbox | Basement Jaxx, Dan Shake, L3Ni, Luke Solomon, Makèz, Melvo Baptiste, MiNNA |
 | Sat, 26 Sept 2026 | Godskitchen | Fergie, Ferry Corsten, Jordan Nocturne, Lisa Lashes, Tall Paul |
 | Sun, 27 Sept 2026 | Pyramid | Burnski, CAAL, DJ Pete, De La Swing, Jeff Mills, Kepler, Nørbak, Obskur, Omar+, Sosa |
+| Mon, 28 Sept 2026 | NRG Closing Party | Ben Hemsley, DART, Kyle Starkey, Paige Tomlinson, Somewhen |
 
 ## Address
 
 Ctra. Ibiza a San Antonio, Km 5, 07816 San Rafael, Ibiza, Ibiza
 
-*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/ibiza/club/amnesia-ibiza/)*
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/ibiza/club/amnesia-ibiza/)*

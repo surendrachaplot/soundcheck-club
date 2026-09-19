@@ -1,6 +1,6 @@
 # KLAUDIA
 
-KLAUDIA is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 18 Sept 2026, next at Tonal, Mexico City on Tue, 15 Sept 2026.
+KLAUDIA is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 19 Sept 2026, next at Tonal, Mexico City on Tue, 15 Sept 2026.
 
 KLAUDIA is a techno and house artist based in Germany, tracked on soundcheck, with 28 sets logged across Berlin, Mexicocity, Stockholm and Tokyo and 1 more. Often billed alongside Rosa Luxemburg, Amo (NO) and Farry. Next up: Tonal, Mexicocity on Tue 15 Sept.
 
@@ -25,4 +25,4 @@ KLAUDIA is a techno and house artist based in Germany, tracked on soundcheck, wi
 
 Rosa Luxemburg, Amo (NO), Farry
 
-*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/klaudia/)*
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/klaudia/)*

@@ -1,6 +1,6 @@
 # ATZENPUNK
 
-ATZENPUNK is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Fri, 18 Sept 2026, next at TBA - Info in Telegram, Berlin on Sat, 19 Sept 2026.
+ATZENPUNK is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Sat, 19 Sept 2026, next at TBA - Info in Telegram, Berlin on Sat, 19 Sept 2026.
 
 ATZENPUNK is a techno and trance artist tracked on soundcheck, with 20 sets logged across Berlin, Dusseldorf, Leipzig and Munich and 2 more. Often billed alongside CLTX, Camilla Rae and Delcu. Next up: TBA - Info in Telegram, Berlin on Sat 19 Sept.
 
@@ -25,4 +25,4 @@ ATZENPUNK is a techno and trance artist tracked on soundcheck, with 20 sets logg
 
 CLTX, Camilla Rae, Delcu
 
-*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/atzenpunk/)*
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/atzenpunk/)*

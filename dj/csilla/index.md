@@ -1,6 +1,6 @@
 # CSILLA
 
-CSILLA is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Fri, 18 Sept 2026, next at Renate, Berlin on Sat, 19 Sept 2026.
+CSILLA is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Sat, 19 Sept 2026, next at Renate, Berlin on Sat, 19 Sept 2026.
 
 CSILLA is a techno and house artist based in United States of America, tracked on soundcheck, with 83 sets logged across Berlin, Boston, Detroit and Houston and 6 more. Often billed alongside KXAH, SSG_ and jay york. Next up: Renate, Berlin on Sat 19 Sept.
 
@@ -27,4 +27,4 @@ CSILLA is a techno and house artist based in United States of America, tracked o
 
 KXAH, SSG_, jay york
 
-*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/csilla/)*
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/csilla/)*

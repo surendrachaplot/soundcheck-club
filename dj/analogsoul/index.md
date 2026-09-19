@@ -1,6 +1,6 @@
 # Analog Soul
 
-Analog Soul is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 18 Sept 2026, next at BASEMENT, New York City on Fri, 2 Oct 2026.
+Analog Soul is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 19 Sept 2026, next at BASEMENT, New York City on Fri, 2 Oct 2026.
 
 Analog Soul is a house and techno artist based in United States of America, tracked on soundcheck, with 129 sets logged across Berlin, Boston, Brussels and Chicago and 15 more. Often billed alongside The Carry Nation, Aurora Halal and JADALAREIGN. Next up: BASEMENT, Newyorkcity on Fri 2 Oct.
 
@@ -25,4 +25,4 @@ Analog Soul is a house and techno artist based in United States of America, trac
 
 The Carry Nation, Aurora Halal, JADALAREIGN
 
-*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/analogsoul/)*
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/analogsoul/)*

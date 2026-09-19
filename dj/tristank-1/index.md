@@ -1,6 +1,6 @@
 # Tristan K (1)
 
-Tristan K (1) is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Fri, 18 Sept 2026, next at Schrotty, Cologne on Sat, 10 Oct 2026.
+Tristan K (1) is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Sat, 19 Sept 2026, next at Schrotty, Cologne on Sat, 10 Oct 2026.
 
 Tristan K (1) is a techno and trance artist based in Germany, tracked on soundcheck, with 6 sets logged across Cologne. Often billed alongside anyka, Ken Brause and MARRED. Next up: Schrotty, Cologne on Sat 10 Oct.
 
@@ -22,4 +22,4 @@ Tristan K (1) is a techno and trance artist based in Germany, tracked on soundch
 
 anyka, Ken Brause, MARRED
 
-*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tristank-1/)*
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tristank-1/)*

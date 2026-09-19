@@ -1,6 +1,6 @@
 # The View From The Shard
 
-The View From The Shard is a music venue in London with 1 upcoming night listed on soundcheck as of Fri, 18 Sept 2026; the next is "fabric x Sennheiser: Kölsch at The View From The Shard [SOLD OUT]" on Fri, 25 Sept 2026.
+The View From The Shard is a music venue in London with 1 upcoming night listed on soundcheck as of Sat, 19 Sept 2026; the next is "fabric x Sennheiser: Kölsch at The View From The Shard [SOLD OUT]" on Fri, 25 Sept 2026.
 
 The View From The Shard is a music venue in London listed on soundcheck. 1 upcoming night, with line-ups including Kariina and Kolsch. Browse upcoming dates, start times and who's playing. joiner street, se1 9QU.
 
@@ -14,4 +14,4 @@ The View From The Shard is a music venue in London listed on soundcheck. 1 upcom
 
 joiner street, se1 9QU, London
 
-*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/the-view-from-the-shard/)*
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/the-view-from-the-shard/)*

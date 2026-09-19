@@ -1,14 +1,13 @@
 # Mr. Belt & Wezol
 
-Mr. Belt & Wezol is a House and Tech House artist with 5 upcoming club dates listed on soundcheck as of Fri, 18 Sept 2026, next at Circolo Magnolia, Milan on Fri, 18 Sept 2026.
+Mr. Belt & Wezol is a House and Tech House artist with 4 upcoming club dates listed on soundcheck as of Sat, 19 Sept 2026, next at Nxt Museum, Amsterdam on Fri, 23 Oct 2026.
 
-Mr. Belt & Wezol are a house and tech house duo tracked on soundcheck, with 50 sets logged across Amsterdam, Barcelona, Bucharest and Ibiza and 14 more. Often billed alongside Karim Soliman, RUZE and Ammé. Next up: Circolo Magnolia, Milan on Fri 18 Sept.
+Mr. Belt & Wezol are a house and tech house duo tracked on soundcheck, with 50 sets logged across Amsterdam, Barcelona, Bucharest and Ibiza and 14 more. Often billed alongside Karim Soliman, RUZE and Ammé. Next up: Nxt Museum, Amsterdam on Fri 23 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 18 Sept 2026 | Circolo Magnolia | Milan |
 | Fri, 23 Oct 2026 | Nxt Museum | Amsterdam |
 | Sat, 31 Oct 2026 | Parc del Fòrum | Barcelona |
 | Fri, 6 Nov 2026 | INPUT High Fidelity Dance Club | Barcelona |
@@ -16,6 +15,7 @@ Mr. Belt & Wezol are a house and tech house duo tracked on soundcheck, with 50 s
 
 ## Recently played
 
+- Circolo Magnolia, Milan — Fri, 18 Sept 2026
 - Cova Santa, Ibiza — Sun, 13 Sept 2026
 - BCM, Mallorca — Thu, 10 Sept 2026
 - Cova Santa, Ibiza — Sun, 23 Aug 2026
@@ -23,10 +23,9 @@ Mr. Belt & Wezol are a house and tech house duo tracked on soundcheck, with 50 s
 - UNO MALTA, Malta — Sat, 8 Aug 2026
 - Cova Santa, Ibiza — Sun, 12 Jul 2026
 - Kralingse Bos, Rotterdam — Sat, 13 Jun 2026
-- Cova Santa, Ibiza — Thu, 11 Jun 2026
 
 ## Shares bills with
 
 Karim Soliman, RUZE, Ammé
 
-*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mr.beltwezol/)*
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mr.beltwezol/)*

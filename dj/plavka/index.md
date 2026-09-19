@@ -1,6 +1,6 @@
 # Plavka
 
-Plavka is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Fri, 18 Sept 2026, next at TBA - Location Link in Bio on Instagram @recollectunderground, Los Angeles on Fri, 25 Sept 2026.
+Plavka is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Sat, 19 Sept 2026, next at TBA - Location Link in Bio on Instagram @recollectunderground, Los Angeles on Fri, 25 Sept 2026.
 
 Plavka is a house and tech house artist tracked on soundcheck, with 9 sets logged across Losangeles. Often billed alongside Albina Van, DJ Ruff and Max Rush. Next up: TBA - Location Link in Bio on Instagram @recollectunderground, Losangeles on Fri 25 Sept.
 
@@ -25,4 +25,4 @@ Plavka is a house and tech house artist tracked on soundcheck, with 9 sets logge
 
 Albina Van, DJ Ruff, Max Rush
 
-*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/plavka/)*
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/plavka/)*

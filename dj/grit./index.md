@@ -1,6 +1,6 @@
 # GRIT.
 
-GRIT. is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Fri, 18 Sept 2026, next at Brixton Radio, London on Sat, 19 Sept 2026.
+GRIT. is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Sat, 19 Sept 2026, next at Brixton Radio, London on Sat, 19 Sept 2026.
 
 GRIT. is a house and disco artist tracked on soundcheck, with 12 sets logged across London and Nottingham. Often billed alongside Danny Marx, Bread & Butter and DJ REz. Next up: Brixton Radio, London on Sat 19 Sept.
 
@@ -26,4 +26,4 @@ GRIT. is a house and disco artist tracked on soundcheck, with 12 sets logged acr
 
 Danny Marx, Bread & Butter, DJ REz
 
-*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/grit./)*
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/grit./)*

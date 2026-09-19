@@ -1,6 +1,6 @@
 # FINKY
 
-FINKY is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Fri, 18 Sept 2026, next at Lab11, Birmingham on Sat, 14 Nov 2026.
+FINKY is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Sat, 19 Sept 2026, next at Lab11, Birmingham on Sat, 14 Nov 2026.
 
 FINKY is a house and tech house artist tracked on soundcheck, with 41 sets logged across Amsterdam, Barcelona, Birmingham and Ibiza and 7 more. Often billed alongside Ryan Resso, Chopper (UK) and Stef Davidse. Next up: Lab11, Birmingham on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ FINKY is a house and tech house artist tracked on soundcheck, with 41 sets logge
 
 Ryan Resso, Chopper (UK), Stef Davidse
 
-*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/finky/)*
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/finky/)*

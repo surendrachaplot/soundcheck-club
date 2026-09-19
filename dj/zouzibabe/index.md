@@ -1,20 +1,20 @@
 # Zouzibabe
 
-Zouzibabe is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Fri, 18 Sept 2026, next at UMI, Brussels on Fri, 18 Sept 2026.
+Zouzibabe is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Sat, 19 Sept 2026, next at Macadam, Nantes on Sat, 26 Sept 2026.
 
-Zouzibabe is a house and techno artist tracked on soundcheck, with 82 sets logged across Amsterdam, Antwerp, Brussels and Ghent and 3 more. Often billed alongside Fais Le Beau, Sara Dziri and Melissa Juice. Next up: UMI, Brussels on Fri 18 Sept.
+Zouzibabe is a house and techno artist tracked on soundcheck, with 82 sets logged across Amsterdam, Antwerp, Brussels and Ghent and 3 more. Often billed alongside Fais Le Beau, Sara Dziri and Melissa Juice. Next up: Macadam, Nantes on Sat 26 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 18 Sept 2026 | UMI | Brussels |
 | Sat, 26 Sept 2026 | Macadam | Nantes |
 | Fri, 16 Oct 2026 | TRAUM | Antwerp |
 | Sat, 14 Nov 2026 | Fuse | Brussels |
 
 ## Recently played
 
+- UMI, Brussels — Fri, 18 Sept 2026
 - Place D'espagne, Brussels — Sat, 12 Sept 2026
 - TBA - Paradies Garten Festival - Schloß Prugg 2, 2460 Gemeinde Bruck an der Leitha, Vienna — Fri, 31 Jul 2026
 - TBA - Paradise City Festival, Brussels — Fri, 26 Jun 2026
@@ -22,10 +22,9 @@ Zouzibabe is a house and techno artist tracked on soundcheck, with 82 sets logge
 - TRAUM, Antwerp — Fri, 8 May 2026
 - TBA - Cinquantenaire Tunnel Complex, Brussels — Sat, 4 Apr 2026
 - Fuse, Brussels — Sat, 7 Mar 2026
-- UMI, Brussels — Sat, 17 Jan 2026
 
 ## Shares bills with
 
 Fais Le Beau, Sara Dziri, Melissa Juice
 
-*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/zouzibabe/)*
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/zouzibabe/)*

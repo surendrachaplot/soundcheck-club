@@ -1,6 +1,6 @@
 # Tide Nightclub
 
-Tide Nightclub is a music venue in Brighton with 1 upcoming night listed on soundcheck as of Fri, 18 Sept 2026; the next is "Rush Hour X Roll On - House event" on Sat, 10 Oct 2026.
+Tide Nightclub is a music venue in Brighton with 1 upcoming night listed on soundcheck as of Sat, 19 Sept 2026; the next is "Rush Hour X Roll On - House event" on Sat, 10 Oct 2026.
 
 Tide Nightclub is a music venue in Brighton listed on soundcheck. 1 upcoming night. Browse upcoming dates, start times and who's playing. 211 Kings Road Arches, Brighton, BN1 1NB.
 
@@ -14,4 +14,4 @@ Tide Nightclub is a music venue in Brighton listed on soundcheck. 1 upcoming nig
 
 211 Kings Road Arches, Brighton, BN1 1NB, Brighton
 
-*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/brighton/club/tide-nightclub/)*
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/brighton/club/tide-nightclub/)*

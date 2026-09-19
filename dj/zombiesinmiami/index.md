@@ -1,6 +1,6 @@
 # Zombies In Miami
 
-Zombies In Miami is a House and Techno artist with 7 upcoming club dates listed on soundcheck as of Fri, 18 Sept 2026, next at Mitsuki, Tokyo on Sat, 19 Sept 2026.
+Zombies In Miami is a House and Techno artist with 7 upcoming club dates listed on soundcheck as of Sat, 19 Sept 2026, next at Mitsuki, Tokyo on Sat, 19 Sept 2026.
 
 Zombies In Miami is a house and techno artist tracked on soundcheck, with 151 sets logged across Amsterdam, Bali, Bangkok and Barcelona and 39 more. Often billed alongside DJ Nobu, PARAMIDA and Ben Klock. Next up: Mitsuki, Tokyo on Sat 19 Sept.
 
@@ -31,4 +31,4 @@ Zombies In Miami is a house and techno artist tracked on soundcheck, with 151 se
 
 DJ Nobu, PARAMIDA, Ben Klock
 
-*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/zombiesinmiami/)*
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/zombiesinmiami/)*

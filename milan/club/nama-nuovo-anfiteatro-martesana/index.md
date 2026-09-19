@@ -1,6 +1,6 @@
 # NAMA - Nuovo Anfiteatro Martesana
 
-NAMA - Nuovo Anfiteatro Martesana is a music venue in Milan with 5 upcoming nights listed on soundcheck as of Fri, 18 Sept 2026; the next is "Rockers Arena x LOBO" on Fri, 25 Sept 2026.
+NAMA - Nuovo Anfiteatro Martesana is a music venue in Milan with 5 upcoming nights listed on soundcheck as of Sat, 19 Sept 2026; the next is "Rockers Arena x LOBO" on Fri, 25 Sept 2026.
 
 NAMA - Nuovo Anfiteatro Martesana is a music venue in Milan listed on soundcheck. 5 upcoming nights, with line-ups including biased, CCL, DNN and Hiroko Hacci and 2 more. Browse upcoming dates, start times and who's playing. Parco Martiri della Libertà Iracheni Vittime del Terrorismo 1, 20127 Milano MI Italia.
 
@@ -18,4 +18,4 @@ NAMA - Nuovo Anfiteatro Martesana is a music venue in Milan listed on soundcheck
 
 Parco Martiri della Libertà Iracheni Vittime del Terrorismo 1, 20127 Milano MI Italia, Milan
 
-*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/milan/club/nama-nuovo-anfiteatro-martesana/)*
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/milan/club/nama-nuovo-anfiteatro-martesana/)*

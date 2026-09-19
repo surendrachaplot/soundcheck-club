@@ -1,15 +1,15 @@
 # Don Quixote
 
-Don Quixote is a music venue in Los Angeles with 4 upcoming nights listed on soundcheck as of Fri, 18 Sept 2026; the next is "Kybba" on Fri, 18 Sept 2026.
+Don Quixote is a music venue in Los Angeles with 4 upcoming nights listed on soundcheck as of Sat, 19 Sept 2026; the next is "Tinzo + Jojo's Dark Library - Los Angeles" on Fri, 16 Oct 2026.
 
-Don Quixote is a music venue in Losangeles listed on soundcheck. 4 upcoming nights, with line-ups including Jojo Lorenzo, Machinedrum, Rohaan and Tinzo. Browse upcoming dates, start times and who's playing. 2811 E Olympic Blvd, Los Angeles, CA 90023.
+Don Quixote is a music venue in Losangeles listed on soundcheck. 4 upcoming nights, with line-ups including Cquestt, Jojo Lorenzo, Machinedrum and Rohaan and 2 more. Browse upcoming dates, start times and who's playing. 2811 E Olympic Blvd, Los Angeles, CA 90023.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 18 Sept 2026 | Kybba |  |
 | Fri, 16 Oct 2026 | Tinzo + Jojo's Dark Library - Los Angeles | Jojo Lorenzo, Tinzo |
+| Fri, 6 Nov 2026 | Bitch Planet: Barbazon presents Big Freedia | Cquestt, Star Amerasu, UNiiQU3 |
 | Sat, 7 Nov 2026 | B-Side Los Angeles presents: Mirror Mode - A Hundred Drums Face to Face Zen Selekta |  |
 | Sat, 21 Nov 2026 | B-Side Los Angeles presents: Mirror Mode - Machinedrum Face to Face Rohaan | Machinedrum, Rohaan |
 
@@ -17,4 +17,4 @@ Don Quixote is a music venue in Losangeles listed on soundcheck. 4 upcoming nigh
 
 2811 E Olympic Blvd, Los Angeles, CA 90023, Los Angeles
 
-*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/don-quixote/)*
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/don-quixote/)*

@@ -1,14 +1,13 @@
 # Kilomètre25
 
-Kilomètre25 is a music venue in Paris with 14 upcoming nights listed on soundcheck as of Fri, 18 Sept 2026; the next is "2Much: Linds, ANDATA, Emilja" on Fri, 18 Sept 2026.
+Kilomètre25 is a music venue in Paris with 13 upcoming nights listed on soundcheck as of Sat, 19 Sept 2026; the next is "Organïk : IGDA, JO3Y3T, KIRSTY, VIDO & More" on Sat, 19 Sept 2026.
 
-Kilomètre25 is a music venue in Paris listed on soundcheck. 14 upcoming nights, with line-ups including NYRA (DE), ANDATA, AREA ØNE and ASLO and 2 more. Browse upcoming dates, start times and who's playing. 8 Boulevard MacDonald 75019 Paris.
+Kilomètre25 is a music venue in Paris listed on soundcheck. 13 upcoming nights, with line-ups including NYRA (DE), AREA ØNE, ASLO and Avenir (2) and 2 more. Browse upcoming dates, start times and who's playing. 8 Boulevard MacDonald 75019 Paris.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 18 Sept 2026 | 2Much: Linds, ANDATA, Emilja | ANDATA, Linds, Orbi, Shoshanaaaaaaa, Stinny Stone |
 | Sat, 19 Sept 2026 | Organïk : IGDA, JO3Y3T, KIRSTY, VIDO & More | IGDA, KIRSTY, PEAKSOU, VIDO (2), VIDO (DE) |
 | Fri, 25 Sept 2026 | ACCIDENT THEORY: Young Marco, Bambounou, Belaria | Axel Blanc, Bambounou, Belaria, VANROOSE, Young Marco |
 | Sat, 26 Sept 2026 | TIMIT: HAAi, Josh Caffé, Clarisa Kimskii, TEDESCO | Clarisa Kimskii, HAAi, Josh Caffé, TEDESCO |
@@ -18,9 +17,10 @@ Kilomètre25 is a music venue in Paris listed on soundcheck. 14 upcoming nights,
 | Fri, 9 Oct 2026 | ØXYL: BYORN, TESTPRESS, NYRA, SIKOTI, MEYEM & MORE | MEYEM, Mando, NYRA (DE), SIKOTI, t e s t p r e s s |
 | Sat, 10 Oct 2026 | Deepsea Grooves: Chez Damier, Mézigue, Vitaline | Chez Damier, Mézigue, R1D1, STO_DJ, Vitaline |
 | Fri, 16 Oct 2026 | ORKA X SAKRAL: BIIA, Dica, BOTICKA, SKOLLARIS, PAULINE D7 | BIIA, BOTICKA, Dica |
+| Sat, 17 Oct 2026 | MIND: ASLØ, DAISY, FJUSHA, TOM CARROLL, NYCO, DJ RATZ | ASLO, Avenir (2), DAISY, FJUSHA, NYCO (NL) |
 
 ## Address
 
 8 Boulevard MacDonald 75019 Paris, Paris
 
-*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/paris/club/kilom-tre25/)*
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/paris/club/kilom-tre25/)*

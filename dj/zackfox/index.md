@@ -1,6 +1,6 @@
 # Zack Fox
 
-Zack Fox is a Ghetto Tech and House artist with 3 upcoming club dates listed on soundcheck as of Fri, 18 Sept 2026, next at Elsewhere, New York City on Sat, 19 Sept 2026.
+Zack Fox is a Ghetto Tech and House artist with 3 upcoming club dates listed on soundcheck as of Sat, 19 Sept 2026, next at Elsewhere, New York City on Sat, 19 Sept 2026.
 
 Zack Fox is a ghetto tech and house artist based in United States of America, tracked on soundcheck, with 78 sets logged across Amsterdam, Antwerp, Austin and Berlin and 20 more. Often billed alongside DJ Bone, JEWELSSEA and BAE BAE. Next up: Elsewhere, Newyorkcity on Sat 19 Sept.
 
@@ -27,4 +27,4 @@ Zack Fox is a ghetto tech and house artist based in United States of America, tr
 
 DJ Bone, JEWELSSEA, BAE BAE
 
-*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/zackfox/)*
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/zackfox/)*

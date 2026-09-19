@@ -1,6 +1,6 @@
 # Lisbona Sisters
 
-Lisbona Sisters is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Fri, 18 Sept 2026, next at Bar Franca, Los Angeles on Wed, 16 Sept 2026.
+Lisbona Sisters is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Sat, 19 Sept 2026, next at Bar Franca, Los Angeles on Wed, 16 Sept 2026.
 
 Lisbona Sisters is a house and tech house artist tracked on soundcheck, with 17 sets logged across Austin, Ibiza, London and Losangeles and 1 more. Often billed alongside Max Stern, My Friend Catie and Prunk. Next up: Bar Franca, Losangeles on Wed 16 Sept.
 
@@ -25,4 +25,4 @@ Lisbona Sisters is a house and tech house artist tracked on soundcheck, with 17 
 
 Max Stern, My Friend Catie, Prunk
 
-*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lisbonasisters/)*
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lisbonasisters/)*

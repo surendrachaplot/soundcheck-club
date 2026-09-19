@@ -1,6 +1,6 @@
 # 4AM NYC
 
-4AM NYC is a House and Disco artist with 3 upcoming club dates listed on soundcheck as of Fri, 18 Sept 2026, next at Animal, New York City on Sat, 19 Sept 2026.
+4AM NYC is a House and Disco artist with 3 upcoming club dates listed on soundcheck as of Sat, 19 Sept 2026, next at Animal, New York City on Sat, 19 Sept 2026.
 
 4AM NYC is a house and disco artist based in United States of America, tracked on soundcheck, with 105 sets logged across Berlin, Chicago, Detroit and Montreal and 7 more. Often billed alongside Shigeto, Toribio and Planet B. Next up: Animal, Newyorkcity on Sat 19 Sept.
 
@@ -27,4 +27,4 @@
 
 Shigeto, Toribio, Planet B
 
-*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/4amnyc/)*
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/4amnyc/)*

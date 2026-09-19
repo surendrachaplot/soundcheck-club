@@ -1,6 +1,6 @@
 # TBA - Downtown Los Angeles
 
-TBA - Downtown Los Angeles is a music venue in Los Angeles with 12 upcoming nights listed on soundcheck as of Fri, 18 Sept 2026; the next is "body wave: Felix Dickinson (UK), Masha Mar, Junior" on Sat, 19 Sept 2026.
+TBA - Downtown Los Angeles is a music venue in Los Angeles with 12 upcoming nights listed on soundcheck as of Sat, 19 Sept 2026; the next is "body wave: Felix Dickinson (UK), Masha Mar, Junior" on Sat, 19 Sept 2026.
 
 TBA - Downtown Los Angeles is a music venue in Losangeles listed on soundcheck. 12 upcoming nights, with line-ups including Avalon Emerson, Baauer, Ben UFO and Bianca Lexis and 2 more. Browse upcoming dates, start times and who's playing.
 
@@ -19,4 +19,4 @@ TBA - Downtown Los Angeles is a music venue in Losangeles listed on soundcheck. 
 | Sat, 31 Oct 2026 | Certified Groovers: HALLOWEEN PARTY |  |
 | Sat, 7 Nov 2026 | Lights Down Low feat. yaego | yaego |
 
-*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/tba-downtown-los-angeles/)*
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/tba-downtown-los-angeles/)*

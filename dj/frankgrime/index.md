@@ -1,6 +1,6 @@
 # Frank Grime
 
-Frank Grime is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 18 Sept 2026, next at Nice N Sleazy, Glasgow on Sat, 19 Sept 2026.
+Frank Grime is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sat, 19 Sept 2026, next at Nice N Sleazy, Glasgow on Sat, 19 Sept 2026.
 
 Frank Grime is a techno and house artist tracked on soundcheck, with 24 sets logged across Edinburgh, Glasgow and Leeds. Often billed alongside Columba, Craigen and ITEM9. Next up: Nice N Sleazy, Glasgow on Sat 19 Sept.
 
@@ -26,4 +26,4 @@ Frank Grime is a techno and house artist tracked on soundcheck, with 24 sets log
 
 Columba, Craigen, ITEM9
 
-*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/frankgrime/)*
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/frankgrime/)*

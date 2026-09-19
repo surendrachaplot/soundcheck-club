@@ -1,14 +1,13 @@
 # zwilling.
 
-zwilling. is a Techno and Trance artist with 8 upcoming club dates listed on soundcheck as of Fri, 18 Sept 2026, next at Lokschuppen Berlin, Berlin on Fri, 18 Sept 2026.
+zwilling. is a Techno and Trance artist with 7 upcoming club dates listed on soundcheck as of Sat, 19 Sept 2026, next at Pica (Port Melbourne Industrial Centre for the Arts), Melbourne on Thu, 24 Sept 2026.
 
-zwilling. is a techno and trance artist tracked on soundcheck, with 98 sets logged across Amsterdam, Antwerp, Barcelona and Basel and 31 more. Often billed alongside Serafina, WILDERÍCH and Adrian Mills. Next up: Lokschuppen Berlin, Berlin on Fri 18 Sept.
+zwilling. is a techno and trance artist tracked on soundcheck, with 98 sets logged across Amsterdam, Antwerp, Barcelona and Basel and 31 more. Often billed alongside Serafina, WILDERÍCH and Adrian Mills. Next up: Pica (Port Melbourne Industrial Centre for the Arts), Melbourne on Thu 24 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 18 Sept 2026 | Lokschuppen Berlin | Berlin |
 | Thu, 24 Sept 2026 | Pica (Port Melbourne Industrial Centre for the Arts) | Melbourne |
 | Thu, 24 Sept 2026 | Pica (Port Melbourne Industrial Centre for the Arts) | Melbourne |
 | Fri, 25 Sept 2026 | Maitland Showground | Sydney |
@@ -19,6 +18,7 @@ zwilling. is a techno and trance artist tracked on soundcheck, with 98 sets logg
 
 ## Recently played
 
+- Lokschuppen Berlin, Berlin — Fri, 18 Sept 2026
 - Airport Würzburg, Nürnberg — Fri, 4 Sept 2026
 - Dürener Badesee, Cologne — Fri, 28 Aug 2026
 - Lokschuppen Berlin, Berlin — Sat, 15 Aug 2026
@@ -26,10 +26,9 @@ zwilling. is a techno and trance artist tracked on soundcheck, with 98 sets logg
 - TBA - Near Berlin (Secret Forest), Berlin — Thu, 6 Aug 2026
 - Lokschuppen Berlin, Berlin — Sun, 2 Aug 2026
 - OST, Berlin — Fri, 10 Jul 2026
-- Smoke & Mirrors, Chicago — Sat, 4 Jul 2026
 
 ## Shares bills with
 
 Serafina, WILDERÍCH, Adrian Mills
 
-*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/zwilling./)*
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/zwilling./)*

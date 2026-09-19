@@ -1,14 +1,13 @@
 # BASEMENT
 
-BASEMENT is a music venue in New York City with 14 upcoming nights listed on soundcheck as of Fri, 18 Sept 2026; the next is "Mama Snake / Anabel Arroyo / Katie Rex / Gabrielle Kwarteng / angelboy / Jek" on Fri, 18 Sept 2026.
+BASEMENT is a music venue in New York City with 13 upcoming nights listed on soundcheck as of Sat, 19 Sept 2026; the next is "DAY+NIGHT: D.Dan/ Mos/ Elle Dee/ Freddy K/ RonLikeHell/ cotton/ Massi Pagliara/ Heidi L/ KimAnh" on Sat, 19 Sept 2026.
 
-BASEMENT is a music venue in Newyorkcity listed on soundcheck. 14 upcoming nights, with line-ups including 98dots, Ade Kassim, Akua and ALEXIS DE LA ROSA and 2 more. Browse upcoming dates, start times and who's playing. 52-19 Flushing Ave., Maspeth, NY 11378 USA.
+BASEMENT is a music venue in Newyorkcity listed on soundcheck. 13 upcoming nights, with line-ups including 98dots, Ade Kassim, Akua and ALEXIS DE LA ROSA and 2 more. Browse upcoming dates, start times and who's playing. 52-19 Flushing Ave., Maspeth, NY 11378 USA.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 18 Sept 2026 | Mama Snake / Anabel Arroyo / Katie Rex / Gabrielle Kwarteng / angelboy / Jek | Anabel Arroyo, Fafi Abdel Nour, Gabrielle Kwarteng, Jek (US), Katie Rex, Mama Snake, angelboy |
 | Sat, 19 Sept 2026 | DAY+NIGHT: D.Dan/ Mos/ Elle Dee/ Freddy K/ RonLikeHell/ cotton/ Massi Pagliara/ Heidi L/ KimAnh | D.Dan, Elle Dee, Freddy K, Heidi Lawden, Kim Anh, Massimiliano Pagliara, Mos (NYC), Ron Like Hell, cotton |
 | Fri, 25 Sept 2026 | MUTUAL RYTM: SHDW / Regent / Hemka / JADALAREIGN / Mike Servito / Saia | Hemka, JADALAREIGN, Mike Servito, Phil Berg, Regent, SHDW, Saia |
 | Sat, 26 Sept 2026 | Mac Declos / Marcal / Cora / Perfect Lovers / Victor Rodriguez / Chris Cruse / Kilopatrah Jones | Chris Cruse, Cora (CN), Kilopatrah Jones, Mac Declos, Marcal, Perfect Lovers, Victor Rodriguez |
@@ -18,9 +17,10 @@ BASEMENT is a music venue in Newyorkcity listed on soundcheck. 14 upcoming night
 | Sat, 10 Oct 2026 | Mala Junta: Yazzus / Akua / FASHION / DJ TOOL / Kilopatrah Jones / Alfonso Javier | Akua, Alfonso Javier, DJ TOOL, FASHION (US), Kilopatrah Jones, Yazzus |
 | Fri, 16 Oct 2026 | Juliana Huxtable / Anika Kunst / VILE / Pablo Bozzi / Byron Yeates / Kim Ann Foxman | Anika Kunst, Byron Yeates, Juliana Huxtable, Kim Ann Foxman, Pablo Bozzi, VILE |
 | Sat, 17 Oct 2026 | Dr. Rubinstein / The Advent / 98dots / fka.m4a / Lauren Flax / Rumi de Baires | 98dots, Dr. Rubinstein, Lauren Flax, Rumi de Baires, The Advent, fka.m4a |
+| Fri, 23 Oct 2026 | FIST: Lacchesi / Nene H / Word of Command / DJ Clone / Jubilee / Mez Monty / Connor Wrong | Connor Wrong, DJ Clone, Jubilee, Lacchesi, Mez Monty, Nene H, Word of Command |
 
 ## Address
 
 52-19 Flushing Ave., Maspeth, NY 11378 USA, New York City
 
-*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/basement/)*
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/basement/)*

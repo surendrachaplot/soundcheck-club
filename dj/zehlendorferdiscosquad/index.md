@@ -1,6 +1,6 @@
 # Zehlendorfer Disco Squad
 
-Zehlendorfer Disco Squad is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 18 Sept 2026, next at Jonny Knüppel, Berlin on Sat, 19 Sept 2026.
+Zehlendorfer Disco Squad is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 19 Sept 2026, next at Jonny Knüppel, Berlin on Sat, 19 Sept 2026.
 
 Zehlendorfer Disco Squad is a house and techno artist based in Germany, tracked on soundcheck, with 39 sets logged across Berlin. Often billed alongside Shimanski, Fonkituur and plattenpunani. Next up: Jonny Knüppel, Berlin on Sat 19 Sept.
 
@@ -25,4 +25,4 @@ Zehlendorfer Disco Squad is a house and techno artist based in Germany, tracked 
 
 Shimanski, Fonkituur, plattenpunani
 
-*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/zehlendorferdiscosquad/)*
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/zehlendorferdiscosquad/)*

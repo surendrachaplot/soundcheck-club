@@ -1,20 +1,20 @@
 # R3hab
 
-R3hab is a House and Progressive House artist with 4 upcoming club dates listed on soundcheck as of Fri, 18 Sept 2026, next at Q Nightclub, Seattle on Fri, 18 Sept 2026.
+R3hab is a House and Progressive House artist with 3 upcoming club dates listed on soundcheck as of Sat, 19 Sept 2026, next at Glen Helen Regional Park, Los Angeles on Sat, 19 Sept 2026.
 
-R3hab is a house and progressive house artist based in Netherlands, tracked on soundcheck, with 18 sets logged across Bangkok, Boston, Cologne and Ibiza and 7 more. Often billed alongside Afrojack, Flava D and Justin Mylo. Next up: Q Nightclub, Seattle on Fri 18 Sept.
+R3hab is a house and progressive house artist based in Netherlands, tracked on soundcheck, with 18 sets logged across Bangkok, Boston, Cologne and Ibiza and 7 more. Often billed alongside Afrojack, Flava D and Justin Mylo. Next up: Glen Helen Regional Park, Losangeles on Sat 19 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 18 Sept 2026 | Q Nightclub | Seattle |
 | Sat, 19 Sept 2026 | Glen Helen Regional Park | Los Angeles |
 | Sat, 26 Sept 2026 | New City Gas | Montreal |
 | Fri, 9 Oct 2026 | DRUMSHEDS | London |
 
 ## Recently played
 
+- Q Nightclub, Seattle — Fri, 18 Sept 2026
 - Ushuaïa Ibiza, Ibiza — Thu, 10 Sept 2026
 - Bootshaus, Cologne — Fri, 4 Sept 2026
 - Bootshaus, Cologne — Fri, 7 Aug 2026
@@ -22,10 +22,9 @@ R3hab is a house and progressive house artist based in Netherlands, tracked on s
 - BMO Stadium, Los Angeles — Sat, 27 Sept 2025
 - Ushuaïa Ibiza, Ibiza — Thu, 24 Jul 2025
 - Hipódromo de la Zarzuela, Madrid — Fri, 30 May 2025
-- The Grand, Boston — Fri, 14 Feb 2025
 
 ## Shares bills with
 
 Afrojack, Flava D, Justin Mylo
 
-*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/r3hab/)*
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/r3hab/)*

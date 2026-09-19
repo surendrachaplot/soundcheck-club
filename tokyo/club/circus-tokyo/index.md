@@ -1,8 +1,8 @@
 # Circus Tokyo
 
-Circus Tokyo is a music venue in Tokyo with 15 upcoming nights listed on soundcheck as of Fri, 18 Sept 2026; the next is "FULLHOUSE 7th ANNIVERSARY" on Sat, 19 Sept 2026.
+Circus Tokyo is a music venue in Tokyo with 16 upcoming nights listed on soundcheck as of Sat, 19 Sept 2026; the next is "FULLHOUSE 7th ANNIVERSARY" on Sat, 19 Sept 2026.
 
-Circus Tokyo is a music venue in Tokyo listed on soundcheck. 15 upcoming nights, with line-ups including Kaibshr, Ben Sims, Bou (UK) and cazbow and 2 more. Browse upcoming dates, start times and who's playing. 3-26-16 Shibuya, Shibuya-ku, Tokyo, Japan, 150-0002.
+Circus Tokyo is a music venue in Tokyo listed on soundcheck. 16 upcoming nights, with line-ups including Kaibshr, Ben Sims, Bou (UK) and cazbow and 2 more. Browse upcoming dates, start times and who's playing. 3-26-16 Shibuya, Shibuya-ku, Tokyo, Japan, 150-0002.
 
 ## What's on
 
@@ -17,10 +17,10 @@ Circus Tokyo is a music venue in Tokyo listed on soundcheck. 15 upcoming nights,
 | Fri, 9 Oct 2026 | SECRET WEAPONS -Ben Sims- | Ben Sims, Eichi Abe, S.H.V, SOGI, YUVIE |
 | Sat, 10 Oct 2026 | Otographic Live 2026 | Dominant Space, Shingo Nakamura |
 | Sat, 10 Oct 2026 | presented by WARRIOR  msft. TOKYO SHOW | msft |
-| Sat, 17 Oct 2026 | synts presents: Mietze Conte |  |
+| Sun, 11 Oct 2026 | SPERA 0006 | TEI TEI, Uich, Xinobi, Yant, YuWa, k0v- |
 
 ## Address
 
 3-26-16 Shibuya, Shibuya-ku, Tokyo, Japan, 150-0002, Tokyo
 
-*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/circus-tokyo/)*
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/circus-tokyo/)*

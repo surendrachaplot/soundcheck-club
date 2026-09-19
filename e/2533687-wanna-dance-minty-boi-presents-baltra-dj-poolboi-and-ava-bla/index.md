@@ -1,11 +1,11 @@
-# Wanna Dance? & Minty Boi Presents: Baltra, dj poolboi, and Ava Blank in Los Angeles at Casita Hollywood
+# Wanna Dance? & Minty Boi Presents: Baltra, dj poolboi, and Ava Blank in Los Angeles at The Airliner
 
-Wanna Dance? & Minty Boi Presents: Baltra, dj poolboi, and Ava Blank in Los Angeles at Casita Hollywood on Sat 17 Oct, Losangeles. 3 acts on the bill: Ava Blank, Baltra and dj poolboi. House and Deep House. Preview the line-up and save it on soundcheck.
+Wanna Dance? & Minty Boi Presents: Baltra, dj poolboi, and Ava Blank in Los Angeles at The Airliner on Sat 17 Oct, Losangeles. 3 acts on the bill: Ava Blank, Baltra and dj poolboi. House and Deep House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
 | Date | Sat, 17 Oct 2026 |
-| Venue | Casita Hollywood |
+| Venue | The Airliner |
 | City | Los Angeles |
 
 ## Line-up

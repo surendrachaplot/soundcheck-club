@@ -1,6 +1,6 @@
 # MirrorLake
 
-MirrorLake is a Electronica and Downtempo artist with 1 upcoming club date listed on soundcheck as of Fri, 18 Sept 2026, next at Drama Radio Bar, Mexico City on Tue, 15 Sept 2026.
+MirrorLake is a Electronica and Downtempo artist with 1 upcoming club date listed on soundcheck as of Sat, 19 Sept 2026, next at Drama Radio Bar, Mexico City on Tue, 15 Sept 2026.
 
 MirrorLake is an electronica and downtempo artist tracked on soundcheck, with 10 sets logged across Mexicocity. Often billed alongside Koscoy, Bluecommand and Deejay Energy. Next up: Drama Radio Bar, Mexicocity on Tue 15 Sept.
 
@@ -25,4 +25,4 @@ MirrorLake is an electronica and downtempo artist tracked on soundcheck, with 10
 
 Koscoy, Bluecommand, Deejay Energy
 
-*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mirrorlake/)*
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mirrorlake/)*

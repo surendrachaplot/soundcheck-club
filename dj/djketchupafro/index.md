@@ -1,6 +1,6 @@
 # DJ Ketchup Afro
 
-DJ Ketchup Afro is a Afro House and House artist with 1 upcoming club date listed on soundcheck as of Fri, 18 Sept 2026, next at Le Son de la Terre, Paris on Fri, 25 Sept 2026.
+DJ Ketchup Afro is a Afro House and House artist with 1 upcoming club date listed on soundcheck as of Sat, 19 Sept 2026, next at Le Son de la Terre, Paris on Fri, 25 Sept 2026.
 
 DJ Ketchup Afro is an afro house and house artist tracked on soundcheck, with 16 sets logged across Paris. Often billed alongside DJ Dr. ALEX and KONU. Next up: Le Son de la Terre, Paris on Fri 25 Sept.
 
@@ -25,4 +25,4 @@ DJ Ketchup Afro is an afro house and house artist tracked on soundcheck, with 16
 
 DJ Dr. ALEX, KONU
 
-*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djketchupafro/)*
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djketchupafro/)*

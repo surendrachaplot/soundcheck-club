@@ -1,14 +1,15 @@
 # Uffie
 
-Uffie is a Electro and House artist with 1 upcoming club date listed on soundcheck as of Fri, 18 Sept 2026, next at 1720, Los Angeles on Fri, 6 Nov 2026.
+Uffie is a House and Electro artist with 2 upcoming club dates listed on soundcheck as of Sat, 19 Sept 2026, next at 1720, Los Angeles on Fri, 6 Nov 2026.
 
-Uffie is an electro and house artist based in United States of America, tracked on soundcheck, with 34 sets logged across Barcelona, Berlin, Chicago and Frankfurt and 12 more. Often billed alongside Feadz, Bag Raiders and Boston Bun. Next up: 1720, Losangeles on Fri 6 Nov.
+Uffie is a house and electro artist based in United States of America, tracked on soundcheck, with 35 sets logged across Barcelona, Berlin, Chicago and Frankfurt and 12 more. Often billed alongside Feadz, Bag Raiders and Boston Bun. Next up: 1720, Losangeles on Fri 6 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 6 Nov 2026 | 1720 | Los Angeles |
+| Fri, 18 Dec 2026 | 104 CENTQUATRE | Paris |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Uffie is an electro and house artist based in United States of America, tracked 
 
 Feadz, Bag Raiders, Boston Bun
 
-*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/uffie/)*
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/uffie/)*

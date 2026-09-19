@@ -1,18 +1,18 @@
 # INNEZZ
 
-INNEZZ is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 18 Sept 2026, next at TBA - Private Location (LUNA), Vancouver on Fri, 18 Sept 2026.
+INNEZZ is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 19 Sept 2026, next at TBA - Private Location, Vancouver on Sat, 10 Oct 2026.
 
-INNEZZ is a techno and house artist based in Canada, tracked on soundcheck, with 44 sets logged across Newyorkcity and Vancouver. Often billed alongside dj_2button, Body Double and DJ Hannah. Next up: TBA - Private Location (LUNA), Vancouver on Fri 18 Sept.
+INNEZZ is a techno and house artist based in Canada, tracked on soundcheck, with 44 sets logged across Newyorkcity and Vancouver. Often billed alongside dj_2button, Body Double and DJ Hannah. Next up: TBA - Private Location, Vancouver on Sat 10 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 18 Sept 2026 | TBA - Private Location (LUNA) | Vancouver |
 | Sat, 10 Oct 2026 | TBA - Private Location | Vancouver |
 
 ## Recently played
 
+- TBA - Private Location (LUNA), Vancouver — Fri, 18 Sept 2026
 - Skylight Warehouse, Vancouver — Fri, 11 Sept 2026
 - TBA - Pemberton, Vancouver — Fri, 14 Aug 2026
 - Platform9, Vancouver — Sat, 18 Jul 2026
@@ -20,10 +20,9 @@ INNEZZ is a techno and house artist based in Canada, tracked on soundcheck, with
 - TBA - Near Nelson BC, Vancouver — Sat, 16 May 2026
 - The Lido, Vancouver — Fri, 1 May 2026
 - The Cobalt, Vancouver — Sat, 25 Apr 2026
-- TBA, Vancouver — Sat, 11 Apr 2026
 
 ## Shares bills with
 
 dj_2button, Body Double, DJ Hannah
 
-*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/innezz/)*
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/innezz/)*

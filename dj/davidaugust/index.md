@@ -1,6 +1,6 @@
 # David August
 
-David August is a Experimental and Electronica artist with 3 upcoming club dates listed on soundcheck as of Fri, 18 Sept 2026, next at Monk Club, Rome on Sat, 19 Sept 2026.
+David August is a Experimental and Electronica artist with 3 upcoming club dates listed on soundcheck as of Sat, 19 Sept 2026, next at Monk Club, Rome on Sat, 19 Sept 2026.
 
 David August is an experimental and electronica artist tracked on soundcheck, with 34 sets logged across Amsterdam, Barcelona, Berlin and Brussels and 15 more. Often billed alongside Sofia Kourtesis, Bendik Giske and DE:MA. Next up: Monk Club, Rome on Sat 19 Sept.
 
@@ -27,4 +27,4 @@ David August is an experimental and electronica artist tracked on soundcheck, wi
 
 Sofia Kourtesis, Bendik Giske, DE:MA
 
-*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/davidaugust/)*
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/davidaugust/)*

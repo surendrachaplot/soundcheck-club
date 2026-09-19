@@ -1,14 +1,13 @@
 # dtekk
 
-dtekk is a Techno and Electro artist with 5 upcoming club dates listed on soundcheck as of Fri, 18 Sept 2026, next at Kaskada, Warsaw on Fri, 18 Sept 2026.
+dtekk is a Techno and Electro artist with 4 upcoming club dates listed on soundcheck as of Sat, 19 Sept 2026, next at Forum Horyzonty, Krakow on Sat, 19 Sept 2026.
 
-dtekk is a techno and electro artist based in Poland, tracked on soundcheck, with 60 sets logged across Berlin, Krakow, Lisbon and Oslo and 2 more. Often billed alongside Kovvalsky, Blazej Malinowski and MATRIX3K. Next up: Kaskada, Warsaw on Fri 18 Sept.
+dtekk is a techno and electro artist based in Poland, tracked on soundcheck, with 60 sets logged across Berlin, Krakow, Lisbon and Oslo and 2 more. Often billed alongside Kovvalsky, Blazej Malinowski and MATRIX3K. Next up: Forum Horyzonty, Krakow on Sat 19 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 18 Sept 2026 | Kaskada | Warsaw |
 | Sat, 19 Sept 2026 | Forum Horyzonty | Krakow |
 | Sat, 19 Sept 2026 | Wesola Immersive | Krakow |
 | Fri, 25 Sept 2026 | Gare Porto | Porto |
@@ -16,6 +15,7 @@ dtekk is a techno and electro artist based in Poland, tracked on soundcheck, wit
 
 ## Recently played
 
+- Kaskada, Warsaw — Fri, 18 Sept 2026
 - Jasna 1, Warsaw — Fri, 11 Sept 2026
 - Kaskada, Warsaw — Fri, 14 Aug 2026
 - Noce KRK, Krakow — Fri, 31 Jul 2026
@@ -23,10 +23,9 @@ dtekk is a techno and electro artist based in Poland, tracked on soundcheck, wit
 - Jasna 1, Warsaw — Sat, 18 Jul 2026
 - Jasna 1, Warsaw — Sat, 4 Jul 2026
 - Teatr Powszechny im. Zygmunta Hübnera w Warszawie, Warsaw — Sun, 10 May 2026
-- Noce KRK, Krakow — Fri, 17 Apr 2026
 
 ## Shares bills with
 
 Kovvalsky, Blazej Malinowski, MATRIX3K
 
-*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dtekk-pl/)*
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dtekk-pl/)*

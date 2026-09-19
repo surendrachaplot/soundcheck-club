@@ -1,6 +1,6 @@
 # Paul Pahn
 
-Paul Pahn is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Fri, 18 Sept 2026, next at Tokonoma Club, Frankfurt on Sat, 19 Sept 2026.
+Paul Pahn is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Sat, 19 Sept 2026, next at Tokonoma Club, Frankfurt on Sat, 19 Sept 2026.
 
 Paul Pahn is a techno and trance artist tracked on soundcheck, with 37 sets logged across Frankfurt. Often billed alongside Jannis Brinkmann, GERKE and NIKUSH. Next up: Tokonoma Club, Frankfurt on Sat 19 Sept.
 
@@ -25,4 +25,4 @@ Paul Pahn is a techno and trance artist tracked on soundcheck, with 37 sets logg
 
 Jannis Brinkmann, GERKE, NIKUSH
 
-*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/paulpahn/)*
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/paulpahn/)*

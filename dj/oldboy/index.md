@@ -1,6 +1,6 @@
 # Oldboy
 
-Oldboy is a Garage and House artist with 5 upcoming club dates listed on soundcheck as of Fri, 18 Sept 2026, next at Kapsule, Liverpool on Sat, 26 Sept 2026.
+Oldboy is a Garage and House artist with 5 upcoming club dates listed on soundcheck as of Sat, 19 Sept 2026, next at Kapsule, Liverpool on Sat, 26 Sept 2026.
 
 Oldboy is a garage and house artist tracked on soundcheck, with 55 sets logged across Amsterdam, Athens, Birmingham and Brighton and 18 more. Often billed alongside DJ Cosworth, Prozak (IRL) and Silva Bumpa. Next up: Kapsule, Liverpool on Sat 26 Sept.
 
@@ -29,4 +29,4 @@ Oldboy is a garage and house artist tracked on soundcheck, with 55 sets logged a
 
 DJ Cosworth, Prozak (IRL), Silva Bumpa
 
-*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/oldboy/)*
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/oldboy/)*

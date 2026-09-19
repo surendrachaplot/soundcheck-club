@@ -1,8 +1,8 @@
 # Superior Ingredients
 
-Superior Ingredients is a music venue in New York City with 6 upcoming nights listed on soundcheck as of Fri, 18 Sept 2026; the next is "DOUBLEHEADER: ALT8 x Pawlowski" on Fri, 2 Oct 2026.
+Superior Ingredients is a music venue in New York City with 8 upcoming nights listed on soundcheck as of Sat, 19 Sept 2026; the next is "DOUBLEHEADER: ALT8 x Pawlowski" on Fri, 2 Oct 2026.
 
-Superior Ingredients is a music venue in Newyorkcity listed on soundcheck. 6 upcoming nights, with line-ups including ALT8, Collin Oliver, Cosmic Gate and Ford Scott and 2 more. Browse upcoming dates, start times and who's playing. 74 Wythe Avenue, Brooklyn, NY 11249.
+Superior Ingredients is a music venue in Newyorkcity listed on soundcheck. 8 upcoming nights, with line-ups including ALT8, Cam Stockman, Collin Oliver and Cosmic Gate and 2 more. Browse upcoming dates, start times and who's playing. 74 Wythe Avenue, Brooklyn, NY 11249.
 
 ## What's on
 
@@ -10,13 +10,15 @@ Superior Ingredients is a music venue in Newyorkcity listed on soundcheck. 6 upc
 | --- | --- | --- |
 | Fri, 2 Oct 2026 | DOUBLEHEADER: ALT8 x Pawlowski | ALT8, Pawlowski |
 | Sun, 4 Oct 2026 | L.P. Rhythm & Guests | Collin Oliver, Ford Scott, L.P. Rhythm, Olive F |
+| Sun, 25 Oct 2026 | A Day In Tulum Music and Arts Festival | FI-LO, Kuff, ROBIDIO |
 | Sat, 31 Oct 2026 | Superior Ingredient - Saints & Sinners - The Roof 10/31 |  |
 | Sat, 31 Oct 2026 | Superior Ingredients Roof & Room 10/31 |  |
 | Sat, 31 Oct 2026 | Superior Ingredients Halloween 10/31 - The Room |  |
 | Sun, 8 Nov 2026 | Cosmic Gate *3hr Set* w. Sinca & Guests | Cosmic Gate, Sinca |
+| Sun, 13 Dec 2026 | DOUBLEHEADER: Cam Stockman x Tommy Phillips | Cam Stockman, Tommy Phillips |
 
 ## Address
 
 74 Wythe Avenue, Brooklyn, NY 11249, New York City
 
-*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/superior-ingredients/)*
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/superior-ingredients/)*

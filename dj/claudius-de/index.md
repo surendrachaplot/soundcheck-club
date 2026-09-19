@@ -1,14 +1,15 @@
 # Claudius (DE)
 
-Claudius (DE) is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Fri, 18 Sept 2026, next at Pracht, Frankfurt on Sat, 19 Sept 2026.
+Claudius (DE) is a Tech House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 19 Sept 2026, next at Pracht, Frankfurt on Sat, 19 Sept 2026.
 
-Claudius (DE) is a tech house and house artist based in Germany, tracked on soundcheck, with 45 sets logged across Berlin and Frankfurt. Often billed alongside Dario Milkovic, stefan mueller and Maex. Next up: Pracht, Frankfurt on Sat 19 Sept.
+Claudius (DE) is a tech house and techno artist based in Germany, tracked on soundcheck, with 46 sets logged across Berlin and Frankfurt. Often billed alongside Dario Milkovic, stefan mueller and Maex. Next up: Pracht, Frankfurt on Sat 19 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 19 Sept 2026 | Pracht | Frankfurt |
+| Sat, 17 Oct 2026 | Pracht | Frankfurt |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Claudius (DE) is a tech house and house artist based in Germany, tracked on soun
 
 Dario Milkovic, stefan mueller, Maex
 
-*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/claudius-de/)*
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/claudius-de/)*

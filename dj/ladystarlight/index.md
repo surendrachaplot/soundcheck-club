@@ -1,6 +1,6 @@
 # Lady Starlight
 
-Lady Starlight is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Fri, 18 Sept 2026, next at TBA - Brooklyn, New York City on Fri, 18 Sept 2026.
+Lady Starlight is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Sat, 19 Sept 2026, next at TBA - Brooklyn, New York City on Fri, 18 Sept 2026.
 
 Lady Starlight is a techno and house artist tracked on soundcheck, with 85 sets logged across Amsterdam, Barcelona, Basel and Berlin and 32 more. Often billed alongside STERAC, David Castellani and MAEDON. Next up: TBA - Brooklyn, Newyorkcity on Fri 18 Sept.
 
@@ -17,6 +17,7 @@ Lady Starlight is a techno and house artist tracked on soundcheck, with 85 sets 
 
 ## Recently played
 
+- TBA - Brooklyn, New York City — Fri, 18 Sept 2026
 - Metropol, Berlin — Thu, 10 Sept 2026
 - Salesforce Park, San Francisco/Oakland — Sat, 22 Aug 2026
 - Rote Fabrik, Zurich — Fri, 7 Aug 2026
@@ -24,10 +25,9 @@ Lady Starlight is a techno and house artist tracked on soundcheck, with 85 sets 
 - Amsterdamse Bos, Amsterdam — Wed, 29 Jul 2026
 - TBA - @ Zefīrs by day, @ SPĒLĒT by night, Riga — Fri, 24 Jul 2026
 - not|or|ius Club, Turin — Sat, 4 Jul 2026
-- Parco Dora, Turin — Fri, 3 Jul 2026
 
 ## Shares bills with
 
 STERAC, David Castellani, MAEDON
 
-*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ladystarlight/)*
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ladystarlight/)*

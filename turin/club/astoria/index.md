@@ -1,14 +1,13 @@
 # Astoria
 
-Astoria is a music venue in Turin with 14 upcoming nights listed on soundcheck as of Fri, 18 Sept 2026; the next is "TECHNOBULL RESIDENCY: Allegretti, Lyss, Syca" on Fri, 18 Sept 2026.
+Astoria is a music venue in Turin with 13 upcoming nights listed on soundcheck as of Sat, 19 Sept 2026; the next is "Da BOUNCEMENT Astoria w/Paolo Doldo" on Sat, 19 Sept 2026.
 
-Astoria is a music venue in Turin listed on soundcheck. 14 upcoming nights, with line-ups including Aberra, Allegretti, AMRED and BENZA and 2 more. Browse upcoming dates, start times and who's playing. Via Claudio Luigi Berthollet 13, 10125 Torino (TO), Italy.
+Astoria is a music venue in Turin listed on soundcheck. 13 upcoming nights, with line-ups including Aberra, Allegretti, AMRED and BENZA and 2 more. Browse upcoming dates, start times and who's playing. Via Claudio Luigi Berthollet 13, 10125 Torino (TO), Italy.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 18 Sept 2026 | TECHNOBULL RESIDENCY: Allegretti, Lyss, Syca | Allegretti, Syca |
 | Sat, 19 Sept 2026 | Da BOUNCEMENT Astoria w/Paolo Doldo | Hellson5 |
 | Fri, 25 Sept 2026 | TECHNOBULL RESIDENCY: Aberra, Adler, Yerdok | Aberra |
 | Fri, 2 Oct 2026 | TECHNOBULL: Connor Wall (Moving Pressure, Phorum, WSNWG /AUS) Allegretti, Mikes | Allegretti, Connor Wall, Mike Esse |
@@ -18,9 +17,10 @@ Astoria is a music venue in Turin listed on soundcheck. 14 upcoming nights, with
 | Fri, 16 Oct 2026 | TECHNOBULL: Lobster (Vault Sessions, Float Records /NL), Teeo Kristo & Syca | Lobster (NL), Syca, Teeo |
 | Fri, 30 Oct 2026 | TECHNOBULL: Hitam (Eerste Communie, Hayes, Rhiza Semar /NL) Andrea Perna, THEGOD01 | Hitam, Rytm, THEGOD01 |
 | Fri, 6 Nov 2026 | Jin Synth (Semantica Records, On Board Music, KR3 Records /TW) hosted by Eclisse | Jin Synth |
+| Fri, 6 Nov 2026 | Eclisse: Jin Synth (Semantica Records, On Board Music, KR3 Records /TW), FDS, James Nowak | Hellcatz, Jin Synth |
 
 ## Address
 
 Via Claudio Luigi Berthollet 13, 10125 Torino (TO), Italy, Turin
 
-*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/turin/club/astoria/)*
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/turin/club/astoria/)*

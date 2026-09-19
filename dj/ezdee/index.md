@@ -1,13 +1,14 @@
 # EZ Dee
 
-EZ Dee is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Fri, 18 Sept 2026, next at Mana Wynwood, Miami on Fri, 16 Oct 2026.
+EZ Dee is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Sat, 19 Sept 2026, next at Mad Radio Miami, Miami on Sat, 26 Sept 2026.
 
-EZ Dee is a house and disco artist based in United States of America, tracked on soundcheck, with 19 sets logged across Losangeles, Miami and Tokyo. Often billed alongside DJ Ray (2), Brother Dan and DJ Fitness. Next up: Mana Wynwood, Miami on Fri 16 Oct.
+EZ Dee is a house and disco artist based in United States of America, tracked on soundcheck, with 20 sets logged across Losangeles, Miami and Tokyo. Often billed alongside DJ Ray (2), Brother Dan and DJ Fitness. Next up: Mad Radio Miami, Miami on Sat 26 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 26 Sept 2026 | Mad Radio Miami | Miami |
 | Fri, 16 Oct 2026 | Mana Wynwood | Miami |
 
 ## Recently played
@@ -25,4 +26,4 @@ EZ Dee is a house and disco artist based in United States of America, tracked on
 
 DJ Ray (2), Brother Dan, DJ Fitness
 
-*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ezdee/)*
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ezdee/)*

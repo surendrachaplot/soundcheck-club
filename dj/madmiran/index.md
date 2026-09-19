@@ -1,6 +1,6 @@
 # mad miran
 
-mad miran is a Techno and Bass artist with 10 upcoming club dates listed on soundcheck as of Fri, 18 Sept 2026, next at Fort Mifflin, Philadelphia on Fri, 18 Sept 2026.
+mad miran is a Techno and Bass artist with 10 upcoming club dates listed on soundcheck as of Sat, 19 Sept 2026, next at Fort Mifflin, Philadelphia on Fri, 18 Sept 2026.
 
 mad miran is a techno and bass artist tracked on soundcheck, with 202 sets logged across Amsterdam, Antwerp, Athens and Bali and 43 more. Often billed alongside Identified Patient, Pariah and Skee Mask. Next up: Fort Mifflin, Philadelphia on Fri 18 Sept.
 
@@ -21,6 +21,7 @@ mad miran is a techno and bass artist tracked on soundcheck, with 202 sets logge
 
 ## Recently played
 
+- Fort Mifflin, Philadelphia — Fri, 18 Sept 2026
 - Camp Kennybrook, New York City — Thu, 10 Sept 2026
 - TBA - Saint-Denis, Paris — Sat, 29 Aug 2026
 - Ruiterijcomplex, Brussels — Sat, 22 Aug 2026
@@ -28,10 +29,9 @@ mad miran is a techno and bass artist tracked on soundcheck, with 202 sets logge
 - Radio Radio, Amsterdam — Fri, 14 Aug 2026
 - Amsterdamse Bos, Amsterdam — Fri, 31 Jul 2026
 - Amsterdamse Bos, Amsterdam — Wed, 29 Jul 2026
-- Fitzroy, Berlin — Fri, 24 Jul 2026
 
 ## Shares bills with
 
 Identified Patient, Pariah, Skee Mask
 
-*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/madmiran/)*
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/madmiran/)*

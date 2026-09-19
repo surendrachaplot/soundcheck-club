@@ -1,14 +1,13 @@
 # Flash
 
-Flash is a music venue in Washington DC with 24 upcoming nights listed on soundcheck as of Fri, 18 Sept 2026; the next is "M-High" on Fri, 18 Sept 2026.
+Flash is a music venue in Washington DC with 23 upcoming nights listed on soundcheck as of Sat, 19 Sept 2026; the next is "FOCUS: MARRØN" on Sat, 19 Sept 2026.
 
-Flash is a music venue in Washingtondc listed on soundcheck. 24 upcoming nights, with line-ups including Alan Fitzpatrick, Andy Grant, Anetha and Anthony Middleton and 2 more. Browse upcoming dates, start times and who's playing. 645 Florida Ave, NW, Washington, D.C. 20001.
+Flash is a music venue in Washingtondc listed on soundcheck. 23 upcoming nights, with line-ups including Alan Fitzpatrick, Andy Grant, Anetha and Anthony Middleton and 2 more. Browse upcoming dates, start times and who's playing. 645 Florida Ave, NW, Washington, D.C. 20001.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 18 Sept 2026 | M-High | Dabz, G.E.N.E., Jon Charles, Jus Nowhere, M-High, Pedestrian Access |
 | Sat, 19 Sept 2026 | FOCUS: MARRØN | BehTarin, MARRØN, Sabda, TV HILL, shilimili |
 | Sun, 20 Sept 2026 | Sunday Love: BASHKKA - Gabrielle Kwarteng - Geena Marie | BASHKKA, Gabrielle Kwarteng |
 | Thu, 24 Sept 2026 | Daphni [open-to-close] | Daphni |
@@ -18,9 +17,10 @@ Flash is a music venue in Washingtondc listed on soundcheck. 24 upcoming nights,
 | Fri, 2 Oct 2026 | Baltra - Titonton Duvanté | Andy Grant, Baltra, KayLaSoul, Titonton Duvanté, deepnotiQ |
 | Sat, 3 Oct 2026 | Marco Strous | DJ Soul (US), Marco Strous, VINY, unbound |
 | Sun, 4 Oct 2026 | Sunday Love: Xinobi - Mettabbana | Mettabbana, Xinobi |
+| Fri, 9 Oct 2026 | FOCUS: Marcel Dettmann | Marcel Dettmann |
 
 ## Address
 
 645 Florida Ave, NW, Washington, D.C. 20001, Washington DC
 
-*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/washingtondc/club/flash/)*
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/washingtondc/club/flash/)*

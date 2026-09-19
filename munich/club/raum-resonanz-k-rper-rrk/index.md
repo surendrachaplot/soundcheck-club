@@ -1,6 +1,6 @@
 # RAUM RESONANZ KÖRPER (RRK)
 
-RAUM RESONANZ KÖRPER (RRK) is a music venue in Munich with 1 upcoming night listed on soundcheck as of Fri, 18 Sept 2026; the next is "indek & Nixtrove" on Thu, 1 Oct 2026.
+RAUM RESONANZ KÖRPER (RRK) is a music venue in Munich with 1 upcoming night listed on soundcheck as of Sat, 19 Sept 2026; the next is "indek & Nixtrove" on Thu, 1 Oct 2026.
 
 RAUM RESONANZ KÖRPER (RRK) is a music venue in Munich listed on soundcheck. 1 upcoming night, with line-ups including indek and Nixtrove. Browse upcoming dates, start times and who's playing. Tulbeckstraße 22  80339 Munich.
 
@@ -14,4 +14,4 @@ RAUM RESONANZ KÖRPER (RRK) is a music venue in Munich listed on soundcheck. 1 u
 
 Tulbeckstraße 22  80339 Munich, Munich
 
-*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/munich/club/raum-resonanz-k-rper-rrk/)*
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/munich/club/raum-resonanz-k-rper-rrk/)*

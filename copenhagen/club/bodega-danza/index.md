@@ -1,0 +1,17 @@
+# Bodega Danza
+
+Bodega Danza is a music venue in Copenhagen with 1 upcoming night listed on soundcheck as of Sat, 19 Sept 2026; the next is "Love Connection All Night Long" on Fri, 25 Sept 2026.
+
+Bodega Danza is a music venue in Copenhagen listed on soundcheck. 1 upcoming night, with line-ups including Love Connection. Browse upcoming dates, start times and who's playing. Flæsketorvet 13A, 1711 København.
+
+## What's on
+
+| Date | Night | Line-up |
+| --- | --- | --- |
+| Fri, 25 Sept 2026 | Love Connection All Night Long | Love Connection |
+
+## Address
+
+Flæsketorvet 13A, 1711 København, Copenhagen
+
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/copenhagen/club/bodega-danza/)*

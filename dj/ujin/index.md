@@ -1,6 +1,6 @@
 # Ujin
 
-Ujin is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 18 Sept 2026, next at Sabagiro, Tbilisi on Sat, 19 Sept 2026.
+Ujin is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sat, 19 Sept 2026, next at Sabagiro, Tbilisi on Sat, 19 Sept 2026.
 
 Ujin is a techno and house artist based in Germany, tracked on soundcheck, with 29 sets logged across Berlin, Dundee, Edinburgh and Nurnberg and 1 more. Often billed alongside Annina, Cyko and Jonaku (DE). Next up: Sabagiro, Tbilisi on Sat 19 Sept.
 
@@ -26,4 +26,4 @@ Ujin is a techno and house artist based in Germany, tracked on soundcheck, with 
 
 Annina, Cyko, Jonaku (DE)
 
-*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ujin/)*
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ujin/)*

@@ -1,6 +1,6 @@
 # jWave
 
-jWave is a Tech House and House artist with 5 upcoming club dates listed on soundcheck as of Fri, 18 Sept 2026, next at Toffler, Rotterdam on Sat, 19 Sept 2026.
+jWave is a Tech House and House artist with 5 upcoming club dates listed on soundcheck as of Sat, 19 Sept 2026, next at Toffler, Rotterdam on Sat, 19 Sept 2026.
 
 jWave is a tech house and house artist tracked on soundcheck, with 52 sets logged across Aberdeen, Amsterdam, Barcelona and Birmingham and 16 more. Often billed alongside Josh Baker, Marsolo and Alexandria. Next up: Toffler, Rotterdam on Sat 19 Sept.
 
@@ -29,4 +29,4 @@ jWave is a tech house and house artist tracked on soundcheck, with 52 sets logge
 
 Josh Baker, Marsolo, Alexandria
 
-*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jwave/)*
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jwave/)*

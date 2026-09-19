@@ -1,14 +1,15 @@
 # Omar-S
 
-Omar-S is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 18 Sept 2026, next at KOKO, London on Sat, 19 Sept 2026.
+Omar-S is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 19 Sept 2026, next at KOKO, London on Sat, 19 Sept 2026.
 
-Omar-S is a house and techno artist based in United States of America, tracked on soundcheck, with 47 sets logged across Amsterdam, Athens, Barcelona and Basel and 18 more. Often billed alongside Carl Craig, Idriss D and DJ Stingray 313. Next up: KOKO, London on Sat 19 Sept.
+Omar-S is a house and techno artist based in United States of America, tracked on soundcheck, with 48 sets logged across Amsterdam, Athens, Barcelona and Basel and 19 more. Often billed alongside Carl Craig, Idriss D and DJ Stingray 313. Next up: KOKO, London on Sat 19 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 19 Sept 2026 | KOKO | London |
+| Sat, 10 Oct 2026 | Basic Club | Naples |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Omar-S is a house and techno artist based in United States of America, tracked o
 
 Carl Craig, Idriss D, DJ Stingray 313
 
-*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/omars/)*
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/omars/)*

@@ -1,14 +1,13 @@
 # Jolene Downtown Miami
 
-Jolene Downtown Miami is a music venue in Miami with 10 upcoming nights listed on soundcheck as of Fri, 18 Sept 2026; the next is "John Tejada, Massimiliano Pagliara, Sister System b2b Terence Tabeau" on Fri, 18 Sept 2026.
+Jolene Downtown Miami is a music venue in Miami with 9 upcoming nights listed on soundcheck as of Sat, 19 Sept 2026; the next is "Yoyaku: Satoshi Tomiie" on Fri, 25 Sept 2026.
 
-Jolene Downtown Miami is a music venue in Miami listed on soundcheck. 10 upcoming nights, with line-ups including Beltran, Danyelino, DIFFER and Enamour and 2 more. Browse upcoming dates, start times and who's playing. 200 E Flagler Street Miami, FL 33131.
+Jolene Downtown Miami is a music venue in Miami listed on soundcheck. 9 upcoming nights, with line-ups including Beltran, Danyelino, DIFFER and Enamour and 2 more. Browse upcoming dates, start times and who's playing. 200 E Flagler Street Miami, FL 33131.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 18 Sept 2026 | John Tejada, Massimiliano Pagliara, Sister System b2b Terence Tabeau | John Tejada, Massimiliano Pagliara, Sister System, Terence Tabeau |
 | Fri, 25 Sept 2026 | Yoyaku: Satoshi Tomiie | Kian OK, Lis Sarroca, Mari.te, Satoshi Tomiie |
 | Sat, 26 Sept 2026 | Nick Warren | DIFFER, Nick Warren, SIEGEL (2) |
 | Sat, 26 Sept 2026 | Nick Warren | Nick Warren, SIEGEL (2) |
@@ -23,4 +22,4 @@ Jolene Downtown Miami is a music venue in Miami listed on soundcheck. 10 upcomin
 
 200 E Flagler Street Miami, FL 33131, Miami
 
-*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/miami/club/jolene-downtown-miami/)*
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/miami/club/jolene-downtown-miami/)*

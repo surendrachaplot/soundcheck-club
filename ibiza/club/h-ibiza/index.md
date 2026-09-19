@@ -1,14 +1,13 @@
 # Hï Ibiza
 
-Hï Ibiza is a music venue in Ibiza with 20 upcoming nights listed on soundcheck as of Fri, 18 Sept 2026; the next is "CamelPhat presents Summer of Love" on Fri, 18 Sept 2026.
+Hï Ibiza is a music venue in Ibiza with 19 upcoming nights listed on soundcheck as of Sat, 19 Sept 2026; the next is "Black Coffee" on Sat, 19 Sept 2026.
 
-Hï Ibiza is a music venue in Ibiza listed on soundcheck. 20 upcoming nights, with line-ups including Adam Beyer, Adam Ten, A For Alpha and AJNA and 2 more. Browse upcoming dates, start times and who's playing. Platja d''en Bossa s/n, 07817 Sant Josep de sa Talaia, Balearic Islands, Spain.
+Hï Ibiza is a music venue in Ibiza listed on soundcheck. 19 upcoming nights, with line-ups including Adam Beyer, Adam Ten, A For Alpha and AMÉMÉ and 2 more. Browse upcoming dates, start times and who's playing. Platja d''en Bossa s/n, 07817 Sant Josep de sa Talaia, Balearic Islands, Spain.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 18 Sept 2026 | CamelPhat presents Summer of Love | AJNA, CamelPhat, Ewan McVicar, Jimi Jules, MPH (1), Samm, Skream |
 | Sat, 19 Sept 2026 | Black Coffee | ANOTR, Black Coffee, East End Dubs, Laolu |
 | Sun, 20 Sept 2026 | MESTIZA | DJ Dali, Indira Paganotto, Lee Ann Roberts, MËSTIZA, Pole Position, THEMBA |
 | Mon, 21 Sept 2026 | Francis Mercier presents Solèy | Andrea Oliva, Francis Mercier, Michael Mayer, Nick Castle, Nitefreak, Raxon |
@@ -18,9 +17,10 @@ Hï Ibiza is a music venue in Ibiza listed on soundcheck. 20 upcoming nights, wi
 | Thu, 24 Sept 2026 | Hugel presents Make The Girls Dance - CLOSING PARTY | Adam Beyer, Hugel, Juany Bravo, Miss Monique, Moojo, Son of Son |
 | Fri, 25 Sept 2026 | CamelPhat presents Summer of Love | CamelPhat, Erol Alkan, Ewan McVicar, Giulia Tess |
 | Sat, 26 Sept 2026 | Black Coffee | AMÉMÉ, Black Coffee, DJ EZ, Marco Carola |
+| Sun, 27 Sept 2026 | MESTIZA | Anna Unusyan, DAX J, Elli Acula, Indira Paganotto, Knowhat, Marten Lou, MËSTIZA, Peppe Citarella |
 
 ## Address
 
 Platja d''en Bossa s/n, 07817 Sant Josep de sa Talaia, Balearic Islands, Spain, Ibiza
 
-*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/ibiza/club/h-ibiza/)*
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/ibiza/club/h-ibiza/)*

@@ -1,14 +1,13 @@
 # DJ Nori
 
-DJ Nori is a House and Disco artist with 14 upcoming club dates listed on soundcheck as of Fri, 18 Sept 2026, next at DJ Bar Bridge, Tokyo on Fri, 18 Sept 2026.
+DJ Nori is a House and Disco artist with 13 upcoming club dates listed on soundcheck as of Sat, 19 Sept 2026, next at DJ Bar Bridge Shinjuku, Tokyo on Mon, 21 Sept 2026.
 
-DJ Nori is a house and disco artist based in Japan, tracked on soundcheck, with 307 sets logged across London, Osaka, Paris and Tokyo. Often billed alongside Muro, Toshiyuki Goto and DJ246. Next up: DJ Bar Bridge, Tokyo on Fri 18 Sept.
+DJ Nori is a house and disco artist based in Japan, tracked on soundcheck, with 307 sets logged across London, Osaka, Paris and Tokyo. Often billed alongside Muro, Toshiyuki Goto and DJ246. Next up: DJ Bar Bridge Shinjuku, Tokyo on Mon 21 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 18 Sept 2026 | DJ Bar Bridge | Tokyo |
 | Mon, 21 Sept 2026 | DJ Bar Bridge Shinjuku | Tokyo |
 | Fri, 25 Sept 2026 | DJ Bar Bridge | Tokyo |
 | Fri, 2 Oct 2026 | DJ Bar Bridge | Tokyo |
@@ -20,9 +19,11 @@ DJ Nori is a house and disco artist based in Japan, tracked on soundcheck, with 
 | Fri, 30 Oct 2026 | DJ Bar Bridge | Tokyo |
 | Fri, 6 Nov 2026 | DJ Bar Bridge | Tokyo |
 | Fri, 13 Nov 2026 | DJ Bar Bridge | Tokyo |
+| Fri, 20 Nov 2026 | DJ Bar Bridge | Tokyo |
 
 ## Recently played
 
+- DJ Bar Bridge, Tokyo — Fri, 18 Sept 2026
 - DJ Bar Bridge, Tokyo — Fri, 11 Sept 2026
 - DJ Bar Bridge, Tokyo — Fri, 4 Sept 2026
 - DJ Bar Bridge, Tokyo — Fri, 28 Aug 2026
@@ -30,10 +31,9 @@ DJ Nori is a house and disco artist based in Japan, tracked on soundcheck, with 
 - DJ Bar Bridge, Tokyo — Fri, 14 Aug 2026
 - DJ Bar Bridge, Tokyo — Fri, 7 Aug 2026
 - DJ Bar Bridge, Tokyo — Fri, 31 Jul 2026
-- DJ Bar Bridge, Tokyo — Fri, 24 Jul 2026
 
 ## Shares bills with
 
 Muro, Toshiyuki Goto, DJ246
 
-*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djnori/)*
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djnori/)*

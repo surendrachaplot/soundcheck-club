@@ -1,6 +1,6 @@
 # Numm
 
-Numm is a music venue in Tokyo with 13 upcoming nights listed on soundcheck as of Fri, 18 Sept 2026; the next is "SUBTERRANEAN" on Fri, 18 Sept 2026.
+Numm is a music venue in Tokyo with 13 upcoming nights listed on soundcheck as of Sat, 19 Sept 2026; the next is "SUBTERRANEAN" on Fri, 18 Sept 2026.
 
 Numm is a music venue in Tokyo listed on soundcheck. 13 upcoming nights, with line-ups including Akie, CHIDA, Dazzle Drums and DNG (1) and 2 more. Browse upcoming dates, start times and who's playing. B1F AiiA ANEX bld 2-9-13 Shibuya, Shibuya-ku, Tokyo-to 150-0002 Japan.
 
@@ -23,4 +23,4 @@ Numm is a music venue in Tokyo listed on soundcheck. 13 upcoming nights, with li
 
 B1F AiiA ANEX bld 2-9-13 Shibuya, Shibuya-ku, Tokyo-to 150-0002 Japan, Tokyo
 
-*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/numm/)*
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/numm/)*

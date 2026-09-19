@@ -1,6 +1,6 @@
 # James Hype (UK)
 
-James Hype (UK) is a House and Tech House artist with 6 upcoming club dates listed on soundcheck as of Fri, 18 Sept 2026, next at Glen Helen Regional Park, Los Angeles on Sat, 19 Sept 2026.
+James Hype (UK) is a House and Tech House artist with 6 upcoming club dates listed on soundcheck as of Sat, 19 Sept 2026, next at Glen Helen Regional Park, Los Angeles on Sat, 19 Sept 2026.
 
 James Hype (UK) is a house and tech house artist tracked on soundcheck, with 177 sets logged across Amsterdam, Antwerp, Athens and Austin and 41 more. Often billed alongside Meduza, David Guetta and Hannah Laing. Next up: Glen Helen Regional Park, Losangeles on Sat 19 Sept.
 
@@ -30,4 +30,4 @@ James Hype (UK) is a house and tech house artist tracked on soundcheck, with 177
 
 Meduza, David Guetta, Hannah Laing
 
-*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jameshype-2/)*
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jameshype-2/)*

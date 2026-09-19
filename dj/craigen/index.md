@@ -1,6 +1,6 @@
 # Craigen
 
-Craigen is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 18 Sept 2026, next at Nice N Sleazy, Glasgow on Sat, 19 Sept 2026.
+Craigen is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sat, 19 Sept 2026, next at Nice N Sleazy, Glasgow on Sat, 19 Sept 2026.
 
 Craigen is a techno and house artist tracked on soundcheck, with 29 sets logged across Glasgow and Manchester. Often billed alongside Decno, Frank Grime and DJ Smoker. Next up: Nice N Sleazy, Glasgow on Sat 19 Sept.
 
@@ -26,4 +26,4 @@ Craigen is a techno and house artist tracked on soundcheck, with 29 sets logged 
 
 Decno, Frank Grime, DJ Smoker
 
-*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/craigen/)*
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/craigen/)*

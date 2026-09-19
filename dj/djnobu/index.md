@@ -1,8 +1,8 @@
 # DJ Nobu
 
-DJ Nobu is a Techno and House artist with 11 upcoming club dates listed on soundcheck as of Fri, 18 Sept 2026, next at TBA - Brooklyn, New York City on Fri, 18 Sept 2026.
+DJ Nobu is a Techno and House artist with 12 upcoming club dates listed on soundcheck as of Sat, 19 Sept 2026, next at TBA - Brooklyn, New York City on Fri, 18 Sept 2026.
 
-DJ Nobu is a techno and house artist tracked on soundcheck, with 230 sets logged across Amsterdam, Athens, Austin and Bali and 58 more. Often billed alongside Gabrielle Kwarteng, Wata Igarashi and DVS1. Next up: TBA - Brooklyn, Newyorkcity on Fri 18 Sept.
+DJ Nobu is a techno and house artist tracked on soundcheck, with 231 sets logged across Amsterdam, Athens, Austin and Bali and 58 more. Often billed alongside Gabrielle Kwarteng, Wata Igarashi and DVS1. Next up: TBA - Brooklyn, Newyorkcity on Fri 18 Sept.
 
 ## Upcoming shows
 
@@ -19,9 +19,11 @@ DJ Nobu is a techno and house artist tracked on soundcheck, with 230 sets logged
 | Thu, 22 Oct 2026 | TILLATEC | Amsterdam |
 | Fri, 23 Oct 2026 | RAWFACTORY | Amsterdam |
 | Sat, 24 Oct 2026 | H7 Warehouse | Amsterdam |
+| Fri, 30 Oct 2026 | WOMB | Tokyo |
 
 ## Recently played
 
+- TBA - Brooklyn, New York City — Fri, 18 Sept 2026
 - Camp Kennybrook, New York City — Thu, 10 Sept 2026
 - Motel Campo, Geneva — Sat, 5 Sept 2026
 - Phonox, London — Sat, 29 Aug 2026
@@ -29,10 +31,9 @@ DJ Nobu is a techno and house artist tracked on soundcheck, with 230 sets logged
 - Nowadays, New York City — Sun, 23 Aug 2026
 - Lincoln Factory, Detroit — Sat, 22 Aug 2026
 - Société des arts technologiques, Montreal — Fri, 21 Aug 2026
-- Berghain | Panorama Bar | Säule, Berlin — Sat, 15 Aug 2026
 
 ## Shares bills with
 
 Gabrielle Kwarteng, Wata Igarashi, DVS1
 
-*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djnobu/)*
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djnobu/)*

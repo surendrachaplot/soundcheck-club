@@ -1,6 +1,6 @@
 # Still Life Summer Closing with Izzy, Lou Is + more at All My Friends
 
-Still Life Summer Closing with Izzy, Lou Is + more at All My Friends on Sat 26 Sept, London. 2 acts on the bill: Izzy and Manalou. House and Deep House. Preview the line-up and save it on soundcheck.
+Still Life Summer Closing with Izzy, Lou Is + more at All My Friends on Sat 26 Sept, London. 3 acts on the bill: Izzy, IZZY (UK) and Manalou. House and Deep House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,6 +11,7 @@ Still Life Summer Closing with Izzy, Lou Is + more at All My Friends on Sat 26 S
 ## Line-up
 
 - Izzy
+- IZZY (UK)
 - Manalou
 
 *Source: [soundcheck](https://soundcheck.club/e/2523594-still-life-summer-closing-with-izzy-lou-is-more-at-all-my-fr/)*

@@ -1,6 +1,6 @@
 # LANSUH
 
-LANSUH is a House and Disco artist with 3 upcoming club dates listed on soundcheck as of Fri, 18 Sept 2026, next at SILO, New York City on Thu, 24 Sept 2026.
+LANSUH is a House and Disco artist with 3 upcoming club dates listed on soundcheck as of Sat, 19 Sept 2026, next at SILO, New York City on Thu, 24 Sept 2026.
 
 LANSUH is a house and disco artist based in United States of America, tracked on soundcheck, with 52 sets logged across Detroit, Mexicocity and Newyorkcity. Often billed alongside Jay Dalawa, Alcantara and Gabriel Etrata. Next up: SILO, Newyorkcity on Thu 24 Sept.
 
@@ -27,4 +27,4 @@ LANSUH is a house and disco artist based in United States of America, tracked on
 
 Jay Dalawa, Alcantara, Gabriel Etrata
 
-*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lansuh/)*
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lansuh/)*

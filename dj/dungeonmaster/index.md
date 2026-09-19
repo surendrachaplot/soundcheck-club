@@ -1,6 +1,6 @@
 # DungeonMaster
 
-DungeonMaster is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 18 Sept 2026, next at Omeara, London on Sat, 17 Oct 2026.
+DungeonMaster is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 19 Sept 2026, next at Omeara, London on Sat, 17 Oct 2026.
 
 DungeonMaster is a techno and house artist based in Italy, tracked on soundcheck, with 17 sets logged across London. Often billed alongside MUSICKLUNATIC, MAL33T and ALVAZ. Next up: Omeara, London on Sat 17 Oct.
 
@@ -25,4 +25,4 @@ DungeonMaster is a techno and house artist based in Italy, tracked on soundcheck
 
 MUSICKLUNATIC, MAL33T, ALVAZ
 
-*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dungeonmaster/)*
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dungeonmaster/)*

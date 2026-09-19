@@ -1,6 +1,6 @@
 # TBA - Los Angeles
 
-TBA - Los Angeles is a music venue in Los Angeles with 15 upcoming nights listed on soundcheck as of Fri, 18 Sept 2026; the next is "WORK OVER/TIME: JIA, MARRØN, NEKTER, Rene Wise, Rrose, Sarah Wreath [Live], & Wata Igarashi" on Fri, 25 Sept 2026.
+TBA - Los Angeles is a music venue in Los Angeles with 15 upcoming nights listed on soundcheck as of Sat, 19 Sept 2026; the next is "WORK OVER/TIME: JIA, MARRØN, NEKTER, Rene Wise, Rrose, Sarah Wreath [Live], & Wata Igarashi" on Fri, 25 Sept 2026.
 
 TBA - Los Angeles is a music venue in Losangeles listed on soundcheck. 15 upcoming nights, with line-ups including Adrian Reyes, Anastasia Giovani, Bart Skils and Blasha & Allatt and 2 more. Browse upcoming dates, start times and who's playing.
 
@@ -19,4 +19,4 @@ TBA - Los Angeles is a music venue in Losangeles listed on soundcheck. 15 upcomi
 | Sun, 25 Oct 2026 | SYNTHESIS 002: Anastasia Giovani, Blazej Malinowski, Kameliia & Secus | Anastasia Giovani, Blazej Malinowski, Kameliia, Secus |
 | Fri, 6 Nov 2026 | WORK presents: Narciss, Masha Mar, & Marc Homer | Marc Homer, Masha Mar, Narciss |
 
-*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/tba-los-angeles/)*
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/tba-los-angeles/)*

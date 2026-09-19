@@ -1,6 +1,6 @@
 # Outer Limits Lounge
 
-Outer Limits Lounge is a music venue in Detroit with 1 upcoming night listed on soundcheck as of Fri, 18 Sept 2026; the next is "D.N/A" on Thu, 24 Sept 2026.
+Outer Limits Lounge is a music venue in Detroit with 1 upcoming night listed on soundcheck as of Sat, 19 Sept 2026; the next is "D.N/A" on Thu, 24 Sept 2026.
 
 Outer Limits Lounge is a music venue in Detroit listed on soundcheck. 1 upcoming night, with line-ups including AIDEL and Kittyqueef:3. Browse upcoming dates, start times and who's playing. 5507 Caniff St, Hamtramck, MI 48212, USA.
 
@@ -14,4 +14,4 @@ Outer Limits Lounge is a music venue in Detroit listed on soundcheck. 1 upcoming
 
 5507 Caniff St, Hamtramck, MI 48212, USA, Detroit
 
-*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/detroit/club/outer-limits-lounge/)*
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/detroit/club/outer-limits-lounge/)*

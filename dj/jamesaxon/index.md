@@ -1,19 +1,19 @@
 # James Axon
 
-James Axon is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Fri, 18 Sept 2026, next at TBA - Silverlake, Los Angeles on Fri, 18 Sept 2026.
+James Axon is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 19 Sept 2026, next at Bossa Nova Civic Club, New York City on Mon, 21 Sept 2026.
 
-James Axon is a house and techno artist based in United States of America, tracked on soundcheck, with 69 sets logged across Losangeles, Newyorkcity, Philadelphia and Sanfrancisco and 1 more. Often billed alongside Masha Mar, Sergio Rodriguez and Jason Kendig. Next up: TBA - Silverlake, Losangeles on Fri 18 Sept.
+James Axon is a house and techno artist based in United States of America, tracked on soundcheck, with 69 sets logged across Losangeles, Newyorkcity, Philadelphia and Sanfrancisco and 1 more. Often billed alongside Masha Mar, Sergio Rodriguez and Jason Kendig. Next up: Bossa Nova Civic Club, Newyorkcity on Mon 21 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 18 Sept 2026 | TBA - Silverlake | Los Angeles |
 | Mon, 21 Sept 2026 | Bossa Nova Civic Club | New York City |
 | Fri, 25 Sept 2026 | Good Room | New York City |
 
 ## Recently played
 
+- TBA - Silverlake, Los Angeles — Fri, 18 Sept 2026
 - TBA - Los Angeles, Los Angeles — Sat, 12 Sept 2026
 - TBA - Downtown Los Angeles, Los Angeles — Fri, 11 Sept 2026
 - BASEMENT, New York City — Sat, 29 Aug 2026
@@ -21,10 +21,9 @@ James Axon is a house and techno artist based in United States of America, track
 - public records, New York City — Sat, 8 Aug 2026
 - Unveiled, New York City — Thu, 25 Jun 2026
 - The Bridge, Los Angeles — Sat, 20 Jun 2026
-- The Stud, San Francisco/Oakland — Fri, 5 Jun 2026
 
 ## Shares bills with
 
 Masha Mar, Sergio Rodriguez, Jason Kendig
 
-*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jamesaxon/)*
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jamesaxon/)*

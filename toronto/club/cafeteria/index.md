@@ -1,14 +1,13 @@
 # Cafeteria
 
-Cafeteria is a music venue in Toronto with 6 upcoming nights listed on soundcheck as of Fri, 18 Sept 2026; the next is "unimmune: KAVARI" on Fri, 18 Sept 2026.
+Cafeteria is a music venue in Toronto with 5 upcoming nights listed on soundcheck as of Sat, 19 Sept 2026; the next is "Kontravoid with Buzz Kull" on Thu, 24 Sept 2026.
 
-Cafeteria is a music venue in Toronto listed on soundcheck. 6 upcoming nights, with line-ups including Ana Luisa, Gremlinz, Indie Sleaze and KAVARI and 2 more. Browse upcoming dates, start times and who's playing. 1650 Dupont St, Toronto, ON M6P 3T2, Canada.
+Cafeteria is a music venue in Toronto listed on soundcheck. 5 upcoming nights, with line-ups including Ana Luisa, Gremlinz, Indie Sleaze and Momocita and 2 more. Browse upcoming dates, start times and who's playing. 1650 Dupont St, Toronto, ON M6P 3T2, Canada.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 18 Sept 2026 | unimmune: KAVARI | KAVARI, Outback |
 | Thu, 24 Sept 2026 | Kontravoid with Buzz Kull |  |
 | Fri, 25 Sept 2026 | A Night for Venezuela & Colombia: Musical Bingo & Dance Party | Ana Luisa, Momocita, olasconola |
 | Sat, 26 Sept 2026 | La Rumba Buena |  |
@@ -19,4 +18,4 @@ Cafeteria is a music venue in Toronto listed on soundcheck. 6 upcoming nights, w
 
 1650 Dupont St, Toronto, ON M6P 3T2, Canada, Toronto
 
-*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/cafeteria/)*
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/cafeteria/)*

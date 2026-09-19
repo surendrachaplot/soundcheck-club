@@ -1,6 +1,6 @@
 # Petal
 
-Petal is a Club and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 18 Sept 2026, next at Mood Ring, New York City on Sat, 19 Sept 2026.
+Petal is a Club and Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 19 Sept 2026, next at Mood Ring, New York City on Sat, 19 Sept 2026.
 
 Petal is a club and techno artist based in United States of America, tracked on soundcheck, with 95 sets logged across Athens and Newyorkcity. Often billed alongside CMD+JAZMINE, BEYBLADE SHAWTY and EEVEE (3). Next up: Mood Ring, Newyorkcity on Sat 19 Sept.
 
@@ -26,4 +26,4 @@ Petal is a club and techno artist based in United States of America, tracked on 
 
 CMD+JAZMINE, BEYBLADE SHAWTY, EEVEE (3)
 
-*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/petal/)*
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/petal/)*

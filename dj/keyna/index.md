@@ -1,6 +1,6 @@
 # KEY:NA
 
-KEY:NA is a Club and Electro artist with 1 upcoming club date listed on soundcheck as of Fri, 18 Sept 2026, next at Lion Super Club, Seoul on Sat, 26 Sept 2026.
+KEY:NA is a Club and Electro artist with 1 upcoming club date listed on soundcheck as of Sat, 19 Sept 2026, next at Lion Super Club, Seoul on Sat, 26 Sept 2026.
 
 KEY:NA is a club and electro artist based in South Korea, tracked on soundcheck, with 17 sets logged across Seoul. Often billed alongside AVEN (KR), H93 (KR) and STAN MYLOR. Next up: Lion Super Club, Seoul on Sat 26 Sept.
 
@@ -25,4 +25,4 @@ KEY:NA is a club and electro artist based in South Korea, tracked on soundcheck,
 
 AVEN (KR), H93 (KR), STAN MYLOR
 
-*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/keyna/)*
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/keyna/)*

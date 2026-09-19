@@ -1,13 +1,14 @@
 # Itzel Club
 
-Itzel Club is a music venue in London with 2 upcoming nights listed on soundcheck as of Fri, 18 Sept 2026; the next is "Decadence presents: Detention" on Fri, 2 Oct 2026.
+Itzel Club is a music venue in London with 3 upcoming nights listed on soundcheck as of Sat, 19 Sept 2026; the next is "LONDON FASHION WEEK X TRACE" on Sat, 19 Sept 2026.
 
-Itzel Club is a music venue in London listed on soundcheck. 2 upcoming nights, with line-ups including Anthony P. (CH), Cris Cioata, Kate Moss and Kidflo and 1 more. Browse upcoming dates, start times and who's playing. 15 Berkeley Street, London W1J 8DY.
+Itzel Club is a music venue in London listed on soundcheck. 3 upcoming nights, with line-ups including Anthony P. (CH), Cris Cioata, Kate Moss and Kidflo and 2 more. Browse upcoming dates, start times and who's playing. 15 Berkeley Street, London W1J 8DY.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
+| Sat, 19 Sept 2026 | LONDON FASHION WEEK X TRACE | LOKI (3) |
 | Fri, 2 Oct 2026 | Decadence presents: Detention | Anthony P. (CH), Cris Cioata, Kate Moss, Kidflo, Lots |
 | Sat, 17 Oct 2026 | FML 001 |  |
 
@@ -15,4 +16,4 @@ Itzel Club is a music venue in London listed on soundcheck. 2 upcoming nights, w
 
 15 Berkeley Street, London W1J 8DY, London
 
-*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/itzel-club/)*
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/itzel-club/)*

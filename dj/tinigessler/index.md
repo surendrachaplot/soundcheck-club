@@ -1,6 +1,6 @@
 # Tini Gessler
 
-Tini Gessler is a Tech House and House artist with 4 upcoming club dates listed on soundcheck as of Fri, 18 Sept 2026, next at Spybar, Chicago on Sat, 19 Sept 2026.
+Tini Gessler is a Tech House and House artist with 4 upcoming club dates listed on soundcheck as of Sat, 19 Sept 2026, next at Spybar, Chicago on Sat, 19 Sept 2026.
 
 Tini Gessler is a tech house and house artist tracked on soundcheck, with 129 sets logged across Bali, Barcelona, Berlin and Boston and 26 more. Often billed alongside Ilario Alicante, Andrea Oliva and Adam Beyer. Next up: Spybar, Chicago on Sat 19 Sept.
 
@@ -28,4 +28,4 @@ Tini Gessler is a tech house and house artist tracked on soundcheck, with 129 se
 
 Ilario Alicante, Andrea Oliva, Adam Beyer
 
-*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tinigessler/)*
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tinigessler/)*

@@ -1,18 +1,18 @@
 # domizako
 
-domizako is a Techno and Experimental artist with 2 upcoming club dates listed on soundcheck as of Fri, 18 Sept 2026, next at Fuchs2, Prague on Fri, 18 Sept 2026.
+domizako is a Techno and Experimental artist with 1 upcoming club date listed on soundcheck as of Sat, 19 Sept 2026, next at Bike Jesus, Prague on Fri, 30 Oct 2026.
 
-domizako is a techno and experimental artist tracked on soundcheck, with 50 sets logged across Amsterdam, Berlin, London and Prague and 2 more. Often billed alongside Kaa Glo, NEW MAGIC MEDIA and Miss Univers. Next up: Fuchs2, Prague on Fri 18 Sept.
+domizako is a techno and experimental artist tracked on soundcheck, with 50 sets logged across Amsterdam, Berlin, London and Prague and 2 more. Often billed alongside Kaa Glo, NEW MAGIC MEDIA and Miss Univers. Next up: Bike Jesus, Prague on Fri 30 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 18 Sept 2026 | Fuchs2 | Prague |
 | Fri, 30 Oct 2026 | Bike Jesus | Prague |
 
 ## Recently played
 
+- Fuchs2, Prague — Fri, 18 Sept 2026
 - Fuchs2, Prague — Sat, 22 Aug 2026
 - Ankali & Planeta Za, Prague — Fri, 7 Aug 2026
 - BarKa, Warsaw — Thu, 11 Jun 2026
@@ -20,10 +20,9 @@ domizako is a techno and experimental artist tracked on soundcheck, with 50 sets
 - Ankali & Planeta Za, Prague — Thu, 30 Apr 2026
 - Fuchs2, Prague — Sat, 18 Apr 2026
 - Ankali & Planeta Za, Prague — Fri, 20 Mar 2026
-- Fuchs2, Prague — Fri, 13 Feb 2026
 
 ## Shares bills with
 
 Kaa Glo, NEW MAGIC MEDIA, Miss Univers
 
-*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/domizako/)*
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/domizako/)*

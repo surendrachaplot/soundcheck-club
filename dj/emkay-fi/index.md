@@ -1,6 +1,6 @@
 # emkay (FI)
 
-emkay (FI) is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 18 Sept 2026, next at Post Bar, Helsinki on Sat, 3 Oct 2026.
+emkay (FI) is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 19 Sept 2026, next at Post Bar, Helsinki on Sat, 3 Oct 2026.
 
 emkay (FI) is a house and techno artist based in Finland, tracked on soundcheck, with 38 sets logged across Berlin, Copenhagen, Helsinki and Melbourne and 3 more. Often billed alongside Jeku, Denzel and Mike Midnight. Next up: Post Bar, Helsinki on Sat 3 Oct.
 
@@ -25,4 +25,4 @@ emkay (FI) is a house and techno artist based in Finland, tracked on soundcheck,
 
 Jeku, Denzel, Mike Midnight
 
-*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/emkay-fi/)*
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/emkay-fi/)*

@@ -1,6 +1,6 @@
 # Fiene
 
-Fiene is a Techno and Trance artist with 3 upcoming club dates listed on soundcheck as of Fri, 18 Sept 2026, next at Havenpark, Amsterdam on Sat, 24 Oct 2026.
+Fiene is a Techno and Trance artist with 3 upcoming club dates listed on soundcheck as of Sat, 19 Sept 2026, next at Havenpark, Amsterdam on Sat, 24 Oct 2026.
 
 Fiene is a techno and trance artist tracked on soundcheck, with 43 sets logged across Amsterdam, Paris, Rotterdam and Thehague and 1 more. Often billed alongside Benny Rodrigues, Rozie and AUTOFLOWER. Next up: Havenpark, Amsterdam on Sat 24 Oct.
 
@@ -27,4 +27,4 @@ Fiene is a techno and trance artist tracked on soundcheck, with 43 sets logged a
 
 Benny Rodrigues, Rozie, AUTOFLOWER
 
-*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/fiene/)*
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/fiene/)*

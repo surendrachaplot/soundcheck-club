@@ -1,6 +1,6 @@
 # 22 NOV - Thuishaven with X CLUB. / DART / NewTone / Freddi at Thuishaven
 
-22 NOV - Thuishaven with X CLUB. / DART / NewTone / Freddi on Sun 22 Nov, Amsterdam. 8 acts on the bill: DART, Freddi, NewTone and OLIVIA LENSEN and 4 more. Preview the line-up and save it on soundcheck.
+22 NOV - Thuishaven with X CLUB. / DART / NewTone / Freddi on Sun 22 Nov, Amsterdam. 13 acts on the bill: DART, Elotrance, Freddi and JÄMO and 9 more. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,12 +11,17 @@
 ## Line-up
 
 - DART
+- Elotrance
 - Freddi
+- JÄMO
+- Jordan George
 - NewTone
+- Olive Anguz
 - OLIVIA LENSEN
 - S3PPA
 - Schwesta P
 - Sophia Violet
+- STÜM
 - X CLUB.
 
 *Source: [soundcheck](https://soundcheck.club/e/2510454-22-nov-thuishaven-with-x-club-dart-newtone-freddi-at-thuisha/)*

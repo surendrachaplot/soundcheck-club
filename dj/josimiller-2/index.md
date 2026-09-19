@@ -1,18 +1,18 @@
 # Josi Miller (2)
 
-Josi Miller (2) is a House and Bass artist with 2 upcoming club dates listed on soundcheck as of Fri, 18 Sept 2026, next at Renate, Berlin on Fri, 18 Sept 2026.
+Josi Miller (2) is a House and Bass artist with 1 upcoming club date listed on soundcheck as of Sat, 19 Sept 2026, next at elipamanoke, Leipzig on Fri, 4 Dec 2026.
 
-Josi Miller (2) is a house and bass artist based in Germany, tracked on soundcheck, with 8 sets logged across Berlin, Leipzig and Zurich. Often billed alongside DJ Luiser, ALBA (3) and Anton Gerden. Next up: Renate, Berlin on Fri 18 Sept.
+Josi Miller (2) is a house and bass artist based in Germany, tracked on soundcheck, with 8 sets logged across Berlin, Leipzig and Zurich. Often billed alongside DJ Luiser, ALBA (3) and Anton Gerden. Next up: elipamanoke, Leipzig on Fri 4 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 18 Sept 2026 | Renate | Berlin |
 | Fri, 4 Dec 2026 | elipamanoke | Leipzig |
 
 ## Recently played
 
+- Renate, Berlin — Fri, 18 Sept 2026
 - Ilses Erika, Leipzig — Sat, 1 Aug 2026
 - Ilses Erika, Leipzig — Sat, 1 Aug 2026
 - Marmorbar, Berlin — Fri, 31 Jul 2026
@@ -24,4 +24,4 @@ Josi Miller (2) is a house and bass artist based in Germany, tracked on soundche
 
 DJ Luiser, ALBA (3), Anton Gerden
 
-*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/josimiller-2/)*
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/josimiller-2/)*

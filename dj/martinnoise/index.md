@@ -1,6 +1,6 @@
 # Martin Noise
 
-Martin Noise is a House and Acid artist with 2 upcoming club dates listed on soundcheck as of Fri, 18 Sept 2026, next at Jonny Knüppel, Berlin on Sat, 19 Sept 2026.
+Martin Noise is a House and Acid artist with 2 upcoming club dates listed on soundcheck as of Sat, 19 Sept 2026, next at Jonny Knüppel, Berlin on Sat, 19 Sept 2026.
 
 Martin Noise is a house and acid artist tracked on soundcheck, with 74 sets logged across Barcelona, Berlin, Bucharest and Buenosaires and 4 more. Often billed alongside Cisco (2), Andrea Zarco and DELLA (AR). Next up: Jonny Knüppel, Berlin on Sat 19 Sept.
 
@@ -26,4 +26,4 @@ Martin Noise is a house and acid artist tracked on soundcheck, with 74 sets logg
 
 Cisco (2), Andrea Zarco, DELLA (AR)
 
-*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/martinnoise/)*
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/martinnoise/)*

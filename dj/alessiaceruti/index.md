@@ -1,6 +1,6 @@
 # Alessia Ceruti
 
-Alessia Ceruti is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 18 Sept 2026, next at Club der Visionaere, Berlin on Sat, 19 Sept 2026.
+Alessia Ceruti is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 19 Sept 2026, next at Club der Visionaere, Berlin on Sat, 19 Sept 2026.
 
 Alessia Ceruti is a house and techno artist based in Italy, tracked on soundcheck, with 46 sets logged across Barcelona, Berlin, Brussels and Dusseldorf and 3 more. Often billed alongside Dana Ruh, L&F and Anthea. Next up: Club der Visionaere, Berlin on Sat 19 Sept.
 
@@ -26,4 +26,4 @@ Alessia Ceruti is a house and techno artist based in Italy, tracked on soundchec
 
 Dana Ruh, L&F, Anthea
 
-*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/alessiaceruti/)*
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/alessiaceruti/)*

@@ -1,14 +1,13 @@
 # Mathew Jonson
 
-Mathew Jonson is a Techno and House artist with 8 upcoming club dates listed on soundcheck as of Fri, 18 Sept 2026, next at WOMB, Tokyo on Fri, 18 Sept 2026.
+Mathew Jonson is a Techno and House artist with 7 upcoming club dates listed on soundcheck as of Sat, 19 Sept 2026, next at Strange Brew, Bristol on Fri, 25 Sept 2026.
 
-Mathew Jonson is a techno and house artist tracked on soundcheck, with 144 sets logged across Amsterdam, Bali, Barcelona and Belgrade and 43 more. Often billed alongside EVGHENIIA, Francesco Del Garda and O.BEE. Next up: WOMB, Tokyo on Fri 18 Sept.
+Mathew Jonson is a techno and house artist tracked on soundcheck, with 144 sets logged across Amsterdam, Bali, Barcelona and Belgrade and 43 more. Often billed alongside EVGHENIIA, Francesco Del Garda and O.BEE. Next up: Strange Brew, Bristol on Fri 25 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 18 Sept 2026 | WOMB | Tokyo |
 | Fri, 25 Sept 2026 | Strange Brew | Bristol |
 | Sat, 26 Sept 2026 | Cobalt Studios | Newcastle |
 | Fri, 2 Oct 2026 | ZENNER | Berlin |
@@ -19,6 +18,7 @@ Mathew Jonson is a techno and house artist tracked on soundcheck, with 144 sets 
 
 ## Recently played
 
+- WOMB, Tokyo — Fri, 18 Sept 2026
 - TBA -    Kodamanomori Camp Ground, Nagano, Tokyo — Fri, 11 Sept 2026
 - Jardins de Joan Brossa, Barcelona — Sun, 30 Aug 2026
 - Berghain | Panorama Bar | Säule, Berlin — Sat, 15 Aug 2026
@@ -26,10 +26,9 @@ Mathew Jonson is a techno and house artist tracked on soundcheck, with 144 sets 
 - Bijhuub, Amsterdam — Sat, 13 Jun 2026
 - Club der Visionaere, Berlin — Sun, 31 May 2026
 - Sonnenraum, Berlin — Fri, 29 May 2026
-- Lincoln Factory, Detroit — Mon, 25 May 2026
 
 ## Shares bills with
 
 EVGHENIIA, Francesco Del Garda, O.BEE
 
-*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mathewjonson/)*
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mathewjonson/)*

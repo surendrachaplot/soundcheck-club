@@ -1,14 +1,13 @@
 # Club Vaag
 
-Club Vaag is a music venue in Antwerp with 14 upcoming nights listed on soundcheck as of Fri, 18 Sept 2026; the next is "11 Years Club Vaag with JOWI ALL NIGHT LONG (SOLD OUT)" on Fri, 18 Sept 2026.
+Club Vaag is a music venue in Antwerp with 13 upcoming nights listed on soundcheck as of Sat, 19 Sept 2026; the next is "11 Years Club Vaag with DJ IP, Entasia, THELMA & Jef Nice" on Sat, 19 Sept 2026.
 
-Club Vaag is a music venue in Antwerp listed on soundcheck. 14 upcoming nights, with line-ups including BISOUX, BØĘRY, CeeJay and DJ IP and 2 more. Browse upcoming dates, start times and who's playing. Rijnkaai 4 2000 Antwerpen.
+Club Vaag is a music venue in Antwerp listed on soundcheck. 13 upcoming nights, with line-ups including BISOUX, BØĘRY, CeeJay and DJ IP and 2 more. Browse upcoming dates, start times and who's playing. Rijnkaai 4 2000 Antwerpen.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 18 Sept 2026 | 11 Years Club Vaag with JOWI ALL NIGHT LONG (SOLD OUT) |  |
 | Sat, 19 Sept 2026 | 11 Years Club Vaag with DJ IP, Entasia, THELMA & Jef Nice | DJ IP, Entasia, Jef Nice, THELMA |
 | Fri, 25 Sept 2026 | Club Vaag invites Ueberrest, TASSERY & THISO | JIPSEY, TASSERY, THISO, Ueberrest |
 | Sat, 26 Sept 2026 | Club Vaag invites ANOLUXX & CeeJay | CeeJay |
@@ -18,9 +17,10 @@ Club Vaag is a music venue in Antwerp listed on soundcheck. 14 upcoming nights, 
 | Sat, 10 Oct 2026 | Club Vaag invites THE SMILER, EXPROZ & Outrage | Outrage |
 | Fri, 16 Oct 2026 | Club Vaag invites DROS & GO$PEL |  |
 | Sat, 17 Oct 2026 | Club Vaag invites LAMMER (Extended Set) | BISOUX, Jef Nice, LAMMER |
+| Fri, 23 Oct 2026 | Club Vaag invites BØĘRY & Raxeller | BØĘRY, Raxeller |
 
 ## Address
 
 Rijnkaai 4 2000 Antwerpen, Antwerp
 
-*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/antwerp/club/club-vaag/)*
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/antwerp/club/club-vaag/)*

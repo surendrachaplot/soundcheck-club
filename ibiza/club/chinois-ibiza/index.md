@@ -1,14 +1,13 @@
 # Chinois Ibiza
 
-Chinois Ibiza is a music venue in Ibiza with 21 upcoming nights listed on soundcheck as of Fri, 18 Sept 2026; the next is "Major League Djz presents: DJEFF B2B Fiona Kraft, Jonathan Kaspar, SAMA" on Fri, 18 Sept 2026.
+Chinois Ibiza is a music venue in Ibiza with 20 upcoming nights listed on soundcheck as of Sat, 19 Sept 2026; the next is "The Masquerade: Claptone, Pete Tong, Alexander Som, Artche" on Sat, 19 Sept 2026.
 
-Chinois Ibiza is a music venue in Ibiza listed on soundcheck. 21 upcoming nights, with line-ups including Andrea Oliva, Antdot, Anthony James and Artche and 2 more. Browse upcoming dates, start times and who's playing. Passeig Joan Carles I, 17, 07800 Eivissa, Illes Balears, Spain.
+Chinois Ibiza is a music venue in Ibiza listed on soundcheck. 20 upcoming nights, with line-ups including Andrea Oliva, Antdot, Anthony James and Artche and 2 more. Browse upcoming dates, start times and who's playing. Passeig Joan Carles I, 17, 07800 Eivissa, Illes Balears, Spain.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 18 Sept 2026 | Major League Djz presents: DJEFF B2B Fiona Kraft, Jonathan Kaspar, SAMA | DJEFF, Fiona Kraft, Jonathan Kaspar, Major League Djz, SAMA (NL) |
 | Sat, 19 Sept 2026 | The Masquerade: Claptone, Pete Tong, Alexander Som, Artche | Artche, Claptone, Pete Tong |
 | Sun, 20 Sept 2026 | Bedouin presents SAGA | Bedouin |
 | Mon, 21 Sept 2026 | La Troya: Hannah Wants, Jodie Harsh, Oscar Colorado, RAMPINI | Hannah Wants, Jodie Harsh, Oscar Colorado |
@@ -18,9 +17,10 @@ Chinois Ibiza is a music venue in Ibiza listed on soundcheck. 21 upcoming nights
 | Sun, 27 Sept 2026 | Bedouin presents SAGA | Bedouin |
 | Mon, 28 Sept 2026 | La Troya: Harry Romero, Oscar Colorado, Sanchez, Silven | Harry Romero, Oscar Colorado, Sanchez, Silven |
 | Wed, 30 Sept 2026 | Trip: Traumer, Margaret Dygas, Maher Daniel, Mau BB | Maher Daniel, Margaret Dygas, Traumer |
+| Thu, 1 Oct 2026 | Defected: Hannah Wants, Low Steppa, Monki, Sam Divine,Andrea Lane | Hannah Wants, Lowsteppa, Monki, Sam Divine |
 
 ## Address
 
 Passeig Joan Carles I, 17, 07800 Eivissa, Illes Balears, Spain, Ibiza
 
-*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/ibiza/club/chinois-ibiza/)*
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/ibiza/club/chinois-ibiza/)*

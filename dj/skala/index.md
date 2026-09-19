@@ -1,6 +1,6 @@
 # SKALA
 
-SKALA is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 18 Sept 2026, next at Signal, New York City on Sat, 17 Oct 2026.
+SKALA is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sat, 19 Sept 2026, next at Signal, New York City on Sat, 17 Oct 2026.
 
 SKALA is a techno and house artist tracked on soundcheck, with 91 sets logged across Amsterdam, Athens, Barcelona and Berlin and 20 more. Often billed alongside Theologos, ELIF and Mila Stern. Next up: Signal, Newyorkcity on Sat 17 Oct.
 
@@ -26,4 +26,4 @@ SKALA is a techno and house artist tracked on soundcheck, with 91 sets logged ac
 
 Theologos, ELIF, Mila Stern
 
-*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/skala/)*
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/skala/)*

@@ -1,6 +1,6 @@
 # Junki Inoue
 
-Junki Inoue is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Fri, 18 Sept 2026, next at FOLD, London on Sat, 26 Sept 2026.
+Junki Inoue is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Sat, 19 Sept 2026, next at FOLD, London on Sat, 26 Sept 2026.
 
 Junki Inoue is a house and techno artist tracked on soundcheck, with 126 sets logged across Amsterdam, Bangkok, Barcelona and Berlin and 27 more. Often billed alongside Unai Trotti, Vass and Z@p. Next up: FOLD, London on Sat 26 Sept.
 
@@ -27,4 +27,4 @@ Junki Inoue is a house and techno artist tracked on soundcheck, with 126 sets lo
 
 Unai Trotti, Vass, Z@p
 
-*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/junkiinoue/)*
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/junkiinoue/)*

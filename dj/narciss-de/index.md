@@ -1,14 +1,14 @@
 # Narciss
 
-Narciss is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Fri, 18 Sept 2026, next at TBA, Hamburg on Fri, 2 Oct 2026.
+Narciss is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Sat, 19 Sept 2026, next at TBA - Glimmer,  Stockmeyerstraße 43, 20457 Hamburg, Hamburg on Fri, 2 Oct 2026.
 
-Narciss is a techno and house artist tracked on soundcheck, with 196 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 54 more. Often billed alongside MALUGI, DJ Gigola and Morphena. Next up: TBA, Hamburg on Fri 2 Oct.
+Narciss is a techno and house artist tracked on soundcheck, with 196 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 54 more. Often billed alongside MALUGI, DJ Gigola and Morphena. Next up: TBA - Glimmer,  Stockmeyerstraße 43, 20457 Hamburg, Hamburg on Fri 2 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 2 Oct 2026 | TBA | Hamburg |
+| Fri, 2 Oct 2026 | TBA - Glimmer,  Stockmeyerstraße 43, 20457 Hamburg | Hamburg |
 | Sat, 10 Oct 2026 | BASIS | Utrecht |
 | Sat, 17 Oct 2026 | Azimut Club | Turin |
 | Fri, 6 Nov 2026 | TBA - Los Angeles | Los Angeles |
@@ -29,4 +29,4 @@ Narciss is a techno and house artist tracked on soundcheck, with 196 sets logged
 
 MALUGI, DJ Gigola, Morphena
 
-*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/narciss-de/)*
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/narciss-de/)*

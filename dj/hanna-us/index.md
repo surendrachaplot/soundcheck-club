@@ -1,6 +1,6 @@
 # Hanna
 
-Hanna is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 18 Sept 2026, next at Meteor Studio, Tbilisi on Sat, 19 Sept 2026.
+Hanna is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 19 Sept 2026, next at Meteor Studio, Tbilisi on Sat, 19 Sept 2026.
 
 Hanna is a house and techno artist tracked on soundcheck, with 6 sets logged across Bali, Chicago, Hamburg and Madrid and 2 more. Often billed alongside Ariana, Derrick Carter and HIMAWARI. Next up: Meteor Studio, Tbilisi on Sat 19 Sept.
 
@@ -22,4 +22,4 @@ Hanna is a house and techno artist tracked on soundcheck, with 6 sets logged acr
 
 Ariana, Derrick Carter, HIMAWARI
 
-*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/hanna-us/)*
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/hanna-us/)*

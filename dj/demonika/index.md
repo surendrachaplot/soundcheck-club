@@ -1,6 +1,6 @@
 # Demonika
 
-Demonika is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 18 Sept 2026, next at Fuchs2, Prague on Fri, 9 Oct 2026.
+Demonika is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sat, 19 Sept 2026, next at Fuchs2, Prague on Fri, 9 Oct 2026.
 
 Demonika is a techno and house artist based in Czech Republic, tracked on soundcheck, with 69 sets logged across Berlin, Nantes and Prague. Often billed alongside Shurigen, Raphael Kosmos and SJ Yellow. Next up: Fuchs2, Prague on Fri 9 Oct.
 
@@ -26,4 +26,4 @@ Demonika is a techno and house artist based in Czech Republic, tracked on soundc
 
 Shurigen, Raphael Kosmos, SJ Yellow
 
-*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/demonika/)*
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/demonika/)*

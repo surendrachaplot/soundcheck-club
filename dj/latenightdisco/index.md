@@ -1,6 +1,6 @@
 # Late Night Disco
 
-Late Night Disco is a Disco and House artist with 1 upcoming club date listed on soundcheck as of Fri, 18 Sept 2026, next at Two More Years, London on Sat, 10 Oct 2026.
+Late Night Disco is a Disco and House artist with 1 upcoming club date listed on soundcheck as of Sat, 19 Sept 2026, next at Two More Years, London on Sat, 10 Oct 2026.
 
 Late Night Disco is a disco and house artist based in United Kingdom, tracked on soundcheck, with 70 sets logged across Brighton and London. Often billed alongside Suka Meneri, Another George and Greg Middleton. Next up: Two More Years, London on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ Late Night Disco is a disco and house artist based in United Kingdom, tracked on
 
 Suka Meneri, Another George, Greg Middleton
 
-*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/latenightdisco/)*
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/latenightdisco/)*

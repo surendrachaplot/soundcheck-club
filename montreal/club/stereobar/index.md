@@ -1,14 +1,13 @@
 # StereoBar
 
-StereoBar is a music venue in Montreal with 6 upcoming nights listed on soundcheck as of Fri, 18 Sept 2026; the next is "Claude Von Stroke - Ced Ullberg" on Fri, 18 Sept 2026.
+StereoBar is a music venue in Montreal with 5 upcoming nights listed on soundcheck as of Sat, 19 Sept 2026; the next is "Amper x SB: Prïa - Zac Martel - Lost Heroes" on Sat, 19 Sept 2026.
 
-StereoBar is a music venue in Montreal listed on soundcheck. 6 upcoming nights, with line-ups including Claude VonStroke, Colmee, Eli Escobar and Freeman and 2 more. Browse upcoming dates, start times and who's playing. 856 Saint Catherine East, Montreal, Quebec, H2L2E3.
+StereoBar is a music venue in Montreal listed on soundcheck. 5 upcoming nights, with line-ups including Colmee, Eli Escobar, Freeman and Laurence Matte and 2 more. Browse upcoming dates, start times and who's playing. 856 Saint Catherine East, Montreal, Quebec, H2L2E3.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 18 Sept 2026 | Claude Von Stroke - Ced Ullberg | Claude VonStroke |
 | Sat, 19 Sept 2026 | Amper x SB: Prïa - Zac Martel - Lost Heroes | Lost Heroes, Prïa, Zac Martel |
 | Sun, 20 Sept 2026 | LBD: Napo Lugo - Colmee b2b Freeman | Colmee, Freeman, Napo Lugo |
 | Fri, 25 Sept 2026 | Eli Escobar - Laurence Matte | Eli Escobar, Laurence Matte |
@@ -19,4 +18,4 @@ StereoBar is a music venue in Montreal listed on soundcheck. 6 upcoming nights, 
 
 856 Saint Catherine East, Montreal, Quebec, H2L2E3, Montreal
 
-*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/montreal/club/stereobar/)*
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/montreal/club/stereobar/)*

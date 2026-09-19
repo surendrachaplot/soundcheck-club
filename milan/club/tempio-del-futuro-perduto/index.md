@@ -1,14 +1,13 @@
 # Tempio del Futuro Perduto
 
-Tempio del Futuro Perduto is a music venue in Milan with 23 upcoming nights listed on soundcheck as of Fri, 18 Sept 2026; the next is "Oriental Techno Garden - 東極玄音花園: Max Shen, Night Swimmer, Zenyee" on Fri, 18 Sept 2026.
+Tempio del Futuro Perduto is a music venue in Milan with 22 upcoming nights listed on soundcheck as of Sat, 19 Sept 2026; the next is "HARDGROOVE PARK CLOSING: Kora Lyssa, Marthial, cccre, Iacopo Carli" on Sat, 19 Sept 2026.
 
-Tempio del Futuro Perduto is a music venue in Milan listed on soundcheck. 23 upcoming nights, with line-ups including Manuel Di Martino, Acidalia, ÆQUAL and Alfa Cornae and 2 more. Browse upcoming dates, start times and who's playing. via Luigi Nono 9 20100 Milan, Italy.
+Tempio del Futuro Perduto is a music venue in Milan listed on soundcheck. 22 upcoming nights, with line-ups including Manuel Di Martino, Acidalia, ÆQUAL and Alfa Cornae and 2 more. Browse upcoming dates, start times and who's playing. via Luigi Nono 9 20100 Milan, Italy.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 18 Sept 2026 | Oriental Techno Garden - 東極玄音花園: Max Shen, Night Swimmer, Zenyee | Max Shen, Night Swimmer, Zenyee |
 | Sat, 19 Sept 2026 | HARDGROOVE PARK CLOSING: Kora Lyssa, Marthial, cccre, Iacopo Carli | Iacopo Carli, Kora Lyssa, Marthial, cccre |
 | Sun, 20 Sept 2026 | VANDALS 2: Metallo e Cemento presenta OTR / GENTE GUASTA |  |
 | Fri, 25 Sept 2026 | Oriental Techno Garden - 東極玄音花園: KINTEL, ZHAZHA WANG, Shū | KINTEL, SHŪ (1), ZHAZHA WANG |
@@ -18,9 +17,10 @@ Tempio del Futuro Perduto is a music venue in Milan listed on soundcheck. 23 upc
 | Sat, 3 Oct 2026 | NOTTE TEKNO: Stiwie (MayDay Soundystem), Dolce Potente, DTS live, Atmosphreal | Atmosphreal, DRUM THE SYSTEM live, Dolce Potente |
 | Thu, 8 Oct 2026 | Tempio Radio Notturna x Qloom: GLEDIS, Matteo Wnb, ZATAC | GLEDIS, ZATAC |
 | Fri, 9 Oct 2026 | Oriental Techno Club - 東極玄音寺: Icey Planet, Raeya Chen, DÅwN | DÅwN, Icey Planet, Raeya Chen |
+| Sat, 10 Oct 2026 | RESISTANCE: Danny Wabbit, Kora Lyssa, cccre, Marthial, Iacopo Carli | Danny Wabbit, Iacopo Carli, Kora Lyssa, Marthial, cccre |
 
 ## Address
 
 via Luigi Nono 9 20100 Milan, Italy, Milan
 
-*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/milan/club/tempio-del-futuro-perduto/)*
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/milan/club/tempio-del-futuro-perduto/)*

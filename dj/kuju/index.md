@@ -1,6 +1,6 @@
 # kuju
 
-kuju is a electronic artist with 1 upcoming club date listed on soundcheck as of Fri, 18 Sept 2026, next at Bike Jesus, Prague on Fri, 25 Sept 2026.
+kuju is a electronic artist with 1 upcoming club date listed on soundcheck as of Sat, 19 Sept 2026, next at Bike Jesus, Prague on Fri, 25 Sept 2026.
 
 kuju is an electronic artist based in Czech Republic, tracked on soundcheck, with 11 sets logged across Prague. Often billed alongside Ark3r, De Mode and 2NDRA. Next up: Bike Jesus, Prague on Fri 25 Sept.
 
@@ -25,4 +25,4 @@ kuju is an electronic artist based in Czech Republic, tracked on soundcheck, wit
 
 Ark3r, De Mode, 2NDRA
 
-*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kuju/)*
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kuju/)*

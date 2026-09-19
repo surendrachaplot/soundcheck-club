@@ -1,6 +1,6 @@
 # Noach
 
-Noach is a House and Ghetto Tech artist with 1 upcoming club date listed on soundcheck as of Fri, 18 Sept 2026, next at BRET, Amsterdam on Sun, 20 Sept 2026.
+Noach is a House and Ghetto Tech artist with 1 upcoming club date listed on soundcheck as of Sat, 19 Sept 2026, next at BRET, Amsterdam on Sun, 20 Sept 2026.
 
 Noach is a house and ghetto tech artist tracked on soundcheck, with 53 sets logged across Amsterdam, Berlin, Hamburg and Leeds and 3 more. Often billed alongside Job de Jong, Reiss and Morgan. Next up: BRET, Amsterdam on Sun 20 Sept.
 
@@ -25,4 +25,4 @@ Noach is a house and ghetto tech artist tracked on soundcheck, with 53 sets logg
 
 Job de Jong, Reiss, Morgan
 
-*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/noach/)*
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/noach/)*

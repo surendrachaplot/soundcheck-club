@@ -1,6 +1,6 @@
 # Kate Hex
 
-Kate Hex is a Techno and Psytrance artist with 1 upcoming club date listed on soundcheck as of Fri, 18 Sept 2026, next at ÆDEN, Berlin on Fri, 18 Sept 2026.
+Kate Hex is a Techno and Psytrance artist with 1 upcoming club date listed on soundcheck as of Sat, 19 Sept 2026, next at ÆDEN, Berlin on Fri, 18 Sept 2026.
 
 Kate Hex is a techno and psytrance artist tracked on soundcheck, with 8 sets logged across Berlin, Budapest, London and Sydney. Often billed alongside NoNameLeft, Ele Luz and Karim Alkhayat. Next up: ÆDEN, Berlin on Fri 18 Sept.
 
@@ -12,6 +12,7 @@ Kate Hex is a techno and psytrance artist tracked on soundcheck, with 8 sets log
 
 ## Recently played
 
+- ÆDEN, Berlin — Fri, 18 Sept 2026
 - Kassa Boat, Budapest — Sat, 6 Jun 2026
 - Späti 030, Berlin — Tue, 30 Dec 2025
 - Egg London, London — Fri, 26 Dec 2025
@@ -24,4 +25,4 @@ Kate Hex is a techno and psytrance artist tracked on soundcheck, with 8 sets log
 
 NoNameLeft, Ele Luz, Karim Alkhayat
 
-*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/katehex/)*
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/katehex/)*

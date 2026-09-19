@@ -1,6 +1,6 @@
 # Drao
 
-Drao is a Bass and Experimental artist with 1 upcoming club date listed on soundcheck as of Fri, 18 Sept 2026, next at control, Bucharest on Sat, 19 Sept 2026.
+Drao is a Bass and Experimental artist with 1 upcoming club date listed on soundcheck as of Sat, 19 Sept 2026, next at control, Bucharest on Sat, 19 Sept 2026.
 
 Drao is a bass and experimental artist tracked on soundcheck, with 5 sets logged across Bucharest. Often billed alongside ANIN, Riddim Bandits and 1000bodies. Next up: control, Bucharest on Sat 19 Sept.
 
@@ -21,4 +21,4 @@ Drao is a bass and experimental artist tracked on soundcheck, with 5 sets logged
 
 ANIN, Riddim Bandits, 1000bodies
 
-*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/drao/)*
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/drao/)*

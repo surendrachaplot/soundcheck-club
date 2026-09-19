@@ -1,6 +1,6 @@
 # Qoso
 
-Qoso is a Techno and Hardcore artist with 1 upcoming club date listed on soundcheck as of Fri, 18 Sept 2026, next at Fort Mifflin, Philadelphia on Fri, 18 Sept 2026.
+Qoso is a Techno and Hardcore artist with 1 upcoming club date listed on soundcheck as of Sat, 19 Sept 2026, next at Fort Mifflin, Philadelphia on Fri, 18 Sept 2026.
 
 Qoso is a techno and hardcore artist tracked on soundcheck, with 7 sets logged across Paris and Philadelphia. Often billed alongside Hajj, 1morning and Alex Zhang Hungtai. Next up: Fort Mifflin, Philadelphia on Fri 18 Sept.
 
@@ -12,6 +12,7 @@ Qoso is a techno and hardcore artist tracked on soundcheck, with 7 sets logged a
 
 ## Recently played
 
+- Fort Mifflin, Philadelphia — Fri, 18 Sept 2026
 - Mains D'œuvres, Paris — Sat, 13 Jun 2026
 - TBA - Dar Zin, 27 rue Pierre Mauroy, Paris — Sat, 25 Apr 2026
 - Point Ephémère, Paris — Sat, 1 Jun 2024
@@ -23,4 +24,4 @@ Qoso is a techno and hardcore artist tracked on soundcheck, with 7 sets logged a
 
 Hajj, 1morning, Alex Zhang Hungtai
 
-*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/qoso/)*
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/qoso/)*

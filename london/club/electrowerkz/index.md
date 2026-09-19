@@ -1,15 +1,13 @@
 # Electrowerkz
 
-Electrowerkz is a music venue in London with 8 upcoming nights listed on soundcheck as of Fri, 18 Sept 2026; the next is "To The Left" on Fri, 18 Sept 2026.
+Electrowerkz is a music venue in London with 6 upcoming nights listed on soundcheck as of Sat, 19 Sept 2026; the next is "ELECTRO ROCKS" on Fri, 2 Oct 2026.
 
-Electrowerkz is a music venue in London listed on soundcheck. 8 upcoming nights, with line-ups including AyChibs, CHEZA LUCINA, Dj.Malefica and Donnie Sunshine and 2 more. Browse upcoming dates, start times and who's playing. 7 Torrens Street; Islington; London EC1V 1NQ; United Kingdom.
+Electrowerkz is a music venue in London listed on soundcheck. 6 upcoming nights, with line-ups including CHEZA LUCINA, Dj.Malefica, Ricardo Castro and Steve Weeks. Browse upcoming dates, start times and who's playing. 7 Torrens Street; Islington; London EC1V 1NQ; United Kingdom.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 18 Sept 2026 | To The Left | AyChibs, Donnie Sunshine, Mayowa |
-| Fri, 18 Sept 2026 | HUNTER: BERLIN BACKLASH |  |
 | Fri, 2 Oct 2026 | ELECTRO ROCKS |  |
 | Sat, 3 Oct 2026 | LOADED - FULL FETISH NIGHT |  |
 | Sun, 4 Oct 2026 | Riot London October | CHEZA LUCINA |
@@ -21,4 +19,4 @@ Electrowerkz is a music venue in London listed on soundcheck. 8 upcoming nights,
 
 7 Torrens Street; Islington; London EC1V 1NQ; United Kingdom, London
 
-*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/electrowerkz/)*
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/electrowerkz/)*

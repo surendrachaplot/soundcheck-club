@@ -1,14 +1,15 @@
 # Pysh
 
-Pysh is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 18 Sept 2026, next at OCZKI, Warsaw on Sat, 19 Sept 2026.
+Pysh is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sat, 19 Sept 2026, next at OCZKI, Warsaw on Sat, 19 Sept 2026.
 
-Pysh is a techno and house artist tracked on soundcheck, with 33 sets logged across Berlin, Krakow, Prague and Stuttgart and 1 more. Often billed alongside Kuvau, Angelo Mike and Sincz. Next up: OCZKI, Warsaw on Sat 19 Sept.
+Pysh is a techno and house artist tracked on soundcheck, with 34 sets logged across Berlin, Krakow, Prague and Stuttgart and 1 more. Often billed alongside Kuvau, Angelo Mike and Sincz. Next up: OCZKI, Warsaw on Sat 19 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 19 Sept 2026 | OCZKI | Warsaw |
+| Thu, 24 Sept 2026 | Klunkerkranich | Berlin |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Pysh is a techno and house artist tracked on soundcheck, with 33 sets logged acr
 
 Kuvau, Angelo Mike, Sincz
 
-*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/pysh/)*
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/pysh/)*

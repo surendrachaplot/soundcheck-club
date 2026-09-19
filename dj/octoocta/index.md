@@ -1,6 +1,6 @@
 # Octo Octa
 
-Octo Octa is a House and Techno artist with 14 upcoming club dates listed on soundcheck as of Fri, 18 Sept 2026, next at Fort Mifflin, Philadelphia on Fri, 18 Sept 2026.
+Octo Octa is a House and Techno artist with 14 upcoming club dates listed on soundcheck as of Sat, 19 Sept 2026, next at Fort Mifflin, Philadelphia on Fri, 18 Sept 2026.
 
 Octo Octa is a house and techno artist tracked on soundcheck, with 205 sets logged across Amsterdam, Antwerp, Bali and Barcelona and 57 more. Often billed alongside Eris Drew, ISAbella and CCL. Next up: Fort Mifflin, Philadelphia on Fri 18 Sept.
 
@@ -23,6 +23,7 @@ Octo Octa is a house and techno artist tracked on soundcheck, with 205 sets logg
 
 ## Recently played
 
+- Fort Mifflin, Philadelphia — Fri, 18 Sept 2026
 - The Cause, London — Sat, 12 Sept 2026
 - 528 Ibiza, Ibiza — Tue, 1 Sept 2026
 - Southwark Park, London — Sun, 30 Aug 2026
@@ -30,10 +31,9 @@ Octo Octa is a house and techno artist tracked on soundcheck, with 205 sets logg
 - Amsterdamse Bos, Amsterdam — Sun, 2 Aug 2026
 - Amsterdamse Bos, Amsterdam — Sat, 1 Aug 2026
 - Amsterdamse Bos, Amsterdam — Wed, 29 Jul 2026
-- The White Hotel, Manchester — Sun, 26 Jul 2026
 
 ## Shares bills with
 
 Eris Drew, ISAbella, CCL
 
-*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/octoocta/)*
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/octoocta/)*

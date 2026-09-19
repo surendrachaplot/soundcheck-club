@@ -1,15 +1,15 @@
 # F8 1192 Folsom
 
-F8 1192 Folsom is a music venue in San Francisco/Oakland with 19 upcoming nights listed on soundcheck as of Fri, 18 Sept 2026; the next is "Matt Jereza presents: PORTOLA PRE-PARTY" on Fri, 18 Sept 2026.
+F8 1192 Folsom is a music venue in San Francisco/Oakland with 19 upcoming nights listed on soundcheck as of Sat, 19 Sept 2026; the next is "Generaiderz X LOTEK: HARDCORE! LEXXY JAX, FORTIFIED STRUCTURES, KIMMYKAT" on Sat, 19 Sept 2026.
 
-F8 1192 Folsom is a music venue in Sanfrancisco listed on soundcheck. 19 upcoming nights, with line-ups including 888Thieves, ALEX GOODCAT, Alkemiss Erika and Amino and 2 more. Browse upcoming dates, start times and who's playing. 1192 Folsom St, San Francisco, CA 94103.
+F8 1192 Folsom is a music venue in Sanfrancisco listed on soundcheck. 19 upcoming nights, with line-ups including ALEX GOODCAT, Alkemiss Erika, Amino and ANCARCO and 2 more. Browse upcoming dates, start times and who's playing. 1192 Folsom St, San Francisco, CA 94103.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 18 Sept 2026 | Matt Jereza presents: PORTOLA PRE-PARTY | 888Thieves, HONEYD1P, saladbar |
 | Sat, 19 Sept 2026 | Generaiderz X LOTEK: HARDCORE! LEXXY JAX, FORTIFIED STRUCTURES, KIMMYKAT | Dope On Plastic, FortifiedStructures, Lexxy Jax, Queermom, Soeneido, Technopagan |
+| Sun, 20 Sept 2026 | Stamina presents Lost City |  |
 | Tue, 22 Sept 2026 | INTERZONE - Cyber Night - DJs KAJE, Hopelesss & Byter | Byter, Hopelesss, KAJE |
 | Wed, 23 Sept 2026 | Strut SF and F8 present Tara Brooks | Tara Brooks |
 | Thu, 24 Sept 2026 | Teego SF presents Afro Thursdays | ALEX GOODCAT, HIDRA, PADRE BLESS |
@@ -23,4 +23,4 @@ F8 1192 Folsom is a music venue in Sanfrancisco listed on soundcheck. 19 upcomin
 
 1192 Folsom St, San Francisco, CA 94103, San Francisco/Oakland
 
-*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/f8-1192-folsom/)*
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/f8-1192-folsom/)*

@@ -1,6 +1,6 @@
 # AND1 (2)
 
-AND1 (2) is a House and Club artist with 2 upcoming club dates listed on soundcheck as of Fri, 18 Sept 2026, next at Kockiri, Seoul on Sat, 19 Sept 2026.
+AND1 (2) is a House and Club artist with 2 upcoming club dates listed on soundcheck as of Sat, 19 Sept 2026, next at Kockiri, Seoul on Sat, 19 Sept 2026.
 
 AND1 (2) is a house and club artist tracked on soundcheck, with 4 sets logged across Bucharest and Seoul. Often billed alongside Constratti, Dece. and Jucid. Next up: Kockiri, Seoul on Sat 19 Sept.
 
@@ -20,4 +20,4 @@ AND1 (2) is a house and club artist tracked on soundcheck, with 4 sets logged ac
 
 Constratti, Dece., Jucid
 
-*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/and1-2/)*
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/and1-2/)*

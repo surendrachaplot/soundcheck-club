@@ -1,18 +1,18 @@
 # Misha Jaru
 
-Misha Jaru is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 18 Sept 2026, next at Fuchs2, Prague on Fri, 18 Sept 2026.
+Misha Jaru is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 19 Sept 2026, next at Bike Jesus, Prague on Sat, 26 Sept 2026.
 
-Misha Jaru is a techno and house artist tracked on soundcheck, with 65 sets logged across Berlin and Prague. Often billed alongside S.Tian, Feenicks and Dash (CZ). Next up: Fuchs2, Prague on Fri 18 Sept.
+Misha Jaru is a techno and house artist tracked on soundcheck, with 65 sets logged across Berlin and Prague. Often billed alongside S.Tian, Feenicks and Dash (CZ). Next up: Bike Jesus, Prague on Sat 26 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 18 Sept 2026 | Fuchs2 | Prague |
 | Sat, 26 Sept 2026 | Bike Jesus | Prague |
 
 ## Recently played
 
+- Fuchs2, Prague — Fri, 18 Sept 2026
 - Mystic Skatepark, Prague — Sat, 5 Sept 2026
 - Trojský Pivovar, Prague — Sat, 22 Aug 2026
 - Fuchs2, Prague — Sat, 15 Aug 2026
@@ -20,10 +20,9 @@ Misha Jaru is a techno and house artist tracked on soundcheck, with 65 sets logg
 - Bike Jesus, Prague — Sat, 18 Jul 2026
 - Bukanyr Boat, Prague — Fri, 17 Jul 2026
 - Bike Jesus, Prague — Fri, 3 Jul 2026
-- Bike Jesus, Prague — Fri, 26 Jun 2026
 
 ## Shares bills with
 
 S.Tian, Feenicks, Dash (CZ)
 
-*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mishajaru/)*
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mishajaru/)*

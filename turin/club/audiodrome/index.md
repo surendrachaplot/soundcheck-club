@@ -1,6 +1,6 @@
 # Audiodrome
 
-Audiodrome is a music venue in Turin with 4 upcoming nights listed on soundcheck as of Fri, 18 Sept 2026; the next is "NATTE VISSTICK for OVER OPENING PARTY" on Fri, 25 Sept 2026.
+Audiodrome is a music venue in Turin with 4 upcoming nights listed on soundcheck as of Sat, 19 Sept 2026; the next is "NATTE VISSTICK for OVER OPENING PARTY" on Fri, 25 Sept 2026.
 
 Audiodrome is a music venue in Turin listed on soundcheck. 4 upcoming nights, with line-ups including CLTX, Gandalf, Mirko Motta and Pegassi and 1 more. Browse upcoming dates, start times and who's playing. Strada Mongina 9, 10024 Moncalieri (TO), Italy.
 
@@ -17,4 +17,4 @@ Audiodrome is a music venue in Turin listed on soundcheck. 4 upcoming nights, wi
 
 Strada Mongina 9, 10024 Moncalieri (TO), Italy, Turin
 
-*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/turin/club/audiodrome/)*
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/turin/club/audiodrome/)*

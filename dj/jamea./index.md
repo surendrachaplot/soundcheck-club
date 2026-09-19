@@ -1,6 +1,6 @@
 # jamea.
 
-jamea. is a Techno and Club artist with 2 upcoming club dates listed on soundcheck as of Fri, 18 Sept 2026, next at Northern Lights Lounge, Detroit on Sat, 19 Sept 2026.
+jamea. is a Techno and Club artist with 2 upcoming club dates listed on soundcheck as of Sat, 19 Sept 2026, next at Northern Lights Lounge, Detroit on Sat, 19 Sept 2026.
 
 jamea. is a techno and club artist tracked on soundcheck, with 48 sets logged across Chicago, Detroit, Nashville and Newyorkcity. Often billed alongside we1sman, Wax Assassin and Ember LaFiamma. Next up: Northern Lights Lounge, Detroit on Sat 19 Sept.
 
@@ -26,4 +26,4 @@ jamea. is a techno and club artist tracked on soundcheck, with 48 sets logged ac
 
 we1sman, Wax Assassin, Ember LaFiamma
 
-*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jamea./)*
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jamea./)*

@@ -1,8 +1,8 @@
 # ARMANDO
 
-ARMANDO is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 18 Sept 2026, next at Gaffe, London on Sat, 17 Oct 2026.
+ARMANDO is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Sat, 19 Sept 2026, next at Gaffe, London on Sat, 17 Oct 2026.
 
-ARMANDO is a techno and house artist tracked on soundcheck, with 31 sets logged across London, Milan and Stuttgart. Often billed alongside IKIIR, Hertz Collision and Lady Goccia. Next up: Gaffe, London on Sat 17 Oct.
+ARMANDO is a techno and house artist tracked on soundcheck, with 32 sets logged across London, Milan and Stuttgart. Often billed alongside IKIIR, Hertz Collision and Lady Goccia. Next up: Gaffe, London on Sat 17 Oct.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ ARMANDO is a techno and house artist tracked on soundcheck, with 31 sets logged 
 | --- | --- | --- |
 | Sat, 17 Oct 2026 | Gaffe | London |
 | Sun, 18 Oct 2026 | NUMBER 90 LONDON | London |
+| Fri, 18 Dec 2026 | Gate Milano | Milan |
 
 ## Recently played
 
@@ -26,4 +27,4 @@ ARMANDO is a techno and house artist tracked on soundcheck, with 31 sets logged 
 
 IKIIR, Hertz Collision, Lady Goccia
 
-*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/armando/)*
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/armando/)*

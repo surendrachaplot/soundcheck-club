@@ -1,13 +1,14 @@
 # Broken Hill
 
-Broken Hill is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 18 Sept 2026, next at Q Nightclub, Seattle on Thu, 22 Oct 2026.
+Broken Hill is a House and Tech House artist with 3 upcoming club dates listed on soundcheck as of Sat, 19 Sept 2026, next at Bsmnt, Boston on Sat, 19 Sept 2026.
 
-Broken Hill is a house and techno artist based in Spain, tracked on soundcheck, with 17 sets logged across Barcelona, Denver, Houston and Ibiza and 7 more. Often billed alongside OMRI., ANNA and BLOND:ISH. Next up: Q Nightclub, Seattle on Thu 22 Oct.
+Broken Hill is a house and tech house artist based in Spain, tracked on soundcheck, with 18 sets logged across Barcelona, Boston, Denver and Houston and 8 more. Often billed alongside OMRI., ANNA and BLOND:ISH. Next up: Bsmnt, Boston on Sat 19 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 19 Sept 2026 | Bsmnt | Boston |
 | Thu, 22 Oct 2026 | Q Nightclub | Seattle |
 | Fri, 23 Oct 2026 | Club Vinyl | Denver |
 
@@ -26,4 +27,4 @@ Broken Hill is a house and techno artist based in Spain, tracked on soundcheck, 
 
 OMRI., ANNA, BLOND:ISH
 
-*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/brokenhill/)*
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/brokenhill/)*

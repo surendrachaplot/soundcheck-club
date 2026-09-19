@@ -1,13 +1,14 @@
 # avoN
 
-avoN is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 18 Sept 2026, next at Culture Box, Copenhagen on Sat, 10 Oct 2026.
+avoN is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sat, 19 Sept 2026, next at Jolene, Copenhagen on Thu, 24 Sept 2026.
 
-avoN is a techno and house artist tracked on soundcheck, with 26 sets logged across Copenhagen. Often billed alongside Kardinal Bertram, vazkez and ASTA MARI. Next up: Culture Box, Copenhagen on Sat 10 Oct.
+avoN is a techno and house artist tracked on soundcheck, with 27 sets logged across Copenhagen. Often billed alongside Kardinal Bertram, vazkez and ASTA MARI. Next up: Jolene, Copenhagen on Thu 24 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Thu, 24 Sept 2026 | Jolene | Copenhagen |
 | Sat, 10 Oct 2026 | Culture Box | Copenhagen |
 
 ## Recently played
@@ -25,4 +26,4 @@ avoN is a techno and house artist tracked on soundcheck, with 26 sets logged acr
 
 Kardinal Bertram, vazkez, ASTA MARI
 
-*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/avon/)*
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/avon/)*

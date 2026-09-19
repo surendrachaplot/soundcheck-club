@@ -1,6 +1,6 @@
 # Catalina
 
-Catalina is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 18 Sept 2026, next at Fuse, Brussels on Sat, 31 Oct 2026.
+Catalina is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 19 Sept 2026, next at Fuse, Brussels on Sat, 31 Oct 2026.
 
 Catalina is a house and techno artist tracked on soundcheck, with 61 sets logged across Antwerp, Brussels, Copenhagen and Ghent and 4 more. Often billed alongside Zouzibabe, DC Salas and Dana Kuehr. Next up: Fuse, Brussels on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Catalina is a house and techno artist tracked on soundcheck, with 61 sets logged
 
 Zouzibabe, DC Salas, Dana Kuehr
 
-*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/catalina/)*
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/catalina/)*

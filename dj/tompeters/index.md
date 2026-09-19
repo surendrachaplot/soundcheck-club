@@ -1,8 +1,8 @@
 # Tom Peters
 
-Tom Peters is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Fri, 18 Sept 2026, next at Faust, Seoul on Wed, 23 Sept 2026.
+Tom Peters is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Sat, 19 Sept 2026, next at Faust, Seoul on Wed, 23 Sept 2026.
 
-Tom Peters is a techno and house artist based in Germany, tracked on soundcheck, with 104 sets logged across Amsterdam, Antwerp, Bangkok and Barcelona and 14 more. Often billed alongside B-VERS, Bertolt Meyer and Primal State. Next up: Faust, Seoul on Wed 23 Sept.
+Tom Peters is a techno and house artist based in Germany, tracked on soundcheck, with 105 sets logged across Amsterdam, Antwerp, Bangkok and Barcelona and 15 more. Often billed alongside B-VERS, Bertolt Meyer and Primal State. Next up: Faust, Seoul on Wed 23 Sept.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ Tom Peters is a techno and house artist based in Germany, tracked on soundcheck,
 | Wed, 23 Sept 2026 | Faust | Seoul |
 | Fri, 2 Oct 2026 | TBA | London |
 | Fri, 16 Oct 2026 | Horn | Bangkok |
+| Fri, 30 Oct 2026 | 24 Moons | Melbourne |
 | Sat, 14 Nov 2026 | Berghain / Panorama Bar / Säule | Berlin |
 
 ## Recently played
@@ -28,4 +29,4 @@ Tom Peters is a techno and house artist based in Germany, tracked on soundcheck,
 
 B-VERS, Bertolt Meyer, Primal State
 
-*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tompeters/)*
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tompeters/)*

@@ -1,6 +1,6 @@
 # FAF (1)
 
-FAF (1) is a House and Garage artist with 1 upcoming club date listed on soundcheck as of Fri, 18 Sept 2026, next at Northcote Theatre, Melbourne on Sat, 19 Sept 2026.
+FAF (1) is a House and Garage artist with 1 upcoming club date listed on soundcheck as of Sat, 19 Sept 2026, next at Northcote Theatre, Melbourne on Sat, 19 Sept 2026.
 
 FAF (1) is a house and garage artist based in Australia, tracked on soundcheck, with 10 sets logged across Madrid and Melbourne. Often billed alongside Anima Omada, Cosy (2) and Naycab. Next up: Northcote Theatre, Melbourne on Sat 19 Sept.
 
@@ -25,4 +25,4 @@ FAF (1) is a house and garage artist based in Australia, tracked on soundcheck, 
 
 Anima Omada, Cosy (2), Naycab
 
-*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/faf-1/)*
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/faf-1/)*

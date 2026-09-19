@@ -1,6 +1,6 @@
 # Resonance Halloween: Oscil / Uttaraa / Alter at Mr. Nancy’s
 
-Resonance Halloween: Oscil / Uttaraa / Alter at Mr. Nancy’s on Fri 30 Oct, Newyorkcity. 2 acts on the bill: alter.world and Oscil. Techno and Dub Techno. Preview the line-up and save it on soundcheck.
+Resonance Halloween: Oscil / Uttaraa / Alter at Mr. Nancy’s on Fri 30 Oct, Newyorkcity. 3 acts on the bill: alter.world, Oscil and Uttaraa. Techno and Dub Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -12,5 +12,6 @@ Resonance Halloween: Oscil / Uttaraa / Alter at Mr. Nancy’s on Fri 30 Oct, New
 
 - alter.world
 - Oscil
+- Uttaraa
 
 *Source: [soundcheck](https://soundcheck.club/e/2522037-resonance-halloween-oscil-uttaraa-alter-at-mr-nancy-s/)*

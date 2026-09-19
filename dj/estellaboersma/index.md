@@ -1,6 +1,6 @@
 # Estella Boersma
 
-Estella Boersma is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Fri, 18 Sept 2026, next at UNDERCITY, Seoul on Sat, 19 Sept 2026.
+Estella Boersma is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Sat, 19 Sept 2026, next at UNDERCITY, Seoul on Sat, 19 Sept 2026.
 
 Estella Boersma is a techno and house artist tracked on soundcheck, with 173 sets logged across Amsterdam, Antwerp, Athens and Austin and 56 more. Often billed alongside Patrick Mason, Daria Kolosova and Cera Khin. Next up: UNDERCITY, Seoul on Sat 19 Sept.
 
@@ -30,4 +30,4 @@ Estella Boersma is a techno and house artist tracked on soundcheck, with 173 set
 
 Patrick Mason, Daria Kolosova, Cera Khin
 
-*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/estellaboersma/)*
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/estellaboersma/)*

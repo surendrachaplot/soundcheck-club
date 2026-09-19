@@ -1,6 +1,6 @@
 # Lulannie
 
-Lulannie is a Deep House and House artist with 1 upcoming club date listed on soundcheck as of Fri, 18 Sept 2026, next at Jupiter Disco, New York City on Wed, 7 Oct 2026.
+Lulannie is a Deep House and House artist with 1 upcoming club date listed on soundcheck as of Sat, 19 Sept 2026, next at Jupiter Disco, New York City on Wed, 7 Oct 2026.
 
 Lulannie is a deep house and house artist based in Venezuela, tracked on soundcheck, with 8 sets logged across Athens, Newyorkcity and Tokyo. Often billed alongside Noah Prebish, SLEEPYLYCHEE and SOFIYA V. Next up: Jupiter Disco, Newyorkcity on Wed 7 Oct.
 
@@ -24,4 +24,4 @@ Lulannie is a deep house and house artist based in Venezuela, tracked on soundch
 
 Noah Prebish, SLEEPYLYCHEE, SOFIYA V
 
-*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lulannie/)*
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lulannie/)*

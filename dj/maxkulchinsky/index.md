@@ -1,6 +1,6 @@
 # Max Kulchinsky
 
-Max Kulchinsky is a House and Funk / Soul artist with 1 upcoming club date listed on soundcheck as of Fri, 18 Sept 2026, next at MAD Radio NYC, New York City on Sat, 19 Sept 2026.
+Max Kulchinsky is a House and Funk / Soul artist with 1 upcoming club date listed on soundcheck as of Sat, 19 Sept 2026, next at MAD Radio NYC, New York City on Sat, 19 Sept 2026.
 
 Max Kulchinsky is a house and funk / soul artist tracked on soundcheck, with 10 sets logged across Newyorkcity, Philadelphia and Tokyo. Often billed alongside Billy Bevevino, Funktion Two and Rasaaq. Next up: MAD Radio NYC, Newyorkcity on Sat 19 Sept.
 
@@ -25,4 +25,4 @@ Max Kulchinsky is a house and funk / soul artist tracked on soundcheck, with 10 
 
 Billy Bevevino, Funktion Two, Rasaaq
 
-*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/maxkulchinsky/)*
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/maxkulchinsky/)*

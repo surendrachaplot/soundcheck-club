@@ -1,14 +1,13 @@
 # La Machine Du Moulin Rouge
 
-La Machine Du Moulin Rouge is a music venue in Paris with 10 upcoming nights listed on soundcheck as of Fri, 18 Sept 2026; the next is "Galop Galop" on Fri, 18 Sept 2026.
+La Machine Du Moulin Rouge is a music venue in Paris with 9 upcoming nights listed on soundcheck as of Sat, 19 Sept 2026; the next is "Trendy" on Fri, 25 Sept 2026.
 
-La Machine Du Moulin Rouge is a music venue in Paris listed on soundcheck. 10 upcoming nights, with line-ups including AMAYO, amne, BETÏSES and Blood of Aza and 2 more. Browse upcoming dates, start times and who's playing. 90 boulevard de Clichy; 75018; Paris; France.
+La Machine Du Moulin Rouge is a music venue in Paris listed on soundcheck. 9 upcoming nights, with line-ups including AMAYO, amne, Blood of Aza and Chris Collins and 2 more. Browse upcoming dates, start times and who's playing. 90 boulevard de Clichy; 75018; Paris; France.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 18 Sept 2026 | Galop Galop | BETÏSES, Carla Schmitt, FLKN, LUNATIXX, Nevermind |
 | Fri, 25 Sept 2026 | Trendy | Rakoto 3000 |
 | Fri, 2 Oct 2026 | ZSONGO LA GOUMBE EDITION | Chris Collins |
 | Sat, 3 Oct 2026 | Lolita Pride Edition |  |
@@ -23,4 +22,4 @@ La Machine Du Moulin Rouge is a music venue in Paris listed on soundcheck. 10 up
 
 90 boulevard de Clichy; 75018; Paris; France, Paris
 
-*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/paris/club/la-machine-du-moulin-rouge/)*
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/paris/club/la-machine-du-moulin-rouge/)*

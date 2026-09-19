@@ -1,6 +1,6 @@
 # Karim Khelil
 
-Karim Khelil is a Experimental and Bass artist with 2 upcoming club dates listed on soundcheck as of Fri, 18 Sept 2026, next at 90mil, Berlin on Fri, 25 Sept 2026.
+Karim Khelil is a Experimental and Bass artist with 2 upcoming club dates listed on soundcheck as of Sat, 19 Sept 2026, next at 90mil, Berlin on Fri, 25 Sept 2026.
 
 Karim Khelil is an experimental and bass artist tracked on soundcheck, with 4 sets logged across Berlin. Often billed alongside Bernhard Hollinger, Hilary C/B and Reinartz. Next up: 90mil, Berlin on Fri 25 Sept.
 
@@ -20,4 +20,4 @@ Karim Khelil is an experimental and bass artist tracked on soundcheck, with 4 se
 
 Bernhard Hollinger, Hilary C/B, Reinartz
 
-*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/karimkhelil/)*
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/karimkhelil/)*

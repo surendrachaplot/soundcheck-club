@@ -1,8 +1,8 @@
 # Lil' Minx
 
-Lil' Minx is a Broken Beat and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 18 Sept 2026, next at Dahlia Stereo, Manchester on Sat, 26 Sept 2026.
+Lil' Minx is a Broken Beat and House artist with 3 upcoming club dates listed on soundcheck as of Sat, 19 Sept 2026, next at Dahlia Stereo, Manchester on Sat, 26 Sept 2026.
 
-Lil' Minx is a broken beat and house artist based in United Kingdom, tracked on soundcheck, with 15 sets logged across Brighton, London and Manchester. Often billed alongside Laura Jackson, Mr Scruff and Timo-G. Next up: Dahlia Stereo, Manchester on Sat 26 Sept.
+Lil' Minx is a broken beat and house artist based in United Kingdom, tracked on soundcheck, with 16 sets logged across Brighton, London and Manchester. Often billed alongside Laura Jackson, Mr Scruff and Timo-G. Next up: Dahlia Stereo, Manchester on Sat 26 Sept.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Lil' Minx is a broken beat and house artist based in United Kingdom, tracked on 
 | --- | --- | --- |
 | Sat, 26 Sept 2026 | Dahlia Stereo | Manchester |
 | Sat, 3 Oct 2026 | The Talleyrand | Manchester |
+| Thu, 8 Oct 2026 | renae | Manchester |
 
 ## Recently played
 
@@ -26,4 +27,4 @@ Lil' Minx is a broken beat and house artist based in United Kingdom, tracked on 
 
 Laura Jackson, Mr Scruff, Timo-G
 
-*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lilminx/)*
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lilminx/)*

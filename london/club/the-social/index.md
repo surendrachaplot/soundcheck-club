@@ -1,14 +1,13 @@
 # The Social
 
-The Social is a music venue in London with 11 upcoming nights listed on soundcheck as of Fri, 18 Sept 2026; the next is "LOCALISM: Heavenly Jukebox" on Fri, 18 Sept 2026.
+The Social is a music venue in London with 10 upcoming nights listed on soundcheck as of Sat, 19 Sept 2026; the next is "LOCALISM: Roxanne Roll & Alex Oxley" on Fri, 25 Sept 2026.
 
-The Social is a music venue in London listed on soundcheck. 11 upcoming nights, with line-ups including Abby Daze, Alex Oxley, Ben Repertoire and Brokenchord and 2 more. Browse upcoming dates, start times and who's playing. 5 Little Portland Street; Fitzrovia; London W1W 7JD; United Kingdom.
+The Social is a music venue in London listed on soundcheck. 10 upcoming nights, with line-ups including Abby Daze, Alex Oxley, Ben Repertoire and Brokenchord and 2 more. Browse upcoming dates, start times and who's playing. 5 Little Portland Street; Fitzrovia; London W1W 7JD; United Kingdom.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 18 Sept 2026 | LOCALISM: Heavenly Jukebox |  |
 | Fri, 25 Sept 2026 | LOCALISM: Roxanne Roll & Alex Oxley | Alex Oxley, Roxanne Roll |
 | Fri, 2 Oct 2026 | LOCALISM: NIGHT manoeuvres Takeover | NIGHT manoeuvres |
 | Fri, 9 Oct 2026 | LOCALISM |  |
@@ -18,9 +17,10 @@ The Social is a music venue in London listed on soundcheck. 11 upcoming nights, 
 | Fri, 23 Oct 2026 | LOCALISM | Richard Sen |
 | Fri, 30 Oct 2026 | LOCALISM: NIGHT manoeuvres Takeover | NIGHT manoeuvres |
 | Sat, 7 Nov 2026 | Timelines | Abby Daze, Ben Repertoire, Dj magic touch, Lemon D, Sicknote |
+| Sat, 7 Nov 2026 | SILO |  |
 
 ## Address
 
 5 Little Portland Street; Fitzrovia; London W1W 7JD; United Kingdom, London
 
-*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/the-social/)*
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/the-social/)*

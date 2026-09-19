@@ -1,6 +1,6 @@
 # Pegassi
 
-Pegassi is a Techno and Trance artist with 14 upcoming club dates listed on soundcheck as of Fri, 18 Sept 2026, next at Mondo Open Air, Madrid on Sat, 19 Sept 2026.
+Pegassi is a Techno and Trance artist with 14 upcoming club dates listed on soundcheck as of Sat, 19 Sept 2026, next at Mondo Open Air, Madrid on Sat, 19 Sept 2026.
 
 Pegassi is a techno and trance artist tracked on soundcheck, with 172 sets logged across Aberdeen, Amsterdam, Antwerp and Barcelona and 47 more. Often billed alongside Helena Lauwaert, Anetha and Odymel. Next up: Mondo Open Air, Madrid on Sat 19 Sept.
 
@@ -36,4 +36,4 @@ Pegassi is a techno and trance artist tracked on soundcheck, with 172 sets logge
 
 Helena Lauwaert, Anetha, Odymel
 
-*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/pegassi/)*
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/pegassi/)*

@@ -1,6 +1,6 @@
 # City Dance Corporation
 
-City Dance Corporation is a Techno and Italo Disco artist with 1 upcoming club date listed on soundcheck as of Fri, 18 Sept 2026, next at Paradise Grapevine Winery, Toronto on Sat, 19 Sept 2026.
+City Dance Corporation is a Techno and Italo Disco artist with 1 upcoming club date listed on soundcheck as of Sat, 19 Sept 2026, next at Paradise Grapevine Winery, Toronto on Sat, 19 Sept 2026.
 
 City Dance Corporation is a techno and italo disco artist based in Poland, tracked on soundcheck, with 32 sets logged across Montreal and Toronto. Often billed alongside Venus in Foil, HADI and R-ODERICK. Next up: Paradise Grapevine Winery, Toronto on Sat 19 Sept.
 
@@ -25,4 +25,4 @@ City Dance Corporation is a techno and italo disco artist based in Poland, track
 
 Venus in Foil, HADI, R-ODERICK
 
-*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/citydancecorporation/)*
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/citydancecorporation/)*

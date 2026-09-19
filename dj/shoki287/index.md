@@ -1,8 +1,8 @@
 # SHOKI287
 
-SHOKI287 is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Fri, 18 Sept 2026, next at Lehmann Club, Stuttgart on Fri, 25 Sept 2026.
+SHOKI287 is a Techno and Trance artist with 3 upcoming club dates listed on soundcheck as of Sat, 19 Sept 2026, next at Lehmann Club, Stuttgart on Fri, 25 Sept 2026.
 
-SHOKI287 is a techno and trance artist tracked on soundcheck, with 89 sets logged across Amsterdam, Antwerp, Athens and Bangkok and 22 more. Often billed alongside DJ Cringey, DJ https and Justin Tinderdate. Next up: Lehmann Club, Stuttgart on Fri 25 Sept.
+SHOKI287 is a techno and trance artist tracked on soundcheck, with 90 sets logged across Amsterdam, Antwerp, Athens and Bangkok and 23 more. Often billed alongside DJ Cringey, DJ https and Justin Tinderdate. Next up: Lehmann Club, Stuttgart on Fri 25 Sept.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ SHOKI287 is a techno and trance artist tracked on soundcheck, with 89 sets logge
 | --- | --- | --- |
 | Fri, 25 Sept 2026 | Lehmann Club | Stuttgart |
 | Sat, 3 Oct 2026 | Nordstern | Basel |
+| Fri, 18 Dec 2026 | E1 | London |
 
 ## Recently played
 
@@ -26,4 +27,4 @@ SHOKI287 is a techno and trance artist tracked on soundcheck, with 89 sets logge
 
 DJ Cringey, DJ https, Justin Tinderdate
 
-*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/shoki287/)*
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/shoki287/)*

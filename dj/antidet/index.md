@@ -1,6 +1,6 @@
 # ANTI (DET)
 
-ANTI (DET) is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 18 Sept 2026, next at Pronto Royal Oak, Detroit on Sat, 19 Sept 2026.
+ANTI (DET) is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sat, 19 Sept 2026, next at Pronto Royal Oak, Detroit on Sat, 19 Sept 2026.
 
 ANTI (DET) is a techno and house artist tracked on soundcheck, with 61 sets logged across Detroit. Often billed alongside Auntie Chanel, DJ Hemlok and Dr Poppers. Next up: Pronto Royal Oak, Detroit on Sat 19 Sept.
 
@@ -26,4 +26,4 @@ ANTI (DET) is a techno and house artist tracked on soundcheck, with 61 sets logg
 
 Auntie Chanel, DJ Hemlok, Dr Poppers
 
-*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/antidet/)*
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/antidet/)*

@@ -1,14 +1,13 @@
 # Beltran
 
-Beltran is a House and Tech House artist with 7 upcoming club dates listed on soundcheck as of Fri, 18 Sept 2026, next at TBA, Lisbon on Fri, 18 Sept 2026.
+Beltran is a House and Tech House artist with 6 upcoming club dates listed on soundcheck as of Sat, 19 Sept 2026, next at TBA - Pier 80, San Francisco/Oakland on Sat, 26 Sept 2026.
 
-Beltran is a house and tech house artist based in United States of America, tracked on soundcheck, with 73 sets logged across Amsterdam, Austin, Boston and Buenosaires and 24 more. Often billed alongside Ben Sterling, ChaseWest and KinAhau. Next up: TBA, Lisbon on Fri 18 Sept.
+Beltran is a house and tech house artist based in United States of America, tracked on soundcheck, with 73 sets logged across Amsterdam, Austin, Boston and Buenosaires and 24 more. Often billed alongside Ben Sterling, ChaseWest and KinAhau. Next up: TBA - Pier 80, Sanfrancisco on Sat 26 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 18 Sept 2026 | TBA | Lisbon |
 | Sat, 26 Sept 2026 | TBA - Pier 80 | San Francisco/Oakland |
 | Sun, 11 Oct 2026 | Piknic Électronik / Parc Jean Drapeau | Montreal |
 | Fri, 16 Oct 2026 | Mana Wynwood | Miami |
@@ -18,6 +17,7 @@ Beltran is a house and tech house artist based in United States of America, trac
 
 ## Recently played
 
+- TBA, Lisbon — Fri, 18 Sept 2026
 - Union Park, Chicago — Fri, 4 Sept 2026
 - DC-10, Ibiza — Mon, 10 Aug 2026
 - DC-10, Ibiza — Mon, 27 Jul 2026
@@ -25,10 +25,9 @@ Beltran is a house and tech house artist based in United States of America, trac
 - 1756 Naud St., Los Angeles — Sun, 12 Jul 2026
 - 1756 Naud St., Los Angeles — Sat, 11 Jul 2026
 - The Concourse Project, Austin — Fri, 10 Jul 2026
-- DC-10, Ibiza — Mon, 6 Jul 2026
 
 ## Shares bills with
 
 Ben Sterling, ChaseWest, KinAhau
 
-*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/beltran/)*
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/beltran/)*

@@ -1,6 +1,6 @@
 # La Noxe Trinity
 
-La Noxe Trinity is a music venue in New York City with 1 upcoming night listed on soundcheck as of Fri, 18 Sept 2026; the next is "Fall Equinox Happy Hour and Libra Birthday Celebration" on Fri, 25 Sept 2026.
+La Noxe Trinity is a music venue in New York City with 1 upcoming night listed on soundcheck as of Sat, 19 Sept 2026; the next is "Fall Equinox Happy Hour and Libra Birthday Celebration" on Fri, 25 Sept 2026.
 
 La Noxe Trinity is a music venue in Newyorkcity listed on soundcheck. 1 upcoming night, with line-ups including Black Maij, Han G, Nickodemus and Oppo-Normalè and 1 more. Browse upcoming dates, start times and who's playing. 111 Broadway, New York, NY 10006, USA.
 
@@ -14,4 +14,4 @@ La Noxe Trinity is a music venue in Newyorkcity listed on soundcheck. 1 upcoming
 
 111 Broadway, New York, NY 10006, USA, New York City
 
-*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/la-noxe-trinity/)*
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/la-noxe-trinity/)*

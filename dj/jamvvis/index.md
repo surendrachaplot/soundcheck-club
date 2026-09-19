@@ -1,6 +1,6 @@
 # Jamvvis
 
-Jamvvis is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 18 Sept 2026, next at TBA - Toronto, Toronto on Fri, 9 Oct 2026.
+Jamvvis is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 19 Sept 2026, next at TBA - Toronto, Toronto on Fri, 9 Oct 2026.
 
 Jamvvis is a house and techno artist tracked on soundcheck, with 39 sets logged across Montreal, Newyorkcity and Toronto. Often billed alongside Outback, James Benjamin and Baby Bimbo. Next up: TBA - Toronto, Toronto on Fri 9 Oct.
 
@@ -25,4 +25,4 @@ Jamvvis is a house and techno artist tracked on soundcheck, with 39 sets logged 
 
 Outback, James Benjamin, Baby Bimbo
 
-*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jamvvis/)*
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jamvvis/)*

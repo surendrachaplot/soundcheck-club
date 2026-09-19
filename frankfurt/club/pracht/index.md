@@ -1,18 +1,26 @@
 # Pracht
 
-Pracht is a music venue in Frankfurt with 2 upcoming nights listed on soundcheck as of Fri, 18 Sept 2026; the next is "+You@Pracht" on Fri, 18 Sept 2026.
+Pracht is a music venue in Frankfurt with 11 upcoming nights listed on soundcheck as of Sat, 19 Sept 2026; the next is "PrachtNACHT with Mike Gannu, Claudius b2b stefan mueller, Maex" on Sat, 19 Sept 2026.
 
-Pracht is a music venue in Frankfurt listed on soundcheck. 2 upcoming nights, with line-ups including Claudius (DE), Maex, Mike Gannu and stefan mueller and 1 more. Browse upcoming dates, start times and who's playing. Niddastr. 54, 60327 Frankfurt am Main, Germany.
+Pracht is a music venue in Frankfurt listed on soundcheck. 11 upcoming nights, with line-ups including Andrea Castells, Benja Asima, BIANCA BLANCO and Claudius (DE) and 2 more. Browse upcoming dates, start times and who's playing. Niddastr. 54, 60327 Frankfurt am Main, Germany.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 18 Sept 2026 | +You@Pracht | Toni Rios |
-| Sat, 19 Sept 2026 | PrachtNACHT with Mike Gannu, Claudius, stefan mueller, Maex | Claudius (DE), Maex, Mike Gannu, stefan mueller |
+| Sat, 19 Sept 2026 | PrachtNACHT with Mike Gannu, Claudius b2b stefan mueller, Maex | Claudius (DE), Maex, Mike Gannu, stefan mueller |
+| Thu, 24 Sept 2026 | feierabend. x ONGRND with Monsieur Vide & Shahab |  |
+| Fri, 25 Sept 2026 | Pracht PRES. with EFÍMERO, NØAH b2b Jamal, Jolie | EFÍMERO, JOLIE (DE) |
+| Sat, 26 Sept 2026 | PrachtNACHT with Malandra JR, THYS, Benja Asima | Benja Asima, Malandra JR, THYS (2) |
+| Fri, 2 Oct 2026 | Pracht PRES. with Marius Lehnert, BIANCA BLANCO, Dario Milkovic | BIANCA BLANCO, Dario Milkovic, Marius Lehnert |
+| Sat, 3 Oct 2026 | PrachtNACHT with Gespona, Voulis, kornël | Gespona |
+| Fri, 9 Oct 2026 | Pracht PRES. with Predex, YARI, Samy | Predex |
+| Sat, 10 Oct 2026 | PrachtNACHT with Lexer, Clavia., Yan Deno | Lexer |
+| Fri, 16 Oct 2026 | Pracht PRES. with Daughter In Law, RIHANI & BRAUN, NØAH | Daughter In Law |
+| Sat, 17 Oct 2026 | PrachtNACHT with Einmusik, Claudius, stefan mueller | Claudius (DE), Einmusik, stefan mueller |
 
 ## Address
 
 Niddastr. 54, 60327 Frankfurt am Main, Germany, Frankfurt
 
-*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/frankfurt/club/pracht/)*
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/frankfurt/club/pracht/)*

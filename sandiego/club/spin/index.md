@@ -1,6 +1,6 @@
 # Spin
 
-Spin is a music venue in San Diego with 13 upcoming nights listed on soundcheck as of Fri, 18 Sept 2026; the next is "WONDERGATE presents: Sainte Vie" on Sat, 19 Sept 2026.
+Spin is a music venue in San Diego with 13 upcoming nights listed on soundcheck as of Sat, 19 Sept 2026; the next is "WONDERGATE presents: Sainte Vie" on Sat, 19 Sept 2026.
 
 Spin is a music venue in Sandiego listed on soundcheck. 13 upcoming nights, with line-ups including 6 SENSE, aali, Anthony Attalla and Apache and 2 more. Browse upcoming dates, start times and who's playing. 2028 Hancock Street; San Diego, CA 92110, USA.
 
@@ -23,4 +23,4 @@ Spin is a music venue in Sandiego listed on soundcheck. 13 upcoming nights, with
 
 2028 Hancock Street; San Diego, CA 92110, USA, San Diego
 
-*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/sandiego/club/spin/)*
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/sandiego/club/spin/)*

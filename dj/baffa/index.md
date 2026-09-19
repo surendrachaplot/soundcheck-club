@@ -1,6 +1,6 @@
 # Baffa
 
-Baffa is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 18 Sept 2026, next at TBA - Mad Radio - Carrer de Sant Pere mes alt 31, ciutat vella, Barcelona on Sat, 19 Sept 2026.
+Baffa is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 19 Sept 2026, next at TBA - Mad Radio - Carrer de Sant Pere mes alt 31, ciutat vella, Barcelona on Sat, 19 Sept 2026.
 
 Baffa is a house and techno artist based in Spain, tracked on soundcheck, with 66 sets logged across Barcelona. Often billed alongside Matteo Floris, Paolo Meloni and Inpulse. Next up: TBA - Mad Radio - Carrer de Sant Pere mes alt 31, ciutat vella, Barcelona on Sat 19 Sept.
 
@@ -25,4 +25,4 @@ Baffa is a house and techno artist based in Spain, tracked on soundcheck, with 6
 
 Matteo Floris, Paolo Meloni, Inpulse
 
-*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/baffa/)*
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/baffa/)*

@@ -1,23 +1,24 @@
 # Coco Maria
 
-Coco Maria is a House and Disco artist with 7 upcoming club dates listed on soundcheck as of Fri, 18 Sept 2026, next at Elsewhere, New York City on Fri, 18 Sept 2026.
+Coco Maria is a House and Disco artist with 7 upcoming club dates listed on soundcheck as of Sat, 19 Sept 2026, next at White Owl Social Club, Portland on Sun, 20 Sept 2026.
 
-Coco Maria is a house and disco artist tracked on soundcheck, with 123 sets logged across Amsterdam, Antwerp, Athens and Bali and 36 more. Often billed alongside Antal, Palo Santo Discos and Cosmo Sofi. Next up: Elsewhere, Newyorkcity on Fri 18 Sept.
+Coco Maria is a house and disco artist tracked on soundcheck, with 124 sets logged across Amsterdam, Antwerp, Athens and Bali and 36 more. Often billed alongside Antal, Palo Santo Discos and Cosmo Sofi. Next up: White Owl Social Club, Portland on Sun 20 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 18 Sept 2026 | Elsewhere | New York City |
 | Sun, 20 Sept 2026 | White Owl Social Club | Portland |
 | Sat, 3 Oct 2026 | Carriageworks | Sydney |
 | Sun, 4 Oct 2026 | Pica (Port Melbourne Industrial Centre for the Arts) | Melbourne |
 | Fri, 16 Oct 2026 | The Carpet Shop | London |
 | Fri, 30 Oct 2026 | Doka | Amsterdam |
 | Sat, 31 Oct 2026 | Dahlia Stereo | Manchester |
+| Sat, 14 Nov 2026 | La Bellevilloise | Paris |
 
 ## Recently played
 
+- Elsewhere, New York City — Fri, 18 Sept 2026
 - ZENNER, Berlin — Sun, 16 Aug 2026
 - NAR, Utrecht — Sun, 9 Aug 2026
 - The Bath House, London — Sun, 26 Jul 2026
@@ -25,10 +26,9 @@ Coco Maria is a house and disco artist tracked on soundcheck, with 123 sets logg
 - TBA, Mexico City — Sun, 12 Jul 2026
 - Night Tales Loft, London — Sat, 27 Jun 2026
 - Hope House, Leeds — Fri, 26 Jun 2026
-- Πεδίον του Άρεως / Pedion Areos, Athens — Tue, 23 Jun 2026
 
 ## Shares bills with
 
 Antal, Palo Santo Discos, Cosmo Sofi
 
-*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/cocomaria/)*
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/cocomaria/)*

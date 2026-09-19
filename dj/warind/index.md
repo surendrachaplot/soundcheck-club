@@ -1,6 +1,6 @@
 # WarinD
 
-WarinD is a Techno and Industrial artist with 2 upcoming club dates listed on soundcheck as of Fri, 18 Sept 2026, next at Main Club, Milan on Sat, 19 Sept 2026.
+WarinD is a Techno and Industrial artist with 2 upcoming club dates listed on soundcheck as of Sat, 19 Sept 2026, next at Main Club, Milan on Sat, 19 Sept 2026.
 
 WarinD is a techno and industrial artist based in Italy, tracked on soundcheck, with 46 sets logged across Antwerp, Berlin, Budapest and Cologne and 19 more. Often billed alongside Nikolina, Floor Force One and Paralich. Next up: Main Club, Milan on Sat 19 Sept.
 
@@ -26,4 +26,4 @@ WarinD is a techno and industrial artist based in Italy, tracked on soundcheck, 
 
 Nikolina, Floor Force One, Paralich
 
-*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/warind/)*
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/warind/)*

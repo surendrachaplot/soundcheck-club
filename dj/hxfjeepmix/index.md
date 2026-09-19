@@ -1,6 +1,6 @@
 # HXF (JEEP MIX)
 
-HXF (JEEP MIX) is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Fri, 18 Sept 2026, next at Standard Time, Toronto on Sat, 24 Oct 2026.
+HXF (JEEP MIX) is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Sat, 19 Sept 2026, next at Standard Time, Toronto on Sat, 24 Oct 2026.
 
 HXF (JEEP MIX) is a house and deep house artist tracked on soundcheck, with 31 sets logged across Toronto. Often billed alongside Tyrone Solomon, Abacus and Basic Soul Unit. Next up: Standard Time, Toronto on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ HXF (JEEP MIX) is a house and deep house artist tracked on soundcheck, with 31 s
 
 Tyrone Solomon, Abacus, Basic Soul Unit
 
-*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/hxfjeepmix/)*
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/hxfjeepmix/)*

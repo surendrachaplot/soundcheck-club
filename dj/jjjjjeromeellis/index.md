@@ -1,6 +1,6 @@
 # JJJJJerome Ellis
 
-JJJJJerome Ellis is a Experimental and Ambient artist with 4 upcoming club dates listed on soundcheck as of Fri, 18 Sept 2026, next at Fort Mifflin, Philadelphia on Fri, 18 Sept 2026.
+JJJJJerome Ellis is a Experimental and Ambient artist with 4 upcoming club dates listed on soundcheck as of Sat, 19 Sept 2026, next at Fort Mifflin, Philadelphia on Fri, 18 Sept 2026.
 
 JJJJJerome Ellis is an experimental and ambient artist based in United States of America, tracked on soundcheck, with 11 sets logged across Athens, Berlin, Bristol and Frankfurt and 4 more. Often billed alongside Yu Su, Batu and Buttechno. Next up: Fort Mifflin, Philadelphia on Fri 18 Sept.
 
@@ -15,6 +15,7 @@ JJJJJerome Ellis is an experimental and ambient artist based in United States of
 
 ## Recently played
 
+- Fort Mifflin, Philadelphia — Fri, 18 Sept 2026
 - TBA - Multiple Venues , The Hague — Thu, 9 Apr 2026
 - TBA, Berlin — Wed, 1 Oct 2025
 - Onassis Stegi, Athens — Sun, 28 Apr 2024
@@ -27,4 +28,4 @@ JJJJJerome Ellis is an experimental and ambient artist based in United States of
 
 Yu Su, Batu, Buttechno
 
-*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jjjjjeromeellis/)*
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jjjjjeromeellis/)*

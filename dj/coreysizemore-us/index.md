@@ -1,18 +1,18 @@
 # Corey Sizemore
 
-Corey Sizemore is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 18 Sept 2026, next at TBA - Downtown, Los Angeles on Fri, 18 Sept 2026.
+Corey Sizemore is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 19 Sept 2026, next at TBA - Downtown Los Angeles, Los Angeles on Sat, 31 Oct 2026.
 
-Corey Sizemore is a techno and house artist based in United States of America, tracked on soundcheck, with 40 sets logged across Losangeles and Sanfrancisco. Often billed alongside Richie Panic, Lights Down Low and Trax Unit. Next up: TBA - Downtown, Losangeles on Fri 18 Sept.
+Corey Sizemore is a techno and house artist based in United States of America, tracked on soundcheck, with 40 sets logged across Losangeles and Sanfrancisco. Often billed alongside Richie Panic, Lights Down Low and Trax Unit. Next up: TBA - Downtown Los Angeles, Losangeles on Sat 31 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 18 Sept 2026 | TBA - Downtown | Los Angeles |
 | Sat, 31 Oct 2026 | TBA - Downtown Los Angeles | Los Angeles |
 
 ## Recently played
 
+- TBA - Downtown, Los Angeles — Fri, 18 Sept 2026
 - TBA - Downtown Los Angeles, Los Angeles — Fri, 4 Sept 2026
 - TBA - Downtown LA, Los Angeles — Fri, 17 Jul 2026
 - TBA - Silverlake, Los Angeles — Fri, 10 Jul 2026
@@ -20,10 +20,9 @@ Corey Sizemore is a techno and house artist based in United States of America, t
 - Los Angeles State Historic Park, Los Angeles — Sat, 2 May 2026
 - TBA - Downtown LA, Los Angeles — Sat, 21 Feb 2026
 - TBA - Los Angeles, Los Angeles — Sat, 15 Nov 2025
-- TBA - Open Air , Los Angeles — Fri, 31 Oct 2025
 
 ## Shares bills with
 
 Richie Panic, Lights Down Low, Trax Unit
 
-*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/coreysizemore-us/)*
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/coreysizemore-us/)*

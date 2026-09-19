@@ -1,13 +1,14 @@
 # Feralia Planitia
 
-Feralia Planitia is a Electro and Italo Disco artist with 1 upcoming club date listed on soundcheck as of Fri, 18 Sept 2026, next at OT301, Amsterdam on Fri, 6 Nov 2026.
+Feralia Planitia is a Electro and Italo Disco artist with 2 upcoming club dates listed on soundcheck as of Sat, 19 Sept 2026, next at Vrankrijk, Amsterdam on Sat, 24 Oct 2026.
 
-Feralia Planitia is an electro and italo disco artist tracked on soundcheck, with 6 sets logged across Amsterdam, Thehague and Utrecht. Often billed alongside Baz Reznik, Chaosy and Dmt (1). Next up: OT301, Amsterdam on Fri 6 Nov.
+Feralia Planitia is an electro and italo disco artist tracked on soundcheck, with 7 sets logged across Amsterdam, Thehague and Utrecht. Often billed alongside Baz Reznik, Unpronounceable and Chaosy. Next up: Vrankrijk, Amsterdam on Sat 24 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 24 Oct 2026 | Vrankrijk | Amsterdam |
 | Fri, 6 Nov 2026 | OT301 | Amsterdam |
 
 ## Recently played
@@ -20,6 +21,6 @@ Feralia Planitia is an electro and italo disco artist tracked on soundcheck, wit
 
 ## Shares bills with
 
-Baz Reznik, Chaosy, Dmt (1)
+Baz Reznik, Unpronounceable, Chaosy
 
-*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/feraliaplanitia/)*
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/feraliaplanitia/)*

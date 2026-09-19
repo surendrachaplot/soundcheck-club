@@ -1,6 +1,6 @@
 # Sunghoon
 
-Sunghoon is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 18 Sept 2026, next at teller, Seoul on Sat, 19 Sept 2026.
+Sunghoon is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sat, 19 Sept 2026, next at teller, Seoul on Sat, 19 Sept 2026.
 
 Sunghoon is a techno and house artist based in South Korea, tracked on soundcheck, with 81 sets logged across Seoul. Often billed alongside Xanexx, hcy. and Koshin. Next up: teller, Seoul on Sat 19 Sept.
 
@@ -26,4 +26,4 @@ Sunghoon is a techno and house artist based in South Korea, tracked on soundchec
 
 Xanexx, hcy., Koshin
 
-*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sunghoon/)*
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sunghoon/)*

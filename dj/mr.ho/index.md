@@ -1,14 +1,13 @@
 # Mr. Ho
 
-Mr. Ho is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Fri, 18 Sept 2026, next at Outer Heaven, New York City on Fri, 18 Sept 2026.
+Mr. Ho is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Sat, 19 Sept 2026, next at Outer Heaven, New York City on Sat, 19 Sept 2026.
 
-Mr. Ho is a house and techno artist tracked on soundcheck, with 124 sets logged across Amsterdam, Antwerp, Auckland and Bali and 36 more. Often billed alongside Luca Lozano, Wada Yosuke and Mogwaa. Next up: Outer Heaven, Newyorkcity on Fri 18 Sept.
+Mr. Ho is a house and techno artist tracked on soundcheck, with 124 sets logged across Amsterdam, Antwerp, Auckland and Bali and 36 more. Often billed alongside Luca Lozano, Wada Yosuke and Mogwaa. Next up: Outer Heaven, Newyorkcity on Sat 19 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 18 Sept 2026 | Outer Heaven | New York City |
 | Sat, 19 Sept 2026 | Outer Heaven | New York City |
 | Fri, 25 Sept 2026 | 宀 Club | Hong Kong |
 | Fri, 25 Sept 2026 | Somewhere in the Mountains. | Bali |
@@ -16,6 +15,7 @@ Mr. Ho is a house and techno artist tracked on soundcheck, with 124 sets logged 
 
 ## Recently played
 
+- Outer Heaven, New York City — Fri, 18 Sept 2026
 - Hertz, Seoul — Sat, 29 Aug 2026
 - 宀 Club, Hong Kong — Fri, 28 Aug 2026
 - WOMB, Tokyo — Sat, 22 Aug 2026
@@ -23,10 +23,9 @@ Mr. Ho is a house and techno artist tracked on soundcheck, with 124 sets logged 
 - The Love Inn, Bristol — Fri, 31 Jul 2026
 - Platforma Wolff, Bucharest — Sat, 25 Jul 2026
 - Lux Fragil, Lisbon — Fri, 24 Jul 2026
-- Patterns, Brighton — Fri, 17 Jul 2026
 
 ## Shares bills with
 
 Luca Lozano, Wada Yosuke, Mogwaa
 
-*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mr.ho/)*
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mr.ho/)*

@@ -1,6 +1,6 @@
 # DJ Split
 
-DJ Split is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Fri, 18 Sept 2026, next at TILLATEC, Amsterdam on Sat, 19 Sept 2026.
+DJ Split is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Sat, 19 Sept 2026, next at TILLATEC, Amsterdam on Sat, 19 Sept 2026.
 
 DJ Split is a house and techno artist based in Germany, tracked on soundcheck, with 22 sets logged across Amsterdam, Athens, Barcelona and Berlin and 14 more. Often billed alongside Ido Toledano, A For Alpha and AMANE. Next up: TILLATEC, Amsterdam on Sat 19 Sept.
 
@@ -27,4 +27,4 @@ DJ Split is a house and techno artist based in Germany, tracked on soundcheck, w
 
 Ido Toledano, A For Alpha, AMANE
 
-*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djsplit/)*
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djsplit/)*

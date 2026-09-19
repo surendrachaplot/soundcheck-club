@@ -1,6 +1,6 @@
 # tasha.mp4
 
-tasha.mp4 is a Garage and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 18 Sept 2026, next at Club Makossa, London on Sat, 10 Oct 2026.
+tasha.mp4 is a Garage and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 19 Sept 2026, next at Club Makossa, London on Sat, 10 Oct 2026.
 
 tasha.mp4 is a garage and techno artist tracked on soundcheck, with 45 sets logged across London. Often billed alongside TRILL (UK), EMROSE and Kitsch. Next up: Club Makossa, London on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ tasha.mp4 is a garage and techno artist tracked on soundcheck, with 45 sets logg
 
 TRILL (UK), EMROSE, Kitsch
 
-*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tasha.mp4/)*
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tasha.mp4/)*

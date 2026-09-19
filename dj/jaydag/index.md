@@ -1,8 +1,8 @@
 # Jayda G
 
-Jayda G is a House and Techno artist with 9 upcoming club dates listed on soundcheck as of Fri, 18 Sept 2026, next at Parco Industria Alfa Romeo, Milan on Sat, 19 Sept 2026.
+Jayda G is a House and Techno artist with 10 upcoming club dates listed on soundcheck as of Sat, 19 Sept 2026, next at Parco Industria Alfa Romeo, Milan on Sat, 19 Sept 2026.
 
-Jayda G is a house and techno artist tracked on soundcheck, with 128 sets logged across Amsterdam, Bali, Barcelona and Belfast and 47 more. Often billed alongside Melvo Baptiste, Barry Can't Swim and salute. Next up: Parco Industria Alfa Romeo, Milan on Sat 19 Sept.
+Jayda G is a house and techno artist tracked on soundcheck, with 129 sets logged across Amsterdam, Bali, Barcelona and Belfast and 47 more. Often billed alongside Melvo Baptiste, Barry Can't Swim and salute. Next up: Parco Industria Alfa Romeo, Milan on Sat 19 Sept.
 
 ## Upcoming shows
 
@@ -17,6 +17,7 @@ Jayda G is a house and techno artist tracked on soundcheck, with 128 sets logged
 | Fri, 30 Oct 2026 | Factory Town | Miami |
 | Sat, 31 Oct 2026 | Flash | Washington DC |
 | Fri, 13 Nov 2026 | DRUMSHEDS | London |
+| Fri, 18 Dec 2026 | 104 CENTQUATRE | Paris |
 
 ## Recently played
 
@@ -33,4 +34,4 @@ Jayda G is a house and techno artist tracked on soundcheck, with 128 sets logged
 
 Melvo Baptiste, Barry Can't Swim, salute
 
-*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jaydag/)*
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jaydag/)*

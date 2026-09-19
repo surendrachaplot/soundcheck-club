@@ -1,6 +1,6 @@
 # Berlin Bunny
 
-Berlin Bunny is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Fri, 18 Sept 2026, next at FOLD, London on Sat, 19 Sept 2026.
+Berlin Bunny is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Sat, 19 Sept 2026, next at FOLD, London on Sat, 19 Sept 2026.
 
 Berlin Bunny is a techno and house artist based in Poland, tracked on soundcheck, with 62 sets logged across Amsterdam, Barcelona, Berlin and Krakow and 9 more. Often billed alongside Eyesdice, Franz Scala and Paty Vapor. Next up: FOLD, London on Sat 19 Sept.
 
@@ -28,4 +28,4 @@ Berlin Bunny is a techno and house artist based in Poland, tracked on soundcheck
 
 Eyesdice, Franz Scala, Paty Vapor
 
-*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/berlinbunny/)*
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/berlinbunny/)*

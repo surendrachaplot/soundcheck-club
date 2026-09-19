@@ -1,8 +1,8 @@
 # Us Two
 
-Us Two is a Tech House and House artist with 5 upcoming club dates listed on soundcheck as of Fri, 18 Sept 2026, next at Document, Bristol on Fri, 25 Sept 2026.
+Us Two is a Tech House and House artist with 6 upcoming club dates listed on soundcheck as of Sat, 19 Sept 2026, next at Document, Bristol on Fri, 25 Sept 2026.
 
-Us Two is a tech house and house artist tracked on soundcheck, with 63 sets logged across Amsterdam, Barcelona, Berlin and Brighton and 14 more. Often billed alongside Ilario Alicante, Max Dean and East End Dubs. Next up: Document, Bristol on Fri 25 Sept.
+Us Two is a tech house and house artist tracked on soundcheck, with 64 sets logged across Amsterdam, Barcelona, Berlin and Brighton and 15 more. Often billed alongside Ilario Alicante, Max Dean and East End Dubs. Next up: Document, Bristol on Fri 25 Sept.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Us Two is a tech house and house artist tracked on soundcheck, with 63 sets logg
 | --- | --- | --- |
 | Fri, 25 Sept 2026 | Document | Bristol |
 | Fri, 2 Oct 2026 | 528 Ibiza | Ibiza |
+| Sat, 3 Oct 2026 | Basic Club | Naples |
 | Sat, 10 Oct 2026 | Weekend | Berlin |
 | Sat, 17 Oct 2026 | 93 Feet East | London |
 | Sat, 12 Dec 2026 | Hemkade 48 | Amsterdam |
@@ -29,4 +30,4 @@ Us Two is a tech house and house artist tracked on soundcheck, with 63 sets logg
 
 Ilario Alicante, Max Dean, East End Dubs
 
-*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ustwo/)*
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ustwo/)*

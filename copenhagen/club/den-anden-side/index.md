@@ -1,15 +1,13 @@
 # Den Anden Side
 
-Den Anden Side is a music venue in Copenhagen with 13 upcoming nights listed on soundcheck as of Fri, 18 Sept 2026; the next is "CUETIES: hot mess!" on Fri, 18 Sept 2026.
+Den Anden Side is a music venue in Copenhagen with 12 upcoming nights listed on soundcheck as of Sat, 19 Sept 2026; the next is "GAGxDAS: THREE YEARS" on Sat, 19 Sept 2026.
 
-Den Anden Side is a music venue in Copenhagen listed on soundcheck. 13 upcoming nights, with line-ups including Alarico, Aldonna, AMORAL and Anastasia Kristensen and 2 more. Browse upcoming dates, start times and who's playing. Axeltorv 5 1609 Copenhagen, Denmark.
+Den Anden Side is a music venue in Copenhagen listed on soundcheck. 12 upcoming nights, with line-ups including Alarico, Aldonna, AMORAL and Anastasia Kristensen and 2 more. Browse upcoming dates, start times and who's playing. Axeltorv 5 1609 Copenhagen, Denmark.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 18 Sept 2026 | CUETIES: hot mess! | BIXBITA, Britney Speed, DJ BENDER, babysquid, vazkez |
-| Fri, 18 Sept 2026 | Miss Thing at Den Anden Ende | DJ Nah Care |
 | Sat, 19 Sept 2026 | GAGxDAS: THREE YEARS | ASTA MARI, Elliott Taguchi, LMN (1), Lorenzo Raganzini, steamboi |
 | Fri, 25 Sept 2026 | Whipped #6 with Alarico | Alarico, Holtz (2), Johannes Astrup, Shaan (2) |
 | Fri, 25 Sept 2026 | Fleur de Minuit - Where the night begins to bloom at Den Anden Ende | Le Le, Nora Asteroid |
@@ -17,10 +15,12 @@ Den Anden Side is a music venue in Copenhagen listed on soundcheck. 13 upcoming 
 | Fri, 2 Oct 2026 | ESCAPISM presents: MALUGI 3h set & More | Anders HP, B From E, Business Risky, CERJ, DJ Spice, DRABER666, Frida(y), From A To B, MALUGI, joa picaro |
 | Sat, 3 Oct 2026 | Postyr pres. Wallis | Elliott Taguchi, Johannes Astrup, Milo Makua, PAVI (3), Tino (3), Wallis |
 | Sat, 3 Oct 2026 | Don Vito's Corner at Den Anden Ende | Dico Nemus, Holysss, VI/TO |
+| Fri, 9 Oct 2026 | Future Awkward with Ken Ishii | Ctrls, Holtz (2), Ken Ishii |
 | Sat, 10 Oct 2026 | GROUP THERAPY 8 YEARS | Aldonna, DJ Woo Girl, Frederik Tollund, Lakuti, Lucky Lube, Selma, Tama Sumo |
+| Fri, 16 Oct 2026 | Eerste Communie x Den Anden Side | AMORAL, Anastasia Kristensen, Ignez, MARRØN |
 
 ## Address
 
 Axeltorv 5 1609 Copenhagen, Denmark, Copenhagen
 
-*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/copenhagen/club/den-anden-side/)*
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/copenhagen/club/den-anden-side/)*

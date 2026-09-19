@@ -1,6 +1,6 @@
 # Valleyk
 
-Valleyk is a Electronica and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 18 Sept 2026, next at Cadavra, Madrid on Sat, 10 Oct 2026.
+Valleyk is a Electronica and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 19 Sept 2026, next at Cadavra, Madrid on Sat, 10 Oct 2026.
 
 Valleyk is an electronica and techno artist based in Spain, tracked on soundcheck, with 15 sets logged across Madrid. Often billed alongside Denso, Kamboya and MSKS. Next up: Cadavra, Madrid on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ Valleyk is an electronica and techno artist based in Spain, tracked on soundchec
 
 Denso, Kamboya, MSKS
 
-*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/valleyk/)*
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/valleyk/)*

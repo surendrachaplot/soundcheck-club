@@ -1,6 +1,6 @@
 # MUENZE
 
-MUENZE is a music venue in Berlin with 2 upcoming nights listed on soundcheck as of Fri, 18 Sept 2026; the next is "KINKY ON Tour Berlin" on Sat, 24 Oct 2026.
+MUENZE is a music venue in Berlin with 2 upcoming nights listed on soundcheck as of Sat, 19 Sept 2026; the next is "KINKY ON Tour Berlin" on Sat, 24 Oct 2026.
 
 MUENZE is a music venue in Berlin listed on soundcheck. 2 upcoming nights, with line-ups including Acid Foxy, Alex Benz, Alycia Bezgo and Annie O and 2 more. Browse upcoming dates, start times and who's playing. Molkenmarkt 2; Mitte; 10179 Berlin; Germany.
 
@@ -15,4 +15,4 @@ MUENZE is a music venue in Berlin listed on soundcheck. 2 upcoming nights, with 
 
 Molkenmarkt 2; Mitte; 10179 Berlin; Germany, Berlin
 
-*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/muenze/)*
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/muenze/)*

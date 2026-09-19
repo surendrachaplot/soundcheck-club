@@ -1,6 +1,6 @@
 # Luke Mele
 
-Luke Mele is a Electronica and Techno artist with 3 upcoming club dates listed on soundcheck as of Fri, 18 Sept 2026, next at Fort Mifflin, Philadelphia on Fri, 18 Sept 2026.
+Luke Mele is a Electronica and Techno artist with 3 upcoming club dates listed on soundcheck as of Sat, 19 Sept 2026, next at Fort Mifflin, Philadelphia on Fri, 18 Sept 2026.
 
 Luke Mele is an electronica and techno artist tracked on soundcheck, with 18 sets logged across Losangeles and Philadelphia. Often billed alongside Kaleb Marshall, Max Ellington and Jane Margarette. Next up: Fort Mifflin, Philadelphia on Fri 18 Sept.
 
@@ -14,6 +14,7 @@ Luke Mele is an electronica and techno artist tracked on soundcheck, with 18 set
 
 ## Recently played
 
+- Fort Mifflin, Philadelphia — Fri, 18 Sept 2026
 - Roosevelt Hotel, Los Angeles — Fri, 4 Sept 2026
 - El Cid, Los Angeles — Sat, 29 Aug 2026
 - Homage Brewing, Los Angeles — Fri, 31 Jul 2026
@@ -21,10 +22,9 @@ Luke Mele is an electronica and techno artist tracked on soundcheck, with 18 set
 - Baby Battista, Los Angeles — Fri, 1 May 2026
 - TBA - Johnson Valley, Los Angeles — Fri, 24 Apr 2026
 - TBA, Los Angeles — Sun, 15 Feb 2026
-- Blipsy Bar, Los Angeles — Sat, 24 Jan 2026
 
 ## Shares bills with
 
 Kaleb Marshall, Max Ellington, Jane Margarette
 
-*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lukemele/)*
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lukemele/)*

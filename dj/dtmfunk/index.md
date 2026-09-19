@@ -1,6 +1,6 @@
 # DTM Funk
 
-DTM Funk is a House and Funk / Soul artist with 2 upcoming club dates listed on soundcheck as of Fri, 18 Sept 2026, next at ASIAT Park, Brussels on Sat, 17 Oct 2026.
+DTM Funk is a House and Funk / Soul artist with 2 upcoming club dates listed on soundcheck as of Sat, 19 Sept 2026, next at ASIAT Park, Brussels on Sat, 17 Oct 2026.
 
 DTM Funk is a house and funk / soul artist tracked on soundcheck, with 86 sets logged across Amsterdam, Antwerp, Bali and Berlin and 11 more. Often billed alongside AliA, Errol and Lefto Early Bird. Next up: ASIAT Park, Brussels on Sat 17 Oct.
 
@@ -26,4 +26,4 @@ DTM Funk is a house and funk / soul artist tracked on soundcheck, with 86 sets l
 
 AliA, Errol, Lefto Early Bird
 
-*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dtmfunk/)*
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dtmfunk/)*

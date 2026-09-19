@@ -1,6 +1,6 @@
 # Scheibenwisher Open Air am Tennisplatz at TBA - Margarethe-Danzi-Straße 29
 
-Scheibenwisher Open Air am Tennisplatz at TBA - Margarethe-Danzi-Straße 29 on Sat 19 Sept, Munich. 4 acts on the bill: Bogus Trumper, Jôka, Mikey Gee and Subthiel. Techno and House. Preview the line-up and save it on soundcheck.
+Scheibenwisher Open Air am Tennisplatz at TBA - Margarethe-Danzi-Straße 29 on Sat 19 Sept, Munich. 5 acts on the bill: Bogus Trumper, Jeyrototo, Jôka and Mikey Gee and 1 more. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,6 +11,7 @@ Scheibenwisher Open Air am Tennisplatz at TBA - Margarethe-Danzi-Straße 29 on S
 ## Line-up
 
 - Bogus Trumper
+- Jeyrototo
 - Jôka
 - Mikey Gee
 - Subthiel

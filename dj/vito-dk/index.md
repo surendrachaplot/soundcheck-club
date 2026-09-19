@@ -1,6 +1,6 @@
 # VI/TO
 
-VI/TO is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 18 Sept 2026, next at Den Anden Side, Copenhagen on Sat, 3 Oct 2026.
+VI/TO is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 19 Sept 2026, next at Den Anden Side, Copenhagen on Sat, 3 Oct 2026.
 
 VI/TO is a techno and house artist based in Italy, tracked on soundcheck, with 23 sets logged across Copenhagen. Often billed alongside CøkiT, Pizzamob and Anna Logic. Next up: Den Anden Side, Copenhagen on Sat 3 Oct.
 
@@ -25,4 +25,4 @@ VI/TO is a techno and house artist based in Italy, tracked on soundcheck, with 2
 
 CøkiT, Pizzamob, Anna Logic
 
-*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/vito-dk/)*
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/vito-dk/)*

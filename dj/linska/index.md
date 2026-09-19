@@ -1,14 +1,13 @@
 # Linska
 
-Linska is a House and Techno artist with 7 upcoming club dates listed on soundcheck as of Fri, 18 Sept 2026, next at Coda, Toronto on Fri, 18 Sept 2026.
+Linska is a House and Techno artist with 6 upcoming club dates listed on soundcheck as of Sat, 19 Sept 2026, next at Newspeak, Montreal on Sat, 19 Sept 2026.
 
-Linska is a house and techno artist based in United Kingdom, tracked on soundcheck, with 44 sets logged across Amsterdam, Austin, Boston and Chicago and 16 more. Often billed alongside Gorgon City, Eli Brown and Adam Beyer. Next up: Coda, Toronto on Fri 18 Sept.
+Linska is a house and techno artist based in United Kingdom, tracked on soundcheck, with 44 sets logged across Amsterdam, Austin, Boston and Chicago and 16 more. Often billed alongside Gorgon City, Eli Brown and Adam Beyer. Next up: Newspeak, Montreal on Sat 19 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 18 Sept 2026 | Coda | Toronto |
 | Sat, 19 Sept 2026 | Newspeak | Montreal |
 | Fri, 25 Sept 2026 | BERHTA | Washington DC |
 | Fri, 9 Oct 2026 | Monarch | San Francisco/Oakland |
@@ -18,6 +17,7 @@ Linska is a house and techno artist based in United Kingdom, tracked on soundche
 
 ## Recently played
 
+- Coda, Toronto — Fri, 18 Sept 2026
 - EQ San Diego, San Diego — Fri, 11 Sept 2026
 - Cavo Paradiso, Mykonos — Wed, 26 Aug 2026
 - Boat Cruise Summer Series, Boston — Fri, 7 Aug 2026
@@ -25,10 +25,9 @@ Linska is a house and techno artist based in United Kingdom, tracked on soundche
 - fabric, London — Fri, 10 Jul 2026
 - Holland Park, Vancouver — Fri, 3 Jul 2026
 - Holland Park, Vancouver — Thu, 2 Jul 2026
-- RFK Stadium Memorial Stadium, Washington DC — Sat, 30 May 2026
 
 ## Shares bills with
 
 Gorgon City, Eli Brown, Adam Beyer
 
-*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/linska/)*
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/linska/)*

@@ -1,6 +1,6 @@
 # shanty mane
 
-shanty mane is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Fri, 18 Sept 2026, next at Rhythm, Toronto on Sat, 19 Sept 2026.
+shanty mane is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Sat, 19 Sept 2026, next at Rhythm, Toronto on Sat, 19 Sept 2026.
 
 shanty mane is a house and techno artist based in United States of America, tracked on soundcheck, with 38 sets logged across Detroit, Losangeles, Mexicocity and Miami and 3 more. Often billed alongside EREZ.JPG, Willy Gorgon and Gill (US). Next up: Rhythm, Toronto on Sat 19 Sept.
 
@@ -28,4 +28,4 @@ shanty mane is a house and techno artist based in United States of America, trac
 
 EREZ.JPG, Willy Gorgon, Gill (US)
 
-*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/shantymane/)*
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/shantymane/)*

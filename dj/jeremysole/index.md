@@ -1,6 +1,6 @@
 # Jeremy Sole
 
-Jeremy Sole is a Afro House and Disco artist with 1 upcoming club date listed on soundcheck as of Fri, 18 Sept 2026, next at General Lee’s Bamboo Room, Los Angeles on Thu, 24 Sept 2026.
+Jeremy Sole is a Afro House and Disco artist with 1 upcoming club date listed on soundcheck as of Sat, 19 Sept 2026, next at General Lee’s Bamboo Room, Los Angeles on Thu, 24 Sept 2026.
 
 Jeremy Sole is an afro house and disco artist based in United States of America, tracked on soundcheck, with 45 sets logged across Losangeles, Newyorkcity and Sandiego. Often billed alongside Captain Planet, Marques Wyatt and Rich Medina. Next up: General Lee’s Bamboo Room, Losangeles on Thu 24 Sept.
 
@@ -25,4 +25,4 @@ Jeremy Sole is an afro house and disco artist based in United States of America,
 
 Captain Planet, Marques Wyatt, Rich Medina
 
-*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jeremysole/)*
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jeremysole/)*

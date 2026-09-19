@@ -1,6 +1,6 @@
 # DJ Smooth
 
-DJ Smooth is a Reggaeton and Latin Bass artist with 1 upcoming club date listed on soundcheck as of Fri, 18 Sept 2026, next at Lost in Paradise Rooftop, New York City on Sat, 19 Sept 2026.
+DJ Smooth is a Reggaeton and Latin Bass artist with 1 upcoming club date listed on soundcheck as of Sat, 19 Sept 2026, next at Lost in Paradise Rooftop, New York City on Sat, 19 Sept 2026.
 
 DJ Smooth is a reggaeton and latin bass artist tracked on soundcheck, with 17 sets logged across Cologne and Newyorkcity. Often billed alongside MANNY, Alchemiah and Another Life. Next up: Lost in Paradise Rooftop, Newyorkcity on Sat 19 Sept.
 
@@ -25,4 +25,4 @@ DJ Smooth is a reggaeton and latin bass artist tracked on soundcheck, with 17 se
 
 MANNY, Alchemiah, Another Life
 
-*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djsmooth/)*
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djsmooth/)*

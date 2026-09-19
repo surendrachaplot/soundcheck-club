@@ -1,6 +1,6 @@
 # LAPÜTA: After HyperPerreo // 1ERA EDICION at Babour Sauvage
 
-LAPÜTA: After HyperPerreo // 1ERA EDICION at Babour Sauvage on Sat 19 Sept, Paris. 1 act on the bill: PARIS (AU). Techno and Reggaeton. Preview the line-up and save it on soundcheck.
+LAPÜTA: After HyperPerreo // 1ERA EDICION at Babour Sauvage on Sat 19 Sept, Paris. 1 act on the bill: PARIS (AU). Techno and Latin Bass. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

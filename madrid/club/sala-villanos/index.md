@@ -1,6 +1,6 @@
 # Sala Villanos
 
-Sala Villanos is a music venue in Madrid with 17 upcoming nights listed on soundcheck as of Fri, 18 Sept 2026; the next is "MAZO CLUB #17" on Fri, 18 Sept 2026.
+Sala Villanos is a music venue in Madrid with 17 upcoming nights listed on soundcheck as of Sat, 19 Sept 2026; the next is "Laurence Guy + Fred Martín + Simón García" on Sat, 19 Sept 2026.
 
 Sala Villanos is a music venue in Madrid listed on soundcheck. 17 upcoming nights, with line-ups including Acid Pauli, Acid Hero, Axel Boman and Cinthie and 2 more. Browse upcoming dates, start times and who's playing. C. de Bernardino Obregón, 18, 28012 Madrid, Spain.
 
@@ -8,7 +8,6 @@ Sala Villanos is a music venue in Madrid listed on soundcheck. 17 upcoming night
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 18 Sept 2026 | MAZO CLUB #17 | You_el |
 | Sat, 19 Sept 2026 | Laurence Guy + Fred Martín + Simón García | Laurence Guy |
 | Fri, 25 Sept 2026 | Paquita Gordon + Mena G + Estrella OR | ESTRELLA OR, Mena G, Paquita Gordon |
 | Fri, 2 Oct 2026 | Kraak & Smaak SOUNDSYSTEM + Madame Excuse + Rayko | Kraak & Smaak, Madame Excuse, Rayko |
@@ -18,9 +17,10 @@ Sala Villanos is a music venue in Madrid listed on soundcheck. 17 upcoming night
 | Fri, 16 Oct 2026 | Danilo Plessow (MCDE) + Marcos Boricua + Javi Frias | Danilo Plessow, Javi Frias, Marcos Boricua |
 | Sat, 24 Oct 2026 | Sadar Bahar + Buitre + Dj Rchlbraü | Sadar Bahar |
 | Fri, 6 Nov 2026 | Dave Lee (FKA Joey Negro) + Javi Frias | Dave Lee, Javi Frias |
+| Sat, 7 Nov 2026 | Axel Boman + Acid Hero + Gary | Acid Hero, Axel Boman |
 
 ## Address
 
 C. de Bernardino Obregón, 18, 28012 Madrid, Spain, Madrid
 
-*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/sala-villanos/)*
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/sala-villanos/)*

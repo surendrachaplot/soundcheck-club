@@ -1,6 +1,6 @@
 # Dalga
 
-Dalga is a Minimal and Electronica artist with 1 upcoming club date listed on soundcheck as of Fri, 18 Sept 2026, next at Jolene, Copenhagen on Sat, 19 Sept 2026.
+Dalga is a Minimal and Electronica artist with 1 upcoming club date listed on soundcheck as of Sat, 19 Sept 2026, next at Jolene, Copenhagen on Sat, 19 Sept 2026.
 
 Dalga is a minimal and electronica artist tracked on soundcheck, with 22 sets logged across Berlin, Copenhagen and Rome. Often billed alongside Martek, Sunday Bath and Carlo (6). Next up: Jolene, Copenhagen on Sat 19 Sept.
 
@@ -25,4 +25,4 @@ Dalga is a minimal and electronica artist tracked on soundcheck, with 22 sets lo
 
 Martek, Sunday Bath, Carlo (6)
 
-*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dalga/)*
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dalga/)*

@@ -1,6 +1,6 @@
 # Projekt Lokschuppen pres. by Delululand at Lokschuppen Berlin
 
-Projekt Lokschuppen pres. by Delululand at Lokschuppen Berlin on Tue 6 Oct, Berlin. 7 acts on the bill: bbymeister, DJ Spaßgetränk, EZA (DE) and Florelle and 3 more. Trance and Techno. Preview the line-up and save it on soundcheck.
+Projekt Lokschuppen pres. by Delululand at Lokschuppen Berlin on Tue 6 Oct, Berlin. 8 acts on the bill: bbymeister, DJ Spaßgetränk, EZA (DE) and Florelle and 4 more. Trance and Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -17,5 +17,6 @@ Projekt Lokschuppen pres. by Delululand at Lokschuppen Berlin on Tue 6 Oct, Berl
 - jeanska
 - Lezza
 - Paul Bauhaus
+- TANZBAER
 
 *Source: [soundcheck](https://soundcheck.club/e/2537400-projekt-lokschuppen-pres-by-delululand-at-lokschuppen-berlin/)*

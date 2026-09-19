@@ -1,6 +1,6 @@
 # DJ Surgeles
 
-DJ Surgeles is a Techno and Dub Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 18 Sept 2026, next at John Doe, Amsterdam on Sat, 19 Sept 2026.
+DJ Surgeles is a Techno and Dub Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 19 Sept 2026, next at John Doe, Amsterdam on Sat, 19 Sept 2026.
 
 DJ Surgeles is a techno and dub techno artist tracked on soundcheck, with 16 sets logged across Amsterdam, Antwerp, Barcelona and Berlin. Often billed alongside Marco Ramos, Alex Kassian and André Galluzzi. Next up: John Doe, Amsterdam on Sat 19 Sept.
 
@@ -25,4 +25,4 @@ DJ Surgeles is a techno and dub techno artist tracked on soundcheck, with 16 set
 
 Marco Ramos, Alex Kassian, André Galluzzi
 
-*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/surgeles/)*
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/surgeles/)*

@@ -1,6 +1,6 @@
 # Amazon
 
-Amazon is a Dub Techno and Reggaeton artist with 1 upcoming club date listed on soundcheck as of Fri, 18 Sept 2026, next at Climbing District Milano, Milan on Sat, 19 Sept 2026.
+Amazon is a Dub Techno and Reggaeton artist with 1 upcoming club date listed on soundcheck as of Sat, 19 Sept 2026, next at Climbing District Milano, Milan on Sat, 19 Sept 2026.
 
 Amazon is a dub techno and reggaeton artist tracked on soundcheck, with 11 sets logged across Brussels, Milan and Rome. Often billed alongside GS.ELLE, acideyes and ojoo. Next up: Climbing District Milano, Milan on Sat 19 Sept.
 
@@ -25,4 +25,4 @@ Amazon is a dub techno and reggaeton artist tracked on soundcheck, with 11 sets 
 
 GS.ELLE, acideyes, ojoo
 
-*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/amazon/)*
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/amazon/)*

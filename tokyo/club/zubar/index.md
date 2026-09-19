@@ -1,6 +1,6 @@
 # ZUBAR
 
-ZUBAR is a music venue in Tokyo with 18 upcoming nights listed on soundcheck as of Fri, 18 Sept 2026; the next is "Time Machine Maganine PARTY VOL.1" on Fri, 18 Sept 2026.
+ZUBAR is a music venue in Tokyo with 18 upcoming nights listed on soundcheck as of Sat, 19 Sept 2026; the next is "Good Time Chillin'" on Sat, 19 Sept 2026.
 
 ZUBAR is a music venue in Tokyo listed on soundcheck. 18 upcoming nights, with line-ups including Abura, AKARI, DJ ISE and Dmt (1) and 2 more. Browse upcoming dates, start times and who's playing. ZU Bldg 1F 2-54-4 Kitamagome Ota-ku Tokyo, 143-0021.
 
@@ -8,7 +8,6 @@ ZUBAR is a music venue in Tokyo listed on soundcheck. 18 upcoming nights, with l
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 18 Sept 2026 | Time Machine Maganine PARTY VOL.1 |  |
 | Sat, 19 Sept 2026 | Good Time Chillin' |  |
 | Sun, 20 Sept 2026 | ROUNDED GROOVE | Abura, Emerson |
 | Sun, 20 Sept 2026 | SUNDAY AFTERNOON WANDERING |  |
@@ -17,10 +16,11 @@ ZUBAR is a music venue in Tokyo listed on soundcheck. 18 upcoming nights, with l
 | Fri, 25 Sept 2026 | WHAT is house |  |
 | Sat, 26 Sept 2026 | Re:Lood |  |
 | Sun, 27 Sept 2026 | Venha | Hitch, KIMURA |
+| Wed, 30 Sept 2026 | 笠井爾示 and friends |  |
 | Thu, 1 Oct 2026 | Lusk |  |
 
 ## Address
 
 ZU Bldg 1F 2-54-4 Kitamagome Ota-ku Tokyo, 143-0021, Tokyo
 
-*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/zubar/)*
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/zubar/)*

@@ -1,6 +1,6 @@
 # Kassita
 
-Kassita is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 18 Sept 2026, next at Mood Ring, New York City on Thu, 1 Oct 2026.
+Kassita is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 19 Sept 2026, next at Mood Ring, New York City on Thu, 1 Oct 2026.
 
 Kassita is a house and techno artist based in United Kingdom, tracked on soundcheck, with 27 sets logged across Ibiza, London, Manchester and Newyorkcity and 2 more. Often billed alongside Zerdazi, Kurd Maverick and Nelson Reis. Next up: Mood Ring, Newyorkcity on Thu 1 Oct.
 
@@ -26,4 +26,4 @@ Kassita is a house and techno artist based in United Kingdom, tracked on soundch
 
 Zerdazi, Kurd Maverick, Nelson Reis
 
-*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kassita/)*
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kassita/)*

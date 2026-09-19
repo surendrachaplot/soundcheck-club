@@ -1,6 +1,6 @@
 # ACHAMA
 
-ACHAMA is a Club and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 18 Sept 2026, next at TBA - 313 FIRST AVE S in Pioneer Square, Seattle on Sat, 3 Oct 2026.
+ACHAMA is a Club and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 19 Sept 2026, next at TBA - 313 FIRST AVE S in Pioneer Square, Seattle on Sat, 3 Oct 2026.
 
 ACHAMA is a club and techno artist tracked on soundcheck, with 19 sets logged across Portland, Seattle and Tokyo. Often billed alongside N SO, MUNÉO and Jason Code. Next up: TBA - 313 FIRST AVE S in Pioneer Square, Seattle on Sat 3 Oct.
 
@@ -25,4 +25,4 @@ ACHAMA is a club and techno artist tracked on soundcheck, with 19 sets logged ac
 
 N SO, MUNÉO, Jason Code
 
-*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/achama/)*
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/achama/)*

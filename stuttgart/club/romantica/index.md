@@ -1,14 +1,13 @@
 # Romantica
 
-Romantica is a music venue in Stuttgart with 8 upcoming nights listed on soundcheck as of Fri, 18 Sept 2026; the next is "HOW HOT IS HOT w ATM & Chaos Disco Club" on Fri, 18 Sept 2026.
+Romantica is a music venue in Stuttgart with 7 upcoming nights listed on soundcheck as of Sat, 19 Sept 2026; the next is "Maier's Lab with Luzie (Mitte der Gesellschaft / clubcherry)" on Sat, 19 Sept 2026.
 
-Romantica is a music venue in Stuttgart listed on soundcheck. 8 upcoming nights, with line-ups including Alexander Maier, Avocado, chaos.disco.club and CHIEF QUEEF and 2 more. Browse upcoming dates, start times and who's playing. Hauptstatter Str. 40, Stuttgart.
+Romantica is a music venue in Stuttgart listed on soundcheck. 7 upcoming nights, with line-ups including Alexander Maier, Avocado, CHIEF QUEEF and ELSA (DE) and 2 more. Browse upcoming dates, start times and who's playing. Hauptstatter Str. 40, Stuttgart.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 18 Sept 2026 | HOW HOT IS HOT w ATM & Chaos Disco Club | chaos.disco.club |
 | Sat, 19 Sept 2026 | Maier's Lab with Luzie (Mitte der Gesellschaft / clubcherry) | Alexander Maier, Luzie |
 | Sun, 20 Sept 2026 | BUNTER HUND AM SONNTAG MIT KRT*HLD |  |
 | Tue, 22 Sept 2026 | MÄRCHENSTUNDE am DIENSTAG mit JANADONNA (RAZZIA) | JANADONNA |
@@ -21,4 +20,4 @@ Romantica is a music venue in Stuttgart listed on soundcheck. 8 upcoming nights,
 
 Hauptstatter Str. 40, Stuttgart, Stuttgart
 
-*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/stuttgart/club/romantica/)*
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/stuttgart/club/romantica/)*

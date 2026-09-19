@@ -1,6 +1,6 @@
 # Robert Owens
 
-Robert Owens is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 18 Sept 2026, next at 50:Hertz House & Techno Club Piazza Rembrandt | Rembrandtplein 45, Amsterdam, Amsterdam on Sat, 24 Oct 2026.
+Robert Owens is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 19 Sept 2026, next at 50:Hertz House & Techno Club Piazza Rembrandt | Rembrandtplein 45, Amsterdam, Amsterdam on Sat, 24 Oct 2026.
 
 Robert Owens is a house and techno artist tracked on soundcheck, with 95 sets logged across Amsterdam, Barcelona, Berlin and Brussels and 16 more. Often billed alongside Frankie Flowerz, Mad Shivers and Philippe Autuori. Next up: 50:Hertz House & Techno Club Piazza Rembrandt | Rembrandtplein 45, Amsterdam, Amsterdam on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ Robert Owens is a house and techno artist tracked on soundcheck, with 95 sets lo
 
 Frankie Flowerz, Mad Shivers, Philippe Autuori
 
-*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/robertowens/)*
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/robertowens/)*

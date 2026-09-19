@@ -1,14 +1,13 @@
 # Maurice Mino
 
-Maurice Mino is a Techno and House artist with 7 upcoming club dates listed on soundcheck as of Fri, 18 Sept 2026, next at Kater, Berlin on Fri, 18 Sept 2026.
+Maurice Mino is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Sat, 19 Sept 2026, next at Die Rakete, Nürnberg on Fri, 25 Sept 2026.
 
-Maurice Mino is a techno and house artist based in Germany, tracked on soundcheck, with 149 sets logged across Berlin, Budapest, Cologne and Frankfurt and 9 more. Often billed alongside Sin:port, Sabura and Konfusia. Next up: Kater, Berlin on Fri 18 Sept.
+Maurice Mino is a techno and house artist based in Germany, tracked on soundcheck, with 149 sets logged across Berlin, Budapest, Cologne and Frankfurt and 9 more. Often billed alongside Sin:port, Sabura and Konfusia. Next up: Die Rakete, Nurnberg on Fri 25 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 18 Sept 2026 | Kater | Berlin |
 | Fri, 25 Sept 2026 | Die Rakete | Nürnberg |
 | Sat, 26 Sept 2026 | Bahnwärter Thiel | Munich |
 | Thu, 15 Oct 2026 | PKH Warehouse | Berlin |
@@ -18,6 +17,7 @@ Maurice Mino is a techno and house artist based in Germany, tracked on soundchec
 
 ## Recently played
 
+- Kater, Berlin — Fri, 18 Sept 2026
 - Straße des 17. Juni, Berlin — Sat, 15 Aug 2026
 - Cassiopeia, Berlin — Sat, 15 Aug 2026
 - TBA - Boat Party on Kaiser Friedrich Dampfer Berlin, Berlin — Fri, 14 Aug 2026
@@ -25,10 +25,9 @@ Maurice Mino is a techno and house artist based in Germany, tracked on soundchec
 - Hinterhof Mitte, Berlin — Fri, 31 Jul 2026
 - Cassiopeia, Berlin — Sat, 11 Jul 2026
 - Ritter Butzke, Berlin — Fri, 10 Jul 2026
-- Wildstylepark, Berlin — Sat, 20 Jun 2026
 
 ## Shares bills with
 
 Sin:port, Sabura, Konfusia
 
-*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mauricemino-de/)*
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mauricemino-de/)*

@@ -1,6 +1,6 @@
 # Florian Kupfer
 
-Florian Kupfer is a Experimental and Ambient artist with 1 upcoming club date listed on soundcheck as of Fri, 18 Sept 2026, next at Stidilä, Helsinki on Sat, 26 Sept 2026.
+Florian Kupfer is a Experimental and Ambient artist with 1 upcoming club date listed on soundcheck as of Sat, 19 Sept 2026, next at Stidilä, Helsinki on Sat, 26 Sept 2026.
 
 Florian Kupfer is an experimental and ambient artist based in Germany, tracked on soundcheck, with 5 sets logged across Berlin and Helsinki. Often billed alongside An-i, Benedikt Frey and Elena Sizova. Next up: Stidilä, Helsinki on Sat 26 Sept.
 
@@ -21,4 +21,4 @@ Florian Kupfer is an experimental and ambient artist based in Germany, tracked o
 
 An-i, Benedikt Frey, Elena Sizova
 
-*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/floriankupfer/)*
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/floriankupfer/)*

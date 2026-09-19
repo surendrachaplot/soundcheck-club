@@ -1,6 +1,6 @@
 # Max Dean
 
-Max Dean is a House and Tech House artist with 10 upcoming club dates listed on soundcheck as of Fri, 18 Sept 2026, next at UNO MALTA, Malta on Fri, 18 Sept 2026.
+Max Dean is a House and Tech House artist with 10 upcoming club dates listed on soundcheck as of Sat, 19 Sept 2026, next at UNO MALTA, Malta on Fri, 18 Sept 2026.
 
 Max Dean is a house and tech house artist tracked on soundcheck, with 230 sets logged across Amsterdam, Auckland, Austin and Bali and 38 more. Often billed alongside Luke Dean_, Josh Baker and East End Dubs. Next up: UNO MALTA, Malta on Fri 18 Sept.
 
@@ -21,6 +21,7 @@ Max Dean is a house and tech house artist tracked on soundcheck, with 230 sets l
 
 ## Recently played
 
+- UNO MALTA, Malta — Fri, 18 Sept 2026
 - 528 Ibiza, Ibiza — Sun, 13 Sept 2026
 - TBA - Secret location announced only to ticket holders, Ibiza — Fri, 11 Sept 2026
 - New City Gas, Montreal — Sun, 6 Sept 2026
@@ -28,10 +29,9 @@ Max Dean is a house and tech house artist tracked on soundcheck, with 230 sets l
 - Kelvedon Hall, London — Sat, 29 Aug 2026
 - Van Nelle Fabriek, Rotterdam — Sat, 29 Aug 2026
 - [UNVRS], Ibiza — Wed, 26 Aug 2026
-- Magazine Open–Air, London — Sat, 15 Aug 2026
 
 ## Shares bills with
 
 Luke Dean_, Josh Baker, East End Dubs
 
-*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/maxdean-uk/)*
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/maxdean-uk/)*

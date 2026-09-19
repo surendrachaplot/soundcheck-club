@@ -1,14 +1,15 @@
 # Cities Aviv
 
-Cities Aviv is a Club and Disco artist with 1 upcoming club date listed on soundcheck as of Fri, 18 Sept 2026, next at Loppen Christiania, Copenhagen on Fri, 25 Sept 2026.
+Cities Aviv is a Club and Disco artist with 2 upcoming club dates listed on soundcheck as of Sat, 19 Sept 2026, next at Loppen Christiania, Copenhagen on Fri, 25 Sept 2026.
 
-Cities Aviv is a club and disco artist tracked on soundcheck, with 8 sets logged across Berlin, Copenhagen, Montreal and Newyorkcity and 3 more. Often billed alongside ANTHEM, Aidan Swank and Alif Hilal. Next up: Loppen Christiania, Copenhagen on Fri 25 Sept.
+Cities Aviv is a club and disco artist tracked on soundcheck, with 9 sets logged across Berlin, Copenhagen, Krakow and Montreal and 4 more. Often billed alongside ANTHEM, Aidan Swank and Alif Hilal. Next up: Loppen Christiania, Copenhagen on Fri 25 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 25 Sept 2026 | Loppen Christiania | Copenhagen |
+| Thu, 8 Oct 2026 | Hotel Forum | Krakow |
 
 ## Recently played
 
@@ -24,4 +25,4 @@ Cities Aviv is a club and disco artist tracked on soundcheck, with 8 sets logged
 
 ANTHEM, Aidan Swank, Alif Hilal
 
-*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/citiesaviv/)*
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/citiesaviv/)*

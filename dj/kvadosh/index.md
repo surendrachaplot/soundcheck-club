@@ -1,6 +1,6 @@
 # kvadosh
 
-kvadosh is a Experimental and Club artist with 1 upcoming club date listed on soundcheck as of Fri, 18 Sept 2026, next at Latraac, Athens on Sat, 19 Sept 2026.
+kvadosh is a Experimental and Club artist with 1 upcoming club date listed on soundcheck as of Sat, 19 Sept 2026, next at Latraac, Athens on Sat, 19 Sept 2026.
 
 kvadosh is an experimental and club artist tracked on soundcheck, with 38 sets logged across Athens, Berlin and Milan. Often billed alongside Troy Violens, Jeph Vanger and Miss Trouli. Next up: Latraac, Athens on Sat 19 Sept.
 
@@ -25,4 +25,4 @@ kvadosh is an experimental and club artist tracked on soundcheck, with 38 sets l
 
 Troy Violens, Jeph Vanger, Miss Trouli
 
-*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kvadosh/)*
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kvadosh/)*

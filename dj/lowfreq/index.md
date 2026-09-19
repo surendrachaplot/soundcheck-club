@@ -1,6 +1,6 @@
 # Low Freq
 
-Low Freq is a Bass and Dub artist with 1 upcoming club date listed on soundcheck as of Fri, 18 Sept 2026, next at control, Bucharest on Sat, 19 Sept 2026.
+Low Freq is a Bass and Dub artist with 1 upcoming club date listed on soundcheck as of Sat, 19 Sept 2026, next at control, Bucharest on Sat, 19 Sept 2026.
 
 Low Freq is a bass and dub artist tracked on soundcheck, with 11 sets logged across Bucharest. Often billed alongside Riddim Bandits, ANIN and matei. Next up: control, Bucharest on Sat 19 Sept.
 
@@ -25,4 +25,4 @@ Low Freq is a bass and dub artist tracked on soundcheck, with 11 sets logged acr
 
 Riddim Bandits, ANIN, matei
 
-*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lowfreq/)*
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lowfreq/)*

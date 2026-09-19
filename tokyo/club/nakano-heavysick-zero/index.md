@@ -1,15 +1,13 @@
 # Nakano Heavysick Zero
 
-Nakano Heavysick Zero is a music venue in Tokyo with 6 upcoming nights listed on soundcheck as of Fri, 18 Sept 2026; the next is "HSZ LOUNGE - Vinyl groove -" on Thu, 17 Sept 2026.
+Nakano Heavysick Zero is a music venue in Tokyo with 4 upcoming nights listed on soundcheck as of Sat, 19 Sept 2026; the next is "LARiX vol.15" on Mon, 21 Sept 2026.
 
-Nakano Heavysick Zero is a music venue in Tokyo listed on soundcheck. 6 upcoming nights, with line-ups including Dogwoods, Hirosson, iida Reo and Isidor and 2 more. Browse upcoming dates, start times and who's playing. 5Chome-41-8,Nakano,Nakano-ku,Tokyo.
+Nakano Heavysick Zero is a music venue in Tokyo listed on soundcheck. 4 upcoming nights, with line-ups including Dogwoods, Hirosson, iida Reo and Isidor and 1 more. Browse upcoming dates, start times and who's playing. 5Chome-41-8,Nakano,Nakano-ku,Tokyo.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Thu, 17 Sept 2026 | HSZ LOUNGE - Vinyl groove - |  |
-| Fri, 18 Sept 2026 | 'Wylie Cable (Dome of Doom Records)' in Tokyo | Wylie Cable, misa nakamura |
 | Mon, 21 Sept 2026 | LARiX vol.15 | Hirosson, Isidor |
 | Thu, 24 Sept 2026 | MIKAN SHAMAN vol.5 | Dogwoods, OKBOY, iida Reo |
 | Fri, 25 Sept 2026 | Oll Korrect |  |
@@ -19,4 +17,4 @@ Nakano Heavysick Zero is a music venue in Tokyo listed on soundcheck. 6 upcoming
 
 5Chome-41-8,Nakano,Nakano-ku,Tokyo, Tokyo
 
-*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/nakano-heavysick-zero/)*
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/nakano-heavysick-zero/)*

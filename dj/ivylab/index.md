@@ -1,6 +1,6 @@
 # Ivy Lab
 
-Ivy Lab is a Bass and Drum & Bass artist with 10 upcoming club dates listed on soundcheck as of Fri, 18 Sept 2026, next at Ogden Theatre, Denver on Fri, 25 Sept 2026.
+Ivy Lab is a Bass and Drum & Bass artist with 10 upcoming club dates listed on soundcheck as of Sat, 19 Sept 2026, next at Ogden Theatre, Denver on Fri, 25 Sept 2026.
 
 Ivy Lab is a bass and drum & bass artist tracked on soundcheck, with 83 sets logged across Antwerp, Auckland, Austin and Berlin and 29 more. Often billed alongside Kasra, Lake Hills and Jubilee. Next up: Ogden Theatre, Denver on Fri 25 Sept.
 
@@ -34,4 +34,4 @@ Ivy Lab is a bass and drum & bass artist tracked on soundcheck, with 83 sets log
 
 Kasra, Lake Hills, Jubilee
 
-*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ivylab/)*
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ivylab/)*

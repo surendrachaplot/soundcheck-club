@@ -1,6 +1,6 @@
 # Southbank Warehouse
 
-Southbank Warehouse is a music venue in Sheffield with 2 upcoming nights listed on soundcheck as of Fri, 18 Sept 2026; the next is "Battle of the Bass Bins" on Sat, 19 Sept 2026.
+Southbank Warehouse is a music venue in Sheffield with 2 upcoming nights listed on soundcheck as of Sat, 19 Sept 2026; the next is "Battle of the Bass Bins" on Sat, 19 Sept 2026.
 
 Southbank Warehouse is a music venue in Sheffield listed on soundcheck. 2 upcoming nights. Browse upcoming dates, start times and who's playing. 90 Effingham Road, Sheffield, S4 7YS.
 
@@ -15,4 +15,4 @@ Southbank Warehouse is a music venue in Sheffield listed on soundcheck. 2 upcomi
 
 90 Effingham Road, Sheffield, S4 7YS, Sheffield
 
-*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/sheffield/club/southbank-warehouse/)*
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/sheffield/club/southbank-warehouse/)*

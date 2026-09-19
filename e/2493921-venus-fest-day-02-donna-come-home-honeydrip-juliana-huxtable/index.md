@@ -1,6 +1,6 @@
 # Venus Fest Day 02: Donna Come Home, Honeydrip & Juliana Huxtable at Allan Gardens Conservatory
 
-Venus Fest Day 02: Donna Come Home, Honeydrip & Juliana Huxtable at Allan Gardens Conservatory on Sat 19 Sept, Toronto. 2 acts on the bill: Honeydrip and Juliana Huxtable. Afrobeat and Tech House. Preview the line-up and save it on soundcheck.
+Venus Fest Day 02: Donna Come Home, Honeydrip & Juliana Huxtable at Allan Gardens Conservatory on Sat 19 Sept, Toronto. 2 acts on the bill: Honeydrip and Juliana Huxtable. Tech House and Afrobeat. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

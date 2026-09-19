@@ -1,6 +1,6 @@
 # Djon
 
-Djon is a Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 18 Sept 2026, next at Lula Club, Madrid on Thu, 24 Sept 2026.
+Djon is a Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 19 Sept 2026, next at Lula Club, Madrid on Thu, 24 Sept 2026.
 
 Djon is a techno artist tracked on soundcheck, with 8 sets logged across Cardiff, Leipzig and Madrid. Often billed alongside Chris Figueroa, Adam Ward and Andrey Solo. Next up: Lula Club, Madrid on Thu 24 Sept.
 
@@ -24,4 +24,4 @@ Djon is a techno artist tracked on soundcheck, with 8 sets logged across Cardiff
 
 Chris Figueroa, Adam Ward, Andrey Solo
 
-*Updated Fri, 18 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djon/)*
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djon/)*
