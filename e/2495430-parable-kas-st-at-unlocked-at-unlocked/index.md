@@ -1,6 +1,6 @@
 # Parable: KAS:ST at UNLOCKED at UNLOCKED
 
-Parable: KAS:ST at UNLOCKED on Fri 2 Oct, London. 1 act on the bill: KAS:ST. Techno and Electronica. Preview the line-up and save it on soundcheck.
+Parable: KAS:ST at UNLOCKED on Fri 2 Oct, London. 2 acts on the bill: KAS:ST and Stefan Rose. Techno and Electronica. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,5 +11,6 @@ Parable: KAS:ST at UNLOCKED on Fri 2 Oct, London. 1 act on the bill: KAS:ST. Tec
 ## Line-up
 
 - KAS:ST
+- Stefan Rose
 
 *Source: [soundcheck](https://soundcheck.club/e/2495430-parable-kas-st-at-unlocked-at-unlocked/)*

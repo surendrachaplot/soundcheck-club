@@ -1,8 +1,8 @@
 # Krankent
 
-Krankent is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Sat, 19 Sept 2026, next at Cafe & Bar Extrawelt, Tokyo on Sat, 19 Sept 2026.
+Krankent is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Sat, 19 Sept 2026, next at Cafe & Bar Extrawelt, Tokyo on Sat, 19 Sept 2026.
 
-Krankent is a techno and house artist tracked on soundcheck, with 102 sets logged across Tokyo. Often billed alongside SIGNAL (JP), KASHIWAGI and t.t.. Next up: Cafe & Bar Extrawelt, Tokyo on Sat 19 Sept.
+Krankent is a techno and house artist tracked on soundcheck, with 103 sets logged across Tokyo. Often billed alongside SIGNAL (JP), KASHIWAGI and t.t.. Next up: Cafe & Bar Extrawelt, Tokyo on Sat 19 Sept.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ Krankent is a techno and house artist tracked on soundcheck, with 102 sets logge
 | Sat, 19 Sept 2026 | Cafe & Bar Extrawelt | Tokyo |
 | Sat, 10 Oct 2026 | ZEROTOKYO | Tokyo |
 | Sun, 11 Oct 2026 | Aoyama Hachi | Tokyo |
+| Thu, 15 Oct 2026 | BRAND SHIBUYA | Tokyo |
 | Sat, 24 Oct 2026 | UTOPIA / DYSTOPIA | Tokyo |
 
 ## Recently played

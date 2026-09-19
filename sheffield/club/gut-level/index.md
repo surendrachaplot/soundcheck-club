@@ -12,7 +12,7 @@ Gut Level is a music venue in Sheffield listed on soundcheck. 10 upcoming gigs, 
 | Wed, 23 Sept 2026 | Crimewave/ KiosK/ Vera Sacra |  |
 | Fri, 25 Sept 2026 | Gut Level presents: Shackleton (live), Cellar Dweller & Gut Level DJs | Shackleton |
 | Sat, 26 Sept 2026 | Fast & Bi-Furious Sheffield | Buggery Grips, Yyre |
-| Sat, 3 Oct 2026 | Aquifer: Porter Brook, Malham Sound, sleepsang, Ol. G | Porter Brook, sleepsang |
+| Sat, 3 Oct 2026 | Aquifer: Porter Brook, Malham Sound, sleepsang, Ol.G | Ol.G, Porter Brook, sleepsang |
 | Fri, 9 Oct 2026 | Silicone Carbide: Shfoosja, TB-316, dj natasha | Shfoosja, TB-316 |
 | Fri, 16 Oct 2026 | Hard Ballet with Danielle | Danielle, FM Arlo, Jacksa |
 | Fri, 23 Oct 2026 | Elements | Phoebe Niamh, VERA SACRA |

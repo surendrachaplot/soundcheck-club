@@ -1,8 +1,8 @@
 # Piccadilly Central
 
-Piccadilly Central is a music venue in Manchester with 5 upcoming gigs listed on soundcheck as of Sat, 19 Sept 2026; the next is "Cool N'Fun N'Nice" on Fri, 25 Sept 2026.
+Piccadilly Central is a music venue in Manchester with 6 upcoming gigs listed on soundcheck as of Sat, 19 Sept 2026; the next is "Cool N'Fun N'Nice" on Fri, 25 Sept 2026.
 
-Piccadilly Central is a music venue in Manchester listed on soundcheck. 5 upcoming gigs, with line-ups including Alex Moore, DJ Batehoven, F3rg13 and Innuendo and 2 more. Browse upcoming dates, start times and who's playing. 38 London Road, Manchester, M1 2PF.
+Piccadilly Central is a music venue in Manchester listed on soundcheck. 6 upcoming gigs, with line-ups including Alex Moore, DJ Batehoven, F3rg13 and Innuendo and 2 more. Browse upcoming dates, start times and who's playing. 38 London Road, Manchester, M1 2PF.
 
 ## What's on
 
@@ -11,6 +11,7 @@ Piccadilly Central is a music venue in Manchester listed on soundcheck. 5 upcomi
 | Fri, 25 Sept 2026 | Cool N'Fun N'Nice | Alex Moore, DJ Batehoven, KURLZ, Sharayda |
 | Sat, 26 Sept 2026 | Full Moon Party | Joey T, Kelvin Andrews |
 | Fri, 2 Oct 2026 | Scuttle presents: Innuendo and Session 4000 | Innuendo, Jovak, session 4000 |
+| Sat, 17 Oct 2026 | Kacper & Jasper present: A Night Of City Pop 3.0 | Kacper Pieta |
 | Fri, 27 Nov 2026 | Revamp 9th Birthday |  |
 | Fri, 11 Dec 2026 | The Danger Zone | F3rg13, Megan Wroe |
 

@@ -1,8 +1,8 @@
 # Laila Amira
 
-Laila Amira is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Sat, 19 Sept 2026, next at Dead Letter No. 9, New York City on Fri, 25 Sept 2026.
+Laila Amira is a House and Disco artist with 3 upcoming club dates listed on soundcheck as of Sat, 19 Sept 2026, next at Dead Letter No. 9, New York City on Fri, 25 Sept 2026.
 
-Laila Amira is a house and disco artist based in United States of America, tracked on soundcheck, with 57 sets logged across Montreal, Newyorkcity and Paris. Often billed alongside Tim Lucent, Lady Harley and Pleasure Jams. Next up: Dead Letter No. 9, Newyorkcity on Fri 25 Sept.
+Laila Amira is a house and disco artist based in United States of America, tracked on soundcheck, with 58 sets logged across Montreal, Newyorkcity and Paris. Often billed alongside Tim Lucent, Lady Harley and Pleasure Jams. Next up: Dead Letter No. 9, Newyorkcity on Fri 25 Sept.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Laila Amira is a house and disco artist based in United States of America, track
 | --- | --- | --- |
 | Fri, 25 Sept 2026 | Dead Letter No. 9 | New York City |
 | Sat, 26 Sept 2026 | House of Yes | New York City |
+| Sat, 3 Oct 2026 | Good Room | New York City |
 
 ## Recently played
 

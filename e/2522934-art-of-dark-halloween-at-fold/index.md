@@ -1,6 +1,6 @@
 # Art Of Dark - Halloween at FOLD
 
-Art Of Dark - Halloween at FOLD on Fri 30 Oct, London. 8 acts on the bill: Colin Chiddle, dj vau, Praslea and Praslesh and 4 more. Techno and Tech House. Preview the line-up and save it on soundcheck.
+Art Of Dark - Halloween at FOLD on Fri 30 Oct, London. 10 acts on the bill: Colin Chiddle, DC Salas, dj vau and GNMR and 6 more. Techno and Tech House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,7 +11,9 @@ Art Of Dark - Halloween at FOLD on Fri 30 Oct, London. 8 acts on the bill: Colin
 ## Line-up
 
 - Colin Chiddle
+- DC Salas
 - dj vau
+- GNMR
 - Praslea
 - Praslesh
 - Raresh

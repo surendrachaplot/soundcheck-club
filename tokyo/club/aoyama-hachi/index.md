@@ -1,8 +1,8 @@
 # Aoyama Hachi
 
-Aoyama Hachi is a music venue in Tokyo with 22 upcoming gigs listed on soundcheck as of Sat, 19 Sept 2026; the next is "End of summer with VRIJ" on Sat, 19 Sept 2026.
+Aoyama Hachi is a music venue in Tokyo with 23 upcoming gigs listed on soundcheck as of Sat, 19 Sept 2026; the next is "End of summer with VRIJ" on Sat, 19 Sept 2026.
 
-Aoyama Hachi is a music venue in Tokyo listed on soundcheck. 22 upcoming gigs, with line-ups including AAGUU, ANiIIIIiiiKii, Anri (2) and Ayana Pattra and 2 more. Browse upcoming dates, start times and who's playing. 4-5-9 Aoyama Building, Shibuya, Shibuya-ku, Tokyo, Japan.
+Aoyama Hachi is a music venue in Tokyo listed on soundcheck. 23 upcoming gigs, with line-ups including AAGUU, AMARI, ANiIIIIiiiKii and Anri (2) and 2 more. Browse upcoming dates, start times and who's playing. 4-5-9 Aoyama Building, Shibuya, Shibuya-ku, Tokyo, Japan.
 
 ## What's on
 

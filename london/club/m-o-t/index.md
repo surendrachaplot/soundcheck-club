@@ -16,7 +16,7 @@ M.O.T is a music venue in London listed on soundcheck. 34 upcoming gigs, with li
 | Thu, 1 Oct 2026 | Twinspinsz ⋆˚𖥔 Reformist & Friends  | N1L, Reformist, TENFOLD |
 | Thu, 1 Oct 2026 | TECHNO IN LONDON - OPEN DECKS & SOCIAL |  |
 | Sat, 3 Oct 2026 | Don't | Jerome Hill, Peder Mannerfelt, the butcher bird |
-| Sat, 3 Oct 2026 | MID WEEK SESSION XXX | DELARA, Juliana Branco, Leonardo Cruz DJ, Mattia Fois, Modlar, Panik Attak, SAN.SAN, Sea Ho, metrologic, nohexcode |
+| Sat, 3 Oct 2026 | MID WEEK SESSION XXX | DELARA, Gloria Rose, Juliana Branco, Leonardo Cruz DJ, Mattia Fois, Modlar, Mona Sage, Panik Attak, SAN.SAN, Sea Ho, TOOTHTAXI, metrologic, nohexcode |
 | Wed, 7 Oct 2026 | Peterparker69, 1LDK & Bornstars [Eastern Margins & FORM presents] | 1LDK, Peterparker69 |
 
 ## Address

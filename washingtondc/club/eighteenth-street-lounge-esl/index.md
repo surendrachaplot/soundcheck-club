@@ -13,7 +13,7 @@ Eighteenth Street Lounge (ESL) is a music venue in Washingtondc listed on soundc
 | Sun, 20 Sept 2026 | ESL Sundays: Nightcap w/ Enzo + Ramos | Ramos (2), enz.O |
 | Wed, 23 Sept 2026 | ESL: Bad Decisions on Wednesday - Open Decks Sessions / Maximiliano Live | MAXIMILIANO (US) |
 | Sat, 26 Sept 2026 | ESL presents: SoundRoom Live series - MicFreack / Maximiliano | MAXIMILIANO (US), Micfreak |
-| Sun, 11 Oct 2026 | ESL: Last Call. Maximiliano / Keenan Orr | Keenan Orr, MAXIMILIANO (US) |
+| Sun, 11 Oct 2026 | ESL: Last Call. Maximiliano  | Keenan Orr, MAXIMILIANO (US) |
 
 ## Address
 

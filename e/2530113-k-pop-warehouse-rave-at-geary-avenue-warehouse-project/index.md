@@ -1,6 +1,6 @@
 # K-pop Warehouse Rave at Geary Avenue Warehouse Project
 
-K-pop Warehouse Rave at Geary Avenue Warehouse Project on Sat 26 Sept, Toronto. Dubstep and Pop. Preview the line-up and save it on soundcheck.
+K-pop Warehouse Rave at Geary Avenue Warehouse Project on Sat 26 Sept, Toronto. Bass and Pop. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

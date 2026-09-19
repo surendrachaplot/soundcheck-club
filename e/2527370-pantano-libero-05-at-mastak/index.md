@@ -1,6 +1,6 @@
 # Pantano Libero 05 at Mastak
 
-Pantano Libero 05 at Mastak on Sat 19 Sept, Warsaw. 2 acts on the bill: Hermeneia and Kovvalsky. Downtempo and Dub. Preview the line-up and save it on soundcheck.
+Pantano Libero 05 at Mastak on Sat 19 Sept, Warsaw. 3 acts on the bill: Artur8, Hermeneia and Kovvalsky. Downtempo and Dub. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ Pantano Libero 05 at Mastak on Sat 19 Sept, Warsaw. 2 acts on the bill: Hermenei
 
 ## Line-up
 
+- Artur8
 - Hermeneia
 - Kovvalsky
 

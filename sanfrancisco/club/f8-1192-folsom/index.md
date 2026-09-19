@@ -1,8 +1,8 @@
 # F8 1192 Folsom
 
-F8 1192 Folsom is a music venue in San Francisco/Oakland with 19 upcoming gigs listed on soundcheck as of Sat, 19 Sept 2026; the next is "Generaiderz X LOTEK: HARDCORE! LEXXY JAX, FORTIFIED STRUCTURES, KIMMYKAT" on Sat, 19 Sept 2026.
+F8 1192 Folsom is a music venue in San Francisco/Oakland with 20 upcoming gigs listed on soundcheck as of Sat, 19 Sept 2026; the next is "Generaiderz X LOTEK: HARDCORE! LEXXY JAX, FORTIFIED STRUCTURES, KIMMYKAT" on Sat, 19 Sept 2026.
 
-F8 1192 Folsom is a music venue in Sanfrancisco listed on soundcheck. 19 upcoming gigs, with line-ups including ALEX GOODCAT, Alkemiss Erika, Amino and ANCARCO and 2 more. Browse upcoming dates, start times and who's playing. 1192 Folsom St, San Francisco, CA 94103.
+F8 1192 Folsom is a music venue in Sanfrancisco listed on soundcheck. 20 upcoming gigs, with line-ups including ALEX GOODCAT, Alkemiss Erika, Amino and ANCARCO and 2 more. Browse upcoming dates, start times and who's playing. 1192 Folsom St, San Francisco, CA 94103.
 
 ## What's on
 

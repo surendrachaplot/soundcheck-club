@@ -1,13 +1,14 @@
 # Lisa
 
-Lisa is a music venue in Lisbon with 1 upcoming gig listed on soundcheck as of Sat, 19 Sept 2026; the next is "Conhecido João & Terzi" on Fri, 25 Sept 2026.
+Lisa is a music venue in Lisbon with 2 upcoming gigs listed on soundcheck as of Sat, 19 Sept 2026; the next is "John Gómez" on Sat, 19 Sept 2026.
 
-Lisa is a music venue in Lisbon listed on soundcheck. 1 upcoming gig, with line-ups including Terzi. Browse upcoming dates, start times and who's playing. Rua das Gaivotas 5 1200178 Lisboa.
+Lisa is a music venue in Lisbon listed on soundcheck. 2 upcoming gigs, with line-ups including André Granada (2), John Gómez and Terzi. Browse upcoming dates, start times and who's playing. Rua das Gaivotas 5 1200178 Lisboa.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
+| Sat, 19 Sept 2026 | John Gómez | André Granada (2), John Gómez |
 | Fri, 25 Sept 2026 | Conhecido João & Terzi | Terzi |
 
 ## Address

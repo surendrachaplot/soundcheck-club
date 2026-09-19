@@ -1,6 +1,6 @@
 # MID WEEK SESSION XXX at M.O.T
 
-MID WEEK SESSION XXX at M.O.T on Sat 3 Oct, London. 10 acts on the bill: DELARA, Juliana Branco, Leonardo Cruz DJ and Mattia Fois and 6 more. Techno and Electro. Preview the line-up and save it on soundcheck.
+MID WEEK SESSION XXX at M.O.T on Sat 3 Oct, London. 13 acts on the bill: DELARA, Gloria Rose, Juliana Branco and Leonardo Cruz DJ and 9 more. Techno and Electro. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,14 +11,17 @@ MID WEEK SESSION XXX at M.O.T on Sat 3 Oct, London. 10 acts on the bill: DELARA,
 ## Line-up
 
 - DELARA
+- Gloria Rose
 - Juliana Branco
 - Leonardo Cruz DJ
 - Mattia Fois
 - metrologic
 - Modlar
+- Mona Sage
 - nohexcode
 - Panik Attak
 - SAN.SAN
 - Sea Ho
+- TOOTHTAXI
 
 *Source: [soundcheck](https://soundcheck.club/e/2491426-mid-week-session-xxx-at-m-o-t/)*

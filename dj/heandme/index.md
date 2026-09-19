@@ -1,13 +1,14 @@
 # HeAndMe
 
-HeAndMe is a House artist with 1 upcoming club date listed on soundcheck as of Sat, 19 Sept 2026, next at BORIS CLUB, Barcelona on Fri, 25 Sept 2026.
+HeAndMe is a House artist with 2 upcoming club dates listed on soundcheck as of Sat, 19 Sept 2026, next at Macarena Club, Barcelona on Thu, 24 Sept 2026.
 
-HeAndMe is a house artist based in Spain, tracked on soundcheck, with 17 sets logged across Barcelona and Madrid. Often billed alongside Ivan Pugliares, Samm (BE) and ARODES. Next up: BORIS CLUB, Barcelona on Fri 25 Sept.
+HeAndMe is a house artist based in Spain, tracked on soundcheck, with 18 sets logged across Barcelona and Madrid. Often billed alongside Ivan Pugliares, Reezar and Samm (BE). Next up: Macarena Club, Barcelona on Thu 24 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Thu, 24 Sept 2026 | Macarena Club | Barcelona |
 | Fri, 25 Sept 2026 | BORIS CLUB | Barcelona |
 
 ## Recently played
@@ -23,6 +24,6 @@ HeAndMe is a house artist based in Spain, tracked on soundcheck, with 17 sets lo
 
 ## Shares bills with
 
-Ivan Pugliares, Samm (BE), ARODES
+Ivan Pugliares, Reezar, Samm (BE)
 
 *Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/heandme/)*

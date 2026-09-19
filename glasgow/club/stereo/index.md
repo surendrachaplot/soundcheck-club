@@ -1,8 +1,8 @@
 # Stereo
 
-Stereo is a music venue in Glasgow with 13 upcoming gigs listed on soundcheck as of Sat, 19 Sept 2026; the next is "Danse Macabre's Sixteenth Birthday" on Sat, 19 Sept 2026.
+Stereo is a music venue in Glasgow with 14 upcoming gigs listed on soundcheck as of Sat, 19 Sept 2026; the next is "Danse Macabre's Sixteenth Birthday" on Sat, 19 Sept 2026.
 
-Stereo is a music venue in Glasgow listed on soundcheck. 13 upcoming gigs, with line-ups including Angel D'lite, Average Joe (2), CLO (2) and Dengue Dengue Dengue and 2 more. Browse upcoming dates, start times and who's playing. 20-28 Renfield Lane; Glasgow, G2 6PH; Scotland; United Kingdom.
+Stereo is a music venue in Glasgow listed on soundcheck. 14 upcoming gigs, with line-ups including Angel D'lite, Average Joe (2), CLO (2) and Dengue Dengue Dengue and 2 more. Browse upcoming dates, start times and who's playing. 20-28 Renfield Lane; Glasgow, G2 6PH; Scotland; United Kingdom.
 
 ## What's on
 
@@ -17,7 +17,7 @@ Stereo is a music venue in Glasgow listed on soundcheck. 13 upcoming gigs, with 
 | Fri, 9 Oct 2026 | KRYLA | Gourlay, Iona.Violet, Quail, naidonovka |
 | Sat, 10 Oct 2026 | Seraphim Sound x Stereo: Fracture | Fracture, Loose E |
 | Fri, 16 Oct 2026 | Club Romantico x Stereo: DNGDNGDNG & Florentino | CLO (2), Dengue Dengue Dengue, Florentino |
-| Fri, 23 Oct 2026 | Aladji x Chicago Footwork Scotland x Stereo: DJ Slugo & username | DJ Slugo |
+| Sat, 17 Oct 2026 | SOUND: Killa P & James Hometown | Hometown Sound, James Hometown, Killa P |
 
 ## Address
 

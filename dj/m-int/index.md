@@ -1,14 +1,15 @@
 # m-int
 
-m-int is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sat, 19 Sept 2026, next at Wall&wall, Tokyo on Mon, 21 Sept 2026.
+m-int is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Sat, 19 Sept 2026, next at Wall&wall, Tokyo on Mon, 21 Sept 2026.
 
-m-int is a techno and house artist tracked on soundcheck, with 37 sets logged across Kyoto and Tokyo. Often billed alongside arow, Terax and Hue Ray. Next up: Wall&wall, Tokyo on Mon 21 Sept.
+m-int is a techno and house artist tracked on soundcheck, with 38 sets logged across Kyoto and Tokyo. Often billed alongside arow, Terax and Hue Ray. Next up: Wall&wall, Tokyo on Mon 21 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Mon, 21 Sept 2026 | Wall&wall | Tokyo |
+| Fri, 9 Oct 2026 | Saloon | Tokyo |
 | Fri, 16 Oct 2026 | clubasia | Tokyo |
 
 ## Recently played

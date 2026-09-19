@@ -1,8 +1,8 @@
 # Nice N Sleazy
 
-Nice N Sleazy is a music venue in Glasgow with 14 upcoming gigs listed on soundcheck as of Sat, 19 Sept 2026; the next is "Gunk w/- Scissor Salad, Alice Austin, PASO + Frank Grime B2B Craigen " on Sat, 19 Sept 2026.
+Nice N Sleazy is a music venue in Glasgow with 15 upcoming gigs listed on soundcheck as of Sat, 19 Sept 2026; the next is "Gunk w/- Scissor Salad, Alice Austin, PASO + Frank Grime B2B Craigen " on Sat, 19 Sept 2026.
 
-Nice N Sleazy is a music venue in Glasgow listed on soundcheck. 14 upcoming gigs, with line-ups including Angel Negrin, Casual Look, Corran and Craigen and 2 more. Browse upcoming dates, start times and who's playing. 421 Sauchiehall Street; Glasgow, G2 3LG; Scotland, United Kingdom.
+Nice N Sleazy is a music venue in Glasgow listed on soundcheck. 15 upcoming gigs, with line-ups including Angel Negrin, Casual Look, Corran and Craigen and 2 more. Browse upcoming dates, start times and who's playing. 421 Sauchiehall Street; Glasgow, G2 3LG; Scotland, United Kingdom.
 
 ## What's on
 

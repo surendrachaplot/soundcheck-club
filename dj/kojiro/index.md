@@ -1,0 +1,28 @@
+# Kojiro
+
+Kojiro is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 19 Sept 2026, next at Aoyama Hachi, Tokyo on Sat, 10 Oct 2026.
+
+Kojiro is a techno and house artist based in Japan, tracked on soundcheck, with 95 sets logged across Osaka and Tokyo. Often billed alongside Taichi Kawahira, DANDAN and PUSTER. Next up: Aoyama Hachi, Tokyo on Sat 10 Oct.
+
+## Upcoming shows
+
+| Date | Venue | City |
+| --- | --- | --- |
+| Sat, 10 Oct 2026 | Aoyama Hachi | Tokyo |
+
+## Recently played
+
+- WOMB, Tokyo — Fri, 18 Sept 2026
+- TBA -    Kodamanomori Camp Ground, Nagano, Tokyo — Fri, 11 Sept 2026
+- clubasia, Tokyo — Fri, 10 Jul 2026
+- Enter Shibuya, Tokyo — Sat, 30 May 2026
+- Output, Tokyo — Fri, 15 May 2026
+- Aoyama Hachi, Tokyo — Wed, 29 Apr 2026
+- Traffic, Tokyo — Sat, 4 Apr 2026
+- Yoyogi Park, Tokyo — Sat, 28 Mar 2026
+
+## Shares bills with
+
+Taichi Kawahira, DANDAN, PUSTER
+
+*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kojiro/)*

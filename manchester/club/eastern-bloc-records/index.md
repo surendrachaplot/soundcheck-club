@@ -1,8 +1,8 @@
 # Eastern Bloc Records
 
-Eastern Bloc Records is a music venue in Manchester with 18 upcoming gigs listed on soundcheck as of Sat, 19 Sept 2026; the next is "Kommen" on Sat, 19 Sept 2026.
+Eastern Bloc Records is a music venue in Manchester with 19 upcoming gigs listed on soundcheck as of Sat, 19 Sept 2026; the next is "Kommen" on Sat, 19 Sept 2026.
 
-Eastern Bloc Records is a music venue in Manchester listed on soundcheck. 18 upcoming gigs, with line-ups including Allius, Andy Green, Artilect and Balrog and 2 more. Browse upcoming dates, start times and who's playing. 5a Stevenson Square, Northern Quarter, Manchester, M1 1DN.
+Eastern Bloc Records is a music venue in Manchester listed on soundcheck. 19 upcoming gigs, with line-ups including Allius, Andy Green, Artilect and Balrog and 2 more. Browse upcoming dates, start times and who's playing. 5a Stevenson Square, Northern Quarter, Manchester, M1 1DN.
 
 ## What's on
 
@@ -15,9 +15,9 @@ Eastern Bloc Records is a music venue in Manchester listed on soundcheck. 18 upc
 | Sat, 26 Sept 2026 | Rhythmwerx W/ Joe Gosling, Means&3rd & Will A | Joe Gosling, Means&3rd, Will A |
 | Sat, 26 Sept 2026 | Rhythmwerx - Joe&will&means&3rd |  |
 | Fri, 2 Oct 2026 | KRNK Collective |  |
+| Sat, 3 Oct 2026 | Krysko B2B Greg Lord All Night Long | Greg Lord, Krysko |
 | Wed, 7 Oct 2026 | Liv East: Live & Signing |  |
 | Thu, 8 Oct 2026 | COVEN | GFA, Gwardy, nowah |
-| Sat, 10 Oct 2026 | Flipside | KAV |
 
 ## Address
 

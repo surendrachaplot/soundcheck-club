@@ -1,6 +1,6 @@
 # Fangtasm Vol.2 at ://about blank
 
-Fangtasm Vol.2 at ://about blank on Sat 31 Oct, Berlin. 6 acts on the bill: Anna Kasyan, Dj Exagggerator, Heshumi and Holywanderer and 2 more. Techno and Electro. Preview the line-up and save it on soundcheck.
+Fangtasm Vol.2 at ://about blank on Sat 31 Oct, Berlin. 7 acts on the bill: Anna Kasyan, Dj Exagggerator, Gretchen B and Heshumi and 3 more. Techno and Electro. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -12,6 +12,7 @@ Fangtasm Vol.2 at ://about blank on Sat 31 Oct, Berlin. 6 acts on the bill: Anna
 
 - Anna Kasyan
 - Dj Exagggerator
+- Gretchen B
 - Heshumi
 - Holywanderer
 - Lifka

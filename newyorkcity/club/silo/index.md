@@ -1,8 +1,8 @@
 # SILO
 
-SILO is a music venue in New York City with 27 upcoming gigs listed on soundcheck as of Sat, 19 Sept 2026; the next is "Baauer: The 'U' Experience" on Sat, 19 Sept 2026.
+SILO is a music venue in New York City with 32 upcoming gigs listed on soundcheck as of Sat, 19 Sept 2026; the next is "Baauer: The 'U' Experience" on Sat, 19 Sept 2026.
 
-SILO is a music venue in Newyorkcity listed on soundcheck. 27 upcoming gigs, with line-ups including Amiti, Anthony Romano, Anyasa and Baauer and 2 more. Browse upcoming dates, start times and who's playing. 90 Scott Ave, East Williamsburg, Brooklyn.
+SILO is a music venue in Newyorkcity listed on soundcheck. 32 upcoming gigs, with line-ups including Amiti, Anthony Romano, Anyasa and Baauer and 2 more. Browse upcoming dates, start times and who's playing. 90 Scott Ave, East Williamsburg, Brooklyn.
 
 ## What's on
 
@@ -17,7 +17,7 @@ SILO is a music venue in Newyorkcity listed on soundcheck. 27 upcoming gigs, wit
 | Sat, 26 Sept 2026 | Sufi Sessions NYC |  |
 | Tue, 29 Sept 2026 | Open Decks with ceviché | ceviché |
 | Wed, 30 Sept 2026 | Open Decks with ceviché, Tunnel Studios, and Party Right Here | ceviché |
-| Thu, 8 Oct 2026 | Lounge Sessions (Main Room Event, Free with RSVP) | Anthony Romano, LEFTI, Thiccboi Drewski |
+| Wed, 7 Oct 2026 | Open Decks with STEEN - 3 YEAR ANNIVERSARY [Full Venue Edition] | STEEN |
 
 ## Address
 

@@ -4149,17 +4149,7 @@
     .ob-h1{ font-family:var(--head); font-weight:800; font-size:clamp(1.9rem, 6.5vw, 2.6rem); letter-spacing:-0.02em; line-height:1.08; margin:0 0 12px; }
     .ob-sub{ color:var(--muted); font-size:var(--fs-base); line-height:1.55; margin:0 0 26px; max-width:44ch; }
     .ob-sub b{ color:var(--fg); font-weight:600; }
-    /* Poster wall (same device as the profile hero): tonight's real posters,
-       dimmed under a veil, so the sign-up screen shows the scene instead of
-       leaning on a huge headline. */
-    .ob-hero{ position:absolute; inset:0; z-index:0; pointer-events:none; }
-    .ob-hero .w{ position:absolute; inset:0; display:grid; grid-template-columns:repeat(4,1fr); grid-auto-rows:1fr; opacity:.3; filter:saturate(.8); }
-    .ob-hero .w i{ background-size:cover; background-position:center; }
-    .ob-hero .v{ position:absolute; inset:0; background:linear-gradient(180deg, rgba(22,16,42,.62) 0%, rgba(22,16,42,.88) 42%, var(--bg) 78%); }
     .obv .ob-wrap{ position:relative; z-index:1; }
-    /* short first step: centre the copy in the space under the header bar
-       (the bar stays in flow — absolute positioning collided with the eyebrow) */
-    .obv.ob-mid #ob-body{ justify-content:center; padding-bottom:8vh; }
     .ob-h1.sm{ font-size:clamp(1.55rem, 5vw, 2rem); }
     .ob-lede{ font:700 var(--fs-lg)/var(--lh-lg) var(--head); color:var(--fg); opacity:.86; line-height:1.24; margin:0 0 20px; max-width:26ch; }
     .obv input[type=email], .obv input[type=text], .obv input[type=tel]{ width:100%; background:var(--surface); border:1px solid var(--border); border-radius:var(--radius); color:var(--fg); font-size:var(--fs-md); padding:14px 16px; }
@@ -4181,6 +4171,154 @@
     .ob-alt{ background:none; border:0; color:var(--muted); font-size:var(--fs-sm); cursor:pointer; padding:14px 0 0; text-align:left; align-self:flex-start; text-decoration:underline; text-underline-offset:3px; }
     .ob-err{ color:var(--danger); font-size:var(--fs-sm); min-height:1.2em; margin-top:10px; }
     .ob-code{ letter-spacing:0.5em; font-variant-numeric:tabular-nums; text-align:center; font-size:var(--fs-lg) !important; max-width:260px; }
+    /* ── THE LANDING (one fold: features, email, in) ──
+       Designed on Paper, page "Onboarding — one fold". The whole signed-out
+       pitch is ONE screen: a wall of artist faces, the headline, the email box,
+       the four things soundcheck does, and the way back in for people who
+       already have an account. It replaces the 6-slide intro.
+
+       Phone has NO header: there is nothing to navigate to yet, and the bar ate
+       a sixth of the fold. The brand lives INSIDE the button instead (.ob-mark).
+       Desktop gets the wordmark back, top-left — it has the room. */
+    .obv.ob-landing .ob-top{ display:none; }
+    .obv.ob-landing .ob-wrap{ max-width:none; padding:0; }
+    /* THE BOTTOM NAV STAYS. The header goes because there is nothing to navigate
+       to before you are in; the tab bar stays because the board says so and
+       because "just look around" has to remain one tap away. The overlay is
+       z-index 900 and .bnav is 70, so the nav is lifted over it while the
+       landing is up, and the fold reserves its height so nothing hides under it. */
+    body.ob-landing-open .bnav{ z-index:901; }
+    /* flex:1, not min-height:100% — .ob-wrap is a flex column, so a percentage
+       min-height resolves against an auto height and the fold stops short. */
+    .ob-land{ position:relative; flex:1; min-height:100%; display:flex; flex-direction:column; }
+    /* The wall is a POOL of 60 shuffled to 30 client-side (/api/onboard/wall is
+       cached 10 min on purpose). 5 across at phone width, 6 at desktop; a face
+       must never repeat in one view. .62 under the veil — .3 was invisible. */
+    .ob-wall{ position:absolute; top:0; left:0; right:0; height:55%; z-index:0; pointer-events:none; overflow:hidden; }
+    .ob-wall .w{ position:absolute; inset:0; display:grid; grid-template-columns:repeat(5,1fr); grid-auto-rows:1fr; opacity:.62; filter:saturate(.85); }
+    .ob-wall .w i{ background-size:cover; background-position:50% 30%; background-color:var(--surface-2); }
+    /* The veil, exactly as measured on the Paper board. The old run started at
+       62% and buried rows one and two — the wall is meant to READ as faces at
+       the top and only then surrender to the dusk. */
+    .ob-wall .v{ position:absolute; inset:0; background:linear-gradient(180deg,
+      rgba(22,16,42,.22) 0%, rgba(22,16,42,.34) 20%, rgba(22,16,42,.72) 46%, rgba(22,16,42,.95) 68%, var(--bg) 82%); }
+    /* TOP-ANCHORED at 100px, which is the board's pitch padding. Centring the
+       block instead pushed the headline 37px down and the feature list 46px,
+       and the whole fold read lower than the design. The tab bar fills the
+       bottom, so there is no void to centre away from. */
+    .ob-land .ob-in{ position:relative; z-index:1; flex:1; display:flex; flex-direction:column;
+      max-width:560px; width:100%; margin:0 auto; padding:100px 20px calc(96px + env(safe-area-inset-bottom)); }
+    .ob-brand{ display:none; }
+    /* Two lines' worth, reserved. "Welcome back." is one line and the join
+       headline is two, so without this the whole fold jumps 11px every time
+       somebody taps the sign-in link — and the promise is that only the WORDS
+       change. Reserved, not clamped: the join headline still wraps naturally. */
+    /* Every number below is MEASURED off the Paper board, not chosen here.
+       30/36 at -0.03em is the headline; a token-derived clamp rendered it at
+       25.7/29.3 and the whole fold read a size too small. */
+    /* line-height and the reserved height are BOTH in em, so a font-size change
+       at any breakpoint carries them with it. Fixed px here overlapped the two
+       headline lines on desktop: the media query grew the type to 56px and left
+       line-height at 36. */
+    .ob-land h1{ font-family:var(--head); font-weight:800; font-size:30px; line-height:1.2; letter-spacing:-0.03em;
+      color:var(--fg); margin:0; text-align:center; text-wrap:balance;
+      min-height:2.4em; display:flex; align-items:flex-end; justify-content:center; }
+    .ob-land .ob-lsub{ color:var(--muted); font-size:14px; line-height:20px; text-align:center; margin:12px 0 0; }
+    .ob-eyebrow2{ display:none; }
+    /* Phone: the field stacks over the button. Desktop turns .ob-frow into a
+       row (below) — same markup, so the swap never re-renders the form. */
+    .ob-land .ob-form{ display:flex; flex-direction:column; align-items:center; padding-top:62px; }
+    .ob-land .ob-frow{ display:contents; }
+    /* The FIELD is not a button, so it is not a pill: 6px and the lighter
+       line-2 border, per the board. It had inherited --radius-btn and read as a
+       second CTA sitting above the real one.
+       The box is the WRAPPER, not the input — the input draws nothing, exactly
+       like .handle-field above, or the generic .obv input rule paints a second
+       field inside the first. */
+    .ob-field{ display:flex; align-items:center; gap:10px; width:100%; height:52px; padding:0 16px;
+      background:var(--surface); border:1px solid var(--line-2); border-radius:6px; }
+    .ob-field:focus-within{ border-color:var(--accent); }
+    .ob-field svg{ flex:0 0 auto; color:var(--faint); }
+    .obv .ob-land .ob-field input[type=email]{ flex:1; min-width:0; height:auto; background:none; border:0; border-radius:0; padding:0; font-size:17px; }
+    .obv .ob-land .ob-field input[type=email]:focus{ outline:none; }
+    .obv .ob-land .ob-field input[type=email]::placeholder{ color:var(--faint); }
+    /* One button shape, and the brand's own name is never the flat orange —
+       the pill is the sunset gradient, with the logo mark drawn in the ink. */
+    .ob-lcta{ display:inline-flex; align-items:center; justify-content:center; gap:10px; height:48px; padding:0 26px; margin-top:16px;
+      background:var(--accent-grad); color:var(--accent-ink); border:0; border-radius:var(--radius-btn);
+      box-shadow:0 8px 30px rgba(0,0,0,0.45);   /* the board's lift — it sits over the wall, not on flat ground */
+      font:700 17px/1 var(--head); cursor:pointer; transition:transform var(--dur-1) var(--ease-standard); }
+    .ob-lcta:active{ transform:scale(0.97); }
+    .ob-lcta:disabled{ opacity:0.45; cursor:default; }
+    .ob-mark{ flex:0 0 auto; }
+    /* The generic .ob-err reserves 1.2em so a message doesn't shove the button.
+       Here the message sits BELOW everything it could shove, so the reserved
+       line is just a hole under the CTA. Collapse it until it has something. */
+    .ob-land .ob-err{ min-height:0; margin-top:0; }
+    .ob-land .ob-err:not(:empty){ margin-top:10px; }
+    .ob-fine{ color:var(--muted); font-size:12px; line-height:16px; text-align:center; margin-top:16px; }
+    /* The way back in. Removing the phone header removed the only "sign in" on
+       the whole screen — and /api/auth/start already signs returning people in
+       (findOrCreateUser), so this is a WORD problem, not a back-end one. */
+    .ob-route{ display:flex; align-items:center; justify-content:center; gap:6px; margin-top:12px; font-size:13px; line-height:18px; }
+    .ob-route span{ color:var(--faint); }
+    .ob-route button{ background:none; border:0; padding:0; color:var(--muted); font:inherit; cursor:pointer;
+      text-decoration:underline; text-decoration-thickness:1px; text-underline-offset:3px; }
+    /* White at 7%, not --border: over the wall's fade a solid plum line reads
+       as a seam, and the board's hairline is a lift, not a rule. */
+    .ob-hair{ height:1px; background:rgba(255,255,255,0.07); margin:10px 0 0; }
+    /* The list FOLLOWS the hairline — it is the rest of the sentence the form
+       started, not a footer. margin-top:auto pinned it to the bottom edge and
+       left a void through the middle of the fold. */
+    .ob-feat{ display:flex; flex-direction:column; gap:22px; padding:22px 0 0; }
+    .ob-fline{ display:flex; align-items:center; gap:14px; font-size:17px; line-height:23px; }
+    .ob-fline svg{ flex:0 0 auto; color:var(--faint); }
+    .ob-fline b{ font-weight:700; color:var(--fg); }
+    .ob-fline span{ color:var(--faint); min-width:0; }
+    /* Phone defaults FIRST — these must precede the media query or, at equal
+       specificity, they win inside it and the web features never appear. */
+    .ob-fweb{ display:none; }
+    .ob-fline .l{ display:none; }
+    /* WEB, 1440 — board D9B-0. A wider wall, bigger type, the field and the pill
+       side by side, and SIX features in three columns with their longer lines:
+       the phone's short copy was written for a 362px column and reads clipped
+       across a 1080px row. */
+    @media (min-width:900px){
+      .ob-wall .w{ grid-template-columns:repeat(6,1fr); }
+      /* 167px = the board's 83px site header plus the pitch's own 84px padding.
+         The overlay has no real nav, so the wordmark sits where the nav's does. */
+      /* 1144 = the board's 1080 content measure PLUS its 32px gutters. At 1080
+         the padding ate the measure, the feature columns came out 319 instead
+         of 340, and three of the six lines wrapped by a single pixel. */
+      .ob-land .ob-in{ max-width:1144px; padding:167px 32px 40px; }
+      .ob-brand{ display:block; position:absolute; top:30px; left:32px; margin:0; }
+      /* The headline is 1250px at 56px and must NOT be squeezed into the 1080
+         content column — only the features live at that measure. */
+      .ob-land h1{ font-size:clamp(2.4rem, 3.9vw, 3.5rem); line-height:1.143; min-height:2.286em;
+        width:100vw; max-width:1376px; margin-left:50%; transform:translateX(-50%); }
+      .ob-land .ob-lsub{ font-size:18px; line-height:26px; margin-top:14px; }
+      .ob-land .ob-form{ padding-top:40px; }
+      .ob-land .ob-frow{ display:flex; align-items:center; gap:12px; width:100%; max-width:580px; }
+      .ob-land .ob-frow .ob-field{ flex:1; min-width:0; }
+      .ob-land .ob-frow .ob-lcta{ margin-top:0; flex:0 0 auto; height:52px; padding:0 28px; gap:9px; }
+      /* The board's web wall is 760 of 900 — 84%, not the phone's 55% — and its
+         veil is a different run: dark at the very top so the nav reads, open
+         through the middle, closing to solid at the foot. */
+      .ob-wall{ height:84.4%; }
+      .ob-wall .v{ background:linear-gradient(180deg,
+        rgba(22,16,42,.88) 0%, rgba(22,16,42,.42) 16%, rgba(22,16,42,.58) 48%, rgba(22,16,42,.90) 78%, var(--bg) 100%); }
+      .ob-eyebrow2{ display:block; margin:0 0 14px; font:700 11px/1 var(--font-mono); letter-spacing:0.22em; text-transform:uppercase; color:var(--faint); }
+      .ob-hair{ margin-top:56px; background:rgba(255,255,255,0.08); }
+      /* 15/22, not the phone's 17/23 — at 17 the longer web lines wrap to two
+         and the 2x3 grid stops being a grid. */
+      .ob-feat{ display:grid; grid-template-columns:repeat(3,1fr); gap:24px 30px; padding-top:26px; width:100%; }
+      .ob-fline{ font-size:15px; line-height:22px; align-items:flex-start; }
+      .ob-fline svg{ margin-top:1px; }
+      .ob-fline span{ color:var(--muted); }
+      .ob-fline .s{ display:none; }
+      .ob-fline .l{ display:inline; }
+      .ob-fweb{ display:flex; }
+    }
     .ob-city{ display:flex; align-items:center; gap:12px; flex-wrap:wrap; }
     .ob-city .ob-alt{ align-self:center; padding:0; }
     .ob-citypill{ display:inline-flex; align-items:center; gap:8px; background:var(--sel-weak); border:1.5px solid var(--sel); color:var(--fg); border-radius:999px; padding:10px 18px; font:700 var(--fs-base)/var(--lh-base) var(--body); }
@@ -4204,48 +4342,6 @@
     .ob-card{ margin:4px 0 6px; max-width:340px; width:100%; border-radius:var(--radius-lg); border:1px solid var(--border); box-shadow:0 24px 60px rgba(0,0,0,0.5); }
     .ob-ctarow{ display:flex; align-items:center; gap:14px; flex-wrap:wrap; }
     @media (min-width:700px){ .ob-wrap{ padding-top:8vh; } }
-    /* ── intro carousel: one promise per screen, a real slice of the product
-       under it, dots at the foot. Swipe or tap the dots. ──────────────────── */
-    .ob-car{ display:flex; overflow-x:auto; scroll-snap-type:x mandatory; scroll-behavior:smooth; -webkit-overflow-scrolling:touch; scrollbar-width:none; margin:0 -22px; flex:1; }
-    .ob-car::-webkit-scrollbar{ display:none; }
-    .ob-slide{ min-width:100%; scroll-snap-align:center; padding:0 22px; display:flex; flex-direction:column; }
-    .ob-slide h2{ font-family:var(--head); font-weight:800; font-size:clamp(1.5rem,5.4vw,1.9rem); line-height:1.14; letter-spacing:-0.02em; text-align:center; }
-    .ob-slide .s{ color:var(--muted); font-size:var(--fs-base); line-height:1.5; text-align:center; margin:10px 0 22px; }
-    .ob-stage{ flex:1; min-height:0; }
-    /* preview: artist actions */
-    .ob-pv{ background:var(--surface); border:1px solid var(--border); border-radius:var(--radius-lg); overflow:hidden; }
-    .ob-pvart{ height:180px; background-size:cover; background-position:center; border-radius:var(--radius-md); margin-bottom:-22px; }
-    .ob-acts{ display:flex; border-bottom:1px solid var(--border); }
-    .ob-acts span{ flex:1; text-align:center; padding:15px 4px 12px; }
-    .ob-acts b{ display:block; font-size:var(--fs-lg); line-height:1; color:var(--muted); }
-    .ob-acts b.on{ color:var(--sel); }
-    .ob-acts b.pl{ background:var(--accent-grad); -webkit-background-clip:text; background-clip:text; color:transparent; }
-    .ob-acts i{ display:block; font-style:normal; font-size:var(--fs-2xs); color:var(--muted); margin-top:7px; }
-    .ob-acts span.on i{ color:var(--fg); }
-    .ob-pvrow{ padding:13px 15px; border-bottom:1px solid var(--border); font-size:var(--fs-base); font-weight:600; }
-    .ob-pvrow.d{ color:var(--muted); } .ob-pvrow.dd{ color:rgba(169,159,206,.45); }
-    /* preview: rows (log / diary / feed / playlist) */
-    .ob-rw{ display:flex; align-items:center; gap:11px; padding:10px 0; border-bottom:1px solid var(--border); }
-    .ob-rw .th{ width:46px; height:46px; border-radius:8px; background:var(--surface-2); background-size:cover; background-position:center; flex:0 0 auto; }
-    .ob-rw .tx{ flex:1; min-width:0; }
-    .ob-rw .tx b{ display:block; font-size:var(--fs-base); font-weight:700; white-space:nowrap; overflow:hidden; text-overflow:ellipsis; }
-    .ob-rw .tx i{ display:block; font-style:normal; color:var(--muted); font-size:var(--fs-sm); margin-top:3px; white-space:nowrap; overflow:hidden; text-overflow:ellipsis; }
-    .ob-rw .tx i.ac{ color:var(--accent); font-weight:600; }
-    .ob-rw .pin{ width:28px; height:28px; border-radius:50%; border:1.5px solid var(--line-2); color:var(--muted); display:flex; align-items:center; justify-content:center; font-size:var(--fs-base); flex:0 0 auto; }
-    .ob-rw .pin.on{ background:var(--sel); border-color:var(--sel); color:var(--sel-ink); }
-    .ob-rw .play{ width:30px; height:30px; border-radius:50%; background:var(--accent-grad); color:var(--accent-ink); display:flex; align-items:center; justify-content:center; font-size:var(--fs-2xs); flex:0 0 auto; }
-    .ob-date{ width:40px; flex:0 0 auto; text-align:center; border:1px solid var(--line-2); border-radius:8px; padding:5px 0; }
-    .ob-date b{ display:block; font:800 var(--fs-base)/var(--lh-base) var(--head); line-height:1; }
-    .ob-date i{ display:block; font-style:normal; font-size:var(--fs-2xs); color:var(--muted); letter-spacing:.08em; margin-top:2px; }
-    .ob-month{ background:var(--surface); border-radius:8px; padding:8px 12px; font:700 var(--fs-xs)/var(--lh-xs) var(--font-mono); letter-spacing:.18em; color:var(--muted); margin-bottom:4px; }
-    .ob-fld{ background:rgba(255,255,255,.06); border-radius:10px; padding:11px 14px; font-size:var(--fs-base); margin-bottom:12px; }
-    .ob-cnt{ margin-top:12px; font:700 var(--fs-xs)/var(--lh-xs) var(--font-mono); letter-spacing:.08em; text-transform:uppercase; color:var(--muted); }
-    .ob-cnt b{ color:var(--accent); }
-    .ob-cardimg{ width:100%; border-radius:var(--radius-md); border:1px solid var(--border); display:block; }
-    /* dots double as taps */
-    .ob-cdots{ display:flex; gap:8px; justify-content:center; padding:16px 0 4px; }
-    .ob-cdots button{ width:8px; height:8px; padding:0; border:0; border-radius:50%; background:var(--surface-2); cursor:pointer; }
-    .ob-cdots button.on{ background:var(--accent); }
     /* A segmented control gets the SAME vertical rhythm whether or not it has a
        Share button beside it. Adding the row wrapper used to zero .pf-seg's
        margins and never replace them, so My Artists / My Playlist sat flush
@@ -4448,7 +4544,7 @@
   <!-- Umami analytics. defer so it never blocks first paint; the SPA rewrites
        history on navigation, which umami picks up automatically. -->
   <script defer src="https://cloud.umami.is/script.js" data-website-id="de210b6c-12e4-4819-95f6-f5120974855a"></script>
-<meta name="sc-build" content="1789828943268">
+<meta name="sc-build" content="1789845004247">
   <link rel="canonical" href="https://soundcheck.club/" />
   <meta property="og:image" content="https://api.soundcheck.club/api/og?v=2&t=soundcheck&s=Gigs%20%26%20artist%20sets%20in%20104%20cities" />
 </head>
@@ -4652,7 +4748,7 @@
     // with the app's CITIES_V (soundcheck-native src/api.ts); the endpoints differ,
     // but one number is easier to keep honest than two.
     var CITIES_V = '3';   // 2026-09-13: Helsinki added
-    var YT_SETS_V = '6';   // 2026-09-15: YouTube sets carry a publish date; every Sets list sorts newest first
+    var YT_SETS_V = '7';   // 2026-09-19: sets ranked newest-first (a b2b no longer loses to an older solo), so play starts the most recent
 
     var EMAIL_RE = /^[^\s@]+@[^\s@]+\.[^\s@]+$/;
 
@@ -6305,7 +6401,10 @@
     onEl('bnav-search','click',function(){ openSearch(); });
     onEl('bnav-scenes','click',function(){ openScenes(); });
     onEl('bnav-log','click',function(){ if(!currentUser){ openAuth(); return; } openLog(); });
-    onEl('bnav-profile','click',function(){ whenAuthKnown().then(function(){ if(currentUser) openAccount(); else scOnboard('city'); }); });
+    // Signed out, "You" is the pitch, not the wizard's city step — that step
+    // belongs AFTER the link is clicked, and landing on it cold asked a stranger
+    // to pick a city before anything had explained what soundcheck is.
+    onEl('bnav-profile','click',function(){ whenAuthKnown().then(function(){ if(currentUser) openAccount(); else scOnboard('email'); }); });
     // Canonical SEO hrefs for entities — used to render real <a> links (hover URL,
     // right-click "open in new tab", middle/cmd-click all work natively) and as the
     // fallback resolver for any nav element that isn't yet an anchor.
@@ -6705,7 +6804,10 @@
       bar.hidden=false;
     }
     function promoAct(k){
-      if(k==='signup'){ openAuth(); return; }
+      // The banner's "sign up" goes to the LANDING, not the little auth modal.
+      // It is the one place someone is being pitched rather than gated, so it
+      // gets the page that does the pitching.
+      if(k==='signup'){ scOnboard('email'); return; }
       // Signed in, so the account already carries the email a waitlist would
       // ask for. One tap records the intent against that account — no form, and
       // no new table: feedback already stores kind + user, and is queryable.
@@ -12067,10 +12169,9 @@
       document.body.appendChild(el);
       return el;
     }
-    function obClose(){ var el=document.getElementById('obv'); if(el) el.classList.remove('show'); document.documentElement.style.overflow=''; }
+    function obClose(){ var el=document.getElementById('obv'); if(el) el.classList.remove('show'); document.documentElement.style.overflow=''; document.body.classList.remove('ob-landing-open'); }
     function obBody(html){ var el=obEl(); el.classList.add('show'); document.documentElement.style.overflow='hidden';
-      var oldHero=el.querySelector('.ob-hero'); if(oldHero) oldHero.remove();   // the wall belongs to the email step only
-      el.classList.remove('ob-mid');
+      el.classList.remove('ob-landing'); document.body.classList.remove('ob-landing-open');
       el.querySelector('#ob-body').innerHTML=html; el.scrollTop=0; return el; }
     function obChrome(step){
       var el=obEl(), dots=el.querySelector('#ob-dots'), skip=el.querySelector('#ob-skip');
@@ -12084,8 +12185,10 @@
       // order. Picks ride the anonymous cookie identity and migrate on sign-in.
       var OPEN={intro:1,email:1,inbox:1,city:1,pick:1,card:1};
       if(!OPEN[step] && !currentUser){ step='email'; }
+      // The 6-slide carousel IS the landing now — one fold says the same six
+      // things without six swipes. Every old entry point ('intro') lands here.
+      if(step==='intro') step='email';
       obChrome(step);
-      if(step==='intro') return obStepIntro();
       if(step==='email') return obStepEmail();
       if(step==='inbox') return obStepInbox();
       if(step==='city') return obStepCity();
@@ -12094,131 +12197,138 @@
       if(step==='suggest') return obStepSuggest();
       if(step==='card') return obStepCard();
     }
-    // ── INTRO CAROUSEL ────────────────────────────────────────────────────
-    // Six slides, one promise each, every preview built from tonight's REAL
-    // listings (one /api/app/feed call, shared with the poster wall) so the
-    // product is doing the selling. Ends on the scene card → email step.
-    var _obFeed=null;
-    function obFeed(){
-      if(_obFeed) return Promise.resolve(_obFeed);
-      return pubGet('/api/app/feed?city='+encodeURIComponent(_ob.city||currentCity||'london'))
-        .then(function(j){ _obFeed=(j&&j.events)||[]; return _obFeed; }).catch(function(){ return []; });
-    }
-    function obDateTile(iso){
-      var d=new Date(iso+'T12:00:00Z');
-      return '<span class="ob-date"><b>'+d.getUTCDate()+'</b><i>'+d.toLocaleDateString('en-GB',{month:'short',timeZone:'UTC'}).toUpperCase()+'</i></span>';
-    }
-    function obSlidesHTML(evs){
-      var e0=evs[0]||{}, poster=function(e,w){ return e&&e.poster?imgUrl(e.poster,w||160):''; };
-      var acts=function(e){ return ((e&&e.artists)||[]).map(function(a){ return a.name; }); };
-      var row=function(e,right){
-        return '<div class="ob-rw">'+(poster(e)?'<span class="th" style="background-image:url('+poster(e)+')"></span>':'<span class="th"></span>')+
-          '<span class="tx"><b>'+esc(e.title||'Gig')+'</b><i>'+esc([e.venue].filter(Boolean).join(' · '))+'</i></span>'+(right||'')+'</div>';
-      };
-      // 1 · artist actions
-      var s1='<div class="ob-stage">'+(poster(e0,600)?'<div class="ob-pvart" style="background-image:url('+poster(e0,600)+')"></div>':'')+
-        '<div class="ob-pv"><div class="ob-acts">'+
-          '<span class="on"><b class="on">✓</b><i>Seen live</i></span>'+
-          '<span><b>♡</b><i>Wanna see</i></span>'+
-          '<span><b class="pl">▶</b><i>Play a set</i></span></div>'+
-        '<div class="ob-pvrow">Log a gig with '+esc((acts(e0)[0])||'them')+'</div>'+
-        '<div class="ob-pvrow">Add to a playlist</div>'+
-        '<div class="ob-pvrow d">Go to artist</div>'+
-        '<div class="ob-pvrow dd">Share</div></div></div>';
-      // 2 · quick log
-      var s2='<div class="ob-stage"><div class="ob-pv" style="padding:14px 13px">'+
-        '<div class="ob-eyebrow" style="margin-bottom:8px">SEARCH A GIG</div>'+
-        '<div class="ob-fld">'+esc((e0.venue||'fabric').toLowerCase())+'</div>'+
-        evs.slice(0,3).map(function(e,i){ return row(e,'<span class="pin'+(i===0?' on':'')+'">'+(i===0?'✓':'+')+'</span>'); }).join('')+
-        '<div class="ob-cnt"><b>1</b> logged · keep going</div></div></div>';
-      // 3 · the diary
-      var s3='<div class="ob-stage"><div class="ob-month">THIS MONTH</div>'+
-        evs.slice(0,6).map(function(e){
-          var a=acts(e);
-          return '<div class="ob-rw">'+obDateTile((e.startTime||'').slice(0,10)||new Date().toISOString().slice(0,10))+
-            (poster(e)?'<span class="th" style="background-image:url('+poster(e)+')"></span>':'<span class="th"></span>')+
-            '<span class="tx"><b>'+esc(e.venue||'Gig')+'</b><i class="ac">'+esc(a.slice(0,2).join(', ')+(a.length>2?' +'+(a.length-2):''))+'</i></span></div>';
-        }).join('')+'</div>';
-      // 4 · friends
-      var who=['maya','theo','ren','kaya'], verb=['logged','is going to','marked seen','shared a playlist'];
-      var s4='<div class="ob-stage">'+evs.slice(0,4).map(function(e,i){
-        var a=acts(e);
-        return '<div class="ob-rw"><span class="th" style="border-radius:50%;background:'+sceneTone(who[i])+'"></span>'+
-          '<span class="tx"><b>u/'+who[i]+' <span style="color:var(--muted);font-weight:400">'+verb[i]+'</span> '+esc(i===2?(a[0]||e.venue||'an artist'):(e.venue||e.title||''))+'</b>'+
-          '<i>'+esc(a.slice(0,2).join(', ')||e.title||'')+'</i></span></div>';
-      }).join('')+'</div>';
-      // 5 · playlists + sets
-      var s5='<div class="ob-stage"><div class="fp-tabs" style="margin:0 0 12px"><button class="fp-tab on" type="button">Playlists</button><button class="fp-tab" type="button">Queue</button><button class="fp-tab" type="button">Listened</button></div>'+
-        '<div style="margin-bottom:10px"><b style="font:800 1.15rem var(--head)">Warehouse warmup</b><div style="color:var(--muted);font-size:var(--fs-sm)">'+evs.length+' sets · shared with 4 friends</div></div>'+
-        evs.slice(0,5).map(function(e){ var a=acts(e);
-          return '<div class="ob-rw">'+(poster(e)?'<span class="th" style="background-image:url('+poster(e)+')"></span>':'<span class="th"></span>')+
-          '<span class="tx"><b>'+esc(a[0]||e.title||'Set')+'</b><i>'+esc(e.venue||'')+'</i></span><span class="play">'+PLAY_SVG_SM+'</span></div>'; }).join('')+'</div>';
-      // 6 · the scene card
-      var s6='<div class="ob-stage" style="display:flex;align-items:center"><div style="width:100%">'+
-        '<img class="ob-cardimg" alt="Example scene card" src="'+attrEsc(API_BASE+'/api/card?u=surendra')+'">'+
-        '</div></div>';
-      return [
-        { h:'Every artist you&rsquo;ve seen,<br>on the record', s:'Mark them seen, save the ones you want to catch, play their sets.', b:s1 },
-        { h:'Log a gig<br>in two taps', s:'Search the gig, tap it. The whole line-up is marked seen.', b:s2 },
-        { h:'Your gig diary,<br>month by month', s:'Every gig you&rsquo;ve been to, with who played.', b:s3 },
-        { h:'Follow your people', s:'See what they&rsquo;re catching, and where they&rsquo;re going next.', b:s4 },
-        { h:'Playlists, sets<br>and the scene', s:'Build playlists from the bills you love. Every set, one tap away.', b:s5 },
-        { h:'Your scene card', s:'You, in artists. Post it to your story or the group chat.', b:s6 },
-      ];
-    }
-    var PLAY_SVG_SM='<svg viewBox="0 0 24 24" width="11" height="11" fill="currentColor" aria-hidden="true"><path d="M8 5v14l11-7z"/></svg>';
-    function obStepIntro(){
-      var el=obBody('<div class="ob-car" id="ob-car"></div>'+
-        '<div class="ob-cdots" id="ob-cd"></div>'+
-        '<button class="ob-cta" id="ob-introgo" type="button">Get started</button>'+
-        '<button class="ob-alt" id="ob-introskip" type="button">Not now &mdash; just look around</button>');
-      el.classList.add('ob-mid');
-      var car=el.querySelector('#ob-car'), cd=el.querySelector('#ob-cd');
-      function paint(slides){
-        car.innerHTML=slides.map(function(s){ return '<section class="ob-slide"><h2>'+s.h+'</h2><p class="s">'+s.s+'</p>'+s.b+'</section>'; }).join('');
-        cd.innerHTML=slides.map(function(_,i){ return '<button type="button" data-i="'+i+'" class="'+(i?'':'on')+'" aria-label="Slide '+(i+1)+'"></button>'; }).join('');
-        var w=function(){ return car.clientWidth||1; };
-        cd.addEventListener('click',function(e){ var b=e.target.closest('[data-i]'); if(b) car.scrollTo({ left:(+b.dataset.i)*w(), behavior:'smooth' }); });
-        car.addEventListener('scroll',function(){
-          var i=Math.round(car.scrollLeft/w());
-          cd.querySelectorAll('button').forEach(function(b,j){ b.classList.toggle('on', j===i); });
-          var go=el.querySelector('#ob-introgo'); if(go) go.textContent = i===slides.length-1 ? 'Get my scene card' : 'Get started';
-        }, { passive:true });
-      }
-      paint(obSlidesHTML([]));                       // instant frame (no images yet)
-      obFeed().then(function(evs){ if(evs.length && document.getElementById('ob-car')) paint(obSlidesHTML(evs)); });
-      el.querySelector('#ob-introgo').addEventListener('click',function(){ scOnboard('email'); });
-      el.querySelector('#ob-introskip').addEventListener('click',obClose);
-      obPosterWall();
-    }
 
-    // Tonight's real posters as a dimmed wall behind the sign-up copy (mirrors
-    // the profile hero). Fails silent — no wall, just the dusk ground.
-    function obPosterWall(){
-      var el=document.getElementById('obv'); if(!el || el.querySelector('.ob-hero')) return;
-      pubGet('/api/app/feed?city='+encodeURIComponent(_ob.city||currentCity||'london')).then(function(j){
-        var posters=((j&&j.events)||[]).map(function(e){ return e.poster; }).filter(Boolean).slice(0,12);
-        if(posters.length<4 || !document.getElementById('obv')) return;
-        while(posters.length<12) posters=posters.concat(posters.slice(0, 12-posters.length));
-        var hero=document.createElement('div'); hero.className='ob-hero'; hero.setAttribute('aria-hidden','true');
-        hero.innerHTML='<div class="w">'+posters.map(function(u){ return '<i style="background-image:url('+imgUrl(u,240)+')"></i>'; }).join('')+'</div><div class="v"></div>';
-        el.insertBefore(hero, el.firstChild);
+    /**
+     * THE LANDING'S WALL — real artists who are playing this city, never the
+     * same twice.
+     *
+     * A face must NEVER repeat in one view: tiling six posters thirty times is
+     * exactly what got the first version rejected. So the server hands back a
+     * POOL of up to 60 (cached 10 min, which is why it does not shuffle) and the
+     * shuffle happens HERE, per load. Fisher-Yates, not sort(random), which is
+     * biased and on some engines not even a permutation.
+     *
+     * Degrades in one direction only: fewer than 30 faces means a smaller grid,
+     * never a repeated one, and nothing at all means the plain dusk ground. The
+     * wall is decoration — it must never delay or block the email field.
+     */
+    function obFaceWall(){
+      var el=document.getElementById('obv'); if(!el || el.querySelector('.ob-wall')) return;
+      pubGet('/api/onboard/wall?city='+encodeURIComponent(_ob.city||currentCity||'london')).then(function(j){
+        var pool=((j&&j.artists)||[]).map(function(a){ return a.image; }).filter(Boolean);
+        var host=el.querySelector('.ob-land'); if(!pool.length || !host || el.querySelector('.ob-wall')) return;
+        for(var i=pool.length-1;i>0;i--){ var k=Math.floor(Math.random()*(i+1)); var t=pool[i]; pool[i]=pool[k]; pool[k]=t; }
+        // 30 fills five columns exactly; a part-row of faces reads as a mistake.
+        var n=Math.min(30, pool.length - (pool.length % 5));
+        if(n<10) return;
+        var wall=document.createElement('div'); wall.className='ob-wall'; wall.setAttribute('aria-hidden','true');
+        wall.innerHTML='<div class="w">'+pool.slice(0,n).map(function(u){
+          return '<i style="background-image:url('+attrEsc(imgUrl(u,240))+')"></i>'; }).join('')+'</div><div class="v"></div>';
+        host.insertBefore(wall, host.firstChild);
       }).catch(function(){});
     }
-    function obStepEmail(){
-      // Two questions across two type levels (not one four-line block), over a
-      // poster wall of tonight's real events — the profile-hero device reused.
-      var el=obBody('<div class="ob-eyebrow">Discover new music and events</div>'+
-        '<h1 class="ob-h1 sm">Deciding which artists to watch next?</h1>'+
-        '<p class="ob-lede">Want to follow what your friends are listening to?</p>'+
-        '<p class="ob-sub">Discover and follow new artists, events and venues. Log and share your gigs with your friends all in one place.</p>'+
-        '<input type="email" id="ob-email" placeholder="you@…" autocomplete="email" inputmode="email" value="'+attrEsc(_ob.email)+'">'+
-        '<button class="ob-cta" id="ob-send" type="button">Send my link</button>'+
-        '<div class="ob-err" id="ob-err"></div>'+
-        '<button class="ob-alt" id="ob-close1" type="button">Not now &mdash; just look around</button>');
-      el.classList.add('ob-mid');
-      obPosterWall();
+
+    // The four things, in the order they matter. Icons are inline SVG: the app
+    // never loads the Tabler webfont, so <i class="ti"> renders an empty box.
+    // [word, phone line, web line, icon path, web-only?]
+    //
+    // Two lines per feature ON PURPOSE. The short one was written for a 362px
+    // phone column and reads clipped across a 1080px web row; the long one
+    // wraps to two lines on a phone. Both ship and CSS picks — a media query at
+    // render time would go stale the moment somebody resizes the window.
+    var OB_FEATURES=[
+      ['See','every gig in your city','every gig in your city','<rect x="3" y="4.5" width="14" height="13" rx="2.5"/><path d="M3 8.5h14M7 2.5v3M13 2.5v3"/>'],
+      ['Play','any artist&rsquo;s newest set','any artist&rsquo;s newest set before you go','<path d="M6 3.5l11 6.5-11 6.5z"/>'],
+      ['Follow','artists, clubs and friends','artists and clubs, get their new gigs','<path d="M10 17s-6.5-4.2-6.5-8.4A3.6 3.6 0 0110 6.3a3.6 3.6 0 016.5 2.3C16.5 12.8 10 17 10 17z"/>'],
+      ['Log','your gigs, share your taste','a gig in two taps, keep the diary','<rect x="4" y="2.5" width="12" height="15" rx="2"/><path d="M7.5 7h5M7.5 10.5h5M7.5 14h3"/>'],
+      ['Find','','your friends, see where they&rsquo;re going','<circle cx="8" cy="7" r="3"/><path d="M2.5 17c0-3 2.5-5 5.5-5s5.5 2 5.5 5"/><path d="M14 5.5a2.8 2.8 0 010 5.2M15.5 17c0-1.7-.5-3-1.3-4"/>',1],
+      ['Share','','a scene card of your taste','<path d="M10 13V3.5M6.5 7L10 3.5 13.5 7"/><path d="M4 12v3.5a1 1 0 001 1h10a1 1 0 001-1V12"/>',1]
+    ];
+    function obFeatHTML(){
+      return '<div class="ob-eyebrow2">Soundcheck lets you&hellip;</div><div class="ob-feat">'+OB_FEATURES.map(function(f){
+        return '<div class="ob-fline'+(f[4]?' ob-fweb':'')+'"><svg width="20" height="20" viewBox="0 0 20 20" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round">'+f[3]+'</svg>'+
+               '<span><b>'+f[0]+'</b> <span class="s">'+f[1]+'</span><span class="l">'+f[2]+'</span></span></div>';
+      }).join('')+'</div>';
+    }
+    // The logo mark, drawn in the button's ink. The brand's own name is never
+    // the flat accent, so it is never a tinted glyph — it is the ink on the
+    // sunset pill, which IS the gradient.
+    function obMarkHTML(){
+      return '<svg class="ob-mark" width="21" height="21" viewBox="0 0 32 32" fill="none" stroke="currentColor" aria-hidden="true">'+
+        '<rect x="2.5" y="7.5" width="27" height="17" rx="5" stroke-width="2.3"/>'+
+        '<circle cx="11.5" cy="16" r="2.7" fill="currentColor" stroke="none"/>'+
+        '<circle cx="20.5" cy="16" r="2.7" fill="currentColor" stroke="none"/>'+
+        '<path d="M14.2 16h3.6" stroke-width="2.3" stroke-linecap="round"/></svg>';
+    }
+    /**
+     * THE LANDING — one fold, and the only signed-out pitch there is.
+     *
+     * A wall of real artist faces, the headline, the box, the four things, in.
+     * It replaced a 6-slide carousel plus a 5-step wizard: one page, then the
+     * link. The city is picked for them (/api/geo), so nothing else is asked.
+     *
+     * TWO MODES, ONE SCREEN. `join` and `signin` differ in FOUR STRINGS and
+     * nothing else — same field, same button, same fold, same request. They can
+     * differ in nothing else, because /api/auth/start calls findOrCreateUser:
+     * one box has always both signed returning people in and made new accounts,
+     * and there is no second endpoint to route to. The mode exists because
+     * people LOOK FOR THE WORD "sign in", and taking the header off the phone
+     * took the only instance of it off the screen.
+     *
+     * No header on the phone: nothing to navigate to yet, and the bar cost a
+     * sixth of the fold. The brand moves INTO the button (obMarkHTML).
+     */
+    var OB_MODE={
+      join:   { h:'What&rsquo;s on, who&rsquo;s playing, and what they sound like.', sub:'The social diary for gigs.',
+                cta:'Join soundcheck', fine:'Get a magic link in your inbox to finish.',
+                ask:'Already on soundcheck?', link:'Sign in', to:'signin' },
+      signin: { h:'Welcome back.', sub:'Your gigs, your artists, your diary.',
+                cta:'Sign in', fine:'Get a magic link in your inbox.',
+                ask:'New here?', link:'Join soundcheck', to:'join' }
+    };
+    function obStepEmail(mode){
+      var m=OB_MODE[mode]||OB_MODE.join;
+      var el=obBody('<div class="ob-land">'+
+        // Every full-screen step needs a door — a mistyped address must never
+        // leave somebody stuck on it with no way back to the page.
+        '<button class="ob-x" id="ob-close1" type="button" aria-label="Close">&times;</button>'+
+        '<div class="ob-in">'+
+          '<div class="ob-brand logo-wm" style="font-size:1.15rem">sound<span class="ac">check</span></div>'+
+          '<h1 id="ob-lh">'+m.h+'</h1>'+
+          '<p class="ob-lsub" id="ob-lsub">'+m.sub+'</p>'+
+          '<div class="ob-form">'+
+            '<div class="ob-frow">'+
+              '<div class="ob-field">'+
+                '<svg width="18" height="18" viewBox="0 0 20 20" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">'+
+                  '<rect x="2.5" y="4.5" width="15" height="11" rx="2"/><path d="M3 5.5l7 5 7-5"/></svg>'+
+                '<input type="email" id="ob-email" placeholder="Your email" autocomplete="email" inputmode="email" value="'+attrEsc(_ob.email)+'">'+
+              '</div>'+
+              '<button class="ob-lcta" id="ob-send" type="button">'+obMarkHTML()+'<span id="ob-ctat">'+m.cta+'</span></button>'+
+            '</div>'+
+            '<div class="ob-err" id="ob-err"></div>'+
+            '<div class="ob-fine" id="ob-fine">'+m.fine+'</div>'+
+            '<div class="ob-route"><span id="ob-ask">'+m.ask+'</span><button type="button" id="ob-swap">'+m.link+'</button></div>'+
+          '</div>'+
+          '<div class="ob-hair"></div>'+
+          obFeatHTML()+
+        '</div>'+
+      '</div>');
+      el.classList.add('ob-landing'); document.body.classList.add('ob-landing-open');
+      obFaceWall();
       var inp=el.querySelector('#ob-email');
+      // The swap rewrites the four strings IN PLACE. Re-rendering the step would
+      // rebuild the wall (a new set of faces on a tap reads as a page change)
+      // and throw away whatever they had already typed.
+      el.querySelector('#ob-swap').addEventListener('click',function(){
+        var n=OB_MODE[m.to]; m=n;
+        el.querySelector('#ob-lh').innerHTML=n.h;
+        el.querySelector('#ob-lsub').innerHTML=n.sub;
+        el.querySelector('#ob-ctat').textContent=n.cta;
+        el.querySelector('#ob-ask').textContent=n.ask;
+        el.querySelector('#ob-fine').textContent=n.fine;
+        el.querySelector('#ob-swap').textContent=n.link;
+        inp.focus();
+      });
       function go(){
         var em=inp.value.trim().toLowerCase();
         if(!/^[^\s@]+@[^\s@]+\.[^\s@]+$/.test(em)){ el.querySelector('#ob-err').textContent='That email doesn’t look right.'; return; }
@@ -12228,9 +12338,11 @@
           .catch(function(){ b.disabled=false; el.querySelector('#ob-err').textContent='Couldn’t send just now — try again.'; });
       }
       el.querySelector('#ob-send').addEventListener('click',go);
-      inp.addEventListener('keydown',function(e){ if(e.key==='Enter') go(); });
       el.querySelector('#ob-close1').addEventListener('click',obClose);
-      setTimeout(function(){ inp.focus(); },80);
+      inp.addEventListener('keydown',function(e){ if(e.key==='Enter') go(); });
+      // No autofocus. On a phone the keyboard would open over the features and
+      // the fold would never be seen at all — which is the whole point of it.
+      if(window.matchMedia && window.matchMedia('(min-width:900px)').matches) setTimeout(function(){ inp.focus(); },80);
     }
     function obStepInbox(){
       var el=obBody('<div class="ob-eyebrow">Check your inbox</div>'+
@@ -12505,6 +12617,7 @@
       }catch(e){ if(e && e.name==='AbortError') return; showToast('Couldn’t fetch the card — try again.'); }
     }
     window.scOnboard=scOnboard;
+    window.promoAct=promoAct;   // verify-landing.mjs asserts the banner's route
 
     function openLog(prefill){
       setRoute('log');
@@ -13368,7 +13481,7 @@
     //
     // One mechanism rather than four patches, so a fifth scroller added later
     // inherits it. Edges are MEASURED — a scroller that fits is never faded.
-    var XFADE_SEL = '.daystrip, .fp-tabs, .pb-rot-rail, .ob-car, .gd-chips';
+    var XFADE_SEL = '.daystrip, .fp-tabs, .pb-rot-rail, .gd-chips';
     function syncXFade(el){
       if(!el) return;
       var max=el.scrollWidth-el.clientWidth;

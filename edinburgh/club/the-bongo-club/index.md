@@ -10,7 +10,7 @@ The Bongo Club is a music venue in Edinburgh listed on soundcheck. 20 upcoming g
 | --- | --- | --- |
 | Sat, 19 Sept 2026 | Messenger Sound System - Bongo Return Dance |  |
 | Tue, 22 Sept 2026 | Volta Launch Night with Miss Cabbage, Sea Urchin + residents [LIMITED FREE TICKETS] | Miss Cabbage, Rodent, Sea Urchin |
-| Wed, 23 Sept 2026 | Van Rouge x The Bongo Club: Part 4 |  |
+| Wed, 23 Sept 2026 | Van Rouge x The Bongo Club presents CASE |  |
 | Fri, 25 Sept 2026 | PULSE with SPFDJ | Darrell Pulse, SPFDJ |
 | Sat, 26 Sept 2026 | Chromatic: Cornetta + Flipside | Cornetta, FLIPSIDE., Lara Sinclair, ZO3 (1) |
 | Tue, 29 Sept 2026 | Volta [LIMITED FREE TICKETS] |  |

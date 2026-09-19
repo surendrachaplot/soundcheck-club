@@ -1,6 +1,6 @@
 # nyank at flo Soakin
 
-nyank at flo Soakin on Mon 21 Sept, Osaka. 1 act on the bill: CHISE. Techno and Electronica. Preview the line-up and save it on soundcheck.
+nyank at flo Soakin on Mon 21 Sept, Osaka. 2 acts on the bill: CHISE and Sunga. Techno and Electronica. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,5 +11,6 @@ nyank at flo Soakin on Mon 21 Sept, Osaka. 1 act on the bill: CHISE. Techno and 
 ## Line-up
 
 - CHISE
+- Sunga
 
 *Source: [soundcheck](https://soundcheck.club/e/2524433-nyank-at-flo-soakin/)*

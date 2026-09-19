@@ -1,14 +1,13 @@
 # MALLAURY
 
-MALLAURY is a House and Bass artist with 6 upcoming club dates listed on soundcheck as of Sat, 19 Sept 2026, next at dubble, Amsterdam on Sat, 19 Sept 2026.
+MALLAURY is a House and Bass artist with 5 upcoming club dates listed on soundcheck as of Sat, 19 Sept 2026, next at Melkweg, Amsterdam on Sat, 3 Oct 2026.
 
-MALLAURY is a house and bass artist based in France, tracked on soundcheck, with 41 sets logged across Amsterdam, Antwerp, Paris and Rotterdam and 1 more. Often billed alongside Passion DEEZ, Cinnaman and Deez. Next up: dubble, Amsterdam on Sat 19 Sept.
+MALLAURY is a house and bass artist based in France, tracked on soundcheck, with 41 sets logged across Amsterdam, Antwerp, Paris and Rotterdam and 1 more. Often billed alongside Passion DEEZ, Cinnaman and Deez. Next up: Melkweg, Amsterdam on Sat 3 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 19 Sept 2026 | dubble | Amsterdam |
 | Sat, 3 Oct 2026 | Melkweg | Amsterdam |
 | Fri, 16 Oct 2026 | Garage Noord | Amsterdam |
 | Fri, 23 Oct 2026 | BRET | Amsterdam |

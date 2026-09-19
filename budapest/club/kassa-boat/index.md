@@ -1,8 +1,8 @@
 # Kassa Boat
 
-Kassa Boat is a music venue in Budapest with 8 upcoming gigs listed on soundcheck as of Sat, 19 Sept 2026; the next is "Cruisin after x B/plr. x Deepfields x Juuz x Flylow / SIT/ Gojnea76 / Clarkent" on Sat, 19 Sept 2026.
+Kassa Boat is a music venue in Budapest with 9 upcoming gigs listed on soundcheck as of Sat, 19 Sept 2026; the next is "Cruisin after x B/plr. x Deepfields x Juuz x Flylow / SIT/ Gojnea76 / Clarkent" on Sat, 19 Sept 2026.
 
-Kassa Boat is a music venue in Budapest listed on soundcheck. 8 upcoming gigs, with line-ups including Akác, Bug (1), Clarkent and Cristi Cons and 2 more. Browse upcoming dates, start times and who's playing. 1011 Budapest Szilágyi Dezső square dock 2.
+Kassa Boat is a music venue in Budapest listed on soundcheck. 9 upcoming gigs, with line-ups including Akác, Bug (1), Clarkent and Cristi Cons and 2 more. Browse upcoming dates, start times and who's playing. 1011 Budapest Szilágyi Dezső square dock 2.
 
 ## What's on
 
@@ -16,6 +16,7 @@ Kassa Boat is a music venue in Budapest listed on soundcheck. 8 upcoming gigs, w
 | Sat, 3 Oct 2026 | Daniel Weirdo's GROOVE THE CREW |  |
 | Sat, 10 Oct 2026 | Liquid Night invites Victor Ruiz | Dolça van Leeuwen, Dreadsun, Dual DeStress, NoNameLeft, Victor Ruiz |
 | Thu, 22 Oct 2026 | DJ Budai '30 Years Of Techno' Special guest: Sonic Rain | DJ Budai, Sonic Rain |
+| Sat, 14 Nov 2026 | Ivy Lab: A Farewell Tour | Ivy Lab |
 
 ## Address
 

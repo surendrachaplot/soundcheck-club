@@ -1,14 +1,13 @@
 # Nana Kohat
 
-Nana Kohat is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Sat, 19 Sept 2026, next at Ephigenia, Sao Paulo on Fri, 18 Sept 2026.
+Nana Kohat is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Sat, 19 Sept 2026, next at Edifício Martinelli, Sao Paulo on Sat, 3 Oct 2026.
 
-Nana Kohat is a house and disco artist tracked on soundcheck, with 39 sets logged across Berlin and Saopaulo. Often billed alongside Exequiel, Eli Iwasa and From House to Disco. Next up: Ephigenia, Saopaulo on Fri 18 Sept.
+Nana Kohat is a house and disco artist tracked on soundcheck, with 39 sets logged across Berlin and Saopaulo. Often billed alongside Exequiel, Eli Iwasa and From House to Disco. Next up: Edifício Martinelli, Saopaulo on Sat 3 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 18 Sept 2026 | Ephigenia | Sao Paulo |
 | Sat, 3 Oct 2026 | Edifício Martinelli | Sao Paulo |
 
 ## Recently played

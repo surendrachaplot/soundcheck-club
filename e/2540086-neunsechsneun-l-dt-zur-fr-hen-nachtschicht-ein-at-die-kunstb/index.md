@@ -1,6 +1,6 @@
 # neunsechsneun lädt zur frühen Nachtschicht ein at Die Kunstbar
 
-neunsechsneun lädt zur frühen Nachtschicht ein at Die Kunstbar on Fri 6 Nov, Cologne. 3 acts on the bill: CARL1TA, PATEK and Urem. Techno. Preview the line-up and save it on soundcheck.
+neunsechsneun lädt zur frühen Nachtschicht ein at Die Kunstbar on Fri 6 Nov, Cologne. 5 acts on the bill: andré wiese, CARL1TA, Dj Bowlz and PATEK and 1 more. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,7 +10,9 @@ neunsechsneun lädt zur frühen Nachtschicht ein at Die Kunstbar on Fri 6 Nov, C
 
 ## Line-up
 
+- andré wiese
 - CARL1TA
+- Dj Bowlz
 - PATEK
 - Urem
 

@@ -8,7 +8,7 @@ UNLOCKED is a music venue in London listed on soundcheck. 10 upcoming gigs, with
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 2 Oct 2026 | Parable: KAS:ST at UNLOCKED | KAS:ST |
+| Fri, 2 Oct 2026 | Parable: KAS:ST at UNLOCKED | KAS:ST, Stefan Rose |
 | Sat, 3 Oct 2026 | High Fade presents 'Twice As Nice' London | High Fade |
 | Fri, 16 Oct 2026 | Labyrinth presents: Carlita TELEPATHY Album Pre-release Listening Party | Carlita |
 | Sat, 17 Oct 2026 | Dosem presents 'Passion' | Alythia Kwan, Dosem, My Friend |

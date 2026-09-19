@@ -1,14 +1,13 @@
 # Spkrbox
 
-Spkrbox is a music venue in Detroit with 10 upcoming gigs listed on soundcheck as of Sat, 19 Sept 2026; the next is "Saturday Grind" on Sat, 19 Sept 2026.
+Spkrbox is a music venue in Detroit with 9 upcoming gigs listed on soundcheck as of Sat, 19 Sept 2026; the next is "Drama" on Sat, 19 Sept 2026.
 
-Spkrbox is a music venue in Detroit listed on soundcheck. 10 upcoming gigs, with line-ups including A. Garcia, Brent Shay, Cody Hammer and .hisham and 2 more. Browse upcoming dates, start times and who's playing. 200 Grand River Ave, Detroit, MI 48226, United States.
+Spkrbox is a music venue in Detroit listed on soundcheck. 9 upcoming gigs, with line-ups including A. Garcia, Brent Shay, Cody Hammer and .hisham and 2 more. Browse upcoming dates, start times and who's playing. 200 Grand River Ave, Detroit, MI 48226, United States.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 19 Sept 2026 | Saturday Grind |  |
 | Sat, 19 Sept 2026 | Drama | Tylr |
 | Sat, 19 Sept 2026 | 3K Techno | Milan Ariel, YerikODJ |
 | Sun, 20 Sept 2026 | SPKR BRNCH |  |

@@ -9,7 +9,7 @@ clubasia is a music venue in Tokyo listed on soundcheck. 13 upcoming gigs, with 
 | Date | Gig | Line-up |
 | --- | --- | --- |
 | Sun, 20 Sept 2026 | VITA 11th Anniversary -A New Chapter- | Karsten Sollors |
-| Mon, 21 Sept 2026 | Doc Martin *ALL NIGHT LONG 『THE HOUSE TOKYO』 | Doc Martin |
+| Mon, 21 Sept 2026 | Doc Martin *ALL NIGHT LONG 『THE HOUSE TOKYO』 | Doc Martin, Hayato |
 | Wed, 23 Sept 2026 | EXODUS vol. 251 | Coretex, FUJI TRILL, Jellyf!sh, KANT, misa nakamura |
 | Thu, 24 Sept 2026 | club asia THURSDAY | AMIDAdrive, YELLOWUHURU, nano odorine, savezearth |
 | Fri, 25 Sept 2026 | Verrückt presents unchained | BLACK(JP), Jayzo, MARU (3), NIKI (JP), SWAGGER, uuu7 |

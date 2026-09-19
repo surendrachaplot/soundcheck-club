@@ -1,8 +1,8 @@
-# TBA - warehouse
+# TBA - Warehouse
 
-TBA - warehouse is a music venue in Paris with 7 upcoming gigs listed on soundcheck as of Sat, 19 Sept 2026; the next is "STATICPROOF presents: Daphni All Night Long" on Sat, 26 Sept 2026.
+TBA - Warehouse is a music venue in Paris with 7 upcoming gigs listed on soundcheck as of Sat, 19 Sept 2026; the next is "STATICPROOF presents: Daphni All Night Long" on Sat, 26 Sept 2026.
 
-TBA - warehouse is a music venue in Paris listed on soundcheck. 7 upcoming gigs, with line-ups including AEREA, beta_phase, Blachord and Daphni and 2 more. Browse upcoming dates, start times and who's playing.
+TBA - Warehouse is a music venue in Paris listed on soundcheck. 7 upcoming gigs, with line-ups including AEREA, beta_phase, Blachord and Daphni and 2 more. Browse upcoming dates, start times and who's playing.
 
 ## What's on
 

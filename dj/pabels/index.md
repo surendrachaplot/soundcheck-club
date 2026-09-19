@@ -1,8 +1,8 @@
 # Pabels
 
-Pabels is a House and Disco artist with 4 upcoming club dates listed on soundcheck as of Sat, 19 Sept 2026, next at La Nube, Buenos Aires on Sat, 19 Sept 2026.
+Pabels is a House and Disco artist with 5 upcoming club dates listed on soundcheck as of Sat, 19 Sept 2026, next at La Nube, Buenos Aires on Sat, 19 Sept 2026.
 
-Pabels is a house and disco artist tracked on soundcheck, with 70 sets logged across Barcelona, Berlin, Budapest and Buenosaires and 15 more. Often billed alongside Dobao, JUNA and Momo Trosman. Next up: La Nube, Buenosaires on Sat 19 Sept.
+Pabels is a house and disco artist tracked on soundcheck, with 71 sets logged across Barcelona, Berlin, Budapest and Buenosaires and 15 more. Often billed alongside Dobao, JUNA and Momo Trosman. Next up: La Nube, Buenosaires on Sat 19 Sept.
 
 ## Upcoming shows
 
@@ -12,6 +12,7 @@ Pabels is a house and disco artist tracked on soundcheck, with 70 sets logged ac
 | Fri, 30 Oct 2026 | Deseo BS AS | Buenos Aires |
 | Fri, 30 Oct 2026 | Deseo BS AS | Buenos Aires |
 | Sat, 14 Nov 2026 | TBA - Parque de la Ciudad, CABA | Buenos Aires |
+| Fri, 11 Dec 2026 | Club Ciudad de Buenos Aires | Buenos Aires |
 
 ## Recently played
 

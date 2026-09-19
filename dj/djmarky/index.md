@@ -1,13 +1,14 @@
 # DJ Marky
 
-DJ Marky is a Drum & Bass and House artist with 1 upcoming club date listed on soundcheck as of Sat, 19 Sept 2026, next at KOKO, London on Sat, 5 Dec 2026.
+DJ Marky is a Drum & Bass and House artist with 2 upcoming club dates listed on soundcheck as of Sat, 19 Sept 2026, next at Central 1926, Sao Paulo on Sat, 26 Sept 2026.
 
-DJ Marky is a drum & bass and house artist tracked on soundcheck, with 99 sets logged across Barcelona, Belfast, Berlin and Birmingham and 18 more. Often billed alongside MC GQ, Makoto and SP:MC. Next up: KOKO, London on Sat 5 Dec.
+DJ Marky is a drum & bass and house artist tracked on soundcheck, with 100 sets logged across Barcelona, Belfast, Berlin and Birmingham and 18 more. Often billed alongside MC GQ, Makoto and SP:MC. Next up: Central 1926, Saopaulo on Sat 26 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 26 Sept 2026 | Central 1926 | Sao Paulo |
 | Sat, 5 Dec 2026 | KOKO | London |
 
 ## Recently played

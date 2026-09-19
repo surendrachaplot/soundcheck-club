@@ -14,7 +14,7 @@ Good Room is a music venue in Newyorkcity listed on soundcheck. 14 upcoming gigs
 | Sat, 26 Sept 2026 | Denham Audio, Kellam Matthews, Arina Krondeva & Rebekah Abdeen | Arina Krondeva, Denham Audio, Kellam Matthews, Rebekah Abdeen |
 | Thu, 1 Oct 2026 | DJ Plead, rrao | DJ Plead, rrao |
 | Fri, 2 Oct 2026 | Fundido ft Emma Dufaux, Gianna, Dam Vera | Fundido, Gianna G |
-| Sat, 3 Oct 2026 | Jordan Nocturne | Jordan Nocturne |
+| Sat, 3 Oct 2026 | Jordan Nocturne, Arvin T, Laila Amira and Lady Harley (all night) | Arvin T, Jordan Nocturne, Lady Harley, Laila Amira |
 | Fri, 9 Oct 2026 | RA25: New York City | Baalti, Galcher Lustwerk, Kilopatrah Jones, Nick León, Special Guest DJ, Stacey Hotwaxx Hale, adobeprincess |
 | Sat, 10 Oct 2026 | STUNTSZ: HOME SHOPPING NETWORK | Drew Baker, Memphy, Mike Servito, Prince Rose, Ty Sunderland |
 | Sat, 24 Oct 2026 | FIXED with Mozhgan, JDH & Dave P, Universal Cave (all night) | JDH & Dave P, Mozhgan, Universal Cave |

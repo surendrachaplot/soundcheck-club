@@ -1,8 +1,8 @@
 # BRAND SHIBUYA
 
-BRAND SHIBUYA is a music venue in Tokyo with 11 upcoming gigs listed on soundcheck as of Sat, 19 Sept 2026; the next is "J.YU-KI presents. B.P.M" on Sat, 19 Sept 2026.
+BRAND SHIBUYA is a music venue in Tokyo with 12 upcoming gigs listed on soundcheck as of Sat, 19 Sept 2026; the next is "J.YU-KI presents. B.P.M" on Sat, 19 Sept 2026.
 
-BRAND SHIBUYA is a music venue in Tokyo listed on soundcheck. 11 upcoming gigs, with line-ups including AEMI, Ayantula, BEPPU and hidemi and 2 more. Browse upcoming dates, start times and who's playing. Japan, 〒150-0043 Tokyo, Shibuya City, Dogenzaka, 2 Chome−23−13 渋谷デリタワービル B1F.
+BRAND SHIBUYA is a music venue in Tokyo listed on soundcheck. 12 upcoming gigs, with line-ups including AEMI, ANiIIIIiiiKii, Ayantula and BEPPU and 2 more. Browse upcoming dates, start times and who's playing. Japan, 〒150-0043 Tokyo, Shibuya City, Dogenzaka, 2 Chome−23−13 渋谷デリタワービル B1F.
 
 ## What's on
 

@@ -9,7 +9,7 @@ flo Soakin is a music venue in Osaka listed on soundcheck. 4 upcoming gigs, with
 | Date | Gig | Line-up |
 | --- | --- | --- |
 | Sat, 19 Sept 2026 | Metro | Daisuke Kakimoto, Norio, Roy Comanchero |
-| Mon, 21 Sept 2026 | nyank | CHISE |
+| Mon, 21 Sept 2026 | nyank | CHISE, Sunga |
 | Tue, 22 Sept 2026 | City Boy Lounge | CityBoyLounge, Ko Yang (JP), SEIJI (2) |
 | Sat, 10 Oct 2026 | POCKET | Koji Nakamura |
 

@@ -1,8 +1,8 @@
 # Armand Van Helden
 
-Armand Van Helden is a House and Disco artist with 6 upcoming club dates listed on soundcheck as of Sat, 19 Sept 2026, next at DRUMSHEDS, London on Sat, 19 Sept 2026.
+Armand Van Helden is a House and Tech House artist with 6 upcoming club dates listed on soundcheck as of Sat, 19 Sept 2026, next at DRUMSHEDS, London on Sat, 19 Sept 2026.
 
-Armand Van Helden is a house and disco artist tracked on soundcheck, with 107 sets logged across Amsterdam, Athens, Barcelona and Berlin and 31 more. Often billed alongside Fatzo, Oden and MiNNA. Next up: DRUMSHEDS, London on Sat 19 Sept.
+Armand Van Helden is a house and tech house artist tracked on soundcheck, with 107 sets logged across Amsterdam, Athens, Barcelona and Berlin and 31 more. Often billed alongside Fatzo, Oden and MiNNA. Next up: DRUMSHEDS, London on Sat 19 Sept.
 
 ## Upcoming shows
 

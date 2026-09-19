@@ -1,6 +1,6 @@
 # Mondo Ritmo presents Aoi Kurihara (Tokyo) at Whitehart Bar
 
-Mondo Ritmo presents Aoi Kurihara (Tokyo) at Whitehart Bar on Sat 19 Sept, Melbourne. 2 acts on the bill: Aoi Kurihara and MYTHTAPES. Balearic and Deep House. Preview the line-up and save it on soundcheck.
+Mondo Ritmo presents Aoi Kurihara (Tokyo) at Whitehart Bar on Sat 19 Sept, Melbourne. 2 acts on the bill: Aoi Kurihara and MYTHTAPES. Deep House and Balearic. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

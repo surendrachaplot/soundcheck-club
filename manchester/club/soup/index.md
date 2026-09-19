@@ -17,7 +17,7 @@ Soup is a music venue in Manchester listed on soundcheck. 17 upcoming gigs, with
 | Fri, 2 Oct 2026 | Grey Lantern presents: Youthmovies / Zac Clowe |  |
 | Sat, 3 Oct 2026 | Keeno Music - Manchester | Keeno |
 | Thu, 8 Oct 2026 | heylucas (live) |  |
-| Fri, 9 Oct 2026 | Onsite Records: Birrell b2b Jovak (all night long) | Birrell, Jovak |
+| Fri, 9 Oct 2026 | Onsite Records: Birrell and Jovak (all night long) | Birrell, Jovak |
 
 ## Address
 
